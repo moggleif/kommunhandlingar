@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7080f49f194742605d84db42/1737355581
 sha256: 0c8012f9e7abab23ae3aeaf4fc942ca1a3998fe0008f9e9ce5f852a6ef42c4cb
 bytes: 2642820
 sidor: 61
-hamtad: 2026-10-07T22:51:42+00:00
-konverterad: 2026-10-07T22:51:54+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T07:00:49+00:00
+konverterad: 2026-10-14T07:01:01+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [44]
+figurer: [46, 54]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -816,11 +816,20 @@ skolbiblioteken.
 
 4
 
-[Tabell 24-1](handlingar.tabeller/24-1.csv)
+[Tabell 24-25-1](handlingar.tabeller/24-25-1.csv)
 
 | Ramfördelning/ anslagsbindningsnivå | Budget 2024 | Budget 2025 |
 | --- | --- | --- |
 | Nämnd och styrelse | 2 344 | 2 434 |
+| Öppen förskola | 5 777 | 5 149 |
+| Förskola | 608 127 | 604 457 |
+| Pedagogisk Omsorg | 9 578 | 9 570 |
+| Fritidshem | 189 104 | 202 567 |
+| Förskoleklass & Grundskola | 1 020 641 | 1 050 916 |
+| Anpassad grundskola | 44 481 | 45 480 |
+| Gemensam verksamhet, lokaler, stödverksamhet | 347 344 | 414 149 |
+| LSS,Korttidstillsyn efter 13 års ålder | 4 364 | 5 100 |
+| Summa | 2 231 760 | 2 339 822 |
 
 <!-- sida 25 -->
 
@@ -855,20 +864,7 @@ Detaljbudgetar för respektive verksamhet inrapporteras senast den 2025-01-31.
 
 5
 
-[Tabell 25-1](handlingar.tabeller/25-1.csv)
-
-| Öppen förskola | 5 777 | 5 149 |
-| --- | --- | --- |
-| Förskola | 608 127 | 604 457 |
-| Pedagogisk Omsorg | 9 578 | 9 570 |
-| Fritidshem | 189 104 | 202 567 |
-| Förskoleklass & Grundskola | 1 020 641 | 1 050 916 |
-| Anpassad grundskola | 44 481 | 45 480 |
-| Gemensam verksamhet, lokaler, stödverksamhet | 347 344 | 414 149 |
-| LSS,Korttidstillsyn efter 13 års ålder | 4 364 | 5 100 |
-| Summa | 2 231 760 | 2 339 822 |
-
-[Tabell 25-2](handlingar.tabeller/25-2.csv)
+[Tabell 25-26-1](handlingar.tabeller/25-26-1.csv)
 
 | Pedagogisk<br>område | Budget<br>2024, tkr | Budget<br>2025, tkr | Antal elever<br>grundskola/anpassad<br>grundskola 2025 | Antal elever<br>fritidshem<br>2025 | Antalet<br>förskolebarn<br>& ped omsorg<br>2025 |
 | --- | --- | --- | --- | --- | --- |
@@ -876,6 +872,12 @@ Detaljbudgetar för respektive verksamhet inrapporteras senast den 2025-01-31.
 | PO Centrum | 471 390 | 481 064 | 2 617 | 873 | 1 088 |
 | PO Söder | 606 185 | 625 427 | 3 368 | 1 486 | 1 303 |
 | Enhet ledning | 7 891 | 9 030 |  |  |  |
+| Myndighet &<br>Stöd | 85 679 | 88 211 |  |  |  |
+| Ekonomi &<br>Planering | 21 040 | 27 311 |  |  |  |
+| Kvalité &<br>Utveckling | 42 663 | 40 362 |  |  |  |
+| HR &<br>Kommunikation | 6 342 | 6 604 |  |  |  |
+| Centralt | 454 058 | 526 701 | 2 324 | 928 | 817 |
+| Totalt | 2 231 760 | 2 339 184 | 11 811 | 4 880 | 4 370 |
 
 <!-- sida 26 -->
 
@@ -908,24 +910,13 @@ Kommunfullmäktige beslutade att fastställa investeringsbudgeten för år 2025 
 
 [Tabell 26-1](handlingar.tabeller/26-1.csv)
 
-| Pedagogisk<br>område | Budget<br>2024, tkr | Budget<br>2025, tkr | Antal elever<br>grundskola/anpassad<br>grundskola 2025 | Antal elever<br>fritidshem<br>2025 | Antalet<br>förskolebarn<br>& ped omsorg<br>2025 |
-| --- | --- | --- | --- | --- | --- |
-| Myndighet &<br>Stöd | 85 679 | 88 211 |  |  |  |
-| Ekonomi &<br>Planering | 21 040 | 27 311 |  |  |  |
-| Kvalité &<br>Utveckling | 42 663 | 40 362 |  |  |  |
-| HR &<br>Kommunikation | 6 342 | 6 604 |  |  |  |
-| Centralt | 454 058 | 526 701 | 2 324 | 928 | 817 |
-| Totalt | 2 231 760 | 2 339 184 | 11 811 | 4 880 | 4 370 |
-
-[Tabell 26-2](handlingar.tabeller/26-2.csv)
-
 | Projekt | Belopp Mkr | Pågar |
 | --- | --- | --- |
 | Omställning innovation,<br>digitalisering | 16,0 | 2025 |
 | Införande verksamhetssystem | 2,0 | 2025 |
 | Totalt | 18,0 |  |
 
-[Tabell 26-3](handlingar.tabeller/26-3.csv)
+[Tabell 26-2](handlingar.tabeller/26-2.csv)
 
 | Investeringar | Bokslut 2023 | Budget 2024 | Budget 2025 | Plan 2026 | Plan 2027-29 |
 | --- | --- | --- | --- | --- | --- |
@@ -969,7 +960,7 @@ möjliga service och tjänster med de resurser vi har även i framtiden.
 
 8
 
-[Tabell 28-1](handlingar.tabeller/28-1.csv)
+[Tabell 28-29-1](handlingar.tabeller/28-29-1.csv)
 
 | Kommunövergripande<br>mål | Fokusområden | Nämndmål | Aktiviteter |
 | --- | --- | --- | --- |
@@ -983,18 +974,6 @@ möjliga service och tjänster med de resurser vi har även i framtiden.
 |  | Unga i<br>Kungsbacka<br>mår bra såväl<br>fysiskt som<br>psykiskt. | Utbildningen ska<br>stimulera till ökad<br>trygghet, glädje och<br>fysisk aktivitet | Ökad fysisk aktivitet |
 |  |  |  | UP2- basutbildning |
 |  |  |  | Hot och våld i nära<br>relation och<br>hedersrelaterat våld och<br>förtryck |
-
-<!-- sida 29 -->
-
-Nämnden för Förskola & Grundskola                Kungsbacka kommun
-Förvaltningsbudget 2025
-
-9
-
-[Tabell 29-1](handlingar.tabeller/29-1.csv)
-
-| Kommunövergripande<br>mål | Fokusområden | Nämndmål | Aktiviteter |
-| --- | --- | --- | --- |
 |  |  |  | Organiserade<br>rastaktiviteter |
 |  |  |  | Följa upp erfarenheterna<br>från de skolor som har<br>mobilförbud koppla<br>uppföljningen till<br>rastaktiviteter |
 |  |  |  | Kartlägga vilka skolor<br>som har organiserade<br>rastaktiviteter. |
@@ -1006,6 +985,13 @@ Förvaltningsbudget 2025
 |  |  |  | Pedagogiskt ledarskap. |
 |  |  |  | Ekonomisk styrning för<br>likvärdiga förutsättningar |
 |  |  |  | SKA. Systematiskt<br>skolförbättring -<br>Huvudmannens stöd<br>prioriteras och<br>differentieras utifrån<br>skolor och förskolors<br>identifierade behov.? |
+
+<!-- sida 29 -->
+
+Nämnden för Förskola & Grundskola                Kungsbacka kommun
+Förvaltningsbudget 2025
+
+9
 
 <!-- sida 30 -->
 
@@ -2179,7 +2165,7 @@ eleven avslutas.
 
 Delegeringsbeslut Ciceron för perioden 2024-12-02 -- 2025-01-13
 
-[Tabell 56-1](handlingar.tabeller/56-1.csv)
+[Tabell 56-60-1](handlingar.tabeller/56-60-1.csv)
 
 | Dok.nr | DiarieNr | Datum | Beskrivning | Handläggare | Enhet |
 | --- | --- | --- | --- | --- | --- |
@@ -2199,15 +2185,7 @@ Delegeringsbeslut Ciceron för perioden 2024-12-02 -- 2025-01-13
 | 51186 | FG-2024-00822 | 2024-12-16 | Delegeringsbeslut A 6.2 - Särö montessoriskola grsk - Beslut Bidragsnivåer<br>för fristående verksamhet budgetår 2025 grundskola mm | Gustav Sjöström | FG Ekonomi & Planering |
 | 51185 | FG-2024-00821 | 2024-12-16 | Delegeringsbeslut A 6.2 - Azbuka Lyceum Grundskola (Ryska skolan) -<br>Beslut Bidragsnivåer för fristående verksamhet budgetår 2025 grundskola<br>mm | Gustav Sjöström | FG Ekonomi & Planering |
 | 51184 | FG-2024-00820 | 2024-12-16 | Delegeringsbeslut A 6.2 - Prolympia Västra Göteborg grsk - Beslut<br>Bidragsnivåer för fristående verksamhet budgetår 2025 grundskola mm | Gustav Sjöström | FG Ekonomi & Planering |
-
-<!-- sida 57 -->
-
-Delegeringsbeslut Ciceron för perioden 2024-12-02 -- 2025-01-13
-
-[Tabell 57-1](handlingar.tabeller/57-1.csv)
-
 | 51183 | FG-2024-00819 | 2024-12-16 | Delegeringsbeslut A 6.2 - Pontos grsk - Beslut Bidragsnivåer för fristående<br>verksamhet budgetår 2025 grundskola mm | Gustav Sjöström | FG Ekonomi & Planering |
-| --- | --- | --- | --- | --- | --- |
 | 51182 | FG-2024-00818 | 2024-12-16 | Delegeringsbeslut A 6.2 - Nova Montessoriskola grsk - Beslut Bidragsnivåer<br>för fristående verksamhet budgetår 2025 grundskola mm | Gustav Sjöström | FG Ekonomi & Planering |
 | 51181 | FG-2024-00817 | 2024-12-16 | Delegeringsbeslut A 6.2 - Noblaskolan Nya Hovås grsk - Beslut<br>Bidragsnivåer för fristående verksamhet budgetår 2025 grundskola mm | Gustav Sjöström | FG Ekonomi & Planering |
 | 51180 | FG-2024-00813 | 2024-12-16 | Delegeringsbeslut A 6.2 - Lilla Samskolan Göteborg grsk - Beslut<br>Bidragsnivåer för fristående verksamhet budgetår 2025 grundskola mm | Gustav Sjöström | FG Ekonomi & Planering |
@@ -2220,15 +2198,7 @@ Delegeringsbeslut Ciceron för perioden 2024-12-02 -- 2025-01-13
 | 51173 | FG-2024-00804 | 2024-12-16 | Delegeringsbeslut A 6.2 - Internationella Engelska Skolan Krokslätt grsk -<br>Beslut Bidragsnivåer för fristående verksamhet budgetår 2025<br>förskoleklass, grundskola | Gustav Sjöström | FG Ekonomi & Planering |
 | 51172 | FG-2024-00803 | 2024-12-16 | Delegeringsbeslut A 6.2 - Internationella Engelska Skolan Johanneberg grsk<br>- Beslut Bidragsnivåer för fristående verksamhet budgetår 2025<br>förskoleklass, grundskola | Gustav Sjöström | FG Ekonomi & Planering |
 | 51170 | FG-2024-00802 | 2024-12-16 | Delegeringsbeslut A 6.2 - Högre Samskolan Göteborg grsk - Beslut<br>Bidragsnivåer för fristående verksamhet budgetår 2025 förskoleklass,<br>grundskola | Gustav Sjöström | FG Ekonomi & Planering |
-
-<!-- sida 58 -->
-
-Delegeringsbeslut Ciceron för perioden 2024-12-02 -- 2025-01-13
-
-[Tabell 58-1](handlingar.tabeller/58-1.csv)
-
 | 51169 | FG-2024-00801 | 2024-12-16 | Delegeringsbeslut A 6.2 - Gottskär grundskola - Beslut Bidragsnivåer för<br>fristående verksamhet budgetår 2025 förskoleklass, grundskola, anpassad<br>grundskola, fritidshem | Gustav Sjöström | FG Ekonomi & Planering |
-| --- | --- | --- | --- | --- | --- |
 | 51168 | FG-2024-00800 | 2024-12-16 | Delegeringsbeslut A 6.2 - Franska skolan grsk - Beslut Bidragsnivåer för<br>fristående verksamhet budgetår 2025 förskoleklass, grundskola, anpassad<br>grundskola, fritidshem | Gustav Sjöström | FG Ekonomi & Planering |
 | 51167 | FG-2024-00799 | 2024-12-16 | Delegeringsbeslut A 6.2 - Engelska Skolan grsk - Beslut Bidragsnivåer för<br>fristående verksamhet budgetår 2025 förskoleklass, grundskola, anpassad<br>grundskola, fritidshem | Gustav Sjöström | FG Ekonomi & Planering |
 | 51166 | FG-2024-00798 | 2024-12-16 | Delegeringsbeslut A 6.2 - Örtagården förskola - Beslut Bidragsnivåer för<br>fristående verksamhet budgetår 2025 förskola | Gustav Sjöström | FG Ekonomi & Planering |
@@ -2242,15 +2212,7 @@ Delegeringsbeslut Ciceron för perioden 2024-12-02 -- 2025-01-13
 | 51157 | FG-2024-00788 | 2024-12-16 | Delegeringsbeslut A 6.2 - Skalman förskola - Beslut Bidragsnivåer för<br>fristående verksamhet budgetår 2025 förskola | Gustav Sjöström | FG Ekonomi & Planering |
 | 51156 | FG-2024-00787 | 2024-12-16 | Delegeringsbeslut A 6.2 - Regnbågens förskola - Beslut Bidragsnivåer för<br>fristående verksamhet budgetår 2025 förskola | Gustav Sjöström | FG Ekonomi & Planering |
 | 51152 | FG-2024-00786 | 2024-12-13 | Delegeringsbeslut A 6.2 - Pontos förskola - Beslut Bidragsnivåer för<br>fristående verksamhet budgetår 2025 förskola | Gustav Sjöström | FG Ekonomi & Planering |
-
-<!-- sida 59 -->
-
-Delegeringsbeslut Ciceron för perioden 2024-12-02 -- 2025-01-13
-
-[Tabell 59-1](handlingar.tabeller/59-1.csv)
-
 | 51151 | FG-2024-00785 | 2024-12-13 | Delegeringsbeslut A 6.2 - Pysslingen Förskola & Skolor AB - Beslut<br>Bidragsnivåer för fristående verksamhet budgetår 2025 förskola | Gustav Sjöström | FG Ekonomi & Planering |
-| --- | --- | --- | --- | --- | --- |
 | 51150 | FG-2024-00784 | 2024-12-13 | Delegeringsbeslut A 6.2 - Onsala småbarnsförskola - Beslut Bidragsnivåer<br>för fristående verksamhet budgetår 2025 förskola | Gustav Sjöström | FG Ekonomi & Planering |
 | 51149 | FG-2024-00783 | 2024-12-13 | Delegeringsbeslut A 6.2 - Noaks Ark förskola - Beslut Bidragsnivåer för<br>fristående verksamhet budgetår 2025 förskola | Gustav Sjöström | FG Ekonomi & Planering |
 | 51148 | FG-2024-00776 | 2024-12-13 | Delegeringsbeslut A 6.2 - Kunskapsskolan Krokslätt - Beslut Bidragsnivåer<br>för fristående verksamhet budgetår 2025 förskoleklass, grundskola mm | Gustav Sjöström | FG Ekonomi & Planering |
@@ -2265,15 +2227,7 @@ Delegeringsbeslut Ciceron för perioden 2024-12-02 -- 2025-01-13
 | 51139 | FG-2024-00773 | 2024-12-13 | Delegeringsbeslut A 6.2 - Karamellen förskola - Beslut Bidragsnivåer för<br>fristående verksamhet budgetår 2025 förskola | Gustav Sjöström | FG Ekonomi & Planering |
 | 51137 | FG-2024-00771 | 2024-12-13 | Delegeringsbeslut A 6.2 - Happy Kids Kållered förskola - Beslut<br>Bidragsnivåer för fristående verksamhet budgetår 2025 förskola | Gustav Sjöström | FG Ekonomi & Planering |
 | 51136 | FG-2024-00770 | 2024-12-13 | Delegeringsbeslut A 6.2 - Happy Kids Kungsbacka förskola - Beslut<br>Bidragsnivåer för fristående verksamhet budgetår 2025 förskola | Gustav Sjöström | FG Ekonomi & Planering |
-
-<!-- sida 60 -->
-
-Delegeringsbeslut Ciceron för perioden 2024-12-02 -- 2025-01-13
-
-[Tabell 60-1](handlingar.tabeller/60-1.csv)
-
 | 51135 | FG-2024-00769 | 2024-12-13 | Delegeringsbeslut A 6.2 - Hagen förskola - Beslut Bidragsnivåer för<br>fristående verksamhet budgetår 2025 förskola | Gustav Sjöström | FG Ekonomi & Planering |
-| --- | --- | --- | --- | --- | --- |
 | 51134 | FG-2024-00768 | 2024-12-13 | Delegeringsbeslut A 6.2 - Gårdakottarna - Beslut Bidragsnivåer för<br>fristående verksamhet budgetår 2025 pedagogisk omsorg | Gustav Sjöström | FG Ekonomi & Planering |
 | 51133 | FG-2024-00767 | 2024-12-13 | Delegeringsbeslut A 6.2 - Grunden förskola - Beslut Bidragsnivåer för<br>fristående verksamhet budgetår 2025 förskola | Gustav Sjöström | FG Ekonomi & Planering |
 | 51132 | FG-2024-00764 | 2024-12-13 | Delegeringsbeslut A 6.2 - Föräldrakooperativet Mullebo - Beslut<br>Bidragsnivåer för fristående verksamhet budgetår 2025 förskola | Gustav Sjöström | FG Ekonomi & Planering |
@@ -2285,6 +2239,22 @@ Delegeringsbeslut Ciceron för perioden 2024-12-02 -- 2025-01-13
 | 51098 | FG-2024-00827 | 2024-12-10 | Delegeringsbeslut A6.1 tilläggsbelopp | Bertil Ljungblad | FG Myndighet & Stöd |
 | 51096 | FG-2024-00691 | 2024-12-10 | Delegeringsbeslut A 1.2 Beslut efter utredning av klagomål | Bertil Ljungblad | FG Myndighet & Stöd |
 | 51039 | FG-2024-00059 | 2024-12-05 | Delegeringsbeslut A 4.1. Beslut skolskjuts | Fredrik Ajell |  |
+
+<!-- sida 57 -->
+
+Delegeringsbeslut Ciceron för perioden 2024-12-02 -- 2025-01-13
+
+<!-- sida 58 -->
+
+Delegeringsbeslut Ciceron för perioden 2024-12-02 -- 2025-01-13
+
+<!-- sida 59 -->
+
+Delegeringsbeslut Ciceron för perioden 2024-12-02 -- 2025-01-13
+
+<!-- sida 60 -->
+
+Delegeringsbeslut Ciceron för perioden 2024-12-02 -- 2025-01-13
 
 <!-- sida 61 -->
 

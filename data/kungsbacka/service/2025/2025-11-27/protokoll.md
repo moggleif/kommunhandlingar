@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4fd9741419ac5edf2a4d5d6/17643192904
 sha256: 06718b173f0d349d6bb3f683d0158cbf5117ee68eb8b990ce46b5571132c54ee
 bytes: 201278
 sidor: 17
-hamtad: 2026-10-08T02:01:12+00:00
-konverterad: 2026-10-08T02:01:18+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:41:18+00:00
+konverterad: 2026-10-14T09:41:24+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -532,7 +532,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 12-1](protokoll.tabeller/12-1.csv)
+[Tabell 12-14-1](protokoll.tabeller/12-14-1.csv)
 
 | Beskrivning | Inkom | Tillhör ärende | Ärendemening |
 | --- | --- | --- | --- |
@@ -540,22 +540,7 @@ Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 | Kommunstyrelsens förvaltning -<br>Tjänsteskrivelse - Antagande av<br>OPF-KR 25 – Bestämmelser om<br>omställningsstöd, pension och<br>familjeskydd för förtroendevalda<br>(OPF-KR 25) | 2025-10-16 | SE-2025-00412 | Revidering av OPF-KL18<br>(OPF-KR 22 Kungsbacka)<br>till OPF-KR25 -<br>Bestämmelser om<br>omställningsstöd, pension<br>och familjeskydd för<br>förtroendevalda<br>(KS-2024-00779) |
 | Lokala bestämmelser om<br>omställningsstöd, pension och<br>familjeskydd för förtroendevalda<br>(OPF KR-25) | 2025-10-16 | SE-2025-00412 | Revidering av OPF-KL18<br>(OPF-KR 22 Kungsbacka)<br>till OPF-KR25 -<br>Bestämmelser om<br>omställningsstöd, pension<br>och familjeskydd för<br>förtroendevalda<br>(KS-2024-00779) |
 | (Förskola & Grundskola<br>arbetsutskott) (Beslut § 96) -<br>Lokalbehov inklusive utblicksår | 2025-10-21 | SE 2025-00416 | Förskola & Grundskola -<br>Lokalbehov 2027-2031<br>inklusive utblicksår 2032-<br>2036 (FG-2025-00563) |
-
-<!-- sida 13 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          13 (17)
-Nämnden för Service
-Datum
-2025-11-27
-
-Det här dokumentet är digitalt signerat
-Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
-Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 13-1](protokoll.tabeller/13-1.csv)
-
 | Förskola & Grundskola -<br>Tjänsteskrivelse - Lokalbehov 2027-<br>2031 utblicksår 2032-2036 | 2025-10-21 | SE 2025-00416 | Förskola & Grundskola -<br>Lokalbehov 2027-2031<br>inklusive utblicksår 2032-<br>2036 (FG-2025-00563) |
-| --- | --- | --- | --- |
 | Förskola & Grundskola -<br>Lokalbehov 2027-2031, utblicksår<br>2032-2036 | 2025-10-22 | SE 2025-00416 | Förskola & Grundskola -<br>Lokalbehov 2027-2031<br>inklusive utblicksår 2032-<br>2036 (FG-2025-00563) |
 | Bilaga – Behovsbeskrivning<br>Onsala skolor | 2025-10-22 | SE-2025-00416 | Förskola & Grundskola -<br>Lokalbehov 2027-2031<br>inklusive utblicksår 2032-<br>2036 (FG-2025-00563) |
 | Bilaga - Behovsbeskrivning<br>Åsaskolan omställning 4-9 | 2025-10-22 | SE-2025-00416 | Förskola & Grundskola -<br>Lokalbehov 2027-2031<br>inklusive utblicksår 2032-<br>2036 (FG-2025-00563) |
@@ -567,6 +552,22 @@ Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 | Koncept utbildningslokaler okt -25 | 2025-10-22 | SE 2025-00417 | Koncept utbildningslokaler<br>(FG-2025-00564) |
 | Lokalförteckning Grundskola | 2025-10-22 | SE 2025-00417 | Koncept utbildningslokaler<br>(FG-2025-00564) |
 | Lokalförteckning Förskola | 2025-10-22 | SE 2025-00417 | Koncept utbildningslokaler<br>(FG-2025-00564) |
+| Presentation - Koncept<br>utbildningslokaler ver. 1.6 | 2025-10-22 | SE 2025-00417 | Koncept utbildningslokaler<br>(FG-2025-00564) |
+| (Kommunstyrelsen) (Beslut § 204)<br>Uppstart av projekt i lokalplan -<br>Åsaskolan – verksamhetsanpassning<br>för att uppfylla myndighetskrav | 2025-10-28 | SE-2025-00432 | Uppstart av projekt i<br>lokalplan Åsaskolan –<br>verksamhetsanpassning för<br>att uppfylla myndighetskrav<br>( KS-2025-00598) |
+| (Kommunfullmäktige)<br>(Beslut § 218) - Delårsrapport 2025<br>för Kungsbacka kommun | 2025-11-12 | SE 2025-00453 | Delårsrapport 2025 för<br>Kungsbacka kommun |
+| Kommunstyrelsens förvaltning<br>Tjänsteskrivelse - Delårsrapport<br>2025 för Kungsbacka kommun | 2025-11-12 | SE 2025-00453 | Delårsrapport 2025 för<br>Kungsbacka kommun |
+| Delårsbokslut 2025 | 2025-11-12 | SE 2025-00453 | Delårsrapport 2025 för<br>Kungsbacka kommun |
+
+<!-- sida 13 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          13 (17)
+Nämnden för Service
+Datum
+2025-11-27
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
+Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
 <!-- sida 14 -->
 
@@ -586,15 +587,6 @@ nämnden för Service bifaller det.
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 14-1](protokoll.tabeller/14-1.csv)
-
-| Presentation - Koncept<br>utbildningslokaler ver. 1.6 | 2025-10-22 | SE 2025-00417 | Koncept utbildningslokaler<br>(FG-2025-00564) |
-| --- | --- | --- | --- |
-| (Kommunstyrelsen) (Beslut § 204)<br>Uppstart av projekt i lokalplan -<br>Åsaskolan – verksamhetsanpassning<br>för att uppfylla myndighetskrav | 2025-10-28 | SE-2025-00432 | Uppstart av projekt i<br>lokalplan Åsaskolan –<br>verksamhetsanpassning för<br>att uppfylla myndighetskrav<br>( KS-2025-00598) |
-| (Kommunfullmäktige)<br>(Beslut § 218) - Delårsrapport 2025<br>för Kungsbacka kommun | 2025-11-12 | SE 2025-00453 | Delårsrapport 2025 för<br>Kungsbacka kommun |
-| Kommunstyrelsens förvaltning<br>Tjänsteskrivelse - Delårsrapport<br>2025 för Kungsbacka kommun | 2025-11-12 | SE 2025-00453 | Delårsrapport 2025 för<br>Kungsbacka kommun |
-| Delårsbokslut 2025 | 2025-11-12 | SE 2025-00453 | Delårsrapport 2025 för<br>Kungsbacka kommun |
 
 <!-- sida 15 -->
 
@@ -629,7 +621,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 15-1](protokoll.tabeller/15-1.csv)
+[Tabell 15-16-1](protokoll.tabeller/15-16-1.csv)
 
 | Ärende/ärendegrupp<br>enligt<br>delegationslistan | Beslut, insats<br>samt<br>ev. omfattning | Beslutsfattare | Beslutsdatum | Dnr |
 | --- | --- | --- | --- | --- |
@@ -637,6 +629,10 @@ Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 | 2.3.3<br>LAS § 7, AB §§ 33-35 | Uppsägning av<br>personliga skäl | Julia Tryggvadottir<br>Tollesson<br>FC | 2025-09-04 |  |
 | 2.3.8<br>AB § 10 mom. 1-3 | Avstängning | Mats Söderström<br>VC | 2025-09-29 |  |
 | 2.1.10<br>Dataskyddsförordningen<br>GDPR, artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident<br>(åtgärdsuppföljning) | Julia Tryggvadottir<br>Tollesson<br>FC | 2025-10-25 | SE-2025-00147 |
+| 2.1.10<br>Dataskyddsförordningen<br>GDPR, artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident | Julia Tryggvadottir<br>Tollesson<br>FC | 2025-10-29 | SE-2025-00420 |
+| Nämnden för Service<br>2024-10-24 § 81 | Utse informations-<br>redogörare<br>förvaltningen för<br>Service | Julia Tryggvadottir<br>Tollesson<br>FC | 2025-11-12 | SE-2025-00436 |
+| 2.1.10<br>Dataskyddsförordningen<br>GDPR, artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident<br>(åtgärdsuppföljning) | Julia Tryggvadottir<br>Tollesson<br>FC | 2025-11-13 | SE-2025-00420 |
+| 2.1.16 | Underteckna<br>bidragsansökan | Julia Tryggvadottir<br>Tollesson<br>FC | 2025-11-20 | SE-2025-00456 |
 
 <!-- sida 16 -->
 
@@ -658,14 +654,6 @@ säga förvaltningen för Service förslag, och att nämnden för Service bifall
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 16-1](protokoll.tabeller/16-1.csv)
-
-| 2.1.10<br>Dataskyddsförordningen<br>GDPR, artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident | Julia Tryggvadottir<br>Tollesson<br>FC | 2025-10-29 | SE-2025-00420 |
-| --- | --- | --- | --- | --- |
-| Nämnden för Service<br>2024-10-24 § 81 | Utse informations-<br>redogörare<br>förvaltningen för<br>Service | Julia Tryggvadottir<br>Tollesson<br>FC | 2025-11-12 | SE-2025-00436 |
-| 2.1.10<br>Dataskyddsförordningen<br>GDPR, artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident<br>(åtgärdsuppföljning) | Julia Tryggvadottir<br>Tollesson<br>FC | 2025-11-13 | SE-2025-00420 |
-| 2.1.16 | Underteckna<br>bidragsansökan | Julia Tryggvadottir<br>Tollesson<br>FC | 2025-11-20 | SE-2025-00456 |
 
 <!-- sida 17 -->
 

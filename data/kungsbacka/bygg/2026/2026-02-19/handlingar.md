@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.46db326b19c4795e008550ee/1770968657
 sha256: 6573aa9c30986186c4b437ea897115c106f86cccab9e2fb4dd42d5472452d937
 bytes: 30954002
 sidor: 134
-hamtad: 2026-10-08T00:02:32+00:00
-konverterad: 2026-10-08T00:03:46+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T08:00:24+00:00
+konverterad: 2026-10-14T08:01:28+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [84, 85]
-figurer: null
-tolkade: null
+figurer: [7, 60, 84, 85, 86, 90, 93, 94, 95, 96, 97, 111, 116, 117, 118, 119, 120, 121, 122, 123, 128, 130, 131, 134]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -957,8 +957,9 @@ effektivare mätning av vattenprover i fält.
 
 [Tabell 22-1](handlingar.tabeller/22-1.csv)
 
-| Utfall (miljoner kronor)<br>Intäkter | Utfall 2023<br>42,4 | Utfall 2024<br>50,2 | Utfall 2025<br>52,2 |
+| Utfall (miljoner kronor) | Utfall 2023 | Utfall 2024 | Utfall 2025 |
 | --- | --- | --- | --- |
+| Intäkter | 42,4 | 50,2 | 52,2 |
 | Kostnader | -81,1 | -85,3 | -90,9 |
 | Netto | -38,7 | -35,1 | -38,7 |
 | Budget, netto | -40,6 | -39,1 | -40,4 |
@@ -966,8 +967,9 @@ effektivare mätning av vattenprover i fält.
 
 [Tabell 22-2](handlingar.tabeller/22-2.csv)
 
-| Utfall (miljoner kronor)<br>Utgifter | Utfall 2023<br>-0,2 | Utfall 2024<br>-0,1 | Utfall 2025<br>-0,1 |
+| Utfall (miljoner kronor) | Utfall 2023 | Utfall 2024 | Utfall 2025 |
 | --- | --- | --- | --- |
+| Utgifter | -0,2 | -0,1 | -0,1 |
 | Inkomster | 0 | 0 | 0 |
 | Netto | -0,2 | -0,1 | -0,1 |
 
@@ -1761,10 +1763,12 @@ Arbetet med kommunens övergripande arbetsmiljömål har bedrivits inom ramen f�
 
 [Tabell 37-1](handlingar.tabeller/37-1.csv)
 
-| Namn<br>Riskobservation | 2023<br>4 | 2024<br>8 | 2025<br>4 |
+| Namn | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- |
+| Riskobservation | 4 | 8 | 4 |
 | Tillbud | 14 | 14 | 10 |
-| Olycksfall<br>Total | 4<br>22 | 4<br>26 | 5<br>19 |
+| Olycksfall | 4 | 4 | 5 |
+| Total | 22 | 26 | 19 |
 
 <!-- sida 38 -->
 
@@ -2862,7 +2866,7 @@ respektive 10 kap 1§ och omfattas därför inte av denna granskning.
 
 [Tabell 64-1](handlingar.tabeller/64-1.csv)
 
-| Verksamhet | Andel av<br>verksamhetsvolym %<br>Bokslut Bokslut<br>2024 2025 |  | Kostnad för<br>verksamhet mnkr<br>Bokslut Bokslut<br>2024 2025 |  |
+| Verksamhet | Andel av<br>verksamhetsvolym %<br>Bokslut<br>2024 | Bokslut<br>2025 | Kostnad för<br>verksamhet mnkr<br>Bokslut<br>2024 | Bokslut<br>2025 |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -2967,24 +2971,13 @@ Nämndens självskattning
 
 12
 
-[Tabell 66-1](handlingar.tabeller/66-1.csv)
+[Tabell 66-67-1](handlingar.tabeller/66-67-1.csv)
 
 | Område<br>Uppdrag och mål | Frågor Svar 2025<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
 | --- | --- |
 |  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |
 |  | Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |
-
-<!-- sida 67 -->
-
-Byggnadsnämnden                                  Kungsbacka kommun
-Internkontrollrapport 2025
-
-13
-
-[Tabell 67-1](handlingar.tabeller/67-1.csv)
-
 | Område | Frågor Svar 2025<br>Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |
-| --- | --- |
 | Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |
 |  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |
 |  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
@@ -3000,6 +2993,13 @@ Internkontrollrapport 2025
 |  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
 | Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
 |  | Vi har en fungerande introduktion av nya<br>medarbetare |
+
+<!-- sida 67 -->
+
+Byggnadsnämnden                                  Kungsbacka kommun
+Internkontrollrapport 2025
+
+13
 
 <!-- sida 68 -->
 
@@ -4370,7 +4370,7 @@ Egenskapsbestämmelser  för kvartersmark
 
 Samrådshandling                                            13 (49)
 
-[Tabell 98-1](handlingar.tabeller/98-1.csv)
+[Tabell 98-100-1](handlingar.tabeller/98-100-1.csv)
 
 | Beteckning | Bestämmelse | Syfte och motiv |
 | --- | --- | --- |
@@ -4378,17 +4378,7 @@ Samrådshandling                                            13 (49)
 | e<br>2 | Utnyttjandegrad:<br>Största tillåtna byggnadsarea är 200 m2 för<br>friliggande en- och tvåbostadshus. Härutöver<br>medges komplementbyggnader om<br>sammanlagt max 30 m2 byggnadsarea. | Syftet är att reglera lämplig omfattning<br>på bebyggelsen. Motivet är att tätheten<br>på ny bebyggelse ska förhålla sig till<br>befintlig bebyggelse. |
 | e<br>3 | Utnyttjandegrad:<br>Största tillåtna byggnadsarea är 50 m2 | Syftet är att reglera lämplig omfattning<br>på komplementbebyggelse. Motivet är<br>att tätheten på ny bebyggelse ska<br>förhålla sig till befintlig bebyggelse. |
 | e<br>4 | Utnyttjandegrad:<br>Största tillåtna byggnadsarea är 150 m2 för<br>friliggande en-och två bostadshus. | Syftet är att reglera lämplig omfattning<br>på bebyggelsen. Motivet är att tätheten<br>på ny bebyggelse ska förhålla sig till<br>befintlig bebyggelse. |
-
-<!-- sida 99 -->
-
-Detaljplan för bostäder inom fastighet Må 3:15     Datum: 2026-01-20
-
-Samrådshandling                                            14 (49)
-
-[Tabell 99-1](handlingar.tabeller/99-1.csv)
-
 |  |  | Komplementbyggnader ligger inom<br>området med e och korsmark.<br>3 |
-| --- | --- | --- |
 | e<br>5 | Största tillåtna byggnadsarea för<br>komplementbyggnader är sammanlagt max<br>25m per bostadsenhet.<br>2 | Syftet är att reglera lämplig omfattning<br>på komplementbebyggelse. Motivet är<br>att tätheten på ny bebyggelse ska<br>förhålla sig till befintlig bebyggelse. |
 | g | Markreservat för gemensamhetsanläggningar:<br>Markreservat för gemensamhetsanläggning för<br>parkering | Syftet med bestämmelsen är att<br>möjliggöra för gemensam parkering<br>tillsammans med ny gata till<br>fastigheterna för kommande<br>bebyggelse. |
 | h<br>1 | Höjd på byggnadsverk:<br>Högsta nockhöjd på bostadshus är [siffra]<br>meter. | Syftet är att reglera lämplig höjd på<br>bebyggelsen. Motivet är att ny<br>bebyggelse ska förhålla sig till<br>befintlig bebyggelse. |
@@ -4398,6 +4388,19 @@ Samrådshandling                                            14 (49)
 | f<br>3 | Endast en- och tvåbostadshus. Bostadshus ska<br>ha en långsmal volym med sadeltak och förses<br>med röda takpannor. Fasader ska vara av<br>stående träpanel i faluröd kulör. | Syftet är att bostadshusens volym och<br>gestaltning ska utgå från de gamla<br>ekonomibyggnaderna på platsen för att<br>göra platsens historia avläsbar. |
 | o<br>1 | Takvinkel:<br>Största takvinkel för bostadsbyggnad är [siffra]<br>grader. | Syftet är att reglera lämplig<br>utformning på bebyggelsen. Motivet är<br>att ny bebyggelse ska förhålla sig till<br>befintlig bebyggelse. |
 | o<br>2 | Takvinkel:<br>Minsta takvinkel för byggnad är [siffra] grader. | Syftet är att reglera lämplig<br>utformning på bebyggelsen Motivet är |
+|  |  | att ny bebyggelse ska förhålla sig till<br>befintlig bebyggelse. |
+| u | Markreservat för allmännyttiga ändamål:<br>Markreservat för allmännyttiga underjordiska<br>ledningar. | Syftet är att säkerställa plats för<br>nödvändiga ledningsdragningar genom<br>planområdet. Motivet är att befintliga<br>och nya ledningar ska få plats inom<br>planområdet. |
+| p<br>1 | Placering:<br>Byggnader får sammanbyggas. | Syftet är att reglera lämplig placering<br>på bebyggelsen. Motivet är att<br>möjliggöra för parhus, radhus och<br>kedjehus. |
+| p<br>2 | Placering:<br>Bostadshus ska placeras med långsidan och<br>entré mot gårdsbildningen. | Syftet är att förstärka den ursprungliga<br>gårdsbildningen för att platsens<br>historia ska vara avläsbar. |
+| b | Utförande:<br>Om ekvivalent ljudnivå vid bostadens fasad är<br>>60 dBA ska minst hälften av bostadsrummen<br>vara vända mot ljuddämpad sida. För små<br>bostäder med boarea max 35 m2 gäller i stället<br>att minst hälften av bostadsrummen ska vara<br>vända mot ljuddämpas sida om ekvivalent<br>ljudnivå vid bostadens fasad är >65 dBA. | Syftet är att säkerställa god<br>boendemiljö utifrån hälsa och säkerhet.<br>Motivet är att bestämmelsen<br>säkerställer att god boendemiljö<br>uppfylls längs Gåsevadholmsvägen. |
+|  | Begränsning av markens utnyttjande:<br>Marken får endast förses med<br>komplementbyggnad. | Syftet är att reglera lämplig<br>utformning på bebyggelsen. Det västra<br>området möjliggör<br>komplementbyggnader till<br>intilliggande bostäder med motivet att<br>ny bebyggelse ska förhålla sig till<br>gårdsformen på befintlig bebyggelse.<br>Det norra området möjliggör<br>gemensamma komplementbyggnader<br>för hela planområdet. |
+|  | Begränsning av markens utnyttjande:<br>Marken får inte förses med byggnad. | Syftet är att reglera lämplig<br>utformning på bebyggelsen. Motivet är<br>att ny bebyggelse ska förhålla sig till<br>befintlig bebyggelse. |
+
+<!-- sida 99 -->
+
+Detaljplan för bostäder inom fastighet Må 3:15     Datum: 2026-01-20
+
+Samrådshandling                                            14 (49)
 
 <!-- sida 100 -->
 
@@ -4407,17 +4410,6 @@ Genomförandetid (4 kap. 21 §)
 Genomförandetiden är 5 år räknat från det datum då detaljplanen vunnit laga kraft.
 
 Samrådshandling                                            15 (49)
-
-[Tabell 100-1](handlingar.tabeller/100-1.csv)
-
-|  |  | att ny bebyggelse ska förhålla sig till<br>befintlig bebyggelse. |
-| --- | --- | --- |
-| u | Markreservat för allmännyttiga ändamål:<br>Markreservat för allmännyttiga underjordiska<br>ledningar. | Syftet är att säkerställa plats för<br>nödvändiga ledningsdragningar genom<br>planområdet. Motivet är att befintliga<br>och nya ledningar ska få plats inom<br>planområdet. |
-| p<br>1 | Placering:<br>Byggnader får sammanbyggas. | Syftet är att reglera lämplig placering<br>på bebyggelsen. Motivet är att<br>möjliggöra för parhus, radhus och<br>kedjehus. |
-| p<br>2 | Placering:<br>Bostadshus ska placeras med långsidan och<br>entré mot gårdsbildningen. | Syftet är att förstärka den ursprungliga<br>gårdsbildningen för att platsens<br>historia ska vara avläsbar. |
-| b | Utförande:<br>Om ekvivalent ljudnivå vid bostadens fasad är<br>>60 dBA ska minst hälften av bostadsrummen<br>vara vända mot ljuddämpad sida. För små<br>bostäder med boarea max 35 m2 gäller i stället<br>att minst hälften av bostadsrummen ska vara<br>vända mot ljuddämpas sida om ekvivalent<br>ljudnivå vid bostadens fasad är >65 dBA. | Syftet är att säkerställa god<br>boendemiljö utifrån hälsa och säkerhet.<br>Motivet är att bestämmelsen<br>säkerställer att god boendemiljö<br>uppfylls längs Gåsevadholmsvägen. |
-|  | Begränsning av markens utnyttjande:<br>Marken får endast förses med<br>komplementbyggnad. | Syftet är att reglera lämplig<br>utformning på bebyggelsen. Det västra<br>området möjliggör<br>komplementbyggnader till<br>intilliggande bostäder med motivet att<br>ny bebyggelse ska förhålla sig till<br>gårdsformen på befintlig bebyggelse.<br>Det norra området möjliggör<br>gemensamma komplementbyggnader<br>för hela planområdet. |
-|  | Begränsning av markens utnyttjande:<br>Marken får inte förses med byggnad. | Syftet är att reglera lämplig<br>utformning på bebyggelsen. Motivet är<br>att ny bebyggelse ska förhålla sig till<br>befintlig bebyggelse. |
 
 <!-- sida 101 -->
 
@@ -4854,7 +4846,7 @@ som exploatören utför och bekostar inom den egna kvartersmarken.
 
 Samrådshandling                                            23 (49)
 
-[Tabell 108-1](handlingar.tabeller/108-1.csv)
+[Tabell 108-109-1](handlingar.tabeller/108-109-1.csv)
 
 | Fastighet/part | Ekonomisk konsekvens |
 | --- | --- |
@@ -4863,6 +4855,13 @@ Samrådshandling                                            23 (49)
 | Exploatör/fastighetsägarna i planområdet | Inträde i befintliga<br>gemensamhetsanläggningar |
 |  |  |
 | Kommunen, VA-kollektivet | Utbyggnad av allmän plats (kommunalt<br>huvudmannaskap) och allmänna VA-<br>anläggningar |
+| Kommunen, Förvaltningen för Teknik. | Drift och underhåll av allmän plats<br>(kommunalt huvudmannaskap) och<br>allmänna VA-anläggningar |
+| Exploatör/fastighetsägarna i planområdet | Anslutningsavgifter VA, el, bredband,<br>fjärrvärme m m |
+| Kommunen/exploatören/ledningshavaren<br>(beror på om rättighet finns m m) | Flytt av befintliga ledningar |
+| Exploatören | Lantmäteriförrättning avseende<br>avstyckning av bostadsfastigheter,<br>fastighetsreglering av allmän plats med<br>kommunalt huvudmannaskap, omprövning<br>av gemensamhetsanläggningar o bildande<br>av samfällighetsföreningar. |
+| Exploatören/ledningshavare | Kommunen ansöker om<br>Lantmäteriförrättning avseende<br>ledningsrätt för nyanläggning och flytt av<br>allmänna ledningar. Förrättningskostnader<br>regleras genom exploateringsbidrag. |
+| Exploatören | Utbyggnad av anläggningar inom allmän<br>plats med enskilt huvudmannaskap och<br>inom kvartersmark |
+| Fastighetsägare i GA | Drift och underhåll av anläggningar inom<br>allmän plats med enskilt huvudmannaskap<br>och inom kvartersmark |
 
 <!-- sida 109 -->
 
@@ -4885,17 +4884,6 @@ Må 2:1.
 Förhandsbesked
 
 Samrådshandling                                            24 (49)
-
-[Tabell 109-1](handlingar.tabeller/109-1.csv)
-
-| Kommunen, Förvaltningen för Teknik. | Drift och underhåll av allmän plats<br>(kommunalt huvudmannaskap) och<br>allmänna VA-anläggningar |
-| --- | --- |
-| Exploatör/fastighetsägarna i planområdet | Anslutningsavgifter VA, el, bredband,<br>fjärrvärme m m |
-| Kommunen/exploatören/ledningshavaren<br>(beror på om rättighet finns m m) | Flytt av befintliga ledningar |
-| Exploatören | Lantmäteriförrättning avseende<br>avstyckning av bostadsfastigheter,<br>fastighetsreglering av allmän plats med<br>kommunalt huvudmannaskap, omprövning<br>av gemensamhetsanläggningar o bildande<br>av samfällighetsföreningar. |
-| Exploatören/ledningshavare | Kommunen ansöker om<br>Lantmäteriförrättning avseende<br>ledningsrätt för nyanläggning och flytt av<br>allmänna ledningar. Förrättningskostnader<br>regleras genom exploateringsbidrag. |
-| Exploatören | Utbyggnad av anläggningar inom allmän<br>plats med enskilt huvudmannaskap och<br>inom kvartersmark |
-| Fastighetsägare i GA | Drift och underhåll av anläggningar inom<br>allmän plats med enskilt huvudmannaskap<br>och inom kvartersmark |
 
 <!-- sida 110 -->
 
@@ -5540,7 +5528,7 @@ fastigheter och för berörda gemensamhetsanläggningar och rättigheter inom pl
 
 Samrådshandling                                           39 (49)
 
-[Tabell 124-1](handlingar.tabeller/124-1.csv)
+[Tabell 124-125-1](handlingar.tabeller/124-125-1.csv)
 
 | Fastighet/Rättighet | Konsekvens |
 | --- | --- |
@@ -5549,17 +5537,7 @@ Samrådshandling                                           39 (49)
 | Må 2:1 | Del av fastighet planläggs som allmän plats<br>kommunalt huvudmannaskap, natur. |
 | Må 3:100 | Får ändrad utfart mot Måvägen istället för<br>mot Gåsevadsholmsvägen. Kvarstår i Må<br>ga:4 och ny delägare i Må ga:7 |
 | Må 10:1 | Fastighetens servisledning för va kan<br>behöva flyttas i samband med omläggningen |
-
-<!-- sida 125 -->
-
-Detaljplan för bostäder inom fastighet Må 3:15     Datum: 2026-01-20
-
-Samrådshandling                                           40 (49)
-
-[Tabell 125-1](handlingar.tabeller/125-1.csv)
-
 |  | av kommunal va-ledning och<br>dagvattenanläggning. |
-| --- | --- |
 | Må ga:4 + officialservitut 1384-15/151.1 | Ska omprövas både till utbredning och antal<br>delägare. Blir ny gata inom planområdet och<br>utmynnar på Måvägen. Delägare i ombildad<br>Må ga:4 blir nya fastigheter inom<br>planområdet samt Må 3:100. |
 | Må ga:5 | Marginellt ökad påverkan på del av Må<br>ga:5. Nyttjandet regleras i lantmäteribeslut,<br>1384-2022/350.7. |
 | Må ga:7 | Skall omprövas vad avser antalet delägare.<br>Nya delägare i Må ga:7 blir nya fastigheter<br>inom planområdet samt Må 3:100. |
@@ -5570,6 +5548,12 @@ Samrådshandling                                           40 (49)
 | Avtalsservitut, Fjärrvärme (N1384IM-<br>04/29494.1) | Oförändrat |
 | Avtalsservitut starkström<br>(D201900358759:1.1) | Oförändrat |
 | Oinskriven rätt för tele/fiber, luftledning | Flyttas |
+
+<!-- sida 125 -->
+
+Detaljplan för bostäder inom fastighet Må 3:15     Datum: 2026-01-20
+
+Samrådshandling                                           40 (49)
 
 <!-- sida 126 -->
 

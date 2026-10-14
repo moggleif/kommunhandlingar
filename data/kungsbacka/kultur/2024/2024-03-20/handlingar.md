@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5db42dbd18df2afdfe22fca2/1710507154
 sha256: 4696e1a8ac4812fc4b4658acb1a73c112d5637d64c1879f3d37237c86d4bfb20
 bytes: 17427636
 sidor: 1115
-hamtad: 2026-10-08T02:53:52+00:00
-konverterad: 2026-10-08T02:56:20+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T10:27:47+00:00
+konverterad: 2026-10-14T10:29:50+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [1082, 1092, 1093]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [131, 201, 206, 1082, 1092, 1093]
+figurer: [129, 131, 132, 170, 171, 172, 173, 175, 176, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 193, 194, 195, 197, 198, 199, 200, 201, 202, 203, 204, 205, 207, 208, 210, 212, 218, 219, 220, 221, 232, 296, 397, 408, 783, 787, 818, 831, 883, 884, 917, 925]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -53,24 +53,13 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-5-1](handlingar.tabeller/2-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 3. | Begäran om yttrande -<br>Betänkande från<br>Narkotikautredningen (KS<br>2024-00081)<br>Föredragande: Karin Lövgren,<br>utvecklare ANDTS<br>15 min<br>7 st dokument | KFT-2024-<br>00030 | Nämnden för Kultur & Fritid avger yttrande på<br>remiss av Socialdepartementets betänkande:<br>Narkotikautredningen - Vi kan bättre!<br>Kunskapsbaserad narkotikapolitik med liv och hälsa<br>i fokus (SOU 2023:62) |
 | 4. | Information till nämnd:<br>kulturföreningar och<br>studieförbund<br>Föredragande: Sofia Rosén,<br>verksamhetschef Kultur &<br>Demokrati, och Carin Sjögren,<br>föreningsutvecklare<br>20 min<br>1 st dokument | KFT-2024-<br>00061 | Nämnden för Kultur & Fritid noterar informationen<br>till protokollet. |
 | 5. | Information till nämnd:<br>dataskyddsombudets rapport<br>Föredragande: Karin Malmsten,<br>dataskyddsombud<br>20 min<br>2 st dokument | KFT-2024-<br>00062 | Nämnden för Kultur & Fritid noterar informationen<br>till protokollet. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(5)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 6. | Information till nämnd:<br>Cykelpilotprojektet<br>Föredragande: Rune Östlund,<br>Cykelpilotprojektet, och Linda<br>Ålander, verksamhetsledare<br>GoKungsbacka<br>20 min<br>1 st dokument | KFT-2024-<br>00063 | Nämnden för Kultur & Fritid noterar informationen<br>till protokollet. |
 | 7. | Kungsbackas mästare 2023<br>2 st dokument | KFT-2024-<br>00071 | Nämnden för Kultur & Fritid beslutar att tilldela<br>priset Kungsbackas mästare för en lysande<br>prestation till: X |
 | 8. | Årets eldsjäl<br>2 st dokument | KFT-2024-<br>00064 | Nämnden för Kultur & Fritid beslutar att<br>- utse X som Årets eldsjäl 2022.<br>- offentliggöra pristagaren vid prisceremonin.<br>- Nominera X, X och X som finalister. |
@@ -79,22 +68,26 @@ KUNGSBACKA  KOMMUN
 | 11. | Kulturpriset 2023<br>2 st dokument | KFT-2024-<br>00069 | Nämnden för Kultur & Fritid beslutar att:<br>- utse X som årets kulturpristagare.<br>- offentliggöra pristagaren vid prisceremonin.<br>- nominera X, X och X till finalister. |
 | 12. | Ledarstipendium 2024<br>2 st dokument | KFT-2024-<br>00070 | Nämnden för Kultur & Fritid beslutar att:<br>- X tilldelas ledarstipendiet 2024.<br>- ledarstipendiaten offentliggörs vid prisceremonin. |
 | 13. | Idrottsstipendium 2024<br>2 st dokument | KFT-2024-<br>00072 | Nämnden för Kultur & Fritid beslutar att:<br>- 2024 års idrottsstipendium tilldelas X och X<br>- offentliggöra stipendiaterna vid prisceremonin. |
+| 14. | Kulturstipendium 2024<br>2 st dokument | KFT-2024-<br>00073 | Nämnden för Kultur & Fritid beslutar att:<br>- tilldela X och X 2024 års kulturstipendier.<br>- offentliggöra stipendiaterna vid prisceremonin. |
+| 15. | Initiativärende (SD) kring<br>Bostället i Frillesås<br>Föredragande: Marie Persson,<br>verksamhetschef Fritid &<br>Mötesplatser<br>10 min<br>4 st dokument | KFT-2023-<br>00380 | Nämnden anser initiativet ligga i linje med<br>förvaltningens uppdrag, och att det ingår i<br>verkställighet. |
+| 16. | Information till nämnd:<br>förändring av turistinformation<br>Föredragande: Wendela Sanne-<br>Öhrnell, enhetschef Evenemang<br>& Destination<br>15 min<br>1 st dokument | KFT-2024-<br>00074 | Nämnden för Kultur & Fritid noterar informationen<br>till protokollet. |
+| 17. | Information till nämnd:<br>återrapportering av<br>Socialdemokraternas initiativ<br>kring Kungsbackas historia<br>Föredragande: Wendela Sanne-<br>Öhrnell, enhetschef Evenemang<br>& Destination<br>10 min<br>1 st dokument | KFT-2024-<br>00075 | Nämnden för Kultur & Fritid noterar informationen<br>till protokollet. |
+| 18. | Anmälan av delegeringsbeslut<br>mars 2024<br>3 st dokument | KFT-2024-<br>00076 | Beslut fattade med stöd av delegering. Nämnden för<br>Kultur & Fritids delegeringsförteckning: 2024-01-24<br>§ 8. |
+| 19. | Redovisning av inkomna<br>handlingar mars 2024<br>1 st dokument | KFT-2024-<br>00077 | Nämnden för Kultur & Fritid noterar redovisningen<br>av inkomna handlingar till protokollet. |
+| 20. | Initiativ från Alliansen:<br>Uppdrag för framtagande av<br>fördelningsprinciper för<br>bokning av Kungsbacka<br>kommuns idrottsanläggningar<br>2 st dokument | KFT-2024-<br>00083 | Nämnden för Kultur & Fritid noterar initiativet som<br>inkommet och överlämnar till förvaltningen för<br>beredning. |
+| 21. | Förvaltningschefen informerar | KFT-2024-<br>00078 | Nämnden för Kultur & Fritid noterar informationen<br>till protokollet. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(5)
 
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 14. | Kulturstipendium 2024<br>2 st dokument | KFT-2024-<br>00073 | Nämnden för Kultur & Fritid beslutar att:<br>- tilldela X och X 2024 års kulturstipendier.<br>- offentliggöra stipendiaterna vid prisceremonin. |
-| 15. | Initiativärende (SD) kring<br>Bostället i Frillesås<br>Föredragande: Marie Persson,<br>verksamhetschef Fritid &<br>Mötesplatser<br>10 min<br>4 st dokument | KFT-2023-<br>00380 | Nämnden anser initiativet ligga i linje med<br>förvaltningens uppdrag, och att det ingår i<br>verkställighet. |
-| 16. | Information till nämnd:<br>förändring av turistinformation<br>Föredragande: Wendela Sanne-<br>Öhrnell, enhetschef Evenemang<br>& Destination<br>15 min<br>1 st dokument | KFT-2024-<br>00074 | Nämnden för Kultur & Fritid noterar informationen<br>till protokollet. |
-| 17. | Information till nämnd:<br>återrapportering av<br>Socialdemokraternas initiativ<br>kring Kungsbackas historia<br>Föredragande: Wendela Sanne-<br>Öhrnell, enhetschef Evenemang<br>& Destination<br>10 min<br>1 st dokument | KFT-2024-<br>00075 | Nämnden för Kultur & Fritid noterar informationen<br>till protokollet. |
-| 18. | Anmälan av delegeringsbeslut<br>mars 2024<br>3 st dokument | KFT-2024-<br>00076 | Beslut fattade med stöd av delegering. Nämnden för<br>Kultur & Fritids delegeringsförteckning: 2024-01-24<br>§ 8. |
 
 <!-- sida 5 -->
 
@@ -104,14 +97,6 @@ KUNGSBACKA  KOMMUN
 
 Annika Hedman                     Erik Norinder
 ordförande                        sekreterare
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 19. | Redovisning av inkomna<br>handlingar mars 2024<br>1 st dokument | KFT-2024-<br>00077 | Nämnden för Kultur & Fritid noterar redovisningen<br>av inkomna handlingar till protokollet. |
-| 20. | Initiativ från Alliansen:<br>Uppdrag för framtagande av<br>fördelningsprinciper för<br>bokning av Kungsbacka<br>kommuns idrottsanläggningar<br>2 st dokument | KFT-2024-<br>00083 | Nämnden för Kultur & Fritid noterar initiativet som<br>inkommet och överlämnar till förvaltningen för<br>beredning. |
-| 21. | Förvaltningschefen informerar | KFT-2024-<br>00078 | Nämnden för Kultur & Fritid noterar informationen<br>till protokollet. |
 
 <!-- sida 6 -->
 
@@ -7922,13 +7907,7 @@ och beroendevård
 Genomsnittligt antal dagar mellan första kontakt och personligt
 besök. Andel av kommuner, socialförvaltningar i Göteborg och
 stadsdelar i Stockholm. Procent
-Genomsnitt dagar till nybesök 2016 2017 2018 2019 2021 2020 2022
-3 dagar         13 % 15 % 13 % 18 % 19 % 21 % 15 %
-4–7 dagar       55 % 52 % 61 % 50 % 51 % 47 % 52 %
-8–14 dagar      20 % 23 % 17 % 22 % 18 % 18 % 24 %
-15 dagar eller mer 2 % 1 % 3 % 2 % 3 % 3 % 2 %
-Uppgift saknas  10 % 9 % 6 % 8 % 9 % 11 % 7 %
-Antal svarande kommuner 282 296 289 288 297 290 280
+
 Källa: Öppna jämförelser missbruks- och beroendevården, Socialstyrelsen.
 
 Andelen kommuner där väntetiden var högst 3 dagar ökade mellan
@@ -7938,6 +7917,17 @@ kommuner var 4–7 dagar eller 8–14 dagar. I textsvar uppgav flera kom-
 muner att väntetiderna har påverkats av covid-19-pandemin med
 
 166
+
+[Tabell 188-1](handlingar.tabeller/188-1.csv)
+
+| Genomsnitt dagar till nybesök | 2016 | 2017 | 2018 | 2019 | 2021 | 2020 | 2022 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 3 dagar | 13 % | 15 % | 13 % | 18 % | 19 % | 21 % | 15 % |
+| 4–7 dagar | 55 % | 52 % | 61 % | 50 % | 51 % | 47 % | 52 % |
+| 8–14 dagar | 20 % | 23 % | 17 % | 22 % | 18 % | 18 % | 24 % |
+| 15 dagar eller mer | 2 % | 1 % | 3 % | 2 % | 3 % | 3 % | 2 % |
+| Uppgift saknas | 10 % | 9 % | 6 % | 8 % | 9 % | 11 % | 7 % |
+| Antal svarande kommuner | 282 | 296 | 289 | 288 | 297 | 290 | 280 |
 
 <!-- sida 189 -->
 
@@ -8951,23 +8941,10 @@ Region  Aktuell Frågat Kvinnor. Män. Ökad hälsa Antal
 vårdplan om barn Frågat Frågat bland nya patienter
 om barn om barn patienter
 
-```osaker-tabell
-Gotland   18   63    72    58           49
-Halland   87   96   100    94    65     114
-Jönköping 69   94   100    91           77
-Skåne     29   29    29    28           764
-Stockholm 79   91    90    92    79    6 975
-Sörmland  79   100  100   100           19
-Västernorrland 95 89 94    87           117
-Västmanland 94 94    86   100           17
-Örebro    76   88    90    87    85     277
-Östergötland 99 100 100   100    60     65
-Totalt*   75   86    85    86    78    8 486
-```
-
 \* I totalsiffran ingår även regioner med färre än 10 rapporterade patienter, dessa visas inte i tabellen:
 Blekinge, Dalarna, Kronoberg, Värmland och Västra Götaland.
 Källa: Bättre Beroendevård 2022.
+
 I figur 6.40 visas andelen patienter med skadligt bruk eller beroende
 uppdelat på de patienter som ingår i LARO respektive andra patien-
 ter. Procentvärdet vid staplarna visar andelen patienter för vilka den
@@ -8978,6 +8955,21 @@ hade förbättrad hälsa i LARO jämfört med övriga patienter med skad-
 ligt bruk eller beroende.
 
 187
+
+[Tabell 209-1](handlingar.tabeller/209-1.csv)
+
+| Gotland | 18 | 63 | 72 | 58 |  | 49 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Halland | 87 | 96 | 100 | 94 | 65 | 114 |
+| Jönköping | 69 | 94 | 100 | 91 |  | 77 |
+| Skåne | 29 | 29 | 29 | 28 |  | 764 |
+| Stockholm | 79 | 91 | 90 | 92 | 79 | 6 975 |
+| Sörmland | 79 | 100 | 100 | 100 |  | 19 |
+| Västernorrland | 95 | 89 | 94 | 87 |  | 117 |
+| Västmanland | 94 | 94 | 86 | 100 |  | 17 |
+| Örebro | 76 | 88 | 90 | 87 | 85 | 277 |
+| Östergötland | 99 | 100 | 100 | 100 | 60 | 65 |
+| Totalt\* | 75 | 86 | 85 | 86 | 78 | 8 486 |
 
 <!-- sida 210 -->
 
@@ -9223,19 +9215,9 @@ erbjuds vuxna med skadligt bruk eller beroende, 2021
 
 Procent
 Behandlingsmetoder             Region, % Kommun, %
-Kort intervention som bygger på MI eller andra samtalsmetoder 95 93
-ÅP (Återfallsprevention)        67     96
-KBT (Kognitiv beteendeterapi)   90     54
-MET (Motivational Enhancement Therapy) 76 38
-Tolvstegsbehandling             24     73
-CRA (Community Reinforcement Approach) 29 64
+
 Integrerad behandlingsmetod vid samsjuklighet (Region) 86 –\*
-(PDT) Psykodynamisk terapi eller IPT (Interaktionell terapi) 67 9
-Parterapi enligt BCT (Behaviour Couples Therapy) 5 3
-Nätverksterapi (NT)              0      4
-SBNT (Social Behaviour Network Therapy) 0 4
-MATRIX-programmet                0      1
-Annan behandling                43     41
+
 \*Denna uppgift efterfrågades enbart från regioner.
 Källa: Samsjuklighetsutredningen. Enkätinsamling från regioner och kommuner.
 
@@ -9262,6 +9244,26 @@ Besökt 2023-04-11.
 48 Möte med Statens institutionsstyrelse 2022-10-21.
 
 193
+
+[Tabell 215-1](handlingar.tabeller/215-1.csv)
+
+| Kort intervention som bygger på MI eller andra samtalsmetoder | 95 | 93 |
+| --- | --- | --- |
+| ÅP (Återfallsprevention) | 67 | 96 |
+| KBT (Kognitiv beteendeterapi) | 90 | 54 |
+| MET (Motivational Enhancement Therapy) | 76 | 38 |
+| Tolvstegsbehandling | 24 | 73 |
+| CRA (Community Reinforcement Approach) | 29 | 64 |
+
+[Tabell 215-2](handlingar.tabeller/215-2.csv)
+
+| (PDT) Psykodynamisk terapi eller IPT (Interaktionell terapi) | 67 | 9 |
+| --- | --- | --- |
+| Parterapi enligt BCT (Behaviour Couples Therapy) | 5 | 3 |
+| Nätverksterapi (NT) | 0 | 4 |
+| SBNT (Social Behaviour Network Therapy) | 0 | 4 |
+| MATRIX-programmet | 0 | 1 |
+| Annan behandling | 43 | 41 |
 
 <!-- sida 216 -->
 
@@ -18010,43 +18012,44 @@ narkotika) som bedömts\* som bidragande till dödsfallet, Notera att
 flera substanser ofta kan ha varit bidragande i samma dödsfall och
 att samma ärende därför kan förekomma på flera rader. Uppgifterna
 för 2022 är preliminära.
-2018   2019  2020  2021   2022
-Förgiftningar
-(läkemedel/narkotika) 824 832 781 723   829
-
-```osaker-tabell
-Oxikodon       83     88   105    100   108
-Buprenorfin    86     66    87    89     95
-Alprazolam     63     71    80    78     90
-Zopiklon       66     68    50    58     84
-Heroin         97    111    88    67     78
-Alimemazin     86     82    66    63     73
-Propiomazin    54     57    42    42     65
-Metadon        74     73    76    40     57
-Amfetamin      47     51    51    42     52
-Tramadol       79     59    55    61     51
-Pregabalin     42     38    40    40     41
-Mirtazapin     35     33    22    33     39
-Prometazin     31     36    24    30     31
-Venlafaxin     33     25    23    23     29
-Morfin         30     34    25    17     26
-Paracetamol    18     38    18    22     26
-Amitriptylin   16     25    14    27     25
-Sertralin      24     18    33    18     22
-Diazepam       23     19    29    21     22
-Kokain         31     25    20     8     22
-Citalopram     16     30    17    15     22
-Gabapentin     14     27    10    17     21
-Klonazepam     28     20    26    18     19
-Zolpidem       23     28    26    14     18
-Amlodipin       5     4      9    10     18
-Fentanyl       22     31    16    17     17
-```
 
 \* Bedömningen är baserad på uppgifter från dödsorsaksintyg och/eller obduktionsrapport.
 Källa: RMV.
 
 390
+
+[Tabell 412-1](handlingar.tabeller/412-1.csv)
+
+|  | 2018 | 2019 | 2020 | 2021 | 2022 |
+| --- | --- | --- | --- | --- | --- |
+| Förgiftningar |  |  |  |  |  |
+| (läkemedel/narkotika) | 824 | 832 | 781 | 723 | 829 |
+| Oxikodon | 83 | 88 | 105 | 100 | 108 |
+| Buprenorfin | 86 | 66 | 87 | 89 | 95 |
+| Alprazolam | 63 | 71 | 80 | 78 | 90 |
+| Zopiklon | 66 | 68 | 50 | 58 | 84 |
+| Heroin | 97 | 111 | 88 | 67 | 78 |
+| Alimemazin | 86 | 82 | 66 | 63 | 73 |
+| Propiomazin | 54 | 57 | 42 | 42 | 65 |
+| Metadon | 74 | 73 | 76 | 40 | 57 |
+| Amfetamin | 47 | 51 | 51 | 42 | 52 |
+| Tramadol | 79 | 59 | 55 | 61 | 51 |
+| Pregabalin | 42 | 38 | 40 | 40 | 41 |
+| Mirtazapin | 35 | 33 | 22 | 33 | 39 |
+| Prometazin | 31 | 36 | 24 | 30 | 31 |
+| Venlafaxin | 33 | 25 | 23 | 23 | 29 |
+| Morfin | 30 | 34 | 25 | 17 | 26 |
+| Paracetamol | 18 | 38 | 18 | 22 | 26 |
+| Amitriptylin | 16 | 25 | 14 | 27 | 25 |
+| Sertralin | 24 | 18 | 33 | 18 | 22 |
+| Diazepam | 23 | 19 | 29 | 21 | 22 |
+| Kokain | 31 | 25 | 20 | 8 | 22 |
+| Citalopram | 16 | 30 | 17 | 15 | 22 |
+| Gabapentin | 14 | 27 | 10 | 17 | 21 |
+| Klonazepam | 28 | 20 | 26 | 18 | 19 |
+| Zolpidem | 23 | 28 | 26 | 14 | 18 |
+| Amlodipin | 5 | 4 | 9 | 10 | 18 |
+| Fentanyl | 22 | 31 | 16 | 17 | 17 |
 
 <!-- sida 413 -->
 
@@ -38642,21 +38645,10 @@ Förebyggande  44  44  42  42  42  214
 SIP1 och verkställig-
 hetsplaner Kriminal-
 vården och SiS.2
-Vägledning    40  40  36  27  27  170  24
-Tillgänglighet och
-kvalitet i vård och stöd 280,5 280,5 279 79 919
-Lag om hantering av
-opioidantagonister 31 29,5 29,5 29 29 148 27
-Skadereducering,
-LARO och dödlighet 26,5 29,5 21,5 5,5 5,5 88,5 0,5
-Anhöriga      2   2   2            6
-Uppföljning och
-statistik     7  6,5  3,5 0,5 0,5  18  0,5
-Kunskapsutveckling
-och forskning 119 119 115 15  15  383  15
-Summa        550 551 528,5 198 119 1 946,5 67
+
 1 Samordnad individuell plan (SIP).
 2 Statens institutionsstyrelse (SiS).
+
 I tabell 28.2 delas kostnaderna för våra förslag ut på olika typer av
 aktörer: regioner, kommuner, statliga myndigheter och andra orga-
 nisationer. Mest pengar går till regionerna och därefter till kom-
@@ -38664,6 +38656,19 @@ munerna. De permanenta tillskotten enligt finansieringsprincipen är
 26 miljoner kronor för regionerna och 12 miljoner kronor för kom-
 
 855
+
+[Tabell 877-1](handlingar.tabeller/877-1.csv)
+
+| Vägledning | 40 | 40 | 36 | 27 | 27 | 170 | 24 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Tillgänglighet och kvalitet i vård och stöd | 280,5 | 280,5 | 279 | 79 |  | 919 |  |
+| Lag om hantering av opioidantagonister | 31 | 29,5 | 29,5 | 29 | 29 | 148 | 27 |
+| Skadereducering, |  |  |  |  |  |  |  |
+| LARO och dödlighet | 26,5 | 29,5 | 21,5 | 5,5 | 5,5 | 88,5 | 0,5 |
+| Anhöriga | 2 | 2 | 2 |  |  | 6 |  |
+| Uppföljning och statistik | 7 | 6,5 | 3,5 | 0,5 | 0,5 | 18 | 0,5 |
+| Kunskapsutveckling och forskning | 119 | 119 | 115 | 15 | 15 | 383 | 15 |
+| Summa | 550 | 551 | 528,5 | 198 | 119 | 1 946,5 | 67 |
 
 <!-- sida 878 -->
 
@@ -38676,41 +38681,33 @@ Tabell 28.2 Kostnader per aktörer
 Miljoner kronor
 Aktörer      År 1 År 2 År 3 År 4 År 5 Summa Där-
 efter/år
-Regioner    326,5 326,5 324,5 62,5 26 1 066 26
-Kommuner     90,5 90,5 90,5 48,5 12 332 12
-Länsstyrelserna 40 40  40  40 40   200
-Socialstyrelsen 40,3 42,3 37,8 24 18 162,5 15
-Kriminalvården 9   9   5   5   5    33   5
-Polismyndigheten
-och Migrationsverket 7 7 7 5   5    31   5
-Folkhälsomyndigheten 7,3 7,8 4,8 3 3 26  1
-Myndigheten för vård-
-och omsorgsanalys 4,5 5 2  2   2   15,5
-Digitaliserings-
-myndigheten   5    5   5            15
-Sveriges Kommuner
-och Regioner  3    3   3   3   3    15
-Statens
-institutionsstyrelse 3,5 3,5 1,5 1,5 1,5 11,5 1,5
-Andra myndigheter
-som medverkar i
-dödlighetsprogram 2 2  2   2   2    10
-Nationellt
-kompetenscentrum
-anhöriga      2    2   2            6
-E-hälsomyndigheten 2,5 1 1 0,5 0,5 5,5  0,5
-Läkemedelsverket 1,5 1,5 1 1   1    6    1
-Forte         2    2                4
-Andra aktörer som
-söker statsbidrag 1 1  1            3
-Nationella Vård-
-kompetensrådet 1   1                2
-Rättsmedicinalverket 0,8 0,3 0,3   1,5
-Tandvårds- och läke-
-medelsförmånsverket 0,5 0,5         1
-Summa        550 551 528,5 198 119 1 946,5 67
 
 856
+
+[Tabell 878-1](handlingar.tabeller/878-1.csv)
+
+| Regioner | 326,5 | 326,5 | 324,5 | 62,5 | 26 | 1 066 | 26 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Kommuner | 90,5 | 90,5 | 90,5 | 48,5 | 12 | 332 | 12 |
+| Länsstyrelserna | 40 | 40 | 40 | 40 | 40 | 200 |  |
+| Socialstyrelsen | 40,3 | 42,3 | 37,8 | 24 | 18 | 162,5 | 15 |
+| Kriminalvården | 9 | 9 | 5 | 5 | 5 | 33 | 5 |
+| Polismyndigheten och Migrationsverket | 7 | 7 | 7 | 5 | 5 | 31 | 5 |
+| Folkhälsomyndigheten | 7,3 | 7,8 | 4,8 | 3 | 3 | 26 | 1 |
+| Myndigheten för vård- och omsorgsanalys | 4,5 | 5 | 2 | 2 | 2 | 15,5 |  |
+| Digitaliserings- myndigheten | 5 | 5 | 5 |  |  | 15 |  |
+| Sveriges Kommuner och Regioner | 3 | 3 | 3 | 3 | 3 | 15 |  |
+| Statens institutionsstyrelse | 3,5 | 3,5 | 1,5 | 1,5 | 1,5 | 11,5 | 1,5 |
+| Andra myndigheter som medverkar i dödlighetsprogram | 2 | 2 | 2 | 2 | 2 | 10 |  |
+| Nationellt kompetenscentrum anhöriga | 2 | 2 | 2 |  |  | 6 |  |
+| E-hälsomyndigheten | 2,5 | 1 | 1 | 0,5 | 0,5 | 5,5 | 0,5 |
+| Läkemedelsverket | 1,5 | 1,5 | 1 | 1 | 1 | 6 | 1 |
+| Forte | 2 | 2 |  |  |  | 4 |  |
+| Andra aktörer som söker statsbidrag | 1 | 1 | 1 |  |  | 3 |  |
+| Nationella Vård- kompetensrådet | 1 | 1 |  |  |  | 2 |  |
+| Rättsmedicinalverket | 0,8 | 0,3 | 0,3 |  |  | 1,5 |  |
+| Tandvårds- och läke- medelsförmånsverket | 0,5 | 0,5 |  |  |  | 1 |  |
+| Summa | 550 | 551 | 528,5 | 198 | 119 | 1 946,5 | 67 |
 
 <!-- sida 879 -->
 
@@ -38838,11 +38835,7 @@ Tabell 28.3 Kostnad per sparat liv
 Miljoner kronor
 Totalt År 6 & Totalt
 År 1 År 2 År 3 År 4 År 5 år 1–5\* framåt år 1–10\*
-30 % effekt 42,6 8,5 4,1 1,0 0,5 3,0 0,3 1,2
-20 % effekt 64,0 12,8 6,1 1,5 0,7 4,4 0,4 1,8
-10 % effekt 127,9 25,6 12,3 3,1 1,4 8,9 0,8 3,5
-5 % effekt 255,8 51,3 24,6 6,1 2,8 17,8 1,6 7,0
-2 % effekt 639,5 128,1 61,5 15,3 6,9 44,4 3,9 17,6
+
 \* Här har kostnaden för hela perioden dividerats med antalet sparade liv för hela perioden.
 
 I kalkylen som redovisas i tabell 28.3 ses att redan efter en femårs-
@@ -38855,6 +38848,15 @@ joner kronor.
 9 Hultkrantz, L., Svensson, M. (2008). Värdet av liv.
 
 859
+
+[Tabell 881-1](handlingar.tabeller/881-1.csv)
+
+| 30 % effekt | 42,6 | 8,5 | 4,1 | 1,0 | 0,5 | 3,0 | 0,3 | 1,2 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 20 % effekt | 64,0 | 12,8 | 6,1 | 1,5 | 0,7 | 4,4 | 0,4 | 1,8 |
+| 10 % effekt | 127,9 | 25,6 | 12,3 | 3,1 | 1,4 | 8,9 | 0,8 | 3,5 |
+| 5 % effekt | 255,8 | 51,3 | 24,6 | 6,1 | 2,8 | 17,8 | 1,6 | 7,0 |
+| 2 % effekt | 639,5 | 128,1 | 61,5 | 15,3 | 6,9 | 44,4 | 3,9 | 17,6 |
 
 <!-- sida 882 -->
 
@@ -39714,13 +39716,6 @@ och vägledning för vård och stöd
 Miljoner kronor
 Förslag            År 1 År 2 År 3 År 4 År 5 S:a Därefter/år
 Regioner och kommuner för
-samordnad verkställighetsplan 24 24 24 24 24 70 24
-Digitaliseringsmyndigheten uppdrag 5 5 5 15
-SKR stödja implementering av SIP 3 3 3 3 3 15
-Uppdrag Kriminalvården och SiS 4 4 8
-Vägledningsuppdrag till Polis-
-myndigheten och Socialstyrelsen 4 4 8
-Summa              40 40 32 27 27 170  24
 
 SIP ska upprättas även när SiS bedömer att det finns
 ett sådant behov
@@ -39751,6 +39746,16 @@ nen ska få sina behov av socialtjänst samt hälso- och sjukvård till-
 godosedda. Eftersom planerna ska ses som instrument för att huvud-
 
 879
+
+[Tabell 901-1](handlingar.tabeller/901-1.csv)
+
+| samordnad verkställighetsplan | 24 | 24 | 24 | 24 | 24 | 70 | 24 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Digitaliseringsmyndigheten uppdrag | 5 | 5 | 5 |  |  | 15 |  |
+| SKR stödja implementering av SIP | 3 | 3 | 3 | 3 | 3 | 15 |  |
+| Uppdrag Kriminalvården och SiS | 4 | 4 |  |  |  | 8 |  |
+| Vägledningsuppdrag till Polis- myndigheten och Socialstyrelsen | 4 | 4 |  |  |  | 8 |  |
+| Summa | 40 | 40 | 32 | 27 | 27 | 170 | 24 |
 
 <!-- sida 902 -->
 
@@ -41128,138 +41133,114 @@ statliga myndigheter och övriga aktörer
 Miljoner kronor
 
 Aktörer och områden År 1 År 2 År 3 År 4 År 5 S:a Därefter/år
-Regioner     326,5 326,5 324,5 62,5 26 1066 26
-SIP och verkställighetsplaner
-Kriminalvården & SiS.
-Vägledning     12 12  12  12  12   60   12
-Tillgänglighet och kvalitet
-i vård och stöd 236,5 236,5 236,5 36,5 746
-Lag om hantering av
-opioidantagonister 14 14 14 14 14  70   14
-Skadereducering, LARO
-och dödlighet  4   4   2           10
-Kunskapsutveckling
-och forskning  60 60  60           180
-Kommuner      90,5 90,5 90,5 48,5 12 332 12
-SIP och verkställighetsplaner
-Kriminalvården & SiS.
-Vägledning     12 12  12  12  12   60   12
-Tillgänglighet och kvalitet
-i vård och stöd 36,5 36,5 36,5 36,5 146
-Skadereducering, LARO
-och dödlighet  2   2   2            6
-Kunskapsutveckling och
 
-```osaker-tabell
-forskning      40 40  40           120
-Länsstyrelserna 40 40 40  40  40   200
-Förebyggande   40 40  40  40  40   200
-```
-
-Socialstyrelsen 40,3 42,3 37,8 24 18 162,5 15
-SIP och verkställighetsplaner
-Kriminalvården & SiS.
-Vägledning     2   2   2            6
-Tillgänglighet och kvalitet
-i vård och stöd 6,5 6,5 6  6       25
-Skadereducering, LARO
-och dödlighet 12,5 14,5 12,5 3 3  45,5
-Uppföljning och statistik 3,3 3,3 2,3 9
-Kunskapsutveckling och
-forskning      16 16  15  15  15   77   15
 910
+
+[Tabell 932-1](handlingar.tabeller/932-1.csv)
+
+| Regioner | 326,5 | 326,5 | 324,5 | 62,5 | 26 | 1066 | 26 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| SIP och verkställighetsplaner |  |  |  |  |  |  |  |
+| Kriminalvården & SiS. |  |  |  |  |  |  |  |
+| Vägledning | 12 | 12 | 12 | 12 | 12 | 60 | 12 |
+| Tillgänglighet och kvalitet i vård och stöd | 236,5 | 236,5 | 236,5 | 36,5 |  | 746 |  |
+| Lag om hantering av opioidantagonister | 14 | 14 | 14 | 14 | 14 | 70 | 14 |
+| Skadereducering, LARO och dödlighet | 4 | 4 | 2 |  |  | 10 |  |
+| Kunskapsutveckling och forskning | 60 | 60 | 60 |  |  | 180 |  |
+| Kommuner | 90,5 | 90,5 | 90,5 | 48,5 | 12 | 332 | 12 |
+| SIP och verkställighetsplaner |  |  |  |  |  |  |  |
+| Kriminalvården & SiS. |  |  |  |  |  |  |  |
+| Vägledning | 12 | 12 | 12 | 12 | 12 | 60 | 12 |
+| Tillgänglighet och kvalitet i vård och stöd | 36,5 | 36,5 | 36,5 | 36,5 |  | 146 |  |
+| Skadereducering, LARO och dödlighet | 2 | 2 | 2 |  |  | 6 |  |
+| Kunskapsutveckling och forskning | 40 | 40 | 40 |  |  | 120 |  |
+| Länsstyrelserna | 40 | 40 | 40 | 40 | 40 | 200 |  |
+| Förebyggande | 40 | 40 | 40 | 40 | 40 | 200 |  |
+| Socialstyrelsen | 40,3 | 42,3 | 37,8 | 24 | 18 | 162,5 | 15 |
+| SIP och verkställighetsplaner |  |  |  |  |  |  |  |
+| Kriminalvården & SiS. |  |  |  |  |  |  |  |
+| Vägledning | 2 | 2 | 2 |  |  | 6 |  |
+| Tillgänglighet och kvalitet i vård och stöd | 6,5 | 6,5 | 6 | 6 |  | 25 |  |
+| Skadereducering, LARO och dödlighet | 12,5 | 14,5 | 12,5 | 3 | 3 | 45,5 |  |
+| Uppföljning och statistik | 3,3 | 3,3 | 2,3 |  |  | 9 |  |
+| Kunskapsutveckling och forskning | 16 | 16 | 15 | 15 | 15 | 77 | 15 |
 
 <!-- sida 933 -->
 
 SOU 2023:62                              Konsekvensanalyser
 
 Aktörer och områden År 1 År 2 År 3 År 4 År 5 S:a Därefter/år
-Kriminalvården 9   9   5   5   5   33   5
-SIP och verkställighetsplaner
-Kriminalvården & SiS.
-Vägledning     2   2                4
-Lag om hantering av
-opioidantagonister 5 5 5   5   5   25   5
-Skadereducering, LARO
-och dödlighet  2   2                4
-Folkhälsomyndigheten 7,3 7,8 4,8 3 3 26 1
-Förebyggande   4   4   2   2   2   14
-Skadereducering, LARO
-och dödlighet  2   3   2  0,5 0,5   8   0,5
-Uppföljning och statistik 1,3 0,8 0,8 0,5 0,5 4 0,5
-Polismyndigheten och
-Migrationsverket 7 7   7   5   5   31   5
-SIP och verkställighetsplaner
-Kriminalvården & SiS.
-Vägledning     2   2   2            6
-Lag om hantering av
-opioidantagonister 5 5 5   5   5   25   5
-Digitaliseringsmyndigheten 5 5 5   15
-SIP och verkställighetsplaner
-Kriminalvården & SiS.
-Vägledning     5   5   5           15
-MyVA          4,5  5   2   2   2   15,5
-Lag om hantering av
-opioidantagonister 2 2 2   2   2   10
-Skadereducering, LARO
-och dödlighet  1   1                2
-Uppföljning och statistik 1,5 2    3,5
-SiS           3,5 3,5 1,5 1,5 1,5  11,5 1,5
-SIP och verkställighets-
-planer Kriminalvården & SiS.
-Vägledning     2   2                4
-Lag om hantering av
-opioidantagonister 1,5 1,5 1,5 1,5 1,5 7,5 1,5
-SKR            3   3   3   3   3   15
-SIP och verkställighetsplaner
-Kriminalvården & SiS.
-Vägledning     3   3   3   3   3   15
 
 911
+
+[Tabell 933-1](handlingar.tabeller/933-1.csv)
+
+| Kriminalvården | 9 | 9 | 5 | 5 | 5 | 33 | 5 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| SIP och verkställighetsplaner |  |  |  |  |  |  |  |
+| Kriminalvården & SiS. |  |  |  |  |  |  |  |
+| Vägledning | 2 | 2 |  |  |  | 4 |  |
+| Lag om hantering av opioidantagonister | 5 | 5 | 5 | 5 | 5 | 25 | 5 |
+| Skadereducering, LARO och dödlighet | 2 | 2 |  |  |  | 4 |  |
+| Folkhälsomyndigheten | 7,3 | 7,8 | 4,8 | 3 | 3 | 26 | 1 |
+| Förebyggande | 4 | 4 | 2 | 2 | 2 | 14 |  |
+| Skadereducering, LARO och dödlighet | 2 | 3 | 2 | 0,5 | 0,5 | 8 | 0,5 |
+| Uppföljning och statistik | 1,3 | 0,8 | 0,8 | 0,5 | 0,5 | 4 | 0,5 |
+| Polismyndigheten och |  |  |  |  |  |  |  |
+| Migrationsverket | 7 | 7 | 7 | 5 | 5 | 31 | 5 |
+| SIP och verkställighetsplaner |  |  |  |  |  |  |  |
+| Kriminalvården & SiS. |  |  |  |  |  |  |  |
+| Vägledning | 2 | 2 | 2 |  |  | 6 |  |
+| Lag om hantering av opioidantagonister | 5 | 5 | 5 | 5 | 5 | 25 | 5 |
+| Digitaliseringsmyndigheten | 5 | 5 | 5 |  |  | 15 |  |
+| SIP och verkställighetsplaner |  |  |  |  |  |  |  |
+| Kriminalvården & SiS. |  |  |  |  |  |  |  |
+| Vägledning | 5 | 5 | 5 |  |  | 15 |  |
+| MyVA | 4,5 | 5 | 2 | 2 | 2 | 15,5 |  |
+| Lag om hantering av opioidantagonister | 2 | 2 | 2 | 2 | 2 | 10 |  |
+| Skadereducering, LARO och dödlighet | 1 | 1 |  |  |  | 2 |  |
+| Uppföljning och statistik | 1,5 | 2 |  |  |  | 3,5 |  |
+| SiS | 3,5 | 3,5 | 1,5 | 1,5 | 1,5 | 11,5 | 1,5 |
+| SIP och verkställighets- planer Kriminalvården & SiS. |  |  |  |  |  |  |  |
+| Vägledning | 2 | 2 |  |  |  | 4 |  |
+| Lag om hantering av opioidantagonister | 1,5 | 1,5 | 1,5 | 1,5 | 1,5 | 7,5 | 1,5 |
+| SKR | 3 | 3 | 3 | 3 | 3 | 15 |  |
+| SIP och verkställighetsplaner |  |  |  |  |  |  |  |
+| Kriminalvården & SiS. |  |  |  |  |  |  |  |
+| Vägledning | 3 | 3 | 3 | 3 | 3 | 15 |  |
 
 <!-- sida 934 -->
 
 Konsekvensanalyser                         SOU 2023:62
 
 Aktörer och områden År 1 År 2 År 3 År 4 År 5 S:a Därefter/år
-E-hälsomyndigheten 2,5 1 1 0,5 0,5 5,5  0,5
-Lag om hantering av
-opioidantagonister 2,5 1 1 0,5 0,5 5,5  0,5
-Forte          2   2                4
-Kunskapsutveckling och
-forskning      2   2                4
-Nationellt kompetens-
-centrum anhöriga 2 2   2            6
-Anhöriga       2   2   2            6
-
-Nationella
-Vårdkompetensrådet 1 1              2
-Kunskapsutveckling och
-forskning      1   1                2
-
-Läkemedelsverket 1 1   1   1   1    5   1
-Lag om hantering av
-opioidantagonister 1 1 1   1   1    5   1
-Tillgänglighet och kvalitet i
-vård och stöd 0,5 0,5               1
-RMV           0,8 0,3 0,3          1,5
-Uppföljning och statistik 0,8 0,3 0,3 1,5
-
-TLV           0,5 0,5               1
-Tillgänglighet och kvalitet
-i vård och stöd 0,5 0,5             1
-Andra myndigheter som
-medverkar i dödlighets-
-program        2   2   2   2   2   10
-Skadereducering, LARO
-och dödlighet  2   2   2   2   2   10
-Andra aktörer som söker
-statsbidrag    1   1   1            3
-Skadereducering, LARO
-och dödlighet  1   1   1            3
-Summa         550 551 528,5 198 119 1946,5 67
 
 912
+
+[Tabell 934-1](handlingar.tabeller/934-1.csv)
+
+| E-hälsomyndigheten | 2,5 | 1 | 1 | 0,5 | 0,5 | 5,5 | 0,5 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Lag om hantering av opioidantagonister | 2,5 | 1 | 1 | 0,5 | 0,5 | 5,5 | 0,5 |
+| Forte | 2 | 2 |  |  |  | 4 |  |
+| Kunskapsutveckling och forskning | 2 | 2 |  |  |  | 4 |  |
+| Nationellt kompetens- centrum anhöriga | 2 | 2 | 2 |  |  | 6 |  |
+| Anhöriga | 2 | 2 | 2 |  |  | 6 |  |
+| Nationella |  |  |  |  |  |  |  |
+| Vårdkompetensrådet | 1 | 1 |  |  |  | 2 |  |
+| Kunskapsutveckling och forskning | 1 | 1 |  |  |  | 2 |  |
+| Läkemedelsverket | 1 | 1 | 1 | 1 | 1 | 5 | 1 |
+| Lag om hantering av opioidantagonister | 1 | 1 | 1 | 1 | 1 | 5 | 1 |
+| Tillgänglighet och kvalitet i vård och stöd | 0,5 | 0,5 |  |  |  | 1 |  |
+| RMV | 0,8 | 0,3 | 0,3 |  |  | 1,5 |  |
+| Uppföljning och statistik | 0,8 | 0,3 | 0,3 |  |  | 1,5 |  |
+| TLV | 0,5 | 0,5 |  |  |  | 1 |  |
+| Tillgänglighet och kvalitet i vård och stöd | 0,5 | 0,5 |  |  |  | 1 |  |
+| Andra myndigheter som medverkar i dödlighets- program | 2 | 2 | 2 | 2 | 2 | 10 |  |
+| Skadereducering, LARO och dödlighet | 2 | 2 | 2 | 2 | 2 | 10 |  |
+| Andra aktörer som söker statsbidrag | 1 | 1 | 1 |  |  | 3 |  |
+| Skadereducering, LARO och dödlighet | 1 | 1 | 1 |  |  | 3 |  |
+| Summa | 550 | 551 | 528,5 | 198 | 119 | 1946,5 | 67 |
 
 <!-- sida 935 -->
 
@@ -48392,7 +48373,7 @@ Utbetalda bidrag 2024-02-14 - 2024-03-11
 
 Diarienr. Förening     Bidragstyp               Utbet.dat Belopp
 
-[Tabell 1103-1](handlingar.tabeller/1103-1.csv)
+[Tabell 1103-1108-1](handlingar.tabeller/1103-1108-1.csv)
 
 | 15092 | Badmintonklubben<br>Kungs | Kultur &Fritid/ Lovbidrag | 2024-02-21 | 500 |
 | --- | --- | --- | --- | --- |
@@ -48418,13 +48399,7 @@ Diarienr. Förening     Bidragstyp               Utbet.dat Belopp
 | 15117 | Free Running Sweden<br>Kungsbacka IF | Barn och ungdomsföreningar/ Lokalt<br>aktivitetsstöd 2 | 2024-02-21 | 29 760,00 |
 | 15118 | Free Running Sweden<br>Kungsbacka IF | Barn och ungdomsföreningar/<br>Utbildning och utvecklingsbidrag | 2024-02-21 | 53 400,00 |
 | 15123 | Free Running Sweden<br>Kungsbacka IF | Barn och ungdomsföreningar/<br>Drogpolicy | 2024-02-21 | 2 670,00 |
-
-<!-- sida 1104 -->
-
-[Tabell 1104-1](handlingar.tabeller/1104-1.csv)
-
 | 15102 | Frillesås Bandyklubb | Barn och ungdomsföreningar/ Lokalt<br>aktivitetsstöd 2 | 2024-02-21 | 5 430,00 |
-| --- | --- | --- | --- | --- |
 | 15101 | Frillesås Bandyklubb | Barn och ungdomsföreningar/<br>Utbildning och utvecklingsbidrag | 2024-02-21 | 10 400,00 |
 | 15146 | Frillesås Bandyklubb | Barn och ungdomsföreningar/<br>Drogpolicy | 2024-02-26 | 520 |
 | 15199 | Frillesås FF | Barn och ungdomsföreningar/<br>Hälsocertifierad | 2024-03-01 | 18 400,00 |
@@ -48449,13 +48424,7 @@ Diarienr. Förening     Bidragstyp               Utbet.dat Belopp
 | 15173 | Hanhals Idrottsförening | Barn och ungdomsföreningar/ Lokalt<br>aktivitetsstöd 2 | 2024-02-26 | 141 300,00 |
 | 15174 | Hanhals Idrottsförening | Barn och ungdomsföreningar/<br>Utbildning och utvecklingsbidrag | 2024-02-26 | 89 400,00 |
 | 15200 | Hanhals Idrottsförening | Barn och ungdomsföreningar/<br>Hälsocertifierad | 2024-03-01 | 22 350,00 |
-
-<!-- sida 1105 -->
-
-[Tabell 1105-1](handlingar.tabeller/1105-1.csv)
-
 | 15234 | Hanhals Idrottsförening | Barn och ungdomsföreningar/<br>Hälsocertifierad grundutbildning | 2024-03-01 | 3 600,00 |
-| --- | --- | --- | --- | --- |
 | 15142 | HK Aranäs | Kultur &Fritid/ Lovbidrag | 2024-02-26 | 500 |
 | 15201 | HK Aranäs | Barn och ungdomsföreningar/<br>Hälsocertifierad | 2024-03-01 | 45 750,00 |
 | 15235 | HK Aranäs | Barn och ungdomsföreningar/<br>Hälsocertifierad grundutbildning | 2024-03-01 | 3 600,00 |
@@ -48480,13 +48449,7 @@ Diarienr. Förening     Bidragstyp               Utbet.dat Belopp
 | 15120 | Kungsbacka<br>Bordtennisklubb | Barn och ungdomsföreningar/ Lokalt<br>aktivitetsstöd 2 | 2024-02-21 | 13 605,00 |
 | 15119 | Kungsbacka<br>Bordtennisklubb | Barn och ungdomsföreningar/<br>Utbildning och utvecklingsbidrag | 2024-02-21 | 20 800,00 |
 | 15159 | Kungsbacka Brottarklubb | Barn och ungdomsföreningar/ Lokalt<br>aktivitetsstöd 2 | 2024-02-26 | 10 282,00 |
-
-<!-- sida 1106 -->
-
-[Tabell 1106-1](handlingar.tabeller/1106-1.csv)
-
 | 15160 | Kungsbacka Brottarklubb | Barn och ungdomsföreningar/<br>Utbildning och utvecklingsbidrag | 2024-02-26 | 6 800,00 |
-| --- | --- | --- | --- | --- |
 | 15108 | Kungsbacka<br>Brukshundsklubb | Barn och ungdomsföreningar/ Lokalt<br>aktivitetsstöd 2 | 2024-02-21 | 848 |
 | 15107 | Kungsbacka<br>Brukshundsklubb | Barn och ungdomsföreningar/<br>Utbildning och utvecklingsbidrag | 2024-02-21 | 2 000,00 |
 | 15121 | Kungsbacka<br>Brukshundsklubb | Barn och ungdomsföreningar/<br>Drogpolicy | 2024-02-21 | 100 |
@@ -48511,13 +48474,7 @@ Diarienr. Förening     Bidragstyp               Utbet.dat Belopp
 | 15140 | Kungsbacka<br>Skateboardklubb | Barn och ungdomsföreningar/ Lokalt<br>aktivitetsstöd 2 | 2024-02-26 | 1 035,00 |
 | 15141 | Kungsbacka<br>Skateboardklubb | Barn och ungdomsföreningar/<br>Utbildning och utvecklingsbidrag | 2024-02-26 | 3 000,00 |
 | 15143 | Kungsbacka<br>Skateboardklubb | Barn och ungdomsföreningar/<br>Drogpolicy | 2024-02-26 | 150 |
-
-<!-- sida 1107 -->
-
-[Tabell 1107-1](handlingar.tabeller/1107-1.csv)
-
 | 15086 | Kungsbacka<br>SportfiskeKlubb | Barn och ungdomsföreningar/ Lokalt<br>aktivitetsstöd 2 | 2024-02-21 | 1 695,00 |
-| --- | --- | --- | --- | --- |
 | 15087 | Kungsbacka<br>SportfiskeKlubb | Barn och ungdomsföreningar/<br>Utbildning och utvecklingsbidrag | 2024-02-21 | 3 800,00 |
 | 15124 | Kungsbacka<br>SportfiskeKlubb | Barn och ungdomsföreningar/<br>Drogpolicy | 2024-02-21 | 190 |
 | 15156 | Kungsbacka Taekwon-Do<br>Klubb | Barn och ungdomsföreningar/ Lokalt<br>aktivitetsstöd 2 | 2024-02-26 | 21 172,00 |
@@ -48542,13 +48499,7 @@ Diarienr. Förening     Bidragstyp               Utbet.dat Belopp
 | 15148 | Särö Golf Club | Barn och ungdomsföreningar/ Lokalt<br>aktivitetsstöd 2 | 2024-02-26 | 7 012,00 |
 | 15147 | Särö Golf Club | Barn och ungdomsföreningar/<br>Utbildning och utvecklingsbidrag | 2024-02-26 | 14 800,00 |
 | 15168 | Särö Golf Club | Barn och ungdomsföreningar/<br>Drogpolicy | 2024-02-26 | 740 |
-
-<!-- sida 1108 -->
-
-[Tabell 1108-1](handlingar.tabeller/1108-1.csv)
-
 | 15089 | Särö Innebandyklubb | Barn och ungdomsföreningar/ Lokalt<br>aktivitetsstöd 2 | 2024-02-21 | 37 118,00 |
-| --- | --- | --- | --- | --- |
 | 15088 | Särö Innebandyklubb | Barn och ungdomsföreningar/<br>Utbildning och utvecklingsbidrag | 2024-02-21 | 46 400,00 |
 | 15129 | Särö Lawn-Tennisklubb | Barn och ungdomsföreningar/ Lokalt<br>aktivitetsstöd 2 | 2024-02-21 | 19 710,00 |
 | 15130 | Särö Lawn-Tennisklubb | Barn och ungdomsföreningar/<br>Utbildning och utvecklingsbidrag | 2024-02-21 | 34 000,00 |
@@ -48567,6 +48518,16 @@ Diarienr. Förening     Bidragstyp               Utbet.dat Belopp
 | 15170 | Åsa Scoutkår | Barn och ungdomsföreningar/ Lokalt<br>aktivitetsstöd 2 | 2024-02-26 | 2 640,00 |
 | 15171 | Åsa Scoutkår | Barn och ungdomsföreningar/<br>Utbildning och utvecklingsbidrag | 2024-02-26 | 9 000,00 |
 | 15172 | Åsa Scoutkår | Barn och ungdomsföreningar/<br>Drogpolicy | 2024-02-26 | 450 |
+
+<!-- sida 1104 -->
+
+<!-- sida 1105 -->
+
+<!-- sida 1106 -->
+
+<!-- sida 1107 -->
+
+<!-- sida 1108 -->
 
 <!-- sida 1109 -->
 

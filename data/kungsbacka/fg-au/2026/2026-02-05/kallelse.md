@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.63e7dd7019bfe963d53e97f3/1770037082
 sha256: 309148b50975f36713ac5f716352e55fd2263dd890041dcbd148ac1c34bf2cca
 bytes: 173805
 sidor: 4
-hamtad: 2026-10-07T23:18:34+00:00
-konverterad: 2026-10-07T23:18:40+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T07:24:24+00:00
+konverterad: 2026-10-14T07:24:30+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -59,7 +59,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-3-1](kallelse.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -69,22 +69,17 @@ KUNGSBACKA  KOMMUN
 | 9. | Ändring av starttid för FGAU<br>7e maj<br>Kl 13:50-13:55<br>Ordförande | FG-2026-00011 | Arbetsutskottet beslutar att tidigarelägga<br>starttiden. |
 | 10. | Kränkningsrapport:<br>Likabehandling och<br>diskriminering - uppföljning 1<br>Kl 13:55-14:40<br>Tove Bender, utredare<br>Bertil Ljungblad,<br>utvecklingsledare | FG-2026-00028 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och noterar informationen<br>till protokollet. |
 |  | Paus 14:40-14:50 |  |  |
+| 11. | Uppföljning Intern kontroll<br>2025<br>Kl 14:50-15:20<br>Frida Byrsten, verksamhetschef<br>Susanne Lyckevall,<br>verksamhetschef | FG-2026-00038 | Nämnden beslutar att godkänna<br>Internkontrollrapport 2025 - Nämnden för<br>Förskola & Grundskola, 2025-01-23. |
+| 12. | Beredning av motion - Mera<br>grön och blå mat i Kungsbacka<br>kommun (KS-2025-00809)<br>Kl 15:20-15:30<br>Frida Byrsten, verksamhetschef<br>Julia Brag, registrator | FG-2025-00743 | Nämnden för Förskola & Grundskola föreslår<br>kommunfullmäktige att avslå motionen med<br>hänvisning till att kommunens<br>måltidsverksamhet redan bedrivs i enlighet med<br>gällande riktlinjer och en stegvis omställning<br>bedöms vara mer ändamålsenlig än ett generellt<br>förbud. |
+| 13. | Tillsyn Smedingeskolan Söder<br>och Norr - Skolinspektionen SI<br>2025:5869<br>Kl 15:30-15:50<br>Frida Byrsten, verksamhetschef<br>Julia Brag, registrator | FG-2025-00526 | Då ärendet inte är komplett översänds ärendet till<br>nämnden för Förskola & Grundskola för beslut. |
+| 14. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2026 | FG-2026-00015 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen i protokollet. |
+| 15. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 15:50-16:00<br>Stigert Pettersson,<br>förvaltningschef | FG-2026-00016 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och noterar informationen<br>till protokollet. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | Uppföljning Intern kontroll<br>2025<br>Kl 14:50-15:20<br>Frida Byrsten, verksamhetschef<br>Susanne Lyckevall,<br>verksamhetschef | FG-2026-00038 | Nämnden beslutar att godkänna<br>Internkontrollrapport 2025 - Nämnden för<br>Förskola & Grundskola, 2025-01-23. |
-| 12. | Beredning av motion - Mera<br>grön och blå mat i Kungsbacka<br>kommun (KS-2025-00809)<br>Kl 15:20-15:30<br>Frida Byrsten, verksamhetschef<br>Julia Brag, registrator | FG-2025-00743 | Nämnden för Förskola & Grundskola föreslår<br>kommunfullmäktige att avslå motionen med<br>hänvisning till att kommunens<br>måltidsverksamhet redan bedrivs i enlighet med<br>gällande riktlinjer och en stegvis omställning<br>bedöms vara mer ändamålsenlig än ett generellt<br>förbud. |
-| 13. | Tillsyn Smedingeskolan Söder<br>och Norr - Skolinspektionen SI<br>2025:5869<br>Kl 15:30-15:50<br>Frida Byrsten, verksamhetschef<br>Julia Brag, registrator | FG-2025-00526 | Då ärendet inte är komplett översänds ärendet till<br>nämnden för Förskola & Grundskola för beslut. |
-| 14. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2026 | FG-2026-00015 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen i protokollet. |
-| 15. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 15:50-16:00<br>Stigert Pettersson,<br>förvaltningschef | FG-2026-00016 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och noterar informationen<br>till protokollet. |
 
 <!-- sida 4 -->
 

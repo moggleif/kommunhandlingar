@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.8bcd94c18d8729c25b16844/17080116963
 sha256: 6af3a96784e17b2cb9e0e5c21f3dff3572d4807f5fd61be98ff2acb0a0e7ddef
 bytes: 217528
 sidor: 4
-hamtad: 2026-10-08T07:58:04+00:00
-konverterad: 2026-10-08T07:58:10+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:53:41+00:00
+konverterad: 2026-10-14T10:53:47+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag | Tid |
 | --- | --- | --- | --- | --- |
@@ -66,17 +66,6 @@ KUNGSBACKA  KOMMUN
 | 8. | Nämnden för Miljö &<br>Hälsoskydds årsredovisning<br>2023<br>Föredragande: Christina<br>Nordberg, controller | 2024-00013 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd godkänner<br>årsredovisning 2023.<br>Paragrafen justeras omedelbart. | 15<br>min |
 | 9. | Ombudget och resultatfond<br>2023<br>Föredragande: Christina<br>Nordberg, controller | 2024-00014 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd godkänner<br>förslag till ombudgetering och resultatfond<br>2023.<br>Paragrafen justeras omedelbart. | 5 min |
 | 10. | Återrapportering av<br>byggnadsnämnden beslut om<br>underlag till kommunbudget<br>2025, plan 2026-2027<br>Föredragande: Katarina Öryd,<br>förvaltningschef och Christina<br>Nordberg, controller | 2023-06505 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd noterar<br>informationen till protokollet. | 5 min |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
 | 11. | Återrapportering av<br>byggnadsnämndens beslut om<br>Investeringsplan 2025-2034<br>Föredragande: Christina<br>Nordberg, controller | 2024-00602 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd noterar<br>informationen till protokollet. | 5 min |
 | 12. | Information om<br>kommunrevisionens uppdrag<br>Föredragande: Bo Regnér,<br>förtroendevald revisor | 2024-00771 |  | 15<br>min |
 | 13. | Information om uppföljning av<br>samverkansavtal med Mölndals<br>Stad<br>Föredragande: Marianne<br>Löfgren, enhetschef och<br>Christina Nordberg, controller | 2024-00826 |  | 25<br>min |
@@ -84,6 +73,15 @@ KUNGSBACKA  KOMMUN
 | 15. | Information om uppföljning av<br>tillsynsplan 2023<br>Föredragande: Tina Carlson,<br>verksamhetschef | 2024-00773 |  | 30<br>min |
 | 16. | Anmälan av delegeringsbeslut | 2024-00003 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd godkänner<br>redovisningen av delegeringsbeslut fattade<br>under perioden 2024-01-15 till 2024-02-11. | 1 min |
 | 17. | Anmälan av yttranden | 2024-00004 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd godkänner<br>redovisningen av yttranden fattade under<br>perioden 2024-01-15 till 2024-02-11. | 1 min |
+| 18. | Anmälan av ordförandebeslut -<br>Yttrande över samråd om<br>Kungsbacka kommuns<br>Vattentjänstplan | MH-2024-<br>115 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd godkänner<br>redovisningen av delegeringsbeslut från<br>ordförande Niclas Nilsson (M) på grund av<br>brådskande ärende. | 5 min |
+| 19. | Redovisning av inkomna<br>skrivelser | 2024-00005 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd noterar<br>redovisningen av inkomna skrivelser till<br>protokollet. | 1 min |
+| 20. | Information från<br>förvaltningschefen | 2024-00006 |  | 10<br>min |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -93,11 +91,3 @@ KUNGSBACKA  KOMMUN
 
 Niclas Nilsson                    Amanda Toresson
 ordförande                        sekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 18. | Anmälan av ordförandebeslut -<br>Yttrande över samråd om<br>Kungsbacka kommuns<br>Vattentjänstplan | MH-2024-<br>115 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd godkänner<br>redovisningen av delegeringsbeslut från<br>ordförande Niclas Nilsson (M) på grund av<br>brådskande ärende. | 5 min |
-| 19. | Redovisning av inkomna<br>skrivelser | 2024-00005 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd noterar<br>redovisningen av inkomna skrivelser till<br>protokollet. | 1 min |
-| 20. | Information från<br>förvaltningschefen | 2024-00006 |  | 10<br>min |

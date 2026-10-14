@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1b24984919d24cef920139ea/1774510751
 sha256: ea060ca1ba533fd09e374ae0be80afe075a2534aed0b12863ee77155a1aac34a
 bytes: 402793
 sidor: 31
-hamtad: 2026-10-08T08:15:43+00:00
-konverterad: 2026-10-08T08:15:50+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T11:08:59+00:00
+konverterad: 2026-10-14T11:09:06+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -819,7 +819,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 5394F32A5B826B98DE871BFA8B5C7B2A9B5AEAA24E
 Transaktionsidentitet: D0AED29421B14163181FF93C01225116F4EA47B7D4
 
-[Tabell 18-1](protokoll.tabeller/18-1.csv)
+[Tabell 18-19-1](protokoll.tabeller/18-19-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -829,6 +829,11 @@ Transaktionsidentitet: D0AED29421B14163181FF93C01225116F4EA47B7D4
 | Barbro Hjelström (M) | X |  |  |
 | Astrid Börjesson (S) |  | X |  |
 | Eva Tingström (S) |  | X |  |
+| Per Hoel (SD) | X |  |  |
+| Göran Ottosson (SD) | X |  |  |
+| Bengt Alderin (C) | X |  |  |
+| Ulrika Högstrand (KD) | X |  |  |
+| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 19 -->
 
@@ -848,15 +853,6 @@ Förslagsställaren
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 5394F32A5B826B98DE871BFA8B5C7B2A9B5AEAA24E
 Transaktionsidentitet: D0AED29421B14163181FF93C01225116F4EA47B7D4
-
-[Tabell 19-1](protokoll.tabeller/19-1.csv)
-
-| Per Hoel (SD) | X |  |  |
-| --- | --- | --- | --- |
-| Göran Ottosson (SD) | X |  |  |
-| Bengt Alderin (C) | X |  |  |
-| Ulrika Högstrand (KD) | X |  |  |
-| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 20 -->
 

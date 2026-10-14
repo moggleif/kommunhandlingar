@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.49d36ef2191e50b8850274/172614176580
 sha256: f8eaace35a8af394e911255f6f52f643fbe9a864dd12408105eaac04aa3f5234
 bytes: 142151
 sidor: 7
-hamtad: 2026-10-08T08:13:08+00:00
-konverterad: 2026-10-08T08:13:12+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T11:06:39+00:00
+konverterad: 2026-10-14T11:06:44+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -291,7 +291,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 583194AA18236EE5E3D9F3CDDAF6312FA34805090C
 Transaktionsidentitet: 393F9000B9FC661666157C5ED6715A23F48422D0CE
 
-[Tabell 6-1](protokoll.tabeller/6-1.csv)
+[Tabell 6-7-1](protokoll.tabeller/6-7-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -303,6 +303,9 @@ Transaktionsidentitet: 393F9000B9FC661666157C5ED6715A23F48422D0CE
 | Eva Tingström (S) |  | X |  |
 | Per Hoel (SD) |  | X |  |
 | Göran Ottosson (SD) |  | X |  |
+| Bengt Alderin (C) | X |  |  |
+| Ulrika Högstrand (KD) | X |  |  |
+| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 7 -->
 
@@ -331,13 +334,6 @@ Transaktionsidentitet: 583194AA18236EE5E3D9F3CDDAF6312FA34805090C
 Transaktionsidentitet: 393F9000B9FC661666157C5ED6715A23F48422D0CE
 
 [Tabell 7-1](protokoll.tabeller/7-1.csv)
-
-| Bengt Alderin (C) | X |  |  |
-| --- | --- | --- | --- |
-| Ulrika Högstrand (KD) | X |  |  |
-| Hravn Forsne (M), ordförande | X |  |  |
-
-[Tabell 7-2](protokoll.tabeller/7-2.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |

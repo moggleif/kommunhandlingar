@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.90ecece1927166f56ae1d4b/17291744095
 sha256: 0b29c5bfa761ea449ef94fb66faff815d4d4f2f6faca8e54965c6332319cd6ba
 bytes: 24790514
 sidor: 226
-hamtad: 2026-10-07T22:15:57+00:00
-konverterad: 2026-10-07T22:17:08+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T06:30:22+00:00
+konverterad: 2026-10-14T06:31:17+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115]
+figurer: [13, 23, 26, 45, 46, 50, 53, 54, 56, 60, 62, 63, 64, 69, 74, 75, 79, 80, 81, 85, 86, 87, 88, 89, 90, 91, 93, 94, 95, 96, 97, 98, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -56,7 +56,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -66,22 +66,22 @@ KUNGSBACKA  KOMMUN
 | 8. | God och nära vård och omsorg -<br>delårsrapport 2024<br>Föredragande: Cecilia Fossan<br>18:45-19:00 | GA-2024-<br>00183 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att godkänna delårsrapport God och nära<br>vård 2024. |
 | 9. | Lokalbehov 2026-2030<br>Föredragande: Erika Erngard<br>19:00-19:20 | GA-2024-<br>00173 | Förslag till beslut<br>Nämnden för Gymnasium och Arbetsmarknad<br>godkänner Lokalbehov 2026-2030 utblicksår 2031-<br>2035 |
 | 10. | Nämndbudget 2025<br>Föredragande: Patrik<br>Hellberg/Johan<br>Ronner/Andréas Mårtensson<br>19:20-19:50 | GA-2024-<br>00129 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att<br>\* godkänna nämndbudget 2025 med<br>verksamhetsplan och ramfördelning<br>\* uppdra åt förvaltningschefen att upprätta<br>förvaltningsbudget för 2025<br>\* uppdra åt förvaltningschefen att göra nödvändiga<br>omfördelningar i Förvaltningsbudgeten under året<br>samt att informera nämnden om dessa i samband<br>med delårsrapport och bokslut |
+| 11. | Information HR<br>Föredragande: Elisabeth<br>Grimhusen<br>19:50-20:10 | GA-2024-<br>00072 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protkollet. |
+| 12. | Nytt program på anpassad<br>gymnasieskola - programmet<br>för hälsa, vård och omsorg<br>Föredragande: Cindia<br>Escalante Mattsson<br>20:10-20:20 | GA-2024-<br>00176 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att erbjuda Programmet för hälsa, vård och<br>omsorg på anpassad gymnasieskola från läsåret<br>2025/2026. |
+| 13. | Rapport handläggning av<br>försörjningsstöd<br>Föredragande: Karin<br>Zetterman<br>20:20-20:30 | GA-2024-<br>00164 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 14. | Beslut om sekretesserinran BI-<br>projekt | GA-2024-<br>00184 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad ger<br>konsulter som tecknat sekretesserinran med<br>Kungsbacka kommun tillgång till information i<br>databaser och verksamhetssystem inom<br>förvaltningen. Tillgången begränsas till sådan data<br>som erfordras för att skapa underlag och rapporter<br>som efterfrågas och beställs av förvaltningen.<br>Nämnden för Gymnasium & Arbetsmarknad<br>upphäver tidigare beslut antagen av nämnden, 2022-<br>11-23, §130. |
+| 15. | Lära för livet 2024<br>Föredragande: Patrik Hellberg<br>20:30-20:40 | GA-2024-<br>00150 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad har<br>tagit del av informationen och noterad det till<br>protokollet.<br>Nämnden för Gymnasium & Arbetsmarknad<br>delegerar till presidiet att fatta beslut om Lära för<br>livet-prisets pristagare 2024. |
+| 16. | Återrapportering<br>avvikelsehantering 2024<br>Föredragande: Karin<br>Möglebust<br>20:40-20:50 | GA-2024-<br>00060 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av<br>avvikelsehanteringen för kvartal 3, 2024. |
+| 17. | Återrapportering av program-<br>och verksamhetsråd till<br>nämnden | GA-2024-<br>00003 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 18. | Återrapportering av<br>delegeringsbeslut | GA-2024-<br>00001 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av delegeringsbeslut<br>under perioden 2024-09-01till 2024-09-30. |
+| 19. | Inkomna skrivelser till<br>ledamöter och ersättare i<br>nämnden | GA-2024-<br>00002 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 20. | Förvaltningschef informerar<br>Föredragande: Patrik Hellberg<br>20:50-21:00 | GA-2024-<br>00007 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | Information HR<br>Föredragande: Elisabeth<br>Grimhusen<br>19:50-20:10 | GA-2024-<br>00072 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protkollet. |
-| 12. | Nytt program på anpassad<br>gymnasieskola - programmet<br>för hälsa, vård och omsorg<br>Föredragande: Cindia<br>Escalante Mattsson<br>20:10-20:20 | GA-2024-<br>00176 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att erbjuda Programmet för hälsa, vård och<br>omsorg på anpassad gymnasieskola från läsåret<br>2025/2026. |
-| 13. | Rapport handläggning av<br>försörjningsstöd<br>Föredragande: Karin<br>Zetterman<br>20:20-20:30 | GA-2024-<br>00164 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-| 14. | Beslut om sekretesserinran BI-<br>projekt | GA-2024-<br>00184 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad ger<br>konsulter som tecknat sekretesserinran med<br>Kungsbacka kommun tillgång till information i<br>databaser och verksamhetssystem inom<br>förvaltningen. Tillgången begränsas till sådan data<br>som erfordras för att skapa underlag och rapporter<br>som efterfrågas och beställs av förvaltningen.<br>Nämnden för Gymnasium & Arbetsmarknad<br>upphäver tidigare beslut antagen av nämnden, 2022-<br>11-23, §130. |
-| 15. | Lära för livet 2024<br>Föredragande: Patrik Hellberg<br>20:30-20:40 | GA-2024-<br>00150 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad har<br>tagit del av informationen och noterad det till<br>protokollet.<br>Nämnden för Gymnasium & Arbetsmarknad<br>delegerar till presidiet att fatta beslut om Lära för<br>livet-prisets pristagare 2024. |
 
 <!-- sida 4 -->
 
@@ -91,16 +91,6 @@ KUNGSBACKA  KOMMUN
 
 Axel Storckenfeldt (M)            Karin Möglebust
 ordförande                        sekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 16. | Återrapportering<br>avvikelsehantering 2024<br>Föredragande: Karin<br>Möglebust<br>20:40-20:50 | GA-2024-<br>00060 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av<br>avvikelsehanteringen för kvartal 3, 2024. |
-| 17. | Återrapportering av program-<br>och verksamhetsråd till<br>nämnden | GA-2024-<br>00003 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-| 18. | Återrapportering av<br>delegeringsbeslut | GA-2024-<br>00001 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av delegeringsbeslut<br>under perioden 2024-09-01till 2024-09-30. |
-| 19. | Inkomna skrivelser till<br>ledamöter och ersättare i<br>nämnden | GA-2024-<br>00002 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-| 20. | Förvaltningschef informerar<br>Föredragande: Patrik Hellberg<br>20:50-21:00 | GA-2024-<br>00007 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 
 <!-- sida 5 -->
 
@@ -1776,6 +1766,11 @@ Utifrån rådande omständigheter planeras inget stödboende i egen regi.
 
 3.2.2 Utblicksår 2031-2035
 
+Löp Beskrivning                      Plan   Plan Plan  Plan  Plan
+Kategorisera
+nr                                   2031  2032  2033  2034  2035
+Platser stödboende               6      6     6     6     6
+
 3.3 Övriga lokaler
 
 3.3.1 Lokalbehov övrigt
@@ -1803,13 +1798,6 @@ Lokalbehov 2026-2030 Utblicksår 2031-2035 10
 |  |  |  |  |  |  |  |  |  |
 
 [Tabell 50-2](handlingar.tabeller/50-2.csv)
-
-| Löp<br>nr | Beskrivning<br>Platser stödboende | Kategorisera | Plan<br>2031<br>6 | Plan<br>2032<br>6 | Plan<br>2033<br>6 | Plan<br>2034<br>6 | Plan<br>2035<br>6 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-
-[Tabell 50-3](handlingar.tabeller/50-3.csv)
 
 | Löpnr | Beskrivning | Kategorisera | Budget<br>2025 | Plan<br>2026 | Plan<br>2027 | Plan<br>2028 | Plan<br>2029 | Plan<br>2030 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -4536,7 +4524,7 @@ mångfald.
 
 12
 
-[Tabell 129-1](handlingar.tabeller/129-1.csv)
+[Tabell 129-130-1](handlingar.tabeller/129-130-1.csv)
 
 | Indikator | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Målsättning<br>2025 |
 | --- | --- | --- | --- | --- |
@@ -4553,6 +4541,11 @@ mångfald.
 | Slutanvändning av energi inom det geografiska området,<br>MWh/inv (Kolada) |  |  |  |  |
 | Matens klimatpåverkan från de offentliga måltiderna ska minska<br>räknat i kg CO2-ekv/kg livsmedel. Målsättningen är 1,0 år 2030. | 1,86 | 1,79 |  |  |
 | Ekologisk status i Kungsbackafjorden (VISS) |  |  |  |  |
+| Skyddad natur totalt, andel (Kolada) |  |  |  |  |
+| Vattendrag med god ekologisk status, andel (Kolada) |  |  |  |  |
+| Fossiloberoende personbilar i kommunorganisationen, andel (%) |  |  |  |  |
+| Andelen återbrukade möbler |  |  |  |  |
+| Kommunens verksamheters elförbrukning, total (kWh) |  |  |  |  |
 
 <!-- sida 130 -->
 
@@ -4581,20 +4574,10 @@ mellan näringsliv och utbildning.
 
 | Indikator | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Målsättning<br>2025 |
 | --- | --- | --- | --- | --- |
-| Skyddad natur totalt, andel (Kolada) |  |  |  |  |
-| Vattendrag med god ekologisk status, andel (Kolada) |  |  |  |  |
-| Fossiloberoende personbilar i kommunorganisationen, andel (%) |  |  |  |  |
-| Andelen återbrukade möbler |  |  |  |  |
-| Kommunens verksamheters elförbrukning, total (kWh) |  |  |  |  |
-
-[Tabell 130-2](handlingar.tabeller/130-2.csv)
-
-| Indikator | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Målsättning<br>2025 |
-| --- | --- | --- | --- | --- |
 | God hälsa | 62 % | 63 % | 59 % | 65 % |
 | Andel som upplevt sig stressade pga skolarbetet flera<br>gånger i veckan eller mer de senaste 6 månaderna |  | 67 % | 69 % | 63 % |
 
-[Tabell 130-3](handlingar.tabeller/130-3.csv)
+[Tabell 130-131-2](handlingar.tabeller/130-131-2.csv)
 
 | Indikator | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Målsättning<br>2025 |
 | --- | --- | --- | --- | --- |
@@ -4603,6 +4586,7 @@ mellan näringsliv och utbildning.
 | Sysselsatt dagbefolkning, antal |  |  |  |  |
 | Andel av sysselsatt dagbefolkning inom Göteborgsregionen | 4,9 % |  |  |  |
 | Företagsamhet, andel av invånare 16–74 år |  |  |  |  |
+| Antal nystartade företag per 1 000 invånare 16–64 år<br>(etableringsfrekvens) |  |  |  |  |
 
 <!-- sida 131 -->
 
@@ -4641,23 +4625,20 @@ Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkäns
 
 | Indikator | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Målsättning<br>2025 |
 | --- | --- | --- | --- | --- |
-| Antal nystartade företag per 1 000 invånare 16–64 år<br>(etableringsfrekvens) |  |  |  |  |
-
-[Tabell 131-2](handlingar.tabeller/131-2.csv)
-
-| Indikator | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Målsättning<br>2025 |
-| --- | --- | --- | --- | --- |
 | Genomsnittligt meritvärde i årskurs 9. Meritvärdet utgörs av<br>summan av de 17 bästa betygen i elevens slutbetyg och kan<br>max vara 340. | 237 | 236,5 |  |  |
 | Arbetslöshet för ungdomar 16–24 år i kommunen. (Källa:<br>Arbetsförmedlingen och SCB) | 1,7 % | 1,7 % |  |  |
 | Genomsnittligt betygspoäng för gymnasiets avgångselevers<br>betygspoäng som kan vara max 20. | 14,4 | 14,3 |  |  |
 | Andel vuxna personer som inte återkommit till<br>försörjningsstöd inom ett år efter avslutat försörjningsstöd (%) | 69 % | 73 % |  |  |
 | Kostnad utbetalt ekonomiskt bistånd, kr/invånare (Kolada) | 376 | 325 |  |  |
 
-[Tabell 131-3](handlingar.tabeller/131-3.csv)
+[Tabell 131-132-2](handlingar.tabeller/131-132-2.csv)
 
 | Indikator | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Målsättning<br>2025 |
 | --- | --- | --- | --- | --- |
 | Studiero | 65 | 64 | 64 | 72 |
+| Andelen elever med gymnasieexamen | 95,1 % | 92,5 % |  | 100 % |
+| Andelen elever med gymnasieexamen inom 3<br>år | 75,9 % | 77,3 % |  | 78 % |
+| Genomsnittlig betygspoäng | 14,4 | 14,3 |  | 14,6 |
 
 <!-- sida 132 -->
 
@@ -4684,14 +4665,6 @@ goda livet.
 15
 
 [Tabell 132-1](handlingar.tabeller/132-1.csv)
-
-| Indikator | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Målsättning<br>2025 |
-| --- | --- | --- | --- | --- |
-| Andelen elever med gymnasieexamen | 95,1 % | 92,5 % |  | 100 % |
-| Andelen elever med gymnasieexamen inom 3<br>år | 75,9 % | 77,3 % |  | 78 % |
-| Genomsnittlig betygspoäng | 14,4 | 14,3 |  | 14,6 |
-
-[Tabell 132-2](handlingar.tabeller/132-2.csv)
 
 | Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättning<br>2025 |
 | --- | --- | --- | --- | --- |

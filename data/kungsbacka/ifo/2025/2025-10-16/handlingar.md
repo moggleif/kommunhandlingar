@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4bf8b95b199c910f57c6a88e/1760345753
 sha256: 55ae12c3b9c9601be44e1d12b2b75cec44a227a5d8e7b1f9cd2cf6e256793007
 bytes: 3300794
 sidor: 70
-hamtad: 2026-10-08T02:36:02+00:00
-konverterad: 2026-10-08T02:36:16+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:13:13+00:00
+konverterad: 2026-10-14T10:13:25+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [5, 9, 10, 12, 14, 17, 19, 28]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -285,6 +285,19 @@ Behovet av ett nytt barnboende ska utredas under 2026.
 
 3.1.1 Lokalbehov bostad med särskild service
 
+Beskrivning                       Budget Plan Plan Plan Plan Plan
+Löpnr
+2026 2027 2028 2029 2030 2031
+Boende med särskild service, barn                     4
+Boende med särskild service        12
+Boende med särskild service             12
+
+Boende med särskild service                  12
+Boende med särskild service                      12
+Boende med särskild service                          12
+
+Boende med särskild service                              12
+
 3.1.2 Utblicksår 2032-2036
 
 Löp Beskrivning                        Plan  Plan Plan  Plan Plan
@@ -293,16 +306,6 @@ nr                                     2032  2033 2034  2035 2036
 Boende med särskild service          12   12    12   12    12
 
 Lokalbehov 2027-2031 utblicksår 2032-2036 8
-
-[Tabell 9-1](handlingar.tabeller/9-1.csv)
-
-| Löpnr | Beskrivning<br>Boende med särskild service, barn<br>Boende med särskild service | Budget<br>2026<br>12 | Plan<br>2027 | Plan<br>2028 | Plan<br>2029 | Plan<br>2030<br>4 | Plan<br>2031 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Boende med särskild service |  | 12 |  |  |  |  |
-|  | Boende med särskild service |  |  | 12 |  |  |  |
-|  | Boende med särskild service |  |  |  | 12 |  |  |
-|  | Boende med särskild service |  |  |  |  | 12 |  |
-|  | Boende med särskild service |  |  |  |  |  | 12 |
 
 <!-- sida 10 -->
 
@@ -1335,7 +1338,7 @@ Fokusområden
 
 11
 
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
+[Tabell 35-36-1](handlingar.tabeller/35-36-1.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättnin<br>g 2026 |
 | --- | --- | --- | --- | --- |
@@ -1345,6 +1348,7 @@ Fokusområden
 | Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 91 % | 88 % |  | Öka |
 | Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn | 76 % | 76 % |  | Öka |
 | Brukarbedömning individ- och familjeomsorg totalt<br>- helhetssyn |  | 95 % |  | Öka |
+| Invånare 16-84 år med avsaknad av tillit till andra |  |  |  | Minska |
 
 <!-- sida 36 -->
 
@@ -1395,12 +1399,6 @@ för att lära nytt, tänka helhet och bli effektfulla.
 
 12
 
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättnin<br>g 2026 |
-| --- | --- | --- | --- | --- |
-| Invånare 16-84 år med avsaknad av tillit till andra |  |  |  | Minska |
-
 <!-- sida 37 -->
 
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
@@ -1419,7 +1417,7 @@ mångfald.
 
 13
 
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
+[Tabell 37-38-1](handlingar.tabeller/37-38-1.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättnin<br>g 2026 |
 | --- | --- | --- | --- | --- |
@@ -1432,6 +1430,14 @@ mångfald.
 | Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 92 |  |  | Minska |
 | Avfall från kommunens verksamheter ska minska<br>med 40 % per heltidsanställd. Startvärde 100,<br>målvärde 2030 är 60. | 223 |  |  | Minska |
 | Fossiloberoende personbilar, andel av totalt antal<br>bilar i det geografiska området, (Kolada) | 24,1 % | 26,5 % |  | Öka |
+| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,79 | 1,85 |  | Minska |
+| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021 var<br>antalet 124 (KEMgroup PRO) | 115 | 151 |  | Minska |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  | Öka |
+| Andelen återbrukade möbler |  |  |  | Öka |
+| Total debiterad vattenförbrukning fördelat på antal<br>anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  | Minska |
+| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn. |  |  |  | Minska |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  | Minska |
 
 <!-- sida 38 -->
 
@@ -1449,26 +1455,16 @@ mellan näringsliv och utbildning.
 
 14
 
-[Tabell 38-1](handlingar.tabeller/38-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättnin<br>g 2026 |
-| --- | --- | --- | --- | --- |
-| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,79 | 1,85 |  | Minska |
-| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021 var<br>antalet 124 (KEMgroup PRO) | 115 | 151 |  | Minska |
-| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
-| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  | Öka |
-| Andelen återbrukade möbler |  |  |  | Öka |
-| Total debiterad vattenförbrukning fördelat på antal<br>anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  | Minska |
-| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn. |  |  |  | Minska |
-| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  | Minska |
-
-[Tabell 38-2](handlingar.tabeller/38-2.csv)
+[Tabell 38-39-1](handlingar.tabeller/38-39-1.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättnin<br>g 2026 |
 | --- | --- | --- | --- | --- |
 | Insikt, SKRs servicemätning av kommunernas<br>myndighetsutövning för företag. Nöjd-kund-index<br>utifrån sammanvägt betygsindex 0-100, för hur<br>företag i kommunen bedömer Kungsbacka<br>kommuns myndighetsutövning, vilket är en viktig<br>del av företagsklimatet. | 67 | 64 |  | Öka |
 | Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde utifrån<br>skala 1-6, där företag bedömer företagsklimatet i<br>Kungsbacka kommun. | 3,4 | 3,8 |  | Öka |
 | Sysselsatt dagbefolkning, antal | 28 586 |  |  | Öka |
+| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 4,9 % |  |  | Öka |
+| Företagsamhet, andel av invånare 16–74 år | 19 % |  |  | Öka |
+| Antal nystartade företag per 1 000 invånare 16–64<br>år (etableringsfrekvens) | 10,3 |  |  | Öka |
 
 <!-- sida 39 -->
 
@@ -1503,14 +1499,6 @@ g 2026
 15
 
 [Tabell 39-1](handlingar.tabeller/39-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättnin<br>g 2026 |
-| --- | --- | --- | --- | --- |
-| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 4,9 % |  |  | Öka |
-| Företagsamhet, andel av invånare 16–74 år | 19 % |  |  | Öka |
-| Antal nystartade företag per 1 000 invånare 16–64<br>år (etableringsfrekvens) | 10,3 |  |  | Öka |
-
-[Tabell 39-2](handlingar.tabeller/39-2.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättnin<br>g 2026 |
 | --- | --- | --- | --- | --- |
@@ -1703,27 +1691,55 @@ Nämndbudget 2026
 
 8.1 Resursmått
 
+Utfall  Utfall Utfall   Budget   Budget
+Delområde    Nyckeltal
+2022    2023   2024      2025     2026
+Kostnad för
+personlig assistans
+per timma i     420      462       486
+Kungsbacka
+kommun i egen regi
+Kommunfullmäktige
+Försäkringskassans
+andel av
+kostnadstäckningen 50 % 43 %       39 %
+för personlig
+assistans för egen
+regi
 8.2 Prestationsmått
 
+Utfall                  Budget     Budget
+Delområde    Nyckeltal             Utfall 2023 Utfall 2024
+2022                     2025       2026
+Fördelning
+mellan
+Kommunfullmäktige            30 %    30 %       30 %
+serviceboende och
+gruppboende (%)
+Antal personer
+som har LSS-insats 572   592       598
+verkställd den 1 okt
+Antal dygn i
+institutionsplacering
+2 660   2 875     2 094
+vuxen, köpta
+platser
+Antal dygn i
+institutionsplacering
+4 314   5 433     5 052
+Nämnd        barn och unga,
+köpta platser
+Antal dygn i
+stödboende barn
+3 479   4 125     2 357
+och unga, köpta
+platser
+Antal dygn i
+stödboende
+3 712   2 874     5 102
+missbruk, köpta
+platser
 20
-
-[Tabell 44-1](handlingar.tabeller/44-1.csv)
-
-| Delområde | Utfall Utfall Utfall Budget Budget<br>Nyckeltal<br>2022 2023 2024 2025 2026 |
-| --- | --- |
-| Kommunfullmäktige | Kostnad för<br>personlig assistans<br>per timma i 420 462 486<br>Kungsbacka<br>kommun i egen regi |
-|  | Försäkringskassans<br>andel av<br>kostnadstäckningen 50 % 43 % 39 %<br>för personlig<br>assistans för egen<br>regi |
-
-[Tabell 44-2](handlingar.tabeller/44-2.csv)
-
-| Delområde | Utfall Budget Budget<br>Nyckeltal Utfall 2023 Utfall 2024<br>2022 2025 2026 |
-| --- | --- |
-| Kommunfullmäktige | Fördelning<br>mellan<br>30 % 30 % 30 %<br>serviceboende och<br>gruppboende (%) |
-| Nämnd | Antal personer<br>som har LSS-insats 572 592 598<br>verkställd den 1 okt |
-|  | Antal dygn i<br>institutionsplacering<br>2 660 2 875 2 094<br>vuxen, köpta<br>platser |
-|  | Antal dygn i<br>institutionsplacering<br>4 314 5 433 5 052<br>barn och unga,<br>köpta platser |
-|  | Antal dygn i<br>stödboende barn<br>3 479 4 125 2 357<br>och unga, köpta<br>platser |
-|  | Antal dygn i<br>stödboende<br>3 712 2 874 5 102<br>missbruk, köpta<br>platser |
 
 <!-- sida 45 -->
 
@@ -1732,15 +1748,35 @@ Nämndbudget 2026
 
 8.3 Effektmått
 
+Budget    Budget
+Delområde Nyckeltal    Utfall 2022 Utfall 2023 Utfall 2024
+2025      2026
+Ej
+återaktualiserade
+barn 0-12 år ett år
+77 %     77 %        74 %
+efter avslutad
+utredning eller
+insats, andel %
+Ej
+återaktualiserade
+ungdomar 13-20
+år ett år efter 77 %    73 %        73 %
+avslutad
+Nämnd
+utredning eller
+insats, andel (%)
+Ej
+återaktualiserade
+vuxna med
+missbruksproblem
+eller insatser 21 61 %  56 %        52 %
+\+ ett år efter
+avslutad
+utredning eller
+insats, andel %
+
 21
-
-[Tabell 45-1](handlingar.tabeller/45-1.csv)
-
-| Delområde | Budget Budget<br>Nyckeltal Utfall 2022 Utfall 2023 Utfall 2024<br>2025 2026 |
-| --- | --- |
-| Nämnd | Ej<br>återaktualiserade<br>barn 0-12 år ett år<br>77 % 77 % 74 %<br>efter avslutad<br>utredning eller<br>insats, andel % |
-|  | Ej<br>återaktualiserade<br>ungdomar 13-20<br>år ett år efter 77 % 73 % 73 %<br>avslutad<br>utredning eller<br>insats, andel (%) |
-|  | Ej<br>återaktualiserade<br>vuxna med<br>missbruksproblem<br>eller insatser 21 61 % 56 % 52 %<br>+ ett år efter<br>avslutad<br>utredning eller<br>insats, andel % |
 
 <!-- sida 46 -->
 

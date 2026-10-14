@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6b3c9de619a7bbdb14110676/1763109230
 sha256: 46eb0cb58df4d1e43f9b04866ce8b19a022f7862fe2258c4fe4211dcedd34935
 bytes: 80181392
 sidor: 594
-hamtad: 2026-10-08T01:17:01+00:00
-konverterad: 2026-10-08T01:25:17+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T09:04:20+00:00
+konverterad: 2026-10-14T09:10:42+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 373, 374, 375, 376, 570, 579, 580, 583, 586]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, ok]
+tal_obekraftade: [142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 154, 155, 156, 160, 161, 162, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 306, 307, 308, 309, 310, 311, 312, 313, 342, 343, 373, 374, 375, 376, 570, 579, 580, 583, 586]
+figurer: [4, 47, 55, 57, 59, 79, 100, 109, 111, 112, 113, 128, 133, 134, 135, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 291, 295, 296, 298, 306, 307, 308, 309, 310, 311, 312, 313, 318, 326, 370, 371, 372, 373, 374, 375, 376, 377, 379, 380, 381, 383, 384, 386, 387, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 407, 408, 409, 410, 419, 420, 421, 427, 429, 431, 433, 434, 435, 438, 439, 440, 442, 443, 444, 445, 447, 448, 449, 450, 451, 453, 454, 456, 458, 459, 460, 462, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 479, 480, 482, 483, 484, 485, 486, 489, 492, 499, 500, 514, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568, 569, 570]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -437,7 +437,7 @@ Fokusområden
 
 11
 
-[Tabell 11-1](handlingar.tabeller/11-1.csv)
+[Tabell 11-12-1](handlingar.tabeller/11-12-1.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -446,6 +446,7 @@ Fokusområden
 | Anmälda brott mot brottsbalken per invånare<br>(antal/100 000 invånare) | 6 475 | 6 541 |  | Minska |
 | Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 91 % | 88 % | 88 % | Öka |
 | Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn | 76 % | 76 % | 78 % | Öka |
+| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn |  | 95 % |  | Öka |
 
 <!-- sida 12 -->
 
@@ -491,12 +492,6 @@ upplevas som en mer välskött utemiljö.
 
 12
 
-[Tabell 12-1](handlingar.tabeller/12-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
-| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn |  | 95 % |  | Öka |
-
 <!-- sida 13 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
@@ -515,7 +510,7 @@ mångfald.
 
 13
 
-[Tabell 13-1](handlingar.tabeller/13-1.csv)
+[Tabell 13-14-1](handlingar.tabeller/13-14-1.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -528,6 +523,13 @@ mångfald.
 | Avfall från kommunens verksamheter ska<br>minska med 40 % per heltidsanställd. Startvärde<br>100, målvärde 2030 är 60. | 223 |  |  | Minska |
 | Fossiloberoende personbilar, andel av totalt<br>antal bilar i det geografiska området, (Kolada) | 24,1 % | 26,5 % |  | Öka |
 | Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,79 | 1,85 |  | Minska |
+| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021<br>var antalet 124 (KEMgroup PRO) | 115 | 151 |  | Minska |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  | Öka |
+| Andelen återbrukade möbler |  |  |  | Öka |
+| Total debiterad vattenförbrukning fördelat på<br>antal anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  | Minska |
+| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn. |  |  |  | Minska |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  | Minska |
 
 <!-- sida 14 -->
 
@@ -559,18 +561,6 @@ Fokusområden
 mellan näringsliv och utbildning.
 
 14
-
-[Tabell 14-1](handlingar.tabeller/14-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
-| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021<br>var antalet 124 (KEMgroup PRO) | 115 | 151 |  | Minska |
-| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
-| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  | Öka |
-| Andelen återbrukade möbler |  |  |  | Öka |
-| Total debiterad vattenförbrukning fördelat på<br>antal anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  | Minska |
-| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn. |  |  |  | Minska |
-| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  | Minska |
 
 <!-- sida 15 -->
 
@@ -841,7 +831,7 @@ Nämndbudget 2026
 
 22
 
-[Tabell 22-1](handlingar.tabeller/22-1.csv)
+[Tabell 22-23-1](handlingar.tabeller/22-23-1.csv)
 
 | Område | Beskrivning |
 | --- | --- |
@@ -849,6 +839,9 @@ Nämndbudget 2026
 |  | Vi lovar:<br>- Att alltid leverera bra dricksvatten med god kvalitet, vilket vi ser till genom<br>provtagning och kontroller.<br>- Att förbättra kontrollen genom ny teknik.<br>- Att leverera dricksvatten som räcker för hushållens normala behov.<br>Då vill vi att du som kommuninvånare hjälper oss genom att:<br>- Spara på vatten, särskilt när vi går ut med uppmaningar om detta.<br>- Ta till dig våra smarta vattentips, till exempel skaffar en regntunna för bevattning i<br>trädgården.<br>- Ha vatten hemma för att kunna klara dig 72 timmar vid en kris. Se gärna<br>krisinformation.se för att lära dig mer om hur mycket vatten, och andra saker, som<br>du kan behöva hemma vid en kris! |
 |  | Vi lovar:<br>- Att allt slam som blir kvar när vi renat vårt avloppsvatten återgår till jordbruket där<br>det bidrar till att återföra fosfor och producera nya grödor.<br>- Att vårt slam uppfyller nationella krav för vilka halter av olika ämnen som får<br>finnas i det.<br>Då vill vi att du som kommuninvånare hjälper oss genom att:<br>- Sluta fulspola! Bara spolar ner bajs, kiss och toapapper i toaletten.<br>- Slänga allt annat, till exempel våtservetter, tops, bindor, snus och fimpar i<br>soppåsen för brännbart avfall<br>- Skaffa en papperskorg i badrummet så att skräp inte hamnar i toaletten.<br>- Lämna gamla mediciner på ett apotek. |
 | Avfall & Återvinning | Vi lovar:<br>- Att tömma sopkärlen hos dig enligt hämtschemat.<br>- Att om tömningen blir försenad informera via hemsidan och avfallsappen.<br>- Att vi tömmer senast dagen efter att vi fått in anmälan om missad hämtning.<br>Då vill vi att du som kommuninvånare hjälper oss genom att:<br>- Ställa ut dina kärl på rätt dag och att det är lättillgängligt även vid snö och halka.<br>- Vända kärlen med handtagen ut mot vägen för en god arbetsmiljö för de som<br>tömmer. |
+|  | Vi lovar:<br>- Att ta hand om ditt avfall på ett miljöriktigt och ansvarsfullt sätt så att det<br>behandlas på godkända anläggningar för att bli till biogas, materialåtervinnas,<br>energiåtervinnas eller i sista hand deponeras.<br>- Att ge dig information om hur du ska sortera ditt avfall, exempelvis via utskick,<br>hemsidan, avfallsappen och personal på återvinningscentralerna.<br>Då vill vi att du som kommuninvånare hjälper oss genom att:<br>- Sortera ditt avfall enligt gällande regler.<br>- Förlänga livslängden på dina prylar så vi tillsammans kan minska mängden<br>avfall.<br>- Lämna det som någon annan kan få nytta av till återbruk, istället för att slänga i<br>soporna. |
+| Kungsbacka<br>Bredbandsnät | Vi lovar en snabb felavhjälpning för teleoperatörer och storkunder. På det sättet<br>hjälper vi Kungsbackas invånare att ha tillgång till ett stabilt och fungerande nät. |
+| Kund & Kommunikation | Vi lovar:<br>- Att när du kontaktar oss på Teknik ger vi dig ett gott bemötande och återkoppling<br>inom två arbetsdagar samt svar inom tio arbetsdagar.<br>- Att vi håller kontakten tills ditt ärende är avslutat.<br>Då vill vi att du som kommuninvånare hjälper oss genom att:<br>- Använda anvisade kontaktvägar. |
 
 <!-- sida 23 -->
 
@@ -856,14 +849,6 @@ Nämnden för Teknik                               Kungsbacka kommun
 Nämndbudget 2026
 
 23
-
-[Tabell 23-1](handlingar.tabeller/23-1.csv)
-
-| Område | Beskrivning |
-| --- | --- |
-|  | Vi lovar:<br>- Att ta hand om ditt avfall på ett miljöriktigt och ansvarsfullt sätt så att det<br>behandlas på godkända anläggningar för att bli till biogas, materialåtervinnas,<br>energiåtervinnas eller i sista hand deponeras.<br>- Att ge dig information om hur du ska sortera ditt avfall, exempelvis via utskick,<br>hemsidan, avfallsappen och personal på återvinningscentralerna.<br>Då vill vi att du som kommuninvånare hjälper oss genom att:<br>- Sortera ditt avfall enligt gällande regler.<br>- Förlänga livslängden på dina prylar så vi tillsammans kan minska mängden<br>avfall.<br>- Lämna det som någon annan kan få nytta av till återbruk, istället för att slänga i<br>soporna. |
-| Kungsbacka<br>Bredbandsnät | Vi lovar en snabb felavhjälpning för teleoperatörer och storkunder. På det sättet<br>hjälper vi Kungsbackas invånare att ha tillgång till ett stabilt och fungerande nät. |
-| Kund & Kommunikation | Vi lovar:<br>- Att när du kontaktar oss på Teknik ger vi dig ett gott bemötande och återkoppling<br>inom två arbetsdagar samt svar inom tio arbetsdagar.<br>- Att vi håller kontakten tills ditt ärende är avslutat.<br>Då vill vi att du som kommuninvånare hjälper oss genom att:<br>- Använda anvisade kontaktvägar. |
 
 <!-- sida 24 -->
 
@@ -1995,7 +1980,7 @@ Intern kontrollplan 2026
 
 11
 
-[Tabell 49-1](handlingar.tabeller/49-1.csv)
+[Tabell 49-50-1](handlingar.tabeller/49-50-1.csv)
 
 | Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>TEKNIK: Risk att<br>38 § MBL missas<br>vid upphandling 2. Lindrig<br>med ny 1. Osannolik (uppfattas som<br>entreprenör som (risken är praktiskt liten av berörda<br>utförare av taget obefintlig) intressenter och<br>tjänster som kommunen)<br>tidigare utförts i<br>egen regi |
 | --- | --- |
@@ -2004,6 +1989,8 @@ Intern kontrollplan 2026
 |  | TEKNIK: Risk för 3. Kännbar<br>obehöriga eller (uppfattas som<br>1. Osannolik<br>felaktiga besvärande för<br>(risken är praktiskt<br>transaktioner berörda<br>taget obefintlig)<br>intressenter och<br>kommunen) |
 | Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. | Kommunövergrip 3. Kännbar<br>ande risk: (uppfattas som<br>informationssäke besvärande för<br>2. Mindre vanligt<br>rhet; skydd av berörda<br>information mot intressenter och<br>obehörig tillgång kommunen) |
 |  | Kommunövergrip 3. Kännbar<br>ande risk: It- (uppfattas som<br>säkerhet besvärande för<br>2. Mindre vanligt<br>- Bristande berörda<br>driftmiljö hos intressenter och<br>leverantörer kommunen) |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip<br>ande risk: Risk<br>att<br>samhällsutbyggn<br>ad inte kan ske i<br>planerad takt. Ny 3. Kännbar<br>infrastruktur och (uppfattas som<br>exploatering och besvärande för<br>2. Mindre vanligt<br>projekt för berörda<br>underhåll/utbygg intressenter och<br>nad av befintlig kommunen)<br>infrastruktur är<br>beroende av<br>varandra<br>(resurser och<br>samplanering). |
+| Verksamhet | Kommunövergrip<br>ande risk: 3. Kännbar<br>Dämpad (uppfattas som<br>befolkningstillväx besvärande för<br>2. Mindre vanligt<br>t med långsiktig berörda<br>påverkan på intressenter och<br>kommunala kommunen)<br>verksamheter |
 
 <!-- sida 50 -->
 
@@ -2011,12 +1998,6 @@ Nämnden för Teknik                               Kungsbacka kommun
 Intern kontrollplan 2026
 
 12
-
-[Tabell 50-1](handlingar.tabeller/50-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip<br>ande risk: Risk<br>att<br>samhällsutbyggn<br>ad inte kan ske i<br>planerad takt. Ny 3. Kännbar<br>infrastruktur och (uppfattas som<br>exploatering och besvärande för<br>2. Mindre vanligt<br>projekt för berörda<br>underhåll/utbygg intressenter och<br>nad av befintlig kommunen)<br>infrastruktur är<br>beroende av<br>varandra<br>(resurser och<br>samplanering). |
-| --- | --- |
-| Verksamhet | Kommunövergrip<br>ande risk: 3. Kännbar<br>Dämpad (uppfattas som<br>befolkningstillväx besvärande för<br>2. Mindre vanligt<br>t med långsiktig berörda<br>påverkan på intressenter och<br>kommunala kommunen)<br>verksamheter |
 
 <!-- sida 51 -->
 
@@ -2274,37 +2255,37 @@ Kostnader fördelat på resp. disciplin                                         
 | Investeringskostnader | Fas 1 | Fas 3 | Fas 2 - Övergripande | Fas 2 - Block 1 | Fas 2 - Block 2 | Fas 2 - Block 3 | Fas 2 - Block 4 | Summering |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |  |
-| Mark VASAB |  |  | 149 395 712 kr | 9 201 787 kr | 7 697 612 kr | 4 698 917 kr | 3 260 038 kr | 1 74 254 066 kr |
+| Mark VASAB |  |  | 149 395 712 kr | 9 201 787 kr | 7 697 612 kr | 4 698 917 kr | 3 260 038 kr | 174 254 066 kr |
 |  |  |  |  |  |  |  |  |  |
-| Grundläggning Hercueles |  |  | 9 092 322 kr | 1 1 190 845 kr | 18 903 368 kr | 5 523 038 kr | 1 830 763 kr | 4 6 540 336 kr |
+| Grundläggning Hercueles |  |  | 9 092 322 kr | 11 190 845 kr | 18 903 368 kr | 5 523 038 kr | 1 830 763 kr | 46 540 336 kr |
 |  |  |  |  |  |  |  |  |  |
-| Stomme CG (Block 1, 2 & 4) |  |  | 4 752 577 kr | 1 3 495 070 kr | 13 003 772 kr | - kr | 5 386 640 kr | 3 6 638 059 kr |
+| Stomme CG (Block 1, 2 & 4) |  |  | 4 752 577 kr | 13 495 070 kr | 13 003 772 kr | - kr | 5 386 640 kr | 36 638 059 kr |
 |  |  |  |  |  |  |  |  |  |
-| VS Kiwi |  |  | 10 819 936 kr | 8 229 326 kr | 10 822 367 kr | 5 493 834 kr | 5 637 257 kr | 4 1 002 720 kr |
+| VS Kiwi |  |  | 10 819 936 kr | 8 229 326 kr | 10 822 367 kr | 5 493 834 kr | 5 637 257 kr | 41 002 720 kr |
 |  |  |  |  |  |  |  |  |  |
-| Vent Kiwi |  |  | 9 141 399 kr | 9 997 076 kr | 12 792 611 kr | 6 082 112 kr | 3 925 904 kr | 4 1 939 102 kr |
+| Vent Kiwi |  |  | 9 141 399 kr | 9 997 076 kr | 12 792 611 kr | 6 082 112 kr | 3 925 904 kr | 41 939 102 kr |
 |  |  |  |  |  |  |  |  |  |
-| El, styr & regler Elektro-Emanuel |  |  | 25 000 125 kr | 29 523 369 kr | 21 816 067 kr | 3 0 514 932 kr | 1 2 685 472 kr | 1 19 539 965 kr |
+| El, styr & regler Elektro-Emanuel |  |  | 25 000 125 kr | 29 523 369 kr | 21 816 067 kr | 30 514 932 kr | 12 685 472 kr | 119 539 965 kr |
 |  |  |  |  |  |  |  |  |  |
-| Process & Maskin ELVA (Block 1, 2 & 3) |  |  | 86 446 101 kr | 120 628 508 kr | 93 783 197 kr | 5 8 374 772 kr | - kr | 3 59 232 578 kr |
+| Process & Maskin ELVA (Block 1, 2 & 3) |  |  | 86 446 101 kr | 120 628 508 kr | 93 783 197 kr | 58 374 772 kr | - kr | 359 232 578 kr |
 |  |  |  |  |  |  |  |  |  |
-| Bygg Byggdialog |  |  | - kr | 71 926 453 kr | 123 637 331 kr | 8 3 121 984 kr | 3 7 238 529 kr | 3 15 924 297 kr |
+| Bygg Byggdialog |  |  | - kr | 71 926 453 kr | 123 637 331 kr | 83 121 984 kr | 37 238 529 kr | 315 924 297 kr |
 |  |  |  |  |  |  |  |  |  |
-| Arbetsplatsomkostnader + Provisorier ByggDialog |  |  | 198 796 411 kr | 26 955 922 kr | 38 941 297 kr | 8 545 942 kr | 7 333 475 kr | 2 80 573 046 kr |
+| Arbetsplatsomkostnader + Provisorier ByggDialog |  |  | 198 796 411 kr | 26 955 922 kr | 38 941 297 kr | 8 545 942 kr | 7 333 475 kr | 280 573 046 kr |
 |  |  |  |  |  |  |  |  |  |
 | Index (Fördelat på resp entreprenör) |  |  | - kr | - kr | - kr | - kr | - kr | - kr |
 |  |  |  |  |  |  |  |  |  |
-| Fas 1 | 95 869 808 kr |  |  |  |  |  |  | 9 5 869 808 kr |
+| Fas 1 | 95 869 808 kr |  |  |  |  |  |  | 95 869 808 kr |
 |  |  |  |  |  |  |  |  |  |
 | Fas 3 |  | 8 000 000 kr |  |  |  |  |  | 8 000 000 kr |
 |  |  |  |  |  |  |  |  |  |
-| Summa Kostnader Byggdialog inkl arvode | 9 5 869 808 kr | 8 000 000 kr | 4 93 444 583 kr | 301 148 355 kr | 341 397 623 kr | 202 355 530 kr | 77 298 078 kr | 1 519 513 977 kr |
+| Summa Kostnader Byggdialog inkl arvode | 95 869 808 kr | 8 000 000 kr | 493 444 583 kr | 301 148 355 kr | 341 397 623 kr | 202 355 530 kr | 77 298 078 kr | 1 519 513 977 kr |
 |  |  |  |  |  |  |  |  |  |
-| Byggherrekostnader (2%) | 1 917 396 kr | 160 000 kr | 9 868 892 kr | 6 022 967 kr | 6 827 952 kr | 4 047 111 kr | 1 545 962 kr | 3 0 390 280 kr |
+| Byggherrekostnader (2%) | 1 917 396 kr | 160 000 kr | 9 868 892 kr | 6 022 967 kr | 6 827 952 kr | 4 047 111 kr | 1 545 962 kr | 30 390 280 kr |
 |  |  |  |  |  |  |  |  |  |
-| Prognos Investeringskostnad (Exkl driftkostnader) | 97 787 204 kr | 8 160 000 kr | 503 313 474 kr | 307 171 322 kr | 348 225 575 kr | 2 06 402 641 kr | 7 8 844 039 kr | 1 549 904 256 kr |
+| Prognos Investeringskostnad (Exkl driftkostnader) | 97 787 204 kr | 8 160 000 kr | 503 313 474 kr | 307 171 322 kr | 348 225 575 kr | 206 402 641 kr | 78 844 039 kr | 1 549 904 256 kr |
 |  |  |  |  |  |  |  |  |  |
-| Prognos investeringskostnad avrundat närmaste miljon | 9 8 000 000 kr | 8 000 000 kr | 5 03 000 000 kr | 307 000 000 kr | 348 000 000 kr | 206 000 000 kr | 79 000 000 kr | 1 550 000 000 kr |
+| Prognos investeringskostnad avrundat närmaste miljon | 98 000 000 kr | 8 000 000 kr | 503 000 000 kr | 307 000 000 kr | 348 000 000 kr | 206 000 000 kr | 79 000 000 kr | 1 550 000 000 kr |
 
 [Tabell 56-2](handlingar.tabeller/56-2.csv)
 
@@ -2336,171 +2317,175 @@ Kostnader fördelat på resp. disciplin                                         
 <!-- sida 57 -->
 
 Risk & Möjlighetslista Hammargård ARV
-
-[Tabell 57-1](handlingar.tabeller/57-1.csv)
-
-| Lö | Kat | Verksamhetsdel | Beskrivning av riskmoment | Åtgärd / Förtydligande | Komment | Belopp till målbudget |  |  | Viktning % |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Kategori (Kat) |  |  | Kostnadsökning, personsäkerhet, miljö etc |  | Medverka | Möjlighet | Risker |  |  |  |  |  |
-| Ek=Ekonomi |  |  |  |  | nBdesetällare |  |  |  | 4= 100% utfall<br>3= Hög risk/möjlighet (75-<br>100%)<br>2= medium risk/möjlighet (25-<br>75%)<br>1= låg risk/möjlighet (0-25%)<br>0= kräver aktivt<br>beslutsfattande BE |  |  |  |
-| Te=Teknik |  |  |  |  | Byggentr. | Inköpsvinster eller annat<br>tex plocka bort | Kostnad att överföra som<br>riskpeng till målbudget |  |  |  |  |  |
-| Tid=Tid |  |  |  |  | Markentr. |  |  |  |  |  |  |  |
-| Mi=Miljö |  |  |  |  | Grundentr. |  |  |  |  |  |  |  |
-| Am= Arbetsmiljö |  |  |  | Ej aktuellt att utreda vidare / Ej aktuellt att genomföra | Elentr. (EL) |  |  |  |  |  |  |  |
-| Ju=Juridik |  |  |  | Utreds vidare. Omfattning? Alternativ? mm | Vsentr. |  |  |  |  |  |  |  |
-| Sko=Samarbete, kompetens, or |  |  | ganisation | Förändringen genomförs | (VVeSn)tentr. |  |  |  |  |  |  |  |
-| V=verksamheten/hyresgästen |  |  |  | Ytterligare förklaring krävs för att förstå frågeställningen | (SVtoEm)entr. |  |  |  |  |  |  |  |
-|  |  |  |  |  | (STE) |  |  |  |  |  |  | Sannolikhetsberäknad R&M |
-|  |  |  |  |  | Ansvar | - 21 036 302 kr | 142 880 363 kr | Summa |  | PUE-arvode TE-arvode |  |  |
-| 1 |  | Övergripande | Index Bygg | Räknat 2,5% per år i Index Material, 3 % per år för löner YA & 4 % per år för löner TJM | TE | - 3 000 000 kr | 3 000 000 kr | 0 | 2 |  | 9,5% | - kr |
-| 2 |  | Övergripande | Index Mark | Beräknat efter ByggDialogs mall | ME | - 500 000 kr | 500 000 kr | 0 | 2 | 10,5% | 9,5% | - kr |
-| 3 |  | Övergripande | Index Process | Index beräknat varje inköp | P |  | 1 000 000 kr | 1 000 000 | 1 | 15,0% | 9,5% | 157 406,25 kr |
-| 4 |  | Övergripande | Index VS | Beräknat efter ByggDialogs mall | VS |  | 285 000 kr | 285 000 | 1 | 11,0% | 9,5% | 43 300,41 kr |
-| 5 |  | Övergripande | Index VENT | Beräknat efter ByggDialogs mall | VE | - 366 302 kr | 370 198 kr | 3 896 | 3 | 11,0% | 9,5% | 3 551,54 kr |
-| 6 |  | Övergripande | Index EL | Beräknat efter ByggDialogs mall | EL | - 1 000 000 kr |  | -1 000 000 | 1 | 13,0% | 9,5% | - 154 668,75 kr |
-| 7 |  | Övergripande | Index Stomme | 6 % som snitt över produktionstiden | STE | - 200 000 kr | 200 000 kr | 0 | 2 | 11,0% | 9,5% | - kr |
-| 8 |  | Övergripande | Index Grund | 2M i Index, möjlighet att köpa på sig mtrl om index sticker iväg | GE | - 1 000 000 kr | 1 000 000 kr | 0 | 2 | 16,5% | 9,5% | - kr |
-| 9 |  | Övergripande | Omvärldsläget | Materialpriser rörliga i skakigt omvärldsläge, Cementkris, Tariffer, stopp i Suezkanal etc | TE |  | 3 000 000 kr | 3 000 000 | 2 |  | 9,5% | 1 642 500,00 kr |
-| 10 |  | Övergripande | Valutaändringar | På framförallt stål & processutrustning | TE | - 1 000 000 kr | 3 000 000 kr | 2 000 000 | 2 |  | 9,5% | 1 095 000,00 kr |
-| 11 |  | Övergripande | Vinterkostnad | Snöstkottning, maskintimmar, täckning material, YA-timmar etc | TE |  | 2 000 000 kr | 2 000 000 | 2 |  | 9,5% | 1 095 000,00 kr |
-| 12 |  | Övergripande | Risk dyrare betong närmaste åren | 9540 kubik i projektet. Indexreglererat enl rad 1, men risk för högre priser | TE |  | 2 000 000 kr | 2 000 000 | 2 |  | 9,5% | 1 095 000,00 kr |
-| 13 |  | Övergripande | Risk dyrare provisorier | Projekterat och med i kalkyl det vi ser idag, men risk för ytterligare provisorier | TE |  | 5 000 000 kr | 5 000 000 | 3 |  | 9,5% | 4 106 250,00 kr |
-| 14 |  | Övergripande | Exponeringsklasser | Fastslagit i projektet, men under omarbetning | TE | - 1 000 000 kr | 1 000 000 kr | 0 | 2 |  | 9,5% | - kr |
-| 15 |  | Övergripande | Sekundärsmide | Räknat schablonmässigt, kommer framgå under bygghandlingsprojekteringen | TE |  | 1 000 000 kr | 1 000 000 | 2 |  | 9,5% | 547 500,00 kr |
-| 16 |  | Övergripande | Industriabsorbenter | Ingår enligt handling/BBR, ev behövs mer för bättre komfort | TE | - 500 000 kr | 500 000 kr | 0 | 1 |  | 9,5% | - kr |
-| 17 |  | Övergripande | YA övertid & inarbetning | Eventull övertid för gjutningar etc, ev inarbetning för att hålla tidplan | TE |  | 3 000 000 kr | 3 000 000 | 2 |  | 9,5% | 1 642 500,00 kr |
-| 18 |  | Övergripande | Atex-klass i byggnader | Under utredning, kan innebära merkostnad för Installationer | TE |  | 1 000 000 kr | 1 000 000 | 2 |  | 9,5% | 547 500,00 kr |
-| 19 |  | Övergripande | Brist på byggström | Wattbank/Batteri kan behövas | TE |  | 500 000 kr | 500 000 | 2 |  | 9,5% | 273 750,00 kr |
-| 20 |  | Övergripande | Durk, trappor, räcken | Utreds vidare gällande korrosionsklass, utförande i glasfiber etc | TE |  | 500 000 kr | 500 000 | 2 |  | 9,5% | 273 750,00 kr |
-| 21 |  | Block 1 | Ytskydd Nya Betongkonstruktioner | Liner på btg-ytor i EDN med i kalkyl, risk finns att det kommer behövas i fler volymer | TE |  | 1 000 000 kr | 1 000 000 | 2 |  | 9,5% | 547 500,00 kr |
-| 22 |  | Block 1 | Ny Sandfilterleverantör | Påverkas byggnaden i volym och storlek | TE | - 1 000 000 kr | 2 000 000 kr | 1 000 000 | 2 |  | 9,5% | 547 500,00 kr |
-| 23 |  | Block 2 | Ytskydd Nya Betongkonstruktioner | Liner på undersida bjälklag & skvalpzon vägg i slamlager med i kalkyl, risk finns att det kommer behövas i fler volymer | TE |  | 1 000 000 kr | 1 000 000 | 2 |  | 9,5% | 547 500,00 kr |
-| 24 |  | Block 2 | Efterspänning armering i balkar/bjälklag över AGS | Svårkalkylerat innan K har räknat på det, momentet uppskattat till 600 000 kr i kalkyl | TE |  | 2 000 000 kr | 2 000 000 | 2 |  | 9,5% | 1 095 000,00 kr |
-| 25 |  | Block 2 | Kanaler i AGS för avskiljd Avdragsränna | Svårt moment, risk för mer tidskrävande | TE |  | 1 000 000 kr | 1 000 000 | 2 |  | 9,5% | 547 500,00 kr |
-| 26 |  | Block 3 | A05 - Skick betong i kulvert | Inventering visar att betongen är bra, förbättring ytskikt med i kalkyl, men om större åtgärder ändå behövs | TE |  | 500 000 kr | 500 000 | 2 |  | 9,5% | 273 750,00 kr |
-| 27 |  | Block 3 | B01 - Skick betong i QD | Ej inventerad, men prefab från 90-talet, troligtvis ok. Cementmebran hela ytan i kalkyl, men om större åtgärder krävs | TE |  | 3 000 000 kr | 3 000 000 | 2 |  | 9,5% | 1 642 500,00 kr |
-| 28 |  | Block 3 | B03 - Skick betong i MS | Inventering visar att åtgärder krävs,vattenbilning + 30 mm sprutbetong alla ytor i kalkyl. Om delar av konstruktionen<br>behöver gjutas om. | TE |  | 1 500 000 kr | 1 500 000 | 1 |  | 9,5% | 205 312,50 kr |
-| 29 |  | Block 3 | B04 - Skick betong i MS | Inventering visar att åtgärder krävs,vattenbilning + 30 mm sprutbetong alla ytor i kalkyl. Om delar av konstruktionen<br>behöver gjutas om. | TE |  | 1 500 000 kr | 1 500 000 | 1 |  | 9,5% | 205 312,50 kr |
-| 30 |  | Block 3 | B06 - svårkalkylerad, risk för ytterligare åtgärder | Betongrenovering, nya stomdelar etc | TE |  | 1 500 000 kr | 1 500 000 | 2 |  | 9,5% | 821 250,00 kr |
-| 31 |  | Block 3 | B08/B14 - Åtgärder/renovering/ny pålning regnbassänger | Hanterat i kalkyl, men svårkalkylerat ingrep i befintlig bassäng | TE |  | 3 000 000 kr | 3 000 000 | 2 |  | 9,5% | 1 642 500,00 kr |
-| 32 |  | Block 3 | B09 - Skick betong i BIO-P | Ej möjlig att inventera, troligtvis den mest påverkade volymen. Vattenbilning + 30 mm sprutbetong alla ytor i kalkyl.<br>Om delar av konstruktionen behöver gjutas om. | TE |  | 4 000 000 kr | 4 000 000 | 2 |  | 9,5% | 2 190 000,00 kr |
-| 33 |  | Block 3 | Stor ledning till QD | Troligtvis i dåligt skick, relining kan behövas | TE |  | 1 000 000 kr | 1 000 000 | 3 |  | 9,5% | 821 250,00 kr |
-| 34 |  | Block 4 | Stomvalsinriktningsändring/-justering | Återbrukad stomme räknat i kalkyl för A14 | TE | - 500 000 kr |  | -500 000 | 1 |  | 9,5% | - 68 437,50 kr |
-| 35 |  | Block 4 | Labutrsutning behöver kompletteras | Utsrustning enligt Rumsfunktionsprogram ingår | TE |  | 500 000 kr | 500 000 | 1 |  | 9,5% | 68 437,50 kr |
-| 36 |  | Block 4 | Verkstadsutrustning | Uppskattat i kalkyl, om projektet ska köpa in mer utrustning | TE |  | 500 000 kr | 500 000 | 1 |  | 9,5% | 68 437,50 kr |
-| 37 |  | Block 4 | Omfattning Renovering/Ombyggnad A04 | Omfattning av ny stomkomplettering samt ytskikt kan öka beroende på skick av befintlig delar. | TE |  | 1 000 000 kr | 1 000 000 | 2 |  | 9,5% | 547 500,00 kr |
-| 38 |  | Övergripande | Övergripande Rivning | Risk för ytterligare frischaktningar kopplat till rivning | R |  | 300 000 kr | 300 000 | 1 | 15,0% | 9,5% | 47 221,88 kr |
-| 39 |  | Övergripande | Övergripande Rivning | Risk för ytterligare ställningsbyggnation kopplat till rivning | R |  | 300 000 kr | 300 000 | 1 | 15,0% | 9,5% | 47 221,88 kr |
-| 40 |  | Övergripande | Övergripande Rivning | Ökning av FA och miljöförstörande avfall | R |  | 400 000 kr | 400 000 | 2 | 15,0% | 9,5% | 251 850,00 kr |
-| 41 |  | Block 3 | A05 Rivning | Volatila skrotpriser | R | - 30 000 kr | 30 000 kr | 0 | 2 | 15,0% | 9,5% | - kr |
-| 42 |  | Block 3 | A05 Rivning | Föroreningar i Vägg- & Golvbeläggningar/Färg | R |  | 400 000 kr | 400 000 | 1 | 15,0% | 9,5% | 62 962,50 kr |
-| 43 |  | Block 3 | A05 Rivning | Försäljning av kompressorer & Utrustning | R | - 50 000 kr |  | -50 000 | 2 | 15,0% | 9,5% | - 31 481,25 kr |
-| 44 |  | Block 3 | B01 Rivning | Deponi impregnerat trä samt luftdysor | R |  | 70 000 kr | 70 000 | 2 | 15,0% | 9,5% | 44 073,75 kr |
-| 45 |  | Block 3 | B03 & B04 Rivning | Volatila skrotpriser | R | - 15 000 kr | 5 000 kr | -10 000 | 2 | 15,0% | 9,5% | - 6 296,25 kr |
-| 46 |  | Block 3 | B03 & B04 Rivning | FA i form av färg eller ytbehandling | R |  | 50 000 kr | 50 000 | 2 | 15,0% | 9,5% | 31 481,25 kr |
-| 47 |  | Block 3 | B03 & B04 Rivning | Dolda konstruktioner & Rördragningar som ska rivas | R |  | 100 000 kr | 100 000 | 2 | 15,0% | 9,5% | 62 962,50 kr |
-| 48 |  | Block 3 | B06 Rivning | Deponi betong vid föroreningar | R |  | 80 000 kr | 80 000 | 2 | 15,0% | 9,5% | 50 370,00 kr |
-| 49 |  | Block 3 | B08 Rivning | Deponi betong vid föroreningar | R |  | 123 057 kr | 123 057 | 2 | 15,0% | 9,5% | 77 479,76 kr |
-| 50 |  | Block 3 | B08 Rivning | Räknat med borrning för stålpålar, krävs fyrkantssågning & Borrning ökar priset | R |  | 200 000 kr | 200 000 | 2 | 15,0% | 9,5% | 125 925,00 kr |
-| 51 |  | Block 3 | B14 Rivning | Deponi betong vid föroreningar | R |  | 23 708 kr | 23 708 | 1 | 15,0% | 9,5% | 3 731,79 kr |
-| 52 |  | Block 3 | B14 Rivning | Risk rivning av betongkonstruktioner utanför bassäng | R |  | 300 000 kr | 300 000 | 1 | 15,0% | 9,5% | 47 221,88 kr |
-| 53 |  | Block 4 | A04 Rivning | Försäljning inredning, tegel etc | R | - 30 000 kr |  | -30 000 | 2 | 15,0% | 9,5% | - 18 888,75 kr |
-| 54 |  | Block 4 | A04 Rivning | Avväxlingar vid tak- & stomrivning, väderskydd | R |  | 200 000 kr | 200 000 | 1 | 15,0% | 9,5% | 31 481,25 kr |
-| 55 |  | Övergripande | Geotekniska avvikelser eller andra risker förknippade med jord, berg och vatten. Exempel men inte begränsat till detta är<br>lösare/fastare jord en förutsatt, högt grundvattentryck, avsänkning av grundvatten, stabilitetsproblem. Detta kan exempelvis leda till<br>skred, större rörelser som skadar omkringliggande konstruktioner, förseningar i projektet, ändrade metodval och ökade kostnader. | Vi har gjort en fackmannamässig bedömning vilket också GK3 granskat att omfattning på den geoteknsika<br>undnersöknignen är tillräcklig omfattning. Det kvarstår ändå risker som det alltid gör när man arbetar med geoteknik. | GE |  | 2 250 000 | 2 250 000 | 2 | 17,0% | 9,5% | 1 441 293,75 kr |
-| 56 |  | Övergripande | Bortslagning av pålar/spont/stag eller annan grundläggning. Exemplevis pga av släntberg, hinder mm. Kan exempelvis resultera i<br>fler pålar, ändring av metodval. | Hinder är svårt att veta på förhand. | GE |  | 4 000 000 | 4 000 000 | 3 | 17,0% | 9,5% | 3 843 450,00 kr |
-| 57 |  | Övergripande | Framtagna värden på rörelser stämmer inte med verkligheten. Kan resultera i större rörelse både vertiakalt och horisontellt.<br>Större/mindre massundanträngning eller vibrationer än beräknat kan leda till skador, förseningar, kostnadsökningar. | Rörelser och beräningar gjorde enligt alla gällande normer. Kontrollerade mot tidigare erfarenehtesvärden. Sen är det<br>hårda krav och små avvikelser exmeplvis i geoteknik kan leda till förändringar. | GE |  | 2 250 000 | 2 250 000 | 2 | 17,0% | 9,5% | 1 441 293,75 kr |
-| 58 |  | Övergripande | Svårt att räkna på installationskapaciter kan gå både långsamrare och snabbare. Detta beror bland annat på hur jorden uppför sig.<br>Borrar man för snabbt kan luft fastna i marken och det uppstår mer rörelser eller motsatt (Damsugare). Också hur pållängder lirar<br>med jorddjup. Påverkan av bef verksamhet. | Kapaciteter uppskattade | GE | - 630 000 kr | 630 000 | 0 | 3 | 17,0% | 9,5% | - kr |
-| 59 |  | Övergripande | Inköpskostnader kan variera över tid. Dels index, valuta risk och materialrisk. | Väldigt svår att bedöma. Går inte . | GE | - 225 000 kr | 4 500 000 | 4 275 000 | 3 | 17,0% | 9,5% | 4 107 687,19 kr |
-| 60 |  | Övergripande | Spill på material är svårt att uppskatta kan både blir mer eller mindre. Eller att pålarna blir längre/kortare. | Beror lite på tur att längderna blir ok mot beställda längder samt att geoteknik inte avviker för mycket. Vi förutsätter att<br>K har angett rätt längder i sin K handling. Det är de längderna vi utgår ifrån. För Hullspisspålarna kan det vara ett<br>alternativ att använda sig av slagskarv där man slår i spillbiten får utredas. | GE | - 50 000 kr | 300 000 | 250 000 | 3 | 17,0% | 9,5% | 240 215,63 kr |
-| 61 |  | Övergripande | Föroreningar och utsläpp kan orsaka stopp i vår produktion eller att extra skyddsurustning behövs. Exempelv på detta kan vara<br>föroreningar i mark, utsläpp från maskin eller från ARN. |  | GE |  | 200 000 | 200 000 | 1 | 17,0% | 9,5% | 32 028,75 kr |
-| 62 |  | Övergripande | Yttre påverkan såsom exemeplvis krig, politik, TRV (väg och järnvägar), pandemi, naturfenomen, tull, stöld osv. |  | GE |  | 5 000 000 | 5 000 000 | 1 | 17,0% | 9,5% | 800 718,75 kr |
-| 63 |  | Övergripande | Väder. Exempelvis extrem kyla, snö, skyfall eller vind. | Kan påverka dels framdrift, tidsplan och således kostnadsökning men också kvaliten på arbetet då det kan vara<br>svårare att innehålla tolleranser. | GE |  | 400 000 | 400 000 | 3 | 17,0% | 9,5% | 384 345,00 kr |
-| 64 |  | Övergripande | Problem med leverans av material. Kan exempelvis ta slut eller bli försenat. Vilket leder till mer kostnader och tidsförlägning. | Tidspressat speciellt på de första inköpen. Små störningar kan resultera i problem. Samt att det är först till kvarn som<br>gäller på materialet. | GE |  | 400 000 | 400 000 | 1 | 17,0% | 9,5% | 64 057,50 kr |
-| 65 |  | Övergripande | Ändring av personalstyrka då det är ett lågt jobb. Dels kan personal bli sjuk. Men också byta tjänst eller sluta. |  | GE |  | 500 000 | 500 000 | 2 | 17,0% | 9,5% | 320 287,50 kr |
-| 66 |  | Övergripande | Samordning på arbetsplatsen. Risk att personal blir klämd eller skadar sig för de är nära våra maskiner. Problem med buller. |  | GE |  | 400 000 | 400 000 | 1 | 17,0% | 9,5% | 64 057,50 kr |
-| 67 |  | Övergripande | Sammordning på arbetsplatsen:Vi inte får tillräkligt med lageryta för att på ett effektivt sätt kunna producera. |  | GE |  | 300 000 | 300 000 | 2 | 17,0% | 9,5% | 192 172,50 kr |
-| 68 |  | Övergripande | Ledningar eller andra konstruktioner går sönder. Detta kan ske av olika anledningar exempelvis at vi pålar i dem för att vi inte viste<br>att de fanns. Att de inte tål de krav som ställts utan går av ändå. | Viktigt att beställare har koll på alla konstruktioer i mark samt har koll på befitliga konstruktioner så att rätt<br>gärnsvärden sätts. | GE |  | 350 000 | 350 000 | 3 | 17,0% | 9,5% | 336 301,88 kr |
-| 69 |  | Övergripande | Ingående mängder i kalkyl stämmer inte överrens med underlag. | Är en risk dels inför risktpriset men också fortlöpande i projektet. | GE |  | 300 000 | 300 000 | 1 | 17,0% | 9,5% | 48 043,13 kr |
-| 70 |  | Övergripande | Bugg i dataprogram gör att kostnadsstyrning/kalkyl/beräkningsprogram inte fungerar. |  | GE |  | 100 000 | 100 000 | 2 | 17,0% | 9,5% | 64 057,50 kr |
-| 71 |  | Övergripande | Förändingar i sent skede. Beslut tas försent. Vi kan inte planera och maximera vår framdrigt eller det missas saker. | Känns som en större risk inför uppstart av det första Blocket. | GE |  | 500 000 | 500 000 | 2 | 17,0% | 9,5% | 320 287,50 kr |
-| 72 |  | Övergripande | Arbetsmoment flyttas i tid mot tidsplanen vilket kan skapa utmaningar i samordning, inköp och övrig planering. |  | GE |  | 500 000 | 500 000 | 2 | 17,0% | 9,5% | 320 287,50 kr |
-| 73 |  | Övergripande | Oförutsetta tillkommande arbetsmoment. Så som exempelvis spont för ledninsgschakt | Går enklare att lösa under tiden då vi har en organisation på plats. Men kan vara mer besvärligt mellan block då vi inte<br>har någon organisation på plats. | GE |  | 250 000 | 250 000 | 2 | 17,0% | 9,5% | 160 143,75 kr |
-| 74 |  | Övergripande | Återanvända material, billigare inköp. Metodval. | Undersökning om altantiva köp eller återanvändning bör göras. Utreda om andra metoder är med lämpande. | GE |  |  | 0 | 1 | 17,0% | 9,5% | - kr |
-| 75 |  | Övergripande | Risk att vi inte får ta på rätt maskin. Marknaden börjar bli het och det finns ett begränsat antal maskiner på marknaden. | Kan behöva ha en kortare maskin som producerar sämre. | GE |  | 250 000 | 250 000 | 1 | 17,0% | 9,5% | 40 035,94 kr |
-| 76 |  | Block 1 | Berget svårare att hantera avseende sprängning | Mindre salvor/ ger längre tid | ME |  | 1 500 000 | 1 500 000 | 2 | 10,5% | 9,5% | 907 481,25 kr |
-| 79 |  | Övergripande | VA-mtrl en kostsam post | Gemensamma inköp | ME | -250 000 |  | -250 000 | 2 | 10,5% | 9,5% | - 151 246,88 kr |
-| 80 |  | Övergripande | Återbruk Berg | nyttja sprängt berg i projektet | ME | -150 000 |  | -150 000 | 2 | 10,5% | 9,5% | - 90 748,13 kr |
-| 81 |  | Övergripande | Sälja allt berg | Inkomst som gagnar projektet. Ca 20 000 ton x 15kr= | ME | -300 000 |  | -300 000 | 2 | 10,5% | 9,5% | - 181 496,25 kr |
-| 83 |  | Övergripande | Provtagningsbrunnar | Ökar i antal | ME |  | 1 500 000 | 1 500 000 | 2 | 10,5% | 9,5% | 907 481,25 kr |
-| 85 |  | Övergripande | Sämre schaktbara massor än beräknat | kapacitetsförsämring vid schakt och VA-jobb | ME |  | 3 000 000 | 3 000 000 | 2 | 10,5% | 9,5% | 1 814 962,50 kr |
-| 86 |  | Övergripande | begränsad framkomlighet | väntetider | ME |  | 1 500 000 | 1 500 000 | 2 | 10,5% | 9,5% | 907 481,25 kr |
-| 90 |  | Övergripande | Provisorier | Okända provisorier som kan tillkomma under projektets gång. | ME |  | 2 000 000 | 2 000 000 | 2 | 10,5% | 9,5% | 1 209 975,00 kr |
-| 93 |  | Övergripande | Fall B massor klassa som förorenade. | Skulle cirka hälften av massorna klassas som förorenade. | ME |  | 5 500 000 | 5 500 000 | 2 | 10,5% | 9,5% | 3 327 431,25 kr |
-| 94 |  | Övergripande | Minskat trasportavstånd schaktmassor | transport minskar från 3tim till 1,5 tim / vända schakt. | ME | -1 300 000 |  | -1 300 000 | 2 | 10,5% | 9,5% | - 786 483,75 kr |
-| 95 |  | Övergripande | Lättfyllning 1000 m3, Hasopor ingår idag i kalkyl 20251006 | Ökning av lättfyllnad. 1300 m3. Inkl arbete. | ME |  | 1 251 900 | 1 251 900 | 2 | 10,5% | 9,5% | 757 383,85 kr |
-| 96 |  | Övergripande | Flödesmätarbrunn på utloppsledning, komplexitet ökar | Omfattning och utförande ej klart | ME |  | 500 000 | 500 000 | 2 | 10,5% | 9,5% | 302 493,75 kr |
-| 97 |  | Övergripande | Vid eventuellt elstödsbidrag för elgrävmaskin | Lägre timpris med cirka 100kr/tim | ME | -100 000 |  | -100 000 | 2 | 10,5% | 9,5% | - 60 498,75 kr |
-| 98 |  | Övergripande | Rening av byggvatten vid förhäjda värden | Hyra av anläggning för rening. | ME |  | 2 500 000 | 2 500 000 | 2 | 10,5% | 9,5% | 1 512 468,75 kr |
-| 99 |  | Övergripande | Ökade mängder vid sprängning | Fler kubik än upptaget i kalkyl behöver sprängas bort. Räknat att det ökar med 2000m3 | ME |  | 1 208 000 | 1 208 000 | 2 | 10,5% | 9,5% | 730 824,90 kr |
-| 101 |  | Övergripande | Vabon. Va-Arbetare. | Behövs vara fler än 1 VA-arbetare från Vabon | ME |  | 2 173 500 | 2 173 500 | 2 | 10,5% | 9,5% | 1 314 940,33 kr |
-| 102 |  | Övergripande | Vabon. Hyra utrustning | Minskad åtgång | ME | -50 000 |  | -50 000 | 2 | 10,5% | 9,5% | - 30 249,38 kr |
-| 103 |  | Övergripande | Vabon. Tv-inspektion | Minskar | ME | -50 000 |  | -50 000 | 2 | 10,5% | 9,5% | - 30 249,38 kr |
-| 104 |  | Övergripande | Vabon. Täthetskontroll av självfallsledningar | Minskar | ME | -50 000 |  | -50 000 | 2 | 10,5% | 9,5% | - 30 249,38 kr |
-| 105 |  | Övergripande | Fullgörandeförsäkring | Ökar | ME |  | 150 000 | 150 000 | 2 | 10,5% | 9,5% | 90 748,13 kr |
-| 106 |  | Övergripande | Ökade kostnader arbetstid UE - En del är befintligt och det finns en viss ombyggnadsfaktor där saker och ting tar mer tid än<br>förväntat. Även beroende på framkomlighet och hur smidigt det går. Ibland är det trångt, många på samma plats. Ibland kan det<br>vara strul med ställning som behöver byggas om etc. Har IBAB fått med allt?<br>Separat plastentreprenör? |  | P | -1 000 000 | 5 000 000 | 4 000 000 | 2 | 15,0% | 9,5% | 2 518 500,00 kr |
-| 107 |  | Övergripande | Ökade kostnader för montagematerial UE (kostnadsförändringar och allt är inte med i MTO'er som kalkyler baserats på) |  | P |  | 3 000 000 | 3 000 000 | 2 | 15,0% | 9,5% | 1 888 875,00 kr |
-| 108 |  | Övergripande | Ökad kostnad för tillverkning UE (tillverkningsritningar tas fram i bygghandlingsskede) |  | P |  | 3 000 000 | 3 000 000 | 2 | 15,0% | 9,5% | 1 888 875,00 kr |
-| 109 |  | Övergripande | Förändat resursbehov avseende ingenjörstid (felaktig bedömning, förändrad tidplan, längre injusteringstid/intrimmning etc) |  | P | -500 000 | 1 000 000 | 500 000 | 2 | 15,0% | 9,5% | 314 812,50 kr |
-| 110 |  | Bloick 3 | Kostnadsökning - byte till Nordic water filter. |  | P |  | 5 000 000 | 5 000 000 | 2 | 15,0% | 9,5% | 3 148 125,00 kr |
-| 111 |  | Övergripande | Ljuddämpare till blåsmaskiner |  | P |  | 700 000 | 700 000 | 2 | 15,0% | 9,5% | 440 737,50 kr |
-| 112 |  | Övergripande | Isolering av rör |  | P |  | 800 000 | 800 000 | 3 | 15,0% | 9,5% | 755 550,00 kr |
-| 113 |  | Övergripande | Tillkommande luckor, ventiler, maskiner, instrument.<br>Tryckluftslister, omrörare stenficka t.ex |  | P |  | 3 000 000 | 3 000 000 | 2 | 15,0% | 9,5% | 1 888 875,00 kr |
-| 114 |  | Övergripande | Kostnadsökning: Desinfektion av tekniskt vatten |  | P |  | 1 000 000 | 1 000 000 | 0 | 15,0% | 9,5% | - kr |
-| 115 |  | Övergripande | Fördyrade fraktkostnader |  | P |  | 500 000 | 500 000 | 2 | 15,0% | 9,5% | 314 812,50 kr |
-| 116 |  | Övergripande | Provisoriska installationer (temporära lösningar såsom flytt av pumpar, provisorisk dosering etc) |  | P |  | 1 500 000 | 1 500 000 | 3 | 15,0% | 9,5% | 1 416 656,25 kr |
-| 117 |  | Block 3 | Kostnadsökning: Befintliga installationer i sämre skick än förväntat /överaskningar |  | P |  | 1 000 000 | 1 000 000 | 2 | 15,0% | 9,5% | 629 625,00 kr |
-| 118 |  | Övergripande | Minskad godstjocklek på rör där det är självfall eller lågt tryck |  | P | -500 000 |  | -500 000 | 1 | 15,0% | 9,5% | - 78 703,13 kr |
-| 119 |  | Övergripande | Möjligt att återanvända processutrustning såsom bef. Blåsmaskiner till sandfång eller pumpar till actiflo samt IBAB's ventillista.<br>Sweco arbetar med återbrukslista |  | P | -250 000 |  | -250 000 | 2 | 15,0% | 9,5% | - 157 406,25 kr |
-| 120 |  | Block 3 | Dämpskärmar i försedimentering |  | P |  | 200 000 | 200 000 | 2 | 15,0% | 9,5% | 125 925,00 kr |
-| 121 |  | Block 3 | Luckor försedimentering kan komma att ändras till automatiska luckor |  | P |  | 500 000 | 500 000 | 3 | 15,0% | 9,5% | 472 218,75 kr |
-| 122 |  | Block 2 | Utbyte till rostfritt bottenluftarsystem i AGS? risk avser merkostnad. Dyrare rör och längre installationstid |  | P |  | 500 000 | 500 000 | 3 | 15,0% | 9,5% | 472 218,75 kr |
-| 123 |  | Block 3 | Tömningspumpar QD |  | P |  | 200 000 | 200 000 | 0 | 15,0% | 9,5% | - kr |
-| 124 |  | Övergripande | Utgående flödesmätare - Möjlighet om vi kan hitta en billigare lösning |  | P | -500 000 |  | -500 000 | 1 | 15,0% | 9,5% | - 78 703,13 kr |
-| 125 |  | Block 1 | Risk - längre tidsåtgång för inblåsning av sand till sandfiltren |  | P |  | 50 000 | 50 000 | 1 | 15,0% | 9,5% | 7 870,31 kr |
-| 126 |  | Övergripande | Risk - kostnadsdrivande provtryckning av luftledningar (PED) (tillfällig stämpning av ledningar m.m). Helt totalt onödigt men kan<br>komma att ställas krav på |  | P |  | 1 000 000 | 1 000 000 | 2 | 15,0% | 9,5% | 629 625,00 kr |
-| 127 |  | Övergripande | Blåsmaskiner slamlager i väntan på offert |  | P |  | 250 000 | 250 000 | 1 | 15,0% | 9,5% | 39 351,56 kr |
-| 128 |  | Övergripande | Osäkerheter i kalkyl | Osäkerheter i kalkyl, en hel del är fortsatt ej dimensionerat eller färdigritat | VS | - 750 000 kr | 950 000 kr | 200 000 | 2 | 11,0% | 9,5% | 121 545,00 kr |
-| 129 |  | Övergripande | Bra förutsättningar för effektivt montage | Iarbetning montagetid | VS | - 350 000 kr |  | -350 000 | 2 | 11,0% | 9,5% | - 212 703,75 kr |
-| 130 |  | Övergripande | Omfattning av rördragning för polymere | Ingen ritat alls i Block2, Block 1 | VS | - 100 000 kr | 200 000 kr | 100 000 | 2 | 11,0% | 9,5% | 60 772,50 kr |
-| 131 |  | Övergripande | Bra flyt i projekteringen | Tydliga beslut och bra planering | VS | - 150 000 kr |  | -150 000 | 2 | 11,0% | 9,5% | - 91 158,75 kr |
-| 132 |  | Övergripande | Dimensionering av rör och armaturer | Dimensionering ej klar i systemhandling | VS | - 300 000 kr | 300 000 kr | 0 | 2 | 11,0% | 9,5% | - kr |
-| 133 |  | Övergripande | Möjlighet till återbruk av produkter |  | VS | - 100 000 kr |  | -100 000 | 1 | 11,0% | 9,5% | - 15 193,13 kr |
-| 134 |  | Övergripande | Inhyrd VS personal | Bödämning är nu att vi gör jobbet med egna montörer | VS |  | 350 000 kr | 350 000 | 2 | 11,0% | 9,5% | 212 703,75 kr |
-| 135 |  | Block 1 | Ny omfattning sandfilter |  | VS |  | 125 000 kr | 125 000 | 2 | 11,0% | 9,5% | 75 965,63 kr |
-| 136 |  | Övergripande | Omfattning provisorier | Generellt lite på ventilation, ev provisoriska tält/pumpstationer | VE | - 50 000 kr |  | -50 000 | 2 | 11,0% | 9,5% | - 30 386,25 kr |
-| 137 |  | Övergripande | Inköpsbesparingar, utbyte material | Goda möjligheter lägga mycket hos en lev och få bra pris | VE | 1 500 000 kr |  | 1 500 000 | 2 | 11,0% | 9,5% | 911 587,50 kr |
-| 138 |  | Övergripande | Osäkerhet med kalkyl då många delar inte är färdigprojekterade. | Projektera fram handlingar. +5% - 2,5% | VE | - 650 000 kr | 800 000 | 150 000 | 2 | 11,0% | 9,5% | 91 158,75 kr |
-| 139 |  | Övergripande | Långt projekt, behöver säkerhetsställa rendudans. Risk med att tjm tid går över | Säkerhetställ god arbetsmiljö så alla trivs. Rekrytera i tid | VE |  | 850 000 | 850 000 | 2 | 11,0% | 9,5% | 516 566,25 kr |
-| 140 |  | Block 3 | Osäkerhet kemibyggnad B14 pga järnklorid mm | Finns möjlighet att förenkla vent, beskostad av energi | VE | - 400 000 kr |  | -400 000 | 3 | 11,0% | 9,5% | - 364 635,00 kr |
-| 141 |  | Övergripande | I kalkyl räknat med endast egen personal, inhyrd kostar mer. Gäller år 27-28 | 3000h + 100kr/h | VE |  | 300 000 | 300 000 | 3 | 11,0% | 9,5% | 273 476,25 kr |
-| 142 |  | Övergripande | Aggregat AZ / RF istället för RF /RF | SH räknat med dyrare alternativ | VE | - 650 000 kr |  | -650 000 | 3 | 11,0% | 9,5% | - 592 531,88 kr |
-| 143 |  | Block 1 | Lukt från inkoppsbyggnad | Ny placeing av inlopp, ny utrustning. Finns liten risk att mer lukt uppstår än idag | VE |  | 1 850 000 | 1 850 000 | 1 | 11,0% | 9,5% | 281 072,81 kr |
-| 144 |  | Övergripande | Kemfilter ventilation till EL-rum. Med idag 8st. | Se över behov och placeringar luftintag. | VE | - 160 000 kr |  | -160 000 | 2 | 11,0% | 9,5% | - 97 236,00 kr |
-| 145 |  | Block 1 | Ändring A01 sandfilter | Risk 32st anslutningar istället för 3. Möjlighet mindre byggnad. | VE | - 30 000 kr | 320 000 | 290 000 | 3 | 11,0% | 9,5% | 264 360,38 kr |
-| 146 |  | Övergripande | Projektingenjörstid | Rektrytering Q3-26-Q30 | VE | - 500 000 kr | 1 000 000 | 500 000 | 3 | 11,0% | 9,5% | 455 793,75 kr |
-| 147 |  | Block 2 | Programmering AGS | Osäkerhet ang. AGS och styrning. | EL |  | 150 000 kr | 150 000 | 2 | 13,0% | 9,5% | 92 801,25 kr |
-| 148 |  | Övergripande | Tillkommande processutrustning | Kalkyl bygger på nu gällande objektslista som kan förändras | EL |  | 1 500 000 kr | 1 500 000 | 3 | 13,0% | 9,5% | 1 392 018,75 kr |
-| 149 |  | Block 3 | Återbruk ställverk | Återbruk av bef. ställverk till B02 och B06 | EL | - 500 000 kr |  | -500 000 | 3 | 13,0% | 9,5% | - 464 006,25 kr |
-| 150 |  | Övergripande | Demontering och provisorier | Kan bli mindre än beräknat | EL | - 250 000 kr |  | -250 000 | 2 | 13,0% | 9,5% | - 154 668,75 kr |
-| 151 |  | Övergripande | Inhyrd arbetskraft | Svårt att planera flera år framåt. Kan bli aktuellt att hyra arbetskraft vid toppar. | EL |  | 1 000 000 kr | 1 000 000 | 2 | 13,0% | 9,5% | 618 675,00 kr |
-| 152 |  | Övergripande | Utökning passagekontroll | Tillkommande dörrar med kortläsare | EL |  | 100 000 kr | 100 000 | 2 | 13,0% | 9,5% | 61 867,50 kr |
-| 153 |  | Övergripande | Programmering o drifttagning | Extra programmering i samband med drifttagning. Fungerar inte enligt funktionsbeskrivning el. dyl. | EL |  | 1 000 000 kr | 1 000 000 | 3 | 13,0% | 9,5% | 928 012,50 kr |
-| 154 |  | Block 1 | Nya sandfilter | Kan bli fler objekt till nya och fler filter | EL |  | 500 000 kr | 500 000 | 2 | 13,0% | 9,5% | 309 337,50 kr |
-| 155 |  | Övergripande | Inköp återbrukade HDF | Kostnader för rivning/framtagning av håldäck kan skilja beroende på förutsättningar för rivningsobjektet | STE |  | 200 000 kr | 200 000 | 2 | 11,0% | 9,5% | 121 545,00 kr |
-| 156 |  | Övergripande | Inköp stål(Valuta) och leverantörsval | Valutaförändring och val av lev, ca 85 ton stål | STE | - 1 500 000 kr |  | -1 500 000 | 1 | 11,0% | 9,5% | - 227 896,88 kr |
-| 157 |  | Övergripande | Vinter, kostnader och försening | Kostnader för betongtillsatser, snöröjning (tid och material) risk 1,5 % | STE |  | 435 000 kr | 435 000 | 2 | 11,0% | 9,5% | 264 360,38 kr |
-| 158 |  | Övergripande | Plåtsandwichfasad ner mot bottenplatta. Risk för skador under entr.tid | Skydda med påkörningskydd och reparation vid skada. | STE |  | 150 000 kr | 150 000 | 2 | 11,0% | 9,5% | 91 158,75 kr |
-|  |  |  |  |  |  | - 21 036 302 kr | 142 880 363 kr |  |  |  |  | 73 073 887,65 kr |
+Lö KatVerksamhetsdel Beskrivning av riskmoment Åtgärd / Förtydligande KommentBelopp till målbudget Viktning %
+Kategori (Kat) Kostnadsökning, personsäkerhet, miljö etc    Medverka Möjlighet Risker
+E T T e i k d = = = T E T e k id k o n n i o k mi           nB B M de y a g se r g k tä e e l n l n a t t r r r e . . I te n x kö p p lo s c v k in a s t b e o r r e t ller annat K ris o k s p tn e a n d g a ti t l t l m öv å e lb rf u ö d ra g e s t om 2= 3 = m H ed ö 4 i g u = m r i 1 s 1 0 r k 0 i 0 s / 0 m k % % / ö m j u ) li ö g tf j h l a ig e ll h t e ( 7 t 5 ( 2 - 5 -
+Mi=Miljö                                                    Grundentr.          75%)
+Am= Arbetsmiljö                     Ej aktuellt att utreda vidare / Ej aktuellt att genomföra Elentr. (EL) 1= låg risk/möjlighet (0-25%)
+J S u k = o J = u S r a id m ik arbete, kompetens, organisation U Fö tr r e ä d n s d r v in id g a e r n e . g O en m o f m at f t ö n r in s g? Alternativ? mm V (VV s eS e n) n te tr n . t r. be 0 s = lu k ts rä fa v t e ta r n a d k e tiv B t E
+V=verksamheten/hyresgästen          Ytterligare förklaring krävs för att förstå frågeställningen (SVtoEm)entr.
+(STE)
+Ansvar
+\- 21 036 302 kr 142 880 363 kr Summa PUE-arvode TE-arvode Sannolikhetsberäknad R&M
+1 Övergripande Index Bygg          Räknat 2,5% per år i Index Material, 3 % per år för löner YA & 4 % per år för löner TJM TE - 3 000 000 kr 3 000 000 kr 0 2 9,5% - kr
+2 Övergripande Index Mark          Beräknat efter ByggDialogs mall ME - 500 000 kr 500 000 kr 0 2 10,5% 9,5% - kr
+3 Övergripande Index Process       Index beräknat varje inköp P       1 000 000 kr 1 000 000 1 15,0% 9,5% 157 406,25 kr
+4 Övergripande Index VS            Beräknat efter ByggDialogs mall VS 285 000 kr 285 000 1 11,0% 9,5% 43 300,41 kr
+5 Övergripande Index VENT          Beräknat efter ByggDialogs mall VE - 366 302 kr 370 198 kr 3 896 3 11,0% 9,5% 3 551,54 kr
+6 Övergripande Index EL            Beräknat efter ByggDialogs mall EL - 1 000 000 kr -1 000 000 1 13,0% 9,5%- 154 668,75 kr
+7 Övergripande Index Stomme        6 % som snitt över produktionstiden STE - 200 000 kr 200 000 kr 0 2 11,0% 9,5% - kr
+8 Övergripande Index Grund         2M i Index, möjlighet att köpa på sig mtrl om index sticker iväg GE - 1 000 000 kr 1 000 000 kr 0 2 16,5% 9,5% - kr
+9 Övergripande Omvärldsläget       Materialpriser rörliga i skakigt omvärldsläge, Cementkris, Tariffer, stopp i Suezkanal etc TE 3 000 000 kr 3 000 000 2 9,5% 1 642 500,00 kr
+10 Övergripande Valutaändringar     På framförallt stål & processutrustning TE - 1 000 000 kr 3 000 000 kr 2 000 000 2 9,5% 1 095 000,00 kr
+11 Övergripande Vinterkostnad       Snöstkottning, maskintimmar, täckning material, YA-timmar etc TE 2 000 000 kr 2 000 000 2 9,5% 1 095 000,00 kr
+12 Övergripande Risk dyrare betong närmaste åren 9540 kubik i projektet. Indexreglererat enl rad 1, men risk för högre priser TE 2 000 000 kr 2 000 000 2 9,5% 1 095 000,00 kr
+13 Övergripande Risk dyrare provisorier Projekterat och med i kalkyl det vi ser idag, men risk för ytterligare provisorier TE 5 000 000 kr 5 000 000 3 9,5% 4 106 250,00 kr
+14 Övergripande Exponeringsklasser  Fastslagit i projektet, men under omarbetning TE - 1 000 000 kr 1 000 000 kr 0 2 9,5% - kr
+15 Övergripande Sekundärsmide       Räknat schablonmässigt, kommer framgå under bygghandlingsprojekteringen TE 1 000 000 kr 1 000 000 2 9,5% 547 500,00 kr
+16 Övergripande Industriabsorbenter Ingår enligt handling/BBR, ev behövs mer för bättre komfort TE - 500 000 kr 500 000 kr 0 1 9,5% - kr
+17 Övergripande YA övertid & inarbetning Eventull övertid för gjutningar etc, ev inarbetning för att hålla tidplan TE 3 000 000 kr 3 000 000 2 9,5% 1 642 500,00 kr
+18 Övergripande Atex-klass i byggnader Under utredning, kan innebära merkostnad för Installationer TE 1 000 000 kr 1 000 000 2 9,5% 547 500,00 kr
+19 Övergripande Brist på byggström  Wattbank/Batteri kan behövas TE    500 000 kr 500 000 2  9,5% 273 750,00 kr
+20 Övergripande Durk, trappor, räcken Utreds vidare gällande korrosionsklass, utförande i glasfiber etc TE 500 000 kr 500 000 2 9,5% 273 750,00 kr
+21 Block 1 Ytskydd Nya Betongkonstruktioner Liner på btg-ytor i EDN med i kalkyl, risk finns att det kommer behövas i fler volymer TE 1 000 000 kr 1 000 000 2 9,5% 547 500,00 kr
+22 Block 1 Ny Sandfilterleverantör  Påverkas byggnaden i volym och storlek TE - 1 000 000 kr 2 000 000 kr 1 000 000 2 9,5% 547 500,00 kr
+23 Block 2 Ytskydd Nya Betongkonstruktioner Liner på undersida bjälklag & skvalpzon vägg i slamlager med i kalkyl, risk finns att det kommer behövas i fler volymer TE 1 000 000 kr 1 000 000 2 9,5% 547 500,00 kr
+24 Block 2 Efterspänning armering i balkar/bjälklag över AGS Svårkalkylerat innan K har räknat på det, momentet uppskattat till 600 000 kr i kalkyl TE 2 000 000 kr 2 000 000 2 9,5% 1 095 000,00 kr
+25 Block 2 Kanaler i AGS för avskiljd Avdragsränna Svårt moment, risk för mer tidskrävande TE 1 000 000 kr 1 000 000 2 9,5% 547 500,00 kr
+26 Block 3 A05 - Skick betong i kulvert Inventering visar att betongen är bra, förbättring ytskikt med i kalkyl, men om större åtgärder ändå behövs TE 500 000 kr 500 000 2 9,5% 273 750,00 kr
+27 Block 3 B01 - Skick betong i QD  Ej inventerad, men prefab från 90-talet, troligtvis ok. Cementmebran hela ytan i kalkyl, men om större åtgärder krävs TE 3 000 000 kr 3 000 000 2 9,5% 1 642 500,00 kr
+28 Block 3 B03 - Skick betong i MS  I b n e v h e ö n v t e e r r in g g ju t v a is s a o r m at . t åtgärder krävs,vattenbilning + 30 mm sprutbetong alla ytor i kalkyl. Om delar av konstruktionen TE 1 500 000 kr 1 500 000 1 9,5% 205 312,50 kr
+29 Block 3 B04 - Skick betong i MS  I b n e v h e ö n v t e e r r in g g ju t v a is s a o r m at . t åtgärder krävs,vattenbilning + 30 mm sprutbetong alla ytor i kalkyl. Om delar av konstruktionen TE 1 500 000 kr 1 500 000 1 9,5% 205 312,50 kr
+30 Block 3 B06 - svårkalkylerad, risk för ytterligare åtgärder Betongrenovering, nya stomdelar etc TE 1 500 000 kr 1 500 000 2 9,5% 821 250,00 kr
+31 Block 3 B08/B14 - Åtgärder/renovering/ny pålning regnbassänger Hanterat i kalkyl, men svårkalkylerat ingrep i befintlig bassäng TE 3 000 000 kr 3 000 000 2 9,5% 1 642 500,00 kr
+32 Block 3 B09 - Skick betong i BIO-P E O j m m d ö e jli l g ar a a tt v in k v o e n n s t t e ru ra kt , i o tr n o e li n g t b v e is h d ö e v n e r m g e ju s t t a s p å o v m er . kade volymen. Vattenbilning + 30 mm sprutbetong alla ytor i kalkyl. TE 4 000 000 kr 4 000 000 2 9,5% 2 190 000,00 kr
+33 Block 3 Stor ledning till QD     Troligtvis i dåligt skick, relining kan behövas TE 1 000 000 kr 1 000 000 3 9,5% 821 250,00 kr
+34 Block 4 Stomvalsinriktningsändring/-justering Återbrukad stomme räknat i kalkyl för A14 TE - 500 000 kr -500 000 1 9,5%- 68 437,50 kr
+35 Block 4 Labutrsutning behöver kompletteras Utsrustning enligt Rumsfunktionsprogram ingår TE 500 000 kr 500 000 1 9,5% 68 437,50 kr
+36 Block 4 Verkstadsutrustning      Uppskattat i kalkyl, om projektet ska köpa in mer utrustning TE 500 000 kr 500 000 1 9,5% 68 437,50 kr
+37 Block 4 Omfattning Renovering/Ombyggnad A04 Omfattning av ny stomkomplettering samt ytskikt kan öka beroende på skick av befintlig delar. TE 1 000 000 kr 1 000 000 2 9,5% 547 500,00 kr
+38 Övergripande Övergripande Rivning Risk för ytterligare frischaktningar kopplat till rivning R 300 000 kr 300 000 1 15,0% 9,5% 47 221,88 kr
+39 Övergripande Övergripande Rivning Risk för ytterligare ställningsbyggnation kopplat till rivning R 300 000 kr 300 000 1 15,0% 9,5% 47 221,88 kr
+40 Övergripande Övergripande Rivning Ökning av FA och miljöförstörande avfall R 400 000 kr 400 000 2 15,0% 9,5% 251 850,00 kr
+41 Block 3 A05 Rivning              Volatila skrotpriser     R -  30 000 kr 30 000 kr 0 2 15,0% 9,5% - kr
+42 Block 3 A05 Rivning              Föroreningar i Vägg- & Golvbeläggningar/Färg R 400 000 kr 400 000 1 15,0% 9,5% 62 962,50 kr
+43 Block 3 A05 Rivning              Försäljning av kompressorer & Utrustning R - 50 000 kr -50 000 2 15,0% 9,5%- 31 481,25 kr
+44 Block 3 B01 Rivning              Deponi impregnerat trä samt luftdysor R 70 000 kr 70 000 2 15,0% 9,5% 44 073,75 kr
+45 Block 3 B03 & B04 Rivning        Volatila skrotpriser     R -  15 000 kr 5 000 kr -10 000 2 15,0% 9,5%- 6 296,25 kr
+46 Block 3 B03 & B04 Rivning        FA i form av färg eller ytbehandling R 50 000 kr 50 000 2 15,0% 9,5% 31 481,25 kr
+47 Block 3 B03 & B04 Rivning        Dolda konstruktioner & Rördragningar som ska rivas R 100 000 kr 100 000 2 15,0% 9,5% 62 962,50 kr
+48 Block 3 B06 Rivning              Deponi betong vid föroreningar R   80 000 kr 80 000 2 15,0% 9,5% 50 370,00 kr
+49 Block 3 B08 Rivning              Deponi betong vid föroreningar R   123 057 kr 123 057 2 15,0% 9,5% 77 479,76 kr
+50 Block 3 B08 Rivning              Räknat med borrning för stålpålar, krävs fyrkantssågning & Borrning ökar priset R 200 000 kr 200 000 2 15,0% 9,5% 125 925,00 kr
+51 Block 3 B14 Rivning              Deponi betong vid föroreningar R   23 708 kr 23 708 1 15,0% 9,5% 3 731,79 kr
+52 Block 3 B14 Rivning              Risk rivning av betongkonstruktioner utanför bassäng R 300 000 kr 300 000 1 15,0% 9,5% 47 221,88 kr
+53 Block 4 A04 Rivning              Försäljning inredning, tegel etc R - 30 000 kr -30 000 2 15,0% 9,5%- 18 888,75 kr
+54 Block 4 A04 Rivning              Avväxlingar vid tak- & stomrivning, väderskydd R 200 000 kr 200 000 1 15,0% 9,5% 31 481,25 kr
+55 Övergripande Geotekniska avvikelser eller andra risker förknippade med jord, berg och vatten. Exempel men inte begränsat till detta är Vi har gjort en fackmannamässig bedömning vilket också GK3 granskat att omfattning på den geoteknsika 2 250 000 2 250 000 17,0% 9,5%
+l s ö k s r a e r d e , / f s a t s ö t r a r r e e r ö jo r r e d ls e e n r s fö o r m ut s s k at a t d , a h r ö o g m t g k r r u in n g d l v ig a g tt a e n n d tr e y c k k o , n a s v tr s u ä k n t k io n n in e g r, a fö v r g s r e u n n in d g v a a r tt e i n p , r o s j t e a k b t i e li t t , e ä ts n p d r r o a b d l e e m m . e D to e d t v ta a l k o an ch e x ö e k m ad p e e l k v o is s t l n e a d d a e t r i . l l undnersöknignen är tillräcklig omfattning. Det kvarstår ändå risker som det alltid gör när man arbetar med geoteknik. GE 2
+1 441 293,75 kr
+56 Övergripande B fle o r r t p s å la la g r n , i ä n n g d a ri v n p g å a la v r m /s e p t o o n d t v /s a t l a . g eller annan grundläggning. Exemplevis pga av släntberg, hinder mm. Kan exempelvis resultera i Hinder är svårt att veta på förhand. GE 4 000 000 4 000 000 3 17,0% 9,5% 3 843 450,00 kr
+57 Övergripande Framtagna värden på rörelser stämmer inte med verkligheten. Kan resultera i större rörelse både vertiakalt och horisontellt. Rörelser och beräningar gjorde enligt alla gällande normer. Kontrollerade mot tidigare erfarenehtesvärden. Sen är det 2 250 000 2 250 000 17,0% 9,5%
+Större/mindre massundanträngning eller vibrationer än beräknat kan leda till skador, förseningar, kostnadsökningar. hårda krav och små avvikelser exmeplvis i geoteknik kan leda till förändringar. GE 2
+1 441 293,75 kr
+58 Övergripande Svårt att räkna på installationskapaciter kan gå både långsamrare och snabbare. Detta beror bland annat på hur jorden uppför sig. Kapaciteter uppskattade - 630 000 kr 630 000 0 17,0% 9,5%
+Borrar man för snabbt kan luft fastna i marken och det uppstår mer rörelser eller motsatt (Damsugare). Också hur pållängder lirar GE 3
+med jorddjup. Påverkan av bef verksamhet.                                                   - kr
+59 Övergripande Inköpskostnader kan variera över tid. Dels index, valuta risk och materialrisk. Väldigt svår att bedöma. Går inte . GE - 225 000 kr 4 500 000 4 275 000 3 17,0% 9,5% 4 107 687,19 kr
+60 Övergripande Spill på material är svårt att uppskatta kan både blir mer eller mindre. Eller att pålarna blir längre/kortare. Beror lite på tur att längderna blir ok mot beställda längder samt att geoteknik inte avviker för mycket. Vi förutsätter att - 50 000 kr 300 000 250 000 17,0% 9,5%
+K har angett rätt längder i sin K handling. Det är de längderna vi utgår ifrån. För Hullspisspålarna kan det vara ett GE 3
+alternativ att använda sig av slagskarv där man slår i spillbiten får utredas. 240 215,63 kr
+61 Övergripande F fö ö r r o o r r e e n n in in g g a a r r i o m c a h r u k, t s u lä ts p lä p p k p a n fr å o n rs m ak a a s k s i t n o p e p lle i r v f å rå r n p r A o R d N uk . tion eller att extra skyddsurustning behövs. Exempelv på detta kan vara GE 200 000 200 000 1 17,0% 9,5% 32 028,75 kr
+62 Övergripande Yttre påverkan såsom exemeplvis krig, politik, TRV (väg och järnvägar), pandemi, naturfenomen, tull, stöld osv. GE 5 000 000 5 000 000 1 17,0% 9,5% 800 718,75 kr
+63 Övergripande Väder. Exempelvis extrem kyla, snö, skyfall eller vind. K sv a å n r a p r å e v a e t r t k a in n d e e h ls å l f l r a a m to d ll r e i r ft a , n t s id e s r p . lan och således kostnadsökning men också kvaliten på arbetet då det kan vara GE 400 000 400 000 3 17,0% 9,5% 384 345,00 kr
+64 Övergripande Problem med leverans av material. Kan exempelvis ta slut eller bli försenat. Vilket leder till mer kostnader och tidsförlägning. T gä id ll s e p r r p e å s s m at a t s e p r e ia c l i e e t l . l t på de första inköpen. Små störningar kan resultera i problem. Samt att det är först till kvarn som GE 400 000 400 000 1 17,0% 9,5% 64 057,50 kr
+65 Övergripande Ändring av personalstyrka då det är ett lågt jobb. Dels kan personal bli sjuk. Men också byta tjänst eller sluta. GE 500 000 500 000 2 17,0% 9,5% 320 287,50 kr
+66 Övergripande Samordning på arbetsplatsen. Risk att personal blir klämd eller skadar sig för de är nära våra maskiner. Problem med buller. GE 400 000 400 000 1 17,0% 9,5% 64 057,50 kr
+67 Övergripande Sammordning på arbetsplatsen:Vi inte får tillräkligt med lageryta för att på ett effektivt sätt kunna producera. GE 300 000 300 000 2 17,0% 9,5% 192 172,50 kr
+68 Övergripande L at e t d d n e i n fa g n a n r s e . l l A er t t a d n e d i r n a t e ko t n ål s d tr e u k k t r i a o v n s e o r m gå s r t s ä ö ll n ts d u er t . a n D e g t å ta r a k v a n ä n s d ke å . av olika anledningar exempelvis at vi pålar i dem för att vi inte viste V gä ik r t n ig s t v ä a r tt d e b n e s s t ä ä t ll t a s r . e har koll på alla konstruktioer i mark samt har koll på befitliga konstruktioner så att rätt GE 350 000 350 000 3 17,0% 9,5% 336 301,88 kr
+69 Övergripande Ingående mängder i kalkyl stämmer inte överrens med underlag. Är en risk dels inför risktpriset men också fortlöpande i projektet. GE 300 000 300 000 1 17,0% 9,5% 48 043,13 kr
+70 Övergripande Bugg i dataprogram gör att kostnadsstyrning/kalkyl/beräkningsprogram inte fungerar. GE 100 000 100 000 2 17,0% 9,5% 64 057,50 kr
+71 Övergripande Förändingar i sent skede. Beslut tas försent. Vi kan inte planera och maximera vår framdrigt eller det missas saker. Känns som en större risk inför uppstart av det första Blocket. GE 500 000 500 000 2 17,0% 9,5% 320 287,50 kr
+72 Övergripande Arbetsmoment flyttas i tid mot tidsplanen vilket kan skapa utmaningar i samordning, inköp och övrig planering. GE 500 000 500 000 2 17,0% 9,5% 320 287,50 kr
+73 Övergripande Oförutsetta tillkommande arbetsmoment. Så som exempelvis spont för ledninsgschakt G ha å r r n e å n g k o la n r e o r a g t a t n lö is s a a t i u o n n d p e å r p tid la e t n s. då vi har en organisation på plats. Men kan vara mer besvärligt mellan block då vi inte GE 250 000 250 000 2 17,0% 9,5% 160 143,75 kr
+74 Övergripande Återanvända material, billigare inköp. Metodval. Undersökning om altantiva köp eller återanvändning bör göras. Utreda om andra metoder är med lämpande. GE 0 1 17,0% 9,5% - kr
+75 Övergripande Risk att vi inte får ta på rätt maskin. Marknaden börjar bli het och det finns ett begränsat antal maskiner på marknaden. Kan behöva ha en kortare maskin som producerar sämre. GE 250 000 250 000 1 17,0% 9,5% 40 035,94 kr
+76 Block 1 Berget svårare att hantera avseende sprängning Mindre salvor/ ger längre tid ME 1 500 000 1 500 000 2 10,5% 9,5% 907 481,25 kr
+79 Övergripande VA-mtrl en kostsam post Gemensamma inköp     ME   -250 000  -250 000 2 10,5% 9,5%- 151 246,88 kr
+80 Övergripande Återbruk Berg       nyttja sprängt berg i projektet ME -150 000 -150 000 2 10,5% 9,5%- 90 748,13 kr
+81 Övergripande Sälja allt berg     Inkomst som gagnar projektet. Ca 20 000 ton x 15kr= ME -300 000 -300 000 2 10,5% 9,5%- 181 496,25 kr
+83 Övergripande Provtagningsbrunnar Ökar i antal             ME        1 500 000 1 500 000 2 10,5% 9,5% 907 481,25 kr
+85 Övergripande Sämre schaktbara massor än beräknat kapacitetsförsämring vid schakt och VA-jobb ME 3 000 000 3 000 000 2 10,5% 9,5% 1 814 962,50 kr
+86 Övergripande begränsad framkomlighet väntetider           ME        1 500 000 1 500 000 2 10,5% 9,5% 907 481,25 kr
+90 Övergripande Provisorier         Okända provisorier som kan tillkomma under projektets gång. ME 2 000 000 2 000 000 2 10,5% 9,5% 1 209 975,00 kr
+93 Övergripande Fall B massor klassa som förorenade. Skulle cirka hälften av massorna klassas som förorenade. ME 5 500 000 5 500 000 2 10,5% 9,5% 3 327 431,25 kr
+94 Övergripande Minskat trasportavstånd schaktmassor transport minskar från 3tim till 1,5 tim / vända schakt. ME -1 300 000 -1 300 000 2 10,5% 9,5%- 786 483,75 kr
+95 Övergripande Lättfyllning 1000 m3, Hasopor ingår idag i kalkyl 20251006 Ökning av lättfyllnad. 1300 m3. Inkl arbete. ME 1 251 900 1 251 900 2 10,5% 9,5% 757 383,85 kr
+96 Övergripande Flödesmätarbrunn på utloppsledning, komplexitet ökar Omfattning och utförande ej klart ME 500 000 500 000 2 10,5% 9,5% 302 493,75 kr
+97 Övergripande Vid eventuellt elstödsbidrag för elgrävmaskin Lägre timpris med cirka 100kr/tim ME -100 000 -100 000 2 10,5% 9,5%- 60 498,75 kr
+98 Övergripande Rening av byggvatten vid förhäjda värden Hyra av anläggning för rening. ME 2 500 000 2 500 000 2 10,5% 9,5% 1 512 468,75 kr
+99 Övergripande Ökade mängder vid sprängning Fler kubik än upptaget i kalkyl behöver sprängas bort. Räknat att det ökar med 2000m3 ME 1 208 000 1 208 000 2 10,5% 9,5% 730 824,90 kr
+101 Övergripande Vabon. Va-Arbetare. Behövs vara fler än 1 VA-arbetare från Vabon ME 2 173 500 2 173 500 2 10,5% 9,5% 1 314 940,33 kr
+102 Övergripande Vabon. Hyra utrustning Minskad åtgång       ME   -50 000   -50 000 2  10,5% 9,5%- 30 249,38 kr
+103 Övergripande Vabon. Tv-inspektion Minskar                ME   -50 000   -50 000 2  10,5% 9,5%- 30 249,38 kr
+104 Övergripande Vabon. Täthetskontroll av självfallsledningar Minskar ME -50 000 -50 000 2 10,5% 9,5%- 30 249,38 kr
+105 Övergripande Fullgörandeförsäkring Ökar                  ME        150 000 150 000 2 10,5% 9,5% 90 748,13 kr
+106 Övergripande Ökade kostnader arbetstid UE - En del är befintligt och det finns en viss ombyggnadsfaktor där saker och ting tar mer tid än -1 000 000 5 000 000 4 000 000 15,0% 9,5%
+f v ö a r r v a ä s n t t r a u t l . m Äv e e d n s b tä e l r l o ni e n n g d e s o p m å b fr e a h m ö k v o er m b li y g g h g e a t s o o ch m h e u tc r . s H m a i r d I i B gt A d B e t f å g t å t r m . I e b d l a a n ll d t? är det trångt, många på samma plats. Ibland kan det P 2
+Separat plastentreprenör?                                                                 2 518 500,00 kr
+107 Övergripande Ökade kostnader för montagematerial UE (kostnadsförändringar och allt är inte med i MTO'er som kalkyler baserats på) P 3 000 000 3 000 000 2 15,0% 9,5% 1 888 875,00 kr
+108 Övergripande Ökad kostnad för tillverkning UE (tillverkningsritningar tas fram i bygghandlingsskede) P 3 000 000 3 000 000 2 15,0% 9,5% 1 888 875,00 kr
+109 Övergripande Förändat resursbehov avseende ingenjörstid (felaktig bedömning, förändrad tidplan, längre injusteringstid/intrimmning etc) P -500 000 1 000 000 500 000 2 15,0% 9,5% 314 812,50 kr
+110 Bloick 3 Kostnadsökning - byte till Nordic water filter. P         5 000 000 5 000 000 2 15,0% 9,5% 3 148 125,00 kr
+111 Övergripande Ljuddämpare till blåsmaskiner               P         700 000 700 000 2 15,0% 9,5% 440 737,50 kr
+112 Övergripande Isolering av rör                            P         800 000 800 000 3 15,0% 9,5% 755 550,00 kr
+113 Övergripande T T i r l y lk c o kl m u m fts a l n is d t e e r l , u o c m ko rö r, r v a e re n t s il t e e r n , f m ick a a s k t i . n ex er, instrument. P 3 000 000 3 000 000 2 15,0% 9,5% 1 888 875,00 kr
+114 Övergripande Kostnadsökning: Desinfektion av tekniskt vatten P     1 000 000 1 000 000 0 15,0% 9,5% - kr
+115 Övergripande Fördyrade fraktkostnader                    P         500 000 500 000 2 15,0% 9,5% 314 812,50 kr
+116 Övergripande Provisoriska installationer (temporära lösningar såsom flytt av pumpar, provisorisk dosering etc) P 1 500 000 1 500 000 3 15,0% 9,5% 1 416 656,25 kr
+117 Block 3 Kostnadsökning: Befintliga installationer i sämre skick än förväntat /överaskningar P 1 000 000 1 000 000 2 15,0% 9,5% 629 625,00 kr
+118 Övergripande Minskad godstjocklek på rör där det är självfall eller lågt tryck P -500 000 -500 000 1 15,0% 9,5%- 78 703,13 kr
+119 Övergripande M Sw ö e jl c ig o t a a r t b t e å t t a e r r a m n e v d än å d te a r p b r r o u c k e s s li s s u ta trustning såsom bef. Blåsmaskiner till sandfång eller pumpar till actiflo samt IBAB's ventillista. P -250 000 -250 000 2 15,0% 9,5% - 157 406,25 kr
+120 Block 3 Dämpskärmar i försedimentering                   P         200 000 200 000 2 15,0% 9,5% 125 925,00 kr
+121 Block 3 Luckor försedimentering kan komma att ändras till automatiska luckor P 500 000 500 000 3 15,0% 9,5% 472 218,75 kr
+122 Block 2 Utbyte till rostfritt bottenluftarsystem i AGS? risk avser merkostnad. Dyrare rör och längre installationstid P 500 000 500 000 3 15,0% 9,5% 472 218,75 kr
+123 Block 3 Tömningspumpar QD                                P         200 000 200 000 0 15,0% 9,5% - kr
+124 Övergripande Utgående flödesmätare - Möjlighet om vi kan hitta en billigare lösning P -500 000 -500 000 1 15,0% 9,5%- 78 703,13 kr
+125 Block 1 Risk - längre tidsåtgång för inblåsning av sand till sandfiltren P 50 000 50 000 1 15,0% 9,5% 7 870,31 kr
+126 Övergripande R ko is m k m - a k o a s tt t n s a tä d l s la d s r i k v r a a n v d p e å provtryckning av luftledningar (PED) (tillfällig stämpning av ledningar m.m). Helt totalt onödigt men kan P 1 000 000 1 000 000 2 15,0% 9,5% 629 625,00 kr
+127 Övergripande Blåsmaskiner slamlager i väntan på offert   P         250 000 250 000 1 15,0% 9,5% 39 351,56 kr
+128 Övergripande Osäkerheter i kalkyl Osäkerheter i kalkyl, en hel del är fortsatt ej dimensionerat eller färdigritat VS - 750 000 kr 950 000 kr 200 000 2 11,0% 9,5% 121 545,00 kr
+129 Övergripande Bra förutsättningar för effektivt montage Iarbetning montagetid VS - 350 000 kr -350 000 2 11,0% 9,5%- 212 703,75 kr
+130 Övergripande Omfattning av rördragning för polymere Ingen ritat alls i Block2, Block 1 VS - 100 000 kr 200 000 kr 100 000 2 11,0% 9,5% 60 772,50 kr
+131 Övergripande Bra flyt i projekteringen Tydliga beslut och bra planering VS - 150 000 kr -150 000 2 11,0% 9,5%- 91 158,75 kr
+132 Övergripande Dimensionering av rör och armaturer Dimensionering ej klar i systemhandling VS - 300 000 kr 300 000 kr 0 2 11,0% 9,5% - kr
+133 Övergripande Möjlighet till återbruk av produkter        VS - 100 000 kr -100 000 1 11,0% 9,5%- 15 193,13 kr
+134 Övergripande Inhyrd VS personal Bödämning är nu att vi gör jobbet med egna montörer VS 350 000 kr 350 000 2 11,0% 9,5% 212 703,75 kr
+135 Block 1 Ny omfattning sandfilter                         VS        125 000 kr 125 000 2 11,0% 9,5% 75 965,63 kr
+136 Övergripande Omfattning provisorier Generellt lite på ventilation, ev provisoriska tält/pumpstationer VE - 50 000 kr -50 000 2 11,0% 9,5%- 30 386,25 kr
+137 Övergripande Inköpsbesparingar, utbyte material Goda möjligheter lägga mycket hos en lev och få bra pris VE 1 500 000 kr 1 500 000 2 11,0% 9,5% 911 587,50 kr
+138 Övergripande Osäkerhet med kalkyl då många delar inte är färdigprojekterade. Projektera fram handlingar. +5% - 2,5% VE - 650 000 kr 800 000 150 000 2 11,0% 9,5% 91 158,75 kr
+139 Övergripande Långt projekt, behöver säkerhetsställa rendudans. Risk med att tjm tid går över Säkerhetställ god arbetsmiljö så alla trivs. Rekrytera i tid VE 850 000 850 000 2 11,0% 9,5% 516 566,25 kr
+140 Block 3 Osäkerhet kemibyggnad B14 pga järnklorid mm Finns möjlighet att förenkla vent, beskostad av energi VE - 400 000 kr -400 000 3 11,0% 9,5%- 364 635,00 kr
+141 Övergripande I kalkyl räknat med endast egen personal, inhyrd kostar mer. Gäller år 27-28 3000h + 100kr/h VE 300 000 300 000 3 11,0% 9,5% 273 476,25 kr
+142 Övergripande Aggregat AZ / RF istället för RF /RF SH räknat med dyrare alternativ VE - 650 000 kr -650 000 3 11,0% 9,5%- 592 531,88 kr
+143 Block 1 Lukt från inkoppsbyggnad Ny placeing av inlopp, ny utrustning. Finns liten risk att mer lukt uppstår än idag VE 1 850 000 1 850 000 1 11,0% 9,5% 281 072,81 kr
+144 Övergripande Kemfilter ventilation till EL-rum. Med idag 8st. Se över behov och placeringar luftintag. VE - 160 000 kr -160 000 2 11,0% 9,5%- 97 236,00 kr
+145 Block 1 Ändring A01 sandfilter  Risk 32st anslutningar istället för 3. Möjlighet mindre byggnad. VE - 30 000 kr 320 000 290 000 3 11,0% 9,5% 264 360,38 kr
+146 Övergripande Projektingenjörstid Rektrytering Q3-26-Q30  VE - 500 000 kr 1 000 000 500 000 3 11,0% 9,5% 455 793,75 kr
+147 Block 2 Programmering AGS       Osäkerhet ang. AGS och styrning. EL 150 000 kr 150 000 2 13,0% 9,5% 92 801,25 kr
+148 Övergripande Tillkommande processutrustning Kalkyl bygger på nu gällande objektslista som kan förändras EL 1 500 000 kr 1 500 000 3 13,0% 9,5% 1 392 018,75 kr
+149 Block 3 Återbruk ställverk      Återbruk av bef. ställverk till B02 och B06 EL - 500 000 kr -500 000 3 13,0% 9,5%- 464 006,25 kr
+150 Övergripande Demontering och provisorier Kan bli mindre än beräknat EL - 250 000 kr -250 000 2 13,0% 9,5%- 154 668,75 kr
+151 Övergripande Inhyrd arbetskraft Svårt att planera flera år framåt. Kan bli aktuellt att hyra arbetskraft vid toppar. EL 1 000 000 kr 1 000 000 2 13,0% 9,5% 618 675,00 kr
+152 Övergripande Utökning passagekontroll Tillkommande dörrar med kortläsare EL 100 000 kr 100 000 2 13,0% 9,5% 61 867,50 kr
+153 Övergripande Programmering o drifttagning Extra programmering i samband med drifttagning. Fungerar inte enligt funktionsbeskrivning el. dyl. EL 1 000 000 kr 1 000 000 3 13,0% 9,5% 928 012,50 kr
+154 Block 1 Nya sandfilter          Kan bli fler objekt till nya och fler filter EL 500 000 kr 500 000 2 13,0% 9,5% 309 337,50 kr
+155 Övergripande Inköp återbrukade HDF Kostnader för rivning/framtagning av håldäck kan skilja beroende på förutsättningar för rivningsobjektet STE 200 000 kr 200 000 2 11,0% 9,5% 121 545,00 kr
+156 Övergripande Inköp stål(Valuta) och leverantörsval Valutaförändring och val av lev, ca 85 ton stål STE - 1 500 000 kr -1 500 000 1 11,0% 9,5%- 227 896,88 kr
+157 Övergripande Vinter, kostnader och försening Kostnader för betongtillsatser, snöröjning (tid och material) risk 1,5 % STE 435 000 kr 435 000 2 11,0% 9,5% 264 360,38 kr
+158 Övergripande Plåtsandwichfasad ner mot bottenplatta. Risk för skador under entr.tid Skydda med påkörningskydd och reparation vid skada. STE 150 000 kr 150 000 2 11,0% 9,5% 91 158,75 kr
+\- 21 036 302 kr 142 880 363 kr    73 073 887,65 kr
 
 <!-- sida 58 -->
 
@@ -2946,6 +2931,41 @@ Tvättvatten från tvättning av rens leds tillbaka till samlingskanalen före g
 Sand- och fettfång
 Tabell 3 Dimensioneringsdata 03-Sandfång & Sandavskiljning
 
+03-Sandfång & Sandavskiljning
+
+Parameter                           Värde     Värde     Enhet
+
+```osaker-tabell
+År                                  2037      2050
+Antal                                2         2         st
+Längd                               14,5      14,5       m
+```
+
+Bredd                              4,05 (3,6) 4,05 (3,6) m
+Djup bassäng                        4,05      4,05       m
+Vätskedjup                           3,2       3,2       m
+Processvolym, totalt (beräknad med votning) 319 319      m³
+
+```osaker-tabell
+Area totalt (yta)                    104      104        m²
+Blåsmaskiner, antal                  2         2         st
+Luftflöde per maskin                 300      300      Nm3/h
+Uppehållstid Q-dim                   19        14       min
+
+Uppehållstid Q-max grovrening        3,1       2,4      min
+Ytbelastning Q-dim                   9,8      12,8      m/h
+Ytbelastning Q-max grovrening       58,8      76,5      m/h
+Sandtvätt, antal                     2         2         st
+
+Sandtvätt kapacitet per maskin       20        20        l/s
+Sandtvätt avskiljning sand >0,2 mm   95        95        %
+Sandutmatning                        1         1        m3/h
+```
+
+Glödförlust i avskild sand           <5        <5        %
+
+TS i avskild sand                    >80      >80        %
+
 I två parallella luftade sand- och fettfång (hädanefter kallade sandfång) avskiljs tyngre partiklar som
 sjunker till botten, såsom sand och grus, samt fett som flyter upp på ytan. Inkommande vatten
 
@@ -2963,32 +2983,6 @@ att lufta båda sandfången.
 | Handling<br>SYSTEMHANDLING | Status<br>GRANSKNING | Ändring<br>.- |
 | Godkänd av<br>Christopher Jensen & Bengt Mattsson | Sidor<br>40 | Datum<br>2025-10-16 |
 | Upprättad av<br>Jonatan Flodin (Envidan), Jennifer Ekholm (Sweco) |  |  |
-
-[Tabell 68-2](handlingar.tabeller/68-2.csv)
-
-| 03-Sandfång & Sandavskiljning |  |  |  |
-| --- | --- | --- | --- |
-| Parameter | Värde | Värde | Enhet |
-| År | 2037 | 2050 |  |
-| Antal | 2 | 2 | st |
-| Längd | 14,5 | 14,5 | m |
-| Bredd | 4,05 (3,6) | 4,05 (3,6) | m |
-| Djup bassäng | 4,05 | 4,05 | m |
-| Vätskedjup | 3,2 | 3,2 | m |
-| Processvolym, totalt (beräknad med votning) | 319 | 319 | m³ |
-| Area totalt (yta) | 104 | 104 | m² |
-| Blåsmaskiner, antal | 2 | 2 | st |
-| Luftflöde per maskin | 300 | 300 | Nm3/h |
-| Uppehållstid Q-dim | 19 | 14 | min |
-| Uppehållstid Q-max grovrening | 3,1 | 2,4 | min |
-| Ytbelastning Q-dim | 9,8 | 12,8 | m/h |
-| Ytbelastning Q-max grovrening | 58,8 | 76,5 | m/h |
-| Sandtvätt, antal | 2 | 2 | st |
-| Sandtvätt kapacitet per maskin | 20 | 20 | l/s |
-| Sandtvätt avskiljning sand >0,2 mm | 95 | 95 | % |
-| Sandutmatning | 1 | 1 | m3/h |
-| Glödförlust i avskild sand | <5 | <5 | % |
-| TS i avskild sand | >80 | >80 | % |
 
 <!-- sida 69 -->
 
@@ -3127,6 +3121,25 @@ försedimenteringen, och en på förbiledningen.
 
 Tabell 5 Dimensioneringsdata 04-Högflödesrening
 
+04-Högflödesrening (Actiflo)
+Parameter                           Värde     Värde     Enhet
+
+```osaker-tabell
+År                                  2037      2050
+Antal                                2         2         st
+
+Kapacitet per enhet                  576      576       m³/h
+```
+
+Polymerberedning HFR
+
+Antal                                2         2         st
+Typ (fabrikat)                    Kicab LPS 5
+Dim kapacitet per enhet              12        12      kg poly/h
+Antal pumpar till polymer HFR        2         2         st
+
+Kapacitet per pump                 0,2 – 1,2 0,2 – 1,2  m3/h
+
 Om flödena in till reningsverket uppmätt med summan av de inkommande flödesmätarna överstiger
 ett inställbart värde (normalt 2 000 m3/h) så pumpas det överstigande flödet till en högflödesrening,
 
@@ -3139,21 +3152,6 @@ ett inställbart värde (normalt 2 000 m3/h) så pumpas det överstigande flöde
 | Handling<br>SYSTEMHANDLING | Status<br>GRANSKNING | Ändring<br>.- |
 | Godkänd av<br>Christopher Jensen & Bengt Mattsson | Sidor<br>40 | Datum<br>2025-10-16 |
 | Upprättad av<br>Jonatan Flodin (Envidan), Jennifer Ekholm (Sweco) |  |  |
-
-[Tabell 71-2](handlingar.tabeller/71-2.csv)
-
-| 04-Högflödesrening (Actiflo) |  |  |  |
-| --- | --- | --- | --- |
-| Parameter | Värde | Värde | Enhet |
-| År | 2037 | 2050 |  |
-| Antal | 2 | 2 | st |
-| Kapacitet per enhet | 576 | 576 | m³/h |
-| Polymerberedning HFR |  |  |  |
-| Antal | 2 | 2 | st |
-| Typ (fabrikat) | Kicab LPS 5 |  |  |
-| Dim kapacitet per enhet | 12 | 12 | kg poly/h |
-| Antal pumpar till polymer HFR | 2 | 2 | st |
-| Kapacitet per pump | 0,2 – 1,2 | 0,2 – 1,2 | m3/h |
 
 <!-- sida 72 -->
 
@@ -3754,6 +3752,65 @@ rejektvattenrening. Flödet fördelas 50/50 mellan biolinjerna. Om flödet förb
 
 Tabell 13 Dimensioneringsdata Nereda (AGS): 30-Inloppsbuffert, 31-AGS, 32-Utloppsbuffert
 
+30-, 31-, 32- Aerobt granulärt slam (AGS)
+
+Parameter                               Värde   Värde   Enhet
+
+```osaker-tabell
+År                                      2037    2050
+Q-medel inklusive internströmmar, 50%   8 724   11 287   m³/d
+Antal buffertbassänger inlopp            1        1       st
+Buffertbassäng inlopp, längd            22,25   22,25     m
+Buffertbassäng inlopp, bredd            13,1     13,1     m
+
+Buffertbassäng inlopp, djup vatten       7,6     7,6      m
+```
+
+Buffertbassäng inlopp, djup bassäng                       m
+
+```osaker-tabell
+Processvolym buffertbassäng inlopp      2215    2215     m³
+Antal Bioreaktorer                       2        2       st
+
+Bioreaktor, längd                       27,4     27,4     m
+Bioreaktor, bredd                       17,75   17,75     m
+Djup processvolymer                      9,0     9,0      m
+```
+
+Bioreaktorer, djup bassäng                                m
+
+Processvolym totalt bioreaktorer        8754    8754     m³
+SS koncentration                                       kg SS/m³
+
+```osaker-tabell
+Blåsmaskiner, antal                      4        4       st
+Luftflöde per maskin                    3000    3000    Nm3/h
+
+Design T                                 13      13      ° C
+Antal buffertbassäng utlopp              1        1       st
+Buffertbassäng utlopp, längd            14,65   14,65     m
+Buffertbassäng utlopp, bredd            12,9     12,9     m
+Buffertbassäng utlopp, djup vatten       7,0     7,0      m
+
+Buffertbassäng utlopp, djup bassäng      7,7     7,7      m
+Processvolym buffertbassäng utlopp      1323    1323     m³
+
+Inkommande BOD , mängd                  1396    1794     kg/d
+```
+
+7
+
+```osaker-tabell
+Inkommande N, mängd                      422     490     kg/d
+Inkommande P, mängd                      51      65      kg/d
+Inkommande SS, mängd                    1278    1666     kg/d
+Utgående BOD -halt (omräknad från BOD )  9        9      mg/l
+         7                5
+Utgående N-halt                          7,4     7,4     mg/l
+Utgående P-halt                          1,0     1,0     mg/l
+Utgående SS-halt                         15      15      mg/l
+```
+
 23 (40)
 
 [Tabell 83-1](handlingar.tabeller/83-1.csv)
@@ -3763,45 +3820,6 @@ Tabell 13 Dimensioneringsdata Nereda (AGS): 30-Inloppsbuffert, 31-AGS, 32-Utlopp
 | Handling<br>SYSTEMHANDLING | Status<br>GRANSKNING | Ändring<br>.- |
 | Godkänd av<br>Christopher Jensen & Bengt Mattsson | Sidor<br>40 | Datum<br>2025-10-16 |
 | Upprättad av<br>Jonatan Flodin (Envidan), Jennifer Ekholm (Sweco) |  |  |
-
-[Tabell 83-2](handlingar.tabeller/83-2.csv)
-
-| 30-, 31-, 32- Aerobt granulärt slam (AGS) |  |  |  |
-| --- | --- | --- | --- |
-| Parameter | Värde | Värde | Enhet |
-| År | 2037 | 2050 |  |
-| Q-medel inklusive internströmmar, 50% | 8 724 | 11 287 | m³/d |
-| Antal buffertbassänger inlopp | 1 | 1 | st |
-| Buffertbassäng inlopp, längd | 22,25 | 22,25 | m |
-| Buffertbassäng inlopp, bredd | 13,1 | 13,1 | m |
-| Buffertbassäng inlopp, djup vatten | 7,6 | 7,6 | m |
-| Buffertbassäng inlopp, djup bassäng |  |  | m |
-| Processvolym buffertbassäng inlopp | 2215 | 2215 | m³ |
-| Antal Bioreaktorer | 2 | 2 | st |
-| Bioreaktor, längd | 27,4 | 27,4 | m |
-| Bioreaktor, bredd | 17,75 | 17,75 | m |
-| Djup processvolymer | 9,0 | 9,0 | m |
-| Bioreaktorer, djup bassäng |  |  | m |
-| Processvolym totalt bioreaktorer | 8754 | 8754 | m³ |
-| SS koncentration |  |  | kg SS/m³ |
-| Blåsmaskiner, antal | 4 | 4 | st |
-| Luftflöde per maskin | 3000 | 3000 | Nm3/h |
-| Design T | 13 | 13 | ° C |
-| Antal buffertbassäng utlopp | 1 | 1 | st |
-| Buffertbassäng utlopp, längd | 14,65 | 14,65 | m |
-| Buffertbassäng utlopp, bredd | 12,9 | 12,9 | m |
-| Buffertbassäng utlopp, djup vatten | 7,0 | 7,0 | m |
-| Buffertbassäng utlopp, djup bassäng | 7,7 | 7,7 | m |
-| Processvolym buffertbassäng utlopp | 1323 | 1323 | m³ |
-|  |  |  |  |
-| Inkommande BOD , mängd<br>7 | 1396 | 1794 | kg/d |
-| Inkommande N, mängd | 422 | 490 | kg/d |
-| Inkommande P, mängd | 51 | 65 | kg/d |
-| Inkommande SS, mängd | 1278 | 1666 | kg/d |
-| Utgående BOD -halt (omräknad från BOD )<br>7 5 | 9 | 9 | mg/l |
-| Utgående N-halt | 7,4 | 7,4 | mg/l |
-| Utgående P-halt | 1,0 | 1,0 | mg/l |
-| Utgående SS-halt | 15 | 15 | mg/l |
 
 <!-- sida 84 -->
 
@@ -6491,18 +6509,6 @@ Odränerad  skjuvhållfasthet, c (kPa)
 u
 25TY02 (Vb) 25TY02 (CONRAD) 25TY04 (CONRAD) GC-2 (Kon) GF4 (Vb) S-1 (Vb) 3 (Kon)
 
-[Tabell 142-1](handlingar.tabeller/142-1.csv)
-
-|  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-
 <!-- sida 143 -->
 
 Bilaga 1 - Härledda värden
@@ -6533,18 +6539,6 @@ Naturlig vattenkvot, w (%)
 N
 25TY02 (Rutin) 25TY04 (Rutin) GC-2 (Rutin) GF4 (Rutin) S-1 (Rutin) 3 (Rutin)
 
-[Tabell 143-1](handlingar.tabeller/143-1.csv)
-
-|  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-
 <!-- sida 144 -->
 
 Bilaga 1 - Härledda värden
@@ -6573,18 +6567,6 @@ Handläggare: Axel Barrdahl                           Datum: 2025-10-02
 åviN
 Densitet, ρ (t/m3)
 GC-2 (Rutin) 3 (Rutin)
-
-[Tabell 144-1](handlingar.tabeller/144-1.csv)
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
 
 <!-- sida 145 -->
 
@@ -6616,18 +6598,6 @@ Sensitivitet, S (-)
 t
 GC-2 (Rutin) 3 (Rutin)
 
-[Tabell 145-1](handlingar.tabeller/145-1.csv)
-
-|  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-
 <!-- sida 146 -->
 
 Bilaga 1 - Härledda värden
@@ -6657,18 +6627,6 @@ Handläggare: Axel Barrdahl                           Datum: 2025-10-02
 Konflytgräns, w (%)
 L
 25TY02 (Rutin) 25TY04 (Rutin) GC-2 (Rutin) GF4 (Rutin) S-1 (Rutin) 3 (Rutin)
-
-[Tabell 146-1](handlingar.tabeller/146-1.csv)
-
-|  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
 
 <!-- sida 147 -->
 
@@ -6700,18 +6658,6 @@ Permeabilitet, k (m/s)
 i
 GC-2 (CRS) 3 (CRS)
 
-[Tabell 147-1](handlingar.tabeller/147-1.csv)
-
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-
 <!-- sida 148 -->
 
 Bilaga 1 - Härledda värden
@@ -6740,18 +6686,6 @@ Handläggare: Axel Barrdahl                          Datum: 2025-10-02
 åviN
 Beta K (-)
 GC-2 (CRS) 3 (CRS)
-
-[Tabell 148-1](handlingar.tabeller/148-1.csv)
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
 
 <!-- sida 149 -->
 
@@ -6783,18 +6717,6 @@ Kompressionsmodul,   M  (kPa)
 L
 GC-2 (CRS) 3 (CRS)
 
-[Tabell 149-1](handlingar.tabeller/149-1.csv)
-
-|  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-
 <!-- sida 150 -->
 
 Bilaga 1 - Härledda värden
@@ -6823,18 +6745,6 @@ Handläggare: Axel Barrdahl                           Datum: 2025-10-02
 åviN
 Modultal, M' (-)
 GC-2 (CRS) 3 (CRS)
-
-[Tabell 150-1](handlingar.tabeller/150-1.csv)
-
-|  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
 
 <!-- sida 151 -->
 
@@ -6867,18 +6777,6 @@ c
 25TY02 (Empiri Vb) 25TY02 (CONRAD) 25TY04 (CONRAD) GC-2 (Empiri Kon) GC-2 (CRS)
 GF4 (Empiri Vb) S-1 (Empiri Vb) 3 (Empiri Kon) 3 (CRS)
 
-[Tabell 151-1](handlingar.tabeller/151-1.csv)
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-
 <!-- sida 152 -->
 
 Bilaga 1 - Härledda värden
@@ -6909,18 +6807,6 @@ Gränstryck, σ' (kPa)
 L
 GC-2 (CRS) 3 (CRS)
 
-[Tabell 152-1](handlingar.tabeller/152-1.csv)
-
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-
 <!-- sida 153 -->
 
 Sida 1 av 12
@@ -6929,85 +6815,117 @@ Bilaga 2 - Utvärdering CPT           2025-10-17
 
 C  P  T - sondering
 
+Projekt                          Plats  Kungsbacka
+Arendalsleden
+351958                          Borrhål 25TY02
+Datum  2025 09 17 1221
+Förborrningsdjup 2,00 m Förborrat material Fyllning
+Startdjup  2,00 m   Geometri  Normal
+Stoppdjup  20,00 m  Vätska i filter Glycerin
+Grundvattenyta 1,50 m Operatör Michaela Eriksson
+Referens   my       Utrustning Geotech 504
+Nivå vid referens 4,86 m x Portryck registrerat vid sondering
+Kalibreringsdata               Nollvärden, kPa
+Spets   4231   Inre friktion O 0,0 kPa
+c
+Datum   2025-09-01 Inre friktion O 0,0 kPa
+f
+Areafaktor a 0,815 Cross talk c 0,000
+1
+Areafaktor b 0,000 Cross talk c 0,000
+2
+Skalfaktorer
+Korrigering
+Portryck (ingen)
+Friktion (ingen)
+Spetstryck (ingen)
+Bedömd sonderingsklass D
+Använd skalfaktorer vid beräkning
+Portrycksobservationer Skiktgränser Klassificering
+Djup (m) Djup (m) Densitet
+Från  Till (ton/m3) Flytgräns Jordart
+0,00 1,70 1,90 0,00    F:grsa
+1,70 2,00 1,60 0,74    Le(t)
+2,00 2,50     0,74
+2,50 3,00     1,39
+3,00 20,00    1,39
+
+Anmärkning
+
 O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY02.CPW
 
 [Tabell 153-1](handlingar.tabeller/153-1.csv)
 
-| Projekt<br>Arendalsleden<br>351958 |  |  | Plats Kungsbacka<br>Borrhål 25TY02<br>Datum 2025 09 17 1221 |
-| --- | --- | --- | --- |
-| Förborrningsdjup 2,00 m<br>Startdjup 2,00 m<br>Stoppdjup 20,00 m<br>Grundvattenyta 1,50 m<br>Referens my<br>Nivå vid referens 4,86 m | Förborrat material Fyllning<br>Geometri Normal<br>Vätska i filter Glycerin<br>Operatör Michaela Eriksson<br>Utrustning Geotech 504<br>x Portryck registrerat vid sondering |  |  |
-| Kalibreringsdata<br>Spets 4231 Inre friktion O 0,0 kPa<br>c<br>Datum 2025-09-01 Inre friktion O 0,0 kPa<br>f<br>Areafaktor a 0,815 Cross talk c 0,000<br>1<br>Areafaktor b 0,000 Cross talk c 0,000<br>2 |  | Nollvärden, kPa<br>Portryck Friktion Spetstryck<br>Före 254,80 106,10 2,61<br>Efter 246,30 106,20 2,59<br>Diff -8,50 0,10 -0,01<br>Korrigering<br>Portryck (ingen)<br>Friktion (ingen)<br>Spetstryck (ingen)<br>Bedömd sonderingsklass D |  |
-| Skalfaktorer<br>Portryck Friktion Spetstryck<br>OmrådeFaktor Område Faktor Område Faktor<br>Använd skalfaktorer vid beräkning |  |  |  |
-| Portrycksobservationer Skiktgränser Klassificering<br>Djup (m) Portryck (kPa) Djup (m) Djup (m) Densitet<br>1,50 0,00 Från Till (ton/m3) Flytgräns Jordart<br>0,00 1,70 1,90 0,00 F:grsa<br>1,70 2,00 1,60 0,74 Le(t)<br>2,00 2,50 0,74<br>2,50 3,00 1,39<br>3,00 20,00 1,39 |  |  |  |
-| Anmärkning |  |  |  |
-
-[Tabell 153-2](handlingar.tabeller/153-2.csv)
-
 |  | Portryck | Friktion | Spetstryck |
 | --- | --- | --- | --- |
-| Före<br>Efter<br>Diff | 254,80<br>246,30<br>-8,50 | 106,10<br>106,20<br>0,10 | 2,61<br>2,59<br>-0,01 |
+| Före | 254,80 | 106,10 | 2,61 |
+| Efter | 246,30 | 106,20 | 2,59 |
+| Diff | -8,50 | 0,10 | -0,01 |
 
-[Tabell 153-3](handlingar.tabeller/153-3.csv)
+[Tabell 153-2](handlingar.tabeller/153-2.csv)
 
 | Portryck<br>OmrådeFaktor | Friktion<br>Område Faktor | Spetstryck<br>Område Faktor |
 | --- | --- | --- |
 |  |  |  |
 
-[Tabell 153-4](handlingar.tabeller/153-4.csv)
+[Tabell 153-3](handlingar.tabeller/153-3.csv)
 
 | Djup (m) | Portryck (kPa) |
 | --- | --- |
 | 1,50 | 0,00 |
 
-[Tabell 153-5](handlingar.tabeller/153-5.csv)
-
-| Djup (m)<br>Från Till |  | Densitet<br>(ton/m3) | Flytgräns | Jordart |
-| --- | --- | --- | --- | --- |
-| 0,00<br>1,70<br>2,00<br>2,50<br>3,00 | 1,70<br>2,00<br>2,50<br>3,00<br>20,00 | 1,90<br>1,60 | 0,00<br>0,74<br>0,74<br>1,39<br>1,39 | F:grsa<br>Le(t) |
-
 <!-- sida 154 -->
 
+CPT-sondering  utförd enligt EN ISO 22476-1
+Förborrningsdjup 2,00 m
+Start djup 2,00 m
+Stopp djup 20,00 m
+Grundvattennivå 1,50 m
+
+Portryck u, u , u (kPa)       Portrycksparameter B
+o                                   q
+0   1   2   3   4   5 0     20     40    60     0        500     0   5  10  15 0,0  0,5   1,0
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20                                                   Uo  U
+Djup
+(m)
 Sida 2 av 12
 Bilaga 2 - Utvärdering CPT                            2025-10-17
-
+Projekt Arendalsleden
+Projekt nr 351958
+Referens   my          Vätska i filter Glycerin
+Plats  Kungsbacka
+Nivå vid referens 4,86 m Borrpunktens koord.
+Borrhål 25TY02
+Förborrat material Fyllning Utrustning Geotech 504
+Datum  2025 09 17 1221
+Geometri   Normal      Sond nr     4231
+SSppeettssttrryycckk qq ((MMPPaa)) FFrriikkttiioonn ff ((kkPPaa)) FFrriikkttiioonnsskkvvoott RR ((%%)) Lutning (grader)
+tt                  tt                                        fftt
+0   5  10
 O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY02.CPW
 2025-10-09
 
 [Tabell 154-1](handlingar.tabeller/154-1.csv)
-
-| CPT-sondering utförd enligt EN ISO 22476-1<br>Förborrningsdjup 2,00 m Referens my Vätska i filter Glycerin<br>Start djup 2,00 m Nivå vid referens 4,86 m Borrpunktens koord.<br>Stopp djup 20,00 m Förborrat material Fyllning Utrustning Geotech 504<br>Grundvattennivå 1,50 m Geometri Normal Sond nr 4231 | Projekt Arendalsleden<br>Projekt nr 351958<br>Plats Kungsbacka<br>Borrhål 25TY02<br>Datum 2025 09 17 1221 |
-| --- | --- |
-| Portryck u, u , u (kPa) Portrycksparameter B SSppeettssttrryycckk qq ((MMPPaa)) FFrriikkttiioonn ff ((kkPPaa)) FFrriikkttiioonnsskkvvoott RR ((%%)) Lutning (grader)<br>o q tt tt fftt<br>0 1 2 3 4 5 0 20 40 60 0 500 0 5 10 15 0,0 0,5 1,0 0 5 10<br>0<br>2<br>4<br>U<br>Uo<br>6<br>8<br>U<br>Uo<br>10<br>Djup<br>U<br>(m)<br>12<br>Uo<br>14<br>U<br>16<br>Uo<br>U<br>18<br>20 Uo U |  |
-
-[Tabell 154-2](handlingar.tabeller/154-2.csv)
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-
-[Tabell 154-3](handlingar.tabeller/154-3.csv)
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-[Tabell 154-4](handlingar.tabeller/154-4.csv)
 
 |  |  |
 | --- | --- |
@@ -7021,60 +6939,52 @@ O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY02.CPW
 | U | o<br>U |
 |  |  |
 
-[Tabell 154-5](handlingar.tabeller/154-5.csv)
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-[Tabell 154-6](handlingar.tabeller/154-6.csv)
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-[Tabell 154-7](handlingar.tabeller/154-7.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
 <!-- sida 155 -->
 
+Referens  my          Förborrningsdjup 2,00 m
+Nivå vid referens 4,86 m Förborrat material Fyllning
+Grundvattenyta 1,50 m Utrustning Geotech 504
+Startdjup 2,00 m      Geometri  Normal
+
+Odränerad skjuvhållfasthet  (kPa) Friktionsvinkel (o)
+fu
+Klassificering 0 10 20 30 40 50 60 0   5  10  15
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+Djup
+(m)
 Sida 3 av 12
 Bilaga 2 - Utvärdering CPT                            2025-10-17
+CPT-sondering  utvärderad enligt SGI Information 15 rev.2007          Projekt Arendalsleden
+Projekt nr 351958
+Utvärderare  Axel Barrdahl
+Plats  Kungsbacka
+Datum för utvärdering 2025-09-22
+Borrhål 25TY02
+Datum  2025 09 17 1221
+Relativ lagringstäthet I (%) Modul (MPa)
+D
+0   5   10  15  200,000    0,005    0,010
+O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY02.CPW 2025-10-09
 
 [Tabell 155-1](handlingar.tabeller/155-1.csv)
-
-| CPT-sondering utvärderad enligt SGI Information 15 rev.2007<br>Referens my Förborrningsdjup 2,00 m Utvärderare Axel Barrdahl<br>Nivå vid referens 4,86 m Förborrat material Fyllning Datum för utvärdering 2025-09-22<br>Grundvattenyta 1,50 m Utrustning Geotech 504<br>Startdjup 2,00 m Geometri Normal | Projekt Arendalsleden<br>Projekt nr 351958<br>Plats Kungsbacka<br>Borrhål 25TY02<br>Datum 2025 09 17 1221 |
-| --- | --- |
-| Odränerad skjuvhållfasthet  (kPa) Friktionsvinkel (o) Relativ lagringstäthet I (%) Modul (MPa)<br>fu D<br>Klassificering 0 10 20 30 40 50 60 0 5 10 15 0 5 10 15 200,000 0,005 0,010<br>0<br>F:grsa<br>2 Le(t)<br>x x L OC<br>x x NCSi<br>x<br>x vL<br>x<br>x<br>x<br>4 x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x EL<br>x<br>6 x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x 8 x x Svensk empiri<br>x x o Lunne, överkonsoliderad<br>x x + Lunne, normalkonsoliderad<br>x<br>x<br>x<br>x<br>x<br>10 x<br>x<br>x Djup<br>x<br>x<br>x Cl<br>x<br>x x (m) NC<br>x<br>12 x<br>x<br>x<br>x<br>x<br>x x vL<br>x<br>x<br>x<br>14 x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>16 x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>18 x<br>x<br>x<br>x<br>x<br>x<br>x<br>x L<br>x<br>xx<br>O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY02.CPW 2025-10-09 |  |
-
-[Tabell 155-2](handlingar.tabeller/155-2.csv)
 
 | F:grsa |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -7086,7 +6996,7 @@ Bilaga 2 - Utvärdering CPT                            2025-10-17
 |  |  |  | vL |  |
 |  |  |  | L |  |
 
-[Tabell 155-3](handlingar.tabeller/155-3.csv)
+[Tabell 155-2](handlingar.tabeller/155-2.csv)
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -7100,35 +7010,7 @@ Bilaga 2 - Utvärdering CPT                            2025-10-17
 |  | x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x |  |  |  |  |
 |  | x<br>x<br>x<br>x | x<br>x<br>x<br>x<br>xx |  |  |  |
 
-[Tabell 155-4](handlingar.tabeller/155-4.csv)
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-[Tabell 155-5](handlingar.tabeller/155-5.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-[Tabell 155-6](handlingar.tabeller/155-6.csv)
+[Tabell 155-3](handlingar.tabeller/155-3.csv)
 
 |  |  |  |
 | --- | --- | --- |
@@ -7144,16 +7026,47 @@ Bilaga 2 - Utvärdering CPT                            2025-10-17
 
 <!-- sida 156 -->
 
+Referens  my          Förborrningsdjup 2,00 m
+Nivå vid referens 4,86 m Förborrat material Fyllning
+Grundvattenyta 1,50 m Utrustning Geotech 504
+Startdjup 2,00 m      Geometri  Normal
+
+Effektivtryck (kPa)                      Odränerad skjuvhållfasthet  (kPa)
+fu
+Klassificering 0   50       100       150       200      250      0   10 20  30  40  50  60
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+Djup
+(m)
 Sida 4 av 12
 Bilaga 2 - Utvärdering CPT                            2025-10-17
+CPT-sondering  utvärderad enligt SGI Information 15 rev.2007          Projekt Arendalsleden
+Projekt nr 351958
+Utvärderare  Axel Barrdahl
+Plats  Kungsbacka
+Datum för utvärdering 2025-09-22
+Borrhål 25TY02
+Datum  2025 09 17 1221
+O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY02.CPW 2025-10-09
 
 [Tabell 156-1](handlingar.tabeller/156-1.csv)
-
-| CPT-sondering utvärderad enligt SGI Information 15 rev.2007<br>Referens my Förborrningsdjup 2,00 m Utvärderare Axel Barrdahl<br>Nivå vid referens 4,86 m Förborrat material Fyllning Datum för utvärdering 2025-09-22<br>Grundvattenyta 1,50 m Utrustning Geotech 504<br>Startdjup 2,00 m Geometri Normal | Projekt Arendalsleden<br>Projekt nr 351958<br>Plats Kungsbacka<br>Borrhål 25TY02<br>Datum 2025 09 17 1221 |
-| --- | --- |
-| Effektivtryck (kPa) Odränerad skjuvhållfasthet  (kPa)<br>fu<br>Klassificering 0 50 100 150 200 250 0 10 20 30 40 50 60<br>0<br>F:grsa<br>2 Le(t)<br>x x L OC o o<br>x x NCSi o o<br>x o<br>x vL o<br>x o<br>x o<br>x o<br>4 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x EL o<br>x o<br>6 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>8 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>10 x o<br>x o<br>x Djup o<br>x o<br>x o<br>x Cl o<br>x o<br>x x (m) NC o o<br>x o<br>12 x o<br>x o<br>x o<br>x o<br>x o<br>x x vL o o<br>x o<br>x o<br>x o<br>14 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>16 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>18 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x L o<br>x o<br>xx oo<br>O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY02.CPW 2025-10-09 |  |
-
-[Tabell 156-2](handlingar.tabeller/156-2.csv)
 
 | F:grsa |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -7165,7 +7078,7 @@ Bilaga 2 - Utvärdering CPT                            2025-10-17
 |  |  |  | vL |  |
 |  |  |  | L |  |
 
-[Tabell 156-3](handlingar.tabeller/156-3.csv)
+[Tabell 156-2](handlingar.tabeller/156-2.csv)
 
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -7179,7 +7092,7 @@ Bilaga 2 - Utvärdering CPT                            2025-10-17
 | o<br>o<br>o<br>o<br>o<br>o<br>o<br>o<br>o<br>o |  |  |  |  |
 | o<br>o<br>o<br>o<br>o<br>o<br>o<br>o<br>oo |  |  |  |  |
 
-[Tabell 156-4](handlingar.tabeller/156-4.csv)
+[Tabell 156-3](handlingar.tabeller/156-3.csv)
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -7201,14 +7114,90 @@ Bilaga 2 - Utvärdering CPT           2025-10-17
 C  P T  - sondering
 Sida 1 av 2
 
+Projekt                          Plats  Kungsbacka
+Arendalsleden                   Borrhål 25TY02
+351958                          Datum  2025 09 17 1221
+Djup (m)               ww          '  '  OCR I    E   M    M
+LL fu      vo  vo  c       D        OC   NC
+Från Till Klassificering t/m3 kPa o kPa kPa kPa     %    MPa  MPa MPa
+0,00 1,50 F:grsa     1,90 0,00     14,0 14,0
+1,50 1,70 F:grsa     1,90 0,00     29,8 28,8
+1,70 2,00 Le(t)      1,60 0,74     34,0 30,5
+2,00 2,20 Cl L     OC 1,85 0,74 34,0 38,2 32,2 188,3 5,85
+2,20 2,40 Cl L     OC 1,60 0,74 22,8 41,6 33,6 113,1 3,37
+2,40 2,60 Cl vL   NCSi 1,30 1,39 15,1 44,4 34,4 47,3 1,37
+2,60 2,80 Cl vL   NCSi 1,30 1,39 13,1 47,0 35,0 39,2 1,12
+2,80 3,00 Cl vL    NC 1,30 1,39 11,9 49,5 35,5 34,8 1,00
+3,00 3,20 Cl vL    NC 1,30 1,39 12,2 52,1 36,1 35,9 1,00
+3,20 3,40 Cl vL    NC 1,30 1,39 11,9 54,6 36,6 34,8 1,00
+3,40 3,60 Cl vL    NC 1,45 1,39 11,2 57,3 37,3 32,9 1,00
+3,60 3,80 Cl vL    NC 1,45 1,39 10,5 60,2 38,2 30,8 1,00
+3,80 4,00 Cl EL    NC 1,60 1,39 7,5 63,2 39,2 22,1 1,00
+4,00 4,20 Cl EL    NC 1,60 1,39 7,7 66,3 40,3 22,5 1,00
+4,20 4,40 Cl EL    NC 1,60 1,39 7,2 69,5 41,5 21,0 1,00
+4,40 4,60 Cl EL    NC 1,60 1,39 7,4 72,6 42,6 21,8 1,00
+4,60 4,80 Cl EL    NC 1,60 1,39 8,0 75,7 43,7 23,4 1,00
+4,80 5,00 Cl EL    NC 1,60 1,39 7,8 78,9 44,9 23,0 1,00
+5,00 5,20 Cl EL    NC 1,60 1,39 8,0 82,0 46,0 23,4 1,00
+5,20 5,40 Cl EL    NC 1,60 1,39 8,1 85,2 47,2 23,7 1,00
+5,40 5,60 Cl EL    NC 1,60 1,39 8,4 88,3 48,3 24,5 1,00
+5,60 5,80 Cl EL    NC 1,60 1,39 8,4 91,4 49,4 24,6 1,00
+5,80 6,00 Cl EL    NC 1,60 1,39 9,0 94,6 50,6 26,5 1,00
+6,00 6,20 Cl EL    NC 1,60 1,39 9,4 97,7 51,7 27,6 1,00
+6,20 6,40 Cl EL    NC 1,45 1,39 9,7 100,7 52,7 28,6 1,00
+6,40 6,60 Cl EL    NC 1,45 1,39 9,9 103,5 53,5 29,0 1,00
+6,60 6,80 Cl EL    NC 1,45 1,39 9,9 106,4 54,4 29,0 1,00
+6,80 7,00 Cl EL    NC 1,60 1,39 9,7 109,4 55,4 28,4 1,00
+7,00 7,20 Cl EL    NC 1,60 1,39 9,9 112,5 56,5 29,2 1,00
+7,20 7,40 Cl vL    NC 1,60 1,39 10,0 115,7 57,7 29,5 1,00
+7,40 7,60 Cl vL    NC 1,60 1,39 10,2 118,8 58,8 30,0 1,00
+7,60 7,80 Cl vL    NC 1,60 1,39 10,1 121,9 59,9 29,8 1,00
+7,80 8,00 Cl vL    NC 1,60 1,39 10,5 125,1 61,1 30,7 1,00
+8,00 8,20 Cl vL    NC 1,60 1,39 10,4 128,2 62,2 30,5 1,00
+8,20 8,40 Cl vL    NC 1,60 1,39 10,4 131,4 63,4 30,4 1,00
+8,40 8,60 Cl vL    NC 1,60 1,39 10,8 134,5 64,5 31,7 1,00
+8,60 8,80 Cl vL    NC 1,60 1,39 11,0 137,6 65,6 32,3 1,00
+8,80 9,00 Cl vL    NC 1,60 1,39 11,1 140,8 66,8 32,4 1,00
+9,00 9,20 Cl vL    NC 1,60 1,39 11,0 143,9 67,9 32,3 1,00
+9,20 9,40 Cl vL    NC 1,60 1,39 11,1 147,1 69,1 32,6 1,00
+9,40 9,60 Cl vL    NC 1,60 1,39 10,5 150,2 70,2 30,8 1,00
+9,60 9,80 Cl vL    NC 1,60 1,39 10,8 153,3 71,3 31,6 1,00
+9,80 10,00 Cl vL   NC 1,60 1,39 11,0 156,5 72,5 32,3 1,00
+10,00 10,20 Cl vL   NC 1,60 1,39 11,4 159,6 73,6 33,4 1,00
+10,20 10,40 Cl vL   NC 1,60 1,39 11,6 162,7 74,7 34,0 1,00
+10,40 10,60 Cl vL   NC 1,60 1,39 11,6 165,9 75,9 34,0 1,00
+10,60 10,80 Cl vL   NC 1,60 1,39 11,4 169,0 77,0 33,4 1,00
+10,80 11,00 Cl vL   NC 1,60 1,39 11,3 172,2 78,2 33,0 1,00
+11,00 11,20 Cl vL   NC 1,60 1,39 11,8 175,3 79,3 34,6 1,00
+11,20 11,40 Cl vL   NC 1,60 1,39 12,0 178,4 80,4 35,2 1,00
+11,40 11,60 Cl vL   NC 1,60 1,39 11,7 181,6 81,6 34,3 1,00
+11,60 11,80 Cl vL   NC 1,60 1,39 12,0 184,7 82,7 35,2 1,00
+11,80 12,00 Cl vL   NC 1,60 1,39 12,4 187,9 83,9 36,4 1,00
+12,00 12,20 Cl vL   NC 1,60 1,39 12,9 191,0 85,0 37,9 1,00
+12,20 12,40 Cl vL   NC 1,60 1,39 13,3 194,1 86,1 38,9 1,00
+12,40 12,60 Cl vL   NC 1,60 1,39 13,4 197,3 87,3 39,4 1,00
+12,60 12,80 Cl vL   NC 1,60 1,39 13,4 200,4 88,4 39,4 1,00
+12,80 13,00 Cl vL   NC 1,60 1,39 13,3 203,6 89,6 38,9 1,00
+13,00 13,20 Cl vL   NC 1,60 1,39 13,1 206,7 90,7 38,4 1,00
+13,20 13,40 Cl vL   NC 1,60 1,39 13,6 209,8 91,8 39,9 1,00
+13,40 13,60 Cl vL   NC 1,60 1,39 14,2 213,0 93,0 41,5 1,00
+13,60 13,80 Cl vL   NC 1,60 1,39 15,0 216,1 94,1 44,0 1,00
+13,80 14,00 Cl vL   NC 1,60 1,39 15,4 219,3 95,3 45,2 1,00
+14,00 14,20 Cl vL   NC 1,60 1,39 15,5 222,4 96,4 45,3 1,00
+14,20 14,40 Cl vL   NC 1,60 1,39 16,7 225,5 97,5 49,0 1,00
+14,40 14,60 Cl vL   NC 1,60 1,39 16,9 228,7 98,7 49,6 1,00
+14,60 14,80 Cl vL   NC 1,60 1,39 16,4 231,8 99,8 48,0 1,00
+14,80 15,00 Cl vL   NC 1,60 1,39 17,1 234,9 100,9 50,1 1,00
+15,00 15,20 Cl vL   NC 1,60 1,39 16,9 238,1 102,1 49,7 1,00
+15,20 15,40 Cl vL   NC 1,60 1,39 18,1 241,2 103,2 53,0 1,00
+15,40 15,60 Cl vL   NC 1,60 1,39 18,8 244,4 104,4 55,3 1,00
+15,60 15,80 Cl vL   NC 1,60 1,39 17,4 247,5 105,5 51,0 1,00
+15,80 16,00 Cl vL   NC 1,60 1,39 16,5 250,6 106,6 48,5 1,00
+16,00 16,20 Cl vL   NC 1,60 1,39 15,8 253,8 107,8 46,3 1,00
+16,20 16,40 Cl vL   NC 1,60 1,39 16,0 256,9 108,9 46,9 1,00
+16,40 16,60 Cl vL   NC 1,60 1,39 16,0 260,1 110,1 46,9 1,00
+16,60 16,80 Cl vL   NC 1,60 1,39 16,9 263,2 111,2 49,6 1,00
 O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY02.CPW
-
-[Tabell 157-1](handlingar.tabeller/157-1.csv)
-
-| Projekt<br>Arendalsleden<br>351958 |  |  |  |  |  |  | Plats Kungsbacka<br>Borrhål 25TY02<br>Datum 2025 09 17 1221 |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Djup (m)<br>Från Till |  | Klassificering | <br>t/m3 | ww<br>LL | <br>fu<br>kPa | <br>o |  | <br>vo<br>kPa | '<br>vo<br>kPa | '<br>c<br>kPa | OCR | I<br>D<br>% | E<br>MPa | M<br>OC<br>MPa | M<br>NC<br>MPa |
-| 0,00<br>1,50<br>1,70<br>2,00<br>2,20<br>2,40<br>2,60<br>2,80<br>3,00<br>3,20<br>3,40<br>3,60<br>3,80<br>4,00<br>4,20<br>4,40<br>4,60<br>4,80<br>5,00<br>5,20<br>5,40<br>5,60<br>5,80<br>6,00<br>6,20<br>6,40<br>6,60<br>6,80<br>7,00<br>7,20<br>7,40<br>7,60<br>7,80<br>8,00<br>8,20<br>8,40<br>8,60<br>8,80<br>9,00<br>9,20<br>9,40<br>9,60<br>9,80<br>10,00<br>10,20<br>10,40<br>10,60<br>10,80<br>11,00<br>11,20<br>11,40<br>11,60<br>11,80<br>12,00<br>12,20<br>12,40<br>12,60<br>12,80<br>13,00<br>13,20<br>13,40<br>13,60<br>13,80<br>14,00<br>14,20<br>14,40<br>14,60<br>14,80<br>15,00<br>15,20<br>15,40<br>15,60<br>15,80<br>16,00<br>16,20<br>16,40<br>16,60 | 1,50<br>1,70<br>2,00<br>2,20<br>2,40<br>2,60<br>2,80<br>3,00<br>3,20<br>3,40<br>3,60<br>3,80<br>4,00<br>4,20<br>4,40<br>4,60<br>4,80<br>5,00<br>5,20<br>5,40<br>5,60<br>5,80<br>6,00<br>6,20<br>6,40<br>6,60<br>6,80<br>7,00<br>7,20<br>7,40<br>7,60<br>7,80<br>8,00<br>8,20<br>8,40<br>8,60<br>8,80<br>9,00<br>9,20<br>9,40<br>9,60<br>9,80<br>10,00<br>10,20<br>10,40<br>10,60<br>10,80<br>11,00<br>11,20<br>11,40<br>11,60<br>11,80<br>12,00<br>12,20<br>12,40<br>12,60<br>12,80<br>13,00<br>13,20<br>13,40<br>13,60<br>13,80<br>14,00<br>14,20<br>14,40<br>14,60<br>14,80<br>15,00<br>15,20<br>15,40<br>15,60<br>15,80<br>16,00<br>16,20<br>16,40<br>16,60<br>16,80 | F:grsa<br>F:grsa<br>Le(t)<br>Cl L OC<br>Cl L OC<br>Cl vL NCSi<br>Cl vL NCSi<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl EL NC<br>Cl EL NC<br>Cl EL NC<br>Cl EL NC<br>Cl EL NC<br>Cl EL NC<br>Cl EL NC<br>Cl EL NC<br>Cl EL NC<br>Cl EL NC<br>Cl EL NC<br>Cl EL NC<br>Cl EL NC<br>Cl EL NC<br>Cl EL NC<br>Cl EL NC<br>Cl EL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC | 1,90<br>1,90<br>1,60<br>1,85<br>1,60<br>1,30<br>1,30<br>1,30<br>1,30<br>1,30<br>1,45<br>1,45<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,45<br>1,45<br>1,45<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60 | 0,00<br>0,00<br>0,74<br>0,74<br>0,74<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39 | 34,0<br>22,8<br>15,1<br>13,1<br>11,9<br>12,2<br>11,9<br>11,2<br>10,5<br>7,5<br>7,7<br>7,2<br>7,4<br>8,0<br>7,8<br>8,0<br>8,1<br>8,4<br>8,4<br>9,0<br>9,4<br>9,7<br>9,9<br>9,9<br>9,7<br>9,9<br>10,0<br>10,2<br>10,1<br>10,5<br>10,4<br>10,4<br>10,8<br>11,0<br>11,1<br>11,0<br>11,1<br>10,5<br>10,8<br>11,0<br>11,4<br>11,6<br>11,6<br>11,4<br>11,3<br>11,8<br>12,0<br>11,7<br>12,0<br>12,4<br>12,9<br>13,3<br>13,4<br>13,4<br>13,3<br>13,1<br>13,6<br>14,2<br>15,0<br>15,4<br>15,5<br>16,7<br>16,9<br>16,4<br>17,1<br>16,9<br>18,1<br>18,8<br>17,4<br>16,5<br>15,8<br>16,0<br>16,0<br>16,9 |  |  | 14,0<br>29,8<br>34,0<br>38,2<br>41,6<br>44,4<br>47,0<br>49,5<br>52,1<br>54,6<br>57,3<br>60,2<br>63,2<br>66,3<br>69,5<br>72,6<br>75,7<br>78,9<br>82,0<br>85,2<br>88,3<br>91,4<br>94,6<br>97,7<br>100,7<br>103,5<br>106,4<br>109,4<br>112,5<br>115,7<br>118,8<br>121,9<br>125,1<br>128,2<br>131,4<br>134,5<br>137,6<br>140,8<br>143,9<br>147,1<br>150,2<br>153,3<br>156,5<br>159,6<br>162,7<br>165,9<br>169,0<br>172,2<br>175,3<br>178,4<br>181,6<br>184,7<br>187,9<br>191,0<br>194,1<br>197,3<br>200,4<br>203,6<br>206,7<br>209,8<br>213,0<br>216,1<br>219,3<br>222,4<br>225,5<br>228,7<br>231,8<br>234,9<br>238,1<br>241,2<br>244,4<br>247,5<br>250,6<br>253,8<br>256,9<br>260,1<br>263,2 | 14,0<br>28,8<br>30,5<br>32,2<br>33,6<br>34,4<br>35,0<br>35,5<br>36,1<br>36,6<br>37,3<br>38,2<br>39,2<br>40,3<br>41,5<br>42,6<br>43,7<br>44,9<br>46,0<br>47,2<br>48,3<br>49,4<br>50,6<br>51,7<br>52,7<br>53,5<br>54,4<br>55,4<br>56,5<br>57,7<br>58,8<br>59,9<br>61,1<br>62,2<br>63,4<br>64,5<br>65,6<br>66,8<br>67,9<br>69,1<br>70,2<br>71,3<br>72,5<br>73,6<br>74,7<br>75,9<br>77,0<br>78,2<br>79,3<br>80,4<br>81,6<br>82,7<br>83,9<br>85,0<br>86,1<br>87,3<br>88,4<br>89,6<br>90,7<br>91,8<br>93,0<br>94,1<br>95,3<br>96,4<br>97,5<br>98,7<br>99,8<br>100,9<br>102,1<br>103,2<br>104,4<br>105,5<br>106,6<br>107,8<br>108,9<br>110,1<br>111,2 | 188,3<br>113,1<br>47,3<br>39,2<br>34,8<br>35,9<br>34,8<br>32,9<br>30,8<br>22,1<br>22,5<br>21,0<br>21,8<br>23,4<br>23,0<br>23,4<br>23,7<br>24,5<br>24,6<br>26,5<br>27,6<br>28,6<br>29,0<br>29,0<br>28,4<br>29,2<br>29,5<br>30,0<br>29,8<br>30,7<br>30,5<br>30,4<br>31,7<br>32,3<br>32,4<br>32,3<br>32,6<br>30,8<br>31,6<br>32,3<br>33,4<br>34,0<br>34,0<br>33,4<br>33,0<br>34,6<br>35,2<br>34,3<br>35,2<br>36,4<br>37,9<br>38,9<br>39,4<br>39,4<br>38,9<br>38,4<br>39,9<br>41,5<br>44,0<br>45,2<br>45,3<br>49,0<br>49,6<br>48,0<br>50,1<br>49,7<br>53,0<br>55,3<br>51,0<br>48,5<br>46,3<br>46,9<br>46,9<br>49,6 | 5,85<br>3,37<br>1,37<br>1,12<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00 |  |  |  |  |
 
 <!-- sida 158 -->
 
@@ -7218,14 +7207,30 @@ Bilaga 2 - Utvärdering CPT           2025-10-17
 C  P T  - sondering
 Sida 2 av 2
 
+Projekt                          Plats  Kungsbacka
+Arendalsleden                   Borrhål 25TY02
+351958                          Datum  2025 09 17 1221
+Djup (m)               ww          '  '  OCR I    E   M    M
+LL fu      vo  vo  c       D        OC   NC
+Från Till Klassificering t/m3 kPa o kPa kPa kPa     %    MPa  MPa MPa
+16,80 17,00 Cl vL   NC 1,60 1,39 17,3 266,3 112,3 50,9 1,00
+17,00 17,20 Cl vL   NC 1,60 1,39 18,3 269,5 113,5 53,7 1,00
+17,20 17,40 Cl vL   NC 1,60 1,39 18,2 272,6 114,6 53,4 1,00
+17,40 17,60 Cl vL   NC 1,60 1,39 19,0 275,8 115,8 55,7 1,00
+17,60 17,80 Cl vL   NC 1,60 1,39 19,0 278,9 116,9 55,6 1,00
+17,80 18,00 Cl vL   NC 1,60 1,39 19,6 282,0 118,0 57,6 1,00
+18,00 18,20 Cl vL   NC 1,60 1,39 18,7 285,2 119,2 54,8 1,00
+18,20 18,40 Cl vL   NC 1,60 1,39 19,1 288,3 120,3 55,9 1,00
+18,40 18,60 Cl vL   NC 1,60 1,39 19,3 291,5 121,5 56,7 1,00
+18,60 18,80 Cl vL   NC 1,60 1,39 19,7 294,6 122,6 57,8 1,00
+18,80 19,00 Cl L    NC 1,60 1,39 20,7 297,7 123,7 60,8 1,00
+19,00 19,20 Cl L    NC 1,60 1,39 20,8 300,9 124,9 61,1 1,00
+19,20 19,40 Cl L    NC 1,60 1,39 21,1 304,0 126,0 62,0 1,00
+19,40 19,60 Cl L    NC 1,60 1,39 21,5 307,2 127,2 63,1 1,00
+19,60 19,80 Cl L    NC 1,60 1,39 22,3 310,3 128,3 65,4 1,00
+19,80 19,83 Cl L    NC 1,60 1,39 22,3 312,1 128,9 65,4 1,00
+
 O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY02.CPW
-
-[Tabell 158-1](handlingar.tabeller/158-1.csv)
-
-| Projekt<br>Arendalsleden<br>351958 |  |  |  |  |  |  | Plats Kungsbacka<br>Borrhål 25TY02<br>Datum 2025 09 17 1221 |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Djup (m)<br>Från Till |  | Klassificering | <br>t/m3 | ww<br>LL | <br>fu<br>kPa | <br>o |  | <br>vo<br>kPa | '<br>vo<br>kPa | '<br>c<br>kPa | OCR | I<br>D<br>% | E<br>MPa | M<br>OC<br>MPa | M<br>NC<br>MPa |
-| 16,80<br>17,00<br>17,20<br>17,40<br>17,60<br>17,80<br>18,00<br>18,20<br>18,40<br>18,60<br>18,80<br>19,00<br>19,20<br>19,40<br>19,60<br>19,80 | 17,00<br>17,20<br>17,40<br>17,60<br>17,80<br>18,00<br>18,20<br>18,40<br>18,60<br>18,80<br>19,00<br>19,20<br>19,40<br>19,60<br>19,80<br>19,83 | Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl L NC<br>Cl L NC<br>Cl L NC<br>Cl L NC<br>Cl L NC<br>Cl L NC | 1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60 | 1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39<br>1,39 | 17,3<br>18,3<br>18,2<br>19,0<br>19,0<br>19,6<br>18,7<br>19,1<br>19,3<br>19,7<br>20,7<br>20,8<br>21,1<br>21,5<br>22,3<br>22,3 |  |  | 266,3<br>269,5<br>272,6<br>275,8<br>278,9<br>282,0<br>285,2<br>288,3<br>291,5<br>294,6<br>297,7<br>300,9<br>304,0<br>307,2<br>310,3<br>312,1 | 112,3<br>113,5<br>114,6<br>115,8<br>116,9<br>118,0<br>119,2<br>120,3<br>121,5<br>122,6<br>123,7<br>124,9<br>126,0<br>127,2<br>128,3<br>128,9 | 50,9<br>53,7<br>53,4<br>55,7<br>55,6<br>57,6<br>54,8<br>55,9<br>56,7<br>57,8<br>60,8<br>61,1<br>62,0<br>63,1<br>65,4<br>65,4 | 1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00 |  |  |  |  |
 
 <!-- sida 159 -->
 
@@ -7235,85 +7240,117 @@ Bilaga 2 - Utvärdering CPT           2025-10-17
 
 C  P  T - sondering
 
+Projekt                          Plats  Kungsbacka
+Arendalsleden
+351958                          Borrhål 25TY04
+Datum  2025 09 17 1029
+Förborrningsdjup 3,00 m Förborrat material Fyllning
+Startdjup  3,00 m   Geometri  Normal
+Stoppdjup  20,00 m  Vätska i filter Glycerin
+Grundvattenyta 1,50 m Operatör Michaela Eriksson
+Referens   my       Utrustning Geotech 504
+Nivå vid referens 5,07 m x Portryck registrerat vid sondering
+Kalibreringsdata               Nollvärden, kPa
+Spets   4231   Inre friktion O 0,0 kPa
+c
+Datum   2025-09-01 Inre friktion O 0,0 kPa
+f
+Areafaktor a 0,815 Cross talk c 0,000
+1
+Areafaktor b 0,000 Cross talk c 0,000
+2
+Skalfaktorer
+Korrigering
+Portryck (ingen)
+Friktion (ingen)
+Spetstryck (ingen)
+Bedömd sonderingsklass B
+Använd skalfaktorer vid beräkning
+Portrycksobservationer Skiktgränser Klassificering
+Djup (m) Djup (m) Densitet
+Från  Till (ton/m3) Flytgräns Jordart
+0,00 1,90 1,80         F:grsa
+1,90 3,00 1,30         F:lklsagr
+3,00 3,10              F:lklsagr
+3,10 4,00     1,11
+4,00 20,00    1,11
+
+Anmärkning
+
 O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY04.CPW
 
 [Tabell 159-1](handlingar.tabeller/159-1.csv)
 
-| Projekt<br>Arendalsleden<br>351958 |  |  | Plats Kungsbacka<br>Borrhål 25TY04<br>Datum 2025 09 17 1029 |
-| --- | --- | --- | --- |
-| Förborrningsdjup 3,00 m<br>Startdjup 3,00 m<br>Stoppdjup 20,00 m<br>Grundvattenyta 1,50 m<br>Referens my<br>Nivå vid referens 5,07 m | Förborrat material Fyllning<br>Geometri Normal<br>Vätska i filter Glycerin<br>Operatör Michaela Eriksson<br>Utrustning Geotech 504<br>x Portryck registrerat vid sondering |  |  |
-| Kalibreringsdata<br>Spets 4231 Inre friktion O 0,0 kPa<br>c<br>Datum 2025-09-01 Inre friktion O 0,0 kPa<br>f<br>Areafaktor a 0,815 Cross talk c 0,000<br>1<br>Areafaktor b 0,000 Cross talk c 0,000<br>2 |  | Nollvärden, kPa<br>Portryck Friktion Spetstryck<br>Före 254,10 106,50 2,58<br>Efter 254,30 106,40 2,57<br>Diff 0,20 -0,10 0,00<br>Korrigering<br>Portryck (ingen)<br>Friktion (ingen)<br>Spetstryck (ingen)<br>Bedömd sonderingsklass B |  |
-| Skalfaktorer<br>Portryck Friktion Spetstryck<br>OmrådeFaktor Område Faktor Område Faktor<br>Använd skalfaktorer vid beräkning |  |  |  |
-| Portrycksobservationer Skiktgränser Klassificering<br>Djup (m) Portryck (kPa) Djup (m) Djup (m) Densitet<br>1,50 0,00 Från Till (ton/m3) Flytgräns Jordart<br>0,00 1,90 1,80 F:grsa<br>1,90 3,00 1,30 F:lklsagr<br>3,00 3,10 F:lklsagr<br>3,10 4,00 1,11<br>4,00 20,00 1,11 |  |  |  |
-| Anmärkning |  |  |  |
-
-[Tabell 159-2](handlingar.tabeller/159-2.csv)
-
 |  | Portryck | Friktion | Spetstryck |
 | --- | --- | --- | --- |
-| Före<br>Efter<br>Diff | 254,10<br>254,30<br>0,20 | 106,50<br>106,40<br>-0,10 | 2,58<br>2,57<br>0,00 |
+| Före | 254,10 | 106,50 | 2,58 |
+| Efter | 254,30 | 106,40 | 2,57 |
+| Diff | 0,20 | -0,10 | 0,00 |
 
-[Tabell 159-3](handlingar.tabeller/159-3.csv)
+[Tabell 159-2](handlingar.tabeller/159-2.csv)
 
 | Portryck<br>OmrådeFaktor | Friktion<br>Område Faktor | Spetstryck<br>Område Faktor |
 | --- | --- | --- |
 |  |  |  |
 
-[Tabell 159-4](handlingar.tabeller/159-4.csv)
+[Tabell 159-3](handlingar.tabeller/159-3.csv)
 
 | Djup (m) | Portryck (kPa) |
 | --- | --- |
 | 1,50 | 0,00 |
 
-[Tabell 159-5](handlingar.tabeller/159-5.csv)
-
-| Djup (m)<br>Från Till |  | Densitet<br>(ton/m3) | Flytgräns | Jordart |
-| --- | --- | --- | --- | --- |
-| 0,00<br>1,90<br>3,00<br>3,10<br>4,00 | 1,90<br>3,00<br>3,10<br>4,00<br>20,00 | 1,80<br>1,30 | 1,11<br>1,11 | F:grsa<br>F:lklsagr<br>F:lklsagr |
-
 <!-- sida 160 -->
 
+CPT-sondering  utförd enligt EN ISO 22476-1
+Förborrningsdjup 3,00 m
+Start djup 3,00 m
+Stopp djup 20,00 m
+Grundvattennivå 1,50 m
+
+Portryck u, u , u (kPa)       Portrycksparameter B
+o                                   q
+0,0 0,2 0,4 0,6 0,8 1,0 0 5  10  15  20  25  0         500       0   2   4   6 0,0 0,5 1,0 1,5
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+U
+Djup
+(m)
 Sida 8 av 12
 Bilaga 2 - Utvärdering CPT                            2025-10-17
-
+Projekt Arendalsleden
+Projekt nr 351958
+Referens   my          Vätska i filter Glycerin
+Plats  Kungsbacka
+Nivå vid referens 5,07 m Borrpunktens koord.
+Borrhål 25TY04
+Förborrat material Fyllning Utrustning Geotech 504
+Datum  2025 09 17 1029
+Geometri   Normal      Sond nr     4231
+SSppeettssttrryycckk qq ((MMPPaa)) FFrriikkttiioonn ff ((kkPPaa)) FFrriikkttiioonnsskkvvoott RR ((%%)) Lutning (grader)
+tt                  tt                                        fftt
+0   5  10
 O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY04.CPW
 2025-10-09
 
 [Tabell 160-1](handlingar.tabeller/160-1.csv)
-
-| CPT-sondering utförd enligt EN ISO 22476-1<br>Förborrningsdjup 3,00 m Referens my Vätska i filter Glycerin<br>Start djup 3,00 m Nivå vid referens 5,07 m Borrpunktens koord.<br>Stopp djup 20,00 m Förborrat material Fyllning Utrustning Geotech 504<br>Grundvattennivå 1,50 m Geometri Normal Sond nr 4231 | Projekt Arendalsleden<br>Projekt nr 351958<br>Plats Kungsbacka<br>Borrhål 25TY04<br>Datum 2025 09 17 1029 |
-| --- | --- |
-| Portryck u, u , u (kPa) Portrycksparameter B SSppeettssttrryycckk qq ((MMPPaa)) FFrriikkttiioonn ff ((kkPPaa)) FFrriikkttiioonnsskkvvoott RR ((%%)) Lutning (grader)<br>o q tt tt fftt<br>0,0 0,2 0,4 0,6 0,8 1,0 0 5 10 15 20 25 0 500 0 2 4 6 0,0 0,5 1,0 1,5 0 5 10<br>0<br>2<br>4<br>6 U<br>Uo<br>8<br>U<br>10 Uo<br>Djup<br>U (m)<br>12<br>Uo<br>14<br>U<br>16<br>Uo<br>U<br>18<br>U |  |
-
-[Tabell 160-2](handlingar.tabeller/160-2.csv)
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-[Tabell 160-3](handlingar.tabeller/160-3.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-[Tabell 160-4](handlingar.tabeller/160-4.csv)
 
 |  |  |
 | --- | --- |
@@ -7327,60 +7364,52 @@ O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY04.CPW
 | Uo | U |
 |  |  |
 
-[Tabell 160-5](handlingar.tabeller/160-5.csv)
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-[Tabell 160-6](handlingar.tabeller/160-6.csv)
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-[Tabell 160-7](handlingar.tabeller/160-7.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
 <!-- sida 161 -->
 
+Referens  my          Förborrningsdjup 3,00 m
+Nivå vid referens 5,07 m Förborrat material Fyllning
+Grundvattenyta 1,50 m Utrustning Geotech 504
+Startdjup 3,00 m      Geometri  Normal
+
+Odränerad skjuvhållfasthet  (kPa) Friktionsvinkel (o)
+fu
+Klassificering 0 5 10 15 20 25  30 0   5  10  15
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+Djup
+(m)
 Sida 9 av 12
 Bilaga 2 - Utvärdering CPT                            2025-10-17
+CPT-sondering  utvärderad enligt SGI Information 15 rev.2007          Projekt Arendalsleden
+Projekt nr 351958
+Utvärderare  Axel Barrdahl
+Plats  Kungsbacka
+Datum för utvärdering 2025-09-22
+Borrhål 25TY04
+Datum  2025 09 17 1029
+Relativ lagringstäthet I (%) Modul (MPa)
+D
+0   5   10  15  200,000    0,005    0,010
+O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY04.CPW 2025-10-09
 
 [Tabell 161-1](handlingar.tabeller/161-1.csv)
-
-| CPT-sondering utvärderad enligt SGI Information 15 rev.2007<br>Referens my Förborrningsdjup 3,00 m Utvärderare Axel Barrdahl<br>Nivå vid referens 5,07 m Förborrat material Fyllning Datum för utvärdering 2025-09-22<br>Grundvattenyta 1,50 m Utrustning Geotech 504<br>Startdjup 3,00 m Geometri Normal | Projekt Arendalsleden<br>Projekt nr 351958<br>Plats Kungsbacka<br>Borrhål 25TY04<br>Datum 2025 09 17 1029 |
-| --- | --- |
-| Odränerad skjuvhållfasthet  (kPa) Friktionsvinkel (o) Relativ lagringstäthet I (%) Modul (MPa)<br>fu D<br>Klassificering 0 5 10 15 20 25 30 0 5 10 15 0 5 10 15 200,000 0,005 0,010<br>0<br>F:grsa<br>2<br>F:lklsagr<br>x NC<br>x OC<br>x<br>x NC<br>4 x<br>x NCSi<br>x x NC<br>x<br>x<br>x x NCSi<br>x<br>x<br>6 x NC<br>x x NCSi<br>x<br>x<br>x NC<br>x<br>x<br>x<br>x 8 x NCSi x Svensk empiri<br>x x NC o Lunne, överkonsoliderad<br>x x + Lunne, normalkonsoliderad<br>x NCSi<br>x vL<br>x<br>x<br>x<br>10 x x NC<br>x Djup<br>x<br>x NCSi<br>x<br>x<br>x x (m) Cl<br>x<br>12 x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>x<br>14 x<br>x<br>x<br>x<br>x<br>x<br>x<br>x NC<br>x<br>x<br>16 x<br>x<br>x L<br>x<br>x<br>x<br>x<br>x<br>x x vL<br>18 x<br>x<br>x<br>x<br>x x L<br>x<br>x<br>x<br>x<br>O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY04.CPW 2025-10-09 |  |
-
-[Tabell 161-2](handlingar.tabeller/161-2.csv)
 
 | F:grsa |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -7404,7 +7433,7 @@ Bilaga 2 - Utvärdering CPT                            2025-10-17
 |  |  |  | vL |  |
 |  |  |  | L |  |
 
-[Tabell 161-3](handlingar.tabeller/161-3.csv)
+[Tabell 161-2](handlingar.tabeller/161-2.csv)
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -7418,35 +7447,7 @@ Bilaga 2 - Utvärdering CPT                            2025-10-17
 |  |  |  | x<br>x | x<br>x<br>x<br>x<br>x<br>x<br>x<br>x |  |
 |  |  |  |  | x<br>x<br>x | x<br>x<br>x<br>x<br>x<br>x |
 
-[Tabell 161-4](handlingar.tabeller/161-4.csv)
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-[Tabell 161-5](handlingar.tabeller/161-5.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-[Tabell 161-6](handlingar.tabeller/161-6.csv)
+[Tabell 161-3](handlingar.tabeller/161-3.csv)
 
 |  |  |  |
 | --- | --- | --- |
@@ -7462,16 +7463,47 @@ Bilaga 2 - Utvärdering CPT                            2025-10-17
 
 <!-- sida 162 -->
 
+Referens  my          Förborrningsdjup 3,00 m
+Nivå vid referens 5,07 m Förborrat material Fyllning
+Grundvattenyta 1,50 m Utrustning Geotech 504
+Startdjup 3,00 m      Geometri  Normal
+
+Effektivtryck (kPa)                      Odränerad skjuvhållfasthet  (kPa)
+fu
+Klassificering 0 20      40     60      80      100    120     140 0  5  10  15  20  25  30
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+Djup
+(m)
 Sida 10 av 12
 Bilaga 2 - Utvärdering CPT                            2025-10-17
+CPT-sondering  utvärderad enligt SGI Information 15 rev.2007          Projekt Arendalsleden
+Projekt nr 351958
+Utvärderare  Axel Barrdahl
+Plats  Kungsbacka
+Datum för utvärdering 2025-09-22
+Borrhål 25TY04
+Datum  2025 09 17 1029
+O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY04.CPW 2025-10-09
 
 [Tabell 162-1](handlingar.tabeller/162-1.csv)
-
-| CPT-sondering utvärderad enligt SGI Information 15 rev.2007<br>Referens my Förborrningsdjup 3,00 m Utvärderare Axel Barrdahl<br>Nivå vid referens 5,07 m Förborrat material Fyllning Datum för utvärdering 2025-09-22<br>Grundvattenyta 1,50 m Utrustning Geotech 504<br>Startdjup 3,00 m Geometri Normal | Projekt Arendalsleden<br>Projekt nr 351958<br>Plats Kungsbacka<br>Borrhål 25TY04<br>Datum 2025 09 17 1029 |
-| --- | --- |
-| Effektivtryck (kPa) Odränerad skjuvhållfasthet  (kPa)<br>fu<br>Klassificering 0 20 40 60 80 100 120 140 0 5 10 15 20 25 30<br>0<br>F:grsa<br>2<br>F:lklsagr<br>x NC o<br>x OC o<br>x o<br>x NC o<br>4 x o<br>x NCSi o<br>x x NC o o<br>x o<br>x o<br>x x NCSi o o<br>x o<br>x o<br>6 x NC o<br>x x NCSi o o<br>x o<br>x o<br>x NC o<br>x o<br>x o<br>x o<br>x 8 x NCSi o o<br>x o<br>x NC o<br>x o<br>x o<br>x NCSi o<br>x vL o<br>x o<br>x o<br>x o<br>10 x x NC o o<br>x Djup o<br>x o<br>x NCSi o<br>x o<br>x o<br>x x (m) Cl o o<br>x o<br>12 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>14 x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x NC o<br>x o<br>x o<br>16 x o<br>x o<br>x L o<br>x o<br>x o<br>x o<br>x o<br>x o<br>x x vL o o<br>18 x o<br>x o<br>x o<br>x o<br>x x L o o<br>x o<br>x o<br>x o<br>x o<br>O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY04.CPW 2025-10-09 |  |
-
-[Tabell 162-2](handlingar.tabeller/162-2.csv)
 
 | F:grsa |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -7495,7 +7527,7 @@ Bilaga 2 - Utvärdering CPT                            2025-10-17
 |  |  |  | vL |  |
 |  |  |  | L |  |
 
-[Tabell 162-3](handlingar.tabeller/162-3.csv)
+[Tabell 162-2](handlingar.tabeller/162-2.csv)
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -7509,7 +7541,7 @@ Bilaga 2 - Utvärdering CPT                            2025-10-17
 |  |  | o<br>o<br>o<br>o<br>o<br>o<br>o<br>o<br>o<br>o |  |  |  |
 |  |  | o<br>o<br>o | o<br>o<br>o<br>o<br>o<br>o |  |  |
 
-[Tabell 162-4](handlingar.tabeller/162-4.csv)
+[Tabell 162-3](handlingar.tabeller/162-3.csv)
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -7531,14 +7563,90 @@ Bilaga 2 - Utvärdering CPT           2025-10-17
 C  P T  - sondering
 Sida 1 av 2
 
+Projekt                          Plats  Kungsbacka
+Arendalsleden                   Borrhål 25TY04
+351958                          Datum  2025 09 17 1029
+Djup (m)               ww          '  '  OCR I    E   M    M
+LL fu      vo  vo  c       D        OC   NC
+Från Till Klassificering t/m3 kPa o kPa kPa kPa     %    MPa  MPa MPa
+0,00 1,50 F:grsa     1,80          13,2 13,2
+1,50 1,90 F:grsa     1,80          30,0 28,0
+1,90 3,00 F:lklsagr  1,30          40,6 31,1
+3,00 3,20 Cl vL    NC 1,30 1,11 13,8 48,9 32,9 48,4 1,47
+3,20 3,40 Cl vL    OC 1,30 1,11 15,4 51,4 33,4 55,3 1,65
+3,40 3,60 Cl vL    NC 1,45 1,11 10,8 54,1 34,1 35,0 1,03
+3,60 3,80 Cl vL    NC 1,45 1,11 10,7 56,9 34,9 34,6 1,00
+3,80 4,00 Cl vL    NC 1,45 1,11 10,7 59,8 35,8 34,6 1,00
+4,00 4,20 Cl vL   NCSi 1,45 1,11 11,1 62,6 36,6 36,0 1,00
+4,20 4,40 Cl vL    NC 1,45 1,11 11,2 65,5 37,5 36,2 1,00
+4,40 4,60 Cl vL    NC 1,45 1,11 10,8 68,3 38,3 35,0 1,00
+4,60 4,80 Cl vL   NCSi 1,45 1,11 10,2 71,2 39,2 32,9 1,00
+4,80 5,00 Cl vL   NCSi 1,45 1,11 11,3 74,0 40,0 36,7 1,00
+5,00 5,20 Cl vL   NCSi 1,45 1,11 11,1 76,9 40,9 35,9 1,00
+5,20 5,40 Cl vL   NCSi 1,45 1,11 11,5 79,7 41,7 37,3 1,00
+5,40 5,60 Cl vL   NCSi 1,45 1,11 12,0 82,6 42,6 38,7 1,00
+5,60 5,80 Cl vL   NCSi 1,45 1,11 12,0 85,4 43,4 38,8 1,00
+5,80 6,00 Cl vL    NC 1,45 1,11 12,0 88,2 44,2 38,9 1,00
+6,00 6,20 Cl vL   NCSi 1,45 1,11 12,1 91,1 45,1 39,2 1,00
+6,20 6,40 Cl vL   NCSi 1,45 1,11 12,2 93,9 45,9 39,6 1,00
+6,40 6,60 Cl vL    NC 1,45 1,11 13,0 96,8 46,8 42,1 1,00
+6,60 6,80 Cl vL    NC 1,45 1,11 13,2 99,6 47,6 42,7 1,00
+6,80 7,00 Cl vL    NC 1,45 1,11 13,2 102,5 48,5 42,8 1,00
+7,00 7,20 Cl vL    NC 1,45 1,11 13,3 105,3 49,3 42,9 1,00
+7,20 7,40 Cl vL    NC 1,45 1,11 13,1 108,2 50,2 42,2 1,00
+7,40 7,60 Cl vL   NCSi 1,45 1,11 12,9 111,0 51,0 41,8 1,00
+7,60 7,80 Cl vL   NCSi 1,45 1,11 12,6 113,8 51,8 40,9 1,00
+7,80 8,00 Cl vL   NCSi 1,45 1,11 13,3 116,7 52,7 43,0 1,00
+8,00 8,20 Cl vL   NCSi 1,45 1,11 13,7 119,5 53,5 44,2 1,00
+8,20 8,40 Cl vL    NC 1,45 1,11 13,8 122,4 54,4 44,5 1,00
+8,40 8,60 Cl vL   NCSi 1,45 1,11 13,7 125,2 55,2 44,4 1,00
+8,60 8,80 Cl vL   NCSi 1,45 1,11 14,1 128,1 56,1 45,6 1,00
+8,80 9,00 Cl vL   NCSi 1,60 1,11 14,1 131,1 57,1 45,6 1,00
+9,00 9,20 Cl vL   NCSi 1,45 1,11 13,8 134,1 58,1 44,8 1,00
+9,20 9,40 Cl vL   NCSi 1,45 1,11 13,8 136,9 58,9 44,6 1,00
+9,40 9,60 Cl vL    NC 1,60 1,11 13,9 139,9 59,9 44,9 1,00
+9,60 9,80 Cl vL    NC 1,60 1,11 14,1 143,0 61,0 45,5 1,00
+9,80 10,00 Cl vL   NC 1,60 1,11 14,9 146,2 62,2 48,1 1,00
+10,00 10,20 Cl vL   NC 1,60 1,11 14,6 149,3 63,3 47,3 1,00
+10,20 10,40 Cl vL   NC 1,60 1,11 16,0 152,4 64,4 51,7 1,00
+10,40 10,60 Cl vL   NC 1,60 1,11 16,1 155,6 65,6 52,1 1,00
+10,60 10,80 Cl vL  NCSi 1,60 1,11 17,2 158,7 66,7 55,5 1,00
+10,80 11,00 Cl vL   NC 1,60 1,11 17,9 161,9 67,9 58,0 1,00
+11,00 11,20 Cl vL   NC 1,60 1,11 17,4 165,0 69,0 56,3 1,00
+11,20 11,40 Cl vL   NC 1,60 1,11 17,6 168,1 70,1 57,0 1,00
+11,40 11,60 Cl vL   NC 1,60 1,11 17,5 171,3 71,3 56,5 1,00
+11,60 11,80 Cl vL   NC 1,60 1,11 17,5 174,4 72,4 56,5 1,00
+11,80 12,00 Cl vL   NC 1,60 1,11 18,0 177,6 73,6 58,1 1,00
+12,00 12,20 Cl vL   NC 1,60 1,11 17,5 180,7 74,7 56,7 1,00
+12,20 12,40 Cl vL   NC 1,60 1,11 16,9 183,8 75,8 54,5 1,00
+12,40 12,60 Cl vL   NC 1,60 1,11 17,4 187,0 77,0 56,1 1,00
+12,60 12,80 Cl vL   NC 1,60 1,11 18,2 190,1 78,1 58,9 1,00
+12,80 13,00 Cl vL   NC 1,60 1,11 18,1 193,3 79,3 58,7 1,00
+13,00 13,20 Cl vL   NC 1,60 1,11 18,2 196,4 80,4 58,9 1,00
+13,20 13,40 Cl vL   NC 1,60 1,11 18,1 199,5 81,5 58,6 1,00
+13,40 13,60 Cl vL   NC 1,60 1,11 18,2 202,7 82,7 58,9 1,00
+13,60 13,80 Cl vL   NC 1,60 1,11 18,4 205,8 83,8 59,6 1,00
+13,80 14,00 Cl vL   NC 1,60 1,11 18,0 209,0 85,0 58,2 1,00
+14,00 14,20 Cl vL   NC 1,60 1,11 18,5 212,1 86,1 59,9 1,00
+14,20 14,40 Cl vL   NC 1,60 1,11 18,5 215,2 87,2 60,0 1,00
+14,40 14,60 Cl vL   NC 1,60 1,11 19,3 218,4 88,4 62,4 1,00
+14,60 14,80 Cl vL   NC 1,60 1,11 19,8 221,5 89,5 64,2 1,00
+14,80 15,00 Cl vL   NC 1,60 1,11 19,4 224,6 90,6 62,7 1,00
+15,00 15,20 Cl vL   NC 1,60 1,11 19,9 227,8 91,8 64,4 1,00
+15,20 15,40 Cl L    NC 1,60 1,11 20,4 230,9 92,9 66,1 1,00
+15,40 15,60 Cl L    NC 1,60 1,11 21,5 234,1 94,1 69,6 1,00
+15,60 15,80 Cl L    NC 1,60 1,11 21,0 237,2 95,2 67,8 1,00
+15,80 16,00 Cl L    NC 1,60 1,11 21,4 240,3 96,3 69,2 1,00
+16,00 16,20 Cl L    NC 1,60 1,11 21,5 243,5 97,5 69,5 1,00
+16,20 16,40 Cl L    NC 1,60 1,11 22,2 246,6 98,6 71,7 1,00
+16,40 16,60 Cl L    NC 1,60 1,11 21,1 249,8 99,8 68,4 1,00
+16,60 16,80 Cl L    NC 1,60 1,11 21,4 252,9 100,9 69,2 1,00
+16,80 17,00 Cl L    NC 1,60 1,11 22,1 256,0 102,0 71,6 1,00
+17,00 17,20 Cl L    NC 1,60 1,11 20,6 259,2 103,2 66,7 1,00
+17,20 17,40 Cl L    NC 1,60 1,11 20,1 262,3 104,3 65,0 1,00
+17,40 17,60 Cl vL   NC 1,60 1,11 19,2 265,5 105,5 62,1 1,00
+17,60 17,80 Cl vL   NC 1,60 1,11 19,9 268,6 106,6 64,2 1,00
 O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY04.CPW
-
-[Tabell 163-1](handlingar.tabeller/163-1.csv)
-
-| Projekt<br>Arendalsleden<br>351958 |  |  |  |  |  |  | Plats Kungsbacka<br>Borrhål 25TY04<br>Datum 2025 09 17 1029 |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Djup (m)<br>Från Till |  | Klassificering | <br>t/m3 | ww<br>LL | <br>fu<br>kPa | <br>o |  | <br>vo<br>kPa | '<br>vo<br>kPa | '<br>c<br>kPa | OCR | I<br>D<br>% | E<br>MPa | M<br>OC<br>MPa | M<br>NC<br>MPa |
-| 0,00<br>1,50<br>1,90<br>3,00<br>3,20<br>3,40<br>3,60<br>3,80<br>4,00<br>4,20<br>4,40<br>4,60<br>4,80<br>5,00<br>5,20<br>5,40<br>5,60<br>5,80<br>6,00<br>6,20<br>6,40<br>6,60<br>6,80<br>7,00<br>7,20<br>7,40<br>7,60<br>7,80<br>8,00<br>8,20<br>8,40<br>8,60<br>8,80<br>9,00<br>9,20<br>9,40<br>9,60<br>9,80<br>10,00<br>10,20<br>10,40<br>10,60<br>10,80<br>11,00<br>11,20<br>11,40<br>11,60<br>11,80<br>12,00<br>12,20<br>12,40<br>12,60<br>12,80<br>13,00<br>13,20<br>13,40<br>13,60<br>13,80<br>14,00<br>14,20<br>14,40<br>14,60<br>14,80<br>15,00<br>15,20<br>15,40<br>15,60<br>15,80<br>16,00<br>16,20<br>16,40<br>16,60<br>16,80<br>17,00<br>17,20<br>17,40<br>17,60 | 1,50<br>1,90<br>3,00<br>3,20<br>3,40<br>3,60<br>3,80<br>4,00<br>4,20<br>4,40<br>4,60<br>4,80<br>5,00<br>5,20<br>5,40<br>5,60<br>5,80<br>6,00<br>6,20<br>6,40<br>6,60<br>6,80<br>7,00<br>7,20<br>7,40<br>7,60<br>7,80<br>8,00<br>8,20<br>8,40<br>8,60<br>8,80<br>9,00<br>9,20<br>9,40<br>9,60<br>9,80<br>10,00<br>10,20<br>10,40<br>10,60<br>10,80<br>11,00<br>11,20<br>11,40<br>11,60<br>11,80<br>12,00<br>12,20<br>12,40<br>12,60<br>12,80<br>13,00<br>13,20<br>13,40<br>13,60<br>13,80<br>14,00<br>14,20<br>14,40<br>14,60<br>14,80<br>15,00<br>15,20<br>15,40<br>15,60<br>15,80<br>16,00<br>16,20<br>16,40<br>16,60<br>16,80<br>17,00<br>17,20<br>17,40<br>17,60<br>17,80 | F:grsa<br>F:grsa<br>F:lklsagr<br>Cl vL NC<br>Cl vL OC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NCSi<br>Cl vL NC<br>Cl vL NC<br>Cl vL NCSi<br>Cl vL NCSi<br>Cl vL NCSi<br>Cl vL NCSi<br>Cl vL NCSi<br>Cl vL NCSi<br>Cl vL NC<br>Cl vL NCSi<br>Cl vL NCSi<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NCSi<br>Cl vL NCSi<br>Cl vL NCSi<br>Cl vL NCSi<br>Cl vL NC<br>Cl vL NCSi<br>Cl vL NCSi<br>Cl vL NCSi<br>Cl vL NCSi<br>Cl vL NCSi<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NCSi<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl vL NC<br>Cl L NC<br>Cl L NC<br>Cl L NC<br>Cl L NC<br>Cl L NC<br>Cl L NC<br>Cl L NC<br>Cl L NC<br>Cl L NC<br>Cl L NC<br>Cl L NC<br>Cl vL NC<br>Cl vL NC | 1,80<br>1,80<br>1,30<br>1,30<br>1,30<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,45<br>1,60<br>1,45<br>1,45<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60 | 1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11 | 13,8<br>15,4<br>10,8<br>10,7<br>10,7<br>11,1<br>11,2<br>10,8<br>10,2<br>11,3<br>11,1<br>11,5<br>12,0<br>12,0<br>12,0<br>12,1<br>12,2<br>13,0<br>13,2<br>13,2<br>13,3<br>13,1<br>12,9<br>12,6<br>13,3<br>13,7<br>13,8<br>13,7<br>14,1<br>14,1<br>13,8<br>13,8<br>13,9<br>14,1<br>14,9<br>14,6<br>16,0<br>16,1<br>17,2<br>17,9<br>17,4<br>17,6<br>17,5<br>17,5<br>18,0<br>17,5<br>16,9<br>17,4<br>18,2<br>18,1<br>18,2<br>18,1<br>18,2<br>18,4<br>18,0<br>18,5<br>18,5<br>19,3<br>19,8<br>19,4<br>19,9<br>20,4<br>21,5<br>21,0<br>21,4<br>21,5<br>22,2<br>21,1<br>21,4<br>22,1<br>20,6<br>20,1<br>19,2<br>19,9 |  |  | 13,2<br>30,0<br>40,6<br>48,9<br>51,4<br>54,1<br>56,9<br>59,8<br>62,6<br>65,5<br>68,3<br>71,2<br>74,0<br>76,9<br>79,7<br>82,6<br>85,4<br>88,2<br>91,1<br>93,9<br>96,8<br>99,6<br>102,5<br>105,3<br>108,2<br>111,0<br>113,8<br>116,7<br>119,5<br>122,4<br>125,2<br>128,1<br>131,1<br>134,1<br>136,9<br>139,9<br>143,0<br>146,2<br>149,3<br>152,4<br>155,6<br>158,7<br>161,9<br>165,0<br>168,1<br>171,3<br>174,4<br>177,6<br>180,7<br>183,8<br>187,0<br>190,1<br>193,3<br>196,4<br>199,5<br>202,7<br>205,8<br>209,0<br>212,1<br>215,2<br>218,4<br>221,5<br>224,6<br>227,8<br>230,9<br>234,1<br>237,2<br>240,3<br>243,5<br>246,6<br>249,8<br>252,9<br>256,0<br>259,2<br>262,3<br>265,5<br>268,6 | 13,2<br>28,0<br>31,1<br>32,9<br>33,4<br>34,1<br>34,9<br>35,8<br>36,6<br>37,5<br>38,3<br>39,2<br>40,0<br>40,9<br>41,7<br>42,6<br>43,4<br>44,2<br>45,1<br>45,9<br>46,8<br>47,6<br>48,5<br>49,3<br>50,2<br>51,0<br>51,8<br>52,7<br>53,5<br>54,4<br>55,2<br>56,1<br>57,1<br>58,1<br>58,9<br>59,9<br>61,0<br>62,2<br>63,3<br>64,4<br>65,6<br>66,7<br>67,9<br>69,0<br>70,1<br>71,3<br>72,4<br>73,6<br>74,7<br>75,8<br>77,0<br>78,1<br>79,3<br>80,4<br>81,5<br>82,7<br>83,8<br>85,0<br>86,1<br>87,2<br>88,4<br>89,5<br>90,6<br>91,8<br>92,9<br>94,1<br>95,2<br>96,3<br>97,5<br>98,6<br>99,8<br>100,9<br>102,0<br>103,2<br>104,3<br>105,5<br>106,6 | 48,4<br>55,3<br>35,0<br>34,6<br>34,6<br>36,0<br>36,2<br>35,0<br>32,9<br>36,7<br>35,9<br>37,3<br>38,7<br>38,8<br>38,9<br>39,2<br>39,6<br>42,1<br>42,7<br>42,8<br>42,9<br>42,2<br>41,8<br>40,9<br>43,0<br>44,2<br>44,5<br>44,4<br>45,6<br>45,6<br>44,8<br>44,6<br>44,9<br>45,5<br>48,1<br>47,3<br>51,7<br>52,1<br>55,5<br>58,0<br>56,3<br>57,0<br>56,5<br>56,5<br>58,1<br>56,7<br>54,5<br>56,1<br>58,9<br>58,7<br>58,9<br>58,6<br>58,9<br>59,6<br>58,2<br>59,9<br>60,0<br>62,4<br>64,2<br>62,7<br>64,4<br>66,1<br>69,6<br>67,8<br>69,2<br>69,5<br>71,7<br>68,4<br>69,2<br>71,6<br>66,7<br>65,0<br>62,1<br>64,2 | 1,47<br>1,65<br>1,03<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00 |  |  |  |  |
 
 <!-- sida 164 -->
 
@@ -7548,14 +7656,24 @@ Bilaga 2 - Utvärdering CPT           2025-10-17
 C  P T  - sondering
 Sida 2 av 2
 
+Projekt                          Plats  Kungsbacka
+Arendalsleden                   Borrhål 25TY04
+351958                          Datum  2025 09 17 1029
+Djup (m)               ww          '  '  OCR I    E   M    M
+LL fu      vo  vo  c       D        OC   NC
+Från Till Klassificering t/m3 kPa o kPa kPa kPa     %    MPa  MPa MPa
+17,80 18,00 Cl L    NC 1,60 1,11 20,8 271,7 107,7 67,4 1,00
+18,00 18,20 Cl L    NC 1,60 1,11 21,4 274,9 108,9 69,4 1,00
+18,20 18,40 Cl L    NC 1,60 1,11 21,4 278,0 110,0 69,1 1,00
+18,40 18,60 Cl L    NC 1,60 1,11 22,4 281,2 111,2 72,5 1,00
+18,60 18,80 Cl L    NC 1,60 1,11 25,1 284,3 112,3 81,2 1,00
+18,80 19,00 Cl L    NC 1,60 1,11 25,8 287,4 113,4 83,5 1,00
+19,00 19,20 Cl L    NC 1,60 1,11 25,8 290,6 114,6 83,3 1,00
+19,20 19,40 Cl L    NC 1,85 1,11 26,3 294,0 116,0 85,3 1,00
+19,40 19,60 Cl L    NC 1,85 1,11 26,5 297,6 117,6 85,7 1,00
+19,60 19,77 Cl L    NC 1,85 1,11 26,3 301,0 119,1 85,1 1,00
+
 O:\GBG\351958\G\\\_Berakningar\CPT-utvärderingar\25TY04.CPW
-
-[Tabell 164-1](handlingar.tabeller/164-1.csv)
-
-| Projekt<br>Arendalsleden<br>351958 |  |  |  |  |  |  | Plats Kungsbacka<br>Borrhål 25TY04<br>Datum 2025 09 17 1029 |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Djup (m)<br>Från Till |  | Klassificering | <br>t/m3 | ww<br>LL | <br>fu<br>kPa | <br>o |  | <br>vo<br>kPa | '<br>vo<br>kPa | '<br>c<br>kPa | OCR | I<br>D<br>% | E<br>MPa | M<br>OC<br>MPa | M<br>NC<br>MPa |
-| 17,80<br>18,00<br>18,20<br>18,40<br>18,60<br>18,80<br>19,00<br>19,20<br>19,40<br>19,60 | 18,00<br>18,20<br>18,40<br>18,60<br>18,80<br>19,00<br>19,20<br>19,40<br>19,60<br>19,77 | Cl L NC<br>Cl L NC<br>Cl L NC<br>Cl L NC<br>Cl L NC<br>Cl L NC<br>Cl L NC<br>Cl L NC<br>Cl L NC<br>Cl L NC | 1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,60<br>1,85<br>1,85<br>1,85 | 1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11<br>1,11 | 20,8<br>21,4<br>21,4<br>22,4<br>25,1<br>25,8<br>25,8<br>26,3<br>26,5<br>26,3 |  |  | 271,7<br>274,9<br>278,0<br>281,2<br>284,3<br>287,4<br>290,6<br>294,0<br>297,6<br>301,0 | 107,7<br>108,9<br>110,0<br>111,2<br>112,3<br>113,4<br>114,6<br>116,0<br>117,6<br>119,1 | 67,4<br>69,4<br>69,1<br>72,5<br>81,2<br>83,5<br>83,3<br>85,3<br>85,7<br>85,1 | 1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00<br>1,00 |  |  |  |  |
 
 <!-- sida 165 -->
 
@@ -7699,6 +7817,35 @@ Arendalsleden                                                 351958
 STÖRD   PROVTAGNING
 
 Protokoll
+Fältklassificering enligt SS-
+Djup (m) u my               Provnummer Mtrl. Typ Tjäl. Klass Anmärkning
+EN ISO 14688-1
+
+```osaker-tabell
+0,20  -   1,50   Fyllning[stgrSa ] 1
+
+1,50  -   2,00       Let
+
+2,00  -   3,00       siLe
+```
+
+\-
+
+\-
+
+\-
+
+\-
+
+\-
+
+\-
+
+\-
+
+\-
+
+\-
 
 Avbrott under arbetet, avvikelse från standard, kommentarer, markskada mm.
 
@@ -7713,23 +7860,6 @@ O:\GBG\351958\G\\\_Text\MUR\Export FM\25TY01_me_2025-09-16_stordprovtagning.xlsx
 | Provtagningskategori | Provlängd (m)<br>1,0 | Provdiameter (ɸ mm)<br>80 | Vattenyta i borrhål (m u my)<br>- |
 | Förborrning (m)<br>0,2 | Neddrivning<br>Rotation |  | Stoppkod<br>90 Sondering avslutad |
 
-[Tabell 167-2](handlingar.tabeller/167-2.csv)
-
-| Djup (m) u my | Fältklassificering enligt SS-<br>EN ISO 14688-1 | Provnummer | Mtrl. Typ | Tjäl. Klass | Anmärkning |
-| --- | --- | --- | --- | --- | --- |
-| 0,20 - 1,50 | Fyllning[stgrSa ] | 1 |  |  |  |
-| 1,50 - 2,00 | Let |  |  |  |  |
-| 2,00 - 3,00 | siLe |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-
 <!-- sida 168 -->
 
 Sida 4 av 6
@@ -7739,6 +7869,35 @@ Arendalsleden                                                 351958
 STÖRD   PROVTAGNING
 
 Protokoll
+Fältklassificering enligt SS-
+Djup (m) u my               Provnummer Mtrl. Typ Tjäl. Klass Anmärkning
+EN ISO 14688-1
+
+```osaker-tabell
+0,20  -   1,70      stgrSa
+
+1,70  -   2,50        Le                              Gv-yta vid 2,5m u my
+
+2,50  -   3,00       siLe
+```
+
+\-
+
+\-
+
+\-
+
+\-
+
+\-
+
+\-
+
+\-
+
+\-
+
+\-
 
 Avbrott under arbetet, avvikelse från standard, kommentarer, markskada mm.
 
@@ -7753,23 +7912,6 @@ O:\GBG\351958\G\\=Arbetsarea=\MUR\Export FM\25TY02_me_2025-09-16_stordprovtagnin
 | Provtagningskategori | Provlängd (m)<br>1,0 | Provdiameter (ɸ mm)<br>80 | Vattenyta i borrhål (m u my)<br>1,5 |
 | Förborrning (m)<br>0,2 | Neddrivning<br>Rotation |  | Stoppkod<br>90 Sondering avslutad |
 
-[Tabell 168-2](handlingar.tabeller/168-2.csv)
-
-| Djup (m) u my | Fältklassificering enligt SS-<br>EN ISO 14688-1 | Provnummer | Mtrl. Typ | Tjäl. Klass | Anmärkning |
-| --- | --- | --- | --- | --- | --- |
-| 0,20 - 1,70 | stgrSa |  |  |  |  |
-| 1,70 - 2,50 | Le |  |  |  | Gv-yta vid 2,5m u my |
-| 2,50 - 3,00 | siLe |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-
 <!-- sida 169 -->
 
 Sida 5 av 6
@@ -7779,6 +7921,32 @@ Arendalsleden                                                 351958
 STÖRD   PROVTAGNING
 
 Protokoll
+Fältklassificering enligt SS-
+Djup (m) u my               Provnummer Mtrl. Typ Tjäl. Klass Anmärkning
+EN ISO 14688-1
+0,20  -   1,50   Fyllning[stgrSa ]
+Finns lecakulor mellan 1,5
+1,50  -   2,30       Let
+och 2,3
+2,30  -   3,00       Let
+
+3,00  -   4,00       siLe
+
+\-
+
+\-
+
+\-
+
+\-
+
+\-
+
+\-
+
+\-
+
+\-
 
 Avbrott under arbetet, avvikelse från standard, kommentarer, markskada mm.
 
@@ -7793,23 +7961,6 @@ O:\GBG\351958\G\\=Arbetsarea=\MUR\Export FM\25TY03_me_2025-09-16_stordprovtagnin
 | Provtagningskategori | Provlängd (m)<br>1,0 | Provdiameter (ɸ mm)<br>80 | Vattenyta i borrhål (m u my)<br>1,5 |
 | Förborrning (m)<br>0,2 | Neddrivning<br>Rotation |  | Stoppkod<br>90 Sondering avslutad |
 
-[Tabell 169-2](handlingar.tabeller/169-2.csv)
-
-| Djup (m) u my | Fältklassificering enligt SS-<br>EN ISO 14688-1 | Provnummer | Mtrl. Typ | Tjäl. Klass | Anmärkning |
-| --- | --- | --- | --- | --- | --- |
-| 0,20 - 1,50 | Fyllning[stgrSa ] |  |  |  |  |
-| 1,50 - 2,30 | Let |  |  |  | Finns lecakulor mellan 1,5<br>och 2,3 |
-| 2,30 - 3,00 | Let |  |  |  |  |
-| 3,00 - 4,00 | siLe |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-
 <!-- sida 170 -->
 
 Sida 6 av 6
@@ -7819,6 +7970,32 @@ Arendalsleden                                                 351958
 STÖRD   PROVTAGNING
 
 Protokoll
+Fältklassificering enligt SS-
+Djup (m) u my               Provnummer Mtrl. Typ Tjäl. Klass Anmärkning
+EN ISO 14688-1
+0,20  -   1,90   Fyllning[stgrSa ]
+
+1,90  -   3,10 Blandad, mest lecakulor                    Lecakulor
+
+3,10  -   4,00       siLe
+
+\-
+
+\-
+
+\-
+
+\-
+
+\-
+
+\-
+
+\-
+
+\-
+
+\-
 
 Avbrott under arbetet, avvikelse från standard, kommentarer, markskada mm.
 
@@ -7833,38 +8010,42 @@ O:\GBG\351958\G\\=Arbetsarea=\MUR\Export FM\25TY04_me_2025-09-16_stordprovtagnin
 | Provtagningskategori | Provlängd (m)<br>1,0 | Provdiameter (ɸ mm)<br>80 | Vattenyta i borrhål (m u my)<br>1,5 |
 | Förborrning (m)<br>0,2 | Neddrivning<br>Rotation |  | Stoppkod<br>90 Sondering avslutad |
 
-[Tabell 170-2](handlingar.tabeller/170-2.csv)
-
-| Djup (m) u my | Fältklassificering enligt SS-<br>EN ISO 14688-1 | Provnummer | Mtrl. Typ | Tjäl. Klass | Anmärkning |
-| --- | --- | --- | --- | --- | --- |
-| 0,20 - 1,90 | Fyllning[stgrSa ] |  |  |  |  |
-| 1,90 - 3,10 | Blandad, mest lecakulor |  |  |  | Lecakulor |
-| 3,10 - 4,00 | siLe |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-| - |  |  |  |  |  |
-
 <!-- sida 171 -->
 
 BBiillaaggaa 44 -- LLaabboorraattoorriieepprroottookkoollll Sida 1 av 1
 2025-10-17
 
-[Tabell 171-1](handlingar.tabeller/171-1.csv)
+Sammanställning av
+LABORATORIEUNDERSÖKNING STÖRD PROVTAGNING
 
-| Sammanställning av<br>LABORATORIEUNDERSÖKNING STÖRD PROVTAGNING |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Uppdragsnamn:<br>Uppdragsnummer:<br>Beställare:<br>Provtagningsdatum:<br>Fält-ansvarig:<br>Lab-datum:<br>Lab-ansvarig: |  |  | Arendalsleden<br>351958<br>Kungsbacka Kommun<br>2025-09-16<br>ME<br>2025-09-25<br>Peter Hedborg |  |  |  |  |  |  |  |
-|  |  |  |  | ÅF Infrastructure AB Besöksadress<br>P.O. Box 1551 Grafiska vägen 2<br>SE-401 51 Göteborg 412 63 Göteborg<br>Tel. Vxl: +46 10 505 00 00 (e-post borttagen) |  |  |  |  |  |  |
-| Punkt<br>(vy) | Djup |  | Klassificering av jordart enligt SS-EN ISO 14688-1 |  | W %<br>N | W %<br>L | Org.<br>Halt % | Tjälfarl. | Mtrl-typ | Anmärkningar |
-|  | Från | Till |  |  |  |  |  |  |  |  |
-| 25TY01<br>25TY02<br>1,5<br>25TY03<br>1,5<br>25TY04<br>1,5 | 0,0<br>0,0<br>0,0<br>0,0 | 1,5<br>2,0<br>3,0<br>1,7<br>2,5<br>3,0<br>1,5<br>2,3<br>3,0<br>4,0<br>1,9<br>3,1<br>4,0 | brun FYLLNING grus sand<br>grå melerad LERA torrskorpekaraktär<br>grönaktigt grå lerig GYTTJA<br>brun FYLLNING grus sand<br>grå rostfläckig LERA torrskorpekaraktär<br>grönaktigt grå lerig GYTTJA<br>brun FYLLNING grus sand<br>grå FYLLNING lera lecakulor<br>grå rostfläckig TORRSKORPELERA<br>grönaktigt grå lerig GYTTJA<br>brun FYLLNING grus sand<br>grå brun FYLLNING leca kulor grus sand inslag av lera<br>grönaktigt grå siltig lerig GYTTJA |  | 4<br>60<br>129<br>3<br>54<br>117<br>4<br>67<br>39<br>104<br>3<br>33<br>89 | 170<br>74<br>139<br>130<br>111 |  | 3<br>3<br>3<br>3<br>3<br>3<br>4 | 4B<br>6A<br>4B<br>6A<br>4B<br>6A<br>6A |  |
-| Avvikelse från standard, kommentarer, m m<br>Vattenkvot SS-EN/ISO 17892-1, Konflytgräns SS-EN/ISO 17892-12 samt SGF Notat 1:2018, Organisk halt SS 027105<br>Materialtyp & Tjälfarlighetsklass enl AMA Anläggning 23<br>ÅF Infrastructure AB |  |  |  |  |  |  |  |  |  |  |
+Uppdragsnamn: Arendalsleden
+Uppdragsnummer: 351958
+Beställare:  Kungsbacka Kommun
+Provtagningsdatum: 2025-09-16      ÅF Infrastructure AB Besöksadress
+Fält-ansvarig: ME                  P.O. Box 1551    Grafiska vägen 2
+Lab-datum:   2025-09-25            SE-401 51 Göteborg 412 63 Göteborg
+Lab-ansvarig: Peter Hedborg        Tel. Vxl: +46 10 505 00 00 (e-post borttagen)
+Punkt   Djup                                         Org.
+Klassificering av jordart enligt SS-EN ISO 14688-1 W % W % Tjälfarl. Mtrl-typ Anmärkningar
+(vy) Från Till                              N    L  Halt %
+25TY01 0,0 1,5 brun FYLLNING grus sand       4
+2,0 grå melerad LERA torrskorpekaraktär 60      3   4B
+3,0 grönaktigt grå lerig GYTTJA    129 170      3   6A
+25TY02 0,0 1,7 brun FYLLNING grus sand       3
+1,5      2,5 grå rostfläckig LERA torrskorpekaraktär 54 74 3 4B
+3,0 grönaktigt grå lerig GYTTJA    117 139      3   6A
+25TY03 0,0 1,5 brun FYLLNING grus sand       4
+1,5      2,3 grå FYLLNING lera lecakulor    67
+3,0 grå rostfläckig TORRSKORPELERA 39           3   4B
+4,0 grönaktigt grå lerig GYTTJA    104 130      3   6A
+25TY04 0,0 1,9 brun FYLLNING grus sand       3
+1,5      3,1 grå brun FYLLNING leca kulor grus sand inslag av lera 33
+4,0 grönaktigt grå siltig lerig GYTTJA 89 111   4   6A
+
+Avvikelse från standard, kommentarer, m m
+Vattenkvot SS-EN/ISO 17892-1, Konflytgräns SS-EN/ISO 17892-12 samt SGF Notat 1:2018, Organisk halt SS 027105
+Materialtyp & Tjälfarlighetsklass enl AMA Anläggning 23
+ÅF Infrastructure AB
 
 <!-- sida 172 -->
 
@@ -10947,17 +11128,17 @@ parametrar från Tabell 2. Dessa är utvärderade från undersökningsresultat i
 
 Tabell 2. Valda värden för parametrar i jordmodellen.
 
-Nivå ök                          𝝋  /𝑪
-𝒗𝒂𝒍𝒕 𝒖;𝒗𝒂𝒍𝒕
-[RH2000]
-+4,9                             34°\*\*
-+4,5                             25 kPa
-
-+2,3                             10 kPa
-0                                10+0,8
+Nivå ök Material   M/T\*     𝜸    𝝋  /𝑪
+𝒗𝒂𝒍𝒕 𝒗𝒂𝒍𝒕 𝒖;𝒗𝒂𝒍𝒕
+[RH2000]                   [kN/m3]
++4,9   Fyllning (grus      18    34°\*\*
+sand)
++4,5   Torrskorpelera 4B/3 17    25 kPa
++2,3   Gyttja (lerig) 6A/3 15    10 kPa
+0      Lera                16    10+0,8
 
 kPa/m
-Varierar                         40°
+Varierar Ny fyllningsjord  20    40°
 
 \*Materialtyp/Tjälfarlighetsklass enligt AMA 23.
 \*\*Ska betraktas som residualvärde enligt Tabell 3.1 i IEG Rapport 6:2008.
@@ -10972,16 +11153,6 @@ Uppdrag: 351958 Arendalsleden förstudie fyra körfält 2025-11-03
 Beställare: Kungsbacka kommun
 https://tyrens.sharepoint.com/sites/351958-SE-TYR/Shared Documents/G/PM/PM Geoteknik Arendalsleden.docx
 11(15)
-
-[Tabell 301-1](handlingar.tabeller/301-1.csv)
-
-| Material | M/T\* | 𝜸<br>𝒗𝒂𝒍𝒕<br>[kN/m3] |
-| --- | --- | --- |
-| Fyllning (grus<br>sand) |  | 18 |
-| Torrskorpelera | 4B/3 | 17 |
-| Gyttja (lerig) | 6A/3 | 15 |
-| Lera |  | 16 |
-| Ny fyllningsjord |  | 20 |
 
 <!-- sida 302 -->
 
@@ -11192,119 +11363,261 @@ u
 25TY02 (Vb)  25TY02 (CONRAD) 25TY04 (CONRAD) GC-2 (Kon)
 GF4 (Vb)     S-1 (Vb)    3 (Kon)     Valt värde
 
-[Tabell 306-1](handlingar.tabeller/306-1.csv)
-
-|  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-
 <!-- sida 307 -->
 
+1,29
+
+-5        0         5        10        15       20        25        30        35        40       45
+Avstånd
+åviN
 Bilaga 2 - Stabilitetsberäkningar                                               Sida 1 av 7
 2025-11-03
-
+Color Name     Slope Stability Unit C-Datum C-Rate of Datum Effective Effective Piezometric
+Material Model Weight (kPa) Change (Elevation) Cohesion Friction Surface
+(kN/m³)    ((kN/m²)/m) (m) (kPa) Angle (°)
+Fyllning grus sand Mohr-Coulomb 18             0      34   1
+Lera odrän S=f(datum) 16  10    0,8     0                  1
+Stabilitetsanalys SLOPE/W Tool Version: 11.4.2.547
+Uppdrag: 351958 Arendalsleden förstudie fyra körfält                                 lerig Gyttja odrän S=f(datum) 15 10 0   3                  1
+(datum)
+Beställare: Kungsbacka kommun
+Ritad av: Niklas Björn, Tyréns Sverige AB                                            Torrskorpelera S=f(datum) 17 25 0       5                  1
+odrän (datum) (25)
+Vägbyggnad Mohr-Coulomb 20                     0      42   1
+Beräkningsmetod: Partialkoefficienter/Totalsäkerhet
+Typ av analys: Morgenstern-Price
+PWP Conditions Source: Piezometric surface
+Skala: 1:200 (A3)
+Datum: 2025-10-17
+BERÄKNING:
+1.2 Befintliga förhållanden Odränerad analys
+GC 5 kPa       Väg 20 kPa
+5
+0
+-5
+-10
+-15
+-20
+-25
 O:\GBG\351958\G\\\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
-
-[Tabell 307-1](handlingar.tabeller/307-1.csv)
-
-| Color Name Slope Stability Unit C-Datum C-Rate of Datum Effective Effective Piezometric<br>Material Model Weight (kPa) Change (Elevation) Cohesion Friction Surface<br>(kN/m³) ((kN/m²)/m) (m) (kPa) Angle (°)<br>Fyllning grus sand Mohr-Coulomb 18 0 34 1<br>Lera odrän S=f(datum) 16 10 0,8 0 1<br>Stabilitetsanalys SLOPE/W Tool Version: 11.4.2.547<br>Uppdrag: 351958 Arendalsleden förstudie fyra körfält lerig Gyttja odrän S=f(datum) 15 10 0 3 1<br>(datum)<br>Beställare: Kungsbacka kommun<br>Ritad av: Niklas Björn, Tyréns Sverige AB Torrskorpelera S=f(datum) 17 25 0 5 1<br>odrän (datum) (25)<br>Vägbyggnad Mohr-Coulomb 20 0 42 1<br>Beräkningsmetod: Partialkoefficienter/Totalsäkerhet<br>Typ av analys: Morgenstern-Price<br>PWP Conditions Source: Piezometric surface<br>Skala: 1:200 (A3)<br>Datum: 2025-10-17<br>1,29<br>BERÄKNING:<br>1.2 Befintliga förhållanden Odränerad analys<br>GC 5 kPa Väg 20 kPa<br>5<br>0<br>-5<br>åviN<br>-10<br>-15<br>-20<br>-25<br>-5 0 5 10 15 20 25 30 35 40 45<br>Avstånd | Name | Slope Stability<br>Material Model | Unit<br>Weight<br>(kN/m³) | C-Datum<br>(kPa) | C-Rate of<br>Change<br>((kN/m²)/m) | Datum<br>(Elevation)<br>(m) | Effective<br>Cohesion<br>(kPa) | Effective<br>Friction<br>Angle (°) | Piezometric<br>Surface |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Fyllning grus sand | Mohr-Coulomb | 18 |  |  |  | 0 | 34 | 1 |
-|  | Lera odrän | S=f(datum) | 16 | 10 | 0,8 | 0 |  |  | 1 |
-|  | lerig Gyttja odrän<br>(datum) | S=f(datum) | 15 | 10 | 0 | 3 |  |  | 1 |
-|  | Torrskorpelera<br>odrän (datum) (25) | S=f(datum) | 17 | 25 | 0 | 5 |  |  | 1 |
 
 <!-- sida 308 -->
 
+1,33
+
+-5        0         5        10        15       20        25        30        35        40       45
+Avstånd
+åviN
+Color Name     Slope Stability Material Model Unit Effective Effective C-Datum C-Rate of Cu-Datum Cu-Rate of Datum Piezometric
+Weight Cohesion Friction (kPa) Change (kPa) Change (Elevation) Surface
+(kN/m³) (kPa) Angle (°) ((kN/m²)/m)   ((kN/m²)/m) (m)
+Fyllning grus Mohr-Coulomb   18   0      34                                       1
+sand
+Stabilitetsanalys SLOPE/W Tool Version: 11.4.2.547            Lera komb  Combined, S=f(datum) 16       30    1     0,08    10    0,8     0      1
+Uppdrag: 351958 Arendalsleden förstudie fyra körfält
+lerig Gyttja komb Combined, S=f(datum) 15 30   1     0       10    0       3      1
+Beställare: Kungsbacka kommun
+Ritad av: Hilda Dahlin Joklint, Tyréns Sverige AB             Torrskorpelera Combined, S=f(datum) 17   30    2,5   0       25    0       5      1
+komb (datum)(25)
+Vägbyggnad Mohr-Coulomb      20   0      42                                       1
+Beräkningsmetod: Partialkoefficienter/Totalsäkerhet
+Typ av analys: Morgenstern-Price
+PWP Conditions Source: Piezometric surface
+Skala: 1:200 (A3)
+Datum: 2025-10-17
+BERÄKNING:
+1.1.0.1 Befintliga förhållanden Kombinerad analys (75% TL)
+5
+0
+-5
+-10
+-15
+-20
+-25
 O:\GBG\351958\G\\\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
-
-[Tabell 308-1](handlingar.tabeller/308-1.csv)
-
-| Color Name Slope Stability Material Model Unit Effective Effective C-Datum C-Rate of Cu-Datum Cu-Rate of Datum Piezometric<br>Weight Cohesion Friction (kPa) Change (kPa) Change (Elevation) Surface<br>(kN/m³) (kPa) Angle (°) ((kN/m²)/m) ((kN/m²)/m) (m)<br>Fyllning grus Mohr-Coulomb 18 0 34 1<br>sand<br>Stabilitetsanalys SLOPE/W Tool Version: 11.4.2.547 Lera komb Combined, S=f(datum) 16 30 1 0,08 10 0,8 0 1<br>Uppdrag: 351958 Arendalsleden förstudie fyra körfält<br>lerig Gyttja komb Combined, S=f(datum) 15 30 1 0 10 0 3 1<br>Beställare: Kungsbacka kommun<br>Ritad av: Hilda Dahlin Joklint, Tyréns Sverige AB Torrskorpelera Combined, S=f(datum) 17 30 2,5 0 25 0 5 1<br>komb (datum)(25)<br>Vägbyggnad Mohr-Coulomb 20 0 42 1<br>Beräkningsmetod: Partialkoefficienter/Totalsäkerhet<br>Typ av analys: Morgenstern-Price<br>PWP Conditions Source: Piezometric surface<br>Skala: 1:200 (A3)<br>1,33 Datum: 2025-10-17<br>BERÄKNING:<br>1.1.0.1 Befintliga förhållanden Kombinerad analys (75% TL)<br>5<br>0<br>-5<br>åviN<br>-10<br>-15<br>-20<br>-25<br>-5 0 5 10 15 20 25 30 35 40 45<br>Avstånd | Name | Slope Stability Material Model | Unit<br>Weight<br>(kN/m³) | Effective<br>Cohesion<br>(kPa) | Effective<br>Friction<br>Angle (°) | C-Datum<br>(kPa) | C-Rate of<br>Change<br>((kN/m²)/m) | Cu-Datum<br>(kPa) | Cu-Rate of<br>Change<br>((kN/m²)/m) | Datum<br>(Elevation)<br>(m) | Piezometric<br>Surface |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Fyllning grus<br>sand | Mohr-Coulomb | 18 | 0 | 34 |  |  |  |  |  | 1 |
-|  | Lera komb | Combined, S=f(datum) | 16 |  | 30 | 1 | 0,08 | 10 | 0,8 | 0 | 1 |
-|  | lerig Gyttja komb | Combined, S=f(datum) | 15 |  | 30 | 1 | 0 | 10 | 0 | 3 | 1 |
-|  | Torrskorpelera<br>komb (datum)(25) | Combined, S=f(datum) | 17 |  | 30 | 2,5 | 0 | 25 | 0 | 5 | 1 |
 
 <!-- sida 309 -->
 
+1,36
+
+-5        0         5        10        15       20        25        30        35        40       45
+Avstånd
+åviN
+Color Name     Slope Stability Unit C-Datum C-Rate of Datum Effective Effective Piezometric
+Material Model Weight (kPa) Change (Elevation) Cohesion Friction Surface
+(kN/m³)    ((kN/m²)/m) (m) (kPa) Angle (°)
+Fyllning grus sand Mohr-Coulomb 18             0      34   1
+Fyllning ny Mohr-Coulomb 20                    0      40   1
+Stabilitetsanalys SLOPE/W Tool Version: 11.4.2.547
+Uppdrag: 351958 Arendalsleden förstudie fyra körfält                                 Lera odrän S=f(datum) 16  10    0,8     0                  1
+Beställare: Kungsbacka kommun
+lerig Gyttja odrän S=f(datum) 15 10 0   3                  1
+Ritad av: Hilda Dahlin Joklint, Tyréns Sverige AB                                    (datum)
+Torrskorpelera S=f(datum) 17 25 0       5                  1
+Beräkningsmetod: Partialkoefficienter/Totalsäkerhet                                  odrän (datum) (25)
+Typ av analys: Morgenstern-Price                                                     Vägbyggnad Mohr-Coulomb 20                     0      42   1
+PWP Conditions Source: Piezometric surface
+Skala: 1:200 (A3)
+Datum: 2025-10-17
+BERÄKNING:
+2.2 Utbyggda förhållanden (2+2) odränerad analys (UÅ)
+Väg 20 kPa
+GC 5 kPa
+5
+0
+-5
+-10
+-15
+-20
+-25
 O:\GBG\351958\G\\\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
-
-[Tabell 309-1](handlingar.tabeller/309-1.csv)
-
-| Color Name Slope Stability Unit C-Datum C-Rate of Datum Effective Effective Piezometric<br>Material Model Weight (kPa) Change (Elevation) Cohesion Friction Surface<br>(kN/m³) ((kN/m²)/m) (m) (kPa) Angle (°)<br>Fyllning grus sand Mohr-Coulomb 18 0 34 1<br>Fyllning ny Mohr-Coulomb 20 0 40 1<br>Stabilitetsanalys SLOPE/W Tool Version: 11.4.2.547<br>Uppdrag: 351958 Arendalsleden förstudie fyra körfält Lera odrän S=f(datum) 16 10 0,8 0 1<br>Beställare: Kungsbacka kommun<br>lerig Gyttja odrän S=f(datum) 15 10 0 3 1<br>Ritad av: Hilda Dahlin Joklint, Tyréns Sverige AB (datum)<br>Torrskorpelera S=f(datum) 17 25 0 5 1<br>Beräkningsmetod: Partialkoefficienter/Totalsäkerhet odrän (datum) (25)<br>Typ av analys: Morgenstern-Price Vägbyggnad Mohr-Coulomb 20 0 42 1<br>PWP Conditions Source: Piezometric surface<br>Skala: 1:200 (A3)<br>Datum: 2025-10-17<br>BERÄKNING:<br>1,36 2.2 Utbyggda förhållanden (2+2) odränerad analys (UÅ)<br>Väg 20 kPa<br>GC 5 kPa<br>5<br>0<br>-5<br>åviN<br>-10<br>-15<br>-20<br>-25<br>-5 0 5 10 15 20 25 30 35 40 45<br>Avstånd | Name | Slope Stability<br>Material Model | Unit<br>Weight<br>(kN/m³) | C-Datum<br>(kPa) | C-Rate of<br>Change<br>((kN/m²)/m) | Datum<br>(Elevation)<br>(m) | Effective<br>Cohesion<br>(kPa) | Effective<br>Friction<br>Angle (°) | Piezometric<br>Surface |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Fyllning grus sand | Mohr-Coulomb | 18 |  |  |  | 0 | 34 | 1 |
-|  | Fyllning ny | Mohr-Coulomb | 20 |  |  |  | 0 | 40 | 1 |
-|  | Lera odrän | S=f(datum) | 16 | 10 | 0,8 | 0 |  |  | 1 |
-|  | lerig Gyttja odrän<br>(datum) | S=f(datum) | 15 | 10 | 0 | 3 |  |  | 1 |
-|  | Torrskorpelera<br>odrän (datum) (25) | S=f(datum) | 17 | 25 | 0 | 5 |  |  | 1 |
 
 <!-- sida 310 -->
 
+1,37
+
+-5        0         5        10        15       20        25        30        35        40       45
+Avstånd
+åviN
+Color Name     Slope Stability Unit Effective Effective C-Datum C-Rate of Cu-Datum Cu-Rate of Datum Piezometric
+Material Model Weight Cohesion Friction (kPa) Change (kPa) Change (Elevation) Surface
+(kN/m³) (kPa) Angle (°) ((kN/m²)/m)   ((kN/m²)/m) (m)
+Fyllning grus Mohr-Coulomb 18 0    34                                       1
+sand
+Stabilitetsanalys SLOPE/W Tool Version: 11.4.2.547                  Fyllning ny Mohr-Coulomb 20 0      40                                       1
+Uppdrag: 351958 Arendalsleden förstudie fyra körfält
+Lera komb Combined, S=f(datum) 16  30    1     0,08    10    0,8     0      1
+Beställare: Kungsbacka kommun
+Ritad av: Hilda Dahlin Joklint, Tyréns Sverige AB                   lerig Gyttja komb Combined, S=f(datum) 15 30 1 0       10    0       3      1
+Torrskorpelera Combined, S=f(datum) 17 30 2,5  0       25    0       5      1
+Beräkningsmetod: Partialkoefficienter/Totalsäkerhet                 komb
+(datum)(25)
+Typ av analys: Morgenstern-Price
+PWP Conditions Source: Piezometric surface                          Vägbyggnad Mohr-Coulomb 20  0      42                                       1
+Skala: 1:200 (A3)
+Datum: 2025-10-17
+BERÄKNING:
+2.1.0.1 Utbyggda förhållanden (2+2) kombinerad analys (UÅ) (75% TL)
+5
+0
+-5
+-10
+-15
+-20
+-25
 O:\GBG\351958\G\\\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
-
-[Tabell 310-1](handlingar.tabeller/310-1.csv)
-
-| Color Name Slope Stability Unit Effective Effective C-Datum C-Rate of Cu-Datum Cu-Rate of Datum Piezometric<br>Material Model Weight Cohesion Friction (kPa) Change (kPa) Change (Elevation) Surface<br>(kN/m³) (kPa) Angle (°) ((kN/m²)/m) ((kN/m²)/m) (m)<br>Fyllning grus Mohr-Coulomb 18 0 34 1<br>sand<br>Stabilitetsanalys SLOPE/W Tool Version: 11.4.2.547 Fyllning ny Mohr-Coulomb 20 0 40 1<br>Uppdrag: 351958 Arendalsleden förstudie fyra körfält<br>Lera komb Combined, S=f(datum) 16 30 1 0,08 10 0,8 0 1<br>Beställare: Kungsbacka kommun<br>Ritad av: Hilda Dahlin Joklint, Tyréns Sverige AB lerig Gyttja komb Combined, S=f(datum) 15 30 1 0 10 0 3 1<br>Torrskorpelera Combined, S=f(datum) 17 30 2,5 0 25 0 5 1<br>Beräkningsmetod: Partialkoefficienter/Totalsäkerhet komb<br>(datum)(25)<br>Typ av analys: Morgenstern-Price<br>PWP Conditions Source: Piezometric surface Vägbyggnad Mohr-Coulomb 20 0 42 1<br>Skala: 1:200 (A3)<br>Datum: 2025-10-17<br>BERÄKNING:<br>2.1.0.1 Utbyggda förhållanden (2+2) kombinerad analys (UÅ) (75% TL)<br>1,37<br>5<br>0<br>-5<br>åviN<br>-10<br>-15<br>-20<br>-25<br>-5 0 5 10 15 20 25 30 35 40 45<br>Avstånd | Name | Slope Stability<br>Material Model | Unit<br>Weight<br>(kN/m³) | Effective<br>Cohesion<br>(kPa) | Effective<br>Friction<br>Angle (°) | C-Datum<br>(kPa) | C-Rate of<br>Change<br>((kN/m²)/m) | Cu-Datum<br>(kPa) | Cu-Rate of<br>Change<br>((kN/m²)/m) | Datum<br>(Elevation)<br>(m) | Piezometric<br>Surface |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Fyllning grus<br>sand | Mohr-Coulomb | 18 | 0 | 34 |  |  |  |  |  | 1 |
-|  | Fyllning ny | Mohr-Coulomb | 20 | 0 | 40 |  |  |  |  |  | 1 |
-|  | Lera komb | Combined, S=f(datum) | 16 |  | 30 | 1 | 0,08 | 10 | 0,8 | 0 | 1 |
-|  | lerig Gyttja komb | Combined, S=f(datum) | 15 |  | 30 | 1 | 0 | 10 | 0 | 3 | 1 |
-|  | Torrskorpelera<br>komb<br>(datum)(25) | Combined, S=f(datum) | 17 |  | 30 | 2,5 | 0 | 25 | 0 | 5 | 1 |
 
 <!-- sida 311 -->
 
+1,38
+
+-5        0         5        10        15       20        25        30        35        40       45
+Avstånd
+åviN
+Color Name     Slope Stability Unit C-Datum C-Rate of Datum Effective Effective Piezometric
+Material Model Weight (kPa) Change (Elevation) Cohesion Friction Surface
+(kN/m³)    ((kN/m²)/m) (m) (kPa) Angle (°)
+Fyllning grus sand Mohr-Coulomb 18             0      34   1
+Fyllning ny Mohr-Coulomb 20                    0      40   1
+Stabilitetsanalys SLOPE/W Tool Version: 11.4.2.547
+Uppdrag: 351958 Arendalsleden förstudie fyra körfält                                 Lera odrän S=f(datum) 16  10    0,8     0                  1
+Beställare: Kungsbacka kommun
+lerig Gyttja odrän S=f(datum) 15 10 0   3                  1
+Ritad av: Niklas Björn, Tyréns Sverige AB                                            (datum)
+Lättfyllning (Leca) Mohr-Coulomb 4,5           0      39   1
+Beräkningsmetod: Partialkoefficienter/Totalsäkerhet
+Torrskorpelera S=f(datum) 17 25 0       5                  1
+Typ av analys: Morgenstern-Price
+odrän (datum) (25)
+PWP Conditions Source: Piezometric surface
+Vägbyggnad Mohr-Coulomb 20                     0      42   1
+Skala: 1:200 (A3)
+Datum: 2025-10-17
+BERÄKNING:
+2.2.1 Utbyggda förhållanden (2+2) odränerad analys (LK)
+Väg 20 kPa
+GC 5 kPa
+5
+0
+-5
+-10
+-15
+-20
+-25
 O:\GBG\351958\G\\\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
-
-[Tabell 311-1](handlingar.tabeller/311-1.csv)
-
-| Color Name Slope Stability Unit C-Datum C-Rate of Datum Effective Effective Piezometric<br>Material Model Weight (kPa) Change (Elevation) Cohesion Friction Surface<br>(kN/m³) ((kN/m²)/m) (m) (kPa) Angle (°)<br>Fyllning grus sand Mohr-Coulomb 18 0 34 1<br>Fyllning ny Mohr-Coulomb 20 0 40 1<br>Stabilitetsanalys SLOPE/W Tool Version: 11.4.2.547<br>Uppdrag: 351958 Arendalsleden förstudie fyra körfält Lera odrän S=f(datum) 16 10 0,8 0 1<br>Beställare: Kungsbacka kommun<br>lerig Gyttja odrän S=f(datum) 15 10 0 3 1<br>Ritad av: Niklas Björn, Tyréns Sverige AB (datum)<br>Lättfyllning (Leca) Mohr-Coulomb 4,5 0 39 1<br>Beräkningsmetod: Partialkoefficienter/Totalsäkerhet<br>Torrskorpelera S=f(datum) 17 25 0 5 1<br>Typ av analys: Morgenstern-Price<br>odrän (datum) (25)<br>PWP Conditions Source: Piezometric surface<br>Vägbyggnad Mohr-Coulomb 20 0 42 1<br>Skala: 1:200 (A3)<br>Datum: 2025-10-17<br>BERÄKNING:<br>1,38 2.2.1 Utbyggda förhållanden (2+2) odränerad analys (LK)<br>Väg 20 kPa<br>GC 5 kPa<br>5<br>0<br>-5<br>åviN<br>-10<br>-15<br>-20<br>-25<br>-5 0 5 10 15 20 25 30 35 40 45<br>Avstånd | Name | Slope Stability<br>Material Model | Unit<br>Weight<br>(kN/m³) | C-Datum<br>(kPa) | C-Rate of<br>Change<br>((kN/m²)/m) | Datum<br>(Elevation)<br>(m) | Effective<br>Cohesion<br>(kPa) | Effective<br>Friction<br>Angle (°) | Piezometric<br>Surface |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Fyllning grus sand | Mohr-Coulomb | 18 |  |  |  | 0 | 34 | 1 |
-|  | Fyllning ny | Mohr-Coulomb | 20 |  |  |  | 0 | 40 | 1 |
-|  | Lera odrän | S=f(datum) | 16 | 10 | 0,8 | 0 |  |  | 1 |
-|  | lerig Gyttja odrän<br>(datum) | S=f(datum) | 15 | 10 | 0 | 3 |  |  | 1 |
-|  | Lättfyllning (Leca) | Mohr-Coulomb | 4,5 |  |  |  | 0 | 39 | 1 |
-|  | Torrskorpelera<br>odrän (datum) (25) | S=f(datum) | 17 | 25 | 0 | 5 |  |  | 1 |
 
 <!-- sida 312 -->
 
+1,38
+
+-5        0         5        10        15       20        25        30        35        40       45
+Avstånd
+åviN
+Color Name     Slope Stability Unit C-Datum C-Rate of Datum Effective Effective Piezometric
+Material Model Weight (kPa) Change (Elevation) Cohesion Friction Surface
+(kN/m³)    ((kN/m²)/m) (m) (kPa) Angle (°)
+Fyllning grus sand Mohr-Coulomb 18             0      34   1
+Fyllning ny Mohr-Coulomb 20                    0      40   1
+Stabilitetsanalys SLOPE/W Tool Version: 11.4.2.547
+Uppdrag: 351958 Arendalsleden förstudie fyra körfält                                 Lera odrän S=f(datum) 16  10    0,8     0                  1
+Beställare: Kungsbacka kommun
+lerig Gyttja odrän S=f(datum) 15 10 0   3                  1
+Ritad av: Niklas Björn, Tyréns Sverige AB                                            (datum)
+Lättfyllning Mohr-Coulomb 1,8                  0      45   1
+Beräkningsmetod: Partialkoefficienter/Totalsäkerhet                                  (Hasopor)
+Typ av analys: Morgenstern-Price                                                     Torrskorpelera S=f(datum) 17 25 0       5                  1
+PWP Conditions Source: Piezometric surface                                           odrän (datum) (25)
+Skala: 1:200 (A3)                                                                    Vägbyggnad Mohr-Coulomb 20                     0      42   1
+Datum: 2025-10-17
+BERÄKNING:
+2.2.1 Utbyggda förhållanden (2+2) odränerad analys (HP)
+Väg 20 kPa
+GC 5 kPa
+5
+0
+-5
+-10
+-15
+-20
+-25
 O:\GBG\351958\G\\\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
-
-[Tabell 312-1](handlingar.tabeller/312-1.csv)
-
-| Color Name Slope Stability Unit C-Datum C-Rate of Datum Effective Effective Piezometric<br>Material Model Weight (kPa) Change (Elevation) Cohesion Friction Surface<br>(kN/m³) ((kN/m²)/m) (m) (kPa) Angle (°)<br>Fyllning grus sand Mohr-Coulomb 18 0 34 1<br>Fyllning ny Mohr-Coulomb 20 0 40 1<br>Stabilitetsanalys SLOPE/W Tool Version: 11.4.2.547<br>Uppdrag: 351958 Arendalsleden förstudie fyra körfält Lera odrän S=f(datum) 16 10 0,8 0 1<br>Beställare: Kungsbacka kommun<br>lerig Gyttja odrän S=f(datum) 15 10 0 3 1<br>Ritad av: Niklas Björn, Tyréns Sverige AB (datum)<br>Lättfyllning Mohr-Coulomb 1,8 0 45 1<br>Beräkningsmetod: Partialkoefficienter/Totalsäkerhet (Hasopor)<br>Typ av analys: Morgenstern-Price Torrskorpelera S=f(datum) 17 25 0 5 1<br>PWP Conditions Source: Piezometric surface odrän (datum) (25)<br>Skala: 1:200 (A3) Vägbyggnad Mohr-Coulomb 20 0 42 1<br>Datum: 2025-10-17<br>BERÄKNING:<br>1,38 2.2.1 Utbyggda förhållanden (2+2) odränerad analys (HP)<br>Väg 20 kPa<br>GC 5 kPa<br>5<br>0<br>-5<br>åviN<br>-10<br>-15<br>-20<br>-25<br>-5 0 5 10 15 20 25 30 35 40 45<br>Avstånd | Name | Slope Stability<br>Material Model | Unit<br>Weight<br>(kN/m³) | C-Datum<br>(kPa) | C-Rate of<br>Change<br>((kN/m²)/m) | Datum<br>(Elevation)<br>(m) | Effective<br>Cohesion<br>(kPa) | Effective<br>Friction<br>Angle (°) | Piezometric<br>Surface |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Fyllning grus sand | Mohr-Coulomb | 18 |  |  |  | 0 | 34 | 1 |
-|  | Fyllning ny | Mohr-Coulomb | 20 |  |  |  | 0 | 40 | 1 |
-|  | Lera odrän | S=f(datum) | 16 | 10 | 0,8 | 0 |  |  | 1 |
-|  | lerig Gyttja odrän<br>(datum) | S=f(datum) | 15 | 10 | 0 | 3 |  |  | 1 |
-|  | Lättfyllning<br>(Hasopor) | Mohr-Coulomb | 1,8 |  |  |  | 0 | 45 | 1 |
-|  | Torrskorpelera<br>odrän (datum) (25) | S=f(datum) | 17 | 25 | 0 | 5 |  |  | 1 |
 
 <!-- sida 313 -->
 
+1,41
+
+-5        0         5        10        15       20        25        30        35        40       45
+Avstånd
+åviN
+Color Name   Slope Stability Unit Effective Effective C-Datum C-Rate of Cu-Datum Cu-Rate of Datum Piezometric
+Material Model Weight Cohesion Friction (kPa) Change (kPa) Change (Elevation) Surface
+(kN/m³) (kPa) Angle (°) ((kN/m²)/m) ((kN/m²)/m) (m)
+Fyllning grus Mohr-Coulomb 18 0 34                                 1
+sand
+Fyllning ny Mohr-Coulomb 20 0 40                                   1
+Stabilitetsanalys SLOPE/W Tool Version: 11.4.2.547
+Uppdrag: 351958 Arendalsleden förstudie fyra körfält                          Lera komb Combined, 16       30    1    0,08   10    0,8     0     1
+S=f(datum)
+Beställare: Kungsbacka kommun
+Ritad av: Hilda Dahlin Joklint, Tyréns Sverige AB                             lerig Gyttja komb Combined, 15 30  1    0      10    0       3     1
+S=f(datum)
+Lättfyllning (Leca) Mohr-Coulomb 4,5 0 39                          1
+Beräkningsmetod: Partialkoefficienter/Totalsäkerhet
+Typ av analys: Morgenstern-Price                                              Torrskorpelera Combined, 17  30    2,5  0      25    0       5     1
+komb (datum)(25) S=f(datum)
+PWP Conditions Source: Piezometric surface
+Skala: 1:200 (A3)                                                             Vägbyggnad Mohr-Coulomb 20 0 42                                    1
+Datum: 2025-10-17
+BERÄKNING:
+2.1.1.1 Utbyggda förhållanden (2+2) kombinerad analys (LK) (75% TL)
+5
+0
+-5
+-10
+-15
+-20
+-25
 O:\GBG\351958\G\\\_Berakningar\Slope\351958_Arendalsleden_sektion_C 251013.gsz
-
-[Tabell 313-1](handlingar.tabeller/313-1.csv)
-
-| Color Name Slope Stability Unit Effective Effective C-Datum C-Rate of Cu-Datum Cu-Rate of Datum Piezometric<br>Material Model Weight Cohesion Friction (kPa) Change (kPa) Change (Elevation) Surface<br>(kN/m³) (kPa) Angle (°) ((kN/m²)/m) ((kN/m²)/m) (m)<br>Fyllning grus Mohr-Coulomb 18 0 34 1<br>sand<br>Fyllning ny Mohr-Coulomb 20 0 40 1<br>Stabilitetsanalys SLOPE/W Tool Version: 11.4.2.547<br>Uppdrag: 351958 Arendalsleden förstudie fyra körfält Lera komb Combined, 16 30 1 0,08 10 0,8 0 1<br>S=f(datum)<br>Beställare: Kungsbacka kommun<br>Ritad av: Hilda Dahlin Joklint, Tyréns Sverige AB lerig Gyttja komb Combined, 15 30 1 0 10 0 3 1<br>S=f(datum)<br>Lättfyllning (Leca) Mohr-Coulomb 4,5 0 39 1<br>Beräkningsmetod: Partialkoefficienter/Totalsäkerhet<br>Typ av analys: Morgenstern-Price Torrskorpelera Combined, 17 30 2,5 0 25 0 5 1<br>komb (datum)(25) S=f(datum)<br>PWP Conditions Source: Piezometric surface<br>Skala: 1:200 (A3) Vägbyggnad Mohr-Coulomb 20 0 42 1<br>Datum: 2025-10-17<br>1,41<br>BERÄKNING:<br>2.1.1.1 Utbyggda förhållanden (2+2) kombinerad analys (LK) (75% TL)<br>5<br>0<br>-5<br>åviN<br>-10<br>-15<br>-20<br>-25<br>-5 0 5 10 15 20 25 30 35 40 45<br>Avstånd | Name | Slope Stability<br>Material Model | Unit<br>Weight<br>(kN/m³) | Effective<br>Cohesion<br>(kPa) | Effective<br>Friction<br>Angle (°) | C-Datum<br>(kPa) | C-Rate of<br>Change<br>((kN/m²)/m) | Cu-Datum<br>(kPa) | Cu-Rate of<br>Change<br>((kN/m²)/m) | Datum<br>(Elevation)<br>(m) | Piezometric<br>Surface |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Fyllning grus<br>sand | Mohr-Coulomb | 18 | 0 | 34 |  |  |  |  |  | 1 |
-|  | Fyllning ny | Mohr-Coulomb | 20 | 0 | 40 |  |  |  |  |  | 1 |
-|  | Lera komb | Combined,<br>S=f(datum) | 16 |  | 30 | 1 | 0,08 | 10 | 0,8 | 0 | 1 |
-|  | lerig Gyttja komb | Combined,<br>S=f(datum) | 15 |  | 30 | 1 | 0 | 10 | 0 | 3 | 1 |
-|  | Lättfyllning (Leca) | Mohr-Coulomb | 4,5 | 0 | 39 |  |  |  |  |  | 1 |
-|  | Torrskorpelera<br>komb (datum)(25) | Combined,<br>S=f(datum) | 17 |  | 30 | 2,5 | 0 | 25 | 0 | 5 | 1 |
 
 <!-- sida 314 -->
 
@@ -12205,23 +12518,30 @@ dliksräs
 
 dem
 netebrA
-
-[Tabell 342-1](handlingar.tabeller/342-1.csv)
-
-| 1. Arbete med risk för fall till lägre nivå med nivåskillnad mer än två<br>meter | ☒ |
-| --- | --- |
-| 2. Arbete som innebär risk att begravas under jordmassor eller<br>sjunka ner i lös mark | ☒ |
-| 3. Arbete med lansering, montering eller nedmontering av tunga<br>byggelement eller tunga formbyggnadselement | ☒ |
-| 4. Arbete som kan medföra exponering för kemiska och biologiska<br>ämnen | ☒ |
-| 5. Arbete med rivning av bärande konstruktioner eller hälsofarliga<br>material eller ämnen | ☒ |
-| 6. Arbete i närheten av högspänningsledningar | ☐ |
-| 7. Arbete på plats eller område med passerande fordonstrafik | ☒ |
-| 8. Arbete vid vilket sprängämnen används | ☐ |
-| 9. Arbete i brunnar eller tunnlar samt anläggningsarbete under jord | ☐ |
-| 10. Arbete med risk för att drunkna | ☒ |
-| 11. Arbete som utförs under vatten med dykarutrustning | ☐ |
-| 12. Arbete som utförs i en kassun under förhöjt lufttryck | ☐ |
-| 13. Arbete som kan medföra exponering för joniserande strålning | ☐ |
+1\. Arbete med risk för fall till lägre nivå med nivåskillnad mer än två ☒
+meter
+2\. Arbete som innebär risk att begravas under jordmassor eller ☒
+sjunka ner i lös mark
+3\. Arbete med lansering, montering eller nedmontering av tunga ☒
+byggelement eller tunga formbyggnadselement
+4\. Arbete som kan medföra exponering för kemiska och biologiska ☒
+ämnen
+5\. Arbete med rivning av bärande konstruktioner eller hälsofarliga ☒
+material eller ämnen
+☐ 6. Arbete i närheten av högspänningsledningar
+☒
+7\. Arbete på plats eller område med passerande fordonstrafik
+☐
+8\. Arbete vid vilket sprängämnen används
+☐
+9\. Arbete i brunnar eller tunnlar samt anläggningsarbete under jord
+☒
+10\. Arbete med risk för att drunkna
+☐ 11. Arbete som utförs under vatten med dykarutrustning
+☐
+12\. Arbete som utförs i en kassun under förhöjt lufttryck
+☐
+13\. Arbete som kan medföra exponering för joniserande strålning
 
 <!-- sida 343 -->
 
@@ -14269,9 +14589,9 @@ Göteborgsvägen
 
 Borgås Gårdsväg
 150 -
-150 /
+150/
 450
-50 - 50 /
+50- 50 /
 200
 Arendalsleden
 40 - 40 / 180
@@ -14300,7 +14620,7 @@ Hallabäcksvägen
 
 vägen
 Arendalsleden
-200 / 355 AAA111333222211--RF
+200/ 355 AAA111333222211--RF
 
 Magasinsgatan
 
@@ -14636,11 +14956,15 @@ en mer socialt hållbar utveckling av hela staden.
 
 Nedan listas rekommendationer till förstudien.
 
-[Tabell 416-1](handlingar.tabeller/416-1.csv)
+[Tabell 416-417-1](handlingar.tabeller/416-417-1.csv)
 
 | Rekommendation | Åtgärd | Vems<br>ansvar | Uppföljning |
 | --- | --- | --- | --- |
 | Korsningspunkterna<br>ska utformas så att<br>de inte bidrar till<br>ökad fysisk<br>barriäreffekt, utan<br>tvärtom medverkar<br>till att minska den. | Beakta bredd, längd, ljus<br>vid GC-port.<br>Trygghetsaspekter vid<br>tunnelmynningar.<br>Korsningar i plan med<br>oskyddade trafikanter ska<br>utformas så trafiksäkert<br>och framkomligt som<br>möjligt. | Teknik | Vid framtagande av<br>bygghandling ska<br>granskning göras av<br>trafikplanerare,<br>trygghetssamordnare,<br>landskapsarkitekt,<br>belysningsingenjör<br>samt utvecklare för<br>barnrätt |
+| Beakta den mentala<br>uppfattningen av att<br>korsa en barriär som<br>Arendalsleden utgör. | Omsorgsfull gestaltning av<br>trafikrummet, livsmiljö och<br>dess omgivning som<br>helhet. | Teknik | Dialog med<br>företrädare för<br>berörda barn.<br>Vid framtagande av<br>bygghandling ska<br>granskning göras av<br>trafikplanerare,<br>trygghetssamordnare,<br>landskapsarkitekt<br>belysningsingenjör<br>samt utvecklare för<br>barnrätt. |
+| Bevara och utveckla<br>kopplingen för<br>oskyddade<br>trafikanter i väst-<br>östlig riktning norr<br>om Arendalsleden<br>(mellan Hede station<br>och Hede fashion<br>outlet) | En med skiljeremsa<br>separerad gång- och<br>cykelbana norr om<br>befintlig trädallé vid Hedin<br>bil och separat gång- och<br>cykelbro över<br>Kungsbackaån. | Teknik | Bygghandlingar ska<br>stämmas av med<br>trafikplanerare &<br>utvecklare för barnrätt |
+| Bevaka risken att<br>oskyddade<br>trafikanter korsar<br>Arendalsleden på<br>farliga platser. | Skapa förutsättningar för<br>att sätta upp fysisk barriär<br>vid behov. | Teknik | Bygghandlingar ska<br>stämmas av med<br>trafikplanerare &<br>utvecklare för barnrätt |
+| Ökad attraktivitet i<br>stadsbusstrafiken i<br>området | Kommunicera behovet om<br>ökad turtäthet till<br>Hallandstrafiken. | Samhällsb<br>yggnadsk<br>ontoret | Årlig kommundialog<br>med<br>kollektivtrafikmyndigh<br>eten |
 
 <!-- sida 417 -->
 
@@ -14663,14 +14987,6 @@ Genom att förutom trädalléerna plantera grönska skapas en variation längs v
 
 På kort sikt gynnas bilburen trafik genom ökad framkomlighet till intilliggande
 handelsområden. På lång sikt skapar det ett beteende och negativ spiral för
-
-[Tabell 417-1](handlingar.tabeller/417-1.csv)
-
-| Beakta den mentala<br>uppfattningen av att<br>korsa en barriär som<br>Arendalsleden utgör. | Omsorgsfull gestaltning av<br>trafikrummet, livsmiljö och<br>dess omgivning som<br>helhet. | Teknik | Dialog med<br>företrädare för<br>berörda barn.<br>Vid framtagande av<br>bygghandling ska<br>granskning göras av<br>trafikplanerare,<br>trygghetssamordnare,<br>landskapsarkitekt<br>belysningsingenjör<br>samt utvecklare för<br>barnrätt. |
-| --- | --- | --- | --- |
-| Bevara och utveckla<br>kopplingen för<br>oskyddade<br>trafikanter i väst-<br>östlig riktning norr<br>om Arendalsleden<br>(mellan Hede station<br>och Hede fashion<br>outlet) | En med skiljeremsa<br>separerad gång- och<br>cykelbana norr om<br>befintlig trädallé vid Hedin<br>bil och separat gång- och<br>cykelbro över<br>Kungsbackaån. | Teknik | Bygghandlingar ska<br>stämmas av med<br>trafikplanerare &<br>utvecklare för barnrätt |
-| Bevaka risken att<br>oskyddade<br>trafikanter korsar<br>Arendalsleden på<br>farliga platser. | Skapa förutsättningar för<br>att sätta upp fysisk barriär<br>vid behov. | Teknik | Bygghandlingar ska<br>stämmas av med<br>trafikplanerare &<br>utvecklare för barnrätt |
-| Ökad attraktivitet i<br>stadsbusstrafiken i<br>området | Kommunicera behovet om<br>ökad turtäthet till<br>Hallandstrafiken. | Samhällsb<br>yggnadsk<br>ontoret | Årlig kommundialog<br>med<br>kollektivtrafikmyndigh<br>eten |
 
 <!-- sida 418 -->
 
@@ -20031,7 +20347,7 @@ nämnden för Tekniks delegeringsförteckning antagen 2025-09-24 § 94.
 Sida
 1(4)
 
-[Tabell 587-1](handlingar.tabeller/587-1.csv)
+[Tabell 587-590-1](handlingar.tabeller/587-590-1.csv)
 
 | Datum | Beskrivning | Diarienummer |
 | --- | --- | --- |
@@ -20043,16 +20359,6 @@ Sida
 | 2025-10-23 | Yttrande Teknik - Placering av reklamskyltar | TE-2025-00960 |
 | 2025-10-21 | Yttrande Teknik Transportdispens | TE-2025-00968 |
 | 2025-10-20 | Yttrande Teknik - Outdoor Festival - Naturum Fjärås Bräcka | TE-2025-00852 |
-
-<!-- sida 588 -->
-
-Sida
-2(4)
-
-[Tabell 588-1](handlingar.tabeller/588-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-10-20 | Yttrande Teknik - Montering av juldekorationer | TE-2025-00924 |
 | 2025-10-20 | Yttrande Teknik - Enskild avloppsanläggning, RÖSHULT 1:18, MH-2025-3265 | TE-2025-00961 |
 | 2025-10-30 | Yttrande Teknik - Placering av transformatorstation, SPEKEDAL 1:1, BN 2025-001734 | TE-2025-00946 |
@@ -20064,16 +20370,6 @@ Sida
 | 2025-10-10 | Yttrande Teknik Transportdispens | TE-2025-00943 |
 | 2025-10-10 | Yttrande Teknik Transportdispens | TE-2025-00942 |
 | 2025-10-08 | Yttrande Teknik - Anmäla installation av fett- och oljeavskiljare \| 232378 \| STÄTTARED 1:1 | TE-2025-00838 |
-
-<!-- sida 589 -->
-
-Sida
-3(4)
-
-[Tabell 589-1](handlingar.tabeller/589-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-10-08 | Yttrande Teknik - Konståkningstävling Kungsbacka Sportcenter | TE-2025-00892 |
 | 2025-10-16 | Yttrande Teknik - ny avloppsanläggning - ROSSARED 5:23, MH-2025-2439 | TE-2025-00931 |
 | 2025-10-28 | Yttrande Teknik - planering av VA och drift, bredband, belysning, avfallshantering, KUNGSBACKA 6:27, BN 2025-001747 | TE-2025-00929 |
@@ -20085,21 +20381,26 @@ Sida
 | 2025-10-23 | Yttrande Teknik - Anslutning till kommunala ledningar, bredbandsnät, utformning av gång- och cykelbana, pågående<br>förrättningsarbete för VA, Hammerö 10:7, BN 2025-000214 | TE-2025-00879 |
 | 2025-10-03 | Yttrande Teknik - förutsättningar för slamsugning, Havredal 1:5, MH-2025-2366 | TE-2025-00874 |
 | 2025-10-02 | Yttrande Teknik - Enskild avloppsanläggning, SLÄPS-HAGEN 1:112, MH-2025-3077 | TE-2025-00869 |
-
-<!-- sida 590 -->
-
-Sida
-4(4)
-
-[Tabell 590-1](handlingar.tabeller/590-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-10-02 | Yttrande Teknik - Trafiksäkerhetsbedömning | TE-2025-00857 |
 | 2025-10-02 | Yttrande Teknik - uppsättning av skyltar och om dessa påverkar sikten och utgör trafikfara, KUNGSBACKA 2:1, BN 2025-<br>001715 | TE-2025-00842 |
 | 2025-10-31 | Yttrande Teknik - påverkan på trafik samt om parkeringsredovisning bedöms uppfylla kraven, Tölö 8:21, BN 2025-001711 | TE-2025-00824 |
 | 2025-10-02 | Yttrande Teknik - Samråd, detaljplan för bostäder inom Kungsbacka 6:8 i Kungsbacka stad, BN 2023-00038 | TE-2025-00809 |
 | 2025-10-06 | Yttrande Teknik - Rivning och nybyggnad av toalett samt VA-anslutning, Vallda 1:1, BN 2024-001538 | TE-2024-01064 |
+
+<!-- sida 588 -->
+
+Sida
+2(4)
+
+<!-- sida 589 -->
+
+Sida
+3(4)
+
+<!-- sida 590 -->
+
+Sida
+4(4)
 
 <!-- sida 591 -->
 
@@ -20167,18 +20468,56 @@ KUNGSBACKA KOMMUN                                           2 (4)
 
 KUNGSBACKA KOMMUN                                           3 (4)
 
-[Tabell 593-1](handlingar.tabeller/593-1.csv)
+Punkt i
+delegeringsord       Ansvarig   Delegeringens
+ning       Lagrum    Delegat    omfattning    Taget beslut och datum för beslutet
+1999:3 49 § 81 EC Anläggning kommunen är
+§ (a-e)   & Utveckling huvudman och vid
+Ordningslagen Samordnare behov kräva säkerhet
+3 kap. 4 § Plan      för beräknade
+och Bygglagen        kostnader för
+6 Kap. 21            återställande av
+kommunens
+anläggningar
+4.15       Vägmärkesför VC Trafik & Godkännande av 31 st beslut om enbart
+ord ningen SFS Utemiljö trafikanordningsplan trafikanordningsplan
+2007:90 AFS EC drift Gata
+1999:3 49 § 81 EC Anläggning
+§ (a-e)   & Utveckling
+Ordningslagen Samordnare
 
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-|  | 1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen<br>3 kap. 4 § Plan<br>och Bygglagen<br>6 Kap. 21 | EC Anläggning<br>& Utveckling<br>Samordnare | kommunen är<br>huvudman och vid<br>behov kräva säkerhet<br>för beräknade<br>kostnader för<br>återställande av<br>kommunens<br>anläggningar |  |
-| 4.15 | Vägmärkesför<br>ord ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen<br>3 kap. 4 § | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning<br>& Utveckling<br>Samordnare | Godkännande av<br>trafikanordningsplan | 31 st beslut om enbart<br>trafikanordningsplan |
-| 4.16 | 13 kap. och 8<br>§<br>trafikförordnin<br>gen<br>(1998:1276) | Färdtjänstutre<br>dare | Beslut om<br>parkeringstillstånd för<br>rörelsehindrade | Beslut om parkeringstillstånd för<br>rörelsehindrad<br>Beviljade: 31<br>Avslagna: 5 |
-| 4.17 | Ordningslagen<br>(1993:1617) 2<br>kap | VC Trafik &<br>Utemiljö<br>EC Anläggning<br>& Utveckling<br>Samordnare | Yttrande till polisen<br>avseende begagnade<br>av offentlig plats | Se separat bilaga för Yttranden från<br>Teknik. |
-| 5.1 | 6–9 §§ lag<br>(1997:736) om<br>färdtjänst | Färdtjänstutre<br>dare<br>EC Kansli | Beslut om tillstånd till<br>färdtjänst med<br>regelkompletteringar | Beslut om färdtjänst<br>Beviljade: 99<br>Avslagna: 1 |
-| 5.3 | 4–7 §§ lag<br>(1997:735) om<br>riksfärdtjänst | Färdtjänstutre<br>dare<br>EC Kansli | Beslut om tillstånd till<br>riksfärdtjänst | Beslut om tillstånd till riksfärdtjänst<br>Beviljade: 21<br>Avslagna: 0 |
-| 6.5 | Kommunens<br>VA-taxa | VC Vatten<br>Avfall<br>Bredband | Besluta i ärenden om<br>tillämpning av taxa<br>samt allmänna<br>bestämmelser för<br>brukande av<br>kommunens allmänna<br>vatten- och<br>avloppsanläggning | 1 beslut om tillämpning av taxa samt<br>allmänna bestämmelser för brukande<br>av kommunens allmänna vatten- och<br>avloppsanläggning – för<br>fastighetsägare i Lerberg Alafors och<br>Lunden som omfattas av VA-<br>utbyggnadsområde – 2025-10-08 - TE-<br>2025-01034 |
-| 8.3 | 37§ Lokala<br>avfallsföreskrif<br>ter för | Anette<br>Englund,<br>administratör | Besluta om<br>godkännande av | 251024, 2 st<br>251027, 1 st<br>251028, 1 st |
+3 kap. 4 §
+4.16       13 kap. och 8 Färdtjänstutre Beslut om Beslut om parkeringstillstånd för
+§         dare       parkeringstillstånd för rörelsehindrad
+trafikförordnin
+rörelsehindrade Beviljade: 31
+gen
+Avslagna: 5
+(1998:1276)
+4.17       Ordningslagen VC Trafik & Yttrande till polisen Se separat bilaga för Yttranden från
+(1993:1617) 2 Utemiljö avseende begagnade Teknik.
+kap       EC Anläggning av offentlig plats
+& Utveckling
+Samordnare
+5.1        6–9 §§ lag Färdtjänstutre Beslut om tillstånd till Beslut om färdtjänst
+(1997:736) om dare   färdtjänst med Beviljade: 99
+färdtjänst EC Kansli
+regelkompletteringar Avslagna: 1
+5.3        4–7 §§ lag Färdtjänstutre Beslut om tillstånd till Beslut om tillstånd till riksfärdtjänst
+(1997:735) om dare   riksfärdtjänst Beviljade: 21
+riksfärdtjänst EC Kansli
+Avslagna: 0
+6.5        Kommunens VC Vatten  Besluta i ärenden om 1 beslut om tillämpning av taxa samt
+VA-taxa   Avfall     tillämpning av taxa allmänna bestämmelser för brukande
+Bredband   samt allmänna av kommunens allmänna vatten- och
+bestämmelser för avloppsanläggning – för
+brukande av   fastighetsägare i Lerberg Alafors och
+kommunens allmänna Lunden som omfattas av VA-
+vatten- och   utbyggnadsområde – 2025-10-08 - TE-
+avloppsanläggning 2025-01034
+8.3        37§ Lokala Anette    Besluta om    251024, 2 st
+avfallsföreskrif Englund, godkännande av 251027, 1 st
+ter för   administratör            251028, 1 st
 
 <!-- sida 594 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7607344a19d24be2a5e38c38/1774600895
 sha256: 7cbfddf43a40c54ce0ce0f77d5f9ec3697638e9cbd5136c3b0a6a1f6b2cfd752
 bytes: 319082
 sidor: 14
-hamtad: 2026-10-08T02:01:37+00:00
-konverterad: 2026-10-08T02:01:44+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:41:44+00:00
+konverterad: 2026-10-14T09:41:50+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -488,13 +488,19 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 11-1](protokoll.tabeller/11-1.csv)
+[Tabell 11-12-1](protokoll.tabeller/11-12-1.csv)
 
 | Ärende/ärendegrupp<br>enligt<br>delegationslistan | Beslut, insats samt<br>ev. omfattning | Beslutsfattare | Beslutsdatum | Dnr |
 | --- | --- | --- | --- | --- |
 | 2.1.16 | Underteckna<br>bidragsansökningar | Annika<br>Åkerlund<br>VC | 2026-02-04 | SE-2026-00060 |
 | 2.1.6<br>Dataskydds-<br>förordningen<br>GDPR, artikel 28 | Teckna personuppgifts-<br>biträdesavtal | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-02-05 | AVTAL-<br>2026-00005 |
 | 2.1.2 b<br>OSL 6 kap 3-6 §§<br>OSL 5 kap 5 § | Utlämnande av allmän<br>handling med förbehåll<br>eller att inte lämna ut en<br>allmän handling.<br>Beslut om<br>sekretessmarkering. | Linda<br>Josefsson<br>EC Inköp | 2026-02-06 | SE-2026-00083 |
+| 2.1.7<br>Dataskydds-<br>förordningen<br>GDPR, artikel 28<br>Hantering av<br>personuppgifter,<br>Riktlinjer | Ingå personuppgifts-<br>biträdesavtal för<br>kommungemensamma<br>digitala tjänster och<br>system. | Anders<br>Johansson<br>Bitr. Kdir. | 2026-03-02 | SE-2026-00118 |
+| 2.2.15<br>Försäljning av<br>material. | Över ett prisbasbelopp<br>samt upp till ett<br>prisbasbelopp. | Johan Axelsson<br>EC Fordon | 2026-03-04 | SE-2026-00107 |
+| 2.2.15<br>Försäljning av<br>material. | Över ett prisbasbelopp<br>samt upp till ett<br>prisbasbelopp. | Johan Burman<br>Bitr. FC | 2026-03-04 | SE-2026-00113 |
+| 2.1.5<br>GDPR art. 15-21, 23<br>och Dataskyddslagen<br>5 kap 1-3 §§ | Helt eller delvis avslå<br>framställan om begäran<br>av utövande av<br>registrerads rättigheter. | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-03-05 | SE-2026-00070 |
+| 2.1.11<br>Dataskyddsförordning<br>en GDPR artikel 35 | Beslut med anledning<br>av konsekvens-<br>bedömning avseende<br>dataskydd. | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-03-11 | SE-2025-00465 |
+| 2.1.10<br>Dataskydds-<br>förordningen GDPR<br>artikel 33 och 34, | Hantering av<br>personuppgiftsincident. | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-03-11 | SE-2026-00066 |
 
 <!-- sida 12 -->
 
@@ -517,16 +523,6 @@ säga förvaltningen för Service förslag, och att nämnden för Service bifall
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 12-1](protokoll.tabeller/12-1.csv)
-
-| 2.1.7<br>Dataskydds-<br>förordningen<br>GDPR, artikel 28<br>Hantering av<br>personuppgifter,<br>Riktlinjer | Ingå personuppgifts-<br>biträdesavtal för<br>kommungemensamma<br>digitala tjänster och<br>system. | Anders<br>Johansson<br>Bitr. Kdir. | 2026-03-02 | SE-2026-00118 |
-| --- | --- | --- | --- | --- |
-| 2.2.15<br>Försäljning av<br>material. | Över ett prisbasbelopp<br>samt upp till ett<br>prisbasbelopp. | Johan Axelsson<br>EC Fordon | 2026-03-04 | SE-2026-00107 |
-| 2.2.15<br>Försäljning av<br>material. | Över ett prisbasbelopp<br>samt upp till ett<br>prisbasbelopp. | Johan Burman<br>Bitr. FC | 2026-03-04 | SE-2026-00113 |
-| 2.1.5<br>GDPR art. 15-21, 23<br>och Dataskyddslagen<br>5 kap 1-3 §§ | Helt eller delvis avslå<br>framställan om begäran<br>av utövande av<br>registrerads rättigheter. | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-03-05 | SE-2026-00070 |
-| 2.1.11<br>Dataskyddsförordning<br>en GDPR artikel 35 | Beslut med anledning<br>av konsekvens-<br>bedömning avseende<br>dataskydd. | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-03-11 | SE-2025-00465 |
-| 2.1.10<br>Dataskydds-<br>förordningen GDPR<br>artikel 33 och 34, | Hantering av<br>personuppgiftsincident. | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-03-11 | SE-2026-00066 |
 
 <!-- sida 13 -->
 

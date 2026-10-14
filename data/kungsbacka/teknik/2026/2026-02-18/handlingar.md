@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4dbd19e519c47bd57e654e57/1770969052
 sha256: b4df77ccd1793a66a5f03b3dae9bd9ae51d53a1ddb4745f7e07e44b75ee76c54
 bytes: 44998633
 sidor: 312
-hamtad: 2026-10-08T01:27:12+00:00
-konverterad: 2026-10-08T01:34:03+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T09:12:41+00:00
+konverterad: 2026-10-14T09:17:27+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok]
 tal_obekraftade: [81, 137, 138, 145, 289, 290, 291]
-figurer: null
-tolkade: null
+figurer: [91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 126, 131, 158, 159, 162, 163, 165, 166, 167, 168, 170, 172, 173, 174, 175, 176, 177, 178, 179, 180, 182, 184, 185, 186, 188, 189, 191, 193, 194, 195, 197, 198, 212, 213, 219, 226, 227, 228, 230, 232, 235, 236, 237, 238, 240, 242, 243, 244, 247, 248, 249, 250, 251, 253, 254, 255, 256, 257, 260, 261, 262, 263, 266, 267, 268, 272, 274, 275, 288, 289, 290, 291, 292]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -250,12 +250,13 @@ Investeringar Kungsbacka bredbandsnät, miljoner kronor
 | Utgifter | -2,7 | -2,0 | -0,9 |
 | Netto | -2,7 | -2,0 | -0,9 |
 
-[Tabell 5-2](handlingar.tabeller/5-2.csv)
+[Tabell 5-6-2](handlingar.tabeller/5-6-2.csv)
 
 |  | Utfall 2023 | Utfall 2024 | Utfall 2025 |
 | --- | --- | --- | --- |
 | Inkomster | 8,3 | 4,8 | 5,0 |
 | Utgifter | -43,4 | -39,9 | -22,4 |
+| Netto | -35,1 | -35,1 | -17,4 |
 
 <!-- sida 6 -->
 
@@ -313,12 +314,6 @@ och arbetssätt, ett led i att stärka säkerhet, kostnadskontroll och affärsm�
 verksamheten fortsatt har en negativ ekonomisk utveckling.
 
 5
-
-[Tabell 6-1](handlingar.tabeller/6-1.csv)
-
-|  | Utfall 2023 | Utfall 2024 | Utfall 2025 |
-| --- | --- | --- | --- |
-| Netto | -35,1 | -35,1 | -17,4 |
 
 <!-- sida 7 -->
 
@@ -1354,12 +1349,15 @@ Nämndens årsredovisning 2025
 
 26
 
-[Tabell 27-1](handlingar.tabeller/27-1.csv)
+[Tabell 27-29-1](handlingar.tabeller/27-29-1.csv)
 
 | Område | Status Beskrivning Kommentar |
 | --- | --- |
 |  | När snön faller är det<br>kommunens ansvar att snöröja<br>och halkbekämpa de kommunala<br>vägarna. Vi prioriterar snöröjning<br>för kollektivtrafikens<br>framkomlighet tillsammans med<br>framkomlighet för gående- och<br>cyklister högst. Övriga trafikslag<br>prioriteras därefter, uppställt blir<br>prioriteringen enligt följande:<br>Prioritet I:<br>Resecentrum<br>Gång- och cykelvägar samt<br>busshållplatser.<br>Plogning och flisning inom åtta<br>timmar från att snöfallet upphört<br>eller att kommunen kallat ut för<br>snöröjning.<br>Prioritet II:<br>Huvudvägnätet. Plogning och<br>flisning inom tio timmar från att<br>snöfallet upphört eller att<br>kommunen kallat ut för<br>snöröjning.<br>Prioritet III:<br>Lokalgator. Plogning och flisning<br>inom ett dygn från att snöfallet<br>upphör eller att kommunen kallat<br>ut för snöröjning. |
 |  | Vi lovar att all form av klotter som<br>uppstår på plats eller egendom<br>som Teknik ansvarar för saneras<br>så fort som möjligt. Budskap som<br>är av stötande karaktär saneras<br>senast inom 48 timmar om<br>yttertemperatur och väder tillåter.<br>Övrigt klotter saneras senast<br>inom en vecka om<br>yttertemperatur och väder tillåter.<br>Vi polisanmäler allt klotter. Vi<br>samarbetar med polisen och<br>arbetar för ökad samverkan inom<br>klotterbekämpning med övriga<br>parter. |
+|  | Vi kontrollerar kommunala<br>lekplatser på allmän platsmark<br>regelbundet och en årlig<br>besiktning genomförs. Vi<br>reparerar fel och brister enligt<br>klassificeringen av<br>besiktningsanmärkningarna,<br>allvarliga fel (A-fel) åtgärdas<br>omgående samt fel med mindre<br>risk för skada (B-fel) så snart som<br>möjligt. |
+| Vatten & avlopp | Vi lovar:<br>- Att ge dig information på<br>kommunens hemsida senast<br>inom tre timmar vid vattenläckor<br>som berör mer än 20 hushåll,<br>samt informera via sms om färre<br>än 20 hushåll berörs.<br>- Att det finns möjlighet att hämta<br>vatten vid det drabbade området<br>inom fyra timmar, om läckan inte<br>är lagad innan dess.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Kontrollera vår hemsida innan<br>du ringer för att rapportera att du<br>saknar vatten.<br>- Notera att när vattnet<br>återkommer efter en läcka kan<br>det vara grumligt och/eller vitt.<br>Det beror på avlagringar som<br>släpper inifrån rören och på<br>luftbubblor. Det är ofarligt och går<br>över, men vänta med att tvätta<br>vittvätt.<br>- Ha några större dunkar hemma<br>för att kunna hämta vatten som vi<br>ställer ut i tankar vid längre<br>avbrott. |
+|  | Vi lovar:<br>- Att alltid leverera bra<br>dricksvatten med god kvalitet,<br>vilket vi ser till genom<br>provtagning och kontroller.<br>- Att förbättra kontrollen genom<br>ny teknik.<br>- Att leverera dricksvatten som<br>räcker för hushållens normala<br>behov.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Spara på vatten, särskilt när vi<br>går ut med uppmaningar om<br>detta.<br>- Ta till dig våra smarta vattentips,<br>till exempel skaffar en<br>regntunna för bevattning i<br>trädgården.<br>- Ha vatten hemma för att kunna<br>klara dig 72 timmar vid en kris.<br>Se gärna krisinformation.se för<br>att lära dig mer om hur mycket<br>vatten, och andra saker, som du<br>kan behöva hemma vid en kris! |
 
 <!-- sida 28 -->
 
@@ -1368,25 +1366,12 @@ Nämndens årsredovisning 2025
 
 27
 
-[Tabell 28-1](handlingar.tabeller/28-1.csv)
-
-| Område | Status Beskrivning Kommentar |
-| --- | --- |
-|  | Vi kontrollerar kommunala<br>lekplatser på allmän platsmark<br>regelbundet och en årlig<br>besiktning genomförs. Vi<br>reparerar fel och brister enligt<br>klassificeringen av<br>besiktningsanmärkningarna,<br>allvarliga fel (A-fel) åtgärdas<br>omgående samt fel med mindre<br>risk för skada (B-fel) så snart som<br>möjligt. |
-| Vatten & avlopp | Vi lovar:<br>- Att ge dig information på<br>kommunens hemsida senast<br>inom tre timmar vid vattenläckor<br>som berör mer än 20 hushåll,<br>samt informera via sms om färre<br>än 20 hushåll berörs.<br>- Att det finns möjlighet att hämta<br>vatten vid det drabbade området<br>inom fyra timmar, om läckan inte<br>är lagad innan dess.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Kontrollera vår hemsida innan<br>du ringer för att rapportera att du<br>saknar vatten.<br>- Notera att när vattnet<br>återkommer efter en läcka kan<br>det vara grumligt och/eller vitt.<br>Det beror på avlagringar som<br>släpper inifrån rören och på<br>luftbubblor. Det är ofarligt och går<br>över, men vänta med att tvätta<br>vittvätt.<br>- Ha några större dunkar hemma<br>för att kunna hämta vatten som vi<br>ställer ut i tankar vid längre<br>avbrott. |
-
 <!-- sida 29 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Nämndens årsredovisning 2025
 
 28
-
-[Tabell 29-1](handlingar.tabeller/29-1.csv)
-
-| Område | Status Beskrivning Kommentar |
-| --- | --- |
-|  | Vi lovar:<br>- Att alltid leverera bra<br>dricksvatten med god kvalitet,<br>vilket vi ser till genom<br>provtagning och kontroller.<br>- Att förbättra kontrollen genom<br>ny teknik.<br>- Att leverera dricksvatten som<br>räcker för hushållens normala<br>behov.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Spara på vatten, särskilt när vi<br>går ut med uppmaningar om<br>detta.<br>- Ta till dig våra smarta vattentips,<br>till exempel skaffar en<br>regntunna för bevattning i<br>trädgården.<br>- Ha vatten hemma för att kunna<br>klara dig 72 timmar vid en kris.<br>Se gärna krisinformation.se för<br>att lära dig mer om hur mycket<br>vatten, och andra saker, som du<br>kan behöva hemma vid en kris! |
 
 <!-- sida 30 -->
 
@@ -1395,12 +1380,15 @@ Nämndens årsredovisning 2025
 
 29
 
-[Tabell 30-1](handlingar.tabeller/30-1.csv)
+[Tabell 30-31-1](handlingar.tabeller/30-31-1.csv)
 
 | Område | Status Beskrivning Kommentar |
 | --- | --- |
 |  | Vi lovar:<br>- Att allt slam som blir kvar när vi<br>renat vårt avloppsvatten återgår<br>till jordbruket där det bidrar till att<br>återföra fosfor och producera nya<br>grödor.<br>- Att vårt slam uppfyller nationella<br>krav för vilka halter av<br>olika ämnen som får finnas i det.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Sluta fulspola! Bara spolar ner<br>bajs, kiss och toapapper i<br>toaletten.<br>- Slänga allt annat, till exempel<br>våtservetter, tops, bindor, snus<br>och fimpar i soppåsen för<br>brännbart avfall<br>- Skaffa en papperskorg i<br>badrummet så att skräp inte<br>hamnar i toaletten.<br>- Lämna gamla mediciner på ett<br>apotek. |
 | Avfall &<br>Återvinning | Vi lovar:<br>- Att tömma sopkärlen hos dig<br>enligt hämtschemat.<br>- Att om tömningen blir försenad<br>informera via hemsidan och<br>avfallsappen.<br>- Att vi tömmer senast dagen<br>efter att vi fått in anmälan om<br>missad hämtning.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Ställa ut dina kärl på rätt dag<br>och att det är lättillgängligt även<br>vid snö och halka.<br>- Vända kärlen med handtagen ut<br>mot vägen för en god arbetsmiljö<br>för de som tömmer. |
+|  | Vi lovar:<br>- Att ta hand om ditt avfall på ett<br>miljöriktigt och ansvarsfullt sätt så<br>att det behandlas på godkända<br>anläggningar för att bli till biogas,<br>materialåtervinnas,<br>energiåtervinnas eller i sista hand<br>deponeras.<br>- Att ge dig information om hur du<br>ska sortera ditt avfall, exempelvis<br>via utskick, hemsidan,<br>avfallsappen och personal på<br>återvinningscentralerna.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Sortera ditt avfall enligt gällande<br>regler.<br>- Förlänga livslängden på dina<br>prylar så vi tillsammans kan<br>minska mängden avfall.<br>- Lämna det som någon annan<br>kan få nytta av till återbruk,<br>istället för att slänga i soporna. |
+| Kungsbacka<br>Bredbandsnät | Vi lovar en snabb felavhjälpning<br>för teleoperatörer och storkunder.<br>På det sättet hjälper vi<br>Kungsbackas invånare att ha<br>tillgång till ett stabilt och<br>fungerande nät. |
+| Kund &<br>Kommunikation | Vi lovar:<br>- Att när du kontaktar oss på<br>Teknik ger vi dig ett gott<br>bemötande och återkoppling<br>inom två arbetsdagar samt svar<br>inom tio arbetsdagar.<br>- Att vi håller kontakten tills ditt<br>ärende är avslutat.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Använda anvisade<br>kontaktvägar. |
 
 <!-- sida 31 -->
 
@@ -1408,14 +1396,6 @@ Nämnden för Teknik                               Kungsbacka kommun
 Nämndens årsredovisning 2025
 
 30
-
-[Tabell 31-1](handlingar.tabeller/31-1.csv)
-
-| Område | Status Beskrivning Kommentar |
-| --- | --- |
-|  | Vi lovar:<br>- Att ta hand om ditt avfall på ett<br>miljöriktigt och ansvarsfullt sätt så<br>att det behandlas på godkända<br>anläggningar för att bli till biogas,<br>materialåtervinnas,<br>energiåtervinnas eller i sista hand<br>deponeras.<br>- Att ge dig information om hur du<br>ska sortera ditt avfall, exempelvis<br>via utskick, hemsidan,<br>avfallsappen och personal på<br>återvinningscentralerna.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Sortera ditt avfall enligt gällande<br>regler.<br>- Förlänga livslängden på dina<br>prylar så vi tillsammans kan<br>minska mängden avfall.<br>- Lämna det som någon annan<br>kan få nytta av till återbruk,<br>istället för att slänga i soporna. |
-| Kungsbacka<br>Bredbandsnät | Vi lovar en snabb felavhjälpning<br>för teleoperatörer och storkunder.<br>På det sättet hjälper vi<br>Kungsbackas invånare att ha<br>tillgång till ett stabilt och<br>fungerande nät. |
-| Kund &<br>Kommunikation | Vi lovar:<br>- Att när du kontaktar oss på<br>Teknik ger vi dig ett gott<br>bemötande och återkoppling<br>inom två arbetsdagar samt svar<br>inom tio arbetsdagar.<br>- Att vi håller kontakten tills ditt<br>ärende är avslutat.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Använda anvisade<br>kontaktvägar. |
 
 <!-- sida 32 -->
 
@@ -1873,7 +1853,7 @@ Balansräkning
 | Bokslutsdisposition |  | 10,3 | 0,0 | -5,5 | -5,5 |
 | Resultat |  | 0,0 | 0,0 | 0,0 | 0,0 |
 
-[Tabell 40-2](handlingar.tabeller/40-2.csv)
+[Tabell 40-41-2](handlingar.tabeller/40-41-2.csv)
 
 |  | Not | År 2024 | År 2025 |
 | --- | --- | --- | --- |
@@ -1891,6 +1871,18 @@ Balansräkning
 | Summa<br>omsättningstillgångar | 3 | 67,0 | 105,0 |
 | Summa tillgångar |  | 2081,6 | 2573,8 |
 |  |  |  |  |
+| Eget kapital och<br>skulder |  |  |  |
+| Eget kapital | 4 |  |  |
+| Ingående eget kapital |  | 56,5 | 46,2 |
+| Årets resultat |  | -10,3 | 5,5 |
+| Utgående eget kapital |  | 46,2 | 51,7 |
+|  |  |  |  |
+| Skulder |  |  |  |
+| Långfristig skuld,<br>anslutningsavgifter |  | 563,8 | 620,6 |
+| Långfristig skuld,<br>kommunen |  | 1415,5 | 1812,9 |
+| Kortfristiga skulder | 5 | 56,1 | 88,6 |
+| Summa skulder |  | 2035,4 | 2522,1 |
+| Summa eget kapital<br>och skulder |  | 2081,6 | 2573,8 |
 
 <!-- sida 41 -->
 
@@ -1905,22 +1897,6 @@ Not 2
 
 [Tabell 41-1](handlingar.tabeller/41-1.csv)
 
-| Eget kapital och<br>skulder |  |  |  |
-| --- | --- | --- | --- |
-| Eget kapital | 4 |  |  |
-| Ingående eget kapital |  | 56,5 | 46,2 |
-| Årets resultat |  | -10,3 | 5,5 |
-| Utgående eget kapital |  | 46,2 | 51,7 |
-|  |  |  |  |
-| Skulder |  |  |  |
-| Långfristig skuld,<br>anslutningsavgifter |  | 563,8 | 620,6 |
-| Långfristig skuld,<br>kommunen |  | 1415,5 | 1812,9 |
-| Kortfristiga skulder | 5 | 56,1 | 88,6 |
-| Summa skulder |  | 2035,4 | 2522,1 |
-| Summa eget kapital<br>och skulder |  | 2081,6 | 2573,8 |
-
-[Tabell 41-2](handlingar.tabeller/41-2.csv)
-
 | Verksamhetens intäkter | År 2024 | År 2025 |
 | --- | --- | --- |
 | Brukningsavgifter | 184,4 | 219,4 |
@@ -1928,7 +1904,7 @@ Not 2
 | Periodiserad inkomst och ränta | 33,2 | 35,0 |
 | Summa verksamhetens intäkter | 224,1 | 260,5 |
 
-[Tabell 41-3](handlingar.tabeller/41-3.csv)
+[Tabell 41-42-2](handlingar.tabeller/41-42-2.csv)
 
 | Materiella anläggningstillgångar | År 2024 | År 2025 |
 | --- | --- | --- |
@@ -1943,6 +1919,14 @@ Not 2
 | Nyanskaffning | 1,4 | 0,8 |
 | Årets avskrivningar | -1,8 | -1,6 |
 | Utgående bokfört värde | 5,8 | 5,0 |
+|  |  |  |
+| Pågående investeringar |  |  |
+| Ingående bokfört värde | 98,7 | 214,9 |
+| Nyanskaffning | 116,2 | 107,4 |
+| Årets avskrivningar | 0 | 0 |
+| Utgående bokfört värde | 214,9 | 322,3 |
+|  |  |  |
+| Summa materiella<br>anläggningstillgångar | 2014,6 | 2468,8 |
 
 <!-- sida 42 -->
 
@@ -1962,18 +1946,6 @@ Not 5
 
 [Tabell 42-1](handlingar.tabeller/42-1.csv)
 
-|  |  |  |
-| --- | --- | --- |
-| Pågående investeringar |  |  |
-| Ingående bokfört värde | 98,7 | 214,9 |
-| Nyanskaffning | 116,2 | 107,4 |
-| Årets avskrivningar | 0 | 0 |
-| Utgående bokfört värde | 214,9 | 322,3 |
-|  |  |  |
-| Summa materiella<br>anläggningstillgångar | 2014,6 | 2468,8 |
-
-[Tabell 42-2](handlingar.tabeller/42-2.csv)
-
 | Kortfristiga fordringar | År 2024 | År 2025 |
 | --- | --- | --- |
 | Kundfordringar | 37,9 | 52,4 |
@@ -1981,7 +1953,7 @@ Not 5
 | Kortfristiga fordringar | 28,7 | 50,6 |
 | Summa kortfristiga fordringar | 67,0 | 105,0 |
 
-[Tabell 42-3](handlingar.tabeller/42-3.csv)
+[Tabell 42-2](handlingar.tabeller/42-2.csv)
 
 | Eget kapital | År 2024 | År 2025 |
 | --- | --- | --- |
@@ -1994,7 +1966,7 @@ Not 5
 | Utgående skuld till abonnent | 0,8 | 6,3 |
 | Summa eget kapital | 46,2 | 51,7 |
 
-[Tabell 42-4](handlingar.tabeller/42-4.csv)
+[Tabell 42-3](handlingar.tabeller/42-3.csv)
 
 | Kortfristiga skulder | År 2024 | År 2025 |
 | --- | --- | --- |
@@ -2424,7 +2396,7 @@ Uppföljning investeringar mkr
 | Utgifter | -378,2 | -660,3 | -540,7 | 119,6 |
 | Netto | -416,7 | -708,2 | -536,6 | 171,6 |
 
-[Tabell 50-2](handlingar.tabeller/50-2.csv)
+[Tabell 50-51-2](handlingar.tabeller/50-51-2.csv)
 
 | Miljoner kronor | Bokslut 2024 | Budget 2025 | Bokslut 2025 | Avvikelse 2025 |
 | --- | --- | --- | --- | --- |
@@ -2434,6 +2406,13 @@ Uppföljning investeringar mkr
 | Övriga investeringar |  |  |  |  |
 | Inkomster | 2,9 | 1,7 | 2,5 | 0,8 |
 | Utgifter | -10,6 | -19,1 | -20,4 | -1,3 |
+| Reinvesteringar |  |  |  |  |
+| Inkomster | 0,0 | 0,4 | 0,5 | 0,1 |
+| Utgifter | -41,7 | -25,4 | -24,4 | 1,0 |
+| Exploatering |  |  |  |  |
+| Inkomster | 0,5 | 0,0 | 0,0 | 0,0 |
+| Utgifter | -29,5 | -81,5 | -32,7 | 48,8 |
+| Netto | -81,1 | -128,9 | -78,4 | 50,5 |
 
 <!-- sida 51 -->
 
@@ -2460,17 +2439,6 @@ Verksamheten har en god upparbetningstakt om 82% av investeringsbudgeten på VA.
 
 [Tabell 51-1](handlingar.tabeller/51-1.csv)
 
-| Reinvesteringar |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Inkomster | 0,0 | 0,4 | 0,5 | 0,1 |
-| Utgifter | -41,7 | -25,4 | -24,4 | 1,0 |
-| Exploatering |  |  |  |  |
-| Inkomster | 0,5 | 0,0 | 0,0 | 0,0 |
-| Utgifter | -29,5 | -81,5 | -32,7 | 48,8 |
-| Netto | -81,1 | -128,9 | -78,4 | 50,5 |
-
-[Tabell 51-2](handlingar.tabeller/51-2.csv)
-
 | Projnr | Text | Totalbud<br>get | Totalprogno<br>s | Utfall<br>totalt tom<br>dec 2025 | Budget<br>2025 | Bokslut<br>2025 | Avvikelse<br>2025 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3510 | GC-bro över<br>järnvägen vid<br>Inlag, inkomst | 17,5 | 17,5 | 0,0 | 0,0 | 0,0 | 0,0 |
@@ -2478,7 +2446,7 @@ Verksamheten har en god upparbetningstakt om 82% av investeringsbudgeten på VA.
 | 6545 | Varlavägen fyra<br>körfält, delen<br>Arendalsleden<br>- Stora<br>Bäcksleden | -86,5 | -86,5 | -0,5 | -0,5 | -0,5 | 0,0 |
 | Summa projekt |  | -121,5 | -121,5 | -15,5 | -8,3 | -8,1 | 0,2 |
 
-[Tabell 51-3](handlingar.tabeller/51-3.csv)
+[Tabell 51-2](handlingar.tabeller/51-2.csv)
 
 |  | Bokslut<br>2024 | Budget<br>2025 | Bokslut<br>2025 | Avvikelse<br>2025 |
 | --- | --- | --- | --- | --- |
@@ -2559,7 +2527,7 @@ Specifikation projekt över 30 miljoner kronor
 
 52
 
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
+[Tabell 53-54-1](handlingar.tabeller/53-54-1.csv)
 
 | Projnr | Text | Totalbud<br>get | Totalprogno<br>s | Utfall<br>totalt tom<br>dec 2025 | Budget<br>2025 | Bokslut<br>2025 | Avvikelse<br>2025 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2575,6 +2543,11 @@ Specifikation projekt över 30 miljoner kronor
 | 550 P | Fjärås VV<br>Hammerö<br>uppdim et 2 UT | -47,2 | -47,2 | -40,0 | -45,0 | -37,8 | 7,2 |
 | 5507 | Åtgärder<br>reservatten<br>GBG-KBA | -297,0 | -297,0 | -8,8 | -13,9 | -3,5 | 10,4 |
 | 5560 | VOMV VA-<br>utbyggnad<br>Släps-Högås IN | 37,0 | 37,0 | 0,0 | 0,0 | 0,0 | 0,0 |
+| 5560 | VOMV VA-<br>utbyggnad<br>Släps-Högås UT | -105,9 | -105,9 | -5,5 | -3,4 | -1,5 | 1,9 |
+| 5565 | VOMV VA-<br>utbyggnad<br>Hagryd Dala IN | 53,5 | 53,5 | 3,5 | 2,0 | 1,2 | -0,8 |
+| 5565 | VOMV VA-<br>utbyggnad<br>Hagryd Dala UT | -134,2 | -134,2 | -64,2 | -25,0 | 32,7 | 57,7 |
+| 7528 | FAR<br>investeringsproj<br>ekt UT | -1568,4 | -1568,4 | -160,4 | -197,8 | -160,2 | 37,6 |
+| Summa projekt |  | -3 309,0 | -3 309,0 | -523,4 | -438,1 | -314,8 | 123,3 |
 
 <!-- sida 54 -->
 
@@ -2613,15 +2586,6 @@ driftsäkerhet i samhällskritiska funktioner. Åtgärden minskar sårbarheten o
 53
 
 [Tabell 54-1](handlingar.tabeller/54-1.csv)
-
-| 5560 | VOMV VA-<br>utbyggnad<br>Släps-Högås UT | -105,9 | -105,9 | -5,5 | -3,4 | -1,5 | 1,9 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 5565 | VOMV VA-<br>utbyggnad<br>Hagryd Dala IN | 53,5 | 53,5 | 3,5 | 2,0 | 1,2 | -0,8 |
-| 5565 | VOMV VA-<br>utbyggnad<br>Hagryd Dala UT | -134,2 | -134,2 | -64,2 | -25,0 | 32,7 | 57,7 |
-| 7528 | FAR<br>investeringsproj<br>ekt UT | -1568,4 | -1568,4 | -160,4 | -197,8 | -160,2 | 37,6 |
-| Summa projekt |  | -3 309,0 | -3 309,0 | -523,4 | -438,1 | -314,8 | 123,3 |
-
-[Tabell 54-2](handlingar.tabeller/54-2.csv)
 
 |  | Bokslut<br>2024 | Budget<br>2025 | Bokslut<br>2025 | Avvikelse<br>2025 |
 | --- | --- | --- | --- | --- |
@@ -2880,7 +2844,7 @@ Balansräkning
 | Fordran/skuld till<br>abonnent | 0,8 | 5,5 | 6,3 |
 | VA investeringsfond | 45,4 | 0,0 | 45,4 |
 
-[Tabell 63-3](handlingar.tabeller/63-3.csv)
+[Tabell 63-64-3](handlingar.tabeller/63-64-3.csv)
 
 | Miljoner kronor | No<br>t | År 2024 | År 2025 |
 | --- | --- | --- | --- |
@@ -2894,22 +2858,7 @@ Balansräkning
 | Omsättningstillgångar |  |  |  |
 | Kundfordringar |  | 37,9 | 52,4 |
 | Interimsfordringar |  | 0,4 | 2 |
-
-<!-- sida 64 -->
-
-Nämnden för Teknik                               Kungsbacka kommun
-Särredovisning Teknik 2025
-
-Not 1
-
-Not 2
-
-4
-
-[Tabell 64-1](handlingar.tabeller/64-1.csv)
-
 | Kortfristiga fordringar |  | 28,7 | 50,6 |
-| --- | --- | --- | --- |
 | Summa omsättningstillgångar | 3 | 67,0 | 105,0 |
 | SUMMA TILLGÅNGAR |  | 2081,6 | 2573,8 |
 |  |  |  |  |
@@ -2926,7 +2875,18 @@ Not 2
 | Summa skulder |  | 2035,4 | 2522,1 |
 | SUMMA EGET KAPITAL OCH<br>SKULDER |  | 2081,6 | 2573,8 |
 
-[Tabell 64-2](handlingar.tabeller/64-2.csv)
+<!-- sida 64 -->
+
+Nämnden för Teknik                               Kungsbacka kommun
+Särredovisning Teknik 2025
+
+Not 1
+
+Not 2
+
+4
+
+[Tabell 64-1](handlingar.tabeller/64-1.csv)
 
 | Verksamhetens intäkter (mkr) | År 2024 | År 2025 |
 | --- | --- | --- |
@@ -2935,7 +2895,7 @@ Not 2
 | Periodiserad inkomst och ränta | 33,2 | 35,0 |
 | Summa verksamhetens intäkter | 224,1 | 260,5 |
 
-[Tabell 64-3](handlingar.tabeller/64-3.csv)
+[Tabell 64-65-2](handlingar.tabeller/64-65-2.csv)
 
 | Materiella anläggningstillgångar<br>(mkr) | Bokslut 2024 | Bokslut 2025 |
 | --- | --- | --- |
@@ -2948,6 +2908,16 @@ Not 2
 | Maskiner och inventarier |  |  |
 | Ingående bokfört värde | 6,2 | 5,8 |
 | Nyanskaffning | 1,4 | 0,8 |
+| Årets avskrivningar | -1,8 | -1,6 |
+| Utgående bokfört värde | 5,8 | 5,0 |
+|  |  |  |
+| Pågående investeringar |  |  |
+| Ingående bokfört värde | 98,7 | 214,9 |
+| Nyanskaffning | 116,2 | 107,4 |
+| Årets avskrivningar | 0,0 | 0,0 |
+| Utgående bokfört värde | 214,9 | 322,3 |
+|  |  |  |
+| Summa materiella<br>anläggningstillgångar | 2014,6 | 2468,8 |
 
 <!-- sida 65 -->
 
@@ -2967,20 +2937,6 @@ Not 5
 
 [Tabell 65-1](handlingar.tabeller/65-1.csv)
 
-| Årets avskrivningar | -1,8 | -1,6 |
-| --- | --- | --- |
-| Utgående bokfört värde | 5,8 | 5,0 |
-|  |  |  |
-| Pågående investeringar |  |  |
-| Ingående bokfört värde | 98,7 | 214,9 |
-| Nyanskaffning | 116,2 | 107,4 |
-| Årets avskrivningar | 0,0 | 0,0 |
-| Utgående bokfört värde | 214,9 | 322,3 |
-|  |  |  |
-| Summa materiella<br>anläggningstillgångar | 2014,6 | 2468,8 |
-
-[Tabell 65-2](handlingar.tabeller/65-2.csv)
-
 | Kortfristiga fordringar (mkr) | År 2024 | År 2025 |
 | --- | --- | --- |
 | Kundfordringar | 37,9 | 52,4 |
@@ -2988,7 +2944,7 @@ Not 5
 | Kortfristiga fordringar | 28,7 | 50,6 |
 | Summa fordringar | 67,0 | 105,0 |
 
-[Tabell 65-3](handlingar.tabeller/65-3.csv)
+[Tabell 65-2](handlingar.tabeller/65-2.csv)
 
 | Eget kapital | År 2024 | År 2025 |
 | --- | --- | --- |
@@ -3001,12 +2957,14 @@ Not 5
 | Utgående skuld till abonnent | 0,8 | 6,3 |
 | Summa eget kapital | 46,2 | 51,7 |
 
-[Tabell 65-4](handlingar.tabeller/65-4.csv)
+[Tabell 65-66-3](handlingar.tabeller/65-66-3.csv)
 
 | Kortfristiga skulder (mkr) | Bokslut 2024 | Bokslut 2025 |
 | --- | --- | --- |
 | Leverantörsskulder | 57,0 | 99,2 |
 | Moms och särskilda punktskatter | -2,1 | -12,5 |
+| Upplupna kostnader | 1,2 | 1,9 |
+| Summa kortfristiga skulder | 56,1 | 88,6 |
 
 <!-- sida 66 -->
 
@@ -3059,12 +3017,6 @@ Kapitalkostnaderna är 2,3 miljoner kronor högre än budget då investeringar h
 Förvaltningen arbetar för bättre bedömningar av tidpunkt för aktivering av projekt.
 
 6
-
-[Tabell 66-1](handlingar.tabeller/66-1.csv)
-
-| Upplupna kostnader | 1,2 | 1,9 |
-| --- | --- | --- |
-| Summa kortfristiga skulder | 56,1 | 88,6 |
 
 <!-- sida 67 -->
 
@@ -4910,6 +4862,19 @@ när skötseln av en kommunal angelägenhet har lämnats över till någon annan
 Med privata utförare avses utförare som har hand om skötseln av en kommunal angelägenhet (KL kap 10). Som
 privat utförare räknas inte hel- eller delägda kommunala bolag, eller stiftelse eller förening som bildats av
 kommunen eller regionen.
+Andel av        Kostnad för
+Verksamhet
+verksamhetsvolym % verksamhet mnkr
+Bokslut  Bokslut Bokslut Bokslut
+
+```osaker-tabell
+                                     2024     2025    2024    2025
+Teknik Skatt                         20 %     20 %     66 581 69 255
+
+Avfall och återvinning               80 %     74 %     92 335 96 760
+Kungsbacka bredbandsnät               2 %      1 %      691     589
+Vatten och Avlopp                     6 %      4 %     14 991 11 326
+```
 
 För 2025 avser siffrorna perioden 2024-11 till 2025-10 och för 2024 avser siffrorna perioden 2023-11 till 2024-
 10\.
@@ -4926,16 +4891,6 @@ tjänsten utförs gentemot avtal.
 Färdtjänst - på kommunens hemsida kan kommuninvånarna ta del av hur ansvaret för anpassad kollektivtrafik
 
 11
-
-[Tabell 131-1](handlingar.tabeller/131-1.csv)
-
-| Verksamhet<br>Teknik Skatt | Andel av<br>verksamhetsvolym %<br>Bokslut Bokslut<br>2024 2025<br>20 % 20 % |  | Kostnad för<br>verksamhet mnkr<br>Bokslut Bokslut<br>2024 2025<br>66 581 69 255 |  |
-| --- | --- | --- | --- | --- |
-| Avfall och återvinning | 80 % | 74 % | 92 335 | 96 760 |
-| Kungsbacka bredbandsnät | 2 % | 1 % | 691 | 589 |
-| Vatten och Avlopp | 6 % | 4 % | 14 991 | 11 326 |
-|  |  |  |  |  |
-|  |  |  |  |  |
 
 <!-- sida 132 -->
 
@@ -5074,7 +5029,7 @@ Nämndens självskattning
 
 15
 
-[Tabell 135-1](handlingar.tabeller/135-1.csv)
+[Tabell 135-136-1](handlingar.tabeller/135-136-1.csv)
 
 | Område<br>Uppdrag och mål | Frågor Svar 2025<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
 | --- | --- |
@@ -5087,18 +5042,7 @@ Nämndens självskattning
 |  | Ledningen informeras om fel och brister i<br>organisationen |
 |  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |
 |  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-
-<!-- sida 136 -->
-
-Nämnden för Teknik                               Kungsbacka kommun
-Internkontrollrapport 2025 -
-
-16
-
-[Tabell 136-1](handlingar.tabeller/136-1.csv)
-
 | Område<br>Riskanalys | Frågor Svar 2025<br>Riskanalysen kommuniceras med<br>nämnden |
-| --- | --- |
 |  | Riskanalysen är underlag för åtgärder och<br>granskningar |
 | Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
 |  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
@@ -5107,6 +5051,13 @@ Internkontrollrapport 2025 -
 |  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
 | Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
 |  | Vi har en fungerande introduktion av nya<br>medarbetare |
+
+<!-- sida 136 -->
+
+Nämnden för Teknik                               Kungsbacka kommun
+Internkontrollrapport 2025 -
+
+16
 
 <!-- sida 137 -->
 
@@ -9062,7 +9013,7 @@ Figur 4.5.
 
 | 22(69)
 
-[Tabell 240-1](handlingar.tabeller/240-1.csv)
+[Tabell 240-241-1](handlingar.tabeller/240-241-1.csv)
 
 | Nr | Objekt | Omfattas av<br>biotopskydd | Beskrivning och motivering |
 | --- | --- | --- | --- |
@@ -9070,6 +9021,14 @@ Figur 4.5.
 | 2 | Dike | nej | Dike som löper mellan en grusväg (Gustafs väg) och anslutande<br>höjdområde i öster, vars syfte är att avvattna vägen. Avskilt från<br>åkermarken. |
 | 3 | Stenröse | ja | Odlingsröse delvis omgivet av yngre träd och buskar som gränsar till<br>öppen jordbruksmark i väster och söder. |
 | 4 | Dike/<br>rätad bäck | ja | Dike/rätad bäck genom övervägande öppen åkermark på ömse sidor av<br>Almedalsvägen. |
+| 5 | Dike | ja | Dike som löper genom övervägande öppen åkermark i områdets östra del. |
+| 6 | Stenmur | ja | Bitvis raserad stenmur löper genom öppen åkermark i områdets östra del. |
+| 7 | Stenmur | ja | Bitvis raserad stenmur löper genom övervägande öppen åkermark i<br>områdets östra del. |
+| 8 | Dike och<br>stenmur | ja | Stenmur och dike som löper parallellt med varandra i områdets centrala<br>del. Gränsar mot öppen åkermark i öster och igenvuxen åkermark och ett<br>höjdområde i väster. Längs en del av sträckan saknas dike och stenmur. |
+| 9 | Dike | nej | Dike som löper genom övervägande öppen åkermark söder om<br>planområdet. Delvis kulverterat i anslutning till en gård. |
+| 10 | Dike och<br>stenmur | ja | Biotopskyddad stenmur och dike som löper parallellt med varandra i<br>områdets nordvästra del. Gränsar mot betesmark i väster och något<br>igenväxande åkermark i väster. |
+| 11 | Dike | nej | Dike som löper genom kraftigt igenvuxen åkermark som inte längre kan<br>anses vara aktivt odlad. |
+| 12 | Dike | nej | Dike som löper längs med Benders industrimark i väster och kraftigt<br>igenvuxen åkermark och ett skogbevuxet höjdområde i öster. Åkermarken<br>kan inte anses vara aktivt odlad längre. |
 
 <!-- sida 241 -->
 
@@ -9094,19 +9053,6 @@ Tabell 4.2. Inventeringsresultat.
 | 23(69)
 
 [Tabell 241-1](handlingar.tabeller/241-1.csv)
-
-| Nr | Objekt | Omfattas av<br>biotopskydd | Beskrivning och motivering |
-| --- | --- | --- | --- |
-| 5 | Dike | ja | Dike som löper genom övervägande öppen åkermark i områdets östra del. |
-| 6 | Stenmur | ja | Bitvis raserad stenmur löper genom öppen åkermark i områdets östra del. |
-| 7 | Stenmur | ja | Bitvis raserad stenmur löper genom övervägande öppen åkermark i<br>områdets östra del. |
-| 8 | Dike och<br>stenmur | ja | Stenmur och dike som löper parallellt med varandra i områdets centrala<br>del. Gränsar mot öppen åkermark i öster och igenvuxen åkermark och ett<br>höjdområde i väster. Längs en del av sträckan saknas dike och stenmur. |
-| 9 | Dike | nej | Dike som löper genom övervägande öppen åkermark söder om<br>planområdet. Delvis kulverterat i anslutning till en gård. |
-| 10 | Dike och<br>stenmur | ja | Biotopskyddad stenmur och dike som löper parallellt med varandra i<br>områdets nordvästra del. Gränsar mot betesmark i väster och något<br>igenväxande åkermark i väster. |
-| 11 | Dike | nej | Dike som löper genom kraftigt igenvuxen åkermark som inte längre kan<br>anses vara aktivt odlad. |
-| 12 | Dike | nej | Dike som löper längs med Benders industrimark i väster och kraftigt<br>igenvuxen åkermark och ett skogbevuxet höjdområde i öster. Åkermarken<br>kan inte anses vara aktivt odlad längre. |
-
-[Tabell 241-2](handlingar.tabeller/241-2.csv)
 
 | Datum | Damm vid centralt höjdområde | Damm i planområdets sydvästra hörn | Väderlek |
 | --- | --- | --- | --- |
@@ -11834,15 +11780,38 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 8
 
 <!-- sida 309 -->
 
+Ec Planering &
+Utformning
+Ec Anläggning
+& Utveckling
+Arbetsledare
+Trafik-
+samordnare
+Trafik-
+övervakare
+
+2.4.14 Vägmärkesförordningen SFS 2007:90 AFS Beslut om tillstånd att schakta i gator och vägar för vilka Fc 5 beslut.
+1999:3 49 § 81 § (a-e)    kommunen är huvudman och vid behov kräva säkerhet för TE-TA 2025-000489 2026-01-08
+Vc Trafik &
+beräknade kostnader för återställande av kommunens TE-TA 2025-000457 2026-01-12
+Ordningslagen 3 kap. 4 §                                      Utemiljö
+anläggningar                                  TE-TA 2026-000004 2026-01-12
+Plan och Bygglagen 6 Kap. 21 §                                Ec drift Gata TE-TA 2026-000006 2026-01-21
+Ec Anläggning TE-TA 2026-000008 2026-01-26
+& Utveckling
+Samordnare
+2.4.15 Vägmärkesförordningen SFS 2007:90 Godkännande av trafikanordningsplan Fc 5 beslut.
+AFS 1999:3 49 § 81 § (a-e)                                    Vc Trafik &
+Ordningslagen 3 kap. 4 §                                      Utemiljö  TE-TA 2025-000486 2026-01-08
+Ec drift Gata TE-TA 2026-000005 2026-01-20
+Ec Anläggning TE-TA 2026-000007 2026-01-21
+& Utveckling TE-TA 2026-000009 2026-01-23
+Samordnare TE-TA 2026-000011 2026-01-30
+2.4.16 13 kap. och 8 § trafikförordningen Beslut om parkeringstillstånd för rörelsehindrade Fc Beslut om parkeringstillstånd för rörelsehindrad
+(1998:1276)                                                   Färdtjänst- Beviljade: 23
+utredare Avslagna: 1
+
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 9 (12)
-
-[Tabell 309-1](handlingar.tabeller/309-1.csv)
-
-|  |  |  | Ec Planering &<br>Utformning<br>Ec Anläggning<br>& Utveckling<br>Arbetsledare<br>Trafik-<br>samordnare<br>Trafik-<br>övervakare |  |
-| --- | --- | --- | --- | --- |
-| 2.4.14 | Vägmärkesförordningen SFS 2007:90 AFS<br>1999:3 49 § 81 § (a-e)<br>Ordningslagen 3 kap. 4 §<br>Plan och Bygglagen 6 Kap. 21 § | Beslut om tillstånd att schakta i gator och vägar för vilka<br>kommunen är huvudman och vid behov kräva säkerhet för<br>beräknade kostnader för återställande av kommunens<br>anläggningar | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec drift Gata<br>Ec Anläggning<br>& Utveckling<br>Samordnare | 5 beslut.<br>TE-TA 2025-000489 2026-01-08<br>TE-TA 2025-000457 2026-01-12<br>TE-TA 2026-000004 2026-01-12<br>TE-TA 2026-000006 2026-01-21<br>TE-TA 2026-000008 2026-01-26 |
-| 2.4.15 | Vägmärkesförordningen SFS 2007:90<br>AFS 1999:3 49 § 81 § (a-e)<br>Ordningslagen 3 kap. 4 § | Godkännande av trafikanordningsplan | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec drift Gata<br>Ec Anläggning<br>& Utveckling<br>Samordnare | 5 beslut.<br>TE-TA 2025-000486 2026-01-08<br>TE-TA 2026-000005 2026-01-20<br>TE-TA 2026-000007 2026-01-21<br>TE-TA 2026-000009 2026-01-23<br>TE-TA 2026-000011 2026-01-30 |
-| 2.4.16 | 13 kap. och 8 § trafikförordningen<br>(1998:1276) | Beslut om parkeringstillstånd för rörelsehindrade | Fc<br>Färdtjänst-<br>utredare | Beslut om parkeringstillstånd för rörelsehindrad<br>Beviljade: 23<br>Avslagna: 1 |
 
 <!-- sida 310 -->
 
@@ -11858,14 +11827,18 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 1
 
 2.3 Färdtjänst
 
+Nr   Lagrum/stöd               Delegeringens omfattning             Ansvarig Taget beslut och datum för
+delegat  beslutet
+2.5.1 6–9 §§ lag (1997:736) om Beslut om tillstånd till färdtjänst med regelkompletteringar Fc Beslut om färdtjänst
+färdtjänst                                                     Färdtjänst- Beviljade: 51
+utredare Avslagna: 2
+Ec Kansli
+2.5.5 4–7 §§ lag (1997:735) om Beslut om tillstånd till riksfärdtjänst Fc   Beslut om riksfärdtjänst
+riksfärdtjänst                                                 Färdtjänst- Beviljade: 5
+utredare Avslagna: 0
+Ec Kansli
+
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 11 (12)
-
-[Tabell 311-1](handlingar.tabeller/311-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
-| --- | --- | --- | --- | --- |
-| 2.5.1 | 6–9 §§ lag (1997:736) om<br>färdtjänst | Beslut om tillstånd till färdtjänst med regelkompletteringar | Fc<br>Färdtjänst-<br>utredare<br>Ec Kansli | Beslut om färdtjänst<br>Beviljade: 51<br>Avslagna: 2 |
-| 2.5.5 | 4–7 §§ lag (1997:735) om<br>riksfärdtjänst | Beslut om tillstånd till riksfärdtjänst | Fc<br>Färdtjänst-<br>utredare<br>Ec Kansli | Beslut om riksfärdtjänst<br>Beviljade: 5<br>Avslagna: 0 |
 
 <!-- sida 312 -->
 

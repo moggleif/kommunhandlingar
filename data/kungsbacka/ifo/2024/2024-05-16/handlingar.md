@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.b7a004018f378e8f281b00b/17156048903
 sha256: ec338c5bf552de87d89ec5326453dc5bfc7d47dc5d13943d0cf42a1ea6ecbe1b
 bytes: 30492782
 sidor: 223
-hamtad: 2026-10-08T02:28:25+00:00
-konverterad: 2026-10-08T02:29:42+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T10:06:28+00:00
+konverterad: 2026-10-14T10:07:36+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [4, 67, 83]
-figurer: null
-tolkade: null
+figurer: [4, 5, 6, 7, 10, 14, 19, 20, 23, 24, 25, 26, 28, 38, 39, 47, 53, 54, 55, 69, 83, 116, 117, 118, 123, 124, 125, 126, 128, 129, 133, 134, 135, 136, 137, 138, 139, 140, 142, 143, 144, 148, 168, 178, 179]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -4058,7 +4058,7 @@ Utre dning trafik
 -·
 [:.: Utred n ingsomra• d en för trafik
 .,..\_ Utredningsomr åde för framtida
-"'.. sia1 1· 0 n
+"'.. sia11· 0 n
 Natur oc h rekreation
 La• ngsI· kt·Igt säkerställda
 grönområden
@@ -5974,6 +5974,11 @@ varierar med ett par decimeter längs planområdet där de högsta siffrorna fin
 delen. Skillnaden mellan nivån framtagen av Norconsult jämfört med MSB:s kan förklaras
 av skillnader i antaganden och indata till beräkningsmodellerna.
 
+MSB                Norconsult
+Nivå 100-årsflöde  +5,6 – 5,8         +5,1
+Nivå 200-årsflöde  +5,8 – 6,0
+
+Nivå BHF           +6,7 – 7,0
 Flöden med återkomsttider på 100 år och 200 år utgår från mätserier i SMHI:s stationsnät
 och är anpassade efter klimatscenarier för slutet av seklet. BHF är framtagen enligt en meto-
 dik som används av vattenkrafts- och gruvindustrin för dimensionering av högriskdammar
@@ -6004,14 +6009,6 @@ sta högvatten vid 100 års- och 200
 flöde. Översvämningsdata från MSB.
 
 16 Planbeskrivning                                                                                                            Planbeskrivning 17
-
-[Tabell 133-1](handlingar.tabeller/133-1.csv)
-
-|  | MSB | Norconsult |
-| --- | --- | --- |
-| Nivå 100-årsflöde | +5,6 – 5,8 | +5,1 |
-| Nivå 200-årsflöde | +5,8 – 6,0 |  |
-| Nivå BHF | +6,7 – 7,0 |  |
 
 <!-- sida 134 -->
 
@@ -7902,18 +7899,113 @@ utformning och skydd av marken.
 
 <!-- sida 175 -->
 
+Största sammanlagda byggnadsarea (BYA) är 3 400
+kvadratmeter.
+
+Utöver detta får komplementbyggnader, skärmtak,
+tillbyggnad eller liknande uppföras till en samman-
+lagd BYA om 300 kvadratmeter.
+e      Utnyttjandegrad
+1                    Syftet med bestämmelsen är att möliggöra för en
+byggnad som kan inrymma olika typer av kommunal
+service för att ge samordningsvinster med till exem-
+pel samlingssal, personalutrymmen och kök som kan
+användas gemensamt, vilket ger såväl sociala fördela
+som kostnadsfördelar.
+Största sammanlagda byggnadsarea (BYA) är 660
+kvadratmeter.
+Utöver detta får komplementbyggnader, skärmtak,
+e      Utnyttjandegrad tillbyggnad eller liknande uppföras till en samman-
+2
+lagd BYA om 50 kvadratmeter.
+Syftet med planbestämmelsen är att begränsa bygg-
+nadernas utbredning inom byggrätten.
+Största sammanlagda byggnadsarea (BYA) är 450
+kvadratmeter.
+e      Utnyttjandegrad
+3
+Syftet med planbestämmelsen är att främja flera min-
+dre byggnader som ger karaktär till platsen.
+Största sammanlagda byggnadsarea (BYA) är 950
+kvadratmeter.
+e      Utnyttjandegrad
+4
+Syftet med planbestämmelsen är att begränsa bygg-
+nadens utbredning inom byggrätten.
+Största sammanlagda byggnadsarea (BYA) är 390
+kvadratmeter.
+e      Utnyttjandegrad Syftet med planbestämmelsen är att begränsa bygg-
+5
+naders utbredning inom byggrätten.
+Största sammanlagda byggnadsarea (BYA) är 900
+kvadratmeter.
+e      Utnyttjandegrad Syftet med planbestämmelsen är att begränsa bygg-
+6
+naders utbredning inom byggrätten.
+Största sammanlagda byggnadsarea (BYA) är 995
+kvadratmeter.
+e      Utnyttjandegrad Syftet med planbestämmelsen är att begränsa bygg-
+7
+naders utbredning inom byggrätten.
+
 58 Planbeskrivning                                                                                                            Planbeskrivning 59
-
-[Tabell 175-1](handlingar.tabeller/175-1.csv)
-
-| e<br>1 | Utnyttjandegrad | Största sammanlagda byggnadsarea (BYA) är 3 400<br>kvadratmeter.<br>Utöver detta får komplementbyggnader, skärmtak,<br>tillbyggnad eller liknande uppföras till en samman-<br>lagd BYA om 300 kvadratmeter.<br>Syftet med bestämmelsen är att möliggöra för en<br>byggnad som kan inrymma olika typer av kommunal<br>service för att ge samordningsvinster med till exem-<br>pel samlingssal, personalutrymmen och kök som kan<br>användas gemensamt, vilket ger såväl sociala fördela<br>som kostnadsfördelar. |
-| --- | --- | --- |
-| e<br>2 | Utnyttjandegrad | Största sammanlagda byggnadsarea (BYA) är 660<br>kvadratmeter.<br>Utöver detta får komplementbyggnader, skärmtak,<br>tillbyggnad eller liknande uppföras till en samman-<br>lagd BYA om 50 kvadratmeter.<br>Syftet med planbestämmelsen är att begränsa bygg-<br>nadernas utbredning inom byggrätten. |
-| e<br>3 | Utnyttjandegrad | Största sammanlagda byggnadsarea (BYA) är 450<br>kvadratmeter.<br>Syftet med planbestämmelsen är att främja flera min-<br>dre byggnader som ger karaktär till platsen. |
-| e<br>4<br>e<br>5<br>e<br>6<br>e<br>7 | Utnyttjandegrad<br>Utnyttjandegrad<br>Utnyttjandegrad<br>Utnyttjandegrad | Största sammanlagda byggnadsarea (BYA) är 950<br>kvadratmeter.<br>Syftet med planbestämmelsen är att begränsa bygg-<br>nadens utbredning inom byggrätten.<br>Största sammanlagda byggnadsarea (BYA) är 390<br>kvadratmeter.<br>Syftet med planbestämmelsen är att begränsa bygg-<br>naders utbredning inom byggrätten.<br>Största sammanlagda byggnadsarea (BYA) är 900<br>kvadratmeter.<br>Syftet med planbestämmelsen är att begränsa bygg-<br>naders utbredning inom byggrätten.<br>Största sammanlagda byggnadsarea (BYA) är 995<br>kvadratmeter.<br>Syftet med planbestämmelsen är att begränsa bygg-<br>naders utbredning inom byggrätten. |
 
 <!-- sida 176 -->
 
+Största sammanlagda byggnadsarea (BYA) är 420
+kvadratmeter.
+Utöver detta får komplementbyggnad, skärmtak,
+tillbyggnad eller liknande uppföras till en samman-
+e      Utnyttjandegrad
+8                    lagd byggnadsarea om 25 kvadratmeter per lägenhet i
+radhus samt en maximal nockhöjd på 3,5 meter.
+Syftet med planbestämmelsen är att begränsa bygg-
+naders utbredning inom byggrätten.
+Största sammanlagda byggnadsarea (BYA) är 350
+kvadratmeter.
+
+Utöver detta får komplementbyggnad, skärmtak,
+tillbyggnad eller liknande uppföras till en samman-
+e      Utnyttjandegrad
+9                    lagd byggnadsarea om 25 kvadratmeter per lägenhet i
+radhus samt en maximal nockhöjd på 3,5 meter.
+Syftet med planbestämmelsen är att begränsa bygg-
+naders utbredning inom byggrätten.
+Största sammanlagda byggnadsarea (BYA) är 700
+kvadratmeter.
+Utöver detta får komplementbyggnad, skärmtak,
+tillbyggnad eller liknande uppföras till en samman-
+e      Utnyttjandegrad
+10                   lagd byggnadsarea om 25 kvadratmeter per lägenhet i
+radhus samt en maximal nockhöjd på 3,5 meter.
+Syftet med planbestämmelsen är att begränsa bygg-
+naders utbredning inom byggrätten.
+Största sammanlagda byggnadsarea (BYA) för tek-
+niska anläggningar är 250 kvm.
+e      Utnyttjandegrad
+11
+Syftet med planbestämmelsen är att begränsa utred-
+ningen för energicentral inom byggrätten.
+Största sammanlagda byggnadsarea (BYA) är 355
+kvadratmeter.
+e      Utnyttjandegrad
+12
+Syftet med planbestämmelsen är att begränsa bygg-
+naders utbredning inom byggrätten.
+Största sammanlagda byggnadsarea (BYA) är 260
+kvadratmeter med maximalt 4,5 meters nockhöjd.
+e      Utnyttjandegrad
+14
+Syftet med planbestämmelsen är att begränsa bygg-
+naders utbredning inom byggrätten.
+Största sammanlagda byggnadsarea (BYA) är 50
+kvadratmeter för för komplementbyggnad och 100
+kvadratmeter för energicentral.
+e      Utnyttjandegrad
+15
+Syftet med planbestämmelsen är att begränsa utbred-
+ningen av komplementbyggnad och energicentral
+inom byggrätten.
 Största sammanlagda byggnadsarea (BYA) för kom-
 plementbyggnader är 180 kvadratmeter med maxi-
 e      Utnyttjandegrad malt 4,5 meters nockhöjd.
@@ -7921,14 +8013,6 @@ e      Utnyttjandegrad malt 4,5 meters nockhöjd.
 Syftet med planbestämmelsen är att begränsa bygg-
 naders utbredning inom byggrätten.
 58 Planbeskrivning                                      Planbeskrivning 59
-
-[Tabell 176-1](handlingar.tabeller/176-1.csv)
-
-| e<br>8 | Utnyttjandegrad | Största sammanlagda byggnadsarea (BYA) är 420<br>kvadratmeter.<br>Utöver detta får komplementbyggnad, skärmtak,<br>tillbyggnad eller liknande uppföras till en samman-<br>lagd byggnadsarea om 25 kvadratmeter per lägenhet i<br>radhus samt en maximal nockhöjd på 3,5 meter.<br>Syftet med planbestämmelsen är att begränsa bygg-<br>naders utbredning inom byggrätten. |
-| --- | --- | --- |
-| e<br>9 | Utnyttjandegrad | Största sammanlagda byggnadsarea (BYA) är 350<br>kvadratmeter.<br>Utöver detta får komplementbyggnad, skärmtak,<br>tillbyggnad eller liknande uppföras till en samman-<br>lagd byggnadsarea om 25 kvadratmeter per lägenhet i<br>radhus samt en maximal nockhöjd på 3,5 meter.<br>Syftet med planbestämmelsen är att begränsa bygg-<br>naders utbredning inom byggrätten. |
-| e<br>10<br>e<br>11<br>e<br>12<br>e<br>14 | Utnyttjandegrad<br>Utnyttjandegrad<br>Utnyttjandegrad<br>Utnyttjandegrad | Största sammanlagda byggnadsarea (BYA) är 700<br>kvadratmeter.<br>Utöver detta får komplementbyggnad, skärmtak,<br>tillbyggnad eller liknande uppföras till en samman-<br>lagd byggnadsarea om 25 kvadratmeter per lägenhet i<br>radhus samt en maximal nockhöjd på 3,5 meter.<br>Syftet med planbestämmelsen är att begränsa bygg-<br>naders utbredning inom byggrätten.<br>Största sammanlagda byggnadsarea (BYA) för tek-<br>niska anläggningar är 250 kvm.<br>Syftet med planbestämmelsen är att begränsa utred-<br>ningen för energicentral inom byggrätten.<br>Största sammanlagda byggnadsarea (BYA) är 355<br>kvadratmeter.<br>Syftet med planbestämmelsen är att begränsa bygg-<br>naders utbredning inom byggrätten.<br>Största sammanlagda byggnadsarea (BYA) är 260<br>kvadratmeter med maximalt 4,5 meters nockhöjd.<br>Syftet med planbestämmelsen är att begränsa bygg-<br>naders utbredning inom byggrätten. |
-| e<br>15 | Utnyttjandegrad | Största sammanlagda byggnadsarea (BYA) är 50<br>kvadratmeter för för komplementbyggnad och 100<br>kvadratmeter för energicentral.<br>Syftet med planbestämmelsen är att begränsa utbred-<br>ningen av komplementbyggnad och energicentral<br>inom byggrätten. |
 
 <!-- sida 177 -->
 
@@ -9181,8 +9265,9 @@ kallade timmar enligt Socialförsäkringsbalken (SFB), var 64 % under 2023, jäm
 
 [Tabell 204-1](handlingar.tabeller/204-1.csv)
 
-| Nämnd | Helårspr<br>ognos<br>2024<br>-2 | Årsbudget<br>2024<br>-2 | Budget-<br>avvikelse<br>2024<br>0 | Bokslut<br>2023<br>-2 |
+|  | Helårspr<br>ognos<br>2024 | Årsbudget<br>2024 | Budget-<br>avvikelse<br>2024 | Bokslut<br>2023 |
 | --- | --- | --- | --- | --- |
+| Nämnd | -2 | -2 | 0 | -2 |
 | Stödfunktion och central verksamhet | -61,6 | -70,6 | 9,0 | -65 |
 | Myndighet, stöd och behandling | -253,4 | -248,4 | -5,0 | -246 |
 | Bostad med särskild service | -267,1 | -267,6 | 0,5 | -248 |
@@ -9447,7 +9532,7 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 
 §§ socialtjänstlagen, SoL
 
-[Tabell 211-1](handlingar.tabeller/211-1.csv)
+[Tabell 211-214-1](handlingar.tabeller/211-214-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
@@ -9462,16 +9547,6 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 | 2022-12-16 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, tackat nej till 4 erbjudanden,<br>2022-12-16, 2023-04-25, 2023-06-14, 2023-08-22.<br>Familjen vill komma med eget förslag på avlösare och<br>tar då kontakt med förvaltningen. |
 | 2023-06-12 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, den enskilde har tackat nej till<br>erbjudande 2023-11-30 och 2024-01-26. Den enskilde<br>har blivit beviljad annan insats, vill avsluta<br>ledsagarservice när en ny insats kommit igång. |
 | 2023-11-10 | 9 § 5 LSS, avlösarservice i<br>hemmet | Den enskilde har specifika önskemål, önskar<br>samrekrytering med lägerverksamhet. |
-
-<!-- sida 212 -->
-
-KUNGSBACKA  KOMMUN
-4 (7)
-
-[Tabell 212-1](handlingar.tabeller/212-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2023-11-14 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, d§en enskilde har specifika<br>önskemål, önskar en PAN-anställning. |
 | 2023-12-08 | 9 § 5 LSS, avlösarservice i<br>hemmet | Tackat nej till erbjudande 2024-01-18, den enskilde har<br>ansökt om ny insats. |
 | 2023-11-22 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Den enskilde är i behov av extern placering. |
@@ -9485,16 +9560,6 @@ KUNGSBACKA  KOMMUN
 | 2023-11-27 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Saknar plats. 2024-04-11 tackat ja till erbjudande med<br>inflyttning i augusti 2024. |
 | 2021-10-29 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2021-11-23 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, medverkar inte till<br>verkställighet. Den enskilde svarar inte på telefon eller<br>mail. |
-
-<!-- sida 213 -->
-
-KUNGSBACKA  KOMMUN
-5 (7)
-
-[Tabell 213-1](handlingar.tabeller/213-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2022-02-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, har specifika önskemål om<br>verksamhet, är i behov av lång planering, tackat nej till<br>befintlig verksamhet. Tackat nej till 2 erbjudanden<br>2023-02-14 och 2023-10-02. |
 | 2022-12-31 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2023-01-11 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet, blivit erbjuden 3 olika DV-grupper. |
@@ -9508,6 +9573,17 @@ KUNGSBACKA  KOMMUN
 | 2023-10-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, tackat nej till 4 erbjudanden<br>2023-12-11, 2024-02-21, 2024-03-12 och 2024-04-10.<br>Den enskilde vill avvakta då hen befinner sig på annan<br>ort. |
 | 2023-10-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2023-10-20 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
+| 2023-12-18 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
+
+<!-- sida 212 -->
+
+KUNGSBACKA  KOMMUN
+4 (7)
+
+<!-- sida 213 -->
+
+KUNGSBACKA  KOMMUN
+5 (7)
 
 <!-- sida 214 -->
 
@@ -9516,13 +9592,7 @@ KUNGSBACKA  KOMMUN
 
 Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
 
-[Tabell 214-1](handlingar.tabeller/214-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
-| 2023-12-18 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
-
-[Tabell 214-2](handlingar.tabeller/214-2.csv)
+[Tabell 214-215-1](handlingar.tabeller/214-215-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
@@ -9534,6 +9604,8 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2023-09-07 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknas plats. Den enskilde är<br>inlagd och samverkan pågår<br>mellan region och kommun. | Verkställt, 2024-04-02 |
 | 2023-04-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. Individen har<br>blivit erbjuden flera<br>uppstartsmöten men avbokat. | Verkställt, 2024-02-05 |
 | 2023-04-27 | 9 § 10 LSS, daglig<br>verksamhet | Tackat nej till 5 erbjudanden om<br>uppstart, önskar avvakta pga<br>rädsla för smittspridning. | Verkställt, 2024-02-06 |
+| 2023-09-18 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde har flyttat till annan<br>kommun, vill pröva daglig<br>verksamhet på den nya orten<br>innan hen beslutar om återflytt<br>eller inte. | Avslutat, 2024-01-12 |
+| 2023-09-20 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde har tackat nej till<br>uppstart, missnöjd med<br>insatsens utformning. | Avslutat, 2023-11-20 |
 
 <!-- sida 215 -->
 
@@ -9545,13 +9617,6 @@ Inom vuxenenheten och familjehemsenheten finns inga ej verkställda beslut under
 Ivan Stipić                   Renate Rondolph
 
 Förvaltningschef              Verksamhetschef
-
-[Tabell 215-1](handlingar.tabeller/215-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
-| 2023-09-18 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde har flyttat till annan<br>kommun, vill pröva daglig<br>verksamhet på den nya orten<br>innan hen beslutar om återflytt<br>eller inte. | Avslutat, 2024-01-12 |
-| 2023-09-20 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde har tackat nej till<br>uppstart, missnöjd med<br>insatsens utformning. | Avslutat, 2023-11-20 |
 
 <!-- sida 216 -->
 

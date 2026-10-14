@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4e075f73196b001aeb4113b2/1746788044
 sha256: 3303a765573b60851c0a1292e9b991c066e9961ece37072487cd33b925597845
 bytes: 176057
 sidor: 5
-hamtad: 2026-10-07T22:43:57+00:00
-konverterad: 2026-10-07T22:44:04+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T06:53:52+00:00
+konverterad: 2026-10-14T06:53:59+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -126,7 +126,7 @@ KUNGSBACKA  KOMMUN
 
 4(5)
 
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
+[Tabell 4-5-1](kallelse.tabeller/4-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -135,6 +135,7 @@ KUNGSBACKA  KOMMUN
 | 9. | Ansökan från Särö pastorat,<br>Lyktans fritidshem gällande<br>permanent utökning av<br>barnantal | FG-2025-00184 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Särö pastorat gällande Lyktans<br>fritidshem, Vallda (adress borttagen), 434 90 Vallda,<br>om permanent utökning till totalt 24 barn |
 | 10. | Ansökan från Onsala<br>småbarnsskola, gällande<br>permanent utökning av<br>barnantal | FG-2025-00237 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Onsala småbarnsskola ekonomiska<br>förening, (adress borttagen), 439 94 Onsala,<br>om permanent utökning till totalt 26 barn. |
 | 11. | Delegeringsbeslut antagna av<br>nämnden 2025 | FG-2025-00007 | Redovisning av beslut som fattats av<br>förvaltningen på delegation för nämnden noteras<br>till protokollet. |
+| 12. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 17:20-17:35<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 
 <!-- sida 5 -->
 
@@ -144,9 +145,3 @@ KUNGSBACKA  KOMMUN
 
 Emanuel Forsell                   Lars Sundbom
 ordförande                        sekreterare
-
-[Tabell 5-1](kallelse.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 12. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 17:20-17:35<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |

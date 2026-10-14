@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.69662c5a18d8755e108223ca/1708355712
 sha256: 1228da53a5350bc4f8522a56fa4a1eb6c3f3edf05c8c807e78d4f1cbf5acc32c
 bytes: 6856726
 sidor: 111
-hamtad: 2026-10-08T02:05:42+00:00
-konverterad: 2026-10-08T02:07:18+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T09:45:44+00:00
+konverterad: 2026-10-14T09:46:56+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ej-konverterad, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ej-konverterad, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok]
 tal_obekraftade: [5, 11, 13, 14, 16, 17, 19, 20, 31, 34, 35, 36, 39, 40, 41, 42, 43, 49, 78, 88, 89, 90, 97, 99, 101, 104, 105, 109]
-figurer: null
-tolkade: null
+figurer: [3, 10, 15, 44, 75]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -3700,7 +3700,7 @@ trafficking, företagsspionage och terrorism.
 Kommunen som arbetsgivare är enligt lag skyldiga att säkerställa medarbetares
 rätt till arbete i Sverige.
 ”Utlänningslagen
-20 kap. Bestämmelser om straff mm
+20kap. Bestämmelser om straff mm
 5§ Till böter eller, när omständigheterna är försvårande, fängelse döms den som
 uppsåtligen eller av oaktsamhet har utlänning anställd, om utlänningen
 

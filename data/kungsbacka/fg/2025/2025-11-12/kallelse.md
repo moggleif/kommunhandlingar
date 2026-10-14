@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.b9c82c219a4e2180037b79f/17627707931
 sha256: 2ea37570b7ca58abf89a06c55e19484120c6c8d27c2deb7bb30f192b85ccc4e6
 bytes: 179445
 sidor: 4
-hamtad: 2026-10-07T22:44:30+00:00
-konverterad: 2026-10-07T22:44:36+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T06:54:24+00:00
+konverterad: 2026-10-14T06:54:30+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -59,7 +59,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -69,22 +69,18 @@ KUNGSBACKA  KOMMUN
 | 8. | Nämndbudget 2026<br>Kl 15:15-15:45<br>Gustav Sjöström, ekonomichef<br>Magnus Fogelblad,<br>verksamhetscontroller<br>Helena Hellman, personalchef | FG-2025-00620 | Nämnden för Förskola & Grundskola beslutar att<br>• Godkänna nämndbudget 2026 med<br>verksamhetsmål och ramfördelning<br>• Uppdra åt förvaltningschefen att upprätta<br>förvaltningsbudget för 2026.<br>• Uppdra åt förvaltningschefen att göra<br>nödvändiga omfördelningar i<br>förvaltningsbudgeten utifrån specifika<br>förutsättningar och behov. |
 | 9. | Grundbelopp 2026<br>Kl 15:45-15:55<br>Gustav Sjöström, ekonomichef | FG-2025-00622 | Nämnden för Förskola & Grundskola beslutar att<br>anta grundbeloppen till den fristående<br>verksamheten och kommunala verksamheten<br>enligt bifogade förslag. |
 | 10. | Uppdatering krigsorganisation<br>Kl 15:55-16:05<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2025-00631 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
+| 11. | Uppdatering riktlinje civil<br>beredskap 2026<br>Kl 16:05-16:25<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2025-00630 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
+| 12. | Uppdatering kontinuitetsplan<br>Kl 16:25-16:35<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2025-00679 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
+| 13. | Initiativ från Alliansen om<br>stärkt elevhälsa<br>Kl 16:35-16:55<br>Gustav Sjöström, ekonomichef<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00299 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
+| 14. | Initiativ från Alliansen för<br>bättre stöd i skolan<br>Kl 16:55-17:15<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00300 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
+| 15. | Delegeringsbeslut antagna av<br>nämnden 2025 | FG-2025-00007 | Redovisning av beslut som fattats av<br>förvaltningen på delegation för nämnden noteras<br>till protokollet. |
+| 16. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 17:15-17:30<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | Uppdatering riktlinje civil<br>beredskap 2026<br>Kl 16:05-16:25<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2025-00630 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
-| 12. | Uppdatering kontinuitetsplan<br>Kl 16:25-16:35<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2025-00679 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
-| 13. | Initiativ från Alliansen om<br>stärkt elevhälsa<br>Kl 16:35-16:55<br>Gustav Sjöström, ekonomichef<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00299 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
-| 14. | Initiativ från Alliansen för<br>bättre stöd i skolan<br>Kl 16:55-17:15<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00300 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
-| 15. | Delegeringsbeslut antagna av<br>nämnden 2025 | FG-2025-00007 | Redovisning av beslut som fattats av<br>förvaltningen på delegation för nämnden noteras<br>till protokollet. |
 
 <!-- sida 4 -->
 
@@ -94,9 +90,3 @@ KUNGSBACKA  KOMMUN
 
 Emanuel Forsell                   Lars Sundbom
 ordförande                        sekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 16. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 17:15-17:30<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |

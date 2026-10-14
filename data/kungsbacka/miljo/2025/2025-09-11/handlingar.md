@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.200e637a19913f2eef1261e2/1757077571
 sha256: f8b1bb2d0a92b07e6a36077aa6dc7ec14a9bed95e21a0778192164c295b8b2ca
 bytes: 273703
 sidor: 6
-hamtad: 2026-10-08T08:06:11+00:00
-konverterad: 2026-10-08T08:06:17+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T11:01:17+00:00
+konverterad: 2026-10-14T11:01:23+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, tabell-osaker]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -180,10 +180,18 @@ Delårsrapport augusti 2025
 
 Utfall och prognos
 
+Bokslut Budget Prognos  Budget-  Delår   Delår Avvikelse
+Miljoner kronor
+2024    2025    2025  avvikelse 2024    2025    delår
+Nämnden för
+Miljö &         -0,8    -1,0    -1,0     0,0    -0,6    -0,7    -0,1
+Hälsoskydd
+Periodens
+-0,8    -1,0    -1,0     0,0    -0,6    -0,7    -0,1
+resultat
 Sammanfattning - text till kommunstyrelsen
 Från och med 1 januari 2020 har nämnden för Miljö & Hälsoskydd endast budgetansvar för nämndens egen
 driftsbudget, 1,0 miljoner kronor. Prognosen per augusti visar att nämnden har en budget i balans för 2025.
-
 Analys och kommentarer - text till nämnden
 Förändring helårsprognos
 
@@ -193,12 +201,6 @@ Prognosen för helåret är oförändrad jämfört med uppföljningen per april.
 5
 
 [Tabell 6-1](handlingar.tabeller/6-1.csv)
-
-| Miljoner kronor<br>Nämnden för<br>Miljö &<br>Hälsoskydd | Bokslut<br>2024<br>-0,8 | Budget<br>2025<br>-1,0 | Prognos<br>2025<br>-1,0 | Budget-<br>avvikelse<br>0,0 | Delår<br>2024<br>-0,6 | Delår<br>2025<br>-0,7 | Avvikelse<br>delår<br>-0,1 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Periodens<br>resultat | -0,8 | -1,0 | -1,0 | 0,0 | -0,6 | -0,7 | -0,1 |
-
-[Tabell 6-2](handlingar.tabeller/6-2.csv)
 
 | Nämnd/förvaltning | Helårsprognos delår 1<br>(mkr) | Helårsprognos delår 2<br>(mkr) | Förändring prognos<br>(mkr) |
 | --- | --- | --- | --- |

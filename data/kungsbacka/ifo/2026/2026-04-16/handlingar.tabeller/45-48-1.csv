@@ -1,0 +1,106 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Insatser för vuxna,,,,
+Process:,"Hantera ansökan eller anmälan, utreda och fatta beslut om insatser för vuxna",,,,
+Processnummer:,6.4.1.1,,,,
+Bevarande och gallring,"När det i kolumnen Bevara/Gallra anges ""5 år/Bevaras"" betyder det att handlingar bevaras i enlighet med 16 kap. § § 1-5
+Socialtjänstlagen. Handlingar rörande personer födda den 5:e, 15:e eller 25:e i varje månad samt ärenden rörande placerade barn
+bevaras. Övriga handlingar gallras 5 år efter sista anteckning.",,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Aktualisera,"Begäran om
+överflyttning av
+ärende från annan
+kommun",Ciceron/Combine,Digital,Bevaras,Se process 6.0.1.6
+,"Ansökan om
+behandling av
+missbruk",Combine,Digital,5 år/Bevaras,
+,"Orosanmälningar –
+som inte leder till
+utredning, där
+personakt finns.",Combine,Digital,5 år/Bevaras,"Pappershandling skannas in till Combine och
+gallras därefter."
+,"Orosanmälningar –
+som inte leder till
+utredning, där
+personakt inte
+finns.",Combine,Digital,"Gallras 2 år efter
+inkommen anmälan","Läggs in i kronologisk pärm i Combine. Se process
+6.2.1.1"
+,"Orosanmälningar –
+som leder till
+utredning",Combine,Digital,5 år/Bevaras,"Pappershandling skannas in till Combine och
+gallras därefter."
+,"Meddelanden
+rörande
+hyresskulder,
+avhysningar,
+bostadsstörningar,
+där personakt
+finns.",Combine,Digital,5 år/Bevaras,"Pappershandling skannas in till Combine och
+gallras därefter."
+,"Meddelanden
+rörande
+hyresskulder,
+avhysningar,
+bostadsstörningar,
+där personakt inte
+finns.",Combine,Digital,"Gallras 2 år efter
+inkommen handling","Pappershandling skannas in till kronologisk pärm i
+Combine och gallras därefter. Se process 6.2.1.1"
+,"Meddelande enligt
+lag om
+omhändertagande
+av berusade
+personer, LOB.
+SMADIT, Beslut
+om kontaktförbud
+där personakt
+finns.",Combine,Digital,5 år/Bevaras,"Pappershandling skannas in till Combine och
+gallras därefter."
+,"Meddelande enligt
+lag om
+omhändertagande
+av berusade
+personer, LOB.
+SMADIT, Beslut
+om kontaktförbud
+där personakt inte
+finns.",Combine,Digital,"Gallras 2 år efter
+inkommen handling","Pappershandling skannas in till kronologisk pärm i
+Combine och gallras därefter. Se process 6.2.1.1."
+,Journalanteckningar,Combine,Digital,5 år/Bevaras,
+,"Beslut om att inleda
+utredning enligt
+LVM",Combine,Digital,5 år/Bevaras,LVM § 7
+Utreda,"Utredning enligt
+SoL",Combine,Digital,5 år/Bevaras,
+,"Utredning enligt
+LVM",Combine,Digital,5 år/Bevaras,
+,"Samtycke till att
+inhämta uppgifter",Combine,Digital,5 år/Bevaras,Gäller utredning enligt SoL
+,"Externa
+utredningar/
+utlåtanden från
+sjukvård,
+kriminalvård m.fl.",Combine,Digital,5 år/Bevaras,
+Besluta,"Beslut om att
+placera enligt
+SoL",Combine,Digital,5 år/Bevaras,
+,"Beslut om
+öppenvårdsinsats",Combine,Digital,5 år/Bevaras,
+,"Beslut om
+boendestöd, LSS",Combine,Digital,5 år/Bevaras,
+,"Utredning med
+förslag till beslut
+om ansökan LVM",Combine,Digital,5 år/Bevaras,
+,"Beslut om ansökan
+om vård enligt
+LVM",Combine,Digital,5 år/Bevaras,
+,"Protokollsutdrag
+från utskottet",Combine,Digital,5 år/Bevaras,
+,"Kallelse till
+förhandling",Combine,Digital,5 år/Bevaras,Avser LVM
+,"Dom från
+förvaltningsrätten,
+kammarrätten",Combine,Digital,5 år/Bevaras,Avser LVM
+,Ordförandebeslut,Combine,Digital,5 år/Bevaras,Avser LVM

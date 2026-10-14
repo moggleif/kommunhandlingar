@@ -1,0 +1,51 @@
+Verksamhetstyp:,Samhällsbyggnad,,,,
+Verksamhetsområde:,Hantera tekniska frågor,,,,
+Processgrupp:,Vatten och avlopp,,,,
+Process:,Driva reningsverk,,,,
+Processnummer:,8.2.1.5,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Hantera produktion,"Ansökan om
+miljötillstånd",Ciceron,Digitalt,Bevaras,
+,"Beslut om
+miljötillstånd",Ciceron,Digitalt,Bevaras,
+,"Tillsynsprotokoll
+enligt miljötillstånd",Ciceron,Digitalt,Bevaras,
+,Driftdata,SCADA,Digitalt,Bevaras,
+,Provresultat,Samarbetsrum,Digitalt,Bevaras,"Kopia i pärm Hammargård
+avloppsreningsverk."
+,"Dokumentation
+Revaq",Samarbetsrum,Digitalt,10 år,"Dokumentation angående slamspridning finns
+även i pärm på Hammargård
+avloppsreningsverk."
+,Miljörapport,Ciceron,Digitalt,Bevaras,
+,"Rutinmässig
+korrespondens
+med
+tillsynsmyndighet",Ciceron,Digitalt,10 år,
+,"Anmälan till
+tillsynsmyndighet",Ciceron,Digitalt,10 år,
+,"Besiktnings-
+protokoll",Samarbetsrum,Digitalt,Vid inaktualitet,Gallras när besiktning är genomförd.
+"Underhålla
+avloppsrening","Tillsynsrutin för
+skötsel och
+underhåll av avlopp",P:,Digitalt,Vid inaktualitet,Kopplas till VA-banken.
+,"Egenkontrolls-
+program",Samarbetsrum,Digitalt,Se anm.,"Uppdateras löpande. Egenkontroll enligt
+miljöbalken."
+"Hantera fett- och
+oljeavskiljare","Anmälan
+installation av fett-
+eller oljeavskiljare",Ciceron,Digitalt,10 år,
+,"Yttrande fett- eller
+oljeavskiljare",Ciceron,Digitalt,10 år,
+,"Ansöka om förlängt
+tömningsintervall
+eller uppehåll i
+tömning av
+fettavskiljare",Ciceron,Digitalt,10 år,
+,"Beslut om förlängt
+tömningsintervall
+eller uppehåll i
+tömning av
+fettavskiljare",Ciceron,Digitalt,10 år,

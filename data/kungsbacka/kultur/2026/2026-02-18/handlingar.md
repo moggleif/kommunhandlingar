@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.46db326b19c4795e00835ca1/1770880804
 sha256: 96e0fef4b7b54587f12318d7bab1d63c081eb8f133cc417bdafede9c6e7e0c80
 bytes: 4109977
 sidor: 89
-hamtad: 2026-10-08T07:48:34+00:00
-konverterad: 2026-10-08T07:48:50+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T10:44:46+00:00
+konverterad: 2026-10-14T10:45:01+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [67]
+figurer: [53, 54, 55, 56, 57, 58, 59, 60, 67, 70]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -283,8 +283,9 @@ andra. Detta är huvuddraget i omställningsarbetet att gå från utförare till
 
 [Tabell 9-1](handlingar.tabeller/9-1.csv)
 
-| Utfall (miljoner kronor)<br>Intäkter | Utfall 2023<br>48,6 | Utfall 2024<br>51,8 | Utfall 2025<br>53,8 |
+| Utfall (miljoner kronor) | Utfall 2023 | Utfall 2024 | Utfall 2025 |
 | --- | --- | --- | --- |
+| Intäkter | 48,6 | 51,8 | 53,8 |
 | Kostnader | -317,6 | -341,3 | -348,6 |
 | Netto | -269,0 | -289,5 | -294,8 |
 | Budget, netto | -269,6 | -288,4 | -296,3 |
@@ -292,8 +293,9 @@ andra. Detta är huvuddraget i omställningsarbetet att gå från utförare till
 
 [Tabell 9-2](handlingar.tabeller/9-2.csv)
 
-| Utfall (miljoner kronor)<br>Utgifter | Utfall 2023<br>-21,2 | Utfall 2024<br>-12,1 | Utfall 2025<br>-12,6 |
+| Utfall (miljoner kronor) | Utfall 2023 | Utfall 2024 | Utfall 2025 |
 | --- | --- | --- | --- |
+| Utgifter | -21,2 | -12,1 | -12,6 |
 | Inkomster | 0,6 | 0,4 | 0 |
 | Netto | -20,6 | -11,7 | -12,6 |
 
@@ -1773,10 +1775,12 @@ incidenter ökat där tillbud står för största ökningen. Störst möjlighet 
 
 [Tabell 38-1](handlingar.tabeller/38-1.csv)
 
-| Namn<br>Riskobservation | 2023<br>5 | 2024<br>21 | 2025<br>4 |
+| Namn | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- |
+| Riskobservation | 5 | 21 | 4 |
 | Tillbud | 17 | 29 | 56 |
-| Olycksfall<br>Total | 14<br>36 | 12<br>62 | 19<br>79 |
+| Olycksfall | 14 | 12 | 19 |
+| Total | 36 | 62 | 79 |
 
 <!-- sida 39 -->
 
@@ -2027,8 +2031,9 @@ Kulturskolans utbud
 
 [Tabell 43-1](handlingar.tabeller/43-1.csv)
 
-| Uppföljningsnivå (belopp i mkr)<br>Nämnd | Bokslut 2024<br>-1,2 | Budget 2025<br>-1,3 | Bokslut 2025<br>-1,2 | Budgetavvike<br>lse 2025<br>0,1 |
+| Uppföljningsnivå (belopp i mkr) | Bokslut 2024 | Budget 2025 | Bokslut 2025 | Budgetavvike lse 2025 |
 | --- | --- | --- | --- | --- |
+| Nämnd | -1,2 | -1,3 | -1,2 | 0,1 |
 | Förvaltningsledning | -11,1 | -14,9 | -11,2 | 3,7 |
 | Kvalitet & social hållbarhet | -11,6 | -13,5 | -13,4 | 0,1 |
 | Platsvarumärke & kommunikation | -4,3 | -4,6 | -5,0 | -0,4 |
@@ -2930,22 +2935,19 @@ kommunen eller regionen.
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Internkontrollrapport 2025 -
 
+Andel av        Kostnad för
+Verksamhet
+verksamhetsvolym % verksamhet mnkr
+Bokslut Bokslut Bokslut Bokslut
+2024    2025    2024    2025
+Badhusverksamhet                      100      100
+
 Nämnden ansvarar för kommunens badhus och har upphandlat en extern utförare, Medley AB, enligt ett
 koncessionsavtal. Det sker en kontinuerlig uppföljning av att avtalet uppfylls.
 
 Uppföljningen av avtalet och verksamheten sker löpande under året av specialist Fritid.
 
 9
-
-[Tabell 70-1](handlingar.tabeller/70-1.csv)
-
-| Verksamhet<br>Badhusverksamhet | Andel av<br>verksamhetsvolym %<br>Bokslut Bokslut<br>2024 2025<br>100 100 |  | Kostnad för<br>verksamhet mnkr<br>Bokslut Bokslut<br>2024 2025 |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
 
 <!-- sida 71 -->
 
@@ -3015,7 +3017,7 @@ Nämndens självskattning
 
 11
 
-[Tabell 72-1](handlingar.tabeller/72-1.csv)
+[Tabell 72-73-1](handlingar.tabeller/72-73-1.csv)
 
 | Område<br>Uppdrag och mål | Frågor Svar 2025<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
 | --- | --- |
@@ -3027,18 +3029,7 @@ Nämndens självskattning
 |  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
 |  | Ledningen informeras om fel och brister i<br>organisationen |
 |  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |
-
-<!-- sida 73 -->
-
-Nämnden för Kultur & Fritid                      Kungsbacka kommun
-Internkontrollrapport 2025 -
-
-12
-
-[Tabell 73-1](handlingar.tabeller/73-1.csv)
-
 | Område | Frågor Svar 2025<br>Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-| --- | --- |
 | Riskanalys | Riskanalysen kommuniceras med<br>nämnden |
 |  | Riskanalysen är underlag för åtgärder och<br>granskningar |
 | Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
@@ -3048,6 +3039,13 @@ Internkontrollrapport 2025 -
 |  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
 | Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
 |  | Vi har en fungerande introduktion av nya<br>medarbetare |
+
+<!-- sida 73 -->
+
+Nämnden för Kultur & Fritid                      Kungsbacka kommun
+Internkontrollrapport 2025 -
+
+12
 
 <!-- sida 74 -->
 

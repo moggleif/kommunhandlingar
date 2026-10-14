@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.13ca62a51956d150599ece25/1741938815
 sha256: c7f0641c8a176c3accbc2ed336cff716d8fd6283994de7edf6bd9be98913a550
 bytes: 11300840
 sidor: 563
-hamtad: 2026-10-08T01:05:24+00:00
-konverterad: 2026-10-08T01:06:33+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T08:54:32+00:00
+konverterad: 2026-10-14T08:55:28+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 446, 480, 484, 512, 516, 517, 518, 520, 521, 522, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -23348,31 +23348,53 @@ www.kungsbacka.se
 
 KUNGSBACKA KOMMUN                                           2 (7)
 
-[Tabell 558-1](handlingar.tabeller/558-1.csv)
+Punkt i
+delegeringsord        Ansvarig  Delegeringens
+ning       Lagrum     Delegat   omfattning     Taget beslut och datum för beslutet
+1384 2025-
+00050   Bissmarksgatan
+1384 2025-
+00051    Biskopsgatan
+1384 2025-
+00054      Sjöallén
+1384 2025-
+00055      Sjöallén
+1384 2025-
+00057   Kulturhuset Fyren
 
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | 1384 2025-<br>00050 | Bissmarksgatan |  |
-|  |  |  |  |  | 1384 2025-<br>00051 | Biskopsgatan |  |
-|  |  |  |  |  | 1384 2025-<br>00054 | Sjöallén |  |
-|  |  |  |  |  | 1384 2025-<br>00055 | Sjöallén |  |
-|  |  |  |  |  | 1384 2025-<br>00057 | Kulturhuset Fyren |  |
-|  |  |  |  |  | 1384 2025-<br>00060 | Blomstergatan |  |
-|  |  |  |  |  | 1384 2025-<br>00061 | Kullaviks skolväg |  |
-|  |  |  |  |  | 1384 2025-<br>00063 | Norra Torggatan |  |
-|  |  |  |  |  | 1384 2025-<br>00064 | Skogsallén |  |
-|  |  |  |  |  | 1384 2025-<br>00065<br>1384 2025-<br>00068 | Sjöallén |  |
-|  |  |  |  |  |  | Kollavägen |  |
-|  |  |  |  |  | 1384 2025-<br>00070 | Åsaskolan |  |
-|  |  |  |  |  | 1384 2025-<br>00071 | Åsaskolan |  |
-|  |  |  |  |  | 1384 2025-<br>00073 | Södra Torggatan |  |
-|  |  |  |  |  | 1384 2025-<br>00075 | Linnekullevägen |  |
-|  |  |  |  |  | 1384 2025-<br>00080 | Kullavik centrum |  |
-|  |  |  |  |  | 1384 2025-<br>00081 | Kungsbacka<br>kommun |  |
-|  |  |  |  |  | 1384 2025-<br>00082 | Kyrkogatan |  |
-|  |  |  |  |  | 1384 2025-<br>00083 | Nygatan |  |
-|  |  |  |  |  | 1384 2025-<br>00085 | Tölö |  |
-| 4.4 | 10 kap.<br>trafikförordnin | VC Trafik &<br>Utemiljö | Beslut om tillfälliga<br>trafikföreskrifter | 1 st beslut om tillfälliga<br>trafikföreskrifter angående |  |  |  |
+1384 2025-
+00060    Blomstergatan
+1384 2025-
+00061   Kullaviks skolväg
+1384 2025-
+00063   Norra Torggatan
+1384 2025-
+00064     Skogsallén
+1384 2025-
+00065        Sjöallén
+1384 2025-
+00068       Kollavägen
+1384 2025-
+00070       Åsaskolan
+1384 2025-
+00071       Åsaskolan
+1384 2025-
+00073     Södra Torggatan
+
+1384 2025-
+00075     Linnekullevägen
+1384 2025-
+00080   Kullavik centrum
+1384 2025-  Kungsbacka
+00081     kommun
+1384 2025-
+00082     Kyrkogatan
+1384 2025-
+00083      Nygatan
+1384 2025-
+00085       Tölö
+4.4        10 kap.    VC Trafik & Beslut om tillfälliga 1 st beslut om tillfälliga
+trafikförordnin Utemiljö trafikföreskrifter trafikföreskrifter angående
 
 <!-- sida 559 -->
 
@@ -23410,7 +23432,7 @@ KUNGSBACKA KOMMUN                                           3 (7)
 
 KUNGSBACKA KOMMUN                                           4 (7)
 
-[Tabell 560-1](handlingar.tabeller/560-1.csv)
+[Tabell 560-561-1](handlingar.tabeller/560-561-1.csv)
 
 | Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -23435,22 +23457,17 @@ KUNGSBACKA KOMMUN                                           4 (7)
 |  |  |  |  |  | 1384 2025-<br>00077 | Gymnasiegatan |  |
 |  |  |  |  |  | 1384 2025-<br>00078 | Korsgatan |  |
 |  |  |  |  |  | 1384 2025-<br>00079 | Blomstergatan |  |
-
-<!-- sida 561 -->
-
-KUNGSBACKA KOMMUN                                           5 (7)
-
-[Tabell 561-1](handlingar.tabeller/561-1.csv)
-
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  | 1384 2025-<br>00084 | Gymnasiegatan |  |
 | 4.7 | 13 kap. 3-4 §§<br>trafikförordnin<br>gen<br>(1998:1276) | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning<br>EC Anläggning<br>& Utveckling<br>Trafikingenjör<br>Samordnare | Beslut om undantag<br>från lokala<br>trafikföreskrifter | 1 beslut om undantag från lokala<br>trafikföreskrifter |  |  |  |
 | 4.8 | 13 kap. 3 §<br>trafikförordnin<br>gen<br>(1998:1276) 4<br>kap. 12 §, 15 §<br>17 §<br>trafikförordnin<br>gen | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning<br>EC Anläggning<br>& Utveckling<br>Trafikingenjör<br>Samordnare | Beslut till transportör<br>och yttrande till<br>Trafikverket om<br>undantag från<br>bestämmelserna om<br>största tillåtna<br>fordonsbredd, -längd<br>och -vikt | 0 beslut till transportör om undantag<br>från bestämmelserna om största<br>tillåtna fordonsbredd, -längd och -<br>vikt<br>0 yttrande till Trafikverket om<br>undantag från bestämmelserna om<br>största tillåtna fordonsbredd, -längd<br>och -vikt |  |  |  |
 | 4.10 | 10 kap. 14 §<br>trafikförordnin<br>gen<br>(1998:1276) | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning<br>EC Anläggning<br>& Utveckling<br>Trafikingenjör<br>Samordnare<br>Vägtekniker | Beslut om föreskrifter<br>vid vägarbete eller<br>liknande arbete samt<br>under kortare tid vid<br>skada eller risk för<br>skada på väg | 3st beslut om föreskrifter vid<br>vägarbete eller liknande arbete samt<br>under kortare tid vid skada eller risk<br>för skada på väg<br>1384 2025-<br>00009 Kungsbacka torg<br>1384 2025-<br>00066 Östergatan<br>1384 2025-<br>00067 Särö centrumväg |  |  |  |
 | 4.11 | 2 § lagen om<br>flyttning av<br>fordon i vissa<br>fall och 2 §<br>förordningen<br>om flyttning av<br>fordon i vissa<br>fall | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Planering &<br>Utformning<br>EC Anläggning<br>& Utveckling<br>Arbetsledare,<br>Trafik-<br>samordnare<br>Trafikövervak<br>are | Beslut om flyttning av<br>fordon | 2 beslut om flyttning av fordon,<br>datum 2025-02-13 & 2025-02-18.<br>Ärende: TE-2025-00117 |  |  |  |
 
-[Tabell 561-2](handlingar.tabeller/561-2.csv)
+<!-- sida 561 -->
+
+KUNGSBACKA KOMMUN                                           5 (7)
+
+[Tabell 561-1](handlingar.tabeller/561-1.csv)
 
 | 1384 2025-<br>00009 | Kungsbacka torg |
 | --- | --- |
@@ -23461,17 +23478,59 @@ KUNGSBACKA KOMMUN                                           5 (7)
 
 KUNGSBACKA KOMMUN                                           6 (7)
 
-[Tabell 562-1](handlingar.tabeller/562-1.csv)
-
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-| 4.13 | 5 § lag<br>(1976:206) om<br>felparkeringsa<br>vgift och 1 §<br>lag (1984:318)<br>om<br>kontrollavgift<br>vid olovlig<br>parkering | Trafikövervaka<br>re | Beslut om<br>felparkeringsavgift<br>samt kontrollavgift vid<br>olovlig parkering | Parkeringsanmärkning (gatumark):<br>- 645 st i januari<br>- 597 st i februari<br>Kontrollavgifter (tomtmark):<br>- 127 st i januari<br>- 68 st i februari |
-| 4.14 | Vägmärkesför<br>ord ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen<br>3 kap. 4 § Plan<br>och Bygglagen<br>6 Kap. 21 | VC Trafik &<br>Utemiljö<br>EC Anläggning<br>& Utveckling<br>Samordnare | Beslut om tillstånd att<br>schakta i gator och<br>vägar för vilka<br>kommunen är<br>huvudman och vid<br>behov kräva säkerhet<br>för beräknade<br>kostnader för<br>återställande av<br>kommunens<br>anläggningar | 11 st. beslut om tillstånd att schakta i<br>gator och trafikanordningsplan. |
-| 4.15 | Vägmärkesför<br>ord ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen<br>3 kap. 4 § | VC Trafik &<br>Utemiljö<br>EC Anläggning<br>& Utveckling<br>Samordnare | Godkännande av<br>trafikanordningsplan | 23 st. beslut om enbart<br>trafikanordningsplan |
-| 4.16 | 13 kap. och 8 §<br>trafikförordnin<br>gen<br>(1998:1276) | Färdtjänstutre<br>dare | Beslut om<br>parkeringstillstånd för<br>rörelsehindrade | Beslut om parkeringstillstånd för<br>rörelsehindrad<br>Beviljade: 29<br>Avslagna: 3 |
-| 4.17 | Ordningslagen<br>(1993:1617) 2<br>kap | VC Trafik &<br>Utemiljö<br>EC Anläggning<br>& Utveckling<br>Samordnare | Yttrande till polisen<br>avseende begagnade<br>av offentlig plats | Se separat bilaga för Yttranden från<br>Teknik. |
-| 5.1 | 6–9 §§ lag<br>(1997:736) om<br>färdtjänst | Färdtjänstutre<br>dare<br>EC Kansli | Beslut om tillstånd till<br>färdtjänst med<br>regelkompletteringar | Beslut om färdtjänst<br>Beviljade: 67<br>Avslagna: 0 |
-| 5.3 | 4–7 §§ lag<br>(1997:735) om<br>riksfärdtjänst | Färdtjänstutre<br>dare<br>EC Kansli | Beslut om tillstånd till<br>riksfärdtjänst | Beslut om tillstånd till riksfärdtjänst<br>Beviljade: 6 |
+Punkt i
+delegeringsord        Ansvarig  Delegeringens
+ning       Lagrum     Delegat   omfattning     Taget beslut och datum för beslutet
+4.13       5 § lag    Trafikövervaka Beslut om Parkeringsanmärkning (gatumark):
+(1976:206) om re     felparkeringsavgift - 645 st i januari
+felparkeringsa
+samt kontrollavgift vid - 597 st i februari
+vgift och 1 §
+olovlig parkering
+lag (1984:318)
+Kontrollavgifter (tomtmark):
+om
+\- 127 st i januari
+kontrollavgift
+\- 68 st i februari
+vid olovlig
+parkering
+4.14       Vägmärkesför VC Trafik & Beslut om tillstånd att 11 st. beslut om tillstånd att schakta i
+ord ningen SFS Utemiljö schakta i gator och gator och trafikanordningsplan.
+2007:90 AFS EC Anläggning vägar för vilka
+1999:3 49 § 81 & Utveckling kommunen är
+§ (a-e)    Samordnare huvudman och vid
+Ordningslagen        behov kräva säkerhet
+3 kap. 4 § Plan      för beräknade
+och Bygglagen        kostnader för
+6 Kap. 21            återställande av
+kommunens
+anläggningar
+4.15       Vägmärkesför VC Trafik & Godkännande av 23 st. beslut om enbart
+ord ningen SFS Utemiljö trafikanordningsplan trafikanordningsplan
+2007:90 AFS EC Anläggning
+1999:3 49 § 81 & Utveckling
+§ (a-e)    Samordnare
+Ordningslagen
+3 kap. 4 §
+4.16       13 kap. och 8 § Färdtjänstutre Beslut om Beslut om parkeringstillstånd för
+trafikförordnin dare parkeringstillstånd för rörelsehindrad
+gen
+rörelsehindrade Beviljade: 29
+(1998:1276)
+Avslagna: 3
+4.17       Ordningslagen VC Trafik & Yttrande till polisen Se separat bilaga för Yttranden från
+(1993:1617) 2 Utemiljö avseende begagnade Teknik.
+kap        EC Anläggning av offentlig plats
+& Utveckling
+Samordnare
+5.1        6–9 §§ lag Färdtjänstutre Beslut om tillstånd till Beslut om färdtjänst
+(1997:736) om dare   färdtjänst med Beviljade: 67
+färdtjänst EC Kansli
+regelkompletteringar Avslagna: 0
+5.3        4–7 §§ lag Färdtjänstutre Beslut om tillstånd till Beslut om tillstånd till riksfärdtjänst
+(1997:735) om dare   riksfärdtjänst Beviljade: 6
+riksfärdtjänst EC Kansli
 
 <!-- sida 563 -->
 

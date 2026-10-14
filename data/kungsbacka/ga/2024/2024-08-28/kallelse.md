@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.50ef5810191784a92d93cf/172432689445
 sha256: bf03d4915ecf00ebdc51780cea5b41c15602f1531731d645d347ba86e6aab38f
 bytes: 228810
 sidor: 4
-hamtad: 2026-10-07T22:06:29+00:00
-konverterad: 2026-10-07T22:06:36+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T06:22:10+00:00
+konverterad: 2026-10-14T06:22:17+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -67,23 +67,20 @@ KUNGSBACKA  KOMMUN
 | 9. | Kvartalsuppföljning<br>arbetsmarknadsprocessen 2024<br>Föredragande: Karin<br>Zetterman<br>18:50-19:30 | GA-2024-<br>00081 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner redovisningen avseende kvartal 2 av<br>arbetsmarknadsprocessen 2024. |
 | 10. | Inför nämndsbudget 2025-<br>Sammanfattning av måldagen<br>Föredragande: Patrik Hellberg<br>19:30-19:45 | GA-2024-<br>00129 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 | 11. | IOP Stadsmissionen, IF Bostad<br>Först<br>Föredragande: Patrik Hellberg<br>19:45-19:50 | GA-2024-<br>00089 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att teckna avtal i form av Idéburet Offentligt<br>Partnerskap (IOP) med Göteborgs Stadsmission<br>gällande Bostad Först. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 12. | Fyllnadsval till individutskott | GA-2024-<br>00133 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad utser<br>Tina Hald (SD) som ledamot i Gymnasium &<br>Arbetsmarknads individutskott samt Markus Lindälv<br>(SD) som ersättare i Gymnasium & Arbetsmarknads<br>individutskott. |
 | 13. | Fyllnadsval till program- och<br>verksamhetsråd | GA-2024-<br>00134 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad utser<br>Pia Grapenstrand Kvarntun (M) som ledamot i<br>programråd för El- och energiprogrammet , Pontus<br>Jensen (S) som ledamot i programråd för<br>Restaurang- och livsmedelsprogrammet och Markus<br>Lindälv (SD) som ledamot i programråd för El- och<br>energiprogrammet. |
 | 14. | Återrapportering<br>avvikelsehantering 2024<br>Föredragande: Karin<br>Möglebust<br>19:50-20:00 | GA-2024-<br>00060 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner redovisningen avseende avvikelser under<br>kvartal 2 2024. |
 | 15. | Återrapportering av<br>delegeringsbeslut 2024 | GA-2024-<br>00001 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av delegeringsbeslut<br>under perioden 2024-05-01 till 2024-07-31 |
 | 16. | Återrapportering ej verkställda<br>beslut enligt SoL 2024 | GA-2024-<br>00061 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen avseende rapporteringen av ej<br>verkställda beslut under perioden 2024-04-01 till<br>2024-06-30. |
 | 17. | Inkomna skrivelser till<br>ledamöter och ersättare i<br>nämnden | GA-2024-<br>00002 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 18. | Återrapportering av program-<br>och verksamhetsråd till<br>nämnden | GA-2024-<br>00003 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 19. | Förvaltningschef informerar<br>Föredragande: Patrik Hellberg<br>20:10-20:20 | GA-2024-<br>00007 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -93,10 +90,3 @@ KUNGSBACKA  KOMMUN
 
 Axel Storckenfeldt (M)            Karin Möglebust
 ordförande                        sekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 18. | Återrapportering av program-<br>och verksamhetsråd till<br>nämnden | GA-2024-<br>00003 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-| 19. | Förvaltningschef informerar<br>Föredragande: Patrik Hellberg<br>20:10-20:20 | GA-2024-<br>00007 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |

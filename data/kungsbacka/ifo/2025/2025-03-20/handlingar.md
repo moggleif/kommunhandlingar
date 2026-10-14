@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.55d0832f195a1f17677f8b1/17422224388
 sha256: 9168b8715a68a9a0d9db02d42f212b7db998c78ccd73143d1c2f7391eeb6c36c
 bytes: 11060333
 sidor: 619
-hamtad: 2026-10-08T02:33:12+00:00
-konverterad: 2026-10-08T02:34:41+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T10:10:49+00:00
+konverterad: 2026-10-14T10:11:55+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok]
 tal_obekraftade: [553, 569, 570]
-figurer: null
-tolkade: null
+figurer: [3, 11, 12, 13, 17, 19, 20, 443, 477, 481, 509, 513, 514, 515, 517, 518, 519, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 593, 603, 604, 605]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -23860,17 +23860,42 @@ Kartläggning                    externa             priser
 
 Kartläggning                    interna            priset
 
+Politiskt                                Nominerings-
+Pris        FVL           KompPertiesnsusumtmveackling Förfarande       Delas ut            Övrigt
+instiftat                                   period
+Årets leverans, Årets
+Medarbetare och
+Del av Medarbetardagen
+nyskapare, Årets
+Året medarbetare                                  invånare röstar,
+KSF     Nej       välkomnare                     Maj-okt     Nov
+(fyra kategorier)                                 Intern jury utser                   Både medarbetare och invånare kan
+10 000 kr
+nominera och rösta.
+vinnare
+Årets team
+25 000 kr
+Årets utvecklande
+ledare: 15 000 kr
+kompetensutveckling
+Årets ledare                                    Intern jury utser
+KSF     Nej                                      Feb-mars    Sept          Del av Ledardagen
+(två kategorier)                                     vinnare
+Årets nyskapande
+ledare: 15 000 kr
+kompetensutveckling
+10 000-20000                  Hösten, senast
+Leva livet-priset VO     KF                                                  KF feb    Krockar med Årets medarbetare?
+kompetensutveckling                  1 nov
+Krockar med Årets medarbetare?
+Nämnden utser Hösten, senast
+Lära för livet-priset FG & GA Nämnd\* 10 000 kr/pristagare                     KF nov
+varsin vinnare    1 okt
+Har tidigare delats ut i juni.
+Ej i bruk, men beslutat i KF 2021-05-04.
+Självständigt liv IF     KF
+(KS-2019-00903 i Ciceron).
 \*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
-
-[Tabell 557-1](handlingar.tabeller/557-1.csv)
-
-| Pris | FVL | Politiskt<br>instiftat | KompPertiesnsusumtmveackling | Förfarande | Nominerings-<br>period | Delas ut | Övrigt |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Året medarbetare<br>(fyra kategorier) | KSF | Nej | Årets leverans, Årets<br>nyskapare, Årets<br>välkomnare<br>10 000 kr<br>Årets team<br>25 000 kr | Medarbetare och<br>invånare röstar,<br>Intern jury utser<br>vinnare | Maj-okt | Nov | Del av Medarbetardagen<br>Både medarbetare och invånare kan<br>nominera och rösta. |
-| Årets ledare<br>(två kategorier) | KSF | Nej | Årets utvecklande<br>ledare: 15 000 kr<br>kompetensutveckling<br>Årets nyskapande<br>ledare: 15 000 kr<br>kompetensutveckling | Intern jury utser<br>vinnare | Feb-mars | Sept | Del av Ledardagen |
-| Leva livet-priset | VO | KF | 10 000-20000<br>kompetensutveckling |  | Hösten, senast<br>1 nov | KF feb | Krockar med Årets medarbetare? |
-| Lära för livet-priset | FG & GA | Nämnd\* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
-| Självständigt liv | IF | KF |  |  |  |  | Ej i bruk, men beslutat i KF 2021-05-04.<br>(KS-2019-00903 i Ciceron). |
 
 <!-- sida 558 -->
 
@@ -24049,7 +24074,7 @@ avstår och 1 frånvarande, beslutar enligt kommunstyrelsens förslag.
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 561-1](handlingar.tabeller/561-1.csv)
+[Tabell 561-562-1](handlingar.tabeller/561-562-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -24072,23 +24097,7 @@ Justerare                         Expedierat/bestyrkt
 | Tommy Bech | (SD) | Alla |  |  | X |  |  |
 | Marianne Pleijel | (M) | Alla |  | X |  |  |  |
 | Bengt Alderin | (C) | Alla |  | X |  |  |  |
-
-<!-- sida 562 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           3 (3)
-Kommunfullmäktige
-Datum
-2021-05-04
-
-Beslutet skickas till
-Nämnden för Individ & Familjeomsorg
-
-Justerare                         Expedierat/bestyrkt
-
-[Tabell 562-1](handlingar.tabeller/562-1.csv)
-
 | Maria Rasmussen | (V) | Alla |  | X |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Filip Berndtsson | (M) | Alla |  | X |  |  |  |
 | Lars Eriksson | (S) | Alla |  | X |  |  |  |
 | Susanne Andersson | (SD) | Alla |  |  | X |  |  |
@@ -24131,6 +24140,18 @@ Justerare                         Expedierat/bestyrkt
 | Ulrika Högstrand | (KD) | Alla |  |  |  | X |  |
 | Anders Ekström | (M) | Alla |  | X |  |  |  |
 | SUMMA: |  |  |  | 43 | 9 | 8 | 1 |
+
+<!-- sida 562 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           3 (3)
+Kommunfullmäktige
+Datum
+2021-05-04
+
+Beslutet skickas till
+Nämnden för Individ & Familjeomsorg
+
+Justerare                         Expedierat/bestyrkt
 
 <!-- sida 563 -->
 
@@ -25772,9 +25793,9 @@ konsekvensbedömningen:
 
 9
 
-[Tabell 601-1](handlingar.tabeller/601-1.csv)
+[Tabell 601-602-1](handlingar.tabeller/601-602-1.csv)
 
-| Gjorda konsekvensbedömningar där yttrande lämnats<br>2021 2022 2023 2024 |  |  |  |
+| Gjorda konsekvensbedömningar där yttrande lämnats<br>2021 | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- |
 | Integrationsplattform<br>(SE) | Kontors- och<br>samarbetsverktyg (KS) | Stöd vid separationer<br>(IF) | Digitalt stöd för<br>medborgardialog (KS) |
 | Mitt Arkiv (KS) | Ansökan om stipendium –<br>e-tjänst (GA) | Specialkost (SE) | Specialkost (SE) |
@@ -25783,6 +25804,16 @@ konsekvensbedömningen:
 | Bedömningsstöd inom<br>gymnasieskolan (GA) | Hantering av<br>användarbehörigheter (SE) | Automatiserat avslut<br>av personakter (SE) | Kompletterande<br>kamerabevakning i<br>cykelgarage (TE) |
 | Färdtjänst – e-tjänst (TE) | Rapportering av<br>missförhållanden<br>(visselblåsarfunktion) (KS) | Analys- och<br>planeringsstöd inom<br>socialtjänsten (IF) | Kompletterande<br>kamerabevakning/digital<br>tillsyn (IF) |
 | Ekonomiskt bistånd – e-<br>tjänst (GA) | Digitalt stöd inom LSS (IF) | Säker posthantering<br>(digital/fysisk) (KS) | Elevhälsans medicinska<br>insats (FG), (GA) |
+| Orosanmälan – e-tjänst<br>(IF) | Anmälan om tillsyn enligt<br>plan- och bygglagen<br>(olovligheter) – e-tjänst<br>(BN) | Dokumentationsstöd<br>för individärenden<br>inom socialtjänst (IF) | Rekryteringstester (SE) |
+|  | Säker invånardialog (KS) | Digitalt stöd vid ASI-<br>utredning (IF) | Handläggningsstöd för<br>insatser inom<br>socialtjänst i form av<br>arbetsmarknadsinsatser<br>och etablerings- och<br>försörjningsstöd (GA) |
+|  | Stopp-möte (KFT) | Säker arbetsyta för<br>tillfällig hantering av<br>känslig information8<br>(KS) | Behovsanalys kopplat till<br>aktivitetsbaserade<br>arbetsplatser (SE) |
+|  | Hantering av skyddade<br>personuppgifter vid<br>handläggning inom<br>socialtjänsten (IF) |  |  |
+|  | Samtalsstöd för barn och<br>unga inom socialtjänsten<br>(IF) |  |  |
+|  | Analys- och planeringsstöd<br>inom socialtjänsten (IF/VO) |  |  |
+|  | E-underskrifter (KS) |  |  |
+|  | Pulsmätning av<br>arbetsmiljön (KS) |  |  |
+|  | Gästnätverk (SE) |  |  |
+|  | Uppföljning av<br>verksamhetsservice per<br>fastighetsobjekt (SE) |  |  |
 
 <!-- sida 602 -->
 
@@ -25802,20 +25833,6 @@ incidenter i en verksamhet som hanterar stora mängder personuppgifter väcker f
 finns rutiner. I sammanhanget ska det också sägas att många rapporterade och hanterade incidenter
 
 8 Tröskelanalys                                                 10
-
-[Tabell 602-1](handlingar.tabeller/602-1.csv)
-
-| Orosanmälan – e-tjänst<br>(IF) | Anmälan om tillsyn enligt<br>plan- och bygglagen<br>(olovligheter) – e-tjänst<br>(BN) | Dokumentationsstöd<br>för individärenden<br>inom socialtjänst (IF) | Rekryteringstester (SE) |
-| --- | --- | --- | --- |
-|  | Säker invånardialog (KS) | Digitalt stöd vid ASI-<br>utredning (IF) | Handläggningsstöd för<br>insatser inom<br>socialtjänst i form av<br>arbetsmarknadsinsatser<br>och etablerings- och<br>försörjningsstöd (GA) |
-|  | Stopp-möte (KFT) | Säker arbetsyta för<br>tillfällig hantering av<br>känslig information8<br>(KS) | Behovsanalys kopplat till<br>aktivitetsbaserade<br>arbetsplatser (SE) |
-|  | Hantering av skyddade<br>personuppgifter vid<br>handläggning inom<br>socialtjänsten (IF) |  |  |
-|  | Samtalsstöd för barn och<br>unga inom socialtjänsten<br>(IF) |  |  |
-|  | Analys- och planeringsstöd<br>inom socialtjänsten (IF/VO) |  |  |
-|  | E-underskrifter (KS) |  |  |
-|  | Pulsmätning av<br>arbetsmiljön (KS) |  |  |
-|  | Gästnätverk (SE) |  |  |
-|  | Uppföljning av<br>verksamhetsservice per<br>fastighetsobjekt (SE) |  |  |
 
 <!-- sida 603 -->
 

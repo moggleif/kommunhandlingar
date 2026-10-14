@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2eac78ea193953fe28062f0/17334157807
 sha256: c27cf90e55dd2f0730bf43c2f24cc173fcc1f3f9a98467f983d1bff3c7c9f24d
 bytes: 205223
 sidor: 4
-hamtad: 2026-10-08T00:44:30+00:00
-konverterad: 2026-10-08T00:44:37+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T08:37:35+00:00
+konverterad: 2026-10-14T08:37:42+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -70,12 +70,16 @@ KUNGSBACKA  KOMMUN
 
 3(4)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
+[Tabell 3-4-1](kallelse.tabeller/3-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 9. | GC-väg Göteborgsvägen, delen<br>Södra Rågelundsvägen -<br>Lurendalsvägen | TE-2024-00901<br>Fillitsa<br>Grönberg &<br>Emir Halalkic,<br>20:15 – 20:30 | Nämnden för Teknik beslutar föreslå<br>Kommunfullmäktige att genomföra projektet<br>gång- och cykelväg längs Göteborgsvägen i<br>Frillesås, delen Södra Rågelundsvägen -<br>Lurendalsvägen samt att ingå ett<br>medfinansieringsavtal med Trafikverket för<br>genomförande av projektet, till en bedömd<br>kostnad av 15,5 miljoner kronor i prisnivå juni<br>2024 enligt Trafikverkets index för<br>väginvesteringar.<br>Nämnden för Teknik beslutar föreslå<br>Kommunfullmäktige att besluta tilldela projektet<br>15,5 miljoner kronor i prisnivå juni 2024 samt<br>tilldela nämnden för Teknik 3,1 miljoner kronor i<br>prisnivå juni 2024 i en utanpåliggande<br>projektspecifik riskreserv. Nämnden för Teknik<br>föreslår att kostnaderna finansieras av<br>kommunens centrala finansverksamhet.<br>Nämnden för Teknik beslutar föreslå<br>Kommunfullmäktige att utse nämnden för<br>Teknik till ansvarig för projektet samt att ge<br>nämnden rätt att genomföra nödvändiga<br>anpassningar av projektet som inte är av<br>principiell beskaffenhet eller annars av större<br>vikt.<br>Nämnden för Teknik beslutar föreslå<br>Kommunfullmäktige att delegera till nämnden att<br>underteckna medfinansieringsavtal och<br>eventuella tilläggsavtal upp till 18,6 miljoner<br>kronor med Trafikverket enligt ovan. |
 | 10. | Vattentjänstplan | TE-2023-00969<br>Catarina<br>Sundberg,<br>20:30 – 20:35 | Nämnden för Teknik antar Vattentjänstplan<br>daterad 2024-05-30 och översänder den till<br>Kommunfullmäktige för fastställande. |
+| 11. | Motion - Förbud mot<br>användning av lustgas i<br>berusningssyfte på offentliga<br>platser i Kungsbacka, KS 2024-<br>00740 | TE-2024-01349<br>Emir Halalkic,<br>20:35 – 20:40 | Nämnden för Teknik noterar den inkomna<br>motionen från Sverigedemokraterna (SD) till<br>protokollet. |
+| 12. | Anmälan av delegeringsbeslut<br>2024 | TE-2024-00003<br>20:40 – 20:45 | Nämnden för Teknik noterar delegeringsbeslut<br>fattade under november 2024. |
+| 13. | Redovisning av inkomna<br>handlingar 2024 | TE-2024-00002<br>20:40 – 20:45 | Nämnden för Teknik noterar redovisningen av<br>inkomna skrivelser till protokollet. |
+| 14. | Information från förvaltningen<br>2024 | TE-2024-00004<br>Ulrika Granfors,<br>20:45 – 21:00 | Nämnden för Teknik noterar informationen till<br>protokollet. |
 
 <!-- sida 4 -->
 
@@ -85,12 +89,3 @@ KUNGSBACKA  KOMMUN
 
 Monica Neptun                     Simon Nissen
 ordförande                        sekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | Motion - Förbud mot<br>användning av lustgas i<br>berusningssyfte på offentliga<br>platser i Kungsbacka, KS 2024-<br>00740 | TE-2024-01349<br>Emir Halalkic,<br>20:35 – 20:40 | Nämnden för Teknik noterar den inkomna<br>motionen från Sverigedemokraterna (SD) till<br>protokollet. |
-| 12. | Anmälan av delegeringsbeslut<br>2024 | TE-2024-00003<br>20:40 – 20:45 | Nämnden för Teknik noterar delegeringsbeslut<br>fattade under november 2024. |
-| 13. | Redovisning av inkomna<br>handlingar 2024 | TE-2024-00002<br>20:40 – 20:45 | Nämnden för Teknik noterar redovisningen av<br>inkomna skrivelser till protokollet. |
-| 14. | Information från förvaltningen<br>2024 | TE-2024-00004<br>Ulrika Granfors,<br>20:45 – 21:00 | Nämnden för Teknik noterar informationen till<br>protokollet. |

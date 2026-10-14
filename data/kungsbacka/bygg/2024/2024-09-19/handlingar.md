@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.696a1739194d8513e942c9d8/1738926067
 sha256: 36c0df7657efdf55609f2e1fe8a26653846dc34de12053feeed2a26030c3f69d
 bytes: 970234
 sidor: 32
-hamtad: 2026-10-07T23:49:01+00:00
-konverterad: 2026-10-07T23:49:13+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T07:50:38+00:00
+konverterad: 2026-10-14T07:50:50+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -647,6 +647,18 @@ Delårsrapport augusti 2024
 
 4.1 Uppföljning drift delår
 
+Bokslut Budget Prognos Budget-  Delår   Delår Avvikelse
+Miljoner kronor
+2023    2024   2024   avvikelse 2023   2024    delår
+Byggnadsnämnde
+-1,4    -1,7    -1,5    0,2    -1,0    -0,8     0,2
+n
+Geodata &
+Bygglov
+
+Periodens
+-38,7   -39,1   -39,1    0,0    -27,3  -25,4     1,9
+resultat
 4.2 Analys och kommentarer
 
 4.2.1 Resultat per augusti
@@ -672,19 +684,12 @@ utstakningar är lägre än väntat. Den största avvikelsen för intäkterna g�
 
 [Tabell 14-1](handlingar.tabeller/14-1.csv)
 
-| Miljoner kronor<br>Byggnadsnämnde<br>n | Bokslut<br>2023<br>-1,4 | Budget<br>2024<br>-1,7 | Prognos<br>2024<br>-1,5 | Budget-<br>avvikelse<br>0,2 | Delår<br>2023<br>-1,0 | Delår<br>2024<br>-0,8 | Avvikelse<br>delår<br>0,2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |
-| Geodata &<br>Bygglov |  |  |  |  |  |  |  |
 | Intäkter | 25,2 | 25 | 26 | 1 | 16,5 | 17,4 | 0,9 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | Kostnader | -45,7 | -46,5 | -47,4 | -0,9 | -30,7 | -31,6 | -0,9 |
-|  |  |  |  |  |  |  |  |
 | Miljö & Hälsoskydd |  |  |  |  |  |  |  |
 | Intäkter | 17,3 | 19,9 | 19,2 | -0,7 | 10,4 | 12,9 | 2,5 |
 | Kostnader | -34,1 | -35,8 | -35,4 | 0,4 | -22,5 | -23,3 | -0,8 |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-| Periodens<br>resultat | -38,7 | -39,1 | -39,1 | 0,0 | -27,3 | -25,4 | 1,9 |
 
 <!-- sida 15 -->
 
@@ -1221,25 +1226,28 @@ lantmäterimyndighet. Av ansökan framgick bland annat att myndigheten initialt 
 sysselsätta sju årsarbetskrafter. Regeringen ansåg då att kommunen inte uppfyllde lagens krav på
 tillräcklig omfattning för att kunna bibehålla nödvändig kompetens.
 
+Kommun     Föreslagna Antal inkomna Genomsnittlig Antal invånare Beslut från
+antal års- förrättningar årlig intäkt för i kommunen regeringen
+arbetare per år (cirka) förrättningar (cirka)
+(miljoner kr)
+
+```osaker-tabell
+Malung-Sälen 7      100         7           10 000 (80 000) 2023 (senaste)
+Härryda    6        100         7,5         40 000     2023
+Järfälla   4-5      40-50       4,2         80 000     2021
+Falu kommun 5       130         4,7         60 000     2017
+Ljusdal    5        100         6           20 000     2017
+Vetlanda   3        80          2,6         27 000     2017
+Höganäs    3-4      50          2,3         25 000     2016 (senaste)
+Ängelholm  Minst 2  60          3           24 000     2016
+```
+
 (siffrorna är tagna ur respektive kommuns ansökan om kommunalt lantmäteri, samt Lantmäteriets yttranden)
 
 2 Lag (1995:1393) om kommunal lantmäterimyndighet | Sveriges riksdag (riksdagen.se)
 
 Kungsbacka kommun Förutsättningar för att ansöka om kommunalt lantmäteri i 5
 Kungsbacka
-
-[Tabell 26-1](handlingar.tabeller/26-1.csv)
-
-| Kommun Föreslagna Antal inkomna Genomsnittlig Antal invånare Beslut från<br>antal års- förrättningar årlig intäkt för i kommunen regeringen<br>arbetare per år (cirka) förrättningar (cirka)<br>(miljoner kr) |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Malung-Sälen | 7 | 100 | 7 | 10 000 (80 000) | 2023 (senaste) |
-| Härryda | 6 | 100 | 7,5 | 40 000 | 2023 |
-| Järfälla | 4-5 | 40-50 | 4,2 | 80 000 | 2021 |
-| Falu kommun | 5 | 130 | 4,7 | 60 000 | 2017 |
-| Ljusdal | 5 | 100 | 6 | 20 000 | 2017 |
-| Vetlanda | 3 | 80 | 2,6 | 27 000 | 2017 |
-| Höganäs | 3-4 | 50 | 2,3 | 25 000 | 2016 (senaste) |
-| Ängelholm | Minst 2 | 60 | 3 | 24 000 | 2016 |
 
 <!-- sida 27 -->
 

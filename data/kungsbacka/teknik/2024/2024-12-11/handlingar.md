@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2eac78ea193953fe2801239c/1733495158
 sha256: c13b4f8c7037a64c8686b0f6bb278ee56d7cc697bb7d9944a935b52102212fad
 bytes: 13668961
 sidor: 226
-hamtad: 2026-10-08T01:00:15+00:00
-konverterad: 2026-10-08T01:01:01+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T08:50:24+00:00
+konverterad: 2026-10-14T08:51:03+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [217, 218]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok]
+tal_obekraftade: [8, 10, 12, 13, 14, 15, 17, 18, 20, 23, 24, 67, 68, 69, 73, 75, 76, 169, 217, 218]
+figurer: [3, 9, 10, 11, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 38, 39, 40, 41, 43, 44, 45, 46, 48, 49, 50, 51, 52, 53, 54, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 92, 107, 111, 166, 167, 168, 169, 170, 171, 174, 194, 198, 199, 201, 205, 207]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -2802,7 +2802,12 @@ Inflyttningar Utflyttningar Flyttningsöverskott
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | Falkenberg | Varberg | Kungsbacka | Göteborg | Mölndal | Halmstad |
 | --- | --- | --- | --- | --- | --- | --- |
-| <1 år 29 27 20 37 27 38<br>1–2 år 17 17 11 19 14 19<br>2–3 år 10 8 7 9 9 10<br>3–5 år 8 8 7 8 8 7<br>5–10 år 7 8 10 7 9 6<br>>10 år 29 32 45 19 33 20 |  |  |  |  |  |  |
+| <1 år | 29 | 27 | 20 | 37 | 27 | 38 |
+| 1–2 år | 17 | 17 | 11 | 19 | 14 | 19 |
+| 2–3 år | 10 | 8 | 7 | 9 | 9 | 10 |
+| 3–5 år | 8 | 8 | 7 | 8 | 8 | 7 |
+| 5–10 år | 7 | 8 | 10 | 7 | 9 | 6 |
+| >10 år | 29 | 32 | 45 | 19 | 33 | 20 |
 
 <!-- sida 70 -->
 
@@ -2820,7 +2825,13 @@ ungdomar och 1/3-del svarar att det är balans.
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | KUNGSBACKA<br>STAD | SLÄP | VALLDA | ONSALA | FJÄRÅS | ÅSA<br>FRILLESÅS | GÄLLINGE | ÄLVSÅKER | KOMMUN |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <1 år 31 12 12 12 17 18 20 20 20<br>1–2 år 16 5 8 6 13 8 16 11 11<br>2–3 år 10 5 3 4 7 5 7 7 7<br>3–5 år 8 8 6 7 8 6 6 10 7<br>5–10 år 10 11 7 11 10 11 6 9 10<br>>10 år 24 59 64 61 46 51 45 44 45<br>Total 100 100 100 100 100 100 100 100 100 |  |  |  |  |  |  |  |  |  |
+| <1 år | 31 | 12 | 12 | 12 | 17 | 18 | 20 | 20 | 20 |
+| 1–2 år | 16 | 5 | 8 | 6 | 13 | 8 | 16 | 11 | 11 |
+| 2–3 år | 10 | 5 | 3 | 4 | 7 | 5 | 7 | 7 | 7 |
+| 3–5 år | 8 | 8 | 6 | 7 | 8 | 6 | 6 | 10 | 7 |
+| 5–10 år | 10 | 11 | 7 | 11 | 10 | 11 | 6 | 9 | 10 |
+| >10 år | 24 | 59 | 64 | 61 | 46 | 51 | 45 | 44 | 45 |
+| Total | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |
 
 <!-- sida 71 -->
 
@@ -7872,7 +7883,16 @@ nuvarande utsläppspunkt i Kungsbackaån, ca 1,5 km från mynningen av
 Kungsbackafjorden.
 
 Tabell 2. Utsläppsvillkor för nya Hammargårds ARV.
-
+Utsläppsvillkor
+Biologisk       Årsmedelvärde får inte överstiga 5 mg/l eller totalt 32 ton per
+Syreförbrukning (BOD 9) år
+7
+Totalfosfor10 (P ) Årsmedelvärde får inte överstiga 0,2 mg/l eller totalt 0,9 ton
+tot
+per år.
+Totalkväve11 (N ) Årsmedelvärde får inte överstiga 6 mg/l eller totalt 40 ton per
+tot
+år.
 Orsaken till utbyggnaden är att Kungsbackas befolkning ökar. Hammargårds
 avloppsreningsverk tar idag emot avloppet från motsvarande 41 000 personer, och
 har tillstånd för 52 000. Den framtida belastningen på verket prognostiseras till 50
@@ -7888,14 +7908,6 @@ https://avloppsguiden.se/informationssidor/avloppsguidens-ordlista/)
 10 Både partikelbunden fosfor och fosfor i lösning.
 11 Både partikelbundet kväve och kväve i lösning.
 Kungsbacka kommun              Styrande dokument               15 (36)
-
-[Tabell 190-1](handlingar.tabeller/190-1.csv)
-
-| Utsläppsvillkor |  |
-| --- | --- |
-| Biologisk<br>Syreförbrukning (BOD 9)<br>7 | Årsmedelvärde får inte överstiga 5 mg/l eller totalt 32 ton per<br>år |
-| Totalfosfor10 (P )<br>tot | Årsmedelvärde får inte överstiga 0,2 mg/l eller totalt 0,9 ton<br>per år. |
-| Totalkväve11 (N )<br>tot | Årsmedelvärde får inte överstiga 6 mg/l eller totalt 40 ton per<br>år. |
 
 <!-- sida 191 -->
 
@@ -9295,32 +9307,102 @@ KUNGSBACKA KOMMUN                                           2 (4)
 
 KUNGSBACKA KOMMUN                                           3 (4)
 
-[Tabell 223-1](handlingar.tabeller/223-1.csv)
-
-| Punkt i<br>delegeringsordn<br>ing | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-|  |  | Trafikövervakar<br>e |  |  |
-| 4.13 | 5 § lag<br>(1976:206) om<br>felparkeringsav<br>gift och 1 § lag<br>(1984:318) om<br>kontrollavgift<br>vid olovlig<br>parkering | Trafikövervakar<br>e | Beslut om<br>felparkeringsavgif<br>t samt<br>kontrollavgift vid<br>olovlig parkering | Felparkeringsavgifter (gatumark):<br>November: 556<br>Kontrollavgifter (tomtmark):<br>November: 95 |
-| 4.14 | Vägmärkesföro<br>rd ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen<br>3 kap. 4 § Plan<br>och Bygglagen<br>6 Kap. 21 | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning<br>& Utveckling<br>Vägtekniker | Beslut om<br>tillstånd att<br>schakta i gator<br>och vägar för<br>vilka kommunen<br>är huvudman och<br>vid behov kräva<br>säkerhet för<br>beräknade<br>kostnader för<br>återställande av<br>kommunens<br>anläggningar | Inga beslut tagna under november<br>månad |
-| 4.15 | Vägmärkesföro<br>rd ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen<br>3 kap. 4 § | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning<br>& Utveckling<br>Vägtekniker | Godkännande av<br>trafikanordningsp<br>lan | 33 beslut tagna under november |
-| 4.16 | 13 kap. och 8 §<br>trafikförordnin<br>gen<br>(1998:1276) | Färdtjänstutred<br>are | Beslut om<br>parkeringstillstån<br>d för<br>rörelsehindrade | Beslut om parkeringstillstånd för<br>rörelsehindrad<br>Beviljade: 23<br>Avslagna: 2 |
-| 4.17 | Ordningslagen<br>(1993:1617) 2<br>kap | VC Trafik &<br>Utemiljö<br>EC Anläggning<br>& Utveckling<br>Samordnare | Yttrande till<br>polisen avseende<br>begagnade av<br>offentlig plats | Se separat bilaga för Yttranden från<br>Teknik. |
-| 5.1 | 6–9 §§ lag<br>(1997:736) om<br>färdtjänst | Färdtjänstutred<br>are<br>EC Kansli | Beslut om<br>tillstånd till | Beslut om färdtjänst<br>Beviljade: 58<br>Avslagna: 0 |
+Punkt i
+delegeringsordn       Ansvarig   Delegeringens
+ing         Lagrum    Delegat    omfattning  Taget beslut och datum för beslutet
+Trafikövervakar
+e
+4.13        5 § lag   Trafikövervakar Beslut om Felparkeringsavgifter (gatumark):
+(1976:206) om e      felparkeringsavgif November: 556
+felparkeringsav
+t samt
+gift och 1 § lag
+kontrollavgift vid Kontrollavgifter (tomtmark):
+(1984:318) om
+olovlig parkering November: 95
+kontrollavgift
+vid olovlig
+parkering
+4.14        Vägmärkesföro VC Trafik & Beslut om Inga beslut tagna under november
+rd ningen SFS Utemiljö tillstånd att månad
+2007:90 AFS EC drift Gata schakta i gator
+1999:3 49 § 81 EC Anläggning och vägar för
+§ (a-e)   & Utveckling vilka kommunen
+Ordningslagen Vägtekniker är huvudman och
+3 kap. 4 § Plan      vid behov kräva
+och Bygglagen        säkerhet för
+6 Kap. 21            beräknade
+kostnader för
+återställande av
+kommunens
+anläggningar
+4.15        Vägmärkesföro VC Trafik & Godkännande av 33 beslut tagna under november
+rd ningen SFS Utemiljö trafikanordningsp
+2007:90 AFS EC drift Gata lan
+1999:3 49 § 81 EC Anläggning
+§ (a-e)   & Utveckling
+Ordningslagen Vägtekniker
+3 kap. 4 §
+4.16        13 kap. och 8 § Färdtjänstutred Beslut om Beslut om parkeringstillstånd för
+trafikförordnin are  parkeringstillstån rörelsehindrad
+gen
+d för       Beviljade: 23
+(1998:1276)
+rörelsehindrade Avslagna: 2
+4.17        Ordningslagen VC Trafik & Yttrande till Se separat bilaga för Yttranden från
+(1993:1617) 2 Utemiljö polisen avseende Teknik.
+kap       EC Anläggning begagnade av
+& Utveckling offentlig plats
+Samordnare
+5.1         6–9 §§ lag Färdtjänstutred Beslut om Beslut om färdtjänst
+(1997:736) om are    tillstånd till Beviljade: 58
+färdtjänst EC Kansli
+Avslagna: 0
 
 <!-- sida 224 -->
 
 KUNGSBACKA KOMMUN                                           4 (4)
 
-[Tabell 224-1](handlingar.tabeller/224-1.csv)
+Punkt i
+delegeringsordn       Ansvarig   Delegeringens
+ing         Lagrum    Delegat    omfattning  Taget beslut och datum för beslutet
+färdtjänst med
+regelkompletterin
+gar
 
-| Punkt i<br>delegeringsordn<br>ing | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-|  |  |  | färdtjänst med<br>regelkompletterin<br>gar |  |
-| 5.3 | 4–7 §§ lag<br>(1997:735) om<br>riksfärdtjänst | Färdtjänstutred<br>are<br>EC Kansli | Beslut om<br>tillstånd till<br>riksfärdtjänst | Beslut om tillstånd till riksfärdtjänst<br>Beviljade: 15<br>Avslagna: 0 |
-| 8.3 | 37§ Lokala<br>avfallsföreskrift<br>er för<br>Kungsbacka<br>kommun | Anette<br>Englund,<br>administratör<br>Kund &<br>Kommunikation | Besluta om<br>godkännande av<br>kompostering av<br>matavfall | 241113, 1 st<br>241114, 1 st<br>241128, 1 st |
-| 8.5 | 42 § Lokala<br>avfallsföres<br>krifter för<br>Kungsbacka<br>kommun | Anette<br>Englund,<br>administratör<br>Kund &<br>Kommunikation | Besluta om att<br>använda<br>gemensam<br>avfallsbehållare | 241129, 1 st |
-| 8.6 | 43, 43a §§<br>Lokala<br>avfallsföreskrift<br>er för<br>Kungsbacka<br>kommun | Anette Englund,<br>administratör<br>Kund &<br>Kommunikation | Besluta om<br>tillfälligt uppehåll<br>i sophämtning | 241101, 1 st<br>241104, 2 st<br>241105, 1 st<br>241114, 1 st<br>241119, 1 st<br>241122, 3 st<br>241128, 1 st<br>241129, 6 st |
-| 9.5 |  | FC/VC<br>EC Kund &<br>Kommunikation | Träffat<br>överenskommelse<br>om betalning av<br>fordran / ingått<br>förlikning om<br>fordran (belopp<br>upp till 0,5<br>prisbasbelopp<br>utgör<br>verkställighet.) | 1 beslut om överenskommelse om<br>betalning om fordran.<br>TE-2024-01340. |
+5.3         4–7 §§ lag Färdtjänstutred Beslut om Beslut om tillstånd till riksfärdtjänst
+(1997:735) om are    tillstånd till Beviljade: 15
+riksfärdtjänst EC Kansli
+riksfärdtjänst Avslagna: 0
+8.3         37§ Lokala Anette    Besluta om  241113, 1 st
+avfallsföreskrift Englund, godkännande av 241114, 1 st
+er för    administratör kompostering av 241128, 1 st
+Kungsbacka Kund &    matavfall
+kommun    Kommunikation
+8.5         42 § Lokala Anette   Besluta om att 241129, 1 st
+
+avfallsföres Englund, använda
+krifter för administratör gemensam
+Kungsbacka Kund &    avfallsbehållare
+kommun    Kommunikation
+8.6         43, 43a §§ Anette Englund, Besluta om 241101, 1 st
+Lokala    administratör tillfälligt uppehåll 241104, 2 st
+avfallsföreskrift Kund & i sophämtning 241105, 1 st
+er för    Kommunikation          241114, 1 st
+Kungsbacka                       241119, 1 st
+kommun                           241122, 3 st
+241128, 1 st
+241129, 6 st
+9.5                   FC/VC      Träffat     1 beslut om överenskommelse om
+EC Kund &  överenskommelse betalning om fordran.
+Kommunikation om betalning av TE-2024-01340.
+fordran / ingått
+förlikning om
+fordran (belopp
+upp till 0,5
+prisbasbelopp
+utgör
+verkställighet.)
 
 <!-- sida 225 -->
 

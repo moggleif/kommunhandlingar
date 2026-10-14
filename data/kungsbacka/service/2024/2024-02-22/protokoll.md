@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.8bcd94c18d8729c25b2efec/17086813377
 sha256: 01a22b746f959a61767bf31f96892d5d78cd20821d87ddb8d20b148070b08614
 bytes: 140083
 sidor: 18
-hamtad: 2026-10-08T01:59:05+00:00
-konverterad: 2026-10-08T01:59:11+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:39:16+00:00
+konverterad: 2026-10-14T09:39:23+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -569,7 +569,7 @@ Följande skrivelser inkommit till nämnden för Service under perioden 2024-01-
 
 Expedierat/bestyrkt
 
-[Tabell 13-1](protokoll.tabeller/13-1.csv)
+[Tabell 13-14-1](protokoll.tabeller/13-14-1.csv)
 
 | Beskrivning | Inkom | Tillhör ärende | Ärendemening |
 | --- | --- | --- | --- |
@@ -578,6 +578,12 @@ Expedierat/bestyrkt
 | Lönekartläggning och<br>Handlingsplan Kungsbacka<br>kommun 2023 | 2024-01-26 | SE-2024-00036 | Fastställande av<br>lönestruktur 2024 samt<br>information om<br>lönekartläggning 2023 |
 | Kommunstyrelsens beslut<br>(KS 2024-01-23, § 19)<br>Granskning av<br>informationssäkerhet | 2024-01-26 | SE-2024-00038 | Kommunstyrelsens<br>yttrande<br>Granskning av<br>informationssäkerhet |
 | Kommunstyrelsens yttrande<br>Granskning av<br>informationssäkerhet | 2024-01-26 | SE-2024-00038 | Kommunstyrelsens<br>yttrande<br>Granskning av<br>informationssäkerhet |
+| (Kommunstyrelsen)<br>(Beslut § 16)<br>Förändring av projekt och<br>omfördelning av budget i<br>lokalplan Björkris boende<br>med särskild service | 2024-01-29 | SE-2024-00039 | Förändring av projekt<br>och omfördelning av<br>budget i lokalplan<br>Björkris boende med<br>särskild service<br>(löp nr 504) |
+| (Tjänsteskrivelse)<br>Förändring av projekt och<br>omfördelning av budget i<br>lokalplan Björkris boende<br>med särskild service | 2024-01-29 | SE-2024-00039 | Förändring av projekt<br>och omfördelning av<br>budget i lokalplan<br>Björkris boende med<br>särskild service<br>(löp nr 504) |
+| Kommunbudget 2024 och<br>plan 2025-2026, lokalplan<br>sidor 48-55 | 2024-01-29 | SE-2024-00039 | Förändring av projekt<br>och omfördelning av<br>budget i lokalplan<br>Björkris boende med<br>särskild service<br>(löp nr 504) |
+| (Kommunstyrelsen)<br>(Beslut § 15)<br>Uppstart av projekt i<br>lokalplan Kv. Liljan skola<br>och idrottssal | 2024-01-29 | SE-2024-00040 | Uppstart av projekt i<br>lokalplan Kv. Liljan<br>skola och idrottssal |
+| (Tjänsteskrivelse)<br>Uppstart av projekt i<br>lokalplan Kv. Liljan skola<br>och idrottssal | 2024-01-29 | SE-2024-00040 | Uppstart av projekt i<br>lokalplan Kv. Liljan<br>skola och idrottssal |
+| Kommunbudget 2024 och<br>plan 2025-2026, lokalplan<br>sidor 48-55 | 2024-01-29 | SE-2024-00040 | Uppstart av projekt i<br>lokalplan Kv. Liljan<br>skola och idrottssal |
 
 <!-- sida 14 -->
 
@@ -596,16 +602,6 @@ av inkomna skrivelser februari 2024 till protokollet, och finner att
 nämnden för Service bifaller det.
 
 Expedierat/bestyrkt
-
-[Tabell 14-1](protokoll.tabeller/14-1.csv)
-
-| (Kommunstyrelsen)<br>(Beslut § 16)<br>Förändring av projekt och<br>omfördelning av budget i<br>lokalplan Björkris boende<br>med särskild service | 2024-01-29 | SE-2024-00039 | Förändring av projekt<br>och omfördelning av<br>budget i lokalplan<br>Björkris boende med<br>särskild service<br>(löp nr 504) |
-| --- | --- | --- | --- |
-| (Tjänsteskrivelse)<br>Förändring av projekt och<br>omfördelning av budget i<br>lokalplan Björkris boende<br>med särskild service | 2024-01-29 | SE-2024-00039 | Förändring av projekt<br>och omfördelning av<br>budget i lokalplan<br>Björkris boende med<br>särskild service<br>(löp nr 504) |
-| Kommunbudget 2024 och<br>plan 2025-2026, lokalplan<br>sidor 48-55 | 2024-01-29 | SE-2024-00039 | Förändring av projekt<br>och omfördelning av<br>budget i lokalplan<br>Björkris boende med<br>särskild service<br>(löp nr 504) |
-| (Kommunstyrelsen)<br>(Beslut § 15)<br>Uppstart av projekt i<br>lokalplan Kv. Liljan skola<br>och idrottssal | 2024-01-29 | SE-2024-00040 | Uppstart av projekt i<br>lokalplan Kv. Liljan<br>skola och idrottssal |
-| (Tjänsteskrivelse)<br>Uppstart av projekt i<br>lokalplan Kv. Liljan skola<br>och idrottssal | 2024-01-29 | SE-2024-00040 | Uppstart av projekt i<br>lokalplan Kv. Liljan<br>skola och idrottssal |
-| Kommunbudget 2024 och<br>plan 2025-2026, lokalplan<br>sidor 48-55 | 2024-01-29 | SE-2024-00040 | Uppstart av projekt i<br>lokalplan Kv. Liljan<br>skola och idrottssal |
 
 <!-- sida 15 -->
 
@@ -637,13 +633,22 @@ Följande beslut fattade med stöd av nämnden för Service delegeringsförteckn
 
 Expedierat/bestyrkt
 
-[Tabell 15-1](protokoll.tabeller/15-1.csv)
+[Tabell 15-16-1](protokoll.tabeller/15-16-1.csv)
 
 | Ärende/<br>ärendegrupp<br>enligt<br>delegationslistan | Beslut, insats samt<br>ev. omfattning | Beslutsfattare | Beslutsdatum | Dnr |
 | --- | --- | --- | --- | --- |
 | 2.1.2 a<br>OSL 6 kap 3-6 §§<br>OSL 5 kap 5 § | Utlämnande av allmän<br>handling med förbehåll<br>eller att inte lämna ut en<br>allmän handling.<br>Beslut om<br>sekretessmarkering. | Julia Tryggvadottir<br>Tollesson<br>FC | 2023-11-24 | SE-2023-00397 |
 | 2.1.2 a<br>OSL 6 kap 3-6 §§<br>OSL 5 kap 5 § | Utlämnande av allmän<br>handling med förbehåll<br>eller att inte lämna ut en<br>allmän handling.<br>Beslut om<br>sekretessmarkering. | Julia Tryggvadottir<br>Tollesson<br>FC | 2023-11-24 | SE-2023-00392 |
 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Administrativ förvaltare | Martin Funkerud<br>EC Fastighet | 2023-12-01 |  |
+| 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Lokalvårdare | Mariana Werder<br>Gutierrez<br>EC Lokalvård | 2023-12-01 |  |
+| 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Fastighetstekniker | Kristina Uddh<br>EC Lokalvård | 2023-12-01 |  |
+| 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Lokalvårdare | Mariana Werder<br>Gutierrez<br>EC Lokalvård | 2023-12-01 |  |
+| 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Fastighetstekniker | Kristina Uddh<br>EC Lokalvård | 2023-12-01 |  |
+| 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Upphandlare | Jessica Dosenius<br>EC Inköp | 2023-12-04 |  |
+| 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Vikariat<br>Lokalvårdare | Mariana Werder<br>Gutierrez<br>EC Lokalvård | 2023-12-11 |  |
+| 2.3.7<br>AB § 11 | Disciplinpåföljd<br>skriftlig varning | Sandra Ohlsson<br>Personalchef | 2023-12-11 |  |
+| 2.3.3<br>LAS § 7,<br>AB §§ 33-35 | Uppsägning av<br>personliga skäl | Sandra Ohlsson<br>Personalchef | 2023-12-18 |  |
+| 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Administrativ förvaltare | Peter Gulin<br>EC Fastighet | 2023-12-21 |  |
 
 <!-- sida 16 -->
 
@@ -653,19 +658,6 @@ Datum
 2024-02-22
 
 Expedierat/bestyrkt
-
-[Tabell 16-1](protokoll.tabeller/16-1.csv)
-
-| 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Lokalvårdare | Mariana Werder<br>Gutierrez<br>EC Lokalvård | 2023-12-01 |  |
-| --- | --- | --- | --- | --- |
-| 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Fastighetstekniker | Kristina Uddh<br>EC Lokalvård | 2023-12-01 |  |
-| 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Lokalvårdare | Mariana Werder<br>Gutierrez<br>EC Lokalvård | 2023-12-01 |  |
-| 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Fastighetstekniker | Kristina Uddh<br>EC Lokalvård | 2023-12-01 |  |
-| 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Upphandlare | Jessica Dosenius<br>EC Inköp | 2023-12-04 |  |
-| 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Vikariat<br>Lokalvårdare | Mariana Werder<br>Gutierrez<br>EC Lokalvård | 2023-12-11 |  |
-| 2.3.7<br>AB § 11 | Disciplinpåföljd<br>skriftlig varning | Sandra Ohlsson<br>Personalchef | 2023-12-11 |  |
-| 2.3.3<br>LAS § 7,<br>AB §§ 33-35 | Uppsägning av<br>personliga skäl | Sandra Ohlsson<br>Personalchef | 2023-12-18 |  |
-| 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Administrativ förvaltare | Peter Gulin<br>EC Fastighet | 2023-12-21 |  |
 
 <!-- sida 17 -->
 

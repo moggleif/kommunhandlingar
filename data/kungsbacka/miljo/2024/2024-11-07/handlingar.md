@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7241f4f2192bd482d57a4c03/1730454583
 sha256: 6c0959141573b865cdf9561ea002af223db51eb903eaa5d854578d4ab7d4a331
 bytes: 6202986
 sidor: 329
-hamtad: 2026-10-08T08:03:59+00:00
-konverterad: 2026-10-08T08:04:51+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:59:19+00:00
+konverterad: 2026-10-14T11:00:02+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [236, 244]
+figurer: [4, 226, 230, 234, 242, 243, 260, 275, 277, 278, 280, 282, 283]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -601,7 +601,7 @@ Klassificerin gsstruktur     Sida 2 av 12
 
 Klassificerin gsstruktur     Sida 1 av 12
 
-[Tabell 15-1](handlingar.tabeller/15-1.csv)
+[Tabell 15-23-1](handlingar.tabeller/15-23-1.csv)
 
 | 7 Infrastruktur och samhällsskydd |  |  |
 | --- | --- | --- |
@@ -622,15 +622,7 @@ Klassificerin gsstruktur     Sida 1 av 12
 | 7.5.2.01 | Meddelande installation stationär<br>kyl/värmeanläggning | Processen omfattar anmälan om installation av stationär kyl/värmeanläggning. |
 | 7.5.2.02 | Prövning spridning av kemiska<br>bekämpningsmedel | Processen omfattar prövning om spridning av kemiska bekämpningsmedel. |
 | 7.5.2.03 | Biocidrapport | Processen omfattar underrättelse om spridning av biocider. |
-
-<!-- sida 16 -->
-
-Klassificerin gsstruktur     Sida 2 av 12
-
-[Tabell 16-1](handlingar.tabeller/16-1.csv)
-
 | 7.5.3 Hantera prövning av hälsoskyddsverksamhet |  |  |
-| --- | --- | --- |
 | 7.5.3.01 | Prövning hygienisk verksamhet | Processen omfattar prövning om hygienisk verksamhet |
 | 7.5.3.02 | Prövning bassängbad | Processen omfattar prövning om bassängbad |
 | 7.5.3.03 | Prövning utbildningslokaler | Processen omfattar prövning om utbildningslokaler |
@@ -648,15 +640,7 @@ Klassificerin gsstruktur     Sida 2 av 12
 | 7.5.5.05 | Prövning dispens årlig tömning av oljeavskiljare | Processen omfattar prövning om dispens för årlig tömning av oljeavskiljare. |
 | 7.5.5.06 | Prövning dispens anslutning kommunalt avlopp | Processen omfattar prövning om dispens för anslutning till kommunalt avlopp. |
 | 7.5.5.07 | Prövning dispens avfallshantering | Processen omfattar prövning om dispens för eget omhändertagande av<br>avloppsslam, förbränna trädgårdsavfall, kompostering av latrin, lämna<br>kommunalt avfall till kommunen, skilja matavfall från förpackningar, sortera ut<br>biologiskt nedbrytbart matavfall eller biologiskt nedbrytbart trädgårdsavfall. |
-
-<!-- sida 17 -->
-
-Klassificerin gsstruktur     Sida 3 av 12
-
-[Tabell 17-1](handlingar.tabeller/17-1.csv)
-
 | 7.5.6 Utöva tillsyn enligt miljöbalken - Miljöskydd |  |  |
-| --- | --- | --- |
 | 7.5.6.01 | Tillsyn av små avloppsanläggningar | Processen omfattar tillsyn av små avloppsanläggningar, avloppsförening,<br>ny avloppsanläggning och uppföljning av meddelat förbud. |
 | 7.5.6.02 | Tillsyn av förorenat område | Processen omfattar tillsyn av förorenat område. |
 | 7.5.6.03 | Inventering | Processen omfattar kontakt med nya verksamheter för att avgöra om dessa<br>ska få tillsyn. |
@@ -671,15 +655,7 @@ Klassificerin gsstruktur     Sida 3 av 12
 | 7.5.6.13 | Rapportering<br>Rapportering – Driftstörning | Processen omfattar handläggning av de driftstörningar som<br>verksamhetsutövare<br>är skyldig att rapportera enligt lag. |
 | 7.5.6.14 | Förorenade områden | Processen omfattar granskning av provtagningsplaner inför provtagning av<br>misstänkt förorenade områden samt ärenden då påträffade föroreningar<br>rapporteras in. |
 | 7.5.6.15 | Tillsyn planerad – Jordbruk | Processen omfattar planerad tillsyn av jordbruk. |
-
-<!-- sida 18 -->
-
-Klassificerin gsstruktur     Sida 4 av 12
-
-[Tabell 18-1](handlingar.tabeller/18-1.csv)
-
 | 7.5.6.16 | Tillsyn planerad - Strandskydd | Processen omfattar planerad tillsyn av strandskydd. |
-| --- | --- | --- |
 | 7.5.6.17 | Tillsyn planerad – Miljöfarlig verksamhet | Processen omfattar planerad tillsyn av miljöförlig verksamhet. |
 | 7.5.6.18 | Tillsyn uppföljande – Jordbruk | Processen omfattar uppföljande tillsyn av jordbruk. |
 | 7.5.6.19 | Tillsyn uppföljande – Miljöfarlig verksamhet | Processen omfattar uppföljande tillsyn av miljöfarlig verksamhet. |
@@ -696,15 +672,7 @@ Klassificerin gsstruktur     Sida 4 av 12
 | 7.5.6.34 | Tillsyn av skolor | Processen omfattar planerad och uppföljande tillsyn av skolor. |
 | 7.5.6.35 | Tillsyn av lokaler | Processen omfattar planerad och uppföljande tillsyn av lokaler. |
 | 7.5.6.36 | Tillsyn av strandbad | Processen omfattar planerad och uppföljande tillsyn av strandbad<br>samt provtagning av strandbad. |
-
-<!-- sida 19 -->
-
-Klassificerin gsstruktur     Sida 5 av 12
-
-[Tabell 19-1](handlingar.tabeller/19-1.csv)
-
 | 7.5.6.37 | Tillsyn av bassängbad | Processen omfattar planerad och uppföljande tillsyn av bassängbad<br>samt provtagning av bassängbad. |
-| --- | --- | --- |
 | 7.5.6.38 | Tillsyn av bostäder | Processen omfattar planerad och uppföljande tillsyn av bostäder. |
 | 7.5.6.39 | Tillsyn av idrottsverksamhet | Processen omfattar planerad och uppföljande tillsyn av idrottsverksamhet. |
 | 7.5.6.40 | Tillsyn av samlingslokaler | Processen omfattar planerad och uppföljande tillsyn av samlingslokaler. |
@@ -721,15 +689,7 @@ Klassificerin gsstruktur     Sida 5 av 12
 | 7.5.7.06 | Klagomål strandskydd | Processen omfattar klagomål strandskydd. |
 | 7.5.7.07 | Klagomål annan olägenhet | Processen omfattar klagomål annan olägenhet, enskilt avlopp, förorening,<br>schaktmassor, smittspridning och utsläpp. |
 | 7.5.9 Informera, ge råd och samverka |  |  |
-
-<!-- sida 20 -->
-
-Klassificerin gsstruktur     Sida 6 av 12
-
-[Tabell 20-1](handlingar.tabeller/20-1.csv)
-
 | 7.5.9.01 | Hantera fråga/information/rådgivning | Processen omfattar fråga/information/rådgivning. |
-| --- | --- | --- |
 | 7.5.9.02 | Beslut för kännedom från annan myndighet<br>Beslut för kännedom från bygglovsavdelningen<br>Beslut för kännedom från länsstyrelsen | Processen omfattar beslut för kännedom från annan myndighet,<br>bygglovsavdelningen eller länsstyrelsen. |
 | 7.6 Hantera ärende enligt livsmedelslagen |  |  |
 | 7.6.1 Hantera prövning livsmedelsanläggningar |  |  |
@@ -743,15 +703,7 @@ Klassificerin gsstruktur     Sida 6 av 12
 | 7.6.6 Utöva tillsyn livsmedelsanläggningar |  |  |
 | 7.6.6.01 | Tillsyn av livsmedelsanläggning | Processen omfattar tillsyn av livsmedelanläggning rutinkontroll,<br>händelsestyrd kontroll samt kontroll av ny verksamhet. |
 | 7.6.6.02 | Tillsyn av dricksvattenanläggning | Processen omfattar tillsyn av dricksvattenanläggning rutinkontroll,<br>händelsestyrd kontroll och kontroll av ny verksamhet. |
-
-<!-- sida 21 -->
-
-Klassificerin gsstruktur     Sida 7 av 12
-
-[Tabell 21-1](handlingar.tabeller/21-1.csv)
-
 | 7.6.7 Hantera klagomål & RASFF (Rapid Alert System for Food and Feed: System för snabb varning om livsmedel och foder) |  |  |
-| --- | --- | --- |
 | 7.6.7.01 | Inkommen RASFF | Processen omfattar inkommen varning om livsmedel eller foder. |
 | 7.6.7.02 | Upprättande av RASFF | Processen omfattar upprättad varning om livsmedel eller foder. |
 | 7.6.7.03 | Misstänkt matförgiftning | Processen omfattar inkommen anmälan om misstänkt matförgiftning. |
@@ -767,15 +719,7 @@ Klassificerin gsstruktur     Sida 7 av 12
 | 7.7.1.07 | Prövning kryddning av spritdryck som snaps | Processen omfattar prövning om kryddning av spritdryck som snaps. |
 | 7.7.1.08 | Prövning lokal för cateringsverksamhet | Processen omfattar prövning om lokal för cateringverksamhet. |
 | 7.7.1.09 | Prövning förändring av verksamhetsinriktning | Processen omfattar prövning om förändring av verksamhetsinriktning. |
-
-<!-- sida 22 -->
-
-Klassificerin gsstruktur     Sida 8 av 12
-
-[Tabell 22-1](handlingar.tabeller/22-1.csv)
-
 | 7.7.1.10 | Prövning ändring av namn på serveringsstället | Processen omfattar prövning om ändring av namn på serveringsstället. |
-| --- | --- | --- |
 | 7.7.1.11 | Prövning ändring i stadigvarande tillstånd | Processen omfattar prövning om ändring i stadigvarande tillstånd för ändring<br>av serveringsyta, utökning av serveringstid samt utökning av utbud. |
 | 7.7.1.12 | Prövning tillfällig ändring i stadigvarande tillstånd | Processen omfattar prövning om tillfällig ändring i stadigvarande tillstånd för<br>ändring<br>av serveringsyta och utökning av serveringstid. |
 | 7.7.1.13 | Prövning servering årliga avgifter och debitering | Processen omfattar prövning om servering årliga avgifter och debitering. |
@@ -788,15 +732,7 @@ Klassificerin gsstruktur     Sida 8 av 12
 | 7.7.2.06 | Prövning återkallelse av tobakstillstånd | Processen omfattar prövning om återkallelse av tobakstillstånd på egen<br>begäran<br>eller återkallelse av tobakstillstånd vid konkurs. |
 | 7.7.2.07 | Prövning avregistrering folköl, e-cig, tobaksfria<br>nikotinprodukter | Processen omfattar prövning om avregistrering försäljning folköl, e-cigaretter<br>och tobaksfria nikotinprodukter. |
 | 7.7.2.09 | Prövning försäljning årliga avgifter och debitering | Processen omfattar prövning om försäljning årliga avgifter och debitering. |
-
-<!-- sida 23 -->
-
-Klassificerin gsstruktur     Sida 9 av 12
-
-[Tabell 23-1](handlingar.tabeller/23-1.csv)
-
 | 7.7.6 Utöva tillsyn enligt alkohollagen, tobakslagen och lagen om receptfria läkemedel |  |  |
-| --- | --- | --- |
 | 7.7.6.01 | Yttre tillsyn serveringstillstånd | Processen omfattar yttre tillsyn av servering. |
 | 7.7.6.02 | Inre tillsyn serveringstillstånd | Processen omfattar inre tillsyn av servering. |
 | 7.7.6.03 | Tillsyn tobak, folköl, e-cigaretter, läkemedel | Processen omfattar inre och yttre tillsyn försäljning av tobak, folköl, e-<br>cigaretter och läkemedel. |
@@ -805,6 +741,38 @@ Klassificerin gsstruktur     Sida 9 av 12
 | 7.7.7 Hantera klagomål, alkohollagen, tobakslagen och lagen om receptfria läkemedel |  |  |
 | 7.7.7.01 | Klagomål servering och tobak | Processen omfattar klagomål om missförhållanden/brister vid servering eller<br>försäljning av tobak. |
 | 7.7.7.02 | Inkommen information servering och tobak | Processen omfattar inkommet tips från allmänheten, Polisen, Skatteverket<br>eller annan myndighet. |
+
+<!-- sida 16 -->
+
+Klassificerin gsstruktur     Sida 2 av 12
+
+<!-- sida 17 -->
+
+Klassificerin gsstruktur     Sida 3 av 12
+
+<!-- sida 18 -->
+
+Klassificerin gsstruktur     Sida 4 av 12
+
+<!-- sida 19 -->
+
+Klassificerin gsstruktur     Sida 5 av 12
+
+<!-- sida 20 -->
+
+Klassificerin gsstruktur     Sida 6 av 12
+
+<!-- sida 21 -->
+
+Klassificerin gsstruktur     Sida 7 av 12
+
+<!-- sida 22 -->
+
+Klassificerin gsstruktur     Sida 8 av 12
+
+<!-- sida 23 -->
+
+Klassificerin gsstruktur     Sida 9 av 12
 
 <!-- sida 24 -->
 
@@ -906,7 +874,7 @@ Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 Informationshanteringsplan                      Sida 1 av 182
 
-[Tabell 28-1](handlingar.tabeller/28-1.csv)
+[Tabell 28-30-1](handlingar.tabeller/28-30-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -932,15 +900,7 @@ Informationshanteringsplan                      Sida 1 av 182
 |  | Utredning | EDP Vision | Digitalt | Bevaras | Senast gällande version. |
 |  | Mottagningsbekräftelse | EDP Vision | Digitalt | 10 år |  |
 | Hålla<br>informationsmöte med<br>sökande | Tjänsteanteckning | EDP Vision | Digitalt | Bevaras |  |
-
-<!-- sida 29 -->
-
-Informationshanteringsplan                      Sida 2 av 182
-
-[Tabell 29-1](handlingar.tabeller/29-1.csv)
-
 | Utreda | Begäran om yttrande/<br>remiss | EDP Vision | Digitalt | 10 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Yttrande/remissvar | EDP Vision | Digitalt | Bevaras |  |
 |  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 |  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
@@ -959,26 +919,26 @@ Informationshanteringsplan                      Sida 2 av 182
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Redovisning kommer<br>in | Utförandeintyg och kontrollplan | EDP Vision | Digitalt | Bevaras |  |
 |  | Fotografi | EDP Vision | Digitalt | Bevaras |  |
-
-<!-- sida 30 -->
-
-Informationshanteringsplan                      Sida 3 av 182
-
-[Tabell 30-1](handlingar.tabeller/30-1.csv)
-
 |  | Driftsättningsprotokoll | EDP Vision | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Serviceavtal | EDP Vision | Digitalt | Bevaras | Senast gällande. |
 |  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 | Skicka ut intyg om ny<br>avloppsanläggning till<br>sökande | Intyg | EDP Vision | Digitalt | Bevaras |  |
 | Skicka ut intyg om ny<br>avloppsanläggning<br>och slamsugning till<br>teknik | Intyg | EDP Vision | Digitalt | Bevaras |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
+<!-- sida 29 -->
+
+Informationshanteringsplan                      Sida 2 av 182
+
+<!-- sida 30 -->
+
+Informationshanteringsplan                      Sida 3 av 182
+
 <!-- sida 31 -->
 
 Informationshanteringsplan                      Sida 4 av 182
 
-[Tabell 31-1](handlingar.tabeller/31-1.csv)
+[Tabell 31-33-1](handlingar.tabeller/31-33-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1005,15 +965,7 @@ Informationshanteringsplan                      Sida 4 av 182
 |  | Mottagningsbekräftelse | EDP Vision | Digitalt | 10 år |  |
 | Hålla informationsmöte<br>med sökande | Tjänsteanteckning | EDP Vision | Digitalt | Bevaras |  |
 | Utreda | Begäran om yttrande/<br>remiss | EDP Vision | Digitalt | 10 år |  |
-
-<!-- sida 32 -->
-
-Informationshanteringsplan                      Sida 5 av 182
-
-[Tabell 32-1](handlingar.tabeller/32-1.csv)
-
 |  | Yttrande/remissvar | EDP Vision | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 |  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 | Utföra platsbesök | Rapport | EDP Vision | Digitalt | Bevaras |  |
@@ -1032,25 +984,25 @@ Informationshanteringsplan                      Sida 5 av 182
 | Redovisning kommer in | Utförandeintyg och<br>kontrollplan | EDP Vision | Digitalt | Bevaras |  |
 |  | Fotografi | EDP Vision | Digitalt | Bevaras |  |
 |  | Driftsättningsprotokoll | EDP Vision | Digitalt | Bevaras |  |
-
-<!-- sida 33 -->
-
-Informationshanteringsplan                      Sida 6 av 182
-
-[Tabell 33-1](handlingar.tabeller/33-1.csv)
-
 |  | Serviceavtal | EDP Vision | Digitalt | Bevaras | Senast gällande version. |
-| --- | --- | --- | --- | --- | --- |
 |  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 | Skicka ut intyg om ny<br>avloppsanläggning till<br>sökande | Intyg | EDP Vision | Digitalt | Bevaras |  |
 | Skicka ut intyg om ny<br>avloppsanläggning och<br>slamsugning till teknik | Intyg | EDP Vision | Digitalt | Bevaras |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
+<!-- sida 32 -->
+
+Informationshanteringsplan                      Sida 5 av 182
+
+<!-- sida 33 -->
+
+Informationshanteringsplan                      Sida 6 av 182
+
 <!-- sida 34 -->
 
 Informationshanteringsplan                      Sida 7 av 182
 
-[Tabell 34-1](handlingar.tabeller/34-1.csv)
+[Tabell 34-35-1](handlingar.tabeller/34-35-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1079,15 +1031,7 @@ Informationshanteringsplan                      Sida 7 av 182
 | Utreda | Begäran om yttrande/<br>remiss | EDP Vision | Digitalt | 10 år |  |
 |  | Yttrande/remissvar | EDP Vision | Digitalt | Bevaras |  |
 |  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-
-<!-- sida 35 -->
-
-Informationshanteringsplan                      Sida 8 av 182
-
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
-
 |  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| --- | --- | --- | --- | --- | --- |
 | Utföra platsbesök | Rapport | EDP Vision | Digitalt | Bevaras |  |
 |  | Inspektionsanteckning | EDP Vision | Digitalt | Bevaras |  |
 |  | Fotografi | EDP Vision | Digitalt | Bevaras |  |
@@ -1109,6 +1053,10 @@ Informationshanteringsplan                      Sida 8 av 182
 | Skicka ut intyg om ny<br>avloppsanläggning till<br>sökande | Intyg | EDP Vision | Digitalt | Bevaras |  |
 | Skicka ut intyg om ny<br>avloppsanläggning och<br>slamsugning till teknik | Intyg | EDP Vision | Digitalt | Bevaras |  |
 
+<!-- sida 35 -->
+
+Informationshanteringsplan                      Sida 8 av 182
+
 <!-- sida 36 -->
 
 Överklagan kommer in Överklagan      EDP Vision    Digitalt Se anmärkning Se separat process, 1.4.4.1 Hantera
@@ -1120,7 +1068,7 @@ Informationshanteringsplan                      Sida 9 av 182
 
 Informationshanteringsplan                      Sida 10 av 182
 
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
+[Tabell 37-38-1](handlingar.tabeller/37-38-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1145,15 +1093,6 @@ Informationshanteringsplan                      Sida 10 av 182
 | Delge beslut och<br>signerat<br>delgivningskvitto<br>kommer in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
-
-<!-- sida 38 -->
-
-Informationshanteringsplan                      Sida 11 av 182
-
-[Tabell 38-1](handlingar.tabeller/38-1.csv)
-
-| Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Verksamhetsområde: | Hantera ärenden enligt miljöbalken |  |  |  |  |
 | Processgrupp: | Hantera prövning om miljöfarlig verksamhet |  |  |  |  |
 | Process: | Prövning efterbehandling av förorenade områden |  |  |  |  |
@@ -1176,6 +1115,10 @@ Informationshanteringsplan                      Sida 11 av 182
 | Slutrapport kommer in | Slutrapport | EDP Vision | Digitalt | Bevaras |  |
 | Granska och skicka<br>bekräftelse till<br>verksamhetsutövaren | Bekräftelse | EDP Vision | Digitalt | Bevaras |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+
+<!-- sida 38 -->
+
+Informationshanteringsplan                      Sida 11 av 182
 
 <!-- sida 39 -->
 
@@ -1210,7 +1153,7 @@ Informationshanteringsplan                      Sida 12 av 182
 
 Informationshanteringsplan                      Sida 13 av 182
 
-[Tabell 40-1](handlingar.tabeller/40-1.csv)
+[Tabell 40-41-1](handlingar.tabeller/40-41-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1236,21 +1179,17 @@ Informationshanteringsplan                      Sida 13 av 182
 |  | Yttrande/remissvar | EDP Vision | Digitalt | Bevaras |  |
 |  | Kungörelse | EDP Vision | Digitalt | 5 år |  |
 |  | Synpunkter | EDP Vision | Digitalt | Bevaras |  |
-
-<!-- sida 41 -->
-
-Informationshanteringsplan                      Sida 14 av 182
-
-[Tabell 41-1](handlingar.tabeller/41-1.csv)
-
 | Utföra platsbesök | Fotografi | EDP Vision | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 | Besluta samt skicka ut<br>tidkort | Beslut | EDP Vision | Digitalt | Bevaras |  |
 |  | Tidkort | EDP Vision | Digitalt | 5 år |  |
 | Delge beslut och<br>signerat<br>delgivningskvitto<br>kommer in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+
+<!-- sida 41 -->
+
+Informationshanteringsplan                      Sida 14 av 182
 
 <!-- sida 42 -->
 
@@ -1280,7 +1219,7 @@ Informationshanteringsplan                      Sida 15 av 182
 
 Informationshanteringsplan                      Sida 16 av 182
 
-[Tabell 43-1](handlingar.tabeller/43-1.csv)
+[Tabell 43-44-1](handlingar.tabeller/43-44-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1305,15 +1244,7 @@ Informationshanteringsplan                      Sida 16 av 182
 |  | Begäran om yttrande/<br>remiss | EDP Vision | Digitalt | 5 år |  |
 |  | Yttrande/remissvar | EDP Vision | Digitalt | Bevaras |  |
 |  | Kungörelse | EDP Vision | Digitalt | 5 år |  |
-
-<!-- sida 44 -->
-
-Informationshanteringsplan                      Sida 17 av 182
-
-[Tabell 44-1](handlingar.tabeller/44-1.csv)
-
 |  | Synpunkter | EDP Vision | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 | Utföra platsbesök | Fotografi | EDP Vision | Digitalt | Bevaras |  |
 |  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 | Besluta samt skicka ut<br>tidkort | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
@@ -1322,6 +1253,10 @@ Informationshanteringsplan                      Sida 17 av 182
 | Delge beslut och<br>signerat<br>delgivningskvitto<br>kommer in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+
+<!-- sida 44 -->
+
+Informationshanteringsplan                      Sida 17 av 182
 
 <!-- sida 45 -->
 
@@ -1415,7 +1350,7 @@ Informationshanteringsplan                      Sida 21 av 182
 
 Informationshanteringsplan                      Sida 22 av 182
 
-[Tabell 49-1](handlingar.tabeller/49-1.csv)
+[Tabell 49-50-1](handlingar.tabeller/49-50-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1440,24 +1375,20 @@ Informationshanteringsplan                      Sida 22 av 182
 | Skicka underrättelse<br>inför nekande beslut<br>och svar kommer in<br>från sökanden | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
 |  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
 |  | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
+| Besluta om<br>godkännande och<br>avgift | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| Delge beslut och<br>signerat<br>delgivningskvitto<br>kommer in | Delgivningskvitto | EDP Vision | Digitalt | 2 år |  |
+|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 2 år |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
 <!-- sida 50 -->
 
 Informationshanteringsplan                      Sida 23 av 182
 
-[Tabell 50-1](handlingar.tabeller/50-1.csv)
-
-| Besluta om<br>godkännande och<br>avgift | Beslut | EDP Vision | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
-| Delge beslut och<br>signerat<br>delgivningskvitto<br>kommer in | Delgivningskvitto | EDP Vision | Digitalt | 2 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 2 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
-
 <!-- sida 51 -->
 
 Informationshanteringsplan                      Sida 24 av 182
 
-[Tabell 51-1](handlingar.tabeller/51-1.csv)
+[Tabell 51-52-1](handlingar.tabeller/51-52-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1485,24 +1416,20 @@ Informationshanteringsplan                      Sida 24 av 182
 | Skicka underrättelse<br>inför nekande beslut<br>och svar kommer in<br>från sökanden | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
 |  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
 |  | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
+| Besluta om<br>godkännande/nekande<br>och avgift | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| Delge beslut och<br>signerat<br>delgivningskvitto<br>kommer in | Delgivningskvitto | EDP Vision | Digitalt | 2 år |  |
+|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 2 år |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
 <!-- sida 52 -->
 
 Informationshanteringsplan                      Sida 25 av 182
 
-[Tabell 52-1](handlingar.tabeller/52-1.csv)
-
-| Besluta om<br>godkännande/nekande<br>och avgift | Beslut | EDP Vision | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
-| Delge beslut och<br>signerat<br>delgivningskvitto<br>kommer in | Delgivningskvitto | EDP Vision | Digitalt | 2 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 2 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
-
 <!-- sida 53 -->
 
 Informationshanteringsplan                      Sida 26 av 182
 
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
+[Tabell 53-54-1](handlingar.tabeller/53-54-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1530,22 +1457,18 @@ Informationshanteringsplan                      Sida 26 av 182
 | Besluta om<br>godkännande och avgift | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
 |  | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
+| Delge beslut och<br>signerat<br>delgivningskvitto<br>kommer in | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
 <!-- sida 54 -->
 
 Informationshanteringsplan                      Sida 27 av 182
 
-[Tabell 54-1](handlingar.tabeller/54-1.csv)
-
-| Delge beslut och<br>signerat<br>delgivningskvitto<br>kommer in | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-| --- | --- | --- | --- | --- | --- |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
-
 <!-- sida 55 -->
 
 Informationshanteringsplan                      Sida 28 av 182
 
-[Tabell 55-1](handlingar.tabeller/55-1.csv)
+[Tabell 55-57-1](handlingar.tabeller/55-57-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1567,15 +1490,7 @@ Informationshanteringsplan                      Sida 28 av 182
 | Korrespondens med<br>verksamhetsutövare | Begäran om<br>komplettering | EDP Vision | Digitalt | 10 år |  |
 |  | Fotografi | EDP Vision | Digitalt | 10 år |  |
 |  | Ansvarsfördelning | EDP Vision | Digitalt | 10 år |  |
-
-<!-- sida 56 -->
-
-Informationshanteringsplan                      Sida 29 av 182
-
-[Tabell 56-1](handlingar.tabeller/56-1.csv)
-
 |  | Avfallshantering | EDP Vision | Digitalt | 10 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Egenkontroll | EDP Vision | Digitalt | 10 år |  |
 |  | Checklista | EDP Vision | Digitalt | 10 år |  |
 |  | Enskild brunn | EDP Vision | Digitalt | 10 år |  |
@@ -1599,15 +1514,7 @@ Informationshanteringsplan                      Sida 29 av 182
 |  | Exponeringsschema | EDP Vision | Digitalt | 10 år |  |
 |  | Information tidur | EDP Vision | Digitalt | 10 år |  |
 |  | Information<br>nödstoppsknapp | EDP Vision | Digitalt | 10 år |  |
-
-<!-- sida 57 -->
-
-Informationshanteringsplan                      Sida 30 av 182
-
-[Tabell 57-1](handlingar.tabeller/57-1.csv)
-
 |  | Information avskärmat<br>solarium | EDP Vision | Digitalt | 10 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Varningstext UV-<br>strålning | EDP Vision | Digitalt | 10 år |  |
 |  | Beröringsskydd<br>strålkällor | EDP Vision | Digitalt | 10 år |  |
 |  | Skyddsglasögon | EDP Vision | Digitalt | 10 år |  |
@@ -1619,11 +1526,19 @@ Informationshanteringsplan                      Sida 30 av 182
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
+<!-- sida 56 -->
+
+Informationshanteringsplan                      Sida 29 av 182
+
+<!-- sida 57 -->
+
+Informationshanteringsplan                      Sida 30 av 182
+
 <!-- sida 58 -->
 
 Informationshanteringsplan                      Sida 31 av 182
 
-[Tabell 58-1](handlingar.tabeller/58-1.csv)
+[Tabell 58-60-1](handlingar.tabeller/58-60-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1651,15 +1566,7 @@ Informationshanteringsplan                      Sida 31 av 182
 | Hålla informationsmöte<br>med sökande | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 | Utreda | Begäran om yttrande/<br>remiss | EDP Vision | Digitalt | 10 år |  |
 |  | Yttrande/remissvar | EDP Vision | Digitalt | Bevaras |  |
-
-<!-- sida 59 -->
-
-Informationshanteringsplan                      Sida 32 av 182
-
-[Tabell 59-1](handlingar.tabeller/59-1.csv)
-
 |  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| --- | --- | --- | --- | --- | --- |
 |  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 | Utföra platsbesök | Rapport | EDP Vision | Digitalt | Bevaras |  |
 |  | Inspektionsanteckning | EDP Vision | Digitalt | Bevaras |  |
@@ -1680,22 +1587,22 @@ Informationshanteringsplan                      Sida 32 av 182
 |  | Serviceavtal | EDP Vision | Digitalt | Bevaras | Senast gällande. |
 |  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 | Skicka ut intyg om ny<br>avloppsanläggning till<br>sökande | Intyg | EDP Vision | Digitalt | Bevaras |  |
+| Skicka ut intyg om ny<br>avloppsanläggning och<br>slamsugning till teknik | Intyg | EDP Vision | Digitalt | Bevaras |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+
+<!-- sida 59 -->
+
+Informationshanteringsplan                      Sida 32 av 182
 
 <!-- sida 60 -->
 
 Informationshanteringsplan                      Sida 33 av 182
 
-[Tabell 60-1](handlingar.tabeller/60-1.csv)
-
-| Skicka ut intyg om ny<br>avloppsanläggning och<br>slamsugning till teknik | Intyg | EDP Vision | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
-
 <!-- sida 61 -->
 
 Informationshanteringsplan                      Sida 34 av 182
 
-[Tabell 61-1](handlingar.tabeller/61-1.csv)
+[Tabell 61-62-1](handlingar.tabeller/61-62-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1724,15 +1631,7 @@ Informationshanteringsplan                      Sida 34 av 182
 | Utreda | Begäran om yttrande/<br>remiss | EDP Vision | Digitalt | 10 år |  |
 |  | Yttrande/remissvar | EDP Vision | Digitalt | Bevaras |  |
 |  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-
-<!-- sida 62 -->
-
-Informationshanteringsplan                      Sida 35 av 182
-
-[Tabell 62-1](handlingar.tabeller/62-1.csv)
-
 |  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| --- | --- | --- | --- | --- | --- |
 | Utföra platsbesök | Rapport | EDP Vision | Digitalt | Bevaras |  |
 |  | Inspektionsanteckning | EDP Vision | Digitalt | Bevaras |  |
 |  | Fotografi | EDP Vision | Digitalt | Bevaras |  |
@@ -1754,6 +1653,10 @@ Informationshanteringsplan                      Sida 35 av 182
 | Skicka ut intyg om ny<br>avloppsanläggning till<br>sökande | Intyg | EDP Vision | Digitalt | Bevaras |  |
 | Skicka ut intyg om ny<br>avloppsanläggning och<br>slamsugning till teknik | Intyg | EDP Vision | Digitalt | Bevaras |  |
 
+<!-- sida 62 -->
+
+Informationshanteringsplan                      Sida 35 av 182
+
 <!-- sida 63 -->
 
 Överklagan kommer in Överklagan   EDP Vision   Digitalt Se anmärkning Se separat process, 1.4.4.1 Hantera
@@ -1765,7 +1668,7 @@ Informationshanteringsplan                      Sida 36 av 182
 
 Informationshanteringsplan                      Sida 37 av 182
 
-[Tabell 64-1](handlingar.tabeller/64-1.csv)
+[Tabell 64-66-1](handlingar.tabeller/64-66-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1781,15 +1684,7 @@ Informationshanteringsplan                      Sida 37 av 182
 |  | Mottagningsbekräftelse | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
 | Utreda | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
 |  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
-
-<!-- sida 65 -->
-
-Informationshanteringsplan                      Sida 38 av 182
-
-[Tabell 65-1](handlingar.tabeller/65-1.csv)
-
 |  | Begäran om yttrande/<br>remiss | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
-| --- | --- | --- | --- | --- | --- |
 |  | Yttrande/remissvar | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
 | Utföra platsbesök | Rapport | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
 |  | Inspektionsanteckning | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
@@ -1801,17 +1696,17 @@ Informationshanteringsplan                      Sida 38 av 182
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
 |  | Tidkort | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
 |  | Delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller |
+| Delge beslut och signerat<br>delgivningskvitto kommer<br>in |  |  |  |  | återtagande av ansökan gallras handlingen<br>efter 10 år. |
+|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+
+<!-- sida 65 -->
+
+Informationshanteringsplan                      Sida 38 av 182
 
 <!-- sida 66 -->
 
 Informationshanteringsplan                      Sida 39 av 182
-
-[Tabell 66-1](handlingar.tabeller/66-1.csv)
-
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in |  |  |  |  | återtagande av ansökan gallras handlingen<br>efter 10 år. |
-| --- | --- | --- | --- | --- | --- |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
 <!-- sida 67 -->
 
@@ -1846,7 +1741,7 @@ Informationshanteringsplan                      Sida 40 av 182
 
 Informationshanteringsplan                      Sida 41 av 182
 
-[Tabell 68-1](handlingar.tabeller/68-1.csv)
+[Tabell 68-69-1](handlingar.tabeller/68-69-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1874,25 +1769,21 @@ Informationshanteringsplan                      Sida 41 av 182
 |  | Synpunkter | EDP Vision | Digitalt | Bevaras |  |
 | Utföra platsbesök | Fotografi | EDP Vision | Digitalt | Bevaras |  |
 |  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-
-<!-- sida 69 -->
-
-Informationshanteringsplan                      Sida 42 av 182
-
-[Tabell 69-1](handlingar.tabeller/69-1.csv)
-
 | Besluta samt skicka ut<br>tidkort | Beslut | EDP Vision | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Tidkort | EDP Vision | Digitalt | 5 år |  |
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
+<!-- sida 69 -->
+
+Informationshanteringsplan                      Sida 42 av 182
+
 <!-- sida 70 -->
 
 Informationshanteringsplan                      Sida 43 av 182
 
-[Tabell 70-1](handlingar.tabeller/70-1.csv)
+[Tabell 70-71-1](handlingar.tabeller/70-71-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1911,15 +1802,7 @@ Informationshanteringsplan                      Sida 43 av 182
 |  | Karta | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid<br>nekande eller återtagande av ansökan gallras<br>handlingen efter 10 år. |
 |  | Fotografi | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid<br>nekande eller återtagande av ansökan gallras<br>handlingen efter 10 år. |
 |  | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-
-<!-- sida 71 -->
-
-Informationshanteringsplan                      Sida 44 av 182
-
-[Tabell 71-1](handlingar.tabeller/71-1.csv)
-
 | Skicka underrättelse inför<br>nekande beslut och svar<br>kommer in från sökanden | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 | Besluta samt skicka ut<br>tidkort | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
 |  | Tidkort | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid<br>nekande eller återtagande av ansökan gallras<br>handlingen efter 10 år. |
@@ -1927,11 +1810,15 @@ Informationshanteringsplan                      Sida 44 av 182
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid<br>nekande eller återtagande av ansökan gallras<br>handlingen efter 10 år. |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
+<!-- sida 71 -->
+
+Informationshanteringsplan                      Sida 44 av 182
+
 <!-- sida 72 -->
 
 Informationshanteringsplan                      Sida 45 av 182
 
-[Tabell 72-1](handlingar.tabeller/72-1.csv)
+[Tabell 72-73-1](handlingar.tabeller/72-73-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1955,18 +1842,14 @@ Informationshanteringsplan                      Sida 45 av 182
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
 |  | Tidkort | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
 |  | Delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
+| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
+| Kommunikation med<br>inskrivningsmyndigheten | Inskrivning till<br>fastighetsregistret | EDP Vision | Digitalt | Bevaras |  |
+|  | Radering av anteckning hos<br>Inskrivningsmyndigheten | EDP Vision | Digitalt | Bevaras |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
 <!-- sida 73 -->
 
 Informationshanteringsplan                      Sida 46 av 182
-
-[Tabell 73-1](handlingar.tabeller/73-1.csv)
-
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
-| --- | --- | --- | --- | --- | --- |
-| Kommunikation med<br>inskrivningsmyndigheten | Inskrivning till<br>fastighetsregistret | EDP Vision | Digitalt | Bevaras |  |
-|  | Radering av anteckning hos<br>Inskrivningsmyndigheten | EDP Vision | Digitalt | Bevaras |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
 <!-- sida 74 -->
 
@@ -2023,7 +1906,7 @@ Informationshanteringsplan                      Sida 48 av 182
 
 Informationshanteringsplan                      Sida 49 av 182
 
-[Tabell 76-1](handlingar.tabeller/76-1.csv)
+[Tabell 76-77-1](handlingar.tabeller/76-77-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2047,24 +1930,20 @@ Informationshanteringsplan                      Sida 49 av 182
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
 |  | Tidkort | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
 |  | Delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
+| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
+| Kommunikation med<br>inskrivningsmyndigheten | Inskrivning till<br>fastighetsregistret | EDP Vision | Digitalt | Bevaras |  |
+|  | Radering av anteckning hos<br>Inskrivningsmyndigheten | EDP Vision | Digitalt | Bevaras |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
 <!-- sida 77 -->
 
 Informationshanteringsplan                      Sida 50 av 182
 
-[Tabell 77-1](handlingar.tabeller/77-1.csv)
-
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
-| --- | --- | --- | --- | --- | --- |
-| Kommunikation med<br>inskrivningsmyndigheten | Inskrivning till<br>fastighetsregistret | EDP Vision | Digitalt | Bevaras |  |
-|  | Radering av anteckning hos<br>Inskrivningsmyndigheten | EDP Vision | Digitalt | Bevaras |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
-
 <!-- sida 78 -->
 
 Informationshanteringsplan                      Sida 51 av 182
 
-[Tabell 78-1](handlingar.tabeller/78-1.csv)
+[Tabell 78-79-1](handlingar.tabeller/78-79-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2093,15 +1972,7 @@ Informationshanteringsplan                      Sida 51 av 182
 | Utreda | Begäran om yttrande/<br>remiss | EDP Vision | Digitalt | 10 år |  |
 |  | Yttrande/remissvar | EDP Vision | Digitalt | Bevaras |  |
 |  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-
-<!-- sida 79 -->
-
-Informationshanteringsplan                      Sida 52 av 182
-
-[Tabell 79-1](handlingar.tabeller/79-1.csv)
-
 |  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| --- | --- | --- | --- | --- | --- |
 | Utföra platsbesök | Rapport | EDP Vision | Digitalt | Bevaras |  |
 |  | Inspektionsanteckning | EDP Vision | Digitalt | Bevaras |  |
 |  | Fotografi | EDP Vision | Digitalt | Bevaras |  |
@@ -2123,6 +1994,10 @@ Informationshanteringsplan                      Sida 52 av 182
 | Skicka ut intyg om ny<br>avloppsanläggning till<br>sökande | Intyg | EDP Vision | Digitalt | Bevaras |  |
 | Skicka ut intyg om ny<br>avloppsanläggning och<br>slamsugning till teknik | Intyg | EDP Vision | Digitalt | Bevaras |  |
 
+<!-- sida 79 -->
+
+Informationshanteringsplan                      Sida 52 av 182
+
 <!-- sida 80 -->
 
 Överklagan kommer in Överklagan   EDP Vision   Digitalt Se anmärkning Se separat process, 1.4.4.1 Hantera
@@ -2134,7 +2009,7 @@ Informationshanteringsplan                      Sida 53 av 182
 
 Informationshanteringsplan                      Sida 54 av 182
 
-[Tabell 81-1](handlingar.tabeller/81-1.csv)
+[Tabell 81-82-1](handlingar.tabeller/81-82-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2164,16 +2039,12 @@ Informationshanteringsplan                      Sida 54 av 182
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
 |  | Tidkort | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
 |  | Delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
+| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
 <!-- sida 82 -->
 
 Informationshanteringsplan                      Sida 55 av 182
-
-[Tabell 82-1](handlingar.tabeller/82-1.csv)
-
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
-| --- | --- | --- | --- | --- | --- |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
 <!-- sida 83 -->
 
@@ -2261,7 +2132,7 @@ Informationshanteringsplan                      Sida 59 av 182
 
 Informationshanteringsplan                      Sida 60 av 182
 
-[Tabell 87-1](handlingar.tabeller/87-1.csv)
+[Tabell 87-88-1](handlingar.tabeller/87-88-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2282,17 +2153,13 @@ Informationshanteringsplan                      Sida 60 av 182
 |  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | 10 år |  |
 | Besluta om godkänd<br>rapport eller<br>miljösanktionsavgift och<br>avgift för handläggning | Beslut | EDP Vision | Digitalt | Bevaras |  |
 |  | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
+| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
+| Underrättelse till<br>kammarkollegiet | Underrättelse | EDP Vision | Digitalt | 10 år |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
 <!-- sida 88 -->
 
 Informationshanteringsplan                      Sida 61 av 182
-
-[Tabell 88-1](handlingar.tabeller/88-1.csv)
-
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-| --- | --- | --- | --- | --- | --- |
-| Underrättelse till<br>kammarkollegiet | Underrättelse | EDP Vision | Digitalt | 10 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
 <!-- sida 89 -->
 
@@ -2341,7 +2208,7 @@ Informationshanteringsplan                      Sida 63 av 182
 
 Informationshanteringsplan                      Sida 64 av 182
 
-[Tabell 91-1](handlingar.tabeller/91-1.csv)
+[Tabell 91-92-1](handlingar.tabeller/91-92-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2361,19 +2228,15 @@ Informationshanteringsplan                      Sida 64 av 182
 | Skicka underrättelse inför<br>beslut om<br>miljösanktionsavgift och<br>svar kommer in från<br>sökanden | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | 5 år |  |
 |  | Svar på kommunicering enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
 | Besluta om<br>försiktighetsmått | Beslut | EDP Vision | Digitalt | Bevaras |  |
-
-<!-- sida 92 -->
-
-Informationshanteringsplan                      Sida 65 av 182
-
-[Tabell 92-1](handlingar.tabeller/92-1.csv)
-
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
-| --- | --- | --- | --- | --- | --- |
 | Besluta om<br>miljösanktionsavgift | Beslut | EDP Vision | Digitalt | Bevaras |  |
 | Underrättelse till<br>kammarkollegiet | Underrättelse | EDP Vision | Digitalt | 5 år |  |
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
+
+<!-- sida 92 -->
+
+Informationshanteringsplan                      Sida 65 av 182
 
 <!-- sida 93 -->
 
@@ -2465,7 +2328,7 @@ Informationshanteringsplan                      Sida 69 av 182
 
 Informationshanteringsplan                      Sida 70 av 182
 
-[Tabell 97-1](handlingar.tabeller/97-1.csv)
+[Tabell 97-98-1](handlingar.tabeller/97-98-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2490,19 +2353,15 @@ Informationshanteringsplan                      Sida 70 av 182
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 | Underrättelse till<br>kammarkollegiet | Underrättelse | EDP Vision | Digitalt | 5 år |  |
-
-<!-- sida 98 -->
-
-Informationshanteringsplan                      Sida 71 av 182
-
-[Tabell 98-1](handlingar.tabeller/98-1.csv)
-
 | Åtalsanmälan | Åtalsanmälan | EDP Vision | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Bekräftelse | EDP Vision | Digitalt | 5 år |  |
 |  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 |  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 | Beslut för kännedom från<br>annan<br>åklagarmyndigheten | Beslut | EDP Vision | Digitalt | Bevaras |  |
+
+<!-- sida 98 -->
+
+Informationshanteringsplan                      Sida 71 av 182
 
 <!-- sida 99 -->
 
@@ -2535,7 +2394,7 @@ Informationshanteringsplan                      Sida 72 av 182
 
 Informationshanteringsplan                      Sida 73 av 182
 
-[Tabell 100-1](handlingar.tabeller/100-1.csv)
+[Tabell 100-101-1](handlingar.tabeller/100-101-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2560,25 +2419,21 @@ Informationshanteringsplan                      Sida 73 av 182
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 | Underrättelse till<br>kammarkollegiet | Underrättelse | EDP Vision | Digitalt | 5 år |  |
-
-<!-- sida 101 -->
-
-Informationshanteringsplan                      Sida 74 av 182
-
-[Tabell 101-1](handlingar.tabeller/101-1.csv)
-
 | Åtalsanmälan | Åtalsanmälan | EDP Vision | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Bekräftelse | EDP Vision | Digitalt | 5 år |  |
 |  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 |  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 | Beslut för kännedom från<br>annan<br>åklagarmyndigheten | Beslut | EDP Vision | Digitalt | Bevaras |  |
 
+<!-- sida 101 -->
+
+Informationshanteringsplan                      Sida 74 av 182
+
 <!-- sida 102 -->
 
 Informationshanteringsplan                      Sida 75 av 182
 
-[Tabell 102-1](handlingar.tabeller/102-1.csv)
+[Tabell 102-103-1](handlingar.tabeller/102-103-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2603,25 +2458,21 @@ Informationshanteringsplan                      Sida 75 av 182
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 | Underrättelse till<br>kammarkollegiet | Underrättelse | EDP Vision | Digitalt | 5 år |  |
-
-<!-- sida 103 -->
-
-Informationshanteringsplan                      Sida 76 av 182
-
-[Tabell 103-1](handlingar.tabeller/103-1.csv)
-
 | Åtalsanmälan | Åtalsanmälan | EDP Vision | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Bekräftelse | EDP Vision | Digitalt | 5 år |  |
 |  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 |  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 | Beslut för kännedom från<br>annan<br>åklagarmyndigheten | Beslut | EDP Vision | Digitalt | Bevaras |  |
 
+<!-- sida 103 -->
+
+Informationshanteringsplan                      Sida 76 av 182
+
 <!-- sida 104 -->
 
 Informationshanteringsplan                      Sida 77 av 182
 
-[Tabell 104-1](handlingar.tabeller/104-1.csv)
+[Tabell 104-105-1](handlingar.tabeller/104-105-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2647,24 +2498,20 @@ Informationshanteringsplan                      Sida 77 av 182
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 | Underrättelse till<br>kammarkollegiet | Underrättelse | EDP Vision | Digitalt | 5 år |  |
 | Åtalsanmälan | Åtalsanmälan | EDP Vision | Digitalt | Bevaras |  |
+|  | Bekräftelse | EDP Vision | Digitalt | 5 år |  |
+|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Beslut för kännedom från<br>annan<br>åklagarmyndigheten | Beslut | EDP Vision | Digitalt | Bevaras |  |
 
 <!-- sida 105 -->
 
 Informationshanteringsplan                      Sida 78 av 182
 
-[Tabell 105-1](handlingar.tabeller/105-1.csv)
-
-|  | Bekräftelse | EDP Vision | Digitalt | 5 år |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Beslut för kännedom från<br>annan<br>åklagarmyndigheten | Beslut | EDP Vision | Digitalt | Bevaras |  |
-
 <!-- sida 106 -->
 
 Informationshanteringsplan                      Sida 79 av 182
 
-[Tabell 106-1](handlingar.tabeller/106-1.csv)
+[Tabell 106-107-1](handlingar.tabeller/106-107-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2690,17 +2537,13 @@ Informationshanteringsplan                      Sida 79 av 182
 | Underrättelse till<br>kammarkollegiet | Underrättelse | EDP Vision | Digitalt | 5 år |  |
 | Åtalsanmälan | Åtalsanmälan | EDP Vision | Digitalt | Bevaras |  |
 |  | Bekräftelse | EDP Vision | Digitalt | 5 år |  |
+|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Beslut för kännedom från<br>annan<br>åklagarmyndigheten | Beslut | EDP Vision | Digitalt | Bevaras |  |
 
 <!-- sida 107 -->
 
 Informationshanteringsplan                      Sida 80 av 182
-
-[Tabell 107-1](handlingar.tabeller/107-1.csv)
-
-|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| --- | --- | --- | --- | --- | --- |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Beslut för kännedom från<br>annan<br>åklagarmyndigheten | Beslut | EDP Vision | Digitalt | Bevaras |  |
 
 <!-- sida 108 -->
 
@@ -2776,7 +2619,7 @@ Informationshanteringsplan                      Sida 84 av 182
 
 Informationshanteringsplan                      Sida 85 av 182
 
-[Tabell 112-1](handlingar.tabeller/112-1.csv)
+[Tabell 112-115-1](handlingar.tabeller/112-115-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2801,15 +2644,7 @@ Informationshanteringsplan                      Sida 85 av 182
 |  | Hygienrutin | EDP Vision | Digitalt | 10 år |  |
 |  | Fotografi | EDP Vision | Digitalt | 10 år |  |
 |  | Broschyr | EDP Vision | Digitalt | 10 år |  |
-
-<!-- sida 113 -->
-
-Informationshanteringsplan                      Sida 86 av 182
-
-[Tabell 113-1](handlingar.tabeller/113-1.csv)
-
 |  | Kemikalieförteckning | EDP Vision | Digitalt | 10 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Rengöring, desinfektion<br>och sterilisering | EDP Vision | Digitalt | 10 år |  |
 |  | Underhåll lokal | EDP Vision | Digitalt | 10 år |  |
 |  | Kosmetiska produkter | EDP Vision | Digitalt | 10 år |  |
@@ -2827,15 +2662,6 @@ Informationshanteringsplan                      Sida 86 av 182
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
-
-<!-- sida 114 -->
-
-Informationshanteringsplan                      Sida 87 av 182
-
-[Tabell 114-1](handlingar.tabeller/114-1.csv)
-
-| Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Verksamhetsområde: | Hantera ärenden enligt miljöbalken |  |  |  |  |
 | Processgrupp: | Utöva tillsyn enligt miljöbalken – Hälsoskydd |  |  |  |  |
 | Process: | Tillsyn av hygienisk verksamhet |  |  |  |  |
@@ -2858,15 +2684,7 @@ Informationshanteringsplan                      Sida 87 av 182
 |  | Kemikalieförteckning | EDP Vision | Digitalt | 10 år |  |
 |  | Rengöring, desinfektion<br>och sterilisering | EDP Vision | Digitalt | 10 år |  |
 |  | Underhåll lokal | EDP Vision | Digitalt | 10 år |  |
-
-<!-- sida 115 -->
-
-Informationshanteringsplan                      Sida 88 av 182
-
-[Tabell 115-1](handlingar.tabeller/115-1.csv)
-
 |  | Kosmetiska produkter | EDP Vision | Digitalt | 10 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Ålderskontroll | EDP Vision | Digitalt | 10 år |  |
 |  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors<br>hälsa, objektburen smitta. |
 | Granska och bedöma | Begäran om<br>komplettering | EDP Vision | Digitalt | 10 år |  |
@@ -2882,11 +2700,23 @@ Informationshanteringsplan                      Sida 88 av 182
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
+<!-- sida 113 -->
+
+Informationshanteringsplan                      Sida 86 av 182
+
+<!-- sida 114 -->
+
+Informationshanteringsplan                      Sida 87 av 182
+
+<!-- sida 115 -->
+
+Informationshanteringsplan                      Sida 88 av 182
+
 <!-- sida 116 -->
 
 Informationshanteringsplan                      Sida 89 av 182
 
-[Tabell 116-1](handlingar.tabeller/116-1.csv)
+[Tabell 116-118-1](handlingar.tabeller/116-118-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2914,15 +2744,7 @@ Informationshanteringsplan                      Sida 89 av 182
 |  | Kosmetiska produkter | EDP Vision | Digitalt | 10 år |  |
 |  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors<br>hälsa. |
 |  | Lokalens utformning och<br>inredning | EDP Vision | Digitalt | 10 år |  |
-
-<!-- sida 117 -->
-
-Informationshanteringsplan                      Sida 90 av 182
-
-[Tabell 117-1](handlingar.tabeller/117-1.csv)
-
 |  | Städning | EDP Vision | Digitalt | 10 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Undersökning | EDP Vision | Digitalt | 10 år | Bedömningar av verksamhetens risker<br>ur hälso- och miljösynpunkt. |
 |  | Underhåll lokal | EDP Vision | Digitalt | 10 år |  |
 |  | Ventilation | EDP Vision | Digitalt | 10 år |  |
@@ -2943,25 +2765,25 @@ Informationshanteringsplan                      Sida 90 av 182
 |  | Tidkort | EDP Vision |  | 10 år |  |
 | Skicka underrättelse inför<br>beslut om föreläggande<br>och svar kommer in från<br>verksamhetsutövare | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
 |  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-
-<!-- sida 118 -->
-
-Informationshanteringsplan                      Sida 91 av 182
-
-[Tabell 118-1](handlingar.tabeller/118-1.csv)
-
 | Besluta om föreläggande | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
+<!-- sida 117 -->
+
+Informationshanteringsplan                      Sida 90 av 182
+
+<!-- sida 118 -->
+
+Informationshanteringsplan                      Sida 91 av 182
+
 <!-- sida 119 -->
 
 Informationshanteringsplan                      Sida 92 av 182
 
-[Tabell 119-1](handlingar.tabeller/119-1.csv)
+[Tabell 119-120-1](handlingar.tabeller/119-120-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2993,15 +2815,7 @@ Informationshanteringsplan                      Sida 92 av 182
 |  | Egenkontroll | EDP Vision | Digitalt | 10 år |  |
 |  | Undersökning och<br>bedömning | EDP Vision | Digitalt | 10 år | Av verksamhetens risker ur hälso-<br>och miljösynpunkt. |
 | Granska och bedöma | Begäran om<br>komplettering | EDP Vision | Digitalt | 10 år |  |
-
-<!-- sida 120 -->
-
-Informationshanteringsplan                      Sida 93 av 182
-
-[Tabell 120-1](handlingar.tabeller/120-1.csv)
-
 |  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| --- | --- | --- | --- | --- | --- |
 | Skriva och skicka ut<br>inspektionsrapport och<br>tidkort | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
 |  | Tidkort | EDP Vision |  | 10 år |  |
 | Skicka underrättelse inför<br>beslut om föreläggande<br>och svar kommer in från<br>verksamhetsutövare | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
@@ -3012,11 +2826,15 @@ Informationshanteringsplan                      Sida 93 av 182
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
+<!-- sida 120 -->
+
+Informationshanteringsplan                      Sida 93 av 182
+
 <!-- sida 121 -->
 
 Informationshanteringsplan                      Sida 94 av 182
 
-[Tabell 121-1](handlingar.tabeller/121-1.csv)
+[Tabell 121-122-1](handlingar.tabeller/121-122-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3043,15 +2861,7 @@ Informationshanteringsplan                      Sida 94 av 182
 |  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors<br>hälsa, objektburen smitta. |
 |  | Rökfri miljö | EDP Vision | Digitalt | 10 år |  |
 |  | Solskydd | EDP Vision | Digitalt | 10 år |  |
-
-<!-- sida 122 -->
-
-Informationshanteringsplan                      Sida 95 av 182
-
-[Tabell 122-1](handlingar.tabeller/122-1.csv)
-
 |  | Tvättrutin | EDP Vision | Digitalt | 10 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Ventilation | EDP Vision | Digitalt | 10 år | Dragskåp kemisal, utsug träslöjd, luftrenare<br>syslöjd, skolans ventilationsaggregat. |
 |  | Dokumenterad<br>egenkontroll | EDP Vision | Digitalt | 10 år |  |
 |  | Undersökningar och<br>bedömningar av<br>verksamhetens risker ur<br>hälso- och<br>miljösynpunkt | EDP Vision | Digitalt | 10 år | Allergier, smitta/infektion, nickel och andra<br>skador så som ärrbildningar. |
@@ -3067,11 +2877,15 @@ Informationshanteringsplan                      Sida 95 av 182
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
+<!-- sida 122 -->
+
+Informationshanteringsplan                      Sida 95 av 182
+
 <!-- sida 123 -->
 
 Informationshanteringsplan                      Sida 96 av 182
 
-[Tabell 123-1](handlingar.tabeller/123-1.csv)
+[Tabell 123-124-1](handlingar.tabeller/123-124-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3096,15 +2910,7 @@ Informationshanteringsplan                      Sida 96 av 182
 |  | Dokumenterad<br>ansvarsfördelning | EDP Vision | Digitalt | 10 år |  |
 |  | Buller | EDP Vision | Digitalt | 10 år |  |
 |  | Enskild brunn | EDP Vision | Digitalt | 10 år |  |
-
-<!-- sida 124 -->
-
-Informationshanteringsplan                      Sida 97 av 182
-
-[Tabell 124-1](handlingar.tabeller/124-1.csv)
-
 |  | Fukt och mögel | EDP Vision | Digitalt | 10 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Förändring av<br>verksamhet | EDP Vision | Digitalt | 10 år |  |
 |  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors<br>hälsa, objektburen smitta. |
 |  | Inomhustemperatur | EDP Vision | Digitalt | 10 år |  |
@@ -3126,6 +2932,10 @@ Informationshanteringsplan                      Sida 97 av 182
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 
+<!-- sida 124 -->
+
+Informationshanteringsplan                      Sida 97 av 182
+
 <!-- sida 125 -->
 
 Överklagan kommer in Överklagan  EDP Vision  Digitalt  Se anmärkning Se separat process, 1.4.4.1 Hantera
@@ -3137,7 +2947,7 @@ Informationshanteringsplan                      Sida 98 av 182
 
 Informationshanteringsplan                      Sida 99 av 182
 
-[Tabell 126-1](handlingar.tabeller/126-1.csv)
+[Tabell 126-127-1](handlingar.tabeller/126-127-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3161,15 +2971,7 @@ Informationshanteringsplan                      Sida 99 av 182
 |  | Brygga | EDP Vision | Digitalt | 10 år |  |
 |  | Badstege | EDP Vision | Digitalt | 10 år |  |
 |  | Städning | EDP Vision | Digitalt | 10 år |  |
-
-<!-- sida 127 -->
-
-Informationshanteringsplan                      Sida 100 av 182
-
-[Tabell 127-1](handlingar.tabeller/127-1.csv)
-
 |  | Hygienutrymme | EDP Vision | Digitalt | 10 år | Dusch, handfat, toalett, tvål papper,<br>pappershanddukar, desinfektionsmedel. |
-| --- | --- | --- | --- | --- | --- |
 |  | Omklädningsrum | EDP Vision | Digitalt | 10 år |  |
 |  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors<br>hälsa, objektburen smitta. |
 | Granska information | Inkomna synpunkter | EDP Vision | Digitalt | 10 år |  |
@@ -3180,11 +2982,15 @@ Informationshanteringsplan                      Sida 100 av 182
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
+<!-- sida 127 -->
+
+Informationshanteringsplan                      Sida 100 av 182
+
 <!-- sida 128 -->
 
 Informationshanteringsplan                      Sida 101 av 182
 
-[Tabell 128-1](handlingar.tabeller/128-1.csv)
+[Tabell 128-130-1](handlingar.tabeller/128-130-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3211,15 +3017,7 @@ Informationshanteringsplan                      Sida 101 av 182
 |  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors<br>hälsa. |
 |  | Lokalens utformning och<br>inredning | EDP Vision | Digitalt | 10 år |  |
 |  | Städning | EDP Vision | Digitalt | 10 år |  |
-
-<!-- sida 129 -->
-
-Informationshanteringsplan                      Sida 102 av 182
-
-[Tabell 129-1](handlingar.tabeller/129-1.csv)
-
 |  | Undersökning och<br>bedömning | EDP Vision | Digitalt | 10 år | Av verksamhetens risker ur hälso-<br>och miljösynpunkt. |
-| --- | --- | --- | --- | --- | --- |
 |  | Underhåll lokal | EDP Vision | Digitalt | 10 år |  |
 |  | Ventilation | EDP Vision | Digitalt | 10 år |  |
 |  | Allmänna tekniska<br>uppgifter renings-<br>anläggning | EDP Vision | Digitalt | 10 år |  |
@@ -3238,25 +3036,25 @@ Informationshanteringsplan                      Sida 102 av 182
 |  | Tidkort | EDP Vision | Digitalt | 10 år |  |
 | Skicka underrättelse inför<br>beslut om föreläggande och<br>svar kommer in från<br>verksamhetsutövare | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
 |  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-
-<!-- sida 130 -->
-
-Informationshanteringsplan                      Sida 103 av 182
-
-[Tabell 130-1](handlingar.tabeller/130-1.csv)
-
 | Besluta om föreläggande | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
+<!-- sida 129 -->
+
+Informationshanteringsplan                      Sida 102 av 182
+
+<!-- sida 130 -->
+
+Informationshanteringsplan                      Sida 103 av 182
+
 <!-- sida 131 -->
 
 Informationshanteringsplan                      Sida 104 av 182
 
-[Tabell 131-1](handlingar.tabeller/131-1.csv)
+[Tabell 131-132-1](handlingar.tabeller/131-132-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3286,15 +3084,7 @@ Informationshanteringsplan                      Sida 104 av 182
 |  | Energitillsyn | EDP Vision | Digitalt | 10 år |  |
 |  | Riskanalys | EDP Vision | Digitalt | 10 år |  |
 |  | Skadedjur | EDP Vision | Digitalt | 10 år |  |
-
-<!-- sida 132 -->
-
-Informationshanteringsplan                      Sida 105 av 182
-
-[Tabell 132-1](handlingar.tabeller/132-1.csv)
-
 |  | Buller | EDP Vision | Digitalt | 10 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Avfall | EDP Vision | Digitalt | 10 år |  |
 |  | Inomhustemperatur | EDP Vision | Digitalt | 10 år |  |
 |  | Undersökningar och<br>bedömningar av<br>verksamhetens risker ur<br>hälso- och miljösynpunkt | EDP Vision | Digitalt | 10 år |  |
@@ -3310,11 +3100,15 @@ Informationshanteringsplan                      Sida 105 av 182
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
+<!-- sida 132 -->
+
+Informationshanteringsplan                      Sida 105 av 182
+
 <!-- sida 133 -->
 
 Informationshanteringsplan                      Sida 106 av 182
 
-[Tabell 133-1](handlingar.tabeller/133-1.csv)
+[Tabell 133-134-1](handlingar.tabeller/133-134-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3341,15 +3135,7 @@ Informationshanteringsplan                      Sida 106 av 182
 |  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors<br>hälsa, objektburen smitta. |
 |  | Ventilation | EDP Vision | Digitalt | 10 år |  |
 |  | Rökfri miljö | EDP Vision | Digitalt | 10 år |  |
-
-<!-- sida 134 -->
-
-Informationshanteringsplan                      Sida 107 av 182
-
-[Tabell 134-1](handlingar.tabeller/134-1.csv)
-
 |  | Underhåll anläggning och<br>tillhörande<br>omklädningsrum | EDP Vision | Digitalt | 10 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Undersökning och<br>bedömning av<br>verksamhetens risker ur<br>hälso- och miljösynpunkt | EDP Vision | Digitalt | 10 år |  |
 |  | Inomhustemperatur | EDP Vision | Digitalt | 10 år |  |
 |  | Hygienrutin | EDP Vision | Digitalt | 10 år |  |
@@ -3365,11 +3151,15 @@ Informationshanteringsplan                      Sida 107 av 182
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
+<!-- sida 134 -->
+
+Informationshanteringsplan                      Sida 107 av 182
+
 <!-- sida 135 -->
 
 Informationshanteringsplan                      Sida 108 av 182
 
-[Tabell 135-1](handlingar.tabeller/135-1.csv)
+[Tabell 135-136-1](handlingar.tabeller/135-136-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3399,15 +3189,7 @@ Informationshanteringsplan                      Sida 108 av 182
 |  | Riskanalys | EDP Vision | Digitalt | 10 år |  |
 |  | Skadedjur | EDP Vision | Digitalt | 10 år |  |
 |  | Buller | EDP Vision | Digitalt | 10 år |  |
-
-<!-- sida 136 -->
-
-Informationshanteringsplan                      Sida 109 av 182
-
-[Tabell 136-1](handlingar.tabeller/136-1.csv)
-
 |  | Avfall | EDP Vision | Digitalt | 10 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Inomhustemperatur | EDP Vision | Digitalt | 10 år |  |
 |  | Undersökning och<br>bedömning av<br>verksamhetens risker ur<br>hälso- och miljösynpunkt | EDP Vision | Digitalt | 10 år |  |
 | Granska och bedöma | Begäran om komplettering | EDP Vision | Digitalt | 10 år |  |
@@ -3422,11 +3204,15 @@ Informationshanteringsplan                      Sida 109 av 182
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
+<!-- sida 136 -->
+
+Informationshanteringsplan                      Sida 109 av 182
+
 <!-- sida 137 -->
 
 Informationshanteringsplan                      Sida 110 av 182
 
-[Tabell 137-1](handlingar.tabeller/137-1.csv)
+[Tabell 137-138-1](handlingar.tabeller/137-138-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3457,15 +3243,7 @@ Informationshanteringsplan                      Sida 110 av 182
 |  | Skadedjur | EDP Vision | Digitalt | 10 år |  |
 |  | Buller | EDP Vision | Digitalt | 10 år |  |
 |  | Avfall | EDP Vision | Digitalt | 10 år |  |
-
-<!-- sida 138 -->
-
-Informationshanteringsplan                      Sida 111 av 182
-
-[Tabell 138-1](handlingar.tabeller/138-1.csv)
-
 |  | Inomhustemperatur | EDP Vision | Digitalt | 10 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Undersökning och<br>bedömning av<br>verksamhetens risker ur<br>hälso- och miljösynpunkt | EDP Vision | Digitalt | 10 år |  |
 | Granska och bedöma | Begäran om komplettering | EDP Vision | Digitalt | 10 år |  |
 |  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
@@ -3479,11 +3257,15 @@ Informationshanteringsplan                      Sida 111 av 182
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
+<!-- sida 138 -->
+
+Informationshanteringsplan                      Sida 111 av 182
+
 <!-- sida 139 -->
 
 Informationshanteringsplan                      Sida 112 av 182
 
-[Tabell 139-1](handlingar.tabeller/139-1.csv)
+[Tabell 139-140-1](handlingar.tabeller/139-140-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3514,15 +3296,7 @@ Informationshanteringsplan                      Sida 112 av 182
 |  | Riskanalys | EDP Vision | Digitalt | 10 år |  |
 |  | Skadedjur | EDP Vision | Digitalt | 10 år |  |
 |  | Buller | EDP Vision | Digitalt | 10 år |  |
-
-<!-- sida 140 -->
-
-Informationshanteringsplan                      Sida 113 av 182
-
-[Tabell 140-1](handlingar.tabeller/140-1.csv)
-
 |  | Avfall | EDP Vision | Digitalt | 10 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Inomhustemperatur | EDP Vision | Digitalt | 10 år |  |
 |  | Undersökning och<br>bedömning | EDP Vision | Digitalt | 10 år | Av verksamhetens risker ur hälso- och<br>miljösynpunkt. |
 | Granska och bedöma | Begäran om komplettering | EDP Vision | Digitalt | 10 år |  |
@@ -3537,11 +3311,15 @@ Informationshanteringsplan                      Sida 113 av 182
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
+<!-- sida 140 -->
+
+Informationshanteringsplan                      Sida 113 av 182
+
 <!-- sida 141 -->
 
 Informationshanteringsplan                      Sida 114 av 182
 
-[Tabell 141-1](handlingar.tabeller/141-1.csv)
+[Tabell 141-143-1](handlingar.tabeller/141-143-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3567,15 +3345,7 @@ Informationshanteringsplan                      Sida 114 av 182
 |  | Buller | EDP Vision | Digitalt | 10 år |  |
 |  | Enskild brunn | EDP Vision | Digitalt | 10 år |  |
 |  | Fukt och mögel | EDP Vision | Digitalt | 10 år |  |
-
-<!-- sida 142 -->
-
-Informationshanteringsplan                      Sida 115 av 182
-
-[Tabell 142-1](handlingar.tabeller/142-1.csv)
-
 |  | Förändring av<br>verksamhet | EDP Vision | Digitalt | 10 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Inomhustemperatur | EDP Vision | Digitalt | 10 år |  |
 |  | Kemikalier | EDP Vision | Digitalt | 10 år |  |
 |  | Klagomålshantering | EDP Vision | Digitalt | 10 år |  |
@@ -3596,26 +3366,26 @@ Informationshanteringsplan                      Sida 115 av 182
 | Skriva och skicka ut<br>inspektionsrapport och<br>tidkort | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
 |  | Tidkort | EDP Vision | Digitalt | 10 år |  |
 | Skicka underrättelse inför<br>beslut om föreläggande och | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-
-<!-- sida 143 -->
-
-Informationshanteringsplan                      Sida 116 av 182
-
-[Tabell 143-1](handlingar.tabeller/143-1.csv)
-
 | svar kommer in från<br>verksamhetsutövare | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 | Besluta om föreläggande | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
+<!-- sida 142 -->
+
+Informationshanteringsplan                      Sida 115 av 182
+
+<!-- sida 143 -->
+
+Informationshanteringsplan                      Sida 116 av 182
+
 <!-- sida 144 -->
 
 Informationshanteringsplan                      Sida 117 av 182
 
-[Tabell 144-1](handlingar.tabeller/144-1.csv)
+[Tabell 144-145-1](handlingar.tabeller/144-145-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3638,16 +3408,12 @@ Informationshanteringsplan                      Sida 117 av 182
 | Beslut om förbud om att<br>stänga verksamheter eller<br>installationer tillfälligt | Beslut | EDP Vision | Digitalt | Bevaras |  |
 | Beslut om smittkällan är<br>undanröjd | Beslut | EDP Vision | Digitalt | Bevaras |  |
 |  | Delgivningskvitto | EDP Vision | Digitalt | Bevaras |  |
+| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 2 år |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
 <!-- sida 145 -->
 
 Informationshanteringsplan                      Sida 118 av 182
-
-[Tabell 145-1](handlingar.tabeller/145-1.csv)
-
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 2 år |  |
-| --- | --- | --- | --- | --- | --- |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
 <!-- sida 146 -->
 
@@ -3749,7 +3515,7 @@ Informationshanteringsplan                      Sida 121 av 182
 
 Informationshanteringsplan                      Sida 122 av 182
 
-[Tabell 149-1](handlingar.tabeller/149-1.csv)
+[Tabell 149-151-1](handlingar.tabeller/149-151-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3776,15 +3542,7 @@ Informationshanteringsplan                      Sida 122 av 182
 |  | Legionella | EDP Vision | Digitalt | 10 år |  |
 |  | Ventilation | EDP Vision | Digitalt | 10 år |  |
 |  | Skadedjur | EDP Vision | Digitalt | 10 år |  |
-
-<!-- sida 150 -->
-
-Informationshanteringsplan                      Sida 123 av 182
-
-[Tabell 150-1](handlingar.tabeller/150-1.csv)
-
 |  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors<br>hälsa. |
-| --- | --- | --- | --- | --- | --- |
 | Redovisning begärs in från<br>verksamhetsutövaren och<br>redovisning kommer in | Begäran redovisning | EDP Vision | Digitalt | 10 år |  |
 |  | Åtgärdsförslag | EDP Vision | Digitalt | 10 år |  |
 |  | Redovisning åtgärder | EDP Vision | Digitalt | Bevaras |  |
@@ -3803,15 +3561,6 @@ Informationshanteringsplan                      Sida 123 av 182
 | Kommunikation med<br>inskrivningsmyndigheten | Inskrivning till<br>fastighetsregistret | EDP Vision | Digitalt | Bevaras |  |
 |  | Radering av anteckning<br>hos Inskrivnings-<br>myndigheten | EDP Vision | Digitalt | Bevaras |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
-
-<!-- sida 151 -->
-
-Informationshanteringsplan                      Sida 124 av 182
-
-[Tabell 151-1](handlingar.tabeller/151-1.csv)
-
-| Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Verksamhetsområde: | Hantera ärenden enligt miljöbalken |  |  |  |  |
 | Processgrupp: | Hantera klagomål i kärnverksamheten hos Miljö & Hälsoskydd |  |  |  |  |
 | Process: | Klagomål störning av djur |  |  |  |  |
@@ -3835,6 +3584,14 @@ Informationshanteringsplan                      Sida 124 av 182
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+
+<!-- sida 150 -->
+
+Informationshanteringsplan                      Sida 123 av 182
+
+<!-- sida 151 -->
+
+Informationshanteringsplan                      Sida 124 av 182
 
 <!-- sida 152 -->
 
@@ -3866,7 +3623,7 @@ Informationshanteringsplan                      Sida 125 av 182
 
 Informationshanteringsplan                      Sida 126 av 182
 
-[Tabell 153-1](handlingar.tabeller/153-1.csv)
+[Tabell 153-154-1](handlingar.tabeller/153-154-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3895,17 +3652,13 @@ Informationshanteringsplan                      Sida 126 av 182
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 | Åtalsanmälan | Åtalsanmälan | EDP Vision | Digitalt | Bevaras |  |
 |  | Bekräftelse | EDP Vision | Digitalt | 5 år |  |
+|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Beslut för kännedom från<br>annan<br>åklagarmyndigheten | Beslut | EDP Vision | Digitalt | Bevaras |  |
 
 <!-- sida 154 -->
 
 Informationshanteringsplan                      Sida 127 av 182
-
-[Tabell 154-1](handlingar.tabeller/154-1.csv)
-
-|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| --- | --- | --- | --- | --- | --- |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Beslut för kännedom från<br>annan<br>åklagarmyndigheten | Beslut | EDP Vision | Digitalt | Bevaras |  |
 
 <!-- sida 155 -->
 
@@ -4020,7 +3773,7 @@ Informationshanteringsplan                      Sida 133 av 182
 
 Informationshanteringsplan                      Sida 134 av 182
 
-[Tabell 161-1](handlingar.tabeller/161-1.csv)
+[Tabell 161-162-1](handlingar.tabeller/161-162-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4038,15 +3791,6 @@ Informationshanteringsplan                      Sida 134 av 182
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
-
-<!-- sida 162 -->
-
-Informationshanteringsplan                      Sida 135 av 182
-
-[Tabell 162-1](handlingar.tabeller/162-1.csv)
-
-| Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Verksamhetsområde: | Hantera ärende enligt livsmedelslagen |  |  |  |  |
 | Processgrupp: | Hantera prövning livsmedelsanläggningar |  |  |  |  |
 | Process: | Prövning fastställa provtagning dricksvattenanläggning |  |  |  |  |
@@ -4059,6 +3803,10 @@ Informationshanteringsplan                      Sida 135 av 182
 | Delge beslut och signerat<br>delgivningskvitto kommer in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+
+<!-- sida 162 -->
+
+Informationshanteringsplan                      Sida 135 av 182
 
 <!-- sida 163 -->
 
@@ -4082,7 +3830,7 @@ Informationshanteringsplan                      Sida 136 av 182
 
 Informationshanteringsplan                      Sida 137 av 182
 
-[Tabell 164-1](handlingar.tabeller/164-1.csv)
+[Tabell 164-166-1](handlingar.tabeller/164-166-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4104,15 +3852,6 @@ Informationshanteringsplan                      Sida 137 av 182
 | Delge beslut och signerat<br>delgivningskvitto kommer in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
-
-<!-- sida 165 -->
-
-Informationshanteringsplan                      Sida 138 av 182
-
-[Tabell 165-1](handlingar.tabeller/165-1.csv)
-
-| Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Verksamhetsområde: | Hantera ärende enligt livsmedelslagen |  |  |  |  |
 | Processgrupp: | Utöva tillsyn livsmedelsanläggningar |  |  |  |  |
 | Process: | Tillsyn av dricksvattenanläggning |  |  |  |  |
@@ -4134,15 +3873,6 @@ Informationshanteringsplan                      Sida 138 av 182
 | Delge beslut och signerat<br>delgivningskvitto kommer in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
-
-<!-- sida 166 -->
-
-Informationshanteringsplan                      Sida 139 av 182
-
-[Tabell 166-1](handlingar.tabeller/166-1.csv)
-
-| Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Verksamhetsområde: | Hantera ärende enligt livsmedelslagen |  |  |  |  |
 | Processgrupp: | Hantera klagomål & RASFF (Rapid Alert System for Food and Feed: System för snabb varning om livsmedel och foder) |  |  |  |  |
 | Process: | Inkommen RASFF (Rapid Alert System for Food and Feed: System för snabb varning om livsmedel och foder) |  |  |  |  |
@@ -4152,6 +3882,14 @@ Informationshanteringsplan                      Sida 139 av 182
 | Utreda | Korrespondens | EDP Vision | Digitalt | 5 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 |  | Tjänsteanteckning | EDP Vision | Digitalt | 5 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 | Återrapportera till<br>livsmedelsverket att<br>verksamheten har tagit bort<br>produkten ur sortimentet | Kontrollrapport | EDP Vision | Digitalt | 5 år |  |
+
+<!-- sida 165 -->
+
+Informationshanteringsplan                      Sida 138 av 182
+
+<!-- sida 166 -->
+
+Informationshanteringsplan                      Sida 139 av 182
 
 <!-- sida 167 -->
 
@@ -4176,7 +3914,7 @@ Informationshanteringsplan                      Sida 140 av 182
 
 Informationshanteringsplan                      Sida 141 av 182
 
-[Tabell 168-1](handlingar.tabeller/168-1.csv)
+[Tabell 168-169-1](handlingar.tabeller/168-169-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4197,15 +3935,6 @@ Informationshanteringsplan                      Sida 141 av 182
 | Delge beslut och signerat<br>delgivningskvitto kommer in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
-
-<!-- sida 169 -->
-
-Informationshanteringsplan                      Sida 142 av 182
-
-[Tabell 169-1](handlingar.tabeller/169-1.csv)
-
-| Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Verksamhetsområde: | Hantera ärende enligt livsmedelslagen |  |  |  |  |
 | Processgrupp: | Hantera klagomål & RASFF (Rapid Alert System for Food and Feed: System för snabb varning om livsmedel och foder) |  |  |  |  |
 | Process: | Klagomål livsmedel |  |  |  |  |
@@ -4224,11 +3953,15 @@ Informationshanteringsplan                      Sida 142 av 182
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
+<!-- sida 169 -->
+
+Informationshanteringsplan                      Sida 142 av 182
+
 <!-- sida 170 -->
 
 Informationshanteringsplan                      Sida 143 av 182
 
-[Tabell 170-1](handlingar.tabeller/170-1.csv)
+[Tabell 170-171-1](handlingar.tabeller/170-171-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4252,15 +3985,7 @@ Informationshanteringsplan                      Sida 143 av 182
 |  | Mottagningsbevis | EDP Vision | Digitalt | 3 år |  |
 | Utreda | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 |  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-
-<!-- sida 171 -->
-
-Informationshanteringsplan                      Sida 144 av 182
-
-[Tabell 171-1](handlingar.tabeller/171-1.csv)
-
 |  | Begäran om yttrande/<br>remiss | EDP Vision | Digitalt | 3 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Yttrande/remissvar | EDP Vision | Digitalt | Bevaras |  |
 |  | Utredning | EDP Vision | Digitalt | Bevaras |  |
 | Skicka underrättelse inför<br>nekande beslut och<br>sökanden kommer in med<br>svar | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
@@ -4272,11 +3997,15 @@ Informationshanteringsplan                      Sida 144 av 182
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 3 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
+<!-- sida 171 -->
+
+Informationshanteringsplan                      Sida 144 av 182
+
 <!-- sida 172 -->
 
 Informationshanteringsplan                      Sida 145 av 182
 
-[Tabell 172-1](handlingar.tabeller/172-1.csv)
+[Tabell 172-173-1](handlingar.tabeller/172-173-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4303,15 +4032,7 @@ Informationshanteringsplan                      Sida 145 av 182
 |  | Begäran om<br>yttrande/remiss | EDP Vision | Digitalt | 5 år |  |
 |  | Yttrande/remissvar | EDP Vision | Digitalt | 5 år |  |
 |  | Utredning | EDP Vision | Digitalt | 5 år |  |
-
-<!-- sida 173 -->
-
-Informationshanteringsplan                      Sida 146 av 182
-
-[Tabell 173-1](handlingar.tabeller/173-1.csv)
-
 | Skicka underrättelse inför<br>nekande beslut och<br>sökanden kommer in med<br>svar | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | 5 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | 5 år |  |
 | Besluta om tillfälligt<br>serveringstillstånd | Tjänsteskrivelse | EDP Vision | Digitalt | 5 år |  |
 | Besluta | Beslut | EDP Vision | Digitalt | 5 år |  |
@@ -4320,11 +4041,15 @@ Informationshanteringsplan                      Sida 146 av 182
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
+<!-- sida 173 -->
+
+Informationshanteringsplan                      Sida 146 av 182
+
 <!-- sida 174 -->
 
 Informationshanteringsplan                      Sida 147 av 182
 
-[Tabell 174-1](handlingar.tabeller/174-1.csv)
+[Tabell 174-175-1](handlingar.tabeller/174-175-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4347,15 +4072,7 @@ Informationshanteringsplan                      Sida 147 av 182
 |  | Mottagningsbevis | EDP Vision | Digitalt | 3 år |  |
 | Utreda | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 |  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-
-<!-- sida 175 -->
-
-Informationshanteringsplan                      Sida 148 av 182
-
-[Tabell 175-1](handlingar.tabeller/175-1.csv)
-
 |  | Begäran om yttrande/<br>remiss | EDP Vision | Digitalt | 3 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Yttrande/Remissvar | EDP Vision | Digitalt | Bevaras |  |
 |  | Utredning | EDP Vision | Digitalt | Bevaras |  |
 | Skicka underrättelse inför<br>nekande beslut och svar<br>kommer in från sökanden | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
@@ -4366,6 +4083,10 @@ Informationshanteringsplan                      Sida 148 av 182
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 3 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 3 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+
+<!-- sida 175 -->
+
+Informationshanteringsplan                      Sida 148 av 182
 
 <!-- sida 176 -->
 
@@ -4414,7 +4135,7 @@ Informationshanteringsplan                      Sida 150 av 182
 
 Informationshanteringsplan                      Sida 151 av 182
 
-[Tabell 178-1](handlingar.tabeller/178-1.csv)
+[Tabell 178-180-1](handlingar.tabeller/178-180-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4435,15 +4156,6 @@ Informationshanteringsplan                      Sida 151 av 182
 |  | Begäran om yttrande/<br>remiss | EDP Vision | Digitalt | 3 år |  |
 |  | Yttrande/remissvar | EDP Vision | Digitalt | Bevaras |  |
 | Skicka ut bekräftelse till<br>verksamhetsutövare | Bekräftelse | EDP Vision | Digitalt | Bevaras |  |
-
-<!-- sida 179 -->
-
-Informationshanteringsplan                      Sida 152 av 182
-
-[Tabell 179-1](handlingar.tabeller/179-1.csv)
-
-| Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Verksamhetsområde: | Hantera ärenden enligt alkohollagen och tobakslagen |  |  |  |  |
 | Processgrupp: | Hantera prövning enligt alkohollagen |  |  |  |  |
 | Process: | Prövning kryddning av spritdryck som snaps |  |  |  |  |
@@ -4463,15 +4175,7 @@ Informationshanteringsplan                      Sida 152 av 182
 |  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 |  | Begäran om yttrande/<br>remiss | EDP Vision | Digitalt | 3 år |  |
 |  | Yttrande/remissvar | EDP Vision | Digitalt | Bevaras |  |
-
-<!-- sida 180 -->
-
-Informationshanteringsplan                      Sida 153 av 182
-
-[Tabell 180-1](handlingar.tabeller/180-1.csv)
-
 | Skicka underrättelse inför<br>nekande beslut och svar<br>kommer in från sökanden | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
 | Besluta om tillstånd | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
@@ -4479,6 +4183,14 @@ Informationshanteringsplan                      Sida 153 av 182
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 3 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 3 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+
+<!-- sida 179 -->
+
+Informationshanteringsplan                      Sida 152 av 182
+
+<!-- sida 180 -->
+
+Informationshanteringsplan                      Sida 153 av 182
 
 <!-- sida 181 -->
 
@@ -4506,7 +4218,7 @@ Informationshanteringsplan                      Sida 154 av 182
 
 Informationshanteringsplan                      Sida 155 av 182
 
-[Tabell 182-1](handlingar.tabeller/182-1.csv)
+[Tabell 182-183-1](handlingar.tabeller/182-183-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4529,21 +4241,17 @@ Informationshanteringsplan                      Sida 155 av 182
 |  | Yttrande/remissvar | EDP Vision | Digitalt | Bevaras |  |
 |  | Utredning | EDP Vision | Digitalt | Bevaras |  |
 | Skicka underrättelse inför<br>nekande beslut och | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-
-<!-- sida 183 -->
-
-Informationshanteringsplan                      Sida 156 av 182
-
-[Tabell 183-1](handlingar.tabeller/183-1.csv)
-
 | sökandens svar kommer<br>in | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 | Besluta om förändring av<br>verksamhetsinriktning | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
 |  | Tillståndsbevis | EDP Vision | Digitalt | Bevaras |  |
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 3 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 3 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+
+<!-- sida 183 -->
+
+Informationshanteringsplan                      Sida 156 av 182
 
 <!-- sida 184 -->
 
@@ -4569,7 +4277,7 @@ Informationshanteringsplan                      Sida 157 av 182
 
 Informationshanteringsplan                      Sida 158 av 182
 
-[Tabell 185-1](handlingar.tabeller/185-1.csv)
+[Tabell 185-186-1](handlingar.tabeller/185-186-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4592,15 +4300,7 @@ Informationshanteringsplan                      Sida 158 av 182
 |  | Begäran om yttrande/<br>remiss | EDP Vision | Digitalt | 3 år |  |
 |  | Yttrande/remissvar | EDP Vision | Digitalt | Bevaras |  |
 |  | Utredning | EDP Vision | Digitalt | Bevaras |  |
-
-<!-- sida 186 -->
-
-Informationshanteringsplan                      Sida 159 av 182
-
-[Tabell 186-1](handlingar.tabeller/186-1.csv)
-
 | Skicka underrättelse inför<br>nekande beslut och<br>sökandens svar kommer<br>in | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
 | Besluta om ändring i<br>stadigvarande tillstånd | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
 | Besluta | Beslut | EDP Vision | Digitalt | Bevaras |  |
@@ -4609,11 +4309,15 @@ Informationshanteringsplan                      Sida 159 av 182
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 3 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
+<!-- sida 186 -->
+
+Informationshanteringsplan                      Sida 159 av 182
+
 <!-- sida 187 -->
 
 Informationshanteringsplan                      Sida 160 av 182
 
-[Tabell 187-1](handlingar.tabeller/187-1.csv)
+[Tabell 187-188-1](handlingar.tabeller/187-188-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4634,15 +4338,6 @@ Informationshanteringsplan                      Sida 160 av 182
 |  | Yttrande/remissvar | EDP Vision | Digitalt | 3 år |  |
 |  | Utredning | EDP Vision | Digitalt | 3 år |  |
 | Bekräftelse på anmälan<br>skickas till<br>verksamhetsutövare | Bekräftelse | EDP Vision | Digitalt | 3 år |  |
-
-<!-- sida 188 -->
-
-Informationshanteringsplan                      Sida 161 av 182
-
-[Tabell 188-1](handlingar.tabeller/188-1.csv)
-
-| Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Verksamhetsområde: | Hantera ärenden enligt alkohollagen och tobakslagen |  |  |  |  |
 | Processgrupp: | Hantera prövning enligt alkohollagen |  |  |  |  |
 | Process: | Prövning servering årliga avgifter och debitering |  |  |  |  |
@@ -4651,6 +4346,10 @@ Informationshanteringsplan                      Sida 161 av 182
 | Redovisning av årliga<br>avgifter och debitering<br>kommer in | Restaurangrapport | EDP Vision | Digitalt | 10 år |  |
 | Påminna<br>restaurangrapport | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 |  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+
+<!-- sida 188 -->
+
+Informationshanteringsplan                      Sida 161 av 182
 
 <!-- sida 189 -->
 
@@ -4677,7 +4376,7 @@ Informationshanteringsplan                      Sida 162 av 182
 
 Informationshanteringsplan                      Sida 163 av 182
 
-[Tabell 190-1](handlingar.tabeller/190-1.csv)
+[Tabell 190-191-1](handlingar.tabeller/190-191-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4699,15 +4398,7 @@ Informationshanteringsplan                      Sida 163 av 182
 |  | Mottagningsbevis | EDP Vision | Digitalt | 5 år |  |
 | Utreda | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 |  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-
-<!-- sida 191 -->
-
-Informationshanteringsplan                      Sida 164 av 182
-
-[Tabell 191-1](handlingar.tabeller/191-1.csv)
-
 |  | Begäran om yttrande/<br>remiss | EDP Vision | Digitalt | 5 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Yttrande/remissvar | EDP Vision | Digitalt | Bevaras |  |
 |  | Utredning | EDP Vision | Digitalt | Bevaras |  |
 | Skicka underrättelse inför<br>nekande beslut och<br>sökandens svar kommer<br>in | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
@@ -4718,6 +4409,10 @@ Informationshanteringsplan                      Sida 164 av 182
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+
+<!-- sida 191 -->
+
+Informationshanteringsplan                      Sida 164 av 182
 
 <!-- sida 192 -->
 
@@ -4743,7 +4438,7 @@ Informationshanteringsplan                      Sida 165 av 182
 
 Informationshanteringsplan                      Sida 166 av 182
 
-[Tabell 193-1](handlingar.tabeller/193-1.csv)
+[Tabell 193-195-1](handlingar.tabeller/193-195-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4767,15 +4462,6 @@ Informationshanteringsplan                      Sida 166 av 182
 |  | Begäran om yttrande/<br>remiss | EDP Vision | Digitalt | 3 år |  |
 |  | Yttrande/remissvar | EDP Vision | Digitalt | Bevaras |  |
 | Skicka ut meddelande om<br>avslutad prövning till<br>verksamhetsutövare | Bekräftelse | EDP Vision | Digitalt | Bevaras |  |
-
-<!-- sida 194 -->
-
-Informationshanteringsplan                      Sida 167 av 182
-
-[Tabell 194-1](handlingar.tabeller/194-1.csv)
-
-| Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Verksamhetsområde: | Hantera ärenden enligt alkohollagen och tobakslagen |  |  |  |  |
 | Processgrupp: | Hantera prövning enligt alkohollagen tobakslagen och lagen om receptfria läkemedel |  |  |  |  |
 | Process: | Prövning ändring av registrering försäljning |  |  |  |  |
@@ -4796,15 +4482,6 @@ Informationshanteringsplan                      Sida 167 av 182
 |  | Begäran om yttrande/<br>remiss | EDP Vision | Digitalt | 3 år |  |
 |  | Yttrande/remissvar | EDP Vision | Digitalt | Bevaras |  |
 | Skicka ut meddelande om<br>avslutad prövning till<br>verksamhetsutövare | Bekräftelse | EDP Vision | Digitalt | Bevaras |  |
-
-<!-- sida 195 -->
-
-Informationshanteringsplan                      Sida 168 av 182
-
-[Tabell 195-1](handlingar.tabeller/195-1.csv)
-
-| Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Verksamhetsområde: | Hantera ärenden enligt alkohollagen och tobakslagen |  |  |  |  |
 | Processgrupp: | Hantera prövning enligt alkohollagen, tobakslagen och lagen om receptfria läkemedel |  |  |  |  |
 | Process: | Prövning återkallelse av tobakstillstånd |  |  |  |  |
@@ -4817,6 +4494,14 @@ Informationshanteringsplan                      Sida 168 av 182
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+
+<!-- sida 194 -->
+
+Informationshanteringsplan                      Sida 167 av 182
+
+<!-- sida 195 -->
+
+Informationshanteringsplan                      Sida 168 av 182
 
 <!-- sida 196 -->
 
@@ -4853,7 +4538,7 @@ Informationshanteringsplan                      Sida 170 av 182
 
 Informationshanteringsplan                      Sida 171 av 182
 
-[Tabell 198-1](handlingar.tabeller/198-1.csv)
+[Tabell 198-199-1](handlingar.tabeller/198-199-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4873,23 +4558,19 @@ Informationshanteringsplan                      Sida 171 av 182
 |  | Svar på<br>kommunicering enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
 | Besluta om varning,<br>sanktion eller återkallelse<br>av serveringstillståndet | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
+|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
 <!-- sida 199 -->
 
 Informationshanteringsplan                      Sida 172 av 182
 
-[Tabell 199-1](handlingar.tabeller/199-1.csv)
-
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
-
 <!-- sida 200 -->
 
 Informationshanteringsplan                      Sida 173 av 182
 
-[Tabell 200-1](handlingar.tabeller/200-1.csv)
+[Tabell 200-201-1](handlingar.tabeller/200-201-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4908,24 +4589,20 @@ Informationshanteringsplan                      Sida 173 av 182
 | Skicka underrättelse inför<br>beslut om varning,<br>sanktion eller återkallelse<br>av serveringstillståndet<br>och verksamhetsutövarens<br>svar kommer in | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
 |  | Svar på<br>kommunicering enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
 |  | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
+| Besluta om varning,<br>sanktion eller återkallelse<br>av serveringstillståndet | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
+|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
 <!-- sida 201 -->
 
 Informationshanteringsplan                      Sida 174 av 182
 
-[Tabell 201-1](handlingar.tabeller/201-1.csv)
-
-| Besluta om varning,<br>sanktion eller återkallelse<br>av serveringstillståndet | Beslut | EDP Vision | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
-
 <!-- sida 202 -->
 
 Informationshanteringsplan                      Sida 175 av 182
 
-[Tabell 202-1](handlingar.tabeller/202-1.csv)
+[Tabell 202-203-1](handlingar.tabeller/202-203-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4945,17 +4622,13 @@ Informationshanteringsplan                      Sida 175 av 182
 | Besluta om erinran | Beslut | EDP Vision | Digitalt | Bevaras | Om ärendet inte går vidare till nämnd. |
 | Besluta om varning,<br>sanktion eller återkallelse<br>av tillståndet | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
+|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
 <!-- sida 203 -->
 
 Informationshanteringsplan                      Sida 176 av 182
-
-[Tabell 203-1](handlingar.tabeller/203-1.csv)
-
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
 <!-- sida 204 -->
 
@@ -6092,14 +5765,37 @@ tillsynsområde. Inom vissa områden har tillsyn påbörjats, men där behöver
 nämnden bestämma tillsynstakten. Se tabell under respektive avsnitt för
 miljöskydd, hälsoskydd, små avlopp, samt naturvård & skyddande områden.
 
+Nämndens prioritering för behovsprioriterad tid - Miljöskydd BU 2024 TP 2024
+2024–2026                                    (tid) h  (tid) h
+Bygg- och rivningsavfall - Tillsyn           82       120
+
+Projektet syftar till att öka kunskapen bland handläggarna och leda till en mer
+likartad tillsyn och bedömning av bygg- och rivningsavfall.
+
+Nämndens röster
+10     7
+5
+1
+0
+2024
+2024 2025 eller senare inte alls
+
+Entreprenörer – Tillsyn                      80       90
+
+Inventering och tillsyn behövs för att arbete mer förebyggande med tillsynen.
+Det är också mer rättvist och konkurrenskraftigt för företagare att tillsyn
+bedrivs på samtliga miljöfarliga verksamheter i kommunen. Exempel på
+entreprenörer är taktvättare, skogsarbete, med flera.
+Nämndens röster
+
+10     7
+4
+2
+0
+2024
+2024 2025 eller senare inte alls
+
 Sida 13 av 34
-
-[Tabell 234-1](handlingar.tabeller/234-1.csv)
-
-| Nämndens prioritering för behovsprioriterad tid - Miljöskydd<br>2024–2026 | BU 2024<br>(tid) h | TP 2024<br>(tid) h |
-| --- | --- | --- |
-| Bygg- och rivningsavfall - Tillsyn<br>Projektet syftar till att öka kunskapen bland handläggarna och leda till en mer<br>likartad tillsyn och bedömning av bygg- och rivningsavfall.<br>Nämndens röster<br>10 7<br>5<br>1<br>0<br>2024<br>2024 2025 eller senare inte alls | 82 | 120 |
-| Entreprenörer – Tillsyn<br>Inventering och tillsyn behövs för att arbete mer förebyggande med tillsynen.<br>Det är också mer rättvist och konkurrenskraftigt för företagare att tillsyn<br>bedrivs på samtliga miljöfarliga verksamheter i kommunen. Exempel på<br>entreprenörer är taktvättare, skogsarbete, med flera.<br>Nämndens röster<br>10 7<br>4<br>2<br>0<br>2024<br>2024 2025 eller senare inte alls | 80 | 90 |
 
 <!-- sida 235 -->
 
@@ -6451,18 +6147,84 @@ Sida 20 av 34
 
 <!-- sida 242 -->
 
+Nämndens prioritering för behovsprioriterad tid - Hälsoskydd BU 2024 TP 2024
+2024–2026                                    (tid) h (tid) h
+
+Rökfria miljöer                              80      0
+
+Rökfria utomhusmiljöer skyddar barn och unga från att börja använda tobak
+och stödjer personer som vill sluta röka. Rökfria miljöer bidrar också till att
+öka tillgängligheten till det offentliga rummet. Genom detta förebyggs ohälsa
+orsakad av rökning.
+Tillsyn på uteserveringar, entréer, lekplatser, tågstationer och
+busshållplatser.
+
+Nämndens röster
+10     4   4   5
+
+0
+2024
+2024 2025 eller senare inte alls
+
+Höga ljudnivåer                              80      60
+
+Evenemang ökar efter pandemin och behovs finns att utföra ljudmätningar.
+Hörseln kan skadas kraftigt av att utsättas för höga ljudnivåer vid ett enda
+tillfälle.
+Nämndens röster
+10     5   6
+2
+0
+2024
+
+2024 2025 eller senare inte alls
+
+Kyltorn / Legionella                         80      0
+
+Inventering och förebyggande tillsyn av kyltorn för att minska risken för fall
+och utbrott av Legionella orsakade av kyltorn. Folkhälsomyndigheten och
+Naturvårdsverket har 2022 lämnat ett förslag till regeringen om att införa
+anmälningsplikt och rapporteringsskyldighet för kyltorn.
+
 Sida 21 av 34
-
-[Tabell 242-1](handlingar.tabeller/242-1.csv)
-
-| Nämndens prioritering för behovsprioriterad tid - Hälsoskydd<br>2024–2026 | BU 2024<br>(tid) h | TP 2024<br>(tid) h |
-| --- | --- | --- |
-| Rökfria miljöer<br>Rökfria utomhusmiljöer skyddar barn och unga från att börja använda tobak<br>och stödjer personer som vill sluta röka. Rökfria miljöer bidrar också till att<br>öka tillgängligheten till det offentliga rummet. Genom detta förebyggs ohälsa<br>orsakad av rökning.<br>Tillsyn på uteserveringar, entréer, lekplatser, tågstationer och<br>busshållplatser.<br>Nämndens röster<br>10 4 4 5<br>0<br>2024<br>2024 2025 eller senare inte alls | 80 | 0 |
-| Höga ljudnivåer<br>Evenemang ökar efter pandemin och behovs finns att utföra ljudmätningar.<br>Hörseln kan skadas kraftigt av att utsättas för höga ljudnivåer vid ett enda<br>tillfälle.<br>Nämndens röster<br>10 5 6<br>2<br>0<br>2024<br>2024 2025 eller senare inte alls | 80 | 60 |
-| Kyltorn / Legionella<br>Inventering och förebyggande tillsyn av kyltorn för att minska risken för fall<br>och utbrott av Legionella orsakade av kyltorn. Folkhälsomyndigheten och<br>Naturvårdsverket har 2022 lämnat ett förslag till regeringen om att införa<br>anmälningsplikt och rapporteringsskyldighet för kyltorn. | 80 | 0 |
 
 <!-- sida 243 -->
 
+Nämndens röster
+10     6   5
+2
+0
+2024
+2024 2025 eller senare inte alls
+
+Utbildningslokaler                           25      0
+
+För att verka för en hälsosam inomhusmiljö behövs förebyggande tillsyn av
+vuxenskolor som, folkhögskolor, trafikskolor m.m.
+Inventering av objekt i kommunen krävs. Ingen tidigare tillsyn har utförts.
+
+Nämndens röster
+
+10     5   3   4
+
+0
+2024
+2024 2025 eller senare inte alls
+
+Lokaler för förvaring av djur                25      80
+
+Tillsyn på hunddagis och hund- och kattpensionat har inte gjorts tidigare. Det
+inkommer klagomål kring skällande hundar och för att arbeta förebyggande
+kan tillsyn behövas. Inventering av objekt i kommunen krävs. Ingen tidigare
+tillsyn har utförts.
+Nämndens röster
+
+10      7
+4
+2
+0
+2024
+2024 2025 eller senare inte alls
 Tabell 5: Kartläggning av nämndens prioritering för behovsprioriterad tid – hälsoskydd.
 
 Fokusområde
@@ -6473,13 +6235,6 @@ och samlingslokaler. Särskilt fokus kommer även läggas på inomhustemperatur 
 vårdboenden.
 
 Sida 22 av 34
-
-[Tabell 243-1](handlingar.tabeller/243-1.csv)
-
-| Nämndens röster<br>10 6 5<br>2<br>0<br>2024<br>2024 2025 eller senare inte alls |  |  |
-| --- | --- | --- |
-| Utbildningslokaler<br>För att verka för en hälsosam inomhusmiljö behövs förebyggande tillsyn av<br>vuxenskolor som, folkhögskolor, trafikskolor m.m.<br>Inventering av objekt i kommunen krävs. Ingen tidigare tillsyn har utförts.<br>Nämndens röster<br>10 5 3 4<br>0<br>2024<br>2024 2025 eller senare inte alls | 25 | 0 |
-| Lokaler för förvaring av djur<br>Tillsyn på hunddagis och hund- och kattpensionat har inte gjorts tidigare. Det<br>inkommer klagomål kring skällande hundar och för att arbeta förebyggande<br>kan tillsyn behövas. Inventering av objekt i kommunen krävs. Ingen tidigare<br>tillsyn har utförts.<br>Nämndens röster<br>10 7<br>4<br>2<br>0<br>2024<br>2024 2025 eller senare inte alls | 25 | 80 |
 
 <!-- sida 244 -->
 
@@ -6616,14 +6371,29 @@ tillsynsområde. Inom vissa områden har tillsyn påbörjats men där behöver n
 bestämma tillsynstakten. Se tabell under respektive avsnitt för miljöskydd,
 hälsoskydd, små avlopp, samt naturvård & skyddande områden.
 
+Nämndens prioritering för behovsprioriterad tid – Små avlopp BU 2024 TP 2024
+2024–2026                                    (tid) h (tid) h
+Tillsyn begravningsplatser                   60      0
+
+Nytt tillsynsområde för Kungsbacka. Projektet innebär inventering av
+begravningsplatser i kommunen och tillsyn av dagvattnet de genererar.
+Vattnet som släpps ut riskerar att innehålla mycket föroreningar om det inte
+renas på ett korrekt sätt. Exempel på upplägg: Omvärldsbevaka med andra
+kommuner hur man arbetet med liknande tillsyn. Samordna tillsynen
+tillsammans med Svenska kyrkan som oftast är verksamhetsutövare. Ta fram
+tillsynsmetodik och bedömningsgrunder.
+
+Nämndens röster
+
+10          7
+5
+1
+0
+2024
+2024 2025 eller senare inte alls
+Informationsinsats vedeldning                40      0
+
 Sida 25 av 34
-
-[Tabell 246-1](handlingar.tabeller/246-1.csv)
-
-| Nämndens prioritering för behovsprioriterad tid – Små avlopp<br>2024–2026 | BU 2024<br>(tid) h | TP 2024<br>(tid) h |
-| --- | --- | --- |
-| Tillsyn begravningsplatser<br>Nytt tillsynsområde för Kungsbacka. Projektet innebär inventering av<br>begravningsplatser i kommunen och tillsyn av dagvattnet de genererar.<br>Vattnet som släpps ut riskerar att innehålla mycket föroreningar om det inte<br>renas på ett korrekt sätt. Exempel på upplägg: Omvärldsbevaka med andra<br>kommuner hur man arbetet med liknande tillsyn. Samordna tillsynen<br>tillsammans med Svenska kyrkan som oftast är verksamhetsutövare. Ta fram<br>tillsynsmetodik och bedömningsgrunder.<br>Nämndens röster<br>10 7<br>5<br>1<br>0<br>2024<br>2024 2025 eller senare inte alls | 60 | 0 |
-| Informationsinsats vedeldning | 40 | 0 |
 
 <!-- sida 247 -->
 
@@ -6747,14 +6517,33 @@ bestämma tillsynstakten. För naturvård har nämnden prioriterat inom tillsyn 
 strandskydd och vattenskyddsområden. Se tabell under respektive avsnitt för
 miljöskydd, hälsoskydd, små avlopp, samt naturvård & skyddande områden.
 
+Nämndens prioritering för behovsprioriterad tid - Naturvård & BU 2024 TP 2024
+skyddade områden 2024–2026                    (tid) h (tid) h
+Tillsyn strandskydd                           250     150
+
+För att strandskyddets syfte ska bevaras på lång sikt och för att respekten för
+lagstiftningen ska upprätthållas, behöver kommuner och länsstyrelser utöva
+tillsyn. Planerad tillsyn kan riktas till strandområden där det är särskilt
+angeläget, till exempel när bostadsfastigheter ligger nära vattnet eller inom ett
+område där det inkommit mycket klagomål. Miljö & Hälsoskydd har som avsikt
+att ha tillsyn över hela kuststräckan samt runt Lygnern. Hittills har det utförts
+tre tillsynskampanjer.
+Nämndens röster
+10     5   5   3
+
+0
+2024
+2024 2025 eller senare inte alls
+
+Tillsyn vattenskyddsområden                   60      120
+
+I åtgärdsprogrammet från vattenmyndigheterna står att kommunerna ska
+genomföra regelbunden tillsyn av vattenskyddsområden samt säkerställa ett
+långsiktigt skydd för nuvarande och framtida dricksvattenförsörjning. Miljö &
+Hälsoskydd har under några års tid haft återkommande tillsyn inom Fjärås
+Bräcka vattenskyddsområde. Uppmärksammas brister ställs krav på åtgärder.
+
 Sida 28 av 34
-
-[Tabell 249-1](handlingar.tabeller/249-1.csv)
-
-| Nämndens prioritering för behovsprioriterad tid - Naturvård &<br>skyddade områden 2024–2026 | BU 2024<br>(tid) h | TP 2024<br>(tid) h |
-| --- | --- | --- |
-| Tillsyn strandskydd<br>För att strandskyddets syfte ska bevaras på lång sikt och för att respekten för<br>lagstiftningen ska upprätthållas, behöver kommuner och länsstyrelser utöva<br>tillsyn. Planerad tillsyn kan riktas till strandområden där det är särskilt<br>angeläget, till exempel när bostadsfastigheter ligger nära vattnet eller inom ett<br>område där det inkommit mycket klagomål. Miljö & Hälsoskydd har som avsikt<br>att ha tillsyn över hela kuststräckan samt runt Lygnern. Hittills har det utförts<br>tre tillsynskampanjer.<br>Nämndens röster<br>10 5 5 3<br>0<br>2024<br>2024 2025 eller senare inte alls | 250 | 150 |
-| Tillsyn vattenskyddsområden<br>I åtgärdsprogrammet från vattenmyndigheterna står att kommunerna ska<br>genomföra regelbunden tillsyn av vattenskyddsområden samt säkerställa ett<br>långsiktigt skydd för nuvarande och framtida dricksvattenförsörjning. Miljö &<br>Hälsoskydd har under några års tid haft återkommande tillsyn inom Fjärås<br>Bräcka vattenskyddsområde. Uppmärksammas brister ställs krav på åtgärder. | 60 | 120 |
 
 <!-- sida 250 -->
 
@@ -8750,11 +8539,16 @@ som är åtgärdade.
 
 Sida 28 av 46
 
-[Tabell 293-1](handlingar.tabeller/293-1.csv)
+[Tabell 293-294-1](handlingar.tabeller/293-294-1.csv)
 
 | Egeninitierad<br>tillsyn, indelat i fyra<br>faser: | Antal<br>objekt: | Prioriterade objekt: |
 | --- | --- | --- |
 | Initieringsfas | 15 | Arendals slamdeponi (Arendal 3:2)<br>Boatorp deponi (Boatorp 1:11)<br>Fjärås Biltorg (Duvehed 2:11)<br>Frillesås Handelsträdgård (Frillesås-Rya 2:35)<br>Gottskärs hamn (Skällared 4:1)<br>Gårda brygga (Ölmnanäs 8:28)<br>Gödatorp kalkslamdeponi (Gödatorp 1:8)<br>Klovsten Industriområde (Ysby 1:12, 2:25 mfl.),<br>Kullaviks lack/Kullaviks båtvarv (Släps-Kullen 1:116 och 1:406)<br>Lerkils båtsällskap (Burera 8:95)<br>Lerkils båtvarv AB (Buera 12:31)<br>Nya bleck o plåtslageriet (Boken 8)<br>Pac2, Miba & Alba (Kungsbacka 4:39) |
+|  |  | Preem Petroleum AB (Lantmästaren 1)<br>Stockens deponi (Frillesås-Stocken 1:9) |
+| Utredningsfas | 19 | Agnsjömossedeponin, (Tom 3:5)<br>Alafors deponi (Alafors 4:12)<br>Bräckornas deponier (Frillesås 3:29)<br>Bröderna Johansson deponi (Hjälm 4:1)<br>Enens båtägares ek. förening (Enen 1:20 och 1:101)<br>E. Wallin färgeri (Norrbro 4)<br>Fjälebodeponin (Fjälebo 2:1)<br>Frillesås bil och traktor (Lillared 1:16 och 1:7)<br>Kungsbacka båtsällskap (Kungsbacka 2:13, 2:2 och 3:1)<br>Kungsbacka kemiska tvätt (Samariten 11)<br>Kungsbacka svetscentral (Aranäs 9 och 14)<br>Alma Larsson, Petterssonska färgeri o garnhandel (Söderbro 11)<br>Sjögärdedeponin (Sjögärde 1:6)<br>Slamlagunen deponi (Kungsbacka 6:27)<br>Spekedalsdeponin (Spekedal S:3)<br>Svinholmens marina AB (Svinholmen 1:2)<br>Torpadaladeponin (Torpa 4:11)<br>Torreds deponi (Torred 1:12)<br>Ölmanäsdeponin (Ölmanäs 17:1) |
+| Åtgärdsfas | 8 | Archemi (Varla 6:22)<br>Barnamossen, deponi, Höglanda 1:12<br>Borens Kabelfabrik (Gjutaren 1)<br>Hammargrens & Waltreco (Skårby 13:4)<br>Kolla båtvarv (Kolla 7:3)<br>PLM Återvinning (Kungsbacka 2:3)<br>Rostskyddscentrum HB och NTD Transport (Liljan 1 och 2)<br>Svinholmens deponi (Svinholmen 1:1) |
+| Uppföljningsfas | 2 | Toms deponi (Tom 3:16) kontrollprogram följs upp, åtgärder vidtagna<br>F.d. Auson Oljeindustri AB (Tölö 11:2) |
+| Avslutad | 5 | Frithiofs kemiska (Söderå 5) avförd från FO-register efter utredning<br>MJ Svets & Smide AB (Varla 14:4) Nedklassad efter utredning och<br>borttagen från priolistan<br>Tre objekt nedprioriterad efter utredning. Beslut att framtida<br>markarbeten ska anmälas till oss inskrivet i fastighetsregistret:<br>Herman Börjesson bensin/Marton Verket AB (Aranäs 15)<br>Kungsbacka svetscentral (Aranäs 9 och 14)<br>Peterssonska färgeri och garnhandeln (Glädjen 11) |
 
 <!-- sida 294 -->
 
@@ -8775,15 +8569,6 @@ För 2025 finns 80 timmar avsatta för tillsyn av bidragsobjekt. Miljö & Hälso
 kommer få besked om bidrag beviljas i slutet av året.
 
 Sida 29 av 46
-
-[Tabell 294-1](handlingar.tabeller/294-1.csv)
-
-|  |  | Preem Petroleum AB (Lantmästaren 1)<br>Stockens deponi (Frillesås-Stocken 1:9) |
-| --- | --- | --- |
-| Utredningsfas | 19 | Agnsjömossedeponin, (Tom 3:5)<br>Alafors deponi (Alafors 4:12)<br>Bräckornas deponier (Frillesås 3:29)<br>Bröderna Johansson deponi (Hjälm 4:1)<br>Enens båtägares ek. förening (Enen 1:20 och 1:101)<br>E. Wallin färgeri (Norrbro 4)<br>Fjälebodeponin (Fjälebo 2:1)<br>Frillesås bil och traktor (Lillared 1:16 och 1:7)<br>Kungsbacka båtsällskap (Kungsbacka 2:13, 2:2 och 3:1)<br>Kungsbacka kemiska tvätt (Samariten 11)<br>Kungsbacka svetscentral (Aranäs 9 och 14)<br>Alma Larsson, Petterssonska färgeri o garnhandel (Söderbro 11)<br>Sjögärdedeponin (Sjögärde 1:6)<br>Slamlagunen deponi (Kungsbacka 6:27)<br>Spekedalsdeponin (Spekedal S:3)<br>Svinholmens marina AB (Svinholmen 1:2)<br>Torpadaladeponin (Torpa 4:11)<br>Torreds deponi (Torred 1:12)<br>Ölmanäsdeponin (Ölmanäs 17:1) |
-| Åtgärdsfas | 8 | Archemi (Varla 6:22)<br>Barnamossen, deponi, Höglanda 1:12<br>Borens Kabelfabrik (Gjutaren 1)<br>Hammargrens & Waltreco (Skårby 13:4)<br>Kolla båtvarv (Kolla 7:3)<br>PLM Återvinning (Kungsbacka 2:3)<br>Rostskyddscentrum HB och NTD Transport (Liljan 1 och 2)<br>Svinholmens deponi (Svinholmen 1:1) |
-| Uppföljningsfas | 2 | Toms deponi (Tom 3:16) kontrollprogram följs upp, åtgärder vidtagna<br>F.d. Auson Oljeindustri AB (Tölö 11:2) |
-| Avslutad | 5 | Frithiofs kemiska (Söderå 5) avförd från FO-register efter utredning<br>MJ Svets & Smide AB (Varla 14:4) Nedklassad efter utredning och<br>borttagen från priolistan<br>Tre objekt nedprioriterad efter utredning. Beslut att framtida<br>markarbeten ska anmälas till oss inskrivet i fastighetsregistret:<br>Herman Börjesson bensin/Marton Verket AB (Aranäs 15)<br>Kungsbacka svetscentral (Aranäs 9 och 14)<br>Peterssonska färgeri och garnhandeln (Glädjen 11) |
 
 <!-- sida 295 -->
 

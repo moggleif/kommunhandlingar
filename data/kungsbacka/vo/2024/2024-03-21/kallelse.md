@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.99ff57618df2ddb19d38367/17107777124
 sha256: 62c5e58955feca366c0a0ade9154e45d8d404105fbbf52cf47f94abae2c7262f
 bytes: 103014
 sidor: 4
-hamtad: 2026-10-08T08:17:13+00:00
-konverterad: 2026-10-08T08:17:18+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T11:10:14+00:00
+konverterad: 2026-10-14T11:10:20+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -58,7 +58,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -69,17 +69,6 @@ KUNGSBACKA  KOMMUN
 | 11. | Information om ny<br>hemtjänstutförare enligt lagen<br>om Valfrihetssystem, LOV | VO-2023-<br>00266 | Nämnden för Vård & Omsorg noterar informationen<br>till protokollet. |
 | 12. | Delegeringsförteckning -<br>revidering | VO-2022-<br>00183 | Nämnden för Vård & Omsorg antar reviderad<br>delegeringsförteckning, daterad 2024-03-21.<br>Nämnden för Vård & Omsorg upphäver<br>delegeringsförteckning antagen av nämnden 2023-<br>10-19, § 126. |
 | 13. | Initiativ från Ermin Škoric (S)<br>med flera -<br>Sammanträdesteknik utifrån<br>kommunallagens grunder | VO-2024-<br>00114 |  |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 14. | Redovisning om det pågående<br>arbetet med semester-<br>bemanningen 2023-2024 | VO-2023-<br>00148 | Nämnden för Vård & Omsorg noterar informationen<br>till protokollet.<br>Nämnden för Vård & Omsorg förklarar uppdraget<br>avslutat. |
 | 15. | Pågående arbete med<br>implementering av<br>Kungsbackamodellen | VO-2024-<br>00082 | Nämnden för Vård & Omsorg noterar informationen<br>till protokollet. |
 | 16. | Uppföljning av strategisk plan<br>för det förebyggande och<br>hälsofrämjande arbetet | VO-2021-<br>00424 | Nämnden för Vård & Omsorg noterar informationen<br>till protokollet.<br>Nämnden för Vård & Omsorg förklarar uppdraget<br>med dnr VO-2021-00424 avslutat.<br>Nämnden för Vård & Omsorg ger förvaltningen ett<br>nytt uppdrag att återkomma till nämnden med en<br>redovisning av en samlad strategisk plan för det<br>förebyggande arbetet i sin helhet senast till<br>nämndsammanträdet i maj 2024. |
@@ -87,6 +76,15 @@ KUNGSBACKA  KOMMUN
 | 18. | Resultat från undersökningen<br>"Vad tycker de äldre om<br>äldreomsorgen 2023?" | VO-2022-<br>00243 | Nämnden för Vård & Omsorg noterar informationen<br>till protokollet. |
 | 19. | Tidplan 2024 - Ändring av<br>datum för planeringsdag den 29<br>augusti 2024 | VO-2022-<br>00245 | Nämnden för Vård & Omsorg flyttar nämndens<br>planeringsdag den 29 augusti till den 5 september<br>2024. |
 | 20. | Anmälan av delegeringsbeslut,<br>mars 2024 | VO-2024-<br>00004 | Nämnden för Vård & Omsorg noterar anmälda<br>delegeringsbeslut till protokollet. |
+| 21. | Redovisning av inkomna<br>skrivelser mars 2024 | VO-2024-<br>00005 | Nämnden för Vård & Omsorg noterar redovisningen<br>av inkomna skrivelser till protokollet. |
+| 22. | Information från<br>förvaltningschef mars 2024 | VO-2024-<br>00006 |  |
+| 23. | Information från ledamöter<br>mars 2024 | VO-2024-<br>00007 |  |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -96,11 +94,3 @@ KUNGSBACKA  KOMMUN
 
 Hravn Forsne (M)                  Vera Lagerström
 ordförande                        nämndsekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 21. | Redovisning av inkomna<br>skrivelser mars 2024 | VO-2024-<br>00005 | Nämnden för Vård & Omsorg noterar redovisningen<br>av inkomna skrivelser till protokollet. |
-| 22. | Information från<br>förvaltningschef mars 2024 | VO-2024-<br>00006 |  |
-| 23. | Information från ledamöter<br>mars 2024 | VO-2024-<br>00007 |  |

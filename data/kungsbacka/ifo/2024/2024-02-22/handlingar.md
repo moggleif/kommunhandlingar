@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.740037a718d876d2ccf1f2bb/1708353150
 sha256: 97fa684a831ea24b8f4e583b9fe621f7cbc34bf241267333403ebddf485ddb95
 bytes: 6223099
 sidor: 264
-hamtad: 2026-10-08T02:25:13+00:00
-konverterad: 2026-10-08T02:25:59+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T10:03:29+00:00
+konverterad: 2026-10-14T10:04:16+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [14]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [14, 181]
+figurer: [7, 14, 34, 36, 59, 89, 94, 95, 96, 119, 127, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 219, 220, 221, 222]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -2561,27 +2561,16 @@ SOCIALSTYRELSEN
 
 Tabell 1. Regioner med kommuner som inte har PO-verksamhet. Antal
 och andel kommuner
-Kommuner i
-regionen som
-Region                               inte har PO-
-verksamhet
-(andel, %)
-Jönköpings län                           77
-Västra Götaland                          14
-Örebro län                               42
-Östergötland                             38
-Skåne                                    12
-Uppsala                                  25
-Gotland                                 100
-Halland                                  17
-Jämtland Härjedalen                      13
-Sörmland                                 11
-Kalmar län                               8
-Värmland                                 6
-Totalt, riket                            13
+Kommuner i Kommuner i
+Kommuner i regionen som regionen som
+Region          regionen (totalt inte har PO- inte har PO-
+antal)    verksamhet verksamhet
+(antal)    (andel, %)
+
 Källa: Länsstyrelsernas PO-handläggare.
 En klar majoritet av kommunerna utan PO-verksamhet ligger i södra Sverige.
 Endast 3 av 39 ligger norr om Stockholm, varav 2 i Region Uppsala och 1 i
+
 Region Jämtland Härjedalen.
 Sammanställningen visar också att de flesta kommunerna utan PO-
 verksamhet är relativt små sett till antal invånare. En majoritet (30 stycken)
@@ -2599,15 +2588,6 @@ de inte kände till om det funnits en sådan verksamhet tidigare.
 Tabell 2. Har det funnits en verksamhet med personliga ombud i kommu-
 nen under de senaste tio åren?
 
-Antal Andel (%)
-
-```osaker-tabell
-Ja                                   17      61
-Nej                                   6      21
-Vet inte                              5      18
-Totalt                               28     100
-```
-
 Källa: Socialstyrelsens enkät till kommuner som inte har PO-verksamhet (2023).
 
 26 De 11 kommuner som inte besvarade enkäten ligger i följande sju regioner: Örebro, Jönköping, Östergötland, Västra
@@ -2618,21 +2598,29 @@ SOCIALSTYRELSEN
 
 [Tabell 57-1](handlingar.tabeller/57-1.csv)
 
-| Kommuner i<br>regionen (totalt<br>antal) | Kommuner i<br>regionen som<br>inte har PO-<br>verksamhet<br>(antal) |
-| --- | --- |
-| 13 | 10 |
-| 49 | 7 |
-| 12 | 5 |
-| 13 | 5 |
-| 33 | 4 |
-| 8 | 2 |
-| 1 | 1 |
-| 6 | 1 |
-| 8 | 1 |
-| 9 | 1 |
-| 12 | 1 |
-| 16 | 1 |
-|  | 39 |
+| Jönköpings län | 13 | 10 | 77 |
+| --- | --- | --- | --- |
+| Västra Götaland | 49 | 7 | 14 |
+| Örebro län | 12 | 5 | 42 |
+| Östergötland | 13 | 5 | 38 |
+| Skåne | 33 | 4 | 12 |
+| Uppsala | 8 | 2 | 25 |
+| Gotland | 1 | 1 | 100 |
+| Halland | 6 | 1 | 17 |
+| Jämtland Härjedalen | 8 | 1 | 13 |
+| Sörmland | 9 | 1 | 11 |
+| Kalmar län | 12 | 1 | 8 |
+| Värmland | 16 | 1 | 6 |
+| Totalt, riket |  | 39 | 13 |
+
+[Tabell 57-2](handlingar.tabeller/57-2.csv)
+
+|  | Antal | Andel (%) |
+| --- | --- | --- |
+| Ja | 17 | 61 |
+| Nej | 6 | 21 |
+| Vet inte | 5 | 18 |
+| Totalt | 28 | 100 |
 
 <!-- sida 58 -->
 
@@ -5766,7 +5754,7 @@ Uppföljningsrapport intern kontroll 2023
 
 12
 
-[Tabell 125-1](handlingar.tabeller/125-1.csv)
+[Tabell 125-126-1](handlingar.tabeller/125-126-1.csv)
 
 | Risker | Enhet Granskningsaktiviteter | Åtgärder |
 | --- | --- | --- |
@@ -5779,6 +5767,13 @@ Uppföljningsrapport intern kontroll 2023
 | Kommunövergripande<br>risk:<br>informationssäkerhet;<br>skydd av information mot<br>obehörig tillgång | Förslag: Granska att det<br>finns 1. en aktuell<br>informationsklassning<br>och tillhörande<br>Individ & Familjeomsorg handlingsplan 2. att det<br>finns en tröskelanalys, 3.<br>Om tillämpligt att det<br>finns en DPIA<br>(konsekvensanalys). |  |
 | Risk att riktlinje för<br>systematisk uppföljning<br>inte följs | Granska följsamhet till<br>Individ & Familjeomsorg riktlinje för systematisk<br>individuppföljning |  |
 | Risk att vi inte följer upp<br>och förhandlar om avtal<br>med externa aktörer vid<br>förändrade behov | Granska följsamhet till<br>Individ & Familjeomsorg rutiner och processer för<br>att omförhandla avtal |  |
+| Kommunövergripande<br>risk - Risk för korruption | Nuläge förebyggande<br>Individ & Familjeomsorg<br>arbete korruption | Kommungemensamt<br>APT- material kring<br>otillåten påverkan läggs i<br>APT- årshjul för att lyftas<br>med medarbetare |
+|  |  | Fånga upp de fall<br>medarbetare svarar ja på<br>fråga om otillåten<br>påverkan vid<br>medarbetarsamtal |
+| Risk för välfärdsbrott<br>inom personlig assistans | Stickprov ansökningar<br>Individ & Familjeomsorg om sjuklöneersättning<br>privat assistans | Aggregerad<br>sammanställning av<br>felaktiga ansökningar ska<br>dokumenteras årligen.<br>Kontrollen förs in i<br>förvaltningens<br>egenkontrollplan 2024. |
+| Risk för felanvändning av<br>föreningsbidrag | Granska att utbetalt<br>föreningsbidrag används<br>Individ & Familjeomsorg<br>i enlighet med beviljad<br>ansökan | Skapa informationssida<br>på kungsbacka.se |
+|  |  | Förtydliga<br>återbetalningsskyldighet<br>vid oegentligheter |
+|  |  | Verksamhetsbesök |
+| Risk för bristande<br>hantering av tillbud och<br>olycksfall | Granska stickprov av<br>Individ & Familjeomsorg<br>tillbud i KIA | Kompetenshöjande<br>insats |
 
 <!-- sida 126 -->
 
@@ -5807,18 +5802,6 @@ egenkontrollplan 2024.
 förvaltningens egenkontrollplan 2024.
 
 13
-
-[Tabell 126-1](handlingar.tabeller/126-1.csv)
-
-| Risker | Enhet Granskningsaktiviteter | Åtgärder |
-| --- | --- | --- |
-| Kommunövergripande<br>risk - Risk för korruption | Nuläge förebyggande<br>Individ & Familjeomsorg<br>arbete korruption | Kommungemensamt<br>APT- material kring<br>otillåten påverkan läggs i<br>APT- årshjul för att lyftas<br>med medarbetare |
-|  |  | Fånga upp de fall<br>medarbetare svarar ja på<br>fråga om otillåten<br>påverkan vid<br>medarbetarsamtal |
-| Risk för välfärdsbrott<br>inom personlig assistans | Stickprov ansökningar<br>Individ & Familjeomsorg om sjuklöneersättning<br>privat assistans | Aggregerad<br>sammanställning av<br>felaktiga ansökningar ska<br>dokumenteras årligen.<br>Kontrollen förs in i<br>förvaltningens<br>egenkontrollplan 2024. |
-| Risk för felanvändning av<br>föreningsbidrag | Granska att utbetalt<br>föreningsbidrag används<br>Individ & Familjeomsorg<br>i enlighet med beviljad<br>ansökan | Skapa informationssida<br>på kungsbacka.se |
-|  |  | Förtydliga<br>återbetalningsskyldighet<br>vid oegentligheter |
-|  |  | Verksamhetsbesök |
-| Risk för bristande<br>hantering av tillbud och<br>olycksfall | Granska stickprov av<br>Individ & Familjeomsorg<br>tillbud i KIA | Kompetenshöjande<br>insats |
 
 <!-- sida 127 -->
 
@@ -5861,11 +5844,17 @@ Med privata utförare avses utförare som har hand om skötseln av en kommunal a
 privat utförare räknas inte hel- eller delägda kommunala bolag, eller stiftelse eller förening som bildats av
 kommunen eller regionen.
 
+Andel av       Kostnad för
+Verksamhet
+verksamhetsvolym % verksamhet mnkr
+Bokslut Bokslut Bokslut Bokslut
+2022   2023    2022    2023
+
 14
 
 [Tabell 127-1](handlingar.tabeller/127-1.csv)
 
-| Verksamhet<br>Bostad med Särskild Service | Andel av<br>verksamhetsvolym %<br>Bokslut Bokslut<br>2022 2023<br>22 % 17 % |  | Kostnad för<br>verksamhet mnkr<br>Bokslut Bokslut<br>2022 2023<br>59,1 49,8 |  |
+| Bostad med Särskild Service | 22 % | 17 % | 59,1 | 49,8 |
 | --- | --- | --- | --- | --- |
 | Daglig verksamhet | 8 % | 6 % | 4,0 | 3,1 |
 | Ledsagning & avlösning | 6 % | 10 % | 0,5 | 1,1 |
@@ -5937,7 +5926,7 @@ handlar 26 om klagomål på insatsens utformande eller utförande, 15 klagomål 
 |  |  |
 | Antal obesvarade 10 dgr efter besked om<br>mottagande | 2 |
 
-[Tabell 129-2](handlingar.tabeller/129-2.csv)
+[Tabell 129-130-2](handlingar.tabeller/129-130-2.csv)
 
 | Typ av klagomål | Antal klagomål Totalt: |
 | --- | --- |
@@ -5950,18 +5939,6 @@ handlar 26 om klagomål på insatsens utformande eller utförande, 15 klagomål 
 |  |  |
 | Barn- och ungdomsenheten | 9 |
 | Bemötande | 3 |
-
-<!-- sida 130 -->
-
-Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
-Uppföljningsrapport intern kontroll 2023
-
-17
-
-[Tabell 130-1](handlingar.tabeller/130-1.csv)
-
-| Typ av klagomål | Antal klagomål Totalt: |
-| --- | --- |
 | Handläggning av ärende | 3 |
 | Insatsens utformande | 3 |
 |  |  |
@@ -5987,6 +5964,13 @@ Uppföljningsrapport intern kontroll 2023
 | Mottagningsenheten Barn- och Unga | 1 |
 | Bemötande | 1 |
 
+<!-- sida 130 -->
+
+Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
+Uppföljningsrapport intern kontroll 2023
+
+17
+
 <!-- sida 131 -->
 
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
@@ -6006,7 +5990,7 @@ Nämndens självskattning
 
 18
 
-[Tabell 131-1](handlingar.tabeller/131-1.csv)
+[Tabell 131-132-1](handlingar.tabeller/131-132-1.csv)
 
 | Område<br>Uppdrag och mål | Frågor Svar, Antal 2023<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
 | --- | --- |
@@ -6022,6 +6006,13 @@ Nämndens självskattning
 |  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
 | Riskanalys | Riskanalysen kommuniceras med<br>nämnden |
 |  | Riskanalysen är underlag för åtgärder och<br>granskningar |
+| Område<br>Kontrollaktiviteter | Frågor Svar, Antal 2023<br>Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
+|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
+|  | Återkoppling sker till förvaltningsledningen |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
+| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |
 
 <!-- sida 132 -->
 
@@ -6029,17 +6020,6 @@ Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
 Uppföljningsrapport intern kontroll 2023
 
 19
-
-[Tabell 132-1](handlingar.tabeller/132-1.csv)
-
-| Område<br>Kontrollaktiviteter | Frågor Svar, Antal 2023<br>Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
-| --- | --- |
-|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
 
 <!-- sida 133 -->
 
@@ -6262,8 +6242,9 @@ Investeringar
 
 [Tabell 138-1](handlingar.tabeller/138-1.csv)
 
-| Utfall (miljoner kronor)<br>Intäkter | Utfall 2021<br>73,5 | Utfall 2022<br>71 | Utfall 2023<br>63 |
+| Utfall (miljoner kronor) | Utfall 2021 | Utfall 2022 | Utfall 2023 |
 | --- | --- | --- | --- |
+| Intäkter | 73,5 | 71 | 63 |
 | Kostnader | -753 | -767,8 | -828 |
 | Netto | -679,5 | -696,8 | -765 |
 | Budget, netto | -699 | -714,8 | -750 |
@@ -6271,8 +6252,9 @@ Investeringar
 
 [Tabell 138-2](handlingar.tabeller/138-2.csv)
 
-| Utfall (miljoner kronor)<br>Utgifter | Utfall 2021<br>-2,3 | Utfall 2022<br>-1 | Utfall 2023<br>-1,7 |
+| Utfall (miljoner kronor) | Utfall 2021 | Utfall 2022 | Utfall 2023 |
 | --- | --- | --- | --- |
+| Utgifter | -2,3 | -1 | -1,7 |
 | Inkomster |  |  |  |
 | Netto | -2,3 | -1 | -1,7 |
 
@@ -7723,10 +7705,12 @@ bättre arbetsmiljö för alla medarbetare i nästa steg. En stor del av arbetet
 
 [Tabell 165-1](handlingar.tabeller/165-1.csv)
 
-| Namn<br>Riskobservation | 2021<br>40 | 2022<br>50 | 2023<br>34 |
+| Namn | 2021 | 2022 | 2023 |
 | --- | --- | --- | --- |
+| Riskobservation | 40 | 50 | 34 |
 | Tillbud | 604 | 379 | 462 |
-| Olycksfall<br>Total | 80<br>724 | 127<br>556 | 151<br>647 |
+| Olycksfall | 80 | 127 | 151 |
+| Total | 724 | 556 | 647 |
 
 <!-- sida 166 -->
 
@@ -7815,20 +7799,23 @@ bidragande faktor till att personalomsättningen på totalen inte är större ä
 
 32
 
-[Tabell 167-1](handlingar.tabeller/167-1.csv)
+[Tabell 167-168-1](handlingar.tabeller/167-168-1.csv)
 
-|  | Namn Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 |
-| --- | --- |
-| Andel deltid 22,7% 22,6% 21,9% 19,3% 16,3% |  |
-| Andel kvinnor<br>22,6% 22,7% 21,8% 18,7% 16,4%<br>som har deltid |  |
-| Andel kvinnor<br>77,4% 77,3% 78,2% 81,3% 83,6%<br>som har heltid |  |
-| Andel män som<br>23,2% 22,5% 22% 21,8% 15,9%<br>har deltid |  |
-| Andel män som<br>76,8% 77,5% 78,1% 78,2% 84,2%<br>har heltid |  |
-| Anställda andel<br>83,7% 83,3% 82,6% 81% 78,7%<br>kvinnor |  |
-| Anställda andel<br>16,3% 16,7% 17,4% 19% 21,3%<br>män |  |
-| Anställda<br>genomsnittlig<br>94,8% 95,1% 95,6% 96% 96,6%<br>sysselsättnings<br>grad |  |
-| Anställda totalt 840 790 759 791 813 |  |
-| Antal<br>medarbetare 20 19,3 18 16,6 17,5<br>per chef |  |
+|  | Namn | Bokslut 2019 | Bokslut 2020 | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Andel deltid | 22,7% | 22,6% | 21,9% | 19,3% | 16,3% |
+|  | Andel kvinnor<br>som har deltid | 22,6% | 22,7% | 21,8% | 18,7% | 16,4% |
+|  | Andel kvinnor<br>som har heltid | 77,4% | 77,3% | 78,2% | 81,3% | 83,6% |
+|  | Andel män som<br>har deltid | 23,2% | 22,5% | 22% | 21,8% | 15,9% |
+|  | Andel män som<br>har heltid | 76,8% | 77,5% | 78,1% | 78,2% | 84,2% |
+|  | Anställda andel<br>kvinnor | 83,7% | 83,3% | 82,6% | 81% | 78,7% |
+|  | Anställda andel<br>män | 16,3% | 16,7% | 17,4% | 19% | 21,3% |
+|  | Anställda<br>genomsnittlig<br>sysselsättnings<br>grad | 94,8% | 95,1% | 95,6% | 96% | 96,6% |
+|  | Anställda totalt | 840 | 790 | 759 | 791 | 813 |
+|  | Antal<br>medarbetare<br>per chef | 20 | 19,3 | 18 | 16,6 | 17,5 |
+|  | Antal<br>medarbetare<br>per enhetschef | 22,9 | 22,8 | 21,2 | 18,7 | 19,2 |
+|  | Medelålder | 44 | 45 | 45 | 45 | 46 |
+|  | Pensionsavgån<br>gar | 8 | 5 | 8 | 10 | 7 |
 
 <!-- sida 168 -->
 
@@ -7837,50 +7824,78 @@ Nämndens årsredovisning 2023
 
 6.5 Effektmått
 
+Namn        Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023
+
+Frisknärvaro  49,5%       40,1%      42,9%         39,1%      43,5%
+Frisknärvaro
+48,8%       39,6%      42,2%         38,6%      43,8%
+Kvinnor
+Frisknärvaro
+53,4%       42,8%      46,5%         41,5%      42,4%
+Män
+Korttidssjukfrån
+3,6%       4,8%       4,4%           4,7%       4,5%
+varo
+Korttidssjukfrån
+3,8%       4,9%       4,4%           4,7%       4,4%
+varo Kvinnor
+Korttidssjukfrån
+3%         4,6%       4,6%           4,8%       4,7%
+varo Män
+Långtidssjukfrå
+4,5%       4,6%       5,7%            6%        5,7%
+nvaro
+Långtidssjukfrå
+4,6%       5,1%       6,1%           6,6%       5,9%
+nvaro Kvinnor
+Långtidssjukfrå
+3,8%       2,2%       3,5%           3,3%       4,7%
+nvaro Män
+Personalomsätt
+17,8%       17,4%      13,5%          14%       13,9%
+ning
+Sjukfrånvaro
+8,4%       10%        10,5%         11,3%      10,3%
+Kvinnor
+Sjukfrånvaro
+6,8%       6,8%       8,1%           8,2%       9,4%
+Män
+Sjukfrånvaro
+8,1%       9,5%       10,1%         10,7%      10,2%
+Totalt
+Sjukfrånvaro,
+andel av
+35,3%      42,5%         45,2%      43,3%
+sjukfrånvaro 60
+dagar eller mer
+Sjukfrånvaro,
+anställda i
+6,6%       8,6%       7,2%           7,6%      11,2%
+åldrarna 29 år
+eller yngre
 33
-
-[Tabell 168-1](handlingar.tabeller/168-1.csv)
-
-|  | Namn Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 |
-| --- | --- |
-| Antal<br>medarbetare 22,9 22,8 21,2 18,7 19,2<br>per enhetschef |  |
-| Medelålder 44 45 45 45 46 |  |
-| Pensionsavgån<br>8 5 8 10 7<br>gar |  |
-
-[Tabell 168-2](handlingar.tabeller/168-2.csv)
-
-|  | Namn Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 |
-| --- | --- |
-| Frisknärvaro 49,5% 40,1% 42,9% 39,1% 43,5% |  |
-| Frisknärvaro<br>48,8% 39,6% 42,2% 38,6% 43,8%<br>Kvinnor |  |
-| Frisknärvaro<br>53,4% 42,8% 46,5% 41,5% 42,4%<br>Män |  |
-| Korttidssjukfrån<br>3,6% 4,8% 4,4% 4,7% 4,5%<br>varo |  |
-| Korttidssjukfrån<br>3,8% 4,9% 4,4% 4,7% 4,4%<br>varo Kvinnor |  |
-| Korttidssjukfrån<br>3% 4,6% 4,6% 4,8% 4,7%<br>varo Män |  |
-| Långtidssjukfrå<br>4,5% 4,6% 5,7% 6% 5,7%<br>nvaro |  |
-| Långtidssjukfrå<br>4,6% 5,1% 6,1% 6,6% 5,9%<br>nvaro Kvinnor |  |
-| Långtidssjukfrå<br>3,8% 2,2% 3,5% 3,3% 4,7%<br>nvaro Män |  |
-| Personalomsätt<br>17,8% 17,4% 13,5% 14% 13,9%<br>ning |  |
-| Sjukfrånvaro<br>8,4% 10% 10,5% 11,3% 10,3%<br>Kvinnor |  |
-| Sjukfrånvaro<br>6,8% 6,8% 8,1% 8,2% 9,4%<br>Män |  |
-| Sjukfrånvaro<br>8,1% 9,5% 10,1% 10,7% 10,2%<br>Totalt |  |
-| Sjukfrånvaro,<br>andel av<br>35,3% 42,5% 45,2% 43,3%<br>sjukfrånvaro 60<br>dagar eller mer |  |
-| Sjukfrånvaro,<br>anställda i<br>6,6% 8,6% 7,2% 7,6% 11,2%<br>åldrarna 29 år<br>eller yngre |  |
 
 <!-- sida 169 -->
 
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
 Nämndens årsredovisning 2023
 
+Namn        Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023
+Sjukfrånvaro,
+anställda i
+7,8%        9%        9,1%           9,4%       9,3%
+åldrarna 30-49
+år
+Sjukfrånvaro,
+anställda i
+9,1%       10,2%      11,9%         12,9%      10,9%
+åldrarna 50 år
+eller äldre
+Sjukfrånvaroda
+gar i snitt per 27,2      32,7       34,9            35        33,4
+anställd
+
 34
-
-[Tabell 169-1](handlingar.tabeller/169-1.csv)
-
-|  | Namn Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 |
-| --- | --- |
-| Sjukfrånvaro,<br>anställda i<br>7,8% 9% 9,1% 9,4% 9,3%<br>åldrarna 30-49<br>år |  |
-| Sjukfrånvaro,<br>anställda i<br>9,1% 10,2% 11,9% 12,9% 10,9%<br>åldrarna 50 år<br>eller äldre |  |
-| Sjukfrånvaroda<br>gar i snitt per 27,2 32,7 34,9 35 33,4<br>anställd |  |
 
 <!-- sida 170 -->
 
@@ -7892,6 +7907,21 @@ Nämndens årsredovisning 2023
 7.1 Uppföljning driftbudget
 
 Drift (belopp mnkr)
+
+Uppföljningsnivå (belopp i                                Budgetavvik
+Bokslut 2022 Budget 2023 Bokslut 2023
+mnkr)                                                      else 2023
+Nämnd                           -1 727     -2 035    -1 948      87
+Stödfunktioner och central
+-57 415   -62 893   -64 785    -1 892
+verksamhet
+Myndighet, stöd och
+-234 066  -237 791  -245 525    -7 734
+behandling
+Bostad med särskild service    -215 235  -242 513  -248 128    -5 615
+Stöd i hemmet och
+-85 205   -92 798   -96 852    -4 054
+sysselsättning
 
 Kommentarer
 Fokus för nämnden är fortsatt att bygga en hållbar socialtjänst, med en hållbar budget i balans. Resultatet för
@@ -7923,15 +7953,10 @@ arbetad tid som görs av fastanställd personal ökat.
 
 [Tabell 170-1](handlingar.tabeller/170-1.csv)
 
-| Uppföljningsnivå (belopp i<br>mnkr)<br>Nämnd |  | Bokslut 2022<br>-1 727 | Budget 2023<br>-2 035 | Bokslut 2023<br>-1 948 | Budgetavvik<br>else 2023<br>87 |
-| --- | --- | --- | --- | --- | --- |
-| Stödfunktioner och central<br>verksamhet | -57 415 |  | -62 893 | -64 785 | -1 892 |
-| Myndighet, stöd och<br>behandling | -234 066 |  | -237 791 | -245 525 | -7 734 |
-| Bostad med särskild service | -215 235 |  | -242 513 | -248 128 | -5 615 |
-| Stöd i hemmet och<br>sysselsättning | -85 205 |  | -92 798 | -96 852 | -4 054 |
-| Daglig verksamhet | -45 687 |  | -51 400 | -51 592 | -192 |
-| Privat assistans | -57 478 |  | -60 639 | -56 116 | 4 523 |
-| Summa |  | -696 813 | -750 069 | -764 946 | -14 877 |
+| Daglig verksamhet | -45 687 | -51 400 | -51 592 | -192 |
+| --- | --- | --- | --- | --- |
+| Privat assistans | -57 478 | -60 639 | -56 116 | 4 523 |
+| Summa | -696 813 | -750 069 | -764 946 | -14 877 |
 
 <!-- sida 171 -->
 
@@ -8150,7 +8175,7 @@ Investeringar (belopp mnkr)
 
 39
 
-[Tabell 174-1](handlingar.tabeller/174-1.csv)
+[Tabell 174-175-1](handlingar.tabeller/174-175-1.csv)
 
 | (Belopp i mnkr) | Bokslut 2022 | Budget 2023 | Bokslut 2023 | Avvikelse<br>2023 |
 | --- | --- | --- | --- | --- |
@@ -8163,6 +8188,8 @@ Investeringar (belopp mnkr)
 | INVESTERINGSINKOMSTER |  |  |  |  |
 | Avgiftsfinansierad verksamhet -<br>Anslutningsavgifter |  |  |  |  |
 | Övriga investeringar - Statliga<br>investeringsbidrag |  |  |  |  |
+| Summa investeringsinkomster |  |  |  |  |
+| Summa nettoinvesteringar | -1 | -2,7 | -1,7 | 1,0 |
 
 <!-- sida 175 -->
 
@@ -8174,12 +8201,6 @@ Nämndens investeringar består av löpande inventarier och vissa hjälpmedel. I
 över årsskiftet.
 
 40
-
-[Tabell 175-1](handlingar.tabeller/175-1.csv)
-
-| Summa investeringsinkomster |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Summa nettoinvesteringar | -1 | -2,7 | -1,7 | 1,0 |
 
 <!-- sida 176 -->
 
@@ -11042,7 +11063,7 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 
 §§ socialtjänstlagen, SoL
 
-[Tabell 245-1](handlingar.tabeller/245-1.csv)
+[Tabell 245-247-1](handlingar.tabeller/245-247-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
@@ -11058,16 +11079,6 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 | 2023-06-12 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, den enskilde har tackat nej till<br>erbjudande 2023-11-30. Svårt att få kontakt med<br>familjen vilket dragit ut på tiden. |
 | 2022-03-16 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Tackat nej till 4 erbjudanden, 2022-09-15, 2022-11-29,<br>2023-05-17 och 2023-11-20. |
 | 2022-12-31 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Avbrott i verkställighet, tackat nej till 2 erbjudanden<br>2023-06-20 och 2023-12-22, eftersom boendet inte<br>ligger i centrala Kungsbacka. |
-
-<!-- sida 246 -->
-
-KUNGSBACKA  KOMMUN
-4 (7)
-
-[Tabell 246-1](handlingar.tabeller/246-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2023-04-03 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Tackat nej till 1 erbjudande, 2023-09-27, eftersom<br>boendet inte ligger i centrala Kungsbacka. |
 | 2023-09-01 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Fått erbjudande 2023-11-23, men ännu inte svarat på<br>erbjudandet då inflyttningsdatumet är oklart pga<br>ombyggnation. |
 | 2023-09-04 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Saknas plats. |
@@ -11082,18 +11093,6 @@ KUNGSBACKA  KOMMUN
 | 2023-01-11 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
 | 2023-02-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
 | 2023-04-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. Individen<br>har blivit erbjuden flera uppstartsmöten men avbokat. |
-
-<!-- sida 247 -->
-
-KUNGSBACKA  KOMMUN
-5 (7)
-
-Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
-
-[Tabell 247-1](handlingar.tabeller/247-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2023-04-17 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde är föräldraledig. |
 | 2023-04-27 | 9 § 10 LSS, daglig<br>verksamhet | Tackat nej till 5 erbjudanden om uppstart, önskar<br>avvakta pga rädsla för smittspridning. |
 | 2023-05-03 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Arbetsmiljöproblem relaterade<br>till den enskilde. |
@@ -11105,22 +11104,24 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2023-09-20 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde har tackat nej till uppstart, missnöjd med<br>insatsens utformning. |
 | 2023-10-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 
-[Tabell 247-2](handlingar.tabeller/247-2.csv)
+<!-- sida 246 -->
+
+KUNGSBACKA  KOMMUN
+4 (7)
+
+<!-- sida 247 -->
+
+KUNGSBACKA  KOMMUN
+5 (7)
+
+Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
+
+[Tabell 247-249-1](handlingar.tabeller/247-249-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
 | 2023-05-23 | 4 kap 1 § SoL, avlösning i<br>hemmet | Avbrott i verkställighet, har<br>tacka nej till uppstart, tveksam<br>till beviljad insats. | Avslutad, 2023-11-30,<br>tackat nej till insats. |
 | 2023-05-23 | 4 kap 1 § SoL, avlösning i<br>hemmet | Avbrott i verkställighet, har<br>tacka nej till uppstart, tveksam<br>till beviljad insats. | Avslutad, 2023-11-01,<br>tackat nej till insats. |
-
-<!-- sida 248 -->
-
-KUNGSBACKA  KOMMUN
-6 (7)
-
-[Tabell 248-1](handlingar.tabeller/248-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2023-05-23 | 4 kap 1 § SoL, avlösning i<br>hemmet | Avbrott i verkställighet, har<br>tacka nej till uppstart, tveksam<br>till beviljad insats. | Avslutad, 2023-11-01,<br>tackat nej till insats. |
 | 2023-06-16 | 4 kap 1 § SoL, boendestöd | Den enskilde är i behov av lång<br>introduktion. 1 insats av 2<br>verkställd 2023-06-26. | Verkställt, 2023-11-21. |
 | 2023-07-13 | 4 kap 1 § SoL, boendestöd | 2 av 3 insatser är verkställda.<br>Den enskilde har tackat nej. | Verkställt, 2023-10-20. |
@@ -11132,6 +11133,20 @@ KUNGSBACKA  KOMMUN
 | 2023-06-28 | 9 § 4 LSS, kontaktperson | Personalbrist på grund av<br>nystartad verksamhet. | Verkställt, 2023-10-11. |
 | 2022-08-16 | 9 § 5 LSS, avlösarservice i<br>hemmet | Tackat nej till 2 erbjudanden,<br>2023-03-30, 2023-06-21.<br>Medverkar inte till<br>verkställighet, verksamheten får<br>inte kontakt. | Avslutat, 2023-12-05. |
 | 2022-10-12 | 9 § 5 LSS, avlösarservice i<br>hemmet | Tackat nej till erbjudande 2023-<br>04-05, tveksam till beviljad<br>insats. | Avslutat, 2023-10-05. |
+| 2023-01-11 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, tackat<br>nej till erbjudande 2023-06-19,<br>tveksam till beviljad insats. | Verkställt, 2023-11-30. |
+| 2023-02-08 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, har<br>specifika önskemål. | Verkställt, 2023-11-11. |
+| 2023-06-14 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet<br>personalbrist på grund av<br>nystartad verksamhet. | Verkställt, 2023-11-11. |
+| 2022-10-06 | 9 § 6 Korttidsvistelse i<br>form av korttidshem | Tackat nej till 3 erbjudanden,<br>2022-11-23, 2023-05-13. Och<br>2023-10-13, tveksam till<br>beviljad insats. | Verkställt, 2024-01-03. |
+| 2020-07-08 | 9 § 9 LSS, bostad för<br>vuxna | Tackat nej till 6 erbjudanden,<br>2020-12-18, 2021-10-18, 2022-<br>05-25, 2022-11-10, 2023-04-14,<br>2023-09-13. | Avslutat, 2024-01-04. |
+| 2022-07-09 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Verkställt, 2023-10-10. |
+| 2022-11-01 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Verkställt, 2023-10-17. |
+| 2022-11-05 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. | Verkställt, 2024-01-09. |
+| 2023-03-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Verkställt, 2023-10-31. |
+
+<!-- sida 248 -->
+
+KUNGSBACKA  KOMMUN
+6 (7)
 
 <!-- sida 249 -->
 
@@ -11143,20 +11158,6 @@ Inom vuxenenheten och familjehemsenheten finns inga ej verkställda beslut under
 Ivan Stipić                   Emelie Sandberg
 
 Förvaltningschef              Biträdande förvaltningschef
-
-[Tabell 249-1](handlingar.tabeller/249-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
-| 2023-01-11 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, tackat<br>nej till erbjudande 2023-06-19,<br>tveksam till beviljad insats. | Verkställt, 2023-11-30. |
-| 2023-02-08 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, har<br>specifika önskemål. | Verkställt, 2023-11-11. |
-| 2023-06-14 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet<br>personalbrist på grund av<br>nystartad verksamhet. | Verkställt, 2023-11-11. |
-| 2022-10-06 | 9 § 6 Korttidsvistelse i<br>form av korttidshem | Tackat nej till 3 erbjudanden,<br>2022-11-23, 2023-05-13. Och<br>2023-10-13, tveksam till<br>beviljad insats. | Verkställt, 2024-01-03. |
-| 2020-07-08 | 9 § 9 LSS, bostad för<br>vuxna | Tackat nej till 6 erbjudanden,<br>2020-12-18, 2021-10-18, 2022-<br>05-25, 2022-11-10, 2023-04-14,<br>2023-09-13. | Avslutat, 2024-01-04. |
-| 2022-07-09 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Verkställt, 2023-10-10. |
-| 2022-11-01 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Verkställt, 2023-10-17. |
-| 2022-11-05 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. | Verkställt, 2024-01-09. |
-| 2023-03-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Verkställt, 2023-10-31. |
 
 <!-- sida 250 -->
 

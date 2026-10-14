@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.49216d8219a7ba15843a95fa/1763972161
 sha256: 9e8a910a82ee6c1b471baf8adbcc41a500bf11c626cb7232db8cfe2322fa16f2
 bytes: 3681931
 sidor: 47
-hamtad: 2026-10-08T02:13:22+00:00
-konverterad: 2026-10-08T02:13:37+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:52:31+00:00
+konverterad: 2026-10-14T09:52:44+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [4, 8, 9, 12, 15, 29]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -884,7 +884,7 @@ mångfald.
 
 11
 
-[Tabell 22-1](handlingar.tabeller/22-1.csv)
+[Tabell 22-23-1](handlingar.tabeller/22-23-1.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall<br>2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -897,6 +897,14 @@ mångfald.
 | Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 92 |  |  | Minska |
 | Avfall från kommunens verksamheter ska minska<br>med 40 % per heltidsanställd. Startvärde 100,<br>målvärde 2030 är 60. | 223 |  |  | Minska |
 | Fossiloberoende personbilar, andel av totalt antal<br>bilar i det geografiska området, (Kolada) | 24,1 % | 26,5 % |  | Öka |
+| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,79 | 1,85 |  | Minska |
+| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021 var<br>antalet 124 (KEMgroup PRO) | 115 | 151 |  | Minska |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  | Öka |
+| Andelen återbrukade möbler |  |  |  | Öka |
+| Total debiterad vattenförbrukning fördelat på antal<br>anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  | Minska |
+| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn. |  |  |  | Minska |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  | Minska |
 
 <!-- sida 23 -->
 
@@ -914,20 +922,7 @@ mellan näringsliv och utbildning.
 
 12
 
-[Tabell 23-1](handlingar.tabeller/23-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall<br>2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
-| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,79 | 1,85 |  | Minska |
-| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021 var<br>antalet 124 (KEMgroup PRO) | 115 | 151 |  | Minska |
-| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
-| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  | Öka |
-| Andelen återbrukade möbler |  |  |  | Öka |
-| Total debiterad vattenförbrukning fördelat på antal<br>anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  | Minska |
-| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn. |  |  |  | Minska |
-| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  | Minska |
-
-[Tabell 23-2](handlingar.tabeller/23-2.csv)
+[Tabell 23-24-1](handlingar.tabeller/23-24-1.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall<br>2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -935,6 +930,8 @@ mellan näringsliv och utbildning.
 | Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde utifrån<br>skala 1–6, där företag bedömer företagsklimatet i<br>Kungsbacka kommun. | 3,4 | 3,8 |  | Öka |
 | Sysselsatt dagbefolkning, antal | 28 586 |  |  | Öka |
 | Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 4,9 % |  |  | Öka |
+| Företagsamhet, andel av invånare 16–74 år | 19 % |  |  | Öka |
+| Antal nystartade företag per 1 000 invånare 16–64<br>år (etableringsfrekvens) | 10,3 |  |  | Öka |
 
 <!-- sida 24 -->
 
@@ -965,13 +962,6 @@ kommunen.
 13
 
 [Tabell 24-1](handlingar.tabeller/24-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall<br>2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
-| Företagsamhet, andel av invånare 16–74 år | 19 % |  |  | Öka |
-| Antal nystartade företag per 1 000 invånare 16–64<br>år (etableringsfrekvens) | 10,3 |  |  | Öka |
-
-[Tabell 24-2](handlingar.tabeller/24-2.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall<br>2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -1457,7 +1447,7 @@ Investeringar (belopp i tkr)
 
 24
 
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
+[Tabell 35-36-1](handlingar.tabeller/35-36-1.csv)
 
 | Investeringar | Bokslut 2024 | Budget 2025 | Budget 2026 | Plan 2027 | Plan 2028–<br>2030 |
 | --- | --- | --- | --- | --- | --- |
@@ -1469,6 +1459,9 @@ Investeringar (belopp i tkr)
 | Löpande | 13 565 | 5 568 | 1 000 |  | 1 000 |
 | Lokalplan | 143 387 | 153 726 |  |  |  |
 | Verksamhets-<br>anpassningar | 3 257 | 6 744 | 7 000 | 7 000 | 21 000 |
+| Reinvesteringar | 49 565 | 72 850 | 98 800 | 119 210 | 772 960 |
+| Övriga investeringar | 9 046 | 20 948 |  |  |  |
+| Summa | 237 316 | 301 836 | 137 200 | 152 410 | 906 160 |
 
 <!-- sida 36 -->
 
@@ -1510,14 +1503,6 @@ kommunen börjar nå en ålder där större reinvesteringar är nödvändiga, vi
 inom befintliga hyror.
 
 25
-
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
-
-| Investeringar | Bokslut 2024 | Budget 2025 | Budget 2026 | Plan 2027 | Plan 2028–<br>2030 |
-| --- | --- | --- | --- | --- | --- |
-| Reinvesteringar | 49 565 | 72 850 | 98 800 | 119 210 | 772 960 |
-| Övriga investeringar | 9 046 | 20 948 |  |  |  |
-| Summa | 237 316 | 301 836 | 137 200 | 152 410 | 906 160 |
 
 <!-- sida 37 -->
 
@@ -1699,7 +1684,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (4)
 
-[Tabell 41-1](handlingar.tabeller/41-1.csv)
+[Tabell 41-43-1](handlingar.tabeller/41-43-1.csv)
 
 | Lokala bestämmelser om<br>omställningsstöd, pension och<br>familjeskydd för förtroendevalda<br>(OPF KR-25) | 2025-10-16 | SE-2025-00412 | Revidering av OPF-KL18<br>(OPF-KR 22 Kungsbacka) till<br>OPF-KR25 - Bestämmelser om<br>omställningsstöd, pension och<br>familjeskydd för<br>förtroendevalda<br>(KS-2024-00779) |
 | --- | --- | --- | --- |
@@ -1709,16 +1694,7 @@ KUNGSBACKA  KOMMUN
 | Bilaga - Behovsbeskrivning -<br>Onsala skolor | 2025-10-22 | SE-2025-00416 | Förskola & Grundskola -<br>Lokalbehov 2027-2031<br>inklusive utblicksår 2032-2036<br>(FG-2025-00563) |
 | Bilaga - Behovsbeskrivning -<br>Åsaskolan omställning 4-9 | 2025-10-22 | SE-2025-00416 | Förskola & Grundskola -<br>Lokalbehov 2027-2031<br>inklusive utblicksår 2032-2036<br>(FG-2025-00563) |
 | Bilaga - Behovsbeskrivning -<br>Förskoleplatser Björkris | 2025-10-22 | SE-2025-00416 | Förskola & Grundskola -<br>Lokalbehov 2027-2031<br>inklusive utblicksår 2032-2036<br>(FG-2025-00563) |
-
-<!-- sida 42 -->
-
-KUNGSBACKA  KOMMUN
-3 (4)
-
-[Tabell 42-1](handlingar.tabeller/42-1.csv)
-
 | Bilaga: Behovsbeskrivning -<br>Anpassad grundskola utökat behov | 2025-10-22 | SE-2025-00416 | Förskola & Grundskola -<br>Lokalbehov 2027-2031<br>inklusive utblicksår 2032-2036<br>(FG-2025-00563) |
-| --- | --- | --- | --- |
 | (Nämnden för Förskola &<br>Grundskola) (Beslut § 103) -<br>Koncept utbildningslokaler | 2025-10-22 | SE-2025-00417 | Koncept utbildningslokaler<br>(FG-2025-00564) |
 | (Förskola & Grundskola<br>arbetsutskott) (Beslut § 97) -<br>Koncept utbildningslokaler | 2025-10-22 | SE-2025-00417 | Koncept utbildningslokaler<br>(FG-2025-00564) |
 | Förskola & Grundskola -<br>Tjänsteskrivelse - Koncept<br>utbildningslokaler 1.6 | 2025-10-22 | SE-2025-00417 | Koncept utbildningslokaler<br>(FG-2025-00564) |
@@ -1728,6 +1704,13 @@ KUNGSBACKA  KOMMUN
 | Presentation - Koncept<br>utbildninsglokaler ver. 1.6 | 2025-10-22 | SE 2025-00417 | Koncept utbildningslokaler<br>(FG-2025-00564) |
 | (Kommunstyrelsen) (Beslut § 204)<br>Uppstart av projekt i lokalplan -<br>Åsaskolan –<br>verksamhetsanpassning för att<br>uppfylla myndighetskrav | 2025-10-28 | SE-2025-00432 | Uppstart av projekt i lokalplan<br>Åsaskolan –<br>verksamhetsanpassning för att<br>uppfylla myndighetskrav<br>( KS-2025-00598) |
 | (Kommunfullmäktige)<br>(Beslut § 218) - Delårsrapport<br>2025 för Kungsbacka kommun | 2025-11-12 | SE 2025-00453 | Delårsrapport 2025 för<br>Kungsbacka kommun |
+| Kommunstyrelsens förvaltning<br>Tjänsteskrivelse - Delårsrapport<br>2025 för Kungsbacka kommun | 2025-11-12 | SE 2025-00453 | Delårsrapport 2025 för<br>Kungsbacka kommun |
+| Delårsbokslut 2025 | 2025-11-12 | SE 2025-00453 | Delårsrapport 2025 för<br>Kungsbacka kommun |
+
+<!-- sida 42 -->
+
+KUNGSBACKA  KOMMUN
+3 (4)
 
 <!-- sida 43 -->
 
@@ -1740,12 +1723,6 @@ Förvaltningen för Services tjänsteskrivelse, 2025-10-20
 
 Julia Tryggvadottir Tollesson
 Förvaltningschef Service
-
-[Tabell 43-1](handlingar.tabeller/43-1.csv)
-
-| Kommunstyrelsens förvaltning<br>Tjänsteskrivelse - Delårsrapport<br>2025 för Kungsbacka kommun | 2025-11-12 | SE 2025-00453 | Delårsrapport 2025 för<br>Kungsbacka kommun |
-| --- | --- | --- | --- |
-| Delårsbokslut 2025 | 2025-11-12 | SE 2025-00453 | Delårsrapport 2025 för<br>Kungsbacka kommun |
 
 <!-- sida 44 -->
 

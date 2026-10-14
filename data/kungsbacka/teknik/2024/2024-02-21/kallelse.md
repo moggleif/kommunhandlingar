@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.740037a718d876d2ccf12ea5/1708012054
 sha256: 8935d56c3b5eb129316894b9b957c50ab3501cf1c68197e94ba50b9df939d102
 bytes: 211092
 sidor: 5
-hamtad: 2026-10-08T00:43:36+00:00
-konverterad: 2026-10-08T00:43:43+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T08:36:42+00:00
+konverterad: 2026-10-14T08:36:49+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -72,25 +72,24 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
+[Tabell 3-5-1](kallelse.tabeller/3-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 11. | Ombudgetering och resultatfond<br>2023 | TE-2024-00076,<br>Föredragande:<br>Fillitsa<br>Grönberg, 19:35<br>– 19:55 | Nämnden för Teknik godkänner begäran om<br>ombudgetering avseende investeringsprojekt för<br>Vatten & Avlopp med nettobelopp på 94 343<br>000 kronor och överlämnar till<br>kommunfullmäktige för beslut.<br>Nämnden för Teknik godkänner begäran om<br>ombudgetering avseende investeringsprojekt<br>Kungsbacka bredbandsnät med nettobelopp på 4<br>547 000 kronor och överlämnar till<br>kommunfullmäktige för beslut.<br>Nämnden för Teknik godkänner begäran om<br>ombudgetering avseende investeringsprojekt<br>Avfall & Återvinning med nettobelopp på 12 536<br>000 kronor och överlämnar till<br>kommunfullmäktige för beslut.<br>Nämnden för Teknik godkänner begäran om<br>ombudgetering avseende investeringsprojekt<br>Skatt på med nettobelopp på 10 090 000 kronor<br>avseende skatteverksamheten och 21 006 000<br>kronor avseende exploateringsprojekten och<br>överlämnar till kommunfullmäktige för beslut.<br>Nämnden för Teknik godkänner begäran om<br>ombudgetering till resultatfond för den<br>skattefinansierade verksamheten på -4 753 890<br>kronor och överlämnar till kommunfullmäktige<br>för beslut.<br>Ombudgetering från investering till drift<br>Nämnden för Teknik godkänner ombudgetering<br>avseende investeringsportföljen - Skog och Park<br>på 500 000 kronor permanent och ytterligare 600<br>000 kronor som en engångsflytt 2024 från<br>investering till drift. |
 | 12. | Uppföljning av internkontroll<br>2023 | TE-2024-00077,<br>Föredragande:<br>Ulrika Granfors,<br>19:55 – 20:15 | Nämnden för Teknik fastställer<br>Uppföljningsrapport intern kontroll 2023. |
+| 13. | Förslag på åtgärder för att<br>minska kommande<br>investeringsbehov | TE-2024-00073,<br>Föredragande:<br>Emir Halalkic,<br>20:15 – 20:40 | Nämnden beslutar att ändra inriktning i projektet<br>ökad trafiksäkerhet för oskyddade trafikanter<br>över järnvägen vid Inlag från en parallell bro till<br>att genomföra trafiksäkerhets- och<br>framkomlighetshöjande åtgärder på befintlig bro.<br>Nämnden uppdrar åt förvaltningschefen, eller<br>den som sätts i hennes ställe, att teckna avtal<br>med Trafikverket gällande genomförande av<br>projektet, med innehåll motsvarande<br>trafiksäkerhets- och framkomlighetshöjande<br>åtgärder på befintlig bro.<br>Nämnden beslutar att ändra inriktning i projektet<br>fyra körfält längs Varlavägen, delen Tölö<br>Tvärled - Arendalsleden. Inriktningen ändras<br>från en fyrfälts utbyggnad längs hela sträckan till<br>att förbättra trafiksäkerheten i korsningen<br>Varlavägen - Arendalsleden samt utföra<br>översvämningsförebyggande åtgärder i<br>korsningen med Hallabäcken och<br>tillgänglighetsanpassning av hållplatslägen längs<br>med aktuell del av Varlavägen.<br>Nämnden reviderar med anledning av de ändrade<br>inriktningarna sitt tidigare beslut (2024-01-17<br>§10). Nämnden beslutar att anta förslag till ramar<br>för utgiftsområdet investering skatt för perioden<br>2026-2029 till 343 miljoner kronor. Fördelning<br>per år, 2026 83,2 miljoner kronor, 2027 84,9<br>miljoner kronor, 2028 86,6 miljoner kronor,<br>2029 88,3 miljoner kronor. |
+| 14. | GRANSKNING Detaljplan för<br>Hedeleden och Klippebergen,<br>sista svarsdag 2024-01-08.<br>Tillhör ärende -<br>Samrådsutskick: TE-2022-<br>00650. | TE-2023-01068,<br>Föredragande:<br>Emir Halalkic,<br>20:40 – 20:45 | Nämnden för Teknik antar yttrandet daterat<br>2023-12-28 och översänder det som sitt eget till<br>kommunstyrelsen. |
+| 15. | Tillämpningsregler särskild<br>kollektivtrafik - Färdtjänst | TE-2023-00717,<br>Handläggare:<br>Simon Nissen<br>20:45 – 20:50 | Nämnden för Teknik fastställer den 2 maj 2024<br>som nytt datum för ikraftträdandet av<br>Tillämpningsregler för särskild kollektivtrafik –<br>Färdtjänst. |
+| 16. | Redovisning av inkomna<br>handlingar 2024 | TE-2024-00002,<br>20:50 – 20:50 | Nämnden för Teknik noterar redovisningen av<br>inkomna skrivelser till protokollet. |
+| 17. | Anmälan av delegeringsbeslut<br>2024 | TE-2024-00003,<br>20:50 – 20:50 | Nämnden för Teknik noterar delegeringsbeslut<br>fattade under januari 2024. |
+| 18. | Information från förvaltningen<br>2024 | TE-2024-00004,<br>Föredragande:<br>Ulrika Granfors,<br>20:50 – 21:00 | Nämnden för Teknik noterar informationen till<br>protokollet. |
 
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 13. | Förslag på åtgärder för att<br>minska kommande<br>investeringsbehov | TE-2024-00073,<br>Föredragande:<br>Emir Halalkic,<br>20:15 – 20:40 | Nämnden beslutar att ändra inriktning i projektet<br>ökad trafiksäkerhet för oskyddade trafikanter<br>över järnvägen vid Inlag från en parallell bro till<br>att genomföra trafiksäkerhets- och<br>framkomlighetshöjande åtgärder på befintlig bro.<br>Nämnden uppdrar åt förvaltningschefen, eller<br>den som sätts i hennes ställe, att teckna avtal<br>med Trafikverket gällande genomförande av<br>projektet, med innehåll motsvarande<br>trafiksäkerhets- och framkomlighetshöjande<br>åtgärder på befintlig bro.<br>Nämnden beslutar att ändra inriktning i projektet<br>fyra körfält längs Varlavägen, delen Tölö<br>Tvärled - Arendalsleden. Inriktningen ändras<br>från en fyrfälts utbyggnad längs hela sträckan till<br>att förbättra trafiksäkerheten i korsningen<br>Varlavägen - Arendalsleden samt utföra<br>översvämningsförebyggande åtgärder i<br>korsningen med Hallabäcken och<br>tillgänglighetsanpassning av hållplatslägen längs<br>med aktuell del av Varlavägen.<br>Nämnden reviderar med anledning av de ändrade<br>inriktningarna sitt tidigare beslut (2024-01-17<br>§10). Nämnden beslutar att anta förslag till ramar<br>för utgiftsområdet investering skatt för perioden<br>2026-2029 till 343 miljoner kronor. Fördelning<br>per år, 2026 83,2 miljoner kronor, 2027 84,9<br>miljoner kronor, 2028 86,6 miljoner kronor,<br>2029 88,3 miljoner kronor. |
-| 14. | GRANSKNING Detaljplan för<br>Hedeleden och Klippebergen,<br>sista svarsdag 2024-01-08.<br>Tillhör ärende -<br>Samrådsutskick: TE-2022-<br>00650. | TE-2023-01068,<br>Föredragande:<br>Emir Halalkic,<br>20:40 – 20:45 | Nämnden för Teknik antar yttrandet daterat<br>2023-12-28 och översänder det som sitt eget till<br>kommunstyrelsen. |
 
 <!-- sida 5 -->
 
@@ -100,12 +99,3 @@ KUNGSBACKA  KOMMUN
 
 Monica Neptun                     Simon Nissen
 ordförande                        sekreterare
-
-[Tabell 5-1](kallelse.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 15. | Tillämpningsregler särskild<br>kollektivtrafik - Färdtjänst | TE-2023-00717,<br>Handläggare:<br>Simon Nissen<br>20:45 – 20:50 | Nämnden för Teknik fastställer den 2 maj 2024<br>som nytt datum för ikraftträdandet av<br>Tillämpningsregler för särskild kollektivtrafik –<br>Färdtjänst. |
-| 16. | Redovisning av inkomna<br>handlingar 2024 | TE-2024-00002,<br>20:50 – 20:50 | Nämnden för Teknik noterar redovisningen av<br>inkomna skrivelser till protokollet. |
-| 17. | Anmälan av delegeringsbeslut<br>2024 | TE-2024-00003,<br>20:50 – 20:50 | Nämnden för Teknik noterar delegeringsbeslut<br>fattade under januari 2024. |
-| 18. | Information från förvaltningen<br>2024 | TE-2024-00004,<br>Föredragande:<br>Ulrika Granfors,<br>20:50 – 21:00 | Nämnden för Teknik noterar informationen till<br>protokollet. |

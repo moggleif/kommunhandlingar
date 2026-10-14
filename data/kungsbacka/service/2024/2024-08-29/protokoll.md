@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2c0e0b6e191975d7155318a/17249993774
 sha256: 83379d0fe147520cac39d44eb722c1a945269b8819ce80d9bf2548aec1900fbd
 bytes: 221267
 sidor: 14
-hamtad: 2026-10-08T01:59:37+00:00
-konverterad: 2026-10-08T01:59:43+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:39:47+00:00
+konverterad: 2026-10-14T09:39:53+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -284,7 +284,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 7-1](protokoll.tabeller/7-1.csv)
+[Tabell 7-8-1](protokoll.tabeller/7-8-1.csv)
 
 | Beskrivning | Inkom | Tillhör ärende | Ärendemening |
 | --- | --- | --- | --- |
@@ -294,6 +294,13 @@ Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 | Förvaltningen för Tekniks<br>tjänsteskrivelse -<br>Beslut om hantering av<br>Beställningscentral | 2024-06-19 | SE-2024-00248 | Beställningscentral för<br>särskild kollektivtrafik |
 | Rapport: En hållbar färdtjänst -<br>Framtids- och nutidsanalys i<br>Kungsbacka | 2024-06-19 | SE-2024-00248 | Beställningscentral för<br>särskild kollektivtrafik |
 | Avtal 20/113 -<br>Beställningscentral | 2024-06-19 | SE-2024-00248 | Beställningscentral för<br>särskild kollektivtrafik |
+| (Kommunfullmäktige)<br>(Beslut § 97)<br>Antagande av Planeringsstrategi<br>för Kungsbacka kommun<br>2024–2026 | 2024-06-20 | SE-2024-00239 | Planeringsstrategi för<br>Kungsbacka kommun<br>2024–2026 |
+| Planeringsstrategi för<br>Översiktsplanen 2024–2026<br>(KF 2024-06-13 § 157) | 2024-06-20 | SE-2024-00239 | Planeringsstrategi för<br>Kungsbacka kommun<br>2024–2026 |
+| (Kommunfullmäktige)<br>(Beslut § 100)<br>Svar på motion från Roger<br>Larsson (KB) om prioritering<br>av biologisk mångfald | 2024-06-24 | SE-2023-00327 | Beredning av motion -<br>Prioritering biologisk<br>mångfald (KS 2023-<br>00584) |
+| Kommunstyrelsens förvaltnings<br>tjänsteskrivelse -<br>Svar på motion från Roger<br>Larsson (KB) m.fl. om<br>bekämpning av invasiva arter | 2024-06-24 | SE-2023-00327 | Beredning av motion -<br>Prioritering biologisk<br>mångfald (KS 2023-<br>00584) |
+| Motion - Prioritering biologisk<br>mångfald | 2024-06-24 | SE-2023-00327 | Beredning av motion -<br>Prioritering biologisk<br>mångfald<br>(KS 2023-00584) |
+| (Kommunfullmäktige)<br>(Beslut § 91)<br>Kommunbudget 2025, plan<br>2026-2027 | 2024-06-24 | SE-2024-00237 | Kommunbudget 2025,<br>plan 2026-2027 |
+| Kommunledningskontorets<br>Tjänsteskrivelse -<br>Kommunbudget 2025, plan<br>2026-2027 | 2024-06-24 | SE-2024-00237 | Kommunbudget 2025,<br>plan 2026-2027 |
 
 <!-- sida 8 -->
 
@@ -306,17 +313,6 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 8-1](protokoll.tabeller/8-1.csv)
-
-| (Kommunfullmäktige)<br>(Beslut § 97)<br>Antagande av Planeringsstrategi<br>för Kungsbacka kommun<br>2024–2026 | 2024-06-20 | SE-2024-00239 | Planeringsstrategi för<br>Kungsbacka kommun<br>2024–2026 |
-| --- | --- | --- | --- |
-| Planeringsstrategi för<br>Översiktsplanen 2024–2026<br>(KF 2024-06-13 § 157) | 2024-06-20 | SE-2024-00239 | Planeringsstrategi för<br>Kungsbacka kommun<br>2024–2026 |
-| (Kommunfullmäktige)<br>(Beslut § 100)<br>Svar på motion från Roger<br>Larsson (KB) om prioritering<br>av biologisk mångfald | 2024-06-24 | SE-2023-00327 | Beredning av motion -<br>Prioritering biologisk<br>mångfald (KS 2023-<br>00584) |
-| Kommunstyrelsens förvaltnings<br>tjänsteskrivelse -<br>Svar på motion från Roger<br>Larsson (KB) m.fl. om<br>bekämpning av invasiva arter | 2024-06-24 | SE-2023-00327 | Beredning av motion -<br>Prioritering biologisk<br>mångfald (KS 2023-<br>00584) |
-| Motion - Prioritering biologisk<br>mångfald | 2024-06-24 | SE-2023-00327 | Beredning av motion -<br>Prioritering biologisk<br>mångfald<br>(KS 2023-00584) |
-| (Kommunfullmäktige)<br>(Beslut § 91)<br>Kommunbudget 2025, plan<br>2026-2027 | 2024-06-24 | SE-2024-00237 | Kommunbudget 2025,<br>plan 2026-2027 |
-| Kommunledningskontorets<br>Tjänsteskrivelse -<br>Kommunbudget 2025, plan<br>2026-2027 | 2024-06-24 | SE-2024-00237 | Kommunbudget 2025,<br>plan 2026-2027 |
-
 <!-- sida 9 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          9 (14)
@@ -328,7 +324,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 9-1](protokoll.tabeller/9-1.csv)
+[Tabell 9-11-1](protokoll.tabeller/9-11-1.csv)
 
 | Kommunbudget 2025, plan<br>2026–2027, antagen av<br>kommunfullmäktige<br>2024-06-13, § 91 | 2024-06-24 | SE-2024-00237 | Kommunbudget 2025,<br>plan 2026–2027 |
 | --- | --- | --- | --- |
@@ -340,6 +336,14 @@ Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 | Kommunledningskontoret<br>Tjänsteskrivelse - Revidering av<br>reglemente för nämnden för<br>Service | 2024-06-24 | SE-2024-00057 | Reglemente, nämnden för<br>Service |
 | (E-post)<br>Rapport Nationell studie om<br>kommuners arbete med lokala<br>livsmedelssystem och<br>livsmedelsberedskap | 2024-07-01 | SE-2024-00252 | Rapport: Nationell studie<br>om kommuners arbete<br>med lokala<br>livsmedelsystem och<br>livsmedelsberedskap |
 | Rapport: Nationell studie om<br>kommuners arbete med lokala<br>livsmedelsystem och<br>livsmedelsberedskap | 2024-07-01 | SE-2024-00252 | Rapport: Nationell studie<br>om kommuners arbete<br>med lokala<br>livsmedelsystem och<br>livsmedelsberedskap |
+| Kommunfullmäktige<br>(Beslut § 106)<br>Sammanträdesdagar 2025 för<br>kommunfullmäktige | 2024-08-22 | SE-2024-00299 | Sammanträdesdagar 2025<br>för kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens<br>arbetsutskott |
+| Kommunstyrelsen<br>(Beslut § 176)<br>Sammanträdesdagar 2025 för<br>kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsen | 2024-08-22 | SE-2024-00299 | Sammanträdesdagar 2025<br>för kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens<br>arbetsutskott |
+| Kommunstyrelsens förvaltning<br>(Tjänsteskrivelse)<br>Sammanträdesdagar 2025 för<br>Kommunfullmäktige,<br>Kommunstyrelsen och<br>Kommunstyrelsens<br>arbetsutskott | 2024-08-22 | SE-2024-00299 | Sammanträdesdagar 2025<br>för kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens<br>arbetsutskott |
+| KSAU (Beslut § 193)<br>Sammanträdesdagar 2025 för<br>kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens arbetsutskott | 2024-08-22 | SE-2024-00299 | Sammanträdesdagar 2025<br>för kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens<br>arbetsutskott |
+| Kommunfullmäktige<br>(Beslut § 107)<br>Återrapportering av uppdrag om<br>att utvärdera införande av<br>språkkrav vid anställning inom<br>skolan samt vård och omsorg i<br>Kungsbacka kommun | 2024-08-22 | SE-2024-00300 | Återrapportering av<br>uppdrag om att utvärdera<br>införande av språkkrav<br>vid anställning inom<br>skolan samt vård och<br>omsorg i Kungsbacka<br>kommun |
+| Kommunstyrelsens förvaltning<br>Tjänsteskrivelse -<br>Återrapportering av uppdrag om<br>att utvärdera införande av<br>språkkrav vid anställning inom<br>skolan samt vård och omsorg i<br>Kungsbacka kommun | 2024-08-22 | SE-2024-00300 | Återrapportering av<br>uppdrag om att utvärdera<br>införande av språkkrav<br>vid anställning inom<br>skolan samt vård och<br>omsorg i Kungsbacka<br>kommun |
+| Kommunfullmäktige<br>(Beslut § 110)<br>Svar på motion från Stefan<br>Jägnert (SD) om ID-kontroller<br>av anställda i Kungsbacka<br>kommun | 2024-08-22 | SE-2023-00384 | Beredning av motion -<br>ID-kontroller (KS 2023-<br>00621) |
+| Kommunstyrelsens förvaltning<br>Tjänsteskrivelse -<br>Svar på motion från Stefan<br>Jägnert (SD) om ID-kontroller<br>av anställda i Kungsbacka<br>kommun | 2024-08-22 | SE-2023-00384 | Beredning av motion -<br>ID-kontroller (KS 2023–<br>00621) |
 
 <!-- sida 10 -->
 
@@ -351,16 +355,6 @@ Datum
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 10-1](protokoll.tabeller/10-1.csv)
-
-| Kommunfullmäktige<br>(Beslut § 106)<br>Sammanträdesdagar 2025 för<br>kommunfullmäktige | 2024-08-22 | SE-2024-00299 | Sammanträdesdagar 2025<br>för kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens<br>arbetsutskott |
-| --- | --- | --- | --- |
-| Kommunstyrelsen<br>(Beslut § 176)<br>Sammanträdesdagar 2025 för<br>kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsen | 2024-08-22 | SE-2024-00299 | Sammanträdesdagar 2025<br>för kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens<br>arbetsutskott |
-| Kommunstyrelsens förvaltning<br>(Tjänsteskrivelse)<br>Sammanträdesdagar 2025 för<br>Kommunfullmäktige,<br>Kommunstyrelsen och<br>Kommunstyrelsens<br>arbetsutskott | 2024-08-22 | SE-2024-00299 | Sammanträdesdagar 2025<br>för kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens<br>arbetsutskott |
-| KSAU (Beslut § 193)<br>Sammanträdesdagar 2025 för<br>kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens arbetsutskott | 2024-08-22 | SE-2024-00299 | Sammanträdesdagar 2025<br>för kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens<br>arbetsutskott |
-| Kommunfullmäktige<br>(Beslut § 107)<br>Återrapportering av uppdrag om<br>att utvärdera införande av<br>språkkrav vid anställning inom<br>skolan samt vård och omsorg i<br>Kungsbacka kommun | 2024-08-22 | SE-2024-00300 | Återrapportering av<br>uppdrag om att utvärdera<br>införande av språkkrav<br>vid anställning inom<br>skolan samt vård och<br>omsorg i Kungsbacka<br>kommun |
-| Kommunstyrelsens förvaltning<br>Tjänsteskrivelse -<br>Återrapportering av uppdrag om<br>att utvärdera införande av<br>språkkrav vid anställning inom<br>skolan samt vård och omsorg i<br>Kungsbacka kommun | 2024-08-22 | SE-2024-00300 | Återrapportering av<br>uppdrag om att utvärdera<br>införande av språkkrav<br>vid anställning inom<br>skolan samt vård och<br>omsorg i Kungsbacka<br>kommun |
 
 <!-- sida 11 -->
 
@@ -381,12 +375,6 @@ nämnden för Service bifaller det.
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 11-1](protokoll.tabeller/11-1.csv)
-
-| Kommunfullmäktige<br>(Beslut § 110)<br>Svar på motion från Stefan<br>Jägnert (SD) om ID-kontroller<br>av anställda i Kungsbacka<br>kommun | 2024-08-22 | SE-2023-00384 | Beredning av motion -<br>ID-kontroller (KS 2023-<br>00621) |
-| --- | --- | --- | --- |
-| Kommunstyrelsens förvaltning<br>Tjänsteskrivelse -<br>Svar på motion från Stefan<br>Jägnert (SD) om ID-kontroller<br>av anställda i Kungsbacka<br>kommun | 2024-08-22 | SE-2023-00384 | Beredning av motion -<br>ID-kontroller (KS 2023–<br>00621) |
 
 <!-- sida 12 -->
 
@@ -420,13 +408,17 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 12-1](protokoll.tabeller/12-1.csv)
+[Tabell 12-13-1](protokoll.tabeller/12-13-1.csv)
 
 | Ärende/ärendegrupp<br>enligt<br>delegationslistan | Beslut, insats<br>samt<br>ev. omfattning | Beslutsfattare | Beslutsdatum | Dnr |
 | --- | --- | --- | --- | --- |
 | 2.1.7<br>Dataskyddsförordningen<br>GDPR, Artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2024-06-12 | SE-2024-00114 |
 | 1.4<br>Förvaltningschefens<br>vidaredelegering | Förvaltnings-<br>chefens rätt att<br>vidaredelegera sin<br>beslutanderätt<br>enligt nämndens<br>delegerings-<br>förteckning till<br>annan anställd | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2024-06-25 | SE-2024-00079 |
 | 2.1.7<br>Dataskyddsförordningen<br>GDPR, Artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2024-07-02 | SE-2022-00344 |
+| 2.1.10<br>Dataskyddsförordningen<br>GDPR, Artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2024-07-02 | SE-2022-00344 |
+| 2.1.11<br>Dataskyddsförordningen<br>GDPR artikel 35 | Beslut med<br>anledning av<br>konsekvens-<br>bedömning<br>avseende<br>dataskydd | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2024-08-19 | SE-2024-00282 |
+| 2.1.11<br>Dataskyddsförordningen<br>GDPR artikel 35 | Beslut med<br>anledning av<br>konsekvens-<br>bedömning<br>avseende<br>dataskydd | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2024-08-19 | SE-2024-00283 |
+| 2.1.10<br>Dataskyddsförordningen<br>GDPR, Artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2024-08-19 | SE-2024-00251 |
 
 <!-- sida 13 -->
 
@@ -453,14 +445,6 @@ förvaltningen för Service förslag, och att nämnden för Service bifaller det
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 13-1](protokoll.tabeller/13-1.csv)
-
-| 2.1.10<br>Dataskyddsförordningen<br>GDPR, Artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2024-07-02 | SE-2022-00344 |
-| --- | --- | --- | --- | --- |
-| 2.1.11<br>Dataskyddsförordningen<br>GDPR artikel 35 | Beslut med<br>anledning av<br>konsekvens-<br>bedömning<br>avseende<br>dataskydd | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2024-08-19 | SE-2024-00282 |
-| 2.1.11<br>Dataskyddsförordningen<br>GDPR artikel 35 | Beslut med<br>anledning av<br>konsekvens-<br>bedömning<br>avseende<br>dataskydd | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2024-08-19 | SE-2024-00283 |
-| 2.1.10<br>Dataskyddsförordningen<br>GDPR, Artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2024-08-19 | SE-2024-00251 |
 
 <!-- sida 14 -->
 

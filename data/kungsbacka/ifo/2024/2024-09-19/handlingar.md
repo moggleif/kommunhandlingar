@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.27feba1191e4e1dafb88235/17264904077
 sha256: 4d88d9b34277207df73ca78e1847b3db540ab0bb1a7144fcf54761eb5973c936
 bytes: 5260355
 sidor: 447
-hamtad: 2026-10-08T02:30:55+00:00
-konverterad: 2026-10-08T02:31:47+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:08:48+00:00
+konverterad: 2026-10-14T10:09:35+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [38, 39, 40, 62, 63]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1137,6 +1137,21 @@ möjliga boendelösningar.
 
 4.2 Resursmått
 
+Namn         Utfall 2020 Utfall 2021 Utfall 2022 Utfall 2023 Utfall 2024
+Kostnad för
+personlig
+assistans per
+timma i        419        434         434           450         457
+Kungsbacka
+kommun i egen
+regi
+Försäkringskas
+sans andel av
+kostnadstäckni
+ngen för       47 %       53 %       52 %           49 %
+personlig
+assistans för
+egen regi
 Obs - utfall för tidigare år avser helår.
 
 4.3 Prestationsmått
@@ -1157,13 +1172,6 @@ Antal dygn i institutionsplacering vuxen,
 köpta platser
 
 22
-
-[Tabell 23-1](handlingar.tabeller/23-1.csv)
-
-|  | Namn Utfall 2020 Utfall 2021 Utfall 2022 Utfall 2023 Utfall 2024 |
-| --- | --- |
-| Kostnad för<br>personlig<br>assistans per<br>timma i 419 434 434 450 457<br>Kungsbacka<br>kommun i egen<br>regi |  |
-| Försäkringskas<br>sans andel av<br>kostnadstäckni<br>ngen för 47 % 53 % 52 % 49 %<br>personlig<br>assistans för<br>egen regi |  |
 
 <!-- sida 24 -->
 
@@ -1458,12 +1466,33 @@ Delårsrapport Augusti 2024
 
 Utfall och prognos
 
+Bokslut Budget Prognos Budget-  Delår   Delår Avvikelse
+Miljoner kronor
+2023    2024   2024   avvikelse 2023   2024    delår
+Nämnd             -2     -2,1    -2,1    0,0    -1,2     -1      0,2
+Förvaltningslednin
+-65    -70,6   -50,2   20,4    -41,9    -42    -0,1
+g
+Myndighet, stöd
+-246  -248,4  -258,8   -10,4  -165,8  -179,5   -13,7
+och behandling
+Bostad med
+-248  -267,6  -267,6    0,0   -166,4   -177    -10,6
+särskild service
+Stöd i hemmet och
+-97     -92    -102     -10    -63,4  -69,7    -6,3
+sysselsättning
+Daglig verksamhet -51   -52,3   -52,3    0,0     -33   -34,8    -1,8
+Privat assistans -56     -57     -57      0     -38,3  -37,7     0,6
+
+Periodens
+-765  -790,0  -790,0    0,0   -510,0  -541,7   -31,7
+resultat
 Sammanfattning - text till kommunstyrelsen
 Fokus för nämnden är fortsatt att bygga en hållbar socialtjänst, med en hållbar budget i balans. Prognosen för
 2024 visar ett nollresultat för 2024. Resultatet per augusti visar en budgetavvikelse på -17 miljoner kronor, som
 vid årets slut balanseras ut med statsbidrag. Verksamheterna inom personlig assistans, myndighetsutövning
 Barn och Unga samt myndighetsutövning Vuxen visar underskott mot budget.
-
 Skillnad i nettokostnad mellan åren uppgår till 31,9 mkr, vilket motsvarar en ökning på 6%. Ökningen beror på
 högre volymer inom samtliga av nämndens verksamheter. Orsakerna till budgetavvikelsen är bland annat:
 Ökad psykisk ohälsa, både för barn, unga och vuxna, barn i riskzon för missbruk och kriminalitet har påverkat
@@ -1482,20 +1511,6 @@ volymökningarna, men också att det har skett en förskjutning i finansiering a
 Tidigare har nämnden erhållit en högre andel finansiering från Försäkringskassan. Denna förskjutning har
 
 29
-
-[Tabell 30-1](handlingar.tabeller/30-1.csv)
-
-| Miljoner kronor<br>Nämnd | Bokslut<br>2023<br>-2 | Budget<br>2024<br>-2,1 | Prognos<br>2024<br>-2,1 | Budget-<br>avvikelse<br>0,0 | Delår<br>2023<br>-1,2 | Delår<br>2024<br>-1 | Avvikelse<br>delår<br>0,2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Förvaltningslednin<br>g | -65 | -70,6 | -50,2 | 20,4 | -41,9 | -42 | -0,1 |
-| Myndighet, stöd<br>och behandling | -246 | -248,4 | -258,8 | -10,4 | -165,8 | -179,5 | -13,7 |
-| Bostad med<br>särskild service | -248 | -267,6 | -267,6 | 0,0 | -166,4 | -177 | -10,6 |
-| Stöd i hemmet och<br>sysselsättning | -97 | -92 | -102 | -10 | -63,4 | -69,7 | -6,3 |
-| Daglig verksamhet | -51 | -52,3 | -52,3 | 0,0 | -33 | -34,8 | -1,8 |
-| Privat assistans | -56 | -57 | -57 | 0 | -38,3 | -37,7 | 0,6 |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-| Periodens<br>resultat | -765 | -790,0 | -790,0 | 0,0 | -510,0 | -541,7 | -31,7 |
 
 <!-- sida 31 -->
 
@@ -1659,7 +1674,7 @@ Utfall och prognos
 |  |  |
 | Summa |  |
 
-[Tabell 33-3](handlingar.tabeller/33-3.csv)
+[Tabell 33-34-3](handlingar.tabeller/33-34-3.csv)
 
 | Miljoner kronor | Bokslut 2023 | Budget 2024 | Prognos 2024 | Budgetavvike<br>lse 2024 | Delår 2024 |
 | --- | --- | --- | --- | --- | --- |
@@ -1668,6 +1683,8 @@ Utfall och prognos
 | Övriga investeringar |  |  |  |  |  |
 | Inkomster |  |  |  |  |  |
 | Utgifter |  |  |  |  |  |
+| Här lägger ni till<br>ytterligare<br>investeringskategori<br>er om aktuellt |  |  |  |  |  |
+| Netto | -0,9 | -2,6 | -2,0 | 0,6 | -0,3 |
 
 <!-- sida 34 -->
 
@@ -1677,13 +1694,6 @@ Delårsrapport Augusti 2024
 Kommentarer - text till kommunstyrelsen
 
 33
-
-[Tabell 34-1](handlingar.tabeller/34-1.csv)
-
-| Miljoner kronor | Bokslut 2023 | Budget 2024 | Prognos 2024 | Budgetavvike<br>lse 2024 | Delår 2024 |
-| --- | --- | --- | --- | --- | --- |
-| Här lägger ni till<br>ytterligare<br>investeringskategori<br>er om aktuellt |  |  |  |  |  |
-| Netto | -0,9 | -2,6 | -2,0 | 0,6 | -0,3 |
 
 <!-- sida 35 -->
 
@@ -2294,30 +2304,13 @@ mångfald.
 
 16
 
-[Tabell 51-1](handlingar.tabeller/51-1.csv)
+[Tabell 51-52-1](handlingar.tabeller/51-52-1.csv)
 
 | Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättnin<br>g 2025 |
 | --- | --- | --- | --- | --- |
 | Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) | 88 % | 85 % |  |  |
 | Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % - Pojkar.<br>(Elevhälsan i Kungsbacka utvecklar metod utifrån<br>hälsosamtal med elever.) | 90 % | 91 % |  |  |
 | Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) | 72 % | 79 % |  |  |
-
-<!-- sida 52 -->
-
-Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
-Nämndbudget 2025
-
-6.3 Bästa företagsklimatet i Västsverige
-
-Beslutats av
-Kommunfullmäktige
-
-17
-
-[Tabell 52-1](handlingar.tabeller/52-1.csv)
-
-| Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättnin<br>g 2025 |
-| --- | --- | --- | --- | --- |
 | Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Pojkar.(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) | 93 % | 92 % |  |  |
 | Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i% -<br>flickor. | 65 % | 73 % |  |  |
 | Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i% -<br>pojkar. | 85 % | 86 % |  |  |
@@ -2333,6 +2326,18 @@ Kommunfullmäktige
 | Fossiloberoende personbilar i<br>kommunorganisationen, andel (%) |  |  |  |  |
 | Andelen återbrukade möbler |  |  |  |  |
 | Kommunens verksamheters elförbrukning, total<br>(kWh) |  |  |  |  |
+
+<!-- sida 52 -->
+
+Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
+Nämndbudget 2025
+
+6.3 Bästa företagsklimatet i Västsverige
+
+Beslutats av
+Kommunfullmäktige
+
+17
 
 <!-- sida 53 -->
 
@@ -2625,51 +2630,104 @@ Nämndbudget 2025
 
 8.1 Resursmått
 
+Utfall Utfall Utfall Budget Budget Budget
+Delområde    Nyckeltal
+2023   2022   2023   2024   2025    2026
+Kostnad för
+personlig assistans
+per timma i     450   434    450
+Kungsbacka
+kommun i egen regi
+Försäkringskassans
+andel av
+Kommunfullmäktige
+kostnadstäckningen 49 % 52 % 49 %
+för personlig
+assistans för egen
+regi
+Kostnad per
+brukare, personlig
+assistans egen regi
+(LSS och SFB)
 8.2 Prestationsmått
 
+Utfall  Utfall  Budget   Budget  Budget
+Delområde    Nyckeltal
+2022    2023     2023    2024     2025
+Fördelning
+mellan
+30 %    30 %
+serviceboende och
+gruppboende (%)
+Kommunfullmäktige Andel köpta
+platser av totala
+antalet verkställda
+beslut bostad med
+särskild service
+(LSS och SoL)
+Antal personer
+som har LSS-insats 890   913
+verkställd den 1 okt
+Antal dygn i
+institutionsplacering
+2 660   2 875
+Nämnd        vuxen, köpta
+platser
+Antal dygn i
+institutionsplacering
+4 314   5 433
+barn och unga,
+köpta platser
 24
-
-[Tabell 59-1](handlingar.tabeller/59-1.csv)
-
-| Delområde | Utfall Utfall Utfall Budget Budget Budget<br>Nyckeltal<br>2023 2022 2023 2024 2025 2026 |
-| --- | --- |
-| Kommunfullmäktige | Kostnad för<br>personlig assistans<br>per timma i 450 434 450<br>Kungsbacka<br>kommun i egen regi |
-|  | Försäkringskassans<br>andel av<br>kostnadstäckningen 49 % 52 % 49 %<br>för personlig<br>assistans för egen<br>regi |
-|  | Kostnad per<br>brukare, personlig<br>assistans egen regi<br>(LSS och SFB) |
-
-[Tabell 59-2](handlingar.tabeller/59-2.csv)
-
-| Delområde | Utfall Utfall Budget Budget Budget<br>Nyckeltal<br>2022 2023 2023 2024 2025 |
-| --- | --- |
-| Kommunfullmäktige | Fördelning<br>mellan<br>30 % 30 %<br>serviceboende och<br>gruppboende (%) |
-|  | Andel köpta<br>platser av totala<br>antalet verkställda<br>beslut bostad med<br>särskild service<br>(LSS och SoL) |
-| Nämnd | Antal personer<br>som har LSS-insats 890 913<br>verkställd den 1 okt |
-|  | Antal dygn i<br>institutionsplacering<br>2 660 2 875<br>vuxen, köpta<br>platser |
-|  | Antal dygn i<br>institutionsplacering<br>4 314 5 433<br>barn och unga,<br>köpta platser |
 
 <!-- sida 60 -->
 
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
 Nämndbudget 2025
 
+Utfall  Utfall  Budget   Budget  Budget
+Delområde    Nyckeltal
+2022    2023     2023    2024     2025
+Antal dygn i
+stödboende barn
+3 479   4 125
+och unga, köpta
+platser
+Antal dygn i
+stödboende
+3 712   2 874
+missbruk, köpta
+platser
 8.3 Effektmått
+Budget   Budget    Budget
+Delområde Nyckeltal    Utfall 2022 Utfall 2023
+2024     2025      2026
+Ej
+återaktualiserade
+barn 0-12 år ett år
+77 %     77 %
+efter avslutad
+utredning eller
+insats, andel %
+Ej
+återaktualiserade
+ungdomar 13-20
+år ett år efter 77 %    73 %
+avslutad
+Nämnd
+utredning eller
+insats, andel (%)
+Ej
+återaktualiserade
+vuxna med
+missbruksproblem
+eller insatser 21 61 %  56 %
+\+ ett år efter
+avslutad
+utredning eller
+insats, andel %
 
 25
-
-[Tabell 60-1](handlingar.tabeller/60-1.csv)
-
-| Delområde | Utfall Utfall Budget Budget Budget<br>Nyckeltal<br>2022 2023 2023 2024 2025 |
-| --- | --- |
-|  | Antal dygn i<br>stödboende barn<br>3 479 4 125<br>och unga, köpta<br>platser |
-|  | Antal dygn i<br>stödboende<br>3 712 2 874<br>missbruk, köpta<br>platser |
-
-[Tabell 60-2](handlingar.tabeller/60-2.csv)
-
-| Delområde | Budget Budget Budget<br>Nyckeltal Utfall 2022 Utfall 2023<br>2024 2025 2026 |
-| --- | --- |
-| Nämnd | Ej<br>återaktualiserade<br>barn 0-12 år ett år<br>77 % 77 %<br>efter avslutad<br>utredning eller<br>insats, andel % |
-|  | Ej<br>återaktualiserade<br>ungdomar 13-20<br>år ett år efter 77 % 73 %<br>avslutad<br>utredning eller<br>insats, andel (%) |
-|  | Ej<br>återaktualiserade<br>vuxna med<br>missbruksproblem<br>eller insatser 21 61 % 56 %<br>+ ett år efter<br>avslutad<br>utredning eller<br>insats, andel % |
 
 <!-- sida 61 -->
 
@@ -18237,7 +18295,7 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 
 §§ socialtjänstlagen, SoL
 
-[Tabell 429-1](handlingar.tabeller/429-1.csv)
+[Tabell 429-432-1](handlingar.tabeller/429-432-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
@@ -18252,16 +18310,6 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 | 2024-02-29 | 9 § 8 LSS, boende barn och<br>ungdomar | Saknar plats. Blivit erbjuden köpt plats under<br>väntetiden vilket de tackat nej till. Erbjuden annan<br>insats under väntetiden. |
 | 2022-03-16 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Tackat nej till 5 erbjudanden, 2022-09-15, 2022-11-29,<br>2023-05-17, 2023-11-20 och 2023-12-05, eftersom<br>boendet inte är tillräckligt centralt och pga målgruppen. |
 | 2022-12-31 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Avbrott i verkställighet, tackat nej till 3 erbjudanden<br>2023-06-20, 2023-12-22 och 2024-05-24, eftersom<br>boendet inte ligger i centrala Kungsbacka. |
-
-<!-- sida 430 -->
-
-KUNGSBACKA  KOMMUN
-4 (8)
-
-[Tabell 430-1](handlingar.tabeller/430-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2023-04-03 | 9 § 9 LSS, bostad för vuxna | Tackat nej till 2 erbjudande, 2023-09-27, och 2024-03-<br>14 på Nya Hede men boendet är inte tillräckligt<br>centralt. |
 | 2023-09-04 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Saknar plats. Blivit erbjuden köpt plats 2024-03-22<br>men tackat nej, inte intresserade av köpt plats. |
 | 2023-10-20 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Den enskilde har tackat nej till erbjudande 2024-03-22. |
@@ -18275,16 +18323,6 @@ KUNGSBACKA  KOMMUN
 | 2022-02-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, har specifika önskemål om<br>verksamhet, är i behov av lång planering, tackat nej till<br>befintlig verksamhet. Tackat nej till 2 erbjudanden<br>2023-02-14 och 2023-10-02. |
 | 2022-12-31 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2023-01-11 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet, blivit erbjuden 3 olika DV-grupper. |
-
-<!-- sida 431 -->
-
-KUNGSBACKA  KOMMUN
-5 (8)
-
-[Tabell 431-1](handlingar.tabeller/431-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2023-02-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet, pga hälsoskäl. |
 | 2023-04-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde har varit<br>föräldraledig. Tackat nej till erbjudande 2024-01-17. |
 | 2023-05-03 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Arbetsmiljöproblem relaterade<br>till den enskilde. Planering för återgång till DV<br>inplanerat. |
@@ -18298,6 +18336,21 @@ KUNGSBACKA  KOMMUN
 | 2024-01-29 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2024-02-09 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde tackat nej till<br>erbjudande 2024-02-09. Vill inte avsluta insatsen utan<br>pausa på obestämd tid. |
 | 2024-03-15 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, praktikplatsen har avslutat<br>platsen. Den enskilde vill avvakta uppstart till hösten. |
+| 2024-03-25 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, praktikplatsen har avslutat<br>platsen. Erbjudande 2024-04-03, pga hälsotillstånd. |
+| 2024-03-26 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
+| 2024-04-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
+| 2024-04-26 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. Pga hälsotillstånd. |
+| 2024-05-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
+
+<!-- sida 430 -->
+
+KUNGSBACKA  KOMMUN
+4 (8)
+
+<!-- sida 431 -->
+
+KUNGSBACKA  KOMMUN
+5 (8)
 
 <!-- sida 432 -->
 
@@ -18306,17 +18359,7 @@ KUNGSBACKA  KOMMUN
 
 Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
 
-[Tabell 432-1](handlingar.tabeller/432-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
-| 2024-03-25 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, praktikplatsen har avslutat<br>platsen. Erbjudande 2024-04-03, pga hälsotillstånd. |
-| 2024-03-26 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
-| 2024-04-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
-| 2024-04-26 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. Pga hälsotillstånd. |
-| 2024-05-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
-
-[Tabell 432-2](handlingar.tabeller/432-2.csv)
+[Tabell 432-434-1](handlingar.tabeller/432-434-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
@@ -18324,16 +18367,6 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2023-07-26 | 4 kap 1 § SoL, boendestöd | Avbrott i verkställighet, en av<br>två insatser är verkställda. Den<br>enskilde har tackat nej. | Verkställt, 2024-04-12 |
 | 2023-11-29 | 4 kap 1 § SoL, boendestöd | Den enskilde är i behov av lång<br>introduktion, 2 insatser av 5 är<br>verkställda 2024-01-23 och<br>2024-03-21. | Verkställt, 2024-06-13 |
 | 2023-12-12 | 4 kap 1 § SoL, boendestöd | Den enskilde har tackat nej, 1<br>insats av 3 är verkställd 2024-<br>01-05. | Avslutat, 2024-04-29 |
-
-<!-- sida 433 -->
-
-KUNGSBACKA  KOMMUN
-7 (8)
-
-[Tabell 433-1](handlingar.tabeller/433-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2024-03-01 | 4 kap 1 § SoL, boendestöd | Den enskilde har svårt att ta<br>emot personal och har tackat nej<br>till vissa insatser. | Verkställt, 2024-08-09 |
 | 2023-11-08 | 9 § 3 LSS, ledsagarservice | Avbrott i verkställighet, den<br>enskilde har tackat nej till<br>erbjudande 2024-01-23. | Avslutat, 2024-04-12 |
 | 2023-12-11 | 9 § 3 LSS, ledsagarservice | Avbrott i verkställighet, den<br>enskilde har specifika önskemål. | Verkställt, 2024-06-05 |
@@ -18342,6 +18375,15 @@ KUNGSBACKA  KOMMUN
 | 2023-11-10 | 9 § 5 LSS, avlösarservice i<br>hemmet | Den enskilde har specifika<br>önskemål, önskar<br>samrekrytering med<br>lägerverksamhet. | Verkställt, 2024-04-09 |
 | 2023-11-14 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, den<br>enskilde har specifika önskemål,<br>önskar en PAN-anställning. | Avslutat, 2024-08-21 |
 | 2023-09-01 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Fått erbjudande 2023-11-23,<br>2024-03-05, tackat ja till<br>erbjudande med inflyttning i<br>augusti 2024. | Verkställt, 2024-08-12 |
+| 2023-09-08 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Fått erbjudande 2023-11-24,<br>2024-03-13, tackat ja till<br>erbjudande med inflyttning i<br>augusti 2024. | Verkställt, 2024-08-12 |
+| 2023-10-11 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Fått erbjudande 2023-11-23,<br>2024-03-05, tackat ja till<br>erbjudande med inflyttning i<br>augusti 2024. | Verkställt, 2024-08-12 |
+| 2023-11-27 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. 2024-04-11 tackat<br>ja till erbjudande med<br>inflyttning i augusti 2024. | Verkställt, 2024-08-12 |
+| 2023-09-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. | Verkställt, 2024-06-17 |
+
+<!-- sida 433 -->
+
+KUNGSBACKA  KOMMUN
+7 (8)
 
 <!-- sida 434 -->
 
@@ -18352,15 +18394,6 @@ Inom vuxenenheten och familjehemsenheten finns inga ej verkställda beslut under
 
 Ivan Stipić                   Renate Rondolph
 Förvaltningschef              Verksamhetschef
-
-[Tabell 434-1](handlingar.tabeller/434-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
-| 2023-09-08 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Fått erbjudande 2023-11-24,<br>2024-03-13, tackat ja till<br>erbjudande med inflyttning i<br>augusti 2024. | Verkställt, 2024-08-12 |
-| 2023-10-11 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Fått erbjudande 2023-11-23,<br>2024-03-05, tackat ja till<br>erbjudande med inflyttning i<br>augusti 2024. | Verkställt, 2024-08-12 |
-| 2023-11-27 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. 2024-04-11 tackat<br>ja till erbjudande med<br>inflyttning i augusti 2024. | Verkställt, 2024-08-12 |
-| 2023-09-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. | Verkställt, 2024-06-17 |
 
 <!-- sida 435 -->
 

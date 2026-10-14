@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2f7af2ed1989780f80d68f62/1755162693
 sha256: e4f0c849159d9ef272cb8bc19e88871f94a496d5ca73fb72b622118897e2dec5
 bytes: 15347371
 sidor: 168
-hamtad: 2026-10-07T22:22:34+00:00
-konverterad: 2026-10-07T22:23:24+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T06:35:47+00:00
+konverterad: 2026-10-14T06:36:29+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ocr, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok]
-tal_obekraftade: [146, 147, 148, 149, 151, 152, 153, 163, 164]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ocr, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok]
+tal_obekraftade: [41, 42, 76, 77, 78, 80, 81, 82, 83, 84, 85, 86, 91, 98, 103, 112, 113, 114, 115, 116, 117, 134, 142, 144, 146, 147, 148, 149, 151, 152, 153, 163, 164]
+figurer: [9, 11, 12, 13, 14, 24, 36, 141, 146, 147, 148, 149, 150, 151, 152, 153, 165]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -267,20 +267,6 @@ Tabell 2. Antal ansökningar till Regionalt yrkesvux, Göteborgsregionen, där K
 
 [Tabell 9-1](handlingar.tabeller/9-1.csv)
 
-|  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-
-[Tabell 9-2](handlingar.tabeller/9-2.csv)
-
 | Utbildning | Antal |
 | --- | --- |
 | Inköp och logistik | 43 |
@@ -337,6 +323,23 @@ inom detta har det identifierats två områden som sticker ut, gymnasiala yrkesk
 och matematik på gymnasial nivå.
 
 Tabell 4. Andel godkända betyg på kursdeltagarnivå.
+Sfi         Grundläggande      Gymnasial
+
+Kvinnor Män     Kvinnor Män      Kvinnor Män
+2024   96%             93%              86%
+97 %  92 %       94 % 86%        87%   81%
+Kvinnor Män     Kvinnor Män      Kvinnor Män
+2023   83%             94%              89%
+85 %  78 %       95 % 90%        95 %  90 %
+2022       Kvinnor Män     Kvinnor Män      Kvinnor Män
+
+```osaker-tabell
+       92%             89%              90%
+           90 %  95 %       89 % 89%        91 %  85 %
+Riket       93 %             83 %            86 %
+```
+
+2024
 
 Tabell 5. Andel F, fördelat på teoretiska kurser och yrkeskurser, 2020-2024.
 30,0%
@@ -359,15 +362,6 @@ Teoretiska kurser      Yrkeskurser
 2020 2021 2022 2023 2024
 
 6
-
-[Tabell 11-1](handlingar.tabeller/11-1.csv)
-
-|  | Sfi |  | Grundläggande |  | Gymnasial |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| 2024 | Kvinnor<br>96%<br>97 % | Män<br>92 % | Kvinnor<br>93%<br>94 % | Män<br>86% | Kvinnor<br>86%<br>87% | Män<br>81% |
-| 2023 | Kvinnor<br>83%<br>85 % | Män<br>78 % | Kvinnor<br>94%<br>95 % | Män<br>90% | Kvinnor<br>89%<br>95 % | Män<br>90 % |
-| 2022 | Kvinnor<br>92%<br>90 % | Män<br>95 % | Kvinnor<br>89%<br>89 % | Män<br>89% | Kvinnor<br>90%<br>91 % | Män<br>85 % |
-| Riket<br>2024 | 93 % |  | 83 % |  | 86 % |  |
 
 <!-- sida 12 -->
 
@@ -623,36 +617,83 @@ Hermods sfi, viktigt att observera är dock att det endast är 14 personer som s
 Hermods flex.
 Tabell 11. Resultat elevenkät 2024, resultat inom parantes=föregående års resultat.
 
+Fråga         Total HER – sfi HER – flex HER – dist VIS - flex VIS - dist VIS – språk
+Jag tycker att 3,3  3,2     3,3     3,3     3,5    3,3     3,3
+introduktionen som (3,4) (3,2) (3,4) (3,1) (3,6)  (3,4)   (3,5)
+jag fick innan
+utbildningen
+startade var bra.
+Jag får       3,3   3,2     2,9     3,3     3,8    3,6     3,4
+återkoppling/feedb (3,4) (3,1) (3,1) (2,9) (3,6)  (3,2)   (3,6)
+ack från min lärare
+om mina
+studieresultat, så
+att jag vet hur jag
+ligger till i
+utbildningen
+(exempelvis genom
+samtal på skolan
+eller via mail,
+telefon,
+lärplattform mm).
+Den           3,3   3,3     3,1     3,2     3,6    3,5     3,4
+återkoppling/feedb (3,3) (3,1) (3,0) (2,7) (3,4)  (3,5)   (3,6)
+ack som jag får från
+min lärare hjälper
+mig i mina studier.
+Jag tycker att 3,4  3,2     3,1     3,3     3,7    3,8     3,4
+skolans       (3,3) (3,1)  (3,1)    (2,8)  (3,6)  (3,2)   (3,6)
+lärplattform hjälper
+mig i mina studier.
+
 12
-
-[Tabell 17-1](handlingar.tabeller/17-1.csv)
-
-| Fråga | Total | HER – sfi | HER – flex | HER – dist | VIS - flex | VIS - dist | VIS – språk |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Jag tycker att<br>introduktionen som<br>jag fick innan<br>utbildningen<br>startade var bra. | 3,3<br>(3,4) | 3,2<br>(3,2) | 3,3<br>(3,4) | 3,3<br>(3,1) | 3,5<br>(3,6) | 3,3<br>(3,4) | 3,3<br>(3,5) |
-| Jag får<br>återkoppling/feedb<br>ack från min lärare<br>om mina<br>studieresultat, så<br>att jag vet hur jag<br>ligger till i<br>utbildningen<br>(exempelvis genom<br>samtal på skolan<br>eller via mail,<br>telefon,<br>lärplattform mm). | 3,3<br>(3,4) | 3,2<br>(3,1) | 2,9<br>(3,1) | 3,3<br>(2,9) | 3,8<br>(3,6) | 3,6<br>(3,2) | 3,4<br>(3,6) |
-| Den<br>återkoppling/feedb<br>ack som jag får från<br>min lärare hjälper<br>mig i mina studier. | 3,3<br>(3,3) | 3,3<br>(3,1) | 3,1<br>(3,0) | 3,2<br>(2,7) | 3,6<br>(3,4) | 3,5<br>(3,5) | 3,4<br>(3,6) |
-| Jag tycker att<br>skolans<br>lärplattform hjälper<br>mig i mina studier. | 3,4<br>(3,3) | 3,2<br>(3,1) | 3,1<br>(3,1) | 3,3<br>(2,8) | 3,7<br>(3,6) | 3,8<br>(3,2) | 3,4<br>(3,6) |
 
 <!-- sida 18 -->
 
 Kommunal vuxenutbildning Kungsbacka         Kungsbacka kommun
 
+Fråga         Total HER – sfi HER – flex HER – dist VIS - flex VIS - dist VIS – språk
+Jag tycker att 3,2  3,1     2,9     3,1     3,2    3,6     3,2
+personalen på (3,3) (3,2)  (3,0)    (2,3)  (3,4)  (3,0)   (3,5)
+skolan lyssnar på
+elevernas kritik och
+förslag till
+förändringar.
+Jag kan påverka 3,1 2,8     2,8     3,0     3,3    3,5     3,2
+planeringen av min (3,0) (2,6) (3,1) (2,5) (3,3)  (3,2)   (3,3)
+kurs.
+Jag får den   3,3   3,2     3,0     3,3     3,6    3,7     3,4
+handledning som (3,3) (3,1) (3,1)   (2,6)  (3,6)  (3,3)   (3,6)
+jag behöver från
+min lärare.
+Jag tycker att det är 3,4 3,4 3,2   3,4     3,5    3,8     3,4
+lätt att komma i (3,3) (3,4) (3,4)  (3,0)  (3,6)  (3,2)   (3,7)
+kontakt med min
+lärare.
+Jag tycker att det 3,4 3,4  3,0     3,1     3,7    3,4     3,3
+går bra att sitta på (3,1) (3,3) (3,2) (2,2) (3,3) (2,5)  (3,5)
+skolan och studera
+eftersom det finns
+tillräckligt med
+utrustning och
+material.
+Jag tycker att det är 3,4 3,5 3,2   3,1     3,4    3,7     3,3
+en bra studiemiljö (3,4) (3,5) (3,0) (3,0) (3,3)  (2,0)   (3,6)
+på skolan, att det är
+lugn och ro och att
+jag känner mig
+trygg.
+Personalen på 3,5   3,5     3,3     3,6     3,7    3,8     3,5
+skolan bemöter mig (3,5) (3,5) (3,3) (3,3) (3,7)  (3,3)   (3,6)
+på ett bra sätt.
+Personalen på 3,5   3,3     3,4     3,6     3,7    3,8     3,5
+Kompetenscentrum (3,5) (3,5) (3,1)  (3,3)  (3,6)  (3,0)   (3,6)
+bemöter mig på ett
+bra sätt.
+Jag är nöjd med 3,4 3,3     3,3     3,3     3,7    3,7     3,5
+mina studier. (3,3) (3,1)  (3,0)    (2,9)  (3,7)  (3,2)   (3,6)
+
 13
-
-[Tabell 18-1](handlingar.tabeller/18-1.csv)
-
-| Fråga | Total | HER – sfi | HER – flex | HER – dist | VIS - flex | VIS - dist | VIS – språk |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Jag tycker att<br>personalen på<br>skolan lyssnar på<br>elevernas kritik och<br>förslag till<br>förändringar. | 3,2<br>(3,3) | 3,1<br>(3,2) | 2,9<br>(3,0) | 3,1<br>(2,3) | 3,2<br>(3,4) | 3,6<br>(3,0) | 3,2<br>(3,5) |
-| Jag kan påverka<br>planeringen av min<br>kurs. | 3,1<br>(3,0) | 2,8<br>(2,6) | 2,8<br>(3,1) | 3,0<br>(2,5) | 3,3<br>(3,3) | 3,5<br>(3,2) | 3,2<br>(3,3) |
-| Jag får den<br>handledning som<br>jag behöver från<br>min lärare. | 3,3<br>(3,3) | 3,2<br>(3,1) | 3,0<br>(3,1) | 3,3<br>(2,6) | 3,6<br>(3,6) | 3,7<br>(3,3) | 3,4<br>(3,6) |
-| Jag tycker att det är<br>lätt att komma i<br>kontakt med min<br>lärare. | 3,4<br>(3,3) | 3,4<br>(3,4) | 3,2<br>(3,4) | 3,4<br>(3,0) | 3,5<br>(3,6) | 3,8<br>(3,2) | 3,4<br>(3,7) |
-| Jag tycker att det<br>går bra att sitta på<br>skolan och studera<br>eftersom det finns<br>tillräckligt med<br>utrustning och<br>material. | 3,4<br>(3,1) | 3,4<br>(3,3) | 3,0<br>(3,2) | 3,1<br>(2,2) | 3,7<br>(3,3) | 3,4<br>(2,5) | 3,3<br>(3,5) |
-| Jag tycker att det är<br>en bra studiemiljö<br>på skolan, att det är<br>lugn och ro och att<br>jag känner mig<br>trygg. | 3,4<br>(3,4) | 3,5<br>(3,5) | 3,2<br>(3,0) | 3,1<br>(3,0) | 3,4<br>(3,3) | 3,7<br>(2,0) | 3,3<br>(3,6) |
-| Personalen på<br>skolan bemöter mig<br>på ett bra sätt. | 3,5<br>(3,5) | 3,5<br>(3,5) | 3,3<br>(3,3) | 3,6<br>(3,3) | 3,7<br>(3,7) | 3,8<br>(3,3) | 3,5<br>(3,6) |
-| Personalen på<br>Kompetenscentrum<br>bemöter mig på ett<br>bra sätt. | 3,5<br>(3,5) | 3,3<br>(3,5) | 3,4<br>(3,1) | 3,6<br>(3,3) | 3,7<br>(3,6) | 3,8<br>(3,0) | 3,5<br>(3,6) |
-| Jag är nöjd med<br>mina studier. | 3,4<br>(3,3) | 3,3<br>(3,1) | 3,3<br>(3,0) | 3,3<br>(2,9) | 3,7<br>(3,7) | 3,7<br>(3,2) | 3,5<br>(3,6) |
 
 <!-- sida 19 -->
 

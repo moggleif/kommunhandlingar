@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6c78981e191785767f21d4d/17244053705
 sha256: d936e0ffb74dc302c28870e076c128d4552fd0327f50d28cc0bd55659ce3c641
 bytes: 860659
 sidor: 17
-hamtad: 2026-10-08T00:20:48+00:00
-konverterad: 2026-10-08T00:20:56+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T08:17:09+00:00
+konverterad: 2026-10-14T08:17:18+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [17]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -339,25 +339,28 @@ lantmäterimyndighet. Av ansökan framgick bland annat att myndigheten initialt 
 sysselsätta sju årsarbetskrafter. Regeringen ansåg då att kommunen inte uppfyllde lagens krav på
 tillräcklig omfattning för att kunna bibehålla nödvändig kompetens.
 
+Kommun     Föreslagna Antal inkomna Genomsnittlig Antal invånare Beslut från
+antal års- förrättningar årlig intäkt för i kommunen regeringen
+arbetare per år (cirka) förrättningar (cirka)
+(miljoner kr)
+
+```osaker-tabell
+Malung-Sälen 7      100         7           10 000 (80 000) 2023 (senaste)
+Härryda    6        100         7,5         40 000     2023
+Järfälla   4-5      40-50       4,2         80 000     2021
+Falu kommun 5       130         4,7         60 000     2017
+Ljusdal    5        100         6           20 000     2017
+Vetlanda   3        80          2,6         27 000     2017
+Höganäs    3-4      50          2,3         25 000     2016 (senaste)
+Ängelholm  Minst 2  60          3           24 000     2016
+```
+
 (siffrorna är tagna ur respektive kommuns ansökan om kommunalt lantmäteri, samt Lantmäteriets yttranden)
 
 2 Lag (1995:1393) om kommunal lantmäterimyndighet | Sveriges riksdag (riksdagen.se)
 
 Kungsbacka kommun Förutsättningar för att ansöka om kommunalt lantmäteri i 5
 Kungsbacka
-
-[Tabell 8-1](handlingar.tabeller/8-1.csv)
-
-| Kommun Föreslagna Antal inkomna Genomsnittlig Antal invånare Beslut från<br>antal års- förrättningar årlig intäkt för i kommunen regeringen<br>arbetare per år (cirka) förrättningar (cirka)<br>(miljoner kr) |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Malung-Sälen | 7 | 100 | 7 | 10 000 (80 000) | 2023 (senaste) |
-| Härryda | 6 | 100 | 7,5 | 40 000 | 2023 |
-| Järfälla | 4-5 | 40-50 | 4,2 | 80 000 | 2021 |
-| Falu kommun | 5 | 130 | 4,7 | 60 000 | 2017 |
-| Ljusdal | 5 | 100 | 6 | 20 000 | 2017 |
-| Vetlanda | 3 | 80 | 2,6 | 27 000 | 2017 |
-| Höganäs | 3-4 | 50 | 2,3 | 25 000 | 2016 (senaste) |
-| Ängelholm | Minst 2 | 60 | 3 | 24 000 | 2016 |
 
 <!-- sida 9 -->
 

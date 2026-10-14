@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2b8a29c818ecba375e913d1e/1713531349
 sha256: ad8a95adb634a217fa3515277fb16042343b58ed224e6f09c2c7f754f462cbc3
 bytes: 31102782
 sidor: 402
-hamtad: 2026-10-08T00:48:33+00:00
-konverterad: 2026-10-08T00:51:29+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T08:41:13+00:00
+konverterad: 2026-10-14T08:43:34+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [48, 86, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 371, 372, 373, 374, 379, 380, 381, 382, 383, 384, 385, 386, 390, 395]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok]
+tal_obekraftade: [32, 37, 38, 39, 40, 41, 42, 43, 44, 48, 84, 85, 86, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 371, 372, 373, 374, 379, 380, 381, 382, 383, 384, 385, 386, 390, 395]
+figurer: [1, 26, 28, 30, 33, 37, 38, 40, 41, 42, 43, 44, 45, 49, 50, 54, 55, 56, 57, 58, 59, 61, 66, 67, 68, 69, 70, 72, 84, 85, 86, 89, 102, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 142, 163, 198, 199, 203, 204, 212, 213, 218, 223, 224, 262, 263, 282, 290, 295, 300, 326, 327, 330, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 347, 351, 353]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -480,18 +480,23 @@ värden i tabell 5 nedan.
 Förstudierapport 1                          Kungsbacka kommun
 
 Ysby      Lerkil
-m
-Ledningsrätt                                9 000
-3 000
+kr/m            m         m
 
-12 000
-6 000 000
-m2
-Markkostnad                                10 000
-10 000 000
+```osaker-tabell
+Ledningsrätt     500 överföring   4 000     9 000
+                     utlopp       5 900     3 000
 
-Markberedning                             15 000,0
-3 300 000
+                     total m      9 900    12 000
+```
+
+kr         4 950 000 6 000 000
+kr/m2           m2        m2
+Markkostnad     1000              19 000   10 000
+kr        19 000 000 10 000 000
+
+Kr/m3
+Markberedning    220            45 000,0  15 000,0
+kr         9 900 000 3 300 000
 Tabell 5
 
 Så här tidigt i projektet är det mycket svårt att beräkna vad en investering kan kosta.
@@ -525,21 +530,6 @@ ledingsrättskostnaderna kan ses som erfarenhetskostnader, kostnader för
 markberedning har erhållits från Norconsult.
 
 14
-
-[Tabell 14-1](handlingar.tabeller/14-1.csv)
-
-| kr/m |  | m |
-| --- | --- | --- |
-| 500 | överföring | 4 000 |
-|  | utlopp | 5 900 |
-|  | total m | 9 900 |
-|  | kr | 4 950 000 |
-| kr/m2 |  | m2 |
-| 1000 |  | 19 000 |
-|  | kr | 19 000 000 |
-| Kr/m3 |  |  |
-| 220 |  | 45 000,0 |
-|  | kr | 9 900 000 |
 
 <!-- sida 15 -->
 
@@ -1937,25 +1927,6 @@ optimering av reningsverket i sin helhet
 9  Fas 3
 Åtgärder och anpassning efter slutbesiktning
 
-[Tabell 49-1](handlingar.tabeller/49-1.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
 <!-- sida 50 -->
 
 PM      –   Second          opinion
@@ -3259,40 +3230,21 @@ VY
 HÄNVISNINGAR:
 SE RITNING P-40-1-101 FÖR PLANVY.
 LÄNGDSEKTION       A-A
+BET ÄNDRINGEN AVSER        DATUM  SIGN
+HAMMARGÅRD        ARV
+GRANSKNINGSHANDLING
 MARKNIVÅ
-
+2592303   OSHE         JOCA
 TVÄRSEKTION      B-B
-
+2023-12-22 C. JENSEN
+HAMMARGÅRD  ARV
+LAYOUTRITNING
+LÄKEMEDELSRENING
 SKALA  1:100
-
+SEKTION A-A & B-B            FAS   0
 0   1   2           5                  10                                                                                                           A1
-
 METER                                                                                                                                                   P-40-2-101            -
 1:100
-
-[Tabell 85-1](handlingar.tabeller/85-1.csv)
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-[Tabell 85-2](handlingar.tabeller/85-2.csv)
-
-| BET | ÄNDRINGEN AVSER |  |  | DATUM | SIGN |
-| --- | --- | --- | --- | --- | --- |
-| HAMMARGÅRD ARV |  |  |  |  |  |
-| GRANSKNINGSHANDLING |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| 2592303 |  | OSHE | JOCA |  |  |
-| 2023-12-22 |  | C. JENSEN |  |  |  |
-| HAMMARGÅRD ARV<br>LAYOUTRITNING<br>LÄKEMEDELSRENING<br>SEKTION A-A & B-B FAS 0 |  |  |  |  |  |
 
 <!-- sida 86 -->
 
@@ -4389,34 +4341,32 @@ SLAMHANTERINGSBYGGNAD
 
 PYROLYSBYGGNAD
 
+BET ÄNDRINGEN AVSER        DATUM  SIGN
+
+HAMMARGÅRD        ARV
+
+GRANSKNINGSHANDLING
+
 CONTAINER-
 BYGGNAD
 
 FRAMTIDA
 PYROLYSBYGGNAD
 
-SKALA  1:500
+2592303   OSHE         JOCA
 
-0   5   10     20                      50
-METER
+2023-12-22 C. JENSEN
+
+HAMMARGÅRD  ARV
+SKALA  1:500
+ÖVERSIKTSLAYOUT
+
+0   5   10     20                      50                                                                                            PYROLYS
+METER                                                                                                                                SITUATIONSPLAN               FAS   0
 A1
 
 P-00-0-002             -
 1:500
-
-[Tabell 115-1](handlingar.tabeller/115-1.csv)
-
-| BET | ÄNDRINGEN AVSER |  |  | DATUM | SIGN |
-| --- | --- | --- | --- | --- | --- |
-| HAMMARGÅRD ARV |  |  |  |  |  |
-| GRANSKNINGSHANDLING |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| 2592303 |  | OSHE | JOCA |  |  |
-| 2023-12-22 |  | C. JENSEN |  |  |  |
-| HAMMARGÅRD ARV<br>ÖVERSIKTSLAYOUT<br>PYROLYS<br>SITUATIONSPLAN FAS 0 |  |  |  |  |  |
 
 <!-- sida 116 -->
 
@@ -4434,65 +4384,59 @@ TORRSLAMSILO
 
 PORTAR
 
+A  SEKTIONSMARKERING      2024-01-08 OSHE
+A  ÄNDRING AV TEXTRUTAN   2024-01-08 OSHE
+BET ÄNDRINGEN AVSER        DATUM  SIGN
 MOTTAGNINGSFICKA
+\-
+
+GRANSKNINGSHANDLING
 
 C                                       PLANVY
 
-SKALA 1:200
+2592303   OSHE         JOCA
 
+2023-12-22 C. JENSEN
+
+HAMMARGÅRD  ARV
+SKALA 1:200
+LAYOUTRITNING
+PYROLYS
 0   2     5        10        15        20
-METER
+METER                                                                                                                                    PLANVY                       FAS   0
 A1
 
 P-40-1-104            A
 1:200
 
-[Tabell 116-1](handlingar.tabeller/116-1.csv)
-
-| A | SEKTIONSMARKERING |  |  | 2024-01-08 | OSHE |
-| --- | --- | --- | --- | --- | --- |
-| A | ÄNDRING AV TEXTRUTAN |  |  | 2024-01-08 | OSHE |
-| BET | ÄNDRINGEN AVSER |  |  | DATUM | SIGN |
-| - |  |  |  |  |  |
-| GRANSKNINGSHANDLING |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| 2592303 |  | OSHE | JOCA |  |  |
-| 2023-12-22 |  | C. JENSEN |  |  |  |
-| HAMMARGÅRD ARV<br>LAYOUTRITNING<br>PYROLYS<br>PLANVY FAS 0 |  |  |  |  |  |
-
 <!-- sida 117 -->
 
 SLAMFICKA
 
+A  ÄNDRING AV TEXTRUTAN   2024-01-08 OSHE
+A  TILLÄGG AV SKALLINJAL  2024-01-08 OSHE
+BET ÄNDRINGEN AVSER        DATUM  SIGN
+
+\-
+
+GRANSKNINGSHANDLING
+
 PLANVY  B-B
 
-SKALA 1:100
+2592303   OSHE         JOCA
 
+2023-12-22 C. JENSEN
+
+HAMMARGÅRD  ARV
+SKALA 1:100
+LAYOUTRITNING
+PYROLYS
 0   1   2          5                   10
-METER
+METER                                                                                                                                    PLANVY B-B                   FAS   0
 A1
 
 P-40-1-105            A
 1:100
-
-[Tabell 117-1](handlingar.tabeller/117-1.csv)
-
-| A | ÄNDRING AV TEXTRUTAN |  |  | 2024-01-08 | OSHE |
-| --- | --- | --- | --- | --- | --- |
-| A | TILLÄGG AV SKALLINJAL |  |  | 2024-01-08 | OSHE |
-| BET | ÄNDRINGEN AVSER |  |  | DATUM | SIGN |
-| - |  |  |  |  |  |
-| GRANSKNINGSHANDLING |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| 2592303 |  | OSHE | JOCA |  |  |
-| 2023-12-22 |  | C. JENSEN |  |  |  |
-| HAMMARGÅRD ARV<br>LAYOUTRITNING<br>PYROLYS<br>PLANVY B-B FAS 0 |  |  |  |  |  |
 
 <!-- sida 118 -->
 
@@ -4502,43 +4446,30 @@ SLAMFICKA
 POLYMERBEREDARE
 
 B                                                                                                                                                                      B
+A  TILLÄGG AV HÄNVISNING  2024-01-08 OSHE
+A  ÄNDRING AV TEXTRUTAN   2024-01-08 OSHE
+BET ÄNDRINGEN AVSER        DATUM  SIGN
+
+\-
+
+GRANSKNINGSHANDLING
 
 SEKTION C-C
 
-SKALA 1:100
+2592303   OSHE         JOCA
 
+2023-12-22 C. JENSEN
+
+HAMMARGÅRD  ARV
+SKALA 1:100
+LAYOUTRITNING
+PYROLYS
 0   1   2          5                   10
-METER
+METER                                                                                                                                    SEKTION C-C                  FAS   0
 A1
 
 P-40-2-103            A
 1:100
-
-[Tabell 118-1](handlingar.tabeller/118-1.csv)
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-[Tabell 118-2](handlingar.tabeller/118-2.csv)
-
-| A | TILLÄGG AV HÄNVISNING |  |  | 2024-01-08 | OSHE |
-| --- | --- | --- | --- | --- | --- |
-| A<br>BET | ÄNDRING AV TEXTRUTAN<br>ÄNDRINGEN AVSER |  |  | 2024-01-08<br>DATUM | OSHE<br>SIGN |
-| - |  |  |  |  |  |
-| GRANSKNINGSHANDLING |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| 2592303 |  | OSHE | JOCA |  |  |
-| 2023-12-22 |  | C. JENSEN |  |  |  |
-| HAMMARGÅRD ARV<br>LAYOUTRITNING<br>PYROLYS<br>SEKTION C-C FAS 0 |  |  |  |  |  |
 
 <!-- sida 119 -->
 
@@ -4565,25 +4496,20 @@ P-40-2-104            -
 
 <!-- sida 120 -->
 
-[Tabell 120-1](handlingar.tabeller/120-1.csv)
+[Tabell 120-121-1](handlingar.tabeller/120-121-1.csv)
 
 |  |  |
 | --- | --- |
 |  |  |
 | (adress borttagen),<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>(e-post borttagen) |  |
+|  |  |
+|  |  |
+| (adress borttagen),<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>(e-post borttagen) |  |
+|  |  |
 |  |  |
 |  |  |
 
 <!-- sida 121 -->
-
-[Tabell 121-1](handlingar.tabeller/121-1.csv)
-
-|  |  |
-| --- | --- |
-| (adress borttagen),<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>(e-post borttagen) |  |
-|  |  |
-|  |  |
-|  |  |
 
 <!-- sida 122 -->
 
@@ -4609,13 +4535,6 @@ P-40-2-104            -
 <!-- sida 124 -->
 
 [Tabell 124-1](handlingar.tabeller/124-1.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-
-[Tabell 124-2](handlingar.tabeller/124-2.csv)
 
 |  |  |
 | --- | --- |
@@ -4757,12 +4676,16 @@ m
 m
 1
 +40,0
+BET ÄNDRINGEN AVSER        DATUM  SIGN
 +77,0
+\-
 m
 3
 SLAMHANTERINGSBYGGNAD
 1:1
+GRANSKNINGSHANDLING
 1:7
+N
 1:2
 RÖTKAMMARE
 GASUPP-
@@ -4771,22 +4694,18 @@ GASKLOCKA
 GASFACKLA
 n  n
 1 2
+ORIENTERINGSFIGUR
+2592303   O. HELD      J. CARLBAUM
+2024-02-02 K. HÅKANSSON
+HAMMARGÅRD  ARV
 SKALA 1:1000
+ÖVERSIKTSLAYOUT
+\-
 0  10  20          50                 100
-METER
+METER                                                                                                                                    SITUATIONSPLAN               FAS   0
 A1
 P-00-0-003            -
 1:1000
-
-[Tabell 127-1](handlingar.tabeller/127-1.csv)
-
-| BET ÄNDRINGEN AVSER DATUM SIGN<br>-<br>GRANSKNINGSHANDLING<br>N<br>ORIENTERINGSFIGUR |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-| 2592303 O. H |  | ELD J. CARLBAUM |
-| 2024-02-02 K. H |  | ÅKANSSON |
-| HAMMARGÅRD ARV<br>ÖVERSIKTSLAYOUT<br>-<br>SITUATIONSPLAN FAS 0 |  |  |
 
 <!-- sida 128 -->
 
@@ -4806,10 +4725,14 @@ KEMTANK  70 m3
 
 KEMTANK  25 m3
 
+BET ÄNDRINGEN AVSER        DATUM  SIGN
+
+\-
 INLOPPSHALL
 SANDFILTERRUM
-
+GRANSKNINGSHANDLING
 A
+N
 
 VENTILATIONSRUM
 DOSERBYGGNAD
@@ -4817,41 +4740,25 @@ DOSERBYGGNAD
 A
 ELRUM
 
+ORIENTERINGSFIGUR
+
 PLANVY
 
 BASSÄNG  TILLHÖRANDE SANDFILTER
+2592303   V. DAHLLÖF   J. CARLBAUM
 
+2024-02-02 K. HÅKANSSON
+
+HAMMARGÅRD  ARV
 SKALA 1:200
-
+LAYOUTRITNING
+INLOPPSBYGGNAD
 0   2     5        10        15        20
-METER
+METER                                                                                                                                    PLAN & SEKTION               FAS   0
 A1
 
 P-40-0-101            -
 1:200
-
-[Tabell 128-1](handlingar.tabeller/128-1.csv)
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-
-[Tabell 128-2](handlingar.tabeller/128-2.csv)
-
-| BET | ÄNDRINGEN AVSER | DATUM | SIGN |
-| --- | --- | --- | --- |
-| - |  |  |  |
-| GRANSKNINGSHANDLING |  |  |  |
-| N<br>ORIENTERINGSFIGUR |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-| 2592303 V. DAH |  | LLÖF J. CARLBAUM |  |
-| 2024-02-02 K. HÅK |  | ANSSON |  |
-| HAMMARGÅRD ARV<br>LAYOUTRITNING<br>INLOPPSBYGGNAD<br>PLAN & SEKTION FAS 0 |  |  |  |
 
 <!-- sida 129 -->
 
@@ -4866,9 +4773,13 @@ NTS
 B
 BETONG/SFG, SE SEKTION
 
+BET ÄNDRINGEN AVSER        DATUM  SIGN
 SANDFÅNG 1
+\-
 
-A                                                                                                                                           A
+GRANSKNINGSHANDLING
+
+A                                                                                                                                           A                                                                                                          N
 
 SANDFÅNG 2
 
@@ -4877,31 +4788,24 @@ SEKTION    B-B
 RENSGALLER-
 NÖDBRÄDD
 KANALER                                                    B
+ORIENTERINGSFIGUR
 
 PLANVY
 
-SKALA 1:100
+2592303   O. HELD      J. CARLBAUM
 
+2024-02-02 K. HÅKANSSON
+
+HAMMARGÅRD  ARV
+SKALA 1:100
+LAYOUTRITNING
+RENSGALLER- & SANDFÅNGSBASSÄNG
 0   1   2          5                   10
-METER
+METER                                                                                                                                    PLAN & SEKTION               FAS   0
 A1
 
 P-40-0-102            -
 1:100
-
-[Tabell 129-1](handlingar.tabeller/129-1.csv)
-
-| BET | ÄNDRINGEN AVSER |  | DATUM | SIGN |
-| --- | --- | --- | --- | --- |
-| - |  |  |  |  |
-| GRANSKNINGSHANDLING |  |  |  |  |
-| N<br>ORIENTERINGSFIGUR |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-| 2592303 O. H |  | ELD J. CARLBAUM |  |  |
-| 2024-02-02 K. H |  | ÅKANSSON |  |  |
-| HAMMARGÅRD ARV<br>LAYOUTRITNING<br>RENSGALLER- & SANDFÅNGSBASSÄNG<br>PLAN & SEKTION FAS 0 |  |  |  |  |
 
 <!-- sida 130 -->
 
@@ -4912,30 +4816,30 @@ SEKTION   A-A
 
 SEKTION   B-B
 
+BET ÄNDRINGEN AVSER        DATUM  SIGN
+
+\-
+
+GRANSKNINGSHANDLING
+
+N
+
+ORIENTERINGSFIGUR
+
 PLANVY
+2592303   O. HELD      J. CARLBAUM
+2024-02-02 K. HÅKANSSON
 
+HAMMARGÅRD  ARV
 SKALA 1:100
-
+LAYOUTRITNING
+FÖRSEDIMENTERINGSBASSÄNG
 0   1   2          5                   10
-METER
+METER                                                                                                                                    PLAN & SEKTION               FAS   0
 A1
 
 P-40-0-103            -
 1:100
-
-[Tabell 130-1](handlingar.tabeller/130-1.csv)
-
-| BET | ÄNDRINGEN AVSER |  | DATUM | SIGN |
-| --- | --- | --- | --- | --- |
-| - |  |  |  |  |
-| GRANSKNINGSHANDLING |  |  |  |  |
-| N<br>ORIENTERINGSFIGUR |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-| 2592303 O. H |  | ELD J. CARLBAUM |  |  |
-| 2024-02-02 K. H |  | ÅKANSSON |  |  |
-| HAMMARGÅRD ARV<br>LAYOUTRITNING<br>FÖRSEDIMENTERINGSBASSÄNG<br>PLAN & SEKTION FAS 0 |  |  |  |  |
 
 <!-- sida 131 -->
 
@@ -5074,12 +4978,16 @@ m
 m
 1
 +40,0
+BET ÄNDRINGEN AVSER        DATUM  SIGN
 +77,0
+\-
 m
 3
 SLAMHANTERINGSBYGGNAD
 1:1
+GRANSKNINGSHANDLING
 1:7
+N
 1:2
 RÖTKAMMARE
 GASUPP-
@@ -5088,22 +4996,18 @@ GASKLOCKA
 GASFACKLA
 n  n
 1 2
+ORIENTERINGSFIGUR
+2592303   O. HELD      J. CARLBAUM
+2024-02-02 K. HÅKANSSON
+HAMMARGÅRD  ARV
 SKALA 1:1000
+ÖVERSIKTSLAYOUT
+\-
 0  10  20          50                 100
-METER
+METER                                                                                                                                    SITUATIONSPLAN               FAS   0
 A1
 P-00-0-003            -
 1:1000
-
-[Tabell 132-1](handlingar.tabeller/132-1.csv)
-
-| BET ÄNDRINGEN AVSER DATUM SIGN<br>-<br>GRANSKNINGSHANDLING<br>N<br>ORIENTERINGSFIGUR |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-| 2592303 O. H |  | ELD J. CARLBAUM |
-| 2024-02-02 K. H |  | ÅKANSSON |
-| HAMMARGÅRD ARV<br>ÖVERSIKTSLAYOUT<br>-<br>SITUATIONSPLAN FAS 0 |  |  |
 
 <!-- sida 133 -->
 
@@ -5288,56 +5192,88 @@ Befintlig CAS (BIO-P, SSH, Quattro Denipho med tillhörande mellansedimenteringa
 
 <!-- sida 138 -->
 
+Quattro Denipho
+
+Bioreaktorer       1          1          1         st
+Processvolym (exkl 7 200     7 200     7 200       m³
+ssh)
+
+Vätskedjup         6          6          6         m
+SS koncentration  2,5-4,7   2,5-4,7    2,5-4,7   Kg SS/m³
+
+Returslampumpning, 60         60        60       % av Q
+adwf
+årsmedel
+Total slamålder vid 22        22        22          d
+design T
+Nitrifikationshastighet 1,02 1,02       1,02    gN/(kgVSS\*h)
+vid design T
+Simultanfällning   2          2          2      Mol Me/mol P
+borttaget
+
+VSS / SS           75         75        75         %
+α-faktor          0,65       0,65       0,65        -
+
+SSOTE medel (SSOTE 6,5 (6)   6,5 (6)   6,5 (6)     %/m
+max)
+Mellansedimentering
+
+Antal              2          2          2         st
+mellansedimenteringar
+
+```osaker-tabell
+Volym             5945       5945       5945       m³
+
+Yta               1320       1320       1320       m²
+Djup               4,5        4,5       4,5        m
+
+SVI                150       150        150        ml/g
+Ytbelastning Q-dim 0,38      0,49       0,56       m/h
+
+Ytbelastning Q-max 0,76      0,76       0,82       m/h
+```
+
 Uppgifter tagna från dokument ”Beskrivning av anläggningsdelar” samt processvalsstudie.
-
-[Tabell 138-1](handlingar.tabeller/138-1.csv)
-
-| Quattro Denipho |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Bioreaktorer | 1 | 1 | 1 | st |
-| Processvolym (exkl<br>ssh) | 7 200 | 7 200 | 7 200 | m³ |
-| Vätskedjup | 6 | 6 | 6 | m |
-| SS koncentration | 2,5-4,7 | 2,5-4,7 | 2,5-4,7 | Kg SS/m³ |
-| Returslampumpning,<br>årsmedel | 60 | 60 | 60 | % av Q<br>adwf |
-| Total slamålder vid<br>design T | 22 | 22 | 22 | d |
-| Nitrifikationshastighet<br>vid design T | 1,02 | 1,02 | 1,02 | gN/(kgVSS\*h) |
-| Simultanfällning | 2 | 2 | 2 | Mol Me/mol P<br>borttaget |
-| VSS / SS | 75 | 75 | 75 | % |
-| α-faktor | 0,65 | 0,65 | 0,65 | - |
-| SSOTE medel (SSOTE<br>max) | 6,5 (6) | 6,5 (6) | 6,5 (6) | %/m |
-| Mellansedimentering |  |  |  |  |
-| Antal<br>mellansedimenteringar | 2 | 2 | 2 | st |
-| Volym | 5945 | 5945 | 5945 | m³ |
-| Yta | 1320 | 1320 | 1320 | m² |
-| Djup | 4,5 | 4,5 | 4,5 | m |
-| SVI | 150 | 150 | 150 | ml/g |
-| Ytbelastning Q-dim | 0,38 | 0,49 | 0,56 | m/h |
-| Ytbelastning Q-max | 0,76 | 0,76 | 0,82 | m/h |
 
 <!-- sida 139 -->
 
 Ny AGS process
 
+Parameter       Värde       Värde     Envidan /   Enhet
+förstudie
+År               2037       2050       2050
+
+Antal             -          -          1          st
+buffertbassänger
+inlopp
+Volym             -          -         1700        m³
+buffertbassäng
+inlopp
+
+Antal Bioreaktorer -         -          2          St
+Processvolym      -          -         7 000       m³
+bioreaktorer
+
+Djup              -          -          7          m
+processvolymer
+Antal             -          -          1          st
+buffertbassänger
+Utlopp
+
+Volym             -          -         1 000       m³
+buffertbassäng
+Utlopp
+SS koncentration  -          -          8        Kg SS/m³
+
+VSS / SS          -          -          75         %
+α-faktor          -          -         0,7         -
+
+SSOTE medel       -          -        6,5 (6)     %/m
+(SSOTE max)
+
 Lagringskapacitet extern kolkälla
 
 [Tabell 139-1](handlingar.tabeller/139-1.csv)
-
-| Parameter | Värde | Värde | Envidan /<br>förstudie | Enhet |
-| --- | --- | --- | --- | --- |
-| År | 2037 | 2050 | 2050 |  |
-| Antal<br>buffertbassänger<br>inlopp | - | - | 1 | st |
-| Volym<br>buffertbassäng<br>inlopp | - | - | 1700 | m³ |
-| Antal Bioreaktorer | - | - | 2 | St |
-| Processvolym<br>bioreaktorer | - | - | 7 000 | m³ |
-| Djup<br>processvolymer | - | - | 7 | m |
-| Antal<br>buffertbassänger<br>Utlopp | - | - | 1 | st |
-| Volym<br>buffertbassäng<br>Utlopp | - | - | 1 000 | m³ |
-| SS koncentration | - | - | 8 | Kg SS/m³ |
-| VSS / SS | - | - | 75 | % |
-| α-faktor | - | - | 0,7 | - |
-| SSOTE medel<br>(SSOTE max) | - | - | 6,5 (6) | %/m |
-
-[Tabell 139-2](handlingar.tabeller/139-2.csv)
 
 | Parameter | Värde | Värde | Envidan /<br>förstudie | Enhet |
 | --- | --- | --- | --- | --- |
@@ -5561,19 +5497,19 @@ kapacitet vid underhåll eller behov att tillfälligt öka slamflödet genom anl
 Vacuumavgasning & struvitutfällning
 Efter rötningsprocessen passerar slammet en enhet för Vacuumavgasning samt struvitutfällning.
 
+Parameter       Värde       Värde     Envidan /   Enhet
+förstudie
+År               2037       2050       2050
+
+Modell          Elovac-P   Elovac-P   Elovac-P     -
+Antal             1          1          1          st
+
+Kapacitet       2 – 10      2 – 10     2 – 10     m³/h
+
 Rötslamlager
 Rötat och hygieniserat slam leds därefter till rötslamlager för lagring innan avvattning.
 
 [Tabell 147-1](handlingar.tabeller/147-1.csv)
-
-| Parameter | Värde | Värde | Envidan /<br>förstudie | Enhet |
-| --- | --- | --- | --- | --- |
-| År | 2037 | 2050 | 2050 |  |
-| Modell | Elovac-P | Elovac-P | Elovac-P | - |
-| Antal | 1 | 1 | 1 | st |
-| Kapacitet | 2 – 10 | 2 – 10 | 2 – 10 | m³/h |
-
-[Tabell 147-2](handlingar.tabeller/147-2.csv)
 
 | Parameter | Värde | Värde | Envidan /<br>förstudie | Enhet |
 | --- | --- | --- | --- | --- |
@@ -8408,12 +8344,16 @@ kommande insamlingsentreprenad. Till alla alternativ tillkommer kostnader för u
 är beroende av hur många kärl som ska köras ut. Skillnaderna i investeringskostnad är relativt stora för
 de jämförda alternativen medan skillnaderna i de årliga kostnaderna inte är så stor.
 
-[Tabell 207-1](handlingar.tabeller/207-1.csv)
+[Tabell 207-208-1](handlingar.tabeller/207-208-1.csv)
 
 | Teoretisk<br>jämförelse av<br>olika<br>alternativ | Årlig kostnad | Investeringskostnad<br>kärl | Kommentar |
 | --- | --- | --- | --- |
 | Fyra<br>tvåfackskärl | 45 700 000 | 80 600 000 | Vid alternativet med fyra tvåfackskärl behövs det köpas in<br>fyra kärl för varje hämtställe, vilket ger en relativt stor<br>initial investeringskostnad. Då det är många kärl som ska<br>tömmas vid olika tillfällen ger detta alternativ upphov till<br>många transporter. |
 | Tre<br>tvåfackskärl | 41 200 000 | 60 400 000 | Investeringskostnaden består av tre tvåfackskärl. För<br>alternativet förutsätts att metallförpackningar hämtas i en<br>sidolösning som samlas in separat. Kostnad för<br>metallinsamling i sidolösning är inkluderat i de årliga |
+|  |  |  | kostnaderna med egen rutt. Ett alternativ kan vara<br>trefacksfordon. |
+| Fyrfackskärl<br>kombinerat<br>med<br>tvåfackskärl | 45 700 000 | 86 200 000 | I beräkningarna uppskattades att endast 70% av villor och<br>fritidshus kan ha fyrfackskärl och det har antagits att<br>resterande hushåll får ha ett kompletterande<br>insamlingssystem bestående av fyra st tvåfackskärl.<br>Fyrfackskärl är dyrare i inköp men kräver färre<br>tömningstillfällen. |
+| Två<br>tvåfackskäl +<br>befintliga kärl | 42 700 000 | 40 300 000 | I detta alternativ kompletteras nuvarande insamling med<br>två tvåfackskärl samt att insamling av metallförpackningar<br>sker med en separat lösning likt alternativ med tre<br>tvåfackskärl. |
+| Optisk<br>sortering | 41 220 000 | 30 300 000 | Nuvarande insamling kompletteras med ett tvåfackskärl<br>för färgade och ofärgade glasförpackningar. I årskostnaden<br>uppskattas att 50 % av hushållen behöver större kärl än<br>dagens befintliga restavfallskärl. Kostnader för omlastning<br>för transport till sorteringsanläggning tillkommer. |
 
 <!-- sida 208 -->
 
@@ -8442,14 +8382,6 @@ befintliga kärl med två tvåfackskärl och en sidolösning för metall.
 
 Ulrika Granfors               Catarina Sundberg
 Förvaltningschef              Verksamhetschef
-
-[Tabell 208-1](handlingar.tabeller/208-1.csv)
-
-|  |  |  | kostnaderna med egen rutt. Ett alternativ kan vara<br>trefacksfordon. |
-| --- | --- | --- | --- |
-| Fyrfackskärl<br>kombinerat<br>med<br>tvåfackskärl | 45 700 000 | 86 200 000 | I beräkningarna uppskattades att endast 70% av villor och<br>fritidshus kan ha fyrfackskärl och det har antagits att<br>resterande hushåll får ha ett kompletterande<br>insamlingssystem bestående av fyra st tvåfackskärl.<br>Fyrfackskärl är dyrare i inköp men kräver färre<br>tömningstillfällen. |
-| Två<br>tvåfackskäl +<br>befintliga kärl | 42 700 000 | 40 300 000 | I detta alternativ kompletteras nuvarande insamling med<br>två tvåfackskärl samt att insamling av metallförpackningar<br>sker med en separat lösning likt alternativ med tre<br>tvåfackskärl. |
-| Optisk<br>sortering | 41 220 000 | 30 300 000 | Nuvarande insamling kompletteras med ett tvåfackskärl<br>för färgade och ofärgade glasförpackningar. I årskostnaden<br>uppskattas att 50 % av hushållen behöver större kärl än<br>dagens befintliga restavfallskärl. Kostnader för omlastning<br>för transport till sorteringsanläggning tillkommer. |
 
 <!-- sida 209 -->
 
@@ -9055,7 +8987,7 @@ Förvaltningschef              Verksamhetschef Vatten, Avfall, Bredband
 Bilaga 1 Uppdateringar mellan Avfallstaxa 2024 (Avfallstaxa Kommunfullmäktige 14 december 2023 § 194,
 KS 2023-00300 gällande från 1 januari 2024) och Avfallstaxa 2025
 
-[Tabell 225-1](handlingar.tabeller/225-1.csv)
+[Tabell 225-231-1](handlingar.tabeller/225-231-1.csv)
 
 | Avsnitt | Kommentar | Uppdaterat enligt följande |
 | --- | --- | --- |
@@ -9064,68 +8996,44 @@ KS 2023-00300 gällande från 1 januari 2024) och Avfallstaxa 2025
 | 2.<br>Beräknings<br>grunder | Skriva att även<br>hämtning av<br>förpackningsavfall<br>omfattas av en maxtaxa | Följande text:<br>Avgifter för fastighetsnära hämtning av bygg- och rivningsavfall samt returpapper<br>begränsas av maxtaxa.<br>Byts till:<br>Avgifter för fastighetsnära hämtning av bygg- och rivningsavfall,<br>förpackningsavfall samt returpapper begränsas av maxtaxa. |
 | 3<br>Mervärdess<br>katt | Skriva ut<br>procenttecknet. | Följande text:<br>Avgifter i taxan är angivna i kronor inklusive 25 % moms.<br>Byts till:<br>Avgifter i taxan är angivna i kronor inklusive 25 procent moms. |
 | 4.1 Allmän<br>Information | Ta bort information om<br>antal ÅVC besök<br>eftersom det står redan i<br>avsnitt 4.6 samt lägga<br>till information om att | Följande text:<br>I abonnemangsavgiften ingår följande:<br>• 15 besök på återvinningscentral per år för privatpersoner och 15 besök per år<br>för |
-
-<!-- sida 226 -->
-
-[Tabell 226-1](handlingar.tabeller/226-1.csv)
-
 |  | kärl ägs och distribueras<br>av kommunen och<br>kommunens<br>entreprenörer. | verksamheter med avfallsabonnemang.<br>• Påsar och påshållare för matavfall.<br>• Upp till två meters gångavstånd till hämtfordon för avfallskärl.<br>• I avgiften för slamtömning ingår slangdragning upp till 20 meter.<br>Byts till:<br>I abonnemangsavgiften ingår följande:<br>• Besök på återvinningscentraler enligt avsnitt 4.6<br>• Påsar och påshållare för matavfall.<br>• Upp till två meters gångavstånd till hämtfordon för avfallskärl.<br>• I avgiften för slamtömning ingår slangdragning upp till 20 meter.<br>• Kärl ägs och distribueras av renhållaren eller renhållarens utförare. |
-| --- | --- | --- |
 | 4.3.3.1<br>Gångavstånd till<br>kärl | Ändra till rätt veckor för<br>den nya<br>trädgårdsavfallssäsonge<br>n i tabellen för<br>gångavstånd vid<br>hämtning av<br>trädgårdsavfall | Följande text:<br>Trädgårdsavfall (vecka 14-45)<br>Byts till:<br>Trädgårdsavfall (vecka 12-47) |
 | 4.3.3.4<br>Hämtning av<br>komposterbart<br>trädgårdsavfall i<br>kärl | Förlänga<br>trädgårdsavfallssäsonge<br>n med 4 veckor dvs två<br>extra tömningar. | Uppdatering |
 | 4.3.3.5<br>Hämtning av<br>komposterbart<br>trädgårds- och<br>parkavfall i<br>container | Förtydliggöra i rubriken<br>att den fraktionen<br>inkluderar även ris och<br>grenar. | Följande rubriksnamn:<br>Hämtning av komposterbart trädgårds- och parkavfall i container<br>Byts till:<br>Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris och grenar) i<br>container |
-
-<!-- sida 227 -->
-
-[Tabell 227-1](handlingar.tabeller/227-1.csv)
-
 | 4.3.3.7<br>Hämtning av<br>grovavfall | Lägga till att det går att<br>lämna även det som går<br>att återanvända samt<br>lägga till<br>storleksbegränsningar.<br>Uppdatera<br>rubriksnamnet för att<br>inkludera återbruk | Följande rubriksnamn:<br>Hämtning av grovavfall<br>Byts till:<br>Hämtning av grovavfall och återbruk |
-| --- | --- | --- |
 |  |  | Följande text:<br>Renhållarens utförare hämtar avfallet i anslutning till väg vid fastighetsgräns,<br>inom 6 arbetsdagar efter beställning.<br>Uppdaterats till:<br>Renhållarens utförare hämtar avfallet och produkter till återbruk i anslutning till<br>väg vid fastighetsgräns, inom 6 arbetsdagar efter beställning. Varje kolli får väga<br>maximalt 30 kilo och inte ha en volym större än 1 kubikmeter. Längder får vara<br>maximalt 1,2 meter. Kollin ska märkas med respektive fraktion. Produkter till<br>återbruk ska vara hela och rena. Mer information om vad som får lämnas finns<br>på kommunens hemsida |
 |  |  | Följande text i tabellen:<br>Grovavfall, mindre än 1 kubikmeter<br>Grovavfall mindre än 1 kubikmeter<br>Byts till:<br>Grovavfall och återbruk utöver 1 kubikmeter, per extra kubikmeter<br>Grovavfall och återbruk, mindre än 1 kubikmeter |
 | 4.4.2.1<br>Hämtning i<br>kärl | Ta bort grundavgiften för<br>varmkompost eftersom<br>abonnemanget saknas |  |
 | 4.3.3.8<br>Extra tömningar | Uppdatera perioden när<br>extra tömning av<br>trädgårdsavfall kan<br>beställas i enlighet med<br>den nya förlängda<br>trädgårdsavfallssäsonge<br>n. | Följande text:<br>Fastighetsinnehavare kan beställa extra tömning av brännbart restavfall och<br>matavfall, samt för trädgårdsavfall i kärl under perioden vecka 15–45.<br>Byts till:<br>Fastighetsinnehavare kan beställa extra tömning av brännbart restavfall och<br>matavfall, samt för trädgårdsavfall i kärl under perioden vecka 12–47 |
 | 4.4.4.1<br>Gångavstånd till<br>kärl | Uppdatera perioden i tabellen<br>i enlighet med den nya | Följande text:<br>Trädgårdsavfall (vecka 14–45) |
-
-<!-- sida 228 -->
-
-[Tabell 228-1](handlingar.tabeller/228-1.csv)
-
 |  | förlängda<br>trädgårdsavfallssäsongen. | Byts till:<br>Trädgårdsavfall (vecka 12–47) |
-| --- | --- | --- |
 | 4.4.4.4<br>Hämtning av<br>komposterbart<br>trädgårdsavfall i<br>kärl | Förlänga<br>trädgårdsavfallssäsongen<br>med 4 veckor dvs två extra<br>tömningar. | Följande text:<br>Trädgårdsavfall (vecka 14–45)<br>Byts till:<br>Trädgårdsavfall (vecka 12–47) |
 | 4.4.4.5<br>Hämtning av<br>komposterbart<br>trädgårds- och<br>parkavfall i<br>container | Förtydliggöra i rubriken att<br>den fraktionen inkluderar även<br>ris och grenar. | Följande rubriksnamn:<br>Hämtning av komposterbart trädgårds- och parkavfall i container<br>Byts till:<br>Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris och grenar) i<br>container |
 | 4.4.4.7<br>Hämtning av<br>grovavfall | Lägga till att det går att lämna<br>även det som går att<br>återanvända samt lägga till<br>storleksbegränsningar.<br>Uppdatera rubriksnamnet för<br>att inkludera återbruk. | Följande rubriksnamn:<br>Hämtning av grovavfall<br>Byts till:<br>Hämtning av grovavfall och återbruk |
 |  |  | Följande text:<br>Renhållarens utförare hämtar avfallet i anslutning till väg vid fastighetsgräns, inom 6<br>arbetsdagar efter beställning.<br>Uppdaterats till:<br>Renhållarens utförare hämtar avfallet och produkter till återbruk i anslutning till väg vid<br>fastighetsgräns, inom 6 arbetsdagar efter beställning. Varje kolli får väga maximalt 30<br>kilo och inte ha en volym större än 1 kubikmeter. Längder får vara maximalt 1,2 meter. |
-
-<!-- sida 229 -->
-
-[Tabell 229-1](handlingar.tabeller/229-1.csv)
-
 |  |  | Kollin ska märkas med respektive fraktion. Produkter till återbruk ska vara hela och<br>rena. Mer information om vad som får lämnas finns på kommunens hemsida |
-| --- | --- | --- |
 |  |  | Följande text i tabellen:<br>Grovavfall, mindre än 1 kubikmeter<br>Grovavfall mindre än 1 kubikmeter<br>Byts till:<br>Grovavfall och återbruk utöver 1 kubikmeter, per extra kubikmeter<br>Grovavfall och återbruk, mindre än 1 kubikmeter |
 | 4.4.4.8<br>Extra tömningar | Lägga till att även extra<br>tömning av trädgårdsavfall<br>kan beställas i enlighet med<br>den nya förlängda<br>trädgårdsavfallssäsongen.<br>Förtydliggöra att extra säck<br>begränsas till brännbart<br>restavfall. Tjänsten är likadan<br>för verksamheter som för<br>privatpersoner. | Följande text:<br>”, men det går inte att beställa extra tömning av trädgårdsavfall.”<br>Ersätts med:<br>”…, samt för trädgårdsavfall i kärl under perioden vecka 12–47”<br>Samt ”brännbart restavfall” läggs i följande mening:<br>Fastighetsinnehavare kan också beställa hämtning av extra säck brännbart<br>restavfall vid sidan av kärlet i samband med tömning av kärl. |
 | 4.6.1<br>Privatpersoner | Förenkla texten om ÅVC-<br>besök. | Följande text:<br>I avfallsabonnemanget ingår besök på återvinningscentralerna. Alla vuxna<br>folkbokförda i kommunen har 15 besök per person och år. Från det 16:e<br>besöket tas en avgift per besök ut enligt tabell nedan. Inpassering sker<br>med körkort. Personer som inte har körkort kan ansöka om att få ett ÅVC-<br>kort i stället. Även privatpersoner som är folkbokförda i annan kommun<br>men äger ett fritidshus med avfallsabonnemang i Kungsbacka har rätt till 15<br>besök per abonnemang och år och får ett ÅVC-kort till detta. Det är också<br>möjligt att betala enstaka besök på någon av kommunens<br>återvinningscentraler. |
-
-<!-- sida 230 -->
-
-[Tabell 230-1](handlingar.tabeller/230-1.csv)
-
 |  |  | Byts till:<br>Alla vuxna folkbokförda i kommunen har 15 besök per person och år. Från det 16:e<br>besöket tas en avgift per besök ut enligt tabell nedan. Privatpersoner med<br>avfallsabonnemang för fritidshus i Kungsbacka kommun har rätt till 15 besök per<br>abonnemang och år. Inpassering sker med körkort. Personer som inte har körkort kan<br>ansöka om att få ett ÅVC-kort i stället. Det är också möjligt att betala enstaka besök<br>på någon av kommunens återvinningscentraler. |
-| --- | --- | --- |
 | 4.6.1<br>Privatpersoner | Utelämna information om vilka<br>avfallstyper kan lämnas av på<br>ÅVC utan att besöket<br>registreras. Det kommer vi<br>publicera på hemsidan. | Följande text stryks:<br>Privatpersoner som bara ska lämna återbruk, förpackningar (av plast,<br>papper, metall, glas), tidningar, returpapper, elektronik, lysrör och ljuskällor,<br>enstaka vitvaror, kyl och frys, batterier, bilbatterier eller fett från hushåll kan<br>göra det utan att besöket registreras. Kontakta då personalen så öppnar de<br>bommen, |
 | 4.6.1<br>Privatpersoner | Ändra från<br>renhållningsabonnemang till<br>avfallsabonnemang i tabellen. | Följande text:<br>Mottagningsavgift för besök ej kopplade till renhållningsabonnemang,<br>Byts till:<br>Mottagningsavgift för besök ej kopplade till avfallsabonnemang. |
 | 4.6.1<br>Privatpersoner | Ta bort information om<br>extrakort. Det är inte längre<br>möjligt längre. | Följande text:<br>För ett extra eller förlorat ÅVC-kort<br>Byts till:<br>Förlorat ÅVC-kort |
-
-<!-- sida 231 -->
-
-[Tabell 231-1](handlingar.tabeller/231-1.csv)
-
 | 4.6.2<br>Verksamheter | Lägg till information om hur<br>inpasseringen sker | Följande läggs till:<br>Inpassering för verksamheter sker med ÅVC-kort. |
-| --- | --- | --- |
 | 4.8 Avgift för att<br>återfå tappade<br>föremål i<br>behållare på<br>återvinningsstatio<br>n | Ny rubrik | Följande läggs till:<br>4.8 8 Avgift för att återfå tappade föremål i behållare på återvinningsstation<br>Övrig service kan innefatta åtgärder för att återfå värdeföremål som tappats i en<br>insamlingsbehållare. Efter överenskommelse om åtgärd tas avgift ut till<br>självkostnadspris för följande:<br>• transportera bort behållare och ställa ut en ersättningsbehållare<br>• tömma ut material från behållare, genomsöka och iordningställa.<br>• uttryckning under jourtid som görs av annan än kommunens egen<br>jourverksamhet |
 | 4.8 Särskilda<br>avgifter | Rubriken byter nummer till 4.9 |  |
+
+<!-- sida 226 -->
+
+<!-- sida 227 -->
+
+<!-- sida 228 -->
+
+<!-- sida 229 -->
+
+<!-- sida 230 -->
+
+<!-- sida 231 -->
 
 <!-- sida 232 -->
 
@@ -10763,24 +10671,31 @@ Anläggningsavgift ska betalas för Bostadsfastighet.
 
 Avgift utgår per fastighet med:
 
+a) Servisavgift
+En ledning             74 984 kr 80%
+Två ledningar          84 357 kr 90%
+
+Tre ledningar          93 730 kr 100%
+V       S      Df      Dg  Totalavgift
+27 727 kr 42 879 kr 17 152 kr
+b) Förbindelsepunktsavgift                       -   85 758 kr
+30%     50%    20%
+30,90 kr 51,50 kr 5,15 kr
+15,45
+c) Tomtyteavgift per m2                          kr  103,00 kr
+30%     50%    5%
+15%
+20 085 kr 30 128 kr
+d) Bostadsenhetsavgift                   -       -   50 212 kr
+40%
+60%
+Avgift för Dagvatten utan att
+e)\*                       -       -      26 525 kr - 26 525 kr
+förbindelsepunkt är upprättad
 \*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
 ut, reduceras avgift enligt 5.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        5 (15)
-
-[Tabell 268-1](handlingar.tabeller/268-1.csv)
-
-| a) | Servisavgift |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | En ledning | 74 984 kr 80% |  |  |  |  |
-|  | Två ledningar | 84 357 kr 90% |  |  |  |  |
-|  | Tre ledningar | 93 730 kr 100% |  |  |  |  |
-|  |  | V | S | Df | Dg | Totalavgift |
-| b) | Förbindelsepunktsavgift | 27 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
-| c) | Tomtyteavgift per m2 | 30,90 kr<br>30% | 51,50 kr<br>50% | 5,15 kr<br>5% | 15,45<br>kr<br>15% | 103,00 kr |
-| d) | Bostadsenhetsavgift | 20 085 kr<br>40% | 30 128 kr<br>60% | - | - | 50 212 kr |
-| e)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
 
 <!-- sida 269 -->
 
@@ -10863,15 +10778,31 @@ Anläggningsavgift ska betalas för Annan fastighet.
 
 Avgift utgår per fastighet med:
 
+a) Servisavgift
+
+En ledning            74 984 kr 80%
+
+Två ledningar         84 357 kr 90%
+
+Tre ledningar         93 730 kr 100%
+V      S      Df       Dg   Totalavgift
+
+27 727 kr 42 879 kr 17 152 kr
+b) Förbindelsepunktsavgift                      -    85 758 kr
+30%    50%    20%
+35,20 kr 58,66 kr 5,87 kr 17,60 kr
+c) Tomtyteavgift per m2                              117,32 kr
+30%    50%    5%       15%
+Avgift för Dagvatten utan att
+d)\*                      -      -      26 525 kr -
+förbindelsepunkt är upprättad
 \*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
 ut, reduceras avgift enligt 6.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 6.2
 Är förbindelsepunkt gemensam för två eller flera fastigheter, fördelas avgifter enligt
 6.1 a) lika mellan fastigheterna.
-
 6.3
-
 Om godtagbar säkerhet ställs, kan huvudmannen medge anstånd med betalning av
 Tomtyteavgift för viss andel av fastighetens areal som motsvarar markyta som
 tillsvidare inte utnyttjas för verksamheten på fastigheten.
@@ -10881,18 +10812,6 @@ fastighetsbildningsåtgärd frångår fastigheten, upphör anståndsmedgivandet 
 och resterande Tomtyteavgift förfaller till betalning.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        7 (15)
-
-[Tabell 270-1](handlingar.tabeller/270-1.csv)
-
-| a) | Servisavgift |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | En ledning | 74 984 kr 80% |  |  |  |  |
-|  | Två ledningar | 84 357 kr 90% |  |  |  |  |
-|  | Tre ledningar | 93 730 kr 100% |  |  |  |  |
-|  |  | V | S | Df | Dg | Totalavgift |
-| b) | Förbindelsepunktsavgift | 27 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
-| c) | Tomtyteavgift per m2 | 35,20 kr<br>30% | 58,66 kr<br>50% | 5,87 kr<br>5% | 17,60 kr<br>15% | 117,32 kr |
-| d)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
 
 <!-- sida 271 -->
 
@@ -11078,6 +10997,13 @@ V     S      Df    Dg    Totalavgift
 
 a) En Grundavgift per år      690 kr 1035 kr           1 725 kr
 40%   60%
+b) en avgift per m³ levererat vatten 13,10 kr 26,40 kr 39,50 kr
+33%   67%
+
+c) en Bostadsenhetsavgift per Bostadsenhet 690 kr 1035 kr 1 725 kr
+och år för Bostadsfastighet 40%  60%
+d) en Dagvattenavgift per m² hårdgjord     1,13 kr 0,31 kr 1,44 kr
+tomtyta och år                          79%   21%
 
 I fråga om bebyggd annan fastighet räknas även varje påbörjat 200-tal m2
 bruttoarea (BTA) enligt Svensk Standard SS 02 10 50 som en bostadsenhet. Vid
@@ -11098,13 +11024,6 @@ Brukningsavgift för tillfälligt vatten ska betalas enligt 14.1 b). Om mätning
 antas den förbrukade vattenmängden uppgå till 50 m³ per Bostadsenhet.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        11 (15)
-
-[Tabell 274-1](handlingar.tabeller/274-1.csv)
-
-| b) | en avgift per m³ levererat vatten | 13,10 kr<br>33% | 26,40 kr<br>67% |  |  | 39,50 kr |
-| --- | --- | --- | --- | --- | --- | --- |
-| c) | en Bostadsenhetsavgift per Bostadsenhet<br>och år för Bostadsfastighet | 690 kr<br>40% | 1035 kr<br>60% |  |  | 1 725 kr |
-| d) | en Dagvattenavgift per m² hårdgjord<br>tomtyta och år |  |  | 1,13 kr<br>79% | 0,31 kr<br>21% | 1,44 kr |
 
 <!-- sida 275 -->
 
@@ -11412,9 +11331,23 @@ Nedanstående servicenivåer gäller för tjänster och produkter specificerad i
 Tjänstespecifikation i Cesar2. Servicenivå gäller enligt Cesars standard för SN 0 om
 inget annat avtalats.
 
+Service-                              Felavhjälpning
+Tillgänglighet Felanmälan Servicetid      Åtgärdstid
+nivå                                   påbörjad
+Helgfri Inom 4 timmar
+Fiber: 99,50% Dygnet                    Inom 12 timmar
+vardag  Helgfri vardag
+SN 0     Kapacitet: runt alla                    Helgfri vardag
+07.0017.00 07.00-17.00
+98,00%    dagar                         07.00-17.00
+Fiber: 99,70% Dygnet Dygnet  Inom 4 timmar Inom 24 timmar
+SN 1     Kapacitet: runt alla runt alla Dygnet runt alla Dygnet runt alla
+99,00%    dagar    dagar      dagar       dagar
+Fiber: 99,90% Dygnet Dygnet  Inom 4 timmar Inom 8 timmar
+SN 2     Kapacitet: runt alla runt alla Dygnet runt alla Dygnet runt alla
+99,90%    dagar    dagar      dagar       dagar
 •  Tillgänglighet: Tillgänglighet beräknas om inget annat avtalats på årsbasis
 inom servicetid.
-
 •  Tillgänglighet = 100\*(mätperiod-oplanerade avbrott) / mätperiod.
 •  Mätperiod: omfattar Servicetid på årsbasis enligt vald Servicenivå.
 
@@ -11430,14 +11363,6 @@ Erbjudna tjänster uppfyller SSNF:s tekniska produktspecifikationer enligt
 
 Avtalspaketet för Cesar2 där så är tillämpligt och avtalat.
 Kungsbacka kommun             Bredbandstaxa 2024                4 (9)
-
-[Tabell 282-1](handlingar.tabeller/282-1.csv)
-
-| Service-<br>nivå | Tillgänglighet | Felanmälan | Servicetid | Felavhjälpning<br>påbörjad | Åtgärdstid |
-| --- | --- | --- | --- | --- | --- |
-| SN 0 | Fiber: 99,50%<br>Kapacitet:<br>98,00% | Dygnet<br>runt alla<br>dagar | Helgfri<br>vardag<br>07.0017.00 | Inom 4 timmar<br>Helgfri vardag<br>07.00-17.00 | Inom 12 timmar<br>Helgfri vardag<br>07.00-17.00 |
-| SN 1 | Fiber: 99,70%<br>Kapacitet:<br>99,00% | Dygnet<br>runt alla<br>dagar | Dygnet<br>runt alla<br>dagar | Inom 4 timmar<br>Dygnet runt alla<br>dagar | Inom 24 timmar<br>Dygnet runt alla<br>dagar |
-| SN 2 | Fiber: 99,90%<br>Kapacitet:<br>99,90% | Dygnet<br>runt alla<br>dagar | Dygnet<br>runt alla<br>dagar | Inom 4 timmar<br>Dygnet runt alla<br>dagar | Inom 8 timmar<br>Dygnet runt alla<br>dagar |
 
 <!-- sida 283 -->
 
@@ -14015,11 +13940,6 @@ KUNGSBACKA  KOMMUN
 
 Sammanställning färdtjänstkostnader
 
-2015       2016       2017       2018       2019
-Färdtjänst\* 16 421 728 17 112 350 17 991 847 21 254 311 25 108 913
-Riksfärdtjänst  258 251    331 510    337 601    381 175    438 324
-Beställningscentral 1 088 500 1 248 400 1 299 500  1 297 100  1 320 301
-Summa    17 768 479 18 692 260 19 628 948 22 932 586 26 867 538
 \*inkl. systemkostnader samt reglering för månadskort och egenavgifter
 
 Samåkningsgrad
@@ -14075,6 +13995,15 @@ Figur 24 Nettokostnad skolskjuts grundskola åk 1-9, kr/elev, enligt rättning i
 Nedanstående tabell visar på kostnader för busskort för Kungsbackas skolpliktiga elever (F-klass till åk 9) i
 både kommunala och fristående skolor. Skolskjuts genomförs både med skolbuss och linjetrafik samt i vissa
 fall med taxi. För elever som reser med skolbuss utfärdar respektive skola färdbevis. De elever som reser
+
+[Tabell 341-1](handlingar.tabeller/341-1.csv)
+
+|  | 2015 | 2016 | 2017 | 2018 | 2019 |
+| --- | --- | --- | --- | --- | --- |
+| Färdtjänst\* | 16 421 728 | 17 112 350 | 17 991 847 | 21 254 311 | 25 108 913 |
+| Riksfärdtjänst | 258 251 | 331 510 | 337 601 | 381 175 | 438 324 |
+| Beställningscentral | 1 088 500 | 1 248 400 | 1 299 500 | 1 297 100 | 1 320 301 |
+| Summa | 17 768 479 | 18 692 260 | 19 628 948 | 22 932 586 | 26 867 538 |
 
 <!-- sida 342 -->
 
@@ -16249,17 +16178,58 @@ www.kungsbacka.se
 
 KUNGSBACKA KOMMUN                                           2 (4)
 
+Punkt i
+delegeringsord                     Delegeringens
+ning        Lagrum    Ansvarig Delegat omfattning Taget beslut och datum för beslutet
+gen       Planering &  yttrande till tillåtna fordonsbredd, -längd och -
+(1998:1276) 4 Utformning EC Trafikverket om vikt
+kap. 12 §, 15 § Anläggning & undantag från
+17 §      Utveckling   bestämmelserna 4 yttrande till Trafikverket om
+trafikförordnin Trafikingenjör om största undantag från bestämmelserna om
+gen       Samordnare   tillåtna    största tillåtna fordonsbredd, -längd
+fordonsbredd, - och -vikt
+längd och -vikt
+4.10        10 kap. 14 § VC Trafik & Beslut om 2st beslut om föreskrifter vid
+trafikförordnin Utemiljö EC föreskrifter vid vägarbete eller liknande arbete samt
+gen       Planering &  vägarbete eller under kortare tid vid skada eller risk
+(1998:1276) Utformning EC liknande arbete för skada på väg
+Anläggning & samt under
+Utveckling   kortare tid vid
+
+Trafikingenjör skada eller risk
+Samordnare   för skada på väg
+Vägtekniker
+4.11        2 § lagen om VC Trafik & Beslut om 2 beslut om flyttning av fordon
+flyttning av Utemiljö EC drift flyttning av
+fordon i vissa Gata EC Planering fordon
+fall och 2 § & Utformning EC
+förordningen Anläggning &
+om flyttning av Utveckling
+fordon i vissa Arbetsledare,
+fall      Trafik-samordnare
+Trafikövervakare
+4.13        5 § lag   Trafikövervakare Beslut om Felparkeringsavgifter (gatumark):
+(1976:206) om          felparkeringsavgif - 603 st
+felparkeringsav
+t samt
+gift och 1 § lag
+kontrollavgift vid Kontrollavgifter (tomtmark):
+(1984:318) om
+olovlig parkering - 115 st
+kontrollavgift
+vid olovlig
+parkering
+4.14        Vägmärkesföro VC Trafik & Beslut om - 7 st beslut i februari om tillstånd att
+rd ningen SFS Utemiljö tillstånd att schakta i gator och
+2007:90 AFS EC drift Gata schakta i gator trafikanordningsplan.
+1999:3 49 § 81 EC Anläggning & och vägar för - 24 st beslut i mars om tillstånd att
+§ (a-e)   Utveckling   vilka kommunen schakta i gator och
+Ordningslagen Vägtekniker är huvudman och trafikanordningsplan.
+3 kap. 4 § Plan        vid behov kräva
+och Bygglagen          säkerhet för
+6 Kap. 21              beräknade
+
 [Tabell 400-1](handlingar.tabeller/400-1.csv)
-
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-|  | gen<br>(1998:1276) 4<br>kap. 12 §, 15 §<br>17 §<br>trafikförordnin<br>gen | Planering &<br>Utformning EC<br>Anläggning &<br>Utveckling<br>Trafikingenjör<br>Samordnare | yttrande till<br>Trafikverket om<br>undantag från<br>bestämmelserna<br>om största<br>tillåtna<br>fordonsbredd, -<br>längd och -vikt | tillåtna fordonsbredd, -längd och -<br>vikt<br>4 yttrande till Trafikverket om<br>undantag från bestämmelserna om<br>största tillåtna fordonsbredd, -längd<br>och -vikt |
-| 4.10 | 10 kap. 14 §<br>trafikförordnin<br>gen<br>(1998:1276) | VC Trafik &<br>Utemiljö EC<br>Planering &<br>Utformning EC<br>Anläggning &<br>Utveckling<br>Trafikingenjör<br>Samordnare<br>Vägtekniker | Beslut om<br>föreskrifter vid<br>vägarbete eller<br>liknande arbete<br>samt under<br>kortare tid vid<br>skada eller risk<br>för skada på väg | 2st beslut om föreskrifter vid<br>vägarbete eller liknande arbete samt<br>under kortare tid vid skada eller risk<br>för skada på väg<br>1384 2024-<br>00049 Månstensvägen<br>1384 2024-<br>00051 Teatergatan |
-| 4.11 | 2 § lagen om<br>flyttning av<br>fordon i vissa<br>fall och 2 §<br>förordningen<br>om flyttning av<br>fordon i vissa<br>fall | VC Trafik &<br>Utemiljö EC drift<br>Gata EC Planering<br>& Utformning EC<br>Anläggning &<br>Utveckling<br>Arbetsledare,<br>Trafik-samordnare<br>Trafikövervakare | Beslut om<br>flyttning av<br>fordon | 2 beslut om flyttning av fordon |
-| 4.13 | 5 § lag<br>(1976:206) om<br>felparkeringsav<br>gift och 1 § lag<br>(1984:318) om<br>kontrollavgift<br>vid olovlig<br>parkering | Trafikövervakare | Beslut om<br>felparkeringsavgif<br>t samt<br>kontrollavgift vid<br>olovlig parkering | Felparkeringsavgifter (gatumark):<br>- 603 st<br>Kontrollavgifter (tomtmark):<br>- 115 st |
-| 4.14 | Vägmärkesföro<br>rd ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen<br>3 kap. 4 § Plan<br>och Bygglagen<br>6 Kap. 21 | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning &<br>Utveckling<br>Vägtekniker | Beslut om<br>tillstånd att<br>schakta i gator<br>och vägar för<br>vilka kommunen<br>är huvudman och<br>vid behov kräva<br>säkerhet för<br>beräknade | - 7 st beslut i februari om tillstånd att<br>schakta i gator och<br>trafikanordningsplan.<br>- 24 st beslut i mars om tillstånd att<br>schakta i gator och<br>trafikanordningsplan. |
-
-[Tabell 400-2](handlingar.tabeller/400-2.csv)
 
 | 1384 2024-<br>00049 | Månstensvägen |
 | --- | --- |
@@ -16269,18 +16239,55 @@ KUNGSBACKA KOMMUN                                           2 (4)
 
 KUNGSBACKA KOMMUN                                           3 (4)
 
-[Tabell 401-1](handlingar.tabeller/401-1.csv)
+Punkt i
+delegeringsord                     Delegeringens
+ning        Lagrum    Ansvarig Delegat omfattning Taget beslut och datum för beslutet
+kostnader för 1384-2024-
+återställande av 00046  Pavgift 8 kr/h
+kommunens
+anläggningar
+4.14.1      Vägmärkesföro FC       Beslut om priser 1 beslut om justering av priset för
+rd ningen SFS          för         öppningstillstånd, taget datum
+2007:90 AFS            öppningstillstånd 2023-11-15.
+1999:3 49 § 81         respektive TA-
+§ (a-e)                plan.
+Ordningslagen
+3 kap. 4 § Plan
+och Bygglagen
+6 Kap. 21
 
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-|  |  |  | kostnader för<br>återställande av<br>kommunens<br>anläggningar | 1384-2024-<br>00046 Pavgift 8 kr/h |
-| 4.14.1 | Vägmärkesföro<br>rd ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen<br>3 kap. 4 § Plan<br>och Bygglagen<br>6 Kap. 21 | FC | Beslut om priser<br>för<br>öppningstillstånd<br>respektive TA-<br>plan. | 1 beslut om justering av priset för<br>öppningstillstånd, taget datum<br>2023-11-15. |
-| 4.15 | Vägmärkesföro<br>rd ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen<br>3 kap. 4 § | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning &<br>Utveckling<br>Vägtekniker | Godkännande av<br>trafikanordningsp<br>lan | 11 st beslut i februari om enbart<br>trafikanordningsplan.<br>32 st beslut i mars om enbart<br>trafikanordningsplan. |
-| 4.16 | 13 kap. och 8 §<br>trafikförordnin<br>gen<br>(1998:1276) | Färdtjänstutredare | Beslut om<br>parkeringstillstån<br>d för<br>rörelsehindrade | Beslut om parkeringstillstånd för<br>rörelsehindrad<br>Beviljade: 19<br>Avslagna: 2 |
-| 5.1 | 6–9 §§ lag<br>(1997:736) om<br>färdtjänst | Färdtjänstutredare<br>EC Kansli | Beslut om<br>tillstånd till<br>färdtjänst med<br>regelkompletteri<br>ngar | Beslut om färdtjänst<br>Beviljade: 55<br>Avslagna: 0 |
-| 5.3 | 4–7 §§ lag<br>(1997:735) om<br>riksfärdtjänst | Färdtjänstutredare<br>EC Kansli | Beslut om<br>tillstånd till<br>riksfärdtjänst | Beslut om tillstånd till riksfärdtjänst<br>Beviljade: 19<br>Avslagna: 0 |
-| 8.3 | 61 § lokala<br>renhållnings-<br>föreskrifter | Anette<br>Englund/Louise<br>Backman-Smith,<br>administratörer<br>Kund &<br>Kommunikation | Besluta om<br>tillfälligt uppehåll<br>i sophämtning | 230311 3 st<br>240313 2 st<br>240319 1 st<br>240320 5 st<br>240325 2 st |
-| 8.4 | 66 § lokala<br>renhållnings-<br>föreskrifter | Anette<br>Englund/Louise<br>Backman-Smith, | Besluta om<br>justering av<br>avfallsabonnema | 240304 1 st<br>240318 1 st<br>240325 1 st |
+4.15        Vägmärkesföro VC Trafik & Godkännande av 11 st beslut i februari om enbart
+rd ningen SFS Utemiljö trafikanordningsp trafikanordningsplan.
+2007:90 AFS EC drift Gata lan      32 st beslut i mars om enbart
+1999:3 49 § 81 EC Anläggning &     trafikanordningsplan.
+§ (a-e)   Utveckling
+Ordningslagen Vägtekniker
+3 kap. 4 §
+4.16        13 kap. och 8 § Färdtjänstutredare Beslut om Beslut om parkeringstillstånd för
+trafikförordnin        parkeringstillstån rörelsehindrad
+gen
+d för       Beviljade: 19
+(1998:1276)
+rörelsehindrade Avslagna: 2
+5.1         6–9 §§ lag Färdtjänstutredare Beslut om Beslut om färdtjänst
+(1997:736) om EC Kansli tillstånd till Beviljade: 55
+färdtjänst
+färdtjänst med Avslagna: 0
+regelkompletteri
+ngar
+5.3         4–7 §§ lag Färdtjänstutredare Beslut om Beslut om tillstånd till riksfärdtjänst
+(1997:735) om EC Kansli tillstånd till Beviljade: 19
+riksfärdtjänst
+riksfärdtjänst Avslagna: 0
+8.3         61 § lokala Anette     Besluta om  230311 3 st
+renhållnings- Englund/Louise tillfälligt uppehåll 240313 2 st
+föreskrifter Backman-Smith, i sophämtning 240319 1 st
+administratörer          240320 5 st
+Kund &                   240325 2 st
+Kommunikation
+8.4         66 § lokala Anette     Besluta om  240304 1 st
+renhållnings- Englund/Louise justering av 240318 1 st
+föreskrifter Backman-Smith, avfallsabonnema 240325 1 st
 
 <!-- sida 402 -->
 

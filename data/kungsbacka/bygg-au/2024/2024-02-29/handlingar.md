@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.8bcd94c18d8729c25b2f612/17086918247
 sha256: 16798bae30d3b1647a729de2ca23fc51d7a4700bfcda118a842cae9d1b036ddd
 bytes: 796352
 sidor: 25
-hamtad: 2026-10-08T00:20:30+00:00
-konverterad: 2026-10-08T00:20:34+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T08:16:46+00:00
+konverterad: 2026-10-14T08:16:52+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [1, 12, 16, 18]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -732,18 +732,16 @@ Tabell för resursberäkning OVK
 
 Ordinarie hantering
 
-Inkommande ärenden/aktiviteter  Antal/år tim/ärende tim/år
-
-```osaker-tabell
-Godkända besiktningsprotokoll      300       0,2       60
-Ej godkända besiktningsprotokoll   100        4       400
-
-Anmälningar om ej utförd OVK         4        4        16
-```
-
-Summa                                                 476
-
 Byggnadsnämndens tillsynsplan 2024-2027 Sida 13
+
+[Tabell 14-1](handlingar.tabeller/14-1.csv)
+
+| Inkommande ärenden/aktiviteter | Antal/år | tim/ärende | tim/år |
+| --- | --- | --- | --- |
+| Godkända besiktningsprotokoll | 300 | 0,2 | 60 |
+| Ej godkända besiktningsprotokoll | 100 | 4 | 400 |
+| Anmälningar om ej utförd OVK | 4 | 4 | 16 |
+| Summa |  |  | 476 |
 
 <!-- sida 15 -->
 

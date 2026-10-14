@@ -1,23 +1,26 @@
-,"5) Icke- animalisk produkt
-För animaliska livsmedel så kontrollera att verksamheten uppfyller kraven som
-gäller ett steg framåt enligt Förordning (EU) nr 931/2011, art 3, p1
-Kommer varan från en godkänd/registrerad anläggning? Vid misstanke om
-livsmedelsbedrägeri, kontakta kontrollmyndigheten för det avsändande företaget
-för att se att leverantören finns registrerad/godkänd?
-Kontrollera också deras arbetssätt för att hantera en återkallelse, vad gör med
-varor som återkallas. Om de returernas tillbaka, vad händer då? Hur ser de till att
-de inte säljs igen om de är osäkra?.",,
-"Hantering av icke säkra
-livsmedel/misstänkta
-matförgiftningar
-Huvudkontor","Finns system för att hantera icke-säkra livsmedel och klagomål? Hur går det till när
-de får information om icke säkra livsmedel? Vilka åtgärder vidtas? Hur följer de
-upp verksamheternas ”avvikelsehantering”, t ex misstänkta matförgiftningar? Hur
-sprids information kring avvikelser som kan beröra flera av deras verksamheter?
-Följ upp eventuella incidenter som varit under året.","Kontrollwiki: Handbok för
-utredning av utbrott -
-(livsmedelsverket.se)","J01=10.1 (system för
-tillbakadragande av livsmedel
-som inte är säkra)
-H01=8.1 (system för
-spårbarhet)"
+Löpande inriktning,Beskrivning,Länkar,Rapportering
+Skadedjur,"Kontrollera att verksamheten arbetar förebyggande för att undvika skadedjur. Är
+lokalerna skadedjurssäkrade, finns det skadedjur eller spår av dem? Gå igenom
+verksamhetens alla utrymmen och kontrollera även hur avfallet tas om hand.","Kontrollwiki -
+skadedjursbekämpning","J06=10.6 Bekämpning av
+skadedjur"
+Temperaturer,"Kontrollera hur företaget säkerställer rätt temperatur hela vägen från mottagning
+till leverans. Hur håller de kylkedjan? Varmhållning kan vara aktuellt hos
+transportörer.
+Kontrollera hur företaget säkerställer att djupfrysta varor som säljs vidare som
+djupfrysta förvaras tillräckligt kallt hela vägen utan risk för att kvaliteten försämras.","Branschriktlinje för fryst och
+kyld mat
+Livsmedelsverkets
+föreskrifter om djupfrysta
+livsmedel
+Förordning om
+temperaturövervakning av
+djupfrysta livsmedel","J08=10.8 (bibehållen kylkedja
+och djupfrysta livsmedel,
+varmhållning)"
+"Fungerande system för
+hållbarhet/FIFU (Först In Först Ut)
+Lager","Hur ser de till att de produkter som lämnar lagret är säkra avseende
+hållbarhetsdatum? Kontrollera genom stickprov att systemet fungerar. Välj i första
+hand varor med kort hållbarhet.",,"J01=10.1 (allmänna krav på
+livsmedelssäkerhet)"

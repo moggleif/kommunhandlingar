@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6033e6193956abcf85ef93/173399351023
 sha256: b991e02d613944bd08cf47fc94b1dc152d681a5dd91772e694bcb0b7de8b37b7
 bytes: 20962353
 sidor: 257
-hamtad: 2026-10-08T07:35:00+00:00
-konverterad: 2026-10-08T07:35:49+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T10:33:28+00:00
+konverterad: 2026-10-14T10:34:15+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, tabell-osaker, ocr, tabell-osaker, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ej-konverterad, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, tabell-osaker, ocr, tabell-osaker, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ej-konverterad, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [16, 27, 31, 34, 39]
-figurer: null
-tolkade: null
+figurer: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 30, 32, 33, 35, 36, 37, 38, 40, 41, 43, 45, 46, 47, 56, 61, 73, 74, 75, 76, 77, 79, 83, 84, 85, 86, 87, 88, 89, 90, 91, 93, 94, 95, 96, 97, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 151, 167, 168, 169, 220, 224, 228, 230, 234, 235, 236]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -54,11 +54,21 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-5-1](handlingar.tabeller/2-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 3. | Förändring av stöd<br>20 min<br>7 st dokument<br>Föredragande: Karl Persson,<br>förvaltningschef | KFT-2024-<br>00376 | Nämnden för Kultur & Fritid beslutar att:<br>• förvaltningen har som övergripande<br>inriktning att flytta ekonomiska medel från<br>anläggningar och byggnader till<br>aktivitetsstöd till föreningar.<br>Subventionsgrader på hyror ska fasas ut till<br>2030.<br>• öka LOK-stödet till 10 kr samt räknar upp<br>LOK-stödet till de föreningar som äger och<br>helt sköter sina egna anläggningar med tre<br>gånger det generella LOK-stödet.<br>• att förvaltningen får i uppdrag att under 2025<br>föreslå nya taxor och avgifter gällande<br>verksamhetsytor.<br>• anta förändrad struktur för stöd samt<br>grundläggande principer, förväntningar, krav<br>och konsekvenstrappa. Förändringen gäller<br>från och med 2025-01-01 med ett<br>övergångsår.<br>• antar principerna för klubblokaler och<br>verksamhetsytor inklusive värderingsmodell<br>vid prioritering av befintliga och vid<br>planering av kommande verksamhetsytor.<br>• förvaltningen får i uppdrag att utreda<br>huruvida Kungsbacka kommun ska äga och<br>hyra ut ridanläggningar. Förslag till beslut<br>ska presenteras under 2025.<br>• förvaltnings ska återrapportera till nämnden<br>vid nämndmötena i maj och november varje<br>år till dess att förslaget är genomfört. |
+| 4. | Information till nämnd:<br>Investeringsplan 2026-2035<br>10 min<br>7 st dokument<br>Föredragande: Malin<br>Fjellström, controller | KFT-2024-<br>00361 | Nämnden noterar informationen till protokollet. |
+| 5. | Högsta avgifter för Kungsbacka<br>badhus och Fjärås simhall<br>15 min<br>5 st dokument<br>Föredragande: Harald Tjelle,<br>utvecklingsledare | KFT-2024-<br>00363 | Nämnden för Kultur & Fritid beslutar att föreslå för<br>kommunfullmäktige att fatta beslut enligt följande:<br>Kommunfullmäktige fastslår de maximala avgifter<br>som driftoperatören får ta ut från användarna av<br>Kungsbacka badhus och Fjärås simhall samt övriga<br>villkor som ska gälla för driftoperatörens<br>verksamhet i anläggningarna för perioden från 2026-<br>07-01 till 2033-06-30 enligt dokumentet Villkor<br>avgifter, Bilaga 3, Högsta avgiftsuttag Kungsbacka<br>badhus och Fjärås simhall tiden 2026-07-01-2033-<br>06-30, daterat 2024-11-29.<br>Kommunfullmäktige beslutar vissa justeringar i<br>formerna for avgifter. Dessa justeringar framgår av<br>Villkor avgifter, Bilaga 3, Högsta avgiftsuttag<br>Kungsbacka badhus och Fjärås simhall tiden 2026-<br>07-01-2033-06-30, daterad 2024-11-29 |
+| 6. | Koncept för utemiljö<br>10 min<br>2 st dokument<br>Föredragande: Harald Tjelle,<br>utvecklingsledare | KFT-2024-<br>00366 | Nämnden beslutar att ställa sig bakom konceptet. |
+| 7. | Information till nämnd:<br>Uppföljning målbild<br>15 min<br>1 st dokument<br>Föredragande: Karl Persson,<br>förvaltningschef | KFT-2024-<br>00367 | Nämnden noterar informationen till protokollet. |
+| 8. | Anmälan av delegeringsbeslut<br>december 2024 | KFT-2024-<br>00369 | Redovisning av delegeringsbeslut förtecknade i<br>protokoll 2024-12-18 godkänns. |
+| 9. | Redovisning av inkomna<br>skrivelser | KFT-2024-<br>00370 | Nämnden för Kultur & Fritid noterar redovisningen<br>av inkomna handlingar till protokollet. |
+| 10. | Initiativärende (S) - Bok om<br>Kungsbackas historia<br>2 st dokument<br>Föredragande: Karl Persson,<br>förvaltningschef | KFT-2024-<br>00359 | Nämnden beslutar att avslå initiativet då det inte<br>ligger inom förvaltningens uppdrag. |
+| 11. | Initiativärende (S) - Exponera<br>Kungsbackas historia<br>2 st dokument<br>Föredragande: Karl Persson,<br>förvaltningschef | KFT-2024-<br>00360 | Nämnden anser initiativet vara redan besvarat och<br>omhändertaget av förvaltningen för Kultur & Fritid. |
+| 12. | Initiativärende (S) -<br>Kungsbackas historia<br>2 st dokument<br>Föredragande: Karl Persson,<br>förvaltningschef | KFT-2024-<br>00358 | Nämnden anser initiativet vara redan besvarat och<br>omhändertaget av förvaltningen för Kultur & Fritid. |
+| 13. | Förvaltningschefen informerar | KFT-2024-<br>00371 | Nämnden noterar informationen till protokollet. |
 
 <!-- sida 3 -->
 
@@ -66,30 +76,11 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 4. | Information till nämnd:<br>Investeringsplan 2026-2035<br>10 min<br>7 st dokument<br>Föredragande: Malin<br>Fjellström, controller | KFT-2024-<br>00361 | Nämnden noterar informationen till protokollet. |
-| 5. | Högsta avgifter för Kungsbacka<br>badhus och Fjärås simhall<br>15 min<br>5 st dokument<br>Föredragande: Harald Tjelle,<br>utvecklingsledare | KFT-2024-<br>00363 | Nämnden för Kultur & Fritid beslutar att föreslå för<br>kommunfullmäktige att fatta beslut enligt följande:<br>Kommunfullmäktige fastslår de maximala avgifter<br>som driftoperatören får ta ut från användarna av<br>Kungsbacka badhus och Fjärås simhall samt övriga<br>villkor som ska gälla för driftoperatörens<br>verksamhet i anläggningarna för perioden från 2026-<br>07-01 till 2033-06-30 enligt dokumentet Villkor<br>avgifter, Bilaga 3, Högsta avgiftsuttag Kungsbacka<br>badhus och Fjärås simhall tiden 2026-07-01-2033-<br>06-30, daterat 2024-11-29.<br>Kommunfullmäktige beslutar vissa justeringar i<br>formerna for avgifter. Dessa justeringar framgår av<br>Villkor avgifter, Bilaga 3, Högsta avgiftsuttag<br>Kungsbacka badhus och Fjärås simhall tiden 2026-<br>07-01-2033-06-30, daterad 2024-11-29 |
-| 6. | Koncept för utemiljö<br>10 min<br>2 st dokument<br>Föredragande: Harald Tjelle,<br>utvecklingsledare | KFT-2024-<br>00366 | Nämnden beslutar att ställa sig bakom konceptet. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 7. | Information till nämnd:<br>Uppföljning målbild<br>15 min<br>1 st dokument<br>Föredragande: Karl Persson,<br>förvaltningschef | KFT-2024-<br>00367 | Nämnden noterar informationen till protokollet. |
-| 8. | Anmälan av delegeringsbeslut<br>december 2024 | KFT-2024-<br>00369 | Redovisning av delegeringsbeslut förtecknade i<br>protokoll 2024-12-18 godkänns. |
-| 9. | Redovisning av inkomna<br>skrivelser | KFT-2024-<br>00370 | Nämnden för Kultur & Fritid noterar redovisningen<br>av inkomna handlingar till protokollet. |
-| 10. | Initiativärende (S) - Bok om<br>Kungsbackas historia<br>2 st dokument<br>Föredragande: Karl Persson,<br>förvaltningschef | KFT-2024-<br>00359 | Nämnden beslutar att avslå initiativet då det inte<br>ligger inom förvaltningens uppdrag. |
-| 11. | Initiativärende (S) - Exponera<br>Kungsbackas historia<br>2 st dokument<br>Föredragande: Karl Persson,<br>förvaltningschef | KFT-2024-<br>00360 | Nämnden anser initiativet vara redan besvarat och<br>omhändertaget av förvaltningen för Kultur & Fritid. |
-| 12. | Initiativärende (S) -<br>Kungsbackas historia<br>2 st dokument<br>Föredragande: Karl Persson,<br>förvaltningschef | KFT-2024-<br>00358 | Nämnden anser initiativet vara redan besvarat och<br>omhändertaget av förvaltningen för Kultur & Fritid. |
 
 <!-- sida 5 -->
 
@@ -99,12 +90,6 @@ KUNGSBACKA  KOMMUN
 
 Annika Hedman                     Erik Norinder
 ordförande                        sekreterare
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 13. | Förvaltningschefen informerar | KFT-2024-<br>00371 | Nämnden noterar informationen till protokollet. |
 
 <!-- sida 6 -->
 
@@ -1808,7 +1793,7 @@ kompletterats med avstånd till kollektivtrafikhållplats.
 
 Lokaler och ytor där kommunen idag subventionerar lokalutgifter för föreningsaktiviteter
 
-[Tabell 65-1](handlingar.tabeller/65-1.csv)
+[Tabell 65-66-1](handlingar.tabeller/65-66-1.csv)
 
 | Typ av verksamhetsyta | Antal | Kommundelar |
 | --- | --- | --- |
@@ -1825,6 +1810,8 @@ Lokaler och ytor där kommunen idag subventionerar lokalutgifter för förenings
 | Fotbollsplaner, naturgräs,<br>5+5 | 5 | Kungsbacka Stad |
 | Friidrottsanläggningar | 1 | Kungsbacka Stad |
 | Ridanläggningar | 3 kommunalt ägda | Kungsbacka Stad (Alekärr), Frillesås, Vallda |
+| Tennishallar | 3 (alla ej kommunägda) | Kungsbacka Stad, Vallda, Särö |
+| Ishallar + bandyrink | 2 + 1 | Kungsbacka Stad, Väröbacka (Varbergs kommun) |
 
 <!-- sida 66 -->
 
@@ -1867,12 +1854,6 @@ enskilda lokaler/ytor är strategiskt viktiga:
 verksamhetsyta (noll till sex poäng). Kommunen kommer inte fortsätta underhålla dessa ytor.
 Föreningarna har möjlighet att kunna drifta samt nyttja dessa verksamhetsytor på egen hand. Önskar
 föreningen att köpa drift av kommunen kan detta i så fall ske enligt självkostnadsprincipen.
-
-[Tabell 66-1](handlingar.tabeller/66-1.csv)
-
-| Tennishallar | 3 (alla ej kommunägda) | Kungsbacka Stad, Vallda, Särö |
-| --- | --- | --- |
-| Ishallar + bandyrink | 2 + 1 | Kungsbacka Stad, Väröbacka (Varbergs kommun) |
 
 <!-- sida 67 -->
 
@@ -3074,60 +3055,78 @@ kungsbacka.se
 Stor inomhusförening   Liten inomhusförening
 
 2026       2029        2026
-\+ Ökat LOK stöd från 7,5kr till 10kr 150 000 150 000     9 000
-\+ LOK stöd x3
-\- Driftbidrag
-\- Utveckling / Utbildningsbidrag -160 000   -160 000     -6 000
-\- Drogpolicy / Hälsocertifiering -40 000     -40 000
+
 \- Lovbidrag
 \- Folkhälsobidrag
 
 \- Subventioner
 
-```osaker-tabell
-- Höjda taxor                   -100 000    -120 000     -5 800
+[Tabell 114-1](handlingar.tabeller/114-1.csv)
 
-          Förändring            -150 000    -170 000     -2 800
+| + Ökat LOK stöd från 7,5kr till 10kr | 150 000 | 150 000 | 9 000 |
+| --- | --- | --- | --- |
+| + LOK stöd x3 |  |  |  |
+| - Driftbidrag |  |  |  |
+| - Utveckling / Utbildningsbidrag | -160 000 | -160 000 | -6 000 |
+| - Drogpolicy / Hälsocertifiering | -40 000 | -40 000 |  |
 
-+ Utvecklingsstöd                105 000    200 000     105 000
-```
+[Tabell 114-2](handlingar.tabeller/114-2.csv)
 
-(Genomsnittligt stöd per förening
-
-utifrån det belopp vi frigör från lokaler)
-
-Förändring             -45 000     30 000     102 200
+| - Höjda taxor | -100 000 | -120 000 | -5 800 |
+| --- | --- | --- | --- |
+| Förändring | -150 000 | -170 000 | -2 800 |
+| + Utvecklingsstöd | 105 000 | 200 000 | 105 000 |
+| (Genomsnittligt stöd per förening utifrån det belopp vi frigör från lokaler) |  |  |  |
+| Förändring | -45 000 | 30 000 | 102 200 |
 
 <!-- sida 115 -->
 
-Liten inomhusförening
+Liten inomhusförening Förening med egen anläggning Förening utan egen anläggning - hyr
 
-2029
-9 000
+lokal/anläggning på timmar
 
--6 000
+```osaker-tabell
+2029        2026       2029        2026       2029
+    9 000      16 000     16 000      70 000     70 000
+              100 000    100 000
+             -116 000    -116 000    -17 000     -17 000
+   -6 000     -29 000     -29 000   -103 000    -103 000
+               -8 000     -8 000     -31 000     -31 000
+               -7 000     -7 000      -1 500      -1 500
 
--6 500
+   -6 500                             -5 000      -5 500
 
--3 500
+   -3 500     -44 000     -44 000    -87 500     -88 000
 
-200 000
+  200 000     105 000    200 000     105 000    200 000
 
-196 500
-
-[Tabell 115-1](handlingar.tabeller/115-1.csv)
-
-| Förening med egen anläggning<br>2026 2029 | Förening utan egen anläggning - hyr<br>lokal/anläggning på timmar<br>2026 2029 |
-| --- | --- |
-| 16 000 16 000<br>100 000 100 000<br>-116 000 -116 000<br>-29 000 -29 000<br>-8 000 -8 000<br>-7 000 -7 000<br>-44 000 -44 000<br>105 000 200 000<br>61 000 156 000 | 70 000 70 000<br>-17 000 -17 000<br>-103 000 -103 000<br>-31 000 -31 000<br>-1 500 -1 500<br>-5 000 -5 500<br>-87 500 -88 000<br>105 000 200 000<br>17 500 112 000 |
+  196 500      61 000    156 000      17 500    112 000
+```
 
 <!-- sida 116 -->
 
-[Tabell 116-1](handlingar.tabeller/116-1.csv)
+Förening med hyrd anläggning  Ridanläggning
 
-| Förening med hyrd anläggning<br>2026 2029 | Ridanläggning<br>40% subvention av hyra kvar 2029<br>2026 2029 |
-| --- | --- |
-| 54 000 54 000<br>-76 000 -76 000<br>-20 000 -20 000<br>-4 000 -4 000<br>-137 000 -331 000<br>-7 000 -7 500<br>-190 000 -384 500<br>105 000 200 000<br>-85 000 -184 500 | 21 000 21 000<br>-193 000 -193 000<br>-49 000 -49 000<br>-18 000 -18 000<br>-3 000 -3 000<br>-417 000 -1 116 000<br>-659 000 -1 358 000<br>105 000 200 000<br>-554 000 -1 158 000 |
+40% subvention av hyra kvar 2029
+
+```osaker-tabell
+2026        2029        2026         2029
+   54 000      54 000      21 000       21 000
+
+                          -193 000     -193 000
+  -76 000      -76 000     -49 000     -49 000
+  -20 000      -20 000     -18 000     -18 000
+   -4 000      -4 000       -3 000      -3 000
+
+  -137 000    -331 000    -417 000   -1 116 000
+   -7 000      -7 500
+
+  -190 000    -384 500    -659 000   -1 358 000
+
+  105 000     200 000      105 000     200 000
+
+  -85 000     -184 500    -554 000   -1 158 000
+```
 
 <!-- sida 117 -->
 
@@ -4277,7 +4276,7 @@ geografisk placering har kompletterats med avstånd till kollektivtrafikhållpla
 
 Lokaler och ytor där kommunen idag subventionerar lokalutgifter för föreningsaktiviteter :
 
-[Tabell 141-1](handlingar.tabeller/141-1.csv)
+[Tabell 141-142-1](handlingar.tabeller/141-142-1.csv)
 
 | Typ av verksamhetsyta | Antal | Kommundelar |
 | --- | --- | --- |
@@ -4289,6 +4288,13 @@ Lokaler och ytor där kommunen idag subventionerar lokalutgifter för förenings
 | Fotbollsplaner, konstgräs,<br>11+11 | 11 | Alla |
 | Fotbollsplaner, konstgräs,<br>7+7 | 4 (varav en ej kommunägd) | Kullavik, Ängås, Ögärdet (Fjärås) |
 | Fotbollsplaner, konstgräs<br>5+5 | 1 | Malevik |
+| Fotbollsplaner, naturgräs,<br>11+11 | 27 (varav sju ej kommunägd) | Anneberg, Tölö |
+| Fotbollsplaner, naturgräs,<br>7+7 | 6 (varav en ej kommunägd) | Särö, Anneberg, Tölö |
+| Fotbollsplaner, naturgräs,<br>5+5 | 5 | Kungsbacka Stad |
+| Friidrottsanläggningar | 1 | Kungsbacka Stad |
+| Ridanläggningar | 3 kommunalt ägda | Kungsbacka Stad (Alekärr), Frillesås, Vallda |
+| Tennishallar | 3 (alla ej kommunägda) | Kungsbacka Stad, Vallda, Särö |
+| Ishallar + bandyrink | 2 + 1 | Kungsbacka Stad, Väröbacka (Varbergs<br>kommun) |
 
 <!-- sida 142 -->
 
@@ -4319,17 +4325,6 @@ tidshorisont vi har undersökt, dvs fram till år 2030.
 För att hålla utgifterna för kommunen nere på en acceptabel nivå är det troligtvis nödvändigt att göra
 ett strategiskt vägval där kommunen inte längre investerar i och underhåller lika många anläggningar
 som idag, utan i stället stödja föreningarnas aktiviteter på ett mer direkt sätt.
-
-[Tabell 142-1](handlingar.tabeller/142-1.csv)
-
-| Fotbollsplaner, naturgräs,<br>11+11 | 27 (varav sju ej kommunägd) | Anneberg, Tölö |
-| --- | --- | --- |
-| Fotbollsplaner, naturgräs,<br>7+7 | 6 (varav en ej kommunägd) | Särö, Anneberg, Tölö |
-| Fotbollsplaner, naturgräs,<br>5+5 | 5 | Kungsbacka Stad |
-| Friidrottsanläggningar | 1 | Kungsbacka Stad |
-| Ridanläggningar | 3 kommunalt ägda | Kungsbacka Stad (Alekärr), Frillesås, Vallda |
-| Tennishallar | 3 (alla ej kommunägda) | Kungsbacka Stad, Vallda, Särö |
-| Ishallar + bandyrink | 2 + 1 | Kungsbacka Stad, Väröbacka (Varbergs<br>kommun) |
 
 <!-- sida 143 -->
 
@@ -5941,7 +5936,7 @@ badhuset tas i bruk till och med 2026-06-30.
 
 Expedierat/bestyrkt
 
-[Tabell 177-1](handlingar.tabeller/177-1.csv)
+[Tabell 177-178-1](handlingar.tabeller/177-178-1.csv)
 
 | Kungsbacka<br>Badhus | må-to fram till<br>kl. 14 | all tid/<br>all övrig<br>tid | all tid |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -5954,6 +5949,8 @@ Expedierat/bestyrkt
 | Grupp (1 v + 2 barn,<br>tillkommande barn/ungdomar<br>30 kr/person) |  | 190 |  |  |  |  |  |
 | Grupp (2 v + 2 barn,<br>tillkommande barn/ungdomar<br>30 kr/person) |  | 290 |  |  |  |  |  |
 | Tilläggsårskort barn 3–11 år i<br>samma familj, från barn eller<br>ungdom nr tre |  |  |  | 300 |  |  |  |
+| Tilläggsårskort ungdom<br>12–17 år i samma familj, från<br>barn eller ungdom nr tre |  |  |  | 600 |  |  |  |
+|  |  |  |  |  | 160 | 1 600 | 2 900 |
 
 <!-- sida 178 -->
 
@@ -5974,12 +5971,6 @@ Expedierat/bestyrkt
 
 [Tabell 178-1](handlingar.tabeller/178-1.csv)
 
-| Tilläggsårskort ungdom<br>12–17 år i samma familj, från<br>barn eller ungdom nr tre |  |  |  | 600 |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | 160 | 1 600 | 2 900 |
-
-[Tabell 178-2](handlingar.tabeller/178-2.csv)
-
 | Fjärås Simhall |  |  |  |
 | --- | --- | --- | --- |
 | Målgrupp | Entré | 12-kort | Årskort |
@@ -5992,12 +5983,24 @@ Expedierat/bestyrkt
 | Tilläggsårskort barn 3–11 år i samma familj,<br>från barn eller ungdom nr tre |  |  | 200 |
 | Tilläggsårskort ungdom 12–17 år i samma<br>familj, från barn eller ungdom nr tre |  |  | 400 |
 
-[Tabell 178-3](handlingar.tabeller/178-3.csv)
+[Tabell 178-179-2](handlingar.tabeller/178-179-2.csv)
 
 | Skolbad | 30 kr/deltagare/tillfälle |
 | --- | --- |
 | Simskoleverksamhet för skolelever | 70 kr/deltagare/tillfälle |
 | Föreningar |  |
+| Tävlings-/ tränings-/motionsbassäng | 10kr/25m-bana/timma |
+| Undervisningsbassänger,<br>gruppverksamhet | 10 kr/delt. + 200kr/grupp, max 12 pers. (ej övrigt<br>entrépris) |
+| Tävlingar, banhyra | 10kr/25m-bana/timma |
+| Tävlingar, timpris i 25m-bassäng om<br>delar av anläggningen kan vara öppen | 300 kr/timma |
+| Tävlingar, timpris i 50m-bassäng om<br>delar av anläggningen kan vara öppen,<br>bl.a. minst en 25m-bassäng | 500 kr/timma |
+| Tävlingar, timpris om hela anläggningen<br>måste vara stängd | 800 kr/timma |
+| Årskort för föreningsmedlemmar upp<br>t.o.m. 17 år | 1 400 kr för de som tränar 4 ggr/vecka eller mer,<br>900 kr för de som tränar mindre än 4ggr/vecka |
+| Föreningsmedlemmar från 18 år | Betalar inträde på vanligt sätt |
+| Kommersiella priser |  |
+| Hyra halva 50m-bassängen | 700 kr/timme + ordinarie entrépris |
+| Hyra hel undervisningsbassäng | 1 200 kr + ordinarie entrépris |
+| Övrig kommersiell hyra för bassänger<br>sätts av driftsoperatören |  |
 
 <!-- sida 179 -->
 
@@ -6015,22 +6018,6 @@ Ersättning enligt priser för skolbad/simskoleverksamhet för skolelever
 utgår då driftoperatör eller förening utför den specifika aktiviteten.
 
 Expedierat/bestyrkt
-
-[Tabell 179-1](handlingar.tabeller/179-1.csv)
-
-| Tävlings-/ tränings-/motionsbassäng | 10kr/25m-bana/timma |
-| --- | --- |
-| Undervisningsbassänger,<br>gruppverksamhet | 10 kr/delt. + 200kr/grupp, max 12 pers. (ej övrigt<br>entrépris) |
-| Tävlingar, banhyra | 10kr/25m-bana/timma |
-| Tävlingar, timpris i 25m-bassäng om<br>delar av anläggningen kan vara öppen | 300 kr/timma |
-| Tävlingar, timpris i 50m-bassäng om<br>delar av anläggningen kan vara öppen,<br>bl.a. minst en 25m-bassäng | 500 kr/timma |
-| Tävlingar, timpris om hela anläggningen<br>måste vara stängd | 800 kr/timma |
-| Årskort för föreningsmedlemmar upp<br>t.o.m. 17 år | 1 400 kr för de som tränar 4 ggr/vecka eller mer,<br>900 kr för de som tränar mindre än 4ggr/vecka |
-| Föreningsmedlemmar från 18 år | Betalar inträde på vanligt sätt |
-| Kommersiella priser |  |
-| Hyra halva 50m-bassängen | 700 kr/timme + ordinarie entrépris |
-| Hyra hel undervisningsbassäng | 1 200 kr + ordinarie entrépris |
-| Övrig kommersiell hyra för bassänger<br>sätts av driftsoperatören |  |
 
 <!-- sida 180 -->
 
@@ -6262,7 +6249,7 @@ beslutar bifalla kommunstyrelsens förslag.
 
 Expedierat/bestyrkt
 
-[Tabell 184-1](handlingar.tabeller/184-1.csv)
+[Tabell 184-185-1](handlingar.tabeller/184-185-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -6296,25 +6283,7 @@ Expedierat/bestyrkt
 | Monica Neptun | ( L ) | A l la |  | X |  |  |  |
 | Stephan Philipson | ( M ) | A ll a | L a r s Thelén | X |  |  |  |
 | Elisabeth Lyckevall | (S ) | A ll a |  |  | X |  |  |
-
-<!-- sida 185 -->
-
-KUNGSBACKA KOMMUN               PROTOKOLLSUTDRAG
-
-Kommunfullmäktige               Datum
-2019-06-11
-
-Beslutet skickas till
-
-Nämnden för Kultur & Fritid, Kommunledningskontoret: Ekonomi, Service:
-upphandling
-
-Expedierat/bestyrkt
-
-[Tabell 185-1](handlingar.tabeller/185-1.csv)
-
 | Roger Krantz | ( S D ) | A l la |  | X |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Thure Sandén | (M ) | A ll a |  | X |  |  |  |
 | Anders Eriksson | ( C ) | A ll a |  | X |  |  |  |
 | Hravn Forsne | ( M ) | A ll a |  | X |  |  |  |
@@ -6346,6 +6315,20 @@ Expedierat/bestyrkt
 | Per Stenberg | (M ) | A ll a | A n n ika Carlsson | X |  |  |  |
 | Ulrika Högstrand | ( K D ) | A l la |  | X |  |  |  |
 | SUMMA: |  |  |  | 47 | 14 | 0 | 0 |
+
+<!-- sida 185 -->
+
+KUNGSBACKA KOMMUN               PROTOKOLLSUTDRAG
+
+Kommunfullmäktige               Datum
+2019-06-11
+
+Beslutet skickas till
+
+Nämnden för Kultur & Fritid, Kommunledningskontoret: Ekonomi, Service:
+upphandling
+
+Expedierat/bestyrkt
 
 <!-- sida 186 -->
 

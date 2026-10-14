@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6739897819e63af583164f04/1780561276
 sha256: deb13bf9367dd9cc977991c6c775277dbd41f668bd4fc2a530c8ae2fa0a4875d
 bytes: 2560631
 sidor: 41
-hamtad: 2026-10-08T07:49:38+00:00
-konverterad: 2026-10-08T07:49:49+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:45:42+00:00
+konverterad: 2026-10-14T10:45:54+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [27, 30]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -312,7 +312,7 @@ Innehåll
 
 3
 
-[Tabell 11-1](handlingar.tabeller/11-1.csv)
+[Tabell 11-12-1](handlingar.tabeller/11-12-1.csv)
 
 | Verksamhetstyp: | 4 Kultur & Fritid |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -323,15 +323,7 @@ Innehåll
 |  | Ansökan inklusive bilagor<br>om registrering av lotteri<br>enligt Spellagen<br>(2018:1138) | Rbok | Digitalt | Gallras 7 år efter<br>utgången<br>registrering, se<br>anm. | Ofullständig ansökan gallras efter 3 mån.<br>Bilagor:<br>Protokollsutdrag med föreningens beslut att<br>ansöka om registrering med 33 1/3 basbelopp<br>under en femårsperiod.<br>Uppgift om vem föreningen utsett till<br>lotteriföreståndare.<br>Senaste verksamhetsberättelse inklusive<br>ekonomisk redovisning.<br>Stadgar som föreningen antagit och som gäller<br>för föreningen.<br>Förteckning över styrelseledamöter i<br>föreningen med namn, adress och<br>telefonnummer; ordförande, kassör och<br>sekreterare. |
 |  | Ansökan inklusive bilagor<br>om lotteritillstånd, enskilt<br>lotteri enligt Lotterilag<br>(1994:1000) | Pärm i<br>närarkiv/<br>Outlook | Papper/<br>Digitalt | Gallras 7 år efter<br>utgånget<br>tillstånd, se anm. | Ofullständig ansökan gallras efter 3 mån. |
 |  | Ansökan inklusive bilagor<br>om lotteritillstånd, 3 år<br>enligt Lotterilag<br>(1994:1000) | Pärm i<br>närarkiv/<br>Outlook | Papper/<br>Digitalt | Gallras 7 år efter<br>utgånget<br>tillstånd, se anm. | Ofullständig ansökan gallras efter 3 mån. |
-
-<!-- sida 12 -->
-
-4
-
-[Tabell 12-1](handlingar.tabeller/12-1.csv)
-
 |  | Faktura för<br>registrering/tillstånd | Rbok/<br>Raindance | Digitalt | Gallras 7 år efter<br>utgången<br>registrering |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Beslut/avslag om<br>registrering/tillstånd | Rbok/Pärm i<br>närarkiv | Papper/<br>Digitalt | Gallras 7 år efter<br>utgången<br>registrering | Signeras i underskriftsportalen. Skickas ut till<br>kontrollant och förening. Överklagat avslag<br>diarieförs, se process 1.4.4.1. |
 |  | Ekonomisk redovisning | Rbok/Pärm i<br>närarkiv | Papper/<br>Digitalt | Gallras 7 år efter<br>utgången<br>registrering | För varje enskilt avslutat lotteri, undertecknat<br>av kontrollanten. |
 |  | Korrespondens med<br>föreningen om<br>felaktigheter i redovisning,<br>rättelser | Rbok/<br>Outlook | Digitalt | Gallras 7 år efter<br>utgången<br>registrering | Om granskningsärende inleds diarieförs<br>ärendet. |
@@ -341,6 +333,10 @@ Innehåll
 |  | Utbetalning till kontrollant | Rbok/Artvise/<br>Raindance | Digitalt | Gallras 7 år efter<br>utgången<br>registrering | Fortsätter i ekonomiprocess, se 2.3.6.1. |
 |  | Faktura för<br>kontrollantarvode till<br>föreningen | Rbok/<br>Raindance | Digitalt | Gallras 7 år efter<br>utgången<br>registrering | Fortsätter i ekonomiprocess, se 2.4.1.1. |
 |  | Rådgivning till föreningar | Outlook | Digitalt | Gallras vid<br>inaktualitet, se<br>anm. | Gallras efter handläggares bedömning, se<br>process 2.1.2.1. Kan ske via mail eller telefon. |
+
+<!-- sida 12 -->
+
+4
 
 <!-- sida 13 -->
 
@@ -426,7 +422,7 @@ ePlatform         anm.
 
 9
 
-[Tabell 17-1](handlingar.tabeller/17-1.csv)
+[Tabell 17-19-1](handlingar.tabeller/17-19-1.csv)
 
 | Verksamhetstyp: | 4 Kultur & Fritid |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -438,30 +434,14 @@ ePlatform         anm.
 |  | Förfrågan/remiss om plats<br>i aktivitetsgruppen | Pärm,<br>säkerhetsskåp<br>i närarkiv | Papper | 5 år efter avslutat<br>ärende, se anm. | Förfrågan/remiss som får avslag gallras 60<br>dagar.<br>Kan inkomma från Region Halland (Barn- och<br>ungdomspsykiatrin (BUP), habiliteringen),<br>kommunens eller friskolors elevhälsa,<br>förvaltningen för individ och familjeomsorg.<br>Inkommer via post eller SEFOS. Innehåller<br>information om aktuell deltagare. Sekretess<br>enligt 21 kap 1§ OSL. |
 |  | Svar på förfrågan, avslag<br>eller bifall | SEFOS | Digitalt | Gallras 60 dagar | Vid bifall förs deltagare in på kölista. |
 |  | Kallelse till möte | SEFOS/Sms | Digitalt | Gallras 60 dagar<br>eller när möte<br>genomförts | Inledande och fortsatta möten med deltagare<br>och vårdnadshavare. Möteskallelse går ut via<br>SEFOS eller telefon. Påminnelse om möte<br>utan känsliga personuppgifter går ut via sms. |
-
-<!-- sida 18 -->
-
-10
-
-[Tabell 18-1](handlingar.tabeller/18-1.csv)
-
 |  | Överenskommelse om<br>deltagande | Pärm,<br>säkerhetsskåp<br>i närarkiv | Papper | 5 år efter avslutat<br>ärende | Överenskommelsen innehåller information om<br>deltagande samt förhållningsregler. Skrivs<br>under av deltagare samt vårdnadshavare vid<br>behov. |
-| --- | --- | --- | --- | --- | --- |
 |  | Sekretessbrytande<br>samtycke | Pärm,<br>säkerhetsskåp<br>i närarkiv | Papper | 5 år efter avslutat<br>ärende | Används för att kunna dela sekretessbelagd<br>information mellan utpekade organisationer<br>(kommunens olika förvaltningar, Region<br>Halland). |
 |  | Integritetsstärkande<br>medgivande | Pärm,<br>säkerhetsskåp<br>i närarkiv | Papper | 5 år efter avslutat<br>ärende | Skrivs på av deltagare samt vårdnadshavare<br>vid behov. |
 |  | Informationsutskick om<br>aktiviteter | SEFOS | Digitalt | Gallras 60 dagar<br>eller när aktivitet<br>genomförts | Mail via SEFOS eller sms. |
 |  | Uppföljningssamtal,<br>tjänsteanteckning | Pärm,<br>säkerhetsskåp<br>i närarkiv | Papper | 5 år efter avslutat<br>ärende | Kan ske fysiskt eller över telefon. Muntligt,<br>dokumenteras som tjänsteanteckning av<br>verksamheten. |
 |  | Avslut av deltagande,<br>tjänsteanteckning | Pärm,<br>säkerhetsskåp<br>i närarkiv | Papper | 5 år efter avslutat<br>ärende | Kan ske fysiskt eller över telefon. Muntligt,<br>avslutsorsak dokumenteras som<br>tjänsteanteckning av verksamheten.<br>Deltagarens akt flyttas till pärm för avslutade<br>deltagare, noteras som arkiverad i<br>deltagarregister. |
 |  | Register över deltagare | Sharepoint,<br>processens<br>samarbetsrum | Digitalt | Uppdateras<br>löpande | Pseudonymiserat register över deltagare.<br>Nyckel för pseudonymisering på papper inlåst i<br>säkerhetsskåp. Innehåller övergripande<br>information för deltagare som är relevant för<br>löpande verksamhet såsom intressen,<br>aktiviteter, vissa uppgifter om hälsa, kön och<br>tolkbehov. Används som kölista. Används<br>även för att skapa anonymiserad statistik för<br>verksamhetens uppföljning. |
-
-<!-- sida 19 -->
-
-11
-
-[Tabell 19-1](handlingar.tabeller/19-1.csv)
-
 |  | Register över<br>samarbetspartners | Sharepoint;<br>processens<br>samarbetsrum | Digitalt | Uppdateras<br>löpande | Samarbetspartners kan vara företag eller<br>föreningar. |
-| --- | --- | --- | --- | --- | --- |
 |  | Korrespondens med<br>samarbetspartners | Outlook,<br>Sharepoint;<br>processens<br>samarbetsrum | Digitalt | Vid inaktualitet,<br>se anm. | Korrespondens kan ske skriftligt, via mail, eller<br>muntligt och varierar över tid. Dokumenteras<br>av verksamheten vid behov. Gallras när<br>samarbete avslutas. |
 |  | Överenskommelse med<br>samarbetspartners | Outlook,<br>Sharepoint;<br>processens<br>samarbetsrum | Digitalt | Vid inaktualitet,<br>se anm. | Gallras när samarbete avslutas. |
 |  | Förfrågan från RF-SISU<br>om förenings-medverkan | Outlook | Digitalt | 1 år | Fråga inkommer från Riksidrottsförbundet-<br>SISU Idrottsutbildarna (RF-SISU) om förening<br>har medverkat i aktivitetsgruppens arbete.<br>Föreningen har ansökt om bidrag för<br>medverkan hos RF-SISU. |
@@ -470,6 +450,14 @@ ePlatform         anm.
 |  | Kommunikationsmaterial | Sharepoint;<br>processens<br>samarbetsrum | Digitalt | Bevaras | Ett exemplar av egenproducerade trycksaker i<br>form av foldrar och broschyrer bevaras, se<br>2.9.2.5 ”Hantera broschyrer”. Övrigt<br>kommunikationsmaterial bevaras i urval<br>samråd med chef och arkivarie. |
 |  | Statistik för verksamheten | Sharepoint;<br>processens<br>samarbetsrum | Digitalt | Bevaras | Ett urval av verksamhetens statistik bevaras i<br>samråd med chef och arkivarie. |
 |  | Rapporter | Sharepoint;<br>processens<br>samarbetsrum | Digitalt | Bevaras | Rapporter över verksamheten, som till<br>exempel årsrapporter, uppföljningsrapporter,<br>rapport till nämnd. Diarieförs i vissa fall. |
+
+<!-- sida 18 -->
+
+10
+
+<!-- sida 19 -->
+
+11
 
 <!-- sida 20 -->
 

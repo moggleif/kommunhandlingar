@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1587654f19ddca7e89d8992/17775551742
 sha256: 7520f420d4e35e23cab2830a0702fce360c88d3afaa7731a6cfa103876c3ba62
 bytes: 216399
 sidor: 4
-hamtad: 2026-10-08T08:00:37+00:00
-konverterad: 2026-10-08T08:00:43+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:56:21+00:00
+konverterad: 2026-10-14T10:56:27+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag | Tid |
 | --- | --- | --- | --- | --- |
@@ -69,22 +69,18 @@ KUNGSBACKA  KOMMUN
 | 11. | Anmälan av yttranden | MH-2026-<br>00040 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd<br>godkänner redovisningen av yttranden<br>fattade under perioden 2026-04-08–2026-<br>04-27. | 2<br>min |
 | 12. | Redovisning av inkomna<br>skrivelser | MH-2026-<br>00041 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd noterar<br>redovisningen av inkomna skrivelser till<br>protokollet. | 2<br>min |
 | 13. | Information från<br>förvaltningschefen | MH-2026-<br>00042 |  | 15<br>min |
+| 14. | Information om tillsynsprojektet<br>avfallshantering hos<br>livsmedelanläggningar<br>Föredragande: Oscar Linder,<br>miljö-och hälsoskyddsinspektör,<br>Anja Sulkvist,<br>livsmedelsinspektör & Felicien<br>Ilunga, livsmedelsinspektör | MH-2026-<br>02527 |  | 30<br>min |
+| 15. | Information om<br>verksamhetsberättelse 2025 för<br>Miljösamverkan Väst<br>Föredragande: Annika Elm,<br>miljö- och hälsoskyddsinspektör | MH-2026-<br>02502 |  | 20<br>min |
+| 16. | Information om tillsyn av<br>förorenade områden, avfall och<br>PFAS<br>Föredragande: Ulrika<br>Pettersson, miljö- och<br>hälsoskyddsinspektör | MH-2026-<br>02272 |  | 20<br>min |
+| 17. | Information om<br>livsmedelstillsyn 2025 och<br>inriktning för 2026<br>Föredragande: Anja Sulkvist,<br>livsmedelsinspektör & Felicien<br>Ilunga, livsmedelsinspektör | MH-2026-<br>02499 |  | 15<br>min |
+| 18. | Information om tillsynen på<br>alkohol, folköl & tobak 2025<br>och inriktningen för 2026<br>Föredragande: Georges Chayeb,<br>alkoholhandläggare & Helena<br>Köhler, alkoholhandläggare | MH-2026-<br>02500 |  | 15<br>min |
+| 19. | Information om uppföljning av<br>tillsynsplanen första kvartalet<br>2026<br>Föredragande: Tina Carlson,<br>verksamhetschef | MH-2026-<br>02551 |  | 15<br>min |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 14. | Information om tillsynsprojektet<br>avfallshantering hos<br>livsmedelanläggningar<br>Föredragande: Oscar Linder,<br>miljö-och hälsoskyddsinspektör,<br>Anja Sulkvist,<br>livsmedelsinspektör & Felicien<br>Ilunga, livsmedelsinspektör | MH-2026-<br>02527 |  | 30<br>min |
-| 15. | Information om<br>verksamhetsberättelse 2025 för<br>Miljösamverkan Väst<br>Föredragande: Annika Elm,<br>miljö- och hälsoskyddsinspektör | MH-2026-<br>02502 |  | 20<br>min |
-| 16. | Information om tillsyn av<br>förorenade områden, avfall och<br>PFAS<br>Föredragande: Ulrika<br>Pettersson, miljö- och<br>hälsoskyddsinspektör | MH-2026-<br>02272 |  | 20<br>min |
-| 17. | Information om<br>livsmedelstillsyn 2025 och<br>inriktning för 2026<br>Föredragande: Anja Sulkvist,<br>livsmedelsinspektör & Felicien<br>Ilunga, livsmedelsinspektör | MH-2026-<br>02499 |  | 15<br>min |
-| 18. | Information om tillsynen på<br>alkohol, folköl & tobak 2025<br>och inriktningen för 2026<br>Föredragande: Georges Chayeb,<br>alkoholhandläggare & Helena<br>Köhler, alkoholhandläggare | MH-2026-<br>02500 |  | 15<br>min |
 
 <!-- sida 4 -->
 
@@ -94,9 +90,3 @@ KUNGSBACKA  KOMMUN
 
 Niclas Nilsson                    Sofia Johansson
 ordförande                        sekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 19. | Information om uppföljning av<br>tillsynsplanen första kvartalet<br>2026<br>Föredragande: Tina Carlson,<br>verksamhetschef | MH-2026-<br>02551 |  | 15<br>min |

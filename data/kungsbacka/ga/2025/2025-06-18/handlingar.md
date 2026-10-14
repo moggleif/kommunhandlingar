@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.43803adb197487576efbcbb0/1749650962
 sha256: 7e9de5d960fb465f2d2fa31efdddfcf40ffd438196fbb436240d4169d7f1ea80
 bytes: 2190875
 sidor: 102
-hamtad: 2026-10-07T22:22:17+00:00
-konverterad: 2026-10-07T22:22:34+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T06:35:34+00:00
+konverterad: 2026-10-14T06:35:47+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [66, 95, 96, 97, 98, 99, 100, 101]
+figurer: [27, 28, 29]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -671,13 +671,36 @@ självvärdering av sin enhet.
 
 5
 
-[Tabell 18-1](handlingar.tabeller/18-1.csv)
+[Tabell 18-24-1](handlingar.tabeller/18-24-1.csv)
 
 | Frågor | Svar, Antal 2024 |
 | --- | --- |
 | Ingår systematiskt arbetsmiljöarbete som en<br>naturlig del i den dagliga verksamheten?<br>Det innebär att såväl de sociala, organisatoriska,<br>fysiska och digitala perspektiven synliggörs lyfts<br>löpande som en del av verksamhetsutvecklingen,<br>exempelvis på arbetsplatsträffar. |  |
 | Medverkar medarbetare och är delaktiga i det<br>systematiska arbetsmiljöarbetet?<br>Medarbetare ska ges möjlighet att medverka i<br>arbetsmiljöarbetet, genom exempelvis dialog på<br>arbetsplatsträff och/eller medverkan i<br>arbetsmiljörond.<br>Medarbetare har också en skyldighet att<br>medverka för en god arbetsmiljö. |  |
 | Medverkar skyddsombud i det systematiska<br>arbetsmiljöarbetet?<br>Samverkan med skyddsombud ska ske i alla<br>verksamheter. Det kan vara så att det inte finns<br>något skyddsombud tillgängligt. Svar ska i så fall<br>göras med ett "nej" på frågan och kommenteras. |  |
+| Medverkar elevskyddsombud i det<br>systematiska arbetsmiljöarbetet?<br>Inom skolan ska samverkan även ske med<br>elevskyddsombud. |  |
+| Finns kunskap om kommunens<br>arbetsgivarpolicy?<br>Kungsbacka kommuns arbetsgivarpolicy är ett<br>politiskt styrdokument. Arbetsgivarpolicyn<br>innehåller ett avsnitt som heter arbetsmiljö och<br>hälsa, är detta känt? |  |
+| Finns kunskap om vilka risker som finns i<br>arbetet? |  |
+| Finns kunskap och lättillgängliga, skriftliga<br>instruktioner för arbete som är förenat med<br>allvarliga risker inom er verksamhet så att<br>arbetet kan utföras utan risk för ohälsa eller<br>olycksfall? |  |
+| Finns kunskap om hur man ska<br>rapporter/anmäla tillbud och olycksfall?<br>Kommunens rutin för anmälan av tillbud och<br>olycksfall finns på kommunens Insida under<br>systematiskt arbetsmiljöarbete. Rutinen ska vara<br>känd för alla medarbetare. |  |
+| Finns kunskap om Kungsbacka kommuns<br>regler och rutin för kränkande särbehandling?<br>Kommunens rutin gällande kränkande<br>särbehandling finns på kommunens Insida under<br>systematiskt arbetsmiljöarbete.<br>Regler mot kränkande särbehandling ska vara<br>kända av alla på arbetsplatsen. |  |
+| Finns kunskap om kommunens rutin och<br>handlingsplan för en drogfri arbetsplats?<br>Kommunens rutin och handlingsplan för en drogfri<br>arbetsplats finns på kommunens Insida under<br>systematiskt arbetsmiljöarbete. |  |
+| Finns kunskap om vilka föreskrifter, AFS, som<br>gäller för verksamheten?<br>Samtliga föreskrifter finns på arbetsmiljoverket.se |  |
+| Finns kunskap om personalvårdsprogram<br>Falck Healthcare?<br>Falck Healthcare finns som en förebyggande<br>tjänst för alla medarbetare. |  |
+| Finns kunskap om företagshälsovården?<br>Företagshälsovården pe3, information om<br>uppdrag och tjänster finns på kommunens<br>intranät. |  |
+| Genomförs riskbedömning vid förändring i<br>verksamheten?<br>Vid förändringar i verksamheten ska en<br>bedömning göras om den medför risker i<br>arbetsmiljön. Den ska göras i samverkan med<br>medarbetare och skyddsombud. |  |
+| Genomförs utredning av allvarliga tillbud,<br>ohälsa och olycksfall? |  |
+| Förs de åtgärder som inte behöver<br>genomföras omedelbart in i en skriftlig<br>handlingsplan?<br>I planen anges när åtgärderna ska vara<br>genomförda och vem som ska se till att de<br>genomförs. |  |
+| I vår verksamhet följer vi upp de åtgärder som<br>genomförts för att se om de gett förväntat<br>resultat. |  |
+| Genomförs arbete med friskfaktorer på<br>arbetsplatsträffen eller i annat forum?<br>Förklaring till friskfaktorer och hur man kan arbete<br>med dem, finns tillgängligt på kommunens<br>intranät. |  |
+| Bedömer ni kontinuerligt risken för hot och<br>våld inom er verksamhet, och finns det en<br>handlingsplan för de åtgärder som behöver<br>vidtas för att förebygga ohälsa och olycksfall? |  |
+| Har du som arbetsmiljöansvarig chef fått en<br>skriftlig uppgiftsfördelning?<br>Kungsbacka kommuns styrdokument "Riktlinjer<br>för ansvar och uppgiftsfördelning av<br>arbetsmiljöuppgifter" reglerar hur<br>uppgiftsfördelningen ska göras. |  |
+| Har du som chef tillräckliga befogenheter,<br>resurser och kompetens utifrån<br>uppgiftsfördelningen som är genomförd? |  |
+| Har du som chef tillräckliga kunskaper inom<br>systematiskt arbetsmiljöarbete?<br>Innebär att du som chef har kunskap om<br>föreskriften för SAM, vilka rutiner och metoder du<br>har för att undersöka, riskbedöma, åtgärda och<br>följa upp arbetsmiljöarbetet. |  |
+| Har du som chef tillräckliga kunskaper om<br>organisatorisk och social arbetsmiljö?<br>Enligt arbetsmiljöverkets föreskrift 2023:2 kap. 2 §<br>4, ska arbetsgivaren se till att chefer och<br>arbetsledare har tillräckliga kunskaper. |  |
+| Har du som chef tillräckliga kunskaper för att<br>se till att medarbetarnas arbetsuppgifter och<br>befogenheter inte ger upphov till ohälsosam<br>arbetsbelastning?<br>Arbetsgivarens skyldigheter att förebygga<br>ohälsosam arbetsbelastning omfattar såväl chefer<br>och arbetsledare som andra arbetstagare. Det är<br>viktigt att arbetsgivaren skapar förutsättningar för<br>arbetstagarna att uppmärksamma arbetsgivaren<br>på höga krav och bristande resurser. AFS: 2023:2<br>kap. 2 § 6 |  |
+| Har du som chef tillräckliga kunskaper om<br>vilka åtgärder som behövs för att motverka att<br>arbetstidens förläggning leder till ohälsa hos<br>medarbetarna?<br>Arbetsgivaren bör redan vid planeringen av<br>arbetet ta hänsyn till hur arbetstidens förläggning<br>kan inverka på arbetstagarnas hälsa.<br>Arbetsgivaren bör särskilt uppmärksamma<br>möjligheterna till återhämtning. AFS: 2023:2 kap.<br>2 § 9. |  |
+| Har du som chef kunskap om och anmäler<br>allvarliga tillbud till arbetsmiljöverket? |  |
 
 <!-- sida 19 -->
 
@@ -686,30 +709,12 @@ Uppföljning Systematiskt arbetsmiljöarbete 2024
 
 6
 
-[Tabell 19-1](handlingar.tabeller/19-1.csv)
-
-| Frågor | Svar, Antal 2024 |
-| --- | --- |
-| Medverkar elevskyddsombud i det<br>systematiska arbetsmiljöarbetet?<br>Inom skolan ska samverkan även ske med<br>elevskyddsombud. |  |
-| Finns kunskap om kommunens<br>arbetsgivarpolicy?<br>Kungsbacka kommuns arbetsgivarpolicy är ett<br>politiskt styrdokument. Arbetsgivarpolicyn<br>innehåller ett avsnitt som heter arbetsmiljö och<br>hälsa, är detta känt? |  |
-| Finns kunskap om vilka risker som finns i<br>arbetet? |  |
-| Finns kunskap och lättillgängliga, skriftliga<br>instruktioner för arbete som är förenat med<br>allvarliga risker inom er verksamhet så att<br>arbetet kan utföras utan risk för ohälsa eller<br>olycksfall? |  |
-
 <!-- sida 20 -->
 
 Gymnasium & Arbetsmarknad                        Kungsbacka kommun
 Uppföljning Systematiskt arbetsmiljöarbete 2024
 
 7
-
-[Tabell 20-1](handlingar.tabeller/20-1.csv)
-
-| Frågor | Svar, Antal 2024 |
-| --- | --- |
-| Finns kunskap om hur man ska<br>rapporter/anmäla tillbud och olycksfall?<br>Kommunens rutin för anmälan av tillbud och<br>olycksfall finns på kommunens Insida under<br>systematiskt arbetsmiljöarbete. Rutinen ska vara<br>känd för alla medarbetare. |  |
-| Finns kunskap om Kungsbacka kommuns<br>regler och rutin för kränkande särbehandling?<br>Kommunens rutin gällande kränkande<br>särbehandling finns på kommunens Insida under<br>systematiskt arbetsmiljöarbete.<br>Regler mot kränkande särbehandling ska vara<br>kända av alla på arbetsplatsen. |  |
-| Finns kunskap om kommunens rutin och<br>handlingsplan för en drogfri arbetsplats?<br>Kommunens rutin och handlingsplan för en drogfri<br>arbetsplats finns på kommunens Insida under<br>systematiskt arbetsmiljöarbete. |  |
-| Finns kunskap om vilka föreskrifter, AFS, som<br>gäller för verksamheten?<br>Samtliga föreskrifter finns på arbetsmiljoverket.se |  |
 
 <!-- sida 21 -->
 
@@ -718,30 +723,12 @@ Uppföljning Systematiskt arbetsmiljöarbete 2024
 
 8
 
-[Tabell 21-1](handlingar.tabeller/21-1.csv)
-
-| Frågor | Svar, Antal 2024 |
-| --- | --- |
-| Finns kunskap om personalvårdsprogram<br>Falck Healthcare?<br>Falck Healthcare finns som en förebyggande<br>tjänst för alla medarbetare. |  |
-| Finns kunskap om företagshälsovården?<br>Företagshälsovården pe3, information om<br>uppdrag och tjänster finns på kommunens<br>intranät. |  |
-| Genomförs riskbedömning vid förändring i<br>verksamheten?<br>Vid förändringar i verksamheten ska en<br>bedömning göras om den medför risker i<br>arbetsmiljön. Den ska göras i samverkan med<br>medarbetare och skyddsombud. |  |
-| Genomförs utredning av allvarliga tillbud,<br>ohälsa och olycksfall? |  |
-
 <!-- sida 22 -->
 
 Gymnasium & Arbetsmarknad                        Kungsbacka kommun
 Uppföljning Systematiskt arbetsmiljöarbete 2024
 
 9
-
-[Tabell 22-1](handlingar.tabeller/22-1.csv)
-
-| Frågor | Svar, Antal 2024 |
-| --- | --- |
-| Förs de åtgärder som inte behöver<br>genomföras omedelbart in i en skriftlig<br>handlingsplan?<br>I planen anges när åtgärderna ska vara<br>genomförda och vem som ska se till att de<br>genomförs. |  |
-| I vår verksamhet följer vi upp de åtgärder som<br>genomförts för att se om de gett förväntat<br>resultat. |  |
-| Genomförs arbete med friskfaktorer på<br>arbetsplatsträffen eller i annat forum?<br>Förklaring till friskfaktorer och hur man kan arbete<br>med dem, finns tillgängligt på kommunens<br>intranät. |  |
-| Bedömer ni kontinuerligt risken för hot och<br>våld inom er verksamhet, och finns det en<br>handlingsplan för de åtgärder som behöver<br>vidtas för att förebygga ohälsa och olycksfall? |  |
 
 <!-- sida 23 -->
 
@@ -750,29 +737,12 @@ Uppföljning Systematiskt arbetsmiljöarbete 2024
 
 10
 
-[Tabell 23-1](handlingar.tabeller/23-1.csv)
-
-| Frågor | Svar, Antal 2024 |
-| --- | --- |
-| Har du som arbetsmiljöansvarig chef fått en<br>skriftlig uppgiftsfördelning?<br>Kungsbacka kommuns styrdokument "Riktlinjer<br>för ansvar och uppgiftsfördelning av<br>arbetsmiljöuppgifter" reglerar hur<br>uppgiftsfördelningen ska göras. |  |
-| Har du som chef tillräckliga befogenheter,<br>resurser och kompetens utifrån<br>uppgiftsfördelningen som är genomförd? |  |
-| Har du som chef tillräckliga kunskaper inom<br>systematiskt arbetsmiljöarbete?<br>Innebär att du som chef har kunskap om<br>föreskriften för SAM, vilka rutiner och metoder du<br>har för att undersöka, riskbedöma, åtgärda och<br>följa upp arbetsmiljöarbetet. |  |
-| Har du som chef tillräckliga kunskaper om<br>organisatorisk och social arbetsmiljö?<br>Enligt arbetsmiljöverkets föreskrift 2023:2 kap. 2 §<br>4, ska arbetsgivaren se till att chefer och<br>arbetsledare har tillräckliga kunskaper. |  |
-
 <!-- sida 24 -->
 
 Gymnasium & Arbetsmarknad                        Kungsbacka kommun
 Uppföljning Systematiskt arbetsmiljöarbete 2024
 
 11
-
-[Tabell 24-1](handlingar.tabeller/24-1.csv)
-
-| Frågor | Svar, Antal 2024 |
-| --- | --- |
-| Har du som chef tillräckliga kunskaper för att<br>se till att medarbetarnas arbetsuppgifter och<br>befogenheter inte ger upphov till ohälsosam<br>arbetsbelastning?<br>Arbetsgivarens skyldigheter att förebygga<br>ohälsosam arbetsbelastning omfattar såväl chefer<br>och arbetsledare som andra arbetstagare. Det är<br>viktigt att arbetsgivaren skapar förutsättningar för<br>arbetstagarna att uppmärksamma arbetsgivaren<br>på höga krav och bristande resurser. AFS: 2023:2<br>kap. 2 § 6 |  |
-| Har du som chef tillräckliga kunskaper om<br>vilka åtgärder som behövs för att motverka att<br>arbetstidens förläggning leder till ohälsa hos<br>medarbetarna?<br>Arbetsgivaren bör redan vid planeringen av<br>arbetet ta hänsyn till hur arbetstidens förläggning<br>kan inverka på arbetstagarnas hälsa.<br>Arbetsgivaren bör särskilt uppmärksamma<br>möjligheterna till återhämtning. AFS: 2023:2 kap.<br>2 § 9. |  |
-| Har du som chef kunskap om och anmäler<br>allvarliga tillbud till arbetsmiljöverket? |  |
 
 <!-- sida 25 -->
 
@@ -1443,28 +1413,38 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 
 2 Delegeringsförteckning
 
+2.1 Allmänt
+
+Nr     Lagrum/stöd Delegeringens omfattning             Delegerat Anmärkning/villkor
+till
+2.1.1  KL 6 kap 39 § Ärenden som är så brådskande att kommunstyrelsens avgörande inte kan N ordf
+avvaktas.
+2.1.2  OSL 6 kap Utlämnande av allmän handling med förbehåll eller att inte lämna ut en Fc Utlämnande av handling utan förbehåll eller sekretess lämnas
+3-6 §§    allmän handling.                                 ut av den som har hand om handlingen.
+2.1.3 OSL 6 kap 1 a § Avgift ska betalas helt eller delvis innan avskriften eller kopia av allmän Fc
+handling lämnas ut.
+2.1.4  FL 45 §   Avvisa för sent inkommet överklagande. Fc
+2.1.5  GDPR artikel 37 Utnämna dataskyddsombud för nämnden. Fc
+
+2.1.6 GDPR artikel 15-21, Helt eller delvis avslå framställan om begäran av utövande av registrerads Fc
+23 och     rättigheter.
+dataskyddslagen 5
+kap 1-3 §§
+2.1.7 GDPR artikel 35 Beslut med anledning av konsekvensbedömning avseende dataskydd Fc Fastställa konsekvensbedömning och införa behandling i
+enlighet med konsekvensbedömning
+2.1.8  GDPR artikel 33 Fastställa utredning och åtgärder med anledning av anmäld Dataskydds I samråd med enhetschef och systemförvaltare
+och 34    personuppgiftsincident samt beslut om personuppgiftsincident ska anmälas kontakt
+till tillsynsmyndighet och om registrerade ska informeras
+2.1.9  GDPR artikel 28 Ingå personuppgiftsbiträdesavtal för digitala tjänster och system samt Fc I samråd med systemförvaltare eller dataskyddskontakt
+överenskommelse om gemensamt personuppgiftsansvar.
+
 Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
-
-[Tabell 42-1](handlingar.tabeller/42-1.csv)
-
-|  | 2.1 Allmänt |  |  |  |
-| --- | --- | --- | --- | --- |
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat<br>till | Anmärkning/villkor |
-| 2.1.1 | KL 6 kap 39 § | Ärenden som är så brådskande att kommunstyrelsens avgörande inte kan<br>avvaktas. | N ordf |  |
-| 2.1.2 | OSL 6 kap<br>3-6 §§ | Utlämnande av allmän handling med förbehåll eller att inte lämna ut en<br>allmän handling. | Fc | Utlämnande av handling utan förbehåll eller sekretess lämnas<br>ut av den som har hand om handlingen. |
-| 2.1.3 | OSL 6 kap 1 a § | Avgift ska betalas helt eller delvis innan avskriften eller kopia av allmän<br>handling lämnas ut. | Fc |  |
-| 2.1.4 | FL 45 § | Avvisa för sent inkommet överklagande. | Fc |  |
-| 2.1.5 | GDPR artikel 37 | Utnämna dataskyddsombud för nämnden. | Fc |  |
-| 2.1.6 | GDPR artikel 15-21,<br>23 och<br>dataskyddslagen 5<br>kap 1-3 §§ | Helt eller delvis avslå framställan om begäran av utövande av registrerads<br>rättigheter. | Fc |  |
-| 2.1.7 | GDPR artikel 35 | Beslut med anledning av konsekvensbedömning avseende dataskydd | Fc | Fastställa konsekvensbedömning och införa behandling i<br>enlighet med konsekvensbedömning |
-| 2.1.8 | GDPR artikel 33<br>och 34 | Fastställa utredning och åtgärder med anledning av anmäld<br>personuppgiftsincident samt beslut om personuppgiftsincident ska anmälas<br>till tillsynsmyndighet och om registrerade ska informeras | Dataskydds<br>kontakt | I samråd med enhetschef och systemförvaltare |
-| 2.1.9 | GDPR artikel 28 | Ingå personuppgiftsbiträdesavtal för digitala tjänster och system samt<br>överenskommelse om gemensamt personuppgiftsansvar. | Fc | I samråd med systemförvaltare eller dataskyddskontakt |
 
 <!-- sida 43 -->
 
 Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 8 (29)
 
-[Tabell 43-1](handlingar.tabeller/43-1.csv)
+[Tabell 43-44-1](handlingar.tabeller/43-44-1.csv)
 
 | 2.1.10 | artikel 28 GDPR<br>och Hantering av<br>personuppgifter –<br>Riktlinjer,<br>Kommunfullmäktig<br>e 2024-03-05 § 33 | Ingå personuppgiftsbiträdesavtal för kommungemensamma digitala<br>tjänster och system. | Bitr. Kdir | Med kommungemensamt avses att systemet eller<br>tjänsten används av kommunens samtliga nämnder. |
 | --- | --- | --- | --- | --- |
@@ -1475,20 +1455,16 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.1.15 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Utse ombud att föra kommunens talan i mål och ärenden vid rättegång eller<br>förrättning inför domstol och andra myndigheter, med rätt att sätta annan i<br>sitt ställe | Fc |  |
 | 2.1.16 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Föra nämndens talan i mål eller ärende som överklagats till domstol | Ec | Även beslut att överklaga dom till högre instans.<br>Gäller ej beslut som fattats av nämnden. |
 | 2.1.17 | Gemensamt<br>reglemente för<br>kommunstyrel | Ta emot och underteckna delgivning | Ec |  |
+|  | sen och övriga<br>nämnder |  |  |  |
+| 2.1.18 |  | Besluta om stipendier ur skolfonder:<br>Elof Lindälvs stipendiefond<br>Aranäs AB fond för ekonomistuderande<br>Kurt Christiansson fond | Gc |  |
+| 2.1.19 |  | Föreslå stipendiater till Arvid och Hildur Anderssons fond | N ordf | Förslag till KS |
+| 2.1.20 |  | Besluta om stipendiater till<br>Ann-Sophie och F C Hallgrens fond<br>Britten och Gunnar Gagnells fond | N ordf |  |
 
 <!-- sida 44 -->
 
 Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 9 (29)
 
 [Tabell 44-1](handlingar.tabeller/44-1.csv)
-
-|  | sen och övriga<br>nämnder |  |  |  |
-| --- | --- | --- | --- | --- |
-| 2.1.18 |  | Besluta om stipendier ur skolfonder:<br>Elof Lindälvs stipendiefond<br>Aranäs AB fond för ekonomistuderande<br>Kurt Christiansson fond | Gc |  |
-| 2.1.19 |  | Föreslå stipendiater till Arvid och Hildur Anderssons fond | N ordf | Förslag till KS |
-| 2.1.20 |  | Besluta om stipendiater till<br>Ann-Sophie och F C Hallgrens fond<br>Britten och Gunnar Gagnells fond | N ordf |  |
-
-[Tabell 44-2](handlingar.tabeller/44-2.csv)
 
 |  | 2.2 Ekonomi och inköp |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -1500,18 +1476,28 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 
 <!-- sida 45 -->
 
+2.2.1 d) LOU, Policy för Ändring och tillägg av avtal.  Fc        Inköpsprocessen enligt Riktlinjer för inköp.
+inköp
+Gäller även direktupphandling.
+Riktlinjer för inköp
+2.2.1 e) LOU, Policy för Uppsägning eller hävning av avtal Fc     Inköpsprocessen enligt Riktlinjer för inköp.
+inköp
+Gäller även direktupphandling.
+Riktlinjer för inköp
+2.2.3  Nämndens beslut Beslut om förvaltningsbudget med fördelning på verksamhetsnivå. Fc
+om nämndbudget
+och Kungsbacka
+styrmodell
+2.2.4  Attestreglementet Utse beslutsattestanter och ersättare för nämndens verksamheter. Fc Anmäls till nämnden en gång per år.
+2.2.5 Riktlinjer för Undantag för nämnden från huvudregeln att leasing inte är tillåtet för Fc Krävs särskilda skäl. KS ska godkänna beslutet.
+finansverksamhet annat än fordon och arbetsmaskiner.
+avsnitt 5
+Gemensamt
+reglemente § 9
+
 Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 10 (29)
 
-[Tabell 45-1](handlingar.tabeller/45-1.csv)
-
-| 2.2.1 d) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Ändring och tillägg av avtal. | Fc | Inköpsprocessen enligt Riktlinjer för inköp.<br>Gäller även direktupphandling. |
-| --- | --- | --- | --- | --- |
-| 2.2.1 e) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Uppsägning eller hävning av avtal | Fc | Inköpsprocessen enligt Riktlinjer för inköp.<br>Gäller även direktupphandling. |
-| 2.2.3 | Nämndens beslut<br>om nämndbudget<br>och Kungsbacka<br>styrmodell | Beslut om förvaltningsbudget med fördelning på verksamhetsnivå. | Fc |  |
-| 2.2.4 | Attestreglementet | Utse beslutsattestanter och ersättare för nämndens verksamheter. | Fc | Anmäls till nämnden en gång per år. |
-| 2.2.5 | Riktlinjer för<br>finansverksamhet<br>avsnitt 5<br>Gemensamt<br>reglemente § 9 | Undantag för nämnden från huvudregeln att leasing inte är tillåtet för<br>annat än fordon och arbetsmaskiner. | Fc | Krävs särskilda skäl. KS ska godkänna beslutet. |
-
-[Tabell 45-2](handlingar.tabeller/45-2.csv)
+[Tabell 45-46-1](handlingar.tabeller/45-46-1.csv)
 
 |  | 2.3 Personal |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -1519,15 +1505,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 |  |  | Anställa |  |  |
 | 2.3.1 | LAS,<br>kollektivavtal,<br>lönestruktur mm | Chefer direkt underställda förvaltningschefen Tillsvidareanställning<br>och tidsbegränsade anställningar längre än 6 månader. | Fc | Samråd med presidiet under rekryteringsprocessen<br>och/eller innan anställning.<br>Tidsbegränsad anställning<br>upp till och med 6 månader är verkställighet.<br>Innefattar lönesättning enligt Kungsbackas lönestruktur och<br>samtliga övriga anställningsvillkor. |
 | 2.3.2 | LAS, kollektivavtal,<br>lönestruktur mm | Övriga anställda<br>Tillsvidareanställning och tidsbegränsade anställningar längre än 6<br>månader. | Närmsta<br>chef | Tidsbegränsad anställning upp till och med 6 månader är<br>verkställighet. |
-
-<!-- sida 46 -->
-
-Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 11 (29)
-
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
-
 |  |  |  |  | Innefattar lönesättning enligt Kungsbackas lönestruktur och<br>samtliga övriga anställningsvillkor. |
-| --- | --- | --- | --- | --- |
 |  |  | Avveckla |  |  |
 | 2.3.3 | LAS § 7 | Uppsägning av personliga skäl. | Fc | I samråd med HR-chef på förvaltningen och kommunens<br>förhandlingschef. |
 | 2.3.4 | LAS § 7 | Uppsägning på grund av arbetsbrist. | Fc | I samråd med HR-chef på förvaltningen. |
@@ -1538,11 +1516,15 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.3.8 | AB § 10 mom<br>1-3 | Avstängning | Fc<br>Gc<br>Vc KC | I samråd med HR-chef på förvaltningen.<br>Personal inom sitt respektive ansvarsområde. |
 | 2.3.9 | AB § 11 | Disciplinpåföljd - skriftlig varning. | Fc | I samråd med HR-chef på förvaltningen |
 
+<!-- sida 46 -->
+
+Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 11 (29)
+
 <!-- sida 47 -->
 
 Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 12 (29)
 
-[Tabell 47-1](handlingar.tabeller/47-1.csv)
+[Tabell 47-49-1](handlingar.tabeller/47-49-1.csv)
 
 |  | 2.4 Gymnasieskola och anpassad gymnasieskola |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -1556,15 +1538,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.4.7 | 7:8 GyF | Beslut om att antagning vid en senare tidpunkt och beslut om<br>inträdesprov ska användas | Rektor |  |
 | 2.4.8 | 17:11, 14, 16,<br>19, 21 SL<br>6:2 GyF | Beslut om behörighet, mottagning och antagning till individuellt program | Rektor | Gäller även beslut att ta emot elever till IMIND vid<br>Insikten när särskilda behov finns |
 | 2.4.9 | 18:5-7 SL | Beslut om att elev tillhör målgruppen för anpassad gymnasieskola | Utv.anp | Hemkommunens ansvar att utreda och besluta om<br>målgruppstillhörighet |
-
-<!-- sida 48 -->
-
-Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 13 (29)
-
-[Tabell 48-1](handlingar.tabeller/48-1.csv)
-
 | 2.4.10 | 19:29, 35-36,<br>39, 40-41 SL | Mottagande till kommunens anpassade gymnasieskola av elever utanför<br>samverkansområdet | Utv.anp |  |
-| --- | --- | --- | --- | --- |
 | 2.4.11 | 19:29 SL | Beslut om att elev som sökt anpassad gymnasieskolas individuella<br>program har förutsättningar att följa ett nationellt program | Utv.anp |  |
 | 2.4.12 | 7:13 GyF | Beslut om antagning till anpassad gymnasieskola | Utv.anp |  |
 | 2.4.13 | 16:37-40, 49-<br>49a SL<br>17:15-15a SL<br>19:30-32, 42-<br>42a SL | Beslut om mottagande enligt rätten att fullfölja utbildningen | Rektor |  |
@@ -1578,15 +1552,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.4.21 | 4:22 GyF | Beslut om antal undevisningstimmar för varje kurs/nivå, ämnesområde,<br>för gymnasiearbete i gymnasieskolan och anpassade gymnasieskolan<br>samt om hur fördelningen av undetrvisningstiden över läsåren ska göras | Rektor | Timplaner |
 | 2.4.22 | 4:19 GyF | Beslut om att inte erbjuda modersmålsundervisning | Rektor |  |
 | 2.4.23 | 17:7 SL | Beslut om utbildningsplan för introduktionsprogrammen | Gc |  |
-
-<!-- sida 49 -->
-
-Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 14 (29)
-
-[Tabell 49-1](handlingar.tabeller/49-1.csv)
-
 | 2.4.24 | 16:14 SL | Beslut om att elevs utbildning på ett nationellt program får avvika från<br>vad som annars gäller för programmet | Rektor |  |
-| --- | --- | --- | --- | --- |
 | 2.4.25 | 4:6-7a GyF | Berslut om vilka ämnen och kurser/nivåer som ska erbjudas som<br>programfördjupning och individuellt val vid gymnasieskolan och<br>anpassade gymnasieskolan | Rektor |  |
 | 2.4.26 | 4:10-10a GyF | Beslut om vilka moderna språk som ska erbjudas | Gc |  |
 | 2.4.27 | 4:13 GyF | Beslut om att anordna yrkesprogram vid gymnasieskolan eller anpassad<br>gymnasieskola trots att arbetsplatsförlagt lärande inte kan erbjudas | Fc | Samråd med lokalt programråd innan beslut fattas |
@@ -1602,11 +1568,19 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.4.37 | 3:5 PSL | Anmälan till Socialstyrelsen av händelser som har medfört eller hade<br>kunnat medföra en allvarlig vårdskada (Lex Maria) | Vc EMI |  |
 | 2.4.38 | 24:20-21 SL | Beslut om särskild undervisning i hemmet eller på annan lämplig plats | Gc | Gäller för elever som på grund av sjukdom eller<br>liknande inte kan delta i ordinarie undervisning |
 
+<!-- sida 48 -->
+
+Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 13 (29)
+
+<!-- sida 49 -->
+
+Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 14 (29)
+
 <!-- sida 50 -->
 
 Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 15 (29)
 
-[Tabell 50-1](handlingar.tabeller/50-1.csv)
+[Tabell 50-51-1](handlingar.tabeller/50-51-1.csv)
 
 |  | 2.5 Kommunal vuxenutbildning |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -1627,20 +1601,16 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.5.14 | 2:29 VuxF | Beslut om att en elev ska erbjudas skolförlagdutbildning istället för APL | Rektor | Samråd med representanter för det lokala näringslivet<br>innan beslut fattas |
 | 2.5.15 | 20:9 SL | Beslut om upphörande av utbildning om eleven saknar förutsättningar att<br>tillgodogöra sig utbildningen eller annars inte gör tillfredställande<br>framsteg | Rektor |  |
 | 2.5.16 | 20:24 SL | Beslut om att minska omfattningen av SFI-undervisningen för enskild<br>elev | Rektor |  |
+| 2.5.17 | 6:10 SL | Utreda och åtgärda kränkande behandling | Rektor |  |
+| 2.5.18 | 2:7 DL | Utreda och vidta åtgärder mot trakasserier | Rektor |  |
+| 2.5.19 | 4:7-8 SL | Utreda klagomål mot utbildningen och vidta åtgärder | Rektor |  |
+| 2.5.20 | 5:17-21 SL | Beslut om avstängning av elev | Presidium | Huvudmannens beslut |
 
 <!-- sida 51 -->
 
 Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 16 (29)
 
-[Tabell 51-1](handlingar.tabeller/51-1.csv)
-
-| 2.5.17 | 6:10 SL | Utreda och åtgärda kränkande behandling | Rektor |  |
-| --- | --- | --- | --- | --- |
-| 2.5.18 | 2:7 DL | Utreda och vidta åtgärder mot trakasserier | Rektor |  |
-| 2.5.19 | 4:7-8 SL | Utreda klagomål mot utbildningen och vidta åtgärder | Rektor |  |
-| 2.5.20 | 5:17-21 SL | Beslut om avstängning av elev | Presidium | Huvudmannens beslut |
-
-[Tabell 51-2](handlingar.tabeller/51-2.csv)
+[Tabell 51-53-1](handlingar.tabeller/51-53-1.csv)
 
 |  | 2.6 Ekonomiskt bistånd |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -1651,15 +1621,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.6.4 | 4 kap 1 § SoL<br>12 kap 1§ SoL | Beslut om avslag på bistånd till hyresskulder över 6 månader vid<br>uppenbara skäl | Ec |  |
 | 2.6.5 | 4 kap 1 § SoL<br>12 kap 1§ SoL | Beslut om bistånd till hyreskostnad utöver skälig nivå | MyH<br>Admin | Ska ske i samråd med Ec |
 | 2.6.6 | 4 kap 1 § SoL<br>12 kap 1§ SoL | Beslut om bistånd till egna förestagare som driver olönsam verksamhet | Ec |  |
-
-<!-- sida 52 -->
-
-Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 17 (29)
-
-[Tabell 52-1](handlingar.tabeller/52-1.csv)
-
 | 2.6.7 | 4 kap 1 § SoL<br>12 kap 1§ SoL | Beslut om nödvändig tandvård<br>Om max 30% av prisbasbelopp<br>Om max 50% av prisbasbelopp<br>Om över 50% av prisbasbelopp | MyH/admin<br>Ec<br>Utskott | Förtroendetandläkare ska anlitas vid belopp över 20%<br>av prisbasbelopp för behandling av nödvändig<br>tandvård.<br>Bedömning av förtroendetandläkare |
-| --- | --- | --- | --- | --- |
 | 2.6.8 | 4 kap 1 § SoL<br>12 kap 1§ SoL | Beslut om avslag på nödvändig tandvård över 50 % av prisbasbeloppet<br>efter förtroendetandläkares rekommendation till avslag | Ec |  |
 | 2.6.9 | 4 kap 1 § SoL<br>12 kap 1§ SoL | Beslut om bistånd i from av öppna insatser i egen regi | MyH |  |
 | 2.6.10 | 4 kap 1 och 2<br>§§ SoL<br>12 kap 1 och 2<br>§§ SoL | Beslut om belopp utöver gällande norm, max 50% av prisbasbelopp<br>Beslut om belopp över 50% av prisbasbelopp | Ec<br>Utskott |  |
@@ -1669,15 +1631,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.6.14 | 4 kap 4 § SoL<br>12 Kap 4 §<br>SoL | Beslut med villkor om praktik eller kompetenshöjande åtgärd | MyH/admin |  |
 | 2.6.15 | 4 kap 5 § SoL<br>12 kap 5 §<br>SoL | Beslut om nedsättning eller vägran av fortsatt försörjningsstöd | MyH/admin |  |
 | 2.6.16 | 9 kap 2 § 1-2<br>st SoL | Beslut om att återkräva ekonomiskt bistånd | MyH | Bistånd enligt 12 kap 2 § kan endast återkrävas om<br>biståndet beviljats under villkor om återbetalning. |
-
-<!-- sida 53 -->
-
-Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 18 (29)
-
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
-
 |  | 33 kap 2 §<br>SoL |  |  |  |
-| --- | --- | --- | --- | --- |
 | 2.6.17 | 9 kap 1 § SoL<br>33 kap 1 §<br>SoL | Beslut om att återkräva ekonomiskt bistånd som beviljats enligt 4 kap 1 §<br>eller 2 § SoL 12 kap §§ 1-2 som utgått obehörigen eller med för högt<br>belopp | Ec |  |
 | 2.6.18 | 9 kap 2 § SoL<br>33 kap 2 §<br>SoL<br>107 kap 5 §<br>SFB | Beslut om att underätta Försäkringskassan att nämnden ska uppbära<br>ersättning enligt SFB (förskottsanmälan) | Ec |  |
 | 2.6.19 | 9 kap 3 § SoL<br>33 kap 4-5 §§<br>SoL | Beslut om att föra talan hos förvaltningsrätt om återkrav för ekonomiskt<br>bistånd enligt 9 kap 1-2 §§ och 8 kap 1 § SoL | Vc KC |  |
@@ -1686,6 +1640,14 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.6.22 | 12 kap 10 §<br>SoL<br>6 §<br>bidragsbrottlag | Beslut om att anmäla misstänkt bidragsbrott | Ec |  |
 | 2.6.22 | 4 kap 1 § SoL<br>12 kap 1 §<br>SoL | Beslut om begravningshjälp och utgifter i omedelbar anslutning till<br>dödsfallet samt vilkor om återbetalning | MyH |  |
 | 2.6.23 | 4 kap 1 § SoL<br>12 kap 1 §<br>SoL | Beslut om tillfälligt boende i form av inter lösning eller köpt plats<br>Upp till 5 månader<br>Upp till 6 månader | MyH<br>MyH<br>Ec | Efter beslut av enhetschef återgår delegationen till<br>MyH i fem månader. Månad sex fattar Ec beslut. |
+
+<!-- sida 52 -->
+
+Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 17 (29)
+
+<!-- sida 53 -->
+
+Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 18 (29)
 
 <!-- sida 54 -->
 
@@ -1713,7 +1675,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 
 Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 20 (29)
 
-[Tabell 55-1](handlingar.tabeller/55-1.csv)
+[Tabell 55-58-1](handlingar.tabeller/55-58-1.csv)
 
 |  | 2.8 Barn och ungdom<br>Nämndens ansvar enligt SoL/FB gäller endast för ensamkommande barn och unga<br>enligt nämndens reglemente daterad 2018-01-19 (GV/2017:119) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -1722,15 +1684,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.8.2 | 11 kap 2 § SoL<br>20 kap 2 § SoL | Beslut om förlängning av utredning för viss tid | Utskott | Endast i de särskilda fall som föreskrivs i lagens<br>förarbeten |
 | 2.8.3 | 11 kap 4a § SoL<br>23 kap 1 § SoL<br>11 kap 4b § SoL<br>23 kap 2 § SoL | Beslut om uppföljning vid avslutad utredning utan beslut om insats<br>Beslut om uppföljning efter det att bistånd i form av placering i<br>familjehem eller HVB har upphört | MyH<br>Fc | Max 2 månader om barnet bedöms vara i särskilt<br>behov av nämndens stöd eller skydd men samtycke<br>saknas |
 | 2.8.4 | 4 kap 1 § SoL<br>12 kap 1 § SoL<br>4 kap 1 § SoL , 3 kap<br>6a § SoL<br>12 kap 1 § SoL -<br>4 kap 1 § SoL, 3 kap 6a<br>§ SoL, 6 kap 13a § FB | Beslut om bistånd i form av öppna insatser i egen regi<br>Beslut om bistånd i form av öppna insatser i extern regi<br>För ungdom över 15 år utan vårdnadshavare samtycke<br>För barn under 15 år med endast den ena vårdnadshavarens<br>samtycke | MyH<br>Ec<br>Fc<br>Utskott | Om det är lämpligt och ungdomen samtycker |
-
-<!-- sida 56 -->
-
-Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 21 (29)
-
-[Tabell 56-1](handlingar.tabeller/56-1.csv)
-
 |  | 12 kap 1 § SoL, 6 kap<br>13 a § FB |  |  |  |
-| --- | --- | --- | --- | --- |
 | 2.8.5 | 3 kap 6b § SoL<br>13 kap 7 § SoL | Beslut om bistånd i form av kontaktperson eller kontaktfamilj<br>Prövning av bistånd | MyH<br>Fc | För bistånd till ungdomar över 15 år krävs ej<br>vårdnadshavares samtycke |
 | 2.8.6 | 3 kap 6b SoL<br>13 kap 7 § SoL<br>6 kap 13a § FB | Beslut om bistånd i form av kontaktperson eller kontaktfamilj för barn<br>under 15 år med endas den ene vårdnadshavares samtycke | Utskott | Förutsatt samtycke från en av två vårdnadshavare<br>och att det krävs med hänsyn taget till barnets bästa |
 | 2.8.7 | 6 kap 8 § SoL<br>22 kap 13 § SoL | Övervägande om vård i annat hem än det egna fortfarande behövs | Utskott |  |
@@ -1738,15 +1692,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.8.9 | 4 kap 1 § SoL<br>12 kap 1 § SoL<br>3 kap 6b § SoL<br>13 kap 7 § andra st | Beslut om särskilt kvalificerad kontaktperson i egen regi<br>Extern regi | MyH<br>Fc |  |
 | 2.8.10 | 4 kap 1 § SoL<br>12 kap 1 § SoL | Beslut om bistånd i form av vård/vistelse i HVB, stödboende,<br>familjehem eller jourhem<br>Upp till fyra månader<br>Över fyra månader | Ec<br>Utskott | Placeringar till och med den dag man fyller 18 år och<br>från 18 år till och med 21 år. Uppföljning var sjätte<br>månad. |
 | 2.8.11 | 4 kap 1 § SoL<br>12 kap 1 § SoL | Beslut om bistånd i form av HVB eller stödboende under<br>utredningstid 1-4 månader | Ec |  |
-
-<!-- sida 57 -->
-
-Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 22 (29)
-
-[Tabell 57-1](handlingar.tabeller/57-1.csv)
-
 | 2.8.12 | 4 kap1 § SoL<br>12 kap 1 § SoL | Beslut om ekonomiskt bistånd till barn och ungdom för kostnad i<br>samband med placering i HVB, stödboende, familjehem eller<br>jourhem med upp till 15% av prisbasbeloppet<br>Utöver kommunens riktlinjer | MyH<br>Fc |  |
-| --- | --- | --- | --- | --- |
 | 2.8.13 | 4 kap 1 § soL<br>12 kap 1 § SoL | Beslut om ekonomiskt bistånd till barn och ungdomar i samband med<br>förebyggande insatser med upp till 10% av prisbasbelopp per år<br>Med upp till 40% av prisbasbelopp per år | MyH<br>Ec |  |
 | 2.8.14 | 8 kap 1 § SoL<br>31 kap 3 §, 32 kap 2-3<br>§§ | Beslut om ersättning från föräldrar vars barn är under 18 år och får<br>vård i ett annan hem än det egna | MyH |  |
 | 2.8.15 | 16 kap 18 § SFB | Beslut om framställan till Försäkringskassan om ändring av<br>betalningsmottagare av allmänt barnbidrag | Utskott |  |
@@ -1758,26 +1704,30 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 |  | 2.9 Barn och ungdom, arvoden och ersättningar |  |  |  |
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | 2.9.1 | 6 kap 11 § SoL<br>22 kap 15 § SoL | Beslut om ersättning till särskilt förordnad vårdnadshavare som<br>tidigare varit familjehemsförälder | MyH | Särskilt avtal ska ingås mellan nämnden och de nya<br>vårdnadshavarna |
-
-<!-- sida 58 -->
-
-Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 23 (29)
-
-[Tabell 58-1](handlingar.tabeller/58-1.csv)
-
 | 2.9.2 |  | Beslut om arvode och omskostnadsersättning till kontaktperson/-<br>familj enligt norm och riktlinjer samt särskilda engångsköp, högst<br>10% av prisbasbelopp per år.<br>Utöver norm och riktlinjer | MyH<br>Ec | Riktlinjer från Individ & Familjeomsorg |
-| --- | --- | --- | --- | --- |
 | 2.9.3 |  | Beslut om ersättning till familjehem (arvode och<br>omkostnadsersättning) enligt riktlinjer<br>Upp till 30% utöver riktlinje<br>Mer än 30% utöver riktlinje | MyH<br>Ec<br>Utskott | Riktlinjer från Individ & Familjeomsorg |
 | 2.9.4 |  | Beslut om ersättning till familjehem (ersättning vid lönebortfall) | MyH | Riktlinjer från Individ & Familjeomsorg |
 | 2.9.5 |  | Beslut om extra omkostnader utöver riktlinje upp till 20%<br>Över 20% utöver riktlinje | MyH<br>Ec | Riktlinjer från Individ & Familjeomsorg |
 | 2.9.6 |  | Beslut om ersättning till särskilt förordnad vårdnadshavare | MyH | Avser både ensamkommande barn och övriga<br>ärende utöver beslut enligt 6 kap 11 § SoL |
 | 2.9.7 |  | Teckna avtal gällande ersättning enligt delegationsbeslut avseende<br>kontaktperson, kontaktfamilj, familjehem, avlastningsfamilj, särskilt<br>förordnad vårdnadshavare | MyH |  |
 
+<!-- sida 56 -->
+
+Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 21 (29)
+
+<!-- sida 57 -->
+
+Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 22 (29)
+
+<!-- sida 58 -->
+
+Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 23 (29)
+
 <!-- sida 59 -->
 
 Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 24 (29)
 
-[Tabell 59-1](handlingar.tabeller/59-1.csv)
+[Tabell 59-61-1](handlingar.tabeller/59-61-1.csv)
 
 |  | 2.10 Lagen med särskilda bestämmelser om vård av<br>unga, LVU<br>Nämndens ansvar enligt LVU gäller endast för ensamkommande barn och<br>unga enligt nämndens reglemente daterar 2018-01-19 (GV/2017:119) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -1792,15 +1742,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.10.8 | 11 § 1 st LVU | Beslut om hur vården ska ordnas och var den unge ska vistas<br>under vårdtiden | Utskott | Om nämndens beslut inte kan avvaktas får<br>nämndens ordförande eller annan ledamot som<br>nämnden har förordnat besluta i frågan. |
 | 2.10.9 | 11 § 2 st LVU | Beslut om att den unge får vistas i sitt eget hem under vårdtiden | Utskott | Enligt ovan |
 | 2.10.10 | 11 § 4 st LVU | Beslut om den unges personliga förhållande i den mån beslutet<br>inte är att hänföra till 11 § 1 och 2 st LVU | Vc KC | Får inte leda till att föräldrarna fråntas allt inflytande |
-
-<!-- sida 60 -->
-
-Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 25 (29)
-
-[Tabell 60-1](handlingar.tabeller/60-1.csv)
-
 | 2.10.11 | 13 § 1 st LVU | Övervägande om vård med stöd av 2 § LVU fortfarande behövs | Utskott | Minst var sjätte månad |
-| --- | --- | --- | --- | --- |
 | 2.10.12 | 13 § 2 st LVU | Prövning om vård med stöd av 3 § LVU ska upphöra | Utskott | Minst var sjätte månad |
 | 2.10.13 | 14 § 2 st 1 p LVU | Beslut om umgängesbegränsning | Utskott | Om nämndens beslut inte kan avvaktas får<br>nämndens ordförande eller annan ledamot som<br>nämnden har förordnat besluta i frågan |
 | 2.10.14 | 14 § 2 st 1 p LVU | Beslut om upphörande av umgängesbegränsning | Utskott |  |
@@ -1819,15 +1761,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.10.27 | 31 § LVU | Beslut om hur den unges umgänge med föräldrar eller<br>vårdnadshavare ska utövas efter beslut om flyttningsförbud eller<br>tillfälligt flyttningsförbud | Utskott |  |
 | 2.10.28 | 31 b § LVU | Beslut om att ansöka om utreseförbud hos förvaltningsrätten | Utskott |  |
 | 2.10.29 | 31 c § LVU | Beslut i fråga om fortsatt utreseförbud | Utskott | En prövning ska göras minst var sjätte månad samt<br>efter begäran från den unge eller dennes<br>vårdnadshavare |
-
-<!-- sida 61 -->
-
-Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 26 (29)
-
-[Tabell 61-1](handlingar.tabeller/61-1.csv)
-
 | 2.10.30 | 31 d § LVU | Beslut om tillfälligt utreseförbud | Utskott | Om socialnämndens beslut om tillfälligt utreseförbud<br>inte kan avvaktas, får nämndens ordförande eller<br>någon annan ledamot som nämnden har förordnat<br>besluta om ett sådant förbud. Beslutet ska anmälas<br>vid nämndens nästa sammanträde. |
-| --- | --- | --- | --- | --- |
 | 2.10.31 | 31 g § 2 st LVU | Beslut om att tillfälligt utreseförbud ska upphöra | Utskott |  |
 | 2.10.32 | 31 i § LVU | Beslut om tillfälligt utreseförbud ska upphöra | Utskott |  |
 | 2.10.33 | 32 § 1 st LVU | Beslut om läkarundersökning inför ansökan enligt 4 § LVU | Vc KC | Utan samtycke endast poliklinisk under-sökning.<br>Vårdnads-havare måste informer-as före beslut om<br>läkarundersökning |
@@ -1837,6 +1771,14 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.10.37 | 10 kap 2 § SoL<br>30 kap 2 § SoL | Rätt att såsom ombud föra nämndens talan i mål och ärenden vid<br>domstol med rätt att fullfölja eller återkalla ansökan om vård enligt<br>LVU. | Fc |  |
 | 2.10.38 | 14 a § 2 st LVU | Lämna uppgifter om enskilda som vårdas enligt LVU till Statens<br>institutionsstyrelse | Fc |  |
 | 2.10.39 | 30 §<br>folkbokföringslagen | Ansöka om skyddad folkbokföring för barn som vårdas enligt 2 §<br>LVU | Fc |  |
+
+<!-- sida 60 -->
+
+Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 25 (29)
+
+<!-- sida 61 -->
+
+Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 26 (29)
 
 <!-- sida 62 -->
 
@@ -1863,7 +1805,7 @@ SoL, 34 kap 1 beslut som avbrutits och som därefter inte verkställts inom tre 
 
 Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 28 (29)
 
-[Tabell 63-1](handlingar.tabeller/63-1.csv)
+[Tabell 63-64-1](handlingar.tabeller/63-64-1.csv)
 
 |  | 2.12 Övrig handläggning av ärende |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -1873,18 +1815,14 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.12.3 | 2a kap 11 § SoL<br>29 kap 11 § SoL | Ansökan hos IVO om överflyttning av ärende | Ec |  |
 | 2.12.4 | 20 kap 8a § ÄB | Dödsboanmälan till Skatteverket | MyH/DbH |  |
 | 2.12.5 | 3 a § 3 st, 9 och 17 §§<br>LMA | Beslut om bistånd i form av dagersättning | MyH |  |
+| 2.12.6 | 3 a § 3 st 9 och 18 §§<br>LMA | Beslut om bistånd i form av särskilt bidrag | MyH |  |
+| 2.12.7 | 12 kap 42 § JB | Beslut om uppsägning av hyresavtal pga hyresskuld, störande beteende<br>eller annat brott mot överenskommelse i avtalet | Ec |  |
+| 2.12.8 | Lagen om<br>betalningsföreläggande<br>och handräckning | Beslut om ansökan hos kronofogdemyndigheten om<br>betalningsföreläggande | Vc KC |  |
+| 2.12.9 | Lagen om<br>betalningsföreläggande<br>och handräckning | Beslut om ansökan hos kronofogdemyndigheten om att avhysa<br>hyresgäst | Vc KC |  |
 
 <!-- sida 64 -->
 
 Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 29 (29)
-
-[Tabell 64-1](handlingar.tabeller/64-1.csv)
-
-| 2.12.6 | 3 a § 3 st 9 och 18 §§<br>LMA | Beslut om bistånd i form av särskilt bidrag | MyH |  |
-| --- | --- | --- | --- | --- |
-| 2.12.7 | 12 kap 42 § JB | Beslut om uppsägning av hyresavtal pga hyresskuld, störande beteende<br>eller annat brott mot överenskommelse i avtalet | Ec |  |
-| 2.12.8 | Lagen om<br>betalningsföreläggande<br>och handräckning | Beslut om ansökan hos kronofogdemyndigheten om<br>betalningsföreläggande | Vc KC |  |
-| 2.12.9 | Lagen om<br>betalningsföreläggande<br>och handräckning | Beslut om ansökan hos kronofogdemyndigheten om att avhysa<br>hyresgäst | Vc KC |  |
 
 <!-- sida 65 -->
 

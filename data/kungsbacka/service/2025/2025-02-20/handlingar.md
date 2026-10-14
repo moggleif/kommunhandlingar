@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1db334b719504a0b18a6488d/1739790353
 sha256: 1b6f37db0cce8dcb80686344fa9a2ed33a1f38aa83e4b11224617241600c83b3
 bytes: 6121243
 sidor: 148
-hamtad: 2026-10-08T02:10:41+00:00
-konverterad: 2026-10-08T02:11:12+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T09:49:56+00:00
+konverterad: 2026-10-14T09:50:29+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [82]
+figurer: [3, 11, 13, 17, 19, 21, 54, 72, 75, 76, 94, 103, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -188,8 +188,9 @@ kommunövergripande processer.
 
 [Tabell 5-1](handlingar.tabeller/5-1.csv)
 
-| Utfall (miljoner kronor)<br>Intäkter | Utfall 2022<br>1 240,2 | Utfall 2023<br>1 298,1 | Utfall 2024<br>1 402,3 |
+| Utfall (miljoner kronor) | Utfall 2022 | Utfall 2023 | Utfall 2024 |
 | --- | --- | --- | --- |
+| Intäkter | 1 240,2 | 1 298,1 | 1 402,3 |
 | Kostnader | -1 311,4 | -1 397,0 | -1 482,0 |
 | Netto | -71,2 | -98,9 | -79,7 |
 | Budget, netto | -59,1 | -78,0 | -71,1 |
@@ -197,8 +198,9 @@ kommunövergripande processer.
 
 [Tabell 5-2](handlingar.tabeller/5-2.csv)
 
-| Utfall (miljoner kronor)<br>Utgifter | Utfall 2022<br>-401,5 | Utfall 2023<br>-316,6 | Utfall 2024<br>-237,3 |
+| Utfall (miljoner kronor) | Utfall 2022 | Utfall 2023 | Utfall 2024 |
 | --- | --- | --- | --- |
+| Utgifter | -401,5 | -316,6 | -237,3 |
 | Inkomster | 0 | 0 |  |
 | Netto | -401,5 | -316,6 | -237,3 |
 
@@ -2160,10 +2162,12 @@ genomföra noggranna arbetsmiljöronder är andra åtgärder för att förebygga
 
 [Tabell 43-1](handlingar.tabeller/43-1.csv)
 
-| Namn<br>Riskobservation | 2022<br>21 | 2023<br>24 | 2024<br>10 |
+| Namn | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- |
+| Riskobservation | 21 | 24 | 10 |
 | Tillbud | 41 | 69 | 45 |
-| Olycksfall<br>Total | 82<br>144 | 83<br>176 | 73<br>128 |
+| Olycksfall | 82 | 83 | 73 |
+| Total | 144 | 176 | 128 |
 
 <!-- sida 44 -->
 
@@ -2332,6 +2336,45 @@ Nämndens årsredovisning 2024
 
 8.1 Uppföljning driftbudget
 
+Uppföljningsnivå (belopp i                                Budgetavvik
+Bokslut 2023 Budget 2024 Bokslut 2024
+mkr)                                                       else 2024
+
+```osaker-tabell
+Gemensam verksamhet Intäkt       28,0       29,4      30,0       0,6
+                    Kostnad      -39,2     -41,8     -40,4       1,4
+                    Netto        -11,2     -12,4     -10,4       2,0
+Digitalt Center     Intäkt       70,9       84,7      83,7      -1,0
+
+                    Kostnad      -78,9     -92,1     -87,9       4,2
+                    Netto         -7,9      -7,4      -4,2       3,2
+PF & KS             Intäkt       43,7       48,1      47,2      -0,9
+
+                    Kostnad      -66,9     -69,6     -68,5       1,1
+                    Netto        -23,2     -21,5     -21,3       0,2
+
+Inköp               Intäkt       30,1       31,0      33,1       2,1
+                    Kostnad      -36,5     -38,3     -37,0       1,3
+                    Netto         -6,4      -7,3      -3,9       3,4
+
+Måltider            Intäkt       226,7     240,3     238,7      -1,6
+                    Kostnad     -245,2    -247,0    -249,5      -2,5
+                    Netto        -18,5      -6,7     -10,7      -4,0
+
+Lokalvård           Intäkt       126,7     135,9     137,3       1,4
+                    Kostnad     -129,2    -136,2    -134,0       2,2
+
+                    Netto         -2,4      -0,3      3,3        3,6
+Fastigheter         Intäkt       808,5     886,6     894,0       7,4
+                    Kostnad     -816,1    -879,3    -903,4     -24,1
+
+                    Netto         -7,6      7,3       -9,4     -16,7
+Lokalförsörjning    Intäkt        2,3       1,8       2,9        1,1
+
+                    Kostnad      -24,1     -24,5     -26,0      -1,5
+                    Netto        -21,8     -22,8     -23,1      -0,3
+```
+
 Tabellen återges i den organisationsstruktur som budget 2024 fördelades på, dvs den organisation som gällde fram till 2024-09-01
 
 Kommentarer till verksamheternas budgetavvikelser
@@ -2342,34 +2385,6 @@ Gemensam verksamhet. Det är lägre personalkostnader hos ett antal enheter samt
 förvaltningsgemensamma poster som förklarar avvikelsen.
 
 45
-
-[Tabell 47-1](handlingar.tabeller/47-1.csv)
-
-| Uppföljningsnivå (belopp i<br>mkr)<br>Gemensam verksamhet | Intäkt | Bokslut 2023<br>28,0 | Budget 2024<br>29,4 | Bokslut 2024<br>30,0 | Budgetavvik<br>else 2024<br>0,6 |
-| --- | --- | --- | --- | --- | --- |
-|  | Kostnad | -39,2 | -41,8 | -40,4 | 1,4 |
-|  | Netto | -11,2 | -12,4 | -10,4 | 2,0 |
-| Digitalt Center | Intäkt | 70,9 | 84,7 | 83,7 | -1,0 |
-|  | Kostnad | -78,9 | -92,1 | -87,9 | 4,2 |
-|  | Netto | -7,9 | -7,4 | -4,2 | 3,2 |
-| PF & KS | Intäkt | 43,7 | 48,1 | 47,2 | -0,9 |
-|  | Kostnad | -66,9 | -69,6 | -68,5 | 1,1 |
-|  | Netto | -23,2 | -21,5 | -21,3 | 0,2 |
-| Inköp | Intäkt | 30,1 | 31,0 | 33,1 | 2,1 |
-|  | Kostnad | -36,5 | -38,3 | -37,0 | 1,3 |
-|  | Netto | -6,4 | -7,3 | -3,9 | 3,4 |
-| Måltider | Intäkt | 226,7 | 240,3 | 238,7 | -1,6 |
-|  | Kostnad | -245,2 | -247,0 | -249,5 | -2,5 |
-|  | Netto | -18,5 | -6,7 | -10,7 | -4,0 |
-| Lokalvård | Intäkt | 126,7 | 135,9 | 137,3 | 1,4 |
-|  | Kostnad | -129,2 | -136,2 | -134,0 | 2,2 |
-|  | Netto | -2,4 | -0,3 | 3,3 | 3,6 |
-| Fastigheter | Intäkt | 808,5 | 886,6 | 894,0 | 7,4 |
-|  | Kostnad | -816,1 | -879,3 | -903,4 | -24,1 |
-|  | Netto | -7,6 | 7,3 | -9,4 | -16,7 |
-| Lokalförsörjning | Intäkt | 2,3 | 1,8 | 2,9 | 1,1 |
-|  | Kostnad | -24,1 | -24,5 | -26,0 | -1,5 |
-|  | Netto | -21,8 | -22,8 | -23,1 | -0,3 |
 
 <!-- sida 48 -->
 
@@ -2534,7 +2549,7 @@ Resultatområde Service
 | SE Fastigheter | -6,6 | -17,2 | -17,1 |
 | Totalt | -7,4 | -14,9 | -8,6 |
 
-[Tabell 50-2](handlingar.tabeller/50-2.csv)
+[Tabell 50-51-2](handlingar.tabeller/50-51-2.csv)
 
 | (Belopp i mkr) | Bokslut 2023 | Budget 2024 | Bokslut 2024 | Avvikelse<br>2024 |
 | --- | --- | --- | --- | --- |
@@ -2542,6 +2557,16 @@ Resultatområde Service
 | Exploatering gata/park |  |  |  |  |
 | Lokalinvesteringar |  |  |  |  |
 | Löpande investeringar | -34,1 | -27,5 | -18,5 | 9,0 |
+| Medfinansiering |  |  |  |  |
+| Reinvesteringar |  |  |  |  |
+| Övriga investeringar |  | -2,0 |  | 2,0 |
+| Finansiell leasing |  |  |  |  |
+| Summa investeringsutgifter | -34,1 | -29,5 | -18,5 | 11,0 |
+| INVESTERINGSINKOMSTER |  |  |  |  |
+| Avgiftsfinansierad verksamhet<br>- Anslutningsavgifter |  |  |  |  |
+| Övriga investeringar - Statliga<br>investeringsbidrag |  |  |  |  |
+| Summa investeringsinkomster |  |  |  |  |
+| Summa nettoinvesteringar | -34,1 | -29,5 | -18,5 | 11,0 |
 
 <!-- sida 51 -->
 
@@ -2571,21 +2596,7 @@ Resultatområde Fastighet
 
 49
 
-[Tabell 51-1](handlingar.tabeller/51-1.csv)
-
-| Medfinansiering |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Reinvesteringar |  |  |  |  |
-| Övriga investeringar |  | -2,0 |  | 2,0 |
-| Finansiell leasing |  |  |  |  |
-| Summa investeringsutgifter | -34,1 | -29,5 | -18,5 | 11,0 |
-| INVESTERINGSINKOMSTER |  |  |  |  |
-| Avgiftsfinansierad verksamhet<br>- Anslutningsavgifter |  |  |  |  |
-| Övriga investeringar - Statliga<br>investeringsbidrag |  |  |  |  |
-| Summa investeringsinkomster |  |  |  |  |
-| Summa nettoinvesteringar | -34,1 | -29,5 | -18,5 | 11,0 |
-
-[Tabell 51-2](handlingar.tabeller/51-2.csv)
+[Tabell 51-52-1](handlingar.tabeller/51-52-1.csv)
 
 | (Belopp i mnkr) | Bokslut 2023 | Budget 2024 | Bokslut 2024 | Avvikelse<br>2024 |
 | --- | --- | --- | --- | --- |
@@ -2595,6 +2606,12 @@ Resultatområde Fastighet
 | Övriga investeringar - Utgifter | -34,9 | -21,7 | -9,1 | 12,6 |
 | Finansiell leasing - Utgifter |  |  |  |  |
 | Utgifter för reinvesteringar etc. | -48,3 | -50,0 | -49,6 | 0,4 |
+| Summa investeringsutgifter | -282,4 | -402,6 | -218,9 | 183,7 |
+| INVESTERINGSINKOMSTER |  |  |  |  |
+| Avgiftsfinansierad verksamhet -<br>Anslutningsavgifter |  |  |  |  |
+| Övriga investeringar - Statliga<br>investeringsbidrag |  |  |  |  |
+| Summa investeringsinkomster |  |  |  |  |
+| Summa nettoinvesteringar | -282,4 | -402,6 | -218,9 | 183,7 |
 
 <!-- sida 52 -->
 
@@ -2628,23 +2645,26 @@ Specifikation projekt (belopp i mkr)
 
 50
 
-[Tabell 52-1](handlingar.tabeller/52-1.csv)
-
-| Summa investeringsutgifter | -282,4 | -402,6 | -218,9 | 183,7 |
-| --- | --- | --- | --- | --- |
-| INVESTERINGSINKOMSTER |  |  |  |  |
-| Avgiftsfinansierad verksamhet -<br>Anslutningsavgifter |  |  |  |  |
-| Övriga investeringar - Statliga<br>investeringsbidrag |  |  |  |  |
-| Summa investeringsinkomster |  |  |  |  |
-| Summa nettoinvesteringar | -282,4 | -402,6 | -218,9 | 183,7 |
-
-[Tabell 52-2](handlingar.tabeller/52-2.csv)
+[Tabell 52-53-1](handlingar.tabeller/52-53-1.csv)
 
 | Projnr | Text | Total<br>budget | Total<br>prognos | Utfall<br>totalt tom<br>dec 2024 | Budget<br>2024 | Bokslut<br>2024 | Avvik.<br>2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8979/<br>8982 | Anneberg<br>samverkanhus | -383,3 | -383,3 | -1,5 | 0,0 | 0,0 | 0,0 |
 | 8972/<br>8973 | Duvehed<br>omlastningsstation | -76,3 | -58,6 | -54,1 | -62,7 | -40,5 | 22,2 |
 | 4907/<br>4908 | Iseråsskolan ny- och<br>ombyggnad och<br>idrottshall | -199,9 | -199,9 | -6,0 | -23,4 | -5,2 | 18,2 |
+| 8967/<br>8968 | Klockaregårdens<br>förskola | -88,6 | -91,8 | -84,4 | -18,1 | -13,9 | 4,2 |
+| 4932/<br>4333 | Klovsten<br>Räddningstjänsten | -118,0 | -128,0 | -0,7 | -11,0 | -0,6 | 10,4 |
+| 4937/<br>4938 | Liljans skola och<br>idrottssal | -248,3 | -251,8 | -0,7 | 0,0 | -0,7 | -0,7 |
+| 4939/<br>4940 | Ombyggnad<br>Stadshuset hus B | -44,2 | -44,2 | -0,8 | 0,0 | -0,8 | -0,8 |
+| 4914/<br>4915 | Skårby förskola | -101,4 | -101,2 | -2,4 | 0,0 | 0,0 | 0,0 |
+| 8961/<br>8962 | Skårbyskolan<br>utbildningslokaler &<br>idrottshall | -266,4 | -259,7 | -238,0 | -30,1 | -1,6 | 28,5 |
+| 8978/<br>8983 | Stockalids förskola | -71,8 | -71,0 | -61,8 | -52,5 | -42,5 | 10,0 |
+| 8944/<br>8945 | Vallda BmSS (boende<br>med särskild service) | -42,6 | -42,6 | -19,7 | -33,7 | -14,6 | 19,1 |
+| 4943/<br>4944 | Åsa grundskola | -227,2 | -227,2 | 0,0 | 0,0 | 0,0 | 0,0 |
+| 4920/<br>4921 | Äpplegårdens förskola | -81,8 | -81,8 | -3,5 | 0,0 | -0,5 | -0,5 |
+| 4912/<br>4913 | Ölmevalla skola och<br>idrottshall | -303,6 | -1,1 | -1,1 | 0,0 | 0,0 | 0,0 |
+| 4910/<br>4911 | Gräskärr förskola | -106,8 | -106,8 | -0,8 | 0,0 | 0,0 | 0,0 |
+| Summa projekt |  | -2 360,2 | -2 049,0 | -475,5 | -231,5 | -120,9 | 110,6 |
 
 <!-- sida 53 -->
 
@@ -2666,23 +2686,6 @@ förskola, Äppelgårdens förskola och Gräskärrs förskola.
 dessa fall på grund av utmaningar med detaljplaner.
 
 51
-
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
-
-| 8967/<br>8968 | Klockaregårdens<br>förskola | -88,6 | -91,8 | -84,4 | -18,1 | -13,9 | 4,2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 4932/<br>4333 | Klovsten<br>Räddningstjänsten | -118,0 | -128,0 | -0,7 | -11,0 | -0,6 | 10,4 |
-| 4937/<br>4938 | Liljans skola och<br>idrottssal | -248,3 | -251,8 | -0,7 | 0,0 | -0,7 | -0,7 |
-| 4939/<br>4940 | Ombyggnad<br>Stadshuset hus B | -44,2 | -44,2 | -0,8 | 0,0 | -0,8 | -0,8 |
-| 4914/<br>4915 | Skårby förskola | -101,4 | -101,2 | -2,4 | 0,0 | 0,0 | 0,0 |
-| 8961/<br>8962 | Skårbyskolan<br>utbildningslokaler &<br>idrottshall | -266,4 | -259,7 | -238,0 | -30,1 | -1,6 | 28,5 |
-| 8978/<br>8983 | Stockalids förskola | -71,8 | -71,0 | -61,8 | -52,5 | -42,5 | 10,0 |
-| 8944/<br>8945 | Vallda BmSS (boende<br>med särskild service) | -42,6 | -42,6 | -19,7 | -33,7 | -14,6 | 19,1 |
-| 4943/<br>4944 | Åsa grundskola | -227,2 | -227,2 | 0,0 | 0,0 | 0,0 | 0,0 |
-| 4920/<br>4921 | Äpplegårdens förskola | -81,8 | -81,8 | -3,5 | 0,0 | -0,5 | -0,5 |
-| 4912/<br>4913 | Ölmevalla skola och<br>idrottshall | -303,6 | -1,1 | -1,1 | 0,0 | 0,0 | 0,0 |
-| 4910/<br>4911 | Gräskärr förskola | -106,8 | -106,8 | -0,8 | 0,0 | 0,0 | 0,0 |
-| Summa projekt |  | -2 360,2 | -2 049,0 | -475,5 | -231,5 | -120,9 | 110,6 |
 
 <!-- sida 54 -->
 
@@ -4567,7 +4570,7 @@ Uppföljningsrapport intern kontroll 2024
 |  | 7 Risk att vi brister i följsamhet av upphandlat Ja<br>avtal. |
 |  | 8 Risk för bristande uppfyllnad av kommunens Ja<br>hållbarhetskrav för inköp. |
 
-[Tabell 95-2](handlingar.tabeller/95-2.csv)
+[Tabell 95-97-2](handlingar.tabeller/95-97-2.csv)
 
 | Kategorier | Risker Anledning till att risk ej tas till plan |
 | --- | --- |
@@ -4575,6 +4578,17 @@ Uppföljningsrapport intern kontroll 2024
 |  | Kommunövergrip Risken bedöms inte vara relevant att granska på Service.<br>ande risk:<br>Övertidsersättnin<br>g betalas ut på fel<br>grund |
 | Ekonomi | Kommunövergrip Risken tas omhand genom rutiner och riktad information och<br>ande risk: utbildning.<br>Grundläggande<br>redovisning<br>kvalitetsbrister |
 |  | Kommunövergrip Risken tas omhand bl a genom arbetet med kommunbudgetens<br>ande risk: direktiv innovation och omställning till nya arbetssätt.<br>Resurser till<br>innovation,<br>digitalisering och<br>omställning till<br>nya arbetssätt för<br>framtidens<br>välfärd. |
+| Informations<br>säkerhet,<br>administratio<br>n, inköp... | Kommunövergrip Risken tas omhand genom förebyggande arbete främst information<br>ande risk: Inköp och utbildning.<br>(granskning<br>begränsas till<br>belopp över<br>100.000:-) |
+|  | Kommunövergrip Risken tas omhand genom rutiner för informationsklassning av<br>ande risk: verksamhetssystem.<br>informationssäke<br>rhet; skydd av<br>information mot<br>obehörig tillgång |
+| Verksamhet | Risk för att vi inte Risken tas omhand genom en planering för att omhänderta ökade<br>lever upp till lagkrav 2025 och 2027.<br>ökade lagkrav<br>kopplat till<br>klimatdeklaration<br>en. |
+|  | Risk för att Risken tas omhand genom arbete med förebyggande rutiner.<br>främmande<br>ämnen eller<br>föremål läggs i<br>maten vid<br>tillagning eller<br>servering på<br>kommunens<br>skolor. |
+|  | Risk att Risken tas omhand genom rutiner och kontroller av förpackningar.<br>innehållet<br>förändras i<br>upphandlade<br>matvaror. |
+|  | Risk att Risken tas omhand genom låsta dörrar och inträde med<br>obehöriga passerkort, och att vi möter upp och släpper ut besökare.<br>personer finns i<br>våra lokaler som<br>tar del av eller<br>förstör<br>information, eller<br>på annat sätt<br>saboterar |
+|  | Risk att vi inte Risken tas omhand genom ett pågående kommunövergripande<br>hanterar arbete med syfte att förenkla och säkerställa att vi efterlever GDPR<br>personuppgifter vad gäller bild och film.<br>enligt GDPR vad<br>gäller bild och<br>film. |
+|  | Risk att vi inte Risken tas omhand genom en tydligare gemensam planering och<br>omhändertar prioritering.<br>personuppgifter<br>på rätt sätt<br>eftersom<br>förvaltningen har<br>stora behov av<br>stöd inom<br>dataskyddsarbete<br>t. |
+|  | Risk att vi lämnar Risken tas omhand genom rutiner och stöd för hur ett utlämnande<br>ut eller publicerar ska göras. Det finns ingen spårbarhet av utlämnanden, vilket gör<br>handlingar med att granskning av utlämnande inte är möjlig.<br>sekretess. |
+|  | Risk för brott mot Risken tas omhand genom krav som ställs i upphandlingar (över<br>sanktionsförordni tröskelvärdet) på bekräftelse i anbudet att varken anbudsgivaren<br>ngarna med eller det tilltänkta kontraktsförhållandet omfattas av<br>anledning av sanktionsförordningarna. Det är genomfört en helomfattande<br>Rysslands kontroll för 2022 av kommunens samtliga 1100 avtalsleverantörer,<br>invation av och ytterligare kontroll för 2024 Q3 är planerad.<br>Ukraina. |
+|  | Risk att Risken tas omhand genom ett pågående arbete baserat på den<br>strategier, utredning om befintlig finansieringsmodell som är genomförd.<br>policies och mål<br>kopplat till<br>kommunens<br>inköp åsidosätts i<br>takt med ökad<br>användning av<br>inköpscentraler. |
 
 <!-- sida 96 -->
 
@@ -4583,33 +4597,12 @@ Uppföljningsrapport intern kontroll 2024
 
 8
 
-[Tabell 96-1](handlingar.tabeller/96-1.csv)
-
-| Kategorier | Risker Anledning till att risk ej tas till plan |
-| --- | --- |
-| Informations<br>säkerhet,<br>administratio<br>n, inköp... | Kommunövergrip Risken tas omhand genom förebyggande arbete främst information<br>ande risk: Inköp och utbildning.<br>(granskning<br>begränsas till<br>belopp över<br>100.000:-) |
-|  | Kommunövergrip Risken tas omhand genom rutiner för informationsklassning av<br>ande risk: verksamhetssystem.<br>informationssäke<br>rhet; skydd av<br>information mot<br>obehörig tillgång |
-| Verksamhet | Risk för att vi inte Risken tas omhand genom en planering för att omhänderta ökade<br>lever upp till lagkrav 2025 och 2027.<br>ökade lagkrav<br>kopplat till<br>klimatdeklaration<br>en. |
-|  | Risk för att Risken tas omhand genom arbete med förebyggande rutiner.<br>främmande<br>ämnen eller<br>föremål läggs i<br>maten vid<br>tillagning eller<br>servering på<br>kommunens<br>skolor. |
-|  | Risk att Risken tas omhand genom rutiner och kontroller av förpackningar.<br>innehållet<br>förändras i<br>upphandlade<br>matvaror. |
-|  | Risk att Risken tas omhand genom låsta dörrar och inträde med<br>obehöriga passerkort, och att vi möter upp och släpper ut besökare.<br>personer finns i<br>våra lokaler som<br>tar del av eller<br>förstör<br>information, eller<br>på annat sätt<br>saboterar |
-|  | Risk att vi inte Risken tas omhand genom ett pågående kommunövergripande<br>hanterar arbete med syfte att förenkla och säkerställa att vi efterlever GDPR<br>personuppgifter vad gäller bild och film.<br>enligt GDPR vad<br>gäller bild och<br>film. |
-
 <!-- sida 97 -->
 
 Nämnden för Service                              Kungsbacka kommun
 Uppföljningsrapport intern kontroll 2024
 
 9
-
-[Tabell 97-1](handlingar.tabeller/97-1.csv)
-
-| Kategorier | Risker Anledning till att risk ej tas till plan |
-| --- | --- |
-|  | Risk att vi inte Risken tas omhand genom en tydligare gemensam planering och<br>omhändertar prioritering.<br>personuppgifter<br>på rätt sätt<br>eftersom<br>förvaltningen har<br>stora behov av<br>stöd inom<br>dataskyddsarbete<br>t. |
-|  | Risk att vi lämnar Risken tas omhand genom rutiner och stöd för hur ett utlämnande<br>ut eller publicerar ska göras. Det finns ingen spårbarhet av utlämnanden, vilket gör<br>handlingar med att granskning av utlämnande inte är möjlig.<br>sekretess. |
-|  | Risk för brott mot Risken tas omhand genom krav som ställs i upphandlingar (över<br>sanktionsförordni tröskelvärdet) på bekräftelse i anbudet att varken anbudsgivaren<br>ngarna med eller det tilltänkta kontraktsförhållandet omfattas av<br>anledning av sanktionsförordningarna. Det är genomfört en helomfattande<br>Rysslands kontroll för 2022 av kommunens samtliga 1100 avtalsleverantörer,<br>invation av och ytterligare kontroll för 2024 Q3 är planerad.<br>Ukraina. |
-|  | Risk att Risken tas omhand genom ett pågående arbete baserat på den<br>strategier, utredning om befintlig finansieringsmodell som är genomförd.<br>policies och mål<br>kopplat till<br>kommunens<br>inköp åsidosätts i<br>takt med ökad<br>användning av<br>inköpscentraler. |
 
 <!-- sida 98 -->
 
@@ -4834,11 +4827,16 @@ hållbarhetskraven än mer i rutinbeskrivningen. Det blir en åtgärd som följs
 
 13
 
-[Tabell 101-1](handlingar.tabeller/101-1.csv)
+[Tabell 101-102-1](handlingar.tabeller/101-102-1.csv)
 
 | Risker | Enhet Granskningsaktiviteter | Åtgärder |
 | --- | --- | --- |
 | Kommunövergripande<br>risk: Brister vid<br>referenstagning | Kännedom och<br>följsamhet till rutiner för<br>Service<br>rekrytering och<br>referenstagning | Information/utbildning<br>referenstagning |
+| Risk för dataintrång i<br>kommunens nätverk och<br>system. | Granska rutiner för<br>Service säkerhetskopiering och<br>återställning | Säkerställ att rutinen är<br>uppdaterad |
+| Kommunövergripande<br>risk - Risk för korruption | Granskning av om<br>förebyggande arbete och<br>relevanta kontroller mot<br>Service<br>korruption och<br>välfärdsbrottslighet<br>fungerar rimligt väl | Utveckla strukturen för<br>avtalsuppföljning |
+|  |  | Undersöka riskområden<br>inom Service<br>verksamheter |
+| Risk att vi brister i<br>följsamhet av upphandlat<br>avtal. | Granskning med hjälp av<br>Service BI om vi har följt<br>rangordningen | Dialog i avtalsgrupp |
+| Risk för bristande<br>uppfyllnad av<br>kommunens<br>hållbarhetskrav för inköp. | Granskning av avtal som<br>inte innehåller<br>hållbarhetskrav i nivå<br>Service med kommunens<br>ambitioner.<br>Granskningsperiod jan<br>2024-okt 2024. | Uppdatera<br>rutinbeskrivningen |
 
 <!-- sida 102 -->
 
@@ -4876,16 +4874,6 @@ Granskningen syftade till att komplettera en tidigare fördjupad granskning (202
 med intern kontroll för att motverka, upptäcka och förhindra välfärdsbrott i verksamheten. Granskningen 2024
 
 14
-
-[Tabell 102-1](handlingar.tabeller/102-1.csv)
-
-| Risker | Enhet Granskningsaktiviteter | Åtgärder |
-| --- | --- | --- |
-| Risk för dataintrång i<br>kommunens nätverk och<br>system. | Granska rutiner för<br>Service säkerhetskopiering och<br>återställning | Säkerställ att rutinen är<br>uppdaterad |
-| Kommunövergripande<br>risk - Risk för korruption | Granskning av om<br>förebyggande arbete och<br>relevanta kontroller mot<br>Service<br>korruption och<br>välfärdsbrottslighet<br>fungerar rimligt väl | Utveckla strukturen för<br>avtalsuppföljning |
-|  |  | Undersöka riskområden<br>inom Service<br>verksamheter |
-| Risk att vi brister i<br>följsamhet av upphandlat<br>avtal. | Granskning med hjälp av<br>Service BI om vi har följt<br>rangordningen | Dialog i avtalsgrupp |
-| Risk för bristande<br>uppfyllnad av<br>kommunens<br>hållbarhetskrav för inköp. | Granskning av avtal som<br>inte innehåller<br>hållbarhetskrav i nivå<br>Service med kommunens<br>ambitioner.<br>Granskningsperiod jan<br>2024-okt 2024. | Uppdatera<br>rutinbeskrivningen |
 
 <!-- sida 103 -->
 
@@ -5144,7 +5132,7 @@ Nämndens självskattning
 
 21
 
-[Tabell 109-1](handlingar.tabeller/109-1.csv)
+[Tabell 109-110-1](handlingar.tabeller/109-110-1.csv)
 
 | Område | Frågor Svar, Antal 2024 |
 | --- | --- |
@@ -5155,18 +5143,6 @@ Nämndens självskattning
 | Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |
 |  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |
 |  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
-
-<!-- sida 110 -->
-
-Nämnden för Service                              Kungsbacka kommun
-Uppföljningsrapport intern kontroll 2024
-
-22
-
-[Tabell 110-1](handlingar.tabeller/110-1.csv)
-
-| Område | Frågor Svar, Antal 2024 |
-| --- | --- |
 |  | Ledningen informeras om fel och brister i<br>organisationen |
 |  | Ansvar och befogenheter är tydliggjorda |
 |  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |
@@ -5180,6 +5156,13 @@ Uppföljningsrapport intern kontroll 2024
 |  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
 | Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
 |  | Vi har en fungerande introduktion av nya<br>medarbetare |
+
+<!-- sida 110 -->
+
+Nämnden för Service                              Kungsbacka kommun
+Uppföljningsrapport intern kontroll 2024
+
+22
 
 <!-- sida 111 -->
 

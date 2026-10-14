@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.67d1139319329a2c36d45906/1732030634
 sha256: ce457bac21684d2bf49637ca5bb2ffa1557a59bb3f632eaf4ee543ba3cc1e332
 bytes: 520420
 sidor: 29
-hamtad: 2026-10-08T02:19:44+00:00
-konverterad: 2026-10-08T02:19:52+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:58:05+00:00
+konverterad: 2026-10-14T09:58:12+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -392,11 +392,13 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 251F6F199B676325EE236898D7776E75A18F3803E0
 Transaktionsidentitet: AA5FA5A6791095E96DBCE46776D65D9E50FE187235
 
-[Tabell 8-1](protokoll.tabeller/8-1.csv)
+[Tabell 8-9-1](protokoll.tabeller/8-9-1.csv)
 
 | Nr | Lagrum | Delegeringens<br>omfattning | Delegerat<br>till | Med rätt<br>att<br>vidare-<br>delegera |
 | --- | --- | --- | --- | --- |
 | 6.1.1 | Kommunens<br>tillämpningsföreskrifter för<br>upphandlingspolicy<br>Upphandlingslagstiftningen<br>Kommunens policy och<br>riktlinjer | Beslut om upphandling<br>inom nämndens<br>verksamhetsområde.<br>Beslutanderätten innefattar<br>även att godkänna<br>tilldelning och underteckna<br>avtalet. | FC | X |
+|  |  | Beslutanderätten<br>innefattar:<br>- att inleda upphandling<br>och vilket förfarande som<br>ska användas,<br>- tilldelning av kontrakt<br>eller återtagande av<br>tilldelning<br>- underteckna avtal efter att<br>avtalsspärren löpt ut<br>alternativt efter att domstol<br>avslagit ansökan om<br>överprövning<br>- avbryta upphandling och<br>återupptagande av<br>avbruten upphandling<br>- ändring och tillägg till<br>avtal<br>- utkrävande av vite enligt<br>avtal<br>- uppsägning eller hävning<br>av avtal |  |  |
+|  |  | Beslut om att, inom ramen<br>för tilldelad budget, ingå<br>avtal som inte omfattas av<br>upphandlingslagstiftningen | FC | X |
 
 <!-- sida 9 -->
 
@@ -421,12 +423,6 @@ Samtliga chefer inom förvaltningen
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 251F6F199B676325EE236898D7776E75A18F3803E0
 Transaktionsidentitet: AA5FA5A6791095E96DBCE46776D65D9E50FE187235
-
-[Tabell 9-1](protokoll.tabeller/9-1.csv)
-
-|  |  | Beslutanderätten<br>innefattar:<br>- att inleda upphandling<br>och vilket förfarande som<br>ska användas,<br>- tilldelning av kontrakt<br>eller återtagande av<br>tilldelning<br>- underteckna avtal efter att<br>avtalsspärren löpt ut<br>alternativt efter att domstol<br>avslagit ansökan om<br>överprövning<br>- avbryta upphandling och<br>återupptagande av<br>avbruten upphandling<br>- ändring och tillägg till<br>avtal<br>- utkrävande av vite enligt<br>avtal<br>- uppsägning eller hävning<br>av avtal |  |  |
-| --- | --- | --- | --- | --- |
-|  |  | Beslut om att, inom ramen<br>för tilldelad budget, ingå<br>avtal som inte omfattas av<br>upphandlingslagstiftningen | FC | X |
 
 <!-- sida 10 -->
 

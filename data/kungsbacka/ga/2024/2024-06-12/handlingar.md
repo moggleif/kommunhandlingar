@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5f97773918fa403c6cd16717/1717425329
 sha256: 87af454bce6d5241287f6db041f81b5ed423c012d85aec28589bb175810f9509
 bytes: 8011604
 sidor: 312
-hamtad: 2026-10-07T22:14:07+00:00
-konverterad: 2026-10-07T22:14:49+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T06:28:44+00:00
+konverterad: 2026-10-14T06:29:20+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tom, ok, tom, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [44]
+figurer: [1, 4, 10, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 93, 101, 104, 109, 110, 123, 124, 125, 128, 134, 135, 156, 169, 170, 171, 272, 309]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1173,6 +1173,36 @@ Totalt ingår 38 ungdomar som inte har kunnat räknas bort på områdesnivå i e
 Göteborg med mycket begränsad svarsfrekvens.
 
 Tabell 3. Skola, kön och kommunområde i enkätsvaren jämfört med elevurvalet, årskurs 8
+Differens
+Urvalet Enkätsvaren (procentenheter)
+
+```osaker-tabell
+Skola  Kommunal skola          86       86      -0,8
+       Fristående skola        14       14       0,8
+
+       Summa procent          100      100      100
+```
+
+Antal personer        1 282    1 0041
+
+```osaker-tabell
+Kön    Killar                  52       51       -1
+       Tjejer                  48       49        1
+
+       Summa procent          100      100
+       Antal personer        1 282     9832
+
+Kommun- Anneberg, Älvsåker      6       6         0
+område Fjärås med omland3      13       11       -2
+       Frillesås, Åsa, Ölmanäs 12       13        1
+       Kungsbacka stad4        23       24        1
+       Onsala                  22       22        0
+       Särö, Kullavik (Släp)   12       12        0
+       Vallda                  10       9        -1
+       Annan kommun än Kungsbacka 2     3         1
+       Summa procent          100      100
+       Antal personer        1 275     9825
+```
 
 Kommentarer:
 1 Exkluderar 12 elever på ”annan” eller okänd skola.
@@ -1183,34 +1213,6 @@ Kommentarer:
 5 Exkluderar 34 svarspersoner utan känt kommunområde/kommun.
 
 24
-
-[Tabell 24-1](handlingar.tabeller/24-1.csv)
-
-|  |  | Urvalet | Enkätsvaren | Differens<br>(procentenheter) |
-| --- | --- | --- | --- | --- |
-| Skola | Kommunal skola | 86 | 86 | -0,8 |
-|  | Fristående skola | 14 | 14 | 0,8 |
-|  |  |  |  |  |
-|  | Summa procent | 100 | 100 | 100 |
-|  | Antal personer | 1 282 | 1 0041 |  |
-|  |  |  |  |  |
-| Kön | Killar | 52 | 51 | -1 |
-|  | Tjejer | 48 | 49 | 1 |
-|  |  |  |  |  |
-|  | Summa procent | 100 | 100 |  |
-|  | Antal personer | 1 282 | 9832 |  |
-|  |  |  |  |  |
-| Kommun- | Anneberg, Älvsåker | 6 | 6 | 0 |
-| område | Fjärås med omland3 | 13 | 11 | -2 |
-|  | Frillesås, Åsa, Ölmanäs | 12 | 13 | 1 |
-|  | Kungsbacka stad4 | 23 | 24 | 1 |
-|  | Onsala | 22 | 22 | 0 |
-|  | Särö, Kullavik (Släp) | 12 | 12 | 0 |
-|  | Vallda | 10 | 9 | -1 |
-|  | Annan kommun än Kungsbacka | 2 | 3 | 1 |
-|  |  |  |  |  |
-|  | Summa procent | 100 | 100 |  |
-|  | Antal personer | 1 275 | 9825 |  |
 
 <!-- sida 25 -->
 
@@ -5301,16 +5303,20 @@ andra studier via kommunal vuxenutbildning.
 Tabell 1. Antal elever i studier 2019-2023
 
 Tabell 2: Antal elever i studier 2023
+Sfi          Grundläggande      Gymnasial
+
+Kvinnor Män     Kvinnor Män      Kvinnor Män
+2021  505              306              2076
+58 %  42 %       76 % 24 %       67 %  33 %
+Kvinnor Män     Kvinnor Män      Kvinnor Män
+2022  417              308              1781
+63 %  37 %       76 % 24 %       68 %  32 %
+
+Kvinnor Män     Kvinnor Män      Kvinnor Män
+2023  551              351              1675
+69 %  31 %       77 % 23 %       69 %  31 %
 
 4
-
-[Tabell 93-1](handlingar.tabeller/93-1.csv)
-
-|  | Sfi |  | Grundläggande |  | Gymnasial |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| 2021 | Kvinnor<br>505<br>58 % | Män<br>42 % | Kvinnor<br>306<br>76 % | Män<br>24 % | Kvinnor<br>2076<br>67 % | Män<br>33 % |
-| 2022 | Kvinnor<br>417<br>63 % | Män<br>37 % | Kvinnor<br>308<br>76 % | Män<br>24 % | Kvinnor<br>1781<br>68 % | Män<br>32 % |
-| 2023 | Kvinnor<br>551<br>69 % | Män<br>31 % | Kvinnor<br>351<br>77 % | Män<br>23 % | Kvinnor<br>1675<br>69 % | Män<br>31 % |
 
 <!-- sida 94 -->
 
@@ -5328,7 +5334,21 @@ ligger väl till på totalen, och det märks en förbättring på teoretiska kur
 samtidigt en ökning av F-betyg på yrkeskurser.
 
 Tabell 3. Andel godkända betyg på kursdeltagarnivå
+Sfi          Grundläggande     Gymnasial
 
+Kvinnor Män     Kvinnor Män      Kvinnor Män
+2023   83%             94%              89%
+85 %  78 %       95 % 90%        95 %  90 %
+2022       Kvinnor Män     Kvinnor Män      Kvinnor Män
+
+```osaker-tabell
+       92%             89%              90%
+           90 %  95 %       89 % 89%        91 %  85 %
+
+Riket       94 %              **             87 %
+```
+
+2022\*
 \* Nationell statistik för riket 2023 presenteras i juni 2024, därav statistik för riket från 2022
 \*\* Förändrad uträkning av betygsresultat på nationell nivå vilket gör att jämförbar siffra saknas
 
@@ -5348,14 +5368,6 @@ personalbyten på den skola som har teoretiska kurser, både bland pedagoger och
 stödresurser såsom specialpedagog och kurator.
 
 5
-
-[Tabell 94-1](handlingar.tabeller/94-1.csv)
-
-|  | Sfi |  | Grundläggande |  | Gymnasial |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| 2023 | Kvinnor<br>83%<br>85 % | Män<br>78 % | Kvinnor<br>94%<br>95 % | Män<br>90% | Kvinnor<br>89%<br>95 % | Män<br>90 % |
-| 2022 | Kvinnor<br>92%<br>90 % | Män<br>95 % | Kvinnor<br>89%<br>89 % | Män<br>89% | Kvinnor<br>90%<br>91 % | Män<br>85 % |
-| Riket<br>2022\* | 94 % |  | \*\* |  | 87 % |  |
 
 <!-- sida 95 -->
 
@@ -6532,25 +6544,6 @@ Tabell 1. Antal studieår per kurs och studieväg för elever som avslutat kurs 
 betyg år 2022. Fördelat på 25, 50 och 75 procent av antalet studieår från studieväg och
 startkurs till avslutad kurs D.13
 
-Studieväg och 25 procent 50 procent 75 procent
-startkurs           (Median)
-
-```osaker-tabell
-1A              4       5        7
-1B              3       4        5
-
-1C              1       2        3
-1D              1       2        2
-
-2B              2       4        5
-2C              1       2        3
-
-2D              1       1        2
-3C              2       2        3
-
-3D              1       1        2
-```
-
 Källa: Skolverket
 
 Stor variation mellan kurserna i antal elevtimmar
@@ -6570,6 +6563,20 @@ Den övre kvartilen visar 75 procent av observationerna.
 avsluta en kurs innebär att eleven har avslutat kursen med eller utan ett godkänt betyg. Se även bilaga 2.
 
 13  STUDIEAVBROTT OCH GENOMSTRÖMNING I SFI
+
+[Tabell 122-1](handlingar.tabeller/122-1.csv)
+
+| Studieväg och startkurs | 25 procent | 50 procent (Median) | 75 procent |
+| --- | --- | --- | --- |
+| 1A | 4 | 5 | 7 |
+| 1B | 3 | 4 | 5 |
+| 1C | 1 | 2 | 3 |
+| 1D | 1 | 2 | 2 |
+| 2B | 2 | 4 | 5 |
+| 2C | 1 | 2 | 3 |
+| 2D | 1 | 1 | 2 |
+| 3C | 2 | 2 | 3 |
+| 3D | 1 | 1 | 2 |
 
 <!-- sida 123 -->
 
@@ -6778,20 +6785,6 @@ och män     Andel (%) kurs      betyg
 Andel (%)
 Andel (%) Andel (%)
 
-```osaker-tabell
-Studieväg 1 (Kvinnor) 13      59         29    100
-Studieväg 1 (Män)   10        56         35    100
-
-Studieväg 2 (Kvinnor) 40      36         24    100
-Studieväg 2 (Män)   25        33         43    100
-
-Studieväg 3 (Kvinnor) 53      14         33    100
-Studieväg 3 (Män)   32        14         54    100
-
-Samtliga (Kvinnor   41        30         29    100
-Samtliga (Män)      26        28         46    100
-```
-
 Källa: Skolverket
 
 Resultaten visar att kvinnor avslutat kurs D i högre utsträckning än männen på
@@ -6823,6 +6816,18 @@ innebär att de deltar i undervisning under ett fåtal timmar i veckan. Det kan 
 ta lång tid för eleverna att ta sig igenom kurserna.
 
 17  STUDIEAVBROTT OCH GENOMSTRÖMNING I SFI
+
+[Tabell 126-1](handlingar.tabeller/126-1.csv)
+
+| Studieväg 1 (Kvinnor) | 13 | 59 | 29 | 100 |
+| --- | --- | --- | --- | --- |
+| Studieväg 1 (Män) | 10 | 56 | 35 | 100 |
+| Studieväg 2 (Kvinnor) | 40 | 36 | 24 | 100 |
+| Studieväg 2 (Män) | 25 | 33 | 43 | 100 |
+| Studieväg 3 (Kvinnor) | 53 | 14 | 33 | 100 |
+| Studieväg 3 (Män) | 32 | 14 | 54 | 100 |
+| Samtliga (Kvinnor | 41 | 30 | 29 | 100 |
+| Samtliga (Män) | 26 | 28 | 46 | 100 |
 
 <!-- sida 127 -->
 
@@ -8057,30 +8062,22 @@ godkända betyg.
 Tabell 5. Etableringsstatus 2021 för elever som avslutat sfi 2019 fördelat på kvinnor och
 män.
 
-Rubrik  Etablerad Osäker Svag Högskole- Övriga Varken
-ställning ställning ställning studier studier studier/arbete
-Andel (%) Andel (%) Andel(%) Andel (%) Andel (%) Andel (%)
-Kvinnor     22      8     11      3      30      26
-
-Godkänd i   20      5      7      4      53      10
-kurs D
-Godkänd i   20     11     16      1      17      35
-lägre kurs
-Utan        26     10     14      2      6       41
-godkänt
-betyg
-Män         39     16     14      1      13      17
-Godkänd i   35     12      8      2      36       7
-kurs D
-
-Godkänd i   35     21     18      1      7       19
-lägre kurs
-Utan        43     15     15      1      3       23
-godkänt
-betyg
 Källa Skolverket
 
 42  STUDIEAVBROTT OCH GENOMSTRÖMNING I SFI
+
+[Tabell 151-1](handlingar.tabeller/151-1.csv)
+
+| Rubrik | Etablerad ställning Andel (%) | Osäker ställning Andel (%) | Svag ställning Andel(%) | Högskolestudier Andel (%) | Övriga studier Andel (%) | Varken studier/arbete Andel (%) |
+| --- | --- | --- | --- | --- | --- | --- |
+| Kvinnor | 22 | 8 | 11 | 3 | 30 | 26 |
+| Godkänd i kurs D | 20 | 5 | 7 | 4 | 53 | 10 |
+| Godkänd i lägre kurs | 20 | 11 | 16 | 1 | 17 | 35 |
+| Utan godkänt betyg | 26 | 10 | 14 | 2 | 6 | 41 |
+| Män | 39 | 16 | 14 | 1 | 13 | 17 |
+| Godkänd i kurs D | 35 | 12 | 8 | 2 | 36 | 7 |
+| Godkänd i lägre kurs | 35 | 21 | 18 | 1 | 7 | 19 |
+| Utan godkänt betyg | 43 | 15 | 15 | 1 | 3 | 23 |
 
 <!-- sida 152 -->
 
@@ -8378,13 +8375,29 @@ på självvärdering av sin enhet.
 
 5
 
-[Tabell 161-1](handlingar.tabeller/161-1.csv)
+[Tabell 161-165-1](handlingar.tabeller/161-165-1.csv)
 
 | Frågor | Svar, Antal 2023 |
 | --- | --- |
 | Ingår systematiskt arbetsmiljöarbete som en<br>naturlig del i den dagliga verksamheten?<br>Det innebär att såväl de sociala, organisatoriska,<br>fysiska och digitala perspektiven synliggörs lyfts<br>löpande som en del av verksamhetsutvecklingen,<br>exempelvis på arbetsplatsträffar. |  |
 | Medverkar medarbetare och är delaktiga i det<br>systematiska arbetsmiljöarbetet?<br>Medarbetare ska ges möjlighet att medverka i<br>arbetsmiljöarbetet, genom exempelvis dialog på<br>arbetsplatsträff, medverkan i arbetsmiljörond.<br>Medarbetare har också en skyldighet att<br>medverka för en god arbetsmiljö. |  |
 | Medverkar skyddsombud- och eller<br>elevskyddsombud i det systematiska<br>arbetsmiljöarbetet?<br>Samverkan med skyddsombud ska ske i alla<br>verksamheter, Inom skolan ska samverkan även<br>ske med elevskyddsombud. |  |
+| Finns kunskap om kommunens<br>arbetsgivarpolicy?<br>Kungsbacka kommuns arbetsgivarpolicy är ett<br>politiskt styrdokument. Arbetsgivarpolicyn<br>innehåller ett avsnitt som heter arbetsmiljö och<br>hälsa, är detta känt? |  |
+| Finns kunskap om hur man ska<br>rapportera/anmäla tillbud och arbetsolyckor.<br>Kommunens rutin för anmälan av tillbud och<br>arbetsolyckor finns på kommunens insida under<br>systematiskt arbetsmiljöarbete. Rutinen ska vara<br>känd för alla medarbetare. |  |
+| Finns kunskap om Kungsbacka kommuns<br>regler och rutin för kränkande särbehandling?<br>Kungsbacka kommun har nolltolerans mot<br>kränkande särbehandling.<br>Regler mot kränkande särbehandling, ska vara<br>kända av alla på arbetsplatsen. |  |
+| Finns kunskap om kommunens policy och<br>handlingsplan för en drogfri arbetsplats?<br>Policy för en drogfri arbetsplats.<br>Handlingsplan för en drogfri arbetsplats. |  |
+| Finns kunskap om vilka föreskrifter, AFS, som<br>gäller för verksamheten?<br>Grundpaket med föreskrifter finns på<br>arbetsmiljöverket. Utöver det finns specifika<br>föreskrifter beroende på verksamheten. |  |
+| Finns kunskap om personalvårdsprogram<br>Falck Healthcare?<br>Falck Healthcare finns som en förebyggande<br>tjänst för alla medarbetare. |  |
+| Finns kunskap om företagshälsovården?<br>Företagshälsovården pe3, information om<br>uppdrag och tjänster finns på kommunens<br>intranät. |  |
+| Genomförs riskbedömning vid planering och<br>eller förändring i verksamheten?<br>Vid ändringar i verksamheten ska en bedömning<br>göras om den medför risker för ohälsa eller<br>olycksfall. Den ska göras i samverkan med<br>medarbetare och skyddsombud. |  |
+| Genomförs arbete med friskfaktorer på<br>arbetsplatsträffen eller i annat forum?<br>Förklaring till friskfaktorer och hur man kan arbete<br>med dem, finns tillgängligt på kommunens<br>intranät. |  |
+| Genomförs utredning av allvarliga tillbud,<br>ohälsa och olycksfall? |  |
+| Finns skriftlig uppgiftsfördelning för<br>arbetsmiljöansvarig chef?<br>Kungsbacka kommuns styrdokument "Riktlinjer för<br>ansvar och uppgiftsfördelning av<br>arbetsmiljöuppgifter" reglerar hur<br>uppgiftsfördelningen ska göras.<br>Frågan ska besvaras av chef med<br>arbetsmiljöansvar. |  |
+| Finns tillräckliga befogenheter, resurser och<br>kompetens utifrån uppgiftsfördelningen som<br>är genomförd?<br>Frågan ska besvaras av chef med<br>arbetsmiljöansvar. |  |
+| Har du som chef tillräckliga kunskaper inom<br>systematiskt arbetsmiljöarbete?<br>Innebär att du som chef har kunskap om<br>föreskriften för SAM, vilka rutiner och metoder du<br>har för att undersöka, riskbedöma, åtgärda och<br>följa upp arbetsmiljöarbetet.<br>Fråga till chef. |  |
+| Har du som chef tillräckliga kunskaper om<br>organisatorisk och social arbetsmiljö?<br>Enligt arbetsmiljöverkets föreskrift 2015:4, 6 §, ska<br>arbetsgivaren se till att chefer och arbetsledare<br>har tillräckliga kunskaper. |  |
+| Har du som chef tillräckliga kunskaper för att<br>se till att medarbetarnas arbetsuppgifter och<br>befogenheter inte ger upphov till ohälsosam<br>arbetsbelastning?<br>Arbetsgivarens skyldigheter att förebygga<br>ohälsosam arbetsbelastning omfattar såväl chefer<br>och arbetsledare som andra arbetstagare. Det är<br>viktigt att arbetsgivaren skapar förutsättningar för<br>arbetstagarna att uppmärksamma arbetsgivaren<br>på höga krav och bristande resurser. 9§ AFS<br>2015:4 |  |
+| Har du som chef tillräckliga kunskaper om<br>vilka åtgärder som behövs för att motverka att<br>arbetstidens förläggning leder till ohälsa hos<br>medarbetarna?<br>Arbetsgivaren bör redan vid planeringen av<br>arbetet ta hänsyn till hur arbetstidens förläggning<br>kan inverka på arbetstagarnas hälsa.<br>Arbetsgivaren bör särskilt uppmärksamma<br>möjligheterna till återhämtning.12 § AFS 2015:4 |  |
 
 <!-- sida 162 -->
 
@@ -8393,30 +8406,12 @@ Uppföljning Systematiskt arbetsmiljöarbete 2023
 
 6
 
-[Tabell 162-1](handlingar.tabeller/162-1.csv)
-
-| Frågor | Svar, Antal 2023 |
-| --- | --- |
-| Finns kunskap om kommunens<br>arbetsgivarpolicy?<br>Kungsbacka kommuns arbetsgivarpolicy är ett<br>politiskt styrdokument. Arbetsgivarpolicyn<br>innehåller ett avsnitt som heter arbetsmiljö och<br>hälsa, är detta känt? |  |
-| Finns kunskap om hur man ska<br>rapportera/anmäla tillbud och arbetsolyckor.<br>Kommunens rutin för anmälan av tillbud och<br>arbetsolyckor finns på kommunens insida under<br>systematiskt arbetsmiljöarbete. Rutinen ska vara<br>känd för alla medarbetare. |  |
-| Finns kunskap om Kungsbacka kommuns<br>regler och rutin för kränkande särbehandling?<br>Kungsbacka kommun har nolltolerans mot<br>kränkande särbehandling.<br>Regler mot kränkande särbehandling, ska vara<br>kända av alla på arbetsplatsen. |  |
-| Finns kunskap om kommunens policy och<br>handlingsplan för en drogfri arbetsplats?<br>Policy för en drogfri arbetsplats.<br>Handlingsplan för en drogfri arbetsplats. |  |
-
 <!-- sida 163 -->
 
 Gymnasium & Arbetsmarknad                        Kungsbacka kommun
 Uppföljning Systematiskt arbetsmiljöarbete 2023
 
 7
-
-[Tabell 163-1](handlingar.tabeller/163-1.csv)
-
-| Frågor | Svar, Antal 2023 |
-| --- | --- |
-| Finns kunskap om vilka föreskrifter, AFS, som<br>gäller för verksamheten?<br>Grundpaket med föreskrifter finns på<br>arbetsmiljöverket. Utöver det finns specifika<br>föreskrifter beroende på verksamheten. |  |
-| Finns kunskap om personalvårdsprogram<br>Falck Healthcare?<br>Falck Healthcare finns som en förebyggande<br>tjänst för alla medarbetare. |  |
-| Finns kunskap om företagshälsovården?<br>Företagshälsovården pe3, information om<br>uppdrag och tjänster finns på kommunens<br>intranät. |  |
-| Genomförs riskbedömning vid planering och<br>eller förändring i verksamheten?<br>Vid ändringar i verksamheten ska en bedömning<br>göras om den medför risker för ohälsa eller<br>olycksfall. Den ska göras i samverkan med<br>medarbetare och skyddsombud. |  |
 
 <!-- sida 164 -->
 
@@ -8425,30 +8420,12 @@ Uppföljning Systematiskt arbetsmiljöarbete 2023
 
 8
 
-[Tabell 164-1](handlingar.tabeller/164-1.csv)
-
-| Frågor | Svar, Antal 2023 |
-| --- | --- |
-| Genomförs arbete med friskfaktorer på<br>arbetsplatsträffen eller i annat forum?<br>Förklaring till friskfaktorer och hur man kan arbete<br>med dem, finns tillgängligt på kommunens<br>intranät. |  |
-| Genomförs utredning av allvarliga tillbud,<br>ohälsa och olycksfall? |  |
-| Finns skriftlig uppgiftsfördelning för<br>arbetsmiljöansvarig chef?<br>Kungsbacka kommuns styrdokument "Riktlinjer för<br>ansvar och uppgiftsfördelning av<br>arbetsmiljöuppgifter" reglerar hur<br>uppgiftsfördelningen ska göras.<br>Frågan ska besvaras av chef med<br>arbetsmiljöansvar. |  |
-| Finns tillräckliga befogenheter, resurser och<br>kompetens utifrån uppgiftsfördelningen som<br>är genomförd?<br>Frågan ska besvaras av chef med<br>arbetsmiljöansvar. |  |
-
 <!-- sida 165 -->
 
 Gymnasium & Arbetsmarknad                        Kungsbacka kommun
 Uppföljning Systematiskt arbetsmiljöarbete 2023
 
 9
-
-[Tabell 165-1](handlingar.tabeller/165-1.csv)
-
-| Frågor | Svar, Antal 2023 |
-| --- | --- |
-| Har du som chef tillräckliga kunskaper inom<br>systematiskt arbetsmiljöarbete?<br>Innebär att du som chef har kunskap om<br>föreskriften för SAM, vilka rutiner och metoder du<br>har för att undersöka, riskbedöma, åtgärda och<br>följa upp arbetsmiljöarbetet.<br>Fråga till chef. |  |
-| Har du som chef tillräckliga kunskaper om<br>organisatorisk och social arbetsmiljö?<br>Enligt arbetsmiljöverkets föreskrift 2015:4, 6 §, ska<br>arbetsgivaren se till att chefer och arbetsledare<br>har tillräckliga kunskaper. |  |
-| Har du som chef tillräckliga kunskaper för att<br>se till att medarbetarnas arbetsuppgifter och<br>befogenheter inte ger upphov till ohälsosam<br>arbetsbelastning?<br>Arbetsgivarens skyldigheter att förebygga<br>ohälsosam arbetsbelastning omfattar såväl chefer<br>och arbetsledare som andra arbetstagare. Det är<br>viktigt att arbetsgivaren skapar förutsättningar för<br>arbetstagarna att uppmärksamma arbetsgivaren<br>på höga krav och bristande resurser. 9§ AFS<br>2015:4 |  |
-| Har du som chef tillräckliga kunskaper om<br>vilka åtgärder som behövs för att motverka att<br>arbetstidens förläggning leder till ohälsa hos<br>medarbetarna?<br>Arbetsgivaren bör redan vid planeringen av<br>arbetet ta hänsyn till hur arbetstidens förläggning<br>kan inverka på arbetstagarnas hälsa.<br>Arbetsgivaren bör särskilt uppmärksamma<br>möjligheterna till återhämtning.12 § AFS 2015:4 |  |
 
 <!-- sida 166 -->
 
@@ -13143,31 +13120,52 @@ Sammanställning  total
 
 Belopp i Tkr
 
+Nämndernas  Nämndernas
+Budget 2024  förslag till förslag till
+ombudget 2024 ombudget 2025
+
+Löpande årliga investeringar 94 931 -     632          -
+
 ```osaker-tabell
+Övriga och reinvesteringar 106 427      59 224        500
+Lokaler                   377 706      160 716         -
+Avgiftsfinansierad verksamhet 532 337   50 553      60 873
+
+       Delsumma          1 111 401     269 861      61 373
+```
+
+Exploateringsinvesteringar och
+
+```osaker-tabell
+omsättningstillgångar -   104 500      221 963
+        SUMMA            1 006 901     491 824      61 373
                                        437 829        500
-
-Ombudget förslag:                        2024        2025
-Totalt förslag från nämnderna          491 824      61 373
-
-Förslag till kommunfullmäktige         437 829        500
-
-Förändring gentemot nämndernas förslag  -53 995     -60 873
 ```
 
 [Tabell 280-1](handlingar.tabeller/280-1.csv)
 
-|  | Budget 2024 | Nämndernas<br>förslag till<br>ombudget 2024 | Nämndernas<br>förslag till<br>ombudget 2025 |
-| --- | --- | --- | --- |
-| Löpande årliga investeringar | 94 931 | - 632 | - |
-| Övriga och reinvesteringar | 106 427 | 59 224 | 500 |
-| Lokaler | 377 706 | 160 716 | - |
-| Avgiftsfinansierad verksamhet | 532 337 | 50 553 | 60 873 |
-| Delsumma | 1 111 401 | 269 861 | 61 373 |
-| Exploateringsinvesteringar och<br>omsättningstillgångar | - 104 500 | 221 963 |  |
-| SUMMA | 1 006 901 | 491 824 | 61 373 |
+| Ombudget förslag: | 2024 | 2025 |
+| --- | --- | --- |
+| Totalt förslag från nämnderna | 491 824 | 61 373 |
+| Förslag till kommunfullmäktige | 437 829 | 500 |
+| Förändring gentemot nämndernas förslag | -53 995 | -60 873 |
 
 <!-- sida 281 -->
 
+Förslag ny Förslag ny
+Förändring Förändring
+budget   budget
+gentemot  gentemot
+nämndernas nämndernas
+2024     2025
+förslag 2024 förslag 2025
+632              94 931       -
+165 651     500
+538 422       -
+\-    54 627 -  60 873  528 263       -
+\-     53 995 -  60 873 1 327 267    500
+117 463       -
+\-     53 995 -  60 873 1 444 730    500
 1 444 730
 
 2024-2025
@@ -13176,18 +13174,6 @@ Förändring gentemot nämndernas förslag  -53 995     -60 873
 438 329
 
 -114 868
-
-[Tabell 281-1](handlingar.tabeller/281-1.csv)
-
-| Förändring<br>gentemot<br>nämndernas<br>förslag 2024 | Förändring<br>gentemot<br>nämndernas<br>förslag 2025 | Förslag ny<br>budget<br>2024 | Förslag ny<br>budget<br>2025 |
-| --- | --- | --- | --- |
-| 632 |  | 94 931 | - |
-|  |  | 165 651 | 500 |
-|  |  | 538 422 | - |
-| - 54 627 | - 60 873 | 528 263 | - |
-| - 53 995 | - 60 873 | 1 327 267 | 500 |
-|  |  | 117 463 | - |
-| - 53 995 | - 60 873 | 1 444 730 | 500 |
 
 <!-- sida 282 -->
 
@@ -13202,7 +13188,14 @@ Löpande investeringar ombudgeteras ej enligt gällande ekonomistryrprinciper
 
 |  | Budget<br>2024 | Nämndernas<br>förslag till<br>ombudget<br>2024 | Nämndernas<br>förslag till<br>ombudget<br>2025 | Förändring<br>gentemot<br>nämndernas<br>förslag 2024 |
 | --- | --- | --- | --- | --- |
-| FG Förskola o Grundskola<br>K&F Kultur & Fritid<br>GV Gymnasium & Arbetsmarknad<br>IF Individ och Familjeomsorg<br>MB Bygg & Miljö<br>SE Service<br>VO Vård & Omsorg<br>TE-skatt Teknik Skatt | 15 000<br>6 700<br>6 340<br>2 651<br>255<br>27 485<br>5 500<br>31 000 | 97<br>-729 |  | -97<br>729 |
+| FG Förskola o Grundskola | 15 000 |  |  |  |
+| K&F Kultur & Fritid | 6 700 |  |  |  |
+| GV Gymnasium & Arbetsmarknad | 6 340 |  |  |  |
+| IF Individ och Familjeomsorg | 2 651 |  |  |  |
+| MB Bygg & Miljö | 255 |  |  |  |
+| SE Service | 27 485 |  |  |  |
+| VO Vård & Omsorg | 5 500 | 97 |  | -97 |
+| TE-skatt Teknik Skatt | 31 000 | -729 |  | 729 |
 | SUMMA | 94 931 | -632 | 0 | 632 |
 
 <!-- sida 283 -->
@@ -13211,7 +13204,14 @@ Löpande investeringar ombudgeteras ej enligt gällande ekonomistryrprinciper
 
 | Förändring<br>gentemot<br>nämndernas<br>förslag 2025 | Summa ny<br>budget<br>2024 | Summa ny<br>budget<br>2025 |
 | --- | --- | --- |
-|  | 15 000<br>6 700<br>6 340<br>2 651<br>255<br>27 485<br>5 500<br>31 000 | 0<br>0<br>0<br>0<br>0<br>0<br>0<br>0 |
+|  | 15 000 | 0 |
+|  | 6 700 | 0 |
+|  | 6 340 | 0 |
+|  | 2 651 | 0 |
+|  | 255 | 0 |
+|  | 27 485 | 0 |
+|  | 5 500 | 0 |
+|  | 31 000 | 0 |
 | 0 | 94 931 | 0 |
 
 <!-- sida 284 -->
@@ -13968,30 +13968,95 @@ Belopp i Tkr
 
 [Tabell 304-1](handlingar.tabeller/304-1.csv)
 
-| Lokaltyp<br>KS Finans<br>8931 Lokalplansbudget pågående projekt<br>Löpnr 1406 Duvehed omlastningsstation<br>Löpnr 1506 Ombyggnad ”hemkök” på förskolor<br>Löpnr 131 Arenan inkl skyddsrum<br>Enligt KF budgetram 2024<br>Summa KS Finans<br>SE Fastigheter<br>8967 Klockaregårdens förskola<br>4920 Äpplegårdens fsk bygg 207<br>4914 Skårby förskola<br>8979 Anneberg bygg vob bmss fsk<br>8972 Omlastningscentral Duvehed<br>4912 Ölmevalla skola o idrott bygg<br>4907 Iseråsskolan ny o omb bygg 335<br>4910 Gräskärr förskola<br>4903 Kyrkskolan samlokalisering lp<br>8911 Varlaskolan ny-och tillbyggnad<br>4900 Frillesås rid- o körkl 138<br>4932 Klovsten Räddningstjänst bygg<br>4901 BMSS Pölagården Åsa 508j bygg<br>4934 Hallaförskola iordnig utemiljö<br>8954 Myn krav pav gaKullaviksskolan<br>8957 Gällinge förskola bygg 221<br>8985 Åsa camping toalett 1504<br>4918 Naturum arb. miljö bygg 142<br>8953 Mynkrav pav Malevikskolan<br>8951 Myndig.krav pav Elof L<br>4926 Arenan fas 1 löpnr 131 bygg<br>8978 Stockalids förskola<br>8961 Skårbyskolan<br>8944 Vallda BMSS<br>Enligt KF budgetram 2024<br>Summa SE Fastigheter | Budget<br>2024 | N ämndernas<br>förslag till<br>ombudget<br>2024 |
+| Lokaltyp | Budget 2024 | N ämndernas förslag till ombudget 2024 |
 | --- | --- | --- |
-|  | 12 000<br>2 000<br>0<br>279 484<br>293 484<br>29 222<br>55 000<br>84 222 | 22 810<br>2 000<br>31 820<br>56 630<br>-4 176<br>-2 971<br>-2 361<br>-1 450<br>-1 326<br>-1 060<br>-865<br>-789<br>-680<br>-402<br>-191<br>-184<br>-17<br>-1<br>1 020<br>2 709<br>5 160<br>5 325<br>5 620<br>6 368<br>16 461<br>20 726<br>28 370<br>28 800<br>104 086 |
+| KS Finans |  |  |
+| 8931 Lokalplansbudget pågående projekt |  |  |
+| Löpnr 1406 Duvehed omlastningsstation | 12 000 | 22 810 |
+| Löpnr 1506 Ombyggnad ”hemkök” på förskolor | 2 000 | 2 000 |
+| Löpnr 131 Arenan inkl skyddsrum | 0 | 31 820 |
+| Enligt KF budgetram 2024 | 279 484 |  |
+| Summa KS Finans | 293 484 | 56 630 |
+| SE Fastigheter |  |  |
+| 8967 Klockaregårdens förskola |  | -4 176 |
+| 4920 Äpplegårdens fsk bygg 207 |  | -2 971 |
+| 4914 Skårby förskola |  | -2 361 |
+| 8979 Anneberg bygg vob bmss fsk |  | -1 450 |
+| 8972 Omlastningscentral Duvehed | 29 222 | -1 326 |
+| 4912 Ölmevalla skola o idrott bygg |  | -1 060 |
+| 4907 Iseråsskolan ny o omb bygg 335 |  | -865 |
+| 4910 Gräskärr förskola |  | -789 |
+| 4903 Kyrkskolan samlokalisering lp |  | -680 |
+| 8911 Varlaskolan ny-och tillbyggnad |  | -402 |
+| 4900 Frillesås rid- o körkl 138 |  | -191 |
+| 4932 Klovsten Räddningstjänst bygg |  | -184 |
+| 4901 BMSS Pölagården Åsa 508j bygg |  | -17 |
+| 4934 Hallaförskola iordnig utemiljö |  | -1 |
+| 8954 Myn krav pav gaKullaviksskolan |  | 1 020 |
+| 8957 Gällinge förskola bygg 221 |  | 2 709 |
+| 8985 Åsa camping toalett 1504 |  | 5 160 |
+| 4918 Naturum arb. miljö bygg 142 |  | 5 325 |
+| 8953 Mynkrav pav Malevikskolan |  | 5 620 |
+| 8951 Myndig.krav pav Elof L |  | 6 368 |
+| 4926 Arenan fas 1 löpnr 131 bygg |  | 16 461 |
+| 8978 Stockalids förskola |  | 20 726 |
+| 8961 Skårbyskolan |  | 28 370 |
+| 8944 Vallda BMSS |  | 28 800 |
+| Enligt KF budgetram 2024 | 55 000 |  |
+| Summa SE Fastigheter | 84 222 | 104 086 |
 | SUMMA | 377 706 | 160 716 |
 
 <!-- sida 305 -->
 
-Nämndernas
-förslag till
-ombudget
-2025
+Nämndernas Förändring Förändring Summa Summa
+förslag till gentemot gentemot Ny budget Ny
+ombudget nämndernas nämndernas 2024 budget
 
-0
+```osaker-tabell
+2025   förslag 2024 förslag 2025   2025
 
-0
+                                0      0
+                            34 810     0
+                             4 000     0
+```
 
-0
+31 820
 
-[Tabell 305-1](handlingar.tabeller/305-1.csv)
+```osaker-tabell
+                      279 484     0
+0         0        0  350 114     0
 
-| Förändring<br>gentemot<br>nämndernas<br>förslag 2024 | Förändring<br>gentemot<br>nämndernas<br>förslag 2025 | Summa<br>Ny budget<br>2024 | Summa<br>Ny<br>budget<br>2025 |
-| --- | --- | --- | --- |
-| 0<br>0 | 0<br>0 | 0<br>34 810<br>4 000<br>31 820<br>279 484<br>350 114<br>-4 176<br>-2 971<br>-2 361<br>-1 450<br>27 896<br>-1 060<br>-865<br>-789<br>-680<br>-402<br>-191<br>-184<br>-17<br>-1<br>1 020<br>2 709<br>5 160<br>5 325<br>5 620<br>6 368<br>16 461<br>20 726<br>28 370<br>28 800<br>55 000<br>188 308 | 0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0 |
-| 0 | 0 | 538 422 | 0 |
+                       -4 176     0
+                       -2 971     0
+                       -2 361     0
+                       -1 450     0
+                       27 896     0
+                       -1 060     0
+                         -865     0
+                         -789     0
+                         -680     0
+
+                         -402     0
+                         -191     0
+                         -184     0
+                         -17      0
+                          -1      0
+                        1 020     0
+                        2 709     0
+                        5 160     0
+                        5 325     0
+
+                        5 620     0
+                        6 368     0
+                       16 461     0
+                       20 726     0
+                       28 370     0
+                       28 800     0
+                       55 000     0
+0         0        0  188 308     0
+
+0         0        0  538 422     0
+```
 
 <!-- sida 306 -->
 
@@ -14004,7 +14069,8 @@ Belopp i Tkr
 
 |  | Budget<br>2024 | Förslag till<br>omplanering 2024 | Summa Ny<br>budget 2024 |
 | --- | --- | --- | --- |
-| Inkomster<br>Utgifter | -345 769<br>241 269 | 345 769<br>-123 806 | 0<br>117 463 |
+| Inkomster | -345 769 | 345 769 | 0 |
+| Utgifter | 241 269 | -123 806 | 117 463 |
 |  | -104 500 | 221 963 | 117 463 |
 
 <!-- sida 307 -->

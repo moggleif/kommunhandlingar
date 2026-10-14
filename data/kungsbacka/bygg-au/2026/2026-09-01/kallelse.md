@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5e2c84351a01f5efca7adeb6/1787733738
 sha256: 747a0ed0592028217de39844c701959a788a58ffa55e15c9f9e49132e4cd5abb
 bytes: 212552
 sidor: 5
-hamtad: 2026-10-08T00:19:56+00:00
-konverterad: 2026-10-08T00:19:58+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T08:16:16+00:00
+konverterad: 2026-10-14T08:16:20+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -56,7 +56,7 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag | Tid |
 | --- | --- | --- | --- | --- |
@@ -65,6 +65,12 @@ KUNGSBACKA  KOMMUN
 | 7. | Information från<br>förvaltningschefen | BN-2026-<br>00003 |  | 5<br>min |
 | 8. | Information om framtagandet<br>av riktlinjer till översiktsplanen<br>Föredragande: André Nilsson,<br>senior bygglovshandläggare | BN-2026-<br>00177 |  | 20<br>min |
 | 9. | Taxa för plan- och<br>byggverksamheten<br>Föredragande: Hanna Ståhl,<br>verksamhetschef och Nahren<br>Dawid, utvecklare | BN-2026-<br>00132 | Förslag till beslut i byggnadsnämnden<br>Byggnadsnämnden godkänner taxa för plan-<br>och byggverksamheten i Kungsbacka<br>kommun, daterad 2026-08-18, och<br>översänder den till kommunfullmäktige för<br>fastställande.<br>Kommunfullmäktige beslutar att taxan ska<br>träda i kraft den 1 januari 2027 och tillämpas<br>på ärenden som inkommer från och med<br>detta datum.<br>Kommunfullmäktige ger byggnadsnämnden<br>respektive kommunstyrelsen möjlighet att<br>årligen justera avgiftsbeloppen för<br>respektive verksamhet i enlighet med taxans<br>bestämmelse 4, Indexjustering av<br>avgiftsbelopp. | 30<br>min |
+| 10. | Uppdrag att upprätta förslag till<br>ändring av detaljplan TP 63 och<br>del av detaljplan TP 45C för<br>industri och handel inom Varla<br>2:412 och genomföra samråd<br>Föredragande: Stina Wikström,<br>planarkitekt | BN-2026-<br>00091 | Förslag till beslut i byggnadsnämnden<br>Byggnadsnämnden ger<br>samhällsbyggnadskontoret i uppdrag att<br>upprätta förslag till ändring av detaljplan TP<br>63 och del av detaljplan TP 45 C för industri<br>och handel och genomföra samråd. | 5<br>min |
+| 11. | Uppdrag att upprätta förslag till<br>ändring av detaljplan för skola<br>inom Onsala 1:16, Fjordskolan i<br>Onsala och genomföra samråd<br>Föredragande: Stina Wikström,<br>planarkitekt | BN-2026-<br>00164 | Förslag till beslut i byggnadsnämnden<br>Byggnadsnämnden ger<br>samhällsbyggnadskontoret i uppdrag att<br>upprätta förslag till ändring av detaljplan för<br>skola inom Onsala 1:16, Fjordskolan i<br>Onsala och genomföra samråd. | 5<br>min |
+| 12. | Antagande av ändring av<br>detaljplan S53 för bostäder<br>inom Släps-Högås 1:25 m.fl. i<br>Kullavik<br>Föredragande: Stina Wikström,<br>planarkitekt | BN-2025-<br>00046 | Förslag till beslut i byggnadsnämnden<br>Byggnadsnämnden godkänner<br>granskningsutlåtandet.<br>Byggnadsnämnden antar ändring av<br>detaljplan S53 för bostäder inom Släps-<br>Högås 1:25 m.fl. i Kullavik, upprättad 2026-<br>08-18. | 10<br>min |
+| 13. | Antagande av detaljplan för<br>ändring av huvudmannaskapet<br>inom del av detaljplan Ö54,<br>ÖP85 och ÖP88 i Åsa<br>Föredragande: Stina Wikström,<br>planarkitekt | BN-2022-<br>00024 | Förslag till beslut i byggnadsnämnden<br>Byggnadsnämnden godkänner<br>granskningsutlåtandet.<br>Byggnadsnämnden antar detaljplan för<br>ändring av huvudmannaskapet inom del av<br>detaljplan Ö54, ÖP85 och ÖP88 i Åsa,<br>upprättad 2026-08-18. | 10<br>min |
+| 14. | Antagande av detaljplan för del<br>av Gottskärsvägen inom<br>Skällared s:5 m.fl. i Onsala<br>Föredragande: Stina Wikström,<br>planarkitekt | BN-2026-<br>00027 | Förslag till beslut i byggnadsnämnden<br>Byggnadsnämnden godkänner<br>granskningsutlåtandet.<br>Byggnadsnämnden antar detaljplan för del<br>av Gottskärsvägen inom Skällared s:5<br>i Onsala, upprättad 2026-08-18. | 10<br>min |
+| 15. | LUNNA 11:3 - Förhandsbesked<br>för nybyggnad av två<br>enbostadshus<br>Föredragande: André Nilsson,<br>senior bygglovshandläggare | BN-2025-<br>002623 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för två<br>enbostadshus på fastigheten.<br>Avgiften för beslutet är 25 734 kronor.<br>Avgiften är minskad med 25 734 kronor på<br>grund av att beslutet har tagit mer än 10<br>veckor. Kostnaden blir därför 0 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 10<br>min |
 
 <!-- sida 3 -->
 
@@ -72,27 +78,11 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 10. | Uppdrag att upprätta förslag till<br>ändring av detaljplan TP 63 och<br>del av detaljplan TP 45C för<br>industri och handel inom Varla<br>2:412 och genomföra samråd<br>Föredragande: Stina Wikström,<br>planarkitekt | BN-2026-<br>00091 | Förslag till beslut i byggnadsnämnden<br>Byggnadsnämnden ger<br>samhällsbyggnadskontoret i uppdrag att<br>upprätta förslag till ändring av detaljplan TP<br>63 och del av detaljplan TP 45 C för industri<br>och handel och genomföra samråd. | 5<br>min |
-| 11. | Uppdrag att upprätta förslag till<br>ändring av detaljplan för skola<br>inom Onsala 1:16, Fjordskolan i<br>Onsala och genomföra samråd<br>Föredragande: Stina Wikström,<br>planarkitekt | BN-2026-<br>00164 | Förslag till beslut i byggnadsnämnden<br>Byggnadsnämnden ger<br>samhällsbyggnadskontoret i uppdrag att<br>upprätta förslag till ändring av detaljplan för<br>skola inom Onsala 1:16, Fjordskolan i<br>Onsala och genomföra samråd. | 5<br>min |
-| 12. | Antagande av ändring av<br>detaljplan S53 för bostäder<br>inom Släps-Högås 1:25 m.fl. i<br>Kullavik<br>Föredragande: Stina Wikström,<br>planarkitekt | BN-2025-<br>00046 | Förslag till beslut i byggnadsnämnden<br>Byggnadsnämnden godkänner<br>granskningsutlåtandet.<br>Byggnadsnämnden antar ändring av<br>detaljplan S53 för bostäder inom Släps-<br>Högås 1:25 m.fl. i Kullavik, upprättad 2026-<br>08-18. | 10<br>min |
-| 13. | Antagande av detaljplan för<br>ändring av huvudmannaskapet<br>inom del av detaljplan Ö54,<br>ÖP85 och ÖP88 i Åsa<br>Föredragande: Stina Wikström,<br>planarkitekt | BN-2022-<br>00024 | Förslag till beslut i byggnadsnämnden<br>Byggnadsnämnden godkänner<br>granskningsutlåtandet.<br>Byggnadsnämnden antar detaljplan för<br>ändring av huvudmannaskapet inom del av<br>detaljplan Ö54, ÖP85 och ÖP88 i Åsa,<br>upprättad 2026-08-18. | 10<br>min |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 14. | Antagande av detaljplan för del<br>av Gottskärsvägen inom<br>Skällared s:5 m.fl. i Onsala<br>Föredragande: Stina Wikström,<br>planarkitekt | BN-2026-<br>00027 | Förslag till beslut i byggnadsnämnden<br>Byggnadsnämnden godkänner<br>granskningsutlåtandet.<br>Byggnadsnämnden antar detaljplan för del<br>av Gottskärsvägen inom Skällared s:5<br>i Onsala, upprättad 2026-08-18. | 10<br>min |
-| 15. | LUNNA 11:3 - Förhandsbesked<br>för nybyggnad av två<br>enbostadshus<br>Föredragande: André Nilsson,<br>senior bygglovshandläggare | BN-2025-<br>002623 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för två<br>enbostadshus på fastigheten.<br>Avgiften för beslutet är 25 734 kronor.<br>Avgiften är minskad med 25 734 kronor på<br>grund av att beslutet har tagit mer än 10<br>veckor. Kostnaden blir därför 0 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 10<br>min |
 
 <!-- sida 5 -->
 

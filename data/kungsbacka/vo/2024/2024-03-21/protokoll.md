@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1825fec18e5f70a9a511ec4/17116331504
 sha256: de12ce92e7f404deaf74b4517d577c0057d3b3ac89efb23e7d2eff83041350c2
 bytes: 446023
 sidor: 45
-hamtad: 2026-10-08T08:12:13+00:00
-konverterad: 2026-10-08T08:12:23+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T11:05:50+00:00
+konverterad: 2026-10-14T11:06:01+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -485,7 +485,8 @@ Expedierat/bestyrkt
 
 | 2023 | uppräknat | 2024 |
 | --- | --- | --- |
-| Omsorg per timme<br>Service per timme | + 26 kronor<br>+ 26 kronor | 496<br>453 |
+| Omsorg per timme | + 26 kronor | 496 |
+| Service per timme | + 26 kronor | 453 |
 | OPI 1,9 % |  | 4,6 % |
 
 <!-- sida 12 -->
@@ -1343,11 +1344,14 @@ majoriteten rör förtydliganden. I sak innebär revideringen följande:
 
 Expedierat/bestyrkt
 
-[Tabell 29-1](protokoll.tabeller/29-1.csv)
+[Tabell 29-30-1](protokoll.tabeller/29-30-1.csv)
 
 | 4.14 | Nytt – röd text<br>Se sida 11 i förteckningen | Ansökan om statliga<br>bidrag. | Ekonomi- och<br>kvalitetschef |  |
 | --- | --- | --- | --- | --- |
 | 6.6 | Nytt – röd text<br>Se sida 14 i förteckningen | Personuppgiftsbiträdesavtal<br>för kommungemensamma<br>digitala tjänster och system | Biträdande<br>kommundirektör | Se KF, § 33,<br>2024-03-05.<br>Närmare<br>reglering finns i<br>styrdokument.<br>Gemensamt<br>reglemente för<br>kommunstyrelse<br>och nämnder i<br>Kungsbacka<br>kommun. |
+| 6.11 | 6 kap 1a § offentlighets-<br>och sekretesslag<br>Ändrad befattning.<br>Borttaget – gul markering<br>överstruket.<br>Se sidan 15 i förteckningen | Beslut om<br>förskottsbetalning för att få<br>ta del av kopia av allmän<br>handling | Registrator<br>Utvecklare -<br>informationsförvaltning |  |
+| 6.12 | 10 § arkivlag,<br>Dokumenthanteringsplaner<br>för ledningsprocesser,<br>stödprocesser och<br>verksamhetsprocesser<br>Ändrad befattning.<br>Borttaget – gul markering<br>överstruket.<br>Se sidan 15 i förteckningen | Gallring av allmänna<br>handlingar som inte finns<br>upptagna i<br>dokumenthanteringsplan | Registrator<br>Utvecklare -<br>informationsförvaltning |  |
+| 1-3 | Delgivningslag,<br>Reglemente för<br>kommunstyrelsen och<br>nämnder i Kungsbacka<br>kommun<br>Ändrad befattning.<br>Borttaget – gul markering<br>överstruket.<br>Se sidan 16 i förteckningen | Mottagande av delgivning<br>med Vård & Omsorg | Registrator<br>Utvecklare -<br>informationsförvaltning | Behöriga att<br>motta delgivning<br>är även<br>ordförande och<br>förvaltningschef,<br>enligt det<br>gemensamma<br>reglementet för<br>nämnderna. |
 
 <!-- sida 30 -->
 
@@ -1371,13 +1375,6 @@ Kommunikatör, Vård & Omsorg
 Myndighetsenheten, Vård & Omsorg
 
 Expedierat/bestyrkt
-
-[Tabell 30-1](protokoll.tabeller/30-1.csv)
-
-| 6.11 | 6 kap 1a § offentlighets-<br>och sekretesslag<br>Ändrad befattning.<br>Borttaget – gul markering<br>överstruket.<br>Se sidan 15 i förteckningen | Beslut om<br>förskottsbetalning för att få<br>ta del av kopia av allmän<br>handling | Registrator<br>Utvecklare -<br>informationsförvaltning |  |
-| --- | --- | --- | --- | --- |
-| 6.12 | 10 § arkivlag,<br>Dokumenthanteringsplaner<br>för ledningsprocesser,<br>stödprocesser och<br>verksamhetsprocesser<br>Ändrad befattning.<br>Borttaget – gul markering<br>överstruket.<br>Se sidan 15 i förteckningen | Gallring av allmänna<br>handlingar som inte finns<br>upptagna i<br>dokumenthanteringsplan | Registrator<br>Utvecklare -<br>informationsförvaltning |  |
-| 1-3 | Delgivningslag,<br>Reglemente för<br>kommunstyrelsen och<br>nämnder i Kungsbacka<br>kommun<br>Ändrad befattning.<br>Borttaget – gul markering<br>överstruket.<br>Se sidan 16 i förteckningen | Mottagande av delgivning<br>med Vård & Omsorg | Registrator<br>Utvecklare -<br>informationsförvaltning | Behöriga att<br>motta delgivning<br>är även<br>ordförande och<br>förvaltningschef,<br>enligt det<br>gemensamma<br>reglementet för<br>nämnderna. |
 
 <!-- sida 31 -->
 

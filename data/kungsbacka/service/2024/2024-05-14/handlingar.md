@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.79dd6618f7759b3391494/1715764429777
 sha256: 03e8f30437280eb85a8c98aaee1fce297b93265096b1a2fdb6217bbc698fcd36
 bytes: 2290741
 sidor: 37
-hamtad: 2026-10-08T02:08:12+00:00
-konverterad: 2026-10-08T02:08:20+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T09:47:43+00:00
+konverterad: 2026-10-14T09:47:54+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [10]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1132,8 +1132,9 @@ underskottet.
 
 [Tabell 26-1](handlingar.tabeller/26-1.csv)
 
-| Service, intäkter | Helårspr<br>ognos<br>2024<br>523,0 | Årsbudget<br>2024<br>526,0 | Budget-<br>avvikelse<br>2024<br>-3,0 | Bokslut<br>2023<br>487,2 |
+|  | Helårspr<br>ognos<br>2024 | Årsbudget<br>2024 | Budget-<br>avvikelse<br>2024 | Bokslut<br>2023 |
 | --- | --- | --- | --- | --- |
+| Service, intäkter | 523,0 | 526,0 | -3,0 | 487,2 |
 | Service, kostnader | -579,5 | -581,7 | 2,2 | -556,8 |
 | Service, ram | 55,7 | 55,7 | 0,0 | 59,1 |
 | Fastigheter, intäkter | 867,4 | 870,8 | -3,4 | 810,9 |
@@ -1152,8 +1153,9 @@ Drift per verksamhet
 
 [Tabell 27-1](handlingar.tabeller/27-1.csv)
 
-| Gemensam verksamhet | Intäkt | Bokslut<br>2023<br>28,0 | Helårs-<br>prognos<br>2024<br>29,4 | Årsbudget<br>2024<br>29,4 | Avvikelse<br>2024<br>0,0 |
+|  |  | Bokslut<br>2023 | Helårs-<br>prognos<br>2024 | Årsbudget<br>2024 | Avvikelse<br>2024 |
 | --- | --- | --- | --- | --- | --- |
+| Gemensam verksamhet | Intäkt | 28,0 | 29,4 | 29,4 | 0,0 |
 |  | Kostnad | -39,2 | -42,3 | -42,5 | 0,2 |
 |  | Netto | -11,2 | -12,9 | -13,1 | 0,2 |
 | DC | Intäkt | 70,9 | 81,5 | 84,7 | -3,2 |
@@ -1377,7 +1379,7 @@ Specifikation projekt (belopp i mnkr)
 
 22
 
-[Tabell 31-1](handlingar.tabeller/31-1.csv)
+[Tabell 31-32-1](handlingar.tabeller/31-32-1.csv)
 
 | Projnr | Text | Totalbu<br>dget | Totalpro<br>gnos | Avvikel<br>se<br>totalt | Utfall<br>totalt<br>t.om.<br>april<br>2024 | Helårsp<br>rognos<br>2024 | Budget<br>2024 | Avvikel<br>se 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1388,6 +1390,14 @@ Specifikation projekt (belopp i mnkr)
 | 8967/8968 | Klockaregårde<br>ns förskola | -89,4 | -92,6 | -3,2 | -76,6 | -22,0 | -18,9 | -3,1 |
 | 8961/8962 | Skårbyskolan<br>utbildningslokal<br>er & idrottshall | -266,4 | -260,0 | 6,4 | -237,2 | -23,6 | -30,1 | 6,5 |
 | 8978/8983 | Stockalids<br>förskola | -71,0 | -71,0 | 0,0 | -27,2 | -46,4 | -51,7 | 5,3 |
+| 8944/8945 | Vallda BmSS<br>(boende med<br>särskild<br>service) | -42,6 | -39,8 | 2,8 | -5,2 | -18,2 | -33,7 | 15,5 |
+| 4937/4938 | Liljans skola<br>och idrottssal | -248,3 | -248,3 | 0,0 | 0,0 | -3,3 | 0,0 | -3,3 |
+| 4939/4940 | Ombyggnad<br>Stadshuset<br>hus B | -44,2 | -44,2 | 0,0 | 0,0 | -0,2 | 0,0 | -0,2 |
+| 4910/4911 | Gräskärr<br>förskola | -106,8 | -106,8 | 0,0 | -0,8 | 0,0 | 0,8 | -0,8 |
+| 4912/4913 | Ölmevalla<br>skola och<br>idrottshall | -303,6 | -1,1 | 302,5 | -1,1 | 0,0 | -27,7 | 27,7 |
+| 4914/4915 | Skårby<br>förskola | -101,4 | -101,4 | 0,0 | -2,4 | 0,0 | 2,4 | -2,4 |
+| 4920/4921 | Äpplegårdens<br>förskola | -81,8 | -81,8 | 0,0 | -3,5 | -0,5 | 3,0 | -3,5 |
+| Summa projekt >30 mnkr |  | -2 134,5 | -1 819,1 | 315,4 | -396,0 | -176,9 | -228,7 | 51,8 |
 
 <!-- sida 32 -->
 
@@ -1409,19 +1419,6 @@ förändrade befolkningsprognoser. Ölmevallaskolan och idrottshall har avbrutit
 inte går att lösa så som planerat.
 
 23
-
-[Tabell 32-1](handlingar.tabeller/32-1.csv)
-
-| Projnr | Text | Totalbu<br>dget | Totalpro<br>gnos | Avvikel<br>se<br>totalt | Utfall<br>totalt<br>t.om.<br>april<br>2024 | Helårsp<br>rognos<br>2024 | Budget<br>2024 | Avvikel<br>se 2024 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 8944/8945 | Vallda BmSS<br>(boende med<br>särskild<br>service) | -42,6 | -39,8 | 2,8 | -5,2 | -18,2 | -33,7 | 15,5 |
-| 4937/4938 | Liljans skola<br>och idrottssal | -248,3 | -248,3 | 0,0 | 0,0 | -3,3 | 0,0 | -3,3 |
-| 4939/4940 | Ombyggnad<br>Stadshuset<br>hus B | -44,2 | -44,2 | 0,0 | 0,0 | -0,2 | 0,0 | -0,2 |
-| 4910/4911 | Gräskärr<br>förskola | -106,8 | -106,8 | 0,0 | -0,8 | 0,0 | 0,8 | -0,8 |
-| 4912/4913 | Ölmevalla<br>skola och<br>idrottshall | -303,6 | -1,1 | 302,5 | -1,1 | 0,0 | -27,7 | 27,7 |
-| 4914/4915 | Skårby<br>förskola | -101,4 | -101,4 | 0,0 | -2,4 | 0,0 | 2,4 | -2,4 |
-| 4920/4921 | Äpplegårdens<br>förskola | -81,8 | -81,8 | 0,0 | -3,5 | -0,5 | 3,0 | -3,5 |
-| Summa projekt >30 mnkr |  | -2 134,5 | -1 819,1 | 315,4 | -396,0 | -176,9 | -228,7 | 51,8 |
 
 <!-- sida 33 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4eb2bb73195741cfae1c0ab2/1741936954
 sha256: 4c914b79e8a150d0748f250631e7ff8a6514a9ad507bc822faf6151c846fc78a
 bytes: 699254
 sidor: 10
-hamtad: 2026-10-07T23:50:07+00:00
-konverterad: 2026-10-07T23:50:11+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T07:51:33+00:00
+konverterad: 2026-10-14T07:51:36+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, tabell-osaker]
 tal_obekraftade: [6]
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -347,14 +347,39 @@ Kartläggning                    externa             priser
 
 Kartläggning                    interna            priset
 
+Politiskt                                Nominerings-
+Pris        FVL           KompPertiesnsusumtmveackling Förfarande       Delas ut            Övrigt
+instiftat                                   period
+Årets leverans, Årets
+Medarbetare och
+Del av Medarbetardagen
+nyskapare, Årets
+Året medarbetare                                  invånare röstar,
+KSF     Nej       välkomnare                     Maj-okt     Nov
+(fyra kategorier)                                 Intern jury utser                   Både medarbetare och invånare kan
+10 000 kr
+nominera och rösta.
+vinnare
+Årets team
+25 000 kr
+Årets utvecklande
+ledare: 15 000 kr
+kompetensutveckling
+Årets ledare                                    Intern jury utser
+KSF     Nej                                      Feb-mars    Sept          Del av Ledardagen
+(två kategorier)                                     vinnare
+Årets nyskapande
+ledare: 15 000 kr
+kompetensutveckling
+10 000-20000                  Hösten, senast
+Leva livet-priset VO     KF                                                  KF feb    Krockar med Årets medarbetare?
+kompetensutveckling                  1 nov
+Krockar med Årets medarbetare?
+Nämnden utser Hösten, senast
+Lära för livet-priset FG & GA Nämnd\* 10 000 kr/pristagare                     KF nov
+varsin vinnare    1 okt
+Har tidigare delats ut i juni.
+Ej i bruk, men beslutat i KF 2021-05-04.
+Självständigt liv IF     KF
+(KS-2019-00903 i Ciceron).
 \*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
-
-[Tabell 10-1](handlingar.tabeller/10-1.csv)
-
-| Pris | FVL | Politiskt<br>instiftat | KompPertiesnsusumtmveackling | Förfarande | Nominerings-<br>period | Delas ut | Övrigt |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Året medarbetare<br>(fyra kategorier) | KSF | Nej | Årets leverans, Årets<br>nyskapare, Årets<br>välkomnare<br>10 000 kr<br>Årets team<br>25 000 kr | Medarbetare och<br>invånare röstar,<br>Intern jury utser<br>vinnare | Maj-okt | Nov | Del av Medarbetardagen<br>Både medarbetare och invånare kan<br>nominera och rösta. |
-| Årets ledare<br>(två kategorier) | KSF | Nej | Årets utvecklande<br>ledare: 15 000 kr<br>kompetensutveckling<br>Årets nyskapande<br>ledare: 15 000 kr<br>kompetensutveckling | Intern jury utser<br>vinnare | Feb-mars | Sept | Del av Ledardagen |
-| Leva livet-priset | VO | KF | 10 000-20000<br>kompetensutveckling |  | Hösten, senast<br>1 nov | KF feb | Krockar med Årets medarbetare? |
-| Lära för livet-priset | FG & GA | Nämnd\* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
-| Självständigt liv | IF | KF |  |  |  |  | Ej i bruk, men beslutat i KF 2021-05-04.<br>(KS-2019-00903 i Ciceron). |

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2eac78ea193953fe280606c8/1734005606
 sha256: 50d76ceb2e4467dcb215ac7bcac88ac35a0071a6d98fabc018664e1e045c1c99
 bytes: 12960305
 sidor: 243
-hamtad: 2026-10-07T22:19:41+00:00
-konverterad: 2026-10-07T22:20:30+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T06:33:16+00:00
+konverterad: 2026-10-14T06:33:57+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [221, 222, 223, 224, 225, 226, 232]
+figurer: [9, 18, 20, 22, 23, 44, 50, 66, 78, 79, 80, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 97, 98, 99, 100, 155, 221, 222, 223, 224, 225, 226, 227]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -56,7 +56,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -66,23 +66,24 @@ KUNGSBACKA  KOMMUN
 | 7. | NIU-Basket<br>Föredragande: Cindia<br>Escalante Mattsson,<br>gymnasiechef<br>19:20-19:30 | GA-2024-<br>00217 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner utökningen av NIU-verksamheten med en<br>ny inriktning i form av basket. |
 | 8. | Kvartalsuppföljning<br>arbetsmarknadsprocessen 2024<br>Föredragande: Karin<br>Zetterman, verksamhetschef<br>19:30-19:45 | GA-2024-<br>00081 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner redovisningen avseende kvartal 3 av<br>arbetsmarknadsprocessen 2024. |
 | 9. | Lokalbehov 2026-2030<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>19:45-19:55 | GA-2024-<br>00173 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner kompletterat lokalbehov för<br>teknikprogrammet på Elof Lindälvs gymnasium. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 10. | Förvaltningsbudget 2025<br>Föredragande: Patrik Hellberg,<br>förvaltningschef, Johan Ronner,<br>ekonomichef, Andréas<br>Mårtensson, chef kvalitet- och<br>utveckling<br>19:55-20:25 | GA-2024-<br>00129 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner förvaltningsbudget 2025. |
 | 11. | Investeringsplan 2026-2035 | GA-2024-<br>00205 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner investeringsplanen för löpande<br>investeringar 2026-2035. |
 | 12. | Inackorderingsbidrag 2025 | GA-2024-<br>00197 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>fastställer inackorderingstillägg för läsåret 2025 till<br>1 960 kronor/månad i nio månader (ej juni, juli och<br>augusti). |
 | 13. | Ersättning friskolor 2025 | GA-2024-<br>00196 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar anta den framräknade ersättningen till<br>fristående gymnasieskolor för 2025. |
 | 14. | Rättelse av interkommunal<br>ersättning gymnasiet och<br>anpassad gymnasieskola 2025<br>Föredragande: Johan Ronner,<br>ekonomichef<br>20:30-20:35 | GA-2024-<br>00187 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>fastställer reviderat pris för nationellt godkänd<br>idrottsutbildning (NIU) för lag. |
 | 15. | Revidering av<br>delegeringsförteckning | GA-2024-<br>00192 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner revideringen av delegeringsförteckning<br>daterad 2024-12-19. |
+| 16. | IOP Stadsmissionen | GA-2021-<br>00098 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att förlänga befintligt Idéburet offentligt<br>partnerskap med Göteborgs Stadsmission med start<br>2025-01-01 till 2025-12-31. |
+| 17. | IOP Erikshjälpen | GA-2020-<br>00182 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att förlänga befintligt Idéburet offentligt<br>partnerskap med Erikshjälpen Second hand med<br>start 2025-01-01 till 2025-06-30. |
+| 18. | Återrapportering av program-<br>och verksamhetsråd till<br>nämnden | GA-2024-<br>00003 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 19. | Återrapportering av<br>delegeringsbeslut | GA-2024-<br>00001 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av delegeringsbeslut<br>under perioden 2024-11-01 till 2024-11-30, |
+| 20. | Inkomna skrivelser till<br>ledamöter och ersättare i<br>nämnden | GA-2024-<br>00002 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 21. | Förvaltningschef informerar<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>20:40-20:50 | GA-2024-<br>00007 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -92,17 +93,6 @@ KUNGSBACKA  KOMMUN
 
 Axel Storckenfeldt (M)            Karin Möglebust
 ordförande                        sekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 16. | IOP Stadsmissionen | GA-2021-<br>00098 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att förlänga befintligt Idéburet offentligt<br>partnerskap med Göteborgs Stadsmission med start<br>2025-01-01 till 2025-12-31. |
-| 17. | IOP Erikshjälpen | GA-2020-<br>00182 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att förlänga befintligt Idéburet offentligt<br>partnerskap med Erikshjälpen Second hand med<br>start 2025-01-01 till 2025-06-30. |
-| 18. | Återrapportering av program-<br>och verksamhetsråd till<br>nämnden | GA-2024-<br>00003 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-| 19. | Återrapportering av<br>delegeringsbeslut | GA-2024-<br>00001 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av delegeringsbeslut<br>under perioden 2024-11-01 till 2024-11-30, |
-| 20. | Inkomna skrivelser till<br>ledamöter och ersättare i<br>nämnden | GA-2024-<br>00002 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-| 21. | Förvaltningschef informerar<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>20:40-20:50 | GA-2024-<br>00007 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 
 <!-- sida 5 -->
 
@@ -375,6 +365,23 @@ Uppföljning av systematiskt kvalitetsarbete 2023/2024 - Huvudmannarapport
 
 insikt. Rektorerna har genomgått, genomgår eller står i begrepp att starta den statliga rektorsutbildningen.
 
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Lärare i huvudmannens 90 87 88 87  86  85   86  87,5 81,8 87,4 84,0
+skolor (heltidstj), andel
+(%) med pedagogisk
+högskoleexamen
+Lärare i huvudmannens 222 218 216 216 204 229 218 207 220 231 226
+skolor, antal
+heltidstjänster
+Lärartäthet, antal elever 11,4 12,2 12,1 12,5 13,7 12,7 13,5 14,4 13,7 13,1 13,0
+per lärare (heltidstj.)
+
+Lärare (Heltidstjänster) - - 86,4 85,1 90,6 87,6 86,3 87,2 89,4 82,7 86,3
+med lärarlegitimation
+och behörighet i minst
+ett ämne i
+gymnasieskolan, andel
+(%)
 Mellan 2015 och 2023 visar personalstatistiken för huvudmannens skolor en varierande utveckling, både när
 det gäller antalet lärare, lärartätheten och andelen pedagoger med relevant utbildning.
 Andel lärare med pedagogisk högskoleexamen har gradvis minskat från 88% år 2015 till en lägsta nivå på
@@ -395,14 +402,6 @@ Andel lärare med pedagogisk högskoleexamen har gradvis minskat från 88% år 2
 | Studie- och yrkesvägledare (SYV) Helt.tj | 5,4 |
 | Elev/ SYV Helt.tj | 549,3 |
 | Lärare, tillsvidareanst (%) | 97,4 |
-
-[Tabell 13-2](handlingar.tabeller/13-2.csv)
-
-| Lärare i huvudmannens<br>skolor (heltidstj), andel<br>(%) med pedagogisk<br>högskoleexamen | 2013<br>90 | 2014<br>87 | 2015<br>88 | 2016<br>87 | 2017<br>86 | 2018<br>85 | 2019<br>86 | 2020<br>87,5 | 2021<br>81,8 | 2022<br>87,4 | 2023<br>84,0 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Lärare i huvudmannens<br>skolor, antal<br>heltidstjänster | 222 | 218 | 216 | 216 | 204 | 229 | 218 | 207 | 220 | 231 | 226 |
-| Lärartäthet, antal elever<br>per lärare (heltidstj.) | 11,4 | 12,2 | 12,1 | 12,5 | 13,7 | 12,7 | 13,5 | 14,4 | 13,7 | 13,1 | 13,0 |
-| Lärare (Heltidstjänster)<br>med lärarlegitimation<br>och behörighet i minst<br>ett ämne i<br>gymnasieskolan, andel<br>(%) | - | - | 86,4 | 85,1 | 90,6 | 87,6 | 86,3 | 87,2 | 89,4 | 82,7 | 86,3 |
 
 <!-- sida 14 -->
 
@@ -488,7 +487,7 @@ Elever med avgångsbetyg
 
 10
 
-[Tabell 16-1](handlingar.tabeller/16-1.csv)
+[Tabell 16-17-1](handlingar.tabeller/16-17-1.csv)
 
 | Program<br>Nationella program | Antal<br>elever<br>784 | Andel<br>(%)<br>med<br>examen<br>89,4 | Andel<br>(%)<br>med<br>studie-<br>bevis<br>10,6 | Andel (%)<br>med<br>grund-<br>läggande<br>behörig-<br>het<br>74,6 | Andel<br>(%) med<br>utökat<br>program<br>13,6 | Genom-<br>snittligt<br>betygs-<br>poäng<br>14,0 | Genomsnittlig<br>betygspoäng<br>för elever med<br>examen<br>14,5 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -510,6 +509,10 @@ Elever med avgångsbetyg
 | - NA Aranäs | 58 | 93,1 | .. | 93,1 | .. | 15,8 | 16,3 |
 | Samhällsvetenskaps-<br>programmet | 189 | 93,7 | 6,3 | 93,7 | .. | 14,4 | 14,8 |
 | - SA Aranäs | 182 | 94,5 | 5,5 | 94,5 | .. | 14,5 | 14,8 |
+| Program<br>- SA Beda | Antal<br>elever<br>.. | Andel<br>(%)<br>med<br>examen<br>.. | Andel<br>(%)<br>med<br>studie-<br>bevis<br>. | Andel (%)<br>med<br>grund-<br>läggande<br>behörig-<br>het<br>. | Andel<br>(%) med<br>utökat<br>program<br>. | Genom-<br>snittligt<br>betygs-<br>poäng<br>.. | Genomsnittlig<br>betygspoäng<br>för elever med<br>examen<br>.. |
+| Teknikprogrammet | 144 | 96,5 | .. | 96,5 | 13,9 | 15,4 | 15,5 |
+| -TE Aranäs | 119 | 96,6 | .. | 96,6 | 15,1 | 15,5 | 15,6 |
+| -TE Lindälv | 25 | 96,0 | .. | 96,0 | .. | 14,8 | 15,1 |
 
 <!-- sida 17 -->
 
@@ -532,16 +535,9 @@ Genomsnittlig betygspoäng
 
 [Tabell 17-1](handlingar.tabeller/17-1.csv)
 
-| Program<br>- SA Beda | Antal<br>elever<br>.. | Andel<br>(%)<br>med<br>examen<br>.. | Andel<br>(%)<br>med<br>studie-<br>bevis<br>. | Andel (%)<br>med<br>grund-<br>läggande<br>behörig-<br>het<br>. | Andel<br>(%) med<br>utökat<br>program<br>. | Genom-<br>snittligt<br>betygs-<br>poäng<br>.. | Genomsnittlig<br>betygspoäng<br>för elever med<br>examen<br>.. |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Teknikprogrammet | 144 | 96,5 | .. | 96,5 | 13,9 | 15,4 | 15,5 |
-| -TE Aranäs | 119 | 96,6 | .. | 96,6 | 15,1 | 15,5 | 15,6 |
-| -TE Lindälv | 25 | 96,0 | .. | 96,0 | .. | 14,8 | 15,1 |
-
-[Tabell 17-2](handlingar.tabeller/17-2.csv)
-
-| Genomsnittlig<br>betygspoäng hos<br>avgångseleverna<br>Nationella program | 2014<br>14,0 | 2015<br>13,8 | 2016<br>13,8 | 2017<br>13,9 | 2018<br>13,9 | 2019<br>13,8 | 2020<br>14,0 | 2021<br>14,3 | 2022<br>14,4 | 2023<br>14,3 | 2024<br>14,0 |
+| Genomsnittlig<br>betygspoäng hos<br>avgångseleverna | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nationella program | 14,0 | 13,8 | 13,8 | 13,9 | 13,9 | 13,8 | 14,0 | 14,3 | 14,4 | 14,3 | 14,0 |
 | Yrkesprogram | 12,8 | 12,9 | 12,7 | 12,8 | 12,9 | 12,8 | 13,0 | 13,2 | 13,5 | 13,2 | 12,9 |
 | Barn- och<br>fritidsprogrammet | 12,8 | 11,4 | 12,6 | 12,3 | 13,2 | 14,6 | 13,4 | 13,2 | 13,6 | 15,2 | 13,5 |
 | Bygg- och anläggnings-<br>programmet | 12,6 | 12,2 | 11,9 | 12,7 | 11,5 | 11,8 | 12,8 | 12,8 | 12,9 | 12,5 | 13,6 |
@@ -558,6 +554,20 @@ Genomsnittlig betygspoäng
 Gymnasium & Arbetsmarknad                        Kungsbacka kommun
 Uppföljning av systematiskt kvalitetsarbete 2023/2024 - Huvudmannarapport
 
+Genomsnittlig
+betygspoäng hos 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+avgångseleverna
+Högskoleför-    14,6 14,2 14,3 14,3 14,2 14,2 14,4 14,8 14,8 14,7 14,4
+beredande program
+
+\- SA Aranäs     14,1 14,4 14,0 14,0 13,7 13,8 14,2 15,0 14,6 14,7 14,5
+
+\- SA Beda                13,1 12,1 11,5 12,0 11,7 12,9 13,7 13,1 ..
+Teknikprogrammet 14,8 14,2 14,6 14,7 14,4 14,7 14,6 15,0 15,2 15,4 15,4
+\- TE Elof Lindälv 14,8 14,2 15,2 14,7 14,4 13,7 14,4 14,2 14,1 13,4 14,8
+
+\- TE Aranäs     14,8 14,2 14,2 14,7 14,5 15,7 14,7 15,4 15,6 16,2 15,5
+
 Mellan 2014 och 2024 har den genomsnittliga betygspoängen på gymnasieskolans nationella program varit
 stabil, med mindre variationer över tid. För nationella program som helhet har genomsnittspoängen legat runt
 14,0, med en topp på 14,4 år 2022 och en nedgång åter till 14,0 år 2024.
@@ -566,19 +576,17 @@ stabil, med mindre variationer över tid. För nationella program som helhet har
 
 [Tabell 18-1](handlingar.tabeller/18-1.csv)
 
-| Genomsnittlig<br>betygspoäng hos<br>avgångseleverna<br>Högskoleför-<br>beredande program | 2014<br>14,6 | 2015<br>14,2 | 2016<br>14,3 | 2017<br>14,3 | 2018<br>14,2 | 2019<br>14,2 | 2020<br>14,4 | 2021<br>14,8 | 2022<br>14,8 | 2023<br>14,7 | 2024<br>14,4 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Ekonomiprogrammet | 13,5 | 12,8 | 13,3 | 13,8 | 13,2 | 13,0 | 13,5 | 12,9 | 13,5 | 13,2 | 12,5 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Estetiska programmet | 15,1 | 13,6 | 14,2 | 14,4 | 15,0 | 14,5 | 14,1 | 15,2 | 15,9 | 14,7 | 15,8 |
-| Naturvetenskaps-<br>programmet | 16,0 | 15,8 | 15,8 | 16,0 | 16,6 | 16,0 | 16,2 | 16,4 | 16,2 | 16,3 | 15,5 |
+| Naturvetenskaps- programmet | 16,0 | 15,8 | 15,8 | 16,0 | 16,6 | 16,0 | 16,2 | 16,4 | 16,2 | 16,3 | 15,5 |
+
+[Tabell 18-2](handlingar.tabeller/18-2.csv)
+
 | - NA Elof Lindälv | 16,0 | 16,4 | 15,7 | 16,3 | 16,3 | 15,6 | 15,8 | 15,6 | 15,0 | 14,5 | 14,6 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | - NA Aranäs | 15,9 | 15,3 | 16,0 | 15,5 | 16,9 | 16,5 | 16,5 | 17,1 | 17,4 | 17,5 | 15,8 |
-| Samhällsvetenskaps-<br>programmet | 14,1 | 14,1 | 13,7 | 13,6 | 13,3 | 13,5 | 14,0 | 14,8 | 14,5 | 14,5 | 14,4 |
-| - SA Aranäs | 14,1 | 14,4 | 14,0 | 14,0 | 13,7 | 13,8 | 14,2 | 15,0 | 14,6 | 14,7 | 14,5 |
-| - SA Beda |  |  | 13,1 | 12,1 | 11,5 | 12,0 | 11,7 | 12,9 | 13,7 | 13,1 | .. |
-| Teknikprogrammet | 14,8 | 14,2 | 14,6 | 14,7 | 14,4 | 14,7 | 14,6 | 15,0 | 15,2 | 15,4 | 15,4 |
-| - TE Elof Lindälv | 14,8 | 14,2 | 15,2 | 14,7 | 14,4 | 13,7 | 14,4 | 14,2 | 14,1 | 13,4 | 14,8 |
-| - TE Aranäs | 14,8 | 14,2 | 14,2 | 14,7 | 14,5 | 15,7 | 14,7 | 15,4 | 15,6 | 16,2 | 15,5 |
+| Samhällsvetenskaps- programmet | 14,1 | 14,1 | 13,7 | 13,6 | 13,3 | 13,5 | 14,0 | 14,8 | 14,5 | 14,5 | 14,4 |
 
 <!-- sida 19 -->
 
@@ -597,10 +605,11 @@ Andel (%) elever med examen
 
 13
 
-[Tabell 19-1](handlingar.tabeller/19-1.csv)
+[Tabell 19-20-1](handlingar.tabeller/19-20-1.csv)
 
-| Andel (%) elever med<br>examen<br>Nationella program | 2014<br>94,1 | 2015<br>91,2 | 2016<br>88,7 | 2017<br>91,0 | 2018<br>91,3 | 2019<br>92,1 | 2020<br>94,4 | 2021<br>93,0 | 2022<br>95,1 | 2023<br>92,5 | 2024<br>89,4 |
+| Andel (%) elever med<br>examen | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nationella program | 94,1 | 91,2 | 88,7 | 91,0 | 91,3 | 92,1 | 94,4 | 93,0 | 95,1 | 92,5 | 89,4 |
 | Yrkesförberedande<br>program | 92,6 | 90,2 | 83,3 | 87,2 | 87,1 | 89,6 | 90,0 | 88,9 | 94,4 | 89,6 | 87,5 |
 | Barn- och<br>fritidsprogrammet | 95,5 | 72,2 | 77,8 | 91,7 | 100 | 100 | 95,7 | 87,5 | 92,9 | 96,0 | 88,2 |
 | Bygg- och<br>anläggnings-<br>programmet | 96,3 | 86,4 | 95,8 | 96,2 | 100 | 77,8 | 93,3 | 100 | 96,8 | 88,0 | 78,6 |
@@ -617,6 +626,12 @@ Andel (%) elever med examen
 | Naturvetenskaps-<br>programmet | 97,5 | 96,3 | 96,7 | 96,3 | 100 | 98,0 | 98,1 | 95,2 | 97,4 | 94,4 | 90,2 |
 | - NA Elof Lindälv | 100 | 100 | 95,9 | 100 | 100 | 96,2 | 97,8 | 91,5 | 94,6 | 86,7 | 83,3 |
 | - NA Aranäs | 94,6 | 92,9 | 97,6 | 88,9 | 100 | 100 | 98,4 | 98,5 | 100 | 98,3 | 93,1 |
+| Samhällsvetenskaps-<br>programmet | 95,3 | 93,4 | 90,2 | 89,8 | 86,9 | 92,4 | 97,7 | 95,8 | 94,6 | 93,9 | 93,7 |
+| - SA Aranäs | 94,7 | 92,9 | 92,3 | 91,7 | 89,4 | 95,3 | 97,5 | 95,3 | 97,4 | 93,6 | 94,5 |
+| - SA Beda | - | - | 88,2 | 82,4 | 73,9 | 79,2 | 100 | 100 | 77,3 | 95,8 | .. |
+| Teknikprogrammet | 94,4 | 93 | 91,2 | 92,5 | 94,2 | 93,2 | 95,2 | 94,9 | 92,9 | 95,1 | 96,5 |
+| - TE Elof Lindälv | 95,7 | 92,9 | 95,9 | 90,7 | 92,9 | 87,5 | 100 | 95,2 | 83,3 | 88,1 | 96,0 |
+| - TE Aranäs | 93,8 | 93,1 | 87,5 | 94,3 | 95,2 | 98,4 | 91,5 | 94,7 | 96,3 | 97,5 | 96,6 |
 
 <!-- sida 20 -->
 
@@ -638,16 +653,6 @@ Ekonomiprogrammet. Undantag är Teknikprogrammet, som förbättrade sitt resulta
 
 14
 
-[Tabell 20-1](handlingar.tabeller/20-1.csv)
-
-| Samhällsvetenskaps-<br>programmet | 95,3 | 93,4 | 90,2 | 89,8 | 86,9 | 92,4 | 97,7 | 95,8 | 94,6 | 93,9 | 93,7 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| - SA Aranäs | 94,7 | 92,9 | 92,3 | 91,7 | 89,4 | 95,3 | 97,5 | 95,3 | 97,4 | 93,6 | 94,5 |
-| - SA Beda | - | - | 88,2 | 82,4 | 73,9 | 79,2 | 100 | 100 | 77,3 | 95,8 | .. |
-| Teknikprogrammet | 94,4 | 93 | 91,2 | 92,5 | 94,2 | 93,2 | 95,2 | 94,9 | 92,9 | 95,1 | 96,5 |
-| - TE Elof Lindälv | 95,7 | 92,9 | 95,9 | 90,7 | 92,9 | 87,5 | 100 | 95,2 | 83,3 | 88,1 | 96,0 |
-| - TE Aranäs | 93,8 | 93,1 | 87,5 | 94,3 | 95,2 | 98,4 | 91,5 | 94,7 | 96,3 | 97,5 | 96,6 |
-
 <!-- sida 21 -->
 
 Gymnasium & Arbetsmarknad                        Kungsbacka kommun
@@ -659,8 +664,9 @@ Högskolebehörighet
 
 [Tabell 21-1](handlingar.tabeller/21-1.csv)
 
-| Andel (%) behöriga till<br>högskola av<br>avgångselever<br>Nationella program | 2014<br>79,7 | 2015<br>77,6 | 2016<br>73,6 | 2017<br>77,2 | 2018<br>77,8 | 2019<br>75,7 | 2020<br>81,4 | 2021<br>79,2 | 2022<br>77,6 | 2023<br>78,6 | 2024<br>74,6 |
+| Andel (%) behöriga till<br>högskola av<br>avgångselever | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nationella program | 79,7 | 77,6 | 73,6 | 77,2 | 77,8 | 75,7 | 81,4 | 79,2 | 77,6 | 78,6 | 74,6 |
 | Yrkesprogram | 50,0 | 48,4 | 36,3 | 40,2 | 40,7 | 33,0 | 41,9 | 41,0 | 34,6 | 42,0 | 33,8 |
 | Barn- och fritids-<br>programmet | 81,8 | 55,6 | 66,7 | .. | . | 80,0 | 82,6 | 54,2 | 78,6 | 88,0 | 58,8 |
 | Bygg- och<br>anläggnings-<br>programmet | 40,7 | 35,7 | .. | 46,2 | . | 32,1 | 63,3 | 79,2 | 38,7 | 40,0 | 67,9 |
@@ -707,8 +713,9 @@ Intresset för skolarbetet har legat relativt konstant med en liten förbättrin
 
 [Tabell 22-1](handlingar.tabeller/22-1.csv)
 
-| Index Stimulans | 2022<br>56 | 2023<br>54 | 2024<br>59 |
+|  | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- |
+| Index Stimulans | 56 | 54 | 59 |
 | Tycker du att lärarna varierar lektionerna så att ni får arbeta på olika sätt? | 50 | 48 | 53 |
 | Hur ofta får lärarna dig att bli intresserad av skolarbetet? | 49 | 48 | 51 |
 | Tycker du att lärarna får dig att tro på dig själv i skolarbetet? | 57 | 55 | 60 |
@@ -759,15 +766,23 @@ Index för underområdet Tycker du att du får den hjälp du behöver från skol
 
 Kursbetyg
 
+Andel elever med minst betyget E i gymnasiekurserna samt
+Gymnasiearbete
+Idr och
+Eng Historia      Ma  Na  Re  Sam  Sv  Sv  Gymn-
+Program                 hälsa
+5     1          1    1   1   1    1   2   arb
+1
+Nationella program 99,4 89,4 98,6 98,1 96,8 93,0 97,3 99,5 100 97,7
+Yrkesprogram     98,6  76,4  98,1 95,8 92,1 81,5 92,6 98,6 .. 97,7
+Barn- och
+100   100   100  88,2 100 100 100  100  ..  100
+fritidsprogrammet
+Bygg- och anläggnings-
+96,4  92,9  92,9 96,4 92,9 85,7 92,9 100 .  92,9
+programmet
+
 17
-
-[Tabell 23-1](handlingar.tabeller/23-1.csv)
-
-| Program<br>Nationella program | Andel elever med minst betyget E i gymnasiekurserna samt<br>Gymnasiearbete<br>Idr och<br>Eng Historia Ma Na Re Sam Sv Sv Gymn-<br>hälsa<br>5 1 1 1 1 1 1 2 arb<br>1<br>99,4 89,4 98,6 98,1 96,8 93,0 97,3 99,5 100 97,7 |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Yrkesprogram | 98,6 | 76,4 | 98,1 | 95,8 | 92,1 | 81,5 | 92,6 | 98,6 | .. | 97,7 |
-| Barn- och<br>fritidsprogrammet | 100 | 100 | 100 | 88,2 | 100 | 100 | 100 | 100 | .. | 100 |
-| Bygg- och anläggnings-<br>programmet | 96,4 | 92,9 | 92,9 | 96,4 | 92,9 | 85,7 | 92,9 | 100 | . | 92,9 |
 
 <!-- sida 24 -->
 
@@ -1011,10 +1026,11 @@ Enkätresultat kopplade till läroplansmålet
 
 22
 
-[Tabell 28-1](handlingar.tabeller/28-1.csv)
+[Tabell 28-29-1](handlingar.tabeller/28-29-1.csv)
 
-| Index Trygghet | 2022<br>89 | 2023<br>89 | 2024<br>89 |
+|  | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- |
+| Index Trygghet | 89 | 89 | 89 |
 | Känner du dig rädd för andra elever på skolan? | 91 | 92 | 89 |
 | Känner du dig rädd för någon lärare eller annan vuxen på skolan? | 92 | 92 | 91 |
 | Känner du dig trygg i skolan? | 83 | 83 | 83 |
@@ -1025,6 +1041,18 @@ Enkätresultat kopplade till läroplansmålet
 | Hur ofta är det arbetsro på lektionerna? | 66 | 64 | 64 |
 | Hur ofta är det så stökigt på lektionerna att du har svårt att koncentrera dig? | 64 | 64 | 64 |
 | Index Elevhälsan | 68 | 67 | 69 |
+| Känner du att det finns någon vuxen i skolan som bryr sig om hur du mår? | 6,8 | 67 | 69 |
+| Hur lätt eller svårt är det att få hjälp av elevhälsan, till exempel skolsköterskan? | 68 | 68 | 69 |
+| Index Bemötande – elever | 78 | 77 | 78 |
+| Hur tycker du att eleverna bemöter vuxna i skolan? | 79 | 77 | 77 |
+| Hur tycker du att eleverna bemöter varandra i skolan? | 79 | 76 | 78 |
+| Känner du att du kan vara dig själv i skolan? | 83 | 78 | 77 |
+| Index Bemötande – lärare | 76 | 75 | 76 |
+| Tycker du att lärarna behandlar alla elever lika oavsett om de är flickor, pojkar eller<br>har annan könsidentitet? | 71 | 68 | 70 |
+| Känner du dig orättvist behandlad av någon lärare eller annan vuxen i skolan? | 82 | 81 | 81 |
+| Index Kritiskt tänkande | 54 | 54 | 56 |
+| Hur mycket tycker du att ni elever får öva på att diskutera frågor där man kan tycka<br>olika? | 50 | 50 | 53 |
+| Hur mycket pratar lärarna om att allt man hör och läser, till exempel på internet, inte<br>behöver vara sant (källkritik)? | 58 | 58 | 60 |
 
 <!-- sida 29 -->
 
@@ -1061,22 +1089,6 @@ lärare har varit konstant hög, med ett resultat på 81 under alla tre år.
 För kritiskt tänkande har resultaten visat en liten positiv utveckling, med en ökning från 54 år 2022 till 56 år
 
 23
-
-[Tabell 29-1](handlingar.tabeller/29-1.csv)
-
-| Känner du att det finns någon vuxen i skolan som bryr sig om hur du mår? | 2022<br>6,8 | 2023<br>67 | 2024<br>69 |
-| --- | --- | --- | --- |
-| Hur lätt eller svårt är det att få hjälp av elevhälsan, till exempel skolsköterskan? | 68 | 68 | 69 |
-| Index Bemötande – elever | 78 | 77 | 78 |
-| Hur tycker du att eleverna bemöter vuxna i skolan? | 79 | 77 | 77 |
-| Hur tycker du att eleverna bemöter varandra i skolan? | 79 | 76 | 78 |
-| Känner du att du kan vara dig själv i skolan? | 83 | 78 | 77 |
-| Index Bemötande – lärare | 76 | 75 | 76 |
-| Tycker du att lärarna behandlar alla elever lika oavsett om de är flickor, pojkar eller<br>har annan könsidentitet? | 71 | 68 | 70 |
-| Känner du dig orättvist behandlad av någon lärare eller annan vuxen i skolan? | 82 | 81 | 81 |
-| Index Kritiskt tänkande | 54 | 54 | 56 |
-| Hur mycket tycker du att ni elever får öva på att diskutera frågor där man kan tycka<br>olika? | 50 | 50 | 53 |
-| Hur mycket pratar lärarna om att allt man hör och läser, till exempel på internet, inte<br>behöver vara sant (källkritik)? | 58 | 58 | 60 |
 
 <!-- sida 30 -->
 
@@ -1242,8 +1254,9 @@ på åtta program och minskat på lika många. Från 2022 till 2024 har resultat
 
 [Tabell 32-1](handlingar.tabeller/32-1.csv)
 
-| Index Inflytande | 2022<br>53 | 2023<br>51 | 2024<br>52 |
+|  | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- |
+| Index Inflytande | 53 | 51 | 52 |
 | Hur mycket tycker du att ni elever får vara med och påverka hur ni ska arbeta på<br>lektionerna? | 52 | 49 | 51 |
 | Hur mycket tycker du att de vuxna lyssnar på förslag från eleverna till exempel från<br>klassråd eller elevråd? | 55 | 53 | 54 |
 
@@ -1523,8 +1536,9 @@ de får om sin utbildning och sina prestationer.
 
 [Tabell 37-1](handlingar.tabeller/37-1.csv)
 
-| Index Information om utbildningen | 2022<br>59 | 2023<br>57 | 2024<br>61 |
+|  | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- |
+| Index Information om utbildningen | 59 | 57 | 61 |
 | Hur ofta förklarar lärarna vad du ska göra på lektionerna så att du förstår? | 76 | 75 | 76 |
 | Tycker du att du får veta hur det går för dig i skolarbetet? | 59 | 58 | 63 |
 | Tycker du att lärarna förklarar vad du behöver kunna för att nå kunskapskraven? | 58 | 58 | 62 |
@@ -2026,6 +2040,27 @@ anpassad gymnasieskola
 
 Enkätresultat kopplade till läroplansområdet
 
+Nationella program 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Mina lärare förväntar 87% 87% 83,3% 83,6% 87,1% 92,3% 94,2% 87,5% 92,3% 86,7%
+sig att jag ska nå
+målen i alla kurser
+Skolarbetet gör mig 80% 67% 88,9% 79,2% 77,4% 80,8% 88,6% 93,8% 80,8% 73,3%
+så intresserad att jag
+får lust att lära mig
+mer
+Lärarna har goda 100% 93% 100% 95,8% 93,6% 96,2% 91,4% 93,7% 88,5% 86,7%
+ämneskunskaper
+Lärarna i min skola 100% 83% 100% 100% 90,8% 100% 94,3% 96,9% 96,1% 100%
+hjälper mig med
+skolarbetet när jag
+behöver det
+Lärarna är tydliga 100% 93% 100% 94,7% 93,6% 100% 91,4% 90,6% 100% 90%
+och förklarar så att
+jag förstår
+Lärarna lyssnar till 87% 93% 100% 91,7% 93,5% 92,3% 88,6% 90,6% 88,5% 93,3%
+mina behov och tar
+hänsyn till mina
+förutsättningar
 Resultaten i årets enkät visar en tydlig nedgång på flera viktiga frågor som rör elevernas
 upplevelser av undervisningen. Till exempel har frågan "Mina lärare förväntar sig att jag ska
 nå målen i alla kurser" sjunkit från 92,3% till 86,7%, vilket indikerar att färre elever nu
@@ -2041,16 +2076,6 @@ ha en negativ inverkan på deras lärande och utveckling över tid.
 
 Gymnasium & Arbetsmarknad, Uppföljning systematiskt kvalitetsarbete 2023/2024 - Anpassad
 gymnasieskola                                              9(24)
-
-[Tabell 50-1](handlingar.tabeller/50-1.csv)
-
-| Nationella program<br>Mina lärare förväntar<br>sig att jag ska nå<br>målen i alla kurser | 2015<br>87% | 2016<br>87% | 2017<br>83,3% | 2018<br>83,6% | 2019<br>87,1% | 2020<br>92,3% | 2021<br>94,2% | 2022<br>87,5% | 2023<br>92,3% | 2024<br>86,7% |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Skolarbetet gör mig<br>så intresserad att jag<br>får lust att lära mig<br>mer | 80% | 67% | 88,9% | 79,2% | 77,4% | 80,8% | 88,6% | 93,8% | 80,8% | 73,3% |
-| Lärarna har goda<br>ämneskunskaper | 100% | 93% | 100% | 95,8% | 93,6% | 96,2% | 91,4% | 93,7% | 88,5% | 86,7% |
-| Lärarna i min skola<br>hjälper mig med<br>skolarbetet när jag<br>behöver det | 100% | 83% | 100% | 100% | 90,8% | 100% | 94,3% | 96,9% | 96,1% | 100% |
-| Lärarna är tydliga<br>och förklarar så att<br>jag förstår | 100% | 93% | 100% | 94,7% | 93,6% | 100% | 91,4% | 90,6% | 100% | 90% |
-| Lärarna lyssnar till<br>mina behov och tar<br>hänsyn till mina<br>förutsättningar | 87% | 93% | 100% | 91,7% | 93,5% | 92,3% | 88,6% | 90,6% | 88,5% | 93,3% |
 
 <!-- sida 51 -->
 
@@ -2200,18 +2225,36 @@ kränkande behandling?
 
 Enkätresultat kopplade till läroplansmålet
 
+Nationella program 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Jag känner mig trygg 100% 93% 100% 95,8% 87,1% 92,4% 91,4% 90,6% 92,3% 96,3%
+i skolan
+
+Jag får möjlighet till 93% 93% 100% 75% 80,6% 96,2% 88,6% 87,5% 92,3% 86,7%
+studiero i skolan
+Personalen på skolan 80% 93% 100% 100% 96,8 100% 94,3% 93,7% 92,3% 93,3%
+bemöter mig bra
+
 Gymnasium & Arbetsmarknad, Uppföljning systematiskt kvalitetsarbete 2023/2024 - Anpassad
 gymnasieskola                                             12(24)
 
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
-
-| Nationella program<br>Jag känner mig trygg<br>i skolan | 2015<br>100% | 2016<br>93% | 2017<br>100% | 2018<br>95,8% | 2019<br>87,1% | 2020<br>92,4% | 2021<br>91,4% | 2022<br>90,6% | 2023<br>92,3% | 2024<br>96,3% |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Jag får möjlighet till<br>studiero i skolan | 93% | 93% | 100% | 75% | 80,6% | 96,2% | 88,6% | 87,5% | 92,3% | 86,7% |
-| Personalen på skolan<br>bemöter mig bra | 80% | 93% | 100% | 100% | 96,8 | 100% | 94,3% | 93,7% | 92,3% | 93,3% |
-
 <!-- sida 54 -->
 
+Nationella program 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Andra elever på 80% 93% 83,3% 91,6% 80,7% 84,6% 88,6% 90,7% 84,7% 83,3%
+skolan bemöter mig
+väl
+Jag blir inte 80% 87% 83,4% 87,5% 90,3% 92,3% 68,6% 75,5% 88% 76,6%
+diskriminerad eller
+mobbad i skolan
+I min skola upplever 93% 87% 94,4% 70,9% 74,2% 96,8% 85,8% 84,4% 88,5% 76,7%
+jag att vi respekterar
+varandra
+Det finns vuxna i 87% 93% 100% 100% 83,9% 95,4% 100% 93,7% 100% 96,3%
+skolan att prata med
+när jag behöver det
+I skolan diskuterar vi 83% 93% 94,5% 91,7% 83,9% 92,3% 88,5% 96,9% 88,5% 90,0%
+om hur vi ska vara
+mot varandra
 I årets elevenkät framträder särskilt två områden där resultaten har försämrats markant. Det
 första är frågan "Jag blir inte diskriminerad eller mobbad i skolan", där resultatet har sjunkit
 med hela 11,4 procentenheter. Det andra området som sticker ut är "I min skola upplever jag
@@ -2251,15 +2294,6 @@ inte lett till förbättringar i enkätsvaren, vilket tyder på att mer arbete k
 
 Gymnasium & Arbetsmarknad, Uppföljning systematiskt kvalitetsarbete 2023/2024 - Anpassad
 gymnasieskola                                             13(24)
-
-[Tabell 54-1](handlingar.tabeller/54-1.csv)
-
-| Nationella program<br>Andra elever på<br>skolan bemöter mig<br>väl | 2015<br>80% | 2016<br>93% | 2017<br>83,3% | 2018<br>91,6% | 2019<br>80,7% | 2020<br>84,6% | 2021<br>88,6% | 2022<br>90,7% | 2023<br>84,7% | 2024<br>83,3% |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Jag blir inte<br>diskriminerad eller<br>mobbad i skolan | 80% | 87% | 83,4% | 87,5% | 90,3% | 92,3% | 68,6% | 75,5% | 88% | 76,6% |
-| I min skola upplever<br>jag att vi respekterar<br>varandra | 93% | 87% | 94,4% | 70,9% | 74,2% | 96,8% | 85,8% | 84,4% | 88,5% | 76,7% |
-| Det finns vuxna i<br>skolan att prata med<br>när jag behöver det | 87% | 93% | 100% | 100% | 83,9% | 95,4% | 100% | 93,7% | 100% | 96,3% |
-| I skolan diskuterar vi<br>om hur vi ska vara<br>mot varandra | 83% | 93% | 94,5% | 91,7% | 83,9% | 92,3% | 88,5% | 96,9% | 88,5% | 90,0% |
 
 <!-- sida 55 -->
 
@@ -2365,14 +2399,15 @@ Kommunalt mål: Ett medskapande samhälle och en öppen attityd
 
 Enkätresultat kopplade till läroplansmålet
 
+Nationella program 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Jag känner att vi kan 100% 93% 77,8% 91,6% 80,6% 80,7% 91,4% 90,6% 92,4% 86,6%
+påverka arbetet i
+skolan
+Lärarna tar hänsyn 93,3% 93% 100% 95,8% 90,3% 96,2% 91,4% 93,8% 92,3% 83,4%
+till elevernas åsikter
+
 Gymnasium & Arbetsmarknad, Uppföljning systematiskt kvalitetsarbete 2023/2024 - Anpassad
 gymnasieskola                                             15(24)
-
-[Tabell 56-1](handlingar.tabeller/56-1.csv)
-
-| Nationella program<br>Jag känner att vi kan<br>påverka arbetet i<br>skolan | 2015<br>100% | 2016<br>93% | 2017<br>77,8% | 2018<br>91,6% | 2019<br>80,6% | 2020<br>80,7% | 2021<br>91,4% | 2022<br>90,6% | 2023<br>92,4% | 2024<br>86,6% |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Lärarna tar hänsyn<br>till elevernas åsikter | 93,3% | 93% | 100% | 95,8% | 90,3% | 96,2% | 91,4% | 93,8% | 92,3% | 83,4% |
 
 <!-- sida 57 -->
 
@@ -2519,8 +2554,9 @@ gymnasieskola                                             18(24)
 
 [Tabell 59-1](handlingar.tabeller/59-1.csv)
 
-| Nationella program<br>Jag är nöjd med den studie- och yrkesvägledning (SYV) jag får | 2020<br>73% | 2021<br>71,4% | 2022<br>84,4% | 2023<br>80,8% | 2024<br>60% |
+| Nationella program | 2020 | 2021 | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- | --- | --- |
+| Jag är nöjd med den studie- och yrkesvägledning (SYV) jag får | 73% | 71,4% | 84,4% | 80,8% | 60% |
 | Jag har fått vara ute på APL de veckor jag har rätt till | - | 40% | 65,7% | 73,1% | 50% |
 
 [Tabell 59-2](handlingar.tabeller/59-2.csv)
@@ -2668,6 +2704,12 @@ Kommunalt mål: I Kungsbacka utvecklas vi hela livet
 
 Enkätresultat kopplade till läroplansmålet
 
+Nationella program 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Jag vet vad som krävs 80% 73% 77,7% 79,2% 83,8% 76,9% 80% 84,4% 84,6% 90%
+för att nå de olika
+betygen
+Jag får veta hur det går 87% 73% 94,4% 91,7% 64,6% 88,4% 88,5% 90,7% 100% 80%
+för mig i skolarbetet
 Mellan 2015 och 2024 har resultaten för frågorna "Jag vet vad som krävs för att nå de olika
 
 betygen" och "Jag får veta hur det går för mig i skolarbetet" visat både upp- och nedgångar.
@@ -2706,12 +2748,6 @@ Arbetet med årshjulet för bedömning har till viss del genomförts och följer
 Gymnasium & Arbetsmarknad, Uppföljning systematiskt kvalitetsarbete 2023/2024 - Anpassad
 gymnasieskola                                             21(24)
 
-[Tabell 62-1](handlingar.tabeller/62-1.csv)
-
-| Nationella program<br>Jag vet vad som krävs<br>för att nå de olika<br>betygen | 2015<br>80% | 2016<br>73% | 2017<br>77,7% | 2018<br>79,2% | 2019<br>83,8% | 2020<br>76,9% | 2021<br>80% | 2022<br>84,4% | 2023<br>84,6% | 2024<br>90% |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Jag får veta hur det går<br>för mig i skolarbetet | 87% | 73% | 94,4% | 91,7% | 64,6% | 88,4% | 88,5% | 90,7% | 100% | 80% |
-
 <!-- sida 63 -->
 
 deadlines. Kollegiala samtal har hållits om bedömning. Arbetslaget har delat med sig av sina
@@ -2747,21 +2783,12 @@ gymnasieskola                                             23(24)
 |  |  |  |  |
 | Bedömning och<br>betyg | Eleverna ska<br>veta hur det går<br>för dem i<br>skolarbetet | I elevenkäter och i elevsamtal<br>visar eleven att hen vet vad som<br>krävs för att nå kunskapsmålen<br>och att hen vet hur de ligger till i<br>förhållande till kunskapsmålen. | Fortsätta vara tydliga med vad<br>de olika betygsstegen innebär<br>och arbeta mer systematiskt<br>med att ge eleverna<br>återkoppling kring deras<br>kunskapsutveckling |
 
-[Tabell 64-2](handlingar.tabeller/64-2.csv)
+[Tabell 64-65-2](handlingar.tabeller/64-65-2.csv)
 
 | Läroplansområde<br>Kunskaper | Mål<br>Tillgängliga och anpassade<br>lärmiljöer | Aktiviteter<br>Användning av sinnesrum för<br>stimulering för elever i behov med<br>koppling till pedagogiska<br>planeringar och<br>ämnesområdesplaner |
 | --- | --- | --- |
 |  |  | Tillgängliggöra och möjliggöra<br>lärmiljöer och aktiviteter utanför<br>AGy´s hemvist |
-
-<!-- sida 65 -->
-
-Gymnasium & Arbetsmarknad, Uppföljning systematiskt kvalitetsarbete 2023/2024 - Anpassad
-gymnasieskola                                             24(24)
-
-[Tabell 65-1](handlingar.tabeller/65-1.csv)
-
 |  | Elevernas lärande och utveckling<br>stimuleras genom digitala verktyg | Active Inspire används i bred<br>omfattning i samtliga klasser<br>anpassat till elevernas nivå och<br>behov |
-| --- | --- | --- |
 |  |  |  |
 | Normer och värden | Elever som mår väl | All personal är positiva förebilder<br>och förstärker genom<br>entusiasmerat kroppsspråk, röst<br>och inlevelse |
 |  |  | Arbeta med 10 goda vanor i alla<br>klasser |
@@ -2777,6 +2804,11 @@ gymnasieskola                                             24(24)
 |  |  |  |
 | Bedömning och betyg | Samsyn kring bedömning | Fortsätta arbetet med konkreta<br>exempel vilket gav positiva resultat<br>och ökad förståelse kring<br>bedömning. Vi ser att arbetet kring<br>grundläggande nivå och fördjupad<br>nivå ska fortsätta för att förstärka<br>vår samsyn och kompetens kring<br>bedömning. |
 |  |  | Medvetandegöra all personal i<br>klassarbetslaget om vad elev ska<br>utveckla och bedömas i. |
+
+<!-- sida 65 -->
+
+Gymnasium & Arbetsmarknad, Uppföljning systematiskt kvalitetsarbete 2023/2024 - Anpassad
+gymnasieskola                                             24(24)
 
 <!-- sida 66 -->
 
@@ -4010,7 +4042,7 @@ Beviljad ram har fördelats mellan verksamheterna enligt nedanstående tabell:
 
 6
 
-[Tabell 106-1](handlingar.tabeller/106-1.csv)
+[Tabell 106-107-1](handlingar.tabeller/106-107-1.csv)
 
 |  | 2024 | 2025 |
 | --- | --- | --- |
@@ -4024,6 +4056,7 @@ Beviljad ram har fördelats mellan verksamheterna enligt nedanstående tabell:
 | Arbetsmarknad | -19 450 | -20 135 |
 | Etablering | -8 564 | -9 200 |
 | Myndighetsutövning | -53 369 | -50 235 |
+| Summa | -626 123 | -648 946 |
 
 <!-- sida 107 -->
 
@@ -4048,18 +4081,12 @@ Beviljad ram har fördelats mellan verksamheterna enligt ovanstående tabell.
 
 [Tabell 107-1](handlingar.tabeller/107-1.csv)
 
-|  | 2024 | 2025 |
-| --- | --- | --- |
-| Summa | -626 123 | -648 946 |
-
-[Tabell 107-2](handlingar.tabeller/107-2.csv)
-
 | Investeringar | Bokslut 2023 | Budget 2024 | Budget 2025 | Plan 2026 | Plan 2027-29 |
 | --- | --- | --- | --- | --- | --- |
 | Gymnasium &<br>Arbetsmarknad | -5 900 | -6 340 | -6 340 | -6 340 | -19 020 |
 | Summa | -5 900 | -6 340 | -6 340 | -6 340 | -19 020 |
 
-[Tabell 107-3](handlingar.tabeller/107-3.csv)
+[Tabell 107-2](handlingar.tabeller/107-2.csv)
 
 | Investeringar | Budget 2024 | Budget 2025 |
 | --- | --- | --- |
@@ -4134,7 +4161,7 @@ Förvaltningsbudget 2025
 
 9
 
-[Tabell 109-1](handlingar.tabeller/109-1.csv)
+[Tabell 109-110-1](handlingar.tabeller/109-110-1.csv)
 
 | Kommunövergripan<br>de mål | Fokusområden | Nämndmål | Förvänta<br>Aktiviteter<br>d effekt |
 | --- | --- | --- | --- |
@@ -4148,18 +4175,6 @@ Förvaltningsbudget 2025
 | Ett medskapande<br>samhälle och öppen<br>attityd | I Kungsbacka är<br>invånare, kunder,<br>företag och<br>föreningar<br>medskapande i att<br>utforma det goda<br>livet. |  | Elevinflytande –<br>utveckla utifrån åtgärder<br>identifierade i det<br>systematiska<br>kvalitetsarbetet |
 |  |  |  | Fortsätta genomföra<br>medskapande aktiviteter |
 |  | Kungsbacka<br>kommun är en<br>attraktiv<br>arbetsgivare med |  | Se över och stärka våra<br>chefers arbetsmiljö och<br>förutsättningar |
-
-<!-- sida 110 -->
-
-Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
-Förvaltningsbudget 2025
-
-10
-
-[Tabell 110-1](handlingar.tabeller/110-1.csv)
-
-| Kommunövergripan<br>de mål | Fokusområden | Nämndmål | Förvänta<br>Aktiviteter<br>d effekt |
-| --- | --- | --- | --- |
 |  | modiga och<br>medskapande<br>medarbetare och<br>ledare. |  | Implementera<br>utvecklande<br>medarbetarskap i<br>processer och<br>strukturer, samt knyta<br>ihop med utvecklande<br>ledarskap. |
 |  |  |  | Utveckla och kvalitets-<br>säkra SAM, det<br>systematiska<br>arbetsmiljöarbetet, och<br>komplettera detta med<br>områdena friskfaktorer<br>och pulsmätningar. |
 | DIREKTIV -<br>INNOVATION OCH<br>OMSTÄLLNING TILL<br>NYA ARBETSSÄTT | Kompetensutveckli<br>ng och<br>förstärkning med<br>nya kompetenser |  | Vid nyrekryteringar se<br>över kompetensprofil |
@@ -4168,6 +4183,13 @@ Förvaltningsbudget 2025
 |  |  |  | Stående punkt i<br>respektive<br>ledningsgrupp |
 |  | Skapa<br>ändamålsenliga<br>tekniska<br>förutsättningar |  | Införande av nytt<br>verksamhetssystem för<br>arbetsmarknadsprocess<br>en. |
 |  | Säkerställa att<br>tillräckliga medel<br>inom tilldelad ram<br>öronmärks för<br>innovationsarbete<br>och digitalisering<br>som bidrar till<br>framtidens välfärd |  | Öronmärkta medel och<br>omgörning av tjänster |
+
+<!-- sida 110 -->
+
+Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
+Förvaltningsbudget 2025
+
+10
 
 <!-- sida 111 -->
 
@@ -5161,28 +5183,38 @@ Kungsbacka kommun             Delegeringsförteckning           5 (24)
 
 2 Delegeringsförteckning
 
+2.1 Allmänt
+
+Nr     Lagrum/stöd Delegeringens omfattning             Delegerat Anmärkning/villkor
+till
+2.1.1  KL 6 kap 39 § Ärenden som är så brådskande att kommunstyrelsens avgörande inte kan N ordf
+avvaktas.
+2.1.2  OSL 6 kap Utlämnande av allmän handling med förbehåll eller att inte lämna ut en Fc Utlämnande av handling utan förbehåll eller sekretess lämnas
+3-6 §§    allmän handling.                                 ut av den som har hand om handlingen.
+2.1.3 OSL 6 kap 1 a § Avgift ska betalas helt eller delvis innan avskriften eller kopia av allmän Fc
+handling lämnas ut.
+2.1.4  FL 45 §   Avvisa för sent inkommet överklagande. Fc
+2.1.5  GDPR artikel 37 Utnämna dataskyddsombud för nämnden. Fc
+
+2.1.6 GDPR artikel 15-21, Helt eller delvis avslå framställan om begäran av utövande av registrerads Fc
+23 och     rättigheter.
+dataskyddslagen 5
+kap 1-3 §§
+2.1.7 GDPR artikel 35 Beslut med anledning av konsekvensbedömning avseende dataskydd Fc Fastställa konsekvensbedömning och införa behandling i
+enlighet med konsekvensbedömning
+2.1.8  GDPR artikel 33 Fastställa utredning och åtgärder med anledning av anmäld Dataskydds I samråd med enhetschef och systemförvaltare
+och 34    personuppgiftsincident samt beslut om personuppgiftsincident ska anmälas kontakt
+till tillsynsmyndighet och om registrerade ska informeras
+2.1.9  GDPR artikel 28 Ingå personuppgiftsbiträdesavtal för digitala tjänster och system samt Fc I samråd med systemförvaltare eller dataskyddskontakt
+överenskommelse om gemensamt personuppgiftsansvar.
+
 Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
-
-[Tabell 134-1](handlingar.tabeller/134-1.csv)
-
-|  | 2.1 Allmänt |  |  |  |
-| --- | --- | --- | --- | --- |
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat<br>till | Anmärkning/villkor |
-| 2.1.1 | KL 6 kap 39 § | Ärenden som är så brådskande att kommunstyrelsens avgörande inte kan<br>avvaktas. | N ordf |  |
-| 2.1.2 | OSL 6 kap<br>3-6 §§ | Utlämnande av allmän handling med förbehåll eller att inte lämna ut en<br>allmän handling. | Fc | Utlämnande av handling utan förbehåll eller sekretess lämnas<br>ut av den som har hand om handlingen. |
-| 2.1.3 | OSL 6 kap 1 a § | Avgift ska betalas helt eller delvis innan avskriften eller kopia av allmän<br>handling lämnas ut. | Fc |  |
-| 2.1.4 | FL 45 § | Avvisa för sent inkommet överklagande. | Fc |  |
-| 2.1.5 | GDPR artikel 37 | Utnämna dataskyddsombud för nämnden. | Fc |  |
-| 2.1.6 | GDPR artikel 15-21,<br>23 och<br>dataskyddslagen 5<br>kap 1-3 §§ | Helt eller delvis avslå framställan om begäran av utövande av registrerads<br>rättigheter. | Fc |  |
-| 2.1.7 | GDPR artikel 35 | Beslut med anledning av konsekvensbedömning avseende dataskydd | Fc | Fastställa konsekvensbedömning och införa behandling i<br>enlighet med konsekvensbedömning |
-| 2.1.8 | GDPR artikel 33<br>och 34 | Fastställa utredning och åtgärder med anledning av anmäld<br>personuppgiftsincident samt beslut om personuppgiftsincident ska anmälas<br>till tillsynsmyndighet och om registrerade ska informeras | Dataskydds<br>kontakt | I samråd med enhetschef och systemförvaltare |
-| 2.1.9 | GDPR artikel 28 | Ingå personuppgiftsbiträdesavtal för digitala tjänster och system samt<br>överenskommelse om gemensamt personuppgiftsansvar. | Fc | I samråd med systemförvaltare eller dataskyddskontakt |
 
 <!-- sida 135 -->
 
 Kungsbacka kommun             Delegeringsförteckning           7 (24)
 
-[Tabell 135-1](handlingar.tabeller/135-1.csv)
+[Tabell 135-136-1](handlingar.tabeller/135-136-1.csv)
 
 | 2.1.10 | artikel 28 GDPR<br>och Hantering av<br>personuppgifter –<br>Riktlinjer,<br>Kommunfullmäktig<br>e 2024-03-05 § 33 | Ingå personuppgiftsbiträdesavtal för kommungemensamma digitala<br>tjänster och system. | Bitr. Kdir | Med kommungemensamt avses att systemet eller<br>tjänsten används av kommunens samtliga nämnder. |
 | --- | --- | --- | --- | --- |
@@ -5193,20 +5225,16 @@ Kungsbacka kommun             Delegeringsförteckning           7 (24)
 | 2.1.15 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Utse ombud att föra kommunens talan i mål och ärenden vid rättegång eller<br>förrättning inför domstol och andra myndigheter, med rätt att sätta annan i<br>sitt ställe | Fc |  |
 | 2.1.16 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Föra nämndens talan i mål eller ärende som överklagats till domstol | Ec | Även beslut att överklaga dom till högre instans.<br>Gäller ej beslut som fattats av nämnden. |
 | 2.1.17 | Gemensamt<br>reglemente för<br>kommunstyrel | Ta emot och underteckna delgivning | Ec |  |
+|  | sen och övriga<br>nämnder |  |  |  |
+| 2.1.18 |  | Besluta om stipendier ur skolfonder:<br>Elof Lindälvs stipendiefond<br>Aranäs AB fond för ekonomistuderande<br>Kurt Christiansson fond | Gc |  |
+| 2.1.19 |  | Föreslå stipendiater till Arvid och Hildur Anderssons fond | N ordf | Förslag till KS |
+| 2.1.20 |  | Besluta om stipendiater till<br>Ann-Sophie och F C Hallgrens fond<br>Britten och Gunnar Gagnells fond | N ordf |  |
 
 <!-- sida 136 -->
 
 Kungsbacka kommun             Delegeringsförteckning           8 (24)
 
 [Tabell 136-1](handlingar.tabeller/136-1.csv)
-
-|  | sen och övriga<br>nämnder |  |  |  |
-| --- | --- | --- | --- | --- |
-| 2.1.18 |  | Besluta om stipendier ur skolfonder:<br>Elof Lindälvs stipendiefond<br>Aranäs AB fond för ekonomistuderande<br>Kurt Christiansson fond | Gc |  |
-| 2.1.19 |  | Föreslå stipendiater till Arvid och Hildur Anderssons fond | N ordf | Förslag till KS |
-| 2.1.20 |  | Besluta om stipendiater till<br>Ann-Sophie och F C Hallgrens fond<br>Britten och Gunnar Gagnells fond | N ordf |  |
-
-[Tabell 136-2](handlingar.tabeller/136-2.csv)
 
 |  | 2.2 Ekonomi och inköp |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -5218,18 +5246,28 @@ Kungsbacka kommun             Delegeringsförteckning           8 (24)
 
 <!-- sida 137 -->
 
+2.2.1 d) LOU, Policy för Ändring och tillägg av avtal.  Fc        Inköpsprocessen enligt Riktlinjer för inköp.
+inköp
+Gäller även direktupphandling.
+Riktlinjer för inköp
+2.2.1 e) LOU, Policy för Uppsägning eller hävning av avtal Fc     Inköpsprocessen enligt Riktlinjer för inköp.
+inköp
+Gäller även direktupphandling.
+Riktlinjer för inköp
+2.2.3  Nämndens beslut Beslut om förvaltningsbudget med fördelning på verksamhetsnivå. Fc
+om nämndbudget
+och Kungsbacka
+styrmodell
+2.2.4  Attestreglementet Utse beslutsattestanter och ersättare för nämndens verksamheter. Fc Anmäls till nämnden en gång per år.
+2.2.5 Riktlinjer för Undantag för nämnden från huvudregeln att leasing inte är tillåtet för Fc Krävs särskilda skäl. KS ska godkänna beslutet.
+finansverksamhet annat än fordon och arbetsmaskiner.
+avsnitt 5
+Gemensamt
+reglemente § 9
+
 Kungsbacka kommun             Delegeringsförteckning           9 (24)
 
-[Tabell 137-1](handlingar.tabeller/137-1.csv)
-
-| 2.2.1 d) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Ändring och tillägg av avtal. | Fc | Inköpsprocessen enligt Riktlinjer för inköp.<br>Gäller även direktupphandling. |
-| --- | --- | --- | --- | --- |
-| 2.2.1 e) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Uppsägning eller hävning av avtal | Fc | Inköpsprocessen enligt Riktlinjer för inköp.<br>Gäller även direktupphandling. |
-| 2.2.3 | Nämndens beslut<br>om nämndbudget<br>och Kungsbacka<br>styrmodell | Beslut om förvaltningsbudget med fördelning på verksamhetsnivå. | Fc |  |
-| 2.2.4 | Attestreglementet | Utse beslutsattestanter och ersättare för nämndens verksamheter. | Fc | Anmäls till nämnden en gång per år. |
-| 2.2.5 | Riktlinjer för<br>finansverksamhet<br>avsnitt 5<br>Gemensamt<br>reglemente § 9 | Undantag för nämnden från huvudregeln att leasing inte är tillåtet för<br>annat än fordon och arbetsmaskiner. | Fc | Krävs särskilda skäl. KS ska godkänna beslutet. |
-
-[Tabell 137-2](handlingar.tabeller/137-2.csv)
+[Tabell 137-138-1](handlingar.tabeller/137-138-1.csv)
 
 |  | 2.3 Personal |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -5237,15 +5275,7 @@ Kungsbacka kommun             Delegeringsförteckning           9 (24)
 |  |  | Anställa |  |  |
 | 2.3.1 | LAS,<br>kollektivavtal,<br>lönestruktur mm | Chefer direkt underställda förvaltningschefen Tillsvidareanställning<br>och tidsbegränsade anställningar längre än 6 månader. | Fc | Samråd med presidiet under rekryteringsprocessen<br>och/eller innan anställning.<br>Tidsbegränsad anställning<br>upp till och med 6 månader är verkställighet.<br>Innefattar lönesättning enligt Kungsbackas lönestruktur och<br>samtliga övriga anställningsvillkor. |
 | 2.3.2 | LAS, kollektivavtal,<br>lönestruktur mm | Övriga anställda<br>Tillsvidareanställning och tidsbegränsade anställningar längre än 6<br>månader. | Närmsta<br>chef | Tidsbegränsad anställning upp till och med 6 månader är<br>verkställighet. |
-
-<!-- sida 138 -->
-
-Kungsbacka kommun             Delegeringsförteckning           10 (24)
-
-[Tabell 138-1](handlingar.tabeller/138-1.csv)
-
 |  |  |  |  | Innefattar lönesättning enligt Kungsbackas lönestruktur och<br>samtliga övriga anställningsvillkor. |
-| --- | --- | --- | --- | --- |
 |  |  | Avveckla |  |  |
 | 2.3.3 | LAS § 7 | Uppsägning av personliga skäl. | Fc | I samråd med HR-chef på förvaltningen och kommunens<br>förhandlingschef. |
 | 2.3.4 | LAS § 7 | Uppsägning på grund av arbetsbrist. | Fc | I samråd med HR-chef på förvaltningen. |
@@ -5256,11 +5286,15 @@ Kungsbacka kommun             Delegeringsförteckning           10 (24)
 | 2.3.8 | AB § 10 mom<br>1-3 | Avstängning | Fc<br>Gc<br>Vc KC | I samråd med HR-chef på förvaltningen.<br>Personal inom sitt respektive ansvarsområde. |
 | 2.3.9 | AB § 11 | Disciplinpåföljd - skriftlig varning. | Fc | I samråd med HR-chef på förvaltningen |
 
+<!-- sida 138 -->
+
+Kungsbacka kommun             Delegeringsförteckning           10 (24)
+
 <!-- sida 139 -->
 
 Kungsbacka kommun             Delegeringsförteckning           11 (24)
 
-[Tabell 139-1](handlingar.tabeller/139-1.csv)
+[Tabell 139-141-1](handlingar.tabeller/139-141-1.csv)
 
 |  | 2.4 Gymnasieskola och anpassad gymnasieskola |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -5274,15 +5308,7 @@ Kungsbacka kommun             Delegeringsförteckning           11 (24)
 | 2.4.7 | 7:8 GyF | Beslut om att antagning vid en senare tidpunkt och beslut om<br>inträdesprov ska användas | Rektor |  |
 | 2.4.8 | 17:11, 14, 16,<br>19, 21 SL<br>6:2 GyF | Beslut om behörighet, mottagning och antagning till individuellt program | Rektor | Gäller även beslut att ta emot elever till IMIND vid<br>Insikten när särskilda behov finns |
 | 2.4.9 | 18:5-7 SL | Beslut om att elev tillhör målgruppen för anpassad gymnasieskola | Utv.anp | Hemkommunens ansvar att utreda och besluta om<br>målgruppstillhörighet |
-
-<!-- sida 140 -->
-
-Kungsbacka kommun             Delegeringsförteckning           12 (24)
-
-[Tabell 140-1](handlingar.tabeller/140-1.csv)
-
 | 2.4.10 | 19:29, 35-36,<br>39, 40-41 SL | Mottagande till kommunens anpassade gymnasieskola av elever utanför<br>samverkansområdet | Utv.anp |  |
-| --- | --- | --- | --- | --- |
 | 2.4.11 | 19:29 SL | Beslut om att elev som sökt anpassad gymnasieskolas individuella<br>program har förutsättningar att följa ett nationellt program | Utv.anp |  |
 | 2.4.12 | 7:13 GyF | Beslut om antagning till anpassad gymnasieskola | Utv.anp |  |
 | 2.4.13 | 16:37-40, 49-<br>49a SL<br>17:15-15a SL<br>19:30-32, 42-<br>42a SL | Beslut om mottagande enligt rätten att fullfölja utbildningen | Rektor |  |
@@ -5296,15 +5322,7 @@ Kungsbacka kommun             Delegeringsförteckning           12 (24)
 | 2.4.21 | 4:22 GyF | Beslut om antal undevisningstimmar för varje kurs/nivå, ämnesområde,<br>för gymnasiearbete i gymnasieskolan och anpassade gymnasieskolan<br>samt om hur fördelningen av undetrvisningstiden över läsåren ska göras | Rektor | Timplaner |
 | 2.4.22 | 4:19 GyF | Beslut om att inte erbjuda modersmålsundervisning | Rektor |  |
 | 2.4.23 | 17:7 SL | Beslut om utbildningsplan för introduktionsprogrammen | Gc |  |
-
-<!-- sida 141 -->
-
-Kungsbacka kommun             Delegeringsförteckning           13 (24)
-
-[Tabell 141-1](handlingar.tabeller/141-1.csv)
-
 | 2.4.24 | 16:14 SL | Beslut om att elevs utbildning på ett nationellt program får avvika från<br>vad som annars gäller för programmet | Rektor |  |
-| --- | --- | --- | --- | --- |
 | 2.4.25 | 4:6-7a GyF | Berslut om vilka ämnen och kurser/nivåer som ska erbjudas som<br>programfördjupning och individuellt val vid gymnasieskolan och<br>anpassade gymnasieskolan | Rektor |  |
 | 2.4.26 | 4:10-10a GyF | Beslut om vilka moderna språk som ska erbjudas | Gc |  |
 | 2.4.27 | 4:13 GyF | Beslut om att anordna yrkesprogram vid gymnasieskolan eller anpassad<br>gymnasieskola trots att arbetsplatsförlagt lärande inte kan erbjudas | Fc | Samråd med lokalt programråd innan beslut fattas |
@@ -5320,11 +5338,19 @@ Kungsbacka kommun             Delegeringsförteckning           13 (24)
 | 2.4.37 | 3:5 PSL | Anmälan till Socialstyrelsen av händelser som har medfört eller hade<br>kunnat medföra en allvarlig vårdskada (Lex Maria) | Vc EMI |  |
 | 2.4.38 | 24:20-21 SL | Beslut om särskild undervisning i hemmet eller på annan lämplig plats | Gc | Gäller för elever som på grund av sjukdom eller<br>liknande inte kan delta i ordinarie undervisning |
 
+<!-- sida 140 -->
+
+Kungsbacka kommun             Delegeringsförteckning           12 (24)
+
+<!-- sida 141 -->
+
+Kungsbacka kommun             Delegeringsförteckning           13 (24)
+
 <!-- sida 142 -->
 
 Kungsbacka kommun             Delegeringsförteckning           14 (24)
 
-[Tabell 142-1](handlingar.tabeller/142-1.csv)
+[Tabell 142-143-1](handlingar.tabeller/142-143-1.csv)
 
 |  | 2.5 Kommunal vuxenutbildning |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -5345,20 +5371,16 @@ Kungsbacka kommun             Delegeringsförteckning           14 (24)
 | 2.5.14 | 2:29 VuxF | Beslut om att en elev ska erbjudas skolförlagdutbildning istället för APL | Rektor | Samråd med representanter för det lokala näringslivet<br>innan beslut fattas |
 | 2.5.15 | 20:9 SL | Beslut om upphörande av utbildning om eleven saknar förutsättningar att<br>tillgodogöra sig utbildningen eller annars inte gör tillfredställande<br>framsteg | Rektor |  |
 | 2.5.16 | 20:24 SL | Beslut om att minska omfattningen av SFI-undervisningen för enskild<br>elev | Rektor |  |
+| 2.5.17 | 6:10 SL | Utreda och åtgärda kränkande behandling | Rektor |  |
+| 2.5.18 | 2:7 DL | Utreda och vidta åtgärder mot trakasserier | Rektor |  |
+| 2.5.19 | 4:7-8 SL | Utreda klagomål mot utbildningen och vidta åtgärder | Rektor |  |
+| 2.5.20 | 5:17-21 SL | Beslut om avstängning av elev | Presidium | Huvudmannens beslut |
 
 <!-- sida 143 -->
 
 Kungsbacka kommun             Delegeringsförteckning           15 (24)
 
-[Tabell 143-1](handlingar.tabeller/143-1.csv)
-
-| 2.5.17 | 6:10 SL | Utreda och åtgärda kränkande behandling | Rektor |  |
-| --- | --- | --- | --- | --- |
-| 2.5.18 | 2:7 DL | Utreda och vidta åtgärder mot trakasserier | Rektor |  |
-| 2.5.19 | 4:7-8 SL | Utreda klagomål mot utbildningen och vidta åtgärder | Rektor |  |
-| 2.5.20 | 5:17-21 SL | Beslut om avstängning av elev | Presidium | Huvudmannens beslut |
-
-[Tabell 143-2](handlingar.tabeller/143-2.csv)
+[Tabell 143-145-1](handlingar.tabeller/143-145-1.csv)
 
 |  | 2.6 Ekonomiskt bistånd |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -5370,15 +5392,7 @@ Kungsbacka kommun             Delegeringsförteckning           15 (24)
 | 2.6.5 | 4 kap 1 § SoL | Beslut om bistånd till hyreskostnad utöver skälig nivå | MyH | Ska ske i samråd med Ec |
 | 2.6.6 | 4 kap 1 § SoL | Beslut om bistånd till egna förestagare som driver olönsam verksamhet | Ec |  |
 | 2.6.7 | 4 kap 1 § SoL | Beslut om nödvändig tandvård<br>Om max 30% av prisbasbelopp<br>Om max 50% av prisbasbelopp | MyH<br>Ec | Förtroendetandläkare ska anlitas vid belopp över 20%<br>av prisbasbelopp för behandling av nödvändig<br>tandvård. |
-
-<!-- sida 144 -->
-
-Kungsbacka kommun             Delegeringsförteckning           16 (24)
-
-[Tabell 144-1](handlingar.tabeller/144-1.csv)
-
 |  |  | Om över 50% av prisbasbelopp | Utskott | Bedömning av förtroendetandläkare |
-| --- | --- | --- | --- | --- |
 | 2.6.8 | 4 kap 1 § SoL | Beslut om avslag på nödvändig tandvård över 50 % av prisbasbeloppet<br>efter förtroendetandläkares rekommendation till avslag | Ec |  |
 | 2.6.9 | 4 kap 1 § SoL | Beslut om bistånd i from av öppna insatser i egen regi | MyH |  |
 | 2.6.10 | 4 kap 1 och 2<br>§§ SoL | Beslut om belopp utöver gällande norm, max 50% av prisbasbelopp<br>Beslut om belopp över 50% av prisbasbelopp |  |  |
@@ -5394,18 +5408,18 @@ Kungsbacka kommun             Delegeringsförteckning           16 (24)
 | 2.6.20 | 9 kap 4 § SoL | Beslut om att hel eller delvis eftege ersättningsskyldighet som avses i 9<br>kap 1 § och 8 kap 1 § 1-2 st SoL | Utskott |  |
 | 2.6.21 | 9 kap 4 § SoL | Beslut om att helt eller delvis efterge ersättningsskyldiget av bistånd<br>beviljat enligt 4 kap 1 § SoL och som avses i 9 kap 2 § SoL | Fc | Gäller bistånd mot återbetalning |
 | 2.6.22 | 12 kap 10 §<br>SoL<br>6 §<br>bidragsbrottlag | Beslut om att anmäla misstänkt bidragsbrott | Ec |  |
+| 2.6.23 | 4 kap 1 § SoL | Beslut om begravningshjälp och utgifter i omedelbar anslutning till<br>dödsfallet samt vilkor om återbetalning | MyH |  |
+| 2.6.24 | 4 kap 1 § SoL | Beslut om tillfälligt boende i form av inter lösning eller köpt plats<br>Upp till 5 månader<br>Upp till 6 månader | MyH<br>MyH<br>Ec | Efter beslut av enhetschef återgår delegationen till<br>MyH i fem månader. Månad sex fattar Ec beslut. |
+
+<!-- sida 144 -->
+
+Kungsbacka kommun             Delegeringsförteckning           16 (24)
 
 <!-- sida 145 -->
 
 Kungsbacka kommun             Delegeringsförteckning           17 (24)
 
 [Tabell 145-1](handlingar.tabeller/145-1.csv)
-
-| 2.6.23 | 4 kap 1 § SoL | Beslut om begravningshjälp och utgifter i omedelbar anslutning till<br>dödsfallet samt vilkor om återbetalning | MyH |  |
-| --- | --- | --- | --- | --- |
-| 2.6.24 | 4 kap 1 § SoL | Beslut om tillfälligt boende i form av inter lösning eller köpt plats<br>Upp till 5 månader<br>Upp till 6 månader | MyH<br>MyH<br>Ec | Efter beslut av enhetschef återgår delegationen till<br>MyH i fem månader. Månad sex fattar Ec beslut. |
-
-[Tabell 145-2](handlingar.tabeller/145-2.csv)
 
 |  | 2.7 Dödsboanmälan |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -5423,7 +5437,7 @@ Kungsbacka kommun             Delegeringsförteckning           17 (24)
 
 Kungsbacka kommun             Delegeringsförteckning           18 (24)
 
-[Tabell 146-1](handlingar.tabeller/146-1.csv)
+[Tabell 146-149-1](handlingar.tabeller/146-149-1.csv)
 
 |  | 2.8 Barn och ungdom<br>Nämndens ansvar enligt SoL/FB gäller endast för ensamkommande barn och unga<br>enligt nämndens reglemente daterad 2018-01-19 (GV/2017:119) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -5433,15 +5447,7 @@ Kungsbacka kommun             Delegeringsförteckning           18 (24)
 | 2.8.3 | 11 kap 4a § SoL<br>11 kap 4b § SoL | Beslut om uppföljning vid avslutad utredning utan beslut om insats<br>Beslut om uppföljning efter det att bistånd i form av placering i<br>familjehem eller HVB har upphört | MyH<br>Fc | Max 2 månader om barnet bedöms vara i särskilt<br>behov av nämndens stöd eller skydd men samtycke<br>saknas |
 | 2.8.4 | 4 kap 1 § SoL<br>4 kap 1 § SoL , 3 kap<br>6a § SoL<br>4 kap 1 § SoL, 3 kap 6a<br>§ SoL, 6 kap 13a § FB | Beslut om bistånd i form av öppna insatser i egen regi<br>Beslut om bistånd i form av öppna insatser i extern regi<br>För ungdom över 15 år utan vårdnadshavare samtycke<br>För barn under 15 år med endast den ena vårdnadshavarens<br>samtycke | MyH<br>Ec<br>Fc<br>Utskott | Om det är lämpligt och ungdomen samtycker |
 | 2.8.5 | 3 kap 6b § SoL | Beslut om bistånd i form av kontaktperson eller kontaktfamilj<br>Prövning av bistånd | MyH | För bistånd till ungdomar över 15 år krävs ej<br>vårdnadshavares samtycke |
-
-<!-- sida 147 -->
-
-Kungsbacka kommun             Delegeringsförteckning           19 (24)
-
-[Tabell 147-1](handlingar.tabeller/147-1.csv)
-
 |  |  |  | Fc |  |
-| --- | --- | --- | --- | --- |
 | 2.8.6 | 3 kap 6b SoL<br>6 kap 13a § FB | Beslut om bistånd i form av kontaktperson eller kontaktfamilj för barn<br>under 15 år med endas den ene vårdnadshavares samtycke | Utskott | Förutsatt samtycke från en av två vårdnadshavare<br>och att det krävs med hänsyn taget till barnets bästa |
 | 2.8.7 | 6 kap 8 § SoL | Övervägande om vård i annat hem än det egna fortfarande behövs | Utskott |  |
 | 2.8.8 | 6 kap 6 § SoL | Beslut om medgivande att ett barn tas emot för stadigvarande vård<br>och fostran i enskild hem som inte tillhör någon av föräldrarna eller<br>annan vårdnadshavare<br>Beslut om medgivande att barn ta emot i sådant enskilt hem som vid<br>upprepade tillfällen tar emot barn för tillfällig vård och fostran<br>(jourhem) | Utskott<br>Utskott | Delegerbart endast till utskott enlig 10 kap 4 § SoL.<br>Beslut kan fattas av nämnden ordförande eller<br>annan ledamot som nämnden har förordnat. |
@@ -5451,15 +5457,7 @@ Kungsbacka kommun             Delegeringsförteckning           19 (24)
 | 2.8.12 | 4 kap1 § SoL | Beslut om ekonomiskt bistånd till barn och ungdom för kostnad i<br>samband med placering i HVB, stödboende, familjehem eller<br>jourhem med upp till 15% av prisbasbeloppet<br>Utöver kommunens riktlinjer | MyH<br>Fc |  |
 | 2.8.13 | 4 kap 1 § soL | Beslut om ekonomiskt bistånd till barn och ungdomar i samband med<br>förebyggande insatser med upp till 10% av prisbasbelopp per år<br>Med upp till 40% av prisbasbelopp per år | MyH<br>Ec |  |
 | 2.8.14 | 8 kap 1 § SoL | Beslut om ersättning från föräldrar vars barn är under 18 år och får<br>vård i ett annan hem än det egna | MyH |  |
-
-<!-- sida 148 -->
-
-Kungsbacka kommun             Delegeringsförteckning           20 (24)
-
-[Tabell 148-1](handlingar.tabeller/148-1.csv)
-
 | 2.8.15 | 16 kap 18 § SFB | Beslut om framställan till Försäkringskassan om ändring av<br>betalningsmottagare av allmänt barnbidrag | Utskott |  |
-| --- | --- | --- | --- | --- |
 | 2.8.16 | 2 kap 33 §<br>studiestödsförordningen | Framställan till CSN om ändring av betalningsmottagare av<br>studiehjälp | MyH |  |
 | 2.8.17 | 6 kap 8 § 2 st FB | Beslut att väcka tala om överflyttning av vårdnaden | Utskott | Vid stadigvarande vård och fostran i annat enskilt<br>hem än föräldrahemmet |
 | 2.8.18 | 6 kap 7 § 4 st FB | Beslut om att väcka talan om ändring i vårdnaden | Utskott | Om en förälder brister i omsorgen och barnets hälsa<br>och utveckling utsätts för bestående fara |
@@ -5472,19 +5470,23 @@ Kungsbacka kommun             Delegeringsförteckning           20 (24)
 | 2.9.3 |  | Beslut om ersättning till familjehem (arvode och<br>omkostnadsersättning) enligt riktlinjer<br>Upp till 30% utöver riktlinje<br>Mer än 30% utöver riktlinje | MyH<br>Ec<br>Utskott | Riktlinjer från Individ & Familjeomsorg |
 | 2.9.4 |  | Beslut om ersättning till familjehem (ersättning vid lönebortfall) | MyH | Riktlinjer från Individ & Familjeomsorg |
 | 2.9.5 |  | Beslut om extra omkostnader utöver riktlinje upp till 20% | MyH | Riktlinjer från Individ & Familjeomsorg |
+|  |  | Över 20% utöver riktlinje | Ec |  |
+| 2.9.6 |  | Beslut om ersättning till särskilt förordnad vårdnadshavare | MyH | Avser både ensamkommande barn och övriga<br>ärende utöver beslut enligt 6 kap 11 § SoL |
+| 2.9.7 |  | Teckna avtal gällande ersättning enligt delegationsbeslut avseende<br>kontaktperson, kontaktfamilj, familjehem, avlastningsfamilj, särskilt<br>förordnad vårdnadshavare | MyH |  |
+
+<!-- sida 147 -->
+
+Kungsbacka kommun             Delegeringsförteckning           19 (24)
+
+<!-- sida 148 -->
+
+Kungsbacka kommun             Delegeringsförteckning           20 (24)
 
 <!-- sida 149 -->
 
 Kungsbacka kommun             Delegeringsförteckning           21 (24)
 
-[Tabell 149-1](handlingar.tabeller/149-1.csv)
-
-|  |  | Över 20% utöver riktlinje | Ec |  |
-| --- | --- | --- | --- | --- |
-| 2.9.6 |  | Beslut om ersättning till särskilt förordnad vårdnadshavare | MyH | Avser både ensamkommande barn och övriga<br>ärende utöver beslut enligt 6 kap 11 § SoL |
-| 2.9.7 |  | Teckna avtal gällande ersättning enligt delegationsbeslut avseende<br>kontaktperson, kontaktfamilj, familjehem, avlastningsfamilj, särskilt<br>förordnad vårdnadshavare | MyH |  |
-
-[Tabell 149-2](handlingar.tabeller/149-2.csv)
+[Tabell 149-150-1](handlingar.tabeller/149-150-1.csv)
 
 |  | 2.10 Lagen med särskilda bestämmelser om vård av<br>unga, LVU<br>Nämndens ansvar enligt LVU gäller endast för ensamkommande barn och<br>unga enligt nämndens reglemente daterar 2018-01-19 (GV/2017:119) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -5499,15 +5501,7 @@ Kungsbacka kommun             Delegeringsförteckning           21 (24)
 | 2.10.8 | 13 § 1 och 2 st LVU | Övervägande om vård med stöd av 2 § LVU fortfarande behövs | Utskott |  |
 | 2.10.9 | 13 § 1 och 3 st LVU | Prövning om vård med stöd av 3 § LVU ska upphöra | Utskott |  |
 | 2.10.10 | 21 § LVU | Beslut om att vård enligt LVU ska upphöra | Utskott |  |
-
-<!-- sida 150 -->
-
-Kungsbacka kommun             Delegeringsförteckning           22 (24)
-
-[Tabell 150-1](handlingar.tabeller/150-1.csv)
-
 | 2.10.11 | 14 § 2 st 1 och 2 p<br>LVU | Beslut om hur den unges umgänge med föräldrar eller<br>vårdnadshavare ska utövas eller att den unges vistelseort inte ska<br>röjas för föräldrar eller vårdnadshavare | Utskott |  |
-| --- | --- | --- | --- | --- |
 | 2.10.12 | 14 § 3 st LVU | Övervägande om beslut om umgänge eller hemlighållande av<br>vistelseort enligt 14 § 2 st 1 och 2 p LVU fortfarande behövs | Utskott |  |
 | 2.10.13 | 22 § 1 st LVU | Beslut om kontaktperson eller behandling i öppna former enlig 22<br>§ LVU (mellantvång) | Utskott |  |
 | 2.10.14 | 22 § 3 st LVU | Prövning om beslut om mellantvång enligt 22 § LVU | Utskott | Ska ske var sjätte månad |
@@ -5522,6 +5516,10 @@ Kungsbacka kommun             Delegeringsförteckning           22 (24)
 | 2.10.23 | 43 § 2 p LVU | Beslut att begära polishandräckning för att genomföra beslut om<br>vård eller omhändertagande med stöd av LVU | Utskott | Tjänsteperson enligt särskild förordnande då utskottets<br>beslut inte kan avvaktas |
 | 2.10.24 | 10 kap 2 § SoL | Rätt att såsom ombud föra nämndens talan i mål och ärenden vid<br>domstol med rätt att fullfölja eller återkalla ansökan om vård enligt<br>LVU. | Fc |  |
 | 2.10.24 | 14 a § 2 st LVU | Lämna uppgifter om enskilda som vårdas enligt LVU till Statens<br>institutionsstyrelse | Fc |  |
+
+<!-- sida 150 -->
+
+Kungsbacka kommun             Delegeringsförteckning           22 (24)
 
 <!-- sida 151 -->
 
@@ -5714,8 +5712,8 @@ Komvux som särskild utbildning på grundläggande och gymnasial nivå .........
 Komvux i svenska för invandrare (SFI) ................................................................................................. 17
 
 Ekonomiskt bistånd, Sol ............................................................................................................................... 19
-Dödsboanmälan ...............................................................................................................................................2 2
-Barn och ungdom, bistånd och vård mm, SoL/FB ..................................................................................2 2
+Dödsboanmälan ...............................................................................................................................................22
+Barn och ungdom, bistånd och vård mm, SoL/FB ..................................................................................22
 
 <!-- sida 157 -->
 
@@ -5724,10 +5722,10 @@ Lagen med särskilda bestämmelser om vård av unga, LVU .......................
 
 Tillsynsärenden ............................................................................................................................................... 29
 Övrig handläggning av ärende ..................................................................................................................... 30
-Allmänt ..............................................................................................................................................................3 2
+Allmänt ..............................................................................................................................................................32
 
 Ekonomi och inköp .........................................................................................................................................34
-Personal .............................................................................................................................................................3 5
+Personal .............................................................................................................................................................35
 
 <!-- sida 158 -->
 
@@ -6072,7 +6070,7 @@ JK              Justitiekanslern
 
 Verksamhet
 
-[Tabell 166-1](handlingar.tabeller/166-1.csv)
+[Tabell 166-167-1](handlingar.tabeller/166-167-1.csv)
 
 | Gym<br>Nr | nasieskolan<br>Lagrum/Stöd | och gymnasiesärskolan<br>Delegeringens omfattning | Delegerat till | Med rätt att<br>vidare-<br>delegera | Anmärkning/<br>Villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -6086,13 +6084,7 @@ Verksamhet
 | 4.1:8 | GyF 7:5 | Beslut om att ta hänsyn till<br>färdighetsprov vid urval inom det<br>estetiska området | FC | Rektor |  |
 | 4.1:9 | GyF 7:8 | Beslut om antagning vid<br>senare tidpunkt samt beslut om<br>inträdesprov | FC | Rektor |  |
 | 4.1:10 | GyF 7:9 | Beslut om byte av studieväg | FC | Rektor |  |
-
-<!-- sida 167 -->
-
-[Tabell 167-1](handlingar.tabeller/167-1.csv)
-
 | 4.1:11 | GyF 9:7 | Beslut om fördelning av<br>undervisningen för en elev<br>längre tid än tre år | FC | Rektor |  |
-| --- | --- | --- | --- | --- | --- |
 | 4.1:12 | SL 2:19 | Beslut om att använda ej behörig<br>person för undervisning längre än<br>6 månader | FC | Rektor |  |
 | 4.1:13 | SL 5:17- 20 | Beslut om omedelbar<br>avstängning av elev upp till två<br>veckor | FC | Rektor |  |
 | 4.1:14 | SL 6:10 | Behandla anmälningar från<br>rektor om en elev anser sig ha<br>blivit utsatt för kränkande<br>behandling samt skyndsamt<br>säkerställa åtgärder | FC | Gymnasiechef |  |
@@ -6102,6 +6094,8 @@ Verksamhet
 | 4.1:18 | SL 16:44<br>SL 16:47 | Beslut om mottagande av sökande<br>utanför samverkansområdet | FC | Handl. VoU | ö (s) |
 | 4.1:19 | SL 16:48 | Yttrande om ansökan till program i<br>kommun utanför<br>samverkansområdet | FC | Handl.VoU |  |
 | 4.1:20 | SL 17:6 | Beslut om att minska omfattningen<br>av utbildningen på<br>introduktionsprogram | FC | Rektor |  |
+
+<!-- sida 167 -->
 
 <!-- sida 168 -->
 
@@ -6137,7 +6131,7 @@ Verksamhet
 
 Komvux på grundläggande och gymnasial nivå
 
-[Tabell 170-1](handlingar.tabeller/170-1.csv)
+[Tabell 170-171-1](handlingar.tabeller/170-171-1.csv)
 
 | Nr | Lagrum/Stöd | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidare-<br>delegera | Anmärkning/<br>Villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -6155,20 +6149,16 @@ Komvux på grundläggande och gymnasial nivå
 | 4.2:12 | SL 20:23 | Beslut om antagning till utbildning<br>på gymnasial nivå | FC | Rektor |  |
 | 4.2:13 | SL 20:42 | Erbjuda elev validering | FC | Rektor |  |
 | 4.2:14 |  | Yttrande och svar till<br>Skolinspektionen I generella ärenden<br>så som tillsyn och kvalitetsgransking | FC |  |  |
+| 4.2:15 |  | Yttrande och svar till<br>Skolinspektionen I individärenden. | VC<br>KC |  |  |
+| 4.2:16 | Fvux 2:9 | Beslut om vilka nationella kurser<br>som ska ges | FC | Rektor |  |
+| 4.2:17 | Fvux2:27 | Ansvar att skaffa platser för APL | FC | Rektor |  |
+| 4.2:18 | Fvux 2:29 | Beslut om APL ska ersättas av<br>motsvarande utbildning förlagd till<br>skolan. | FC | Rektor |  |
 
 <!-- sida 171 -->
 
 Komvux som särskild utbildning på grundläggande och gymnasial nivå
 
-[Tabell 171-1](handlingar.tabeller/171-1.csv)
-
-| 4.2:15 |  | Yttrande och svar till<br>Skolinspektionen I individärenden. | VC<br>KC |  |  |
-| --- | --- | --- | --- | --- | --- |
-| 4.2:16 | Fvux 2:9 | Beslut om vilka nationella kurser<br>som ska ges | FC | Rektor |  |
-| 4.2:17 | Fvux2:27 | Ansvar att skaffa platser för APL | FC | Rektor |  |
-| 4.2:18 | Fvux 2:29 | Beslut om APL ska ersättas av<br>motsvarande utbildning förlagd till<br>skolan. | FC | Rektor |  |
-
-[Tabell 171-2](handlingar.tabeller/171-2.csv)
+[Tabell 171-172-1](handlingar.tabeller/171-172-1.csv)
 
 | Nr | Lagrum/Stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidare-<br>delegera | Anmärkning/<br>Villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -6182,15 +6172,7 @@ Komvux som särskild utbildning på grundläggande och gymnasial nivå
 | 4.3:8 | SL 20:9 | Beslut om upphörande av<br>utbildning | FC | Rektor | ö (s) |
 | 4.3:9 | SL 20:13 | Beslut om mottagande av<br>elev på grundläggande<br>nivå. | FC | Rektor |  |
 | 4.3:10 | SL 20:21 | Yttrande över<br>ansökan om att få<br>delta I utbildning<br>på gymnasial nivå<br>på annan ort. | FC | Rektor |  |
-
-<!-- sida 172 -->
-
-Komvux i svenska för invandrare (SFI)
-
-[Tabell 172-1](handlingar.tabeller/172-1.csv)
-
 | 4.3:11 | SL 20:22 | Beslut om mottagande av elev på<br>gymnasial nivå | FC | Rektor |  |
-| --- | --- | --- | --- | --- | --- |
 | 4.3:12 | SL 20:23 | Beslut om antagning till utbildning<br>på gymnasial nivå. | FC | Rektor |  |
 | 4.3: 13 | SL 20:42 | Erbjuda elev validering | FC | Rektor |  |
 | 4.3: 14 |  | Yttrande och svar till<br>Skolinspektionen I generella<br>ärende så som tillsyn och<br>kvalitetsgranskning | VC<br>KC |  |  |
@@ -6198,7 +6180,11 @@ Komvux i svenska för invandrare (SFI)
 | 4.3:16 | Fvux 2:9 | Beslut om vilka nationella kurser<br>som ska ges. | FC |  |  |
 | 4.3:17 | Fvux 2:29 | Beslut om APL ska ersättas av<br>mottsvarande utbildning förlagd<br>till skolan. | FC |  |  |
 
-[Tabell 172-2](handlingar.tabeller/172-2.csv)
+<!-- sida 172 -->
+
+Komvux i svenska för invandrare (SFI)
+
+[Tabell 172-173-1](handlingar.tabeller/172-173-1.csv)
 
 | Nr | Lagrum/Stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidare-<br>delegera | Anmärkning/<br>Villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -6209,13 +6195,7 @@ Komvux i svenska för invandrare (SFI)
 | 4.4:5 | SL 6:7-8 | Genomföra åtgärder för att<br>förebygga kränkande behandling<br>samt årligen upprätta en plan för<br>arbetet kring kränkande behandling | FC | Rektor |  |
 | 4.4:6 | SL 20:7 | Beslut om kostnader för<br>undervisningsmedel | FC | Rektor |  |
 | 4.4:7 | SL 20:9 | Beslut om upphörande av<br>utbildning |  |  |  |
-
-<!-- sida 173 -->
-
-[Tabell 173-1](handlingar.tabeller/173-1.csv)
-
 | 4.4:8 | SL 20:24 | Beslut om utbildningens<br>omfattning | FC | Rektor |  |
-| --- | --- | --- | --- | --- | --- |
 | 4.4:9 | SL 20:33 | Beslut om mottagande av elev | FC | Rektor | ö (s) |
 | 4.4:10 | SL 20:42 | Erbjuda elev validering | FC | Rektor |  |
 | 4.4:11 | SL 20:44 | Ansvara för att eleverna informeras<br>om möjligheten att få ett intyg efter<br>avslutad utbildning | FC | Rektor |  |
@@ -6223,11 +6203,13 @@ Komvux i svenska för invandrare (SFI)
 | 4.4:13 |  | Yttrande och svar till<br>Skolinspektionen generell, till<br>exempel tillsyn och<br>kvalitetsgranskning | FC |  |  |
 | 4.4:14 |  | Yttrande och svar till<br>Skolinspektionen i individärenden. | VC<br>KC |  |  |
 
+<!-- sida 173 -->
+
 <!-- sida 174 -->
 
 Ekonomiskt  bistånd, Sol
 
-[Tabell 174-1](handlingar.tabeller/174-1.csv)
+[Tabell 174-175-1](handlingar.tabeller/174-175-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidare-<br>delegera | Anmärkning<br>/ Villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -6245,13 +6227,7 @@ Ekonomiskt  bistånd, Sol
 | 4.5:12 | 4 kap 1 § SoL | Beslut om bistånd till hyresskulder<br>över 6 månader | Utskott |  |  |
 | 4.5:13 | 4 kap 1 § SoL | Beslut om avslag om bistånd till<br>hyresskulder över 6 månader vid<br>uppenbara skäl. | FC | Enhetschef<br>myndighet |  |
 | 4.5:14 | 4 kap 1 § SoL | Beslut om bistånd till el- vatten-<br>och värmeskulder upp till 3<br>månader | FC | MyndHandl |  |
-
-<!-- sida 175 -->
-
-[Tabell 175-1](handlingar.tabeller/175-1.csv)
-
 | 4.5:15 | 4 kap 1 § SoL | Beslut om bistånd till el- vatten-<br>och värmeskulder över 3 månader | FC | Enhetschef<br>myndighet |  |
-| --- | --- | --- | --- | --- | --- |
 | 4.5:16 | 4 kap 1 § SoL | Beslut om bistånd till barn- och<br>äldreomsorgsskulder upp till 3<br>månader | FC | MyndHandl |  |
 | 4.5:17 | 4 kap 1 § SoL | Beslut om bistånd till barn- och<br>äldreomsorgsskulder över 3<br>månader | FC | Enhetschef<br>Myndighet |  |
 | 4.5:18 | 4 kap 1 § SoL | Beslut om nödvändig tandvård<br>max 30% av pbb<br>Beslut om max 50% av pbb<br>Beslut om över 50% av pbb | FC<br>FC<br>Utskott | MyndHandl<br>Enhetschef<br>Myndighet | Förtroendetandl<br>äkare ska anlitas<br>vid belopp<br>över 20 % av pbb för<br>bed. av nödvändig<br>tandvård<br>Bedömning av<br>förtroendetandläkar<br>e |
@@ -6263,6 +6239,8 @@ Ekonomiskt  bistånd, Sol
 | 4.5:24 | 4 kap 2 § SoL | Beslut om bistånd till<br>hyresdeposition | Utskott | FC | Max två<br>månader |
 | 4.5:25 | 4 kap 2 § SoL | Beslut om avslag om<br>bistånd till<br>hyresdeposition. | FC | MyndHan<br>dl | Efter samråd med<br>samordnare/Ec |
 | 4.5:26 | 9 kap 2 § 1 st<br>SoL | Beslut om att återkräva ekonomiskt<br>bistånd enligt 4 kap 1 § SoL | FC | MyndHandl |  |
+
+<!-- sida 175 -->
 
 <!-- sida 176 -->
 
@@ -6299,23 +6277,19 @@ reglemente daterat 2018-01-19 (GV/2017:119)
 | 4.6:7 | 20 kap 2 § 2 st<br>Ärvdabalken | Beslut att föranstalta om<br>bouppteckning | FC | MyndHand/Dödsb<br>ohandl | Kommunen har<br>rätt till ersättning<br>av dödsboet |
 | 4.6:8 | 18 kap 2 §<br>Ärvdabalken | Beslut att förvalta och<br>avveckla dödsboet | FC | MyndHand/Dödsb<br>ohandl | Kommunen har<br>rätt till ersättning<br>av dödsboet |
 
-[Tabell 177-2](handlingar.tabeller/177-2.csv)
+[Tabell 177-178-2](handlingar.tabeller/177-178-2.csv)
 
 | Nr | Lagrum/Stöd | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidare-<br>delegera | Anmärkning/<br>Villkor |
 | --- | --- | --- | --- | --- | --- |
 | 4.7:1 | 11 kap 1 § SoL<br>11 kap. 1 a § SoL | Beslut att inleda utredning | FC | MyndHandl |  |
 | 4.7:2 | 11 kap 1 § SoL<br>11 kap. 1 a § SoL | Beslut att inte inleda utredning<br>eller att inledd utredning ska<br>läggas ned | FC | Enhetschef<br>Myndighet |  |
 | 4.7:3 | 11 kap 1 § SoL<br>11 kap. 2 § SoL | Beslut att inledd utredning inte<br>föranleder någon åtgärd | FC | Enhetschef<br>Myndighet |  |
-
-<!-- sida 178 -->
-
-[Tabell 178-1](handlingar.tabeller/178-1.csv)
-
 | 4.7:4 | 11 kap 2 § SoL | Beslut om förlängning av<br>utredning för viss tid | Utskott |  | Endast i de särskilda<br>fall som föreskrivs i<br>lagens förarbeten |
-| --- | --- | --- | --- | --- | --- |
 | 4.7:5 | 11 kap 4a § SoL | Beslut om uppföljning vid avslutad<br>utredning utan beslut om insats | FC | MyndHandl | Max 2 mån. Om<br>barnet bedöms vara i<br>särskilt behov av<br>nämndens<br>stöd eller skydd men<br>samtycke saknas |
 | 4.7:6 | 11 kap 4b § SoL | Beslut om uppföljning efter det att<br>bistånd i form av placering i<br>familjehem eller HVB har upphört | FC |  | Max 2 månader Om<br>barnet bedöms vara i<br>särskilt behov av<br>nämndens stöd eller<br>skydd men samtycke<br>saknas |
 | 4.7:7 | 4 kap 1 § SoL<br>4 kap 1 § SoL , 3<br>kap 6a § SoL<br>4 kap 1 § SoL, 3<br>kap 6a § SoL, 6<br>kap 13a § FB | Beslut om bistånd i form av<br>öppna insatser i egen regi<br>Beslut om bistånd i form av öppna<br>insatser i extern regi<br>För ungdom över 15 år utan<br>vårdnadshavares samtycke<br>För barn under 15 år med endast<br>den ena vårdnadshavarens<br>samtycke | FC<br>FC<br>FC<br>Utskott | MyndHandl<br>Enhetschef<br>Myndighet | Om det är lämpligt och<br>ungdomen samtycker<br>Förutsatt samtycke från<br>en av två<br>vårdnashavare och att<br>det krävs med hänsyn<br>taget till barnets bästa |
+
+<!-- sida 178 -->
 
 <!-- sida 179 -->
 
@@ -6393,7 +6367,7 @@ reglemente daterat 2018-01-19 (GV/2017:119)
 
 <!-- sida 183 -->
 
-[Tabell 183-1](handlingar.tabeller/183-1.csv)
+[Tabell 183-184-1](handlingar.tabeller/183-184-1.csv)
 
 | 4.9:9 | 13 § 1 och 3 st<br>LVU | Prövning om vård med stöd av<br>3 § LVU ska upphöra | Utskott |  | Minst var sjätte månad |
 | --- | --- | --- | --- | --- | --- |
@@ -6408,22 +6382,18 @@ reglemente daterat 2018-01-19 (GV/2017:119)
 | 4.9:18 | 26 § 2 st LVU | Beslut om att flyttningsförbud<br>ska upphöra | Utskott |  | Minst var sjätte månad |
 | 4.9:19 | 27 § LVU | Beslut om tillfälligt<br>flyttningsförbud | Utskott |  | Om nämndens beslut<br>inte kan avvaktas får<br>nämndens ordförande<br>eller annan ledamot som<br>nämnden har förordnat<br>besluta. |
 | 4.9:20 | 30 § 2 st LVU | Beslut om att ett tillfälligt<br>flyttningsförbud enligt 27 §<br>LVU ska upphöra | Utskott |  |  |
-
-<!-- sida 184 -->
-
-Tillsynsärenden
-
-[Tabell 184-1](handlingar.tabeller/184-1.csv)
-
 | 4.9:21 | 31 § LVU | Beslut om hur den unges<br>umgänge med föräldrar eller<br>vårdnadshavare ska utövas efter<br>beslut om flyttningsförbud eller<br>tillfälligt flyttningsförbud | Utskott |  |  |
-| --- | --- | --- | --- | --- | --- |
 | 4.9:22 | 32 § 1 st LVU | Beslut om läkarundersökning<br>inför en ansökan enligt 4 § LVU | FC | VC<br>Kompetens-<br>centrum | Utan samtycke endast<br>poliklinisk under-<br>sökning. Vårdnads-<br>havare måste informer-<br>as före beslut om<br>läkarundersökning |
 | 4.9:23 | 43 § 1p LVU | Begäran om polishandräckning<br>för att genomföra<br>läkarundersökning | Utskott |  | Vid brådskande fall<br>kan nämndens<br>ordförande begära<br>polishandräckning.<br>Befogenheten bör endast<br>utnyttjas i undantagsfall |
 | 4.9:24 | 43 § 2p LVU | Beslut att begära<br>polishandräckning för att<br>genomföra beslut om vård eller<br>omhändertagande med stöd av<br>LVU | Utskott<br>Tjänsteperson<br>enligt särskilt<br>förordnande<br>då utskottets<br>beslut inte<br>kan avvaktas |  | Bör anlitas endast då<br>andra lösningar inte är<br>möjliga<br>Förordnande enligt<br>separat beslut med<br>förteckning |
 | 4.9:25 | 10 kap 2 § SoL | Rätt att såsom ombud föra<br>nämndens talan i mål och<br>ärenden vid domstol med rätt<br>att fullfölja eller återkalla<br>ansökan om vård enligt LVU | FC |  |  |
 | 4.9:26 | 14A § 2 st LVU | Lämna uppgifter om enskilda<br>som vårdas enligt LVU till<br>Statens institutionsstyrelse | FC |  | Avser endast de<br>uppgifter om den<br>enskilde som är<br>relevanta för<br>uppföljningen, ej hela<br>akten. |
 
-[Tabell 184-2](handlingar.tabeller/184-2.csv)
+<!-- sida 184 -->
+
+Tillsynsärenden
+
+[Tabell 184-1](handlingar.tabeller/184-1.csv)
 
 | Nr | Lagrum/Stöd | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidare-<br>delegera | Anmärkning/<br>Villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -6443,7 +6413,7 @@ Tillsynsärenden
 | 4.10.6 | 16 kap 6f § SoL<br>28f § LSS | Rapportera till IVO och revisorer,<br>som avses i 3 kap 8 § KL, de<br>gynnande beslut som inte<br>verkställts inom tre månader | FC | X |  |
 | 4.10.7 | 16 kap 6f § SoL<br>28f § 2 st. LSS | Rapportera till IVO och<br>revisorer, som avses i 3 kap 8<br>§ kommunallagen, gynnande<br>beslut som avbryts och som<br>därefter inte verkställts inom<br>tre månader | FC | X |  |
 
-[Tabell 185-2](handlingar.tabeller/185-2.csv)
+[Tabell 185-186-2](handlingar.tabeller/185-186-2.csv)
 
 | Nr | Lagrum/Stöd | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidare-<br>delegera | Anmärkning/<br>Villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -6453,21 +6423,17 @@ Tillsynsärenden
 | 4.11.4 | ÄB:20:8a | Dödsboanmälan till Skatteverket | FC | MyndHandl |  |
 | 4.11.5 | LMA 3 a §<br>tredje stycket, 9<br>och 17 §§ LMA | Beslut om bistånd i form av<br>dagersättning | FC | MyndHandl | Dagersättning ska täcka<br>kostnader för bland annat<br>livsmedel, kläder och skor,<br>fritidsaktiviteter samt<br>förbrukningsvaror och<br>lämnas med ett fast belopp<br>per dag. (Av 6 §<br>förordningen om mottagande<br>av asylsökande, FMA,<br>framgår<br>dagersättningsbelopp). |
 | 4.11.6 | LMA 3 a §<br>tredje stycket, 9<br>och 18 §§ LMA | Beslut om bistånd i form av särskilt<br>bidrag | FC | MyndHandl | Innefattar angelägna behov<br>som är nödvändiga för en<br>dräglig livsföring,<br>exempelvis vinterkläder,<br>glasögon och utrustning för<br>funktionshindrade (18 §<br>LMA och 7 § FMA) |
-
-<!-- sida 186 -->
-
-[Tabell 186-1](handlingar.tabeller/186-1.csv)
-
 | 4.11:7 | 12 kap 42 §<br>hyreslagen<br>(Jordabalken) | Beslut om uppsägning av<br>hyresavtal pga hyresskuld, störande<br>beteende eller annat bort mot<br>överenskommelse I avtalet | FC | Enhetschef<br>etablering |  |
-| --- | --- | --- | --- | --- | --- |
 | 4.11:8 | Lagen om<br>betalningsförel<br>äggande och<br>handräckning | Beslut om ansökan hos<br>kronofogdemyndigheten om<br>betalningsföreläggane | FC | VC<br>KC |  |
 | 4.11:9 | Lagen om<br>betalningsförel<br>äggande och<br>handräckning | Beslut om ansökan hos<br>kronofogdemyndigheten om att<br>avhysa hyresgäst | FC | VC<br>KC |  |
+
+<!-- sida 186 -->
 
 <!-- sida 187 -->
 
 Allmänt
 
-[Tabell 187-1](handlingar.tabeller/187-1.csv)
+[Tabell 187-188-1](handlingar.tabeller/187-188-1.csv)
 
 | Nr | Lagrum/Stöd | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidare-<br>delegera | Anmärkning/<br>Villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -6479,13 +6445,7 @@ Allmänt
 | 5.6 |  | Skolfonder:<br>Elof Lindälv:<br>Elof Lindälv stipendiefond<br>Aranäs AB fond för<br>ekonomistuderande<br>Aranäsgymnasiet:<br>Kurt Christiansson fond | FC | Gymnasiechef |  |
 | 5.7 |  | Föreslå stipendiater till Arvid<br>och Hildur Anderssons fond | N Ordf |  | Förslag till KS |
 | 5.8 |  | Beslut om stipendiater till<br>Ann-Sophie och F C Hallgrens<br>samt Britten och Gunnar<br>Gagnells fond | N Ordf |  |  |
-
-<!-- sida 188 -->
-
-[Tabell 188-1](handlingar.tabeller/188-1.csv)
-
 | 5.9 |  | Utfärdande av fullmakt att<br>företräda nämnden i tvister och<br>betalningsskyldighet | N Ordf |  |  |
-| --- | --- | --- | --- | --- | --- |
 | 5.10 |  | Framställning och rekvisition<br>av statsbidrag till<br>gymnasieskola och<br>vuxenutbildning | FC |  |  |
 | 5.11 |  | Återsökning av hyresgarantier | FC | Ekonom<br>Stöd &<br>Styrning |  |
 | 5.12 | Allmänna<br>Dataskydds<br>förordningen EU<br>2016/679 och<br>dataskyddslagen | Besluta om att helt eller delvis<br>avslå framställan om begäran<br>av utövande av registrerads<br>rättigheter | FC | X |  |
@@ -6496,17 +6456,21 @@ Allmänt
 | 5.17 | Allmänna<br>Dataskydds<br>förordningen EU<br>2016/679, artikel 35 | Beslut med anledning av<br>konsekvensbedömning/DPIA<br>vid viss<br>personuppgiftsbehandling. | FC |  |  |
 | 5.18 | Patientsäkerhets-<br>lagen kap 3 § 5 | Anmälan Lex Maria | FC | Verksamhe<br>tschef för<br>elevhälsans<br>medicinska<br>insater |  |
 
+<!-- sida 188 -->
+
 <!-- sida 189 -->
 
 Ekonomi  och inköp
 
-[Tabell 189-1](handlingar.tabeller/189-1.csv)
+[Tabell 189-190-1](handlingar.tabeller/189-190-1.csv)
 
 | Nr | Lagrum/Stöd | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidare-<br>delegera | Anmärkning/<br>Villkor |
 | --- | --- | --- | --- | --- | --- |
 | 6.1 | Kommunens<br>tillämpnings-<br>föreskrifter för<br>upphandlings-<br>policy | Beslut om upphandling inom<br>nämndens verksamhets-<br>område.<br>Beslutanderätten innefattar<br>följande:<br>- Beslut att inleda<br>upphandling<br>- Beslut att godkänna<br>tilldelning, gäller även<br>återta tilldelning<br>- Beslut att underteckna<br>avtal efter att<br>avtalsspärren löpt ut<br>alternativt efter att<br>domstol avslagit<br>ansökan om<br>överprövning<br>- Beslut att avbryta<br>upphandling, gäller<br>även återta avbrytande<br>- Beslut om ändring och<br>tillägg till avtal<br>- Beslut om uppsägning<br>eller hävning av avtal | FC | X | Beslutsrätten gäller inom<br>budgetansvar för<br>respektive ansvarsområde<br>och i enlighet med<br>gällande upphandlings-<br>regler.<br>Vid större upphandlingar<br>som har långsiktig effekt,<br>ska nämnden informeras<br>innan upphandling sker.<br>Inför beslut ska samråd<br>alltid ske med Service<br>Inköp.<br>Nämnden kan<br>besluta att<br>delegationen ska<br>omfatta särskilda<br>belopp. Om inte så<br>gäller beslutet<br>inom budget. |
 | 6.2 | Nämndens<br>beslut om<br>nämndbudget<br>och<br>Kungsbackas<br>styrmodel | Beslut om förvaltningsbudget<br>med fördelning på<br>verksamhetsnivå | FC |  |  |
 | 6.3 | Regler för<br>kommunens<br>likvidplanering,<br>krav- och<br>inkasso-<br>verksamhet samt<br>kontanthantering<br>Fastställd av<br>kommunfullmäk<br>tige 2010-09-07<br>§ 160 | Beslut om att avskriva<br>utestående fordringar upp till<br>ett basbelopp | FC | X | Avskrivning om<br>högst ett basbelopp<br>får vidare-<br>delegeras |
+| 6.4 | Kommunens<br>tillämpnings-<br>föreskrifter för<br>upphandlings-<br>policy | Försäljning av inventarier<br>och utrustning | FC | VC | Vilken VC beror<br>på berörd<br>verksamhet |
+| 6.5 | Attest-<br>reglementet | Utse beslutsattestanter och<br>ersättare för nämndens<br>verksamheter | FC |  | Anmäls till N en<br>gång per år |
 
 <!-- sida 190 -->
 
@@ -6517,12 +6481,6 @@ tjänstemannabeslut. Övriga ärenden inom personalområdet som är att
 betrakta som ren verkställighet finna angivna i en särskild förteckning.
 
 [Tabell 190-1](handlingar.tabeller/190-1.csv)
-
-| 6.4 | Kommunens<br>tillämpnings-<br>föreskrifter för<br>upphandlings-<br>policy | Försäljning av inventarier<br>och utrustning | FC | VC | Vilken VC beror<br>på berörd<br>verksamhet |
-| --- | --- | --- | --- | --- | --- |
-| 6.5 | Attest-<br>reglementet | Utse beslutsattestanter och<br>ersättare för nämndens<br>verksamheter | FC |  | Anmäls till N en<br>gång per år |
-
-[Tabell 190-2](handlingar.tabeller/190-2.csv)
 
 | Nr | Lagrum/Stöd | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidare-<br>delegera | Anmärknin<br>g/<br>Villkor |
 | --- | --- | --- | --- | --- | --- |

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.74cc8c0e19a55b65f7f7cfc4/1762933243
 sha256: b80e70553ede9857ad735a9ac3dcfc0d962f95dd848c8bf73027ba2167bd4858
 bytes: 15828624
 sidor: 366
-hamtad: 2026-10-08T00:22:58+00:00
-konverterad: 2026-10-08T00:25:11+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T08:19:14+00:00
+konverterad: 2026-10-14T08:20:55+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [255]
-figurer: null
-tolkade: null
+figurer: [7, 10, 11, 15, 16, 20, 24, 26, 38, 43, 49, 50, 63, 75, 79, 82, 83, 84, 92, 97, 101, 102, 103, 104, 105, 106, 107, 108, 110, 113, 114, 115, 116, 118, 119, 122, 123, 124, 126, 129, 130, 146, 179, 181, 185, 186, 189, 192, 193, 196, 197, 201, 207, 210, 211, 217, 221, 222, 223, 224, 226, 227, 228, 229, 233, 234, 235, 236, 237, 238, 239, 252, 253, 254, 255, 256, 273, 280, 287, 294, 296, 302, 303, 304, 307, 311, 317, 326, 329, 334, 336, 341, 343, 344, 352, 360]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -3970,7 +3970,7 @@ Tabellen nedan redovisar vilka kostnadsposter respektive part ansvarar för.
 
 Granskningshandling                                        21 (54)
 
-[Tabell 95-1](handlingar.tabeller/95-1.csv)
+[Tabell 95-96-1](handlingar.tabeller/95-96-1.csv)
 
 | Fastighet/part | Ekonomisk konsekvens (betalar) |
 | --- | --- |
@@ -3979,6 +3979,10 @@ Granskningshandling                                        21 (54)
 | Kommunen, nämnden för service | Ev. flytt av befintliga ledningar |
 | Kommunen, nämnden för service | Flytt av befintliga byggnader som hyrs<br>in. |
 | Kommunen, nämnden för service | Avstyckningskostnader för bildande av<br>skolfastighet mm. |
+| Kommunen, nämnden för service | Omprövning av befintlig<br>gemensamhetsanläggning eller<br>kostnader för förändrat andelstal genom<br>tecknande av överenskommelse om<br>andelstal enligt 43 § anläggningslagen<br>mellan fastigheternas ägare samt<br>föreningens styrelse för Åsa ga:8 |
+| Kommunen, nämnden för teknik (VA-<br>kollektivet) | Eventuell ledningsrättsförrättning för<br>allmänna ledningar. |
+| Kommunen, nämnden för teknik (VA-<br>kollektivet) | Anläggande av förbindelsepunkt |
+| Kommunen, nämnden för service | Utbyggnad av anläggningar inom<br>kvartersmark |
 
 <!-- sida 96 -->
 
@@ -4000,14 +4004,6 @@ framtagandet av detaljplanen. Under genomförandeskedet är det den som initiera
 som söker och bekostar eventuella tillstånd och dispenser.
 
 Granskningshandling                                        22 (54)
-
-[Tabell 96-1](handlingar.tabeller/96-1.csv)
-
-| Kommunen, nämnden för service | Omprövning av befintlig<br>gemensamhetsanläggning eller<br>kostnader för förändrat andelstal genom<br>tecknande av överenskommelse om<br>andelstal enligt 43 § anläggningslagen<br>mellan fastigheternas ägare samt<br>föreningens styrelse för Åsa ga:8 |
-| --- | --- |
-| Kommunen, nämnden för teknik (VA-<br>kollektivet) | Eventuell ledningsrättsförrättning för<br>allmänna ledningar. |
-| Kommunen, nämnden för teknik (VA-<br>kollektivet) | Anläggande av förbindelsepunkt |
-| Kommunen, nämnden för service | Utbyggnad av anläggningar inom<br>kvartersmark |
 
 <!-- sida 97 -->
 
@@ -8332,7 +8328,7 @@ verksamheten.
 
 Antagandehandling                                          21 (56)
 
-[Tabell 205-1](handlingar.tabeller/205-1.csv)
+[Tabell 205-206-1](handlingar.tabeller/205-206-1.csv)
 
 |  |  |
 | --- | --- |
@@ -8347,6 +8343,9 @@ Antagandehandling                                          21 (56)
 | Region Halland | Rivning av befintliga anläggningar |
 | Region Halland | Dispens för nedtagning av biotopskyddade<br>träd samt utförande av kompensationsåtgärder |
 | Region Halland | Lantmäteriförrättning avssende<br>fastighetsreglering av mark för allmän plats, |
+|  | ändring av officialservitut för väg och<br>dagvattenledning, omprövning av ledningsrätt<br>samt ev. bildande av<br>gemensamhetsanläggningar |
+| Region Halland | Utbyggnad av anläggningar inom<br>kvartersmark |
+| Region Halland | Utbyggnad av brandvattenpost |
 
 <!-- sida 206 -->
 
@@ -8375,13 +8374,6 @@ Dispenser och tillstånd under genomförandeskedet
 Antagandehandling                                          22 (56)
 
 [Tabell 206-1](handlingar.tabeller/206-1.csv)
-
-|  | ändring av officialservitut för väg och<br>dagvattenledning, omprövning av ledningsrätt<br>samt ev. bildande av<br>gemensamhetsanläggningar |
-| --- | --- |
-| Region Halland | Utbyggnad av anläggningar inom<br>kvartersmark |
-| Region Halland | Utbyggnad av brandvattenpost |
-
-[Tabell 206-2](handlingar.tabeller/206-2.csv)
 
 |  |  |
 | --- | --- |
@@ -10409,33 +10401,24 @@ Möjliga nya byggnader             Träd
 Illustrationsplan upprättad av Region Halland / White Arkitekter
 Entré                             Torrdamm
 3:1                  13                                                                                                                                                                                                Detaljplan för sjukhus inom                 Antagandehandling
-Detaljplanen är baserad på koordinatsystemet   Skala 1:1000 i A1, 1:2000 i A3                                                                                       TECKENFÖRKLARING GRUNDKARTA                                                                                                           Instans
-SWEREF 991200
-0  10  20  30  40  50                100 m
+Detaljplanen är baserad på koordinatsystemet   Skala 1:1000 i A1, 1:2000 i A3                                                                                       TECKENFÖRKLARING GRUNDKARTA                                                                                                 Beslutsdatum Instans
+Tölöberg  2 och Tölö 1:17
+SWEREF 991200                                  0  10  20  30  40  50                100 m                                                                                                                                                                                                       Samrådsbeslut
 och höjdsystemet Rh 2000                                                                                                                                                         Fastighetsgräns            1       Höjdkurva 1 m
-BN § 156
-APELSINEN    Traktnamn, kvartersnamn    5       Höjdkurva 5 m
+APELSINEN    Traktnamn, kvartersnamn    5       Höjdkurva 5 m            i Kungsbacka                               G:\SBK\Begränsad\Samhällsplanering\7_Arbetsstöd\Mallar\Kungsbacka-logga\600px_kba_logo18_4-farg.jpg 2024-07-04 BN § 156
+Granskning
 2:14 5       Registernummer, tomtnummer         Vägkant, matarväg                                                                     BN
-del.beslut
+Kungsbacka  kommun                                 2025-05-06 del.beslut
 Bostadshus fasad, resp tak         Vägkant, större väg
-Uthus fasad, resp tak              Vägkant, mindre väg
+Uthus fasad, resp tak              Vägkant, mindre väg                                                         Antagande
+Upprättad 2025-11-04
 Skärmtak                           Gång- / Cykelväg, infart, stig
-4.5          Höjdpunkt           Storgatan     Gatunamn
-Plankostnads-
-avtal
-Ja
+4.5          Höjdpunkt           Storgatan     Gatunamn                                                                    Laga kraft
+Diarienr  Plankostnads-
+Ida Lennartsson          Emma Johansson                      avtal
+Verksamhetschef Plan     Planarkitekt              2018-00033 Ja
 ILLUSTRATION              Detaljplanen är upprättad enligt
 PBL 2010:900 med standardförfarande
-
-[Tabell 253-1](handlingar.tabeller/253-1.csv)
-
-| Tölöberg 2 och Tölö 1:17<br>i Kungsbacka G:\SBK\Begränsad\Samhällsplanering\7_Arbetsstöd\Mallar\Kungsbacka-logga\600px_kba_logo18_4-farg.jpg<br>Kungsbacka kommun | Beslutsdatum |
-| --- | --- |
-|  | Samrådsbeslut<br>2024-07-04 |
-|  | Granskning<br>2025-05-06 |
-| Upprättad 2025-11-04 | Antagande |
-| Ida Lennartsson Emma Johansson<br>Verksamhetschef Plan Planarkitekt | Laga kraft |
-|  | Diarienr<br>2018-00033 |
 
 <!-- sida 254 -->
 
@@ -10628,32 +10611,23 @@ Möjliga nya byggnader             Träd
 Illustrationsplan upprättad av Region Halland / White Arkitekter
 Entré                             Torrdamm
 3:1                  13                                                                                                                                                                                                Detaljplan för sjukhus inom                 Antagandehandling
-Detaljplanen är baserad på koordinatsystemet   Skala 1:1000 i A1, 1:2000 i A3                                                                                       TECKENFÖRKLARING GRUNDKARTA                                                                                                           Instans
-SWEREF 991200
-0  10  20  30  40  50                100 m
+Detaljplanen är baserad på koordinatsystemet   Skala 1:1000 i A1, 1:2000 i A3                                                                                       TECKENFÖRKLARING GRUNDKARTA                                                                                                 Beslutsdatum Instans
+Tölöberg  2 och Tölö 1:17
+SWEREF 991200                                  0  10  20  30  40  50                100 m                                                                                                                                                                                                       Samrådsbeslut
 och höjdsystemet Rh 2000                                                                                                                                                         Fastighetsgräns            1       Höjdkurva 1 m
-BN § 156
-APELSINEN    Traktnamn, kvartersnamn    5       Höjdkurva 5 m
+APELSINEN    Traktnamn, kvartersnamn    5       Höjdkurva 5 m            i Kungsbacka                               G:\SBK\Begränsad\Samhällsplanering\7_Arbetsstöd\Mallar\Kungsbacka-logga\600px_kba_logo18_4-farg.jpg 2024-07-04 BN § 156
+Granskning
 2:14 5       Registernummer, tomtnummer         Vägkant, matarväg                                                                     BN
-Bostadshus fasad, resp tak         Vägkant, större väg                                                                   del.beslut
-Uthus fasad, resp tak              Vägkant, mindre väg
+Bostadshus fasad, resp tak         Vägkant, större väg      Kungsbacka  kommun                                 2025-05-06 del.beslut
+Uthus fasad, resp tak              Vägkant, mindre väg                                                         Antagande
+Upprättad 2025-11-04
 Skärmtak                           Gång- / Cykelväg, infart, stig
-4.5          Höjdpunkt           Storgatan     Gatunamn
-Plankostnads-
-avtal
-Ja
+4.5          Höjdpunkt           Storgatan     Gatunamn                                                                    Laga kraft
+Diarienr  Plankostnads-
+Ida Lennartsson          Emma Johansson                      avtal
+Verksamhetschef Plan     Planarkitekt              2018-00033 Ja
 ILLUSTRATION              Detaljplanen är upprättad enligt
 PBL 2010:900 med standardförfarande
-
-[Tabell 254-1](handlingar.tabeller/254-1.csv)
-
-| Tölöberg 2 och Tölö 1:17<br>i Kungsbacka G:\SBK\Begränsad\Samhällsplanering\7_Arbetsstöd\Mallar\Kungsbacka-logga\600px_kba_logo18_4-farg.jpg<br>Kungsbacka kommun | Beslutsdatum |
-| --- | --- |
-|  | Samrådsbeslut<br>2024-07-04 |
-|  | Granskning<br>2025-05-06 |
-| Upprättad 2025-11-04 | Antagande |
-| Ida Lennartsson Emma Johansson<br>Verksamhetschef Plan Planarkitekt | Laga kraft |
-|  | Diarienr<br>2018-00033 |
 
 <!-- sida 255 -->
 

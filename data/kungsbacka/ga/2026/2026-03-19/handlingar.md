@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5deddcf719cc8cfc836d6c17/1773655708
 sha256: baebddecf9f30aa070e8536408f0940cb2210245e5c604224fa83a7b43513cb0
 bytes: 11083508
 sidor: 344
-hamtad: 2026-10-07T22:28:46+00:00
-konverterad: 2026-10-07T22:30:33+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T06:40:55+00:00
+konverterad: 2026-10-14T06:42:23+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [128, 141]
-figurer: null
-tolkade: null
+figurer: [30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 54, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 156, 157, 226, 287, 300, 301, 304, 305, 307, 311, 331, 335]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -7403,7 +7403,7 @@ adoption av Svea i hela den offentliga sektorn.
 
 Document ID 09222115557570685979 Attachment 3
 
-[Tabell 181-1](handlingar.tabeller/181-1.csv)
+[Tabell 181-182-1](handlingar.tabeller/181-182-1.csv)
 
 | Projekt | Beskrivning |
 | --- | --- |
@@ -7415,6 +7415,9 @@ Document ID 09222115557570685979 Attachment 3
 | NLU Talent program (2022-2024) | Talangprogrammet startades med Vinnova och<br>Region Halland för att höja kompetensen kring LLM:s i<br>respektive organisation. Ett liknande talangprogram<br>kommer genomföras inom ramen för det här projektet. |
 | Kraftsamling för kommuner och<br>Civilsamhälle (2022-2025) | Kraftsamlingen är ett program finansierat av Vinnova<br>där AI Sweden styrker kommuner och<br>civilsamhällesorganisationers förmåga att nyttja AI.<br>Identifierade utmaningar och behov kommer att<br>informera det här projektet. |
 | Informationsdriven vård<br>(2019-2025) | Projektet syftade till att accelerera tillämpningen av AI i<br>hälso- och sjukvården i Sverige genom samarbete |
+|  | mellan Regioner. Erfarenheter och lärdomar kommer<br>att informera det här projektet. |
+| AI Sweden – Use case factory<br>(2023-2024) | En samarbetsarena och verktygslåda för organisationer<br>och verksamhetsroller som vill identifiera och skapa<br>värde med AI där användningsfall är det centrala temat.<br>Dess metoder och strukturkapital kommer att nyttjas i<br>det här projektet. |
+| Data-driven organizations – Best<br>practices for operationalization of<br>AI in Sweden (2024-2025) | Att skapa förutsättningar för funktionell och skalbar<br>MLOps för AI-implementering hos svenska<br>organisationer, inklusive kringliggande processer och<br>organisatoriska förändringar. Dess metoder och<br>strukturkapital kommer att nyttjas i det här projektet. |
 
 <!-- sida 182 -->
 
@@ -7431,14 +7434,6 @@ betydande tidsbesparingar och ökad kvalitet i sina texter och arbetsuppgifter m
 Document ID 09222115557570685979 Attachment 3
 
 [Tabell 182-1](handlingar.tabeller/182-1.csv)
-
-| Projekt | Beskrivning |
-| --- | --- |
-|  | mellan Regioner. Erfarenheter och lärdomar kommer<br>att informera det här projektet. |
-| AI Sweden – Use case factory<br>(2023-2024) | En samarbetsarena och verktygslåda för organisationer<br>och verksamhetsroller som vill identifiera och skapa<br>värde med AI där användningsfall är det centrala temat.<br>Dess metoder och strukturkapital kommer att nyttjas i<br>det här projektet. |
-| Data-driven organizations – Best<br>practices for operationalization of<br>AI in Sweden (2024-2025) | Att skapa förutsättningar för funktionell och skalbar<br>MLOps för AI-implementering hos svenska<br>organisationer, inklusive kringliggande processer och<br>organisatoriska förändringar. Dess metoder och<br>strukturkapital kommer att nyttjas i det här projektet. |
-
-[Tabell 182-2](handlingar.tabeller/182-2.csv)
 
 | Förstärkt AI-förmåga i<br>Sverige (Dir. 2023:164) | En kommitté – en AI-kommission – ska identifiera<br>behov av och lämna förslag på åtgärder som kan<br>bidra till att stärka utveckling och användning av<br>artificiell intelligens (AI) i Sverige på ett hållbart och<br>säkert sätt. |
 | --- | --- |
@@ -7766,7 +7761,7 @@ Document ID 09222115557570685979 Attachment 3
 | AP7 | 7,5 |  |  |  |  |  |  |  |  |  |  |  |  |
 | AP8 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[Tabell 189-2](handlingar.tabeller/189-2.csv)
+[Tabell 189-190-2](handlingar.tabeller/189-190-2.csv)
 
 | Projektpart | Kostnad |
 | --- | --- |
@@ -7774,6 +7769,10 @@ Document ID 09222115557570685979 Attachment 3
 | Övriga direkta kostnader (ex. resor) | 440 000 |
 | Indirekta kostnader, AI Sweden (formell sett Lindholmen Science Park) | 3 780 000 |
 | Konsultkostnader | 3 010 000 |
+| Arbetstid för annotering deltagande organisationer (in kind) | 7 000 000 |
+| Arbetstid för intern projektledning och förändringsarbete deltagande<br>organisationer (in kind) | 7 000 000 |
+| Infrastrukturpartner (in kind) | 8 000 000 |
+| Totalt | 42 000 000 |
 
 <!-- sida 190 -->
 
@@ -7793,14 +7792,6 @@ insatser i projektet, detta kommer bland annat innefatta:
 Document ID 09222115557570685979 Attachment 3
 
 [Tabell 190-1](handlingar.tabeller/190-1.csv)
-
-| Arbetstid för annotering deltagande organisationer (in kind) | 7 000 000 |
-| --- | --- |
-| Arbetstid för intern projektledning och förändringsarbete deltagande<br>organisationer (in kind) | 7 000 000 |
-| Infrastrukturpartner (in kind) | 8 000 000 |
-| Totalt | 42 000 000 |
-
-[Tabell 190-2](handlingar.tabeller/190-2.csv)
 
 | Projektpart | Arbetstid (om inte<br>annat anges) | Kontant | Total |
 | --- | --- | --- | --- |
@@ -8146,7 +8137,7 @@ Styrgruppsrepresentanter:
 
 Document ID 09222115557570685979 Attachment 4
 
-[Tabell 199-1](handlingar.tabeller/199-1.csv)
+[Tabell 199-200-1](handlingar.tabeller/199-200-1.csv)
 
 | Namn | Organisation |
 | --- | --- |
@@ -8172,19 +8163,14 @@ Document ID 09222115557570685979 Attachment 4
 | Magnus Tegsved | Kävlinge kommun |
 | Jonatan Tensetti | Trelleborgs kommun |
 | Andreas Breiler | Malmö stad |
+| Paulina Pilo | Höganäs kommun |
+| Niklas Lingvall | Jönköpings kommun |
 
 <!-- sida 200 -->
 
 En gemensam digital assistent för offentlig sektor – Etapp 3
 
 Document ID 09222115557570685979 Attachment 4
-
-[Tabell 200-1](handlingar.tabeller/200-1.csv)
-
-| Namn | Organisation |
-| --- | --- |
-| Paulina Pilo | Höganäs kommun |
-| Niklas Lingvall | Jönköpings kommun |
 
 <!-- sida 201 -->
 
@@ -8251,6 +8237,17 @@ Organisationsnummer: 202100-5216 VAT-nDuomcmuemr: eSnEt2 I0D2 019020522211610515
 Beslutsdatum    Diarienummer
 2025-12-02      2025-04682
 
+Bidragsmottagare        Maxbelopp (kr) Max stödnivå (%) Stödgrund \*\*
+Maximalt bidrag Maximal andel som
+under bidraget får utgöra
+projekttiden     av de
+stödberättigande
+kostnaderna
+Lindholmen Science Park AB
+AI Sweden                   3 000 000       100 %      Inte statsstöd
+556568-6366
+Summa:                      3 000 000
+
 \*\* Stödgrunder
 Inte statsstöd beviljas enligt 5 § förordning (2015:208) om stöd till forskning och utveckling samt
 innovation.
@@ -8285,13 +8282,6 @@ Den första utbetalningen sker när vi har fått in och godkänt ovanstående ha
 
 Page 2 of 10
 Document ID 09222115557570685979 Attachment 5
-
-[Tabell 202-1](handlingar.tabeller/202-1.csv)
-
-| Bidragsmottagare | Maxbelopp (kr)<br>Maximalt bidrag<br>under<br>projekttiden | Max stödnivå (%)<br>Maximal andel som<br>bidraget får utgöra<br>av de<br>stödberättigande<br>kostnaderna | Stödgrund \*\* |
-| --- | --- | --- | --- |
-| Lindholmen Science Park AB<br>AI Sweden<br>556568-6366 | 3 000 000 100 % |  | Inte statsstöd |
-| Summa: | 3 000 000 |  |  |
 
 <!-- sida 203 -->
 
@@ -8754,17 +8744,16 @@ Personuppgiftsbiträdesavtal
 Avtal enligt artikel 28.3 i Allmänna dataskyddsförordningen EU 2016/679
 
 1    PARTER, PARTERNAS STÄLLNING, KONTAKTUPPGIFTER OCH KONTAKTPERSONER
+Personuppgiftsansvarig         Personuppgiftsbiträde
+
+Kungsbacka kommun              Lindholmen Science Park AB
+
+Organisationsnummer            Organisationsnummer
+
+212000-1256                    556568 - 6366
+Postadress                     Postadress
 
 Document ID 09222115557570685979 Attachment 6
-
-[Tabell 211-1](handlingar.tabeller/211-1.csv)
-
-| Personuppgiftsansvarig | Personuppgiftsbiträde |
-| --- | --- |
-| Kungsbacka kommun | Lindholmen Science Park AB |
-| Organisationsnummer | Organisationsnummer |
-| 212000-1256 | 556568 - 6366 |
-| Postadress | Postadress |
 
 <!-- sida 212 -->
 
@@ -9634,22 +9623,12 @@ så tas filen bort permanent från MinIO databasen
 
 Document ID 09222115557570685979 Attachment 9
 
-[Tabell 230-1](handlingar.tabeller/230-1.csv)
+[Tabell 230-231-1](handlingar.tabeller/230-231-1.csv)
 
 | Datatyp | Lagringsplats | Lagringens varaktighet<br>(gallring) |
 | --- | --- | --- |
 | Chatthistorik (prompt, svar,<br>och bifogade filer) | På användarens enhet | Tills användaren raderar<br>datan i Sveas gränssnitt eller |
-
-<!-- sida 231 -->
-
-En gemensam digital assistent för offentlig sektor – Etapp 3
-
-Document ID 09222115557570685979 Attachment 9
-
-[Tabell 231-1](handlingar.tabeller/231-1.csv)
-
 |  |  | raderar webbläsardata |
-| --- | --- | --- |
 | Uppladdade filer till Sveas<br>källor | Underleverantör enligt<br>underbilaga 2a | Tills administratörer tar bort<br>filen manuellt, eller när<br>organisationen raderas från<br>systemet |
 | Ljudfiler (uppladdade filer och<br>inspelningar) | På användarens enhet | Tills transkriberingen är klar |
 | Transkriberingar | På användarens enhet | Tills användaren raderar<br>datan i Sveas gränssnitt eller<br>raderar webbläsardata |
@@ -9659,6 +9638,12 @@ Document ID 09222115557570685979 Attachment 9
 | Annoteringsunderlag<br>(textutdrag från<br>organisationens källor) | Underleverantör enligt<br>underbilaga 2a | Tills en administratör ber om<br>att ta bort underlaget |
 | Annoterad data (det som<br>produceras av användare) | Underleverantör enligt<br>underbilaga 2a | Tills annotatören eller<br>administratör ber om att ta<br>bort den annoterade datan |
 | Händelselogg och<br>användarstatistik | Underleverantör enligt<br>underbilaga 2a | När användare eller<br>organisation raderas från<br>systemet frånkopplas<br>händelseloggen och<br>användarstatistik från<br>användar-ID (anonymisering) |
+
+<!-- sida 231 -->
+
+En gemensam digital assistent för offentlig sektor – Etapp 3
+
+Document ID 09222115557570685979 Attachment 9
 
 <!-- sida 232 -->
 
@@ -13451,7 +13436,7 @@ utvecklingsområdena i årets lönekartläggning.
 
 Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2025   20
 
-[Tabell 312-1](handlingar.tabeller/312-1.csv)
+[Tabell 312-313-1](handlingar.tabeller/312-313-1.csv)
 
 | Nr Åtgärd Tidpunkt Ansvar Kommentar/Uppföljning |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -13464,6 +13449,8 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2025   20
 | 7 | Fortsätta arbetet utifrån den<br>övergripande lönestrukturen<br>för att säkerställa rättvisa<br>löner. | Kontinuerligt | HR och<br>chefer | Säkerställs genom årliga<br>kalibreringsmöten. |
 | 8 | Utbilda chefer i jämställd<br>och saklig lönesättning. | Årligen | HR-funktion | Minst en utbildningsinsats<br>per år. |
 | 9 | Utbilda HR-personal i<br>korrekt BAS-värdering av<br>befattningar. | Årligen | HR-funktion | Säkerställ gemensam<br>metodik över<br>förvaltningar. |
+| 10 | Uppdatera arbetsvärderingar<br>i BAS och AID för att<br>säkerställa aktuell och<br>rättvis värdering. | Kontinuerligt | HR-funktion | Revidering görs vid<br>organisationsförändringar. |
+| 11 | Genomföra årliga<br>medarbetarsamtal för att<br>tydliggöra kopplingen<br>mellan mål, resultat och lön. | Årligen | Lönesättande<br>chef | Resultat används som<br>underlag vid lönesättning. |
 
 <!-- sida 313 -->
 
@@ -13479,12 +13466,6 @@ löneöversynen har de fackliga organisationerna möjlighet att inkomma med yrka
 könsneutrala löner.
 
 Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2025   21
-
-[Tabell 313-1](handlingar.tabeller/313-1.csv)
-
-| 10 | Uppdatera arbetsvärderingar<br>i BAS och AID för att<br>säkerställa aktuell och<br>rättvis värdering. | Kontinuerligt | HR-funktion | Revidering görs vid<br>organisationsförändringar. |
-| --- | --- | --- | --- | --- |
-| 11 | Genomföra årliga<br>medarbetarsamtal för att<br>tydliggöra kopplingen<br>mellan mål, resultat och lön. | Årligen | Lönesättande<br>chef | Resultat används som<br>underlag vid lönesättning. |
 
 <!-- sida 314 -->
 
@@ -14317,125 +14298,66 @@ Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda oc
 <!-- sida 331 -->
 
 Fasta årsarvoden för deltidsuppdrag, Deltidsarvoden, procentsatser
-Uppdrag i % av övriga
+Nämnd/styrelse           Uppdrag          Uppdrag i % av övriga
 kommunalråd, avsnitt 3.1
-40
-5
-35 /251
-18 /10
-10
-8
-5
-35 /25
-18 /10
-10
-10
-8
-4
-30/22
-18 /12
-10
-8
-6
-5
-35 /25
-18 /10
-10
-10
-8
-8
-30
-18
-25
-10
-25
-10
-25 /17
-18 /12
-8
-6
-4
-30
-18
-10
-20
-8
-4
-15
-6
-15
-6
-5
-15
-6
-10
-2
-4
-2
-8
+K ommunstyrelsen (ej kommunalråd) Ledamot i arbetsutskott 40
+Ersättare i arbetsutskott 5
+Byggnadsnämnden          Ordförande           35 /251
+Vice ordförande      18 /10
+Ordförande i utskott  10
+Vice ordförande i utskott 8
+Ledamot i arbetsutskott 5
+N ämnden för Förskola & Grundskola Ordförande. 35 /25
+1:e vice ordförande  18 /10
+2:e vice ordförande   10
+Ordförande i utskott  10
+Vice ordförande i utskott 8
+Ledamot i arbetsutskott 4
+N ämnden för Gymnasium & Arbetsmarknad Ordförande 30/22
+1:e vice ordförande  18 /12
+2:e vice ordförande   10
+Ordförande i utskott  8
+Vice ordförande i utskott 6
+Ledamot i arbetsutskott 5
+Nämnden för Individ & Familjeomsorg Ordförande 35 /25
+1:e vice ordförande  18 /10
+2:e vice ordförande   10
+Ordförande i utskott  10
+Vice ordförande i utskott 8
+Ledamot i arbetsutskott 8
+Nämnden för Kultur & Fritid Ordförande         30
+Vice ordförande       18
+Nämnden för Miljö & Hälsoskydd Ordförande      25
+Vice ordförande       10
+Nämnden för Service      Ordförande            25
+Vice ordförande       10
+Nämnden för Teknik       Ordförande           25 /17
+Vice ordförande      18 /12
+Ordförande i utskott  8
+Vice ordförande i utskott 6
+Ledamot i arbetsutskott 4
+Nämnden för Vård & Oms org Ordförande.         30
+1:e vice ordförande   18
+2 Vice ordförande     10
+Kommunfullmäktige        Ordförande            20
+Vice ordförande       8
+2 Vice ordförande     4
+Eksta Bostads AB         Ordförande            15
+Vice ordförande       6
+Kommunrevisionen         Ordförande            15
+Vice ordförande       6
+Ledamöter             5
+Stiftelsen Tjolöholm     Ordförande            15
+Vice ordförande       6
+Överförmyndarnämnden     Vice ordförande       10
+KF:s valberedning        Ordförande            2
+Valnämnden (valår 5%)    Ordförande            4
+(valår 3 %)              Vice ordförande       2
+Partigruppledare         Inte K-råd            8
 1Den lägre siffran avser arvodet om den förtroendevalda endast är ordförande i nämnden men inte i utskottet. Om
 samma person är ordförande i nämnden och i utskottet betalas arvode för respektive uppdrag enligt den högre
 siffran i tabellen. Samma gäller för vice ordförande.
 Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda och andra kommunala 11 (18)
-
-[Tabell 331-1](handlingar.tabeller/331-1.csv)
-
-| Nämnd/styrelse | Uppdrag |
-| --- | --- |
-| K ommunstyrelsen (ej kommunalråd) | Ledamot i arbetsutskott |
-|  | Ersättare i arbetsutskott |
-| Byggnadsnämnden | Ordförande |
-|  | Vice ordförande |
-|  | Ordförande i utskott |
-|  | Vice ordförande i utskott |
-|  | Ledamot i arbetsutskott |
-| N ämnden för Förskola & Grundskola | Ordförande. |
-|  | 1:e vice ordförande |
-|  | 2:e vice ordförande |
-|  | Ordförande i utskott |
-|  | Vice ordförande i utskott |
-|  | Ledamot i arbetsutskott |
-| N ämnden för Gymnasium & Arbetsmarknad | Ordförande |
-|  | 1:e vice ordförande |
-|  | 2:e vice ordförande |
-|  | Ordförande i utskott |
-|  | Vice ordförande i utskott |
-|  | Ledamot i arbetsutskott |
-| Nämnden för Individ & Familjeomsorg | Ordförande |
-|  | 1:e vice ordförande |
-|  | 2:e vice ordförande |
-|  | Ordförande i utskott |
-|  | Vice ordförande i utskott |
-|  | Ledamot i arbetsutskott |
-| Nämnden för Kultur & Fritid | Ordförande |
-|  | Vice ordförande |
-| Nämnden för Miljö & Hälsoskydd | Ordförande |
-|  | Vice ordförande |
-| Nämnden för Service | Ordförande |
-|  | Vice ordförande |
-| Nämnden för Teknik | Ordförande |
-|  | Vice ordförande |
-|  | Ordförande i utskott |
-|  | Vice ordförande i utskott |
-|  | Ledamot i arbetsutskott |
-| Nämnden för Vård & Oms org | Ordförande. |
-|  | 1:e vice ordförande |
-|  | 2 Vice ordförande |
-| Kommunfullmäktige | Ordförande |
-|  | Vice ordförande |
-|  | 2 Vice ordförande |
-| Eksta Bostads AB | Ordförande |
-|  | Vice ordförande |
-| Kommunrevisionen | Ordförande |
-|  | Vice ordförande |
-|  | Ledamöter |
-| Stiftelsen Tjolöholm | Ordförande |
-|  | Vice ordförande |
-| Överförmyndarnämnden | Vice ordförande |
-| KF:s valberedning | Ordförande |
-| Valnämnden (valår 5%) | Ordförande |
-| (valår 3 %) | Vice ordförande |
-| Partigruppledare | Inte K-råd |
 
 <!-- sida 332 -->
 

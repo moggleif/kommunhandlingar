@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.65c780211a0adcd46dd258bb/1789724895
 sha256: 1c44302eb4d4c7b263bbd7b9f25311edc7e237c28d62677e46b274747627aa94
 bytes: 4726744
 sidor: 101
-hamtad: 2026-10-07T22:34:14+00:00
-konverterad: 2026-10-07T22:35:11+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T06:45:36+00:00
+konverterad: 2026-10-14T06:46:20+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [55, 56, 57, 58, 59, 60, 61]
-figurer: null
-tolkade: null
+figurer: [51, 55, 56, 57, 58, 59, 60, 61]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -55,7 +55,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -63,23 +63,21 @@ KUNGSBACKA  KOMMUN
 | 5. | Delårsrapport augusti 2026<br>Föredragande: förvaltningens<br>ledningsgrupp<br>Kl. 18.30-19.15 | GA-2024-<br>00223 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner delårsrapport per augusti 2026. |
 | 6. | Avstämning nämndsbudget<br>2027<br>Föredragande: Andreas<br>Mårtensson, kvalitets- och<br>utvecklingschef & Johan<br>Ronner, ekonomichef<br>Kl. 19.15-19.30 | GA-2025-<br>00199 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 | 7. | Planerat utbud på<br>gymnasieskolorna läsår<br>2027/2028<br>Föredragande: Cindia<br>Escalante Mattsson,<br>gymnasiechef<br>Kl. 19.30-19.45 | GA-2026-<br>00039 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 8. | Slutantagning gymnasiet<br>2026/2027 - information<br>Föredragande: Cindia<br>Escalante Mattsson,<br>gymnasiechef<br>Kl. 19.45-19.55 | GA-2026-<br>00129 | Förslag till beslut<br>Nämnden för Gymnasie- och Arbetsmarknad noterar<br>informationen till protokollet. |
 | 9. | Sammanställning kränkningar<br>VT-26<br>Föredragande: Cindia<br>Escalante Mattsson,<br>gymnasiechef<br>Kl. 19.55-20.05 | GA-2026-<br>00132 | Förslag till beslut<br>Informationen noteras till protokollet. Nämnden<br>beslutar att redovisning och uppföljning av<br>anmälningar om kännedom om kränkande<br>behandling ska göras en gång i halvåret utöver den<br>månadsvisa återrapporteringen av delegationsbeslut. |
 | 10. | Information om aktivitetskravet<br>2025<br>Föredragande: Frida Svärd,<br>verksamhetschef<br>Kl. 20.05-20.25 | GA-2026-<br>00093 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 | 11. | Informationsbeskrivning –<br>beslut<br>Föredragande: Adam Greveby,<br>utvecklare<br>Kl. 20.25-20.35 | GA-2026-<br>00168 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner informationsbeskrivningen. |
 | 12. | Sammanträdestider för<br>Gymnasium & Arbetsmarknads<br>nämnd & utskott 2027 | GA-2026-<br>00169 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>fastställer tidsplan för nämndens och utskottets<br>sammanträden för 2027. |
 | 13. | Inkomna skrivelser till<br>ledamöter och ersättare i<br>nämnden (2026) | GA-2026-<br>00003 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 14. | Återrapportering av<br>delegeringsbeslut (2026) | GA-2026-<br>00026 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapportering av delegeringsbeslut för<br>perioden 2026-08-01 till 2026-08-31. |
+| 15. | Återrapportering av program-<br>och verksamhetsråd (2026) | GA-2026-<br>00024 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 16. | Förvaltningschef informerar<br>(2026)<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>Kl. 20.40-20.50 | GA-2026-<br>00002 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -89,14 +87,6 @@ KUNGSBACKA  KOMMUN
 
 Axel Storckenfeldt (M)            Adam Greveby
 ordförande                        sekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 14. | Återrapportering av<br>delegeringsbeslut (2026) | GA-2026-<br>00026 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapportering av delegeringsbeslut för<br>perioden 2026-08-01 till 2026-08-31. |
-| 15. | Återrapportering av program-<br>och verksamhetsråd (2026) | GA-2026-<br>00024 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-| 16. | Förvaltningschef informerar<br>(2026)<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>Kl. 20.40-20.50 | GA-2026-<br>00002 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 
 <!-- sida 5 -->
 
@@ -1433,7 +1423,7 @@ Förändring helårsprognos
 
 23
 
-[Tabell 30-1](handlingar.tabeller/30-1.csv)
+[Tabell 30-31-1](handlingar.tabeller/30-31-1.csv)
 
 | Nämnd/förvaltning | Helårsprognos delår 1<br>(mnkr) | Helårsprognos delår 2<br>(mnkr) | Förändring prognos<br>(mnkr) |
 | --- | --- | --- | --- |
@@ -1442,6 +1432,8 @@ Förändring helårsprognos
 | Vuxenutbildning | 0,3 | 0,2 | -0,1 |
 | Arbetsmarknad | 1,8 | 1,4 | -0,4 |
 | Etablering | 10,2 | 10,0 | -0,2 |
+| Ekonomiskt bistånd | 6,4 | 6,6 | 0,2 |
+| Totalt | 18,7 | 19,3 | 0,6 |
 
 <!-- sida 31 -->
 
@@ -1489,19 +1481,16 @@ Planerat uttag ur resultatfond
 
 24
 
-[Tabell 31-1](handlingar.tabeller/31-1.csv)
-
-| Ekonomiskt bistånd | 6,4 | 6,6 | 0,2 |
-| --- | --- | --- | --- |
-| Totalt | 18,7 | 19,3 | 0,6 |
-
-[Tabell 31-2](handlingar.tabeller/31-2.csv)
+[Tabell 31-32-1](handlingar.tabeller/31-32-1.csv)
 
 | Planerat uttag ur resultatfond | Belopp mnkr |
 | --- | --- |
 |  |  |
 |  |  |
 |  |  |
+|  |  |
+|  |  |
+| Summa |  |
 
 <!-- sida 32 -->
 
@@ -1519,13 +1508,6 @@ att ske till hösten.
 25
 
 [Tabell 32-1](handlingar.tabeller/32-1.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-| Summa |  |
-
-[Tabell 32-2](handlingar.tabeller/32-2.csv)
 
 | Miljoner kronor | Bokslut<br>2025 | Budget<br>2026 | Prognos<br>2026 | Budgetavvikelse<br>2026 | Delår<br>2026 |
 | --- | --- | --- | --- | --- | --- |
@@ -2199,7 +2181,7 @@ Gymnasium & Arbetsmarknad:
 
 Kungsbacka kommun                                       6
 
-[Tabell 48-1](handlingar.tabeller/48-1.csv)
+[Tabell 48-50-1](handlingar.tabeller/48-50-1.csv)
 
 | System/digitalt verktyg | Kort beskrivning |
 | --- | --- |
@@ -2214,15 +2196,7 @@ Kungsbacka kommun                                       6
 | ELIN | GR’s elevinformationssystem som<br>samordnar elevdata inom<br>Göteborgsregionen. |
 | E-tjänster (Open-E) | Kommunens portal för digitala<br>tjänster och ansökningar inom<br>utbildning och barnomsorg. |
 | Frends | Integrationsplattform som kopplar<br>samman verksamhetssystem och<br>säkerställer dataflöden. |
-
-<!-- sida 49 -->
-
-Kungsbacka kommun                                       7
-
-[Tabell 49-1](handlingar.tabeller/49-1.csv)
-
 | GIS-lösning / Kartportalen | System för geografisk information<br>och kartdata som stöd i skolskjuts<br>och planering. |
-| --- | --- |
 | GR / GR’s gymnasieantagning (Indra) | Regionalt system för<br>gymnasieantagning inom<br>Göteborgsregionen. |
 | HR-portalen | System för personaladministration –<br>lön, ledighet, sjukanmälan m.m. |
 | IMS | System för digitala nationella prov<br>och säker hantering av provdata. |
@@ -2239,6 +2213,12 @@ Kungsbacka kommun                                       7
 | Skola24 | Schemasystem som hanterar<br>schema, frånvaro och planering. |
 | Skolskjuts / VEGA | Systemstöd för planering och<br>administration av skolskjutsar. |
 | Stratsys | System för verksamhetsstyrning och<br>kvalitetsarbete. |
+| Vklass | Pedagogiskt och administrativt<br>system för kommunikation, närvaro,<br>uppgifter och bedömning. |
+| Viva | System för arbetsmarknad och<br>individstöd – hanterar praktikavtal,<br>arbetsintyg och dokumentation. |
+
+<!-- sida 49 -->
+
+Kungsbacka kommun                                       7
 
 <!-- sida 50 -->
 
@@ -2275,12 +2255,6 @@ Arkivredogörare
 Utvecklare, Verksamhetsstöd & Utveckling
 
 Kungsbacka kommun                                       8
-
-[Tabell 50-1](handlingar.tabeller/50-1.csv)
-
-| Vklass | Pedagogiskt och administrativt<br>system för kommunikation, närvaro,<br>uppgifter och bedömning. |
-| --- | --- |
-| Viva | System för arbetsmarknad och<br>individstöd – hanterar praktikavtal,<br>arbetsintyg och dokumentation. |
 
 <!-- sida 51 -->
 

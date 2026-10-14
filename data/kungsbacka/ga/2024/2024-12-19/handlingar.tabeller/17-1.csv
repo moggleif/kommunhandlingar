@@ -1,34 +1,23 @@
-"Program
-- SA Beda","Antal
-elever
-..","Andel
-(%)
-med
-examen
-..","Andel
-(%)
-med
-studie-
-bevis
-.","Andel (%)
-med
-grund-
-läggande
-behörig-
-het
-.","Andel
-(%) med
-utökat
-program
-.","Genom-
-snittligt
-betygs-
-poäng
-..","Genomsnittlig
-betygspoäng
-för elever med
-examen
-.."
-Teknikprogrammet,144,"96,5",..,"96,5","13,9","15,4","15,5"
--TE Aranäs,119,"96,6",..,"96,6","15,1","15,5","15,6"
--TE Lindälv,25,"96,0",..,"96,0",..,"14,8","15,1"
+"Genomsnittlig
+betygspoäng hos
+avgångseleverna",2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024
+Nationella program,"14,0","13,8","13,8","13,9","13,9","13,8","14,0","14,3","14,4","14,3","14,0"
+Yrkesprogram,"12,8","12,9","12,7","12,8","12,9","12,8","13,0","13,2","13,5","13,2","12,9"
+"Barn- och
+fritidsprogrammet","12,8","11,4","12,6","12,3","13,2","14,6","13,4","13,2","13,6","15,2","13,5"
+"Bygg- och anläggnings-
+programmet","12,6","12,2","11,9","12,7","11,5","11,8","12,8","12,8","12,9","12,5","13,6"
+"El- och
+energiprogrammet","12,3","12,3","12,5","11,9","13,7","12,2","12,1","12,6","12,5","12,9","12,8"
+"Fordons- och
+transportprogrammet","12,0","11,9","10,7","10,7","11,5","11,3","12,5","12,3","12,3","11,8","11,3"
+"Handels- och
+administrations-
+programmet","12,3","12,3","13,0","12,7","13,1","12,9","13,2","11,7","13,7","13,3","13,6"
+"Hotell- och
+turismprogrammet","13,4","14,8","14,5","16,0","14,5","15,0","14,9","13,4","15,9","13,9",..
+Lärlingsutbildning,-,-,-,"12,0","13,9","13,5","13,7","14,4","13,8",..,..
+"Restaurang- och
+livsmedelsprogrammet","14,0","14,9","13,2","14,4","12,2","13,9",..,"14,5",..,..,..
+"Vård- och
+omsorgsprogrammet","14,4","14,3","14,3","14,5","13,4","12,0",..,"14,5","14,6","13,6","14,4"

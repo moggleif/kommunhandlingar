@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6d76bb7f1963d5107e67534e/1745311057
 sha256: d877387ad37255992ba0cec012280ad2205606f5f79bf57eb8f3510bbaaea5ec
 bytes: 1438217
 sidor: 15
-hamtad: 2026-10-08T02:11:20+00:00
-konverterad: 2026-10-08T02:11:26+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:50:36+00:00
+konverterad: 2026-10-14T09:50:45+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [2, 5]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -307,7 +307,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (4)
 
-[Tabell 9-1](handlingar.tabeller/9-1.csv)
+[Tabell 9-11-1](handlingar.tabeller/9-11-1.csv)
 
 | Kommunstyrelsens förvaltnings<br>Tjänsteskrivelse -<br>Fördelning av medel avsatta för<br>arbete med civil beredskap 2025 | 2025-03-25 | SE-2025-00117 | Fördelning av medel avsatta<br>för arbete med civil beredskap<br>2025 |
 | --- | --- | --- | --- |
@@ -317,16 +317,7 @@ KUNGSBACKA  KOMMUN
 | Förvaltningen för Vård &<br>Omsorgs tjänsteskrivelse -<br>Hantering av driftavtal med<br>Vardaga Äldreomsorg AB<br>gällande Ekhaga vård-och<br>omsorgsboende | 2025-03-26 | SE-2025-00120 | Hantering av driftavtal med<br>Vardaga Äldreomsorg AB<br>gällande Ekhaga vård-och<br>omsorgsboende |
 | Frågor och synpunkter från<br>kommuninvånare -<br>Maten i bamba (e-post) | 2025-04-03 | SE-2025-00136 | Frågor och synpunkter från<br>kommuninvånare - Maten i<br>bamba |
 | Frågor och synpunkter från<br>kommuninvånare -<br>Maten i bamba | 2025-04-03 | SE-2025-00136 | Frågor och synpunkter från<br>kommuninvånare - Maten i<br>bamba |
-
-<!-- sida 10 -->
-
-KUNGSBACKA  KOMMUN
-3 (4)
-
-[Tabell 10-1](handlingar.tabeller/10-1.csv)
-
 | (Förskola & Grundskola<br>arbetsutskott) (Beslut § 36)<br>Lokalresursplan | 2025-04-07 | SE-2025-00137 | Lokalresursplan Förskola &<br>Grundskola (FG-2025-00186) |
-| --- | --- | --- | --- |
 | Förskola & Grundskola<br>Tjänsteskrivelse -<br>Lokalresursplan 2025-2033 | 2025-04-07 | SE-2025-00137 | Lokalresursplan Förskola &<br>Grundskola (FG-2025-00186) |
 | 250328 Förskola & Grundskolas<br>Lokalresursplan 2025-2033<br>Utredning och förslag<br>2025-03-28 | 2025-04-07 | SE-2025-00137 | Lokalresursplan Förskola &<br>Grundskola (FG-2025-00186) |
 | Förskola & Grundskolas<br>Lokalresursplan 2025-2033<br>Utredning och förslag<br>2025-03-28 (1) | 2025-04-07 | SE-2025-00137 | Lokalresursplan Förskola &<br>Grundskola (FG-2025-00186) |
@@ -335,6 +326,17 @@ KUNGSBACKA  KOMMUN
 | Grundläggande granskning 2025<br>Projektplan | 2024-04-07 | SE-2025-00142<br>SE-2024-00038 | Revisionens grundläggande<br>samt uppföljande granskning<br>2025 |
 | Uppföljande granskning 2025 -<br>IT-säkerhet i praktiken<br>(skriftliga frågor) | 2024-04-07 | SE-2025-00142<br>SE-2024-00038 | Revisionens grundläggande<br>samt uppföljande granskning<br>2025 |
 | (kommunfullmäktige)<br>(Beslut § 58) Årsredovisning<br>2024 för Kungsbacka kommun | 2025-04-16 | SE-2025-00158 | Årsredovisning 2024 för<br>Kungsbacka kommun |
+| Kommunledningskontorets<br>Tjänsteskrivelse - Årsredovisning<br>2024 för Kungsbacka kommun | 2025-04-16 | SE-2025-00158 | Årsredovisning 2024 för<br>Kungsbacka kommun |
+| Årsredovisning 2024 för<br>Kungsbacka kommun, version till<br>KS | 2025-04-16 | SE-2025-00158 | Årsredovisning 2024 för<br>Kungsbacka kommun |
+| Nämnden för Teknik -<br>Särredovisning Teknik 2024 | 2025-04-16 | SE-2025-00158 | Årsredovisning 2024 för<br>Kungsbacka kommun |
+| (Kommunfullmäktige)<br>(Beslut § 59) Revisionsberättelse<br>2024 för Kungsbacka kommun<br>och fråga om ansvarsfrihet för<br>kommunstyrelsen, nämnder och<br>beredningar | 2025-04-16 | SE-2025-00159 | Revisionsberättelse 2024 för<br>Kungsbacka kommun och<br>fråga om ansvarsfrihet för<br>kommunstyrelsen, nämnder<br>och beredningar |
+| Revisionsberättelse 2024 -<br>Kungsbacka kommun | 2025-04-16 | SE-2025-00159 | Revisionsberättelse 2024 för<br>Kungsbacka kommun och<br>fråga om ansvarsfrihet för<br>kommunstyrelsen, nämnder<br>och beredningar |
+| Redogörelse för revisionen 2024 -<br>En bilaga till revisionsberättelsen | 2025-04-16 | SE-2025-00159 | Revisionsberättelse 2024 för<br>Kungsbacka kommun och<br>fråga om ansvarsfrihet för<br>kommunstyrelsen, nämnder<br>och beredningar |
+
+<!-- sida 10 -->
+
+KUNGSBACKA  KOMMUN
+3 (4)
 
 <!-- sida 11 -->
 
@@ -347,16 +349,6 @@ Förvaltningen för Services tjänsteskrivelse, 2025-04-02
 
 Julia Tryggvadottir Tollesson
 Förvaltningschef Service
-
-[Tabell 11-1](handlingar.tabeller/11-1.csv)
-
-| Kommunledningskontorets<br>Tjänsteskrivelse - Årsredovisning<br>2024 för Kungsbacka kommun | 2025-04-16 | SE-2025-00158 | Årsredovisning 2024 för<br>Kungsbacka kommun |
-| --- | --- | --- | --- |
-| Årsredovisning 2024 för<br>Kungsbacka kommun, version till<br>KS | 2025-04-16 | SE-2025-00158 | Årsredovisning 2024 för<br>Kungsbacka kommun |
-| Nämnden för Teknik -<br>Särredovisning Teknik 2024 | 2025-04-16 | SE-2025-00158 | Årsredovisning 2024 för<br>Kungsbacka kommun |
-| (Kommunfullmäktige)<br>(Beslut § 59) Revisionsberättelse<br>2024 för Kungsbacka kommun<br>och fråga om ansvarsfrihet för<br>kommunstyrelsen, nämnder och<br>beredningar | 2025-04-16 | SE-2025-00159 | Revisionsberättelse 2024 för<br>Kungsbacka kommun och<br>fråga om ansvarsfrihet för<br>kommunstyrelsen, nämnder<br>och beredningar |
-| Revisionsberättelse 2024 -<br>Kungsbacka kommun | 2025-04-16 | SE-2025-00159 | Revisionsberättelse 2024 för<br>Kungsbacka kommun och<br>fråga om ansvarsfrihet för<br>kommunstyrelsen, nämnder<br>och beredningar |
-| Redogörelse för revisionen 2024 -<br>En bilaga till revisionsberättelsen | 2025-04-16 | SE-2025-00159 | Revisionsberättelse 2024 för<br>Kungsbacka kommun och<br>fråga om ansvarsfrihet för<br>kommunstyrelsen, nämnder<br>och beredningar |
 
 <!-- sida 12 -->
 

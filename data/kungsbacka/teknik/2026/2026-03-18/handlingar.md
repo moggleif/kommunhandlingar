@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4c1468c19cc5e180cdc4cc1/17733999096
 sha256: 1bd0af25a4c2e93e5aa687bb1c8dd3ee15f2b63a397088370e4fe59a2355021f
 bytes: 3735627
 sidor: 38
-hamtad: 2026-10-08T01:34:03+00:00
-konverterad: 2026-10-08T01:34:30+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T09:17:27+00:00
+konverterad: 2026-10-14T09:17:47+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok]
 tal_obekraftade: [6, 7, 17, 18, 19, 20, 21]
-figurer: null
-tolkade: null
+figurer: [1, 12]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -994,14 +994,43 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 9
 
 <!-- sida 31 -->
 
+2.4.14 Vägmärkesförordningen SFS 2007:90 AFS Beslut om tillstånd att schakta i gator och vägar för vilka Fc 7 st beslut totalt.
+1999:3 49 § 81 § (a-e)    kommunen är huvudman och vid behov kräva säkerhet för
+Vc Trafik &
+beräknade kostnader för återställande av kommunens TE-TA 2026-00010 2026-02-04
+Ordningslagen 3 kap. 4 §                                       Utemiljö
+anläggningar
+Plan och Bygglagen 6 Kap. 21 §                                 Ec drift Gata TE-TA 2026-00017 2026-02-13
+Ec Anläggning
+& Utveckling TE-TA 2026-00018 2026-02-13
+Samordnare
+TE-TA 2026-00017 2026-02-16
+TE-TA 2026-00010 2026-02-16
+TE-TA 2026-00010 2026-02-19
+TE-TA 2026-00017 2026-02-19
+2.4.15 Vägmärkesförordningen SFS 2007:90 Godkännande av trafikanordningsplan Fc 14 St beslut och datum för beslut
+AFS 1999:3 49 § 81 § (a-e)                                     Vc Trafik & TE-TA 2026-000014 2026-02-03
+Ordningslagen 3 kap. 4 §                                       Utemiljö  TE-TA 2026-000015 2026-02-03
+Ec drift Gata
+TE-TA 2026-000012 2026-02-04
+Ec Anläggning
+TE-TA 2026-000016 2026-02-12
+& Utveckling
+Samordnare TE-TA 2026-000022 2026-02-12
+TE-TA 2026-000025 2026-02-12
+TE-TA 2026-000021 2026-02-13
+TE-TA 2026-000026 2026-02-17
+TE-TA 2026-000027 2026-02-17
+TE-TA 2026-000028 2026-02-20
+TE-TA 2026-000013 2026-02-24
+TE-TA 2026-000019 2026-02-24
+TE-TA 2026-000020 2026-02-24
+TE-TA 2026-000030 2026-02-25
+2.4.16 13 kap. och 8 § trafikförordningen Beslut om parkeringstillstånd för rörelsehindrade Fc Beslut om parkeringstillstånd för
+(1998:1276)                                                    Färdtjänst- rörelsehindrad
+utredare Beviljade: 21
+Avslagna: 2
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 10 (13)
-
-[Tabell 31-1](handlingar.tabeller/31-1.csv)
-
-| 2.4.14 | Vägmärkesförordningen SFS 2007:90 AFS<br>1999:3 49 § 81 § (a-e)<br>Ordningslagen 3 kap. 4 §<br>Plan och Bygglagen 6 Kap. 21 § | Beslut om tillstånd att schakta i gator och vägar för vilka<br>kommunen är huvudman och vid behov kräva säkerhet för<br>beräknade kostnader för återställande av kommunens<br>anläggningar | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec drift Gata<br>Ec Anläggning<br>& Utveckling<br>Samordnare | 7 st beslut totalt.<br>TE-TA 2026-00010 2026-02-04<br>TE-TA 2026-00017 2026-02-13<br>TE-TA 2026-00018 2026-02-13<br>TE-TA 2026-00017 2026-02-16<br>TE-TA 2026-00010 2026-02-16<br>TE-TA 2026-00010 2026-02-19<br>TE-TA 2026-00017 2026-02-19 |
-| --- | --- | --- | --- | --- |
-| 2.4.15 | Vägmärkesförordningen SFS 2007:90<br>AFS 1999:3 49 § 81 § (a-e)<br>Ordningslagen 3 kap. 4 § | Godkännande av trafikanordningsplan | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec drift Gata<br>Ec Anläggning<br>& Utveckling<br>Samordnare | 14 St beslut och datum för beslut<br>TE-TA 2026-000014 2026-02-03<br>TE-TA 2026-000015 2026-02-03<br>TE-TA 2026-000012 2026-02-04<br>TE-TA 2026-000016 2026-02-12<br>TE-TA 2026-000022 2026-02-12<br>TE-TA 2026-000025 2026-02-12<br>TE-TA 2026-000021 2026-02-13<br>TE-TA 2026-000026 2026-02-17<br>TE-TA 2026-000027 2026-02-17<br>TE-TA 2026-000028 2026-02-20<br>TE-TA 2026-000013 2026-02-24<br>TE-TA 2026-000019 2026-02-24<br>TE-TA 2026-000020 2026-02-24<br>TE-TA 2026-000030 2026-02-25 |
-| 2.4.16 | 13 kap. och 8 § trafikförordningen<br>(1998:1276) | Beslut om parkeringstillstånd för rörelsehindrade | Fc<br>Färdtjänst-<br>utredare | Beslut om parkeringstillstånd för<br>rörelsehindrad<br>Beviljade: 21<br>Avslagna: 2 |
 
 <!-- sida 32 -->
 
@@ -1026,14 +1055,18 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 1
 
 2.5 Färdtjänst
 
+Nr   Lagrum/stöd               Delegeringens omfattning             Ansvarig Taget beslut och datum för
+delegat  beslutet
+2.5.1 6–9 §§ lag (1997:736) om Beslut om tillstånd till färdtjänst med regelkompletteringar Fc Beslut om färdtjänst
+färdtjänst                                                     Färdtjänst- Beviljade: 95
+utredare Avslagna: 1
+Ec Kansli
+2.5.5 4–7 §§ lag (1997:735) om Beslut om tillstånd till riksfärdtjänst Fc   Beslut om riksfärdtjänst
+riksfärdtjänst                                                 Färdtjänst- Beviljade: 11
+utredare Avslagna: 0
+Ec Kansli
+
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 12 (13)
-
-[Tabell 33-1](handlingar.tabeller/33-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
-| --- | --- | --- | --- | --- |
-| 2.5.1 | 6–9 §§ lag (1997:736) om<br>färdtjänst | Beslut om tillstånd till färdtjänst med regelkompletteringar | Fc<br>Färdtjänst-<br>utredare<br>Ec Kansli | Beslut om färdtjänst<br>Beviljade: 95<br>Avslagna: 1 |
-| 2.5.5 | 4–7 §§ lag (1997:735) om<br>riksfärdtjänst | Beslut om tillstånd till riksfärdtjänst | Fc<br>Färdtjänst-<br>utredare<br>Ec Kansli | Beslut om riksfärdtjänst<br>Beviljade: 11<br>Avslagna: 0 |
 
 <!-- sida 34 -->
 
@@ -1057,7 +1090,7 @@ delegeringsförteckning antagen 2025-09-24 § 94.
 Sida
 1(4)
 
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
+[Tabell 35-38-1](handlingar.tabeller/35-38-1.csv)
 
 | Datum | Beskrivning | Diarienummer |
 | --- | --- | --- |
@@ -1069,16 +1102,6 @@ Sida
 | 2026-02-27 | Yttrande Teknik - trafiksäkerhetsbedömning - Djursjövägen till hållplats Rammberg vid Älvsåkersvägen | TE-2026-00130 |
 | 2026-02-24 | Yttrande Teknik - Synpunkter på parkeringsplatser och cykelplatser, Ärlan 11, BN 2025-002368 | TE-2026-00123 |
 | 2026-02-18 | Yttrande Teknik - Glasskiosk i Badhusparken | TE-2026-00093 |
-
-<!-- sida 36 -->
-
-Sida
-2(4)
-
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2026-02-18 | Yttrande Teknik - Uteservering Black Pearl | TE-2026-00090 |
 | 2026-02-18 | Yttrande Teknik - Uteservering O´Learys Kungsmässan | TE-2026-00105 |
 | 2026-02-17 | Yttrande Teknik - Uteservering Prinsen | TE-2026-00077 |
@@ -1090,16 +1113,6 @@ Sida
 | 2026-02-11 | Yttrande Teknik - Annandag Påskfirande på Kungsbacka torg | TE-2026-00004 |
 | 2026-02-25 | Yttrande Teknik - Begäran om yttrande - Rensning av dike, Ölmanäs 28:15, 9148-2025 | TE-2026-00094 |
 | 2026-02-25 | Yttrande Teknik - Godkännande av teknisk anläggning, Bolsheden 1:2, KS-2026-00120 | TE-2026-00091 |
-
-<!-- sida 37 -->
-
-Sida
-3(4)
-
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2026-02-06 | Yttrande Teknik - Veteranbilsträffar på Kungsbacka torg | TE-2026-00030 |
 | 2026-02-23 | Yttrande Teknik - Placering av transformatorstation, Varla 2:9, BN 2025-002614 | TE-2026-00088 |
 | 2026-02-17 | Yttrande Teknik - Synpunkt på om parkering är tillräcklig Rågelund 1:95, BN 2025-002644 | TE-2026-00085 |
@@ -1111,16 +1124,6 @@ Sida
 | 2026-02-23 | Yttrande Teknik - parkering, avfallshantering, kapacitet på VA, konflikt med ledningar, trafiksäkerhet, Hammerö 10:40, BN<br>2025-002592 | TE-2026-00062 |
 | 2026-02-11 | Yttrande Teknik - Skyltens placering i förhållande till kommunal väg Duvehed 2:58 BN 2025-002424 | TE-2026-00059 |
 | 2026-02-03 | Yttrande Teknik - Kapacitet på VA-ledning samt anslutning, Runsås 5:4, BN 2025-002143 | TE-2026-00057 |
-
-<!-- sida 38 -->
-
-Sida
-4(4)
-
-[Tabell 38-1](handlingar.tabeller/38-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2026-02-03 | Yttrande Teknik, svar på motion - Låt invånarna bli en del av lösningen mot invasiva arter, KS-2025-00627 | TE-2025-00952 |
 | 2026-02-02 | Yttrande Teknik - Placering för transformatorstation, konflikt med ledningar Duvehed 2:14 BN 2025-002653 | TE-2026-00051 |
 | 2026-02-06 | Yttrande Teknik - Detaljplan för bostäder inom Bolsheden 1:9 och 1:39 mfl i Kullavik, Kungsbacka kommun, BN 2021-00028 | TE-2026-00043 |
@@ -1128,3 +1131,18 @@ Sida
 | 2026-02-03 | Yttrande Teknik - Svar på motion från Mats Ståhlberg (KB) om anläggande av<br>hundrastgård i Kolla | TE-2025-00954 |
 | 2026-02-23 | Yttrande Teknik - kommunala ledningar för VA, cykelväg, sophantering och bredband, Ölmevalla-Nygård 1:16, BN 2025-<br>001906 | TE-2025-01069 |
 | 2026-02-03 | Yttrande Teknik - Behåll lokala VA-lösningar tills kommunen säkrat långsiktig VA-försörjning, KS 2025-00670 | TE-2025-01039 |
+
+<!-- sida 36 -->
+
+Sida
+2(4)
+
+<!-- sida 37 -->
+
+Sida
+3(4)
+
+<!-- sida 38 -->
+
+Sida
+4(4)

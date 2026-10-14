@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1932ec3d19329b835ff852b5/1732526631
 sha256: 1b159dbc3e08a1f3f7c87beaaf588f989bf36a6be6fb304c5d40faf40fb11a4f
 bytes: 185260
 sidor: 5
-hamtad: 2026-10-07T23:17:12+00:00
-konverterad: 2026-10-07T23:17:19+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T07:23:03+00:00
+konverterad: 2026-10-14T07:23:09+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-5-1](kallelse.tabeller/2-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -67,6 +67,18 @@ KUNGSBACKA  KOMMUN
 | 8. | Information om projektet UP2<br>fullföljda studier<br>Kl 09:45-10:00<br>Karolina Reinhold,<br>utvecklingsledare | FG-2024-00742 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen till protokollet |
 | 9. | Information om Löneöversyn<br>2024, från årshjul<br>Kl 10:00-10:20<br>Helena Hellman, personalchef | FG-2024-00531 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen till protokollet |
 | 10. | Interkommunala ersättningar<br>utom kommunala<br>samverkansområdet<br>Kl 10:20-10:25<br>Gustav Sjöström, ekonomichef | FG-2024-00706 | Interkommunala ersättningar för kommuner<br>utanför Göteborgs regionen, Mark och Varberg<br>fastställs enligt föreslagen tabell och följs från<br>och med 2025-01-01. Eventuell ersättning för<br>tilläggsbelopp och skolskjuts debiteras separat. |
+| 11. | Interkommunala ersättningar<br>Marks kommun och Varberg<br>Kl 10:25-10:30<br>Gustav Sjöström, ekonomichef | FG-2024-00707 | Förslag till beslut |
+| 12. | Interkommunal ersättning inom<br>GR<br>Kl 10:30-10:35<br>Gustav Sjöström, ekonomichef | FG-2024-00734 | Nämnden för Förskola & Grundskola beslutar<br>att följa förbundsstyrelsen inom<br>Göteborgsregionens rekommendation att med<br>avstämningstidpunkt den 15:e respektive<br>månad, fastställa interkommunal ersättning för<br>förskola, pedagogisk omsorg, förskoleklass,<br>grundskola, fritidshem, anpassad grundskola<br>och ISGR kalenderåret 2025 i enlighet med<br>innehållet i prislista. |
+| 13. | Information skolskjuts 2024<br>Kl 10:35-10:55<br>Lars Sundbom, utvecklare | FG-2024-00662 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen till protokollet |
+| 14. | Huvudmannens systematiska<br>kvalitetsarbete 2023-2024<br>Kl 10:55-11:25<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2024-00633 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
+| 15. | Intern kontrollplan 2025<br>Kl 11:25-11:55<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2024-00732 | Nämnden beslutar att godkänna intern<br>kontrollplan 2025 för nämnden för Förskola &<br>Grundskola |
+| 16. | Skolinspektionens granskning<br>av Åsa Gårdskolan<br>Kl 11:55-12:20<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2024-00737 | Förskola & Grundskolas arbetsutskott beslutar<br>att som huvudmannens svar på identifierade<br>utvecklingsområde i Skolinspektionens<br>regelbundna kvalitetsgranskning godkänna<br>rektors åtgärder. |
+|  | Paus 12:20-12:30 |  |  |
+| 17. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2024<br>Kl 12:30-12:50<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00004 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen till protokollet |
+| 18. | Avstämning arbete med<br>lokalöversyn<br>Kl 12:50-13:20<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00744 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen till protokollet |
+| 19. | Avstämning Lunch<br>verksamheter<br>Kl 13:20-13:30<br>Ordförande | FG-2024-00741 | Förslag till beslut |
+| 20. | Flytt av arbetsutskott v 7 2025<br>Kl 13:30-13:40<br>Ordförande | FG-2024-000743 | Förslag till beslut |
+| 21. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 13:40-14:05<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00002 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet |
 
 <!-- sida 3 -->
 
@@ -74,32 +86,11 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | Interkommunala ersättningar<br>Marks kommun och Varberg<br>Kl 10:25-10:30<br>Gustav Sjöström, ekonomichef | FG-2024-00707 | Förslag till beslut |
-| 12. | Interkommunal ersättning inom<br>GR<br>Kl 10:30-10:35<br>Gustav Sjöström, ekonomichef | FG-2024-00734 | Nämnden för Förskola & Grundskola beslutar<br>att följa förbundsstyrelsen inom<br>Göteborgsregionens rekommendation att med<br>avstämningstidpunkt den 15:e respektive<br>månad, fastställa interkommunal ersättning för<br>förskola, pedagogisk omsorg, förskoleklass,<br>grundskola, fritidshem, anpassad grundskola<br>och ISGR kalenderåret 2025 i enlighet med<br>innehållet i prislista. |
-| 13. | Information skolskjuts 2024<br>Kl 10:35-10:55<br>Lars Sundbom, utvecklare | FG-2024-00662 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen till protokollet |
-| 14. | Huvudmannens systematiska<br>kvalitetsarbete 2023-2024<br>Kl 10:55-11:25<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2024-00633 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
-| 15. | Intern kontrollplan 2025<br>Kl 11:25-11:55<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2024-00732 | Nämnden beslutar att godkänna intern<br>kontrollplan 2025 för nämnden för Förskola &<br>Grundskola |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 16. | Skolinspektionens granskning<br>av Åsa Gårdskolan<br>Kl 11:55-12:20<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2024-00737 | Förskola & Grundskolas arbetsutskott beslutar<br>att som huvudmannens svar på identifierade<br>utvecklingsområde i Skolinspektionens<br>regelbundna kvalitetsgranskning godkänna<br>rektors åtgärder. |
-|  | Paus 12:20-12:30 |  |  |
-| 17. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2024<br>Kl 12:30-12:50<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00004 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen till protokollet |
-| 18. | Avstämning arbete med<br>lokalöversyn<br>Kl 12:50-13:20<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00744 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen till protokollet |
-| 19. | Avstämning Lunch<br>verksamheter<br>Kl 13:20-13:30<br>Ordförande | FG-2024-00741 | Förslag till beslut |
-| 20. | Flytt av arbetsutskott v 7 2025<br>Kl 13:30-13:40<br>Ordförande | FG-2024-000743 | Förslag till beslut |
 
 <!-- sida 5 -->
 
@@ -109,9 +100,3 @@ KUNGSBACKA  KOMMUN
 
 Emanuel Forsell                   Lars Sundbom
 ordförande                        sekreterare
-
-[Tabell 5-1](kallelse.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 21. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 13:40-14:05<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00002 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet |

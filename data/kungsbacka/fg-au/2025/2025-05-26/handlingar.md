@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4920649e196f63f72e93d4f/17479038136
 sha256: 37fdea7ed01e395806925dfe94645c446064abfa479472beaf9bf78f83f7e479
 bytes: 4465919
 sidor: 48
-hamtad: 2026-10-07T23:26:56+00:00
-konverterad: 2026-10-07T23:27:09+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T07:31:41+00:00
+konverterad: 2026-10-14T07:31:52+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [30, 31, 32]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-3-1](handlingar.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -67,22 +67,17 @@ KUNGSBACKA  KOMMUN
 | 9. | Redovisning kränkningar<br>Kl 15:05-15:30<br>Tove Bender, utredare<br>Bertil Ljungblad,<br>utvecklingsledare | FG-2025-00256 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 | 10. | Årsrapport dataskyddsarbete<br>2024-2025 | FG-2025-00320 | Nämnden för Förskola & Grundskola har tagit<br>del av rapporten och förvaltningens redovisning<br>med anledning av denna. |
 | 11. | Ansökan från Örtagårdens<br>kooperativa förskola ekonomisk<br>förening gällande permanent<br>utökning av barnantal. | FG-2025-00307 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Örtagårdens kooperativa förskola<br>ekonomisk förening, Lars (adress borttagen),<br>434 42 Kungsbacka, om permanent utökning till<br>totalt 51 barn. |
+| 12. | Revidering av Regler för<br>skolskjuts<br>Kl 15:30-15:40<br>Frida Byrsten, verksamhetschef | FG-2025-00289 | Revidering av Regler för skolskjuts antas i de<br>delar som berör vårdnadshavares ansvar samt<br>korttidsboende/korttidsvistelse.<br>Regler för skolskjuts daterat 2024-04-17 upphör<br>att gälla. |
+| 13. | Ansökan om fullgörande av<br>skolplikten på annat sätt för två<br>elever - skollagen 24 kap 23 § -<br>Särö skola<br>Kl 15:40-15:50<br>Frida Byrsten, verksamhetschef | FG-2025-00259 | Ansökan om fullgörande av skolplikt på annat<br>sätt för eleverna beviljas inte då kriterierna enligt<br>skollagen 24 kapitel 23 § inte bedöms vara<br>uppfyllda. |
+| 14. | Uppföljning barnomsorg på<br>obekväm tid<br>Kl 15:50-16:00<br>Frida Byrsten, verksamhetschef | FG-2025-00318 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen i protokollet. |
+| 15. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2025 | FG-2025-00005 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
+| 16. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 16:00-16:40<br>Stigert Petersson,<br>förvaltningschef<br>Ullrika Vildbaek,<br>utvecklingsledare | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 12. | Revidering av Regler för<br>skolskjuts<br>Kl 15:30-15:40<br>Frida Byrsten, verksamhetschef | FG-2025-00289 | Revidering av Regler för skolskjuts antas i de<br>delar som berör vårdnadshavares ansvar samt<br>korttidsboende/korttidsvistelse.<br>Regler för skolskjuts daterat 2024-04-17 upphör<br>att gälla. |
-| 13. | Ansökan om fullgörande av<br>skolplikten på annat sätt för två<br>elever - skollagen 24 kap 23 § -<br>Särö skola<br>Kl 15:40-15:50<br>Frida Byrsten, verksamhetschef | FG-2025-00259 | Ansökan om fullgörande av skolplikt på annat<br>sätt för eleverna beviljas inte då kriterierna enligt<br>skollagen 24 kapitel 23 § inte bedöms vara<br>uppfyllda. |
-| 14. | Uppföljning barnomsorg på<br>obekväm tid<br>Kl 15:50-16:00<br>Frida Byrsten, verksamhetschef | FG-2025-00318 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen i protokollet. |
-| 15. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2025 | FG-2025-00005 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
-| 16. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 16:00-16:40<br>Stigert Petersson,<br>förvaltningschef<br>Ullrika Vildbaek,<br>utvecklingsledare | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 
 <!-- sida 4 -->
 

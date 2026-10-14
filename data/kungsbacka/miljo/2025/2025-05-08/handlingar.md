@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.710051861969f780afa25cc/17464422322
 sha256: 872ed409712314b45095726f1def2b2efbab1b679d593cb6035592783c4c3bb7
 bytes: 895572
 sidor: 27
-hamtad: 2026-10-08T08:05:50+00:00
-konverterad: 2026-10-08T08:05:59+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T11:00:56+00:00
+konverterad: 2026-10-14T11:01:05+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1108,8 +1108,9 @@ underskott för 2025 eller en resultatfond.
 
 [Tabell 26-1](handlingar.tabeller/26-1.csv)
 
-| Nämnden för Miljö & Hälsoskydd | Bokslut<br>2024<br>0,8 | Årsbudget<br>2025<br>1,0 | Helårs-<br>prognos<br>2025<br>1,0 | Avvikelse<br>2025<br>0,0 |
+|  | Bokslut<br>2024 | Årsbudget<br>2025 | Helårs-<br>prognos<br>2025 | Avvikelse<br>2025 |
 | --- | --- | --- | --- | --- |
+| Nämnden för Miljö & Hälsoskydd | 0,8 | 1,0 | 1,0 | 0,0 |
 | Periodens resultat | 0,8 | 1,0 | 1,0 | 0,0 |
 
 <!-- sida 27 -->

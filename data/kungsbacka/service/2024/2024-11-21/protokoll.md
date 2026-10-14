@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1932ec3d19329b835ff65a97/1732263235
 sha256: b12663d92ce39a8b650f906c3a270f2b6b86a4680568dbc727d9b692b37d79b2
 bytes: 219395
 sidor: 20
-hamtad: 2026-10-08T01:59:56+00:00
-konverterad: 2026-10-08T02:00:04+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:40:06+00:00
+konverterad: 2026-10-14T09:40:12+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -552,7 +552,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 14-1](protokoll.tabeller/14-1.csv)
+[Tabell 14-19-1](protokoll.tabeller/14-19-1.csv)
 
 | Beskrivning | Inkom | Tillhör ärende | Ärendemening |
 | --- | --- | --- | --- |
@@ -562,6 +562,42 @@ Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 | Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning -<br>Verksamhetslokal Hemtjänst<br>och Hemsjukvård Åsa | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
 | Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning<br>Verksamhetslokal Hemtjänst<br>och Hemsjukvård Centrum | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
 | Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning<br>Verksamhetslokal Hemtjänst<br>och Hemsjukvård,<br>Anneberg/Älvsåker | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
+| Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning:<br>Centralförråd för<br>Grundutrustning Hjälpmedel | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
+| Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning:<br>Verksamhetslokal för Digital<br>Hemtjänst och Hemsjukvård | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
+| Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning:<br>Verksamhetslokal med<br>parkeringsplatser Hemtjänst<br>Kullavik | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
+| Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning:<br>Verksamhetslokal<br>Hemsjukvård IF | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
+| Lokalbehov 2026-2030 –<br>Vård- och Omsorg -<br>Behovsbeskrivning:<br>Anslutningspunkt för<br>Nödvatten på vård och<br>omsorgsboende | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
+| Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning:<br>Utbyggnad av Wifi och Data<br>på vård och omsorgsboende | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
+| Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning: Digitala<br>Trygghetslarm på vård och<br>omsorgsboende | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
+| Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning: Digitalt<br>Låssystem på vård och<br>omsorgsboende | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
+| Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Adresser och avtalstider,<br>verksamhetslokaler | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
+| (Kommunstyrelsen)<br>(Beslut § 205)<br>Intern kontroll 2025 för<br>kommunstyrelsen | 2024-10-01 | SE-2024-00340 | Intern kontroll 2025 för<br>kommunstyrelsen |
+| Kommunledningskontorets<br>tjänsteskrivelse -<br>Intern kontroll 2025 för<br>kommunstyrelsen | 2024-10-01 | SE-2024-00340 | Intern kontroll 2025 för<br>kommunstyrelsen |
+| Intern kontrollplan 2025<br>Kommunstyrelsen | 2024-10-01 | SE-2024-00340 | Intern kontroll 2025 för<br>kommunstyrelsen |
+| (Nämnden för Förskola &<br>Grundskola) (Beslut § 99)<br>Lokalbehov 2026-2030<br>utblicksår 2031-2035 | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
+| (Förskola & Grundskola)<br>Tjänsteskrivelse - Lokalbehov<br>2026-2030 utblicksår 2031-<br>2035 | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
+| (Förskola & grundskola<br>arbetsutskott) (Beslut § 98)<br>Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>(lokalplan) | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
+| Lokalbehov 2026-2030<br>Utblicksår 2031-2035 -<br>Nämnden för Förskola &<br>Grundskola | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
+| Lokalbehov 2026-2030<br>utblicksår 2031-2035 -<br>Förskola & Grundskola -<br>Koncept Utbildningslokaler<br>1.5 | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
+| Lokalbehov 2026-2030,<br>utblicksår 2031-2035 -<br>Förskola & Grundskola | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
+| Lokalbehov 2026-2030<br>Utblicksår 2031-2035 -<br>Förskola & Grundskola | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
+| Bilaga 1: Behovsbeskrivning<br>verksamhetsanpassning för att<br>uppfylla myndighetskrav<br>förskolor | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
+| Bilaga 2: Behovsbeskrivning<br>verksamhetsanpassning för att<br>uppfylla myndighetskrav<br>grundskolor | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
+| Bilaga 3: Behovsbeskrivning<br>volymändring förskolor<br>Nordväst | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
+| Bilaga 4: Behovsbeskrivning<br>verksamhetsanpassning<br>omdisponering av<br>verksamheter i befintliga<br>lokaler | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
+| (Kommunfullmäktige)<br>(Beslut § 120)<br>Antagande av riktlinjer för<br>studiebesök för<br>förtroendevalda politiker i<br>kommunens verksamheter | 2024-10-18 | SE-2024-00366 | Riktlinjer för studiebesök för<br>förtroendevalda politiker i<br>kommunens verksamheter |
+| Kommunstyrelsens<br>förvaltnings Tjänsteskrivelse -<br>Antagande av Riktlinjer -<br>Studiebesök för<br>förtroendevalda i kommunens<br>verksamheter | 2024-10-18 | SE-2024-00366 | Riktlinjer för studiebesök för<br>förtroendevalda politiker i<br>kommunens verksamheter |
+| Studiebesök för<br>förtroendevalda politiker i<br>kommunens verksamheter -<br>Riktlinjer<br>(KF 2024-10-08 § 120) | 2024-10-18 | SE-2024-00366 | Riktlinjer för studiebesök för<br>förtroendevalda politiker i<br>kommunens verksamheter |
+| (Kommunstyrelsen)<br>(Beslut § 228)<br>Uppstart av projekt i lokalplan<br>Åsa grundskola | 2024-10-25 | SE-2024-00370 | Uppstart av projekt i<br>lokalplan - Åsa grundskola |
+| Kommunstyrelsens<br>förvaltning tjänsteskrivelse -<br>Uppstart av projekt i lokalplan<br>Åsa grundskolan | 2024-10-25 | SE-2024-00370 | Uppstart av projekt i<br>lokalplan - Åsa grundskola |
+| Kommunbudget 2025, plan<br>2026-2027,<br>lokalplan ss. 45-53 | 2024-10-25 | SE-2024-00370 | Uppstart av projekt i<br>lokalplan - Åsa grundskola |
+| (Nämnden för Kultur & Fritid)<br>(Beslut § 105)<br>Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 | 2024-10-25 | SE-2024-00371 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 -<br>Kultur & Fritid |
+| (Förvaltningen för Kultur &<br>Fritid) (Tjänsteskrivelse) -<br>Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 | 2024-10-25 | SE-2024-00371 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 -<br>Kultur & Fritid |
+| Lokalbehov 2026-2030<br>Utblicksår 2031-2035 -<br>Kultur & Fritid | 2024-10-25 | SE-2024-00371 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 -<br>Kultur & Fritid |
+| Bilaga: (E-post) -<br>Liten teater för repetitioner<br>och föreställningar | 2024-10-25 | SE-2024-00371 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 -<br>Kultur & Fritid |
+| Bilaga: Liten teater för<br>repetitioner och<br>föreställningar - Lokalplan<br>2026-2030 -<br>Kultur & Fritid | 2024-10-25 | SE-2024-00371 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 -<br>Kultur & Fritid |
+| Bilaga: Konstförråd -<br>Lokalbehovsplan 2026-2030<br>Kultur & Fritid | 2024-10-25 | SE-2024-00371 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 -<br>Kultur & Fritid |
+| Bilaga: Lokal för utlån av<br>fritidsutrustning - Lokalplan<br>2026-2030 - Kultur & Fritid | 2024-10-25 | SE-2024-00371 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 -<br>Kultur & Fritid |
 
 <!-- sida 15 -->
 
@@ -574,17 +610,6 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 15-1](protokoll.tabeller/15-1.csv)
-
-| Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning:<br>Centralförråd för<br>Grundutrustning Hjälpmedel | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
-| --- | --- | --- | --- |
-| Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning:<br>Verksamhetslokal för Digital<br>Hemtjänst och Hemsjukvård | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
-| Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning:<br>Verksamhetslokal med<br>parkeringsplatser Hemtjänst<br>Kullavik | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
-| Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning:<br>Verksamhetslokal<br>Hemsjukvård IF | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
-| Lokalbehov 2026-2030 –<br>Vård- och Omsorg -<br>Behovsbeskrivning:<br>Anslutningspunkt för<br>Nödvatten på vård och<br>omsorgsboende | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
-| Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning:<br>Utbyggnad av Wifi och Data<br>på vård och omsorgsboende | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
-| Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning: Digitala<br>Trygghetslarm på vård och<br>omsorgsboende | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
-
 <!-- sida 16 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          16 (20)
@@ -595,19 +620,6 @@ Datum
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 16-1](protokoll.tabeller/16-1.csv)
-
-| Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning: Digitalt<br>Låssystem på vård och<br>omsorgsboende | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
-| --- | --- | --- | --- |
-| Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Adresser och avtalstider,<br>verksamhetslokaler | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
-| (Kommunstyrelsen)<br>(Beslut § 205)<br>Intern kontroll 2025 för<br>kommunstyrelsen | 2024-10-01 | SE-2024-00340 | Intern kontroll 2025 för<br>kommunstyrelsen |
-| Kommunledningskontorets<br>tjänsteskrivelse -<br>Intern kontroll 2025 för<br>kommunstyrelsen | 2024-10-01 | SE-2024-00340 | Intern kontroll 2025 för<br>kommunstyrelsen |
-| Intern kontrollplan 2025<br>Kommunstyrelsen | 2024-10-01 | SE-2024-00340 | Intern kontroll 2025 för<br>kommunstyrelsen |
-| (Nämnden för Förskola &<br>Grundskola) (Beslut § 99)<br>Lokalbehov 2026-2030<br>utblicksår 2031-2035 | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
-| (Förskola & Grundskola)<br>Tjänsteskrivelse - Lokalbehov<br>2026-2030 utblicksår 2031-<br>2035 | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
-| (Förskola & grundskola<br>arbetsutskott) (Beslut § 98)<br>Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>(lokalplan) | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
-| Lokalbehov 2026-2030<br>Utblicksår 2031-2035 -<br>Nämnden för Förskola &<br>Grundskola | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
 
 <!-- sida 17 -->
 
@@ -620,18 +632,6 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 17-1](protokoll.tabeller/17-1.csv)
-
-| Lokalbehov 2026-2030<br>utblicksår 2031-2035 -<br>Förskola & Grundskola -<br>Koncept Utbildningslokaler<br>1.5 | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
-| --- | --- | --- | --- |
-| Lokalbehov 2026-2030,<br>utblicksår 2031-2035 -<br>Förskola & Grundskola | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
-| Lokalbehov 2026-2030<br>Utblicksår 2031-2035 -<br>Förskola & Grundskola | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
-| Bilaga 1: Behovsbeskrivning<br>verksamhetsanpassning för att<br>uppfylla myndighetskrav<br>förskolor | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
-| Bilaga 2: Behovsbeskrivning<br>verksamhetsanpassning för att<br>uppfylla myndighetskrav<br>grundskolor | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
-| Bilaga 3: Behovsbeskrivning<br>volymändring förskolor<br>Nordväst | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
-| Bilaga 4: Behovsbeskrivning<br>verksamhetsanpassning<br>omdisponering av<br>verksamheter i befintliga<br>lokaler | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
-| (Kommunfullmäktige)<br>(Beslut § 120)<br>Antagande av riktlinjer för<br>studiebesök för<br>förtroendevalda politiker i<br>kommunens verksamheter | 2024-10-18 | SE-2024-00366 | Riktlinjer för studiebesök för<br>förtroendevalda politiker i<br>kommunens verksamheter |
-
 <!-- sida 18 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          18 (20)
@@ -642,19 +642,6 @@ Datum
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 18-1](protokoll.tabeller/18-1.csv)
-
-| Kommunstyrelsens<br>förvaltnings Tjänsteskrivelse -<br>Antagande av Riktlinjer -<br>Studiebesök för<br>förtroendevalda i kommunens<br>verksamheter | 2024-10-18 | SE-2024-00366 | Riktlinjer för studiebesök för<br>förtroendevalda politiker i<br>kommunens verksamheter |
-| --- | --- | --- | --- |
-| Studiebesök för<br>förtroendevalda politiker i<br>kommunens verksamheter -<br>Riktlinjer<br>(KF 2024-10-08 § 120) | 2024-10-18 | SE-2024-00366 | Riktlinjer för studiebesök för<br>förtroendevalda politiker i<br>kommunens verksamheter |
-| (Kommunstyrelsen)<br>(Beslut § 228)<br>Uppstart av projekt i lokalplan<br>Åsa grundskola | 2024-10-25 | SE-2024-00370 | Uppstart av projekt i<br>lokalplan - Åsa grundskola |
-| Kommunstyrelsens<br>förvaltning tjänsteskrivelse -<br>Uppstart av projekt i lokalplan<br>Åsa grundskolan | 2024-10-25 | SE-2024-00370 | Uppstart av projekt i<br>lokalplan - Åsa grundskola |
-| Kommunbudget 2025, plan<br>2026-2027,<br>lokalplan ss. 45-53 | 2024-10-25 | SE-2024-00370 | Uppstart av projekt i<br>lokalplan - Åsa grundskola |
-| (Nämnden för Kultur & Fritid)<br>(Beslut § 105)<br>Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 | 2024-10-25 | SE-2024-00371 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 -<br>Kultur & Fritid |
-| (Förvaltningen för Kultur &<br>Fritid) (Tjänsteskrivelse) -<br>Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 | 2024-10-25 | SE-2024-00371 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 -<br>Kultur & Fritid |
-| Lokalbehov 2026-2030<br>Utblicksår 2031-2035 -<br>Kultur & Fritid | 2024-10-25 | SE-2024-00371 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 -<br>Kultur & Fritid |
-| Bilaga: (E-post) -<br>Liten teater för repetitioner<br>och föreställningar | 2024-10-25 | SE-2024-00371 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 -<br>Kultur & Fritid |
 
 <!-- sida 19 -->
 
@@ -676,13 +663,6 @@ bifaller det.
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 19-1](protokoll.tabeller/19-1.csv)
-
-| Bilaga: Liten teater för<br>repetitioner och<br>föreställningar - Lokalplan<br>2026-2030 -<br>Kultur & Fritid | 2024-10-25 | SE-2024-00371 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 -<br>Kultur & Fritid |
-| --- | --- | --- | --- |
-| Bilaga: Konstförråd -<br>Lokalbehovsplan 2026-2030<br>Kultur & Fritid | 2024-10-25 | SE-2024-00371 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 -<br>Kultur & Fritid |
-| Bilaga: Lokal för utlån av<br>fritidsutrustning - Lokalplan<br>2026-2030 - Kultur & Fritid | 2024-10-25 | SE-2024-00371 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 -<br>Kultur & Fritid |
 
 <!-- sida 20 -->
 

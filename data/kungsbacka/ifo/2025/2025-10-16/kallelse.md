@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4bf8b95b199c910f57c6a88d/1760345742
 sha256: 0af20323cc38241c8ffbc73a4831dc31a07ae23ac82e84d7c18431d4fea21723
 bytes: 227633
 sidor: 4
-hamtad: 2026-10-08T02:24:15+00:00
-konverterad: 2026-10-08T02:24:21+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:02:31+00:00
+konverterad: 2026-10-14T10:02:38+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -56,7 +56,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -64,17 +64,6 @@ KUNGSBACKA  KOMMUN
 | 6. | Nämndbudget 2026, plan 2027-<br>2028 - Nämnden för Individ &<br>Familjeomsorg<br>Kamilla Julin, enhetschef<br>Karin Nielsen, enhetschef | IF-2025-<br>00247 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg godkänner<br>upprättad nämndbudget 2026, plan 2027 - 2028 för<br>nämnden för Individ och Familjeomsorg.<br>Nämnden uppdrar åt förvaltningschefen att upprätta<br>Förvaltningsbudget för 2026.<br>Nämnden uppdrar åt förvaltningschefen att göra<br>nödvändiga omfördelningar i Förvaltningsbudget<br>2026 under året samt att informera nämnden om<br>dessa i samband med delårsrapport och bokslut. |
 | 7. | Avvikelse från bestämmelser<br>om arbetstidens förläggning<br>inom Individ & Familjeomsorg<br>i vissa situationer<br>Julia Wilholm, personalchef | IF-2023-<br>00285 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorgs förslag till<br>kommunstyrelsen<br>Kommunstyrelsen beslutar att bevilja avvikelse från<br>regler om maxlängden på 20 timmar för ett<br>arbetspass till 24 timmar inom Individ &<br>familjeomsorg inom<br>1. personlig assistans för individer som har ett<br>identifierat behov<br>2. personlig assistans och bostad med särskild<br>service för situationer då brukare ska företa<br>resor som rekreation eller inom sitt värv<br>3. läger- och korttidsverksamheten för barn och<br>unga<br>Beslutet gäller under perioden 1 februari 2026–31<br>januari 2027. |
 | 8. | Systematiskt arbetsmiljöarbete,<br>SAM<br>Julia Wilholm, personalchef | IF-2024-<br>00046 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>informationen till protokollet. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 9. | Initiativärende (M), (L), (C) och<br>(KD) - Ansökan om medel för<br>att främja välmående och<br>motverka psykisk ohälsa | IF-2025-<br>00301 | Förslag till beslut |
 | 10. | Återredovisning -<br>Initiativärende (M), (L), (C) och<br>(KD) – Rätt kurva<br>Renate Rondolph,<br>verksamhetschef | IF-2025-<br>00231 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>informationen till protokollet.<br>Nämnden för Individ & Familjeomsorg förklarar<br>initiativärendet besvarat. |
 | 11. | Månadsuppföljning till nämnd<br>Kamilla Julin, enhetschef<br>Karin Nielsen, enhetschef<br>Julia Wilholm, personalchef | IF-2023-<br>00100 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>informationen till protokollet. |
@@ -83,6 +72,14 @@ KUNGSBACKA  KOMMUN
 | 14. | Anmälan av delegeringsbeslut | IF-2023-<br>00003 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg godkänner<br>redovisningen av delegeringsbeslut fattade under<br>perioden 2025-09-01 – 2025-09-30. |
 | 15. | Redovisning av domar och<br>beslut | IF-2024-<br>00012 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>redovisningen av inkomna domar och beslut till<br>protokollet. |
 | 16. | Redovisning av synpunkter och<br>klagomål | IF-2023-<br>00005 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>redovisningen av inkomna synpunkter och klagomål<br>till protokollet. |
+| 17. | Redovisning av skrivelser och<br>meddelanden | IF-2023-<br>00006 | Förslag till beslut<br>Inga skrivelser eller meddelanden har inkommit<br>under perioden 2025-09-01 – 2025-09-30. |
+| 18. | Övrigt | IF-2023-<br>00008 | Förslag till beslut |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -92,10 +89,3 @@ KUNGSBACKA  KOMMUN
 
 Tommy Rydfeldt (L)                Josefine Jönsson
 ordförande                        nämndsekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 17. | Redovisning av skrivelser och<br>meddelanden | IF-2023-<br>00006 | Förslag till beslut<br>Inga skrivelser eller meddelanden har inkommit<br>under perioden 2025-09-01 – 2025-09-30. |
-| 18. | Övrigt | IF-2023-<br>00008 | Förslag till beslut |

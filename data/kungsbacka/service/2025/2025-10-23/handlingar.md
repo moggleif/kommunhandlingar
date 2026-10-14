@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6a09db4d199f66014843b04d/1760941979
 sha256: 0ab13103a5c204a246d44d56e8489e7f13601128ff80d471619e8d3e94bfab9f
 bytes: 8146139
 sidor: 194
-hamtad: 2026-10-08T02:12:47+00:00
-konverterad: 2026-10-08T02:13:22+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T09:52:02+00:00
+konverterad: 2026-10-14T09:52:31+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, tom, tom, tom, tom, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, tom, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, tom, tom, tom, tom, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [52, 53, 54, 72, 73, 74, 121]
-figurer: null
-tolkade: null
+figurer: [10, 13, 19, 21, 23, 24, 26, 27, 31, 32, 35, 37, 53, 57, 61, 121, 122, 125, 129, 134, 135, 147, 156, 159, 173]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1587,14 +1587,17 @@ SUMMA
 SUMMA PER ARBETSLAG/HUBB
 HUBB  ÅRSKURS 4-6
 
-9
+Klassrum                                         9
+1.12
+Grupprum                                         9
+1.13
+Fritidshem                                       3
+1.14
 
-9
-
-3
-
-3
-3
+Lärararbetsplats                                 3
+1.15
+Samtalsrum                                       3
+1.16
 
 [Tabell 43-1](handlingar.tabeller/43-1.csv)
 
@@ -1628,26 +1631,18 @@ HUBB  ÅRSKURS 4-6
 | 1.10 | Förråd |  | 3 |
 | 1.11 | Städ |  | 3 |
 
-[Tabell 43-4](handlingar.tabeller/43-4.csv)
-
-| 1.12 | Klassrum |
-| --- | --- |
-| 1.13 | Grupprum |
-| 1.14 | Fritidshem |
-| 1.15 | Lärararbetsplats |
-| 1.16 | Samtalsrum |
-
 <!-- sida 44 -->
 
-3
-
-18
-3
-
-3
-
-2
-
+Kapprum                                          3
+1.17
+WC                                              18
+1.18
+RWC                                              3
+1.19
+Förråd                                           3
+1.20
+Städ                                             2
+1.21
 SUMMA
 SUMMA PER ARBETSLAG/HUBB
 GEMENSAM  LÄRMILJÖ ÅK 3-6 (PROJEKTANPASSAS)
@@ -1658,32 +1653,25 @@ GEMENSAMMA   LOKALER (PROJEKTANPASSAS)
 SUMMA
 ADMINISTRATION (PROJEKTANPASSAS)
 
-1
+Kontorsrum                                       1
+1.32
 
-1
-
-2
-
-1
-1
-
-1
-
-1
-
+Förråd, kopiering, post                          1
+1.33
+Samtalsrum                                       2
+1.34
+Vilrum/samtalsrum                                1
+1.35
+RWC                                              1
+1.36
+WC                                               1
+1.37
+Konferensrum                                     1
+1.38
 Pausrum                                          1
 1.39
 
 [Tabell 44-1](handlingar.tabeller/44-1.csv)
-
-| 1.17 | Kapprum |
-| --- | --- |
-| 1.18 | WC |
-| 1.19 | RWC |
-| 1.20 | Förråd |
-| 1.21 | Städ |
-
-[Tabell 44-2](handlingar.tabeller/44-2.csv)
 
 | 1.22 | Slöjd |  | 1 |
 | --- | --- | --- | --- |
@@ -1694,23 +1682,12 @@ Pausrum                                          1
 | 1.27 | Förråd (musik) |  | 1 |
 | 1.28 | Särskild undervisningsgrupp |  | 2 |
 
-[Tabell 44-3](handlingar.tabeller/44-3.csv)
+[Tabell 44-2](handlingar.tabeller/44-2.csv)
 
 | 1.29 | Bibliotek, mediatek |  | 1 |
 | --- | --- | --- | --- |
 | 1.30 | Grupprum till bibliotek |  | 1 |
 | 1.31 | Förråd |  | 1 |
-
-[Tabell 44-4](handlingar.tabeller/44-4.csv)
-
-| 1.32 | Kontorsrum |
-| --- | --- |
-| 1.33 | Förråd, kopiering, post |
-| 1.34 | Samtalsrum |
-| 1.35 | Vilrum/samtalsrum |
-| 1.36 | RWC |
-| 1.37 | WC |
-| 1.38 | Konferensrum |
 
 <!-- sida 45 -->
 
@@ -1771,7 +1748,7 @@ X
 | 1.55 | BRA |  | 1,25 |
 | 1.56 | BTA |  |  |
 
-[Tabell 45-5](handlingar.tabeller/45-5.csv)
+[Tabell 45-46-5](handlingar.tabeller/45-46-5.csv)
 
 | 1.57 | Teknikrum |
 | --- | --- |
@@ -1779,6 +1756,11 @@ X
 | 1.59 | Data |
 | 1.60 | Åv-hus |
 | 1.61 | Cykelställ |
+| 1.62 | Uteförråd |
+| 1.63 | Utemiljö F-3 |
+| 1.64 | Utemiljö 4-6 |
+| 1.65 | Angöring |
+| 1.66 | Parkering |
 
 <!-- sida 46 -->
 
@@ -1787,15 +1769,6 @@ X
 X
 
 X
-
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
-
-| 1.62 | Uteförråd |
-| --- | --- |
-| 1.63 | Utemiljö F-3 |
-| 1.64 | Utemiljö 4-6 |
-| 1.65 | Angöring |
-| 1.66 | Parkering |
 
 <!-- sida 47 -->
 
@@ -1820,14 +1793,16 @@ Antal (st)
 1561     5,2
 520
 
-32
+```osaker-tabell
+65        585                32
 
-10
+15        135                10
 
-45
+75        225                45
 
-10
-6
+30         90                10
+10         30                 6
+```
 
 [Tabell 47-1](handlingar.tabeller/47-1.csv)
 
@@ -1864,15 +1839,6 @@ Antal (st)
 | 5 | 15 |  |  |  |  |
 | 12 | 36 |  |  |  |  |
 | 2 | 6 |  |  |  |  |
-
-[Tabell 47-5](handlingar.tabeller/47-5.csv)
-
-| 65 | 585 |
-| --- | --- |
-| 15 | 135 |
-| 75 | 225 |
-| 30 | 90 |
-| 10 | 30 |
 
 <!-- sida 48 -->
 
@@ -1975,15 +1941,6 @@ Antal (st)
 |  | 5199,5 | 9,9 |  |  |  |
 |  |  |  |  |  |  |
 
-[Tabell 49-5](handlingar.tabeller/49-5.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
 <!-- sida 50 -->
 
 [Tabell 50-1](handlingar.tabeller/50-1.csv)
@@ -2034,29 +1991,6 @@ Antal (st)
 | --- | --- |
 |  |  |
 
-[Tabell 51-5](handlingar.tabeller/51-5.csv)
-
-|  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-
-[Tabell 51-6](handlingar.tabeller/51-6.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
 <!-- sida 52 -->
 
 <!-- sida 53 -->
@@ -2101,20 +2035,6 @@ Plats för 1 större bord och 2 arbetsplatser samt 1 arbetsskåp per pedagog.
 | --- | --- | --- |
 |  |  |  |
 
-[Tabell 55-2](handlingar.tabeller/55-2.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
 <!-- sida 56 -->
 
 Även kapphängare och skoställ för pedagoger + torkskåp
@@ -2138,35 +2058,6 @@ Kan samnyttjas med elevhälsan
 Plats för 10 stolar + bord + extra pallar
 
 I närhet av matsal för ca 20 sittplatser (bord, stolar, soffa)
-
-[Tabell 56-1](handlingar.tabeller/56-1.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-[Tabell 56-2](handlingar.tabeller/56-2.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-
-[Tabell 56-3](handlingar.tabeller/56-3.csv)
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 
 <!-- sida 57 -->
 
@@ -2192,39 +2083,6 @@ Svällningsfaktor inkluderar innerväggar samt kommunikationsytor. Verklig siffr
 Programarea x svällningsfaktor = BRA
 
 I anslutning till inlastning och kök.
-
-[Tabell 57-1](handlingar.tabeller/57-1.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-[Tabell 57-2](handlingar.tabeller/57-2.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-[Tabell 57-3](handlingar.tabeller/57-3.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-
-[Tabell 57-4](handlingar.tabeller/57-4.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
 
 <!-- sida 58 -->
 
@@ -2293,22 +2151,25 @@ Tillagningskök
 
 Sittplatser i matsal
 
+Posnr                Lokaltyp
 Antal (st)
 
-1
+Entre/huvudentre                               1
+1.1
 HUBB  ÅRSKURS 7-9
 
 SUMMA
 SUMMA PER ARBETSLAG/HUBB
 
 GEMENSAM  LÄRMILJÖ (PROJEKTANPASSAS)
-1
-
-2
-
-1
-
-1
+Slöjd                                          1
+1.22
+Förråd (slöjd)                                 2
+1.23
+Bild                                           1
+1.24
+Förråd (bild)                                  1
+1.25
 
 [Tabell 63-1](handlingar.tabeller/63-1.csv)
 
@@ -2324,12 +2185,6 @@ GEMENSAM  LÄRMILJÖ (PROJEKTANPASSAS)
 
 [Tabell 63-2](handlingar.tabeller/63-2.csv)
 
-| Posnr | Lokaltyp |
-| --- | --- |
-| 1.1 | Entre/huvudentre |
-
-[Tabell 63-3](handlingar.tabeller/63-3.csv)
-
 | 1.2 | Klassrum |  | 18 |
 | --- | --- | --- | --- |
 | 1.3 | Grupprum |  | 18 |
@@ -2342,31 +2197,24 @@ GEMENSAM  LÄRMILJÖ (PROJEKTANPASSAS)
 | 1.10 | Förråd |  | 6 |
 | 1.11 | Städ |  | 6 |
 
-[Tabell 63-4](handlingar.tabeller/63-4.csv)
-
-| 1.22 | Slöjd |
-| --- | --- |
-| 1.23 | Förråd (slöjd) |
-| 1.24 | Bild |
-| 1.25 | Förråd (bild) |
-
 <!-- sida 64 -->
 
-1
-
-2
-1
-
-1
-
-1
-
-2
-
-1
-
-2
-
+Musik                                          1
+1.26
+Grupprum (musik)                               2
+1.27
+Förråd (musik)                                 1
+1.28
+Hem-, kost- och konsumentkunskap (HKK)         1
+1.29
+Förråd (HKK)                                   1
+1.30
+NO (typ kombisal)                              2
+1.31
+Preprum                                        1
+1.32
+Särskild undervisningsgrupp                    2
+1.33
 SUMMA
 
 GEMENSAMMA   LOKALER (PROJEKTANPASSAS)
@@ -2380,18 +2228,6 @@ ELEVHÄLSA  (PROJEKTANPASSAS)
 
 [Tabell 64-1](handlingar.tabeller/64-1.csv)
 
-| 1.26 | Musik |
-| --- | --- |
-| 1.27 | Grupprum (musik) |
-| 1.28 | Förråd (musik) |
-| 1.29 | Hem-, kost- och konsumentkunskap (HKK) |
-| 1.30 | Förråd (HKK) |
-| 1.31 | NO (typ kombisal) |
-| 1.32 | Preprum |
-| 1.33 | Särskild undervisningsgrupp |
-
-[Tabell 64-2](handlingar.tabeller/64-2.csv)
-
 | 1.34 | Biblotek, mediatek |  | 1 |
 | --- | --- | --- | --- |
 | 1.35 | Grupprum (bibliotek) |  | 1 |
@@ -2401,7 +2237,7 @@ ELEVHÄLSA  (PROJEKTANPASSAS)
 | 1.39 | Elevcafé kök |  | 1 |
 | 1.40 | Förråd (elevcafé) |  | 1 |
 
-[Tabell 64-3](handlingar.tabeller/64-3.csv)
+[Tabell 64-2](handlingar.tabeller/64-2.csv)
 
 | 1.32 | Kontorsrum |  | 1 |
 | --- | --- | --- | --- |
@@ -2483,20 +2319,14 @@ X
 
 <!-- sida 66 -->
 
-X
-
-540
-X
-
-X
-
-[Tabell 66-1](handlingar.tabeller/66-1.csv)
-
-| 1.63 | Angöring |
-| --- | --- |
-| 1.64 | Utemiljö\* |
-| 1.65 | Parkering |
-| 1.66 | Parkering |
+Angöring                                       X
+1.63
+Utemiljö\*                                     540
+1.64
+Parkering                                      X
+1.65
+Parkering                                      X
+1.66
 
 <!-- sida 67 -->
 
@@ -2508,9 +2338,15 @@ Mall
 2540     4,7
 423
 
-32
+```osaker-tabell
+220      220                  32
 
-32
+ 10      20
+
+ 70      70                   32
+
+ 15      15
+```
 
 [Tabell 67-1](handlingar.tabeller/67-1.csv)
 
@@ -2554,22 +2390,6 @@ Mall
 | 8 | 48 |  |  |  |  |  |  |
 | 2 | 12 |  |  |  |  |  |  |
 
-[Tabell 67-6](handlingar.tabeller/67-6.csv)
-
-| 220 | 220 |
-| --- | --- |
-| 10 | 20 |
-| 70 | 70 |
-| 15 | 15 |
-
-[Tabell 67-7](handlingar.tabeller/67-7.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-
 <!-- sida 68 -->
 
 ```osaker-tabell
@@ -2597,18 +2417,6 @@ Mall
 
 [Tabell 68-1](handlingar.tabeller/68-1.csv)
 
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
-[Tabell 68-2](handlingar.tabeller/68-2.csv)
-
 | 60 | 60 |  | 32 |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 15 | 15 |  | 10 |  |  |  |  |
@@ -2618,7 +2426,7 @@ Mall
 | 20 | 20 |  | 4 |  |  |  |  |
 | 10 | 10 |  |  |  |  |  |  |
 
-[Tabell 68-3](handlingar.tabeller/68-3.csv)
+[Tabell 68-2](handlingar.tabeller/68-2.csv)
 
 | 40 | 40 |  | 4 |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2650,14 +2458,6 @@ Mall
 
 [Tabell 69-1](handlingar.tabeller/69-1.csv)
 
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-[Tabell 69-2](handlingar.tabeller/69-2.csv)
-
 | 18 | 18 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 25 | 25 |  |  |  |  |  |  |
@@ -2667,39 +2467,19 @@ Mall
 | 8 | 16 |  |  |  |  |  |  |
 | 5 | 10 |  |  |  |  |  |  |
 
-[Tabell 69-3](handlingar.tabeller/69-3.csv)
+[Tabell 69-2](handlingar.tabeller/69-2.csv)
 
 |  | 153 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 42 |  |  |  |  |  |  |
 |  | 294 |  |  |  |  |  |  |
 
-[Tabell 69-4](handlingar.tabeller/69-4.csv)
+[Tabell 69-3](handlingar.tabeller/69-3.csv)
 
 |  | 4311 | 8,0 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 5389 | 10,0 |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
-
-[Tabell 69-5](handlingar.tabeller/69-5.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-[Tabell 69-6](handlingar.tabeller/69-6.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
 
 <!-- sida 70 -->
 
@@ -2710,14 +2490,6 @@ Mall
 | 15 | 8100 | 15 |  |
 |  |  |  |  |
 |  |  |  |  |
-
-[Tabell 70-2](handlingar.tabeller/70-2.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
 
 <!-- sida 71 -->
 
@@ -2736,36 +2508,6 @@ Ruta att fylla i
 | --- | --- | --- | --- |
 | Ant<br>al<br>(st) | Summa<br>(kvm) | Area per<br>elev | Luft för<br>antal<br>personer |
 |  |  |  | (st) |
-
-[Tabell 71-3](handlingar.tabeller/71-3.csv)
-
-|  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-
-[Tabell 71-4](handlingar.tabeller/71-4.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-
-[Tabell 71-5](handlingar.tabeller/71-5.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
 
 <!-- sida 72 -->
 
@@ -2933,7 +2675,7 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 3(12)
 
-[Tabell 85-1](handlingar.tabeller/85-1.csv)
+[Tabell 85-86-1](handlingar.tabeller/85-86-1.csv)
 
 | Posnr | Rumsfunktion | Antal<br>personer<br>per rum | Antal<br>rum | A r e a<br>kvm | S u m m a<br>kvm | Kommentar |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2958,18 +2700,6 @@ Bilaga 1a - Lokalförteckning 120 barn
 | 2.8 | Tvättstuga barngrupper |  | 2 | 5 | 10 | Ett per våning. Tvättpelare, avlastningsbänk och plats för tvättvagn. Nära<br>torkrum. Till förskolans tvätt. |
 | 2.9 | Städrum lokalvård |  | 1 | 5 | 5 | Utslagsback och blandare. Hyllor för material och plats för städvagn. |
 | Summa 35 |  |  |  |  |  |  |
-
-<!-- sida 86 -->
-
-Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
-Bilaga 1a - Lokalförteckning 120 barn
-
-4(12)
-
-[Tabell 86-1](handlingar.tabeller/86-1.csv)
-
-| Posnr | Rumsfunktion | Antal<br>personer<br>per rum | Antal<br>rum | A r e a<br>kvm | S u m m a<br>kvm | Kommentar |
-| --- | --- | --- | --- | --- | --- | --- |
 | Mottagningskök - se eget koncept |  |  |  |  |  |  |
 | 3.1 | Kök |  | 1 | 95 | 95 |  |
 | 3.2 | Vagnsyta |  | 1 | 10 | 10 |  |
@@ -2985,6 +2715,13 @@ Bilaga 1a - Lokalförteckning 120 barn
 | Summa |  |  |  |  |  |  |
 | Summa 1 056 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 215 kvm<br>Antal kvm BRA per barn 10,1 kvm |  |  |  |  |  |  |
 
+<!-- sida 86 -->
+
+Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
+Bilaga 1a - Lokalförteckning 120 barn
+
+4(12)
+
 <!-- sida 87 -->
 
 Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
@@ -2992,7 +2729,7 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 5(12)
 
-[Tabell 87-1](handlingar.tabeller/87-1.csv)
+[Tabell 87-88-1](handlingar.tabeller/87-88-1.csv)
 
 | Förstudie |  |  | FFU |  |  | Relation |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3008,6 +2745,8 @@ Bilaga 1a - Lokalförteckning 120 barn
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
+| Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
+|  |  |  |  |  |  |  |  |  |
 
 <!-- sida 88 -->
 
@@ -3016,12 +2755,6 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 6(12)
 
-[Tabell 88-1](handlingar.tabeller/88-1.csv)
-
-| Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-
 <!-- sida 89 -->
 
 Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
@@ -3029,10 +2762,23 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 7(12)
 
-[Tabell 89-1](handlingar.tabeller/89-1.csv)
+[Tabell 89-90-1](handlingar.tabeller/89-90-1.csv)
 
 | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
@@ -3069,24 +2815,6 @@ Bilaga 1a - Lokalförteckning 120 barn
 Kvm BRA per barn
 
 8(12)
-
-[Tabell 90-1](handlingar.tabeller/90-1.csv)
-
-| Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
 
 <!-- sida 91 -->
 
@@ -3187,7 +2915,7 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 3(12)
 
-[Tabell 97-1](handlingar.tabeller/97-1.csv)
+[Tabell 97-98-1](handlingar.tabeller/97-98-1.csv)
 
 | Posnr | Rumsfunktion | Antal<br>personer<br>per rum | Antal<br>rum | A r e a<br>kvm | S u m m a<br>kvm | Kommentar |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -3212,18 +2940,6 @@ Bilaga 1a - Lokalförteckning 120 barn
 | 2.8 | Tvättstuga barngrupper |  | 2 | 5 | 10 | Ett per våning. Tvättpelare, avlastningsbänk och plats för tvättvagn. Nära<br>torkrum. Till förskolans tvätt. |
 | 2.9 | Städrum lokalvård |  | 2 | 5 | 10 | Utslagsback och blandare. Hyllor för material och plats för städvagn. |
 | Summa 40 |  |  |  |  |  |  |
-
-<!-- sida 98 -->
-
-Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
-Bilaga 1a - Lokalförteckning 120 barn
-
-4(12)
-
-[Tabell 98-1](handlingar.tabeller/98-1.csv)
-
-| Posnr | Rumsfunktion | Antal<br>personer<br>per rum | Antal<br>rum | A r e a<br>kvm | S u m m a<br>kvm | Kommentar |
-| --- | --- | --- | --- | --- | --- | --- |
 | Mottagningskök - se eget koncept |  |  |  |  |  |  |
 | 3.1 | Kök |  | 1 | 118 | 118 |  |
 | 3.2 | Vagnsyta |  | 1 | 14 | 14 |  |
@@ -3239,6 +2955,13 @@ Bilaga 1a - Lokalförteckning 120 barn
 | Summa |  |  |  |  |  |  |
 | Summa 1 547 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 778 kvm<br>Antal kvm BRA per barn 9,9 kvm |  |  |  |  |  |  |
 
+<!-- sida 98 -->
+
+Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
+Bilaga 1a - Lokalförteckning 120 barn
+
+4(12)
+
 <!-- sida 99 -->
 
 Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
@@ -3246,7 +2969,7 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 5(12)
 
-[Tabell 99-1](handlingar.tabeller/99-1.csv)
+[Tabell 99-100-1](handlingar.tabeller/99-100-1.csv)
 
 | Förstudie |  |  | FFU |  |  | Relation |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3262,6 +2985,8 @@ Bilaga 1a - Lokalförteckning 120 barn
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
+| Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
+|  |  |  |  |  |  |  |  |  |
 
 <!-- sida 100 -->
 
@@ -3270,12 +2995,6 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 6(12)
 
-[Tabell 100-1](handlingar.tabeller/100-1.csv)
-
-| Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-
 <!-- sida 101 -->
 
 Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
@@ -3283,10 +3002,23 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 7(12)
 
-[Tabell 101-1](handlingar.tabeller/101-1.csv)
+[Tabell 101-102-1](handlingar.tabeller/101-102-1.csv)
 
 | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
@@ -3323,24 +3055,6 @@ Bilaga 1a - Lokalförteckning 120 barn
 Kvm BRA per barn
 
 8(12)
-
-[Tabell 102-1](handlingar.tabeller/102-1.csv)
-
-| Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
 
 <!-- sida 103 -->
 
@@ -3441,7 +3155,7 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 3(12)
 
-[Tabell 109-1](handlingar.tabeller/109-1.csv)
+[Tabell 109-110-1](handlingar.tabeller/109-110-1.csv)
 
 | Posnr | Rumsfunktion | Antal<br>personer<br>per rum | Antal<br>rum | A r e a<br>kvm | S u m m a<br>kvm | Kommentar |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -3466,18 +3180,6 @@ Bilaga 1a - Lokalförteckning 120 barn
 | 2.8 | Tvättstuga barngrupper |  | 2 | 5 | 10 | Ett per våning. Tvättpelare, avlastningsbänk och plats för tvättvagn. Nära<br>torkrum. Till förskolans tvätt. |
 | 2.9 | Städrum lokalvård |  | 1 | 5 | 5 | Utslagsback och blandare. Hyllor för material och plats för städvagn. |
 | Summa 35 |  |  |  |  |  |  |
-
-<!-- sida 110 -->
-
-Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
-Bilaga 1a - Lokalförteckning 120 barn
-
-4(12)
-
-[Tabell 110-1](handlingar.tabeller/110-1.csv)
-
-| Posnr | Rumsfunktion | Antal<br>personer<br>per rum | Antal<br>rum | A r e a<br>kvm | S u m m a<br>kvm | Kommentar |
-| --- | --- | --- | --- | --- | --- | --- |
 | Mottagningskök - se eget koncept |  |  |  |  |  |  |
 | 3.1 | Kök |  | 1 | 97 | 97 |  |
 | 3.2 | Vagnsyta |  | 1 | 12 | 12 |  |
@@ -3493,6 +3195,13 @@ Bilaga 1a - Lokalförteckning 120 barn
 | Summa |  |  |  |  |  |  |
 | Summa 1 331 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 531 kvm<br>Antal kvm BRA per barn 10,2 kvm |  |  |  |  |  |  |
 
+<!-- sida 110 -->
+
+Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
+Bilaga 1a - Lokalförteckning 120 barn
+
+4(12)
+
 <!-- sida 111 -->
 
 Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
@@ -3500,7 +3209,7 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 5(12)
 
-[Tabell 111-1](handlingar.tabeller/111-1.csv)
+[Tabell 111-112-1](handlingar.tabeller/111-112-1.csv)
 
 | Förstudie |  |  | FFU |  |  | Relation |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3516,6 +3225,8 @@ Bilaga 1a - Lokalförteckning 120 barn
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
+| Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
+|  |  |  |  |  |  |  |  |  |
 
 <!-- sida 112 -->
 
@@ -3524,12 +3235,6 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 6(12)
 
-[Tabell 112-1](handlingar.tabeller/112-1.csv)
-
-| Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-
 <!-- sida 113 -->
 
 Kungsbacka kommun                   Koncept utbildningslokaler inriktning förskola           2023-06-28
@@ -3537,10 +3242,23 @@ Bilaga 1a - Lokalförteckning 120 barn
 
 7(12)
 
-[Tabell 113-1](handlingar.tabeller/113-1.csv)
+[Tabell 113-114-1](handlingar.tabeller/113-114-1.csv)
 
 | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
@@ -3577,24 +3295,6 @@ Bilaga 1a - Lokalförteckning 120 barn
 Kvm BRA per barn
 
 8(12)
-
-[Tabell 114-1](handlingar.tabeller/114-1.csv)
-
-| Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm | Antal<br>rum | Area kvm | Summa<br>kvm |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
 
 <!-- sida 115 -->
 
@@ -4753,7 +4453,7 @@ Intern kontrollplan 2026
 
 11
 
-[Tabell 149-1](handlingar.tabeller/149-1.csv)
+[Tabell 149-151-1](handlingar.tabeller/149-151-1.csv)
 
 | Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
 | --- | --- |
@@ -4761,6 +4461,14 @@ Intern kontrollplan 2026
 | Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. | Kommunövergrip Arbetet med<br>3. Kännbar<br>ande risk: informationssäkerh<br>(uppfattas som<br>informationssäke et följer<br>besvärande för<br>rhet; skydd av 2. Mindre vanligt gemensamma<br>berörda<br>information mot styrdokument med<br>intressenter och<br>obehörig tillgång uppföljning i egen<br>kommunen)<br>process. |
 |  | Kommunövergrip Tas omhand<br>ande risk: It- 3. Kännbar genom<br>säkerhet - (uppfattas som inköpsprocessen/l<br>Bristande besvärande för everantörsuppföljni<br>2. Mindre vanligt<br>driftmiljö hos berörda ng. Även<br>leverantörer intressenter och uppföljning genom<br>kommunen) systemförvaltarmo<br>dellen. |
 |  | Kommunövergrip Hanteras genom<br>ande risk: Risk Samhällsbyggnads<br>att ledning<br>samhällsutbyggn (Samhällsbyggnad<br>ad inte kan ske i sprocessen) där vi<br>planerad takt. Ny kommer att arbeta<br>infrastruktur och med ”Obruten<br>exploatering och digital<br>3. Kännbar<br>projekt för samhällsbyggnads<br>(uppfattas som<br>underhåll/utbygg process” samt<br>besvärande för<br>nad av befintlig 2. Mindre vanligt ”Utbyggnadsplan”.<br>berörda<br>infrastruktur är I<br>intressenter och<br>beroende av Samhällsbyggnads<br>kommunen)<br>varandra ledning finns flera<br>(resurser och förvaltningar<br>samplanering). representerade<br>(Teknik, Service,<br>Bygg o Miljö,<br>Kultur o Fritid samt<br>KSF genom SBK<br>och Ekonomi). |
+| Verksamhet | Risk för att barn, 3. Kännbar Omhändertas<br>elever och (uppfattas som genom<br>omsorgstagare besvärande för måltidsverksamhet<br>2. Mindre vanligt<br>med behov av berörda ens ordinarie<br>specialkost får fel intressenter och rutiner för<br>mat. kommunen) uppföljning. |
+|  | Risk för Det finns rutiner för<br>personuppgiftsin 3. Kännbar att hantera<br>cident kopplat till (uppfattas som sekretessbelagda<br>ärendehanterings besvärande för uppgifter på annat<br>2. Mindre vanligt<br>systemet. berörda sätt, och<br>intressenter och incidentrapporterin<br>kommunen) g ifall det skulle<br>uppstå. |
+|  | Kommunövergrip<br>ande risk: 3. Kännbar Tas omhand<br>Dämpad (uppfattas som genom<br>befolkningstillväx besvärande för budgetprocessen<br>2. Mindre vanligt<br>t med långsiktig berörda och lokalplan.<br>påverkan på intressenter och<br>kommunala kommunen)<br>verksamheter |
+|  | Risk att Omhändertas<br>klimatförändringa genom ett proaktivt<br>3. Kännbar<br>r påverkar styr- och<br>(uppfattas som<br>inomhusmiljön, övervakningssyste<br>besvärande för<br>byggnadernas 2. Mindre vanligt m samt infört en ny<br>berörda<br>hållbarhet och ansvarig enhet för<br>intressenter och<br>underhållsbehov, att samordna<br>kommunen)<br>vilket leder till arbetet.<br>ökade kostnader. |
+|  | Risk för Hanteras genom<br>störningar i 3. Kännbar kontiunitetsplaner<br>leveranskedjor (uppfattas som utifrån de<br>och ökade besvärande för viktigaste<br>2. Mindre vanligt<br>kostnader för berörda leverantörerna.<br>material och intressenter och<br>tjänster till följd kommunen)<br>av omvärldsläget. |
+|  | Risk för att det 3. Kännbar Tas hand om i<br>blir dyrare och (uppfattas som lokalplaneringen<br>mer tidskrävande besvärande för och i det löpande<br>2. Mindre vanligt<br>att ställa om till berörda arbete med<br>ökade klimatkrav intressenter och byggprojekt.<br>på byggnation. kommunen) |
+|  | Risk för yttre Kontinuerlig dialog<br>påverkan och för att<br>3. Kännbar<br>desinformation medvetandegöra<br>(uppfattas som<br>som motverkar risken, arbeta med<br>besvärande för<br>våra 2. Mindre vanligt källkritik och att<br>berörda<br>kommunövergrip bemöta<br>intressenter och<br>ande mål och det felaktigheter.<br>kommunen)<br>kommunala<br>uppdraget i stort. |
+|  | Risk för att vi inte Omhändertas<br>möter upp genom<br>2. Lindrig<br>förväntningar och utvecklingsarbete<br>(uppfattas som<br>nya behov på ny och<br>3. Vanligt liten av berörda<br>teknik, till innovationsdirektiv<br>intressenter och<br>exempel digitala et.<br>kommunen)<br>kanaler för<br>självservice. |
 
 <!-- sida 150 -->
 
@@ -4769,30 +4477,12 @@ Intern kontrollplan 2026
 
 12
 
-[Tabell 150-1](handlingar.tabeller/150-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-| Verksamhet | Risk för att barn, 3. Kännbar Omhändertas<br>elever och (uppfattas som genom<br>omsorgstagare besvärande för måltidsverksamhet<br>2. Mindre vanligt<br>med behov av berörda ens ordinarie<br>specialkost får fel intressenter och rutiner för<br>mat. kommunen) uppföljning. |
-|  | Risk för Det finns rutiner för<br>personuppgiftsin 3. Kännbar att hantera<br>cident kopplat till (uppfattas som sekretessbelagda<br>ärendehanterings besvärande för uppgifter på annat<br>2. Mindre vanligt<br>systemet. berörda sätt, och<br>intressenter och incidentrapporterin<br>kommunen) g ifall det skulle<br>uppstå. |
-|  | Kommunövergrip<br>ande risk: 3. Kännbar Tas omhand<br>Dämpad (uppfattas som genom<br>befolkningstillväx besvärande för budgetprocessen<br>2. Mindre vanligt<br>t med långsiktig berörda och lokalplan.<br>påverkan på intressenter och<br>kommunala kommunen)<br>verksamheter |
-|  | Risk att Omhändertas<br>klimatförändringa genom ett proaktivt<br>3. Kännbar<br>r påverkar styr- och<br>(uppfattas som<br>inomhusmiljön, övervakningssyste<br>besvärande för<br>byggnadernas 2. Mindre vanligt m samt infört en ny<br>berörda<br>hållbarhet och ansvarig enhet för<br>intressenter och<br>underhållsbehov, att samordna<br>kommunen)<br>vilket leder till arbetet.<br>ökade kostnader. |
-|  | Risk för Hanteras genom<br>störningar i 3. Kännbar kontiunitetsplaner<br>leveranskedjor (uppfattas som utifrån de<br>och ökade besvärande för viktigaste<br>2. Mindre vanligt<br>kostnader för berörda leverantörerna.<br>material och intressenter och<br>tjänster till följd kommunen)<br>av omvärldsläget. |
-|  | Risk för att det 3. Kännbar Tas hand om i<br>blir dyrare och (uppfattas som lokalplaneringen<br>mer tidskrävande besvärande för och i det löpande<br>2. Mindre vanligt<br>att ställa om till berörda arbete med<br>ökade klimatkrav intressenter och byggprojekt.<br>på byggnation. kommunen) |
-
 <!-- sida 151 -->
 
 Nämnden för Service                              Kungsbacka kommun
 Intern kontrollplan 2026
 
 13
-
-[Tabell 151-1](handlingar.tabeller/151-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-|  | Risk för yttre Kontinuerlig dialog<br>påverkan och för att<br>3. Kännbar<br>desinformation medvetandegöra<br>(uppfattas som<br>som motverkar risken, arbeta med<br>besvärande för<br>våra 2. Mindre vanligt källkritik och att<br>berörda<br>kommunövergrip bemöta<br>intressenter och<br>ande mål och det felaktigheter.<br>kommunen)<br>kommunala<br>uppdraget i stort. |
-|  | Risk för att vi inte Omhändertas<br>möter upp genom<br>2. Lindrig<br>förväntningar och utvecklingsarbete<br>(uppfattas som<br>nya behov på ny och<br>3. Vanligt liten av berörda<br>teknik, till innovationsdirektiv<br>intressenter och<br>exempel digitala et.<br>kommunen)<br>kanaler för<br>självservice. |
 
 <!-- sida 152 -->
 
@@ -5405,7 +5095,7 @@ mångfald.
 
 11
 
-[Tabell 166-1](handlingar.tabeller/166-1.csv)
+[Tabell 166-167-1](handlingar.tabeller/166-167-1.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall<br>2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -5418,6 +5108,14 @@ mångfald.
 | Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 92 |  |  | Minska |
 | Avfall från kommunens verksamheter ska minska<br>med 40 % per heltidsanställd. Startvärde 100,<br>målvärde 2030 är 60. | 223 |  |  | Minska |
 | Fossiloberoende personbilar, andel av totalt antal<br>bilar i det geografiska området, (Kolada) | 24,1 % | 26,5 % |  | Öka |
+| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,79 | 1,85 |  | Minska |
+| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021 var<br>antalet 124 (KEMgroup PRO) | 115 | 151 |  | Minska |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  | Öka |
+| Andelen återbrukade möbler |  |  |  | Öka |
+| Total debiterad vattenförbrukning fördelat på antal<br>anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  | Minska |
+| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn. |  |  |  | Minska |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  | Minska |
 
 <!-- sida 167 -->
 
@@ -5435,20 +5133,7 @@ mellan näringsliv och utbildning.
 
 12
 
-[Tabell 167-1](handlingar.tabeller/167-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall<br>2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
-| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,79 | 1,85 |  | Minska |
-| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021 var<br>antalet 124 (KEMgroup PRO) | 115 | 151 |  | Minska |
-| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
-| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  | Öka |
-| Andelen återbrukade möbler |  |  |  | Öka |
-| Total debiterad vattenförbrukning fördelat på antal<br>anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  | Minska |
-| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn. |  |  |  | Minska |
-| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  | Minska |
-
-[Tabell 167-2](handlingar.tabeller/167-2.csv)
+[Tabell 167-168-1](handlingar.tabeller/167-168-1.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall<br>2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -5456,6 +5141,8 @@ mellan näringsliv och utbildning.
 | Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde utifrån<br>skala 1–6, där företag bedömer företagsklimatet i<br>Kungsbacka kommun. | 3,4 | 3,8 |  | Öka |
 | Sysselsatt dagbefolkning, antal | 28 586 |  |  | Öka |
 | Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 4,9 % |  |  | Öka |
+| Företagsamhet, andel av invånare 16–74 år | 19 % |  |  | Öka |
+| Antal nystartade företag per 1 000 invånare 16–64<br>år (etableringsfrekvens) | 10,3 |  |  | Öka |
 
 <!-- sida 168 -->
 
@@ -5486,13 +5173,6 @@ kommunen.
 13
 
 [Tabell 168-1](handlingar.tabeller/168-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall<br>2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
-| Företagsamhet, andel av invånare 16–74 år | 19 % |  |  | Öka |
-| Antal nystartade företag per 1 000 invånare 16–64<br>år (etableringsfrekvens) | 10,3 |  |  | Öka |
-
-[Tabell 168-2](handlingar.tabeller/168-2.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall<br>2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -5978,7 +5658,7 @@ Investeringar (belopp i tkr)
 
 24
 
-[Tabell 179-1](handlingar.tabeller/179-1.csv)
+[Tabell 179-180-1](handlingar.tabeller/179-180-1.csv)
 
 | Investeringar | Bokslut 2024 | Budget 2025 | Budget 2026 | Plan 2027 | Plan 2028–<br>2030 |
 | --- | --- | --- | --- | --- | --- |
@@ -5990,6 +5670,9 @@ Investeringar (belopp i tkr)
 | Löpande | 13 565 | 5 568 | 1 000 |  | 1 000 |
 | Lokalplan | 143 387 | 153 726 |  |  |  |
 | Verksamhets-<br>anpassningar | 3 257 | 6 744 | 7 000 | 7 000 | 21 000 |
+| Reinvesteringar | 49 565 | 72 850 | 98 800 | 119 210 | 772 960 |
+| Övriga investeringar | 9 046 | 20 948 |  |  |  |
+| Summa | 237 316 | 301 836 | 137 200 | 152 410 | 906 160 |
 
 <!-- sida 180 -->
 
@@ -6031,14 +5714,6 @@ kommunen börjar nå en ålder där större reinvesteringar är nödvändiga, vi
 inom befintliga hyror.
 
 25
-
-[Tabell 180-1](handlingar.tabeller/180-1.csv)
-
-| Investeringar | Bokslut 2024 | Budget 2025 | Budget 2026 | Plan 2027 | Plan 2028–<br>2030 |
-| --- | --- | --- | --- | --- | --- |
-| Reinvesteringar | 49 565 | 72 850 | 98 800 | 119 210 | 772 960 |
-| Övriga investeringar | 9 046 | 20 948 |  |  |  |
-| Summa | 237 316 | 301 836 | 137 200 | 152 410 | 906 160 |
 
 <!-- sida 181 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1e6538661929de083d2536df/1729507792
 sha256: fe4bc39d67c92cf56f29ad94656af52952e499b69325add79c77a6cd6c8d27fc
 bytes: 10596381
 sidor: 162
-hamtad: 2026-10-07T22:49:15+00:00
-konverterad: 2026-10-07T22:49:42+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T06:58:41+00:00
+konverterad: 2026-10-14T06:59:06+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [13]
-figurer: null
-tolkade: null
+figurer: [12, 13, 22, 33, 34, 37, 39, 62, 63, 65, 67, 69, 75, 76, 77, 78, 80, 82, 83, 84, 87, 89, 90, 91, 92, 93, 95, 96, 97, 98, 99, 100, 101, 111, 114, 117, 119, 121, 124, 125, 126, 127, 128, 132, 134, 136, 137, 138, 139, 140, 154, 155, 158, 159]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -4719,7 +4719,7 @@ Rast                    143
 
 <!-- sida 148 -->
 
-[Tabell 148-1](handlingar.tabeller/148-1.csv)
+[Tabell 148-152-1](handlingar.tabeller/148-152-1.csv)
 
 | Inskickad | Ärendenummer | Delegering | Beslut |
 | --- | --- | --- | --- |
@@ -4748,13 +4748,7 @@ Rast                    143
 | 2024-10-03<br>08:43 | 163441 | A 4.1 | Avslag |
 | 2024-10-05<br>14:58 | 163851 | A 4.1 | Avslag |
 | 2024-10-07<br>12:15 | 164049 | A 4.1 | Avslag |
-
-<!-- sida 149 -->
-
-[Tabell 149-1](handlingar.tabeller/149-1.csv)
-
 | 2024-10-07<br>12:17 | 164050 | A 4.1 | Avslag |
-| --- | --- | --- | --- |
 | 2024-10-08<br>18:25 | 164420 | A 4.1 | Avslag |
 | 2024-10-08<br>18:25 | 164420 | A 4.1 | Avslag |
 | 2024-10-08<br>20:26 | 164433 | A 4.1 | Avslag |
@@ -4779,13 +4773,7 @@ Rast                    143
 | 2024-09-17<br>19:29 | 160486 | A 4.1 | Beviljad |
 | 2024-09-18<br>00:00 | 0-20240918-<br>121324 | A 4.1 | Beviljad |
 | 2024-09-18<br>00:00 | 0-20240918-<br>121932 | A 4.1 | Beviljad |
-
-<!-- sida 150 -->
-
-[Tabell 150-1](handlingar.tabeller/150-1.csv)
-
 | 2024-09-18<br>09:53 | 160575 | A 4.1 | Beviljad |
-| --- | --- | --- | --- |
 | 2024-09-18<br>22:02 | 160781 | A 4.1 | Beviljad |
 | 2024-09-18<br>22:02 | 160781 | A 4.1 | Beviljad |
 | 2024-09-19<br>09:18 | 160833 | A 4.1 | Beviljad |
@@ -4810,13 +4798,7 @@ Rast                    143
 | 2024-09-26<br>15:21 | 162314 | A 4.1 | Beviljad |
 | 2024-09-26<br>15:28 | 162319 | A 4.1 | Beviljad |
 | 2024-09-26<br>15:30 | 162320 | A 4.1 | Beviljad |
-
-<!-- sida 151 -->
-
-[Tabell 151-1](handlingar.tabeller/151-1.csv)
-
 | 2024-09-26<br>16:49 | 162350 | A 4.1 | Beviljad |
-| --- | --- | --- | --- |
 | 2024-09-26<br>23:45 | 162385 | A 4.1 | Beviljad |
 | 2024-09-27<br>00:00 | 0-20240927-<br>111451 | A 4.1 | Beviljad |
 | 2024-09-27<br>13:14 | 162485 | A 4.1 | Beviljad |
@@ -4841,13 +4823,7 @@ Rast                    143
 | 2024-10-02<br>15:26 | 163333 | A 4.1 | Beviljad |
 | 2024-10-02<br>20:47 | 163397 | A 4.1 | Beviljad |
 | 2024-10-02<br>20:47 | 163397 | A 4.1 | Beviljad |
-
-<!-- sida 152 -->
-
-[Tabell 152-1](handlingar.tabeller/152-1.csv)
-
 | 2024-10-03<br>00:00 | 0-20241003-<br>070057 | A 4.1 | Beviljad |
-| --- | --- | --- | --- |
 | 2024-10-04<br>08:28 | 163660 | A 4.1 | Beviljad |
 | 2024-10-04<br>08:59 | 163666 | A 4.1 | Beviljad |
 | 2024-10-04<br>08:59 | 163666 | A 4.1 | Beviljad |
@@ -4865,6 +4841,14 @@ Rast                    143
 | 2024-10-09<br>08:38 | 164482 | A 4.1 | Beviljad |
 | 2024-10-09<br>09:02 | 164490 | A 4.1 | Beviljad |
 | 2024-10-09<br>10:23 | 164515 | A 4.1 | Beviljad |
+
+<!-- sida 149 -->
+
+<!-- sida 150 -->
+
+<!-- sida 151 -->
+
+<!-- sida 152 -->
 
 <!-- sida 153 -->
 

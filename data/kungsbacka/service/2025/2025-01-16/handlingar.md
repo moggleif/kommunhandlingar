@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7a86dc02194401f5c32835cb/1736753972
 sha256: e5fc81953348f610a43800aeb00335acc94d64bcf374582ba79d1a7b0a83a705
 bytes: 2197927
 sidor: 32
-hamtad: 2026-10-08T02:10:32+00:00
-konverterad: 2026-10-08T02:10:41+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T09:49:48+00:00
+konverterad: 2026-10-14T09:49:56+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [12, 19, 23]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -549,11 +549,15 @@ grundreinvesteringsbehov följande utgiftsmassa för planperioden:
 
 Totalt
 2026–
-Behov plan 2026–2030 (Mkr) 2026 2027 2028 2029 2030  2030
-Reinvesteringar grund  70    75    80    85    90
-Totalt                  70    75    80    85    90  400,0
 
 Kungsbacka kommun              Styrande dokument                3 (9)
+
+[Tabell 13-1](handlingar.tabeller/13-1.csv)
+
+| Behov plan 2026–2030 (Mkr) | 2026 | 2027 | 2028 | 2029 | 2030 | 2030 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Reinvesteringar grund | 70 | 75 | 80 | 85 | 90 |  |
+| Totalt | 70 | 75 | 80 | 85 | 90 | 400,0 |
 
 <!-- sida 14 -->
 
@@ -827,7 +831,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 20-1](handlingar.tabeller/20-1.csv)
 
-| Service [belopp i mkr] | 2026 2027 2028 2029 2030 |  |  |  |  | Totalt<br>2026-2030 |
+| Service [belopp i mkr] | 2026 | 2027 | 2028 | 2029 | 2030 | Totalt<br>2026-2030 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Löpande | 16,2 | 17,0 | 17,3 | 32,2 | 25,3 | 108,0 |
 | Övriga | 14,2 | 9,2 | 9,8 | 12,8 | 13,8 | 59,8 |
@@ -937,6 +941,22 @@ Tabeller
 
 Femårsplanen
 
+Totalt
+Service [belopp i mkr]        2026 2027 2028 2029 2030 2026-2030
+
+```osaker-tabell
+Löpande investeringar lokalvård 0,7 0,7 0,7 0,7  0,7     3,5
+Löpande investeringar SM       3,0 3,0  3,0 3,0  3,0    15,0
+Löpande investeringar måltid   5,6 6,2  6,1 6,1  6,1    30,1
+```
+
+Övriga investeringar måltid (köldmedia) 7,2 7,2 7,8 7,8 7,8 37,8
+
+Löpande investeringar IT       5,4 5,6  6,0 20,9 14,0   51,9
+Övriga investeringar IT        7,0 2,0  2,0 5,0  6,0    22,0
+Löpande investeringar skrivare 1,5 1,5  1,5 1,5  1,5     7,5
+Totalt                        30,4 26,2 27,1 45,0 39,1 167,8
+
 Femårsplanen vs förra årets femårsplan
 
 Total för perioden en ökning från förra årets femårs som var på 157,9 miljoner
@@ -960,28 +980,15 @@ Kungsbacka kommun              Styrande dokument                4 (4)
 
 [Tabell 23-1](handlingar.tabeller/23-1.csv)
 
-| Service [belopp i mkr] 2026 2027 2028 2029 2030 |  |  |  |  |  | Totalt<br>2026-2030 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Löpande investeringar lokalvård | 0,7 0,7 0,7 0,7 0,7 |  |  |  |  | 3,5 |
-| Löpande investeringar SM | 3,0 | 3,0 | 3,0 | 3,0 | 3,0 | 15,0 |
-| Löpande investeringar måltid | 5,6 6,2 6,1 6,1 6,1 |  |  |  |  | 30,1 |
-| Övriga investeringar måltid (köldmedia) | 7,2 | 7,2 | 7,8 | 7,8 | 7,8 | 37,8 |
-| Löpande investeringar IT | 5,4 5,6 6,0 20,9 14,0 |  |  |  |  | 51,9 |
-| Övriga investeringar IT | 7,0 | 2,0 | 2,0 | 5,0 | 6,0 | 22,0 |
-| Löpande investeringar skrivare | 1,5 1,5 1,5 1,5 1,5 |  |  |  |  | 7,5 |
-| Totalt | 30,4 | 26,2 | 27,1 | 45,0 | 39,1 | 167,8 |
-
-[Tabell 23-2](handlingar.tabeller/23-2.csv)
-
-| Service [belopp i mkr] | 2031 2032 2033 2034 2035 |  |  |  |  | Totalt<br>2031-2035 |  | Totalt<br>2026-2035 |
+| Service [belopp i mkr] | 2031 | 2032 | 2033 | 2034 | 2035 | Totalt<br>2031-2035 |  | Totalt<br>2026-2035 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Löpande investeringar lokalvård | 0,7 0,7 0,7 0,7 0,7 |  |  |  |  | 3,5 |  | 7,0 |
+| Löpande investeringar lokalvård | 0,7 | 0,7 | 0,7 | 0,7 | 0,7 | 3,5 |  | 7,0 |
 | Löpande investeringar SM | 3,0 | 3,0 | 3,0 | 3,0 | 3,0 | 15,0 |  | 30,0 |
-| Löpande investeringar måltid | 6,1 6,1 6,1 6,1 6,1 |  |  |  |  | 30,5 |  | 60,6 |
+| Löpande investeringar måltid | 6,1 | 6,1 | 6,1 | 6,1 | 6,1 | 30,5 |  | 60,6 |
 | Övriga investeringar måltid | 7,8 | 7,8 | 7,8 | 7,8 | 7,8 | 39,0 |  | 76,8 |
-| Löpande investeringar IT | 10,3 8,8 12,4 20,9 10,0 |  |  |  |  | 62,4 |  | 114,3 |
+| Löpande investeringar IT | 10,3 | 8,8 | 12,4 | 20,9 | 10,0 | 62,4 |  | 114,3 |
 | Övriga investeringar IT | 2,0 | 2,0 | 2,0 | 2,0 | 2,0 | 10,0 |  | 32,0 |
-| Löpande investeringar skrivare | 1,5 1,5 1,5 1,5 1,5 |  |  |  |  | 7,5 |  | 15,0 |
+| Löpande investeringar skrivare | 1,5 | 1,5 | 1,5 | 1,5 | 1,5 | 7,5 |  | 15,0 |
 | Totalt | 31,4 | 29,9 | 33,5 | 42,0 | 31,1 | 167,9 |  | 335,7 |
 
 <!-- sida 24 -->
@@ -1028,7 +1035,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (5)
 
-[Tabell 25-1](handlingar.tabeller/25-1.csv)
+[Tabell 25-28-1](handlingar.tabeller/25-28-1.csv)
 
 | Årsplan för konkurrensutsättning<br>av verksamhet 2025<br>(Vård & Omsorg) | 2024-12-16 | SE-2024-00456 | Årsplan för<br>konkurrensutsättning av<br>verksamhet 2025 (Nämnden<br>för Vård & Omsorg) |
 | --- | --- | --- | --- |
@@ -1038,16 +1045,7 @@ KUNGSBACKA  KOMMUN
 | (Förskola & Grundskola)<br>(Beslut § 125) - Strategi<br>försörjning utbildningsplatser | 2024-12-19 | SE-2024-00458 | Strategi försörjning<br>utbildningsplatser |
 | (Förskola & Grundskola<br>Arbetsutskott) (Beslut § 124)<br>Strategi försörjning<br>utbildningsplatser | 2024-12-19 | SE-2024-00458 | Strategi försörjning<br>utbildningsplatser |
 | (Förskola & Grundskola)<br>Tjänsteskrivelse 2024-11-18<br>Strategi för försörjning av<br>utbildningsplatser Kungsbacka<br>kommun | 2024-12-19 | SE-2024-00458 | Strategi försörjning<br>utbildningsplatser |
-
-<!-- sida 26 -->
-
-KUNGSBACKA  KOMMUN
-3 (5)
-
-[Tabell 26-1](handlingar.tabeller/26-1.csv)
-
 | (Förskola & Grundskola)<br>Tjänsteskrivelse 2024-10-17<br>Strategi försörjning av<br>utbildningsplatser | 2024-12-19 | SE-2024-00458 | Strategi försörjning<br>utbildningsplatser |
-| --- | --- | --- | --- |
 | Strategi för lokalförsörjning av<br>utbildningsplatser 2024-12 | 2024-12-19 | SE-2024-00458 | Strategi försörjning<br>utbildningsplatser |
 | Strategi för lokalförsörjning av<br>utbildningsplatser rev.<br>2024-12-18 | 2024-12-19 | SE-2024-00458 | Strategi försörjning<br>utbildningsplatser |
 | (Förskola & Grundskola)<br>(Beslut § 126)<br>Koncept utemiljö | 2024-12-19 | SE-2024-00459 | (Förskola & Grundskola)<br>Koncept utemiljö |
@@ -1057,16 +1055,7 @@ KUNGSBACKA  KOMMUN
 | (Förskola & Grundskola)<br>(Beslut § 127)<br>Koncept kök och matsal | 2024-12-19 | SE-2024-00460 | (Förskola & Grundskola)<br>Koncept kök och matsal |
 | (Förskola & Grundskola<br>Arbetsutskott) (Beslut § 126)<br>Koncept kök och matsal | 2024-12-19 | SE-2024-00460 | (Förskola & Grundskola)<br>Koncept kök och matsal |
 | (Förskola & Grundskola)<br>Tjänsteskrivelse 2024-11-14<br>Koncept kök och matsal | 2024-12-19 | SE-2024-00460 | (Förskola & Grundskola)<br>Koncept kök och matsal |
-
-<!-- sida 27 -->
-
-KUNGSBACKA  KOMMUN
-4 (5)
-
-[Tabell 27-1](handlingar.tabeller/27-1.csv)
-
 | (Förskola & Grundskola)<br>Koncept kök och matsal 240917 | 2024-12-19 | SE-2024-00460 | (Förskola & Grundskola)<br>Koncept kök och matsal |
-| --- | --- | --- | --- |
 | (Kommunfullmäktige)<br>(Beslut § 166) - Redovisning av<br>icke färdigberedda motioner<br>(2, 2024) | 2024-12-19 | SE-2024-00461 | Redovisning av icke<br>färdigberedda motioner<br>(2, 2024) |
 | (Kommunstyrelsen)<br>Tjänsteskrivelse 2024-10-11<br>Redovisning av icke<br>färdigberedda motioner (2, 2024) | 2024-12-19 | SE-2024-00461 | Redovisning av icke<br>färdigberedda motioner<br>(2, 2024) |
 | (Kommunstyrelsen)<br>Redovisning av icke<br>färdigberedda motioner (2 2024) | 2024-12-19 | SE-2024-00461 | Redovisning av icke<br>färdigberedda motioner<br>(2, 2024) |
@@ -1075,6 +1064,19 @@ KUNGSBACKA  KOMMUN
 | (Kultur & Fritid)<br>Koncept utemiljö | 2024-12-19 | SE-2024-00462 | (Kultur & Fritid)<br>Koncept utemiljö |
 | Följebrev –<br>Revisionsrapport Granskning av<br>interna kontroller kopplade till<br>risken för oegentligheter i<br>upphandling och<br>avtalsuppföljning | 2025-01-07 | SE-2024-00242 | Revisionens granskning av<br>interna kontroller kopplade till<br>risken för välfärdsbrott i<br>upphandling och<br>avtalsuppföljning |
 | Revisionsrapport - Granskning av<br>interna kontroller kopplade till<br>risken för oegentligheter i<br>upphandling och<br>avtalsuppföljning | 2025-01-07 | SE-2024-00242 | Revisionens granskning av<br>interna kontroller kopplade till<br>risken för välfärdsbrott i<br>upphandling och<br>avtalsuppföljning |
+| (Kommunstyrelsen)<br>(Beslut § 293)<br>Yttrande till Förvaltningsrätten i<br>Göteborg avseende överklagande<br>(laglighetsprövning enligt<br>kommunallagen) av beslut om<br>införande av tolkavgift<br>(KS 2024-00790) | 2025-01-09 | SE-2025-00014 | Överklagande<br>(laglighetsprövning enligt<br>kommunallagen) av beslut om<br>införande av tolkavgift (KS<br>2024-00790) |
+| Undertecknat yttrande -<br>Laglighetsprövning enligt<br>kommunallagen | 2025-01-09 | SE-2025-00014 | Överklagande<br>(laglighetsprövning enligt<br>kommunallagen) av beslut om<br>införande av tolkavgift (KS<br>2024-00790) |
+| (E-post) Expediering av KS<br>2024-12-17, § 293<br>Införande av tolkavgift<br>(Laglighetsprövning)<br>(KS 2024-00790) | 2025-01-09 | SE-2025-00014 | Överklagande<br>(laglighetsprövning enligt<br>kommunallagen) av beslut om<br>införande av tolkavgift (KS<br>2024-00790) |
+
+<!-- sida 26 -->
+
+KUNGSBACKA  KOMMUN
+3 (5)
+
+<!-- sida 27 -->
+
+KUNGSBACKA  KOMMUN
+4 (5)
 
 <!-- sida 28 -->
 
@@ -1087,13 +1089,6 @@ Förvaltningen för Services tjänsteskrivelse, 2024-12-10
 Julia Tryggvadottir Tollesson
 
 Förvaltningschef Service
-
-[Tabell 28-1](handlingar.tabeller/28-1.csv)
-
-| (Kommunstyrelsen)<br>(Beslut § 293)<br>Yttrande till Förvaltningsrätten i<br>Göteborg avseende överklagande<br>(laglighetsprövning enligt<br>kommunallagen) av beslut om<br>införande av tolkavgift<br>(KS 2024-00790) | 2025-01-09 | SE-2025-00014 | Överklagande<br>(laglighetsprövning enligt<br>kommunallagen) av beslut om<br>införande av tolkavgift (KS<br>2024-00790) |
-| --- | --- | --- | --- |
-| Undertecknat yttrande -<br>Laglighetsprövning enligt<br>kommunallagen | 2025-01-09 | SE-2025-00014 | Överklagande<br>(laglighetsprövning enligt<br>kommunallagen) av beslut om<br>införande av tolkavgift (KS<br>2024-00790) |
-| (E-post) Expediering av KS<br>2024-12-17, § 293<br>Införande av tolkavgift<br>(Laglighetsprövning)<br>(KS 2024-00790) | 2025-01-09 | SE-2025-00014 | Överklagande<br>(laglighetsprövning enligt<br>kommunallagen) av beslut om<br>införande av tolkavgift (KS<br>2024-00790) |
 
 <!-- sida 29 -->
 

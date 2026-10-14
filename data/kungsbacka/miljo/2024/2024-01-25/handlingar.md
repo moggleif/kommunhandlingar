@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.49bd0b9b18d1ce5e99f1e4c/17056687296
 sha256: 10324fe03ab0ad3bb965b774b8ed6a756a4a90a04cfeb896aa64a68211b0f107
 bytes: 1551745
 sidor: 46
-hamtad: 2026-10-08T08:01:12+00:00
-konverterad: 2026-10-08T08:01:26+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T10:56:55+00:00
+konverterad: 2026-10-14T10:57:08+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -328,7 +328,7 @@ särskilt beslut i nämnden.
 
 8
 
-[Tabell 9-1](handlingar.tabeller/9-1.csv)
+[Tabell 9-10-1](handlingar.tabeller/9-10-1.csv)
 
 | Nr | Rubrik | Delegerat<br>till | Med rätt<br>att<br>vidare-<br>delegera | Anmärkning |
 | --- | --- | --- | --- | --- |
@@ -342,18 +342,14 @@ särskilt beslut i nämnden.
 | 1.7 | Remittera ärende och avge yttrande med<br>undantag för ärenden som är förbjudna att<br>delegera enligt 6 kap. 34 § kommunallagen.<br>Gäller lagstiftning som inte finns angiven på<br>annan plats i denna förteckning. | FC | X | Efter avstämning<br>med NMH<br>ordförande eller<br>vice ordförande |
 | 1.8 | Avge yttrande till högre myndighet i tillsyns-<br>ärenden | FC | X | Gäller även i<br>ärenden som<br>inte omfattas av<br>punkten 1.4. |
 | 1.9 | 9 kap. 6 §, 9 kap. 6 b §, 19 kap. 4 § MB<br>respektive 22 kap. 4 och 10 §§ MB: Avge<br>yttrande till länsstyrelse eller mark- och<br>miljödomstol angående behov att komplettera<br>en ansökan vid prövning av ansökan om<br>miljöfarlig verksamhet | FC | X |  |
+| 1.10 | Besluta om yttrande i ärenden till myndighet<br>avseende myndighetsföreskrifter, allmänna<br>råd och vägledningar som remitterats till<br>kommunen för yttrande | FC | X |  |
+| 1.11 | Avge yttrande till Polismyndighet i ärende om<br>allmänna sammankomster, offentliga<br>tillställningar, bullrande verksamheter och<br>liknande verksamheter.<br>Avge yttrande till Polismyndighet i ärende om<br>tillstånd till hotell- och pensionatsrörelse. | FC | X | Efter avstämning<br>med NMH ordf.<br>eller vice ordf.<br>vid allmänna<br>sammankomster<br>och offentlig<br>tillställning av<br>större karaktär |
 
 <!-- sida 10 -->
 
 9
 
 [Tabell 10-1](handlingar.tabeller/10-1.csv)
-
-| 1.10 | Besluta om yttrande i ärenden till myndighet<br>avseende myndighetsföreskrifter, allmänna<br>råd och vägledningar som remitterats till<br>kommunen för yttrande | FC | X |  |
-| --- | --- | --- | --- | --- |
-| 1.11 | Avge yttrande till Polismyndighet i ärende om<br>allmänna sammankomster, offentliga<br>tillställningar, bullrande verksamheter och<br>liknande verksamheter.<br>Avge yttrande till Polismyndighet i ärende om<br>tillstånd till hotell- och pensionatsrörelse. | FC | X | Efter avstämning<br>med NMH ordf.<br>eller vice ordf.<br>vid allmänna<br>sammankomster<br>och offentlig<br>tillställning av<br>större karaktär |
-
-[Tabell 10-2](handlingar.tabeller/10-2.csv)
 
 | 1.12 | Beslut att avskriva ett ärende från vidare<br>handläggning, exempelvis obefogade klagomål<br>och ofullständig ansökan. | FC | X |  |
 | --- | --- | --- | --- | --- |
@@ -390,7 +386,7 @@ särskilt beslut i nämnden.
 
 11
 
-[Tabell 12-1](handlingar.tabeller/12-1.csv)
+[Tabell 12-13-1](handlingar.tabeller/12-13-1.csv)
 
 | 2.6 | 20 § andra stycket FL: Beslut att förelägga<br>den enskilde att avhjälpa en brist i en<br>framställning, om bristen medför att<br>framställningen inte kan läggas till grund för<br>prövning i sak | FC | X |  |
 | --- | --- | --- | --- | --- |
@@ -402,15 +398,7 @@ särskilt beslut i nämnden.
 | 2.12 | 6 kap. 36 § KL: Mottagande av delgivning på<br>nämndens vägnar | FC | X |  |
 | 2.13 | 6 kap. 39 § KL: Beslut i ärenden som är så<br>brådskande att nämndens avgörande inte kan<br>avvaktas. | Nämndens<br>ordförande<br>och vid<br>dennes<br>frånvaro<br>vice ord-<br>förande |  | Delegationen<br>avser alla NMH<br>verksamheter.<br>Beslut ska alltid<br>anmälas på nästa<br>NMH samman-<br>träde. |
 | 2.14 | 7 kap. 6 § KL: Beslut om vidaredelegering<br>av beslutanderätten till annan anställd i<br>kommunen, i den mån beslutanderätt enligt<br>denna delegationsordning delegerats till<br>förvaltningschef inom NMH<br>verksamhetsområde. | FC |  |  |
-
-<!-- sida 13 -->
-
-12
-
-[Tabell 13-1](handlingar.tabeller/13-1.csv)
-
 | 2.15 | 47–50 §§ delgivningslagen, 19–20 §§<br>delgivningsförordningen: Besluta att<br>delgivning i ett ärende ska ske genom<br>kungörelsedelgivning | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 3 | Lag (2018:2088) om tobak och liknande<br>produkter |  |  |  |
 | 3.1 | 4 kap. 1 § förordning (2019:223) om tobak<br>och liknande produkter: Beslut att förlänga<br>handläggningstiden med högst fyra månader,<br>när det är nödvändigt på grund av utredning i<br>ärendet. | FC | X |  |
 | 3.2 | 5 kap. 2 §: Beslut att bevilja/avslå ansökan<br>om försäljningstillstånd för detalj- och<br>partihandlare. | FC | X |  |
@@ -423,6 +411,10 @@ särskilt beslut i nämnden.
 | 3.9 | 7 kap. 10 § p 1: Beslut att återkalla<br>försäljningstillstånd när tillståndet inte längre<br>utnyttjas | FC | X |  |
 | 3.10 | 7 kap. 10 § p 2-3: Beslut att återkalla<br>tillstånd | NMH |  |  |
 | 3.11 | 7 kap. 11 §: Beslut att meddela tillstånds-<br>havare varning | FC | X |  |
+
+<!-- sida 13 -->
+
+12
 
 <!-- sida 14 -->
 
@@ -454,7 +446,7 @@ särskilt beslut i nämnden.
 
 14
 
-[Tabell 15-1](handlingar.tabeller/15-1.csv)
+[Tabell 15-17-1](handlingar.tabeller/15-17-1.csv)
 
 |  | detaljhandel med tobaksfria nikotinprodukter |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -473,15 +465,7 @@ särskilt beslut i nämnden.
 | 5.8 | 8 kap. 4 §: Besluta om godkännande av<br>serveringslokal då cateringföretag anmält<br>servering | FC | X |  |
 | 5.9 | 8 kap. 6 §: Besluta om godkännande av<br>anmälan om provsmakning på serverings-<br>stället under förutsättning att stadigvarande<br>serveringstillstånd finns | FC | X |  |
 | 5.10 | 8 kap. 6 §: Besluta om tillfälligt prov-<br>smakningstillstånd för partihandlare/utställare | FC | X |  |
-
-<!-- sida 16 -->
-
-15
-
-[Tabell 16-1](handlingar.tabeller/16-1.csv)
-
 | 5.11 | 8 kap. 7 §: Besluta om särskilt tillstånd att<br>anordna provsmakning vid tillverknings-<br>stället | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 5.12 | 8 kap. 8 §: Besluta om godkännande av<br>anmälan om servering av folköl | FC | X |  |
 | 5.13 | 8 kap 12 §: Besluta att underlåta prövning<br>genom kunskapsprov | FC | X |  |
 | 5.14 | 8 kap. 12 §: Besluta om lämplighet av nya<br>personer i bolaget med betydelsefullt<br>inflytande (s.k. PBI- prövning) | FC | X |  |
@@ -499,15 +483,7 @@ särskilt beslut i nämnden.
 | 6.1 | 20 §: Kontrollera efterlevnaden av denna lag<br>och av de föreskrifter som har meddelats i<br>anslutning till lagen | FC | X |  |
 | 6.2 | 21 §: Begäran om erhållande av upplysning<br>och handling som erfordras för kontroll samt<br>begäran om tillträde till de områden, lokaler<br>och utrymmen som används i samband med<br>försäljning och hantering av läkemedel. | FC | X |  |
 | 6.3 | Rapportering till Läkemedelsverket om<br>brister i efterlevnaden av regelverket | FC | X |  |
-
-<!-- sida 17 -->
-
-16
-
-[Tabell 17-1](handlingar.tabeller/17-1.csv)
-
 | 6.4 | 23 §: Besluta om att ta ut avgift av den som<br>bedriver detaljhandel med läkemedel | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 7 | Förordning om bekämpningsmedel<br>(2014:425) |  |  |  |
 | 7.1 | 2 kap. 39 §: Besluta i ett enskilt fall att ge<br>dispens från förbudet i 2 kap 37 § BF | FC | X |  |
 | 7.2 | 2 kap. 40–41 §§: Besluta i ärende om<br>tillstånd för yrkesmässig användning av<br>växtskyddsmedel när tillstånd krävs.<br>Besluta i ärende om anmälan av yrkes-<br>mässig användning av växtskyddsmedel | FC | X |  |
@@ -522,26 +498,77 @@ särskilt beslut i nämnden.
 | 10.2 | 5 kap 1 §: Begära dokumentation om<br>spridning av biocidprodukter | FC | X |  |
 | 11 | EG-förordning 2017/625 om offentlig<br>kontroll och annan offentlig verksamhet<br>för att säkerställa tillämpningen av<br>livsmedels- och foderlagstiftningen och av<br>bestämmelse om djurs hälsa, djurskydd,<br>växtskydd och växtskyddsmedel |  |  |  |
 
+<!-- sida 16 -->
+
+15
+
+<!-- sida 17 -->
+
+16
+
 <!-- sida 18 -->
 
+11.1     Art. 9: Utföra offentlig kontroll inom de FC X
+områden som definieras i art. 1.2, 10, m fl.
+12       EG-förordning 882/2004 om offentlig
+kontroll för att säkerställa kontrollen av
+efterlevnaden av foder- och livsmedels-
+lagstiftningen samt bestämmelserna om
+djurhälsa och djurskydd.
+
+EU-kommissionens genomförande-
+förordning (EU) 2019/35
+12.1     Art. 18: Beslut om att omhänderta en FC     X
+sändning till dess kontrollmyndigheten
+erhållit resultat av offentlig kontroll vid
+misstanke om bristande efterlevnad m.m.
+
+12.2     Art. 19.1: Beslut om omhändertagande av FC  X
+livsmedel eller foder från tredjeländer som
+inte överensstämmer med bestämmelserna i
+foder- eller livsmedelslagstiftningen samt
+beslut om att:
+
+a) Förordna om att fodret/livsmedlet
+destrueras, blir föremål för särskild
+behandling i enlighet med art. 20 eller
+återsänds utanför gemenskapen i enlighet
+med art. 21 eller vidtagande av andra
+lämpliga åtgärder.
+
+b) Beträffande livsmedel eller foder som
+redan släppts ut på marknaden, förordna om
+att fodret/livsmedlet återkallas eller dras
+tillbaka från marknaden innan någon av de
+åtgärder som anges ovan vidtas
+
+12.3     Art. 19.2: Besluta att omhänderta sändning i FC X
+avvaktan på destruktion eller vidta andra
+lämpliga åtgärder som är nödvändiga för att
+skydda människor & djurs hälsa. Avseende
+livsmedel/foder av icke-animaliskt ursprung
+som är föremål för strängare kontroller i
+enlighet med art. 15.5, som ej kontrollerats
+eller hanterats i enlighet med art. 17, se till
+att det återkallas och omhändertas och att det
+därefter antingen destrueras eller återsänds i
+enlighet med art. 21.
+3
+12.4     Art. 31: Beslut om permanent upphävande FC  X
+av godkännande av anläggning när
+verksamhet upphört. Används tillsammans
+med Art 4 i EG-förordning 853/2004
+12.5     Art. 54.2 a: Beslut om sanering eller andra FC X
+åtgärder som anses vara nödvändiga för att
+se till att foder eller livsmedel är säkra och
+att lagstiftningen följs
 17
-
-[Tabell 18-1](handlingar.tabeller/18-1.csv)
-
-| 11.1 | Art. 9: Utföra offentlig kontroll inom de<br>områden som definieras i art. 1.2, 10, m fl. | FC | X |  |
-| --- | --- | --- | --- | --- |
-| 12 | EG-förordning 882/2004 om offentlig<br>kontroll för att säkerställa kontrollen av<br>efterlevnaden av foder- och livsmedels-<br>lagstiftningen samt bestämmelserna om<br>djurhälsa och djurskydd.<br>EU-kommissionens genomförande-<br>förordning (EU) 2019/35 |  |  |  |
-| 12.1 | Art. 18: Beslut om att omhänderta en<br>sändning till dess kontrollmyndigheten<br>erhållit resultat av offentlig kontroll vid<br>misstanke om bristande efterlevnad m.m. | FC | X |  |
-| 12.2 | Art. 19.1: Beslut om omhändertagande av<br>livsmedel eller foder från tredjeländer som<br>inte överensstämmer med bestämmelserna i<br>foder- eller livsmedelslagstiftningen samt<br>beslut om att:<br>a) Förordna om att fodret/livsmedlet<br>destrueras, blir föremål för särskild<br>behandling i enlighet med art. 20 eller<br>återsänds utanför gemenskapen i enlighet<br>med art. 21 eller vidtagande av andra<br>lämpliga åtgärder.<br>b) Beträffande livsmedel eller foder som<br>redan släppts ut på marknaden, förordna om<br>att fodret/livsmedlet återkallas eller dras<br>tillbaka från marknaden innan någon av de<br>åtgärder som anges ovan vidtas | FC | X |  |
-| 12.3 | Art. 19.2: Besluta att omhänderta sändning i<br>avvaktan på destruktion eller vidta andra<br>lämpliga åtgärder som är nödvändiga för att<br>skydda människor & djurs hälsa. Avseende<br>livsmedel/foder av icke-animaliskt ursprung<br>som är föremål för strängare kontroller i<br>enlighet med art. 15.5, som ej kontrollerats<br>eller hanterats i enlighet med art. 17, se till<br>att det återkallas och omhändertas och att det<br>därefter antingen destrueras eller återsänds i<br>enlighet med art. 21. | FC | X |  |
-| 3<br>12.4 | Art. 31: Beslut om permanent upphävande<br>av godkännande av anläggning när<br>verksamhet upphört. Används tillsammans<br>med Art 4 i EG-förordning 853/2004 | FC | X |  |
-| 12.5 | Art. 54.2 a: Beslut om sanering eller andra<br>åtgärder som anses vara nödvändiga för att<br>se till att foder eller livsmedel är säkra och<br>att lagstiftningen följs | FC | X |  |
 
 <!-- sida 19 -->
 
 18
 
-[Tabell 19-1](handlingar.tabeller/19-1.csv)
+[Tabell 19-22-1](handlingar.tabeller/19-22-1.csv)
 
 | 12.6 | Art. 54.2 b: Beslut om att begränsa eller<br>förbjuda utsläppande av foder eller livs-<br>medel på marknaden och import eller export<br>av foder, livsmedel eller djur | FC | X |  |
 | --- | --- | --- | --- | --- |
@@ -558,15 +585,7 @@ särskilt beslut i nämnden.
 | 14.1 | 15 och 16 §§: Företräda kommunen i samråd<br>med Livsmedelsverket angående beslut att<br>överflytta tillsyn från kommunen till<br>livsmedelsverket och vice versa | FC | X |  |
 | 14.2 | 22 §: Meddelande av förelägganden och<br>förbud som behövs för att lagen, de<br>föreskrifter och beslut som har meddelats<br>med stöd av lagen, de EG-bestämmelser<br>som kompletteras av lagen och de beslut<br>som har meddelats med stöd av EG-<br>bestämmelserna skall följas | FC | X |  |
 | 14.3 | 23 § LL samt 4 § viteslagen: Besluta om att<br>förena föreläggande och förbud med vite för<br>respektive adressat i varje enskilt ärende. | NMH |  |  |
-
-<!-- sida 20 -->
-
-19
-
-[Tabell 20-1](handlingar.tabeller/20-1.csv)
-
 | 14.4 | 24 §: Beslut om att ta hand om en vara som<br>har släppts ut på marknaden, eller uppenbart<br>är avsedd att släppas ut på marknaden i strid<br>med 10 § eller de EG-bestämmelser som<br>kompletteras av lagen, eller avses med ett<br>föreläggande eller ett förbud enligt 22 §, om<br>föreläggande eller förbudet inte följs. Därtill<br>besluta om att på ägarens bekostnad låta<br>förstöra omhändertagen vara, eller varor<br>som omfattas av ett förbud enligt föreskrifter<br>meddelade med stöd av 6 § 6 punkten. | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 14.5 | 25 §: Beslut om att vidta åtgärder som<br>omedelbart behövs för att spåra smitta och<br>undanröja risk för smittspridning efter<br>underrättelse från smittskyddsläkaren om att<br>smitta sprids eller misstänks spridas genom<br>livsmedel. | FC | X |  |
 | 14.6 | 26 §: Beslut om rättelse på den felandes<br>bekostnad | FC | X |  |
 | 14.7 | 27 §: Begära polismyndighetens hjälp vid<br>utövande av offentlig kontroll eller<br>verkställighet av beslut enligt LL. | FC | X |  |
@@ -577,15 +596,7 @@ särskilt beslut i nämnden.
 | 15.3 | 23 §: Beslut i ärende om godkännande av<br>anläggning för animaliska livsmedel,<br>används tillsammans med art. 3.1 a), EG-<br>förordning 854/2004 samt art. 60 3) EG-<br>förordning 882/2004 | FC | X |  |
 | 15.4 | 23 §: Beslut i ärende om villkorat<br>godkännande av anläggning för animaliska<br>livsmedel, används tillsammans med art. 3.1<br>b), EG-förordning 854/2004 samt art 60 3)<br>EG-förordning 882/2004 | FC | X |  |
 | 16 | Statens Livsmedelsverks föreskrift om<br>dricksvatten (SLVFS 2001:30, senast<br>ändrad LIVSFS 2017:2) |  |  |  |
-
-<!-- sida 21 -->
-
-20
-
-[Tabell 21-1](handlingar.tabeller/21-1.csv)
-
 | 16.1 | 11 §: Beslut om fastställande av prov-<br>tagningspunkter samt frekvensen av normal<br>respektive utvidgad kontroll av dricksvatten | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 16.2 | 12 §: Besluta att fastställa faroanalys enligt 2<br>c § samt undersökningsprogram och dess<br>parametrar, provtagningspunkter och<br>frekvensen av normal respektive utvidgad<br>undersökning. | FC | X |  |
 | 16.3 | 17 §: Beslut om huruvida avvikelse från<br>kvalitetskrav är av ringa betydelse | FC | X |  |
 | 17 | Lag om tillfälliga smittskyddsåtgärder på<br>serveringsställen (2020:526) |  |  |  |
@@ -600,15 +611,7 @@ särskilt beslut i nämnden.
 | 17.9 | 7 § 3 stycket: Beslut om förordnande att ett<br>föreläggande eller förbud ska börja gälla vid<br>en annan tidpunkt än den som anges i 7 §<br>tredje stycket | FC | X |  |
 | 17.10 | Återkallelse av ett föreläggande eller förbud<br>som meddelats med stöd av delegering | FC | X |  |
 | 18 | Lag om foder och animaliska biprodukter<br>(2006:805) |  |  |  |
-
-<!-- sida 22 -->
-
-21
-
-[Tabell 22-1](handlingar.tabeller/22-1.csv)
-
 | 18.1 | 23 § jämte 12 § förordning (2006:814) om<br>foder och animaliska biprodukter: Beslut att<br>meddela förelägganden och förbud utan vite<br>som behövs för efterlevnaden av lagen, de<br>föreskrifter som meddelats med stöd av<br>lagen, de EU och EG -bestämmelser som<br>kompletteras av lagen samt de beslut som<br>meddelats med stöd EU och EG<br>bestämmelserna | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 18.2 | 25 § första stycket: Besluta om att ta hand<br>om en vara som har släppts ut på marknaden<br>eller som uppenbart är avsedd att släppas ut<br>på marknaden eller användas i strid med 7<br>och 8 §§, de föreskrifter som meddelats med<br>stöd av 9 eller 11 § eller EG-bestämmelser<br>som kompletteras av LFA samt avses med<br>ett föreläggande eller förbud enligt 23 § om<br>föreläggandet eller förbudet inte följs. | FC | X |  |
 | 18.3 | 25 § andra stycket: Besluta om att låta<br>förstöra en vara på ägarens bekostnad | FC | X |  |
 | 18.4 | 26 §: Besluta om att vidta rättelse på den<br>felandes bekostnad | FC | X |  |
@@ -618,28 +621,79 @@ särskilt beslut i nämnden.
 | 19 | Förordning (2006:814) om foder och<br>animaliska biprodukter |  |  |  |
 | 19.1 | 12 § FFA: Utöva offentlig kontroll över<br>1. nedgrävning av animaliska biprodukter,<br>2. utlämnande och transport av matavfall,<br>3. kompostering av matavfall när sådan<br>kompostering genomförs på annat sätt än<br>genom kompostering i en<br>komposteringsanläggning som är godkänd<br>av Jordbruksverket,<br>4. förvaring av animaliska biprodukter i<br>primärproduktionen,<br>5. förbränningsanläggningar som förbränner<br>animaliska biprodukter i | FC | X |  |
 
+<!-- sida 20 -->
+
+19
+
+<!-- sida 21 -->
+
+20
+
+<!-- sida 22 -->
+
+21
+
 <!-- sida 23 -->
 
+primärproduktionen,
+6\. användning av andra organiska
+gödningsmedel och jordförbättringsmedel än
+naturgödsel, och
+befattning med naturgödsel i
+primärproduktionen enligt
+Europaparlamentets och rådets förordning
+(EG) nr 1069/2009. Förordning (2011:419)
+19.2     19 §: Anmäla till Jordbruksverket om FC    X
+nämnden i sin kontrollverksamhet finner att
+
+ett foder kan innebära allvarlig direkt eller
+indirekt risk för djurs och människors hälsa
+19.3     27 §: Besluta om att begära polis- FC      X
+myndighetens biträde.
+
+20       Förordning (2006:1165) om avgifter för
+offentlig kontroll av foder och animaliska
+biprodukter
+
+20.1     3–6 §§: Besluta om årlig kontrollavgift för FC X Notera 8 § som
+offentlig kontroll i enlighet med den taxa       fr.o.m. 1
+som kommunfullmäktige fastställt.                januari 2022
+föreskriver vad
+Besluta om risk & erfarenhetsklassificering      som gäller för
+av foderföretagare och företagare som            debitering av
+befattar sig med animaliska biprodukter.         anläggningar
+som har
+efterhands-
+debitering av
+avgifter för
+LM-kontroll
+20.2     11 § jämte kommunens taxa: Besluta om FC   X
+att sätta ned eller efterskänka avgiften när
+
+det finns särskilda skäl.
+20.3     12 §: Besluta om avgift för offentlig FC   X
+kontroll som ursprungligen inte var
+planerad och offentlig verksamhet som
+hänger samman med kontrollen.
+20.4     14 §: Besluta om avgift för den som FC     X
+
+anmäler en anläggning för verksamhet med
+foder eller animaliska biprodukter, eller
+driftansvarig, för registrering.
+
+20.5     13 a och 16 a § jämte EU förordning FC     X
+625/2017 art 79.4: Besluta om att sätta ned
+eller efterskänka avgiften under de
+förutsättningar som anges i kontroll-
+förordningen 625/2017 art.
+
 22
-
-[Tabell 23-1](handlingar.tabeller/23-1.csv)
-
-|  | primärproduktionen,<br>6. användning av andra organiska<br>gödningsmedel och jordförbättringsmedel än<br>naturgödsel, och<br>befattning med naturgödsel i<br>primärproduktionen enligt<br>Europaparlamentets och rådets förordning<br>(EG) nr 1069/2009. Förordning (2011:419) |  |  |  |
-| --- | --- | --- | --- | --- |
-| 19.2 | 19 §: Anmäla till Jordbruksverket om<br>nämnden i sin kontrollverksamhet finner att<br>ett foder kan innebära allvarlig direkt eller<br>indirekt risk för djurs och människors hälsa | FC | X |  |
-| 19.3 | 27 §: Besluta om att begära polis-<br>myndighetens biträde. | FC | X |  |
-| 20 | Förordning (2006:1165) om avgifter för<br>offentlig kontroll av foder och animaliska<br>biprodukter |  |  |  |
-| 20.1 | 3–6 §§: Besluta om årlig kontrollavgift för<br>offentlig kontroll i enlighet med den taxa<br>som kommunfullmäktige fastställt.<br>Besluta om risk & erfarenhetsklassificering<br>av foderföretagare och företagare som<br>befattar sig med animaliska biprodukter. | FC | X | Notera 8 § som<br>fr.o.m. 1<br>januari 2022<br>föreskriver vad<br>som gäller för<br>debitering av<br>anläggningar<br>som har<br>efterhands-<br>debitering av<br>avgifter för<br>LM-kontroll |
-| 20.2 | 11 § jämte kommunens taxa: Besluta om<br>att sätta ned eller efterskänka avgiften när<br>det finns särskilda skäl. | FC | X |  |
-| 20.3 | 12 §: Besluta om avgift för offentlig<br>kontroll som ursprungligen inte var<br>planerad och offentlig verksamhet som<br>hänger samman med kontrollen. | FC | X |  |
-| 20.4 | 14 §: Besluta om avgift för den som<br>anmäler en anläggning för verksamhet med<br>foder eller animaliska biprodukter, eller<br>driftansvarig, för registrering. | FC | X |  |
-| 20.5 | 13 a och 16 a § jämte EU förordning<br>625/2017 art 79.4: Besluta om att sätta ned<br>eller efterskänka avgiften under de<br>förutsättningar som anges i kontroll-<br>förordningen 625/2017 art. | FC | X |  |
 
 <!-- sida 24 -->
 
 23
 
-[Tabell 24-1](handlingar.tabeller/24-1.csv)
+[Tabell 24-35-1](handlingar.tabeller/24-35-1.csv)
 
 | 21 | Förordning (2021:176) om avgifter för<br>offentlig kontroll av livsmedel och vissa<br>jordbruksprodukter |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -658,15 +712,7 @@ särskilt beslut i nämnden.
 | 23.1 | 4 §: I samarbete med övriga myndigheter<br>genomföra epidemiologiska utredningar av<br>livsmedelsburna utbrott | FC | X |  |
 | 24 | Miljöbalken (1998:808) |  |  |  |
 | 24.1 | 6 kap. 6 § MB: Avge yttrade inom ramen för<br>undersökningssamråd vid strategisk<br>miljöbedömning | FC | X |  |
-
-<!-- sida 25 -->
-
-24
-
-[Tabell 25-1](handlingar.tabeller/25-1.csv)
-
 | 24.2 | 6 kap. 8 §: Avge yttrande över miljö-<br>konsekvensbeskrivning som inte kungörs<br>tillsammans med ansökan i ett mål eller<br>ärende | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 24.3 | 6 kap. 10 § MB: Avge yttrande inom ramen<br>för avgränsningssamråd vid strategisk<br>miljöbedömning | FC | X |  |
 | 24.4 | 6 kap. 24 § MB: Avge yttrande inom ramen<br>för avgränsningssamråd vid strategisk<br>miljöbedömning | FC | X |  |
 | 24.5 | 6 kap. 30 § MB: Avge yttrande till<br>verksamhetsutövaren vid avgränsnings-<br>samråd inom ramen för en specifik<br>miljöbedömning | FC | X |  |
@@ -678,15 +724,7 @@ särskilt beslut i nämnden.
 | 24.11 | 2 kap. 31 § 6 MTSF: Besluta i ärende om<br>tillsyn över utrustning i motorfordon, flyg<br>och tåg som innehåller kontrollerande ämnen<br>enligt förordningen (EGU) nr 517/2014 eller<br>förordning (EG) nr 1005/200 | FC | X |  |
 | 24.12 | 2 kap. 34 § MTSF: Besluta i ärenden om<br>åtgärder avseende kosmetiska produkter<br>enligt artiklarna 24, 25.1, 25.5 första stycket,<br>26, 27.1 och 27.5 i förordning (EG)<br>1223/2009 | FC | X |  |
 | 24.13 | 1 kap. 11 § MPF 26 § FMH: Avge yttrande<br>till länsstyrelse avseende anmälningspliktig<br>ändring av verksamhet | FC | X |  |
-
-<!-- sida 26 -->
-
-25
-
-[Tabell 26-1](handlingar.tabeller/26-1.csv)
-
 | 24.14 | 1 kap. 25 § Industriutsläppsförordningen:<br>Förelägganden om avhjälpande av brist i<br>statusrapport som inlämnats enligt 1 kap 24 §<br>Industriutsläppsförordningen och ej uppfyller<br>kraven enligt 1 kap. 23 § samma förordning | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 24.15 | 9 kap. 6 §: Besluta att förelägga verksamhet<br>om att söka tillstånd | FC | X |  |
 | 24.16 | 9 kap. 6 c §: Besluta att en anmälningspliktig<br>verksamhet får påbörjas innan sex veckor har<br>förflutit.<br>Besluta att anmälningspliktig verksamhet ej<br>får påbörjas vid sexveckorsfristens utgång<br>utan först när nämndens beslut meddelats. | FC | X |  |
 | 24.17 | 9 kap. 9 §: Besluta i tillsynsärende avseende<br>åtgärder för bekämpning av ohyra och andra<br>skadedjur | FC | X |  |
@@ -694,15 +732,7 @@ särskilt beslut i nämnden.
 | 24.19 | 9 kap. 11 § jämte 39 § FMH, lokala<br>föreskrifter för att skydda människors hälsa<br>och miljön: Besluta i ärende om tillstånd att<br>hålla vissa djur inom område med detaljplan<br>eller områdesbestämmelser där tillstånd krävs<br>enligt kommunens lokala föreskrifter | FC | X |  |
 | 24.20 | 9 kap. 12 § MB, 40 § första stycket 10 FMH,<br>lokala föreskrifter för att skydda människors<br>hälsa och miljö: Besluta i ärende om tillstånd<br>eller anmälan för att inrätta eller använda en<br>luftvärmepump där tillstånd eller anmälan<br>krävs enligt kommunens lokala föreskrifter | FC | X |  |
 | 24.21 | 9 kap. 15 §: Beslut, om det är nödvändigt för<br>att förhindra spridning av allvarlig smittsam<br>sjukdom som kan föras över till människor,<br>att låta förstöra föremål av personlig natur<br>och låta avliva sällskapsdjur som innehas av<br>privatpersoner | FC | X |  |
-
-<!-- sida 27 -->
-
-26
-
-[Tabell 27-1](handlingar.tabeller/27-1.csv)
-
 | 24.22 | 10 kap. 1–4 §§: Besluta i tillsynsärende om<br>ansvar för verksamhetsutövare eller den som<br>annars är efterbehandlingsansvarig att utföra<br>och bekosta utredningar och<br>efterbehandlingsåtgärder | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 24.23 | 10 kap. 12 – 14 §§ MB, 2 kap. 31 § p. 3-4 p<br>MTSF, 18-21 §§ FAM: Besluta i tillsyns-<br>ärende angående avhjälpande av allvarlig<br>miljöskada | FC | X |  |
 | 24.24 | 10 kap. 12 och 14 §§ MB, 2 kap. 31 § p. 3–4<br>MTSF, 18–21 §§ FAM: Besluta i tillsyns-<br>ärende ang. avhjälpande av förorenings-<br>skada | FC | X |  |
 | 24.25 | 10 kap. 17 §: Besluta i tillsynsärende<br>avseende vidtagande av åtgärder inom<br>miljöriskområde | FC | X |  |
@@ -713,15 +743,7 @@ särskilt beslut i nämnden.
 | 24.30 | 15 kap. 26 §: Förelägga ansvarig för ned-<br>skräpning att iordningställa platsen samt<br>vidta erforderliga förebyggande åtgärder | FC | X |  |
 | 24.31 | 15 kap 27 §: Besluta i tillsynsärende om<br>dumpning av avfall | FC | X |  |
 | 24.32 | 19 kap. 5 § punkt 12 och 22 kap. 28 § första<br>stycket första meningen MB: Förordna att ett<br>tillstånd till miljöfarlig verksamhet ska gälla | FC | X |  |
-
-<!-- sida 28 -->
-
-27
-
-[Tabell 28-1](handlingar.tabeller/28-1.csv)
-
 |  | även om det överklagas |  |  |  |
-| --- | --- | --- | --- | --- |
 | 24.33 | 22 kap. 25 §: Besluta om villkor av mindre<br>betydelse som Mark- och miljödomstol i<br>beslut om tillstånd till vattenverksamhet<br>överlåtit till tillsynsmyndighet att fastställa. | FC | X |  |
 | 24.34 | 24 kap. 3 § första stycket 1 samt 3–9 MB:<br>Besluta om att återkalla tillstånd. | FC | X |  |
 | 24.35 | 24 kap. 5 § punkterna 1–12: Besluta att<br>ompröva tillstånd för miljöfarlig verksamhet<br>eller vatten-verksamhet när det gäller<br>bestämmelse om tillåten produktionsmängd<br>eller annan liknande bestämmelse om<br>verksamhetens omfattning samt att bestämma<br>nya eller upphäva gamla villkor &<br>bestämmelser som följer av punkterna 1-12 i<br>nämnd paragraf. | FC | X | Gäller även<br>beslut om andra<br>åtgärder som<br>behövs för att<br>förebygga eller<br>minska<br>olägenheter för<br>framtiden |
@@ -732,15 +754,7 @@ särskilt beslut i nämnden.
 | 24.40 | 26 kap. 15 §: Besluta att sända föreläggande<br>eller förbud, som meddelats mot någon i<br>egenskap av ägare m.m. till inskrivnings-<br>myndigheten för anteckning i inskrivnings-<br>registret. | FC | X |  |
 | 24.41 | 26 kap. 17 § första stycket och 30 § MB:<br>Besluta ansöka om verkställighet vid<br>Kronofogdemyndigheten inom kontroll som<br>miljönämnden utför enligt 26 kap. 30 § MB. | FC | X |  |
 | 24.42 | 26 kap. 17 § andra stycket MB: Besluta att<br>ansöka hos Kronofogdemyndigheten om<br>särskild handräckning inom kontroll som<br>miljönämnden utför enligt 26 kap. 30 § MB | FC | X |  |
-
-<!-- sida 29 -->
-
-28
-
-[Tabell 29-1](handlingar.tabeller/29-1.csv)
-
 | 24.43 | 26 kap. 19 §: Besluta att begära att den som<br>bedriver verksamhet som kan befaras<br>medföra olägenhet för människors hälsa<br>eller påverka miljön ska lämna förslag till<br>kontrollprogram eller förbättrande åtgärder<br>samt förelägga den som bedriver miljöfarlig<br>verksamhet att avge miljörapport | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 24.44 | 26 kap. 21 §: Besluta att förelägga den som<br>bedriver verksamhet eller vidtar åtgärd att<br>lämna de uppgifter och handlingar som<br>behövs för tillsynen | FC | X |  |
 | 24.45 | 26 kap. 22 §: Besluta att förelägga den som<br>bedriver en verksamhet, vidtar en viss åtgärd<br>eller dem som upplåter byggnad för bostäder<br>eller allmänt ändamål, att utföra sådana<br>undersökningar av verksamheten och dess<br>verkningar som behövs för tillsynen. | FC | X |  |
 | 24.46 | 26 kap. 22 § första stycket: Besluta att<br>föreskriva att undersökning av verksamhet<br>och dess verkningar istället ska utföras av<br>någon annan och utse någon att göra sådan<br>undersökning. | FC | X |  |
@@ -748,15 +762,7 @@ särskilt beslut i nämnden.
 | 24.48 | 26 kap. 26 § och 32 § MB: Bestämma att<br>beslut i tillsynsärende ska gälla omedelbart<br>även om det överklagas.<br>Bestämma att beslut i ärende inom kontroll<br>som miljönämnden utför enligt 26 kap. 30<br>§ MB ska gälla omedelbart även om det<br>överklagas. | FC | X |  |
 | 24.49 | 27 kap. 1 § MB och kommunens taxa för<br>miljönämndens verksamhetsområde: Besluta<br>om avgift för prövning, tillsyn, kontroll och<br>annan offentlig verksamhet enligt<br>kommunens taxa om avgifter inom<br>miljöbalkens tillämpningsområde. | FC | X |  |
 | 24.50 | Kommunens taxa för miljönämndens<br>verksamhetsområde: Besluta om nedsättning<br>av avgift eller efterskänkande av avgift i<br>enskilda fall enligt vad som föreskrivs i<br>kommunens taxa. | FC | X |  |
-
-<!-- sida 30 -->
-
-29
-
-[Tabell 30-1](handlingar.tabeller/30-1.csv)
-
 | 24.51 | 28 kap. 1 och 8 §§: Besluta att begära hjälp<br>av polismyndigheten för att få tillträde till<br>fastigheter, byggnader, andra anläggningar<br>samt transportmedel för att myndighetens<br>uppgifter ska kunna utföras. | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 24.52 | 30 kap. 3 §: Besluta om miljösanktionsavgift | FC | X | Innan beslut<br>om avgift ska<br>den som<br>anspråket<br>riktas mot<br>ges tillfälle<br>att yttra sig. |
 | 25 | Miljöprövningsförordningen (2013:251) |  |  |  |
 | 25.1 | 1 kap. 10,11 §§: Besluta i ärenden avseende<br>anmälningsplikt. | FC | X |  |
@@ -766,15 +772,7 @@ särskilt beslut i nämnden.
 | 27.1 | 5, 22, & 26 §§: Avge yttrande till<br>Länsstyrelsen i anmälningsärende<br>angående mindre ändring av tillstånds-<br>pliktig miljöfarlig verksamhet. | FC | X |  |
 | 27.2 | 13 § 1 & 2 stycket: Besluta i ärende om<br>tillstånd att inrätta avloppsanordning med<br>ansluten vattentoalett.<br>Besluta i ärende om tillstånd att ansluta<br>vattentoalett till befintlig avloppsanordning.<br>Besluta i ärende om anmälan för att inrätta<br>annan avloppsanordning än sådan som<br>kräver tillstånd. | FC | X |  |
 | 27.3 | 13 § fjärde stycket jämte föreskrifter för att<br>skydda människors hälsa & miljön, lokala<br>vattenskyddsföreskrifter: Besluta i ärende<br>om tillstånd att inrätta annan avlopps-<br>anordning än sådan till vilken vattentoalett<br>är ansluten inom de delar av kommunen där<br>tillstånd krävs enligt kommunens lokala<br>föreskrifter | FC | X |  |
-
-<!-- sida 31 -->
-
-30
-
-[Tabell 31-1](handlingar.tabeller/31-1.csv)
-
 | 27.4 | 14 §: Besluta i ärende om anmälan eller<br>tillstånd att ändra avloppsanordningar som<br>avses i 13 § FMH. | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 27.5 | 17 § första stycket, första meningen FMH:<br>Besluta i ärende om anmälan/tillstånd att<br>inrätta värmepumpsanläggning för<br>utvinning av värme ur mark, ytvatten eller<br>grundvatten | FC | X |  |
 | 27.6 | 18 §: I beslut om tillstånd att inrätta en<br>avloppsanordning som avses i 13 § får den<br>kommunala nämnden föreskriva att<br>anordningen inte får tas i bruk förrän den har<br>besiktigats och godkänts av nämnden.<br>Detsamma gäller ett beslut om tillstånd att<br>inrätta en värmepumpsanläggning som avses<br>i 17 § | FC | X |  |
 | 27.7 | 20 § b: Avge yttrande angående farligt<br>avfall. | FC | X |  |
@@ -783,15 +781,7 @@ särskilt beslut i nämnden.
 | 27.10 | 28 §: Besluta om försiktighetsåtgärder vid<br>efterbehandlingsåtgärder i förorenade<br>områden.<br>28 § FHM: Besluta i anmälningsärende om<br>avhjälpandeåtgärd med anledning av en<br>föroreningsskada, när åtgärden kan<br>medföra ökad risk för spridning eller<br>exponering av föroreningarna. | FC | X |  |
 | 27.11 | 37 och 42 §§ FHM jämte lokala föreskrifter<br>för att skydda människors hälsa och miljön:<br>Besluta i ärende avseende anläggande av<br>gödselstad eller annan upplagsplats för<br>djurspillning inom område med detaljplan,<br>eller, om kommunen så föreskrivit, annat<br>tätbebyggt område | FC | X |  |
 | 27.12 | 38 §: Besluta i ärende om anmälan om att<br>driva eller arrangera verksamhet. | FC | X |  |
-
-<!-- sida 32 -->
-
-31
-
-[Tabell 32-1](handlingar.tabeller/32-1.csv)
-
 | 27.13 | 39 §: Beslut om särskilt tillstånd, som får<br>förenas med särskilda villkor, om att hålla<br>nötkreatur, häst, get, får, svin, pälsdjur,<br>fjäderfä som ej är sällskapsdjur eller orm<br>inom område med detaljplan eller områdes-<br>bestämmelser. | FC | X | Endast om<br>det behövs<br>för att hindra<br>att hälso-<br>olägenheter<br>uppkommer. |
-| --- | --- | --- | --- | --- |
 | 27.14 | 40 § FMH och lokala föreskrifter för att<br>skydda människors hälsa och miljön: Besluta<br>om ärenden avseende tillstånd eller dispens i<br>enlighet med Kungsbacka kommuns lokala<br>föreskrifter för att skydda människors hälsa<br>och miljön, om det är uppenbart att risk för<br>olägenheter från miljö- och hälsoskydds-<br>synpunkt inte föreligger. Undantag för<br>föreskriftens 12 § (camping) och 13 §<br>(gatumusik) som beslutas av polis-<br>myndigheten. | FC | X |  |
 | 27.15 | 40 § första stycket 3 FMH, lokala föreskrifter<br>för att skydda människors hälsa och miljön:<br>Besluta i ärende om tillstånd eller anmälan<br>för att inrätta annan toalett än vattentoalett<br>där tillstånd eller anmälan krävs enligt<br>kommunens lokala föreskrifter. | FC | X |  |
 | 27.16 | 9 kap. 12 § MB, 40 § första stycket 2 FMH,<br>lokala föreskrifter för att skydda människors<br>hälsa och miljö: Besluta i ärende om tillstånd<br>eller anmälan för att sprida naturlig gödsel,<br>slam eller annan orenlighet inom eller intill<br>område med detaljplan där tillstånd eller<br>anmälan krävs enligt kommunens lokala<br>föreskrifter | FC | X |  |
@@ -799,15 +789,7 @@ särskilt beslut i nämnden.
 | 28 | Förordning (2018:471) om medelstora<br>förbränningsanläggningar |  |  |  |
 | 28.1 | 20 §: Besluta att förelägga<br>verksamhetsutövare att avhjälpa bristen<br>om informationen enligt 18 § förordning<br>(2018:471) om medelstora förbrännings-<br>anläggningar är bristfällig | FC | X |  |
 | 28.2 | 47 §: Besluta i ärende om dispens från<br>kravet på mätning av koldioxid | FC | X |  |
-
-<!-- sida 33 -->
-
-32
-
-[Tabell 33-1](handlingar.tabeller/33-1.csv)
-
 | 28.3 | 55 §: Besluta i ärende med anledning av<br>verksamhetsutövarens information enligt<br>55 § förordning (2018:471) om medelstora<br>förbränningsanläggningar | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 28.4 | 57 §: Besluta förelägga<br>verksamhetsutövaren att lämna in handling<br>eller uppgift som dokumenterats med stöd<br>av 56 § förordning (2018:471) om<br>medelstora förbränningsanläggningar när<br>sådan handling eller uppgift begärs med<br>stöd av 57 § | FC | X |  |
 | 29 | Förordning om miljöhänsyn i jordbruket<br>(1998:915) |  |  |  |
 | 29.1 | 9 §: Avge yttrande till Länsstyrelsen i<br>ärende om dispens för djurhållning och<br>gödselhantering | FC | X |  |
@@ -822,15 +804,7 @@ särskilt beslut i nämnden.
 | 31.6 | 5 kap: Avge yttrande om detaljplan vid s.k.<br>samordnat förfarande (planer startade fr.o.m.<br>1 januari 2015) | FC | X |  |
 | 31.7 | 5 kap: Besluta om yttrande i ärenden vid<br>domstol eller annan myndighet avseende<br>detaljplan och områdesbestämmelser i<br>gransknings-skedet när nämnden tidigare<br>avgett yttrande i samrådsskedet. | FC | X |  |
 | 32 | Badvattenförordningen (2008:218) |  |  |  |
-
-<!-- sida 34 -->
-
-33
-
-[Tabell 34-1](handlingar.tabeller/34-1.csv)
-
 | 32.1 | 11 §: Vidta åtgärder om ett badvattens<br>kvalitet försämras av en oväntad situation<br>som inverkar negativt på badandes hälsa<br>eller sannolikt kan få en sådan inverkan, för<br>att hindra en sådan negativ inverkan och för<br>att förebygga ytterligare försämringar av<br>badvattnets kvalitet. | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 32.2 | 14 §: Vidta åtgärder för att hindra en negativ<br>inverkan på badandes hälsa, om det i ett<br>badvatten sker en utbredning av sådana<br>bakterier eller alger som avses i 12 § eller<br>om avfall som avses i 13 § identifieras och<br>kommunen befarar eller konstaterar att<br>utbredningen eller avfallet utgör en hälso-<br>risk. | FC | X |  |
 | 33 | Förordning om PCB m.m. (2007:19) |  |  |  |
 | 33.1 | 16 - 17a §§: Meddela föreläggande om<br>åtgärder. | FC | X |  |
@@ -842,15 +816,7 @@ särskilt beslut i nämnden.
 | 34.3 | 3 kap. 15b §: besluta om dispens från kraven<br>på utsortering i 1 § avseende bioavfall, i de<br>fall där utsortering inte är genomförbar eller<br>inte ger fördelar som överväger nackdelarna<br>enligt 16 § | FC | X |  |
 | 34.4 | 3 kap. 19 a §: I fråga om utsorterat trädgårds-<br>eller parkavfall besluta om dispens från<br>förbud mot förbränning av separat insamlat<br>avfall i 19 § om förbränning sker i samband<br>med sådan offentlig tillställning som avses i 2<br>kap. 3 § ordningslagen (1993:1617) och görs<br>utan risk för olägenhet för människors hälsa<br>eller miljön | FC | X | Dispens ska<br>avse en viss<br>mängd avfall<br>samt tid och<br>plats |
 | 34.5 | Avge yttrande i ärende gällande tillstånd eller<br>anmälan enligt 5 kap. avfallsförordningen | FC |  |  |
-
-<!-- sida 35 -->
-
-34
-
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
-
 | 34.6 | 5 kap. 15 §: Besluta i anledning av anmälan<br>om att kompostera eller på annat sätt<br>behandla avfall som inte är trädgårdsavfall<br>och som kommunen ansvarar för enligt 15<br>kap. 20 MB, från fastighetsinnehavare i<br>enbostadshus | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 34.7 | 5 kap. 15 §: Besluta i anledning av anmälan<br>om att kompostera eller på annat sätt<br>behandla avfall som inte är trädgårdsavfall<br>och som kommunen ansvarar för enligt 15<br>kap. 20 MB, från fastighetsinnehavare för<br>flerbostadshus, samfälligheter, skolor eller<br>förskolor | FC | X |  |
 | 34.8 | Kommunens avfallsföreskrifter: Besluta att<br>anvisa plats för lämning av kommunalt avfall.<br>Besluta om undantag, anmälan och ansökan i<br>enlighet med renhållningsordningens avfalls-<br>föreskrifter | FC | X | Nämnden för<br>teknik ansvarar<br>för anvisning<br>av plats. NMH<br>äger rätt att<br>anvisa en plats<br>om teknik-<br>nämnden<br>medger detta. |
 | 34.9 | 15 c § förordningen (2001:512) om<br>deponering av avfall: Besluta om dispens från<br>föreskrifter om gränsvärden som<br>Naturvårdsverket meddelat med stöd av 15 §<br>deponeringsförordningen | FC | X |  |
@@ -862,33 +828,112 @@ särskilt beslut i nämnden.
 | 35.5 | LÅFF 8 a kap. 2 § förordningen (1980:789)<br>om åtgärder mot förorening från fartyg:<br>Besluta om sanktionsavgift vid underlåtelse<br>att se till att det finns en anordning för<br>mottagning av avfall från fartyg. | NMH |  |  |
 | 35.6 | LÅFF 8 a kap. 3 § förordningen (1980:789)<br>om åtgärder mot förorening av fartyg:<br>Besluta om sanktionsavgift vid underlåtelse | NMH |  |  |
 
+<!-- sida 25 -->
+
+24
+
+<!-- sida 26 -->
+
+25
+
+<!-- sida 27 -->
+
+26
+
+<!-- sida 28 -->
+
+27
+
+<!-- sida 29 -->
+
+28
+
+<!-- sida 30 -->
+
+29
+
+<!-- sida 31 -->
+
+30
+
+<!-- sida 32 -->
+
+31
+
+<!-- sida 33 -->
+
+32
+
+<!-- sida 34 -->
+
+33
+
+<!-- sida 35 -->
+
+34
+
 <!-- sida 36 -->
 
+att upprätta eller inneha en godkänd avfalls-
+hanteringsplan.
+36       Strålskyddslagen (2018:396)
+36.1     8 kap. 4 §: Besluta att begära upplysningar FC X
+eller handlingar som behövs för tillsynen
+36.2     8 kap. 5 §: Besluta om att genomföra FC    X
+kontrollköp av verksamhetsutövare
+
+36.3     8 kap. 6 §: Besluta om föreläggande och FC X
+förbud, utan vite
+36.4     8 kap. 8 §: Besluta om att omhänderta ett FC X
+radioaktivt material eller en teknisk
+anordning som innehåller ett radioaktivt
+ämne eller som kan alstra strålning.
+
+6
+36.5     8 kap. 9 §: Besluta att försegla fastigheter, FC X
+byggnader, utrymmen & andra anläggningar
+där verksamhet med joniserande strålning
+bedrivs samt att försegla tekniska
+anordningar som innehåller ett radioaktivt
+ämne eller kan alstra strålning, om det
+behövs för att förebygga att anläggningarna,
+utrustningarna eller anordningarna används
+olovligen.
+36.6     8 kap. 10 §: Besluta att de åtgärder som FC X
+behövs för att åstadkomma rättelse ska
+vidtas på den felandes bekostnad om den
+felande inte har följt ett föreläggande eller
+rättelse bör göras genast med hänsyn till
+risken för allvarliga skador eller andra
+särskilda skäl.
+36.7     8 kap. 11–12 §: Tillträda fastigheter, FC  X
+byggnader, utrymmen & andra anläggningar
+samt transportmedel där verksamhet enligt
+smittskyddslagen bedrivs för provtagning,
+undersökningar och andra åtgärder som
+behövs för tillsynen.
+
+Besluta om Polismyndighetens biträde vid
+tillsyn enligt lagen
+36.8     10 kap. 3 §: Besluta om att delegationsbeslut FC X
+inte ska gälla omedelbart.
+
+37       Strålsäkerhetsmyndighetens föreskrifter
+om solarier och artificiella solnings-
+anläggningar (SSMFS 2012:5)
+37.1     10 §: Besluta i ärende om anmälan av FC    X
+kosmetiskt solarium upplåts till allmänheten
+37.2     19 §: Besluta i tillsynsärenden FC         X
+
+38       Bilskrotningsförordningen (2007:186)
+
 35
-
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
-
-|  | att upprätta eller inneha en godkänd avfalls-<br>hanteringsplan. |  |  |  |
-| --- | --- | --- | --- | --- |
-| 36 | Strålskyddslagen (2018:396) |  |  |  |
-| 36.1 | 8 kap. 4 §: Besluta att begära upplysningar<br>eller handlingar som behövs för tillsynen | FC | X |  |
-| 36.2 | 8 kap. 5 §: Besluta om att genomföra<br>kontrollköp av verksamhetsutövare | FC | X |  |
-| 36.3 | 8 kap. 6 §: Besluta om föreläggande och<br>förbud, utan vite | FC | X |  |
-| 36.4 | 8 kap. 8 §: Besluta om att omhänderta ett<br>radioaktivt material eller en teknisk<br>anordning som innehåller ett radioaktivt<br>ämne eller som kan alstra strålning. | FC | X |  |
-| 6<br>36.5 | 8 kap. 9 §: Besluta att försegla fastigheter,<br>byggnader, utrymmen & andra anläggningar<br>där verksamhet med joniserande strålning<br>bedrivs samt att försegla tekniska<br>anordningar som innehåller ett radioaktivt<br>ämne eller kan alstra strålning, om det<br>behövs för att förebygga att anläggningarna,<br>utrustningarna eller anordningarna används<br>olovligen. | FC | X |  |
-| 36.6 | 8 kap. 10 §: Besluta att de åtgärder som<br>behövs för att åstadkomma rättelse ska<br>vidtas på den felandes bekostnad om den<br>felande inte har följt ett föreläggande eller<br>rättelse bör göras genast med hänsyn till<br>risken för allvarliga skador eller andra<br>särskilda skäl. | FC | X |  |
-| 36.7 | 8 kap. 11–12 §: Tillträda fastigheter,<br>byggnader, utrymmen & andra anläggningar<br>samt transportmedel där verksamhet enligt<br>smittskyddslagen bedrivs för provtagning,<br>undersökningar och andra åtgärder som<br>behövs för tillsynen.<br>Besluta om Polismyndighetens biträde vid<br>tillsyn enligt lagen | FC | X |  |
-| 36.8 | 10 kap. 3 §: Besluta om att delegationsbeslut<br>inte ska gälla omedelbart. | FC | X |  |
-| 37 | Strålsäkerhetsmyndighetens föreskrifter<br>om solarier och artificiella solnings-<br>anläggningar (SSMFS 2012:5) |  |  |  |
-| 37.1 | 10 §: Besluta i ärende om anmälan av<br>kosmetiskt solarium upplåts till allmänheten | FC | X |  |
-| 37.2 | 19 §: Besluta i tillsynsärenden | FC | X |  |
-| 38 | Bilskrotningsförordningen (2007:186) |  |  |  |
 
 <!-- sida 37 -->
 
 36
 
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
+[Tabell 37-38-1](handlingar.tabeller/37-38-1.csv)
 
 | 38.1 | 6 §: Avge yttrande till Länsstyrelsen i<br>ärende angående auktorisation av<br>bilskrotningsverksamhet | FC | X |  |
 | --- | --- | --- | --- | --- |
@@ -911,15 +956,7 @@ särskilt beslut i nämnden.
 | 42.1 | Beslut om uttag av avgift | FC | X |  |
 | 42.2 | Beslut om nedsättning av avgift | FC | X |  |
 | 42.3 | 1 kap. 2 § och 9 kap. 5 § FAPT: Besluta att | FC | X |  |
-
-<!-- sida 38 -->
-
-37
-
-[Tabell 38-1](handlingar.tabeller/38-1.csv)
-
 |  | beslut om avgift ska gälla omedelbart även<br>om det överklagas. |  |  |  |
-| --- | --- | --- | --- | --- |
 |  | Taxa för offentlig kontroll av livsmedel |  |  |  |
 | 42.4 | Beslut om uttag av avgift | FC | X |  |
 | 42.5 | Beslut om nedsättning av avgift | FC |  |  |
@@ -934,6 +971,10 @@ särskilt beslut i nämnden.
 | 42.11 | Beslut om nedsättning av avgift | FC |  |  |
 | 43 | Lag om sprängämnesprekursorer<br>(2014:799) |  |  |  |
 | 43.1 | 6 §: Besluta i tillsynsärenden | FC | X |  |
+
+<!-- sida 38 -->
+
+37
 
 <!-- sida 39 -->
 

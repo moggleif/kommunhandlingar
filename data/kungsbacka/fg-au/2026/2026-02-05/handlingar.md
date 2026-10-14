@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.63e7dd7019bfe963d53e9a2b/1770037388
 sha256: 39a2065a6e71c2aa104da6362eae211aa1d7f2c0a5399ffea160ce81db5a958f
 bytes: 16564695
 sidor: 207
-hamtad: 2026-10-07T23:29:49+00:00
-konverterad: 2026-10-07T23:31:23+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T07:34:19+00:00
+konverterad: 2026-10-14T07:35:40+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok]
 tal_obekraftade: [91, 92, 97, 98, 99, 100, 101, 102, 103, 104, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 167]
-figurer: null
-tolkade: null
+figurer: [17, 19, 20, 21, 22, 76, 112, 113, 155, 160, 161]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -59,7 +59,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-3-1](handlingar.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -69,22 +69,17 @@ KUNGSBACKA  KOMMUN
 | 9. | Ändring av starttid för FGAU<br>7e maj<br>Kl 13:50-13:55<br>Ordförande | FG-2026-00011 | Arbetsutskottet beslutar att tidigarelägga<br>starttiden. |
 | 10. | Kränkningsrapport:<br>Likabehandling och<br>diskriminering - uppföljning 1<br>Kl 13:55-14:40<br>Tove Bender, utredare<br>Bertil Ljungblad,<br>utvecklingsledare | FG-2026-00028 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och noterar informationen<br>till protokollet. |
 |  | Paus 14:40-14:50 |  |  |
+| 11. | Uppföljning Intern kontroll<br>2025<br>Kl 14:50-15:20<br>Frida Byrsten, verksamhetschef<br>Susanne Lyckevall,<br>verksamhetschef | FG-2026-00038 | Nämnden beslutar att godkänna<br>Internkontrollrapport 2025 - Nämnden för<br>Förskola & Grundskola, 2025-01-23. |
+| 12. | Beredning av motion - Mera<br>grön och blå mat i Kungsbacka<br>kommun (KS-2025-00809)<br>Kl 15:20-15:30<br>Frida Byrsten, verksamhetschef<br>Julia Brag, registrator | FG-2025-00743 | Nämnden för Förskola & Grundskola föreslår<br>kommunfullmäktige att avslå motionen med<br>hänvisning till att kommunens<br>måltidsverksamhet redan bedrivs i enlighet med<br>gällande riktlinjer och en stegvis omställning<br>bedöms vara mer ändamålsenlig än ett generellt<br>förbud. |
+| 13. | Tillsyn Smedingeskolan Söder<br>och Norr - Skolinspektionen SI<br>2025:5869<br>Kl 15:30-15:50<br>Frida Byrsten, verksamhetschef<br>Julia Brag, registrator | FG-2025-00526 | Då ärendet inte är komplett översänds ärendet till<br>nämnden för Förskola & Grundskola för beslut. |
+| 14. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2026 | FG-2026-00015 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen i protokollet. |
+| 15. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 15:50-16:00<br>Stigert Pettersson,<br>förvaltningschef | FG-2026-00016 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och noterar informationen<br>till protokollet. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | Uppföljning Intern kontroll<br>2025<br>Kl 14:50-15:20<br>Frida Byrsten, verksamhetschef<br>Susanne Lyckevall,<br>verksamhetschef | FG-2026-00038 | Nämnden beslutar att godkänna<br>Internkontrollrapport 2025 - Nämnden för<br>Förskola & Grundskola, 2025-01-23. |
-| 12. | Beredning av motion - Mera<br>grön och blå mat i Kungsbacka<br>kommun (KS-2025-00809)<br>Kl 15:20-15:30<br>Frida Byrsten, verksamhetschef<br>Julia Brag, registrator | FG-2025-00743 | Nämnden för Förskola & Grundskola föreslår<br>kommunfullmäktige att avslå motionen med<br>hänvisning till att kommunens<br>måltidsverksamhet redan bedrivs i enlighet med<br>gällande riktlinjer och en stegvis omställning<br>bedöms vara mer ändamålsenlig än ett generellt<br>förbud. |
-| 13. | Tillsyn Smedingeskolan Söder<br>och Norr - Skolinspektionen SI<br>2025:5869<br>Kl 15:30-15:50<br>Frida Byrsten, verksamhetschef<br>Julia Brag, registrator | FG-2025-00526 | Då ärendet inte är komplett översänds ärendet till<br>nämnden för Förskola & Grundskola för beslut. |
-| 14. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2026 | FG-2026-00015 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen i protokollet. |
-| 15. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 15:50-16:00<br>Stigert Pettersson,<br>förvaltningschef | FG-2026-00016 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och noterar informationen<br>till protokollet. |
 
 <!-- sida 4 -->
 
@@ -1129,8 +1124,9 @@ långsiktiga planeringsförutsättningar och anpassa lokaler efter befolkningspr
 
 [Tabell 30-1](handlingar.tabeller/30-1.csv)
 
-| Utfall (miljoner kronor)<br>Intäkter | Utfall 2023<br>300,4 | Utfall 2024<br>303,7 | Utfall 2025<br>297,7 |
+| Utfall (miljoner kronor) | Utfall 2023 | Utfall 2024 | Utfall 2025 |
 | --- | --- | --- | --- |
+| Intäkter | 300,4 | 303,7 | 297,7 |
 | Kostnader | -2 513,9 | -2 578,5 | -2 591,4 |
 | Netto | -2 213,5 | -2 274,8 | -2 293,7 |
 | Budget, netto | -2 169,1 | -2 283,6 | -2 313,1 |
@@ -1138,8 +1134,9 @@ långsiktiga planeringsförutsättningar och anpassa lokaler efter befolkningspr
 
 [Tabell 30-2](handlingar.tabeller/30-2.csv)
 
-| Utfall (miljoner kronor)<br>Utgifter | Utfall 2023<br>-15 | Utfall 2024<br>-13 | Utfall 2025<br>-10,9 |
+| Utfall (miljoner kronor) | Utfall 2023 | Utfall 2024 | Utfall 2025 |
 | --- | --- | --- | --- |
+| Utgifter | -15 | -13 | -10,9 |
 | Inkomster |  |  |  |
 | Netto | -15 | -13 | -10,9 |
 
@@ -2463,10 +2460,12 @@ aspekter som bidrar.
 
 [Tabell 55-1](handlingar.tabeller/55-1.csv)
 
-| Namn<br>Riskobservation | 2023<br>117 | 2024<br>123 | 2025<br>105 |
+| Namn | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- |
+| Riskobservation | 117 | 123 | 105 |
 | Tillbud | 719 | 796 | 940 |
-| Olycksfall<br>Total | 348<br>1184 | 446<br>1365 | 458<br>1503 |
+| Olycksfall | 348 | 446 | 458 |
+| Total | 1184 | 1365 | 1503 |
 
 <!-- sida 56 -->
 
@@ -2751,8 +2750,9 @@ Resultat organisatorisk nivå
 
 [Tabell 61-1](handlingar.tabeller/61-1.csv)
 
-| Uppföljningsnivå (belopp i mkr)<br>Nämnd- och styrelseverksamhet | Bokslut 2024<br>-2,0 | Budget 2025<br>-2,4 | Bokslut 2025<br>-2,4 | Budgetavvike<br>lse 2025<br>0,0 |
+| Uppföljningsnivå (belopp i mkr) | Bokslut 2024 | Budget 2025 | Bokslut 2025 | Budgetavvike lse 2025 |
 | --- | --- | --- | --- | --- |
+| Nämnd- och styrelseverksamhet | -2,0 | -2,4 | -2,4 | 0,0 |
 | Öppen förskola | -5,0 | -5,0 | -5,1 | -0,1 |
 | Förskola | -604,4 | -608,5 | -606,1 | 2,4 |
 | Pedagogisk omsorg | -8,6 | -9,3 | -7,8 | 1,5 |
@@ -2799,7 +2799,7 @@ Antal elever i fritidshem 2025
 | Pedagogisk omsorg<br>fristående verksamhet | 30 | 31 | 1 |
 | Totalt | 4 370 | 4 282 | -88 |
 
-[Tabell 62-2](handlingar.tabeller/62-2.csv)
+[Tabell 62-63-2](handlingar.tabeller/62-63-2.csv)
 
 | Antal elever på<br>fritidshem 2025 | Budget | Utfall | Avvikelse |
 | --- | --- | --- | --- |
@@ -2810,6 +2810,7 @@ Antal elever i fritidshem 2025
 | Pedagogisk omsorg<br>kommunal verksamhet | 11 | 8 | -3 |
 | Pedagogisk omsorg i<br>kommunal verksamhet,<br>folkbokförd i andra<br>kommuner (såld plats) | 0 | 0 | 0 |
 | Pedagogisk omsorg<br>fristående verksamhet | 11 | 10 | -1 |
+| Totalt | 4 885 | 4 892 | 7 |
 
 <!-- sida 63 -->
 
@@ -2843,12 +2844,6 @@ Kostnadernas förändring i sammandrag är följande.
 
 [Tabell 63-1](handlingar.tabeller/63-1.csv)
 
-| Antal elever på<br>fritidshem 2025 | Budget | Utfall | Avvikelse |
-| --- | --- | --- | --- |
-| Totalt | 4 885 | 4 892 | 7 |
-
-[Tabell 63-2](handlingar.tabeller/63-2.csv)
-
 | Antal elever i<br>grundskola och<br>förskoleklass 2025 | Budget | Utfall | Avvikelse |
 | --- | --- | --- | --- |
 | Kommunal verksamhet | 9 643 | 9 389 | -254 |
@@ -2857,7 +2852,7 @@ Kostnadernas förändring i sammandrag är följande.
 | Fristående verksamhet | 2 190 | 2 219 | 29 |
 | Totalt | 11 723 | 11 517 | -206 |
 
-[Tabell 63-3](handlingar.tabeller/63-3.csv)
+[Tabell 63-2](handlingar.tabeller/63-2.csv)
 
 | Antal elever i anpassad<br>grundskola 2025 | Budget | Utfall | Avvikelse |
 | --- | --- | --- | --- |
@@ -6020,7 +6015,7 @@ arbete med att organisera insatser och resursstyrning framåt.
 
 9
 
-[Tabell 158-1](handlingar.tabeller/158-1.csv)
+[Tabell 158-159-1](handlingar.tabeller/158-159-1.csv)
 
 | Risker | Enhet Granskningsaktiviteter | Åtgärder |
 | --- | --- | --- |
@@ -6031,6 +6026,10 @@ arbete med att organisera insatser och resursstyrning framåt.
 |  |  | Fördjupad kartläggning<br>av<br>utbetalningsprocessen till<br>fristående huvudmän |
 |  |  | Rutin för hantering av<br>incidenter kopplat till<br>välfärdsbrottslighet och<br>liknande |
 | Risk att anmäld<br>misstänkt kränkande | Kontroll av om misstänkt<br>Förskola & Grundskola<br>kränkande behandling | Regelbunden uppföljning<br>och dialog med skolor |
+| behandling inte utreds<br>skyndsamt i tillräcklig<br>omfattning. | utreds skyndsamt | Riktad information kring<br>ärendehantering,<br>handläggning och<br>kunskap om digitalt<br>verktyg |
+| Risk att insatser i<br>åtgärdsprogram inte<br>motsvarar elevens<br>stödbehov | Granskning om insatser i<br>åtgärdsprogram<br>Förskola & Grundskola<br>motsvarar elevens<br>stödbehov. | Inventering av hur<br>skolenheterna<br>organiserat sitt arbete<br>med särskilt stöd |
+|  |  | Kompetenshöjande<br>insatser kring särskilt<br>stöd |
+|  |  | Organisera<br>huvudmannens stöd till<br>verksamheten i frågor<br>kring särskilt stöd |
 
 <!-- sida 159 -->
 
@@ -6064,15 +6063,6 @@ avseende efterlevnad av miljöbalkens regler med avseende på hälsa och miljö.
 
 10
 
-[Tabell 159-1](handlingar.tabeller/159-1.csv)
-
-| Risker | Enhet Granskningsaktiviteter | Åtgärder |
-| --- | --- | --- |
-| behandling inte utreds<br>skyndsamt i tillräcklig<br>omfattning. | utreds skyndsamt | Riktad information kring<br>ärendehantering,<br>handläggning och<br>kunskap om digitalt<br>verktyg |
-| Risk att insatser i<br>åtgärdsprogram inte<br>motsvarar elevens<br>stödbehov | Granskning om insatser i<br>åtgärdsprogram<br>Förskola & Grundskola<br>motsvarar elevens<br>stödbehov. | Inventering av hur<br>skolenheterna<br>organiserat sitt arbete<br>med särskilt stöd |
-|  |  | Kompetenshöjande<br>insatser kring särskilt<br>stöd |
-|  |  | Organisera<br>huvudmannens stöd till<br>verksamheten i frågor<br>kring särskilt stöd |
-
 <!-- sida 160 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
@@ -6085,6 +6075,12 @@ när skötseln av en kommunal angelägenhet har lämnats över till någon annan
 Med privata utförare avses utförare som har hand om skötseln av en kommunal angelägenhet (KL kap 10). Som
 privat utförare räknas inte hel- eller delägda kommunala bolag, eller stiftelse eller förening som bildats av
 kommunen eller regionen.
+
+Andel av        Kostnad för
+Verksamhet
+verksamhetsvolym % verksamhet mnkr
+Bokslut Bokslut Bokslut Bokslut
+2024    2025    2024    2025
 
 Andelen verksamhet som utförs av privata utförare ökar 2025 jämfört med 2024. Det beror huvudsakligen på att
 den kommunala verksamheten minskar på grund av minskade barn- och elevtal. I den fristående verksamheten
@@ -6107,13 +6103,11 @@ utvecklats med vårdnadshavarenkät och e-tjänst.
 
 [Tabell 160-1](handlingar.tabeller/160-1.csv)
 
-| Verksamhet<br>Förskola | Andel av<br>verksamhetsvolym %<br>Bokslut Bokslut<br>2024 2025<br>16,3 % 16,9 % |  | Kostnad för<br>verksamhet mnkr<br>Bokslut Bokslut<br>2024 2025<br>106,4 110,7 |  |
+| Förskola | 16,3 % | 16,9 % | 106,4 | 110,7 |
 | --- | --- | --- | --- | --- |
 | Pedagogisk omsorg | 48,7 % | 55,3 % | 4,2 | 4,2 |
 | Fritidshem | 17,7 % | 19,0 % | 49,1 | 54,5 |
 | Förskoleklass, grundskola, anpassad grundskola | 15,3 % | 16,0 % | 215,4 | 227,5 |
-|  |  |  |  |  |
-|  |  |  |  |  |
 
 <!-- sida 161 -->
 
@@ -6200,7 +6194,7 @@ Nämndens självskattning
 
 14
 
-[Tabell 163-1](handlingar.tabeller/163-1.csv)
+[Tabell 163-164-1](handlingar.tabeller/163-164-1.csv)
 
 | Område<br>Uppdrag och mål | Frågor Svar 2025<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
 | --- | --- |
@@ -6217,6 +6211,11 @@ Nämndens självskattning
 |  | Riskanalysen är underlag för åtgärder och<br>granskningar |
 | Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
 |  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
+| Område<br>Uppföljning | Frågor Svar 2025<br>Åtgärder vidtas vid konstaterade avvikelser |
+|  | Återkoppling sker till förvaltningsledningen |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
+| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |
 
 <!-- sida 164 -->
 
@@ -6224,15 +6223,6 @@ Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Internkontrollrapport 2025 -
 
 15
-
-[Tabell 164-1](handlingar.tabeller/164-1.csv)
-
-| Område<br>Uppföljning | Frågor Svar 2025<br>Åtgärder vidtas vid konstaterade avvikelser |
-| --- | --- |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
 
 <!-- sida 165 -->
 
@@ -7411,13 +7401,16 @@ Fakta om skolenheten
 Redogör för antal elever inom varje årskurs detta läsår. Lämna uppgifterna
 i nedanstående tabell. Lämna blankt för de årskurser ni eventuellt inte
 
-[Tabell 190-1](handlingar.tabeller/190-1.csv)
+[Tabell 190-191-1](handlingar.tabeller/190-191-1.csv)
 
 | bedriver verksa<br>Årskurs | mhet inom.<br>Totalt antal elever |  | Antal<br>nyanlända<br>elever | Antal individintegrerade<br>elever som tillhör<br>anpassad grundskola |
 | --- | --- | --- | --- | --- |
 |  | Flickor | Pojkar |  |  |
 | 6 |  |  |  |  |
 | 7 |  |  |  |  |
+| 8 |  |  |  |  |
+| 9 |  |  |  |  |
+| Totalt |  |  |  |  |
 
 <!-- sida 191 -->
 
@@ -7452,13 +7445,6 @@ Svar:
 4\. Beskriv personalens möjligheter till kompetensutveckling.
 
 Svar:
-
-[Tabell 191-1](handlingar.tabeller/191-1.csv)
-
-| 8 |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| 9 |  |  |  |  |
-| Totalt |  |  |  |  |
 
 <!-- sida 192 -->
 
@@ -7835,26 +7821,42 @@ om en elev utsätts för kränkande behandling (5 kap. 6 §, 6 kap. 5 och 10
 
 Redogörelse för verksamhetens åtgärder
 
-[Tabell 202-1](handlingar.tabeller/202-1.csv)
+Aktivitet                                      Hur           När
 
-| Aktivitet | Hur | När |
-| --- | --- | --- |
-| All personal informeras om att var och en som verkar inom<br>utbildningen aktivt ska motverka alla former av kränkande<br>behandling samt om att en anmälan till rektor ska göras varje gång | APT<br>APT | 251120<br>260121 |
+All personal informeras om att var och en som verkar inom APT 251120
+utbildningen aktivt ska motverka alla former av kränkande
+APT           260121
+behandling samt om att en anmälan till rektor ska göras varje gång
 
 <!-- sida 203 -->
 
 KUNGSBACKA  KOMMUN
 4 (4)
 
-[Tabell 203-1](handlingar.tabeller/203-1.csv)
+en elev anser sig ha blivit utsatt för kränkande behandling i samband
 
-| en elev anser sig ha blivit utsatt för kränkande behandling i samband<br>med verksamheten enligt skolans rutiner. |  |  |
-| --- | --- | --- |
-| All personal dvs alla lärare och annan personal som får kännedom<br>om att en elev anser sig ha blivit utsatt för kränkande behandling i<br>samband med verksamheten anmäler detta till rektorn. Detta innebär<br>även att all personal ska motverka kränkande behandling av elever<br>genom att agera om en elev utsätts för kränkande behandling enligt<br>skolans rutiner | APT<br>APT | 251120<br>260121 |
-| Involvera eleverna I arbetet mot kränkande behandling. Ansvariga<br>pedagoger tar upp detta med elevrådet. | Elevråd | VT2026 |
-| Föreläsning av Myndighet och stöd kring kränkande behandling för<br>samtlig personal. | Föreläsning | 15 juni |
-| Process med samtliga professioner pågår för att förtydliga rutinerna. | Elevhälsoteam<br>Trygghetsteam<br>Elevråd<br>Kollegiet via<br>Teams | Pågår |
-| Information och samtal gällande kränkande behandling mellan<br>vårdnadshavare, rektorer och personal från skolan trygghetsteam. | Föräldrasamverkan | 260225 |
+med verksamheten enligt skolans rutiner.
+All personal dvs alla lärare och annan personal som får kännedom APT 251120
+om att en elev anser sig ha blivit utsatt för kränkande behandling i
+APT           260121
+samband med verksamheten anmäler detta till rektorn. Detta innebär
+även att all personal ska motverka kränkande behandling av elever
+genom att agera om en elev utsätts för kränkande behandling enligt
+skolans rutiner
+Involvera eleverna I arbetet mot kränkande behandling. Ansvariga Elevråd VT2026
+pedagoger tar upp detta med elevrådet.
+
+Föreläsning av Myndighet och stöd kring kränkande behandling för Föreläsning 15 juni
+samtlig personal.
+Process med samtliga professioner pågår för att förtydliga rutinerna. Elevhälsoteam Pågår
+Trygghetsteam
+
+Elevråd
+Kollegiet via
+Teams
+
+Information och samtal gällande kränkande behandling mellan Föräldrasamverkan 260225
+vårdnadshavare, rektorer och personal från skolan trygghetsteam.
 
 <!-- sida 204 -->
 

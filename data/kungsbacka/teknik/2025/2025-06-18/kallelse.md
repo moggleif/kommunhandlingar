@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7f17e7f7197627ca5f9e16a/17497375819
 sha256: b71d8353d83a80418bb77409ce47e3b6ec93379d6a108e7882d5bf7b998e8a50
 bytes: 217094
 sidor: 6
-hamtad: 2026-10-08T00:45:09+00:00
-konverterad: 2026-10-08T00:45:16+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T08:38:13+00:00
+konverterad: 2026-10-14T08:38:20+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, tabell-osaker, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -53,7 +53,7 @@ KUNGSBACKA  KOMMUN
 
 2(6)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-3-1](kallelse.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -62,6 +62,10 @@ KUNGSBACKA  KOMMUN
 | 5. | Information om Runsås<br>reningsverk | TE-2025-<br>00007,<br>Föredragande:<br>Mathias<br>Pedersen &<br>Hannes<br>Rydberg,<br>17:55 – 18:25 | Nämnden för Teknik noterar informationen till<br>protokollet. |
 | 6. | Vatten & Avloppstaxa 2026 | TE-2025-<br>00171,<br>Föredragande:<br>Mathias<br>Pedersen,<br>18:25 – 18:40 | Nämnden för Teknik noterar informationen till<br>protokollet. |
 | 7. | Arkivmyndighetens riktade<br>tillsyn 2025 - Efterlevnad av<br>informationshanteringsplan | TE-2025-<br>00059,<br>Föredragande:<br>Emma<br>Grundström,<br>18:40 – 18:55 | Nämnden för Teknik noterar informationen till<br>protokollet. |
+| 8. | Informationsredovisning,<br>Nämnden för Teknik | TE-2025-<br>00332,<br>Föredragande:<br>Emma<br>Grundström,<br>18:55 – 19:00 | Nämnden för Teknik antar Klassificeringsstruktur,<br>Nämnden för Teknik daterad 2025-05-20.<br>Nämnden för Teknik antar<br>Informationshanteringsplan, Nämnden för Teknik<br>daterad 2025-05-20.<br>Nämnden för Teknik antar<br>Informationsredovisning, Nämnden för Teknik<br>daterad 2025-05-20.<br>Klassificeringsstruktur, Nämnden för Teknik,<br>version 2, antagen av nämnden för Teknik 2023-<br>05-17 § 65 upphör samtidigt att gälla.<br>Informationshanteringsplan, Nämnden för Teknik,<br>version 2, antagen av nämnden för Teknik 2023-<br>05-17 § 65 upphör samtidigt att gälla.<br>Informationsbeskrivning, Nämnden för Teknik,<br>antagen av nämnden för Teknik 2022-12-14 § 130<br>upphör samtidigt att gälla. |
+| 9. | Framtidens avloppsrening i<br>Kungsbacka | TE-2018-<br>00895,<br>Föredragande:<br>Joakim Ekberg<br>& Catarina<br>Sundberg,<br>19:15 – 19:35 | Nämnden för Teknik noterar informationen till<br>protokollet. |
+| 10. | Projektredovisning - juni 2025 | TE-2025-<br>00503,<br>Föredragande:<br>Jannike Berg,<br>19:35 – 19:55 | Nämnden för Teknik noterar informationen till<br>protokollet. |
+| 11. | Information om förvaltningens<br>arbete kring säkerhet, kris- och<br>beredskap | TE-2025-<br>00528,<br>Föredragande:<br>Mats Kivi,<br>19:55 – 20:15 | Nämnden för Teknik noterar informationen till<br>protokollet. |
 
 <!-- sida 3 -->
 
@@ -69,30 +73,57 @@ KUNGSBACKA  KOMMUN
 
 3(6)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Informationsredovisning,<br>Nämnden för Teknik | TE-2025-<br>00332,<br>Föredragande:<br>Emma<br>Grundström,<br>18:55 – 19:00 | Nämnden för Teknik antar Klassificeringsstruktur,<br>Nämnden för Teknik daterad 2025-05-20.<br>Nämnden för Teknik antar<br>Informationshanteringsplan, Nämnden för Teknik<br>daterad 2025-05-20.<br>Nämnden för Teknik antar<br>Informationsredovisning, Nämnden för Teknik<br>daterad 2025-05-20.<br>Klassificeringsstruktur, Nämnden för Teknik,<br>version 2, antagen av nämnden för Teknik 2023-<br>05-17 § 65 upphör samtidigt att gälla.<br>Informationshanteringsplan, Nämnden för Teknik,<br>version 2, antagen av nämnden för Teknik 2023-<br>05-17 § 65 upphör samtidigt att gälla.<br>Informationsbeskrivning, Nämnden för Teknik,<br>antagen av nämnden för Teknik 2022-12-14 § 130<br>upphör samtidigt att gälla. |
-| 9. | Framtidens avloppsrening i<br>Kungsbacka | TE-2018-<br>00895,<br>Föredragande:<br>Joakim Ekberg<br>& Catarina<br>Sundberg,<br>19:15 – 19:35 | Nämnden för Teknik noterar informationen till<br>protokollet. |
-| 10. | Projektredovisning - juni 2025 | TE-2025-<br>00503,<br>Föredragande:<br>Jannike Berg,<br>19:35 – 19:55 | Nämnden för Teknik noterar informationen till<br>protokollet. |
-| 11. | Information om förvaltningens<br>arbete kring säkerhet, kris- och<br>beredskap | TE-2025-<br>00528,<br>Föredragande:<br>Mats Kivi,<br>19:55 – 20:15 | Nämnden för Teknik noterar informationen till<br>protokollet. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(6)
 
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
+Ärende                Beteckning Förslag
 
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 12. | Omfördelning av<br>Underportföljer 2025 | TE-2025-<br>00505,<br>Föredragande:<br>Catarina<br>Sundberg,<br>20:15 – 20:25 | Nämnden för Teknik beslutar att för 2025<br>omfördela medel inom investeringsbudget för VA<br>mellan underportföljer enligt nedanstående:<br>Portfölj - Procentuell fördelning av tillgängliga<br>medel år 2025<br>VA Teknik - 0,7%<br>Vattenproduktion – VA - 3,7%<br>VA- ledningsnät - 61,7%<br>Avloppsrening - 10,6%<br>VA-omvandling - 12,2%<br>Exploatering - 11,0% |
-| 13. | Omfördelning av medel mellan<br>investeringsprojekt - skatt<br>tillfälle 2, 2025 | TE-2025-<br>00467,<br>Föredragande:<br>Emir Halalkic,<br>20:25 – 20:30 | Nämnden för Teknik beslutar att omfördela medel<br>mellan underportföljer enligt tabell 3 i<br>tjänsteskrivelse daterad 2025-05-20. |
-| 14. | Regional cykelplan 2026–2035 | TE-2025-<br>00413,<br>Föredragande:<br>Emir Halalkic<br>20:30 – 20:35 | Nämnden för Teknik beslutar att spela in objekt<br>enligt modell A nedan till den regionala<br>cykelplanen för perioden 2026–2035. |
-| 15. | Detaljplaneläggning av<br>Kungsgatan för att möjliggöra<br>fyra körfält | TE-2025-<br>00385,<br>Föredragande:<br>Emir Halalkic<br>20:35 – 20:40 | Nämnden för Teknik beslutar att hos<br>Kommunstyrelsen begära detaljplaneläggning av<br>Kungsgatan, delen Varlavägen - Onsalavägen, för<br>att möjliggöra fyra körfält. |
-| 16. | Granskningsutskick - Detaljplan<br>för breddning av Varlavägen<br>inom Varla 2:198 m fl, BN<br>2019-00016 | TE-2025-<br>00376,<br>20:40 – 20:45 | Nämnden för Teknik godkänner redovisningen av<br>delegeringsbeslut från ordförande<br>Monica Neptun (L) på grund av brådskande<br>ärende.<br>Beslutet är fattat 2025-05-19 med stöd av<br>delegering. Nämnden för Tekniks<br>delegeringsförteckning: punkt 3.2, 2024-09-25, §<br>94. |
+12\. Omfördelning av       TE-2025-   Nämnden för Teknik beslutar att för 2025
+Underportföljer 2025  00505,     omfördela medel inom investeringsbudget för VA
+Föredragande: mellan underportföljer enligt nedanstående:
+Catarina
+Portfölj - Procentuell fördelning av tillgängliga
+Sundberg,
+medel år 2025
+20:15 – 20:25
+VA Teknik - 0,7%
+Vattenproduktion – VA - 3,7%
+VA- ledningsnät - 61,7%
+Avloppsrening - 10,6%
+VA-omvandling - 12,2%
+Exploatering - 11,0%
+13\. Omfördelning av medel mellan TE-2025- Nämnden för Teknik beslutar att omfördela medel
+investeringsprojekt - skatt 00467, mellan underportföljer enligt tabell 3 i
+tillfälle 2, 2025     Föredragande: tjänsteskrivelse daterad 2025-05-20.
+Emir Halalkic,
+20:25 – 20:30
+
+14\. Regional cykelplan 2026–2035 TE-2025- Nämnden för Teknik beslutar att spela in objekt
+
+00413,     enligt modell A nedan till den regionala
+Föredragande: cykelplanen för perioden 2026–2035.
+Emir Halalkic
+20:30 – 20:35
+
+15\. Detaljplaneläggning av TE-2025-  Nämnden för Teknik beslutar att hos
+Kungsgatan för att möjliggöra 00385, Kommunstyrelsen begära detaljplaneläggning av
+fyra körfält          Föredragande: Kungsgatan, delen Varlavägen - Onsalavägen, för
+Emir Halalkic att möjliggöra fyra körfält.
+20:35 – 20:40
+
+16\. Granskningsutskick - Detaljplan TE-2025- Nämnden för Teknik godkänner redovisningen av
+för breddning av Varlavägen 00376, delegeringsbeslut från ordförande
+inom Varla 2:198 m fl, BN 20:40 – 20:45 Monica Neptun (L) på grund av brådskande
+2019-00016                       ärende.
+
+Beslutet är fattat 2025-05-19 med stöd av
+delegering. Nämnden för Tekniks
+delegeringsförteckning: punkt 3.2, 2024-09-25, §
+
+94\.
 
 <!-- sida 5 -->
 

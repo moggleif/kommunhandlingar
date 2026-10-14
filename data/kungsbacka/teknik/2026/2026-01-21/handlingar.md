@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6d61586419bc36939b21190b/1768548799
 sha256: 3bfe2bd61a2006a1dd092f77cf1374b00d3cf2ae7896929b965d93b22c1441b8
 bytes: 6800302
 sidor: 91
-hamtad: 2026-10-08T01:26:46+00:00
-konverterad: 2026-10-08T01:27:12+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:12:15+00:00
+konverterad: 2026-10-14T09:12:41+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [2, 32, 33, 34, 35]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -31,7 +31,7 @@ Budget Budget Plan Plan  Plan Utblick Utblick Utblick Utblick Utblick Utblick
 Budget Utfall ack
 Projekt                      2025 2025-09-25                                                                                 Kommentar
 520 Avfall & Återvinning
-552D Återvinningsstationer     1 000       5 00   5 00  5 00  5 00  5 00  5 00  5 00  500   500  500   500 Eventuella markarbeten då ÅVS behöver flyttas. Investeringar i behållare.
+552D Återvinningsstationer     1 000       500    500   500   500   500   500   500   500   500  500   500 Eventuella markarbeten då ÅVS behöver flyttas. Investeringar i behållare.
 5529 ÅVC och omlastning, reinvsteringar 1 500 156 1 500 1 500 1 500 1 500 1 500 1 500 1 500 1 500 1 500 1 500 1 500 Löpande reinvesteringar i gamla anläggningar samt verksamhetsanpassningar på omlastningen.
 Ny ÅVC Frillesås. Objekten Frillesås, Klovsten och ÅVC Volym har varsin rad här, men gemensam
 552A Ny ÅVC Frillesås samt information kring framtida ÅVC 10 000 10 000 20 000 10 000                    behovsbeskrivning.
@@ -228,7 +228,7 @@ Totalt 514 VA-omvandling                 63 470,0 59 100,0 64 400,0 39 200,0 1 8
 
 <!-- sida 9 -->
 
-[Tabell 9-1](handlingar.tabeller/9-1.csv)
+[Tabell 9-10-1](handlingar.tabeller/9-10-1.csv)
 
 | Underportfölj | Projekt nummer | Projekt | Konto Inkomst/ Utgift | Budget 2026 | Behov 2027 | Sannolikhet<br>% | Budget 2027 | Plan<br>2028 | Plan<br>2029 | Plan<br>2030 | Plan<br>2031 | Utblick<br>2032 | Utblick<br>2033 | Utblick<br>2034 | Utblick<br>2035 | Utblick<br>2036 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -295,15 +295,7 @@ Totalt 514 VA-omvandling                 63 470,0 59 100,0 64 400,0 39 200,0 1 8
 | 515 VA Exploatering |  | VEXP Verksamhetsområde Klovsten IN | 3 Inkomst/intäkt |  |  | 40% | 0 | -5 000 | -15 000 | -11 000 |  |  |  |  |  |  |
 | 515 VA Exploatering |  | VEXP Verksamhetsområde Klovsten UT | 4 Utgift/kostnad |  |  | 40% | 0 | 10 000 | 20 000 | 12 000 |  |  |  |  |  |  |
 | 515 VA Exploatering |  | VEXP Norra Voxlöv IN | 3 Inkomst/intäkt |  |  | 40% | 0 |  |  | -9 000 | -9 000 | -9 000 |  |  |  |  |
-
-<!-- sida 10 -->
-
-515 VA Exploatering   Totalt 515 Exploateringsprojekt VA (KLK) 25 500,0 111 850,0 44 740,0 57 839,0 77 830,0 57 640,0 104 140,0 51 000,0 -14 000,0 -19 000,0 -5 000,0 -11 000,0
-
-[Tabell 10-1](handlingar.tabeller/10-1.csv)
-
 | 515 VA Exploatering |  | VEXP Norra Voxlöv UT | 4 Utgift/kostnad |  |  | 40% | 0 |  | 5 640 | 28 260 | 28 260 |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 515 VA Exploatering |  | VEXP Åsa 4:146 och 4:151 IN | 3 Inkomst/intäkt |  |  | 40% | 0 | -2 900 |  |  |  |  |  |  |  |  |
 | 515 VA Exploatering |  | VEXP Åsa 4:146 och 4:151 UT | 4 Utgift/kostnad |  | 200 | 40% | 80 |  |  |  |  |  |  |  |  |  |
 | 515 VA Exploatering |  | VEXP Åsa 5:246 IN | 3 Inkomst/intäkt |  | -500 | 40% | -200 |  |  |  |  |  |  |  |  |  |
@@ -355,6 +347,10 @@ Totalt 514 VA-omvandling                 63 470,0 59 100,0 64 400,0 39 200,0 1 8
 | Summa IN tot 515 VA Exploatering |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Summa UT tot 515 VA Exploatering |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Summa tot 515 VA Exploatering |  |  |  |  | 111850 |  | 44 740 |  |  |  |  |  |  |  |  |  |
+
+<!-- sida 10 -->
+
+515 VA Exploatering   Totalt 515 Exploateringsprojekt VA (KLK) 25 500,0 111 850,0 44 740,0 57 839,0 77 830,0 57 640,0 104 140,0 51 000,0 -14 000,0 -19 000,0 -5 000,0 -11 000,0
 
 <!-- sida 11 -->
 
@@ -577,7 +573,7 @@ Alternativ 2a
 
 Alternativ 2b
 
-[Tabell 14-1](handlingar.tabeller/14-1.csv)
+[Tabell 14-15-1](handlingar.tabeller/14-15-1.csv)
 
 | Projekttyp | Portfölj | Genomsnittlig<br>avskrivningstid<br>(år) | Projektnummer | Projektbenämning | Totalt<br>investerings-<br>anslag<br>2027-2036 | För beslut<br>2027 | Plan<br>2028 | Plan<br>2029 | Plan<br>2030 | Plan<br>2031 | Utblick<br>2032 | Utblick<br>2033 | Utblick<br>2034 | Utblick<br>2035 | Utblick<br>2036 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -642,15 +638,6 @@ Alternativ 2b
 | Övriga investeringar | 531 Skog och park | 18 | NY | Åsa dagvattensystem | 6 000 | 5 000 | 1 000 |  |  |  |  |  |  |  |  |
 | SUMMA ÖVRIGA INVESTERINGAR |  |  |  |  | 625 490 | 102 050 | 115 800 | 83 000 | 71 500 | 23 350 | 9 930 | 89 610 | 76 750 | 46 750 | 6 750 |
 | TOTALSUMMA |  |  |  |  | 1 078 890 | 141 900 | 165 650 | 132 250 | 125 150 | 74 100 | 53 580 | 131 960 | 118 100 | 88 100 | 48 100 |
-
-<!-- sida 15 -->
-
-Alternativ 3a
-
-[Tabell 15-1](handlingar.tabeller/15-1.csv)
-
-| Projekttyp | Portfölj | Genomsnittlig<br>avskrivningstid<br>(år) | Projektnummer | Projektbenämning | Totalt<br>investerings-<br>anslag<br>2027-2036 | För beslut<br>2027 | Plan<br>2028 | Plan<br>2029 | Plan<br>2030 | Plan<br>2031 | Utblick<br>2032 | Utblick<br>2033 | Utblick<br>2034 | Utblick<br>2035 | Utblick<br>2036 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Löpande investeringar | 532 Löpande investeringar | 5 | 3501 | System 5 år | 2 500 | 250 | 250 | 250 | 250 | 250 | 250 | 250 | 250 | 250 | 250 |
 | Löpande investeringar | 532 Löpande investeringar | 5 | 3549 | Teknikens hus | 2 500 | 250 | 250 | 250 | 250 | 250 | 250 | 250 | 250 | 250 | 250 |
 | Löpande investeringar | 532 Löpande investeringar | 8 | 3574 | Fordon | 80 000 | 8 000 | 8 000 | 8 000 | 8 000 | 8 000 | 8 000 | 8 000 | 8 000 | 8 000 | 8 000 |
@@ -712,6 +699,10 @@ Alternativ 3a
 | Övriga investeringar | 531 Skog och park | 18 | NY | Åsa dagvattensystem | 6 000 |  | 5 000 | 1 000 |  |  |  |  |  |  |  |
 | SUMMA ÖVRIGA INVESTERINGAR |  |  |  |  | 625 490 | 60 150 | 73 800 | 104 600 | 107 000 | 34 550 | 25 530 | 89 610 | 76 750 | 46 750 | 6 750 |
 | TOTALSUMMA |  |  |  |  | 1 072 990 | 96 000 | 119 150 | 150 150 | 152 650 | 80 400 | 71 380 | 135 460 | 122 600 | 92 600 | 52 600 |
+
+<!-- sida 15 -->
+
+Alternativ 3a
 
 <!-- sida 16 -->
 
@@ -1512,7 +1503,7 @@ Underlag till Kommunbudget 2027
 
 11
 
-[Tabell 38-1](handlingar.tabeller/38-1.csv)
+[Tabell 38-39-1](handlingar.tabeller/38-39-1.csv)
 
 | Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i %<br>- Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | A |  |  |
 | --- | --- | --- | --- |
@@ -1528,6 +1519,8 @@ Underlag till Kommunbudget 2027
 | Ekologisk status i Kungsbackafjorden (VISS) | B |  | verkar inte ha fyllts i av<br>någon på senare år? |
 | Vattendrag med god ekologisk status, andel<br>(Kolada) | B |  | verkar inte ha fyllts i av<br>någon på senare år? |
 | Andelen återbrukade möbler | B |  | Svår att beräkna exakt men<br>det kanske heller inte<br>behöver göras? |
+| Total debiterad vattenförbrukning fördelat på antal<br>anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn | A | MINSKA |  |
+| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn | A | MINSKA |  |
 
 <!-- sida 39 -->
 
@@ -1544,12 +1537,6 @@ I KUNGSBACKA UTVECKLAS VI HELA LIVET- FOKUSOMRÅDEN
 
 [Tabell 39-1](handlingar.tabeller/39-1.csv)
 
-| Total debiterad vattenförbrukning fördelat på antal<br>anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn | A | MINSKA |  |
-| --- | --- | --- | --- |
-| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn | A | MINSKA |  |
-
-[Tabell 39-2](handlingar.tabeller/39-2.csv)
-
 | Förslag till nya fokusområden | Ta bort fokusområden |
 | --- | --- |
 |  |  |
@@ -1557,7 +1544,7 @@ I KUNGSBACKA UTVECKLAS VI HELA LIVET- FOKUSOMRÅDEN
 |  |  |
 |  |  |
 
-[Tabell 39-3](handlingar.tabeller/39-3.csv)
+[Tabell 39-2](handlingar.tabeller/39-2.csv)
 
 | Indikator | Utvärde<br>ra A, B,<br>C | Målsättning<br>2027<br>(öka/minsk<br>a) | Kommentar nya förslag |
 | --- | --- | --- | --- |
@@ -1568,7 +1555,7 @@ I KUNGSBACKA UTVECKLAS VI HELA LIVET- FOKUSOMRÅDEN
 | Företagsamhet, andel av invånare 16–74 år | A | ÖKA |  |
 | Antal nystartade företag per 1 000 invånare 16–64<br>år (etableringsfrekvens) | A | ÖKA |  |
 
-[Tabell 39-4](handlingar.tabeller/39-4.csv)
+[Tabell 39-3](handlingar.tabeller/39-3.csv)
 
 | Förslag till nya fokusområden | Ta bort fokusområden |
 | --- | --- |
@@ -3377,7 +3364,7 @@ Södra Nygatan
 Parkgatan
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 5 (11)
 
-[Tabell 82-1](handlingar.tabeller/82-1.csv)
+[Tabell 82-84-1](handlingar.tabeller/82-84-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för beslutet |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3402,6 +3389,43 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 5
 |  |  |  |  | 2025-12-23 | 1384 2025-00397 |
 |  |  |  |  | 2025-12-23 | 1384 2025-00398 |
 |  |  |  |  | 2025-12-23 | 1384 2025-00399 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00400 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00401 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00402 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00403 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00404 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00405 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00406 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00407 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00408 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00409 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00410 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00411 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00412 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00413 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00414 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00415 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00416 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00417 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00418 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00422 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00423 |
+|  |  |  |  | 2025-12-23 | 1384 2025-00424 |
+|  |  |  |  | 2025-12-29 | 1384 2025-00427 |
+|  |  |  |  | 2025-12-29 | 1384 2025-00428 |
+|  |  |  |  | 2025-12-29 | 1384 2025-00429 |
+|  |  |  |  | 2025-12-29 | 1384 2025-00430 |
+|  |  |  |  | 2025-12-29 | 1384 2025-00431 |
+|  |  |  |  | 2025-12-29 | 1384 2025-00432 |
+|  |  |  |  | 2025-12-29 | 1384 2025-00433 |
+|  |  |  |  | 2025-12-29 | 1384 2025-00434 |
+|  |  |  |  | 2025-12-29 | 1384 2025-00435 |
+|  |  |  |  | 2025-12-30 | 1384 2025-00436 |
+|  |  |  |  | 2025-12-30 | 1384 2025-00437 |
+|  |  |  |  | 2025-12-30 | 1384 2025-00438 |
+|  |  |  |  | 2025-12-30 | 1384 2025-00439 |
+|  |  |  |  |  |  |
+| 2.4.8 | 13 kap. 3 § trafikförordningen (1998:1276)<br>4 kap. 12 §, 15 §, 17 § trafikförordningen<br>(1998:1276) | Beslut till transportör och yttrande till Trafikverket om undantag<br>från bestämmelserna om största tillåtna fordonsbredd, -längd och -<br>vikt | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör | 2 beslut till transportör och 0 yttrande till<br>Trafikverket. |  |
 
 <!-- sida 83 -->
 
@@ -3444,40 +3468,6 @@ Varbergsvägen
 Kungsgatan
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 6 (11)
 
-[Tabell 83-1](handlingar.tabeller/83-1.csv)
-
-|  |  |  |  | 2025-12-23 | 1384 2025-00400 |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  | 2025-12-23 | 1384 2025-00401 |
-|  |  |  |  | 2025-12-23 | 1384 2025-00402 |
-|  |  |  |  | 2025-12-23 | 1384 2025-00403 |
-|  |  |  |  | 2025-12-23 | 1384 2025-00404 |
-|  |  |  |  | 2025-12-23 | 1384 2025-00405 |
-|  |  |  |  | 2025-12-23 | 1384 2025-00406 |
-|  |  |  |  | 2025-12-23 | 1384 2025-00407 |
-|  |  |  |  | 2025-12-23 | 1384 2025-00408 |
-|  |  |  |  | 2025-12-23 | 1384 2025-00409 |
-|  |  |  |  | 2025-12-23 | 1384 2025-00410 |
-|  |  |  |  | 2025-12-23 | 1384 2025-00411 |
-|  |  |  |  | 2025-12-23 | 1384 2025-00412 |
-|  |  |  |  | 2025-12-23 | 1384 2025-00413 |
-|  |  |  |  | 2025-12-23 | 1384 2025-00414 |
-|  |  |  |  | 2025-12-23 | 1384 2025-00415 |
-|  |  |  |  | 2025-12-23 | 1384 2025-00416 |
-|  |  |  |  | 2025-12-23 | 1384 2025-00417 |
-|  |  |  |  | 2025-12-23 | 1384 2025-00418 |
-|  |  |  |  | 2025-12-23 | 1384 2025-00422 |
-|  |  |  |  | 2025-12-23 | 1384 2025-00423 |
-|  |  |  |  | 2025-12-23 | 1384 2025-00424 |
-|  |  |  |  | 2025-12-29 | 1384 2025-00427 |
-|  |  |  |  | 2025-12-29 | 1384 2025-00428 |
-|  |  |  |  | 2025-12-29 | 1384 2025-00429 |
-|  |  |  |  | 2025-12-29 | 1384 2025-00430 |
-|  |  |  |  | 2025-12-29 | 1384 2025-00431 |
-|  |  |  |  | 2025-12-29 | 1384 2025-00432 |
-|  |  |  |  | 2025-12-29 | 1384 2025-00433 |
-|  |  |  |  | 2025-12-29 | 1384 2025-00434 |
-
 <!-- sida 84 -->
 
 Hålabäcksvägen
@@ -3489,30 +3479,52 @@ Syréngatan
 
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 7 (11)
 
-[Tabell 84-1](handlingar.tabeller/84-1.csv)
-
-|  |  |  |  | 2025-12-29 | 1384 2025-00435 |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  | 2025-12-30 | 1384 2025-00436 |
-|  |  |  |  | 2025-12-30 | 1384 2025-00437 |
-|  |  |  |  | 2025-12-30 | 1384 2025-00438 |
-|  |  |  |  | 2025-12-30 | 1384 2025-00439 |
-|  |  |  |  |  |  |
-| 2.4.8 | 13 kap. 3 § trafikförordningen (1998:1276)<br>4 kap. 12 §, 15 §, 17 § trafikförordningen<br>(1998:1276) | Beslut till transportör och yttrande till Trafikverket om undantag<br>från bestämmelserna om största tillåtna fordonsbredd, -längd och -<br>vikt | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör | 2 beslut till transportör och 0 yttrande till<br>Trafikverket. |  |
-
 <!-- sida 85 -->
 
+Samordnare
+Trafik-
+samordnare
+2.4.10 10 kap. 14 § trafik- förordningen (1998:1276) Beslut om föreskrifter vid vägarbete eller liknande arbete Fc 0 st beslut
+samt under kortare tid vid skada eller risk för skada på väg
+Vc Trafik &
+Utemiljö
+Ec Planering
+& Utformning
+Ec
+Anläggning
+& Utveckling
+Trafik-
+ingenjör
+Samordnare
+Vägtekniker
+2.4.13 5 § lag (1976:206) om felparkeringsavgift Beslut om felparkeringsavgift samt kontrollavgift vid olovlig Fc Felparkeringsavgifter (gatumark):
+och1 § lag (1984:318) om kontrollavgift vid parkering          Trafik- 505 st
+olovlig parkering                                              övervakare
+Kontrollavgifter (tomtmark): 65 st
+2.4.14 Vägmärkesförordningen SFS 2007:90 AFS Beslut om tillstånd att schakta i gator och vägar för vilka Fc 13 st beslut och datum för beslut…
+1999:3 49 § 81 § (a-e)    kommunen är huvudman och vid behov kräva säkerhet för
+Vc Trafik &
+beräknade kostnader för återställande av kommunens
+Ordningslagen 3 kap. 4 §                                       Utemiljö
+anläggningar
+Plan och Bygglagen 6 Kap. 21 §                                 Ec drift Gata
+Ec
+Anläggning
+& Utveckling
+Samordnare
+2.4.15 Vägmärkesförordningen SFS 2007:90 Godkännande av trafikanordningsplan Fc 12 st beslut och datum för beslut…
+AFS 1999:3 49 § 81 § (a-e)                                     Vc Trafik &
+Ordningslagen 3 kap. 4 §                                       Utemiljö
+Ec drift Gata
+Ec
+Anläggning
+& Utveckling
+Samordnar
+e
+2.4.16 13 kap. och 8 § trafikförordningen Beslut om parkeringstillstånd för rörelsehindrade Fc Beslut om parkeringstillstånd för
+(1998:1276)                                                    Färdtjänst- rörelsehindrad
+utredare Beviljade: 17
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 8 (11)
-
-[Tabell 85-1](handlingar.tabeller/85-1.csv)
-
-|  |  |  | Samordnare<br>Trafik-<br>samordnare |  |
-| --- | --- | --- | --- | --- |
-| 2.4.10 | 10 kap. 14 § trafik- förordningen (1998:1276) | Beslut om föreskrifter vid vägarbete eller liknande arbete<br>samt under kortare tid vid skada eller risk för skada på väg | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare<br>Vägtekniker | 0 st beslut |
-| 2.4.13 | 5 § lag (1976:206) om felparkeringsavgift<br>och1 § lag (1984:318) om kontrollavgift vid<br>olovlig parkering | Beslut om felparkeringsavgift samt kontrollavgift vid olovlig<br>parkering | Fc<br>Trafik-<br>övervakare | Felparkeringsavgifter (gatumark):<br>505 st<br>Kontrollavgifter (tomtmark): 65 st |
-| 2.4.14 | Vägmärkesförordningen SFS 2007:90 AFS<br>1999:3 49 § 81 § (a-e)<br>Ordningslagen 3 kap. 4 §<br>Plan och Bygglagen 6 Kap. 21 § | Beslut om tillstånd att schakta i gator och vägar för vilka<br>kommunen är huvudman och vid behov kräva säkerhet för<br>beräknade kostnader för återställande av kommunens<br>anläggningar | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec drift Gata<br>Ec<br>Anläggning<br>& Utveckling<br>Samordnare | 13 st beslut och datum för beslut… |
-| 2.4.15 | Vägmärkesförordningen SFS 2007:90<br>AFS 1999:3 49 § 81 § (a-e)<br>Ordningslagen 3 kap. 4 § | Godkännande av trafikanordningsplan | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec drift Gata<br>Ec<br>Anläggning<br>& Utveckling<br>Samordnar<br>e | 12 st beslut och datum för beslut… |
-| 2.4.16 | 13 kap. och 8 § trafikförordningen<br>(1998:1276) | Beslut om parkeringstillstånd för rörelsehindrade | Fc<br>Färdtjänst-<br>utredare | Beslut om parkeringstillstånd för<br>rörelsehindrad<br>Beviljade: 17 |
 
 <!-- sida 86 -->
 
@@ -3533,14 +3545,18 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 9
 
 2.3 Färdtjänst
 
+Nr   Lagrum/stöd               Delegeringens omfattning             Ansvarig Taget beslut och datum för
+delegat  beslutet
+2.5.1 6–9 §§ lag (1997:736) om Beslut om tillstånd till färdtjänst med regelkompletteringar Fc Beslut om färdtjänst
+färdtjänst                                                     Färdtjänst- Beviljade: 64
+utredare Avslagna: 1
+Ec Kansli
+2.5.5 4–7 §§ lag (1997:735) om Beslut om tillstånd till riksfärdtjänst Fc   Beslut om riksfärdtjänst
+riksfärdtjänst                                                 Färdtjänst- Beviljade: 8
+utredare Delavslag: 1
+Ec Kansli
+
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 10 (11)
-
-[Tabell 87-1](handlingar.tabeller/87-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
-| --- | --- | --- | --- | --- |
-| 2.5.1 | 6–9 §§ lag (1997:736) om<br>färdtjänst | Beslut om tillstånd till färdtjänst med regelkompletteringar | Fc<br>Färdtjänst-<br>utredare<br>Ec Kansli | Beslut om färdtjänst<br>Beviljade: 64<br>Avslagna: 1 |
-| 2.5.5 | 4–7 §§ lag (1997:735) om<br>riksfärdtjänst | Beslut om tillstånd till riksfärdtjänst | Fc<br>Färdtjänst-<br>utredare<br>Ec Kansli | Beslut om riksfärdtjänst<br>Beviljade: 8<br>Delavslag: 1 |
 
 <!-- sida 88 -->
 

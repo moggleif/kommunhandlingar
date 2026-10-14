@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7989a46719762712138c4625/1750158707
 sha256: 84cd75f9524ecbafa25bde769d01abfffc949d7a1c8a4625ffbeb4b3f7b9c336
 bytes: 5899200
 sidor: 240
-hamtad: 2026-10-08T02:11:52+00:00
-konverterad: 2026-10-08T02:12:30+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:51:07+00:00
+konverterad: 2026-10-14T09:51:44+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [2, 5, 6, 12, 98, 155, 193, 216]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1852,7 +1852,7 @@ Tabell 2. Mål, indikatorer och uppföljning av Trivsamma måltider
 
 LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX                29
 
-[Tabell 40-1](handlingar.tabeller/40-1.csv)
+[Tabell 40-41-1](handlingar.tabeller/40-41-1.csv)
 
 | Nationella mål | Indikatorer | Uppföljning |
 | --- | --- | --- |
@@ -1861,6 +1861,12 @@ LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX                29
 |  | Andel av skolmåltiden som äts upp. | Livsmedelsverkets nationella<br>kartläggning av matsvinn. |
 |  | Andel av skolelever som äter<br>skolmåltiden per dag. | Livsmedelsverkets<br>kommunkartläggning. |
 |  | Andel av skoleleverna som<br>rapporterar att de ätit sig mätta de<br>flesta skoldagar. | Utvecklas. |
+|  | Andel skolor som inkluderar<br>skolmåltiden i det systematiska<br>arbetsmiljöarbetet (vilket omfattar<br>både fysisk och psykosocial<br>arbetsmiljö). | Livsmedelsverkets<br>kommunkartläggning. |
+| Alla elever upplever att<br>de kan äta i lugn och ro. | Andel skolor vars elever har minst<br>25 minuter vid bordet för att sitta<br>och äta. | Livsmedelsverkets<br>kommunkartläggning. |
+|  | Andel elever som upplever att de<br>kan äta skollunchen i lugn och ro. | Utvecklas. |
+|  | Andel skolor vars skolrestaurang<br>under lunchen ej överskrider<br>riktvärden för hälsoskadligt buller. | Livsmedelsverkets<br>kommunkartläggning. |
+| Alla elever upplever att<br>skolmåltiden ger<br>möjlighet till social<br>samvaro. | Andel elever som uppger att de<br>alltid har någon att umgås med<br>under lunchen. | Utvecklas. |
+|  | Andel skolor vars elever har minst<br>25 minuter vid bordet för att sitta<br>och äta. | Livsmedelsverkets<br>kommunkartläggning. |
 
 <!-- sida 41 -->
 
@@ -1883,16 +1889,6 @@ exempelvis upplever elever att det blir lugnare då (enligt erfarenhet från kom
 måltider och det föreslogs både som mål och indikator (Livsmedelsverket, 2024d).
 
 30                            LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX
-
-[Tabell 41-1](handlingar.tabeller/41-1.csv)
-
-|  | Andel skolor som inkluderar<br>skolmåltiden i det systematiska<br>arbetsmiljöarbetet (vilket omfattar<br>både fysisk och psykosocial<br>arbetsmiljö). | Livsmedelsverkets<br>kommunkartläggning. |
-| --- | --- | --- |
-| Alla elever upplever att<br>de kan äta i lugn och ro. | Andel skolor vars elever har minst<br>25 minuter vid bordet för att sitta<br>och äta. | Livsmedelsverkets<br>kommunkartläggning. |
-|  | Andel elever som upplever att de<br>kan äta skollunchen i lugn och ro. | Utvecklas. |
-|  | Andel skolor vars skolrestaurang<br>under lunchen ej överskrider<br>riktvärden för hälsoskadligt buller. | Livsmedelsverkets<br>kommunkartläggning. |
-| Alla elever upplever att<br>skolmåltiden ger<br>möjlighet till social<br>samvaro. | Andel elever som uppger att de<br>alltid har någon att umgås med<br>under lunchen. | Utvecklas. |
-|  | Andel skolor vars elever har minst<br>25 minuter vid bordet för att sitta<br>och äta. | Livsmedelsverkets<br>kommunkartläggning. |
 
 <!-- sida 42 -->
 
@@ -3689,7 +3685,7 @@ Tabell 5. Nationella mål, indikatorer och uppföljning för Näringsriktiga må
 
 LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX                65
 
-[Tabell 76-1](handlingar.tabeller/76-1.csv)
+[Tabell 76-77-1](handlingar.tabeller/76-77-1.csv)
 
 | Nationella mål | Indikatorer | Uppföljning |
 | --- | --- | --- |
@@ -3698,6 +3694,9 @@ LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX                65
 |  | Genomsnittligt innehåll av fleromättat<br>fett/mättat fett, fibrer, vitamin D och järn<br>i serverade skolmåltider under en<br>fyraveckorsperiod. | Utvecklas. |
 | De livsmedel som<br>serveras eller säljs på<br>skolområdet har en<br>näringskvalitet som<br>bidrar till en kost som<br>främjar hälsa. | Andel av mängd inköpta livsmedel som är<br>märkta med Nyckelhålet inom<br>livsmedelskategorier för vilka det finns<br>kriterier. | Utvecklas. |
 |  | Andel skolor som inkluderar all<br>måltidsverksamhet inom skolan i<br>gemensamma riktlinjer eller policyer med<br>utgångspunkt att främja elevers hälsa | Utvecklas. |
+|  | Genomsnittligt innehåll av energi, fett,<br>mättat fett, fleromättat fett, kolhydrater,<br>protein, fibrer, vitamin C, vitamin D, folat,<br>järn och salt i serverade skolmåltider (inkl.<br>tillbehör) under en fyraveckorsperiod. | Utvecklas. |
+|  | Andel skolor där den genomsnittliga<br>skolmåltiden (inkl. tillbehör) under en<br>fyraveckorsperiod innehåller högst 1,8<br>gram salt. | Utvecklas. |
+|  | Andel skolor där den genomsnittliga<br>skolmåltiden (inkl. tillbehör) under en<br>fyraveckorsperiod innehåller minst 27<br>gram fullkorn. | Utvecklas. |
 
 <!-- sida 77 -->
 
@@ -3734,13 +3733,6 @@ skolorna har rapporterat att de har salladsbord varje dag med minst fem komponen
 linje med kostråden om fisk 2-3 gånger per vecka (Folkhälsomyndigheten och
 
 66                            LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX
-
-[Tabell 77-1](handlingar.tabeller/77-1.csv)
-
-|  | Genomsnittligt innehåll av energi, fett,<br>mättat fett, fleromättat fett, kolhydrater,<br>protein, fibrer, vitamin C, vitamin D, folat,<br>järn och salt i serverade skolmåltider (inkl.<br>tillbehör) under en fyraveckorsperiod. | Utvecklas. |
-| --- | --- | --- |
-|  | Andel skolor där den genomsnittliga<br>skolmåltiden (inkl. tillbehör) under en<br>fyraveckorsperiod innehåller högst 1,8<br>gram salt. | Utvecklas. |
-|  | Andel skolor där den genomsnittliga<br>skolmåltiden (inkl. tillbehör) under en<br>fyraveckorsperiod innehåller minst 27<br>gram fullkorn. | Utvecklas. |
 
 <!-- sida 78 -->
 
@@ -4160,11 +4152,13 @@ Tabell 6. Nationella mål, indikatorer och uppföljning för Säkra måltider
 
 74                            LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX
 
-[Tabell 85-1](handlingar.tabeller/85-1.csv)
+[Tabell 85-86-1](handlingar.tabeller/85-86-1.csv)
 
 | Nationella mål | Indikatorer | Uppföljning |
 | --- | --- | --- |
 | Skolmåltiderna är lika<br>säkra att äta för<br>personer med | Antal allergiska reaktioner per år<br>som kan kopplas till maten som<br>serveras i skolan. | Utvecklas. |
+| matallergi och/eller<br>celiaki som för personer<br>utan matallergi<br>och/eller celiaki. | Andel av personalen i<br>skolmåltidsverksamheten som har en<br>storköksutbildning, kockutbildning<br>eller liknande. | Livsmedelsverkets<br>kommunkartläggning. |
+|  | Andel skolor per kommun som<br>har rutiner för att anmäla<br>allergisk reaktion (inkl. reaktion<br>mot gluten) till<br>livsmedelskontrollen. | Livsmedelsverkets<br>kommunkartläggning. |
 
 <!-- sida 86 -->
 
@@ -4206,12 +4200,6 @@ att ha ätit mat i skolan eller förskolan de senaste tre åren (Kantar public p
 Astma- och allergiförbundet, 2021). Utifrån detta bedöms allergiska reaktioner
 
 LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX                75
-
-[Tabell 86-1](handlingar.tabeller/86-1.csv)
-
-| matallergi och/eller<br>celiaki som för personer<br>utan matallergi<br>och/eller celiaki. | Andel av personalen i<br>skolmåltidsverksamheten som har en<br>storköksutbildning, kockutbildning<br>eller liknande. | Livsmedelsverkets<br>kommunkartläggning. |
-| --- | --- | --- |
-|  | Andel skolor per kommun som<br>har rutiner för att anmäla<br>allergisk reaktion (inkl. reaktion<br>mot gluten) till<br>livsmedelskontrollen. | Livsmedelsverkets<br>kommunkartläggning. |
 
 <!-- sida 87 -->
 
@@ -4357,7 +4345,7 @@ Tabell 7. Nationella mål, indikatorer och uppföljning för Miljösmarta målti
 
 LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX                79
 
-[Tabell 90-1](handlingar.tabeller/90-1.csv)
+[Tabell 90-91-1](handlingar.tabeller/90-91-1.csv)
 
 | Nationella mål | Indikatorer | Uppföljning |
 | --- | --- | --- |
@@ -4365,6 +4353,9 @@ LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX                79
 |  | Andel kommuner som har max<br>1,25 kg CO e/kg inköpta livsmedel<br>2<br>till skolmåltider under en<br>fyraveckorsperiod. | Utvecklas. |
 | Minst 60 procent av<br>livsmedel som används<br>till skolmåltider är<br>ekologiska | Andel av mängden inköpta<br>livsmedel till skolmåltider märkt<br>med KRAV och/eller EU-ekologiskt | Utvecklas. |
 | Större andel av inköpta<br>köttprodukter kommer<br>från djur som genom<br>bete bidragit till<br>biologisk mångfald | Andel av mängden inköpt kött som<br>är märkt med Svenskt Sigill<br>Naturbeteskött, KRAV eller<br>motsvarande krav på bete | Utvecklas. |
+| Minst 70 procent av ost,<br>frukt och bär, grönsaker<br>respektive matfetter är av<br>svenskt ursprung | Andel av mängden inköpta livsmedel i<br>respektive livsmedelsgrupp som är av<br>svenskt ursprung | Utvecklas. |
+| Matsvinnet har halverats<br>och uppgår till maximalt:<br>Serveringssvinn: 14 g<br>Tallrikssvinn: 10 g<br>Kökssvinn: 5 g | Genomsnittlig mängd matsvinn<br>kopplat till skolmåltiderna | Livsmedelsverkets nationella<br>kartläggning av matsvinn. |
+|  | Andel skolor som har under 14 g<br>serveringssvinn, 10 g tallrikssvinn och<br>5 g kökssvinn | Livsmedelsverkets nationella<br>kartläggning av matsvinn. |
 
 <!-- sida 91 -->
 
@@ -4406,13 +4397,6 @@ al., 2023a). Enligt Jordbruksverkets databas SILO är en stor del av fisk och sk
 offentliga måltider miljömärkt (Jordbruksverket, 2025).
 
 80                            LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX
-
-[Tabell 91-1](handlingar.tabeller/91-1.csv)
-
-| Minst 70 procent av ost,<br>frukt och bär, grönsaker<br>respektive matfetter är av<br>svenskt ursprung | Andel av mängden inköpta livsmedel i<br>respektive livsmedelsgrupp som är av<br>svenskt ursprung | Utvecklas. |
-| --- | --- | --- |
-| Matsvinnet har halverats<br>och uppgår till maximalt:<br>Serveringssvinn: 14 g<br>Tallrikssvinn: 10 g<br>Kökssvinn: 5 g | Genomsnittlig mängd matsvinn<br>kopplat till skolmåltiderna | Livsmedelsverkets nationella<br>kartläggning av matsvinn. |
-|  | Andel skolor som har under 14 g<br>serveringssvinn, 10 g tallrikssvinn och<br>5 g kökssvinn | Livsmedelsverkets nationella<br>kartläggning av matsvinn. |
 
 <!-- sida 92 -->
 
@@ -5366,43 +5350,77 @@ som liten eftersom inget av ämnen är kopplade till en allvarlig hälsorisk vid
 
 Tabell 1. Beräknat energibehov i åldersgrupperna 6–9 år, 10–12 år, 13–15 år och 16–18 år1
 
+Ålder     Vikt Längd REE
+Kön2                 PAL4 MJ/dag kcal/dag MJ/dag kcal/dag
+(år)      (kg)2 (m)2 (MJ/dag)3
+6   Flickor 21,6 1,19 3,94
+1,6  6,5   1563
+Pojkar 21,9 1,20 4,23
+7   Flickor 24,0 1,25 4,15
+1,6  6,9   1651
+Pojkar 24,6 1,26 4,48
+7,1  1699
+8   Flickor 26,7 1,31 4,38
+1,6  7,3   1741
+Pojkar 27,2 1,32 4,72
+9   Flickor 29,8 1,36 4,64
+1,6  7,7   1839
+Pojkar 30,1 1,37 4,98
+10  Flickor 33,5 1,42 4,94
+1,6  8,2   1948
+Pojkar 33,3 1,43 5,25
+11  Flickor 37,7 1,48 4,95
+1,7  8,7   2081   8,7  2079
+Pojkar 36,9 1,48 5,29
+12  Flickor 42,9 1,54 5,22
+1,7  9,2   2209
+Pojkar 41,4 1,54 5,65
+13  Flickor 48,0 1,60 5,48
+1,7  9,8   2351
+Pojkar 47,0 1,61 6,09
+14  Flickor 52,3 1,63 5,68
+1,7  10,4  2490  10,4  2485
+Pojkar 53,2 1,67 6,57
+15  Flickor 55,3 1,65 5,82
+1,7  10,9  2613
+Pojkar 59,4 1,73 7,04
+16  Flickor 57,5 1,67 5,92
+1,7  11,3  2706
+Pojkar 64,2 1,77 7,39
+17  Flickor 58,8 1,67 5,98
+1,7  11,6  2770  11,7  2794
+Pojkar 67,8 1,79 7,65
+18  Flickor 64,2 1,67 6,19
+1,7  12,2  2905
+Pojkar 75,2 1,77 8,11
 REE, energibehov i vila (resting energy expenditure); PAL, fysisk aktivitetsnivå (physical activity level). Avrundade
 siffror visas i tabellen men icke-avrundade värden användes vid beräkningarna.
 1Antagen könsfördelning: 50 procent pojkar och 50 procent flickor.
 2Enligt tabell 2 i appendix 4 i NNR 2023. För 18-åringar användes värden för 18–24 år enligt tabell 1 i appendix 4.
 3Beräknat genom åldersgruppsspecifika formler enligt tabell 5 i appendix 4 i NNR 2023.
 4Enligt tabell 7 i appendix 4 i NNR 2023.
-
 LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX               101
-
-[Tabell 112-1](handlingar.tabeller/112-1.csv)
-
-| Ålder<br>(år) | Kön2 | Vikt<br>(kg)2 | Längd<br>(m)2 | REE<br>(MJ/dag)3 | PAL4 | MJ/dag | kcal/dag | MJ/dag | kcal/dag |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6 | Flickor<br>Pojkar | 21,6<br>21,9 | 1,19<br>1,20 | 3,94<br>4,23 | 1,6 | 6,5 | 1563 | 7,1 | 1699 |
-| 7 | Flickor<br>Pojkar | 24,0<br>24,6 | 1,25<br>1,26 | 4,15<br>4,48 | 1,6 | 6,9 | 1651 |  |  |
-| 8 | Flickor<br>Pojkar | 26,7<br>27,2 | 1,31<br>1,32 | 4,38<br>4,72 | 1,6 | 7,3 | 1741 |  |  |
-| 9 | Flickor<br>Pojkar | 29,8<br>30,1 | 1,36<br>1,37 | 4,64<br>4,98 | 1,6 | 7,7 | 1839 |  |  |
-| 10 | Flickor<br>Pojkar | 33,5<br>33,3 | 1,42<br>1,43 | 4,94<br>5,25 | 1,6 | 8,2 | 1948 | 8,7 | 2079 |
-| 11 | Flickor<br>Pojkar | 37,7<br>36,9 | 1,48<br>1,48 | 4,95<br>5,29 | 1,7 | 8,7 | 2081 |  |  |
-| 12 | Flickor<br>Pojkar | 42,9<br>41,4 | 1,54<br>1,54 | 5,22<br>5,65 | 1,7 | 9,2 | 2209 |  |  |
-| 13 | Flickor<br>Pojkar | 48,0<br>47,0 | 1,60<br>1,61 | 5,48<br>6,09 | 1,7 | 9,8 | 2351 | 10,4 | 2485 |
-| 14 | Flickor<br>Pojkar | 52,3<br>53,2 | 1,63<br>1,67 | 5,68<br>6,57 | 1,7 | 10,4 | 2490 |  |  |
-| 15 | Flickor<br>Pojkar | 55,3<br>59,4 | 1,65<br>1,73 | 5,82<br>7,04 | 1,7 | 10,9 | 2613 |  |  |
-| 16 | Flickor<br>Pojkar | 57,5<br>64,2 | 1,67<br>1,77 | 5,92<br>7,39 | 1,7 | 11,3 | 2706 | 11,7 | 2794 |
-| 17 | Flickor<br>Pojkar | 58,8<br>67,8 | 1,67<br>1,79 | 5,98<br>7,65 | 1,7 | 11,6 | 2770 |  |  |
-| 18 | Flickor<br>Pojkar | 64,2<br>75,2 | 1,67<br>1,77 | 6,19<br>8,11 | 1,7 | 12,2 | 2905 |  |  |
 
 <!-- sida 113 -->
 
 Tabell 2. Referensvärden som användes för att uppskatta näringsbehov för respektive
 åldersgrupp.
 
+6 – 9 år  10 – 12 år 13 – 15 år 16 – 18 år
+RI1 30 % av RI RI1 30 % av RI RI1 30 % av RI RI1 30 % av RI
+
+```osaker-tabell
+Vitamin C (mg) 55 17 80   24   100   30   110  33
+Vitamin D (µg) 10 3,0 10  3    10   3,0   10   3,0
+Folat (µg) 200 60   270   81   310   93   330  99
+Järn (mg) 10   3,0  13    3,9  15   4,5   15   4,5
+Salt (g)  3,5  1,1  4,3   1,3  5,0  1,5   5,8  1,7
+```
+
 1Det högsta rekommenderade intaget (RI) inom åldersgruppen enligt appendix 6 i NNR 2023 användes som referens.
 För 18-åringar användes RI för vuxna (18–24 år, tabell 12 och 14 i NNR 2023). För salt användes rekommenderat
 maxintag enligt tabell 16 i NNR 2023. Eftersom det är ett högsta intag användes det lägsta värdet för respektive
 åldersgrupp.
-
 Referenser för bilaga 1
 
 BLOMHOFF, R., ANDERSEN, R., ARNESEN, E., CHRISTENSEN, J., ENEROTH, H.,
@@ -5412,12 +5430,6 @@ THORSDOTTIR, I. & TROLLE, E. 2023. Nordic Nutrition Recommendations 2023.
 Copenhagen: Nordic Council of Ministers.
 
 102                           LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX
-
-[Tabell 113-1](handlingar.tabeller/113-1.csv)
-
-|  | 6 – 9 år<br>RI1 30 % av RI | 10 – 12 år<br>RI1 30 % av RI | 13 – 15 år<br>RI1 30 % av RI | 16 – 18 år<br>RI1 30 % av RI |
-| --- | --- | --- | --- | --- |
-| Vitamin C (mg)<br>Vitamin D (µg)<br>Folat (µg)<br>Järn (mg)<br>Salt (g) | 55 17<br>10 3,0<br>200 60<br>10 3,0<br>3,5 1,1 | 80 24<br>10 3<br>270 81<br>13 3,9<br>4,3 1,3 | 100 30<br>10 3,0<br>310 93<br>15 4,5<br>5,0 1,5 | 110 33<br>10 3,0<br>330 99<br>15 4,5<br>5,8 1,7 |
 
 <!-- sida 114 -->
 
@@ -6391,7 +6403,7 @@ Tabell 1. Indikatorer och deras planerade uppföljning.
 
 LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX               121
 
-[Tabell 132-1](handlingar.tabeller/132-1.csv)
+[Tabell 132-137-1](handlingar.tabeller/132-137-1.csv)
 
 | Nationella mål för<br>Integrerade måltider | Indikatorer | Uppföljning | Status |
 | --- | --- | --- | --- |
@@ -6399,15 +6411,7 @@ LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX               121
 |  | Andel skolor som har med<br>skolmåltiden i sitt systematiska<br>kvalitetsarbete. | Livsmedelsverkets<br>kommunkartläggning. | Klar (basår 2024) |
 | Alla elever kan påverka sin<br>måltidsmiljö. | Andel skolor som har ett<br>måltidsråd. | Livsmedelsverkets<br>kommunkartläggning. | Klar (basår 2024) |
 |  | Andel skolor som följer upp<br>elevers upplevelse av<br>skolmåltiden. | Utvecklas. | Planeras<br>inkluderas i<br>framtida<br>kommun-<br>kartläggning |
-
-<!-- sida 133 -->
-
-122                           LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX
-
-[Tabell 133-1](handlingar.tabeller/133-1.csv)
-
 | Nationella mål för<br>Trivsamma måltider | Indikatorer | Uppföljning | Status |
-| --- | --- | --- | --- |
 | Alla elever upplever<br>måltidsmiljön som trygg. | Andel elever som upplever att<br>måltidsmiljön är en trygg plats. | Enkätundersökning<br>riktad till elever. | Tillvägagångssätt<br>utreds |
 |  | Antal vuxna per ätande barn. | Livsmedelsverkets<br>kommunkartläggning. | Klar (basår 2024) |
 |  | Andel av skolmåltiden som äts<br>upp. | Livsmedelsverkets<br>nationella kartläggning<br>av matsvinn. | Klar (basår 2024) |
@@ -6418,15 +6422,7 @@ LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX               121
 |  | Andel elever som upplever att<br>de kan äta skollunchen i lugn<br>och ro. | Enkätundersökning<br>riktad till elever. | Tillvägagångssätt<br>utreds |
 |  | Andel skolor vars skolrestaurang<br>under lunchen ej överskrider<br>riktvärden för hälsoskadligt<br>buller. | Livsmedelsverkets<br>kommunkartläggning. | Klar (basår 2024) |
 | Alla elever upplever att<br>skolmåltiden ger | Andel elever som uppger att de<br>alltid har någon att umgås med<br>under lunchen. | Enkätundersökning<br>riktad till elever. | Tillvägagångssätt<br>utreds |
-
-<!-- sida 134 -->
-
-LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX               123
-
-[Tabell 134-1](handlingar.tabeller/134-1.csv)
-
 | möjlighet till social<br>samvaro. | Andel skolor vars elever har<br>minst 25 minuter vid bordet för<br>att sitta och äta. | Livsmedelsverkets<br>kommunkartläggning. | Klar (basår 2024) |
-| --- | --- | --- | --- |
 | Nationella mål för Goda<br>måltider | Indikatorer | Uppföljning | Status |
 | Alla elever tycker att den<br>mat som serveras i skolan<br>för det mesta är så god att<br>de äter sig mätta. | Andel av elever som<br>rapporterar att de ätit sig mätta<br>de flesta dagar. | Enkätundersökning<br>riktad till elever. | Tillvägagångssätt<br>utreds |
 |  | Andel av skolmaten som äts<br>upp. | Livsmedelsverkets<br>nationella kartläggning<br>av matsvinn. | Klar (basår 2024) |
@@ -6437,30 +6433,14 @@ LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX               123
 | Nationella mål för<br>Näringsriktiga måltider | Indikatorer | Uppföljning | Status |
 | Baljväxter (linser, bönor,<br>tofu, sojafärs, med mera)<br>samt fisk och/eller<br>skaldjur har ersatt en del<br>rött kött och chark i<br>skolmåltiderna. | Genomsnittlig mängd<br>baljväxter, fisk och skaldjur<br>respektive rött kött och chark<br>som serveras per dag. | Statistik över<br>livsmedelsinköp | Tillvägagångssätt<br>utreds |
 |  | Andel skolor som erbjuder ett<br>vegetariskt alternativ till alla<br>elever i skolan varje dag. | Livsmedelsverkets<br>kommunkartläggning. | Klar (basår 2024) |
-
-<!-- sida 135 -->
-
-124                           LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX
-
-[Tabell 135-1](handlingar.tabeller/135-1.csv)
-
 |  | Genomsnittligt innehåll av<br>fleromättat fett/mättat fett,<br>fibrer, vitamin D och järn i<br>serverade skolmåltider under en<br>fyraveckorsperiod. | Statistik över<br>livsmedelsinköp | Tillvägagångssätt<br>utreds |
-| --- | --- | --- | --- |
 | De livsmedel som serveras<br>eller säljs på skolområdet<br>har en näringskvalitet som<br>bidrar till en kost som<br>främjar hälsa. | Andel av mängd inköpta<br>livsmedel som är märkta med<br>Nyckelhålet inom<br>livsmedelskategorier för vilka<br>det finns kriterier. | Statistik över<br>livsmedelsinköp | Tillvägagångssätt<br>utreds |
 |  | Andel skolor som inkluderar all<br>måltidsverksamhet inom skolan<br>i gemensamma riktlinjer eller<br>policyer med utgångspunkt att<br>främja elevers hälsa | Livsmedelsverkets<br>kommunkartläggning | Planeras<br>inkluderas i<br>framtida<br>kommun-<br>kartläggning |
 |  | Genomsnittligt innehåll av<br>energi, fett, mättat fett,<br>fleromättat fett, kolhydrater,<br>protein, fibrer, vitamin C,<br>vitamin D, folat, järn och salt i<br>serverade skolmåltider (inkl.<br>tillbehör) under en<br>fyraveckorsperiod. | Statistik över<br>livsmedelsinköp | Tillvägagångssätt<br>utreds |
 |  | Andel skolor där den<br>genomsnittliga skolmåltiden<br>(inkl. tillbehör) under en<br>fyraveckorsperiod innehåller<br>högst 1,8 gram salt. | Statistik över<br>livsmedelsinköp | Tillvägagångssätt<br>utreds |
 |  | Andel skolor där den<br>genomsnittliga skolmåltiden<br>(inkl. tillbehör) under en<br>fyraveckorsperiod innehåller<br>minst 27 gram fullkorn. | Statistik över<br>livsmedelsinköp | Tillvägagångssätt<br>utreds |
 | Nationella mål för Säkra<br>måltider | Indikatorer | Uppföljning | Status |
-
-<!-- sida 136 -->
-
-LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX               125
-
-[Tabell 136-1](handlingar.tabeller/136-1.csv)
-
 | Skolmåltiderna är lika<br>säkra att äta för personer<br>med matallergi och/eller<br>celiaki som för personer<br>utan matallergi och/eller<br>celiaki. | Antal allergiska reaktioner per<br>år som kan kopplas till maten<br>som serveras i skolan. | Enkätundersökning<br>riktad till elever. | Tillvägagångssätt<br>utreds |
-| --- | --- | --- | --- |
 |  | Andel av personalen i<br>skolmåltidsverksamheten som<br>har en storköksutbildning,<br>kockutbildning eller liknande. | Livsmedelsverkets<br>kommunkartläggning. | Klar (basår 2024) |
 |  | Andel skolor per kommun som<br>har rutiner för att anmäla<br>allergisk reaktion (inkl. reaktion<br>mot gluten) till<br>livsmedelskontrollen. | Livsmedelsverkets<br>kommunkartläggning. | Klar (basår 2024) |
 | Nationella mål för<br>Miljösmarta måltider | Indikatorer | Uppföljning | Status |
@@ -6469,6 +6449,25 @@ LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX               125
 | Minst 60 procent av<br>livsmedel som används till<br>skolmåltider är ekologiska | Andel av mängden inköpta<br>livsmedel till skolmåltider märkt<br>med KRAV och/eller EU-<br>ekologiskt | Statistik över<br>livsmedelsinköp | Tillvägagångssätt<br>utreds |
 | Större andel av inköpta<br>köttprodukter kommer<br>från djur som genom bete<br>bidragit till biologisk<br>mångfald | Andel av mängden inköpt kött<br>som är märkt med Svenskt Sigill<br>Naturbeteskött, KRAV eller<br>motsvarande krav på bete | Statistik över<br>livsmedelsinköp | Tillvägagångssätt<br>utreds |
 | Minst 70 procent av ost,<br>frukt och bär, grönsaker | Andel av mängden inköpta<br>livsmedel i respektive | Statistik över<br>livsmedelsinköp | Tillvägagångssätt<br>utreds |
+| respektive matfetter är av<br>svenskt ursprung | livsmedelsgrupp som är av<br>svenskt ursprung |  |  |
+| Matsvinnet har halverats<br>och uppgår till maximalt:<br>Serveringssvinn: 14 g<br>Tallrikssvinn: 10 g<br>Kökssvinn: 5 g | Genomsnittlig mängd matsvinn<br>kopplat till skolmåltiderna | Livsmedelsverkets<br>nationella kartläggning<br>av matsvinn. | Klar (basår 2024) |
+|  | Andel skolor som har under 14 g<br>serveringssvinn, 10 g<br>tallrikssvinn och 5 g kökssvinn | Livsmedelsverkets<br>nationella kartläggning<br>av matsvinn. | Klar (basår 2024) |
+
+<!-- sida 133 -->
+
+122                           LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX
+
+<!-- sida 134 -->
+
+LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX               123
+
+<!-- sida 135 -->
+
+124                           LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX
+
+<!-- sida 136 -->
+
+LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX               125
 
 <!-- sida 137 -->
 
@@ -6488,13 +6487,6 @@ innehåll har granskats och validerats av ansvariga medarbetare på Livsmedelsve
 publicering.
 
 126                           LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX
-
-[Tabell 137-1](handlingar.tabeller/137-1.csv)
-
-| respektive matfetter är av<br>svenskt ursprung | livsmedelsgrupp som är av<br>svenskt ursprung |  |  |
-| --- | --- | --- | --- |
-| Matsvinnet har halverats<br>och uppgår till maximalt:<br>Serveringssvinn: 14 g<br>Tallrikssvinn: 10 g<br>Kökssvinn: 5 g | Genomsnittlig mängd matsvinn<br>kopplat till skolmåltiderna | Livsmedelsverkets<br>nationella kartläggning<br>av matsvinn. | Klar (basår 2024) |
-|  | Andel skolor som har under 14 g<br>serveringssvinn, 10 g<br>tallrikssvinn och 5 g kökssvinn | Livsmedelsverkets<br>nationella kartläggning<br>av matsvinn. | Klar (basår 2024) |
 
 <!-- sida 138 -->
 
@@ -6630,7 +6622,7 @@ Tabell 2. Geografisk fördelning av respondenter.
 
 LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX               129
 
-[Tabell 140-1](handlingar.tabeller/140-1.csv)
+[Tabell 140-141-1](handlingar.tabeller/140-141-1.csv)
 
 |  | Sampel 1 |  | Sampel 2 |  |
 | --- | --- | --- | --- | --- |
@@ -6638,15 +6630,7 @@ LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX               129
 | Blekinge län | 0 | 0,0 | 0 | 0,0 |
 | Dalarnas län | 3 | 0,0 | 27 | 0,4 |
 | Gotlands län | 6 | 0,1 | 1 | 0,0 |
-
-<!-- sida 141 -->
-
-130                           LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX
-
-[Tabell 141-1](handlingar.tabeller/141-1.csv)
-
 | Gävleborgs län | 1 | 0,0 | 548 | 8,3 |
-| --- | --- | --- | --- | --- |
 | Hallands län | 67 | 0,9 | 0 | 0,0 |
 | Jämtlands län | 0 | 0,0 | 0 | 0,0 |
 | Jönköpings län | 29 | 0,4 | 42 | 0,6 |
@@ -6666,6 +6650,10 @@ LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX               129
 | Östergötlands län | 1 | 0,0 | 1 | 0,0 |
 | Inget svar | 0 | 0,0 | 0 | 0,0 |
 | Totalt | 7585 | 100,0 | 6621 | 100,0 |
+
+<!-- sida 141 -->
+
+130                           LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX
 
 <!-- sida 142 -->
 
@@ -6745,7 +6733,7 @@ Tabell 4. Svar angående matens utseende och smak
 
 132                           LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX
 
-[Tabell 143-1](handlingar.tabeller/143-1.csv)
+[Tabell 143-144-1](handlingar.tabeller/143-144-1.csv)
 
 |  | Smakar maten gott? |  |  |  | Ser maten god ut? |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -6755,6 +6743,8 @@ Tabell 4. Svar angående matens utseende och smak
 | Sällan | 3263 | 43,0 | 1965 | 29,7 | 3643 | 48,0 |
 | Oftast | 3543 | 46,7 | 3690 | 55,7 | 2721 | 35,9 |
 | Alltid | 295 | 3,9 | 699 | 10,6 | 252 | 3,3 |
+| Inget svar | 72 | 0,9 | 63 | 1,0 | 49 | 0,6 |
+| Total | 7585 | 100,0 | 6621 | 100,0 | 7585 | 100,0 |
 
 <!-- sida 144 -->
 
@@ -6799,12 +6789,6 @@ svaren "oftast" (28 procent) eller "alltid" (33 procent). En mindre andel kände
 procent) eller "aldrig" (4 procent) trygga. En del av respondenterna i sampel 1, som svarat på
 
 LIVSMEDELSVERKETS RAPPORTSERIE – L 20XX NR XX               133
-
-[Tabell 144-1](handlingar.tabeller/144-1.csv)
-
-| Inget svar | 72 | 0,9 | 63 | 1,0 | 49 | 0,6 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Total | 7585 | 100,0 | 6621 | 100,0 | 7585 | 100,0 |
 
 <!-- sida 145 -->
 
@@ -7825,7 +7809,7 @@ Trivsamma          måltider
 
 19
 
-[Tabell 167-1](handlingar.tabeller/167-1.csv)
+[Tabell 167-168-1](handlingar.tabeller/167-168-1.csv)
 
 | Nationella mål | Indikatorer | Uppföljning |
 | --- | --- | --- |
@@ -7835,21 +7819,17 @@ Trivsamma          måltider
 |  | Andel av skolelever som äter<br>skolmåltiden per dag. | Livsmedelsverkets<br>kommunkartläggning. |
 |  | Andel av skoleleverna som<br>rapporterar att de ätit sig mätta de<br>flesta skoldagar. | Utvecklas. |
 |  | Andel skolor som inkluderar<br>skolmåltiden i det systematiska<br>arbetsmiljöarbetet (vilket omfattar<br>både fysisk och psykosocial<br>arbetsmiljö). | Livsmedelsverkets<br>kommunkartläggning. |
+| Alla elever upplever att<br>de kan äta i lugn och ro. | Andel skolor vars elever har minst<br>25 minuter vid bordet för att sitta<br>och äta. | Livsmedelsverkets<br>kommunkartläggning. |
+|  | Andel elever som upplever att de<br>kan äta skollunchen i lugn och ro. | Utvecklas. |
+|  | Andel skolor vars skolrestaurang<br>under lunchen ej överskrider<br>riktvärden för hälsoskadligt buller. | Livsmedelsverkets<br>kommunkartläggning. |
+| Alla elever upplever att<br>skolmåltiden ger<br>möjlighet till social<br>samvaro. | Andel elever som uppger att de<br>alltid har någon att umgås med<br>under lunchen. | Utvecklas. |
+|  | Andel skolor vars elever har minst<br>25 minuter vid bordet för att sitta<br>och äta. | Livsmedelsverkets<br>kommunkartläggning. |
 
 <!-- sida 168 -->
 
 1
 
 20
-
-[Tabell 168-1](handlingar.tabeller/168-1.csv)
-
-| Alla elever upplever att<br>de kan äta i lugn och ro. | Andel skolor vars elever har minst<br>25 minuter vid bordet för att sitta<br>och äta. | Livsmedelsverkets<br>kommunkartläggning. |
-| --- | --- | --- |
-|  | Andel elever som upplever att de<br>kan äta skollunchen i lugn och ro. | Utvecklas. |
-|  | Andel skolor vars skolrestaurang<br>under lunchen ej överskrider<br>riktvärden för hälsoskadligt buller. | Livsmedelsverkets<br>kommunkartläggning. |
-| Alla elever upplever att<br>skolmåltiden ger<br>möjlighet till social<br>samvaro. | Andel elever som uppger att de<br>alltid har någon att umgås med<br>under lunchen. | Utvecklas. |
-|  | Andel skolor vars elever har minst<br>25 minuter vid bordet för att sitta<br>och äta. | Livsmedelsverkets<br>kommunkartläggning. |
 
 <!-- sida 169 -->
 
@@ -8298,7 +8278,7 @@ Näringsriktiga          måltider
 
 31
 
-[Tabell 179-1](handlingar.tabeller/179-1.csv)
+[Tabell 179-180-1](handlingar.tabeller/179-180-1.csv)
 
 | Nationella mål | Indikatorer | Uppföljning |
 | --- | --- | --- |
@@ -8306,20 +8286,16 @@ Näringsriktiga          måltider
 |  | Andel skolor som erbjuder ett vegetariskt<br>alternativ till alla elever i skolan varje dag. | Livsmedelsverkets<br>kommunkartläggning. |
 |  | Genomsnittligt innehåll av fleromättat<br>fett/mättat fett, fibrer, vitamin D och järn<br>i serverade skolmåltider under en<br>fyraveckorsperiod. | Utvecklas. |
 | De livsmedel som<br>serveras eller säljs på<br>skolområdet har en<br>näringskvalitet som<br>främjar hälsa. | Andel av mängd inköpta livsmedel som är<br>märkta med Nyckelhålet inom<br>livsmedelskategorier för vilka det finns<br>kriterier. | Utvecklas. |
+|  | Andel skolor som inkluderar all<br>måltidsverksamhet inom skolan i<br>gemensamma riktlinjer eller policyer med<br>utgångspunkt att främja elevers hälsa | Utvecklas. |
+|  | Genomsnittligt innehåll av energi, fett,<br>mättat fett, fleromättat fett, kolhydrater,<br>protein, fibrer, vitamin C, vitamin D, folat,<br>järn och salt i serverade skolmåltider (inkl.<br>tillbehör) under en fyraveckorsperiod. | Utvecklas. |
+|  | Andel skolor där den genomsnittliga<br>skolmåltiden (inkl. tillbehör) under en<br>fyraveckorsperiod innehåller högst 1,8<br>gram salt. | Utvecklas. |
+|  | Andel skolor där den genomsnittliga<br>skolmåltiden (inkl. tillbehör) under en<br>fyraveckorsperiod innehåller minst 27<br>gram fullkorn. | Utvecklas. |
 
 <!-- sida 180 -->
 
 1
 
 32
-
-[Tabell 180-1](handlingar.tabeller/180-1.csv)
-
-|  | Andel skolor som inkluderar all<br>måltidsverksamhet inom skolan i<br>gemensamma riktlinjer eller policyer med<br>utgångspunkt att främja elevers hälsa | Utvecklas. |
-| --- | --- | --- |
-|  | Genomsnittligt innehåll av energi, fett,<br>mättat fett, fleromättat fett, kolhydrater,<br>protein, fibrer, vitamin C, vitamin D, folat,<br>järn och salt i serverade skolmåltider (inkl.<br>tillbehör) under en fyraveckorsperiod. | Utvecklas. |
-|  | Andel skolor där den genomsnittliga<br>skolmåltiden (inkl. tillbehör) under en<br>fyraveckorsperiod innehåller högst 1,8<br>gram salt. | Utvecklas. |
-|  | Andel skolor där den genomsnittliga<br>skolmåltiden (inkl. tillbehör) under en<br>fyraveckorsperiod innehåller minst 27<br>gram fullkorn. | Utvecklas. |
 
 <!-- sida 181 -->
 
@@ -9659,7 +9635,7 @@ Tabell 9. Nationella mål, indikatorer och uppföljning för Miljösmarta målti
 
 62
 
-[Tabell 210-1](handlingar.tabeller/210-1.csv)
+[Tabell 210-211-1](handlingar.tabeller/210-211-1.csv)
 
 | Nationella mål | Indikatorer | Uppföljning |
 | --- | --- | --- |
@@ -9667,17 +9643,13 @@ Tabell 9. Nationella mål, indikatorer och uppföljning för Miljösmarta målti
 |  | Andel kommuner som har max 1,25<br>kg CO e/kg inköpta livsmedel till<br>2<br>skolmåltider under en<br>fyraveckorsperiod. | Utvecklas. |
 | Minst 60 procent av<br>livsmedel som används till<br>skolmåltider är ekologiska | Andel av mängden inköpta livsmedel<br>till skolmåltider märkt med KRAV<br>och/eller EU-ekologiskt | Utvecklas. |
 | Större andel av inköpta<br>köttprodukter kommer<br>från djur som genom bete<br>bidragit till biologisk<br>mångfald | Andel av mängden inköpt kött som är<br>märkt med Svenskt Sigill<br>Naturbeteskött, KRAV eller<br>motsvarande krav på bete | Utvecklas. |
+| Minst 70 procent av ost,<br>frukt och bär, grönsaker<br>respektive matfetter är av<br>svenskt ursprung | Andel av mängden inköpta livsmedel i<br>respektive livsmedelsgrupp som är av<br>svenskt ursprung | Utvecklas. |
+| Matsvinnet har halverats<br>och uppgår till maximalt:<br>Serveringssvinn: 14 g<br>Tallrikssvinn: 10 g<br>Kökssvinn: 5 g | Genomsnittlig mängd matsvinn<br>kopplat till skolmåltiderna | Livsmedelsverkets nationella<br>kartläggning av matsvinn. |
+|  | Andel skolor som har under 14 g<br>serveringssvinn, 10 g tallrikssvinn och<br>5 g kökssvinn | Livsmedelsverkets nationella<br>kartläggning av matsvinn. |
 
 <!-- sida 211 -->
 
 63
-
-[Tabell 211-1](handlingar.tabeller/211-1.csv)
-
-| Minst 70 procent av ost,<br>frukt och bär, grönsaker<br>respektive matfetter är av<br>svenskt ursprung | Andel av mängden inköpta livsmedel i<br>respektive livsmedelsgrupp som är av<br>svenskt ursprung | Utvecklas. |
-| --- | --- | --- |
-| Matsvinnet har halverats<br>och uppgår till maximalt:<br>Serveringssvinn: 14 g<br>Tallrikssvinn: 10 g<br>Kökssvinn: 5 g | Genomsnittlig mängd matsvinn<br>kopplat till skolmåltiderna | Livsmedelsverkets nationella<br>kartläggning av matsvinn. |
-|  | Andel skolor som har under 14 g<br>serveringssvinn, 10 g tallrikssvinn och<br>5 g kökssvinn | Livsmedelsverkets nationella<br>kartläggning av matsvinn. |
 
 <!-- sida 212 -->
 
@@ -9710,41 +9682,32 @@ Tabell 10. Miljösmarta val inom olika livsmedelsgrupper
 
 64
 
-[Tabell 212-1](handlingar.tabeller/212-1.csv)
+[Tabell 212-215-1](handlingar.tabeller/212-215-1.csv)
 
 | Livsmedelsgrupp | Miljösmarta matval | Beredskap |
 | --- | --- | --- |
 | Grönsaker och frukt<br>Här ingår frukt och bär,<br>grönsaker, rotfrukter och<br>baljväxter som ligger i sin skida,<br>som gröna bönor och<br>sockerärtor. | Ersätt en del animalier med<br>grönsaker. Tåliga grönsaker<br>som rotfrukter, kål och lök<br>samt frukter som äpplen kan<br>lagras länge, vilket bidrar till<br>minskat matsvinn och mindre<br>negativ miljöpåverkan. En ökad<br>andel svenska livsmedel samt<br>minskad andel tropiska frukter<br>är bra ur miljösynpunkt. Ökad<br>andel ekologiska eller andra<br>miljöcertifierade produkter<br>bidrar också. | De flesta frukter och<br>grönsaker kan lagras utan kyl<br>och har relativt lång<br>hållbarhet. Konserverade<br>eller torkade frukter och<br>grönsaker är särskilt bra ur<br>beredskapsperspektiv.<br>Energitätheten i frukt och<br>grönsaker är dock generellt<br>låg, men näringstätheten är<br>hög. |
 | Spannmålsprodukter<br>Med spannmål avses här främst<br>de fem sädesslagen vete, korn,<br>havre, råg och rågvete. | Servera en hög andel<br>spannmål. Variera mellan olika<br>spannmålssorter. En ökad<br>andel svenska<br>spannmålsprodukter samt<br>ekologiska eller andra<br>miljöcertifierade produkter är<br>bra ur miljösynpunkt.<br>Vattendränkta risodlingar<br>påverkar klimatet mer än | Spannmålsprodukter har<br>goda lagringsegenskaper, det<br>gäller särskilt pasta och<br>knäckebröd. Bröd har<br>fördelen att det inte kräver<br>någon tillagning. |
-
-<!-- sida 213 -->
-
-65
-
-[Tabell 213-1](handlingar.tabeller/213-1.csv)
-
-| Livsmedelsgrupp | Miljösmarta matval | Beredskap |
-| --- | --- | --- |
 |  | spannmålsodlingar. Av<br>klimatskäl bör därför inte ris<br>användas mer jämfört med<br>idag. |  |
 | Baljväxter<br>Här ingår ärtor, bönor och<br>linser, men inte de som ligger i<br>sin skida, som sockerärtor och<br>gröna bönor. | En ökad andel svenska<br>baljväxter samt ökad andel<br>ekologiska eller andra<br>miljöcertifierade produkter är<br>bra ur miljösynpunkt. | Eftersom baljväxter är<br>näringstäta och kan lagras<br>länge utan kyla är de lämpliga<br>ur beredskapsperspektiv.<br>Konserverade baljväxter har<br>fördelen att de inte kräver<br>någon tillagning. |
 | Potatis | En ökad andel svensk potatis<br>samt ekologiska eller andra<br>miljöcertifierade produkter är<br>bra ur miljösynpunkt. | Potatis är lagringstålig, men<br>kräver kokning eller annan<br>tillagning. |
 | Matfetter | En ökad andel rapsolja, särskilt<br>svenskproducerad, samt<br>minskad andel palmolja och<br>kokosprodukter bidrar till<br>miljömässig hållbarhet. Att öka<br>andelen ekologiska eller andra<br>miljöcertifierade matfetter är<br>bra ur miljösynpunkt. Om<br>palmolja används är det viktigt<br>att välja certifierad palmolja<br>och att sträva efter de<br>certifikat som medför ökad<br>spårbarhet\*.<br>\*Certifikaten för<br>Segregerad palmolja (eng.<br>”Segregated”) och Bevarad<br>identitet (eng. ”Identity<br>Preserved”) ger störst spårbarhet. | Vegetabilisk matolja är<br>energität, lagringsbar utan kyl<br>och har lång hållbarhet. |
 | Fisk och skaldjur | Servera fisk och skaldjur som<br>har fiskats på ett skonsamt sätt<br>och kommer från hållbara<br>bestånd eller har odlats på ett<br>hållbart sätt.<br>Musslor, sill, skarpsill och<br>vitfisk har miljömässiga<br>fördelar jämfört med laxfiskar<br>och räkor. Miljöcertifierade<br>produkter, exempelvis ASC,<br>MSC och KRAV, minskar<br>negativ miljöpåverkan. | Eftersom färsk och fryst fisk<br>kräver kyl- eller frysförvaring<br>och har kort hållbarhet är<br>fiskkonserver och torkad fisk<br>mer lämpliga ur<br>beredskapssynpunkt. |
 | Mejeriprodukter | Av klimatskäl bör mjölk- och<br>mejeriprodukter inte användas<br>mer jämfört med idag. En ökad<br>andel svenska mejeriprodukter | Färska mejeriprodukter kan<br>ätas utan tillagning, men<br>kräver kylförvaring.<br>Mjölkpulver och |
-
-<!-- sida 214 -->
-
-66
-
-[Tabell 214-1](handlingar.tabeller/214-1.csv)
-
-| Livsmedelsgrupp | Miljösmarta matval | Beredskap |
-| --- | --- | --- |
 |  | samt ökad andel ekologiska<br>eller andra miljöcertifierade<br>produkter är bra ur<br>miljösynpunkt. | högpastöriserade produkter<br>är mer lämpliga ur<br>beredskapssynpunkt. |
 | Rött kött och charkprodukter<br>Denna grupp omfattar kött från<br>nöt, gris, lamm, ren och klövvilt.<br>Charkprodukter är processat<br>kött som har rökts, behandlats<br>med nitrit eller konserverats på<br>annat sätt. Exempel är korv,<br>bacon, kassler, rökt skinka,<br>salami. | Minska mängden kött som<br>serveras, det minskar matens<br>klimatpåverkan. Av det kött<br>som serveras är en ökad andel<br>svenskt kött, kött från djur som<br>betat naturbetesmarker i<br>Sverige och kött från<br>mjölkproducerande djur bra ur<br>miljösynpunkt. Även en ökad<br>andel viltkött och ren är bra. En<br>ökad andel ekologiskt eller<br>annat miljöcertifierat kött är<br>bra ur miljösynpunkt.<br>Charkprodukter, där fler delar<br>av djuret tas tillvara, är bra ur<br>miljösynpunkt. | Eftersom färskt och fryst kött<br>och chark kräver kylförvaring<br>och har kort hållbarhet är<br>köttkonserver eller torkat<br>kött mer lämpliga ur<br>beredskapsperspektiv. De<br>senare kräver inte heller<br>någon tillagning. |
 | Vitt kött inklusive<br>charkprodukter<br>Denna grupp omfattar kött från<br>fågel, exempelvis kyckling och<br>kalkon. Charkprodukter är<br>processat kött som har rökts,<br>behandlats med nitrit eller<br>konserverats på annat sätt,<br>exempelvis kycklingkorv och<br>rökt kalkon. | Av miljöskäl bör rött kött inte<br>ersättas med vitt kött. Av det<br>kött som serveras är en ökad<br>andel svensk fågel, ekologiska<br>eller andra miljöcertifierade<br>produkter bra ur<br>miljösynpunkt. Att använda<br>värphöns och tuppar samt ta<br>tillvara fler delar av djuren, till<br>exempel i form av<br>charkprodukter, bidrar till<br>minskad miljöpåverkan. | Eftersom färskt och fryst vitt<br>kött kräver kylförvaring och<br>har kort hållbarhet är det inte<br>lämpligt ur<br>beredskapssynpunkt.<br>Konserverade produkter är<br>däremot mer lämpliga. |
 | Ägg | En ökad andel svenska ägg<br>samt ekologiska eller andra<br>miljöcertifierade produkter är<br>bra ur miljösynpunkt. | Ägg är näringstäta och har<br>relativt lång hållbarhet även<br>utan kylförvaring. Tillagning<br>av ägg är snabb och kräver<br>inte mycket vatten. Ägg är<br>därför bra ur<br>beredskapssynpunkt. |
 | Köttersättningsprodukter<br>inklusive hybrider mellan<br>animalier och vegetabilier<br>I gruppen ingår exempelvis färs,<br>korvar, bollar och biffar<br>baserade på vegetabiliska<br>proteinkällor | Att servera produkter med hög<br>andel vegetabilier kan minska<br>måltidens klimatpåverkan.<br>Produkter som tar tillvara<br>biprodukter från annan<br>produktion bidrar till ett<br>effektivare livsmedelssystem.<br>En ökad andel ekologiska eller<br>andra miljöcertifierade | Ur beredskapssynpunkt är<br>torkade eller konserverade<br>produkter bättre än kylda<br>eller frysta. |
+|  | produkter är bra ur<br>miljösynpunkt. |  |
+
+<!-- sida 213 -->
+
+65
+
+<!-- sida 214 -->
+
+66
 
 <!-- sida 215 -->
 
@@ -9795,12 +9758,6 @@ maten och de som är med då maten serveras och äts i skolan. Det handlar ofta 
 och involvera alla som är berörda. Måltidspersonalen kan framför allt påverka köks- och
 
 67
-
-[Tabell 215-1](handlingar.tabeller/215-1.csv)
-
-| Livsmedelsgrupp | Miljösmarta matval | Beredskap |
-| --- | --- | --- |
-|  | produkter är bra ur<br>miljösynpunkt. |  |
 
 <!-- sida 216 -->
 
@@ -10539,7 +10496,7 @@ nordiska näringsrekommendationerna.
 
 83
 
-[Tabell 231-1](handlingar.tabeller/231-1.csv)
+[Tabell 231-234-1](handlingar.tabeller/231-234-1.csv)
 
 | Livsmedelsgru<br>pp | Viktig källa till: | Påverkan på hälsa: | Rekommendationer<br>för måltider i skolan: | Rekommendation i<br>NNR: |
 | --- | --- | --- | --- | --- |
@@ -10548,45 +10505,30 @@ nordiska näringsrekommendationerna.
 | Spannmål som<br>pasta, ris,<br>bröd, och<br>andra<br>cerealier | Kolhydrater, fibrer,<br>protein, järn,<br>magnesium, zink och<br>selen när<br>fullkornsprodukter<br>används. Raffinerade<br>produkter, som vitt<br>bröd innehåller<br>mindre<br>näringsämnen än<br>fullkornsprodukter.<br>Fullkornsris<br>innehåller ofta högre<br>halter arsenik än vitt<br>ris. | Minskar risken för<br>kranskärlssjukdom,<br>tjock- och<br>ändtarmscancer och<br>typ 2-diabetes. | - Merparten av<br>brödet som<br>serveras vid<br>lunchen och<br>andra måltider<br>bör uppfylla<br>kriterierna för<br>Nyckelhålsmärkn<br>ing.<br>- Ris, särskilt<br>fullkornsris,<br>serveras mindre<br>ofta. | Minst 90 gram<br>fullkorn per dag. |
 | Potatis | Kolhydrater, fibrer<br>(främst i skalet) C-<br>vitamin, B6, niacin,<br>folat, kalcium, fosfor,<br>magnesium och<br>kalium. | Det få studier som<br>finns indikerar att<br>potatis inte är<br>associerat till varken<br>hjärt- och<br>kärlsjukdom eller<br>dödlighet oavsett<br>orsak. | - Servera friterad<br>potatis i<br>undantagsfall. | Potatis bör ingå som<br>en betydande del av<br>kosten. |
 | Fisk och<br>skaldjur | Protein, fleromättat<br>omega-3 fett, D-<br>vitamin, vitamin B12,<br>jod och selen. | Minskar risken för<br>hjärt- och<br>kärlsjukdom, stroke<br>och metabolt | - Servera minst 1<br>gång i veckan. | 300–450 gram fisk<br>per vecka (tillagad<br>vikt) varav minst 200<br>gram per vecka bör<br>vara fet fisk. |
-
-<!-- sida 232 -->
-
-84
-
-[Tabell 232-1](handlingar.tabeller/232-1.csv)
-
-| Livsmedelsgru<br>pp | Viktig källa till: | Påverkan på hälsa: | Rekommendationer<br>för måltider i skolan: | Rekommendation i<br>NNR: |
-| --- | --- | --- | --- | --- |
 |  |  | syndrom. Vissa<br>fiskarter innehåller<br>förhöjda halter<br>miljöföroreningar,<br>som dioxiner, PCB,<br>PFAS och kvicksilver. | - Servera fet fisk<br>minst 2 gånger<br>per 4 veckor. |  |
 | Rött kött och<br>charkprodukte<br>r | Protein,<br>biotillgängligt järn<br>och zink, vitamin B12<br>och flera andra<br>mineraler och<br>vitaminer, mättat fett<br>och transfett i<br>varierande grad.<br>Charkprodukter<br>innehåller mycket<br>salt och mättat fett. | En hög konsumtion<br>av rött kött, särskilt<br>av chark, bidrar till<br>ökad risk för tjock-<br>och ändtarmscancer.<br>Chark innehåller<br>även salt och mättat<br>fett och ökar därför<br>risken för hjärt- och<br>kärlsjukdom. | - Servera rött kött<br>max 1–2 gånger<br>per vecka varav<br>chark max 1–2<br>gånger per<br>månad. | Intaget av rött kött<br>bör begränsas till<br>högst 350 gram per<br>vecka (tillagad vikt).<br>Konsumtionen av<br>chark<br>rekommenderas vara<br>så låg som möjligt. |
 | Vitt kött från<br>fågel | Protein, selen,<br>tiamin, riboflavin,<br>niacin, B6, B12.<br>Bidrar även med<br>biotillgängligt järn<br>men i mindre mängd<br>än rött kött. Vitt kött<br>innehåller lägre andel<br>mättat fett och högre<br>andel omättat fett än<br>rött kött. | Matfågel är ett<br>näringsrikt livsmedel.<br>Fågelkött bedöms<br>varken ha positiv<br>eller negativ<br>påverkan på risken<br>för kostrelaterad<br>ohälsa. Däremot ökar<br>charkprodukter från<br>fågelkött risken för<br>tjock- och<br>ändtarmscancer. | - Servera inte<br>fågel oftare<br>jämfört med<br>idag.<br>- Begränsa<br>mängden<br>charkprodukter<br>av fågelkött. | Konsumtionen av<br>charkprodukter av<br>vitt kött bör vara så<br>låg som möjligt. Det<br>finns ingen<br>hälsobaserad<br>rekommendation om<br>obearbetat vitt kött. |
 | Mjölk, fil och<br>yoghurt | Protein, kalcium, jod,<br>A-vitamin, riboflavin<br>och vitamin D och<br>B12. Magra<br>mejeriprodukter<br>innehåller mindre<br>mängd mättat fett<br>men samma innehåll<br>av näringsämnen. | Mejeriprodukter med<br>lågt fettinnehåll<br>och/eller som är<br>fermenterade (som<br>yoghurt, fil och ost)<br>minskar risken för<br>hjärt- och<br>kärlsjukdom, typ 2-<br>diabetes och tjock-<br>och ändtarmscancer. | - Vatten som<br>måltidsdryck i<br>första hand.<br>Mager mjölk<br>eller berikade<br>vegetabiliska<br>alternativ är<br>också bra<br>alternativ.<br>- 3,5–5 dl magra<br>mejeriprodukter<br>per dag<br>rekommenderas,<br>vilket inkluderar<br>mejeriprodukter<br>i maten, till<br>frukost och<br>mellanmål och | 350–500 ml mager<br>mjölk och<br>mejeriprodukter per<br>dag är en tillräcklig<br>mängd. |
-
-<!-- sida 233 -->
-
-85
-
-[Tabell 233-1](handlingar.tabeller/233-1.csv)
-
-| Livsmedelsgru<br>pp | Viktig källa till: | Påverkan på hälsa: | Rekommendationer<br>för måltider i skolan: | Rekommendation i<br>NNR: |
-| --- | --- | --- | --- | --- |
 |  |  |  | eventuell<br>måltidsdryck.<br>- Frukost och<br>mellanmål:<br>servera osötade<br>mejeriprodukter,<br>gärna<br>fermenterade<br>som fil och<br>yoghurt. |  |
 | Mejeriprodukt<br>er i<br>matlagningen<br>(grädde,<br>crème fraiche,<br>ost och mjölk i<br>matlagningen) | Se ovan | Se ovan | - Begränsa<br>mängden<br>mejeriprodukter<br>med fetthalt<br>över 30 %. | Se ovan. |
 | Vegetabiliska<br>alternativ till<br>kött<br>(exempelvis<br>quorn, tofu<br>och<br>sojaprodukter<br>) | Protein och fibrer.<br>Järninnehållet kan<br>vara både högre eller<br>lägre än i kött, men<br>järnet är i form av<br>icke-hemjärn som har<br>lägre biotillgänglighet<br>och är svårare för<br>kroppen att<br>absorbera än<br>hemjärn. | Att ersätta en del<br>animaliskt protein<br>med vegetabiliskt<br>protein kan minska<br>risken för hjärt- och<br>kärlsjukdom samt<br>typ-2 diabetes. | - Vegetabiliska<br>köttersättningsp<br>rodukter kan<br>vara ett sätt att<br>servera mer<br>baljväxter och<br>annan mat från<br>växtriket och<br>mindre av<br>animaliska<br>livsmedel. | Det finns ingen<br>särskild<br>rekommendation om<br>dessa produkter. |
 | Ägg | Protein, mineraler<br>som jod, järn,<br>kalcium, zink och<br>selen och alla<br>vitaminer förutom<br>vitamin C. | Ägg bidrar med<br>näring och kan ingå i<br>en varierad kost. Att<br>ersätta en del rött<br>kött och chark med<br>ägg kan vara positivt<br>hur hälsosynpunkt. | - Ägg är ett<br>näringsrikt<br>livsmedel och<br>har sin givna<br>plats på menyn,<br>särskilt i en<br>lakto-ovo-<br>vegetarisk kost. | Ett måttligt intag av<br>ägg kan vara del av<br>en hälsosam kost. |
 | Nötter och<br>frön | Enkel- och<br>fleromättade fetter,<br>protein, magnesium,<br>zink, koppar, kalium,<br>fosfor, järn, E-<br>vitamin, tiamin,<br>vitamin B6, folat och<br>niacin. | Minskar risken för<br>hjärt- och<br>kärlsjukdom och<br>cancerdödlighet.<br>Evidensen för<br>hälsofördelar finns<br>för nötter medan<br>fröer inte är lika<br>välstuderade. Linfrön<br>kan innehålla<br>cyanogena<br>glykosider/vätecyani<br>d. | - Servera inte<br>nötter som<br>mandel,<br>hasselnöt,<br>valnöt,<br>cashewnöt,<br>pekannöt,<br>paranöt,<br>pistaschmandel,<br>macadamianöt<br>samt jordnöt och<br>sesamfrö i<br>maten. | 20–30 gram nötter<br>om dagen. Fröer kan<br>också gärna ingå i<br>kosten. |
+| Matfetter<br>(oljor,<br>matfettsbland<br>ningar, smör<br>och margarin | Omättade fetter (de<br>flesta vegetabiliska<br>oljor). Särskilt<br>rapsolja är en bra<br>källa till omega-3-<br>fett. Palm-, kokos-,<br>sheafetter och smör<br>innehåller mycket<br>mättade fetter.<br>Matfetter bidrar med<br>vitamin A, D och E. | Vegetabiliska oljor<br>och matfetter med<br>hög andel omättat<br>fett minskar risken<br>för hjärt- och<br>kärlsjukdom, typ 2-<br>diabetes, cancer och<br>obesitas. | - Använd rapsolja<br>eller andra<br>Nyckelhålsmärkt<br>a matfetter<br>istället för smör,<br>i matlagning och<br>till smörgås. | En konsumtion på 25<br>gram vegetabilisk olja<br>per dag eller<br>motsvarande mängd<br>omättade fettsyror<br>från råvaror<br>rekommenderas. |
+| Salt | Natrium. Joderat salt<br>är en viktig källa till<br>jod. | Ett högt intag höjer<br>blodtrycket, vilket<br>ökar risken för<br>hjärtinfarkt,<br>hjärtsvikt, stroke och<br>njurskador. | - Använd<br>sparsamt med<br>salt och<br>saltinnehållande<br>kryddor som<br>buljong, soja och<br>örtsalt.<br>- Använd joderat<br>salt. | Högst 6 gram salt om<br>dagen. Välj joderat<br>salt. |
+| Energitäta,<br>näringsfattiga<br>livsmedel | Energi och tillsatt<br>socker men lite eller<br>ingen näring. | Socker ökar risken för<br>karies. Sockersötade<br>drycker som läsk ökar<br>risken för övervikt,<br>typ 2-diabetes,<br>förhöjt blodtryck och<br>hjärt- och<br>kärlsjukdom. | - Undvik<br>sockerrika<br>livsmedel som<br>saft, läsk, godis,<br>glass och<br>fikabröd<br>- Undvik drycker<br>sötade med<br>socker eller<br>sötningsmedel,<br>till exempel<br>måltidsdryck,<br>nektar, saft eller<br>läsk bör<br>serveras. | Begränsad<br>konsumtion av<br>sötsaker och andra<br>sockerrika livsmedel. |
+
+<!-- sida 232 -->
+
+84
+
+<!-- sida 233 -->
+
+85
 
 <!-- sida 234 -->
 
 86
-
-[Tabell 234-1](handlingar.tabeller/234-1.csv)
-
-| Livsmedelsgru<br>pp | Viktig källa till: | Påverkan på hälsa: | Rekommendationer<br>för måltider i skolan: | Rekommendation i<br>NNR: |
-| --- | --- | --- | --- | --- |
-| Matfetter<br>(oljor,<br>matfettsbland<br>ningar, smör<br>och margarin | Omättade fetter (de<br>flesta vegetabiliska<br>oljor). Särskilt<br>rapsolja är en bra<br>källa till omega-3-<br>fett. Palm-, kokos-,<br>sheafetter och smör<br>innehåller mycket<br>mättade fetter.<br>Matfetter bidrar med<br>vitamin A, D och E. | Vegetabiliska oljor<br>och matfetter med<br>hög andel omättat<br>fett minskar risken<br>för hjärt- och<br>kärlsjukdom, typ 2-<br>diabetes, cancer och<br>obesitas. | - Använd rapsolja<br>eller andra<br>Nyckelhålsmärkt<br>a matfetter<br>istället för smör,<br>i matlagning och<br>till smörgås. | En konsumtion på 25<br>gram vegetabilisk olja<br>per dag eller<br>motsvarande mängd<br>omättade fettsyror<br>från råvaror<br>rekommenderas. |
-| Salt | Natrium. Joderat salt<br>är en viktig källa till<br>jod. | Ett högt intag höjer<br>blodtrycket, vilket<br>ökar risken för<br>hjärtinfarkt,<br>hjärtsvikt, stroke och<br>njurskador. | - Använd<br>sparsamt med<br>salt och<br>saltinnehållande<br>kryddor som<br>buljong, soja och<br>örtsalt.<br>- Använd joderat<br>salt. | Högst 6 gram salt om<br>dagen. Välj joderat<br>salt. |
-| Energitäta,<br>näringsfattiga<br>livsmedel | Energi och tillsatt<br>socker men lite eller<br>ingen näring. | Socker ökar risken för<br>karies. Sockersötade<br>drycker som läsk ökar<br>risken för övervikt,<br>typ 2-diabetes,<br>förhöjt blodtryck och<br>hjärt- och<br>kärlsjukdom. | - Undvik<br>sockerrika<br>livsmedel som<br>saft, läsk, godis,<br>glass och<br>fikabröd<br>- Undvik drycker<br>sötade med<br>socker eller<br>sötningsmedel,<br>till exempel<br>måltidsdryck,<br>nektar, saft eller<br>läsk bör<br>serveras. | Begränsad<br>konsumtion av<br>sötsaker och andra<br>sockerrika livsmedel. |
 
 <!-- sida 235 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.227417af18c8af9fa1e32a69/1705067329
 sha256: 776b4b4f0118b043a00adc36f12ee8d91ffee071bed8dee2efdbd394efcfc5b4
 bytes: 9496923
 sidor: 168
-hamtad: 2026-10-08T00:46:32+00:00
-konverterad: 2026-10-08T00:47:22+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T08:39:37+00:00
+konverterad: 2026-10-14T08:40:16+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker]
 tal_obekraftade: [120, 121, 136]
-figurer: null
-tolkade: null
+figurer: [18, 19, 20, 21, 22, 23, 24, 29, 30, 33, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 94, 96, 136]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1810,11 +1810,6 @@ KUNGSBACKA  KOMMUN
 
 Sammanställning färdtjänstkostnader
 
-2015       2016       2017       2018       2019
-Färdtjänst\* 16 421 728 17 112 350 17 991 847 21 254 311 25 108 913
-Riksfärdtjänst  258 251    331 510    337 601    381 175    438 324
-Beställningscentral 1 088 500 1 248 400 1 299 500  1 297 100  1 320 301
-Summa    17 768 479 18 692 260 19 628 948 22 932 586 26 867 538
 \*inkl. systemkostnader samt reglering för månadskort och egenavgifter
 
 Samåkningsgrad
@@ -1870,6 +1865,15 @@ Figur 24 Nettokostnad skolskjuts grundskola åk 1-9, kr/elev, enligt rättning i
 Nedanstående tabell visar på kostnader för busskort för Kungsbackas skolpliktiga elever (F-klass till åk 9) i
 både kommunala och fristående skolor. Skolskjuts genomförs både med skolbuss och linjetrafik samt i vissa
 fall med taxi. För elever som reser med skolbuss utfärdar respektive skola färdbevis. De elever som reser
+
+[Tabell 44-1](handlingar.tabeller/44-1.csv)
+
+|  | 2015 | 2016 | 2017 | 2018 | 2019 |
+| --- | --- | --- | --- | --- | --- |
+| Färdtjänst\* | 16 421 728 | 17 112 350 | 17 991 847 | 21 254 311 | 25 108 913 |
+| Riksfärdtjänst | 258 251 | 331 510 | 337 601 | 381 175 | 438 324 |
+| Beställningscentral | 1 088 500 | 1 248 400 | 1 299 500 | 1 297 100 | 1 320 301 |
+| Summa | 17 768 479 | 18 692 260 | 19 628 948 | 22 932 586 | 26 867 538 |
 
 <!-- sida 45 -->
 
@@ -4144,161 +4148,162 @@ RAM
 2024-01-05
 SAMMANSTÄLLNING AV INVESTERINGAR, 2025-2029
 Nämnd: Vatten och avlopp
+Nämnd Specifikation Totalt
+investerings- Likvidbehov = investeringsbudget
+TE               anslag
+2025-2029 Budget B udget Plan Plan Plan Plan Plan Plan Plan Plan Plan
+2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034
+510 VA Teknik
+3575 Fordon, maskiner och redskap 8 400 1 700 2 000 1 200 1 200 2 000 2 000 3 000 3 000 3 000 3 000 3 000
+Ny Filmbuss         0 5 000
+Ny Spolbil         8 000 0 8 000
+Ny Upplaget Depå    0 6 000
+Summa 510      16 400 2 000 9 200 1 200 2 000 2 000 3 000 3 000 3 000 3 000 3 000
+511 Vattenproduktion
+3529 VUTB Barriärskydd UV-anläggningar 0 700 0 0 0
+5572 VDUF Reinvestering vattenproduktion (inkl investering) 14 900 5 000 4 500 2 600 2 600 2 600 2 600 3 000 3 000 3 000 3 000 3 000
+4598 VUTB Fjärås Bräcka ökat uttag 10 000 2 000 2 000 2 000 2 000 2 000 2 000
+5068 VUTB Fjärås Bräcka ny intagsledning 0 1 200 0 0 0
+5081 VUTB Fjärås VV ökad reservoarvolym 60 000 2 000 0 30 000 30 000
+550C VUTB Öjersbos vattenförsörjning, förstudie 5 000 5 000 5 000 0 0
+Kommande ospecificerade projekt vattenproduktion 20 000 10 000 10 000 10 000 10 000 10 000 10 000 10 000
+Summa 511      109 900 11 500 34 600 34 600 14 600 14 600 13 000 13 000 13 000 13 000 13 000
+512 VA-ledningsnät
+3528 VUTB Nya serviser, bef anlägg, UT 29 000 5 000 5 000 6 000 6 000 6 000 6 000
+3539 VUTB Nya serviser, bef anlägg, IN -95 000 -30 000 -15 000 -20 000 -20 000 -20 000 -20 000
+3515 VDUF Reinvestering VA-ledningar 489 300 35 800 99 000 111 000 93 100 93 100 93 100
+5055 VUTB Reservvatten Varberg 99 000 0 2 000 2 000 20 000 35 000 40 000
+5550 VUTB Vattenkiosker 2 000 300 500 500 500 500
+5507 VUTB Reservvatten Göteborg 225 090 10 000 57 200 52 670 28 800 62 500 23 920
+5059 VUTB Digitala vattenmätare 20 000 4 000 4 000 4 000 4 000 4 000 4 000
+5060 VUTB Voxlöv/Björkris 24 000 20 000 24 000 0 0
+550P VUTB Fjärås VV - Hammerö uppdimensionering vatten, et 2 15 000 65 000 15 000 0 0
+550Q VUTB Fjärås VV - Hammerö uppdimensionering vatten, et 3 35 000 7 000 5 000 20 000 10 000
+VUTB VA Väg940 Rösan-Forsbäck (Ny vattenledning längs
+5598 nya Onsalavägen, cirka 450 m PE225) 1 000 1 000 0 1 000 0
+5080 VUTB Stockalid 1:4 VA utom plan 0 0 0 0 0
+5077 VDUF Åtgärder tillskottsvatten 50 000 10 000 10 000 10 000 10 000 10 000 10 000
+5061 Åsa dagvattenledning 44 000 10 000 4 000 20 000 20 000
+5076 VUTB Läckageövervakning (Åtgärder för minskat utläckage) 5 000 1 000 1 000 1 000 1 000 1 000 1 000
+550M VUTB Bolsheden-Släps Högås 0 0 0 0 0
+550N VUTB Snipen-Bolsheden 5 720 0 5 720 0 0
+550R VUTB Dagvatten Svangatan 0 0 0 0 0
+550B VUTB Frillesås - åtgärder spillvatten 0 0 0 0 0
+Ny VUTB Hedeleden Södra 2 000 0 2 000 0
+Ny VUTB Hedeleden Norra 14 000 4 000 4 000 10 000 0 0
+Ny VUTB Stockalid-Kläppa 179 700 21 000 55 700 45 000 58 000
+550J VUTB Bolsheden 1:2 0 2 000
+VA-utb dagvatten 40 000  20 000 20 000
+VUTB Ombyggnad SPU84 samt ledningar mot Ölmanäs ARV 84 000 2 000 6 000 38 000 38 000
+Kommande ospecificerade ledningsnätsprojekt 200 000 200 000 200 000 200 000 200 000 200 000 200 000
+Summa 512          246 420 279 870 276 400 308 100 358 020 200 000 200 000 200 000 200 000 200 000
+Sannolikhet (utifrån erfarenhet och trend) 0,9 0,80 1,0 1,0 1,0
+Summa 512 justerad 1 388 200 221 800 223 900 276 400 308 100 358 000
+0
+513 Avloppsrening 0
+3540 VDUF Reinvestering reningsverk 30 500 64 000 4 500 13 500 5 500 3 000 4 000
+3513 VDUF Reinvestering pumpstationer (inkl fastigheter) 36 700 16 500 8 300 8 300 6 700 6 700 6 700
+VDUF Reinvestering LTA-stationer 900 180 180 180 180 180
+5056 VUTB Bräddvattenrening pumpstationer 6 000 2 400 1 200 1 200 1 200 1 200 1 200
+5575 VUTB Energisparprojekt-Pumpar 3 300 600 600 600 600 600 900
+550U VUTB Slamavvattning yttre verk 6 000 3 000 3 000 3 000 0 0
+5066 VUTB Framtidens avloppsrening i Kungsbacka (FAR) 0100 000 0 0 0 0
+Kommande ospecificerade avloppsreningsprojekt 15 000 15 000 15 000 15 000 15 000
+Summa 513      83 000 17 700 26 700 14 100 11 600 12 900 15 000 15 000 15 000 15 000 15 000
+0
+514 VA-omvandling 0
+5565 VOMV VA-utbyggnad Hagryd-Dala UT 75 000 30 000 60 000 10 000 5 000
+VOMV VA-utbyggnad Hagryd-Dala IN -40 000 -40 000
+4512 VOMV VA-utbyggnad Hanhals UT 0 40 000 0
+VOMV VA-utbyggnad Hanhals IN 0 -1 500 0
+5560 VOMV VA-utbyggnad Släps-Högås UT 64 130 30 500 64 130
+VOMV VA-utbyggnad Släps-Högås IN -8 000 -29 000 -8 000
+5094 VOMV VA-utbyggnad 405 Lerberg UT 6 000 6 000
+VOMV VA-utbyggnad 405 Lerberg IN -5 000 -1 500 -5 000
+5088 VOMV VA-utbyggnad 401 Alafors UT 27 000 10 000 17 000
+VOMV VA-utbyggnad 401 Alafors IN -20 000 -20 000
+5095 VOMV VA-utbyggnad 305 Runsås UT 60 000 60 000
+VOMV VA-utbyggnad 305 Runsås IN -45 000 -45 000
+550F VOMV VA-utbyggnad 407 Voxlöv UT 12 000 12 000
+VOMV VA-utbyggnad 407 Voxlöv IN -6 000 -6 000
+550G VOMV VA-utbyggnad 803 Kläppa UT 200 200
+VOMV VA-utbyggnad 803 Kläppa IN -200 -200
+550H VOMV VA-utbyggnad 804 Buared UT 44 000 20 000 24 000
+VOMV VA-utbyggnad 804 Buared IN -12 000 -12 000
+550I VOMV VA-utbyggnad 216 Sönnerbergen UT 19 000 52 000 9 000 10 000
+VOMV VA-utbyggnad 216 Sönnerbergen IN -13 000 -42 000 0 -13 000
+5090 VA-utbyggnad 513 Hanhals öster om UT 6 000 2 000 6 000
+0
+515 Exploateringsprojekt (KLK) 0
+5089 Skårby 12:1 UT 0 0 0 0  0
+5089 Skårby 12:1 IN 0 0 0 0  0
+5084 Må 3:13 UT     0 0 0 0  0
+5084 Må 3:13 IN     0 -4 000 0
+550X Skårby 2:3 UT  0 0 0 0  0
+550X Skårby 2:3 IN -9 000 0 0 -9 000 0
+5097 Skårby 6:19 (Björkris 2) UT 10 000 5 000 5 000 5 000
+5097 Skårby 6:19 (Björkris 2) IN -30 000 -9 000 -20 000 -10 000
+5065 Duvehed 2:14 UT 0 0 0 0 0
+5065 Duvehed 2:14 IN -4 000 -2 000 -2 000 -2 000 0
+550V VEXP Anneberg Centrum UT 19 990 510 6 830 6 830 6 330
+550V VEXP Anneberg Centrum IN -15 500 0 0 0 -15 500
+VEXP Frillesås-Rya 3:77 m.fl.(Rya industriområde) UT 52 000 22 000 10 000 28 000 14 000
+VEXP Frillesås-Rya 3:77 m.fl.(Rya industriområde) IN -47 000 -10 000 -23 000 -14 000
+551C VEXP Frillesås-Rya 2:1 , etapp 1 UT 0
+551C VEXP Frillesås-Rya 2:1 , etapp 1 IN 0 -4 000
+VEXP Stockalid 1:4 och 1:39 inom plan UT 10 000 5 000 5 000 5 000
+VEXP Stockalid 1:4 och 1:39 inom plan IN -10 000 -5 000 -5 000
+VEXP Åsa 5:246 UT 0 750 0
+VEXP Åsa 5:246 IN 0    0
+VEXP Rågelund 1:127 och Sintorp 4:260, 4:261 UT 30 000 10 000 20 000
+VEXP Rågelund 1:127 och Sintorp 4:260, 4:261 IN -15 000 -15 000
+VEXP Nötegång 2:207 UT 10 000 9 000 10 000
+VEXP Nötegång 2:207 IN -13 000 -13 000
+VEXP Bukärr 1:9 UT 5 000 3 000 5 000
+VEXP Bukärr 1:9 IN -1 500 -1 000 -1 500
+VEXP Kvarteret Gjutaren UT 19 000 10 000 5 000 10 000 4 000
+VEXP Kvarteret Gjutaren IN -18 000 -18 000
+VEXP Klovsten UT 37 000 0 10 000 12 000 12 000 3 000 0
+VEXP Klovsten IN -29 000 -5 000 -8 000 -8 000 -8 000
+VEXP Sydöstra centrum etapp 1 UT 30 000 1 000 2 000 10 000 10 000 5 000 3 000
+VEXP Sydöstra centrum etapp 1 IN -15 000 -5 000 -5 000 -5 000 -5 000 -5 000 -5 000
+VEXP Varla 2:198 Verksamhetsområde Västra Varla UT 0 5 000
+VEXP Varla 2:198 Verksamhetsområde Västra Varla IN 0 -4 000
+VEXP Varla 6:17, 6:18 och 6:22 UT 2 000 2 000 2 000
+VEXP Varla 6:17, 6:18 och 6:22 IN -1 000 -1 000 -1 000
+VEXP Tölö 6:4 m.fl. NÖ Kba UT 18 500 1 000 5 000 5 000 5 000 3 500
+VEXP Tölö 6:4 m.fl. NÖ Kba IN -18 000 -6 000 -6 000 -6 000
+VEXP Tölö 4:148, NÖ Kba UT 26 000 2 000 16 000 6 000 2 000
+VEXP Tölö 4:148, NÖ Kba IN -11 500 -2 000 -6 000 -3 500 -5 500 -3 500
+VEXP Hjälm 4:1 UT 0 5 500
+VEXP Hjälm 4:1 IN -2 250 -2 250 -2 250
+VEXP Kvarteret Valand UT 750 750
+VEXP Kvarteret Valand IN 0
+VEXP Kolla 5:6 (Förskola, Norra Gräskärr) UT 0 1 000
+VEXP Kolla 5:6 (Förskola, Norra Gräskärr) IN 0
+Kommande ospecificerade exploateringar 0 30 000 30 000 30 000 30 000 30 000
+Summa 514      30 500 26 100 58 600 -15 200 -25 500 -13 500 19 500 21 500 25 000 30 000 30 000
+S.A INVESTERINGAR 1 841 800482 710 403 700 375 200 323 100 358 800 381 000 280 500 282 500 286 000 291 000 291 000
 
 [Tabell 96-1](handlingar.tabeller/96-1.csv)
 
-| Nämnd<br>TE | Specifikation | Totalt<br>investerings-<br>anslag<br>2025-2029 | Likvidbehov = investeringsbudget |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | Budget<br>2024 | B udget<br>2025 | Plan<br>2026 | Plan<br>2027 | Plan<br>2028 | Plan<br>2029 | Plan<br>2030 | Plan<br>2031 | Plan<br>2032 | Plan<br>2033 | Plan<br>2034 |
-|  | 510 VA Teknik |  |  |  |  |  |  |  |  |  |  |  |  |
-| 3575 | Fordon, maskiner och redskap | 8 400 | 1 700 | 2 000 | 1 200 | 1 200 | 2 000 | 2 000 | 3 000 | 3 000 | 3 000 | 3 000 | 3 000 |
-| Ny | Filmbuss | 0 | 5 000 |  |  |  |  |  |  |  |  |  |  |
-| Ny | Spolbil | 8 000 |  | 0 | 8 000 |  |  |  |  |  |  |  |  |
-| Ny | Upplaget Depå | 0 | 6 000 |  |  |  |  |  |  |  |  |  |  |
-|  | Summa 510 | 16 400 |  | 2 000 9 200 |  | 1 200 | 2 000 | 2 000 | 3 000 | 3 000 | 3 000 | 3 000 | 3 000 |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 511 Vattenproduktion |  |  |  |  |  |  |  |  |  |  |  |  |
-| 3529 | VUTB Barriärskydd UV-anläggningar | 0 | 700 | 0 | 0 | 0 |  |  |  |  |  |  |  |
-| 5572 | VDUF Reinvestering vattenproduktion (inkl investering) | 14 900 | 5 000 | 4 500 | 2 600 | 2 600 | 2 600 | 2 600 | 3 000 | 3 000 | 3 000 | 3 000 | 3 000 |
-| 4598 | VUTB Fjärås Bräcka ökat uttag | 10 000 | 2 000 | 2 000 | 2 000 | 2 000 | 2 000 | 2 000 |  |  |  |  |  |
-| 5068 | VUTB Fjärås Bräcka ny intagsledning | 0 | 1 200 | 0 | 0 | 0 |  |  |  |  |  |  |  |
-| 5081 | VUTB Fjärås VV ökad reservoarvolym | 60 000 | 2 000 | 0 | 30 000 | 30 000 |  |  |  |  |  |  |  |
-| 550C | VUTB Öjersbos vattenförsörjning, förstudie | 5 000 | 5 000 | 5 000 | 0 | 0 |  |  |  |  |  |  |  |
-|  | Kommande ospecificerade projekt vattenproduktion | 20 000 |  |  |  |  | 10 000 | 10 000 | 10 000 | 10 000 | 10 000 | 10 000 | 10 000 |
-|  | Summa 511 | 109 900 |  | 11 500 34 600 |  | 34 600 | 14 600 | 14 600 | 13 000 | 13 000 | 13 000 | 13 000 | 13 000 |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | 512 VA-ledningsnät |  |  |  |  |  |  |  |  |  |  |  |  |
-| 3528 | VUTB Nya serviser, bef anlägg, UT | 29 000 | 5 000 | 5 000 | 6 000 | 6 000 | 6 000 | 6 000 |  |  |  |  |  |
-| 3539 | VUTB Nya serviser, bef anlägg, IN | -95 000 | -30 000 | -15 000 | -20 000 | -20 000 | -20 000 | -20 000 |  |  |  |  |  |
-| 3515 | VDUF Reinvestering VA-ledningar | 489 300 | 35 800 | 99 000 | 111 000 | 93 100 | 93 100 | 93 100 |  |  |  |  |  |
-| 5055 | VUTB Reservvatten Varberg | 99 000 | 0 | 2 000 | 2 000 | 20 000 | 35 000 | 40 000 |  |  |  |  |  |
-| 5550 | VUTB Vattenkiosker | 2 000 | 300 | 500 | 500 | 500 | 500 |  |  |  |  |  |  |
-| 5507 | VUTB Reservvatten Göteborg | 225 090 | 10 000 | 57 200 | 52 670 | 28 800 | 62 500 | 23 920 |  |  |  |  |  |
-| 5059 | VUTB Digitala vattenmätare | 20 000 | 4 000 | 4 000 | 4 000 | 4 000 | 4 000 | 4 000 |  |  |  |  |  |
-| 5060 | VUTB Voxlöv/Björkris | 24 000 | 20 000 | 24 000 | 0 | 0 |  |  |  |  |  |  |  |
-| 550P | VUTB Fjärås VV - Hammerö uppdimensionering vatten, et 2 | 15 000 | 65 000 | 15 000 | 0 | 0 |  |  |  |  |  |  |  |
-| 550Q | VUTB Fjärås VV - Hammerö uppdimensionering vatten, et 3 | 35 000 | 7 000 | 5 000 | 20 000 | 10 000 |  |  |  |  |  |  |  |
-| 5598 | VUTB VA Väg940 Rösan-Forsbäck (Ny vattenledning längs<br>nya Onsalavägen, cirka 450 m PE225) | 1 000 | 1 000 | 0 | 1 000 | 0 |  |  |  |  |  |  |  |
-| 5080 | VUTB Stockalid 1:4 VA utom plan | 0 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |
-| 5077 | VDUF Åtgärder tillskottsvatten | 50 000 | 10 000 | 10 000 | 10 000 | 10 000 | 10 000 | 10 000 |  |  |  |  |  |
-| 5061 | Åsa dagvattenledning | 44 000 | 10 000 | 4 000 | 20 000 | 20 000 |  |  |  |  |  |  |  |
-| 5076 | VUTB Läckageövervakning (Åtgärder för minskat utläckage) | 5 000 | 1 000 | 1 000 | 1 000 | 1 000 | 1 000 | 1 000 |  |  |  |  |  |
-| 550M | VUTB Bolsheden-Släps Högås | 0 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |
-| 550N | VUTB Snipen-Bolsheden | 5 720 | 0 | 5 720 | 0 | 0 |  |  |  |  |  |  |  |
-| 550R | VUTB Dagvatten Svangatan | 0 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |
-| 550B | VUTB Frillesås - åtgärder spillvatten | 0 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |
-| Ny | VUTB Hedeleden Södra | 2 000 | 0 | 2 000 | 0 |  |  |  |  |  |  |  |  |
-| Ny | VUTB Hedeleden Norra | 14 000 | 4 000 | 4 000 | 10 000 | 0 | 0 |  |  |  |  |  |  |
-| Ny | VUTB Stockalid-Kläppa | 179 700 |  | 21 000 | 55 700 | 45 000 | 58 000 |  |  |  |  |  |  |
-| 550J | VUTB Bolsheden 1:2 | 0 | 2 000 |  |  |  |  |  |  |  |  |  |  |
-|  | VA-utb dagvatten | 40 000 |  |  |  | 20 000 | 20 000 |  |  |  |  |  |  |
-|  | VUTB Ombyggnad SPU84 samt ledningar mot Ölmanäs ARV | 84 000 |  | 2 000 | 6 000 | 38 000 | 38 000 |  |  |  |  |  |  |
-|  | Kommande ospecificerade ledningsnätsprojekt | 200 000 |  |  |  |  |  | 200 000 | 200 000 | 200 000 | 200 000 | 200 000 | 200 000 |
-|  | Summa 512 |  |  | 246 420 279 870 |  | 276 400 | 308 100 | 358 020 | 200 000 | 200 000 | 200 000 | 200 000 | 200 000 |
-|  | Sannolikhet (utifrån erfarenhet och trend) |  |  | 0,9 0,80 |  | 1,0 | 1,0 | 1,0 |  |  |  |  |  |
-|  | Summa 512 justerad | 1 388 200 |  | 221 800 223 900 276 400 308 100 358 000 |  |  |  |  |  |  |  |  |  |
-|  |  | 0 |  |  |  |  |  |  |  |  |  |  |  |
-|  | 513 Avloppsrening | 0 |  |  |  |  |  |  |  |  |  |  |  |
-| 3540 | VDUF Reinvestering reningsverk | 30 500 | 64 000 | 4 500 | 13 500 | 5 500 | 3 000 | 4 000 |  |  |  |  |  |
-| 3513 | VDUF Reinvestering pumpstationer (inkl fastigheter) | 36 700 | 16 500 | 8 300 | 8 300 | 6 700 | 6 700 | 6 700 |  |  |  |  |  |
-|  | VDUF Reinvestering LTA-stationer | 900 |  | 180 | 180 | 180 | 180 | 180 |  |  |  |  |  |
-| 5056 | VUTB Bräddvattenrening pumpstationer | 6 000 | 2 400 | 1 200 | 1 200 | 1 200 | 1 200 | 1 200 |  |  |  |  |  |
-| 5575 | VUTB Energisparprojekt-Pumpar | 3 300 | 600 | 600 | 600 | 600 | 600 | 900 |  |  |  |  |  |
-| 550U | VUTB Slamavvattning yttre verk | 6 000 | 3 000 | 3 000 | 3 000 | 0 | 0 |  |  |  |  |  |  |
-| 5066 | VUTB Framtidens avloppsrening i Kungsbacka (FAR) | 0 | 100 000 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |
-|  | Kommande ospecificerade avloppsreningsprojekt |  |  |  |  |  |  |  | 15 000 | 15 000 | 15 000 | 15 000 | 15 000 |
-|  | Summa 513 | 83 000 |  | 17 700 26 700 |  | 14 100 | 11 600 | 12 900 | 15 000 | 15 000 | 15 000 | 15 000 | 15 000 |
-|  |  | 0 |  |  |  |  |  |  |  |  |  |  |  |
-|  | 514 VA-omvandling | 0 |  |  |  |  |  |  |  |  |  |  |  |
-| 5565 | VOMV VA-utbyggnad Hagryd-Dala UT | 75 000 | 30 000 | 60 000 | 10 000 | 5 000 |  |  |  |  |  |  |  |
-|  | VOMV VA-utbyggnad Hagryd-Dala IN | -40 000 |  |  |  | -40 000 |  |  |  |  |  |  |  |
-| 4512 | VOMV VA-utbyggnad Hanhals UT | 0 | 40 000 | 0 |  |  |  |  |  |  |  |  |  |
-|  | VOMV VA-utbyggnad Hanhals IN | 0 | -1 500 | 0 |  |  |  |  |  |  |  |  |  |
-| 5560 | VOMV VA-utbyggnad Släps-Högås UT | 64 130 | 30 500 | 64 130 |  |  |  |  |  |  |  |  |  |
-|  | VOMV VA-utbyggnad Släps-Högås IN | -8 000 | -29 000 | -8 000 |  |  |  |  |  |  |  |  |  |
-| 5094 | VOMV VA-utbyggnad 405 Lerberg UT | 6 000 |  | 6 000 |  |  |  |  |  |  |  |  |  |
-|  | VOMV VA-utbyggnad 405 Lerberg IN | -5 000 | -1 500 | -5 000 |  |  |  |  |  |  |  |  |  |
-| 5088 | VOMV VA-utbyggnad 401 Alafors UT | 27 000 |  | 10 000 | 17 000 |  |  |  |  |  |  |  |  |
-|  | VOMV VA-utbyggnad 401 Alafors IN | -20 000 |  |  | -20 000 |  |  |  |  |  |  |  |  |
-| 5095 | VOMV VA-utbyggnad 305 Runsås UT | 60 000 |  |  | 60 000 |  |  |  |  |  |  |  |  |
-|  | VOMV VA-utbyggnad 305 Runsås IN | -45 000 |  |  | -45 000 |  |  |  |  |  |  |  |  |
-| 550F | VOMV VA-utbyggnad 407 Voxlöv UT | 12 000 |  |  | 12 000 |  |  |  |  |  |  |  |  |
-|  | VOMV VA-utbyggnad 407 Voxlöv IN | -6 000 |  |  | -6 000 |  |  |  |  |  |  |  |  |
-| 550G | VOMV VA-utbyggnad 803 Kläppa UT | 200 |  | 200 |  |  |  |  |  |  |  |  |  |
-|  | VOMV VA-utbyggnad 803 Kläppa IN | -200 |  | -200 |  |  |  |  |  |  |  |  |  |
-| 550H | VOMV VA-utbyggnad 804 Buared UT | 44 000 |  |  |  | 20 000 | 24 000 |  |  |  |  |  |  |
-|  | VOMV VA-utbyggnad 804 Buared IN | -12 000 |  |  |  |  | -12 000 |  |  |  |  |  |  |
-| 550I | VOMV VA-utbyggnad 216 Sönnerbergen UT | 19 000 | 52 000 | 9 000 | 10 000 |  |  |  |  |  |  |  |  |
-|  | VOMV VA-utbyggnad 216 Sönnerbergen IN | -13 000 | -42 000 | 0 | -13 000 |  |  |  |  |  |  |  |  |
-| 5090 | VA-utbyggnad 513 Hanhals öster om UT | 6 000 | 2 000 |  |  | 6 000 |  |  |  |  |  |  |  |
-|  | VA-utbyggnad 513 Hanhals öster om IN | -2 000 | -1 500 |  |  | -2 000 |  |  |  |  |  |  |  |
-|  | VA-utbyggnad 503 Schweizerdalen UT | 15 000 |  |  |  | 15 000 |  |  |  |  |  |  |  |
-|  | VA-utbyggnad 503 Schweizerdalen IN | -6 000 |  |  |  | -6 000 |  |  |  |  |  |  |  |
-|  | VA-utbyggnad 107 Solberga UT | 0 |  |  |  |  |  |  |  |  |  |  |  |
-|  | VA-utbyggnad 107 Solberga IN | 0 |  |  |  |  |  |  |  |  |  |  |  |
-|  | VA-utbyggnad 103 Tollesbur syd UT | 8 000 |  |  |  | 8 000 |  |  |  |  |  |  |  |
-|  | VA-utbyggnad 103 Tollesbur syd IN | -3 000 |  |  |  | -3 000 |  |  |  |  |  |  |  |
-|  | VA-utbyggnad 205 Altardalsvägen UT | 17 000 |  |  |  |  | 17 000 |  |  |  |  |  |  |
-|  | VA-utbyggnad 205 Altardalsvägen IN | -6 000 |  |  |  |  | -6 000 |  |  |  |  |  |  |
-|  | VA-utbyggnad 504 Rygga UT | 26 300 |  | 300 |  |  | 26 000 |  |  |  |  |  |  |
-|  | VA-utbyggnad 504 Rygga IN | -10 000 |  |  |  |  | -10 000 |  |  |  |  |  |  |
-|  | Kommande VA-utbyggnad enlig plan UT | 83 800 | 0 | 2 000 | 2 800 | 29 000 | 27 000 | 23 000 | 30 000 | 30 000 | 30 000 | 30 000 | 30 000 |
-|  | Kommande VA-utbyggnad enlig plan IN | -54 000 |  |  |  | -20 000 | -18 000 | -16 000 |  |  |  |  |  |
-|  | Summa 514 |  |  | 138 400 27 800 |  | 12 000 | 48 000 | 7 000 | 30 000 | 30 000 | 30 000 | 30 000 | 30 000 |
-|  | Sannolikhet (utifrån erfarenhet och trend) |  |  | 0,9 0,8 |  | 1,0 | 1,0 | 1,0 |  |  |  |  |  |
-|  | Summa 512 justerad | 213 800 |  | 124 600 22 200 |  | 12 000 | 48 000 | 7 000 |  |  |  |  |  |
-|  |  | 0 |  |  |  |  |  |  |  |  |  |  |  |
-|  | 515 Exploateringsprojekt (KLK) | 0 |  |  |  |  |  |  |  |  |  |  |  |
-| 5089 | Skårby 12:1 UT | 0 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |
-| 5089 | Skårby 12:1 IN | 0 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |
-| 5084 | Må 3:13 UT | 0 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |
-| 5084 | Må 3:13 IN | 0 | -4 000 |  |  | 0 |  |  |  |  |  |  |  |
-| 550X | Skårby 2:3 UT | 0 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |
-| 550X | Skårby 2:3 IN | -9 000 | 0 | 0 | -9 000 | 0 |  |  |  |  |  |  |  |
-| 5097 | Skårby 6:19 (Björkris 2) UT | 10 000 | 5 000 | 5 000 | 5 000 |  |  |  |  |  |  |  |  |
-| 5097 | Skårby 6:19 (Björkris 2) IN | -30 000 | -9 000 | -20 000 | -10 000 |  |  |  |  |  |  |  |  |
-| 5065 | Duvehed 2:14 UT | 0 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |
-| 5065 | Duvehed 2:14 IN | -4 000 | -2 000 | -2 000 | -2 000 | 0 |  |  |  |  |  |  |  |
-| 550V | VEXP Anneberg Centrum UT | 19 990 | 510 | 6 830 | 6 830 | 6 330 |  |  |  |  |  |  |  |
-| 550V | VEXP Anneberg Centrum IN | -15 500 | 0 | 0 | 0 | -15 500 |  |  |  |  |  |  |  |
-|  | VEXP Frillesås-Rya 3:77 m.fl.(Rya industriområde) UT | 52 000 | 22 000 | 10 000 | 28 000 | 14 000 |  |  |  |  |  |  |  |
-|  | VEXP Frillesås-Rya 3:77 m.fl.(Rya industriområde) IN | -47 000 |  |  | -10 000 | -23 000 | -14 000 |  |  |  |  |  |  |
-| 551C | VEXP Frillesås-Rya 2:1 , etapp 1 UT | 0 |  |  |  |  |  |  |  |  |  |  |  |
-| 551C | VEXP Frillesås-Rya 2:1 , etapp 1 IN | 0 | -4 000 |  |  |  |  |  |  |  |  |  |  |
-|  | VEXP Stockalid 1:4 och 1:39 inom plan UT | 10 000 | 5 000 |  | 5 000 | 5 000 |  |  |  |  |  |  |  |
-|  | VEXP Stockalid 1:4 och 1:39 inom plan IN | -10 000 |  |  | -5 000 | -5 000 |  |  |  |  |  |  |  |
-|  | VEXP Åsa 5:246 UT | 0 | 750 | 0 |  |  |  |  |  |  |  |  |  |
-|  | VEXP Åsa 5:246 IN | 0 |  |  | 0 |  |  |  |  |  |  |  |  |
-|  | VEXP Rågelund 1:127 och Sintorp 4:260, 4:261 UT | 30 000 |  |  | 10 000 | 20 000 |  |  |  |  |  |  |  |
-|  | VEXP Rågelund 1:127 och Sintorp 4:260, 4:261 IN | -15 000 |  |  |  | -15 000 |  |  |  |  |  |  |  |
-|  | VEXP Nötegång 2:207 UT | 10 000 | 9 000 |  | 10 000 |  |  |  |  |  |  |  |  |
-|  | VEXP Nötegång 2:207 IN | -13 000 |  |  | -13 000 |  |  |  |  |  |  |  |  |
-|  | VEXP Bukärr 1:9 UT | 5 000 | 3 000 | 5 000 |  |  |  |  |  |  |  |  |  |
-|  | VEXP Bukärr 1:9 IN | -1 500 | -1 000 | -1 500 |  |  |  |  |  |  |  |  |  |
-|  | VEXP Kvarteret Gjutaren UT | 19 000 | 10 000 | 5 000 | 10 000 | 4 000 |  |  |  |  |  |  |  |
-|  | VEXP Kvarteret Gjutaren IN | -18 000 |  |  |  | -18 000 |  |  |  |  |  |  |  |
-|  | VEXP Klovsten UT | 37 000 | 0 | 10 000 | 12 000 | 12 000 | 3 000 | 0 |  |  |  |  |  |
-|  | VEXP Klovsten IN | -29 000 |  |  | -5 000 | -8 000 | -8 000 | -8 000 |  |  |  |  |  |
-|  | VEXP Sydöstra centrum etapp 1 UT | 30 000 | 1 000 | 2 000 | 10 000 | 10 000 | 5 000 | 3 000 |  |  |  |  |  |
-|  | VEXP Sydöstra centrum etapp 1 IN | -15 000 |  |  |  | -5 000 | -5 000 | -5 000 | -5 000 | -5 000 | -5 000 |  |  |
-|  | VEXP Varla 2:198 Verksamhetsområde Västra Varla UT | 0 | 5 000 |  |  |  |  |  |  |  |  |  |  |
-|  | VEXP Varla 2:198 Verksamhetsområde Västra Varla IN | 0 | -4 000 |  |  |  |  |  |  |  |  |  |  |
-|  | VEXP Varla 6:17, 6:18 och 6:22 UT | 2 000 | 2 000 | 2 000 |  |  |  |  |  |  |  |  |  |
-|  | VEXP Varla 6:17, 6:18 och 6:22 IN | -1 000 | -1 000 | -1 000 |  |  |  |  |  |  |  |  |  |
-|  | VEXP Tölö 6:4 m.fl. NÖ Kba UT | 18 500 | 1 000 | 5 000 | 5 000 | 5 000 | 3 500 |  |  |  |  |  |  |
-|  | VEXP Tölö 6:4 m.fl. NÖ Kba IN | -18 000 |  |  | -6 000 | -6 000 | -6 000 |  |  |  |  |  |  |
-|  | VEXP Tölö 4:148, NÖ Kba UT | 26 000 |  | 2 000 | 16 000 | 6 000 | 2 000 |  |  |  |  |  |  |
-|  | VEXP Tölö 4:148, NÖ Kba IN | -11 500 |  |  |  | -2 000 | -6 000 | -3 500 | -5 500 | -3 500 |  |  |  |
-|  | VEXP Hjälm 4:1 UT | 0 | 5 500 |  |  |  |  |  |  |  |  |  |  |
-|  | VEXP Hjälm 4:1 IN | -2 250 | -2 250 | -2 250 |  |  |  |  |  |  |  |  |  |
-|  | VEXP Kvarteret Valand UT | 750 |  |  | 750 |  |  |  |  |  |  |  |  |
-|  | VEXP Kvarteret Valand IN | 0 |  |  |  |  |  |  |  |  |  |  |  |
-|  | VEXP Kolla 5:6 (Förskola, Norra Gräskärr) UT | 0 | 1 000 |  |  |  |  |  |  |  |  |  |  |
-|  | VEXP Kolla 5:6 (Förskola, Norra Gräskärr) IN | 0 |  |  |  |  |  |  |  |  |  |  |  |
-|  | Kommande ospecificerade exploateringar | 0 |  |  |  |  |  |  | 30 000 | 30 000 | 30 000 | 30 000 | 30 000 |
-|  | Summa 514 | 30 500 |  | 26 100 58 600 |  | -15 200 | -25 500 | -13 500 | 19 500 | 21 500 | 25 000 | 30 000 | 30 000 |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | S.A INVESTERINGAR | 1 841 800 | 482 710 | 403 700 | 375 200 | 323 100 | 358 800 | 381 000 | 280 500 | 282 500 | 286 000 | 291 000 | 291 000 |
+| VA-utbyggnad 513 Hanhals öster om IN | -2 000 | -1 500 |  |  | -2 000 |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VA-utbyggnad 503 Schweizerdalen UT | 15 000 |  |  |  | 15 000 |  |  |  |  |  |  |  |
+| VA-utbyggnad 503 Schweizerdalen IN | -6 000 |  |  |  | -6 000 |  |  |  |  |  |  |  |
+| VA-utbyggnad 107 Solberga UT | 0 |  |  |  |  |  |  |  |  |  |  |  |
+| VA-utbyggnad 107 Solberga IN | 0 |  |  |  |  |  |  |  |  |  |  |  |
+| VA-utbyggnad 103 Tollesbur syd UT | 8 000 |  |  |  | 8 000 |  |  |  |  |  |  |  |
+| VA-utbyggnad 103 Tollesbur syd IN | -3 000 |  |  |  | -3 000 |  |  |  |  |  |  |  |
+| VA-utbyggnad 205 Altardalsvägen UT | 17 000 |  |  |  |  | 17 000 |  |  |  |  |  |  |
+| VA-utbyggnad 205 Altardalsvägen IN | -6 000 |  |  |  |  | -6 000 |  |  |  |  |  |  |
+| VA-utbyggnad 504 Rygga UT | 26 300 |  | 300 |  |  | 26 000 |  |  |  |  |  |  |
+| VA-utbyggnad 504 Rygga IN | -10 000 |  |  |  |  | -10 000 |  |  |  |  |  |  |
+| Kommande VA-utbyggnad enlig plan UT | 83 800 | 0 | 2 000 | 2 800 | 29 000 | 27 000 | 23 000 | 30 000 | 30 000 | 30 000 | 30 000 | 30 000 |
+| Kommande VA-utbyggnad enlig plan IN | -54 000 |  |  |  | -20 000 | -18 000 | -16 000 |  |  |  |  |  |
+| Summa 514 |  |  | 138 400 | 27 800 | 12 000 | 48 000 | 7 000 | 30 000 | 30 000 | 30 000 | 30 000 | 30 000 |
+| Sannolikhet (utifrån erfarenhet och trend) |  |  | 0,9 | 0,8 | 1,0 | 1,0 | 1,0 |  |  |  |  |  |
+| Summa 512 justerad | 213 800 |  | 124 600 | 22 200 | 12 000 | 48 000 | 7 000 |  |  |  |  |  |
 
 <!-- sida 97 -->
 
@@ -4306,7 +4311,7 @@ Bilaga 4 Investeringar skatt 2025–2034
 
 I tabell 1 nedan framgår projekt som ingår i respektive portfölj för 2025.
 
-[Tabell 97-1](handlingar.tabeller/97-1.csv)
+[Tabell 97-98-1](handlingar.tabeller/97-98-1.csv)
 
 | Cykelkommun | 33 % |
 | --- | --- |
@@ -4348,6 +4353,16 @@ I tabell 1 nedan framgår projekt som ingår i respektive portfölj för 2025.
 | Åtgärdsplan för Kungsbackaån, grönska, belysning och tvärstråk |  |
 | Reinvestering i grönytor |  |
 | Främja biologisk mångfald |  |
+| Restaurering av Skogsallén |  |
+| Investering i rondellplanteringar6 |  |
+| Återplantering av träd |  |
+| Grönplan |  |
+| Maskiner och utrustning | 17 % |
+| System och programvaror |  |
+| Hållbara, smarta utemiljöer1 (implementering av internet och things i förvaltningens<br>driftsverksamhet) |  |
+| Fordon2 |  |
+| Maskiner och redskap3 |  |
+| Tekniska hjälpmedel |  |
 
 <!-- sida 98 -->
 
@@ -4374,20 +4389,6 @@ automatiskt utan förare.
 
 [Tabell 98-1](handlingar.tabeller/98-1.csv)
 
-| Restaurering av Skogsallén |  |
-| --- | --- |
-| Investering i rondellplanteringar6 |  |
-| Återplantering av träd |  |
-| Grönplan |  |
-| Maskiner och utrustning | 17 % |
-| System och programvaror |  |
-| Hållbara, smarta utemiljöer1 (implementering av internet och things i förvaltningens<br>driftsverksamhet) |  |
-| Fordon2 |  |
-| Maskiner och redskap3 |  |
-| Tekniska hjälpmedel |  |
-
-[Tabell 98-2](handlingar.tabeller/98-2.csv)
-
 | Portfölj | Andel av investeringsutrymme i procent |
 | --- | --- |
 | Cykelkommun | 26 % |
@@ -4397,7 +4398,7 @@ automatiskt utan förare.
 | Skog och park | 6 % |
 | Maskiner och utrustning | 6 % |
 
-[Tabell 98-3](handlingar.tabeller/98-3.csv)
+[Tabell 98-2](handlingar.tabeller/98-2.csv)
 
 | Portfölj | Andel av investeringsutrymme i procent |
 | --- | --- |
@@ -4532,12 +4533,16 @@ avrundade och förvaltningen föreslår att det är den procentuella fördelning
 
 belopp räknas fram utifrån respektive procentsats.
 
-[Tabell 101-1](handlingar.tabeller/101-1.csv)
+[Tabell 101-102-1](handlingar.tabeller/101-102-1.csv)
 
 | Portfölj | Andel av investeringsutrymme i procent | Belopp i reda pengar (avrundat) |
 | --- | --- | --- |
 | Cykelkommun | 33 % | 27 mnkr |
 | Kommunens vägnät | 6 % | 5 mnkr |
+| Attraktiv stad | 8 % | 6 mnkr |
+| Reinvestering | 28 % | 22 mnkr |
+| Skog och park | 8 % | 6 mnkr |
+| Maskiner och utrustning | 17 % | 14 mnkr |
 
 <!-- sida 102 -->
 
@@ -4579,14 +4584,6 @@ cirka 6 500 belysningspunkter utmed enskilda vägar. Förvaltningen för Teknik 
 närmsta tio till femton åren kommer reinvesteringsbehovet i dessa anläggningar uppgå till cirka 100
 miljoner kronor i 2023-års prisnivå. Gällande reinvesteringsbehovet för år 2025 bedömer förvaltningen
 att det kan hanteras inom tilldelad ram och portföljen ”Reinvestering”, men de kommande åren
-
-[Tabell 102-1](handlingar.tabeller/102-1.csv)
-
-| Attraktiv stad | 8 % | 6 mnkr |
-| --- | --- | --- |
-| Reinvestering | 28 % | 22 mnkr |
-| Skog och park | 8 % | 6 mnkr |
-| Maskiner och utrustning | 17 % | 14 mnkr |
 
 <!-- sida 103 -->
 
@@ -6353,26 +6350,96 @@ Delegeringsförteckning
 
 <!-- sida 147 -->
 
-[Tabell 147-1](handlingar.tabeller/147-1.csv)
+3.7 AB04        Verka som ombud under  FC          X      Den som verkar
+(Allmänna   anbudstid och enligt 3 kap § 1            som ombud ska
+Bestämmelser AB04/ABT06 /ABK09 i                      löpande informera
+för byggnads-, projektverksamheten                    FC om status för
+anläggnings-                                          uppdraget. Ombud
+och                                                   ska rapportera
+installations-                                        beslut tagna på
+entreprenader)                                        delegation under
+3kap§1                                                anbudstiden, och
+inte att denne
+ABT06
+agerar ombud.
+(Allmänna
+Bestämmelser
+för total-
+entreprenader
+för byggnads-,
+anläggnings-
+och
+installations-
+entreprenader)
+3kap§1
+ABK09
+(Allmänna
+Bestämmelser
+för
+konsultuppdrag
+inom arkitekt-
+och
+ingenjörsverksa
+m het av år
+2009\) 3kap§1
 
-| 3.7 | AB04<br>(Allmänna<br>Bestämmelser<br>för byggnads-,<br>anläggnings-<br>och<br>installations-<br>entreprenader)<br>3kap§1<br>ABT06<br>(Allmänna<br>Bestämmelser<br>för total-<br>entreprenader<br>för byggnads-,<br>anläggnings-<br>och<br>installations-<br>entreprenader)<br>3kap§1<br>ABK09<br>(Allmänna<br>Bestämmelser<br>för<br>konsultuppdrag<br>inom arkitekt-<br>och<br>ingenjörsverksa<br>m het av år<br>2009) 3kap§1 | Verka som ombud under<br>anbudstid och enligt 3 kap § 1<br>AB04/ABT06 /ABK09 i<br>projektverksamheten | FC | X | Den som verkar<br>som ombud ska<br>löpande informera<br>FC om status för<br>uppdraget. Ombud<br>ska rapportera<br>beslut tagna på<br>delegation under<br>anbudstiden, och<br>inte att denne<br>agerar ombud. |
-| --- | --- | --- | --- | --- | --- |
-| 3.8 |  | Besluta om förvaltningens<br>interna organisation | FC |  |  |
-| 3.9 | Dataskydds<br>-<br>förordninge<br>n artikel 37 | Utse dataskyddsombud för<br>nämnden | FC |  |  |
-| 3.10 | Dataskydds<br>-<br>förordninge<br>n artikel<br>12.5 | Besluta om att helt eller<br>delvis avslå framställan om<br>begäran av utövande av<br>registrerads rättigheter | FC | X |  |
+3.8             Besluta om förvaltningens FC
+interna organisation
+3.9  Dataskydds Utse dataskyddsombud för FC
+\-          nämnden
+förordninge
+n artikel 37
+3.10 Dataskydds Besluta om att helt eller FC       X
+\-           delvis avslå framställan om
+begäran av utövande av
+förordninge
+registrerads rättigheter
+n artikel
+12.5
 
 <!-- sida 148 -->
 
-[Tabell 148-1](handlingar.tabeller/148-1.csv)
+3.11 Dataskydds Teckna avtal om        FC                 Skriftligt person-
+\-          personuppgiftsbiträdes-                   uppgiftsbiträdesavta
+förordninge behandling av personuppgifter            l ska tecknas i de
+n artikel 28 för den                                 fall någon annan
+personuppgiftsansvariges                  aktör behandlar
+räkning                                   personuppgifter för
+den personuppgifts-
+ansvarige nämndens
+räkning.
+3.12 Dataskydds- Hantera               FC          X      Utreda samt vid
+förordningen personuppgiftsincidenter                 behov anmäla till
+artikel 33 och 34                                     tillsynsmyndigheten
+och informera de
+registrerade
 
-| 3.11 | Dataskydds<br>-<br>förordninge<br>n artikel 28 | Teckna avtal om<br>personuppgiftsbiträdes-<br>behandling av personuppgifter<br>för den<br>personuppgiftsansvariges<br>räkning | FC |  | Skriftligt person-<br>uppgiftsbiträdesavta<br>l ska tecknas i de<br>fall någon annan<br>aktör behandlar<br>personuppgifter för<br>den personuppgifts-<br>ansvarige nämndens<br>räkning. |
-| --- | --- | --- | --- | --- | --- |
-| 3.12 | Dataskydds-<br>förordningen<br>artikel 33 och 34 | Hantera<br>personuppgiftsincidenter | FC | X | Utreda samt vid<br>behov anmäla till<br>tillsynsmyndigheten<br>och informera de<br>registrerade |
-| 3.13 | Dataskydds<br>-<br>förordninge<br>n artikel<br>35-36 | Beslut att godkänna<br>konsekvensbedömning vid<br>viss personuppgifts-<br>behandling | FC | X | Dataskyddskontakt<br>upprättar<br>konsekvens-<br>bedömning som<br>ligger till grund för<br>beslut. Vid behov<br>samråda med<br>tillsyns-<br>myndigheten |
-| 3.13.1 | Dataskydds-<br>förordningen<br>artikel 30 | Fastställa register över<br>personuppgiftsbehandlingar | FC | X | Årligen fastställa<br>register över<br>personuppgiftsbehan<br>dlingar |
-| 3.14 |  | Yttrande till kommunstyrelsen<br>över detaljplan | FC | X | I avvikande/<br>kontroversiella fall<br>fattas beslut av<br>nämnden |
-| 3.15 |  | Yttrande i ärenden avseende<br>remisser från Bygg- och<br>Miljöförvaltningen | FC | X |  |
-| 3.16 |  | Yttrande om<br>trafiksäkerhetsbedömning till<br>Förskola & Grundskola | FC | X |  |
+3.13 Dataskydds Beslut att godkänna    FC          X      Dataskyddskontakt
+\-           konsekvensbedömning vid                   upprättar
+förordninge viss personuppgifts-                      konsekvens-
+n   artikel behandling                                bedömning som
+35-36                                                 ligger till grund för
+beslut. Vid behov
+samråda med
+tillsyns-
+myndigheten
+3.13.1 Dataskydds-  Fastställa register över FC     X      Årligen fastställa
+förordningen personuppgiftsbehandlingar               register över
+artikel 30
+personuppgiftsbehan
+dlingar
+3.14            Yttrande till kommunstyrelsen FC   X      I avvikande/
+över detaljplan                           kontroversiella fall
+fattas beslut av
+nämnden
+
+3.15            Yttrande i ärenden avseende FC     X
+remisser från Bygg- och
+Miljöförvaltningen
+3.16            Yttrande om            FC          X
+
+trafiksäkerhetsbedömning till
+Förskola & Grundskola
 
 <!-- sida 149 -->
 
@@ -6405,28 +6472,98 @@ Delegeringsförteckning
 
 <!-- sida 151 -->
 
-[Tabell 151-1](handlingar.tabeller/151-1.csv)
+4.8  13 kap. 3 § trafik- Beslut till transportör och FC X Fordonsdispenser
+förordningen yttrande till Trafikverket om
+(1998:1276) undantag från bestämmelserna
+om största tillåtna
+4 kap. 12 §, 15 §
+fordonsbredd, -längd och -vikt
+17 § trafik-
+förordningen
+4.9              Teckna samrådsförfarande FC       X
+med Trafikverkets i ärenden
+om
+transportdispenser
+4.10 10 kap. 14 § Beslut om föreskrifter vid FC    X
+trafik-     vägarbete eller liknande arbete
+förordningen samt under kortare tid vid
+(1998:1276) skada eller risk för skada på
+väg
+4.11 2 § lagen om Beslut om flyttning av fordon FC X
+flyttning av
+fordon i vissa fall
+och 2 §
+förordningen om
+flyttning av
+fordon i vissa fall
+4.12 Tillämpnings- Beslut om bidrag för lekplats, FC X
+regler för bidrag enskild väghållning, särskilt
+till enskild vägbidrag och vägbelysning
+väghållning i enligt av fullmäktige
+Kungsbacka  fastställda villkor
+kommun 2011-
+05-18
+4.13 5 § lag     Beslut om felparkeringsavgift FC  X
+(1976:206) om samt kontrollavgift vid olovlig
+felparkerings- parkering
+avgift och
+1 § lag
+(1984:318) om
+kontrollavgift vid
+olovlig parkering
 
-| 4.8 | 13 kap. 3 § trafik-<br>förordningen<br>(1998:1276)<br>4 kap. 12 §, 15 §<br>17 § trafik-<br>förordningen | Beslut till transportör och<br>yttrande till Trafikverket om<br>undantag från bestämmelserna<br>om största tillåtna<br>fordonsbredd, -längd och -vikt | FC | X | Fordonsdispenser |
-| --- | --- | --- | --- | --- | --- |
-| 4.9 |  | Teckna samrådsförfarande<br>med Trafikverkets i ärenden<br>om<br>transportdispenser | FC | X |  |
-| 4.10 | 10 kap. 14 §<br>trafik-<br>förordningen<br>(1998:1276) | Beslut om föreskrifter vid<br>vägarbete eller liknande arbete<br>samt under kortare tid vid<br>skada eller risk för skada på<br>väg | FC | X |  |
-| 4.11 | 2 § lagen om<br>flyttning av<br>fordon i vissa fall<br>och 2 §<br>förordningen om<br>flyttning av<br>fordon i vissa fall | Beslut om flyttning av fordon | FC | X |  |
-| 4.12 | Tillämpnings-<br>regler för bidrag<br>till enskild<br>väghållning i<br>Kungsbacka<br>kommun 2011-<br>05-18 | Beslut om bidrag för lekplats,<br>enskild väghållning, särskilt<br>vägbidrag och vägbelysning<br>enligt av fullmäktige<br>fastställda villkor | FC | X |  |
-| 4.13 | 5 § lag<br>(1976:206) om<br>felparkerings-<br>avgift och<br>1 § lag<br>(1984:318) om<br>kontrollavgift vid<br>olovlig parkering | Beslut om felparkeringsavgift<br>samt kontrollavgift vid olovlig<br>parkering | FC | X |  |
-| 4.14 | Vägmärkesförord<br>ningen SFS<br>2007:90<br>AFS 1999:3 49 §<br>81 § (a-e)<br>Ordningslagen 3<br>kap. 4 §<br>Plan och<br>Bygglagen 6 Kap.<br>21 | Beslut om tillstånd att schakta<br>i gator och vägar för vilka<br>kommunen är huvudman och<br>vid behov kräva säkerhet för<br>beräknade kostnader för<br>återställande av kommunens<br>anläggningar | FC | X |  |
+4.14 Vägmärkesförord Beslut om tillstånd att schakta FC X
+ningen SFS  i gator och vägar för vilka
+kommunen är huvudman och
+2007:90
+vid behov kräva säkerhet för
+AFS 1999:3 49 § beräknade kostnader för
+81 § (a-e)  återställande av kommunens
+anläggningar
+Ordningslagen 3
+kap. 4 §
+Plan och
+Bygglagen 6 Kap.
+21
 
 <!-- sida 152 -->
 
-[Tabell 152-1](handlingar.tabeller/152-1.csv)
+4.14.1 Vägmärkesförord Beslut om priser för FC            Beslut om nya
+ningen SFS  öppningstillstånd respektive             avgifter ska årligen
+2007:90     TA-plan.                                 rapporteras till
+Nämnden för
+AFS 1999:3 49 §
+Tekniks
+81 § (a-e)
+arbetsutskott
+Ordningslagen 3
+kap. 4 §
+Plan och
+Bygglagen 6 Kap.
+21
+4.15 Vägmärkesförord Godkännande av     FC         X
+ningen SFS  trafikanordningsplan
+2007:90
+AFS 1999:3 49 §
+81 § (a-e)
+Ordningslagen 3
+kap. 4 §
+4.16 13 kap. och 8 § Beslut om parkeringstillstånd FC X
+trafik-     för rörelsehindrade
+förordningen
+(1998:1276)
 
-| 4.14.1 | Vägmärkesförord<br>ningen SFS<br>2007:90<br>AFS 1999:3 49 §<br>81 § (a-e)<br>Ordningslagen 3<br>kap. 4 §<br>Plan och<br>Bygglagen 6 Kap.<br>21 | Beslut om priser för<br>öppningstillstånd respektive<br>TA-plan. | FC |  | Beslut om nya<br>avgifter ska årligen<br>rapporteras till<br>Nämnden för<br>Tekniks<br>arbetsutskott |
-| --- | --- | --- | --- | --- | --- |
-| 4.15 | Vägmärkesförord<br>ningen SFS<br>2007:90<br>AFS 1999:3 49 §<br>81 § (a-e)<br>Ordningslagen 3<br>kap. 4 § | Godkännande av<br>trafikanordningsplan | FC | X |  |
-| 4.16 | 13 kap. och 8 §<br>trafik-<br>förordningen<br>(1998:1276) | Beslut om parkeringstillstånd<br>för rörelsehindrade | FC | X |  |
-| 4.17 | Ordningslagen<br>(1993:1617) 2<br>kap | Yttrande till polisen avseende<br>begagnade av offentlig plats | FC | X |  |
-| 4.18 | Ordningslagen<br>(1993:1617) 2<br>kap | Tecknande av avtal som rör<br>begagnade av offentlig plats | FC | X |  |
-| 4.19 | Riktlinjer för<br>stadsodling i<br>Kungsbacka | Teckna skötselavtal för odling<br>på allmän plats med förening<br>eller organisation | FC |  |  |
+4.17 Ordningslagen Yttrande till polisen avseende FC X
+(1993:1617) 2 begagnade av offentlig plats
+kap
+4.18 Ordningslagen Tecknande av avtal som rör FC   X
+
+(1993:1617) 2 begagnade av offentlig plats
+kap
+4.19 Riktlinjer för Teckna skötselavtal för odling FC
+stadsodling i på allmän plats med förening
+eller organisation
+Kungsbacka
 
 <!-- sida 153 -->
 
@@ -6474,40 +6611,158 @@ Delegeringsförteckning
 
 8 Avfall & Återvinning
 
-[Tabell 156-1](handlingar.tabeller/156-1.csv)
+Med rätt att
+Nr   Lagrum      Delegeringens omfattning Delegerat       Anmärkning
+vidaredelegera
+till
+8.1  22 § lokala Besluta om att anvisa  FC         X
+renhållnings hämtningsplats för
+\-
+hushållsavfall
+föreskrifter
+Kungsback
+a kommun
+26 §
+Lokala
+avfallsföres
+krifter för
+Kungsback
+a kommun
+8.4  66 § lokala Besluta om justering   FC         X
+8.2  renhållnings av
+\-           avfallsabonnemang
+föreskrifter vid avvikelse från
+gällande
+31§ Lokala  abonnemang
+avfallsföre
+skrifter för
+Kungsback
 
-| Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidaredelegera | Anmärkning |
-| --- | --- | --- | --- | --- | --- |
-| 8.1 | 22 § lokala<br>renhållnings<br>-<br>föreskrifter<br>Kungsback<br>a kommun<br>26 §<br>Lokala<br>avfallsföres<br>krifter för<br>Kungsback<br>a kommun | Besluta om att anvisa<br>hämtningsplats för<br>hushållsavfall | FC | X |  |
-| 8.4<br>8.2 | 66 § lokala<br>renhållnings<br>-<br>föreskrifter<br>31§ Lokala<br>avfallsföre<br>skrifter för<br>Kungsback<br>a kommun | Besluta om justering<br>av<br>avfallsabonnemang<br>vid avvikelse från<br>gällande<br>abonnemang | FC | X |  |
-| 8.6<br>8.3 | 52 § lokala<br>renhållnings<br>-<br>föreskrifter<br>37§ Lokala<br>avfallsföres<br>krifter för<br>Kungsback<br>a kommun | Besluta om<br>godkännande av<br>kompostering av<br>matavfall | FC | X |  |
-| 8.4 | 41§ Lokala<br>avfallsföres<br>krifter för<br>Kungsback<br>a kommun | Besluta om förlängt<br>tömningsintervall<br>för fettavskiljare på<br>fastigheter med<br>anslutning till det<br>kommunala<br>ledningsnätet | FC | X |  |
+a kommun
+
+8.6  52 § lokala Besluta om             FC         X
+8.3  renhållnings godkännande av
+\-           kompostering av
+föreskrifter matavfall
+
+37§ Lokala
+avfallsföres
+krifter för
+Kungsback
+a kommun
+8.4  41§ Lokala  Besluta om förlängt    FC         X
+avfallsföres tömningsintervall
+krifter för
+för fettavskiljare på
+Kungsback
+fastigheter med
+a kommun
+anslutning till det
+kommunala
+ledningsnätet
 
 <!-- sida 157 -->
 
-[Tabell 157-1](handlingar.tabeller/157-1.csv)
+8.2  60 § tredje Besluta om gemensam    FC         X
+8.5  stycket     hämtning
+lokala
 
-| 8.2<br>8.5 | 60 § tredje<br>stycket<br>lokala<br>renhållnings<br>- föreskrifter<br>42 § Lokala<br>avfallsföres<br>krifter för<br>Kungsbacka<br>kommun | Besluta om gemensam<br>hämtning<br>Besluta om att använda<br>gemensam avfallsbehållare | FC | X |  |
-| --- | --- | --- | --- | --- | --- |
-| 8.3<br>8.6 | 61 § lokala<br>renhållningsföres<br>krifter<br>43, 43a §§ Lokala<br>avfallsföreskrifter<br>för Kungsbacka<br>kommun | Besluta om tillfälligt uppehåll<br>i sophämtning | FC | X |  |
-| 8.7 | 43b § Lokala<br>avfallsföreskrifter<br>för Kungsbacka<br>kommun | Besluta om inställd<br>hämtning av avfall från<br>fastighetens<br>avloppsanläggning | FC | X |  |
-| 8.8 | 43c § Lokala<br>avfallsföreskrifter<br>för Kungsbacka<br>kommun | Besluta om uppehåll i<br>slamtömning inklusive<br>eventuella filteranläggningar | FC | X |  |
-| 8.9 | 43d § Lokala<br>avfallsföreskrifter<br>för Kungsbacka<br>kommun | Besluta om uppehåll i<br>tömning av fettavskiljare för<br>fettavskiljare på fastigheter<br>med anslutning till det<br>kommunala ledningsnätet | FC | X |  |
-| 8.5<br>8.10 |  | Besluta i ärenden om<br>tillämpning av taxa och lokal<br>renhållningsordning i delar<br>som rör nämndens<br>verksamhetsområde | FC | X |  |
-| 8.11 | 47 § Lokala<br>avfallsföreskrifter<br>för Kungsbacka<br>kommun | Beslut om att frångå<br>avfallsföreskrifter på annat<br>sätt än i undantagsfallen 35-<br>46 §§ | FC | X |  |
+renhållnings Besluta om att använda
+\- föreskrifter gemensam avfallsbehållare
+
+42 § Lokala
+avfallsföres
+krifter för
+Kungsbacka
+kommun
+8.3  61 § lokala Besluta om tillfälligt uppehåll FC X
+
+8.6  renhållningsföres i sophämtning
+krifter
+
+43, 43a §§ Lokala
+avfallsföreskrifter
+för Kungsbacka
+kommun
+8.7  43b § Lokala Besluta om inställd   FC         X
+avfallsföreskrifter hämtning av avfall från
+för Kungsbacka fastighetens
+
+kommun      avloppsanläggning
+8.8  43c § Lokala Besluta om uppehåll i FC         X
+avfallsföreskrifter slamtömning inklusive
+för Kungsbacka eventuella filteranläggningar
+kommun
+8.9  43d § Lokala Besluta om uppehåll i FC         X
+avfallsföreskrifter tömning av fettavskiljare för
+för Kungsbacka
+fettavskiljare på fastigheter
+kommun
+med anslutning till det
+kommunala ledningsnätet
+8.5              Besluta i ärenden om   FC         X
+8.10             tillämpning av taxa och lokal
+renhållningsordning i delar
+som rör nämndens
+verksamhetsområde
+8.11 47 § Lokala Beslut om att frångå   FC         X
+avfallsföreskrifter avfallsföreskrifter på annat
+för Kungsbacka sätt än i undantagsfallen 35-
+kommun      46 §§
 
 <!-- sida 158 -->
 
 9 Ekonomi
 
-[Tabell 158-1](handlingar.tabeller/158-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt<br>att<br>vidaredel<br>egera | Anmärkning |
-| --- | --- | --- | --- | --- | --- |
-| 9.1 | Kommunens<br>tillämpnings-<br>föreskrifter för<br>- policy for<br>inköp<br>- riktlinjer för<br>inköp | Beslut om att inleda<br>upphandling inom nämndens<br>verksamhetsområde<br>> 10 000 000 kr<br>< 10 000 000 kr<br>< 500 000 kr | AU<br>FC<br>FC | X | Beslutsrätten gäller<br>inom budgetansvar<br>för respektive<br>ansvarsområde och<br>i enlighet med<br>gällande<br>upphandlings-<br>regler.<br>Vid större<br>upphandlingar som<br>har långsiktig<br>effekt, ska<br>nämnden/utskottet<br>informeras innan<br>upphandling sker. |
-| 9.1.1 | Nämndens beslut<br>om<br>nämndbudget<br>och Kungsbacka<br>styrmodell | Omfördelning inom beslutad<br>investeringsram och<br>reinvesteringsram<br>Omfördelning av belopp inom av<br>nämnden beslutade<br>underportföljer | FC | X | Kommun-<br>fullmäktiges beslut<br>om investerings-<br>budget |
-| 9.1.2 |  | • Beslut att godkänna<br>tilldelning, gäller även<br>återta tilldelning<br>• Beslut att underteckna<br>avtal efter att avtalsspärren<br>löpt ut alternativt efter att<br>domstol avslagit ansökan<br>om överprövning<br>• Beslut att avbryta<br>upphandling, gäller även<br>återta avbrytande<br>• Beslut om ändring och<br>tillägg till avtal<br>• Beslut om uppsägning eller<br>hävning av avtal<br>< 500 000 kr | FC<br>FC | X |  |
-| 9.1.3 | Nämndens beslut<br>om nämndbudget<br>och Kungsbacka<br>styrmodell | Beslut om driftåtgärder enligt<br>budget och förvaltningsplan | FC | X |  |
+Med rätt
+Nr   Lagrum/stöd Delegeringens omfattning Delegerat till  Anmärkning
+att
+vidaredel
+egera
+9.1  Kommunens    Beslut om att inleda                    Beslutsrätten gäller
+tillämpnings- upphandling inom nämndens              inom budgetansvar
+föreskrifter för verksamhetsområde                   för respektive
+\- policy for                                         ansvarsområde och
+inköp        > 10 000 000 kr       AU                i enlighet med
+\- riktlinjer för < 10 000 000 kr   FC                gällande
+inköp        < 500 000 kr          FC            X   upphandlings-
+regler.
+Vid större
+upphandlingar som
+har långsiktig
+effekt, ska
+nämnden/utskottet
+informeras innan
+upphandling sker.
+9.1.1 Nämndens beslut Omfördelning inom beslutad FC    X   Kommun-
+om           investeringsram och                      fullmäktiges beslut
+nämndbudget  reinvesteringsram                        om investerings-
+och Kungsbacka                                        budget
+styrmodell   Omfördelning av belopp inom av
+nämnden beslutade
+underportföljer
+9.1.2            •  Beslut att godkänna    FC
+tilldelning, gäller även
+återta tilldelning
+•  Beslut att underteckna
+avtal efter att avtalsspärren
+löpt ut alternativt efter att
+domstol avslagit ansökan
+om överprövning
+•  Beslut att avbryta
+upphandling, gäller även
+återta avbrytande
+•  Beslut om ändring och
+tillägg till avtal
+•  Beslut om uppsägning eller
+hävning av avtal
+X
+FC
+< 500 000 kr
+9.1.3 Nämndens beslut Beslut om driftåtgärder enligt FC X
+om nämndbudget budget och förvaltningsplan
+och Kungsbacka
+styrmodell
 
 <!-- sida 159 -->
 
@@ -6526,7 +6781,7 @@ Delegeringsförteckning
 
 10 Personal
 
-[Tabell 160-1](handlingar.tabeller/160-1.csv)
+[Tabell 160-161-1](handlingar.tabeller/160-161-1.csv)
 
 | Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidare-delegera | Anmärkning |
 | --- | --- | --- | --- | --- | --- |
@@ -6539,16 +6794,12 @@ Delegeringsförteckning
 | 10.2.3 | LAS § 18 | Avsked | FC | X | I samråd med HR på<br>förvaltningen och<br>förhandlingschef |
 | 10.2.4 | Gemensamt<br>reglemente för<br>kommunstyrelse<br>n och nämnder | Avsluta anställning enligt<br>särskild överenskommelse | FC | X | I samråd med HR-chef |
 | 10.3 | Övrigt |  |  |  |  |
-
-<!-- sida 161 -->
-
-[Tabell 161-1](handlingar.tabeller/161-1.csv)
-
 | 10.3.1 | AB §11 | Disciplinärende – Skriftlig<br>varning | FC | X | I samråd med HR på<br>förvaltningen |
-| --- | --- | --- | --- | --- | --- |
 | 10.3.2 | AB § 10 mom<br>1-3 | Avstängning | FC | X | I samråd med HR på<br>förvaltningen |
 | 10.3.3 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla | FC | X | I samråd med HR på<br>förvaltningen i enlighet<br>med ”Regler för bisyssla<br>i Kungsbacka kommun) |
 | 10.3.4 | Nämndens<br>budget, Regler<br>och riktlinjer för<br>förmåner till<br>förtroendevalda | Besluta om kurser, konferenser<br>och dylikt för förtroendevalda<br>högst 1 dag | OF<br>För beslut<br>som avser<br>ordförande<br>beslutar vice<br>ordförande |  | Rätt till arvode för<br>deltagande på aktivitet<br>regleras i Regler och<br>riktlinjer för förmåner<br>till förtroendevalda<br>(antaget 2018-12-13 §<br>260 avsnitt 4.2 och 5.1) |
+
+<!-- sida 161 -->
 
 <!-- sida 162 -->
 
@@ -6693,25 +6944,89 @@ KUNGSBACKA KOMMUN                                           2 (4)
 
 KUNGSBACKA KOMMUN                                           3 (4)
 
-[Tabell 167-1](handlingar.tabeller/167-1.csv)
+Punkt i
+delegeringsord           Ansvarig  Delegeringens omfattning Taget beslut och datum
+ning       Lagrum        Delegat                      för beslutet
+4.11       2 § lagen om  VC Trafik & Beslut om flyttning av 0 beslut om flyttning av
+flyttning av fordon i Utemiljö EC fordon   fordon
+vissa fall och 2 § drift Gata EC
+förordningen om Planering &
+flyttning av fordon i Utformning EC
+vissa fall    Anläggning &
+Utveckling
+Arbetsledare,
+Trafik-
+samordnare
+Trafikövervaka
+re
+4.13       5 § lag (1976:206) Trafikövervaka Beslut om Felparkeringsavgifter
+om            re        felparkeringsavgift samt (gatumark):
 
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig<br>Delegat | Delegeringens omfattning | Taget beslut och datum<br>för beslutet |
-| --- | --- | --- | --- | --- |
-| 4.11 | 2 § lagen om<br>flyttning av fordon i<br>vissa fall och 2 §<br>förordningen om<br>flyttning av fordon i<br>vissa fall | VC Trafik &<br>Utemiljö EC<br>drift Gata EC<br>Planering &<br>Utformning EC<br>Anläggning &<br>Utveckling<br>Arbetsledare,<br>Trafik-<br>samordnare<br>Trafikövervaka<br>re | Beslut om flyttning av<br>fordon | 0 beslut om flyttning av<br>fordon |
-| 4.13 | 5 § lag (1976:206)<br>om<br>felparkeringsavgift<br>och 1 § lag<br>(1984:318) om<br>kontrollavgift vid<br>olovlig parkering | Trafikövervaka<br>re | Beslut om<br>felparkeringsavgift samt<br>kontrollavgift vid olovlig<br>parkering | Felparkeringsavgifter<br>(gatumark):<br>- 452 st<br>Kontrollavgifter<br>(tomtmark):<br>- 106 st |
-| 4.14 | Vägmärkesförord<br>ningen SFS 2007:90<br>AFS 1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen 3<br>kap. 4 § Plan och<br>Bygglagen 6 Kap. 21 | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning<br>& Utveckling<br>Vägtekniker | Beslut om tillstånd att<br>schakta i gator och vägar<br>för vilka kommunen är<br>huvudman och vid behov<br>kräva säkerhet för<br>beräknade kostnader för<br>återställande av<br>kommunens anläggningar | 8 st beslut om tillstånd att<br>schakta i gator och<br>trafikanordningsplan. |
-| 4.15 | Vägmärkesförord<br>ningen SFS 2007:90<br>AFS 1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen 3<br>kap. 4 § | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning<br>& Utveckling<br>Vägtekniker | Godkännande av<br>trafikanordningsplan | 6 st beslut om enbart<br>trafikanordningsplan |
-| 4.16 | 13 kap. och 8 §<br>trafikförordningen<br>(1998:1276) | Färdtjänstutre<br>dare | Beslut om<br>parkeringstillstånd för<br>rörelsehindrade | Beslut om<br>parkeringstillstånd för<br>rörelsehindrad<br>Beviljade: 6<br>Avslagna: 1 |
-| 5.1 | 6–9 §§ lag<br>(1997:736) om<br>färdtjänst | Färdtjänstutre<br>dare<br>EC Kansli | Beslut om tillstånd till<br>färdtjänst med<br>regelkompletteringar | Beslut om färdtjänst<br>Beviljade: 35<br>Avslagna: 0 |
+felparkeringsavgift
+kontrollavgift vid olovlig - 452 st
+och 1 § lag
+parkering
+(1984:318) om
+Kontrollavgifter
+kontrollavgift vid
+(tomtmark):
+olovlig parkering
+\- 106 st
+4.14       Vägmärkesförord VC Trafik & Beslut om tillstånd att 8 st beslut om tillstånd att
+ningen SFS 2007:90 Utemiljö schakta i gator och vägar schakta i gator och
+AFS 1999:3 49 § 81 EC drift Gata för vilka kommunen är trafikanordningsplan.
+§ (a-e)       EC Anläggning huvudman och vid behov
+Ordningslagen 3 & Utveckling kräva säkerhet för
+kap. 4 § Plan och Vägtekniker beräknade kostnader för
+Bygglagen 6 Kap. 21     återställande av
+kommunens anläggningar
+4.15       Vägmärkesförord VC Trafik & Godkännande av 6 st beslut om enbart
+ningen SFS 2007:90 Utemiljö trafikanordningsplan trafikanordningsplan
+AFS 1999:3 49 § 81 EC drift Gata
+§ (a-e)       EC Anläggning
+Ordningslagen 3 & Utveckling
+kap. 4 §      Vägtekniker
+4.16       13 kap. och 8 § Färdtjänstutre Beslut om   Beslut om
+trafikförordningen dare parkeringstillstånd för parkeringstillstånd för
+(1998:1276)
+rörelsehindrade    rörelsehindrad
+Beviljade: 6
+Avslagna: 1
+5.1        6–9 §§ lag    Färdtjänstutre Beslut om tillstånd till Beslut om färdtjänst
+(1997:736) om dare      färdtjänst med     Beviljade: 35
+färdtjänst    EC Kansli
+regelkompletteringar Avslagna: 0
 
 <!-- sida 168 -->
 
 KUNGSBACKA KOMMUN                                           4 (4)
 
-[Tabell 168-1](handlingar.tabeller/168-1.csv)
-
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig<br>Delegat | Delegeringens omfattning | Taget beslut och datum<br>för beslutet |
-| --- | --- | --- | --- | --- |
-| 5.3 | 4–7 §§ lag<br>(1997:735) om<br>riksfärdtjänst | Färdtjänstutre<br>dare<br>EC Kansli | Beslut om tillstånd till<br>riksfärdtjänst | Beslut om tillstånd till<br>riksfärdtjänst<br>Beviljade: 9<br>Avslagna: 0 |
-| 8.3 | 61 § lokala<br>renhållnings-<br>föreskrifter | Anette Englund<br>och Louise<br>Backman-<br>Smith,<br>administratöre<br>r och inom<br>Avfall &<br>Återvinning<br>och Kund &<br>Kommunikatio<br>n | Besluta om tillfälligt<br>uppehåll i sophämtning | 19 beslut om tillfälligt<br>uppehåll från<br>sophämtning<br>231204 7 st<br>231205 1 st<br>231208 2 st<br>231214 1 st<br>231218 3 st<br>231219 1 st<br>231220 3 st<br>231227 1 st |
-| 8.6 | 52 § lokala<br>renhållnings-<br>föreskrifter | Anette Englund<br>och Louise<br>Backman-<br>Smith,<br>administratöre<br>r inom Avfall &<br>Återvinning<br>och Kund &<br>Kommunikatio<br>n | Besluta om godkännande<br>av kompostering av<br>matavfall | 3 beslut om godkännande<br>av kompostering av<br>matavfall<br>231208 1 st<br>231218 1 st<br>231219 1 st |
+Punkt i
+delegeringsord           Ansvarig  Delegeringens omfattning Taget beslut och datum
+ning       Lagrum        Delegat                      för beslutet
+5.3        4–7 §§ lag    Färdtjänstutre Beslut om tillstånd till Beslut om tillstånd till
+(1997:735) om dare      riksfärdtjänst     riksfärdtjänst
+riksfärdtjänst EC Kansli
+Beviljade: 9
+Avslagna: 0
+8.3        61 § lokala   Anette Englund Besluta om tillfälligt 19 beslut om tillfälligt
+renhållnings- och Louise uppehåll i sophämtning uppehåll från
+föreskrifter  Backman-                     sophämtning
+Smith,                       231204 7 st
+administratöre               231205 1 st
+r och inom                   231208 2 st
+Avfall &                     231214 1 st
+Återvinning                  231218 3 st
+och Kund &                   231219 1 st
+Kommunikatio                 231220 3 st
+n                            231227 1 st
+8.6        52 § lokala   Anette Englund Besluta om godkännande 3 beslut om godkännande
+renhållnings- och Louise av kompostering av av kompostering av
+föreskrifter  Backman-  matavfall          matavfall
+Smith,                       231208 1 st
+administratöre               231218 1 st
+r inom Avfall &              231219 1 st
+Återvinning
+och Kund &
+Kommunikatio
+n

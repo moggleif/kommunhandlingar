@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4e55f00c19afcd92d283b333/1765547072
 sha256: b13de652fc6f060148f00b2e5c64caaa57124ee59c64e712ec338c6cdea67b23
 bytes: 5765932
 sidor: 147
-hamtad: 2026-10-07T22:26:06+00:00
-konverterad: 2026-10-07T22:26:37+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T06:38:48+00:00
+konverterad: 2026-10-14T06:39:12+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [138]
-figurer: null
-tolkade: null
+figurer: [7, 27, 36, 38, 40, 41, 42, 135, 138, 143]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -56,7 +56,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -65,22 +65,22 @@ KUNGSBACKA  KOMMUN
 | 6. | Förvaltningsbudget 2026<br>Föredragande: Johan Ronner,<br>ekonomichef och Andréas<br>Mårtensson, kvalitet- och<br>utvecklingschef<br>19:40-20:00 | GA-2024-<br>00223 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 | 7. | Investeringsplan 2027–2036<br>Föredragande: Johan Ronner,<br>ekonomichef<br>20:00-20:05 | GA-2025-<br>00182 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner investeringsplanen för löpande<br>investeringar 2027–2036. |
 | 8. | Inackorderingsbidrag 2026 | GA-2025-<br>00179 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>fastställer inackorderingstillägg för läsåret 2026 till<br>1 970 kronor/månad i nio månader (ej juni, juli och<br>augusti). |
+| 9. | Ersättning friskolor 2026 | GA-2025-<br>00180 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar anta den framräknade ersättningen till<br>fristående gymnasieskolor för 2026. |
+| 10. | Beredning av motion - Avskaffa<br>religiöst motiverad specialkost i<br>förskola och skola (KS-2025-<br>00457) | GA-2025-<br>00128 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att föreslå Kommunfullmäktige avslår<br>motionen med hänvisning till att det riskerar att<br>strida mot diskrimineringslagen att besluta om att<br>avskaffa religiöst motiverad specialkost i förskola<br>eller skola. |
+| 11. | Förstudie samverkan<br>Varberg/Kungsbacka, Fordon-<br>och transportprogrammet<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>20:05-20:15 | GA-2025-<br>00165 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad ger<br>förvaltningen i uppdrag att tillsammans med<br>Varbergs kommuns utbildning- och<br>arbetsmarknadsförvaltning arbeta fram ett<br>sekundäravtal med avseende på inriktningar inom<br>Fordons- och transportprogrammet mellan båda<br>kommunerna. |
+| 12. | IOP Erikshjälpen<br>Föredragande: Karin<br>Zetterman, verksamhetschef<br>Kompetenscentrum<br>20:15-20:20 | GA-2020-<br>00182 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att förlänga befintligt Idéburet offentligt<br>partnerskap med Erikshjälpen Second hand med<br>start 2026-01-01 till 2026-06-30.<br>Paragrafen direktjusteras. |
+| 13. | IOP Onsala församling<br>Föredragande: Karin<br>Zetterman, verksamhetschef<br>Kompetenscentrum<br>20:15-20:20 | GA-2025-<br>00049 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att förlänga överenskommelse om idéburet<br>offentligt partnerskap (IOP) med Onsala församling<br>med start 2026-01-01 till 2026-12-31.<br>Paragrafen direktjusteras. |
+| 14. | IOP Skyddsvärnet i Göteborg<br>Föredragande: Karin<br>Zetterman, verksamhetschef<br>Kompetenscentrum<br>20:20-20:25 | GA-2025-<br>00176 | Förslag till beslut<br>Nämnden för Gymnasium och Arbetsmarknad<br>beslutar att ingå i ett Idéburet offentligt partnerskap<br>med Skyddsvärnet i Göteborg med sex månader med<br>start 2026-02-01. |
+| 15. | Återrapportering av program-<br>och verksamhetsråd (2025)<br>Föredragande: Helena Nyborg<br>(KD), Karin Green (C) och<br>May-Louise Flyrin (S)<br>20:25-20:35 | GA-2024-<br>00226 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 16. | Återrapportering av<br>delegeringsbeslut (2025) | GA-2024-<br>00225 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av delegeringsbeslut<br>tagna under perioden 2025-11-01 till 2025-11-30. |
+| 17. | Inkomna skrivelser till<br>ledamöter och ersättare i<br>nämnden (2025) | GA-2024-<br>00227 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 18. | Förvaltningschef informerar<br>(2025)<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>20:35-20:50 | GA-2024-<br>00228 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 9. | Ersättning friskolor 2026 | GA-2025-<br>00180 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar anta den framräknade ersättningen till<br>fristående gymnasieskolor för 2026. |
-| 10. | Beredning av motion - Avskaffa<br>religiöst motiverad specialkost i<br>förskola och skola (KS-2025-<br>00457) | GA-2025-<br>00128 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att föreslå Kommunfullmäktige avslår<br>motionen med hänvisning till att det riskerar att<br>strida mot diskrimineringslagen att besluta om att<br>avskaffa religiöst motiverad specialkost i förskola<br>eller skola. |
-| 11. | Förstudie samverkan<br>Varberg/Kungsbacka, Fordon-<br>och transportprogrammet<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>20:05-20:15 | GA-2025-<br>00165 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad ger<br>förvaltningen i uppdrag att tillsammans med<br>Varbergs kommuns utbildning- och<br>arbetsmarknadsförvaltning arbeta fram ett<br>sekundäravtal med avseende på inriktningar inom<br>Fordons- och transportprogrammet mellan båda<br>kommunerna. |
-| 12. | IOP Erikshjälpen<br>Föredragande: Karin<br>Zetterman, verksamhetschef<br>Kompetenscentrum<br>20:15-20:20 | GA-2020-<br>00182 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att förlänga befintligt Idéburet offentligt<br>partnerskap med Erikshjälpen Second hand med<br>start 2026-01-01 till 2026-06-30.<br>Paragrafen direktjusteras. |
-| 13. | IOP Onsala församling<br>Föredragande: Karin<br>Zetterman, verksamhetschef<br>Kompetenscentrum<br>20:15-20:20 | GA-2025-<br>00049 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att förlänga överenskommelse om idéburet<br>offentligt partnerskap (IOP) med Onsala församling<br>med start 2026-01-01 till 2026-12-31.<br>Paragrafen direktjusteras. |
 
 <!-- sida 4 -->
 
@@ -90,16 +90,6 @@ KUNGSBACKA  KOMMUN
 
 Axel Storckenfeldt (M)            Alexandra Cameron
 ordförande                        sekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 14. | IOP Skyddsvärnet i Göteborg<br>Föredragande: Karin<br>Zetterman, verksamhetschef<br>Kompetenscentrum<br>20:20-20:25 | GA-2025-<br>00176 | Förslag till beslut<br>Nämnden för Gymnasium och Arbetsmarknad<br>beslutar att ingå i ett Idéburet offentligt partnerskap<br>med Skyddsvärnet i Göteborg med sex månader med<br>start 2026-02-01. |
-| 15. | Återrapportering av program-<br>och verksamhetsråd (2025)<br>Föredragande: Helena Nyborg<br>(KD), Karin Green (C) och<br>May-Louise Flyrin (S)<br>20:25-20:35 | GA-2024-<br>00226 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-| 16. | Återrapportering av<br>delegeringsbeslut (2025) | GA-2024-<br>00225 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av delegeringsbeslut<br>tagna under perioden 2025-11-01 till 2025-11-30. |
-| 17. | Inkomna skrivelser till<br>ledamöter och ersättare i<br>nämnden (2025) | GA-2024-<br>00227 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-| 18. | Förvaltningschef informerar<br>(2025)<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>20:35-20:50 | GA-2024-<br>00228 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 
 <!-- sida 5 -->
 
@@ -438,13 +428,23 @@ gymnasieskola                                              8(20)
 | SVENSKA 1<br>(SVBSVE51) |  |  | 7 | 11 | 9 | 6 |  |  |
 | SVENSKA SOM<br>ANDRASPRÅK |  |  |  | 1 | 1 |  |  |  |
 
-[Tabell 12-2](handlingar.tabeller/12-2.csv)
+[Tabell 12-13-2](handlingar.tabeller/12-13-2.csv)
 
-| Individuella programmet<br>Index Kunskap och lärande | 2025<br>88 |
+| Individuella programmet | 2025 |
 | --- | --- |
+| Index Kunskap och lärande | 88 |
 | Är det roligt att lära sig nya saker i<br>skolan? | 89 |
 | Förklarar de vuxna så att du förstår? | 92 |
 | Får du hjälp med skolarbetet när du<br>behöver? | 83 |
+| Nationella programmen | 2025 |
+| Index Kunskap och lärande | 84 |
+| Gör skolarbetet så att du vill lära dig<br>mer? | 83 |
+| Förklarar lärarna så att du förstår? | 81 |
+| Gör lärarna så att du tror på dig själv i<br>skolarbetet? | 88 |
+| Vet du vad du ska kunna i de olika<br>ämnena? | 80 |
+| Får du veta hur det går för dig i skolan? | 86 |
+| Tycker du att undervisningen är för lätt,<br>för svår eller lagom? | 85 |
+| Får du hjälp med skolarbetet när du<br>behöver? | 89 |
 
 <!-- sida 13 -->
 
@@ -488,18 +488,6 @@ Analysen visar dock att inte all personal känner sig helt trygg i att använda 
 
 Gymnasium & Arbetsmarknad, Uppföljning systematiskt kvalitetsarbete 2024/2025 - Anpassad
 gymnasieskola                                              9(20)
-
-[Tabell 13-1](handlingar.tabeller/13-1.csv)
-
-| Nationella programmen<br>Index Kunskap och lärande | 2025<br>84 |
-| --- | --- |
-| Gör skolarbetet så att du vill lära dig<br>mer? | 83 |
-| Förklarar lärarna så att du förstår? | 81 |
-| Gör lärarna så att du tror på dig själv i<br>skolarbetet? | 88 |
-| Vet du vad du ska kunna i de olika<br>ämnena? | 80 |
-| Får du veta hur det går för dig i skolan? | 86 |
-| Tycker du att undervisningen är för lätt,<br>för svår eller lagom? | 85 |
-| Får du hjälp med skolarbetet när du<br>behöver? | 89 |
 
 <!-- sida 14 -->
 
@@ -574,8 +562,9 @@ gymnasieskola                                             11(20)
 
 [Tabell 15-1](handlingar.tabeller/15-1.csv)
 
-| Individuella programmet<br>Index Trivsel och trygghet | 2025<br>91 |
+| Individuella programmet | 2025 |
 | --- | --- |
+| Index Trivsel och trygghet | 91 |
 | Känner du dig trygg i skolan? | 87 |
 | Är andra elever snälla mot dig? | 90 |
 | Är de vuxna i skolan snälla mot dig? | 91 |
@@ -586,8 +575,9 @@ gymnasieskola                                             11(20)
 
 [Tabell 15-2](handlingar.tabeller/15-2.csv)
 
-| Nationella programmen<br>Index Trivsel och trygghet | 2025<br>89 |
+| Nationella programmen | 2025 |
 | --- | --- |
+| Index Trivsel och trygghet | 89 |
 | Pratar ni på lektionerna om hur ni ska<br>vara mot varandra? | 82 |
 | Har du kompisar i skolan? | 91 |
 | Känner du dig trygg i skolan? | 88 |
@@ -704,14 +694,16 @@ gymnasieskola                                             13(20)
 
 [Tabell 17-1](handlingar.tabeller/17-1.csv)
 
-| Indivduella programmet<br>Index Inflytande | 2025<br>89 |
+| Indivduella programmet | 2025 |
 | --- | --- |
+| Index Inflytande | 89 |
 | Lyssnar de vuxna i skolan på dig? | 89 |
 
 [Tabell 17-2](handlingar.tabeller/17-2.csv)
 
-| Nationella programmen<br>Index Inflytande | 2025<br>80 |
+| Nationella programmen | 2025 |
 | --- | --- |
+| Index Inflytande | 80 |
 | Lyssnar personalen på dina åsikter? | 74 |
 | Får du vara med och påverka ditt<br>skolarbete? | 77 |
 | Kan du prata med din rektor om du<br>behöver? | 90 |
@@ -807,6 +799,13 @@ Kommunalt mål: I Kungsbacka utvecklas vi hela livet
 3.4.1 Resultat
 
 Enkätresultat kopplade till läroplansområdet
+Nationella programmen                   2025
+
+Index Skola och framtid                  70
+Pratar ni i skolan om vad du kan utbilda
+62
+dig till och sedan arbeta med?
+Vet du vad du vill göra i framtiden?     70
 
 Arbetsplatsförlagt lärande vid nationella program
 
@@ -814,12 +813,6 @@ Gymnasium & Arbetsmarknad, Uppföljning systematiskt kvalitetsarbete 2024/2025 -
 gymnasieskola                                             15(20)
 
 [Tabell 19-1](handlingar.tabeller/19-1.csv)
-
-| Nationella programmen<br>Index Skola och framtid<br>Pratar ni i skolan om vad du kan utbilda<br>dig till och sedan arbeta med? | 2025<br>70<br>62 |
-| --- | --- |
-| Vet du vad du vill göra i framtiden? | 70 |
-
-[Tabell 19-2](handlingar.tabeller/19-2.csv)
 
 | Nationella<br>program | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -980,8 +973,9 @@ gymnasieskola                                             18(20)
 
 [Tabell 22-1](handlingar.tabeller/22-1.csv)
 
-| Förklarar lärarna så att du förstår? | 2025<br>81 |
+|  | 2025 |
 | --- | --- |
+| Förklarar lärarna så att du förstår? | 81 |
 | Får du veta hur det går för dig i skolan? | 86 |
 | Vet du vad du ska kunna i de olika<br>ämnena? | 80 |
 
@@ -1245,6 +1239,28 @@ insikt. Rektorerna har genomgått, genomgår eller står i begrepp att starta de
 Gymnasium & Arbetsmarknad                        Kungsbacka kommun
 Uppföljning av systematiskt kvalitetsarbete 2024/2025 - Huvudmannarapport
 
+2015 2016 2017 2018 2019 2020  2021  2022  2023  2024
+Lärare i    88   87   86    85   86   87,5 81,8  87,4  84,0  84,0
+huvudmannens
+skolor (heltidstj),
+andel (%) med
+pedagogisk
+högskoleexamen
+Lärare i    216 216  204   229   218  207  220    231   226  232
+huvudmannens
+skolor, antal
+heltidstjänster
+Lärartäthet, antal 12,1 12,5 13,7 12,7 13,5 14,4 13,7 13,1 13,0 12,4
+elever per lärare
+(heltidstj.)
+Lärare      86,4 85,1 90,6 87,6 86,3  87,2 89,4  82,7  86,3  86,3
+(Heltidstjänster)
+med
+lärarlegitimation
+och behörighet i
+minst ett ämne i
+gymnasieskolan,
+andel (%)
 Under perioden 2015–2024 har andelen lärare med pedagogisk högskoleexamen legat på en generellt hög
 nivå men med vissa variationer. År 2013 hade 90 % av lärarna pedagogisk högskoleexamen, medan andelen
 därefter minskade något och stabiliserade sig kring 84 % från och med 2023. Den lägsta andelen noterades
@@ -1265,14 +1281,6 @@ därefter minskade något och stabiliserade sig kring 84 % från och med 2023. D
 | Studie- och yrkesvägledare (SYV) Helt.tj | 50 |
 | Elev/ SYV Helt.tj | 572,8 |
 | Lärare, tillsvidareanst (%) | 95,3 |
-
-[Tabell 31-2](handlingar.tabeller/31-2.csv)
-
-| Lärare i<br>huvudmannens<br>skolor (heltidstj),<br>andel (%) med<br>pedagogisk<br>högskoleexamen | 2015<br>88 | 2016<br>87 | 2017<br>86 | 2018<br>85 | 2019<br>86 | 2020<br>87,5 | 2021<br>81,8 | 2022<br>87,4 | 2023<br>84,0 | 2024<br>84,0 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Lärare i<br>huvudmannens<br>skolor, antal<br>heltidstjänster | 216 | 216 | 204 | 229 | 218 | 207 | 220 | 231 | 226 | 232 |
-| Lärartäthet, antal<br>elever per lärare<br>(heltidstj.) | 12,1 | 12,5 | 13,7 | 12,7 | 13,5 | 14,4 | 13,7 | 13,1 | 13,0 | 12,4 |
-| Lärare<br>(Heltidstjänster)<br>med<br>lärarlegitimation<br>och behörighet i<br>minst ett ämne i<br>gymnasieskolan,<br>andel (%) | 86,4 | 85,1 | 90,6 | 87,6 | 86,3 | 87,2 | 89,4 | 82,7 | 86,3 | 86,3 |
 
 <!-- sida 32 -->
 
@@ -1402,7 +1410,7 @@ Genomsnittlig betygspoäng
 
 11
 
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
+[Tabell 35-36-1](handlingar.tabeller/35-36-1.csv)
 
 | Genomsnittlig<br>betygspoäng hos<br>avgångseleverna | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1421,6 +1429,9 @@ Genomsnittlig betygspoäng
 | Ekonomiprogrammet | 14,6 | 14,2 | 14,3 | 14,3 | 14,2 | 14,2 | 14,4 | 14,8 | 14,8 | 14,7 | 14,4 | 14,4 |
 | Estetiska<br>programmet | 15,1 | 13,6 | 14,2 | 14,4 | 15,0 | 14,5 | 14,1 | 15,2 | 15,9 | 14,7 | 15,8 | 14,7 |
 | Naturvetenskaps-<br>programmet | 15,9 | 15,3 | 16,0 | 15,5 | 16,9 | 16,5 | 16,5 | 17,1 | 17,4 | 17,5 | 15,8 | 16,8 |
+| Teknikprogrammet -<br>Elof Lindälvs<br>gymnasium | 14,8 | 14,2 | 15,2 | 14,7 | 14,4 | 13,7 | 14,4 | 14,2 | 14,1 | 13,4 | 14,8 | 14,8 |
+| Teknikprogrammet -<br>Aranäsgymnasiet | 14,8 | 14,2 | 14,2 | 14,7 | 14,5 | 15,7 | 14,7 | 15,4 | 15,6 | 16,2 | 15,5 | 14,8 |
+| Samhällsvetenskaps-<br>programmet | 14,1 | 14,4 | 14,0 | 14,0 | 13,7 | 13,8 | 14,2 | 15,0 | 14,6 | 14,7 | 14,5 | 14,8 |
 
 <!-- sida 36 -->
 
@@ -1437,31 +1448,14 @@ Andel (%) elever med examen
 
 12
 
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
+[Tabell 36-37-1](handlingar.tabeller/36-37-1.csv)
 
-| Teknikprogrammet -<br>Elof Lindälvs<br>gymnasium | 14,8 | 14,2 | 15,2 | 14,7 | 14,4 | 13,7 | 14,4 | 14,2 | 14,1 | 13,4 | 14,8 | 14,8 |
+| Andel (%) elever med<br>examen | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Teknikprogrammet -<br>Aranäsgymnasiet | 14,8 | 14,2 | 14,2 | 14,7 | 14,5 | 15,7 | 14,7 | 15,4 | 15,6 | 16,2 | 15,5 | 14,8 |
-| Samhällsvetenskaps-<br>programmet | 14,1 | 14,4 | 14,0 | 14,0 | 13,7 | 13,8 | 14,2 | 15,0 | 14,6 | 14,7 | 14,5 | 14,8 |
-
-[Tabell 36-2](handlingar.tabeller/36-2.csv)
-
-| Andel (%) elever med<br>examen<br>Nationella program | 2014<br>94,1 | 2015<br>91,2 | 2016<br>88,7 | 2017<br>91,0 | 2018<br>91,3 | 2019<br>92,1 | 2020<br>94,4 | 2021<br>93,0 | 2022<br>95,1 | 2023<br>92,5 | 2024<br>89,4 | 2025<br>91,1 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nationella program | 94,1 | 91,2 | 88,7 | 91,0 | 91,3 | 92,1 | 94,4 | 93,0 | 95,1 | 92,5 | 89,4 | 91,1 |
 | Yrkesprogram | 92,6 | 90,2 | 83,3 | 87,2 | 87,1 | 89,6 | 90,0 | 88,9 | 94,4 | 89,6 | 87,5 | 89,4 |
 | Barn- och<br>fritidsprogrammet | 95,5 | 72,2 | 77,8 | 91,7 | 100 | 100 | 95,7 | 87,5 | 92,9 | 96,0 | 88,2 | 82,4 |
-
-<!-- sida 37 -->
-
-Gymnasium & Arbetsmarknad                        Kungsbacka kommun
-Uppföljning av systematiskt kvalitetsarbete 2024/2025 - Huvudmannarapport
-
-13
-
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
-
 | Bygg- och<br>anläggnings-<br>programmet | 96,3 | 86,4 | 95,8 | 96,2 | 100 | 77,8 | 93,3 | 100 | 96,8 | 88,0 | 78,6 | 90,0 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Fordons- och<br>transportprogrammet | 88,6 | 78,6 | 60,6 | 63,9 | 79,3 | 90,9 | 87,5 | 87,9 | 94,3 | 82,9 | 83,8 | 90,0 |
 | Lärlingsutbildning |  |  |  | 77,0 | 92,3 | 90,0 | 89,7 | 100 | 83,0 |  | .. | 91,5 |
 | El- och<br>energiprogrammet | 100 | 100 | 91,3 | 83,7 | 97,2 | 95,9 | 88,1 | 93,3 | 97,6 | 100 | 93,0 | 90,9 |
@@ -1476,6 +1470,13 @@ Uppföljning av systematiskt kvalitetsarbete 2024/2025 - Huvudmannarapport
 | Teknikprogrammet –<br>Elof Lindälv | 95,7 | 92,9 | 95,9 | 90,7 | 92,9 | 87,5 | 100 | 95,2 | 83,3 | 88,1 | 96,0 | 100 |
 | Teknikprogrammet \_<br>Aranäsgymnasiet | 93,8 | 93,1 | 87,5 | 94,3 | 95,2 | 98,4 | 91,5 | 94,7 | 96,3 | 97,5 | 96,6 | 92,6 |
 | Samhällsvetenskaps-<br>programmet | 94,7 | 92,9 | 92,3 | 91,7 | 89,4 | 95,3 | 97,5 | 95,3 | 97,4 | 93,6 | 94,5 | 94,1 |
+
+<!-- sida 37 -->
+
+Gymnasium & Arbetsmarknad                        Kungsbacka kommun
+Uppföljning av systematiskt kvalitetsarbete 2024/2025 - Huvudmannarapport
+
+13
 
 <!-- sida 38 -->
 
@@ -1499,25 +1500,15 @@ Högskolebehörighet
 
 14
 
-[Tabell 38-1](handlingar.tabeller/38-1.csv)
+[Tabell 38-39-1](handlingar.tabeller/38-39-1.csv)
 
-| Andel (%) behöriga till<br>högskola<br>avavgångselever<br>Nationella program | 2014<br>79,7 | 2015<br>77,6 | 2016<br>73,6 | 2017<br>77,2 | 2018<br>77,8 | 2019<br>75,7 | 2020<br>81,4 | 2021<br>79,2 | 2022<br>77,6 | 2023<br>78,6 | 2024<br>74,6 | 2025<br>76,4 |
+| Andel (%) behöriga till<br>högskola<br>avavgångselever | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nationella program | 79,7 | 77,6 | 73,6 | 77,2 | 77,8 | 75,7 | 81,4 | 79,2 | 77,6 | 78,6 | 74,6 | 76,4 |
 | Yrkesprogram | 50,0 | 48,4 | 36,3 | 40,2 | 40,7 | 33,0 | 41,9 | 41,0 | 34,6 | 42,0 | 33,8 | 43,2 |
 | Barn- och<br>fritidsprogrammet | 81,8 | 55,6 | 66,7 | .. | . | 80,0 | 82,6 | 54,2 | 78,6 | 88,0 | 58,8 | 52,9 |
 | Bygg- och<br>anläggnings-<br>programmet | 40,7 | 35,7 | .. | 46,2 | . | 32,1 | 63,3 | 79,2 | 38,7 | 40,0 | 67,9 | 66,7 |
-
-<!-- sida 39 -->
-
-Gymnasium & Arbetsmarknad                        Kungsbacka kommun
-Uppföljning av systematiskt kvalitetsarbete 2024/2025 - Huvudmannarapport
-
-15
-
-[Tabell 39-1](handlingar.tabeller/39-1.csv)
-
 | Fordons- och<br>transportprogrammet | . | . | . | .. | . | 0 | .. | .. | .. | .. | .. | 0 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Lärlingsutbildning |  |  |  |  | 23,1 | 20,0 | 17,2 | 11,6 | 14,9 |  | . | 13,6 |
 | El- och<br>energiprogrammet | 63,0 | 57,8 | 56,5 | 48,8 | 58,3 | 42,9 | 38,1 | 46,7 | 45,2 | 66,7 | 58,1 | 80,8 |
 | Hotell- och turism-<br>programmet | 87,5 | .. | 52,6 | .. | . | 54,2 | .. | .. | .. | .. | . | 18,8 |
@@ -1531,6 +1522,13 @@ Uppföljning av systematiskt kvalitetsarbete 2024/2025 - Huvudmannarapport
 | Teknikprogrqammet –<br>Elof Lindälv | 95,7 | 92,9 | 95,9 | 90,7 | 92,9 | 87,5 | 100 | 95,2 | 83,3 | 88,1 | 96,6 | 100 |
 | Teknikprogrammet –<br>Aranäs | 93,8 | 93,1 | 87,5 | 94,3 | 95,2 | 98,4 | 91,5 | 94,7 | 96,3 | 97,5 | 96,0 | 92,6 |
 | Samhällsvetenskaps-<br>programmet | 94,7 | 92,9 | 92,3 | 91,7 | 89,4 | 95,3 | 97,5 | 95,3 | 97,4 | 93,6 | 94,5 | 94,1 |
+
+<!-- sida 39 -->
+
+Gymnasium & Arbetsmarknad                        Kungsbacka kommun
+Uppföljning av systematiskt kvalitetsarbete 2024/2025 - Huvudmannarapport
+
+15
 
 <!-- sida 40 -->
 
@@ -1547,11 +1545,13 @@ Andelen högskolebehöriga minskade från 50,0 % år 2014 till 33,8 % år 2024 m
 
 Enkätresultat kopplade till läroplansområdet
 
+2022 2023 2024 2025
+
 16
 
 [Tabell 40-1](handlingar.tabeller/40-1.csv)
 
-| Index Stimulans | 2022 | 2023 | 2024 | 2025<br>48 |
+| Index Stimulans |  |  |  | 48 |
 | --- | --- | --- | --- | --- |
 | Tycker du att lärarna varierar lektionerna så att ni får arbeta på olika sätt? | 50 | 48 | 53 | 52 |
 | Hur ofta får lärarna dig att bli intresserad av skolarbetet? | 49 | 48 | 51 | 51 |
@@ -1559,7 +1559,7 @@ Enkätresultat kopplade till läroplansområdet
 | Hur ofta tycker du att skolarbetet är alldeles för lätt? |  |  |  | 72 |
 | Index Stöd | 61 | 59 | 62 | 66 |
 | Hur ofta får du den hjälp du behöver under lektionerna? | 73 | 71 | 71 | 71 |
-| Tycker du att du får den hjälp du behöver från skolan för att klara<br>skolarbetet? | 63 | 60 | 64 | 64 |
+| Tycker du att du får den hjälp du behöver från skolan för att klara skolarbetet? | 63 | 60 | 64 | 64 |
 
 <!-- sida 41 -->
 
@@ -1590,21 +1590,38 @@ potential för ökad variation i undervisning, fler utmanande arbetsformer och s
 
 Kursbetyg
 
+Andel elever med minst betyget E i gymnasiekurserna samt Gymnasiearbete
+
+Idr och
+Eng Historia     Ma  Na  Re  Sam  Sv  Sv
+Program                 hälsa                         Gymnarb
+5    1          1   1    1   1   1   2
+1
+Nationella program 99,3 90,5 99,1 97,8 96,1 93,5 97,7 99,3 100 97,9
+Yrkesprogram      97,8 85,7  97,8 95,2 93,4 88,6 92,7 98,5 100 96,3
+Barn- och
+94,1 100   94,1 94,1 100 82,4 94,1 100 100 94,1
+fritidsprogrammet
+Bygg- och
+96,7 96,7  100  96,7 96,7 63,3 93,3 96,7  96,7
+anläggningsprogrammet
+Fordons- och
+90,0 80,0  100  96,7 86,7 86,7 90,0 93,3   100
+transportprogrammet
+Lärlingsutbildning 98,3 96,6 96,6 96,6 81,4 94,9 83,1 98,2 100 90,6
+El- och
+100  72,7  100  98,2 100 83,6 100 100     94,5
+energiprogrammet
+Hotell- och
+100  56,3  93,8 81,3 100 93,8 100 94,4 100 100
+turismprogrammet
+Restaurang- och
+100  71,4  100  71,4 100 100 85,7 100     87,5
+livsmedelsprogrammet
+Försäljnings- och
+100  88,2  100  96,1 96,1 100 96,1 100    96,1
+serviceprogrammet
 17
-
-[Tabell 41-1](handlingar.tabeller/41-1.csv)
-
-| Program<br>Nationella program | Andel elever med minst betyget E i gymnasiekurserna samt Gymnasiearbete<br>Idr och<br>Eng Historia Ma Na Re Sam Sv Sv<br>hälsa Gymnarb<br>5 1 1 1 1 1 1 2<br>1<br>99,3 90,5 99,1 97,8 96,1 93,5 97,7 99,3 100 97,9 |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Yrkesprogram | 97,8 | 85,7 | 97,8 | 95,2 | 93,4 | 88,6 | 92,7 | 98,5 | 100 | 96,3 |
-| Barn- och<br>fritidsprogrammet | 94,1 | 100 | 94,1 | 94,1 | 100 | 82,4 | 94,1 | 100 | 100 | 94,1 |
-| Bygg- och<br>anläggningsprogrammet | 96,7 | 96,7 | 100 | 96,7 | 96,7 | 63,3 | 93,3 | 96,7 |  | 96,7 |
-| Fordons- och<br>transportprogrammet | 90,0 | 80,0 | 100 | 96,7 | 86,7 | 86,7 | 90,0 | 93,3 |  | 100 |
-| Lärlingsutbildning | 98,3 | 96,6 | 96,6 | 96,6 | 81,4 | 94,9 | 83,1 | 98,2 | 100 | 90,6 |
-| El- och<br>energiprogrammet | 100 | 72,7 | 100 | 98,2 | 100 | 83,6 | 100 | 100 |  | 94,5 |
-| Hotell- och<br>turismprogrammet | 100 | 56,3 | 93,8 | 81,3 | 100 | 93,8 | 100 | 94,4 | 100 | 100 |
-| Restaurang- och<br>livsmedelsprogrammet | 100 | 71,4 | 100 | 71,4 | 100 | 100 | 85,7 | 100 |  | 87,5 |
-| Försäljnings- och<br>serviceprogrammet | 100 | 88,2 | 100 | 96,1 | 96,1 | 100 | 96,1 | 100 |  | 96,1 |
 
 <!-- sida 42 -->
 
@@ -1787,14 +1804,33 @@ Enkätresultat kopplade till läroplansmålet
 
 21
 
-[Tabell 45-1](handlingar.tabeller/45-1.csv)
+[Tabell 45-46-1](handlingar.tabeller/45-46-1.csv)
 
-| Index Trygghet | 2022<br>89 | 2023<br>89 | 2024<br>89 | 2025<br>86 |
+|  | 2022 | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- | --- |
+| Index Trygghet | 89 | 89 | 89 | 86 |
 | Känner du dig rädd för andra elever på skolan? | 92 | 92 | 89 | 89 |
 | Känner du dig rädd för någon lärare eller annan vuxen på skolan? | 92 | 92 | 91 | 92 |
 | Känner du dig trygg i skolan? | 83 | 83 | 83 | 82 |
 | Känner du att du kan vara dig själv i skolan? | 83 | 78 | 77 | 78 |
+| Index Förhindra kränkningar | 61 | 60 | 62 | 63 |
+| Litar du på att de vuxna i skolan gör tillräckligt om någon elev blir illa<br>behandlad? | 69 | 67 | 71 | 71 |
+| Tycker du att de vuxna på skolan har koll på vad som händer på rasterna? | 52 | 52 | 52 | 52 |
+| Index Studiero | 65 | 64 | 64 | 65 |
+| Hur ofta är det arbetsro på lektionerna? | 66 | 64 | 64 | 65 |
+| Hur ofta är det så stökigt på lektionerna att du har svårt att koncentrera dig? | 64 | 64 | 64 | 65 |
+| Index Elevhälsan | 68 | 67 | 69 | 69 |
+| Känner du att det finns någon vuxen i skolan som bryr sig om hur du mår? | 68 | 67 | 69 | 70 |
+| Hur lätt eller svårt är det att få hjälp av elevhälsan, till exempel<br>skolsköterskan? | 68 | 68 | 69 | 68 |
+| Index Bemötande – elever | 78 | 77 | 78 | 78 |
+| Hur tycker du att eleverna bemöter vuxna i skolan? | 79 | 77 | 77 | 78 |
+| Hur tycker du att eleverna bemöter varandra i skolan? | 79 | 76 | 78 | 77 |
+| Index Bemötande – lärare | 76 | 75 | 76 | 77 |
+| Tycker du att lärarna behandlar alla elever lika oavsett om de är flickor,<br>pojkar eller har annan könsidentitet? | 71 | 68 | 70 | 72 |
+| Känner du dig orättvist behandlad av någon lärare eller annan vuxen i<br>skolan? | 82 | 81 | 81 | 81 |
+| Index Kritiskt tänkande | 54 | 54 | 56 | 57 |
+| Hur mycket tycker du att ni elever får öva på att diskutera frågor där man<br>kan tycka olika? | 50 | 50 | 53 | 54 |
+| Hur mycket pratar lärarna om att allt man hör och läser, till exempel på<br>internet, inte behöver vara sant (källkritik)? | 58 | 58 | 60 | 60 |
 
 <!-- sida 46 -->
 
@@ -1818,28 +1854,6 @@ Index för elevhälsan ligger på 68–69 under perioden. Fler elever upplever a
 om deras välmående, och tillgången till stöd från elevhälsan, såsom skolsköterska, bedöms som god.
 
 22
-
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
-
-| Index Förhindra kränkningar | 2022<br>61 | 2023<br>60 | 2024<br>62 | 2025<br>63 |
-| --- | --- | --- | --- | --- |
-| Litar du på att de vuxna i skolan gör tillräckligt om någon elev blir illa<br>behandlad? | 69 | 67 | 71 | 71 |
-| Tycker du att de vuxna på skolan har koll på vad som händer på rasterna? | 52 | 52 | 52 | 52 |
-| Index Studiero | 65 | 64 | 64 | 65 |
-| Hur ofta är det arbetsro på lektionerna? | 66 | 64 | 64 | 65 |
-| Hur ofta är det så stökigt på lektionerna att du har svårt att koncentrera dig? | 64 | 64 | 64 | 65 |
-| Index Elevhälsan | 68 | 67 | 69 | 69 |
-| Känner du att det finns någon vuxen i skolan som bryr sig om hur du mår? | 68 | 67 | 69 | 70 |
-| Hur lätt eller svårt är det att få hjälp av elevhälsan, till exempel<br>skolsköterskan? | 68 | 68 | 69 | 68 |
-| Index Bemötande – elever | 78 | 77 | 78 | 78 |
-| Hur tycker du att eleverna bemöter vuxna i skolan? | 79 | 77 | 77 | 78 |
-| Hur tycker du att eleverna bemöter varandra i skolan? | 79 | 76 | 78 | 77 |
-| Index Bemötande – lärare | 76 | 75 | 76 | 77 |
-| Tycker du att lärarna behandlar alla elever lika oavsett om de är flickor,<br>pojkar eller har annan könsidentitet? | 71 | 68 | 70 | 72 |
-| Känner du dig orättvist behandlad av någon lärare eller annan vuxen i<br>skolan? | 82 | 81 | 81 | 81 |
-| Index Kritiskt tänkande | 54 | 54 | 56 | 57 |
-| Hur mycket tycker du att ni elever får öva på att diskutera frågor där man<br>kan tycka olika? | 50 | 50 | 53 | 54 |
-| Hur mycket pratar lärarna om att allt man hör och läser, till exempel på<br>internet, inte behöver vara sant (källkritik)? | 58 | 58 | 60 | 60 |
 
 <!-- sida 47 -->
 
@@ -2041,8 +2055,9 @@ program uppvisar positiva exempel som kan ge underlag för utvecklingsinsatser.
 
 [Tabell 50-1](handlingar.tabeller/50-1.csv)
 
-| Index Inflytande | 2022<br>53 | 2023<br>51 | 2024<br>52 | 2025<br>50 |
+|  | 2022 | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- | --- |
+| Index Inflytande | 53 | 51 | 52 | 50 |
 | Hur mycket tycker du att ni elever får vara med och påverka hur ni ska<br>arbeta på lektionerna? | 51 | 49 | 51 | 48 |
 | Hur mycket tycker du att de vuxna lyssnar på förslag från eleverna till<br>exempel från klassråd eller elevråd? | 55 | 53 | 54 | 53 |
 
@@ -2317,17 +2332,17 @@ Kommunalt mål: I Kungsbacka utvecklas vi hela livet
 
 Enkätresultat kopplade till läroplansmålet
 
+2022 2023 2024 2025
+Index Information om utbildningen                            56
+
+Hur ofta förklarar lärarna vad du ska göra på lektionerna så att du förstår? 76 75 76 76
+Tycker du att du får veta hur det går för dig i skolarbetet? 59 58 63 62
+
+Tycker du att lärarna förklarar vad du behöver kunna i de olika ämnena? 58 58 62 63
+Tycker du att utvecklingssamtalet är till hjälp för dig i skolarbetet? 40 36 40 38
+Har du fått möjlighet att leda ditt utvecklingssamtal? 88% 90% 89% 91%
+
 31
-
-[Tabell 55-1](handlingar.tabeller/55-1.csv)
-
-| Index Information om utbildningen | 2022 | 2023 | 2024 | 2025<br>56 |
-| --- | --- | --- | --- | --- |
-| Hur ofta förklarar lärarna vad du ska göra på lektionerna så att du förstår? | 76 | 75 | 76 | 76 |
-| Tycker du att du får veta hur det går för dig i skolarbetet? | 59 | 58 | 63 | 62 |
-| Tycker du att lärarna förklarar vad du behöver kunna i de olika ämnena? | 58 | 58 | 62 | 63 |
-| Tycker du att utvecklingssamtalet är till hjälp för dig i skolarbetet? | 40 | 36 | 40 | 38 |
-| Har du fått möjlighet att leda ditt utvecklingssamtal? | 88% | 90% | 89% | 91% |
 
 <!-- sida 56 -->
 
@@ -5625,20 +5640,6 @@ Kommunstyrelsen fastställer lönestrukturen för 2026 enligt nedan:
 
 BAS-intervall  10 percentil   90 percentil
 
-```osaker-tabell
-A              25 250         30 700
-B              26 250         34 000
-C              28 550         37 300
-D              30 700         40 600
-E              32 850         44 900
-
-F              37 300         51 000
-G              40 600         55 300
-H              44 400         60 250
-I              49 350         65 700
-J              53 650         71 800
-```
-
 Sammanfattning av ärendet
 
 Kungsbacka kommun arbetar med en lönestruktur där samtliga befattningar är värderade utifrån ett
@@ -5666,6 +5667,20 @@ Ulrica Furby
 Förhandlingschef                                         Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
+
+[Tabell 133-1](handlingar.tabeller/133-1.csv)
+
+| A | 25 250 | 30 700 |
+| --- | --- | --- |
+| B | 26 250 | 34 000 |
+| C | 28 550 | 37 300 |
+| D | 30 700 | 40 600 |
+| E | 32 850 | 44 900 |
+| F | 37 300 | 51 000 |
+| G | 40 600 | 55 300 |
+| H | 44 400 | 60 250 |
+| I | 49 350 | 65 700 |
+| J | 53 650 | 71 800 |
 
 <!-- sida 134 -->
 
@@ -5771,24 +5786,6 @@ Kommunstyrelsen fastställer lönestrukturen för 2026 enligt nedan:
 
 BAS-intervall 10 percentil 90 percentil
 
-```osaker-tabell
-A            25 250     30 700
-
-B            26 250     34 000
-C            28 550     37 300
-
-D            30 700     40 600
-E            32 850     44 900
-
-F            37 300     51 000
-G            40 600     55 300
-
-H            44 400     60 250
-I            49 350     65 700
-
-J            53 650     71 800
-```
-
 Sammanfattning av ärendet
 
 Kungsbacka kommun arbetar med en lönestruktur där samtliga befattningar är
@@ -5815,6 +5812,20 @@ kommunstyrelsens arbetsutskotts förslag, och att kommunstyrelsen bifaller det.
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: E60DB36024E83225633B4EFF23036D46148DA6BAEB
 Transaktionsidentitet: F28267642B6A7944BF82C8EDD7038A2C6D62583700
+
+[Tabell 136-1](handlingar.tabeller/136-1.csv)
+
+| A | 25 250 | 30 700 |
+| --- | --- | --- |
+| B | 26 250 | 34 000 |
+| C | 28 550 | 37 300 |
+| D | 30 700 | 40 600 |
+| E | 32 850 | 44 900 |
+| F | 37 300 | 51 000 |
+| G | 40 600 | 55 300 |
+| H | 44 400 | 60 250 |
+| I | 49 350 | 65 700 |
+| J | 53 650 | 71 800 |
 
 <!-- sida 137 -->
 
@@ -6010,7 +6021,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: E60DB36024E83225633B4EFF23036D46148DA6BAEB
 Transaktionsidentitet: F28267642B6A7944BF82C8EDD7038A2C6D62583700
 
-[Tabell 141-1](handlingar.tabeller/141-1.csv)
+[Tabell 141-142-1](handlingar.tabeller/141-142-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -6024,6 +6035,11 @@ Transaktionsidentitet: F28267642B6A7944BF82C8EDD7038A2C6D62583700
 | Stefan Jägnert (SD) | X |  |  |
 | Stefan Vilumsons (SD) | X |  |  |
 | Annika Hedman (C) | X |  |  |
+| Monica Neptun (L) | X |  |  |
+| Fredrik Kollberg (KD) | X |  |  |
+| Patrik Jervne Henestam (V) |  | X |  |
+| Maria Losman (MP) |  | X |  |
+| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 142 -->
 
@@ -6048,15 +6064,6 @@ Nämnden för Individ & Familjeomsorg, nämnden för Gymnasium & Arbetsmarknad
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: E60DB36024E83225633B4EFF23036D46148DA6BAEB
 Transaktionsidentitet: F28267642B6A7944BF82C8EDD7038A2C6D62583700
-
-[Tabell 142-1](handlingar.tabeller/142-1.csv)
-
-| Monica Neptun (L) | X |  |  |
-| --- | --- | --- | --- |
-| Fredrik Kollberg (KD) | X |  |  |
-| Patrik Jervne Henestam (V) |  | X |  |
-| Maria Losman (MP) |  | X |  |
-| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 143 -->
 

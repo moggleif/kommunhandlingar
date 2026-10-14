@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7a86dc02194401f5c32d3d92/1737024424
 sha256: 05b6625a6b86542523d074cb5f72c6cdac5ce3064bac885e75e578cfe896e7bf
 bytes: 4726969
 sidor: 59
-hamtad: 2026-10-08T07:35:49+00:00
-konverterad: 2026-10-08T07:36:02+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T10:34:15+00:00
+konverterad: 2026-10-14T10:34:25+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [13, 14, 15, 37]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -54,7 +54,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-3-1](handlingar.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -63,23 +63,18 @@ KUNGSBACKA  KOMMUN
 | 5. | Slutförande av projekt<br>Löftaleden<br>Föredragande: Karl Persson,<br>förvaltningschef<br>10 min<br>2 st dokument | KFT-2025-<br>00010 | Nämnden beslutar att bevilja ett stöd om 300.000 kr<br>inom ramen för Särskilt stöd, för att möjliggöra att<br>föreningen kan slutföra arbetet med leden. Stödet<br>ska återbetalas som engångssumma så snart<br>föreningen erhållit bidraget från LLUH, dock senast<br>2025-10-30. Om LLUH:s bidragshandläggning<br>fördröjs ska föreningen inkomma med en ansökan<br>om förlängning av stödets återbetalningsfrist. I<br>händelse av att bidrag från LLUH inte erhålls ska det<br>kommunala stödet återbetalas omgående. |
 | 6. | Information till nämnd:<br>Platsvarumärket<br>Föredragande: Nina<br>Magnusson, platsvarumärkes-<br>och kommunikationschef<br>20 min<br>1 st dokument | KFT-2024-<br>00328 | Nämnden noterar informationen till protokollet. |
 |  | PAUS 15 min |  |  |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 7. | Handlingsplan BRÅ<br>Föredragande: Karl Persson,<br>förvaltningschef<br>10 min<br>2 st dokument | KFT-2025-<br>00004 | Nämnden godkänner handlingsplanen. |
 | 8. | Årsredovisning God och nära<br>vård<br>Föredragande: Karl Persson,<br>förvaltningschef<br>15 min<br>2 st dokument | KFT-2025-<br>00005 | Nämnden noterar informationen till protokollet. |
 | 9. | Överlämnande av<br>arbetsuppgifter till<br>nämndsekreterare<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>1 st dokument | KFT-2025-<br>00006 | Nämnden för Kultur & Fritid lämnar till Namita<br>Magnusson, nämndsekreterare vid förvaltningen för<br>Service i Kungsbacka, såsom osjälvständig<br>uppdragstagare att agera nämndsekreterare vid<br>frånvaro av ordinarie nämndsekreterare vid<br>förvaltningen för Kultur & Fritid. |
 | 10. | Anmälan av delegeringsbeslut<br>jan 2025 | KFT-2025-<br>00007 | Redovisning av delegeringsbeslut förtecknade i<br>protokoll 2025-01-22 godkänns. |
 | 11. | Redovisning av inkomna<br>handlingar jan 2025 | KFT-2025-<br>00008 | Nämnden noterar redovisningen till protokollet. |
 | 12. | Förvaltningschefen informerar<br>Föredragande: Karl Persson,<br>förvaltningschef<br>15 min<br>1 st dokument | KFT-2025-<br>00009 | Nämnden noterar informationen till protokollet. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -238,18 +233,22 @@ Förvaltningschef              Controller
 B13 Nämndbeslut total avskrivningsplan                                                                2025-01-13 16:32:44
 
 Kultur & Fritid
-Avskrivningsplan 2026-2034 2025 2025 2026 2026 2027 2027 2028 2028 2029 2029 2030 2030 2031 2031 2032 2032 2033 2033 2034 2034
-(tkr)     Avskr Rta Avskr Rta Avskr Rta Avskr Rta Avskr Rta Avskr Rta Avskr Rta Avskr Rta Avskr Rta Avskr Rta
-Nya Löpande investeringar 300 64 1 039 197 1 630 290 2 381 407 3 141 501 3 930 575 4 720 629 5 352 664 5 663 690 6 103 705
-Nya Övriga investeringar 251 74 655 197 1 497 431 3 163 824 4 080 961 4 580 978 5 080 982 5 580 974 6 080 953 6 580 920
-Nya Reinvesteringar 200 34 933 149  1 810 267 2 543 342 3 067 363 3 754 398 4 396 409 4 839 404 4 749 396 4 569 402
-Summa nya investeringar 751 172 2 627 543 4 936 989 8 087 1 573 10 288 1 825 12 264 1 951 14 196 2 020 15 771 2 043 16 491 2 039 17 252 2 027
-Befintliga investeringar 13 334 2 318 12 297 1 985 11 157 1 678 9 016 1 399 7 461 1 172 6 027 986 4 534 835 3 141 722 1 527 643 1 223 605
-TOTALT          14 085 2 490 14 925 2 528 16 093 2 666 17 103 2 971 17 749 2 997 18 291 2 937 18 730 2 855 18 912 2 765 18 018 2 682 18 475 2 632
+
 Avsk = Avskrivningar
 Rta= Ränta
 
 1 / 1
+
+[Tabell 9-1](handlingar.tabeller/9-1.csv)
+
+| Avskrivningsplan 2026-2034 (tkr) | 2025 Avskr | 2025 Rta | 2026 Avskr | 2026 Rta | 2027 Avskr | 2027 Rta | 2028 Avskr | 2028 Rta | 2029 Avskr | 2029 Rta | 2030 Avskr | 2030 Rta | 2031 Avskr | 2031 Rta | 2032 Avskr | 2032 Rta | 2033 Avskr | 2033 Rta | 2034 Avskr | 2034 Rta |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nya Löpande investeringar | 300 | 64 | 1 039 | 197 | 1 630 | 290 | 2 381 | 407 | 3 141 | 501 | 3 930 | 575 | 4 720 | 629 | 5 352 | 664 | 5 663 | 690 | 6 103 | 705 |
+| Nya Övriga investeringar | 251 | 74 | 655 | 197 | 1 497 | 431 | 3 163 | 824 | 4 080 | 961 | 4 580 | 978 | 5 080 | 982 | 5 580 | 974 | 6 080 | 953 | 6 580 | 920 |
+| Nya Reinvesteringar | 200 | 34 | 933 | 149 | 1 810 | 267 | 2 543 | 342 | 3 067 | 363 | 3 754 | 398 | 4 396 | 409 | 4 839 | 404 | 4 749 | 396 | 4 569 | 402 |
+| Summa nya investeringar | 751 | 172 | 2 627 | 543 | 4 936 | 989 | 8 087 | 1 573 | 10 288 | 1 825 | 12 264 | 1 951 | 14 196 | 2 020 | 15 771 | 2 043 | 16 491 | 2 039 | 17 252 | 2 027 |
+| Befintliga investeringar | 13 334 | 2 318 | 12 297 | 1 985 | 11 157 | 1 678 | 9 016 | 1 399 | 7 461 | 1 172 | 6 027 | 986 | 4 534 | 835 | 3 141 | 722 | 1 527 | 643 | 1 223 | 605 |
+| TOTALT | 14 085 | 2 490 | 14 925 | 2 528 | 16 093 | 2 666 | 17 103 | 2 971 | 17 749 | 2 997 | 18 291 | 2 937 | 18 730 | 2 855 | 18 912 | 2 765 | 18 018 | 2 682 | 18 475 | 2 632 |
 
 <!-- sida 10 -->
 
@@ -1449,15 +1448,25 @@ gäller konventionella banklån vilket gör att vi hoppas på stöd ifrån Kungs
 Uppställning Likviditetsbehov. Likviditetsanalys med sammanställning över projektets
 alla år bifogas separat.
 
-[Tabell 34-1](handlingar.tabeller/34-1.csv)
+```osaker-tabell
+Total Budget  projekt Löftaleden              1 288  469
 
-| Total Budget projekt Löftaleden | 1 288 469 |
-| --- | --- |
-| Rekvisition 1 | 449 947 |
-| Rekvisition 2 | 210 373 |
-| Rekvisition 3 (inskickad 2024-12-15) | 219 955 |
-| Kvar att förbruka Jan-mars 2025<br>Egen likviditet från projektmedel 2024-<br>12-15 | 408 194<br>108 420 |
-| Behov av lån för att kunna slutföra<br>projektet | 300 000:- |
+Rekvisition 1                                  449  947
+
+Rekvisition 2                                  210  373
+
+Rekvisition 3 (inskickad 2024-12-15)           219  955
+
+Kvar  att förbruka Jan-mars 2025               408  194
+```
+
+Egen  likviditet från projektmedel 2024-
+
+12-15                                          108  420
+
+Behov   av lån  för att kunna  slutföra
+
+projektet                                     300  000:-
 
 <!-- sida 35 -->
 

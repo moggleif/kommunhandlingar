@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.450b21aa18d2a5f26571568/17059054012
 sha256: 1a23bb03c466d31d64c747b59f4e8f9651783d94c7c3c7bae97eed91505a5a32
 bytes: 445360
 sidor: 18
-hamtad: 2026-10-07T22:35:11+00:00
-konverterad: 2026-10-07T22:35:14+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T06:46:20+00:00
+konverterad: 2026-10-14T06:46:22+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -528,7 +528,7 @@ Expedierat/bestyrkt
 | Evelyn Orest (KD) | Jenny Thorbjörnsson<br>(KD) |  |  | X |
 | Jan-Christer Jansson<br>(V) |  | X |  |  |
 
-[Tabell 12-2](protokoll.tabeller/12-2.csv)
+[Tabell 12-13-2](protokoll.tabeller/12-13-2.csv)
 
 |  | Ersätter | Ja | Nej | Avstår |
 | --- | --- | --- | --- | --- |
@@ -537,6 +537,14 @@ Expedierat/bestyrkt
 | Johan Tolinsson (S) |  |  | X |  |
 | Paul Blomdahl (M) |  | X |  |  |
 | Mia Sundvall (M) |  | X |  |  |
+| Ulrika Nyhlén (M) | Per Stenberg (M) | X |  |  |
+| Sofia Hansen (M) |  | X |  |  |
+| Helen Thylin (S) |  |  | X |  |
+| Anna-Karin Granberg<br>(SD) |  |  |  | X |
+| Susanne Andersson<br>(SD) |  |  |  | X |
+| Peter Lundin (C) |  | X |  |  |
+| Evelyn Orest (KD) | Jenny Thorbjörnsson<br>(KD) | X |  |  |
+| Jan-Christer Jansson (V) |  |  | X |  |
 
 <!-- sida 13 -->
 
@@ -555,18 +563,6 @@ Protokollsanteckning
 Anette Stockhaus (S) och Sena Munteanu (S) stödjer Socialdemokraternas förslag.
 
 Expedierat/bestyrkt
-
-[Tabell 13-1](protokoll.tabeller/13-1.csv)
-
-| Ulrika Nyhlén (M) | Per Stenberg (M) | X |  |  |
-| --- | --- | --- | --- | --- |
-| Sofia Hansen (M) |  | X |  |  |
-| Helen Thylin (S) |  |  | X |  |
-| Anna-Karin Granberg<br>(SD) |  |  |  | X |
-| Susanne Andersson<br>(SD) |  |  |  | X |
-| Peter Lundin (C) |  | X |  |  |
-| Evelyn Orest (KD) | Jenny Thorbjörnsson<br>(KD) | X |  |  |
-| Jan-Christer Jansson (V) |  |  | X |  |
 
 <!-- sida 14 -->
 

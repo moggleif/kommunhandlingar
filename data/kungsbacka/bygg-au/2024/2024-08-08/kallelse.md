@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7720c696190a248a07d20ce0/1722584233
 sha256: 8aeaf91a495b113b8c912bf5c3b940a32fc2fe0848f2be5f3af7ca96fd1755a1
 bytes: 186543
 sidor: 5
-hamtad: 2026-10-08T00:16:23+00:00
-konverterad: 2026-10-08T00:16:30+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T08:12:49+00:00
+konverterad: 2026-10-14T08:12:55+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -55,26 +55,21 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-3-1](kallelse.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag | Tid |
 | --- | --- | --- | --- | --- |
 | 4. | IDALA-KYRKOTORP 1:2-<br>Förhandsbesked för nybyggnad<br>av två enbostadshus | BN-2023-<br>001473 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för två<br>enbostadshus på fastigheten Idala-<br>Kyrkotorp 1:2.<br>Avgiften för beslutet är 23 125 kronor.<br>Avgiften är reducerad med 23 125 kronor<br>på grund av att beslutet har tagit mer än 25<br>veckor. Kostnaden blir därför 0 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2022-12-06 § 236. | 5 min |
 | 5. | TOM 6:3 - Förhandsbesked för<br>nybyggnad av ett enbostadshus | BN-2024-<br>000826 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för ett<br>enbostadshus på fastigheten Tom 6:3,<br>delområde 4.<br>Avgiften för beslutet är 24 605 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
 | 6. | BRANDSHULT 1:30 -<br>Bygglov för ändrad användning<br>av komplementbyggnad till<br>enbostadshus | BN-2024-<br>000539 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för ändrad<br>användning av komplementbyggnad till<br>enbostadshus.<br>Avgiften för beslutet är 22 610 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
+| 7. | KYVIK 5:120 - Tidsbegränsat<br>bygglov för<br>komplementbyggnad till bostad | BN-2024-<br>000571 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om tidsbegränsat bygglov för<br>komplementbyggnad till bostad.<br>Avgiften för beslutet är 15 960 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
+| 8. | NORTORP 4:12 - Bygglov för<br>tillbyggnad av<br>komplementbyggnad | BN-2024-<br>000673 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för tillbyggnad av<br>komplementbyggnad.<br>Avgiften för beslutet är 9 310 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(5)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 7. | KYVIK 5:120 - Tidsbegränsat<br>bygglov för<br>komplementbyggnad till bostad | BN-2024-<br>000571 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om tidsbegränsat bygglov för<br>komplementbyggnad till bostad.<br>Avgiften för beslutet är 15 960 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
-| 8. | NORTORP 4:12 - Bygglov för<br>tillbyggnad av<br>komplementbyggnad | BN-2024-<br>000673 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för tillbyggnad av<br>komplementbyggnad.<br>Avgiften för beslutet är 9 310 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
 
 <!-- sida 4 -->
 

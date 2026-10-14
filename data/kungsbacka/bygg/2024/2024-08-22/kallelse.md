@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5a53603d190a25d808737cc4/1723793825
 sha256: a610bb4e65195f82b281e698e0856dfe3764fca4aee0c5b369c9f22840481c78
 bytes: 277402
 sidor: 4
-hamtad: 2026-10-07T23:45:23+00:00
-konverterad: 2026-10-07T23:45:30+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T07:47:07+00:00
+konverterad: 2026-10-14T07:47:15+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag | Tid |
 | --- | --- | --- | --- | --- |
@@ -66,17 +66,6 @@ KUNGSBACKA  KOMMUN
 | 8. | Granskning av detaljplan för<br>bostäder, verksamheter och<br>restaurang inom Skällared<br>3:55 m fl i Gottskär<br>Föredragande: Stina Wikström,<br>planarkitekt | BN-2018-<br>00035 | Förslag till beslut<br>Byggnadsnämnden godkänner<br>samrådsredogörelsen.<br>Byggnadsnämnden uppdrar åt<br>samhällsbyggnadskontoret att genomföra<br>granskning för detaljplan för bostäder,<br>verksamheter och restaurang inom Skällared<br>3:55 m fl i Gottskär. | 15<br>min |
 | 9. | Åtgärdsföreläggs med vite att<br>klippa växtlighet | BN-2024-<br>000691 | Förslag till beslut | 5<br>min |
 | 10. | Rättelseföreläggande med vite<br>att avröja tillbyggnad på<br>komplementbyggnad | BN-2011-<br>006116 | Förslag till beslut | 5<br>min |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
 | 11. | Byggsanktionsavgift för att ha<br>påbörjat åtgärd innan<br>startbesked | BN-2021-<br>000147 | Förslag till beslut | 5<br>min |
 | 12. | Byggsanktionsavgift för att ha<br>påbörjat åtgärd innan<br>startbesked | BN-2021-<br>000147 | Förslag till beslut | 5<br>min |
 | 13. | Byggsanktionsavgift för att ha<br>påbörjat åtgärd innan<br>startbesked | BN-2021-<br>000147 | Förslag till beslut | 5<br>min |
@@ -85,6 +74,15 @@ KUNGSBACKA  KOMMUN
 | 16. | Byggsanktionsavgift för att ha<br>påbörjat åtgärd innan<br>startbesked | BN-2020-<br>002301 | Förslag till beslut | 5<br>min |
 | 17. | Byggsanktionsavgift för att ha<br>påbörjat åtgärd innan<br>startbesked | BN-2018-<br>001126 | Förslag till beslut | 5<br>min |
 | 18. | Byggsanktionsavgift för att ha<br>påbörjat åtgärd innan<br>startbesked samt föreläggande<br>att ansöka om lov för ändring av<br>enbostadshus | BN-2017-<br>000116 | Förslag till beslut | 5<br>min |
+| 19. | Anmälan av ordförandebeslut -<br>Yttrande till Länsstyrelsen i<br>Hallands län i ärende med dnr<br>3545-2024, gällande<br>rättelseföreläggande med vite<br>på fastigheten | BN-2022-<br>005182 | Förslag till beslut<br>Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut från<br>ordförande Thure Sandén (M) på grund av<br>brådskande ärende. | 2<br>min |
+| 20. | Anmälan av delegeringsbeslut | 2024-00006 | Förslag till beslut<br>Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut fattade<br>under perioden 2024-06-28–2024-08-15. | 1<br>min |
+| 21. | Redovisning av inkomna<br>skrivelser | 2024-00007 | Förslag till beslut<br>Byggnadsnämnden noterar redovisningen av<br>inkomna skrivelser till protokollet. | 1<br>min |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -94,11 +92,3 @@ KUNGSBACKA  KOMMUN
 
 Thure Sandén                      Sofie Axelsson
 ordförande                        sekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 19. | Anmälan av ordförandebeslut -<br>Yttrande till Länsstyrelsen i<br>Hallands län i ärende med dnr<br>3545-2024, gällande<br>rättelseföreläggande med vite<br>på fastigheten | BN-2022-<br>005182 | Förslag till beslut<br>Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut från<br>ordförande Thure Sandén (M) på grund av<br>brådskande ärende. | 2<br>min |
-| 20. | Anmälan av delegeringsbeslut | 2024-00006 | Förslag till beslut<br>Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut fattade<br>under perioden 2024-06-28–2024-08-15. | 1<br>min |
-| 21. | Redovisning av inkomna<br>skrivelser | 2024-00007 | Förslag till beslut<br>Byggnadsnämnden noterar redovisningen av<br>inkomna skrivelser till protokollet. | 1<br>min |

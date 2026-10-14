@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4ebbd38019ddcb7e72096869/1778220504
 sha256: 1a82a2fed393f627a2d0c1b8701a7c6e50ddbdf74eedad991d1ed2d83ff8ea71
 bytes: 3609589
 sidor: 85
-hamtad: 2026-10-08T01:35:01+00:00
-konverterad: 2026-10-08T01:35:12+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T09:18:09+00:00
+konverterad: 2026-10-14T09:18:19+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [11, 12, 14, 17, 22, 23, 25, 26, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 62]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -2568,14 +2568,18 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 9
 
 2.5 Färdtjänst
 
+Nr   Lagrum/stöd               Delegeringens omfattning             Ansvarig Taget beslut och datum för
+delegat  beslutet
+2.5.1 6–9 §§ lag (1997:736) om Beslut om tillstånd till färdtjänst med regelkompletteringar Fc Beslut om färdtjänst
+färdtjänst                                                     Färdtjänst- Beviljade: 86
+utredare Avslagna: 0
+Ec Kansli
+2.5.5 4–7 §§ lag (1997:735) om Beslut om tillstånd till riksfärdtjänst Fc   Beslut om riksfärdtjänst
+riksfärdtjänst                                                 Färdtjänst- Beviljade: 13
+utredare Delavslagna: 2
+Ec Kansli
+
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 10 (11)
-
-[Tabell 77-1](handlingar.tabeller/77-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
-| --- | --- | --- | --- | --- |
-| 2.5.1 | 6–9 §§ lag (1997:736) om<br>färdtjänst | Beslut om tillstånd till färdtjänst med regelkompletteringar | Fc<br>Färdtjänst-<br>utredare<br>Ec Kansli | Beslut om färdtjänst<br>Beviljade: 86<br>Avslagna: 0 |
-| 2.5.5 | 4–7 §§ lag (1997:735) om<br>riksfärdtjänst | Beslut om tillstånd till riksfärdtjänst | Fc<br>Färdtjänst-<br>utredare<br>Ec Kansli | Beslut om riksfärdtjänst<br>Beviljade: 13<br>Delavslagna: 2 |
 
 <!-- sida 78 -->
 
@@ -2609,7 +2613,7 @@ delegeringsförteckning antagen 2025-09-24 § 94.
 Sida
 1(6)
 
-[Tabell 79-1](handlingar.tabeller/79-1.csv)
+[Tabell 79-84-1](handlingar.tabeller/79-84-1.csv)
 
 | Datum | Beskrivning | Diarienummer |
 | --- | --- | --- |
@@ -2621,16 +2625,6 @@ Sida
 | 2026-04-29 | Yttrande Teknik - Bokbytardag Gula Villan | TE-2026-00368 |
 | 2026-04-28 | Yttrande Teknik - Filminspelning Tostaredsvägen, Gäddeviks naturreservat | TE-2026-00378 |
 | 2026-04-27 | Yttrande Teknik - Bakluckeloppis Tjolöholms slott | TE-2026-00361 |
-
-<!-- sida 80 -->
-
-Sida
-2(6)
-
-[Tabell 80-1](handlingar.tabeller/80-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2026-04-27 | Yttrande Teknik - Byggetablering Nejlikevägen | TE-2026-00360 |
 | 2026-04-27 | Yttrande Teknik - Växtmarknad vid Fyren | TE-2026-00348 |
 | 2026-04-27 | Yttrande Teknik - Manifest förtidsröstning Badhusparken | TE-2026-00304 |
@@ -2642,16 +2636,6 @@ Sida
 | 2026-04-28 | Yttrande Teknik - Parkering, trafiksäkerhet, sophämtning mm, Skårby 6:38, BN 2025-002283 | TE-2026-00352 |
 | 2026-04-20 | Yttrande Teknik - 1 maj firande med demonstration i Badhusparken | TE-2026-00292 |
 | 2026-04-20 | Yttrande Teknik - Loppis Kabelgatan | TE-2026-00287 |
-
-<!-- sida 81 -->
-
-Sida
-3(6)
-
-[Tabell 81-1](handlingar.tabeller/81-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2026-04-20 | Yttrande Teknik - Foodtruckfestival Kungsbacka torg | TE-2026-00269 |
 | 2026-04-28 | Yttrande Teknik - Sophämtning och VA-anslutning, Älvsåker 9:1, BN 2026-000292 | TE-2026-00342 |
 | 2026-04-27 | Yttrande Teknik - Placering av transformatorstation, Sintorp 2:2, BN 2026-000378 | TE-2026-00338 |
@@ -2663,16 +2647,6 @@ Sida
 | 2026-04-23 | Yttrande Teknik - Teknisk anläggning, Skårby 2:3, KS-2026-00314 | TE-2026-00335 |
 | 2026-04-30 | Yttrande Teknik - Synpunkt gällande parkeringar, Infarten 2, BN 2025-002419 | TE-2026-00334 |
 | 2026-04-27 | Yttrande Teknik - hämtning av hushållsavfall, anslutning VA, Bukärr 5:90 och 5:91, BN 2026-000363 | TE-2026-00322 |
-
-<!-- sida 82 -->
-
-Sida
-4(6)
-
-[Tabell 82-1](handlingar.tabeller/82-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2026-04-23 | Yttrande Teknik - Teknisk anläggning, Kungsbacka 5:4 mfl, KS-2026-00294 | TE-2026-00318 |
 | 2026-04-30 | Yttrande Teknik - Teknisk anläggning, Varla 2:198, KS-2026-00269 | TE-2026-00317 |
 | 2026-04-10 | Yttrande Teknik - Familjedag Bostället Frillesås | TE-2026-00268 |
@@ -2684,16 +2658,6 @@ Sida
 | 2026-04-23 | Yttrande Teknik - trafiksäkerhet, angöringsplats, bil- och cykelparkering, Fisken 5, BN 2025-002092 | TE-2026-00298 |
 | 2026-04-16 | Yttrande Teknik - Placering av pumpstation, Ölmanäs 2:7, BN 2026-000264 | TE-2026-00297 |
 | 2026-04-10 | Yttrande Teknik - Tillägg samrådsunderlag för kompletterande samråd enligt 6 kap. miljöbalken avseende brytning av<br>naturgrus och morän, Tom 4:11 och Tom 13:1 | TE-2026-00285 |
-
-<!-- sida 83 -->
-
-Sida
-5(6)
-
-[Tabell 83-1](handlingar.tabeller/83-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2026-04-17 | Yttrande Teknik - Synpunkt på trafiksäkerhet, Nötegång 1:138, BN 2026-000283 | TE-2026-00278 |
 | 2026-04-02 | Yttrande Teknik - Uteservering Bar Vinci | TE-2026-00272 |
 | 2026-04-17 | Yttrande Teknik - Uppställningsplats för renhållningskärl samt vändplats för slambil, Fälared 3:18, BN 2025-002306 | TE-2026-00274 |
@@ -2705,20 +2669,35 @@ Sida
 | 2026-04-20 | Yttrande Teknik - Samråd för Detaljplan för del av Gottskärsvägen inom Skällared s:5 mfl, BN 2026-00027 | TE-2026-00259 |
 | 2026-04-17 | Yttrande Teknik - Samråd för ändring av detaljplan för S53 inom Släps-Högås 1:25 mfl, BN 2025-00046 | TE-2026-00258 |
 | 2026-04-17 | Yttrande Teknik - Synpunkter på parkering, vändplats för sopbil, kapacitet på VA-ledning mm, Vallda 12:3, BN 2026-000132 | TE-2026-00257 |
+| 2026-04-09 | Yttrande Teknik - Begäran om yttrande - Hämtning av hushållsavfall, vändplats för sopbil, ansluta till kommunalt VA,<br>Gödatorp 2:4, BN 2026-000020 | TE-2026-00252 |
+| 2026-04-17 | Yttrande Teknik - Begäran om yttrande - Parkering och trafik, kapacitet på brandvattenpost, BOLSHEDEN 1:77, BN 2024-<br>001288 | TE-2024-01266 |
+| 2026-04-09 | Yttrande Teknik - Synpunkter på parkering, vändplats för slambil för enskilt avlopp, hämtning av hushållsavfall, Karsjö 1:22,<br>BN 2026-000060 | TE-2026-00248 |
+| 2026-04-07 | Yttrande Teknik - Vändplats för sopbil, kapacitet i avloppsledning, hämtning av hushållsavfall, Ekenäs 3:18, BN 2025-002667 | TE-2026-00234 |
+
+<!-- sida 80 -->
+
+Sida
+2(6)
+
+<!-- sida 81 -->
+
+Sida
+3(6)
+
+<!-- sida 82 -->
+
+Sida
+4(6)
+
+<!-- sida 83 -->
+
+Sida
+5(6)
 
 <!-- sida 84 -->
 
 Sida
 6(6)
-
-[Tabell 84-1](handlingar.tabeller/84-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
-| 2026-04-09 | Yttrande Teknik - Begäran om yttrande - Hämtning av hushållsavfall, vändplats för sopbil, ansluta till kommunalt VA,<br>Gödatorp 2:4, BN 2026-000020 | TE-2026-00252 |
-| 2026-04-17 | Yttrande Teknik - Begäran om yttrande - Parkering och trafik, kapacitet på brandvattenpost, BOLSHEDEN 1:77, BN 2024-<br>001288 | TE-2024-01266 |
-| 2026-04-09 | Yttrande Teknik - Synpunkter på parkering, vändplats för slambil för enskilt avlopp, hämtning av hushållsavfall, Karsjö 1:22,<br>BN 2026-000060 | TE-2026-00248 |
-| 2026-04-07 | Yttrande Teknik - Vändplats för sopbil, kapacitet i avloppsledning, hämtning av hushållsavfall, Ekenäs 3:18, BN 2025-002667 | TE-2026-00234 |
 
 <!-- sida 85 -->
 

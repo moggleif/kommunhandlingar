@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.560286bd190a2659b0a30d0d/1723444891
 sha256: 710321ee3811b822b04ef7fde5f07b17b5c929e32b6bf6782bd147d4617a649b
 bytes: 8922222
 sidor: 118
-hamtad: 2026-10-07T23:21:39+00:00
-konverterad: 2026-10-07T23:22:17+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T07:27:03+00:00
+konverterad: 2026-10-14T07:27:37+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [57, 58, 59, 107, 108, 109, 110]
-figurer: null
-tolkade: null
+tal_obekraftade: [18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 57, 58, 59, 107, 108, 109, 110]
+figurer: [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 66, 115]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -52,7 +52,7 @@ Direkt 0300-835240
 
 <!-- sida 2 -->
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-3-1](handlingar.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -61,21 +61,16 @@ Direkt 0300-835240
 | 7. | Regler/riktlinjer för fristående<br>förskola, fritidshem och<br>pedagogisk omsorg i<br>Kungsbacka kommun<br>Kl 09.50-10.10<br>Frida Byrsten, verksamhetschef | FG-2024-00482 | Nämnden för Förskola och Grundskola antar<br>Riktlinje för fristående förskola, fritidshem och<br>enskild pedagogisk omsorg i Kungsbacka<br>kommun |
 |  | Paus 10.10-10.20 |  |  |
 | 8. | Barnrättsligt perspektiv i<br>beslutsfattandet - information<br>Kl 10.20-10.50<br>Frida Byrsten, verksamhetschef<br>Anna Sörensen,<br>utvecklingsledare | FG-2024-00483 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet. |
-
-<!-- sida 3 -->
-
-Emanuel Forsell                   Lars Sundbom
-ordförande                        sekreterare
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 9. | Ansökan om fullgörande av<br>skolplikt på annat sätt för två<br>elever - skollagen 24 kap 23 §<br>Kl 10.50-11.05<br>Frida Byrsten, verksamhetschef | FG-2024-00312 | Ansökan om fullgörande av skolplikt på annat<br>sätt för eleverna beviljas inte då det inte bedöms<br>som att kriterierna enligt skollagen 24 kapitel 23<br>§ uppfylls. |
 | 10. | Pågående Skolinspektions- och<br>Barn och elevombudsärenden,<br>inklusive ärenden som utreds<br>inom Förskola & Grundskolas<br>klagomålshantering 2024<br>Kl 11.05-11.25<br>Frida Byrsten, verksamhetschef | FG-2024-00004 | Arbetsutskottet har tagit del av informationen<br>och antecknar informationen i protokollet. |
 | 11. | Upphävande av beslut om<br>skolkort för elever vid Svenska<br>Balettskolan boende i<br>Göteborgsregionens kommuner | FG-2024-00387 | Nämnden för Förskola & Grundskola beslutar att<br>upphäva beslut om skolkort för elever vid<br>Svenska Balettskolan. |
 | 12. | Sammanträdestider 2025<br>Kl 11.25-11.45<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00403 | Nämnden antar följande förslag till<br>sammanträdestider för 2025 till: 22 januari, 26<br>februari, 19 mars, 16 april, 14 maj, 11 juni, 20<br>augusti, 17 september, 15 oktober, 12 november<br>och 10 december. |
 | 13. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 11.45-12.05<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00002 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
+
+<!-- sida 3 -->
+
+Emanuel Forsell                   Lars Sundbom
+ordförande                        sekreterare
 
 <!-- sida 4 -->
 
@@ -3025,7 +3020,7 @@ skriftligen återrapporteras till Kommunfullmäktige.
 
 <!-- sida 68 -->
 
-[Tabell 68-1](handlingar.tabeller/68-1.csv)
+[Tabell 68-69-1](handlingar.tabeller/68-69-1.csv)
 
 | Placering |  |
 | --- | --- |
@@ -3038,14 +3033,10 @@ skriftligen återrapporteras till Kommunfullmäktige.
 | Lovomsorg<br>Allmän förskola<br>Fritidshem | Barn och elever vars vårdnadshavare har behov av omsorg under lov kan ansöka om<br>det. Ansökan görs senast 4 veckor innan och är bindande. Avgiften beräknas på varje<br>påbörjad vecka oavsett antalet närvarodagar. |
 | Gräns vid frånvaro | Vid ledighet/uppehåll i placering ska vårdnadshavare meddela datum när barnet<br>kommer tillbaka. Vårdnadshavare kan begära uppehåll från barnets plats med<br>bibehållen placering i högst 3 månader.<br>Avgift tas ut under tiden för uppehållet i placeringen.<br>Rektor eller enhetschef avslutar platsen om barnet inte återkommer efter 3 månaders<br>frånvaro.<br>Beslut om undantag från gränsen på 3 månader kan endast medges i undantagsfall när<br>det föreligger särskilda skäl, exempelvis medicinska. En sammanvägd bedömning görs<br>i det enskilda fallet. |
 | Force majeure | Förskola & Grundskola har rätt att stänga verksamheten om det finns risk för barns<br>hälsa att hålla den öppen, t.ex. vid brand, sjukdomsspridning och hot.<br>I sådant fall ska Förskola & Grundskola i skälig utsträckning erbjuda barnen<br>alternativa placeringar, beroende på varaktigheten och omfattningen av stängningen.<br>Kostnadsersättning för eventuell merkostnad som orsakas med anledning av detta |
+|  | ersätts ej. Avgiftsreducering medges ej, vare sig vid alternativ placering eller<br>stängning. |
+| Avgift vid<br>stängning av<br>förskola, fritidshem<br>eller pedagogisk<br>omsorg för att<br>förhindra<br>smittspridning (lag<br>2020:148 samt<br>förordning<br>2020:115) | Vid sammanhållande stängning om minst fyra dagar reduceras barnomsorgsavgift från<br>dag fem motsvarande 1/30 av avgiften per dag. Reduceringen kommer att justeras på<br>kommande faktura för de vårdnadshavare som berörs.<br>Avgiftsreduceringen gäller från och med 1 januari 2021.<br>Detta regelverk tillämpas tillfälligt och avser stängningar till följd av lagstiftning för att<br>förhindra smittspridning i och med Covid-19.<br>Beslutad 2021-04-21 § 55 dnr 2021-00502 |
 
 <!-- sida 69 -->
-
-[Tabell 69-1](handlingar.tabeller/69-1.csv)
-
-|  | ersätts ej. Avgiftsreducering medges ej, vare sig vid alternativ placering eller<br>stängning. |
-| --- | --- |
-| Avgift vid<br>stängning av<br>förskola, fritidshem<br>eller pedagogisk<br>omsorg för att<br>förhindra<br>smittspridning (lag<br>2020:148 samt<br>förordning<br>2020:115) | Vid sammanhållande stängning om minst fyra dagar reduceras barnomsorgsavgift från<br>dag fem motsvarande 1/30 av avgiften per dag. Reduceringen kommer att justeras på<br>kommande faktura för de vårdnadshavare som berörs.<br>Avgiftsreduceringen gäller från och med 1 januari 2021.<br>Detta regelverk tillämpas tillfälligt och avser stängningar till följd av lagstiftning för att<br>förhindra smittspridning i och med Covid-19.<br>Beslutad 2021-04-21 § 55 dnr 2021-00502 |
 
 <!-- sida 70 -->
 

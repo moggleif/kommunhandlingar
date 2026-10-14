@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6033e6193956abcf838d16/173374045424
 sha256: 781af1afbd824a8913dc60ccac1aa9a77a9cfcee6c258d725ab58f7a017b176c
 bytes: 13823316
 sidor: 235
-hamtad: 2026-10-07T22:50:57+00:00
-konverterad: 2026-10-07T22:51:42+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T07:00:11+00:00
+konverterad: 2026-10-14T07:00:49+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, tabell-osaker, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, tabell-osaker, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [34, 107, 108, 109, 110, 118, 181]
-figurer: null
-tolkade: null
+figurer: [22, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 38, 41, 43, 44, 45, 60, 64, 68, 70, 74, 76, 77, 94, 96, 98, 107, 108, 109, 110, 111, 112, 114, 117, 118, 123, 124, 126, 128, 129, 130, 131, 132, 133, 134, 135, 136, 138, 139, 147, 149, 150, 155, 161, 169, 171, 172, 173, 174, 175, 176, 177, 178, 179, 190, 191, 192, 193, 194, 195, 196, 197, 198, 200, 201, 202, 203]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -67,23 +67,19 @@ KUNGSBACKA  KOMMUN
 | 9. | Huvudmannens systematiska<br>kvalitetsarbete 2023-2024<br>Kl 17:05-17:35<br>Magnus Fogelblad,<br>verksamhetscontroller<br>Anna Sörensen,<br>utvecklingsledare | FG-2024-00633 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet |
 | 10. | Intern kontrollplan 2025<br>Kl 17:35-17:55<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2024-00732 | Nämnden beslutar att godkänna intern<br>kontrollplan 2025 för nämnden för Förskola &<br>Grundskola |
 | 11. | Information om Löneöversyn<br>2024, från årshjul<br>Kl 17:55-18:05<br>Helena Hellman, personalchef | FG-2024-00531 | Nämnden för Förskola och Grundskola tar del av<br>informationen om löneöversynen 2024. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 12. | Rapportering anmälda<br>olycksfall och tillbud<br>Kl 18:05-18:35<br>Helena Hellman, personalchef | FG-2024-00532 | Nämnden för Förskola och Grundskola tar del av<br>rapporteringen av anmälda olycksfall och tillbud<br>för perioden januari-juni 2024. |
 | 13. | Interkommunala ersättningar<br>Marks kommun och Varberg<br>Kl 18:35-18:40<br>Ordförande | FG-2024-00707 | Gemensamma grundbelopp gällande<br>interkommunal ersättning för barn och elever i<br>förskola, pedagogisk omsorg, förskoleklass,<br>grundskola, fritidshem och anpassad grundskola<br>mellan Varberg, Mark och Kungsbacka följs från<br>och med 2025 01 01. |
 | 14. | Interkommunal ersättning inom<br>GR<br>Kl 18:40-18:45<br>Ordförande | FG-2024-00734 | Nämnden för Förskola & Grundskola beslutar att<br>följa förbundsstyrelsen inom Göteborgsregionens<br>rekommendation att med avstämningstidpunkt<br>den 15:e respektive månad, fastställa<br>interkommunal ersättning för förskola,<br>pedagogisk omsorg, förskoleklass, grundskola,<br>fritidshem, anpassad grundskola och ISGR<br>kalenderåret 2025 i enlighet med innehållet i<br>prislista. |
 | 15. | Interkommunala ersättningar<br>utom kommunala<br>samverkansområdet<br>Ordförande | FG-2024-00706 | Interkommunala ersättningar för kommuner<br>utanför Göteborgs regionen, Mark och Varberg<br>fastställs enligt föreslagen tabell och följs från<br>och med 2025-01-01. Eventuell ersättning för<br>tilläggsbelopp och skolskjuts debiteras separat. |
 | 16. | Flytt av nämndsammanträde<br>2025<br>Kl 18:45-18:50<br>Ordförande | FG-2024-00828 | Nämnden för Förskola & Grundskola beslutar att<br>ändra dag för sammanträdet till den 20 februari<br>2025. |
 | 17. | Delegeringsbeslut antagna av<br>nämnden 2024 | FG-2024-00059 | Redovisning av beslut som fattats av<br>förvaltningen på delegation för nämnden noteras<br>till protokollet. |
+| 18. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 18:50-19:05<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00002 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -93,12 +89,6 @@ KUNGSBACKA  KOMMUN
 
 Emanuel Forsell                   Lars Sundbom
 ordförande                        sekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 18. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 18:50-19:05<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00002 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet |
 
 <!-- sida 5 -->
 
@@ -639,11 +629,17 @@ Kostnader i samband med aktivitetsdag
 
 Kungsbacka kommun            Rapportmall                        4
 
-[Tabell 20-1](handlingar.tabeller/20-1.csv)
+[Tabell 20-21-1](handlingar.tabeller/20-21-1.csv)
 
 | Budget Schablon | Kostnad |
 | --- | --- |
 | Personal:<br>Processtöd<br>Organiserade<br>rastaktiviteter/samverk<br>an föreningsliv | 750 000kr |
+| Processtöd Mötesplats<br>idrott |  |
+| Studiebesök<br>Västerstrandsskolan,<br>Karlstad | 15 000kr |
+| Material<br>Rastaktiviteter | 155 000kr |
+| Mötesplatsidrott | 40 000kr |
+| Samverkan<br>föreningsliv<br>gemensamma<br>aktiviteter lov PEP<br>dag | 40 000kr |
+| Totalt | 1 000 000kr |
 
 <!-- sida 21 -->
 
@@ -670,15 +666,6 @@ välmående        och   psykisk     hälsa    genom      rörelse.
 \:
 
 Kungsbacka kommun            Rapportmall                        5
-
-[Tabell 21-1](handlingar.tabeller/21-1.csv)
-
-| Processtöd Mötesplats<br>idrott |  |
-| --- | --- |
-| Studiebesök<br>Västerstrandsskolan,<br>Karlstad | 15 000kr |
-| Material<br>Rastaktiviteter<br>Mötesplatsidrott | 155 000kr<br>40 000kr |
-| Samverkan<br>föreningsliv<br>gemensamma<br>aktiviteter lov PEP<br>dag | 40 000kr |
-| Totalt | 1 000 000kr |
 
 <!-- sida 22 -->
 
@@ -4140,32 +4127,65 @@ Systematiskt kvalitetsarbete 2023-2024 sammanfattande rapport 29
 
 Nämnden för Förskola & Grundskola               Kungsbacka kommun
 
+2021           2022          2023           2024
+Po
+To Flic Poj Di To Flic Poj Di To Flic       To Flic Poj Di
+Ämne                                        jka Diff
+tal kor kar ff tal kor kar ff tal kor       tal kor kar ff
+r
+15,           15,            15,    13,     15,
+Bild       16,7 14,4 2,3  16,5 13,8 2,7 16,4    2,9     17 13,9 3,1
+5              1              2      5      4
+14,           15,            15,    14,     14,
+Engelska   14,8 14,8 0,0  15,4 15,0 0,4 15,0    0,3    15,2 14,5 0,7
+8              2              0      7      9
+Hem och
+15,           15,            15,    13,
+konsument  16,4 14,5 1,9  16,4 14,1 2,3 15,4    1,5 15 16,3 13,8 2,5
+4              3              0      9
+kunskap
+Idrott och 15,      - 15,         -  14,    15,     14,         -
+14,8 15,5      15,0 15,2     14,1    -0,9   14,8 15
+hälsa   2          0,7 1          0,2 8      0      9          0,2
+13,         - 13,            13,    13,     13,
+Matematik  13,2 13,3      13,1 12,9 0,2 13,1    -0,1   13,4 13 0,4
+3          0,1 0              3      2      2
+14,           14,            14,    13,     14,
+Musik      15,5 14,3 1,2  15,6 14,1 1,5 15,1    1,2    14,9 13,6 1,3
+9              8              8      9      3
+14,           14,            13,    13,     14,
+Biologi    14,8 13,6 1,2  15,1 13,6 1,5 14,0    0,8    14,9 13,6 1,3
+2              3              8      2      2
+13,           13,            13,    13,     13,
+Fysik      14,1 13,5 0,6  14,1 13,3 0,8 13,5    0,1    14,4 12,9 1,5
+8              7              6      4      6
+13,           13,            13,    13,     13,
+Kemi       14,1 13,3 0,8  14,1 13,2 0,9 13,6    0,4    14,4 13,3 1,1
+7              6              5      2      8
+14,           14,            14,    13,     14,
+Geografi   15,3 14,2 1,1  14,5 13,5 1,0 14,6    0,9     15 13,5 1,5
+7              0              4      7      2
+14,           14,            14,    13,     14,
+Historia   15,2 14,5 0,7  14,7 14,0 0,7 14,4    0,5    14,9 13,8 1,1
+8              3              4      9      4
+Religionsk 14,        14,            14,    13,     14,
+15,4 13,9 1,5  14,8 13,2 1,6 14,8    1,2    14,9 13,2 1,7
+unskap  6              0              4      6      1
+Samhällsku 14,        14,            14,    13,
+15,3 14,4 0,9  14,8 13,5 1,3 14,6    1,0 14 14,8 13,2 1,6
+nskap   8              2              3      6
+15,           15,            15,    14,     15,
+Slöjd      16,0 14,4 1,6  16,1 14,4 1,7 15,3    1,1    16,4 14,3 2,1
+1              2              0      2      3
+14,           14,            14,    13,     13,
+Svenska    15,7 13,4 2,3  15,2 12,9 2,3 14,9    1,8    14,9 12,6 2,3
+5              0              2      1      7
+14,           15,            14,    13,     14,
+Teknik     14,9 14,0 0,9  15,6 14,4 1,2 14,5    0,6    15,4 13,9 1,5
+4              0              3      9      6
 6.2 Enkäter
 Vårdnadshavare förskola
-
 Systematiskt kvalitetsarbete 2023-2024 sammanfattande rapport 30
-
-[Tabell 148-1](handlingar.tabeller/148-1.csv)
-
-|  | 2021 |  |  |  | 2022 |  |  |  | 2023 |  |  |  | 2024 |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Ämne | To<br>tal | Flic<br>kor | Poj<br>kar | Di<br>ff | To<br>tal | Flic<br>kor | Poj<br>kar | Di<br>ff | To<br>tal | Flic<br>kor | Po<br>jka<br>r | Diff | To<br>tal | Flic<br>kor | Poj<br>kar | Di<br>ff |
-| Bild | 15,<br>5 | 16,7 | 14,4 | 2,3 | 15,<br>1 | 16,5 | 13,8 | 2,7 | 15,<br>2 | 16,4 | 13,<br>5 | 2,9 | 15,<br>4 | 17 | 13,9 | 3,1 |
-| Engelska | 14,<br>8 | 14,8 | 14,8 | 0,0 | 15,<br>2 | 15,4 | 15,0 | 0,4 | 15,<br>0 | 15,0 | 14,<br>7 | 0,3 | 14,<br>9 | 15,2 | 14,5 | 0,7 |
-| Hem och<br>konsument<br>kunskap | 15,<br>4 | 16,4 | 14,5 | 1,9 | 15,<br>3 | 16,4 | 14,1 | 2,3 | 15,<br>0 | 15,4 | 13,<br>9 | 1,5 | 15 | 16,3 | 13,8 | 2,5 |
-| Idrott och<br>hälsa | 15,<br>2 | 14,8 | 15,5 | -<br>0,7 | 15,<br>1 | 15,0 | 15,2 | -<br>0,2 | 14,<br>8 | 14,1 | 15,<br>0 | -0,9 | 14,<br>9 | 14,8 | 15 | -<br>0,2 |
-| Matematik | 13,<br>3 | 13,2 | 13,3 | -<br>0,1 | 13,<br>0 | 13,1 | 12,9 | 0,2 | 13,<br>3 | 13,1 | 13,<br>2 | -0,1 | 13,<br>2 | 13,4 | 13 | 0,4 |
-| Musik | 14,<br>9 | 15,5 | 14,3 | 1,2 | 14,<br>8 | 15,6 | 14,1 | 1,5 | 14,<br>8 | 15,1 | 13,<br>9 | 1,2 | 14,<br>3 | 14,9 | 13,6 | 1,3 |
-| Biologi | 14,<br>2 | 14,8 | 13,6 | 1,2 | 14,<br>3 | 15,1 | 13,6 | 1,5 | 13,<br>8 | 14,0 | 13,<br>2 | 0,8 | 14,<br>2 | 14,9 | 13,6 | 1,3 |
-| Fysik | 13,<br>8 | 14,1 | 13,5 | 0,6 | 13,<br>7 | 14,1 | 13,3 | 0,8 | 13,<br>6 | 13,5 | 13,<br>4 | 0,1 | 13,<br>6 | 14,4 | 12,9 | 1,5 |
-| Kemi | 13,<br>7 | 14,1 | 13,3 | 0,8 | 13,<br>6 | 14,1 | 13,2 | 0,9 | 13,<br>5 | 13,6 | 13,<br>2 | 0,4 | 13,<br>8 | 14,4 | 13,3 | 1,1 |
-| Geografi | 14,<br>7 | 15,3 | 14,2 | 1,1 | 14,<br>0 | 14,5 | 13,5 | 1,0 | 14,<br>4 | 14,6 | 13,<br>7 | 0,9 | 14,<br>2 | 15 | 13,5 | 1,5 |
-| Historia | 14,<br>8 | 15,2 | 14,5 | 0,7 | 14,<br>3 | 14,7 | 14,0 | 0,7 | 14,<br>4 | 14,4 | 13,<br>9 | 0,5 | 14,<br>4 | 14,9 | 13,8 | 1,1 |
-| Religionsk<br>unskap | 14,<br>6 | 15,4 | 13,9 | 1,5 | 14,<br>0 | 14,8 | 13,2 | 1,6 | 14,<br>4 | 14,8 | 13,<br>6 | 1,2 | 14,<br>1 | 14,9 | 13,2 | 1,7 |
-| Samhällsku<br>nskap | 14,<br>8 | 15,3 | 14,4 | 0,9 | 14,<br>2 | 14,8 | 13,5 | 1,3 | 14,<br>3 | 14,6 | 13,<br>6 | 1,0 | 14 | 14,8 | 13,2 | 1,6 |
-| Slöjd | 15,<br>1 | 16,0 | 14,4 | 1,6 | 15,<br>2 | 16,1 | 14,4 | 1,7 | 15,<br>0 | 15,3 | 14,<br>2 | 1,1 | 15,<br>3 | 16,4 | 14,3 | 2,1 |
-| Svenska | 14,<br>5 | 15,7 | 13,4 | 2,3 | 14,<br>0 | 15,2 | 12,9 | 2,3 | 14,<br>2 | 14,9 | 13,<br>1 | 1,8 | 13,<br>7 | 14,9 | 12,6 | 2,3 |
-| Teknik | 14,<br>4 | 14,9 | 14,0 | 0,9 | 15,<br>0 | 15,6 | 14,4 | 1,2 | 14,<br>3 | 14,5 | 13,<br>9 | 0,6 | 14,<br>6 | 15,4 | 13,9 | 1,5 |
 
 <!-- sida 149 -->
 
@@ -6329,7 +6349,7 @@ Delegeringsbeslut Prorentata för tiden 2024-11-05 -- 2024-12-01
 
 <!-- sida 228 -->
 
-[Tabell 228-1](handlingar.tabeller/228-1.csv)
+[Tabell 228-235-1](handlingar.tabeller/228-235-1.csv)
 
 | Inskickad | Ärendenummer | Delegering | Beslutskategori |
 | --- | --- | --- | --- |
@@ -6372,13 +6392,7 @@ Delegeringsbeslut Prorentata för tiden 2024-11-05 -- 2024-12-01
 | 2024-04-23 12:49 | 130463 | A 4.1 | Beviljad |
 | 2024-04-26 00:00 | 0-20240426-<br>075711 | A 4.1 | Beviljad |
 | 2024-05-01 12:48 | 131751 | A 4.1 | Avslag |
-
-<!-- sida 229 -->
-
-[Tabell 229-1](handlingar.tabeller/229-1.csv)
-
 | 2024-06-11 12:58 | 140466 | A 4.1 | Beviljad |
-| --- | --- | --- | --- |
 | 2024-06-11 13:00 | 140470 | A 4.1 | Beviljad |
 | 2024-06-12 11:48 | 140818 | A 4.1 | Beviljad |
 | 2024-06-17 15:38 | 142420 | A 4.1 | Beviljad |
@@ -6417,13 +6431,7 @@ Delegeringsbeslut Prorentata för tiden 2024-11-05 -- 2024-12-01
 | 2024-09-16 17:21 | 160209 | A 4.1 | Beviljad |
 | 2024-09-16 18:19 | 160222 | A 4.1 | Beviljad |
 | 2024-09-16 23:47 | 160257 | A 4.1 | Beviljad |
-
-<!-- sida 230 -->
-
-[Tabell 230-1](handlingar.tabeller/230-1.csv)
-
 | 2024-09-17 00:00 | 0-20240917-<br>100041 | A 4.1 | Beviljad |
-| --- | --- | --- | --- |
 | 2024-09-17 12:04 | 160382 | A 4.1 | Beviljad |
 | 2024-09-17 13:08 | 160405 | A 4.1 | Beviljad |
 | 2024-09-17 18:28 | 160477 | A 4.1 | Beviljad |
@@ -6461,13 +6469,7 @@ Delegeringsbeslut Prorentata för tiden 2024-11-05 -- 2024-12-01
 | 2024-09-26 15:21 | 162314 | A 4.1 | Beviljad |
 | 2024-09-26 15:28 | 162319 | A 4.1 | Beviljad |
 | 2024-09-26 15:30 | 162320 | A 4.1 | Avslag |
-
-<!-- sida 231 -->
-
-[Tabell 231-1](handlingar.tabeller/231-1.csv)
-
 | 2024-09-26 15:30 | 162320 | A 4.1 | Beviljad |
-| --- | --- | --- | --- |
 | 2024-09-26 16:49 | 162350 | A 4.1 | Beviljad |
 | 2024-09-26 23:45 | 162385 | A 4.1 | Beviljad |
 | 2024-09-27 13:14 | 162485 | A 4.1 | Avslag |
@@ -6506,13 +6508,7 @@ Delegeringsbeslut Prorentata för tiden 2024-11-05 -- 2024-12-01
 | 2024-10-04 08:59 | 163666 | A 4.1 | Beviljad |
 | 2024-10-04 09:18 | 163671 | A 4.1 | Beviljad |
 | 2024-10-04 18:38 | 163816 | A 4.1 | Beviljad |
-
-<!-- sida 232 -->
-
-[Tabell 232-1](handlingar.tabeller/232-1.csv)
-
 | 2024-10-05 14:58 | 163851 | A 4.1 | Avslag |
-| --- | --- | --- | --- |
 | 2024-10-07 08:55 | 163952 | A 4.1 | Beviljad |
 | 2024-10-07 12:15 | 164049 | A 4.1 | Avslag |
 | 2024-10-07 12:17 | 164050 | A 4.1 | Avslag |
@@ -6551,13 +6547,7 @@ Delegeringsbeslut Prorentata för tiden 2024-11-05 -- 2024-12-01
 | 2024-10-15 00:00 | 0-20241023-<br>151751 | A 4.1 | Avslag |
 | 2024-10-15 00:00 | 0-20241015-<br>141813 | A 4.1 | Avslag |
 | 2024-10-15 15:40 | 165847 | A 4.1 | Avslag |
-
-<!-- sida 233 -->
-
-[Tabell 233-1](handlingar.tabeller/233-1.csv)
-
 | 2024-10-15 15:42 | 165850 | A 4.1 | Avslag |
-| --- | --- | --- | --- |
 | 2024-10-15 16:38 | 165863 | A 4.1 | Avslag |
 | 2024-10-16 14:25 | 166016 | A 4.1 | Beviljad |
 | 2024-10-16 16:06 | 166040 | A 4.1 | Avslag |
@@ -6596,13 +6586,7 @@ Delegeringsbeslut Prorentata för tiden 2024-11-05 -- 2024-12-01
 | 2024-11-04 15:35 | 168904 | A 4.1 | Avslag |
 | 2024-11-04 23:02 | 168957 | A 4.1 | Beviljad |
 | 2024-11-05 12:48 | 168993 | A 4.1 | Avslag |
-
-<!-- sida 234 -->
-
-[Tabell 234-1](handlingar.tabeller/234-1.csv)
-
 | 2024-11-05 12:50 | 169028 | A 4.1 | Beviljad |
-| --- | --- | --- | --- |
 | 2024-11-05 12:50 | 169029 | A 4.1 | Beviljad |
 | 2024-11-05 12:50 | 169038 | A 4.1 | Avslag |
 | 2024-11-06 08:23 | 169161 | A 4.1 | Avslag |
@@ -6643,16 +6627,24 @@ Delegeringsbeslut Prorentata för tiden 2024-11-05 -- 2024-12-01
 | 2024-11-26 14:48 | 172417 | A 4.1 | Avslag |
 | 2024-11-27 10:16 | 172526 | A 4.1 | Avslag |
 | 2024-11-27 20:08 | 172678 | A 4.1 | Avslag |
-
-<!-- sida 235 -->
-
-[Tabell 235-1](handlingar.tabeller/235-1.csv)
-
 | 2024-11-28 12:56 | 172806 | A 4.1 | Beviljad |
-| --- | --- | --- | --- |
 | 2024-11-28 12:56 | 172807 | A 4.1 | Beviljad |
 | 2024-11-30 09:24 | 173106 | A 4.1 | Avslag |
 | 2024-11-30 09:24 | 173108 | A 4.1 | Avslag |
 | 2024-11-30 09:32 | 173109 | A 4.1 | Avslag |
 | 2024-12-01 20:08 | 173206 | A 4.1 | Avslag |
 | 2024-12-02 00:00 | 0-20241202-<br>132835 | A 4.1 | Avslag |
+
+<!-- sida 229 -->
+
+<!-- sida 230 -->
+
+<!-- sida 231 -->
+
+<!-- sida 232 -->
+
+<!-- sida 233 -->
+
+<!-- sida 234 -->
+
+<!-- sida 235 -->

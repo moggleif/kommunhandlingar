@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1c3413919e1001c0e6d4230/17791900036
 sha256: fbf60c6a54b4d66873ef96f4e9de9cce49d17734cb40b3af91fb638e47a6f6e0
 bytes: 278840
 sidor: 7
-hamtad: 2026-10-08T08:15:56+00:00
-konverterad: 2026-10-08T08:16:00+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T11:09:14+00:00
+konverterad: 2026-10-14T11:09:19+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -209,12 +209,21 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: FEC2853AA75EF9C4470D37533A5E7BF1FE3544001C
 Transaktionsidentitet: F66FE8BFF70EB6BC7D164BFE34095D8E237683E050
 
-[Tabell 4-1](protokoll.tabeller/4-1.csv)
+[Tabell 4-5-1](protokoll.tabeller/4-5-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
 | Monica Neptun (L) 1:e vice<br>ordförande | X |  |  |
 | Ermin Škorić (S) 2:e vice<br>ordförande |  | X |  |
+| Carry Kvartun (M) | X |  |  |
+| Barbro Hjelström (M) | X |  |  |
+| Astrid Börjesson (S) |  | X |  |
+| Eva Tingström (S) |  | X |  |
+| Per Hoel (SD) | X |  |  |
+| Göran Ottosson (SD) | X |  |  |
+| Bengt Alderin (C) | X |  |  |
+| Ulrika Högstrand (KD) | X |  |  |
+| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 5 -->
 
@@ -230,19 +239,6 @@ Kommunstyrelsen
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: FEC2853AA75EF9C4470D37533A5E7BF1FE3544001C
 Transaktionsidentitet: F66FE8BFF70EB6BC7D164BFE34095D8E237683E050
-
-[Tabell 5-1](protokoll.tabeller/5-1.csv)
-
-| Carry Kvartun (M) | X |  |  |
-| --- | --- | --- | --- |
-| Barbro Hjelström (M) | X |  |  |
-| Astrid Börjesson (S) |  | X |  |
-| Eva Tingström (S) |  | X |  |
-| Per Hoel (SD) | X |  |  |
-| Göran Ottosson (SD) | X |  |  |
-| Bengt Alderin (C) | X |  |  |
-| Ulrika Högstrand (KD) | X |  |  |
-| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 6 -->
 

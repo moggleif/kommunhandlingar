@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7a77651118c8ae56a6b2325f/1704982018
 sha256: 3295a26212156050bc8fee879113011e5cc3e35cd975c595c65bb92941dfc299
 bytes: 263955
 sidor: 6
-hamtad: 2026-10-08T00:43:30+00:00
-konverterad: 2026-10-08T00:43:36+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T08:36:35+00:00
+konverterad: 2026-10-14T08:36:42+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -126,27 +126,26 @@ KUNGSBACKA  KOMMUN
 
 4(6)
 
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
+[Tabell 4-6-1](kallelse.tabeller/4-6-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 |  |  |  | - Portfölj Teknik VA 0,3% av tillgängliga<br>medel<br>- Portfölj VA Vattenproduktion 2,8% av<br>tillgängliga medel<br>- Portfölj VA Ledningsnät 55% av<br>tillgängliga medel<br>- Portfölj VA Avloppsrening 4,4 % av<br>tillgängliga medel<br>- Portfölj VA Omvandling 31% av<br>tillgängliga medel<br>- Portfölj VA Exploatering 6,5% av<br>tillgängliga medel<br>-<br>Avfall och återvinning<br>- Portfölj Avfall 100 % av tillgängliga medel<br>Kungsbacka bredbandsnät<br>- Portfölj Kungsbacka Bredbandsnät 4 % av<br>tillgängliga medel<br>- Portfölj KBN Stamnät och hårdvara 29 %<br>av tillgängliga medel<br>- Portfölj KBN område/villaanslutningar 35<br>% av tillgängliga medel<br>- Portfölj KBN Verksamhet och nya<br>områden 16 % av tillgängliga medel<br>- Portfölj KBN Samförläggning VA 6 % av<br>tillgängliga medel<br>- Portfölj KBN Samförläggning<br>belysning/GC-väg 6% av tillgängliga<br>medel<br>- Portfölj KBN Extra tillkommande<br>investeringar 4 % av tillgängliga medel |
 | 10. | Underlag till kommunbudget<br>2025 | TE-2023-<br>01146,<br>Föredragande:<br>Fillitsa<br>Grönberg,<br>19:25 – 19:45 | Nämnden för Teknik antar underlaget daterat<br>2023-12-29 och översänder det som sitt eget till<br>kommunstyrelsen. |
+| 11. | GRANSKNING Detaljplan för<br>Hedeleden och Klippebergen,<br>sista svarsdag 2024-01-08.<br>Tillhör ärende -<br>Samrådsutskick: TE-2022-<br>00650. | TE-2023-<br>01068,<br>Handläggare:<br>Emir Halalkic,<br>19:45 – 19:50 | Nämnden för Teknik antar yttrandet daterat 2023-<br>12-28 och översänder det som sitt eget till<br>kommunstyrelsen. |
+| 12. | Motion - Prioritering biologisk<br>mångfald, KS 2023-00584 | TE-2023-<br>00869,<br>Handläggare:<br>Emir Halalkic,<br>19:50 – 19:55 | Nämnden för Teknik föreslår kommunfullmäktige<br>att bifalla motionen i den del som avser att<br>upprätta en förvaltningsövergripande plan för<br>bekämpning av invasiva arter, och ge<br>Samhällsbyggnadskontoret i uppdrag att upprätta<br>den som en fortsättning av förvaltningens<br>fortlöpande inventering av de invasiva växtarterna<br>på kommunal mark.<br>Nämnden för Teknik föreslår kommunfullmäktige<br>att anse motionen besvarad i de delar som avser att<br>ta fram en utbildning för anställda om invasiva<br>arter med hänvisning till att detta redan finns inom<br>kommunen samt att ta fram riktlinjer tillsammans<br>med Trafikverket och Länsstyrelsen med<br>hänvisning till att det nationellt redan finns ett<br>ramverk kring rollfördelning och ansvarsområden<br>i syfte att förhindra spridning. |
+| 13. | Motion - Förena modernitet och<br>tradition: Skyltar byar, KS<br>2023-00568 | TE-2023-<br>00860,<br>Handläggare:<br>Emir Halalkic,<br>19:55 – 20:00 | Nämnden för Teknik avslår motionen med<br>hänvisning till att föreslagen åtgärd ligger utanför<br>kommunens och därmed också nämnden för<br>Tekniks ansvarsområde. |
+| 14. | Delegeringsförteckning 2024 -<br>nämnden för Teknik | TE-2023-<br>01145,<br>Handläggare:<br>Simon Nissen,<br>20:00 – 20:05 | Nämnden för Teknik antar Delegeringsförteckning<br>2024 - nämnden för Teknik. |
+| 15. | Deltagande i konferenser 2024 | TE-2023-<br>01055,<br>Handläggare:<br>Simon Nissen,<br>20:05 – 20:10 | Nämnden för Teknik medger att Monica Neptun<br>(L) och Erik Lindqvist (M) deltar på<br>Miljömålskonferensen den 26 januari 2024, tid<br>09:00-15:00.<br>Nämnden för Teknik medger att samtliga<br>ledamöter och ersättare i nämnden för Teknik<br>deltar på Vattenstämman 2024 den 13-15 maj.<br>Nämnden för Teknik medger att arvode ska utgå i<br>enlighet med reglemente med bestämmelser om<br>ersättning till kommunalt förtroendevalda i<br>Kungsbacka kommun. |
+| 16. | Redovisning av inkomna<br>handlingar 2023 | TE-2023-<br>00002,<br>20:10 – 20:15 | Nämnden för Teknik noterar redovisningen av<br>inkomna skrivelser till protokollet. |
+| 17. | Anmälan av delegeringsbeslut<br>2024 | TE-2024-<br>00003,<br>20:10 – 20:15 | Nämnden för Teknik noterar delegeringsbeslut<br>fattade under december 2023. |
+| 18. | Information från förvaltningen<br>2024 | TE-2024-<br>00004,<br>Föredragande:<br>Ulrika<br>Granfors,<br>20:15 – 20:30 | Nämnden för Teknik noterar informationen till<br>protokollet. |
 
 <!-- sida 5 -->
 
 KUNGSBACKA  KOMMUN
 
 5(6)
-
-[Tabell 5-1](kallelse.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | GRANSKNING Detaljplan för<br>Hedeleden och Klippebergen,<br>sista svarsdag 2024-01-08.<br>Tillhör ärende -<br>Samrådsutskick: TE-2022-<br>00650. | TE-2023-<br>01068,<br>Handläggare:<br>Emir Halalkic,<br>19:45 – 19:50 | Nämnden för Teknik antar yttrandet daterat 2023-<br>12-28 och översänder det som sitt eget till<br>kommunstyrelsen. |
-| 12. | Motion - Prioritering biologisk<br>mångfald, KS 2023-00584 | TE-2023-<br>00869,<br>Handläggare:<br>Emir Halalkic,<br>19:50 – 19:55 | Nämnden för Teknik föreslår kommunfullmäktige<br>att bifalla motionen i den del som avser att<br>upprätta en förvaltningsövergripande plan för<br>bekämpning av invasiva arter, och ge<br>Samhällsbyggnadskontoret i uppdrag att upprätta<br>den som en fortsättning av förvaltningens<br>fortlöpande inventering av de invasiva växtarterna<br>på kommunal mark.<br>Nämnden för Teknik föreslår kommunfullmäktige<br>att anse motionen besvarad i de delar som avser att<br>ta fram en utbildning för anställda om invasiva<br>arter med hänvisning till att detta redan finns inom<br>kommunen samt att ta fram riktlinjer tillsammans<br>med Trafikverket och Länsstyrelsen med<br>hänvisning till att det nationellt redan finns ett<br>ramverk kring rollfördelning och ansvarsområden<br>i syfte att förhindra spridning. |
-| 13. | Motion - Förena modernitet och<br>tradition: Skyltar byar, KS<br>2023-00568 | TE-2023-<br>00860,<br>Handläggare:<br>Emir Halalkic,<br>19:55 – 20:00 | Nämnden för Teknik avslår motionen med<br>hänvisning till att föreslagen åtgärd ligger utanför<br>kommunens och därmed också nämnden för<br>Tekniks ansvarsområde. |
-| 14. | Delegeringsförteckning 2024 -<br>nämnden för Teknik | TE-2023-<br>01145,<br>Handläggare:<br>Simon Nissen,<br>20:00 – 20:05 | Nämnden för Teknik antar Delegeringsförteckning<br>2024 - nämnden för Teknik. |
 
 <!-- sida 6 -->
 
@@ -156,12 +155,3 @@ KUNGSBACKA  KOMMUN
 
 Monica Neptun                     Simon Nissen
 ordförande                        sekreterare
-
-[Tabell 6-1](kallelse.tabeller/6-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 15. | Deltagande i konferenser 2024 | TE-2023-<br>01055,<br>Handläggare:<br>Simon Nissen,<br>20:05 – 20:10 | Nämnden för Teknik medger att Monica Neptun<br>(L) och Erik Lindqvist (M) deltar på<br>Miljömålskonferensen den 26 januari 2024, tid<br>09:00-15:00.<br>Nämnden för Teknik medger att samtliga<br>ledamöter och ersättare i nämnden för Teknik<br>deltar på Vattenstämman 2024 den 13-15 maj.<br>Nämnden för Teknik medger att arvode ska utgå i<br>enlighet med reglemente med bestämmelser om<br>ersättning till kommunalt förtroendevalda i<br>Kungsbacka kommun. |
-| 16. | Redovisning av inkomna<br>handlingar 2023 | TE-2023-<br>00002,<br>20:10 – 20:15 | Nämnden för Teknik noterar redovisningen av<br>inkomna skrivelser till protokollet. |
-| 17. | Anmälan av delegeringsbeslut<br>2024 | TE-2024-<br>00003,<br>20:10 – 20:15 | Nämnden för Teknik noterar delegeringsbeslut<br>fattade under december 2023. |
-| 18. | Information från förvaltningen<br>2024 | TE-2024-<br>00004,<br>Föredragande:<br>Ulrika<br>Granfors,<br>20:15 – 20:30 | Nämnden för Teknik noterar informationen till<br>protokollet. |

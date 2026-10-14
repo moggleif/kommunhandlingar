@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1d09d024193954e4ee639456/1733740875
 sha256: 3552c434112c0bb5c0ef3f5a2d32702fe77428d97f834c87dc57d45335711734
 bytes: 10309728
 sidor: 180
-hamtad: 2026-10-08T02:32:12+00:00
-konverterad: 2026-10-08T02:32:46+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T10:09:57+00:00
+konverterad: 2026-10-14T10:10:26+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [153]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [35, 37, 39, 40, 41, 42, 44, 45, 47, 50, 51, 94, 95, 96, 100, 102, 103, 153]
+figurer: [7, 11, 30, 36, 37, 38, 40, 41, 43, 44, 45, 46, 47, 48, 49, 50, 51, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 65, 66, 67, 68, 70, 71, 72, 73, 75, 76, 77, 78, 79, 80, 81, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 109, 119, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -3903,7 +3903,12 @@ Inflyttningar Utflyttningar Flyttningsöverskott
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | Falkenberg | Varberg | Kungsbacka | Göteborg | Mölndal | Halmstad |
 | --- | --- | --- | --- | --- | --- | --- |
-| <1 år 29 27 20 37 27 38<br>1–2 år 17 17 11 19 14 19<br>2–3 år 10 8 7 9 9 10<br>3–5 år 8 8 7 8 8 7<br>5–10 år 7 8 10 7 9 6<br>>10 år 29 32 45 19 33 20 |  |  |  |  |  |  |
+| <1 år | 29 | 27 | 20 | 37 | 27 | 38 |
+| 1–2 år | 17 | 17 | 11 | 19 | 14 | 19 |
+| 2–3 år | 10 | 8 | 7 | 9 | 9 | 10 |
+| 3–5 år | 8 | 8 | 7 | 8 | 8 | 7 |
+| 5–10 år | 7 | 8 | 10 | 7 | 9 | 6 |
+| >10 år | 29 | 32 | 45 | 19 | 33 | 20 |
 
 <!-- sida 97 -->
 
@@ -3921,7 +3926,13 @@ ungdomar och 1/3-del svarar att det är balans.
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | KUNGSBACKA<br>STAD | SLÄP | VALLDA | ONSALA | FJÄRÅS | ÅSA<br>FRILLESÅS | GÄLLINGE | ÄLVSÅKER | KOMMUN |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <1 år 31 12 12 12 17 18 20 20 20<br>1–2 år 16 5 8 6 13 8 16 11 11<br>2–3 år 10 5 3 4 7 5 7 7 7<br>3–5 år 8 8 6 7 8 6 6 10 7<br>5–10 år 10 11 7 11 10 11 6 9 10<br>>10 år 24 59 64 61 46 51 45 44 45<br>Total 100 100 100 100 100 100 100 100 100 |  |  |  |  |  |  |  |  |  |
+| <1 år | 31 | 12 | 12 | 12 | 17 | 18 | 20 | 20 | 20 |
+| 1–2 år | 16 | 5 | 8 | 6 | 13 | 8 | 16 | 11 | 11 |
+| 2–3 år | 10 | 5 | 3 | 4 | 7 | 5 | 7 | 7 | 7 |
+| 3–5 år | 8 | 8 | 6 | 7 | 8 | 6 | 6 | 10 | 7 |
+| 5–10 år | 10 | 11 | 7 | 11 | 10 | 11 | 6 | 9 | 10 |
+| >10 år | 24 | 59 | 64 | 61 | 46 | 51 | 45 | 44 | 45 |
+| Total | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |
 
 <!-- sida 98 -->
 

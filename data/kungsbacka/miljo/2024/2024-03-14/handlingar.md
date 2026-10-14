@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.29e29ba018df2c6344723b75/1710250453
 sha256: 18d3050ed26f0186c97e1f04bc5550e0960f7cfd230555f74a5d85dc659f85e1
 bytes: 11476043
 sidor: 123
-hamtad: 2026-10-08T08:01:32+00:00
-konverterad: 2026-10-08T08:02:50+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T10:57:13+00:00
+konverterad: 2026-10-14T10:58:15+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [9, 21, 22, 26, 40, 43, 44, 45, 49, 50, 51, 57, 58, 59, 60]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [6, 9, 10, 17, 21, 22, 23, 26, 37, 40, 41, 43, 44, 45, 49, 50, 51, 52, 57, 58, 59, 60]
+figurer: [21, 57, 58, 59, 60, 112]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -91,7 +91,7 @@ riktlinjer.
 Nedan listade policys, strategier, dokumenthanteringsplaner och arkivbeskrivningar upphävs med
 anledning att de har blivit inaktuella.
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 | Dokumentnamn | Beslutande<br>paragraf<br>(ärendets<br>diarienummer) | Orsak till upphävning |
 | --- | --- | --- |
@@ -100,22 +100,20 @@ anledning att de har blivit inaktuella.
 | Enhetliga regler för<br>avloppsföreningars<br>dispensansökningar -<br>Kompletteringar till Strategi för<br>prövning av enskilda avlopp 2010 | MHN § 137/13<br>(MH 2013–3877) | Komplettering till strategi upphävdes<br>inte i samband med att ny<br>övergripande avloppsstrategi antogs<br>av nämnden år 2014. |
 | Revidering av avloppsstrategi för<br>Kungsbacka kommun - Strategi för<br>prövning av enskilda avlopp | NMH § 98/14<br>(MH 2014–1157) | Har sedan antagen strategi tillkommit<br>övergripande vägledning från Havs- och<br>vattenmyndigheten (HaV) som tillämpas<br>i prövning. |
 | Tidsbegränsning vid förbud av<br>bristfälliga enskilda<br>avloppsanläggningar - Ändring av | NMH § 73/15<br>(MH 2015–1782) | Ej relevant när huvudstrategin NMH §<br>98/14 hävs. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-3 (5)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
 | Strategi för prövning av enskilda<br>avlopp |  |  |
-| --- | --- | --- |
 | Ändring i Avloppsstrategi avseende<br>acceptabel spolvolym för<br>vattentoalett till sluten tank -<br>Ändring av Strategi för prövning av<br>enskilda avlopp | NMH § 81/16<br>(MH 2016–1958) | Ej relevant när huvudstrategin NMH §<br>98/14 hävs. |
 | Hantering av dispensansökningar<br>från förbud för enskild<br>avloppsanläggning samt tillsyn och<br>prövning av ansökningar för nya<br>avloppsanläggningar i områden där<br>fastigheter planeras bli anslutna till<br>kommunalt avlopp 2024–2036 | NMH § 48/20<br>(MH 2020–1181) | Riktlinjerna blir en rutin. Det finns flera<br>specialfall som hade inneburit att<br>strategin hade behövt ändras och<br>kompletteras, nya åtgärdsplaner tas fram<br>av Teknik löpande. Då vi är deltagande i<br>planeringsarbetet hos förvaltningen för<br>Teknik för bildande av nya<br>verksamhetsområden har vi lyckats<br>kommunicera med ”ett Kungsbacka” ut<br>mot kund utan att behöva hänvisa till en<br>antagen strategi. |
 | Strategi för prövning av små<br>avloppsanläggningar inom<br>Lygnerns vattenskyddsområde | MH § 59/17<br>(MH 2016–2822) | Har sedan antagen strategi tillkommit<br>övergripande vägledning från Havs- och<br>vattenmyndigheten (HaV) som tillämpas<br>i prövning. Interna rutiner tas fram för<br>specialfallen där vägledningen inte<br>täcker upp, exempelvis små avlopp inom<br>nya verksamhetsområden inom<br>vattenskyddsområdet. |
 | Kundkommunikationsstrategi | MH § 118/16<br>(MH 2016–1910) | Strategin baseras på budget för år 2017.<br>Vi har en förvaltningsövergripande<br>kommunikationsplan och pågående<br>projekt för kunder i Lätt & Rätt. |
 | Policy för hantering av byggnation<br>inom områden med planerad VA-<br>sanering | MHN §75/99<br>(1999–0366<br>kommunarkivet) | Policyn är föråldrad. Tätt samarbete med<br>förvaltningen för Teknik över hur nya<br>verksamhetsområden bildas och vad<br>som gäller för små avlopp inom dessa<br>områden. |
 | Strategi för nyckeltal | MH § 145/16<br>(MH 2016–2916) | Strategin togs fram specifikt för år<br>2016–2018. |
+| Strategi för strandskyddstillsyn | MH § 22/11<br>(MH 2011–0192) | Har sedan antagen strategi tillkommit<br>övergripande vägledning från<br>Länsstyrelsen samt sammanslagningen<br>av Bygg- och miljöförvaltningen ändrat<br>arbetssättet. |
+| Strategi för utvecklingsarbete | MH § 190/16<br>(MH 2016–3010) | Strategin togs fram specifikt för år<br>2016–2017. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+3 (5)
 
 <!-- sida 4 -->
 
@@ -151,12 +149,6 @@ Strategi för nyckeltal, NMH 2016-11-17 § 145
 
 Strategi för strandskyddstillsyn, MH 2011-02-08 § 22
 Strategi för utvecklingsarbete, MH 2016-12-12§ 190
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-| Strategi för strandskyddstillsyn | MH § 22/11<br>(MH 2011–0192) | Har sedan antagen strategi tillkommit<br>övergripande vägledning från<br>Länsstyrelsen samt sammanslagningen<br>av Bygg- och miljöförvaltningen ändrat<br>arbetssättet. |
-| --- | --- | --- |
-| Strategi för utvecklingsarbete | MH § 190/16<br>(MH 2016–3010) | Strategin togs fram specifikt för år<br>2016–2017. |
 
 <!-- sida 5 -->
 
@@ -967,7 +959,7 @@ KUNGSBACKA  KOMMUN
 
 2 (3)
 
-[Tabell 24-1](handlingar.tabeller/24-1.csv)
+[Tabell 24-25-1](handlingar.tabeller/24-25-1.csv)
 
 | önskemål. |  |  |  |
 | --- | --- | --- | --- |
@@ -978,6 +970,8 @@ KUNGSBACKA  KOMMUN
 | Träffsäkrare riktad<br>information | Inventera<br>idéer | Implementering får<br>vänta till dess att<br>analysen av<br>kundernas behov är<br>klar | Avvaktar Kundresan |
 | Bättre personliga<br>möten – bemötande<br>och utveckling av<br>inspektörsrollen | Kurs i<br>kommunikati<br>on och<br>bemötande | Samtliga<br>nyanställda går<br>kursen i GR:s regi.<br>Har pågått sedan<br>2012. | Sker kontinuerligt. Ny<br>påbyggnadskurs på<br>Kommunikation & bemötande<br>diskuteras i Miljösamverkan. |
 | Bättre samarbete runt<br>kunder som berörs av<br>flera nämnders arbete | Utveckling<br>av bygglovs-<br>processen | Målet är att den<br>som söker bygglov<br>skall få mer<br>komplett<br>information om<br>regelverk som inte<br>hör till plan & | Arbete pågår, se ovan. |
+|  |  | bygglagen, t ex<br>Miljöbalken.<br>Påbörjat 2016 |  |
+| Utvärdering mätning |  | Lägger grund för<br>plan 2018 | Startas senare i år. |
 
 <!-- sida 25 -->
 
@@ -1014,12 +1008,6 @@ och e-tjänster, men vår idé om detta har mottagits positivt.
 
 Annika Ekvall
 Förvaltningschef
-
-[Tabell 25-1](handlingar.tabeller/25-1.csv)
-
-|  |  | bygglagen, t ex<br>Miljöbalken.<br>Påbörjat 2016 |  |
-| --- | --- | --- | --- |
-| Utvärdering mätning |  | Lägger grund för<br>plan 2018 | Startas senare i år. |
 
 <!-- sida 26 -->
 
@@ -2945,8 +2933,9 @@ mätningsverksamheten är konjunkturkänsliga och förvaltningens bedömning av 
 
 [Tabell 65-1](handlingar.tabeller/65-1.csv)
 
-| Utfall (miljoner kronor)<br>Intäkter | Utfall 2021<br>48,1 | Utfall 2022<br>50,1 | Utfall 2023<br>42,4 |
+| Utfall (miljoner kronor) | Utfall 2021 | Utfall 2022 | Utfall 2023 |
 | --- | --- | --- | --- |
+| Intäkter | 48,1 | 50,1 | 42,4 |
 | Kostnader | -83,7 | -85,4 | -81,1 |
 | Netto | -35,6 | -35,3 | -38,7 |
 | Budget, netto | -36,1 | -35,8 | -40,6 |
@@ -2954,8 +2943,9 @@ mätningsverksamheten är konjunkturkänsliga och förvaltningens bedömning av 
 
 [Tabell 65-2](handlingar.tabeller/65-2.csv)
 
-| Utfall (miljoner kronor)<br>Utgifter | Utfall 2021<br>-0,1 | Utfall 2022<br>-0,5 | Utfall 2023<br>-0,2 |
+| Utfall (miljoner kronor) | Utfall 2021 | Utfall 2022 | Utfall 2023 |
 | --- | --- | --- | --- |
+| Utgifter | -0,1 | -0,5 | -0,2 |
 | Inkomster | 0 | 0 | 0 |
 | Netto | -0,1 | -0,5 | -0,2 |
 
@@ -3390,23 +3380,21 @@ livsmedel och en minskning för miljö och servering. För bygglov ser ökningen
 en förflyttning hittills från index 45 föregående år till index 67 per 31 december. Det är viktigt att komma ihåg
 att resultatet per 31 december inte är helårsresultatet utan gäller de tre första kvartalen. Helårsresultatet
 publiceras först i april 2024.
-Indikatorer                    Utfall Utfall  Utfall Utfall Målvärde
-
-```osaker-tabell
-                               2020    2021   2022   2023   2023
-NKI totalt värde, Nöjd-Kund-Index, bygglov 40 42 45      67      62
-
-NKI totalt värde, Nöjd-Kund-Index, miljöskydd 65 65 69   65      72
-NKI totalt värde, Nöjd-Kund-Index, livsmedel 72 75 76    77      78
-
-NKI totalt värde, Nöjd-Kund-Index, servering 72 81 87    66      84
-```
 
 Handläggningstid bygglov företagsärenden
 (tid från komplett ansökan till beslut), 8      4         4       8
 veckor
 
 12
+
+[Tabell 74-1](handlingar.tabeller/74-1.csv)
+
+| Indikatorer | Utfall 2020 | Utfall 2021 | Utfall 2022 | Utfall 2023 | Målvärde 2023 |
+| --- | --- | --- | --- | --- | --- |
+| NKI totalt värde, Nöjd-Kund-Index, bygglov | 40 | 42 | 45 | 67 | 62 |
+| NKI totalt värde, Nöjd-Kund-Index, miljöskydd | 65 | 65 | 69 | 65 | 72 |
+| NKI totalt värde, Nöjd-Kund-Index, livsmedel | 72 | 75 | 76 | 77 | 78 |
+| NKI totalt värde, Nöjd-Kund-Index, servering | 72 | 81 | 87 | 66 | 84 |
 
 <!-- sida 75 -->
 
@@ -3655,14 +3643,19 @@ livsmedelsanläggning - från komplett
 \-       -       -         3
 anmälan till beslut - (analog ansökan), 5
 arbetsdagar.
-NKI totalt värde, Nöjd-Kund-Index, bygglov 37 41 47      57
-NKI totalt värde, Nöjd-Kund-Index, miljöskydd 65 62 68   64
-NKI totalt värde, Nöjd-Kund-Index, livsmedel 72 75 76    77
-NKI totalt värde, Nöjd-Kund-Index, servering 72 81 87    65
+
 NKI-värden här gäller både företag och privatpersoner. Utfall 2023 gäller de tre första kvartalen. Helårsutfallet publiceras först i april
 2024\.
 
 17
+
+[Tabell 79-1](handlingar.tabeller/79-1.csv)
+
+| NKI totalt värde, Nöjd-Kund-Index, bygglov | 37 | 41 | 47 | 57 |
+| --- | --- | --- | --- | --- |
+| NKI totalt värde, Nöjd-Kund-Index, miljöskydd | 65 | 62 | 68 | 64 |
+| NKI totalt värde, Nöjd-Kund-Index, livsmedel | 72 | 75 | 76 | 77 |
+| NKI totalt värde, Nöjd-Kund-Index, servering | 72 | 81 | 87 | 65 |
 
 <!-- sida 80 -->
 
@@ -3995,12 +3988,6 @@ Handläggningstid från ärende komplett
 till beslut för bygglov, en- och 10 13      16         7       4
 tvåbostadshus, veckor median
 
-```osaker-tabell
-Nybyggnadskartor            233     262     240       151    127
-Husutstakningar             259     257     298       318    216
-Lägeskontroller             113     110     124       182    136
-```
-
 Handläggningstid från ärende komplett
 till beslut, bygglov privatpersoner - -      8         4       4
 (veckor median)
@@ -4027,6 +4014,13 @@ lagstadgad handläggningstid (10 -    -    58%        78%     90%
 veckor)
 
 24
+
+[Tabell 86-1](handlingar.tabeller/86-1.csv)
+
+| Nybyggnadskartor | 233 | 262 | 240 | 151 | 127 |
+| --- | --- | --- | --- | --- | --- |
+| Husutstakningar | 259 | 257 | 298 | 318 | 216 |
+| Lägeskontroller | 113 | 110 | 124 | 182 | 136 |
 
 <!-- sida 87 -->
 
@@ -4108,10 +4102,12 @@ uppföljning och åtgärder och gör gemensamma bedömningar med HR-specialist l
 
 [Tabell 88-1](handlingar.tabeller/88-1.csv)
 
-| Namn<br>Riskobservation | 2021<br>0 | 2022<br>4 | 2023<br>5 |
+| Namn | 2021 | 2022 | 2023 |
 | --- | --- | --- | --- |
+| Riskobservation | 0 | 4 | 5 |
 | Tillbud | 5 | 6 | 12 |
-| Olycksfall<br>Total | 5<br>10 | 2<br>12 | 4<br>21 |
+| Olycksfall | 5 | 2 | 4 |
+| Total | 10 | 12 | 21 |
 
 <!-- sida 89 -->
 
@@ -4223,90 +4219,156 @@ kommunen som helhet som uppgår till 7,8 %.
 
 [Tabell 90-1](handlingar.tabeller/90-1.csv)
 
-|  | Namn Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 |
-| --- | --- |
-| Andel deltid 6,5% 4,1% 2,8% 4,6% 2,8% |  |
-| Andel heltid 93,6% 95,9% 97,2% 95,4% 97,2% |  |
+|  | Namn | Bokslut 2019 | Bokslut 2020 | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Andel deltid | 6,5% | 4,1% | 2,8% | 4,6% | 2,8% |
+|  | Andel heltid | 93,6% | 95,9% | 97,2% | 95,4% | 97,2% |
 
 <!-- sida 91 -->
 
 Byggnadsnämnden                                  Kungsbacka kommun
 Årsredovisning 2023
 
+Namn        Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023
+Andel kvinnor
+5,4%       3,3%       1,4%           4,4%       1,5%
+som har deltid
+Andel kvinnor
+94,6%       96,7%      98,6%         95,6%      98,5%
+som har heltid
+Andel män som
+8%         5,4%       5,3%           4,9%       4,9%
+har deltid
+Andel män som
+92%        94,6%      94,7%         95,1%      95,1%
+har heltid
+Anställda andel
+59,4%       63,4%      65,5%         63,4%      61,8%
+kvinnor
+Anställda andel
+40,6%       36,6%      34,5%         36,3%      38,2%
+män
+Anställda
+genomsnittlig
+97,6%       98,6%      98,7%         98,4%      98,7%
+sysselsättnings
+grad
+Anställda totalt 64       101         113           112         110
+Antal
+medarbetare    9,7        10,2       10,3            9,2        10
+per chef
+Antal
+medarbetare    19,3       18,4       20,6           16,8       16,7
+per enhetschef
+Medarbetare
+35,9%       36,6%      38,1%         37,5%      35,5%
+30 - 39 år
+Medarbetare
+21,9%       27,7%      26,6%         28,6%      28,2%
+40 - 49 år
+Medarbetare
+17,2%       23,8%      21,2%         21,4%      21,8%
+50 - 59 år
+Medarbetare
+12,5%       7,9%       6,2%           7,1%       7,3%
+60 år och äldre
+Medarbetare
+12,5%        4%         8%            5,4%       7,3%
+yngre än 30 år
+Medelålder      42         44         43             44         43
+Pensionsavgån
+1          3          1               1          3
+gar
 6.5 Effektmått
-
+Namn        Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023
+Frisknärvaro  52,9%       65,8%      55,6%         58,7%      55,3%
 29
-
-[Tabell 91-1](handlingar.tabeller/91-1.csv)
-
-|  | Namn Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 |
-| --- | --- |
-| Andel kvinnor<br>5,4% 3,3% 1,4% 4,4% 1,5%<br>som har deltid |  |
-| Andel kvinnor<br>94,6% 96,7% 98,6% 95,6% 98,5%<br>som har heltid |  |
-| Andel män som<br>8% 5,4% 5,3% 4,9% 4,9%<br>har deltid |  |
-| Andel män som<br>92% 94,6% 94,7% 95,1% 95,1%<br>har heltid |  |
-| Anställda andel<br>59,4% 63,4% 65,5% 63,4% 61,8%<br>kvinnor |  |
-| Anställda andel<br>40,6% 36,6% 34,5% 36,3% 38,2%<br>män |  |
-| Anställda<br>genomsnittlig<br>97,6% 98,6% 98,7% 98,4% 98,7%<br>sysselsättnings<br>grad |  |
-| Anställda totalt 64 101 113 112 110 |  |
-| Antal<br>medarbetare 9,7 10,2 10,3 9,2 10<br>per chef |  |
-| Antal<br>medarbetare 19,3 18,4 20,6 16,8 16,7<br>per enhetschef |  |
-| Medarbetare<br>35,9% 36,6% 38,1% 37,5% 35,5%<br>30 - 39 år |  |
-| Medarbetare<br>21,9% 27,7% 26,6% 28,6% 28,2%<br>40 - 49 år |  |
-| Medarbetare<br>17,2% 23,8% 21,2% 21,4% 21,8%<br>50 - 59 år |  |
-| Medarbetare<br>12,5% 7,9% 6,2% 7,1% 7,3%<br>60 år och äldre |  |
-| Medarbetare<br>12,5% 4% 8% 5,4% 7,3%<br>yngre än 30 år |  |
-| Medelålder 42 44 43 44 43 |  |
-| Pensionsavgån<br>1 3 1 1 3<br>gar |  |
-
-[Tabell 91-2](handlingar.tabeller/91-2.csv)
-
-|  | Namn Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 |
-| --- | --- |
-| Frisknärvaro 52,9% 65,8% 55,6% 58,7% 55,3% |  |
 
 <!-- sida 92 -->
 
 Byggnadsnämnden                                  Kungsbacka kommun
 Årsredovisning 2023
 
+Namn        Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023
+Frisknärvaro
+48,8%       57,5%      54%           50,6%      55,1%
+Kvinnor
+Frisknärvaro
+59,3%       78,7%      58,5%          72%       55,6%
+Män
+Korttidssjukfrån
+2,6%       2,3%       2,3%           2,9%       2,9%
+varo
+Korttidssjukfrån
+3%         2,5%       2,5%           3,1%       2,6%
+varo Kvinnor
+Korttidssjukfrån
+2%          2%        1,9%           2,6%       3,4%
+varo Män
+Långtidssjukfrå
+2,7%       2,2%       2,8%            3%        1,8%
+nvaro
+Långtidssjukfrå
+4,1%       3,4%       3,2%           4,1%       1,9%
+nvaro Kvinnor
+Långtidssjukfrå
+0,4%       0,4%       2,1%           0,9%       1,6%
+nvaro Män
+Personalomsätt
+8,2%       19,7%      7,7%          12,1%      10,4%
+ning
+Sjukfrånvaro
+7,1%       5,9%       5,7%           7,3%       4,5%
+Kvinnor
+Sjukfrånvaro
+2,4%       2,5%       4,1%           3,4%        5%
+Män
+Sjukfrånvaro
+5,2%       4,6%       5,1%           5,9%       4,7%
+Totalt
+Sjukfrånvaro,
+andel av
+32,8%       36,1%      34%           38,7%      18,1%
+sjukfrånvaro 60
+dagar eller mer
+Sjukfrånvaro,
+andel av
+sjukfrånvaro 60 40%       44,9%      35,2%         44,8%      23,4%
+dagar eller mer
+Kvinnor
+Sjukfrånvaro,
+andel av
+sjukfrånvaro 60 0%         2%        30,9%         15,9%      10,4%
+dagar eller mer
+Män
+Sjukfrånvaro,
+anställda i
+1,1%       4,5%       2,3%           4,5%       2,5%
+åldrarna 29 år
+eller yngre
 30
-
-[Tabell 92-1](handlingar.tabeller/92-1.csv)
-
-|  | Namn Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 |
-| --- | --- |
-| Frisknärvaro<br>48,8% 57,5% 54% 50,6% 55,1%<br>Kvinnor |  |
-| Frisknärvaro<br>59,3% 78,7% 58,5% 72% 55,6%<br>Män |  |
-| Korttidssjukfrån<br>2,6% 2,3% 2,3% 2,9% 2,9%<br>varo |  |
-| Korttidssjukfrån<br>3% 2,5% 2,5% 3,1% 2,6%<br>varo Kvinnor |  |
-| Korttidssjukfrån<br>2% 2% 1,9% 2,6% 3,4%<br>varo Män |  |
-| Långtidssjukfrå<br>2,7% 2,2% 2,8% 3% 1,8%<br>nvaro |  |
-| Långtidssjukfrå<br>4,1% 3,4% 3,2% 4,1% 1,9%<br>nvaro Kvinnor |  |
-| Långtidssjukfrå<br>0,4% 0,4% 2,1% 0,9% 1,6%<br>nvaro Män |  |
-| Personalomsätt<br>8,2% 19,7% 7,7% 12,1% 10,4%<br>ning |  |
-| Sjukfrånvaro<br>7,1% 5,9% 5,7% 7,3% 4,5%<br>Kvinnor |  |
-| Sjukfrånvaro<br>2,4% 2,5% 4,1% 3,4% 5%<br>Män |  |
-| Sjukfrånvaro<br>5,2% 4,6% 5,1% 5,9% 4,7%<br>Totalt |  |
-| Sjukfrånvaro,<br>andel av<br>32,8% 36,1% 34% 38,7% 18,1%<br>sjukfrånvaro 60<br>dagar eller mer |  |
-| Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60 40% 44,9% 35,2% 44,8% 23,4%<br>dagar eller mer<br>Kvinnor |  |
-| Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60 0% 2% 30,9% 15,9% 10,4%<br>dagar eller mer<br>Män |  |
-| Sjukfrånvaro,<br>anställda i<br>1,1% 4,5% 2,3% 4,5% 2,5%<br>åldrarna 29 år<br>eller yngre |  |
 
 <!-- sida 93 -->
 
 Byggnadsnämnden                                  Kungsbacka kommun
 Årsredovisning 2023
 
+Namn        Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023
+Sjukfrånvaro,
+anställda i
+5,8%       4,4%        4%            3,8%       3,3%
+åldrarna 30-49
+år
+Sjukfrånvaro,
+anställda i
+6%         4,9%       8,3%          10,8%       8,1%
+åldrarna 50 år
+eller äldre
+Sjukfrånvaroda
+gar i snitt per 18,5      15,6       18,7           19,7       14,9
+anställd
+
 31
-
-[Tabell 93-1](handlingar.tabeller/93-1.csv)
-
-|  | Namn Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 |
-| --- | --- |
-| Sjukfrånvaro,<br>anställda i<br>5,8% 4,4% 4% 3,8% 3,3%<br>åldrarna 30-49<br>år |  |
-| Sjukfrånvaro,<br>anställda i<br>6% 4,9% 8,3% 10,8% 8,1%<br>åldrarna 50 år<br>eller äldre |  |
-| Sjukfrånvaroda<br>gar i snitt per 18,5 15,6 18,7 19,7 14,9<br>anställd |  |
 
 <!-- sida 94 -->
 
@@ -4353,8 +4415,9 @@ större anpassning av antalet årsarbetare utifrån det minskade ärendeinflöde
 
 [Tabell 94-1](handlingar.tabeller/94-1.csv)
 
-| Uppföljningsnivå (belopp i<br>mnkr)<br>Byggnadsnämnden | Bokslut 2022<br>-1,3 | Budget 2023<br>-1,6 | Bokslut 2023<br>-1,4 | Budget-<br>avvikelse 2023<br>0,2 |
+| Uppföljningsnivå (belopp i mnkr) | Bokslut 2022 | Budget 2023 | Bokslut 2023 | Budgetavvikelse 2023 |
 | --- | --- | --- | --- | --- |
+| Byggnadsnämnden | -1,3 | -1,6 | -1,4 | 0,2 |
 | Geodata och Bygglov |  |  |  |  |
 | Intäkter | 34,0 | 24,6 | 25,2 | 0,6 |
 | Kostnader | -53,8 | -48,1 | -45,7 | 2,4 |
@@ -5121,13 +5184,27 @@ Uppföljningsrapport intern kontroll 2023
 |  | 10 Kommunövergripande risk - Risk för korruption Ja |
 |  | 11 Risk att fel i statistikrapporter leder till sämre Ja<br>eller felaktiga beslut |
 
-[Tabell 113-2](handlingar.tabeller/113-2.csv)
+[Tabell 113-115-2](handlingar.tabeller/113-115-2.csv)
 
 | Kategorier<br>Personal | Risker Anledning till att risk ej tas till plan<br>Risk att Denna risk hanteras inom ramen för kompetensförsörjning och<br>förvaltningen verksamhetsplanering. Inte prioriterad för granskning 2023.<br>saknar personal<br>med<br>rätt/tillräcklig<br>kompetens |
 | --- | --- |
 |  | Risk att Det finns fungerande rutiner och checklistor för introduktion av nya<br>introduktion av medarbetare. Inte prioriterad för granskning 2023.<br>nya medarbetare<br>inte fungerar som<br>tänkt. |
 |  | Stor konkurrens Förvaltningen arbetar systematiskt med frågan i verksamhetsplan<br>om kompetent samt kompetensförsörjningsplan. Denna risk hanteras inom ramen<br>personal för kompetensförsörjning och verksamhetsplanering. Inte<br>prioriterad för granskning 2023. |
 | Ekonomi | Kontanthantering Ingen kontanthantering på förvaltningen |
+| Kategorier<br>Informations<br>säkerhet,<br>administratio<br>n, inköp... | Risker Anledning till att risk ej tas till plan<br>Kommunövergrip Inga stora förändringar av processer eller verksamhetssystem<br>ande risk: planeras under 2023.<br>Bristande<br>styrning av<br>förändring av<br>verksamhetsproc<br>esser och system |
+|  | Risk att En omfattande utbildningsinsats har genomförts för registraturen<br>diarieföring inte under 2020/2021/2022. Inte prioriterad för granskning 2023.<br>sker korrekt |
+|  | Risk att Omhändertas i kommunövergripande risk 2023<br>säkerhetsklassat<br>material<br>avseende<br>GIS/Kartan<br>lämnas ut eller på<br>annat sätt<br>kommer i<br>obehöriga<br>händer. |
+|  | Risk för Inte Byggnadsnämndens fråga, Digitalt Center sköter drift av<br>oplanerade servrar mm<br>driftstopp eller<br>krasch av<br>verksamhetssyst<br>em |
+|  | Risk för intrång, Omhändertas i kommunövergripande risk 2023. Det finns aktuella<br>obehörig åtkomst rutiner för hantering av känsliga personuppgifter, dessa ska inte<br>eller avslöjad lagras i verksamhetssystem.<br>sekretess på<br>grund av stöld<br>och/eller<br>oaktsamhet. |
+|  | Felaktig Inte prioriterat för granskning 2023<br>hantering i<br>enskilda ärenden<br>på grund av<br>förfalskade<br>dokument eller<br>bluffsamtal |
+|  | Utlämnande av En omfattande utbildningsinsats har genomförts för registraturen<br>handlingar sker under 2020/2021/2022. Inte prioriterad till 2023. Nya arbetssätt på<br>inte enligt rutiner gång där kunden själv kan hämta handlingar digitalt. |
+|  | Hänvisning av Det finns tydliga rutiner som marknadsförs på Insidan inför<br>mail och telefon semesterperioder. Inte prioriterat för granskning 2023. Hanteras<br>görs inte vid genom utbildning och påminnelser om rutiner till personalen.<br>frånvaro |
+| Kategorier<br>Verksamhet | Risker Anledning till att risk ej tas till plan<br>Risk för Utbildning av personal och service (kalibrering) av instrument görs<br>felaktigheter i regelbundet. Inte prioriterat för granskning 2023<br>mätningsuppdrag |
+|  | Risk för Liknande risk finns med till 2023 som en obligatorisk<br>påtryckningar kommungemensam risk, denna kan då strykas för 2023.<br>utifrån / otillbörlig<br>påverkan på<br>personal och<br>beslutsfattare |
+|  | Risk för bristande Behovsutredning beslutas i nämnd där prioritering av tillsynen<br>leverans av också sker. Tillsynsplan och kontrollplan beslutas också i nämnd<br>myndighetsuppdr och revideras vid behov av nämnd. Denna risk hanteras inom<br>aget ramen för detta arbete, att lägga den till internkontrollplanen också<br>innebär dubbelarbete. Risken är omhändertagen. |
+|  | Förskottsbetalad Andelen förskottsbetalad tillsyn har minskat de senaste åren. Från<br>tillsyn utförs inte 2024 kommer all livsmedelskontroll efterhandsdebiteras.<br>Verksamheten har rutiner och följer upp regelbundet. Hanteras<br>inom ramen för tillsynsplan och kontrollplan. |
+|  | Hantering av Utvecklingsarbete har gjorts, rutiner finns för hantering av<br>personuppgifter personuppgiftsincidenter, rapportering sker till nämnderna löpande.<br>sker inte korrekt Hanteras inom annan process. Inte prioriterat för granskning 2023. |
+|  | Överklaganden Förvaltningen har arbetat med denna risk i flera år. Rutiner är<br>hanteras inte kända och följs av personalen.<br>korrekt |
 
 <!-- sida 114 -->
 
@@ -5136,34 +5213,12 @@ Uppföljningsrapport intern kontroll 2023
 
 8
 
-[Tabell 114-1](handlingar.tabeller/114-1.csv)
-
-| Kategorier<br>Informations<br>säkerhet,<br>administratio<br>n, inköp... | Risker Anledning till att risk ej tas till plan<br>Kommunövergrip Inga stora förändringar av processer eller verksamhetssystem<br>ande risk: planeras under 2023.<br>Bristande<br>styrning av<br>förändring av<br>verksamhetsproc<br>esser och system |
-| --- | --- |
-|  | Risk att En omfattande utbildningsinsats har genomförts för registraturen<br>diarieföring inte under 2020/2021/2022. Inte prioriterad för granskning 2023.<br>sker korrekt |
-|  | Risk att Omhändertas i kommunövergripande risk 2023<br>säkerhetsklassat<br>material<br>avseende<br>GIS/Kartan<br>lämnas ut eller på<br>annat sätt<br>kommer i<br>obehöriga<br>händer. |
-|  | Risk för Inte Byggnadsnämndens fråga, Digitalt Center sköter drift av<br>oplanerade servrar mm<br>driftstopp eller<br>krasch av<br>verksamhetssyst<br>em |
-|  | Risk för intrång, Omhändertas i kommunövergripande risk 2023. Det finns aktuella<br>obehörig åtkomst rutiner för hantering av känsliga personuppgifter, dessa ska inte<br>eller avslöjad lagras i verksamhetssystem.<br>sekretess på<br>grund av stöld<br>och/eller<br>oaktsamhet. |
-|  | Felaktig Inte prioriterat för granskning 2023<br>hantering i<br>enskilda ärenden<br>på grund av<br>förfalskade<br>dokument eller<br>bluffsamtal |
-|  | Utlämnande av En omfattande utbildningsinsats har genomförts för registraturen<br>handlingar sker under 2020/2021/2022. Inte prioriterad till 2023. Nya arbetssätt på<br>inte enligt rutiner gång där kunden själv kan hämta handlingar digitalt. |
-|  | Hänvisning av Det finns tydliga rutiner som marknadsförs på Insidan inför<br>mail och telefon semesterperioder. Inte prioriterat för granskning 2023. Hanteras<br>görs inte vid genom utbildning och påminnelser om rutiner till personalen.<br>frånvaro |
-
 <!-- sida 115 -->
 
 Byggnadsnämnden                                  Kungsbacka kommun
 Uppföljningsrapport intern kontroll 2023
 
 9
-
-[Tabell 115-1](handlingar.tabeller/115-1.csv)
-
-| Kategorier<br>Verksamhet | Risker Anledning till att risk ej tas till plan<br>Risk för Utbildning av personal och service (kalibrering) av instrument görs<br>felaktigheter i regelbundet. Inte prioriterat för granskning 2023<br>mätningsuppdrag |
-| --- | --- |
-|  | Risk för Liknande risk finns med till 2023 som en obligatorisk<br>påtryckningar kommungemensam risk, denna kan då strykas för 2023.<br>utifrån / otillbörlig<br>påverkan på<br>personal och<br>beslutsfattare |
-|  | Risk för bristande Behovsutredning beslutas i nämnd där prioritering av tillsynen<br>leverans av också sker. Tillsynsplan och kontrollplan beslutas också i nämnd<br>myndighetsuppdr och revideras vid behov av nämnd. Denna risk hanteras inom<br>aget ramen för detta arbete, att lägga den till internkontrollplanen också<br>innebär dubbelarbete. Risken är omhändertagen. |
-|  | Förskottsbetalad Andelen förskottsbetalad tillsyn har minskat de senaste åren. Från<br>tillsyn utförs inte 2024 kommer all livsmedelskontroll efterhandsdebiteras.<br>Verksamheten har rutiner och följer upp regelbundet. Hanteras<br>inom ramen för tillsynsplan och kontrollplan. |
-|  | Hantering av Utvecklingsarbete har gjorts, rutiner finns för hantering av<br>personuppgifter personuppgiftsincidenter, rapportering sker till nämnderna löpande.<br>sker inte korrekt Hanteras inom annan process. Inte prioriterat för granskning 2023. |
-|  | Överklaganden Förvaltningen har arbetat med denna risk i flera år. Rutiner är<br>hanteras inte kända och följs av personalen.<br>korrekt |
 
 <!-- sida 116 -->
 
@@ -5495,25 +5550,14 @@ Nämndens självskattning
 
 16
 
-[Tabell 122-1](handlingar.tabeller/122-1.csv)
+[Tabell 122-123-1](handlingar.tabeller/122-123-1.csv)
 
 | Område<br>Uppdrag och mål | Frågor Svar, Antal 2023<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
 | --- | --- |
 |  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |
 |  | Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |
 |  | Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |
-
-<!-- sida 123 -->
-
-Byggnadsnämnden                                  Kungsbacka kommun
-Uppföljningsrapport intern kontroll 2023
-
-17
-
-[Tabell 123-1](handlingar.tabeller/123-1.csv)
-
 | Område<br>Kontrollmiljö | Frågor Svar, Antal 2023<br>Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |
-| --- | --- |
 |  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |
 |  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
 |  | Ledningen informeras om fel och brister i<br>organisationen |
@@ -5529,3 +5573,10 @@ Uppföljningsrapport intern kontroll 2023
 |  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
 | Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
 |  | Vi har en fungerande introduktion av nya<br>medarbetare |
+
+<!-- sida 123 -->
+
+Byggnadsnämnden                                  Kungsbacka kommun
+Uppföljningsrapport intern kontroll 2023
+
+17

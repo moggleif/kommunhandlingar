@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5deddcf719cc8cfc836d6c22/1773655709
 sha256: 51aadafa226ca0dc5e02ba2648f312e2bdde3b1b631193317f1d67812ba0fc58
 bytes: 191780
 sidor: 4
-hamtad: 2026-10-07T22:08:17+00:00
-konverterad: 2026-10-07T22:08:24+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T06:23:59+00:00
+konverterad: 2026-10-14T06:24:05+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -55,7 +55,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -63,21 +63,21 @@ KUNGSBACKA  KOMMUN
 | 5. | Verksamhetsinformation<br>projekt på AGY, Elof Lindälvs<br>gymnasium<br>Föredragande: Eva Tingström<br>och Annika Areskog Ronnstedt,<br>arbetslagsledare på AGY<br>Kl. 18.25-18.55 | GA-2025-<br>00092 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 | 6. | Civil beredskap<br>Föredragande: Elisabeth<br>Grimhusen, HR- och<br>kommunikationschef och Oscar<br>Skytt Gustafsson,<br>säkerhetssamordnare<br>Kl. 19.15-19.30 | GA-2026-<br>00048 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 | 7. | Säkerhet på gymnasieskolorna<br>Föredragande: Cecilia Fossan,<br>biträdande gymnasiechef och<br>Oscar Skytt Gustafsson,<br>säkerhetssamordnare<br>Kl. 19.30-19.45 | GA-2026-<br>00037 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 8. | Samverkansavtal för<br>gymnasieskola i<br>Göteborgsregionen 2027/2028–<br>2030/2031<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>Kl. 19.45-19.50 | GA-2026-<br>00014 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknaden antar<br>remissvaret daterad 2026-03-02 och översänder det<br>som sitt svar till Göteborgsregionen (GR).<br>Paragrafen justeras direkt. |
+| 9. | Samverkansavtal för anpassad<br>gymnasieskola i<br>Göteborgsregionen 2027/2028–<br>2030/2031<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>Kl. 19.50-19.55 | GA-2026-<br>00015 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknaden antar<br>remissvaret daterad 2026-03-02 och översänder det<br>som sitt svar till Göteborgsregionen (GR).<br>Paragrafen justeras direkt. |
+| 10. | Samverkansavtal om<br>yrkesutbildningar för vuxna i<br>Göteborgsregionen för<br>avtalsperiod 2027–2030<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>Kl. 19.55-20.00 | GA-2026-<br>00016 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknaden antar<br>remissvaret daterad 2026-03-02 och översänder det<br>som sitt svar till Göteborgsregionen (GR).<br>Paragrafen justeras direkt. |
+| 11. | Bostad först<br>Föredragande: Patrik Hellberg,<br>förvaltningschef och Frida<br>Svärd, tf. verksamhetschef<br>Kl. 20.00-20.10 | GA-2024-<br>00088 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>upphäver beslut § 18 2026-02-19.<br>Nämnden för Gymnasium & Arbetsmarknad ger<br>förvaltningen i uppdrag att aktivt stödja<br>förvaltningen för Individ & Familjeomsorg gällande<br>Bostad Först. Återkoppling till nämnden sker i<br>Kvalitetsberättelse, SOSFS 2011:9 som presenteras<br>för nämnden årligen. |
+| 12. | Avveckling av priset Lära för<br>livet | GA-2025-<br>00027 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 13. | Återrapportering av<br>delegeringsbeslut (2026) | GA-2026-<br>00026 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av delegeringsbeslut<br>under perioden 2026-02-01 till 2026-02-28. |
+| 14. | Återrapportering av program-<br>och verksamhetsråd (2026)<br>Föredragande: Karin Green<br>(C) | GA-2026-<br>00024 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 15. | Inkomna skrivelser till<br>ledamöter och ersättare i<br>nämnden (2026) | GA-2026-<br>00003 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 16. | Förvaltningschef informerar<br>(2026)<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>Kl. 20.15-20.30 | GA-2026-<br>00002 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Samverkansavtal för<br>gymnasieskola i<br>Göteborgsregionen 2027/2028–<br>2030/2031<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>Kl. 19.45-19.50 | GA-2026-<br>00014 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknaden antar<br>remissvaret daterad 2026-03-02 och översänder det<br>som sitt svar till Göteborgsregionen (GR).<br>Paragrafen justeras direkt. |
-| 9. | Samverkansavtal för anpassad<br>gymnasieskola i<br>Göteborgsregionen 2027/2028–<br>2030/2031<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>Kl. 19.50-19.55 | GA-2026-<br>00015 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknaden antar<br>remissvaret daterad 2026-03-02 och översänder det<br>som sitt svar till Göteborgsregionen (GR).<br>Paragrafen justeras direkt. |
-| 10. | Samverkansavtal om<br>yrkesutbildningar för vuxna i<br>Göteborgsregionen för<br>avtalsperiod 2027–2030<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>Kl. 19.55-20.00 | GA-2026-<br>00016 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknaden antar<br>remissvaret daterad 2026-03-02 och översänder det<br>som sitt svar till Göteborgsregionen (GR).<br>Paragrafen justeras direkt. |
-| 11. | Bostad först<br>Föredragande: Patrik Hellberg,<br>förvaltningschef och Frida<br>Svärd, tf. verksamhetschef<br>Kl. 20.00-20.10 | GA-2024-<br>00088 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>upphäver beslut § 18 2026-02-19.<br>Nämnden för Gymnasium & Arbetsmarknad ger<br>förvaltningen i uppdrag att aktivt stödja<br>förvaltningen för Individ & Familjeomsorg gällande<br>Bostad Först. Återkoppling till nämnden sker i<br>Kvalitetsberättelse, SOSFS 2011:9 som presenteras<br>för nämnden årligen. |
 
 <!-- sida 4 -->
 
@@ -87,13 +87,3 @@ KUNGSBACKA  KOMMUN
 
 Axel Storckenfeldt (M)            Alexandra Cameron
 ordförande                        sekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 12. | Avveckling av priset Lära för<br>livet | GA-2025-<br>00027 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-| 13. | Återrapportering av<br>delegeringsbeslut (2026) | GA-2026-<br>00026 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av delegeringsbeslut<br>under perioden 2026-02-01 till 2026-02-28. |
-| 14. | Återrapportering av program-<br>och verksamhetsråd (2026)<br>Föredragande: Karin Green<br>(C) | GA-2026-<br>00024 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-| 15. | Inkomna skrivelser till<br>ledamöter och ersättare i<br>nämnden (2026) | GA-2026-<br>00003 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-| 16. | Förvaltningschef informerar<br>(2026)<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>Kl. 20.15-20.30 | GA-2026-<br>00002 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |

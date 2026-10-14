@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2f18dd4b18ecb6094451bb/171281514625
 sha256: 8b160f62a894d21d7778e24a5d3fe3fa54f72730b8ae4bd794c5554291f5f47a
 bytes: 11698784
 sidor: 314
-hamtad: 2026-10-07T22:10:48+00:00
-konverterad: 2026-10-07T22:13:16+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T06:26:10+00:00
+konverterad: 2026-10-14T06:27:57+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [188, 189, 190, 191, 192, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282]
-figurer: null
-tolkade: null
+figurer: [16, 17, 18, 19, 20, 31, 184, 186, 187, 204, 206, 210, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 231, 232, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 290, 291, 292, 293, 294, 295, 296, 298]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -431,28 +431,54 @@ Gymnasium & Arbetsmarknad, SOSFS 2011:9, Kvalitetsberättelse 2023 8(24)
 
 4.1.1 Resultat
 
-4.1.2 Analys
+Fråga           2020         2021        2022         2023
 
+Tycker du att det Medelvärde 4,33, Medelvärde 4,5 Medelvärde 4 Medelvärde
+var positivt att Median 5 Median 5   Median 4     4Median 4
+feriearbeta i
+Kungsbacka
+kommun?
+Tycker du att det Medelvärde 4,16, Medelvärde 4,35 Medelvärde 4 Medelvärde 4
+var lätt att ansöka Median 4 Median 5 Median 4    Median 4
+om feriejobb?
+Tycker du att du Medelvärde 3,41, Medelvärde 3,85 Medelvärde 4 Medelvärde 4
+fick nödvändig Median 4  Median 4    Median 4     Median 4
+information om
+feriejobbet innan
+start?
+Tycker du att du Medelvärde 4,18, Medelvärde 4,4 Medelvärde 4 Medelvärde 4
+fick en bra Median 4     Median 5    Median 4     Median 4
+introduktion på
+arbetsplatsen?
+Tycker du att det Medelvärde 3,85, Medelvärde 3,8 Medelvärde 4 Medelvärde 4
+var lätt att Median 4    Median 5    Median 4     Median 4
+tidsrapportera?
+Kan du tänka dig Medelvärde 3,82, Medelvärde 4,1 Medelvärde 4 Medelvärde 4
+att arbeta i Median 4    Median 5    Median 4     Median 4
+Kungsbacka
+kommun igen i
+framtiden?
+Hur fick du reda på 40% genom 15% genom 50% genom Genom
+möjligheten att föräldrar, 36 % kommunens föräldrar, 27,9% kommunens
+söka kommunalt genom kompisar, hemsida ,25% genom hemsida
+feriejobb?  22 % genom   genom kompisar kompisar17.4% 17,4%Genom
+kommunens    och 34 % genom genom kommunens skolan
+hemsida      föräldrar   hemsida, 19,8% 19,8%Genom
+genom skolan kompisar
+27,9%Genom
+annons
+1,2%Genom
+föräldrar 50,0%På
+annat sätt,
+nämligen: 4,7%
+4.1.2 Analys
 2023 tillsattes 199 ferieplatser. Totalt har 310 ungdomar fullföljt sin ansökan om feriejobb
 Antalet sökande är lägre än 2022 då 326 ungdomar ansökte.
-
 Av de besvarade enkäterna kan fastställas att majoriteten är positiva till att feriearbeta i
 Kungsbacka kommun. Arbetstagarna tycker enligt enkätsvaren att det är lätt att ansöka till ett
 feriejobb och att introduktionerna har varit bra på arbetsplatserna. En slutsats är att vi inom
 kommunen i regel har ett systematiskt arbete gällande introduktion och ett gott bemötande till
-
 Gymnasium & Arbetsmarknad, SOSFS 2011:9, Kvalitetsberättelse 2023 9(24)
-
-[Tabell 10-1](handlingar.tabeller/10-1.csv)
-
-| Fråga<br>Tycker du att det<br>var positivt att<br>feriearbeta i<br>Kungsbacka<br>kommun? | 2020<br>Medelvärde 4,33,<br>Median 5 | 2021<br>Medelvärde 4,5<br>Median 5 | 2022<br>Medelvärde 4<br>Median 4 | 2023<br>Medelvärde<br>4Median 4 |
-| --- | --- | --- | --- | --- |
-| Tycker du att det<br>var lätt att ansöka<br>om feriejobb? | Medelvärde 4,16,<br>Median 4 | Medelvärde 4,35<br>Median 5 | Medelvärde 4<br>Median 4 | Medelvärde 4<br>Median 4 |
-| Tycker du att du<br>fick nödvändig<br>information om<br>feriejobbet innan<br>start? | Medelvärde 3,41,<br>Median 4 | Medelvärde 3,85<br>Median 4 | Medelvärde 4<br>Median 4 | Medelvärde 4<br>Median 4 |
-| Tycker du att du<br>fick en bra<br>introduktion på<br>arbetsplatsen? | Medelvärde 4,18,<br>Median 4 | Medelvärde 4,4<br>Median 5 | Medelvärde 4<br>Median 4 | Medelvärde 4<br>Median 4 |
-| Tycker du att det<br>var lätt att<br>tidsrapportera? | Medelvärde 3,85,<br>Median 4 | Medelvärde 3,8<br>Median 5 | Medelvärde 4<br>Median 4 | Medelvärde 4<br>Median 4 |
-| Kan du tänka dig<br>att arbeta i<br>Kungsbacka<br>kommun igen i<br>framtiden? | Medelvärde 3,82,<br>Median 4 | Medelvärde 4,1<br>Median 5 | Medelvärde 4<br>Median 4 | Medelvärde 4<br>Median 4 |
-| Hur fick du reda på<br>möjligheten att<br>söka kommunalt<br>feriejobb? | 40% genom<br>föräldrar, 36 %<br>genom kompisar,<br>22 % genom<br>kommunens<br>hemsida | 15% genom<br>kommunens<br>hemsida ,25%<br>genom kompisar<br>och 34 % genom<br>föräldrar | 50% genom<br>föräldrar, 27,9%<br>genom<br>kompisar17.4%<br>genom kommunens<br>hemsida, 19,8%<br>genom skolan | Genom<br>kommunens<br>hemsida<br>17,4%Genom<br>skolan<br>19,8%Genom<br>kompisar<br>27,9%Genom<br>annons<br>1,2%Genom<br>föräldrar 50,0%På<br>annat sätt,<br>nämligen: 4,7% |
 
 <!-- sida 11 -->
 
@@ -933,25 +959,21 @@ då krävas för att bygga upp detta system för att få så bra effekt som möj
 
 Gymnasium & Arbetsmarknad, SOSFS 2011:9, Kvalitetsberättelse 2023 23(24)
 
-[Tabell 24-1](handlingar.tabeller/24-1.csv)
+[Tabell 24-25-1](handlingar.tabeller/24-25-1.csv)
 
 | Område | Aktivitet | Ansvarig |
 | --- | --- | --- |
 | Riskanalyser | Utveckla arbetet med riskanalyser<br>genom utbildning och fortsatt<br>implementering av rutin och<br>arbetssätt. | Utvecklingsledare kvalitet samt<br>Socialt ansvarig Samordnare |
-
-<!-- sida 25 -->
-
-Gymnasium & Arbetsmarknad, SOSFS 2011:9, Kvalitetsberättelse 2023 24(24)
-
-[Tabell 25-1](handlingar.tabeller/25-1.csv)
-
 | Avvikelsehantering | Utveckla struktur för återkoppling<br>och information till enheterna för<br>avvikelsehantering, samt strukturer<br>för hur personalen involveras än<br>mer i det övergripande<br>kvalitetsarbetet. | Enhetschefer samt Socialt<br>ansvarig Samordnare |
-| --- | --- | --- |
 | Barnrättsperspektiv | Fortsätta utveckla och<br>implementera rutin.<br>Kunskapshöjning i förvaltningen | Enhetschef Myndighet |
 | Kvalitetsledningssystem - LSS<br>Fritidshem | Fullt ut implementerat<br>kvalitetsledningssystem för LSS<br>Fritidshem på Aranäsgymnasiet | Enhetschef/rektor samt<br>Utvecklingsledare Kvalitet och<br>Socialt ansvarig samordnare |
 | Otillåten påverkan /Välfärdsbrott | Planer och strukturer för att<br>förhindra och förebygga otillåten<br>påverkan/Välfärdsbrott revideras<br>och tas fram | Utvecklingsledare Kvalitet samt<br>Verksamhetschef<br>Kompetenscentrum |
 | Våld i nära relationer | Kommunicera och göra ny riktlinje<br>känd | Socialt ansvarig samordnare |
 | Nytt verksamhetssystem | Implementering av nytt<br>verksamhetssystem för<br>arbetsmarknadsprocessen,<br>försörjningsstödsprocessen och<br>mottagning av nyanlända. | Verksamhetschef<br>Kompetenschefer |
+
+<!-- sida 25 -->
+
+Gymnasium & Arbetsmarknad, SOSFS 2011:9, Kvalitetsberättelse 2023 24(24)
 
 <!-- sida 26 -->
 
@@ -1175,15 +1197,18 @@ Tandvårdsrädsla
 Telefonlista
 Telefonnummer som är bra att känna till och veta när de kan användas utifrån ansvarsområde.
 
-[Tabell 30-1](handlingar.tabeller/30-1.csv)
+Enhet                  Kontaktinfo Ansvarsområde
 
-| Enhet | Kontaktinfo | Ansvarsområde |
-| --- | --- | --- |
-| Polis<br>Polis | 114 14<br>112 | Råd och stöd<br>Akut situation |
-| Socialjour kvällar och helger | 031-365 87 00 | Skydd, stöd och råd |
-| Kvinnofridslinjen | 020-50 50 50 | För yrkesverksamma och enskilda. Stöd och råd<br>dygnet runt |
-| Stödtelefon Hedersförtryck | 010-223 57 60 | För yrkesverksamma. Stöd och råd. |
-| Välj att sluta | 020-555 666 | För enskilda som utövar våld mot sin partner |
+Polis                  114 14    Råd och stöd
+Polis                  112       Akut situation
+
+Socialjour kvällar och helger 031-365 87 00 Skydd, stöd och råd
+Kvinnofridslinjen      020-50 50 50 För yrkesverksamma och enskilda. Stöd och råd
+dygnet runt
+
+Stödtelefon Hedersförtryck 010-223 57 60 För yrkesverksamma. Stöd och råd.
+
+Välj att sluta         020-555 666 För enskilda som utövar våld mot sin partner
 
 <!-- sida 31 -->
 
@@ -1465,7 +1490,7 @@ Innehåll
 
 2
 
-[Tabell 39-1](handlingar.tabeller/39-1.csv)
+[Tabell 39-43-1](handlingar.tabeller/39-43-1.csv)
 
 | Hanteringsanvisning |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1479,30 +1504,14 @@ Innehåll
 |  | Handling av betydelse som tillför<br>sakuppgifter i ett ärende | Ciceron | Digitalt | Bevaras |  |
 | Överlägga och besluta | Kallelse till ledningsgrupp | Samarbetsrum | Digitalt | 2 år |  |
 |  | Underlag för beslut i ledningsgrupp | Samarbetsrum | Digitalt | Se anm. | Handlingar som används som<br>beslutsunderlag på ledningsgruppen<br>hanteras i enlighet med kommunens |
-
-<!-- sida 40 -->
-
-3
-
-[Tabell 40-1](handlingar.tabeller/40-1.csv)
-
 |  |  |  |  |  | regler för ärendehantering och<br>bevaras.<br>Handlingar som används för<br>informationspunkter och<br>presentationer kan gallras vid<br>inaktualitet. |
-| --- | --- | --- | --- | --- | --- |
 |  | Ledningsgruppens minnesanteckning | Samarbetsrum | Digitalt | Se anm. | Anteckningar som endast fungerat<br>som ett stöd under mötet och som<br>saknar beslut och inte kan ses vara av<br>betydelse för verksamheten, kan<br>gallras direkt. |
 |  | Beslut tagna på ledningsgruppsmöten | Samarbetsrum | Digitalt | Bevaras |  |
 |  | Beslut från chef | Ciceron | Digitalt | Bevaras | Avser beslut som inte är kopplade till<br>specifik process, t.ex. beslut om<br>tillförordnad chef.<br>Beslut som är kopplade till specifik<br>process, t.ex. disciplinär åtgärd,<br>registreras tillsammans med berörd<br>process. |
 |  | Protokoll eller mötesanteckning från<br>samverkan med frivilligorganisationer | Ciceron | Digitalt | Bevaras | Respektive part får ett exemplar. |
 | Bedriva systematiskt<br>kvalitetsarbete på<br>övergripande nivå | Plan för att utveckla<br>verksamheten | Ciceron | Digitalt | Bevaras | Förvaras i Ciceron, men arbetet sker<br>i Stratsys. |
 |  | Sammanställning av resultat | Ciceron | Digitalt | Bevaras | Avser sammanställningar av resultat<br>som visar hur förutsättningarna för<br>och genomförandet av verksamheten<br>påverkar måluppfyllelsen. |
-
-<!-- sida 41 -->
-
-4
-
-[Tabell 41-1](handlingar.tabeller/41-1.csv)
-
 |  |  |  |  |  | Förvaras i Ciceron, men arbetet sker<br>i Stratsys. |
-| --- | --- | --- | --- | --- | --- |
 |  | Underlag | Ciceron | Digitalt | Se anm. | Avser underlag för<br>sammanställningar av resultat. Kan<br>gallras när rapport är färdigställd och<br>behandlad i nämnd. |
 |  | Utvärdering | Ciceron | Digitalt | Bevaras | Avser utvärderingar inom särskilt<br>identifierade områden.<br>Förvaras i Ciceron, men arbetet sker<br>i Stratsys. |
 |  | Analys | Ciceron | Digitalt | Bevaras | Förvaras i Ciceron, men arbetet sker<br>i Stratsys. |
@@ -1515,15 +1524,7 @@ Innehåll
 |  | Redovisning av åtgärder med anledning<br>av genomförd tillsyn och granskning | Ciceron | Digitalt | Bevaras | Gymnasium & Arbetsmarknads<br>redovisning av åtgärder. |
 | Hantera lokal<br>samverkansgrupp | Kallelse | Samarbetsrum | Digitalt | 2 år |  |
 |  | Möteshandling | Samarbetsrum | Digitalt | Se anm. | Handlingar som används som<br>beslutsunderlag hanteras i enlighet |
-
-<!-- sida 42 -->
-
-5
-
-[Tabell 42-1](handlingar.tabeller/42-1.csv)
-
 |  |  |  |  |  | med kommunens regler för<br>ärendehantering och bevaras.<br>Handlingar som används för<br>informationspunkter och<br>presentationer gallras vid<br>inaktualitet. |
-| --- | --- | --- | --- | --- | --- |
 |  | Protokoll | Samarbetsrum | Digitalt | Bevaras |  |
 | Hantera kategoriträffar<br>och kollegiala möten | Minnesanteckning | Samarbetsrum | Digitalt | Se anm. | Anteckningar som endast fungerat<br>som ett stöd under mötet och som<br>saknar beslut och inte kan ses vara av<br>betydelse för verksamheten, kan<br>gallras direkt. |
 | Hantera avtal | Avtal |  | Digitalt | Bevaras | De som kan beröras är exempelvis<br>avtal vid drift av grupphem, avtal<br>med frivilligorganisationer,<br>myndigheter, andra kommuner,<br>entreprenörer eller enskilda utförare<br>etc. |
@@ -1531,16 +1532,24 @@ Innehåll
 |  | Organisationsschema | Raindance | Digitalt | Se anm. | Uppdateras löpande i systemet. |
 | Hantera lokaler och<br>utrustning | Avtal om utrustning | Närarkiv | Papper | 2 år efter att<br>avtalstiden har<br>passerats | Kopia läggs i Samarbetsrum. |
 |  | Inventarieförteckning | Samarbetsrum | Digitalt | Bevaras |  |
+|  | Ritning | Närarkiv | Papper | Bevaras |  |
+|  | Nyckelkvittens | Närarkiv | Papper | Se anm. | Gallras när nyckeln är återlämnad |
+
+<!-- sida 40 -->
+
+3
+
+<!-- sida 41 -->
+
+4
+
+<!-- sida 42 -->
+
+5
 
 <!-- sida 43 -->
 
 6
-
-[Tabell 43-1](handlingar.tabeller/43-1.csv)
-
-|  | Ritning | Närarkiv | Papper | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Nyckelkvittens | Närarkiv | Papper | Se anm. | Gallras när nyckeln är återlämnad |
 
 <!-- sida 44 -->
 
@@ -1566,7 +1575,7 @@ Innehåll
 
 8
 
-[Tabell 45-1](handlingar.tabeller/45-1.csv)
+[Tabell 45-46-1](handlingar.tabeller/45-46-1.csv)
 
 |  | Arbets-/praktikintyg, skriftliga<br>omdömen | Viva | Digitalt | Se anm. | Vid avslutad åtgärd (ej längre<br>aktuell) |
 | --- | --- | --- | --- | --- | --- |
@@ -1580,15 +1589,7 @@ Innehåll
 |  | Uppföljning | Viva | Digitalt | 2 år efter avslutad<br>åtgärd |  |
 |  | Korrespondens med praktikplats | Viva | Digitalt | 2 år efter avslutad<br>åtgärd | Görs genom journalanteckning. |
 |  | Samtycke deltagare | Viva | Digitalt | 2 år efter avslutad<br>åtgärd |  |
-
-<!-- sida 46 -->
-
-9
-
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
-
 |  | Förstadagsintyg | Viva | Digitalt | Se anm. | Vid avslutad åtgärd |
-| --- | --- | --- | --- | --- | --- |
 |  | Uppdrag myndighet- insats | Viva | Digitalt | Se anm. | Enheten för myndighet lämnar<br>uppdrag till enheten för<br>arbetsmarknad |
 |  | Praktikavtal | Viva | Digitalt | 2 år efter avslutad<br>åtgärd |  |
 |  | Beslut God Man/Förvaltare | Viva | Digitalt | 2 år efter avslutad<br>åtgärd |  |
@@ -1598,6 +1599,10 @@ Innehåll
 | Lokalt kvalitetsarbete | Kvalitetsarbete, processbeskrivningar<br>och utvecklingsarbete | Ciceron | Digitalt | Bevaras |  |
 |  | Statistik, typ av åtgärder, antal deltagare<br>etc. (kan även ingå i<br>årsberättelser/årsredogörelser) | Samarbetsrum | Digitalt | Bevaras | Finns även enskild statistik vad<br>gäller från ansökan till beslut via<br>arbetsmarknadsprocessen. |
 |  | Statistik till andra myndigheter (t. ex<br>SCB, skolverket) | Viva/Alvis/Edlevo | Digitalt | Se anm. | Statistiken hämtas från Viva och<br>Alvis/Edlevo. Gallras när statistiken<br>är ivägskickad till berörd<br>myndighet. |
+
+<!-- sida 46 -->
+
+9
 
 <!-- sida 47 -->
 
@@ -1659,7 +1664,7 @@ utgång
 | Elevregistrering | Elevhistorik | Alvis/Edlevo | Digitalt | Bevaras | Uppgifter om elevs genomförda<br>kurser- och studieavbrott |
 |  | Ansökan/anmälan till prövning | Alvis/Edlevo | Digitalt | 3 år |  |
 
-[Tabell 49-2](handlingar.tabeller/49-2.csv)
+[Tabell 49-50-2](handlingar.tabeller/49-50-2.csv)
 
 |  | Underlag för debitering av<br>interkommunala avgifter | Alvis/ Edlevo | Digitalt | 10 år | Debitering av interkommunala<br>avgifter in (intäkter) samt för<br>prognos interkommunala avgifter ut<br>(kostnader) |
 | --- | --- | --- | --- | --- | --- |
@@ -1667,39 +1672,31 @@ utgång
 |  | Närvaro- och frånvarouppgift | Alvis/Edlevo | Digitalt | 10 år | SFI-Närvarotimmar |
 | Övrig administration<br>gällande<br>vuxenutbildning | Blankett skyddade personuppgifter,<br>inklusive ansökningshandling | Pärm | Papper | Se anm. | Gallras 2 år efter avslutades studier. |
 |  | Elevklagomål | Ciceron | Digitalt | Se anm. | När avtalsperiod går ut. |
+|  | Disciplinär åtgärd | Ciceron | Digitalt | Bevaras | Handlingar rörande ex varning,<br>avstängning, avvisning av elev.<br>Upphandlad skola har skyldighet att<br>informera rektor på Vuxnas lärande,<br>som sedan fattar beslut. Längre<br>avstängning görs av<br>förvaltningschef/nämnd. |
+| Ge särskilt stöd | Läs- och skrivutredning | Närarkiv | Papper | 5 år | Endast enhetschef/rektor och<br>specialpedagog har behörighet att se<br>utredningarna. |
+|  | Pedagogisk kartläggning/överlämning | Närarkiv | Papper | 1 år efter avslutade<br>studier | Endast enhetschef/rektor och<br>specialpedagog har behörighet att se<br>kartläggningarna. |
 
 <!-- sida 50 -->
 
 13
 
-[Tabell 50-1](handlingar.tabeller/50-1.csv)
-
-|  | Disciplinär åtgärd | Ciceron | Digitalt | Bevaras | Handlingar rörande ex varning,<br>avstängning, avvisning av elev.<br>Upphandlad skola har skyldighet att<br>informera rektor på Vuxnas lärande,<br>som sedan fattar beslut. Längre<br>avstängning görs av<br>förvaltningschef/nämnd. |
-| --- | --- | --- | --- | --- | --- |
-| Ge särskilt stöd | Läs- och skrivutredning | Närarkiv | Papper | 5 år | Endast enhetschef/rektor och<br>specialpedagog har behörighet att se<br>utredningarna. |
-|  | Pedagogisk kartläggning/överlämning | Närarkiv | Papper | 1 år efter avslutade<br>studier | Endast enhetschef/rektor och<br>specialpedagog har behörighet att se<br>kartläggningarna. |
-
-[Tabell 50-2](handlingar.tabeller/50-2.csv)
+[Tabell 50-51-1](handlingar.tabeller/50-51-1.csv)
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Hantera skolfrågor | Likabehandlingsplan | Ciceron | Digitalt | Bevaras | Årliga planer för att förebygga och<br>förhindra diskriminering och<br>kränkningar samt utredningar och<br>uppgifter om vidtagna åtgärder.<br>Egenupprättade bevaras, de som<br>upphandlade skolor upprättar kan<br>gallras vid avtalsbryt. |
 |  | Betygskatalog | Närarkiv | Papper | Bevaras | Betyg och intyg ska kunna<br>sammanställas för varje enskild<br>deltagare. |
 |  | Nationella prov, elevsvar SFI | Närarkiv | Papper | Bevaras | Hanteras av upphandlad skola på<br>uppdrag av Vuxnas lärande. |
+|  | Nationella prov, sammanställning av<br>resultat SFI | Alvis/Edlevo | Digitalt | Bevaras |  |
+|  | Lärarhandledning för nationella prov | Närarkiv | Papper | 5 år | Hanteras av upphandlad skola på<br>uppdrag av Vuxnas lärande. |
+|  | Texthäften till nationella prov | Närarkiv | Papper | 5 år | Hanteras av upphandlad skola på<br>uppdrag av Vuxnas lärande. |
+|  | Korrespondens med elev | Alvis/Edlevo | Digitalt | 3 år | Korrespondens med elev med<br>uppgifter väsentliga för elev eller<br>skolan. |
 
 <!-- sida 51 -->
 
 14
 
 [Tabell 51-1](handlingar.tabeller/51-1.csv)
-
-|  | Nationella prov, sammanställning av<br>resultat SFI | Alvis/Edlevo | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Lärarhandledning för nationella prov | Närarkiv | Papper | 5 år | Hanteras av upphandlad skola på<br>uppdrag av Vuxnas lärande. |
-|  | Texthäften till nationella prov | Närarkiv | Papper | 5 år | Hanteras av upphandlad skola på<br>uppdrag av Vuxnas lärande. |
-|  | Korrespondens med elev | Alvis/Edlevo | Digitalt | 3 år | Korrespondens med elev med<br>uppgifter väsentliga för elev eller<br>skolan. |
-
-[Tabell 51-2](handlingar.tabeller/51-2.csv)
 
 |  |  |  |  |  | Hanteras i första hand i Alvis, om<br>elev kommer in med papper sätts<br>pappret i en pärm. |
 | --- | --- | --- | --- | --- | --- |
@@ -1721,7 +1718,7 @@ kommun                                                                vuxenutbil
 
 16
 
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
+[Tabell 53-118-1](handlingar.tabeller/53-118-1.csv)
 
 | 5. Verksamhetstyp: Utbildning |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1733,15 +1730,7 @@ kommun                                                                vuxenutbil
 |  | Handling av tillfällig betydelse eller<br>ringa och/ eller rutinmässig karaktär | Se anm. | Se anm. | Se anm. | Kan komma in via e-mejl, brev eller<br>på annat sätt och kan gallras direkt.<br>Avser t.ex.<br>Korrespondens av uppenbart ringa<br>betydelse.<br>Kopior/dubbletter, om det finns ett<br>arkivexemplar.<br>Handlingar för tillfällig<br>kännedom, som inte föranlett någon<br>åtgärd och som även i övrigt är av<br>ringa betydelse. |
 | Överlägga och besluta | Kallelse till ledningsgrupp | Samarbetsrum | Digitalt | 2 år |  |
 |  | Underlag för beslut i ledningsgrupp | Samarbetsrum | Digitalt | Se anm. | Handlingar som används som<br>beslutsunderlag på ledningsgruppen<br>hanteras i enlighet med kommunens<br>regler för ärendehantering och<br>bevaras. |
-
-<!-- sida 54 -->
-
-17
-
-[Tabell 54-1](handlingar.tabeller/54-1.csv)
-
 |  |  |  |  |  | Handlingar som används för<br>informationspunkter och<br>presentationer kan gallras vid<br>inaktualitet, dock senast 4 år |
-| --- | --- | --- | --- | --- | --- |
 |  | Ledningsgruppens protokoll | Samarbetsrum | Digitalt | Bevaras | Vid sekretessärenden registreras<br>protokollet i Ciceron, och publiceras<br>maskat i Samarbetsrum. |
 |  | Beslut tagna på ledningsgruppsmöten | Samarbetsrum | Digitalt | Bevaras | Vid sekretessärenden registreras<br>protokollet i Ciceron, och publiceras<br>maskat i Samarbetsrum. |
 |  | Beslut från chef eller rektor | Ciceron | Digitalt | Bevaras | Avser beslut som inte är kopplade till<br>specifik process, t.ex. beslut om<br>tillförordnad chef.<br>Beslut som är kopplade till specifik<br>process, t.ex. disciplinär åtgärd,<br>registreras tillsammans med berörd<br>process. |
@@ -1749,15 +1738,7 @@ kommun                                                                vuxenutbil
 |  | Avtal | Ciceron avtalsdiarium | Digitalt | Bevaras | Exempelvis gällande placering av<br>elever, leasingavtal etc. |
 | Bedriva systematiskt<br>kvalitetsarbete på<br>övergripande nivå | Plan för att utveckla<br>verksamheten | Ciceron | Digitalt | Bevaras | Förvaras i Ciceron, men arbetet sker<br>i Stratsys. |
 |  | Sammanställning av resultat | Ciceron | Digitalt | Bevaras | Avser sammanställningar av resultat<br>som visar hur förutsättningarna för<br>och genomförandet av verksamheten<br>påverkar måluppfyllelsen.<br>Förvaras i Ciceron, men arbetet sker<br>i Stratsys. |
-
-<!-- sida 55 -->
-
-18
-
-[Tabell 55-1](handlingar.tabeller/55-1.csv)
-
 |  | Underlag | Ciceron | Digitalt | Se anm. | Avser underlag för<br>sammanställningar av resultat. Kan<br>gallras när rapport är färdigställd och<br>behandlad i nämnd. |
-| --- | --- | --- | --- | --- | --- |
 |  | Utvärdering | Ciceron | Digitalt | Bevaras | Avser utvärderingar inom särskilt<br>identifierade områden.<br>Förvaras i Ciceron, men arbetet sker<br>i Stratsys. |
 |  | Analys | Ciceron | Digitalt | Bevaras | Förvaras i Ciceron, men arbetet sker<br>i Stratsys. |
 |  | Beslut | Ciceron | Digitalt | Bevaras | Förvaras i Ciceron, men arbetet sker<br>i Stratsys. |
@@ -1769,15 +1750,7 @@ kommun                                                                vuxenutbil
 |  | Redovisning av åtgärder med anledning<br>av genomförd tillsyn och granskning | Ciceron | Digitalt | Bevaras | Gymnasium & Arbetsmarknads<br>redovisning av åtgärder. |
 | Hantera förvaltningens<br>samverkansgrupp | Kallelse | Samarbetsrum | Digitalt | 2 år |  |
 |  | Möteshandling | Samarbetsrum | Digitalt | Se anm. | Handlingar som används som<br>beslutsunderlag hanteras i enlighet<br>med kommunens regler för<br>ärendehantering och bevaras. |
-
-<!-- sida 56 -->
-
-19
-
-[Tabell 56-1](handlingar.tabeller/56-1.csv)
-
 |  |  |  |  |  | Handlingar som används för<br>informationspunkter och<br>presentationer gallras vid<br>inaktualitet. |
-| --- | --- | --- | --- | --- | --- |
 |  | Protokoll | Samarbetsrum | Digitalt | Bevaras |  |
 | Hantera kategoriträffar<br>och kollegiala möten | Minnesanteckning | Samarbetsrum | Digitalt | Se anm. | Anteckningar som endast fungerat<br>som ett stöd under mötet och som<br>saknar beslut och inte kan ses vara av<br>betydelse för verksamheten, kan<br>gallras direkt. |
 | 5.0.2 Processgrupp: Styra |  |  |  |  |  |
@@ -1791,15 +1764,7 @@ kommun                                                                vuxenutbil
 |  | Utredning | Prorenata | Digitalt | Bevaras | Utredning enligt 5 kap. 9 §<br>skollagen. |
 |  | Inhämtande av yttrande | Prorenata | Digitalt | Bevaras | Avser bl. a. inhämtande av yttrande<br>enligt 5 kap. 21 § skollagen. |
 |  | Skriftlig varning | Prorenata | Digitalt | Bevaras | Avser beslut enligt 5 kap. 11 §<br>skollagen |
-
-<!-- sida 57 -->
-
-20
-
-[Tabell 57-1](handlingar.tabeller/57-1.csv)
-
 |  | Beslut om åtgärder för att upprätthålla<br>trygghet och studiero (disciplinära<br>åtgärder) | Prorenata | Digitalt | Bevaras | Avser beslut enligt 5 kap. 7-8 §§, 12-<br>13 §§ samt 17-19 §§ skollagen. |
-| --- | --- | --- | --- | --- | --- |
 | Beslut om avstängning | Beslut om avstängning av elev | Ciceron | Digitalt | Bevaras | Avser beslut enligt 5 kap. 21 §<br>skollagen. |
 | 5.1 Verksamhetsområde: Gemensam skolverksamhet |  |  |  |  |  |
 | 5.1.1 Processgrupp: Hantera skolekonomiska frågor |  |  |  |  |  |
@@ -1811,15 +1776,7 @@ kommun                                                                vuxenutbil
 |  | Manuell fil från elevhanteringssystem<br>(för kommunala enheter) | Skolplatsen | Digitalt | 10 år |  |
 |  | Manuell utbetalning<br>Fil från elevhanteringssystem<br>(För fristående verksamheter) | Närarkiv | Papper | 10 år | Manuella utbetalningar registreras i<br>leverantörsregistret i Raindance.<br>Fil läses in i leverantörsregistret i<br>Raindance. |
 |  | Avtal och överenskommelse med annan<br>kommun om placering | Ciceron | Digitalt | Bevaras |  |
-
-<!-- sida 58 -->
-
-21
-
-[Tabell 58-1](handlingar.tabeller/58-1.csv)
-
 |  | Beslut om att ta emot elev från annan<br>kommun | Ciceron | Papper | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 | Hantera tilläggsbelopp | Ansökan om tilläggsstöd | Ciceron | Digitalt | Bevaras |  |
 |  | Underlag till ansökan | Ciceron | Digitalt | Bevaras |  |
 |  | Beslut om tilläggsstöd | Ciceron | Digitalt | Bevaras |  |
@@ -1832,15 +1789,7 @@ kommun                                                                vuxenutbil
 |  | Utdelningar av statsbidrag | Sharepoint | Digitalt | 10 år |  |
 | Hantera stipendier,<br>bidrag och fonder | Underlag/bilagor till ansökan | Ciceron | Digitalt | 3 år |  |
 |  | Ansökan | Ciceron | Digitalt | 3 år |  |
-
-<!-- sida 59 -->
-
-22
-
-[Tabell 59-1](handlingar.tabeller/59-1.csv)
-
 |  | Nomineringar | Ciceron | Digitalt | Bevaras | Avser ”Lära-för-livet” |
-| --- | --- | --- | --- | --- | --- |
 |  | Information till nämnden om<br>nomineringar | Ciceron | Digitalt | Bevaras | Avser ”Lära-för-livet” |
 |  | Beslut om stipendiater | Ciceron | Digitalt | Bevaras |  |
 |  | Korrespondens | Ciceron | Digitalt | Se anm. | Rutinartad korrespondens gallras vid<br>inaktualitet. Korrespondens som<br>tillför sakuppgift till ärendet<br>registreras i Ciceron och gallras efter<br>3 år. |
@@ -1852,15 +1801,7 @@ kommun                                                                vuxenutbil
 |  | Inventarieförteckning | Samarbetsrum | Digitalt | Bevaras |  |
 |  | Ritningar | Pythagoras | Digitalt | Bevaras |  |
 | Tillhandahålla<br>läroverktyg | Avtal om Digitaltt verktyg | Open E | Digitalt | När elev slutar | Avser avtal om elevdatorer (lån av<br>Digitalta verktyg). |
-
-<!-- sida 60 -->
-
-23
-
-[Tabell 60-1](handlingar.tabeller/60-1.csv)
-
 |  | Rapport om skadade datorer | Open E | Digitalt | Vid inaktualitet |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Registrering av Digitaltt verktyg | Sharepoint | Digitalt | Se anm. | När verktyget kasseras eller personal<br>slutar. |
 | Driva skolbibliotek | Protokoll från biblioteksråd/<br>skolbiblioteksgruppen | Samarbetsrum | Digitalt | Bevaras |  |
 |  | Beståndsregister | Quira | Digitalt | Se anm. | Bibliotekskatalogen hanteras på olika<br>sätt och i olika system för<br>skolbiblioteken. Den uppdateras<br>fortlöpande för in- och utgångna<br>böcker.<br>Av kulturhistoriska skäl ska ett uttag<br>av biblioteksbeståndet ske vart femte<br>år, för att avspegla vad för slags<br>böcker som fanns att tillgå just då. |
@@ -1870,15 +1811,7 @@ kommun                                                                vuxenutbil
 |  | Statistik över låntagare | Quira | Digitalt | Bevaras |  |
 |  | Avtal/förbindelse om lånekort | Pärm | Papper | Se anm. | Gallras när elever slutar, senast i<br>början av nästa hösttermin. |
 | 5.1.4 Processgrupp: Tillhandahålla skolskjuts och elevresor |  |  |  |  |  |
-
-<!-- sida 61 -->
-
-24
-
-[Tabell 61-1](handlingar.tabeller/61-1.csv)
-
 | 5.1.4.1 Process: Tillhandahålla skolskjuts och elevresor |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Hantera skolskjuts | Information från Hallandstrafiken och<br>andra aktörer | Samarbetsrum | Digitalt | 1 år | Ex. vilka bussbolag som är<br>upphandlade. Kortens giltighet,<br>tidsperiod etc. |
 |  | Lista för busskort till elever | Skolportalen<br>Västtrafik | Digitalt | Vid läsårsstart | Skolportalen tillhandahåller systemet<br>Skolportalen. |
@@ -1891,30 +1824,14 @@ kommun                                                                vuxenutbil
 |  | Ansökan om taxi | Ciceron | Digitalt | Bevaras | Gäller endast vid avslag. |
 |  | Korrespondens med berörd | Ciceron | Digitalt | Bevaras | Gäller endast vid avslag. |
 |  | Överklagan av beslut om skolskjuts | Ciceron | Digitalt | Bevaras | För hantering av överklagan, se<br>separat kommungemensam<br>ledningsprocess 1.4.4.1. |
-
-<!-- sida 62 -->
-
-25
-
-[Tabell 62-1](handlingar.tabeller/62-1.csv)
-
 | 5.1.5 Processgrupp: Hantera avvikelser och anmälningar |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | 5.1.5.1 Process: Hantera avvikelser och anmälningar |  |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Hantera avvikelser och<br>klagomål inom<br>elevhälsan | Medicinsk och psykologisk<br>avvikelserapport | Prorenata | Digitalt | Se anm. | Enskilda rapporterade händelser<br>gallras efter 10 år, om de granskats i<br>en händelse- eller riskanalys, där en<br>sammanställning gjorts för<br>rapportering och uppföljning av mål<br>och resultat som sedan bevaras.<br>Gallring av enskilda<br>avvikelserapporter får inte ske om<br>dessa behövs för vårdgivarens<br>uppföljning, eller för ev. framtida<br>utredningar i disciplin- eller<br>patientskadeärenden. |
 |  | Klagomål inkomna direkt till vårdenhet<br>eller via patientnämnd (motsv.) | Ciceron | Digitalt | Se anm. | Avser skriftliga klagomål till<br>vårdenhet inom den egna<br>vårdgivaren.<br>Klagomål av betydelse för<br>verksamheten<br>bevaras. Klagomål av tillfällig eller<br>ringa karaktär gallras vid inaktualitet. |
 |  | Klagomål via IVO | Ciceron | Digitalt | Bevaras | Avser klagomål som gäller vårdenhet<br>inom den egna vårdgivaren. |
 | Ta emot och utreda<br>klagomål på<br>utbildningen | Klagomålsanmälan | Ciceron | Digitalt | Bevaras | Klagomål kan komma både från<br>elev/vårdnadshavare och via<br>Skolinspektionen. |
-
-<!-- sida 63 -->
-
-26
-
-[Tabell 63-1](handlingar.tabeller/63-1.csv)
-
 |  | Klagomålsutredning<br>(avvikelseutredning) | Ciceron | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Beslut om åtgärder | Ciceron | Digitalt | Bevaras |  |
 |  | Uppföljning av vidtagna åtgärder | Ciceron | Digitalt | Bevaras |  |
 | Göra anmälningar | Anmälan till myndighet med anledning<br>av självrapporteringskrav | Kia | Digitalt | Bevaras | Ex. anmälan om olycksfall och<br>tillbud. För personuppgiftsincident se<br>kommungemensam<br>dokumenthanteringsplan för<br>ledningsprocesser. |
@@ -1926,15 +1843,7 @@ kommun                                                                vuxenutbil
 |  | Redovisning av vidtagna åtgärder | Ciceron | Digitalt | Bevaras |  |
 | 5.1.6 Processgrupp: Tillhandahålla elevhälsa |  |  |  |  |  |
 | Beskrivning: Handlingarna inom elevhälsans insatser är uppdelade efter dess olika professioner, då dessa jobbar självständigt och har sekretessplikt i förhållande till<br>varandra. Handlingarna inom respektive yrkeskategori förtecknas senare separat.<br>Inom elevhälsan samlas all löpande dokumentation som ska bevaras i elevhälsans verksamhetssystem Prorenta. Pappershandlingar skannas antingen in i systemet, eller<br>så antecknas dess relevanta uppgifter i journalen innan dessa gallras.<br>För asylsökande, gömda elever eller elever med skyddad identitet sker all dokumentation enbart i pappersform, och förvaras i respektive skolas Närarkiv. |  |  |  |  |  |
-
-<!-- sida 64 -->
-
-27
-
-[Tabell 64-1](handlingar.tabeller/64-1.csv)
-
 |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | 5.1.6.1 Process: Hantera patientsäkerhet |  |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Rutiner, anvisningar till<br>personalen | Ledningssystem för skolsköterskor och<br>psykologer | Ciceron | Digitalt | Bevaras | Avser vårdgivarens (nämndens)<br>medicinska kvalitetsledningssystem<br>för skolsköterskor, skolläkare och<br>skolpsykolog. |
@@ -1947,15 +1856,7 @@ kommun                                                                vuxenutbil
 | Digitalt<br>informationssäkerhet | Beställning gällande behörigheter | Samarbetsrum | Digitalt | 5 år | 5 år efter avslutad anställning.<br>Respektive chef beställer<br>behörigheter till elevhälsans<br>professioner. |
 |  | Register på konsulter som får<br>behörigheter för att stödja användare | Samarbetsrum | Digitalt | 5 år | 5 år efter avslutad anställning.<br>Systemadministratören beställer<br>behörigheter till konsulterna. |
 |  | Logg på oegentliga inloggningar | Prorenata | Digitalt | 10 år | Systemförvaltare och administratörer<br>granskar loggarna. |
-
-<!-- sida 65 -->
-
-28
-
-[Tabell 65-1](handlingar.tabeller/65-1.csv)
-
 |  | Utredning på oegentliga loggar i<br>elevhälsosystemet | Prorenata | Digitalt | 10 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Logg i elevakter/journaler | Prorenata | Digitalt | 10 år |  |
 |  | Logg på konsulter | Prorenata | Digitalt | 10 år |  |
 |  | Inkommande information om loggar | Prorenata | Digitalt | 10 år |  |
@@ -1968,15 +1869,7 @@ kommun                                                                vuxenutbil
 | Beskrivning: För asylsökande, gömda elever eller elever med skyddad identitet sker all dokumentation enbart i pappersform, och förvaras i respektive skolas Närarkiv.<br>Därför kan två förvaringsplatser anges för samma handling. |  |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Medicinska insatser | Skolhälsovårdsjournal | Prorenata | Digitalt | Bevaras |  |
-
-<!-- sida 66 -->
-
-29
-
-[Tabell 66-1](handlingar.tabeller/66-1.csv)
-
 |  | Självskattning, underlag för hälsosamtal | Prorenata | Digitalt | Bevaras | Avser underlag för hälsosamtal.<br>Fysisk handling gallras 24 timmar<br>efter att dokumentation överförts till<br>journalen. |
-| --- | --- | --- | --- | --- | --- |
 |  | Hälsouppgift från vårdnadshavare | Prorenata | Digitalt | Bevaras | Fysisk handling gallras 24 timmar<br>efter att handlingen skannats och<br>förts till journalen samt betryggande<br>anteckning gjorts i journalen. |
 |  | Kostintyg, kopia | Akt i dokumentskåp | Papper | Se anm. | Gallras efter att anteckning gjorts i<br>journalen, ska ej skannas. Original<br>finns hos kostenheten. |
 |  | Läkarintyg | Prorenata | Digitalt | Bevaras | Inkomna intyg gallras 24 timmar<br>efter att de skannats och förts till<br>journalen. |
@@ -1984,15 +1877,7 @@ kommun                                                                vuxenutbil
 |  | Vaccinationsmedgivande | Prorenata | Digitalt | Bevaras | Skannas och förs till journalen.<br>Fysisk handling gallras efter 24<br>timmar. |
 |  | Korrespondens | Prorenata | Digitalt | Se anm. | Relevant korrespondens förs till<br>journalen. Korrespondens av<br>rutinmässig karaktär gallras vid<br>inaktualitet. |
 |  | Remisser | Prorenata | Digitalt | Bevaras | Remisser skrivs i Prorenata eller<br>skannas in i journalen. |
-
-<!-- sida 67 -->
-
-30
-
-[Tabell 67-1](handlingar.tabeller/67-1.csv)
-
 |  |  |  |  |  | Pappersremisser gallras efter att<br>betryggande dokumentation gjorts i<br>journalen och gallras 24 timmar efter<br>att den har skannats. |
-| --- | --- | --- | --- | --- | --- |
 |  | Remissbekräftelse och remissvar | Prorenata | Digitalt | Bevaras | Skannas och förs till journalen.<br>Fysisk handling gallras efter 24<br>timmar. |
 |  | Medgivande för inhämtande av<br>journalkopior, kopia | Akt i dokumentskåp | Papper | Se anm. | Gallras när journal inkommit,<br>original finns hos utlämnande<br>myndighet. |
 |  | Samtycke att överlämna journalkopia<br>till mottagande skola. | Prorenata | Digitalt | Bevaras | Inkomna (när vi lämnar ut en journal):<br>skannas till Prorenata, fysisk handling<br>kan gallras efter 24 timmar. |
@@ -2002,15 +1887,7 @@ kommun                                                                vuxenutbil
 |  | Barnhälsovårds- och<br>skolhälsovårdsjournal, (andra<br>vårdgivare), kopia | Se anm. | Papper | Se anm. | Viktigare journalkopior förs till<br>Prorenata och pappersjournalen.<br>Journalkopior av annan karaktär<br>gallras vid inaktualitet. |
 | 5.1.6.4 Process: Tillhandahålla psykologiska insatser |  |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-
-<!-- sida 68 -->
-
-31
-
-[Tabell 68-1](handlingar.tabeller/68-1.csv)
-
 | Psykologiska insatser | Psykologjournal | Prorenata | Digitalt | Bevaras | För asylsökande, gömda elever eller<br>elever med skyddad identitet sker<br>dokumentation för samtliga handlingar<br>enbart i pappersform, och förvaras i<br>journalskåp i respektive skolas<br>närarkiv. |
-| --- | --- | --- | --- | --- | --- |
 |  | Testmaterial | Akt i dokumentskåp | Papper | Bevaras | Omfattas ofta av<br>instrumentsekretess. |
 |  | Utlåtande, bedömning från psykologiskt<br>test | Prorenata/<br>Akt i dokumentskåp | Digitalt/<br>Papper\* | Bevaras | \* Om utlåtande, bedömning<br>innehåller delar ur testet ska dessa<br>inte ligga i Prorenata utan endast i<br>pappersjournal. |
 |  | Självskattningsinstrument | Prorenata/<br>Akt i dokumentskåp | Digitalt<br>/<br>Papper | Se anm. | Självskattningsinstrument av<br>betydelse för undersökning,<br>bedömning, beslut, diagnos eller<br>uppföljning bevaras.<br>Självskattningsinstrument etc. av<br>tillfällig eller ringa betydelse gallras<br>vid inaktualitet. |
@@ -2018,15 +1895,7 @@ kommun                                                                vuxenutbil
 |  | Pedagogiskt utlåtande, kopia | Akt i dokumentskåp | Papper | Vid inaktualitet | Original bevaras i den pedagogiska<br>verksamheten. |
 |  | Korrespondens | Prorenata | Digitalt | Se anm. | Relevant korrespondens förs till<br>journalen. Korrespondens av<br>rutinmässig karaktär gallras vid<br>inaktualitet. |
 |  | Remiss | Prorenata | Digitalt | Bevaras | Pappershandling förvaras i<br>pappersjournal eller gallras 24<br>timmar efter skanning till Prorenata. |
-
-<!-- sida 69 -->
-
-32
-
-[Tabell 69-1](handlingar.tabeller/69-1.csv)
-
 |  | Medgivande för inhämtande av<br>journalkopior, kopia | Prorenata | Digitalt | Se anm. | Gallras när journal inkommit,<br>original finns hos utlämnande<br>myndighet. |
-| --- | --- | --- | --- | --- | --- |
 |  | Samtycke att överlämna journalkopia<br>till mottagande skola. | Prorenata | Digitalt | Bevaras | Inkomna (när vi lämnar ut en journal):<br>skannas till Prorenata, fysisk handling<br>kan gallras efter 24 timmar. |
 |  | Remissbekräftelse och remissvar | Prorenata | Digitalt | Bevaras | Skannas och förs till journalen.<br>Fysisk handling gallras efter 24<br>timmar. |
 |  | Psykologjournal, original | Prorenata | Digitalt | Se anm. | Åter till ansvarig vårdgivare efter att<br>journalen kopierats eller betryggande<br>dokumentation har gjorts. |
@@ -2035,15 +1904,7 @@ kommun                                                                vuxenutbil
 | 5.1.6.5 Process: Tillhandahålla psykosociala (kurativa) insatser |  |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Psykosociala (kurativa)<br>insatser | Kuratorsakt | Prorenata | Digitalt | Bevaras | För asylsökande, gömda elever eller<br>elever med skyddad identitet sker<br>dokumentation för samtliga handlingar<br>enbart i pappersform, och förvaras i<br>journalskåp i respektive skolas<br>närarkiv. |
-
-<!-- sida 70 -->
-
-33
-
-[Tabell 70-1](handlingar.tabeller/70-1.csv)
-
 |  |  |  |  |  | Relevant dokumentation förs till<br>kurators-/gemensamma elevakten<br>beroende på graden av sekretess.<br>Dokumentation av annan karaktär<br>gallras vid inaktualitet. |
-| --- | --- | --- | --- | --- | --- |
 |  | Självskattningsinstrument | Prorenata/Akt<br>i<br>dokumentskåp | Digitalt/Papper | Se anm. | Självskattningsinstrument av<br>betydelse för undersökning,<br>bedömning, beslut, diagnos eller<br>uppföljning bevaras.<br>Självskattningsinstrument etc. av<br>tillfällig eller ringa betydelse gallras<br>vid inaktualitet. |
 |  | Pedagogiskt utlåtande, kopia | Akt i dokumentskåp | Papper | Bevaras | Original bevaras i den pedagogiska<br>verksamheten. |
 |  | Korrespondens | Prorenata | Digitalt | Se anm. | Relevant korrespondens förs till<br>kuratorsakten. Korrespondens av<br>rutinartad karaktär gallras vid<br>inaktualitet. |
@@ -2052,15 +1913,7 @@ kommun                                                                vuxenutbil
 |  | Medgivande för inhämtande av kurators<br>dokumentation på annan<br>myndighet/skola, kopia | Prorenata/<br>Akt i dokumentskåp | Digitalt/Papper | Se anm. | Gallras när dokumentation<br>inkommit. Original finns hos<br>utlämnande myndighet. |
 |  | Samtycke att överlämna kopia på<br>kuratorsakt till mottagande skola | Prorenata/<br>Akt i dokumentskåp | Digitalt<br>/<br>Papper | Bevaras | Inkomna (när vi lämnar ut en journal):<br>skannas till Prorenata, fysisk handling<br>kan gallras efter 24 timmar. |
 |  | Remissbekräftelse och remissvar/svar<br>på brev angående elev | Prorenata | Digitalt | Bevaras | Skannas och förs till journalen.<br>Fysisk handling gallras efter 24<br>timmar. |
-
-<!-- sida 71 -->
-
-34
-
-[Tabell 71-1](handlingar.tabeller/71-1.csv)
-
 |  | Kurators dokumentation från annan<br>myndighet, kopia | Prorenata | Digitalt | Se anm. | Relevant dokumentation förs till<br>journalen. Dokumentation av annan<br>karaktär gallras vid inaktualitet. |
-| --- | --- | --- | --- | --- | --- |
 |  | Bedömning, utlåtande från annan<br>myndighet, kopia | Prorenata | Digitalt | Se anm. | Relevant dokumentation förs till<br>journalen. Dokumentation av annan<br>karaktär gallras vid inaktualitet. |
 | 5.1.6.6 Process: Tillhandahålla skolledarinsatser |  |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
@@ -2068,29 +1921,13 @@ kommun                                                                vuxenutbil
 |  | Medgivande för inhämtande av rektors<br>dokumentation på annan<br>myndighet/skola, kopia | Prorenata | Digitalt | Se anm. | Gallras när dokumentation<br>inkommit. Original finns hos<br>utlämnande myndighet. |
 |  | Samtycke att överlämna rektorsakt till<br>mottagande skola | Prorenata | Digitalt | Bevaras | Inkomna (när vi lämnar ut en journal):<br>skannas till Prorenata fysisk handling<br>kan gallras efter 24 timmar. |
 |  | Rektors dokumentation från annan<br>myndighet, kopia | Prorenata | Digitalt | Se anm. | Relevant dokumentation förs till<br>rektors-/gemensamma elevakten<br>beroende på graden av sekretess.<br>Dokumentation av annan karaktär<br>gallras vid inaktualitet. |
-
-<!-- sida 72 -->
-
-35
-
-[Tabell 72-1](handlingar.tabeller/72-1.csv)
-
 | 5.1.6.7 Process: Tillhandahålla specialpedagogiska insatser |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Specialpedagogiska<br>insatser | Specialpedagogakt | Prorenata | Digitaltt | Bevaras | För asylsökande, gömda elever eller<br>elever med skyddad identitet sker<br>dokumentation för samtliga<br>handlingar enbart i pappersform, och<br>förvaras i journalskåp i respektive<br>skolas närarkiv.<br>Relevant dokumentation förs till<br>specialpedagogs-/gemensamma<br>elevakten beroende på graden av<br>sekretess. Dokumentation av annan<br>karaktär gallras vid inaktualitet. |
 |  | Screening | Prorenata | Digitalt | Vid inaktualitet | Kan ingå i utredningen om särskilt<br>stöd, se process 5.7.1.4, 5.7.1.5 eller<br>5.7.1.6. Vid hög sekretess förvaras<br>det i Prorenata, annars i Vklass |
 |  | Pedagogisk kartläggning |  | Digitalt | Se anm. | Observation av hinder och<br>möjligheter i skolmiljön av betydelse<br>för bedömning, beslut och åtgärd<br>bevaras.<br>Kan ingå i utredningen om särskilt<br>stöd, se process 5.7.1.4, 5.7.1.5 eller<br>5.7.1.6. Vid hög sekretess förvaras det<br>i PMO, annars i Vklass.<br>Om dokumentationen är av tillfällig<br>eller ringa karaktär gallras den vid<br>inaktualitet. |
 |  | Pedagogisk bedömning | Prorenata | Digitalt | Bevaras |  |
-
-<!-- sida 73 -->
-
-36
-
-[Tabell 73-1](handlingar.tabeller/73-1.csv)
-
 |  | Korrespondens | Prorenata | Digitalt | Se anm. | Relevant korrespondens förs till<br>specialpedagogakten. Korrespondens<br>av rutinmässig karaktär gallras vid<br>inaktualitet. |
-| --- | --- | --- | --- | --- | --- |
 |  | Rekvisition för inhämtande av<br>specialpedagogakt på annan skola,<br>kopia | Prorenata | Digitalt | Se anm. | Gallras när dokumentation<br>inkommit. Original finns hos<br>utlämnande myndighet. |
 |  | Samtycke att överlämna kopia på<br>specialpedagogakt till mottagande skola | Prorenata | Digitalt | Bevaras | Inkomna (när vi lämnar ut en journal):<br>skannas till Prorenata, fysisk handling<br>kan gallras efter 24 timmar. |
 |  | Medgivande för inhämtande av<br>bedömning, utlåtande från utredande<br>instans, kopia | Prorenata | Digitalt | Se anm. | Gallras när dokumentation<br>inkommit. Original finns hos<br>utlämnande myndighet. |
@@ -2099,15 +1936,7 @@ kommun                                                                vuxenutbil
 | Beskrivning: Handlingarna inom processen elevhälsans gemensamma insatser är, till skillnad från de övriga, inte sekretesskyddad per profession. I denna process har<br>därmed elevhälsans samtliga yrkeskategorier tillgång. |  |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Elevhälsans<br>gemensamma insatser | Gemensam elevakt | Prorenata | Digitalt | Bevaras | I den gemensamma elevakten arbetar<br>skolsköterskan, skolläkare,<br>skolkurator, psykolog, rektor och<br>specialpedagog. |
-
-<!-- sida 74 -->
-
-37
-
-[Tabell 74-1](handlingar.tabeller/74-1.csv)
-
 |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Egenvårdplan, intyg etc | Prorenata | Digitalt | Bevaras |  |
 |  | Kostintyg, kopia | Prorenata | Digitalt | Vid inaktualitet | Original finns hos kostenheten. |
 |  | Olycksfallsrapport | Prorenata | Digitalt | Bevaras | Hanteras enligt anvisning på första<br>sidan i blanketten. |
@@ -2122,30 +1951,14 @@ kommun                                                                vuxenutbil
 | Samverka med andra<br>aktörer | Kallelse | Samarbetsrum | Digitalt | 2 år | För samråd som berör elever så kan<br>kopia läggas in i Vklass. |
 |  | Protokoll från forum för samråd | Samarbetsrum | Digitalt | Bevaras | För samråd som berör elever så kan<br>kopia läggas in i Vklass. |
 |  | Förslag från forum för samråd | Samarbetsrum | Digitalt | Bevaras | För samråd som berör elever så kan<br>kopia läggas in i Vklass. |
-
-<!-- sida 75 -->
-
-38
-
-[Tabell 75-1](handlingar.tabeller/75-1.csv)
-
 | Hantera lokal<br>samverkansgrupp | Kallelse | Samarbetsrum | Digitalt | 2 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Möteshandling | Samarbetsrum | Digitalt | Se anm. | Handlingar som används som<br>beslutsunderlag hanteras i enlighet<br>med kommunens regler för<br>ärendehantering och bevaras.<br>Handlingar som används för<br>informationspunkter och<br>presentationer gallras vid<br>inaktualitet. |
 |  | Protokoll | Närarkiv | Papper | Bevaras | Kopia scannas in Digitaltt och läggs i<br>samarbetsrum. |
 | Hantera kategoriträffar<br>och kollegiala möten | Minnesanteckning | Samarbetsrum | Digitalt | Se anm. | Anteckningar som endast fungerat<br>som ett stöd under mötet och som<br>saknar beslut och inte kan ses vara av<br>betydelse för verksamheten, kan<br>gallras direkt. |
 | Bedriva systematiskt<br>kvalitetsarbete på<br>enhetsnivå | Lokalt utarbetad enkät | Samarbetsrum | Digitalt | Se anm. | Svaren ska gallras när en<br>sammanställning har gjorts av dem<br>om de innehåller personuppgifter.<br>Sammanställningen bevaras<br>tillsammans med ett obesvarat<br>frågeformulär. |
 |  | Uppföljning av systematiskt<br>kvalitetsarbete | Ciceron | Digitalt | Bevaras | Årlig sammanställning. |
 |  | Kursutvärdering | Forms | Digitalt |  | När sammanställning är klar, ska de<br>gallras. |
-
-<!-- sida 76 -->
-
-39
-
-[Tabell 76-1](handlingar.tabeller/76-1.csv)
-
 |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | 5.7.0.2 Process: Styra |  |  |  |  |  |
 | Hantera lokala<br>styrdokument | Styrdokument | Ciceron | Digitalt | Bevaras | Avser övriga handlingar som<br>beskriver vad och varför en uppgift<br>ska utföras. |
 |  | Handledning | Se anm. | Se anm. | Se anm. | Avser handlingar som beskriver hur<br>en uppgift ska utföras t.ex. lathundar<br>och rutinbeskrivningar.<br>Handledningar av uppgifter kopplat<br>till skolhälsovården ska registreras i<br>Ciceron och bevaras. Övriga<br>handledningar hanteras i<br>samarbetsrum och kan gallras vid<br>inaktualitet. |
@@ -2160,15 +1973,7 @@ kommun                                                                vuxenutbil
 |  | Skriftlig varning | Prorenata | Digitalt | Bevaras |  |
 |  | Beslut om åtgärder för att upprätthålla<br>trygghet och studiero (disciplinära<br>åtgärder) | Prorenata | Digitalt | Bevaras |  |
 | 5.7.0.3 Process: Organisera |  |  |  |  |  |
-
-<!-- sida 77 -->
-
-40
-
-[Tabell 77-1](handlingar.tabeller/77-1.csv)
-
 | Planera och följa upp<br>läsår | Organisationsplan/läsårsöversikt | Samarbetsrum | Digitalt | Se anm. | Uppdateras fortlöpande. |
-| --- | --- | --- | --- | --- | --- |
 |  | Anmälan om val av studieinriktning | Skolplatsen | Digitalt/Papper | Se anm. | Registreras i Skolplatsen och kan<br>gallras när elev slutar skolan. |
 |  | Elevhistorik | Skolplatsen | Digitalt | Bevaras | ”Elevkort”. Avser uppgifter om elevs<br>studieplan, tillval, språkval, elevens<br>val, studieavbrott, elevhändelse –<br>utflyttad mm. (klasstillhörighet,<br>skolor etc.). |
 |  | Klasslista | Skolplatsen | Digitalt | Bevaras |  |
@@ -2178,15 +1983,7 @@ kommun                                                                vuxenutbil
 |  | Information av kortvarig betydelse | Vklass | Digitalt | Se anm. | Information till<br>elever/vårdnadshavare, till exempel<br>om klassresa kan gallras vid<br>inaktualitet. |
 |  | Rutinkorrespondens med elever och<br>vårdnadshavare | Se anm. | Se anm. | Se anm. | Avser olika typer av<br>upplysningar/medgivanden som kan<br>komma in på olika sätt med kortvarig<br>betydelse, kan gallras vid<br>inaktualitet. |
 | Hantera skyddade<br>personuppgifter | Individuell handlingsplan för skyddad<br>identitet | Närarkiv | Papper | Efter avslutad<br>skolgång |  |
-
-<!-- sida 78 -->
-
-41
-
-[Tabell 78-1](handlingar.tabeller/78-1.csv)
-
 |  | Medgivandeblankett från<br>vårdnadshavare att skydd upphävs på<br>deras ansvar | Närarkiv | Papper | Efter avslutad<br>skolgång |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Blankett om hantering av<br>personuppgifter | Närarkiv | Papper | Bevaras |  |
 | Schemalägga | Elevschema | Skola 24 | Digitalt | Efter avslutad<br>skolgång |  |
 |  | Klasschema | Skola 24 | Digitalt | Bevaras |  |
@@ -2202,30 +1999,14 @@ kommun                                                                vuxenutbil
 |  | Överlämnad dokumentation från andra<br>skolor | Ciceron | Digitalt | Bevaras | T.ex. betygskopior från annan<br>kommun.<br>Papperskopia gallras efter<br>inskanning. |
 |  | Blankett för val och byte av skola | Närarkiv | Papper | 1 år |  |
 |  | Avslagsbeslut om placering | Ciceron | Digitalt | Bevaras |  |
-
-<!-- sida 79 -->
-
-42
-
-[Tabell 79-1](handlingar.tabeller/79-1.csv)
-
 |  | Pedagogisk överlämning till nationella<br>program och introduktionsprogram från<br>grundskolan | Vklass | Digitalt | Bevaras | För IM-elever finns även en elevakt<br>(i låst arkivskåp) där kopior på<br>underlag vid överlämning och<br>löpande minnes- och<br>mötesanteckningar kan hanteras<br>under elevens studietid. Kopiorna<br>gallras efter avslutad studietid. |
-| --- | --- | --- | --- | --- | --- |
 |  | Mötesanteckningar och korrespondens<br>kring överlämning | Vklass | Digitalt | Efter avslutad<br>skolgång | Anteckningar av betydelse som tas i<br>samband med överlämning till<br>nationella program och<br>introduktionsprogram kan noteras i<br>Vklass. |
 |  | Studieplan och val | Skolplatsen | Digitalt | Bevaras |  |
 |  | Placering för elev | Skolplatsen | Digitalt | Bevaras | Det är viktigt att inte ta bort tidigare<br>placeringar för elever när ny<br>placering görs. |
 |  | Beslut om senare antagning<br>(inskrivningsblankett) | Pärm | Papper | Se anm. | Kan gallras när elev slutat skolan. |
 |  | Antagningsstatistik | Ciceron | Digitalt | Bevaras | Uppgifter som ger en<br>sammanfattning av antagningen, t.ex.<br>antal antagna per utbildning och<br>behörighet, kvoter etc. |
 |  | Rutinkorrespondens | Se anm. | Se anm. | Se anm. | Rutinmässig korrespondens av ringa<br>betydelse rörande antagning,<br>ansökningar etc. kan gallras vid<br>inaktualitet. |
-
-<!-- sida 80 -->
-
-43
-
-[Tabell 80-1](handlingar.tabeller/80-1.csv)
-
 |  | Yttrande/beslut över skolgång i annan<br>kommun samt mottagningsbeslut för<br>elever utanför GR-kommunerna | Sharepoint | Digitalt | 1 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Yttrande från elevers hemkommuner<br>kring vårdnadshavares/elev önskemål<br>om utbildningsplats i annan kommun<br>samt beslut att ta emot elev från annan<br>kommun | Sharepoint | Digitalt | 1 år |  |
 |  | Avtal om ersättning för mottagande av<br>elev samt för elev med placering i<br>annan kommun | Närarkiv | Papper | Se anm. | Efter avslutad skolgång. |
 |  | Förteckning eller register över elever<br>som går i skolan i en annan kommun | Närarkiv | Papper | Bevaras | Listor tas ut vid september och<br>februari. Uppgifterna skrivs ut från<br>Indra, information/sök elev. I rutan<br>urval i högra hörnet välj ruta Val<br>utanför GR.<br>Uppgift om skolkommun bör finnas i<br>registret eftersom uppgifter rörande<br>eleven kan behöva sökas även efter<br>mycket lång tid. |
@@ -2235,15 +2016,7 @@ kommun                                                                vuxenutbil
 |  | Beslut om förändrad studiegång | Ciceron | Digitalt | Bevaras |  |
 |  | Överklagan | Ciceron | Digitalt | Bevaras | För hantering av överklagan, se<br>separat kommunövergripande<br>process ”Hantera överklagande och<br>omprövning” (1.4.4.1). |
 | Administrera<br>sommarskola | Ansökan om sommarskola | E-tjänst | Digitalt | Se anm. | Gallras när eleven genomfört<br>sommarskola. |
-
-<!-- sida 81 -->
-
-44
-
-[Tabell 81-1](handlingar.tabeller/81-1.csv)
-
 | 5.7.1.2 Process: Registrera närvaro och förebygga skolfrånvaro |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Följa upp närvaro | Närvarolista | Vklass | Digitalt | 3 år efter avslutad<br>skolgång |  |
 |  | Rapport över när- och frånvaro | Vklass | Digitalt | 3 år efter avslutad<br>skolgång |  |
 | Bevilja eller avslå<br>ledighet | Beviljad ansökan om ledighet | Vklass | Digitalt | Se anm. | Gallras när eleven slutat skolan. |
@@ -2257,15 +2030,7 @@ kommun                                                                vuxenutbil
 |  | Kunskapskrav, matriser (ämnesvis,<br>övergripande) | Vklass | Digitalt | Bevaras | Undervisningsmaterial kopplade till<br>kunskapskrav. |
 |  | Visad kunskap (Samlad bedömning) | Vklass | Digitalt | Bevaras |  |
 |  | Elevportfolio | Vklass | Digitalt | Efter att slutbetyg<br>är satt | Avser handlingar som produceras av<br>eleven. |
-
-<!-- sida 82 -->
-
-45
-
-[Tabell 82-1](handlingar.tabeller/82-1.csv)
-
 |  | Elevlogg | Vklass | Digitalt | Vid läsårets slut | Löpande dokumentation om lärandet<br>på individnivå. |
-| --- | --- | --- | --- | --- | --- |
 |  | Handlingar rörande praktik och beslut<br>om praktikplacering | Praktikplatsen.se/Me<br>ntor | Digitalt/Papper | Vid inaktualitet | Pågår test med Digitaltt förfarande via<br>Praktikplatsen.se. Gäller handledning<br>för t.ex. arbetsplatskontakter,<br>praktikbesked, omdömen. |
 |  | Sammanställning över genomförd<br>praktik | Närarkiv | Papper | Bevaras | Uppgifter om genomförd praktik<br>dokumenteras. |
 |  | Praktikintyg | Närarkiv | Papper | Efter avslutad<br>skolgång |  |
@@ -2282,15 +2047,7 @@ kommun                                                                vuxenutbil
 | Utreda behov av<br>särskilt stöd | Utredning | Vklass | Digitalt | Bevaras |  |
 | Tillgodose stödbehov | Beslut om åtgärdsprogram | Ciceron | Digitalt | Bevaras | Administreras i Vklass, undertecknat<br>beslut läggs in i Ciceron. |
 | Utvärdera stödåtgärder | Utvärdering av åtgärdsprogram | Vklass | Digitalt | Bevaras |  |
-
-<!-- sida 83 -->
-
-46
-
-[Tabell 83-1](handlingar.tabeller/83-1.csv)
-
 | Inhämta information<br>och kommunicera | Mötesanteckning kring särskilt stöd | Vklass | Digitalt | Se anm. | Kan gallras när relevanta uppgifter är<br>dokumenterade i modulen om<br>särskilt stöd i Vklass. |
-| --- | --- | --- | --- | --- | --- |
 |  | Korrespondens kring särskilt stöd | Prorenata | Digitalt | Se anm. | Korrespondens av betydelse bevaras<br>(medicinskt Prorenata) annars<br>hanteras det i Vklass. Korrespondens<br>av ringa karaktär gallras vid<br>inakualitet. |
 | 5.7.1.6 Process: Genomföra prov och sätta betyg |  |  |  |  |  |
 | Genomföra prov | Prov, ej nationella | Se anm. | Se anm. | Efter kursens slut | Avser elevlösningar från<br>diagnostiska prov, läxförhör, tester<br>och andra elevarbeten etc.<br>Kan vara både Digitalta och i<br>pappersform. Pappersform sparas<br>hos läraren i låst skåp, Digitaltt<br>sparas i aktuellt system. |
@@ -2300,15 +2057,7 @@ kommun                                                                vuxenutbil
 |  | Nationella prov, sammanställning av<br>resultat, övriga ämnen | Skolplatsen | Digitalt | 5 år |  |
 |  | Lärarhandledning för nationella prov | Skolans Närarkiv | Papper | 5 år |  |
 |  | Texthäften till nationella prov | Skolans Närarkiv | Papper | 5 år |  |
-
-<!-- sida 84 -->
-
-47
-
-[Tabell 84-1](handlingar.tabeller/84-1.csv)
-
 | Sätta betyg | Slutbetyg | Skolans Närarkiv | Papper | Bevaras | Avser kopia på slutbetyg. Original<br>avhändas till elev. Ska arkiveras i<br>kommunarkivet efter 5 år. |
-| --- | --- | --- | --- | --- | --- |
 |  | Betygskatalog | Skolans Närarkiv | Papper | Bevaras | Ska arkiveras i kommunarkivet efter<br>5 år. |
 |  | Resultat av prövning | Skolans Närarkiv | Papper | Bevaras | Bör förvaras tillsammans med<br>betygskatalog eller individuella<br>betyget. Ska arkiveras i<br>kommunarkivet efter 5 år. |
 |  | Samlat betygsdokument/studiebevis,<br>kopia. För elever som ej får slutbetyg. | Skolans Närarkiv | Papper | Bevaras | Avser kopia på slutbetyg. Original<br>avhändas till elev. Ska arkiveras i<br>kommunarkivet efter 5 år. |
@@ -2320,15 +2069,7 @@ kommun                                                                vuxenutbil
 | 5.7.1.8 Process: Driva gymnasial lärlingsutbildning |  |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Gymnasial<br>lärlingsutbildning | Ansökning om att anordna gymnasial<br>lärlingsutbildning, med tillhörande<br>bilaga | Ciceron | Digitalt | Bevaras |  |
-
-<!-- sida 85 -->
-
-48
-
-[Tabell 85-1](handlingar.tabeller/85-1.csv)
-
 |  | Avtal mellan skolhuvudmannen och<br>mottagande arbetsplatser | Ciceron | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Protokoll, lärlingsråd | Ciceron | Digitalt | Bevaras |  |
 |  | Dokumentation av lärlingsarbetet | Ciceron | Digitalt | Bevaras | Dokumentation av allmänt intresse<br>t.ex. om utvecklingen av<br>lärlingsprogrammet. |
 |  | Utbildningskontrakt | Skolans närarkiv | Papper | Bevaras |  |
@@ -2341,15 +2082,7 @@ kommun                                                                vuxenutbil
 |  | Medicinsk bedömning<br>(mottagningshandling) | Ciceron | Digitalt | Bevaras |  |
 |  | Psykologisk bedömning<br>(mottagningshandling) | Ciceron | Digitalt | Bevaras |  |
 |  | Social bedömning<br>(mottagningshandling) | Ciceron | Digitalt | Bevaras |  |
-
-<!-- sida 86 -->
-
-49
-
-[Tabell 86-1](handlingar.tabeller/86-1.csv)
-
 |  | Medgivande till mottagande | Ciceron | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Mottagningsbeslut | Ciceron | Digitalt | Bevaras | Innehåller en samlad bedömning av<br>pedagogisk, medicinsk, psykologisk<br>och social bedömning. |
 | Följa upp placering i<br>anpassad gymnasieskola | Uppföljningshandlingar av<br>skolformsplacering | Ciceron | Digitalt | Bevaras |  |
 |  | Mötesanteckningar och korrespondens<br>kring överlämning | Närarkiv | Papper | 1 år |  |
@@ -2366,15 +2099,7 @@ kommun                                                                vuxenutbil
 |  | Avslagen ansökan om ledighet | Vklass | Digitalt | Bevaras |  |
 |  | Överklagan av ansökan om ledighet | Ciceron | Digitalt | Bevaras | För hantering av överklagan, se<br>separat kommunövergripande<br>process 1.4.4.1. |
 | Utreda frånvaro | Utredning av problematisk frånvaro | Ciceron | Digitalt | Bevaras |  |
-
-<!-- sida 87 -->
-
-50
-
-[Tabell 87-1](handlingar.tabeller/87-1.csv)
-
 |  | Anmälan om problematisk frånvaro | Ciceron | Digitalt | Bevaras | Omfattar information till andra<br>kommuner som elever är<br>hemmahörande i. |
-| --- | --- | --- | --- | --- | --- |
 | 5.7.2.3 Process: Hantera undervisning och praktik |  |  |  |  |  |
 |  | Undervisningsmaterial | OneDrive | Digitalt | Se anm. | Kan gallras efter att kursen är<br>avslutad, om det är en kurs som ej<br>har betygsatts. Vid betygssättning<br>kan det gallras efter att tiden för<br>omprövning har gått ut.<br>Undervisningsmaterial kan läggas<br>som kopia i Vklass. |
 |  | Planering av undervisning | Vklass | Digitalt | Vid inaktualitet |  |
@@ -2385,15 +2110,7 @@ kommun                                                                vuxenutbil
 |  | Praktikintyg | Närarkiv | Papper | Efter avslutad<br>skolgång |  |
 |  | Individuell studieplan | Skolplatsen | Digitalt | Bevaras |  |
 | 5.7.2.4 Process: Ge modersmålsundervisning |  |  |  |  |  |
-
-<!-- sida 88 -->
-
-51
-
-[Tabell 88-1](handlingar.tabeller/88-1.csv)
-
 | Ge modersmåls-<br>undervisning | Ansökan om modersmålsundervisning<br>och studiehandledning | Närarkiv | Papper | Efter avslutad<br>skolgång | I de fall ansökan kommer in via e-<br>tjänst eller e-mejl, skrivs den ut och<br>förvaras i närarkiv. |
-| --- | --- | --- | --- | --- | --- |
 |  | Avanmälan om<br>modersmålsundervisning | Närarkiv | Papper | Efter avslutad<br>skolgång |  |
 | 5.7.2.5 Process: Upptäcka, utreda och tillgodose behov av särskilt stöd |  |  |  |  |  |
 | Extra anpassningar | Dokumentation av extra anpassningar | Vklass | Digitalt | Efter avslutad<br>skolgång |  |
@@ -2405,15 +2122,7 @@ kommun                                                                vuxenutbil
 |  | Korrespondens kring särskilt stöd | Prorenata | Digitalt | Se anm. | Korrespondens av betydelse bevaras<br>(medicinskt Prorenata) annars<br>hanteras det i Vklass.<br>Korrespondens av ringa karaktär<br>gallras vid inaktualitet. |
 | 5.7.2.6 Process: Genomföra prov och sätta betyg |  |  |  |  |  |
 | Genomföra prov | Prov | Skolans Närarkiv | Papper | Efter läsårets slut | Avser elevlösningar från<br>diagnostiska prov, läxförhör, tester<br>och andra elevarbeten etc. |
-
-<!-- sida 89 -->
-
-52
-
-[Tabell 89-1](handlingar.tabeller/89-1.csv)
-
 | Sätta betyg | Bevis anpassad gymnasieskola | Skolans Närarkiv | Papper | Bevaras | Avser kopia. Original avhändas till<br>elev. Ska arkiveras i kommunarkivet<br>efter 5 år. |
-| --- | --- | --- | --- | --- | --- |
 |  | Betygskatalog | Skolans Närarkiv | Papper | Bevaras | Ska arkiveras i kommunarkivet efter<br>5 år. |
 |  | Skriftliga tester och prov, elevlösningar | Skolans Närarkiv | Papper | Se anm. | Då betyg är satt och då tiden för<br>omprövning av betyg löpt ut. |
 |  | Omprövning av betyg, beslut och<br>handlingar | Skolans Närarkiv | Papper | Bevaras | Ska arkiveras i kommunarkivet efter<br>5 år. |
@@ -2426,15 +2135,7 @@ kommun                                                                vuxenutbil
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Hantera lokalt<br>kvalitetsarbete | Resultat elevenkät | Samarbetsrum | Digitalt | Se anm. | Gallras inför ny avtalsperiod.<br>Enkäten genomförs i enkätverktyg<br>och resultatet tas ut och förvaras i<br>samarbetsrum. |
 |  | Rutiner och riktlinjer för<br>vuxenutbildningen i Kungsbacka<br>kommun | Samarbetsrum | Digitalt | Bevaras | Kopplat till upphandlade avtal och<br>avtalsperiod med leverantörer av<br>vuxenutbildning. |
-
-<!-- sida 90 -->
-
-53
-
-[Tabell 90-1](handlingar.tabeller/90-1.csv)
-
 |  | Avvikelsehantering, registrering | Samarbetsrum | Digitalt | Se anm. | Avvikelsehantering (Excelfil)<br>Gallras när årsrapport är klar. |
-| --- | --- | --- | --- | --- | --- |
 |  | Avvikelserapport | Samarbetsrum | Digitalt | Bevaras | Gäller upphandlade skolor. |
 |  | Kvalitetsredovisning | Ciceron | Digitalt | Bevaras |  |
 |  | Granskning av upphandlade skolor,<br>slutrapport | Ciceron | Digitalt | Bevaras |  |
@@ -2444,15 +2145,7 @@ kommun                                                                vuxenutbil
 |  | Betygskatalog | Närarkiv | Papper | Bevaras | Betyg och intyg ska kunna<br>sammanställas för varje enskild<br>deltagare. |
 |  | Betygskopia av slutbetyg och<br>examensbevis | Närarkiv | Papper | Bevaras | Original lämnas till elev. |
 |  | Nationella prov, elevsvar, svenska och<br>svenska som andraspråk | Närarkiv | Papper | Bevaras | Hanteras av upphandlad skola på<br>uppdrag av Vuxnas lärande. |
-
-<!-- sida 91 -->
-
-54
-
-[Tabell 91-1](handlingar.tabeller/91-1.csv)
-
 |  | Nationella prov, elevsvar övriga ämnen | Närarkiv | Papper | 5 år | Hanteras av upphandlad skola på<br>uppdrag av Vuxnas lärande. |
-| --- | --- | --- | --- | --- | --- |
 |  | Nationella prov, sammanställning av<br>resultat, svenska och svenska som<br>andraspråk | Alvis/Edlevo | Digitalt | Bevaras |  |
 |  | Nationella prov, sammanställning av<br>resultat, övriga ämnen | Alvis/Edlevo | Digitalt | 5 år |  |
 |  | Lärarhandledningar för nationella prov | Närarkiv | Papper | 5 år | Hanteras av upphandlad skola på<br>uppdrag av Vuxnas lärande. |
@@ -2462,15 +2155,7 @@ kommun                                                                vuxenutbil
 |  | Betygsunderlag | Se anm. | Se anm. | Se anm. | Gallras när betygen är satta och<br>beslut fattat. Hanteras av upphandlad<br>skola på uppdrag av Vuxnas lärande. |
 | 5.8.1.3 Process: Organisera |  |  |  |  |  |
 | Planera kurser | Orienteringskurs, kursbeskrivning | Samarbetsrum | Digitalt | Bevaras | De kursbeskrivningar som inte finns<br>med i kurskatalogen. |
-
-<!-- sida 92 -->
-
-55
-
-[Tabell 92-1](handlingar.tabeller/92-1.csv)
-
 |  | Delkurs och individuell kurs,<br>kursbeskrivning | Samarbetsrum | Digitalt | Bevaras | De kursbeskrivningar som inte finns<br>med i kurskatalogen. |
-| --- | --- | --- | --- | --- | --- |
 |  | Kurskatalog | Alvis/Edlevo | Digitalt | Bevaras |  |
 | 5.8.1.4 Process: Bedriva grundläggande vuxenutbildning |  |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
@@ -2481,15 +2166,7 @@ kommun                                                                vuxenutbil
 |  | Underlag för debitering av<br>interkommunala avgifter | Alvis | Digitalt | 10 år | Debitering av interkommunala<br>avgifter in (intäkter) samt för<br>prognos interkommunala avgifter ut<br>(kostnader). |
 | Hantera individuell<br>studieplan | Individuell studieplan | Alvis | Digitalt | Se anm. | Då eleven slutat skolan. |
 |  | Blankett skyddade personuppgifter,<br>inklusive ansökningshandling | Pärm | Papper | Se anm. | Sekretesshandling, förvaras i låst<br>skåp. Blanketten behöver sparas så |
-
-<!-- sida 93 -->
-
-56
-
-[Tabell 93-1](handlingar.tabeller/93-1.csv)
-
 | Övrig administration<br>gällande<br>vuxenutbildning |  |  |  |  | länge personen uppbär skyddade<br>personuppgifter för identifiering i<br>systemet. |
-| --- | --- | --- | --- | --- | --- |
 |  | Elevklagomål | Ciceron | Digitalt | Se anm. | När avtalsperiod går ut |
 |  | Disciplinär åtgärd | Ciceron | Digitalt | Bevaras | Handlingar rörande ex varning,<br>avstängning, avvisning av elev.<br>Upphandlade skolor har skyldighet<br>att informera rektor på Vuxnas<br>lärande, som sedan fattar beslut.<br>Längre avstängning görs av<br>förvaltningschef/nämnd. |
 | Ge särskilt stöd | Läs- och skrivutredning | Närarkiv | Papper | 5 år | Endast enhetschef/rektor och<br>specialpedagog har behörighet att se<br>utredningarna. |
@@ -2497,15 +2174,7 @@ kommun                                                                vuxenutbil
 | 5.8.1.5 Process: Bedriva gymnasial vuxenutbildning |  |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Antagning | Ansökan till kurs, antagna elever | Alvis | Digitalt | Se anm. | När eleven slutat sin skolgång kan<br>handlingarna gallras. |
-
-<!-- sida 94 -->
-
-57
-
-[Tabell 94-1](handlingar.tabeller/94-1.csv)
-
 |  |  |  |  |  | Ansökningshandlingar som kommer<br>i pappersform scannas in i Alvis. |
-| --- | --- | --- | --- | --- | --- |
 |  | Ansökan till kurs, ej antagna elever | Alvis | Digitalt | 1 år | Efter avslutad reservintagning.<br>Ansökningshandlingar som kommer<br>i pappersform scannas in i Alvis. |
 |  | Yttrande/beslut över utbildning i annan<br>kommun | Pärm/Alvis | Papper/Digitalt | Gallras efter<br>slutförd utbildnng | Beslut finns både på papper och<br>skannas även in i Alvis |
 | Elevregistrering | Elevhistorik | Alvis | Digitalt | Bevaras | Uppgifter om elevs genomförda<br>kurser- och studieavbrott. |
@@ -2514,15 +2183,7 @@ kommun                                                                vuxenutbil
 | Övrig administration<br>gällande<br>vuxenutbildning | Blankett skyddade personuppgifter,<br>inklusive ansökningshandling | Pärm | Papper | Se anm. | Sekretesshandling, förvaras i låst<br>skåp. Blanketten behöver sparas så<br>länge personen uppbär skyddade<br>personuppgifter för identifiering i<br>systemet. |
 |  | Elevklagomål | Ciceron | Digitalt | Se anm. | När avtalsperiod går ut. |
 |  | Disciplinär åtgärd | Ciceron | Digitalt | Bevaras | Handlingar rörande ex varning,<br>avstängning, avvisning av elev.<br>Upphandlade skolor har skyldighet |
-
-<!-- sida 95 -->
-
-58
-
-[Tabell 95-1](handlingar.tabeller/95-1.csv)
-
 |  |  |  |  |  | att informera rektor på Vuxnas<br>lärande, som sedan fattar beslut.<br>Längre avstängning görs av<br>förvaltningschef/nämnd. |
-| --- | --- | --- | --- | --- | --- |
 | Ge särskilt stöd | Läs- och skrivutredning | Närarkiv | Papper | 5 år | Endast enhetschef/rektor och<br>specialpedagog har behörighet att se<br>utredningarna. |
 |  | Pedagogisk kartläggning/överlämning | Närarkiv | Papper | 1 år efter<br>avslutade studier | Endast enhetschef/rektor och<br>specialpedagog har behörighet att se<br>kartläggningarna. |
 | 5.9 Verksamhetsområde: Särskild utbildning för vuxna |  |  |  |  |  |
@@ -2532,30 +2193,14 @@ kommun                                                                vuxenutbil
 | Hantera lokalt<br>kvalitetsarbete | Avvikelsehantering, registrering | Samarbetsrum | Digitalt | Se anm. | Avvikelsehantering (Excelfil)<br>Gallras när årsrapport är klar. |
 |  | Kvalitetsredovisning | Ciceron | Digitalt | Bevaras |  |
 |  | Betygskatalog | Närarkiv | Papper | Bevaras | Betyg och intyg ska kunna<br>sammanställas för varje enskild<br>deltagare. |
-
-<!-- sida 96 -->
-
-59
-
-[Tabell 96-1](handlingar.tabeller/96-1.csv)
-
 |  | Betygskopia av slutbetyg och<br>examensbevis | Närarkiv | Papper | Bevaras | Original lämnas till elev. |
-| --- | --- | --- | --- | --- | --- |
 |  | Korrespondens med elev | Alvis | Digitalt | 3 år | Korrespondens med elev med<br>uppgifter väsentliga för elev eller<br>skolan.<br>Hanteras i första hand i Alvis, om<br>elev kommer in med papper sätts<br>pappret i en pärm. |
 | 5.9.1.2 Process: Styra |  |  |  |  |  |
 | Hantera skolfrågor | Likabehandlingsplan | Ciceron | Digitalt | Bevaras | Årliga planer för att förebygga och<br>förhindra diskriminering och<br>kränkningar samt utredningar och<br>uppgifter om vidtagna åtgärder.<br>Egenupprättade bevaras, de som<br>upphandlade skolor upprättar kan<br>gallras vid avtalsbryt. |
 | 5.9.1.3 Process: Organisera |  |  |  |  |  |
 | Planera kurser | Orienteringskurs, kursbeskrivning | Samarbetsrum | Digitalt | Bevaras | De kursbeskrivningar som inte finns<br>med i kurskatalogen. |
 |  | Delkurs och individuell kurs,<br>kursbeskrivning | Samarbetsrum | Digitalt | Bevaras | De kursbeskrivningar som inte finns<br>med i kurskatalogen. |
-
-<!-- sida 97 -->
-
-60
-
-[Tabell 97-1](handlingar.tabeller/97-1.csv)
-
 | 6. Verksamhetstyp: Vård och omsorg |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | 6.0 Verksamhetsområde: Ledning |  |  |  |  |  |
 | 6.0.1 Processgrupp: Leda |  |  |  |  |  |
 | 6.0.1.1 Process: Planera och följa upp |  |  |  |  |  |
@@ -2564,29 +2209,13 @@ kommun                                                                vuxenutbil
 |  | Organisationsscheman | Raindance | Digitalt | Se anm. | Uppdateras fortlöpande i systemet. |
 | Övergripande<br>administration | Plan för förvaltning/ genomförandeplan | Ciceron | Digitalt | Bevaras |  |
 |  | Handlingar av tillfällig betydelse eller<br>ringa och/ eller rutinmässig karaktär | Se anm. | Se anm. | Se anm. | Kan komma in via e-mejl, brev eller<br>på annat sätt och kan gallras direkt.<br>Avser t.ex.<br>Korrespondens av uppenbart ringa<br>betydelse.<br>Kopior/dubbletter, om det finns ett<br>arkivexemplar.<br>Handlingar för tillfällig<br>kännedom, som inte föranlett någon<br>åtgärd och som även i övrigt är av<br>ringa betydelse. |
-
-<!-- sida 98 -->
-
-61
-
-[Tabell 98-1](handlingar.tabeller/98-1.csv)
-
 |  | Handling av betydelse som tillför<br>sakuppgifter i ett ärende | Ciceron | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 | Överlägga och besluta | Kallelse till ledningsgrupp | Samarbetsrum | Digitalt | 2 år |  |
 |  | Underlag för beslut i ledningsgrupp | Samarbetsrum | Digitalt | Se anm. | Handlingar som används som<br>beslutsunderlag på ledningsgruppen<br>hanteras i enlighet med kommunens<br>regler för ärendehantering och<br>bevaras.<br>Handlingar som används för<br>informationspunkter och<br>presentationer kan gallras vid<br>inaktualitet. |
 |  | Ledningsgruppens minnesanteckning | Samarbetsrum | Digitalt | Se anm. | Anteckningar som endast fungerat<br>som ett stöd under mötet och som<br>saknar beslut och inte kan ses vara av<br>betydelse för verksamheten, kan<br>gallras direkt. |
 |  | Beslut tagna på ledningsgruppsmöten | Samarbetsrum | Digitalt | Bevaras |  |
 |  | Beslut från chef | Ciceron | Digitalt | Bevaras | Avser beslut som inte är kopplade till<br>specifik process, t.ex. beslut om<br>tillförordnad chef.<br>Beslut som är kopplade till specifik<br>process, t.ex. disciplinär åtgärd, |
-
-<!-- sida 99 -->
-
-62
-
-[Tabell 99-1](handlingar.tabeller/99-1.csv)
-
 |  |  |  |  |  | registreras tillsammans med berörd<br>process. |
-| --- | --- | --- | --- | --- | --- |
 |  | Protokoll eller mötesanteckning från<br>samverkan med frivilligorganisationer | Ciceron | Digitalt | Bevaras | Respektive part får ett exemplar. |
 | Hantera kategoriträffar<br>och kollegiala möten | Minnesanteckning | Samarbetsrum | Digitalt | Se anm. | Anteckningar som endast fungerat<br>som ett stöd under mötet och som<br>saknar beslut och inte kan ses vara av<br>betydelse för verksamheten, kan<br>gallras direkt. |
 | 6.0.1.2 Process: Bedriva systematiskt kvalitetsarbete |  |  |  |  |  |
@@ -2594,15 +2223,7 @@ kommun                                                                vuxenutbil
 | Bedriva systematiskt<br>kvalitetsarbete på<br>övergripande nivå | Plan för att utveckla<br>verksamheten | Ciceron | Digitalt | Bevaras | Förvaras i Ciceron, men arbetet sker<br>i Stratsys. |
 |  | Sammanställning av resultat | Ciceron | Digitalt | Bevaras | Avser sammanställningar av resultat<br>som visar hur förutsättningarna för<br>och genomförandet av verksamheten<br>påverkar måluppfyllelsen.<br>Förvaras i Ciceron, men arbetet sker<br>i Stratsys. |
 |  | Underlag | Ciceron | Digitalt | Se anm. | Avser underlag för<br>sammanställningar av resultat. Kan<br>gallras när rapport är färdigställd och<br>behandlad i nämnd. |
-
-<!-- sida 100 -->
-
-63
-
-[Tabell 100-1](handlingar.tabeller/100-1.csv)
-
 |  | Utvärdering | Ciceron | Digitalt | Bevaras | Avser utvärderingar inom särskilt<br>identifierade områden.<br>Förvaras i Ciceron, men arbetet sker<br>i Stratsys. |
-| --- | --- | --- | --- | --- | --- |
 |  | Analys | Ciceron | Digitalt | Bevaras | Förvaras i Ciceron, men arbetet sker<br>i Stratsys. |
 |  | Beslut | Ciceron | Digitalt | Bevaras | Förvaras i Ciceron, men arbetet sker<br>i Stratsys. |
 |  | Dokumentation/rapport kring<br>systematiskt kvalitetsarbete | Ciceron | Digitalt | Bevaras | Årlig sammanställning/uppföljning<br>som går upp till nämnden. |
@@ -2612,15 +2233,7 @@ kommun                                                                vuxenutbil
 |  | Protokoll och liknande underlag från<br>informationsinhämtning | Ciceron | Digitalt | Bevaras |  |
 |  | Yttrande på protokoll och liknande<br>underlag | Ciceron | Digitalt | Bevaras | Gymnasium & Arbetsmarknads<br>yttrande över underlag, som ligger<br>till grund för tillsyns- och<br>granskningsbeslut. |
 |  | Beslut efter genomförd tillsyn och<br>granskning | Ciceron | Digitalt | Bevaras |  |
-
-<!-- sida 101 -->
-
-64
-
-[Tabell 101-1](handlingar.tabeller/101-1.csv)
-
 |  | Redovisning av åtgärder med anledning<br>av genomförd tillsyn och granskning | Ciceron | Digitalt | Bevaras | Gymnasium & Arbetsmarknads<br>redovisning av åtgärder. |
-| --- | --- | --- | --- | --- | --- |
 | 6.0.1.4 Process: Hantera samverkan med andra organ |  |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Hantera lokal<br>samverkansgrupp | Kallelse | Samarbetsrum | Digitalt | 2 år |  |
@@ -2628,15 +2241,7 @@ kommun                                                                vuxenutbil
 |  | Protokoll | Samarbetsrum | Digitalt | Bevaras |  |
 | Hantera avtal | Avtal | Ciceron | Digitalt | Bevaras | De som kan beröras är exempelvis<br>avtal vid drift av grupphem, avtal<br>med frivilligorganisationer,<br>myndigheter, andra kommuner,<br>entreprenörer eller enskilda utförare<br>etc. |
 | 6.0.3 Processgrupp: Organisera |  |  |  |  |  |
-
-<!-- sida 102 -->
-
-65
-
-[Tabell 102-1](handlingar.tabeller/102-1.csv)
-
 | 6.0.3.3 Process: Hantera lokaler och utrustning |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Hantera lokaler och<br>utrustning | Avtal | Samarbetsrum | Digitalt | 2 år efter att<br>avtalstiden har<br>passerats | Avtal om lokaler och utrustning. |
 |  | Inventarieförteckning | Samarbetsrum | Digitalt | Bevaras |  |
@@ -2648,15 +2253,7 @@ kommun                                                                vuxenutbil
 | Beskrivning: De inrapporterade händelser som rapporteras är organisatorisk händelse, vårdkedjehändelse och social händelse. Inrapporterade händelser hanteras via DF<br>Respons |  |  |  |  |  |
 | 6.1.1.2 Process: Hantera organisatorisk avvikelse |  |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-
-<!-- sida 103 -->
-
-66
-
-[Tabell 103-1](handlingar.tabeller/103-1.csv)
-
 | Anmäla | Rapport | DF Respons | Digitalt | 5 år |  |
-| --- | --- | --- | --- | --- | --- |
 | Utreda | Utredning och riskanalys initierad av<br>negativ händelse | DF Respons | Digitalt | 5 år |  |
 | 6.1.1.3 Process: Hantera vårdkedjehändelse |  |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
@@ -2669,15 +2266,7 @@ kommun                                                                vuxenutbil
 | 6.1.2 Processgrupp: Hantera anmälningar |  |  |  |  |  |
 | 6.1.2.1 Process: Hantera anmälningar enligt lex Sarah |  |  |  |  |  |
 | Beskrivning: Anmälningar, rapporter och utredningar enligt bestämmelser om lex Sarah. |  |  |  |  |  |
-
-<!-- sida 104 -->
-
-67
-
-[Tabell 104-1](handlingar.tabeller/104-1.csv)
-
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| --- | --- | --- | --- | --- | --- |
 | Anmäla | Anmälan från personal om Lex Sarah | DF Respons | Digitalt | Bevaras |  |
 |  | Anmälan till Inspektionen för vård och<br>omsorg | Ciceron | Digitalt | Bevaras |  |
 | Utreda | Utredning av enhetschef (eller utsedd<br>utredare) | DF Respons | Digitalt | Bevaras |  |
@@ -2689,15 +2278,7 @@ kommun                                                                vuxenutbil
 | Hantera polisanmälan | Anmälan | Combine | Digitalt | Se anm. | Polisrapport om brott/ misstanke om<br>brott kan gallras vid inaktualitet, om<br>den inte ligger till grund för beslut<br>om insats inom socialtjänsten. |
 | 6.1.2.4 Process: Hantera övriga anmälningar, allmänhet |  |  |  |  |  |
 | Beskrivning: Klagomål eller synpunkter från allmänhet. |  |  |  |  |  |
-
-<!-- sida 105 -->
-
-68
-
-[Tabell 105-1](handlingar.tabeller/105-1.csv)
-
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| --- | --- | --- | --- | --- | --- |
 | Klagomål- och<br>synpunktshantering | Skriftligt klagomål/synpunkt | Ciceron | Digitalt | Bevaras | Om klagomålet/synpunkter<br>inkommer i aktuellt individärende<br>kan det också registreras det i<br>personakt. |
 |  | Korrespondens | Ciceron | Digitalt | Bevaras | Om korrespondens gällande<br>klagomål/synpunkt inkommer i<br>aktuellt individärende kan det också<br>registreras det i personakt. |
 | 6.2 Verksamhetsområde: Individ- och familjeomsorg |  |  |  |  |  |
@@ -2707,44 +2288,20 @@ kommun                                                                vuxenutbil
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Övergripande<br>administration | Protokoll eller mötesanteckning från<br>samarbetsgrupp mellan socialtjänst,<br>skola, polis, åklagare eller liknande | Ciceron | Digitalt | Bevaras | Respektive part får ett exemplar. |
 |  | Protokoll eller mötesanteckning från<br>samverkan med frivilligorganisationer | Ciceron | Digitalt | Bevaras | Respektive part får ett exemplar. |
-
-<!-- sida 106 -->
-
-69
-
-[Tabell 106-1](handlingar.tabeller/106-1.csv)
-
 |  | Tillsynsrapport över enskilt bedrivna<br>verksamheter | Ciceron | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Avtal med andra kommuner,<br>entreprenörer eller enskilda utförare | Ciceron | Digitalt | Bevaras |  |
 |  | Korrespondens med andra kommuner,<br>entreprenörer eller enskilda utförare | Ciceron | Digitalt | Bevaras |  |
 |  | Mottagningsbevis, inlämningskvitton,<br>kvittenser | Pärm | Papper | Se anm. | Sparas så länge som det har rättslig<br>betydelse. Bevis som inte längre<br>behövs för att styrka att en<br>försändelse har inkommit eller utgått<br>från myndigheten, kan gallras. |
 |  | Anmälan som inte tillhör ärende och<br>inte ger upphov till ärende | Ciceron | Digitalt | 5 år | T.ex. anmälningar enligt 14 kap. 1§<br>SoL. Anmälningarna förvaras i pärm,<br>i kronologisk ordning och diarieförs<br>årsvis. |
 |  | Rapporter och meddelanden som inte<br>tillhör ärende och inte ger upphov till<br>ärende, t.ex. polisrapporter, lag om<br>omhändertagande av berusade personer<br>m.m. (LOB), Samverkan mot alkohol<br>och droger i trafiken (SMADIT) | Ciceron | Digitalt | 2 år | Förvaras i pärm, i kronologisk<br>ordning och diarieförs årsvis. |
 |  | Rapporter och meddelanden som inte<br>tillhör ärende och inte ger upphov till<br>ärende. | Ciceron | Digitalt | 2 år | Förvaras i pärm, i kronologisk<br>ordning och diarieförs årsvis, t.ex. |
-
-<!-- sida 107 -->
-
-70
-
-[Tabell 107-1](handlingar.tabeller/107-1.csv)
-
 |  |  |  |  |  | meddelande om avhysning,<br>störningar, hyresskuld, elskuld. |
-| --- | --- | --- | --- | --- | --- |
 |  | Register över rapporter och meddelande<br>som inte ger upphov till ärende | Ciceron | Digitalt | 2 år |  |
 |  | Meddelanden om placering inom<br>kommunen av barn från annan kommun | Ciceron | Digitalt | När placeringen<br>upphört | Om man inte får kännedom om när<br>en placering upphör, kan<br>meddelanden gallras 5 år efter sista<br>notering. |
 |  | Förteckning över barn som vistas i<br>familjehem eller annat enskilt hem | Samarbetsrum | Digitalt | Se anm. | Gallras när ny förteckning upprättats. |
 |  | Handling av tillfällig betydelse eller<br>ringa och/ eller rutinmässig karaktär | Se anm. | Se anm. | Se anm. | Kan komma in via e-mejl, brev eller<br>på annat sätt och kan gallras direkt.<br>Avser t.ex.<br>Korrespondens av uppenbart ringa<br>betydelse.<br>Kopior/dubbletter, om det finns ett<br>arkivexemplar.<br>Handlingar för tillfällig<br>kännedom, som inte föranlett någon<br>åtgärd och som även i övrigt är av<br>ringa betydelse. |
 | 6.2.1.3 Process: Hantera ekonomiskt bistånd |  |  |  |  |  |
-
-<!-- sida 108 -->
-
-71
-
-[Tabell 108-1](handlingar.tabeller/108-1.csv)
-
 | Beskrivning: Personakten utgör grunden för dokumentationen i ett enskilt ärende. (12 kap 1-2 §§ SoL) Handlingar som utgör räkenskapsinformation, som kvitton eller<br>räkningar som utgör underlag för utbetalning, ska inte förvars i personakt utan förvaras bland verifikationerna, då de följer kommunal redovisningslag. Handlingar<br>rörande personer födda 5-15-25 bevaras. |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Utreda ekonomiskt<br>bistånd | Ansökan från enskild om bistånd, med<br>bilagor | Combine/Viva | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) |  |
 |  | Ärendeblad, journalblad | Combine/Viva | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) |  |
@@ -2755,15 +2312,7 @@ kommun                                                                vuxenutbil
 |  | Beslut/dom i förvaltningsdomstol | Combine/Viva | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) |  |
 |  | Återkravshandling | Combine/Viva | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) |  |
 |  | Dokumentation av planering som rör<br>den enskilde, t.ex. överenskommelser,<br>handlingsplaner, uppdragsbeskrivning | Combine/Viva | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) |  |
-
-<!-- sida 109 -->
-
-72
-
-[Tabell 109-1](handlingar.tabeller/109-1.csv)
-
 |  | Registerkontroll som utgör underlag för<br>beslut | Combine/Viva | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Registerkontroll som endast har tillfällig<br>betydelse | Combine/Viva | Digitalt | Vid inaktualitet |  |
 |  | Inkomna, utgående och/eller upprättade<br>handlingar av tillfällig betydelse eller<br>rutinmässig karaktär | Combine/Viva | Digitalt | Vid inaktualitet |  |
 |  | Kallelse till möte med handläggare<br>m.m. | Combine/Viva | Digitalt | Se anm. | Gallring förutsatt att det inte tillför<br>ärendet någon sakuppgift eller<br>påverkar beslut. |
@@ -2772,15 +2321,7 @@ kommun                                                                vuxenutbil
 | Beskrivning: Personakten utgör grunden för dokumentationen i ett enskilt ärende. (12 kap 1-2 §§ SoL) Handlingar som utgör räkenskapsinformation, som kvitton eller<br>räkningar som utgör underlag för utbetalning, ska inte förvars i personakt utan förvaras bland verifikationerna, då de följer kommunal redovisningslag. Handlingar<br>rörande personer födda 5-15-25 bevaras. |  |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Aktualisera | Ansökan med eventuella bilagor | Combine/Viva | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) |  |
-
-<!-- sida 110 -->
-
-73
-
-[Tabell 110-1](handlingar.tabeller/110-1.csv)
-
 |  | Ärendeblad, journalblad | Combine/Viva | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) |  |
-| --- | --- | --- | --- | --- | --- |
 | Utreda | Utredning i enskilt ärende | Combine/Viva | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) |  |
 |  | Barnsamtal | Combine/Viva | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) |  |
 |  | Föräldrasamtal | Combine/Viva | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) |  |
@@ -2791,15 +2332,7 @@ kommun                                                                vuxenutbil
 |  | Hyreskontrakt | Combine/Viva | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) | Avser hyreskontrakt med den<br>enskilde |
 |  | Överklagan, med bilagor | Combine/Viva | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) |  |
 |  | Yttrande till förvaltningsdomstol | Combine/Viva | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) |  |
-
-<!-- sida 111 -->
-
-74
-
-[Tabell 111-1](handlingar.tabeller/111-1.csv)
-
 |  | Beslut/dom från förvaltningsdomstol | Combine/Viva | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) |  |
-| --- | --- | --- | --- | --- | --- |
 | 6.3 Verksamhetsområde: Insatser för barn och ungdomar |  |  |  |  |  |
 | Beskrivning: Processgruppen innefattar insatser för enskilda, vilka dokumenteras i personakt, i s.k. individärenden. Bevarande och gallring av<br>handlingar som tillhör personakten, regleras i 12 kap. 1-2 §§ SoL, samt 7 kap. socialtjänstförordningen. Handlingar som har ett registreringskrav, men som inte tillhör<br>individärendet, diarieförs. Placeringsärenden barn ska bevaras i sin helhet. Regler om bevarande och gallring gäller såväl analog som Digitalt akt. Bevara/gallra 5 år<br>innebär att handlingen ska gallras 5 år efter sista anteckning i akten. Handlingar rörande personer födda 5-15-25 bevaras. För handlingar av allmän administrativ<br>karaktär, se process 6.2.1. |  |  |  |  |  |
 | 6.3.1 Processgrupp: Hantera insatser för barn och ungdomar |  |  |  |  |  |
@@ -2810,15 +2343,7 @@ kommun                                                                vuxenutbil
 |  | Begäran om överflyttning av ärende<br>från annan kommun | Ciceron | Digitalt | Bevaras |  |
 |  | Anmälan som leder till utredning | Combine | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) | Bevaras vid placering. |
 |  | Anmälan som inte leder till utredning,<br>där personakt finns | Combine | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) | Om det finns en personakt sedan<br>innan, ska anmälan läggas i denna.<br>Bevaras vid placering. |
-
-<!-- sida 112 -->
-
-75
-
-[Tabell 112-1](handlingar.tabeller/112-1.csv)
-
 |  | Anmälan – som inte leder till utredning,<br>där personakt inte finns | Kronologisk pärm<br>för<br>anmälningar -<br>Ciceron | Papper/Digitalt | 5 år | När personakt saknas hålls<br>handlingen ordnad i kronologisk<br>pärm. |
-| --- | --- | --- | --- | --- | --- |
 |  | Ärendeblad, journalblad, aktualisering | Combine | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) | Bevaras vid placering. |
 | Utreda | Utredning i enskilt ärende | Combine | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) | Bevaras vid placering. |
 |  | Kallelse | Combine | Digitalt | Se anm. | T.ex. till möte med handläggare.<br>Bevaras vid placering annars gallras. |
@@ -2826,15 +2351,7 @@ kommun                                                                vuxenutbil
 |  | Registerkontroll som utgör underlag för<br>beslut | Combine | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) | Bevaras vid placering.<br>Registerkontroll som endast har<br>tillfällig betydelse kan gallras. |
 |  | Psykologutlåtande | Combine | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) | Bevaras vid placering. |
 |  | Läkarutlånade | Combine | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) | Bevaras vid placering. |
-
-<!-- sida 113 -->
-
-76
-
-[Tabell 113-1](handlingar.tabeller/113-1.csv)
-
 |  | Polisregisterutdrag | Combine | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) | Bevaras vid placering. |
-| --- | --- | --- | --- | --- | --- |
 |  | Konsultationsdokument skola | Combine | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) | Bevaras vid placering. |
 | Besluta | Beslut i enskilt ärende om bistånd | Combine | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) | Bevaras vid placering. |
 |  | Beslut i enskilt ärende om insats<br>gällande kontaktfamilj/kontaktperson | Combine | Digitalt | 5 år (dag 5, 15<br>och 25 bevaras) | Bevaras vid placering. |
@@ -2847,15 +2364,7 @@ kommun                                                                vuxenutbil
 |  | Dom från Förvaltnings- och<br>Kammarrätten | Combine | Digitalt | Bevaras | Gäller LVU. |
 | 6.3.1.4 Process: Placera barn i HVB, familjehem och jourhem |  |  |  |  |  |
 | Beskrivning: SoL, LVU. Placering i familjehem kan ske med samtycke eller utan samtycke. Jourhem är en placering i väntan på familjehemsplacering. Se även process<br>6.3.1. Samtliga handlingar bevaras i placeringsärende gällande barn. |  |  |  |  |  |
-
-<!-- sida 114 -->
-
-77
-
-[Tabell 114-1](handlingar.tabeller/114-1.csv)
-
 |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Utforma uppdrag | Vårdplan | Combine | Digitalt | Bevaras |  |
 | Genomföra uppdrag | Genomförandeplan | Combine | Digitalt | Bevaras |  |
@@ -2864,15 +2373,7 @@ kommun                                                                vuxenutbil
 |  | Anteckningar från uppföljningsmöten | Combine | Digitalt | Bevaras |  |
 |  | Förteckning över barn som vistas i<br>familjehem eller annat enskilt hem | Ciceron | Digitalt | Bevaras | Socialnämnden ska föra en<br>förteckning över de barn som enligt<br>nämndens beslut vistas i familjehem<br>eller annat enskilt hem. Senast 31<br>januari varje år ska förteckningen<br>redovisas för IVO (7 kap 1§<br>Socialtjänstförordningen). |
 | Avsluta | Beslut om att avsluta vårdinsats | Combine | Digitalt | Bevaras | Omprövning sker var 6:e månad<br>(LVU). |
-
-<!-- sida 115 -->
-
-78
-
-[Tabell 115-1](handlingar.tabeller/115-1.csv)
-
 |  | Dokumentation från utförare, journaler<br>över placerade barn | Combine | Digitalt | Bevaras | Personakt i enskild verksamhet som<br>avser barn som har placerats eller<br>tagits emot i boende enligt 5 kap 7§<br>3:e stycket, ska överlämnas för<br>bevarande till den socialnämnd som<br>har beslutat om insatsen, enligt avtal.<br>Gäller HVB. Familjehem och<br>jourhem för inte journal. |
-| --- | --- | --- | --- | --- | --- |
 |  | Överflyttning av ärende till annan<br>kommun | Ciceron | Digitalt | Bevaras |  |
 | 6.3.1.5 Process: Besluta om kvalificerad kontaktfamilj/kontaktperson enligt LVU |  |  |  |  |  |
 | Beskrivning: SoL, 22 § LVU. Se även process 6.3.1. Förebyggande insats enligt LVU. |  |  |  |  |  |
@@ -2881,15 +2382,7 @@ kommun                                                                vuxenutbil
 | Genomföra uppdrag | Genomförandeplan | Combine | Digitalt | 5 år (dag 5,15 och<br>25 bevaras) |  |
 |  | Omprövning eller övervägande LVU | Combine | Digitalt | 5 år (dag 5,15 och<br>25 bevaras) | Information till Individutskottet var<br>6:e månad. |
 |  | Beslut om familjehemsplacering var 6:e<br>månad för personer som är äldre än 18<br>år | Combine | Digitalt | 5 år (dag 5,15 och<br>25 bevaras) |  |
-
-<!-- sida 116 -->
-
-79
-
-[Tabell 116-1](handlingar.tabeller/116-1.csv)
-
 |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Följa upp | Mötesanteckning | Combine | Digitalt | 5 år (dag 5,15 och<br>25 bevaras) |  |
 | Avsluta | Beslut om att avsluta LVU | Combine | Digitalt | 5 år (dag 5,15 och<br>25 bevaras) |  |
 |  | Beslut om att avsluta SoL | Combine | Digitalt | 5 år (dag 5,15 och<br>25 bevaras) |  |
@@ -2901,15 +2394,7 @@ kommun                                                                vuxenutbil
 | 6.5.5 Processgrupp: Göra dödsboanmälningar och handlägga begravningshjälp |  |  |  |  |  |
 | 6.5.5.1 Process: Göra dödsboanmälningar och handlägga begravningshjälp |  |  |  |  |  |
 | Beskrivning: (Ärvdabalken, Begravningslagen) Ärenden som rör ekonomiskt bistånd till begravningskostnader. |  |  |  |  |  |
-
-<!-- sida 117 -->
-
-80
-
-[Tabell 117-1](handlingar.tabeller/117-1.csv)
-
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| --- | --- | --- | --- | --- | --- |
 | Dödsboanmälningar<br>och begravningshjälp | Dödsfallsintyg | Viva | Digitalt | 5 år |  |
 |  | Släktutredning | Combine/Viva | Digitalt | 5 år |  |
 |  | Boutredning | Combine/Viva | Digitalt | 5 år |  |
@@ -2920,17 +2405,269 @@ kommun                                                                vuxenutbil
 |  | Kopia på fakturor, som har med<br>begravning- och andra kostnader i<br>samband med dödsfall att göra | Combine/Viva | Digitalt | 5 år | Övriga fakturor, t.ex. sjukvård,<br>apotek, hyror etc. sänds tillbaka till<br>dödsbodelägaren. |
 |  | Mottagnings- och utlämningskvitto på<br>omhändertagna kontanter | Combine/Viva | Digitalt | 5 år | Insättningsbevis från bank. |
 |  | Handlingar från bank angående avslut<br>av konto | Combine/Viva | Digitalt | 5 år |  |
+|  | Kopia på dödsboanmälan | Combine/Viva | Digitalt | 5 år | Dödsboanmälan i original skickas till<br>Skatteverket. |
+|  | Kopia på bouppteckning | Combine/Viva | Digitalt | 5 år | Bouppteckning efter tidigare avliden<br>make/maka eller om den avlidne<br>hade del i oskiftat bo. |
+|  | Bouppteckningsintyg | Combine/Viva | Digitalt | 5 år |  |
+
+<!-- sida 54 -->
+
+17
+
+<!-- sida 55 -->
+
+18
+
+<!-- sida 56 -->
+
+19
+
+<!-- sida 57 -->
+
+20
+
+<!-- sida 58 -->
+
+21
+
+<!-- sida 59 -->
+
+22
+
+<!-- sida 60 -->
+
+23
+
+<!-- sida 61 -->
+
+24
+
+<!-- sida 62 -->
+
+25
+
+<!-- sida 63 -->
+
+26
+
+<!-- sida 64 -->
+
+27
+
+<!-- sida 65 -->
+
+28
+
+<!-- sida 66 -->
+
+29
+
+<!-- sida 67 -->
+
+30
+
+<!-- sida 68 -->
+
+31
+
+<!-- sida 69 -->
+
+32
+
+<!-- sida 70 -->
+
+33
+
+<!-- sida 71 -->
+
+34
+
+<!-- sida 72 -->
+
+35
+
+<!-- sida 73 -->
+
+36
+
+<!-- sida 74 -->
+
+37
+
+<!-- sida 75 -->
+
+38
+
+<!-- sida 76 -->
+
+39
+
+<!-- sida 77 -->
+
+40
+
+<!-- sida 78 -->
+
+41
+
+<!-- sida 79 -->
+
+42
+
+<!-- sida 80 -->
+
+43
+
+<!-- sida 81 -->
+
+44
+
+<!-- sida 82 -->
+
+45
+
+<!-- sida 83 -->
+
+46
+
+<!-- sida 84 -->
+
+47
+
+<!-- sida 85 -->
+
+48
+
+<!-- sida 86 -->
+
+49
+
+<!-- sida 87 -->
+
+50
+
+<!-- sida 88 -->
+
+51
+
+<!-- sida 89 -->
+
+52
+
+<!-- sida 90 -->
+
+53
+
+<!-- sida 91 -->
+
+54
+
+<!-- sida 92 -->
+
+55
+
+<!-- sida 93 -->
+
+56
+
+<!-- sida 94 -->
+
+57
+
+<!-- sida 95 -->
+
+58
+
+<!-- sida 96 -->
+
+59
+
+<!-- sida 97 -->
+
+60
+
+<!-- sida 98 -->
+
+61
+
+<!-- sida 99 -->
+
+62
+
+<!-- sida 100 -->
+
+63
+
+<!-- sida 101 -->
+
+64
+
+<!-- sida 102 -->
+
+65
+
+<!-- sida 103 -->
+
+66
+
+<!-- sida 104 -->
+
+67
+
+<!-- sida 105 -->
+
+68
+
+<!-- sida 106 -->
+
+69
+
+<!-- sida 107 -->
+
+70
+
+<!-- sida 108 -->
+
+71
+
+<!-- sida 109 -->
+
+72
+
+<!-- sida 110 -->
+
+73
+
+<!-- sida 111 -->
+
+74
+
+<!-- sida 112 -->
+
+75
+
+<!-- sida 113 -->
+
+76
+
+<!-- sida 114 -->
+
+77
+
+<!-- sida 115 -->
+
+78
+
+<!-- sida 116 -->
+
+79
+
+<!-- sida 117 -->
+
+80
 
 <!-- sida 118 -->
 
 81
-
-[Tabell 118-1](handlingar.tabeller/118-1.csv)
-
-|  | Kopia på dödsboanmälan | Combine/Viva | Digitalt | 5 år | Dödsboanmälan i original skickas till<br>Skatteverket. |
-| --- | --- | --- | --- | --- | --- |
-|  | Kopia på bouppteckning | Combine/Viva | Digitalt | 5 år | Bouppteckning efter tidigare avliden<br>make/maka eller om den avlidne<br>hade del i oskiftat bo. |
-|  | Bouppteckningsintyg | Combine/Viva | Digitalt | 5 år |  |
 
 <!-- sida 119 -->
 
@@ -7403,14 +7140,7 @@ Nyttoeffekten/resultat
 
 Utifrån nyckeltalen som redovisats så ser vi en minskning jmf med 2022 av antalet inkomna
 betalningspåminnelser som högst troligen är en effekt av robotens arbete.
-
-```osaker-tabell
 Mån      2022     2023
-Okt      383      185
-Nov      358      236
-
-Dec      245      196
-```
 
 Cirkularitet
 
@@ -7433,6 +7163,13 @@ betala för tjänsterna ökade antalet beställningar markant och hälften av pe
 årsskiftet.
 
 12
+
+[Tabell 221-1](handlingar.tabeller/221-1.csv)
+
+| Okt | 383 | 185 |
+| --- | --- | --- |
+| Nov | 358 | 236 |
+| Dec | 245 | 196 |
 
 <!-- sida 222 -->
 
@@ -8163,13 +7900,27 @@ Uppföljningsrapport intern kontroll 2023
 
 15
 
-[Tabell 241-1](handlingar.tabeller/241-1.csv)
+[Tabell 241-245-1](handlingar.tabeller/241-245-1.csv)
 
 | Område | Frågor Svar, Antal 2023<br>Vi har system/rutiner för hur vi följer upp mål<br>och styrdokument som beskrivs i nämndens<br>uppdrag, och i förekommande fall<br>förfrågningsunderlag/avtal |
 | --- | --- |
 |  | Vi har en uppföljningsplan som beskriver hur,<br>av vem och när de olika kraven ska följas upp. |
 | Kontrollmiljö | Ansvar och befogenheter är tydliggjorda |
 |  | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |
+| Område | Frågor Svar, Antal 2023<br>Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |
+|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
+|  | Ledningen informeras om fel och brister i<br>organisationen |
+|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem och<br>betalningsrutiner |
+| Område | Frågor Svar, Antal 2023<br>Vi har system/rutiner för att motverka<br>oegentligheter (bland annat mutor och jäv) |
+| Riskanalys | Riskanalysen kommuniceras med nämnden |
+|  | Riskanalysen är underlag för åtgärder och<br>granskningar |
+| Kontrollaktivite<br>ter | Kontrollaktiviteter i verksamhetens processer<br>är dokumenterade (ingår i rutiner) och kända |
+| Område | Frågor Svar, Antal 2023<br>Vi har system/rutiner för att förslag, synpunkter<br>och klagomål sammanställs och leder till<br>förbättringar |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
+|  | Återkoppling sker till förvaltningsledningen |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
+| Område<br>Information/ko<br>mmunikation | Frågor Svar, Antal 2023<br>Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |
 
 <!-- sida 242 -->
 
@@ -8178,28 +7929,12 @@ Uppföljningsrapport intern kontroll 2023
 
 16
 
-[Tabell 242-1](handlingar.tabeller/242-1.csv)
-
-| Område | Frågor Svar, Antal 2023<br>Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |
-| --- | --- |
-|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
-|  | Ledningen informeras om fel och brister i<br>organisationen |
-|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem och<br>betalningsrutiner |
-
 <!-- sida 243 -->
 
 Kungsbacka kommun                                Kungsbacka kommun
 Uppföljningsrapport intern kontroll 2023
 
 17
-
-[Tabell 243-1](handlingar.tabeller/243-1.csv)
-
-| Område | Frågor Svar, Antal 2023<br>Vi har system/rutiner för att motverka<br>oegentligheter (bland annat mutor och jäv) |
-| --- | --- |
-| Riskanalys | Riskanalysen kommuniceras med nämnden |
-|  | Riskanalysen är underlag för åtgärder och<br>granskningar |
-| Kontrollaktivite<br>ter | Kontrollaktiviteter i verksamhetens processer<br>är dokumenterade (ingår i rutiner) och kända |
 
 <!-- sida 244 -->
 
@@ -8208,26 +7943,12 @@ Uppföljningsrapport intern kontroll 2023
 
 18
 
-[Tabell 244-1](handlingar.tabeller/244-1.csv)
-
-| Område | Frågor Svar, Antal 2023<br>Vi har system/rutiner för att förslag, synpunkter<br>och klagomål sammanställs och leder till<br>förbättringar |
-| --- | --- |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-
 <!-- sida 245 -->
 
 Kungsbacka kommun                                Kungsbacka kommun
 Uppföljningsrapport intern kontroll 2023
 
 19
-
-[Tabell 245-1](handlingar.tabeller/245-1.csv)
-
-| Område<br>Information/ko<br>mmunikation | Frågor Svar, Antal 2023<br>Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-| --- | --- |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
 
 <!-- sida 246 -->
 

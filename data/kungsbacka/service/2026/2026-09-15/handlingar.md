@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5689acbf1a086271040b82ab/1789363875
 sha256: e6c883c7af687ad2caaa6c64b2382df8614a63acf2baa1d0c3b80c38bd36e46f
 bytes: 12325929
 sidor: 856
-hamtad: 2026-10-08T02:16:59+00:00
-konverterad: 2026-10-08T02:18:41+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:55:35+00:00
+konverterad: 2026-10-14T09:57:11+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [162, 163, 165, 170, 171, 175, 176, 178, 210, 214, 232, 234, 258, 319, 324, 326, 336, 338, 340, 344, 370, 377, 378, 386, 387, 423, 431, 432, 433, 434, 439, 666, 671, 672, 681, 831, 832]
+figurer: [3, 6, 8, 11, 12, 13, 87, 104, 155, 162, 163, 164, 165, 170, 171, 172, 175, 176, 178, 210, 212, 216, 217, 232, 234, 258, 308, 319, 321, 322, 324, 326, 328, 331, 336, 338, 344, 352, 354, 357, 361, 362, 371, 423, 424, 431, 432, 433, 434, 435, 439, 441, 496, 645, 651, 666, 671, 672, 681, 688, 689, 691, 692, 695, 696, 699, 700, 701, 831, 832, 844, 848]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1616,7 +1616,7 @@ Budgetavvikelse – uppföljning per verksamhetsområde
 | SE Fastigheter | +2,7 | +1,8 | -0,9 |
 | Totalt | 5,4 | 4,4 | -1,0 |
 
-[Tabell 34-2](handlingar.tabeller/34-2.csv)
+[Tabell 34-35-2](handlingar.tabeller/34-35-2.csv)
 
 | Miljoner<br>kronor |  | Bokslut<br>2025 | Budget<br>2026 | Prognos<br>2026 | Budget-<br>avvikelse | Delår<br>2025 | Delår<br>2026 | Avvikel<br>se<br>delår |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1639,6 +1639,16 @@ Budgetavvikelse – uppföljning per verksamhetsområde
 |  | Kostnad | -245,2 | -255,9 | -259,1 | -3,2 | -159,4 | -164,7 | -5,3 |
 |  | Netto | -4,2 | -10,8 | -8,9 | 1,9 | 2,1 | 2,6 | 0,5 |
 | Lokalvård | Intäkt | 139,1 | 137,3 | 138,6 | 1,3 | 92,9 | 92,1 | -0,8 |
+|  | Kostnad | -133,1 | -137,6 | -136,8 | 0,8 | -88,3 | -90,1 | -1,8 |
+|  | Netto | 6,0 | -0,3 | 1,8 | 2,1 | 4,7 | 2,0 | -2,7 |
+| Fastigheter | Intäkt | 921,0 | 916,6 | 922,6 | 6,0 | 612,4 | 616,1 | 3,7 |
+|  | Kostnad | -910,3 | -911,9 | -920,6 | -8,7 | -595,8 | -611,8 | -16,0 |
+|  | Netto | 10,7 | 4,7 | 2,0 | -2,7 | 16,6 | 4,3 | -12,3 |
+| Lokalförsörj-<br>ning | Intäkt | 11,3 | 4,0 | 3,7 | -0,3 | 1,6 | 2,4 | 0,8 |
+|  | Kostnad | -22,2 | -38,9 | -34,2 | 4,7 | -11,5 | -24,3 | -12,8 |
+|  | Netto | -10,9 | -34,9 | -30,5 | 4,4 | -9,9 | -21,9 | -12,0 |
+| Ram |  | 118,6 | 90,4 | 90,4 | 0,0 | 79,1 | 60,3 | -18,8 |
+| Periodens<br>resultat |  | 78,9 | 0,1 | 4,4 | 4,3 | 65,3 | 15,6 | -49,7 |
 
 <!-- sida 35 -->
 
@@ -1670,21 +1680,6 @@ innebär en minskning med cirka 50 procent jämfört med föregående år. Övri
 Personalförsörjning har mindre avvikelser i sina prognoser.
 
 32
-
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
-
-| Miljoner<br>kronor |  | Bokslut<br>2025 | Budget<br>2026 | Prognos<br>2026 | Budget-<br>avvikelse | Delår<br>2025 | Delår<br>2026 | Avvikel<br>se<br>delår |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Kostnad | -133,1 | -137,6 | -136,8 | 0,8 | -88,3 | -90,1 | -1,8 |
-|  | Netto | 6,0 | -0,3 | 1,8 | 2,1 | 4,7 | 2,0 | -2,7 |
-| Fastigheter | Intäkt | 921,0 | 916,6 | 922,6 | 6,0 | 612,4 | 616,1 | 3,7 |
-|  | Kostnad | -910,3 | -911,9 | -920,6 | -8,7 | -595,8 | -611,8 | -16,0 |
-|  | Netto | 10,7 | 4,7 | 2,0 | -2,7 | 16,6 | 4,3 | -12,3 |
-| Lokalförsörj-<br>ning | Intäkt | 11,3 | 4,0 | 3,7 | -0,3 | 1,6 | 2,4 | 0,8 |
-|  | Kostnad | -22,2 | -38,9 | -34,2 | 4,7 | -11,5 | -24,3 | -12,8 |
-|  | Netto | -10,9 | -34,9 | -30,5 | 4,4 | -9,9 | -21,9 | -12,0 |
-| Ram |  | 118,6 | 90,4 | 90,4 | 0,0 | 79,1 | 60,3 | -18,8 |
-| Periodens<br>resultat |  | 78,9 | 0,1 | 4,4 | 4,3 | 65,3 | 15,6 | -49,7 |
 
 <!-- sida 36 -->
 
@@ -1883,19 +1878,38 @@ hos Digitalt center eftersom utbyte av skrivare blir dyrare än budgeterat.
 7.2.1 Specifikation projekt
 Specifikation projekt över 30 mnkr till Kommunstyrelsen
 
+Ack utfall
+Helårs-      Avvik-
+Proj              Total- Total- Avvikelse totalt tom    Budget
+Text                                        prognos        else
+nr               budget prognos totalt  augusti         2026
+2026          2026
+2026
+4926
+/492 Kungsbacka Arena -627,0 -627,0 0,0    -61,0   -70,4  -85,0 14,6
+7
+4937
+Liljans skola och
+/493                -224,9 -224,9   0,0     -4,1   -36,2  -16,5 -19,7
+idrottssal
+8
+4939
+Ombyggnad
+/494                -44,2  -44,2    0,0     -1,4    -1,0   1,3  -2,3
+Stadshuset hus B
+0
+461 Toråsskolan
+-53,5  -53,5    0,0     -0,9    -1,2  -24,7 23,5
+P  reinvestering
+4941
+Ramnäsvägens
+/494                -50,9  -51,0    -0,1    -2,9    -0,9   2,4  -3,3
+gruppbostad
+7
+4943
+/494 Ölmevallaskolan -227,2 -227,2  0,0     -4,0   -20,0  -21,4  1,4
+4
 36
-
-[Tabell 39-1](handlingar.tabeller/39-1.csv)
-
-| Proj<br>nr | Text | Total-<br>budget | Total-<br>prognos | Avvikelse<br>totalt | Ack utfall<br>totalt tom<br>augusti<br>2026 | Helårs-<br>prognos<br>2026 | Budget<br>2026 | Avvik-<br>else<br>2026 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4926<br>/492<br>7 | Kungsbacka Arena | -627,0 | -627,0 | 0,0 | -61,0 | -70,4 | -85,0 | 14,6 |
-| 4937<br>/493<br>8 | Liljans skola och<br>idrottssal | -224,9 | -224,9 | 0,0 | -4,1 | -36,2 | -16,5 | -19,7 |
-| 4939<br>/494<br>0 | Ombyggnad<br>Stadshuset hus B | -44,2 | -44,2 | 0,0 | -1,4 | -1,0 | 1,3 | -2,3 |
-| 461<br>P | Toråsskolan<br>reinvestering | -53,5 | -53,5 | 0,0 | -0,9 | -1,2 | -24,7 | 23,5 |
-| 4941<br>/494<br>7 | Ramnäsvägens<br>gruppbostad | -50,9 | -51,0 | -0,1 | -2,9 | -0,9 | 2,4 | -3,3 |
-| 4943<br>/494<br>4 | Ölmevallaskolan | -227,2 | -227,2 | 0,0 | -4,0 | -20,0 | -21,4 | 1,4 |
-|  |  |  |  |  |  |  |  |  |
 
 <!-- sida 40 -->
 
@@ -1916,6 +1930,36 @@ projektering och upphandlingen av byggentreprenad för Ölmevallaskolan är igå
 
 Specifikation pausade projekt
 
+Ack utfall
+Helårs-      Avvik-
+Proj               Total- Total- Avvikelse totalt tom   Budget
+Text                                        prognos        else
+nr                budget prognos totalt augusti         2026
+2026          2026
+2026
+4907 Iseråsskolan ny- och
+/490 ombyggnad och  -198,4    0    198,4    -6,0    0,0    0,0   0,0
+8 idrottshall
+4910
+Gräskärr förskola -106,8  0    106,8    -0,8    0,0    0,8  -0,8
+/4911
+4920
+Äpplegårdens
+/492                -81,8     0     81,8    -3,5    0,0    3,5  -3,5
+förskola
+1
+4932
+Klovsten
+/433                -131,2    0    131,2    -0,7    0,0    0,0   0,0
+Räddningstjänsten
+3
+8979
+Anneberg
+/898                -383,3    0    383,3    -1,5    0,0    1,5  -1,5
+samverkanhus
+2
+Summa projekt -901,5   0    901,5   -12,5    0,0    5,8  -5,8
+
 37
 
 [Tabell 40-1](handlingar.tabeller/40-1.csv)
@@ -1923,17 +1967,6 @@ Specifikation pausade projekt
 | Proj<br>nr | Text | Total-<br>budget | Total-<br>prognos | Avvikelse<br>totalt | Ack utfall<br>totalt tom<br>augusti<br>2026 | Helårs-<br>prognos<br>2026 | Budget<br>2026 | Avvik-<br>else<br>2026 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Summa projekt |  | -1 227,7 | -1 227,8 | -0,1 | -74,3 | -129,7 | -143,9 | 14,2 |
-
-[Tabell 40-2](handlingar.tabeller/40-2.csv)
-
-| Proj<br>nr | Text | Total-<br>budget | Total-<br>prognos | Avvikelse<br>totalt | Ack utfall<br>totalt tom<br>augusti<br>2026 | Helårs-<br>prognos<br>2026 | Budget<br>2026 | Avvik-<br>else<br>2026 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4907<br>/490<br>8 | Iseråsskolan ny- och<br>ombyggnad och<br>idrottshall | -198,4 | 0 | 198,4 | -6,0 | 0,0 | 0,0 | 0,0 |
-| 4910<br>/4911 | Gräskärr förskola | -106,8 | 0 | 106,8 | -0,8 | 0,0 | 0,8 | -0,8 |
-| 4920<br>/492<br>1 | Äpplegårdens<br>förskola | -81,8 | 0 | 81,8 | -3,5 | 0,0 | 3,5 | -3,5 |
-| 4932<br>/433<br>3 | Klovsten<br>Räddningstjänsten | -131,2 | 0 | 131,2 | -0,7 | 0,0 | 0,0 | 0,0 |
-| 8979<br>/898<br>2 | Anneberg<br>samverkanhus | -383,3 | 0 | 383,3 | -1,5 | 0,0 | 1,5 | -1,5 |
-| Summa projekt |  | -901,5 | 0 | 901,5 | -12,5 | 0,0 | 5,8 | -5,8 |
 
 <!-- sida 41 -->
 
@@ -11486,16 +11519,6 @@ reduktionsplikten genom skattebefrielse
 
 g CO2eq/MJ kr/MJ kr/l  kr/MJ  kr/l
 
-```osaker-tabell
-HVO        16    0,38   12,94  0,16   5,56
-HVO        10    0,41   13,94  0,16   5,56
-
-FAME       35    0,28    9,39  0,17   5,56
-FAME       16    0,38   12,42  0,17   5,56
-Etanol     30    0,31    6,48  0,30   6,25
-Etanol      7    0,42    8,81  0,30   6,25
-```
-
 Anm.: Räkneexemplet är baserat på genomsnittliga livscykelutsläpp för biodrivmedel 2024 utanför
 respektive inom reduktionsplikten utifrån Energimyndighetens statistik Drivmedel 2024. Fossila kom-
 ponenter har utsläppsvärde 94 g/MJ. Beräkningen av maximal merkostnad inom reduktionsplikten utgår
@@ -11507,6 +11530,16 @@ en bolagsskatteeffekt ingår.
 och helt fossilt drivmedel beräknad utifrån reduktionspliktsavgiften vid en reduktionsplikt
 på 10 procent.
 204
+
+[Tabell 260-1](handlingar.tabeller/260-1.csv)
+
+| HVO | 16 | 0,38 | 12,94 | 0,16 | 5,56 |
+| --- | --- | --- | --- | --- | --- |
+| HVO | 10 | 0,41 | 13,94 | 0,16 | 5,56 |
+| FAME | 35 | 0,28 | 9,39 | 0,17 | 5,56 |
+| FAME | 16 | 0,38 | 12,42 | 0,17 | 5,56 |
+| Etanol | 30 | 0,31 | 6,48 | 0,30 | 6,25 |
+| Etanol | 7 | 0,42 | 8,81 | 0,30 | 6,25 |
 
 <!-- sida 261 -->
 
@@ -11898,12 +11931,7 @@ och koldioxidskatt för drivmedel respektive el vid en körsträcka på
 
 Tabell 5.3 Årlig fordonsskatt och förmånsvärde för typfordon
 Kronor per år
-Mindre Större Större Mindre Större
-bensinbil bensinbil dieselbil elbil elbil
-Nybilspris   300 000 450 000 500 000 400 000 700 000
-Koldioxidutsläpp g/km 120 150 150 0     0
-Energiförbrukning 0,52 0,65 0,59 1,6    2
-liter/mil eller kWh/mil
+
 Energi- och koldioxidskatt 3 716 4 645 3 523 864 1 080
 vid körsträcka 1200 mil
 ink moms
@@ -11930,6 +11958,14 @@ dieselbilarna av malus vilket innebär att skillnaden i fordonsskatt
 jämfört med en elbil är högre år 1–3 än efterföljande år. Trots att
 
 213
+
+[Tabell 269-1](handlingar.tabeller/269-1.csv)
+
+|  | Mindre bensinbil | Större bensinbil | Större dieselbil | Mindre elbil | Större elbil |
+| --- | --- | --- | --- | --- | --- |
+| Nybilspris | 300 000 | 450 000 | 500 000 | 400 000 | 700 000 |
+| Koldioxidutsläpp g/km | 120 | 150 | 150 | 0 | 0 |
+| Energiförbrukning liter/mil eller kWh/mil | 0,52 | 0,65 | 0,59 | 1,6 | 2 |
 
 <!-- sida 270 -->
 
@@ -11983,19 +12019,9 @@ Tabell 5.4 Årliga incitament för val av elfordon
 Kronor per år
 Mindre elbil jmf Större elbil jmf Större elbil jmf
 mindre bensinbil större bensinbil större dieselbil
-Privat köp av ny bil 4 815  8 650   10 928
-Privat köp 4 år gammal bil 198 858   3 136
-Förmånstagare 30 % 24 205  42 583   44 861
-marginalskatt
-Förmånstagare 50 % 30 519  53 633   55 911
-marginalskatt
-Privat köp med elbilspremie 20 415
-ny bil
-Privat köp med elbilspremie 15 798 16 458 18 736
-4 år gammal bil
-Lägre energi- och 2 852     3 565    2 443
-koldioxidskatt vid 1200 mil/år
+
 Källa: Egna beräkningar.
+
 En första observation är att incitamenten att välja eldrift är väsent-
 ligt mindre för den som köper en bil privat jämfört med den som
 kan välja en förmånsbil. Allra minst är incitamenten att välja eldrift
@@ -12021,6 +12047,18 @@ nyttja en förmånsbil. Stödet är dessutom större ju dyrare elbil som
 väljs och ju högre individens inkomst är. I den andra änden av stöd-
 
 215
+
+[Tabell 271-1](handlingar.tabeller/271-1.csv)
+
+| Privat köp av ny bil | 4 815 | 8 650 | 10 928 |
+| --- | --- | --- | --- |
+| Privat köp 4 år gammal bil | 198 | 858 | 3 136 |
+| Förmånstagare 30 % marginalskatt | 24 205 | 42 583 | 44 861 |
+| Förmånstagare 50 % marginalskatt | 30 519 | 53 633 | 55 911 |
+| Privat köp med elbilspremie ny bil | 20 415 |  |  |
+| Privat köp med elbilspremie | 15 798 | 16 458 | 18 736 |
+| 4 år gammal bil |  |  |  |
+| Lägre energi- och koldioxidskatt vid 1200 mil/år | 2 852 | 3 565 | 2 443 |
 
 <!-- sida 272 -->
 
@@ -13746,18 +13784,6 @@ Källa: Climate Change Committee (2025), The Seventh Carbon Budget Climate Chang
 – charts and data, 26 February 2025.
 252
 
-[Tabell 308-1](handlingar.tabeller/308-1.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-
-[Tabell 308-2](handlingar.tabeller/308-2.csv)
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-
 <!-- sida 309 -->
 
 SOU 2026:33         Befintlig och planerad styrning – utgångsläge och problembild
@@ -14651,15 +14677,7 @@ Antal fordon samt andel exporterade
 Alla personbilar Personbilar 0–5 år gamla
 Drivmedel I trafik Expor- Andel export I trafik Expor- Andel export
 terade av i trafik terade av i trafik
-Bensin 2 297 530 40 254 2 % 308 597 21 710 7 %
-Diesel 1 519 841 30 406 2 % 124 476 8 365 7 %
-El      432 709 24 513 6 % 403 932 23 948 6 %
-Elhybrid 224 140 1 169 1 % 123 652 35 0 %
-Laddhybrid 373 812 12 511 3 % 322 531 11 794 4 %
-Etanol  159 726 1 256 1 %  12 930 170 1 %
-Gas     31 396 1 339 4 %   7 021 343  5 %
-Övriga    277   7   3 %      27   2   7 %
-Totalt 5 039 431 111 455 2 % 1 303 166 66 367 5 %
+
 Källa: Egen bearbetning av underlag från Trafikanalys.
 
 Den internationella begagnathandeln har påverkat
@@ -14677,6 +14695,19 @@ don. Figur 6.7 visar personbilsflottans sammansättning sista decem-
 ber 2025 uppdelat på bilarnas ålder och drivmedel.
 
 274
+
+[Tabell 330-1](handlingar.tabeller/330-1.csv)
+
+| Bensin | 2 297 530 | 40 254 | 2 % | 308 597 | 21 710 | 7 % |
+| --- | --- | --- | --- | --- | --- | --- |
+| Diesel | 1 519 841 | 30 406 | 2 % | 124 476 | 8 365 | 7 % |
+| El | 432 709 | 24 513 | 6 % | 403 932 | 23 948 | 6 % |
+| Elhybrid | 224 140 | 1 169 | 1 % | 123 652 | 35 | 0 % |
+| Laddhybrid | 373 812 | 12 511 | 3 % | 322 531 | 11 794 | 4 % |
+| Etanol | 159 726 | 1 256 | 1 % | 12 930 | 170 | 1 % |
+| Gas | 31 396 | 1 339 | 4 % | 7 021 | 343 | 5 % |
+| Övriga | 277 | 7 | 3 % | 27 | 2 | 7 % |
+| Totalt | 5 039 431 | 111 455 | 2 % | 1 303 166 | 66 367 | 5 % |
 
 <!-- sida 331 -->
 
@@ -18164,36 +18195,6 @@ av produktvärdet i varubranscher
 
 Procentenheter
 Produkt                  Direkt Indirekt Total
-Fisk                      2,4   0,7    3,1
-Raffinerade petroleumprodukter 1,6 0,0 1,6
-Skogsbruk                 0,3   1,2    1,4
-Jordbruksprodukter        1,0   0,4    1,3
-vatten, avlopp, sanitet, återvinning 0,6 0,3 0,8
-
-```osaker-tabell
-Livsmedel                 0,1   0,5    0,6
-Papper och trä            0,1   0,5    0,6
-Byggtjänster              0,2   0,2    0,5
-Drycker                   0,1   0,3    0,4
-Gruvprodukter             0,3   0,1    0,4
-```
-
-Icke-metalliska mineraliska produkter 0,1 0,3 0,4
-gas, fjärrvärme och fjärrkyla 0,0 0,2  0,3
-Stål- och metaller        0,0   0,2    0,2
-Kläder och textilier      0,1   0,1    0,2
-Elproduktion och distribution 0,0 0,1  0,2
-Gummi- och plastvaror     0,0   0,1    0,2
-Kemi- och läkemedel       0,0   0,1    0,2
-Möbler, leksaker och annan tillverkning 0,0 0,1 0,1
-
-```osaker-tabell
-Transportmedel            0,0   0,1    0,1
-Bearbetade metallvaror    0,0   0,1    0,1
-Maskiner                  0,0   0,1    0,1
-Elektronik och elapparater 0,0  0,1    0,1
-Tobak                     0,0   0,1    0,1
-```
 
 Anm.: Tabellen visar ökningen av de totala förbrukningskostnaderna per producerad enhet uttryckt i
 procentenheter. Tabellen visar kostnaden för produktionen av varor vilket inte är exakt samma som
@@ -18204,6 +18205,33 @@ Källa: Konjunkturinstitutet (2024b).
 
 354
 
+[Tabell 410-1](handlingar.tabeller/410-1.csv)
+
+| Fisk | 2,4 | 0,7 | 3,1 |
+| --- | --- | --- | --- |
+| Raffinerade petroleumprodukter | 1,6 | 0,0 | 1,6 |
+| Skogsbruk | 0,3 | 1,2 | 1,4 |
+| Jordbruksprodukter | 1,0 | 0,4 | 1,3 |
+| vatten, avlopp, sanitet, återvinning | 0,6 | 0,3 | 0,8 |
+| Livsmedel | 0,1 | 0,5 | 0,6 |
+| Papper och trä | 0,1 | 0,5 | 0,6 |
+| Byggtjänster | 0,2 | 0,2 | 0,5 |
+| Drycker | 0,1 | 0,3 | 0,4 |
+| Gruvprodukter | 0,3 | 0,1 | 0,4 |
+| Icke-metalliska mineraliska produkter | 0,1 | 0,3 | 0,4 |
+| gas, fjärrvärme och fjärrkyla | 0,0 | 0,2 | 0,3 |
+| Stål- och metaller | 0,0 | 0,2 | 0,2 |
+| Kläder och textilier | 0,1 | 0,1 | 0,2 |
+| Elproduktion och distribution | 0,0 | 0,1 | 0,2 |
+| Gummi- och plastvaror | 0,0 | 0,1 | 0,2 |
+| Kemi- och läkemedel | 0,0 | 0,1 | 0,2 |
+| Möbler, leksaker och annan tillverkning | 0,0 | 0,1 | 0,1 |
+| Transportmedel | 0,0 | 0,1 | 0,1 |
+| Bearbetade metallvaror | 0,0 | 0,1 | 0,1 |
+| Maskiner | 0,0 | 0,1 | 0,1 |
+| Elektronik och elapparater | 0,0 | 0,1 | 0,1 |
+| Tobak | 0,0 | 0,1 | 0,1 |
+
 <!-- sida 411 -->
 
 SOU 2026:33                   Acceptans – utgångsläge och problembild
@@ -18213,29 +18241,7 @@ av produktvärdet i tjänstebranscher
 
 Procentenheter
 Produkt                  Direkt Indirekt Total
-Vägtransport gods (Lastbilstransporter) 4,0 0,3 4,4
-Kollektivtrafik, buss och taxi 1,7 0,8 2,5
-Post och övriga transporttjänster 0,4 1,4 1,8
 
-```osaker-tabell
-Sjötransport              1,0   0,5    1,5
-Järnvägstransport         0,7   0,4    1,1
-Flygtransport             0,0   0,4    0,4
-Handel                    0,1   0,2    0,3
-Fastighetsförvaltning     0,1   0,2    0,3
-Hotell och restaurang     0,0   0,2    0,2
-```
-
-Kultur, nöje, fritid och service 0,1 0,1 0,2
-
-```osaker-tabell
-Små- och fritidshus       0,0   0,2    0,2
-Företagstjänster          0,1   0,1    0,2
-Vård- och utbildning      0,0   0,1    0,1
-```
-
-Informations- och kommunikationstjänster 0,0 0,1 0,1
-Finans- och försäkring    0,0   0,1    0,1
 Anm.: Tabellen visar ökningen av de totala förbrukningskostnaderna per producerad enhet uttryckt i
 procentenheter. Tabellen visar kostnaden för produktionen av tjänster vilket inte är exakt samma som
 produktionskostnaden i motsvarande branscher eftersom en bransch kan producera flera olika produkter.
@@ -18258,6 +18264,25 @@ på ett ansträngt konkurrensläge för svenska åkare på denna marknad.
 28 Trafikanalys statistikprodukt Utländska lastbilstransporter i Sverige 2024. Statistik 2025:34.
 
 355
+
+[Tabell 411-1](handlingar.tabeller/411-1.csv)
+
+| Vägtransport gods (Lastbilstransporter) | 4,0 | 0,3 | 4,4 |
+| --- | --- | --- | --- |
+| Kollektivtrafik, buss och taxi | 1,7 | 0,8 | 2,5 |
+| Post och övriga transporttjänster | 0,4 | 1,4 | 1,8 |
+| Sjötransport | 1,0 | 0,5 | 1,5 |
+| Järnvägstransport | 0,7 | 0,4 | 1,1 |
+| Flygtransport | 0,0 | 0,4 | 0,4 |
+| Handel | 0,1 | 0,2 | 0,3 |
+| Fastighetsförvaltning | 0,1 | 0,2 | 0,3 |
+| Hotell och restaurang | 0,0 | 0,2 | 0,2 |
+| Kultur, nöje, fritid och service | 0,1 | 0,1 | 0,2 |
+| Små- och fritidshus | 0,0 | 0,2 | 0,2 |
+| Företagstjänster | 0,1 | 0,1 | 0,2 |
+| Vård- och utbildning | 0,0 | 0,1 | 0,1 |
+| Informations- och kommunikationstjänster | 0,0 | 0,1 | 0,1 |
+| Finans- och försäkring | 0,0 | 0,1 | 0,1 |
 
 <!-- sida 412 -->
 
@@ -22172,9 +22197,7 @@ höjd reduktionsplikt.
 Tabell 10.1 Skillnad i drivmedelspriser respektive BNP
 jämfört med höjd reduktionsplikt
 Bensin Diesel BNP
-Höjd drivmedelsskatt     57 %   75 % −0,09 %
-Påskyndad elektrifiering 53 %   69 % −0,12 %
-Handelssystem            13 %   12 %  0,02 %
+
 Källa: Konjunkturinstitutet (2023) och egna beräkningar.
 
 4 Konjunkturinstitutet (2023c).
@@ -22182,6 +22205,13 @@ Källa: Konjunkturinstitutet (2023) och egna beräkningar.
 ännu inte genomförts.
 
 441
+
+[Tabell 497-1](handlingar.tabeller/497-1.csv)
+
+| Höjd drivmedelsskatt | 57 % | 75 % | −0,09 % |
+| --- | --- | --- | --- |
+| Påskyndad elektrifiering | 53 % | 69 % | −0,12 % |
+| Handelssystem | 13 % | 12 % | 0,02 % |
 
 <!-- sida 498 -->
 
@@ -29492,10 +29522,7 @@ Kronor per liter
 Bensin          Diesel
 2028 2029  2030 2028 2029  2030
 Av höjd reduktions-
-plikt       0,71  0,76 0,83 0,77  0,82 0,88
-Av höjd energiskatt 1,80 1,80 1,80 1,80 1,80 1,80
-Summa exkl. moms 2,51 2,56 2,63 2,57 2,62 2,68
-Summa inkl. moms 3,13 3,20 3,29 3,22 3,28 3,35
+
 Anm.: Priseffekten i tabellen är förhållande till beslutad politik. Effekten av höjd reduktionsplikt är med
 andra ord effekten av att höja reduktionspliktsnivån från 10 procent. Prisnivå 2025 förutom höjd energi-
 skatt som motsvarar utredningens förslag för 2028 utan justering för skillnad i prisnivå mellan 2025
@@ -29517,6 +29544,14 @@ av utredningens förslag. I en sådan situation kan skattehöjningen
 justeras ned för att kompensera för detta om priset på drivmedel
 
 605
+
+[Tabell 661-1](handlingar.tabeller/661-1.csv)
+
+| plikt | 0,71 | 0,76 | 0,83 | 0,77 | 0,82 | 0,88 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Av höjd energiskatt | 1,80 | 1,80 | 1,80 | 1,80 | 1,80 | 1,80 |
+| Summa exkl. moms | 2,51 | 2,56 | 2,63 | 2,57 | 2,62 | 2,68 |
+| Summa inkl. moms | 3,13 | 3,20 | 3,29 | 3,22 | 3,28 | 3,35 |
 
 <!-- sida 662 -->
 
@@ -29577,10 +29612,7 @@ för biodrivmedel och en lägre skattehöjning
 Kronor per liter
 Bensin         Diesel
 2028 2029 2030  2028 2029 2030
-Av höjd reduktionsplikt 1,78 1,97 2,18 1,75 1,94 2,15
-Av höjd energiskatt 0,80 0,80 0,80 0,80 0,80 0,80
-Summa exkl. moms 2,58 2,77 2,98 2,55 2,74 2,95
-Summa inkl. moms 3,22 3,47 3,72 3,19 3,43 3,69
+
 Anm.: Priseffekten i tabellen är i förhållande till beslutad politik. Effekten av höjd reduktionsplikt är
 med andra ord effekten av att höja reduktionspliktsnivån från 10 procent. I höjd reduktionsplikt ingår
 även effekten av högre priser på förnybara drivmedel för användningen i referensscenariot. Höjd
@@ -29611,6 +29643,14 @@ att konsumenterna lämnas opåverkade. I exemplet i tabell 14.6 blir
 
 607
 
+[Tabell 663-1](handlingar.tabeller/663-1.csv)
+
+| Av höjd reduktionsplikt | 1,78 | 1,97 | 2,18 | 1,75 | 1,94 | 2,15 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Av höjd energiskatt | 0,80 | 0,80 | 0,80 | 0,80 | 0,80 | 0,80 |
+| Summa exkl. moms | 2,58 | 2,77 | 2,98 | 2,55 | 2,74 | 2,95 |
+| Summa inkl. moms | 3,22 | 3,47 | 3,72 | 3,19 | 3,43 | 3,69 |
+
 <!-- sida 664 -->
 
 Konsekvensanalys                           SOU 2026:33
@@ -29628,14 +29668,13 @@ Av höjd reduktionsplikt 1,78 1,97 2,18 1,75 1,94 2,15
 Av högre pris på fossila
 1,18 0,96 0,79  1,38 1,12 0,92
 drivmedel
-Av höjd energiskatt 0 0   0    0    0    0
-Summa exkl. moms 2,96 2,93 2,97 3,13 3,07 3,07
-Summa inkl. moms 3,70 3,67 3,71 3,92 3,83 3,84
+
 Anm.: Priseffekten i tabellen är i förhållande till beslutad politik. Effekten av höjd reduktionsplikt är
 med andra ord effekten av att höja reduktionspliktsnivån från 10 procent. I höjd reduktionsplikt ingår
 även effekten av högre priser på biodrivmedel för användningen i referensscenariot.
 Källa: Egna beräkningar med stöd av utredningens analysgrupp.
 Känslighetsanalys – uppdaterade utsläppsfaktorer i HBEFA
+
 Utredningen har också genomfört ett kompletterande känslighets-
 fall som beaktar effekterna av uppdaterade utsläppsfaktorer i HBEFA
 (version 2026), se avsnitt 4.2.5 och 10.2.1. Den nya versionen av
@@ -29657,6 +29696,13 @@ nor per liter i stället för 1,80 i grundfallet.
 
 608
 
+[Tabell 664-1](handlingar.tabeller/664-1.csv)
+
+| Av höjd energiskatt | 0 | 0 | 0 | 0 | 0 | 0 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Summa exkl. moms | 2,96 | 2,93 | 2,97 | 3,13 | 3,07 | 3,07 |
+| Summa inkl. moms | 3,70 | 3,67 | 3,71 | 3,92 | 3,83 | 3,84 |
+
 <!-- sida 665 -->
 
 SOU 2026:33                               Konsekvensanalys
@@ -29668,10 +29714,7 @@ Kronor per liter
 
 Bensin         Diesel
 2028 2029 2030  2028 2029 2030
-Av höjd reduktionsplikt 1,24 1,25 1,30 1,31 1,31 1,34
-Av höjd energiskatt 1,30 1,30 1,30 1,30 1,30 1,30
-Summa exkl. moms 2,54 2,55 2,60 2,61 2,61 2,64
-Summa inkl. moms 3,17 3,19 3,25 3,27 3,26 3,31
+
 Anm.: Priseffekten i tabellen är i förhållande till beslutad politik. Effekten av höjd reduktionsplikt är med
 andra ord effekten av att höja reduktionspliktsnivån från 10 procent. Höjd energiskatt är i prisnivå för
 2028\.
@@ -29704,6 +29747,14 @@ genomförts 2028 med hur höga priserna i de övriga länderna var i
 december 2025. Det bör därför noteras att priserna i de andra länderna
 
 609
+
+[Tabell 665-1](handlingar.tabeller/665-1.csv)
+
+| Av höjd reduktionsplikt | 1,24 | 1,25 | 1,30 | 1,31 | 1,31 | 1,34 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Av höjd energiskatt | 1,30 | 1,30 | 1,30 | 1,30 | 1,30 | 1,30 |
+| Summa exkl. moms | 2,54 | 2,55 | 2,60 | 2,61 | 2,61 | 2,64 |
+| Summa inkl. moms | 3,17 | 3,19 | 3,25 | 3,27 | 3,26 | 3,31 |
 
 <!-- sida 666 -->
 
@@ -30815,10 +30866,7 @@ några typhushåll.
 Tabell 14.13 Effekter av sänkt elskatt för några typhushåll
 Kronor per år vid sänkning med 20 öre/kWh exklusive moms
 Typhushåll      Elanvändning kWh/år Förändring i elkostnad kr/år
-Ensamhushåll i lägenhet 1 500      375
-Familj i lägenhet   3 000          750
-Familj i villa utan elvärme 5 000 1 250
-Familj i villa med elvärme 20 000 5 000
+
 Källa: Egna beräkningar.
 
 Elkonsumtionen varierar i stor utsträckning med hushållens boende-
@@ -30849,6 +30897,14 @@ på hushållens köpkraft av en sänkt elskatt är därför något under-
 skattade, och i synnerhet gäller detta för hushåll i flerfamiljshus.
 
 634
+
+[Tabell 690-1](handlingar.tabeller/690-1.csv)
+
+| Ensamhushåll i lägenhet | 1 500 | 375 |
+| --- | --- | --- |
+| Familj i lägenhet | 3 000 | 750 |
+| Familj i villa utan elvärme | 5 000 | 1 250 |
+| Familj i villa med elvärme | 20 000 | 5 000 |
 
 <!-- sida 691 -->
 
@@ -31537,10 +31593,7 @@ exklusive moms 2025 års priser
 Körsträcka Förbrukning Kostnadsökning
 (mil/år) (l/mil)
 2028  2029  2030
-Fjärrbilsekipage\* 12 500 3,5 101 400 103 000 105 700
-Lätt lastbil 1 500 0,6    2 300 2 400 2 400
-Buss       5 000   4,0    51 500 52 300 53 700
-Taxi       5 000   0,4    5 100 5 200 5 400
+
 \*Beräkningen utgår ifrån ett antagande om att 90 procent av dieseln som ett fjärrbilsekipage använder
 tankas i Sverige.
 Källa: Egna beräkningar baserade på antaganden i Prop. 2025/26:236 tabell 5.3.
@@ -31563,6 +31616,14 @@ modellens antagande för fordon i segmentet 60 ton vilken också används i tota
 beräkningarna ovan.
 25 Utifrån ett antagande om en drivmedelsförbrukning på 1,7 KWh/mil.
 650
+
+[Tabell 706-1](handlingar.tabeller/706-1.csv)
+
+| Fjärrbilsekipage\* | 12 500 | 3,5 | 101 400 | 103 000 | 105 700 |
+| --- | --- | --- | --- | --- | --- |
+| Lätt lastbil | 1 500 | 0,6 | 2 300 | 2 400 | 2 400 |
+| Buss | 5 000 | 4,0 | 51 500 | 52 300 | 53 700 |
+| Taxi | 5 000 | 0,4 | 5 100 | 5 200 | 5 400 |
 
 <!-- sida 707 -->
 
@@ -32051,26 +32112,7 @@ Miljarder kronor
 Bruttoeffekt Nettoeffekt Nettoeffekt Nettoeffekt
 2028   2028   2029   2030
 Höjd skatt på bensin
-och diesel       14,15 14,01  14,78  15,40
-Höjd beskattning av naturgas
-och gasol som drivmedel 0,07 0,05 0,05 0,05
-Sänkt elskatt med 20 öre/kWh −14,85 −16,42 −16,99 −17,32
-Förändringar i fordonsskatt
-för lätta fordon −0,25 −0,13   0,12   0,34
-Varav sänkt gräns för malus 0,15 0,13 0,38 0,60
-Varav förlängd malusperiod 0 0  0      0
-Varav höjt grundbelopp 0,44 0,43 0,43 0,43
-Varav höjt CO2-belopp
-och sänkt gräns  1,25   1,22   1,22   1,22
-Varav borttaget bränsletillägg
-för dieselfordon −0,48 −0,39  −0,39  −0,39
-Varav borttagen bränslefaktor
-mm för äldre dieselfordon −1,61 −1,52 −1,52 −1,52
-Nedsättningen av förmåns-
-värdet för elbilar, laddhybrider
-och gasbilar trappas ner 0,53 0,49 1,21 2,17
-Förlängd utökad nedsättning
-för jordbruksdiesel −1,53 −1,21 −1,21 −1,21
+
 Ny struktur för beskattning
 av uppvärmningsbränslen \* \*     \*      \*
 Summa           −2,92  −4,29  −3,17  −1,75
@@ -32088,7 +32130,24 @@ finansiell nettoeffekt för 2027 på –0,62 miljarder kronor. För 2028
 inkluderar nedsättningen av skatt på jordbruksdiesel en ytterligare
 nedsättning motsvarande den föreslagna skattehöjningen på diesel
 på 1800 kronor per kubikmeter.
+
 662
+
+[Tabell 718-1](handlingar.tabeller/718-1.csv)
+
+| och diesel | 14,15 | 14,01 | 14,78 | 15,40 |
+| --- | --- | --- | --- | --- |
+| Höjd beskattning av naturgas och gasol som drivmedel | 0,07 | 0,05 | 0,05 | 0,05 |
+| Sänkt elskatt med 20 öre/kWh | −14,85 | −16,42 | −16,99 | −17,32 |
+| Förändringar i fordonsskatt för lätta fordon | −0,25 | −0,13 | 0,12 | 0,34 |
+| Varav sänkt gräns för malus | 0,15 | 0,13 | 0,38 | 0,60 |
+| Varav förlängd malusperiod | 0 | 0 | 0 | 0 |
+| Varav höjt grundbelopp | 0,44 | 0,43 | 0,43 | 0,43 |
+| Varav höjt CO 2 -belopp och sänkt gräns | 1,25 | 1,22 | 1,22 | 1,22 |
+| Varav borttaget bränsletillägg för dieselfordon | −0,48 | −0,39 | −0,39 | −0,39 |
+| Varav borttagen bränslefaktor mm för äldre dieselfordon | −1,61 | −1,52 | −1,52 | −1,52 |
+| Nedsättningen av förmåns- värdet för elbilar, laddhybrider och gasbilar trappas ner | 0,53 | 0,49 | 1,21 | 2,17 |
+| Förlängd utökad nedsättning för jordbruksdiesel | −1,53 | −1,21 | −1,21 | −1,21 |
 
 <!-- sida 719 -->
 
@@ -34243,7 +34302,7 @@ market-stability-reserve-decision-support-smoother-start-2025-
 Europeiska kommissionen (2025b). Commission staff working
 document: Impact assessment report accompanying the proposal for
 a Regulation of the European Parliament and of the Council
-amending Regulation (EU) 2019/631 as regards CO₂ emission
+amending Regulation (EU) 2019/631 as regards CO₂emission
 performance standards for new light-duty vehicles and vehicle
 labelling and repealing Directive 1999/94/EC. SWD(2025) 1058
 final.
@@ -35513,7 +35572,7 @@ nedsättning vid laddning av utsläppsfria tunga fordon.
 
 2024-11-01.
 Transport & Environment (2024). Reducing emissions from non-
-road mobile machinery: How new CO₂ rules, public procurement
+road mobile machinery: How new CO₂rules, public procurement
 and infrastructure provisions can bring clean, affordable off-road
 machines to market and establish Europe’s industry as a zero-
 emission leader. Policy briefing. Brussels, december 2024.
@@ -36923,10 +36982,27 @@ DB2
 DB2
 DB2
 
-[Tabell 831-1](handlingar.tabeller/831-1.csv)
+[Tabell 831-832-1](handlingar.tabeller/831-832-1.csv)
 
 | FÖRKLARINGAR<br>KG KONSTGRÄS<br>A ASFALT<br>BELYSNING<br>BEF. STÄNGSEL, H:2M<br>FLÄTVERK+NYLON, H:5M (2+3)<br>DRÄNERINGSLEDNING<br>AVLOPPSLEDNING<br>UTLOPP<br>DB1<br>BEF. DAGVATTENBRUNN<br>DB2<br>NY DAGVATTENBRUNN |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
@@ -36971,28 +37047,6 @@ DB2
 0.4 FÖRRÅD
 KG
 A
-
-[Tabell 832-1](handlingar.tabeller/832-1.csv)
-
-| FÖRKLARINGAR<br>KG KONSTGRÄS<br>A ASFALT<br>BELYSNING<br>BEF. STÄNGSEL, H:2M<br>FLÄTVERK+NYLON, H:5M (2+3)<br>DRÄNERINGSLEDNING<br>AVLOPPSLEDNING<br>UTLOPP<br>DB1<br>BEF. DAGVATTENBRUNN<br>DB2<br>NY DAGVATTENBRUNN |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
 
 <!-- sida 833 -->
 
@@ -37477,125 +37531,66 @@ Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda oc
 <!-- sida 844 -->
 
 Fasta årsarvoden för deltidsuppdrag, Deltidsarvoden, procentsatser
-Uppdrag i % av övriga
+Nämnd/styrelse           Uppdrag          Uppdrag i % av övriga
 kommunalråd, avsnitt 3.1
-40
-5
-35 /251
-18 /10
-10
-8
-5
-35 /25
-18 /10
-10
-10
-8
-4
-30/22
-18 /12
-10
-8
-6
-5
-35 /25
-18 /10
-10
-10
-8
-8
-30
-18
-25
-10
-25
-10
-25 /17
-18 /12
-8
-6
-4
-30
-18
-10
-20
-8
-4
-15
-6
-15
-6
-5
-15
-6
-10
-2
-4
-2
-8
+K ommunstyrelsen (ej kommunalråd) Ledamot i arbetsutskott 40
+Ersättare i arbetsutskott 5
+Byggnadsnämnden          Ordförande           35 /251
+Vice ordförande      18 /10
+Ordförande i utskott  10
+Vice ordförande i utskott 8
+Ledamot i arbetsutskott 5
+N ämnden för Förskola & Grundskola Ordförande. 35 /25
+1:e vice ordförande  18 /10
+2:e vice ordförande   10
+Ordförande i utskott  10
+Vice ordförande i utskott 8
+Ledamot i arbetsutskott 4
+N ämnden för Gymnasium & Arbetsmarknad Ordförande 30/22
+1:e vice ordförande  18 /12
+2:e vice ordförande   10
+Ordförande i utskott  8
+Vice ordförande i utskott 6
+Ledamot i arbetsutskott 5
+Nämnden för Individ & Familjeomsorg Ordförande 35 /25
+1:e vice ordförande  18 /10
+2:e vice ordförande   10
+Ordförande i utskott  10
+Vice ordförande i utskott 8
+Ledamot i arbetsutskott 8
+Nämnden för Kultur & Fritid Ordförande         30
+Vice ordförande       18
+Nämnden för Miljö & Hälsoskydd Ordförande      25
+Vice ordförande       10
+Nämnden för Service      Ordförande            25
+Vice ordförande       10
+Nämnden för Teknik       Ordförande           25 /17
+Vice ordförande      18 /12
+Ordförande i utskott  8
+Vice ordförande i utskott 6
+Ledamot i arbetsutskott 4
+Nämnden för Vård & Oms org Ordförande.         30
+1:e vice ordförande   18
+2 Vice ordförande     10
+Kommunfullmäktige        Ordförande            20
+Vice ordförande       8
+2 Vice ordförande     4
+Eksta Bostads AB         Ordförande            15
+Vice ordförande       6
+Kommunrevisionen         Ordförande            15
+Vice ordförande       6
+Ledamöter             5
+Stiftelsen Tjolöholm     Ordförande            15
+Vice ordförande       6
+Överförmyndarnämnden     Vice ordförande       10
+KF:s valberedning        Ordförande            2
+Valnämnden (valår 5%)    Ordförande            4
+(valår 3 %)              Vice ordförande       2
+Partigruppledare         Inte K-råd            8
 1Den lägre siffran avser arvodet om den förtroendevalda endast är ordförande i nämnden men inte i utskottet. Om
 samma person är ordförande i nämnden och i utskottet betalas arvode för respektive uppdrag enligt den högre
 siffran i tabellen. Samma gäller för vice ordförande.
 Kungsbacka kommun Riktlinjer och regler för förmåner till förtroendevalda och andra kommunala 11 (18)
-
-[Tabell 844-1](handlingar.tabeller/844-1.csv)
-
-| Nämnd/styrelse | Uppdrag |
-| --- | --- |
-| K ommunstyrelsen (ej kommunalråd) | Ledamot i arbetsutskott |
-|  | Ersättare i arbetsutskott |
-| Byggnadsnämnden | Ordförande |
-|  | Vice ordförande |
-|  | Ordförande i utskott |
-|  | Vice ordförande i utskott |
-|  | Ledamot i arbetsutskott |
-| N ämnden för Förskola & Grundskola | Ordförande. |
-|  | 1:e vice ordförande |
-|  | 2:e vice ordförande |
-|  | Ordförande i utskott |
-|  | Vice ordförande i utskott |
-|  | Ledamot i arbetsutskott |
-| N ämnden för Gymnasium & Arbetsmarknad | Ordförande |
-|  | 1:e vice ordförande |
-|  | 2:e vice ordförande |
-|  | Ordförande i utskott |
-|  | Vice ordförande i utskott |
-|  | Ledamot i arbetsutskott |
-| Nämnden för Individ & Familjeomsorg | Ordförande |
-|  | 1:e vice ordförande |
-|  | 2:e vice ordförande |
-|  | Ordförande i utskott |
-|  | Vice ordförande i utskott |
-|  | Ledamot i arbetsutskott |
-| Nämnden för Kultur & Fritid | Ordförande |
-|  | Vice ordförande |
-| Nämnden för Miljö & Hälsoskydd | Ordförande |
-|  | Vice ordförande |
-| Nämnden för Service | Ordförande |
-|  | Vice ordförande |
-| Nämnden för Teknik | Ordförande |
-|  | Vice ordförande |
-|  | Ordförande i utskott |
-|  | Vice ordförande i utskott |
-|  | Ledamot i arbetsutskott |
-| Nämnden för Vård & Oms org | Ordförande. |
-|  | 1:e vice ordförande |
-|  | 2 Vice ordförande |
-| Kommunfullmäktige | Ordförande |
-|  | Vice ordförande |
-|  | 2 Vice ordförande |
-| Eksta Bostads AB | Ordförande |
-|  | Vice ordförande |
-| Kommunrevisionen | Ordförande |
-|  | Vice ordförande |
-|  | Ledamöter |
-| Stiftelsen Tjolöholm | Ordförande |
-|  | Vice ordförande |
-| Överförmyndarnämnden | Vice ordförande |
-| KF:s valberedning | Ordförande |
-| Valnämnden (valår 5%) | Ordförande |
-| (valår 3 %) | Vice ordförande |
-| Partigruppledare | Inte K-råd |
 
 <!-- sida 845 -->
 

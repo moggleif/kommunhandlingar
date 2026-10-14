@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1c3413919e1001c0e6490f2/17786565440
 sha256: 5bb747ec043e1d12c8c25c16be539530d3f3ec2ae8443782f9cee39aff8628c3
 bytes: 214634
 sidor: 5
-hamtad: 2026-10-08T00:19:24+00:00
-konverterad: 2026-10-08T00:19:32+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T08:15:48+00:00
+konverterad: 2026-10-14T08:15:55+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -57,13 +57,16 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag | Tid |
 | --- | --- | --- | --- | --- |
 | 6. | Delegeringsförteckning för<br>byggnadsnämnden<br>Föredragande: Kasra Hassirian,<br>förvaltningsjurist | BN-2026-<br>00111 | Förslag till beslut i byggnadsnämnden<br>Byggnadsnämnden antar ordinarie<br>delegeringsförteckning för<br>byggnadsnämnden, Delegering av<br>beslutanderätt Byggnadsnämnden, daterad<br>2026-05-06.<br>Delegeringsförteckning för<br>byggnadsnämnden, antagen av<br>byggnadsnämnden 2026-03-19 § 49, upphör<br>samtidigt att gälla. | 5<br>min |
 | 7. | TORRED 1:60 -<br>Förhandsbesked för nybyggnad<br>av ett enbostadshus<br>Föredragande: André Nilsson,<br>senior bygglovshandläggare | BN-2026-<br>000196 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för ett enbostadshus<br>på fastigheten.<br>Avgiften för beslutet är 25 900 kronor.<br>Avgiften är minskad med 25 900 kronor på<br>grund av att beslutet har tagit mer än 10<br>veckor. Kostnaden blir därför 0 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
 | 8. | TOLVSBO 1:13 -<br>Förhandsbesked för nybyggnad<br>av ett enbostadshus<br>Föredragande: André Nilsson,<br>senior bygglovshandläggare | BN-2026-<br>000232 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för ett enbostadshus<br>på fastigheten.<br>Avgiften för beslutet är 25 900 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
+| 9. | ÖLMANÄS 1:8 -<br>Förhandsbesked för nybyggnad<br>av två enbostadshus<br>Föredragande: André Nilsson,<br>senior bygglovshandläggare | BN-2025-<br>002565 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för två<br>enbostadshus på fastigheten.<br>Avgiften för beslutet är 25 734 kr kronor.<br>Avgiften är minskad med 25 734 kr kronor<br>på grund av att beslutet har tagit mer än 10<br>veckor. Kostnaden blir därför 0 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
+| 10. | BOLSHEDEN 1:77 - Bygglov<br>för nybyggnad av verksamhet<br>Föredragande: Thinh Bui-<br>Ljungqvist, senior<br>bygglovshandläggare | BN-2024-<br>001288 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott beviljar<br>ansökan om bygglov för nybyggnad av<br>verksamhet.<br>Du behöver påbörja byggnationen inom två<br>år och färdigställa den inom fem år från det<br>att beslutet vinner laga kraft. Om<br>tidsfristerna inte hålls gäller inte lovet<br>längre.<br>Golvhöjden för huvudbyggnaden fastställs<br>till +32,0.<br>För att genomföra åtgärden krävs<br>kontrollansvarig och startbesked.<br>Kontrollansvarig för åtgärden är<br>.<br>Avgiften för bygglovsbeslut är 18 620<br>kronor. 18 620 kronor av beloppet utgör<br>kostnaden för bygglovet. Observera att<br>tekniskt skede såsom startbesked och<br>slutbesked, eventuell utstakning och<br>lägeskontroll inte är med i ovanstående<br>belopp. Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
+| 11. | KUNGSBACKA 6:27 -<br>Bygglov för nybyggnad<br>av industribyggnad<br>Föredragande: Thinh Bui-<br>Ljungqvist, senior<br>bygglovshandläggare | BN-2026-<br>000390 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott beviljar<br>ansökan om bygglov för nybyggnad av<br>industribyggnad.<br>Golvhöjden för byggnaden fastställs till +<br>4,7 vid sandfilter- och högflödesrening + 6,4<br>vid inlopp och + 8,2 för teknikutrymme.<br>Du behöver påbörja byggnationen inom två<br>år och färdigställa den inom fem år från det<br>att beslutet vinner laga kraft. Om<br>tidsfristerna inte hålls gäller inte lovet<br>längre.<br>Åtgärden kräver tekniskt samråd och du<br>måste ha en kontrollansvarig för att få<br>bygga. Kontrollansvarig för åtgärden är<br>, C002614-K.<br>Avgiften för beslutet är 91 000 kronor. Av<br>detta kostar bygglovet 36 400 kronor och<br>byggskedet 54 600 kronor. Avgiften är<br>fastställd i taxan för byggnadsnämndens<br>verksamhet, beslutad i kommunfullmäktige<br>2023-12-14 § 196. Observera att eventuell<br>utstakning och lägeskontroll inte är med i<br>ovanstående belopp. | 5<br>min |
 
 <!-- sida 3 -->
 
@@ -71,24 +74,11 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 9. | ÖLMANÄS 1:8 -<br>Förhandsbesked för nybyggnad<br>av två enbostadshus<br>Föredragande: André Nilsson,<br>senior bygglovshandläggare | BN-2025-<br>002565 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för två<br>enbostadshus på fastigheten.<br>Avgiften för beslutet är 25 734 kr kronor.<br>Avgiften är minskad med 25 734 kr kronor<br>på grund av att beslutet har tagit mer än 10<br>veckor. Kostnaden blir därför 0 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
-| 10. | BOLSHEDEN 1:77 - Bygglov<br>för nybyggnad av verksamhet<br>Föredragande: Thinh Bui-<br>Ljungqvist, senior<br>bygglovshandläggare | BN-2024-<br>001288 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott beviljar<br>ansökan om bygglov för nybyggnad av<br>verksamhet.<br>Du behöver påbörja byggnationen inom två<br>år och färdigställa den inom fem år från det<br>att beslutet vinner laga kraft. Om<br>tidsfristerna inte hålls gäller inte lovet<br>längre.<br>Golvhöjden för huvudbyggnaden fastställs<br>till +32,0.<br>För att genomföra åtgärden krävs<br>kontrollansvarig och startbesked.<br>Kontrollansvarig för åtgärden är<br>.<br>Avgiften för bygglovsbeslut är 18 620<br>kronor. 18 620 kronor av beloppet utgör<br>kostnaden för bygglovet. Observera att<br>tekniskt skede såsom startbesked och<br>slutbesked, eventuell utstakning och<br>lägeskontroll inte är med i ovanstående<br>belopp. Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 11. | KUNGSBACKA 6:27 -<br>Bygglov för nybyggnad<br>av industribyggnad<br>Föredragande: Thinh Bui-<br>Ljungqvist, senior<br>bygglovshandläggare | BN-2026-<br>000390 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott beviljar<br>ansökan om bygglov för nybyggnad av<br>industribyggnad.<br>Golvhöjden för byggnaden fastställs till +<br>4,7 vid sandfilter- och högflödesrening + 6,4<br>vid inlopp och + 8,2 för teknikutrymme.<br>Du behöver påbörja byggnationen inom två<br>år och färdigställa den inom fem år från det<br>att beslutet vinner laga kraft. Om<br>tidsfristerna inte hålls gäller inte lovet<br>längre.<br>Åtgärden kräver tekniskt samråd och du<br>måste ha en kontrollansvarig för att få<br>bygga. Kontrollansvarig för åtgärden är<br>, C002614-K.<br>Avgiften för beslutet är 91 000 kronor. Av<br>detta kostar bygglovet 36 400 kronor och<br>byggskedet 54 600 kronor. Avgiften är<br>fastställd i taxan för byggnadsnämndens<br>verksamhet, beslutad i kommunfullmäktige<br>2023-12-14 § 196. Observera att eventuell<br>utstakning och lägeskontroll inte är med i<br>ovanstående belopp. | 5<br>min |
 
 <!-- sida 5 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5db42dbd18df2afdfe22f33c/1710494103
 sha256: 378334a9bef07920bfe9a9fd97da0cc72b6d1d3b902beb481c867fc580c07a62
 bytes: 741316
 sidor: 28
-hamtad: 2026-10-07T23:48:25+00:00
-konverterad: 2026-10-07T23:48:31+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T07:50:07+00:00
+konverterad: 2026-10-14T07:50:12+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [3, 14, 18, 20, 25]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -798,18 +798,16 @@ Tabell för resursberäkning OVK
 
 Ordinarie hantering
 
-Inkommande ärenden/aktiviteter  Antal/år tim/ärende tim/år
-
-```osaker-tabell
-Godkända besiktningsprotokoll      300       0,2       60
-Ej godkända besiktningsprotokoll   100        4       400
-
-Anmälningar om ej utförd OVK         4        4        16
-```
-
-Summa                                                 476
-
 Byggnadsnämndens tillsynsplan 2024-2027 Sida 13
+
+[Tabell 16-1](handlingar.tabeller/16-1.csv)
+
+| Inkommande ärenden/aktiviteter | Antal/år | tim/ärende | tim/år |
+| --- | --- | --- | --- |
+| Godkända besiktningsprotokoll | 300 | 0,2 | 60 |
+| Ej godkända besiktningsprotokoll | 100 | 4 | 400 |
+| Anmälningar om ej utförd OVK | 4 | 4 | 16 |
+| Summa |  |  | 476 |
 
 <!-- sida 17 -->
 
@@ -1244,21 +1242,18 @@ Sammanställning tidsåtgång
 
 Nya ärenden                     Antal/år tim/ärende  tim/år
 
-```osaker-tabell
-Tillsynsärende                     250       9        2250
-
-OVK godkända protokoll             300      0,2        60
-OVK ej godkända protokoll          100       4        400
-
-OVK anmälan om ej utförd OVK         4       4         16
-
-Hissar ej godkända                  15       3         45
-```
-
-Hissar ajourhålla register                              8
-Enkelt avhjälpta hinder              0      10          0
-
 Byggnadsnämndens tillsynsplan 2024-2027 Sida 21
+
+[Tabell 24-1](handlingar.tabeller/24-1.csv)
+
+| Tillsynsärende | 250 | 9 | 2250 |
+| --- | --- | --- | --- |
+| OVK godkända protokoll | 300 | 0,2 | 60 |
+| OVK ej godkända protokoll | 100 | 4 | 400 |
+| OVK anmälan om ej utförd OVK | 4 | 4 | 16 |
+| Hissar ej godkända | 15 | 3 | 45 |
+| Hissar ajourhålla register |  |  | 8 |
+| Enkelt avhjälpta hinder | 0 | 10 | 0 |
 
 <!-- sida 25 -->
 

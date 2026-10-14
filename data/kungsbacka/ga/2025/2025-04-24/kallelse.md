@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5b0e44671961df388b27f8e3/1744873090
 sha256: a52ee1c6e48ebbc7e54a3466cc38224895e9876573c30c569fcad751e1e07b73
 bytes: 185661
 sidor: 4
-hamtad: 2026-10-07T22:07:13+00:00
-konverterad: 2026-10-07T22:07:19+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T06:22:55+00:00
+konverterad: 2026-10-14T06:23:01+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -70,7 +70,7 @@ KUNGSBACKA  KOMMUN
 
 3(4)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
+[Tabell 3-4-1](kallelse.tabeller/3-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -78,6 +78,11 @@ KUNGSBACKA  KOMMUN
 | 9. | Planerat utbud på<br>gymnasieskolorna läsår<br>2026/2027 | GA-2025-<br>00040 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 | 10. | IOP Onsala församling | GA-2025-<br>00049 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att ingå överenskommelse om idéburet<br>offentligt partnerskap (IOP) med Onsala församling. |
 | 11. | Förslag om översyn av interna<br>och externa priser och<br>utmärkelser i Kungsbacka<br>kommun | GA-2025-<br>00027 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad föreslår<br>kommunstyrelsen att Lära för livet priset inte ska<br>överlåtas till berörd nämnd för hantering utan att<br>priset kan avvecklas till förmån för de<br>kommunövergripande priserna som finns. |
+| 12. | Återrapportering, synpunkter,<br>klagomål och<br>händelserapportering 2025 | GA-2025-<br>00062 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av synpunkter,<br>klagomål och händelserapportering för kvartal 1<br>2025. |
+| 13. | Återrapportering av<br>delegeringsbeslut | GA-2024-<br>00225 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av delegeringsbeslut<br>för perioden 2025-03-01 till 2025-03-31. Nämnden<br>för Gymnasium & Arbetsmarknad godkänner<br>återrapporteringen gällande personuppgiftincidenter<br>för perioden 2025-01-01 till 2025-03-31. |
+| 14. | Återrapportering av program-<br>och verksamhetsråd | GA-2024-<br>00226 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 15. | Inkomna skrivelser till<br>ledamöter och ersättare i<br>nämnden | GA-2024-<br>00227 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 16. | Förvaltningschef informerar<br>Föredragande: Patrik Hellberg<br>19.40-19.50 | GA-2024-<br>00228 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 
 <!-- sida 4 -->
 
@@ -87,13 +92,3 @@ KUNGSBACKA  KOMMUN
 
 Axel Storckenfeldt (M)            Karin Möglebust
 ordförande                        sekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 12. | Återrapportering, synpunkter,<br>klagomål och<br>händelserapportering 2025 | GA-2025-<br>00062 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av synpunkter,<br>klagomål och händelserapportering för kvartal 1<br>2025. |
-| 13. | Återrapportering av<br>delegeringsbeslut | GA-2024-<br>00225 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av delegeringsbeslut<br>för perioden 2025-03-01 till 2025-03-31. Nämnden<br>för Gymnasium & Arbetsmarknad godkänner<br>återrapporteringen gällande personuppgiftincidenter<br>för perioden 2025-01-01 till 2025-03-31. |
-| 14. | Återrapportering av program-<br>och verksamhetsråd | GA-2024-<br>00226 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-| 15. | Inkomna skrivelser till<br>ledamöter och ersättare i<br>nämnden | GA-2024-<br>00227 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-| 16. | Förvaltningschef informerar<br>Föredragande: Patrik Hellberg<br>19.40-19.50 | GA-2024-<br>00228 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |

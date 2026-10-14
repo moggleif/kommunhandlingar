@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.623f021c1a0fb5d2ed8852c/17909458782
 sha256: 0fb46f7db4d1e410164ca5c7bad374d1518c0b932b741f85a5c4ff4adccc9477
 bytes: 2075816
 sidor: 123
-hamtad: 2026-10-08T08:11:37+00:00
-konverterad: 2026-10-08T08:11:53+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T11:05:23+00:00
+konverterad: 2026-10-14T11:05:37+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [4, 10, 11, 14, 15, 21, 22, 23, 24, 25, 26, 28, 31, 32, 33, 35, 37, 39, 41, 42, 43, 44, 46, 48, 56, 57, 61, 62, 63, 64, 66, 68, 69, 79, 80, 87, 110, 117, 118, 121]
-figurer: null
-tolkade: null
+figurer: [11, 13, 14, 16, 18, 19, 78, 82, 83, 112]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -83,7 +83,7 @@ Sida 1 av 56
 
 [Tabell 2-1](handlingar.tabeller/2-1.csv)
 
-| Tillsynsområde | Behov 2026 | Behov 2027 Behov 2028 Behov 2029 |  |  | Personaltillgång | Differens |
+| Tillsynsområde | Behov 2026 | Behov 2027 | Behov 2028 | Behov 2029 | Personaltillgång | Differens |
 | --- | --- | --- | --- | --- | --- | --- |
 | Miljöfarlig verksamhet | 3,82 | 2,69 | 2,76 | 2,52 |  |  |
 | Förorenade område | 1,22 | 1,13 | 1,12 | 1,13 |  |  |
@@ -94,14 +94,16 @@ Sida 1 av 56
 | Dricksvatten & vattenskyddsområde | 0,27 | 0,24 | 0,20 | 0,23 |  |  |
 | Strandskydd & naturvård | 0,76 | 1,07 | 0,93 | 0,93 |  |  |
 | Lantbruk (jordbruk & djurhåll) | 1,63 | 1,08 | 1,14 | 1,01 |  |  |
-| Övrigt tillsynsområde<br>Summa Miljöbalken | 3,63<br>22,08 | 2,82 2,52 2,51<br>19,02 18,61 18,14 |  |  | 21,30 | -2,28 |
+| Övrigt tillsynsområde | 3,63 | 2,82 | 2,52 | 2,51 |  |  |
+| Summa Miljöbalken | 22,08 | 19,02 | 18,61 | 18,14 | 21,30 | -2,28 |
 | Livsmedel | 2,39 | 2,28 | 2,15 | 2,13 | 2,50 |  |
 | Servering Kungsbacka | 4,16 | 1,65 | 1,70 | 1,56 | 4,00 |  |
 | Servering Mölndal |  | 1,53 | 1,53 | 1,43 |  |  |
 | Försäljning Kungsbacka |  | 0,62 | 0,64 | 0,61 |  |  |
-| Försäljning Mölndal<br>Summa Alkohol, Livsmedel, Tobak | 6,55 | 0,70 0,68 0,67<br>6,78 6,71 6,40 |  |  | 6,50 | 0,28 |
+| Försäljning Mölndal |  | 0,70 | 0,68 | 0,67 |  |  |
+| Summa Alkohol, Livsmedel, Tobak | 6,55 | 6,78 | 6,71 | 6,40 | 6,50 | 0,28 |
 |  |  |  |  |  |  |  |
-| Årsarbetare totalt | 28,63 | 25,80 25,31 24,54 |  |  | 27,80 | -2,00 |
+| Årsarbetare totalt | 28,63 | 25,80 | 25,31 | 24,54 | 27,80 | -2,00 |
 
 <!-- sida 3 -->
 
@@ -3631,7 +3633,7 @@ personaltillgångar framgår av nedanstående tabell.
 
 Sida 1 av 41
 
-[Tabell 73-1](handlingar.tabeller/73-1.csv)
+[Tabell 73-74-1](handlingar.tabeller/73-74-1.csv)
 
 | Tillsynsområde | Resursbehov<br>behovsutredning<br>2026 (BU) åa | Tillsynsplan<br>(TP) 2026 åa | Skillnad<br>BU/TP<br>åa | Personaltillgångar<br>BU åa | Fördelning<br>förvaltningsbudget<br>TP åa |
 | --- | --- | --- | --- | --- | --- |
@@ -3641,6 +3643,11 @@ Sida 1 av 41
 | Avfallshantering | 2,02 | 2,02 | 0,00 |  |  |
 | Kemikalier &<br>bekämpningsmedel | 0,48 | 0,63 | -0,15 |  |  |
 | Små avlopp | 4,71 | 4,19 | 0,52 |  |  |
+| Dricksvatten &<br>vattenskyddsområde | 0,27 | 0,27 | 0,00 |  |  |
+| Strandskydd &<br>naturvård | 0,76 | 0,84 | -0,08 |  |  |
+| Lantbruk | 1,63 | 1,51 | 0,12 |  |  |
+| Övrigt miljöbalken | 3,63 | 3,97 | -0,34 |  |  |
+| Årsarbetare totalt | 22,08 | 21,36 | 0,72 | 22,50 | 21,80 |
 
 <!-- sida 74 -->
 
@@ -3648,15 +3655,6 @@ Tabell 1. Sammanställning av totalt resursbehov och personaltillgångar för be
 av resurserna för tillsynsplan räknat i årsarbetare (åa)
 
 Sida 2 av 41
-
-[Tabell 74-1](handlingar.tabeller/74-1.csv)
-
-| Dricksvatten &<br>vattenskyddsområde | 0,27 | 0,27 | 0,00 |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Strandskydd &<br>naturvård | 0,76 | 0,84 | -0,08 |  |  |
-| Lantbruk | 1,63 | 1,51 | 0,12 |  |  |
-| Övrigt miljöbalken | 3,63 | 3,97 | -0,34 |  |  |
-| Årsarbetare totalt | 22,08 | 21,36 | 0,72 | 22,50 | 21,80 |
 
 <!-- sida 75 -->
 
@@ -3745,21 +3743,36 @@ Behovsutredningen för 2026–2028 visar på ett totalt resursbehov för 2026 (�
 cirka 28,62 årsarbetare, se tabell 2 nedan. Specifikt inom miljöbalkens område
 visade ett behov på 22,08 årsarbetare.
 
+Resursbehov
+enligt
+Resursbehov enligt årets behovsutredning
+Personaltillgångar
+föregående års                       2026
+behovsutredning
+Tillsynsområde Årsarbetare 2025
+Årsarbetare 2026 Årsarbetare Årsarbetare
+Årsarbetare 2026
+Antal personal
+år 1    2027 år 2 2028 år 3         2026
+
+```osaker-tabell
+Miljöfarlig verksamhet 10,21 3,82  2,84     2,84  22,50 (inom MB) 24,00 (inom MB)
+Förorenade områden 1,34   1,22     1,22     1,22
+Hälsoskydd      3,62      3,54     2,09     2,09
+Avfallshantering          2,02     1,73     1,73
+```
+
+Kemikalier och
+0,48     0,37     0,37
+bekämpningsmedel
+Små avlopp      5,46      4,71     4,71     4,71
+Dricksvatten och
+0,27     0,26     0,26
+vattenskyddsområde
+Strandskydd &
+1,04      0,76     0,76     0,76
+naturvård
 Sida 4 av 41
-
-[Tabell 76-1](handlingar.tabeller/76-1.csv)
-
-|  |  | Resursbehov<br>enligt<br>föregående års<br>behovsutredning | Resursbehov enligt årets behovsutredning |  |  | Personaltillgångar<br>2026 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Tillsynsområde | Årsarbetare 2025 |  | Årsarbetare 2026<br>år 1 | Årsarbetare<br>2027 år 2 | Årsarbetare<br>2028 år 3 | Årsarbetare 2026 | Antal personal<br>2026 |
-| Miljöfarlig verksamhet | 10,21 |  | 3,82 | 2,84 | 2,84 | 22,50 (inom MB) | 24,00 (inom MB) |
-| Förorenade områden | 1,34 |  | 1,22 | 1,22 | 1,22 |  |  |
-| Hälsoskydd | 3,62 |  | 3,54 | 2,09 | 2,09 |  |  |
-| Avfallshantering |  |  | 2,02 | 1,73 | 1,73 |  |  |
-| Kemikalier och<br>bekämpningsmedel |  |  | 0,48 | 0,37 | 0,37 |  |  |
-| Små avlopp | 5,46 |  | 4,71 | 4,71 | 4,71 |  |  |
-| Dricksvatten och<br>vattenskyddsområde |  |  | 0,27 | 0,26 | 0,26 |  |  |
-| Strandskydd &<br>naturvård | 1,04 |  | 0,76 | 0,76 | 0,76 |  |  |
 
 <!-- sida 77 -->
 

@@ -1,0 +1,187 @@
+Krav-ID,Release,Kravtext,Hänvisning,Användarbeskrivning,Justering 230825,Kategori,Övrigt
+2.2.28,2023-12-04,"Som ekonomiadministratör vill jag kunna skriva ut
+fakturaunderlag per betalningsmottagare från systemet för att
+jag behöver kunna posta fakturaunderlaget.","Enligt Skatteverket framgår vad ett fakturaunderlag ska innehålla. Av
+Regelsamling framgår vidare att varje enhet ska få rätt ersättning för de
+barn och elever de har placerade i respektive verksamhet. Vid beräkning av
+ekonomiunderlag till intern resursfördelning, utbetalning av bidrag till
+fristående enheter, interkommunal ersättning och andra ekonomiunderlag
+fördelas rätt belopp för varje barn och elev utifrån specifika prislistor för
+varje verksamhet, program, inriktning och kategori och för den tidsperiod
+som de olika ekonomiberäkningarna görs för. Systemet ska kunna använda
+sig av olika resursfördelningsmodeller och prislistor beroende på vilken
+verksamhet barnet/eleven är placerat i. Resursfördelningsmodellen
+beskriver vilket grundbelopp verksamheten ska erhålla för barn och elever
+som är placerade där. Prislistan är generell för GR (Kommuner inom
+Göteborgs Regionen) och uppdateras årsvis. För övriga kommuner så skiljer
+sig prislistan.","När jag som ekonomiadministratör
+skriver ut fakturaunderlaget så saknas
+information samt att informationen i
+fakturaunderlaget inte anpassas till
+utskriften och därmed inte är läsbar.
+På fakturaunderlaget saknas
+information såsom tidsperiod, typ av
+fakturaunderlag, avsändare etc.
+Systemet uppfyller inte kravet i detta
+fall eftersom fakturaunderlaget saknar
+grundläggande obligatorisk information
+samt att underlaget kräver bearbetning
+innan utskrift kan ske.","Gotit visar förslag på utseende av underlag för
+Kommunen som godkänner.",Ekonomi,
+2.3.50,2023-12-04,"Som administratör vill jag kunna placera gymnasiesärelever i
+en fritidsgrupp som enkelt ska kunna administreras och
+skickas över till andra system enligt SS12000-standard.",,"Det saknas den kravställda funktion
+genom vilken jag som administratör
+ska kunna placera gymnasiesärelever i
+en fritidsgrupp och skicka över
+resultatet till andra system efter att ha
+genomfört grundläggande
+administration.","Gotit hårdkodar en grupptyp som går med
+integrationen SS12000 till Vklass fritidshem",Integration,
+2.5.09,2023-12-04,"Som gymnasieadministratör vill jag flexibelt kunna
+återanvända tidigare års undervisningsgrupper exempelvis
+genom att kopiera. Det för att många grupper inte kan skapas
+utifrån en logisk struktur utan måste skapas manuellt. Exempel
+på det är språkgrupper.","Av Ordlistan framgår att: Undervisningsgrupp: En organisatorisk del där en
+samling elever undervisas gemensamt i ett ämne eller kurs. Grupp: Alla
+typer av grupper som förekommer i undervisningsverksamhet. Exempelvis
+mentorsgrupp, lunchtid osv. Av Regelsamlingen framgår det att det finns en
+del av gruppstrukturen som återvänds varje nytt läsår och kan inte skapas
+utifrån en logisk följd från poängplan och klass. Systemet ska kunna
+återanvända undervisningsgrupper utifrån föregående läsår.","När jag som gymnasieadministratör
+återskapar de undervisningsgrupper
+som Systemet inte med automatik kan
+skapa utifrån poängplanen behöver jag
+ange start- och slutdatum för
+undervisnings-grupperna. För att
+uppnå kravuppfyllnad krävs att
+Systemet anger nästa läsårs start- och
+slutdatum för undervisningsgrupperna.","Gotit återställer automatiseringen så att man
+kodmässigt föreslår kommande grupper med start
+och slutdatum exakt ett år fram åt från
+originalgruppens datum.",Grupper,
+4.1.15,2023-12-04,"Systemet ska innehålla en dubbelriktad integration mot Elin för
+att skicka och ta emot information om elevers skolplacering i
+Göteborgsregionen. Systemet ska skriva in elever automatiskt
+genom att använda skolplacering från Elin.","Av Ordlistan framgår att ELIN är ett Externt system. ELIN är
+Göteborgsregionens gemensamma elevinformationssystem.","Jag som ekonom kan inte verifiera att
+eleverna som framgår fakturaunderlag
+från andra kommun/skola som framgår
+av fakturaunderlaget. Detta då
+Systemet inte har skrivit in eleverna
+automatiskt i Systemet. För
+närvarande har Systemet endast
+tillhandahållit den inlästa informationen
+från ELIN och instruerat kommunen de
+tillkommande manuella administrativa
+åtgärder från ekonom att utföra som
+krävs för att uppnå det kravställda
+resultatet. Kravet är emellertid inte
+uppfyllt innan antagningsinformationen
+(som läses tillbaka från ELIN) är
+automatiskt inskriven i Systemet som
+framgår av kravet. Kravet är emellertid
+inte uppfyllt innan
+antagningsinformationen (som läses
+tillbaka från ELIN) är automatiskt
+inskriven i Systemet som framgår av
+kravet.","Gotit lägger till checkbox i vyn som gör att admin
+kan hantera flera elever samtidigt utan att växla
+vy. Dialog med kommunen och specificera lösning
+innan så Kommunen kan verifiera.",Integration,
+4.1.23,2023-12-04,"Systemet ska innehålla en integration för överföring av
+ekonomiunderlag till ekonomisystemet Raindance. Systemet
+ska kunna automatisera följande flöden:
+FSK/FTH Interkommunal ersättning FSK/FTH Bidrag
+fristående verksamhet FSK/FTH Vårdnadshavare fakturor
+avgift FSK/FTH Intern resursfördelning
+GR Interkommunal ersättning
+GR Intern resursfördelning
+GR Bidrag fristående verksamhet
+GY Inackorderingsbidrag
+GY Interkommunal ersättning GY Bidrag fristående
+verksamhet GY Intern resursfördelning
+GYS Vårdnadshavare faktura måltid
+EFL Intern resursfördelning
+EFL Fakturor fristående verksamhet
+EFL Fakturor GY
+EFL Fakturor GR
+Underlag för bidrag som skickas till ekonomisystemet för
+fristående förskolor, pedagogisk omsorg, fritidshem,
+grundskola, gymnasieskola, gymnasiesärskola ska innehålla
+information om mottagare (fristående enheten), elev/barn
+namn/personnummer, program, inriktning prismodell, årskurs,
+belopp (totalt per enhet och per barn/elev)
+Fakturaunderlag som skickas till ekonomisystemet för förskola,
+fritidshem, grundskola, gymnasieskola, gymnasiesärskola till
+andra kommuner ska innehålla mottagare (kommun), referens,
+elev/barn namn/personnummer, placering, prismodell,
+program, inriktning, åk, be- lopp (totalt per kommun och per
+barn/elev)",,"När jag som Ekonom skapar
+fakturaunderlag från Systemet saknas
+information om betalningsmottagare
+och period enligt krav. För att uppnå
+kravuppfyllnad krävs att Systemet
+skapar fakturaunderlag enligt
+specifikation i krav.","Mail med specifikation mailades till Andreas och
+Peter 2023-08-25 Utöver de Excel-dokument som
+systemet redan skapar ska Gotit skapa fasta
+underlagsrapporter som kommer ut i PDF.",Ekonomi,
+4.1.32a,2023-12-04,"Systemet ska kunna integrera med kommunens olika
+bibliotekssystem, Quria.",,"När jag som administratör ska ta ut en
+fil till bibliotekssystem (Quria) så
+kommer inte samtliga parametrar med
+i filen.","· Elev Namn · Elev Personnummer · Elev Klass ·
+Elev Adress · Elev e-postadress · VH1
+Personnummer · VH1 Adress · VH2
+Personnummer · VH2 Adress CSV format",Integration,
+4.1.45,2023-12-04,"Systemet ska kunna skapa grupper där namngivningen
+bestäms av en namnstandard för att kunna ge information om
+vilka som ingår i gruppen.","Gymnasiets namnstandard är: 1. Betygsgrupp: KURSKOD-KLASS; Ex:
+FYSFYS01a-TE19A; 2. Labbgrupp KURSKOD-KLASS: a; EX: FYSFYS01a-
+TE19A: a, FYSFYS01a TE19A:b; 3. Betygsgrupp med flera klasser i flera
+grupper: KURSKOD-PROGRAMSTARTÅR:1, KURSKOD-
+PROGRAMSTARTÅR:2; MATMAT01c-TE19:1, MATMAT01c-TE19:2,
+MATMAT01c-TE19:3","När jag som gymnasieadministratör
+granskar Systemets föreslagna
+grupper utifrån gymnasiets
+namnstandard så saknas möjlighet att
+använda format och specialtecken.
+Detta då bindestreck bland annat
+saknas. För att uppnå kravuppfyllnad
+behöver gymnasiets namnstandard
+tillämpas.","Gotit lägger till möjligheten att skapa grupper
+utifrån en önskad utökad namnstandard. Den
+utökade namnstandarden innebär att man, utöver
+det som systemet redan medger, ska kunna
+använda klass, bindestreck, kolon, snedstreck för
+att kunna namnge alla de olika grupptyper man
+har.",Grupper,
+4.1.48,2023-12-04,"Systemet ska kunna skapa en masterfil med all data om
+placeringen för varje elev/barn med mätdatum 15:e i varje
+månad som ska gå att exportera till Excel och kunna arkiveras.
+Fält som ska finnas med i filen är: Namn, personnummer,
+enhet, årskurs, klass, placeringsdatum, slutdatum,
+pedagogiskt område, hemkommun, antal timmar (gäller
+pedagogisk omsorg) anteckningsfält, kategori, verksamhet,
+program, inriktning, årskurs och läsår.","Med Kategori för gymnasiet avses ansvar baserat på studieväg, enhet mm.","När jag som Ekonom skapar en
+masterfil i Systemet med aktuell
+information som är specificerat i kravet
+så kan inte Systemet får med all
+information i en och samma fil. Jag
+som Ekonom behöver arbeta ihop filer
+manuellt utanför Systemet för att få
+den masterfil som krävs. För att uppnå
+kravuppfyllnad krävs att Systemet kan
+ta ut en masterfil med all specifikation
+som framgår av kravet.","Gotit sammanställer rapportfil för ekonomerna
+enligt de givna parametrarna: Namn,
+personnummer, enhet, årskurs, klass,
+placeringsdatum, slutdatum, pedagogiskt område,
+hemkommun, antal timmar (gäller pedagogisk
+omsorg) anteckningsfält, kategori, verksamhet,
+program, inriktning, årskurs och läsår. Observera
+att med Kategori avser kommunen Ansvar. Etapp
+2 har skickat specifikation av kategori via mail
+Samt se vilken kommun Skolan är placerad
+(Skolort).",Ekonomi,

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5689acbf1a0862710404491b/1789109262
 sha256: e5215ddc38b5f1370cea8c1a4db30cb04bcecbb12beddceacfb1160b690d69d6
 bytes: 11653586
 sidor: 380
-hamtad: 2026-10-08T01:37:00+00:00
-konverterad: 2026-10-08T01:38:20+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T09:20:03+00:00
+konverterad: 2026-10-14T09:21:13+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [253, 269, 270, 271, 272, 295, 309, 310, 311, 312, 313]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [42, 43, 44, 45, 46, 47, 48, 49, 50, 152, 253, 266, 267, 268, 269, 270, 271, 272, 293, 294, 295, 307, 308, 309, 310, 311, 312, 313, 332]
+figurer: [56, 61, 62, 64, 66, 67, 68, 70, 72, 73, 74, 75, 76, 79, 80, 81, 82, 84, 87, 88, 89, 91, 92, 96, 97, 100, 101, 102, 103, 104, 105, 115, 117, 118, 124, 125, 127, 128, 129, 130, 131, 132, 133, 134, 136, 138, 139, 144, 146, 148, 150, 153, 216, 228, 229, 245, 248, 254, 259, 285, 286, 304, 338, 339, 343, 353, 354]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1800,21 +1800,41 @@ byggnation kan starta. Bedömning är att byggstart sker 2027 och medel tidsför
 2027\.
 Specifikation projekt över 30 mnkr till Kommunstyrelsen
 
+Ack utfall
+Proj         Totalbud Totalprogn Avvikelse totalt tom Helårsprogn Budget Avvikel
+Text
+nr           get    os       totalt   augusti os 2026   2026 se 2026
+2026
+GC-bro
+över
+351
+järnvägen 12,2     12,2      0,0    0        0      5,3     -5,3
+0
+vid Inlag,
+inkomst
+GC-bro
+över
+351
+järnvägen   -40,8   -40,8    0,0    -16,4      -4,0  -4,0    0,0
+0
+vid Inlag,
+utgift
+Varlavägen
+fyra körfält,
+delen
+654
+Arendalsle  -82,5   -82,5    0,0     -2,5      -6,0  -6,0    0,0
+5
+den - Stora
+Bäckslede
+n
+Summa projekt -111,1  -111,1   0,0    -18,9    -10,0    -4,7   -5,3
 5.4.2 Investeringsbudget VA
 Investeringar
 
 34
 
 [Tabell 35-1](handlingar.tabeller/35-1.csv)
-
-| Proj<br>nr | Text | Totalbud<br>get | Totalprogn<br>os | Avvikelse<br>totalt | Ack utfall<br>totalt tom<br>augusti<br>2026 | Helårsprogn<br>os 2026 | Budget<br>2026 | Avvikel<br>se 2026 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 351<br>0 | GC-bro<br>över<br>järnvägen<br>vid Inlag,<br>inkomst | 12,2 | 12,2 | 0,0 | 0 | 0 | 5,3 | -5,3 |
-| 351<br>0 | GC-bro<br>över<br>järnvägen<br>vid Inlag,<br>utgift | -40,8 | -40,8 | 0,0 | -16,4 | -4,0 | -4,0 | 0,0 |
-| 654<br>5 | Varlavägen<br>fyra körfält,<br>delen<br>Arendalsle<br>den - Stora<br>Bäckslede<br>n | -82,5 | -82,5 | 0,0 | -2,5 | -6,0 | -6,0 | 0,0 |
-| Summa projekt |  | -111,1 | -111,1 | 0,0 | -18,9 | -10,0 | -4,7 | -5,3 |
-
-[Tabell 35-2](handlingar.tabeller/35-2.csv)
 
 |  | Bokslut<br>2025 | Budget<br>2026 | Prognos<br>2026 | Budgetavvi<br>kelse 2026 | Delår 2026 |
 | --- | --- | --- | --- | --- | --- |
@@ -1850,7 +1870,7 @@ Specifikation projekt över 30 mnkr till Kommunstyrelsen
 
 35
 
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
+[Tabell 36-37-1](handlingar.tabeller/36-37-1.csv)
 
 | Proj<br>nr | Text | Totalbud<br>get | Totalprog<br>nos | Avvikel<br>se<br>totalt | Ack utfall<br>totalt tom<br>augusti<br>2026 | Helårspro<br>gnos 2026 | Budget<br>2026 | Avvikels<br>e 2026 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1863,6 +1883,14 @@ Specifikation projekt över 30 mnkr till Kommunstyrelsen
 | 550<br>B | Frillesås<br>åtgärder<br>spillvatten<br>UT | -51,5 | -51,5 | 0,0 | -0,4 | -0,5 | -0,5 | 0,0 |
 | 550 I | VOMV 216<br>Sönnerberg<br>en IN | 61,5 | 61,5 | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 |
 | 550 I | VOMV 216<br>Sönnerberg<br>en UT | -81,6 | -81,6 | 0,0 | -0,5 | -0,6 | -0,6 | 0,0 |
+| 550<br>P | Fjärås VV<br>Hammerö<br>uppdim et 2<br>UT | -47,0 | -47,0 | 0,0 | -8,8 | -8,8 | -6,7 | -2,1 |
+| 5507 | Åtgärder<br>reservatten<br>GBG-KBA<br>UT | -295,0 | -295,0 | 0,0 | -16,6 | -28,0 | -28,4 | 0,4 |
+| 5560 | VOMV VA-<br>utbyggnad<br>Släps-Högås<br>IN | 37,0 | 37,0 | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 |
+| 5560 | VOMV VA-<br>utbyggnad<br>Släps-Högås<br>UT | -105,9 | -105,9 | 0,0 | -0,7 | -1,0 | -5,0 | 4,0 |
+| 5565 | VOMV VA-<br>utbyggnad<br>Hagryd Dala<br>IN | 53,5 | 53,5 | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 |
+| 5565 | VOMV VA-<br>utbyggnad<br>Hagryd Dala<br>UT | -134,2 | -134,2 | 0,0 | -24,5 | -35,0 | -32,0 | -3,0 |
+| 7528 | FAR<br>investerings<br>projekt UT | -1 655,0 | -1 637,0 | 18,0 | -167 | -290,0 | -481,7 | 191,7 |
+| Summa projekt |  | -3 411,2 | -3 393,2 | 18,0 | -253,2 | -440,9 | -630,0 | 189,1 |
 
 <!-- sida 37 -->
 
@@ -1894,18 +1922,6 @@ spillvattenledningar i området. Nu planeras för utbyggnad av dagvattensystem i
 enlighet med budget.
 
 36
-
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
-
-| 550<br>P | Fjärås VV<br>Hammerö<br>uppdim et 2<br>UT | -47,0 | -47,0 | 0,0 | -8,8 | -8,8 | -6,7 | -2,1 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5507 | Åtgärder<br>reservatten<br>GBG-KBA<br>UT | -295,0 | -295,0 | 0,0 | -16,6 | -28,0 | -28,4 | 0,4 |
-| 5560 | VOMV VA-<br>utbyggnad<br>Släps-Högås<br>IN | 37,0 | 37,0 | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 |
-| 5560 | VOMV VA-<br>utbyggnad<br>Släps-Högås<br>UT | -105,9 | -105,9 | 0,0 | -0,7 | -1,0 | -5,0 | 4,0 |
-| 5565 | VOMV VA-<br>utbyggnad<br>Hagryd Dala<br>IN | 53,5 | 53,5 | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 |
-| 5565 | VOMV VA-<br>utbyggnad<br>Hagryd Dala<br>UT | -134,2 | -134,2 | 0,0 | -24,5 | -35,0 | -32,0 | -3,0 |
-| 7528 | FAR<br>investerings<br>projekt UT | -1 655,0 | -1 637,0 | 18,0 | -167 | -290,0 | -481,7 | 191,7 |
-| Summa projekt |  | -3 411,2 | -3 393,2 | 18,0 | -253,2 | -440,9 | -630,0 | 189,1 |
 
 <!-- sida 38 -->
 
@@ -2137,7 +2153,7 @@ röstar nej. Vinner nej har regionfullmäktige beslutat enligt Per Perssons (S) 
 
 Ordförandes sign     Justerares sign      Utdragsbestyrkande
 
-SSidiad a1 1a va v2 930
+SSidiad a1 1a va v2930
 
 <!-- sida 43 -->
 
@@ -2191,7 +2207,7 @@ Laholms kommun
 
 Ordförandes sign     Justerares sign      Utdragsbestyrkande
 
-SSidiad a2 2a va v2 930
+SSidiad a2 2a va v2930
 
 <!-- sida 44 -->
 
@@ -2209,7 +2225,7 @@ Paragrafen är justerad
 
 Ordförandes sign     Justerares sign      Utdragsbestyrkande
 
-SSidiad a3 3a va v2 930
+SSidiad a3 3a va v2930
 
 <!-- sida 45 -->
 
@@ -2265,7 +2281,7 @@ Unnaryd samt mot Värnamo, Ljungby och Markaryd.
 
 Ordförandes sign     Justerares sign      Utdragsbestyrkande
 
-SSidiad a4 1a va v2 940
+SSidiad a4 1a va v2940
 
 <!-- sida 46 -->
 
@@ -2323,7 +2339,7 @@ tillväxtutskottets förslag och Jonas Strands (S) ändringsyrkande. Ordförande
 
 Ordförandes sign     Justerares sign      Utdragsbestyrkande
 
-SSidiad a5 2a va v2 940
+SSidiad a5 2a va v2940
 
 <!-- sida 47 -->
 
@@ -2369,7 +2385,7 @@ Beslutsunderlag
 
 Ordförandes sign     Justerares sign      Utdragsbestyrkande
 
-SSidiad a6 3a va v2 940
+SSidiad a6 3a va v2940
 
 <!-- sida 48 -->
 
@@ -2391,7 +2407,7 @@ Paragrafen är justerad
 
 Ordförandes sign     Justerares sign      Utdragsbestyrkande
 
-SSidiad a7 4a va v2 940
+SSidiad a7 4a va v2940
 
 <!-- sida 49 -->
 
@@ -2445,7 +2461,7 @@ Ordförande tillkännager att tillväxtutskottet har röstat enligt sitt eget f�
 
 Ordförandes sign     Justerares sign      Utdragsbestyrkande
 
-SSidiad a8 1a va v2 920
+SSidiad a8 1a va v2920
 
 <!-- sida 50 -->
 
@@ -2486,7 +2502,7 @@ Paragrafen är justerad
 
 Ordförandes sign     Justerares sign      Utdragsbestyrkande
 
-SSidiad a9 2a va v2 920
+SSidiad a9 2a va v2920
 
 <!-- sida 51 -->
 
@@ -4407,10 +4423,10 @@ säkerställa en sammanhängande    trafikutbud utifrån invånarantal inom
 trafik. Oavsett dignitet eller storlek för ett respektive tätort.
 område, och hur stort utbud av
 Tätort-inv.antal Mån-fre                         Lör     Sön
-<300                                                     -
-300–499                                                  -
-500–999                                                  -
-1000–2999                                                5
+<300            Närtrafik/Anropsstyrd trafik     -       -
+300–499         5                                -       -
+500–999         7                                -       -
+1000–2999       10                               6       5
 \>3000           18                               10      6
 Tabell 1. Basutbud för orter utefter invånarantal. Antal turer/resmöjligheter per dag i båda
 
@@ -4419,14 +4435,6 @@ riktningarna. Antal turer i stadstrafiken bestäms enligt efterfrågan samt str�
 Trafikförsörjningsprogram 2026-2030 37
 
 Sida 51 av 290
-
-[Tabell 92-1](handlingar.tabeller/92-1.csv)
-
-| Närtrafik/Anropsstyrd trafik | - |
-| --- | --- |
-| 5 | - |
-| 7 | - |
-| 10 | 6 |
 
 <!-- sida 93 -->
 
@@ -4897,11 +4905,13 @@ Tabell 2. Utbud i regionala och lokala kollektivtrafikstråk. Antal turer/resmö
 riktningarna. Antal turer i stadstrafiken bestäms enligt efterfrågan samt stråk i stadstrafiken.
 Stråk            Mån-fre           Lör              Sön
 
-Mycket starka                                       8
-Starka                                              8
+```osaker-tabell
+Mycket starka     24               12               8
+Starka            18               12               8
 
-Lokalt mycket starkt                                32
+Lokalt mycket starkt 54            36               32
 Lokalt starkt     28               20               12
+```
 
 Utbudet som finns i stråken idag ska Kollektivtrafikutbud utanför stråken
 upprätthållas så långt det är möjligt förutsatt Även i områden utanför
@@ -4947,13 +4957,6 @@ kan fortsätta att utvecklas.
 Trafikförsörjningsprogram 2026-2030 51
 
 Sida 65 av 290
-
-[Tabell 106-1](handlingar.tabeller/106-1.csv)
-
-| 24 | 12 |
-| --- | --- |
-| 18 | 12 |
-| 54 | 36 |
 
 <!-- sida 107 -->
 
@@ -13021,7 +13024,7 @@ Underskrift    .................................................
 
 Justerandes sign                      Utdragsbestyrkande
 
-Sida 12 2(35) av 290
+Sida 122(35) av 290
 
 <!-- sida 267 -->
 
@@ -13077,7 +13080,7 @@ mindre kommuner. Kommunen föreslår en mer flexibel modell där kollektivtrafik
 
 Justerandes sign                      Utdragsbestyrkande
 
-Sida 22 2(36) av 290
+Sida 222(36) av 290
 
 <!-- sida 268 -->
 
@@ -13115,7 +13118,7 @@ Paragrafen är justerad
 
 Justerandes sign                      Utdragsbestyrkande
 
-Sida 32 2(37) av 290
+Sida 322(37) av 290
 
 <!-- sida 269 -->
 
@@ -17207,21 +17210,17 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 7
 
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 8 (18)
 
-[Tabell 366-1](handlingar.tabeller/366-1.csv)
+[Tabell 366-367-1](handlingar.tabeller/366-367-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för beslutet |
 | --- | --- | --- | --- | --- |
 | 2.4.4 | 10 kap. trafikförordningen (1998:1276) | Beslut om tillfälliga trafikföreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare | 31 st beslut och datum för beslut<br>1384 2026-00116 Kungsbacka Sportcenter<br>1384 2026-00154 Gottskärsvägen<br>1384 2026-00155 Badhusparksparkeringen<br>1384 2026-00166 Hamntorget<br>1384 2026-00157 Drottninggatan<br>1384 2026-00158 Drottninggatan<br>1384 2026-00159 Guldgubbegatan<br>1384 2026-00161 Drottninggatan<br>1384 2026-00163 Drottninggatan<br>1384 2026-00164 Badhusparksparkeringen<br>1384 2026-00170 Skolgatan<br>1384 2026-00171 Gymnasiegatan<br>1384 2026-00172 Gymnasiegatan<br>1384 2026-00173 Gymnasiegatan<br>1384 2026-00174 Gymnasiegatan<br>1384 2026-00175 Läraregatan<br>1384 2026-00176 Läraregatan<br>1384 2026-00181 Ejdern<br>1384 2026-00182 Ejdern<br>1384 2026-00184 Carl Bondes väg<br>1384 2026-00185 Motellvägen<br>1384 2026-00186 Björkris<br>1384 2026-00188 Storgatan<br>1385 2026-00189 Borgmästaregatan<br>1384 2026-00165 Storgatan<br>1384 2026-00190 Kyrkogatan |
+|  |  |  |  | 1384 2026-00191 Badhusparksparkeringen<br>1384 2026-00199 Kungsbacka Torg<br>1384 2026-00204 Skolgatan<br>1384 2026-00208 Skolgatan<br>1384 2026-00221 Storgatan |
+| 2.4.5 | 10 kap. trafikförordningen (1998:1276) | Revidering av befintliga permanenta föreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare | 50 st beslut och datum för beslut<br>1384 2026-00115 Kungsbacka Sportcenter<br>1384 2026-00117 Åsaskolan<br>1384 2026-00118 Fjärås centrum<br>1384 2026-00119 Smeagatan<br>1384 2026-00120 Kungsbackaskogen<br>1384 2026-00122 Hålabäck<br>1384 2026-00124 Varlagård<br>1384 2026-00125 Vallgatan<br>1384 2026-00126 Tölöleden<br>1384 2026-00127 Tölö Tvärled<br>1384 2026-00128 Lilla Hantverksgatan<br>1384 2026-00129 Lantmannagatan<br>1384 2026-00130 Finnagårdsvägen<br>1384 2026-00131 Björsmossevägen<br>1384 2026-00132 Arendalsleden<br>1384 2026-00133 Håkullavägen<br>1384 2026-00134 Verkstadsgatan<br>1384 2026-00135 Västra Ebbagårdsvägen<br>1384 2026-00137 Östra Långgatan<br>1384 2026-00138 Östra Långgatan<br>1384 2026-00141 Lindströmsvägen<br>1384 2026-00142 Kobbavägen |
 
 <!-- sida 367 -->
 
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 9 (18)
-
-[Tabell 367-1](handlingar.tabeller/367-1.csv)
-
-|  |  |  |  | 1384 2026-00191 Badhusparksparkeringen<br>1384 2026-00199 Kungsbacka Torg<br>1384 2026-00204 Skolgatan<br>1384 2026-00208 Skolgatan<br>1384 2026-00221 Storgatan |
-| --- | --- | --- | --- | --- |
-| 2.4.5 | 10 kap. trafikförordningen (1998:1276) | Revidering av befintliga permanenta föreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare | 50 st beslut och datum för beslut<br>1384 2026-00115 Kungsbacka Sportcenter<br>1384 2026-00117 Åsaskolan<br>1384 2026-00118 Fjärås centrum<br>1384 2026-00119 Smeagatan<br>1384 2026-00120 Kungsbackaskogen<br>1384 2026-00122 Hålabäck<br>1384 2026-00124 Varlagård<br>1384 2026-00125 Vallgatan<br>1384 2026-00126 Tölöleden<br>1384 2026-00127 Tölö Tvärled<br>1384 2026-00128 Lilla Hantverksgatan<br>1384 2026-00129 Lantmannagatan<br>1384 2026-00130 Finnagårdsvägen<br>1384 2026-00131 Björsmossevägen<br>1384 2026-00132 Arendalsleden<br>1384 2026-00133 Håkullavägen<br>1384 2026-00134 Verkstadsgatan<br>1384 2026-00135 Västra Ebbagårdsvägen<br>1384 2026-00137 Östra Långgatan<br>1384 2026-00138 Östra Långgatan<br>1384 2026-00141 Lindströmsvägen<br>1384 2026-00142 Kobbavägen |
 
 <!-- sida 368 -->
 
@@ -17282,24 +17281,72 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 1
 
 <!-- sida 371 -->
 
+2.4.12 Tillämpningsregler för bidrag till enskild Beslut om bidrag för lekplats, enskild väghållning, särskilt Fc 1 beslut den 15 april om förändrad
+väghållning I Kungsbacka kommun vägbidrag och vägbelysning enligt av fullmäktige fastställda procentsats för utbetalning av
+Auto-
+2011- 05-18               villkor                                      lekplatsbidrag.
+matiserad
+besluts-
+funktion
+Vc Trafik &
+Utemiljö
+Ec Planering
+& Utformning
+Ec
+Anläggning
+& Utveckling
+Trafik-
+ingenjör
+Samordnare
+Trafik-
+samordnare
+2.4.13 5 § lag (1976:206) om felparkeringsavgift Beslut om felparkeringsavgift samt kontrollavgift vid olovlig Fc - Kontrollavgifter
+och1 § lag (1984:318) om kontrollavgift vid parkering          Trafik-  Juli: 91
+olovlig parkering                                              Övervakare Augusti: 120
+\- Parkeringsanmärkning
+Juli: 727
+Augusti 497
+
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 13 (18)
-
-[Tabell 371-1](handlingar.tabeller/371-1.csv)
-
-| 2.4.12 | Tillämpningsregler för bidrag till enskild<br>väghållning I Kungsbacka kommun<br>2011- 05-18 | Beslut om bidrag för lekplats, enskild väghållning, särskilt<br>vägbidrag och vägbelysning enligt av fullmäktige fastställda<br>villkor | Fc<br>Auto-<br>matiserad<br>besluts-<br>funktion<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare<br>Trafik-<br>samordnare | 1 beslut den 15 april om förändrad<br>procentsats för utbetalning av<br>lekplatsbidrag. |
-| --- | --- | --- | --- | --- |
-| 2.4.13 | 5 § lag (1976:206) om felparkeringsavgift<br>och1 § lag (1984:318) om kontrollavgift vid<br>olovlig parkering | Beslut om felparkeringsavgift samt kontrollavgift vid olovlig<br>parkering | Fc<br>Trafik-<br>Övervakare | - Kontrollavgifter<br>Juli: 91<br>Augusti: 120<br>- Parkeringsanmärkning<br>Juli: 727<br>Augusti 497 |
 
 <!-- sida 372 -->
 
+2.4.14 Vägmärkesförordningen SFS 2007:90 AFS Beslut om tillstånd att schakta i gator och vägar för vilka Fc 11 st beslut och datum för beslut
+1999:3 49 § 81 § (a-e)    kommunen är huvudman och vid behov kräva säkerhet för TE-TA 2026-000100 2026-08-10
+Vc Trafik &
+beräknade kostnader för återställande av kommunens
+Ordningslagen 3 kap. 4 §                                       Utemiljö TE-TA 2026-000177 2026-08-11
+anläggningar
+TE-TA 2026-000178 2026-08-11
+Plan och Bygglagen 6 Kap. 21 §                                 Ec drift Gata
+TE-TA 2026-000179 2026-08-14
+Ec
+Anläggning TE-TA 2026-000181 2026-08-20
+& Utveckling TE-TA 2026-000183 2026-08-20
+Samordnare TE-TA 2026-000186 2026-08-24
+TE-TA 2026-000073 2026-08-25
+TE-TA 2026-000190 2026-08-27
+TE-TA 2026-000074 2026-08-04
+TE-TA 2026-000188 2026-08-26
+2.4.15 Vägmärkesförordningen SFS 2007:90 Godkännande av trafikanordningsplan Fc 10 st beslut och datum för beslut
+AFS 1999:3 49 § 81 § (a-e)                                     Vc Trafik & TE-TA 2026-000176 2026-08-06
+Ordningslagen 3 kap. 4 §                                       Utemiljö TE-TA 2026-000180 2026-08-13
+Ec drift Gata TE-TA 2026-000182 2026-08-18
+Ec
+TE-TA 2026-000184 2026-08-18
+Anläggning
+TE-TA 2026-000185 2026-08-20
+& Utveckling
+Samordnar TE-TA 2026-000187 2026-08-25
+e        TE-TA 2026-000189 2026-08-25
+TE-TA 2026-000191 2026-08-27
+TE-TA 2026-000192 2026-08-31
+TE-TA 2026-000193 2026-08-31
+2.4.16 13 kap. och 8 § trafikförordningen Beslut om parkeringstillstånd för rörelsehindrade Fc Beslut om parkeringstillstånd för rörelsehindrad
+(1998:1276)                                                    Färdtjänst- Beviljade: 21
+utredare
+Avslagna: 2
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 14 (18)
-
-[Tabell 372-1](handlingar.tabeller/372-1.csv)
-
-| 2.4.14 | Vägmärkesförordningen SFS 2007:90 AFS<br>1999:3 49 § 81 § (a-e)<br>Ordningslagen 3 kap. 4 §<br>Plan och Bygglagen 6 Kap. 21 § | Beslut om tillstånd att schakta i gator och vägar för vilka<br>kommunen är huvudman och vid behov kräva säkerhet för<br>beräknade kostnader för återställande av kommunens<br>anläggningar | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec drift Gata<br>Ec<br>Anläggning<br>& Utveckling<br>Samordnare | 11 st beslut och datum för beslut<br>TE-TA 2026-000100 2026-08-10<br>TE-TA 2026-000177 2026-08-11<br>TE-TA 2026-000178 2026-08-11<br>TE-TA 2026-000179 2026-08-14<br>TE-TA 2026-000181 2026-08-20<br>TE-TA 2026-000183 2026-08-20<br>TE-TA 2026-000186 2026-08-24<br>TE-TA 2026-000073 2026-08-25<br>TE-TA 2026-000190 2026-08-27<br>TE-TA 2026-000074 2026-08-04<br>TE-TA 2026-000188 2026-08-26 |
-| --- | --- | --- | --- | --- |
-| 2.4.15 | Vägmärkesförordningen SFS 2007:90<br>AFS 1999:3 49 § 81 § (a-e)<br>Ordningslagen 3 kap. 4 § | Godkännande av trafikanordningsplan | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec drift Gata<br>Ec<br>Anläggning<br>& Utveckling<br>Samordnar<br>e | 10 st beslut och datum för beslut<br>TE-TA 2026-000176 2026-08-06<br>TE-TA 2026-000180 2026-08-13<br>TE-TA 2026-000182 2026-08-18<br>TE-TA 2026-000184 2026-08-18<br>TE-TA 2026-000185 2026-08-20<br>TE-TA 2026-000187 2026-08-25<br>TE-TA 2026-000189 2026-08-25<br>TE-TA 2026-000191 2026-08-27<br>TE-TA 2026-000192 2026-08-31<br>TE-TA 2026-000193 2026-08-31 |
-| 2.4.16 | 13 kap. och 8 § trafikförordningen<br>(1998:1276) | Beslut om parkeringstillstånd för rörelsehindrade | Fc<br>Färdtjänst-<br>utredare | Beslut om parkeringstillstånd för rörelsehindrad<br>Beviljade: 21<br>Avslagna: 2 |
 
 <!-- sida 373 -->
 
@@ -17338,14 +17385,18 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 1
 
 2.5 Färdtjänst
 
+Nr   Lagrum/stöd               Delegeringens omfattning             Ansvarig Taget beslut och datum för
+delegat  beslutet
+2.5.1 6–9 §§ lag (1997:736) om Beslut om tillstånd till färdtjänst med regelkompletteringar Fc Beslut om färdtjänst
+färdtjänst                                                     Färdtjänst- Beviljade: 58
+utredare Avslagna: …
+Ec Kansli
+2.5.5 4–7 §§ lag (1997:735) om Beslut om tillstånd till riksfärdtjänst Fc   Beslut om riksfärdtjänst
+riksfärdtjänst                                                 Färdtjänst- Beviljade: 21
+utredare Avslagna: 0
+Ec Kansli
+
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 16 (18)
-
-[Tabell 374-1](handlingar.tabeller/374-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
-| --- | --- | --- | --- | --- |
-| 2.5.1 | 6–9 §§ lag (1997:736) om<br>färdtjänst | Beslut om tillstånd till färdtjänst med regelkompletteringar | Fc<br>Färdtjänst-<br>utredare<br>Ec Kansli | Beslut om färdtjänst<br>Beviljade: 58<br>Avslagna: … |
-| 2.5.5 | 4–7 §§ lag (1997:735) om<br>riksfärdtjänst | Beslut om tillstånd till riksfärdtjänst | Fc<br>Färdtjänst-<br>utredare<br>Ec Kansli | Beslut om riksfärdtjänst<br>Beviljade: 21<br>Avslagna: 0 |
 
 <!-- sida 375 -->
 
@@ -17384,7 +17435,7 @@ delegeringsförteckning antagen 2025-09-24 § 94.
 Sida
 1(4)
 
-[Tabell 377-1](handlingar.tabeller/377-1.csv)
+[Tabell 377-380-1](handlingar.tabeller/377-380-1.csv)
 
 | Datum | Beskrivning | Diarienummer |
 | --- | --- | --- |
@@ -17396,16 +17447,6 @@ Sida
 | 2026-08-24 | Yttrande Teknik – Valkampanj M - Kungsbacka torg | TE-2026-00709 |
 | 2026-08-21 | Yttrande Teknik – Valaffischering A484.749/2026 | TE-2026-00693 |
 | 2026-08-21 | Yttrande Teknik Transportdispens TRV 2026/84188 | TE-2026-00716 |
-
-<!-- sida 378 -->
-
-Sida
-2(4)
-
-[Tabell 378-1](handlingar.tabeller/378-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2026-08-20 | Yttrande Teknik - Seniormässa Elof Lindälvs Gymnasium | TE-2026-00666 |
 | 2026-08-20 | Yttrande Teknik - Byggetablering vid P-hus Linden | TE-2026-00704 |
 | 2026-08-17 | Yttrande Teknik - Öppet gympass | TE-2026-00707 |
@@ -17417,16 +17458,6 @@ Sida
 | 2026-08-10 | Yttrande Teknik Transportdispens TRV 2026/77454 | TE-2026-00690 |
 | 2026-08-14 | Yttrande Teknik - Arrendeansökan för aktivitetsområde Skårby 12:1 | TE-2026-00688 |
 | 2026-08-13 | Yttrande Teknik - Vändplats för sopbil/slambil, hämtning av hushållsavfall, Köpstaden 5:7, BN 2026-000810 | TE-2026-00686 |
-
-<!-- sida 379 -->
-
-Sida
-3(4)
-
-[Tabell 379-1](handlingar.tabeller/379-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2026-08-13 | Yttrande Teknik - Vändplats för sopbil/slambil, hämtning av hushållsavfall, Öxared 1:11, BN 2026-000662 | TE-2026-00685 |
 | 2026-08-21 | Yttrande Teknik - Vändplats för sopbil och slambil samt anslutning till kommunala ledningar, Torpa 5:7, BN 2026-<br>000769 | TE-2026-00672 |
 | 2026-08-21 | Yttrande Teknik - Teknisk anläggning, station 7, Varla 2:198, KS-2026-00569 | TE-2026-00671 |
@@ -17438,17 +17469,22 @@ Sida
 | 2026-08-10 | Yttrande Teknik - Kapacitet på VA, hämtning av hushållsavfall, Bukärr 3:2, BN 2026-000354 | TE-2026-00654 |
 | 2026-08-13 | Yttrande Teknik - Kapacitet på VA, vägbredd/väglutning samt vändplats för sopbil, Tom 2:18, BN 2026-000376 | TE-2026-00589 |
 | 2026-08-25 | Yttrande Teknik - Fastighet inom buffertzon för reningsverk, Släps-Kullen 1:307, BN 2026-000818 | TE-2026-00586 |
+| 2026-08-24 | Yttrande Teknik - Kapacitet på VA, konflikt med ledningar, trafiksäkerhet m.fl. Duvehed 2:53, BN 2026-000780 | TE-2026-00584 |
+| 2026-08-12 | Yttrande Teknik - Kapacitet på VA-ledning och möjlighet till<br>anslutning samt hämtning av hushållsavfall, Iserås 7:11, BN 2026-000655 | TE-2026-00562 |
+| 2026-08-12 | Yttrande Teknik - Kapacitet på VA-ledning, trafiksäkerhet och hämtning av hushållsavfall, Skårby 13:10, BN 2026-<br>000746 | TE-2026-00554 |
+| 2026-08-03 | Yttrande Teknik - Uppdaterad regional vattenförsörjningsplan för Västra Götalands län, KS-2026-00379 | TE-2026-00445 |
+
+<!-- sida 378 -->
+
+Sida
+2(4)
+
+<!-- sida 379 -->
+
+Sida
+3(4)
 
 <!-- sida 380 -->
 
 Sida
 4(4)
-
-[Tabell 380-1](handlingar.tabeller/380-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
-| 2026-08-24 | Yttrande Teknik - Kapacitet på VA, konflikt med ledningar, trafiksäkerhet m.fl. Duvehed 2:53, BN 2026-000780 | TE-2026-00584 |
-| 2026-08-12 | Yttrande Teknik - Kapacitet på VA-ledning och möjlighet till<br>anslutning samt hämtning av hushållsavfall, Iserås 7:11, BN 2026-000655 | TE-2026-00562 |
-| 2026-08-12 | Yttrande Teknik - Kapacitet på VA-ledning, trafiksäkerhet och hämtning av hushållsavfall, Skårby 13:10, BN 2026-<br>000746 | TE-2026-00554 |
-| 2026-08-03 | Yttrande Teknik - Uppdaterad regional vattenförsörjningsplan för Västra Götalands län, KS-2026-00379 | TE-2026-00445 |

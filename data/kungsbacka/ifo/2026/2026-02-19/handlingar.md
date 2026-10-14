@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.46db326b19c4795e008b5e4e/1771240415
 sha256: d36da162c8b1ab576ea152f6d0fa187b95b61f5eca56845580dff6ad94a06e6e
 bytes: 6176415
 sidor: 178
-hamtad: 2026-10-08T02:36:56+00:00
-konverterad: 2026-10-08T02:37:40+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T10:14:00+00:00
+konverterad: 2026-10-14T10:14:34+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [15, 16, 17, 18]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [15, 16, 17, 18, 155]
+figurer: [15, 16, 17, 18, 30, 35, 36, 37, 50, 51, 54, 55, 58, 59, 60, 61, 62, 63, 64, 65, 94, 100]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -2277,29 +2277,31 @@ avslutade vilket både är ett gott och förbättrat resultat.
 Nedan följer fördelning av händelser per område/enhet, det vill säga var händelsen har
 inträffat och utretts.
 
+Enhet                          Antal 2025 (2024)
+Gruppbostad                    1338 (1085)
+Daglig Verksamhet              222 (121)
+
+Servicebostad                  202 (109)
+Myndighet, stöd och behandling 111 (184)
+Personlig assistans            92 (130)
+
+Korttidshem                    81 (87)
+Boendestöd Hemteamet           29 (25)
+Korttidshem - Läger            21 (25)
+Händelserapporter till annan vårdgivare/utförare 7 (10)
+
+Ledsagning - Avlösning - Kp - Stödfamilj 2 (9)
+Händelserapporter från annan vårdgivare/utförare 3 (3)
+Ambulerande natt               1 (3)
+
+Kansli & Stöd                  1
+Central bemanning              0 (4)
+Sysselsättning                 0 (3)
+
+Vikariecenter                  0 (0)
+Totalt                         2108 (1799)
+
 Individ & Familjeomsorg, Kvalitetsberättelsen 2025         9(30)
-
-[Tabell 55-1](handlingar.tabeller/55-1.csv)
-
-| Enhet | Antal 2025 (2024) |
-| --- | --- |
-| Gruppbostad | 1338 (1085) |
-| Daglig Verksamhet | 222 (121) |
-| Servicebostad | 202 (109) |
-| Myndighet, stöd och behandling | 111 (184) |
-| Personlig assistans | 92 (130) |
-| Korttidshem | 81 (87) |
-| Boendestöd Hemteamet | 29 (25) |
-| Korttidshem - Läger | 21 (25) |
-| Händelserapporter till annan vårdgivare/utförare | 7 (10) |
-| Ledsagning - Avlösning - Kp - Stödfamilj | 2 (9) |
-| Händelserapporter från annan vårdgivare/utförare | 3 (3) |
-| Ambulerande natt | 1 (3) |
-| Kansli & Stöd | 1 |
-| Central bemanning | 0 (4) |
-| Sysselsättning | 0 (3) |
-| Vikariecenter | 0 (0) |
-| Totalt | 2108 (1799) |
 
 <!-- sida 56 -->
 
@@ -2338,27 +2340,37 @@ Nedan följer vilken typ av händelse som ansvarig enhetschef har valt att klass
 inrapporterad händelse som (flera val är möjliga varför antal typer av händelser överstiger
 antalet rapporter).
 
+Typ                            Antal 2025 (2024)
+Läkemedel (HSL)                669 (551)
+Insats omsorg (SoL/LSS/SFB) Insats service
+580 (367)
+(SoL/LSS/SFB) Insats stöd (SoL/LSS/SFB)
+Fall                           210 (211)
+Annan händelse                 166 (151)
+Information, kommunikation, samverkan 102 (103)
+Fysisk miljö                   91 (70)
+
+Övergrepp/oegentlighet         86 (59)
+Hjälpmedel                     77 (38)
+Vård och behandling (HSL)      64 (52)
+
+(Ingen åtgärd vidtagen)        55 (62)
+Professionellt bemötande       51 (44)
+Dokumentation                  35 (54)
+
 Individ & Familjeomsorg, Kvalitetsberättelsen 2025        10(30)
-
-[Tabell 56-1](handlingar.tabeller/56-1.csv)
-
-| Typ | Antal 2025 (2024) |
-| --- | --- |
-| Läkemedel (HSL) | 669 (551) |
-| Insats omsorg (SoL/LSS/SFB) Insats service<br>(SoL/LSS/SFB) Insats stöd (SoL/LSS/SFB) | 580 (367) |
-| Fall | 210 (211) |
-| Annan händelse | 166 (151) |
-| Information, kommunikation, samverkan | 102 (103) |
-| Fysisk miljö | 91 (70) |
-| Övergrepp/oegentlighet | 86 (59) |
-| Hjälpmedel | 77 (38) |
-| Vård och behandling (HSL) | 64 (52) |
-| (Ingen åtgärd vidtagen) | 55 (62) |
-| Professionellt bemötande | 51 (44) |
-| Dokumentation | 35 (54) |
 
 <!-- sida 57 -->
 
+Typ                            Antal 2025 (2024)
+Sekretess                      28 (16)
+Digitala system och teknisk miljö 30 (60)
+
+Rehabilitering (HSL)           25 (26)
+Myndighetsutövning             21 (67)
+Egenvård (socialtjänst)        10 (16)
+
+Totalt                         2300 (1947)
 Läkemedelshändelser är fortsatt det som flest rapporter avser men procentuellt sett så har det
 inte skett någon större ökning (från 28,3 till 29,1 %). Antal fallhändelser är på samma nivå
 som förra året men antal händelser avseende hjälpmedel har dock fördubblats. För vidare
@@ -2406,17 +2418,6 @@ Mer än hälften av händelserna har, liksom föregående år, skett inom Gruppb
 
 Individ & Familjeomsorg, Kvalitetsberättelsen 2025        11(30)
 
-[Tabell 57-1](handlingar.tabeller/57-1.csv)
-
-| Typ | Antal 2025 (2024) |
-| --- | --- |
-| Sekretess | 28 (16) |
-| Digitala system och teknisk miljö | 30 (60) |
-| Rehabilitering (HSL) | 25 (26) |
-| Myndighetsutövning | 21 (67) |
-| Egenvård (socialtjänst) | 10 (16) |
-| Totalt | 2300 (1947) |
-
 <!-- sida 58 -->
 
 stycken), därefter följer Korttidsvistelse som står för ca en sjundedel (15 stycken). Inom
@@ -2451,18 +2452,20 @@ Merparten av händelserna som rapporterats enligt lex Sarah har berört enskilda
 Av de utredda lex Sarah-rapporterna som inkom under 2025 har följande beslut fattats av
 socialt ansvarig samordnare (siffran inom parentes avser år 2024 i jämförelse).
 
+Allvarligt
+Inget
+Missförhållande/risk för missförhållande/risk för
+missförhållande/risk för                      Totalt
+missförhållande allvarligt
+missförhållande
+missförhållande
+70 (40)        31 (21)         3 (2)          104 (63)
 Av de utredningar där inget missförhållande/risk för missförhållande bedömts föreligga har 12
 handlat om tillbud, rapportering av misstag, kollektivtrafik/färdtjänst eller en hälso- och
 sjukvårdsinsats. Dessa 12 rapporter är ej utredda och bedömda enligt lex Sarah men redovisas
 ändå som inget missförhållande/missförhållande på grund av systemteknisk funktion.
 
 Individ & Familjeomsorg, Kvalitetsberättelsen 2025        12(30)
-
-[Tabell 58-1](handlingar.tabeller/58-1.csv)
-
-| Inget<br>missförhållande/risk för<br>missförhållande | Missförhållande/risk för<br>missförhållande | Allvarligt<br>missförhållande/risk för<br>allvarligt<br>missförhållande | Totalt |
-| --- | --- | --- | --- |
-| 70 (40) | 31 (21) | 3 (2) | 104 (63) |
 
 <!-- sida 59 -->
 
@@ -2873,7 +2876,7 @@ Individ & Familjeomsorg, Kvalitetsberättelsen 2025        21(30)
 
 Individ & Familjeomsorg, Kvalitetsberättelsen 2025        22(30)
 
-[Tabell 68-1](handlingar.tabeller/68-1.csv)
+[Tabell 68-70-1](handlingar.tabeller/68-70-1.csv)
 
 | Process | Aktivitet | Risk Beskrivning av<br>Riskanalys<br>nr risk | Åtgärd |
 | --- | --- | --- | --- |
@@ -2885,18 +2888,16 @@ Individ & Familjeomsorg, Kvalitetsberättelsen 2025        22(30)
 | Styrande<br>dokument | Upprättade<br>riktlinjer och<br>rutiner | Risk att styrande<br>5 dokument inte är<br>kända | Se över<br>strukturen och<br>vad som<br>behöver göras<br>framåt för att<br>säkerställa att<br>dokument,<br>rutiner etc är<br>kända. |
 |  |  |  | Se över<br>introduktion för<br>EC |
 |  |  | Risk att styrande<br>dokument inte är<br>6 uppdatarede<br>eller att länkar<br>brustit | VO ser över<br>vem som ska<br>ansvara för att<br>hålla HSL-<br>länkar<br>uppdaterade |
+| Verkställa<br>uppdrag | Upprätta<br>genomförand<br>eplan | Social<br>dokumentation<br>uteblir för att<br>personal inte är<br>7<br>trygga med att<br>arbeta i<br>verksamhetssyst<br>emet | Översyn av<br>befintliga guider<br>i KLOK |
+|  | Genomföra<br>insats/aktivite<br>ter | Genomförandeplane<br>r saknas eller är<br>bristfälligt<br>upprättade vilket<br>kan leda till att<br>brukarna inte får<br>insatser utifrån sina<br>Bristfällig social<br>8 individuella behov<br>dokumentation<br>och förmågor.<br>Brister i löpande<br>social<br>dokumentation<br>försvårar<br>möjligheten att följa<br>ärendens gång. |  |
+|  |  | Risk att brukare har<br>Risk att vi saknar svårt att ta till sig<br>verktyg för nya arbetssätt som<br>tillgänglig och införts. Lösning för<br>9<br>säker säker information<br>kommunikation kan då innebära att<br>med brukare brukare inte tar del<br>av informationen. | Ta fram<br>målgruppsanpa<br>ssade<br>instruktioner<br>SEFOS |
+|  |  | Brukare med<br>samsjuklighetsprobl<br>ematik, antingen en<br>psykiatrisk diagnos<br>och/eller LSS-<br>tillhörighet i<br>kombination med<br>missbruk "faller<br>mellan stolarna",<br>dvs de får inte den<br>hjälp de behöver, då<br>rätt stöd förutsätter<br>samverkan både<br>internt inom<br>Samverkan vid<br>förvaltningen och<br>10 samsjuklighet är<br>externt med andra<br>bristande<br>myndigheter och<br>vårdgivare. Det är<br>svårt att få till en<br>samverkan när<br>individen inte vill<br>eller bedöms inte<br>kunna tillgodose sig<br>behandling.<br>Regionen har som<br>praxis att skriva ut<br>våra brukare om de<br>avböjer deras<br>insatser under en<br>period. | Socialpsykiatris<br>ka<br>samverkansgru<br>ppen får i<br>uppdrag att<br>undersöka<br>behov och<br>planera<br>aktiviteter/åtgär<br>d |
+|  |  | Får ej ut resurstid<br>och kan inte lägga<br>ut all tid vilket<br>innebär ökade<br>kostnader.<br>Ny tillämpning av Passbyten har löst<br>Allmänna sjukluckor, blir inte<br>bestämmelser längre möjligt<br>11<br>medför risker i Svårare att erbjuda<br>bemanningsproc heltider<br>essen Risk att samverkan<br>med ex regionen,<br>SIP påverkas – kan<br>ej använda sin<br>resurstid för att gå<br>på dessa möten |  |
+| Följa upp<br>uppdrag | Följa upp<br>beslut enligt<br>Riktlinje för<br>systematisk<br>uppföljning | Risk att riktlinjen<br>12<br>ej följs |  |
 
 <!-- sida 69 -->
 
 Individ & Familjeomsorg, Kvalitetsberättelsen 2025        23(30)
-
-[Tabell 69-1](handlingar.tabeller/69-1.csv)
-
-| Verkställa<br>uppdrag | Upprätta<br>genomförand<br>eplan | Social<br>dokumentation<br>uteblir för att<br>personal inte är<br>7<br>trygga med att<br>arbeta i<br>verksamhetssyst<br>emet | Översyn av<br>befintliga guider<br>i KLOK |
-| --- | --- | --- | --- |
-|  | Genomföra<br>insats/aktivite<br>ter | Genomförandeplane<br>r saknas eller är<br>bristfälligt<br>upprättade vilket<br>kan leda till att<br>brukarna inte får<br>insatser utifrån sina<br>Bristfällig social<br>8 individuella behov<br>dokumentation<br>och förmågor.<br>Brister i löpande<br>social<br>dokumentation<br>försvårar<br>möjligheten att följa<br>ärendens gång. |  |
-|  |  | Risk att brukare har<br>Risk att vi saknar svårt att ta till sig<br>verktyg för nya arbetssätt som<br>tillgänglig och införts. Lösning för<br>9<br>säker säker information<br>kommunikation kan då innebära att<br>med brukare brukare inte tar del<br>av informationen. | Ta fram<br>målgruppsanpa<br>ssade<br>instruktioner<br>SEFOS |
-|  |  | Brukare med<br>samsjuklighetsprobl<br>ematik, antingen en<br>psykiatrisk diagnos<br>och/eller LSS-<br>tillhörighet i<br>kombination med<br>missbruk "faller<br>mellan stolarna",<br>dvs de får inte den<br>hjälp de behöver, då<br>rätt stöd förutsätter<br>samverkan både<br>internt inom<br>Samverkan vid<br>förvaltningen och<br>10 samsjuklighet är<br>externt med andra<br>bristande<br>myndigheter och<br>vårdgivare. Det är<br>svårt att få till en<br>samverkan när<br>individen inte vill<br>eller bedöms inte<br>kunna tillgodose sig<br>behandling.<br>Regionen har som<br>praxis att skriva ut<br>våra brukare om de<br>avböjer deras<br>insatser under en<br>period. | Socialpsykiatris<br>ka<br>samverkansgru<br>ppen får i<br>uppdrag att<br>undersöka<br>behov och<br>planera<br>aktiviteter/åtgär<br>d |
 
 <!-- sida 70 -->
 
@@ -2908,18 +2909,13 @@ uppföljning och utvärdering av den egna verksamhetens processer och rutiner.
 
 Individ & Familjeomsorg, Kvalitetsberättelsen 2025        24(30)
 
-[Tabell 70-1](handlingar.tabeller/70-1.csv)
-
-|  |  | Får ej ut resurstid<br>och kan inte lägga<br>ut all tid vilket<br>innebär ökade<br>kostnader.<br>Ny tillämpning av Passbyten har löst<br>Allmänna sjukluckor, blir inte<br>bestämmelser längre möjligt<br>11<br>medför risker i Svårare att erbjuda<br>bemanningsproc heltider<br>essen Risk att samverkan<br>med ex regionen,<br>SIP påverkas – kan<br>ej använda sin<br>resurstid för att gå<br>på dessa möten |  |
-| --- | --- | --- | --- |
-| Följa upp<br>uppdrag | Följa upp<br>beslut enligt<br>Riktlinje för<br>systematisk<br>uppföljning | Risk att riktlinjen<br>12<br>ej följs |  |
-
-[Tabell 70-2](handlingar.tabeller/70-2.csv)
+[Tabell 70-71-1](handlingar.tabeller/70-71-1.csv)
 
 | Process | Utfal<br>Beskrivning av<br>Egenkontroll l Kommentar<br>kontroll<br>2021 | Åtgär<br>d |
 | --- | --- | --- |
 | Klagomålshanteri<br>ng | 2025-11-10<br>Har granskats i kvartal 2<br>2025 avseende antalet<br>registrerade klagomål i<br>- Är det som<br>ärendehanteringssystemet<br>registrerats som<br>Ciceron och<br>klagomål i DF<br>händelserapporteringssyste<br>Respons faktiskt<br>met DF Respons för år<br>Kontrollera klagomål eller är de<br>2024. Granskningen visar<br>klagomål som händelser?<br>att det brister i kunskap om<br>registrerats i DF - Av de som är<br>rutinen för hantering av<br>Respons. faktiska klagomål<br>klagomål och synpunkter då<br>- har de diarieförts i<br>12 klagomål inte blivit<br>DF Respons.<br>diarieförda. Det visar även<br>på en viss brist i kunskap<br>SAS kontrollerar i<br>avseende<br>juni och december<br>händelserapportering och<br>utredning av händelser då<br>klagomål felaktigt väljs som<br>typ av utredning i 13<br>händelser. |  |
 | Följa upp<br>uppdrag | Granskning avser de<br>2025-11-10<br>Kontroll av enheter med<br>följsamhet till försämrat resultat<br>Genomfört med ett<br>riktlinje för 2024<br>sammantaget bättre resultat<br>systematisk Funktionsstödsenhet<br>för utvalda enheter. Enbart<br>individuppföljni en vuxen<br>Öppenvård Vuxen visade på<br>ng avseende Familjefrid<br>ett sämre resultat i andel<br>tidsintervall Öppenvård vuxen<br>genomförda dokumenterade<br>Ledsagarservice<br>uppföljningar.<br>Korttidsvistelse |  |
+|  | 2025-11-10<br>Granskning avser de<br>Kontroll av<br>enheter med<br>följsamhet till Sammanfattningsvis ett<br>försämrat resultat<br>riktlinje för bättre resultat där brist i<br>2024<br>systematisk följsamhet gäller samma<br>Funktionsstödsenhet<br>individuppföljni delar av riktlinjen som<br>en vuxen<br>ng avseende tidigare år. Därav bör<br>Familjefrid<br>tillvägagångssät riktlinjen revideras för att bli<br>Öppenvård vuxen<br>t mer tydlig och lättförståelig<br>Ledsagarservice<br>samt minska<br>Korttidsvistelse<br>dokumentationsbördan. |  |
 
 <!-- sida 71 -->
 
@@ -2930,13 +2926,7 @@ socialtjänstprocessen.
 
 Individ & Familjeomsorg, Kvalitetsberättelsen 2025        25(30)
 
-[Tabell 71-1](handlingar.tabeller/71-1.csv)
-
-| Process | Utfal<br>Beskrivning av<br>Egenkontroll l Kommentar<br>kontroll<br>2021 | Åtgär<br>d |
-| --- | --- | --- |
-|  | 2025-11-10<br>Granskning avser de<br>Kontroll av<br>enheter med<br>följsamhet till Sammanfattningsvis ett<br>försämrat resultat<br>riktlinje för bättre resultat där brist i<br>2024<br>systematisk följsamhet gäller samma<br>Funktionsstödsenhet<br>individuppföljni delar av riktlinjen som<br>en vuxen<br>ng avseende tidigare år. Därav bör<br>Familjefrid<br>tillvägagångssät riktlinjen revideras för att bli<br>Öppenvård vuxen<br>t mer tydlig och lättförståelig<br>Ledsagarservice<br>samt minska<br>Korttidsvistelse<br>dokumentationsbördan. |  |
-
-[Tabell 71-2](handlingar.tabeller/71-2.csv)
+[Tabell 71-74-1](handlingar.tabeller/71-74-1.csv)
 
 | Aktivitet | Riskanalys | Åtgärd Status |
 | --- | --- | --- |
@@ -2958,15 +2948,6 @@ Individ & Familjeomsorg, Kvalitetsberättelsen 2025        25(30)
 | Besluta enligt delegation |  |  |
 | Underrätta om beslut |  |  |
 | Hantera överklagande<br>och avsluta handläggning |  |  |
-
-<!-- sida 72 -->
-
-Individ & Familjeomsorg, Kvalitetsberättelsen 2025        26(30)
-
-[Tabell 72-1](handlingar.tabeller/72-1.csv)
-
-| Aktivitet | Riskanalys | Åtgärd Status |
-| --- | --- | --- |
 | Utforma uppdrag |  |  |
 | Beställa uppdrag internt |  |  |
 | Beställa uppdrag externt |  |  |
@@ -2984,15 +2965,6 @@ Individ & Familjeomsorg, Kvalitetsberättelsen 2025        26(30)
 | Upprättade riktlinjer och<br>rutiner | Risk att styrande<br>dokument inte är kända | Se över strukturen och<br>vad som behöver göras<br>framåt för att<br>säkerställa att<br>dokument, rutiner etc<br>är kända.<br>Arbetat om<br>Pågående<br>verksamhetsstyrning<br>länkar in från IF<br>Mötesplats vid nyheter<br>Kan bygga in länk från<br>kanal (verksamheternas<br>kanaler) till<br>verksamhetsstyrning |
 |  |  | Se över introduktion för<br>EC<br>Internkontroll Avslutad - nyttan<br>Klagomål delvis uppnådd<br>Händelserapportering<br>Annat |
 |  | Risk att styrande<br>dokument inte är<br>uppdatarede eller att<br>länkar brustit | VO ser över vem som<br>ska ansvara för att<br>Avslutad - nyttan<br>hålla HSL- länkar<br>delvis uppnådd<br>uppdaterade |
-
-<!-- sida 73 -->
-
-Individ & Familjeomsorg, Kvalitetsberättelsen 2025        27(30)
-
-[Tabell 73-1](handlingar.tabeller/73-1.csv)
-
-| Aktivitet | Riskanalys | Åtgärd Status |
-| --- | --- | --- |
 | Upprätta<br>genomförandeplan | Social dokumentation<br>uteblir för att personal<br>inte är trygga med att<br>arbeta i<br>verksamhetssystemet | Översyn av befintliga<br>guider i KLOK<br>System adm + SAS<br>+ projektledare ser över<br>Avslutad - nyttan<br>vilka guider som finns i<br>uppnådd<br>KLOK och tillgången till<br>dessa samt vilka som<br>behöver skapas eller<br>revideras. |
 | Genomföra<br>insats/aktiviteter | Bristfällig social<br>dokumentation |  |
 |  | Risk att vi saknar verktyg<br>för tillgänglig och säker<br>kommunikation med<br>brukare | Ta fram<br>målgruppsanpassade<br>instruktioner SEFOS<br>Avslutad - nyttan<br>Verksamhet och<br>uppnådd<br>stödfunktion behöver ta<br>fram instruktioner<br>gemensamt |
@@ -3003,6 +2975,17 @@ Individ & Familjeomsorg, Kvalitetsberättelsen 2025        27(30)
 | Upptäcka våldsutsatta<br>och våldsutövare |  | Alla medarbetare ska<br>ha genomgått NCK:s<br>utbildning, senast 2026<br>Pågående |
 |  |  | Implementera riktlinje<br>och rutin för Våld i nära<br>Avslutad - nyttan<br>relation uppnådd |
 | Erbjuda stöd och insatser<br>till våldsutsatta, barn som<br>bevittnat våld och<br>våldsutövare |  | Fortlöpande kartlägga<br>och analysera att<br>utbudet av insatser<br>som erbjuds<br>våldsutsatta, barn som<br>Ej påbörjad<br>bevittnat våld och<br>våldsutövare motsvarar<br>behoven som finns i<br>kommunen |
+| Följa upp följsamhet till<br>HSLF- FS 2022:39 |  | Ta fram struktur för att<br>följa upp upptäckt av<br>våldsutsatta och<br>våldsutövare<br>Omvärldsbevaka hur Pågående med<br>andra kommuner följer avvikelse<br>upp upptäckt av<br>våldsutsatta och<br>våldsutövare<br>Ta fram struktur för IF |
+| Avsluta ärendet |  |  |
+| Gallra och arkivera<br>personakt |  |  |
+
+<!-- sida 72 -->
+
+Individ & Familjeomsorg, Kvalitetsberättelsen 2025        26(30)
+
+<!-- sida 73 -->
+
+Individ & Familjeomsorg, Kvalitetsberättelsen 2025        27(30)
 
 <!-- sida 74 -->
 
@@ -3047,14 +3030,6 @@ behovsprövning
 insatser, både med och utan individuell behovsprövning
 
 Individ & Familjeomsorg, Kvalitetsberättelsen 2025        28(30)
-
-[Tabell 74-1](handlingar.tabeller/74-1.csv)
-
-| Aktivitet | Riskanalys | Åtgärd Status |
-| --- | --- | --- |
-| Följa upp följsamhet till<br>HSLF- FS 2022:39 |  | Ta fram struktur för att<br>följa upp upptäckt av<br>våldsutsatta och<br>våldsutövare<br>Omvärldsbevaka hur Pågående med<br>andra kommuner följer avvikelse<br>upp upptäckt av<br>våldsutsatta och<br>våldsutövare<br>Ta fram struktur för IF |
-| Avsluta ärendet |  |  |
-| Gallra och arkivera<br>personakt |  |  |
 
 <!-- sida 75 -->
 
@@ -3972,12 +3947,19 @@ hög grad.
 
 10
 
-[Tabell 98-1](handlingar.tabeller/98-1.csv)
+[Tabell 98-99-1](handlingar.tabeller/98-99-1.csv)
 
 | Risker | Enhet Granskningsaktiviteter | Åtgärder |
 | --- | --- | --- |
 | Risk för att<br>barnrättsperspektivet inte<br>beaktas och<br>dokumenteras i tillräcklig<br>omfattning | Granska utredningar<br>samt<br>genomförandeplaner<br>Individ & Familjeomsorg<br>avseende barnets bästa<br>och barnets möjlighet till<br>delaktighet | Åtgärder planeras och<br>genomförs i respektive<br>verksamhetsområde,<br>utifrån genomförd<br>egenkontroll 2025 |
 | Kommunövergripande<br>risk: Bristande följsamhet<br>till inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | Avtalsuppföljning enligt<br>Individ & Familjeomsorg<br>gällande styrdokument | I dialog med förvaltningen<br>för Service ta fram rutin för<br>hur avvikelser avseende<br>avtal eller leverantörer ska<br>dokumenteras och<br>kommuniceras |
+|  |  | Se över vilka kontroller<br>som ska komplettera<br>befintlig checklista för att<br>säkerställa en<br>ändamålsenlig och säker<br>direktupphandlingsprocess<br>samt vilka funktioner som<br>ska ansvara för dessa.<br>Förslag på kontroller att<br>komplettera checklista<br>köpt plats med ska tas<br>fram senast 31 december<br>2026. |
+|  |  | Bevaka de åtgärder som<br>förvaltningen för Service<br>beslutar om då de ser över<br>avtalsuppföljningen och<br>förtydligar Riktlinjerna för<br>Inköp angående<br>obligatoriska kontroller |
+|  | Uppföljning av<br>Individ & Familjeomsorg direktupphandlingar<br>(köpnivå 4-5) | Ta fram<br>förvaltningsanpassade<br>rutiner för<br>direktupphandling |
+|  |  | Genomföra en riskanalys<br>avseende risk för<br>välfärdsbrottslighet<br>avseende köp av externa<br>platser |
+| Kommunövergripande<br>risk - Risk för korruption<br>och välfärdsbrottslighet | Individ & Familjeomsorg Granskning o uppföljning | Material kring otillåten<br>påverkan kommer att<br>läggas in i introduktionen<br>för nya medarbetare. |
+|  |  | APT- material med<br>information och<br>diskussionsfrågor kopplat<br>till otillåten påverkan ska<br>tas fram och lyftas på APT<br>under året. |
+| Risk för bristande<br>hantering av tillbud och<br>olycksfall | Granska att rapportering<br>Individ & Familjeomsorg av tillbud och olycksfall<br>hanteras enligt rutin | Fortsatta<br>utbildningsinsatser |
 
 <!-- sida 99 -->
 
@@ -3992,18 +3974,6 @@ Under året har följande tillsyner och revisioner genomförts:
 Inspektionen för vård och omsorg
 
 11
-
-[Tabell 99-1](handlingar.tabeller/99-1.csv)
-
-| Risker | Enhet Granskningsaktiviteter | Åtgärder |
-| --- | --- | --- |
-|  |  | Se över vilka kontroller<br>som ska komplettera<br>befintlig checklista för att<br>säkerställa en<br>ändamålsenlig och säker<br>direktupphandlingsprocess<br>samt vilka funktioner som<br>ska ansvara för dessa.<br>Förslag på kontroller att<br>komplettera checklista<br>köpt plats med ska tas<br>fram senast 31 december<br>2026. |
-|  |  | Bevaka de åtgärder som<br>förvaltningen för Service<br>beslutar om då de ser över<br>avtalsuppföljningen och<br>förtydligar Riktlinjerna för<br>Inköp angående<br>obligatoriska kontroller |
-|  | Uppföljning av<br>Individ & Familjeomsorg direktupphandlingar<br>(köpnivå 4-5) | Ta fram<br>förvaltningsanpassade<br>rutiner för<br>direktupphandling |
-|  |  | Genomföra en riskanalys<br>avseende risk för<br>välfärdsbrottslighet<br>avseende köp av externa<br>platser |
-| Kommunövergripande<br>risk - Risk för korruption<br>och välfärdsbrottslighet | Individ & Familjeomsorg Granskning o uppföljning | Material kring otillåten<br>påverkan kommer att<br>läggas in i introduktionen<br>för nya medarbetare. |
-|  |  | APT- material med<br>information och<br>diskussionsfrågor kopplat<br>till otillåten påverkan ska<br>tas fram och lyftas på APT<br>under året. |
-| Risk för bristande<br>hantering av tillbud och<br>olycksfall | Granska att rapportering<br>Individ & Familjeomsorg av tillbud och olycksfall<br>hanteras enligt rutin | Fortsatta<br>utbildningsinsatser |
 
 <!-- sida 100 -->
 
@@ -4033,6 +4003,29 @@ Med privata utförare avses utförare som har hand om skötseln av en kommunal a
 privat utförare räknas inte hel- eller delägda kommunala bolag, eller stiftelse eller förening som bildats av
 kommunen eller regionen.
 
+Andel av       Kostnad för
+Verksamhet
+verksamhetsvolym % verksamhet mnkr
+Bokslut Bokslut Bokslut Bokslut
+
+```osaker-tabell
+                                       2024   2025    2024    2025
+Bostad med särskild service            14      12       43,8    40,1
+Daglig verksamhet                       5       3        2,9     1,9
+Ledsagning & avlösning                 13      17        1,1     1,4
+
+Korttidsvistelse                        6       4        1,9     1,2
+Boendestöd                             21      22        2,7     2,6
+
+Personlig assistans                    37      36       39,6    35,8
+Familjehem                                12      18      6     10,3
+Vårdplatser vuxen (SoL, LVM)             100     100    16,1    12,9
+```
+
+Övrig vuxenvård (våld i nära relation, skyddsplaceringar) 100 100 5 2
+Vårdplatser BoU (SoL, LVU)               100     100     37      42
+Öppenvårdsinsatser inom BoU               18      19      3      3,1
+
 \*Kostnaden för intern personlig assistans har räknats om för 2024 då fler enhetschefer än de som tillhör PA
 räknats med. Från och med 2025 ligger kostanden för administratörer centralt och belastar inte verksamheten.
 
@@ -4040,21 +4033,6 @@ räknats med. Från och med 2025 ligger kostanden för administratörer centralt
 beloppet.
 
 12
-
-[Tabell 100-1](handlingar.tabeller/100-1.csv)
-
-| Verksamhet<br>Bostad med särskild service | Andel av<br>verksamhetsvolym %<br>Bokslut Bokslut<br>2024 2025<br>14 12 |  | Kostnad för<br>verksamhet mnkr<br>Bokslut Bokslut<br>2024 2025<br>43,8 40,1 |  |
-| --- | --- | --- | --- | --- |
-| Daglig verksamhet | 5 | 3 | 2,9 | 1,9 |
-| Ledsagning & avlösning | 13 | 17 | 1,1 | 1,4 |
-| Korttidsvistelse | 6 | 4 | 1,9 | 1,2 |
-| Boendestöd | 21 | 22 | 2,7 | 2,6 |
-| Personlig assistans | 37 | 36 | 39,6 | 35,8 |
-| Familjehem | 12 | 18 | 6 | 10,3 |
-| Vårdplatser vuxen (SoL, LVM) | 100 | 100 | 16,1 | 12,9 |
-| Övrig vuxenvård (våld i nära relation, skyddsplaceringar) | 100 | 100 | 5 | 2 |
-| Vårdplatser BoU (SoL, LVU) | 100 | 100 | 37 | 42 |
-| Öppenvårdsinsatser inom BoU | 18 | 19 | 3 | 3,1 |
 
 <!-- sida 101 -->
 
@@ -4119,7 +4097,7 @@ handlar 29 om klagomål på insatsens utformande eller utförande, 8 klagomål h
 |  |  |  |
 | Antal obesvarade 10 dgr efter besked om<br>mottagande | 5 | 0 |
 
-[Tabell 102-2](handlingar.tabeller/102-2.csv)
+[Tabell 102-103-2](handlingar.tabeller/102-103-2.csv)
 
 | Typ av klagomål | Antal klagomål 2025 |
 | --- | --- |
@@ -4131,18 +4109,6 @@ handlar 29 om klagomål på insatsens utformande eller utförande, 8 klagomål h
 | Daglig verksamhet | 5 |
 | Insatsens utformande | 5 |
 |  |  |
-
-<!-- sida 103 -->
-
-Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
-Internkontrollrapport 2025 -
-
-15
-
-[Tabell 103-1](handlingar.tabeller/103-1.csv)
-
-| Typ av klagomål | Antal klagomål 2025 |
-| --- | --- |
 | Barn- och ungdomsenheten | 9 |
 | Bemötande | 1 |
 | Handläggning av ärende | 2 |
@@ -4163,6 +4129,13 @@ Internkontrollrapport 2025 -
 | Mottagningsenheten Barn- och Unga | 3 |
 | Handläggning av ärende | 3 |
 
+<!-- sida 103 -->
+
+Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
+Internkontrollrapport 2025 -
+
+15
+
 <!-- sida 104 -->
 
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
@@ -4182,7 +4155,7 @@ Nämndens självskattning
 
 16
 
-[Tabell 104-1](handlingar.tabeller/104-1.csv)
+[Tabell 104-105-1](handlingar.tabeller/104-105-1.csv)
 
 | Område<br>Uppdrag och mål | Frågor Svar 2025<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
 | --- | --- |
@@ -4198,6 +4171,13 @@ Nämndens självskattning
 |  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
 | Riskanalys | Riskanalysen kommuniceras med<br>nämnden |
 |  | Riskanalysen är underlag för åtgärder och<br>granskningar |
+| Område<br>Kontrollaktiviteter | Frågor Svar 2025<br>Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
+|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
+|  | Återkoppling sker till förvaltningsledningen |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
+| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |
 
 <!-- sida 105 -->
 
@@ -4205,17 +4185,6 @@ Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
 Internkontrollrapport 2025 -
 
 17
-
-[Tabell 105-1](handlingar.tabeller/105-1.csv)
-
-| Område<br>Kontrollaktiviteter | Frågor Svar 2025<br>Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
-| --- | --- |
-|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
 
 <!-- sida 106 -->
 
@@ -4445,8 +4414,9 @@ att ge socialtjänsten bättre förutsättningar att erbjuda tidiga och förebyg
 
 [Tabell 111-1](handlingar.tabeller/111-1.csv)
 
-| Utfall (miljoner kronor)<br>Intäkter | Utfall 2023<br>63 | Utfall 2024<br>79,8 | Utfall 2025<br>+73,5 |
+| Utfall (miljoner kronor) | Utfall 2023 | Utfall 2024 | Utfall 2025 |
 | --- | --- | --- | --- |
+| Intäkter | 63 | 79,8 | +73,5 |
 | Kostnader | -828 | -876 | -909,7 |
 | Netto | -765 | -796,2 | -836,2 |
 | Budget, netto | -750 | -792,5 | -827,1 |
@@ -4454,8 +4424,9 @@ att ge socialtjänsten bättre förutsättningar att erbjuda tidiga och förebyg
 
 [Tabell 111-2](handlingar.tabeller/111-2.csv)
 
-| Utfall (miljoner kronor)<br>Utgifter | Utfall 2023<br>-1,7 | Utfall 2024<br>-1,3 | Utfall 2025<br>-1,3 |
+| Utfall (miljoner kronor) | Utfall 2023 | Utfall 2024 | Utfall 2025 |
 | --- | --- | --- | --- |
+| Utgifter | -1,7 | -1,3 | -1,3 |
 | Inkomster |  |  |  |
 | Netto | -1,7 | -1,3 | -1,3 |
 
@@ -6118,10 +6089,12 @@ tidigare åren har antalet rapporterade olycksfall ökat. Liksom föregående å
 
 [Tabell 142-1](handlingar.tabeller/142-1.csv)
 
-| Namn<br>Riskobservation | 2023<br>34 | 2024<br>40 | 2025<br>47 |
+| Namn | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- |
+| Riskobservation | 34 | 40 | 47 |
 | Tillbud | 462 | 326 | 416 |
-| Olycksfall<br>Total | 151<br>647 | 142<br>508 | 164<br>627 |
+| Olycksfall | 151 | 142 | 164 |
+| Total | 647 | 508 | 627 |
 
 <!-- sida 143 -->
 
@@ -6382,8 +6355,9 @@ för att stärka vår förmåga att finnas där tidigt innan problemen växt sig
 
 [Tabell 147-1](handlingar.tabeller/147-1.csv)
 
-| Uppföljningsnivå (belopp i mkr)<br>Nämnd | Bokslut 2024<br>-1,6 | Budget 2025<br>-2,12 | Bokslut 2025<br>-1,72 | Budgetavvike<br>lse 2025<br>0,40 |
+| Uppföljningsnivå (belopp i mkr) | Bokslut 2024 | Budget 2025 | Bokslut 2025 | Budgetavvike lse 2025 |
 | --- | --- | --- | --- | --- |
+| Nämnd | -1,6 | -2,12 | -1,72 | 0,40 |
 | Stödfunktioner och central verksamhet | -51,4 | -72,48 | -69,88 | 2,60 |
 | Myndighet, stöd och behandling | -268,3 | -261,13 | -274,51 | -13,38 |
 | Bostad med särskild service | -264,7 | -324,06 | -324,75 | -0,69 |
@@ -6489,7 +6463,7 @@ Investeringar (belopp mkr)
 | Individ & Familjeomsorg | -13,5 | -13,5 | -9,10 |
 | Totalt | -13,5 | -13,5 | -9,10 |
 
-[Tabell 149-2](handlingar.tabeller/149-2.csv)
+[Tabell 149-150-2](handlingar.tabeller/149-150-2.csv)
 
 | (Belopp i mkr) | Bokslut 2024 | Budget 2025 | Bokslut 2025 | Avvikelse<br>2025 |
 | --- | --- | --- | --- | --- |
@@ -6503,6 +6477,10 @@ Investeringar (belopp mkr)
 | Finansiell leasing |  |  |  |  |
 | Summa investeringsutgifter | -1,3 | -2,5 | -1,3 | 1,2 |
 | INVESTERINGSINKOMSTER |  |  |  |  |
+| Avgiftsfinansierad verksamhet -<br>Anslutningsavgifter |  |  |  |  |
+| Övriga investeringar - Statliga<br>investeringsbidrag |  |  |  |  |
+| Summa investeringsinkomster |  |  |  |  |
+| Summa nettoinvesteringar | -1,3 | -2,5 | -1,3 | 1,2 |
 
 <!-- sida 150 -->
 
@@ -6514,14 +6492,6 @@ Nämndens investeringar består av löpande inventarier och vissa hjälpmedel. I
 över årsskiftet.
 
 42
-
-[Tabell 150-1](handlingar.tabeller/150-1.csv)
-
-| Avgiftsfinansierad verksamhet -<br>Anslutningsavgifter |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Övriga investeringar - Statliga<br>investeringsbidrag |  |  |  |  |
-| Summa investeringsinkomster |  |  |  |  |
-| Summa nettoinvesteringar | -1,3 | -2,5 | -1,3 | 1,2 |
 
 <!-- sida 151 -->
 
@@ -6840,7 +6810,7 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2025-04-05 | 11 kap 1 § SoL kontaktperson | Personalrelaterade skäl. |
 | 2025-07-04 | 11 kap 1 § SoL kontaktperson | Personalrelaterade skäl. |
 
-[Tabell 160-2](handlingar.tabeller/160-2.csv)
+[Tabell 160-161-2](handlingar.tabeller/160-161-2.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
@@ -6848,6 +6818,8 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2024-10-16 | 11 kap 1 § SoL,<br>öppenvårdsverksamhet | Saknar plats | Avslutat 2026-01-09.<br>Behovet tillgodoses<br>genom annan insats. |
 | 2025-05-28 | 11 kap 1 § SoL<br>öppenvårdsverksamhet | Saknar plats | Avslutat 2025-12-05.<br>Insatsen önskas inte<br>längre. |
 | 2025-07-01 | 11 kap 1 § SoL<br>kontaktfamilj | Rekryteringsbekymmer, finns<br>ingen kontaktfamilj som<br>matchar behovet. | Avslutat 2026-01-19.<br>Insatsen önskas inte<br>längre. |
+| 2025-07-15 | 11 kap 1 § SoL<br>öppenvårdsverksamhet | Saknar plats | Verkställt 2026-01-12. |
+| 2025-07-15 | 11 kap 1 § SoL<br>öppenvårdsverksamhet | Saknar plats | Verkställt 2026-01-26. |
 
 <!-- sida 161 -->
 
@@ -6858,14 +6830,7 @@ Ej verkställda beslut, funktionsstödsenheten, enligt 9 § och rapportering enl
 och service till vissa funktionshindrade, LSS, samt enligt 11 kap 1 § och rapportering enligt 34 kap 1-3
 §§ socialtjänstlagen, SoL
 
-[Tabell 161-1](handlingar.tabeller/161-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
-| 2025-07-15 | 11 kap 1 § SoL<br>öppenvårdsverksamhet | Saknar plats | Verkställt 2026-01-12. |
-| 2025-07-15 | 11 kap 1 § SoL<br>öppenvårdsverksamhet | Saknar plats | Verkställt 2026-01-26. |
-
-[Tabell 161-2](handlingar.tabeller/161-2.csv)
+[Tabell 161-165-1](handlingar.tabeller/161-165-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
@@ -6878,16 +6843,6 @@ och service till vissa funktionshindrade, LSS, samt enligt 11 kap 1 § och rappo
 | 2025-10-10 | 11 kap 1 § SoL, bostad | Saknar plats. Planering pågår, kommer få erbjudande<br>om plats på boende under februari. |
 | 2025-07-01 | 9 § 4 LSS, kontaktperson | Den enskilde medverkar inte till verkställighet.<br>Rekrytering pågår. Den enskilde vill avvakta med<br>uppstart. |
 | 2025-08-27 | 9 § 4 LSS, kontaktperson | Personalrelaterade skäl. Rekrytering pågår. |
-
-<!-- sida 162 -->
-
-KUNGSBACKA  KOMMUN
-4 (8)
-
-[Tabell 162-1](handlingar.tabeller/162-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2025-02-24 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, arbetsmiljöproblem relaterade<br>till den enskilde. Har blivit erbjuden anpassad<br>verkställighet som den enskilde tackat nej till.<br>Planerad uppstart januari 2026. |
 | 2025-06-01 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, hälsoproblem hos den<br>enskilde. |
 | 2025-06-01 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet. Den enskilde vill pausa<br>insatsen. Verksamheten har kontinuerlig kontakt. |
@@ -6901,16 +6856,6 @@ KUNGSBACKA  KOMMUN
 | 2025-10-08 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Den enskilde har specifika önskemål. Uppstart<br>planerad till februari 2026. |
 | 2025-10-19 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. |
 | 2024-10-17 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. Tackat nej till erbjudande om köpt plats.<br>Tacket nej till erbjudande 2025-05 pga för långt från<br>centrum. Planering pågår. |
-
-<!-- sida 163 -->
-
-KUNGSBACKA  KOMMUN
-5 (8)
-
-[Tabell 163-1](handlingar.tabeller/163-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2025-01-14 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Saknar plats. Tackat nej till erbjudande i 2025-11. Har<br>specifika önskemål om boende. |
 | 2025-03-12 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Saknar plats. Planering pågår. Fått erbjudande om köpt<br>plats. Tackat nej till erbjudande 2025-11. Planering<br>pågår. |
 | 2025-03-14 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Tackat nej till erbjudande 2025-03-25. Ny planering<br>pågår. |
@@ -6924,16 +6869,6 @@ KUNGSBACKA  KOMMUN
 | 2024-09-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2024-12-06 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2025-02-20 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde valde att avsluta<br>sin sysselsättning pga mående och miljö. Återkommer<br>när den enskilde vill återuppta insatsen igen. |
-
-<!-- sida 164 -->
-
-KUNGSBACKA  KOMMUN
-6 (8)
-
-[Tabell 164-1](handlingar.tabeller/164-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2025-03-07 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Samverkan pågår. Den<br>enskilde har andra önskemål om verkställighet. Fått<br>erbjudande om 2 nya verksamheter men inte svarat på<br>introduktion. Planering pågår. |
 | 2025-03-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. Den enskilde har specifika önskemål. |
 | 2025-03-19 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet pga mående och förändringar i<br>verksamheten. Har deltagit vid ett tillfälle under<br>hösten, motiveringsarbete pågår. |
@@ -6946,6 +6881,22 @@ KUNGSBACKA  KOMMUN
 | 2025-09-09 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. Kontakt och planering pågår för att<br>motivera den enskilde. |
 | 2025-09-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet pga hälsotillstånd. |
 | 2025-10-08 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde har specifika önskemål. Tackat nej till<br>erbjudande. Fortsatt planering pågår. |
+| 2025-10-21 | 9 § 10 LSS, daglig<br>verksamhet | Saknar plats. Tackat ja till uppstart, planering pågår. |
+
+<!-- sida 162 -->
+
+KUNGSBACKA  KOMMUN
+4 (8)
+
+<!-- sida 163 -->
+
+KUNGSBACKA  KOMMUN
+5 (8)
+
+<!-- sida 164 -->
+
+KUNGSBACKA  KOMMUN
+6 (8)
 
 <!-- sida 165 -->
 
@@ -6954,13 +6905,7 @@ KUNGSBACKA  KOMMUN
 
 Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
 
-[Tabell 165-1](handlingar.tabeller/165-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
-| 2025-10-21 | 9 § 10 LSS, daglig<br>verksamhet | Saknar plats. Tackat ja till uppstart, planering pågår. |
-
-[Tabell 165-2](handlingar.tabeller/165-2.csv)
+[Tabell 165-166-1](handlingar.tabeller/165-166-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
@@ -6972,6 +6917,12 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2025-06-26 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Avbrott i verkställighet. Den<br>enskilde vill inte ha insatsen. | Avslutat 2025-11-07. |
 | 2024-09-24 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. Den enskilde bor<br>på boende i annan kommun.<br>Tackat nej till erbjudande 2025-<br>03-26 då boendet inte var<br>centralt. | Verkställt 2026-01-02. |
 | 2024-10-02 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. Tackat nej till<br>erbjudande 2025-04-11 då<br>boendet inte matchar behoven. | Verkställt 2026-01-20. |
+| 2024-11-29 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. Arbete med att<br>hitta lämpligt boende pågår. | Verkställt 2026-01-19. |
+| 2025-01-13 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. | Verkställt 2026-01-22. |
+| 2025-03-21 | 9 § 9 LSS, bostad för<br>vuxna | Saknar plats, planering pågår. | Verkställt 2026-01-01. |
+| 2025-04-22 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. | Verkställt 2026-01-19. |
+| 2022-12-31 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. Insatsen är<br>pausad. Den enskilde har flyttat<br>in på BmSS och vill landa innan<br>uppstart av daglig verksamhet. | Avslutat 2025-10-31.<br>Avslutat på egen<br>begäran. |
+| 2025-02-18 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde medverkar inte till<br>verkställighet. Har kontinuerlig<br>kontakt via telefon. Den<br>enskilde avbokar möten. Den<br>enskilde är tveksam till insatsen. | Avslutat 2026-01-16.<br>Avslutat på egen<br>begäran. |
 
 <!-- sida 166 -->
 
@@ -6982,17 +6933,6 @@ Inom vuxenenheten och familjehemsenheten finns inga ej verkställda beslut under
 
 Märta Lycken                  Renate Rondolph
 Tf. förvaltningschef          Verksamhetschef
-
-[Tabell 166-1](handlingar.tabeller/166-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
-| 2024-11-29 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. Arbete med att<br>hitta lämpligt boende pågår. | Verkställt 2026-01-19. |
-| 2025-01-13 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. | Verkställt 2026-01-22. |
-| 2025-03-21 | 9 § 9 LSS, bostad för<br>vuxna | Saknar plats, planering pågår. | Verkställt 2026-01-01. |
-| 2025-04-22 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. | Verkställt 2026-01-19. |
-| 2022-12-31 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. Insatsen är<br>pausad. Den enskilde har flyttat<br>in på BmSS och vill landa innan<br>uppstart av daglig verksamhet. | Avslutat 2025-10-31.<br>Avslutat på egen<br>begäran. |
-| 2025-02-18 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde medverkar inte till<br>verkställighet. Har kontinuerlig<br>kontakt via telefon. Den<br>enskilde avbokar möten. Den<br>enskilde är tveksam till insatsen. | Avslutat 2026-01-16.<br>Avslutat på egen<br>begäran. |
 
 <!-- sida 167 -->
 

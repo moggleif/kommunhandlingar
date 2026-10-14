@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7ff3de1b18d1d01c8a81509/17056570645
 sha256: 1c742427ade8c7414b21161cb054d8313e0786d3e36db499126a0efde4d07a38
 bytes: 9240575
 sidor: 185
-hamtad: 2026-10-07T22:08:50+00:00
-konverterad: 2026-10-07T22:09:53+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T06:24:30+00:00
+konverterad: 2026-10-14T06:25:16+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [32, 33, 34, 35, 51, 52]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [32, 33, 34, 35, 51, 52, 143, 145, 147]
+figurer: [32, 33, 34, 35, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 152, 163, 164, 165, 176, 178]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -6113,19 +6113,33 @@ Nedan framgår en översikt över de konsekvensbedömningar som gjorts i kommune
 och där jag lämnat råd. Inom parentes anges vilken del av kommunens verksamhet som gjort
 konsekvensbedömningen:
 
+Gjorda konsekvensbedömningar där lämnat råd
+2021                 2022                 2023
+
+Integrationsplattform (SE) Kontors- och samarbetsverktyg (KS) Stöd vid separationer (IF)
+
+Mitt Arkiv (KS)                          Specialkost (SE)
+Ansökan om stipendium – e-tjänst
+(GA)
+
+E-tjänsteplattform (KS) Gästnätverk (SE) Stöd för automatisering av
+arbets- och beslutsprocesser (KS)
+
+Kompletterande                           Dokumentation vid
+kamerabevakning/digital tillsyn Chattverktyg på kommunens disciplinärenden (KS)
+(VO/IF)            hemsida (KS)
+
+Bedömningsstöd inom Hantering av         Automatiserat avslut av
+gymnasieskolan (GA) användarbehörigheter (SE) personakter (SE)
+
+Färdtjänst – e-tjänst (TE)               Analys- och planeringsstöd inom
+Rapportering av missförhållanden socialtjänsten (IF)
+(visselblåsarfunktion) (KS)
+
+Ekonomiskt bistånd – e-tjänst            Säker posthantering
+(GA)               Digitalt stöd inom LSS (IF) (digital/fysisk) (KS)
+
 10
-
-[Tabell 161-1](handlingar.tabeller/161-1.csv)
-
-| Gjorda konsekvensbedömningar där lämnat råd<br>2021 2022 2023 |  |  |
-| --- | --- | --- |
-| Integrationsplattform (SE) | Kontors- och samarbetsverktyg (KS) | Stöd vid separationer (IF) |
-| Mitt Arkiv (KS) | Ansökan om stipendium – e-tjänst<br>(GA) | Specialkost (SE) |
-| E-tjänsteplattform (KS) | Gästnätverk (SE) | Stöd för automatisering av<br>arbets- och beslutsprocesser (KS) |
-| Kompletterande<br>kamerabevakning/digital tillsyn<br>(VO/IF) | Chattverktyg på kommunens<br>hemsida (KS) | Dokumentation vid<br>disciplinärenden (KS) |
-| Bedömningsstöd inom<br>gymnasieskolan (GA) | Hantering av<br>användarbehörigheter (SE) | Automatiserat avslut av<br>personakter (SE) |
-| Färdtjänst – e-tjänst (TE) | Rapportering av missförhållanden<br>(visselblåsarfunktion) (KS) | Analys- och planeringsstöd inom<br>socialtjänsten (IF) |
-| Ekonomiskt bistånd – e-tjänst<br>(GA) | Digitalt stöd inom LSS (IF) | Säker posthantering<br>(digital/fysisk) (KS) |
 
 <!-- sida 162 -->
 
@@ -6857,23 +6871,26 @@ Prognos       Budget
 INTÄKTER                         2023             2024
 
 Medlemsavgifter:
-Staten                       9 554 000        9 529 000
-Region Halland               4 777 000        4 764 500
-Falkenbergs kommun, 3%        5 73 240         5 71 740
-Halmstads kommun, 8%         1 528 640        1 524 640
-Hylte kommun, 1%              1 91 180         1 90 580
-Kungsbacka kommun, 6%        1 146 480        1 143 480
-Laholms kommun, 2%            3 82 160         3 81 160
-
-Varbergs kommun, 5%           9 55 500         9 52 900
-Summa intäkter medlemsavgifter 1 9 108 200   1 9 058 000
-ESF Progress                  6 14 000              0
-Total                        1 9 722 200     1 9 058 000
-Eget kapital IB              5 480 535        3 830 171
-INTÄKTER TOTALT:             2 5 816 735     2 2 888 171
 
 Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet
 https://sign.visma.net/sv/document-check/b1436cd7-c740-46d7-8a6d-9beda5a2b215 www.vismasign.com
+
+[Tabell 177-1](handlingar.tabeller/177-1.csv)
+
+| Staten | 9 554 000 | 9 529 000 |
+| --- | --- | --- |
+| Region Halland | 4 777 000 | 4 764 500 |
+| Falkenbergs kommun, 3% | 573 240 | 571 740 |
+| Halmstads kommun, 8% | 1 528 640 | 1 524 640 |
+| Hylte kommun, 1% | 191 180 | 190 580 |
+| Kungsbacka kommun, 6% | 1 146 480 | 1 143 480 |
+| Laholms kommun, 2% | 382 160 | 381 160 |
+| Varbergs kommun, 5% | 955 500 | 952 900 |
+| Summa intäkter medlemsavgifter | 19 108 200 | 19 058 000 |
+| ESF Progress | 614 000 | 0 |
+| Total | 19 722 200 | 19 058 000 |
+| Eget kapital IB | 5 480 535 | 3 830 171 |
+| INTÄKTER TOTALT: | 25 816 735 | 22 888 171 |
 
 <!-- sida 178 -->
 
@@ -6884,35 +6901,30 @@ Drift:
 Insatser:
 Prognos       Budget
 
-Insatser                      2023            2024
-IST Lhm                     8 87 719        946 579
-
 ```osaker-tabell
+Insatser                      2023            2024
+IST Lhm                     887 719         946 579
 IST Halmstad/Hylte         4 663 518       4 883 998
 IST Fbg                    1 591 180       1 581 489
 IST Vbg                    3 000 038       3 083 716
 IST Kba                    3 470 725       3 597 742
 
 Idéburet Off Partnerskap     89 000             0
+SKAPA/BIP                   395 295         150000
+ESF PROGRESS                600 000             0
+Kunskapsutveckling (ny)     153 000         230 000
+Finsam                      149 000             0
+Utgifter insatser         14 999 475      14 473 524
 ```
-
-SKAPA/BIP                   3 95 295        150000
-ESF PROGRESS                6 00 000            0
-Kunskapsutveckling (ny)     1 53 000        230 000
-Finsam                      1 49 000            0
-Utgifter insatser         14 999 475      1 4 473 524
 
 Sammanställning budget 2024
 Prognos 2023 Budget 2024
 INTÄKTER
-INTÄKTER Medlemsavg.     1 9 108 200 1 9 058 000
-ESF Progress               6 14 000    0
-INTÄKTER TOTALT:         2 0 336 200 1 9 058 000
 
 UTGIFTER
 Utgifter personal/drift   6 373 089 5 941 680
 Utgifter insatser        14 999 475 14 473 524
-UTGIFTER TOTALT:         2 1 372 564 20 415 204
+UTGIFTER TOTALT:         21 372 564 20 415 204
 
 Resultat               -  1 650 364 - 1 357 204
 
@@ -6927,6 +6939,13 @@ kapitalet minskar 2024 och 2025
 
 Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet
 https://sign.visma.net/sv/document-check/b1436cd7-c740-46d7-8a6d-9beda5a2b215 www.vismasign.com
+
+[Tabell 178-1](handlingar.tabeller/178-1.csv)
+
+| INTÄKTER Medlemsavg. | 19 108 200 | 19 058 000 |
+| --- | --- | --- |
+| ESF Progress | 614 000 | 0 |
+| INTÄKTER TOTALT: | 20 336 200 | 19 058 000 |
 
 <!-- sida 179 -->
 

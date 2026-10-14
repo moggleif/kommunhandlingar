@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6ed85a58192080e2362c4150/1727073314
 sha256: 47f7d27f40b5b4ca602503f2a9a2b6e444bb6413e263c68b203f6c16207349de
 bytes: 8581094
 sidor: 236
-hamtad: 2026-10-08T00:58:46+00:00
-konverterad: 2026-10-08T00:59:27+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T08:49:04+00:00
+konverterad: 2026-10-14T08:49:42+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok]
 tal_obekraftade: [43]
-figurer: null
-tolkade: null
+figurer: [43, 117, 120, 125, 126, 127, 128, 178, 181]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -879,14 +879,30 @@ Delårsrapport Augusti 2024
 
 Utfall och prognos
 
+Bokslut Budget Prognos Budget-  Delår  Delår  Avvikelse
+Miljoner kronor
+2023   2024    2024  avvikelse 2023    2024    delår
+Drift
+Skattefinansierad -227,1 -246,4 -245,4   1,0   -157,4 -167,9   -10,5
+verksamhet
+Drift Vatten och
+-8,1    -0,7   -9,7    -9,0     2,8    -7,4   -10,2
+Avlopp
+Drift Avfall och
+-5,9    -1,3    2,0     3,3    -2,4    1,8      4,2
+Återvinning
+Drift Kungsbacka
+-1,3    0,9      0     -0,9    -2,2    -1,3     0,9
+Bredbandsnät
+Periodens
+-242,4  -247,5  -253,1   -5,6   -159,2 -174,8   -15,6
+resultat
 Teknik Skatt
-
 Verksamheten redovisar ett utfall för perioden om -167,9 miljoner kronor vilket innebär 1,4 miljoner kronor
 högre än budget. Prognosen per helår är -245,4 miljoner kronor vilket är 1,0 miljoner kronor lägre än budget så
 en större omställning enligt handlingsplan för en budget i balans genomförts. Förvaltningen bedömer att behov
 finns att stärka resultatfonden, efter flera år med uttag, för att kunna parera yttre påverkningar som väder eller
 plötsliga prishöjningar.
-
 Teknik VA.
 
 En budgetavvikelse prognostiseras med ett underskott på 9,0 miljoner kronor gentemot budget.
@@ -907,15 +923,6 @@ miljoner kronor. Den största förklaringen är att kapitalkostnaderna blir läg
 projekt inte kommit igång enligt plan.
 
 16
-
-[Tabell 19-1](handlingar.tabeller/19-1.csv)
-
-| Miljoner kronor<br>Drift<br>Skattefinansierad<br>verksamhet | Bokslut<br>2023<br>-227,1 | Budget<br>2024<br>-246,4 | Prognos<br>2024<br>-245,4 | Budget-<br>avvikelse<br>1,0 | Delår<br>2023<br>-157,4 | Delår<br>2024<br>-167,9 | Avvikelse<br>delår<br>-10,5 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Drift Vatten och<br>Avlopp | -8,1 | -0,7 | -9,7 | -9,0 | 2,8 | -7,4 | -10,2 |
-| Drift Avfall och<br>Återvinning | -5,9 | -1,3 | 2,0 | 3,3 | -2,4 | 1,8 | 4,2 |
-| Drift Kungsbacka<br>Bredbandsnät | -1,3 | 0,9 | 0 | -0,9 | -2,2 | -1,3 | 0,9 |
-| Periodens<br>resultat | -242,4 | -247,5 | -253,1 | -5,6 | -159,2 | -174,8 | -15,6 |
 
 <!-- sida 20 -->
 
@@ -974,6 +981,18 @@ Teknik
 
 5.2.1 Uppföljning Drift Skattefinansierad verksamhet
 
+Bokslut Budget Progno Budgetav Delår Delår  Avvikels
+Miljoner kronor
+2023   2024   s 2024 vikelse 2023   2024   e delår
+Verksamhetens intäkter 110,5 80,5 82,5    2,0   65,3    54,1   -11,2
+Verksamhetens kostnader -337,6 -326,9 -327,9 -1,0 -222,7 -222,0  0,7
+Varav personalkostnader -93,3 -86,8 -86,2 0,6   -64,5   -57,8    6,7
+
+Varav
+-158  -127,5 -129,1   -1,6 -101,6   -89,4   12,2
+verksamhetskostnader
+Varav kapitalkostnader -86,3 -112,6 -112,6 0,0  -56,6   -74,8  -18,2
+Periodens resultat -227,1 -246,4 -245,4   1,0  -157,4  -167,9  -10,5
 Analys och kommentar
 Teknik Skatt redovisar ett utfall för perioden om -167,9 miljoner kronor vilket innebär 1,4 miljoner kronor
 högre än budget. Förklaring till underskottet för perioden förklaras främst av:
@@ -1008,16 +1027,6 @@ Detta beror på att Serviceförvaltningen från och med 1 mars 2024 själva skö
 
 18
 
-[Tabell 21-1](handlingar.tabeller/21-1.csv)
-
-| Miljoner kronor<br>Verksamhetens intäkter | Bokslut<br>2023<br>110,5 | Budget<br>2024<br>80,5 | Progno<br>s 2024<br>82,5 | Budgetav<br>vikelse<br>2,0 | Delår<br>2023<br>65,3 | Delår<br>2024<br>54,1 | Avvikels<br>e delår<br>-11,2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Verksamhetens kostnader | -337,6 | -326,9 | -327,9 | -1,0 | -222,7 | -222,0 | 0,7 |
-| Varav personalkostnader | -93,3 | -86,8 | -86,2 | 0,6 | -64,5 | -57,8 | 6,7 |
-| Varav<br>verksamhetskostnader | -158 | -127,5 | -129,1 | -1,6 | -101,6 | -89,4 | 12,2 |
-| Varav kapitalkostnader | -86,3 | -112,6 | -112,6 | 0,0 | -56,6 | -74,8 | -18,2 |
-| Periodens resultat | -227,1 | -246,4 | -245,4 | 1,0 | -157,4 | -167,9 | -10,5 |
-
 <!-- sida 22 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
@@ -1044,6 +1053,18 @@ från detaljplanearbete, försäljning av fordon och schaktåterställningsavgif
 
 5.2.2 Uppföljning Drift VA
 
+Bokslut Budget Progno Budgetav Delår Delår  Avvikels
+Miljoner kronor
+2023   2024   s 2024 vikelse 2023   2024   e delår
+Verksamhetens intäkter 205,2 232,5 228,5  -4,0 139,2   151,1    11,9
+Verksamhetens kostnader -213,3 -233,2 -238,2 -5,0 -136,4 -158,5 -22,1
+varav personalkostnad -44,8 -48,2 -48,2   0,0   -28,7   -31,3   -2,6
+
+varav
+-104,8  -91,6   -94     -2,4  -67,3   -62,9    4,4
+verksamhetskostnad
+varav kapitalkostnad -63,7 -93,4 -96,0    -2,6  -40,4   -64,3  -23,9
+Periodens resultat  -8,1   -0,7   -9,7    -9,0   2,8    -7,4   -10,2
 Analys och kommentar
 En budgetavvikelse prognostiseras med ett underskott på 9,0 miljoner kronor gentemot budget vilket är samma
 prognos som i delår 1.
@@ -1065,16 +1086,6 @@ brukningsavgifter minskat till följd av bevattningsförbudet samt en minskad in
 | --- | --- |
 | Ej aktuellt då nämnden inte prognosticerar underskott<br>för innevarande år. | Resultatfonden uppgår till 4,3 miljoner kronor vilket<br>motsvarar 1,3% av kostnaderna. Prognosticerat<br>överskott om 1,0 milj kronor föreslås därför läggas till<br>fonden. |
 | Summa |  |
-
-[Tabell 22-3](handlingar.tabeller/22-3.csv)
-
-| Miljoner kronor<br>Verksamhetens intäkter | Bokslut<br>2023<br>205,2 | Budget<br>2024<br>232,5 | Progno<br>s 2024<br>228,5 | Budgetav<br>vikelse<br>-4,0 | Delår<br>2023<br>139,2 | Delår<br>2024<br>151,1 | Avvikels<br>e delår<br>11,9 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Verksamhetens kostnader | -213,3 | -233,2 | -238,2 | -5,0 | -136,4 | -158,5 | -22,1 |
-| varav personalkostnad | -44,8 | -48,2 | -48,2 | 0,0 | -28,7 | -31,3 | -2,6 |
-| varav<br>verksamhetskostnad | -104,8 | -91,6 | -94 | -2,4 | -67,3 | -62,9 | 4,4 |
-| varav kapitalkostnad | -63,7 | -93,4 | -96,0 | -2,6 | -40,4 | -64,3 | -23,9 |
-| Periodens resultat | -8,1 | -0,7 | -9,7 | -9,0 | 2,8 | -7,4 | -10,2 |
 
 <!-- sida 23 -->
 
@@ -1135,6 +1146,18 @@ Delårsrapport Augusti 2024
 
 5.2.4 Uppföljning Drift Avfall & Återvinning
 
+Bokslut Budget Progno Budgetav Delår Delår  Avvikels
+Miljoner kronor
+2023   2024   s 2024 vikelse 2023   2024   e delår
+Verksamhetens intäkter 94,8 113,9 118,7   4,8   63,8    76,9    13,1
+Verksamhetens kostnader -100,7 -115,2 -116,7 -1,5 -66,2 -75,1   -8,9
+
+varav personalkostnad -4,6 -5,4   -5,4    0,0    -3,1   -3,4    -0,3
+varav
+-94,5  -105,2 -109,6   -4,4   -62    -70,3   -8,3
+verksamhetskostnad
+varav kapitalkostnad -1,7  -4,7   -1,7    3,0    -1,1   -1,4    -0,3
+Periodens resultat  -5,9   -1,3    2,0    3,3    -2,4    1,8     4,2
 Analys och kommentar
 Nämnden redovisar ett utfall för perioden om 1,8 miljoner kronor. Nämndens prognos för helåret 2024 är 2
 miljoner kronor. Den största förklaringen är att kapitalkostnaderna blir lägre än budgeterat som en effekt av att
@@ -1165,16 +1188,6 @@ Om underskott består även efter 2024 behöver neddragningar i verksamheten gö
 
 [Tabell 24-1](handlingar.tabeller/24-1.csv)
 
-| Miljoner kronor<br>Verksamhetens intäkter | Bokslut<br>2023<br>94,8 | Budget<br>2024<br>113,9 | Progno<br>s 2024<br>118,7 | Budgetav<br>vikelse<br>4,8 | Delår<br>2023<br>63,8 | Delår<br>2024<br>76,9 | Avvikels<br>e delår<br>13,1 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Verksamhetens kostnader | -100,7 | -115,2 | -116,7 | -1,5 | -66,2 | -75,1 | -8,9 |
-| varav personalkostnad | -4,6 | -5,4 | -5,4 | 0,0 | -3,1 | -3,4 | -0,3 |
-| varav<br>verksamhetskostnad | -94,5 | -105,2 | -109,6 | -4,4 | -62 | -70,3 | -8,3 |
-| varav kapitalkostnad | -1,7 | -4,7 | -1,7 | 3,0 | -1,1 | -1,4 | -0,3 |
-| Periodens resultat | -5,9 | -1,3 | 2,0 | 3,3 | -2,4 | 1,8 | 4,2 |
-
-[Tabell 24-2](handlingar.tabeller/24-2.csv)
-
 | Nämnd/förvaltning | Helårsprognos delår 1 | Helårsprognos delår 2 | Förändring prognos |
 | --- | --- | --- | --- |
 | 53 Avfall & Återvinning | -2,3 | 2,0 | 4,3 |
@@ -1186,6 +1199,23 @@ Nämnden för Teknik                               Kungsbacka kommun
 Delårsrapport Augusti 2024
 
 5.2.5 Uppföljning Drift Kungsbacka Bredband
+
+Bokslut Budget Progno Budgetav Delår Delår  Avvikels
+Miljoner kronor
+
+```osaker-tabell
+                  2023   2024   s 2024 vikelse 2023   2024   e delår
+Verksamhetens intäkter 36,2 43,7  42,2    -1,5  22,1    26,6     4,5
+Verksamhetens kostnader -37,6 -42,8 -42,2 0,6   -24,3   -27,9   -3,6
+
+varav personalkostnad -4,5 -5,6   -5,0    0,6    -2,8   -3,1    -0,3
+```
+
+varav
+-8,8   -7,7   -7,7    0,0    -5,7   -5,6     0,1
+verksamhetskostnad
+varav kapitalkostnad -24,3 -29,5 -29,5    0,0   -15,8   -19,2   -3,4
+Periodens resultat  -1,4   0,9     0,0    -0,9   -2,2   -1,3     0,9
 
 Analys och kommentar
 Jämförelse med samma period föregående år
@@ -1210,16 +1240,6 @@ Förändring helårsprognos
 
 [Tabell 25-1](handlingar.tabeller/25-1.csv)
 
-| Miljoner kronor<br>Verksamhetens intäkter | Bokslut<br>2023<br>36,2 | Budget<br>2024<br>43,7 | Progno<br>s 2024<br>42,2 | Budgetav<br>vikelse<br>-1,5 | Delår<br>2023<br>22,1 | Delår<br>2024<br>26,6 | Avvikels<br>e delår<br>4,5 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Verksamhetens kostnader | -37,6 | -42,8 | -42,2 | 0,6 | -24,3 | -27,9 | -3,6 |
-| varav personalkostnad | -4,5 | -5,6 | -5,0 | 0,6 | -2,8 | -3,1 | -0,3 |
-| varav<br>verksamhetskostnad | -8,8 | -7,7 | -7,7 | 0,0 | -5,7 | -5,6 | 0,1 |
-| varav kapitalkostnad | -24,3 | -29,5 | -29,5 | 0,0 | -15,8 | -19,2 | -3,4 |
-| Periodens resultat | -1,4 | 0,9 | 0,0 | -0,9 | -2,2 | -1,3 | 0,9 |
-
-[Tabell 25-2](handlingar.tabeller/25-2.csv)
-
 | Nämnd/förvaltning | Helårsprognos delår 1 | Helårsprognos delår 2 | Förändring prognos |
 | --- | --- | --- | --- |
 | 51 Kungsbacka<br>bredband | 0 | 0 | 0 |
@@ -1239,6 +1259,26 @@ Utfall och prognos
 
 Specifikation projekt över 30 mnkr till Kommunstyrelsen
 
+Ack utfall
+Helårspr
+Pro           Totalbud Totalpro Avvikels totalt tom   Budget Avvikel
+Text                                      ognos
+jnr           get     gnos    e totalt augusti         2024  se 2024
+2024
+2024
+Gång- och
+351 cykelbro över
+xx      xx             -6,8   -3,0     xx    -3,0
+0   järnvägen vid
+Inlag
+VA sanering
+451
+Hanhals etapp  -80     -80     0     -70,0   -26,2  -44,3   18,1
+2
+1
+506 Framtidens
+-1 655  -1 655    0     -40,0   -42,0  -50,0    8,0
+6   reningsverk
 23
 
 [Tabell 26-1](handlingar.tabeller/26-1.csv)
@@ -1261,19 +1301,42 @@ Specifikation projekt över 30 mnkr till Kommunstyrelsen
 | Inkomster | 51,4 | 124,3 | 75,5 | -48,8 | 30 |
 | Netto | -561,6 | -658,3 | -436,1 | 222,2 | -239,2 |
 
-[Tabell 26-2](handlingar.tabeller/26-2.csv)
-
-| Pro<br>jnr | Text | Totalbud<br>get | Totalpro<br>gnos | Avvikels<br>e totalt | Ack utfall<br>totalt tom<br>augusti<br>2024 | Helårspr<br>ognos<br>2024 | Budget<br>2024 | Avvikel<br>se 2024 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 351<br>0 | Gång- och<br>cykelbro över<br>järnvägen vid<br>Inlag | xx | xx |  | -6,8 | -3,0 | xx | -3,0 |
-| 451<br>2 | VA sanering<br>Hanhals etapp<br>1 | -80 | -80 | 0 | -70,0 | -26,2 | -44,3 | 18,1 |
-| 506<br>6 | Framtidens<br>reningsverk | -1 655 | -1 655 | 0 | -40,0 | -42,0 | -50,0 | 8,0 |
-
 <!-- sida 27 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Delårsrapport Augusti 2024
 
+Ack utfall
+Helårspr
+Pro           Totalbud Totalpro Avvikels totalt tom   Budget Avvikel
+Text                                      ognos
+jnr           get     gnos    e totalt augusti         2024  se 2024
+2024
+2024
+751 Ölmanäs
+-100    -107     -7     -87     -57   -53,3   -3,7
+6   reningsverk
+Reinvestering
+351
+VA-ledningar   54      -73   -127   -257,2    -73    54,0  -127,0
+5
+2024
+VOMV VA
+556
+utbygg Släps- -34,4  -34,4    0,0     -3,7   -2,0   -31,2   29,2
+0
+Högås UT
+VOMV VA-utb
+556
+Hagryd Dala   -65,8  -65,8    0,0    -27,7   -10,0  -44,9   34,9
+5
+UT
+VUTB Fjärås
+550 VV - Hammerö
+-65,1  -65,1    0,0     -2,0   -1,0   -63,9   62,9
+P   Uppdim vatten
+et 2
+Summa projekt   -1 946,3 -2 080,3 -134,0 -494,4 -214,2  -233,6  19,4
 Positivt belopp på proj 3515 beror på ombudgeteringar från tidigare år. Gällande 4512 Reinvesteringar VA-ledningar pågående och
 utfall sedan år 2010.
 3510 Gång- och cykelbro över järnvägen vid Inlag.Nämnden för Teknik beslutade under våren 2024 att ändra
@@ -1284,7 +1347,6 @@ som utreds vidare finns framtagen och kostnadsbedömning av denna pågår.
 7516 Ölmanäs reningsverk. Projektet har blivit dyrare än ursprunglig budget men kommer att färdigställas
 under året. Kommer att förbättra reningsprocess och arbetsmiljö på verket samt återställa skicket då
 anläggningen är gammal.
-
 5066: Framtidens reningsverk. Ut- och ombyggnad av Hammargårds reningsverk har försenats på grund av
 utdragen tillståndsprocess men löper nu på med god fart. Entreprenören har etablerat sig och kommit i gång med
 förberedande arbeten.
@@ -1294,27 +1356,13 @@ inom budget.
 undertecknat och vi inväntar nu beslut om ledningsrätt från Lantmäteriet innan projektet kan slutföras.
 Övertagande av ledningssystemet beräknas fortfarande ske under 2024, men är beroende av att snart beslut från
 Lantmäteriet. Det finns risk att övertagandet kan ske först 2025.
-
 5507: Reservvatten Göteborg. Projektet består av flera etapper varav den första etappen Sandlyckan-Snipen
 beräknas ha byggstart under senhösten 2024.
 550P:VA-utbyggnad. Fjärås Vattenverk-Hammerö etapp 2. Entreprenaden planeras starta under första
 halvan av 2025. Projektet är försenat och ligger efter den ursprungliga tidplanen.
-
 550Q: VA-utbyggnad. Fjärås VV-Hammerö etapp 3. Projektering kommer att påbörjas under 2024,
 byggstart planeras till 2026. Ansökan om ledningsrätt har skickats in till Lantmäteriet.
-
 24
-
-[Tabell 27-1](handlingar.tabeller/27-1.csv)
-
-| Pro<br>jnr | Text | Totalbud<br>get | Totalpro<br>gnos | Avvikels<br>e totalt | Ack utfall<br>totalt tom<br>augusti<br>2024 | Helårspr<br>ognos<br>2024 | Budget<br>2024 | Avvikel<br>se 2024 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 751<br>6 | Ölmanäs<br>reningsverk | -100 | -107 | -7 | -87 | -57 | -53,3 | -3,7 |
-| 351<br>5 | Reinvestering<br>VA-ledningar<br>2024 | 54 | -73 | -127 | -257,2 | -73 | 54,0 | -127,0 |
-| 556<br>0 | VOMV VA<br>utbygg Släps-<br>Högås UT | -34,4 | -34,4 | 0,0 | -3,7 | -2,0 | -31,2 | 29,2 |
-| 556<br>5 | VOMV VA-utb<br>Hagryd Dala<br>UT | -65,8 | -65,8 | 0,0 | -27,7 | -10,0 | -44,9 | 34,9 |
-| 550<br>P | VUTB Fjärås<br>VV - Hammerö<br>Uppdim vatten<br>et 2 | -65,1 | -65,1 | 0,0 | -2,0 | -1,0 | -63,9 | 62,9 |
-| Summa projekt |  | -1 946,3 | -2 080,3 | -134,0 | -494,4 | -214,2 | -233,6 | 19,4 |
 
 <!-- sida 28 -->
 
@@ -1598,7 +1646,7 @@ avfallsorganisation.
 Uppdateringar mellan Avfallstaxa 2024 (Avfallstaxa Kommunfullmäktige 14 december 2023 § 194, KS 2023-
 00300 gällande från 1 januari 2024) och Avfallstaxa 2025
 
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
+[Tabell 35-42-1](handlingar.tabeller/35-42-1.csv)
 
 | Avsnitt | Kommentar | Uppdaterat enligt följande |
 | --- | --- | --- |
@@ -1607,76 +1655,48 @@ Uppdateringar mellan Avfallstaxa 2024 (Avfallstaxa Kommunfullmäktige 14 decembe
 | 2.<br>Beräknings<br>grunder | Skriva att även<br>hämtning av<br>förpackningsavfall<br>omfattas av en maxtaxa | Följande text:<br>Avgifter för fastighetsnära hämtning av bygg- och rivningsavfall samt returpapper<br>begränsas av maxtaxa.<br>Byts till:<br>Avgifter för fastighetsnära hämtning av bygg- och rivningsavfall,<br>förpackningsavfall samt returpapper begränsas av maxtaxa. |
 | 3<br>Mervärdess<br>katt | Skriva ut<br>procenttecknet. | Följande text:<br>Avgifter i taxan är angivna i kronor inklusive 25 % moms.<br>Byts till:<br>Avgifter i taxan är angivna i kronor inklusive 25 procent moms. |
 | 4.1 Allmän<br>Information | Ta bort information om<br>antal ÅVC besök<br>eftersom det står redan i<br>avsnitt 4.6 samt lägga<br>till information om att | Följande text:<br>I abonnemangsavgiften ingår följande:<br>• 15 besök på återvinningscentral per år för privatpersoner och 15 besök per år<br>för |
-
-<!-- sida 36 -->
-
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
-
 |  | kärl ägs och distribueras<br>av kommunen och<br>kommunens<br>entreprenörer. | verksamheter med avfallsabonnemang.<br>• Påsar och påshållare för matavfall.<br>• Upp till två meters gångavstånd till hämtfordon för avfallskärl.<br>• I avgiften för slamtömning ingår slangdragning upp till 20 meter.<br>Byts till:<br>I abonnemangsavgiften ingår följande:<br>• Besök på återvinningscentraler enligt avsnitt 4.6<br>• Påsar och påshållare för matavfall.<br>• Upp till två meters gångavstånd till hämtfordon för avfallskärl.<br>• I avgiften för slamtömning ingår slangdragning upp till 20 meter.<br>• Kärl ägs och distribueras av renhållaren eller renhållarens utförare. |
-| --- | --- | --- |
 | 4.3.3.1<br>Gångavstånd till<br>kärl | Ändra till rätt veckor för<br>den nya<br>trädgårdsavfallssäsonge<br>n i tabellen för<br>gångavstånd vid<br>hämtning av<br>trädgårdsavfall | Följande text:<br>Trädgårdsavfall (vecka 14-45)<br>Byts till:<br>Trädgårdsavfall (vecka 12-47) |
 | 4.3.3.4<br>Hämtning av<br>komposterbart<br>trädgårdsavfall i<br>kärl | Förlänga<br>trädgårdsavfallssäsonge<br>n med 4 veckor dvs två<br>extra tömningar. | Uppdatering |
 | 4.3.3.5<br>Hämtning av<br>komposterbart<br>trädgårds- och<br>parkavfall i<br>container | Förtydliggöra i rubriken<br>att den fraktionen<br>inkluderar även ris och<br>grenar. | Följande rubriksnamn:<br>Hämtning av komposterbart trädgårds- och parkavfall i container<br>Byts till:<br>Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris och grenar) i<br>container |
-
-<!-- sida 37 -->
-
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
-
 | 4.3.3.7<br>Hämtning av<br>grovavfall | Lägga till att det går att<br>lämna även det som går<br>att återanvända samt<br>lägga till<br>storleksbegränsningar.<br>Uppdatera<br>rubriksnamnet för att<br>inkludera återbruk | Följande rubriksnamn:<br>Hämtning av grovavfall<br>Byts till:<br>Hämtning av grovavfall och återbruk |
-| --- | --- | --- |
 |  |  | Följande text:<br>Renhållarens utförare hämtar avfallet i anslutning till väg vid fastighetsgräns,<br>inom 6 arbetsdagar efter beställning.<br>Uppdaterats till:<br>Renhållarens utförare hämtar avfallet och produkter till återbruk i anslutning till<br>väg vid fastighetsgräns, inom 6 arbetsdagar efter beställning. Varje kolli får väga<br>maximalt 30 kilo och inte ha en volym större än 1 kubikmeter. Längder får vara<br>maximalt 1,2 meter. Kollin ska märkas med respektive fraktion. Produkter till<br>återbruk ska vara hela och rena. Mer information om vad som får lämnas finns<br>på kommunens hemsida |
 |  |  | Följande text i tabellen:<br>Grovavfall, mindre än 1 kubikmeter<br>Grovavfall mindre än 1 kubikmeter<br>Byts till:<br>Grovavfall och återbruk utöver 1 kubikmeter, per extra kubikmeter<br>Grovavfall och återbruk, mindre än 1 kubikmeter |
 | 4.4.2.1 | Ta bort grundavgiften för<br>varmkompost eftersom<br>abonnemanget saknas |  |
 | 4.3.3.8<br>Extra tömningar | Uppdatera perioden när<br>extra tömning av<br>trädgårdsavfall kan<br>beställas i enlighet med<br>den nya förlängda<br>trädgårdsavfallssäsonge<br>n. | Följande text:<br>Fastighetsinnehavare kan beställa extra tömning av brännbart restavfall och<br>matavfall, samt för trädgårdsavfall i kärl under perioden vecka 15–45.<br>Byts till:<br>Fastighetsinnehavare kan beställa extra tömning av brännbart restavfall och<br>matavfall, samt för trädgårdsavfall i kärl under perioden vecka 12–47 |
 | 4.4.4.1<br>Gångavstånd till<br>kärl | Uppdatera perioden i tabellen<br>i enlighet med den nya | Följande text:<br>Trädgårdsavfall (vecka 14–45) |
-
-<!-- sida 38 -->
-
-[Tabell 38-1](handlingar.tabeller/38-1.csv)
-
 |  | förlängda<br>trädgårdsavfallssäsongen. | Byts till:<br>Trädgårdsavfall (vecka 12–47) |
-| --- | --- | --- |
 | 4.4.4.4<br>Hämtning av<br>komposterbart<br>trädgårdsavfall i<br>kärl | Förlänga<br>trädgårdsavfallssäsongen<br>med 4 veckor dvs två extra<br>tömningar. | Följande text:<br>Trädgårdsavfall (vecka 14–45)<br>Byts till:<br>Trädgårdsavfall (vecka 12–47) |
 | 4.4.4.5<br>Hämtning av<br>komposterbart<br>trädgårds- och<br>parkavfall i<br>container | Förtydliggöra i rubriken att<br>den fraktionen inkluderar även<br>ris och grenar. | Följande rubriksnamn:<br>Hämtning av komposterbart trädgårds- och parkavfall i container<br>Byts till:<br>Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris och grenar) i<br>container |
 | 4.4.4.7<br>Hämtning av<br>grovavfall | Lägga till att det går att lämna<br>även det som går att<br>återanvända samt lägga till<br>storleksbegränsningar.<br>Uppdatera rubriksnamnet för<br>att inkludera återbruk. | Följande rubriksnamn:<br>Hämtning av grovavfall<br>Byts till:<br>Hämtning av grovavfall och återbruk |
 |  |  | Följande text:<br>Renhållarens utförare hämtar avfallet i anslutning till väg vid fastighetsgräns, inom 6<br>arbetsdagar efter beställning.<br>Uppdaterats till:<br>Renhållarens utförare hämtar avfallet och produkter till återbruk i anslutning till väg vid<br>fastighetsgräns, inom 6 arbetsdagar efter beställning. Varje kolli får väga maximalt 30<br>kilo och inte ha en volym större än 1 kubikmeter. Längder får vara maximalt 1,2 meter. |
-
-<!-- sida 39 -->
-
-[Tabell 39-1](handlingar.tabeller/39-1.csv)
-
 |  |  | Kollin ska märkas med respektive fraktion. Produkter till återbruk ska vara hela och<br>rena. Mer information om vad som får lämnas finns på kommunens hemsida |
-| --- | --- | --- |
 |  |  | Följande text i tabellen:<br>Grovavfall, mindre än 1 kubikmeter<br>Grovavfall mindre än 1 kubikmeter<br>Byts till:<br>Grovavfall och återbruk utöver 1 kubikmeter, per extra kubikmeter<br>Grovavfall och återbruk, mindre än 1 kubikmeter |
 | 4.4.4.8<br>Extra tömningar | Lägga till att även extra<br>tömning av trädgårdsavfall<br>kan beställas i enlighet med<br>den nya förlängda<br>trädgårdsavfallssäsongen.<br>Förtydliggöra att extra säck<br>begränsas till brännbart<br>restavfall. Tjänsten är likadan<br>för verksamheter som för<br>privatpersoner. | Följande text:<br>”, men det går inte att beställa extra tömning av trädgårdsavfall.”<br>Ersätts med:<br>”…, samt för trädgårdsavfall i kärl under perioden vecka 12–47”<br>Samt ”brännbart restavfall” läggs i följande mening:<br>Fastighetsinnehavare kan också beställa hämtning av extra säck brännbart<br>restavfall vid sidan av kärlet i samband med tömning av kärl. |
 | 4.4.5<br>Avfall från<br>detaljhandel,<br>restauranger och<br>storkök | Ny rubrik | Följande läggs till tillsammans med avgiftstabell för nya tjänster:<br>Hämtning av kommunalt avfall (enligt tabell nedan) från detaljhandel, restauranger<br>eller storkök kan beställas av valfri entreprenör som har avtal med kommunen.<br>Tjänsten inkluderar hämtning av livsmedelsavfall, ABP-avfall kategori 3, d.v.s.<br>livsmedelsavfall som omfattas av lagstiftningen om animaliska biprodukter. Hämtning<br>sker i enlighet med entreprenörens instruktioner. Hyra av insamlingskärl eller<br>container regleras mellan avfallslämnare och godkänd entreprenör.<br>Avgifterna nedan är högsta tillåtna priser som godkända entreprenörer får<br>debitera avfallslämnare. |
-
-<!-- sida 40 -->
-
-[Tabell 40-1](handlingar.tabeller/40-1.csv)
-
 |  |  | Nya tjänster som erbjuds:<br>-Fast livsmedelsavfall (ABP-avfall kategori 3), separat utsorterat i 140l-kärl<br>eller annan typ av behållare<br>-Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat i container<br>-Flytande livsmedelsavfall i sluten behållare (ABP-avfall, kategori 3)<br>-Livsmedelsavfall i form av ätlig olja eller liknande flytande ätligt fett<br>-Övrigt kommunalt avfall. Exempelvis kasserade produkter, textilavfall eller<br>avfall som uppkommit i verksamhetens personalutrymmen eller<br>serveringsverksamhet\*<br>\* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie<br>utförare. Sådant avfall får endast hämtas av annan entreprenör efter<br>godkännande från kommunens avfallsorganisation. |
-| --- | --- | --- |
 | 4.6.1<br>Privatpersoner | Förenkla texten om ÅVC-<br>besök. | Följande text:<br>I avfallsabonnemanget ingår besök på återvinningscentralerna. Alla vuxna<br>folkbokförda i kommunen har 15 besök per person och år. Från det 16:e<br>besöket tas en avgift per besök ut enligt tabell nedan. Inpassering sker<br>med körkort. Personer som inte har körkort kan ansöka om att få ett ÅVC-<br>kort i stället. Även privatpersoner som är folkbokförda i annan kommun<br>men äger ett fritidshus med avfallsabonnemang i Kungsbacka har rätt till 15<br>besök per abonnemang och år och får ett ÅVC-kort till detta. Det är också<br>möjligt att betala enstaka besök på någon av kommunens<br>återvinningscentraler.<br>Byts till:<br>Alla vuxna folkbokförda i kommunen har 15 besök per person och år. Från det 16:e<br>besöket tas en avgift per besök ut enligt tabell nedan. Privatpersoner med<br>avfallsabonnemang för fritidshus i Kungsbacka kommun har rätt till 15 besök per |
-
-<!-- sida 41 -->
-
-[Tabell 41-1](handlingar.tabeller/41-1.csv)
-
 |  |  | abonnemang och år. Inpassering sker med körkort. Personer som inte har körkort kan<br>ansöka om att få ett ÅVC-kort i stället. Det är också möjligt att betala enstaka besök<br>på någon av kommunens återvinningscentraler. |
-| --- | --- | --- |
 | 4.6.1<br>Privatpersoner | Utelämna information om vilka<br>avfallstyper kan lämnas av på<br>ÅVC utan att besöket<br>registreras. Det kommer vi<br>publicera på hemsidan. | Följande text stryks:<br>Privatpersoner som bara ska lämna återbruk, förpackningar (av plast,<br>papper, metall, glas), tidningar, returpapper, elektronik, lysrör och ljuskällor,<br>enstaka vitvaror, kyl och frys, batterier, bilbatterier eller fett från hushåll kan<br>göra det utan att besöket registreras. Kontakta då personalen så öppnar de<br>bommen, |
 | 4.6.1<br>Privatpersoner | Ändra från<br>renhållningsabonnemang till<br>avfallsabonnemang i tabellen. | Följande text:<br>Mottagningsavgift för besök ej kopplade till renhållningsabonnemang,<br>Byts till:<br>Mottagningsavgift för besök ej kopplade till avfallsabonnemang. |
 | 4.6.1<br>Privatpersoner | Ta bort information om<br>extrakort. Det är inte längre<br>möjligt längre. | Följande text:<br>För ett extra eller förlorat ÅVC-kort<br>Byts till:<br>Förlorat ÅVC-kort |
 | 4.6.2<br>Verksamheter | Lägg till information om hur<br>inpasseringen sker | Följande läggs till:<br>Inpassering för verksamheter sker med ÅVC-kort. |
+| 4.8 Avgift för att<br>återfå tappade<br>föremål i<br>behållare på<br>återvinningsstatio<br>n | Ny rubrik | Följande läggs till:<br>4.8 8 Avgift för att återfå tappade föremål i behållare på återvinningsstation<br>Övrig service kan innefatta åtgärder för att återfå värdeföremål som tappats i en<br>insamlingsbehållare. Efter överenskommelse om åtgärd tas avgift ut till<br>självkostnadspris för följande:<br>• transportera bort behållare och ställa ut en ersättningsbehållare<br>• tömma ut material från behållare, genomsöka och iordningställa.<br>• uttryckning under jourtid som görs av annan än kommunens egen<br>jourverksamhet |
+| 4.8 Särskilda<br>avgifter | Rubriken byter nummer till 4.9 |  |
+
+<!-- sida 36 -->
+
+<!-- sida 37 -->
+
+<!-- sida 38 -->
+
+<!-- sida 39 -->
+
+<!-- sida 40 -->
+
+<!-- sida 41 -->
 
 <!-- sida 42 -->
-
-[Tabell 42-1](handlingar.tabeller/42-1.csv)
-
-| 4.8 Avgift för att<br>återfå tappade<br>föremål i<br>behållare på<br>återvinningsstatio<br>n | Ny rubrik | Följande läggs till:<br>4.8 8 Avgift för att återfå tappade föremål i behållare på återvinningsstation<br>Övrig service kan innefatta åtgärder för att återfå värdeföremål som tappats i en<br>insamlingsbehållare. Efter överenskommelse om åtgärd tas avgift ut till<br>självkostnadspris för följande:<br>• transportera bort behållare och ställa ut en ersättningsbehållare<br>• tömma ut material från behållare, genomsöka och iordningställa.<br>• uttryckning under jourtid som görs av annan än kommunens egen<br>jourverksamhet |
-| --- | --- | --- |
-| 4.8 Särskilda<br>avgifter | Rubriken byter nummer till 4.9 |  |
 
 <!-- sida 43 -->
 
@@ -3671,24 +3691,105 @@ Delegeringsförteckning
 
 <!-- sida 94 -->
 
-[Tabell 94-1](handlingar.tabeller/94-1.csv)
+3.7 AB04        Verka som ombud under  FC          X      Den som verkar
+(Allmänna   anbudstid och enligt 3 kap § 1            som ombud ska
+Bestämmelser AB04/ABT06 /ABK09 i                      löpande informera
+för byggnads-, projektverksamheten                    FC om status för
+anläggnings-                                          uppdraget. Ombud
+och                                                   ska rapportera
+installations-                                        beslut tagna på
+entreprenader)                                        delegation under
+3kap§1                                                anbudstiden, och
+inte att denne
+ABT06
+agerar ombud.
+(Allmänna
+Bestämmelser
+för total-
+entreprenader
+för byggnads-,
+anläggnings-
+och
+installations-
+entreprenader)
+3kap§1
+ABK09
+(Allmänna
+Bestämmelser
+för
+konsultuppdrag
+inom arkitekt-
+och
+ingenjörsverksa
+m het av år
+2009\) 3kap§1
 
-| 3.7 | AB04<br>(Allmänna<br>Bestämmelser<br>för byggnads-,<br>anläggnings-<br>och<br>installations-<br>entreprenader)<br>3kap§1<br>ABT06<br>(Allmänna<br>Bestämmelser<br>för total-<br>entreprenader<br>för byggnads-,<br>anläggnings-<br>och<br>installations-<br>entreprenader)<br>3kap§1<br>ABK09<br>(Allmänna<br>Bestämmelser<br>för<br>konsultuppdrag<br>inom arkitekt-<br>och<br>ingenjörsverksa<br>m het av år<br>2009) 3kap§1 | Verka som ombud under<br>anbudstid och enligt 3 kap § 1<br>AB04/ABT06 /ABK09 i<br>projektverksamheten | FC | X | Den som verkar<br>som ombud ska<br>löpande informera<br>FC om status för<br>uppdraget. Ombud<br>ska rapportera<br>beslut tagna på<br>delegation under<br>anbudstiden, och<br>inte att denne<br>agerar ombud. |
-| --- | --- | --- | --- | --- | --- |
-| 3.8 |  | Besluta om förvaltningens<br>interna organisation | FC |  |  |
-| 3.9 | Dataskydds<br>-<br>förordninge<br>n artikel 37 | Utse dataskyddsombud för<br>nämnden | FC |  |  |
-| 3.10 | Dataskydds<br>-<br>förordninge<br>n artikel<br>12.5 | Besluta om att helt eller<br>delvis avslå framställan om<br>begäran av utövande av<br>registrerads rättigheter | FC | X |  |
+3.8             Besluta om förvaltningens FC
+interna organisation
+3.9  Dataskydds Utse dataskyddsombud för FC
+\-          nämnden
+förordninge
+n artikel 37
+3.10 Dataskydds Besluta om att helt eller FC       X
+\-           delvis avslå framställan om
+begäran av utövande av
+förordninge
+registrerads rättigheter
+n artikel
+12.5
 
 <!-- sida 95 -->
 
-[Tabell 95-1](handlingar.tabeller/95-1.csv)
+3.11  Dataskydds- Teckna avtal om       FC                Skriftligt person-
+förordningen personuppgiftsbiträdesavtal            uppgiftsbiträdesavta
+artikel 28 behandling av personuppgifter            l ska tecknas i de
+för den                                   fall någon annan
+personuppgiftsansvariges                  aktör behandlar
+räkning                                   personuppgifter för
+den personuppgifts-
+ansvarige nämndens
+räkning.
+3.11.1 Dataskyddsförord Ingå personuppgiftsbiträdesavtal Bitr. Avser
+ningen, artikel 28 för kommungemensamma digitala Kommun- kommungemensam
+tjänster och system.  direktör             ma tjänster och
+Hantering av                                         system som används
+personuppgifter –                                    av kommunens
+Riktlinjer,                                          samtliga nämnder.
+Kommunfullmäkt                                       Kommungemensam
+ige 2024-03-05 §                                     ma tjänster och
+33                                                   system som stödjer
+kommungemensam
+ma stödprocesser
+som utförs av
+Service eller
+kommunstyrelsen
+enligt deras
+reglementen
+omfattas inte.
+3.11.2 Dataskyddsförord Ge fullmakt att underteckna FC     Fullmakt får ges till
+ningen, artikel 28 personuppgiftsbiträdesavtal för   tjänsteman som ska
+digital tjänst eller system som           vara systemägare för
+Hantering av ska användas gemensamt med             tjänsten eller
+personuppgifter en eller flera andra nämnder.       systemet.
+– Riktlinjer,
+Kommunfullmä
+ktige 2024-03-
+05 § 33
+3.12 Dataskydds- Hantera                FC         X      Utreda samt vid
+förordningen personuppgiftsincidenter                behov anmäla till
+artikel 33 och                                       tillsynsmyndigheten
+34                                                   och informera de
+registrerade
 
-| 3.11 | Dataskydds-<br>förordningen<br>artikel 28 | Teckna avtal om<br>personuppgiftsbiträdesavtal<br>behandling av personuppgifter<br>för den<br>personuppgiftsansvariges<br>räkning | FC |  | Skriftligt person-<br>uppgiftsbiträdesavta<br>l ska tecknas i de<br>fall någon annan<br>aktör behandlar<br>personuppgifter för<br>den personuppgifts-<br>ansvarige nämndens<br>räkning. |
-| --- | --- | --- | --- | --- | --- |
-| 3.11.1 | Dataskyddsförord<br>ningen, artikel 28<br>Hantering av<br>personuppgifter –<br>Riktlinjer,<br>Kommunfullmäkt<br>ige 2024-03-05 §<br>33 | Ingå personuppgiftsbiträdesavtal<br>för kommungemensamma digitala<br>tjänster och system. | Bitr.<br>Kommun-<br>direktör |  | Avser<br>kommungemensam<br>ma tjänster och<br>system som används<br>av kommunens<br>samtliga nämnder.<br>Kommungemensam<br>ma tjänster och<br>system som stödjer<br>kommungemensam<br>ma stödprocesser<br>som utförs av<br>Service eller<br>kommunstyrelsen<br>enligt deras<br>reglementen<br>omfattas inte. |
-| 3.11.2 | Dataskyddsförord<br>ningen, artikel 28<br>Hantering av<br>personuppgifter<br>– Riktlinjer,<br>Kommunfullmä<br>ktige 2024-03-<br>05 § 33 | Ge fullmakt att underteckna<br>personuppgiftsbiträdesavtal för<br>digital tjänst eller system som<br>ska användas gemensamt med<br>en eller flera andra nämnder. | FC |  | Fullmakt får ges till<br>tjänsteman som ska<br>vara systemägare för<br>tjänsten eller<br>systemet. |
-| 3.12 | Dataskydds-<br>förordningen<br>artikel 33 och<br>34 | Hantera<br>personuppgiftsincidenter | FC | X | Utreda samt vid<br>behov anmäla till<br>tillsynsmyndigheten<br>och informera de<br>registrerade |
-| 3.13 | Dataskydds<br>-<br>förordnin<br>ge n<br>artikel 35-<br>36 | Beslut att godkänna<br>konsekvensbedömning vid<br>viss personuppgifts-<br>behandling | FC | X | Dataskyddskontakt<br>upprättar<br>konsekvens-<br>bedömning som<br>ligger till grund för<br>beslut. Vid behov<br>samråda med<br>tillsyns-<br>myndigheten |
+3.13 Dataskydds Beslut att godkänna     FC         X      Dataskyddskontakt
+\-          konsekvensbedömning vid                   upprättar
+förordnin  viss personuppgifts-                      konsekvens-
+ge    n    behandling                                bedömning som
+artikel 35-                                          ligger till grund för
+36                                                   beslut. Vid behov
+samråda med
+tillsyns-
+myndigheten
 
 <!-- sida 96 -->
 
@@ -3732,29 +3833,112 @@ Delegeringsförteckning
 
 <!-- sida 99 -->
 
-[Tabell 99-1](handlingar.tabeller/99-1.csv)
+4.8  13 kap. 3 § trafik- Beslut till transportör och FC X Fordonsdispenser
+förordningen yttrande till Trafikverket om
+(1998:1276) undantag från bestämmelserna
+om största tillåtna
+4 kap. 12 §, 15 §
+fordonsbredd, -längd och -vikt
+17 § trafik-
+förordningen
+4.9              Teckna samrådsförfarande FC        X
+med Trafikverkets i ärenden
+om
+transportdispenser
+4.10 10 kap. 14 § Beslut om föreskrifter vid FC     X
+trafik-     vägarbete eller liknande arbete
+förordningen samt under kortare tid vid
+(1998:1276) skada eller risk för skada på
+väg
+4.11 2 § lagen om Beslut om flyttning av fordon FC  X
+flyttning av
+fordon i vissa fall
+och 2 §
+förordningen om
+flyttning av
+fordon i vissa fall
+4.12 Tillämpnings- Beslut om bidrag för lekplats, FC X
+regler för bidrag enskild väghållning, särskilt Automatiserad
+till enskild vägbidrag och vägbelysning beslutsfunktion
+väghållning i enligt av fullmäktige
+Kungsbacka  fastställda villkor
+kommun 2011-
+05-18
+4.13 5 § lag     Beslut om felparkeringsavgift FC   X
+(1976:206) om samt kontrollavgift vid olovlig
+felparkerings- parkering
+avgift och
+1 § lag
+(1984:318) om
+kontrollavgift vid
+olovlig parkering
 
-| 4.8 | 13 kap. 3 § trafik-<br>förordningen<br>(1998:1276)<br>4 kap. 12 §, 15 §<br>17 § trafik-<br>förordningen | Beslut till transportör och<br>yttrande till Trafikverket om<br>undantag från bestämmelserna<br>om största tillåtna<br>fordonsbredd, -längd och -vikt | FC | X | Fordonsdispenser |
-| --- | --- | --- | --- | --- | --- |
-| 4.9 |  | Teckna samrådsförfarande<br>med Trafikverkets i ärenden<br>om<br>transportdispenser | FC | X |  |
-| 4.10 | 10 kap. 14 §<br>trafik-<br>förordningen<br>(1998:1276) | Beslut om föreskrifter vid<br>vägarbete eller liknande arbete<br>samt under kortare tid vid<br>skada eller risk för skada på<br>väg | FC | X |  |
-| 4.11 | 2 § lagen om<br>flyttning av<br>fordon i vissa fall<br>och 2 §<br>förordningen om<br>flyttning av<br>fordon i vissa fall | Beslut om flyttning av fordon | FC | X |  |
-| 4.12 | Tillämpnings-<br>regler för bidrag<br>till enskild<br>väghållning i<br>Kungsbacka<br>kommun 2011-<br>05-18 | Beslut om bidrag för lekplats,<br>enskild väghållning, särskilt<br>vägbidrag och vägbelysning<br>enligt av fullmäktige<br>fastställda villkor | FC<br>Automatiserad<br>beslutsfunktion | X |  |
-| 4.13 | 5 § lag<br>(1976:206) om<br>felparkerings-<br>avgift och<br>1 § lag<br>(1984:318) om<br>kontrollavgift vid<br>olovlig parkering | Beslut om felparkeringsavgift<br>samt kontrollavgift vid olovlig<br>parkering | FC | X |  |
-| 4.14 | Vägmärkesförord<br>ningen SFS<br>2007:90<br>AFS 1999:3 49 §<br>81 § (a-e)<br>Ordningslagen 3<br>kap. 4 §<br>Plan och<br>Bygglagen 6 Kap.<br>21 | Beslut om tillstånd att schakta<br>i gator och vägar för vilka<br>kommunen är huvudman och<br>vid behov kräva säkerhet för<br>beräknade kostnader för<br>återställande av kommunens<br>anläggningar | FC | X |  |
+4.14 Vägmärkesförord Beslut om tillstånd att schakta FC X
+ningen SFS  i gator och vägar för vilka
+kommunen är huvudman och
+2007:90
+vid behov kräva säkerhet för
+AFS 1999:3 49 § beräknade kostnader för
+81 § (a-e)  återställande av kommunens
+anläggningar
+Ordningslagen 3
+kap. 4 §
+Plan och
+Bygglagen 6 Kap.
+21
 
 <!-- sida 100 -->
 
-[Tabell 100-1](handlingar.tabeller/100-1.csv)
+4.14.1 Vägmärkesförord Beslut om priser för FC            Beslut om nya
+ningen SFS  öppningstillstånd respektive             avgifter ska årligen
+2007:90     TA-plan.                                 rapporteras till
+Nämnden för
+AFS 1999:3 49 §
+Tekniks
+81 § (a-e)
+arbetsutskott
+Ordningslagen 3
+kap. 4 §
+Plan och
+Bygglagen 6 Kap.
+21
+4.15 Vägmärkesförord Godkännande av     FC         X
+ningen SFS  trafikanordningsplan
+2007:90
+AFS 1999:3 49 §
+81 § (a-e)
+Ordningslagen 3
+kap. 4 §
+4.16 13 kap. och 8 § Beslut om parkeringstillstånd FC X
+trafik-     för rörelsehindrade
+förordningen
+(1998:1276)
 
-| 4.14.1 | Vägmärkesförord<br>ningen SFS<br>2007:90<br>AFS 1999:3 49 §<br>81 § (a-e)<br>Ordningslagen 3<br>kap. 4 §<br>Plan och<br>Bygglagen 6 Kap.<br>21 | Beslut om priser för<br>öppningstillstånd respektive<br>TA-plan. | FC |  | Beslut om nya<br>avgifter ska årligen<br>rapporteras till<br>Nämnden för<br>Tekniks<br>arbetsutskott |
-| --- | --- | --- | --- | --- | --- |
-| 4.15 | Vägmärkesförord<br>ningen SFS<br>2007:90<br>AFS 1999:3 49 §<br>81 § (a-e)<br>Ordningslagen 3<br>kap. 4 § | Godkännande av<br>trafikanordningsplan | FC | X |  |
-| 4.16 | 13 kap. och 8 §<br>trafik-<br>förordningen<br>(1998:1276) | Beslut om parkeringstillstånd<br>för rörelsehindrade | FC | X |  |
-| 4.17 | Ordningslagen<br>(1993:1617) 2<br>kap | Yttrande till polisen avseende<br>begagnade av offentlig plats | FC | X |  |
-| 4.18 | Ordningslagen<br>(1993:1617) 2<br>kap | Tecknande av avtal som rör<br>begagnade av offentlig plats | FC | X |  |
-| 4.19 | Riktlinjer för<br>stadsodling i<br>Kungsbacka | Teckna skötselavtal för odling<br>på allmän plats med förening<br>eller organisation | FC |  |  |
-| 4.20 |  | Avsteg från torgstadgan för att<br>möjliggöra försäljning under<br>längre period | FC | X | Nämnden för<br>Teknik har på<br>delegation att<br>besluta om avsteg<br>från torgstadgan<br>för att möjliggöra<br>försäljning under<br>längre perioder, i<br>de fall där<br>avetablering av<br>försäljningsutrustni<br>ng är olämplig<br>varje kväll. |
+4.17 Ordningslagen Yttrande till polisen avseende FC X
+(1993:1617) 2 begagnade av offentlig plats
+kap
+4.18 Ordningslagen Tecknande av avtal som rör FC   X
+
+(1993:1617) 2 begagnade av offentlig plats
+kap
+4.19 Riktlinjer för Teckna skötselavtal för odling FC
+stadsodling i på allmän plats med förening
+eller organisation
+Kungsbacka
+4.20             Avsteg från torgstadgan för att FC X     Nämnden för
+möjliggöra försäljning under             Teknik har på
+längre period                            delegation att
+besluta om avsteg
+från torgstadgan
+för att möjliggöra
+försäljning under
+längre perioder, i
+
+de fall där
+avetablering av
+försäljningsutrustni
+ng är olämplig
+varje kväll.
 
 <!-- sida 101 -->
 
@@ -3802,7 +3986,7 @@ Delegeringsförteckning
 
 8 Avfall & Återvinning
 
-[Tabell 104-1](handlingar.tabeller/104-1.csv)
+[Tabell 104-105-1](handlingar.tabeller/104-105-1.csv)
 
 | Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidaredelegera | Anmärkning |
 | --- | --- | --- | --- | --- | --- |
@@ -3814,28 +3998,63 @@ Delegeringsförteckning
 | 8.6 | 43, 43a §§ Lokala<br>avfallsföreskrifter<br>för Kungsbacka<br>kommun | Besluta om tillfälligt<br>i sophämtning | FC | X |  |
 | 8.7 | 43b § Lokala<br>avfallsföreskrifter<br>för Kungsbacka<br>kommun | Besluta om inställd hämtning<br>av avfall från fastighetens<br>avloppsanläggning | FC | X |  |
 | 8.8 | 43c § Lokala<br>avfallsföreskrifter<br>för Kungsbacka<br>kommun | Besluta om uppehåll i<br>slamtömning inklusive<br>eventuella filteranläggningar | FC | X |  |
-
-<!-- sida 105 -->
-
-[Tabell 105-1](handlingar.tabeller/105-1.csv)
-
 | 8.9 | 43d § Lokala<br>avfallsföreskrifter<br>för Kungsbacka<br>kommun | Besluta om uppehåll i<br>tömning av fettavskiljare för<br>fettavskiljare på fastigheter<br>med anslutning till det<br>kommunala ledningsnätet | FC | X |  |
-| --- | --- | --- | --- | --- | --- |
 | 8.10 |  | Besluta i ärenden om<br>tillämpning av taxa och lokal<br>renhållningsordning i delar<br>som rör nämndens<br>verksamhetsområde | FC | X |  |
 | 8.11 | 47 § Lokala<br>avfallsföreskrifter<br>för Kungsbacka<br>kommun | Beslut om att frångå<br>avfallsföreskrifter på annat<br>sätt än i undantagsfallen 35-<br>46 §§ | FC | X |  |
+
+<!-- sida 105 -->
 
 <!-- sida 106 -->
 
 9 Ekonomi
 
-[Tabell 106-1](handlingar.tabeller/106-1.csv)
+Med rätt
+Nr   Lagrum/stöd Delegeringens omfattning Delegerat till  Anmärkning
+att
+vidaredel
+egera
+9.1  Kommunens    Beslut om att inleda                    Beslutsrätten gäller
+tillämpnings- upphandling inom nämndens              inom budgetansvar
+föreskrifter för verksamhetsområde                   för respektive
+\- policy for                                         ansvarsområde och
+inköp        > 10 000 000 kr       AU                i enlighet med
+\- riktlinjer för < 10 000 000 kr   FC                gällande
+inköp        < 500 000 kr          FC            X   upphandlings-
+regler.
+Vid större
+upphandlingar som
+har långsiktig
+effekt, ska
+nämnden/utskottet
+informeras innan
+upphandling sker.
+9.1.1             Omfördelning av belopp inom av FC    X   Kommun-
+nämnden beslutade                        fullmäktiges beslut
+underportföljer                          om investerings-
+budget
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt<br>att<br>vidaredel<br>egera | Anmärkning |
-| --- | --- | --- | --- | --- | --- |
-| 9.1 | Kommunens<br>tillämpnings-<br>föreskrifter för<br>- policy for<br>inköp<br>- riktlinjer för<br>inköp | Beslut om att inleda<br>upphandling inom nämndens<br>verksamhetsområde<br>> 10 000 000 kr<br>< 10 000 000 kr<br>< 500 000 kr | AU<br>FC<br>FC | X | Beslutsrätten gäller<br>inom budgetansvar<br>för respektive<br>ansvarsområde och<br>i enlighet med<br>gällande<br>upphandlings-<br>regler.<br>Vid större<br>upphandlingar som<br>har långsiktig<br>effekt, ska<br>nämnden/utskottet<br>informeras innan<br>upphandling sker. |
-| 9.1.1 |  | Omfördelning av belopp inom av<br>nämnden beslutade<br>underportföljer | FC | X | Kommun-<br>fullmäktiges beslut<br>om investerings-<br>budget |
-| 9.1.2 |  | • Beslut att godkänna<br>tilldelning, gäller även<br>återta tilldelning<br>• Beslut att underteckna<br>avtal efter att avtalsspärren<br>löpt ut alternativt efter att<br>domstol avslagit ansökan<br>om överprövning<br>• Beslut att avbryta<br>upphandling, gäller även<br>återta avbrytande<br>• Beslut om ändring och<br>tillägg till avtal<br>• Beslut om uppsägning eller<br>hävning av avtal<br>< 500 000 kr | FC<br>FC | X |  |
-| 9.1.3 | Nämndens beslut<br>om nämndbudget<br>och Kungsbacka<br>styrmodell | Beslut om driftåtgärder enligt<br>budget och förvaltningsplan | FC | X |  |
+9.1.2            •  Beslut att godkänna    FC
+tilldelning, gäller även
+återta tilldelning
+•  Beslut att underteckna
+avtal efter att avtalsspärren
+löpt ut alternativt efter att
+domstol avslagit ansökan
+om överprövning
+•  Beslut att avbryta
+upphandling, gäller även
+återta avbrytande
+•  Beslut om ändring och
+tillägg till avtal
+•  Beslut om uppsägning eller
+hävning av avtal
+X
+FC
+< 500 000 kr
+9.1.3 Nämndens beslut Beslut om driftåtgärder enligt FC X
+om nämndbudget budget och förvaltningsplan
+och Kungsbacka
+styrmodell
 
 <!-- sida 107 -->
 
@@ -3854,7 +4073,7 @@ Delegeringsförteckning
 
 10 Personal
 
-[Tabell 108-1](handlingar.tabeller/108-1.csv)
+[Tabell 108-109-1](handlingar.tabeller/108-109-1.csv)
 
 | Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidare-delegera | Anmärkning |
 | --- | --- | --- | --- | --- | --- |
@@ -3867,16 +4086,12 @@ Delegeringsförteckning
 | 10.2.3 | LAS § 18 | Avsked | FC | X | I samråd med HR på<br>förvaltningen och<br>förhandlingschef |
 | 10.2.4 | Gemensamt<br>reglemente för<br>kommunstyrelse<br>n och nämnder | Avsluta anställning enligt<br>särskild överenskommelse | FC | X | I samråd med HR-chef |
 | 10.3 | Övrigt |  |  |  |  |
-
-<!-- sida 109 -->
-
-[Tabell 109-1](handlingar.tabeller/109-1.csv)
-
 | 10.3.1 | AB §11 | Disciplinärende – Skriftlig<br>varning | FC | X | I samråd med HR på<br>förvaltningen |
-| --- | --- | --- | --- | --- | --- |
 | 10.3.2 | AB § 10 mom<br>1-3 | Avstängning | FC | X | I samråd med HR på<br>förvaltningen |
 | 10.3.3 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla | FC | X | I samråd med HR på<br>förvaltningen i enlighet<br>med ”Regler för bisyssla<br>i Kungsbacka kommun) |
 | 10.3.4 | Nämndens<br>budget, Regler<br>och riktlinjer för<br>förmåner till<br>förtroendevalda | Besluta om kurser, konferenser<br>och dylikt för förtroendevalda<br>högst 1 dag | OF<br>För beslut<br>som avser<br>ordförande<br>beslutar vice<br>ordförande |  | Rätt till arvode för<br>deltagande på aktivitet<br>regleras i Regler och<br>riktlinjer för förmåner<br>till förtroendevalda<br>(antaget 2018-12-13 §<br>260 avsnitt 4.2 och 5.1) |
+
+<!-- sida 109 -->
 
 <!-- sida 110 -->
 
@@ -5087,13 +5302,17 @@ Aktuellt forum för respektive digital tjänst eller system framgår i tabellen 
 nedan rekommenderas det att forumet genomförs med undantag för Avtalsuppföljning där Ja innebär att det
 är obligatoriskt.
 
-[Tabell 139-1](handlingar.tabeller/139-1.csv)
+[Tabell 139-140-1](handlingar.tabeller/139-140-1.csv)
 
 | Utvecklingsråd Användarforum Avstämningsmöte Leverantörsmöte Avtalsuppföljning Systemförvaltarforum |  |
 | --- | --- |
 | Publik tjänst | Nej Nej Vid behov Nej Nej Nej |
 | Myndighets-<br>tjänst | Nej Nej Vid behov Ja Nej Nej |
 | Kommersiella<br>tjänster | Nej Nej Vid behov Vid behov Nej Nej |
+| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
+| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
+| Plattform | Ja Ja Ja Ja Ja Ja |
+| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
 
 <!-- sida 140 -->
 
@@ -5142,14 +5361,6 @@ Förslag på agenda:
 •  Dialog om rutiner och arbetet med digital tjänst och system
 
 •  Erfarenhetsutbyte
-
-[Tabell 140-1](handlingar.tabeller/140-1.csv)
-
-| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
-| --- | --- |
-| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
-| Plattform | Ja Ja Ja Ja Ja Ja |
-| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
 
 <!-- sida 141 -->
 
@@ -8939,7 +9150,7 @@ Datum
 Sida
 1(4)
 
-[Tabell 226-1](handlingar.tabeller/226-1.csv)
+[Tabell 226-229-1](handlingar.tabeller/226-229-1.csv)
 
 | Datum | Avsändare/Mottagare | Beskrivning | Diarienummer |
 | --- | --- | --- | --- |
@@ -8965,16 +9176,6 @@ Sida
 | 2024-08-01 | Förvaltningen för teknik | Yttrande Teknik - Placering av transformatorstationen, ÖLMEVALLA-BERG 2:10, BN 2024-000901 | TE-2024-00510 |
 | 2024-07-31 |  | Yttrande Teknik Transportdispens, TRV 2024/72982 | TE-2024-00764 |
 | 2024-07-29 | Förvaltningen för Teknik | Yttrande Teknik - Hantverksmarknad, Torget i Fjärås | TE-2024-00760 |
-
-<!-- sida 227 -->
-
-Sida
-2(4)
-
-[Tabell 227-1](handlingar.tabeller/227-1.csv)
-
-| Datum | Avsändare/Mottagare | Beskrivning | Diarienummer |
-| --- | --- | --- | --- |
 | 2024-07-25 | Bygg- och<br>miljöförvaltningen | Yttrande Teknik - Placering av transformatorstation, Nötegång 1:115, BN 2024-001258 | TE-2024-00730 |
 | 2024-07-24 | Förvaltningen för Teknik | Yttrande Teknik - Container Aranäsgymnasiet, A404.520/2024 | TE-2024-00758 |
 | 2024-07-24 | Förvaltningen för Teknik | Yttrande Teknik - Sammankomst, Marknadsplatsen | TE-2024-00755 |
@@ -9001,16 +9202,6 @@ Sida
 | 2024-07-08 | Förvaltningen för Teknik | Yttrande Teknik - Enskild avloppsanläggning, Fälared 1:6, MH-2024-2163 | TE-2024-00618 |
 | 2024-07-05 | Förvaltningen för Teknik | Yttrande Teknik - Vändplats för sopbil & slambil för enskilt avlopp, Långenäs 1:16, BN 2024-001045 | TE-2024-00716 |
 | 2024-07-05 | Förvaltningen för Teknik | Yttrande Teknik - VA-anslutning och sophämtning, Frillesås-Rya 4:169, BN 2024-001280 | TE-2024-00694 |
-
-<!-- sida 228 -->
-
-Sida
-3(4)
-
-[Tabell 228-1](handlingar.tabeller/228-1.csv)
-
-| Datum | Avsändare/Mottagare | Beskrivning | Diarienummer |
-| --- | --- | --- | --- |
 | 2024-07-05 | Förvaltningen för Teknik | Yttrande Teknik - VA-anslutning och sophämtning, Håfors 4:4, BN 2024-001055 | TE-2024-00692 |
 | 2024-07-05 | Förvaltningen för Teknik | Yttrande Teknik - VA-anslutning och sophämtning, Håfors 4:5, BN 2024-000525 | TE-2024-00691 |
 | 2024-07-05 | Förvaltningen för Teknik | Yttrande Teknik - Placering av sopkärl och vändplats för sopbil, Må 3:176, 3:177, 3:178 m fl, BN<br>2024-001169, BN 2024-001170, BN 2024-001172 m fl | TE-2024-00684 |
@@ -9039,16 +9230,6 @@ Sida
 | 2024-06-12 | Förvaltningen för Teknik | Yttrande Teknik - Enskild avloppsanläggning, ÖXARED 2:9 MH-2024-2785 | TE-2024-00590 |
 | 2024-06-11 |  | Yttrande Teknik - Anmäla installation av fettavskiljare, 135696 - KUNGSBACKA BOLSHEDEN 1_4 | TE-2024-00548 |
 | 2024-06-11 | Förvaltningen för Teknik | Yttrande Teknik - GRANSKNING Detaljplan för hotell inom Särö 1:441 m fl, Säröhus | TE-2024-00523 |
-
-<!-- sida 229 -->
-
-Sida
-4(4)
-
-[Tabell 229-1](handlingar.tabeller/229-1.csv)
-
-| Datum | Avsändare/Mottagare | Beskrivning | Diarienummer |
-| --- | --- | --- | --- |
 | 2024-06-11 | Förvaltningen för Teknik | Yttrande Teknik - angående vägbredd och vändplats för sopbil, samt möjlighet till VA-anslutning, BN<br>2024-000138 - SLÄPS-KULLEN 2:71 | TE-2024-00557 |
 | 2024-06-11 | Förvaltningen för Teknik | Yttrande Teknik - angående vändplats för sopbil samt kapacitet på VA-ledning, BN 2024-000633 -<br>HJÄLMARED 6:9 | TE-2024-00559 |
 | 2024-06-10 | Förvaltningen för Teknik | Yttrande Teknik - Uppställning av tält för marknadsföring, A276.934/2024 | TE-2024-00582 |
@@ -9062,6 +9243,21 @@ Sida
 | 2024-06-03 | Förvaltningen för Teknik | Yttrande Teknik - Basketevenemang på Kungsbacka torg | TE-2024-00500 |
 | 2024-06-03 | Förvaltningen för Teknik | Yttrande Teknik - Placering av skylt, Hede 4:15, BN 2024-000926 | TE-2024-00515 |
 
+<!-- sida 227 -->
+
+Sida
+2(4)
+
+<!-- sida 228 -->
+
+Sida
+3(4)
+
+<!-- sida 229 -->
+
+Sida
+4(4)
+
 <!-- sida 230 -->
 
 Datum
@@ -9074,6 +9270,39 @@ Delegeringsbeslut Teknik
 
 Delegeringsbeslut under juni, juli och augusti, rapportering i september
 
+Punkt i
+delegeringsord          Ansvarig  Delegeringens Taget beslut och datum för
+ning       Lagrum       Delegat   omfattning    beslutet
+Tecknade                FC        3.18 - Sluta avtal Tecknat avtal om:
+avtal                             inom nämndens
+\- VA-genomförandeavtal. Avtal för
+3.18 / 9.6                        verksamhetsområde i
+genomförande av allmänna Va-
+sådana fall som inte
+är uppräknande i anläggningar. Detaljplan för
+denna         bostäder och utbildningslokaler
+delegeringsförtecknin inom del av Tölö 6:4 m fl i
+g.
+Kungsbacka
+9.6 - Sluta
+ekonomiskt avtal - Datum:2024-06-26
+inom nämndens - Diarienummer: AVTAL-2024-
+verksamhetsområde i 00143
+sådana fall som inte
+är uppräknande i
+denna
+delegeringsförtecknin
+g upp till tio
+prisbasbelopp.
+3.1                     Nämndsekret Rätt att skriva under 2 delgivningskvitton underskrivna.
+erare     delgivningskvitto
+TE-2024-00896
+ställt till nämnden
+\- Länsstyrelsens beslut 2024-06-19
+med dnr 3570-2023
+\- Länsstyrelsens beslut 2024-08-19
+med dnr 4594-2024
+
 Kungsbacka kommun
 434 81 Kungsbacka
 Besöksadress
@@ -9081,28 +9310,52 @@ Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-[Tabell 230-1](handlingar.tabeller/230-1.csv)
-
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för<br>beslutet |
-| --- | --- | --- | --- | --- |
-| Tecknade<br>avtal<br>3.18 / 9.6 |  | FC | 3.18 - Sluta avtal<br>inom nämndens<br>verksamhetsområde i<br>sådana fall som inte<br>är uppräknande i<br>denna<br>delegeringsförtecknin<br>g.<br>9.6 - Sluta<br>ekonomiskt avtal<br>inom nämndens<br>verksamhetsområde i<br>sådana fall som inte<br>är uppräknande i<br>denna<br>delegeringsförtecknin<br>g upp till tio<br>prisbasbelopp. | Tecknat avtal om:<br>- VA-genomförandeavtal. Avtal för<br>genomförande av allmänna Va-<br>anläggningar. Detaljplan för<br>bostäder och utbildningslokaler<br>inom del av Tölö 6:4 m fl i<br>Kungsbacka<br>- Datum:2024-06-26<br>- Diarienummer: AVTAL-2024-<br>00143 |
-| 3.1 |  | Nämndsekret<br>erare | Rätt att skriva under<br>delgivningskvitto<br>ställt till nämnden | 2 delgivningskvitton underskrivna.<br>TE-2024-00896<br>- Länsstyrelsens beslut 2024-06-19<br>med dnr 3570-2023<br>- Länsstyrelsens beslut 2024-08-19<br>med dnr 4594-2024 |
-
 <!-- sida 231 -->
 
 KUNGSBACKA KOMMUN                                           2 (7)
 
+Punkt i
+delegeringsord          Ansvarig  Delegeringens Taget beslut och datum för
+ning       Lagrum       Delegat   omfattning    beslutet
+3.12       Dataskyddsförordn Dataskydds- Hantera 2 hanterade
+ingen artikel 33 kontakt, personuppgiftsincide personuppgiftsincident, i ärende:
+och 34       Systemförvalt nter
+TE-2024-00858 Utredning av
+are för
+personuppgiftsincident, SMS
+aktuellt
+system                  TE-2024-00799 Utredning av
+personuppgiftsincident, Websolen
+3.13       Dataskydds - FC VC     Beslut att godkänna 1 godkänd konsekvensbedömning:
+förordningen           konsekvensbedömnin
+TE-2024-00829
+artikel 35-36          g vid viss
+Konsekvensbedömning,
+personuppgiftsbehan
+kameraövervakning cykelgarage
+dling
+3.13.1     Dataskyddsförordn Dataskydds- Fastställa register Beslut om register över
+ingen artikel 30 kontakt över        personuppgiftsbehandlingar
+personuppgiftsbehan daterad 2024-06-20
+dlingar
+4.3.1                   VC Trafik & Upphävanden av 1 st beslut om upphävande av
+Utemiljö  inaktuella    lokala trafikföreskrifter
+EC Planering trafikföreskrifter 1384 2024-
+& Utformning               00112   Södra Nygatan
+EC Anläggning
+& Utveckling
+Trafikingenjör
+Samordnare
+4.4        10 kap.      VC Trafik & Beslut om tillfälliga 22 st beslut om tillfälliga
+trafikförordningen Utemiljö trafikföreskrifter trafikföreskrifter angående
+(1998:1276)  EC Planering
+& Utformning
+EC Anläggning
+& Utveckling
+Trafikingenjör
+Samordnare
+
 [Tabell 231-1](handlingar.tabeller/231-1.csv)
-
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för<br>beslutet |
-| --- | --- | --- | --- | --- |
-| 3.12 | Dataskyddsförordn<br>ingen artikel 33<br>och 34 | Dataskydds-<br>kontakt,<br>Systemförvalt<br>are för<br>aktuellt<br>system | Hantera<br>personuppgiftsincide<br>nter | 2 hanterade<br>personuppgiftsincident, i ärende:<br>TE-2024-00858 Utredning av<br>personuppgiftsincident, SMS<br>TE-2024-00799 Utredning av<br>personuppgiftsincident, Websolen |
-| 3.13 | Dataskydds -<br>förordningen<br>artikel 35-36 | FC VC | Beslut att godkänna<br>konsekvensbedömnin<br>g vid viss<br>personuppgiftsbehan<br>dling | 1 godkänd konsekvensbedömning:<br>TE-2024-00829<br>Konsekvensbedömning,<br>kameraövervakning cykelgarage |
-| 3.13.1 | Dataskyddsförordn<br>ingen artikel 30 | Dataskydds-<br>kontakt | Fastställa register<br>över<br>personuppgiftsbehan<br>dlingar | Beslut om register över<br>personuppgiftsbehandlingar<br>daterad 2024-06-20 |
-| 4.3.1 |  | VC Trafik &<br>Utemiljö<br>EC Planering<br>& Utformning<br>EC Anläggning<br>& Utveckling<br>Trafikingenjör<br>Samordnare | Upphävanden av<br>inaktuella<br>trafikföreskrifter | 1 st beslut om upphävande av<br>lokala trafikföreskrifter<br>1384 2024-<br>00112 Södra Nygatan |
-| 4.4 | 10 kap.<br>trafikförordningen<br>(1998:1276) | VC Trafik &<br>Utemiljö<br>EC Planering<br>& Utformning<br>EC Anläggning<br>& Utveckling<br>Trafikingenjör<br>Samordnare | Beslut om tillfälliga<br>trafikföreskrifter | 22 st beslut om tillfälliga<br>trafikföreskrifter angående<br>1384 2024-<br>00088 Aranäs allé<br>1384 2024-<br>00089 Kungsbacka torg<br>1384 2024- Badhusparksparkeri<br>00090 ngen<br>1384 2024-<br>00091 Kungbacka torg<br>1384 2024-<br>00098 Nygatan<br>1384 2024-<br>00099 Lindens gata<br>1384 2024-<br>00100 Södra Nygatan |
-
-[Tabell 231-2](handlingar.tabeller/231-2.csv)
 
 | 1384 2024-<br>00088 | Aranäs allé |
 | --- | --- |
@@ -9143,47 +9396,163 @@ KUNGSBACKA KOMMUN                                           3 (7)
 
 KUNGSBACKA KOMMUN                                           4 (7)
 
-[Tabell 233-1](handlingar.tabeller/233-1.csv)
+Punkt i
+delegeringsord          Ansvarig  Delegeringens Taget beslut och datum för
+ning       Lagrum       Delegat   omfattning    beslutet
+EC Planering            Juli: 5 st
+& Utformning            Augusti: 7 st
+EC Anläggning
+& Utveckling
+Trafikingenjör
+Samordnare
+4.8        13 kap. 3 §  VC Trafik & Beslut till transportör 4 beslut till transportör om
+trafikförordningen Utemiljö och yttrande till undantag från bestämmelserna om
+(1998:1276) 4 kap. EC Planering Trafikverket om största tillåtna fordonsbredd, -
+12 §, 15 § 17 § & Utformning undantag från längd och -vikt
+trafikförordningen EC Anläggning bestämmelserna om 9 yttrande till Trafikverket om
+& Utveckling största tillåtna undantag från bestämmelserna om
+Trafikingenjör fordonsbredd, -längd största tillåtna fordonsbredd, -
+Samordnare och -vikt    längd och -vikt
 
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för<br>beslutet |
-| --- | --- | --- | --- | --- |
-|  |  | EC Planering<br>& Utformning<br>EC Anläggning<br>& Utveckling<br>Trafikingenjör<br>Samordnare |  | Juli: 5 st<br>Augusti: 7 st |
-| 4.8 | 13 kap. 3 §<br>trafikförordningen<br>(1998:1276) 4 kap.<br>12 §, 15 § 17 §<br>trafikförordningen | VC Trafik &<br>Utemiljö<br>EC Planering<br>& Utformning<br>EC Anläggning<br>& Utveckling<br>Trafikingenjör<br>Samordnare | Beslut till transportör<br>och yttrande till<br>Trafikverket om<br>undantag från<br>bestämmelserna om<br>största tillåtna<br>fordonsbredd, -längd<br>och -vikt | 4 beslut till transportör om<br>undantag från bestämmelserna om<br>största tillåtna fordonsbredd, -<br>längd och -vikt<br>9 yttrande till Trafikverket om<br>undantag från bestämmelserna om<br>största tillåtna fordonsbredd, -<br>längd och -vikt |
-| 4.10 | 10 kap. 14 §<br>trafikförordningen<br>(1998:1276) | VC Trafik &<br>Utemiljö<br>EC Planering<br>& Utformning<br>EC Anläggning<br>& Utveckling<br>Trafikingenjör<br>Samordnare<br>Vägtekniker | Beslut om föreskrifter<br>vid vägarbete eller<br>liknande arbete samt<br>under kortare tid vid<br>skada eller risk för<br>skada på väg | 1st beslut om föreskrifter vid<br>vägarbete eller liknande arbete<br>samt under kortare tid vid skada<br>eller risk för skada på väg<br>1384 2024-<br>00108 Gnejsvägen |
-| 4.11 | 2 § lagen om<br>flyttning av fordon<br>i vissa fall och 2 §<br>förordningen om<br>flyttning av fordon<br>i vissa fall | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Planering<br>& Utformning<br>EC Anläggning<br>& Utveckling<br>Arbetsledare,<br>Trafik-<br>samordnare<br>Trafikövervak<br>are | Beslut om flyttning av<br>fordon | 3 beslut om flyttning av fordon<br>240712 - XET 319<br>240723 - BV51JOY<br>240730 - SWJ 089 |
-| 4.13 | 5 § lag (1976:206)<br>om<br>felparkeringsavgift<br>och 1 § lag<br>(1984:318) om<br>kontrollavgift vid<br>olovlig parkering | Trafikövervak<br>are | Beslut om<br>felparkeringsavgift<br>samt kontrollavgift<br>vid olovlig parkering | Felparkeringsavgifter (gatumark):<br>Maj: 563 st<br>Juni: 275 st<br>Juli: 491 st<br>Augusti: 537 st |
+4.10       10 kap. 14 § VC Trafik & Beslut om föreskrifter 1st beslut om föreskrifter vid
+trafikförordningen Utemiljö vid vägarbete eller vägarbete eller liknande arbete
+(1998:1276)  EC Planering liknande arbete samt samt under kortare tid vid skada
+& Utformning under kortare tid vid eller risk för skada på väg
+EC Anläggning skada eller risk för 1384 2024-
+& Utveckling skada på väg  00108    Gnejsvägen
+Trafikingenjör
+Samordnare
+Vägtekniker
+4.11       2 § lagen om VC Trafik & Beslut om flyttning av 3 beslut om flyttning av fordon
+flyttning av fordon Utemiljö fordon  240712 - XET 319
+i vissa fall och 2 § EC drift Gata   240723 - BV51JOY
+förordningen om EC Planering         240730 - SWJ 089
+flyttning av fordon & Utformning
+i vissa fall EC Anläggning
+& Utveckling
+Arbetsledare,
+Trafik-
+samordnare
+Trafikövervak
+are
+
+4.13       5 § lag (1976:206) Trafikövervak Beslut om Felparkeringsavgifter (gatumark):
+om           are       felparkeringsavgift Maj: 563 st
+felparkeringsavgift
+samt kontrollavgift Juni: 275 st
+och 1 § lag
+vid olovlig parkering Juli: 491 st
+(1984:318) om
+Augusti: 537 st
+kontrollavgift vid
+olovlig parkering
 
 <!-- sida 234 -->
 
 KUNGSBACKA KOMMUN                                           5 (7)
 
-[Tabell 234-1](handlingar.tabeller/234-1.csv)
+Punkt i
+delegeringsord          Ansvarig  Delegeringens Taget beslut och datum för
+ning       Lagrum       Delegat   omfattning    beslutet
+Kontrollavgifter (tomtmark):
+Maj: 60 st
+Juni: 35 st
+Juli: 44 st
+Augusti: 155 st
+4.14       Vägmärkesförord VC Trafik & Beslut om tillstånd Juni: 5 st
+ningen SFS   Utemiljö  att schakta i gator Juli: 5 st
+2007:90 AFS  EC drift Gata och vägar för vilka Augusti: 2 st
+1999:3 49 § 81 § EC Anläggning kommunen är Totalt 12 beslut om tillstånd att
+(a-e)        & Utveckling huvudman och vid schakta i gator och
+Ordningslagen 3 Vägtekniker behov kräva säkerhet trafikanordningsplan.
+kap. 4 § Plan och      för beräknade
+Bygglagen 6 Kap.       kostnader för
+21                     återställande av
 
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för<br>beslutet |
-| --- | --- | --- | --- | --- |
-|  |  |  |  | Kontrollavgifter (tomtmark):<br>Maj: 60 st<br>Juni: 35 st<br>Juli: 44 st<br>Augusti: 155 st |
-| 4.14 | Vägmärkesförord<br>ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81 §<br>(a-e)<br>Ordningslagen 3<br>kap. 4 § Plan och<br>Bygglagen 6 Kap.<br>21 | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning<br>& Utveckling<br>Vägtekniker | Beslut om tillstånd<br>att schakta i gator<br>och vägar för vilka<br>kommunen är<br>huvudman och vid<br>behov kräva säkerhet<br>för beräknade<br>kostnader för<br>återställande av<br>kommunens<br>anläggningar | Juni: 5 st<br>Juli: 5 st<br>Augusti: 2 st<br>Totalt 12 beslut om tillstånd att<br>schakta i gator och<br>trafikanordningsplan. |
-| 4.15 | Vägmärkesförord<br>ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81 §<br>(a-e)<br>Ordningslagen 3<br>kap. 4 § | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning<br>& Utveckling<br>Vägtekniker | Godkännande av<br>trafikanordningsplan | Juni: 29 st<br>Juli: 16 st<br>Augusti: 18 st<br>Totalt 63 beslut om enbart<br>trafikanordningsplan |
-| 4.16 | 13 kap. och 8 §<br>trafikförordningen<br>(1998:1276) | Färdtjänstutre<br>dare | Beslut om<br>parkeringstillstånd<br>för rörelsehindrade | Beslut om parkeringstillstånd för<br>rörelsehindrad<br>Beviljade: 44<br>Avslagna: 4 |
-| 4.17 | Ordningslagen<br>(1993:1617) 2 kap | VC Trafik &<br>Utemiljö<br>EC Anläggning<br>& Utveckling<br>Samordnare | Yttrande till polisen<br>avseende begagnade<br>av offentlig plats | Se separat bilaga för Yttranden från<br>Teknik. |
-| 4.18 | Ordningslagen<br>(1993:1617) 2 kap | VC Trafik &<br>Utemiljö EC<br>Planering &<br>Utformning<br>EC Anläggning<br>& Utveckling<br>Samordnare | Tecknande av avtal<br>som rör begagnade<br>av offentlig plats | 2024-07-11:<br>1 tecknande av avtal som rör<br>begagnade av offentlig plats på<br>Lindens torg |
-| 5.1 | 6–9 §§ lag<br>(1997:736) om<br>färdtjänst | Färdtjänstutre<br>dare<br>EC Kansli | Beslut om tillstånd till<br>färdtjänst med<br>regelkompletteringar | Beslut om färdtjänst<br>Beviljade: 156<br>Avslagna: 1 delavslag |
+kommunens
+anläggningar
+4.15       Vägmärkesförord VC Trafik & Godkännande av Juni: 29 st
+ningen SFS   Utemiljö  trafikanordningsplan Juli: 16 st
+2007:90 AFS  EC drift Gata           Augusti: 18 st
+1999:3 49 § 81 § EC Anläggning       Totalt 63 beslut om enbart
+(a-e)        & Utveckling            trafikanordningsplan
+Ordningslagen 3 Vägtekniker
+kap. 4 §
+4.16       13 kap. och 8 § Färdtjänstutre Beslut om Beslut om parkeringstillstånd för
+trafikförordningen dare parkeringstillstånd rörelsehindrad
+(1998:1276)
+för rörelsehindrade Beviljade: 44
+Avslagna: 4
+4.17       Ordningslagen VC Trafik & Yttrande till polisen Se separat bilaga för Yttranden från
+(1993:1617) 2 kap Utemiljö avseende begagnade Teknik.
+EC Anläggning av offentlig plats
+& Utveckling
+Samordnare
+4.18       Ordningslagen VC Trafik & Tecknande av avtal 2024-07-11:
+(1993:1617) 2 kap Utemiljö EC som rör begagnade 1 tecknande av avtal som rör
+Planering & av offentlig plats begagnade av offentlig plats på
+Utformning              Lindens torg
+EC Anläggning
+& Utveckling
+Samordnare
+5.1        6–9 §§ lag   Färdtjänstutre Beslut om tillstånd till Beslut om färdtjänst
+(1997:736) om dare     färdtjänst med Beviljade: 156
+färdtjänst   EC Kansli
+regelkompletteringar Avslagna: 1 delavslag
 
 <!-- sida 235 -->
 
 KUNGSBACKA KOMMUN                                           6 (7)
 
-[Tabell 235-1](handlingar.tabeller/235-1.csv)
-
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för<br>beslutet |
-| --- | --- | --- | --- | --- |
-| 5.3 | 4–7 §§ lag<br>(1997:735) om<br>riksfärdtjänst | Färdtjänstutre<br>dare<br>EC Kansli | Beslut om tillstånd till<br>riksfärdtjänst | Beslut om tillstånd till riksfärdtjänst<br>Beviljade: 37<br>Avslagna: 0 |
-| 8.3 | 37§ Lokala<br>avfallsföreskrifter<br>för Kungsbacka<br>kommun | Anette<br>Englund,<br>administratör<br>Kund o<br>Kommunikatio<br>n | Besluta om<br>godkännande av<br>kompostering av<br>matavfall | 240612 1 st<br>240614 1 st<br>240704 1 st<br>240725 1 st<br>240819 1 st |
-| 8.5 | 42 § Lokala<br>avfallsföres krifter<br>för Kungsbacka<br>kommun | Anette<br>Englund,<br>administratör<br>Kund o<br>Kommunikatio<br>n | Besluta om att<br>använda gemensam<br>avfallsbehållare | 240723 1 st |
-| 8.6 | 43, 43a §§ Lokala<br>avfallsföreskrifter<br>för Kungsbacka<br>kommun | Anette<br>Englund,<br>administratör<br>Kund o<br>Kommunikatio<br>n | Besluta om tillfälligt<br>uppehåll i<br>sophämtning | 240603 2 st<br>240605 3 st<br>240607 4 st<br>240614 2 st<br>240618 1 st<br>240625 1 st<br>240628 3 st<br>240705 2 st<br>240715 1 st<br>240722 1 st<br>240723 1 st<br>240724 1 st<br>240729 1 st<br>240731 1 st<br>240802 3 st<br>240816 1 st<br>240819 2 st<br>240820 1 st |
-| 9.8 |  | FC<br>FC/VC | Försäljning av<br>material<br>Över ett<br>prisbasbelopp<br>Upp till ett<br>prisbasbelopp | 1 beslut om försäljning av material<br>över ett prisbasbelopp, en<br>grävmaskin av modell Terex TC60. |
-| 10.1 | LAS, AB §§ 3-5 | Anställa |  |  |
-| 10.1.2 | LAS, AB §§ 3-5 | FC | Övriga medarbetare | - Maskinförare, anställd 2024-07-01<br>av Karl Boström |
+Punkt i
+delegeringsord          Ansvarig  Delegeringens Taget beslut och datum för
+ning       Lagrum       Delegat   omfattning    beslutet
+5.3        4–7 §§ lag   Färdtjänstutre Beslut om tillstånd till Beslut om tillstånd till riksfärdtjänst
+(1997:735) om dare     riksfärdtjänst Beviljade: 37
+riksfärdtjänst EC Kansli
+Avslagna: 0
+8.3        37§ Lokala   Anette    Besluta om    240612 1 st
+avfallsföreskrifter Englund, godkännande av 240614 1 st
+för Kungsbacka administratör kompostering av 240704 1 st
+kommun                 matavfall
+Kund o                  240725 1 st
+Kommunikatio            240819 1 st
+n
+8.5        42 § Lokala  Anette    Besluta om att 240723 1 st
+avfallsföres krifter Englund, använda gemensam
+för Kungsbacka administratör avfallsbehållare
+kommun
+Kund o
+Kommunikatio
+n
+8.6        43, 43a §§ Lokala Anette Besluta om tillfälligt 240603 2 st
+avfallsföreskrifter Englund, uppehåll i 240605 3 st
+för Kungsbacka administratör sophämtning 240607 4 st
+kommun
+Kund o                  240614 2 st
+Kommunikatio            240618 1 st
+n                       240625 1 st
+240628 3 st
+240705 2 st
+240715 1 st
+240722 1 st
+240723 1 st
+240724 1 st
+240729 1 st
+240731 1 st
+240802 3 st
+240816 1 st
+240819 2 st
+240820 1 st
+9.8                               Försäljning av 1 beslut om försäljning av material
+FC        material      över ett prisbasbelopp, en
+FC/VC     Över ett      grävmaskin av modell Terex TC60.
+prisbasbelopp
+Upp till ett
+prisbasbelopp
+10.1       LAS, AB §§ 3-5            Anställa
+10.1.2     LAS, AB §§ 3-5 FC      Övriga medarbetare - Maskinförare, anställd 2024-07-01
+av Karl Boström
 
 <!-- sida 236 -->
 
