@@ -1014,3 +1014,39 @@ och [Kalendern](03-ARKITEKTUR.md#kalendern).
 - **När** källorna visas under Kvalitet
 - **Så** står antalet sådana sammanträden, länkat till organets sida, i
   stället för en länk per dokument. Övriga källor länkas som förut.
+
+## K33 — Avvikelserna i källan på webbplatsen
+
+Issue: [#133](https://github.com/moggleif/kommunhandlingar/issues/133).
+Hur och varför står i
+[ADR-0054](decisions/0054-avvikelserna-pa-webbplatsen-ur-issuen.md) och
+[Webbplatsen](03-ARKITEKTUR.md#webbplatsen).
+
+- **Givet** öppna issues med etiketten `avvikelse`, skrivna av projektets
+  egna konton (ägare, medlemmar och medarbetare)
+- **När** webbplatsen byggs
+- **Så** har den en sida med en post per issue: numret som länk till
+  issuet, rubriken, kommunen, organet och mötet, och avsnitten "Vad som
+  skiljer sig" och "Belägg".
+- **Givet** issuets statusrad
+- **När** sidan byggs
+- **Så** står posten under det senaste steget: "Ska meddelas kommunen"
+  för `undersökt – fel hos kommunen`, "Väntar på kommunen" för `e-post
+  skickad` och "Att undersöka" för `att undersöka`, i den ordningen och
+  med antalet vid rubriken.
+- **Givet** en statusrad som saknas, eller vars senaste steg inte är
+  något av dem eller saknar datum
+- **När** sidan byggs
+- **Så** står posten under "Utan läsbar status", i stället för att
+  utelämnas eller gissas.
+- **Givet** text ur ett issue
+- **När** den visas
+- **Så** blir ingen av den markup: HTML i texten visas som text, och en
+  bild blir en länk, inte en bild på sidan.
+- **Givet** ett issue med etiketten från någon utanför projektet
+- **När** webbplatsen byggs
+- **Så** står det inte på sidan.
+- **Givet** ett issue med etiketten `avvikelse` som öppnas, ändras eller
+  stängs, eller som får eller tappar en etikett
+- **När** det har hänt
+- **Så** byggs webbplatsen om.

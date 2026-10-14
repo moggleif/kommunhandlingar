@@ -211,7 +211,7 @@ src/kommunhandlingar/
   konvertering/    pdf → md: sidans väg, text, tabeller och kvalitet
   facit/           konverteringen mätt mot facit för ett urval (K20)
   webbplats/       startsidan, statussidorna, organens och dokumentens sidor,
-                   kalendern och målen
+                   kalendern, målen och avvikelserna
 kommuner/<kommun>.toml
 kalender/<kommun>.csv  sammanträdena i kalendern, skrivna för hand (K22)
 mal/<kommun>.csv       nämndernas mål och direktiv, skrivna för hand (K26)
@@ -1340,13 +1340,16 @@ figur tolkas i efterhand, för hand, av en Claude-session, enligt
 ## Webbplatsen
 
 Hur och varför står i
-[ADR-0012](decisions/0012-webbplatsen-byggs-i-actions-och-publiceras-pa-pages.md)
-och, för dokumenten,
-[ADR-0023](decisions/0023-dokumenten-pa-webbplatsen-med-markdown-it-py.md).
+[ADR-0012](decisions/0012-webbplatsen-byggs-i-actions-och-publiceras-pa-pages.md),
+för dokumenten
+[ADR-0023](decisions/0023-dokumenten-pa-webbplatsen-med-markdown-it-py.md)
+och för avvikelserna
+[ADR-0054](decisions/0054-avvikelserna-pa-webbplatsen-ur-issuen.md).
 Webbplatsen är statisk HTML som byggs av
-`python -m kommunhandlingar.webbplats <utkatalog> <repoadress>` och
-publiceras på GitHub Pages av `.github/workflows/webbplats.yml` vid varje
-push till `main` och för hand. Inget av det som byggs checkas in.
+`python -m kommunhandlingar.webbplats <utkatalog> <repoadress> <avvikelsefil>`
+och publiceras på GitHub Pages av `.github/workflows/webbplats.yml` vid
+varje push till `main`, för hand och när ett issue med etiketten
+`avvikelse` öppnas, ändras, stängs eller byter etikett. Inget av det som byggs checkas in.
 
 - **Sidorna:** en startsida, en statussida per kommunfil i `kommuner/`
   (`<kommun>.html`), en sida per organ i kommunfilen
@@ -1356,9 +1359,10 @@ push till `main` och för hand. Inget av det som byggs checkas in.
   [Kalendern](#kalendern)), och en sida om målen och direktiven för
   varje organ med rader i kommunens målfil
   (`<kommun>/<organ>/mal-och-direktiv.html`,
-  [Mål och direktiv](#mål-och-direktiv)). Sidmallen,
-  menyn och stilen står i `webbplats/mall.py`. Varje sida har samma meny – startsidan och kommunerna
-  i bokstavsordning efter id – och en sidfot som länkar till repot och
+  [Mål och direktiv](#mål-och-direktiv)), och en sida med avvikelserna
+  i källan (`avvikelser.html`, se nedan). Sidmallen,
+  menyn och stilen står i `webbplats/mall.py`. Varje sida har samma meny – startsidan, kommunerna
+  i bokstavsordning efter id och avvikelserna – och en sidfot som länkar till repot och
   säger när sidan byggdes.
 - **Statussidan** räknar ur front matter i varje `.md` under
   `data/<kommun>/`, utan något index. Den har en rad per organ i
@@ -1399,11 +1403,22 @@ push till `main` och för hand. Inget av det som byggs checkas in.
 - **Statisk:** ingen JavaScript utom kalenderns (ADR-0032) och målsidans
   (ADR-0050) skript och inga
   externa resurser. Texten i
-  dokumenten renderas av markdown-it-py med CommonMark, GFM:s tabeller
+  dokumenten och avvikelserna renderas av markdown-it-py med CommonMark, GFM:s tabeller
   och genomstrykning, och HTML i källan avslaget, så att inget ur poolen
-  blir markup. All annan text ur poolen går genom `html.escape`, och bara källor
+  blir markup. All annan text ur poolen och issuen går genom `html.escape`, och bara källor
   som börjar med `http://` eller `https://` blir länkar. Ingen
   information bärs av färg.
+- **Avvikelserna** (K33, `webbplats/avvikelser.py` och
+  `avvikelsesida.py`): arbetsflödet hämtar de öppna issuen med etiketten
+  `avvikelse` från projektets egna konton (`author_association` OWNER,
+  MEMBER eller COLLABORATOR) med `gh api` till avvikelsefilen, ett issue
+  per rad som JSON med `number`, `title`, `html_url` och `body`. Fälten och
+  statusraden läses som mallen och [Bidra](01-BIDRA.md#avvikelser-i-källan)
+  skriver dem. Sidan grupperar efter statusradens senaste steg: "Ska
+  meddelas kommunen", "Väntar på kommunen", "Att undersöka", och "Utan
+  läsbar status" när steget inte går att läsa. Avsnitten "Vad som skiljer
+  sig" och "Belägg" renderas som dokumenten men utan bilder, som blir
+  länkar, och utan mallens kommentarer.
 - **Efter nattkörningen** byggs webbplatsen om när körningens PR mergas
   (se [Körning och incheckning](#körning-och-incheckning)).
 - **Dokumenten** måste ha ett `organ` ur kommunfilen, en `typ` och en

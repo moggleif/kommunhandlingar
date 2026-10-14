@@ -54,15 +54,19 @@ kontrollerar också att inga binärer är incheckade.
 ## Webbplatsen
 
 Webbplatsen byggs lokalt, från repots rot, till en katalog som öppnas i
-webbläsaren (K14, K18, ADR-0012, ADR-0023). Med hela poolen tar det ett
-par minuter:
+webbläsaren (K14, K18, K33, ADR-0012, ADR-0023, ADR-0054). Det sista
+argumentet är filen med avvikelserna i källan, ett issue per rad; en tom
+fil ger en sida utan avvikelser. Med hela poolen tar det ett par minuter:
 
 ```sh
-python3 -m kommunhandlingar.webbplats _site https://github.com/moggleif/kommunhandlingar
+touch avvikelser.jsonl
+python3 -m kommunhandlingar.webbplats _site https://github.com/moggleif/kommunhandlingar avvikelser.jsonl
 ```
 
-`_site/` checkas inte in; `.github/workflows/webbplats.yml` bygger och
-publicerar på GitHub Pages vid varje push till `main`.
+Hur filen hämtas står i `.github/workflows/webbplats.yml`. `_site/`
+checkas inte in; arbetsflödet bygger och publicerar på GitHub Pages vid
+varje push till `main` och när ett issue med etiketten `avvikelse`
+ändras.
 
 ## Upptäckten
 
@@ -143,7 +147,10 @@ Belägg anges med sökväg i poolen och sidnummer, inte med citat: inga
 personnamn och inga personuppgifter i issuet. Personuppgifter i en
 handling blir aldrig ett issue
 ([ADR-0022](decisions/0022-personuppgifter-maskas-vid-konverteringen.md)).
-Dokumentet i poolen rättas inte efter avvikelsen.
+Dokumentet i poolen rättas inte efter avvikelsen. De öppna avvikelserna
+står, grupperade efter status, på webbplatsens sida
+[Avvikelser](https://moggleif.github.io/kommunhandlingar/avvikelser.html)
+(K33).
 
 ## Datakontrollerna
 
