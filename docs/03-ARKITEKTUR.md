@@ -94,7 +94,8 @@ densamma för alla kommuner. Arkivets lista tas nyast först
 Hur och varför står i
 [ADR-0006](decisions/0006-schemalagd-korning-i-actions-och-data-direkt-till-main.md)
 och, för hur datat når `main`,
-[ADR-0015](decisions/0015-nattkorningen-pa-egen-gren-och-pr.md).
+[ADR-0015](decisions/0015-nattkorningen-pa-egen-gren-och-pr.md) och
+[ADR-0052](decisions/0052-nattkorningen-mergar-sin-pr-sjalv.md).
 Vad en körning gör när budgeten tar slut, när kontrollerna faller och när
 två startas står i K11.
 
@@ -124,6 +125,9 @@ två startas står i K11.
   och datat når `main` genom en PR, där "Ren kod och tester" kör samma
   kontroller. Har körningen inte ändrat något pushas ingen gren. Mergen
   till `main` bygger om webbplatsen.
+- **Körningen öppnar PR:en själv** när hemligheten `NATTKORNING_TOKEN`
+  finns, och slår på automatisk merge. Bara det steget får hemligheten.
+  Utan den öppnar en människa eller agent PR:en.
 
 Datakontrollerna, i körningen och i CI
 (`python -m kommunhandlingar.datakontroll data`, utom binärerna):

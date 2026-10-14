@@ -161,9 +161,21 @@ körningen innan den checkar in, står under "Körning och incheckning" i
 
 `.github/workflows/nattkorning.yml` går varje natt och kan startas för
 hand under Actions. Den pushar en gren `nattkorning/<datum>-<id>` när
-något ändrats; öppna en PR från den och merga när "Ren kod och tester"
-gått igenom (ADR-0015). Ligger flera grenar omergade, merga den nyaste
-och ta bort de äldre; det de hade utöver den hämtas igen nästa natt.
+något ändrats, öppnar en PR från den och slår på automatisk merge, så att
+GitHub mergar när "Ren kod och tester" gått igenom (ADR-0052). Det kräver
+två saker i repot, som en ägare ordnar en gång:
+
+1. En finkornig token (Settings → Developer settings → Fine-grained
+   tokens) för bara det här repot, med *Contents* och *Pull requests*
+   som läs och skriv. Den läggs som hemligheten `NATTKORNING_TOKEN`
+   under Settings → Secrets and variables → Actions. När den går ut
+   faller körningens sista steg; byt den då.
+2. *Allow auto-merge* påslaget under Settings → General.
+
+Utan hemligheten öppnar en människa eller agent PR:en från grenen
+(ADR-0015). Står en PR kvar omergad, till exempel för att kontrollen
+föll, och flera grenar ligger omergade: merga den nyaste och ta bort de
+äldre; det de hade utöver den hämtas igen nästa natt.
 En gren som skrivits av en version före 0.5.0 maskas först med
 `python3 -m kommunhandlingar.maska_poolen data`; annars faller
 datakontrollen på dess personuppgifter (ADR-0022).

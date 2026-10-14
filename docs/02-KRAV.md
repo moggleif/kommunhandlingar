@@ -360,6 +360,14 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
   `data/`; den når `main` genom en PR där samma kontroller körs igen
   (ADR-0015).
 
+- **Givet** en körning som har pushat sin gren, i ett repo med en token
+  för körningen
+- **När** körningen slutar
+- **Så** har den öppnat en PR från grenen som mergas av sig själv när
+  kontrollerna gått igenom; utan token säger sammanfattningen att någon
+  ska öppna PR:en (ADR-0052,
+  [#163](https://github.com/moggleif/kommunhandlingar/issues/163)).
+
 - **Givet** en körning vars resultat inte klarar datakontrollerna, som
   stoppas av ett oväntat fel, eller som avbryts innan den checkat in
 - **När** den slutar

@@ -1,6 +1,6 @@
-# Den schemalagda körningen (K11, ADR-0006 och ADR-0015): upptäckt och
-# steg 2 för varje kommun, sedan för arkivet (K16, ADR-0018),
-# datakontrollerna, och en egen gren med datat.
+# Den schemalagda körningen (K11, ADR-0006, ADR-0015 och ADR-0052): upptäckt
+# och steg 2 för varje kommun, sedan för arkivet (K16, ADR-0018),
+# datakontrollerna, en egen gren med datat och en PR som mergas automatiskt.
 name: Nattkörning
 
 on:
@@ -75,7 +75,21 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -q -m "Nattkörning $(date -u +%F)"
           git push origin "HEAD:refs/heads/$gren"
-          echo "Datat ligger på grenen \`$gren\`; öppna en PR därifrån (ADR-0015)." >> "$GITHUB_STEP_SUMMARY"
+          echo "GREN=$gren" >> "$GITHUB_ENV"
+      - name: PR med automatisk merge
+        # Bara det här steget får token, så att hämtningen inte kan nå den (ADR-0052).
+        if: env.GREN != ''
+        env:
+          GH_TOKEN: ${{ secrets.NATTKORNING_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "Datat ligger på grenen \`$GREN\`; öppna en PR därifrån (ADR-0015)." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          gh pr create --base main --head "$GREN" --title "Nattkörning $(date -u +%F)" \
+            --body "Datat från nattkörningen; mergas när kontrollen gått igenom (ADR-0052)."
+          gh pr merge "$GREN" --auto --merge
+          echo "PR från \`$GREN\` mergas när kontrollen gått igenom (ADR-0052)." >> "$GITHUB_STEP_SUMMARY"
       - name: Sammanfattning
         if: always()
         run: |
