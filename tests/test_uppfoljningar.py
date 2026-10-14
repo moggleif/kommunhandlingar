@@ -69,7 +69,7 @@ class TestTabellen(unittest.TestCase):
                 [exempelby()], REPO, TID, uppfoljningar={"exempelby": uppfoljda}
             )
             html = malsida(mall, exempelby(), malen, organets)
-        tabell = html[html.index('id="antal"') : html.index('id="ar-')]
+        tabell = html[html.index('id="antal"') : html.index('id="tidslinje"')]
         rader = re.findall(r'<tr><th scope="row">(\d+)</th>(.*?)</tr>', tabell)
         return {ar: re.findall(r'"tal">(.*?)<', celler) for ar, celler in rader}
 

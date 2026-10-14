@@ -1,6 +1,7 @@
 """Krav: K26 och K27 i docs/02-KRAV.md, ADR-0044 och ADR-0045. Kod:
-src/kommunhandlingar/webbplats/mal.py, malsida.py, malavsnitt.py,
-statusikon.py och bygg.py. Grupperna och antalet: tests/test_malgrupper.py."""
+src/kommunhandlingar/webbplats/mal.py, malsida.py, malkort.py,
+statusikon.py och bygg.py. Grupperna och antalet: tests/test_malgrupper.py.
+Tidslinjen och korten: tests/test_malkort.py."""
 
 import shutil
 import tempfile
@@ -12,7 +13,7 @@ from kommunhandlingar.fel import Datafel
 from kommunhandlingar.konfiguration import las as las_kommun
 from kommunhandlingar.webbplats import mal
 from kommunhandlingar.webbplats.bygg import bygg
-from kommunhandlingar.webbplats.malavsnitt import kallank
+from kommunhandlingar.webbplats.malkort import kallank
 from kommunhandlingar.webbplats.mall import Mall
 from kommunhandlingar.webbplats.malsida import malsida
 from tests.test_webbplats import FIXTURER, REPO, TID, dokument, exempelby, protokoll
@@ -156,39 +157,27 @@ class TestSidan(unittest.TestCase):
             mall = Mall([exempelby()], REPO, TID)
             return malsida(mall, exempelby(), malen, protokoll(*dokumentar))
 
-    def test_ett_mal_per_rad_och_ett_ar_per_kolumn(self):
+    def test_ett_spar_per_rad_och_ett_ar_per_kolumn_med_mal(self):
         html = self.sida()
-        self.assertEqual(html.count("<tr data-slag"), 2)
-        for ar in ("2023", "2024", "2025"):
-            self.assertIn(f'<th scope="col">{ar}', html)
+        self.assertEqual(html.count("<tr data-mal"), 2)
+        self.assertEqual(html.count("<article"), 2)
+        for ar in ("2024", "2025"):
+            self.assertIn(f'<th scope="col">{ar}</th>', html)
+        self.assertNotIn('<th scope="col">2023', html)
 
-    def test_ar_utan_dokument_och_mal_ar_en_lucka(self):
-        html = self.sida({2022, 2025})
-        self.assertIn("2023<br>lucka</th>", html)
-        self.assertIn("Poolen har inga dokument från organet det här året.", html)
-
-    def test_ar_med_mal_ur_ett_senare_dokument_ar_ingen_lucka(self):
-        html = self.sida()
-        self.assertIn("2024</th>", html)
-        self.assertNotIn("2024<br>lucka", html)
-        self.assertNotIn("Poolen har inga dokument", html)
-
-    def test_ar_med_dokument_men_utan_mal(self):
-        text = "Poolens dokument från året har inga av nämndens mål eller direktiv"
-        self.assertIn(text, self.sida())
-
-    def test_status_som_ikon_i_oversikten_och_avsnittet(self):
+    def test_status_som_ikon_i_tidslinjen_och_historiken(self):
         html = self.sida()
         ikon = 'class="status delvis prognos" role="img" title="delvis uppnått'
-        self.assertIn(f"●</a> <span {ikon}", html)
+        self.assertIn(f'<td class="band start"><span {ikon}', html)
         self.assertIn(f"Status: <span {ikon}", html)
         self.assertIn("</span> Delvis uppnått (prognos)", html)
         self.assertIn('<ul class="teckenforklaring">', html)
 
     def test_budgeten_har_ingen_status(self):
         html = self.sida()
-        avsnitt = html[html.index('id="ar-2025"') : html.index('id="ar-2024"')]
-        self.assertNotIn("Status:", avsnitt)
+        kort = html.split('<article id="mal-1"')[1].split("</article>")[0]
+        self.assertIn("<h3>Trygga miljöer</h3>", kort)
+        self.assertNotIn("Status:", kort)
 
     def test_kallan_lankar_till_sidan_i_dokumentet(self):
         self.assertIn(
@@ -200,10 +189,10 @@ class TestSidan(unittest.TestCase):
             kallank(f"{BUDGET}#sida-1-2"),
         )
 
-    def test_avsnitten_nyast_forst_med_skript(self):
+    def test_sidan_har_skriptet_och_stilen(self):
         html = self.sida()
-        self.assertLess(html.index('id="ar-2025"'), html.index('id="ar-2023"'))
         self.assertIn("<script>", html)
+        self.assertIn("table.tidslinje", html)
 
 
 class TestBygg(unittest.TestCase):

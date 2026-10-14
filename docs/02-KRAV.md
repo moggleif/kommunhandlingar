@@ -756,24 +756,21 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
   länkad från organets sida.
 - **Givet** sidan om ett organs mål och direktiv
 - **När** den visas
-- **Så** står överst en översikt med ett mål eller direktiv per rad och
-  ett år per kolumn, från organets första till sista år i poolen eller
-  bland målen, och
-  under den ett avsnitt per år med varje mål: rubriken, formuleringen,
-  statusen när en uppföljning anger den, och en länk till källans sida.
+- **Så** står varje mål år för år med rubriken, formuleringen, statusen
+  när en uppföljning anger den, och en länk till källans sida, i en
+  tidslinje och på ett kort per mål (K29).
 - **Givet** ett år utan dokument från organet i poolen och utan mål ur
   senare dokument, som en årsredovisning
 - **När** sidan visas
-- **Så** står året med i översikten och som avsnitt, märkt som en lucka
-  där poolen saknar dokument från året.
+- **Så** är året märkt som en lucka i tidslinjen och på korten, där
+  poolen saknar dokument från året.
 - **Givet** samma mål i två år, med samma rubrik
 - **När** sidan visas
-- **Så** står det på samma rad i översikten. Ett mål som bytt rubrik står
-  under sin föregångare (K27).
+- **Så** står det på samma rad i tidslinjen och på samma kort. Ett mål som
+  bytt rubrik står också där (K27).
 - **Givet** sidan
-- **När** besökaren väljer bort nämndmål eller direktiv, eller väljer ett
-  mål i översikten
-- **Så** visas bara det valda i översikten och avsnitten.
+- **När** besökaren väljer ett urval (K29)
+- **Så** visas bara det valda i tidslinjen och bland korten.
 - **Givet** en sida utan JavaScript
 - **När** sidan visas
 - **Så** står alla mål och direktiv, utan urval.
@@ -795,9 +792,9 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
 
 - **Givet** mål som bytt rubrik och har samma grupp i målfilen
 - **När** sidan om målen visas
-- **Så** står rubrikerna under varandra i översikten, i den ordning de
-  först står, så att målet går att följa genom åren, och ett klick på en
-  av dem visar hela gruppen. En rubrik vars plats i gruppen är en
+- **Så** står de på samma rad i tidslinjen och på samma kort, så att
+  målet går att följa genom åren: kortet har den senaste rubriken och de
+  tidigare i den ordning de först står. En rubrik vars plats i gruppen är en
   bedömning, där källan varken säger att det är samma mål eller har samma
   formulering, är märkt tolkad.
 - **Givet** samma mål i protokollet och i handlingarna från samma möte
@@ -811,7 +808,7 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
 - **Så** visas bedömningen som en ikon: uppnått, delvis uppnått eller på
   väg, ej uppnått, eller ingen bedömning i källan. Ikonerna skiljs åt med
   form och inte bara med färg. Källans formulering står i pekrutan och i
-  årets avsnitt, och en prognos ur en delårsrapport har en streckad ram.
+  kortets historik, och en prognos ur en delårsrapport har en streckad ram.
   En teckenförklaring står på sidan.
 - **Givet** en okänd uppföljning eller bedömning, en bedömning eller
   status på en rad som inte är en uppföljning, en uppföljning utan
@@ -852,3 +849,52 @@ och [Uppföljningar i nämnden](03-ARKITEKTUR.md#uppföljningar-i-nämnden).
   samma paragraf två gånger, eller en fil utan kommunfil
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med raden i felet.
+
+## K29 — Målsidan som tidslinje och målkort
+
+Issue: [#151](https://github.com/moggleif/kommunhandlingar/issues/151).
+Bygger på K26, K27 och K28. Hur och varför står i
+[ADR-0050](decisions/0050-malsidan-visas-som-tidslinje-och-malkort.md)
+och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
+
+- **Givet** sidan om ett organs mål och direktiv
+- **När** den visas
+- **Så** står överst det senaste årets antal och grafen över antal per
+  år, med tabellen hopfälld under. Sedan kommer en tidslinje och ett kort
+  per mål, med år från målens första till sista år.
+- **Givet** tidslinjen
+- **När** den visas
+- **Så** har den en rad per mål, nämndmålen för sig och direktiven för
+  sig, och en kolumn per år. Ett år med målet är en del av ett band med
+  årets status som ikon: ett utfall går före en rapport, en prognos och
+  beslutet, och ett år utan uppföljning har en punkt för beslutet. Ett år
+  då målet får en ny rubrik är markerat. Rubriken länkar till målets
+  kort.
+- **Givet** en kommun med en fil över nämndernas uppföljningar (K28)
+- **När** tidslinjen visas
+- **Så** har den sist en rad med nämndens uppföljningar och dragningar om
+  målen, en markering per paragraf på mötets år, och ett streck för år
+  utan protokoll med text.
+- **Givet** målen
+- **När** korten visas
+- **Så** kommer de som gäller det senaste året först, sedan efter sista
+  och första år. Kortet har slaget, åren, den senaste rubriken, de
+  tidigare rubrikerna, den senaste formuleringen, en remsa med ett fält
+  per år och en hopfälld historik med varje rad, dess status och källa.
+- **Givet** ett mål som varit både nämndmål och direktiv
+- **När** sidan visas
+- **Så** står det i tidslinjen under sitt senaste slag, märkt med det
+  andra, och kortet har båda slagen och slaget på varje rad i historiken.
+- **Givet** ett år inom målens år med dokument från organet men utan mål,
+  eller dokument från år före de första målen
+- **När** sidan visas
+- **Så** står året i tidslinjen som ett år utan mål, och sidan säger från
+  vilket år poolen har dokument, så att ingen lucka tas för ett år utan mål.
+- **Givet** sidan med JavaScript
+- **När** besökaren väljer alla, de som gäller det senaste året,
+  nämndmål, direktiv eller de som bytt rubrik
+- **Så** visas bara det valda i tidslinjen och bland korten. Knappar för
+  ett slag som inte finns på sidan visas inte.
+- **Givet** sidan med JavaScript
+- **När** besökaren väljer ett mål i tidslinjen
+- **Så** går sidan till målets kort och kortet visar sin historik.
