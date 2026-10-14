@@ -2,11 +2,14 @@
 
 from html import escape
 
-from kommunhandlingar.webbplats.avvikelser import OKANT, ORDNING, Avvikelse
-from kommunhandlingar.webbplats.mall import Mall, lank, sida
-from kommunhandlingar.webbplats.text import rendera
+from markdown_it import MarkdownIt
 
-ADRESS = "avvikelser.html"
+from kommunhandlingar.webbplats.avvikelser import ADRESS, OKANT, ORDNING, Avvikelse
+from kommunhandlingar.webbplats.mall import Mall, lank, sida
+
+# Som dokumenten (ADR-0023), men utan bilder: en bild i ett issue skulle bli
+# en extern resurs på sidan.
+LASARE = MarkdownIt("commonmark", {"html": False}).disable("image")
 ETIKETTEN = "/issues?q=label%3Aavvikelse"
 BIDRA = "/blob/main/docs/01-BIDRA.md#avvikelser-i-k%C3%A4llan"
 
@@ -41,5 +44,5 @@ def post(avvikelse: Avvikelse) -> str:
     return (
         f"<section><h3>{rubrik} {escape(avvikelse.rubrik)}</h3>"
         f"<p>{escape(avvikelse.kommun)}: {escape(avvikelse.mote)}</p>"
-        f"{rendera(avvikelse.beskrivning)}</section>"
+        f"{LASARE.render(avvikelse.beskrivning)}</section>"
     )

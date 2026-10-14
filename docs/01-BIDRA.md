@@ -54,15 +54,19 @@ kontrollerar också att inga binärer är incheckade.
 ## Webbplatsen
 
 Webbplatsen byggs lokalt, från repots rot, till en katalog som öppnas i
-webbläsaren (K14, K18, ADR-0012, ADR-0023). Med hela poolen tar det ett
-par minuter:
+webbläsaren (K14, K18, K33, ADR-0012, ADR-0023, ADR-0054). Det sista
+argumentet är filen med avvikelserna i källan, ett issue per rad; en tom
+fil ger en sida utan avvikelser. Med hela poolen tar det ett par minuter:
 
 ```sh
-python3 -m kommunhandlingar.webbplats _site https://github.com/moggleif/kommunhandlingar
+touch avvikelser.jsonl
+python3 -m kommunhandlingar.webbplats _site https://github.com/moggleif/kommunhandlingar avvikelser.jsonl
 ```
 
-`_site/` checkas inte in; `.github/workflows/webbplats.yml` bygger och
-publicerar på GitHub Pages vid varje push till `main`.
+Hur filen hämtas står i `.github/workflows/webbplats.yml`. `_site/`
+checkas inte in; arbetsflödet bygger och publicerar på GitHub Pages vid
+varje push till `main` och när ett issue med etiketten `avvikelse`
+ändras.
 
 ## Upptäckten
 

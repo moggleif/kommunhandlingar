@@ -22,6 +22,11 @@ concurrency:
 jobs:
   bygg:
     name: Bygg webbplatsen
+    # Bara de issues som kan ändra sidan med avvikelserna.
+    if: >
+      github.event_name != 'issues'
+      || github.event.action == 'unlabeled'
+      || contains(github.event.issue.labels.*.name, 'avvikelse')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
@@ -29,6 +34,8 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -e .
+      # Bara issues från projektets egna konton, så att ingen utomstående
+      # kan lägga ut text på webbplatsen (ADR-0054).
       - name: De öppna avvikelserna i källan, ett issue per rad
         env:
           GH_TOKEN: ${{ github.token }}
@@ -36,6 +43,7 @@ jobs:
           gh api --paginate
           "repos/${{ github.repository }}/issues?labels=avvikelse&state=open&per_page=100"
           --jq '.[] | select(.pull_request == null)
+          | select(.author_association | IN("OWNER", "MEMBER", "COLLABORATOR"))
           | {number, title, html_url, body} | tojson'
           > "$RUNNER_TEMP/avvikelser.jsonl"
       - run: >

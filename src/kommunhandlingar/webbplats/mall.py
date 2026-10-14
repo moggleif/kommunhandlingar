@@ -5,6 +5,7 @@ from datetime import datetime
 from html import escape
 
 from kommunhandlingar.konfiguration import Kommun
+from kommunhandlingar.webbplats import avvikelser
 from kommunhandlingar.webbplats.mal import Mal
 from kommunhandlingar.webbplats.uppfoljningar import Uppfoljning
 
@@ -73,7 +74,7 @@ def meny(mall: Mall, aktuell: str) -> str:
     poster = (
         [("index.html", "Start")]
         + [(f"{k.id}.html", k.namn) for k in mall.kommuner]
-        + [("avvikelser.html", "Avvikelser")]
+        + [(avvikelser.ADRESS, "Avvikelser")]
     )
     lankar = "".join(
         menypost(rot(aktuell) + adress, namn, adress == aktuell)

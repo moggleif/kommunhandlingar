@@ -104,7 +104,8 @@ class TestSidan(unittest.TestCase):
             issue(
                 "att undersöka 2026-10-13",
                 title="<script>x</script>",
-                body="**Kommun:** <b>A</b>\n## Belägg\n<img src=x> [l](javascript:x)\n",
+                body="**Kommun:** <b>A</b>\n## Belägg\n<img src=x> [l](javascript:x)\n"
+                "![bild](https://example.com/p.png)\n",
             )
         )
         self.assertNotIn("<script>", html)

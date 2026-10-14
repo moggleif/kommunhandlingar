@@ -11,6 +11,7 @@ import re
 from dataclasses import dataclass
 from pathlib import Path
 
+ADRESS = "avvikelser.html"
 OKANT = "Utan läsbar status"
 LAGEN = {
     "undersökt – fel hos kommunen": "Ska meddelas kommunen",
@@ -35,7 +36,7 @@ class Avvikelse:
 
 def las(fil: Path) -> list[Avvikelse]:
     rader = fil.read_text(encoding="utf-8").splitlines()
-    return [tolka(json.loads(rad)) for rad in rader if rad.strip()]
+    return [tolka(json.loads(rad)) for rad in rader]
 
 
 def tolka(issue: dict) -> Avvikelse:

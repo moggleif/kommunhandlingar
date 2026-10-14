@@ -1348,8 +1348,8 @@ och för avvikelserna
 Webbplatsen är statisk HTML som byggs av
 `python -m kommunhandlingar.webbplats <utkatalog> <repoadress> <avvikelsefil>`
 och publiceras på GitHub Pages av `.github/workflows/webbplats.yml` vid
-varje push till `main`, för hand och när ett issue öppnas, ändras, stängs
-eller byter etikett. Inget av det som byggs checkas in.
+varje push till `main`, för hand och när ett issue med etiketten
+`avvikelse` öppnas, ändras, stängs eller byter etikett. Inget av det som byggs checkas in.
 
 - **Sidorna:** en startsida, en statussida per kommunfil i `kommuner/`
   (`<kommun>.html`), en sida per organ i kommunfilen
@@ -1410,13 +1410,15 @@ eller byter etikett. Inget av det som byggs checkas in.
   information bärs av färg.
 - **Avvikelserna** (K33, `webbplats/avvikelser.py` och
   `avvikelsesida.py`): arbetsflödet hämtar de öppna issuen med etiketten
-  `avvikelse` med `gh api` till avvikelsefilen, ett issue per rad som
-  JSON med `number`, `title`, `html_url` och `body`. Fälten och
+  `avvikelse` från projektets egna konton (`author_association` OWNER,
+  MEMBER eller COLLABORATOR) med `gh api` till avvikelsefilen, ett issue
+  per rad som JSON med `number`, `title`, `html_url` och `body`. Fälten och
   statusraden läses som mallen och [Bidra](01-BIDRA.md#avvikelser-i-källan)
   skriver dem. Sidan grupperar efter statusradens senaste steg: "Ska
   meddelas kommunen", "Väntar på kommunen", "Att undersöka", och "Utan
   läsbar status" när steget inte går att läsa. Avsnitten "Vad som skiljer
-  sig" och "Belägg" renderas som dokumenten, utan mallens kommentarer.
+  sig" och "Belägg" renderas som dokumenten men utan bilder, som blir
+  länkar, och utan mallens kommentarer.
 - **Efter nattkörningen** byggs webbplatsen om när körningens PR mergas
   (se [Körning och incheckning](#körning-och-incheckning)).
 - **Dokumenten** måste ha ett `organ` ur kommunfilen, en `typ` och en

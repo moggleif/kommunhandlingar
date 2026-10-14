@@ -1019,7 +1019,8 @@ Hur och varför står i
 [ADR-0054](decisions/0054-avvikelserna-pa-webbplatsen-ur-issuen.md) och
 [Webbplatsen](03-ARKITEKTUR.md#webbplatsen).
 
-- **Givet** öppna issues med etiketten `avvikelse`
+- **Givet** öppna issues med etiketten `avvikelse`, skrivna av projektets
+  egna konton (ägare, medlemmar och medarbetare)
 - **När** webbplatsen byggs
 - **Så** har den en sida med en post per issue: numret som länk till
   issuet, rubriken, kommunen, organet och mötet, och avsnitten "Vad som
@@ -1037,8 +1038,12 @@ Hur och varför står i
   utelämnas eller gissas.
 - **Givet** text ur ett issue
 - **När** den visas
-- **Så** blir ingen av den markup: HTML i texten visas som text.
-- **Givet** ett issue som öppnas, ändras, stängs eller får eller tappar
-  en etikett
+- **Så** blir ingen av den markup: HTML i texten visas som text, och en
+  bild blir en länk, inte en bild på sidan.
+- **Givet** ett issue med etiketten från någon utanför projektet
+- **När** webbplatsen byggs
+- **Så** står det inte på sidan.
+- **Givet** ett issue med etiketten `avvikelse` som öppnas, ändras eller
+  stängs, eller som får eller tappar en etikett
 - **När** det har hänt
 - **Så** byggs webbplatsen om.

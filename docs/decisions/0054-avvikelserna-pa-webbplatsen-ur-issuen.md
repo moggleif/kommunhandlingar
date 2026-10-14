@@ -37,8 +37,14 @@ Valt: A, eftersom avvikelsen då står på ett enda ställe och sidan ändå är
 statisk. `webbplats.yml` hämtar de öppna issuen med etiketten med
 `gh api` till en fil med ett issue per rad, och
 `python -m kommunhandlingar.webbplats` läser filen. Arbetsflödet får
-rätten att läsa issues och körs också när ett issue öppnas, ändras,
-stängs eller byter etikett, så att sidan följer issuen.
+rätten att läsa issues och körs också när ett issue med etiketten
+öppnas, ändras, stängs eller byter etikett, så att sidan följer issuen.
+
+Bara issues från projektets egna konton (ägare, medlemmar och
+medarbetare) kommer med. Mallen sätter etiketten själv, så annars kunde
+vem som helst lägga ut text, med namn eller personuppgifter, på
+webbplatsen. En bild i ett issue blir en länk, eftersom en bild skulle
+bli en extern resurs på sidan.
 
 Sidan `avvikelser.html` står i menyn och grupperar avvikelserna efter det
 senaste steget på statusraden: först de som ska meddelas kommunen, sedan
@@ -48,11 +54,14 @@ stället för att utelämnas eller gissas. Stängda issues är avslutade och
 står inte med. Avsnitten "Vad som skiljer sig" och "Belägg" renderas med
 samma markdown-it-py som dokumenten
 ([ADR-0023](0023-dokumenten-pa-webbplatsen-med-markdown-it-py.md)), med
-HTML avslaget; mallens kommentarer tas bort först.
+HTML och bilder avslagna; mallens kommentarer tas bort först.
 
 Sidan är en för alla kommuner, och varje post säger sin kommun ur
 issuets fält. Fältet är fri text, så ingen kod behöver känna kommunens
-namn.
+namn. Med en kommun i poolen är grupperna efter status det som avgör
+vad som ska göras; delas sidan per kommun när fler kommer till. Mötessidan
+länkas i "Vad som skiljer sig", som mallen ber om, och inte i ett eget
+fält, så att mallen inte får ett fält till.
 
 ### Consequences
 
@@ -63,8 +72,9 @@ namn.
   beror på GitHubs API, och en lokal körning behöver en fil med issues,
   som kan vara tom.
 * Dåligt, eftersom varje ändring av ett issue med etiketten bygger om
-  hela webbplatsen. Ändringar av issues utan etiketten startar också
-  arbetsflödet; hämtningen tar då samma avvikelser igen.
+  hela webbplatsen.
+* Dåligt, eftersom en avvikelse som någon utanför projektet hittar inte
+  syns förrän någon i projektet skrivit ett eget issue.
 * Dåligt, eftersom mallens form bara hålls av den som skriver issuet. Ett
   issue som inte följer den syns under "Utan läsbar status".
 
