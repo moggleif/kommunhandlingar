@@ -75,5 +75,5 @@ Regler för det här repot, utöver MADR:
 | 0049 | [Ett mötes filer av samma typ hos Episerver slås ihop till ett dokument, med delarnas adresser och sha256 i front matter](0049-ett-motes-filer-slas-ihop-till-ett-dokument.md) | accepted |
 | 0050 | [Målsidan visas som en tidslinje över alla mål och ett kort per mål, med sammandraget överst](0050-malsidan-visas-som-tidslinje-och-malkort.md) | accepted (0051 ger tidslinjen en rad per rubrik) |
 | 0051 | [Tidslinjen visar varje rubrik på en egen rad och markerar nya formuleringar](0051-tidslinjen-visar-varje-rubrik-och-nya-formuleringar.md) | accepted |
-| 0052 | [Nattkörningen öppnar sin PR med en egen token och mergas automatiskt när kontrollerna gått igenom](0052-nattkorningen-mergar-sin-pr-sjalv.md) | proposed |
+| 0052 | [Nattkörningen öppnar sin PR med en egen token och mergas automatiskt när kontrollerna gått igenom](0052-nattkorningen-mergar-sin-pr-sjalv.md) | accepted |
 | 0053 | [Tidigare sammanträden läses ur poolens mappar och skrivs i kalenderfilen, och listan döljer dem bakom en knapp](0053-tidigare-sammantraden-las-ur-poolens-mappar.md) | proposed |
