@@ -1,7 +1,8 @@
-// Krav: K22 i docs/02-KRAV.md, ADR-0032. Test: tests/test_kalender.py.
-// Visar en månad i taget med början på innevarande, döljer det som varit i
-// listan och de organ som valts bort, och fäller ut kvaliteten när en länk
-// till de osäkra datumen följs. Utan skriptet står allt på sidan.
+// Krav: K22 och K32 i docs/02-KRAV.md, ADR-0032 och ADR-0053.
+// Test: tests/test_kalender.py.
+// Visar en månad i taget med början på innevarande och döljer organ som
+// valts bort. Det som varit i listan döljs tills knappen trycks, och
+// kvaliteten fälls ut när en länk till de osäkra datumen följs. Utan skriptet står allt på sidan.
 (function () {
   var nu = new Date();
   var manad = nu.getFullYear() + "-" + tvasiffrigt(nu.getMonth() + 1);
@@ -9,6 +10,7 @@
   var manader = Array.prototype.slice.call(document.querySelectorAll(".manad"));
   var valda = {};
   var visad = 0;
+  var tidigare = false;
 
   function tvasiffrigt(n) {
     return (n < 10 ? "0" : "") + n;
@@ -21,7 +23,7 @@
   }
 
   function visaRad(rad) {
-    rad.hidden = !valda[rad.dataset.organ] || rad.dataset.datum < idag;
+    rad.hidden = !valda[rad.dataset.organ] || (!tidigare && rad.dataset.datum < idag);
     return !rad.hidden;
   }
 
@@ -54,6 +56,15 @@
     });
   }
 
+  function kopplaTidigare(knapp) {
+    knapp.addEventListener("click", function () {
+      tidigare = !tidigare;
+      knapp.setAttribute("aria-expanded", String(tidigare));
+      knapp.textContent = (tidigare ? "Dölj" : "Visa") + " tidigare sammanträden";
+      visaUrval();
+    });
+  }
+
   if (!manader.length) { return; }
   manader.forEach(function (m, i) { if (m.dataset.manad <= manad) { visad = i; } });
   document.querySelectorAll(".urval input").forEach(kopplaUrval);
@@ -61,6 +72,8 @@
   document.querySelectorAll('a[href="#osakra"]').forEach(function (lank) {
     lank.addEventListener("click", oppnaKvalitet);
   });
+  kopplaTidigare(document.querySelector(".tidigare button"));
+  document.querySelector(".tidigare").hidden = false;
   document.querySelector(".blad").hidden = false;
   visaManad();
   visaUrval();
