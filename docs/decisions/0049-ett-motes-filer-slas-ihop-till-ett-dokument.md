@@ -42,11 +42,13 @@ Hur blir ett möte som består av många filer ett dokument i poolen?
 Valt: A, eftersom konverteringen, sidnumren, tabellerna och kvaliteten
 då fungerar som för vilket dokument som helst.
 
-* **Upptäckten.** Ett organs filer i en Episerver-källa med samma datum
-  och typ blir en kandidat i delar. Delarna ordnas efter källnyckeln, där
-  en följd av siffror jämförs som ett tal. Källnyckeln är mötets och
-  typens, `episerver:<organ>/<datum>/<typ>`, så att den står kvar när en
-  del till hittas. En ensam fil är som förut.
+* **Upptäckten.** Ett organs filer i samma mapp i en Episerver-källa med
+  samma datum och typ blir en kandidat i delar. Mappen hör till gruppen,
+  eftersom nedlagda nämnder som fanns samtidigt läggs under samma organ
+  och har var sin mapp. Delarna ordnas efter sökvägen, där en följd av
+  siffror jämförs som ett tal. Källnyckeln är mappens, mötets och typens,
+  `episerver:<mapp><datum>/<typ>`, så att den inte beror på vilken del som
+  kom först. En ensam fil är som förut.
 * **Hämtningen.** Delarna hämtas en i taget och slås ihop med pypdfium2,
   som redan finns i poolen. En kapad del eller en del som inte går att
   hämta gör hela dokumentet `ej-hamtad`, och nästa körning försöker
@@ -77,17 +79,27 @@ Det ersätter konsekvensen om handlingar per ärende i ADR-0039.
   ändå kvar.
 * Dåligt, eftersom en del som alltid är kapad gör hela mötet `ej-hamtad`
   och hämtas om varje natt.
-* Dåligt, eftersom två filer för samma möte och typ som inte hör ihop,
-  till exempel två protokoll från två sammanträden samma dag, slås ihop.
-  Episerver skiljer inte sådana sammanträden åt i sökvägen.
+* Dåligt, eftersom två filer i samma mapp för samma möte och typ som inte
+  hör ihop, till exempel två protokoll från två sammanträden samma dag,
+  slås ihop. Episerver skiljer inte sådana sammanträden åt i sökvägen.
+* Dåligt, eftersom en fil som innehåller de andra, till exempel en
+  kallelse med alla handlingar, slås ihop med dem, så att texten står två
+  gånger.
+* Dåligt, eftersom ett möte som finns i båda generationerna blir två
+  dokument, som i ADR-0039.
+* Dåligt, eftersom en del som arkivet får senare inte hämtas när
+  dokumentet redan är fullständigt: arkivet fyller bara luckor. Webbplatsen
+  finns inte kvar, så arkivet får sällan nya kopior.
 
 ### Confirmation
 
 `tests/test_sammanslagning.py` prövar att filerna blir en kandidat i
-rätt ordning, att delarna blir ett dokument med listorna i front matter,
-att en kapad del gör hela dokumentet `ej-hamtad`, att en del som inte går
-att öppna märks, och att ett sådant försök tas över av en annan
-plattform.
+rätt ordning och att två mappar inte slås ihop, att delarna blir ett
+dokument med listorna i front matter, att en kapad del eller en del som
+inte går att hämta gör hela dokumentet `ej-hamtad`, att en del som inte
+går att öppna märks, och att kvaliteten avgör mot en annan plattform åt
+båda hållen (ADR-0048). `tests/test_figurer.py` prövar att delarna slås
+ihop och prövas för tolkningen.
 
 ## Pros and Cons of the Options
 

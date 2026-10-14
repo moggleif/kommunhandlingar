@@ -5,8 +5,10 @@ Organens mappar i Episerver-generationerna ur Internet Archive. Varje PDF
 under en mapp är en fil, också när arkivet har den under http och https,
 med och utan www; filen får arkivets största kopia och vid lika den äldsta.
 En mapp som arkivet inte svarar för hoppas över och returneras som en
-notering. Ett mötes filer av samma typ, till exempel en per ärende, blir
-en kandidat i delar, i filnamnens ordning med talen som tal.
+notering. Ett mötes filer av samma typ i samma mapp, till exempel en per
+ärende, blir en kandidat i delar, i sökvägarnas ordning med talen som tal.
+Mappen hör till gruppen, så att två nämnder som lagts under samma organ
+inte slås ihop när de möttes samma dag.
 """
 
 import re
@@ -37,18 +39,20 @@ def upptack(
 def moten(kandidater: list[Kandidat]) -> list[Kandidat]:
     grupper: dict[tuple, list[Kandidat]] = {}
     for k in kandidater:
-        grupper.setdefault((k.organ, k.datum, k.typ), []).append(k)
+        grupper.setdefault((k.organ, k.kalla, k.datum, k.typ), []).append(k)
     return [
         filer[0] if len(filer) == 1 else i_delar(filer) for filer in grupper.values()
     ]
 
 
 def i_delar(filer: list[Kandidat]) -> Kandidat:
-    """Nyckeln är mötets och typens, så att den står kvar när en del till
-    hittas. Ett blanksteg i en adress kodas, så att listan går att läsa."""
-    filer = sorted(filer, key=lambda k: naturlig(k.kallnyckel))
+    """Nyckeln är mappens, mötets och typens, så att den inte beror på
+    vilken del som kom först. Ett blanksteg i en adress kodas, så att listan
+    går att läsa."""
+    filer = sorted(filer, key=lambda k: naturlig(unquote(k.kallnyckel)))
     forsta = filer[0]
-    nyckel = f"episerver:{forsta.organ}/{forsta.datum.isoformat()}/{forsta.typ}"
+    mapp = quote(unquote(forsta.kalla), safe="/")
+    nyckel = f"episerver:{mapp}{forsta.datum.isoformat()}/{forsta.typ}"
     delar = tuple(k.url.replace(" ", "%20") for k in filer)
     return replace(forsta, kallnyckel=nyckel, delar=delar)
 

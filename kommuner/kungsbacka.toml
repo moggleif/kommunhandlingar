@@ -166,9 +166,10 @@ kf = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-m
 # Webbplatsens två Episerver-generationer, 2013–2022, som bara finns i
 # Internet Archive (ADR-0039). Bara organen i mappar läses ur arkivet. En
 # nedlagd nämnd läggs under den som tog över: Gymnasie och Vuxenutbildning
-# under ga, Äldreomsorg och Funktionsstöd under vo, Kultur och Turism och
-# Fritid och Folkhälsa under kultur. Ett mötes filer av samma typ blir ett
-# dokument (ADR-0049).
+# under ga, Äldreomsorg, dess arbetsutskott och Funktionsstöd under vo,
+# eftersom vo inte har något arbetsutskott, och Kultur och Turism och
+# Fritid och Folkhälsa under kultur. Ett mötes filer av samma typ i samma
+# mapp blir ett dokument (ADR-0049).
 [[kalla]]
 adapter = "episerver"
 manader = ["jan", "feb", "mar", "apr", "maj", "jun", "jul", "aug", "sep", "okt", "nov", "dec"]

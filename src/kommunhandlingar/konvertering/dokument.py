@@ -48,6 +48,11 @@ def versioner(resultat: Resultat) -> list[str]:
     return lasta + (ocr.verktyg() if kvaliteter & {"ocr", "ej-konverterad"} else [])
 
 
+def oppningsfel(fel: pdfium.PdfiumError) -> str:
+    losenord = fel.err_code == pdfium.raw.FPDF_ERR_PASSWORD
+    return "krypterad" if losenord else "trasig-pdf"
+
+
 def konvertera(pdf: Path) -> Resultat:
     with pdf.open("rb") as fil:
         borjan = fil.read(1024)
@@ -56,8 +61,7 @@ def konvertera(pdf: Path) -> Resultat:
     try:
         sidor = las_sidor(pdf)
     except pdfium.PdfiumError as fel:
-        losenord = fel.err_code == pdfium.raw.FPDF_ERR_PASSWORD
-        return Resultat("ej-konverterad", "krypterad" if losenord else "trasig-pdf")
+        return Resultat("ej-konverterad", oppningsfel(fel))
     except Exception as fel:
         # pdfminer kastar godtyckliga undantag (TypeError, IndexError, …) för
         # trasiga filer. En fil får inte stoppa körningen; orsaken syns i loggen.

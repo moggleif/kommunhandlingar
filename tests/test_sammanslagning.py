@@ -31,12 +31,29 @@ class TestMotenIDelar(unittest.TestCase):
         kandidater, _, _ = upptack(kalla(), Klient({(MAPP, PDF): svar}, {}))
         handlingar = next(k for k in kandidater if k.typ == "handlingar")
         self.assertEqual(len(kandidater), 2)
-        self.assertEqual(handlingar.kallnyckel, "episerver:bun/2014-02-19/handlingar")
+        self.assertEqual(
+            handlingar.kallnyckel,
+            "episerver:exempelby.se/Global/M%C3%B6ten/Barn%20och%20ungdom/"
+            "2014-02-19/handlingar",
+        )
         self.assertEqual(handlingar.datum, date(2014, 2, 19))
         self.assertEqual(
             [d.rsplit("/", 1)[1] for d in handlingar.delar],
             ["H%20140219%20del%202.pdf", "H%20140219%20del%2010.pdf"],
         )
+
+    def test_tva_mappar_under_samma_organ_slas_inte_ihop(self):
+        andra = "exempelby.se/Global/Möten/Fritid/"
+        fil = "Handlingar/2014/H%20140219.pdf"
+        klient = Klient(
+            {
+                (MAPP, PDF): [["20140703000000", f"{G}/{fil}", "9"]],
+                (andra, PDF): [["20140703000000", f"http://{andra}{fil}", "9"]],
+            },
+            {},
+        )
+        kandidater, _, _ = upptack(kalla(mappar={"bun": [MAPP, andra]}), klient)
+        self.assertEqual([k.delar for k in kandidater], [(), ()])
 
     def test_en_ensam_fil_har_inga_delar(self):
         svar = [["20140703000000", f"{G}/Protokoll/2014/Protokoll%20140219.pdf", "9"]]
@@ -69,6 +86,11 @@ class TestHamtningIDelar(Arkivbas):
         self.assertEqual((falt["kvalitet"], falt["fel"]), ("ej-hamtad", "kapad"))
         self.assertEqual(frontmatter.lista(falt["kalla_url"]), [W1, W2])
 
+    def test_en_del_som_inte_gar_att_hamta_gor_hela_dokumentet_ej_hamtat(self):
+        self.klient.filer |= {W1: "skarvar.pdf", W2: "fel:http-404"}
+        self.assertEqual(self.kor(i_delar(W1, W2)), ["ej hämtad (http-404)"])
+        self.assertEqual(self.falt()["kvalitet"], "ej-hamtad")
+
     def test_en_del_som_inte_gar_att_oppna_markerar_dokumentet(self):
         self.klient.filer |= {W1: "skarvar.pdf", W2: "krypterad.pdf"}
         self.kor(i_delar(W1, W2))
@@ -83,3 +105,20 @@ class TestHamtningIDelar(Arkivbas):
         self.kor(i_delar(W1, W2))
         self.assertEqual(self.kor(kandidat("s:1", W3)), ["konverterad"])
         self.assertEqual(self.falt()["kallnyckel"], "s:1")
+
+    def test_delar_med_hogre_kvalitet_tar_platsen(self):
+        self.klient.filer |= {W3: "begransad.pdf", W1: "skarvar.pdf", W2: "delade.pdf"}
+        self.kor(kandidat("s:1", W3))
+        self.assertEqual(self.kor(i_delar(W1, W2)), ["konverterad"])
+        falt = self.falt()
+        self.assertEqual(frontmatter.lista(falt["kalla_url"]), [W1, W2])
+        self.assertEqual(frontmatter.lista(falt["tidigare_kallnycklar"]), ["s:1"])
+
+    def test_en_fil_med_hogre_kvalitet_tar_platsen_fran_delar(self):
+        self.klient.filer |= {W1: "begransad.pdf", W2: "begransad.pdf"}
+        self.klient.filer |= {W3: "skarvar.pdf"}
+        self.kor(i_delar(W1, W2))
+        self.assertEqual(self.kor(kandidat("s:1", W3)), ["konverterad"])
+        falt = self.falt()
+        self.assertEqual((falt["kalla_url"], len(falt["sha256"])), (W3, 64))
+        self.assertEqual(frontmatter.lista(falt["tidigare_kallnycklar"]), ["e:mote"])

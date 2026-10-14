@@ -16,23 +16,27 @@ import pypdfium2 as pdfium
 
 from kommunhandlingar.adaptrar import wayback
 from kommunhandlingar.fel import Hamtfel
+from kommunhandlingar.konvertering.dokument import oppningsfel
 
 
 @dataclass(frozen=True)
 class Original:
     sha256: str | list[str]
     bytes: int | list[int]
+    pdf: Path
     fel: str | None = None
 
 
 def hamta(klient, adresser: list[str], pdf: Path, arkiv: bool) -> Original:
     if len(adresser) == 1:
-        return Original(*hamta_del(klient, adresser[0], pdf, arkiv))
+        sha256, storlek = hamta_del(klient, adresser[0], pdf, arkiv)
+        return Original(sha256, storlek, pdf)
     delar = [pdf.with_name(f"del-{nr}.pdf") for nr in range(len(adresser))]
     par = zip(adresser, delar, strict=True)
     hamtade = [hamta_del(klient, adress, del_, arkiv) for adress, del_ in par]
     sha256 = [sha for sha, _ in hamtade]
-    return Original(sha256, [storlek for _, storlek in hamtade], sla_ihop(delar, pdf))
+    storlekar = [storlek for _, storlek in hamtade]
+    return Original(sha256, storlekar, pdf, sla_ihop(delar, pdf))
 
 
 def hamta_del(klient, adress: str, mal: Path, arkiv: bool) -> tuple[str, int]:
@@ -45,14 +49,13 @@ def hamta_del(klient, adress: str, mal: Path, arkiv: bool) -> tuple[str, int]:
 
 def sla_ihop(delar: list[Path], mal: Path) -> str | None:
     """Delarna i ordning till en PDF, eller orsaken till att en del inte
-    gick att öppna, som i konverteringen."""
+    gick att öppna."""
     hel = pdfium.PdfDocument.new()
     for del_ in delar:
         try:
             with pdfium.PdfDocument(del_) as dokument:
                 hel.import_pages(dokument)
         except pdfium.PdfiumError as fel:
-            losenord = fel.err_code == pdfium.raw.FPDF_ERR_PASSWORD
-            return "krypterad" if losenord else "trasig-pdf"
+            return oppningsfel(fel)
     hel.save(mal)
     return None

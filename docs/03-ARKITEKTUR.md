@@ -391,16 +391,17 @@ regex = '(?i)^protokoll/'
   sammanfattningen.
 - **Ett möte i flera filer**
   ([ADR-0049](decisions/0049-ett-motes-filer-slas-ihop-till-ett-dokument.md)).
-  Ett organs filer med samma datum och typ, till exempel handlingarna en
-  fil per ärende, blir en kandidat. Dess `delar` är filernas adresser i
-  ordningen efter källnyckeln, där en följd av siffror jämförs som ett
+  Ett organs filer i samma mapp med samma datum och typ, till exempel
+  handlingarna en fil per ärende, blir en kandidat. Filer i två mappar
+  under samma organ slås inte ihop. Kandidatens `delar` är filernas
+  adresser i sökvägarnas ordning, där en följd av siffror jämförs som ett
   tal (`del 2` före `del 10`), och ett blanksteg i en adress skrivs
-  `%20`. Källnyckeln är mötets och typens:
-  `episerver:<organ>/<datum>/<typ>`. Kandidatens `url`, `kalla` och
+  `%20`. Källnyckeln är mappens, mötets och typens:
+  `episerver:<mapp><datum>/<typ>`. Kandidatens `url`, `kalla` och
   `filnamn` är den första delens. I steg 2 hämtas delarna en i taget och
   slås ihop till en PDF i den ordningen, som konverteras som ett
-  dokument. En kapad del gör hela dokumentet `ej-hamtad` med
-  `fel: kapad`. En del som inte går att öppna gör det `ej-konverterad`
+  dokument. En kapad del, eller en del som inte går att hämta, gör hela
+  dokumentet `ej-hamtad`. En del som inte går att öppna gör det `ej-konverterad`
   med orsaken i `fel` (`krypterad` eller `trasig-pdf`).
 
 `docs/kallor/<kommun>.md` beskriver hur kommunen publicerar, vad som är

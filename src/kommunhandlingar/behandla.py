@@ -80,7 +80,7 @@ def behandla(steg: Steg2, kandidat: Kandidat) -> str:
             hamtat = original.hamta(steg.klient, kandidat.adresser(), pdf, steg.arkiv)
         except Hamtfel as fel:
             return misslyckad(steg, dokument, fel.orsak, hamtad)
-        return hamtad_fil(steg, dokument, pdf, (hamtat, hamtad))
+        return hamtad_fil(steg, dokument, hamtat, hamtad)
 
 
 def motstandare_for(steg: Steg2, kandidat: Kandidat) -> PurePosixPath | None:
@@ -143,8 +143,9 @@ def misslyckad(steg: Steg2, dokument: Dokument, orsak: str, hamtad: datetime) ->
     return f"ej hämtad ({orsak})"
 
 
-def hamtad_fil(steg: Steg2, dokument: Dokument, pdf: Path, hamtning: tuple) -> str:
-    hamtat, hamtad = hamtning
+def hamtad_fil(
+    steg: Steg2, dokument: Dokument, hamtat: original.Original, hamtad: datetime
+) -> str:
     gammal = dokument.befintlig
     samma_fil = gammal is not None and (gammal["kallnyckel"], gammal["sha256"]) == (
         dokument.kandidat.kallnyckel,
@@ -152,7 +153,9 @@ def hamtad_fil(steg: Steg2, dokument: Dokument, pdf: Path, hamtning: tuple) -> s
     )
     if samma_fil and aktuell(steg, gammal):
         return ny_adress(steg, dokument)
-    resultat = Resultat("ej-konverterad", hamtat.fel) if hamtat.fel else konvertera(pdf)
+    resultat = (
+        Resultat("ej-konverterad", hamtat.fel) if hamtat.fel else konvertera(hamtat.pdf)
+    )
     if steg.arkiv and forlorar(gammal, dokument.kandidat, resultat.kvalitet):
         return behall(steg, dokument)
     falt = grundfalt(steg, dokument) | kvalitetsfalt(steg, resultat)

@@ -37,8 +37,9 @@ def ingen_lucka(pool: Pool, kommun: str, kandidat: Kandidat, gammal) -> bool:
 
 
 def levande(falt: dict[str, str] | None) -> bool:
-    adress = frontmatter.adresser(falt["kalla_url"])[0] if falt else ""
-    return falt is not None and not wayback.ar_kopia(adress)
+    if falt is None:
+        return False
+    return not wayback.ar_kopia(frontmatter.adresser(falt["kalla_url"])[0])
 
 
 def plattform(kallnyckel: str) -> str:

@@ -949,11 +949,14 @@ Issue: [#159](https://github.com/moggleif/kommunhandlingar/issues/159).
 Hur och varför står i
 [ADR-0049](decisions/0049-ett-motes-filer-slas-ihop-till-ett-dokument.md).
 
-- **Givet** flera filer i en Episerver-källa för samma organ, datum och
-  typ, till exempel handlingarna en fil per ärende
+- **Givet** flera filer i samma mapp i en Episerver-källa för samma
+  organ, datum och typ, till exempel handlingarna en fil per ärende
 - **När** arkivet upptäcks
-- **Så** blir de en kandidat i delar, i filnamnens ordning med talen som
-  tal, med mötets och typens källnyckel.
+- **Så** blir de en kandidat i delar, i sökvägarnas ordning med talen som
+  tal, med mappens, mötets och typens källnyckel.
+- **Givet** filer för samma organ, datum och typ i två mappar
+- **När** arkivet upptäcks
+- **Så** slås de inte ihop.
 - **Givet** en kandidat i delar
 - **När** den hämtas och konverteras
 - **Så** blir den ett dokument, med alla delarnas sidor i ordning, och
