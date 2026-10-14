@@ -52,7 +52,7 @@ Regler för det här repot, utöver MADR:
 | 0023 | [Webbplatsen renderar poolens dokument med markdown-it-py, en sida per dokument och en per organ](0023-dokumenten-pa-webbplatsen-med-markdown-it-py.md) | accepted |
 | 0024 | [En tabell som fortsätter på nästa sida slås ihop vid konverteringen när ingenting står emellan, och filnamnet anger sidorna](0024-tabeller-over-flera-sidor-slas-ihop.md) | accepted |
 | 0025 | [Konverteringen mäts mot ett facit för utdrag ur riktiga handlingar, och måtten för varje version låses i en fil som testet prövar](0025-facit-for-konverteringen.md) | accepted |
-| 0027 | [Arkivet slås på per organ, med en lista över organen i källans `wayback`](0027-arkivet-slas-pa-per-organ.md) | accepted |
+| 0027 | [Arkivet slås på per organ, med en lista över organen i källans `wayback`](0027-arkivet-slas-pa-per-organ.md) | accepted (0047 läser alla organ utan att vänta på konverteringen) |
 | 0028 | [En tabell med linjer och flera tal i en cell delas efter linjerna i andra rader och efter textraderna](0028-tabeller-med-linjer-delas-efter-linjer-och-textrader.md) | accepted |
 | 0029 | [Tal i linje utan lodrät linje emellan blir kolumner i en tabell med linjer](0029-tal-i-linje-utan-lodrat-linje-blir-kolumner.md) | accepted |
 | 0030 | [En etikett som fortsätter på nästa rad gör en tabell som delats i rader osäker](0030-en-ombruten-etikett-gor-tabellen-osaker.md) | accepted |
@@ -70,4 +70,5 @@ Regler för det här repot, utöver MADR:
 | 0044 | [Nämndens mål och direktiv läses ur dokumenten av AI-agenten, skrivs i en CSV per kommun med sidan som källa, och bygget prövar att texten står där](0044-namndens-mal-och-direktiv-las-ur-dokumenten-och-skrivs-for-hand.md) | accepted (0045 grupperar omdöpta mål, låter protokollet gå före och visar status som ikoner; 0050 ersätter sidans upplägg och skript) |
 | 0045 | [Omdöpta mål grupperas i målfilen med tolkade kopplingar märkta, protokollet går före handlingarna, status blir ikoner, och sidan räknar antal per år](0045-omdopta-mal-grupperas-protokollet-gar-fore-och-status-blir-ikoner.md) | accepted |
 | 0046 | [Nämndens uppföljningar och dragningar om målen läses ur protokollen av AI-agenten, skrivs i en CSV per kommun och räknas per år på målsidan](0046-uppfoljningar-i-namnden-las-ur-protokollen-och-skrivs-for-hand.md) | accepted |
+| 0047 | [Alla organ läses ur arkivets Sitevision-kopior, utan att vänta på att konverteringen blir färdig](0047-alla-organ-lases-ur-arkivet.md) | accepted |
 | 0050 | [Målsidan visas som en tidslinje över alla mål och ett kort per mål, med sammandraget överst](0050-malsidan-visas-som-tidslinje-och-malkort.md) | accepted |
