@@ -9,6 +9,7 @@ from dataclasses import replace
 from kommunhandlingar.webbplats.mall import Mall
 from kommunhandlingar.webbplats.malsida import malsida
 from kommunhandlingar.webbplats.maltidslinje import arets
+from kommunhandlingar.webbplats.mandatperiod import start
 from kommunhandlingar.webbplats.uppfoljningar import Uppfoljning
 from tests.test_mal import BUDGET, RADER, pool
 from tests.test_webbplats import REPO, TID, exempelby, protokoll
@@ -91,6 +92,21 @@ class TestTidslinjen(unittest.TestCase):
                 Mall([exempelby()], REPO, TID), exempelby(), malen, protokoll(2022)
             )
         self.assertNotIn('class="ny-formulering" role="img"', html)
+
+    def test_mandatperioderna_skuggas_varannan(self):
+        html = sida()
+        self.assertIn(
+            '<colgroup><col class="rubrik"><col span="1">'
+            '<col span="4" class="skuggad"></colgroup>',
+            html,
+        )
+        self.assertIn(
+            '<th scope="colgroup" colspan="1">Mandatperiod 2019–2022</th>'
+            '<th scope="colgroup" colspan="4">Mandatperiod 2023–2026</th>',
+            html,
+        )
+        self.assertEqual(start(2018), 2015)
+        self.assertEqual(start(2027), 2027)
 
     def test_ar_utan_dokument_och_mal_ar_en_lucka(self):
         html = sida()
