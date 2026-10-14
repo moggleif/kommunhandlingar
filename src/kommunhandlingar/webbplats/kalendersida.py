@@ -1,4 +1,5 @@
-"""Krav: K22 i docs/02-KRAV.md, ADR-0032. Test: tests/test_kalender.py.
+"""Krav: K22 och K32 i docs/02-KRAV.md, ADR-0032 och ADR-0053.
+Test: tests/test_kalender.py.
 
 Kalendersidan: en hopfälld del om kvaliteten med de osäkra datumen och
 källorna per organ och år, urvalet av organ, en tabell per månad och
@@ -21,12 +22,16 @@ SKRIPT = Path(__file__).with_name("kalender.js")
 ADR = "/blob/main/docs/decisions/0032-kalendern-las-ur-besluten-och-skrivs-for-hand.md"
 INLEDNING = (
     "<p>Organens sammanträden månad för månad och som lista från idag. "
-    "Välj vilka organ som visas.</p>"
+    "Tidigare sammanträden, från 2024, finns bakåt i månadsvyn och under en "
+    "knapp i listan. Välj vilka organ som visas.</p>"
 )
 METOD = (
     "<p>Datumen är lästa ur organens mötessidor och ur deras beslut om "
     "sammanträdesdagar; källorna står per organ och år under rubriken Källor "
-    "nedan. Inställda möten och planeringsdagar är inte med. Tiden står där "
+    "nedan. Tidigare år är de sammanträden som har dokument i poolen, med "
+    "protokollet som källa; ett sammanträde utan dokument i poolen saknas, "
+    "och ett utan protokoll är märkt osäkert. Inställda möten och "
+    "planeringsdagar är inte med. Tiden står där "
     "källan anger den, och platsen visas när man håller över rutan i "
     "månadsvyn. Ett datum är osäkert när källan är svår att läsa, eller när "
     "den anger en veckodag som datumet inte stämmer med. Ett osäkert datum "
@@ -93,7 +98,9 @@ def kallor(sammantraden: list[Sammantrade], namn: dict[str, str]) -> str:
     ar = sorted({a for _, a in per_organ_ar})
     rader = "".join(
         f'<tr><th scope="row">{escape(namn[organ])}</th>'
-        + "".join(f"<td>{kallcell(per_organ_ar.get((organ, a), {}))}</td>" for a in ar)
+        + "".join(
+            f"<td>{kallcell(organ, per_organ_ar.get((organ, a), {}))}</td>" for a in ar
+        )
         + "</tr>"
         for organ in namn
         if organ in {o for o, _ in per_organ_ar}
@@ -109,7 +116,14 @@ def tabell(rubriker: list, rader: str) -> str:
     )
 
 
-def kallcell(kallor_i_cellen: dict[str, None]) -> str:
+# Tidigare år har ett dokument i poolen per sammanträde (ADR-0053); de
+# räknas i stället för att länkas ett och ett.
+def kallcell(organ: str, kallor_i_cellen: dict[str, None]) -> str:
+    adresser = [k for k in kallor_i_cellen if k.startswith("https://")]
+    i_poolen = [k for k in kallor_i_cellen if not k.startswith("https://")]
+    if len(i_poolen) > 1:
+        antal = f'<a href="{organ}.html">{len(i_poolen)} dokument i poolen</a>'
+        return "<br>".join([*map(kallank, adresser), antal])
     return "<br>".join(map(kallank, kallor_i_cellen))
 
 

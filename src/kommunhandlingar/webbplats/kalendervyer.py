@@ -1,7 +1,9 @@
-"""Krav: K22 i docs/02-KRAV.md, ADR-0032. Test: tests/test_kalender.py.
+"""Krav: K22 och K32 i docs/02-KRAV.md, ADR-0032 och ADR-0053.
+Test: tests/test_kalender.py.
 
 Kalenderns två vyer: en tabell per månad, måndag först, med en ruta per
-sammanträde, och en lista med en tabell per månad.
+sammanträde, och en lista med en tabell per månad och en knapp för det som
+varit.
 """
 
 import calendar
@@ -92,7 +94,11 @@ def lista(sammantraden: list[Sammantrade], namn: dict[str, str]) -> str:
         "</section>"
         for (ar, manad), moten in per_manad(sammantraden).items()
     )
-    return f"<h2>Lista</h2>{tabeller}"
+    knapp = (
+        '<p class="tidigare" hidden><button type="button">'
+        "Visa tidigare sammanträden</button></p>"
+    )
+    return f"<h2>Lista</h2>{knapp}{tabeller}"
 
 
 def listrad(s: Sammantrade, namn: dict[str, str]) -> str:
