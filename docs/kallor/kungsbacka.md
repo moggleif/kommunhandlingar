@@ -188,6 +188,13 @@ en förståelse för helheten", och ingen i poolen beslutar dem. Kända fel och 
 - Individ & Familjeomsorgs tabell skriver några dagar med siffrorna isär
   ("1 5 april"); första mötet 2027 är uttryckligen en måndag.
 
+Sammanträdena 2024–2025 är poolens mappar (K32,
+[ADR-0053](../decisions/0053-tidigare-sammantraden-las-ur-poolens-mappar.md)).
+Alla har protokoll utom kommunstyrelsens arbetsutskott 2025-09-09, som
+bara har kallelsen. Två protokoll är källa utan text: Valnämnden
+2024-02-05 (en Word-fil, inte konverterad) och Vård & Omsorg 2025-05-15
+(inte hämtad); protokollet finns ändå hos kommunen, så sammanträdet hölls.
+
 ### Nämndernas mål och direktiv
 
 Målfilen (K26,
@@ -308,7 +315,11 @@ som är påslagna står i kommunfilen
 Episerver-generationerna läses med adaptern `episerver` ur organets mappar
 i kommunfilen
 ([ADR-0039](../decisions/0039-episerver-ur-arkivet-med-mappar-och-monster.md));
-bara de organ som har mappar där hämtas.
+bara de organ som har mappar där hämtas. Ett mötes filer av samma typ, som
+handlingarna per ärende, blir ett dokument
+([ADR-0049](../decisions/0049-ett-motes-filer-slas-ihop-till-ett-dokument.md)).
+En nedlagd nämnds mapp ligger under den nämnd som tog över; vilken står i
+kommunfilen.
 
 Organ och typ står i sökvägen i de två Episerver-generationerna, och i
 filnamnet hos Sitevision. Organen hette annorlunda förr, och några finns

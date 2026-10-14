@@ -13,7 +13,7 @@ kommuner/<kommun>.toml
         │
         ▼
 1. upptäck   adaptrar per plattform  →  kandidatlista: organ, datum, typ, URL,
-                                         källa, källnyckel, filnamn
+                                         källa, källnyckel, filnamn, delar
         │
         ▼
 2. hämta och konvertera, ett dokument i taget
@@ -200,6 +200,7 @@ src/kommunhandlingar/
   hamtning/        artig HTTP-klient: robots.txt, intervall och nya försök
   hamta.py         steg 2: tar kandidatlistan in i poolen, ett dokument i taget
   behandla.py      steg 2 för en kandidat: hoppa över, hämta, konvertera, skriva
+  original.py      originalet hämtas, ett dokument i delar slås ihop (ADR-0049)
   pool.py          poolens front matter, uppslagen på källnyckel och sökväg
   plats.py         sökvägen och namnet för ett nytt dokument (ADR-0003)
   skrivning.py     `.md` och tabellkatalog, tabellerna först och `.md` sist
@@ -393,6 +394,20 @@ regex = '(?i)^protokoll/'
 - **Ingen kandidat** blir det av en fil som inget typ- eller datummönster
   matchar, eller vars datum inte finns, utan rättelse. Den nämns i
   sammanfattningen.
+- **Ett möte i flera filer**
+  ([ADR-0049](decisions/0049-ett-motes-filer-slas-ihop-till-ett-dokument.md)).
+  Ett organs filer i samma mapp med samma datum och typ, till exempel
+  handlingarna en fil per ärende, blir en kandidat. Filer i två mappar
+  under samma organ slås inte ihop. Kandidatens `delar` är filernas
+  adresser i sökvägarnas ordning, där en följd av siffror jämförs som ett
+  tal (`del 2` före `del 10`), och ett blanksteg i en adress skrivs
+  `%20`. Källnyckeln är mappens, mötets och typens:
+  `episerver:<mapp><datum>/<typ>`. Kandidatens `url`, `kalla` och
+  `filnamn` är den första delens. I steg 2 hämtas delarna en i taget och
+  slås ihop till en PDF i den ordningen, som konverteras som ett
+  dokument. En kapad del, eller en del som inte går att hämta, gör hela
+  dokumentet `ej-hamtad`. En del som inte går att öppna gör det `ej-konverterad`
+  med orsaken i `fel` (`krypterad` eller `trasig-pdf`).
 
 `docs/kallor/<kommun>.md` beskriver hur kommunen publicerar, vad som är
 belagt och hur, vad som är att verifiera och kända luckor. Organ,
@@ -480,7 +495,9 @@ upptäckten avbryts den, och listan blir tom.
   över och står i sammanfattningen efter
   "Arkivet:". Utan fillistan blir det inga kandidater alls.
 - **Episerver-mapparna.** CDX-tjänsten ger, med `matchType=prefix`, alla
-  PDF:er under varje mapp. Varje fil får sin största kopia och vid lika
+  PDF:er under varje mapp, men också under syskonmappar vars namn börjar
+  likadant (`Kommunstyrelsens arbetsutskott/` för `Kommunstyrelsen/`).
+  Bara filer vars avkodade sökväg börjar med mappen läses. Varje fil får sin största kopia och vid lika
   den äldsta ([Episerver](#episerver)). Kandidatens `kalla` är mappen. En
   mapp som arkivet inte svarar för står i sammanfattningen.
 
@@ -560,9 +577,9 @@ inom hakparenteser på samma rad, som i exemplet.
 | `kallnyckel`           | Adapterns källnyckel (ADR-0003).                             | aldrig |
 | `tidigare_kallnycklar` | Källnycklar dokumentet haft tidigare (K9); `[]` när inga.     | aldrig |
 | `arenden`              | Diarienummer; `[]` när dokumentet inte rör något ärende.      | det inte är känt |
-| `kalla_url`            | Adressen originalet hämtades från, eller försöktes hämtas från. | aldrig |
-| `sha256`               | Originalets sha256.                                          | `ej-hamtad` |
-| `bytes`                | Originalets storlek i byte.                                  | `ej-hamtad` |
+| `kalla_url`            | Adressen originalet hämtades från, eller försöktes hämtas från; för ett dokument i delar en lista med delarnas adresser i ordning (ADR-0049). | aldrig |
+| `sha256`               | Originalets sha256; för ett dokument i delar en lista, en per del. | `ej-hamtad` |
+| `bytes`                | Originalets storlek i byte; för ett dokument i delar en lista, en per del. | `ej-hamtad` |
 | `sidor`                | Originalets antal sidor.                                     | `ej-hamtad`, eller filen gick inte att öppna |
 | `hamtad`               | Tiden för hämtningen; för `ej-hamtad` det första misslyckade försöket. | aldrig |
 | `konverterad`          | Tiden för konverteringen.                                    | `ej-hamtad` |
@@ -1416,6 +1433,10 @@ En kommun med en fil `kalender/<kommun>.csv` får sidan
 - **Källorna** läses av AI-agenten: för innevarande år organets mötessida,
   för kommande år organets senaste beslut om sammanträdesdagar, eller
   förslaget som beslutet antog när beslutet bara finns inskannat (OCR).
+  Tidigare år, från 2024, är ett sammanträde per mapp i poolen, med
+  protokollet som källa, eller kallelsen och märkt osäkert när
+  protokollet saknas (K32,
+  [ADR-0053](decisions/0053-tidigare-sammantraden-las-ur-poolens-mappar.md)).
   Ett inställt möte står inte med, och inte heller planeringsdagar. Ett
   datum märks osäkert när källan är svår att läsa, eller när den anger en
   veckodag, uttryckligen eller genom att märka undantagen, och datumet
@@ -1434,7 +1455,9 @@ En kommun med en fil `kalender/<kommun>.csv` får sidan
   antalet osäkra datum av alla i rubriken, hur datumen tas fram, en
   tabell med varje osäkert sammanträde, skälet och källan, och under
   rubriken Källor en tabell med en rad per organ och en kolumn per år,
-  där varje cell länkar organets källor det året. Sedan kommer ett
+  där varje cell länkar organets källor det året; sammanträden vars källa
+  är ett dokument i deras egen mapp räknas, och antalet länkar till
+  organets sida. Sedan kommer ett
   urval med en kryssruta per organ i kalendern, i kommunfilens ordning, och
   två vyer: en tabell per månad från den första till den sista, också
   månader utan sammanträden, med en ruta per sammanträde på sin dag, och en lista med en
@@ -1447,7 +1470,8 @@ En kommun med en fil `kalender/<kommun>.csv` får sidan
   ordning, och ett utskott en ljusare nyans av sin grupps ton.
 - **Skriptet** står i sidan. Det visar en månad i taget med knappar
   bakåt och framåt, med början på innevarande månad, döljer sammanträden
-  före dagens datum i listan och döljer organ som valts bort i båda
+  före dagens datum i listan tills knappen "Visa tidigare sammanträden"
+  trycks, och döljer organ som valts bort i båda
   vyerna. Följs länken till de osäkra fäller skriptet ut delen om
   kvaliteten. Utan skriptet visas alla månader och alla sammanträden.
 

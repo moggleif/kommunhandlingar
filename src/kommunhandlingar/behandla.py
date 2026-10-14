@@ -11,19 +11,18 @@ påslagen räknas ett dokument från en annan version av poolen inte som
 befintligt. Skrivningen avbryts aldrig av tidsgränsen (K11).
 """
 
-import hashlib
 import tempfile
 from collections.abc import Callable
 from dataclasses import dataclass, replace
 from datetime import datetime
 from pathlib import Path, PurePosixPath
 
-from kommunhandlingar import frontmatter, skrivning
-from kommunhandlingar.adaptrar import wayback
+from kommunhandlingar import frontmatter, original, skrivning
 from kommunhandlingar.arkivluckor import (
     forlorar,
     hel,
     ingen_lucka,
+    levande,
     motstandare,
     tas_over,
 )
@@ -78,12 +77,10 @@ def behandla(steg: Steg2, kandidat: Kandidat) -> str:
         pdf = Path(katalog) / "original.pdf"
         hamtad = steg.tid()
         try:
-            steg.klient.fil(kandidat.url, pdf)
+            hamtat = original.hamta(steg.klient, kandidat.adresser(), pdf, steg.arkiv)
         except Hamtfel as fel:
             return misslyckad(steg, dokument, fel.orsak, hamtad)
-        if steg.arkiv and wayback.kapad(pdf):
-            return misslyckad(steg, dokument, "kapad", hamtad)
-        return hamtad_fil(steg, dokument, pdf, hamtad)
+        return hamtad_fil(steg, dokument, hamtat, hamtad)
 
 
 def motstandare_for(steg: Steg2, kandidat: Kandidat) -> PurePosixPath | None:
@@ -93,7 +90,7 @@ def motstandare_for(steg: Steg2, kandidat: Kandidat) -> PurePosixPath | None:
 
 
 def samma_kalla(falt: dict[str, str], kandidat: Kandidat) -> bool:
-    return falt["kalla_url"] == kandidat.url and hel(falt)
+    return falt["kalla_url"] == frontmatter.varde_av(kandidat.kalla_url()) and hel(falt)
 
 
 def aktuell(steg: Steg2, falt: dict[str, str]) -> bool:
@@ -130,10 +127,10 @@ def misslyckad(steg: Steg2, dokument: Dokument, orsak: str, hamtad: datetime) ->
     gammal = dokument.befintlig
     if gammal and hel(gammal):
         return f"ej hämtad ({orsak}), fullständig .md orörd"
-    adress = dokument.kandidat.url
+    adress = frontmatter.varde_av(dokument.kandidat.kalla_url())
     if gammal and (gammal["fel"], gammal["kalla_url"]) == (orsak, adress):
         return f"ej hämtad ({orsak}), oförändrad"
-    if steg.arkiv and gammal and not wayback.ar_kopia(gammal["kalla_url"]):
+    if steg.arkiv and gammal and levande(gammal):
         # Annars skriver den levande källan och arkivet om filen varannan gång.
         return f"ej hämtad ({orsak}), den levande källans försök orört"
     falt = grundfalt(steg, dokument) | {
@@ -146,20 +143,23 @@ def misslyckad(steg: Steg2, dokument: Dokument, orsak: str, hamtad: datetime) ->
     return f"ej hämtad ({orsak})"
 
 
-def hamtad_fil(steg: Steg2, dokument: Dokument, pdf: Path, hamtad: datetime) -> str:
-    sha256 = sha256_av(pdf)
+def hamtad_fil(
+    steg: Steg2, dokument: Dokument, hamtat: original.Original, hamtad: datetime
+) -> str:
     gammal = dokument.befintlig
     samma_fil = gammal is not None and (gammal["kallnyckel"], gammal["sha256"]) == (
         dokument.kandidat.kallnyckel,
-        sha256,
+        frontmatter.varde_av(hamtat.sha256),
     )
     if samma_fil and aktuell(steg, gammal):
         return ny_adress(steg, dokument)
-    resultat = konvertera(pdf)
+    resultat = (
+        Resultat("ej-konverterad", hamtat.fel) if hamtat.fel else konvertera(hamtat.pdf)
+    )
     if steg.arkiv and forlorar(gammal, dokument.kandidat, resultat.kvalitet):
         return behall(steg, dokument)
     falt = grundfalt(steg, dokument) | kvalitetsfalt(steg, resultat)
-    falt |= {"sha256": sha256, "bytes": pdf.stat().st_size}
+    falt |= {"sha256": hamtat.sha256, "bytes": hamtat.bytes}
     falt |= {"hamtad": hamtad.isoformat(), "konverterad": steg.tid().isoformat()}
     md = steg.data / dokument.sokvag
     text = frontmatter.skriv(falt)
@@ -168,11 +168,6 @@ def hamtad_fil(steg: Steg2, dokument: Dokument, pdf: Path, hamtad: datetime) -> 
         text += "\n" + skrivning.brodtext(resultat.sidor, katalog)
     spara(steg, dokument.sokvag, text, skrivning.tabellfiler(resultat.sidor or []))
     return "konverterad om" if samma_fil else "konverterad"
-
-
-def sha256_av(pdf: Path) -> str:
-    with pdf.open("rb") as fil:
-        return hashlib.file_digest(fil, "sha256").hexdigest()
 
 
 def kvalitetsfalt(steg: Steg2, resultat: Resultat) -> dict:
@@ -189,7 +184,7 @@ def kvalitetsfalt(steg: Steg2, resultat: Resultat) -> dict:
 
 
 def ny_adress(steg: Steg2, dokument: Dokument) -> str:
-    andra_falt(steg, dokument.sokvag, {"kalla_url": dokument.kandidat.url})
+    andra_falt(steg, dokument.sokvag, {"kalla_url": dokument.kandidat.kalla_url()})
     return "ny adress, samma innehåll"
 
 
@@ -219,7 +214,7 @@ def grundfalt(steg: Steg2, dokument: Dokument) -> dict:
             "kommun": steg.kommun,
             "kallnyckel": dokument.kandidat.kallnyckel,
             "tidigare_kallnycklar": tidigare(dokument),
-            "kalla_url": dokument.kandidat.url,
+            "kalla_url": dokument.kandidat.kalla_url(),
         }
     )
 

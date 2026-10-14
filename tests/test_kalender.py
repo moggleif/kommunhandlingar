@@ -25,6 +25,8 @@ REPO = "https://github.com/exempel/kommunhandlingar"
 TID = datetime(2026, 10, 7, 20, 15, tzinfo=UTC)
 RUBRIK = "organ,datum,tid,plats,kalla,osakert\n"
 PROTOKOLL = "fsn/2026/2026-09-17/protokoll.md"
+KALLELSE = "fsn/2026/2026-09-17/kallelse.md"
+NASTA = "fsn/2026/2026-09-24/protokoll.md"
 RADER = (
     f"fsn,2027-01-14,17:00,Stadshuset,{PROTOKOLL},\n"
     f"fsn-au,2027-01-14,,,{PROTOKOLL},\n"
@@ -47,8 +49,9 @@ def pool(rader: str = RADER, rubrik: str = RUBRIK):
     with tempfile.TemporaryDirectory() as tmp:
         fil, data = Path(tmp) / "exempelby.csv", Path(tmp) / "data"
         fil.write_text(rubrik + rader, encoding="utf-8")
-        (data / PROTOKOLL).parent.mkdir(parents=True)
-        (data / PROTOKOLL).write_text("---\n---\n", encoding="utf-8")
+        for dokument in (PROTOKOLL, KALLELSE, NASTA):
+            (data / dokument).parent.mkdir(parents=True, exist_ok=True)
+            (data / dokument).write_text("---\n---\n", encoding="utf-8")
         yield kalender.las(fil, kommun(), data)
 
 
@@ -130,7 +133,8 @@ class TestSidan(unittest.TestCase):
         self.assertIn("Kvalitet: 1 av 3 datum är osäkra", kvalitet)
         self.assertIn("<td>Källan säger lördag &lt;5 dec&gt;.</td>", kvalitet)
         self.assertIn("Datumen är lästa ur", kvalitet)
-        self.assertIn(">ADR-0032</a>", kvalitet)
+        self.assertIn(">ADR-0032</a> och <a", kvalitet)
+        self.assertIn("0053-tidigare-sammantraden-las-ur-poolens-mappar.md", kvalitet)
 
     def test_inga_osakra(self):
         with pool(f"fsn,2027-01-14,,,{PROTOKOLL},\n") as sammantraden:
@@ -161,6 +165,27 @@ class TestSidan(unittest.TestCase):
         self.assertEqual(html.split('id="kallor"')[1].count("protokoll.html"), 2)
         lista = self.html.split("<h2>Lista</h2>")[1].split("<script>")[0]
         self.assertNotIn("<a href", lista.replace('<a href="#osakra"', ""))
+
+    def test_sammantraden_med_egna_dokument_raknas(self):
+        rader = f"fsn,2026-09-17,,,{PROTOKOLL},\nfsn,2026-09-24,,,{NASTA},\n"
+        with pool(rader + f"fsn,2026-10-01,,,{KALLELSE},\n") as sammantraden:
+            html = kalendersida(Mall([kommun()], REPO, TID), kommun(), sammantraden)
+        kallor = html.split('id="kallor"')[1]
+        self.assertIn(
+            '<td><a href="fsn/2026/2026-09-17/kallelse.html">FSN 2026-09-17, '
+            'kallelse</a><br><a href="fsn.html">2 sammanträden i poolen</a></td>',
+            kallor,
+        )
+        self.assertNotIn("protokoll.html", kallor)
+
+    def test_knapp_for_tidigare_sammantraden_i_listan(self):
+        lista = self.html.split("<h2>Lista</h2>")[1]
+        self.assertTrue(
+            lista.startswith(
+                '<p class="tidigare" hidden><button type="button" '
+                'aria-expanded="false">Visa tidigare sammanträden</button></p>'
+            )
+        )
 
     def test_tid_i_listan_platsen_i_rutan(self):
         self.assertIn("<td>17:00</td></tr>", self.html)
@@ -212,4 +237,5 @@ class TestKungsbacka(unittest.TestCase):
         fil = ROT / "kalender" / "kungsbacka.csv"
         sammantraden = kalender.las(fil, kungsbacka, ROT / "data" / "kungsbacka")
         self.assertNotIn("revision", {s.organ for s in sammantraden})
+        self.assertEqual(min(s.datum for s in sammantraden).year, 2024)
         self.assertEqual(fil.read_bytes().count(b"\r"), 0)

@@ -5,20 +5,20 @@ Verktygen för den som tolkar figurerna (docs/03-ARKITEKTUR.md#tolkade-figurer):
 - `python -m kommunhandlingar.tolkning lista <data>` skriver arbetslistan,
   varje dokument med sidor i `figurer` som inte står i `tolkade`.
 - `python -m kommunhandlingar.tolkning rendera <md> <katalog>` hämtar
-  dokumentets original, prövar att sha256 stämmer med front matter och
-  sparar de otolkade figursidorna som PNG i katalogen. PDF:en raderas.
+  dokumentets original, i delar som i steg 2 (ADR-0049), prövar att sha256
+  stämmer med front matter och sparar de otolkade figursidorna som PNG i
+  katalogen. PDF:en raderas.
   Ett dokument utan otolkade sidor hämtas inte.
 """
 
 import argparse
-import hashlib
 import sys
 import tempfile
 from pathlib import Path
 
 import pypdfium2 as pdfium
 
-from kommunhandlingar import frontmatter
+from kommunhandlingar import frontmatter, original
 from kommunhandlingar.fel import Hamtfel
 from kommunhandlingar.hamtning import installningar
 from kommunhandlingar.hamtning.klient import Klient
@@ -51,8 +51,9 @@ def rendera(md: Path, katalog: Path, klient: Klient) -> list[Path]:
     katalog.mkdir(parents=True, exist_ok=True)
     with tempfile.TemporaryDirectory() as tillfallig:
         pdf = Path(tillfallig) / "original.pdf"
-        klient.fil(falt["kalla_url"], pdf)
-        if hashlib.sha256(pdf.read_bytes()).hexdigest() != falt["sha256"]:
+        adresser = frontmatter.adresser(falt["kalla_url"])
+        hamtat = original.hamta(klient, adresser, pdf, arkiv=False)
+        if frontmatter.varde_av(hamtat.sha256) != falt["sha256"]:
             raise AndratOriginal(f"{md}: originalet har ändrats sedan konverteringen")
         with pdfium.PdfDocument(pdf) as dokument:
             return [spara(dokument, nr, katalog) for nr in otolkade(falt)]

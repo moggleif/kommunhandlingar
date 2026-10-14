@@ -1,4 +1,5 @@
-"""Krav: K15, ADR-0017. Kod: src/kommunhandlingar/konvertering/figurer.py,
+"""Krav: K15 och K31, ADR-0017 och ADR-0049.
+Kod: src/kommunhandlingar/konvertering/figurer.py,
 src/kommunhandlingar/tolkning.py och skrivning.py.
 
 Sidan är 100 × 100 punkter, så att en andel av sidan är lika många
@@ -20,6 +21,7 @@ from kommunhandlingar.tolkning import AndratOriginal, arbetslista, rendera
 from tests.test_hamta import Klient
 
 PDF = Path(__file__).parent / "fixtures" / "pdf"
+DELAR = ("skarvar.pdf", "delade.pdf")
 
 
 def ruta(x0: float, top: float, x1: float, bottom: float, **mer) -> dict:
@@ -124,6 +126,18 @@ class TestVerktygen(unittest.TestCase):
         with self.assertRaises(AndratOriginal):
             rendera(self.md, self.rot, klient)
         self.assertEqual(list(self.rot.glob("*.png")), [])
+
+    def test_ett_dokument_i_delar_slas_ihop_och_varje_del_provas(self):
+        sha = [hashlib.sha256((PDF / f).read_bytes()).hexdigest() for f in DELAR]
+        lista = f"[{sha[0]}, {sha[1]}]"
+        self.skriv(kalla_url="[u1, u2]", sha256=lista, figurer="[2, 17]", tolkade="[2]")
+        klient = Klient()
+        klient.filer |= dict(zip(["u1", "u2"], DELAR, strict=True))
+        (png,) = rendera(self.md, self.rot, klient)
+        self.assertEqual((png.name, klient.anrop), ("17.png", ["u1", "u2"]))
+        klient.filer["u2"] = "begransad.pdf"
+        with self.assertRaises(AndratOriginal):
+            rendera(self.md, self.rot, klient)
 
     def test_en_ny_konvertering_tar_bort_tolkningarna(self):
         katalog = skrivning.tabellkatalog(self.md)
