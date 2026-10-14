@@ -72,4 +72,4 @@ Regler för det här repot, utöver MADR:
 | 0046 | [Nämndens uppföljningar och dragningar om målen läses ur protokollen av AI-agenten, skrivs i en CSV per kommun och räknas per år på målsidan](0046-uppfoljningar-i-namnden-las-ur-protokollen-och-skrivs-for-hand.md) | accepted |
 | 0047 | [Alla organ läses ur arkivets Sitevision-kopior, utan att vänta på att konverteringen blir färdig](0047-alla-organ-lases-ur-arkivet.md) | accepted |
 | 0050 | [Målsidan visas som en tidslinje över alla mål och ett kort per mål, med sammandraget överst](0050-malsidan-visas-som-tidslinje-och-malkort.md) | accepted (0051 ger tidslinjen en rad per rubrik) |
-| 0051 | [Tidslinjen visar varje rubrik på en egen rad och markerar nya formuleringar](0051-tidslinjen-visar-varje-rubrik-och-nya-formuleringar.md) | proposed |
+| 0051 | [Tidslinjen visar varje rubrik på en egen rad och markerar nya formuleringar](0051-tidslinjen-visar-varje-rubrik-och-nya-formuleringar.md) | accepted |
