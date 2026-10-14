@@ -864,8 +864,9 @@ och [Uppföljningar i nämnden](03-ARKITEKTUR.md#uppföljningar-i-nämnden).
 
 ## K29 — Målsidan som tidslinje och målkort
 
-Issue: [#151](https://github.com/moggleif/kommunhandlingar/issues/151) och
-[#156](https://github.com/moggleif/kommunhandlingar/issues/156).
+Issue: [#151](https://github.com/moggleif/kommunhandlingar/issues/151),
+[#156](https://github.com/moggleif/kommunhandlingar/issues/156) och
+[#169](https://github.com/moggleif/kommunhandlingar/issues/169).
 Bygger på K26, K27 och K28. Hur och varför står i
 [ADR-0050](decisions/0050-malsidan-visas-som-tidslinje-och-malkort.md),
 [ADR-0051](decisions/0051-tidslinjen-visar-varje-rubrik-och-nya-formuleringar.md)
@@ -882,7 +883,9 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
   sig, och en kolumn per år. Ett år med rubriken är en del av ett band med
   årets status som ikon: ett utfall går före en rapport, en prognos och
   beslutet, och ett år utan uppföljning har en punkt för beslutet. Rubriken
-  länkar till målets kort.
+  länkar till målets kort. Ovanför åren står kommunfullmäktiges
+  mandatperioder, 2019–2022, 2023–2026 och så vidare, och varannan period
+  är skuggad i hela tabellen.
 - **Givet** ett mål som bytt rubrik
 - **När** tidslinjen visas
 - **Så** har varje rubrik en egen rad, i den ordning de först står, och

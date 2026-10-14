@@ -11,6 +11,7 @@ from html import escape
 
 from kommunhandlingar.webbplats.mal import SLAG, Mal, jamforbar
 from kommunhandlingar.webbplats.malspar import arets, egenskaper
+from kommunhandlingar.webbplats.mandatperiod import kolumner, rubriker
 from kommunhandlingar.webbplats.statusikon import teckenforklaring
 from kommunhandlingar.webbplats.uppfoljningar import Uppfoljning
 
@@ -29,9 +30,9 @@ def tidslinje(spar: list[list[Mal]], ar: range, luckor: set[int], namnden: str) 
     grupper = "".join(slagets(slag, spar, ar) for slag in SLAG)
     return (
         f'<h2 id="tidslinje">Tidslinje</h2>{teckenforklaring()}{BYTEN}'
-        '<div class="tabell">'
-        '<table class="tidslinje"><thead><tr><th scope="col">Mål eller direktiv'
-        f"</th>{huvud}</tr></thead>{grupper}{namnden}</table></div>"
+        f'<div class="tabell"><table class="tidslinje">{kolumner(ar)}'
+        f'<thead>{rubriker(ar)}<tr><th scope="col">Mål eller direktiv</th>'
+        f"{huvud}</tr></thead>{grupper}{namnden}</table></div>"
     )
 
 
