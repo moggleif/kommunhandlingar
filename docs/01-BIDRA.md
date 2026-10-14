@@ -143,7 +143,10 @@ Belägg anges med sökväg i poolen och sidnummer, inte med citat: inga
 personnamn och inga personuppgifter i issuet. Personuppgifter i en
 handling blir aldrig ett issue
 ([ADR-0022](decisions/0022-personuppgifter-maskas-vid-konverteringen.md)).
-Dokumentet i poolen rättas inte efter avvikelsen.
+Dokumentet i poolen rättas inte efter avvikelsen. De öppna avvikelserna
+står, grupperade efter status, på webbplatsens sida
+[Avvikelser](https://moggleif.github.io/kommunhandlingar/avvikelser.html)
+(K33).
 
 ## Datakontrollerna
 

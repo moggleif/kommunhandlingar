@@ -1,14 +1,19 @@
-# Bygger webbplatsen ur main och publicerar den på GitHub Pages (K14, K18,
-# ADR-0012, ADR-0023).
+# Bygger webbplatsen ur main och de öppna avvikelserna i källan, och
+# publicerar den på GitHub Pages (K14, K18, K33, ADR-0012, ADR-0023,
+# ADR-0054).
 name: Webbplats
 
 on:
   push:
     branches: [main]
   workflow_dispatch:
+  # Sidan med avvikelserna följer issuen (ADR-0054).
+  issues:
+    types: [opened, edited, closed, reopened, labeled, unlabeled]
 
 permissions:
   contents: read
+  issues: read
 
 concurrency:
   group: pages
@@ -24,7 +29,19 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -e .
-      - run: python -m kommunhandlingar.webbplats _site "${{ github.server_url }}/${{ github.repository }}"
+      - name: De öppna avvikelserna i källan, ett issue per rad
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: >
+          gh api --paginate
+          "repos/${{ github.repository }}/issues?labels=avvikelse&state=open&per_page=100"
+          --jq '.[] | select(.pull_request == null)
+          | {number, title, html_url, body} | tojson'
+          > "$RUNNER_TEMP/avvikelser.jsonl"
+      - run: >
+          python -m kommunhandlingar.webbplats _site
+          "${{ github.server_url }}/${{ github.repository }}"
+          "$RUNNER_TEMP/avvikelser.jsonl"
       - uses: actions/upload-pages-artifact@v3
 
   publicera:

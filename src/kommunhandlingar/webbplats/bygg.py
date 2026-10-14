@@ -20,7 +20,7 @@ from kommunhandlingar.webbplats.organsida import organsida
 from kommunhandlingar.webbplats.rakning import okanda, rakna
 
 
-def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> None:
+def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> Mall:
     kommuner = [konfiguration.las(f) for f in sorted((rot / "kommuner").glob("*.toml"))]
     kalendrar = kommunfiler(rot / "kalender", kommuner)
     malen = las_kommunfiler(rot, "mal", kommuner, mal.las)
@@ -31,6 +31,7 @@ def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> None:
     for kommun in kommuner:
         bygg_kommun(rot / "data" / kommun.id, ut, mall, kommun)
         bygg_kalender(rot, ut, mall, kommun)
+    return mall
 
 
 # Varje dokuments sida skrivs när det läses, så att poolens text inte hålls

@@ -70,9 +70,11 @@ def sida(mall: Mall, adress: str, rubrik: str, innehall: str) -> str:
 
 
 def meny(mall: Mall, aktuell: str) -> str:
-    poster = [("index.html", "Start")] + [
-        (f"{k.id}.html", k.namn) for k in mall.kommuner
-    ]
+    poster = (
+        [("index.html", "Start")]
+        + [(f"{k.id}.html", k.namn) for k in mall.kommuner]
+        + [("avvikelser.html", "Avvikelser")]
+    )
     lankar = "".join(
         menypost(rot(aktuell) + adress, namn, adress == aktuell)
         for adress, namn in poster
