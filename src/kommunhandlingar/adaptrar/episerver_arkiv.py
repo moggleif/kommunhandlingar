@@ -106,11 +106,9 @@ def kandidat(
 
 def inne_i(mapp: str, kopia: wayback.Kopia) -> bool:
     """Arkivets prefix tar också syskonmappar med längre namn, som
-    "Kommunstyrelsens arbetsutskott/" för "Kommunstyrelsen/". Arkivet
-    skiljer inte på stora och små bokstäver, så inte jämförelsen heller."""
-    mappens = unquote(mapp.split("/", 1)[1]).casefold()
-    sokvag = unquote(urlsplit(kopia.original).path).lstrip("/")
-    return sokvag.casefold().startswith(mappens)
+    "Kommunstyrelsens arbetsutskott/" för "Kommunstyrelsen/"."""
+    mappens = unquote(mapp.split("/", 1)[1])
+    return unquote(urlsplit(kopia.original).path).lstrip("/").startswith(mappens)
 
 
 def under(mapp: str, kopia: wayback.Kopia) -> str:
