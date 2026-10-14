@@ -126,8 +126,9 @@ två startas står i K11.
   kontroller. Har körningen inte ändrat något pushas ingen gren. Mergen
   till `main` bygger om webbplatsen.
 - **Körningen öppnar PR:en själv** när hemligheten `NATTKORNING_TOKEN`
-  finns, och slår på automatisk merge. Bara det steget får hemligheten.
-  Utan den öppnar en människa eller agent PR:en.
+  finns, och slår på automatisk merge. Det görs i ett eget jobb på en ny
+  runner, utan utcheckning, som får grenens namn som jobb-output; bara det
+  jobbet får hemligheten. Utan den öppnar en människa eller agent PR:en.
 
 Datakontrollerna, i körningen och i CI
 (`python -m kommunhandlingar.datakontroll data`, utom binärerna):

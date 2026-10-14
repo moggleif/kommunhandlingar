@@ -39,15 +39,20 @@ Hur når nya sammanträden `main` utan handpåläggning, utan att rulesetet
 
 ## Decision Outcome
 
-Valt: **A**, alternativ C i ADR-0015. Körningen pushar sin gren som förut
-med Actions egen token. Om hemligheten `NATTKORNING_TOKEN` finns öppnar
-ett sista steg en PR från grenen med den och slår på automatisk merge
+Valt: **A**. Det genomför det som ADR-0015 redan valde "när en token
+finns", och lägger till två saker: att token hålls borta från hämtningen,
+och att körningen utan token beter sig som i ADR-0015. Körningen pushar
+sin gren som förut med Actions egen token. Om hemligheten
+`NATTKORNING_TOKEN` finns öppnar ett eget jobb en PR från grenen med den
+och slår på automatisk merge
 (merge-commit, som för all annan ändring). PR:en startar "Ren kod och
 tester", och GitHub mergar när kontrollen är grön. Mergen startar
 webbplatsbygget som vanligt.
 
-* **Bara det sista steget får hemligheten**, som miljövariabel. Den står
-  inte i utcheckningen, så hämtningen och konverteringen kan inte läsa den.
+* **Bara PR-jobbet får hemligheten.** Det går på en egen runner efter
+  körningen (`needs`), utan utcheckning och utan egna rättigheter för
+  Actions token, och får bara grenens namn som jobb-output. Inget som
+  hämtningen och konverteringen gjort på sin runner kan nå token.
 * **Utan hemlighet** beter sig körningen som i ADR-0015: grenen pushas och
   sammanfattningen säger att någon ska öppna en PR.
 * **Faller kontrollen** står PR:en kvar öppen och omergad, och nästa natt
@@ -61,16 +66,19 @@ webbplatsbygget som vanligt.
   publicerats, utan att någon gör något.
 * Bra, eftersom rulesetet gäller utan undantag och samma kontroll avgör.
 * Bra, eftersom omergade grenar som hämtar samma dokument igen upphör.
-* Dåligt, eftersom token måste förnyas när den går ut; då faller sista
-  steget och körningen syns som misslyckad, men grenen är pushad.
+* Dåligt, eftersom token måste förnyas när den går ut. Då faller
+  PR-jobbet och körningen syns som misslyckad, men grenen är pushad. Samma
+  sak när token saknar behörighet eller automatisk merge är avslagen i
+  repot; i det sista fallet står PR:en redan öppen och mergas för hand.
 * Dåligt, eftersom PR:erna står som öppnade av den som äger token.
 
 ### Confirmation
 
 `.github/workflows/nattkorning.yml` ger `NATTKORNING_TOKEN` bara till
-steget som öppnar PR:en, och det steget hoppar över allt utom
-sammanfattningen när hemligheten saknas. Den första körningen med
-hemligheten ska ge en PR som mergas av sig själv när kontrollen är grön.
+jobbet `pr`, som har `permissions: {}`, ingen utcheckning och skriver
+bara sammanfattningen när hemligheten saknas. Den första körningen med
+hemligheten ska ge en PR som mergas av sig själv när kontrollen är grön;
+det noteras i #163.
 
 ## Pros and Cons of the Options
 
@@ -115,6 +123,8 @@ vecka av omergade grenar med samma dokument inte går att merga tillsammans.
 En GitHub App (B) är det robustare valet på sikt, men en finkornig token
 räcker för ett repo och kan bytas mot en app utan att flödet ändras.
 
-Att hemligheten hålls borta från utcheckningen var agentens val: steg 2
-läser PDF:er och sidor från nätet, och en token i `.git/config` skulle vara
-läsbar för allt som körs där.
+Att hemligheten får ett eget jobb var agentens val efter granskningen:
+steg 2 läser PDF:er och sidor från nätet, och ett steg i samma jobb kan
+påverka senare steg genom miljön, `PATH` och filerna på runnern. Ett
+första utkast gav token till ett sista steg i samma jobb, vilket inte
+räckte.

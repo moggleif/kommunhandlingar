@@ -28,6 +28,8 @@ jobs:
     timeout-minutes: 360
     permissions:
       contents: write
+    outputs:
+      gren: ${{ steps.incheckning.outputs.gren }}
     steps:
       - name: Jobbets start, som tidsbudgeten räknas från
         run: echo "START=$(date +%s)" >> "$GITHUB_ENV"
@@ -65,6 +67,7 @@ jobs:
           if git -c core.quotePath=false diff --cached --name-only | grep -v '^data/'; then exit 1; fi
           if git diff --cached --numstat | grep '^-'; then exit 1; fi
       - name: Checka in på en egen gren
+        id: incheckning
         run: |
           if git diff --cached --quiet; then
             echo "Inget nytt i poolen." >> "$GITHUB_STEP_SUMMARY"
@@ -75,21 +78,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -q -m "Nattkörning $(date -u +%F)"
           git push origin "HEAD:refs/heads/$gren"
-          echo "GREN=$gren" >> "$GITHUB_ENV"
-      - name: PR med automatisk merge
-        # Bara det här steget får token, så att hämtningen inte kan nå den (ADR-0052).
-        if: env.GREN != ''
-        env:
-          GH_TOKEN: ${{ secrets.NATTKORNING_TOKEN }}
-        run: |
-          if [ -z "$GH_TOKEN" ]; then
-            echo "Datat ligger på grenen \`$GREN\`; öppna en PR därifrån (ADR-0015)." >> "$GITHUB_STEP_SUMMARY"
-            exit 0
-          fi
-          gh pr create --base main --head "$GREN" --title "Nattkörning $(date -u +%F)" \
-            --body "Datat från nattkörningen; mergas när kontrollen gått igenom (ADR-0052)."
-          gh pr merge "$GREN" --auto --merge
-          echo "PR från \`$GREN\` mergas när kontrollen gått igenom (ADR-0052)." >> "$GITHUB_STEP_SUMMARY"
+          echo "gren=$gren" >> "$GITHUB_OUTPUT"
       - name: Sammanfattning
         if: always()
         run: |
@@ -98,3 +87,26 @@ jobs:
             tail -n 200 "$RUNNER_TEMP/sammanfattning.txt" 2>/dev/null || true
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
+
+  pr:
+    # Ett eget jobb på en ny runner, så att inget som hämtats kan nå token
+    # (ADR-0052).
+    name: PR med automatisk merge
+    needs: korning
+    if: needs.korning.outputs.gren != ''
+    runs-on: ubuntu-latest
+    permissions: {}
+    steps:
+      - env:
+          GH_TOKEN: ${{ secrets.NATTKORNING_TOKEN }}
+          GREN: ${{ needs.korning.outputs.gren }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "Datat ligger på grenen \`$GREN\`; öppna en PR därifrån (ADR-0015)." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          gh pr create --repo "$GITHUB_REPOSITORY" --base main --head "$GREN" \
+            --title "Nattkörning ${GREN:12:10}" \
+            --body "Datat från nattkörningen; mergas när kontrollen gått igenom (ADR-0052)."
+          gh pr merge "$GREN" --repo "$GITHUB_REPOSITORY" --auto --merge
+          echo "PR från \`$GREN\` mergas när kontrollen gått igenom (ADR-0052)." >> "$GITHUB_STEP_SUMMARY"

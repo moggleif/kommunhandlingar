@@ -168,14 +168,19 @@ två saker i repot, som en ägare ordnar en gång:
 1. En finkornig token (Settings → Developer settings → Fine-grained
    tokens) för bara det här repot, med *Contents* och *Pull requests*
    som läs och skriv. Den läggs som hemligheten `NATTKORNING_TOKEN`
-   under Settings → Secrets and variables → Actions. När den går ut
-   faller körningens sista steg; byt den då.
+   under Settings → Secrets and variables → Actions.
 2. *Allow auto-merge* påslaget under Settings → General.
 
+Faller jobbet "PR med automatisk merge" har token gått ut, saknar
+behörighet, eller är automatisk merge avslagen; rätta det i
+inställningarna. Grenen är pushad ändå, och står PR:en redan öppen kan
+den mergas för hand.
+
 Utan hemligheten öppnar en människa eller agent PR:en från grenen
-(ADR-0015). Står en PR kvar omergad, till exempel för att kontrollen
-föll, och flera grenar ligger omergade: merga den nyaste och ta bort de
-äldre; det de hade utöver den hämtas igen nästa natt.
+(ADR-0015). En PR vars kontroll fallit står kvar omergad tills någon
+rättar felet. Ligger flera grenar omergade, merga den nyaste och ta bort
+de äldre, vilket också stänger deras PR:er; det de hade utöver den hämtas
+igen nästa natt.
 En gren som skrivits av en version före 0.5.0 maskas först med
 `python3 -m kommunhandlingar.maska_poolen data`; annars faller
 datakontrollen på dess personuppgifter (ADR-0022).
