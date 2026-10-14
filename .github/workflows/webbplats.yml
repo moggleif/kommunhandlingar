@@ -64,4 +64,4 @@ jobs:
       url: ${{ steps.publicering.outputs.page_url }}
     steps:
       - id: publicering
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
