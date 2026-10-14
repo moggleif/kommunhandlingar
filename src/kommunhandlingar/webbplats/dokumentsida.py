@@ -2,7 +2,7 @@
 
 from html import escape
 
-from kommunhandlingar.frontmatter import FALT, lista
+from kommunhandlingar.frontmatter import FALT, adresser, lista
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.luckor import motesnamn
 from kommunhandlingar.webbplats.mall import Mall, lank, rot, sida, stig
@@ -36,7 +36,7 @@ def harkomst(falt: dict[str, str], md: str) -> str:
 
 def varde(namn: str, text: str) -> str:
     if namn == "kalla_url":
-        return lank(text, text)
+        return ", ".join(lank(a, a) for a in adresser(text))
     if namn == "tal_obekraftade":
         sidnr = [escape(s) for s in lista(text)]
         return ", ".join(f'<a href="#sida-{s}">{s}</a>' for s in sidnr) or "[]"

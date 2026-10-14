@@ -64,7 +64,7 @@ Regler för det här repot, utöver MADR:
 | 0036 | [Ett mellanslag som börjar inne i en siffra tas bort innan texten läses](0036-mellanslag-inne-i-en-siffra-tas-bort.md) | accepted |
 | 0037 | [Rubrikrader, radavstånd och sidfot i tabeller utan lodräta linjer](0037-rubrikrader-och-sidfot-i-tabeller-utan-linjer.md) | accepted |
 | 0038 | [Text som inte går att läsa i ordning ger obekräftade tal](0038-text-i-oordning-ger-obekraftade-tal.md) | accepted |
-| 0039 | [Episerver-generationerna läses ur arkivet med organens mappar och mönster för sökvägen, och ett sammanträde får inte samma typ från två plattformar](0039-episerver-ur-arkivet-med-mappar-och-monster.md) | accepted (0048 låter högst kvalitet avgöra mellan plattformarna) |
+| 0039 | [Episerver-generationerna läses ur arkivet med organens mappar och mönster för sökvägen, och ett sammanträde får inte samma typ från två plattformar](0039-episerver-ur-arkivet-med-mappar-och-monster.md) | accepted (0048 låter högst kvalitet avgöra mellan plattformarna, 0049 slår ihop ett mötes filer) |
 | 0040 | [Rubriker över flera kolumner och på flera textrader i tabeller utan lodräta linjer](0040-rubriker-over-flera-kolumner-och-textrader.md) | proposed |
 | 0041 | [Varje avvikelse i källan blir ett eget issue efter en mall](0041-avvikelser-ett-issue-per-avvikelse.md) | proposed |
 | 0044 | [Nämndens mål och direktiv läses ur dokumenten av AI-agenten, skrivs i en CSV per kommun med sidan som källa, och bygget prövar att texten står där](0044-namndens-mal-och-direktiv-las-ur-dokumenten-och-skrivs-for-hand.md) | accepted (0045 grupperar omdöpta mål, låter protokollet gå före och visar status som ikoner; 0050 ersätter sidans upplägg och skript) |
@@ -72,5 +72,6 @@ Regler för det här repot, utöver MADR:
 | 0046 | [Nämndens uppföljningar och dragningar om målen läses ur protokollen av AI-agenten, skrivs i en CSV per kommun och räknas per år på målsidan](0046-uppfoljningar-i-namnden-las-ur-protokollen-och-skrivs-for-hand.md) | accepted |
 | 0047 | [Alla organ läses ur arkivets Sitevision-kopior, utan att vänta på att konverteringen blir färdig](0047-alla-organ-lases-ur-arkivet.md) | accepted |
 | 0048 | [När samma möte finns ur arkivet från två plattformar vinner dokumentet med högst kvalitet](0048-hogst-kvalitet-vinner-mellan-plattformarna.md) | accepted |
+| 0049 | [Ett mötes filer av samma typ hos Episerver slås ihop till ett dokument, med delarnas adresser och sha256 i front matter](0049-ett-motes-filer-slas-ihop-till-ett-dokument.md) | accepted |
 | 0050 | [Målsidan visas som en tidslinje över alla mål och ett kort per mål, med sammandraget överst](0050-malsidan-visas-som-tidslinje-och-malkort.md) | accepted (0051 ger tidslinjen en rad per rubrik) |
 | 0051 | [Tidslinjen visar varje rubrik på en egen rad och markerar nya formuleringar](0051-tidslinjen-visar-varje-rubrik-och-nya-formuleringar.md) | accepted |

@@ -4,7 +4,7 @@ Test: tests/test_webbplats_dokument.py, tests/test_mal.py."""
 from collections import defaultdict
 from html import escape
 
-from kommunhandlingar.frontmatter import lista
+from kommunhandlingar.frontmatter import adresser, lista
 from kommunhandlingar.kandidat import TYPORDNING
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.luckor import motesnamn
@@ -71,5 +71,7 @@ def dokumentpost(d: dict) -> str:
     post = f'<a href="{escape(d["adress"])}">{escape(dokumentrubrik(d))}</a>: '
     post += escape(", ".join(rader))
     if d["fel"] != "null":
-        post += f", fel {escape(d['fel'])}, " + lank(d["kalla_url"], "källan")
+        post += f", fel {escape(d['fel'])}, " + lank(
+            adresser(d["kalla_url"])[0], "källan"
+        )
     return post

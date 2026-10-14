@@ -164,8 +164,12 @@ kf = "https://kungsbacka.se/kommun-och-politik/politik-och-demokrati/politiska-m
 "sitevision:18.6111bcdb1920bbb80f8af74b" = 2024-09-19  # kallelsen och protokollet: 19 september 2024
 
 # Webbplatsens två Episerver-generationer, 2013–2022, som bara finns i
-# Internet Archive (ADR-0039). Bara organen i mappar läses ur arkivet.
-# Gymnasie och Vuxenutbildning läggs under ga.
+# Internet Archive (ADR-0039). Bara organen i mappar läses ur arkivet. En
+# nedlagd nämnd läggs under den som tog över: Gymnasie och Vuxenutbildning
+# under ga, Äldreomsorg, dess arbetsutskott och Funktionsstöd under vo,
+# eftersom vo inte har något arbetsutskott, och Kultur och Turism och
+# Fritid och Folkhälsa under kultur. Ett mötes filer av samma typ i samma
+# mapp blir ett dokument (ADR-0049).
 [[kalla]]
 adapter = "episerver"
 manader = ["jan", "feb", "mar", "apr", "maj", "jun", "jul", "aug", "sep", "okt", "nov", "dec"]
@@ -184,6 +188,74 @@ datum = [
 ga = [
   "kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/Gymnasie och Vuxenutbildning/",
   "kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/",
+]
+fg = [
+  "kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/Förskola och Grundskola/",
+  "kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/forskola-och-grundskola/",
+]
+fg-au = [
+  "kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/Förskola och Grundskola arbetsutskott/",
+  "kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/forskola-och-grundskola-arbetsutskott/",
+]
+bygg = [
+  "kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/Byggnadsnämnden/",
+  "kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/",
+]
+bygg-au = [
+  "kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/Byggnadsnämndens arbetsutskott/",
+  "kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamndens-arbetsutskott/",
+]
+teknik = [
+  "kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/Teknik/",
+  "kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/teknik/",
+]
+teknik-au = [
+  "kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/Tekniks arbetsutskott/",
+  "kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/tekniks-arbetsutskott/",
+]
+service = [
+  "kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/Service/",
+  "kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/service/",
+]
+ifo = [
+  "kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/Individ och Familjeomsorg/",
+  "kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/individ-och-familjeomsorg/",
+]
+kultur = [
+  "kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/Kultur och Turism/",
+  "kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/Fritid och Folkhälsa/",
+  "kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kultur-och-fritid/",
+  "kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kultur-och-turism/",
+  "kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/fritid-och-folkhalsa/",
+]
+miljo = [
+  "kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/Miljö och Hälsoskydd/",
+  "kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/miljo-och-halsoskydd/",
+]
+vo = [
+  "kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/Äldreomsorg/",
+  "kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/Äldreomsorgens arbetsutskott/",
+  "kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/Funktionsstöd/",
+  "kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/vard--omsorg/",
+]
+val = [
+  "kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/Valnämnd/",
+  "kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/valnamnd/",
+]
+revision = [
+  "kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunrevisionen/",
+]
+ks = [
+  "kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/Kommunstyrelsen/",
+  "kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/",
+]
+ks-au = [
+  "kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/Kommunstyrelsens arbetsutskott/",
+  "kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/",
+]
+kf = [
+  "kungsbacka.se/Global/Kommun och politik/Dokument/Möten, handlingar och protokoll/Kommunfullmäktige/",
+  "kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunfullmaktige/",
 ]
 
 # Typen: handlingarnas mapp gäller också för "kallelse-till-web-20180919.pdf",
@@ -222,5 +294,6 @@ regex = '(?i)^protokoll/'
 "episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/dagordningar/2021/kallelse-jan.pdf" = 2022-01-19  # kallelsen: 19 januari 2022
 "episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2020/101.pdf" = 2020-11-04  # protokollet, § 101: 2020-11-04
 "episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2021/21-0-13-protokoll.signerad.pub.pdf" = 2021-10-13  # protokollet: 2021-10-13
+"episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/forskola-och-grundskola/dagordning/2022/nfg_22220119_kallelse-handlingar.pdf" = 2022-01-19  # filnamnet säger 2222: mappen 2022 och ärendefilen nfg-220119
 "episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2021/protokoll-14-17-26.pdf" = 2022-02-23  # protokollet, §§ 14, 17–26: 2022-02-23
 "episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2021/protokoll-15-16.pdf" = 2022-02-23  # protokollet, §§ 15–16: 2022-02-23

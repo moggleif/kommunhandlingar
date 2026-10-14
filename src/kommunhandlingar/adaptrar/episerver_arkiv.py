@@ -1,13 +1,19 @@
-"""Krav: K23 i docs/02-KRAV.md, ADR-0039 och ADR-0018.
-Test: tests/test_episerver_arkiv.py.
+"""Krav: K23 och K31 i docs/02-KRAV.md, ADR-0018, ADR-0039 och ADR-0049.
+Test: tests/test_episerver_arkiv.py och tests/test_sammanslagning.py.
 
 Organens mappar i Episerver-generationerna ur Internet Archive. Varje PDF
 under en mapp är en fil, också när arkivet har den under http och https,
 med och utan www; filen får arkivets största kopia och vid lika den äldsta.
 En mapp som arkivet inte svarar för hoppas över och returneras som en
-notering.
+notering. En fil i en syskonmapp som börjar likadant hör inte till mappen.
+Ett mötes filer av samma typ i samma mapp, till exempel en per
+ärende, blir en kandidat i delar, i sökvägarnas ordning med talen som tal.
+Mappen hör till gruppen, så att två nämnder som lagts under samma organ
+inte slås ihop när de möttes samma dag.
 """
 
+import re
+from dataclasses import replace
 from urllib.parse import quote, unquote, urlsplit
 
 from kommunhandlingar.adaptrar import episerver, wayback
@@ -28,14 +34,39 @@ def upptack(
                 continue
             nya, bort = las_mapp(kalla, organ, mapp, kopior)
             kandidater, avvisade = kandidater + nya, avvisade + bort
-    return kandidater, avvisade, noteringar
+    return moten(kandidater), avvisade, noteringar
+
+
+def moten(kandidater: list[Kandidat]) -> list[Kandidat]:
+    grupper: dict[tuple, list[Kandidat]] = {}
+    for k in kandidater:
+        grupper.setdefault((k.organ, k.kalla, k.datum, k.typ), []).append(k)
+    return [
+        filer[0] if len(filer) == 1 else i_delar(filer) for filer in grupper.values()
+    ]
+
+
+def i_delar(filer: list[Kandidat]) -> Kandidat:
+    """Nyckeln är mappens, mötets och typens, så att den inte beror på
+    vilken del som kom först. Ett blanksteg i en adress kodas, så att listan
+    går att läsa."""
+    filer = sorted(filer, key=lambda k: naturlig(unquote(k.kallnyckel)))
+    forsta = filer[0]
+    mapp = quote(unquote(forsta.kalla), safe="/")
+    nyckel = f"episerver:{mapp}{forsta.datum.isoformat()}/{forsta.typ}"
+    delar = tuple(k.url.replace(" ", "%20") for k in filer)
+    return replace(forsta, kallnyckel=nyckel, delar=delar)
+
+
+def naturlig(text: str) -> list:
+    return [int(d) if d.isdigit() else d for d in re.split(r"(\d+)", text)]
 
 
 def las_mapp(
     kalla: episerver.Kalla, organ: str, mapp: str, kopior: list[wayback.Kopia]
 ) -> tuple[list[Kandidat], list[Avvisad]]:
     kandidater, avvisade = [], []
-    for kopia in basta(kopior).values():
+    for kopia in basta([k for k in kopior if inne_i(mapp, k)]).values():
         try:
             kandidater.append(kandidat(kalla, organ, mapp, kopia))
         except IngenKandidat as fel:
@@ -71,6 +102,13 @@ def kandidat(
         kallnyckel=nyckel,
         filnamn=filnamn(kopia),
     )
+
+
+def inne_i(mapp: str, kopia: wayback.Kopia) -> bool:
+    """Arkivets prefix tar också syskonmappar med längre namn, som
+    "Kommunstyrelsens arbetsutskott/" för "Kommunstyrelsen/"."""
+    mappens = unquote(mapp.split("/", 1)[1])
+    return unquote(urlsplit(kopia.original).path).lstrip("/").startswith(mappens)
 
 
 def under(mapp: str, kopia: wayback.Kopia) -> str:

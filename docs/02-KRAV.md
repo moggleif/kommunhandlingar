@@ -718,6 +718,10 @@ utan mappar läses inte därifrån.
 - **Så** blir varje PDF under mapparna som arkivet har sparat en kandidat,
   med typ och datum ur sökvägen under mappen enligt kommunfilens mönster,
   eller med rättelsens datum.
+- **Givet** en syskonmapp vars namn börjar som mappens, till exempel
+  `Kommunstyrelsens arbetsutskott/` intill `Kommunstyrelsen/`
+- **När** arkivet upptäcks
+- **Så** blir dess filer inga kandidater för mappens organ (K31).
 - **Givet** en fil vars typ eller datum mönstren inte läser, eller vars
   datum inte finns, och som inte har någon rättelse
 - **När** arkivet upptäcks
@@ -942,3 +946,34 @@ Hur och varför står i
   kandidatens plattform
 - **När** en kandidat ur arkivet av samma typ för sammanträdet tas
 - **Så** hämtas den inte.
+
+## K31 — Ett mötes filer blir ett dokument
+
+Issue: [#159](https://github.com/moggleif/kommunhandlingar/issues/159).
+Hur och varför står i
+[ADR-0049](decisions/0049-ett-motes-filer-slas-ihop-till-ett-dokument.md).
+
+- **Givet** flera filer i samma mapp i en Episerver-källa för samma
+  organ, datum och typ, till exempel handlingarna en fil per ärende
+- **När** arkivet upptäcks
+- **Så** blir de en kandidat i delar, i sökvägarnas ordning med talen som
+  tal, med mappens, mötets och typens källnyckel.
+- **Givet** filer för samma organ, datum och typ i två mappar
+- **När** arkivet upptäcks
+- **Så** slås de inte ihop.
+- **Givet** en kandidat i delar
+- **När** den hämtas och konverteras
+- **Så** blir den ett dokument, med alla delarnas sidor i ordning, och
+  front matter har delarnas adresser, sha256 och storlek i samma ordning.
+- **Givet** en kandidat i delar där en del är kapad eller inte går att
+  hämta
+- **När** den hämtas
+- **Så** blir hela dokumentet `ej-hamtad`, och nästa körning försöker
+  igen.
+- **Givet** en kandidat i delar där en del inte går att öppna
+- **När** den konverteras
+- **Så** blir dokumentet `ej-konverterad` med orsaken i `fel`.
+- **Givet** ett dokument i delar
+- **När** dess figurer renderas för tolkning (K15)
+- **Så** hämtas delarna och slås ihop på samma sätt, och varje dels
+  sha256 prövas.

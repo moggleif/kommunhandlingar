@@ -31,7 +31,11 @@ from kommunhandlingar.tidsbudget import Tidsgrans
 
 def las_kandidater(fil: Path) -> list[Kandidat]:
     poster = json.loads(fil.read_text(encoding="utf-8"))
-    return [Kandidat(**p | {"datum": date.fromisoformat(p["datum"])}) for p in poster]
+    return [Kandidat(**p | lasta(p)) for p in poster]
+
+
+def lasta(post: dict) -> dict:
+    return {"datum": date.fromisoformat(post["datum"]), "delar": tuple(post["delar"])}
 
 
 def nu() -> datetime:
