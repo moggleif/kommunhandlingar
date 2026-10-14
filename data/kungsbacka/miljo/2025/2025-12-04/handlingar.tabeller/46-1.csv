@@ -1,34 +1,33 @@
-"Säker hantering av livsmedel
-genom hela flödet","Hur säkerställer verksamheten att livsmedel hanteras på ett säkert sätt utan risk att
-korskontamineras av personal, inredning/utrustning eller andra livsmedel. Hur utbildas ny
-personal inom området? Fokusera på den hantering eller de livsmedel där det är störst
-risker, ex rå kyckling, ätfärdiga livsmedel. Vid kontroll av rengöring fokusera på redskap och
-utrustning i kontakt med aktuella livsmedel.
-Ambulerande verksamheter hanterar vanligtvis vatten i dunkar/tankar. Kontrollera att de
-har en säker hantering av vatten som är avsett att drickas eller komma i kontakt med
-livsmedel.
-Verifiera kontrollen genom att prata med den person som utför aktuell hantering och
-genom att granska faktiska förhållanden.","Kontrollwiki - Kontroll av
-mikrobiologiska faror
-Kontrollwiki: personlig hygien
-Kontrollwiki: rengöring
-Kontrollwiki - Norovirus
-smittspridning
-Kontrollwiki: mobila
-verksamheter
+2026-2028,Beskrivning,Länkar,Rapportering
+"Säker servering av
+allergikost","För att kunna ange på menyn att en maträtt är lämplig för personer med allergi eller
+överkänslighet bör restaurangen ha särskilda rutiner som säkerställer att maträtten är säker
+för allergiska konsumenter. Utgå ifrån informationen från företaget, är exempelvis pizzan
+glutenfri eller informerar man om att botten är glutenfri men mjöl hanteras i lokalen?
+Företaget ska ha rutiner för alla moment, från mottagning av varor, och kontroll av att de
+varor de tar emot inte innehåller allergena ämnen, till rutiner för att undvika kontaminering
+vid servering.",,
+2029-2030,Beskrivning,Länkar,Rapportering
+"Frivillig information av
+mervärdesvara/dyr råvara","Syftet med kontrollen är att verifiera att verksamheten har ett system som ser till att den
+frivilliga informationen om mervärdesvara på menyn stämmer. Anger de i sin meny att det är
+ekologiskt, svenskt, en viss styckningsdetalj eller fiskar? Serverar de det som står i menyn?
+Fokusera på livsmedel som kan ge stor ekonomisk vinning att fuska med, välj ett
+livsmedel/påstående som ingår i flera olika rätter och som man använder mycket av.
+Välj livsmedel i följande prioriteringsordning:
+1. Kött, svenskt/ekologiskt/KRAV
+2. Kött, dyr eller halal
+3. Fisk, dyr eller MSC/ASC
+4. Annat livsmedel med frivillig information, ex skyddade beteckningar","Kontrollwiki - skyddade-
+beteckningar
 Kontrollwiki:
-vattenförsörjning","J03=10.3 (hygien under
-processens gång, faktiska
-förhållanden)
-J04=10.4 (personlig hygien,
-faktiska förhållanden)
-J05=10.5 (känner personalen
-till arbetssätt)
-J07=10.7 (tillgång till vatten
-(ambulerande verksamheter)"
-Skadedjur,"Hur arbetar man förebyggande att skadedjur inte tar sig in i verksamheten? Vad har man
-för rutiner om skadedjur skulle ta sig in i verksamheten? Är lokalerna täta?
-Kontrollera om det finns spår av skadedjur. Leta efter spillning längs med golv, under
-bänkar, i skrymslen. Kontrollera om det finns tuggmärken på förpackade torrvaror.","Kontrollwiki: -
-skadedjursbekampning","J06=10.6 (Bekämpning av
-skadedjur)"
+Rapportering-skyddade-
+beteckningar
+Kontrollwiki: Information
+och spårbarhet i samband
+med återkallelse –","B04=2.4 (Frivillig information
+t.ex. svensk, KRAV, ekologisk,
+halal, MSC)
+D08=4.8 (Marknadsnormer,
+rätt användning av skyddade
+beteckningar, tex feta, parma)"

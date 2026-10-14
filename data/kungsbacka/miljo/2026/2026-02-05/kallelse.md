@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.63e7dd7019bfe963d53589c3/1769704425
 sha256: d57143ba01a6161baf82bcbb20c591a8b24cab8172e5296933e44e7c392d8eca
 bytes: 213983
 sidor: 4
-hamtad: 2026-10-08T08:00:19+00:00
-konverterad: 2026-10-08T08:00:25+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:56:01+00:00
+konverterad: 2026-10-14T10:56:08+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-3-1](kallelse.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag | Tid |
 | --- | --- | --- | --- | --- |
@@ -66,17 +66,6 @@ KUNGSBACKA  KOMMUN
 | 8. | Nämnden för Miljö &<br>Hälsoskydd årsredovisning<br>2025<br>Föredragande: Christina<br>Nordberg, controller | MH-2026-<br>00111 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd<br>godkänner årsredovisning 2025. | 20<br>min |
 | 9. | Ombudget och resultatfond<br>2025<br>Föredragande: Christina<br>Nordberg, controller | MH-2026-<br>00112 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd<br>godkänner förslag till ombudgetering och<br>resultatfond 2025. | 5 min |
 | 10. | Återrapportering av<br>byggnadsnämndens beslut om<br>underlag till kommunbudget<br>2027<br>Föredragande: Christina<br>Nordberg, controller | MH-2026-<br>00444 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd noterar<br>informationen till protokollet. | 5<br>min |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
 | 11. | Återrapportering av<br>byggnadsnämndens beslut om<br>investeringsplan för 2027–2036<br>Föredragande: Christina<br>Nordberg, controller | MH-2026-<br>00450 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd noterar<br>informationen till protokollet. | 5<br>min |
 | 12. | Anmälan av ordförandebeslut-<br>Remiss av Naturvårdsverkets<br>skrivelse ”Förslag på digitala<br>lösningar för digitaliserad<br>tillsynsvägledning” | MH-2025-<br>06023 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd<br>godkänner redovisningen av<br>delegeringsbeslut från ordförande Niclas<br>Nilsson (M) på grund av brådskade ärende. | 5<br>min |
 | 13. | Anmälan av delegeringsbeslut | MH-2026-<br>00039 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd<br>godkänner redovisningen av<br>delegeringsbeslut fattade under perioden<br>2026-01-04–2026-01-25. | 2<br>min |
@@ -84,6 +73,12 @@ KUNGSBACKA  KOMMUN
 | 15. | Redovisning av inkomna<br>skrivelser | MH-2026-<br>00041 | Förslag till beslut<br>Nämnden för Miljö & Hälsoskydd noterar<br>redovisningen av inkomna skrivelser till<br>protokollet. | 2<br>min |
 | 16. | Information från<br>förvaltningschefen | MH-2026-<br>00042 |  | 10<br>min |
 | 17. | Information angående<br>åtalsanmälningar för 2025<br>Föredragande: Kasra Hassirian,<br>förvaltningsjurist | MH-2026-<br>00446 |  | 20<br>min |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 

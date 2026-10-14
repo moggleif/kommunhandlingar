@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2eac78ea193953fe280aa178/1734529627
 sha256: d9ca3500a51b69ff90e430ea08595be3202c6e75483e44e93fc424c96a5c8994
 bytes: 1134373
 sidor: 46
-hamtad: 2026-10-07T23:49:27+00:00
-konverterad: 2026-10-07T23:49:36+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T07:51:01+00:00
+konverterad: 2026-10-14T07:51:08+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [17, 29]
+figurer: [9, 17, 29]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -696,12 +696,37 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 | Verksamhet | 3 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>och välfärdsbrottslighet inträffa) |
 |  | 4 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att utveckla berörda intressenter och<br>krisledningsorganisation kommunen)<br>en i egen verksamhet |
 
-[Tabell 18-2](handlingar.tabeller/18-2.csv)
+[Tabell 18-25-2](handlingar.tabeller/18-25-2.csv)
 
 | Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
 | --- | --- |
 | Personal | Risk att 3. Kännbar Risken hanteras<br>förvaltningen (uppfattas som inom ramen för<br>saknar personal besvärande för verksamhets-<br>2. Mindre vanligt<br>med berörda planering och<br>rätt/tillräcklig intressenter och kompetens-<br>kompetens kommunen) försörjning. |
 |  | Risk att 3. Kännbar Det finns<br>introduktion av (uppfattas som fungerande<br>nya medarbetare besvärande för checklistor och<br>2. Mindre vanligt<br>inte fungerar som berörda rutiner, ingen<br>tänkt. intressenter och prioriterad risk till<br>kommunen) 2025. |
+|  | Kommun- 2. Lindrig Arbetstidsdirektivet<br>övergripande (uppfattas som inte aktuell risk för<br>risk: Resurs- och 2. Mindre vanligt liten av berörda Bygg & Miljö.<br>kompetensbrist intressenter och<br>kommunen) |
+| Ekonomi | Kommun- Omhändertas inom<br>övergripande ramen för ordinarie<br>2. Lindrig<br>risk: verksamhet-<br>(uppfattas som<br>Grundläggande suppföljning.<br>3. Vanligt liten av berörda<br>redovisning Granskning av<br>intressenter och<br>kvalitetsbrister kontering görs<br>kommunen)<br>löpande under<br>året. |
+|  | Kommun- Risken<br>övergripande omhändertas inom<br>risk: Resurser till 2. Lindrig ordinarie<br>innovation, (uppfattas som verksamhets-<br>digitalisering och 2. Mindre vanligt liten av berörda planering och<br>omställning till intressenter och uppföljning.<br>nya arbetssätt för kommunen)<br>framtidens<br>välfärd |
+|  | Risk för fel vid Granskning av<br>hantering av kommun-<br>3. Kännbar<br>kundfakturor gemensam risk<br>(uppfattas som<br>"Debiteringsrutiner<br>besvärande för<br>3. Vanligt " har genomförts<br>berörda<br>under 2022-2023<br>intressenter och<br>med goda resultat.<br>kommunen)<br>Inte prioriterat för<br>granskning 2025. |
+| Informationssäke<br>rhet,<br>administration,<br>inköp... | Risk att Denna risk har<br>delegations- funnits med sedan<br>ordning inte följs 2021 som<br>förvaltnings-<br>specifik risk 2022<br>och som kommun-<br>3. Kännbar övergripande risk<br>(uppfattas som 2022-2023.<br>besvärande för Granskningarna av<br>2. Mindre vanligt<br>berörda stickprov som<br>intressenter och gjorts har inte visat<br>kommunen) på några allvarliga<br>avvikelser. Det<br>finns fungerande<br>rutiner i<br>verksamheterna.<br>Inte prioriterat för<br>granskning 2025. |
+|  | Risk att 3. Kännbar Utbildningsinsatser<br>diarieföring inte (uppfattas som har genomförts.<br>sker korrekt besvärande för Inte prioriterat för<br>2. Mindre vanligt<br>berörda granskning 2025.<br>intressenter och<br>kommunen) |
+|  | Risk att Denna risk<br>säkerhetsklassat hanteras inom<br>material ramen för ordinarie<br>avseende 4. Allvarlig/stor informations-<br>GIS/Kartan inverkan (så stor säkerhetsarbete<br>2. Mindre vanligt<br>lämnas ut eller på att den inte får på förvaltningen.<br>annat sätt inträffa) Inte prioriterat för<br>kommer i granskning i intern<br>obehöriga kontroll 2025.<br>händer. |
+|  | Risk för Denna risk<br>oplanerade hanteras inom<br>driftstopp eller ramen för<br>4. Allvarlig/stor<br>krasch av förvaltningens<br>inverkan (så stor<br>verksamhets- 2. Mindre vanligt ordinarie<br>att den inte får<br>system säkerhetsarbete.<br>inträffa)<br>Inte prioriterat för<br>granskning i intern<br>kontroll 2025. |
+|  | Risk för intrång, Denna risk tas<br>obehörig åtkomst omhand inom<br>eller avslöjad ramen för ordinarie<br>sekretess på informations-<br>grund av stöld säkerhetsarbete.<br>och/eller Det finns rutiner för<br>oaktsamhet. hantering av<br>lösenord och<br>aktuella rutiner för<br>3. Kännbar<br>hantering av<br>(uppfattas som<br>känsliga<br>besvärande för<br>2. Mindre vanligt personuppgifter,<br>berörda<br>dessa ska inte<br>intressenter och<br>lagras i<br>kommunen)<br>verksamhets-<br>system. Kommun-<br>övergripande<br>webbaserade<br>säkerhetsutbildnin<br>gar har genomförts<br>av alla personal.<br>Inte prioriterat för<br>granskning 2025. |
+|  | Felaktig hanteras inom<br>3. Kännbar<br>hantering i ramen för risken<br>(uppfattas som<br>enskilda ärenden om<br>besvärande för<br>på grund av 2. Mindre vanligt välfärdsbrottslighet<br>berörda<br>förfalskade och korruption.<br>intressenter och<br>dokument eller<br>kommunen)<br>bluffsamtal |
+|  | Utlämnande av En omfattande<br>handlingar sker utbildningsinsats<br>inte enligt rutiner har genomförts för<br>3. Kännbar registraturen under<br>(uppfattas som 2020-2022. Arbete<br>besvärande för pågår med nya<br>2. Mindre vanligt<br>berörda arbetssätt där<br>intressenter och kunden själv kan<br>kommunen) hämta handlingar<br>digitalt. Inte<br>prioriterat för<br>granskning 2025. |
+|  | Hänvisning av Ingår i<br>mail och telefon "vardagsrutinerna".<br>görs inte vid Påminnelser och<br>2. Lindrig<br>frånvaro information om<br>(uppfattas som<br>rutiner publiceras<br>2. Mindre vanligt liten av berörda<br>på intranätet<br>intressenter och<br>"Insidan" inför<br>kommunen)<br>semestertider. Inte<br>prioriterat för<br>granskning 2025. |
+|  | Kommun- Omhändertas inom<br>övergripande ramen för<br>risk: förvaltningens<br>informations- informations-<br>säkerhet; skydd säkerhetsarbete.<br>av information Inte prioriterat för<br>mot obehörig granskning 2025.<br>tillgång Se verksamhet-<br>3. Kännbar sriskerna "Risk för<br>(uppfattas som intrång, obehörig<br>besvärande för åtkomst eller<br>2. Mindre vanligt<br>berörda avslöjad sekretess<br>intressenter och på grund av stöld<br>kommunen) och/eller<br>oaktsamhet." och<br>"Risk att<br>säkerhetsklassat<br>material avseende<br>GIS/Kartan lämnas<br>ut eller på annat<br>sätt kommer i<br>obehöriga händer. |
+|  | Kommun- Förvaltningens<br>övergripande verksamhetssyste<br>risk: It-säkerhet m EDP Vision och<br>- Bristande ByggR driftas<br>driftmiljö hos internt av digitalt<br>3. Kännbar<br>leverantörer center inte hos<br>(uppfattas som<br>externa<br>besvärande för<br>2. Mindre vanligt leverantörer. De<br>berörda<br>risker som trots allt<br>intressenter och<br>finns hanteras<br>kommunen)<br>inom ramen för<br>ordinarie IT-<br>säkerhetsarbete.<br>Inte prioriterat för<br>granskning 2025. |
+| Verksamhet | Risk för okritisk Berörd nyanställd<br>tolkning av all personal utbildas i<br>digital kartans<br>information i noggrannhet.<br>kartsystemet Risken har tagit<br>avseende 3. Kännbar still plan i<br>innehåll, (uppfattas som Byggnads-<br>aktualitet och besvärande för nämndens<br>2. Mindre vanligt<br>noggrannhet. berörda internkontrollplan i<br>intressenter och flera år, senast<br>kommunen) 2023. Tidigare<br>granskningar<br>visade inte på<br>några avvikelser.<br>Inte prioriterad till<br>granskning 2025. |
+|  | Risk för Historiskt är det<br>felaktigheter i ovanligt med fel<br>mätningsuppdrag vid<br>3. Kännbar<br>mätningsuppdrag.<br>(uppfattas som<br>Utbildning av<br>besvärande för<br>2. Mindre vanligt personal och<br>berörda<br>service(kalibrering)<br>intressenter och<br>av instrument görs<br>kommunen)<br>regelbundet. Inte<br>prioriterat för<br>granskning 2025. |
+|  | Risk för Snarlik<br>påtryckningar kommunövergripa<br>3. Kännbar<br>utifrån / otillbörlig nde "Risk för<br>(uppfattas som<br>påverkan på korruption" tas till<br>besvärande för<br>personal och 3. Vanligt plan istället för<br>berörda<br>beslutsfattare denna<br>intressenter och<br>verksamhets-<br>kommunen)<br>specifika risk som<br>funnits med länge. |
+|  | Risk att Antalet avgifts-<br>handläggningstid reduktioner av<br>för bygglovsärenden<br>bygglovsärenden har minskat jämfört<br>inte hålls med pandemiåren<br>2020-2022.<br>Avgiftsreduktioner<br>na kommer inte att<br>kunna vara 0 st.<br>handläggning-<br>stiderna för<br>enskilda ärenden<br>kan dra ut på tiden<br>av olika skäl. Det<br>3. Kännbar finns rapporter i<br>(uppfattas som Power BI där<br>besvärande för verksamheten kan<br>3. Vanligt<br>berörda följa antalet<br>intressenter och reduktioner. Det är<br>kommunen) en prioriterad fråga<br>att hålla korta<br>handläggningstider<br>. Mediantiden för<br>bygglov under jan-<br>aug 2024 är 2,9<br>veckor.<br>Förhandsbesked<br>12,5 veckor. Inte<br>prioriterat för<br>granskning 2025.<br>Hanteras inom<br>ramen för ordinarie<br>verksamhets-<br>uppföljning |
+|  | Risk att Verksamheterna<br>myndighetsbeslu har fungerande<br>t inte håller rutiner för att<br>tillräcklig kvalitet upprätthålla en<br>3. Kännbar<br>god kvalitet på<br>(uppfattas som<br>myndighetsbeslut.<br>besvärande för<br>2. Mindre vanligt Stickprovs-<br>berörda<br>granskning 2021–<br>intressenter och<br>2023 visar inte<br>kommunen)<br>någon allvarlig<br>avvikelse. Inte<br>prioriterat för<br>granskning 2025. |
+|  | Risk för bristande Det finns en<br>leverans av process för beslut,<br>myndighets- uppföljning och<br>uppdraget revidering av<br>tillsynsplaner<br>(miljöbalkstillsyn)<br>och kontrollplan<br>(livsmedel).<br>Uppföljning görs<br>3. Kännbar kvartalsvis i<br>(uppfattas som nämnden för Miljö<br>besvärande för & Hälsoskydd.<br>3. Vanligt<br>berörda Verksamhets-<br>intressenter och statistik för bygglov<br>kommunen) redovisas till<br>nämnden av<br>verksamhetschef<br>regelbundet.<br>Risken hanteras<br>inom ordinarie<br>verksamhets-<br>uppföljning. Inte<br>prioriterat för<br>granskning 2025. |
+|  | Förskottsbetalad Livsmedelskontroll<br>tillsyn utförs inte en övergår till<br>100% efterhands-<br>debitering från och<br>med 1 januari<br>2024. Endast en<br>mindre del av<br>förskottsbetalning<br>3. Kännbar kvar enligt taxa för<br>(uppfattas som miljöbalkstillsynen.<br>besvärande för Verksamheterna<br>2. Mindre vanligt<br>berörda arbetar aktivt med<br>intressenter och frågan och<br>kommunen) prioriterar<br>förskottsbetalad<br>tillsyn. Hanteras<br>nom ramen för<br>ordinarie<br>verksamhets-<br>uppföljning. Inte<br>prioriterat för<br>granskning 2025. |
+|  | Hantering av Förvaltningen har<br>personuppgifter ett fungerande<br>sker inte korrekt dataskyddsarbete<br>2. Lindrig<br>där<br>(uppfattas som<br>personuppgifts-<br>3. Vanligt liten av berörda<br>incidenter<br>intressenter och<br>rapporteras till<br>kommunen)<br>nämnderna. Inte<br>prioriterat för<br>granskning 2025. |
+|  | Överklaganden 3. Kännbar Förvaltningen har<br>hanteras inte (uppfattas som fungerande rutiner<br>korrekt besvärande för för att hantera<br>2. Mindre vanligt<br>berörda överklaganden.<br>intressenter och Inte prioriterat för<br>kommunen) granskning 2025. |
+|  | Risk att fel i Rutiner finns och<br>statistikrapporter 3. Kännbar fungerar, inte<br>leder till sämre (uppfattas som prioriterat för<br>eller felaktiga besvärande för granskning 2025.<br>2. Mindre vanligt<br>beslut berörda Hanteras inom<br>intressenter och ramen för ordinarie<br>kommunen) verksamhets-<br>uppföljning. |
+|  | Risk att Risken hanteras<br>verksamhets- 3. Kännbar inom ramen för<br>utveckling och (uppfattas som ordinarie budget<br>innovation besvärande för och<br>3. Vanligt<br>nedprioriteras på berörda uppföljningsarbete.<br>grund av intressenter och inte prioriterat för<br>bristande kommunen) granskning 2025.<br>resurser |
 
 <!-- sida 19 -->
 
@@ -710,31 +735,12 @@ Intern kontrollplan 2025
 
 13
 
-[Tabell 19-1](handlingar.tabeller/19-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-|  | Kommun- 2. Lindrig Arbetstidsdirektivet<br>övergripande (uppfattas som inte aktuell risk för<br>risk: Resurs- och 2. Mindre vanligt liten av berörda Bygg & Miljö.<br>kompetensbrist intressenter och<br>kommunen) |
-| Ekonomi | Kommun- Omhändertas inom<br>övergripande ramen för ordinarie<br>2. Lindrig<br>risk: verksamhet-<br>(uppfattas som<br>Grundläggande suppföljning.<br>3. Vanligt liten av berörda<br>redovisning Granskning av<br>intressenter och<br>kvalitetsbrister kontering görs<br>kommunen)<br>löpande under<br>året. |
-|  | Kommun- Risken<br>övergripande omhändertas inom<br>risk: Resurser till 2. Lindrig ordinarie<br>innovation, (uppfattas som verksamhets-<br>digitalisering och 2. Mindre vanligt liten av berörda planering och<br>omställning till intressenter och uppföljning.<br>nya arbetssätt för kommunen)<br>framtidens<br>välfärd |
-|  | Risk för fel vid Granskning av<br>hantering av kommun-<br>3. Kännbar<br>kundfakturor gemensam risk<br>(uppfattas som<br>"Debiteringsrutiner<br>besvärande för<br>3. Vanligt " har genomförts<br>berörda<br>under 2022-2023<br>intressenter och<br>med goda resultat.<br>kommunen)<br>Inte prioriterat för<br>granskning 2025. |
-| Informationssäke<br>rhet,<br>administration,<br>inköp... | Risk att Denna risk har<br>delegations- funnits med sedan<br>ordning inte följs 2021 som<br>förvaltnings-<br>specifik risk 2022<br>och som kommun-<br>3. Kännbar övergripande risk<br>(uppfattas som 2022-2023.<br>besvärande för Granskningarna av<br>2. Mindre vanligt<br>berörda stickprov som<br>intressenter och gjorts har inte visat<br>kommunen) på några allvarliga<br>avvikelser. Det<br>finns fungerande<br>rutiner i<br>verksamheterna.<br>Inte prioriterat för<br>granskning 2025. |
-
 <!-- sida 20 -->
 
 Byggnadsnämnden                                  Kungsbacka kommun
 Intern kontrollplan 2025
 
 14
-
-[Tabell 20-1](handlingar.tabeller/20-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-|  | Risk att 3. Kännbar Utbildningsinsatser<br>diarieföring inte (uppfattas som har genomförts.<br>sker korrekt besvärande för Inte prioriterat för<br>2. Mindre vanligt<br>berörda granskning 2025.<br>intressenter och<br>kommunen) |
-|  | Risk att Denna risk<br>säkerhetsklassat hanteras inom<br>material ramen för ordinarie<br>avseende 4. Allvarlig/stor informations-<br>GIS/Kartan inverkan (så stor säkerhetsarbete<br>2. Mindre vanligt<br>lämnas ut eller på att den inte får på förvaltningen.<br>annat sätt inträffa) Inte prioriterat för<br>kommer i granskning i intern<br>obehöriga kontroll 2025.<br>händer. |
-|  | Risk för Denna risk<br>oplanerade hanteras inom<br>driftstopp eller ramen för<br>4. Allvarlig/stor<br>krasch av förvaltningens<br>inverkan (så stor<br>verksamhets- 2. Mindre vanligt ordinarie<br>att den inte får<br>system säkerhetsarbete.<br>inträffa)<br>Inte prioriterat för<br>granskning i intern<br>kontroll 2025. |
-|  | Risk för intrång, Denna risk tas<br>obehörig åtkomst omhand inom<br>eller avslöjad ramen för ordinarie<br>sekretess på informations-<br>grund av stöld säkerhetsarbete.<br>och/eller Det finns rutiner för<br>oaktsamhet. hantering av<br>lösenord och<br>aktuella rutiner för<br>3. Kännbar<br>hantering av<br>(uppfattas som<br>känsliga<br>besvärande för<br>2. Mindre vanligt personuppgifter,<br>berörda<br>dessa ska inte<br>intressenter och<br>lagras i<br>kommunen)<br>verksamhets-<br>system. Kommun-<br>övergripande<br>webbaserade<br>säkerhetsutbildnin<br>gar har genomförts<br>av alla personal.<br>Inte prioriterat för<br>granskning 2025. |
 
 <!-- sida 21 -->
 
@@ -743,30 +749,12 @@ Intern kontrollplan 2025
 
 15
 
-[Tabell 21-1](handlingar.tabeller/21-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-|  | Felaktig hanteras inom<br>3. Kännbar<br>hantering i ramen för risken<br>(uppfattas som<br>enskilda ärenden om<br>besvärande för<br>på grund av 2. Mindre vanligt välfärdsbrottslighet<br>berörda<br>förfalskade och korruption.<br>intressenter och<br>dokument eller<br>kommunen)<br>bluffsamtal |
-|  | Utlämnande av En omfattande<br>handlingar sker utbildningsinsats<br>inte enligt rutiner har genomförts för<br>3. Kännbar registraturen under<br>(uppfattas som 2020-2022. Arbete<br>besvärande för pågår med nya<br>2. Mindre vanligt<br>berörda arbetssätt där<br>intressenter och kunden själv kan<br>kommunen) hämta handlingar<br>digitalt. Inte<br>prioriterat för<br>granskning 2025. |
-|  | Hänvisning av Ingår i<br>mail och telefon "vardagsrutinerna".<br>görs inte vid Påminnelser och<br>2. Lindrig<br>frånvaro information om<br>(uppfattas som<br>rutiner publiceras<br>2. Mindre vanligt liten av berörda<br>på intranätet<br>intressenter och<br>"Insidan" inför<br>kommunen)<br>semestertider. Inte<br>prioriterat för<br>granskning 2025. |
-|  | Kommun- Omhändertas inom<br>övergripande ramen för<br>risk: förvaltningens<br>informations- informations-<br>säkerhet; skydd säkerhetsarbete.<br>av information Inte prioriterat för<br>mot obehörig granskning 2025.<br>tillgång Se verksamhet-<br>3. Kännbar sriskerna "Risk för<br>(uppfattas som intrång, obehörig<br>besvärande för åtkomst eller<br>2. Mindre vanligt<br>berörda avslöjad sekretess<br>intressenter och på grund av stöld<br>kommunen) och/eller<br>oaktsamhet." och<br>"Risk att<br>säkerhetsklassat<br>material avseende<br>GIS/Kartan lämnas<br>ut eller på annat<br>sätt kommer i<br>obehöriga händer. |
-
 <!-- sida 22 -->
 
 Byggnadsnämnden                                  Kungsbacka kommun
 Intern kontrollplan 2025
 
 16
-
-[Tabell 22-1](handlingar.tabeller/22-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-|  | Kommun- Förvaltningens<br>övergripande verksamhetssyste<br>risk: It-säkerhet m EDP Vision och<br>- Bristande ByggR driftas<br>driftmiljö hos internt av digitalt<br>3. Kännbar<br>leverantörer center inte hos<br>(uppfattas som<br>externa<br>besvärande för<br>2. Mindre vanligt leverantörer. De<br>berörda<br>risker som trots allt<br>intressenter och<br>finns hanteras<br>kommunen)<br>inom ramen för<br>ordinarie IT-<br>säkerhetsarbete.<br>Inte prioriterat för<br>granskning 2025. |
-| Verksamhet | Risk för okritisk Berörd nyanställd<br>tolkning av all personal utbildas i<br>digital kartans<br>information i noggrannhet.<br>kartsystemet Risken har tagit<br>avseende 3. Kännbar still plan i<br>innehåll, (uppfattas som Byggnads-<br>aktualitet och besvärande för nämndens<br>2. Mindre vanligt<br>noggrannhet. berörda internkontrollplan i<br>intressenter och flera år, senast<br>kommunen) 2023. Tidigare<br>granskningar<br>visade inte på<br>några avvikelser.<br>Inte prioriterad till<br>granskning 2025. |
-|  | Risk för Historiskt är det<br>felaktigheter i ovanligt med fel<br>mätningsuppdrag vid<br>3. Kännbar<br>mätningsuppdrag.<br>(uppfattas som<br>Utbildning av<br>besvärande för<br>2. Mindre vanligt personal och<br>berörda<br>service(kalibrering)<br>intressenter och<br>av instrument görs<br>kommunen)<br>regelbundet. Inte<br>prioriterat för<br>granskning 2025. |
-|  | Risk för Snarlik<br>påtryckningar kommunövergripa<br>3. Kännbar<br>utifrån / otillbörlig nde "Risk för<br>(uppfattas som<br>påverkan på korruption" tas till<br>besvärande för<br>personal och 3. Vanligt plan istället för<br>berörda<br>beslutsfattare denna<br>intressenter och<br>verksamhets-<br>kommunen)<br>specifika risk som<br>funnits med länge. |
 
 <!-- sida 23 -->
 
@@ -775,13 +763,6 @@ Intern kontrollplan 2025
 
 17
 
-[Tabell 23-1](handlingar.tabeller/23-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-|  | Risk att Antalet avgifts-<br>handläggningstid reduktioner av<br>för bygglovsärenden<br>bygglovsärenden har minskat jämfört<br>inte hålls med pandemiåren<br>2020-2022.<br>Avgiftsreduktioner<br>na kommer inte att<br>kunna vara 0 st.<br>handläggning-<br>stiderna för<br>enskilda ärenden<br>kan dra ut på tiden<br>av olika skäl. Det<br>3. Kännbar finns rapporter i<br>(uppfattas som Power BI där<br>besvärande för verksamheten kan<br>3. Vanligt<br>berörda följa antalet<br>intressenter och reduktioner. Det är<br>kommunen) en prioriterad fråga<br>att hålla korta<br>handläggningstider<br>. Mediantiden för<br>bygglov under jan-<br>aug 2024 är 2,9<br>veckor.<br>Förhandsbesked<br>12,5 veckor. Inte<br>prioriterat för<br>granskning 2025.<br>Hanteras inom<br>ramen för ordinarie<br>verksamhets-<br>uppföljning |
-|  | Risk att Verksamheterna<br>myndighetsbeslu har fungerande<br>t inte håller rutiner för att<br>tillräcklig kvalitet upprätthålla en<br>3. Kännbar<br>god kvalitet på<br>(uppfattas som<br>myndighetsbeslut.<br>besvärande för<br>2. Mindre vanligt Stickprovs-<br>berörda<br>granskning 2021–<br>intressenter och<br>2023 visar inte<br>kommunen)<br>någon allvarlig<br>avvikelse. Inte<br>prioriterat för<br>granskning 2025. |
-
 <!-- sida 24 -->
 
 Byggnadsnämnden                                  Kungsbacka kommun
@@ -789,28 +770,12 @@ Intern kontrollplan 2025
 
 18
 
-[Tabell 24-1](handlingar.tabeller/24-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-|  | Risk för bristande Det finns en<br>leverans av process för beslut,<br>myndighets- uppföljning och<br>uppdraget revidering av<br>tillsynsplaner<br>(miljöbalkstillsyn)<br>och kontrollplan<br>(livsmedel).<br>Uppföljning görs<br>3. Kännbar kvartalsvis i<br>(uppfattas som nämnden för Miljö<br>besvärande för & Hälsoskydd.<br>3. Vanligt<br>berörda Verksamhets-<br>intressenter och statistik för bygglov<br>kommunen) redovisas till<br>nämnden av<br>verksamhetschef<br>regelbundet.<br>Risken hanteras<br>inom ordinarie<br>verksamhets-<br>uppföljning. Inte<br>prioriterat för<br>granskning 2025. |
-|  | Förskottsbetalad Livsmedelskontroll<br>tillsyn utförs inte en övergår till<br>100% efterhands-<br>debitering från och<br>med 1 januari<br>2024. Endast en<br>mindre del av<br>förskottsbetalning<br>3. Kännbar kvar enligt taxa för<br>(uppfattas som miljöbalkstillsynen.<br>besvärande för Verksamheterna<br>2. Mindre vanligt<br>berörda arbetar aktivt med<br>intressenter och frågan och<br>kommunen) prioriterar<br>förskottsbetalad<br>tillsyn. Hanteras<br>nom ramen för<br>ordinarie<br>verksamhets-<br>uppföljning. Inte<br>prioriterat för<br>granskning 2025. |
-
 <!-- sida 25 -->
 
 Byggnadsnämnden                                  Kungsbacka kommun
 Intern kontrollplan 2025
 
 19
-
-[Tabell 25-1](handlingar.tabeller/25-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-|  | Hantering av Förvaltningen har<br>personuppgifter ett fungerande<br>sker inte korrekt dataskyddsarbete<br>2. Lindrig<br>där<br>(uppfattas som<br>personuppgifts-<br>3. Vanligt liten av berörda<br>incidenter<br>intressenter och<br>rapporteras till<br>kommunen)<br>nämnderna. Inte<br>prioriterat för<br>granskning 2025. |
-|  | Överklaganden 3. Kännbar Förvaltningen har<br>hanteras inte (uppfattas som fungerande rutiner<br>korrekt besvärande för för att hantera<br>2. Mindre vanligt<br>berörda överklaganden.<br>intressenter och Inte prioriterat för<br>kommunen) granskning 2025. |
-|  | Risk att fel i Rutiner finns och<br>statistikrapporter 3. Kännbar fungerar, inte<br>leder till sämre (uppfattas som prioriterat för<br>eller felaktiga besvärande för granskning 2025.<br>2. Mindre vanligt<br>beslut berörda Hanteras inom<br>intressenter och ramen för ordinarie<br>kommunen) verksamhets-<br>uppföljning. |
-|  | Risk att Risken hanteras<br>verksamhets- 3. Kännbar inom ramen för<br>utveckling och (uppfattas som ordinarie budget<br>innovation besvärande för och<br>3. Vanligt<br>nedprioriteras på berörda uppföljningsarbete.<br>grund av intressenter och inte prioriterat för<br>bristande kommunen) granskning 2025.<br>resurser |
 
 <!-- sida 26 -->
 
@@ -954,38 +919,65 @@ kommunen)
 obefintlig) - exempelvis 1 gång per intressenter och kommunen)
 10 år
 
-[Tabell 30-1](handlingar.tabeller/30-1.csv)
+[Tabell 30-31-1](handlingar.tabeller/30-31-1.csv)
 
 | Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
 | --- | --- | --- | --- | --- | --- |
 | Personal | 1 Risk att Förvaltningen saknar<br>förvaltningen personal med<br>saknar personal rätt/tillräcklig kompetens<br>med rätt/tillräcklig och erfarenhet på grund<br>kompetens av stor konkurrens om<br>kompetent personal,<br>personalomsättning,<br>sjukfrånvaro eller<br>liknande. Risk att<br>planerad verksamhet inte<br>kan genomföras och<br>måste skjutas framåt.<br>Beslutsunderlag har dålig<br>kvalitet vilket kan leda till<br>förtroendeskada och<br>minskad tilltro till våra<br>myndighetsbeslut.<br>Förvaltningen når inte<br>sina mål för<br>verksamheten. Beroende<br>av konsulter vilket kan<br>leda till höga kostnader. | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Risken hanteras Risken har med lite<br>inom ramen för olika fomuleringar<br>verksamhets- funnits med sedan<br>planering och 2021<br>kompetens-<br>försörjning. |
 |  | 2 Risk att Risk för felaktiga beslut,<br>introduktion av nya felaktigt utlämnande av<br>medarbetare inte handling, risk för<br>fungerar som tänkt. förtroendeskada | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som | Risk<br>bör<br>åtgärd<br>as | Nej Det finns<br>fungerande<br>checklistor och<br>rutiner, ingen |
-
-<!-- sida 31 -->
-
-[Tabell 31-1](handlingar.tabeller/31-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
 |  |  |  | besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) |  | prioriterad risk till<br>2025. |
 |  | 3 Kommunövergripan Nya spelregler<br>de risk: Resurs- (Arbetstidsdirektivet etc.)<br>och kompetensbrist för resursplanering och<br>schemaläggning medför<br>ökat behov av resurser<br>och eller omställning till<br>nya arbetssätt. | 2.<br>Mindre<br>vanligt | 2.<br>Lindrig<br>(uppfatta<br>s som<br>liten av<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Arbetstidsdirektivet Risk sedan 2024.<br>inte aktuell risk för Ingen gemensam<br>Bygg & Miljö. granskningspunkt. Tas<br>upp av nämnderna där<br>det är relevant för<br>egna verksamheten. |
 |  | 4 Kommunövergripan Risk för otillräcklig<br>de risk: Efterlevnad referenstagning, risk för<br>till felaktiga uppgifter om<br>rekryteringsproces personer, risk att fel<br>sen personer anställs. | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Ja Ny risk 2025 |
 | Ekonomi | 5 Kommunövergripan Fel i redovisningen kan<br>de risk: leda till svårigheter att<br>Grundläggande digitalisera, felaktiga<br>redovisning analyser och åtgärder<br>kvalitetsbrister som leder i fel riktning.<br>Nationella jämförelser blir<br>missvisande och fel<br>fördelningar enligt<br>nationella<br>fördelningssystem . | 3.<br>Vanligt | 2.<br>Lindrig<br>(uppfatta<br>s som<br>liten av<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Omhändertas inom Risk sedan 2024.<br>ramen för ordinarie Ingen gemensam<br>verksamhets- granskningspunkt. Tas<br>uppföljning. upp av nämnderna där<br>Granskning av det är relevant för den<br>kontering görs egna verksamheten.<br>löpande under<br>året. |
 
+<!-- sida 31 -->
+
 <!-- sida 32 -->
 
-[Tabell 32-1](handlingar.tabeller/32-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
-|  | 6 Kommunövergripan Förnyelse uteblir, gamla<br>de risk: Resurser ineffektiva arbetssätt<br>till innovation, cementeras. Kommunen<br>digitalisering och får svårt att leverera<br>omställning till nya välfärd med rätt kvalitet<br>arbetssätt för och volym.<br>framtidens välfärd | 2.<br>Mindre<br>vanligt | 2.<br>Lindrig<br>(uppfatta<br>s som<br>liten av<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Risken Risk sedan 2024.<br>omhändertas inom Ingen gemensam<br>ordinarie granskning.<br>verksamhets-<br>planering och<br>uppföljning. |
-|  | 7 Risk för fel vid Risk för felaktiga/uteblivna<br>hantering av debiteringar till kund samt<br>kundfakturor fel vid kreditering eller<br>återbetalning. Risk för<br>ekonomisk förlust och<br>förtroendeskada | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Granskning av<br>kommun-<br>gemensam risk<br>"Debiteringsrutiner<br>" har genomförts<br>under 2022-2023<br>med goda resultat.<br>Inte prioriterat för<br>granskning 2025. |
-| Informationssä<br>kerhet,<br>administration,<br>inköp... | 8 Kommunövergripan Risk för ekonomisk skada<br>de risk: Bristande och förtroendeskada hos<br>följsamhet till leverantörer, medborgare<br>inköpsprocessen; och andra intressenter.<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3.<br>Vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>ska<br>åtgärd<br>as | Ja Återkommer som<br>gemensam<br>risk/granskning 2025<br>(senast 2023) |
-|  | 9 Risk att Beslut fattas av obehörig,<br>delegationsordning då håller inte besluten för<br>inte följs överprövning, vilket kan<br>leda till bristande<br>rättssäkerhet,<br>förtroendeskada och/eller | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för | Risk<br>bör<br>åtgärd<br>as | Nej Denna risk har<br>funnits med sedan<br>2021 som<br>förvaltnings-<br>specifik risk 2022<br>och som kommun- |
+Kategorier   Nr   Risker        Vad kan gå fel? Sanno- Konse- Risk- Risk- Till Anledning till att Övrig kommentar
+likhet kvens färg värde plan risk ej tas till plan
+6    Kommunövergripan Förnyelse uteblir, gamla 2. 2.  Risk Nej Risken     Risk sedan 2024.
+de risk: Resurser ineffektiva arbetssätt Mindre Lindrig bör omhändertas inom Ingen gemensam
+till innovation, cementeras. Kommunen vanligt (uppfatta åtgärd ordinarie granskning.
+digitalisering och får svårt att leverera s som   as     verksamhets-
+omställning till nya välfärd med rätt kvalitet liten av  planering och
+arbetssätt för och volym.           berörda              uppföljning.
+framtidens välfärd                  intresse
+nter och
+kommun
+en)
+7    Risk för fel vid Risk för felaktiga/uteblivna 2. 3. Risk Nej Granskning av
+hantering av  debiteringar till kund samt Mindre Kännbar bör kommun-
+kundfakturor  fel vid kreditering eller vanligt (uppfatta åtgärd gemensam risk
+återbetalning. Risk för s som       as     "Debiteringsrutiner
+ekonomisk förlust och besvära              " har genomförts
+förtroendeskada        nde för             under 2022-2023
+berörda              med goda resultat.
+intresse             Inte prioriterat för
+nter och             granskning 2025.
+kommun
+en)
+Informationssä 8 Kommunövergripan Risk för ekonomisk skada 3. 3. Risk Ja             Återkommer som
+kerhet,         de risk: Bristande och förtroendeskada hos Vanligt Kännbar ska       gemensam
+administration, följsamhet till leverantörer, medborgare (uppfatta åtgärd            risk/granskning 2025
+inköp...        inköpsprocessen; och andra intressenter. s som    as                 (senast 2023)
+direktupphandling                   besvära
+respektive                           nde för
+avtalsuppföljning                   berörda
+intresse
+nter och
+kommun
+en)
+9    Risk att      Beslut fattas av obehörig, 2. 3.   Risk Nej Denna risk har
+delegationsordning då håller inte besluten för Mindre Kännbar bör funnits med sedan
+inte följs    överprövning, vilket kan vanligt (uppfatta åtgärd 2021 som
+leda till bristande    s som        as     förvaltnings-
+rättssäkerhet,        besvära              specifik risk 2022
+förtroendeskada och/eller nde för          och som kommun-
 
 <!-- sida 33 -->
 
-[Tabell 33-1](handlingar.tabeller/33-1.csv)
+[Tabell 33-42-1](handlingar.tabeller/33-42-1.csv)
 
 | Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
 | --- | --- | --- | --- | --- | --- |
@@ -993,95 +985,50 @@ obefintlig) - exempelvis 1 gång per intressenter och kommunen)
 |  | 10 Risk att diarieföring Ärenden/handlingar<br>inte sker korrekt diarieförs inte eller faller<br>mellan stolarna. Vi följer<br>inte förvaltningsrättsliga<br>regler, vilket kan leda till<br>förtroendeskada. | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Utbildningsinsatser<br>har genomförts.<br>Inte prioriterat för<br>granskning 2025. |
 |  | 11 Risk att Säkerhetsklassad<br>säkerhetsklassat information när det gäller<br>material avseende kartan kommer i<br>GIS/Kartan lämnas obehöriga händer. Risk<br>ut eller på annat för samhällsskada/<br>sätt kommer i samhällsstörning.<br>obehöriga händer. | 2.<br>Mindre<br>vanligt | 4.<br>Allvarlig/<br>stor<br>inverkan<br>(så stor<br>att den<br>inte får<br>inträffa) | Risk<br>bör<br>åtgärd<br>as | Nej Denna risk<br>hanteras inom<br>ramen för ordinarie<br>informations-<br>säkerhetsarbete<br>på förvaltningen.<br>Inte prioriterat för<br>granskning i intern<br>kontroll 2025. |
 |  | 12 Risk för oplanerade Risk för driftstopp i<br>driftstopp eller förvaltningens IT-stöd<br>krasch av som kan medföra stora<br>verksamhetssyste kostnader i form av<br>m produktionsförluster. Vid<br>större olyckor till exempel<br>miljöolyckor behöver vi ha | 2.<br>Mindre<br>vanligt | 4.<br>Allvarlig/<br>stor<br>inverkan<br>(så stor<br>att den<br>inte får | Risk<br>bör<br>åtgärd<br>as | Nej Denna risk<br>hanteras inom<br>ramen för<br>förvaltningens<br>ordinarie<br>säkerhetsarbete.<br>Inte prioriterat för |
-
-<!-- sida 34 -->
-
-[Tabell 34-1](handlingar.tabeller/34-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
 |  | omedelbar åtkomst till<br>systemet för att nå viss<br>information. |  | inträffa) |  | granskning i intern<br>kontroll 2025. |
 |  | 13 Risk för intrång, Obehörig personer kan få<br>obehörig åtkomst tillgång till känsliga<br>eller avslöjad personuppgifter eller<br>sekretess på grund sekretessklassat material<br>av stöld och/eller på grund av stöld av<br>oaktsamhet. dator/iPad/telefon<br>alternativ oaktsam<br>hantering av lösenord<br>eller att datorer inte låses<br>när personal inte är vid<br>datorn. Risk för<br>förtroendeskada. | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Denna risk tas<br>omhand inom<br>ramen för ordinarie<br>informations-<br>säkerhetsarbete.<br>Det finns rutiner för<br>hantering av<br>lösenord och<br>aktuella rutiner för<br>hantering av<br>känsliga<br>personuppgifter,<br>dessa ska inte<br>lagras i<br>verksamhets-<br>system. Kommun-<br>övergripande<br>webbaserade<br>säkerhetsutbildnin<br>gar har genomförts<br>av alla personal.<br>Inte prioriterat för<br>granskning 2025. |
 |  | 14 Felaktig hantering i Risk för felaktig hantering<br>enskilda ärenden i enskilda ärenden på<br>på grund av grund av förfalskade<br>förfalskade dokument eller<br>dokument eller "bluffsamtal". Personalen<br>bluffsamtal har inte beredskap för att<br>upptäcka förfalskade<br>dokument, bluffsamtal<br>eller kapad identitet,<br>beslut tas på felaktiga<br>grunder, Rättssäkerheten<br>sätts ur spel | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej hanteras inom<br>ramen för risken<br>om<br>välfärdsbrottslighet<br>och korruption. |
-
-<!-- sida 35 -->
-
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
 |  | 15 Utlämnande av Handlingar lämnas inte ut<br>handlingar sker inte på rätt sätt. Risk för<br>enligt rutiner förtroendeskada. | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej En omfattande<br>utbildningsinsats<br>har genomförts för<br>registraturen under<br>2020-2022. Arbete<br>pågår med nya<br>arbetssätt där<br>kunden själv kan<br>hämta handlingar<br>digitalt. Inte<br>prioriterat för<br>granskning 2025. |
 |  | 16 Hänvisning av mail Vi kan inte svara i<br>och telefon görs tid/långa svarstider, risk<br>inte vid frånvaro för förtroendeskada. Vi<br>agerar inte på kritisk<br>information som skickas<br>till obevakad mailbox,<br>diarieföring görs inte i tid. | 2.<br>Mindre<br>vanligt | 2.<br>Lindrig<br>(uppfatta<br>s som<br>liten av<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Ingår i<br>"vardagsrutinerna".<br>Påminnelser och<br>information om<br>rutiner publiceras<br>på intranätet<br>"Insidan" inför<br>semestertider. Inte<br>prioriterat för<br>granskning 2025. |
 |  | 17 Kommunövergripan - obehöriga kan komma in<br>de risk: i system och ta del av<br>informationssäkerh information eller ändra<br>et; skydd av information.<br>information mot - medarbetare får tillgång<br>obehörig tillgång till information de inte har<br>behörighet till och kan<br>ändra i information.<br>- system eller<br>informationen har inte rätt<br>skyddsnivå. Risk att<br>känslig information inte<br>skyddas tillräckligt. | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Omhändertas inom Risk sedan 2023.<br>ramen för<br>förvaltningens<br>informations-<br>säkerhetsarbete.<br>Inte prioriterat för<br>granskning 2025.<br>Se verksamhets-<br>riskerna "Risk för<br>intrång, obehörig<br>åtkomst eller<br>avslöjad sekretess<br>på grund av stöld<br>och/eller<br>oaktsamhet." och<br>"Risk att<br>säkerhetsklassat |
-
-<!-- sida 36 -->
-
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  | material avseende<br>GIS/Kartan lämnas<br>ut eller på annat<br>sätt kommer i<br>obehöriga händer. |
 |  | 18 Kommunövergripan Bristande skydd för data.<br>de risk: It-säkerhet - Data kan komma att<br>Bristande driftmiljö förloras eller komma i<br>hos leverantörer obehöriga händer. | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Förvaltningens Ny risk 2025.<br>verksamhets-<br>system EDP Vision<br>och ByggR driftas<br>internt av digitalt<br>center inte hos<br>externa<br>leverantörer. De<br>risker som trots allt<br>finns hanteras<br>inom ramen för<br>ordinarie IT-<br>säkerhetsarbete.<br>Inte prioriterat för<br>granskning 2025. |
 | Verksamhet | 19 Risk för okritisk Beslut fattas på felaktiga<br>tolkning av all osäkra grunder, övertro<br>digital information i på kartans noggrannhet<br>kartsystemet<br>avseende innehåll,<br>aktualitet och<br>noggrannhet. | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Berörd nyanställd<br>personal utbildas i<br>kartans<br>noggrannhet.<br>Risken har tagits<br>till plan i<br>Byggnads-<br>nämndens<br>internkontrollplan i<br>flera år, senast<br>2023. Tidigare<br>granskningar<br>visade inte på<br>några avvikelser.<br>Inte prioriterad till<br>granskning 2025. |
 |  | 20 Risk för Fel i kartor, avvikelser mot<br>felaktigheter i verkligheten och eller<br>lämnat bygglov, uppkomst | 2.<br>Mindre | 3.<br>Kännbar<br>(uppfatta | Risk<br>bör<br>åtgärd | Nej Historiskt är det<br>ovanligt med fel<br>vid |
-
-<!-- sida 37 -->
-
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
 |  | mätningsuppdrag av tvister och<br>skadeståndskrav | vanligt | s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | as | mätningsuppdrag.<br>Utbildning av<br>personal och<br>service(kalibrering<br>) av instrument<br>görs regelbundet.<br>Inte prioriterat för<br>granskning 2025. |
 |  | 21 Risk för Risk att personal och<br>påtryckningar beslutsfattare inte har<br>utifrån / otillbörlig beredskap att bemöta<br>påverkan på försök till otillbörlig<br>personal och påverkan från t.ex.<br>beslutsfattare kunder, tjänstepersoner<br>och/eller politiker. Beslut<br>fattas på felaktiga<br>grunder, lagstridiga beslut<br>fattas, jävssituationer<br>uppmärksammas eller<br>rapporteras inte,<br>likabehandling gäller inte,<br>myndighetspersoner fattar<br>inte opartiska beslut.<br>Förtroendeskada kan<br>uppstå. Oegentligheter<br>såsom mutor, korruption<br>och jäv. | 3.<br>Vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>ska<br>åtgärd<br>as | Nej Snarlik<br>kommunövergripa<br>nde "Risk för<br>korruption" tas till<br>plan istället för<br>denna<br>verksamhets-<br>specifika risk som<br>funnits med länge. |
 |  | 22 Risk att Om vi inte kan hålla<br>handläggningstid maximalt 10-veckors<br>för handläggningstid för<br>bygglovsärenden bygglovsärenden<br>inte hålls (alternativt 20 veckor om<br>tidsfristen förlängts) får<br>förvaltningen inte ta betalt<br>vad handläggningen<br>kostar utan måste<br>reducera avgiften. Detta<br>leder till minskade intäkter<br>och risk för | 3.<br>Vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>ska<br>åtgärd<br>as | Nej Antalet BI-rapporter har<br>avgiftsreduktioner utvecklats för<br>av uppföljning av<br>bygglovsärenden handläggningstider<br>har minskat jämfört och avgiftsreduktioner.<br>med pandemiåren<br>2020-2022.<br>Avgiftsreduktioner<br>na kommer inte att<br>kunna vara 0 st.<br>handläggnings-<br>tiderna för enskilda |
-
-<!-- sida 38 -->
-
-[Tabell 38-1](handlingar.tabeller/38-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
 |  | budgetunderskott men<br>även minskat förtroende<br>från våra kunder pga<br>långa handläggningstider. |  |  |  | ärenden kan dra ut<br>på tiden av olika<br>skäl. Det finns<br>rapporter i Power<br>BI där<br>verksamheten kan<br>följa antalet<br>reduktioner. Det är<br>en prioriterad fråga<br>att hålla korta<br>handläggningstider<br>. Mediantiden för<br>bygglov under jan-<br>aug 2024 är 2,9<br>veckor.<br>Förhandsbesked<br>12,5 veckor. Inte<br>prioriterat för<br>granskning 2025.<br>Hanteras inom<br>ramen för ordinarie<br>verksamhets-<br>uppföljning |
 |  | 23 Risk att Lagar och regler liksom<br>myndighetsbeslut interna rutiner samt<br>inte håller tillräcklig kommunövergripande<br>kvalitet strategiska dokument som<br>till exempel Översiktsplan<br>efterlevs inte, vilket kan<br>leda till bristande<br>rättssäkerhet, bristande<br>likabehandling och<br>minskat förtroende från<br>våra kunder. Rutiner<br>saknas eller är inte<br>aktuella, tillgängliga eller<br>kända för handläggarna.<br>Mottagare av beslut<br>förstår inte innebörden av<br>beslutet. | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Verksamheterna<br>har fungerande<br>rutiner för att<br>upprätthålla en<br>god kvalitet på<br>myndighetsbeslut.<br>Stickprovs-<br>granskning 2021-<br>2023 visar inte<br>någon allvarlig<br>avvikelse. Inte<br>prioriterat för<br>granskning 2025. |
-
-<!-- sida 39 -->
-
-[Tabell 39-1](handlingar.tabeller/39-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
 |  | 24 Risk för bristande Planerad tillsyn eller<br>leverans av verksamhet utförs inte. Vi<br>myndighetsuppdra klarar inte att uppfylla<br>get målen i Behovsutredning<br>och tillsynsplan<br>(Miljöbalkstillsyn),<br>Kontrollplan<br>(Livsmedelstillsyn,<br>alkohol- och tobakstillsyn)<br>eller verksamhetsmål för<br>Bygglov och Geodata.<br>Risk för budgetunderskott<br>pga mindre intäkter än<br>planerat, risk för<br>tillsynskuld alternativt<br>kontrollskuld samt långa<br>handläggningstider. Risk<br>för förtroendeskada. | 3.<br>Vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>ska<br>åtgärd<br>as | Nej Det finns en Avser planerad<br>process för beslut, prövning, tillsyn och<br>uppföljning och verksamhet både antal<br>revidering av timmar och<br>tillsynsplaner avgifter/intäkter<br>(miljöbalkstillsyn)<br>och kontrollplan<br>(livsmedel).<br>Uppföljning görs<br>kvartalsvis i<br>nämnden för Miljö<br>& Hälsoskydd.<br>Verksamhets-<br>statistik för bygglov<br>redovisas till<br>nämnden av<br>verksamhetschef<br>regelbundet.<br>Risken hanteras<br>inom ordinarie<br>verksamhets-<br>uppföljning. Inte<br>prioriterat för<br>granskning 2025. |
 |  | 25 Förskottsbetalad Verksamheter som<br>tillsyn utförs inte förskottsbetalar årlig avgift<br>får inte den tillsynstid som<br>de betalar för till exempel<br>på grund av brist på<br>personal. Detta kan<br>resultera i tillsynsskuld för<br>miljöbalkstillsyn eller<br>kontrollskuld för<br>livsmedelstillsyn och<br>bristande förtroende från<br>våra kunder. | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Livsmedelskontroll<br>en övergår till<br>100% efterhands-<br>debitering från och<br>med 1 januari<br>2024. Endast en<br>mindre del av<br>förskottsbetalning<br>kvar enligt taxa för<br>miljöbalkstillsynen.<br>Verksamheterna<br>arbetar aktivt med<br>frågan och<br>prioriterar<br>förskottsbetalad<br>tillsyn. Hanteras |
-
-<!-- sida 40 -->
-
-[Tabell 40-1](handlingar.tabeller/40-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  | nom ramen för<br>ordinarie<br>verksamhets-<br>uppföljning. Inte<br>prioriterat för<br>granskning 2025. |
 |  | 26 Hantering av Risk att personuppgifter<br>personuppgifter inte hanteras korrekt och<br>sker inte korrekt hamnar på villovägar. Vi<br>följer inte lagstiftningens<br>krav inom GDPR. | 3.<br>Vanligt | 2.<br>Lindrig<br>(uppfatta<br>s som<br>liten av<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Förvaltningen har<br>ett fungerande<br>dataskyddsarbete<br>där<br>personuppgifts-<br>incidenter<br>rapporteras till<br>nämnderna. Inte<br>prioriterat för<br>granskning 2025. |
 |  | 27 Överklaganden Risk att överklaganden<br>hanteras inte inte expedieras korrekt.<br>korrekt Överklaganden når inte<br>fram till nästa instans<br>(Länsstyrelsen eller annan<br>rättsinstans) Risk för<br>förtroendeskada | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Förvaltningen har<br>fungerande rutiner<br>för att hantera<br>överklaganden.<br>Inte prioriterat för<br>granskning 2025. |
 |  | 28 Kommunövergripan Generellt: mutor, jäv,<br>de risk - Risk för otillbörlig påverkan<br>korruption och + Specifikt för respektive<br>välfärdsbrottslighet nämnd. Särskilt risk för<br>kvalificerad<br>välfärdsbrottslighet eller<br>arbetslivskriminalitet (A-<br>krim) | 2.<br>Mindre<br>vanligt | 4.<br>Allvarlig/<br>stor<br>inverkan<br>(så stor<br>att den<br>inte får<br>inträffa) | Risk<br>bör<br>åtgärd<br>as | Ja Risk sedan 2023. |
 |  | 29 Risk att fel i Beslut fattas på felaktiga,<br>statistikrapporter osäkra grunder på grund<br>leder till sämre eller av till exempel: Felaktig | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta | Risk<br>bör<br>åtgärd | Nej Rutiner finns och Ny risk 2023,<br>fungerar, inte granskning 2023 visar<br>prioriterat för att det finns |
-
-<!-- sida 41 -->
-
-[Tabell 41-1](handlingar.tabeller/41-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
 |  | felaktiga beslut data från källsystem,<br>bristande validering av<br>data vid uppgradering av<br>källsystem, felaktig logik<br>vid upprättande av<br>rapporter mm |  | s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | as | granskning 2025. fungerande rutiner för<br>Hanteras inom rapporter baserade på<br>ramen för ordinarie data från EDP Vision<br>verksamhets- (Miljö & Hälsoskydds<br>uppföljning. verksamhetssystem)<br>men att rutiner för<br>kontroll av<br>statistikrapporter<br>baserat på data från<br>ByggR behöver<br>utvecklas och<br>förbättras. |
 |  | 30 Kommunövergripan Avsaknad av organisation<br>de risk: för krisledning och<br>Förvaltningarnas bristande förmåga att<br>arbete med att hantera störningar i<br>utveckla verksamheterna/samhälls<br>krisledningsorganis störningar.<br>ationen i egen<br>verksamhet | 3.<br>Vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>ska<br>åtgärd<br>as | Ja Risk sedan 2024. Krav<br>att Risk &<br>Sårbarhetsanalys görs<br>varje mandatperiod<br>med årlig uppdatering.<br>Se även<br>revisionsrapport från<br>2022. |
 |  | 31 Risk att Svårigheter att finansiera<br>verksamhetsutveck verksamhetsutveckling<br>ling och innovation och innovationsarbete på<br>nedprioriteras på grund av att<br>grund av bristande grunduppdraget tar<br>resurser merparten av resurserna i<br>anspråk. Minskade<br>resurser i form av till<br>exempel minskad<br>ärendeinflöde<br>(lågkonjunktur) eller<br>annan minskad<br>finansiering gör att<br>verksamhetsutveckling<br>nedprioriteras till förmån<br>för grunduppdragen. | 3.<br>Vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>ska<br>åtgärd<br>as | Nej Risken hanteras Ny risk inför 2024,<br>inom ramen för relaterad till KFs<br>ordinarie budget direktiv om innovation<br>och och nya arbetssätt<br>uppföljningsarbete.<br>inte prioriterat för<br>granskning 2025. |
+|  | Nämnderna når inte<br>Kommunfullmäktiges<br>direktiv om innovation och<br>nya arbetssätt. |  |  |  |  |
+
+<!-- sida 34 -->
+
+<!-- sida 35 -->
+
+<!-- sida 36 -->
+
+<!-- sida 37 -->
+
+<!-- sida 38 -->
+
+<!-- sida 39 -->
+
+<!-- sida 40 -->
+
+<!-- sida 41 -->
 
 <!-- sida 42 -->
-
-[Tabell 42-1](handlingar.tabeller/42-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
-|  | Nämnderna når inte<br>Kommunfullmäktiges<br>direktiv om innovation och<br>nya arbetssätt. |  |  |  |  |
 
 <!-- sida 43 -->
 

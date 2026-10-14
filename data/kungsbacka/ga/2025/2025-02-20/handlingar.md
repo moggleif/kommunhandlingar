@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6725411a194d849cc4beb87a/1739522774
 sha256: 7389b22671b5a3fa393c00fe0ff00512d442296da2e4be57b75e3fd1523451be
 bytes: 9958667
 sidor: 173
-hamtad: 2026-10-07T22:20:38+00:00
-konverterad: 2026-10-07T22:21:25+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T06:34:05+00:00
+konverterad: 2026-10-14T06:34:46+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [111, 116, 121]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [88, 111, 116, 121]
+figurer: [6, 7, 20, 28, 32, 40, 88, 96, 101, 130, 131, 134, 135, 141, 144, 145, 146, 156, 157, 158]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -958,7 +958,7 @@ Egenkontroller utförda under 2024
 
 18
 
-[Tabell 23-1](handlingar.tabeller/23-1.csv)
+[Tabell 23-24-1](handlingar.tabeller/23-24-1.csv)
 
 | Egenkontroll EMI<br>Skolsköterskor | Omfattning | Källa |
 | --- | --- | --- |
@@ -968,19 +968,15 @@ Egenkontroller utförda under 2024
 | Medicinsk teknik | Enl. rutin | Rutin/processkarta |
 | Granskning av loggar | 1<br>gång/månad | VC/Systemförvaltare |
 | Journalgranskning | 4 gr/år | Prorenata/VC |
+| Journalgranskning i<br>grupp/Skolsköterska/Skolläkare | 1 gr/år | Prorenata/VC/Skolsköterskor/Skolläkare |
+| Patientens klagomål och<br>synpunkter | Fortlöpande | IVO, avvikelsehanteringssystemet,<br>direktkontakt |
+| Kvalitetsgranskning<br>Läkemedelshantering | 1 /år | Verksamhetschef/Extern granskare |
 
 <!-- sida 24 -->
 
 19
 
 [Tabell 24-1](handlingar.tabeller/24-1.csv)
-
-| Journalgranskning i<br>grupp/Skolsköterska/Skolläkare | 1 gr/år | Prorenata/VC/Skolsköterskor/Skolläkare |
-| --- | --- | --- |
-| Patientens klagomål och<br>synpunkter | Fortlöpande | IVO, avvikelsehanteringssystemet,<br>direktkontakt |
-| Kvalitetsgranskning<br>Läkemedelshantering | 1 /år | Verksamhetschef/Extern granskare |
-
-[Tabell 24-2](handlingar.tabeller/24-2.csv)
 
 | Egenkontroll<br>EPI/Psykologer | Omfattning | Källa |
 | --- | --- | --- |
@@ -995,23 +991,73 @@ Egenkontroller utförda under 2024
 <!-- sida 25 -->
 
 Resultat gällande identifierade mål för 2024
-Analys
-1\.
+Mål 1.              Strategi/er         Åtgärd        Resultat     Analys
 
-Analys
-2
-
-Analys
-3
-
+Fortsätta utforma och Kontinuerlig      Utbildning/diskussion har HSL personal blivit 1.
+genomförts systematiskt säkrare och numer
+säkerställa dokumentation utbildning/information om varje månad vid dokumenterar med god
+på ett patientsäkert sätt i systemet på kategorimöten HSL. tillförlit till systemet.
+det nya             kategorimöten.
+Revideringar samt Metodstöd hittas lätt i
+framtagande av nya mallar det nya journalsystemet,
+journalsystemet/Prorenata Revidera och ändra mallar i har skett vid flertal tillfällen där EMI:s rutiner och
+under året.   dokument finns
+Under 2024 är det ur ett systemet efter behov,        strukturerat sorterade.
+Metodstödsbiblioteket
+patientsäkerhetsperspektiv gäller både ny utformning (PM/Riktlinjer/rutiner) är Webbportalen har
+av stor betydelse att vi samt borttagande av komplett i journalsystemet utökats med mer
+Nya integrationer samt tjänster som
+säkerställer och fortsätter verktyg som ej hjälper i vårt digitala lösningar har underlättar för
+elever/VH och personal
+arbetet med         uppdrag. (Möjligheter för tillkommit som både
+gagnar patientsäkerhet och
+journalsystemet och detta finns)        processer.
+journalföring på bästa sätt Lägga till nya
+både i EMI journal samt funktioner/integrationer i
+psykologjournal.    systemet som gagnar
+patientsäkerhet.
+Mål 2.              Strategi/er         Åtgärd                     Analys
+Implementering av                                                  2
+sammanhållen                            Information ut till alla
+Informationskampanj inför
+skolor, elever,
+journalföring (NPÖ),
+start av NPÖ producenter vårdnadshavare har
+producent/konsument                     genomförts via affischer, V-
+så att alla krav uppfylls
+klass, Information på
+(Medicinska journalen)
+(Sker ihop med      Kommunens hemsida.
+Information om spärr finns
+kommunikatör)
+tydligt att tillgå.
+Under 2024 kommer
+Påbörja ansökan/underlag Riktlinjer för NPÖ skapade
+anslutning ske och att det för att kunna konsumera enligt krav. (Loggkontroller,
+spärr, samtycke osv)
+sker på ett patientsäkert
+uppgifter från NPÖ
+sätt och att alla krav
+Ansökan för att konsumera
+uppfylls är av stor vikt samt           uppgifter är inledd
+tillsammans med klient
+att vi kommer starta
+(prorenata)
+arbetet med att ansluta oss
+som konsumenter under
+2024, vilket för vår
+verksamhet innebär högre
+patientsäkerhet.
+Mål 3.              Strategi/er         Åtgärd        Resultat     Analys
+Översyn /revidering av Verksamhetschef enligt HSL Reviderat Ej fastställt 3
+ledningssystem      ser över och reviderar ledningssystem skall
+Elevhälsans medicinska ledningssystemet. fastställas av nämnd
+insats.             Anpassa systemet efter nya
+I 3 kap. 1 § SOSFS 2011:9 förutsättningar (organisation
+anges att vårdgivaren samt dokumentationssystem
+för HSL)
+ansvarar för att det finns
 20
-
-[Tabell 25-1](handlingar.tabeller/25-1.csv)
-
-| Mål 1.<br>Fortsätta utforma och<br>säkerställa dokumentation<br>på ett patientsäkert sätt i<br>det nya<br>journalsystemet/Prorenata<br>Under 2024 är det ur ett<br>patientsäkerhetsperspektiv<br>av stor betydelse att vi<br>säkerställer och fortsätter<br>arbetet med<br>journalsystemet och<br>journalföring på bästa sätt<br>både i EMI journal samt<br>psykologjournal. | Strategi/er<br>Kontinuerlig<br>utbildning/information om<br>systemet på<br>kategorimöten.<br>Revidera och ändra mallar i<br>systemet efter behov,<br>gäller både ny utformning<br>samt borttagande av<br>verktyg som ej hjälper i vårt<br>uppdrag. (Möjligheter för<br>detta finns)<br>Lägga till nya<br>funktioner/integrationer i<br>systemet som gagnar<br>patientsäkerhet. | Åtgärd<br>Utbildning/diskussion har<br>genomförts systematiskt<br>varje månad vid<br>kategorimöten HSL.<br>Revideringar samt<br>framtagande av nya mallar<br>har skett vid flertal tillfällen<br>under året.<br>Metodstödsbiblioteket<br>(PM/Riktlinjer/rutiner) är<br>komplett i journalsystemet<br>Nya integrationer samt<br>digitala lösningar har<br>tillkommit som både<br>gagnar patientsäkerhet och<br>processer. | Resultat<br>HSL personal blivit<br>säkrare och numer<br>dokumenterar med god<br>tillförlit till systemet.<br>Metodstöd hittas lätt i<br>det nya journalsystemet,<br>där EMI:s rutiner och<br>dokument finns<br>strukturerat sorterade.<br>Webbportalen har<br>utökats med mer<br>tjänster som<br>underlättar för<br>elever/VH och personal |
-| --- | --- | --- | --- |
-| Mål 2.<br>Implementering av<br>sammanhållen<br>journalföring (NPÖ),<br>producent/konsument<br>(Medicinska journalen)<br>Under 2024 kommer<br>anslutning ske och att det<br>sker på ett patientsäkert<br>sätt och att alla krav<br>uppfylls är av stor vikt samt<br>att vi kommer starta<br>arbetet med att ansluta oss<br>som konsumenter under<br>2024, vilket för vår<br>verksamhet innebär högre<br>patientsäkerhet. | Strategi/er<br>Informationskampanj inför<br>start av NPÖ producenter<br>så att alla krav uppfylls<br>(Sker ihop med<br>kommunikatör)<br>Påbörja ansökan/underlag<br>för att kunna konsumera<br>uppgifter från NPÖ | Åtgärd<br>Information ut till alla<br>skolor, elever,<br>vårdnadshavare har<br>genomförts via affischer, V-<br>klass, Information på<br>Kommunens hemsida.<br>Information om spärr finns<br>tydligt att tillgå.<br>Riktlinjer för NPÖ skapade<br>enligt krav. (Loggkontroller,<br>spärr, samtycke osv)<br>Ansökan för att konsumera<br>uppgifter är inledd<br>tillsammans med klient<br>(prorenata) |  |
-| Mål 3.<br>Översyn /revidering av<br>ledningssystem<br>Elevhälsans medicinska<br>insats.<br>I 3 kap. 1 § SOSFS 2011:9<br>anges att vårdgivaren<br>ansvarar för att det finns | Strategi/er<br>Verksamhetschef enligt HSL<br>ser över och reviderar<br>ledningssystemet.<br>Anpassa systemet efter nya<br>förutsättningar (organisation<br>samt dokumentationssystem<br>för HSL) | Åtgärd<br>Reviderat<br>ledningssystem skall<br>fastställas av nämnd | Resultat<br>Ej fastställt |
 
 <!-- sida 26 -->
 
@@ -1970,8 +2016,9 @@ Reformen innebär att kursbetyg ersätts av ämnesbetyg i gymnasieskolan, anpass
 
 [Tabell 48-1](handlingar.tabeller/48-1.csv)
 
-| Utfall (miljoner kronor)<br>Intäkter | Utfall 2022<br>174,6 | Utfall 2023<br>171,2 | Utfall 2024<br>165,5 |
+| Utfall (miljoner kronor) | Utfall 2022 | Utfall 2023 | Utfall 2024 |
 | --- | --- | --- | --- |
+| Intäkter | 174,6 | 171,2 | 165,5 |
 | Kostnader | -737,5 | -761,2 | -780,4 |
 | Netto | -562,9 | -590,0 | -614,9 |
 | Budget, netto | -588,7 | -603,3 | -628,4 |
@@ -1979,8 +2026,9 @@ Reformen innebär att kursbetyg ersätts av ämnesbetyg i gymnasieskolan, anpass
 
 [Tabell 48-2](handlingar.tabeller/48-2.csv)
 
-| Utfall (miljoner kronor)<br>Utgifter | Utfall 2022<br>-5,9 | Utfall 2023<br>-6,3 | Utfall 2024<br>-4,4 |
+| Utfall (miljoner kronor) | Utfall 2022 | Utfall 2023 | Utfall 2024 |
 | --- | --- | --- | --- |
+| Utgifter | -5,9 | -6,3 | -4,4 |
 | Inkomster |  |  |  |
 | Netto | -5,9 | -6,3 | -4,4 |
 
@@ -3285,10 +3333,12 @@ systematiska arbetsmiljöarbetet.
 
 [Tabell 73-1](handlingar.tabeller/73-1.csv)
 
-| Namn<br>Riskobservation | 2022<br>16 | 2023<br>15 | 2024<br>32 |
+| Namn | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- |
+| Riskobservation | 16 | 15 | 32 |
 | Tillbud | 122 | 154 | 159 |
-| Olycksfall<br>Total | 27<br>165 | 31<br>200 | 38<br>229 |
+| Olycksfall | 27 | 31 | 38 |
+| Total | 165 | 200 | 229 |
 
 <!-- sida 74 -->
 
@@ -3560,8 +3610,9 @@ Vuxenutbildningen på Elof Lindälvs gymnasium redovisar ett underskott på -3,7
 
 [Tabell 78-1](handlingar.tabeller/78-1.csv)
 
-| Uppföljningsnivå (belopp i mkr)<br>Gemensam verksamhet | Bokslut 2023<br>-38,5 | Budget 2024<br>-45,6 | Bokslut 2024<br>-41,9 | Budgetavvikelse 2024<br>3,7 |
+| Uppföljningsnivå (belopp i mkr) | Bokslut 2023 | Budget 2024 | Bokslut 2024 | Budgetavvikelse 2024 |
 | --- | --- | --- | --- | --- |
+| Gemensam verksamhet | -38,5 | -45,6 | -41,9 | 3,7 |
 | Gymnasieverksamhet | -463,1 | -471 | -483,5 | -12,5 |
 | Vuxenutbildning | -24,5 | -30,4 | -28 | 2,4 |
 | Arbetsmarknad | -16,8 | -19,5 | -16,6 | 2,9 |
@@ -3671,7 +3722,7 @@ Investeringar (belopp mkr)
 
 35
 
-[Tabell 80-1](handlingar.tabeller/80-1.csv)
+[Tabell 80-81-1](handlingar.tabeller/80-81-1.csv)
 
 | (Belopp i mkr) | Bokslut 2023 | Budget 2024 | Bokslut 2024 | Avvikelse<br>2024 |
 | --- | --- | --- | --- | --- |
@@ -3679,6 +3730,16 @@ Investeringar (belopp mkr)
 | Exploatering gata/park |  |  |  |  |
 | Lokalinvesteringar |  |  |  |  |
 | Löpande investeringar |  |  |  |  |
+| Medfinansiering |  |  |  |  |
+| Reinvesteringar |  |  |  |  |
+| Övriga investeringar | -6,3 | -4,4 | -4,4 | 0,0 |
+| Finansiell leasing |  |  |  |  |
+| Summa investeringsutgifter | -6,3 | -4,4 | -4,4 | 0,0 |
+| INVESTERINGSINKOMSTER |  |  |  |  |
+| Avgiftsfinansierad verksamhet<br>- Anslutningsavgifter |  |  |  |  |
+| Övriga investeringar - Statliga<br>investeringsbidrag |  |  |  |  |
+| Summa investeringsinkomster |  |  |  |  |
+| Summa nettoinvesteringar | -6,3 | -4,4 | -4,4 | 0,0 |
 
 <!-- sida 81 -->
 
@@ -3697,20 +3758,6 @@ Kommentarer
 36
 
 [Tabell 81-1](handlingar.tabeller/81-1.csv)
-
-| Medfinansiering |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Reinvesteringar |  |  |  |  |
-| Övriga investeringar | -6,3 | -4,4 | -4,4 | 0,0 |
-| Finansiell leasing |  |  |  |  |
-| Summa investeringsutgifter | -6,3 | -4,4 | -4,4 | 0,0 |
-| INVESTERINGSINKOMSTER |  |  |  |  |
-| Avgiftsfinansierad verksamhet<br>- Anslutningsavgifter |  |  |  |  |
-| Övriga investeringar - Statliga<br>investeringsbidrag |  |  |  |  |
-| Summa investeringsinkomster |  |  |  |  |
-| Summa nettoinvesteringar | -6,3 | -4,4 | -4,4 | 0,0 |
-
-[Tabell 81-2](handlingar.tabeller/81-2.csv)
 
 | Pro<br>jnr | Text | Totalbud<br>get | Totalpro<br>gnos | Utfall<br>totalt tom<br>dec 2024 | Budget<br>2024 | Bokslut<br>2024 | Avvikels<br>e 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -4369,12 +4416,14 @@ Granskning ej möjlighet att genomföra under 2024.
 
 9
 
-[Tabell 99-1](handlingar.tabeller/99-1.csv)
+[Tabell 99-100-1](handlingar.tabeller/99-100-1.csv)
 
 | Risker | Enhet Granskningsaktiviteter | Åtgärder |
 | --- | --- | --- |
 | Kommunövergripande<br>risk: Brister vid<br>referenstagning | Kännedom och följsamhet<br>Gymnasium &<br>till rutiner för rekrytering och<br>Arbetsmarknad<br>referenstagning | Information/utbildning<br>referenstagning |
 | Kommunövergripande<br>risk: Övertidsersättning<br>betalas ut på fel grund | Gymnasium & Kontroll av utbetald<br>Arbetsmarknad övertidsersättning | Utbildning |
+| Kommunövergripande<br>risk - Risk för korruption | Granskning av om<br>förebyggande arbete och<br>Gymnasium & relevanta kontroller mot<br>Arbetsmarknad korruption och<br>välfärdsbrottslighet fungerar<br>rimligt väl | Varje verksamhet identifierar<br>risker för välfärdsbrottslighet,<br>korruption och otillbörlig<br>påverkan inom sina områden |
+|  |  | Medarbetare, chefer och nämnd<br>får regelbunden information om<br>vad välfärdsbrott, korruption och<br>otillbörlig påverkan är och rutiner<br>samt får möjlighet att diskutera<br>hur detta kan ta sig uttryck inom<br>den egna<br>enheten/ansvarsområdet |
 
 <!-- sida 100 -->
 
@@ -4419,13 +4468,6 @@ rekommendationerna.
 
 10
 
-[Tabell 100-1](handlingar.tabeller/100-1.csv)
-
-| Risker | Enhet Granskningsaktiviteter | Åtgärder |
-| --- | --- | --- |
-| Kommunövergripande<br>risk - Risk för korruption | Granskning av om<br>förebyggande arbete och<br>Gymnasium & relevanta kontroller mot<br>Arbetsmarknad korruption och<br>välfärdsbrottslighet fungerar<br>rimligt väl | Varje verksamhet identifierar<br>risker för välfärdsbrottslighet,<br>korruption och otillbörlig<br>påverkan inom sina områden |
-|  |  | Medarbetare, chefer och nämnd<br>får regelbunden information om<br>vad välfärdsbrott, korruption och<br>otillbörlig påverkan är och rutiner<br>samt får möjlighet att diskutera<br>hur detta kan ta sig uttryck inom<br>den egna<br>enheten/ansvarsområdet |
-
 <!-- sida 101 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
@@ -4438,6 +4480,9 @@ när skötseln av en kommunal angelägenhet har lämnats över till någon annan
 Med privata utförare avses utförare som har hand om skötseln av en kommunal angelägenhet (KL kap 10). Som
 privat utförare räknas inte hel- eller delägda kommunala bolag, eller stiftelse eller förening som bildats av
 kommunen eller regionen.
+Verksamhet           Andel av verksamhetsvolym % Kostnad för verksamhet mnkr
+
+Bokslut 2023 Bokslut 2024 Bokslut 2023 Bokslut 2024
 
 Vuxnas lärande genomför kontinuerlig uppföljning av de privata utbildningsleverantörerna. Detta görs i form av
 avvikelserapportering, begäran om dokumentation m.m. Ett större granskningsarbete görs vartannat år. Arbetet
@@ -4461,7 +4506,7 @@ När det gäller gymnasieverksamheten har andel elever hos externa utförare ök
 
 [Tabell 101-1](handlingar.tabeller/101-1.csv)
 
-| Verksamhet<br>Gymnasieverksamhet | Andel av verksamhetsvolym %<br>Bokslut 2023 Bokslut 2024<br>22,6 23,7 |  | Kostnad för verksamhet mnkr<br>Bokslut 2023 Bokslut 2024<br>96,7 108,5 |  |
+| Gymnasieverksamhet | 22,6 | 23,7 | 96,7 | 108,5 |
 | --- | --- | --- | --- | --- |
 | Gymnasial vuxenutbildning | 91,5 | 96 | 16,9 | 18,3 |
 | Svenska för invandrare | 100 | 100 | 8 | 6,5 |
@@ -4566,7 +4611,7 @@ Nämndens självskattning
 
 14
 
-[Tabell 104-1](handlingar.tabeller/104-1.csv)
+[Tabell 104-105-1](handlingar.tabeller/104-105-1.csv)
 
 | Område<br>Uppdrag och mål | Svar,<br>Frågor Antal<br>2024<br>Är mål, styrdokument, rutiner etc. kända i organisationen |
 | --- | --- |
@@ -4584,6 +4629,11 @@ Nämndens självskattning
 |  | Riskanalysen är underlag för åtgärder och granskningar |
 | Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens processer är dokumenterade<br>(ingår i rutiner) och kända |
 |  | Vi har system/rutiner för att förslag, synpunkter och klagomål<br>sammanställs och leder till förbättringar |
+| Område<br>Uppföljning | Svar,<br>Frågor Antal<br>2024<br>Åtgärder vidtas vid konstaterade avvikelser |
+|  | Återkoppling sker till förvaltningsledningen |
+|  | Vi återkopplar resultat av uppföljning till politiskt ansvariga |
+| Information/kommunikation | Introduktion av nya chefer sker enligt programmet<br>"Kungsbackaledaren bas" |
+|  | Vi har en fungerande introduktion av nya medarbetare |
 
 <!-- sida 105 -->
 
@@ -4591,15 +4641,6 @@ Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Uppföljningsrapport intern kontroll 2024
 
 15
-
-[Tabell 105-1](handlingar.tabeller/105-1.csv)
-
-| Område<br>Uppföljning | Svar,<br>Frågor Antal<br>2024<br>Åtgärder vidtas vid konstaterade avvikelser |
-| --- | --- |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till politiskt ansvariga |
-| Information/kommunikation | Introduktion av nya chefer sker enligt programmet<br>"Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya medarbetare |
 
 <!-- sida 106 -->
 
@@ -5516,7 +5557,7 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024    4
 
 [Tabell 127-1](handlingar.tabeller/127-1.csv)
 
-| 2021 2022 2023 2024 |  |  |  |  |  |  |
+| 2021 |  | 2022 |  | 2023 |  | 2024 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Kungsbacka | Riket\* | Kungsbacka | Riket\* | Kungsbacka | Riket\* | Kungsbacka |
 | 32 132 | 30 350 | 32 770 | 31 000 | 34 100 | 32 215 | 35 600 |
@@ -5764,38 +5805,46 @@ historisk lön.
 Nedan är befattningar med minst två män respektive kvinnor i befattningen och där
 medianlöneskillnader för månadsanställda är mer än 5 % mellan kvinnor och män.
 
+Befattning                Antal kvinnor Antal män    Procentuell
+skillnad i
+medianlön,
+män/kvinnor
+
+```osaker-tabell
+Utvecklare IT             10          4              86% (87%, 89%)
+Verksamhetsutvecklare     7           2              89%
+Systemförvaltare          10          6              90% (93%)
+Verksamhetschef           8           5              94% (93%, 93%)
+
+Bygglovshandläggare       10          7              94% (95%)
+Utvecklare                15          4              95% (95%)
+Sjuksköterska             109         10             95% (93%, 93%)
+Handläggare               4           2              95%
+
+Aktiveringspedagog        24          2              105%
+Utvecklare                39          19             104%
+Boendepedagog             3           2              104%
+Personlig assistent       70          23             106%
+Samhällsvägledare         16          2              106%
+
+Planarkitekt              9           2              105%
+Fritidspedagog            20          10             107%
+Administratör             66          4              108%
+Familjehemssekreterare    5           2              106%
+Socialsekr LVU/LVM        51          6              109%
+
+Elevassistent             121         38             114%
+Skolassistent             31          15             116%
+Barnskötare               278         3              117%
+Biståndshandläggare       28          2              114%
+
+Verksamhetschef           7           3              108%
+IKT-pedagog               3           2              123%
+```
+
 (Från BI, Daterad: 241030)
 
 Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   10
-
-[Tabell 133-1](handlingar.tabeller/133-1.csv)
-
-| Befattning Antal kvinnor Antal män Procentuell<br>skillnad i<br>medianlön,<br>män/kvinnor |  |  |  |
-| --- | --- | --- | --- |
-| Utvecklare IT | 10 | 4 | 86% (87%, 89%) |
-| Verksamhetsutvecklare | 7 | 2 | 89% |
-| Systemförvaltare | 10 | 6 | 90% (93%) |
-| Verksamhetschef | 8 | 5 | 94% (93%, 93%) |
-| Bygglovshandläggare | 10 | 7 | 94% (95%) |
-| Utvecklare | 15 | 4 | 95% (95%) |
-| Sjuksköterska | 109 | 10 | 95% (93%, 93%) |
-| Handläggare | 4 | 2 | 95% |
-| Aktiveringspedagog | 24 | 2 | 105% |
-| Utvecklare | 39 | 19 | 104% |
-| Boendepedagog | 3 | 2 | 104% |
-| Personlig assistent | 70 | 23 | 106% |
-| Samhällsvägledare | 16 | 2 | 106% |
-| Planarkitekt | 9 | 2 | 105% |
-| Fritidspedagog | 20 | 10 | 107% |
-| Administratör | 66 | 4 | 108% |
-| Familjehemssekreterare | 5 | 2 | 106% |
-| Socialsekr LVU/LVM | 51 | 6 | 109% |
-| Elevassistent | 121 | 38 | 114% |
-| Skolassistent | 31 | 15 | 116% |
-| Barnskötare | 278 | 3 | 117% |
-| Biståndshandläggare | 28 | 2 | 114% |
-| Verksamhetschef | 7 | 3 | 108% |
-| IKT-pedagog | 3 | 2 | 123% |
 
 <!-- sida 134 -->
 
@@ -5991,7 +6040,7 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   13
 
 [Tabell 136-1](handlingar.tabeller/136-1.csv)
 
-| BAS 2017 2019 2021 2022 2023 2024 |  |  |  |  |  |  |
+| BAS | 2017 | 2019 | 2021 | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- | --- | --- | --- |
 | A | 104% | 105% | 105% | 100% | 103% | 102% |
 | B | 92% | 95% | 98% | 97% | 102% | 101% |
@@ -6004,7 +6053,7 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   13
 | I | 96% | 96% | 98% | 98% | 100% | 102% |
 | J | 98% | 97% | 98% | 99% | 96% | 98% |
 
-[Tabell 136-2](handlingar.tabeller/136-2.csv)
+[Tabell 136-137-2](handlingar.tabeller/136-137-2.csv)
 
 | BAS Befattning Antal anställningar En befattnings medianlön i jämförelse<br>med BAS-intervallets medianlön,<br>procentuell skillnad. |  |  |  |
 | --- | --- | --- | --- |
@@ -6024,6 +6073,12 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   13
 | J | Enhetschef | 96 | 94% |
 | F | Arkivarie | 6 | 94% |
 | B | Vårdbiträde | 153 | 94% |
+| C | Dagbarnvårdare | 7 | 95% |
+| G | Socialsekreterare LVU/LVM | 57 | 95% |
+| E | Rekryterare | 8 | 95% |
+| F | Studie och yrkesvägledare | 22 | 95% |
+| C | Personlig assistent | 93 | 95% |
+| C | Barnskötare | 281 | 95% |
 
 <!-- sida 137 -->
 
@@ -6041,17 +6096,7 @@ befattning. För de flesta av de större befattningarna är lönespridningen god
 
 Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   14
 
-[Tabell 137-1](handlingar.tabeller/137-1.csv)
-
-| C | Dagbarnvårdare | 7 | 95% |
-| --- | --- | --- | --- |
-| G | Socialsekreterare LVU/LVM | 57 | 95% |
-| E | Rekryterare | 8 | 95% |
-| F | Studie och yrkesvägledare | 22 | 95% |
-| C | Personlig assistent | 93 | 95% |
-| C | Barnskötare | 281 | 95% |
-
-[Tabell 137-2](handlingar.tabeller/137-2.csv)
+[Tabell 137-138-1](handlingar.tabeller/137-138-1.csv)
 
 | Befattning Antal Medianlön Medianlön Lönespännvidd<br>anställningar kvinnor män |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -6080,20 +6125,16 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   14
 | Administratör | 70 | 34 295 | 31 725 | 17% |
 | Biträde | 62 | 24 200 | 25 000 | 19% |
 | Lärare Kulturskolan | 60 | 35 600 | 36 100 | 14% |
-
-<!-- sida 138 -->
-
-Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   15
-
-[Tabell 138-1](handlingar.tabeller/138-1.csv)
-
 | Specialpedagog | 59 | 47 475 | 47 700 | 11% |
-| --- | --- | --- | --- | --- |
 | Utvecklare | 58 | 44 200 | 42 600 | 28% |
 | Fastighetstekniker | 57 | 30 800 | 31 400 | 11% |
 | Socialsekr LVU/LVM | 57 | 43 500 | 40 050 | 23% |
 | Lärare yrkesämnen | 51 | 44 000 | 43 850 | 27% |
 | Utvecklingsledare | 51 | 49 950 | 51 500 | 17% |
+
+<!-- sida 138 -->
+
+Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   15
 
 <!-- sida 139 -->
 
@@ -6187,7 +6228,7 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   17
 
 [Tabell 140-1](handlingar.tabeller/140-1.csv)
 
-| BAS Antal Kvinnors Antal Männens 2020 2021 2022 2023 2024<br>kvinnor medianlön män medianlön |  |  |  |  |  |  |  |  |  |
+| BAS | Antal<br>kvinnor | Kvinnors<br>medianlön | Antal<br>män | Männens<br>medianlön | 2020 | 2021 | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | 140 | 26 450 | 71 | 25 900 | 1 225 kr | 1 301 kr | 800 kr | 800 kr | 550 kr |
 | B | 535 | 28 000 | 144 | 27 703 | -1 200 kr | -545 kr | -250 kr | 600 kr | 297 kr |
@@ -6216,39 +6257,25 @@ kontinuerliga insatser vid lönesättning och löneöversyn. Handlingsplanen rev
 2000
 
 1500
-
+1 075        1100
 1000
-
-500
-
+550
+500           297                300
+201
 0
-
+A     B     C     D      E     F     G      H     I     J
 -500
-
+-375
 -1000
-0
+-1 000                   -1000
+-1 100
 -1500
-
 -2000
 
 -2500
 2019 2020 2021 2022 2023 2024
 
 Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   18
-
-[Tabell 141-1](handlingar.tabeller/141-1.csv)
-
-|  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  | 1 07 | 5 | 110 | 0 |
-| 55 | 0 |  |  |  |  |  |  |  |  |
-|  | 29 | 7<br>20 | 1 | 30 | 0 |  |  |  |  |
-| A | B | C | D | E | F | G | H | I | J |
-|  |  |  |  |  |  |  | -375 |  |  |
-|  |  |  | -1 10 | 0 | -1 00 | 0 |  |  | -100 |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
 
 <!-- sida 142 -->
 
@@ -6744,9 +6771,9 @@ konsekvensbedömningen:
 
 9
 
-[Tabell 154-1](handlingar.tabeller/154-1.csv)
+[Tabell 154-155-1](handlingar.tabeller/154-155-1.csv)
 
-| Gjorda konsekvensbedömningar där yttrande lämnats<br>2021 2022 2023 2024 |  |  |  |
+| Gjorda konsekvensbedömningar där yttrande lämnats<br>2021 | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- |
 | Integrationsplattform<br>(SE) | Kontors- och<br>samarbetsverktyg (KS) | Stöd vid separationer<br>(IF) | Digitalt stöd för<br>medborgardialog (KS) |
 | Mitt Arkiv (KS) | Ansökan om stipendium –<br>e-tjänst (GA) | Specialkost (SE) | Specialkost (SE) |
@@ -6755,6 +6782,16 @@ konsekvensbedömningen:
 | Bedömningsstöd inom<br>gymnasieskolan (GA) | Hantering av<br>användarbehörigheter (SE) | Automatiserat avslut<br>av personakter (SE) | Kompletterande<br>kamerabevakning i<br>cykelgarage (TE) |
 | Färdtjänst – e-tjänst (TE) | Rapportering av<br>missförhållanden<br>(visselblåsarfunktion) (KS) | Analys- och<br>planeringsstöd inom<br>socialtjänsten (IF) | Kompletterande<br>kamerabevakning/digital<br>tillsyn (IF) |
 | Ekonomiskt bistånd – e-<br>tjänst (GA) | Digitalt stöd inom LSS (IF) | Säker posthantering<br>(digital/fysisk) (KS) | Elevhälsans medicinska<br>insats (FG), (GA) |
+| Orosanmälan – e-tjänst<br>(IF) | Anmälan om tillsyn enligt<br>plan- och bygglagen<br>(olovligheter) – e-tjänst<br>(BN) | Dokumentationsstöd<br>för individärenden<br>inom socialtjänst (IF) | Rekryteringstester (SE) |
+|  | Säker invånardialog (KS) | Digitalt stöd vid ASI-<br>utredning (IF) | Handläggningsstöd för<br>insatser inom<br>socialtjänst i form av<br>arbetsmarknadsinsatser<br>och etablerings- och<br>försörjningsstöd (GA) |
+|  | Stopp-möte (KFT) | Säker arbetsyta för<br>tillfällig hantering av<br>känslig information8<br>(KS) | Behovsanalys kopplat till<br>aktivitetsbaserade<br>arbetsplatser (SE) |
+|  | Hantering av skyddade<br>personuppgifter vid<br>handläggning inom<br>socialtjänsten (IF) |  |  |
+|  | Samtalsstöd för barn och<br>unga inom socialtjänsten<br>(IF) |  |  |
+|  | Analys- och planeringsstöd<br>inom socialtjänsten (IF/VO) |  |  |
+|  | E-underskrifter (KS) |  |  |
+|  | Pulsmätning av<br>arbetsmiljön (KS) |  |  |
+|  | Gästnätverk (SE) |  |  |
+|  | Uppföljning av<br>verksamhetsservice per<br>fastighetsobjekt (SE) |  |  |
 
 <!-- sida 155 -->
 
@@ -6774,20 +6811,6 @@ incidenter i en verksamhet som hanterar stora mängder personuppgifter väcker f
 finns rutiner. I sammanhanget ska det också sägas att många rapporterade och hanterade incidenter
 
 8 Tröskelanalys                                                 10
-
-[Tabell 155-1](handlingar.tabeller/155-1.csv)
-
-| Orosanmälan – e-tjänst<br>(IF) | Anmälan om tillsyn enligt<br>plan- och bygglagen<br>(olovligheter) – e-tjänst<br>(BN) | Dokumentationsstöd<br>för individärenden<br>inom socialtjänst (IF) | Rekryteringstester (SE) |
-| --- | --- | --- | --- |
-|  | Säker invånardialog (KS) | Digitalt stöd vid ASI-<br>utredning (IF) | Handläggningsstöd för<br>insatser inom<br>socialtjänst i form av<br>arbetsmarknadsinsatser<br>och etablerings- och<br>försörjningsstöd (GA) |
-|  | Stopp-möte (KFT) | Säker arbetsyta för<br>tillfällig hantering av<br>känslig information8<br>(KS) | Behovsanalys kopplat till<br>aktivitetsbaserade<br>arbetsplatser (SE) |
-|  | Hantering av skyddade<br>personuppgifter vid<br>handläggning inom<br>socialtjänsten (IF) |  |  |
-|  | Samtalsstöd för barn och<br>unga inom socialtjänsten<br>(IF) |  |  |
-|  | Analys- och planeringsstöd<br>inom socialtjänsten (IF/VO) |  |  |
-|  | E-underskrifter (KS) |  |  |
-|  | Pulsmätning av<br>arbetsmiljön (KS) |  |  |
-|  | Gästnätverk (SE) |  |  |
-|  | Uppföljning av<br>verksamhetsservice per<br>fastighetsobjekt (SE) |  |  |
 
 <!-- sida 156 -->
 

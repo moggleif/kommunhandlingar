@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6111bcdb1920bbb80f875b21/1727095568
 sha256: 57fe5bd85a3d65dd573d508bb62f187c57671c810a0992c1825fbc6c95671b23
 bytes: 5745236
 sidor: 118
-hamtad: 2026-10-08T07:33:12+00:00
-konverterad: 2026-10-08T07:33:35+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T10:31:36+00:00
+konverterad: 2026-10-14T10:31:58+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [47, 48, 49, 50, 51, 52, 53, 54, 55, 58, 60, 62, 73, 76, 81, 82, 83, 84]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -68,7 +68,7 @@ KUNGSBACKA  KOMMUN
 
 3(4)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
+[Tabell 3-4-1](handlingar.tabeller/3-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -77,6 +77,8 @@ KUNGSBACKA  KOMMUN
 |  | PAUS 15 min |  |  |
 | 8. | Information till nämnd:<br>vidareutveckling av stöd till<br>föreningar<br>Föredragande: Karl Persson,<br>förvaltningschef<br>1 st dokument<br>30 min | KFT-2024-<br>00254 | Nämnden noterar informationen till protokollet. |
 | 9. | Anmälan av delegeringsbeslut<br>september 2024 | KFT-2024-<br>00255 | Redovisning av delegeringsbeslut förtecknade i<br>protokoll 2024-09-25 godkänns. |
+| 10. | Redovisning av inkomna<br>skrivelser september 2024 | KFT-2024-<br>00256 | Nämnden för Kultur & Fritid noterar redovisningen<br>av inkomna handlingar till protokollet. |
+| 11. | Förvaltningschefen informerar<br>september 2024<br>Föredragande: Karl Persson,<br>förvaltningschef | KFT-2024-<br>00257 | Nämnden noterar informationen till protokollet. |
 
 <!-- sida 4 -->
 
@@ -86,13 +88,6 @@ KUNGSBACKA  KOMMUN
 
 Annika Hedman                     Erik Norinder
 ordförande                        sekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 10. | Redovisning av inkomna<br>skrivelser september 2024 | KFT-2024-<br>00256 | Nämnden för Kultur & Fritid noterar redovisningen<br>av inkomna handlingar till protokollet. |
-| 11. | Förvaltningschefen informerar<br>september 2024<br>Föredragande: Karl Persson,<br>förvaltningschef | KFT-2024-<br>00257 | Nämnden noterar informationen till protokollet. |
 
 <!-- sida 5 -->
 
@@ -1321,20 +1316,22 @@ genomsnittlig
 90,5 %     90,4 %      88,9 %       88,8 %      89,1 %
 sysselsättnings
 grad
-Anställda totalt 193      199         196           200         209
-Antal
-medarbetare    15,1       15,6       15,3           14,4       12,9
-per chef
-Antal
-medarbetare    22,6       23,4       20,4           18,7       16,2
-per enhetschef
+
 Medarbetare
 21,8 %     18,1 %      21,9 %       22,5 %      23,4 %
 30 - 39 år
 Medarbetare
 28,5 %     27,6 %      28,6 %       28,5 %      28,7 %
 40 - 49 år
+
 22
+
+[Tabell 32-1](handlingar.tabeller/32-1.csv)
+
+| Anställda totalt | 193 | 199 | 196 | 200 | 209 |
+| --- | --- | --- | --- | --- | --- |
+| Antal medarbetare per chef | 15,1 | 15,6 | 15,3 | 14,4 | 12,9 |
+| Antal medarbetare per enhetschef | 22,6 | 23,4 | 20,4 | 18,7 | 16,2 |
 
 <!-- sida 33 -->
 
@@ -1455,6 +1452,26 @@ Delårsrapport Augusti 2024
 
 Utfall och prognos
 
+Bokslut Budget Prognos Budget-  Delår   Delår Avvikelse
+Miljoner kronor
+2023    2024   2024   avvikelse 2023   2024    delår
+Nämnd            -1,2    -1,3    -1,3    0,0    -0,8    -0,8     0,0
+Förvaltningslednin
+-11,1   -13,2   -11,9    1,3    -6,8    -7,4    -0,6
+g
+Kvalitet & social
+-12,1   -12,1   -12,2    -0,1   -7,2    -8,0    -0,8
+hållbarhet
+Platsvarumärke
+-0,9    -4,0    -4,3    -0,3     0     -2,8    -2,8
+&kommunikation
+Fritid &
+-160,8 -172,8  -174,5    -1,7  -112,7  -122,5   -9,8
+mötesplatser
+Kultur & demokrati -82,9 -85,0  -86,4    -1,4   -55,1  -57,2    -2,1
+Periodens
+-269,0 -288,4  -290,6    -2,2  -182,6  -198,7   -16,1
+resultat
 Från årsskiftet har förvaltningen en ny organisation vilket innebär att Bokslut 2023 och Delår 2023 inte är helt jämförbart med
 nuvarande organisation.
 Sammanfattning - text till kommunstyrelsen
@@ -1476,19 +1493,6 @@ Kvalitet & social hållbarhet: På grund av vakanser har enheten haft möjlighet
 anställa en innovationsledare som arbetar med att stärka förvaltningens kunskap och förmåga att arbeta med
 
 25
-
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
-
-| Miljoner kronor<br>Nämnd | Bokslut<br>2023<br>-1,2 | Budget<br>2024<br>-1,3 | Prognos<br>2024<br>-1,3 | Budget-<br>avvikelse<br>0,0 | Delår<br>2023<br>-0,8 | Delår<br>2024<br>-0,8 | Avvikelse<br>delår<br>0,0 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Förvaltningslednin<br>g | -11,1 | -13,2 | -11,9 | 1,3 | -6,8 | -7,4 | -0,6 |
-| Kvalitet & social<br>hållbarhet | -12,1 | -12,1 | -12,2 | -0,1 | -7,2 | -8,0 | -0,8 |
-| Platsvarumärke<br>&kommunikation | -0,9 | -4,0 | -4,3 | -0,3 | 0 | -2,8 | -2,8 |
-| Fritid &<br>mötesplatser | -160,8 | -172,8 | -174,5 | -1,7 | -112,7 | -122,5 | -9,8 |
-| Kultur & demokrati | -82,9 | -85,0 | -86,4 | -1,4 | -55,1 | -57,2 | -2,1 |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-| Periodens<br>resultat | -269,0 | -288,4 | -290,6 | -2,2 | -182,6 | -198,7 | -16,1 |
 
 <!-- sida 36 -->
 
@@ -1579,7 +1583,7 @@ Utfall och prognos
 |  |  |
 | Summa | -2,2 |
 
-[Tabell 37-2](handlingar.tabeller/37-2.csv)
+[Tabell 37-38-2](handlingar.tabeller/37-38-2.csv)
 
 | Miljoner kronor | Bokslut 2023 | Budget 2024 | Prognos 2024 | Budgetavvike<br>lse 2024 | Delår 2024 |
 | --- | --- | --- | --- | --- | --- |
@@ -1596,6 +1600,8 @@ Utfall och prognos
 | Reinvesteringar |  |  |  |  |  |
 | Utgifter | -11,1 | -4,2 | -4,6 | -0,4 | -4,6 |
 |  |  |  |  |  |  |
+| Här lägger ni till<br>ytterligare<br>investeringskategori<br>er om aktuellt |  |  |  |  |  |
+| Netto | -20,5 | -26,1 | -13,5 | 12,6 | -8,0 |
 
 <!-- sida 38 -->
 
@@ -1630,13 +1636,6 @@ Specifikation projekt över 30 mnkr till Kommunstyrelsen
 28
 
 [Tabell 38-1](handlingar.tabeller/38-1.csv)
-
-| Miljoner kronor | Bokslut 2023 | Budget 2024 | Prognos 2024 | Budgetavvike<br>lse 2024 | Delår 2024 |
-| --- | --- | --- | --- | --- | --- |
-| Här lägger ni till<br>ytterligare<br>investeringskategori<br>er om aktuellt |  |  |  |  |  |
-| Netto | -20,5 | -26,1 | -13,5 | 12,6 | -8,0 |
-
-[Tabell 38-2](handlingar.tabeller/38-2.csv)
 
 | Pro<br>jnr | Text | Totalbud<br>get | Totalpro<br>gnos | Avvikels<br>e totalt | Ack utfall<br>totalt tom<br>augusti<br>2024 | Helårspr<br>ognos<br>2024 | Budget<br>2024 | Avvikel<br>se 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2346,7 +2345,7 @@ Bestämmelser och deleg ering av beslutanderätt Sida 9 av 16
 
 Bestämmelser och deleg ering av beslutanderätt Sida 10 av 16
 
-[Tabell 56-1](handlingar.tabeller/56-1.csv)
+[Tabell 56-58-1](handlingar.tabeller/56-58-1.csv)
 
 | Nr | Lagrum/<br>stöd | Delegeringens omfattning | Delegerat<br>till | Med rätt<br>att vidare-<br>delegera | Anmärkning/<br>villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -2358,15 +2357,7 @@ Bestämmelser och deleg ering av beslutanderätt Sida 10 av 16
 | 3.1.6 | Allmänna<br>Dataskydds<br>förordningen<br>EU 2016/679,<br>artikel 30 | Upprätta och underhålla<br>den<br>personuppgiftsansvarige s<br>förteckning över<br>personuppgifts-<br>behandlingen. | Fc | X | Förvaltningens<br>dataskydds-<br>kontakt |
 | 3.1.7 | Allmänna<br>Dataskydds<br>förordningen EU<br>2016/679, artikel<br>35 | Beslut med anledning av<br>konsekvensbedömning/<br>DPIA vid viss<br>personuppgiftsbehandling | Fc |  |  |
 | 3.1.8 | Dataskydds-<br>förordningen | Besluta om att helt eller<br>delvis avslå framställan om<br>begäran av utövande av<br>registrerads rättigheter | Fc | X |  |
-
-<!-- sida 57 -->
-
-Bestämmelser och deleg ering av beslutanderätt Sida 11 av 16
-
-[Tabell 57-1](handlingar.tabeller/57-1.csv)
-
 |  | (GDPR) och<br>dataskyddslagen |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | 3.1.9 | Dataskydds-<br>förordningen<br>artikel 28 | Teckna avtal om<br>personuppgiftsbiträdes<br>behandling av personuppgifter<br>för den personuppgifts-<br>ansvariges räkning | Fc | X | Rätten att<br>vidaredelegera<br>gäller tecknande<br>av<br>personuppgifts-<br>biträdesavtal för<br>digital<br>infrastruktur. |
 | NY<br>3.1.10 | Dataskyddsföror<br>dningen GDPR,<br>artikel 28<br>Hantering av<br>personuppgifter<br>Riktlinjer,<br>Kommunfullmä<br>ktige 2024-03-<br>05 § 33 | Ingå<br>personuppgiftsbiträdesavtal för<br>kommungemensamma digitala<br>tjänster och system. | Bitr. K.dir | X | Med kommun-<br>gemensamt avses<br>att systemet eller<br>tjänsten används<br>av kommunens<br>samtliga nämnder. |
 | NY<br>3.1.11 | Dataskydds-<br>förordningen<br>GDPR, artikel<br>28<br>Hantering av<br>personuppgifter,<br>Riktlinjer,<br>Kommunfullmä<br>ktige 2024-03-<br>05 § 33 | Ge fullmakt att underteckna<br>personuppgiftsbiträdesavtal för<br>digital tjänst eller system som<br>ska användas gemensamt med<br>en eller flera andra nämnder | Fc | X | Fullmakt får ges<br>till tjänsteman<br>som ska vara<br>systemägare för<br>den digitala<br>tjänsten eller<br>systemet. |
@@ -2374,18 +2365,18 @@ Bestämmelser och deleg ering av beslutanderätt Sida 11 av 16
 | 3.1.13 |  | Avge yttranden i<br>byggnadslovsfrågor avseende<br>kulturmiljövård inför beslut<br>om bygglov | Fc | X |  |
 | 3.1.14 |  | Avge yttrande över förslag till<br>detaljplaner utifrån nämndens<br>ansvarsområde | N ordf | X |  |
 | 3.1.15 |  | Beslut och utbetalning av<br>bidrag till idrotts-, kultur- och<br>idéburna föreningar, grupper,<br>nätverk och enskilda<br>kulturutövare samt<br>studieförbund | Fc | X | Inom<br>budgetram och<br>av nämnden<br>fastställda<br>bidragsregler |
+| 3.1.16 | Spellagen<br>6 kap 9 § | Besluta om registrering i fem<br>år, utseende av kontrollant | Fc | X |  |
+| 3.1.17 |  | Underteckna<br>bidragsansökningar där<br>Kungsbacka kommun står som<br>sökande | Fc | X | Rätt att<br>underteckna utan<br>att vara<br>firmatecknare, se<br>punkt 1.5 |
+| 3.1.18 |  | Kvittning av innevarande års<br>rätt till föreningsbidrag mot<br>hyresskuld som avser samma<br>period. | Fc |  |  |
+| 3.1.19 | Regler och<br>riktlinjer för<br>förmåner till<br>förtroendevalda | Besluta om kurser, konferenser<br>och dylikt för förtroendevalda<br>högst 1 dag | N ordf<br>För beslut som<br>avser<br>ordförande<br>beslutar vice<br>ordförande |  | Rätt till arvode<br>för deltagande på<br>aktivitet regleras i<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroendevalda<br>(Kommunfullmäk<br>tige 2023-04-04 §<br>46) |
+
+<!-- sida 57 -->
+
+Bestämmelser och deleg ering av beslutanderätt Sida 11 av 16
 
 <!-- sida 58 -->
 
 Bestämmelser och deleg ering av beslutanderätt Sida 12 av 16
-
-[Tabell 58-1](handlingar.tabeller/58-1.csv)
-
-| 3.1.16 | Spellagen<br>6 kap 9 § | Besluta om registrering i fem<br>år, utseende av kontrollant | Fc | X |  |
-| --- | --- | --- | --- | --- | --- |
-| 3.1.17 |  | Underteckna<br>bidragsansökningar där<br>Kungsbacka kommun står som<br>sökande | Fc | X | Rätt att<br>underteckna utan<br>att vara<br>firmatecknare, se<br>punkt 1.5 |
-| 3.1.18 |  | Kvittning av innevarande års<br>rätt till föreningsbidrag mot<br>hyresskuld som avser samma<br>period. | Fc |  |  |
-| 3.1.19 | Regler och<br>riktlinjer för<br>förmåner till<br>förtroendevalda | Besluta om kurser, konferenser<br>och dylikt för förtroendevalda<br>högst 1 dag | N ordf<br>För beslut som<br>avser<br>ordförande<br>beslutar vice<br>ordförande |  | Rätt till arvode<br>för deltagande på<br>aktivitet regleras i<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroendevalda<br>(Kommunfullmäk<br>tige 2023-04-04 §<br>46) |
 
 <!-- sida 59 -->
 
@@ -2393,7 +2384,7 @@ Bestämmelser och deleg ering av beslutanderätt Sida 12 av 16
 
 Bestämmelser och deleg ering av beslutanderätt Sida 13 av 16
 
-[Tabell 59-1](handlingar.tabeller/59-1.csv)
+[Tabell 59-60-1](handlingar.tabeller/59-60-1.csv)
 
 |  | Lagrum/<br>stöd | Delegeringens omfattning | Delegerat<br>till | Med rätt<br>att vidare-<br>delegera | Anmärkning/<br>villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -2401,17 +2392,13 @@ Bestämmelser och deleg ering av beslutanderätt Sida 13 av 16
 | 3.2.2 | Nämndens<br>beslut om<br>nämnd-<br>budget och<br>Kungsbacka<br>styrmodell | Beslut om<br>förvaltningsbudget med<br>fördelning på<br>verksamhetsnivå. | Fc |  |  |
 | 3.2.3 | Attest-<br>reglementet | Utse beslutsattestanter och<br>ersättare för nämndens<br>verksamheter | Fc |  | Anmäls till<br>nämnden en gång<br>per år. |
 | 3.2.4 | Regler för<br>kommunens<br>likvidplanering,<br>krav- och<br>inkasso-<br>verksamhet och<br>kontant-<br>hantering | Beslut om att avskriva<br>utestående fordringar upp<br>till ett basbelopp | Fc |  | I samråd med<br>ansvarig chef. |
+| 3.2.5 |  | Försäljning av inventarier<br>och utrustning | FC | VC | Vidaredelegering<br>till VC och<br>specialist Fritid<br>att avyttra<br>egendom, dock<br>upp till ett<br>maximalt värde<br>om 150 000 kr per<br>tillfälle. |
+| 3.2.6 |  | Beslut om och rätt att<br>underteckna hyresavtal upp<br>till 500 000 kr per år,<br>maximalt 3 år | FC | Specialist<br>Fritid |  |
+| 3.2.7 |  | Beslut om och rätt att<br>underteckna hyresavtal upp<br>till 3 Mkr per år, maximalt<br>5 år | FC |  | Avser externa<br>lokaler och<br>anläggning där<br>Service inte är<br>hyresvärd |
 
 <!-- sida 60 -->
 
 Bestämmelser och deleg ering av beslutanderätt Sida 14 av 16
-
-[Tabell 60-1](handlingar.tabeller/60-1.csv)
-
-| 3.2.5 |  | Försäljning av inventarier<br>och utrustning | FC | VC | Vidaredelegering<br>till VC och<br>specialist Fritid<br>att avyttra<br>egendom, dock<br>upp till ett<br>maximalt värde<br>om 150 000 kr per<br>tillfälle. |
-| --- | --- | --- | --- | --- | --- |
-| 3.2.6 |  | Beslut om och rätt att<br>underteckna hyresavtal upp<br>till 500 000 kr per år,<br>maximalt 3 år | FC | Specialist<br>Fritid |  |
-| 3.2.7 |  | Beslut om och rätt att<br>underteckna hyresavtal upp<br>till 3 Mkr per år, maximalt<br>5 år | FC |  | Avser externa<br>lokaler och<br>anläggning där<br>Service inte är<br>hyresvärd |
 
 <!-- sida 61 -->
 
@@ -2419,7 +2406,7 @@ Bestämmelser och deleg ering av beslutanderätt Sida 14 av 16
 
 Bestämmelser och deleg ering av beslutanderätt Sida 15 av 16
 
-[Tabell 61-1](handlingar.tabeller/61-1.csv)
+[Tabell 61-62-1](handlingar.tabeller/61-62-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat<br>till | Med rätt<br>att vidare-<br>delegera | Anmärkning/ villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -2431,6 +2418,10 @@ Bestämmelser och deleg ering av beslutanderätt Sida 15 av 16
 | 3.3.4 | LAS § 7, AB<br>§§ 33-35 | Uppsägning på grund av<br>arbetsbrist. | Fc | X | I samråd med HR<br>på förvaltningen |
 | 3.3.5 | LAS 18 § | Avsked | Fc | X | I samråd med HR<br>på förvaltningen<br>och förhandlings-<br>chef |
 | 3.3.6 | Reglementet | Avsluta anställning enligt särskild<br>överenskommelse. | Fc | X – dock<br>inte nivå<br>underställd<br>VC | I samråd med HR-<br>chef |
+|  |  | Övrigt |  |  |  |
+| 3.3.7 | AB § 11 | Disciplinpåföljd - skriftlig<br>varning. | Fc | X | I samråd med HR<br>på förvaltningen |
+| 3.3.8 | AB § 10<br>mom 1-3 | Avstängning | Fc | X | I samråd med HR<br>på förvaltningen |
+| 3.3.10 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla. | Fc | X | I samråd med HR<br>på förvaltningen i<br>enlighet med<br>”Regler för bisyssla<br>i Kungsbacka<br>kommun” |
 
 <!-- sida 62 -->
 
@@ -2444,15 +2435,6 @@ Kungsbacka kommun, 434 81 Kungsbacka
 kungsbacka.se
 
 Bestämmelser och deleg ering av beslutanderätt Sida 16 av 16
-
-[Tabell 62-1](handlingar.tabeller/62-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat<br>till | Med rätt<br>att vidare-<br>delegera | Anmärkning/ villkor |
-| --- | --- | --- | --- | --- | --- |
-|  |  | Övrigt |  |  |  |
-| 3.3.7 | AB § 11 | Disciplinpåföljd - skriftlig<br>varning. | Fc | X | I samråd med HR<br>på förvaltningen |
-| 3.3.8 | AB § 10<br>mom 1-3 | Avstängning | Fc | X | I samråd med HR<br>på förvaltningen |
-| 3.3.10 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla. | Fc | X | I samråd med HR<br>på förvaltningen i<br>enlighet med<br>”Regler för bisyssla<br>i Kungsbacka<br>kommun” |
 
 <!-- sida 63 -->
 
@@ -3828,13 +3810,17 @@ Aktuellt forum för respektive digital tjänst eller system framgår i tabellen 
 nedan rekommenderas det att forumet genomförs med undantag för Avtalsuppföljning där Ja innebär att det
 är obligatoriskt.
 
-[Tabell 95-1](handlingar.tabeller/95-1.csv)
+[Tabell 95-96-1](handlingar.tabeller/95-96-1.csv)
 
 | Utvecklingsråd Användarforum Avstämningsmöte Leverantörsmöte Avtalsuppföljning Systemförvaltarforum |  |
 | --- | --- |
 | Publik tjänst | Nej Nej Vid behov Nej Nej Nej |
 | Myndighets-<br>tjänst | Nej Nej Vid behov Ja Nej Nej |
 | Kommersiella<br>tjänster | Nej Nej Vid behov Vid behov Nej Nej |
+| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
+| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
+| Plattform | Ja Ja Ja Ja Ja Ja |
+| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
 
 <!-- sida 96 -->
 
@@ -3883,14 +3869,6 @@ Förslag på agenda:
 •  Dialog om rutiner och arbetet med digital tjänst och system
 
 •  Erfarenhetsutbyte
-
-[Tabell 96-1](handlingar.tabeller/96-1.csv)
-
-| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
-| --- | --- |
-| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
-| Plattform | Ja Ja Ja Ja Ja Ja |
-| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
 
 <!-- sida 97 -->
 

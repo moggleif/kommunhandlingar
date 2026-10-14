@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.77fd706f1a08662c7ea3c37a/1789117158
 sha256: 991e03128d0b829ce00087ada7c100b46539b1cf3ab8b9c8eba235600fbc8a57
 bytes: 9096943
 sidor: 96
-hamtad: 2026-10-08T07:53:14+00:00
-konverterad: 2026-10-08T07:53:38+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T10:48:42+00:00
+konverterad: 2026-10-14T10:49:02+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [37]
-figurer: null
-tolkade: null
+figurer: [10, 16, 30, 31, 32, 33, 34, 35, 36, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -2715,7 +2715,7 @@ Utfall och prognos
 |  |  |
 | Summa | 1,5 |
 
-[Tabell 67-3](handlingar.tabeller/67-3.csv)
+[Tabell 67-68-3](handlingar.tabeller/67-68-3.csv)
 
 | Miljoner kronor | Bokslut 2025 | Budget 2026 | Prognos 2026 | Budgetavvike<br>lse 2026 | Delår 2026 |
 | --- | --- | --- | --- | --- | --- |
@@ -2727,6 +2727,12 @@ Utfall och prognos
 | Utgifter | -1,4 | -24,7 | -20,2 | 4,5 | -11,1 |
 |  |  |  |  |  |  |
 | Lokaler, 0,5% konst |  |  |  |  |  |
+| Utgifter | -0,8 | -3,1 | -1,1 | 2,0 | -0,3 |
+|  |  |  |  |  |  |
+| Reinvesteringar |  |  |  |  |  |
+| Utgifter | -4,2 | -7,0 | -5,5 | 1,5 | -0,5 |
+|  |  |  |  |  |  |
+| Netto | -11,8 | -38,7 | -30,6 | 8,1 | -13,9 |
 
 <!-- sida 68 -->
 
@@ -2764,17 +2770,6 @@ Specifikation projekt över 30 mnkr till Kommunstyrelsen
 28
 
 [Tabell 68-1](handlingar.tabeller/68-1.csv)
-
-| Miljoner kronor | Bokslut 2025 | Budget 2026 | Prognos 2026 | Budgetavvike<br>lse 2026 | Delår 2026 |
-| --- | --- | --- | --- | --- | --- |
-| Utgifter | -0,8 | -3,1 | -1,1 | 2,0 | -0,3 |
-|  |  |  |  |  |  |
-| Reinvesteringar |  |  |  |  |  |
-| Utgifter | -4,2 | -7,0 | -5,5 | 1,5 | -0,5 |
-|  |  |  |  |  |  |
-| Netto | -11,8 | -38,7 | -30,6 | 8,1 | -13,9 |
-
-[Tabell 68-2](handlingar.tabeller/68-2.csv)
 
 | Proj<br>nr | Text | Totalbu<br>dget | Totalpr<br>ognos | Avvikelse<br>totalt | Ack utfall<br>totalt tom<br>augusti<br>2026 | Helårspr<br>ognos<br>2026 | Budge<br>t 2026 | Avvikel<br>se 2026 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

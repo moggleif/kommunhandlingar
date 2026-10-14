@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6f631f6d18ecb8df3409e29/17131878181
 sha256: 58189e65339d168d65937251d3fbb7a7f3e3fe72daedede63d1eb398bf6a35ff
 bytes: 3815995
 sidor: 69
-hamtad: 2026-10-08T02:28:04+00:00
-konverterad: 2026-10-08T02:28:25+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T10:06:11+00:00
+konverterad: 2026-10-14T10:06:28+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [1, 2, 58]
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -719,24 +719,14 @@ Delegeringsförteckning                      Kungsbacka kommun
 | 4.2.10 |  | Beslut om ersättning till särskilt<br>förordnad vårdnadshavare utöver<br>beslut enligt 6 kap. 11 § SoL | Utskott |  |  |
 | 4.2.11 |  | Teckna avtal gällande ersättning<br>enligt delegationsbeslut avseende<br>kontaktperson, kontaktfamilj,<br>familjehem, avlastningsfamilj,<br>särskilt förordnad vårdnadshavare | FC | X |  |
 
-[Tabell 20-2](handlingar.tabeller/20-2.csv)
+[Tabell 20-23-2](handlingar.tabeller/20-23-2.csv)
 
 | Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt<br>att vidare-<br>delegera | Anmärkning |
 | --- | --- | --- | --- | --- | --- |
 | 4.3.1 | 4 § LVU | Beslut om att ansöka om vård enligt<br>LVU hos förvaltningsrätt | Utskott |  |  |
 | 4.3.2 | 6 § LVU | Beslut om omedelbart<br>omhändertagande av ungdom under<br>20 år | Utskott |  | Om nämndens beslut<br>inte kan avvaktas får<br>nämndens ordförande<br>eller annan ledamot<br>som nämnden har<br>förordnat besluta om<br>omedelbart<br>omhändertagande |
 | 4.3.3 | 6 a § LVU | Beslut om omedelbart<br>omhändertagande av person under 18<br>år i de fall svensk domstol inte är<br>behörig att besluta om vård enligt<br>LVU | Utskott |  | Om nämndens beslut<br>inte kan avvaktas får<br>nämndens ordförande<br>eller annan ledamot<br>som nämnden har<br>förordnat besluta om |
-
-<!-- sida 21 -->
-
-Delegeringsförteckning                      Kungsbacka kommun
-
-11
-
-[Tabell 21-1](handlingar.tabeller/21-1.csv)
-
 |  |  |  |  |  | omedelbart<br>omhändertagande |
-| --- | --- | --- | --- | --- | --- |
 | 4.3.4 | 9 § 3st LVU | Beslut om att ett omedelbart<br>omhändertagande genast skall<br>upphöra | Utskott |  | Enligt anm ovan |
 | 4.3.5 | 8 § LVU | Ansökan om förlängd tid för ansökan<br>om vård eller fortsatt<br>omhändertagande för tillfällig vård<br>hos förvaltningsrätten | FC | X |  |
 | 4.3.6 | 8 § 2 p. och 9<br>a § LVU | Beslut om att till förvaltningsrätt<br>ansöka om fortsatt omhändertagande<br>enligt 6 a § LVU | Utskott |  |  |
@@ -755,17 +745,7 @@ Delegeringsförteckning                      Kungsbacka kommun
 | 4.3.19 | 26 § 1 st LVU | Övervägande om flyttningsförbud<br>fortfarande behövs | Utskott |  | Minst var tredje månad |
 | 4.3.20 | 26 § 2 st LVU | Beslut om att flyttningsförbud ska<br>upphöra | Utskott |  | Ett flyttningsförbud ska<br>övervägas minst var<br>tredje månad |
 | 4.3.21 | 27 § LVU | Beslut om tillfälligt flyttningsförbud | Utskott |  | Om nämndens beslut inte<br>kan avvaktas får<br>nämndens ordförande |
-
-<!-- sida 22 -->
-
-Delegeringsförteckning                      Kungsbacka kommun
-
-12
-
-[Tabell 22-1](handlingar.tabeller/22-1.csv)
-
 |  |  |  |  |  | eller annan ledamot som<br>nämnden har förordnat<br>besluta. |
-| --- | --- | --- | --- | --- | --- |
 | 4.3.22 | 30 § 2 st LVU | Beslut om att ett tillfälligt<br>flyttningsförbud enligt 27 § LVU ska<br>upphöra | Utskott |  |  |
 | 4.3.23 | 31 § LVU | Beslut om hur den unges umgänge<br>med föräldrar eller vårdnadshavare<br>ska utövas efter beslut om<br>flyttningsförbud eller tillfälligt<br>flyttningsförbud | Utskott |  |  |
 | 4.3.24 | 31 b § LVU | Beslut om att ansöka om<br>utreseförbud hos förvaltningsrätten | Utskott |  |  |
@@ -777,6 +757,22 @@ Delegeringsförteckning                      Kungsbacka kommun
 | 4.3.30 | 32 a § LVU<br>32 b § LVU | Beslut om provtagning av<br>vårdnadshavare eller förälder inför<br>umgänge eller inför prövning av om<br>vården ska upphöra | Utskott |  |  |
 | 4.3.31 | 43 § 1 p LVU | Begäran om polishandräckning för<br>att genomföra läkarundersökning | Utskott |  | Vid brådskande fall kan<br>nämndens ordförande<br>begära<br>polishandräckning.<br>Befogenheten bör endast<br>utnyttjas i undantagsfall |
 | 4.3.32 | 43 § 2 p LVU | Beslut att begära polishandräckning<br>för att genomföra beslut om vård<br>eller omhändertagande med stöd av<br>LVU | Utskott<br>Tjänsteman<br>enligt<br>särskilt<br>förordnand<br>e då<br>utskottets |  | Bör anlitas endast då<br>andra lösningar inte är<br>möjliga<br>Förordnande enligt<br>separat beslut med<br>förteckning |
+|  |  |  | beslut inte<br>kan<br>avvaktas |  |  |
+| 4.3.33 | 10 kap 2 §<br>SoL | Rätt att såsom ombud föra nämndens<br>talan i mål och ärenden vid domstol<br>med rätt att fullfölja eller återkalla<br>ansökan om vård enligt LVU | FC | X |  |
+| 4.3.34 | 14a § 2 st<br>LVU | Lämna uppgifter om enskilda som<br>vårdas enligt LVU till Statens<br>institutionsstyrelse | FC | X | Avser endast de uppgifter<br>om den enskilde som är<br>relevanta för<br>uppföljningen, ej hela<br>akten. |
+| 4.3.35 | 30 §<br>folkbokförings<br>-lagen | Ansöka om skyddad folkbokföring<br>för barn som vårdas enligt 2 § LVU | FC | X |  |
+
+<!-- sida 21 -->
+
+Delegeringsförteckning                      Kungsbacka kommun
+
+11
+
+<!-- sida 22 -->
+
+Delegeringsförteckning                      Kungsbacka kommun
+
+12
 
 <!-- sida 23 -->
 
@@ -786,15 +782,7 @@ Delegeringsförteckning                      Kungsbacka kommun
 
 13
 
-[Tabell 23-1](handlingar.tabeller/23-1.csv)
-
-|  |  |  | beslut inte<br>kan<br>avvaktas |  |  |
-| --- | --- | --- | --- | --- | --- |
-| 4.3.33 | 10 kap 2 §<br>SoL | Rätt att såsom ombud föra nämndens<br>talan i mål och ärenden vid domstol<br>med rätt att fullfölja eller återkalla<br>ansökan om vård enligt LVU | FC | X |  |
-| 4.3.34 | 14a § 2 st<br>LVU | Lämna uppgifter om enskilda som<br>vårdas enligt LVU till Statens<br>institutionsstyrelse | FC | X | Avser endast de uppgifter<br>om den enskilde som är<br>relevanta för<br>uppföljningen, ej hela<br>akten. |
-| 4.3.35 | 30 §<br>folkbokförings<br>-lagen | Ansöka om skyddad folkbokföring<br>för barn som vårdas enligt 2 § LVU | FC | X |  |
-
-[Tabell 23-2](handlingar.tabeller/23-2.csv)
+[Tabell 23-24-1](handlingar.tabeller/23-24-1.csv)
 
 | Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt<br>att vidare-<br>delegera | Anmärkning |
 | --- | --- | --- | --- | --- | --- |
@@ -805,6 +793,12 @@ Delegeringsförteckning                      Kungsbacka kommun
 | 4.4.5 | 5 kap. 1 § LSB | Beslut om var barnet ska placeras<br>och om hur insatsen i övrigt ska<br>genomföras | Utskott |  | Om nämndens beslut<br>inte kan avvaktas,<br>får ordföranden<br>eller någon annan<br>ledamot som<br>nämnden har utsett<br>besluta i frågan |
 | 4.4.6 | 5 kap. 3 § LSB | Övervägande om insatsen i form<br>av skyddat boende för barn ska<br>fortsätta | Utskott |  |  |
 | 4.4.7 | 5 kap. 6 § LSB | Övervägande om beslut om<br>umgänge eller hemlighållande av | Utskott |  |  |
+|  |  | vistelseort enligt 5 kap. 4 § LSB<br>fortfarande behövs |  |  |  |
+| 4.4.8 | 5 kap. 7 § LSB | Beslut att avvisa framställning om<br>att beslut om hemlighållande av<br>vistelseort eller<br>umgängesbegränsning ska<br>upphöra | FC | X |  |
+| 4.4.8 | 7 kap. 1 § LSB | Beslut om att insats i form av<br>skyddat boende för barn ska<br>upphöra | Utskott |  |  |
+| 4.4.9 | 7 kap. 2 § LSB | Beslut att avvisa framställning om<br>att insats enligt 3 kap. LSB ska<br>upphöra | FC | X |  |
+| 4.4.10 | 8 kap. 7 § LSB | Beslut att begära<br>polishandräckning för att<br>genomföra beslut om skyddat<br>boende enligt 3 kap. LSB eller om<br>en omedelbar sådan insats enligt 4<br>kap. LSB | Utskott<br>Tjänsteman<br>enligt<br>särskilt<br>förordnande<br>då<br>utskottets<br>beslut inte<br>kan<br>avvaktas |  | Förordnande för<br>tjänsteman återfinns<br>i separat beslut |
+| 4.4.11 | 10 kap 2 § SoL | Rätt att såsom ombud föra<br>nämndens talan i mål och ärenden<br>vid domstol med rätt att fullfölja<br>eller återkalla ansökan om<br>skyddat boende för barn enligt lag<br>om placering av barn i skyddat<br>boende | FC | X |  |
 
 <!-- sida 24 -->
 
@@ -814,17 +808,7 @@ Delegeringsförteckning                      Kungsbacka kommun
 
 14
 
-[Tabell 24-1](handlingar.tabeller/24-1.csv)
-
-|  |  | vistelseort enligt 5 kap. 4 § LSB<br>fortfarande behövs |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| 4.4.8 | 5 kap. 7 § LSB | Beslut att avvisa framställning om<br>att beslut om hemlighållande av<br>vistelseort eller<br>umgängesbegränsning ska<br>upphöra | FC | X |  |
-| 4.4.8 | 7 kap. 1 § LSB | Beslut om att insats i form av<br>skyddat boende för barn ska<br>upphöra | Utskott |  |  |
-| 4.4.9 | 7 kap. 2 § LSB | Beslut att avvisa framställning om<br>att insats enligt 3 kap. LSB ska<br>upphöra | FC | X |  |
-| 4.4.10 | 8 kap. 7 § LSB | Beslut att begära<br>polishandräckning för att<br>genomföra beslut om skyddat<br>boende enligt 3 kap. LSB eller om<br>en omedelbar sådan insats enligt 4<br>kap. LSB | Utskott<br>Tjänsteman<br>enligt<br>särskilt<br>förordnande<br>då<br>utskottets<br>beslut inte<br>kan<br>avvaktas |  | Förordnande för<br>tjänsteman återfinns<br>i separat beslut |
-| 4.4.11 | 10 kap 2 § SoL | Rätt att såsom ombud föra<br>nämndens talan i mål och ärenden<br>vid domstol med rätt att fullfölja<br>eller återkalla ansökan om<br>skyddat boende för barn enligt lag<br>om placering av barn i skyddat<br>boende | FC | X |  |
-
-[Tabell 24-2](handlingar.tabeller/24-2.csv)
+[Tabell 24-25-1](handlingar.tabeller/24-25-1.csv)
 
 | Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt<br>att vidare-<br>delegera | Anmärkning |
 | --- | --- | --- | --- | --- | --- |
@@ -832,19 +816,7 @@ Delegeringsförteckning                      Kungsbacka kommun
 | 4.5.2 | 1 kap 4 § FB | Godkännande av faderskaps-<br>bekräftelse | FC | X |  |
 | 4.5.3 | 1 kap 9 § FB | Godkännande av<br>föräldraskapsbekräftelse | FC | X |  |
 | 4.5.4 | 2 kap. 8 a § FB | Beslut om att inleda utredning om<br>fastställande av föräldraskap | FC | X |  |
-
-<!-- sida 25 -->
-
-Delegeringsförteckning                      Kungsbacka kommun
-
-4.6  Familjerätt, adoption
-
-15
-
-[Tabell 25-1](handlingar.tabeller/25-1.csv)
-
 | 4.5.5 | 2 kap 9 § 1 st<br>FB | Beslut om att inleda utredning om<br>någon annan man än den som enligt<br>faderskapspresumtionen anses vara<br>fadern kan vara far till barnet | FC | X |  |
-| --- | --- | --- | --- | --- | --- |
 | 4.5.6 | 2 kap 1 § FB | Beslut om att återuppta nedlagd<br>faderskaps-eller<br>föräldraskapsutredning | FC | X |  |
 | 4.5.7 | 3 kap 5 § 2 st<br>och 6 § 2 st<br>FB | Beslut om att väcka och föra talan i<br>mål om faderskap | FC | X |  |
 | 4.5.8 | 3 kap. 18 § FB | Beslut om att väcka och föra talan i<br>mål om föräldraskap | FC | X |  |
@@ -860,11 +832,23 @@ Delegeringsförteckning                      Kungsbacka kommun
 | 4.5.18 | 6 kap 15 c § 3 st<br>FB | Utse en viss person att medverka vid<br>umgänget efter rättens beslut om<br>umgängesstöd | FC | X | Bistånd i form av<br>kontaktperson för<br>umgänge beviljas enligt<br>SoL, se punkt 2.11 |
 | 4.5.19 | 6 kap 15 c § 3 st<br>FB | Utse umgängesstöd som ges via<br>extern vårdgivare | FC | X |  |
 
-[Tabell 25-2](handlingar.tabeller/25-2.csv)
+<!-- sida 25 -->
+
+Delegeringsförteckning                      Kungsbacka kommun
+
+4.6  Familjerätt, adoption
+
+15
+
+[Tabell 25-26-1](handlingar.tabeller/25-26-1.csv)
 
 | Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt<br>att vidare-<br>delegera | Anmärkning |
 | --- | --- | --- | --- | --- | --- |
 | 4.6.1 | 6 kap 12 § SoL | Beslut i fråga om medgivande till<br>internationell adoption | Utskott |  |  |
+| 4.6.2 | 6 kap 13 § SoL | Beslut i fråga om återkallande av<br>medgivande till internationell<br>adoption | Utskott |  |  |
+| 4.6.3 | 6 kap 14 § SoL | Pröva om samtycke skall ges till att<br>adoptionsförfarandet får fortsätta vid<br>internationella adoptioner | FC | X | Beslut senast inom två<br>veckor efter anmälan<br>inkommit |
+| 4.6.4 | 6 kap 14 § SoL | Beslut att inte ge samtycke till att<br>adoptionsförfarandet får fortsätta vid<br>internationella adoptioner | Utskott |  |  |
+| 4.6.5 | 4 kap 14 § FB | Genomföra adoptionsutredning | FC | X |  |
 
 <!-- sida 26 -->
 
@@ -874,15 +858,7 @@ Delegeringsförteckning                      Kungsbacka kommun
 
 16
 
-[Tabell 26-1](handlingar.tabeller/26-1.csv)
-
-| 4.6.2 | 6 kap 13 § SoL | Beslut i fråga om återkallande av<br>medgivande till internationell<br>adoption | Utskott |  |  |
-| --- | --- | --- | --- | --- | --- |
-| 4.6.3 | 6 kap 14 § SoL | Pröva om samtycke skall ges till att<br>adoptionsförfarandet får fortsätta vid<br>internationella adoptioner | FC | X | Beslut senast inom två<br>veckor efter anmälan<br>inkommit |
-| 4.6.4 | 6 kap 14 § SoL | Beslut att inte ge samtycke till att<br>adoptionsförfarandet får fortsätta vid<br>internationella adoptioner | Utskott |  |  |
-| 4.6.5 | 4 kap 14 § FB | Genomföra adoptionsutredning | FC | X |  |
-
-[Tabell 26-2](handlingar.tabeller/26-2.csv)
+[Tabell 26-27-1](handlingar.tabeller/26-27-1.csv)
 
 | Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt<br>att vidare-<br>delegera | Anmärkning |
 | --- | --- | --- | --- | --- | --- |
@@ -899,19 +875,7 @@ Delegeringsförteckning                      Kungsbacka kommun
 | 4.7.11 |  | Beslut i fråga om ersättning till<br>familjehem (arvode och omkostnads-<br>ersättning) enligt riktlinjer | FC | X | Gäller vid placering av<br>vuxen<br>Se aktuellt cirkulär<br>från SKL |
 | 4.7.12 |  | Beslut om ersättning till familjehem<br>(arvode och omkostnadsersättning)<br>utöver riktlinjer | Utskott |  | Gäller vid placering av<br>vuxen |
 | 4.7.13 | 4 kap 1 § SoL | Beslut i fråga om bistånd i form av<br>kontraktsvård | FC | X | Högst tre månader<br>efter det att |
-
-<!-- sida 27 -->
-
-Delegeringsförteckning                      Kungsbacka kommun
-
-4.8 Lag om vård av missbrukare i vissa fall, LVM
-
-17
-
-[Tabell 27-1](handlingar.tabeller/27-1.csv)
-
 |  |  |  |  |  | socialnämndens<br>kostnadsansvar har<br>inträtt |
-| --- | --- | --- | --- | --- | --- |
 | 4.7.14 | 4 kap 1 § SoL | Beslut om hyresgaranti | FC | X |  |
 | 4.7.15 |  | Teckna avtal med hyresvärd<br>avseende bostad för klient | FC | X |  |
 | 4.7.16 | 12 kap 39 § 2st<br>hyreslagen<br>(Jordabalken) | Teckna andrahandsavtal med klient<br>avseende bostad | FC | X |  |
@@ -923,11 +887,27 @@ Delegeringsförteckning                      Kungsbacka kommun
 | 4.7.22 | 8 kap 1 § SoL<br>6 kap 1 §<br>socialtjänstför-<br>ordningen | Beslut i fråga om ersättning för<br>uppehälle vid stöd- och hjälpinsatser<br>av behandlingskaraktär när bistånd<br>ges i form av plats vid HVB eller i<br>familjehem | FC | X | Egenavgift |
 | 4.7.23 | 106 kap 13 §<br>SFB | Anmälan till Försäkringskassan om<br>att nämnden ska uppbära del av<br>sjukpenning för den som bereds vård<br>i sådant HVB eller familjehem enligt<br>SoL som ger vård och behandling åt<br>missbrukare av alkohol eller<br>narkotika | FC | X | Avser egenavgift |
 
-[Tabell 27-2](handlingar.tabeller/27-2.csv)
+<!-- sida 27 -->
+
+Delegeringsförteckning                      Kungsbacka kommun
+
+4.8 Lag om vård av missbrukare i vissa fall, LVM
+
+17
+
+[Tabell 27-28-1](handlingar.tabeller/27-28-1.csv)
 
 | Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt<br>att vidare-<br>delegera | Anmärkning |
 | --- | --- | --- | --- | --- | --- |
 | 4.8.1 | 7 § LVM | Beslut om att inleda utredning om<br>skäl för tvångsvård | FC | X | Nämnden ska inleda<br>utredning när det kan |
+|  |  |  |  |  | finnas skäl för<br>tvångsvård |
+| 4.8.2 | 7 § LVM | Beslut om att utredning enligt 7 §<br>LVM inte ska inledas eller att<br>utredning ska avslutas | FC | X | Vid de fall det vid en<br>bedömning<br>framkommer att det<br>inte föreligger<br>förutsättningar för<br>tvångsvård enligt 4 §<br>LVM |
+| 4.8.3 | 11 § LVM | Beslut om att ansöka hos<br>förvaltningsrätt om vård enligt LVM | Utskott |  |  |
+| 4.8.4 | 13 § LVM | Beslut om omedelbart<br>omhändertagande av missbrukare | Utskott |  | Om nämndens beslut<br>inte kan avvaktas får<br>nämndens ordförande<br>eller annan ledamot<br>som nämnden har<br>förordnat besluta i<br>frågan. |
+| 4.8.5 | 18 b § LVM | Beslut om att ett omedelbart<br>omhändertagande genast ska upphöra | Utskott |  |  |
+| 4.8.6 | 9 § LVM | Beslut om läkarundersökning samt<br>utse läkare för undersökningen | FC | X |  |
+| 4.8.7 | 45 § 1 p LVM | Begära polishandräckning för att<br>genomföra beslutad läkar-<br>undersökning | FC | X | Bör användas med stor<br>försiktighet. Se SOSFS<br>1997:6 Allmänna råd<br>LVM |
+| 4.8.8 | 45 § 2 p LVM | Begära polishandräckning för att<br>inställa den enskilde vid den<br>institution där intagning skall ske<br>eller till sjukhus | FC | X | Nämnden bör<br>omedelbart vidta<br>åtgärder så att den<br>enskilde får den<br>behövliga vården |
 
 <!-- sida 28 -->
 
@@ -937,25 +917,21 @@ Delegeringsförteckning                      Kungsbacka kommun
 
 18
 
-[Tabell 28-1](handlingar.tabeller/28-1.csv)
-
-|  |  |  |  |  | finnas skäl för<br>tvångsvård |
-| --- | --- | --- | --- | --- | --- |
-| 4.8.2 | 7 § LVM | Beslut om att utredning enligt 7 §<br>LVM inte ska inledas eller att<br>utredning ska avslutas | FC | X | Vid de fall det vid en<br>bedömning<br>framkommer att det<br>inte föreligger<br>förutsättningar för<br>tvångsvård enligt 4 §<br>LVM |
-| 4.8.3 | 11 § LVM | Beslut om att ansöka hos<br>förvaltningsrätt om vård enligt LVM | Utskott |  |  |
-| 4.8.4 | 13 § LVM | Beslut om omedelbart<br>omhändertagande av missbrukare | Utskott |  | Om nämndens beslut<br>inte kan avvaktas får<br>nämndens ordförande<br>eller annan ledamot<br>som nämnden har<br>förordnat besluta i<br>frågan. |
-| 4.8.5 | 18 b § LVM | Beslut om att ett omedelbart<br>omhändertagande genast ska upphöra | Utskott |  |  |
-| 4.8.6 | 9 § LVM | Beslut om läkarundersökning samt<br>utse läkare för undersökningen | FC | X |  |
-| 4.8.7 | 45 § 1 p LVM | Begära polishandräckning för att<br>genomföra beslutad läkar-<br>undersökning | FC | X | Bör användas med stor<br>försiktighet. Se SOSFS<br>1997:6 Allmänna råd<br>LVM |
-| 4.8.8 | 45 § 2 p LVM | Begära polishandräckning för att<br>inställa den enskilde vid den<br>institution där intagning skall ske<br>eller till sjukhus | FC | X | Nämnden bör<br>omedelbart vidta<br>åtgärder så att den<br>enskilde får den<br>behövliga vården |
-
-[Tabell 28-2](handlingar.tabeller/28-2.csv)
+[Tabell 28-29-1](handlingar.tabeller/28-29-1.csv)
 
 | Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidare-<br>delegera | Anmärkning |
 | --- | --- | --- | --- | --- | --- |
 | 4.9.1 | 4 kap 1 § SoL | Beslut om bistånd i form av stöd i<br>hemmet<br>Beslut om köp av insats hos annan<br>utförare | FC<br>FC | X<br>X | Med stöd i hemmet<br>avses boendestöd<br>Köp av insats beviljas<br>för 1 år i taget |
 | 4.9.2 | 4 kap 1 § SoL | Beslut om bistånd i form av bostad<br>med särskild service<br>Beslut om köp av plats hos annan<br>utförare<br>Beslut om köp av plats för vuxna i<br>form av HVB | FC<br>FC<br>FC | X<br>X<br>X | Köp av plats beviljas<br>för 1 år i taget<br>Gäller ej barn |
 | 4.9.3 | 4 kap 1 § SoL | Beslut om bistånd i form av<br>korttidsvistelse, upp till 28 dygn/år | FC | X |  |
+|  |  |  |  |  |  |
+| 4.9.4 | 4 kap 1 § SoL | Beslut om bistånd i form av<br>korttidsplats för personer med<br>psykiska funktionshinder<br>Beslut om köp av plats hos annan<br>utförare<br>Beslut om köp av plats för vuxna i<br>form av HVB | FC<br>FC<br>FC | X<br>X<br>X | Gäller ej barn<br>Köp av plats beviljas<br>för 1 år i taget<br>Gäller ej barn |
+| 4.9.5 | 4 kap 1 § SoL | Beslut om bistånd i form av<br>ledsagning, inklusive LOV<br>- upp till 20 tim/mån<br>- över 20 tim/mån | FC | X<br>X |  |
+| 4.9.6 | 4 kap 1 § SoL | Beslut om bistånd i form av<br>avlösarservice, inklusive LOV<br>- upp till 20 tim/mån<br>- över 20 tim/mån | FC | X<br>X |  |
+| 4.9.7 | 4 kap 1 § SoL | Beslut om bistånd i form av<br>kontaktperson | FC | X |  |
+| 4.9.8 | 4 kap 1 § SoL | Beslut om bistånd i form av<br>sysselsättning<br>Beslut om köp av insats hos annan<br>utförare | FC<br>FC | X<br>X | Köp av insats beviljas<br>för 1 år i taget |
+| 4.9.9 | 4 kap 1 § SoL | Omprövning av gynnande beslut<br>under giltighetstiden | FC | X | Vid förändrat behov<br>och/eller förhållanden |
+| 4.9.10 | 2 a kap. 8, 9<br>§§ SoL<br>2 a kap. 6 §<br>SoL | Beslut om förhandsbesked till<br>person som tänker bosätta sig i<br>kommunen<br>Beslut om insatser för enskild på<br>tillfällig vistelse i kommunen | FC<br>FC | X<br>X | Avser personer med<br>psykiska<br>funktionshinder |
 
 <!-- sida 29 -->
 
@@ -978,18 +954,6 @@ inklusive LOV
 
 19
 
-[Tabell 29-1](handlingar.tabeller/29-1.csv)
-
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| 4.9.4 | 4 kap 1 § SoL | Beslut om bistånd i form av<br>korttidsplats för personer med<br>psykiska funktionshinder<br>Beslut om köp av plats hos annan<br>utförare<br>Beslut om köp av plats för vuxna i<br>form av HVB | FC<br>FC<br>FC | X<br>X<br>X | Gäller ej barn<br>Köp av plats beviljas<br>för 1 år i taget<br>Gäller ej barn |
-| 4.9.5 | 4 kap 1 § SoL | Beslut om bistånd i form av<br>ledsagning, inklusive LOV<br>- upp till 20 tim/mån<br>- över 20 tim/mån | FC | X<br>X |  |
-| 4.9.6 | 4 kap 1 § SoL | Beslut om bistånd i form av<br>avlösarservice, inklusive LOV<br>- upp till 20 tim/mån<br>- över 20 tim/mån | FC | X<br>X |  |
-| 4.9.7 | 4 kap 1 § SoL | Beslut om bistånd i form av<br>kontaktperson | FC | X |  |
-| 4.9.8 | 4 kap 1 § SoL | Beslut om bistånd i form av<br>sysselsättning<br>Beslut om köp av insats hos annan<br>utförare | FC<br>FC | X<br>X | Köp av insats beviljas<br>för 1 år i taget |
-| 4.9.9 | 4 kap 1 § SoL | Omprövning av gynnande beslut<br>under giltighetstiden | FC | X | Vid förändrat behov<br>och/eller förhållanden |
-| 4.9.10 | 2 a kap. 8, 9<br>§§ SoL<br>2 a kap. 6 §<br>SoL | Beslut om förhandsbesked till<br>person som tänker bosätta sig i<br>kommunen<br>Beslut om insatser för enskild på<br>tillfällig vistelse i kommunen | FC<br>FC | X<br>X | Avser personer med<br>psykiska<br>funktionshinder |
-
 <!-- sida 30 -->
 
 Delegeringsförteckning                      Kungsbacka kommun
@@ -1007,7 +971,7 @@ Delegeringsförteckning                      Kungsbacka kommun
 | 4.9.14 | 4 kap 1 § SoL | Beslut om bistånd i form<br>av korttidsplats/-<br>avlastningsplats och<br>växelvård | FC | X | Verkställs av VO |
 | 4.9.15 | 4 kap 1 § SoL | Beslut om bistånd i form<br>av dagomsorg | FC | X | Verkställs av VO |
 
-[Tabell 30-2](handlingar.tabeller/30-2.csv)
+[Tabell 30-31-2](handlingar.tabeller/30-31-2.csv)
 
 | Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt<br>att vidare-<br>delegera | Anmärkning |
 | --- | --- | --- | --- | --- | --- |
@@ -1018,6 +982,16 @@ Delegeringsförteckning                      Kungsbacka kommun
 | 4.10.5 | 7 § och 9 § 3 p<br>LSS | Beslut om insats i form av<br>ledsagarservice, inklusive LOV<br>- upp till 20 tim/mån<br>- över 20 tim/mån<br>- upp till 20 tim/mån<br>- över 20 tim/mån | FC | X<br>X<br>X |  |
 | 4.10.6 | 7 § och 9 § 4 p<br>LSS | Beslut om insats i form av<br>kontaktperson | FC | X |  |
 | 4.10.7 | 4 § FSS | Utredning och förordnande av<br>kontaktperson eller stödfamilj | FC | X |  |
+| 4.10.8 | 7 § och 9 § 5 p<br>LSS | Beslut om insats i form av<br>avlösarservice i hemmet, inklusive<br>LOV<br>- upp till 20 tim/månad<br>- över 20 tim/månad | FC | X<br>X |  |
+| 4.10.9 | 7 § och 9 § 6 p<br>LSS | Beslut om insats i form av<br>korttidsvistelse utanför det egna<br>hemmet<br>- upp till 28 dygn/år<br>- över 28 dygn/år | FC<br>Utskott | X |  |
+| 4.10.10 | 7 § och 9 § 8 p<br>LSS | Beslut om insats i form av<br>familjehem för barn och ungdom | FC | X | Medgivande enligt 6<br>kap 6 § SoL ska tas av<br>nämnden |
+| 4.10.11 | 7 § och 9 § 8 p<br>LSS | Beslut om insats i form av bostad<br>med särskild service för barn och<br>ungdom<br>Beslut om köp av plats i annan<br>kommun eller hos annan utförare | FC | X<br>X | Köp av plats beviljas<br>för 1 år i taget |
+| 4.10.12 | 7 § och 9 § 9 p<br>LSS | Beslut om insats i form av bostad<br>med särskild service för vuxna eller<br>annan särskilt anpassad bostad för<br>vuxna<br>Beslut om köp av plats i annan<br>kommun eller hos annan utförare | FC | X<br>X | Köp av plats beviljas<br>för 1 år i taget |
+| 4.10.13 | 7 § och 9 § 10<br>p LSS | Beslut om insats i form av daglig<br>verksamhet<br>Beslut om köp av plats i annan<br>kommun eller hos annan utförare | FC | X<br>X | Köp av plats beviljas<br>för 1 år i taget |
+| 4.10.14 | 7 § och 9 § 2-<br>10 p LSS | Omprövning av gynnande beslut<br>under giltighetstiden | FC | X | Vid förändrat behov<br>och/eller förhållanden |
+| 4.10.15 | 16 § LSS<br>16, 16 a och 16<br>b §§ LSS | Beslut om förhandsbesked till<br>person som tänker bosätta sig i<br>kommunen<br>Beslut om insatser för enskild på<br>tillfällig vistelse i kommunen | FC<br>FC | X<br>X |  |
+| 4.10.16 | 10 § LSS | Beslut om upprättandet av<br>individuell plan | FC | X |  |
+| 4.10.17 | 10 § 2 st. LSS | Underrätta regionen om upprättad<br>individuell plan | FC | X | Samtycke ska beaktas |
 
 <!-- sida 31 -->
 
@@ -1030,20 +1004,6 @@ Förvaltningschef för Förskola & Grundskola delegerar till socialsekreterare i
 Familjeomsorg att fatta beslut om insats i form av korttidstillsyn för skolungdom över 12 år
 
 21
-
-[Tabell 31-1](handlingar.tabeller/31-1.csv)
-
-| 4.10.8 | 7 § och 9 § 5 p<br>LSS | Beslut om insats i form av<br>avlösarservice i hemmet, inklusive<br>LOV<br>- upp till 20 tim/månad<br>- över 20 tim/månad | FC | X<br>X |  |
-| --- | --- | --- | --- | --- | --- |
-| 4.10.9 | 7 § och 9 § 6 p<br>LSS | Beslut om insats i form av<br>korttidsvistelse utanför det egna<br>hemmet<br>- upp till 28 dygn/år<br>- över 28 dygn/år | FC<br>Utskott | X |  |
-| 4.10.10 | 7 § och 9 § 8 p<br>LSS | Beslut om insats i form av<br>familjehem för barn och ungdom | FC | X | Medgivande enligt 6<br>kap 6 § SoL ska tas av<br>nämnden |
-| 4.10.11 | 7 § och 9 § 8 p<br>LSS | Beslut om insats i form av bostad<br>med särskild service för barn och<br>ungdom<br>Beslut om köp av plats i annan<br>kommun eller hos annan utförare | FC | X<br>X | Köp av plats beviljas<br>för 1 år i taget |
-| 4.10.12 | 7 § och 9 § 9 p<br>LSS | Beslut om insats i form av bostad<br>med särskild service för vuxna eller<br>annan särskilt anpassad bostad för<br>vuxna<br>Beslut om köp av plats i annan<br>kommun eller hos annan utförare | FC | X<br>X | Köp av plats beviljas<br>för 1 år i taget |
-| 4.10.13 | 7 § och 9 § 10<br>p LSS | Beslut om insats i form av daglig<br>verksamhet<br>Beslut om köp av plats i annan<br>kommun eller hos annan utförare | FC | X<br>X | Köp av plats beviljas<br>för 1 år i taget |
-| 4.10.14 | 7 § och 9 § 2-<br>10 p LSS | Omprövning av gynnande beslut<br>under giltighetstiden | FC | X | Vid förändrat behov<br>och/eller förhållanden |
-| 4.10.15 | 16 § LSS<br>16, 16 a och 16<br>b §§ LSS | Beslut om förhandsbesked till<br>person som tänker bosätta sig i<br>kommunen<br>Beslut om insatser för enskild på<br>tillfällig vistelse i kommunen | FC<br>FC | X<br>X |  |
-| 4.10.16 | 10 § LSS | Beslut om upprättandet av<br>individuell plan | FC | X |  |
-| 4.10.17 | 10 § 2 st. LSS | Underrätta regionen om upprättad<br>individuell plan | FC | X | Samtycke ska beaktas |
 
 <!-- sida 32 -->
 
@@ -1084,29 +1044,25 @@ som lämnat delegeringen.
 | 4.10.20 | 7 § och 9 § 3 p<br>LSS | Beslut om insats i form av<br>ledsagarservice, inklusive LOV | FC | X | Verkställs av VO |
 | 4.10.21 | 7 § och 9 § 4 p<br>LSS | Beslut om insats i form av<br>kontaktperson | FC | X | Verkställs av VO |
 
-[Tabell 32-2](handlingar.tabeller/32-2.csv)
+[Tabell 32-33-2](handlingar.tabeller/32-33-2.csv)
 
 | Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidare-<br>delegera | Anmärkning |
 | --- | --- | --- | --- | --- | --- |
 | 4.11.1 |  | Beslut om arvode och omkostnads-<br>ersättning till kontaktperson eller<br>stödfamilj för insats enligt LSS | FC | X | Enligt rekom-<br>mendationer från SKL |
 | 4.11.2 | 20 § LSS,<br>8 kap. 1 § 2 st<br>SoL<br>6 kap. 2-4 §§,<br>SoF | Beslut om ersättning från förälder för<br>kostnader för barn (<18 år) som får<br>omvårdnad i annat hem än det egna<br>(familjehem eller bostad med särskild<br>service för barn och ungdom) | FC | X |  |
-
-<!-- sida 33 -->
-
-Delegeringsförteckning                      Kungsbacka kommun
-
-23
-
-[Tabell 33-1](handlingar.tabeller/33-1.csv)
-
 | 4.11.3 | Beslut i KF 9<br>december<br>2014 (§ 209) | Beslut om matavgift för ungdomar<br>över 18 år som på grund av<br>gymnasiestudier på annan ort, bor i<br>bostad med särskild service enligt<br>SoL och LSS | FC | X |  |
-| --- | --- | --- | --- | --- | --- |
 | 4.11.4 | 8 kap 2 – 9 §§<br>SoL | Beslut om avgift inom<br>Funktionsstödsenheten | FC | X | Enligt beslut i KF |
 | 4.11.5 |  | Beslut om avgiftsbefrielse vid<br>boendestöd | FC | X | KF 2014-12-09<br>§ 210 |
 | 4.11.6 | 11 § LSS | Beslut om utbetalning av ekonomiskt<br>stöd enligt 9 § 1st 2 LSS till annan än<br>ersättningsberättigad | FC | X |  |
 | 4.11.7 | 9 § 2 p och 9 a<br>§ LSS | Beslut om sjuklön vid ordinarie<br>assistents sjukdom | FC | X |  |
 | 4.11.8 | 12 § LSS | Beslut om återbetalning av<br>ekonomiskt stöd som har beviljats<br>enligt 9 § 1st 2 LSS och som har<br>erhållits på felaktig grund | FC | X |  |
 | 4.11.9 | 18 § LSS | Beslut om avgift från enskild med<br>assistansersättning för vilken<br>kommunen är assistansanordnare | FC | X |  |
+
+<!-- sida 33 -->
+
+Delegeringsförteckning                      Kungsbacka kommun
+
+23
 
 <!-- sida 34 -->
 
@@ -1127,7 +1083,7 @@ Delegeringsförteckning                      Kungsbacka kommun
 | 5.1.1 | 6 kap. 39 § KL | Rätt att fatta beslut i ärenden som är<br>så brådskande att nämndens<br>avgörande inte kan avvaktas | Ordförande |  | Ska anmälas vid<br>nämndens/utskottets<br>nästa sammanträde |
 | 5.1.2 | Nämndens<br>budget, Regler<br>och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet inom Sverige<br>för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordförande.<br>För beslut<br>som avser<br>ordförande<br>beslutar 1:e<br>vice<br>ordföranden |  | Rätt till arvode för<br>deltagande på aktivitet<br>regleras i ”Regler och<br>riktlinjer för förmåner<br>till förtroendevalda”.<br>Där framgår vilka<br>aktiviteter som avses. |
 
-[Tabell 34-2](handlingar.tabeller/34-2.csv)
+[Tabell 34-35-2](handlingar.tabeller/34-35-2.csv)
 
 | Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidare-<br>delegera | Anmärkning |
 | --- | --- | --- | --- | --- | --- |
@@ -1135,6 +1091,12 @@ Delegeringsförteckning                      Kungsbacka kommun
 | 5.2.2 | Artikel 28,<br>dataskydds-<br>förordningen<br>(GDPR) | Teckna personuppgiftsbiträdesavtal | FC |  |  |
 | 5.2.3 | Artikel 35<br>dataskydds-<br>förordningen<br>(GDPR) | Beslut att godkänna<br>konsekvensbedömning | FC |  | Dataskyddskontakt<br>upprättar<br>konsekvens-<br>bedömning som<br>ligger till grund för<br>beslut |
 | 5.2.4 | Artikel 37<br>dataskydds-<br>förordningen | Beslut att utse dataskyddsombud för<br>nämnden | FC |  | Dataskyddskontakt<br>ska informera<br>integritetsskydds-<br>myndigheten. |
+|  | (GDPR) |  |  |  |  |
+| 5.2.5 | Artikel 15,<br>dataskydds-<br>förordningen<br>(GDPR) | Beslut ifråga om utlämnande av<br>registerutdrag | FC | X |  |
+| 5.2.6 | Artikel 16 och<br>17,<br>dataskydds-<br>förordningen<br>(GDPR) | Beslut om radering eller rättelse av<br>personuppgifter | FC | X |  |
+| 5.2.7 | Artikel 18,<br>dataskydds-<br>förordningen<br>(GDPR) | Beslut om begränsning av behandling<br>av personuppgifter | FC | X |  |
+| 5.2.8 | Artikel 12 p. 5<br>b, dataskydds-<br>förordningen<br>(GDPR) | Beslut om att vägra att tillmötesgå en<br>begäran från en registrerad | FC | X |  |
+| 5.2.9 | Artikel 33,<br>dataskydds-<br>förordningen<br>(GDPR) | Beslut om att anmäla<br>personuppgiftsincident till<br>tillsynsmyndighet | FC | X |  |
 
 <!-- sida 35 -->
 
@@ -1144,17 +1106,7 @@ Delegeringsförteckning                      Kungsbacka kommun
 
 25
 
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
-
-|  | (GDPR) |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| 5.2.5 | Artikel 15,<br>dataskydds-<br>förordningen<br>(GDPR) | Beslut ifråga om utlämnande av<br>registerutdrag | FC | X |  |
-| 5.2.6 | Artikel 16 och<br>17,<br>dataskydds-<br>förordningen<br>(GDPR) | Beslut om radering eller rättelse av<br>personuppgifter | FC | X |  |
-| 5.2.7 | Artikel 18,<br>dataskydds-<br>förordningen<br>(GDPR) | Beslut om begränsning av behandling<br>av personuppgifter | FC | X |  |
-| 5.2.8 | Artikel 12 p. 5<br>b, dataskydds-<br>förordningen<br>(GDPR) | Beslut om att vägra att tillmötesgå en<br>begäran från en registrerad | FC | X |  |
-| 5.2.9 | Artikel 33,<br>dataskydds-<br>förordningen<br>(GDPR) | Beslut om att anmäla<br>personuppgiftsincident till<br>tillsynsmyndighet | FC | X |  |
-
-[Tabell 35-2](handlingar.tabeller/35-2.csv)
+[Tabell 35-36-1](handlingar.tabeller/35-36-1.csv)
 
 | Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidare-<br>delegera | Anmärkning |
 | --- | --- | --- | --- | --- | --- |
@@ -1163,6 +1115,8 @@ Delegeringsförteckning                      Kungsbacka kommun
 | 5.3.3 |  | Yttrande till tillsynsmyndighet | FC |  | Med tillsynsmyndighet<br>avses JO, JK,<br>Socialstyrelsen och IVO |
 | 5.3.4 | 16 kap 6 f §<br>SoL och 28 f<br>§ LSS | Rapportera till IVO och revisorer,<br>som avses i 3 kap 10 §<br>kommunallagen, de gynnande<br>beslut som inte verkställts inom tre<br>månader | FC | X |  |
 | 5.3.5 | 16 kap 6 f §<br>SoL och 28 f<br>§ 2 st. LSS | Rapportera till IVO och revisorer,<br>som avses i 3 kap 10 §<br>kommunallagen, gynnande beslut | FC | X |  |
+|  |  | som avbryts och som därefter inte<br>verkställts inom tre månader |  |  |  |
+| 5.3.6 | 23 § 2 st.<br>LSS<br>7 kap. 1 §<br>SoL | Anmälan till IVO om<br>tillståndspliktig verksamhet | FC | X |  |
 
 <!-- sida 36 -->
 
@@ -1172,13 +1126,7 @@ Delegeringsförteckning                      Kungsbacka kommun
 
 26
 
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
-
-|  |  | som avbryts och som därefter inte<br>verkställts inom tre månader |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| 5.3.6 | 23 § 2 st.<br>LSS<br>7 kap. 1 §<br>SoL | Anmälan till IVO om<br>tillståndspliktig verksamhet | FC | X |  |
-
-[Tabell 36-2](handlingar.tabeller/36-2.csv)
+[Tabell 36-40-1](handlingar.tabeller/36-40-1.csv)
 
 | Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidare-<br>delegera | Anmärkning |
 | --- | --- | --- | --- | --- | --- |
@@ -1188,17 +1136,7 @@ Delegeringsförteckning                      Kungsbacka kommun
 | 5.4.4 | 10 kap 1 och 2<br>§§ SoL<br>6 kap 37 § och<br>38 § 1 st 3 p<br>KL | Överklagande samt yrkande om<br>inhibition när Förvaltningsrätten<br>eller Kammarrätten ändrat<br>nämndens beslut och detta beslut<br>fattas av delegat samt avgivande<br>av yttranden i ärenden där<br>ursprungs-beslutet fattas av<br>delegat | FC | X |  |
 | 5.4.5 | 37, 38, 39, 45<br>och 46 §§ FL | Prövning att överklagande har<br>skett i rätt tid och avvisande av<br>överklagande som kommit in för<br>sent. Beslut om omprövning ska<br>ske.<br>Överlämnande till<br>besvärsmyndighet | FC | X |  |
 | 5.4.6 | 37 och 38 §§<br>FL | Omprövning av beslut samt<br>yttrande i ärenden | FC | X |  |
-
-<!-- sida 37 -->
-
-Delegeringsförteckning                      Kungsbacka kommun
-
-27
-
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
-
 | 5.4.7 | 3 § lagen om<br>offentligt<br>biträde | Anmälan om behov av offentligt<br>biträde | FC | X | I LVU ärenden har<br>nämnden ett ansvar för att<br>den berörde får hjälp med<br>offentligt biträde. Ansökan<br>lämnas till nämnden som<br>bifogar eget yttrande och<br>lämnar vidare till behörig<br>myndighet |
-| --- | --- | --- | --- | --- | --- |
 | 5.4.8 | 5 kap 2 §<br>socialtjänst-<br>förordningen | Framställning till domstol om att<br>ett barn är i behov av målsägande-<br>biträde | FC | X |  |
 | 5.4.9 | 5 kap 3 §<br>socialtjänst-<br>förordningen<br>15 § 6 p LSS | Anmäla till överförmyndare om<br>att god man eller förvaltare enligt<br>föräldrabalken bör förordnas för<br>någon, att någon inte längre bör<br>ha förvaltare, eller att<br>förhållandena talar för att en<br>förälder inte kommer att förvalta<br>sitt barns egendom på ett<br>betryggande sätt | FC | X |  |
 | 5.4.10 | 15 § 2 st FL | Förelägga ombud att styrka sin<br>behörighet genom en fullmakt | FC | X |  |
@@ -1210,17 +1148,7 @@ Delegeringsförteckning                      Kungsbacka kommun
 | 5.4.16 | 2 a kap 10 §<br>SoL | Meddela inställning i fråga om<br>mottagande av ärende från annan<br>kommun | FC | X | Beslut om pågående<br>insats tas över såsom<br>vore det vårt eget |
 | 5.4.17 | 9 kap. 37 § KL | Ingå avtal om avtalssamverkan<br>med annan kommun vid jäv i<br>individärende | FC | X |  |
 | 5.4.18 | 11 § 8 p<br>förordning om<br>belastnings-<br>register<br>4 § 9 p<br>förordning om<br>misstanke-<br>register | Begäran om utdrag ur<br>belastningsregister och<br>misstankeregister | FC | X | I samband med<br>utredning om<br>familjehem,<br>kontaktfamilj,<br>kontaktperson och<br>adoption samt ärenden<br>som rör barns vårdnad,<br>boende och umgänge,<br>vid åtgärder enligt LVU<br>och LVM samt vid<br>utseende av särskild<br>handläggare vid<br>verkställighet av<br>ungdomsövervakning |
-
-<!-- sida 38 -->
-
-Delegeringsförteckning                      Kungsbacka kommun
-
-28
-
-[Tabell 38-1](handlingar.tabeller/38-1.csv)
-
 | 5.4.18 | 11 § lag med<br>särskilda<br>bestämmelser<br>om unga<br>lagöver-trädare | På begäran från åklagare lämna<br>yttrande i fråga om den som<br>misstänks för brott begånget före<br>18 års ålder | FC | X |  |
-| --- | --- | --- | --- | --- | --- |
 | 5.4.20 | 6 och 9 §§ lag<br>om särskild<br>person-<br>utredning i<br>brottmål | På begäran lämna upplysningar<br>om en misstänkt och föreslå<br>behövliga åtgärder.<br>På begäran lämna upplysning om<br>huruvida en utlänning som<br>riskerar utvisning på grund av<br>brott har barn i Sverige och om<br>barnets behov av kontakt med<br>utlänningen, hur kontakten varit<br>och hur den skulle påverkas av att<br>utlänningen utvisas. | FC | X |  |
 | 5.4.21 | 6 § lag om<br>särskild<br>personutred-<br>ning i brottmål | På begäran från rätten, åklagaren<br>eller kriminalvården lämna<br>upplysningar om den misstänkte<br>är aktuell i ett ärende eller inte | FC | X | Endast ja eller nej svar |
 | 5.4.22 | 12 kap 10 §<br>SoL | På begäran lämna uppgifter till<br>domstol, åklagarmyndighet,<br>polismyndighet,<br>kronofogdemyndighet eller<br>Skatteverket om någon vistas i ett<br>HVB-hem eller i familjehem | FC | X |  |
@@ -1231,17 +1159,7 @@ Delegeringsförteckning                      Kungsbacka kommun
 | 5.4.27 | 12 kap 7 §<br>SoL | Lämna uppgift till annan<br>myndighet om utbetalad<br>ekonomisk hjälp | FC | X | Viss utsedd administratör |
 | 5.4.28 | 12 kap 7 §<br>SoL | Lämna uppgift till annan<br>socialnämnd i kommunen om en<br>person är aktuell i ett ärende eller<br>inte | FC | X | Endast ja eller nej svar |
 | 5.4.29 | 12 kap 10 §<br>SoL | Lämna uppgift om en studerande<br>som behövs för prövning av ett | FC | X |  |
-
-<!-- sida 39 -->
-
-Delegeringsförteckning                      Kungsbacka kommun
-
-29
-
-[Tabell 39-1](handlingar.tabeller/39-1.csv)
-
 |  |  | ärende om avskiljande av denne<br>från högskoleutbildning |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | 5.4.30 | 12 kap 6 §<br>SoL | På begäran lämna ut<br>personuppgifter till statliga<br>myndigheter för<br>forskningsändamål | FC | X |  |
 | 5.4.31 | 6 kap 11 §<br>smittskydds-<br>lagen | Lämnande av upplysningar till<br>smittskyddsläkare | FC | X |  |
 | 5.4.32 | 6 kap 12 §<br>smittskydds-<br>lagen | Anmälningsskyldighet enligt<br>smittskyddslagen | FC | X |  |
@@ -1253,21 +1171,35 @@ Delegeringsförteckning                      Kungsbacka kommun
 | 5.4.38 | 17 a § 2 st.<br>folkbok-<br>föringslagen | Yttrande till Skatteverket vid<br>utredning av frågor om skyddad<br>folkbokföring eller<br>sekretessmarkering i<br>folkbokföringen | FC | X |  |
 | 5.4.39 | 32 c §<br>folkbokförings<br>lagen | Beslut att underrätta Skatteverket<br>om oriktig uppgift i folkbokföring | FC | X |  |
 | 5.4.40 | BrB<br>10 kap 2 §<br>OSL 10 kap.<br>18 - 24 §§<br>OSL | Beslut att lämna uppgifter om<br>misstanke om vissa brott till<br>åklagarmyndighet,<br>Polismyndigheten,<br>Säkerhetspolisen eller någon<br>annan myndighet som har till<br>uppgift att ingripa mot brottet | FC | X | Ovillkorlig<br>anmälningsskyldighet<br>föreligger inte. |
+| 5.4.41 | 12 kap. 10 §<br>SoL<br>10 kap. 2 §<br>OSL<br>10 kap. 18 §<br>OSL | Beslut om att polisanmäla brott<br>mot den egna verksamheten. | FC | X |  |
+| 5.4.42 | 6 §<br>bidragsbrotts-<br>lagen | Beslut ifråga om polisanmälan av<br>bidragsbrott | FC | X |  |
+| 5.4.43 | 3 § lagen om<br>underrättelse-<br>skyldighet vid<br>felaktiga<br>utbetalningar<br>från välfärds-<br>systemen | Beslut ifråga om underrättelse till<br>annan myndighet vid misstanke<br>om felaktig utbetalning från<br>välfärdssystemen | FC | X |  |
+| 5.4.44 | 10 kap. 20 a §<br>OSL | Beslut om att lämna uppgift om<br>djur till kontrollmyndighet för<br>djurskydd eller Polismyndigheten | FC | X | Uppgift får lämnas<br>endast om det bedöms<br>att bristen inte kan<br>åtgärdas i samråd med<br>den som håller djuret |
+| 5.4.45 | 6 kap. 1 a §<br>OSL | Beslut om förskottsbetalning vid<br>begäran om att få ut en kopia av<br>en allmän handling | FC | X |  |
+
+<!-- sida 37 -->
+
+Delegeringsförteckning                      Kungsbacka kommun
+
+27
+
+<!-- sida 38 -->
+
+Delegeringsförteckning                      Kungsbacka kommun
+
+28
+
+<!-- sida 39 -->
+
+Delegeringsförteckning                      Kungsbacka kommun
+
+29
 
 <!-- sida 40 -->
 
 Delegeringsförteckning                      Kungsbacka kommun
 
 30
-
-[Tabell 40-1](handlingar.tabeller/40-1.csv)
-
-| 5.4.41 | 12 kap. 10 §<br>SoL<br>10 kap. 2 §<br>OSL<br>10 kap. 18 §<br>OSL | Beslut om att polisanmäla brott<br>mot den egna verksamheten. | FC | X |  |
-| --- | --- | --- | --- | --- | --- |
-| 5.4.42 | 6 §<br>bidragsbrotts-<br>lagen | Beslut ifråga om polisanmälan av<br>bidragsbrott | FC | X |  |
-| 5.4.43 | 3 § lagen om<br>underrättelse-<br>skyldighet vid<br>felaktiga<br>utbetalningar<br>från välfärds-<br>systemen | Beslut ifråga om underrättelse till<br>annan myndighet vid misstanke<br>om felaktig utbetalning från<br>välfärdssystemen | FC | X |  |
-| 5.4.44 | 10 kap. 20 a §<br>OSL | Beslut om att lämna uppgift om<br>djur till kontrollmyndighet för<br>djurskydd eller Polismyndigheten | FC | X | Uppgift får lämnas<br>endast om det bedöms<br>att bristen inte kan<br>åtgärdas i samråd med<br>den som håller djuret |
-| 5.4.45 | 6 kap. 1 a §<br>OSL | Beslut om förskottsbetalning vid<br>begäran om att få ut en kopia av<br>en allmän handling | FC | X |  |
 
 <!-- sida 41 -->
 
@@ -1279,7 +1211,7 @@ Delegeringsförteckning                      Kungsbacka kommun
 
 31
 
-[Tabell 41-1](handlingar.tabeller/41-1.csv)
+[Tabell 41-42-1](handlingar.tabeller/41-42-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat<br>till | Med<br>rätt att<br>vidare-<br>delege<br>ra | Anmärkning |
 | --- | --- | --- | --- | --- | --- |
@@ -1291,22 +1223,18 @@ Delegeringsförteckning                      Kungsbacka kommun
 | 6.1.6 |  | Inhyrning, uthyrning och<br>uppsägning av fastigheter, lokaler<br>och lägenheter | FC | X |  |
 | 6.1.7 |  | Ansöka om bidrag från statliga<br>myndigheter | FC | X |  |
 | 6.1.8 | 8 kap. 1 § LOV | Beslut ifråga om godkännande av<br>sökande som leverantör av | FC |  |  |
+|  |  | tjänster inom valfrihetssystemet,<br>avlösning och ledsagning |  |  |  |
+| 6.1.9 | 8 kap 3 § LOV | Träffa avtal med godkända<br>utförare inom valfrihetssystemet,<br>avlösning och ledsagning | FC |  |  |
+| 6.1.10 | Förfrågningsunderlag<br>LOV | Beslut ifråga om uppsägning eller<br>hävning av avtal med utförare<br>inom valfrihetssystemet,<br>avlösning och ledsagning | FC |  |  |
+| 6.1.11 | Lagen om offentlig<br>upphandling | Träffa avtal för förvaltningen i<br>enlighet med av nämnden<br>beslutade entreprenader | Ordförande<br>FC |  |  |
+| 6.1.12 | 9 kap. 4 § SoL | Beslut om att helt eller delvis<br>efterge ersättningsskyldighet<br>enligt 8 kap. 1 § SoL<br>- Över ett halvt prisbasbelopp<br>- Upp till ett halvt prisbasbelopp | Utskott<br>FC | X |  |
+| 6.1.13 | 9 kap. 3 § SoL | Beslut att väcka talan hos<br>förvaltningsrätten om ersättning<br>som enskild inte återbetalar<br>frivilligt för ekonomisk hjälp som<br>avses i 9 kap. 1 eller 2 § SoL,<br>eller för kostnader som nämnden<br>har haft enligt 8 kap. 1 § SoL. | Utskott |  |  |
 
 <!-- sida 42 -->
 
 Delegeringsförteckning                      Kungsbacka kommun
 
 32
-
-[Tabell 42-1](handlingar.tabeller/42-1.csv)
-
-|  |  | tjänster inom valfrihetssystemet,<br>avlösning och ledsagning |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| 6.1.9 | 8 kap 3 § LOV | Träffa avtal med godkända<br>utförare inom valfrihetssystemet,<br>avlösning och ledsagning | FC |  |  |
-| 6.1.10 | Förfrågningsunderlag<br>LOV | Beslut ifråga om uppsägning eller<br>hävning av avtal med utförare<br>inom valfrihetssystemet,<br>avlösning och ledsagning | FC |  |  |
-| 6.1.11 | Lagen om offentlig<br>upphandling | Träffa avtal för förvaltningen i<br>enlighet med av nämnden<br>beslutade entreprenader | Ordförande<br>FC |  |  |
-| 6.1.12 | 9 kap. 4 § SoL | Beslut om att helt eller delvis<br>efterge ersättningsskyldighet<br>enligt 8 kap. 1 § SoL<br>- Över ett halvt prisbasbelopp<br>- Upp till ett halvt prisbasbelopp | Utskott<br>FC | X |  |
-| 6.1.13 | 9 kap. 3 § SoL | Beslut att väcka talan hos<br>förvaltningsrätten om ersättning<br>som enskild inte återbetalar<br>frivilligt för ekonomisk hjälp som<br>avses i 9 kap. 1 eller 2 § SoL,<br>eller för kostnader som nämnden<br>har haft enligt 8 kap. 1 § SoL. | Utskott |  |  |
 
 <!-- sida 43 -->
 

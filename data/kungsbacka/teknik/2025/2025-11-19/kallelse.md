@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6b3c9de619a7bbdb141f621/17631032742
 sha256: 01d0aec39c074c3db4d26bb43c09e5d2a9fcfd8ae43b82ebbed9dce3b5c77e24
 bytes: 208622
 sidor: 4
-hamtad: 2026-10-08T00:45:29+00:00
-konverterad: 2026-10-08T00:45:35+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T08:38:33+00:00
+konverterad: 2026-10-14T08:38:40+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -54,7 +54,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -62,23 +62,23 @@ KUNGSBACKA  KOMMUN
 | 5. | Omfördelning av<br>investeringsmedel 2025 mellan<br>underportföljer och<br>projekttyper, omgång fyra<br>Föredragande: Emir Halalkic,<br>18:00 – 18:05 | TE-2025-<br>00991 | Nämnden för Teknik beslutar att omfördela medel<br>mellan underportföljer enligt tabellbeskrivning. |
 | 6. | Tidplan för utbyggnad av vatten<br>och avlopp<br>Föredragande: Hannes Rydberg<br>& Mathias Pedersen,<br>18:05 – 18:20 | TE-2025-<br>00978 | Nämnden för Teknik noterar informationen till<br>protokollet. |
 | 7. | Information om<br>beläggningsbehov, och<br>etableringen av en<br>beläggningsplan för kommande<br>år<br>Föredragande: Emir Halalkic,<br>18:20 – 18:55 | TE-2025-<br>00561 | Nämnden för Teknik noterar informationen till<br>protokollet. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 8. | Information om genomförd<br>förstudie kring fyra körfält<br>längs Arendalsleden delen<br>Varlavägen – Göteborgsvägen<br>Föredragande: Julia Emqvist &<br>Emir Halalkic,<br>18:55 – 19:20 | TE-2025-<br>00995 | Nämnden för Teknik noterar informationen till<br>protokollet. |
 | 9. | Förstudie om fyra körfält längs<br>Arendalsleden delen<br>Varlavägen - Göteborgsvägen | TE-2025-<br>01053 | Nämnden för Teknik noterar förstudien till<br>protokollet. |
 | 10. | Information om förstudie av<br>gång- och cykelmöjligheter i<br>Åsa-Ölmanäs<br>Föredragande: Emir Halalkic,<br>19:20 – 19:55 | TE-2025-<br>01054 | Nämnden för Teknik noterar informationen till<br>protokollet. |
 | 11. | Förstudie av gång- och<br>cykelmöjligheter i Åsa-Ölmanäs | TE-2025-<br>00944 | Nämnden för Teknik noterar förstudien till<br>protokollet. |
 | 12. | Avtal om ömsesidigt utbyte av<br>dricksvatten med Göteborgs<br>Stad<br>Föredragande: Catarina<br>Sundberg,<br>19:55 – 20:10 | TE-2024-<br>00112 | Nämnden för Teknik noterar att Göteborgs Stad<br>genom Kretslopp och vatten sagt upp Avtal mellan<br>Kungsbacka och Göteborg om ömsesidigt<br>driksvattenkomplement i ansträngda lägen, som<br>undertecknades 2022-10-20.<br>Nämnden för Teknik ger ordförande och<br>förvaltningschef i uppdrag att teckna ny<br>avsiktsförklaring med Göteborgs Stad genom<br>Kretslopp och vattennämnden avseende samverkan<br>kring ömsesidigt dricksvattenkomplement i<br>ansträngda lägen. |
 | 13. | Initiativärende angående –<br>Tillstånd för uppsättning av<br>valaffischer på lyktstolpar längs<br>vägar – permanent rutin från<br>och med valåret 2026<br>20:10 – 20:20 | TE-2025-<br>01040 | Nämnden för Teknik noterar det inkomna initiativet<br>från (M). |
+| 14. | Omfördelning av<br>investeringsmedel,<br>bussvändslinga Gottskär<br>20:20 – 20:25 | TE-2025-<br>00983 | Nämnden för Teknik godkänner redovisningen av<br>delegeringsbeslut från ordförande<br>Monica Neptun (L) på grund av brådskande ärende.<br>Beslutet är fattat 2025-10-28 med stöd av<br>delegering. Nämnden för Tekniks<br>delegeringsförteckning: punkt 2.1.1, 2025-09-24 §<br>94. |
+| 15. | Redovisning av inkomna<br>motioner<br>20:25 – 20:30 | TE-2025-<br>01024 | Nämnden för Teknik noterar de inkomna motionerna<br>till protokollet. |
+| 16. | Anmälan av delegeringsbeslut<br>2025<br>20:30 – 20:35 | TE-2025-<br>00003 | Nämnden för Teknik noterar delegeringsbeslut<br>fattade under oktober 2025. |
+| 17. | Redovisning av inkomna<br>handlingar 2025<br>20:35 – 20:40 | TE-2025-<br>00002 | Nämnden för Teknik noterar redovisningen av<br>inkomna skrivelser till protokollet. |
+| 18. | Information från förvaltningen<br>2025<br>Föredragande: Ulrika Granfors,<br>20:40 – 20:50 | TE-2025-<br>00004 | Nämnden för Teknik noterar informationen till<br>protokollet. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -88,13 +88,3 @@ KUNGSBACKA  KOMMUN
 
 Monica Neptun                     Simon Nissen
 ordförande                        sekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 14. | Omfördelning av<br>investeringsmedel,<br>bussvändslinga Gottskär<br>20:20 – 20:25 | TE-2025-<br>00983 | Nämnden för Teknik godkänner redovisningen av<br>delegeringsbeslut från ordförande<br>Monica Neptun (L) på grund av brådskande ärende.<br>Beslutet är fattat 2025-10-28 med stöd av<br>delegering. Nämnden för Tekniks<br>delegeringsförteckning: punkt 2.1.1, 2025-09-24 §<br>94. |
-| 15. | Redovisning av inkomna<br>motioner<br>20:25 – 20:30 | TE-2025-<br>01024 | Nämnden för Teknik noterar de inkomna motionerna<br>till protokollet. |
-| 16. | Anmälan av delegeringsbeslut<br>2025<br>20:30 – 20:35 | TE-2025-<br>00003 | Nämnden för Teknik noterar delegeringsbeslut<br>fattade under oktober 2025. |
-| 17. | Redovisning av inkomna<br>handlingar 2025<br>20:35 – 20:40 | TE-2025-<br>00002 | Nämnden för Teknik noterar redovisningen av<br>inkomna skrivelser till protokollet. |
-| 18. | Information från förvaltningen<br>2025<br>Föredragande: Ulrika Granfors,<br>20:40 – 20:50 | TE-2025-<br>00004 | Nämnden för Teknik noterar informationen till<br>protokollet. |

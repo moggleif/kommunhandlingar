@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.120e6b95196c7fa447f1be9/17471202234
 sha256: f73ad293e99b3e3dcfcbc5dbd35b4e19b740fd4813f16244cbbe9b4d4727dc71
 bytes: 1891547
 sidor: 144
-hamtad: 2026-10-07T23:50:42+00:00
-konverterad: 2026-10-07T23:51:02+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T07:52:00+00:00
+konverterad: 2026-10-14T07:52:17+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [144]
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -253,8 +253,9 @@ budgeterats för perioden. Utfallet för nybyggnadskartor avviker med -0,2 miljo
 
 [Tabell 7-1](handlingar.tabeller/7-1.csv)
 
-| Byggnadsnämnden | Bokslut<br>2024<br>-1,3 | Årsbudget<br>2025<br>-1,7 | Helårs-<br>prognos<br>2025<br>-1,5 | Avvikelse<br>2025<br>0,2 |
+|  | Bokslut<br>2024 | Årsbudget<br>2025 | Helårs-<br>prognos<br>2025 | Avvikelse<br>2025 |
 | --- | --- | --- | --- | --- |
+| Byggnadsnämnden | -1,3 | -1,7 | -1,5 | 0,2 |
 |  |  |  |  |  |
 | Geodata & Bygglov |  |  |  |  |
 | Intäkter | 30,2 | 32,3 | 32,3 | 0,0 |

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.63c8c56619d9a5b19c1816c8/1777012459
 sha256: a0eb1afc40852ade0ba7ee2ac73da4b57eae3310abda1307c1b0166f41890eff
 bytes: 299760
 sidor: 13
-hamtad: 2026-10-08T02:01:44+00:00
-konverterad: 2026-10-08T02:01:50+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:41:50+00:00
+konverterad: 2026-10-14T09:41:57+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -507,12 +507,15 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 11-1](protokoll.tabeller/11-1.csv)
+[Tabell 11-12-1](protokoll.tabeller/11-12-1.csv)
 
 | Ärende/<br>ärendegrupp<br>enligt<br>delegationslistan | Beslut, insats<br>samt<br>ev. omfattning | Beslutsfattare | Beslutsdatum | Dnr |
 | --- | --- | --- | --- | --- |
 | 2.3.8<br>AB § 10 mom. 1-3 | Avstängning. | Christina<br>Carlsson<br>VC | 2026-02-24 |  |
 | 2.1.17 | Förvaltningschefen<br>har rätt att utfärda<br>fullmakt i ärenden<br>angående<br>bidragsansökningar,<br>anmälan och<br>hantering av<br>elcertifikat samt<br>uppföljning/<br>rapportering av<br>nyckeltal inom<br>energiområdet hos<br>Länsstyrelsen och<br>Energimyndigheten. | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-04-10 | SE-2026-00142 |
+| 2.1.11<br>Dataskydds-<br>förordningen<br>GDPR artikel 35 | Beslut med anledning<br>av konsekvens-<br>bedömning avseende<br>dataskydd | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-04-10 | SE-2025-00536 |
+| 2.1.11<br>Dataskydds-<br>förordningen<br>GDPR artikel 35 | Beslut med anledning<br>av konsekvens-<br>bedömning avseende<br>dataskydd | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-04-10 | SE-2026-00040 |
+| 2.1.11<br>Dataskydds-<br>förordningen<br>GDPR artikel 35 | Beslut med anledning<br>av konsekvens-<br>bedömning avseende<br>dataskydd | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-04-10 | SE-2026-00136 |
 
 <!-- sida 12 -->
 
@@ -535,13 +538,6 @@ säga förvaltningen för Service förslag, och att nämnden för Service bifall
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 12-1](protokoll.tabeller/12-1.csv)
-
-| 2.1.11<br>Dataskydds-<br>förordningen<br>GDPR artikel 35 | Beslut med anledning<br>av konsekvens-<br>bedömning avseende<br>dataskydd | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-04-10 | SE-2025-00536 |
-| --- | --- | --- | --- | --- |
-| 2.1.11<br>Dataskydds-<br>förordningen<br>GDPR artikel 35 | Beslut med anledning<br>av konsekvens-<br>bedömning avseende<br>dataskydd | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-04-10 | SE-2026-00040 |
-| 2.1.11<br>Dataskydds-<br>förordningen<br>GDPR artikel 35 | Beslut med anledning<br>av konsekvens-<br>bedömning avseende<br>dataskydd | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2026-04-10 | SE-2026-00136 |
 
 <!-- sida 13 -->
 

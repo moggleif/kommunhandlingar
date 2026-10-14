@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2da4b3f51a0864b91543b215/1789112180
 sha256: 66fc5635f329adfd9fb606836b9cb2dcf9544ae948f6a1d0b30493ae7a37889a
 bytes: 31211465
 sidor: 258
-hamtad: 2026-10-08T00:07:18+00:00
-konverterad: 2026-10-08T00:08:39+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T08:04:26+00:00
+konverterad: 2026-10-14T08:05:42+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [3]
-figurer: null
-tolkade: null
+figurer: [39, 43, 77, 104, 110, 115, 117, 118, 119, 120, 121, 122, 123, 124, 125, 133, 135, 138, 142, 145, 148, 157, 165, 175, 176, 179, 182, 185, 187, 191, 198, 204, 211, 213, 219, 221, 224, 241, 244, 248, 255]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -7890,7 +7890,7 @@ Samtliga rättigheter finns listade i fastighetsförteckningen.
 
 Granskningshandling                                        13 (27)
 
-[Tabell 183-1](handlingar.tabeller/183-1.csv)
+[Tabell 183-184-1](handlingar.tabeller/183-184-1.csv)
 
 |  |  |
 | --- | --- |
@@ -7901,21 +7901,17 @@ Granskningshandling                                        13 (27)
 | Åsa 5:149 | Del av fastigheten planläggs för<br>PARK med kommunalt<br>huvudmannaskap. Del av fastigheten<br>kommer inte längre belastas av Åsa<br>ga:8. |
 | Åsa 5:248 | Användningen i detaljplan ändras<br>från PARK eller GC-väg med enskilt<br>huvudmannaskap till PARK med<br>kommunalt huvudmannaskap. Del av<br>fastigheten som inte är planlagd,<br>planläggs för PARK med kommunalt<br>huvudmannaskap. Del av fastigheten<br>kommer inte längre belastas av Åsa<br>ga:8. |
 | Åsa s:1 | Ska avstå mark för allmän plats<br>PARK, 112 kvm, se blåfärgad yta i<br>figur 1 nedan. Ytan regleras till<br>intilliggande kommunal fastighet. |
+| Rättigheter: |  |
+| Åsa ga:8 | Förvaltnings- och driftsområde<br>upphävs inom allmän plats PARK,<br>6027 kvm, se lilafärgad yta i figur 2<br>nedan. Del av fastigheterna Åsa<br>5:149 och Åsa 5:248 kommer inte<br>längre belastas av<br>gemensamhetsanläggningen. |
+| 1384-01/63.1, utrymme | Servitutet upphävs inom<br>detaljplanen, vilket sker i samband<br>med omprövning av<br>gemensamhetsanläggnigningen Åsa<br>ga:8. |
+| 1384-01/63.2, Röjningsrätt | Servitutet upphävs inom<br>detaljplanen, vilket sker i samband<br>med omprövning av<br>gemensamhetsanläggnigningen Åsa<br>ga:8. |
+| 1384-01/63.2, Grindförbud | Servitutet upphävs inom<br>detaljplanen, vilket sker i samband<br>med omprövning av<br>gemensamhetsanläggnigningen Åsa<br>ga:8. |
 
 <!-- sida 184 -->
 
 Detaljplan för ändring av huvudmannaskap            Datum: 2026-08-18
 
 Granskningshandling                                        14 (27)
-
-[Tabell 184-1](handlingar.tabeller/184-1.csv)
-
-| Rättigheter: |  |
-| --- | --- |
-| Åsa ga:8 | Förvaltnings- och driftsområde<br>upphävs inom allmän plats PARK,<br>6027 kvm, se lilafärgad yta i figur 2<br>nedan. Del av fastigheterna Åsa<br>5:149 och Åsa 5:248 kommer inte<br>längre belastas av<br>gemensamhetsanläggningen. |
-| 1384-01/63.1, utrymme | Servitutet upphävs inom<br>detaljplanen, vilket sker i samband<br>med omprövning av<br>gemensamhetsanläggnigningen Åsa<br>ga:8. |
-| 1384-01/63.2, Röjningsrätt | Servitutet upphävs inom<br>detaljplanen, vilket sker i samband<br>med omprövning av<br>gemensamhetsanläggnigningen Åsa<br>ga:8. |
-| 1384-01/63.2, Grindförbud | Servitutet upphävs inom<br>detaljplanen, vilket sker i samband<br>med omprövning av<br>gemensamhetsanläggnigningen Åsa<br>ga:8. |
 
 <!-- sida 185 -->
 
@@ -10253,7 +10249,7 @@ Konsekvenser
 Fastigheter och rättigheter
 Samtliga rättigheter finns listade i fastighetsförteckningen.
 
-[Tabell 238-1](handlingar.tabeller/238-1.csv)
+[Tabell 238-241-1](handlingar.tabeller/238-241-1.csv)
 
 |  |  |
 | --- | --- |
@@ -10262,6 +10258,17 @@ Samtliga rättigheter finns listade i fastighetsförteckningen.
 | Skällared 2:4<br>Skällared 2:4 | Ska avstå mark för allmän plats<br>GATA, 1,9 kvm, se figur. Regleras<br>till intilliggande kommunal fastighet. |
 | Skällared 2:8 | Fastigheten förläggs med<br>utfartsförbud mot Gottskärsvägen. |
 | Skällared 2:39<br>Skällared 2:39 | Ska avstå mark för allmän plats<br>GATA, 1,3 kvm, se figur. Regleras<br>till intilliggande kommunal fastighet. |
+| Skällared 3:45 | Fastigheten planläggs delvis för<br>bostadsändamål och förses med<br>utfartsförbud mot Gottskärsvägen.<br>Övriga delar av fastigheten påverkas<br>inte av detaljplanen. |
+| Skällared 3:46<br>Skällared 3:46 | Ska avstå mark för allmän plats<br>GATA, 1,7 kvm, se figur. Regleras<br>till intilliggande kommunal fastighet. |
+| Skällared 3:47<br>Skällared 3:47 | Ska avstå mark för allmän plats<br>GATA, 2,1 kvm, se figur. Regleras<br>till intilliggande kommunal fastighet. |
+| Skällared 3:48<br>Skällared 3:48 | Ska avstå mark för allmän plats<br>GATA, 2,9 kvm, se figur. Regleras<br>till intilliggande kommunal fastighet. |
+| Skällared 3:51<br>Skällared 3:51 | Ska avstå mark för allmän plats<br>GATA, 0,3 kvm, se figur. Regleras<br>till intilliggande kommunal fastighet. |
+| Skällared 3:87 | Ska avstå mark för allmän plats<br>GATA, 22,2 kvm, se figur. |
+| Skällared 3:88 | Fastigheten förläggs med<br>utfartsförbud mot Gottskärsvägen. |
+| Skällared s:5, skifte 1 och 2 | Ska avstå mark för allmän plats<br>GATA, 1627 kvm, se blå<br>färgmarkering i figur 3 under<br>tabellen. Regleras till intilliggande<br>kommunal fastighet. |
+| Outredd marksamfällighet (Dragsvägen) | Ska avstå mark för allmän plats<br>GATA, 36 kvm, se figur. Regleras<br>till intilliggande kommunal fastighet. |
+| Rättigheter: |  |
+| 13-IM2-79/1405A.1, Avtalsservitut | Utbredning påverkas ej. Kommer<br>belasta kommunal fastighet i stället<br>för Skällared s:5 |
 
 <!-- sida 239 -->
 
@@ -10270,23 +10277,7 @@ Datum: 2026-08-18
 
 Antagandehandling                                          21 (25)
 
-[Tabell 239-1](handlingar.tabeller/239-1.csv)
-
-| Skällared 3:45 | Fastigheten planläggs delvis för<br>bostadsändamål och förses med<br>utfartsförbud mot Gottskärsvägen.<br>Övriga delar av fastigheten påverkas<br>inte av detaljplanen. |
-| --- | --- |
-| Skällared 3:46<br>Skällared 3:46 | Ska avstå mark för allmän plats<br>GATA, 1,7 kvm, se figur. Regleras<br>till intilliggande kommunal fastighet. |
-| Skällared 3:47<br>Skällared 3:47 | Ska avstå mark för allmän plats<br>GATA, 2,1 kvm, se figur. Regleras<br>till intilliggande kommunal fastighet. |
-| Skällared 3:48<br>Skällared 3:48 | Ska avstå mark för allmän plats<br>GATA, 2,9 kvm, se figur. Regleras<br>till intilliggande kommunal fastighet. |
-
 <!-- sida 240 -->
-
-[Tabell 240-1](handlingar.tabeller/240-1.csv)
-
-| Skällared 3:51<br>Skällared 3:51 | Ska avstå mark för allmän plats<br>GATA, 0,3 kvm, se figur. Regleras<br>till intilliggande kommunal fastighet. |
-| --- | --- |
-| Skällared 3:87 | Ska avstå mark för allmän plats<br>GATA, 22,2 kvm, se figur. |
-| Skällared 3:88 | Fastigheten förläggs med<br>utfartsförbud mot Gottskärsvägen. |
-| Skällared s:5, skifte 1 och 2 | Ska avstå mark för allmän plats<br>GATA, 1627 kvm, se blå<br>färgmarkering i figur 3 under<br>tabellen. Regleras till intilliggande<br>kommunal fastighet. |
 
 <!-- sida 241 -->
 
@@ -10298,13 +10289,6 @@ Figur 2. Sandfärgad yta i figuren visar mark inom Skällared 2:1 som ingår i p
 Figur 3. Blåfärgad yta i figuren visar mark inom Skällared s:5 som ingår i planområdet.
 
 Antagandehandling                                          23 (25)
-
-[Tabell 241-1](handlingar.tabeller/241-1.csv)
-
-| Outredd marksamfällighet (Dragsvägen) | Ska avstå mark för allmän plats<br>GATA, 36 kvm, se figur. Regleras<br>till intilliggande kommunal fastighet. |
-| --- | --- |
-| Rättigheter: |  |
-| 13-IM2-79/1405A.1, Avtalsservitut | Utbredning påverkas ej. Kommer<br>belasta kommunal fastighet i stället<br>för Skällared s:5 |
 
 <!-- sida 242 -->
 

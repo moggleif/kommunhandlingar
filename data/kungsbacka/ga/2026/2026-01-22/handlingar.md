@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2d8c151a19bc22c303820a1c/1768561005
 sha256: a520a5e8d5626e035d0920c6eb67059e48193ad16bd77bdf7b148cb7481b78dc
 bytes: 3972415
 sidor: 92
-hamtad: 2026-10-07T22:26:37+00:00
-konverterad: 2026-10-07T22:27:01+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T06:39:12+00:00
+konverterad: 2026-10-14T06:39:31+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [24, 31, 35, 44]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46]
+figurer: [20, 21, 24, 25, 26, 28, 29, 30, 32, 36, 37, 38, 39, 40, 42, 43, 44, 45, 46]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -509,7 +509,7 @@ EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ - INDIKATORER
 
 7
 
-[Tabell 14-1](handlingar.tabeller/14-1.csv)
+[Tabell 14-15-1](handlingar.tabeller/14-15-1.csv)
 
 | Indikator | Utvärdera<br>A, B, C | Målsättning<br>2027<br>(öka/minska) | Kommentar nya förslag |
 | --- | --- | --- | --- |
@@ -521,6 +521,13 @@ EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ - INDIKATORER
 | Andelen elever som har skattat sin<br>egen livstillfredsställelse som god eller<br>mycket god under elevhälsosamtalet,<br>Gymnasiet ÅK 1 i% - pojkar. | B | Öka | Frågan som ställs är "Om du tänker<br>på ditt liv i största allmänhet, hur du<br>har det, var tycker du att du står just<br>nu? 10 motsvarar det bästa, 0 det<br>sämsta. Det behöver tydliggöras var<br>på skalan gränsen god och mycket<br>god dras för att kunna räkna ut<br>andel. |
 | Avfall från hushåll ska minska med<br>30% per invånare från 2020 till 2030.<br>Startvärde 100, målvärde 2030 är 70. |  |  |  |
 | Fossiloberoende personbilar, andel av<br>totalt antal bilar i det geografiska<br>området, (Kolada) |  |  |  |
+| Matens klimatpåverkan från de<br>offentliga måltiderna ska minska<br>räknat i kg CO2-ekv/kg livsmedel.<br>Målsättningen är 1,0 år 2030. |  |  |  |
+| Antal kemiska produkter med<br>utfasningsämnen, inklusive<br>hormonstörande ämnen på SIN-listan<br>ska minska i kommunens<br>verksamheter. 2021 var antalet 124<br>(KEMgroup PRO) |  |  |  |
+| Ekologisk status i Kungsbackafjorden<br>(VISS) |  |  |  |
+| Vattendrag med god ekologisk status,<br>andel (Kolada) |  |  |  |
+| Andelen återbrukade möbler |  |  |  |
+| Total debiterad vattenförbrukning<br>fördelat på antal anslutna till<br>vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen<br>och privata verksamheter).<br>Liter/person och dygn |  |  |  |
+| Vattenförbrukning för hushåll anslutna<br>till vattenledningsnätet. Liter/person<br>och dygn |  |  |  |
 
 <!-- sida 15 -->
 
@@ -535,17 +542,6 @@ BÄSTA FÖRETAGSKLIMATET I VÄSTSVERIGE - INDIKATORER
 
 [Tabell 15-1](handlingar.tabeller/15-1.csv)
 
-| Matens klimatpåverkan från de<br>offentliga måltiderna ska minska<br>räknat i kg CO2-ekv/kg livsmedel.<br>Målsättningen är 1,0 år 2030. |  |  |  |
-| --- | --- | --- | --- |
-| Antal kemiska produkter med<br>utfasningsämnen, inklusive<br>hormonstörande ämnen på SIN-listan<br>ska minska i kommunens<br>verksamheter. 2021 var antalet 124<br>(KEMgroup PRO) |  |  |  |
-| Ekologisk status i Kungsbackafjorden<br>(VISS) |  |  |  |
-| Vattendrag med god ekologisk status,<br>andel (Kolada) |  |  |  |
-| Andelen återbrukade möbler |  |  |  |
-| Total debiterad vattenförbrukning<br>fördelat på antal anslutna till<br>vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen<br>och privata verksamheter).<br>Liter/person och dygn |  |  |  |
-| Vattenförbrukning för hushåll anslutna<br>till vattenledningsnätet. Liter/person<br>och dygn |  |  |  |
-
-[Tabell 15-2](handlingar.tabeller/15-2.csv)
-
 | Förslag till nya fokusområden | Ta bort fokusområden |
 | --- | --- |
 |  |  |
@@ -553,13 +549,16 @@ BÄSTA FÖRETAGSKLIMATET I VÄSTSVERIGE - INDIKATORER
 |  |  |
 |  |  |
 
-[Tabell 15-3](handlingar.tabeller/15-3.csv)
+[Tabell 15-16-2](handlingar.tabeller/15-16-2.csv)
 
 | Indikator | Utvärdera<br>A, B, C | Målsättning<br>2027<br>(öka/minska) | Kommentar<br>nya förslag |
 | --- | --- | --- | --- |
 | Insikt, SKRs servicemätning av kommunernas<br>myndighetsutövning för företag. Nöjd-kund-index utifrån<br>sammanvägt betygsindex 0-100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilket är en viktig del av<br>företagsklimatet. |  |  |  |
 | Svenskt Näringslivs attitydundersökning av kommuners<br>företagsklimat. Medelvärde utifrån skala 1-6, där företag<br>bedömer företagsklimatet i Kungsbacka kommun. |  |  |  |
 | Sysselsatt dagbefolkning, antal |  |  |  |
+| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen |  |  |  |
+| Företagsamhet, andel av invånare 16–74 år |  |  |  |
+| Antal nystartade företag per 1 000 invånare 16–64 år<br>(etableringsfrekvens) |  |  |  |
 
 <!-- sida 16 -->
 
@@ -583,13 +582,6 @@ A, B, C             nya förslag
 
 [Tabell 16-1](handlingar.tabeller/16-1.csv)
 
-| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen |  |  |  |
-| --- | --- | --- | --- |
-| Företagsamhet, andel av invånare 16–74 år |  |  |  |
-| Antal nystartade företag per 1 000 invånare 16–64 år<br>(etableringsfrekvens) |  |  |  |
-
-[Tabell 16-2](handlingar.tabeller/16-2.csv)
-
 | Förslag till nya fokusområden | Ta bort fokusområden |
 | --- | --- |
 |  |  |
@@ -597,7 +589,7 @@ A, B, C             nya förslag
 |  |  |
 |  |  |
 
-[Tabell 16-3](handlingar.tabeller/16-3.csv)
+[Tabell 16-2](handlingar.tabeller/16-2.csv)
 
 | Indikator | Utvärdera<br>A, B, C | Målsättning 2027<br>(öka/minska) | Kommentar<br>nya förslag |
 | --- | --- | --- | --- |
@@ -608,7 +600,7 @@ A, B, C             nya förslag
 | Invånare som någon gång under året erhållit<br>ekonomiskt bistånd, andel (%) av bef. |  | Minska | Ny indikator.<br>Källa: Kolada |
 | Gymnasieelever med examen inom 3 år, kommunala<br>skolor, andel (%) |  | Öka | Ny indikator.<br>Källa: Kolada |
 
-[Tabell 16-4](handlingar.tabeller/16-4.csv)
+[Tabell 16-3](handlingar.tabeller/16-3.csv)
 
 | Förslag till nya fokusområden | Ta bort fokusområden |
 | --- | --- |
@@ -2045,7 +2037,7 @@ AU Utbildning AB 51 232 48
 K Hantverk
 Werket för diMaolovagn tm ABed Ar1b08etsför1m20edlingen om den förändrade statisLt iMkaesnki,n
 M Transport
-Bergstir afnödrsh Voupxepnnuitnbigld naintgta kr AuBnna1 å18terstä9ll4a den i kommande nummer av Månadsrap-
+Bergstir afnödrsh Voupxepnnuitnbigld naintgta kr AuBnna1å18terstä9ll4a den i kommande nummer av Månadsrap-
 Övrigt
 portenH.vilan Utbildning AB 191
 YrkesAkademin AB 41 41 71
@@ -2161,56 +2153,32 @@ ningar. Övriga kategorier inkluderar främst orienterings- och kartläggningsmo
 arbetsmarknadsutbildning, något som kan utgöra en tidig indikator för kommande anvisningar dit.
 
 Kvarstående                       Nya
-Okänd
-Installation, drift, underhåll
-
-Transport
+1 291                  629                868
+Okänd                          1 657
+Installation, drift, underhåll 109 176 171           281
+Transport  164                  155 312              426
+115                    194
 Industriell tillverkning
 
-Bygg och anläggning
-Hälso- och sjukvård
-Hotell, restaurang,
+```osaker-tabell
+                                122                  214
+           108                    141
+Bygg och anläggning             115                  187
+```
+
+Hälso- och sjukvård 59          97 68
+124
+Hotell, restaurang, 72          145 112              254
 storhushåll
-Data/IT
-
-Sanering och renhållning
-Naturbruk
-
-Tekniskt arbete
+Data/IT    63                   90 127               212
+Sanering och renhållning 34       82                 85
+18
+Naturbruk  14                   32 30                53
+Tekniskt arbete 7                 12                 16
+0
 2024       2025         2024     2025
 Kvarstående och nya deltagare i förberedande utbildning (FUB) per underkategori.
-
 23
-
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
-
-| 1 291 | 629 868 |
-| --- | --- |
-| 1 657 |  |
-| 109 | 171 |
-| 176 | 281 |
-| 164 |  |
-|  | 312 426 |
-| 155 |  |
-| 115 | 194 |
-| 122 | 214 |
-| 108 |  |
-|  | 141 |
-| 115 | 187 |
-| 59 97 | 68 |
-|  | 124 |
-| 72 145 | 112 254 |
-|  |  |
-| 63 | 127 212 |
-| 90 |  |
-| 34 | 82 |
-| 18 | 85 |
-| 14 32 |  |
-|  | 30 53 |
-|  |  |
-|  |  |
-| 7 | 12 16 |
-| 0 |  |
 
 <!-- sida 47 -->
 

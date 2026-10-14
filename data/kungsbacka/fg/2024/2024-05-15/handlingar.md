@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.b7a004018f378e8f2819e65/17155780067
 sha256: 3e366a0478beff8b65b93494fc306e83972124b157af9f4997953508f8a19b3a
 bytes: 5406304
 sidor: 68
-hamtad: 2026-10-07T22:46:59+00:00
-konverterad: 2026-10-07T22:47:15+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T06:56:45+00:00
+konverterad: 2026-10-14T06:56:59+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [34, 45, 46, 47]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1672,19 +1672,33 @@ Nedan framgår en översikt över de konsekvensbedömningar som gjorts i kommune
 och där jag lämnat råd. Inom parentes anges vilken del av kommunens verksamhet som gjort
 konsekvensbedömningen:
 
+Gjorda konsekvensbedömningar där lämnat råd
+2021                 2022                 2023
+
+Integrationsplattform (SE) Kontors- och samarbetsverktyg (KS) Stöd vid separationer (IF)
+
+Mitt Arkiv (KS)                          Specialkost (SE)
+Ansökan om stipendium – e-tjänst
+(GA)
+
+E-tjänsteplattform (KS) Gästnätverk (SE) Stöd för automatisering av
+arbets- och beslutsprocesser (KS)
+
+Kompletterande                           Dokumentation vid
+kamerabevakning/digital tillsyn Chattverktyg på kommunens disciplinärenden (KS)
+(VO/IF)            hemsida (KS)
+
+Bedömningsstöd inom Hantering av         Automatiserat avslut av
+gymnasieskolan (GA) användarbehörigheter (SE) personakter (SE)
+
+Färdtjänst – e-tjänst (TE)               Analys- och planeringsstöd inom
+Rapportering av missförhållanden socialtjänsten (IF)
+(visselblåsarfunktion) (KS)
+
+Ekonomiskt bistånd – e-tjänst            Säker posthantering
+(GA)               Digitalt stöd inom LSS (IF) (digital/fysisk) (KS)
+
 10
-
-[Tabell 43-1](handlingar.tabeller/43-1.csv)
-
-| Gjorda konsekvensbedömningar där lämnat råd<br>2021 2022 2023 |  |  |
-| --- | --- | --- |
-| Integrationsplattform (SE) | Kontors- och samarbetsverktyg (KS) | Stöd vid separationer (IF) |
-| Mitt Arkiv (KS) | Ansökan om stipendium – e-tjänst<br>(GA) | Specialkost (SE) |
-| E-tjänsteplattform (KS) | Gästnätverk (SE) | Stöd för automatisering av<br>arbets- och beslutsprocesser (KS) |
-| Kompletterande<br>kamerabevakning/digital tillsyn<br>(VO/IF) | Chattverktyg på kommunens<br>hemsida (KS) | Dokumentation vid<br>disciplinärenden (KS) |
-| Bedömningsstöd inom<br>gymnasieskolan (GA) | Hantering av<br>användarbehörigheter (SE) | Automatiserat avslut av<br>personakter (SE) |
-| Färdtjänst – e-tjänst (TE) | Rapportering av missförhållanden<br>(visselblåsarfunktion) (KS) | Analys- och planeringsstöd inom<br>socialtjänsten (IF) |
-| Ekonomiskt bistånd – e-tjänst<br>(GA) | Digitalt stöd inom LSS (IF) | Säker posthantering<br>(digital/fysisk) (KS) |
 
 <!-- sida 44 -->
 
@@ -2554,7 +2568,7 @@ Delegeringsbeslut för tiden 20240407 -- 20240505
 
 <!-- sida 64 -->
 
-[Tabell 64-1](handlingar.tabeller/64-1.csv)
+[Tabell 64-67-1](handlingar.tabeller/64-67-1.csv)
 
 | Ärendenumm | eInskickat | Delegering | Status |
 | --- | --- | --- | --- |
@@ -2604,13 +2618,7 @@ Delegeringsbeslut för tiden 20240407 -- 20240505
 | 128121 | 2024-04-15 09:25 | A 4.1 | Avslag |
 | 128125 | 2024-04-15 09:32 | A 4.1 | Avslag |
 | 128138 | 2024-04-15 09:45 | A 4.1 | Avslag |
-
-<!-- sida 65 -->
-
-[Tabell 65-1](handlingar.tabeller/65-1.csv)
-
 | 128146 | 2024-04-15 09:52 | A 4.1 | Beviljad |
-| --- | --- | --- | --- |
 | 128150 | 2024-04-15 09:58 | A 4.1 | Avslag |
 | 128219 | 2024-04-15 11:29 | A 4.1 | Beviljad |
 | 128233 | 2024-04-15 12:02 | A 4.1 | Avslag |
@@ -2657,13 +2665,7 @@ Delegeringsbeslut för tiden 20240407 -- 20240505
 | 128855 | 2024-04-16 17:02 | A 4.1 | Avslag |
 | 128870 | 2024-04-16 18:20 | A 4.1 | Avslag |
 | 128872 | 2024-04-16 18:22 | A 4.1 | Avslag |
-
-<!-- sida 66 -->
-
-[Tabell 66-1](handlingar.tabeller/66-1.csv)
-
 | 128881 | 2024-04-16 18:48 | A 4.1 | Avslag |
-| --- | --- | --- | --- |
 | 128884 | 2024-04-16 18:55 | A 4.1 | Avslag |
 | 128890 | 2024-04-16 19:12 | A 4.1 | Avslag |
 | 128891 | 2024-04-16 19:13 | A 4.1 | Avslag |
@@ -2710,13 +2712,7 @@ Delegeringsbeslut för tiden 20240407 -- 20240505
 | 130149 | 2024-04-22 10:02 | A 4.1 | Avslag |
 | 130149 | 2024-04-22 10:02 | A 4.1 | Beviljad |
 | 130176 | 2024-04-22 10:42 | A 4.1 | Avslag |
-
-<!-- sida 67 -->
-
-[Tabell 67-1](handlingar.tabeller/67-1.csv)
-
 | 130223 | 2024-04-22 13:13 | A 4.1 | Avslag |
-| --- | --- | --- | --- |
 | 130223 | 2024-04-22 13:13 | A 4.1 | Beviljad |
 | 130358 | 2024-04-23 07:13 | A 4.1 | Avslag |
 | 130549 | 2024-04-23 16:17 | A 4.1 | Avslag |
@@ -2751,6 +2747,12 @@ Delegeringsbeslut för tiden 20240407 -- 20240505
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
+
+<!-- sida 65 -->
+
+<!-- sida 66 -->
+
+<!-- sida 67 -->
 
 <!-- sida 68 -->
 

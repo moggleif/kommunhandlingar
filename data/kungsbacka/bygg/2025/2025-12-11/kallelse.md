@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4e1e798419ae7f1e7adb11d/17649210764
 sha256: 0e8a6b4516b2754aa9f7a41e20dbc43a36aea27c45fc7135324b2933dd027c85
 bytes: 224596
 sidor: 6
-hamtad: 2026-10-07T23:47:01+00:00
-konverterad: 2026-10-07T23:47:08+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T07:48:44+00:00
+konverterad: 2026-10-14T07:48:50+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -71,7 +71,7 @@ KUNGSBACKA  KOMMUN
 
 3(6)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
+[Tabell 3-5-1](kallelse.tabeller/3-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag | Tid |
 | --- | --- | --- | --- | --- |
@@ -79,22 +79,22 @@ KUNGSBACKA  KOMMUN
 | 10. | BUERA 12:41 -<br>Strandskyddsdispens för<br>nybyggnad av enbostadshus<br>samt komplementbyggnader<br>Föredragande: André Nilsson,<br>senior bygglovshandläggare | BN-2025-<br>001465 | Arbetsutskottets förslag till beslut<br>Byggnadsnämnden beviljar inte ansökan<br>om strandskyddsdispens för nybyggnad av<br>enbostadshus samt komplementbyggnader.<br>Avgiften för beslutet är 8 346 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
 | 11. | Byggsanktionsavgift för att ha<br>påbörjat åtgärd i form av<br>tillbyggnad innan startbesked<br>Föredragande: Peter Sebestyén,<br>enhetschef | BN-2023-<br>000236 | Arbetsutskottets förslag till beslut | 5<br>min |
 | 12. | Byggsanktionsavgift för att ha<br>tagit lokal i bruk utan<br>slutbesked<br>Föredragande: Peter Sebestyén,<br>enhetschef | BN-2022-<br>006615 | Arbetsutskottets förslag till beslut | 5<br>min |
+| 13. | Antagande av ändring av del av<br>detaljplan S21A för bostäder<br>inom Malevik 1:39 i Malevik<br>Föredragande: Björn Vikström,<br>planarkitekt | BN-2025-<br>00047 | Arbetsutskottets förslag till beslut<br>Byggnadsnämnden godkänner<br>granskningsutlåtande daterat 2025-11-04.<br>Byggnadsnämnden antar ändring av del av<br>detaljplan S21A för bostäder inom Malevik<br>1:39 i Malevik, upprättad 2025-11-04. | 5<br>min |
+| 14. | Antagande av ändring av del av<br>detaljplan K35 och T16 inom<br>Spoven 1, Tingbergsskolan<br>Föredragande: Stina Wikström,<br>planarkitekt | BN-2025-<br>00084 | Arbetsutskottets förslag till beslut<br>Byggnadsnämnden godkänner<br>granskningsutlåtandet daterat 2025-11-04.<br>Byggnadsnämnden antar ändring av del av<br>detaljplan K35 och T16 inom Spoven 1 i<br>Kungsbacka, upprättad 2025-11-04. | 5<br>min |
+| 15. | Antagande av detaljplan för<br>skola inom del av fastighet Åsa<br>5:246 i Åsa<br>Föredragande: Björn Vikström,<br>planarkitekt | BN-2022-<br>00005 | Arbetsutskottets förslag till beslut<br>Byggnadsnämnden godkänner<br>granskningsutlåtandet daterat 2025-11-04.<br>Byggnadsnämnden antar detaljplan för<br>skola inom Åsa 5:246 i Åsa, upprättad<br>2025-11-04. | 5<br>min |
+| 16. | Antagande av detaljplan för<br>sjukhus inom Tölöberg 2 och<br>Tölö 1:17 i Kungsbacka<br>Föredragande: Emma<br>Johansson, planarkitekt | BN-2018-<br>00033 | Arbetsutskottets förslag till beslut<br>Byggnadsnämnden godkänner<br>granskningsutlåtandet.<br>Byggnadsnämnden antar detaljplan för<br>sjukhus inom Tölöberg 2 och Tölö 1:17 i<br>Kungsbacka, upprättad 2025-11-04. | 10<br>min |
+| 17. | Samråd av detaljplan för<br>bostäder inom Bolsheden 1:9<br>m.fl i Kullavik<br>Föredragande: Linda<br>Bergström. planarkitekt | BN-2021-<br>00028 | Arbetsutskottets förslag till beslut<br>Byggnadsnämnden godkänner<br>samrådshandlingarna<br>Byggnadsnämnden uppdrar åt<br>Samhällsbyggnadskontoret att genomföra<br>samråd av detaljplan för bostäder inom<br>Bolsheden 1:9 m.fl.i Kullavik. | 15<br>min |
+| 18. | Granskning av detaljplan för<br>verksamheter inom Frillesås-<br>Rya 3:77 m.fl. i Frillesås<br>Föredragande: Johanna<br>Vinterhav, planarkitekt | BN-2024-<br>00196 | Arbetsutskottets förslag till beslut<br>Byggnadsnämnden godkänner<br>granskningshandlingarna daterade 2025-<br>11-04.<br>Byggnadsnämnden ger<br>samhällsbyggnadskontoret i uppdrag att<br>genomföra granskning av detaljplan för<br>verksamheter inom Frillesås-Rya 3:77<br>m.fl. i Frillesås, upprättad 2025-11-04.<br>Byggnadsnämnden förklarar paragrafen<br>omedelbart justerad. | 15<br>min |
+| 19. | Anmälan av ordförandebeslut -<br>Yttrande till Mark- och<br>miljööverdomstolen i mål nr P<br>10605-25, gällande<br>förhandsbesked för nybyggnad<br>av två enbostadshus på<br>fastigheten Karsegården 6:11 | BN-2023-<br>001713 | Förslag till beslut<br>Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut från<br>ordförande Thure Sandén (M) på grund av<br>brådskande ärende. | 2<br>min |
+| 20. | Anmälan av ordförandebeslut -<br>Yttrande till mark- och<br>miljödomstolen i mål nr P<br>5192-25, angående<br>vitesföreläggande för bristande<br>underhåll av växtlighet på<br>fastigheten | BN-2022-<br>007123 | Förslag till beslut<br>Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut från<br>ordförande Thure Sandén (M) på grund av<br>brådskande ärende. | 2<br>min |
+| 21. | Anmälan av delegeringsbeslut | BN-2025-<br>00006 | Förslag till beslut<br>Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut fattade<br>under perioden 2025-11-12–2025-12-02. | 2<br>min |
+| 22. | Redovisning av inkomna<br>skrivelser | BN-2025-<br>00007 | Förslag till beslut<br>Byggnadsnämnden noterar redovisningen<br>av inkomna skrivelser till protokollet. | 2<br>min |
 
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(6)
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 13. | Antagande av ändring av del av<br>detaljplan S21A för bostäder<br>inom Malevik 1:39 i Malevik<br>Föredragande: Björn Vikström,<br>planarkitekt | BN-2025-<br>00047 | Arbetsutskottets förslag till beslut<br>Byggnadsnämnden godkänner<br>granskningsutlåtande daterat 2025-11-04.<br>Byggnadsnämnden antar ändring av del av<br>detaljplan S21A för bostäder inom Malevik<br>1:39 i Malevik, upprättad 2025-11-04. | 5<br>min |
-| 14. | Antagande av ändring av del av<br>detaljplan K35 och T16 inom<br>Spoven 1, Tingbergsskolan<br>Föredragande: Stina Wikström,<br>planarkitekt | BN-2025-<br>00084 | Arbetsutskottets förslag till beslut<br>Byggnadsnämnden godkänner<br>granskningsutlåtandet daterat 2025-11-04.<br>Byggnadsnämnden antar ändring av del av<br>detaljplan K35 och T16 inom Spoven 1 i<br>Kungsbacka, upprättad 2025-11-04. | 5<br>min |
-| 15. | Antagande av detaljplan för<br>skola inom del av fastighet Åsa<br>5:246 i Åsa<br>Föredragande: Björn Vikström,<br>planarkitekt | BN-2022-<br>00005 | Arbetsutskottets förslag till beslut<br>Byggnadsnämnden godkänner<br>granskningsutlåtandet daterat 2025-11-04.<br>Byggnadsnämnden antar detaljplan för<br>skola inom Åsa 5:246 i Åsa, upprättad<br>2025-11-04. | 5<br>min |
-| 16. | Antagande av detaljplan för<br>sjukhus inom Tölöberg 2 och<br>Tölö 1:17 i Kungsbacka<br>Föredragande: Emma<br>Johansson, planarkitekt | BN-2018-<br>00033 | Arbetsutskottets förslag till beslut<br>Byggnadsnämnden godkänner<br>granskningsutlåtandet.<br>Byggnadsnämnden antar detaljplan för<br>sjukhus inom Tölöberg 2 och Tölö 1:17 i<br>Kungsbacka, upprättad 2025-11-04. | 10<br>min |
-| 17. | Samråd av detaljplan för<br>bostäder inom Bolsheden 1:9<br>m.fl i Kullavik<br>Föredragande: Linda<br>Bergström. planarkitekt | BN-2021-<br>00028 | Arbetsutskottets förslag till beslut<br>Byggnadsnämnden godkänner<br>samrådshandlingarna<br>Byggnadsnämnden uppdrar åt<br>Samhällsbyggnadskontoret att genomföra<br>samråd av detaljplan för bostäder inom<br>Bolsheden 1:9 m.fl.i Kullavik. | 15<br>min |
 
 <!-- sida 5 -->
 
@@ -104,16 +104,6 @@ KUNGSBACKA  KOMMUN
 
 Thure Sandén                      Sofie Axelsson
 ordförande                        sekreterare
-
-[Tabell 5-1](kallelse.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 18. | Granskning av detaljplan för<br>verksamheter inom Frillesås-<br>Rya 3:77 m.fl. i Frillesås<br>Föredragande: Johanna<br>Vinterhav, planarkitekt | BN-2024-<br>00196 | Arbetsutskottets förslag till beslut<br>Byggnadsnämnden godkänner<br>granskningshandlingarna daterade 2025-<br>11-04.<br>Byggnadsnämnden ger<br>samhällsbyggnadskontoret i uppdrag att<br>genomföra granskning av detaljplan för<br>verksamheter inom Frillesås-Rya 3:77<br>m.fl. i Frillesås, upprättad 2025-11-04.<br>Byggnadsnämnden förklarar paragrafen<br>omedelbart justerad. | 15<br>min |
-| 19. | Anmälan av ordförandebeslut -<br>Yttrande till Mark- och<br>miljööverdomstolen i mål nr P<br>10605-25, gällande<br>förhandsbesked för nybyggnad<br>av två enbostadshus på<br>fastigheten Karsegården 6:11 | BN-2023-<br>001713 | Förslag till beslut<br>Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut från<br>ordförande Thure Sandén (M) på grund av<br>brådskande ärende. | 2<br>min |
-| 20. | Anmälan av ordförandebeslut -<br>Yttrande till mark- och<br>miljödomstolen i mål nr P<br>5192-25, angående<br>vitesföreläggande för bristande<br>underhåll av växtlighet på<br>fastigheten | BN-2022-<br>007123 | Förslag till beslut<br>Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut från<br>ordförande Thure Sandén (M) på grund av<br>brådskande ärende. | 2<br>min |
-| 21. | Anmälan av delegeringsbeslut | BN-2025-<br>00006 | Förslag till beslut<br>Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut fattade<br>under perioden 2025-11-12–2025-12-02. | 2<br>min |
-| 22. | Redovisning av inkomna<br>skrivelser | BN-2025-<br>00007 | Förslag till beslut<br>Byggnadsnämnden noterar redovisningen<br>av inkomna skrivelser till protokollet. | 2<br>min |
 
 <!-- sida 6 -->
 

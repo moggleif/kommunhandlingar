@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6f2d5e8e19474742dbc1021/17371236269
 sha256: eda5e01664f5432012afaf662cd9c20c53a5b840efab5737a36a2d623ded66e3
 bytes: 14792008
 sidor: 601
-hamtad: 2026-10-08T01:01:01+00:00
-konverterad: 2026-10-08T01:03:36+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T08:51:03+00:00
+konverterad: 2026-10-14T08:53:00+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [22, 23, 24]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok]
+tal_obekraftade: [13, 22, 23, 24, 499]
+figurer: [1, 21, 22, 23, 24, 41, 46, 57, 58, 62, 81, 83, 87, 88, 104, 106, 110, 115, 120, 378, 422, 423]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -212,54 +212,38 @@ Uppföljning
 
 K olla dataskyddet          Sida 2 av 6
 
-[Tabell 7-1](handlingar.tabeller/7-1.csv)
+[Tabell 7-11-1](handlingar.tabeller/7-11-1.csv)
 
 | Kritiska faktorer | Bedömning<br>Ja/Nej/<br>Delvis/Oklart | Motivering | Åtgärdsplan | Uppföljning |
 | --- | --- | --- | --- | --- |
 | 1.5 Vi har upparbetade metoder för<br>att arbeta systematiskt och<br>proaktivt med dataskydd i<br>verksamheten, inbegripet<br>ledningens genomgång<br>(förvaltningsledning samt<br>nämnd/styrelse).<br>Artikel 24.1-2 | Oklart | Från och med 2023 görs en<br>årsrapport till nämnden.<br>Egenkontroll genom kolla-materialet<br>genomförs minst vartannat år från<br>2023. Egenkontroll, årsrapport och<br>granskningar genomförda av<br>Dataskyddsombudet rapporteras till<br>och presenteras för nämnden. | Årsrapport och egenkontroll<br>genomförs för första gången<br>2023 och följs upp<br>nästkommande år. | Årsrapport och egenkontroll för 2023<br>rapporterades till och presenterades för<br>nämnden, inkl. ledningsgruppen på<br>nämndens sammanträde 2024-02-21. |
 | 1.6 Resultatet av det systematiska<br>egenkontrollarbetet dokumenteras.<br>Artikel 5.2 | Oklart | Årsrapport och egenkontroll<br>genomförs för första gången och<br>dokumenteras i mall och diarieförs. | Årsrapport och egenkontroll<br>genomförs för första gången<br>2023 och följs upp<br>nästkommande år. | Årsrapport och egenkontroll för 2023 finns<br>dokumenterad och diarieförd, TE-2023-<br>00025. |
 | 5.1 All vår behandling har försetts<br>med erforderliga<br>tekniskasäkerhetsåtgärder utifrån<br>dess risker och art[1]<br>Artikel 32 | Oklart | Behandlingar som påbörjades innan<br>GDPR trädde i kraft eller innan<br>ordentliga rutiner för nya<br>behandlingar fanns på plats kan ha<br>brister gällande analys,<br>dokumentation och uppföljning av<br>säkerhetsåtgärder.<br>Fastställande av tekniska<br>säkerhetsåtgärder genomförs bland | I internkontrollen ingår åtgärder<br>för följsamheten av modellen för<br>digitala tjänster och system som<br>kommer att genomföras under<br>2024. Bland annat genom<br>information till systemförvaltare<br>om informationsklassning av<br>system samt hantering av<br>handlingsplan och säkerställande<br>att behörighetsrutiner och | I de åtgärder gällande följsamheten av<br>modellen för digitala tjänster och system i<br>internkontrollen ingår att säkerställa att<br>behörighetsrutiner och periodisk<br>granskning av behörigheter genomförs. IT-<br>samordnare på Teknik ansvarar för<br>aktiviteten (påbörjad 2024-10-07).<br>Under 2025 kommer förvaltningen få<br>behörighet till det verktyg som kommunen |
+|  |  | annat genom informationsklassning.<br>Modellen för digitala tjänster och<br>system reglerar ansvaret för<br>genomförande och uppföljning av<br>informationsklassning.<br>Viss genomgång och uppföljning av<br>tekniska säkerhetsåtgärder ingår i<br>förvaltningsplan som upprättas av<br>systemförvaltare årligen. Där<br>fastställs även nya utmaningar och<br>risker. | periodisk granskning av<br>behörigheter. Uppföljning av<br>åtgärder gällande följsamheten<br>av modellen för digitala tjänster<br>och system i internkontrollen av<br>de delar som berör följsamheten<br>av GDPR genomförs av<br>dataskyddskontakt.<br>Förvaltningens ambition är att<br>vid versionsuppdatering få en<br>undergrupp i det verktyg som<br>kommunen använder för<br>informationsklassning så att<br>förvaltningens<br>säkerhetssamordnare och IT-<br>samordnare kan genomföra<br>klassningar och därmed öka<br>takten och tillgängligheten på att<br>genomföra och följa upp<br>klassningar. | använder för informationsklassning så att<br>förvaltningens säkerhetssamordnare och<br>IT-samordnare kan genomföra klassningar<br>och därmed öka takten och tillgängligheten<br>på att genomföra och följa upp klassningar. |
+| 5.2 All vår behandling omfattas av<br>erforderliga<br>organisatoriskasäkerhetsåtgärder<br>dess risker och art [2].<br>Artikel 32 | Oklart | Motivering samma som 5.1. | Åtgärdsplan och uppföljning<br>enligt punkt 5.1. | Se 5.1 |
+| 6.3 Vi anmäler anmälningspliktiga<br>personuppgiftsincidenter till IMY<br>inom 72 timmar.<br>Artikel 33.1 | Oklart | Förvaltningens mall för underlag för<br>utredning av incidenter innehåller<br>utvärdering av om incidenten är<br>anmälningspliktig till IMY. | Ingen incident har hittills varit av<br>det slag att det har anmälts till<br>IMY, ingen uppföljning har<br>kunnat genomföras. | Ifall en incident är anmälningspliktig avgörs<br>vid utredning, vilken ska dokumenteras och<br>diarieföras.<br>Personuppgiftsincidenter följs upp i<br>årsrapport av dataskyddsarbetet. |
+| 6.6 Vi sammanställer och analyserar<br>personuppgifts-incidenter i vår<br>verksamhet och sprider kunskapen<br>för att förebygga att incidenter sker<br>igen.<br>Artikel 24 och 25 | Oklart | Sammanställning och analys<br>genomförs i årsrapport av<br>dataskyddsarbetet. | Årsrapport genomförs för första<br>gången 2023 och följs upp<br>nästkommande år. | Sammanställning och analys genomförs i<br>årsrapport av dataskyddsarbetet. |
+| 7.3 Vi ger information om<br>åtminstone personuppgiftsansvarig,<br>ändamål och laglig grund,<br>lagringstid, överföring till tredje land<br>(om aktuellt) samt var man kan läsa<br>mer om behandlingen, rättigheterna<br>och DSO m.m. i direkt samband med<br>att personuppgifter samlas in.<br>Artikel 13 | Delvis | E-tjänsteplattformen tillhandahåller<br>funktion för att lämna all<br>obligatorisk information. Alla<br>Tekniks e-tjänster är försedda med<br>information.<br>Vid insamling av personuppgifter<br>genom tex blanketter och<br>fotografering finns inte mallar som<br>ger all obligatorisk information. | Inväntar uppdatering av<br>kommungemensam mall för<br>blanketter. Nya rutiner för<br>information vid insamling av<br>personuppgifter vid<br>fotografering kommer under<br>2024.<br>Uppföljning av användning av ny<br>mall för blanketter och nya<br>rutiner gällande insamling av<br>personuppgifter vid<br>fotografering på förvaltningen<br>genomförs av<br>dataskyddskontakt. | Ansvar för ny standardtext i mall för<br>blanketter ligger på KLK som har<br>samordnande uppdrag. När ny standardtext<br>är framtagen kommunicerar<br>dataskyddskontakt till ansvariga för olika<br>blanketter på förvaltningen för<br>uppdatering.<br>Nya rutiner gällande insamling av<br>personuppgifter vid fotografering på<br>förvaltningen har spridits till berörda av<br>dataskyddskontakt, enheten Kund &<br>Kommunikation fick muntlig genomgång<br>den 9 september och alla chefer har fått<br>skriftlig information genom chefsbrevet i<br>september. |
+| 9.2 PUB-avtalen med<br>personuppgiftsbiträdena är giltiga.<br>Artikel 24 och 28 | Oklart | Ansvar för avtalsuppföljning ligger<br>enligt kommunens modell för<br>digitala tjänster och system på<br>systemförvaltare och ska<br>dokumenteras i förvaltningsplan<br>årligen.<br>Ingen övergripande uppföljning av<br>avtalsuppföljningen för PUB-avtal<br>har genomförts. | I internkontrollen ingår åtgärder<br>för följsamheten av modellen för<br>digitala tjänster och system som<br>kommer att genomföras under<br>2024. Bland annat att<br>budgetansvarig och<br>systemförvaltare ska göra en<br>årlig avtalsuppföljning.<br>Uppföljning av åtgärder gällande<br>följsamheten av modellen för<br>digitala tjänster och system i<br>internkontrollen av de delar som<br>berör följsamheten av GDPR<br>genomförs av<br>dataskyddskontakt.<br>Dataskyddskontakt kommer<br>under 2024 vara delaktig i<br>arbetet inför att<br>förvaltningsplanerna ska<br>upprättas och medverkar vid<br>eventuellt förmöte för att<br>informera om och stötta vid<br>uppföljning av PUB-avtal. | I de åtgärder gällande följsamheten av<br>modellen för digitala tjänster och system i<br>internkontrollen ingår att systemförvaltare<br>kontrollerar att avtal för respektive system<br>är diariefört samt att budgetansvarig och<br>systemförvaltare gör en årlig<br>avtalsuppföljning. Dessa två punkter<br>inbegriper även PUB-avtal.<br>IT-samordnare på Teknik ansvarar för<br>aktiviteten, Dataskyddskontakt finns<br>tillgänglig för stöd vid eventuella<br>uppdateringar av PUB-avtal (påbörjad<br>2024-10-07). |
+| 9.3 PUB-avtalen uppfyller kraven<br>som finns på avtalets innehåll.<br>Artikel 28.3 a-h | Oklart | Majoriteten av tecknade PUB-avtal<br>är upprättade utifrån SKR:s mall,<br>som säkerställer krav på avtalets<br>innehåll. Ingen övergripande<br>uppföljning av avtalsuppföljningen<br>för PUB-avtal har genomförts. | Åtgärdsplan och uppföljning<br>enligt punkt 9.2. | Se 9.2 |
+|  |  | Ansvar för avtalsuppföljning ligger<br>enligt kommunens modell för<br>digitala tjänster och system på<br>systemförvaltare och ska<br>dokumenteras i förvaltningsplan<br>årligen. |  |  |
+| 9.6 Förvaltningen har identifierat<br>sina gemensamma<br>personuppgiftsansvar och upprättat<br>överenskommelser som motsvarar<br>kraven på dessa.<br>Artikel 26 | Delvis | Gemensamma personuppgiftsansvar<br>finns till viss del identifierade och<br>dokumenterade i<br>behandlingsregistret. | Inväntar kommunövergripande<br>styrning för hur att hantera<br>gemensamma<br>personuppgiftsansvar.<br>Dataskyddskontakt genomför<br>uppföljning av implementering<br>av kommunövergripande<br>styrning. | Kommunfullmäktige antog den 5 mars 2024<br>nya riktlinjer för personuppgiftsbehandling<br>inom Kungsbacka kommun. De nya<br>riktlinjerna fastställer principer för när ett<br>gemensamt personuppgiftsansvar<br>förekommer mellan nämnder eller när en<br>nämnd är personuppgiftsbiträder för en<br>annan nämnd.<br>Kommunfullmäktige gav samtliga<br>personuppgiftsansvariga<br>nämnder i uppdrag att delegera<br>beslutanderätten om att ingå<br>personuppgiftsbiträdesavtal för<br>kommungemensamma digitala tjänster och<br>system till biträdande kommundirektör. I<br>september (2024-09-25 § 94) tog nämnden<br>för Teknik beslut om delegering vid<br>gemensamma personuppgiftsavsvar inom<br>kommunen.<br>Gemensamma personuppgiftsansvar eller<br>om en annan nämnd är<br>personuppgiftsansvarig kommer att<br>identifieras och dokumenteras i Tekniks<br>registerförteckning vid nästa uppdatering. |
 
 <!-- sida 8 -->
 
 K olla dataskyddet          Sida 3 av 6
 
-[Tabell 8-1](handlingar.tabeller/8-1.csv)
-
-|  |  | annat genom informationsklassning.<br>Modellen för digitala tjänster och<br>system reglerar ansvaret för<br>genomförande och uppföljning av<br>informationsklassning.<br>Viss genomgång och uppföljning av<br>tekniska säkerhetsåtgärder ingår i<br>förvaltningsplan som upprättas av<br>systemförvaltare årligen. Där<br>fastställs även nya utmaningar och<br>risker. | periodisk granskning av<br>behörigheter. Uppföljning av<br>åtgärder gällande följsamheten<br>av modellen för digitala tjänster<br>och system i internkontrollen av<br>de delar som berör följsamheten<br>av GDPR genomförs av<br>dataskyddskontakt.<br>Förvaltningens ambition är att<br>vid versionsuppdatering få en<br>undergrupp i det verktyg som<br>kommunen använder för<br>informationsklassning så att<br>förvaltningens<br>säkerhetssamordnare och IT-<br>samordnare kan genomföra<br>klassningar och därmed öka<br>takten och tillgängligheten på att<br>genomföra och följa upp<br>klassningar. | använder för informationsklassning så att<br>förvaltningens säkerhetssamordnare och<br>IT-samordnare kan genomföra klassningar<br>och därmed öka takten och tillgängligheten<br>på att genomföra och följa upp klassningar. |
-| --- | --- | --- | --- | --- |
-| 5.2 All vår behandling omfattas av<br>erforderliga<br>organisatoriskasäkerhetsåtgärder<br>dess risker och art [2].<br>Artikel 32 | Oklart | Motivering samma som 5.1. | Åtgärdsplan och uppföljning<br>enligt punkt 5.1. | Se 5.1 |
-
 <!-- sida 9 -->
 
 K olla dataskyddet          Sida 4 av 6
-
-[Tabell 9-1](handlingar.tabeller/9-1.csv)
-
-| 6.3 Vi anmäler anmälningspliktiga<br>personuppgiftsincidenter till IMY<br>inom 72 timmar.<br>Artikel 33.1 | Oklart | Förvaltningens mall för underlag för<br>utredning av incidenter innehåller<br>utvärdering av om incidenten är<br>anmälningspliktig till IMY. | Ingen incident har hittills varit av<br>det slag att det har anmälts till<br>IMY, ingen uppföljning har<br>kunnat genomföras. | Ifall en incident är anmälningspliktig avgörs<br>vid utredning, vilken ska dokumenteras och<br>diarieföras.<br>Personuppgiftsincidenter följs upp i<br>årsrapport av dataskyddsarbetet. |
-| --- | --- | --- | --- | --- |
-| 6.6 Vi sammanställer och analyserar<br>personuppgifts-incidenter i vår<br>verksamhet och sprider kunskapen<br>för att förebygga att incidenter sker<br>igen.<br>Artikel 24 och 25 | Oklart | Sammanställning och analys<br>genomförs i årsrapport av<br>dataskyddsarbetet. | Årsrapport genomförs för första<br>gången 2023 och följs upp<br>nästkommande år. | Sammanställning och analys genomförs i<br>årsrapport av dataskyddsarbetet. |
-| 7.3 Vi ger information om<br>åtminstone personuppgiftsansvarig,<br>ändamål och laglig grund,<br>lagringstid, överföring till tredje land<br>(om aktuellt) samt var man kan läsa<br>mer om behandlingen, rättigheterna<br>och DSO m.m. i direkt samband med<br>att personuppgifter samlas in.<br>Artikel 13 | Delvis | E-tjänsteplattformen tillhandahåller<br>funktion för att lämna all<br>obligatorisk information. Alla<br>Tekniks e-tjänster är försedda med<br>information.<br>Vid insamling av personuppgifter<br>genom tex blanketter och<br>fotografering finns inte mallar som<br>ger all obligatorisk information. | Inväntar uppdatering av<br>kommungemensam mall för<br>blanketter. Nya rutiner för<br>information vid insamling av<br>personuppgifter vid<br>fotografering kommer under<br>2024.<br>Uppföljning av användning av ny<br>mall för blanketter och nya<br>rutiner gällande insamling av<br>personuppgifter vid<br>fotografering på förvaltningen<br>genomförs av<br>dataskyddskontakt. | Ansvar för ny standardtext i mall för<br>blanketter ligger på KLK som har<br>samordnande uppdrag. När ny standardtext<br>är framtagen kommunicerar<br>dataskyddskontakt till ansvariga för olika<br>blanketter på förvaltningen för<br>uppdatering.<br>Nya rutiner gällande insamling av<br>personuppgifter vid fotografering på<br>förvaltningen har spridits till berörda av<br>dataskyddskontakt, enheten Kund &<br>Kommunikation fick muntlig genomgång<br>den 9 september och alla chefer har fått<br>skriftlig information genom chefsbrevet i<br>september. |
 
 <!-- sida 10 -->
 
 K olla dataskyddet          Sida 5 av 6
 
-[Tabell 10-1](handlingar.tabeller/10-1.csv)
-
-| 9.2 PUB-avtalen med<br>personuppgiftsbiträdena är giltiga.<br>Artikel 24 och 28 | Oklart | Ansvar för avtalsuppföljning ligger<br>enligt kommunens modell för<br>digitala tjänster och system på<br>systemförvaltare och ska<br>dokumenteras i förvaltningsplan<br>årligen.<br>Ingen övergripande uppföljning av<br>avtalsuppföljningen för PUB-avtal<br>har genomförts. | I internkontrollen ingår åtgärder<br>för följsamheten av modellen för<br>digitala tjänster och system som<br>kommer att genomföras under<br>2024. Bland annat att<br>budgetansvarig och<br>systemförvaltare ska göra en<br>årlig avtalsuppföljning.<br>Uppföljning av åtgärder gällande<br>följsamheten av modellen för<br>digitala tjänster och system i<br>internkontrollen av de delar som<br>berör följsamheten av GDPR<br>genomförs av<br>dataskyddskontakt.<br>Dataskyddskontakt kommer<br>under 2024 vara delaktig i<br>arbetet inför att<br>förvaltningsplanerna ska<br>upprättas och medverkar vid<br>eventuellt förmöte för att<br>informera om och stötta vid<br>uppföljning av PUB-avtal. | I de åtgärder gällande följsamheten av<br>modellen för digitala tjänster och system i<br>internkontrollen ingår att systemförvaltare<br>kontrollerar att avtal för respektive system<br>är diariefört samt att budgetansvarig och<br>systemförvaltare gör en årlig<br>avtalsuppföljning. Dessa två punkter<br>inbegriper även PUB-avtal.<br>IT-samordnare på Teknik ansvarar för<br>aktiviteten, Dataskyddskontakt finns<br>tillgänglig för stöd vid eventuella<br>uppdateringar av PUB-avtal (påbörjad<br>2024-10-07). |
-| --- | --- | --- | --- | --- |
-| 9.3 PUB-avtalen uppfyller kraven<br>som finns på avtalets innehåll.<br>Artikel 28.3 a-h | Oklart | Majoriteten av tecknade PUB-avtal<br>är upprättade utifrån SKR:s mall,<br>som säkerställer krav på avtalets<br>innehåll. Ingen övergripande<br>uppföljning av avtalsuppföljningen<br>för PUB-avtal har genomförts. | Åtgärdsplan och uppföljning<br>enligt punkt 9.2. | Se 9.2 |
-
 <!-- sida 11 -->
 
 K olla dataskyddet          Sida 6 av 6
-
-[Tabell 11-1](handlingar.tabeller/11-1.csv)
-
-|  |  | Ansvar för avtalsuppföljning ligger<br>enligt kommunens modell för<br>digitala tjänster och system på<br>systemförvaltare och ska<br>dokumenteras i förvaltningsplan<br>årligen. |  |  |
-| --- | --- | --- | --- | --- |
-| 9.6 Förvaltningen har identifierat<br>sina gemensamma<br>personuppgiftsansvar och upprättat<br>överenskommelser som motsvarar<br>kraven på dessa.<br>Artikel 26 | Delvis | Gemensamma personuppgiftsansvar<br>finns till viss del identifierade och<br>dokumenterade i<br>behandlingsregistret. | Inväntar kommunövergripande<br>styrning för hur att hantera<br>gemensamma<br>personuppgiftsansvar.<br>Dataskyddskontakt genomför<br>uppföljning av implementering<br>av kommunövergripande<br>styrning. | Kommunfullmäktige antog den 5 mars 2024<br>nya riktlinjer för personuppgiftsbehandling<br>inom Kungsbacka kommun. De nya<br>riktlinjerna fastställer principer för när ett<br>gemensamt personuppgiftsansvar<br>förekommer mellan nämnder eller när en<br>nämnd är personuppgiftsbiträder för en<br>annan nämnd.<br>Kommunfullmäktige gav samtliga<br>personuppgiftsansvariga<br>nämnder i uppdrag att delegera<br>beslutanderätten om att ingå<br>personuppgiftsbiträdesavtal för<br>kommungemensamma digitala tjänster och<br>system till biträdande kommundirektör. I<br>september (2024-09-25 § 94) tog nämnden<br>för Teknik beslut om delegering vid<br>gemensamma personuppgiftsavsvar inom<br>kommunen.<br>Gemensamma personuppgiftsansvar eller<br>om en annan nämnd är<br>personuppgiftsansvarig kommer att<br>identifieras och dokumenteras i Tekniks<br>registerförteckning vid nästa uppdatering. |
 
 <!-- sida 12 -->
 
@@ -876,31 +860,24 @@ TRoamtalt 510 VA Teknik 27 293,0 1 323,0 14 750,0 5191 080000,00 252 050000,00 5
 
 <!-- sida 26 -->
 
-```osaker-tabell
-Underportfölj     2025    2026   2027   2028   2029   2030   2031   2032    2033   2034   2035  2034/2035
-510 VA-teknik     3 150    0     10 000   0      0      0    3 000  3 000  3 000  3 000  3 000      3000
-511 Vattenproduktion 23 000 54 750 2 000 2 000   0    23 850 150 000 150 000 150 000 0     0         0
-```
+[Tabell 26-1](handlingar.tabeller/26-1.csv)
 
-512 Ledningsnät  191 935 128 785 247 900 221 405 257 266 298 000 166 580 194 950 167 580 232 940 232 940 232940
-513 Avloppsrening 29 100 31 300  23 800 18 300 19 314 18 300 24 500 24 500 24 500 24 500 24 500    24500
-
-```osaker-tabell
-513 FAR          197 830 481 650 521 850 283 060 113 390 8 000 0      0      0      0      0         0
-514 VA-omvandling 98 765 110 245 2 800  42 000 10 000 15 000   0      0      0    50 000 50 000    50000
-515 Exploatering  4 050  24 920  63 500 66 295 63 420 -5 150 5 920  -22 450 4 920 39 560 39 560    39560
-```
-
-Summa            547 830 831 650 871 850 633 060 463 390 358 000 350 000 350 000 350 000 350 000 350 000 350 000
-Summa exkl FAR    350 000 350 000 350 000 350 000 350 000 350 000 350 000 350 000 350 000 350 000 350 000
-Ram exkl FAR     350000  350000 350000 350000 350000 350000 350000  350000 350000 350000 350000
-
-```osaker-tabell
-Diff Ram VA Inv excl FAR 0 0       0      0      0      0      0      0      0      0      0         0
-Ram FAR          197830  481650 521850 283060 113390  8000     0      0      0      0      0
-Diff Ram FAR proj 5066 0   0       0      0      0      0      0      0      0      0      0
-Total diff VA Inv inkl FAR 0 0     0      0      0      0      0      0      0      0      0
-```
+| Underportfölj | 2025 | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 | 2034/2035 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 510 VA-teknik | 3 150 | 0 | 10 000 | 0 | 0 | 0 | 3 000 | 3 000 | 3 000 | 3 000 | 3 000 | 3000 |
+| 511 Vattenproduktion | 23 000 | 54 750 | 2 000 | 2 000 | 0 | 23 850 | 150 000 | 150 000 | 150 000 | 0 | 0 | 0 |
+| 512 Ledningsnät | 191 935 | 128 785 | 247 900 | 221 405 | 257 266 | 298 000 | 166 580 | 194 950 | 167 580 | 232 940 | 232 940 | 232940 |
+| 513 Avloppsrening | 29 100 | 31 300 | 23 800 | 18 300 | 19 314 | 18 300 | 24 500 | 24 500 | 24 500 | 24 500 | 24 500 | 24500 |
+| 513 FAR | 197 830 | 481 650 | 521 850 | 283 060 | 113 390 | 8 000 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 514 VA-omvandling | 98 765 | 110 245 | 2 800 | 42 000 | 10 000 | 15 000 | 0 | 0 | 0 | 50 000 | 50 000 | 50000 |
+| 515 Exploatering | 4 050 | 24 920 | 63 500 | 66 295 | 63 420 | -5 150 | 5 920 | -22 450 | 4 920 | 39 560 | 39 560 | 39560 |
+| Summa | 547 830 | 831 650 | 871 850 | 633 060 | 463 390 | 358 000 | 350 000 | 350 000 | 350 000 | 350 000 | 350 000 | 350 000 |
+| Summa exkl FAR | 350 000 | 350 000 | 350 000 | 350 000 | 350 000 | 350 000 | 350 000 | 350 000 | 350 000 | 350 000 | 350 000 |  |
+| Ram exkl FAR | 350000 | 350000 | 350000 | 350000 | 350000 | 350000 | 350000 | 350000 | 350000 | 350000 | 350000 |  |
+| Diff Ram VA Inv excl FAR | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Ram FAR | 197830 | 481650 | 521850 | 283060 | 113390 | 8000 | 0 | 0 | 0 | 0 | 0 |  |
+| Diff Ram FAR proj 5066 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  |
+| Total diff VA Inv inkl FAR | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  |
 
 <!-- sida 27 -->
 
@@ -2657,6 +2634,35 @@ RESURSBEHOV    INTERNT  FÖRVALTNINGEN     FÖR TEKNIK
 
 SAMMANSTÄLLNING      AV KOSTNADER    OCH  INTÄKTER
 
+STRATEGI 2
+STRATEGI 1
+
+Teknik etablerar laddinfrastruktur. Privata aktör etablerar ny laddinfrastruktur.
+Privat aktör drift & underhåller Äger, drift & underhåller ny/befintlig
+laddinfrastrukturen             laddinfrastruktur
+Etablering:                    Etablering:
+Ca 100 000 – 300 000 kr per laddningsstation 0 kr
+Laddutrustning:                Laddutrustning:
+Ca 50 000 kr per laddningsstation (två 0 kr
+laddningspunkter)              Kostnader för drift och underhåll:
+Abonnemangskostnader           0 kr
+Ca 3 000 kr per laddningsstation/månad Intäkter för såld el:
+Intäkter för såld el, nya och befintliga 0 kr
+laddningsstationer:            Intäkt - aktör köper ut kommunens befintliga
+Intäkter för såld el från samtliga laddinfrastruktur:
+laddningsstationer, olika varje månad, beror på Ca 5 000 – 10 000 kr per site/anläggning – Sker
+
+hur mycket de använts          genom upphandling, den aktör som betalar
+Servicekostnader för befintliga mest för den befintliga laddinfrastrukturen
+laddningsstationer:            vinner upphandlingen
+Ca 200 000 – 300 000 kr per år för alla 52 Intäkt för arrende:
+laddningsstationer             Aktören betalar ett arrende för marken där
+Samt:                          laddinfrastrukturen skall placeras
+Ca 25 000 kr per laddningsstation Resurs 50%:
+Info: När en laddningsstation blir 7 – 8 år Ca 400 000 kr/år utifrån löneberäkning från år
+gammal behöver laddningsutrustning 2024
+uppdateras och förnyas, helt eller delvis. Tekniks
+
 [Tabell 73-1](handlingar.tabeller/73-1.csv)
 
 | STRATEGI 1 | STRATEGI 2 |
@@ -2666,13 +2672,6 @@ SAMMANSTÄLLNING      AV KOSTNADER    OCH  INTÄKTER
 | STRATEGI 3 | STRATEGI 4 |
 | Ingen nyetablering av laddinfrastruktur.<br>Privat aktör drift & underhåller<br>laddinfrastrukturen | Privata aktörer etablerar ny laddinfrastruktur<br>Drift & underhåller ny/befintlig<br>laddinfrastruktur |
 | - Arbetsuppgifter motsvarande 30 % av en<br>heltidstjänst. | - Arbetsuppgifter motsvarande 60 % av en<br>heltidstjänst. |
-
-[Tabell 73-2](handlingar.tabeller/73-2.csv)
-
-| STRATEGI 1 | STRATEGI 2 |
-| --- | --- |
-| Teknik etablerar laddinfrastruktur.<br>Privat aktör drift & underhåller<br>laddinfrastrukturen | Privata aktör etablerar ny laddinfrastruktur.<br>Äger, drift & underhåller ny/befintlig<br>laddinfrastruktur |
-| Etablering:<br>Ca 100 000 – 300 000 kr per laddningsstation<br>Laddutrustning:<br>Ca 50 000 kr per laddningsstation (två<br>laddningspunkter)<br>Abonnemangskostnader<br>Ca 3 000 kr per laddningsstation/månad<br>Intäkter för såld el, nya och befintliga<br>laddningsstationer:<br>Intäkter för såld el från samtliga<br>laddningsstationer, olika varje månad, beror på<br>hur mycket de använts<br>Servicekostnader för befintliga<br>laddningsstationer:<br>Ca 200 000 – 300 000 kr per år för alla 52<br>laddningsstationer<br>Samt:<br>Ca 25 000 kr per laddningsstation<br>Info: När en laddningsstation blir 7 – 8 år<br>gammal behöver laddningsutrustning<br>uppdateras och förnyas, helt eller delvis. Tekniks | Etablering:<br>0 kr<br>Laddutrustning:<br>0 kr<br>Kostnader för drift och underhåll:<br>0 kr<br>Intäkter för såld el:<br>0 kr<br>Intäkt - aktör köper ut kommunens befintliga<br>laddinfrastruktur:<br>Ca 5 000 – 10 000 kr per site/anläggning – Sker<br>genom upphandling, den aktör som betalar<br>mest för den befintliga laddinfrastrukturen<br>vinner upphandlingen<br>Intäkt för arrende:<br>Aktören betalar ett arrende för marken där<br>laddinfrastrukturen skall placeras<br>Resurs 50%:<br>Ca 400 000 kr/år utifrån löneberäkning från år<br>2024 |
 
 <!-- sida 74 -->
 
@@ -2689,12 +2688,44 @@ Ca 800 000 kr/år utifrån löneberäkning från år
 
 SAMMANSTÄLLNING      AV KOSTNADER    OCH  INTÄKTER
 
-[Tabell 74-1](handlingar.tabeller/74-1.csv)
+STRATEGI 3                     STRATEGI 4
 
-| STRATEGI 3 | STRATEGI 4 |
-| --- | --- |
-| Ingen nyetablering av laddinfrastruktur.<br>Privat aktör drift & underhåller<br>laddinfrastrukturen | Privata aktörer etablerar ny laddinfrastruktur<br>Drift & underhåller ny/befintlig<br>laddinfrastruktur |
-| Abonnemangskostnader<br>Ca 3 000 kr per laddningsstation/månad<br>Intäkter för såld el av befintliga<br>laddningsstationer:<br>Intäkter för såld el, olika varje månad, beror på<br>hur mycket de använts<br>Servicekostnader för befintliga<br>laddningsstationer:<br>Ca 200 000 – 300 000 kr per år för alla 52<br>laddningsstationer<br>Samt:<br>Ca 25 000 kr per laddningsstation<br>Info: När en laddningsstation blir 7 – 8 år<br>gammal behöver laddningsutrustning<br>uppdateras och förnyas, helt eller delvis. Tekniks<br>laddningsstationer är i dagsläget 8 år gamla och<br>behöver förnyas inom en snar framtid.<br>Beräkning: 25 0000 (kr) x 52<br>(laddningsstationer) = 1 300 000 kr<br>Denna service återkommer ca var 8e år.<br>Resurs 30 %:<br>Ca 250 000 kr/år utifrån löneberäkning från år<br>2024 | Etablering:<br>0 kr<br>Laddutrustning:<br>0 kr<br>Abonnemangskostnader för befintliga<br>laddningsstationer:<br>Ca 3 000 kr per laddningsstation/månad<br>Intäkter för såld el av befintliga<br>laddningsstationer:<br>Intäkter för såld el, olika varje månad, beror på<br>hur mycket de använts<br>Servicekostnader för befintliga<br>laddningsstationer:<br>Ca 200 000 – 300 000 kr per år för alla 52<br>laddningsstationer<br>Samt: Ca 25 000 kr per laddningsstation<br>Info: När en laddningsstation blir 7 – 8 år<br>gammal behöver laddningsutrustning<br>uppdateras och förnyas, helt eller delvis. Tekniks<br>laddningsstationer är i dagsläget 8 år gamla och<br>behöver förnyas inom en snar framtid.<br>Beräkning: 25 0000 (kr) x 52<br>(laddningsstationer) = 1 300 000 kr.<br>Denna service återkommer ca var 8e år.<br>Intäkt för arrende av mark för nyetablering av<br>laddinfrastruktur:<br>Aktören betalar ett arrende för marken där<br>laddinfrastrukturen skall placeras<br>Resurs 60 %:<br>Ca 500 000 kr/år utifrån löneberäkning från år<br>2024 |
+Ingen nyetablering av laddinfrastruktur. Privata aktörer etablerar ny laddinfrastruktur
+Privat aktör drift & underhåller Drift & underhåller ny/befintlig
+laddinfrastrukturen             laddinfrastruktur
+
+Abonnemangskostnader           Etablering:
+Ca 3 000 kr per laddningsstation/månad 0 kr
+Intäkter för såld el av befintliga Laddutrustning:
+laddningsstationer:            0 kr
+Intäkter för såld el, olika varje månad, beror på Abonnemangskostnader för befintliga
+hur mycket de använts          laddningsstationer:
+Servicekostnader för befintliga Ca 3 000 kr per laddningsstation/månad
+laddningsstationer:            Intäkter för såld el av befintliga
+Ca 200 000 – 300 000 kr per år för alla 52 laddningsstationer:
+laddningsstationer             Intäkter för såld el, olika varje månad, beror på
+Samt:                          hur mycket de använts
+Ca 25 000 kr per laddningsstation Servicekostnader för befintliga
+Info: När en laddningsstation blir 7 – 8 år laddningsstationer:
+gammal behöver laddningsutrustning Ca 200 000 – 300 000 kr per år för alla 52
+uppdateras och förnyas, helt eller delvis. Tekniks laddningsstationer
+laddningsstationer är i dagsläget 8 år gamla och Samt: Ca 25 000 kr per laddningsstation
+behöver förnyas inom en snar framtid. Info: När en laddningsstation blir 7 – 8 år
+Beräkning: 25 0000 (kr) x 52   gammal behöver laddningsutrustning
+(laddningsstationer) = 1 300 000 kr uppdateras och förnyas, helt eller delvis. Tekniks
+Denna service återkommer ca var 8e år. laddningsstationer är i dagsläget 8 år gamla och
+Resurs 30 %:                   behöver förnyas inom en snar framtid.
+Ca 250 000 kr/år utifrån löneberäkning från år Beräkning: 25 0000 (kr) x 52
+2024                           (laddningsstationer) = 1 300 000 kr.
+Denna service återkommer ca var 8e år.
+Intäkt för arrende av mark för nyetablering av
+laddinfrastruktur:
+Aktören betalar ett arrende för marken där
+
+laddinfrastrukturen skall placeras
+Resurs 60 %:
+Ca 500 000 kr/år utifrån löneberäkning från år
+2024
 
 <!-- sida 75 -->
 
@@ -2860,7 +2891,7 @@ Förkortningar: PP = Pendelparkering, KM = Kvartersmark, AP = Allmän plats
 | Hammerö | KUNGSBACKA 5:4, AP |
 | Fors | FORS 1:337, KM |
 
-[Tabell 79-2](handlingar.tabeller/79-2.csv)
+[Tabell 79-80-2](handlingar.tabeller/79-80-2.csv)
 
 | Ellevio |  |
 | --- | --- |
@@ -2879,15 +2910,7 @@ Förkortningar: PP = Pendelparkering, KM = Kvartersmark, AP = Allmän plats
 | Särö centrumväg, Särö centrum | NÖTEGÅNG 1:91, KM |
 | Snipens PP | SPÅRHAGA 1:5, AP |
 | Bolshedens PP | BOLSHEDEN 1:2, AP |
-
-<!-- sida 80 -->
-
-24
-
-[Tabell 80-1](handlingar.tabeller/80-1.csv)
-
 |  |  |
-| --- | --- |
 | Vallda | Anläggnings ID |
 | Smarholmsvägen | BUERA 1:11, KM |
 | Motionsvägen | VALLDA 45:2, KM |
@@ -2908,6 +2931,10 @@ Förkortningar: PP = Pendelparkering, KM = Kvartersmark, AP = Allmän plats
 | Frillesås | Anläggnings ID |
 | Frillesås PP, Frillesåsv | FRILLESÅS-RYA 2:1, AP |
 | Frillesås PP, Almedalsv | ALMEDAL 1,5, AP |
+
+<!-- sida 80 -->
+
+24
 
 <!-- sida 81 -->
 
@@ -4679,24 +4706,31 @@ Anläggningsavgift ska betalas för Bostadsfastighet.
 
 Avgift utgår per fastighet med:
 
+a) Servisavgift
+En ledning             74 984 kr 80%
+Två ledningar          84 357 kr 90%
+
+Tre ledningar          93 730 kr 100%
+V       S      Df      Dg  Totalavgift
+25 727 kr 42 879 kr 17 152 kr
+b) Förbindelsepunktsavgift                       -   85 758 kr
+30%     50%    20%
+30,90 kr 51,50 kr 5,15 kr
+15,45
+c) Tomtyteavgift per m2                          kr  103,00 kr
+30%     50%    5%
+15%
+20 085 kr 30 127 kr
+d) Bostadsenhetsavgift                   -       -   50 212 kr
+40%
+60%
+Avgift för Dagvatten utan att
+e)\*                       -       -      26 525 kr - 26 525 kr
+förbindelsepunkt är upprättad
 \*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
 ut, reduceras avgift enligt 5.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2025        5 (15)
-
-[Tabell 126-1](handlingar.tabeller/126-1.csv)
-
-| a) | Servisavgift |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | En ledning | 74 984 kr 80% |  |  |  |  |
-|  | Två ledningar | 84 357 kr 90% |  |  |  |  |
-|  | Tre ledningar | 93 730 kr 100% |  |  |  |  |
-|  |  | V | S | Df | Dg | Totalavgift |
-| b) | Förbindelsepunktsavgift | 25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
-| c) | Tomtyteavgift per m2 | 30,90 kr<br>30% | 51,50 kr<br>50% | 5,15 kr<br>5% | 15,45<br>kr<br>15% | 103,00 kr |
-| d) | Bostadsenhetsavgift | 20 085 kr<br>40% | 30 127 kr<br>60% | - | - | 50 212 kr |
-| e)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
 
 <!-- sida 127 -->
 
@@ -4771,15 +4805,31 @@ Anläggningsavgift ska betalas för Annan fastighet.
 
 Avgift utgår per fastighet med:
 
+a) Servisavgift
+
+En ledning            74 984 kr 80%
+
+Två ledningar         84 357 kr 90%
+
+Tre ledningar         93 730 kr 100%
+V      S      Df       Dg   Totalavgift
+
+25 727 kr 42 879 kr 17 152 kr
+b) Förbindelsepunktsavgift                      -    85 758 kr
+30%    50%    20%
+35,20 kr 58,66 kr 5,87 kr 17,60 kr
+c) Tomtyteavgift per m2                              117,32 kr
+30%    50%    5%       15%
+Avgift för Dagvatten utan att
+d)\*                      -      -      26 525 kr -
+förbindelsepunkt är upprättad
 \*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
 ut, reduceras avgift enligt 6.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 6.2
 Är förbindelsepunkt gemensam för två eller flera fastigheter, fördelas avgifter enligt
 6.1 a) lika mellan fastigheterna.
-
 6.3
-
 Om godtagbar säkerhet ställs, kan huvudmannen medge anstånd med betalning av
 Tomtyteavgift för viss andel av fastighetens areal som motsvarar markyta som
 tillsvidare inte utnyttjas för verksamheten på fastigheten.
@@ -4789,18 +4839,6 @@ fastighetsbildningsåtgärd frångår fastigheten, upphör anståndsmedgivandet 
 och resterande Tomtyteavgift förfaller till betalning.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2025        7 (15)
-
-[Tabell 128-1](handlingar.tabeller/128-1.csv)
-
-| a) | Servisavgift |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | En ledning | 74 984 kr 80% |  |  |  |  |
-|  | Två ledningar | 84 357 kr 90% |  |  |  |  |
-|  | Tre ledningar | 93 730 kr 100% |  |  |  |  |
-|  |  | V | S | Df | Dg | Totalavgift |
-| b) | Förbindelsepunktsavgift | 25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
-| c) | Tomtyteavgift per m2 | 35,20 kr<br>30% | 58,66 kr<br>50% | 5,87 kr<br>5% | 17,60 kr<br>15% | 117,32 kr |
-| d)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
 
 <!-- sida 129 -->
 
@@ -4986,6 +5024,13 @@ V     S      Df    Dg    Totalavgift
 
 a) En Grundavgift per år      690 kr 1035 kr           1 725 kr
 40%   60%
+b) en avgift per m³ levererat vatten 13,10 kr 26,40 kr 39,50 kr
+33%   67%
+
+c) en Bostadsenhetsavgift per Bostadsenhet 690 kr 1035 kr 1 725 kr
+och år för Bostadsfastighet 40%  60%
+d) en Dagvattenavgift per m² hårdgjord     1,13 kr 0,31 kr 1,44 kr
+tomtyta och år                          79%   21%
 
 I fråga om bebyggd annan fastighet räknas även varje påbörjat 200-tal m2
 bruttoarea (BTA) enligt Svensk Standard SS 02 10 50 som en bostadsenhet. Vid
@@ -5006,13 +5051,6 @@ Brukningsavgift för tillfälligt vatten ska betalas enligt 14.1 b). Om mätning
 antas den förbrukade vattenmängden uppgå till 50 m³ per Bostadsenhet.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2025        11 (15)
-
-[Tabell 132-1](handlingar.tabeller/132-1.csv)
-
-| b) | en avgift per m³ levererat vatten | 13,10 kr<br>33% | 26,40 kr<br>67% |  |  | 39,50 kr |
-| --- | --- | --- | --- | --- | --- | --- |
-| c) | en Bostadsenhetsavgift per Bostadsenhet<br>och år för Bostadsfastighet | 690 kr<br>40% | 1035 kr<br>60% |  |  | 1 725 kr |
-| d) | en Dagvattenavgift per m² hårdgjord<br>tomtyta och år |  |  | 1,13 kr<br>79% | 0,31 kr<br>21% | 1,44 kr |
 
 <!-- sida 133 -->
 
@@ -23239,16 +23277,6 @@ notk
 2
 2.F, 2.G F-gasförordning EU 517/2014 2.F, 2.G F-gasförordning EU 2024/573
 
-[Tabell 499-1](handlingar.tabeller/499-1.csv)
-
-|  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-
 <!-- sida 500 -->
 
 NATURVÅRDSVERKET
@@ -27838,32 +27866,107 @@ KUNGSBACKA KOMMUN                                           2 (5)
 
 KUNGSBACKA KOMMUN                                           3 (5)
 
-[Tabell 599-1](handlingar.tabeller/599-1.csv)
+Punkt i
+delegeringsord       Ansvarig   Delegeringens
+ning       Lagrum    Delegat    omfattning     Taget beslut och datum för beslutet
+Vägtekniker
+4.11       2 § lagen om VC Trafik & Beslut om flyttning av 0 beslut om flyttning av fordon
+flyttning av Utemiljö fordon
+fordon i vissa EC drift Gata
+fall och 2 § EC Planering &
+förordningen Utformning
+om flyttning EC Anläggning
+av fordon i & Utveckling
+vissa fall Arbetsledare,
+Trafik-
 
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-|  |  | Vägtekniker |  |  |
-| 4.11 | 2 § lagen om<br>flyttning av<br>fordon i vissa<br>fall och 2 §<br>förordningen<br>om flyttning<br>av fordon i<br>vissa fall | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Planering &<br>Utformning<br>EC Anläggning<br>& Utveckling<br>Arbetsledare,<br>Trafik-<br>samordnare<br>Trafikövervaka<br>re | Beslut om flyttning av<br>fordon | 0 beslut om flyttning av fordon |
-| 4.13 | 5 § lag<br>(1976:206) om<br>felparkeringsa<br>vgift och 1 §<br>lag (1984:318)<br>om<br>kontrollavgift<br>vid olovlig<br>parkering | Trafikövervaka<br>re | Beslut om<br>felparkeringsavgift<br>samt kontrollavgift vid<br>olovlig parkering | Felparkeringsavgifter (gatumark):<br>- 475 st<br>Kontrollavgifter (tomtmark):<br>- 82 st |
-| 4.14 | Vägmärkesför<br>ord ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen<br>3 kap. 4 § Plan<br>och Bygglagen<br>6 Kap. 21 | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning<br>& Utveckling<br>Samordnare | Beslut om tillstånd att<br>schakta i gator och<br>vägar för vilka<br>kommunen är<br>huvudman och vid<br>behov kräva säkerhet<br>för beräknade<br>kostnader för<br>återställande av<br>kommunens<br>anläggningar | 5 st beslut om tillstånd att schakta i<br>gator och trafikanordningsplan. |
-| 4.15 | Vägmärkesför<br>ord ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen<br>3 kap. 4 § | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning<br>& Utveckling<br>Samordnare | Godkännande av<br>trafikanordningsplan | 11 st beslut om enbart<br>trafikanordningsplan |
+samordnare
+Trafikövervaka
+re
+4.13       5 § lag   Trafikövervaka Beslut om  Felparkeringsavgifter (gatumark):
+(1976:206) om re     felparkeringsavgift - 475 st
+felparkeringsa
+samt kontrollavgift vid
+vgift och 1 §
+olovlig parkering Kontrollavgifter (tomtmark):
+lag (1984:318)
+\- 82 st
+om
+kontrollavgift
+vid olovlig
+parkering
+4.14       Vägmärkesför VC Trafik & Beslut om tillstånd att 5 st beslut om tillstånd att schakta i
+ord ningen SFS Utemiljö schakta i gator och gator och trafikanordningsplan.
+2007:90 AFS EC drift Gata vägar för vilka
+1999:3 49 § 81 EC Anläggning kommunen är
+§ (a-e)   & Utveckling huvudman och vid
+Ordningslagen Samordnare behov kräva säkerhet
+3 kap. 4 § Plan      för beräknade
+och Bygglagen        kostnader för
+6 Kap. 21            återställande av
+kommunens
+anläggningar
+4.15       Vägmärkesför VC Trafik & Godkännande av 11 st beslut om enbart
+ord ningen SFS Utemiljö trafikanordningsplan trafikanordningsplan
+2007:90 AFS EC drift Gata
+1999:3 49 § 81 EC Anläggning
+§ (a-e)   & Utveckling
+Ordningslagen Samordnare
+3 kap. 4 §
 
 <!-- sida 600 -->
 
 KUNGSBACKA KOMMUN                                           4 (5)
 
-[Tabell 600-1](handlingar.tabeller/600-1.csv)
-
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-| 4.16 | 13 kap. och 8<br>§<br>trafikförordnin<br>gen<br>(1998:1276) | Färdtjänstutre<br>dare | Beslut om<br>parkeringstillstånd för<br>rörelsehindrade | Beslut om parkeringstillstånd för<br>rörelsehindrad<br>Beviljade: 17<br>Avslagna: 1 |
-| 4.17 | Ordningslagen<br>(1993:1617) 2<br>kap | VC Trafik &<br>Utemiljö<br>EC Anläggning<br>& Utveckling<br>Samordnare | Yttrande till polisen<br>avseende begagnade<br>av offentlig plats | Se separat bilaga för Yttranden från<br>Teknik. |
-| 4.18 | Ordningslagen<br>(1993:1617) 2<br>kap | VC Trafik &<br>Utemiljö EC<br>Planering &<br>Utformning EC<br>Anläggning &<br>Utveckling<br>Samordnare | Tecknande av avtal<br>som rör begagnade av<br>offentlig plats | 1 tecknande av avtal som rör<br>begagnade av offentlig plats på<br>Lindens torg |
-| 5.1 | 6–9 §§ lag<br>(1997:736) om<br>färdtjänst | Färdtjänstutre<br>dare<br>EC Kansli | Beslut om tillstånd till<br>färdtjänst med<br>regelkompletteringar | Beslut om färdtjänst<br>Beviljade: 55<br>Avslagna: 3 |
-| 5.3 | 4–7 §§ lag<br>(1997:735) om<br>riksfärdtjänst | Färdtjänstutre<br>dare<br>EC Kansli | Beslut om tillstånd till<br>riksfärdtjänst | Beslut om tillstånd till riksfärdtjänst<br>Beviljade: 8<br>Avslagna: 0 |
-| 8.3 | 37§ Lokala<br>avfallsföreskrif<br>ter för<br>Kungsbacka<br>kommun | Anette<br>Englund,<br>administratör<br>Kund &<br>Kommunikatio<br>n | Besluta om<br>godkännande av<br>kompostering av<br>matavfall | 241218 1 st |
-| 8.6 | 43, 43a §§<br>Lokala<br>avfallsföreskrif<br>ter för<br>Kungsbacka<br>kommun | Anette Englund,<br>administratör<br>Kund &<br>Kommunikatio<br>n | Besluta om tillfälligt<br>uppehåll i<br>sophämtning | 241205, 6 st<br>241206, 2 st<br>241211, 3 st<br>241212, 1 st,<br>241216, 1 st<br>241217, 3 st<br>241218, 1 st<br>241223 1 st |
-| 9.1.2 |  | FC | • Beslut att godkänna<br>tilldelning, gäller även<br>återta tilldelning<br>• Beslut att<br>underteckna avtal | 1 undertecknat avtal angående<br>Besöksflödesmätning, taget 2024-12-<br>13 – AVTAL-2024-00480 |
+Punkt i
+delegeringsord       Ansvarig   Delegeringens
+ning       Lagrum    Delegat    omfattning     Taget beslut och datum för beslutet
+4.16       13 kap. och 8 Färdtjänstutre Beslut om Beslut om parkeringstillstånd för
+§         dare       parkeringstillstånd för rörelsehindrad
+trafikförordnin
+rörelsehindrade Beviljade: 17
+gen
+Avslagna: 1
+(1998:1276)
+4.17       Ordningslagen VC Trafik & Yttrande till polisen Se separat bilaga för Yttranden från
+(1993:1617) 2 Utemiljö avseende begagnade Teknik.
+kap       EC Anläggning av offentlig plats
+& Utveckling
+Samordnare
+4.18       Ordningslagen VC Trafik & Tecknande av avtal 1 tecknande av avtal som rör
+(1993:1617) 2 Utemiljö EC som rör begagnade av begagnade av offentlig plats på
+kap       Planering & offentlig plats Lindens torg
+Utformning EC
+Anläggning &
+Utveckling
+Samordnare
+5.1        6–9 §§ lag Färdtjänstutre Beslut om tillstånd till Beslut om färdtjänst
+(1997:736) om dare   färdtjänst med Beviljade: 55
+färdtjänst EC Kansli
+regelkompletteringar Avslagna: 3
+5.3        4–7 §§ lag Färdtjänstutre Beslut om tillstånd till Beslut om tillstånd till riksfärdtjänst
+(1997:735) om dare   riksfärdtjänst Beviljade: 8
+riksfärdtjänst EC Kansli
+Avslagna: 0
+8.3        37§ Lokala Anette    Besluta om     241218 1 st
+avfallsföreskrif Englund, godkännande av
+ter för   administratör kompostering av
+Kungsbacka Kund &    matavfall
+kommun    Kommunikatio
+n
+8.6        43, 43a §§ Anette Englund, Besluta om tillfälligt 241205, 6 st
+Lokala    administratör uppehåll i  241206, 2 st
+avfallsföreskrif Kund & sophämtning 241211, 3 st
+ter för   Kommunikatio              241212, 1 st,
+Kungsbacka n                        241216, 1 st
+kommun                              241217, 3 st
+241218, 1 st
+241223 1 st
+9.1.2                FC         • Beslut att godkänna 1 undertecknat avtal angående
+tilldelning, gäller även Besöksflödesmätning, taget 2024-12-
+återta tilldelning 13 – AVTAL-2024-00480
+• Beslut att
+underteckna avtal
 
 <!-- sida 601 -->
 

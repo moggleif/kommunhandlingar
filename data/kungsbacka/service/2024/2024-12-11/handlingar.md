@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6033e6193956abcf83a0cd/173374840838
 sha256: 6a98ddc397ae9d6b48033160da6045e7553cb1eb31b0ed39f8de2fa989d15e32
 bytes: 4448100
 sidor: 288
-hamtad: 2026-10-08T02:09:58+00:00
-konverterad: 2026-10-08T02:10:32+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T09:49:19+00:00
+konverterad: 2026-10-14T09:49:48+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [126]
+figurer: [5, 49, 50, 229, 233, 237, 239, 243, 245, 246, 257, 270, 272, 274]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -6455,16 +6455,6 @@ notk
 ,renoissimE
 2
 2.F, 2.G F-gasförordning EU 517/2014 2.F, 2.G F-gasförordning EU 2024/573
-
-[Tabell 126-1](handlingar.tabeller/126-1.csv)
-
-|  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
 
 <!-- sida 127 -->
 
@@ -12986,7 +12976,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (4)
 
-[Tabell 283-1](handlingar.tabeller/283-1.csv)
+[Tabell 283-285-1](handlingar.tabeller/283-285-1.csv)
 
 | (Kommunfullmäktige)<br>(Beslut § 144) - Svar på motion<br>från Stefan Jägnert (SD) om<br>införande av tolkavgift | 2024-11-14 | SE-2024-00397 | Svar på motion från Stefan<br>Jägnert (SD) om införande av<br>tolkavgift |
 | --- | --- | --- | --- |
@@ -12997,22 +12987,24 @@ KUNGSBACKA  KOMMUN
 | (Nämnden för Teknik)<br>(Beslut § 84) - Initiativärende<br>angående – Prioritering av<br>skötselytor (TE-2024-00633) | 2024-11-25 | SE-2024-00421 | Initiativärende angående –<br>Prioritering av skötselytor<br>(TE-2024-00633) |
 | Initiativärende angående -<br>Prioritering av skötselytor | 2024-11-25 | SE-2024-00421 | Initiativärende angående –<br>Prioritering av skötselytor<br>(TE-2024-00633) |
 | Initiativärende angående –<br>Prioritering av skötselytor -<br>Bilaga 1, Karta Kungsbacka stad<br>(TE-2024-00633) | 2024-11-25 | SE-2024-00421 | Initiativärende angående –<br>Prioritering av skötselytor<br>(TE-2024-00633) |
-
-<!-- sida 284 -->
-
-KUNGSBACKA  KOMMUN
-3 (4)
-
-[Tabell 284-1](handlingar.tabeller/284-1.csv)
-
 | Initiativärende angående –<br>Prioritering av skötselytor -<br>Bilaga 2, Karta Kungsbacka<br>kommun (TE-2024-00633) | 2024-11-25 | SE-2024-00421 | Initiativärende angående –<br>Prioritering av skötselytor<br>(TE-2024-00633) |
-| --- | --- | --- | --- |
 | (Kommunstyrelsen)<br>(Beslut § 245) - Kungsbacka<br>Arena genomförandefrågor:<br>förstudie, lokalprogram,<br>uthyrning och driftentreprenad,<br>arenanamn (KS-2020-00547) | 2024-12-02 | SE-2021-00149 | Kungsbacka Arena -<br>Genomförande och<br>inriktningsbeslut för<br>uppförande och drift |
 | (Kommunstyrelse) (Beslut § 251)<br>Förnyelse av styrmodell<br>(Dnr KS-2023-00672) | 2024-12-02 | SE-2024-00437 | Förnyelse av styrmodell |
 | Kommunledningskontoret<br>Tjänsteskrivelse - Förnyelse av<br>styrmodell | 2024-12-02 | SE-2024-00437 | Förnyelse av styrmodell |
 | (Kommunstyrelsen)<br>(Beslut § 254) - Remittering av<br>förslag om översyn av interna och<br>externa priser och utmärkelser i<br>Kungsbacka kommun<br>(KS-2024-00605) | 2024-12-02 | SE-2024-00438 | Remittering av förslag om<br>översyn av interna och externa<br>priser och utmärkelser i<br>Kungsbacka kommun |
 | Kommunstyrelsens Förvaltning<br>Tjänsteskrivelse - Remittering av<br>förslag om översyn av interna och<br>externa priser och utmärkelser i<br>Kungsbacka kommun | 2024-12-02 | SE-2024-00438 | Remittering av förslag om<br>översyn av interna och externa<br>priser och utmärkelser i<br>Kungsbacka kommun |
 | Kungsbackas priser -<br>Kartläggning av priser 20241018 | 2024-12-02 | SE-2024-00438 | Remittering av förslag om<br>översyn av interna och externa<br>priser och utmärkelser i<br>Kungsbacka kommun |
+| (Kommunstyrelsen)<br>(Beslut § 256) Uppstart av<br>projekt i lokalplan Signeshus<br>löpnr 816 (KS-2024-00700) | 2024-12-02 | SE-2024-00439 | Uppstart av projekt i lokalplan<br>Signeshus löpnr 816 |
+| Kommunledningskontoret -<br>Tjänsteskrivelse - Uppstart av<br>projekt i lokalplan Signeshus<br>löpnr 816 | 2024-12-02 | SE-2024-00439 | Uppstart av projekt i lokalplan<br>Signeshus löpnr 816 |
+| Kommunbudget 2025 och plan<br>2026-2027, lokalplan sidor 47-53 | 2024-12-02 | SE-2024-00439 | Uppstart av projekt i lokalplan<br>Signeshus löpnr 816 |
+| (Kommunstyrelsen)<br>(Beslut § 257) - Uppstart av<br>projekt i lokalplan Åsaberg<br>Bostäder med särskild service<br>löpnr 515 | 2024-12-02 | SE-2024-00440 | Uppstart av projekt i lokalplan<br>Åsaberg Bostäder med särskild<br>service löpnr 515 |
+| Kommunledningskontoret -<br>Tjänsteskrivelse - Uppstart av<br>projekt i lokalplan Åsaberg<br>Bostäder med särskild service<br>löpnr 504 | 2024-12-02 | SE-2024-00440 | Uppstart av projekt i lokalplan<br>Åsaberg Bostäder med särskild<br>service löpnr 515 |
+| Kommunbudget 2025 och plan<br>2026-2027, lokalplan sidor 47-53 | 2024-12-02 | SE-2024-00440 | Uppstart av projekt i lokalplan<br>Åsaberg Bostäder med särskild<br>service löpnr 515 |
+
+<!-- sida 284 -->
+
+KUNGSBACKA  KOMMUN
+3 (4)
 
 <!-- sida 285 -->
 
@@ -13026,16 +13018,6 @@ Förvaltningen för Services tjänsteskrivelse, 2024-11-20
 Julia Tryggvadottir Tollesson
 
 Förvaltningschef Service
-
-[Tabell 285-1](handlingar.tabeller/285-1.csv)
-
-| (Kommunstyrelsen)<br>(Beslut § 256) Uppstart av<br>projekt i lokalplan Signeshus<br>löpnr 816 (KS-2024-00700) | 2024-12-02 | SE-2024-00439 | Uppstart av projekt i lokalplan<br>Signeshus löpnr 816 |
-| --- | --- | --- | --- |
-| Kommunledningskontoret -<br>Tjänsteskrivelse - Uppstart av<br>projekt i lokalplan Signeshus<br>löpnr 816 | 2024-12-02 | SE-2024-00439 | Uppstart av projekt i lokalplan<br>Signeshus löpnr 816 |
-| Kommunbudget 2025 och plan<br>2026-2027, lokalplan sidor 47-53 | 2024-12-02 | SE-2024-00439 | Uppstart av projekt i lokalplan<br>Signeshus löpnr 816 |
-| (Kommunstyrelsen)<br>(Beslut § 257) - Uppstart av<br>projekt i lokalplan Åsaberg<br>Bostäder med särskild service<br>löpnr 515 | 2024-12-02 | SE-2024-00440 | Uppstart av projekt i lokalplan<br>Åsaberg Bostäder med särskild<br>service löpnr 515 |
-| Kommunledningskontoret -<br>Tjänsteskrivelse - Uppstart av<br>projekt i lokalplan Åsaberg<br>Bostäder med särskild service<br>löpnr 504 | 2024-12-02 | SE-2024-00440 | Uppstart av projekt i lokalplan<br>Åsaberg Bostäder med särskild<br>service löpnr 515 |
-| Kommunbudget 2025 och plan<br>2026-2027, lokalplan sidor 47-53 | 2024-12-02 | SE-2024-00440 | Uppstart av projekt i lokalplan<br>Åsaberg Bostäder med särskild<br>service löpnr 515 |
 
 <!-- sida 286 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.15838fc9198bb6f878428da/17554993774
 sha256: 2e52dd32819db8878a445aeba826a67294cd1d2ed998e1b09cf4b3fafaecb8c1
 bytes: 404742
 sidor: 12
-hamtad: 2026-10-07T23:13:01+00:00
-konverterad: 2026-10-07T23:13:08+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T07:19:29+00:00
+konverterad: 2026-10-14T07:19:36+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -244,7 +244,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 8A63F008D79A010CBB9D3F1C007229465A7DFA7E12
 Transaktionsidentitet: DB0CCDE822A300F4BE93831BAD8D8FF5010D809A3A
 
-[Tabell 6-1](protokoll.tabeller/6-1.csv)
+[Tabell 6-7-1](protokoll.tabeller/6-7-1.csv)
 
 | Förskola | Grundbelopp<br>kommunal<br>2025 | Grundbelopp<br>kommunal<br>2025 (justering<br>löneuppräkning) | Grundbelopp<br>fristående<br>2025 | Grundbelopp<br>fristående<br>2025 (justering<br>löneuppräkning) |
 | --- | --- | --- | --- | --- |
@@ -253,6 +253,20 @@ Transaktionsidentitet: DB0CCDE822A300F4BE93831BAD8D8FF5010D809A3A
 | Pedagogisk omsorg 1-2 år | 163 232 | 163 666 | 159 001 | 159 459 |
 | Pedagogisk omsorg 3-5 år | 133 466 | 133 812 | 131 077 | 131 443 |
 | Fritidshem | Grundbelopp<br>kommunal<br>2025 | Grundbelopp<br>kommunal<br>2025 (justering<br>löneuppräkning) | Grundbelopp<br>fristående<br>2025 | Grundbelopp<br>fristående<br>2025 (justering<br>löneuppräkning) |
+| Pedagogisk omsorg fritids åk F-3 | 65 012 | 65 160 | 59 095 | 59 252 |
+| Pedagogisk omsorg fritids åk 4-6 | 32 491 | 32 565 | 25 128 | 25 206 |
+| Fritidshem åk F-3 | 41 441 | 41 557 | 59 573 | 59 699 |
+| Fritidshem åk 4-6 | 19 426 | 19 484 | 30 595 | 30 658 |
+| Fritidshem integrerad anpassad<br>grundskola åk F-6 nivå 2 | 121 840 | 122 182 | 148 959 | 149 330 |
+| Fritidshem integrerad anpassad<br>grundskola åk F-6 nivå 1 | 157 168 | 157 609 | 187 756 | 188 234 |
+| Förskoleklass, Grundskola och<br>Anpassad grundskola | Grundbelopp<br>kommunal<br>2025 | Grundbelopp<br>kommunal<br>2025 (justering<br>löneuppräkning) | Grundbelopp<br>fristående<br>2025 | Grundbelopp<br>fristående<br>2025 (justering<br>löneuppräkning) |
+| Förskoleklass | 44 744 | 44 872 | 87 377 | 87 513 |
+| Grundskola åk 1-3 | 53 871 | 54 027 | 98 287 | 98 454 |
+| Grundskola åk 4-6 | 63 633 | 63 818 | 108 799 | 108 997 |
+| Grundskola åk 7-9 | 72 052 | 72 261 | 117 844 | 118 070 |
+| Integrerad anpassad grundskola nivå<br>1 | 400 388 | 401 570 | 535 416 | 536 874 |
+| Integrerad anpassad grundskola nivå<br>2 | 236 080 | 236 781 | 359 024 | 359 964 |
+| Anpassad grundskola | 444 847 | 446 155 | 517 169 | 518 573 |
 
 <!-- sida 7 -->
 
@@ -275,24 +289,6 @@ förskoleklass, grundskola och anpassad grundskola.
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 8A63F008D79A010CBB9D3F1C007229465A7DFA7E12
 Transaktionsidentitet: DB0CCDE822A300F4BE93831BAD8D8FF5010D809A3A
-
-[Tabell 7-1](protokoll.tabeller/7-1.csv)
-
-| Pedagogisk omsorg fritids åk F-3 | 65 012 | 65 160 | 59 095 | 59 252 |
-| --- | --- | --- | --- | --- |
-| Pedagogisk omsorg fritids åk 4-6 | 32 491 | 32 565 | 25 128 | 25 206 |
-| Fritidshem åk F-3 | 41 441 | 41 557 | 59 573 | 59 699 |
-| Fritidshem åk 4-6 | 19 426 | 19 484 | 30 595 | 30 658 |
-| Fritidshem integrerad anpassad<br>grundskola åk F-6 nivå 2 | 121 840 | 122 182 | 148 959 | 149 330 |
-| Fritidshem integrerad anpassad<br>grundskola åk F-6 nivå 1 | 157 168 | 157 609 | 187 756 | 188 234 |
-| Förskoleklass, Grundskola och<br>Anpassad grundskola | Grundbelopp<br>kommunal<br>2025 | Grundbelopp<br>kommunal<br>2025 (justering<br>löneuppräkning) | Grundbelopp<br>fristående<br>2025 | Grundbelopp<br>fristående<br>2025 (justering<br>löneuppräkning) |
-| Förskoleklass | 44 744 | 44 872 | 87 377 | 87 513 |
-| Grundskola åk 1-3 | 53 871 | 54 027 | 98 287 | 98 454 |
-| Grundskola åk 4-6 | 63 633 | 63 818 | 108 799 | 108 997 |
-| Grundskola åk 7-9 | 72 052 | 72 261 | 117 844 | 118 070 |
-| Integrerad anpassad grundskola nivå<br>1 | 400 388 | 401 570 | 535 416 | 536 874 |
-| Integrerad anpassad grundskola nivå<br>2 | 236 080 | 236 781 | 359 024 | 359 964 |
-| Anpassad grundskola | 444 847 | 446 155 | 517 169 | 518 573 |
 
 <!-- sida 8 -->
 

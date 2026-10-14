@@ -1,0 +1,146 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Verksamhetsnära administration,,,,
+Process:,Hantera administration inom Individ & Familjeomsorg,,,,
+Processnummer:,6.2.1.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+,"Avtal med andra
+kommuner,
+entreprenörer/
+företag eller enskilda
+utförare","Ciceron
+avtalsdiarium",Digital,Bevaras,"Avtal mellan motpart och nämnd, t.ex. företag som
+förmedlar konsulentstödda familjehem."
+,"Korrespondens med
+andra kommuner,
+entreprenörer/
+företag eller enskilda
+utförare",Ciceron,Digital,"Korrespondens av
+vikt bevaras.
+Korrespondens av
+ringa eller tillfällig
+betydelse kan
+gallras när det inte
+längre bedöms vara
+av vikt för
+verksamheten.",
+,"Placeringsavtal och
+avtal med enskilda
+utförare gällande
+insats eller köpt plats
+för
+familjehemsenheten","Combine/Ciceron
+Närarkiv","Digital/
+Papper",Bevaras,"Avser kontaktperson/ kontaktfamilj, familjehem
+och konsulentstött familjehem. Avtal upprättas i
+Combine i familjehemmets akt. Undertecknat
+pappersavtal förvaras i pärm hos
+familjehemsenheten samt digitalt. Avtal för köpt
+plats bevaras ej i Combine."
+,"Placeringsavtal och
+avtal med enskilda",Ciceron/Närarkiv,"Digital/
+Papper",Bevaras,"Avser ledsagarservice, avlösarservice, personlig
+assistans, daglig verksamhet, bostad med särskild
+service, vård under begränsad del av dygnet,"
+,"utförare gällande
+insats eller köpt plats",,,,"korttidshem, lägerverksamhet, stödboende, skyddat
+boende, HVB och SiS. Undertecknat pappersavtal
+förvaras i närarkiv samt inskannat i Ciceron."
+,"Uppsägning av
+placeringsavtal med
+enskilda utförare
+gällande insats eller
+köpt plats",Combine,Digital,Bevaras,"Uppsägning har inget formaliserat sätt, utan kan till
+exempel inkomma via e-post eller telefon."
+,"Korrespondens
+utanför
+individärende,
+innehållande
+uppgifter som
+skyddas av sekretess",Ciceron,Digital,Bevaras,Till exempel brev eller mejl från anhörig.
+,"Mottagningsbevis,
+inlämningskvitton,
+kvittenser",Närarkiv,Papper,Se anmärkning,"Sparas så länge som det har rättslig betydelse.
+Bevis som inte längre behövs för att styrka att en
+försändelse har inkommit eller utgått från
+myndigheten kan gallras."
+,"Orosanmälningar
+som inte tillhör
+ärende och inte ger
+upphov till ärende,
+där personakt inte
+finns",Combine,Digital,"Gallras 2 år efter
+inkommen anmälan","Anmälningar enligt 19 kap. 1§ SoL. Gäller det en
+vuxen skannas anmälan in i kronologisk pärm i
+Combine. Orosanmälningar för barn och unga ger
+alltid upphov till ärende och dokumenteras i
+personakt, se process 6.3.1.1"
+,"Rapporter och
+meddelanden som
+inte tillhör ärende
+och inte ger upphov
+till ärende, t.ex.
+polisrapporter, LOB,
+SMADIT, Beslut om",Combine,Digital,"Gallras 2 år efter
+inkommen rapport","Rapporten/ meddelandet skannas in i kronologisk
+pärm i Combine."
+,"kontaktförbud, där
+personakt inte finns",,,,
+,"Rapporter och
+meddelanden som
+inte tillhör ärende
+och inte ger upphov
+till ärende, t.ex.
+meddelande om
+avhysningar och
+störningar, där
+personakt inte finns",Combine,Digital,"Gallras 2 år efter
+inkommen rapport","Rapporten/ meddelandet skannas in i kronologisk
+pärm i Combine."
+,"Specifikation
+kontoinsättning
+assistansersättning",Närarkiv,Papper,"Gallras 7 år efter
+det kalenderår då
+räkenskapsåret
+avslutades",
+,"Besked om
+utbetalning,
+assistansersättning",Närarkiv,Papper,"Gallras 7 år efter
+det kalenderår då
+räkenskapsåret
+avslutades",
+,"Belopp att betala för
+assistansersättning
+(samlingsfaktura från
+Försäkringskassan)",Närarkiv,Papper,"Gallras 7 år efter
+det kalenderår då
+räkenskapsåret
+avslutades",
+,"Räkenskaper
+enskildas medel",Närarkiv,Papper,"Gallras 7 år efter
+det kalenderår då
+räkenskapsåret
+avslutades","Räkningar, kvitton m.m."
+,"Hyreskontrakt,
+besiktningsprotokoll
+etc. för bostäder som",Combine/Närarkiv,Digital/Papper,"Gallras 2 år efter
+det att kontraktet
+upphört att gälla,
+förutsatt att","Hyreskontrakt kan signeras både digitalt och på
+papper."
+,"tillhandahålls av
+socialtjänsten",,,"hyresskuld eller
+anmärkning inte
+kvarstår",
+,"Förteckningar över
+familjehem",G:,Digital,"Uppdateras
+fortlöpande",GDPR-mapp
+,"Förteckningar över
+barn som vistas i
+familjehem eller
+annat enskilt hem",G:,Digital,"Uppdateras
+fortlöpande",GDPR-mapp
+,"Förteckningar över
+kontaktpersoner/
+kontaktfamiljer",G:,Digital,"Uppdateras
+fortlöpande",GDPR-mapp

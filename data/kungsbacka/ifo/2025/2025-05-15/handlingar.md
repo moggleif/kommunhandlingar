@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7dc0295196b0231a116504a/17470594547
 sha256: 9d2deaa6fe8a94c50de797bc03c3b1bb8a099b1c993d952d121c630538ea35a5
 bytes: 2504439
 sidor: 47
-hamtad: 2026-10-08T02:34:48+00:00
-konverterad: 2026-10-08T02:34:59+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:12:01+00:00
+konverterad: 2026-10-14T10:12:12+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [15, 20]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1294,7 +1294,7 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 
 §§ socialtjänstlagen, SoL
 
-[Tabell 34-1](handlingar.tabeller/34-1.csv)
+[Tabell 34-37-1](handlingar.tabeller/34-37-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
@@ -1308,16 +1308,6 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 | 2024-07-01 | 9 § 5 LSS, avlösarservice i<br>hemmet | Den enskilde har tackat nej till erbjudande 2024-09-16.<br>Uppstartsmöte 2025-03-03, insatsen kommer snart<br>startas upp under mars. |
 | 2024-02-01 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet, har specifika önskemål om<br>utförandet. Verksamheten pausar insatsen i avvaktan på<br>svar om start av inskolning. |
 | 2024-04-07 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Den enskilde medverkar inte till verkställighet, den<br>enskilde är tveksam till insatsen. Tackat nej till<br>erbjudande 2025-12-13. |
-
-<!-- sida 35 -->
-
-KUNGSBACKA  KOMMUN
-4 (9)
-
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2024-06-26 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Den enskilde har tackat nej till erbjudande 2024-08-13,<br>har specifika önskemål om upplägg, enbart helger.<br>Verksamheten har gjort flera kontaktförsök, inväntar<br>återkoppling från familjen. |
 | 2024-11-09 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, hälsotillstånd hos den<br>enskilde. Verksamheten har varit i kontakt med<br>familjen, ny plan är på gång. |
 | 2024-11-22 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, hälsotillstånd hos den<br>enskilde. |
@@ -1332,16 +1322,6 @@ KUNGSBACKA  KOMMUN
 | 2024-10-17 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. Tackat nej till erbjudande om köpt plats. |
 | 2024-11-05 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. Arbete med att hitta lämpligt boende<br>pågår. |
 | 2024-11-29 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. Arbete med att hitta lämpligt boende<br>pågår. |
-
-<!-- sida 36 -->
-
-KUNGSBACKA  KOMMUN
-5 (9)
-
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2025-01-13 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. Planering pågår. |
 | 2025-01-14 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. Blivit erbjuden boende, verksamheten<br>inväntar svar på erbjudandet. |
 | 2021-10-29 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. Svårt att få<br>kontakt med den enskilde. Blivit erbjuden praktikplats,<br>den enskilde vill avvakta uppstart. |
@@ -1353,18 +1333,6 @@ KUNGSBACKA  KOMMUN
 | 2023-12-20 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. Inväntar återkoppling från anhöriga<br>om de vill ha kvar insatsen. |
 | 2024-01-09 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till verkställighet, vill<br>avvakta uppstart av insatsen. Inväntar återkoppling<br>från god man. |
 | 2024-02-09 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde tackat nej till<br>erbjudande 2024-02-09. Vill inte avsluta insatsen utan<br>pausa på obestämd tid. |
-
-<!-- sida 37 -->
-
-KUNGSBACKA  KOMMUN
-6 (9)
-
-Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
-
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2024-06-24 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. Möte inplanerat för eventuell<br>uppstart. |
 | 2024-08-19 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet, vill avvakta med insatsen. Pga<br>hälsotillstånd. |
 | 2024-09-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
@@ -1374,23 +1342,30 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2024-12-03 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde vill inte ha insatsen. |
 | 2024-12-03 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till verkställighet.<br>Verksamheten har gjort flera kontaktförsök. |
 
-[Tabell 37-2](handlingar.tabeller/37-2.csv)
+<!-- sida 35 -->
+
+KUNGSBACKA  KOMMUN
+4 (9)
+
+<!-- sida 36 -->
+
+KUNGSBACKA  KOMMUN
+5 (9)
+
+<!-- sida 37 -->
+
+KUNGSBACKA  KOMMUN
+6 (9)
+
+Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
+
+[Tabell 37-40-1](handlingar.tabeller/37-40-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
 | 2024-06-26 | 4 kap 1 § SoL, bostad | Saknar plats. | Verkställt, 2025-04-15 |
 | 2024-07-12 | 4 kap 1 § SoL,<br>kontaktperson | Den enskilde medverkar inte till<br>verkställighet. Tackar nej till<br>erbjudande 2024-12-16. | Verkställt, 2025-03-27 |
 | 2024-09-05 | 4 kap 1 § SoL,<br>kontaktperson | Den enskilde vill avvakta med<br>insatsen. | Avslutat, 2025-01-29.<br>Den enskilde vill inte<br>längre ha insatsen. |
-
-<!-- sida 38 -->
-
-KUNGSBACKA  KOMMUN
-7 (9)
-
-[Tabell 38-1](handlingar.tabeller/38-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2024-10-03 | 4 kap 1 § SoL,<br>kontaktperson | Den enskilde ville avvakta med<br>uppstart. | Verkställt, 2025-03-25 |
 | 2024-12-01 | 4 kap 1 § SoL, boendestöd | Den enskilde är i behov av lång<br>uppstart. | Verkställt, 2025-03-26 |
 | 2024-07-12 | 9 § 3 LSS, ledsagarservice | Den enskilde medverkar inte till<br>verkställighet. Verksamheten<br>har haft flera kontakter med den<br>enskilde för att få igång<br>insatsen. | Verkställt, 2025-02-15 |
@@ -1399,16 +1374,6 @@ KUNGSBACKA  KOMMUN
 | 2023-11-22 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Den enskilde är i behov av<br>extern placering. | Avslutat, 2024-12-17.<br>Den enskilde vill inte<br>längre ha insatsen. |
 | 2024-04-10 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Den enskilde medverkar inte till<br>verkställighet, den enskilde är<br>tveksam till insatsen. | Avslutat, 2025-01-27.<br>Den enskilde vill inte<br>längre ha insatsen. |
 | 2022-03-16 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Tackat nej till 5 erbjudanden,<br>2022-09-15, 2022-11-29, 2023-<br>05-17, 2023-11-20 och 2023-<br>12-05. Tackat ja till erbjudande<br>med inflyttning 2025-02-01. | Verkställt, 2025-02-06 |
-
-<!-- sida 39 -->
-
-KUNGSBACKA  KOMMUN
-8 (9)
-
-[Tabell 39-1](handlingar.tabeller/39-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2022-12-31 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Avbrott i verkställighet, tackat<br>nej till 3 erbjudanden 2023-06-<br>20, 2023-12-22, 2024-05-24<br>eftersom boendet inte ligger i<br>centrala Kungsbacka. Tackat nej<br>till erbjudande 2024-09-02 trots<br>centralt boende, det är inte läge<br>med flytt just nu. | Avslutat, 2025-04-02.<br>Den enskilde vill inte<br>längre ha insatsen. |
 | 2023-04-03 | 9 § 9 LSS, bostad för<br>vuxna | Tackat nej till 2 erbjudande,<br>2023-09-27, och 2024-03-14 på<br>Nya Hede men boendet är inte<br>tillräckligt centralt. | Verkställt, 2025-02-01 |
 | 2023-09-04 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. Blivit erbjuden<br>köpt plats 2024-03-22 men<br>tackat nej. | Verkställt, 2025-02-01 |
@@ -1417,6 +1382,17 @@ KUNGSBACKA  KOMMUN
 | 2023-05-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet och pga<br>hälsotillstånd. Blivit erbjuden<br>annan DV-grupp. | Verkställt, 2025-02-27 |
 | 2023-10-20 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd, den enskilde<br>medverkar inte till<br>verkställighet. Den enskilde vill<br>avvakta med insatsen. | Avslutat, 2025-02-14.<br>Den enskilde vill inte<br>längre ha insatsen. |
 | 2024-04-26 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde vill starta upp insatsen<br>och väntar på uppstartsmöte. | Verkställt, 2025-01-17 |
+| 2024-06-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Verkställt, 2025-02-17 |
+
+<!-- sida 38 -->
+
+KUNGSBACKA  KOMMUN
+7 (9)
+
+<!-- sida 39 -->
+
+KUNGSBACKA  KOMMUN
+8 (9)
 
 <!-- sida 40 -->
 
@@ -1428,12 +1404,6 @@ Inom vuxenenheten och familjehemsenheten finns inga ej verkställda beslut under
 Ivan Stipić                   Renate Rondolph
 
 Förvaltningschef              Verksamhetschef
-
-[Tabell 40-1](handlingar.tabeller/40-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
-| 2024-06-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Verkställt, 2025-02-17 |
 
 <!-- sida 41 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.27cf452819fe1d375f551ac5/1786514181
 sha256: 759561175c89287d19d14125ae5ea705f7bc6f16fe8c1bbee788f0e42038c7d0
 bytes: 3364991
 sidor: 86
-hamtad: 2026-10-07T23:38:52+00:00
-konverterad: 2026-10-07T23:39:14+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T07:40:44+00:00
+konverterad: 2026-10-14T07:41:03+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
 tal_obekraftade: [86]
-figurer: null
-tolkade: null
+figurer: [49, 67, 86]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1695,25 +1695,21 @@ Nämnden för Förskola & Grundskolas svar till Kommunrevisionen
 
 Kungsbacka kommun Svar till Kommunrevisionen – Granskning av likvärdig skola 2
 
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
+[Tabell 46-47-1](handlingar.tabeller/46-47-1.csv)
 
 | Åtgärder | Tid | Ansvarig |
 | --- | --- | --- |
 | Förvaltningen har etablerat en struktur för<br>uppföljning, vilket möjliggör systematisk<br>uppföljning av såväl strukturbidrag som<br>statsbidragsfinansierade insatser.<br>Uppföljning av mätetal och effektmål<br>kommer att göras under hösten 2026 i<br>samband med arbetet med budget 2027.<br>Urval av enheter kommer att göra en<br>kvalitativ redovisning över hur<br>strukturbidraget används. | Genomförs i<br>budgetarbetet<br>2027. Klart<br>december 2026 | Avdelning Ekonomi & Planering |
 | Förvaltningen reviderar processen för det<br>systematiska kvalitetsarbetet i syfte att<br>stärka förmågan att analysera behov och<br>säkerställa en mer träffsäker<br>resursfördelning till specifika insatser. En<br>stärkt SKA-process ger möjlighet att<br>identifiera områden, grupper och enheter | Slutrapportering<br>december<br>2026. Införande<br>i systematiskt<br>kvalitetsarbete<br>läsår 26/27 | Avdelning Kvalitet & Utveckling |
+| i behov av riktade insatser samt till<br>tydligare underlag i budgetfördelningen. |  |  |
+| Förvaltningen utreder en modell för<br>extraordinära insatser till skolor med<br>omfattande, långvariga och allvarliga<br>brister och utmaningar. Modellen kommer<br>innefatta kartläggning och därefter ett<br>riktat stöd från förvaltningen.<br>Insatsen/stödet ska pågå tills skolan<br>byggt upp den lokala förmågan att<br>bedriva ett systematiskt kvalitetsarbete<br>som kan säkerställa kvalitén i<br>verksamheten på lång sikt. | Planerad start<br>2027 | Avdelning Kvalitet & Utveckling |
+| Utifrån utvärderingen av<br>resursfördelningsmodellen justerar<br>förvaltningen resursfördelningen något –<br>från en modellbaserad fördelning till en<br>mer individ- och behovsanpassad<br>fördelning – baserat på analyser inom det<br>systematiska kvalitetsarbetet. | Klart december<br>2026 | Avdelning Ekonomi & Planering |
 
 <!-- sida 47 -->
 
 Kungsbacka kommun Svar till Kommunrevisionen – Granskning av likvärdig skola 3
 
 [Tabell 47-1](handlingar.tabeller/47-1.csv)
-
-| i behov av riktade insatser samt till<br>tydligare underlag i budgetfördelningen. |  |  |
-| --- | --- | --- |
-| Förvaltningen utreder en modell för<br>extraordinära insatser till skolor med<br>omfattande, långvariga och allvarliga<br>brister och utmaningar. Modellen kommer<br>innefatta kartläggning och därefter ett<br>riktat stöd från förvaltningen.<br>Insatsen/stödet ska pågå tills skolan<br>byggt upp den lokala förmågan att<br>bedriva ett systematiskt kvalitetsarbete<br>som kan säkerställa kvalitén i<br>verksamheten på lång sikt. | Planerad start<br>2027 | Avdelning Kvalitet & Utveckling |
-| Utifrån utvärderingen av<br>resursfördelningsmodellen justerar<br>förvaltningen resursfördelningen något –<br>från en modellbaserad fördelning till en<br>mer individ- och behovsanpassad<br>fördelning – baserat på analyser inom det<br>systematiska kvalitetsarbetet. | Klart december<br>2026 | Avdelning Ekonomi & Planering |
-
-[Tabell 47-2](handlingar.tabeller/47-2.csv)
 
 | Analys av måluppfyllelse kopplat till<br>lärarbehörighet kommer ingå i det<br>reviderade systematiska kvalitetsarbetet<br>med start januari 2027. | Start januari<br>2027.<br>Reviderat<br>systematiskt<br>kvalitetsarbete<br>start läsår<br>26/27 | Avdelning HR & Kommunikation<br>Avdelning Kvalitet & Utveckling |
 | --- | --- | --- |

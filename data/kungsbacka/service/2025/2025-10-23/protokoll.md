@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.41f565c319a154a5a5e46f59/1761574552
 sha256: ec7ca33aec6b2748e21f973cfe18e6ac5e215efed4a0e118a608c325b4f21825
 bytes: 463407
 sidor: 20
-hamtad: 2026-10-08T02:01:04+00:00
-konverterad: 2026-10-08T02:01:12+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:41:10+00:00
+konverterad: 2026-10-14T09:41:18+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [15]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -607,7 +607,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 020F2619625D37C95CB42B6630E49E85D8D88BA1F2
 Transaktionsidentitet: 39475877FBB870EE28E87559A3D348E8D153032BF6
 
-[Tabell 13-1](protokoll.tabeller/13-1.csv)
+[Tabell 13-14-1](protokoll.tabeller/13-14-1.csv)
 
 | Beskrivning | Inkom | Tillhör<br>ärende | Ärendemening |
 | --- | --- | --- | --- |
@@ -618,6 +618,15 @@ Transaktionsidentitet: 39475877FBB870EE28E87559A3D348E8D153032BF6
 | 2. Adresser och avtalstider,<br>verksamhetslokaler Vård & Omsorg | 2025-09-23 | SE-2025-00365 | Lokalbehovsplan<br>2027-2031, med<br>utblick 2032-2036 -<br>Vård & Omsorg |
 | 3. Samlokalisering Dagomsorg, ökat<br>behov av platser | 2025-09-23 | SE-2025-00365 | Lokalbehovsplan<br>2027-2031, med<br>utblick 2032-2036 -<br>Vård & Omsorg |
 | 4. Centralförråd välfärdsteknik och<br>digitala verktyg | 2025-09-23 | SE-2025-00365 | Lokalbehovsplan<br>2027-2031, med |
+|  |  |  | utblick 2032-2036 -<br>Vård & Omsorg |
+| 5. Utbildningslokal för gemensamma<br>utbidningsbehov | 2025-09-23 | SE-2025-00365 | Lokalbehovsplan<br>2027-2031, med<br>utblick 2032-2036 -<br>Vård & Omsorg |
+| 6. Samlokalisering Nattpatrull Jour<br>HSV och Nattpatrull SOL Hemtjänst | 2025-09-23 | SE-2025-00365 | Lokalbehovsplan<br>2027-2031, med<br>utblick 2032-2036 -<br>Vård & Omsorg |
+| Rapport efter fördjupad granskning av<br>dataskydd 2025 - Service | 2025-09-24 | SE-2025-00079 | Granskning av<br>dataskydd 2025 |
+| Rapport efter fördjupad granskning av<br>dataskydd 2025 -(Bilaga A) - Service | 2025-09-24 | SE-2025-00079 | Granskning av<br>dataskydd 2025 |
+| Rapport efter granskning av dataskydd<br>2025 (e-post) | 2025-09-24 | SE-2025-00079 | Granskning av<br>dataskydd 2025 |
+| PM avseende svar på revisionens<br>frågor om KF direktiv - (E-post) | 2025-10-02 | SE-2025-00220 | Skriftliga frågor<br>från revisionen -<br>KF direktiv |
+| PM - Avseende svar på skriftliga<br>frågor: Arbete med KF direktiv | 2025-10-02 | SE-2025-00220 | Skriftliga frågor<br>från revisionen -<br>KF direktiv |
+| Kungsbacka Arena<br>genomförandefrågor | 2025-10-06 | SE-2025-00401 | Startbesked samt<br>friställning av<br>blivande<br>byggnadsyta (KS-<br>2020-00547) |
 
 <!-- sida 14 -->
 
@@ -638,19 +647,6 @@ säga förvaltningen för Service förslag, och att nämnden för Service bifall
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 020F2619625D37C95CB42B6630E49E85D8D88BA1F2
 Transaktionsidentitet: 39475877FBB870EE28E87559A3D348E8D153032BF6
-
-[Tabell 14-1](protokoll.tabeller/14-1.csv)
-
-|  |  |  | utblick 2032-2036 -<br>Vård & Omsorg |
-| --- | --- | --- | --- |
-| 5. Utbildningslokal för gemensamma<br>utbidningsbehov | 2025-09-23 | SE-2025-00365 | Lokalbehovsplan<br>2027-2031, med<br>utblick 2032-2036 -<br>Vård & Omsorg |
-| 6. Samlokalisering Nattpatrull Jour<br>HSV och Nattpatrull SOL Hemtjänst | 2025-09-23 | SE-2025-00365 | Lokalbehovsplan<br>2027-2031, med<br>utblick 2032-2036 -<br>Vård & Omsorg |
-| Rapport efter fördjupad granskning av<br>dataskydd 2025 - Service | 2025-09-24 | SE-2025-00079 | Granskning av<br>dataskydd 2025 |
-| Rapport efter fördjupad granskning av<br>dataskydd 2025 -(Bilaga A) - Service | 2025-09-24 | SE-2025-00079 | Granskning av<br>dataskydd 2025 |
-| Rapport efter granskning av dataskydd<br>2025 (e-post) | 2025-09-24 | SE-2025-00079 | Granskning av<br>dataskydd 2025 |
-| PM avseende svar på revisionens<br>frågor om KF direktiv - (E-post) | 2025-10-02 | SE-2025-00220 | Skriftliga frågor<br>från revisionen -<br>KF direktiv |
-| PM - Avseende svar på skriftliga<br>frågor: Arbete med KF direktiv | 2025-10-02 | SE-2025-00220 | Skriftliga frågor<br>från revisionen -<br>KF direktiv |
-| Kungsbacka Arena<br>genomförandefrågor | 2025-10-06 | SE-2025-00401 | Startbesked samt<br>friställning av<br>blivande<br>byggnadsyta (KS-<br>2020-00547) |
 
 <!-- sida 15 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4e075f73196b001aeb4113b1/1746788044
 sha256: fe3661eb3c0328fc8de124a13f65a02401984fd3bdd698e99e2757bbb1b83459
 bytes: 9417325
 sidor: 124
-hamtad: 2026-10-07T22:54:20+00:00
-konverterad: 2026-10-07T22:54:55+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T07:03:07+00:00
+konverterad: 2026-10-14T07:03:38+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok]
 tal_obekraftade: [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 119]
-figurer: null
-tolkade: null
+figurer: [19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 35, 38, 39, 40, 43, 44, 45, 47, 49, 50, 52, 54, 55, 57, 59, 61, 63, 64, 66, 68, 93, 94, 95, 97, 98, 99, 107, 108, 109, 115, 116, 118, 119, 120]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -126,7 +126,7 @@ KUNGSBACKA  KOMMUN
 
 4(5)
 
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
+[Tabell 4-5-1](handlingar.tabeller/4-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -135,6 +135,7 @@ KUNGSBACKA  KOMMUN
 | 9. | Ansökan från Särö pastorat,<br>Lyktans fritidshem gällande<br>permanent utökning av<br>barnantal | FG-2025-00184 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Särö pastorat gällande Lyktans<br>fritidshem, Vallda (adress borttagen), 434 90 Vallda,<br>om permanent utökning till totalt 24 barn |
 | 10. | Ansökan från Onsala<br>småbarnsskola, gällande<br>permanent utökning av<br>barnantal | FG-2025-00237 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Onsala småbarnsskola ekonomiska<br>förening, (adress borttagen), 439 94 Onsala,<br>om permanent utökning till totalt 26 barn. |
 | 11. | Delegeringsbeslut antagna av<br>nämnden 2025 | FG-2025-00007 | Redovisning av beslut som fattats av<br>förvaltningen på delegation för nämnden noteras<br>till protokollet. |
+| 12. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 17:20-17:35<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 
 <!-- sida 5 -->
 
@@ -144,12 +145,6 @@ KUNGSBACKA  KOMMUN
 
 Emanuel Forsell                   Lars Sundbom
 ordförande                        sekreterare
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 12. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 17:20-17:35<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 
 <!-- sida 6 -->
 

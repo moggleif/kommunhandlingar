@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.673b6e6519d7224d2e858b91/1776105800
 sha256: 71f4b8e103fcaf791de37734189cb2980236a89762b096581351678eb48f29de
 bytes: 2009951
 sidor: 101
-hamtad: 2026-10-08T02:37:55+00:00
-konverterad: 2026-10-08T02:38:10+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T10:14:45+00:00
+konverterad: 2026-10-14T10:14:56+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -433,6 +433,30 @@ Kungsbacka kommun             Informationsbeskrivning           4 (7)
 
 Planering och  styrning av arkivbildningen
 
+Dokument:        Upprättad/ antagen Reviderad Diarienummer, protokoll
+
+Informationshanteringsplan 21 mars 2019       IF/2017:189, 2019-03-21,
+§ 37
+
+11 december 2020 IF/2017:189, 2020-11-12,
+§ 155
+
+29 november 2022 IF/2017:189, 2022-12-15,
+§ 198
+Informationsbeskrivning 21 mars 2019          IF/2017:189, 2019-03-21,
+§ 37
+
+11 december 2020 IF/2017:189, 2020-11-12,
+§ 155
+
+29 november 2022 IF/2017:189, 2022-12-15,
+§ 198
+Klassificeringsstruktur 12 november 2020      IF/2017:189, 2020-11-12,
+§ 155
+
+29 november 2022 IF/2017:189, 2022-12-15,
+§ 198
+
 Ärenden i verksamhetssystemet Combine identifieras med processnummer.
 
 Bevarande   och gallring
@@ -452,14 +476,6 @@ ersättningsskanning och som fortsättningsvis bevaras även i pappersform anges
 en intern rutin.
 
 Kungsbacka kommun             Informationsbeskrivning           5 (7)
-
-[Tabell 10-1](handlingar.tabeller/10-1.csv)
-
-| Dokument: | Upprättad/ antagen | Reviderad | Diarienummer, protokoll |
-| --- | --- | --- | --- |
-| Informationshanteringsplan | 21 mars 2019 | 11 december 2020<br>29 november 2022 | IF/2017:189, 2019-03-21,<br>§ 37<br>IF/2017:189, 2020-11-12,<br>§ 155<br>IF/2017:189, 2022-12-15,<br>§ 198 |
-| Informationsbeskrivning | 21 mars 2019 | 11 december 2020<br>29 november 2022 | IF/2017:189, 2019-03-21,<br>§ 37<br>IF/2017:189, 2020-11-12,<br>§ 155<br>IF/2017:189, 2022-12-15,<br>§ 198 |
-| Klassificeringsstruktur | 12 november 2020 | 29 november 2022 | IF/2017:189, 2020-11-12,<br>§ 155<br>IF/2017:189, 2022-12-15,<br>§ 198 |
 
 <!-- sida 11 -->
 
@@ -840,7 +856,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 18
 
-[Tabell 30-1](handlingar.tabeller/30-1.csv)
+[Tabell 30-33-1](handlingar.tabeller/30-33-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -853,53 +869,41 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Korrespondens med<br>andra kommuner,<br>entreprenörer/<br>företag eller enskilda<br>utförare | Ciceron | Digital | Korrespondens av<br>vikt bevaras.<br>Korrespondens av<br>ringa eller tillfällig<br>betydelse kan<br>gallras när det inte<br>längre bedöms vara<br>av vikt för<br>verksamheten. |  |
 |  | Placeringsavtal och<br>avtal med enskilda<br>utförare gällande<br>insats eller köpt plats<br>för<br>familjehemsenheten | Combine/Ciceron<br>Närarkiv | Digital/<br>Papper | Bevaras | Avser kontaktperson/ kontaktfamilj, familjehem<br>och konsulentstött familjehem. Avtal upprättas i<br>Combine i familjehemmets akt. Undertecknat<br>pappersavtal förvaras i pärm hos<br>familjehemsenheten samt digitalt. Avtal för köpt<br>plats bevaras ej i Combine. |
 |  | Placeringsavtal och<br>avtal med enskilda | Ciceron/Närarkiv | Digital/<br>Papper | Bevaras | Avser ledsagarservice, avlösarservice, personlig<br>assistans, daglig verksamhet, bostad med särskild<br>service, vård under begränsad del av dygnet, |
-
-<!-- sida 31 -->
-
-19
-
-[Tabell 31-1](handlingar.tabeller/31-1.csv)
-
 |  | utförare gällande<br>insats eller köpt plats |  |  |  | korttidshem, lägerverksamhet, stödboende, skyddat<br>boende, HVB och SiS. Undertecknat pappersavtal<br>förvaras i närarkiv samt inskannat i Ciceron. |
-| --- | --- | --- | --- | --- | --- |
 |  | Uppsägning av<br>placeringsavtal med<br>enskilda utförare<br>gällande insats eller<br>köpt plats | Combine | Digital | Bevaras | Uppsägning har inget formaliserat sätt, utan kan till<br>exempel inkomma via e-post eller telefon. |
 |  | Korrespondens<br>utanför<br>individärende,<br>innehållande<br>uppgifter som<br>skyddas av sekretess | Ciceron | Digital | Bevaras | Till exempel brev eller mejl från anhörig. |
 |  | Mottagningsbevis,<br>inlämningskvitton,<br>kvittenser | Närarkiv | Papper | Se anmärkning | Sparas så länge som det har rättslig betydelse.<br>Bevis som inte längre behövs för att styrka att en<br>försändelse har inkommit eller utgått från<br>myndigheten kan gallras. |
 |  | Orosanmälningar<br>som inte tillhör<br>ärende och inte ger<br>upphov till ärende,<br>där personakt inte<br>finns | Combine | Digital | Gallras 2 år efter<br>inkommen anmälan | Anmälningar enligt 19 kap. 1§ SoL. Gäller det en<br>vuxen skannas anmälan in i kronologisk pärm i<br>Combine. Orosanmälningar för barn och unga ger<br>alltid upphov till ärende och dokumenteras i<br>personakt, se process 6.3.1.1 |
 |  | Rapporter och<br>meddelanden som<br>inte tillhör ärende<br>och inte ger upphov<br>till ärende, t.ex.<br>polisrapporter, LOB,<br>SMADIT, Beslut om | Combine | Digital | Gallras 2 år efter<br>inkommen rapport | Rapporten/ meddelandet skannas in i kronologisk<br>pärm i Combine. |
-
-<!-- sida 32 -->
-
-20
-
-[Tabell 32-1](handlingar.tabeller/32-1.csv)
-
 |  | kontaktförbud, där<br>personakt inte finns |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Rapporter och<br>meddelanden som<br>inte tillhör ärende<br>och inte ger upphov<br>till ärende, t.ex.<br>meddelande om<br>avhysningar och<br>störningar, där<br>personakt inte finns | Combine | Digital | Gallras 2 år efter<br>inkommen rapport | Rapporten/ meddelandet skannas in i kronologisk<br>pärm i Combine. |
 |  | Specifikation<br>kontoinsättning<br>assistansersättning | Närarkiv | Papper | Gallras 7 år efter<br>det kalenderår då<br>räkenskapsåret<br>avslutades |  |
 |  | Besked om<br>utbetalning,<br>assistansersättning | Närarkiv | Papper | Gallras 7 år efter<br>det kalenderår då<br>räkenskapsåret<br>avslutades |  |
 |  | Belopp att betala för<br>assistansersättning<br>(samlingsfaktura från<br>Försäkringskassan) | Närarkiv | Papper | Gallras 7 år efter<br>det kalenderår då<br>räkenskapsåret<br>avslutades |  |
 |  | Räkenskaper<br>enskildas medel | Närarkiv | Papper | Gallras 7 år efter<br>det kalenderår då<br>räkenskapsåret<br>avslutades | Räkningar, kvitton m.m. |
 |  | Hyreskontrakt,<br>besiktningsprotokoll<br>etc. för bostäder som | Combine/Närarkiv | Digital/Papper | Gallras 2 år efter<br>det att kontraktet<br>upphört att gälla,<br>förutsatt att | Hyreskontrakt kan signeras både digitalt och på<br>papper. |
+|  | tillhandahålls av<br>socialtjänsten |  |  | hyresskuld eller<br>anmärkning inte<br>kvarstår |  |
+|  | Förteckningar över<br>familjehem | G: | Digital | Uppdateras<br>fortlöpande | GDPR-mapp |
+|  | Förteckningar över<br>barn som vistas i<br>familjehem eller<br>annat enskilt hem | G: | Digital | Uppdateras<br>fortlöpande | GDPR-mapp |
+|  | Förteckningar över<br>kontaktpersoner/<br>kontaktfamiljer | G: | Digital | Uppdateras<br>fortlöpande | GDPR-mapp |
+
+<!-- sida 31 -->
+
+19
+
+<!-- sida 32 -->
+
+20
 
 <!-- sida 33 -->
 
 21
 
-[Tabell 33-1](handlingar.tabeller/33-1.csv)
-
-|  | tillhandahålls av<br>socialtjänsten |  |  | hyresskuld eller<br>anmärkning inte<br>kvarstår |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Förteckningar över<br>familjehem | G: | Digital | Uppdateras<br>fortlöpande | GDPR-mapp |
-|  | Förteckningar över<br>barn som vistas i<br>familjehem eller<br>annat enskilt hem | G: | Digital | Uppdateras<br>fortlöpande | GDPR-mapp |
-|  | Förteckningar över<br>kontaktpersoner/<br>kontaktfamiljer | G: | Digital | Uppdateras<br>fortlöpande | GDPR-mapp |
-
 <!-- sida 34 -->
 
 22
 
-[Tabell 34-1](handlingar.tabeller/34-1.csv)
+[Tabell 34-35-1](handlingar.tabeller/34-35-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -917,15 +921,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Kallelser | Combine | Digital | Gallras vid<br>inaktualitet |  |
 |  | Polisrapporter | Combine | Digital | 5 år/Bevaras | Pappershandling skannas in till Combine och<br>gallras därefter. |
 |  | Registerkontroll som utgör<br>underlag för beslut | Combine | Digital | 5 år/Bevaras | Pappershandling skannas in till Combine och<br>gallras därefter. |
-
-<!-- sida 35 -->
-
-23
-
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
-
 |  | Registerkontroll som endast<br>har tillfällig betydelse | Närarkiv | Digital/<br>Papper | Gallras vid<br>inaktualitet |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Psykologutlåtanden,<br>läkarutlåtanden,<br>polisregisterutdrag,<br>konsultationsdokument<br>skola | Combine | Digital | 5 år/Bevaras | Pappershandling skannas in till Combine och<br>gallras därefter. |
 | Besluta | Beslut i enskilt ärende om<br>bistånd och/eller insats<br>gällande<br>kontaktfamilj/kontaktperson<br>eller öppenvårdsinsats<br>intern/extern | Combine | Digital | 5 år/Bevaras |  |
 |  | Beslut i enskilt ärende om<br>bistånd och/eller insats<br>gällande familjehem eller<br>placering HVB | Combine | Digital | Bevaras |  |
@@ -936,11 +932,15 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Dom från förvaltningsrätten<br>eller kammarrätten | Combine | Digital | Bevaras | Gäller LVU |
 |  | Ordförandebeslut | Combine | Digital | Bevaras |  |
 
+<!-- sida 35 -->
+
+23
+
 <!-- sida 36 -->
 
 24
 
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
+[Tabell 36-37-1](handlingar.tabeller/36-37-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -958,26 +958,22 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Registerutdrag, som<br>utgör underlag för<br>beslut | Combine | Digital | 5 år/Bevaras |  |
 |  | Registerutdrag, som<br>ej utgör underlag<br>för beslut. |  |  | Gallras när det inte<br>längre behövs för<br>utredningen. |  |
 | Besluta | Medgivandebeslut | Combine | Digital | 5 år/Bevaras |  |
-
-<!-- sida 37 -->
-
-25
-
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
-
 |  | Avtal med<br>familjehem och<br>kontaktfamilj | Combine | Digital | 5 år/Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Beslut om förbud<br>mot att ta emot barn<br>i hemmet | Combine | Digital | 5 år/Bevaras |  |
 | Genomföra uppdrag | Ekonomiuppgifter<br>rörande ersättning | Combine/Närarkiv | Digital/<br>Papper | Gallras 7 år efter<br>det kalenderår då<br>räkenskapsåret<br>avslutades. | Underlag för ersättningar registreras i digital akt.<br>Underlag för utbetalningar/arvodering hanteras av<br>familjehemsenheten och gallras efter 7 år. |
 |  | Korrespondens med<br>familjehemmet | Combine | Digital | 5 år/Bevaras |  |
 | Följa upp och avsluta | Anteckningar från<br>uppföljningsmöte | Combine | Digital | 5 år/Bevaras |  |
 |  | Anteckning om att<br>avsluta ärendet | Combine | Digital | 5 år/Bevaras |  |
 
+<!-- sida 37 -->
+
+25
+
 <!-- sida 38 -->
 
 26
 
-[Tabell 38-1](handlingar.tabeller/38-1.csv)
+[Tabell 38-39-1](handlingar.tabeller/38-39-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -995,22 +991,18 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Registerutdrag, som utgör<br>underlag för beslut | Combine | Digital | 5 år/Bevaras |  |
 |  | Registerutdrag, som ej utgör<br>underlag för beslut |  |  | Gallras när det inte<br>längre behövs för<br>utredningen. |  |
 | Genomföra | Blankett för<br>ekonomiuträkning | Combine | Digital | Gallras 7 år efter<br>det kalenderår då<br>räkenskapsåret<br>avslutades. | Innehåller arvodesnivåer och uppdragets omfattning |
+| Följa upp och avsluta | Mötesanteckningar | Combine | Digital | 5 år/Bevaras |  |
+|  | Avslut i ärende | Combine | Digital | 5 år/Bevaras | Journalanteckning |
 
 <!-- sida 39 -->
 
 27
 
-[Tabell 39-1](handlingar.tabeller/39-1.csv)
-
-| Följa upp och avsluta | Mötesanteckningar | Combine | Digital | 5 år/Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Avslut i ärende | Combine | Digital | 5 år/Bevaras | Journalanteckning |
-
 <!-- sida 40 -->
 
 28
 
-[Tabell 40-1](handlingar.tabeller/40-1.csv)
+[Tabell 40-41-1](handlingar.tabeller/40-41-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1027,16 +1019,12 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Förteckning över<br>barn som vistas i<br>familjehem eller<br>annat enskilt hem | Combine | Digital | Bevaras | Socialnämnden ska föra en förteckning över de<br>barn som enligt nämndens beslut vistas i<br>familjehem eller annat enskilt hem. Senast 31<br>januari varje år ska förteckningen redovisas för<br>IVO (7 kap 1§ Socialtjänstförordningen) |
 | Avsluta | Beslut om att avsluta<br>vårdinsats | Combine | Digital | Bevaras | Omprövning sker var 6:e månad (LVU) |
 |  | Dokumentation från<br>utförare, journaler<br>över placerade barn. | Combine | Digital | Bevaras | Personakt i enskild verksamhet som avser barn som<br>har placerats eller tagits emot i boende enligt 8 kap<br>11§ Socialtjänstlagen, ska överlämnas för |
+|  |  |  |  |  | bevarande till den socialnämnd som har beslutat om<br>insatsen, enligt avtal. Gäller HVB.<br>Familjehem och jourhem för inte journal. |
+|  | Överflyttning av<br>ärende till annan<br>kommun | Ciceron | Digital | Bevaras | Se process 6.0.1.6 |
 
 <!-- sida 41 -->
 
 29
-
-[Tabell 41-1](handlingar.tabeller/41-1.csv)
-
-|  |  |  |  |  | bevarande till den socialnämnd som har beslutat om<br>insatsen, enligt avtal. Gäller HVB.<br>Familjehem och jourhem för inte journal. |
-| --- | --- | --- | --- | --- | --- |
-|  | Överflyttning av<br>ärende till annan<br>kommun | Ciceron | Digital | Bevaras | Se process 6.0.1.6 |
 
 <!-- sida 42 -->
 
@@ -1101,7 +1089,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 33
 
-[Tabell 45-1](handlingar.tabeller/45-1.csv)
+[Tabell 45-48-1](handlingar.tabeller/45-48-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1116,27 +1104,11 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Orosanmälningar –<br>som inte leder till<br>utredning, där<br>personakt finns. | Combine | Digital | 5 år/Bevaras | Pappershandling skannas in till Combine och<br>gallras därefter. |
 |  | Orosanmälningar –<br>som inte leder till<br>utredning, där<br>personakt inte<br>finns. | Combine | Digital | Gallras 2 år efter<br>inkommen anmälan | Läggs in i kronologisk pärm i Combine. Se process<br>6.2.1.1 |
 |  | Orosanmälningar –<br>som leder till<br>utredning | Combine | Digital | 5 år/Bevaras | Pappershandling skannas in till Combine och<br>gallras därefter. |
-
-<!-- sida 46 -->
-
-34
-
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
-
 |  | Meddelanden<br>rörande<br>hyresskulder,<br>avhysningar,<br>bostadsstörningar,<br>där personakt<br>finns. | Combine | Digital | 5 år/Bevaras | Pappershandling skannas in till Combine och<br>gallras därefter. |
-| --- | --- | --- | --- | --- | --- |
 |  | Meddelanden<br>rörande<br>hyresskulder,<br>avhysningar,<br>bostadsstörningar,<br>där personakt inte<br>finns. | Combine | Digital | Gallras 2 år efter<br>inkommen handling | Pappershandling skannas in till kronologisk pärm i<br>Combine och gallras därefter. Se process 6.2.1.1 |
 |  | Meddelande enligt<br>lag om<br>omhändertagande<br>av berusade<br>personer, LOB.<br>SMADIT, Beslut<br>om kontaktförbud<br>där personakt<br>finns. | Combine | Digital | 5 år/Bevaras | Pappershandling skannas in till Combine och<br>gallras därefter. |
 |  | Meddelande enligt<br>lag om<br>omhändertagande<br>av berusade<br>personer, LOB.<br>SMADIT, Beslut<br>om kontaktförbud<br>där personakt inte<br>finns. | Combine | Digital | Gallras 2 år efter<br>inkommen handling | Pappershandling skannas in till kronologisk pärm i<br>Combine och gallras därefter. Se process 6.2.1.1. |
-
-<!-- sida 47 -->
-
-35
-
-[Tabell 47-1](handlingar.tabeller/47-1.csv)
-
 |  | Journalanteckningar | Combine | Digital | 5 år/Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Beslut om att inleda<br>utredning enligt<br>LVM | Combine | Digital | 5 år/Bevaras | LVM § 7 |
 | Utreda | Utredning enligt<br>SoL | Combine | Digital | 5 år/Bevaras |  |
 |  | Utredning enligt<br>LVM | Combine | Digital | 5 år/Bevaras |  |
@@ -1148,17 +1120,21 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Utredning med<br>förslag till beslut<br>om ansökan LVM | Combine | Digital | 5 år/Bevaras |  |
 |  | Beslut om ansökan<br>om vård enligt<br>LVM | Combine | Digital | 5 år/Bevaras |  |
 |  | Protokollsutdrag<br>från utskottet | Combine | Digital | 5 år/Bevaras |  |
+|  | Kallelse till<br>förhandling | Combine | Digital | 5 år/Bevaras | Avser LVM |
+|  | Dom från<br>förvaltningsrätten,<br>kammarrätten | Combine | Digital | 5 år/Bevaras | Avser LVM |
+|  | Ordförandebeslut | Combine | Digital | 5 år/Bevaras | Avser LVM |
+
+<!-- sida 46 -->
+
+34
+
+<!-- sida 47 -->
+
+35
 
 <!-- sida 48 -->
 
 36
-
-[Tabell 48-1](handlingar.tabeller/48-1.csv)
-
-|  | Kallelse till<br>förhandling | Combine | Digital | 5 år/Bevaras | Avser LVM |
-| --- | --- | --- | --- | --- | --- |
-|  | Dom från<br>förvaltningsrätten,<br>kammarrätten | Combine | Digital | 5 år/Bevaras | Avser LVM |
-|  | Ordförandebeslut | Combine | Digital | 5 år/Bevaras | Avser LVM |
 
 <!-- sida 49 -->
 
@@ -1188,7 +1164,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 38
 
-[Tabell 50-1](handlingar.tabeller/50-1.csv)
+[Tabell 50-51-1](handlingar.tabeller/50-51-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1206,15 +1182,6 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 | Avsluta | Slutrapport/<br>daganteckning från<br>avslutad placering | Combine | Digital | 5 år/Bevaras |  |
 |  | Meddelande från<br>SiS institution om<br>att vården har<br>upphört | Combine | Digital | 5 år/Bevaras | Avser LVM |
 |  | Beslut om att<br>avsluta vårdinsats | Combine | Digital | 5 år/Bevaras | Anteckning i Combine |
-
-<!-- sida 51 -->
-
-39
-
-[Tabell 51-1](handlingar.tabeller/51-1.csv)
-
-| Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Verksamhetsområde: | Vård och omsorg |  |  |  |  |
 | Processgrupp: | Insatser för vuxna |  |  |  |  |
 | Process: | Utreda kontaktperson för vuxna |  |  |  |  |
@@ -1231,6 +1198,10 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 | Genomföra | Blankett för<br>ekonomiuträkning | Combine | Digital | 5 år/Bevaras |  |
 | Följa upp och avsluta | Mötesanteckningar | Combine | Digital | 5 år/Bevaras |  |
 |  | Avslut i ärende | Combine | Digital | 5 år/Bevaras |  |
+
+<!-- sida 51 -->
+
+39
 
 <!-- sida 52 -->
 
@@ -1254,7 +1225,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 41
 
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
+[Tabell 53-54-1](handlingar.tabeller/53-54-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1270,15 +1241,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Inkommen, utgående<br>eller upprättad<br>handling av tillfällig<br>betydelse för ärendet<br>och/eller av<br>rutinmässig karaktär | Combine | Digital | Gallras när det inte<br>längre behövs för<br>utredningen |  |
 |  | Registerkontroll, som<br>utgör underlag för<br>beslut | Combine | Digital | 5 år/Bevaras | Registerkontroller med tillfällig betydelse, kan<br>gallras vid inaktualitet. Pappersoriginal skannas in i<br>Combine och gallras därefter. |
 |  | Fullmakt | Combine/Närarkiv | Digital/<br>papper | 5 år/Bevaras | Bevaras både digitalt och på papper. |
-
-<!-- sida 54 -->
-
-42
-
-[Tabell 54-1](handlingar.tabeller/54-1.csv)
-
 |  | Anmälan och beslut<br>om<br>ställföreträdare/ombud | Combine | Digital | 5 år/Bevaras | Pappersoriginal skannas in i Combine och gallras<br>därefter. |
-| --- | --- | --- | --- | --- | --- |
 |  | Meddelande om<br>utskrivning från sluten<br>vård | Combine/Närarkiv | Digital/<br>papper | Gallras vid<br>inaktualitet |  |
 |  | Kopia av räkning från<br>läkare, laboratorier,<br>HVB, institutioner<br>m.m. | Närarkiv | Digital | Gallras efter 2 år | Undersökningar utförda på uppdrag av<br>socialtjänsten. |
 |  | Ärendeblad,<br>journalblad,<br>journalanteckningar | Combine | Digital | 5 år/Bevaras |  |
@@ -1291,11 +1254,15 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Överklagande med<br>bilagor | Combine | Digital | 5 år/Bevaras | Pappersoriginal skannas in i Combine och gallras<br>därefter. |
 | Avsluta | Anteckning om avslut<br>av ärende/ insats | Combine | Digital | 5 år/Bevaras |  |
 
+<!-- sida 54 -->
+
+42
+
 <!-- sida 55 -->
 
 43
 
-[Tabell 55-1](handlingar.tabeller/55-1.csv)
+[Tabell 55-57-1](handlingar.tabeller/55-57-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1314,15 +1281,6 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Ankomstsamtal,<br>inskolningssamtal | Combine | Digital | 5 år/Bevaras | Läggs in i journalanteckning |
 |  | Kopia av<br>anteckningar från<br>annan kommun | Combine | Digital | Se anmärkning | Relevant dokumentation tillförs personakt. Övrigt<br>gallras när det inte längre behövs för verksamheten. |
 |  | Korrespondens av<br>vikt med brukare,<br>närstående,<br>ställföreträdare,<br>ombud | Combine | Digital | 5 år/Bevaras |  |
-
-<!-- sida 56 -->
-
-44
-
-[Tabell 56-1](handlingar.tabeller/56-1.csv)
-
-| Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Verksamhetsområde: | Vård och omsorg |  |  |  |  |
 | Processgrupp: | Insatser för personer med funktionsnedsättning |  |  |  |  |
 | Process: | Hantera avlösarservice i hemmet |  |  |  |  |
@@ -1336,15 +1294,6 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 |  | Löpande<br>arbetsanteckning | Samarbetsrum | Digital | Se anmärkning | Relevant dokumentation tillförs personakt i<br>Combine. Övrigt gallras när det inte längre behövs<br>för verksamheten. Inga personuppgifter får<br>förekomma i samarbetsrum. |
 |  | Kopia av<br>anteckningar från<br>annan kommun | Combine | Digital | Se anmärkning | Relevanta anteckningar tillförs personakt. Övrigt<br>gallras när det inte längre behövs för verksamheten. |
 |  | Korrespondens av<br>vikt med brukare,<br>närstående,<br>ställföreträdare,<br>ombud | Combine | Digital | 5 år/Bevaras |  |
-
-<!-- sida 57 -->
-
-45
-
-[Tabell 57-1](handlingar.tabeller/57-1.csv)
-
-| Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Verksamhetsområde: | Vård och omsorg |  |  |  |  |
 | Processgrupp: | Insatser för personer med funktionsnedsättning |  |  |  |  |
 | Process: | Hantera kontaktperson |  |  |  |  |
@@ -1354,6 +1303,14 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 | Genomföra insats | Avtal | Mellanarkiv | Digital | 5 år/Bevaras | Mellanarkiv refererar till e-arkivet |
 |  | Löpande<br>arbetsanteckningar | Samarbetsrum | Digital | Se anmärkning | Relevant dokumentation sammanfattas i personakt.<br>Övrigt gallras när det inte längre behövs för<br>verksamheten. Inga personuppgifter får förekomma<br>i samarbetsrum. |
 | Avsluta | Beslut om att<br>avsluta insats | Combine | Digital | 5 år/Bevaras |  |
+
+<!-- sida 56 -->
+
+44
+
+<!-- sida 57 -->
+
+45
 
 <!-- sida 58 -->
 
@@ -1508,7 +1465,7 @@ landsting
 
 55
 
-[Tabell 67-1](handlingar.tabeller/67-1.csv)
+[Tabell 67-68-1](handlingar.tabeller/67-68-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1525,15 +1482,7 @@ landsting
 |  | Uppgift om fadern | Combine/Närarkiv | Digital/<br>papper | Bevaras | Formulär som modern/ föräldrarna skickar in, så<br>kallat babybrev. |
 | Utreda | Journalanteckning | Combine/Närarkiv | Digital/<br>papper | Bevaras |  |
 |  | Protokoll, underlag<br>och utredning | Combine/Närarkiv | Digital/<br>papper | Bevaras | MF- eller S-protokoll, Ä-protokoll, FÖRprotokoll |
-
-<!-- sida 68 -->
-
-56
-
-[Tabell 68-1](handlingar.tabeller/68-1.csv)
-
 |  | Faderskapsbekräftelse | Combine/Närarkiv | Digital/<br>papper | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Anmälan om<br>gemensam vårdnad | Combine/Närarkiv | Digital/<br>papper | Bevaras |  |
 |  | Handling i<br>rättsgenetiska och<br>rättskemiska<br>undersökningar | Combine/Närarkiv | Digital/<br>papper | Bevaras | Vid beslut om undersökning |
 |  | Handling i ärende<br>rörande hävande av<br>faderskap eller<br>föräldraskap | Combine/Närarkiv | Digital/<br>papper | Bevaras |  |
@@ -1546,11 +1495,15 @@ landsting
 | Besluta | Beslut om<br>nedläggning av<br>faderskaps- och<br>föräldraskapsutredning | Combine/Närarkiv | Digital/<br>papper | Bevaras |  |
 |  | Dom/ beslut | Combine/Närarkiv | Digital/<br>papper | Bevaras |  |
 
+<!-- sida 68 -->
+
+56
+
 <!-- sida 69 -->
 
 57
 
-[Tabell 69-1](handlingar.tabeller/69-1.csv)
+[Tabell 69-70-1](handlingar.tabeller/69-70-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1568,15 +1521,7 @@ landsting
 |  | Medgivande till<br>socialnämnden att<br>hämta uppgifter ur<br>andra register,<br>sekretesseftergift | Combine/Närarkiv | Digital/<br>papper | Gallras när det inte<br>längre behövs för<br>ärendet. |  |
 |  | Anmälan om<br>förslag på barn | Combine/Närarkiv | Digital/<br>papper | Bevaras |  |
 |  | Samtycke med<br>bilagor | Combine/Närarkiv | Digital/<br>papper | Bevaras |  |
-
-<!-- sida 70 -->
-
-58
-
-[Tabell 70-1](handlingar.tabeller/70-1.csv)
-
 |  | Utredning | Combine/Närarkiv | Digital/<br>papper | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Handling rörande<br>barnets ursprung | Combine/Närarkiv | Digital/<br>papper | Bevaras |  |
 |  | Referenser | Combine/Närarkiv | Digital/<br>papper | Bevaras |  |
 |  | Yttrande | Combine/Närarkiv | Digital/<br>papper | Bevaras | Från socialnämnd till tingsrätt, från Nämnden<br>för internationella adoptioner, från Socialstyrelsens<br>rättsliga råd, från behandlande läkare. |
@@ -1589,6 +1534,10 @@ landsting
 |  | Överklagande, med<br>bilagor | Combine/Närarkiv | Digital/<br>papper | Bevaras |  |
 |  | Förvaltningsrättens<br>dom | Combine/Närarkiv | Digital/<br>papper | Bevaras |  |
 |  | Inkomna, utgående<br>och/eller upprättade<br>handlingar av<br>betydelse för<br>ärendet | Combine/Närarkiv | Digital/<br>papper | Bevaras |  |
+
+<!-- sida 70 -->
+
+58
 
 <!-- sida 71 -->
 
@@ -1606,7 +1555,7 @@ karaktär
 
 60
 
-[Tabell 72-1](handlingar.tabeller/72-1.csv)
+[Tabell 72-73-1](handlingar.tabeller/72-73-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1622,15 +1571,7 @@ karaktär
 |  | Ansökan om<br>godkännande av<br>avtal | Combine/Närarkiv | Digital/<br>papper | 5 år/Bevaras |  |
 |  | Begäran från<br>tingsrätten om<br>utredning och<br>yttranden | Combine/Närarkiv | Digital/<br>papper | 5 år/Bevaras | T.ex. upplysningar |
 |  | Remiss från<br>tingsrätten om<br>samarbetssamtal | Combine/Närarkiv | Digital/<br>papper | 5 år/Bevaras |  |
-
-<!-- sida 73 -->
-
-61
-
-[Tabell 73-1](handlingar.tabeller/73-1.csv)
-
 | Utreda | Begäran om<br>umgängesstöd | Combine/Närarkiv | Digital/<br>papper | 5 år/Bevaras | Från tingsrätten |
-| --- | --- | --- | --- | --- | --- |
 |  | Personbevis | Combine/Närarkiv | Digital/<br>papper | 5 år/Bevaras |  |
 |  | Journalanteckning | Combine/Närarkiv | Digital/<br>papper | 5 år/Bevaras |  |
 |  | Korrespondens | Combine/Närarkiv | Digital/<br>papper | 5 år/Bevaras |  |
@@ -1641,6 +1582,10 @@ karaktär
 |  | Av socialnämnden<br>godkänt avtal om<br>vårdnad, boende,<br>umgänge | Combine/Närarkiv | Digital/<br>papper | Se anmärkning | Avtalet gallras efter att barnet har fyllt 18 år, om<br>det inte tillhör undantagen födda den 5:e, 15:e eller<br>25:e i varje månad. |
 |  | Avtalsärende med<br>av socialnämnd ej<br>godkänt avtal om<br>vårdnad, boende,<br>umgänge | Combine/Närarkiv | Digital/<br>papper | 5 år/Bevaras |  |
 | Avsluta | Meddelande till<br>Skatteverket, CSN<br>samt<br>Försäkringskassan<br>om godkänt avtal | Combine/Närarkiv | Digital/<br>papper | 5 år/Bevaras |  |
+
+<!-- sida 73 -->
+
+61
 
 <!-- sida 74 -->
 
@@ -1736,7 +1681,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 | 6.0.2.1 | Hantera styrdokument | Avser styrdokument som inte tas inom ramen för Kungsbackas styrmodell, utan verkar<br>styrande inom den egna kärnverksamheten. |
 | 6.0.3 | Organisera |  |
 
-[Tabell 79-2](handlingar.tabeller/79-2.csv)
+[Tabell 79-80-2](handlingar.tabeller/79-80-2.csv)
 
 | 6.0.3.6 | Hantera loggar | Avser loggar till verksamhetssystemet Combine. |
 | --- | --- | --- |
@@ -1746,19 +1691,15 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 | 6.1.1 | Hantera inrapporterade händelser |  |
 | 6.1.1.1 | Hantera brister i verksamheten inom hälso- och<br>sjukvården | Avser läkemedel, fall, vård och behandling samt rehabilitering |
 | 6.1.1.2 | Hantera brister i verksamheten inom socialtjänsten | Avser sociala och organisatoriska brister |
+| 6.1.1.3 | Hantera brist i vårdkedja | Avser händelser mellan förvaltningens verksamhet och andra vårdgivare |
+| 6.1.1.4 | Hantera klagomål, beröm, förslag till förbättringar och<br>övriga synpunkter | • Ta emot klagomål, beröm, förslag, synpunkt<br>• Lämna svar på klagomål, beröm, förslag, synpunkt<br>Inkomna klagomål/beröm samt svar på dessa från enskilda ska även dokumenteras i<br>den enskildes akt. |
+| 6.1.2 | Hantera anmälningar |  |
 
 <!-- sida 80 -->
 
 3
 
-[Tabell 80-1](handlingar.tabeller/80-1.csv)
-
-| 6.1.1.3 | Hantera brist i vårdkedja | Avser händelser mellan förvaltningens verksamhet och andra vårdgivare |
-| --- | --- | --- |
-| 6.1.1.4 | Hantera klagomål, beröm, förslag till förbättringar och<br>övriga synpunkter | • Ta emot klagomål, beröm, förslag, synpunkt<br>• Lämna svar på klagomål, beröm, förslag, synpunkt<br>Inkomna klagomål/beröm samt svar på dessa från enskilda ska även dokumenteras i<br>den enskildes akt. |
-| 6.1.2 | Hantera anmälningar |  |
-
-[Tabell 80-2](handlingar.tabeller/80-2.csv)
+[Tabell 80-84-1](handlingar.tabeller/80-84-1.csv)
 
 | 6.1.2.1 | Hantera anmälningar enligt lex Sarah | Avser anmälningar, rapporter och utredningar enligt bestämmelser om lex Sarah 5 kap.<br>3 §, 27 kap. 2-6 § och 17 kap. 10 § Socialtjänstlagen. Lex Sarah är ett samlingsnamn<br>för skyldigheter för den som bedriver verksamhet inom socialtjänsten (SoL) och lagen<br>om stöd och service till vissa funktionshindrade (LSS) att anmäla allvarliga<br>missförhållanden eller risker för det. |
 | --- | --- | --- |
@@ -1766,51 +1707,35 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 | 6.1.2.6 | Hantera anmälningar enligt lex Maja | Lex Maja innebär att en person verksam inom vård och omsorg utan hinder av<br>sekretess får anmäla till polisen eller länsstyrelsen om de upptäcker ett djur som blivit<br>vanvårdat hos en vårdtagare. Regleras i 10 kap. 20 a § offentlighets- och<br>sekretesslagen och djurskyddslagen. |
 | 6.2 | Verksamhetsnära administration |  |
 | 6.2.1 | Administrera Individ & Familjeomsorg |  |
+| 6.2.1.1 | Hantera administration inom Individ & Familjeomsorg | Avser aktiviteter utanför individärende, dvs. administration som inte berör<br>personakten. Exempel är upprättande av placeringsavtal, hantering av underlag för<br>assistansersättning, besiktning av bostäder som tillhandahålls av socialtjänsten med<br>mera. |
+| 6.3 | Insatser för barn och ungdomar |  |
+| 6.3.1 | Hantera insatser för barn och ungdomar |  |
+| 6.3.1.1 | Hantera ansökan eller anmälan, utreda och fatta beslut<br>om insatser för barn och ungdomar | Innefattar insatser för enskilda och dokumenteras i personakt/ individärende. Vid<br>ansökan eller anmälan inleds en förhandsbedömning som avslutas med ett beslut om<br>en utredning ska inledas. Om en utredning inleds lämnas ärendet över till handläggare<br>på berörd enhet som utreder behov av och rätt till insatser. Exempel på insatser inom<br>Individ & Familjeomsorg är familjerådgivning, barnboende, missbruksvård,<br>kontaktpersoner, kontaktfamilj med mera. Efter beslut utformar handläggare uppdraget<br>till utföraren. Utföraren planerar och genomför därefter beskrivet uppdrag. Ansvarig<br>handläggare följer upp ärendet så att den enskilde får den beviljade insatsen utförd<br>enligt beslut och att uppdraget följer den planering och de fastställda mål som har<br>gjorts. Förändrade omständigheter och händelser av betydelse kan ge upphov till en ny<br>aktualisering som startar ny process.<br>Ansvarig för ärendet är handläggaren som registrerar upprättade, inkomna och<br>utgående handlingar i verksamhetssystem. |
+| 6.3.1.2 | Utreda enskilt hem, familjehem eller jourhem | När barn och ungdomar inte kan bo kvar hemma av olika skäl finns familjehem och<br>jourhem som kan ta emot ett barn för en längre eller kortare tid. Ansvarig för ärendet är<br>handläggaren som registrerar upprättade, inkomna och utgående handlingar i<br>verksamhetssystem.<br>• Hantera ansökningar<br>• Utreda hem<br>• Besluta<br>• Genomföra uppdrag<br>• Följa upp och avsluta |
+| 6.3.1.3 | Utreda kontaktfamilj eller kontaktperson | Socialnämnden kan utse en särskild person eller en familj med uppgift att hjälpa den<br>enskilde och dennes närmaste i personliga angelägenheter, om den enskilde begär eller<br>samtycker till det. Kontaktpersonen ska fungera som ett personligt stöd och hjälpa till<br>på olika sätt.<br>Regleras enligt 13 kap. 7 § och 21 kap. 2 § Socialtjänstlagen. Ansvarig för ärendet är<br>handläggaren som registrerar upprättade, inkomna och utgående handlingar i<br>verksamhetssystem.<br>• Hantera ansökningar<br>• Utreda och besluta<br>• Genomföra<br>• Följa upp och avsluta |
+| 6.3.1.4 | Placera barn i HVB, familjehem eller jourhem | När barn och ungdomar av olika skäl inte kan bo hos sina föräldrar, kan ofta släktingar<br>eller andra närstående bli familjehem för barnet. Om det inte finns släktingar eller<br>andra närstående eller om dessa inte är lämpliga, kan eller vill ta hand om barnet kan<br>barnet flytta till ett familjehem som socialtjänsten rekryterar. Ofta ger föräldrarna sitt<br>samtycke, men det förekommer också att socialnämnden beslutar att placera ett barn<br>mot föräldrarnas vilja enligt lag med särskilda bestämmelser om vård av barn och unga<br>(LVU). I akuta fall kan barnet flytta till ett jourhem. Jourhem är en placering i väntan<br>på familjehemsplacering. Vård på HVB-hem (Hem för vård eller boende) är en form av<br>social dygnsvård som bedriver behandling, omvårdnad, stöd eller fostran och inrättas<br>för barn, unga, vuxna eller barnfamiljer. Insatsen kan vara frivillig efter beslut enligt<br>socialtjänstlagen eller ske som ett omhändertagande enligt LVU.<br>• Utforma uppdrag<br>• Genomföra uppdrag<br>• Följa upp<br>• Avsluta |
+| 6.3.1.5 | Besluta om kvalificerad kontaktfamilj eller<br>kontaktperson | Kan ges både enligt socialtjänstlagen (SoL) och lag med särskilda bestämmelser om<br>vård av barn och unga (LVU). Kvalificerad kontaktperson enligt LVU utses utan<br>samtycke från den enskilde. Vård enligt LVU kan beslutas av olika skäl bl.a. om den<br>unge utsätter sin hälsa eller utveckling för en påtaglig risk att skadas genom missbruk<br>av beroendeframkallande medel, brottslig verksamhet eller något annat socialt<br>nedbrytande beteende (3 § första stycket LVU). Socialnämnden kan under vissa<br>förutsättningar besluta om förebyggande insatser, t.ex. att den unge ska hålla<br>regelbunden kontakt med en särskilt kvalificerad kontaktperson som socialnämnden<br>utsett (22 § LVU). Det gäller om det kan antas att den som är under 20 år till följd av<br>ett beteende som avses i 3 § LVU kommer att behöva beredas vård enligt LVU om<br>beteendet fortsätter och det stöd eller den behandling som den unge behöver inte kan<br>ges med samtycke av den unge själv, om den unge fyllt 15 år, och av den unges<br>vårdnadshavare. Kontaktpersonen följer hur den unges levnadssätt utvecklas och<br>medverkar till att bygga upp motivation hos den unge att bearbeta sin situation.<br>• Utforma uppdrag<br>• Genomföra uppdrag<br>• Följa upp<br>• Avsluta |
+| 6.3.1.6 | Bedriva familjerådgivning | Familjerådgivning finns för den som vill prata om olika familjefrågor och är icke<br>biståndsbedömt. Processen omfattas av dokumentationsskyldighet med undantag för<br>personuppgifter, enligt 14 kap. 4 § Socialtjänstlagen. |
+| 6.3.1.7 | Tillhandahålla påföljd; ungdomstjänst eller<br>samhällstjänst | Den som är under tjugoett år och som begått brott kan av tingsrätten dömas till<br>ungdomstjänst om påföljden är lämplig. Den som är över arton år får dömas till<br>ungdomstjänst endast om det finns särskilda skäl för det. Regleras i brottsbalken kap<br>30, kap 32.<br>• Aktualisera<br>• Genomföra uppdrag<br>• Följa upp<br>• Avsluta |
+| 6.4 | Insatser för vuxna |  |
+| 6.4.1 | Hantera insatser för vuxna |  |
+| 6.4.1.1 | Hantera ansökan eller anmälan, utreda och fatta beslut<br>om insatser för vuxna | Innefattar insatser för enskilda och dokumenteras i personakt/individärende. Vid<br>ansökan eller anmälan inleds en förhandsbedömning som avslutas med ett beslut om<br>en utredning ska inledas. Om en utredning inleds lämnas ärendet över till handläggare<br>på berörd enhet som utreder behov av och rätt till insatser. Exempel på insatser inom<br>Individ & Familjeomsorg är familjerådgivning, barnboende, missbruksvård,<br>kontaktpersoner, kontaktfamilj med mera. Efter beslut utformar handläggare uppdraget<br>till utföraren. Utföraren planerar och genomför därefter beskrivet uppdrag. Ansvarig<br>handläggare följer upp ärendet så att den enskilde får den beviljade insatsen utförd<br>enligt beslut och att uppdraget följer den planering och de fastställda mål som har<br>gjorts. Förändrade omständigheter och händelser av betydelse kan ge upphov till en ny<br>aktualisering som startar ny process.<br>Ansvarig för ärendet är handläggaren som registrerar upprättade, inkomna och<br>utgående handlingar i verksamhetssystem.<br>• Aktualisera<br>• Utreda<br>• Besluta |
 
 <!-- sida 81 -->
 
 4
 
-[Tabell 81-1](handlingar.tabeller/81-1.csv)
-
-| 6.2.1.1 | Hantera administration inom Individ & Familjeomsorg | Avser aktiviteter utanför individärende, dvs. administration som inte berör<br>personakten. Exempel är upprättande av placeringsavtal, hantering av underlag för<br>assistansersättning, besiktning av bostäder som tillhandahålls av socialtjänsten med<br>mera. |
-| --- | --- | --- |
-| 6.3 | Insatser för barn och ungdomar |  |
-| 6.3.1 | Hantera insatser för barn och ungdomar |  |
-| 6.3.1.1 | Hantera ansökan eller anmälan, utreda och fatta beslut<br>om insatser för barn och ungdomar | Innefattar insatser för enskilda och dokumenteras i personakt/ individärende. Vid<br>ansökan eller anmälan inleds en förhandsbedömning som avslutas med ett beslut om<br>en utredning ska inledas. Om en utredning inleds lämnas ärendet över till handläggare<br>på berörd enhet som utreder behov av och rätt till insatser. Exempel på insatser inom<br>Individ & Familjeomsorg är familjerådgivning, barnboende, missbruksvård,<br>kontaktpersoner, kontaktfamilj med mera. Efter beslut utformar handläggare uppdraget<br>till utföraren. Utföraren planerar och genomför därefter beskrivet uppdrag. Ansvarig<br>handläggare följer upp ärendet så att den enskilde får den beviljade insatsen utförd<br>enligt beslut och att uppdraget följer den planering och de fastställda mål som har<br>gjorts. Förändrade omständigheter och händelser av betydelse kan ge upphov till en ny<br>aktualisering som startar ny process.<br>Ansvarig för ärendet är handläggaren som registrerar upprättade, inkomna och<br>utgående handlingar i verksamhetssystem. |
-| 6.3.1.2 | Utreda enskilt hem, familjehem eller jourhem | När barn och ungdomar inte kan bo kvar hemma av olika skäl finns familjehem och<br>jourhem som kan ta emot ett barn för en längre eller kortare tid. Ansvarig för ärendet är<br>handläggaren som registrerar upprättade, inkomna och utgående handlingar i<br>verksamhetssystem.<br>• Hantera ansökningar<br>• Utreda hem<br>• Besluta<br>• Genomföra uppdrag<br>• Följa upp och avsluta |
-
 <!-- sida 82 -->
 
 5
-
-[Tabell 82-1](handlingar.tabeller/82-1.csv)
-
-| 6.3.1.3 | Utreda kontaktfamilj eller kontaktperson | Socialnämnden kan utse en särskild person eller en familj med uppgift att hjälpa den<br>enskilde och dennes närmaste i personliga angelägenheter, om den enskilde begär eller<br>samtycker till det. Kontaktpersonen ska fungera som ett personligt stöd och hjälpa till<br>på olika sätt.<br>Regleras enligt 13 kap. 7 § och 21 kap. 2 § Socialtjänstlagen. Ansvarig för ärendet är<br>handläggaren som registrerar upprättade, inkomna och utgående handlingar i<br>verksamhetssystem.<br>• Hantera ansökningar<br>• Utreda och besluta<br>• Genomföra<br>• Följa upp och avsluta |
-| --- | --- | --- |
-| 6.3.1.4 | Placera barn i HVB, familjehem eller jourhem | När barn och ungdomar av olika skäl inte kan bo hos sina föräldrar, kan ofta släktingar<br>eller andra närstående bli familjehem för barnet. Om det inte finns släktingar eller<br>andra närstående eller om dessa inte är lämpliga, kan eller vill ta hand om barnet kan<br>barnet flytta till ett familjehem som socialtjänsten rekryterar. Ofta ger föräldrarna sitt<br>samtycke, men det förekommer också att socialnämnden beslutar att placera ett barn<br>mot föräldrarnas vilja enligt lag med särskilda bestämmelser om vård av barn och unga<br>(LVU). I akuta fall kan barnet flytta till ett jourhem. Jourhem är en placering i väntan<br>på familjehemsplacering. Vård på HVB-hem (Hem för vård eller boende) är en form av<br>social dygnsvård som bedriver behandling, omvårdnad, stöd eller fostran och inrättas<br>för barn, unga, vuxna eller barnfamiljer. Insatsen kan vara frivillig efter beslut enligt<br>socialtjänstlagen eller ske som ett omhändertagande enligt LVU.<br>• Utforma uppdrag<br>• Genomföra uppdrag<br>• Följa upp<br>• Avsluta |
 
 <!-- sida 83 -->
 
 6
 
-[Tabell 83-1](handlingar.tabeller/83-1.csv)
-
-| 6.3.1.5 | Besluta om kvalificerad kontaktfamilj eller<br>kontaktperson | Kan ges både enligt socialtjänstlagen (SoL) och lag med särskilda bestämmelser om<br>vård av barn och unga (LVU). Kvalificerad kontaktperson enligt LVU utses utan<br>samtycke från den enskilde. Vård enligt LVU kan beslutas av olika skäl bl.a. om den<br>unge utsätter sin hälsa eller utveckling för en påtaglig risk att skadas genom missbruk<br>av beroendeframkallande medel, brottslig verksamhet eller något annat socialt<br>nedbrytande beteende (3 § första stycket LVU). Socialnämnden kan under vissa<br>förutsättningar besluta om förebyggande insatser, t.ex. att den unge ska hålla<br>regelbunden kontakt med en särskilt kvalificerad kontaktperson som socialnämnden<br>utsett (22 § LVU). Det gäller om det kan antas att den som är under 20 år till följd av<br>ett beteende som avses i 3 § LVU kommer att behöva beredas vård enligt LVU om<br>beteendet fortsätter och det stöd eller den behandling som den unge behöver inte kan<br>ges med samtycke av den unge själv, om den unge fyllt 15 år, och av den unges<br>vårdnadshavare. Kontaktpersonen följer hur den unges levnadssätt utvecklas och<br>medverkar till att bygga upp motivation hos den unge att bearbeta sin situation.<br>• Utforma uppdrag<br>• Genomföra uppdrag<br>• Följa upp<br>• Avsluta |
-| --- | --- | --- |
-| 6.3.1.6 | Bedriva familjerådgivning | Familjerådgivning finns för den som vill prata om olika familjefrågor och är icke<br>biståndsbedömt. Processen omfattas av dokumentationsskyldighet med undantag för<br>personuppgifter, enligt 14 kap. 4 § Socialtjänstlagen. |
-| 6.3.1.7 | Tillhandahålla påföljd; ungdomstjänst eller<br>samhällstjänst | Den som är under tjugoett år och som begått brott kan av tingsrätten dömas till<br>ungdomstjänst om påföljden är lämplig. Den som är över arton år får dömas till<br>ungdomstjänst endast om det finns särskilda skäl för det. Regleras i brottsbalken kap<br>30, kap 32.<br>• Aktualisera<br>• Genomföra uppdrag<br>• Följa upp<br>• Avsluta |
-
 <!-- sida 84 -->
 
 7
-
-[Tabell 84-1](handlingar.tabeller/84-1.csv)
-
-| 6.4 | Insatser för vuxna |  |
-| --- | --- | --- |
-| 6.4.1 | Hantera insatser för vuxna |  |
-| 6.4.1.1 | Hantera ansökan eller anmälan, utreda och fatta beslut<br>om insatser för vuxna | Innefattar insatser för enskilda och dokumenteras i personakt/individärende. Vid<br>ansökan eller anmälan inleds en förhandsbedömning som avslutas med ett beslut om<br>en utredning ska inledas. Om en utredning inleds lämnas ärendet över till handläggare<br>på berörd enhet som utreder behov av och rätt till insatser. Exempel på insatser inom<br>Individ & Familjeomsorg är familjerådgivning, barnboende, missbruksvård,<br>kontaktpersoner, kontaktfamilj med mera. Efter beslut utformar handläggare uppdraget<br>till utföraren. Utföraren planerar och genomför därefter beskrivet uppdrag. Ansvarig<br>handläggare följer upp ärendet så att den enskilde får den beviljade insatsen utförd<br>enligt beslut och att uppdraget följer den planering och de fastställda mål som har<br>gjorts. Förändrade omständigheter och händelser av betydelse kan ge upphov till en ny<br>aktualisering som startar ny process.<br>Ansvarig för ärendet är handläggaren som registrerar upprättade, inkomna och<br>utgående handlingar i verksamhetssystem.<br>• Aktualisera<br>• Utreda<br>• Besluta |
 
 <!-- sida 85 -->
 
@@ -1836,13 +1761,17 @@ verksamhetssystem.
 
 9
 
-[Tabell 86-1](handlingar.tabeller/86-1.csv)
+[Tabell 86-87-1](handlingar.tabeller/86-87-1.csv)
 
 | 6.4.1.5 | Tillhandahålla kontaktperson för vuxna | Insats enl. 13 kap. 7 § SoL efter begäran om och/eller samtycke från den enskilde. Se<br>även 6.4.1.1 Hantera ansökan eller anmälan, utreda och fatta beslut. Processen avser<br>kontaktpersonakten som hanteras av familjehemsenheten. Ansvarig för ärendet är<br>handläggaren som registrerar upprättade, inkomna och utgående handlingar i<br>verksamhetssystem. |
 | --- | --- | --- |
 | 6.5 | Insatser för personer med<br>funktionsnedsättning |  |
 | 6.5.1 | Hantera myndighetsutövning i<br>individärenden rörande personer med<br>funktionsnedsättning |  |
 | 6.5.1.1 | Hantera ansökan eller anmälan, utreda och fatta beslut<br>enligt socialtjänstlagen eller lag om stöd och service till<br>vissa funktionshindrade | Omsorgen om funktionshindrade omfattar insatser enligt både SoL och LSS. De<br>insatser som beviljas rör personlig assistans, ledsagarservice, kontaktpersonsbiträde,<br>avlösarservice i hemmet, korttidsvistelse, korttidstillsyn, boende i familjehem, bostad<br>med särskild service samt daglig verksamhet. Ansvarig för ärendet är handläggaren<br>som registrerar upprättade, inkomna och utgående handlingar i verksamhetssystem.<br>• Aktualisera<br>• Utreda<br>• Besluta<br>• Avsluta |
+| 6.5.2 | Genomföra insatser efter beslut |  |
+| 6.5.2.6 | Hantera korttidsvistelse | Till korttidsvistelse räknas korttidshem, lägerverksamhet och stödfamilj. Insatserna<br>syftar till att ge avlastning för anhöriga, miljöombyte och social stimulans för personer<br>med funktionsnedsättning.<br>Ansvarig för ärendet är handläggaren som registrerar upprättade, inkomna och<br>utgående handlingar i verksamhetssystem. |
+| 6.5.2.7 | Hantera avlösarservice i hemmet | Riktar sig till personer som tillhör personkrets enligt LSS och där närstående behöver<br>stöd i vardagen.Insatsen ger anhöriga tid för återhämtning, egna aktiviteter eller tid<br>med andra familjemedlemmar.<br>Socialsekreteraren ansvarar för att avsluta ärenden och för att all information finns<br>digitalt i verksamhetssytem. |
+| 6.5.2.8 | Hantera kontaktperson | Insats enligt 13 kap 7 § SoL efter begäran om och/eller samtycke från den enskilde. Se<br>även 6.3.1.5 Besluta om kvalificerad kontaktfamilj eller kontaktperson, för mer<br>information.<br>Socialsekreteraren ansvarar för att avsluta ärenden och för att all information finns<br>digitalt i verksamhetsystem. |
 
 <!-- sida 87 -->
 
@@ -1855,19 +1784,11 @@ digitalt i verksamhetssystem.
 
 10
 
-[Tabell 87-1](handlingar.tabeller/87-1.csv)
-
-| 6.5.2 | Genomföra insatser efter beslut |  |
-| --- | --- | --- |
-| 6.5.2.6 | Hantera korttidsvistelse | Till korttidsvistelse räknas korttidshem, lägerverksamhet och stödfamilj. Insatserna<br>syftar till att ge avlastning för anhöriga, miljöombyte och social stimulans för personer<br>med funktionsnedsättning.<br>Ansvarig för ärendet är handläggaren som registrerar upprättade, inkomna och<br>utgående handlingar i verksamhetssystem. |
-| 6.5.2.7 | Hantera avlösarservice i hemmet | Riktar sig till personer som tillhör personkrets enligt LSS och där närstående behöver<br>stöd i vardagen.Insatsen ger anhöriga tid för återhämtning, egna aktiviteter eller tid<br>med andra familjemedlemmar.<br>Socialsekreteraren ansvarar för att avsluta ärenden och för att all information finns<br>digitalt i verksamhetssytem. |
-| 6.5.2.8 | Hantera kontaktperson | Insats enligt 13 kap 7 § SoL efter begäran om och/eller samtycke från den enskilde. Se<br>även 6.3.1.5 Besluta om kvalificerad kontaktfamilj eller kontaktperson, för mer<br>information.<br>Socialsekreteraren ansvarar för att avsluta ärenden och för att all information finns<br>digitalt i verksamhetsystem. |
-
 <!-- sida 88 -->
 
 11
 
-[Tabell 88-1](handlingar.tabeller/88-1.csv)
+[Tabell 88-89-1](handlingar.tabeller/88-89-1.csv)
 
 | 6.5.2.10 | Hantera personlig assistans | Personer som har en varaktig funktionsnedsättning kan ha rätt till personlig assistans,<br>vilket innebär ett stöd i vardagen för att klara grundläggande behov och att<br>kommunicera med andra. |
 | --- | --- | --- |
@@ -1875,6 +1796,11 @@ digitalt i verksamhetssystem.
 | 6.5.2.12 | Hantera daglig verksamhet | Daglig verksamhet är en insats enligt LSS. Daglig verksamhet ska ge en meningsfull<br>arbetsdag och stödja personlig utveckling samt delaktighet i samhället. Ansökan sker<br>enligt process 6.5.1.1.<br>Socialsekreteraren ansvarar för att avsluta ärenden och för att all information finns<br>digitalt i verksamhetssystem. |
 | 6.5.2.13 | Hantera boendestöd | Boendestöd vänder sig till personer som bor i egen bostad och har behov av stöd i<br>vardagen. Insatsen är inte enbart begränsad till hemmet utan ska stötta den enskildes<br>utveckling och vardagsliv.<br>Socialsekreteraren ansvarar för att avsluta ärenden och för att all information finns<br>digitalt i verksamhetssystem. |
 | 6.5.3 | Genomföra öppna insatser |  |
+| 6.5.3.1 | Hantera sysselsättning psykiatri | Daglig sysselsättning ges utan individuell behovsprövning. Den enskilde tar kontakten<br>med verksamheten. |
+| 6.5.4 | Genomföra anhörigstöd |  |
+| 6.5.4.1 | Ge stöd till anhöriga | Reglereras i Socialtjänstlagen 13 kap. 9 §<br>Stöd till anhöriga ges utan individuell behovsprövning. |
+| 6.7 | Familjerätt |  |
+| 6.7.1 | Handlägga faderskaps- och<br>föräldraskapsärenden |  |
 
 <!-- sida 89 -->
 
@@ -1895,20 +1821,11 @@ exempel då befruktningen skett på annat sätt än på ett svenskt sjukhus.
 
 12
 
-[Tabell 89-1](handlingar.tabeller/89-1.csv)
-
-| 6.5.3.1 | Hantera sysselsättning psykiatri | Daglig sysselsättning ges utan individuell behovsprövning. Den enskilde tar kontakten<br>med verksamheten. |
-| --- | --- | --- |
-| 6.5.4 | Genomföra anhörigstöd |  |
-| 6.5.4.1 | Ge stöd till anhöriga | Reglereras i Socialtjänstlagen 13 kap. 9 §<br>Stöd till anhöriga ges utan individuell behovsprövning. |
-| 6.7 | Familjerätt |  |
-| 6.7.1 | Handlägga faderskaps- och<br>föräldraskapsärenden |  |
-
 <!-- sida 90 -->
 
 13
 
-[Tabell 90-1](handlingar.tabeller/90-1.csv)
+[Tabell 90-91-1](handlingar.tabeller/90-91-1.csv)
 
 |  |  | • Besluta |
 | --- | --- | --- |
@@ -1916,18 +1833,14 @@ exempel då befruktningen skett på annat sätt än på ett svenskt sjukhus.
 | 6.7.2.1 | Handlägga adoptionsärenden | Beslut om adoption fattas av tingsrätten efter att den inhämtat upplysningar om barnet<br>och sökanden m.m. från socialnämnden i hemkommunen för den/de som ansöker om<br>adoption. Dokumentationen i enskilda ärenden förvaras i personakt.<br>• Aktualisera<br>• Utreda<br>• Besluta |
 | 6.7.3 | Handlägga vårdnad- boende-<br>umgängesärenden |  |
 | 6.7.3.1 | Utreda vårdnad, boende och umgänge | Familjerätten utreder frågor om vårdnad, boende och umgänge. Föräldrar som vid<br>skilsmässa eller separation inte kommer överens i frågor om vårdnad, boende och<br>umgänge kan delta i samarbetssamtal. Initiativet kan komma från föräldrarna själva<br>eller från tingsrätten. Föräldrar som är överens och vill upprätta avtal om vårdnad,<br>boende och umgänge kan vända sig till familjerätten. Om uppgörelsen bedöms vara<br>bra för barnet godkänns avtalet. Ett godkänt avtal får samma verkan som en dom.<br>• Aktualisera<br>• Utreda<br>• Besluta<br>• Avsluta |
+| 6.7.4 | Handlägga namnärenden |  |
+| 6.7.4.1 | Handlägga namnärenden | Familjerätten utreder vilket efternamn som ett barn ska ha, i de fall då föräldrarna är<br>oense om det. Utifrån denna utredning beslutar sedan tingsrätten vilket efternamn<br>barnet ska ha.<br>• Hantera begäran om utredning<br>• Utreda<br>• Lämna yttrande |
 
 <!-- sida 91 -->
 
 14
 
 [Tabell 91-1](handlingar.tabeller/91-1.csv)
-
-| 6.7.4 | Handlägga namnärenden |  |
-| --- | --- | --- |
-| 6.7.4.1 | Handlägga namnärenden | Familjerätten utreder vilket efternamn som ett barn ska ha, i de fall då föräldrarna är<br>oense om det. Utifrån denna utredning beslutar sedan tingsrätten vilket efternamn<br>barnet ska ha.<br>• Hantera begäran om utredning<br>• Utreda<br>• Lämna yttrande |
-
-[Tabell 91-2](handlingar.tabeller/91-2.csv)
 
 |  |  | • Avsluta |
 | --- | --- | --- |

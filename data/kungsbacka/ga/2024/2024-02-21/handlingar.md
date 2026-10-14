@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.69662c5a18d8755e10815e6f/1708009281
 sha256: 4ebc4dc10205b328041eea896a23ed8f78193deb2ad5b48e3a1092e294f18d8d
 bytes: 4748833
 sidor: 151
-hamtad: 2026-10-07T22:09:53+00:00
-konverterad: 2026-10-07T22:10:19+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T06:25:16+00:00
+konverterad: 2026-10-14T06:25:40+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [53]
+figurer: [53, 61, 67, 129, 132, 148, 150, 151]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -413,8 +413,9 @@ budgeten.
 
 [Tabell 12-1](handlingar.tabeller/12-1.csv)
 
-| Utfall (miljoner kronor)<br>Intäkter | Utfall 2021<br>181,5 | Utfall 2022<br>174,6 | Utfall 2023<br>171,2 |
+| Utfall (miljoner kronor) | Utfall 2021 | Utfall 2022 | Utfall 2023 |
 | --- | --- | --- | --- |
+| Intäkter | 181,5 | 174,6 | 171,2 |
 | Kostnader | -721,8 | -737,5 | -761,2 |
 | Netto | -540,3 | -562,9 | -590,0 |
 | Budget, netto | -567,7 | -588,7 | -603,3 |
@@ -422,8 +423,9 @@ budgeten.
 
 [Tabell 12-2](handlingar.tabeller/12-2.csv)
 
-| Utfall (miljoner kronor)<br>Utgifter | Utfall 2021<br>-5,6 | Utfall 2022<br>-5,9 | Utfall 2023<br>-6,3 |
+| Utfall (miljoner kronor) | Utfall 2021 | Utfall 2022 | Utfall 2023 |
 | --- | --- | --- | --- |
+| Utgifter | -5,6 | -5,9 | -6,3 |
 | Inkomster |  |  |  |
 | Netto | -5,6 | -5,9 | -6,3 |
 
@@ -1782,10 +1784,12 @@ uppföljningen av det systematiska arbetsmiljöarbetet.
 
 [Tabell 38-1](handlingar.tabeller/38-1.csv)
 
-| Namn<br>Riskobservation | 2021<br>11 | 2022<br>16 | 2023<br>15 |
+| Namn | 2021 | 2022 | 2023 |
 | --- | --- | --- | --- |
+| Riskobservation | 11 | 16 | 15 |
 | Tillbud | 99 | 122 | 154 |
-| Olycksfall<br>Total | 15<br>125 | 27<br>165 | 31<br>200 |
+| Olycksfall | 15 | 27 | 31 |
+| Total | 125 | 165 | 200 |
 
 <!-- sida 39 -->
 
@@ -2057,8 +2061,9 @@ Utbildning på gymnasial nivå redovisar ett överskott på 5,6 mkr. Detta beror
 
 [Tabell 43-1](handlingar.tabeller/43-1.csv)
 
-| Uppföljningsnivå (belopp i<br>mnkr)<br>Gemensam verksamhet | Bokslut<br>2022<br>-35,4 | Budget<br>2023<br>-42,7 | Bokslut<br>2023<br>-38,5 | Budgetavvikelse<br>2023<br>4,2 |
+| Uppföljningsnivå (belopp i<br>mnkr) | Bokslut<br>2022 | Budget<br>2023 | Bokslut<br>2023 | Budgetavvikelse<br>2023 |
 | --- | --- | --- | --- | --- |
+| Gemensam verksamhet | -35,4 | -42,7 | -38,5 | 4,2 |
 | Gymnasieverksamhet | -428,8 | -450,1 | -463,1 | -13,0 |
 | Vuxenutbildning | -24,3 | -30,6 | -24,5 | 6,1 |
 | Arbetsmarknad | -18,1 | -18,9 | -16,8 | 2,1 |
@@ -2168,7 +2173,7 @@ Investeringar (belopp mnkr)
 
 36
 
-[Tabell 45-1](handlingar.tabeller/45-1.csv)
+[Tabell 45-46-1](handlingar.tabeller/45-46-1.csv)
 
 | (Belopp i mnkr) | Bokslut<br>2022 | Budget<br>2023 | Bokslut<br>2023 | Avvikelse<br>2023 |
 | --- | --- | --- | --- | --- |
@@ -2177,6 +2182,12 @@ Investeringar (belopp mnkr)
 | Övriga investeringar - Utgifter | -5,9 | -6,3 | -6,3 | 0,0 |
 | Finansiell leasing - Utgifter |  |  |  |  |
 | Utgifter för reinvesteringar etc. |  |  |  |  |
+| Summa investeringsutgifter | -5,9 | -6,3 | -6,3 | 0,0 |
+| INVESTERINGSINKOMSTER |  |  |  |  |
+| Avgiftsfinansierad verksamhet -<br>Anslutningsavgifter |  |  |  |  |
+| Övriga investeringar - Statliga<br>investeringsbidrag |  |  |  |  |
+| Summa investeringsinkomster |  |  |  |  |
+| Summa nettoinvesteringar | -5,9 | -6,3 | -6,3 | 0,0 |
 
 <!-- sida 46 -->
 
@@ -2195,16 +2206,6 @@ Kommentarer
 37
 
 [Tabell 46-1](handlingar.tabeller/46-1.csv)
-
-| Summa investeringsutgifter | -5,9 | -6,3 | -6,3 | 0,0 |
-| --- | --- | --- | --- | --- |
-| INVESTERINGSINKOMSTER |  |  |  |  |
-| Avgiftsfinansierad verksamhet -<br>Anslutningsavgifter |  |  |  |  |
-| Övriga investeringar - Statliga<br>investeringsbidrag |  |  |  |  |
-| Summa investeringsinkomster |  |  |  |  |
-| Summa nettoinvesteringar | -5,9 | -6,3 | -6,3 | 0,0 |
-
-[Tabell 46-2](handlingar.tabeller/46-2.csv)
 
 | Pro<br>jnr | Text | Totalbud<br>get | Totalpro<br>gnos | Utfall<br>totalt tom<br>dec 2023 | Budget<br>2023 | Bokslut<br>2023 | Avvikels<br>e 2023 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3005,6 +3006,9 @@ Med privata utförare avses utförare som har hand om skötseln av en kommunal a
 privat utförare räknas inte hel- eller delägda kommunala bolag, eller stiftelse eller förening som bildats av
 kommunen eller regionen.
 
+Verksamhet             Andel av verksamhetsvolym % Kostnad för verksamhet mnkr
+Bokslut 2022 Bokslut 2023 Bokslut 2022 Bokslut 2023
+
 Vuxnas lärande genomför kontinuerlig uppföljning av de privata utbildningsleverantörerna. Detta görs i form av
 avvikelserapportering, begäran om dokumentation m.m. Ett större granskningsarbete görs vartannat år. Arbetet
 innefattar granskningsmöten med skolledning, lärare och administrativ personal. I granskningen analyserades
@@ -3019,7 +3023,7 @@ som behöver åtgärdas under kommande år.
 
 [Tabell 67-1](handlingar.tabeller/67-1.csv)
 
-| Verksamhet<br>Gymnasieverksamhet | Andel av verksamhetsvolym %<br>Bokslut 2022 Bokslut 2023<br>21,6 22,6 |  | Kostnad för verksamhet mnkr<br>Bokslut 2022 Bokslut 2023<br>-91 245 -89 199 |  |
+| Gymnasieverksamhet | 21,6 | 22,6 | -91 245 | -89 199 |
 | --- | --- | --- | --- | --- |
 | Gymnasial vuxenutbildning | 85,9 | 91,5 | -16 319 | -16 876 |
 | Svenska för invandrare | 100 | 100 | -8 119 | -7 987 |
@@ -3145,7 +3149,7 @@ Nämndens självskattning
 
 16
 
-[Tabell 71-1](handlingar.tabeller/71-1.csv)
+[Tabell 71-72-1](handlingar.tabeller/71-72-1.csv)
 
 | Område<br>Uppdrag och mål | Frågor Svar, Antal 2023<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
 | --- | --- |
@@ -3160,18 +3164,7 @@ Nämndens självskattning
 |  | Vi har analyserat var risker för<br>ekonomiska oegentligheter ligger i<br>ersättningssystem och betalningsrutiner |
 |  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
 | Riskanalys | Riskanalysen kommuniceras med<br>nämnden |
-
-<!-- sida 72 -->
-
-Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
-Uppföljningsrapport intern kontroll 2023
-
-17
-
-[Tabell 72-1](handlingar.tabeller/72-1.csv)
-
 | Område | Frågor Svar, Antal 2023<br>Riskanalysen är underlag för åtgärder och<br>granskningar |
-| --- | --- |
 | Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
 |  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs<br>och leder till förbättringar |
 | Uppföljning | Åtgärder vidtas vid konstaterade<br>avvikelser |
@@ -3179,6 +3172,13 @@ Uppföljningsrapport intern kontroll 2023
 |  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
 | Information/kommunikation | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
 |  | Vi har en fungerande introduktion av nya<br>medarbetare |
+
+<!-- sida 72 -->
+
+Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
+Uppföljningsrapport intern kontroll 2023
+
+17
 
 <!-- sida 73 -->
 

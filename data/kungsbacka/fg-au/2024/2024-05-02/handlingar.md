@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.509c10ba18f0f738b09bb84/17143687032
 sha256: 3e1b82f669a5843a89d75d5454f629d85611168f8fe663489373ea977af7887d
 bytes: 6755205
 sidor: 45
-hamtad: 2026-10-07T23:21:10+00:00
-konverterad: 2026-10-07T23:21:26+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T07:26:38+00:00
+konverterad: 2026-10-14T07:26:50+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [38]
-figurer: null
-tolkade: null
+figurer: [9, 20, 21, 22, 38, 39]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -727,19 +727,33 @@ Nedan framgår en översikt över de konsekvensbedömningar som gjorts i kommune
 och där jag lämnat råd. Inom parentes anges vilken del av kommunens verksamhet som gjort
 konsekvensbedömningen:
 
+Gjorda konsekvensbedömningar där lämnat råd
+2021                 2022                 2023
+
+Integrationsplattform (SE) Kontors- och samarbetsverktyg (KS) Stöd vid separationer (IF)
+
+Mitt Arkiv (KS)                          Specialkost (SE)
+Ansökan om stipendium – e-tjänst
+(GA)
+
+E-tjänsteplattform (KS) Gästnätverk (SE) Stöd för automatisering av
+arbets- och beslutsprocesser (KS)
+
+Kompletterande                           Dokumentation vid
+kamerabevakning/digital tillsyn Chattverktyg på kommunens disciplinärenden (KS)
+(VO/IF)            hemsida (KS)
+
+Bedömningsstöd inom Hantering av         Automatiserat avslut av
+gymnasieskolan (GA) användarbehörigheter (SE) personakter (SE)
+
+Färdtjänst – e-tjänst (TE)               Analys- och planeringsstöd inom
+Rapportering av missförhållanden socialtjänsten (IF)
+(visselblåsarfunktion) (KS)
+
+Ekonomiskt bistånd – e-tjänst            Säker posthantering
+(GA)               Digitalt stöd inom LSS (IF) (digital/fysisk) (KS)
+
 10
-
-[Tabell 18-1](handlingar.tabeller/18-1.csv)
-
-| Gjorda konsekvensbedömningar där lämnat råd<br>2021 2022 2023 |  |  |
-| --- | --- | --- |
-| Integrationsplattform (SE) | Kontors- och samarbetsverktyg (KS) | Stöd vid separationer (IF) |
-| Mitt Arkiv (KS) | Ansökan om stipendium – e-tjänst<br>(GA) | Specialkost (SE) |
-| E-tjänsteplattform (KS) | Gästnätverk (SE) | Stöd för automatisering av<br>arbets- och beslutsprocesser (KS) |
-| Kompletterande<br>kamerabevakning/digital tillsyn<br>(VO/IF) | Chattverktyg på kommunens<br>hemsida (KS) | Dokumentation vid<br>disciplinärenden (KS) |
-| Bedömningsstöd inom<br>gymnasieskolan (GA) | Hantering av<br>användarbehörigheter (SE) | Automatiserat avslut av<br>personakter (SE) |
-| Färdtjänst – e-tjänst (TE) | Rapportering av missförhållanden<br>(visselblåsarfunktion) (KS) | Analys- och planeringsstöd inom<br>socialtjänsten (IF) |
-| Ekonomiskt bistånd – e-tjänst<br>(GA) | Digitalt stöd inom LSS (IF) | Säker posthantering<br>(digital/fysisk) (KS) |
 
 <!-- sida 19 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.29b6b674197348ce3476502d/1749132508
 sha256: 0f098f071a779d612c789530e4ea4a9644e5a10ee9a152ca87812b5b02110514
 bytes: 4491786
 sidor: 87
-hamtad: 2026-10-08T07:42:21+00:00
-konverterad: 2026-10-08T07:42:36+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:39:02+00:00
+konverterad: 2026-10-14T10:39:14+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+tal_obekraftade: [84]
+figurer: [35, 37, 41, 42, 44, 50, 51, 55, 58, 63, 69]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -3773,7 +3773,7 @@ Diarienr. Förening    Bidragstyp                   Utbet.dat Belopp
 15864 Kulturarrangör Kulturföreningar/ Enskilda kulturprojekt 2025-05-21 22 000,00
 15861 Lerkils IF   Kultur &Fritid/ Särskilt stöd 2025-05-21 14 880,00
 15863 Teater Våg   Kulturföreningar/ Enskilda kulturprojekt 2025-05-21 22 602,00
-15865 Varla IBK    Barn och ungdomsföreningar/ Lokalt aktivitetsstö2d0 225-05-21 33 682,00
+15865 Varla IBK    Barn och ungdomsföreningar/ Lokalt aktivitetsstö2d0225-05-21 33 682,00
 15862 Kulturarrangör Kulturföreningar/ Enskilda kulturprojekt 2025-05-21 5 000,00
 
 Varla IBK har fått förskottsutbetalt delar av sitt

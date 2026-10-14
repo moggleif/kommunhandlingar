@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.3ae5986a198e623c951d7f33/1756709837
 sha256: 65f2e4f98cc7a51b2bf3f0ef49f6e47a2cb7e0f1119dc7da3e99d1e1253dc4e0
 bytes: 20778777
 sidor: 30
-hamtad: 2026-10-07T23:27:20+00:00
-konverterad: 2026-10-07T23:27:57+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T07:32:04+00:00
+konverterad: 2026-10-14T07:32:41+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok]
-tal_obekraftade: [27]
-figurer: null
-tolkade: null
+tal_obekraftade: [10, 27]
+figurer: [5, 8, 10, 21, 22, 23, 24]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -510,7 +510,7 @@ eleverna i ordinarie lovskola.
 
 Här kommer en tabell med resultat per ämne och vilken skola eleven gick på:
 
-[Tabell 14-1](handlingar.tabeller/14-1.csv)
+[Tabell 14-15-1](handlingar.tabeller/14-15-1.csv)
 
 | Skola | Ämne | Betyg |
 | --- | --- | --- |
@@ -518,27 +518,7 @@ Här kommer en tabell med resultat per ämne och vilken skola eleven gick på:
 | Hålabäcksskolan B | Matte | E |
 | Hålabäcksskolan B | Sva | E |
 | Hålabäcksskolan B | Sva | E |
-
-<!-- sida 15 -->
-
-KUNGSBACKA  KOMMUN
-3 (3)
-
-Beslutsunderlag
-Kvalitet & Utveckling, tjänsteskrivelse daterad 2025-08-28
-
-Beslutet skickas till
-
-Informationsärende nämnden Förskola & grundskola
-
-Stigert Pettersson            Håkan Kollberg Winsnes
-
-Förvaltningschef              Utvecklingsledare
-
-[Tabell 15-1](handlingar.tabeller/15-1.csv)
-
 | Kapareskolan A-D | Bild | E |
-| --- | --- | --- |
 | Kapareskolan A-D | Hkk | E |
 | Kapareskolan A-D | Matematik | E |
 | Kapareskolan A-D | Svenska | E |
@@ -565,6 +545,22 @@ Förvaltningschef              Utvecklingsledare
 | Åsaskolan 7-9FI | Matte | E |
 | Åsaskolan 7-9FI | Matte | E |
 | Åsaskolan 7-9FI | Matte | E |
+
+<!-- sida 15 -->
+
+KUNGSBACKA  KOMMUN
+3 (3)
+
+Beslutsunderlag
+Kvalitet & Utveckling, tjänsteskrivelse daterad 2025-08-28
+
+Beslutet skickas till
+
+Informationsärende nämnden Förskola & grundskola
+
+Stigert Pettersson            Håkan Kollberg Winsnes
+
+Förvaltningschef              Utvecklingsledare
 
 <!-- sida 16 -->
 

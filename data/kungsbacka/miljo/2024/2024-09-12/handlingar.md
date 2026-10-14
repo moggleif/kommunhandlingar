@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.23870fdf191974160e8146f3/1725884372
 sha256: a0d06abcf1fe5bf72394aeb96c62e06b297a1e15b261ab5b6f7ffcfcfa2afd03
 bytes: 3438486
 sidor: 98
-hamtad: 2026-10-08T08:03:12+00:00
-konverterad: 2026-10-08T08:03:33+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T10:58:39+00:00
+konverterad: 2026-10-14T10:58:58+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [30, 66, 69, 74, 75, 76, 77]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -910,18 +910,21 @@ Delårsrapport augusti 2024
 
 Utfall och prognos
 
+Bokslut Budget Prognos Budget-  Delår   Delår Avvikelse
+Miljoner kronor
+2023    2024   2024   avvikelse 2023   2024    delår
+Nämnden för Miljö
+-0,8    -1,0    -0,9    -0,1   -0,7    -0,5     0,2
+& Hälsoskydd
+Periodens
+-0,8    -1,0    -0,9    -0,1   -0,7    -0,5     0,2
+resultat
 Från och med 1 januari 2020 har nämnden för Miljö & Hälsoskydd endast budgetansvar för nämndens egen
 driftsbudget, 1,0 miljoner kronor. Prognosen per augusti visar att nämnden har en budget i balans för 2024 och
 väntas ha ett litet överskott om +0,1 miljoner kronor för helåret. Överskottet gäller budget för arvoden där
 utfallet är något lägre än väntat sammantaget för perioden januari till augusti.
 
 13
-
-[Tabell 20-1](handlingar.tabeller/20-1.csv)
-
-| Miljoner kronor<br>Nämnden för Miljö<br>& Hälsoskydd | Bokslut<br>2023<br>-0,8 | Budget<br>2024<br>-1,0 | Prognos<br>2024<br>-0,9 | Budget-<br>avvikelse<br>-0,1 | Delår<br>2023<br>-0,7 | Delår<br>2024<br>-0,5 | Avvikelse<br>delår<br>0,2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Periodens<br>resultat | -0,8 | -1,0 | -0,9 | -0,1 | -0,7 | -0,5 | 0,2 |
 
 <!-- sida 21 -->
 
@@ -3853,13 +3856,17 @@ Aktuellt forum för respektive digital tjänst eller system framgår i tabellen 
 nedan rekommenderas det att forumet genomförs med undantag för Avtalsuppföljning där Ja innebär att det
 är obligatoriskt.
 
-[Tabell 88-1](handlingar.tabeller/88-1.csv)
+[Tabell 88-89-1](handlingar.tabeller/88-89-1.csv)
 
 | Utvecklingsråd Användarforum Avstämningsmöte Leverantörsmöte Avtalsuppföljning Systemförvaltarforum |  |
 | --- | --- |
 | Publik tjänst | Nej Nej Vid behov Nej Nej Nej |
 | Myndighets-<br>tjänst | Nej Nej Vid behov Ja Nej Nej |
 | Kommersiella<br>tjänster | Nej Nej Vid behov Vid behov Nej Nej |
+| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
+| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
+| Plattform | Ja Ja Ja Ja Ja Ja |
+| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
 
 <!-- sida 89 -->
 
@@ -3908,14 +3915,6 @@ Förslag på agenda:
 •  Dialog om rutiner och arbetet med digital tjänst och system
 
 •  Erfarenhetsutbyte
-
-[Tabell 89-1](handlingar.tabeller/89-1.csv)
-
-| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
-| --- | --- |
-| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
-| Plattform | Ja Ja Ja Ja Ja Ja |
-| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
 
 <!-- sida 90 -->
 

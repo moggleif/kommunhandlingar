@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.18dce30518e5f9bec4744d/171101749068
 sha256: c8405ef645c21c70c84a9116d495186d36e84b29cc5e130877f6ac31eccf9af2
 bytes: 266497
 sidor: 20
-hamtad: 2026-10-08T07:53:58+00:00
-konverterad: 2026-10-08T07:54:05+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:49:22+00:00
+konverterad: 2026-10-14T10:49:29+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -354,7 +354,7 @@ upphävs med anledning att de har blivit inaktuella.
 
 Expedierat/bestyrkt
 
-[Tabell 10-1](protokoll.tabeller/10-1.csv)
+[Tabell 10-12-1](protokoll.tabeller/10-12-1.csv)
 
 | Dokumentnamn | Beslutande<br>paragraf<br>(ärendets<br>diarienummer) | Orsak till upphävning |
 | --- | --- | --- |
@@ -363,6 +363,14 @@ Expedierat/bestyrkt
 | Enhetliga regler för<br>avloppsföreningars<br>dispensansökningar -<br>Kompletteringar till Strategi<br>för prövning av enskilda<br>avlopp 2010 | MHN § 137/13<br>(MH 2013–<br>3877) | Komplettering till strategi<br>upphävdes inte i samband<br>med att ny övergripande<br>avloppsstrategi antogs av<br>nämnden år 2014. |
 | Revidering av avloppsstrategi<br>för Kungsbacka kommun -<br>Strategi för prövning av<br>enskilda avlopp | NMH § 98/14<br>(MH 2014–<br>1157) | Har sedan antagen strategi<br>tillkommit övergripande<br>vägledning från Havs- och<br>vattenmyndigheten (HaV)<br>som tillämpas i prövning. |
 | Tidsbegränsning vid förbud av<br>bristfälliga enskilda<br>avloppsanläggningar - Ändring<br>av Strategi för prövning av<br>enskilda avlopp | NMH § 73/15<br>(MH 2015–<br>1782) | Ej relevant när<br>huvudstrategin NMH § 98/14<br>hävs. |
+| Ändring i Avloppsstrategi<br>avseende acceptabel spolvolym<br>för vattentoalett till sluten tank<br>- Ändring av Strategi för<br>prövning av enskilda avlopp | NMH § 81/16<br>(MH 2016–<br>1958) | Ej relevant när<br>huvudstrategin NMH § 98/14<br>hävs. |
+| Hantering av<br>dispensansökningar från<br>förbud för enskild<br>avloppsanläggning samt tillsyn<br>och prövning av ansökningar<br>för nya avloppsanläggningar i<br>områden där fastigheter<br>planeras bli anslutna till<br>kommunalt avlopp 2024–2036 | NMH § 48/20<br>(MH 2020–<br>1181) | Riktlinjerna blir en rutin. Det<br>finns flera specialfall som<br>hade inneburit att strategin<br>hade behövt ändras och<br>kompletteras, nya<br>åtgärdsplaner tas fram av<br>Teknik löpande. Då vi är<br>deltagande i<br>planeringsarbetet hos<br>förvaltningen för Teknik för<br>bildande av nya<br>verksamhetsområden har vi<br>lyckats kommunicera med<br>”ett Kungsbacka” ut mot<br>kund utan att behöva hänvisa<br>till en antagen strategi. |
+| Strategi för prövning av små<br>avloppsanläggningar inom<br>Lygnerns vattenskyddsområde | MH § 59/17<br>(MH 2016–<br>2822) | Har sedan antagen strategi<br>tillkommit övergripande<br>vägledning från Havs- och<br>vattenmyndigheten (HaV)<br>som tillämpas i prövning.<br>Interna rutiner tas fram för<br>specialfallen där<br>vägledningen inte täcker upp,<br>exempelvis små avlopp inom<br>nya verksamhetsområden<br>inom vattenskyddsområdet. |
+| Kundkommunikationsstrategi | MH § 118/16<br>(MH 2016–<br>1910) | Strategin baseras på budget<br>för år 2017. Vi har en<br>förvaltningsövergripande<br>kommunikationsplan och<br>pågående projekt för kunder i<br>Lätt & Rätt. |
+| Policy för hantering av<br>byggnation inom områden med<br>planerad VA-sanering | MHN §75/99<br>(1999–0366<br>kommunarkivet) | Policyn är föråldrad. Tätt<br>samarbete med förvaltningen<br>för Teknik över hur nya<br>verksamhetsområden bildas<br>och vad som gäller för små<br>avlopp inom dessa områden. |
+| Strategi för nyckeltal | MH § 145/16<br>(MH 2016–<br>2916) | Strategin togs fram specifikt<br>för år 2016–2018. |
+| Strategi för strandskyddstillsyn | MH § 22/11<br>(MH 2011–<br>0192) | Har sedan antagen strategi<br>tillkommit övergripande<br>vägledning från<br>Länsstyrelsen samt<br>sammanslagningen av Bygg-<br>och miljöförvaltningen<br>ändrat arbetssättet. |
+| Strategi för utvecklingsarbete | MH § 190/16<br>(MH 2016–<br>3010) | Strategin togs fram specifikt<br>för år 2016–2017. |
 
 <!-- sida 11 -->
 
@@ -372,15 +380,6 @@ Datum
 2024-03-14
 
 Expedierat/bestyrkt
-
-[Tabell 11-1](protokoll.tabeller/11-1.csv)
-
-| Ändring i Avloppsstrategi<br>avseende acceptabel spolvolym<br>för vattentoalett till sluten tank<br>- Ändring av Strategi för<br>prövning av enskilda avlopp | NMH § 81/16<br>(MH 2016–<br>1958) | Ej relevant när<br>huvudstrategin NMH § 98/14<br>hävs. |
-| --- | --- | --- |
-| Hantering av<br>dispensansökningar från<br>förbud för enskild<br>avloppsanläggning samt tillsyn<br>och prövning av ansökningar<br>för nya avloppsanläggningar i<br>områden där fastigheter<br>planeras bli anslutna till<br>kommunalt avlopp 2024–2036 | NMH § 48/20<br>(MH 2020–<br>1181) | Riktlinjerna blir en rutin. Det<br>finns flera specialfall som<br>hade inneburit att strategin<br>hade behövt ändras och<br>kompletteras, nya<br>åtgärdsplaner tas fram av<br>Teknik löpande. Då vi är<br>deltagande i<br>planeringsarbetet hos<br>förvaltningen för Teknik för<br>bildande av nya<br>verksamhetsområden har vi<br>lyckats kommunicera med<br>”ett Kungsbacka” ut mot<br>kund utan att behöva hänvisa<br>till en antagen strategi. |
-| Strategi för prövning av små<br>avloppsanläggningar inom<br>Lygnerns vattenskyddsområde | MH § 59/17<br>(MH 2016–<br>2822) | Har sedan antagen strategi<br>tillkommit övergripande<br>vägledning från Havs- och<br>vattenmyndigheten (HaV)<br>som tillämpas i prövning.<br>Interna rutiner tas fram för<br>specialfallen där<br>vägledningen inte täcker upp,<br>exempelvis små avlopp inom<br>nya verksamhetsområden<br>inom vattenskyddsområdet. |
-| Kundkommunikationsstrategi | MH § 118/16<br>(MH 2016–<br>1910) | Strategin baseras på budget<br>för år 2017. Vi har en<br>förvaltningsövergripande<br>kommunikationsplan och<br>pågående projekt för kunder i<br>Lätt & Rätt. |
-| Policy för hantering av<br>byggnation inom områden med<br>planerad VA-sanering | MHN §75/99<br>(1999–0366<br>kommunarkivet) | Policyn är föråldrad. Tätt<br>samarbete med förvaltningen<br>för Teknik över hur nya<br>verksamhetsområden bildas<br>och vad som gäller för små<br>avlopp inom dessa områden. |
 
 <!-- sida 12 -->
 
@@ -421,13 +420,6 @@ Strategi för strandskyddstillsyn, MH 2011-02-08 § 22
 Strategi för utvecklingsarbete, MH 2016-12-12§ 190
 
 Expedierat/bestyrkt
-
-[Tabell 12-1](protokoll.tabeller/12-1.csv)
-
-| Strategi för nyckeltal | MH § 145/16<br>(MH 2016–<br>2916) | Strategin togs fram specifikt<br>för år 2016–2018. |
-| --- | --- | --- |
-| Strategi för strandskyddstillsyn | MH § 22/11<br>(MH 2011–<br>0192) | Har sedan antagen strategi<br>tillkommit övergripande<br>vägledning från<br>Länsstyrelsen samt<br>sammanslagningen av Bygg-<br>och miljöförvaltningen<br>ändrat arbetssättet. |
-| Strategi för utvecklingsarbete | MH § 190/16<br>(MH 2016–<br>3010) | Strategin togs fram specifikt<br>för år 2016–2017. |
 
 <!-- sida 13 -->
 

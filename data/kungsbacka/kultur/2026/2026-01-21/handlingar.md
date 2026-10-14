@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.45b391719bb98c9f252f75a/17684637103
 sha256: 1cbe4165d3c3928b5947bb1011a0fee9d18d25a9a879bff35010cc7a6d286e91
 bytes: 6893735
 sidor: 574
-hamtad: 2026-10-08T07:47:23+00:00
-konverterad: 2026-10-08T07:48:34+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:43:50+00:00
+konverterad: 2026-10-14T10:44:46+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [101]
+figurer: [26, 95, 97, 101, 103, 104, 106, 108, 110, 111, 305, 331, 412, 418]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -340,7 +340,7 @@ EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ - INDIKATORER
 
 7
 
-[Tabell 9-1](handlingar.tabeller/9-1.csv)
+[Tabell 9-10-1](handlingar.tabeller/9-10-1.csv)
 
 | Indikator | Utvärde<br>ra A, B,<br>C | Målsättning<br>2027<br>(öka/minsk<br>a) | Kommentar nya förslag |
 | --- | --- | --- | --- |
@@ -356,6 +356,9 @@ EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ - INDIKATORER
 | Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021 var<br>antalet 124 (KEMgroup PRO) |  |  |  |
 | Ekologisk status i Kungsbackafjorden (VISS) |  |  |  |
 | Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  |
+| Andelen återbrukade möbler |  |  |  |
+| Total debiterad vattenförbrukning fördelat på antal<br>anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  |
+| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn |  |  |  |
 
 <!-- sida 10 -->
 
@@ -370,13 +373,6 @@ BÄSTA FÖRETAGSKLIMATET I VÄSTSVERIGE - INDIKATORER
 
 [Tabell 10-1](handlingar.tabeller/10-1.csv)
 
-| Andelen återbrukade möbler |  |  |  |
-| --- | --- | --- | --- |
-| Total debiterad vattenförbrukning fördelat på antal<br>anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  |
-| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn |  |  |  |
-
-[Tabell 10-2](handlingar.tabeller/10-2.csv)
-
 | Förslag till nya fokusområden | Ta bort fokusområden |
 | --- | --- |
 | I Kungsbacka verkar vi för ett sammanhållet<br>samhälle genom ökad samverkan kommun,<br>civilsamhälle och näringsliv. |  |
@@ -384,7 +380,7 @@ BÄSTA FÖRETAGSKLIMATET I VÄSTSVERIGE - INDIKATORER
 |  |  |
 |  |  |
 
-[Tabell 10-3](handlingar.tabeller/10-3.csv)
+[Tabell 10-2](handlingar.tabeller/10-2.csv)
 
 | Indikator | Utvärde<br>ra A, B,<br>C | Målsättning<br>2027<br>(öka/minsk<br>a) | Kommentar nya förslag |
 | --- | --- | --- | --- |
@@ -438,12 +434,14 @@ ETT MEDSKAPANDE SAMHÄLLE OCH EN ÖPPEN ATTITYD - INDIKATORER
 |  |  |
 |  |  |
 
-[Tabell 11-4](handlingar.tabeller/11-4.csv)
+[Tabell 11-12-4](handlingar.tabeller/11-12-4.csv)
 
 | Indikator | Utvärde<br>ra A, B,<br>C | Målsättning<br>2027<br>(öka/minsk<br>a) | Kommentar nya förslag |
 | --- | --- | --- | --- |
 | Hållbart medarbetarengagemang, ett index för<br>medarbetarnas samlade uppfattning om<br>områdena motivation, ledarskap och styrning,<br>skala 1-100 enligt Medarbetarenkäten. Mätningen<br>görs vartannat år. |  |  |  |
 | Jämställdhetsindex, Jämix. Antal poäng av max<br>180. Jämix beräknas utifrån nio nyckeltal med<br>skala 1–20. |  |  |  |
+| Andelen aktiva i politiska partier |  |  |  |
+| Andelen aktiva i ideella föreningar |  |  |  |
 
 <!-- sida 12 -->
 
@@ -451,12 +449,6 @@ Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Underlag till Kommunbudget 2027
 
 10
-
-[Tabell 12-1](handlingar.tabeller/12-1.csv)
-
-| Andelen aktiva i politiska partier |  |  |  |
-| --- | --- | --- | --- |
-| Andelen aktiva i ideella föreningar |  |  |  |
 
 <!-- sida 13 -->
 
@@ -4177,35 +4169,6 @@ Registreringar i Jordbruksverkets Jordbruksverkets skattning
 anläggningsregister 2024 av anläggningar och hästar 2016
 Län       Anläggningar Hästar Anläggningar Hästar
 
-```osaker-tabell
-Blekinge    738      2 177   1 600    7 400
-Dalarna     1 395    4 283   3 100   18 800
-Gotland     627      2 570   1 300    5 900
-Gävleborg   1 309    4 639   3 400   11 700
-Halland     1 564    6 338   2 600   18 600
-Jämtland    668      2 136   1 200    7 000
-Jönköping   1 634    5 427   3 500   18 900
-Kalmar      1 314    4 439   2 700   14 700
-Kronoberg   994      3 135   2 500   13 800
-Norrbotten  575      2 081   1 300    5 700
-Skåne       4 568   18 200   9 000   58 100
-Stockholm   1 602   10 389   2 300   27 400
-Södermanland 1 137   4 934   1 700    8 400
-Uppsala     1 425    6 016   2 800   16 600
-Värmland    1 484    4 486   2 900   11 900
-Västerbotten 812     2 328   1 900    9 700
-Västernorrland 1 023 3 121   1 500    7 200
-Västmanland 863      3 866   1 700    9 900
-```
-
-Västra Götaland 5 255 18 783 9 500   56 400
-
-```osaker-tabell
-Örebro      1 146    4 080   2 500   11 900
-Östergötland 1 532   6 182   2 800   15 500
-Totalt     31 665  119 610  61 800   355 000
-```
-
 Källa: Jordbruksverket.
 
 2.6   Antalet hästföretag i Sverige är okänt
@@ -4218,6 +4181,32 @@ foderproduktion och bete på åker- eller naturbetesmark. Det finns
 Statistiska meddelanden JO 24 SM 1701.
 
 60
+
+[Tabell 93-1](handlingar.tabeller/93-1.csv)
+
+| Blekinge | 738 | 2 177 | 1 600 | 7 400 |
+| --- | --- | --- | --- | --- |
+| Dalarna | 1 395 | 4 283 | 3 100 | 18 800 |
+| Gotland | 627 | 2 570 | 1 300 | 5 900 |
+| Gävleborg | 1 309 | 4 639 | 3 400 | 11 700 |
+| Halland | 1 564 | 6 338 | 2 600 | 18 600 |
+| Jämtland | 668 | 2 136 | 1 200 | 7 000 |
+| Jönköping | 1 634 | 5 427 | 3 500 | 18 900 |
+| Kalmar | 1 314 | 4 439 | 2 700 | 14 700 |
+| Kronoberg | 994 | 3 135 | 2 500 | 13 800 |
+| Norrbotten | 575 | 2 081 | 1 300 | 5 700 |
+| Skåne | 4 568 | 18 200 | 9 000 | 58 100 |
+| Stockholm | 1 602 | 10 389 | 2 300 | 27 400 |
+| Södermanland | 1 137 | 4 934 | 1 700 | 8 400 |
+| Uppsala | 1 425 | 6 016 | 2 800 | 16 600 |
+| Värmland | 1 484 | 4 486 | 2 900 | 11 900 |
+| Västerbotten | 812 | 2 328 | 1 900 | 9 700 |
+| Västernorrland | 1 023 | 3 121 | 1 500 | 7 200 |
+| Västmanland | 863 | 3 866 | 1 700 | 9 900 |
+| Västra Götaland | 5 255 | 18 783 | 9 500 | 56 400 |
+| Örebro | 1 146 | 4 080 | 2 500 | 11 900 |
+| Östergötland | 1 532 | 6 182 | 2 800 | 15 500 |
+| Totalt | 31 665 | 119 610 | 61 800 | 355 000 |
 
 <!-- sida 94 -->
 
@@ -4393,36 +4382,6 @@ av Hushållningssällskapet Halland20
 Län     2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 Acku-
 mulerat
 
-```osaker-tabell
-Blekinge 10 4  11 3  11 6  8  12 10  7  82
-Dalarna 10  12 5  14 7  7  7   8 13 17  100
-Gotland  3  10 7  7  7  8  11  1  4  7  65
-```
-
-Gävleborg 2 12 12 23 20 15 17  8 28 15  152
-Halland 27  23 20 16 19 54 57 34 37 39  326
-Jämtland 16 13 3  6  12 16 10  9  6  4  95
-Jönköping 12 15 9 31 14 7  19 18 12 20  157
-
-```osaker-tabell
-Kalmar  10  20 13 12 11 10 29 34 30 16  185
-Kronoberg 5 13 12 9  9  21 15 10 17  6  117
-Norrbotten 4 10 10 5 6  2  2   0  4  4  47
-```
-
-Skåne   55  85 79 102 95 145 190 95 87 93 1 026
-Stockholm 25 98 71 57 52 65 51 65 48 48 580
-Södermanland 21 17 18 32 20 23 33 14 32 25 235
-Uppsala  1  14 9  13 15 9  29 16 20 26  152
-Värmland 13 13 12 14 14 18 16 13 16 11  140
-Västerbotten 9 18 10 7 12 10 11 9 2  3  91
-Västernorrland 11 23 26 28 22 18 31 15 18 8 200
-Västmanland 39 28 23 22 19 29 30 25 16 11 242
-Västra
-Götaland 64 79 102 86 92 84 101 68 75 81 832
-Örebro   4  7  8  17 21 28 16 11  7 16  135
-Östergötland 29 19 22 27 32 23 36 15 18 20 241
-Totalt  370 533 482 531 510 598 719 480 500 477 5 200
 Källa: Länsstyrelserna.
 
 2.7   Förprövning av djurstallar – en indikation
@@ -4436,6 +4395,33 @@ hållningen.
 20 Hushållningssällskapet Halland. C. Dyrendahl. 2025. Rapport till Hästutredningen LI 2024:05.
 
 65
+
+[Tabell 98-1](handlingar.tabeller/98-1.csv)
+
+| Blekinge | 10 | 4 | 11 | 3 | 11 | 6 | 8 | 12 | 10 | 7 | 82 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Dalarna | 10 | 12 | 5 | 14 | 7 | 7 | 7 | 8 | 13 | 17 | 100 |
+| Gotland | 3 | 10 | 7 | 7 | 7 | 8 | 11 | 1 | 4 | 7 | 65 |
+| Gävleborg | 2 | 12 | 12 | 23 | 20 | 15 | 17 | 8 | 28 | 15 | 152 |
+| Halland | 27 | 23 | 20 | 16 | 19 | 54 | 57 | 34 | 37 | 39 | 326 |
+| Jämtland | 16 | 13 | 3 | 6 | 12 | 16 | 10 | 9 | 6 | 4 | 95 |
+| Jönköping | 12 | 15 | 9 | 31 | 14 | 7 | 19 | 18 | 12 | 20 | 157 |
+| Kalmar | 10 | 20 | 13 | 12 | 11 | 10 | 29 | 34 | 30 | 16 | 185 |
+| Kronoberg | 5 | 13 | 12 | 9 | 9 | 21 | 15 | 10 | 17 | 6 | 117 |
+| Norrbotten | 4 | 10 | 10 | 5 | 6 | 2 | 2 | 0 | 4 | 4 | 47 |
+| Skåne | 55 | 85 | 79 | 102 | 95 | 145 | 190 | 95 | 87 | 93 | 1 026 |
+| Stockholm | 25 | 98 | 71 | 57 | 52 | 65 | 51 | 65 | 48 | 48 | 580 |
+| Södermanland | 21 | 17 | 18 | 32 | 20 | 23 | 33 | 14 | 32 | 25 | 235 |
+| Uppsala | 1 | 14 | 9 | 13 | 15 | 9 | 29 | 16 | 20 | 26 | 152 |
+| Värmland | 13 | 13 | 12 | 14 | 14 | 18 | 16 | 13 | 16 | 11 | 140 |
+| Västerbotten | 9 | 18 | 10 | 7 | 12 | 10 | 11 | 9 | 2 | 3 | 91 |
+| Västernorrland | 11 | 23 | 26 | 28 | 22 | 18 | 31 | 15 | 18 | 8 | 200 |
+| Västmanland | 39 | 28 | 23 | 22 | 19 | 29 | 30 | 25 | 16 | 11 | 242 |
+| Västra |  |  |  |  |  |  |  |  |  |  |  |
+| Götaland | 64 | 79 | 102 | 86 | 92 | 84 | 101 | 68 | 75 | 81 | 832 |
+| Örebro | 4 | 7 | 8 | 17 | 21 | 28 | 16 | 11 | 7 | 16 | 135 |
+| Östergötland | 29 | 19 | 22 | 27 | 32 | 23 | 36 | 15 | 18 | 20 | 241 |
+| Totalt | 370 | 533 | 482 | 531 | 510 | 598 | 719 | 480 | 500 | 477 | 5 200 |
 
 <!-- sida 99 -->
 
@@ -14292,18 +14278,7 @@ Utbildningsbehov inom hästnäringen         SOU 2025:58
 Tabell 4.4 Deltagare i hästkurser på Hästsportens folkhögskola
 
 Antal deltagare, deltagarveckor och helårsplatser per år
-2020  2021 2022  2023  2024
-Allmän kurs, häst 33    46    58   52    50
-Särskild kurs, ridsport 200 272 235 222 197
-Särskild kurs, travsport,
-galoppsport och islandshäst 268 198 204 211 275
-Summa deltagare   501  516   497   485  522
-Summa, deltagarveckor 3 450 4 144 4 159 3 837 3 635
-Summa, helårsplatser 99 118  119   110  104
-Korta kurser, deltagare 1 603 1 677 2 508 1 376 1 885
-Korta kurser, deltagarveckor 696 875 1 169 705 676
-Korta kurser, helårsplatser 20 25 33 20  19
-Summa helårsplatser 119 143  152   130  123
+
 Källa: Hästsportens folkhögskola.
 
 Under 2023 genomfördes ett stort antal utbildningar och korta kur-
@@ -14324,6 +14299,21 @@ och dess miljö som en terapeutisk, pedagogisk eller hälsofrämjande
 resurs i behandlings-, rehabiliterings- och aktivitetssyfte.
 
 282
+
+[Tabell 315-1](handlingar.tabeller/315-1.csv)
+
+|  | 2020 | 2021 | 2022 | 2023 | 2024 |
+| --- | --- | --- | --- | --- | --- |
+| Allmän kurs, häst | 33 | 46 | 58 | 52 | 50 |
+| Särskild kurs, ridsport | 200 | 272 | 235 | 222 | 197 |
+| Särskild kurs, travsport, galoppsport och islandshäst | 268 | 198 | 204 | 211 | 275 |
+| Summa deltagare | 501 | 516 | 497 | 485 | 522 |
+| Summa, deltagarveckor | 3 450 | 4 144 | 4 159 | 3 837 | 3 635 |
+| Summa, helårsplatser | 99 | 118 | 119 | 110 | 104 |
+| Korta kurser, deltagare | 1 603 | 1 677 | 2 508 | 1 376 | 1 885 |
+| Korta kurser, deltagarveckor | 696 | 875 | 1 169 | 705 | 676 |
+| Korta kurser, helårsplatser | 20 | 25 | 33 | 20 | 19 |
+| Summa helårsplatser | 119 | 143 | 152 | 130 | 123 |
 
 <!-- sida 316 -->
 
@@ -18289,20 +18279,6 @@ deltagit i LOK-stödsaktiviteter 2023
 
 Idrott          Antal individer Varav flickor/kvinnor
 
-```osaker-tabell
-Fotboll           465 697        146 468
-Innebandy         122 173        39 907
-Gymnastik         107 893        88 699
-Simidrott          70 417        36 989
-Handboll           68 175        35 793
-Ridsport           67 407        64 730
-Ishockey           62 897         8 742
-Basket             56 859        22 712
-
-Friidrott          47 386        25 704
-Budo & Kampsport   39 685        11 940
-```
-
 Källa: Riksidrottsförbundet.
 
 Även av denna statistik framgår att fotbollen är den i särklass största
@@ -18323,6 +18299,20 @@ i tonåren och vuxen ålder och graferna visar därför en tydlig puckel.
 Detta förhållande är en av idrottsrörelsens största utmaningar.
 
 370
+
+[Tabell 403-1](handlingar.tabeller/403-1.csv)
+
+| Fotboll | 465 697 | 146 468 |
+| --- | --- | --- |
+| Innebandy | 122 173 | 39 907 |
+| Gymnastik | 107 893 | 88 699 |
+| Simidrott | 70 417 | 36 989 |
+| Handboll | 68 175 | 35 793 |
+| Ridsport | 67 407 | 64 730 |
+| Ishockey | 62 897 | 8 742 |
+| Basket | 56 859 | 22 712 |
+| Friidrott | 47 386 | 25 704 |
+| Budo & Kampsport | 39 685 | 11 940 |
 
 <!-- sida 404 -->
 
@@ -18494,19 +18484,6 @@ och simidrott. Parasporten och dövidrotten har dock inte ridsport.
 Tabell 5.5 Totalt antal deltagartillfällen för funktionsnedsatta 2023
 Förbund              Deltagartillfällen Andel
 
-```osaker-tabell
-Parasport              137 670    27,15 %
-Dövidrott               75 590    14,91 %
-Ridsport                42 235     8,33 %
-Bowling                 42 189     8,32 %
-Fotboll                 38 091     7,51 %
-Innebandy               19 811     3,91 %
-Simidrott               15 460     3,05 %
-Bordtennis              15 020     2,96 %
-Handboll                13 144     2,59 %
-Korpen*                 12 207     2,41 %
-```
-
 Anm.: \*Korpen är verksamhet inom Svenska motionsförbundet.
 Källa: Riksidrottsförbundet.
 
@@ -18524,6 +18501,20 @@ har verksamhet för personer med funktionsnedsättning. Se tabell 5.6.
 
 375
 
+[Tabell 408-1](handlingar.tabeller/408-1.csv)
+
+| Parasport | 137 670 | 27,15 % |
+| --- | --- | --- |
+| Dövidrott | 75 590 | 14,91 % |
+| Ridsport | 42 235 | 8,33 % |
+| Bowling | 42 189 | 8,32 % |
+| Fotboll | 38 091 | 7,51 % |
+| Innebandy | 19 811 | 3,91 % |
+| Simidrott | 15 460 | 3,05 % |
+| Bordtennis | 15 020 | 2,96 % |
+| Handboll | 13 144 | 2,59 % |
+| Korpen\* | 12 207 | 2,41 % |
+
 <!-- sida 409 -->
 
 Möjligheter för fler att delta i hästverksamheter SOU 2025:58
@@ -18532,19 +18523,6 @@ Tabell 5.6 Föreningar som redovisat LOK-stöd för funktionsnedsatta 2023
 
 Förbund   Antal föreningar med LOK- Föreningar som redovisat Andel
 stöd för funktionsnedsatta LOK-stöd totalt
-
-```osaker-tabell
-Fotboll       225           2 228      10 %
-Ridsport      208           567        37 %
-Parasport     153           166        92 %
-Innebandy      95           639        15 %
-Bowling        86           172        50 %
-Gymnastik      72           543        13 %
-Skyttesport    67           357        19 %
-Friidrott      62           367        17 %
-Handboll       59           283        21 %
-Budo & Kampsport 57         479        12 %
-```
 
 Källa: Riksidrottsförbundet.
 
@@ -18574,6 +18552,20 @@ födning samt uppstallningsverksamhet. Exempelvis anordnar trav-
 sporten genom travskolan allt från knattekurser för de allra yngsta
 
 376
+
+[Tabell 409-1](handlingar.tabeller/409-1.csv)
+
+| Fotboll | 225 | 2 228 | 10 % |
+| --- | --- | --- | --- |
+| Ridsport | 208 | 567 | 37 % |
+| Parasport | 153 | 166 | 92 % |
+| Innebandy | 95 | 639 | 15 % |
+| Bowling | 86 | 172 | 50 % |
+| Gymnastik | 72 | 543 | 13 % |
+| Skyttesport | 67 | 357 | 19 % |
+| Friidrott | 62 | 367 | 17 % |
+| Handboll | 59 | 283 | 21 % |
+| Budo & Kampsport | 57 | 479 | 12 % |
 
 <!-- sida 410 -->
 
@@ -25564,7 +25556,7 @@ Investeringar (belopp mkr)
 |  |  |  |  |
 | Totalt |  |  |  |
 
-[Tabell 560-3](handlingar.tabeller/560-3.csv)
+[Tabell 560-561-3](handlingar.tabeller/560-561-3.csv)
 
 | (Belopp i mkr) | Bokslut 2024 | Budget 2025 | Bokslut 2025 | Avvikelse<br>2025 |
 | --- | --- | --- | --- | --- |
@@ -25573,6 +25565,15 @@ Investeringar (belopp mkr)
 | Lokalinvesteringar |  |  |  |  |
 | Löpande investeringar |  |  |  |  |
 | Medfinansiering |  |  |  |  |
+| Reinvesteringar |  |  |  |  |
+| Övriga investeringar |  |  |  |  |
+| Finansiell leasing |  |  |  |  |
+| Summa investeringsutgifter |  |  |  |  |
+| INVESTERINGSINKOMSTER |  |  |  |  |
+| Avgiftsfinansierad verksamhet -<br>Anslutningsavgifter |  |  |  |  |
+| Övriga investeringar - Statliga<br>investeringsbidrag |  |  |  |  |
+| Summa investeringsinkomster |  |  |  |  |
+| Summa nettoinvesteringar |  |  |  |  |
 
 <!-- sida 561 -->
 
@@ -25590,19 +25591,6 @@ Kommentarer
 37
 
 [Tabell 561-1](handlingar.tabeller/561-1.csv)
-
-| Reinvesteringar |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Övriga investeringar |  |  |  |  |
-| Finansiell leasing |  |  |  |  |
-| Summa investeringsutgifter |  |  |  |  |
-| INVESTERINGSINKOMSTER |  |  |  |  |
-| Avgiftsfinansierad verksamhet -<br>Anslutningsavgifter |  |  |  |  |
-| Övriga investeringar - Statliga<br>investeringsbidrag |  |  |  |  |
-| Summa investeringsinkomster |  |  |  |  |
-| Summa nettoinvesteringar |  |  |  |  |
-
-[Tabell 561-2](handlingar.tabeller/561-2.csv)
 
 | Pro<br>j nr | Text | Totalbud<br>get | Totalprog<br>nos | Utfall<br>totalt tom<br>dec 2025 | Budget<br>2025 | Bokslut<br>2025 | Avvikels<br>e 2025 |
 | --- | --- | --- | --- | --- | --- | --- | --- |

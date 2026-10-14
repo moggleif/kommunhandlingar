@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5636ee16198cad5964d8bed8/1756099981
 sha256: 670871c1a4dc628bdb4d1204302d2cbc9c76406959bc2ca35d38150f58b9b281
 bytes: 721020
 sidor: 10
-hamtad: 2026-10-08T02:12:30+00:00
-konverterad: 2026-10-08T02:12:32+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:51:44+00:00
+konverterad: 2026-10-14T09:51:47+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -138,7 +138,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (3)
 
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
+[Tabell 4-5-1](handlingar.tabeller/4-5-1.csv)
 
 | (Kommunfullmäktige)<br>(Beslut § 114) - Kommunbudget<br>2026, plan 2027-2028 | 2025-06-26 | SE-2025-00284 | Kommunbudget 2026, plan<br>2027–2028 |
 | --- | --- | --- | --- |
@@ -150,6 +150,11 @@ KUNGSBACKA  KOMMUN
 | (Kommunfullmäktige) -<br>(beslut § 116) -<br>Redovisning av icke färdigberedda<br>motioner nr 1 2025 | 2025-06-26 | SE-2025-00286 | Redovisning av icke<br>färdigberedda motioner<br>nr 1 2025 |
 | Kommunledningskontorets<br>Tjänsteskrivelse - Redovisning av<br>icke färdigberedda motioner nr 1,<br>2025 | 2025-06-26 | SE-2025-00286 | Redovisning av icke<br>färdigberedda motioner<br>nr 1 2025 |
 | Redovisning av icke färdigberedda<br>motioner (1, 2025) | 2025-06-26 | SE-2025-00286 | Redovisning av icke<br>färdigberedda motioner<br>nr 1 2025 |
+| (Kommunfullmäktige) –<br>(beslut § 121) - svar på motion<br>förbud om användning av lustgas | 2025-06-26 | SE-2025-00287 | Svar på motion från Susanne<br>Andersson (SD) m.fl. om att<br>införa förbud mot användning<br>av lustgas i berusningssyfte på<br>offentliga platser i Kungsbacka |
+| Kommunledningskontorets<br>Tjänsteskrivelse - Svar på motion<br>om förbud mot användning av<br>lustgas | 2025-06-26 | SE-2025-00287 | Svar på motion från Susanne<br>Andersson (SD) m.fl. om att<br>införa förbud mot användning<br>av lustgas i berusningssyfte på<br>offentliga platser i Kungsbacka |
+| Lokala ordningsföreskrifter för<br>Kungsbacka kommun, antagna av<br>kommunfullmäktige 2025-06-16,<br>§ 121 | 2025-06-26 | SE-2025-00287 | Svar på motion från Susanne<br>Andersson (SD) m.fl. om att<br>införa förbud mot användning<br>av lustgas i berusningssyfte på<br>offentliga platser i Kungsbacka |
+| (Motion) (SD) Förbud mot<br>användning av lustgas i<br>berusningssyfte på offentliga<br>platser i Kungsbacka | 2025-06-26 | SE-2025-00287 | Svar på motion från Susanne<br>Andersson (SD) m.fl. om att<br>införa förbud mot användning<br>av lustgas i berusningssyfte på<br>offentliga platser i Kungsbacka |
+| Anteckningar från<br>kommunrevisionens dialog med<br>presidiet i nämnden för service | 2025-07-01 | SE-2025-00289 | Anteckningar vid<br>kommunrevisionens dialog<br>med presidiet i nämnden för<br>Service – del av grundläggande<br>granskning 2025 |
 
 <!-- sida 5 -->
 
@@ -161,15 +166,6 @@ Förvaltningen för Services tjänsteskrivelse, 2025-06-26
 
 Julia Tryggvadottir Tollesson
 Förvaltningschef Service
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-| (Kommunfullmäktige) –<br>(beslut § 121) - svar på motion<br>förbud om användning av lustgas | 2025-06-26 | SE-2025-00287 | Svar på motion från Susanne<br>Andersson (SD) m.fl. om att<br>införa förbud mot användning<br>av lustgas i berusningssyfte på<br>offentliga platser i Kungsbacka |
-| --- | --- | --- | --- |
-| Kommunledningskontorets<br>Tjänsteskrivelse - Svar på motion<br>om förbud mot användning av<br>lustgas | 2025-06-26 | SE-2025-00287 | Svar på motion från Susanne<br>Andersson (SD) m.fl. om att<br>införa förbud mot användning<br>av lustgas i berusningssyfte på<br>offentliga platser i Kungsbacka |
-| Lokala ordningsföreskrifter för<br>Kungsbacka kommun, antagna av<br>kommunfullmäktige 2025-06-16,<br>§ 121 | 2025-06-26 | SE-2025-00287 | Svar på motion från Susanne<br>Andersson (SD) m.fl. om att<br>införa förbud mot användning<br>av lustgas i berusningssyfte på<br>offentliga platser i Kungsbacka |
-| (Motion) (SD) Förbud mot<br>användning av lustgas i<br>berusningssyfte på offentliga<br>platser i Kungsbacka | 2025-06-26 | SE-2025-00287 | Svar på motion från Susanne<br>Andersson (SD) m.fl. om att<br>införa förbud mot användning<br>av lustgas i berusningssyfte på<br>offentliga platser i Kungsbacka |
-| Anteckningar från<br>kommunrevisionens dialog med<br>presidiet i nämnden för service | 2025-07-01 | SE-2025-00289 | Anteckningar vid<br>kommunrevisionens dialog<br>med presidiet i nämnden för<br>Service – del av grundläggande<br>granskning 2025 |
 
 <!-- sida 6 -->
 

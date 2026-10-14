@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7ec4cdc6192510e20a6afe1/17279653468
 sha256: 3279fa79439b2da2eae5ff40ce60af180c1682e1b3dcdbab13990534ae4368ab
 bytes: 2988531
 sidor: 147
-hamtad: 2026-10-08T08:03:33+00:00
-konverterad: 2026-10-08T08:03:59+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:58:58+00:00
+konverterad: 2026-10-14T10:59:19+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [24, 32, 44, 72, 74, 75, 77, 79, 80]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -647,6 +647,18 @@ Delårsrapport augusti 2024
 
 4.1 Uppföljning drift delår
 
+Bokslut Budget Prognos Budget-  Delår   Delår Avvikelse
+Miljoner kronor
+2023    2024   2024   avvikelse 2023   2024    delår
+Byggnadsnämnde
+-1,4    -1,7    -1,5    0,2    -1,0    -0,8     0,2
+n
+Geodata &
+Bygglov
+
+Periodens
+-38,7   -39,1   -39,1    0,0    -27,3  -25,4     1,9
+resultat
 4.2 Analys och kommentarer
 
 4.2.1 Resultat per augusti
@@ -672,19 +684,12 @@ utstakningar är lägre än väntat. Den största avvikelsen för intäkterna g�
 
 [Tabell 14-1](handlingar.tabeller/14-1.csv)
 
-| Miljoner kronor<br>Byggnadsnämnde<br>n | Bokslut<br>2023<br>-1,4 | Budget<br>2024<br>-1,7 | Prognos<br>2024<br>-1,5 | Budget-<br>avvikelse<br>0,2 | Delår<br>2023<br>-1,0 | Delår<br>2024<br>-0,8 | Avvikelse<br>delår<br>0,2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |
-| Geodata &<br>Bygglov |  |  |  |  |  |  |  |
 | Intäkter | 25,2 | 25 | 26 | 1 | 16,5 | 17,4 | 0,9 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | Kostnader | -45,7 | -46,5 | -47,4 | -0,9 | -30,7 | -31,6 | -0,9 |
-|  |  |  |  |  |  |  |  |
 | Miljö & Hälsoskydd |  |  |  |  |  |  |  |
 | Intäkter | 17,3 | 19,9 | 19,2 | -0,7 | 10,4 | 12,9 | 2,5 |
 | Kostnader | -34,1 | -35,8 | -35,4 | 0,4 | -22,5 | -23,3 | -0,8 |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-| Periodens<br>resultat | -38,7 | -39,1 | -39,1 | 0,0 | -27,3 | -25,4 | 1,9 |
 
 <!-- sida 15 -->
 
@@ -1393,11 +1398,36 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 | Verksamhet | 3 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>och välfärdsbrottslighet inträffa) |
 |  | 4 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att utveckla berörda intressenter och<br>krisledningsorganisation kommunen)<br>en i egen verksamhet |
 
-[Tabell 33-2](handlingar.tabeller/33-2.csv)
+[Tabell 33-40-2](handlingar.tabeller/33-40-2.csv)
 
 | Kategorier<br>Personal | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk att 3. Kännbar Risken hanteras<br>förvaltningen (uppfattas som inom ramen för<br>saknar personal besvärande för verksamhets-<br>2. Mindre vanligt<br>med berörda planering och<br>rätt/tillräcklig intressenter och kompetens-<br>kompetens kommunen) försörjning. |
 | --- | --- |
 |  | Risk att 3. Kännbar Det finns<br>introduktion av (uppfattas som fungerande<br>nya medarbetare besvärande för checklistor och<br>2. Mindre vanligt<br>inte fungerar som berörda rutiner, ingen<br>tänkt. intressenter och prioriterad risk till<br>kommunen) 2025. |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommun- 2. Lindrig Arbetstidsdirektivet<br>övergripande (uppfattas som inte aktuell risk för<br>risk: Resurs- och 2. Mindre vanligt liten av berörda Bygg & Miljö.<br>kompetensbrist intressenter och<br>kommunen) |
+| Ekonomi | Kommun- Omhändertas inom<br>övergripande ramen för ordinarie<br>2. Lindrig<br>risk: verksamhet-<br>(uppfattas som<br>Grundläggande suppföljning.<br>3. Vanligt liten av berörda<br>redovisning Granskning av<br>intressenter och<br>kvalitetsbrister kontering görs<br>kommunen)<br>löpande under<br>året. |
+|  | Kommun- Risken<br>övergripande omhändertas inom<br>risk: Resurser till 2. Lindrig ordinarie<br>innovation, (uppfattas som verksamhets-<br>digitalisering och 2. Mindre vanligt liten av berörda planering och<br>omställning till intressenter och uppföljning.<br>nya arbetssätt för kommunen)<br>framtidens<br>välfärd |
+|  | Risk för fel vid Granskning av<br>hantering av kommun-<br>3. Kännbar<br>kundfakturor gemensam risk<br>(uppfattas som<br>"Debiteringsrutiner<br>besvärande för<br>3. Vanligt " har genomförts<br>berörda<br>under 2022-2023<br>intressenter och<br>med goda resultat.<br>kommunen)<br>Inte prioriterat för<br>granskning 2025. |
+| Informationssäke<br>rhet,<br>administration,<br>inköp... | Risk att Denna risk har<br>delegations- funnits med sedan<br>ordning inte följs 2021 som<br>förvaltnings-<br>specifik risk 2022<br>och som kommun-<br>3. Kännbar övergripande risk<br>(uppfattas som 2022-2023.<br>besvärande för Granskningarna av<br>2. Mindre vanligt<br>berörda stickprov som<br>intressenter och gjorts har inte visat<br>kommunen) på några allvarliga<br>avvikelser. Det<br>finns fungerande<br>rutiner i<br>verksamheterna.<br>Inte prioriterat för<br>granskning 2025. |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk att 3. Kännbar Utbildningsinsatser<br>diarieföring inte (uppfattas som har genomförts.<br>sker korrekt besvärande för Inte prioriterat för<br>2. Mindre vanligt<br>berörda granskning 2025.<br>intressenter och<br>kommunen) |
+|  | Risk att Denna risk<br>säkerhetsklassat hanteras inom<br>material ramen för ordinarie<br>avseende 4. Allvarlig/stor informations-<br>GIS/Kartan inverkan (så stor säkerhetsarbete<br>2. Mindre vanligt<br>lämnas ut eller på att den inte får på förvaltningen.<br>annat sätt inträffa) Inte prioriterat för<br>kommer i granskning i intern<br>obehöriga kontroll 2025.<br>händer. |
+|  | Risk för Denna risk<br>oplanerade hanteras inom<br>driftstopp eller ramen för<br>4. Allvarlig/stor<br>krasch av förvaltningens<br>inverkan (så stor<br>verksamhets- 2. Mindre vanligt ordinarie<br>att den inte får<br>system säkerhetsarbete.<br>inträffa)<br>Inte prioriterat för<br>granskning i intern<br>kontroll 2025. |
+|  | Risk för intrång, Denna risk tas<br>obehörig åtkomst omhand inom<br>eller avslöjad ramen för ordinarie<br>sekretess på informations-<br>grund av stöld säkerhetsarbete.<br>och/eller Det finns rutiner för<br>oaktsamhet. hantering av<br>lösenord och<br>aktuella rutiner för<br>3. Kännbar<br>hantering av<br>(uppfattas som<br>känsliga<br>besvärande för<br>2. Mindre vanligt personuppgifter,<br>berörda<br>dessa ska inte<br>intressenter och<br>lagras i<br>kommunen)<br>verksamhets-<br>system. Kommun-<br>övergripande<br>webbaserade<br>säkerhetsutbildnin<br>gar har genomförts<br>av alla personal.<br>Inte prioriterat för<br>granskning 2025. |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Felaktig hanteras inom<br>3. Kännbar<br>hantering i ramen för risken<br>(uppfattas som<br>enskilda ärenden om<br>besvärande för<br>på grund av 2. Mindre vanligt välfärdsbrottslighet<br>berörda<br>förfalskade och korruption.<br>intressenter och<br>dokument eller<br>kommunen)<br>bluffsamtal |
+|  | Utlämnande av En omfattande<br>handlingar sker utbildningsinsats<br>inte enligt rutiner har genomförts för<br>3. Kännbar registraturen under<br>(uppfattas som 2020-2022. Arbete<br>besvärande för pågår med nya<br>2. Mindre vanligt<br>berörda arbetssätt där<br>intressenter och kunden själv kan<br>kommunen) hämta handlingar<br>digitalt. Inte<br>prioriterat för<br>granskning 2025. |
+|  | Hänvisning av Ingår i<br>mail och telefon "vardagsrutinerna".<br>görs inte vid Påminnelser och<br>2. Lindrig<br>frånvaro information om<br>(uppfattas som<br>rutiner publiceras<br>2. Mindre vanligt liten av berörda<br>på intranätet<br>intressenter och<br>"Insidan" inför<br>kommunen)<br>semestertider. Inte<br>prioriterat för<br>granskning 2025. |
+|  | Kommun- Omhändertas inom<br>övergripande ramen för<br>risk: förvaltningens<br>informations- informations-<br>säkerhet; skydd säkerhetsarbete.<br>av information Inte prioriterat för<br>mot obehörig granskning 2025.<br>tillgång Se verksamhet-<br>3. Kännbar sriskerna "Risk för<br>(uppfattas som intrång, obehörig<br>besvärande för åtkomst eller<br>2. Mindre vanligt<br>berörda avslöjad sekretess<br>intressenter och på grund av stöld<br>kommunen) och/eller<br>oaktsamhet." och<br>"Risk att<br>säkerhetsklassat<br>material avseende<br>GIS/Kartan lämnas<br>ut eller på annat<br>sätt kommer i<br>obehöriga händer. |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommun- Förvaltningens<br>övergripande verksamhetssyste<br>risk: It-säkerhet m EDP Vision och<br>- Bristande ByggR driftas<br>driftmiljö hos internt av digitalt<br>3. Kännbar<br>leverantörer center inte hos<br>(uppfattas som<br>externa<br>besvärande för<br>2. Mindre vanligt leverantörer. De<br>berörda<br>risker som trots allt<br>intressenter och<br>finns hanteras<br>kommunen)<br>inom ramen för<br>ordinarie IT-<br>säkerhetsarbete.<br>Inte prioriterat för<br>granskning 2025. |
+| Verksamhet | Risk för okritisk Berörd nyanställd<br>tolkning av all personal utbildas i<br>digital kartans<br>information i noggrannhet.<br>kartsystemet Risken har tagit<br>avseende 3. Kännbar still plan i<br>innehåll, (uppfattas som Byggnads-<br>aktualitet och besvärande för nämndens<br>2. Mindre vanligt<br>noggrannhet. berörda internkontrollplan i<br>intressenter och flera år, senast<br>kommunen) 2023. Tidigare<br>granskningar<br>visade inte på<br>några avvikelser.<br>Inte prioriterad till<br>granskning 2025. |
+|  | Risk för Historiskt är det<br>felaktigheter i ovanligt med fel<br>mätningsuppdrag vid<br>3. Kännbar<br>mätningsuppdrag.<br>(uppfattas som<br>Utbildning av<br>besvärande för<br>2. Mindre vanligt personal och<br>berörda<br>service(kalibrering)<br>intressenter och<br>av instrument görs<br>kommunen)<br>regelbundet. Inte<br>prioriterat för<br>granskning 2025. |
+|  | Risk för Snarlik<br>påtryckningar kommunövergripa<br>3. Kännbar<br>utifrån / otillbörlig nde "Risk för<br>(uppfattas som<br>påverkan på korruption" tas till<br>besvärande för<br>personal och 3. Vanligt plan istället för<br>berörda<br>beslutsfattare denna<br>intressenter och<br>verksamhets-<br>kommunen)<br>specifika risk som<br>funnits med länge. |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk att Antalet avgifts-<br>handläggningstid reduktioner av<br>för bygglovsärenden<br>bygglovsärenden har minskat jämfört<br>inte hålls med pandemiåren<br>2020-2022.<br>Avgiftsreduktioner<br>na kommer inte att<br>kunna vara 0 st.<br>handläggning-<br>stiderna för<br>enskilda ärenden<br>kan dra ut på tiden<br>av olika skäl. Det<br>3. Kännbar finns rapporter i<br>(uppfattas som Power BI där<br>besvärande för verksamheten kan<br>3. Vanligt<br>berörda följa antalet<br>intressenter och reduktioner. Det är<br>kommunen) en prioriterad fråga<br>att hålla korta<br>handläggningstider<br>. Mediantiden för<br>bygglov under jan-<br>aug 2024 är 2,9<br>veckor.<br>Förhandsbesked<br>12,5 veckor. Inte<br>prioriterat för<br>granskning 2025.<br>Hanteras inom<br>ramen för ordinarie<br>verksamhets-<br>uppföljning |
+|  | Risk att Verksamheterna<br>myndighetsbeslu har fungerande<br>t inte håller rutiner för att<br>tillräcklig kvalitet upprätthålla en<br>3. Kännbar<br>god kvalitet på<br>(uppfattas som<br>myndighetsbeslut.<br>besvärande för<br>2. Mindre vanligt Stickprovs-<br>berörda<br>granskning 2021–<br>intressenter och<br>2023 visar inte<br>kommunen)<br>någon allvarlig<br>avvikelse. Inte<br>prioriterat för<br>granskning 2025. |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk för bristande Det finns en<br>leverans av process för beslut,<br>myndighets- uppföljning och<br>uppdraget revidering av<br>tillsynsplaner<br>(miljöbalkstillsyn)<br>och kontrollplan<br>(livsmedel).<br>Uppföljning görs<br>3. Kännbar kvartalsvis i<br>(uppfattas som nämnden för Miljö<br>besvärande för & Hälsoskydd.<br>3. Vanligt<br>berörda Verksamhets-<br>intressenter och statistik för bygglov<br>kommunen) redovisas till<br>nämnden av<br>verksamhetschef<br>regelbundet.<br>Risken hanteras<br>inom ordinarie<br>verksamhets-<br>uppföljning. Inte<br>prioriterat för<br>granskning 2025. |
+|  | Förskottsbetalad Livsmedelskontroll<br>tillsyn utförs inte en övergår till<br>100% efterhands-<br>debitering från och<br>med 1 januari<br>2024. Endast en<br>mindre del av<br>förskottsbetalning<br>3. Kännbar kvar enligt taxa för<br>(uppfattas som miljöbalkstillsynen.<br>besvärande för Verksamheterna<br>2. Mindre vanligt<br>berörda arbetar aktivt med<br>intressenter och frågan och<br>kommunen) prioriterar<br>förskottsbetalad<br>tillsyn. Hanteras<br>nom ramen för<br>ordinarie<br>verksamhets-<br>uppföljning. Inte<br>prioriterat för<br>granskning 2025. |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Hantering av Förvaltningen har<br>personuppgifter ett fungerande<br>sker inte korrekt dataskyddsarbete<br>2. Lindrig<br>där<br>(uppfattas som<br>personuppgifts-<br>3. Vanligt liten av berörda<br>incidenter<br>intressenter och<br>rapporteras till<br>kommunen)<br>nämnderna. Inte<br>prioriterat för<br>granskning 2025. |
+|  | Överklaganden 3. Kännbar Förvaltningen har<br>hanteras inte (uppfattas som fungerande rutiner<br>korrekt besvärande för för att hantera<br>2. Mindre vanligt<br>berörda överklaganden.<br>intressenter och Inte prioriterat för<br>kommunen) granskning 2025. |
+|  | Risk att fel i Rutiner finns och<br>statistikrapporter 3. Kännbar fungerar, inte<br>leder till sämre (uppfattas som prioriterat för<br>eller felaktiga besvärande för granskning 2025.<br>2. Mindre vanligt<br>beslut berörda Hanteras inom<br>intressenter och ramen för ordinarie<br>kommunen) verksamhets-<br>uppföljning. |
+|  | Risk att Risken hanteras<br>verksamhets- 3. Kännbar inom ramen för<br>utveckling och (uppfattas som ordinarie budget<br>innovation besvärande för och<br>3. Vanligt<br>nedprioriteras på berörda uppföljningsarbete.<br>grund av intressenter och inte prioriterat för<br>bristande kommunen) granskning 2025.<br>resurser |
 
 <!-- sida 34 -->
 
@@ -1406,29 +1436,12 @@ Intern kontrollplan 2025
 
 13
 
-[Tabell 34-1](handlingar.tabeller/34-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommun- 2. Lindrig Arbetstidsdirektivet<br>övergripande (uppfattas som inte aktuell risk för<br>risk: Resurs- och 2. Mindre vanligt liten av berörda Bygg & Miljö.<br>kompetensbrist intressenter och<br>kommunen) |
-| --- | --- |
-| Ekonomi | Kommun- Omhändertas inom<br>övergripande ramen för ordinarie<br>2. Lindrig<br>risk: verksamhet-<br>(uppfattas som<br>Grundläggande suppföljning.<br>3. Vanligt liten av berörda<br>redovisning Granskning av<br>intressenter och<br>kvalitetsbrister kontering görs<br>kommunen)<br>löpande under<br>året. |
-|  | Kommun- Risken<br>övergripande omhändertas inom<br>risk: Resurser till 2. Lindrig ordinarie<br>innovation, (uppfattas som verksamhets-<br>digitalisering och 2. Mindre vanligt liten av berörda planering och<br>omställning till intressenter och uppföljning.<br>nya arbetssätt för kommunen)<br>framtidens<br>välfärd |
-|  | Risk för fel vid Granskning av<br>hantering av kommun-<br>3. Kännbar<br>kundfakturor gemensam risk<br>(uppfattas som<br>"Debiteringsrutiner<br>besvärande för<br>3. Vanligt " har genomförts<br>berörda<br>under 2022-2023<br>intressenter och<br>med goda resultat.<br>kommunen)<br>Inte prioriterat för<br>granskning 2025. |
-| Informationssäke<br>rhet,<br>administration,<br>inköp... | Risk att Denna risk har<br>delegations- funnits med sedan<br>ordning inte följs 2021 som<br>förvaltnings-<br>specifik risk 2022<br>och som kommun-<br>3. Kännbar övergripande risk<br>(uppfattas som 2022-2023.<br>besvärande för Granskningarna av<br>2. Mindre vanligt<br>berörda stickprov som<br>intressenter och gjorts har inte visat<br>kommunen) på några allvarliga<br>avvikelser. Det<br>finns fungerande<br>rutiner i<br>verksamheterna.<br>Inte prioriterat för<br>granskning 2025. |
-
 <!-- sida 35 -->
 
 Byggnadsnämnden                                  Kungsbacka kommun
 Intern kontrollplan 2025
 
 14
-
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk att 3. Kännbar Utbildningsinsatser<br>diarieföring inte (uppfattas som har genomförts.<br>sker korrekt besvärande för Inte prioriterat för<br>2. Mindre vanligt<br>berörda granskning 2025.<br>intressenter och<br>kommunen) |
-| --- | --- |
-|  | Risk att Denna risk<br>säkerhetsklassat hanteras inom<br>material ramen för ordinarie<br>avseende 4. Allvarlig/stor informations-<br>GIS/Kartan inverkan (så stor säkerhetsarbete<br>2. Mindre vanligt<br>lämnas ut eller på att den inte får på förvaltningen.<br>annat sätt inträffa) Inte prioriterat för<br>kommer i granskning i intern<br>obehöriga kontroll 2025.<br>händer. |
-|  | Risk för Denna risk<br>oplanerade hanteras inom<br>driftstopp eller ramen för<br>4. Allvarlig/stor<br>krasch av förvaltningens<br>inverkan (så stor<br>verksamhets- 2. Mindre vanligt ordinarie<br>att den inte får<br>system säkerhetsarbete.<br>inträffa)<br>Inte prioriterat för<br>granskning i intern<br>kontroll 2025. |
-|  | Risk för intrång, Denna risk tas<br>obehörig åtkomst omhand inom<br>eller avslöjad ramen för ordinarie<br>sekretess på informations-<br>grund av stöld säkerhetsarbete.<br>och/eller Det finns rutiner för<br>oaktsamhet. hantering av<br>lösenord och<br>aktuella rutiner för<br>3. Kännbar<br>hantering av<br>(uppfattas som<br>känsliga<br>besvärande för<br>2. Mindre vanligt personuppgifter,<br>berörda<br>dessa ska inte<br>intressenter och<br>lagras i<br>kommunen)<br>verksamhets-<br>system. Kommun-<br>övergripande<br>webbaserade<br>säkerhetsutbildnin<br>gar har genomförts<br>av alla personal.<br>Inte prioriterat för<br>granskning 2025. |
 
 <!-- sida 36 -->
 
@@ -1437,28 +1450,12 @@ Intern kontrollplan 2025
 
 15
 
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Felaktig hanteras inom<br>3. Kännbar<br>hantering i ramen för risken<br>(uppfattas som<br>enskilda ärenden om<br>besvärande för<br>på grund av 2. Mindre vanligt välfärdsbrottslighet<br>berörda<br>förfalskade och korruption.<br>intressenter och<br>dokument eller<br>kommunen)<br>bluffsamtal |
-| --- | --- |
-|  | Utlämnande av En omfattande<br>handlingar sker utbildningsinsats<br>inte enligt rutiner har genomförts för<br>3. Kännbar registraturen under<br>(uppfattas som 2020-2022. Arbete<br>besvärande för pågår med nya<br>2. Mindre vanligt<br>berörda arbetssätt där<br>intressenter och kunden själv kan<br>kommunen) hämta handlingar<br>digitalt. Inte<br>prioriterat för<br>granskning 2025. |
-|  | Hänvisning av Ingår i<br>mail och telefon "vardagsrutinerna".<br>görs inte vid Påminnelser och<br>2. Lindrig<br>frånvaro information om<br>(uppfattas som<br>rutiner publiceras<br>2. Mindre vanligt liten av berörda<br>på intranätet<br>intressenter och<br>"Insidan" inför<br>kommunen)<br>semestertider. Inte<br>prioriterat för<br>granskning 2025. |
-|  | Kommun- Omhändertas inom<br>övergripande ramen för<br>risk: förvaltningens<br>informations- informations-<br>säkerhet; skydd säkerhetsarbete.<br>av information Inte prioriterat för<br>mot obehörig granskning 2025.<br>tillgång Se verksamhet-<br>3. Kännbar sriskerna "Risk för<br>(uppfattas som intrång, obehörig<br>besvärande för åtkomst eller<br>2. Mindre vanligt<br>berörda avslöjad sekretess<br>intressenter och på grund av stöld<br>kommunen) och/eller<br>oaktsamhet." och<br>"Risk att<br>säkerhetsklassat<br>material avseende<br>GIS/Kartan lämnas<br>ut eller på annat<br>sätt kommer i<br>obehöriga händer. |
-
 <!-- sida 37 -->
 
 Byggnadsnämnden                                  Kungsbacka kommun
 Intern kontrollplan 2025
 
 16
-
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommun- Förvaltningens<br>övergripande verksamhetssyste<br>risk: It-säkerhet m EDP Vision och<br>- Bristande ByggR driftas<br>driftmiljö hos internt av digitalt<br>3. Kännbar<br>leverantörer center inte hos<br>(uppfattas som<br>externa<br>besvärande för<br>2. Mindre vanligt leverantörer. De<br>berörda<br>risker som trots allt<br>intressenter och<br>finns hanteras<br>kommunen)<br>inom ramen för<br>ordinarie IT-<br>säkerhetsarbete.<br>Inte prioriterat för<br>granskning 2025. |
-| --- | --- |
-| Verksamhet | Risk för okritisk Berörd nyanställd<br>tolkning av all personal utbildas i<br>digital kartans<br>information i noggrannhet.<br>kartsystemet Risken har tagit<br>avseende 3. Kännbar still plan i<br>innehåll, (uppfattas som Byggnads-<br>aktualitet och besvärande för nämndens<br>2. Mindre vanligt<br>noggrannhet. berörda internkontrollplan i<br>intressenter och flera år, senast<br>kommunen) 2023. Tidigare<br>granskningar<br>visade inte på<br>några avvikelser.<br>Inte prioriterad till<br>granskning 2025. |
-|  | Risk för Historiskt är det<br>felaktigheter i ovanligt med fel<br>mätningsuppdrag vid<br>3. Kännbar<br>mätningsuppdrag.<br>(uppfattas som<br>Utbildning av<br>besvärande för<br>2. Mindre vanligt personal och<br>berörda<br>service(kalibrering)<br>intressenter och<br>av instrument görs<br>kommunen)<br>regelbundet. Inte<br>prioriterat för<br>granskning 2025. |
-|  | Risk för Snarlik<br>påtryckningar kommunövergripa<br>3. Kännbar<br>utifrån / otillbörlig nde "Risk för<br>(uppfattas som<br>påverkan på korruption" tas till<br>besvärande för<br>personal och 3. Vanligt plan istället för<br>berörda<br>beslutsfattare denna<br>intressenter och<br>verksamhets-<br>kommunen)<br>specifika risk som<br>funnits med länge. |
 
 <!-- sida 38 -->
 
@@ -1467,12 +1464,6 @@ Intern kontrollplan 2025
 
 17
 
-[Tabell 38-1](handlingar.tabeller/38-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk att Antalet avgifts-<br>handläggningstid reduktioner av<br>för bygglovsärenden<br>bygglovsärenden har minskat jämfört<br>inte hålls med pandemiåren<br>2020-2022.<br>Avgiftsreduktioner<br>na kommer inte att<br>kunna vara 0 st.<br>handläggning-<br>stiderna för<br>enskilda ärenden<br>kan dra ut på tiden<br>av olika skäl. Det<br>3. Kännbar finns rapporter i<br>(uppfattas som Power BI där<br>besvärande för verksamheten kan<br>3. Vanligt<br>berörda följa antalet<br>intressenter och reduktioner. Det är<br>kommunen) en prioriterad fråga<br>att hålla korta<br>handläggningstider<br>. Mediantiden för<br>bygglov under jan-<br>aug 2024 är 2,9<br>veckor.<br>Förhandsbesked<br>12,5 veckor. Inte<br>prioriterat för<br>granskning 2025.<br>Hanteras inom<br>ramen för ordinarie<br>verksamhets-<br>uppföljning |
-| --- | --- |
-|  | Risk att Verksamheterna<br>myndighetsbeslu har fungerande<br>t inte håller rutiner för att<br>tillräcklig kvalitet upprätthålla en<br>3. Kännbar<br>god kvalitet på<br>(uppfattas som<br>myndighetsbeslut.<br>besvärande för<br>2. Mindre vanligt Stickprovs-<br>berörda<br>granskning 2021–<br>intressenter och<br>2023 visar inte<br>kommunen)<br>någon allvarlig<br>avvikelse. Inte<br>prioriterat för<br>granskning 2025. |
-
 <!-- sida 39 -->
 
 Byggnadsnämnden                                  Kungsbacka kommun
@@ -1480,26 +1471,12 @@ Intern kontrollplan 2025
 
 18
 
-[Tabell 39-1](handlingar.tabeller/39-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk för bristande Det finns en<br>leverans av process för beslut,<br>myndighets- uppföljning och<br>uppdraget revidering av<br>tillsynsplaner<br>(miljöbalkstillsyn)<br>och kontrollplan<br>(livsmedel).<br>Uppföljning görs<br>3. Kännbar kvartalsvis i<br>(uppfattas som nämnden för Miljö<br>besvärande för & Hälsoskydd.<br>3. Vanligt<br>berörda Verksamhets-<br>intressenter och statistik för bygglov<br>kommunen) redovisas till<br>nämnden av<br>verksamhetschef<br>regelbundet.<br>Risken hanteras<br>inom ordinarie<br>verksamhets-<br>uppföljning. Inte<br>prioriterat för<br>granskning 2025. |
-| --- | --- |
-|  | Förskottsbetalad Livsmedelskontroll<br>tillsyn utförs inte en övergår till<br>100% efterhands-<br>debitering från och<br>med 1 januari<br>2024. Endast en<br>mindre del av<br>förskottsbetalning<br>3. Kännbar kvar enligt taxa för<br>(uppfattas som miljöbalkstillsynen.<br>besvärande för Verksamheterna<br>2. Mindre vanligt<br>berörda arbetar aktivt med<br>intressenter och frågan och<br>kommunen) prioriterar<br>förskottsbetalad<br>tillsyn. Hanteras<br>nom ramen för<br>ordinarie<br>verksamhets-<br>uppföljning. Inte<br>prioriterat för<br>granskning 2025. |
-
 <!-- sida 40 -->
 
 Byggnadsnämnden                                  Kungsbacka kommun
 Intern kontrollplan 2025
 
 19
-
-[Tabell 40-1](handlingar.tabeller/40-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Hantering av Förvaltningen har<br>personuppgifter ett fungerande<br>sker inte korrekt dataskyddsarbete<br>2. Lindrig<br>där<br>(uppfattas som<br>personuppgifts-<br>3. Vanligt liten av berörda<br>incidenter<br>intressenter och<br>rapporteras till<br>kommunen)<br>nämnderna. Inte<br>prioriterat för<br>granskning 2025. |
-| --- | --- |
-|  | Överklaganden 3. Kännbar Förvaltningen har<br>hanteras inte (uppfattas som fungerande rutiner<br>korrekt besvärande för för att hantera<br>2. Mindre vanligt<br>berörda överklaganden.<br>intressenter och Inte prioriterat för<br>kommunen) granskning 2025. |
-|  | Risk att fel i Rutiner finns och<br>statistikrapporter 3. Kännbar fungerar, inte<br>leder till sämre (uppfattas som prioriterat för<br>eller felaktiga besvärande för granskning 2025.<br>2. Mindre vanligt<br>beslut berörda Hanteras inom<br>intressenter och ramen för ordinarie<br>kommunen) verksamhets-<br>uppföljning. |
-|  | Risk att Risken hanteras<br>verksamhets- 3. Kännbar inom ramen för<br>utveckling och (uppfattas som ordinarie budget<br>innovation besvärande för och<br>3. Vanligt<br>nedprioriteras på berörda uppföljningsarbete.<br>grund av intressenter och inte prioriterat för<br>bristande kommunen) granskning 2025.<br>resurser |
 
 <!-- sida 41 -->
 
@@ -1654,38 +1631,65 @@ kommunen)
 obefintlig) - exempelvis 1 gång per intressenter och kommunen)
 10 år
 
-[Tabell 45-1](handlingar.tabeller/45-1.csv)
+[Tabell 45-46-1](handlingar.tabeller/45-46-1.csv)
 
 | Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
 | --- | --- | --- | --- | --- | --- |
 | Personal | 1 Risk att Förvaltningen saknar<br>förvaltningen personal med<br>saknar personal rätt/tillräcklig kompetens<br>med rätt/tillräcklig och erfarenhet på grund<br>kompetens av stor konkurrens om<br>kompetent personal,<br>personalomsättning,<br>sjukfrånvaro eller<br>liknande. Risk att<br>planerad verksamhet inte<br>kan genomföras och<br>måste skjutas framåt.<br>Beslutsunderlag har dålig<br>kvalitet vilket kan leda till<br>förtroendeskada och<br>minskad tilltro till våra<br>myndighetsbeslut.<br>Förvaltningen når inte<br>sina mål för<br>verksamheten. Beroende<br>av konsulter vilket kan<br>leda till höga kostnader. | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Risken hanteras Risken har med lite<br>inom ramen för olika fomuleringar<br>verksamhets- funnits med sedan<br>planering och 2021<br>kompetens-<br>försörjning. |
 |  | 2 Risk att Risk för felaktiga beslut,<br>introduktion av nya felaktigt utlämnande av<br>medarbetare inte handling, risk för<br>fungerar som tänkt. förtroendeskada | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som | Risk<br>bör<br>åtgärd<br>as | Nej Det finns<br>fungerande<br>checklistor och<br>rutiner, ingen |
-
-<!-- sida 46 -->
-
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
 |  |  |  | besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) |  | prioriterad risk till<br>2025. |
 |  | 3 Kommunövergripan Nya spelregler<br>de risk: Resurs- (Arbetstidsdirektivet etc.)<br>och kompetensbrist för resursplanering och<br>schemaläggning medför<br>ökat behov av resurser<br>och eller omställning till<br>nya arbetssätt. | 2.<br>Mindre<br>vanligt | 2.<br>Lindrig<br>(uppfatta<br>s som<br>liten av<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Arbetstidsdirektivet Risk sedan 2024.<br>inte aktuell risk för Ingen gemensam<br>Bygg & Miljö. granskningspunkt. Tas<br>upp av nämnderna där<br>det är relevant för<br>egna verksamheten. |
 |  | 4 Kommunövergripan Risk för otillräcklig<br>de risk: Efterlevnad referenstagning, risk för<br>till felaktiga uppgifter om<br>rekryteringsproces personer, risk att fel<br>sen personer anställs. | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Ja Ny risk 2025 |
 | Ekonomi | 5 Kommunövergripan Fel i redovisningen kan<br>de risk: leda till svårigheter att<br>Grundläggande digitalisera, felaktiga<br>redovisning analyser och åtgärder<br>kvalitetsbrister som leder i fel riktning.<br>Nationella jämförelser blir<br>missvisande och fel<br>fördelningar enligt<br>nationella<br>fördelningssystem . | 3.<br>Vanligt | 2.<br>Lindrig<br>(uppfatta<br>s som<br>liten av<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Omhändertas inom Risk sedan 2024.<br>ramen för ordinarie Ingen gemensam<br>verksamhets- granskningspunkt. Tas<br>uppföljning. upp av nämnderna där<br>Granskning av det är relevant för den<br>kontering görs egna verksamheten.<br>löpande under<br>året. |
 
+<!-- sida 46 -->
+
 <!-- sida 47 -->
 
-[Tabell 47-1](handlingar.tabeller/47-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
-|  | 6 Kommunövergripan Förnyelse uteblir, gamla<br>de risk: Resurser ineffektiva arbetssätt<br>till innovation, cementeras. Kommunen<br>digitalisering och får svårt att leverera<br>omställning till nya välfärd med rätt kvalitet<br>arbetssätt för och volym.<br>framtidens välfärd | 2.<br>Mindre<br>vanligt | 2.<br>Lindrig<br>(uppfatta<br>s som<br>liten av<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Risken Risk sedan 2024.<br>omhändertas inom Ingen gemensam<br>ordinarie granskning.<br>verksamhets-<br>planering och<br>uppföljning. |
-|  | 7 Risk för fel vid Risk för felaktiga/uteblivna<br>hantering av debiteringar till kund samt<br>kundfakturor fel vid kreditering eller<br>återbetalning. Risk för<br>ekonomisk förlust och<br>förtroendeskada | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Granskning av<br>kommun-<br>gemensam risk<br>"Debiteringsrutiner<br>" har genomförts<br>under 2022-2023<br>med goda resultat.<br>Inte prioriterat för<br>granskning 2025. |
-| Informationssä<br>kerhet,<br>administration,<br>inköp... | 8 Kommunövergripan Risk för ekonomisk skada<br>de risk: Bristande och förtroendeskada hos<br>följsamhet till leverantörer, medborgare<br>inköpsprocessen; och andra intressenter.<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3.<br>Vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>ska<br>åtgärd<br>as | Ja Återkommer som<br>gemensam<br>risk/granskning 2025<br>(senast 2023) |
-|  | 9 Risk att Beslut fattas av obehörig,<br>delegationsordning då håller inte besluten för<br>inte följs överprövning, vilket kan<br>leda till bristande<br>rättssäkerhet,<br>förtroendeskada och/eller | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för | Risk<br>bör<br>åtgärd<br>as | Nej Denna risk har<br>funnits med sedan<br>2021 som<br>förvaltnings-<br>specifik risk 2022<br>och som kommun- |
+Kategorier   Nr   Risker        Vad kan gå fel? Sanno- Konse- Risk- Risk- Till Anledning till att Övrig kommentar
+likhet kvens färg värde plan risk ej tas till plan
+6    Kommunövergripan Förnyelse uteblir, gamla 2. 2.  Risk Nej Risken     Risk sedan 2024.
+de risk: Resurser ineffektiva arbetssätt Mindre Lindrig bör omhändertas inom Ingen gemensam
+till innovation, cementeras. Kommunen vanligt (uppfatta åtgärd ordinarie granskning.
+digitalisering och får svårt att leverera s som   as     verksamhets-
+omställning till nya välfärd med rätt kvalitet liten av  planering och
+arbetssätt för och volym.           berörda              uppföljning.
+framtidens välfärd                  intresse
+nter och
+kommun
+en)
+7    Risk för fel vid Risk för felaktiga/uteblivna 2. 3. Risk Nej Granskning av
+hantering av  debiteringar till kund samt Mindre Kännbar bör kommun-
+kundfakturor  fel vid kreditering eller vanligt (uppfatta åtgärd gemensam risk
+återbetalning. Risk för s som       as     "Debiteringsrutiner
+ekonomisk förlust och besvära              " har genomförts
+förtroendeskada        nde för             under 2022-2023
+berörda              med goda resultat.
+intresse             Inte prioriterat för
+nter och             granskning 2025.
+kommun
+en)
+Informationssä 8 Kommunövergripan Risk för ekonomisk skada 3. 3. Risk Ja             Återkommer som
+kerhet,         de risk: Bristande och förtroendeskada hos Vanligt Kännbar ska       gemensam
+administration, följsamhet till leverantörer, medborgare (uppfatta åtgärd            risk/granskning 2025
+inköp...        inköpsprocessen; och andra intressenter. s som    as                 (senast 2023)
+direktupphandling                   besvära
+respektive                           nde för
+avtalsuppföljning                   berörda
+intresse
+nter och
+kommun
+en)
+9    Risk att      Beslut fattas av obehörig, 2. 3.   Risk Nej Denna risk har
+delegationsordning då håller inte besluten för Mindre Kännbar bör funnits med sedan
+inte följs    överprövning, vilket kan vanligt (uppfatta åtgärd 2021 som
+leda till bristande    s som        as     förvaltnings-
+rättssäkerhet,        besvära              specifik risk 2022
+förtroendeskada och/eller nde för          och som kommun-
 
 <!-- sida 48 -->
 
-[Tabell 48-1](handlingar.tabeller/48-1.csv)
+[Tabell 48-57-1](handlingar.tabeller/48-57-1.csv)
 
 | Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
 | --- | --- | --- | --- | --- | --- |
@@ -1693,95 +1697,50 @@ obefintlig) - exempelvis 1 gång per intressenter och kommunen)
 |  | 10 Risk att diarieföring Ärenden/handlingar<br>inte sker korrekt diarieförs inte eller faller<br>mellan stolarna. Vi följer<br>inte förvaltningsrättsliga<br>regler, vilket kan leda till<br>förtroendeskada. | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Utbildningsinsatser<br>har genomförts.<br>Inte prioriterat för<br>granskning 2025. |
 |  | 11 Risk att Säkerhetsklassad<br>säkerhetsklassat information när det gäller<br>material avseende kartan kommer i<br>GIS/Kartan lämnas obehöriga händer. Risk<br>ut eller på annat för samhällsskada/<br>sätt kommer i samhällsstörning.<br>obehöriga händer. | 2.<br>Mindre<br>vanligt | 4.<br>Allvarlig/<br>stor<br>inverkan<br>(så stor<br>att den<br>inte får<br>inträffa) | Risk<br>bör<br>åtgärd<br>as | Nej Denna risk<br>hanteras inom<br>ramen för ordinarie<br>informations-<br>säkerhetsarbete<br>på förvaltningen.<br>Inte prioriterat för<br>granskning i intern<br>kontroll 2025. |
 |  | 12 Risk för oplanerade Risk för driftstopp i<br>driftstopp eller förvaltningens IT-stöd<br>krasch av som kan medföra stora<br>verksamhetssyste kostnader i form av<br>m produktionsförluster. Vid<br>större olyckor till exempel<br>miljöolyckor behöver vi ha | 2.<br>Mindre<br>vanligt | 4.<br>Allvarlig/<br>stor<br>inverkan<br>(så stor<br>att den<br>inte får | Risk<br>bör<br>åtgärd<br>as | Nej Denna risk<br>hanteras inom<br>ramen för<br>förvaltningens<br>ordinarie<br>säkerhetsarbete.<br>Inte prioriterat för |
-
-<!-- sida 49 -->
-
-[Tabell 49-1](handlingar.tabeller/49-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
 |  | omedelbar åtkomst till<br>systemet för att nå viss<br>information. |  | inträffa) |  | granskning i intern<br>kontroll 2025. |
 |  | 13 Risk för intrång, Obehörig personer kan få<br>obehörig åtkomst tillgång till känsliga<br>eller avslöjad personuppgifter eller<br>sekretess på grund sekretessklassat material<br>av stöld och/eller på grund av stöld av<br>oaktsamhet. dator/iPad/telefon<br>alternativ oaktsam<br>hantering av lösenord<br>eller att datorer inte låses<br>när personal inte är vid<br>datorn. Risk för<br>förtroendeskada. | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Denna risk tas<br>omhand inom<br>ramen för ordinarie<br>informations-<br>säkerhetsarbete.<br>Det finns rutiner för<br>hantering av<br>lösenord och<br>aktuella rutiner för<br>hantering av<br>känsliga<br>personuppgifter,<br>dessa ska inte<br>lagras i<br>verksamhets-<br>system. Kommun-<br>övergripande<br>webbaserade<br>säkerhetsutbildnin<br>gar har genomförts<br>av alla personal.<br>Inte prioriterat för<br>granskning 2025. |
 |  | 14 Felaktig hantering i Risk för felaktig hantering<br>enskilda ärenden i enskilda ärenden på<br>på grund av grund av förfalskade<br>förfalskade dokument eller<br>dokument eller "bluffsamtal". Personalen<br>bluffsamtal har inte beredskap för att<br>upptäcka förfalskade<br>dokument, bluffsamtal<br>eller kapad identitet,<br>beslut tas på felaktiga<br>grunder, Rättssäkerheten<br>sätts ur spel | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej hanteras inom<br>ramen för risken<br>om<br>välfärdsbrottslighet<br>och korruption. |
-
-<!-- sida 50 -->
-
-[Tabell 50-1](handlingar.tabeller/50-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
 |  | 15 Utlämnande av Handlingar lämnas inte ut<br>handlingar sker inte på rätt sätt. Risk för<br>enligt rutiner förtroendeskada. | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej En omfattande<br>utbildningsinsats<br>har genomförts för<br>registraturen under<br>2020-2022. Arbete<br>pågår med nya<br>arbetssätt där<br>kunden själv kan<br>hämta handlingar<br>digitalt. Inte<br>prioriterat för<br>granskning 2025. |
 |  | 16 Hänvisning av mail Vi kan inte svara i<br>och telefon görs tid/långa svarstider, risk<br>inte vid frånvaro för förtroendeskada. Vi<br>agerar inte på kritisk<br>information som skickas<br>till obevakad mailbox,<br>diarieföring görs inte i tid. | 2.<br>Mindre<br>vanligt | 2.<br>Lindrig<br>(uppfatta<br>s som<br>liten av<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Ingår i<br>"vardagsrutinerna".<br>Påminnelser och<br>information om<br>rutiner publiceras<br>på intranätet<br>"Insidan" inför<br>semestertider. Inte<br>prioriterat för<br>granskning 2025. |
 |  | 17 Kommunövergripan - obehöriga kan komma in<br>de risk: i system och ta del av<br>informationssäkerh information eller ändra<br>et; skydd av information.<br>information mot - medarbetare får tillgång<br>obehörig tillgång till information de inte har<br>behörighet till och kan<br>ändra i information.<br>- system eller<br>informationen har inte rätt<br>skyddsnivå. Risk att<br>känslig information inte<br>skyddas tillräckligt. | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Omhändertas inom Risk sedan 2023.<br>ramen för<br>förvaltningens<br>informations-<br>säkerhetsarbete.<br>Inte prioriterat för<br>granskning 2025.<br>Se verksamhets-<br>riskerna "Risk för<br>intrång, obehörig<br>åtkomst eller<br>avslöjad sekretess<br>på grund av stöld<br>och/eller<br>oaktsamhet." och<br>"Risk att<br>säkerhetsklassat |
-
-<!-- sida 51 -->
-
-[Tabell 51-1](handlingar.tabeller/51-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  | material avseende<br>GIS/Kartan lämnas<br>ut eller på annat<br>sätt kommer i<br>obehöriga händer. |
 |  | 18 Kommunövergripan Bristande skydd för data.<br>de risk: It-säkerhet - Data kan komma att<br>Bristande driftmiljö förloras eller komma i<br>hos leverantörer obehöriga händer. | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Förvaltningens Ny risk 2025.<br>verksamhets-<br>system EDP Vision<br>och ByggR driftas<br>internt av digitalt<br>center inte hos<br>externa<br>leverantörer. De<br>risker som trots allt<br>finns hanteras<br>inom ramen för<br>ordinarie IT-<br>säkerhetsarbete.<br>Inte prioriterat för<br>granskning 2025. |
 | Verksamhet | 19 Risk för okritisk Beslut fattas på felaktiga<br>tolkning av all osäkra grunder, övertro<br>digital information i på kartans noggrannhet<br>kartsystemet<br>avseende innehåll,<br>aktualitet och<br>noggrannhet. | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Berörd nyanställd<br>personal utbildas i<br>kartans<br>noggrannhet.<br>Risken har tagits<br>till plan i<br>Byggnads-<br>nämndens<br>internkontrollplan i<br>flera år, senast<br>2023. Tidigare<br>granskningar<br>visade inte på<br>några avvikelser.<br>Inte prioriterad till<br>granskning 2025. |
 |  | 20 Risk för Fel i kartor, avvikelser mot<br>felaktigheter i verkligheten och eller<br>lämnat bygglov, uppkomst | 2.<br>Mindre | 3.<br>Kännbar<br>(uppfatta | Risk<br>bör<br>åtgärd | Nej Historiskt är det<br>ovanligt med fel<br>vid |
-
-<!-- sida 52 -->
-
-[Tabell 52-1](handlingar.tabeller/52-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
 |  | mätningsuppdrag av tvister och<br>skadeståndskrav | vanligt | s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | as | mätningsuppdrag.<br>Utbildning av<br>personal och<br>service(kalibrering<br>) av instrument<br>görs regelbundet.<br>Inte prioriterat för<br>granskning 2025. |
 |  | 21 Risk för Risk att personal och<br>påtryckningar beslutsfattare inte har<br>utifrån / otillbörlig beredskap att bemöta<br>påverkan på försök till otillbörlig<br>personal och påverkan från t.ex.<br>beslutsfattare kunder, tjänstepersoner<br>och/eller politiker. Beslut<br>fattas på felaktiga<br>grunder, lagstridiga beslut<br>fattas, jävssituationer<br>uppmärksammas eller<br>rapporteras inte,<br>likabehandling gäller inte,<br>myndighetspersoner fattar<br>inte opartiska beslut.<br>Förtroendeskada kan<br>uppstå. Oegentligheter<br>såsom mutor, korruption<br>och jäv. | 3.<br>Vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>ska<br>åtgärd<br>as | Nej Snarlik<br>kommunövergripa<br>nde "Risk för<br>korruption" tas till<br>plan istället för<br>denna<br>verksamhets-<br>specifika risk som<br>funnits med länge. |
 |  | 22 Risk att Om vi inte kan hålla<br>handläggningstid maximalt 10-veckors<br>för handläggningstid för<br>bygglovsärenden bygglovsärenden<br>inte hålls (alternativt 20 veckor om<br>tidsfristen förlängts) får<br>förvaltningen inte ta betalt<br>vad handläggningen<br>kostar utan måste<br>reducera avgiften. Detta<br>leder till minskade intäkter<br>och risk för | 3.<br>Vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>ska<br>åtgärd<br>as | Nej Antalet BI-rapporter har<br>avgiftsreduktioner utvecklats för<br>av uppföljning av<br>bygglovsärenden handläggningstider<br>har minskat jämfört och avgiftsreduktioner.<br>med pandemiåren<br>2020-2022.<br>Avgiftsreduktioner<br>na kommer inte att<br>kunna vara 0 st.<br>handläggnings-<br>tiderna för enskilda |
-
-<!-- sida 53 -->
-
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
 |  | budgetunderskott men<br>även minskat förtroende<br>från våra kunder pga<br>långa handläggningstider. |  |  |  | ärenden kan dra ut<br>på tiden av olika<br>skäl. Det finns<br>rapporter i Power<br>BI där<br>verksamheten kan<br>följa antalet<br>reduktioner. Det är<br>en prioriterad fråga<br>att hålla korta<br>handläggningstider<br>. Mediantiden för<br>bygglov under jan-<br>aug 2024 är 2,9<br>veckor.<br>Förhandsbesked<br>12,5 veckor. Inte<br>prioriterat för<br>granskning 2025.<br>Hanteras inom<br>ramen för ordinarie<br>verksamhets-<br>uppföljning |
 |  | 23 Risk att Lagar och regler liksom<br>myndighetsbeslut interna rutiner samt<br>inte håller tillräcklig kommunövergripande<br>kvalitet strategiska dokument som<br>till exempel Översiktsplan<br>efterlevs inte, vilket kan<br>leda till bristande<br>rättssäkerhet, bristande<br>likabehandling och<br>minskat förtroende från<br>våra kunder. Rutiner<br>saknas eller är inte<br>aktuella, tillgängliga eller<br>kända för handläggarna.<br>Mottagare av beslut<br>förstår inte innebörden av<br>beslutet. | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Verksamheterna<br>har fungerande<br>rutiner för att<br>upprätthålla en<br>god kvalitet på<br>myndighetsbeslut.<br>Stickprovs-<br>granskning 2021-<br>2023 visar inte<br>någon allvarlig<br>avvikelse. Inte<br>prioriterat för<br>granskning 2025. |
-
-<!-- sida 54 -->
-
-[Tabell 54-1](handlingar.tabeller/54-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
 |  | 24 Risk för bristande Planerad tillsyn eller<br>leverans av verksamhet utförs inte. Vi<br>myndighetsuppdra klarar inte att uppfylla<br>get målen i Behovsutredning<br>och tillsynsplan<br>(Miljöbalkstillsyn),<br>Kontrollplan<br>(Livsmedelstillsyn,<br>alkohol- och tobakstillsyn)<br>eller verksamhetsmål för<br>Bygglov och Geodata.<br>Risk för budgetunderskott<br>pga mindre intäkter än<br>planerat, risk för<br>tillsynskuld alternativt<br>kontrollskuld samt långa<br>handläggningstider. Risk<br>för förtroendeskada. | 3.<br>Vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>ska<br>åtgärd<br>as | Nej Det finns en Avser planerad<br>process för beslut, prövning, tillsyn och<br>uppföljning och verksamhet både antal<br>revidering av timmar och<br>tillsynsplaner avgifter/intäkter<br>(miljöbalkstillsyn)<br>och kontrollplan<br>(livsmedel).<br>Uppföljning görs<br>kvartalsvis i<br>nämnden för Miljö<br>& Hälsoskydd.<br>Verksamhets-<br>statistik för bygglov<br>redovisas till<br>nämnden av<br>verksamhetschef<br>regelbundet.<br>Risken hanteras<br>inom ordinarie<br>verksamhets-<br>uppföljning. Inte<br>prioriterat för<br>granskning 2025. |
 |  | 25 Förskottsbetalad Verksamheter som<br>tillsyn utförs inte förskottsbetalar årlig avgift<br>får inte den tillsynstid som<br>de betalar för till exempel<br>på grund av brist på<br>personal. Detta kan<br>resultera i tillsynsskuld för<br>miljöbalkstillsyn eller<br>kontrollskuld för<br>livsmedelstillsyn och<br>bristande förtroende från<br>våra kunder. | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Livsmedelskontroll<br>en övergår till<br>100% efterhands-<br>debitering från och<br>med 1 januari<br>2024. Endast en<br>mindre del av<br>förskottsbetalning<br>kvar enligt taxa för<br>miljöbalkstillsynen.<br>Verksamheterna<br>arbetar aktivt med<br>frågan och<br>prioriterar<br>förskottsbetalad<br>tillsyn. Hanteras |
-
-<!-- sida 55 -->
-
-[Tabell 55-1](handlingar.tabeller/55-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  | nom ramen för<br>ordinarie<br>verksamhets-<br>uppföljning. Inte<br>prioriterat för<br>granskning 2025. |
 |  | 26 Hantering av Risk att personuppgifter<br>personuppgifter inte hanteras korrekt och<br>sker inte korrekt hamnar på villovägar. Vi<br>följer inte lagstiftningens<br>krav inom GDPR. | 3.<br>Vanligt | 2.<br>Lindrig<br>(uppfatta<br>s som<br>liten av<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Förvaltningen har<br>ett fungerande<br>dataskyddsarbete<br>där<br>personuppgifts-<br>incidenter<br>rapporteras till<br>nämnderna. Inte<br>prioriterat för<br>granskning 2025. |
 |  | 27 Överklaganden Risk att överklaganden<br>hanteras inte inte expedieras korrekt.<br>korrekt Överklaganden når inte<br>fram till nästa instans<br>(Länsstyrelsen eller annan<br>rättsinstans) Risk för<br>förtroendeskada | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>bör<br>åtgärd<br>as | Nej Förvaltningen har<br>fungerande rutiner<br>för att hantera<br>överklaganden.<br>Inte prioriterat för<br>granskning 2025. |
 |  | 28 Kommunövergripan Generellt: mutor, jäv,<br>de risk - Risk för otillbörlig påverkan<br>korruption och + Specifikt för respektive<br>välfärdsbrottslighet nämnd. Särskilt risk för<br>kvalificerad<br>välfärdsbrottslighet eller<br>arbetslivskriminalitet (A-<br>krim) | 2.<br>Mindre<br>vanligt | 4.<br>Allvarlig/<br>stor<br>inverkan<br>(så stor<br>att den<br>inte får<br>inträffa) | Risk<br>bör<br>åtgärd<br>as | Ja Risk sedan 2023. |
 |  | 29 Risk att fel i Beslut fattas på felaktiga,<br>statistikrapporter osäkra grunder på grund<br>leder till sämre eller av till exempel: Felaktig | 2.<br>Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfatta | Risk<br>bör<br>åtgärd | Nej Rutiner finns och Ny risk 2023,<br>fungerar, inte granskning 2023 visar<br>prioriterat för att det finns |
-
-<!-- sida 56 -->
-
-[Tabell 56-1](handlingar.tabeller/56-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
 |  | felaktiga beslut data från källsystem,<br>bristande validering av<br>data vid uppgradering av<br>källsystem, felaktig logik<br>vid upprättande av<br>rapporter mm |  | s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | as | granskning 2025. fungerande rutiner för<br>Hanteras inom rapporter baserade på<br>ramen för ordinarie data från EDP Vision<br>verksamhets- (Miljö & Hälsoskydds<br>uppföljning. verksamhetssystem)<br>men att rutiner för<br>kontroll av<br>statistikrapporter<br>baserat på data från<br>ByggR behöver<br>utvecklas och<br>förbättras. |
 |  | 30 Kommunövergripan Avsaknad av organisation<br>de risk: för krisledning och<br>Förvaltningarnas bristande förmåga att<br>arbete med att hantera störningar i<br>utveckla verksamheterna/samhälls<br>krisledningsorganis störningar.<br>ationen i egen<br>verksamhet | 3.<br>Vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>ska<br>åtgärd<br>as | Ja Risk sedan 2024. Krav<br>att Risk &<br>Sårbarhetsanalys görs<br>varje mandatperiod<br>med årlig uppdatering.<br>Se även<br>revisionsrapport från<br>2022. |
 |  | 31 Risk att Svårigheter att finansiera<br>verksamhetsutveck verksamhetsutveckling<br>ling och innovation och innovationsarbete på<br>nedprioriteras på grund av att<br>grund av bristande grunduppdraget tar<br>resurser merparten av resurserna i<br>anspråk. Minskade<br>resurser i form av till<br>exempel minskad<br>ärendeinflöde<br>(lågkonjunktur) eller<br>annan minskad<br>finansiering gör att<br>verksamhetsutveckling<br>nedprioriteras till förmån<br>för grunduppdragen. | 3.<br>Vanligt | 3.<br>Kännbar<br>(uppfatta<br>s som<br>besvära<br>nde för<br>berörda<br>intresse<br>nter och<br>kommun<br>en) | Risk<br>ska<br>åtgärd<br>as | Nej Risken hanteras Ny risk inför 2024,<br>inom ramen för relaterad till KFs<br>ordinarie budget direktiv om innovation<br>och och nya arbetssätt<br>uppföljningsarbete.<br>inte prioriterat för<br>granskning 2025. |
+|  | Nämnderna når inte<br>Kommunfullmäktiges<br>direktiv om innovation och<br>nya arbetssätt. |  |  |  |  |
+
+<!-- sida 49 -->
+
+<!-- sida 50 -->
+
+<!-- sida 51 -->
+
+<!-- sida 52 -->
+
+<!-- sida 53 -->
+
+<!-- sida 54 -->
+
+<!-- sida 55 -->
+
+<!-- sida 56 -->
 
 <!-- sida 57 -->
-
-[Tabell 57-1](handlingar.tabeller/57-1.csv)
-
-| Kategorier | Nr Risker Vad kan gå fel? | Sanno-<br>likhet | Konse- Risk-<br>kvens färg | Risk-<br>värde | Till Anledning till att Övrig kommentar<br>plan risk ej tas till plan |
-| --- | --- | --- | --- | --- | --- |
-|  | Nämnderna når inte<br>Kommunfullmäktiges<br>direktiv om innovation och<br>nya arbetssätt. |  |  |  |  |
 
 <!-- sida 58 -->
 
@@ -3296,11 +3255,16 @@ som är åtgärdade.
 
 Sida 28 av 46
 
-[Tabell 90-1](handlingar.tabeller/90-1.csv)
+[Tabell 90-91-1](handlingar.tabeller/90-91-1.csv)
 
 | Egeninitierad<br>tillsyn, indelat i fyra<br>faser: | Antal<br>objekt: | Prioriterade objekt: |
 | --- | --- | --- |
 | Initieringsfas | 15 | Arendals slamdeponi (Arendal 3:2)<br>Boatorp deponi (Boatorp 1:11)<br>Fjärås Biltorg (Duvehed 2:11)<br>Frillesås Handelsträdgård (Frillesås-Rya 2:35)<br>Gottskärs hamn (Skällared 4:1)<br>Gårda brygga (Ölmnanäs 8:28)<br>Gödatorp kalkslamdeponi (Gödatorp 1:8)<br>Klovsten Industriområde (Ysby 1:12, 2:25 mfl.),<br>Kullaviks lack/Kullaviks båtvarv (Släps-Kullen 1:116 och 1:406)<br>Lerkils båtsällskap (Burera 8:95)<br>Lerkils båtvarv AB (Buera 12:31)<br>Nya bleck o plåtslageriet (Boken 8)<br>Pac2, Miba & Alba (Kungsbacka 4:39) |
+|  |  | Preem Petroleum AB (Lantmästaren 1)<br>Stockens deponi (Frillesås-Stocken 1:9) |
+| Utredningsfas | 19 | Agnsjömossedeponin, (Tom 3:5)<br>Alafors deponi (Alafors 4:12)<br>Bräckornas deponier (Frillesås 3:29)<br>Bröderna Johansson deponi (Hjälm 4:1)<br>Enens båtägares ek. förening (Enen 1:20 och 1:101)<br>E. Wallin färgeri (Norrbro 4)<br>Fjälebodeponin (Fjälebo 2:1)<br>Frillesås bil och traktor (Lillared 1:16 och 1:7)<br>Kungsbacka båtsällskap (Kungsbacka 2:13, 2:2 och 3:1)<br>Kungsbacka kemiska tvätt (Samariten 11)<br>Kungsbacka svetscentral (Aranäs 9 och 14)<br>Alma Larsson, Petterssonska färgeri o garnhandel (Söderbro 11)<br>Sjögärdedeponin (Sjögärde 1:6)<br>Slamlagunen deponi (Kungsbacka 6:27)<br>Spekedalsdeponin (Spekedal S:3)<br>Svinholmens marina AB (Svinholmen 1:2)<br>Torpadaladeponin (Torpa 4:11)<br>Torreds deponi (Torred 1:12)<br>Ölmanäsdeponin (Ölmanäs 17:1) |
+| Åtgärdsfas | 8 | Archemi (Varla 6:22)<br>Barnamossen, deponi, Höglanda 1:12<br>Borens Kabelfabrik (Gjutaren 1)<br>Hammargrens & Waltreco (Skårby 13:4)<br>Kolla båtvarv (Kolla 7:3)<br>PLM Återvinning (Kungsbacka 2:3)<br>Rostskyddscentrum HB och NTD Transport (Liljan 1 och 2)<br>Svinholmens deponi (Svinholmen 1:1) |
+| Uppföljningsfas | 2 | Toms deponi (Tom 3:16) kontrollprogram följs upp, åtgärder vidtagna<br>F.d. Auson Oljeindustri AB (Tölö 11:2) |
+| Avslutad | 5 | Frithiofs kemiska (Söderå 5) avförd från FO-register efter utredning<br>MJ Svets & Smide AB (Varla 14:4) Nedklassad efter utredning och<br>borttagen från priolistan<br>Tre objekt nedprioriterad efter utredning. Beslut att framtida<br>markarbeten ska anmälas till oss inskrivet i fastighetsregistret:<br>Herman Börjesson bensin/Marton Verket AB (Aranäs 15)<br>Kungsbacka svetscentral (Aranäs 9 och 14)<br>Peterssonska färgeri och garnhandeln (Glädjen 11) |
 
 <!-- sida 91 -->
 
@@ -3321,15 +3285,6 @@ För 2025 finns 80 timmar avsatta för tillsyn av bidragsobjekt. Miljö & Hälso
 kommer få besked om bidrag beviljas i slutet av året.
 
 Sida 29 av 46
-
-[Tabell 91-1](handlingar.tabeller/91-1.csv)
-
-|  |  | Preem Petroleum AB (Lantmästaren 1)<br>Stockens deponi (Frillesås-Stocken 1:9) |
-| --- | --- | --- |
-| Utredningsfas | 19 | Agnsjömossedeponin, (Tom 3:5)<br>Alafors deponi (Alafors 4:12)<br>Bräckornas deponier (Frillesås 3:29)<br>Bröderna Johansson deponi (Hjälm 4:1)<br>Enens båtägares ek. förening (Enen 1:20 och 1:101)<br>E. Wallin färgeri (Norrbro 4)<br>Fjälebodeponin (Fjälebo 2:1)<br>Frillesås bil och traktor (Lillared 1:16 och 1:7)<br>Kungsbacka båtsällskap (Kungsbacka 2:13, 2:2 och 3:1)<br>Kungsbacka kemiska tvätt (Samariten 11)<br>Kungsbacka svetscentral (Aranäs 9 och 14)<br>Alma Larsson, Petterssonska färgeri o garnhandel (Söderbro 11)<br>Sjögärdedeponin (Sjögärde 1:6)<br>Slamlagunen deponi (Kungsbacka 6:27)<br>Spekedalsdeponin (Spekedal S:3)<br>Svinholmens marina AB (Svinholmen 1:2)<br>Torpadaladeponin (Torpa 4:11)<br>Torreds deponi (Torred 1:12)<br>Ölmanäsdeponin (Ölmanäs 17:1) |
-| Åtgärdsfas | 8 | Archemi (Varla 6:22)<br>Barnamossen, deponi, Höglanda 1:12<br>Borens Kabelfabrik (Gjutaren 1)<br>Hammargrens & Waltreco (Skårby 13:4)<br>Kolla båtvarv (Kolla 7:3)<br>PLM Återvinning (Kungsbacka 2:3)<br>Rostskyddscentrum HB och NTD Transport (Liljan 1 och 2)<br>Svinholmens deponi (Svinholmen 1:1) |
-| Uppföljningsfas | 2 | Toms deponi (Tom 3:16) kontrollprogram följs upp, åtgärder vidtagna<br>F.d. Auson Oljeindustri AB (Tölö 11:2) |
-| Avslutad | 5 | Frithiofs kemiska (Söderå 5) avförd från FO-register efter utredning<br>MJ Svets & Smide AB (Varla 14:4) Nedklassad efter utredning och<br>borttagen från priolistan<br>Tre objekt nedprioriterad efter utredning. Beslut att framtida<br>markarbeten ska anmälas till oss inskrivet i fastighetsregistret:<br>Herman Börjesson bensin/Marton Verket AB (Aranäs 15)<br>Kungsbacka svetscentral (Aranäs 9 och 14)<br>Peterssonska färgeri och garnhandeln (Glädjen 11) |
 
 <!-- sida 92 -->
 
@@ -4564,7 +4519,7 @@ beslut i nämnden.
 
 8
 
-[Tabell 117-1](handlingar.tabeller/117-1.csv)
+[Tabell 117-118-1](handlingar.tabeller/117-118-1.csv)
 
 | Nr | Rubrik | Delegerat<br>till | Med rätt<br>att<br>vidare-<br>delegera | Anmärkning |
 | --- | --- | --- | --- | --- |
@@ -4578,18 +4533,14 @@ beslut i nämnden.
 | 1.7 | Remittera ärende och avge yttrande med<br>undantag för ärenden som är förbjudna att<br>delegera enligt 6 kap. 34 § kommunallagen.<br>Gäller lagstiftning som inte finns angiven på<br>annan plats i denna förteckning. | FC | X | Efter avstämning<br>med NMH<br>ordförande eller<br>vice ordförande |
 | 1.8 | Avge yttrande till högre myndighet i tillsyns-<br>ärenden | FC | X | Gäller även i<br>ärenden som inte<br>omfattas av<br>punkten 1.4. |
 | 1.9 | 9 kap. 6 §, 9 kap. 6 b §, 19 kap. 4 § MB<br>respektive 22 kap. 4 och 10 §§ MB: Avge<br>yttrande till länsstyrelse eller mark- och<br>miljödomstol angående behov att komplettera<br>en ansökan vid prövning av ansökan om<br>miljöfarlig verksamhet | FC | X |  |
+| 1.10 | Besluta om yttrande i ärenden till myndighet<br>avseende myndighetsföreskrifter, allmänna<br>råd och vägledningar som remitterats till<br>kommunen för yttrande | FC | X |  |
+| 1.11 | Avge yttrande till Polismyndighet i ärende om<br>allmänna sammankomster, offentliga<br>tillställningar, bullrande verksamheter och<br>liknande verksamheter.<br>Avge yttrande till Polismyndighet i ärende om<br>tillstånd till hotell- och pensionatsrörelse. | FC | X | Efter avstämning<br>med NMH ordf.<br>eller vice ordf.<br>vid allmänna<br>sammankomster<br>och offentlig<br>tillställning av<br>större karaktär |
 
 <!-- sida 118 -->
 
 9
 
-[Tabell 118-1](handlingar.tabeller/118-1.csv)
-
-| 1.10 | Besluta om yttrande i ärenden till myndighet<br>avseende myndighetsföreskrifter, allmänna<br>råd och vägledningar som remitterats till<br>kommunen för yttrande | FC | X |  |
-| --- | --- | --- | --- | --- |
-| 1.11 | Avge yttrande till Polismyndighet i ärende om<br>allmänna sammankomster, offentliga<br>tillställningar, bullrande verksamheter och<br>liknande verksamheter.<br>Avge yttrande till Polismyndighet i ärende om<br>tillstånd till hotell- och pensionatsrörelse. | FC | X | Efter avstämning<br>med NMH ordf.<br>eller vice ordf.<br>vid allmänna<br>sammankomster<br>och offentlig<br>tillställning av<br>större karaktär |
-
-[Tabell 118-2](handlingar.tabeller/118-2.csv)
+[Tabell 118-126-1](handlingar.tabeller/118-126-1.csv)
 
 | 1.12 | Beslut att avskriva ett ärende från vidare<br>handläggning, exempelvis obefogade klagomål<br>och ofullständig ansökan. | FC | X |  |
 | --- | --- | --- | --- | --- |
@@ -4601,15 +4552,7 @@ beslut i nämnden.
 | 1.16 | 6 kap. 3–5 §§ OSL, 2 kap. 14–15 §§ TF:<br>Beslut om utlämnande av allmän handling<br>med förbehåll eller att inte lämna ut en<br>allmän handling | FC | X | Omfattar även<br>rätten att inte<br>lämna ut en<br>handling som<br>påstås utgöra<br>allm. handling<br>men som enligt<br>NMH inte är en<br>allm. handling |
 | 1.17 | Avge yttrande vid överklagande av beslut att<br>inte lämna ut allmän handling | FC | X |  |
 | 1.18 | 10 kap. 1-5 §§, 10-14 §§ 16-19 §§, 23-28 §§<br>OSL: Besluta att i vissa fall lämna ut allmänna<br>handlingar och uppgifter | FC | X |  |
-
-<!-- sida 119 -->
-
-10
-
-[Tabell 119-1](handlingar.tabeller/119-1.csv)
-
 | 1.19 | 17 kap. 1 § och 30 kap. 20 § OSL: Beslut att<br>inte lämna uppgifter ur allmän handling eller<br>att uppställa villkor för uppgiftens utlämnande | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 1.20 | GDPR: Utse och entlediga dataskyddsombud<br>för NMH | NMH ordf.<br>och i dennes<br>frånvaro vice<br>ordförande |  |  |
 | 1.21 | GDPR: Ingå och säga upp<br>personuppgiftsbiträdesavtal. | FC | X |  |
 | 1.22 | GDPR art. 28 samt riktlinjer för hantering av<br>personuppgifter KF 2024-03-05 § 33:<br>Ingå personuppgiftsbiträdesavtal för<br>kommungemensamma digitala tjänster och<br>system. | Biträdande<br>kommundire<br>ktör |  | Avser<br>kommungemensamma<br>tjänster och system som<br>används av kommunens<br>samtliga nämnder.<br>Kommungemensamma<br>tjänster och system som<br>stödjer<br>kommungemensamma<br>stödprocesser som utförs<br>av Service eller<br>kommunstyrelsen enligt<br>deras reglementen<br>omfattas inte. |
@@ -4620,15 +4563,7 @@ beslut i nämnden.
 | 2 | Förvaltningslagen (2017:900), FL och<br>kommunallagen (2017:725), KL |  |  |  |
 | 2.1 | 12 § första stycket FL: Besluta att avslå en<br>framställning om att avgöra ett ärende enligt de<br>förutsättningar som anges i 12 § första stycket<br>FL | FC | X |  |
 | 2.2 | 14 § 1 st. FL: Beslut att begära att den som<br>anlitar ombud ska medverka personligen vid | FC | X |  |
-
-<!-- sida 120 -->
-
-11
-
-[Tabell 120-1](handlingar.tabeller/120-1.csv)
-
 |  | handläggningen av ett ärende |  |  |  |
-| --- | --- | --- | --- | --- |
 | 2.3 | 14 § 2 st. FL: Besluta att ett ombud eller biträde<br>som är olämpligt för sitt uppdrag inte längre får<br>medverka i ärendet. | FC | X |  |
 | 2.4 | 15 § 1 st. FL: Beslut att begära att ett ombud<br>styrker sin behörighet genom en skriftlig eller<br>muntlig fullmakt med det innehåll som framgår<br>av 15 § första stycket FL | FC | X |  |
 | 2.5 | 15 § 2 st. FL: Beslut att förelägga part eller<br>ombud att styrka ombudets behörighet genom<br>en fullmakt med det innehåll som framgår av<br>15 § första stycket FL | FC | X |  |
@@ -4639,15 +4574,7 @@ beslut i nämnden.
 | 2.10 | 45–46 §§ FL: Rättidsprövning av<br>förvaltningsbesvär. Besluta att avvisa en<br>överklagandeskrivelse som inkommit för sent. | FC | X |  |
 | 2.11 | 6 kap. 15 § KL: Besluta att utse ombud att<br>företräda nämnden vid förhandling eller<br>förrättning i mål och ärenden vid domstol och<br>andra myndigheter | NMH ordf.<br>Vid dennes<br>frånvaro<br>vice ordf. |  | Delegationen<br>omfattar<br>utfärdande av<br>fullmakt.<br>Notera 6 kap. 38<br>§ 2 p. KL: om<br>det överklagade<br>beslutet fattas i<br>nämnden som<br>sådant, kan ett<br>yttrande till en<br>domstol inte<br>delegeras. |
 | 2.12 | 6 kap. 36 § KL: Mottagande av delgivning på<br>nämndens vägnar | FC | X |  |
-
-<!-- sida 121 -->
-
-12
-
-[Tabell 121-1](handlingar.tabeller/121-1.csv)
-
 | 2.13 | 6 kap. 39 § KL: Beslut i ärenden som är så<br>brådskande att nämndens avgörande inte kan<br>avvaktas. | Nämndens<br>ordförande<br>och vid<br>dennes<br>frånvaro<br>vice ordf. |  | Delegationen<br>avser alla NMH<br>verksamheter.<br>Beslut ska alltid<br>anmälas på nästa<br>NMH samman-<br>träde. |
-| --- | --- | --- | --- | --- |
 | 2.14 | 7 kap. 6 § KL: Beslut om vidaredelegering<br>av beslutanderätten till annan anställd i<br>kommunen, i den mån beslutanderätt enligt<br>denna delegationsordning delegerats till<br>förvaltningschef inom NMH<br>verksamhetsområde. | FC |  |  |
 | 2.15 | 47–50 §§ delgivningslagen, 19–20 §§<br>delgivningsförordningen: Besluta att<br>delgivning i ett ärende ska ske genom<br>kungörelsedelgivning | FC | X |  |
 | 3 | Lag (2018:2088) om tobak och liknande<br>produkter |  |  |  |
@@ -4659,15 +4586,7 @@ beslut i nämnden.
 | 3.6 | 5 kap. 15 §: Godkänna anmälan om försäljning<br>av elektroniska cigaretter och<br>påfyllnadsbehållare | FC | X |  |
 | 3.7 | 6 kap. 2 § och 7 kap. 9 och 12 §§: Beslut om<br>föreläggande avseende skyltning av rökfria<br>miljöer | FC | X |  |
 | 3.8 | 7 kap. 9 och 12 §§ samt 7 kap. 15 § lag om<br>tobak och liknande produkter:<br>Besluta om att utfärda sanktioner: | a.) FC<br>b.) NMH<br>c.) NMH | a.) X |  |
-
-<!-- sida 122 -->
-
-13
-
-[Tabell 122-1](handlingar.tabeller/122-1.csv)
-
 |  | a.) Föreläggande<br>b.) Förbud<br>c.) Vite |  |  |  |
-| --- | --- | --- | --- | --- |
 | 3.9 | 7 kap. 10 § p 1: Beslut att återkalla<br>försäljningstillstånd när tillståndet inte längre<br>utnyttjas | FC | X |  |
 | 3.10 | 7 kap. 10 § p 2–3: Beslut att återkalla<br>tillstånd | NMH |  |  |
 | 3.11 | 7 kap. 11 §: Beslut att meddela tillstånds-<br>havare varning | FC | X |  |
@@ -4685,15 +4604,7 @@ beslut i nämnden.
 | 4.2 | 24 §: Utöva kommunens tillsyn enligt lagen<br>om tobaksfria nikotinprodukter | FC | X |  |
 | 4.3 | 40 §: Besluta om avgift för tillsyn & kontroll<br>avseende tobaksfria nikotinprodukter | FC | X |  |
 | 4.4 | 35–36 §§: Hämta/lämna uppgifter till andra | FC | X |  |
-
-<!-- sida 123 -->
-
-14
-
-[Tabell 123-1](handlingar.tabeller/123-1.csv)
-
 |  | tillsynsmyndigheter |  |  |  |
-| --- | --- | --- | --- | --- |
 | 4.5 | 32 §: Begäran om upplysning och varuprov vid<br>tillsyn | FC | X |  |
 | 4.6 | 33 §: Begäran om tillträde till områden, lokaler<br>och andra utrymmen | FC | X |  |
 | 4.7 | Besluta om att inleda tillsynsärende om ett<br>eventuellt administrativt ingripande | FC | X |  |
@@ -4711,15 +4622,7 @@ beslut i nämnden.
 | 5.6 | 8 kap. 3 §: Besluta om godkännande av<br>anmälan om kryddning av spritdryck under<br>förutsättning att stadigvarande serverings-<br>tillstånd finns | FC | X |  |
 | 5.7 | 8 kap. 4 §: Besluta om stadigvarande<br>serveringstillstånd för cateringföretags<br>servering till slutet sällskap | FC | X |  |
 | 5.8 | 8 kap. 4 §: Besluta om godkännande av<br>serveringslokal då cateringföretag anmält<br>servering | FC | X |  |
-
-<!-- sida 124 -->
-
-15
-
-[Tabell 124-1](handlingar.tabeller/124-1.csv)
-
 | 5.9 | 8 kap. 6 §: Besluta om godkännande av<br>anmälan om provsmakning på serverings-<br>stället under förutsättning att stadigvarande<br>serveringstillstånd finns | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 5.10 | 8 kap. 6 §: Besluta om tillfälligt prov-<br>smakningstillstånd för partihandlare/utställare | FC | X |  |
 | 5.11 | 8 kap. 7 §: Besluta om särskilt tillstånd att<br>anordna provsmakning vid tillverknings-stället | FC | X |  |
 | 5.12 | 8 kap. 8 §: Besluta om godkännande av<br>anmälan om servering av folköl | FC | X |  |
@@ -4737,15 +4640,7 @@ beslut i nämnden.
 | 5.24 | 11 kap. 1–12 §§ Besluta att polisanmäla<br>misstänkt brott enligt alkohollagen | FC | X |  |
 | 6 | Lag (2009:730) om handel med vissa<br>receptfria läkemedel, |  |  |  |
 | 6.1 | 20 §: Kontrollera efterlevnaden av denna lag<br>och av de föreskrifter som har meddelats i<br>anslutning till lagen | FC | X |  |
-
-<!-- sida 125 -->
-
-16
-
-[Tabell 125-1](handlingar.tabeller/125-1.csv)
-
 | 6.2 | 21 §: Begäran om erhållande av upplysning<br>och handling som erfordras för kontroll samt<br>begäran om tillträde till de områden, lokaler<br>och utrymmen som används i samband med<br>försäljning och hantering av läkemedel. | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 6.3 | Rapportering till Läkemedelsverket om<br>brister i efterlevnaden av regelverket | FC | X |  |
 | 6.4 | 23 §: Besluta om att ta ut avgift av den som<br>bedriver detaljhandel med läkemedel | FC | X |  |
 | 7 | Förordning om bekämpningsmedel<br>(2014:425) |  |  |  |
@@ -4759,46 +4654,107 @@ beslut i nämnden.
 | 9.2 | 9 kap. 1 §: Beslut i anledning av underrättelse<br>enligt 9 kap. 1 § NFS 2015:3 | FC | X |  |
 | 10 | Naturvårdsverkets föreskrifter om<br>spridning av vissa biocidprodukter, SNFS<br>2015:3 |  |  |  |
 | 10.1 | 4 kap 4 §: Besluta om undantag från<br>bestämmelserna i 1–3 §§ | FC | X |  |
-
-<!-- sida 126 -->
-
-17
-
-[Tabell 126-1](handlingar.tabeller/126-1.csv)
-
 | 10.2 | 5 kap 1 §: Begära dokumentation om<br>spridning av biocidprodukter | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 11 | EG-förordning 2017/625 om offentlig<br>kontroll och annan offentlig verksamhet<br>för att säkerställa tillämpningen av<br>livsmedels- och foderlagstiftningen och av<br>bestämmelse om djurs hälsa, djurskydd,<br>växtskydd och växtskyddsmedel |  |  |  |
 | 11.1 | Art. 9: Utföra offentlig kontroll inom de<br>områden som definieras i art. 1.2, 10, m fl. | FC | X |  |
 | 12 | EG-förordning 882/2004 om offentlig<br>kontroll för att säkerställa kontrollen av<br>efterlevnaden av foder- och livsmedels-<br>lagstiftningen samt bestämmelserna om<br>djurhälsa och djurskydd.<br>EU-kommissionens genomförande-<br>förordning (EU) 2019/35 |  |  |  |
 | 12.1 | Art. 18: Beslut om att omhänderta en<br>sändning till dess kontrollmyndigheten<br>erhållit resultat av offentlig kontroll vid<br>misstanke om bristande efterlevnad m.m. | FC | X |  |
 | 12.2 | Art. 19.1: Beslut om omhändertagande av<br>livsmedel eller foder från tredjeländer som<br>inte överensstämmer med bestämmelserna i<br>foder- eller livsmedelslagstiftningen samt<br>beslut om att:<br>a) Förordna om att fodret/livsmedlet<br>destrueras, blir föremål för särskild<br>behandling i enlighet med art. 20 eller<br>återsänds utanför gemenskapen i enlighet<br>med art. 21 eller vidtagande av andra<br>lämpliga åtgärder.<br>b) Beträffande livsmedel eller foder som<br>redan släppts ut på marknaden, förordna om<br>att fodret/livsmedlet återkallas eller dras<br>tillbaka från marknaden innan någon av de<br>åtgärder som anges ovan vidtas | FC | X |  |
 
+<!-- sida 119 -->
+
+10
+
+<!-- sida 120 -->
+
+11
+
+<!-- sida 121 -->
+
+12
+
+<!-- sida 122 -->
+
+13
+
+<!-- sida 123 -->
+
+14
+
+<!-- sida 124 -->
+
+15
+
+<!-- sida 125 -->
+
+16
+
+<!-- sida 126 -->
+
+17
+
 <!-- sida 127 -->
 
+12.3    Art. 19.2: Besluta att omhänderta sändning i FC X
+avvaktan på destruktion eller vidta andra
+lämpliga åtgärder som är nödvändiga för att
+skydda människor & djurs hälsa. Avseende
+livsmedel/foder av icke-animaliskt ursprung
+som är föremål för strängare kontroller i
+enlighet med art. 15.5, som ej kontrollerats
+eller hanterats i enlighet med art. 17, se till
+att det återkallas och omhändertas och att det
+därefter antingen destrueras eller återsänds i
+enlighet med art. 21.
+3
+12.4    Art. 31: Beslut om permanent upphävande FC  X
+av godkännande av anläggning när
+verksamhet upphört. Används tillsammans
+med Art 4 i EG-förordning 853/2004
+12.5    Art. 54.2 a: Beslut om sanering eller andra FC X
+åtgärder som anses vara nödvändiga för att se
+till att foder eller livsmedel är säkra och
+att lagstiftningen följs
+12.6    Art. 54.2 b: Beslut om att begränsa eller FC X
+förbjuda utsläppande av foder eller livsmedel
+på marknaden och import eller export av
+foder, livsmedel eller djur
+12.7    Art. 54.2.c: Beslut om att beordra att foder FC X
+eller livsmedel återkallas, dras tillbaka från
+marknaden och/eller destrueras
+12.8    Art. 54.2 d: Beslut om tillstånd till att foder FC X
+eller livsmedel används för andra ändamål
+än dem som de ursprungligen var avsedda
+
+för
+12.9    Art. 54.2 e: Beslut om att tillfälligt avbryta FC X
+driften av eller stänga hela eller delar av det
+berörda företaget under en lämplig tidsperiod
+
+12.10   Art. 54.2 f: Besluta om att tillfälligt eller NMH
+permanent återkalla anläggningens
+godkännande
+12.11   Art. 54.2.g: Beslut om åtgärder som avses i FC X
+artikel 19 i EG –förordning 882/2004 för
+sändningar från tredjeländer
+12.12   Art 54.2 h: Beslut om andra åtgärder som anses FC X
+vara motiverade
+
+13      EG-förordning 854/2004 om fastställande
+av särskilda bestämmelser för genom-
+förandet av offentlig kontroll av produkter
+av animaliskt ursprung avsedda att
+användas som livsmedel
+13.1    Art. 3, punkt 1 a: Besluta om att godkänna FC X
+anläggning för animaliska livsmedel
+
 18
-
-[Tabell 127-1](handlingar.tabeller/127-1.csv)
-
-| 12.3 | Art. 19.2: Besluta att omhänderta sändning i<br>avvaktan på destruktion eller vidta andra<br>lämpliga åtgärder som är nödvändiga för att<br>skydda människor & djurs hälsa. Avseende<br>livsmedel/foder av icke-animaliskt ursprung<br>som är föremål för strängare kontroller i<br>enlighet med art. 15.5, som ej kontrollerats<br>eller hanterats i enlighet med art. 17, se till<br>att det återkallas och omhändertas och att det<br>därefter antingen destrueras eller återsänds i<br>enlighet med art. 21. | FC | X |  |
-| --- | --- | --- | --- | --- |
-| 3<br>12.4 | Art. 31: Beslut om permanent upphävande<br>av godkännande av anläggning när<br>verksamhet upphört. Används tillsammans<br>med Art 4 i EG-förordning 853/2004 | FC | X |  |
-| 12.5 | Art. 54.2 a: Beslut om sanering eller andra<br>åtgärder som anses vara nödvändiga för att se<br>till att foder eller livsmedel är säkra och<br>att lagstiftningen följs | FC | X |  |
-| 12.6 | Art. 54.2 b: Beslut om att begränsa eller<br>förbjuda utsläppande av foder eller livsmedel<br>på marknaden och import eller export av<br>foder, livsmedel eller djur | FC | X |  |
-| 12.7 | Art. 54.2.c: Beslut om att beordra att foder<br>eller livsmedel återkallas, dras tillbaka från<br>marknaden och/eller destrueras | FC | X |  |
-| 12.8 | Art. 54.2 d: Beslut om tillstånd till att foder<br>eller livsmedel används för andra ändamål<br>än dem som de ursprungligen var avsedda<br>för | FC | X |  |
-| 12.9 | Art. 54.2 e: Beslut om att tillfälligt avbryta<br>driften av eller stänga hela eller delar av det<br>berörda företaget under en lämplig tidsperiod | FC | X |  |
-| 12.10 | Art. 54.2 f: Besluta om att tillfälligt eller<br>permanent återkalla anläggningens<br>godkännande | NMH |  |  |
-| 12.11 | Art. 54.2.g: Beslut om åtgärder som avses i<br>artikel 19 i EG –förordning 882/2004 för<br>sändningar från tredjeländer | FC | X |  |
-| 12.12 | Art 54.2 h: Beslut om andra åtgärder som anses<br>vara motiverade | FC | X |  |
-| 13 | EG-förordning 854/2004 om fastställande<br>av särskilda bestämmelser för genom-<br>förandet av offentlig kontroll av produkter<br>av animaliskt ursprung avsedda att<br>användas som livsmedel |  |  |  |
-| 13.1 | Art. 3, punkt 1 a: Besluta om att godkänna<br>anläggning för animaliska livsmedel | FC | X |  |
 
 <!-- sida 128 -->
 
 19
 
-[Tabell 128-1](handlingar.tabeller/128-1.csv)
+[Tabell 128-129-1](handlingar.tabeller/128-129-1.csv)
 
 | 13.2 | Art. 3, punkt 1 b: Besluta om villkorat<br>godkännande av anläggning för animaliska<br>livsmedel | FC | X |  |
 | --- | --- | --- | --- | --- |
@@ -4813,15 +4769,7 @@ beslut i nämnden.
 | 14.8 | 33 §: Bestämma att ett beslut ska gälla<br>omedelbart även om det överklagas, dock ej<br>beslut om sanktionsavgift. | FC | X |  |
 | 15 | Livsmedelsförordningen (2006:813) |  |  |  |
 | 15.1 | 8 §: Besluta om skyldighet för den som är<br>sysselsatt med livsmedelsverksamhet att genomgå<br>läkarundersökning om det behövs av livsmedels-<br>hygieniska skäl. | FC | X |  |
-
-<!-- sida 129 -->
-
-20
-
-[Tabell 129-1](handlingar.tabeller/129-1.csv)
-
 | 15.2 | 23 §: Beslut i ärende om registrering av<br>livsmedelsanläggning, används tillsammans<br>med art 31.1 a) och b) i EG-förordning<br>882/2004 samt art 6.2 i EG-förordning<br>852/2004 | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 15.3 | 23 §: Beslut i ärende om godkännande av<br>anläggning för animaliska livsmedel,<br>används tillsammans med art. 3.1 a), EG-<br>förordning 854/2004 samt art. 60 3) EG-<br>förordning 882/2004 | FC | X |  |
 | 15.4 | 23 §: Beslut i ärende om villkorat<br>godkännande av anläggning för animaliska<br>livsmedel, används tillsammans med art. 3.1<br>b), EG-förordning 854/2004 samt art 60 3)<br>EG-förordning 882/2004 | FC | X |  |
 | 16 | Statens Livsmedelsverks föreskrift om<br>dricksvatten (SLVFS 2001:30, senast<br>ändrad LIVSFS 2017:2) |  |  |  |
@@ -4834,6 +4782,10 @@ beslut i nämnden.
 | 17.3 | 5 §: Beslut om att begära tillträde till sådana<br>lokaler, områden och entréer som avses i 3 §<br>för att utöva tillsynen. | FC | X |  |
 | 17.4 | 6 §: Beslut om att hos Polismyndigheten<br>begära sådan hjälp som behövs för genom-<br>förande av åtgärder enligt lagens 5 §. | FC | X |  |
 | 17.5 | 7–8 §§: Beslut om föreläggande, som ej är<br>förenat med vite, att vidta smittskydds-åtgärder<br>enligt lagens 3 § och anslutande föreskrifter. | FC | X |  |
+
+<!-- sida 129 -->
+
+20
 
 <!-- sida 130 -->
 
@@ -4857,26 +4809,67 @@ beslut i nämnden.
 
 <!-- sida 131 -->
 
+anmälan om registrering har gjorts, eller brister
+när det gäller att uppfylla krav på journalföring
+eller annan dokumentation
+18.7    33 §: Besluta att förordna att ett beslut ska FC X
+gälla omedelbart även om det överklagas
+19      Förordning (2006:814) om foder och
+animaliska biprodukter
+19.1    12 § FFA: Utöva offentlig kontroll över FC  X
+1\. nedgrävning av animaliska biprodukter,
+2\. utlämnande och transport av matavfall,
+3\. kompostering av matavfall när sådan
+kompostering genomförs på annat sätt än
+genom kompostering i en
+
+komposteringsanläggning som är godkänd
+av Jordbruksverket,
+4\. förvaring av animaliska biprodukter i
+primärproduktionen,
+5\. förbränningsanläggningar som förbränner
+animaliska biprodukter i primärproduktionen,
+6\. användning av andra organiska
+gödningsmedel och jordförbättringsmedel än
+naturgödsel, och
+befattning med naturgödsel i
+primärproduktionen enligt Europaparlamentets
+och rådets förordning (EG) nr 1069/2009.
+Förordning (2011:419)
+
+19.2    19 §: Anmäla till Jordbruksverket om FC     X
+nämnden i sin kontrollverksamhet finner att
+ett foder kan innebära allvarlig direkt eller
+indirekt risk för djurs och människors hälsa
+
+19.3    27 §: Besluta om att begära polis-myndighetens FC X
+biträde.
+20      Förordning (2006:1165) om avgifter för
+offentlig kontroll av foder och animaliska
+biprodukter
+20.1    3–6 §§: Besluta om årlig kontrollavgift för FC X Notera 8 § som
+offentlig kontroll i enlighet med den taxa       fr.o.m. 1
+som kommunfullmäktige fastställt.                januari 2022
+föreskriver vad
+Besluta om risk & erfarenhetsklassificering      som gäller för
+av foderföretagare och företagare som            debitering av
+befattar sig med animaliska biprodukter.         anläggningar
+som har
+
+efterhands-
+debitering av
+avgifter för
+LM-kontroll
+20.2    11 § jämte kommunens taxa: Besluta om att FC X
+sätta ned eller efterskänka avgiften när det
+finns särskilda skäl.
 22
-
-[Tabell 131-1](handlingar.tabeller/131-1.csv)
-
-|  | anmälan om registrering har gjorts, eller brister<br>när det gäller att uppfylla krav på journalföring<br>eller annan dokumentation |  |  |  |
-| --- | --- | --- | --- | --- |
-| 18.7 | 33 §: Besluta att förordna att ett beslut ska<br>gälla omedelbart även om det överklagas | FC | X |  |
-| 19 | Förordning (2006:814) om foder och<br>animaliska biprodukter |  |  |  |
-| 19.1 | 12 § FFA: Utöva offentlig kontroll över<br>1. nedgrävning av animaliska biprodukter,<br>2. utlämnande och transport av matavfall,<br>3. kompostering av matavfall när sådan<br>kompostering genomförs på annat sätt än<br>genom kompostering i en<br>komposteringsanläggning som är godkänd<br>av Jordbruksverket,<br>4. förvaring av animaliska biprodukter i<br>primärproduktionen,<br>5. förbränningsanläggningar som förbränner<br>animaliska biprodukter i primärproduktionen,<br>6. användning av andra organiska<br>gödningsmedel och jordförbättringsmedel än<br>naturgödsel, och<br>befattning med naturgödsel i<br>primärproduktionen enligt Europaparlamentets<br>och rådets förordning (EG) nr 1069/2009.<br>Förordning (2011:419) | FC | X |  |
-| 19.2 | 19 §: Anmäla till Jordbruksverket om<br>nämnden i sin kontrollverksamhet finner att<br>ett foder kan innebära allvarlig direkt eller<br>indirekt risk för djurs och människors hälsa | FC | X |  |
-| 19.3 | 27 §: Besluta om att begära polis-myndighetens<br>biträde. | FC | X |  |
-| 20 | Förordning (2006:1165) om avgifter för<br>offentlig kontroll av foder och animaliska<br>biprodukter |  |  |  |
-| 20.1 | 3–6 §§: Besluta om årlig kontrollavgift för<br>offentlig kontroll i enlighet med den taxa<br>som kommunfullmäktige fastställt.<br>Besluta om risk & erfarenhetsklassificering<br>av foderföretagare och företagare som<br>befattar sig med animaliska biprodukter. | FC | X | Notera 8 § som<br>fr.o.m. 1<br>januari 2022<br>föreskriver vad<br>som gäller för<br>debitering av<br>anläggningar<br>som har<br>efterhands-<br>debitering av<br>avgifter för<br>LM-kontroll |
-| 20.2 | 11 § jämte kommunens taxa: Besluta om att<br>sätta ned eller efterskänka avgiften när det<br>finns särskilda skäl. | FC | X |  |
 
 <!-- sida 132 -->
 
 23
 
-[Tabell 132-1](handlingar.tabeller/132-1.csv)
+[Tabell 132-137-1](handlingar.tabeller/132-137-1.csv)
 
 | 20.3 | 12 §: Besluta om avgift för offentlig kontroll<br>som ursprungligen inte var planerad och<br>offentlig verksamhet som hänger samman<br>med kontrollen. | FC | X |  |
 | --- | --- | --- | --- | --- |
@@ -4893,15 +4886,7 @@ beslut i nämnden.
 | 21.8 | 5 § förordning (2011:1060) om kontroll vid<br>export av livsmedel: Besluta om avgift för<br>exportkontroll och utfärdande av intyg | FC | X |  |
 | 21.10 | 11 och 12 §§ förordning (2006:812) om<br>avgifter: Besluta om avgift för importkontroll | FC | X |  |
 | 22 | Statens jordbruksverks föreskrifter<br>(SJVFS 2006:84) om befattning med<br>animaliska biprodukter och införsel av<br>andra produkter, utom livsmedel, som<br>kan sprida smittsamma sjukdomar till<br>djur och människor |  |  |  |
-
-<!-- sida 133 -->
-
-24
-
-[Tabell 133-1](handlingar.tabeller/133-1.csv)
-
 | 22.1 | 2 kap. 27 §: Anvisa plats för nedgrävning av<br>vissa animaliska biprodukter enligt 2 kap.<br>23–26 §§ | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 23 | Epidemiologisk utredning av livsmedels-<br>burna utbrott - Livsmedelsverkets föreskrift<br>LIVSFS 2005:7 |  |  |  |
 | 23.1 | 4 §: I samarbete med övriga myndigheter<br>genomföra epidemiologiska utredningar av<br>livsmedelsburna utbrott | FC | X |  |
 | 24 | Miljöbalken (1998:808) |  |  |  |
@@ -4915,15 +4900,7 @@ beslut i nämnden.
 | 24.8 | 7 kap. 22 § 3 st, första meningen MB: Besluta<br>om undantag (tillstånd eller dispens) från<br>vattenskyddsföreskrifter som länsstyrelsen har<br>meddelat i den mån länsstyrelsen överlåtit<br>sådan beslutanderätt på nämnden | FC | X |  |
 | 24.9 | 7 kap. 22 § 3 st, 2 meningen MB: Besluta i<br>anmälningsärende om åtgärd inom vatten-<br>skyddsområde som länsstyrelsen överlåtit på<br>kommunen | FC | X |  |
 | 24.10 | 2 kap. 9 § Miljötillsynsförordningen, MTSF:<br>Besluta i tillsynsärende gällande områden eller<br>djur- eller växtart över vilka kommunen har<br>tillsyn enligt 7 kap. miljöbalken | FC | X |  |
-
-<!-- sida 134 -->
-
-25
-
-[Tabell 134-1](handlingar.tabeller/134-1.csv)
-
 | 24.11 | 2 kap. 31 § 6 MTSF: Besluta i ärende om<br>tillsyn över utrustning i motorfordon, flyg och<br>tåg som innehåller kontrollerande ämnen enligt<br>förordningen (EGU) nr 517/2014 eller<br>förordning (EG) nr 1005/200 | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 24.12 | 2 kap. 34 § MTSF: Besluta i ärenden om<br>åtgärder avseende kosmetiska produkter enligt<br>artiklarna 24, 25.1, 25.5 första stycket, 26, 27.1<br>och 27.5 i förordning (EG) 1223/2009 | FC | X |  |
 | 24.13 | 1 kap. 11 § MPF 26 § FMH: Avge yttrande till<br>länsstyrelse avseende anmälningspliktig<br>ändring av verksamhet | FC | X |  |
 | 24.14 | 1 kap. 25 § Industriutsläppsförordningen:<br>Förelägganden om avhjälpande av brist i<br>statusrapport som inlämnats enligt 1 kap 24 §<br>Industriutsläppsförordningen och ej uppfyller<br>kraven enligt 1 kap. 23 § samma förordning | FC | X |  |
@@ -4933,15 +4910,7 @@ beslut i nämnden.
 | 24.18 | 9 kap. 10 § jämte lokala föreskrifter för att<br>skydda människors hälsa och miljön: Besluta i<br>ärende om tillstånd att inrätta grundvatten-täkt<br>inom område där knapphet på sött grundvatten<br>råder eller<br>befaras uppkomma.<br>Besluta i ärende om tillstånd om att inrätta<br>anläggning för ny grundvattentäkt eller i<br>ärende om anmälan av sådana anläggningar<br>som redan finns där tillstånd respektive<br>anmälan krävs enligt kommunens lokala<br>föreskrifter. | FC | X |  |
 | 24.19 | 9 kap. 11 § jämte 39 § FMH, lokala<br>föreskrifter för att skydda människors hälsa<br>och miljön: Besluta i ärende om tillstånd att<br>hålla vissa djur inom område med detaljplan<br>eller områdesbestämmelser där tillstånd krävs<br>enligt kommunens lokala föreskrifter | FC | X |  |
 | 24.20 | 9 kap. 12 § MB, 40 § första stycket 10 FMH,<br>lokala föreskrifter för att skydda människors<br>hälsa och miljö: Besluta i ärende om tillstånd | FC | X |  |
-
-<!-- sida 135 -->
-
-26
-
-[Tabell 135-1](handlingar.tabeller/135-1.csv)
-
 |  | eller anmälan för att inrätta eller använda en<br>luftvärmepump där tillstånd eller anmälan<br>krävs enligt kommunens lokala föreskrifter |  |  |  |
-| --- | --- | --- | --- | --- |
 | 24.21 | 9 kap. 15 §: Beslut, om det är nödvändigt för<br>att förhindra spridning av allvarlig smittsam<br>sjukdom som kan föras över till människor,<br>att låta förstöra föremål av personlig natur<br>och låta avliva sällskapsdjur som innehas av<br>privatpersoner | FC | X |  |
 | 24.22 | 10 kap. 1–4 §§: Besluta i tillsynsärende om<br>ansvar för verksamhetsutövare eller den som<br>annars är efterbehandlingsansvarig att utföra<br>och bekosta utredningar och<br>efterbehandlingsåtgärder | FC | X |  |
 | 24.23 | 10 kap. 12 – 14 §§ MB, 2 kap. 31 § p. 3-4 p<br>MTSF, 18-21 §§ FAM: Besluta i tillsyns-<br>ärende angående avhjälpande av allvarlig<br>miljöskada | FC | X |  |
@@ -4951,15 +4920,7 @@ beslut i nämnden.
 | 24.27 | 12 kap. 6 §: Avge yttrande till Länsstyrelsen<br>eller skogsvårdsstyrelsen i ärende angående<br>anmälan för samråd avseende verksamhet<br>eller åtgärd som väsentligt kan komma att<br>ändra eller skada naturmiljön | FC | X |  |
 | 24.28 | 14 kap. 9 § tredje stycket MB: Besluta att<br>avge yttrande i ärende om dispens från förbud<br>att sprida bekämpningsmedel över skogsmark<br>eller behandla enskilda trädstammar | FC | X |  |
 | 24.29 | 15 kap. 25 §: besluta att ge dispens från<br>förbudet i 15 kap. 25 § första stycket, om det<br>finns särskilda skäl och den som ska hantera<br>avfallet med stöd av dispensen kan göra det<br>på ett hälso- och miljömässigt sätt.<br>Besluta att ge tillstånd till avfallshantering<br>som avses i 24 § andra stycket, trots att<br>tillstånd inte krävs. | FC | X |  |
-
-<!-- sida 136 -->
-
-27
-
-[Tabell 136-1](handlingar.tabeller/136-1.csv)
-
 | 24.30 | 15 kap. 26 §: Förelägga ansvarig för ned-<br>skräpning att iordningställa platsen samt<br>vidta erforderliga förebyggande åtgärder | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 24.31 | 15 kap 27 §: Besluta i tillsynsärende om<br>dumpning av avfall | FC | X |  |
 | 24.32 | 19 kap. 5 § punkt 12 och 22 kap. 28 § första<br>stycket första meningen MB: Förordna att ett<br>tillstånd till miljöfarlig verksamhet ska gälla<br>även om det överklagas | FC | X |  |
 | 24.33 | 22 kap. 25 §: Besluta om villkor av mindre<br>betydelse som Mark- och miljödomstol i beslut<br>om tillstånd till vattenverksamhet överlåtit till<br>tillsynsmyndighet att fastställa. | FC | X |  |
@@ -4970,19 +4931,31 @@ beslut i nämnden.
 | 24.38 | Besluta om att upphäva förelägganden och<br>förbud som meddelats med stöd av 26 kap.<br>9–13 §§ MB | FC | X |  |
 | 24.39 | 26 kap. 13 § MB: Besluta att ålägga tidigare<br>ägare eller nyttjanderättshavare att lämna<br>uppgift om ny ägares eller<br>nyttjanderättshavares namn och adress. | FC | X |  |
 | 24.40 | 26 kap. 15 §: Besluta att sända föreläggande<br>eller förbud, som meddelats mot någon i<br>egenskap av ägare m.m. till inskrivnings-<br>myndigheten för anteckning i inskrivnings-<br>registret. | FC | X |  |
+| 24.41 | 26 kap. 17 § första stycket och 30 § MB:<br>Besluta ansöka om verkställighet vid<br>Kronofogdemyndigheten inom kontroll som<br>miljönämnden utför enligt 26 kap. 30 § MB. | FC | X |  |
+| 24.42 | 26 kap. 17 § andra stycket MB: Besluta att<br>ansöka hos Kronofogdemyndigheten om<br>särskild handräckning inom kontroll som<br>miljönämnden utför enligt 26 kap. 30 § MB | FC | X |  |
+| 24.43 | 26 kap. 19 §: Besluta att begära att den som<br>bedriver verksamhet som kan befaras medföra<br>olägenhet för människors hälsa eller påverka<br>miljön ska lämna förslag till kontrollprogram<br>eller förbättrande åtgärder samt förelägga den<br>som bedriver miljöfarlig verksamhet att avge<br>miljörapport | FC | X |  |
+
+<!-- sida 133 -->
+
+24
+
+<!-- sida 134 -->
+
+25
+
+<!-- sida 135 -->
+
+26
+
+<!-- sida 136 -->
+
+27
 
 <!-- sida 137 -->
 
 28
 
-[Tabell 137-1](handlingar.tabeller/137-1.csv)
-
-| 24.41 | 26 kap. 17 § första stycket och 30 § MB:<br>Besluta ansöka om verkställighet vid<br>Kronofogdemyndigheten inom kontroll som<br>miljönämnden utför enligt 26 kap. 30 § MB. | FC | X |  |
-| --- | --- | --- | --- | --- |
-| 24.42 | 26 kap. 17 § andra stycket MB: Besluta att<br>ansöka hos Kronofogdemyndigheten om<br>särskild handräckning inom kontroll som<br>miljönämnden utför enligt 26 kap. 30 § MB | FC | X |  |
-| 24.43 | 26 kap. 19 §: Besluta att begära att den som<br>bedriver verksamhet som kan befaras medföra<br>olägenhet för människors hälsa eller påverka<br>miljön ska lämna förslag till kontrollprogram<br>eller förbättrande åtgärder samt förelägga den<br>som bedriver miljöfarlig verksamhet att avge<br>miljörapport | FC | X |  |
-
-[Tabell 137-2](handlingar.tabeller/137-2.csv)
+[Tabell 137-143-1](handlingar.tabeller/137-143-1.csv)
 
 | 24.44 | 26 kap. 21 §: Besluta att förelägga den som<br>bedriver verksamhet eller vidtar åtgärd att<br>lämna de uppgifter och handlingar som behövs<br>för tillsynen | FC | X |  |
 | --- | --- | --- | --- | --- |
@@ -4991,15 +4964,7 @@ beslut i nämnden.
 | 24.47 | 26 kap. 22 § 3 stycket: Besluta om att förena<br>beslut om undersökning med förbud att<br>överlåta berörd fastighet eller egendom till<br>dess undersökningen är slutförd | FC | X |  |
 | 24.48 | 26 kap. 26 § och 32 § MB: Bestämma att<br>beslut i tillsynsärende ska gälla omedelbart<br>även om det överklagas.<br>Bestämma att beslut i ärende inom kontroll<br>som miljönämnden utför enligt 26 kap. 30 §<br>MB ska gälla omedelbart även om det<br>överklagas. | FC | X |  |
 | 24.49 | 27 kap. 1 § MB och kommunens taxa för<br>miljönämndens verksamhetsområde: Besluta<br>om avgift för prövning, tillsyn, kontroll och<br>annan offentlig verksamhet enligt kommunens<br>taxa om avgifter inom miljöbalkens<br>tillämpningsområde. | FC | X |  |
-
-<!-- sida 138 -->
-
-29
-
-[Tabell 138-1](handlingar.tabeller/138-1.csv)
-
 | 24.50 | Kommunens taxa för miljönämndens<br>verksamhetsområde: Besluta om nedsättning<br>av avgift eller efterskänkande av avgift i<br>enskilda fall enligt vad som föreskrivs i<br>kommunens taxa. | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 24.51 | 28 kap. 1 och 8 §§: Besluta att begära hjälp<br>av polismyndigheten för att få tillträde till<br>fastigheter, byggnader, andra anläggningar<br>samt transportmedel för att myndighetens<br>uppgifter ska kunna utföras. | FC | X |  |
 | 24.52 | 30 kap. 3 §: Besluta om miljösanktionsavgift | FC | X | Innan beslut<br>om avgift ska<br>den som<br>anspråket<br>riktas mot<br>ges tillfälle<br>att yttra sig. |
 | 25 | Miljöprövningsförordningen (2013:251) |  |  |  |
@@ -5009,15 +4974,7 @@ beslut i nämnden.
 | 27 | Förordningen om miljöfarlig verksamhet<br>och hälsoskydd (1998:899) |  |  |  |
 | 27.1 | 5, 22, & 26 §§: Avge yttrande till<br>Länsstyrelsen i anmälningsärende angående<br>mindre ändring av tillstånds-pliktig<br>miljöfarlig verksamhet. | FC | X |  |
 | 27.2 | 13 § 1 & 2 stycket: Besluta i ärende om<br>tillstånd att inrätta avloppsanordning med<br>ansluten vattentoalett.<br>Besluta i ärende om tillstånd att ansluta<br>vattentoalett till befintlig avloppsanordning.<br>Besluta i ärende om anmälan för att inrätta<br>annan avloppsanordning än sådan som kräver<br>tillstånd. | FC | X |  |
-
-<!-- sida 139 -->
-
-30
-
-[Tabell 139-1](handlingar.tabeller/139-1.csv)
-
 | 27.3 | 13 § fjärde stycket jämte föreskrifter för att<br>skydda människors hälsa & miljön, lokala<br>vattenskyddsföreskrifter: Besluta i ärende om<br>tillstånd att inrätta annan avlopps-anordning<br>än sådan till vilken vattentoalett är ansluten<br>inom de delar av kommunen där tillstånd<br>krävs enligt kommunens lokala föreskrifter | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 27.4 | 14 §: Besluta i ärende om anmälan eller<br>tillstånd att ändra avloppsanordningar som<br>avses i 13 § FMH. | FC | X |  |
 | 27.5 | 17 § första stycket, första meningen FMH:<br>Besluta i ärende om anmälan/tillstånd att<br>inrätta värmepumpsanläggning för utvinning<br>av värme ur mark, ytvatten eller grundvatten | FC | X |  |
 | 27.6 | 18 §: I beslut om tillstånd att inrätta en<br>avloppsanordning som avses i 13 § får den<br>kommunala nämnden föreskriva att<br>anordningen inte får tas i bruk förrän den har<br>besiktigats och godkänts av nämnden.<br>Detsamma gäller ett beslut om tillstånd att<br>inrätta en värmepumpsanläggning som avses i<br>17 § | FC | X |  |
@@ -5026,15 +4983,7 @@ beslut i nämnden.
 | 27.9 | 25 b §: Medge undantag från kraven i § 25 a<br>samt besluta om samordning med ärende<br>enligt plan- och bygglagen som avser samma<br>vindkraftverk | FC | X |  |
 | 27.10 | 28 §: Besluta om försiktighetsåtgärder vid<br>efterbehandlingsåtgärder i förorenade<br>områden.<br>28 § FHM: Besluta i anmälningsärende om<br>avhjälpandeåtgärd med anledning av en<br>föroreningsskada, när åtgärden kan medföra<br>ökad risk för spridning eller exponering av<br>föroreningarna. | FC | X |  |
 | 27.11 | 37 och 42 §§ FHM jämte lokala föreskrifter<br>för att skydda människors hälsa och miljön:<br>Besluta i ärende avseende anläggande av<br>gödselstad eller annan upplagsplats för<br>djurspillning inom område med detaljplan, | FC | X |  |
-
-<!-- sida 140 -->
-
-31
-
-[Tabell 140-1](handlingar.tabeller/140-1.csv)
-
 |  | eller, om kommunen så föreskrivit, annat<br>tätbebyggt område |  |  |  |
-| --- | --- | --- | --- | --- |
 | 27.12 | 38 §: Besluta i ärende om anmälan om att<br>driva eller arrangera verksamhet. | FC | X |  |
 | 27.13 | 39 §: Beslut om särskilt tillstånd, som får<br>förenas med särskilda villkor, om att hålla<br>nötkreatur, häst, get, får, svin, pälsdjur,<br>fjäderfä som ej är sällskapsdjur eller orm<br>inom område med detaljplan eller områdes-<br>bestämmelser. | FC | X | Endast om<br>det behövs<br>för att hindra<br>att hälso-<br>olägenheter<br>uppkommer. |
 | 27.14 | 40 § FMH och lokala föreskrifter för att<br>skydda människors hälsa och miljön: Besluta<br>om ärenden avseende tillstånd eller dispens i<br>enlighet med Kungsbacka kommuns lokala<br>föreskrifter för att skydda människors hälsa<br>och miljön, om det är uppenbart att risk för<br>olägenheter från miljö- och hälsoskydds-<br>synpunkt inte föreligger. Undantag för<br>föreskriftens 12 § (camping) och 13 §<br>(gatumusik) som beslutas av polis-<br>myndigheten. | FC | X |  |
@@ -5043,15 +4992,7 @@ beslut i nämnden.
 | 27.17 | 9 kap. 12 § MB, 40 § första stycket 5 FMH,<br>lokala föreskrifter för att skydda människors<br>hälsa och miljön: Besluta i ärende om tillstånd<br>eller anmälan till upplag eller annan<br>verksamhet där tillstånd eller anmälan krävs<br>inom vissa områden enligt kommunens lokala<br>föreskrifter | FC | X |  |
 | 28 | Förordning (2018:471) om medelstora<br>förbränningsanläggningar |  |  |  |
 | 28.1 | 20 §: Besluta att förelägga<br>verksamhetsutövare att avhjälpa bristen om<br>informationen enligt 18 § förordning<br>(2018:471) om medelstora förbrännings-<br>anläggningar är bristfällig | FC | X |  |
-
-<!-- sida 141 -->
-
-32
-
-[Tabell 141-1](handlingar.tabeller/141-1.csv)
-
 | 28.2 | 47 §: Besluta i ärende om dispens från<br>kravet på mätning av koldioxid | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 28.3 | 55 §: Besluta i ärende med anledning av<br>verksamhetsutövarens information enligt 55<br>§ förordning (2018:471) om medelstora<br>förbränningsanläggningar | FC | X |  |
 | 28.4 | 57 §: Besluta förelägga<br>verksamhetsutövaren att lämna in handling<br>eller uppgift som dokumenterats med stöd<br>av 56 § förordning (2018:471) om<br>medelstora förbränningsanläggningar när<br>sådan handling eller uppgift begärs med<br>stöd av 57 § | FC | X |  |
 | 29 | Förordning om miljöhänsyn i jordbruket<br>(1998:915) |  |  |  |
@@ -5066,15 +5007,7 @@ beslut i nämnden.
 | 31.5 | 5 kap: Avge yttrande om detaljplan vid s.k.<br>begränsat förfarande (planer startade fr.o.m. 1<br>januari 2015) | FC | X |  |
 | 31.6 | 5 kap: Avge yttrande om detaljplan vid s.k.<br>samordnat förfarande (planer startade fr.o.m. 1<br>januari 2015) | FC | X |  |
 | 31.7 | 5 kap: Besluta om yttrande i ärenden vid<br>domstol eller annan myndighet avseende<br>detaljplan och områdesbestämmelser i<br>gransknings-skedet när nämnden tidigare<br>avgett yttrande i samrådsskedet. | FC | X |  |
-
-<!-- sida 142 -->
-
-33
-
-[Tabell 142-1](handlingar.tabeller/142-1.csv)
-
 | 32 | Badvattenförordningen (2008:218) |  |  |  |
-| --- | --- | --- | --- | --- |
 | 32.1 | 11 §: Vidta åtgärder om ett badvattens<br>kvalitet försämras av en oväntad situation<br>som inverkar negativt på badandes hälsa eller<br>sannolikt kan få en sådan inverkan, för att<br>hindra en sådan negativ inverkan och för att<br>förebygga ytterligare försämringar av<br>badvattnets kvalitet. | FC | X |  |
 | 32.2 | 14 §: Vidta åtgärder för att hindra en negativ<br>inverkan på badandes hälsa, om det i ett<br>badvatten sker en utbredning av sådana<br>bakterier eller alger som avses i 12 § eller om<br>avfall som avses i 13 § identifieras och<br>kommunen befarar eller konstaterar att<br>utbredningen eller avfallet utgör en hälso-<br>risk. | FC | X |  |
 | 33 | Förordning om PCB m.m. (2007:19) |  |  |  |
@@ -5088,15 +5021,7 @@ beslut i nämnden.
 | 34.4 | 3 kap. 19 a §: I fråga om utsorterat trädgårds-<br>eller parkavfall besluta om dispens från förbud<br>mot förbränning av separat insamlat avfall i 19<br>§ om förbränning sker i samband med sådan<br>offentlig tillställning som avses i 2 kap. 3 §<br>ordningslagen (1993:1617) och görs utan risk<br>för olägenhet för människors hälsa eller miljön | FC | X | Dispens ska<br>avse en viss<br>mängd avfall<br>samt tid och<br>plats |
 | 34.5 | Avge yttrande i ärende gällande tillstånd eller<br>anmälan enligt 5 kap. avfallsförordningen | FC |  |  |
 | 34.6 | 5 kap. 15 §: Besluta i anledning av anmälan<br>om att kompostera eller på annat sätt behandla | FC | X |  |
-
-<!-- sida 143 -->
-
-34
-
-[Tabell 143-1](handlingar.tabeller/143-1.csv)
-
 |  | avfall som inte är trädgårdsavfall och som<br>kommunen ansvarar för enligt 15 kap. 20 MB,<br>från fastighetsinnehavare i enbostadshus |  |  |  |
-| --- | --- | --- | --- | --- |
 | 34.7 | 5 kap. 15 §: Besluta i anledning av anmälan<br>om att kompostera eller på annat sätt behandla<br>avfall som inte är trädgårdsavfall och som<br>kommunen ansvarar för enligt 15 kap. 20 MB,<br>från fastighetsinnehavare för flerbostadshus,<br>samfälligheter, skolor eller förskolor | FC | X |  |
 | 34.8 | Kommunens avfallsföreskrifter: Besluta att<br>anvisa plats för lämning av kommunalt avfall.<br>Besluta om undantag, anmälan och ansökan i<br>enlighet med renhållningsordningens avfalls-<br>föreskrifter | FC | X | Nämnden för<br>teknik ansvarar<br>för anvisning<br>av plats. NMH<br>äger rätt att<br>anvisa en plats<br>om teknik-<br>nämnden<br>medger detta. |
 | 34.9 | 15 c § förordningen (2001:512) om deponering<br>av avfall: Besluta om dispens från föreskrifter<br>om gränsvärden som Naturvårdsverket<br>meddelat med stöd av 15 §<br>deponeringsförordningen | FC | X |  |
@@ -5110,32 +5035,92 @@ beslut i nämnden.
 | 36 | Strålskyddslagen (2018:396) |  |  |  |
 | 36.1 | 8 kap. 4 §: Besluta att begära upplysningar eller<br>handlingar som behövs för tillsynen | FC | X |  |
 
+<!-- sida 138 -->
+
+29
+
+<!-- sida 139 -->
+
+30
+
+<!-- sida 140 -->
+
+31
+
+<!-- sida 141 -->
+
+32
+
+<!-- sida 142 -->
+
+33
+
+<!-- sida 143 -->
+
+34
+
 <!-- sida 144 -->
 
+36.2    8 kap. 5 §: Besluta om att genomföra FC     X
+kontrollköp av verksamhetsutövare
+36.3    8 kap. 6 §: Besluta om föreläggande och FC  X
+förbud, utan vite
+36.4    8 kap. 8 §: Besluta om att omhänderta ett FC X
+radioaktivt material eller en teknisk anordning
+som innehåller ett radioaktivt ämne eller som
+kan alstra strålning.
+
+6
+36.5     8 kap. 9 §: Besluta att försegla fastigheter, FC X
+byggnader, utrymmen & andra anläggningar
+där verksamhet med joniserande strålning
+bedrivs samt att försegla tekniska
+anordningar som innehåller ett radioaktivt
+ämne eller kan alstra strålning, om det
+behövs för att förebygga att anläggningarna,
+utrustningarna eller anordningarna används
+olovligen.
+36.6     8 kap. 10 §: Besluta att de åtgärder som FC X
+behövs för att åstadkomma rättelse ska
+vidtas på den felandes bekostnad om den
+felande inte har följt ett föreläggande eller
+rättelse bör göras genast med hänsyn till
+risken för allvarliga skador eller andra
+särskilda skäl.
+36.7     8 kap. 11–12 §: Tillträda fastigheter, FC  X
+byggnader, utrymmen & andra anläggningar
+samt transportmedel där verksamhet enligt
+smittskyddslagen bedrivs för provtagning,
+undersökningar och andra åtgärder som
+
+behövs för tillsynen.
+
+Besluta om Polismyndighetens biträde vid
+tillsyn enligt lagen
+36.8     10 kap. 3 §: Besluta om att delegationsbeslut FC X
+inte ska gälla omedelbart.
+
+37       Strålsäkerhetsmyndighetens föreskrifter
+om solarier och artificiella solnings-
+anläggningar (SSMFS 2012:5)
+37.1     10 §: Besluta i ärende om anmälan av FC    X
+kosmetiskt solarium upplåts till allmänheten
+
+37.2     19 §: Besluta i tillsynsärenden FC         X
+
+38       Bilskrotningsförordningen (2007:186)
+38.1     6 §: Avge yttrande till Länsstyrelsen i FC X
+ärende angående auktorisation av
+bilskrotningsverksamhet
+39       Lagen om viten (1985:206)
+
 35
-
-[Tabell 144-1](handlingar.tabeller/144-1.csv)
-
-|  | 36.2 | 8 kap. 5 §: Besluta om att genomföra<br>kontrollköp av verksamhetsutövare |  | FC |  | X |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  | 36.3 | 8 kap. 6 §: Besluta om föreläggande och<br>förbud, utan vite |  | FC |  | X |  |
-|  | 36.4 | 8 kap. 8 §: Besluta om att omhänderta ett<br>radioaktivt material eller en teknisk anordning<br>som innehåller ett radioaktivt ämne eller som<br>kan alstra strålning. |  | FC |  | X |  |
-| 6<br>36.5 |  | 8 kap. 9 §: Besluta att försegla fastigheter,<br>byggnader, utrymmen & andra anläggningar<br>där verksamhet med joniserande strålning<br>bedrivs samt att försegla tekniska<br>anordningar som innehåller ett radioaktivt<br>ämne eller kan alstra strålning, om det<br>behövs för att förebygga att anläggningarna,<br>utrustningarna eller anordningarna används<br>olovligen. | FC |  | X |  |  |
-| 36.6 |  | 8 kap. 10 §: Besluta att de åtgärder som<br>behövs för att åstadkomma rättelse ska<br>vidtas på den felandes bekostnad om den<br>felande inte har följt ett föreläggande eller<br>rättelse bör göras genast med hänsyn till<br>risken för allvarliga skador eller andra<br>särskilda skäl. | FC |  | X |  |  |
-| 36.7 |  | 8 kap. 11–12 §: Tillträda fastigheter,<br>byggnader, utrymmen & andra anläggningar<br>samt transportmedel där verksamhet enligt<br>smittskyddslagen bedrivs för provtagning,<br>undersökningar och andra åtgärder som<br>behövs för tillsynen.<br>Besluta om Polismyndighetens biträde vid<br>tillsyn enligt lagen | FC |  | X |  |  |
-| 36.8 |  | 10 kap. 3 §: Besluta om att delegationsbeslut<br>inte ska gälla omedelbart. | FC |  | X |  |  |
-| 37 |  | Strålsäkerhetsmyndighetens föreskrifter<br>om solarier och artificiella solnings-<br>anläggningar (SSMFS 2012:5) |  |  |  |  |  |
-| 37.1 |  | 10 §: Besluta i ärende om anmälan av<br>kosmetiskt solarium upplåts till allmänheten | FC |  | X |  |  |
-| 37.2 |  | 19 §: Besluta i tillsynsärenden | FC |  | X |  |  |
-| 38 |  | Bilskrotningsförordningen (2007:186) |  |  |  |  |  |
-| 38.1 |  | 6 §: Avge yttrande till Länsstyrelsen i<br>ärende angående auktorisation av<br>bilskrotningsverksamhet | FC |  | X |  |  |
-| 39 |  | Lagen om viten (1985:206) |  |  |  |  |  |
 
 <!-- sida 145 -->
 
 36
 
-[Tabell 145-1](handlingar.tabeller/145-1.csv)
+[Tabell 145-146-1](handlingar.tabeller/145-146-1.csv)
 
 | 39.1 | 6 §: Besluta att ansöka hos mark- och<br>miljödomstol respektive förvaltningsrätten om<br>utdömande av vite | NMH ordf.<br>& i dennes<br>frånvaro<br>vice ordf. |  |  |
 | --- | --- | --- | --- | --- |
@@ -5157,15 +5142,7 @@ beslut i nämnden.
 | 42.2 | Beslut om nedsättning av avgift | FC | X |  |
 | 42.3 | 1 kap. 2 § och 9 kap. 5 § FAPT: Besluta att<br>beslut om avgift ska gälla omedelbart även<br>om det överklagas. | FC | X |  |
 |  | Taxa för offentlig kontroll av livsmedel |  |  |  |
-
-<!-- sida 146 -->
-
-37
-
-[Tabell 146-1](handlingar.tabeller/146-1.csv)
-
 | 42.4 | Beslut om uttag av avgift | FC | X |  |
-| --- | --- | --- | --- | --- |
 | 42.5 | Beslut om nedsättning av avgift | FC |  |  |
 |  | Taxa för tillsyn enligt lagen om handel med<br>vissa receptfria läkemedel |  | X |  |
 | 42.6 | Beslut om avgift | FC | X |  |
@@ -5178,6 +5155,10 @@ beslut i nämnden.
 | 42.11 | Beslut om nedsättning av avgift | FC |  |  |
 | 43 | Lag om sprängämnesprekursorer<br>(2014:799) |  |  |  |
 | 43.1 | 6 §: Besluta i tillsynsärenden | FC | X |  |
+
+<!-- sida 146 -->
+
+37
 
 <!-- sida 147 -->
 

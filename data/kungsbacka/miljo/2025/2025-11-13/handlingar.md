@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.70d00e119a55206bf5521b4/17628627483
 sha256: 58334f80f345bb09477fa79647290e8a9c5985703bb2a87bee9e123e3b00620f
 bytes: 15211064
 sidor: 155
-hamtad: 2026-10-08T08:06:31+00:00
-konverterad: 2026-10-08T08:07:08+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T11:01:37+00:00
+konverterad: 2026-10-14T11:02:14+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [112]
-figurer: null
-tolkade: null
+figurer: [5, 40, 42, 43, 45, 47, 48, 56, 60, 64, 67, 69, 72, 74, 77, 80, 82, 84, 87, 88, 89, 91, 98, 105, 112, 113, 114, 115, 116]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -554,7 +554,7 @@ Fokusområden
 
 13
 
-[Tabell 14-1](handlingar.tabeller/14-1.csv)
+[Tabell 14-15-1](handlingar.tabeller/14-15-1.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -563,6 +563,8 @@ Fokusområden
 | Anmälda brott mot brottsbalken per invånare<br>(antal/100 000 invånare) | 6 475 | 6 541 |  | Minska |
 | Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 91 % | 88 % |  | Öka |
 | Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn | 76 % | 76 % |  | Öka |
+| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn |  | 95 % |  | Öka |
+| Invånare 16-84 år med avsaknad av tillit till<br>andra |  |  |  | Minska |
 
 <!-- sida 15 -->
 
@@ -582,14 +584,7 @@ mångfald.
 
 14
 
-[Tabell 15-1](handlingar.tabeller/15-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
-| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn |  | 95 % |  | Öka |
-| Invånare 16-84 år med avsaknad av tillit till<br>andra |  |  |  | Minska |
-
-[Tabell 15-2](handlingar.tabeller/15-2.csv)
+[Tabell 15-16-1](handlingar.tabeller/15-16-1.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -599,6 +594,17 @@ mångfald.
 | Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Pojkar.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 92 % | 89 % |  |  |
 | Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i% -<br>flickor. | 73 % | 75 % |  | Öka |
 | Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i% -<br>pojkar. | 86 % | 88 % |  | Öka |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 92 |  |  | Minska |
+| Avfall från kommunens verksamheter ska<br>minska med 40 % per heltidsanställd. Startvärde<br>100, målvärde 2030 är 60. | 223 |  |  | Minska |
+| Fossiloberoende personbilar, andel av totalt<br>antal bilar i det geografiska området, (Kolada) | 24,1 % | 26,5 % |  | Öka |
+| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,79 | 1,85 |  | Minska |
+| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021<br>var antalet 124 (KEMgroup PRO) | 115 | 151 |  | Minska |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  | Öka |
+| Andelen återbrukade möbler |  |  |  | Öka |
+| Total debiterad vattenförbrukning fördelat på<br>antal anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  | Minska |
+| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn. |  |  |  | Minska |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  | Minska |
 
 <!-- sida 16 -->
 
@@ -620,22 +626,6 @@ Indikator                      Utfall 2023 Utfall 2024 Utfall 2025
 2026
 
 15
-
-[Tabell 16-1](handlingar.tabeller/16-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
-| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 92 |  |  | Minska |
-| Avfall från kommunens verksamheter ska<br>minska med 40 % per heltidsanställd. Startvärde<br>100, målvärde 2030 är 60. | 223 |  |  | Minska |
-| Fossiloberoende personbilar, andel av totalt<br>antal bilar i det geografiska området, (Kolada) | 24,1 % | 26,5 % |  | Öka |
-| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,79 | 1,85 |  | Minska |
-| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021<br>var antalet 124 (KEMgroup PRO) | 115 | 151 |  | Minska |
-| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
-| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  | Öka |
-| Andelen återbrukade möbler |  |  |  | Öka |
-| Total debiterad vattenförbrukning fördelat på<br>antal anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  | Minska |
-| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn. |  |  |  | Minska |
-| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  | Minska |
 
 <!-- sida 17 -->
 
@@ -1156,26 +1146,47 @@ Behovsutredningen visar en differens på personaltillgång och resursbehov inom
 
 miljöbalkens område med drygt 0,4 årsarbetare för mycket.
 
+Resursbehov
+enligt
+Resursbehov enligt årets behovsutredning
+Personaltillgångar
+föregående års                        2026
+behovsutredning
+Tillsynsområde Årsarbetare 2025
+Årsarbetare 2026 Årsarbetare Årsarbetare
+Årsarbetare 2026
+Antal personal
+år 1    2027 år 2 2028 år 3         2026
+
+```osaker-tabell
+Miljöfarlig verksamhet 10,21 3,82  2,84     2,84  22,50 (inom MB) 24,00 (inom MB)
+Förorenade områden 1,34   1,22     1,22     1,22
+Hälsoskydd      3,62      3,54     2,09     2,09
+Avfallshantering          2,02     1,73     1,73
+```
+
+Kemikalier och
+0,48     0,37     0,37
+bekämpningsmedel
+Små avlopp      5,46      4,71     4,71     4,71
+Dricksvatten och
+0,27     0,26     0,26
+vattenskyddsområde
+Strandskydd &
+1,04      0,76     0,76     0,76
+naturvård
+Lantbruk (jordbruk &
+1,63     1,45     1,45
+djurhållning)
+
+```osaker-tabell
+Övrigt miljöbalken        3,63     2,95     2,95
+Livsmedel       2,46      2,39     2,41     2,45     2,50     3,00
+Servering       3,97      4,16     3,85     3,72     4,00     4,00
+Årsarbetare totalt 28,09  28,62    24,63    24,54    29,00    31,00
+```
+
 Sida 1 av 62
-
-[Tabell 30-1](handlingar.tabeller/30-1.csv)
-
-|  |  | Resursbehov<br>enligt<br>föregående års<br>behovsutredning | Resursbehov enligt årets behovsutredning |  |  | Personaltillgångar<br>2026 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Tillsynsområde | Årsarbetare 2025 |  | Årsarbetare 2026<br>år 1 | Årsarbetare<br>2027 år 2 | Årsarbetare<br>2028 år 3 | Årsarbetare 2026 | Antal personal<br>2026 |
-| Miljöfarlig verksamhet | 10,21 |  | 3,82 | 2,84 | 2,84 | 22,50 (inom MB) | 24,00 (inom MB) |
-| Förorenade områden | 1,34 |  | 1,22 | 1,22 | 1,22 |  |  |
-| Hälsoskydd | 3,62 |  | 3,54 | 2,09 | 2,09 |  |  |
-| Avfallshantering |  |  | 2,02 | 1,73 | 1,73 |  |  |
-| Kemikalier och<br>bekämpningsmedel |  |  | 0,48 | 0,37 | 0,37 |  |  |
-| Små avlopp | 5,46 |  | 4,71 | 4,71 | 4,71 |  |  |
-| Dricksvatten och<br>vattenskyddsområde |  |  | 0,27 | 0,26 | 0,26 |  |  |
-| Strandskydd &<br>naturvård | 1,04 |  | 0,76 | 0,76 | 0,76 |  |  |
-| Lantbruk (jordbruk &<br>djurhållning) |  |  | 1,63 | 1,45 | 1,45 |  |  |
-| Övrigt miljöbalken |  |  | 3,63 | 2,95 | 2,95 |  |  |
-| Livsmedel | 2,46 |  | 2,39 | 2,41 | 2,45 | 2,50 | 3,00 |
-| Servering | 3,97 |  | 4,16 | 3,85 | 3,72 | 4,00 | 4,00 |
-| Årsarbetare totalt | 28,09 |  | 28,62 | 24,63 | 24,54 | 29,00 | 31,00 |
 
 <!-- sida 31 -->
 
@@ -5947,46 +5958,32 @@ respektive återvinningscentral.
 
 Kungsbacka kommun             Lokala avfallsföreskrifter       24 (34)
 
-[Tabell 141-1](handlingar.tabeller/141-1.csv)
+[Tabell 141-144-1](handlingar.tabeller/141-144-1.csv)
 
 | Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
 | --- | --- | --- | --- |
 | Annat avfall än avfall<br>under kommunalt ansvar. | Detta avfall ska<br>hanteras separat från<br>avfall under<br>kommunalt ansvar<br>enligt 15 kap. 20 §<br>miljöbalken. | Fraktionerna ska<br>förvaras och<br>transporteras skilt från<br>varandra och annat<br>avfall. Ska emballeras<br>efter mottagarens<br>villkor. | Kontakta lämplig<br>entreprenör. |
 | Bygg- och rivningsavfall<br>som inte producerats i en<br>yrkesmässig verksamhet | Detta avfall ska<br>sorteras ut och<br>hanteras separat från<br>kommunalt avfall och<br>avfall under<br>kommunalt ansvar<br>enligt 15 kap. 20 §<br>miljöbalken. Avfallet<br>ska utöver<br>utsortering av farligt<br>avfall samt<br>elektronikavfall<br>sorteras i minst<br>följande fraktioner:<br>trä, mineral (som<br>består av betong,<br>tegel, klinker,<br>keramik eller sten),<br>metall, glas, plast<br>och gips. | För vissa fraktioner<br>ställs specifika krav på<br>emballering, till<br>exempel för asbest (se<br>nedan). | Avfallet lämnas<br>utsorterat på<br>återvinningscentral<br>eller hämtas<br>fastighetsnära av<br>entreprenör som<br>ingått avtal kring<br>hämtning av bygg-<br>och rivningsavfall<br>med kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
 | Bygg- och rivningsavfall i<br>form av schaktmassor som<br>lyder under kommunalt<br>ansvar |  |  | Hämtas<br>fastighetsnära av<br>entreprenör som<br>ingått avtal kring<br>hämtning av bygg-<br>och rivningsavfall<br>med kommunen. |
+| Farligt avfall | Följande produkter<br>eller ämnen utgör<br>exempel på vad som<br>ska hanteras som<br>farligt avfall:<br>• Färg<br>• Lösningsmedel<br>• Kemikalier<br>• Ljuskällor<br>• Bensin och diesel<br>• Bekämpningsmedel<br>• Avfall som<br>innehåller<br>kvicksilver | Ska vara emballerat<br>och tydligt märkt med<br>uppgift om innehåll.<br>Olika typer av farligt<br>avfall får inte blandas<br>eller spädas ut med:<br>(1) andra slag av farligt<br>avfall,<br>(2) annat avfall eller<br>(3) andra ämnen eller<br>material. | Farligt avfall lämnas<br>på<br>återvinningscentral.<br>Hämtning av farligt<br>avfall från fastighet<br>kan beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa. Farligt<br>avfall som inte faller<br>under kommunalt<br>ansvar hanteras ej<br>av kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
+| Asbest | Asbest utgör farligt<br>avfall. | Förpackas väl i kraftig<br>plast (minst 0,2 mm).<br>Avfallet ska vara<br>emballerat så att det är<br>dammtätt.<br>Asbest som är<br>emballerat i sopsäckar<br>tas inte emot. | Asbest från<br>privatpersoner<br>lämnas på<br>återvinningscentral<br>som tar emot den<br>typen av avfall. |
+| Spillolja | Spillolja utgör farligt<br>avfall. Spillolja ska<br>sorteras ut och<br>hanteras separat från<br>annat farligt avfall.<br>Spillolja som är<br>isolerolja ska hållas<br>åtskild från andra<br>isoleroljor och andra<br>spilloljor till dess att<br>halten av PCB-<br>produkter i isoleroljan<br>har fastställts.<br>Den som hanterar<br>spillolja ska se till att<br>spilloljan inte blandas<br>med spilloljor med<br>andra egenskaper<br>eller med andra typer<br>av avfall eller ämnen<br>på ett sätt som: | Ska vara emballerat i<br>oljebeständig<br>förpackning och tydligt<br>märkt med uppgift om<br>innehåll. | Spillolja i konsument-<br>förpackning lämnas<br>av privatpersoner på<br>återvinningscentral. |
+|  | Hindrar (1)<br>regenerering av<br>spilloljan, eller<br>(2) annan material-<br>återvinning som ger<br>likvärdiga eller bättre<br>miljöeffekter än<br>regenerering. |  |  |
+| Grovavfall | Grovavfall som utgör<br>kommunalt avfall<br>under kommunalt<br>ansvar och som på<br>grund av avfallets<br>egenskaper behöver<br>hanteras separat från<br>annat kommunalt<br>avfall och avfall<br>under kommunalt<br>ansvar.<br>Avfallet ska sorteras<br>enligt gällande<br>sorterings-<br>instruktioner på ÅVC. | Grovavfall som hämtas<br>av renhållarens<br>utförare ska i den mån<br>det är möjligt buntas<br>eller förpackas i<br>lämpligt emballage.<br>Längder ska vara<br>maximalt 1,2 meter<br>med en största volym<br>av 1 kubikmeter och<br>med en vikt av högst<br>30 kilogram/kolli.<br>Sortering ska ske<br>enligt kommunens<br>instruktioner.<br>Emballaget ska<br>märkas med<br>”grovavfall” och<br>respektive fraktion. | Grovavfall lämnas på<br>återvinningscentral.<br>På<br>återvinningscentralen<br>ska avfallet sorteras<br>och lämnas enligt<br>instruktioner på plats.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Annan transportör<br>godtas enligt 15a§. |
+| Restavfall<br>(Sorterat brännbart kärl-<br>och säckavfall som faller<br>under kommunalt ansvar) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | Ska emballeras i<br>lämpligt material så att<br>avfallet inte kan<br>spridas eller damma<br>vid tömning. | Hämtning sker enligt<br>bilaga 2. |
+| Komposterbart<br>trädgårdsavfall<br>(Till komposterbart<br>trädgårdsavfall räknas<br>växtavfall som<br>uppkommer vid normal<br>trädgårdsskötsel däremot<br>inte fällda träd eller avfall<br>som uppstår vid större<br>anläggningsarbeten i en<br>trädgård.) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | På återvinnings-<br>centralen ska avfallet<br>lämnas enligt<br>instruktioner på plats. | Komposterbart<br>trädgårdsavfall<br>lämnas på<br>återvinningscentral.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Hämtning av<br>komposterbart<br>trädgårdsavfall sker<br>separat från<br>hämtning av annat<br>grovavfall.<br>För abonnemang<br>med hämtning av<br>komposterbart<br>trädgårdsavfall i kärl,<br>ska avfallet läggas<br>löst i kärlet och inte<br>packas så hårt att<br>tömningen försvåras.<br>Annan transportör<br>godtas enligt 15a§<br>Trädgårdsavfall från<br>den egna fastigheten<br>får komposteras på<br>fastigheten.<br>Särskilda regler<br>gäller för avfall som<br>innehåller invasiva<br>växter. |
 
 <!-- sida 142 -->
 
 Kungsbacka kommun             Lokala avfallsföreskrifter       25 (34)
 
-[Tabell 142-1](handlingar.tabeller/142-1.csv)
-
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
-| --- | --- | --- | --- |
-| Farligt avfall | Följande produkter<br>eller ämnen utgör<br>exempel på vad som<br>ska hanteras som<br>farligt avfall:<br>• Färg<br>• Lösningsmedel<br>• Kemikalier<br>• Ljuskällor<br>• Bensin och diesel<br>• Bekämpningsmedel<br>• Avfall som<br>innehåller<br>kvicksilver | Ska vara emballerat<br>och tydligt märkt med<br>uppgift om innehåll.<br>Olika typer av farligt<br>avfall får inte blandas<br>eller spädas ut med:<br>(1) andra slag av farligt<br>avfall,<br>(2) annat avfall eller<br>(3) andra ämnen eller<br>material. | Farligt avfall lämnas<br>på<br>återvinningscentral.<br>Hämtning av farligt<br>avfall från fastighet<br>kan beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa. Farligt<br>avfall som inte faller<br>under kommunalt<br>ansvar hanteras ej<br>av kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
-| Asbest | Asbest utgör farligt<br>avfall. | Förpackas väl i kraftig<br>plast (minst 0,2 mm).<br>Avfallet ska vara<br>emballerat så att det är<br>dammtätt.<br>Asbest som är<br>emballerat i sopsäckar<br>tas inte emot. | Asbest från<br>privatpersoner<br>lämnas på<br>återvinningscentral<br>som tar emot den<br>typen av avfall. |
-| Spillolja | Spillolja utgör farligt<br>avfall. Spillolja ska<br>sorteras ut och<br>hanteras separat från<br>annat farligt avfall.<br>Spillolja som är<br>isolerolja ska hållas<br>åtskild från andra<br>isoleroljor och andra<br>spilloljor till dess att<br>halten av PCB-<br>produkter i isoleroljan<br>har fastställts.<br>Den som hanterar<br>spillolja ska se till att<br>spilloljan inte blandas<br>med spilloljor med<br>andra egenskaper<br>eller med andra typer<br>av avfall eller ämnen<br>på ett sätt som: | Ska vara emballerat i<br>oljebeständig<br>förpackning och tydligt<br>märkt med uppgift om<br>innehåll. | Spillolja i konsument-<br>förpackning lämnas<br>av privatpersoner på<br>återvinningscentral. |
-
 <!-- sida 143 -->
 
 Kungsbacka kommun             Lokala avfallsföreskrifter       26 (34)
 
-[Tabell 143-1](handlingar.tabeller/143-1.csv)
-
-|  | Hindrar (1)<br>regenerering av<br>spilloljan, eller<br>(2) annan material-<br>återvinning som ger<br>likvärdiga eller bättre<br>miljöeffekter än<br>regenerering. |  |  |
-| --- | --- | --- | --- |
-| Grovavfall | Grovavfall som utgör<br>kommunalt avfall<br>under kommunalt<br>ansvar och som på<br>grund av avfallets<br>egenskaper behöver<br>hanteras separat från<br>annat kommunalt<br>avfall och avfall<br>under kommunalt<br>ansvar.<br>Avfallet ska sorteras<br>enligt gällande<br>sorterings-<br>instruktioner på ÅVC. | Grovavfall som hämtas<br>av renhållarens<br>utförare ska i den mån<br>det är möjligt buntas<br>eller förpackas i<br>lämpligt emballage.<br>Längder ska vara<br>maximalt 1,2 meter<br>med en största volym<br>av 1 kubikmeter och<br>med en vikt av högst<br>30 kilogram/kolli.<br>Sortering ska ske<br>enligt kommunens<br>instruktioner.<br>Emballaget ska<br>märkas med<br>”grovavfall” och<br>respektive fraktion. | Grovavfall lämnas på<br>återvinningscentral.<br>På<br>återvinningscentralen<br>ska avfallet sorteras<br>och lämnas enligt<br>instruktioner på plats.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Annan transportör<br>godtas enligt 15a§. |
-| Restavfall<br>(Sorterat brännbart kärl-<br>och säckavfall som faller<br>under kommunalt ansvar) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | Ska emballeras i<br>lämpligt material så att<br>avfallet inte kan<br>spridas eller damma<br>vid tömning. | Hämtning sker enligt<br>bilaga 2. |
-
 <!-- sida 144 -->
 
 Kungsbacka kommun             Lokala avfallsföreskrifter       27 (34)
-
-[Tabell 144-1](handlingar.tabeller/144-1.csv)
-
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
-| --- | --- | --- | --- |
-| Komposterbart<br>trädgårdsavfall<br>(Till komposterbart<br>trädgårdsavfall räknas<br>växtavfall som<br>uppkommer vid normal<br>trädgårdsskötsel däremot<br>inte fällda träd eller avfall<br>som uppstår vid större<br>anläggningsarbeten i en<br>trädgård.) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | På återvinnings-<br>centralen ska avfallet<br>lämnas enligt<br>instruktioner på plats. | Komposterbart<br>trädgårdsavfall<br>lämnas på<br>återvinningscentral.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Hämtning av<br>komposterbart<br>trädgårdsavfall sker<br>separat från<br>hämtning av annat<br>grovavfall.<br>För abonnemang<br>med hämtning av<br>komposterbart<br>trädgårdsavfall i kärl,<br>ska avfallet läggas<br>löst i kärlet och inte<br>packas så hårt att<br>tömningen försvåras.<br>Annan transportör<br>godtas enligt 15a§<br>Trädgårdsavfall från<br>den egna fastigheten<br>får komposteras på<br>fastigheten.<br>Särskilda regler<br>gäller för avfall som<br>innehåller invasiva<br>växter. |
 
 <!-- sida 145 -->
 
@@ -6015,7 +6012,7 @@ Kungsbacka kommun             Lokala avfallsföreskrifter       29 (34)
 
 Kungsbacka kommun             Lokala avfallsföreskrifter       30 (34)
 
-[Tabell 147-1](handlingar.tabeller/147-1.csv)
+[Tabell 147-148-1](handlingar.tabeller/147-148-1.csv)
 
 | Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
 | --- | --- | --- | --- |
@@ -6023,18 +6020,14 @@ Kungsbacka kommun             Lokala avfallsföreskrifter       30 (34)
 | Stickande och skärande<br>avfall under kommunalt<br>ansvar (från hushåll eller<br>uppkommet genom<br>egenvård) |  | Kanyler ska läggas i<br>speciell behållare som<br>tillhandahålls av<br>kommunen via<br>exempelvis apotek.<br>Annat stickande och<br>skärande avfall i<br>mindre volymer ska<br>paketeras väl. | Ska lämnas till<br>apotek som<br>kommunen har avtal<br>med eller på<br>återvinningscentral.<br>Hämtning av fulla<br>behållare från<br>fastighet kan<br>beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa.<br>Välpaketerat<br>stickande och<br>skärande avfall i<br>mindre volymer ska<br>läggas i behållare för<br>brännbart restavfall.<br>Annan transportör<br>godtas enligt 15a§ |
 | Förpackningar | I enlighet med<br>definitionen av<br>förpackning i<br>förordningen<br>(2018:1462) om<br>producentansvar för<br>förpackningar | Lämnas lösa i de<br>behållare/ kärl som<br>tillhandahålls/anvisas | Se sorteringskrav i<br>13a§<br>Annan transportör<br>godtas enligt 15a§ |
 | Returpapper | I enlighet med<br>definitionen av<br>returpapper i<br>avfallsförordningen<br>(2020:614) | Lämnas löst i de<br>behållare/kärl som<br>tillhandahålls/anvisas. | Ska lämnas i de<br>insamlingssystem<br>som tillhandahålls av<br>kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
+| Kasserade bilbatterier | I enlighet med<br>definitionen av<br>batteri i<br>batteriförordningen<br>(2008:834) | Ställs upp på ett sätt<br>som förhindrar att<br>batterisyra/innehåll<br>rinner ut. | Ska lämnas i de<br>insamlingssystem<br>som tillhandahålls av<br>kommunen eller<br>producent.<br>Tas ej emot från<br>verksamheter. |
+| Kasserade bärbara<br>batterier<br>Om kasserade produkter<br>innehåller lösa bärbara<br>batterier ska dessa<br>plockas ur. Är de bärbara<br>batterierna inbyggda i<br>produkten hanteras den<br>som avfall från<br>el-utrustning. | I enlighet med<br>definitionen av<br>bärbart batteri i<br>batteriförordningen<br>(2008:834) |  | Ska lämnas i de<br>insamlingssystem<br>som tillhandahålls av<br>kommunen eller<br>producent.<br>För verksamheter<br>gäller särskilda<br>regler. |
+| Konsumentelavfall/elavfall | Skrymmande<br>konsumentelavfall/el<br>avfall ska sorteras ut<br>och hållas skilt från<br>annat grovavfall.<br>Smått<br>konsumentelavfall/ela<br>vfall ska sorteras ut<br>och hållas skilt från<br>kärl- och säckavfall. |  | Konsumentelavfall<br>lämnas vid<br>återvinningscentral<br>eller till en producent.<br>På<br>återvinningscentralen<br>ska avfallet lämnas<br>enligt instruktioner på<br>plats. Hämtning av<br>skrymmande<br>konsumentelavfall<br>kan beställas med<br>tjänster för grovavfall<br>enligt kommunens<br>avfallstaxa.<br>För verksamheter<br>gäller särskilda<br>regler.<br>Se övriga<br>bestämmelser<br>kring transport i<br>15a§. |
+| Läkemedel | I enlighet med<br>definitionen av<br>läkemedel i<br>förordningen<br>(2009:1031) om<br>producentansvar för<br>läkemedel. | Ska lämnas i<br>behållare/ påse som<br>tillhandahålls av<br>apoteket. | Lämnas till apotek. |
 
 <!-- sida 148 -->
 
 Kungsbacka kommun             Lokala avfallsföreskrifter       31 (34)
-
-[Tabell 148-1](handlingar.tabeller/148-1.csv)
-
-| Kasserade bilbatterier | I enlighet med<br>definitionen av<br>batteri i<br>batteriförordningen<br>(2008:834) | Ställs upp på ett sätt<br>som förhindrar att<br>batterisyra/innehåll<br>rinner ut. | Ska lämnas i de<br>insamlingssystem<br>som tillhandahålls av<br>kommunen eller<br>producent.<br>Tas ej emot från<br>verksamheter. |
-| --- | --- | --- | --- |
-| Kasserade bärbara<br>batterier<br>Om kasserade produkter<br>innehåller lösa bärbara<br>batterier ska dessa<br>plockas ur. Är de bärbara<br>batterierna inbyggda i<br>produkten hanteras den<br>som avfall från<br>el-utrustning. | I enlighet med<br>definitionen av<br>bärbart batteri i<br>batteriförordningen<br>(2008:834) |  | Ska lämnas i de<br>insamlingssystem<br>som tillhandahålls av<br>kommunen eller<br>producent.<br>För verksamheter<br>gäller särskilda<br>regler. |
-| Konsumentelavfall/elavfall | Skrymmande<br>konsumentelavfall/el<br>avfall ska sorteras ut<br>och hållas skilt från<br>annat grovavfall.<br>Smått<br>konsumentelavfall/ela<br>vfall ska sorteras ut<br>och hållas skilt från<br>kärl- och säckavfall. |  | Konsumentelavfall<br>lämnas vid<br>återvinningscentral<br>eller till en producent.<br>På<br>återvinningscentralen<br>ska avfallet lämnas<br>enligt instruktioner på<br>plats. Hämtning av<br>skrymmande<br>konsumentelavfall<br>kan beställas med<br>tjänster för grovavfall<br>enligt kommunens<br>avfallstaxa.<br>För verksamheter<br>gäller särskilda<br>regler.<br>Se övriga<br>bestämmelser<br>kring transport i<br>15a§. |
-| Läkemedel | I enlighet med<br>definitionen av<br>läkemedel i<br>förordningen<br>(2009:1031) om<br>producentansvar för<br>läkemedel. | Ska lämnas i<br>behållare/ påse som<br>tillhandahålls av<br>apoteket. | Lämnas till apotek. |
 
 <!-- sida 149 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7d495738199c8fe75281b0dc/1760095325
 sha256: d5b496b9df24682123bd92be27f8cd0c1ee35ac101ed972de4317d2a5ee9e5a2
 bytes: 11756247
 sidor: 190
-hamtad: 2026-10-07T22:24:05+00:00
-konverterad: 2026-10-07T22:24:50+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T06:37:05+00:00
+konverterad: 2026-10-14T06:37:45+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [163, 168, 170]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [114, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184]
+figurer: [7, 22, 28, 31, 34, 37, 40, 43, 46, 49, 52, 55, 114, 115, 116, 117, 163, 164, 165, 166, 167, 169, 170, 173, 174, 175, 176, 177, 178, 180, 181, 182, 183, 184]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -990,20 +990,18 @@ Nämnden för Gymnasium & Arbetsmarknad           Kungsbacka kommun
 
 3.3.1 Lokalbehov övrigt
 
+Löp Beskrivning                   Plan  Plan Plan  Plan Plan  Plan
+nr                                2026  2027 2028  2029 2030 2031
+
+141 Kompetenscentrum
+x
+3
+
 3.3.2 Utblicksår 2032-2036
 
 Lokalbehov 2027-2031 utblicksår 2032-2036 10
 
 [Tabell 28-1](handlingar.tabeller/28-1.csv)
-
-| Löp<br>nr | Beskrivning | Plan<br>2026 | Plan<br>2027 | Plan<br>2028 | Plan<br>2029 | Plan<br>2030 | Plan<br>2031 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |
-| 141<br>3 | Kompetenscentrum |  | x |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-
-[Tabell 28-2](handlingar.tabeller/28-2.csv)
 
 | Löp<br>nr | Beskrivning | Plan<br>2032 | Plan<br>2033 | Plan<br>2034 | Plan<br>2035 | Plan<br>2036 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -3089,7 +3087,7 @@ Fokusområden
 
 10
 
-[Tabell 67-1](handlingar.tabeller/67-1.csv)
+[Tabell 67-68-1](handlingar.tabeller/67-68-1.csv)
 
 | Indikator | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -3099,6 +3097,7 @@ Fokusområden
 | Brukarbedömning hemtjänst äldreomsorg, helhetssyn | 91 % | 88 % |  | Öka |
 | Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn | 76 % | 76 % |  | Öka |
 | Brukarbedömning individ- och familjeomsorg totalt<br>- helhetssyn |  | 95 % |  | Öka |
+| Invånare 16-84 år med avsaknad av tillit till andra |  |  |  | Minska |
 
 <!-- sida 68 -->
 
@@ -3118,13 +3117,7 @@ mångfald.
 
 11
 
-[Tabell 68-1](handlingar.tabeller/68-1.csv)
-
-| Indikator | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
-| Invånare 16-84 år med avsaknad av tillit till andra |  |  |  | Minska |
-
-[Tabell 68-2](handlingar.tabeller/68-2.csv)
+[Tabell 68-69-1](handlingar.tabeller/68-69-1.csv)
 
 | Indikator | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -3137,6 +3130,14 @@ mångfald.
 | Avfall från hushåll ska minska med 30% per invånare från<br>2020 till 2030. Startvärde 100, målvärde 2030 är 70. | 92 |  |  | Minska |
 | Avfall från kommunens verksamheter ska minska med 40 %<br>per heltidsanställd. Startvärde 100, målvärde 2030 är 60. | 223 |  |  | Minska |
 | Fossiloberoende personbilar, andel av totalt antal bilar i det<br>geografiska området, (Kolada) | 24,1 % | 26,5 % |  | Öka |
+| Matens klimatpåverkan från de offentliga måltiderna ska<br>minska räknat i kg CO2-ekv/kg livsmedel. Målsättningen är 1,0<br>år 2030. | 1,79 | 1,85 |  | Minska |
+| Antal kemiska produkter med utfasningsämnen, inklusive<br>hormonstörande ämnen på SIN-listan ska minska i<br>kommunens verksamheter. 2021 var antalet 124 (KEMgroup<br>PRO) | 115 | 151 |  | Minska |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
+| Vattendrag med god ekologisk status, andel (Kolada) |  |  |  | Öka |
+| Andelen återbrukade möbler |  |  |  | Öka |
+| Total debiterad vattenförbrukning fördelat på antal anslutna till<br>vattenledningsnätet. (Här ingår förbrukning från hushåll,<br>kommunen och privata verksamheter). Liter/person och dygn |  |  |  | Minska |
+| Vattenförbrukning för hushåll anslutna till vattenledningsnätet.<br>Liter/person och dygn. |  |  |  | Minska |
+| Avfall från hushåll ska minska med 30% per invånare från<br>2020 till 2030. Startvärde 100, målvärde 2030 är 70. |  |  |  | Minska |
 
 <!-- sida 69 -->
 
@@ -3162,19 +3163,6 @@ mellan näringsliv och utbildning.
 12
 
 [Tabell 69-1](handlingar.tabeller/69-1.csv)
-
-| Indikator | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
-| Matens klimatpåverkan från de offentliga måltiderna ska<br>minska räknat i kg CO2-ekv/kg livsmedel. Målsättningen är 1,0<br>år 2030. | 1,79 | 1,85 |  | Minska |
-| Antal kemiska produkter med utfasningsämnen, inklusive<br>hormonstörande ämnen på SIN-listan ska minska i<br>kommunens verksamheter. 2021 var antalet 124 (KEMgroup<br>PRO) | 115 | 151 |  | Minska |
-| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
-| Vattendrag med god ekologisk status, andel (Kolada) |  |  |  | Öka |
-| Andelen återbrukade möbler |  |  |  | Öka |
-| Total debiterad vattenförbrukning fördelat på antal anslutna till<br>vattenledningsnätet. (Här ingår förbrukning från hushåll,<br>kommunen och privata verksamheter). Liter/person och dygn |  |  |  | Minska |
-| Vattenförbrukning för hushåll anslutna till vattenledningsnätet.<br>Liter/person och dygn. |  |  |  | Minska |
-| Avfall från hushåll ska minska med 30% per invånare från<br>2020 till 2030. Startvärde 100, målvärde 2030 är 70. |  |  |  | Minska |
-
-[Tabell 69-2](handlingar.tabeller/69-2.csv)
 
 | Indikator | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -3217,13 +3205,15 @@ Fokusområden
 | Företagsamhet, andel av invånare 16–74 år | 19 % |  |  | Öka |
 | Antal nystartade företag per 1 000 invånare 16–64<br>år (etableringsfrekvens) | 10,3 |  |  | Öka |
 
-[Tabell 70-2](handlingar.tabeller/70-2.csv)
+[Tabell 70-71-2](handlingar.tabeller/70-71-2.csv)
 
 | Indikator | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
 | Genomsnittligt meritvärde för grundskolans i årskurs 9<br>(hemkommun). Meritvärdet utgörs av summan av de 17 bästa<br>betygen i elevens slutbetyg och kan max vara 340. | 237 | 238 |  | Öka |
 | Arbetslöshet för ungdomar 16–24 år i kommunen. (Källa:<br>Arbetsförmedlingen och SCB) | 1,7 % | 2,3 % |  | Minska |
 | Genomsnittligt betygspoäng gymnasieelever med examen<br>(hemkommun) som kan vara max 20. | 14,3 | 14 | 14 | Öka |
+| Andel vuxna personer som inte återkommit till försörjningsstöd<br>inom ett år efter avslutat försörjningsstöd (%) | 73 % | 75 % |  | Öka |
+| Kostnad utbetalt ekonomiskt bistånd, kr/invånare (Kolada) | 325 | 306 |  | Minska |
 
 <!-- sida 71 -->
 
@@ -3255,13 +3245,6 @@ kommunen.
 
 [Tabell 71-1](handlingar.tabeller/71-1.csv)
 
-| Indikator | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
-| Andel vuxna personer som inte återkommit till försörjningsstöd<br>inom ett år efter avslutat försörjningsstöd (%) | 73 % | 75 % |  | Öka |
-| Kostnad utbetalt ekonomiskt bistånd, kr/invånare (Kolada) | 325 | 306 |  | Minska |
-
-[Tabell 71-2](handlingar.tabeller/71-2.csv)
-
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättnin<br>g 2026 |
 | --- | --- | --- | --- | --- |
 | Studiero | 64 | 64 | 65 | Öka |
@@ -3269,7 +3252,7 @@ kommunen.
 | Andelen elever med gymnasieexamen inom 3 år | 77,3 % | 70,8 % |  | Öka |
 | Genomsnittlig betygspoäng | 14,3 | 14 | 14 | Öka |
 
-[Tabell 71-3](handlingar.tabeller/71-3.csv)
+[Tabell 71-2](handlingar.tabeller/71-2.csv)
 
 | Indikator | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -3517,13 +3500,14 @@ Antal medarbetare per
 18,6      21,5           19,4
 enhetschef
 
-```osaker-tabell
-Sjukfrånvaro Totalt 5,8 %    5,1 %         4,4 %
-Sjukfrånvaro Kvinnor 7,3 %   6,5 %         5,3 %
-Sjukfrånvaro Män   3,2 %     2,3 %         2,7 %
-```
-
 19
+
+[Tabell 76-1](handlingar.tabeller/76-1.csv)
+
+| Sjukfrånvaro Totalt | 5,8 % | 5,1 % | 4,4 % |
+| --- | --- | --- | --- |
+| Sjukfrånvaro Kvinnor | 7,3 % | 6,5 % | 5,3 % |
+| Sjukfrånvaro Män | 3,2 % | 2,3 % | 2,7 % |
 
 <!-- sida 77 -->
 
@@ -4381,7 +4365,7 @@ Fokusområden
 
 12
 
-[Tabell 96-1](handlingar.tabeller/96-1.csv)
+[Tabell 96-97-1](handlingar.tabeller/96-97-1.csv)
 
 | Indikator | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -4391,6 +4375,7 @@ Fokusområden
 | Brukarbedömning hemtjänst äldreomsorg, helhetssyn | 91 % | 88 % |  | Öka |
 | Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn | 76 % | 76 % |  | Öka |
 | Brukarbedömning individ- och familjeomsorg totalt<br>- helhetssyn |  | 95 % |  | Öka |
+| Invånare 16-84 år med avsaknad av tillit till andra |  |  |  | Minska |
 
 <!-- sida 97 -->
 
@@ -4410,13 +4395,7 @@ mångfald.
 
 13
 
-[Tabell 97-1](handlingar.tabeller/97-1.csv)
-
-| Indikator | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
-| Invånare 16-84 år med avsaknad av tillit till andra |  |  |  | Minska |
-
-[Tabell 97-2](handlingar.tabeller/97-2.csv)
+[Tabell 97-98-1](handlingar.tabeller/97-98-1.csv)
 
 | Indikator | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -4429,6 +4408,14 @@ mångfald.
 | Avfall från hushåll ska minska med 30% per invånare från<br>2020 till 2030. Startvärde 100, målvärde 2030 är 70. | 92 |  |  | Minska |
 | Avfall från kommunens verksamheter ska minska med 40 %<br>per heltidsanställd. Startvärde 100, målvärde 2030 är 60. | 223 |  |  | Minska |
 | Fossiloberoende personbilar, andel av totalt antal bilar i det<br>geografiska området, (Kolada) | 24,1 % | 26,5 % |  | Öka |
+| Matens klimatpåverkan från de offentliga måltiderna ska<br>minska räknat i kg CO2-ekv/kg livsmedel. Målsättningen är 1,0<br>år 2030. | 1,79 | 1,85 |  | Minska |
+| Antal kemiska produkter med utfasningsämnen, inklusive<br>hormonstörande ämnen på SIN-listan ska minska i<br>kommunens verksamheter. 2021 var antalet 124 (KEMgroup<br>PRO) | 115 | 151 |  | Minska |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
+| Vattendrag med god ekologisk status, andel (Kolada) |  |  |  | Öka |
+| Andelen återbrukade möbler |  |  |  | Öka |
+| Total debiterad vattenförbrukning fördelat på antal anslutna till<br>vattenledningsnätet. (Här ingår förbrukning från hushåll,<br>kommunen och privata verksamheter). Liter/person och dygn |  |  |  | Minska |
+| Vattenförbrukning för hushåll anslutna till vattenledningsnätet.<br>Liter/person och dygn. |  |  |  | Minska |
+| Avfall från hushåll ska minska med 30% per invånare från<br>2020 till 2030. Startvärde 100, målvärde 2030 är 70. |  |  |  | Minska |
 
 <!-- sida 98 -->
 
@@ -4454,19 +4441,6 @@ mellan näringsliv och utbildning.
 14
 
 [Tabell 98-1](handlingar.tabeller/98-1.csv)
-
-| Indikator | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
-| Matens klimatpåverkan från de offentliga måltiderna ska<br>minska räknat i kg CO2-ekv/kg livsmedel. Målsättningen är 1,0<br>år 2030. | 1,79 | 1,85 |  | Minska |
-| Antal kemiska produkter med utfasningsämnen, inklusive<br>hormonstörande ämnen på SIN-listan ska minska i<br>kommunens verksamheter. 2021 var antalet 124 (KEMgroup<br>PRO) | 115 | 151 |  | Minska |
-| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
-| Vattendrag med god ekologisk status, andel (Kolada) |  |  |  | Öka |
-| Andelen återbrukade möbler |  |  |  | Öka |
-| Total debiterad vattenförbrukning fördelat på antal anslutna till<br>vattenledningsnätet. (Här ingår förbrukning från hushåll,<br>kommunen och privata verksamheter). Liter/person och dygn |  |  |  | Minska |
-| Vattenförbrukning för hushåll anslutna till vattenledningsnätet.<br>Liter/person och dygn. |  |  |  | Minska |
-| Avfall från hushåll ska minska med 30% per invånare från<br>2020 till 2030. Startvärde 100, målvärde 2030 är 70. |  |  |  | Minska |
-
-[Tabell 98-2](handlingar.tabeller/98-2.csv)
 
 | Indikator | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -4510,7 +4484,7 @@ Fokusområden
 | Företagsamhet, andel av invånare 16–74 år | 19 % |  |  | Öka |
 | Antal nystartade företag per 1 000 invånare 16–64 år<br>(etableringsfrekvens) | 10,3 |  |  | Öka |
 
-[Tabell 99-2](handlingar.tabeller/99-2.csv)
+[Tabell 99-100-2](handlingar.tabeller/99-100-2.csv)
 
 | Indikator | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -4518,6 +4492,7 @@ Fokusområden
 | Arbetslöshet för ungdomar 16–24 år i kommunen. (Källa:<br>Arbetsförmedlingen och SCB) | 1,7 % | 2,3 % |  | Minska |
 | Genomsnittligt betygspoäng gymnasieelever med examen<br>(hemkommun) som kan vara max 20. | 14,3 | 14 | 14 | Öka |
 | Andel vuxna personer som inte återkommit till försörjningsstöd<br>inom ett år efter avslutat försörjningsstöd (%) | 73 % | 75 % |  | Öka |
+| Kostnad utbetalt ekonomiskt bistånd, kr/invånare (Kolada) | 325 | 306 |  | Minska |
 
 <!-- sida 100 -->
 
@@ -4551,18 +4526,12 @@ kommunen.
 
 | Indikator | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
-| Kostnad utbetalt ekonomiskt bistånd, kr/invånare (Kolada) | 325 | 306 |  | Minska |
-
-[Tabell 100-2](handlingar.tabeller/100-2.csv)
-
-| Indikator | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
 | Studiero | 64 | 64 | 65 | Öka |
 | Andelen elever med gymnasieexamen | 92,5 % | 89,4 % | 91,1 % |  |
 | Andelen elever med gymnasieexamen inom 3<br>år | 77,3 % | 70,8 % |  | Öka |
 | Genomsnittlig betygspoäng | 14,3 | 14 | 14 | Öka |
 
-[Tabell 100-3](handlingar.tabeller/100-3.csv)
+[Tabell 100-2](handlingar.tabeller/100-2.csv)
 
 | Indikator | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -8488,54 +8457,25 @@ nadsutbildning - som såg deltagarantalet öka kraftigt från 117 deltagare i ju
 Yrkessvenska och annan språkutbildning är fortsatt över genomsnittet, men har minskat något de
 senaste månaderna.
 Kvarstående                    Nya
+1 215           922                434
+Folkhögskolesatsningen         387
 
-Folkhögskolesatsningen
-
+710             883 1 252         1 184
 Orientering, test och
 kartläggning
-Yrkessvenska och annan
+691
+Yrkessvenska och annan       759 311            293
 språkutbildning
-
-Korta Vägen
-
-Yrkes- och studieförberedande
-moduler
-
-Övrigt
+417             537                147
+Korta Vägen                    102
+Yrkes- och studieförberedande 148 90             68
+moduler                      126
+46                27
+Övrigt                                           14
+10
 2024    2025      2024     2025
-
 Kvarstående och nya deltagare i förberedande utbildning (FUB) per underkategori.
-
 22
-
-[Tabell 184-1](handlingar.tabeller/184-1.csv)
-
-|  | 434 |
-| --- | --- |
-| 1 215 |  |
-| 922 |  |
-|  | 387 |
-|  |  |
-|  |  |
-|  | 1 252 1 184 |
-| 883<br>710 |  |
-|  |  |
-|  |  |
-| 691 |  |
-| 759 | 311 293 |
-|  |  |
-| 537 |  |
-| 417 | 147<br>102 |
-|  |  |
-|  |  |
-|  | 90 68 |
-| 148 |  |
-|  |  |
-| 126 |  |
-| 46 |  |
-|  | 27 |
-| 10 | 14 |
-|  |  |
 
 <!-- sida 185 -->
 

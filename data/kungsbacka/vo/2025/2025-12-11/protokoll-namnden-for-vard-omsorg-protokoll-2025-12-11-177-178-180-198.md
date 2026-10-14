@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4e55f00c19afcd92d286bff4/1765896418
 sha256: f9172977083c2095d46caf17a4f014d76fd812411dd69043e8f40cd4211867b1
 bytes: 385732
 sidor: 39
-hamtad: 2026-10-08T08:15:08+00:00
-konverterad: 2026-10-08T08:15:17+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T11:08:24+00:00
+konverterad: 2026-10-14T11:08:33+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1079,7 +1079,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 19531EFA88973EACAFD08CFBBC7D14FB184B5CC069
 Transaktionsidentitet: 69873209DE2A0FE2EBF1DBC693591D4EADC3312E39
 
-[Tabell 24-1](protokoll-namnden-for-vard-omsorg-protokoll-2025-12-11-177-178-180-198.tabeller/24-1.csv)
+[Tabell 24-25-1](protokoll-namnden-for-vard-omsorg-protokoll-2025-12-11-177-178-180-198.tabeller/24-25-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -1092,6 +1092,8 @@ Transaktionsidentitet: 69873209DE2A0FE2EBF1DBC693591D4EADC3312E39
 | Per Hoel (SD) | X |  |  |
 | Göran Ottosson (SD) | X |  |  |
 | Bengt Alderin (C) | X |  |  |
+| Ulrika Högstrand (KD) | X |  |  |
+| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 25 -->
 
@@ -1107,12 +1109,6 @@ Förslagsställaren
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 19531EFA88973EACAFD08CFBBC7D14FB184B5CC069
 Transaktionsidentitet: 69873209DE2A0FE2EBF1DBC693591D4EADC3312E39
-
-[Tabell 25-1](protokoll-namnden-for-vard-omsorg-protokoll-2025-12-11-177-178-180-198.tabeller/25-1.csv)
-
-| Ulrika Högstrand (KD) | X |  |  |
-| --- | --- | --- | --- |
-| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 26 -->
 

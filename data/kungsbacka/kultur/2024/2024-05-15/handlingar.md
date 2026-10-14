@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.b7a004018f378e8f2812ff2/17153421035
 sha256: 89eb932e3dc3c9c2cd3906c5c428e36dcbf003fedbccfca66da302f57c4b0c8c
 bytes: 4206405
 sidor: 92
-hamtad: 2026-10-08T07:31:54+00:00
-konverterad: 2026-10-08T07:32:09+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:30:14+00:00
+konverterad: 2026-10-14T10:30:27+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [8, 9, 10, 11, 12, 13, 19, 20, 21, 22, 33, 42, 64, 71, 81]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -327,8 +327,9 @@ besöksmål är osäker i och med att högsäsongen ligger framför oss.
 
 [Tabell 11-1](handlingar.tabeller/11-1.csv)
 
-| Nämnd | Helårspr<br>ognos<br>2024<br>-1,3 | Årsbudget<br>2024<br>-1,3 | Budget-<br>avvikelse<br>2024<br>0,0 | Bokslut<br>2023<br>-1,2 |
+|  | Helårspr<br>ognos<br>2024 | Årsbudget<br>2024 | Budget-<br>avvikelse<br>2024 | Bokslut<br>2023 |
 | --- | --- | --- | --- | --- |
+| Nämnd | -1,3 | -1,3 | 0,0 | -1,2 |
 | Förvaltningsledning | -15,3 | -15,5 | 0,2 | -11,1 |
 | Kvalitet & social hållbarhet | -11,8 | -11,9 | 0,1 | -12,1 |
 | Platsvarumärke & kommunikation | -4,3 | -4,0 | -0,3 | -0,9 |

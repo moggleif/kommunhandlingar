@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.62f265ee1929e008f5f25a9/17292354258
 sha256: c8d80442a43ce98462356c71fb4f593cac645540a0bb0e32ab566dff6a891c65
 bytes: 1100548
 sidor: 14
-hamtad: 2026-10-08T00:59:27+00:00
-konverterad: 2026-10-08T00:59:31+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T08:49:42+00:00
+konverterad: 2026-10-14T08:49:46+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [5]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -328,6 +328,39 @@ Delegeringsbeslut Teknik
 
 Delegeringsbeslut under september, rapportering i oktober
 
+Punkt i
+delegeringsordnin                     Delegeringens omfattning Taget beslut och
+g            Lagrum       Ansvarig Delegat              datum för beslutet
+3.13         Dataskydds - VC          Beslut att godkänna 1 godkänd
+förordningen             konsekvensbedömning vid konsekvensbedömnin
+artikel 35-36            viss              g
+personuppgiftsbehandling
+\- Gällande
+kameraövervakning i
+cykelgarage; 2024-09-
+20, TE-2024-00829
+3.22                      FC          Beslut om avsteg från 1 beslut, daterat 2024-
+fordonspolicyns krav på 10-02.
+fossilfritt bränsle. Diarienummer: TE-
+2024-01132
+
+4.3.1                     Samordnare  Upphävanden av    2st beslut om
+inaktuella trafikföreskrifter upphävande av lokala
+trafikföreskrifter
+1384 2024-
+00135
+1384 2024-
+00137
+4.4          10 kap.      Samordnare  Beslut om tillfälliga 6st beslut om tillfälliga
+trafikförordningen       trafikföreskrifter trafikföreskrifter
+(1998:1276)                                angående
+1384 2024-
+00139
+1384 2024-
+00140
+1384 2024-
+00141
+
 Kungsbacka kommun
 434 81 Kungsbacka
 Besöksadress
@@ -335,62 +368,161 @@ Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-[Tabell 10-1](handlingar.tabeller/10-1.csv)
-
-| Punkt i<br>delegeringsordnin<br>g | Lagrum | Ansvarig Delegat | Delegeringens omfattning | Taget beslut och<br>datum för beslutet |
-| --- | --- | --- | --- | --- |
-| 3.13 | Dataskydds -<br>förordningen<br>artikel 35-36 | VC | Beslut att godkänna<br>konsekvensbedömning vid<br>viss<br>personuppgiftsbehandling | 1 godkänd<br>konsekvensbedömnin<br>g<br>- Gällande<br>kameraövervakning i<br>cykelgarage; 2024-09-<br>20, TE-2024-00829 |
-| 3.22 |  | FC | Beslut om avsteg från<br>fordonspolicyns krav på<br>fossilfritt bränsle. | 1 beslut, daterat 2024-<br>10-02.<br>Diarienummer: TE-<br>2024-01132 |
-| 4.3.1 |  | Samordnare | Upphävanden av<br>inaktuella trafikföreskrifter | 2st beslut om<br>upphävande av lokala<br>trafikföreskrifter<br>1384 2024-<br>00135<br>1384 2024-<br>00137 |
-| 4.4 | 10 kap.<br>trafikförordningen<br>(1998:1276) | Samordnare | Beslut om tillfälliga<br>trafikföreskrifter | 6st beslut om tillfälliga<br>trafikföreskrifter<br>angående<br>1384 2024-<br>00139<br>1384 2024-<br>00140<br>1384 2024-<br>00141 |
-
 <!-- sida 11 -->
 
 KUNGSBACKA KOMMUN                                           2 (5)
 
-[Tabell 11-1](handlingar.tabeller/11-1.csv)
+Punkt i
+delegeringsordnin                     Delegeringens omfattning Taget beslut och
+g            Lagrum       Ansvarig Delegat              datum för beslutet
+1384 2024-
+00142
+1384 2024-
+00143
+1384 2024-
+00144
+4.5          10 kap.      Samordnare  Revidering av befintliga 1 st reviderade
+trafikförordningen       permanenta föreskrifter befintliga permanenta
+(1998:1276)                                föreskrifter
+1384 2024-00124
 
-| Punkt i<br>delegeringsordnin<br>g | Lagrum | Ansvarig Delegat | Delegeringens omfattning | Taget beslut och<br>datum för beslutet |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | 1384 2024-<br>00142 |  |
-|  |  |  |  |  | 1384 2024-<br>00143 |  |
-|  |  |  |  |  | 1384 2024-<br>00144 |  |
-| 4.5 | 10 kap.<br>trafikförordningen<br>(1998:1276) | Samordnare | Revidering av befintliga<br>permanenta föreskrifter | 1 st reviderade<br>befintliga permanenta<br>föreskrifter<br>1384 2024-00124 |  |  |
-| 4.7 | 13 kap. 3-4 §§<br>trafikförordningen<br>(1998:1276) | Samordnare | Beslut om undantag från<br>lokala trafikföreskrifter | 9 beslut om undantag<br>från lokala<br>trafikföreskrifter |  |  |
-| 4.8 | 13 kap. 3 §<br>trafikförordningen<br>(1998:1276) 4<br>kap. 12 §, 15 § 17<br>§<br>trafikförordningen | Samordnare | Beslut till transportör och<br>yttrande till Trafikverket<br>om undantag från<br>bestämmelserna om<br>största tillåtna<br>fordonsbredd, -längd och -<br>vikt | 1 beslut till<br>transportör om<br>undantag från<br>bestämmelserna om<br>största tillåtna<br>fordonsbredd, -längd<br>och -vikt<br>5 yttranden till<br>Trafikverket om<br>undantag från<br>bestämmelserna om<br>största tillåtna<br>fordonsbredd, -längd<br>och -vikt |  |  |
-| 4.10 | 10 kap. 14 §<br>trafikförordningen<br>(1998:1276) | Samordnare | Beslut om föreskrifter vid<br>vägarbete eller liknande<br>arbete samt under kortare<br>tid vid skada eller risk för<br>skada på väg | 5st beslut om<br>föreskrifter vid<br>vägarbete eller<br>liknande arbete samt<br>under kortare tid vid<br>skada eller risk för<br>skada på väg<br>1384 2024-<br>00125<br>1384 2024-<br>00129<br>1384 2024-<br>00128 |  |  |
+4.7          13 kap. 3-4 §§ Samordnare Beslut om undantag från 9 beslut om undantag
+trafikförordningen       lokala trafikföreskrifter från lokala
+(1998:1276)                                trafikföreskrifter
+4.8          13 kap. 3 §  Samordnare  Beslut till transportör och 1 beslut till
+trafikförordningen       yttrande till Trafikverket transportör om
+(1998:1276) 4            om undantag från  undantag från
+kap. 12 §, 15 § 17       bestämmelserna om bestämmelserna om
+§                        största tillåtna  största tillåtna
+trafikförordningen       fordonsbredd, -längd och - fordonsbredd, -längd
+vikt              och -vikt
+
+5 yttranden till
+Trafikverket om
+undantag från
+bestämmelserna om
+största tillåtna
+fordonsbredd, -längd
+och -vikt
+4.10         10 kap. 14 § Samordnare  Beslut om föreskrifter vid 5st beslut om
+trafikförordningen       vägarbete eller liknande föreskrifter vid
+(1998:1276)              arbete samt under kortare vägarbete eller
+tid vid skada eller risk för liknande arbete samt
+skada på väg      under kortare tid vid
+skada eller risk för
+skada på väg
+
+1384 2024-
+00125
+1384 2024-
+00129
+1384 2024-
+00128
 
 <!-- sida 12 -->
 
 KUNGSBACKA KOMMUN                                           3 (5)
 
-[Tabell 12-1](handlingar.tabeller/12-1.csv)
+Punkt i
+delegeringsordnin                     Delegeringens omfattning Taget beslut och
+g            Lagrum       Ansvarig Delegat              datum för beslutet
+1384 2024-
+00136
+1384 2024-
+00138
+4.11         2 § lagen om Trafik-samordnare Beslut om flyttning av 9 beslut om flyttning
+flyttning av             fordon            av fordon:
+fordon i vissa fall                        EDP 575 – 240918
+och 2 §                                    Oregistrerad mopedbil
+förordningen om                            -240918
+flyttning av                               SWO 080 – 240918
+fordon i vissa fall                        RWP 171 – 240918
 
-| Punkt i<br>delegeringsordnin<br>g | Lagrum | Ansvarig Delegat | Delegeringens omfattning | Taget beslut och<br>datum för beslutet |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | 1384 2024-<br>00136 |  |
-|  |  |  |  |  | 1384 2024-<br>00138 |  |
-| 4.11 | 2 § lagen om<br>flyttning av<br>fordon i vissa fall<br>och 2 §<br>förordningen om<br>flyttning av<br>fordon i vissa fall | Trafik-samordnare | Beslut om flyttning av<br>fordon | 9 beslut om flyttning<br>av fordon:<br>EDP 575 – 240918<br>Oregistrerad mopedbil<br>-240918<br>SWO 080 – 240918<br>RWP 171 – 240918<br>BLF 638 – 240918<br>SLG 044 – 240918<br>SUH 482 - 240918<br>UFJ 185 – 240918<br>WY535XK - 240918 |  |  |
-| 4.13 | 5 § lag (1976:206)<br>om<br>felparkeringsavgif<br>t och 1 § lag<br>(1984:318) om<br>kontrollavgift vid<br>olovlig parkering | Trafikövervakare | Beslut om<br>felparkeringsavgift samt<br>kontrollavgift vid olovlig<br>parkering | Felparkeringsavgifter<br>(gatumark):<br>559 st<br>Kontrollavgifter<br>(tomtmark):<br>100 st |  |  |
-| 4.14 | Vägmärkesförord<br>ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81 §<br>(a-e)<br>Ordningslagen 3<br>kap. 4 § Plan och<br>Bygglagen 6 Kap.<br>21 | Vägtekniker | Beslut om tillstånd att<br>schakta i gator och vägar<br>för vilka kommunen är<br>huvudman och vid behov<br>kräva säkerhet för<br>beräknade kostnader för<br>återställande av<br>kommunens anläggningar | 3 beslut om tillstånd<br>att schakta i gator och<br>trafikanordningsplan. |  |  |
-| 4.15 | Vägmärkesförord<br>ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81 §<br>(a-e)<br>Ordningslagen 3<br>kap. 4 § | Vägtekniker | Godkännande av<br>trafikanordningsplan | 30 beslut om enbart<br>trafikanordningsplan |  |  |
+BLF 638 – 240918
+SLG 044 – 240918
+SUH 482 - 240918
+UFJ 185 – 240918
+WY535XK - 240918
+4.13         5 § lag (1976:206) Trafikövervakare Beslut om Felparkeringsavgifter
+om                       felparkeringsavgift samt (gatumark):
+felparkeringsavgif
+kontrollavgift vid olovlig 559 st
+t och 1 § lag
+parkering
+(1984:318) om
+Kontrollavgifter
+kontrollavgift vid
+(tomtmark):
+olovlig parkering
+100 st
+4.14         Vägmärkesförord Vägtekniker Beslut om tillstånd att 3 beslut om tillstånd
+ningen SFS               schakta i gator och vägar att schakta i gator och
+2007:90 AFS              för vilka kommunen är trafikanordningsplan.
+1999:3 49 § 81 §         huvudman och vid behov
+(a-e)                    kräva säkerhet för
+Ordningslagen 3          beräknade kostnader för
+kap. 4 § Plan och        återställande av
+Bygglagen 6 Kap.         kommunens anläggningar
+21
+4.15         Vägmärkesförord Vägtekniker Godkännande av 30 beslut om enbart
+ningen SFS               trafikanordningsplan trafikanordningsplan
+2007:90 AFS
+1999:3 49 § 81 §
+(a-e)
+Ordningslagen 3
+kap. 4 §
 
 <!-- sida 13 -->
 
 KUNGSBACKA KOMMUN                                           4 (5)
 
-[Tabell 13-1](handlingar.tabeller/13-1.csv)
-
-| Punkt i<br>delegeringsordnin<br>g | Lagrum | Ansvarig Delegat | Delegeringens omfattning | Taget beslut och<br>datum för beslutet |
-| --- | --- | --- | --- | --- |
-| 4.16 | 13 kap. och 8 §<br>trafikförordningen<br>(1998:1276) | Färdtjänstutredar<br>e | Beslut om<br>parkeringstillstånd för<br>rörelsehindrade | Beslut om<br>parkeringstillstånd för<br>rörelsehindrad<br>Beviljade: 23<br>Avslagna: 3 |
-| 4.17 | Ordningslagen<br>(1993:1617) 2 kap | VC Trafik &<br>Utemiljö<br>EC Anläggning &<br>Utveckling<br>Samordnare | Yttrande till polisen<br>avseende begagnade av<br>offentlig plats | Se separat bilaga för<br>Yttranden från Teknik. |
-| 5.1 | 6–9 §§ lag<br>(1997:736) om<br>färdtjänst | Färdtjänstutredar<br>e<br>EC Kansli | Beslut om tillstånd till<br>färdtjänst med<br>regelkompletteringar | Beslut om färdtjänst<br>Beviljade: 64<br>Avslagna: 0 |
-| 5.3 | 4–7 §§ lag<br>(1997:735) om<br>riksfärdtjänst | Färdtjänstutredar<br>e<br>EC Kansli | Beslut om tillstånd till<br>riksfärdtjänst | Beslut om tillstånd till<br>riksfärdtjänst<br>Beviljade: 15<br>Avslagna: 0 |
-| 8.3 | 37§ Lokala<br>avfallsföreskrifter<br>för Kungsbacka<br>kommun | Anette Englund,<br>administratör<br>Kund &<br>Kommunikation | Besluta om godkännande<br>av kompostering av<br>matavfall | 240903, 1 st<br>240904, 1 st |
-| 8.6 | 43, 43a §§ Lokala<br>avfallsföreskrifter<br>för Kungsbacka<br>kommun | Anette Englund,<br>administratör Kund<br>&<br>Kommunikation | Besluta om tillfälligt<br>uppehåll i sophämtning | 240916, 1 st<br>240917, 1 st<br>240920, 2 st<br>240927, 1 st |
-| 9.1 | Kommunens<br>tillämpnings-<br>föreskrifter för: -<br>policy for inköp<br>- riktlinjer för<br>inköp | AU | Beslut om att inleda<br>upphandling inom<br>nämndens<br>verksamhetsområde.<br>> 10 000 000 kr<br>< 10 000 000 kr<br>< 500 000 kr | 1 beslut av Tekniks<br>arbetsutskott om att<br>inleda upphandling<br>avseende insamling av<br>avfall under<br>kommunalt ansvar,<br>daterat 2024-10-07,<br>TE-2024-00778. |
-| 10.1.2 | LAS, AB §§ 3-5 | FC | Övriga medarbetare<br>Tillsvidareanställning och<br>tidsbegränsadeanställninga<br>r längre än 6 månader | - Landskapsingenjör,<br>anställd 2024-09-01 av<br>Jesper Pernheden<br>- Redovisningsekonom<br>förvaltning, anställd |
+Punkt i
+delegeringsordnin                     Delegeringens omfattning Taget beslut och
+g            Lagrum       Ansvarig Delegat              datum för beslutet
+4.16         13 kap. och 8 § Färdtjänstutredar Beslut om Beslut om
+trafikförordningen e     parkeringstillstånd för parkeringstillstånd för
+(1998:1276)
+rörelsehindrade   rörelsehindrad
+Beviljade: 23
+Avslagna: 3
+4.17         Ordningslagen VC Trafik & Yttrande till polisen Se separat bilaga för
+(1993:1617) 2 kap Utemiljö avseende begagnade av Yttranden från Teknik.
+EC Anläggning & offentlig plats
+Utveckling
+Samordnare
+5.1          6–9 §§ lag   Färdtjänstutredar Beslut om tillstånd till Beslut om färdtjänst
+(1997:736) om e          färdtjänst med    Beviljade: 64
+färdtjänst   EC Kansli
+regelkompletteringar Avslagna: 0
+5.3          4–7 §§ lag   Färdtjänstutredar Beslut om tillstånd till Beslut om tillstånd till
+(1997:735) om e          riksfärdtjänst    riksfärdtjänst
+riksfärdtjänst EC Kansli
+Beviljade: 15
+Avslagna: 0
+8.3          37§ Lokala   Anette Englund, Besluta om godkännande 240903, 1 st
+avfallsföreskrifter administratör av kompostering av 240904, 1 st
+för Kungsbacka Kund &    matavfall
+kommun
+Kommunikation
+8.6          43, 43a §§ Lokala Anette Englund, Besluta om tillfälligt 240916, 1 st
+avfallsföreskrifter administratör Kund uppehåll i sophämtning 240917, 1 st
+för Kungsbacka &                           240920, 2 st
+kommun       Kommunikation
+240927, 1 st
+9.1          Kommunens                Beslut om att inleda 1 beslut av Tekniks
+tillämpnings-            upphandling inom  arbetsutskott om att
+föreskrifter för: -      nämndens          inleda upphandling
+policy for inköp         verksamhetsområde. avseende insamling av
+\- riktlinjer för AU      > 10 000 000 kr   avfall under
+inköp                    < 10 000 000 kr   kommunalt ansvar,
+< 500 000 kr      daterat 2024-10-07,
+TE-2024-00778.
+10.1.2       LAS, AB §§ 3-5 FC        Övriga medarbetare - Landskapsingenjör,
+Tillsvidareanställning och anställd 2024-09-01 av
+tidsbegränsadeanställninga Jesper Pernheden
+r längre än 6 månader
+\- Redovisningsekonom
+förvaltning, anställd
 
 <!-- sida 14 -->
 

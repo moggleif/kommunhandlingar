@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4bf8b95b199c910f57c67b06/1760336846
 sha256: 625248399300a82b01a64c9653b2da56cc63b653f202c4b9800b9896323528b0
 bytes: 10770426
 sidor: 178
-hamtad: 2026-10-07T22:56:09+00:00
-konverterad: 2026-10-07T22:56:39+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T07:04:59+00:00
+konverterad: 2026-10-14T07:05:26+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45, 47, 48, 49, 51, 52, 53, 54, 58, 64, 65, 66, 67, 80, 83, 85, 87, 90, 92, 94, 98, 99, 102, 103, 104, 105, 117, 120, 126, 128, 130, 131, 133, 134, 138, 139, 142, 144, 153, 154, 155, 156, 165, 166, 167]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -6107,7 +6107,7 @@ Uttaget är gjort utifrån rapporteringstid och inte händelsetid. Dvs händelse
 
 <!-- sida 174 -->
 
-[Tabell 174-1](handlingar.tabeller/174-1.csv)
+[Tabell 174-177-1](handlingar.tabeller/174-177-1.csv)
 
 | Inskickad | Ärendenummer | Delegering | Beslut |
 | --- | --- | --- | --- |
@@ -6153,13 +6153,7 @@ Uttaget är gjort utifrån rapporteringstid och inte händelsetid. Dvs händelse
 | 2025-09-13 08:24 | 232819 | A 4.1 | Beviljad |
 | 2025-09-13 09:48 | 232822 | A 4.1 | Beviljad |
 | 2025-09-14 11:08 | 232867 | A 4.1 | Avslag |
-
-<!-- sida 175 -->
-
-[Tabell 175-1](handlingar.tabeller/175-1.csv)
-
 | 2025-09-15 10:40 | 233009 | A 4.1 | Avslag |
-| --- | --- | --- | --- |
 | 2025-09-15 10:40 | 233012 | A 4.1 | Avslag |
 | 2025-09-15 11:40 | 233043 | A 4.1 | Beviljad |
 | 2025-09-15 16:24 | 233160 | A 4.1 | Beviljad |
@@ -6202,13 +6196,7 @@ Uttaget är gjort utifrån rapporteringstid och inte händelsetid. Dvs händelse
 | 2025-09-18 11:08 | 233929 | A 4.1 | Beviljad |
 | 2025-09-18 11:08 | 233929 | A 4.1 | Beviljad |
 | 2025-09-18 12:48 | 233963 | A 4.1 | Beviljad |
-
-<!-- sida 176 -->
-
-[Tabell 176-1](handlingar.tabeller/176-1.csv)
-
 | 2025-09-19 01:58 | 234086 | A 4.1 | Avslag |
-| --- | --- | --- | --- |
 | 2025-09-19 07:08 | 234097 | A 4.1 | Beviljad |
 | 2025-09-19 14:40 | 234245 | A 4.1 | Beviljad |
 | 2025-09-19 16:56 | 234275 | A 4.1 | Beviljad |
@@ -6251,13 +6239,7 @@ Uttaget är gjort utifrån rapporteringstid och inte händelsetid. Dvs händelse
 | 2025-09-30 13:24 | 236308 | A 4.1 | Beviljad |
 | 2025-10-01 08:56 | 236473 | A 4.1 | Beviljad |
 | 2025-10-01 09:16 | 236480 | A 4.1 | Beviljad |
-
-<!-- sida 177 -->
-
-[Tabell 177-1](handlingar.tabeller/177-1.csv)
-
 | 2025-10-01 18:32 | 236633 | A 4.1 | Beviljad |
-| --- | --- | --- | --- |
 | 2025-10-02 12:08 | 236768 | A 4.1 | Beviljad |
 | 2025-10-02 12:08 | 236769 | A 4.1 | Beviljad |
 | 2025-10-02 12:24 | 234849 | A 4.1 | Beviljad |
@@ -6275,6 +6257,12 @@ Uttaget är gjort utifrån rapporteringstid och inte händelsetid. Dvs händelse
 | 2025-10-06 16:08 | 237496 | A 4.1 | Beviljad |
 | 2025-10-06 16:08 | 237496 | A 4.1 | Beviljad |
 | 2025-10-06 22:56 | 237561 | A 4.1 | Beviljad |
+
+<!-- sida 175 -->
+
+<!-- sida 176 -->
+
+<!-- sida 177 -->
 
 <!-- sida 178 -->
 

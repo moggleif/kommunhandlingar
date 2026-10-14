@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.509c9c0c195db4d5a513e1a/17431518444
 sha256: 064a553561991f64e11889f51700d7c3a43370ef1398f4c8f4b8634b3c5f88ca
 bytes: 202125
 sidor: 17
-hamtad: 2026-10-08T02:00:24+00:00
-konverterad: 2026-10-08T02:00:30+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:40:32+00:00
+konverterad: 2026-10-14T09:40:38+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -521,7 +521,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 12-1](protokoll.tabeller/12-1.csv)
+[Tabell 12-13-1](protokoll.tabeller/12-13-1.csv)
 
 | Beskrivning | Inkom | Tillhör ärende | Ärendemening |
 | --- | --- | --- | --- |
@@ -531,6 +531,15 @@ Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 | (Kommunfullmäktige)<br>(Beslut § 14) - Svar på<br>motion från Carita Boulwén<br>(SD) m.fl. om översyn och<br>förbättringar av<br>kommunfullmäktigesalen | 2025-02-13 | SE-2024-00234 | Beredning av motion -<br>Översyn och förbättringar av<br>kommunfullmäktigesalen<br>(KS-2024-00103) |
 | Kommunstyrelsens<br>förvaltning Tjänsteskrivelse<br>- Svar på motion från Carita<br>Boulwén (SD) m.fl. om<br>översyn och förbättringar av<br>kommunfullmäktigesalen | 2025-02-13 | SE-2024-00234 | Beredning av motion -<br>Översyn och förbättringar av<br>kommunfullmäktigesalen<br>(KS-2024-00103) |
 | (Nämnden för Förskola &<br>Grundskola) (Beslut § 15)<br>Volymanpassning<br>förskoleplatser Centrum<br>Väst | 2025-02-26 | SE-2025-00064 | Volymanpassning<br>förskoleplatser Centrum Väst<br>(FG-2025-00052) |
+| För & Grundskola<br>Tjänsteskrivelse<br>Volymanpassning<br>förskoleplatser Centrum väst | 2025-02-26 | SE-2025-00064 | Volymanpassning<br>förskoleplatser Centrum Väst<br>(FG-2025-00052) |
+| Volymanpassning<br>förskoleplatser Centrum väst<br>- Utredning | 2025-02-26 | SE-2025-00064 | Volymanpassning<br>förskoleplatser Centrum Väst<br>(FG-2025-00052) |
+| Volymanpassning<br>förskoleplatser Centrum<br>Väst -<br>Barnkonsekvensanalys | 2025-02-26 | SE-2025-00064 | Volymanpassning<br>förskoleplatser Centrum Väst<br>(FG-2025-00052) |
+| (Kommunfullmäktige)<br>(Beslut § 33) Fastställande<br>av koncernbudget 2025 | 2025-03-13 | SE-2025-00093 | Fastställande av<br>koncernbudget 2025 |
+| (Kommunstyrelsen)<br>(Tjänsteskrivelse)<br>koncernbudget 2025 | 2025-03-13 | SE-2025-00093 | Fastställande av<br>koncernbudget 2025 |
+| Kommunbudget 2025<br>plan 2026-2027 antagen av<br>kommunfullmäktige<br>2024-06-13 § 91 | 2025-03-13 | SE-2025-00093 | Fastställande av<br>koncernbudget 2025 |
+| Eksta Budget 2025 | 2025-03-13 | SE-2025-00093 | Fastställande av<br>koncernbudget 2025 |
+| Eksta investeringar och<br>lånebehov 2025-2027 | 2025-03-13 | SE-2025-00093 | Fastställande av<br>koncernbudget 2025 |
+| (Förvaltningsrätten i<br>Göteborg) (Dom) -<br>Kommunens beslut om<br>införande av tolkavgift<br>upphävs | 2025-03-18 | SE-2025-00014 | Överklagande<br>(laglighetsprövning enligt<br>kommunallagen) av beslut om<br>införande av tolkavgift<br>(KS 2024-00790) |
 
 <!-- sida 13 -->
 
@@ -551,19 +560,6 @@ för Service bifaller det.
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 13-1](protokoll.tabeller/13-1.csv)
-
-| För & Grundskola<br>Tjänsteskrivelse<br>Volymanpassning<br>förskoleplatser Centrum väst | 2025-02-26 | SE-2025-00064 | Volymanpassning<br>förskoleplatser Centrum Väst<br>(FG-2025-00052) |
-| --- | --- | --- | --- |
-| Volymanpassning<br>förskoleplatser Centrum väst<br>- Utredning | 2025-02-26 | SE-2025-00064 | Volymanpassning<br>förskoleplatser Centrum Väst<br>(FG-2025-00052) |
-| Volymanpassning<br>förskoleplatser Centrum<br>Väst -<br>Barnkonsekvensanalys | 2025-02-26 | SE-2025-00064 | Volymanpassning<br>förskoleplatser Centrum Väst<br>(FG-2025-00052) |
-| (Kommunfullmäktige)<br>(Beslut § 33) Fastställande<br>av koncernbudget 2025 | 2025-03-13 | SE-2025-00093 | Fastställande av<br>koncernbudget 2025 |
-| (Kommunstyrelsen)<br>(Tjänsteskrivelse)<br>koncernbudget 2025 | 2025-03-13 | SE-2025-00093 | Fastställande av<br>koncernbudget 2025 |
-| Kommunbudget 2025<br>plan 2026-2027 antagen av<br>kommunfullmäktige<br>2024-06-13 § 91 | 2025-03-13 | SE-2025-00093 | Fastställande av<br>koncernbudget 2025 |
-| Eksta Budget 2025 | 2025-03-13 | SE-2025-00093 | Fastställande av<br>koncernbudget 2025 |
-| Eksta investeringar och<br>lånebehov 2025-2027 | 2025-03-13 | SE-2025-00093 | Fastställande av<br>koncernbudget 2025 |
-| (Förvaltningsrätten i<br>Göteborg) (Dom) -<br>Kommunens beslut om<br>införande av tolkavgift<br>upphävs | 2025-03-18 | SE-2025-00014 | Överklagande<br>(laglighetsprövning enligt<br>kommunallagen) av beslut om<br>införande av tolkavgift<br>(KS 2024-00790) |
 
 <!-- sida 14 -->
 
@@ -597,7 +593,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 14-1](protokoll.tabeller/14-1.csv)
+[Tabell 14-15-1](protokoll.tabeller/14-15-1.csv)
 
 | Ärende/ärendegrupp<br>enligt<br>delegationslistan | Beslut, insats<br>samt<br>ev. omfattning | Beslutsfattare | Beslutsdatum | Dnr |
 | --- | --- | --- | --- | --- |
@@ -605,6 +601,10 @@ Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 | 2.3.8<br>AB § 10 mom. 1-3 | Avstängning | Astrid Bayard<br>VC UKK | 2025-01-28 |  |
 | 2.1.10<br>Dataskydds-<br>förordningen GDPR,<br>artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-02-28 | SE-2025-00055 |
 |  | Beslut om ersättare<br>av nämndsekreterare<br>vid nämnden för<br>Service | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-03-07 | SE-2025-00048 |
+| 2.2.3<br>Upphandlingslagstiftnin<br>gen och kommunens<br>policy och riktlinjer | Upphandling av<br>entreprenader som<br>avser<br>bygginvesteringar<br>upp till 100<br>basbelopp. | Maria Rosenberg<br>VC<br>Lokalförsörjning | 2025-03-11 | SE-2025-00089 |
+| 2.2.3<br>Upphandlings-<br>lagstiftningen och<br>kommunens policy och<br>riktlinjer | Upphandling av<br>entreprenader som<br>avser<br>bygginvesteringar<br>upp till 100<br>basbelopp. | Maria Rosenberg<br>VC<br>Lokalförsörjning | 2025-03-11 | SE-2025-00090 |
+| 2.1.10<br>Dataskydds-<br>förordningen GDPR,<br>artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-03-17 | SE-2025-00096 |
+| 2.2.10<br>Attestreglementet | Utse<br>beslutsattestanter<br>och ersättare för<br>nämndens<br>verksamheter | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-03-19 | SE-2025-00072 |
 
 <!-- sida 15 -->
 
@@ -626,14 +626,6 @@ förvaltningen för Service förslag, och att nämnden för Service bifaller det
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 15-1](protokoll.tabeller/15-1.csv)
-
-| 2.2.3<br>Upphandlingslagstiftnin<br>gen och kommunens<br>policy och riktlinjer | Upphandling av<br>entreprenader som<br>avser<br>bygginvesteringar<br>upp till 100<br>basbelopp. | Maria Rosenberg<br>VC<br>Lokalförsörjning | 2025-03-11 | SE-2025-00089 |
-| --- | --- | --- | --- | --- |
-| 2.2.3<br>Upphandlings-<br>lagstiftningen och<br>kommunens policy och<br>riktlinjer | Upphandling av<br>entreprenader som<br>avser<br>bygginvesteringar<br>upp till 100<br>basbelopp. | Maria Rosenberg<br>VC<br>Lokalförsörjning | 2025-03-11 | SE-2025-00090 |
-| 2.1.10<br>Dataskydds-<br>förordningen GDPR,<br>artikel 33 och 34 | Hantering av<br>personuppgifts-<br>incident | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-03-17 | SE-2025-00096 |
-| 2.2.10<br>Attestreglementet | Utse<br>beslutsattestanter<br>och ersättare för<br>nämndens<br>verksamheter | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-03-19 | SE-2025-00072 |
 
 <!-- sida 16 -->
 

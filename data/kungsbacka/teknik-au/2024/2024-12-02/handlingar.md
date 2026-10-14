@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7595563919367dc402519e25/1732881169
 sha256: 3034899aad09263c75b7250fdfb8735f6696d963c9adc68e994a0c37cd843cab
 bytes: 6462709
 sidor: 29
-hamtad: 2026-10-08T01:46:56+00:00
-konverterad: 2026-10-08T01:47:11+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:29:44+00:00
+konverterad: 2026-10-14T09:30:00+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [20, 23, 25, 26, 27, 28, 29]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -380,7 +380,7 @@ KUNGSBACKA  KOMMUN
 | 5081VUTB Fjärås VV ökad<br>reserviarvolym |  | 20 000 000 |
 | Summa: | 11 500 000 | 23 000 000 |
 
-[Tabell 11-2](handlingar.tabeller/11-2.csv)
+[Tabell 11-12-2](handlingar.tabeller/11-12-2.csv)
 
 | Projekt VA- ledningsnät | Budget enligt beslut i<br>januari nämnden för teknik<br>i januari 2024 i kronor | Nytt förslag till beslut i AU,<br>i kronor |
 | --- | --- | --- |
@@ -394,20 +394,7 @@ KUNGSBACKA  KOMMUN
 | 5060 VUTN<br>Voxlöv/Björkris | 24 000 000 | 24 000 000 |
 | 550P VUTB Fjärås VV-<br>Hammerö<br>uppdimensionering vatten<br>etapp 2 | 15 000 000 | 46 000 000 (tidigarelagd) |
 | 550Q VUTB Fjärås VV-<br>Hammerö | 5 000 000 | 800 000 |
-
-<!-- sida 12 -->
-
-KUNGSBACKA  KOMMUN
-4 (7)
-
-Projekt Avloppsrening Budget enligt beslut i Nytt förslag till beslut i AU,
-januari nämnden för teknik i kronor
-i januari 2024 i kronor
-
-[Tabell 12-1](handlingar.tabeller/12-1.csv)
-
 | uppdimensionering vatten<br>etapp 2 |  |  |
-| --- | --- | --- |
 | 5077 VDUF Åtgärder<br>tillskottsvatten | 10 000 000 | 6 200 000 |
 | 5061Åsa dagvattenledning | 4 000 000 | 2 000 000 |
 | 5076 VUTB<br>Läckageövervakning | 1 000 000 | 1 000 000 |
@@ -424,6 +411,15 @@ i januari 2024 i kronor
 | Summa | 246 420 000 | 191 935 000 |
 | Sannolikhet utifrån<br>erfarenhet och trend | 0,9 |  |
 | Summa justerat belopp | 221 800 000 | 191 935 000 |
+
+<!-- sida 12 -->
+
+KUNGSBACKA  KOMMUN
+4 (7)
+
+Projekt Avloppsrening Budget enligt beslut i Nytt förslag till beslut i AU,
+januari nämnden för teknik i kronor
+i januari 2024 i kronor
 
 <!-- sida 13 -->
 
@@ -443,7 +439,7 @@ KUNGSBACKA  KOMMUN
 | 5066 FAR Hammargårds<br>reningsverk | 197 830 000 | 151 000 000 |
 | Summa | 215 610 000 | 180 100 000 |
 
-[Tabell 13-2](handlingar.tabeller/13-2.csv)
+[Tabell 13-14-2](handlingar.tabeller/13-14-2.csv)
 
 | Projekt VA omvandling | Budget enligt beslut i<br>januari nämnden för teknik<br>i januari 2024 i kronor | Nytt förslag till beslut i AU,<br>i kronor |
 | --- | --- | --- |
@@ -453,16 +449,7 @@ KUNGSBACKA  KOMMUN
 | 5094 VOMV VA utbyggnad<br>405 Lerberg UT | 6 000 000 |  |
 | 5094 VOMV VA utbyggnad<br>405 Lerberg IN | -5 000 000 |  |
 | 5088 VOMV VA utbyggnad<br>401 Alafors UT | 10 000 000 |  |
-
-<!-- sida 14 -->
-
-KUNGSBACKA  KOMMUN
-6 (7)
-
-[Tabell 14-1](handlingar.tabeller/14-1.csv)
-
 | 550G VOMV VA<br>utbyggnad 803 Kläppa UT | 200 000 |  |
-| --- | --- | --- |
 | 550G VOMV VA<br>utbyggnad 803 Kläppa UT | -200 000 |  |
 | 550I VOMV VA utbyggnad<br>Sönnebergen UT | 9 000 000 | 52 000 000 |
 | 550I VOMV VA utbyggnad<br>Sönnebergen IN |  | -42 000 000 |
@@ -472,7 +459,12 @@ KUNGSBACKA  KOMMUN
 | Sannolikhet utifrån<br>erfarenhet och trend | 0,9 |  |
 | Summa justerat belopp | 124 600 000 | 98 765 000 |
 
-[Tabell 14-2](handlingar.tabeller/14-2.csv)
+<!-- sida 14 -->
+
+KUNGSBACKA  KOMMUN
+6 (7)
+
+[Tabell 14-15-1](handlingar.tabeller/14-15-1.csv)
 
 | Exploatering | Budget enligt beslut i<br>januari nämnden för teknik<br>i januari 2024 i kronor | Nytt förslag till beslut i AU,<br>i kronor |
 | --- | --- | --- |
@@ -484,6 +476,15 @@ KUNGSBACKA  KOMMUN
 | VEXP Bukärr 1:9 UT | 5 000 000 | 500 000 |
 | VEXP Bukärr 1:9 IN | -1 500 000 |  |
 | 7506 VEXP Kvarteret<br>Gjutaren UT | 5 000 000 | 5 000 000 |
+| VEXP Klovsten UT | 10 000 000 |  |
+| VEXP Sydöstra centrum<br>etapp 1 UT | 2 000 000 |  |
+| 7507 VEXP Varla 6:17,6:18,<br>6:22 UT | 2 000 000 | 2 000 000 |
+| 7507 VEXP Varla 6:17,6:18,<br>6:22 IN | -1 000 000 |  |
+| VEXP Tölö 6:4 mfl NÖ Kba<br>UT | 5 000 000 |  |
+| VEXP Tölö 4:148 NÖ Kba<br>UT | 2 000 000 |  |
+| VEXP Hjälm 4:1 IN | -2 250 000 |  |
+| VEXO Arenan Kungsbacka<br>4:65 UT |  | 4 000 000 |
+| Summa | 26 080 000 | 4 050 000 |
 
 <!-- sida 15 -->
 
@@ -493,19 +494,6 @@ KUNGSBACKA  KOMMUN
 Ulrika Granfors                    Catarina Sundberg
 
 Förvaltningschef                   Verksamhetschef
-
-[Tabell 15-1](handlingar.tabeller/15-1.csv)
-
-| VEXP Klovsten UT | 10 000 000 |  |
-| --- | --- | --- |
-| VEXP Sydöstra centrum<br>etapp 1 UT | 2 000 000 |  |
-| 7507 VEXP Varla 6:17,6:18,<br>6:22 UT | 2 000 000 | 2 000 000 |
-| 7507 VEXP Varla 6:17,6:18,<br>6:22 IN | -1 000 000 |  |
-| VEXP Tölö 6:4 mfl NÖ Kba<br>UT | 5 000 000 |  |
-| VEXP Tölö 4:148 NÖ Kba<br>UT | 2 000 000 |  |
-| VEXP Hjälm 4:1 IN | -2 250 000 |  |
-| VEXO Arenan Kungsbacka<br>4:65 UT |  | 4 000 000 |
-| Summa | 26 080 000 | 4 050 000 |
 
 <!-- sida 16 -->
 

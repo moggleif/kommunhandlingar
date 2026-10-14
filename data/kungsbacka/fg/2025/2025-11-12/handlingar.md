@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.b9c82c219a4e2180037b79e/17627707924
 sha256: 4d4104413813f2fb4781650b3a91006f99c33006f76bcffe547ccf0de2a5f77b
 bytes: 6912636
 sidor: 135
-hamtad: 2026-10-07T22:56:39+00:00
-konverterad: 2026-10-07T22:57:04+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T07:05:26+00:00
+konverterad: 2026-10-14T07:05:48+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [74, 113]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -59,7 +59,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -69,22 +69,18 @@ KUNGSBACKA  KOMMUN
 | 8. | Nämndbudget 2026<br>Kl 15:15-15:45<br>Gustav Sjöström, ekonomichef<br>Magnus Fogelblad,<br>verksamhetscontroller<br>Helena Hellman, personalchef | FG-2025-00620 | Nämnden för Förskola & Grundskola beslutar att<br>• Godkänna nämndbudget 2026 med<br>verksamhetsmål och ramfördelning<br>• Uppdra åt förvaltningschefen att upprätta<br>förvaltningsbudget för 2026.<br>• Uppdra åt förvaltningschefen att göra<br>nödvändiga omfördelningar i<br>förvaltningsbudgeten utifrån specifika<br>förutsättningar och behov. |
 | 9. | Grundbelopp 2026<br>Kl 15:45-15:55<br>Gustav Sjöström, ekonomichef | FG-2025-00622 | Nämnden för Förskola & Grundskola beslutar att<br>anta grundbeloppen till den fristående<br>verksamheten och kommunala verksamheten<br>enligt bifogade förslag. |
 | 10. | Uppdatering krigsorganisation<br>Kl 15:55-16:05<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2025-00631 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
+| 11. | Uppdatering riktlinje civil<br>beredskap 2026<br>Kl 16:05-16:25<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2025-00630 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
+| 12. | Uppdatering kontinuitetsplan<br>Kl 16:25-16:35<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2025-00679 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
+| 13. | Initiativ från Alliansen om<br>stärkt elevhälsa<br>Kl 16:35-16:55<br>Gustav Sjöström, ekonomichef<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00299 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
+| 14. | Initiativ från Alliansen för<br>bättre stöd i skolan<br>Kl 16:55-17:15<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00300 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
+| 15. | Delegeringsbeslut antagna av<br>nämnden 2025 | FG-2025-00007 | Redovisning av beslut som fattats av<br>förvaltningen på delegation för nämnden noteras<br>till protokollet. |
+| 16. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 17:15-17:30<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | Uppdatering riktlinje civil<br>beredskap 2026<br>Kl 16:05-16:25<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2025-00630 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
-| 12. | Uppdatering kontinuitetsplan<br>Kl 16:25-16:35<br>Magnus Fogelblad,<br>verksamhetscontroller | FG-2025-00679 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
-| 13. | Initiativ från Alliansen om<br>stärkt elevhälsa<br>Kl 16:35-16:55<br>Gustav Sjöström, ekonomichef<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00299 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
-| 14. | Initiativ från Alliansen för<br>bättre stöd i skolan<br>Kl 16:55-17:15<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00300 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
-| 15. | Delegeringsbeslut antagna av<br>nämnden 2025 | FG-2025-00007 | Redovisning av beslut som fattats av<br>förvaltningen på delegation för nämnden noteras<br>till protokollet. |
 
 <!-- sida 4 -->
 
@@ -94,12 +90,6 @@ KUNGSBACKA  KOMMUN
 
 Emanuel Forsell                   Lars Sundbom
 ordförande                        sekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 16. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 17:15-17:30<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
 
 <!-- sida 5 -->
 
@@ -1961,7 +1951,7 @@ Fokusområden
 
 12
 
-[Tabell 50-1](handlingar.tabeller/50-1.csv)
+[Tabell 50-51-1](handlingar.tabeller/50-51-1.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -1971,6 +1961,9 @@ Fokusområden
 | Jag känner mig trygg i skolan (åk 8) | 82 % | 84 % |  |  |
 | Anmälda brott mot brottsbalken per invånare<br>(antal/100 000 invånare) | 6 475 | 6 541 |  | Minska |
 | Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 91 % | 88 % |  | Öka |
+| Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn | 76 % | 76 % |  | Öka |
+| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn |  | 95 % |  | Öka |
+| Invånare 16-84 år med avsaknad av tillit till<br>andra |  |  |  | Minska |
 
 <!-- sida 51 -->
 
@@ -1991,15 +1984,7 @@ mångfald.
 
 13
 
-[Tabell 51-1](handlingar.tabeller/51-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
-| Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn | 76 % | 76 % |  | Öka |
-| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn |  | 95 % |  | Öka |
-| Invånare 16-84 år med avsaknad av tillit till<br>andra |  |  |  | Minska |
-
-[Tabell 51-2](handlingar.tabeller/51-2.csv)
+[Tabell 51-52-1](handlingar.tabeller/51-52-1.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -2008,6 +1993,18 @@ mångfald.
 | Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 79 % | 73 % |  | Öka |
 | Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Pojkar.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 92 % | 89 % |  |  |
 | Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i% -<br>flickor. | 73 % | 75 % |  | Öka |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i% -<br>pojkar. | 86 % | 88 % |  | Öka |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 92 |  |  | Minska |
+| Avfall från kommunens verksamheter ska<br>minska med 40 % per heltidsanställd. Startvärde<br>100, målvärde 2030 är 60. | 223 |  |  | Minska |
+| Fossiloberoende personbilar, andel av totalt<br>antal bilar i det geografiska området, (Kolada) | 24,1 % | 26,5 % |  | Öka |
+| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,79 | 1,85 |  | Minska |
+| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021<br>var antalet 124 (KEMgroup PRO) | 115 | 151 |  | Minska |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  | Öka |
+| Andelen återbrukade möbler |  |  |  | Öka |
+| Total debiterad vattenförbrukning fördelat på<br>antal anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  | Minska |
+| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn. |  |  |  | Minska |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  | Minska |
 
 <!-- sida 52 -->
 
@@ -2028,23 +2025,6 @@ Mobiltelefoner, smartklockor och motsvarande enheter ska inte vara tillåtna på
 lektionstid eller under rast.
 
 14
-
-[Tabell 52-1](handlingar.tabeller/52-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
-| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i% -<br>pojkar. | 86 % | 88 % |  | Öka |
-| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 92 |  |  | Minska |
-| Avfall från kommunens verksamheter ska<br>minska med 40 % per heltidsanställd. Startvärde<br>100, målvärde 2030 är 60. | 223 |  |  | Minska |
-| Fossiloberoende personbilar, andel av totalt<br>antal bilar i det geografiska området, (Kolada) | 24,1 % | 26,5 % |  | Öka |
-| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,79 | 1,85 |  | Minska |
-| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021<br>var antalet 124 (KEMgroup PRO) | 115 | 151 |  | Minska |
-| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
-| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  | Öka |
-| Andelen återbrukade möbler |  |  |  | Öka |
-| Total debiterad vattenförbrukning fördelat på<br>antal anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  | Minska |
-| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn. |  |  |  | Minska |
-| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  | Minska |
 
 <!-- sida 53 -->
 
@@ -2087,11 +2067,15 @@ Fokusområden
 | Företagsamhet, andel av invånare 16–74 år | 19 % |  |  | Öka |
 | Antal nystartade företag per 1 000 invånare 16–<br>64 år (etableringsfrekvens) | 10,3 |  |  | Öka |
 
-[Tabell 53-2](handlingar.tabeller/53-2.csv)
+[Tabell 53-54-2](handlingar.tabeller/53-54-2.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
 | Genomsnittligt meritvärde för grundskolans i<br>årskurs 9 (hemkommun). Meritvärdet utgörs av<br>summan av de 17 bästa betygen i elevens<br>slutbetyg och kan max vara 340. | 237 | 238 |  | Öka |
+| Arbetslöshet för ungdomar 16–24 år i<br>kommunen. (Källa: Arbetsförmedlingen och<br>SCB) | 1,7 % | 2,3 % |  | Minska |
+| Genomsnittligt betygspoäng gymnasieelever<br>med examen (hemkommun) som kan vara max<br>20. | 14,3 | 14 | 14 | Öka |
+| Andel vuxna personer som inte återkommit till<br>försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) | 73 % | 75 % |  | Öka |
+| Kostnad utbetalt ekonomiskt bistånd, kr/invånare<br>(Kolada) | 325 | 306 |  | Minska |
 
 <!-- sida 54 -->
 
@@ -2133,15 +2117,6 @@ Indikator                      Utfall 2023 Utfall 2024 Utfall 2025
 2026
 
 16
-
-[Tabell 54-1](handlingar.tabeller/54-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
-| Arbetslöshet för ungdomar 16–24 år i<br>kommunen. (Källa: Arbetsförmedlingen och<br>SCB) | 1,7 % | 2,3 % |  | Minska |
-| Genomsnittligt betygspoäng gymnasieelever<br>med examen (hemkommun) som kan vara max<br>20. | 14,3 | 14 | 14 | Öka |
-| Andel vuxna personer som inte återkommit till<br>försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) | 73 % | 75 % |  | Öka |
-| Kostnad utbetalt ekonomiskt bistånd, kr/invånare<br>(Kolada) | 325 | 306 |  | Minska |
 
 <!-- sida 55 -->
 
@@ -2330,51 +2305,120 @@ Nämndbudget 2026
 
 7.2 Resursmått
 
+Delområde Nyckeltal Utfall 2022 Utfall 2023 Utfall 2024 Budget 2025 Budget 2026
+
+Kostnad
+per inskrivet
+Förskola  barn,      175 173   183 671   184 293
+kommunal
+förskola
+Kostnad
+per inskrivet
+Pedagogisk
+barn i     127 000   131 824   144 657
+omsorg
+pedagogisk
+omsorg
+Kostnad
+Förskoleklass         81 913   83 079    93 900
+per elev
+Kostnad
+kommunal
+Grundskola grundskola 119 100  128 512   133 720
+åk 1-9,
+kr/elev
+Kostnad
+per inskrivet
+Fritidshem barn,      48 538   48 258    49 784
+kommunalt
+fritidshem
+Kostnad
+Anpassad  per elev,
+547 700   615 200   603 900
+grundskola anpassad
+grundskola
 7.3 Prestationsmått
+Budget    Budget
+Delområde Nyckeltal   Utfall 2022 Utfall 2023 Utfall 2024
+2025      2026
+Antal
+inskrivna barn
+4,5      4,6       4,7
+per årsarbetare,
+Förskola  förskola
+Barn 1-5 år,
+85,4 %   88,7 %    89,4 %
+andel i förskola
 
 21
-
-[Tabell 59-1](handlingar.tabeller/59-1.csv)
-
-| Delområde | Nyckeltal Utfall 2022 Utfall 2023 Utfall 2024 Budget 2025 Budget 2026 |
-| --- | --- |
-| Förskola | Kostnad<br>per inskrivet<br>barn, 175 173 183 671 184 293<br>kommunal<br>förskola |
-| Pedagogisk<br>omsorg | Kostnad<br>per inskrivet<br>barn i 127 000 131 824 144 657<br>pedagogisk<br>omsorg |
-| Förskoleklass | Kostnad<br>81 913 83 079 93 900<br>per elev |
-| Grundskola | Kostnad<br>kommunal<br>grundskola 119 100 128 512 133 720<br>åk 1-9,<br>kr/elev |
-| Fritidshem | Kostnad<br>per inskrivet<br>barn, 48 538 48 258 49 784<br>kommunalt<br>fritidshem |
-| Anpassad<br>grundskola | Kostnad<br>per elev,<br>547 700 615 200 603 900<br>anpassad<br>grundskola |
-
-[Tabell 59-2](handlingar.tabeller/59-2.csv)
-
-| Delområde | Budget Budget<br>Nyckeltal Utfall 2022 Utfall 2023 Utfall 2024<br>2025 2026 |
-| --- | --- |
-| Förskola | Antal<br>inskrivna barn<br>4,5 4,6 4,7<br>per årsarbetare,<br>förskola |
-|  | Barn 1-5 år,<br>85,4 % 88,7 % 89,4 %<br>andel i förskola |
 
 <!-- sida 60 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Nämndbudget 2026
 
+Budget    Budget
+Delområde Nyckeltal   Utfall 2022 Utfall 2023 Utfall 2024
+2025      2026
+Andel
+förskolebarn i 15 %     15 %     16 %
+enskild regi
+Årsarbetare i
+förskolan med
+48 %      47 %     48 %
+pedagogisk
+högskoleexamen
+Antal
+inskrivna barn
+per personal,  4,3      4,8       5,2
+pedagogisk
+Pedagogisk
+omsorg
+omsorg
+Andel (%)
+inskriv. barn i 61 %    64 %     69 %
+ensk. regi
+Årsarbetare i
+förskoleklass
+93,6 %   88,3 %    93,8 %
+med pedagogisk
+Förskoleklass högskoleexamen
+Antal
+19       17,7      20,3
+elever/lärare
+Elever/lärare
+(årsarbetare) i 13,2    12,4      13
+grundskola F-9
+Elever
+folkbokf. i
+kommunen,     17,8 %   18,8 %    18,9 %
+andel i
+Grundskola
+fristående skola
+Lärare med
+pedagogisk
+högskoleexamen
+88,6 %   90,2 %    92,7 %
+i kommunal
+grundskola åk 1-
+9
+Inskrivna
+elever per
+21,6      20,6      24,5
+årsarbetare i
+fritidshem
+Fritidshem
+Årsarbetare i
+fritidshem med
+43 %      47 %     49 %
+pedagogisk
+högskoleexamen
+Antal elever
+Anpassad
+per lärare     4,2      5,4       4,6
+grundskola
+(heltidstjänst)
 22
-
-[Tabell 60-1](handlingar.tabeller/60-1.csv)
-
-| Delområde | Budget Budget<br>Nyckeltal Utfall 2022 Utfall 2023 Utfall 2024<br>2025 2026 |
-| --- | --- |
-|  | Andel<br>förskolebarn i 15 % 15 % 16 %<br>enskild regi |
-|  | Årsarbetare i<br>förskolan med<br>48 % 47 % 48 %<br>pedagogisk<br>högskoleexamen |
-| Pedagogisk<br>omsorg | Antal<br>inskrivna barn<br>per personal, 4,3 4,8 5,2<br>pedagogisk<br>omsorg |
-|  | Andel (%)<br>inskriv. barn i 61 % 64 % 69 %<br>ensk. regi |
-| Förskoleklass | Årsarbetare i<br>förskoleklass<br>93,6 % 88,3 % 93,8 %<br>med pedagogisk<br>högskoleexamen |
-|  | Antal<br>19 17,7 20,3<br>elever/lärare |
-| Grundskola | Elever/lärare<br>(årsarbetare) i 13,2 12,4 13<br>grundskola F-9 |
-|  | Elever<br>folkbokf. i<br>kommunen, 17,8 % 18,8 % 18,9 %<br>andel i<br>fristående skola |
-|  | Lärare med<br>pedagogisk<br>högskoleexamen<br>88,6 % 90,2 % 92,7 %<br>i kommunal<br>grundskola åk 1-<br>9 |
-| Fritidshem | Inskrivna<br>elever per<br>21,6 20,6 24,5<br>årsarbetare i<br>fritidshem |
-|  | Årsarbetare i<br>fritidshem med<br>43 % 47 % 49 %<br>pedagogisk<br>högskoleexamen |
-| Anpassad<br>grundskola | Antal elever<br>per lärare 4,2 5,4 4,6<br>(heltidstjänst) |
 
 <!-- sida 61 -->
 
@@ -2383,32 +2427,72 @@ Nämndbudget 2026
 
 7.4 Effektmått
 
+Budget    Budget
+Delområde Nyckeltal   Utfall 2022 Utfall 2023 Utfall 2024
+2025      2026
+Andel (%)
+elever i åk. 9
+som uppnått
+betygskriterierna 82 % 81,7 %    83,4 %
+i alla ämnen,
+kommunala
+skolor
+Andel (%)
+elever i årskurs
+9 behöriga till
+88,7 %    89,1 %    89 %
+gymnasieskolan,
+kommunala
+skolor
+Genomsnittligt
+meritvärde i
+237      236,5     237,5
+årskurs 9,
+kommunala
+skolor
+Andel elever
+som uppnått
+Grundskola betygskriterierna
+i samtliga
+1        2,2       3,8
+ämnen,
+avvikelse från
+modellberäknat
+värde
+Andel elever
+som är behöriga
+till ett
+yrkesprogram, -1,1      -0,1      0,3
+avvikelse från
+modellberäknat
+värde
+Andel elever
+åk 9 behöriga till
+94,4 %              96,4 %
+yrkesprogram,
+fristående skolor
+Genomsnittligt
+meritvärde i  252,6    272,2     261,5
+årskurs 9,
+fristående skolor
+
 23
-
-[Tabell 61-1](handlingar.tabeller/61-1.csv)
-
-| Delområde | Budget Budget<br>Nyckeltal Utfall 2022 Utfall 2023 Utfall 2024<br>2025 2026 |
-| --- | --- |
-| Grundskola | Andel (%)<br>elever i åk. 9<br>som uppnått<br>betygskriterierna 82 % 81,7 % 83,4 %<br>i alla ämnen,<br>kommunala<br>skolor |
-|  | Andel (%)<br>elever i årskurs<br>9 behöriga till<br>88,7 % 89,1 % 89 %<br>gymnasieskolan,<br>kommunala<br>skolor |
-|  | Genomsnittligt<br>meritvärde i<br>237 236,5 237,5<br>årskurs 9,<br>kommunala<br>skolor |
-|  | Andel elever<br>som uppnått<br>betygskriterierna<br>i samtliga<br>1 2,2 3,8<br>ämnen,<br>avvikelse från<br>modellberäknat<br>värde |
-|  | Andel elever<br>som är behöriga<br>till ett<br>yrkesprogram, -1,1 -0,1 0,3<br>avvikelse från<br>modellberäknat<br>värde |
-|  | Andel elever<br>åk 9 behöriga till<br>94,4 % 96,4 %<br>yrkesprogram,<br>fristående skolor |
-|  | Genomsnittligt<br>meritvärde i 252,6 272,2 261,5<br>årskurs 9,<br>fristående skolor |
 
 <!-- sida 62 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Nämndbudget 2026
 
+Budget    Budget
+Delområde Nyckeltal   Utfall 2022 Utfall 2023 Utfall 2024
+2025      2026
+Andel elever
+i åk. 9 som
+uppnått målen i 91,1 % 95,3 %    91,8 %
+alla ämnen,
+fristående skolor
+
 24
-
-[Tabell 62-1](handlingar.tabeller/62-1.csv)
-
-| Delområde | Budget Budget<br>Nyckeltal Utfall 2022 Utfall 2023 Utfall 2024<br>2025 2026 |
-| --- | --- |
-|  | Andel elever<br>i åk. 9 som<br>uppnått målen i 91,1 % 95,3 % 91,8 %<br>alla ämnen,<br>fristående skolor |
 
 <!-- sida 63 -->
 
@@ -2663,7 +2747,7 @@ justeras när SKR fastställt det definitiva pålägget.
 
 29
 
-[Tabell 67-1](handlingar.tabeller/67-1.csv)
+[Tabell 67-68-1](handlingar.tabeller/67-68-1.csv)
 
 | Kategori | Budget 2026 |
 | --- | --- |
@@ -2672,6 +2756,7 @@ justeras när SKR fastställt det definitiva pålägget.
 | Uppräkning | 71 750 |
 | Volymförändringar | -21 909 |
 | Övriga förändringar | 30 000 |
+| Total budgetram 2026 | 2 386 740 |
 
 <!-- sida 68 -->
 
@@ -2726,12 +2811,6 @@ att möta kommande löneökningar på 3 %.
 Enligt befolkningsprognosen fortsätter antalet barn och elever att minska 2026 vilket innebär att det kommer
 
 30
-
-[Tabell 68-1](handlingar.tabeller/68-1.csv)
-
-| Kategori | Budget 2026 |
-| --- | --- |
-| Total budgetram 2026 | 2 386 740 |
 
 <!-- sida 69 -->
 
@@ -5106,7 +5185,7 @@ Uttaget är gjort utifrån rapporteringstid och inte händelsetid. Dvs händelse
 
 Inskickad      Ärendenummer    Delegering     Beslut
 
-[Tabell 132-1](handlingar.tabeller/132-1.csv)
+[Tabell 132-135-1](handlingar.tabeller/132-135-1.csv)
 
 | 2025-03-14 15:33 | 191811 | A 4.1 | Beviljad |
 | --- | --- | --- | --- |
@@ -5149,13 +5228,7 @@ Inskickad      Ärendenummer    Delegering     Beslut
 | 2025-08-22 00:00 | 0-20250825-101616 | A 4.1 | Beviljad |
 | 2025-08-22 08:48 | 227660 | A 4.1 | Beviljad |
 | 2025-08-27 23:16 | 229024 | A 4.1 | Beviljad |
-
-<!-- sida 133 -->
-
-[Tabell 133-1](handlingar.tabeller/133-1.csv)
-
 | 2025-09-15 16:40 | 233171 | A 4.1 | Beviljad |
-| --- | --- | --- | --- |
 | 2025-09-16 07:16 | 233247 | A 4.1 | Avslag |
 | 2025-09-16 07:56 | 233261 | A 4.1 | Avslag |
 | 2025-09-16 08:08 | 233264 | A 4.1 | Avslag |
@@ -5196,13 +5269,7 @@ Inskickad      Ärendenummer    Delegering     Beslut
 | 2025-10-07 19:48 | 237784 | A 4.1 | Beviljad |
 | 2025-10-08 00:00 | 0-20251008-111036 | A 4.1 | Beviljad |
 | 2025-10-08 14:24 | 237932 | A 4.1 | Beviljad |
-
-<!-- sida 134 -->
-
-[Tabell 134-1](handlingar.tabeller/134-1.csv)
-
 | 2025-10-08 14:24 | 237934 | A 4.1 | Beviljad |
-| --- | --- | --- | --- |
 | 2025-10-08 15:40 | 237975 | A 4.1 | Avslag |
 | 2025-10-08 18:40 | 238017 | A 4.1 | Beviljad |
 | 2025-10-09 00:00 | 0-20251009-122832 | A 4.1 | Beviljad |
@@ -5243,15 +5310,15 @@ Inskickad      Ärendenummer    Delegering     Beslut
 | 2025-10-23 17:08 | 240843 | A 4.1 | Avslag |
 | 2025-10-23 20:56 | 240870 | A 4.1 | Beviljad |
 | 2025-10-27 00:00 | 0-20251027-090914 | A 4.1 | Beviljad |
-
-<!-- sida 135 -->
-
-[Tabell 135-1](handlingar.tabeller/135-1.csv)
-
 | 2025-10-27 13:08 | 241313 | A 4.1 | Beviljad |
-| --- | --- | --- | --- |
 | 2025-10-28 20:08 | 241626 | A 4.1 | Beviljad |
 | 2025-10-28 20:08 | 241627 | A 4.1 | Avslag |
 | 2025-10-30 15:40 | 242030 | A 4.1 | Avslag |
 | 2025-10-30 20:08 | 242074 | A 4.1 | Avslag |
 | 2025-11-03 07:40 | 242414 | A 4.1 | Avslag |
+
+<!-- sida 133 -->
+
+<!-- sida 134 -->
+
+<!-- sida 135 -->

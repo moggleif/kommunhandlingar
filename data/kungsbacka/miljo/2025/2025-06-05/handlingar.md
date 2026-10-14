@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.17fec11f1970baf98f895d5e/1748585730
 sha256: 899bd1bc47c6effd255bca042df79bd692588bbef7dc918eac771b76879c712b
 bytes: 404012
 sidor: 11
-hamtad: 2026-10-08T08:05:59+00:00
-konverterad: 2026-10-08T08:06:05+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T11:01:05+00:00
+konverterad: 2026-10-14T11:01:11+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -293,8 +293,9 @@ budgeterats för perioden. Utfallet för nybyggnadskartor avviker med -0,2 miljo
 
 [Tabell 8-1](handlingar.tabeller/8-1.csv)
 
-| Byggnadsnämnden | Bokslut<br>2024<br>-1,3 | Årsbudget<br>2025<br>-1,7 | Helårs-<br>prognos<br>2025<br>-1,5 | Avvikelse<br>2025<br>0,2 |
+|  | Bokslut<br>2024 | Årsbudget<br>2025 | Helårs-<br>prognos<br>2025 | Avvikelse<br>2025 |
 | --- | --- | --- | --- | --- |
+| Byggnadsnämnden | -1,3 | -1,7 | -1,5 | 0,2 |
 |  |  |  |  |  |
 | Geodata & Bygglov |  |  |  |  |
 | Intäkter | 30,2 | 32,3 | 32,3 | 0,0 |

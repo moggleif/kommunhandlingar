@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.33d6d97191e4f00c90e0aef/17267261780
 sha256: 5455e3af94b5ba2fc2c8811b88f75f50dce6b22cdf9c421531a9a60a6c6c8065
 bytes: 3076711
 sidor: 114
-hamtad: 2026-10-07T22:15:39+00:00
-konverterad: 2026-10-07T22:15:57+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T06:30:04+00:00
+konverterad: 2026-10-14T06:30:22+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [106, 108]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1296,14 +1296,14 @@ antal elever per lärare (heltidstj)
 
 [Tabell 29-1](handlingar.tabeller/29-1.csv)
 
-|  | Namn Utfall 2020 Utfall 2021 Utfall 2022 Utfall 2023 Utfall 2024 |
-| --- | --- |
-| Kostnad per<br>elev i anpassad<br>gymnasieskola 453 300 409 500 435 900<br>(exkl<br>skolskjuts) |  |
-| Kostnad per<br>gymnasieelev<br>111 039 110 282<br>folkbokförd i<br>kommunen |  |
-| Kostnader för<br>kommunala<br>arbetsmarknad 340 421 327 281<br>såtgärder,<br>kr/invånare |  |
-| Kostnad per<br>gymnasieelev i<br>115 088 114 515 119 310 127 281<br>kommunens<br>skolor |  |
-| Kostnad per<br>gymnasieelev 18 700 19 400 20 300 21 144<br>för lokaler |  |
-| Nettokostnad<br>gymnasial<br>vuxenutbildning<br>17 026 15 537 18 598 23 545<br>,<br>kr/heltidsstuder<br>ande |  |
+|  | Namn | Utfall 2020 | Utfall 2021 | Utfall 2022 | Utfall 2023 | Utfall 2024 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Kostnad per<br>elev i anpassad<br>gymnasieskola<br>(exkl<br>skolskjuts) | 453 300 | 409 500 | 435 900 |  |  |
+|  | Kostnad per<br>gymnasieelev<br>folkbokförd i<br>kommunen | 111 039 | 110 282 |  |  |  |
+|  | Kostnader för<br>kommunala<br>arbetsmarknad<br>såtgärder,<br>kr/invånare | 340 | 421 | 327 | 281 |  |
+|  | Kostnad per<br>gymnasieelev i<br>kommunens<br>skolor | 115 088 | 114 515 | 119 310 | 127 281 |  |
+|  | Kostnad per<br>gymnasieelev<br>för lokaler | 18 700 | 19 400 | 20 300 | 21 144 |  |
+|  | Nettokostnad<br>gymnasial<br>vuxenutbildning<br>,<br>kr/heltidsstuder<br>ande | 17 026 | 15 537 | 18 598 | 23 545 |  |
 
 <!-- sida 30 -->
 
@@ -1539,31 +1539,55 @@ rehabiliteringsärendena anges orsaken till sjukfrånvaron inte vara arbetsrelat
 
 5.3 Resursmått
 
+Utfall jan Utfall jan Utfall jan Utfall jan Utfall jan
+Namn                2020 -jun 2021 -jun 2022-jun 2023-jun   2024-jun
+
+```osaker-tabell
+                     2020      2021      2022   2023          2024
+Andel deltid         9,5 %     8,6 %     7,5 %      6,9 %     7,2 %
+Andel heltid         90,5 %    91,4 %   92,5 %      93,1 %   92,8 %
+```
+
+Andel kvinnor som har
+10,7 %    10,1 %    8,5 %      6,9 %     7,3 %
+deltid
+Andel kvinnor som har
+89,3 %    89,9 %   91,5 %      93,1 %   92,7 %
+heltid
+
+```osaker-tabell
+Andel män som har deltid 7,2 %  6 %      5,6 %      6,9 %     7,1 %
+Andel män som har heltid 92,8 % 94,1 %  94,4 %      93,1 %    93 %
+Anställda andel kvinnor 65 %   64,1 %   63,8 %      64,2 %   65,3 %
+Anställda andel män  35 %      35,9 %   36,2 %      35,8 %   34,7 %
+```
+
+Anställda genomsnittlig
+97,3 %    97,6 %   97,7 %      98,1 %   97,9 %
+sysselsättningsgrad
+Anställda totalt      508       490      486          494      475
+Antal medarbetare per chef 21,1 20,3     22,2         18       16,6
+Antal medarbetare per
+25,5     24,6      27,4        20,4      18,7
+enhetschef
+
+```osaker-tabell
+Medarbetare 30 - 39 år 20,7 %  20,8 %   21,2 %      21,9 %   21,3 %
+Medarbetare 40 - 49 år 30,1 %  27,4 %   27,4 %      27,3 %    27 %
+Medarbetare 50 - 59 år 29,5 %  30 %     29,6 %       31 %    33,9 %
+```
+
+Medarbetare 60 år och
+15,2 %    15,9 %   14,8 %      14,8 %   14,1 %
+äldre
+
+```osaker-tabell
+Medarbetare yngre än 30 år 4,53 % 5,9 %  7 %        5,1 %     3,8 %
+Medelålder            47        48        47          48        48
+Pensionsavgångar                          4            1         3
+```
+
 27
-
-[Tabell 34-1](handlingar.tabeller/34-1.csv)
-
-|  | Utfall jan Utfall jan Utfall jan Utfall jan Utfall jan<br>Namn 2020 -jun 2021 -jun 2022-jun 2023-jun 2024-jun<br>2020 2021 2022 2023 2024 |
-| --- | --- |
-| Andel deltid 9,5 % 8,6 % 7,5 % 6,9 % 7,2 % |  |
-| Andel heltid 90,5 % 91,4 % 92,5 % 93,1 % 92,8 % |  |
-| Andel kvinnor som har<br>10,7 % 10,1 % 8,5 % 6,9 % 7,3 %<br>deltid |  |
-| Andel kvinnor som har<br>89,3 % 89,9 % 91,5 % 93,1 % 92,7 %<br>heltid |  |
-| Andel män som har deltid 7,2 % 6 % 5,6 % 6,9 % 7,1 % |  |
-| Andel män som har heltid 92,8 % 94,1 % 94,4 % 93,1 % 93 % |  |
-| Anställda andel kvinnor 65 % 64,1 % 63,8 % 64,2 % 65,3 % |  |
-| Anställda andel män 35 % 35,9 % 36,2 % 35,8 % 34,7 % |  |
-| Anställda genomsnittlig<br>97,3 % 97,6 % 97,7 % 98,1 % 97,9 %<br>sysselsättningsgrad |  |
-| Anställda totalt 508 490 486 494 475 |  |
-| Antal medarbetare per chef 21,1 20,3 22,2 18 16,6 |  |
-| Antal medarbetare per<br>25,5 24,6 27,4 20,4 18,7<br>enhetschef |  |
-| Medarbetare 30 - 39 år 20,7 % 20,8 % 21,2 % 21,9 % 21,3 % |  |
-| Medarbetare 40 - 49 år 30,1 % 27,4 % 27,4 % 27,3 % 27 % |  |
-| Medarbetare 50 - 59 år 29,5 % 30 % 29,6 % 31 % 33,9 % |  |
-| Medarbetare 60 år och<br>15,2 % 15,9 % 14,8 % 14,8 % 14,1 %<br>äldre |  |
-| Medarbetare yngre än 30 år 4,53 % 5,9 % 7 % 5,1 % 3,8 % |  |
-| Medelålder 47 48 47 48 48 |  |
-| Pensionsavgångar 4 1 3 |  |
 
 <!-- sida 35 -->
 
@@ -1631,11 +1655,20 @@ Delårsrapport Augusti 2024
 
 Utfall och prognos
 
+Bokslut Budget Prognos Budget-  Delår  Delår  Avvikelse
+Miljoner kronor
+2023   2024    2024  avvikelse 2023    2024    delår
+Gymnasium&
+-590   -626,9  -618,8    8,1   -393,2 -405,5   -12,3
+Arbetsmarknad
+
+Periodens
+-590   -626,9  -618,8    8,1   -393,2 -405,5   -12,3
+resultat
 Sammanfattning - text till kommunstyrelsen
 Gymnasium & Arbetsmarknad prognostiserar ett överskott på 8,1 miljoner kronor (mkr) för verksamhetsåret
 2024\. Gymnasieverksamheten prognostiserar ett underskott medan övriga verksamheter prognostiserar
 överskott.
-
 Ekonomin för Gymnasium & Arbetsmarknad under perioden januari till augusti 2024 har varit fortsatt stabil
 inom de flesta verksamheter. Det finns utmaningar i ekonomin, framför allt kring elevantal i
 gymnasieverksamheten och kostnaderna kring boende i etableringsverksamheten.
@@ -1665,14 +1698,6 @@ köp av utbildning från kommuner och friskolor. Antal elever från andra kommun
 gjort att intäkterna har minskat.
 
 29
-
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
-
-| Miljoner kronor<br>Gymnasium&<br>Arbetsmarknad | Bokslut<br>2023<br>-590 | Budget<br>2024<br>-626,9 | Prognos<br>2024<br>-618,8 | Budget-<br>avvikelse<br>8,1 | Delår<br>2023<br>-393,2 | Delår<br>2024<br>-405,5 | Avvikelse<br>delår<br>-12,3 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-| Periodens<br>resultat | -590 | -626,9 | -618,8 | 8,1 | -393,2 | -405,5 | -12,3 |
 
 <!-- sida 37 -->
 

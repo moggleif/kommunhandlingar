@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7a86dc02194401f5c32d3d3a/1737024409
 sha256: 8790ae61ace64acf3501f394b40542b7631a665a88b031406ff0ff290b9a5e1e
 bytes: 133760
 sidor: 4
-hamtad: 2026-10-08T02:50:52+00:00
-konverterad: 2026-10-08T02:50:58+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:24:52+00:00
+konverterad: 2026-10-14T10:24:58+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -54,7 +54,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-3-1](kallelse.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -63,23 +63,18 @@ KUNGSBACKA  KOMMUN
 | 5. | Slutförande av projekt<br>Löftaleden<br>Föredragande: Karl Persson,<br>förvaltningschef<br>10 min<br>2 st dokument | KFT-2025-<br>00010 | Nämnden beslutar att bevilja ett stöd om 300.000 kr<br>inom ramen för Särskilt stöd, för att möjliggöra att<br>föreningen kan slutföra arbetet med leden. Stödet<br>ska återbetalas som engångssumma så snart<br>föreningen erhållit bidraget från LLUH, dock senast<br>2025-10-30. Om LLUH:s bidragshandläggning<br>fördröjs ska föreningen inkomma med en ansökan<br>om förlängning av stödets återbetalningsfrist. I<br>händelse av att bidrag från LLUH inte erhålls ska det<br>kommunala stödet återbetalas omgående. |
 | 6. | Information till nämnd:<br>Platsvarumärket<br>Föredragande: Nina<br>Magnusson, platsvarumärkes-<br>och kommunikationschef<br>20 min<br>1 st dokument | KFT-2024-<br>00328 | Nämnden noterar informationen till protokollet. |
 |  | PAUS 15 min |  |  |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 7. | Handlingsplan BRÅ<br>Föredragande: Karl Persson,<br>förvaltningschef<br>10 min<br>2 st dokument | KFT-2025-<br>00004 | Nämnden godkänner handlingsplanen. |
 | 8. | Årsredovisning God och nära<br>vård<br>Föredragande: Karl Persson,<br>förvaltningschef<br>15 min<br>2 st dokument | KFT-2025-<br>00005 | Nämnden noterar informationen till protokollet. |
 | 9. | Överlämnande av<br>arbetsuppgifter till<br>nämndsekreterare<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>1 st dokument | KFT-2025-<br>00006 | Nämnden för Kultur & Fritid lämnar till Namita<br>Magnusson, nämndsekreterare vid förvaltningen för<br>Service i Kungsbacka, såsom osjälvständig<br>uppdragstagare att agera nämndsekreterare vid<br>frånvaro av ordinarie nämndsekreterare vid<br>förvaltningen för Kultur & Fritid. |
 | 10. | Anmälan av delegeringsbeslut<br>jan 2025 | KFT-2025-<br>00007 | Redovisning av delegeringsbeslut förtecknade i<br>protokoll 2025-01-22 godkänns. |
 | 11. | Redovisning av inkomna<br>handlingar jan 2025 | KFT-2025-<br>00008 | Nämnden noterar redovisningen till protokollet. |
 | 12. | Förvaltningschefen informerar<br>Föredragande: Karl Persson,<br>förvaltningschef<br>15 min<br>1 st dokument | KFT-2025-<br>00009 | Nämnden noterar informationen till protokollet. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 

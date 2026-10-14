@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7d495738199c8fe7528c2cc4/1760626591
 sha256: 5c5df198265e6472d33883cfb53abae640cdbfe680e1052cf09103919f1fcab1
 bytes: 14819709
 sidor: 208
-hamtad: 2026-10-08T07:43:46+00:00
-konverterad: 2026-10-08T07:44:20+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T10:40:23+00:00
+konverterad: 2026-10-14T10:41:02+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok]
 tal_obekraftade: [206]
-figurer: null
-tolkade: null
+figurer: [17, 19, 22, 26, 28, 46, 66, 70, 86, 114, 129, 130, 133, 136, 138, 139, 142, 155, 156, 161, 162, 165]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -2796,20 +2796,12 @@ Kungsbacka kommun         Hyror och avgifter 2026               7
 | Scenmoduler | 1x2 meter | 100 kr/modul |
 | Ståplatsläktare på kärra |  | 1500 kr |
 
-[Tabell 62-2](handlingar.tabeller/62-2.csv)
+[Tabell 62-63-2](handlingar.tabeller/62-63-2.csv)
 
 | Skadegörelse | Hela skadekostnaden |
 | --- | --- |
 | Larmutryckning<br>- Avser utryckning som orsakats av handhavandefel | Hela utryckningskostnaden |
-
-<!-- sida 63 -->
-
-Kungsbacka kommun         Hyror och avgifter 2026               8
-
-[Tabell 63-1](handlingar.tabeller/63-1.csv)
-
 | Ej återställt material | 1 000 kr |
-| --- | --- |
 | Ej grovstädad anläggning/lokal/omklädningsrum<br>- i grovstädning ingår att plocka upp papper, tejp, flaskor och annat lösa<br>föremål | 500 kr |
 | Användning av klister i en klisterfri idrottsanläggning | Hela städkostnaden |
 | Förlust av nyckel | Faktisk kostnad |
@@ -2818,6 +2810,10 @@ Kungsbacka kommun         Hyror och avgifter 2026               8
 | Transport | Faktisk kostnad |
 | Extra linjering | Faktisk kostnad |
 | Beträdande på avstängda/snötäckta planer | 2 000 kr |
+
+<!-- sida 63 -->
+
+Kungsbacka kommun         Hyror och avgifter 2026               8
 
 <!-- sida 64 -->
 
@@ -3425,16 +3421,18 @@ Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 [Tabell 79-1](handlingar.tabeller/79-1.csv)
 
-| Terminsavgifter | 2024<br>(gällande sedan 2015) | 2025 |
+|  | 2024 |  |
 | --- | --- | --- |
+| Terminsavgifter | (gällande sedan 2015) | 2025 |
 | Terminsavgift. Grundavgift<br>ämne/instrument samt ”kulår”. | 950 kr | 1 140 kr |
 | Fördjupningslinje | 1 900 kr | 2 280 kr |
 | Orkester, kör och musiklek-ämnen | 475 kr | 570 kr |
 
 [Tabell 79-2](handlingar.tabeller/79-2.csv)
 
-| Övriga avgifter | 2024<br>(gällande sedan 2015) | 2025 |
+|  | 2024 |  |
 | --- | --- | --- |
+| Övriga avgifter | (gällande sedan 2015) | 2025 |
 | Kortkurs, 10 veckor | 700 kr | 840 kr |
 | Kortkurs, 5 veckor | 400 kr | 480 kr |
 | Småbarnsrytmik, (drop in) | 500 kr | 0 kr |
@@ -3922,7 +3920,7 @@ Fokusområden
 
 10
 
-[Tabell 92-1](handlingar.tabeller/92-1.csv)
+[Tabell 92-93-1](handlingar.tabeller/92-93-1.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättnin<br>g 2026 |
 | --- | --- | --- | --- | --- |
@@ -3932,6 +3930,7 @@ Fokusområden
 | Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 91 % | 88 % |  | Öka |
 | Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn | 76 % | 76 % |  | Öka |
 | Brukarbedömning individ- och familjeomsorg totalt<br>- helhetssyn |  | 95 % |  | Öka |
+| Invånare 16-84 år med avsaknad av tillit till andra |  |  |  | Minska |
 
 <!-- sida 93 -->
 
@@ -3951,13 +3950,7 @@ mångfald.
 
 11
 
-[Tabell 93-1](handlingar.tabeller/93-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättnin<br>g 2026 |
-| --- | --- | --- | --- | --- |
-| Invånare 16-84 år med avsaknad av tillit till andra |  |  |  | Minska |
-
-[Tabell 93-2](handlingar.tabeller/93-2.csv)
+[Tabell 93-94-1](handlingar.tabeller/93-94-1.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättnin<br>g 2026 |
 | --- | --- | --- | --- | --- |
@@ -3968,6 +3961,16 @@ mångfald.
 | Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- flickor. | 73 % |  |  | Öka |
 | Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- pojkar. | 86 % |  |  | Öka |
 | Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 92 |  |  | Minska |
+| Avfall från kommunens verksamheter ska minska<br>med 40 % per heltidsanställd. Startvärde 100,<br>målvärde 2030 är 60. | 223 |  |  | Minska |
+| Fossiloberoende personbilar, andel av totalt antal<br>bilar i det geografiska området, (Kolada) | 24,1 % | 26,5 % |  | Öka |
+| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,79 | 1,85 |  | Minska |
+| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021 var<br>antalet 124 (KEMgroup PRO) | 115 | 151 |  | Minska |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  | Öka |
+| Andelen återbrukade möbler |  |  |  | Öka |
+| Total debiterad vattenförbrukning fördelat på antal<br>anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  | Minska |
+| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn. |  |  |  | Minska |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  | Minska |
 
 <!-- sida 94 -->
 
@@ -3986,26 +3989,16 @@ mellan näringsliv och utbildning.
 
 12
 
-[Tabell 94-1](handlingar.tabeller/94-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättnin<br>g 2026 |
-| --- | --- | --- | --- | --- |
-| Avfall från kommunens verksamheter ska minska<br>med 40 % per heltidsanställd. Startvärde 100,<br>målvärde 2030 är 60. | 223 |  |  | Minska |
-| Fossiloberoende personbilar, andel av totalt antal<br>bilar i det geografiska området, (Kolada) | 24,1 % | 26,5 % |  | Öka |
-| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,79 | 1,85 |  | Minska |
-| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021 var<br>antalet 124 (KEMgroup PRO) | 115 | 151 |  | Minska |
-| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
-| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  | Öka |
-| Andelen återbrukade möbler |  |  |  | Öka |
-| Total debiterad vattenförbrukning fördelat på antal<br>anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  | Minska |
-| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn. |  |  |  | Minska |
-| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  | Minska |
-
-[Tabell 94-2](handlingar.tabeller/94-2.csv)
+[Tabell 94-95-1](handlingar.tabeller/94-95-1.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättnin<br>g 2026 |
 | --- | --- | --- | --- | --- |
 | Insikt, SKRs servicemätning av kommunernas<br>myndighetsutövning för företag. Nöjd-kund-index<br>utifrån sammanvägt betygsindex 0-100, för hur<br>företag i kommunen bedömer Kungsbacka<br>kommuns myndighetsutövning, vilket är en viktig<br>del av företagsklimatet. | 67 | 64 |  | Öka |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde utifrån<br>skala 1-6, där företag bedömer företagsklimatet i<br>Kungsbacka kommun. | 3,4 | 3,8 |  | Öka |
+| Sysselsatt dagbefolkning, antal | 28 586 |  |  | Öka |
+| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 4,9 % |  |  | Öka |
+| Företagsamhet, andel av invånare 16–74 år | 19 % |  |  | Öka |
+| Antal nystartade företag per 1 000 invånare 16–64<br>år (etableringsfrekvens) | 10,3 |  |  | Öka |
 
 <!-- sida 95 -->
 
@@ -4033,16 +4026,6 @@ goda livet.
 13
 
 [Tabell 95-1](handlingar.tabeller/95-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättnin<br>g 2026 |
-| --- | --- | --- | --- | --- |
-| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde utifrån<br>skala 1-6, där företag bedömer företagsklimatet i<br>Kungsbacka kommun. | 3,4 | 3,8 |  | Öka |
-| Sysselsatt dagbefolkning, antal | 28 586 |  |  | Öka |
-| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 4,9 % |  |  | Öka |
-| Företagsamhet, andel av invånare 16–74 år | 19 % |  |  | Öka |
-| Antal nystartade företag per 1 000 invånare 16–64<br>år (etableringsfrekvens) | 10,3 |  |  | Öka |
-
-[Tabell 95-2](handlingar.tabeller/95-2.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättnin<br>g 2026 |
 | --- | --- | --- | --- | --- |
@@ -4356,13 +4339,17 @@ Investeringar (belopp i tkr)
 |  |  |  |  |
 | Summa | 289 546 | 296 319 | 302 958 |
 
-[Tabell 103-2](handlingar.tabeller/103-2.csv)
+[Tabell 103-104-2](handlingar.tabeller/103-104-2.csv)
 
 | Investeringar | Bokslut 2024 | Budget 2025 | Budget 2026 | Plan 2027 | Plan 2028-<br>2030 |
 | --- | --- | --- | --- | --- | --- |
 | Löpande investeringar | 6 019 | 6 700 | 3 900 | 6 500 | 19 500 |
 | Övriga investeringar | 344 | 18 152 | 5 000 | 23 000 | 20 000 |
 | Reinvesteringar | 4 655 | 4 200 | 7 000 | 4 400 | 13 300 |
+|  |  |  |  |  |  |
+| Lokaler, konst | 710 | 2 384 |  |  |  |
+| Ombudget från 2024,<br>Lokaler konst |  |  | 3 140 |  |  |
+| Summa | 11 728 | 31 436 | 19 040 | 33 900 | 52 800 |
 
 <!-- sida 104 -->
 
@@ -4385,15 +4372,6 @@ kommunens biblioteksbussen planeras att bytas ut. Övriga investeringar avser st
 större upprustningar av fritidsanläggningar.
 
 22
-
-[Tabell 104-1](handlingar.tabeller/104-1.csv)
-
-| Investeringar | Bokslut 2024 | Budget 2025 | Budget 2026 | Plan 2027 | Plan 2028-<br>2030 |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-| Lokaler, konst | 710 | 2 384 |  |  |  |
-| Ombudget från 2024,<br>Lokaler konst |  |  | 3 140 |  |  |
-| Summa | 11 728 | 31 436 | 19 040 | 33 900 | 52 800 |
 
 <!-- sida 105 -->
 
@@ -6315,7 +6293,7 @@ bedömer att projektet är genomförbart.
 
 Samrådshandling                                            14 (33)
 
-[Tabell 151-1](handlingar.tabeller/151-1.csv)
+[Tabell 151-152-1](handlingar.tabeller/151-152-1.csv)
 
 |  |  |
 | --- | --- |
@@ -6326,6 +6304,10 @@ Samrådshandling                                            14 (33)
 | Kommunen, VA-kollektivet | Drift och underhåll av allmänna VA-<br>anläggningar |
 | Exploatör och ägarna till fastigheterna Björkris<br>1:2 och Björkris 2:1 | Anslutningsavgifter VA, el, bredband,<br>fjärrvärme m m |
 | Kommunen, VA-kollektivet och Kungsbacka<br>bredbandsnät | Flytt av befintliga VA-ledningar och<br>bredbandsledningar |
+| Exploatör | Eventuell sanering av förorenad mark |
+| Exploatör | Anordnande av fördröjningsåtgärder för<br>dagvattenhantering inom kvartersmark |
+| Kommunen | Lantmäteriförrättning – avstyckning av<br>Skårby 3:4 för bildande av ny fastighet för<br>idrottsändamål |
+| Kommunen | Dödning av befintliga avtalsservitut 13-<br>IM2-96/34023.1 och 13-IM2-90/11485.1 |
 
 <!-- sida 152 -->
 
@@ -6368,14 +6350,6 @@ Planområdet placerar sig mitt emellan riksintressena europaväg E6 och Västkus
 cirka 1 km till respektive.
 
 Samrådshandling                                            15 (33)
-
-[Tabell 152-1](handlingar.tabeller/152-1.csv)
-
-| Exploatör | Eventuell sanering av förorenad mark |
-| --- | --- |
-| Exploatör | Anordnande av fördröjningsåtgärder för<br>dagvattenhantering inom kvartersmark |
-| Kommunen | Lantmäteriförrättning – avstyckning av<br>Skårby 3:4 för bildande av ny fastighet för<br>idrottsändamål |
-| Kommunen | Dödning av befintliga avtalsservitut 13-<br>IM2-96/34023.1 och 13-IM2-90/11485.1 |
 
 <!-- sida 153 -->
 
@@ -6942,7 +6916,7 @@ fastigheter och berörda rättigheter inom planområdet.
 
 Samrådshandling                                            27 (33)
 
-[Tabell 164-1](handlingar.tabeller/164-1.csv)
+[Tabell 164-165-1](handlingar.tabeller/164-165-1.csv)
 
 |  |  |
 | --- | --- |
@@ -6950,6 +6924,8 @@ Samrådshandling                                            27 (33)
 | Skårby 3:4 | Del av fastigheten som planläggs som<br>allmän plats ska regleras till Kungsbacka<br>Varla 2:198 (angränsande<br>allmänplatsfastighet). |
 | Skårby 3:4 | Ska upplåta mark för allmännyttiga<br>ledningar inom u-område genom bildande<br>av servitut eller ledningsrätt. |
 | Varla 2:198 | Erhåller mark från Kungsbacka Skårby 3:4<br>som avser allmän plats. |
+| Avtalsservitut 13-IM2-96/34023.1 och 13-<br>IM2-90/11485.1 | Ska dödas då de i samband med utbyggnad<br>av allmänna VA-ledningar och upprättande<br>av nya förbindelsepunkter blir onyttiga. |
+| Arrenderätt, jordbruksändamål sidoarrende | Ska sägas upp/upphöra att gälla inom<br>planområdet. |
 
 <!-- sida 165 -->
 
@@ -6988,12 +6964,6 @@ utomhusbanor och ytor för dagvattenhantering. Dessa funktioner tar hela planomr
 anspråk.
 
 Samrådshandling                                            28 (33)
-
-[Tabell 165-1](handlingar.tabeller/165-1.csv)
-
-| Avtalsservitut 13-IM2-96/34023.1 och 13-<br>IM2-90/11485.1 | Ska dödas då de i samband med utbyggnad<br>av allmänna VA-ledningar och upprättande<br>av nya förbindelsepunkter blir onyttiga. |
-| --- | --- |
-| Arrenderätt, jordbruksändamål sidoarrende | Ska sägas upp/upphöra att gälla inom<br>planområdet. |
 
 <!-- sida 166 -->
 
@@ -7508,22 +7478,14 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 
 Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 7 (13)
 
-[Tabell 178-1](handlingar.tabeller/178-1.csv)
+[Tabell 178-180-1](handlingar.tabeller/178-180-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 |  |  | Inköp<br>Avser avtal (kontrakt) som inte är kommunövergripande.<br>Avtal som avser två eller flera nämnder tecknas enligt<br>överenskommelse mellan berörda nämnder. |  | Inköpsprocessen enligt Riktlinjer för inköp.<br>Fc, Vc och Ec har rätt att hantera inköp inom sitt<br>budgetansvar.<br>Fc och Vc har delegering på köpnivå 5 (avser köp där<br>relationen till leverantören genom avtalsvillkor utöver<br>köplagen behövs regleras. Exempel på detta kan vara<br>ansvar, garantier, viten och avhjälpande vid fel och<br>köpnivå 6 (upphandling).<br>Ec har delegering upp till och med köpnivå 4.<br>Köpnivå 1: vara/tjänst finns för beställning i e-handeln,<br>avtal finns<br>Köpnivå 2: avtal finns i e-handeln<br>Köpnivå 3: direktupphandling utan krav på dokumentation,<br>understigande 100 000 kr, avtalsvillkor behövs inte<br>Köpnivå 4: direktupphandling utan krav på dokumentation,<br>100 000 – 700 000 kr, avtalsvillkor behövs inte<br>Köpnivå 5: direktupphandling utan krav på dokumentation,<br>100 000 – 700 000 kr, avtalsvillkor behövs<br>Köpnivå 6: Upphandling, 700 000 kr - , avtalsvillkor<br>behövs |
 | 2.2.1 a) | LOU, Policy för<br>inköp<br>Riktlinjer för<br>inköp | Upphandlingsdokument (UD) som följer planeringen<br>enligt inköpsprocessen. | Fc<br>Vc<br>Ec | Ec har delegering efter avstämning med Vc eller Fc |
 | 2.2.1 b) | LOU, Policy för<br>inköp | Tilldelning efter genomförd upphandling | Fc |  |
-
-<!-- sida 179 -->
-
-Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 8 (13)
-
-[Tabell 179-1](handlingar.tabeller/179-1.csv)
-
 |  | Riktlinjer för<br>inköp |  | Vc |  |
-| --- | --- | --- | --- | --- |
 | 2.2.1 c) | LOU, Policy för<br>inköp<br>Riktlinjer för<br>inköp | Avbryta upphandling. | Fc<br>Vc |  |
 | 2.2.1 d) | LOU, Policy för<br>inköp<br>Riktlinjer för<br>inköp | Ändring och tillägg av kontrakt. | Fc<br>Vc |  |
 | 2.2.1 e) | LOU, Policy för<br>inköp<br>Riktlinjer för<br>inköp | Uppsägning eller hävning av avtal | Fc<br>Vc |  |
@@ -7531,6 +7493,14 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 | 2.2.2 | Nämndens<br>beslut om<br>nämndbudget<br>och<br>Kungsbacka<br>styrmodell | Förvaltningsbudget med fördelning på verksamhetsnivå. | Fc |  |
 | 2.2.3 | Attestreglement<br>et | Utse beslutsattestanter och ersättare för nämndens<br>verksamheter. | Fc | Anmäls till nämnden en gång per år. |
 | 2.2.4 | Regler för<br>kommunens<br>likvidplanering,<br>krav- och<br>inkasso-<br>verksamhet och<br>kontant-<br>hantering | Beslut om att avskriva utestående fordringar upp till ett<br>basbelopp | Fc | I samråd med ansvarig chef. |
+| 2.2.5 |  | Försäljning av inventarier och utrustning | Fc | Delegering att avyttra egendom, överstigande ett värde<br>om 250 000 kr per tillfälle. |
+| 2.2.5 |  | Försäljning av inventarier och utrustning | Vc | Delegering att avyttra egendom, dock upp till ett<br>maximalt värde om 250 000 kr per tillfälle. |
+| 2.2.6 |  | Beslut om och rätt att underteckna hyresavtal upp till 500 000<br>kr per år, maximalt 3 år | Fc<br>Vc |  |
+| 2.2.7 |  | Beslut om och rätt att underteckna hyresavtal upp till 3 Mkr<br>per år, maximalt 5 år | Fc | Avser externa lokaler och anläggning där Service inte är<br>hyresvärd |
+
+<!-- sida 179 -->
+
+Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 8 (13)
 
 <!-- sida 180 -->
 
@@ -7538,15 +7508,7 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 
 Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 9 (13)
 
-[Tabell 180-1](handlingar.tabeller/180-1.csv)
-
-| 2.2.5 |  | Försäljning av inventarier och utrustning | Fc | Delegering att avyttra egendom, överstigande ett värde<br>om 250 000 kr per tillfälle. |
-| --- | --- | --- | --- | --- |
-| 2.2.5 |  | Försäljning av inventarier och utrustning | Vc | Delegering att avyttra egendom, dock upp till ett<br>maximalt värde om 250 000 kr per tillfälle. |
-| 2.2.6 |  | Beslut om och rätt att underteckna hyresavtal upp till 500 000<br>kr per år, maximalt 3 år | Fc<br>Vc |  |
-| 2.2.7 |  | Beslut om och rätt att underteckna hyresavtal upp till 3 Mkr<br>per år, maximalt 5 år | Fc | Avser externa lokaler och anläggning där Service inte är<br>hyresvärd |
-
-[Tabell 180-2](handlingar.tabeller/180-2.csv)
+[Tabell 180-181-1](handlingar.tabeller/180-181-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
@@ -7554,15 +7516,7 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 | 2.3.1 | LAS,<br>kollektivavtal,<br>lönestruktur<br>mm | Chefer direkt underställda förvaltningschefen<br>Tillsvidareanställning och tidsbegränsade<br>anställningar längre än sex månader. | Fc | Samråd med Au/presidiet under<br>rekryteringsprocessen och/eller innan anställning.<br>Tidsbegränsad anställning<br>upp till och med 6 månader är verkställighet.<br>Innefattar lönesättning enligt Kungsbackas<br>lönestruktur och samtliga övriga<br>anställningsvillkor. |
 | 2.3.2 | LAS,<br>kollektivavtal,<br>lönestruktur<br>mm | Verksamhetschefer, enhetschefer, direkt<br>underställd personal<br>Tillsvidareanställning och tidsbegränsade<br>anställningar längre än sex månader | Fc | Tidsbegränsad anställning upp till och med 6<br>månader är verkställighet.<br>Innefattar lönesättning enligt Kungsbackas<br>lönestruktur och samtliga övriga<br>anställningsvillkor. |
 | 2.3.3 | LAS,<br>kollektivavtal,<br>lönestruktur<br>mm | Övriga medarbetare<br>Tillsvidareanställning och tidsbegränsade<br>anställningar längre än sex månader. | Fc | Tidsbegränsad anställning upp till och med 6<br>månader är verkställighet.<br>Innefattar lönesättning enligt Kungsbackas<br>lönestruktur och samtliga övriga<br>anställningsvillkor. |
-
-<!-- sida 181 -->
-
-Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 10 (13)
-
-[Tabell 181-1](handlingar.tabeller/181-1.csv)
-
 |  |  |  |  | Delegeringen gäller för anställning av personal<br>inom respektive chefs ansvarsområde. |
-| --- | --- | --- | --- | --- |
 |  |  | Avveckla |  |  |
 | 2.3.4 | LAS § 7 | Uppsägning av personliga skäl. | Fc<br>Vc Kultur &<br>Demokrati<br>Vc Fritid &<br>Mötesplatser | I samråd med HR på förvaltningen och förhandlings-<br>chef |
 | 2.3.5 | LAS § 7 | Uppsägning på grund av arbetsbrist. | Fc | I samråd med HR på förvaltningen |
@@ -7572,6 +7526,10 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 | 2.3.8 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla. | Vc | I samråd med HR på förvaltningen i enlighet med<br>”Regler för bisyssla i Kungsbacka kommun” |
 | 2.3.9 | AB § 10<br>mom 1-3 | Avstängning | Vc | I samråd med HR på förvaltningen |
 | 2.3.10 | AB § 11 | Disciplinpåföljd - skriftlig varning. | Vc | I samråd med HR på förvaltningen |
+
+<!-- sida 181 -->
+
+Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 10 (13)
 
 <!-- sida 182 -->
 
@@ -7597,7 +7555,7 @@ Namnlista      över    delegater
 
 Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 12 (13)
 
-[Tabell 183-1](handlingar.tabeller/183-1.csv)
+[Tabell 183-184-1](handlingar.tabeller/183-184-1.csv)
 
 | Nämndens ordförande (N ordf) | Annika Hedman |
 | --- | --- |
@@ -7614,15 +7572,7 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 | Enhetschef (EC) Kulturskolan | Malin Lönegren Mikulic |
 | Enhetschef (EC) Kulturskolan | Malin Svarfvar |
 | Enhetschef (EC) Förening & Hållbar hälsa | Andreas Høgfeldt |
-
-<!-- sida 184 -->
-
-Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 13 (13)
-
-[Tabell 184-1](handlingar.tabeller/184-1.csv)
-
 | Enhetschef (EC) Senior i Kungsbacka | Elisabeth Lindberg |
-| --- | --- |
 | Enhetschef (EC) Ung i Kungsbacka | Anna Hjelm-Woll |
 | Specialist Fritid (SF) med enhetschefsbefogenhet i delegering 2.2 | Jessica Wibeck |
 | Kommunantikvarie | Sofia Larsson |
@@ -7630,6 +7580,10 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 | Registrator | Kerstin Ohlsson |
 | Registrator | Lena Ottosson |
 | Registrator | Marika Ånhed |
+
+<!-- sida 184 -->
+
+Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 13 (13)
 
 <!-- sida 185 -->
 
@@ -7729,12 +7683,19 @@ Förväntat resultat:
 
 Internal
 
-[Tabell 187-1](handlingar.tabeller/187-1.csv)
+[Tabell 187-188-1](handlingar.tabeller/187-188-1.csv)
 
 | Moment | Status | Aktivitet | Tidsplan | kommentar |
 | --- | --- | --- | --- | --- |
 | Behandlingsregistret är aktuellt och<br>komplett | Påbörjad | Genomgång och komplettering av<br>behandlingsregister | Q4 2025 | Arbetet har påbörjats. |
 | Identifiera lokala rutiner | Påbörjad | Kartlägg vilka processer som kräver<br>lokala rutiner | Q4 2025 | En första genomgång pågår.<br>Flera processer har identifierats<br>där behov finns. |
+| Samla befintliga tröskelanalyser och<br>konsekvensbedömningar | Påbörjad | Dokumentera vilka befintliga<br>analyser som finns. | Q4 2025 |  |
+| Sammanställa styrande dokument<br>(centralt och på KTF) | Påbörjad | Genomgång av intranät/SharePoint | Q4 2025 |  |
+| Kartlägga utbildningsmaterial | Påbörjad | Genomgång av tillgängliga<br>utbildningsresurser. |  | IMY-länkar är inaktuella.<br>SKR-material finns.<br>Central GDPR-utbildning via<br>InfoCaption tillgänglig. |
+| Säkerställa att personal nås av<br>utbildning | Ej påbörjad | Ta fram en plan för hur utbildning<br>implementeras | Q1 2026 | Plan för målgruppsanpassad<br>insats ska tas fram. |
+| Få en överblick över IT- system och<br>manuella processer | Påbörjad | Skicka ut e-post till kontaktpersoner<br>För att identifiera system där<br>personuppgifter behandlas | Q3-4 2025 | Utskicket är genomförts. Svar<br>Inväntas från flera<br>verksamheter. |
+|  | Påbörjad | Sammanställa lista över saknade<br>uppgifter i systemportalen. | Q4 2025 | Genomförs i sammanband med<br>genomgång av IT-system. |
+|  |  | Markera system som saknar<br>uppdaterat dokumentation eller<br>riskbedömning | Q4 2025 | Genomförs i sammanband med<br>genomgång av IT-system. |
 
 <!-- sida 188 -->
 
@@ -7746,23 +7707,16 @@ och
 
 Internal
 
-[Tabell 188-1](handlingar.tabeller/188-1.csv)
-
-| Samla befintliga tröskelanalyser och<br>konsekvensbedömningar | Påbörjad | Dokumentera vilka befintliga<br>analyser som finns. | Q4 2025 |  |
-| --- | --- | --- | --- | --- |
-| Sammanställa styrande dokument<br>(centralt och på KTF) | Påbörjad | Genomgång av intranät/SharePoint | Q4 2025 |  |
-| Kartlägga utbildningsmaterial | Påbörjad | Genomgång av tillgängliga<br>utbildningsresurser. |  | IMY-länkar är inaktuella.<br>SKR-material finns.<br>Central GDPR-utbildning via<br>InfoCaption tillgänglig. |
-| Säkerställa att personal nås av<br>utbildning | Ej påbörjad | Ta fram en plan för hur utbildning<br>implementeras | Q1 2026 | Plan för målgruppsanpassad<br>insats ska tas fram. |
-| Få en överblick över IT- system och<br>manuella processer | Påbörjad | Skicka ut e-post till kontaktpersoner<br>För att identifiera system där<br>personuppgifter behandlas | Q3-4 2025 | Utskicket är genomförts. Svar<br>Inväntas från flera<br>verksamheter. |
-|  | Påbörjad | Sammanställa lista över saknade<br>uppgifter i systemportalen. | Q4 2025 | Genomförs i sammanband med<br>genomgång av IT-system. |
-|  |  | Markera system som saknar<br>uppdaterat dokumentation eller<br>riskbedömning | Q4 2025 | Genomförs i sammanband med<br>genomgång av IT-system. |
-
-[Tabell 188-2](handlingar.tabeller/188-2.csv)
+[Tabell 188-189-1](handlingar.tabeller/188-189-1.csv)
 
 | Moment | Status | Aktivitet | Tidsplan | kommentar |
 | --- | --- | --- | --- | --- |
 | Tydliggöra ansvar och roller i<br>dataskyddsarbetet | Ej påbörjad | Analysera nulägesbilden och<br>identifiera områden som behöver<br>ansvarsfördelning | Q1 2026 | Utgår från tidigare kartläggning<br>pågående arbete |
 |  | Ej påbörjad | Lista aktiviteter som alltid kräver<br>tydligt ansvar (t.ex.<br>riskbedömningar, utbildning) | Q1 2026 | Ska användas som grund för<br>ansvarsmatrisen. |
+|  | Ej påbörjad | Identifiera om ansvar redan är<br>tilldelat eller saknas | Q1 2026 | Genomförs i samverkan med<br>enhetschefer. |
+|  | Ej påbörjad | Skapa en översikt över<br>ansvarsfördelningen enligt t.ex.<br>RACI-modellen | Q2 2026 | Innehåller vem som utför,<br>beslutar, ska rådfrågas och<br>informeras |
+|  | Ej påbörjad | Förankra och besluta<br>ansvarsfördelning i ledningsgrupp | Q2 2026 | Beslut dokumenteras i styrdoku<br>eller protokoll |
+|  | Ej påbörjad | Kommunicera ansvarsfördelningen<br>till berörda delar av organisationen | Q2 2026 | Exempelvis via intranät, nyhetsb<br>eller chefsforum |
 
 <!-- sida 189 -->
 
@@ -7779,14 +7733,6 @@ Förankra i ledning och styrning
 Internal
 
 [Tabell 189-1](handlingar.tabeller/189-1.csv)
-
-|  | Ej påbörjad | Identifiera om ansvar redan är<br>tilldelat eller saknas | Q1 2026 | Genomförs i samverkan med<br>enhetschefer. |
-| --- | --- | --- | --- | --- |
-|  | Ej påbörjad | Skapa en översikt över<br>ansvarsfördelningen enligt t.ex.<br>RACI-modellen | Q2 2026 | Innehåller vem som utför,<br>beslutar, ska rådfrågas och<br>informeras |
-|  | Ej påbörjad | Förankra och besluta<br>ansvarsfördelning i ledningsgrupp | Q2 2026 | Beslut dokumenteras i styrdoku<br>eller protokoll |
-|  | Ej påbörjad | Kommunicera ansvarsfördelningen<br>till berörda delar av organisationen | Q2 2026 | Exempelvis via intranät, nyhetsb<br>eller chefsforum |
-
-[Tabell 189-2](handlingar.tabeller/189-2.csv)
 
 | Moment | Status | Aktivitet | Tidsplan | Kommentar |
 | --- | --- | --- | --- | --- |
@@ -7818,7 +7764,7 @@ Internal
 | Dokumentera besluten | Ej påbörjad | Sammanfatta beslut i protokoll eller<br>styrdokument | Q1-Q2 202 | 6 Lägg till i gemensam mapp<br>eller Ciceron |
 | Kommunicera ut i organisationen | Ej påbörjad | Sprid information om besluten till<br>berörda chefer/medarbetare | Q2 2026 | Använd intranät, nyhetsbrev,<br>chefsforum |
 
-[Tabell 190-2](handlingar.tabeller/190-2.csv)
+[Tabell 190-191-2](handlingar.tabeller/190-191-2.csv)
 
 | Moment | Status | Aktivitet | Tidsplan | Kommentar |
 | --- | --- | --- | --- | --- |
@@ -7826,6 +7772,14 @@ Internal
 | Placera aktiviteter i årshjul | Ej påbörjad | Ta fram preliminärt årshjul med<br>kvartals-, halvårs- och årsaktiviteter | Q4 2025 | Ska inkludera t.ex.<br>egenkontroller, utbildningar,<br>registeruppdatering |
 | Definiera ansvar | Ej påbörjad | Ange vem som ansvarar för varje<br>aktivitet i årshjulet | Q1 2026 | Kopplas till ansvarsfördelning<br>(tidigare matris) |
 | Dokumentera rutiner | Ej påbörjad | Skriv kort instruktion för varje<br>aktivitet: vad, hur, vilket underlag<br>och hur det dokumenteras |  | T.ex. mallar för egenkontroll<br>eller informationsplikt |
+|  | Slutförd | Rutin för hantering av<br>personuppgiftsincidenter – kultur<br>och fritid | Q3 2025 |  |
+| Plan för uppföljning och påminnelser | Ej påbörjad | Ta fram schema för hur uppföljning<br>och påminnelser ska ske |  | Använd kalenderpåminnelser<br>eller digitala verktyg |
+| Ta fram dokumentation | Slutförd | Integritetsstärkande medgivande för<br>KTF | Q3 2025 | Utgår från masterdokumentet<br>”Integritetsstärkande<br>medgivande vid publicering av<br>bilder, filmer och<br>ljudupptagningar som utgör<br>personuppgifter” |
+|  | Påbörjad | Rutin för registerutdrag<br>som listar system och kontaktperson | Q4 2025 | Inväntar underlag |
+| Konsekvensbedömningar | Ej påbörjad<br>Prioritera! | Friskvårds- och aktivitetsgruppen<br>Sociala medier | Q4 2025 | Finns kommunövergripande |
+|  | Påbörjad | LUPP | Q4 2025 | Revidering av tidigare påbörjad<br>men ej slutförd<br>konsekvensbedömning |
+| Ledningssystem | Ej påbörjad | Undersök existens och användning |  | Ställt frågan till Lisa.<br>Det finns men används inte i så<br>stor utsträckning |
+| Årlig översyn av årshjul | Ej påbörjad | Säkerställ uppdatering<br>inför nytt verksamhetsår |  | Ska spegla förändringar och<br>nya krav |
 
 <!-- sida 191 -->
 
@@ -7837,18 +7791,6 @@ behandlingarna startar.
 Moment                    Status    Aktivitet                Tidsplan Kommentar
 
 Internal
-
-[Tabell 191-1](handlingar.tabeller/191-1.csv)
-
-|  | Slutförd | Rutin för hantering av<br>personuppgiftsincidenter – kultur<br>och fritid | Q3 2025 |  |
-| --- | --- | --- | --- | --- |
-| Plan för uppföljning och påminnelser | Ej påbörjad | Ta fram schema för hur uppföljning<br>och påminnelser ska ske |  | Använd kalenderpåminnelser<br>eller digitala verktyg |
-| Ta fram dokumentation | Slutförd | Integritetsstärkande medgivande för<br>KTF | Q3 2025 | Utgår från masterdokumentet<br>”Integritetsstärkande<br>medgivande vid publicering av<br>bilder, filmer och<br>ljudupptagningar som utgör<br>personuppgifter” |
-|  | Påbörjad | Rutin för registerutdrag<br>som listar system och kontaktperson | Q4 2025 | Inväntar underlag |
-| Konsekvensbedömningar | Ej påbörjad<br>Prioritera! | Friskvårds- och aktivitetsgruppen<br>Sociala medier | Q4 2025 | Finns kommunövergripande |
-|  | Påbörjad | LUPP | Q4 2025 | Revidering av tidigare påbörjad<br>men ej slutförd<br>konsekvensbedömning |
-| Ledningssystem | Ej påbörjad | Undersök existens och användning |  | Ställt frågan till Lisa.<br>Det finns men används inte i så<br>stor utsträckning |
-| Årlig översyn av årshjul | Ej påbörjad | Säkerställ uppdatering<br>inför nytt verksamhetsår |  | Ska spegla förändringar och<br>nya krav |
 
 <!-- sida 192 -->
 
@@ -7868,7 +7810,7 @@ Internal
 |  | Ej påbörjad | Förankra kriterierna med ledning | Q1 2026 | Behöver diskuteras innan<br>beslut |
 | Dokumentera och följa upp | Ej påbörjad | Dokumentera genomförda analyser<br>och skapa rutin för uppföljning | Q1 2026 | DPIA ska kunna uppdateras vid<br>ändring i behandling |
 
-[Tabell 192-2](handlingar.tabeller/192-2.csv)
+[Tabell 192-193-2](handlingar.tabeller/192-193-2.csv)
 
 | Moment | Status | Aktivitet | Tidsplan | Kommentar |
 | --- | --- | --- | --- | --- |
@@ -7876,18 +7818,14 @@ Internal
 |  | Ej påbörjad | Definiera kunskapsnivå per<br>målgrupp | Q4 2025 | Grund, fördjupad, teknisk,<br>strategisk |
 | Ta fram utbildningsinsatser | Ej påbörjad | Utforma anpassade<br>utbildningsupplägg för respektive<br>målgrupp | Q1 2026 | E-learning, workshops,<br>seminarier, case |
 |  | Ej påbörjad | Ta fram introduktion om dataskydd | Q1 2026 | Kopplas till onboarding |
+|  |  | för nyanställda |  |  |
+| Genomför utbildningar | Ej påbörjad | Genomföra utbildning i olika format | Q2-3 2026 | Prioritera chefer och<br>projektledare först |
+| Uppföljning och repetition | Ej påbörjad | Planera in återkommande utbildning<br>i årshjul | Q1 2026 | Lägg till i årshjul med<br>ansvarsfördelning |
+|  | Ej påbörjad | Utvärdera effekten av<br>utbildningsinsatserna | Q4 2026 | Enkät eller feedback efter<br>genomförda pass |
 
 <!-- sida 193 -->
 
 Internal
-
-[Tabell 193-1](handlingar.tabeller/193-1.csv)
-
-|  |  | för nyanställda |  |  |
-| --- | --- | --- | --- | --- |
-| Genomför utbildningar | Ej påbörjad | Genomföra utbildning i olika format | Q2-3 2026 | Prioritera chefer och<br>projektledare först |
-| Uppföljning och repetition | Ej påbörjad | Planera in återkommande utbildning<br>i årshjul | Q1 2026 | Lägg till i årshjul med<br>ansvarsfördelning |
-|  | Ej påbörjad | Utvärdera effekten av<br>utbildningsinsatserna | Q4 2026 | Enkät eller feedback efter<br>genomförda pass |
 
 <!-- sida 194 -->
 
@@ -7997,7 +7935,7 @@ KUNGSBACKA  KOMMUN
 
 Diarienr. Förening    Bidragstyp             Utbet.dat Belopp
 
-[Tabell 198-1](handlingar.tabeller/198-1.csv)
+[Tabell 198-199-1](handlingar.tabeller/198-199-1.csv)
 
 | 15982 | Annebergs IF | Kultur &Fritid/ Lovaktivitetsstöd | 2025-09-11 | 2 000,00 |
 | --- | --- | --- | --- | --- |
@@ -8024,13 +7962,7 @@ Diarienr. Förening    Bidragstyp             Utbet.dat Belopp
 | 15924 | Löftadalens<br>Dragkampsklubb | Barn och ungdomsföreningar/ Lokalt<br>aktivitetsstöd 2 | 2025-09-23 | 4 575,00 |
 | 15993 | Onsala Pirates BBK | Kultur &Fritid/ Föreningsuppdrag | 2025-10-09 | 7 000,00 |
 | 15994 | Onsala Pirates BBK | Kultur &Fritid/ Föreningsuppdrag | 2025-10-09 | 7 000,00 |
-
-<!-- sida 199 -->
-
-[Tabell 199-1](handlingar.tabeller/199-1.csv)
-
 | 15966 | Sjögärde Golfklubb | Barn och ungdomsföreningar/ Lokalt<br>aktivitetsstöd 2 | 2025-09-23 | 3 645,00 |
-| --- | --- | --- | --- | --- |
 | 15955 | Stättareds 4H Klubb | Barn och ungdomsföreningar/ Lokalt<br>aktivitetsstöd 2 | 2025-10-02 | 8 085,00 |
 | 15986 | Särö Kullavik IF | Kultur &Fritid/ Föreningsuppdrag | 2025-09-23 | 2 000,00 |
 | 15962 | Särökometernas<br>Handbollklubb | Barn och ungdomsföreningar/ Lokalt<br>aktivitetsstöd 2 | 2025-10-02 | 42 502,00 |
@@ -8038,6 +7970,8 @@ Diarienr. Förening    Bidragstyp             Utbet.dat Belopp
 | 15978 | Varla IBK | Kultur &Fritid/ Föreningsuppdrag | 2025-09-11 | 4 000,00 |
 | 15977 | Åsa IF | Kultur &Fritid/ Föreningsuppdrag | 2025-09-11 | 4 000,00 |
 | 15960 | Ölmanäs Segelsällskap | Barn och ungdomsföreningar/ Lokalt<br>aktivitetsstöd 2 | 2025-09-23 | 862 |
+
+<!-- sida 199 -->
 
 <!-- sida 200 -->
 

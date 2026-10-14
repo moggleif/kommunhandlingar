@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.f98f1841993730820e25814/17576676650
 sha256: 8054852128d3c25c9e8e67ca5ce3cd329c184b0b6c8ffe70ad7b66143a1a5706
 bytes: 302113
 sidor: 29
-hamtad: 2026-10-08T08:14:30+00:00
-konverterad: 2026-10-08T08:14:37+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T11:07:59+00:00
+konverterad: 2026-10-14T11:08:05+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -536,7 +536,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 12-1](protokoll.tabeller/12-1.csv)
+[Tabell 12-13-1](protokoll.tabeller/12-13-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -547,6 +547,10 @@ Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 | Astrid Börjesson (S) |  | X |  |
 | Eva Tingström (S) |  | X |  |
 | Per Hoel (SD) |  |  | X |
+| Göran Ottosson (SD) |  |  | X |
+| Bengt Alderin (C) | X |  |  |
+| Ulrika Högstrand (KD) | X |  |  |
+| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 13 -->
 
@@ -561,14 +565,6 @@ Förslagsställaren
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 13-1](protokoll.tabeller/13-1.csv)
-
-| Göran Ottosson (SD) |  |  | X |
-| --- | --- | --- | --- |
-| Bengt Alderin (C) | X |  |  |
-| Ulrika Högstrand (KD) | X |  |  |
-| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 14 -->
 

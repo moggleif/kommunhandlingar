@@ -1,0 +1,93 @@
+Verksamhetstyp:,Infrastruktur och samhällsskydd,,,,
+Verksamhetsområde:,Hantera ärenden enligt miljöbalken,,,,
+Processgrupp:,Hantera klagomål i kärnverksamheten hos Miljö & Hälsoskydd,,,,
+Process:,Klagomål inomhusmiljö,,,,
+Processnummer:,7.5.7.04,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Klagomål kommer in,Klagomål,EDP Vision,Digitalt,10 år,
+,Karta,EDP Vision,Digitalt,10 år,
+,Störningsdagbok,EDP Vision,Digitalt,10 år,
+Granska och utreda,Korrespondens,EDP Vision,Digitalt,10 år,"Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Tjänsteanteckning,EDP Vision,Digitalt,10 år,"Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+Utföra platsbesök,Fotografi,EDP Vision,Digitalt,10 år,
+,Egenkontroll,EDP Vision,Digitalt,10 år,
+,Radon,EDP Vision,Digitalt,10 år,
+,Broschyr,EDP Vision,Digitalt,10 år,
+,Avfall,EDP Vision,Digitalt,10 år,
+,Buller,EDP Vision,Digitalt,10 år,
+,Enskild brunn,EDP Vision,Digitalt,10 år,
+,Fukt och mögel,EDP Vision,Digitalt,10 år,
+,Inomhustemperatur,EDP Vision,Digitalt,10 år,
+,Klagomålshantering,EDP Vision,Digitalt,10 år,
+,Legionella,EDP Vision,Digitalt,10 år,
+,Ventilation,EDP Vision,Digitalt,10 år,
+,Skadedjur,EDP Vision,Digitalt,10 år,
+,Smitta/Smittskydd,EDP Vision,Digitalt,10 år,"Smitta eller annan olägenhet för människors
+hälsa."
+"Redovisning begärs in från
+verksamhetsutövaren och
+redovisning kommer in",Begäran redovisning,EDP Vision,Digitalt,10 år,
+,Åtgärdsförslag,EDP Vision,Digitalt,10 år,
+,Redovisning åtgärder,EDP Vision,Digitalt,Bevaras,
+Skriva rapport och tidkort,Rapport,EDP Vision,Digitalt,Bevaras,
+,Inspektionsanteckning,EDP Vision,Digitalt,Bevaras,
+,Fotografi,EDP Vision,Digitalt,Bevaras,
+,Tidkort,EDP Vision,Digitalt,10 år,
+Kommunicering inför beslut,"Kommunicering enligt
+förvaltningslagen",EDP Vision,Digitalt,Bevaras,
+,"Svar på
+kommunicering enligt
+förvaltningslagen",EDP Vision,Digitalt,Bevaras,
+Besluta om föreläggande,Tjänsteskrivelse,EDP Vision,Digitalt,Bevaras,
+,Beslut,EDP Vision,Digitalt,Bevaras,
+,Tidkort,EDP Vision,Digitalt,10 år,
+Anmäla enligt miljöbalken,Åtalsanmälan,EDP Vision,Digitalt,Bevaras,
+"Delge beslut och signerat
+delgivningskvitto kommer
+in",Delgivningskvitto,EDP Vision,Digitalt,10 år,
+,"Påminnelse signering
+delgivningskvitto",EDP Vision,Digitalt,10 år,
+"Kommunikation med
+inskrivningsmyndigheten","Inskrivning till
+fastighetsregistret",EDP Vision,Digitalt,Bevaras,
+,"Radering av anteckning
+hos Inskrivnings-
+myndigheten",EDP Vision,Digitalt,Bevaras,
+Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera
+överklagande och omprövning."
+Verksamhetsområde:,Hantera ärenden enligt miljöbalken,,,,
+Processgrupp:,Hantera klagomål i kärnverksamheten hos Miljö & Hälsoskydd,,,,
+Process:,Klagomål störning av djur,,,,
+Processnummer:,7.5.7.05,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Klagomål inkommer,Klagomål,EDP Vision,Digitalt,5 år,
+,Karta,EDP Vision,Digitalt,5 år,
+,Störningsdagbok,EDP Vision,Digitalt,5 år,
+Utreda,Korrespondens,EDP Vision,Digitalt,5 år,"Korrespondens av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+,Tjänsteanteckning,EDP Vision,Digitalt,5 år,"Tjänsteanteckning av ringa eller tillfällig
+betydelse rensas när ärendet avslutas."
+Redovisning kommer in,Åtgärdsförslag,EDP Vision,Digitalt,5 år,
+,Redovisning av åtgärder,EDP Vision,Digitalt,5 år,
+Utföra platsbesök,Rapport,EDP Vision,Digitalt,5 år,
+,Inspektionsanteckning,EDP Vision,Digitalt,5 år,
+,Fotografi,EDP Vision,Digitalt,5 år,
+"Skicka underrättelse inför
+beslut och svar kommer in
+från sökanden","Kommunicera enligt
+förvaltningslagen",EDP Vision,Digitalt,5 år,
+,"Svar på kommunicering
+enligt förvaltningslagen",EDP Vision,Digitalt,5 år,
+"Besluta samt skicka ut
+tidkort",Tjänsteskrivelse,EDP Vision,Digitalt,Bevaras,
+,Beslut,EDP Vision,Digitalt,Bevaras,
+,Tidkort,EDP Vision,Digitalt,5 år,
+"Delge beslut och signerat
+delgivningskvitto kommer
+in",Delgivningskvitto,EDP Vision,Digitalt,5 år,
+,"Påminnelse signering
+delgivningskvitto",EDP Vision,Digitalt,5 år,
+Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera
+överklagande och omprövning."

@@ -1,11 +1,5 @@
-"Namn
-Riskobservation","2021
-0","2022
-4","2023
-5"
+Namn,2021,2022,2023
+Riskobservation,0,4,5
 Tillbud,5,6,12
-"Olycksfall
-Total","5
-10","2
-12","4
-21"
+Olycksfall,5,2,4
+Total,10,12,21

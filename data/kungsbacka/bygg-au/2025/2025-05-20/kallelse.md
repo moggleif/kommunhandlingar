@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5c2b30eb196b02d62da8d79b/1747221356
 sha256: b2bcf5e55274d5d2251a7dcfd3860e6c36215c35ea49cb443f4328f9557d8dbc
 bytes: 112219
 sidor: 5
-hamtad: 2026-10-08T00:17:49+00:00
-konverterad: 2026-10-08T00:17:55+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T08:14:14+00:00
+konverterad: 2026-10-14T08:14:20+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -55,12 +55,18 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag | Tid |
 | --- | --- | --- | --- | --- |
 | 4. | GUNTOFTA 2:17 -<br>Förhandsbesked för nybyggnad<br>av ett enbostadshus | BN-2025-<br>000195 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>positivt förhandsbesked för ett<br>enbostadshus på fastigheten Guntofta 2:17.<br>Till grund för beslutet ligger<br>lokaliseringsstudie i enlighet med<br>kommunens översiktsplan.<br>Avgiften för beslutet är 25 734. Avgiften<br>är reducerad med 10 290 (40 %) på grund<br>av att beslutet har tagit mer än 11 veckor.<br>Kostnaden blir därför 15 440 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige2023-12-14 § 196. | 5<br>min |
 | 5. | ISERÅS 2:6 - Förhandsbesked<br>för nybyggnad av två<br>enbostadshus med garage | BN-2025-<br>002442 | Förslag till beslut i byggnadsnämnden<br>Byggnadsnämnden lämnar positivt<br>förhandsbesked för nybyggnad av två<br>enbostadshus med garage på fastigheten.<br>Beskedet är bindande i två år från det att<br>beslutet vunnit laga kraft.<br>Byggnadsnämnden godkänner<br>lokaliseringsstudien.<br>Avgiften för beslutet är 24 605 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196.<br>Villkor<br>Huvudbyggnaderna ska ha sadeltak.<br>Huvudbyggnadernas långsidor ska vara<br>mot Kyrkebrovägen. | 5<br>min |
+| 6. | KYVIK 5:168 -<br>Förhandsbesked för nybyggnad<br>av enbostadshus | BN-2025-<br>000285 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för nybyggnad av<br>ett enbostadshus på fastigheten.<br>Avgiften för beslutet är 25 733,50 kronor.<br>Avgiften för förhandsbeskedet är<br>reducerad med<br>20 586,80 kronor på grund av att beslutet<br>har tagit mer än 10 veckor. Avgiften är<br>fastställd i taxan för byggnadsnämndens<br>verksamhet, beslutad i kommunfullmäktige<br>2023-12-14 § 196. | 5<br>min |
+| 7. | LUNNA 11:3 - Förhandsbesked<br>för nybyggnad av två<br>enbostadshus | BN-2025-<br>000425 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för nybyggnad av<br>två enbostadshus.<br>Avgiften för beslutet är 20 865 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
+| 8. | SKÅRBY 6:12 -<br>Förhandsbesked för nybyggnad<br>av två enbostadshus | BN-2025-<br>000296 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för två<br>enbostadshus på fastigheten.<br>Avgiften för beslutet är 24 605 kronor<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
+| 9. | TOLVSBO 1:12 -<br>Förhandsbesked för nybyggnad<br>av enbostadshus | BN-2025-<br>000955 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för ett<br>enbostadshus på fastigheten.<br>Avgiften för beslutet är 15 997 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
+| 10. | VALLDA-LUNDEN 4:48 -<br>Förhandsbesked för nybyggnad<br>av ett enbostadshus | BN-2025-<br>000476 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för ett<br>enbostadshus på fastigheten Vallda-<br>Lunden 4:48.<br>Avgiften för beslutet är 15 301 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
+| 11. | VEAKÄRR 1:2 -<br>Förhandsbesked för nybyggnad<br>av 3 enbostadshus | BN-2025-<br>000602 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för 3<br>enbostadshus på fastigheten Veakärr 1:2<br>Avgiften för beslutet är 25 734 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
 
 <!-- sida 3 -->
 
@@ -68,27 +74,11 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 6. | KYVIK 5:168 -<br>Förhandsbesked för nybyggnad<br>av enbostadshus | BN-2025-<br>000285 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för nybyggnad av<br>ett enbostadshus på fastigheten.<br>Avgiften för beslutet är 25 733,50 kronor.<br>Avgiften för förhandsbeskedet är<br>reducerad med<br>20 586,80 kronor på grund av att beslutet<br>har tagit mer än 10 veckor. Avgiften är<br>fastställd i taxan för byggnadsnämndens<br>verksamhet, beslutad i kommunfullmäktige<br>2023-12-14 § 196. | 5<br>min |
-| 7. | LUNNA 11:3 - Förhandsbesked<br>för nybyggnad av två<br>enbostadshus | BN-2025-<br>000425 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för nybyggnad av<br>två enbostadshus.<br>Avgiften för beslutet är 20 865 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
-| 8. | SKÅRBY 6:12 -<br>Förhandsbesked för nybyggnad<br>av två enbostadshus | BN-2025-<br>000296 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för två<br>enbostadshus på fastigheten.<br>Avgiften för beslutet är 24 605 kronor<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
-| 9. | TOLVSBO 1:12 -<br>Förhandsbesked för nybyggnad<br>av enbostadshus | BN-2025-<br>000955 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för ett<br>enbostadshus på fastigheten.<br>Avgiften för beslutet är 15 997 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 10. | VALLDA-LUNDEN 4:48 -<br>Förhandsbesked för nybyggnad<br>av ett enbostadshus | BN-2025-<br>000476 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för ett<br>enbostadshus på fastigheten Vallda-<br>Lunden 4:48.<br>Avgiften för beslutet är 15 301 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
-| 11. | VEAKÄRR 1:2 -<br>Förhandsbesked för nybyggnad<br>av 3 enbostadshus | BN-2025-<br>000602 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för 3<br>enbostadshus på fastigheten Veakärr 1:2<br>Avgiften för beslutet är 25 734 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5<br>min |
 
 <!-- sida 5 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6c78981e191785767f21cd9/17244032997
 sha256: 03069517c53a5d6a6e2f2ba273be89abd32043d5fac5b8fd0ed527360e99d0bd
 bytes: 189778
 sidor: 4
-hamtad: 2026-10-08T00:16:30+00:00
-konverterad: 2026-10-08T00:16:36+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T08:12:55+00:00
+konverterad: 2026-10-14T08:13:01+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -56,7 +56,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  |  |  | Byggnadsnämnden ger i uppdrag åt<br>förvaltningen att ta fram en ansökan för<br>kommunalt lantmäteri. |  |
 | --- | --- | --- | --- | --- |
@@ -64,22 +64,25 @@ KUNGSBACKA  KOMMUN
 | 6. | BUERA 7:19 -<br>Förhandsbesked för<br>nybyggnad av ett<br>enbostadshus | BN-2024-<br>000753 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativt förhandsbesked för ett<br>enbostadshus på fastigheten Buera 7:19.<br>Avgiften för beslutet är 24 605 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
 | 7. | TORKELSTORP 7:7 -<br>Förhandsbesked för<br>nybyggnad av ett<br>enbostadshus | BN-2024-<br>001429 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott lämnar<br>negativ förhandsbesked för nybyggnad av<br>ett enbostadshus på fastigheten.<br>Avgiften för beslutet är 21 280 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
 | 8. | DANNEBACKA 2:18 -<br>Bygglov för uppsättning av<br>lysanordningar/ | BN-2023-<br>002172 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott beviljar<br>bygglov för uppsättning av<br>lysanordningar/belysningsmaster. | 5 min |
+|  | belysningsmaster |  | Lovet upphör att gälla om åtgärden inte har<br>påbörjats inom två år och avslutats inom<br>fem år från det att beslutet vann laga kraft. |  |
+| 9. | KARSEGÅRDEN 1:169 -<br>Bygglov för ändrad<br>användning av<br>komplementbyggnad | BN-2021-<br>002203 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för ändrad<br>användning av komplementbyggnad. | 5 min |
+| 10. | KUNGSBACKA 6:54 -<br>Bygglov för uppförande av<br>plank | BN-2024-<br>001117 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för uppförande av<br>plank.<br>Avgiften för beslutet är 6 650 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
+| 11. | VALLDA-BOLG 2:4 -<br>Bygglov för tillbyggnad av<br>lagerbyggnad samt rivning | BN-2024-<br>001260 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott beviljar<br>bygglov för tillbyggnad av lagerbyggnad.<br>Lovet upphör att gälla om åtgärden inte har<br>påbörjats inom två år och avslutats inom<br>fem år från det att beslutet vann laga kraft.<br>Golvhöjden för tillbyggnaden fastställs till<br>+14,7 som befintlig byggnad.<br>Kontrollansvarig för åtgärden är<br>Avgiften för beslutet är 58 520 kronor. Av<br>detta kostar bygglovet 31 920 kronor och<br>byggskedet 26 600 kronor. Observera att<br>eventuell utstakning och lägeskontroll inte<br>är med i ovanstående belopp.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
+| 12. | Byggsanktionsavgift för att<br>ha påbörjat åtgärd i form av<br>tillbyggnad innan startbesked | BN-2022-<br>001665 | Förslag till beslut i byggnadsnämnden | 5 min |
+| 13. | Rättelseföreläggs med<br>löpande vite att avröja<br>tillbyggnad | BN-2022-<br>002143 | Förslag till beslut i byggnadsnämnden | 5 min |
+| 14. | Rättelseföreläggs att avröja<br>tillbyggnad | BN-2022-<br>002143 | Förslag till beslut i byggnadsnämnden | 5 min |
+| 15. | Byggsanktionsavgift för att<br>ha påbörjat åtgärd innan<br>startbesked | BN-2022-<br>002143 | Förslag till beslut i byggnadsnämnden | 5 min |
+| 16. | Byggsanktionsavgift för att<br>ha påbörjat åtgärd innan<br>startbesked | BN-2022-<br>002143 | Förslag till beslut i byggnadsnämnden | 5 min |
+| 17. | Rättelseföreläggs med vite<br>att avröja enbostadshuset på<br>fastigheten | BN-2016-<br>000534 | Förslag till beslut i byggnadsnämnden | 5 min |
+| 18. | Åtgärdsföreläggs med vite<br>att klippa växtlighet | BN-2024-<br>000749 | Förslag till beslut i byggnadsnämnden | 5 min |
+| 19. | Åtgärdsföreläggs med vite<br>att klippa växtlighet | BN-2024-<br>000749 | Förslag till beslut i byggnadsnämnden | 5 min |
+| 20. | Åtgärdsföreläggs med vite<br>att klippa växtlighet | BN-2024-<br>000749 | Förslag till beslut i byggnadsnämnden | 5 min |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | belysningsmaster |  | Lovet upphör att gälla om åtgärden inte har<br>påbörjats inom två år och avslutats inom<br>fem år från det att beslutet vann laga kraft. |  |
-| --- | --- | --- | --- | --- |
-| 9. | KARSEGÅRDEN 1:169 -<br>Bygglov för ändrad<br>användning av<br>komplementbyggnad | BN-2021-<br>002203 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för ändrad<br>användning av komplementbyggnad. | 5 min |
-| 10. | KUNGSBACKA 6:54 -<br>Bygglov för uppförande av<br>plank | BN-2024-<br>001117 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott avslår<br>ansökan om bygglov för uppförande av<br>plank.<br>Avgiften för beslutet är 6 650 kronor.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
-| 11. | VALLDA-BOLG 2:4 -<br>Bygglov för tillbyggnad av<br>lagerbyggnad samt rivning | BN-2024-<br>001260 | Förslag till beslut<br>Byggnadsnämndens arbetsutskott beviljar<br>bygglov för tillbyggnad av lagerbyggnad.<br>Lovet upphör att gälla om åtgärden inte har<br>påbörjats inom två år och avslutats inom<br>fem år från det att beslutet vann laga kraft.<br>Golvhöjden för tillbyggnaden fastställs till<br>+14,7 som befintlig byggnad.<br>Kontrollansvarig för åtgärden är<br>Avgiften för beslutet är 58 520 kronor. Av<br>detta kostar bygglovet 31 920 kronor och<br>byggskedet 26 600 kronor. Observera att<br>eventuell utstakning och lägeskontroll inte<br>är med i ovanstående belopp.<br>Avgiften är fastställd i taxan för<br>byggnadsnämndens verksamhet, beslutad i<br>kommunfullmäktige 2023-12-14 § 196. | 5 min |
-| 12. | Byggsanktionsavgift för att<br>ha påbörjat åtgärd i form av<br>tillbyggnad innan startbesked | BN-2022-<br>001665 | Förslag till beslut i byggnadsnämnden | 5 min |
-| 13. | Rättelseföreläggs med<br>löpande vite att avröja<br>tillbyggnad | BN-2022-<br>002143 | Förslag till beslut i byggnadsnämnden | 5 min |
 
 <!-- sida 4 -->
 
@@ -89,14 +92,3 @@ KUNGSBACKA  KOMMUN
 
 Thure Sandén                      Amanda Toresson
 ordförande                        sekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-| 14. | Rättelseföreläggs att avröja<br>tillbyggnad | BN-2022-<br>002143 | Förslag till beslut i byggnadsnämnden | 5 min |
-| --- | --- | --- | --- | --- |
-| 15. | Byggsanktionsavgift för att<br>ha påbörjat åtgärd innan<br>startbesked | BN-2022-<br>002143 | Förslag till beslut i byggnadsnämnden | 5 min |
-| 16. | Byggsanktionsavgift för att<br>ha påbörjat åtgärd innan<br>startbesked | BN-2022-<br>002143 | Förslag till beslut i byggnadsnämnden | 5 min |
-| 17. | Rättelseföreläggs med vite<br>att avröja enbostadshuset på<br>fastigheten | BN-2016-<br>000534 | Förslag till beslut i byggnadsnämnden | 5 min |
-| 18. | Åtgärdsföreläggs med vite<br>att klippa växtlighet | BN-2024-<br>000749 | Förslag till beslut i byggnadsnämnden | 5 min |
-| 19. | Åtgärdsföreläggs med vite<br>att klippa växtlighet | BN-2024-<br>000749 | Förslag till beslut i byggnadsnämnden | 5 min |
-| 20. | Åtgärdsföreläggs med vite<br>att klippa växtlighet | BN-2024-<br>000749 | Förslag till beslut i byggnadsnämnden | 5 min |

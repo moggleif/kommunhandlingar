@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5c2b30eb196b02d62da5f55e/1747059805
 sha256: f81d50a2d04a5e9a443ba22006648f1e10425f1eeca02e2b01c1dfb4ebcf4969
 bytes: 17404169
 sidor: 284
-hamtad: 2026-10-08T01:06:48+00:00
-konverterad: 2026-10-08T01:07:37+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T08:55:42+00:00
+konverterad: 2026-10-14T08:56:32+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [19, 20, 24, 82, 109, 111, 114, 115, 117, 118, 119, 121, 123, 125, 126, 128, 130, 132, 134, 136, 138, 139, 140, 141, 143, 145, 146, 155, 157, 158, 160, 161, 163, 165, 167, 169, 171, 174, 176, 177, 178, 180, 181, 182, 185, 186, 187, 188, 189, 190, 191, 192, 193, 195, 197, 199, 202, 203, 207, 208, 209, 210, 211, 216, 219, 220, 231, 232, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -578,7 +578,7 @@ Investeringar (belopp i mnkr)
 | Inkomster | 42,6 | 9,6 | 79,0 | 79,0 | 0,0 |
 | Netto | -416,7 | -108,1 | -710,2 | -574,0 | 136,2 |
 
-[Tabell 13-2](handlingar.tabeller/13-2.csv)
+[Tabell 13-14-2](handlingar.tabeller/13-14-2.csv)
 
 |  | Bokslut<br>2024 | Utfall Jan-<br>Apr 2025 | Helårsprog<br>nos 2025 | Årsbudget<br>2025 | Avvikelse<br>2025 |
 | --- | --- | --- | --- | --- | --- |
@@ -587,6 +587,14 @@ Investeringar (belopp i mnkr)
 | Inkomster | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 |
 | Övriga investeringar |  |  |  |  |  |
 | Utgifter | -10,6 | -4,4 | -18,8 | -20,4 | 1,6 |
+| Inkomster | 2,9 | 0,0 | 1,4 | 3,0 | -1,6 |
+| Reinvesteringar |  |  |  |  |  |
+| Utgifter | -41,7 | -4,1 | -25,7 | -25,7 | 0,0 |
+| Inkomster | 0,0 | 0,0 | 0,7 | 0,7 | 0,0 |
+| Exploatering |  |  |  |  |  |
+| Utgifter | -29,5 | -3,2 | -27,8 | -80,6 | 52,8 |
+| Inkomster | 0,5 | 0,0 | 0,0 | 0,0 | 0,0 |
+| Netto | -81,1 | -12,0 | -79,2 | -132,0 | 52,8 |
 
 <!-- sida 14 -->
 
@@ -614,19 +622,6 @@ Projektering pågår och projektets bedöms gå in i byggfas 2026.
 13
 
 [Tabell 14-1](handlingar.tabeller/14-1.csv)
-
-|  | Bokslut<br>2024 | Utfall Jan-<br>Apr 2025 | Helårsprog<br>nos 2025 | Årsbudget<br>2025 | Avvikelse<br>2025 |
-| --- | --- | --- | --- | --- | --- |
-| Inkomster | 2,9 | 0,0 | 1,4 | 3,0 | -1,6 |
-| Reinvesteringar |  |  |  |  |  |
-| Utgifter | -41,7 | -4,1 | -25,7 | -25,7 | 0,0 |
-| Inkomster | 0,0 | 0,0 | 0,7 | 0,7 | 0,0 |
-| Exploatering |  |  |  |  |  |
-| Utgifter | -29,5 | -3,2 | -27,8 | -80,6 | 52,8 |
-| Inkomster | 0,5 | 0,0 | 0,0 | 0,0 | 0,0 |
-| Netto | -81,1 | -12,0 | -79,2 | -132,0 | 52,8 |
-
-[Tabell 14-2](handlingar.tabeller/14-2.csv)
 
 | Proj<br>nr | Text | Totalbudg<br>et | Totalprog<br>nos | Utfall totalt<br>tom april<br>2025 | Helårsprog<br>nos 2025 | Budget<br>2025 | Avvikelse<br>2025 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -669,7 +664,7 @@ Specifikation projekt VA
 | Inkomster | 37,8 | 7,9 | 77,5 | 77,5 | 0,0 |
 | Netto | -298,5 | -89,9 | -464,5 | -538,0 | 73,5 |
 
-[Tabell 15-2](handlingar.tabeller/15-2.csv)
+[Tabell 15-16-2](handlingar.tabeller/15-16-2.csv)
 
 | Projn<br>r | Text | Totalbudg<br>et | Totalprog<br>nos | Utfall totalt<br>tom april<br>2025 | Helårsprog<br>nos 2025 | Budget<br>2025 | Avvikelse<br>2025 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -680,6 +675,14 @@ Specifikation projekt VA
 | 550i | VA-utbyggnad<br>Sönnerbergen<br>inkomst | 55,0 | 42,0 | 0,0 | 42,0 | 42,0 | 0,0 |
 | 5507 | VUTB<br>Reservvatten<br>Göteborg | -269,6 | -281,5 | -6,4 | -5,0 | -43,0 | 38,0 |
 | 550P | Fjärås VV-<br>Hammerö etapp<br>2 | -104,0 | -45,0 | -2,3 | -38,1 | -46,0 | 7,9 |
+| 550Q | Fjärås VV-<br>Hammerö etapp<br>3 | -48,0 | -48,0 | -0,5 | -0,7 | -0,8 | 0,1 |
+| 5077 | Åtgärder<br>tillskotts vatten | -105,3 | -105,3 | -43,6 | -6,2 | -6,2 | 0,0 |
+| 7502 | VUTB Stockalid-<br>Kläppa | -116,7 | -115,0 | -0,6 | -1,0 | 0,0 | -1,0 |
+| 5565 | VOMV VA-<br>utbyggnad<br>Hagryd-Dala<br>utgift | -141,5 | -125,0 | -33,7 | -17,0 | -60,0 | 43,0 |
+| 5565 | VOMV VA-<br>utbyggnad<br>Hagryd-Dala<br>inkomst | 47,2 | 47,2 | 2,2 | 0,0 | 0,0 | 0,0 |
+| 5560 | VOMV VA-<br>utbyggnad<br>Släps-Högås<br>utgift | -99,8 | -90,5 | -4,2 | -11,0 | -28,8 | 17,8 |
+| 5560 | VOMV VA-<br>utbyggnad<br>Släps-Högås<br>inkomst | 37,0 | 37,0 | 0,0 | 0,0 | 0,0 | 0,0 |
+| Summa projekt |  | -2 677,6 | -2 597,1 | -340,3 | -228,5 | -401,8 | 173,3 |
 
 <!-- sida 16 -->
 
@@ -709,19 +712,6 @@ planerad till 2026.
 7502 VUTB Stockalid-Kläppa: Projektet har skjutits fram på grund av budgetbegränsningar, byggstart planerad
 
 15
-
-[Tabell 16-1](handlingar.tabeller/16-1.csv)
-
-| Projn<br>r | Text | Totalbudg<br>et | Totalprog<br>nos | Utfall totalt<br>tom april<br>2025 | Helårsprog<br>nos 2025 | Budget<br>2025 | Avvikelse<br>2025 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 550Q | Fjärås VV-<br>Hammerö etapp<br>3 | -48,0 | -48,0 | -0,5 | -0,7 | -0,8 | 0,1 |
-| 5077 | Åtgärder<br>tillskotts vatten | -105,3 | -105,3 | -43,6 | -6,2 | -6,2 | 0,0 |
-| 7502 | VUTB Stockalid-<br>Kläppa | -116,7 | -115,0 | -0,6 | -1,0 | 0,0 | -1,0 |
-| 5565 | VOMV VA-<br>utbyggnad<br>Hagryd-Dala<br>utgift | -141,5 | -125,0 | -33,7 | -17,0 | -60,0 | 43,0 |
-| 5565 | VOMV VA-<br>utbyggnad<br>Hagryd-Dala<br>inkomst | 47,2 | 47,2 | 2,2 | 0,0 | 0,0 | 0,0 |
-| 5560 | VOMV VA-<br>utbyggnad<br>Släps-Högås<br>utgift | -99,8 | -90,5 | -4,2 | -11,0 | -28,8 | 17,8 |
-| 5560 | VOMV VA-<br>utbyggnad<br>Släps-Högås<br>inkomst | 37,0 | 37,0 | 0,0 | 0,0 | 0,0 | 0,0 |
-| Summa projekt |  | -2 677,6 | -2 597,1 | -340,3 | -228,5 | -401,8 | 173,3 |
 
 <!-- sida 17 -->
 
@@ -1010,9 +1000,23 @@ Nedanstående servicenivåer gäller för tjänster och produkter specificerad i
 Tjänstespecifikation i Cesar2. Servicenivå gäller enligt Cesars standard för SN 0 om
 inget annat avtalats.
 
+Service-                              Felavhjälpning
+Tillgänglighet Felanmälan Servicetid      Åtgärdstid
+nivå                                   påbörjad
+Helgfri Inom 4 timmar
+Fiber: 99,50% Dygnet                    Inom 12 timmar
+vardag  Helgfri vardag
+SN 0    Kapacitet: runt alla                    Helgfri vardag
+07.0017.00 07.00-17.00
+98,00%    dagar                         07.00-17.00
+Fiber: 99,70% Dygnet Dygnet  Inom 4 timmar Inom 24 timmar
+SN 1    Kapacitet: runt alla runt alla Dygnet runt alla Dygnet runt alla
+99,00%    dagar    dagar      dagar       dagar
+Fiber: 99,90% Dygnet Dygnet  Inom 4 timmar Inom 8 timmar
+SN 2    Kapacitet: runt alla runt alla Dygnet runt alla Dygnet runt alla
+99,90%    dagar    dagar      dagar       dagar
 •  Tillgänglighet: Tillgänglighet beräknas om inget annat avtalats på årsbasis
 inom servicetid.
-
 •  Tillgänglighet = 100\*(mätperiod-oplanerade avbrott) / mätperiod.
 •  Mätperiod: omfattar Servicetid på årsbasis enligt vald Servicenivå.
 
@@ -1024,14 +1028,6 @@ felanmälan som aktiv felsökning ska ha påbörjats.
 tjänsten åter ska fungera enligt tjänstespecifikation.
 
 Kungsbacka kommun             Bredbandstaxa 2026                4 (9)
-
-[Tabell 24-1](handlingar.tabeller/24-1.csv)
-
-| Service-<br>nivå | Tillgänglighet | Felanmälan | Servicetid | Felavhjälpning<br>påbörjad | Åtgärdstid |
-| --- | --- | --- | --- | --- | --- |
-| SN 0 | Fiber: 99,50%<br>Kapacitet:<br>98,00% | Dygnet<br>runt alla<br>dagar | Helgfri<br>vardag<br>07.0017.00 | Inom 4 timmar<br>Helgfri vardag<br>07.00-17.00 | Inom 12 timmar<br>Helgfri vardag<br>07.00-17.00 |
-| SN 1 | Fiber: 99,70%<br>Kapacitet:<br>99,00% | Dygnet<br>runt alla<br>dagar | Dygnet<br>runt alla<br>dagar | Inom 4 timmar<br>Dygnet runt alla<br>dagar | Inom 24 timmar<br>Dygnet runt alla<br>dagar |
-| SN 2 | Fiber: 99,90%<br>Kapacitet:<br>99,90% | Dygnet<br>runt alla<br>dagar | Dygnet<br>runt alla<br>dagar | Inom 4 timmar<br>Dygnet runt alla<br>dagar | Inom 8 timmar<br>Dygnet runt alla<br>dagar |
 
 <!-- sida 25 -->
 
@@ -1187,11 +1183,13 @@ Kungsbacka kommun             Bredbandstaxa 2026                7 (9)
 | Option Extra effektuttag UPS 230VAC,<br>10A, Drifttid minst 2tim | 350W | 10 000 kr | 450 kr |
 | Option Extra UPS 230VAC, 10A, 2 tim<br>(Drifttid minst 4tim) | 350W | 10 000 kr | 450 kr |
 
-[Tabell 27-4](handlingar.tabeller/27-4.csv)
+[Tabell 27-28-4](handlingar.tabeller/27-28-4.csv)
 
 | Tjänst | Månadsavgift |
 | --- | --- |
 | Månadsavgift svartfiber / kapacitet över 10 Mbit | 2 000 kr |
+| Månadsavgift kapacitet under 10 Mbit | 500 kr |
+| Tillägg Servicenivå SN 2 per förbindelse<br>(+60% på Grundavgiften) | 1 200 kr |
 
 <!-- sida 28 -->
 
@@ -1226,12 +1224,6 @@ Kungsbacka kommun             Bredbandstaxa 2026                8 (9)
 
 [Tabell 28-1](handlingar.tabeller/28-1.csv)
 
-| Månadsavgift kapacitet under 10 Mbit | 500 kr |
-| --- | --- |
-| Tillägg Servicenivå SN 2 per förbindelse<br>(+60% på Grundavgiften) | 1 200 kr |
-
-[Tabell 28-2](handlingar.tabeller/28-2.csv)
-
 | Beskrivning | Engångsavgift\* |
 | --- | --- |
 | Fiberanslutning till villa vid byggnation av ett område i tätort | 20 000 kr |
@@ -1239,7 +1231,7 @@ Kungsbacka kommun             Bredbandstaxa 2026                8 (9)
 | Efteranslutning av villa i redan utbyggt område | 29 900 kr |
 | Enskild villa och övriga fiberanslutningar | Offert |
 
-[Tabell 28-3](handlingar.tabeller/28-3.csv)
+[Tabell 28-2](handlingar.tabeller/28-2.csv)
 
 | Servicenivå | Pris |
 | --- | --- |
@@ -11175,7 +11167,7 @@ delegeringsförteckning antagen 2024-09-25 § 94.
 Sida
 1(5)
 
-[Tabell 274-1](handlingar.tabeller/274-1.csv)
+[Tabell 274-278-1](handlingar.tabeller/274-278-1.csv)
 
 | Datum | Beskrivning | Diarienummer |
 | --- | --- | --- |
@@ -11187,16 +11179,6 @@ Sida
 | 2025-04-25 | Yttrande Teknik - Studentutspring Drottning Blankas Gymnasieskola | TE-2025-00203 |
 | 2025-04-28 | Yttrande Teknik - Mötesplats vid Vallgatan | TE-2025-00318 |
 | 2025-04-23 | Yttrande Teknik - Uteservering Algot | TE-2025-00364 |
-
-<!-- sida 275 -->
-
-Sida
-2(5)
-
-[Tabell 275-1](handlingar.tabeller/275-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-04-22 | Yttrande Teknik - Invigning cykelgarage | TE-2025-00362 |
 | 2025-04-22 | Yttrande Teknik - Begäran om yttrande - kapacitet på VA-ledning, BN 2025-000306, ÄLVSÅKERSKYRKOTORP 5:1 | TE-2025-00363 |
 | 2025-04-17 | Yttrande Teknik - Växtmarknad vid Fyren | TE-2025-00351 |
@@ -11208,16 +11190,6 @@ Sida
 | 2025-04-24 | Yttrande Teknik - Vändplats för sopbil & VA, VALLDA 6:57, BN 2025-000483 | TE-2025-00330 |
 | 2025-04-23 | Yttrande Teknik - Enskild avloppsanläggning, Fälared 3:7, MH-2024-4792 | TE-2025-00329 |
 | 2025-04-14 | Yttrande Teknik - Bekämpningsmedel inom vattenskyddsområde, MH-2025-1786 | TE-2025-00297 |
-
-<!-- sida 276 -->
-
-Sida
-3(5)
-
-[Tabell 276-1](handlingar.tabeller/276-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-04-24 | Yttrande Teknik - Enskild avloppsanläggning, Röshult 1:16, MH-2025-890 | TE-2025-00325 |
 | 2025-04-11 | Yttrande Teknik Transportdispens, TRV 2025/33127 | TE-2025-00321 |
 | 2025-04-10 | Yttrande Teknik - VA-anslutning och sophämtning, Slätthall 1:14, BN 2025-000462 | TE-2025-00253 |
@@ -11229,16 +11201,6 @@ Sida
 | 2025-04-09 | Yttrande Teknik - 1 maj firande i Badhusparken | TE-2025-00278 |
 | 2025-04-04 | Yttrande Teknik - Generellt tillstånd container | TE-2025-00277 |
 | 2025-04-24 | Yttrande Teknik - In- och utfartsväg, servitut samt dagvatten, Spårhaga 2:163, BN 2025-000624 | TE-2025-00303 |
-
-<!-- sida 277 -->
-
-Sida
-4(5)
-
-[Tabell 277-1](handlingar.tabeller/277-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-04-14 | Yttrande Teknik - Avverkning inom vattenskyddsområde, Oleträ 1:2, MH-2025-1756 | TE-2025-00301 |
 | 2025-04-02 | Yttrande Teknik - Uteservering Ester och Kings Hill | TE-2025-00274 |
 | 2025-04-02 | Yttrande Teknik - Uteservering Bar Vinci | TE-2025-00275 |
@@ -11250,21 +11212,31 @@ Sida
 | 2025-04-01 | Yttrande Teknik - Uteservering I Love Pizza | TE-2025-00257 |
 | 2025-04-16 | Yttrande Teknik - Angående VA-intyg & möjlighet till sophämtning, ISERÅS 2:6, BN 2024-002442 | TE-2025-00286 |
 | 2025-04-17 | Yttrande Teknik - Vägbredd, väglutning, tillfartsväg, vändplats för sopbil, parkering<br>samt dagvatten, Bolsheden 1:76, BN 2025-000124 | TE-2025-00280 |
-
-<!-- sida 278 -->
-
-Sida
-5(5)
-
-[Tabell 278-1](handlingar.tabeller/278-1.csv)
-
-| Datum | Beskrivning | Diarienummer |
-| --- | --- | --- |
 | 2025-04-23 | Yttrande Teknik - Nationaldagsfirande Kungsbacka Innerstad | TE-2025-00179 |
 | 2025-04-17 | Yttrande Teknik - Framkomlighet för sopbil & synpunkter avseende påkoppling på VA-samfällighet, FRILLESÅS 3:17, BN 2024-<br>002359 | TE-2025-00272 |
 | 2025-04-09 | Yttrande Teknik - remiss gödsel inom vattenskyddsområde MH-2025-1529 | TE-2025-00264 |
 | 2025-04-10 | Yttrande Teknik - Möjlighet att ansluta till kommunalt VA, VALLDA 1:1 BN 2025-000610 | TE-2025-00262 |
 | 2025-04-11 | Yttrande Teknik - Godkännande av ledningsnedläggning - Kungsbacka 2:2 och Kungsbacka 2:13, KS-2024-00866 | TE-2024-01419 |
+
+<!-- sida 275 -->
+
+Sida
+2(5)
+
+<!-- sida 276 -->
+
+Sida
+3(5)
+
+<!-- sida 277 -->
+
+Sida
+4(5)
+
+<!-- sida 278 -->
+
+Sida
+5(5)
 
 <!-- sida 279 -->
 
@@ -11364,35 +11336,105 @@ KUNGSBACKA KOMMUN                                           3 (6)
 
 KUNGSBACKA KOMMUN                                           4 (6)
 
-[Tabell 282-1](handlingar.tabeller/282-1.csv)
+Punkt i
+delegeringsordn        Ansvarig   Delegeringens
+ing         Lagrum     Delegat    omfattning  Taget beslut och datum för beslutet
+Trafikingenjör skada eller risk för 1384 2025-
+Samordnare skada på väg 00181      Drottninggatan
+Vägtekniker             1384 2025-
+00182     Lindens gata
+1384 2025-
+00207    Lundegrens gata
+1384 2025-
+00208     Kyrkogatan
+1384 2025-
+00210     Kyrkogatan
 
-| Punkt i<br>delegeringsordn<br>ing | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Trafikingenjör<br>Samordnare<br>Vägtekniker | skada eller risk för<br>skada på väg | 1384 2025-<br>00181<br>1384 2025-<br>00182<br>1384 2025-<br>00207<br>1384 2025-<br>00208<br>1384 2025-<br>00210<br>1384 2025-<br>00211 |  | Drottninggatan |  |
-|  |  |  |  |  | 1384 2025-<br>00182 | Lindens gata |  |
-|  |  |  |  |  | 1384 2025-<br>00207 | Lundegrens gata |  |
-|  |  |  |  |  | 1384 2025-<br>00208 | Kyrkogatan |  |
-|  |  |  |  |  | 1384 2025-<br>00210 | Kyrkogatan |  |
-|  |  |  |  |  | 1384 2025-<br>00211 | Kyrkogatan |  |
-| 4.13 | 5 § lag<br>(1976:206) om<br>felparkeringsav<br>gift och 1 § lag<br>(1984:318) om<br>kontrollavgift<br>vid olovlig<br>parkering | Trafikövervaka<br>re | Beslut om<br>felparkeringsavgif<br>t samt<br>kontrollavgift vid<br>olovlig parkering | Felparkeringsavgifter (gatumark):<br>- 664 st<br>Kontrollavgifter (tomtmark):<br>- 224 st |  |  |  |
-| 4.14 | Vägmärkesföro<br>rd ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen<br>3 kap. 4 § Plan<br>och Bygglagen<br>6 Kap. 21 | VC Trafik &<br>Utemiljö<br>Samordnare<br>EC Anläggning<br>& Utveckling | Beslut om<br>tillstånd att<br>schakta i gator<br>och vägar för vilka<br>kommunen är<br>huvudman och<br>vid behov kräva<br>säkerhet för<br>beräknade<br>kostnader för<br>återställande av<br>kommunens<br>anläggningar | 8 st beslut om tillstånd att schakta i<br>gator och trafikanordningsplan. |  |  |  |
-| 4.15 | Vägmärkesföro<br>rd ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen<br>3 kap. 4 § | VC Trafik &<br>Utemiljö<br>EC Anläggning<br>& Utveckling<br>Samordnare | Godkännande av<br>trafikanordningsp<br>lan | 15 st beslut om enbart<br>trafikanordningsplan |  |  |  |
+1384 2025-
+00211     Kyrkogatan
+4.13        5 § lag    Trafikövervaka Beslut om Felparkeringsavgifter (gatumark):
+(1976:206) om re      felparkeringsavgif - 664 st
+felparkeringsav
+t samt
+gift och 1 § lag
+kontrollavgift vid Kontrollavgifter (tomtmark):
+(1984:318) om
+olovlig parkering - 224 st
+kontrollavgift
+vid olovlig
+parkering
+4.14        Vägmärkesföro VC Trafik & Beslut om 8 st beslut om tillstånd att schakta i
+rd ningen SFS Utemiljö tillstånd att gator och trafikanordningsplan.
+2007:90 AFS Samordnare schakta i gator
+1999:3 49 § 81 EC Anläggning och vägar för vilka
+§ (a-e)    & Utveckling kommunen är
+Ordningslagen         huvudman och
+3 kap. 4 § Plan       vid behov kräva
+och Bygglagen         säkerhet för
+6 Kap. 21             beräknade
+kostnader för
+återställande av
+kommunens
+anläggningar
+4.15        Vägmärkesföro VC Trafik & Godkännande av 15 st beslut om enbart
+rd ningen SFS Utemiljö trafikanordningsp trafikanordningsplan
+2007:90 AFS EC Anläggning lan
+1999:3 49 § 81 & Utveckling
+§ (a-e)    Samordnare
+Ordningslagen
+3 kap. 4 §
 
 <!-- sida 283 -->
 
 KUNGSBACKA KOMMUN                                           5 (6)
 
-[Tabell 283-1](handlingar.tabeller/283-1.csv)
+Punkt i
+delegeringsordn        Ansvarig   Delegeringens
+ing         Lagrum     Delegat    omfattning  Taget beslut och datum för beslutet
+4.16        13 kap. och 8 § Färdtjänstutred Beslut om Beslut om parkeringstillstånd för
+trafikförordning are  parkeringstillstån rörelsehindrad
+en (1998:1276)
+d för       Beviljade: 28
+rörelsehindrade Avslagna: 1
+4.17        Ordningslagen VC Trafik & Yttrande till Se separat bilaga för Yttranden från
+(1993:1617) 2 Utemiljö polisen avseende Teknik.
+kap        EC Anläggning begagnade av
+& Utveckling offentlig plats
+Samordnare
+5.1         6–9 §§ lag Färdtjänstutred Beslut om Beslut om färdtjänst
+(1997:736) om are     tillstånd till Beviljade: 68
+färdtjänst EC Kansli
+färdtjänst med Avslagna: 0
+regelkompletterin
+gar
+5.3         4–7 §§ lag Färdtjänstutred Beslut om Beslut om tillstånd till riksfärdtjänst
+(1997:735) om are     tillstånd till Beviljade: 28
+riksfärdtjänst EC Kansli
+riksfärdtjänst Avslagna: 1
+8.3         37§ Lokala Anette Englund, Besluta om 3 st beslut om fattade 2025-04-29
+avfallsföreskrift administratör godkännande av
+er för     Kund &     kompostering av
+Kungsbacka Kommunikation matavfall
+kommun
 
-| Punkt i<br>delegeringsordn<br>ing | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-| 4.16 | 13 kap. och 8 §<br>trafikförordning<br>en (1998:1276) | Färdtjänstutred<br>are | Beslut om<br>parkeringstillstån<br>d för<br>rörelsehindrade | Beslut om parkeringstillstånd för<br>rörelsehindrad<br>Beviljade: 28<br>Avslagna: 1 |
-| 4.17 | Ordningslagen<br>(1993:1617) 2<br>kap | VC Trafik &<br>Utemiljö<br>EC Anläggning<br>& Utveckling<br>Samordnare | Yttrande till<br>polisen avseende<br>begagnade av<br>offentlig plats | Se separat bilaga för Yttranden från<br>Teknik. |
-| 5.1 | 6–9 §§ lag<br>(1997:736) om<br>färdtjänst | Färdtjänstutred<br>are<br>EC Kansli | Beslut om<br>tillstånd till<br>färdtjänst med<br>regelkompletterin<br>gar | Beslut om färdtjänst<br>Beviljade: 68<br>Avslagna: 0 |
-| 5.3 | 4–7 §§ lag<br>(1997:735) om<br>riksfärdtjänst | Färdtjänstutred<br>are<br>EC Kansli | Beslut om<br>tillstånd till<br>riksfärdtjänst | Beslut om tillstånd till riksfärdtjänst<br>Beviljade: 28<br>Avslagna: 1 |
-| 8.3 | 37§ Lokala<br>avfallsföreskrift<br>er för<br>Kungsbacka<br>kommun | Anette Englund,<br>administratör<br>Kund &<br>Kommunikation | Besluta om<br>godkännande av<br>kompostering av<br>matavfall | 3 st beslut om fattade 2025-04-29 |
-| 8.6 | 43, 43a §§<br>Lokala<br>avfallsföreskrift<br>er för<br>Kungsbacka<br>kommun | Anette Englund,<br>administratör<br>Kund &<br>Kommunikation | Besluta om<br>tillfälligt uppehåll<br>i sophämtning | 250402, 1 st<br>250403, 3 st<br>250408, 1 st<br>250409, 2 st<br>250410, 2 st<br>250415, 2 st<br>250425, 1 st<br>250428, 2 st<br>250429, 6 st |
-| 9.5 |  | FC/VC Kund &<br>Kommunikatio<br>n | Träffat<br>överenskommelse<br>om betalning av<br>fordran / ingått<br>förlikning om<br>fordran (belopp<br>upp till 0,5<br>prisbasbelopp | 4 beslut om överenskommelse om<br>betalning om fordran.<br>- Beslut rörande fastighet<br>Nötegång 1:115, 2025-03-25 –<br>TE-2025-00420<br>- Beslut rörande fastighet<br>Ölmanäs 12:22, 2024-10-25 –<br>TE-2025-00419 |
+8.6         43, 43a §§ Anette Englund, Besluta om 250402, 1 st
+Lokala     administratör tillfälligt uppehåll 250403, 3 st
+avfallsföreskrift Kund & i sophämtning 250408, 1 st
+er för     Kommunikation          250409, 2 st
+Kungsbacka                        250410, 2 st
+kommun                            250415, 2 st
+250425, 1 st
+250428, 2 st
+250429, 6 st
+9.5                    FC/VC Kund & Träffat   4 beslut om överenskommelse om
+Kommunikatio överenskommelse betalning om fordran.
+n          om betalning av
+fordran / ingått - Beslut rörande fastighet
+förlikning om    Nötegång 1:115, 2025-03-25 –
+fordran (belopp  TE-2025-00420
+upp till 0,5  -  Beslut rörande fastighet
+prisbasbelopp    Ölmanäs 12:22, 2024-10-25 –
+TE-2025-00419
 
 <!-- sida 284 -->
 

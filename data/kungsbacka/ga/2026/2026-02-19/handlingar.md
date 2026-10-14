@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.46db326b19c4795e0085ada9/1770984948
 sha256: 59f893d75e95968ccceb9a128f6afe117af926942e4b315c2386d99bd3f5b3ba
 bytes: 20095436
 sidor: 500
-hamtad: 2026-10-07T22:27:01+00:00
-konverterad: 2026-10-07T22:28:46+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T06:39:31+00:00
+konverterad: 2026-10-14T06:40:55+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [183, 235, 236, 377, 390, 473, 474, 475, 476]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [145, 183, 228, 235, 236, 377, 390, 473, 474, 475, 476]
+figurer: [8, 9, 24, 33, 41, 43, 44, 45, 46, 145, 153, 158, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 210, 211, 212, 213, 220, 241, 242, 243, 244, 245, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 291, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 485, 490, 491, 492]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -56,7 +56,7 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -65,6 +65,17 @@ KUNGSBACKA  KOMMUN
 | 6. | Bostad först<br>Föredragande: Karin<br>Zetterman, verksamhetschef<br>18.25-18.35 | GA-2024-<br>00088 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 | 7. | Revidering av riktlinjer<br>ekonomiskt bistånd 2026<br>Föredragande: Pernilla<br>Börjesson, enhetschef<br>18.35-18.50 | GA-2026-<br>00032 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner revideringen av riktlinjer Ekonomiskt<br>bistånd 2026. |
 | 8. | Årsredovisning 2025<br>Föredragande: LGA<br>19.10-19.50 | GA-2023-<br>00161 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner årsredovisning 2025.<br>Paragrafen justeras direkt. |
+| 9. | Ombudgetering och resultatfond<br>2025 | GA-2026-<br>00017 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner förslag till ombudgetering och<br>resultatfond 2025.<br>Paragrafen justeras direkt. |
+| 10. | Uppföljning intern kontrollplan<br>2025<br>Föredragande: Andreas<br>Mårtensson, kvalitet och<br>utvecklingschef<br>19.50-20.05 | GA-2024-<br>00193 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner uppföljning av Intern kontroll 2025.<br>Paragrafen justeras direkt. |
+| 11. | Kvartalsuppföljning av<br>arbetsmarknadsprocessen 2025<br>Föredragande: Karin<br>Zetterman, verksamhetschef<br>20.05-20.25 | GA-2025-<br>00069 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner kvartalsuppföljningen av<br>arbetsmarknadsprocessen för kvartal 4, 2025. |
+| 12. | Beredning av motion - Mera<br>grön och blå mat i Kungsbacka<br>kommun (KS-2025-00809) | GA-2025-<br>00188 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad föreslår<br>att kommunfullmäktige avslår motionen med<br>hänvisning till den omställning som redan sker på<br>kommunens gymnasieskolor och i Kungsbacka<br>kommun. |
+| 13. | FG/GA stämningsansökan Gotit<br>Skolplatsen<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>20.25-20.35 | GA-2026-<br>00034 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 14. | Nya samverkansavtal GR<br>Föredragande: Patrik Hellberg<br>20.35-20.40 | GA-2026-<br>00028 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet.<br>Nämnden för Gymnasium & Arbetsmarknad ger<br>förvaltningschefen i uppdrag att ta fram ett förslag<br>på remissvar som beslutas och direktjusteras på<br>nämndsmötet den 19 mars 2026. |
+| 15. | Revidering av<br>delegeringsförteckning (2026) | GA-2026-<br>00030 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner revideringen av<br>delegeringsförteckningen. |
+| 16. | Återrapportering av<br>delegeringsbeslut (2026) | GA-2026-<br>00026 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av delegeringsbeslut<br>under perioden 2026-01-01 till 2026-01-31. |
+| 17. | Återrapportering av program-<br>och verksamhetsråd (2026)<br>Föredragande: Jan Eric Knutas<br>(L)<br>20.40-20.45 | GA-2026-<br>00024 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 18. | Inkomna skrivelser till<br>ledamöter och ersättare i<br>nämnden (2026) | GA-2026-<br>00003 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 19. | Förvaltningschef informerar<br>(2026)<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>20.45-21.00 | GA-2026-<br>00002 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 
 <!-- sida 3 -->
 
@@ -72,32 +83,11 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 9. | Ombudgetering och resultatfond<br>2025 | GA-2026-<br>00017 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner förslag till ombudgetering och<br>resultatfond 2025.<br>Paragrafen justeras direkt. |
-| 10. | Uppföljning intern kontrollplan<br>2025<br>Föredragande: Andreas<br>Mårtensson, kvalitet och<br>utvecklingschef<br>19.50-20.05 | GA-2024-<br>00193 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner uppföljning av Intern kontroll 2025.<br>Paragrafen justeras direkt. |
-| 11. | Kvartalsuppföljning av<br>arbetsmarknadsprocessen 2025<br>Föredragande: Karin<br>Zetterman, verksamhetschef<br>20.05-20.25 | GA-2025-<br>00069 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner kvartalsuppföljningen av<br>arbetsmarknadsprocessen för kvartal 4, 2025. |
-| 12. | Beredning av motion - Mera<br>grön och blå mat i Kungsbacka<br>kommun (KS-2025-00809) | GA-2025-<br>00188 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad föreslår<br>att kommunfullmäktige avslår motionen med<br>hänvisning till den omställning som redan sker på<br>kommunens gymnasieskolor och i Kungsbacka<br>kommun. |
-| 13. | FG/GA stämningsansökan Gotit<br>Skolplatsen<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>20.25-20.35 | GA-2026-<br>00034 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 14. | Nya samverkansavtal GR<br>Föredragande: Patrik Hellberg<br>20.35-20.40 | GA-2026-<br>00028 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet.<br>Nämnden för Gymnasium & Arbetsmarknad ger<br>förvaltningschefen i uppdrag att ta fram ett förslag<br>på remissvar som beslutas och direktjusteras på<br>nämndsmötet den 19 mars 2026. |
-| 15. | Revidering av<br>delegeringsförteckning (2026) | GA-2026-<br>00030 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner revideringen av<br>delegeringsförteckningen. |
-| 16. | Återrapportering av<br>delegeringsbeslut (2026) | GA-2026-<br>00026 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av delegeringsbeslut<br>under perioden 2026-01-01 till 2026-01-31. |
-| 17. | Återrapportering av program-<br>och verksamhetsråd (2026)<br>Föredragande: Jan Eric Knutas<br>(L)<br>20.40-20.45 | GA-2026-<br>00024 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-| 18. | Inkomna skrivelser till<br>ledamöter och ersättare i<br>nämnden (2026) | GA-2026-<br>00003 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-| 19. | Förvaltningschef informerar<br>(2026)<br>Föredragande: Patrik Hellberg,<br>förvaltningschef<br>20.45-21.00 | GA-2026-<br>00002 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 
 <!-- sida 5 -->
 
@@ -1079,7 +1069,7 @@ Egenkontroller utförda under 2025
 
 20
 
-[Tabell 27-1](handlingar.tabeller/27-1.csv)
+[Tabell 27-28-1](handlingar.tabeller/27-28-1.csv)
 
 | Egenkontroll EMI<br>Skolsköterskor | Omfattning | Källa |
 | --- | --- | --- |
@@ -1091,26 +1081,49 @@ Egenkontroller utförda under 2025
 | Journalgranskning (stickprov) | 4 gr/år | Prorenata/VC EMI |
 | Journalgranskning i<br>grupp/Skolsköterska/Skolläkare | 1 gr/år | Prorenata/VC/Skolsköterskor/Skolläkare |
 | Patientens klagomål och<br>synpunkter | Fortlöpande | IVO, avvikelsehanteringssystemet,<br>direktkontakt |
+| Kvalitetsgranskning<br>Läkemedelshantering | 1 /år | Verksamhetschef/Extern granskare |
+| Nyckelinventering<br>Mottagningsrum/journalskåp | 1/ år | Verksamhetschef EMI/Enkät/Rutin |
 
 <!-- sida 28 -->
 
 Resultat gällande identifierade mål för 2025
 
-Analys
-1\.
+Mål 1. EMI       Strategi/er        Åtgärd           Resultat      Analys
+. Minska antalet Följsamhet till ny rutin samt Rutin och ny Tydlig nedgång av 1.
 
-Analys
-2
-
+rapporterade avvikelser dokumentationsmall som är
+dokumentationsmall i avvikelser inom
+journalsystemet  kategorin.
+inom kategori utebliven framtagen som en åtgärd i implementerade 2025 för
+insats/dokumentation det systematiska att reducera risk för
+Under 2025 skall avvikelser kvalitetsarbetet gällande insatser ej genomförts vid
+tex övergång
+inom Utebliven   patientsäkerhet.
+grundskola/gymnasieskola/
+insats/dokumentation
+minska. En fortsatt hög Samtal/diskussioner på
+Framtagen efter
+rapportering av händelser är kategorimöten samtal/diskussioner med
+en styrka inom en skolsköterska/skolläkare för involverade
+verksamhet, dock skall att förankra i verksamheten. yrkeskategorier
+(skolsköterska/skolläkare)
+åtgärder även visa sig vara
+effektiva och skall på ett
+tydligt sätt kunna mätas.
+Mål 2. EMI       Strategi/er        Åtgärd           Resultat      Analys
+Implementering av Ansöka ihop med agent Ansökan gjord med agent Tjänsten används 2
+och tjänsten togs i bruk 1/4 dagligen inom EMI.
+sammanhållen journalföring (prorenata) om
+2025             Underlättar
+(NPÖ), konsument. (EMI konsumentkoppling
+informationshämtning
+Rutiner enligt krav från
+journal)
+mellan vårdgivare ,
+Inera utfärdade
 21
 
 [Tabell 28-1](handlingar.tabeller/28-1.csv)
-
-| Kvalitetsgranskning<br>Läkemedelshantering | 1 /år | Verksamhetschef/Extern granskare |
-| --- | --- | --- |
-| Nyckelinventering<br>Mottagningsrum/journalskåp | 1/ år | Verksamhetschef EMI/Enkät/Rutin |
-
-[Tabell 28-2](handlingar.tabeller/28-2.csv)
 
 | Egenkontroll<br>EPI/Psykologer | Omfattning | Källa |
 | --- | --- | --- |
@@ -1120,33 +1133,66 @@ Analys
 | Patientens klagomål och<br>synpunkter | Fortlöpande | IVO, avvikelsehanteringssystemet,<br>direktkontakt |
 | Kontroll fysiska<br>journalmappar | 1 /år | Formulär |
 
-[Tabell 28-3](handlingar.tabeller/28-3.csv)
-
-| Mål 1. EMI<br>. Minska antalet<br>rapporterade avvikelser<br>inom kategori utebliven<br>insats/dokumentation<br>Under 2025 skall avvikelser<br>inom Utebliven<br>insats/dokumentation<br>minska. En fortsatt hög<br>rapportering av händelser är<br>en styrka inom en<br>verksamhet, dock skall<br>åtgärder även visa sig vara<br>effektiva och skall på ett<br>tydligt sätt kunna mätas. | Strategi/er<br>Följsamhet till ny rutin samt<br>dokumentationsmall som är<br>framtagen som en åtgärd i<br>det systematiska<br>kvalitetsarbetet gällande<br>patientsäkerhet.<br>Samtal/diskussioner på<br>kategorimöten<br>skolsköterska/skolläkare för<br>att förankra i verksamheten. | Åtgärd<br>Rutin och ny<br>dokumentationsmall i<br>journalsystemet<br>implementerade 2025 för<br>att reducera risk för<br>insatser ej genomförts vid<br>tex övergång<br>grundskola/gymnasieskola/<br>Framtagen efter<br>samtal/diskussioner med<br>involverade<br>yrkeskategorier<br>(skolsköterska/skolläkare) | Resultat<br>Tydlig nedgång av<br>avvikelser inom<br>kategorin. |
-| --- | --- | --- | --- |
-| Mål 2. EMI<br>Implementering av<br>sammanhållen journalföring<br>(NPÖ), konsument. (EMI<br>journal) | Strategi/er<br>Ansöka ihop med agent<br>(prorenata) om<br>konsumentkoppling | Åtgärd<br>Ansökan gjord med agent<br>och tjänsten togs i bruk 1/4<br>2025<br>Rutiner enligt krav från<br>Inera utfärdade | Resultat<br>Tjänsten används<br>dagligen inom EMI.<br>Underlättar<br>informationshämtning<br>mellan vårdgivare , |
-
 <!-- sida 29 -->
 
-Analys
-3
+Iordningställa rutiner och Utbildning av EMI personal och gagnar framförallt
+genomförd        patientsäkerheten.
+riktlinjer som kravställs för
+ändamålet
+Utbilda
+Skolsköterskor/Skolläkare
 
+Mål 3. EPI       Strategi/er        Åtgärd           Resultat      Analys
+Utifrån                                                            3
+Se över utredningsprocess, Fortlöpande reflektion och Har sett brister i
+avvikelserapportering och
+dokumentationsrutiner och kunskapsbyggande verksamheten som
+underlag som inhämtats ska riktlinjer/mallar och genomförts systematiskt har resulterat i ett
+utredningskvalitet i kompetensbehov varje månad vid  pågående arbete i
+psykologutredningar öka.            kategorimöten HSL. tydliggörande av
+Information och diskussion          verksamhetens
+Här ingår frågor som
+på kategorimöten.  Revideringar av samtycken rutiner kopplat till
+fortlöpande utbildning,
+för utredning för patientsäkerhet.
+utredningshandledning och Revidera och ändra Intellektuell
+fortsatt fortlöpande rutiner/mallar/samtycken funktionsnedsättning, I samma led ingår att
+granskning och utvärdering. efter behov. översättning till hemspråk se över
+för familjer till annat organiseringen av
+modersmål planeras för, psykologer.
+Lägga till nya
+inventering av fysiska
+funktioner/integrationer i
+utredningsprocess och
+journalmappar och översyn
+av rutiner för
+rutiner som gagnar
+dokumentation och rutiner
+patientsäkerhet                     Detta är ett pågående
+för förvaring av dessa,
+arbete och resultat
+översyn över
+utvärderas över tid.
+metod/stödmallar för
+utredningsprocess.
+Rekrytering av
+utredningshandelare inom
+ämnesfältet pågår.
+Nya
+samverkansmöjligheter
+med EMI ses över som
+både gagnar
+patientsäkerhet och
+processer gällande
+utredningar av intellektuell
+funktionsnedsättning.
 Analys
-
 Mål 1
 Under 2024 inkom flertal (11) avvikelser kopplat till utebliven insats, vilken isig är en styrka
-
 inom verksamheten att avvikelser rapporteras så att åtgärder kan vidtas och att det
 systematiska kvalitetsarbetet fungerar i praktiken. Målet var självklart att minska antalet
 avvikelser inom denna kategori under 2025.
-
 22
-
-[Tabell 29-1](handlingar.tabeller/29-1.csv)
-
-|  | Iordningställa rutiner och<br>riktlinjer som kravställs för<br>ändamålet<br>Utbilda<br>Skolsköterskor/Skolläkare | Utbildning av EMI personal<br>genomförd | och gagnar framförallt<br>patientsäkerheten. |
-| --- | --- | --- | --- |
-| Mål 3. EPI<br>Utifrån<br>avvikelserapportering och<br>underlag som inhämtats ska<br>utredningskvalitet i<br>psykologutredningar öka.<br>Här ingår frågor som<br>fortlöpande utbildning,<br>utredningshandledning och<br>fortsatt fortlöpande<br>granskning och utvärdering. | Strategi/er<br>Se över utredningsprocess,<br>dokumentationsrutiner och<br>riktlinjer/mallar och<br>kompetensbehov<br>Information och diskussion<br>på kategorimöten.<br>Revidera och ändra<br>rutiner/mallar/samtycken<br>efter behov.<br>Lägga till nya<br>funktioner/integrationer i<br>utredningsprocess och<br>rutiner som gagnar<br>patientsäkerhet | Åtgärd<br>Fortlöpande reflektion och<br>kunskapsbyggande<br>genomförts systematiskt<br>varje månad vid<br>kategorimöten HSL.<br>Revideringar av samtycken<br>för utredning för<br>Intellektuell<br>funktionsnedsättning,<br>översättning till hemspråk<br>för familjer till annat<br>modersmål planeras för,<br>inventering av fysiska<br>journalmappar och översyn<br>av rutiner för<br>dokumentation och rutiner<br>för förvaring av dessa,<br>översyn över<br>metod/stödmallar för<br>utredningsprocess.<br>Rekrytering av<br>utredningshandelare inom<br>ämnesfältet pågår.<br>Nya<br>samverkansmöjligheter<br>med EMI ses över som<br>både gagnar<br>patientsäkerhet och<br>processer gällande<br>utredningar av intellektuell<br>funktionsnedsättning. | Resultat<br>Har sett brister i<br>verksamheten som<br>har resulterat i ett<br>pågående arbete i<br>tydliggörande av<br>verksamhetens<br>rutiner kopplat till<br>patientsäkerhet.<br>I samma led ingår att<br>se över<br>organiseringen av<br>psykologer.<br>Detta är ett pågående<br>arbete och resultat<br>utvärderas över tid. |
 
 <!-- sida 30 -->
 
@@ -4612,8 +4658,9 @@ Införande av GY25
 
 [Tabell 104-1](handlingar.tabeller/104-1.csv)
 
-| Utfall (miljoner kronor)<br>Intäkter | Utfall 2023<br>171,2 | Utfall 2024<br>165,5 | Utfall 2025<br>154,8 |
+| Utfall (miljoner kronor) | Utfall 2023 | Utfall 2024 | Utfall 2025 |
 | --- | --- | --- | --- |
+| Intäkter | 171,2 | 165,5 | 154,8 |
 | Kostnader | -761,2 | -780,4 | -799,2 |
 | Netto | -590,0 | -614,9 | -644,4 |
 | Budget, netto | -603,3 | -628,4 | -646,2 |
@@ -4621,8 +4668,9 @@ Införande av GY25
 
 [Tabell 104-2](handlingar.tabeller/104-2.csv)
 
-| Utfall (miljoner kronor)<br>Utgifter | Utfall 2023<br>-6,3 | Utfall 2024<br>-4,4 | Utfall 2025<br>-5,1 |
+| Utfall (miljoner kronor) | Utfall 2023 | Utfall 2024 | Utfall 2025 |
 | --- | --- | --- | --- |
+| Utgifter | -6,3 | -4,4 | -5,1 |
 | Inkomster |  |  |  |
 | Netto | -6,3 | -4,4 | -5,1 |
 
@@ -5908,10 +5956,12 @@ rapporterade riskobservationer har ökat något sedan förra året, samtidigt so
 
 [Tabell 129-1](handlingar.tabeller/129-1.csv)
 
-| Namn<br>Riskobservation | 2023<br>15 | 2024<br>32 | 2025<br>45 |
+| Namn | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- |
+| Riskobservation | 15 | 32 | 45 |
 | Tillbud | 154 | 159 | 143 |
-| Olycksfall<br>Total | 31<br>200 | 38<br>229 | 24<br>212 |
+| Olycksfall | 31 | 38 | 24 |
+| Total | 200 | 229 | 212 |
 
 <!-- sida 130 -->
 
@@ -6161,8 +6211,9 @@ Omställningsåtgärder har vidtagits och arbetet med att anpassa organisationen
 
 [Tabell 134-1](handlingar.tabeller/134-1.csv)
 
-| Uppföljningsnivå (belopp i mkr)<br>Gemensam verksamhet | Bokslut 2024<br>-41,9 | Budget 2025<br>-46,8 | Bokslut 2025<br>-44,7 | Budgetavvikelse 2025<br>2,1 |
+| Uppföljningsnivå (belopp i mkr) | Bokslut 2024 | Budget 2025 | Bokslut 2025 | Budgetavvikelse 2025 |
 | --- | --- | --- | --- | --- |
+| Gemensam verksamhet | -41,9 | -46,8 | -44,7 | 2,1 |
 | Gymnasieverksamhet | -483,5 | -489,3 | -499,2 | -9,9 |
 | Vuxenutbildning | -28 | -30,4 | -35,2 | -4,8 |
 | Arbetsmarknad | -16,6 | -19,9 | -17,7 | 2,2 |
@@ -7046,6 +7097,18 @@ Internkontrollrapport 2025 -
 
 kommunen eller regionen.
 
+Verksamhet           Andel av verksamhetsvolym % Kostnad för verksamhet mnkr
+
+Bokslut 2024 Bokslut 2025 Bokslut 2024 Bokslut 2025
+
+```osaker-tabell
+Gymnasieverksamhet      23,7       24,2         108,5      117
+
+Gymnasial vuxenutbildning 96       95            18,3      21,4
+Svenska för invandrare  100        100           6,5        9,1
+Grundläggande vuxenutbildning 100  100           4,7        5,7
+```
+
 Kompetenscentrum - Enheten för Vuxnas lärande genomför kvalitetsgranskningar av upphandlad
 vuxenutbildning. Syftet med kvalitetsgranskningen är att följa upp hur väl utbildningsanordnaren uppfyller
 ställda krav i tecknat ramavtal. Detta i ledet att förbättra vuxenutbildningen utifrån elevens bästa, för att nå
@@ -7083,14 +7146,6 @@ När det gäller gymnasieverksamheten har andel elever hos externa utförare ök
 2025\. Kostnaderna har ökat från 108,5 mkr till 117 mkr.
 
 11
-
-[Tabell 158-1](handlingar.tabeller/158-1.csv)
-
-| Verksamhet<br>Gymnasieverksamhet | Andel av verksamhetsvolym %<br>Bokslut 2024 Bokslut 2025<br>23,7 24,2 |  | Kostnad för verksamhet mnkr<br>Bokslut 2024 Bokslut 2025<br>108,5 117 |  |
-| --- | --- | --- | --- | --- |
-| Gymnasial vuxenutbildning | 96 | 95 | 18,3 | 21,4 |
-| Svenska för invandrare | 100 | 100 | 6,5 | 9,1 |
-| Grundläggande vuxenutbildning | 100 | 100 | 4,7 | 5,7 |
 
 <!-- sida 159 -->
 
@@ -7172,7 +7227,7 @@ Nämndens självskattning
 
 13
 
-[Tabell 160-1](handlingar.tabeller/160-1.csv)
+[Tabell 160-161-1](handlingar.tabeller/160-161-1.csv)
 
 | Område<br>Uppdrag och mål | Svar<br>Frågor<br>2025<br>Är mål, styrdokument, rutiner etc. kända i organisationen |
 | --- | --- |
@@ -7190,6 +7245,10 @@ Nämndens självskattning
 | Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens processer är dokumenterade<br>(ingår i rutiner) och kända |
 |  | Vi har system/rutiner för att förslag, synpunkter och klagomål<br>sammanställs och leder till förbättringar |
 | Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
+| Område | Svar<br>Frågor<br>2025<br>Återkoppling sker till förvaltningsledningen |
+|  | Vi återkopplar resultat av uppföljning till politiskt ansvariga |
+| Information/kommunikation | Introduktion av nya chefer sker enligt programmet<br>"Kungsbackaledaren bas" |
+|  | Vi har en fungerande introduktion av nya medarbetare |
 
 <!-- sida 161 -->
 
@@ -7197,14 +7256,6 @@ Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Internkontrollrapport 2025 -
 
 14
-
-[Tabell 161-1](handlingar.tabeller/161-1.csv)
-
-| Område | Svar<br>Frågor<br>2025<br>Återkoppling sker till förvaltningsledningen |
-| --- | --- |
-|  | Vi återkopplar resultat av uppföljning till politiskt ansvariga |
-| Information/kommunikation | Introduktion av nya chefer sker enligt programmet<br>"Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya medarbetare |
 
 <!-- sida 162 -->
 
@@ -9450,11 +9501,15 @@ mellan vad som framgår av Avtalet och Gotits rutin framgår av matrisen nedan.2
 
 29
 
-[Tabell 217-1](handlingar.tabeller/217-1.csv)
+[Tabell 217-218-1](handlingar.tabeller/217-218-1.csv)
 
 |  | åtgärder relaterade till Incidenten inom de<br>tidsfrister som framgår av tabellen under punkt<br>18.3. | och att åtgärder<br>påbörjats. |
 | --- | --- | --- |
 | Bilaga C2 SLA<br>p. 2 samt Bilaga<br>C5 Allmänna<br>bestämmelser<br>p. 18.3 | Prioritering av incidenter sker enligt avsnitt två<br>i Bilaga C2 SLA, samt Bilaga C5 Allmänna<br>bestämmelser p. 18.3, enligt följande.<br>Brådskande: Starttid för analys eller åtgärd ska<br>vara inom 2 timmar från mottagande av<br>incidentanmälan. Återrapportering ska ske<br>varannan timme. Incidenten ska vara avhjälp<br>inom 8 timmar från mottagande av<br>incidentanmälan.<br>Hög: Starttid för analys eller åtgärd ska vara<br>inom 2 timmar från mottagande av<br>incidentanmälan. Återrapportering ska ske var<br>4:e timme. Incidenten ska vara avhjälp inom 8<br>timmar från mottagande av incidentanmälan.<br>Normal: Starttid för analys eller åtgärd ska<br>vara inom 1 kalenderdag från mottagande av<br>incidentanmälan. Återrapportering ska ske<br>dagligen. Incidenten ska vara avhjälp inom 5<br>kalenderdagar från mottagande av<br>incidentanmälan. | Prioritering av incidenter<br>sker enligt Gotits<br>prioriteringsmodell enligt<br>följande.<br>i. Kritisk: Allvarliga<br>incidenter som har<br>mycket stor påverkan på<br>verksamheten innebär<br>brådskande (sic!) att<br>undanröja incidenten.<br>Gotit ska påbörja<br>felanalys och<br>felavhjälpande inom 2<br>timmar efter upptäckt<br>eller inkommen<br>anmälan.<br>ii. Hög: Allvarliga<br>incidenter som har<br>påverkar på vissa<br>användare innebär<br>brådskande (sic!) att<br>undanröja incidenten.<br>Gotit ska påbörja<br>felanalys inom 4 timmar<br>efter upptäckt eller<br>inkommen anmälan.<br>iii. Medium: Incidenter<br>som har mindre<br>påverkan på<br>verksamheten innebär<br>angeläget (sic!) att<br>undanröja incidenten.<br>Gotit ska påbörja<br>felanalys inom 8 timmar<br>efter upptäckt eller<br>inkommen anmälan.<br>iv. Låg: Incident utan<br>påverkan på<br>verksamheten som<br>endast kräver åtgärder<br>efter överenskommelse<br>och rättelse i ny version.<br>hög, medel och låg, med<br>återrapporterings- och<br>avhjälpandetider som |
+|  |  | avviker från<br>avtalstexten. |
+| Bilaga C5<br>Allmänna<br>bestämmelser<br>p. 18.5 | Kommunen ska vid Incidentanmälan ange<br>prioritering. Om Incidentanmälan sker på annat<br>sätt ska Leverantören ange en preliminär<br>prioritering av Incidentens allvarlighetsgrad.<br>Oenighet mellan Parterna i fråga om<br>Incidenters prioritering ska lösas i efterhand<br>inom ramen för Månadsmötet. Till dess äger<br>Kommunen uppfattning om Incidentens<br>allvarlighetsgrad företräde framför<br>Leverantörens. | Gotit, i anslutning till att<br>ett ärende inkommit, gör<br>en bedömning av vilken<br>prioritering ärendet ska<br>ha med utgångspunkt av<br>ärendets karaktär och<br>innehåll. |
+| Bilaga C5<br>Allmänna<br>bestämmelser<br>p. 18.10 | En Incident får avslutas genom att den<br>Användare som anmälde Incidenten till<br>Kommunen Centrala Verksamhetsstöd (”CVS”)<br>verifierar att Felet är avhjälpt. Åtgärdandetiden<br>slutar löpa vid den tidpunkt då avhjälpande är<br>verifierat och Leverantören registrerat att<br>Incidenten är avhjälpt i sitt<br>ärendehanteringssystem. | Ett ärende stängs när en<br>lösning är identifierad<br>och införd samt<br>dokumenterad i<br>ärendehanterings-<br>systemet. |
+| Bilaga C5<br>Allmänna<br>bestämmelser<br>p. 18.4. | Leverantören får avhjälpa Incidenter genom<br>Tillfälliga Lösningar. Anvisning om<br>kringgående av Incident eller Problem får bara<br>användas som åtgärd under förutsättning att (i)<br>Leverantören kan ange sakliga skäl för att<br>kringgående (i) är en lika bra eller bättre<br>lösning jämfört med avhjälpande och (ii)<br>Leverantören kan visa att ett kringgående i det<br>specifika fallet inte leder till olägenheter för<br>Kommunen. | Ett ärende anses stängt<br>även om lösning är<br>identifierad och<br>framtagen via en<br>temporär lösning,<br>exempelvis via en work-<br>around. Om denna<br>lösning innebär rättning i<br>systemet kommer<br>leverans ske enligt<br>leverans- och<br>versionshantering. |
 
 <!-- sida 218 -->
 
@@ -9478,14 +9533,6 @@ och extern konsult för tillkommande administrativt arbete som inte hade behövt
 avtalsenlig leverans.
 
 30
-
-[Tabell 218-1](handlingar.tabeller/218-1.csv)
-
-|  |  | avviker från<br>avtalstexten. |
-| --- | --- | --- |
-| Bilaga C5<br>Allmänna<br>bestämmelser<br>p. 18.5 | Kommunen ska vid Incidentanmälan ange<br>prioritering. Om Incidentanmälan sker på annat<br>sätt ska Leverantören ange en preliminär<br>prioritering av Incidentens allvarlighetsgrad.<br>Oenighet mellan Parterna i fråga om<br>Incidenters prioritering ska lösas i efterhand<br>inom ramen för Månadsmötet. Till dess äger<br>Kommunen uppfattning om Incidentens<br>allvarlighetsgrad företräde framför<br>Leverantörens. | Gotit, i anslutning till att<br>ett ärende inkommit, gör<br>en bedömning av vilken<br>prioritering ärendet ska<br>ha med utgångspunkt av<br>ärendets karaktär och<br>innehåll. |
-| Bilaga C5<br>Allmänna<br>bestämmelser<br>p. 18.10 | En Incident får avslutas genom att den<br>Användare som anmälde Incidenten till<br>Kommunen Centrala Verksamhetsstöd (”CVS”)<br>verifierar att Felet är avhjälpt. Åtgärdandetiden<br>slutar löpa vid den tidpunkt då avhjälpande är<br>verifierat och Leverantören registrerat att<br>Incidenten är avhjälpt i sitt<br>ärendehanteringssystem. | Ett ärende stängs när en<br>lösning är identifierad<br>och införd samt<br>dokumenterad i<br>ärendehanterings-<br>systemet. |
-| Bilaga C5<br>Allmänna<br>bestämmelser<br>p. 18.4. | Leverantören får avhjälpa Incidenter genom<br>Tillfälliga Lösningar. Anvisning om<br>kringgående av Incident eller Problem får bara<br>användas som åtgärd under förutsättning att (i)<br>Leverantören kan ange sakliga skäl för att<br>kringgående (i) är en lika bra eller bättre<br>lösning jämfört med avhjälpande och (ii)<br>Leverantören kan visa att ett kringgående i det<br>specifika fallet inte leder till olägenheter för<br>Kommunen. | Ett ärende anses stängt<br>även om lösning är<br>identifierad och<br>framtagen via en<br>temporär lösning,<br>exempelvis via en work-<br>around. Om denna<br>lösning innebär rättning i<br>systemet kommer<br>leverans ske enligt<br>leverans- och<br>versionshantering. |
 
 <!-- sida 219 -->
 
@@ -9978,6 +10025,34 @@ i Kungsbacka kommun vid införandet av Skolplatsen under perioden 2021–2025.
 
 J.2   Skriftlig bevisning
 
+Nr Bevistema                                           Åberopad
+handling
+
+att Gotit ska tillsi.e a tt systemet är utformat med en tillräckligt hög säkerhetsnivå med - C0
+tekniska skyddsåtgärder och funktioner och flöden för att effektivt upptäcka och
+1\.                                                      - C1
+administrera skyldigheten att rapportera personuppgiftsincidenter till den
+registrerade och Integritetsskyddsmyndigheten        - C2
+\- C5
+\- C6
+\- 2
+
+2\. at t Gotit har en omsorgsplikt som innebär en skyldighet för Gotit att avråda från - C0
+lösningar som riskerar att försvåra eller omöjliggöra för kommunen att uppfylla
+\- C1
+lagstadgade skyldigheter inom IT-säkerhet.
+\- C2
+\- C3
+\- C5
+
+\- C6
+3\. at t Gotit är skyldigt att vidta nödvändiga åtgärder för att under hela avtalstiden - C0
+efterleva den avtalade IT-säkerheten. Skyldigheten innebär att efterleva
+\- C1
+kommunens redovisade regler för data- och informationssäkerhet och
+säkerhetsföreskrifter.                               - C5
+\- C6
+
 40
 
 [Tabell 228-1](handlingar.tabeller/228-1.csv)
@@ -9987,75 +10062,227 @@ J.2   Skriftlig bevisning
 | Johanna Friberg | Nr 1–43. |
 | Anna Hedlund | Nr 1–43. |
 
-[Tabell 228-2](handlingar.tabeller/228-2.csv)
-
-| Nr | Bevistema | Åberopad<br>handling |
-| --- | --- | --- |
-| 1. | att Gotit ska tillsi.e a tt systemet är utformat med en tillräckligt hög säkerhetsnivå med<br>tekniska skyddsåtgärder och funktioner och flöden för att effektivt upptäcka och<br>administrera skyldigheten att rapportera personuppgiftsincidenter till den<br>registrerade och Integritetsskyddsmyndigheten | - C0<br>- C1<br>- C2<br>- C5<br>- C6<br>- 2 |
-| 2. | at t Gotit har en omsorgsplikt som innebär en skyldighet för Gotit att avråda från<br>lösningar som riskerar att försvåra eller omöjliggöra för kommunen att uppfylla<br>lagstadgade skyldigheter inom IT-säkerhet. | - C0<br>- C1<br>- C2<br>- C3<br>- C5<br>- C6 |
-| 3. | at t Gotit är skyldigt att vidta nödvändiga åtgärder för att under hela avtalstiden<br>efterleva den avtalade IT-säkerheten. Skyldigheten innebär att efterleva<br>kommunens redovisade regler för data- och informationssäkerhet och<br>säkerhetsföreskrifter. | - C0<br>- C1<br>- C5<br>- C6 |
-
 <!-- sida 229 -->
+
+Nr Bevistema                                           Åberopad
+handling
+4\. at t Gotit ska tillse att all kommunikation till och från systemet ska vara skyddad mot - C0
+obehörig åtkomst.
+\- C4
+
+5\. at t Gotit ska åtgärda identifierade brister avseende IT-säkerheten omgående enligt - C0
+dokumenterad plan och redovisa för kommunen.
+\- C1
+\- C4
+\- C5
+
+6\. at t Gotit ska ha dokumenterade rutiner för hantering av säkerhetsincidenter. - C0
+\- C1
+
+\- C4
+\- C5
+
+7\. at t Gotit har en skyldighet att säkerställa korrekta behörigheter i systemet. - C0
+
+\- C1
+\- C5
+
+\- C6
+8\. at t Gotit inte har sett till att systemet är utformat med tillräcklig hög säkerhetsnivå, - 4
+inte uppfyllt sin omsorgsplikt och inte vidtagit nödvändiga åtgärder för att efterleva
+\- 37
+avtalade IT-säkerheten.
+9\. at t Systemet som Gotit levererat har upprepade gånger visat fel avseende - 4
+skyddsnivåerna, och att inte utformat systemet med tillräcklig hög säkerhetsnivå
+\- 37
+och att systemet inte uppfyllt kommunens kravlista.
+10\. at t Gotit inte har tillsett att systemet är skyddat mot obehörig åtkomst - 4
+\- 37
+
+11\. at t Gotit inte har åtgärdat identifierade brister omgående. - 4
+
+\- 37
+12\. at t Gotit inte har haft dokumenterade rutiner för incidenthantering - 4
+
+\- 37
+
+13\. at t Gotit inte har säkerställt korrekta behörigheter i systemet. - 4
+\- 37
+
+14\. at t Gotit har skyldigheter att följa avtalade processer och rutiner för - C5
+förvaltningsåtagandet, inklusive incidenthanteringsarbete
+\- C6
+15\. at t Gotit har underlåtit att följa avtalade rutiner för incidenthantering. - C5
+
+\- C6
+\- 4
 
 41
 
-[Tabell 229-1](handlingar.tabeller/229-1.csv)
-
-| Nr | Bevistema | Åberopad<br>handling |
-| --- | --- | --- |
-| 4. | at t Gotit ska tillse att all kommunikation till och från systemet ska vara skyddad mot<br>obehörig åtkomst. | - C0<br>- C4 |
-| 5. | at t Gotit ska åtgärda identifierade brister avseende IT-säkerheten omgående enligt<br>dokumenterad plan och redovisa för kommunen. | - C0<br>- C1<br>- C4<br>- C5 |
-| 6. | at t Gotit ska ha dokumenterade rutiner för hantering av säkerhetsincidenter. | - C0<br>- C1<br>- C4<br>- C5 |
-| 7. | at t Gotit har en skyldighet att säkerställa korrekta behörigheter i systemet. | - C0<br>- C1<br>- C5<br>- C6 |
-| 8. | at t Gotit inte har sett till att systemet är utformat med tillräcklig hög säkerhetsnivå,<br>inte uppfyllt sin omsorgsplikt och inte vidtagit nödvändiga åtgärder för att efterleva<br>avtalade IT-säkerheten. | - 4<br>- 37 |
-| 9. | at t Systemet som Gotit levererat har upprepade gånger visat fel avseende<br>skyddsnivåerna, och att inte utformat systemet med tillräcklig hög säkerhetsnivå<br>och att systemet inte uppfyllt kommunens kravlista. | - 4<br>- 37 |
-| 10. | at t Gotit inte har tillsett att systemet är skyddat mot obehörig åtkomst | - 4<br>- 37 |
-| 11. | at t Gotit inte har åtgärdat identifierade brister omgående. | - 4<br>- 37 |
-| 12. | at t Gotit inte har haft dokumenterade rutiner för incidenthantering | - 4<br>- 37 |
-| 13. | at t Gotit inte har säkerställt korrekta behörigheter i systemet. | - 4<br>- 37 |
-| 14. | at t Gotit har skyldigheter att följa avtalade processer och rutiner för<br>förvaltningsåtagandet, inklusive incidenthanteringsarbete | - C5<br>- C6 |
-| 15. | at t Gotit har underlåtit att följa avtalade rutiner för incidenthantering. | - C5<br>- C6<br>- 4 |
-
 <!-- sida 230 -->
+
+Nr Bevistema                                           Åberopad
+handling
+\- 37
+
+16\. at t Gotit innan skarp driftsättning ska utföra en fullständig migrering och - C3
+testkonvertering av data till Testmiljön, för kommunens godkännande.
+\- 5
+17\. at t Parterna har haft en gällande införandeplan för förskola och grundskola daterad - C3
+den 13 september 2023, enligt vilken leverans för förskola och grundskola skulle
+ske den 15 februari 2024.
+
+18\. at t Gotit har kommunicerat Gotits uppfattning att leverans för förskola och - C3
+grundskola skulle ske den 15 februari 2024.
+\- 34
+\- 35
+
+19\. at t Gotit den 20 februari 2024 lämnade ett nytt förslag på införandeplan, som - 34
+kommunen inte godkände utan protesterade emot.
+\- 35
+20\. at t Gotit ensidigt skjutit upp planerad leverans till den 18 september 2024, vilket - C3
+innebär att Gotit varit i dröjsmål.
+\- 34
+\- 35
+
+21\. at t Gotit var skyldigt att fullgöra åtgärder i enlighet med bilaga 1 till förlikningsavtalet, - 2
+dvs. Restlistan.
+
+22\. at t 281 krav gällde för införandet av förskola och grundskola enligt avtalet. - C1
+23\. at t Gotit var skyldigt att lämna fullständiga och felfria testprotokoll för egenkontroll, - C1
+att testprotokollen är fullständiga om kommunen kan verifiera att systemet har
+\- C5
+förutsättningar att uppnå vad som krävs, och att testprotokollen är felfria om
+testprotokollen visar att testfall genomförts av leverantören med lyckat resultat.
+24\. at t Gotits leverans den 18 september 2024 avvek från avtalade krav, då 162 krav - 3
+fanns inte eller uppfyllde inte kravställningen, och 44 krav inte var testbara eller
+möjliga att verifiera.
+
+25\. at t Gotit lämnade oriktiga uppgifter i protokollen från egenkontrollen i strid med - 3
+avtalade krav på testprotokollen.
+
+26\. at t Gotit var i dröjsmål med leveransen, och att Gotit inte skulle kunna leverera - C4
+avtalad funktionalitet på avtalas leveransdag eller inom rimlig tid.
+\- 3
+27\. at t Gotit har beskrivit central funktionalitet som ”rymdraketer” vilka Gotit - 30
+underförstått inte har förmåga eller avsikt att leverera.
+
+28\. at t Gotit informerats om att dess agerande avviker från avtalet. - 38
+\- 39
+
+\- 40
+\- 41
+
+\- 42
 
 42
 
-[Tabell 230-1](handlingar.tabeller/230-1.csv)
-
-| Nr | Bevistema | Åberopad<br>handling |
-| --- | --- | --- |
-|  |  | - 37 |
-| 16. | at t Gotit innan skarp driftsättning ska utföra en fullständig migrering och<br>testkonvertering av data till Testmiljön, för kommunens godkännande. | - C3<br>- 5 |
-| 17. | at t Parterna har haft en gällande införandeplan för förskola och grundskola daterad<br>den 13 september 2023, enligt vilken leverans för förskola och grundskola skulle<br>ske den 15 februari 2024. | - C3 |
-| 18. | at t Gotit har kommunicerat Gotits uppfattning att leverans för förskola och<br>grundskola skulle ske den 15 februari 2024. | - C3<br>- 34<br>- 35 |
-| 19. | at t Gotit den 20 februari 2024 lämnade ett nytt förslag på införandeplan, som<br>kommunen inte godkände utan protesterade emot. | - 34<br>- 35 |
-| 20. | at t Gotit ensidigt skjutit upp planerad leverans till den 18 september 2024, vilket<br>innebär att Gotit varit i dröjsmål. | - C3<br>- 34<br>- 35 |
-| 21. | at t Gotit var skyldigt att fullgöra åtgärder i enlighet med bilaga 1 till förlikningsavtalet,<br>dvs. Restlistan. | - 2 |
-| 22. | at t 281 krav gällde för införandet av förskola och grundskola enligt avtalet. | - C1 |
-| 23. | at t Gotit var skyldigt att lämna fullständiga och felfria testprotokoll för egenkontroll,<br>att testprotokollen är fullständiga om kommunen kan verifiera att systemet har<br>förutsättningar att uppnå vad som krävs, och att testprotokollen är felfria om<br>testprotokollen visar att testfall genomförts av leverantören med lyckat resultat. | - C1<br>- C5 |
-| 24. | at t Gotits leverans den 18 september 2024 avvek från avtalade krav, då 162 krav<br>fanns inte eller uppfyllde inte kravställningen, och 44 krav inte var testbara eller<br>möjliga att verifiera. | - 3 |
-| 25. | at t Gotit lämnade oriktiga uppgifter i protokollen från egenkontrollen i strid med<br>avtalade krav på testprotokollen. | - 3 |
-| 26. | at t Gotit var i dröjsmål med leveransen, och att Gotit inte skulle kunna leverera<br>avtalad funktionalitet på avtalas leveransdag eller inom rimlig tid. | - C4<br>- 3 |
-| 27. | at t Gotit har beskrivit central funktionalitet som ”rymdraketer” vilka Gotit<br>underförstått inte har förmåga eller avsikt att leverera. | - 30 |
-| 28. | at t Gotit informerats om att dess agerande avviker från avtalet. | - 38<br>- 39<br>- 40<br>- 41<br>- 42 |
-
 <!-- sida 231 -->
+
+Nr Bevistema                                           Åberopad
+handling
+29\. at t Gotit inte har anpassat systemet för att löpande hantera betygssättning. - 4
+
+30\. at t Gotit inte har utformat systemet så att faktureringen blir korrekt. - 4
+
+31\. at t en väsentlig och avtalad funktionalitet är systemets förmåga att integrera med - C0
+andra system.
+\- C1
+32\. at t Gotit inte har fått integrationerna att fungera. - 3
+
+\- 4
+\- 30
+
+\- 31
+\- 32
+
+33\. at t leveransen försenats och skjutits upp flera gånger - 30
+\- 31
+
+\- 32
+\- 34
+
+\- 35
+\- 37
+
+\- 39
+\- 40
+
+\- 41
+\- 42
+
+\- 43
+34\. at t försenad och framskjuten leverans har berott på Gotits oförmåga att leverera - C0
+avtalade krav i tid.
+\- C3
+\- 31
+
+\- 32
+\- 34
+
+\- 35
+\- 37
+
+\- 39
+\- 40
+
+\- 41
+\- 42
+
+\- 43
+35\. at t kommunen flera gånger har begärt rättelse av Gotits avtalsbrott. - 39
 
 43
 
-[Tabell 231-1](handlingar.tabeller/231-1.csv)
-
-| Nr | Bevistema | Åberopad<br>handling |
-| --- | --- | --- |
-| 29. | at t Gotit inte har anpassat systemet för att löpande hantera betygssättning. | - 4 |
-| 30. | at t Gotit inte har utformat systemet så att faktureringen blir korrekt. | - 4 |
-| 31. | at t en väsentlig och avtalad funktionalitet är systemets förmåga att integrera med<br>andra system. | - C0<br>- C1 |
-| 32. | at t Gotit inte har fått integrationerna att fungera. | - 3<br>- 4<br>- 30<br>- 31<br>- 32 |
-| 33. | at t leveransen försenats och skjutits upp flera gånger | - 30<br>- 31<br>- 32<br>- 34<br>- 35<br>- 37<br>- 39<br>- 40<br>- 41<br>- 42<br>- 43 |
-| 34. | at t försenad och framskjuten leverans har berott på Gotits oförmåga att leverera<br>avtalade krav i tid. | - C0<br>- C3<br>- 31<br>- 32<br>- 34<br>- 35<br>- 37<br>- 39<br>- 40<br>- 41<br>- 42<br>- 43 |
-| 35. | at t kommunen flera gånger har begärt rättelse av Gotits avtalsbrott. | - 39 |
-
 <!-- sida 232 -->
+
+Nr Bevistema                                           Åberopad
+handling
+\- 40
+
+\- 41
+\- 42
+
+\- 43
+36\. at t kommunens fordran på återbetalning uppgår till 3 171 607 kr. - 6
+
+\- 7
+\- 8
+
+\- 9
+\- 10
+
+\- 11
+\- 12
+
+37\. at t kommunens fordran på skadestånd uppgår till 7 236 913 kr. - 13
+
+\- 14
+\- 15
+\- 16
+
+\- 17
+\- 18
+
+\- 19
+\- 21
+
+\- 22
+\- 23
+
+\- 24
+\- 25
+
+\- 26
+\- 27
+
+\- 28
+\- 29
+
+\- 30
+38\. at t kommunen har rätt till yrkad avkastningsränta. - 1
+
+39\. at t kommunen har rätt till yrkad dröjsmålsränta.   - 1
 
 K.    ÖVRIGT
 
@@ -10064,23 +10291,13 @@ K.    ÖVRIGT
 
 44
 
-[Tabell 232-1](handlingar.tabeller/232-1.csv)
-
-| Nr | Bevistema | Åberopad<br>handling |
-| --- | --- | --- |
-|  |  | - 40<br>- 41<br>- 42<br>- 43 |
-| 36. | at t kommunens fordran på återbetalning uppgår till 3 171 607 kr. | - 6<br>- 7<br>- 8<br>- 9<br>- 10<br>- 11<br>- 12 |
-| 37. | at t kommunens fordran på skadestånd uppgår till 7 236 913 kr. | - 13<br>- 14<br>- 15<br>- 16<br>- 17<br>- 18<br>- 19<br>- 21<br>- 22<br>- 23<br>- 24<br>- 25<br>- 26<br>- 27<br>- 28<br>- 29<br>- 30 |
-| 38. | at t kommunen har rätt till yrkad avkastningsränta. | - 1 |
-| 39. | at t kommunen har rätt till yrkad dröjsmålsränta. | - 1 |
-
 <!-- sida 233 -->
 
 L.    BILAGOR
 
 45
 
-[Tabell 233-1](handlingar.tabeller/233-1.csv)
+[Tabell 233-234-1](handlingar.tabeller/233-234-1.csv)
 
 | Nr. | Namn | Datum |
 | --- | --- | --- |
@@ -10112,19 +10329,6 @@ L.    BILAGOR
 | 19. | IST:s faktura nr 273977 | 2025-10-31 |
 | 20. | IST:s faktura nr 272823 | 2025-03-11 |
 | 21. | Kvadrats faktura nr 9073 | 2024-04-04 |
-
-<!-- sida 234 -->
-
-Som ovan
-
-Lars Arrhed      Pontus Etéus     Reid Lindell
-
-46
-
-[Tabell 234-1](handlingar.tabeller/234-1.csv)
-
-| Nr. | Namn | Datum |
-| --- | --- | --- |
 | 22. | Kvadrats faktura nr 9170 | 2024-04-30 |
 | 23. | Kvadrats faktura nr 9269 | 2024-05-31 |
 | 24. | Kvadrats faktura nr 9393 | 2024-06-30 |
@@ -10147,6 +10351,14 @@ Lars Arrhed      Pontus Etéus     Reid Lindell
 | 41. | Agenda för krismöte 2 | 2022-04-29 |
 | 42. | Brev från kommunen till Gotit | 2024-02-08 |
 | 43. | Brev från kommunen till Gotit | 2024-04-17 |
+
+<!-- sida 234 -->
+
+Som ovan
+
+Lars Arrhed      Pontus Etéus     Reid Lindell
+
+46
 
 <!-- sida 235 -->
 
@@ -10467,9 +10679,9 @@ Dokument
 Förlikningsavtal                    Bilaga 1 Restlista
 Huvuddokument                       Bilaga 1
 5 sidor                             15 sidor
-Startades 2023-11-17 10:55:10 CET (+0100) av Staffan Sammanfogad med huvuddokumentet
+Startades 2023-11-1710:55:10CET (+0100) av Staffan Sammanfogad med huvuddokumentet
 Malmgren (SM)                       Bifogad av Staffan Malmgren (SM)
-Färdigställt 2023-11-20 10:40:56 CET (+0100)
+Färdigställt 2023-11-2010:40:56CET (+0100)
 
 Initierare
 
@@ -10489,7 +10701,7 @@ Personnummer (personnummer borttaget)            Personnummer (personnummer bort
 
 Namnet som returnerades från svenskt BankID var Namnet som returnerades från svenskt BankID var
 "STIGERT PETTERSSON"                "JÖRGEN RÖNNING"
-Signerade 2023-11-20 10:40:56 CET (+0100) Signerade 2023-11-17 11:45:13 CET (+0100)
+Signerade 2023-11-2010:40:56CET (+0100) Signerade 2023-11-1711:45:13CET (+0100)
 
 1/2
 
@@ -10552,7 +10764,7 @@ Restlista, sid. 2-4                                                             
 Transaktion 04617043639293267720 Bilaga 1
 2
 
-[Tabell 245-1](handlingar.tabeller/245-1.csv)
+[Tabell 245-246-1](handlingar.tabeller/245-246-1.csv)
 
 | Krav-ID | Release | Kravtext | Hänvisning | Användarbeskrivning | Justering 230825 | Kategori | Övrigt |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -10560,19 +10772,15 @@ Transaktion 04617043639293267720 Bilaga 1
 | 2.3.50 | 2023-12-04 | Som administratör vill jag kunna placera gymnasiesärelever i<br>en fritidsgrupp som enkelt ska kunna administreras och<br>skickas över till andra system enligt SS12000-standard. |  | Det saknas den kravställda funktion<br>genom vilken jag som administratör<br>ska kunna placera gymnasiesärelever i<br>en fritidsgrupp och skicka över<br>resultatet till andra system efter att ha<br>genomfört grundläggande<br>administration. | Gotit hårdkodar en grupptyp som går med<br>integrationen SS12000 till Vklass fritidshem | Integration |  |
 | 2.5.09 | 2023-12-04 | Som gymnasieadministratör vill jag flexibelt kunna<br>återanvända tidigare års undervisningsgrupper exempelvis<br>genom att kopiera. Det för att många grupper inte kan skapas<br>utifrån en logisk struktur utan måste skapas manuellt. Exempel<br>på det är språkgrupper. | Av Ordlistan framgår att: Undervisningsgrupp: En organisatorisk del där en<br>samling elever undervisas gemensamt i ett ämne eller kurs. Grupp: Alla<br>typer av grupper som förekommer i undervisningsverksamhet. Exempelvis<br>mentorsgrupp, lunchtid osv. Av Regelsamlingen framgår det att det finns en<br>del av gruppstrukturen som återvänds varje nytt läsår och kan inte skapas<br>utifrån en logisk följd från poängplan och klass. Systemet ska kunna<br>återanvända undervisningsgrupper utifrån föregående läsår. | När jag som gymnasieadministratör<br>återskapar de undervisningsgrupper<br>som Systemet inte med automatik kan<br>skapa utifrån poängplanen behöver jag<br>ange start- och slutdatum för<br>undervisnings-grupperna. För att<br>uppnå kravuppfyllnad krävs att<br>Systemet anger nästa läsårs start- och<br>slutdatum för undervisningsgrupperna. | Gotit återställer automatiseringen så att man<br>kodmässigt föreslår kommande grupper med start<br>och slutdatum exakt ett år fram åt från<br>originalgruppens datum. | Grupper |  |
 | 4.1.15 | 2023-12-04 | Systemet ska innehålla en dubbelriktad integration mot Elin för<br>att skicka och ta emot information om elevers skolplacering i<br>Göteborgsregionen. Systemet ska skriva in elever automatiskt<br>genom att använda skolplacering från Elin. | Av Ordlistan framgår att ELIN är ett Externt system. ELIN är<br>Göteborgsregionens gemensamma elevinformationssystem. | Jag som ekonom kan inte verifiera att<br>eleverna som framgår fakturaunderlag<br>från andra kommun/skola som framgår<br>av fakturaunderlaget. Detta då<br>Systemet inte har skrivit in eleverna<br>automatiskt i Systemet. För<br>närvarande har Systemet endast<br>tillhandahållit den inlästa informationen<br>från ELIN och instruerat kommunen de<br>tillkommande manuella administrativa<br>åtgärder från ekonom att utföra som<br>krävs för att uppnå det kravställda<br>resultatet. Kravet är emellertid inte<br>uppfyllt innan antagningsinformationen<br>(som läses tillbaka från ELIN) är<br>automatiskt inskriven i Systemet som<br>framgår av kravet. Kravet är emellertid<br>inte uppfyllt innan<br>antagningsinformationen (som läses<br>tillbaka från ELIN) är automatiskt<br>inskriven i Systemet som framgår av<br>kravet. | Gotit lägger till checkbox i vyn som gör att admin<br>kan hantera flera elever samtidigt utan att växla<br>vy. Dialog med kommunen och specificera lösning<br>innan så Kommunen kan verifiera. | Integration |  |
+| 4.1.23 | 2023-12-04 | Systemet ska innehålla en integration för överföring av<br>ekonomiunderlag till ekonomisystemet Raindance. Systemet<br>ska kunna automatisera följande flöden:<br>FSK/FTH Interkommunal ersättning FSK/FTH Bidrag<br>fristående verksamhet FSK/FTH Vårdnadshavare fakturor<br>avgift FSK/FTH Intern resursfördelning<br>GR Interkommunal ersättning<br>GR Intern resursfördelning<br>GR Bidrag fristående verksamhet<br>GY Inackorderingsbidrag<br>GY Interkommunal ersättning GY Bidrag fristående<br>verksamhet GY Intern resursfördelning<br>GYS Vårdnadshavare faktura måltid<br>EFL Intern resursfördelning<br>EFL Fakturor fristående verksamhet<br>EFL Fakturor GY<br>EFL Fakturor GR<br>Underlag för bidrag som skickas till ekonomisystemet för<br>fristående förskolor, pedagogisk omsorg, fritidshem,<br>grundskola, gymnasieskola, gymnasiesärskola ska innehålla<br>information om mottagare (fristående enheten), elev/barn<br>namn/personnummer, program, inriktning prismodell, årskurs,<br>belopp (totalt per enhet och per barn/elev)<br>Fakturaunderlag som skickas till ekonomisystemet för förskola,<br>fritidshem, grundskola, gymnasieskola, gymnasiesärskola till<br>andra kommuner ska innehålla mottagare (kommun), referens,<br>elev/barn namn/personnummer, placering, prismodell,<br>program, inriktning, åk, be- lopp (totalt per kommun och per<br>barn/elev) |  | När jag som Ekonom skapar<br>fakturaunderlag från Systemet saknas<br>information om betalningsmottagare<br>och period enligt krav. För att uppnå<br>kravuppfyllnad krävs att Systemet<br>skapar fakturaunderlag enligt<br>specifikation i krav. | Mail med specifikation mailades till Andreas och<br>Peter 2023-08-25 Utöver de Excel-dokument som<br>systemet redan skapar ska Gotit skapa fasta<br>underlagsrapporter som kommer ut i PDF. | Ekonomi |  |
+| 4.1.32a | 2023-12-04 | Systemet ska kunna integrera med kommunens olika<br>bibliotekssystem, Quria. |  | När jag som administratör ska ta ut en<br>fil till bibliotekssystem (Quria) så<br>kommer inte samtliga parametrar med<br>i filen. | · Elev Namn · Elev Personnummer · Elev Klass ·<br>Elev Adress · Elev e-postadress · VH1<br>Personnummer · VH1 Adress · VH2<br>Personnummer · VH2 Adress CSV format | Integration |  |
+| 4.1.45 | 2023-12-04 | Systemet ska kunna skapa grupper där namngivningen<br>bestäms av en namnstandard för att kunna ge information om<br>vilka som ingår i gruppen. | Gymnasiets namnstandard är: 1. Betygsgrupp: KURSKOD-KLASS; Ex:<br>FYSFYS01a-TE19A; 2. Labbgrupp KURSKOD-KLASS: a; EX: FYSFYS01a-<br>TE19A: a, FYSFYS01a TE19A:b; 3. Betygsgrupp med flera klasser i flera<br>grupper: KURSKOD-PROGRAMSTARTÅR:1, KURSKOD-<br>PROGRAMSTARTÅR:2; MATMAT01c-TE19:1, MATMAT01c-TE19:2,<br>MATMAT01c-TE19:3 | När jag som gymnasieadministratör<br>granskar Systemets föreslagna<br>grupper utifrån gymnasiets<br>namnstandard så saknas möjlighet att<br>använda format och specialtecken.<br>Detta då bindestreck bland annat<br>saknas. För att uppnå kravuppfyllnad<br>behöver gymnasiets namnstandard<br>tillämpas. | Gotit lägger till möjligheten att skapa grupper<br>utifrån en önskad utökad namnstandard. Den<br>utökade namnstandarden innebär att man, utöver<br>det som systemet redan medger, ska kunna<br>använda klass, bindestreck, kolon, snedstreck för<br>att kunna namnge alla de olika grupptyper man<br>har. | Grupper |  |
+| 4.1.48 | 2023-12-04 | Systemet ska kunna skapa en masterfil med all data om<br>placeringen för varje elev/barn med mätdatum 15:e i varje<br>månad som ska gå att exportera till Excel och kunna arkiveras.<br>Fält som ska finnas med i filen är: Namn, personnummer,<br>enhet, årskurs, klass, placeringsdatum, slutdatum,<br>pedagogiskt område, hemkommun, antal timmar (gäller<br>pedagogisk omsorg) anteckningsfält, kategori, verksamhet,<br>program, inriktning, årskurs och läsår. | Med Kategori för gymnasiet avses ansvar baserat på studieväg, enhet mm. | När jag som Ekonom skapar en<br>masterfil i Systemet med aktuell<br>information som är specificerat i kravet<br>så kan inte Systemet får med all<br>information i en och samma fil. Jag<br>som Ekonom behöver arbeta ihop filer<br>manuellt utanför Systemet för att få<br>den masterfil som krävs. För att uppnå<br>kravuppfyllnad krävs att Systemet kan<br>ta ut en masterfil med all specifikation<br>som framgår av kravet. | Gotit sammanställer rapportfil för ekonomerna<br>enligt de givna parametrarna: Namn,<br>personnummer, enhet, årskurs, klass,<br>placeringsdatum, slutdatum, pedagogiskt område,<br>hemkommun, antal timmar (gäller pedagogisk<br>omsorg) anteckningsfält, kategori, verksamhet,<br>program, inriktning, årskurs och läsår. Observera<br>att med Kategori avser kommunen Ansvar. Etapp<br>2 har skickat specifikation av kategori via mail<br>Samt se vilken kommun Skolan är placerad<br>(Skolort). | Ekonomi |  |
 
 <!-- sida 246 -->
 
 Transaktion 04617043639293267720 Bilaga 1
 3
-
-[Tabell 246-1](handlingar.tabeller/246-1.csv)
-
-| 4.1.23 | 2023-12-04 | Systemet ska innehålla en integration för överföring av<br>ekonomiunderlag till ekonomisystemet Raindance. Systemet<br>ska kunna automatisera följande flöden:<br>FSK/FTH Interkommunal ersättning FSK/FTH Bidrag<br>fristående verksamhet FSK/FTH Vårdnadshavare fakturor<br>avgift FSK/FTH Intern resursfördelning<br>GR Interkommunal ersättning<br>GR Intern resursfördelning<br>GR Bidrag fristående verksamhet<br>GY Inackorderingsbidrag<br>GY Interkommunal ersättning GY Bidrag fristående<br>verksamhet GY Intern resursfördelning<br>GYS Vårdnadshavare faktura måltid<br>EFL Intern resursfördelning<br>EFL Fakturor fristående verksamhet<br>EFL Fakturor GY<br>EFL Fakturor GR<br>Underlag för bidrag som skickas till ekonomisystemet för<br>fristående förskolor, pedagogisk omsorg, fritidshem,<br>grundskola, gymnasieskola, gymnasiesärskola ska innehålla<br>information om mottagare (fristående enheten), elev/barn<br>namn/personnummer, program, inriktning prismodell, årskurs,<br>belopp (totalt per enhet och per barn/elev)<br>Fakturaunderlag som skickas till ekonomisystemet för förskola,<br>fritidshem, grundskola, gymnasieskola, gymnasiesärskola till<br>andra kommuner ska innehålla mottagare (kommun), referens,<br>elev/barn namn/personnummer, placering, prismodell,<br>program, inriktning, åk, be- lopp (totalt per kommun och per<br>barn/elev) |  | När jag som Ekonom skapar<br>fakturaunderlag från Systemet saknas<br>information om betalningsmottagare<br>och period enligt krav. För att uppnå<br>kravuppfyllnad krävs att Systemet<br>skapar fakturaunderlag enligt<br>specifikation i krav. | Mail med specifikation mailades till Andreas och<br>Peter 2023-08-25 Utöver de Excel-dokument som<br>systemet redan skapar ska Gotit skapa fasta<br>underlagsrapporter som kommer ut i PDF. | Ekonomi |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 4.1.32a | 2023-12-04 | Systemet ska kunna integrera med kommunens olika<br>bibliotekssystem, Quria. |  | När jag som administratör ska ta ut en<br>fil till bibliotekssystem (Quria) så<br>kommer inte samtliga parametrar med<br>i filen. | · Elev Namn · Elev Personnummer · Elev Klass ·<br>Elev Adress · Elev e-postadress · VH1<br>Personnummer · VH1 Adress · VH2<br>Personnummer · VH2 Adress CSV format | Integration |  |
-| 4.1.45 | 2023-12-04 | Systemet ska kunna skapa grupper där namngivningen<br>bestäms av en namnstandard för att kunna ge information om<br>vilka som ingår i gruppen. | Gymnasiets namnstandard är: 1. Betygsgrupp: KURSKOD-KLASS; Ex:<br>FYSFYS01a-TE19A; 2. Labbgrupp KURSKOD-KLASS: a; EX: FYSFYS01a-<br>TE19A: a, FYSFYS01a TE19A:b; 3. Betygsgrupp med flera klasser i flera<br>grupper: KURSKOD-PROGRAMSTARTÅR:1, KURSKOD-<br>PROGRAMSTARTÅR:2; MATMAT01c-TE19:1, MATMAT01c-TE19:2,<br>MATMAT01c-TE19:3 | När jag som gymnasieadministratör<br>granskar Systemets föreslagna<br>grupper utifrån gymnasiets<br>namnstandard så saknas möjlighet att<br>använda format och specialtecken.<br>Detta då bindestreck bland annat<br>saknas. För att uppnå kravuppfyllnad<br>behöver gymnasiets namnstandard<br>tillämpas. | Gotit lägger till möjligheten att skapa grupper<br>utifrån en önskad utökad namnstandard. Den<br>utökade namnstandarden innebär att man, utöver<br>det som systemet redan medger, ska kunna<br>använda klass, bindestreck, kolon, snedstreck för<br>att kunna namnge alla de olika grupptyper man<br>har. | Grupper |  |
-| 4.1.48 | 2023-12-04 | Systemet ska kunna skapa en masterfil med all data om<br>placeringen för varje elev/barn med mätdatum 15:e i varje<br>månad som ska gå att exportera till Excel och kunna arkiveras.<br>Fält som ska finnas med i filen är: Namn, personnummer,<br>enhet, årskurs, klass, placeringsdatum, slutdatum,<br>pedagogiskt område, hemkommun, antal timmar (gäller<br>pedagogisk omsorg) anteckningsfält, kategori, verksamhet,<br>program, inriktning, årskurs och läsår. | Med Kategori för gymnasiet avses ansvar baserat på studieväg, enhet mm. | När jag som Ekonom skapar en<br>masterfil i Systemet med aktuell<br>information som är specificerat i kravet<br>så kan inte Systemet får med all<br>information i en och samma fil. Jag<br>som Ekonom behöver arbeta ihop filer<br>manuellt utanför Systemet för att få<br>den masterfil som krävs. För att uppnå<br>kravuppfyllnad krävs att Systemet kan<br>ta ut en masterfil med all specifikation<br>som framgår av kravet. | Gotit sammanställer rapportfil för ekonomerna<br>enligt de givna parametrarna: Namn,<br>personnummer, enhet, årskurs, klass,<br>placeringsdatum, slutdatum, pedagogiskt område,<br>hemkommun, antal timmar (gäller pedagogisk<br>omsorg) anteckningsfält, kategori, verksamhet,<br>program, inriktning, årskurs och läsår. Observera<br>att med Kategori avser kommunen Ansvar. Etapp<br>2 har skickat specifikation av kategori via mail<br>Samt se vilken kommun Skolan är placerad<br>(Skolort). | Ekonomi |  |
 
 <!-- sida 247 -->
 
@@ -10706,27 +10914,23 @@ Restlista, sid. 9-10                                                            
 Transaktion 04617043639293267720 Bilaga 1
 9
 
-[Tabell 252-1](handlingar.tabeller/252-1.csv)
+[Tabell 252-253-1](handlingar.tabeller/252-253-1.csv)
 
 | Krav-ID | Release | Kravtext | Hänvisning | Användarbeskrivning | Justering 230825 | Kategori | Övrigt |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.5.01 | 2024-06-18 | Som gymnasieadministratör vill jag att systemet tillämpar<br>Regler Gymnasiet i alla administrativa processer som finns i<br>systemet | Av ordlistan framgår att en poängplanen ska omfatta skolans beslutade<br>struktur och planering av hur kurser ska fördelas över årskurser och<br>terminer. Bygger på Skolverkets programstruktur. Av regelsamlingen<br>framgår att den lokala poängplanen innebär att kurserna planeras för<br>årskurs och termin för programmets startår. Exempelvis så kan<br>poängplanen för Teknikprogrammet skilja sig åt om eleven startar 2019 eller<br>2020 och därmed i vilken ordning, kursutbud eller vilken årskurs/termin<br>eleven läser en kurs. Av Krav 2.5.1 framgår att regelsamlingen ska tillämpas<br>för alla administrativa processer. | När jag som administratör ändrar i<br>poängplanen att en kurs ska läsas på<br>vårterminen i stället för höstterminen<br>saknas möjlighet att ange vilken termin<br>som kurs ska läsas på. Systemet<br>uppfyller inte kravet på att tillämpa<br>ordlista och regelsamlingen i detta fall<br>eftersom det inte går att ange vilken<br>termin kursen ska läsas i<br>poängplanen. Avser även krav: 2.5.2;<br>2.5.6; 2.5.10; 2.5.26; 4.1.42; 4.1.10;<br>5.3.1; 5.3.13 | 1. Kopplingen termin i studieplansmallen ska få<br>genomslag i automatskapa grupp och därmed rätt<br>start- och slutdatum för gruppen. Ex. 150p kurs<br>som går över hela åk.1 och ht åk.1 får ex. datum<br>230817–250117. Ska vara synligt med termin i<br>elevens individuella studieplan. Kommunen måste<br>kunna ange start- och slutdatum för termin för<br>respektive läsår som ska få genomslag i hela<br>systemet. Gotit lägger till möjlighet att koppla<br>program till skolenhet. När man registrerar en elev<br>på skolenhet så kommer program som ej finns på<br>skolenheten inte accepteras i registreringen. När<br>eleven placerats på program och i klass ska<br>eleven med automatik tilldelas de grupper som är<br>kopplade till klassen under förutsättning att det<br>inte finns fler än en, varvid manuell hantering ska<br>ske. Man kommer fortfarande kunna spara eleven<br>utan skolenhet på program då detta är ett annat<br>krav från Kommunen att kunna registrera elev<br>utan bestämd skolenhet. Gotit ser till så att man<br>kan justera frånvarotiden för en elev både för höst | Elevadministrat<br>ion, Termin,<br>Gruppkoppling |  |
 |  |  |  |  |  | och vårterminen på ett läsår oavsett datum vid<br>utskrift. Som admin vill jag att det ska gå att<br>registrera kurser terminsvis på<br>studieplansmallarna och på så sätt få en mer<br>detaljerad vy över elevernas studieplaner. Detta<br>ska få genomslag i automatskapa grupp så att<br>grupper hamnar på rätt terminer automatiskt och<br>får korrekt start och slutdatum. Detta ska vara<br>synligt på elevens studieplan. När man anger start-<br>och slutdatum på termin ska det få genomslag på<br>dessa punkter i systemet. |  |  |
 | 2.5.07 | 2024-06-18 | Som gymnasieadministratör vill jag kunna granska och ändra<br>systemets förslag till undervisningsgrupper innan de sparas.<br>Detta för att all information om nästa läsårs<br>undervisningsgrupper inte finns i systemet vid tillfället när<br>undervisningsgrupperna skapas. | Av Ordlistan framgår att: Undervisningsgrupp: En organisatorisk del där en<br>samling elever undervisas gemensamt i ett ämne eller kurs. Grupp: Alla<br>typer av grupper som förekommer i undervisningsverksamhet. Exempelvis<br>mentorsgrupp, lunchtid osv. Av Regelsamlingen framgår det att Systemet<br>ska automatiskt kunna skapa undervisningsgrupper utifrån poängplan och<br>klass. Utifrån poängplan ser man vilka kurser som eleven ska läsa under<br>terminen. Då skapas en undervisningsgrupp för varje klass som har den här<br>kursen. Exempel Utifrån poängplanen för samhällsprogrammet läser alla<br>elever Engelska 5 under HT/VT i årkurs 1. Då ska en undervisningsgrupp<br>skapas för varje klass i årskurs 1 med den namnstandard som är föreskriven<br>i designrestriktionerna | När jag som gymnasieadministratör vill<br>granska och ändra Systemets förslag<br>till undervisningsgrupper kan jag inte<br>göra de ändringar som krävs för att<br>undervisningsgrupperna ska bli<br>korrekta. En ändring av<br>undervisningsgrupp innebär<br>exempelvis; antal<br>undervisningsgrupper, namn,<br>tidsperiod, typ av grupp. Systemet<br>automatskapar inte<br>undervisningsgrupperna utifrån klass<br>och poängplan utan det krävs<br>manuella administrativa steg för att<br>skapa rätt undervisningsgrupp. För att<br>uppnå kravresultat krävs att Systemet<br>automatiskt skapar<br>undervisningsgrupper utifrån<br>poängplan och klass. Samt att<br>gymnasieadministratören kan göra de<br>ändringar som krävs för att skapa<br>korrekta undervisningsgrupper. | Gotit gör nödvändiga tillägg av funktionalitet i<br>funktionen Automatskapa grupp för att möta<br>önskemålen. 1. Möjlighet att koppla klasser i<br>gruppgenerering. 2. Möjlighet att välja de klasser<br>man vill autoskapa för, exempelvis SA23a – e. 3.<br>Funktionen ska då skapa relevanta grupper tex<br>ENG5-SA23a – e 4. Möjlighet att skapa alla<br>grupptyper som man har i kommunen genom att<br>man väljer om grupptypen ska vara tillgänglig i<br>Automatskapa grupp. 5. Möjlighet att lägga in<br>egna rader (se grundskolans funktion) 6. Lägga<br>till en radera-funktion per rad i Automatskapa<br>grupp. 7. Lägga till en checkruta där man enkelt<br>kan ange vilken termin som gruppen ska vara<br>aktiv. Förtydligande: Finns de 5 st klasser i åk.1<br>på SA-programmet så ska de skapas ex. 5 st<br>grupper för kursen engelska 5. En för vardera<br>klassen. | Grupper |  |
+| 4.1.10 | 2024-06-18 | Systemet ska – i tillämpliga delar av de Centrala<br>Verksamhetsprocesserna – vara konfigurerat i enlighet med de<br>vid var tid styrande regler som följer nedanstående<br>regelsamlingar | Av regelsamlingen, gymnasieförordning - följer att huvudmannen ska skriva<br>in elever på program som är registrerade på Skolverkets skolenhetsregister.<br>Av Krav 2.5.1 framgår att regelsamlingen ska tillämpas för alla<br>administrativa processer. | När jag som administratör skriver in en<br>elev manuellt under pågående termin<br>blir eleven inskriven av systemet på<br>byggprogrammet på skolenhet 1 trots<br>att detta program inte är registrerat på<br>Skolverkets skolenhetsregister för<br>denna skolenhet. Detta misstag kan<br>uppstå eftersom Systemet föreslår alla<br>program för skolan. Systemet uppfyller<br>inte kravet på att tillämpa<br>regelsamlingen i detta fall eftersom vi<br>som huvudman inte kunnat koppla<br>program till skolenheter. | Gotit lägger till möjlighet att koppla program till<br>skolenhet. När man registrerar en elev på<br>skolenhet så kommer program som ej finns på<br>skolenheten inte accepteras i registreringen. När<br>eleven placerats på program och i klass ska<br>eleven med automatik tilldelas de grupper som är<br>kopplade till klassen under förutsättning att det<br>inte finns fler än en, varvid manuell hantering ska<br>ske. Man kommer fortfarande kunna spara eleven<br>utan skolenhet på program då detta är ett annat<br>krav från Kungsbacka att kunna registrera elev<br>utan bestämd skolenhet. | Elevadministrat<br>ion |  |
+| 2.5.10 | 2024-06-18 | Som gymnasieadministratör vill jag att elev ska kunna tilldelas<br>enhet, skolform, klass, årskurs, program, inriktning,<br>undervisningsgrupper och individuell studieplan. Detta för att<br>kunna dokumentera elevens utbildning. | Systemet ska tilldela eleven de grupper som de med automatik tillhör när<br>eleven tilldelats enhet, skolform, program, inriktning och klass. När en elev<br>som går i en klass ska läsa en kurs aktuell termin enligt den individuella<br>studieplanen så ska systemet med automatik placera eleven i den<br>undervisningsgruppen om det inte finns flera undervisningsgrupper att välja<br>på. Exempelvis eleven läser Engelska 5 och går i klass SA20A. Eleven<br>placeras i undervisningsgruppen ENGENG05-SA20A. | När jag som administratör skriver in en<br>elev i Systemet ska Systemet placera<br>eleven automatiskt i<br>undervisningsgrupper för kurser som<br>finns i den individuella studieplanen.<br>Systemet uppfyller inte kravet på att<br>tillämpa regelsamlingen i detta fall<br>eftersom Systemet inte placerar<br>automatiskt eleven i<br>undervisningsgrupp utan<br>administratören måste hantera det<br>manuellt. Kravet är därmed inte | Regelsamling 2.5.1 & 2.5.38 Gotit kompletterar<br>bilaga i krav 2.5.1 Systemet tilldelar eleven de<br>grupper som är kopplade till elevens klass. Finns<br>de fler än en grupp i samma kurs/tillfälle så<br>hanteras kopplingen manuellt. | Automatisk | Se punkt 3<br>under krav<br>2.5.1 |
+| 2.5.02 | 2024-06-18 | Som gymnasieadministratör vill jag kunna registrera läsårstider<br>och start- och sluttider för läsåret för att kunna rapportera till<br>CSN på korrekt sätt och för att organisering av skolan knyts till<br>läsåret. | Av regelsamlingen framgår att den lokala poängplanen innebär att kurserna<br>planeras för årskurs och termin för programmets startår. Av Krav 2.5.1<br>framgår att regelsamlingen ska tillämpas för alla administrativa processer | uppfyllt.<br>Som gymnasieadministratör behöver<br>Systemet vara master gällande data<br>för läsårstider så att jag därefter kan<br>manuellt rapportera in dem varje år till<br>CSN på ett korrekt sätt. Det är inte<br>möjligt att ange start- och sluttid för<br>hösttermin och vårtermin. |  | Termin | Se 2.5.1 |
+| 2.5.06 | 2024-06-18 | Som gymnasieadministratör vill jag kunna göra ändringar i<br>poängplaner som systemet har skapat, för att effektivisera mitt<br>arbete. | Av ordlistan framgår att en poängplanen ska omfatta skolans beslutade<br>struktur och planering av hur kurser ska fördelas över årskurser och<br>terminer. Bygger på Skolverkets programstruktur. Av regelsamlingen<br>framgår att den lokala poängplanen innebär att kurserna planeras för<br>årskurs och termin för programmets startår. Exempelvis så kan poäng-<br>planen för Teknikprogrammet skilja sig åt om eleven startar 2019 eller 2020<br>och därmed i vilken ordningen, kursutbud eller vilken årskurs/termin eleven<br>läser en kurs. Av Krav 2.5.1 framgår att regelsamlingen ska tillämpas för alla<br>administrativa processer. | När jag som administratör ändrar i<br>poängplanen att en kurs ska läsas på<br>vårterminen i stället för höstterminen<br>saknas möjlighet att ange termin som<br>kurs ska läsas. Systemet uppfyller inte<br>kravet på att tillämpa ordlista och<br>regelsamlingen i detta fall eftersom det<br>inte går att ange vilken termin kursen<br>ska läsas i poängplanen. |  | Termin | Se 2.5.1 |
+| 4.1.42 | 2024-06-18 | Systemet ska innehålla timplaner, programstrukturer och<br>kurser från Skolverket. | Av ordlistan framgår att en poängplanen ska omfatta skolans beslutade<br>struktur och planering av hur kurser ska fördelas över årskurser och<br>terminer. Bygger på Skolverkets programstruktur. Av regelsamlingen<br>framgår att den lokala poängplanen innebär att kurserna planeras för<br>årskurs och termin för programmets startår. Exempelvis så kan<br>poängplanen för Teknikprogrammet skilja sig åt om eleven startar 2019 eller<br>2020 och därmed i vilken ordning, kursutbud eller vilken årskurs/termin<br>eleven läser en kurs. Av Krav 2.5.1 framgår att regelsamlingen ska tillämpas<br>för alla administrativa processer. | När jag som administratör planerar när<br>kurserna ska läsas för respektive<br>program/inriktning/årskurs/startår har<br>jag behov att ange vilken/vilka<br>terminer kursen ska läsas. Detta för att<br>en kurs kan läsas på en eller flera<br>terminer. Systemet uppfyller inte<br>kravet såsom det definieras med<br>ledning av ordlistan. Systemet<br>uppfyller inte heller kravet att tillämpa<br>regelsamlingen. I detta fall går det inte<br>att ange vilken termin kursen ska läsas<br>i poängplanen. | Kopplingen termin i studieplansmallen ska få<br>genomslag i automatskapa grupp och därmed rätt<br>start- och slutdatum för gruppen. Ex. 150p kurs<br>som går över hela åk.1 och ht åk.1 får datum<br>230817–250117 Ska vara synligt med termin i<br>elevens individuella studieplan KBA måste kunna<br>ange start- och slutdatum för termin för respektive<br>läsår som ska få genomslag i hela systemet. | Terminer | Se 2.5.1 |
 
 <!-- sida 253 -->
 
 Transaktion 04617043639293267720 Bilaga 1
 10
-
-[Tabell 253-1](handlingar.tabeller/253-1.csv)
-
-| 4.1.10 | 2024-06-18 | Systemet ska – i tillämpliga delar av de Centrala<br>Verksamhetsprocesserna – vara konfigurerat i enlighet med de<br>vid var tid styrande regler som följer nedanstående<br>regelsamlingar | Av regelsamlingen, gymnasieförordning - följer att huvudmannen ska skriva<br>in elever på program som är registrerade på Skolverkets skolenhetsregister.<br>Av Krav 2.5.1 framgår att regelsamlingen ska tillämpas för alla<br>administrativa processer. | När jag som administratör skriver in en<br>elev manuellt under pågående termin<br>blir eleven inskriven av systemet på<br>byggprogrammet på skolenhet 1 trots<br>att detta program inte är registrerat på<br>Skolverkets skolenhetsregister för<br>denna skolenhet. Detta misstag kan<br>uppstå eftersom Systemet föreslår alla<br>program för skolan. Systemet uppfyller<br>inte kravet på att tillämpa<br>regelsamlingen i detta fall eftersom vi<br>som huvudman inte kunnat koppla<br>program till skolenheter. | Gotit lägger till möjlighet att koppla program till<br>skolenhet. När man registrerar en elev på<br>skolenhet så kommer program som ej finns på<br>skolenheten inte accepteras i registreringen. När<br>eleven placerats på program och i klass ska<br>eleven med automatik tilldelas de grupper som är<br>kopplade till klassen under förutsättning att det<br>inte finns fler än en, varvid manuell hantering ska<br>ske. Man kommer fortfarande kunna spara eleven<br>utan skolenhet på program då detta är ett annat<br>krav från Kungsbacka att kunna registrera elev<br>utan bestämd skolenhet. | Elevadministrat<br>ion |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.5.10 | 2024-06-18 | Som gymnasieadministratör vill jag att elev ska kunna tilldelas<br>enhet, skolform, klass, årskurs, program, inriktning,<br>undervisningsgrupper och individuell studieplan. Detta för att<br>kunna dokumentera elevens utbildning. | Systemet ska tilldela eleven de grupper som de med automatik tillhör när<br>eleven tilldelats enhet, skolform, program, inriktning och klass. När en elev<br>som går i en klass ska läsa en kurs aktuell termin enligt den individuella<br>studieplanen så ska systemet med automatik placera eleven i den<br>undervisningsgruppen om det inte finns flera undervisningsgrupper att välja<br>på. Exempelvis eleven läser Engelska 5 och går i klass SA20A. Eleven<br>placeras i undervisningsgruppen ENGENG05-SA20A. | När jag som administratör skriver in en<br>elev i Systemet ska Systemet placera<br>eleven automatiskt i<br>undervisningsgrupper för kurser som<br>finns i den individuella studieplanen.<br>Systemet uppfyller inte kravet på att<br>tillämpa regelsamlingen i detta fall<br>eftersom Systemet inte placerar<br>automatiskt eleven i<br>undervisningsgrupp utan<br>administratören måste hantera det<br>manuellt. Kravet är därmed inte | Regelsamling 2.5.1 & 2.5.38 Gotit kompletterar<br>bilaga i krav 2.5.1 Systemet tilldelar eleven de<br>grupper som är kopplade till elevens klass. Finns<br>de fler än en grupp i samma kurs/tillfälle så<br>hanteras kopplingen manuellt. | Automatisk | Se punkt 3<br>under krav<br>2.5.1 |
-| 2.5.02 | 2024-06-18 | Som gymnasieadministratör vill jag kunna registrera läsårstider<br>och start- och sluttider för läsåret för att kunna rapportera till<br>CSN på korrekt sätt och för att organisering av skolan knyts till<br>läsåret. | Av regelsamlingen framgår att den lokala poängplanen innebär att kurserna<br>planeras för årskurs och termin för programmets startår. Av Krav 2.5.1<br>framgår att regelsamlingen ska tillämpas för alla administrativa processer | uppfyllt.<br>Som gymnasieadministratör behöver<br>Systemet vara master gällande data<br>för läsårstider så att jag därefter kan<br>manuellt rapportera in dem varje år till<br>CSN på ett korrekt sätt. Det är inte<br>möjligt att ange start- och sluttid för<br>hösttermin och vårtermin. |  | Termin | Se 2.5.1 |
-| 2.5.06 | 2024-06-18 | Som gymnasieadministratör vill jag kunna göra ändringar i<br>poängplaner som systemet har skapat, för att effektivisera mitt<br>arbete. | Av ordlistan framgår att en poängplanen ska omfatta skolans beslutade<br>struktur och planering av hur kurser ska fördelas över årskurser och<br>terminer. Bygger på Skolverkets programstruktur. Av regelsamlingen<br>framgår att den lokala poängplanen innebär att kurserna planeras för<br>årskurs och termin för programmets startår. Exempelvis så kan poäng-<br>planen för Teknikprogrammet skilja sig åt om eleven startar 2019 eller 2020<br>och därmed i vilken ordningen, kursutbud eller vilken årskurs/termin eleven<br>läser en kurs. Av Krav 2.5.1 framgår att regelsamlingen ska tillämpas för alla<br>administrativa processer. | När jag som administratör ändrar i<br>poängplanen att en kurs ska läsas på<br>vårterminen i stället för höstterminen<br>saknas möjlighet att ange termin som<br>kurs ska läsas. Systemet uppfyller inte<br>kravet på att tillämpa ordlista och<br>regelsamlingen i detta fall eftersom det<br>inte går att ange vilken termin kursen<br>ska läsas i poängplanen. |  | Termin | Se 2.5.1 |
-| 4.1.42 | 2024-06-18 | Systemet ska innehålla timplaner, programstrukturer och<br>kurser från Skolverket. | Av ordlistan framgår att en poängplanen ska omfatta skolans beslutade<br>struktur och planering av hur kurser ska fördelas över årskurser och<br>terminer. Bygger på Skolverkets programstruktur. Av regelsamlingen<br>framgår att den lokala poängplanen innebär att kurserna planeras för<br>årskurs och termin för programmets startår. Exempelvis så kan<br>poängplanen för Teknikprogrammet skilja sig åt om eleven startar 2019 eller<br>2020 och därmed i vilken ordning, kursutbud eller vilken årskurs/termin<br>eleven läser en kurs. Av Krav 2.5.1 framgår att regelsamlingen ska tillämpas<br>för alla administrativa processer. | När jag som administratör planerar när<br>kurserna ska läsas för respektive<br>program/inriktning/årskurs/startår har<br>jag behov att ange vilken/vilka<br>terminer kursen ska läsas. Detta för att<br>en kurs kan läsas på en eller flera<br>terminer. Systemet uppfyller inte<br>kravet såsom det definieras med<br>ledning av ordlistan. Systemet<br>uppfyller inte heller kravet att tillämpa<br>regelsamlingen. I detta fall går det inte<br>att ange vilken termin kursen ska läsas<br>i poängplanen. | Kopplingen termin i studieplansmallen ska få<br>genomslag i automatskapa grupp och därmed rätt<br>start- och slutdatum för gruppen. Ex. 150p kurs<br>som går över hela åk.1 och ht åk.1 får datum<br>230817–250117 Ska vara synligt med termin i<br>elevens individuella studieplan KBA måste kunna<br>ange start- och slutdatum för termin för respektive<br>läsår som ska få genomslag i hela systemet. | Terminer | Se 2.5.1 |
 
 <!-- sida 254 -->
 
@@ -10734,27 +10938,23 @@ Restlista, sid. 11-12                                                          R
 
 Transaktion 04617043639293267720 Bilaga 1                                 11
 
-[Tabell 254-1](handlingar.tabeller/254-1.csv)
+[Tabell 254-255-1](handlingar.tabeller/254-255-1.csv)
 
 | Krav-ID | Release | Kravtext | Hänvisning | Användarbeskrivning | Justering 230825 | Kategori | Övrigt |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2.5.18 | 2024-09-10 | Som elev vill jag kunna ansöka om att byte om kurs,<br>undervisningsgrupp, utökat program, klass, inriktning i<br>systemet under pågående läsår. Detta för att jag kan ha behov<br>av att förändra studiegång. | Av Ordlistan framgår: Undervisningsgrupp: En organisatorisk del där en<br>samling elever undervisas gemensamt i ett ämne eller kurs. Grupp: Alla<br>typer av grupper som förekommer undervisningsverksamhet. Exempelvis<br>mentorsgrupp, lunchtid osv. Inriktning: Kurser/ämnen som är obligatoriska<br>inom inriktningen för ett program. Klass: En organisatorisk samling barn och<br>elever i en skola, är oberoende av ämne/kurs. Från Gymnasieförordningen<br>framgår att: Kurs: En kurs är ett definierat och avgränsat avsnitt i en<br>utbildning. En kurs har en kurskod. Kurskod: Kurskoden består av max tio<br>tecken/positioner. De flesta kurser har koder som består av sju tecken. De<br>första sex positionerna är förkortningar av ämnets och kursens namn. De<br>första tre bokstäverna är de inledande bokstäverna i ämnets namn och tre<br>nästkommande är de inledande bokstäverna i kursens namn. 2.5<br>Administration gymnasiet Utifrån elevens perspektiv inleds processen med<br>att tidigare gjord ansökan leder till att elev blir antagen. Eleven kan, enligt<br>gällande lagstiftning, välja att göra ändringar i studieplan, valbara kurser och<br>att anpassa sin studiegång. 4.1.42 Systemet ska innehålla timplaner,<br>programstrukturer och kurser från Skolverket. | När jag som elev har behov att<br>förändra min studiegång så erbjuder<br>Systemet ett val av kategori inom<br>vilket område förändringen ska ske.<br>(byte av kurs, klass, etc.) Jag kan<br>emellertid inte genomföra bytet<br>eftersom det saknas möjlighet att välja<br>de alternativ som är möjliga för mig<br>med avseende på den kategorin jag<br>valt. Av vad leverantören anger i<br>Egenkontrollen och under testfall<br>GA29 i Bilaga 1 till brev 2023-03-01 är<br>inte en lösning på hur eleven ska<br>kunna genomföra kravställt byte detta<br>eftersom den kravställda funktionen<br>enligt leverantörens beskrivning måste<br>genomföras manuellt av en<br>administratör för att uppnå de<br>ändamålet med kravet. Därmed är<br>kravet inte uppfyllt innan eleven kan<br>genomföra valet genom att genomföra<br>samtliga individuella val i Systemet. | Som elev vill jag att systemet hjälper mig att göra<br>en ansökan om byte av kurs, grupp, klass,<br>inriktning eller utökat. Detta för att minska risken<br>att jag gör fel val. Gotit kompletterar med<br>specifikation av lösning som Kommunen får<br>godkänna innan. | Ansökan |  |
 | 2.5.19 | 2024-09-10 | Som gymnasieadministratör vill jag kunna granska elevens<br>ansökan om kurs, undervisningsgrupp, utökat program, klass,<br>inriktning för att kunna förbereda beslut åt rektor. |  | Syftet med funktionen är att<br>administratören ska förbereda beslut<br>åt Rektor. Det beslut som avses är<br>Rektorsbeslut att godkänna eller avslå<br>elevens ansökan om förändring. För<br>att åstadkomma det måste<br>administratören kunna granska<br>förutsättningarna för elevens ansökan.<br>Med förutsättningar avses i detta<br>sammanhang information och detaljer<br>om tid och plats för både elev och<br>skola när det gäller om kurs,<br>undervisningsgrupp, utökat program,<br>klass och inriktning. Innan Systemet<br>ger administratören möjligheter att<br>meddela Rektor att beslutsunderlaget<br>är förberett är inte kravet uppfyllt. | Gotit kompletterar med specifikation av lösning.<br>Som admin vill jag enkelt kunna granska elevers<br>ansökningar om byte av kurs, grupp, klass,<br>inriktning eller utökat, och enkelt kunna markera<br>om bytet kan ske så att rektor snabbt kan<br>handlägga ärendet. | Ansökan |  |
 | 5.1.04 | 2024-09-10 | Som ekonom eller administratör inom förskola- och fritidshem,<br>grundskola och gymnasium vill jag att det i vissa rapporter ska<br>kunna filtreras på kommunens organisationsträd, samt<br>generella filter för datumintervall, kategori, geografiskt<br>område, skolform, kommunal- eller fristående regi,<br>pedagogiskt område, hemkommun och särskoleplacering |  |  |  | Rapporter |  |
+| 2.5.04 | 2024-09-10 | Som gymnasieadministratör vill jag kunna välja vilka<br>inriktningar, programfördjupningar och individuella val som är<br>aktuella för skolan och som blir grunden för den lokala<br>poängplanen. Detta för att jag inte manuellt ska behöva lägga<br>till varje kurs som programmet innehåller. | Av Regelsamling framgår att varje program har olika inriktningar, valbara<br>programfördjupningar och individuella valbara kurser. Paketeringen av<br>kurser som är valbara för elever kan ändras varje år och är unikt för varje<br>gymnasieskola och program. Systemet måste därför vara flexibelt och<br>enkelt att justera. Val av inriktning och kurser att utgångspunkten är<br>Skolverkets program och programstrukturer. Utifrån den organiserar och<br>beslutar rektor vilka kurser som eleven ska kunna välja. Det styrs av: 1.<br>Program eleven går på; 2. Årskurs eleven är inskriven på; 3. Inriktning<br>eleven väljer Eleven ska därför göra en mängd val av inriktningar,<br>fördjupningspaket och individuella kurser. | När jag som administratör anger vilka<br>inriktningar, programfördjupningar och<br>individuella val som är aktuella för<br>skolan kan jag inte ange vilka<br>inriktningar som är valbara under<br>aktuellt läsår. När jag försöker ange<br>aktuella inriktningar för nästa läsår kan<br>jag enbart koppla till eller från för hela<br>skolan. Systemet uppfyller inte kravet<br>på att tillämpa regelsamlingen i detta<br>fall eftersom det inte går att välja vilka<br>inriktningar som är aktuella på skolan<br>för nästa läsår utan att påverka<br>elevers pågående inriktningar. | Specificering; elever som inte omfattas av valet<br>blir påverkade när inriktningarna sätts i valet.<br>Instruktioner ska kunna anges för respektive<br>inriktning. | Valmodul |  |
+| 2.5.15 | 2024-09-10 | Som gymnasieadministratör rektor och specialpedagog vill jag<br>kunna se sammanställning av individuella studieplaner för hel<br>klass samtidigt. Detta för att säkerställa elevs fullständiga<br>studiegång och gymnasieexamen. | Av kravet framgår att specialpedagog ska se samanställning av individuella<br>studieplaner för hel klass samtidigt. | När jag som specialpedagog ska<br>kontrollera en klass sammanställning<br>av individuella studieplaner saknas<br>funktionen. För att få den<br>informationen jag har behov av krävs<br>att jag går igenom varje elev<br>individuellt och gör en egen<br>samanställning utanför systemet.<br>Systemet uppfyller inte kravet i detta<br>fall eftersom specialpedagog inte kan<br>se sammanställning av individuella<br>studieplaner för hel klass samtidigt. | Gotit justerar behörighet för specialpedagog så att<br>de kan se och skriva ut sammanställning av<br>individuella studieplaner. (Se och skriva ut<br>samanställning av individuella studieplaner för hel<br>klass samtidigt) | Behörighet |  |
+| 2.5.42 | 2024-09-10 | Som gymnasieadministratör vill jag kunna öppna valet för en<br>enskild elev eftersom eleven kan ha varit frånvarande när<br>valet genomfördes. |  |  |  | Valmodul |  |
+| 3.3.05 | 2024-09-10 | Systemet ska ha ett flexibelt behörighetssystem som är<br>anpassat till Kommunens organisation och därtill<br>sammanhängande behörighetshierarki. Det skall vara möjligt<br>för behörig administratör på en högre nivå att administrera<br>behörigheter på en lägre nivå genom att tilldela behörighet att<br>lägga upp nya användare, tilldela eller ändra behörigheter<br>samt ta bort användare så att dessa användare endast får<br>tillgång till de funktioner och de uppgifter som de behöver för<br>att kunna fullgöra sitt arbete. Sådana ändringar ska ge ett<br>konsekvent genomslag i alla delar och på alla nivåer i<br>Systemet | Krav 2.5.15 När jag som specialpedagog ska kontrollera en klassens<br>sammanställning av individuella studieplaner saknas funktion. För att få den<br>informationen jag har behov av krävs att jag går igenom varje elev<br>individuellt och gör en egen samanställning utanför systemet. Systemet<br>uppfyller inte kravet i detta fall eftersom specialpedagog inte kan se<br>sammanställning av individuella studieplaner för hel klass samtidigt. Krav<br>5.3.8 När jag som lärare ska registrera beskrivning till specialiseringskurser<br>saknas funktionen i Systemet. Systemet uppfyller inte kravet i detta fall<br>eftersom lärare inte kan registrera beskrivning till specialiseringskurser | Krav 5.3.8 Av kravet framgår att lärare<br>ska registrera beskrivning till<br>specialiseringskurs. Krav 2.5.15 Av<br>kravet framgår att specialpedagog ska<br>se samanställning av individuella<br>studieplaner för hel klass samtidigt. | 5.3.8 Gotit anpassar systemet så att<br>gymnasielärare kan registrera beskrivning för<br>specialiseringskurser för hel grupp samtidigt.<br>2.5.15 behörigheten specialpedagog kopplas till<br>nuvarande funktion. (Se och skriva ut<br>samanställning av individuella studieplaner för hel<br>klass samtidigt) | Behörighet |  |
+| 5.3.08 | 2024-09-10 | Som gymnasielärare eller gymnasieadministratör vill jag<br>kunna registrera beskrivning till specialiseringskurser. Detta<br>för att beskrivningen ska finnas med på ”upplysningar betyg”<br>enligt gymnasieförordningen. |  |  | Som gymnasielärare vill jag kunna skriva<br>beskrivning på specialiseringskurser för en hel<br>grupp samtidigt utan att behöva skriva in<br>informationen för enskilda elever. | Behörighet | Se 3.3.5 |
 
 <!-- sida 255 -->
 
 Transaktion 04617043639293267720 Bilaga 1
 12
-
-[Tabell 255-1](handlingar.tabeller/255-1.csv)
-
-| 2.5.04 | 2024-09-10 | Som gymnasieadministratör vill jag kunna välja vilka<br>inriktningar, programfördjupningar och individuella val som är<br>aktuella för skolan och som blir grunden för den lokala<br>poängplanen. Detta för att jag inte manuellt ska behöva lägga<br>till varje kurs som programmet innehåller. | Av Regelsamling framgår att varje program har olika inriktningar, valbara<br>programfördjupningar och individuella valbara kurser. Paketeringen av<br>kurser som är valbara för elever kan ändras varje år och är unikt för varje<br>gymnasieskola och program. Systemet måste därför vara flexibelt och<br>enkelt att justera. Val av inriktning och kurser att utgångspunkten är<br>Skolverkets program och programstrukturer. Utifrån den organiserar och<br>beslutar rektor vilka kurser som eleven ska kunna välja. Det styrs av: 1.<br>Program eleven går på; 2. Årskurs eleven är inskriven på; 3. Inriktning<br>eleven väljer Eleven ska därför göra en mängd val av inriktningar,<br>fördjupningspaket och individuella kurser. | När jag som administratör anger vilka<br>inriktningar, programfördjupningar och<br>individuella val som är aktuella för<br>skolan kan jag inte ange vilka<br>inriktningar som är valbara under<br>aktuellt läsår. När jag försöker ange<br>aktuella inriktningar för nästa läsår kan<br>jag enbart koppla till eller från för hela<br>skolan. Systemet uppfyller inte kravet<br>på att tillämpa regelsamlingen i detta<br>fall eftersom det inte går att välja vilka<br>inriktningar som är aktuella på skolan<br>för nästa läsår utan att påverka<br>elevers pågående inriktningar. | Specificering; elever som inte omfattas av valet<br>blir påverkade när inriktningarna sätts i valet.<br>Instruktioner ska kunna anges för respektive<br>inriktning. | Valmodul |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.5.15 | 2024-09-10 | Som gymnasieadministratör rektor och specialpedagog vill jag<br>kunna se sammanställning av individuella studieplaner för hel<br>klass samtidigt. Detta för att säkerställa elevs fullständiga<br>studiegång och gymnasieexamen. | Av kravet framgår att specialpedagog ska se samanställning av individuella<br>studieplaner för hel klass samtidigt. | När jag som specialpedagog ska<br>kontrollera en klass sammanställning<br>av individuella studieplaner saknas<br>funktionen. För att få den<br>informationen jag har behov av krävs<br>att jag går igenom varje elev<br>individuellt och gör en egen<br>samanställning utanför systemet.<br>Systemet uppfyller inte kravet i detta<br>fall eftersom specialpedagog inte kan<br>se sammanställning av individuella<br>studieplaner för hel klass samtidigt. | Gotit justerar behörighet för specialpedagog så att<br>de kan se och skriva ut sammanställning av<br>individuella studieplaner. (Se och skriva ut<br>samanställning av individuella studieplaner för hel<br>klass samtidigt) | Behörighet |  |
-| 2.5.42 | 2024-09-10 | Som gymnasieadministratör vill jag kunna öppna valet för en<br>enskild elev eftersom eleven kan ha varit frånvarande när<br>valet genomfördes. |  |  |  | Valmodul |  |
-| 3.3.05 | 2024-09-10 | Systemet ska ha ett flexibelt behörighetssystem som är<br>anpassat till Kommunens organisation och därtill<br>sammanhängande behörighetshierarki. Det skall vara möjligt<br>för behörig administratör på en högre nivå att administrera<br>behörigheter på en lägre nivå genom att tilldela behörighet att<br>lägga upp nya användare, tilldela eller ändra behörigheter<br>samt ta bort användare så att dessa användare endast får<br>tillgång till de funktioner och de uppgifter som de behöver för<br>att kunna fullgöra sitt arbete. Sådana ändringar ska ge ett<br>konsekvent genomslag i alla delar och på alla nivåer i<br>Systemet | Krav 2.5.15 När jag som specialpedagog ska kontrollera en klassens<br>sammanställning av individuella studieplaner saknas funktion. För att få den<br>informationen jag har behov av krävs att jag går igenom varje elev<br>individuellt och gör en egen samanställning utanför systemet. Systemet<br>uppfyller inte kravet i detta fall eftersom specialpedagog inte kan se<br>sammanställning av individuella studieplaner för hel klass samtidigt. Krav<br>5.3.8 När jag som lärare ska registrera beskrivning till specialiseringskurser<br>saknas funktionen i Systemet. Systemet uppfyller inte kravet i detta fall<br>eftersom lärare inte kan registrera beskrivning till specialiseringskurser | Krav 5.3.8 Av kravet framgår att lärare<br>ska registrera beskrivning till<br>specialiseringskurs. Krav 2.5.15 Av<br>kravet framgår att specialpedagog ska<br>se samanställning av individuella<br>studieplaner för hel klass samtidigt. | 5.3.8 Gotit anpassar systemet så att<br>gymnasielärare kan registrera beskrivning för<br>specialiseringskurser för hel grupp samtidigt.<br>2.5.15 behörigheten specialpedagog kopplas till<br>nuvarande funktion. (Se och skriva ut<br>samanställning av individuella studieplaner för hel<br>klass samtidigt) | Behörighet |  |
-| 5.3.08 | 2024-09-10 | Som gymnasielärare eller gymnasieadministratör vill jag<br>kunna registrera beskrivning till specialiseringskurser. Detta<br>för att beskrivningen ska finnas med på ”upplysningar betyg”<br>enligt gymnasieförordningen. |  |  | Som gymnasielärare vill jag kunna skriva<br>beskrivning på specialiseringskurser för en hel<br>grupp samtidigt utan att behöva skriva in<br>informationen för enskilda elever. | Behörighet | Se 3.3.5 |
 
 <!-- sida 256 -->
 
@@ -10763,7 +10963,7 @@ Restlista, sid. 13-14                                                           
 Transaktion 04617043639293267720 Bilaga 1
 13
 
-[Tabell 256-1](handlingar.tabeller/256-1.csv)
+[Tabell 256-257-1](handlingar.tabeller/256-257-1.csv)
 
 | Krav-ID | Release | Kravtext | Hänvisning | Användarbeskrivning | Justering 230825 | Kategori | Övrigt |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -10772,17 +10972,13 @@ Transaktion 04617043639293267720 Bilaga 1
 | 2.5.39 | 2024-11-19 | Som gymnasieadministratör vill jag kunna definiera vilka val<br>som finns för varje program, inriktning och årskurs. Detta för<br>att elev ska kunna ha rätt alternativ att välja emellan. | Av Regelsamling framgår under rubriken Val av inriktning och kurser att<br>utgångspunkten är Skolverkets program och programstrukturer. Utifrån den<br>organiserar och beslutar rektor vilka kurser som eleven ska kunna välja. Det<br>styrs av: 1. Program eleven går på; 2. Årskurs eleven är inskriven på; 3.<br>Inriktning eleven väljer Eleven ska därför göra en mängd val av inriktningar,<br>fördjupningspaket och individuella kurser. | När jag som administratör definierar<br>vilka val som finns för varje program,<br>inriktning och årskurs kan jag ange<br>kurserna beroende på program<br>och/eller årskurs samt om en elev har<br>en inriktning. Däremot saknas funktion<br>i Systemet att definiera val av kurser<br>baserat på den inriktning eleven väljer.<br>Systemet uppfyller inte kravet på att<br>definiera val efter den inriktning eleven<br>väljer. |  | Valmodul |  |
 | 2.5.40 | 2024-11-19 | Som elev vill jag kunna ansöka om kurser för mitt<br>gymnasieprogram för att jag vill kunna välja inriktning,<br>fördjupningskurser och valbara kurser utifrån mitt eget intresse<br>och inom skolans utbud. | Av Regelsamling framgår att varje program har olika inriktningar, valbara<br>programfördjupningar och individuella valbara kurser. Paketeringen av<br>kurser som är valbara för elever kan ändras varje år och är unikt för varje<br>gymnasieskola och program. Systemet måste därför vara flexibelt och enkelt<br>att justera. Utgångspunkten är Skolverkets program och programstrukturer.<br>Utifrån dessa organiserar och beslutar rektor vilka kurser som eleven ska<br>kunna välja. Det styrs av: 1. Program eleven går på; 2. Årskurs eleven är<br>inskriven på; 3. Inriktning eleven väljer Eleven ska därför göra en mängd val<br>av inriktningar, fördjupningspaket och individuella kurser. När eleven gör val<br>av kurser så ska systemet säkra upp att; 4. Eleven inte läst kursen tidigare;<br>5. Eleven inte kan välja samma kurs som är gjort i förstahandsvalet för<br>programfördjupningskurser och individuella val. Individuella val, språkval och<br>programfördjupningar ska kunna paketeras i olika schemapositioner så att<br>eleven kan välja kurser som inte schemamässigt krockar | När jag som elev ska ansöka om<br>inriktning, fördjupningskurser och<br>valbara kurser har jag behov att veta<br>det valbara kursutbudet för respektive<br>inriktning. Detta för att jag ska<br>säkerställa att jag väljer rätt. Systemet<br>uppfyller inte kravet på att tillämpa<br>regelsamlingen i detta fall eftersom det<br>inte går att välja inriktning och därefter<br>under samma val få rätt kursutbud<br>presenterat för eleven. | Specificering; elev på ex. samhällsprogrammet<br>har obligatoriskt att läsa 200p språk och måste<br>därmed kunna välja språk som<br>programgemensamt. | Valmodul |  |
 | 2.5.41 | 2024-11-19 | Som elev vill jag att systemet ska presentera instruktioner för<br>mig hur mitt val ska genomföras. Detta för att jag enkelt ska<br>förstå vilka val jag ska göra. |  |  |  | Valmodul |  |
+| 2.5.44 | 2024-11-19 | Som gymnasieadministratör vill jag kunna själv styra<br>uppbyggnaden av valet och de instruktioner som ska finnas i<br>valet. Detta för att valet varierar mellan olika program och olika<br>kurser. Det blir också tydligare för eleven när denne gör sitt<br>val. | Av Regelsamling framgår att varje program har olika inriktningar, valbara<br>programfördjupningar och individuella valbara kurser. Paketeringen av<br>kurser som är valbara för elever kan ändras varje år och är unikt för varje<br>gymnasieskola och program. Systemet måste därför vara flexibelt och enkelt<br>att justera. Utgångspunkten är Skolverkets program och programstrukturer.<br>Utifrån dessa organiserar och beslutar rektor vilka kurser som eleven ska<br>kunna välja. Det styrs av: 1. Program eleven går på.; 2. Årskurs eleven är<br>inskriven på; 3. Inriktning eleven väljer Eleven ska därför göra en mängd val<br>av inriktningar, fördjupningspaket och individuella kurser | När jag som administratör skapar valet<br>har jag behov att ange vilka<br>inriktningar som är aktuella för valet.<br>Detta då rektorn kan besluta att starta<br>eller pausa inriktningar från läsår till<br>läsår. Systemet uppfyller inte kravet på<br>att tillämpa regelsamlingen i detta fall<br>eftersom det inte går att välja vilka<br>inriktningar som är aktuella för valet. | Instruktioner ska kunna anges för respektive<br>inriktning. | Valmodul | Se 2.5.38 |
+| 2.5.47 | 2024-11-19 | Som gymnasieadministratör vill jag kunna simulera och<br>kontrollera platstilldelningen innan jag tilldelar eleven plats på<br>kursen. Detta för att rektorerna ska kunna göra en till grupp<br>och sedan ska alla elever kunna se sina val samtidigt. Ibland<br>så ändras förutsättningarna för valet så att max/min antalet<br>elever på kurser ändras. | Av Regelsamling framgår att varje program har olika inriktningar, valbara<br>programfördjupningar och individuella valbara kurser. Paketeringen av<br>kurser som är valbara för elever kan ändras varje år och är unikt för varje<br>gymnasieskola och program. Systemet måste därför vara flexibelt och enkelt<br>att justera. Utgångspunkten är Skolverkets program och programstrukturer.<br>Utifrån dessa organiserar och beslutar rektor vilka kurser som eleven ska<br>kunna välja. Det styrs av: 1. Program eleven går på; 2. Årskurs eleven är<br>inskriven på; 3. Inriktning eleven väljer Eleven ska därför göra en mängd val<br>av inriktningar, fördjupningspaket och individuella kurser. När eleven gör val<br>av kurser så ska systemet säkra upp att; 4. Eleven inte läst kursen tidigare;<br>5. Eleven inte kan välja samma kurs som är gjort i förstahandsvalet för<br>programfördjupningskurser och individuella val. Individuella val, språkval och<br>programfördjupningar ska kunna paketeras i olika schemapositioner så att<br>eleven kan välja kurser som inte schemamässigt krockar. | Som administratör har jag behov att<br>Systemet hjälper mig att säkerställa så<br>att eleverna inte gjort val av samma<br>kurs både som programfördjupning<br>och individuellt val innan jag simulerar<br>platstilldelning. Detta då den<br>simulerade platstilldelningen blir<br>missvisande när elever har samma<br>kurskod på flera ställen i samma val.<br>Systemet uppfyller inte kravet på att<br>tillämpa regelsamlingen i detta fall<br>eftersom det inte går att säkerställa att<br>eleven inte valt samma kurskod mer<br>än en gång i valet och därmed är den<br>simulerade platstilldelningen felaktig. |  | Valmodul | Se 2.5.38 |
 
 <!-- sida 257 -->
 
 Transaktion 04617043639293267720 Bilaga 1
 14
-
-[Tabell 257-1](handlingar.tabeller/257-1.csv)
-
-| 2.5.44 | 2024-11-19 | Som gymnasieadministratör vill jag kunna själv styra<br>uppbyggnaden av valet och de instruktioner som ska finnas i<br>valet. Detta för att valet varierar mellan olika program och olika<br>kurser. Det blir också tydligare för eleven när denne gör sitt<br>val. | Av Regelsamling framgår att varje program har olika inriktningar, valbara<br>programfördjupningar och individuella valbara kurser. Paketeringen av<br>kurser som är valbara för elever kan ändras varje år och är unikt för varje<br>gymnasieskola och program. Systemet måste därför vara flexibelt och enkelt<br>att justera. Utgångspunkten är Skolverkets program och programstrukturer.<br>Utifrån dessa organiserar och beslutar rektor vilka kurser som eleven ska<br>kunna välja. Det styrs av: 1. Program eleven går på.; 2. Årskurs eleven är<br>inskriven på; 3. Inriktning eleven väljer Eleven ska därför göra en mängd val<br>av inriktningar, fördjupningspaket och individuella kurser | När jag som administratör skapar valet<br>har jag behov att ange vilka<br>inriktningar som är aktuella för valet.<br>Detta då rektorn kan besluta att starta<br>eller pausa inriktningar från läsår till<br>läsår. Systemet uppfyller inte kravet på<br>att tillämpa regelsamlingen i detta fall<br>eftersom det inte går att välja vilka<br>inriktningar som är aktuella för valet. | Instruktioner ska kunna anges för respektive<br>inriktning. | Valmodul | Se 2.5.38 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2.5.47 | 2024-11-19 | Som gymnasieadministratör vill jag kunna simulera och<br>kontrollera platstilldelningen innan jag tilldelar eleven plats på<br>kursen. Detta för att rektorerna ska kunna göra en till grupp<br>och sedan ska alla elever kunna se sina val samtidigt. Ibland<br>så ändras förutsättningarna för valet så att max/min antalet<br>elever på kurser ändras. | Av Regelsamling framgår att varje program har olika inriktningar, valbara<br>programfördjupningar och individuella valbara kurser. Paketeringen av<br>kurser som är valbara för elever kan ändras varje år och är unikt för varje<br>gymnasieskola och program. Systemet måste därför vara flexibelt och enkelt<br>att justera. Utgångspunkten är Skolverkets program och programstrukturer.<br>Utifrån dessa organiserar och beslutar rektor vilka kurser som eleven ska<br>kunna välja. Det styrs av: 1. Program eleven går på; 2. Årskurs eleven är<br>inskriven på; 3. Inriktning eleven väljer Eleven ska därför göra en mängd val<br>av inriktningar, fördjupningspaket och individuella kurser. När eleven gör val<br>av kurser så ska systemet säkra upp att; 4. Eleven inte läst kursen tidigare;<br>5. Eleven inte kan välja samma kurs som är gjort i förstahandsvalet för<br>programfördjupningskurser och individuella val. Individuella val, språkval och<br>programfördjupningar ska kunna paketeras i olika schemapositioner så att<br>eleven kan välja kurser som inte schemamässigt krockar. | Som administratör har jag behov att<br>Systemet hjälper mig att säkerställa så<br>att eleverna inte gjort val av samma<br>kurs både som programfördjupning<br>och individuellt val innan jag simulerar<br>platstilldelning. Detta då den<br>simulerade platstilldelningen blir<br>missvisande när elever har samma<br>kurskod på flera ställen i samma val.<br>Systemet uppfyller inte kravet på att<br>tillämpa regelsamlingen i detta fall<br>eftersom det inte går att säkerställa att<br>eleven inte valt samma kurskod mer<br>än en gång i valet och därmed är den<br>simulerade platstilldelningen felaktig. |  | Valmodul | Se 2.5.38 |
 
 <!-- sida 258 -->
 
@@ -16671,29 +16867,39 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 
 2 Delegeringsförteckning
 
+2.1 Allmänt
+
+Nr     Lagrum/stöd Delegeringens omfattning             Delegerat Anmärkning/villkor
+till
+2.1.1  KL 6 kap 39 § Ärenden som är så brådskande att nämndens avgörande inte kan avvaktas. N ordf
+2.1.2  OSL 6 kap Utlämnande av allmän handling med förbehåll eller att inte lämna ut en Fc Utlämnande av handling utan förbehåll eller sekretess lämnas
+3-6 §§    allmän handling.                                 ut av den som har hand om handlingen.
+2.1.3 OSL 6 kap 1 a § Avgift ska betalas helt eller delvis innan avskriften eller kopia av allmän Fc
+handling lämnas ut.
+2.1.4  FL 45 §   Avvisa för sent inkommet överklagande. Fc
+
+2.1.5  GDPR artikel 37 Utnämna dataskyddsombud för nämnden. Fc
+2.1.6 GDPR artikel 15-21, Helt eller delvis avslå framställan om begäran av utövande av registrerads Fc
+23 och     rättigheter.
+dataskyddslagen 5
+kap 1-3 §§
+2.1.7 GDPR artikel 35 Beslut med anledning av konsekvensbedömning avseende dataskydd Fc Fastställa konsekvensbedömning och införa behandling i
+enlighet med konsekvensbedömning
+2.1.8  GDPR artikel 33 Fastställa utredning och åtgärder med anledning av anmäld Dataskydds I samråd med enhetschef och systemförvaltare
+och 34    personuppgiftsincident samt beslut om personuppgiftsincident ska anmälas kontakt
+till tillsynsmyndighet och om registrerade ska informeras
+2.1.9  GDPR artikel 28 Ingå personuppgiftsbiträdesavtal för digitala tjänster och system samt Fc I samråd med systemförvaltare eller dataskyddskontakt
+överenskommelse om gemensamt personuppgiftsansvar.
+2.1.10 artikel 28 GDPR Ingå personuppgiftsbiträdesavtal för kommungemensamma digitala Bitr. Kdir Med kommungemensamt avses att systemet eller
+och Hantering av tjänster och system.                       tjänsten används av kommunens samtliga nämnder.
+
 Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
-
-[Tabell 410-1](handlingar.tabeller/410-1.csv)
-
-|  | 2.1 Allmänt |  |  |  |
-| --- | --- | --- | --- | --- |
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat<br>till | Anmärkning/villkor |
-| 2.1.1 | KL 6 kap 39 § | Ärenden som är så brådskande att nämndens avgörande inte kan avvaktas. | N ordf |  |
-| 2.1.2 | OSL 6 kap<br>3-6 §§ | Utlämnande av allmän handling med förbehåll eller att inte lämna ut en<br>allmän handling. | Fc | Utlämnande av handling utan förbehåll eller sekretess lämnas<br>ut av den som har hand om handlingen. |
-| 2.1.3 | OSL 6 kap 1 a § | Avgift ska betalas helt eller delvis innan avskriften eller kopia av allmän<br>handling lämnas ut. | Fc |  |
-| 2.1.4 | FL 45 § | Avvisa för sent inkommet överklagande. | Fc |  |
-| 2.1.5 | GDPR artikel 37 | Utnämna dataskyddsombud för nämnden. | Fc |  |
-| 2.1.6 | GDPR artikel 15-21,<br>23 och<br>dataskyddslagen 5<br>kap 1-3 §§ | Helt eller delvis avslå framställan om begäran av utövande av registrerads<br>rättigheter. | Fc |  |
-| 2.1.7 | GDPR artikel 35 | Beslut med anledning av konsekvensbedömning avseende dataskydd | Fc | Fastställa konsekvensbedömning och införa behandling i<br>enlighet med konsekvensbedömning |
-| 2.1.8 | GDPR artikel 33<br>och 34 | Fastställa utredning och åtgärder med anledning av anmäld<br>personuppgiftsincident samt beslut om personuppgiftsincident ska anmälas<br>till tillsynsmyndighet och om registrerade ska informeras | Dataskydds<br>kontakt | I samråd med enhetschef och systemförvaltare |
-| 2.1.9 | GDPR artikel 28 | Ingå personuppgiftsbiträdesavtal för digitala tjänster och system samt<br>överenskommelse om gemensamt personuppgiftsansvar. | Fc | I samråd med systemförvaltare eller dataskyddskontakt |
-| 2.1.10 | artikel 28 GDPR<br>och Hantering av | Ingå personuppgiftsbiträdesavtal för kommungemensamma digitala<br>tjänster och system. | Bitr. Kdir | Med kommungemensamt avses att systemet eller<br>tjänsten används av kommunens samtliga nämnder. |
 
 <!-- sida 411 -->
 
 Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 8 (27)
 
-[Tabell 411-1](handlingar.tabeller/411-1.csv)
+[Tabell 411-412-1](handlingar.tabeller/411-412-1.csv)
 
 |  | personuppgifter –<br>Riktlinjer,<br>Kommunfullmäktig<br>e 2024-03-05 § 33 |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -16704,19 +16910,15 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.1.15 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Utse ombud att föra kommunens talan i mål och ärenden vid rättegång eller<br>förrättning inför domstol och andra myndigheter, med rätt att sätta annan i<br>sitt ställe | Fc |  |
 | 2.1.16 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Föra nämndens talan i mål eller ärende som överklagats till domstol | Ec | Även beslut att överklaga dom till högre instans.<br>Gäller ej beslut som fattats av nämnden. |
 | 2.1.17 | Gemensamt<br>reglemente för<br>kommunstyrel<br>sen och övriga<br>nämnder | Ta emot och underteckna delgivning | Ec |  |
+| 2.1.18 |  | Besluta om stipendier ur skolfonder:<br>Elof Lindälvs stipendiefond<br>Aranäs AB fond för ekonomistuderande<br>Kurt Christiansson fond | Gc |  |
+| 2.1.19 |  | Föreslå stipendiater till Arvid och Hildur Anderssons fond | N ordf | Förslag till KS |
+| 2.1.20 |  | Besluta om stipendiater till<br>Ann-Sophie och F C Hallgrens fond<br>Britten och Gunnar Gagnells fond | N ordf |  |
 
 <!-- sida 412 -->
 
 Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 9 (27)
 
 [Tabell 412-1](handlingar.tabeller/412-1.csv)
-
-| 2.1.18 |  | Besluta om stipendier ur skolfonder:<br>Elof Lindälvs stipendiefond<br>Aranäs AB fond för ekonomistuderande<br>Kurt Christiansson fond | Gc |  |
-| --- | --- | --- | --- | --- |
-| 2.1.19 |  | Föreslå stipendiater till Arvid och Hildur Anderssons fond | N ordf | Förslag till KS |
-| 2.1.20 |  | Besluta om stipendiater till<br>Ann-Sophie och F C Hallgrens fond<br>Britten och Gunnar Gagnells fond | N ordf |  |
-
-[Tabell 412-2](handlingar.tabeller/412-2.csv)
 
 |  | 2.2 Ekonomi och inköp |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -16728,18 +16930,28 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 
 <!-- sida 413 -->
 
+2.2.1 d) LOU, Policy för Ändring och tillägg av avtal.  Fc        Inköpsprocessen enligt Riktlinjer för inköp.
+inköp
+Gäller även direktupphandling.
+Riktlinjer för inköp
+2.2.1 e) LOU, Policy för Uppsägning eller hävning av avtal Fc     Inköpsprocessen enligt Riktlinjer för inköp.
+inköp
+Gäller även direktupphandling.
+Riktlinjer för inköp
+2.2.3  Nämndens beslut Beslut om förvaltningsbudget med fördelning på verksamhetsnivå. Fc
+om nämndbudget
+och Kungsbacka
+styrmodell
+2.2.4  Attestreglementet Utse beslutsattestanter och ersättare för nämndens verksamheter. Fc Anmäls till nämnden en gång per år.
+2.2.5 Riktlinjer för Undantag för nämnden från huvudregeln att leasing inte är tillåtet för Fc Krävs särskilda skäl. KS ska godkänna beslutet.
+finansverksamhet annat än fordon och arbetsmaskiner.
+avsnitt 5
+Gemensamt
+reglemente § 9
+
 Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 10 (27)
 
-[Tabell 413-1](handlingar.tabeller/413-1.csv)
-
-| 2.2.1 d) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Ändring och tillägg av avtal. | Fc | Inköpsprocessen enligt Riktlinjer för inköp.<br>Gäller även direktupphandling. |
-| --- | --- | --- | --- | --- |
-| 2.2.1 e) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Uppsägning eller hävning av avtal | Fc | Inköpsprocessen enligt Riktlinjer för inköp.<br>Gäller även direktupphandling. |
-| 2.2.3 | Nämndens beslut<br>om nämndbudget<br>och Kungsbacka<br>styrmodell | Beslut om förvaltningsbudget med fördelning på verksamhetsnivå. | Fc |  |
-| 2.2.4 | Attestreglementet | Utse beslutsattestanter och ersättare för nämndens verksamheter. | Fc | Anmäls till nämnden en gång per år. |
-| 2.2.5 | Riktlinjer för<br>finansverksamhet<br>avsnitt 5<br>Gemensamt<br>reglemente § 9 | Undantag för nämnden från huvudregeln att leasing inte är tillåtet för<br>annat än fordon och arbetsmaskiner. | Fc | Krävs särskilda skäl. KS ska godkänna beslutet. |
-
-[Tabell 413-2](handlingar.tabeller/413-2.csv)
+[Tabell 413-414-1](handlingar.tabeller/413-414-1.csv)
 
 |  | 2.3 Personal |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -16747,15 +16959,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 |  |  | Anställa |  |  |
 | 2.3.1 | LAS,<br>kollektivavtal,<br>lönestruktur mm | Chefer direkt underställda förvaltningschefen Tillsvidareanställning<br>och tidsbegränsade anställningar längre än 6 månader. | Fc | Samråd med presidiet under rekryteringsprocessen<br>och/eller innan anställning.<br>Tidsbegränsad anställning<br>upp till och med 6 månader är verkställighet.<br>Innefattar lönesättning enligt Kungsbackas lönestruktur och<br>samtliga övriga anställningsvillkor. |
 | 2.3.2 | LAS, kollektivavtal,<br>lönestruktur mm | Övriga anställda<br>Tillsvidareanställning och tidsbegränsade anställningar längre än 6<br>månader. | Närmsta<br>chef | Tidsbegränsad anställning upp till och med 6 månader är<br>verkställighet. |
-
-<!-- sida 414 -->
-
-Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 11 (27)
-
-[Tabell 414-1](handlingar.tabeller/414-1.csv)
-
 |  |  |  |  | Innefattar lönesättning enligt Kungsbackas lönestruktur och<br>samtliga övriga anställningsvillkor. |
-| --- | --- | --- | --- | --- |
 |  |  | Avveckla |  |  |
 | 2.3.3 | LAS § 7 | Uppsägning av personliga skäl. | Fc | I samråd med HR-chef på förvaltningen och kommunens<br>förhandlingschef. |
 | 2.3.4 | LAS § 7 | Uppsägning på grund av arbetsbrist. | Fc | I samråd med HR-chef på förvaltningen. |
@@ -16766,11 +16970,15 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.3.8 | AB § 10 mom<br>1-3 | Avstängning | Fc<br>Gc<br>Vc KC | I samråd med HR-chef på förvaltningen.<br>Personal inom sitt respektive ansvarsområde. |
 | 2.3.9 | AB § 11 | Disciplinpåföljd - skriftlig varning. | Fc | I samråd med HR-chef på förvaltningen |
 
+<!-- sida 414 -->
+
+Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 11 (27)
+
 <!-- sida 415 -->
 
 Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 12 (27)
 
-[Tabell 415-1](handlingar.tabeller/415-1.csv)
+[Tabell 415-417-1](handlingar.tabeller/415-417-1.csv)
 
 |  | 2.4 Gymnasieskola och anpassad gymnasieskola |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -16784,15 +16992,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.4.7 | 7:8 GyF | Beslut om att antagning vid en senare tidpunkt och beslut om<br>inträdesprov ska användas | Rektor |  |
 | 2.4.8 | 17:11, 14, 16,<br>19, 21 SL<br>6:2 GyF | Beslut om behörighet, mottagning och antagning till individuellt program | Rektor | Gäller även beslut att ta emot elever till IMIND vid<br>Insikten när särskilda behov finns |
 | 2.4.9 | 18:5-7 SL | Beslut om att elev tillhör målgruppen för anpassad gymnasieskola | Utv.anp | Hemkommunens ansvar att utreda och besluta om<br>målgruppstillhörighet |
-
-<!-- sida 416 -->
-
-Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 13 (27)
-
-[Tabell 416-1](handlingar.tabeller/416-1.csv)
-
 | 2.4.10 | 19:29, 35-36,<br>39, 40-41 SL | Mottagande till kommunens anpassade gymnasieskola av elever utanför<br>samverkansområdet | Utv.anp |  |
-| --- | --- | --- | --- | --- |
 | 2.4.11 | 19:29 SL | Beslut om att elev som sökt anpassad gymnasieskolas individuella<br>program har förutsättningar att följa ett nationellt program | Utv.anp |  |
 | 2.4.12 | 7:13 GyF | Beslut om antagning till anpassad gymnasieskola | Utv.anp |  |
 | 2.4.13 | 16:37-40, 49-<br>49a SL<br>17:15-15a SL<br>19:30-32, 42-<br>42a SL | Beslut om mottagande enligt rätten att fullfölja utbildningen | Rektor |  |
@@ -16806,15 +17006,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.4.21 | 4:22 GyF | Beslut om antal undevisningstimmar för varje kurs/nivå, ämnesområde,<br>för gymnasiearbete i gymnasieskolan och anpassade gymnasieskolan<br>samt om hur fördelningen av undetrvisningstiden över läsåren ska göras | Rektor | Timplaner |
 | 2.4.22 | 4:19 GyF | Beslut om att inte erbjuda modersmålsundervisning | Rektor |  |
 | 2.4.23 | 17:7 SL | Beslut om utbildningsplan för introduktionsprogrammen | Gc |  |
-
-<!-- sida 417 -->
-
-Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 14 (27)
-
-[Tabell 417-1](handlingar.tabeller/417-1.csv)
-
 | 2.4.24 | 16:14 SL | Beslut om att elevs utbildning på ett nationellt program får avvika från<br>vad som annars gäller för programmet | Rektor |  |
-| --- | --- | --- | --- | --- |
 | 2.4.25 | 4:6-7a GyF | Berslut om vilka ämnen och kurser/nivåer som ska erbjudas som<br>programfördjupning och individuellt val vid gymnasieskolan och<br>anpassade gymnasieskolan | Rektor |  |
 | 2.4.26 | 4:10-10a GyF | Beslut om vilka moderna språk som ska erbjudas | Gc |  |
 | 2.4.27 | 4:13 GyF | Beslut om att anordna yrkesprogram vid gymnasieskolan eller anpassad<br>gymnasieskola trots att arbetsplatsförlagt lärande inte kan erbjudas | Fc | Samråd med lokalt programråd innan beslut fattas |
@@ -16830,11 +17022,19 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.4.37 | 3:5 PSL | Anmälan till Socialstyrelsen av händelser som har medfört eller hade<br>kunnat medföra en allvarlig vårdskada (Lex Maria) | Vc EMI |  |
 | 2.4.38 | 24:20-21 SL | Beslut om särskild undervisning i hemmet eller på annan lämplig plats | Gc | Gäller för elever som på grund av sjukdom eller<br>liknande inte kan delta i ordinarie undervisning |
 
+<!-- sida 416 -->
+
+Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 13 (27)
+
+<!-- sida 417 -->
+
+Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 14 (27)
+
 <!-- sida 418 -->
 
 Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 15 (27)
 
-[Tabell 418-1](handlingar.tabeller/418-1.csv)
+[Tabell 418-419-1](handlingar.tabeller/418-419-1.csv)
 
 |  | 2.5 Kommunal vuxenutbildning |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -16855,20 +17055,16 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.5.14 | 2:29 VuxF | Beslut om att en elev ska erbjudas skolförlagdutbildning istället för APL | Rektor | Samråd med representanter för det lokala näringslivet<br>innan beslut fattas |
 | 2.5.15 | 20:9 SL | Beslut om upphörande av utbildning om eleven saknar förutsättningar att<br>tillgodogöra sig utbildningen eller annars inte gör tillfredställande<br>framsteg | Rektor |  |
 | 2.5.16 | 20:24 SL | Beslut om att minska omfattningen av SFI-undervisningen för enskild<br>elev | Rektor |  |
+| 2.5.17 | 6:10 SL | Utreda och åtgärda kränkande behandling | Rektor |  |
+| 2.5.18 | 2:7 DL | Utreda och vidta åtgärder mot trakasserier | Rektor |  |
+| 2.5.19 | 4:7-8 SL | Utreda klagomål mot utbildningen och vidta åtgärder | Rektor |  |
+| 2.5.20 | 5:17-21 SL | Beslut om avstängning av elev | Presidium | Huvudmannens beslut |
 
 <!-- sida 419 -->
 
 Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 16 (27)
 
-[Tabell 419-1](handlingar.tabeller/419-1.csv)
-
-| 2.5.17 | 6:10 SL | Utreda och åtgärda kränkande behandling | Rektor |  |
-| --- | --- | --- | --- | --- |
-| 2.5.18 | 2:7 DL | Utreda och vidta åtgärder mot trakasserier | Rektor |  |
-| 2.5.19 | 4:7-8 SL | Utreda klagomål mot utbildningen och vidta åtgärder | Rektor |  |
-| 2.5.20 | 5:17-21 SL | Beslut om avstängning av elev | Presidium | Huvudmannens beslut |
-
-[Tabell 419-2](handlingar.tabeller/419-2.csv)
+[Tabell 419-421-1](handlingar.tabeller/419-421-1.csv)
 
 |  | 2.6 Ekonomiskt bistånd |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -16880,15 +17076,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 |  | 12 kap 1§ SoL | Beslut om skäligt rådrum avseende hyreskostnad eller kaptialvaror | MyH |  |
 | 2.6.5 | 12 kap 1§ SoL | Beslut om bistånd till hyreskostnad utöver skälig nivå | MyH<br>Admin | Ska ske i samråd med Ec |
 | 2.6.6 | 12 kap 1§ SoL | Beslut om bistånd till egna förestagare som driver olönsam verksamhet | Ec |  |
-
-<!-- sida 420 -->
-
-Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 17 (27)
-
-[Tabell 420-1](handlingar.tabeller/420-1.csv)
-
 | 2.6.7 | 12 kap 1§ SoL | Beslut om nödvändig tandvård<br>Om max 30% av prisbasbelopp<br>Om max 50% av prisbasbelopp<br>Om över 50% av prisbasbelopp | MyH/admin<br>Ec<br>Utskott | Förtroendetandläkare ska anlitas vid belopp över 20%<br>av prisbasbelopp för behandling av nödvändig<br>tandvård.<br>Bedömning av förtroendetandläkare |
-| --- | --- | --- | --- | --- |
 | 2.6.8 | 12 kap 1§ SoL | Beslut om avslag på nödvändig tandvård över 50 % av prisbasbeloppet<br>efter förtroendetandläkares rekommendation till avslag | Ec |  |
 |  | 12 kap 1§ SoL | Beslut om resor/umgängesresor utomland | Utskott |  |
 | 2.6.9 | 12 kap 1§ SoL | Beslut om bistånd i from av öppna insatser i egen regi | MyH |  |
@@ -16902,21 +17090,21 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.6.17 | 33 kap 1 §<br>SoL | Beslut om att återkräva ekonomiskt bistånd som beviljats enligt 12 kap §§<br>1-2 som utgått obehörigen eller med för högt belopp | Ec |  |
 | 2.6.18 | 33 kap 2 §<br>SoL<br>107 kap 5 §<br>SFB | Beslut om att underätta Försäkringskassan att nämnden ska uppbära<br>ersättning enligt SFB (förskottsanmälan) | Ec |  |
 | 2.6.19 | 33 kap 4-5 §§<br>SoL | Beslut om att föra talan hos förvaltningsrätt om återkrav för ekonomiskt<br>bistånd enligt 9 kap 1-2 §§ och 8 kap 1 § SoL | Vc KC |  |
-
-<!-- sida 421 -->
-
-Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 18 (27)
-
-[Tabell 421-1](handlingar.tabeller/421-1.csv)
-
 | 2.6.20 | 33 kap 6 §<br>SoL | Beslut om att hel eller delvis eftege ersättningsskyldighet som avses i 12<br>kap 1-3 § och 32 kap 2 § första stycket eller 3 § första stycket SoL | Utskott |  |
-| --- | --- | --- | --- | --- |
 | 2.6.21 | 33 kap 6 §<br>SoL | Beslut om att helt eller delvis efterge ersättningsskyldiget av bistånd<br>beviljat enligt 12 kap 1 § SoL och som avses i 33 kap 2 § SoL | Fc | Gäller bistånd mot återbetalning |
 | 2.6.22 | 12 kap 1 §<br>SoL | Beslut om begravningshjälp och utgifter i omedelbar anslutning till<br>dödsfallet samt vilkor om återbetalning | MyH |  |
 | 2.6.23 | 11 kap 1 §<br>SoL<br>12 kap 1 §<br>SoL | Beslut om tillfälligt boende i form av inter lösning eller köpt plats<br>Upp till 5 månader<br>Upp till 6 månader | MyH<br>MyH<br>Ec | Efter beslut av enhetschef återgår delegationen till<br>MyH i fem månader. Månad sex fattar Ec beslut. |
 | 2.6.24 | 11 kap 4 §<br>SoL, 12 kap 2<br>§ SoL | Beslut om Bostad först- Bobyrån | Ec |  |
 
-[Tabell 421-2](handlingar.tabeller/421-2.csv)
+<!-- sida 420 -->
+
+Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 17 (27)
+
+<!-- sida 421 -->
+
+Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 18 (27)
+
+[Tabell 421-422-1](handlingar.tabeller/421-422-1.csv)
 
 |  | 2.7 Dödsboanmälan |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -16927,15 +17115,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.7.4 | 18 kap 1 § ÄB | Beslut att överlämna förvaltning och avveckling till dödsbodelägarna | MyH/DbH |  |
 | 2.7.5 | 5 kap 1 § ÄB | Beslut att överlämna förvaltning och avveckling till allmänna arvsfonden | MyH/DbH | Kommunen har rätt till ersättning av dödsboet |
 | 2.7.6 | 11 kap 2 § FB | Beslut att överlämna förvaltning och avveckling till god man för<br>bortavarande | MyH/DbH | Kommunen har rätt till ersättning av dödsboet |
-
-<!-- sida 422 -->
-
-Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 19 (27)
-
-[Tabell 422-1](handlingar.tabeller/422-1.csv)
-
 | 2.7.7 | 20 kap 2 § 2 st<br>ÄB | Beslut att föranstalta om bouppteckning | MyH/DbH | Kommunen har rätt till ersättning av dödsboet |
-| --- | --- | --- | --- | --- |
 | 2.7.8 | 18 kap 2 § ÄB | Beslut om att förvalta och avveckla dödsboet | MyH/DbH | Kommunen har rätt till ersättning av dödsboet |
 | 2.7.9 | 14 kap 2 §<br>SoL | Beslut om att inleda utredning | MyH/DbH |  |
 | 2.7.10 | 12 kap 1 §<br>SoL | Beslut om ekonomiskt bistånd till begravningskostnader eller utgifter i<br>omedelbar anslutning till dödsfallet. Om belopp upp till 50 % av<br>prisbasbelopp | MyH/DbH |  |
@@ -16943,22 +17123,18 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.7.12 | 33 kap 1 §<br>SoL | Beslut om att återkräva ekonomiskt bistånd som beviljats enligt 12 kap 1 §<br>SoL som utgått obehörigen eller med för högt belopp | Fc |  |
 | 2.7.13 | 33 kap 6 §<br>SoL | Beslut om att helt eller delvis efterge ersättningsskyldigheten som beslutat<br>enligt 33 kap 1 § SoL | Fc |  |
 
-[Tabell 422-2](handlingar.tabeller/422-2.csv)
+<!-- sida 422 -->
+
+Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 19 (27)
+
+[Tabell 422-425-1](handlingar.tabeller/422-425-1.csv)
 
 |  | 2.8 Barn och ungdom<br>Nämndens ansvar enligt SoL/FB gäller endast för ensamkommande barn och unga<br>enligt nämndens reglemente daterad 2018-01-19 (GV/2017:119) |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | 2.8.1 | 14 kap 2 § SoL | Beslut att inleda utredning<br>Beslut att inte inleda utredning<br>Beslut att inledd utredning läggs ner<br>Beslut att inledd utredning inte föranleder någon åtgärd | MyH<br>Ec<br>Ec |  |
 | 2.8.2 | 20 kap 2 § SoL | Beslut om förlängning av utredning för viss tid | Utskott | Endast i de särskilda fall som föreskrivs i lagens<br>förarbeten |
-
-<!-- sida 423 -->
-
-Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 20 (27)
-
-[Tabell 423-1](handlingar.tabeller/423-1.csv)
-
 | 2.8.3 | 23 kap 1 § SoL<br>23 kap 2 § SoL | Beslut om uppföljning vid avslutad utredning utan beslut om insats<br>Beslut om uppföljning efter det att bistånd i form av placering i<br>familjehem eller HVB har upphört | MyH<br>Fc | Max 2 månader om barnet bedöms vara i särskilt<br>behov av nämndens stöd eller skydd men samtycke<br>saknas |
-| --- | --- | --- | --- | --- |
 | 2.8.4 | 11 kap 1 § SoL<br>11 kap 1 § SoL<br>6 kap 13a § FB<br>11 kap 1 § SoL, 6 kap<br>13 a § FB | Beslut om bistånd i form av öppna insatser i egen regi<br>Beslut om bistånd i form av öppna insatser i extern regi<br>För ungdom över 15 år utan vårdnadshavare samtycke<br>För barn under 15 år med endast den ena vårdnadshavarens<br>samtycke | MyH<br>Ec<br>Fc<br>Utskott | Om det är lämpligt och ungdomen samtycker |
 | 2.8.5 | 13 kap 7 § SoL | Beslut om bistånd i form av kontaktperson eller kontaktfamilj<br>Prövning av bistånd | MyH<br>Fc | För bistånd till ungdomar över 15 år krävs ej<br>vårdnadshavares samtycke |
 | 2.8.6 | 13 kap 7 § SoL<br>6 kap 13a § FB | Beslut om bistånd i form av kontaktperson eller kontaktfamilj för barn<br>under 15 år med endas den ene vårdnadshavares samtycke | Utskott | Förutsatt samtycke från en av två vårdnadshavare<br>och att det krävs med hänsyn taget till barnets bästa |
@@ -16967,15 +17143,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.8.8 | 22 kap 6 § SoL | Beslut om medgivande att ett barn tas emot för stadigvarande vård<br>och fostran i enskild hem som inte tillhör någon av föräldrarna eller<br>annan vårdnadshavare<br>Beslut om medgivande att barn ta emot i sådant enskilt hem som vid<br>upprepade tillfällen tar emot barn för tillfällig vård och fostran<br>(jourhem) | Utskott<br>Utskott | Delegerbart endast till utskott enlig 30 kap 6-9 §§<br>SoL Beslut kan fattas av nämnden ordförande eller<br>annan ledamot som nämnden har förordnat. |
 |  | 11 kap 1 § SoL | Beslut om förordnande och entledigande av kontaktperson eller<br>kontaktfamilj | MyH |  |
 | 2.8.9 | 11 kap 1 § SoL<br>13 kap 7 § andra st SoL | Beslut om särskilt kvalificerad kontaktperson i egen regi<br>Extern regi | MyH<br>Fc |  |
-
-<!-- sida 424 -->
-
-Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 21 (27)
-
-[Tabell 424-1](handlingar.tabeller/424-1.csv)
-
 |  |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | 2.8.10 | 11 kap 1 § SoL | Beslut om bistånd i form av vård/vistelse i HVB, stödboende,<br>familjehem eller jourhem<br>Upp till fyra månader<br>Över fyra månader | Ec<br>Utskott | Placeringar till och med den dag man fyller 18 år och<br>från 18 år till och med 21 år. Uppföljning var sjätte<br>månad. |
 | 2.8.11 | 11 kap 1 § SoL | Beslut om bistånd i form av HVB eller stödboende under<br>utredningstid 1-4 månader | Ec |  |
 | 2.8.12 | 12 kap 1 § SoL | Beslut om ekonomiskt bistånd till barn och ungdom för kostnad i<br>samband med placering i HVB, stödboende, familjehem eller<br>jourhem med upp till 15% av prisbasbeloppet<br>Utöver kommunens riktlinjer | MyH<br>Fc |  |
@@ -16987,15 +17155,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.8.18 | 6 kap 7 § 4 st FB | Beslut om att väcka talan om ändring i vårdnaden | Utskott | Om en förälder brister i omsorgen och barnets hälsa<br>och utveckling utsätts för bestående fara |
 | 2.8.19 | 6 kap 9 § FB | Anmälan till rätten om överflyttning av vårdnad vid förälders dödsfall | Utskott |  |
 | 2.8.20 | 6 kap 10 § FB | Beslut att väcka tala om ändring i vårdnaden | Utskott | Från särskild förordnad vårdnadshavare till förälder |
-
-<!-- sida 425 -->
-
-Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 22 (27)
-
-[Tabell 425-1](handlingar.tabeller/425-1.csv)
-
 |  | 2.9 Barn och ungdom, arvoden och ersättningar |  |  |  |
-| --- | --- | --- | --- | --- |
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | 2.9.1 | 22 kap 15 § SoL | Beslut om ersättning till särskilt förordnad vårdnadshavare som<br>tidigare varit familjehemsförälder | MyH | Särskilt avtal ska ingås mellan nämnden och de nya<br>vårdnadshavarna |
 | 2.9.2 |  | Beslut om arvode och omskostnadsersättning till kontaktperson/-<br>familj enligt norm och riktlinjer samt särskilda engångsköp, högst<br>10% av prisbasbelopp per år.<br>Utöver norm och riktlinjer | MyH<br>Ec | Riktlinjer från Individ & Familjeomsorg |
@@ -17005,11 +17165,23 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.9.6 |  | Beslut om ersättning till särskilt förordnad vårdnadshavare | MyH | Avser både ensamkommande barn och övriga<br>ärende utöver beslut enligt 6 kap 11 § SoL |
 | 2.9.7 |  | Teckna avtal gällande ersättning enligt delegationsbeslut avseende<br>kontaktperson, kontaktfamilj, familjehem, avlastningsfamilj, särskilt<br>förordnad vårdnadshavare | MyH |  |
 
+<!-- sida 423 -->
+
+Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 20 (27)
+
+<!-- sida 424 -->
+
+Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 21 (27)
+
+<!-- sida 425 -->
+
+Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 22 (27)
+
 <!-- sida 426 -->
 
 Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 23 (27)
 
-[Tabell 426-1](handlingar.tabeller/426-1.csv)
+[Tabell 426-428-1](handlingar.tabeller/426-428-1.csv)
 
 |  | 2.10 Lagen med särskilda bestämmelser om vård av<br>unga, LVU<br>Nämndens ansvar enligt LVU gäller endast för ensamkommande barn och<br>unga enligt nämndens reglemente daterar 2018-01-19 (GV/2017:119) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -17024,15 +17196,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.10.8 | 11 § 1 st LVU | Beslut om hur vården ska ordnas och var den unge ska vistas<br>under vårdtiden | Utskott | Om nämndens beslut inte kan avvaktas får<br>nämndens ordförande eller annan ledamot som<br>nämnden har förordnat besluta i frågan. |
 | 2.10.9 | 11 § 2 st LVU | Beslut om att den unge får vistas i sitt eget hem under vårdtiden | Utskott | Enligt ovan |
 | 2.10.10 | 11 § 4 st LVU | Beslut om den unges personliga förhållande i den mån beslutet<br>inte är att hänföra till 11 § 1 och 2 st LVU | Vc KC | Får inte leda till att föräldrarna fråntas allt inflytande |
-
-<!-- sida 427 -->
-
-Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 24 (27)
-
-[Tabell 427-1](handlingar.tabeller/427-1.csv)
-
 | 2.10.11 | 13 § 1 st LVU | Övervägande om vård med stöd av 2 § LVU fortfarande behövs | Utskott | Minst var sjätte månad |
-| --- | --- | --- | --- | --- |
 | 2.10.12 | 13 § 2 st LVU | Prövning om vård med stöd av 3 § LVU ska upphöra | Utskott | Minst var sjätte månad |
 | 2.10.13 | 14 § 2 st 1 p LVU | Beslut om umgängesbegränsning | Utskott | Om nämndens beslut inte kan avvaktas får<br>nämndens ordförande eller annan ledamot som<br>nämnden har förordnat besluta i frågan |
 | 2.10.14 | 14 § 2 st 1 p LVU | Beslut om upphörande av umgängesbegränsning | Utskott |  |
@@ -17051,15 +17215,7 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.10.27 | 31 § LVU | Beslut om hur den unges umgänge med föräldrar eller<br>vårdnadshavare ska utövas efter beslut om flyttningsförbud eller<br>tillfälligt flyttningsförbud | Utskott |  |
 | 2.10.28 | 31 b § LVU | Beslut om att ansöka om utreseförbud hos förvaltningsrätten | Utskott |  |
 | 2.10.29 | 31 c § LVU | Beslut i fråga om fortsatt utreseförbud | Utskott | En prövning ska göras minst var sjätte månad samt<br>efter begäran från den unge eller dennes<br>vårdnadshavare |
-
-<!-- sida 428 -->
-
-Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 25 (27)
-
-[Tabell 428-1](handlingar.tabeller/428-1.csv)
-
 | 2.10.30 | 31 d § LVU | Beslut om tillfälligt utreseförbud | Utskott | Om socialnämndens beslut om tillfälligt utreseförbud<br>inte kan avvaktas, får nämndens ordförande eller<br>någon annan ledamot som nämnden har förordnat<br>besluta om ett sådant förbud. Beslutet ska anmälas<br>vid nämndens nästa sammanträde. |
-| --- | --- | --- | --- | --- |
 | 2.10.31 | 31 g § 2 st LVU | Beslut om att tillfälligt utreseförbud ska upphöra | Utskott |  |
 | 2.10.32 | 31 i § LVU | Beslut om tillfälligt utreseförbud ska upphöra | Utskott |  |
 | 2.10.33 | 32 § 1 st LVU | Beslut om läkarundersökning inför ansökan enligt 4 § LVU | Vc KC | Utan samtycke endast poliklinisk under-sökning.<br>Vårdnads-havare måste informer-as före beslut om<br>läkarundersökning |
@@ -17069,6 +17225,14 @@ Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.10.37 | 30 kap 2 § SoL | Rätt att såsom ombud föra nämndens talan i mål och ärenden vid<br>domstol. | Fc |  |
 | 2.10.38 | 14 a § 2 st LVU | Lämna uppgifter om enskilda som vårdas enligt LVU till Statens<br>institutionsstyrelse | Fc |  |
 | 2.10.39 | 30 §<br>folkbokföringslagen | Ansöka om skyddad folkbokföring för barn som vårdas enligt 2 §<br>LVU | Fc |  |
+
+<!-- sida 427 -->
+
+Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 24 (27)
+
+<!-- sida 428 -->
+
+Kungsbacka kommun  Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmarknad 25 (27)
 
 <!-- sida 429 -->
 

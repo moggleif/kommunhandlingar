@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6900ef2d1932979363734564/1731915214
 sha256: 9734b84587848768a8592a967403f835e50d0df6f283f562bf179b7732f516b4
 bytes: 10188813
 sidor: 191
-hamtad: 2026-10-08T02:09:21+00:00
-konverterad: 2026-10-08T02:09:58+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:48:48+00:00
+konverterad: 2026-10-14T09:49:19+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [83, 85, 87, 88, 89, 90, 92, 93, 95, 98, 99, 142, 143, 144, 148, 150, 151]
+figurer: [3, 6, 20, 33, 39, 55, 59, 78, 84, 85, 86, 88, 89, 91, 92, 93, 94, 95, 96, 97, 98, 99, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 113, 114, 115, 116, 118, 119, 120, 121, 123, 124, 125, 126, 127, 128, 129, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 157, 167]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -597,7 +597,7 @@ mångfald.
 
 12
 
-[Tabell 14-1](handlingar.tabeller/14-1.csv)
+[Tabell 14-15-1](handlingar.tabeller/14-15-1.csv)
 
 | Indikator | Utfall 2022 | Utfall 2023 | Utfall<br>2024 | Målsättning<br>2025 |
 | --- | --- | --- | --- | --- |
@@ -610,6 +610,15 @@ mångfald.
 | Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 97 |  |  | Minska |
 | Avfall från kommunens verksamheter ska minska<br>med 40 % per heltidsanställd. Startvärde 100,<br>målvärde 2030 är 60. | 84,5 |  |  | Minska |
 | Utsläpp till luft av växthusgaser totalt, ton CO2-<br>ekv/inv (Kolada) | 2,27 |  |  | Minska |
+| Fossiloberoende personbilar, andel av totalt antal<br>bilar i det geografiska området, (Kolada) | 21,2 % | 24,1 % |  | Öka |
+| Slutanvändning av energi inom det geografiska<br>området, MWh/inv (Kolada) | 7 |  |  | Minska |
+| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,86 | 1,79 |  | Minska |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
+| Skyddad natur totalt, andel (Kolada) | 7,4 % | 7,4 % |  | Öka |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) | 18,5 |  |  | Öka |
+| Fossiloberoende personbilar i<br>kommunorganisationen, andel (%) | 94,6 % | 96,2 % |  | Öka |
+| Andelen återbrukade möbler |  |  |  | Öka |
+| Kommunens verksamheters elförbrukning, total<br>(kWh) |  |  |  | Minska |
 
 <!-- sida 15 -->
 
@@ -628,20 +637,6 @@ mellan näringsliv och utbildning.
 13
 
 [Tabell 15-1](handlingar.tabeller/15-1.csv)
-
-| Indikator | Utfall 2022 | Utfall 2023 | Utfall<br>2024 | Målsättning<br>2025 |
-| --- | --- | --- | --- | --- |
-| Fossiloberoende personbilar, andel av totalt antal<br>bilar i det geografiska området, (Kolada) | 21,2 % | 24,1 % |  | Öka |
-| Slutanvändning av energi inom det geografiska<br>området, MWh/inv (Kolada) | 7 |  |  | Minska |
-| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,86 | 1,79 |  | Minska |
-| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
-| Skyddad natur totalt, andel (Kolada) | 7,4 % | 7,4 % |  | Öka |
-| Vattendrag med god ekologisk status, andel<br>(Kolada) | 18,5 |  |  | Öka |
-| Fossiloberoende personbilar i<br>kommunorganisationen, andel (%) | 94,6 % | 96,2 % |  | Öka |
-| Andelen återbrukade möbler |  |  |  | Öka |
-| Kommunens verksamheters elförbrukning, total<br>(kWh) |  |  |  | Minska |
-
-[Tabell 15-2](handlingar.tabeller/15-2.csv)
 
 | Indikator | Utfall 2022 | Utfall 2023 | Utfall<br>2024 | Målsättning<br>2025 |
 | --- | --- | --- | --- | --- |
@@ -1708,7 +1703,7 @@ Intern kontrollplan 2025
 
 11
 
-[Tabell 41-1](handlingar.tabeller/41-1.csv)
+[Tabell 41-42-1](handlingar.tabeller/41-42-1.csv)
 
 | Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
 | --- | --- |
@@ -1719,6 +1714,8 @@ Intern kontrollplan 2025
 |  | Risk för att 3. Kännbar Rutin finns för att<br>rutinen kring (uppfattas som informera berörda<br>1. Osannolik<br>återkallade varor besvärande för kök<br>(risken är praktiskt<br>inte följs. berörda<br>taget obefintlig)<br>intressenter och<br>kommunen) |
 |  | Ökad risk för hot 4. Allvarlig/stor Det finns rutiner<br>och våld i de inverkan (så stor och<br>2. Mindre vanligt<br>kanaler vi möter att den inte får säkerhetsanordnin<br>invånare. inträffa) gar |
 |  | Risk för Det finns rutiner för<br>personuppgiftsin 3. Kännbar att hantera<br>cident kopplat till (uppfattas som sekretessbelagda<br>ärendehanterings besvärande för uppgifter på annat<br>2. Mindre vanligt<br>systemet. berörda sätt, och<br>intressenter och incidentrapporterin<br>kommunen) g ifall det skulle<br>uppstå. |
+|  | Risk för att vi inte Vi omhändertar<br>kan säkerställa risken genom att<br>3. Kännbar<br>långsiktig kvalitet bygga upp<br>(uppfattas som<br>och korrekthet i arbetssätt för<br>besvärande för<br>egenutvecklade 2. Mindre vanligt egenutvecklade<br>berörda<br>programvaror programvaror.<br>intressenter och<br>och programvara<br>kommunen)<br>med öppen<br>källkod. |
+|  | Risk för beroende 3. Kännbar Utveckling pågår<br>av enstaka (uppfattas som av<br>leverantörer för besvärande för inköpsprocessen<br>2. Mindre vanligt<br>viktiga berörda där detta ingår.<br>leveranser. intressenter och<br>kommunen) |
 
 <!-- sida 42 -->
 
@@ -1726,13 +1723,6 @@ Nämnden för Service                              Kungsbacka kommun
 Intern kontrollplan 2025
 
 12
-
-[Tabell 42-1](handlingar.tabeller/42-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-|  | Risk för att vi inte Vi omhändertar<br>kan säkerställa risken genom att<br>3. Kännbar<br>långsiktig kvalitet bygga upp<br>(uppfattas som<br>och korrekthet i arbetssätt för<br>besvärande för<br>egenutvecklade 2. Mindre vanligt egenutvecklade<br>berörda<br>programvaror programvaror.<br>intressenter och<br>och programvara<br>kommunen)<br>med öppen<br>källkod. |
-|  | Risk för beroende 3. Kännbar Utveckling pågår<br>av enstaka (uppfattas som av<br>leverantörer för besvärande för inköpsprocessen<br>2. Mindre vanligt<br>viktiga berörda där detta ingår.<br>leveranser. intressenter och<br>kommunen) |
 
 <!-- sida 43 -->
 
@@ -5836,7 +5826,12 @@ Inflyttningar Utflyttningar Flyttningsöverskott
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | Falkenberg | Varberg | Kungsbacka | Göteborg | Mölndal | Halmstad |
 | --- | --- | --- | --- | --- | --- | --- |
-| <1 år 29 27 20 37 27 38<br>1–2 år 17 17 11 19 14 19<br>2–3 år 10 8 7 9 9 10<br>3–5 år 8 8 7 8 8 7<br>5–10 år 7 8 10 7 9 6<br>>10 år 29 32 45 19 33 20 |  |  |  |  |  |  |
+| <1 år | 29 | 27 | 20 | 37 | 27 | 38 |
+| 1–2 år | 17 | 17 | 11 | 19 | 14 | 19 |
+| 2–3 år | 10 | 8 | 7 | 9 | 9 | 10 |
+| 3–5 år | 8 | 8 | 7 | 8 | 8 | 7 |
+| 5–10 år | 7 | 8 | 10 | 7 | 9 | 6 |
+| >10 år | 29 | 32 | 45 | 19 | 33 | 20 |
 
 <!-- sida 145 -->
 
@@ -5854,7 +5849,13 @@ ungdomar och 1/3-del svarar att det är balans.
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | KUNGSBACKA<br>STAD | SLÄP | VALLDA | ONSALA | FJÄRÅS | ÅSA<br>FRILLESÅS | GÄLLINGE | ÄLVSÅKER | KOMMUN |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <1 år 31 12 12 12 17 18 20 20 20<br>1–2 år 16 5 8 6 13 8 16 11 11<br>2–3 år 10 5 3 4 7 5 7 7 7<br>3–5 år 8 8 6 7 8 6 6 10 7<br>5–10 år 10 11 7 11 10 11 6 9 10<br>>10 år 24 59 64 61 46 51 45 44 45<br>Total 100 100 100 100 100 100 100 100 100 |  |  |  |  |  |  |  |  |  |
+| <1 år | 31 | 12 | 12 | 12 | 17 | 18 | 20 | 20 | 20 |
+| 1–2 år | 16 | 5 | 8 | 6 | 13 | 8 | 16 | 11 | 11 |
+| 2–3 år | 10 | 5 | 3 | 4 | 7 | 5 | 7 | 7 | 7 |
+| 3–5 år | 8 | 8 | 6 | 7 | 8 | 6 | 6 | 10 | 7 |
+| 5–10 år | 10 | 11 | 7 | 11 | 10 | 11 | 6 | 9 | 10 |
+| >10 år | 24 | 59 | 64 | 61 | 46 | 51 | 45 | 44 | 45 |
+| Total | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |
 
 <!-- sida 146 -->
 
@@ -7274,7 +7275,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (7)
 
-[Tabell 186-1](handlingar.tabeller/186-1.csv)
+[Tabell 186-190-1](handlingar.tabeller/186-190-1.csv)
 
 | Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning<br>Verksamhetslokal Hemtjänst och<br>Hemsjukvård Centrum | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
 | --- | --- | --- | --- |
@@ -7283,32 +7284,14 @@ KUNGSBACKA  KOMMUN
 | Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning:<br>Verksamhetslokal för Digital<br>Hemtjänst och Hemsjukvård | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
 | Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning:<br>Verksamhetslokal med<br>parkeringsplatser Hemtjänst<br>Kullavik | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
 | Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning:<br>Verksamhetslokal Hemsjukvård<br>IF | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
-
-<!-- sida 187 -->
-
-KUNGSBACKA  KOMMUN
-3 (7)
-
-[Tabell 187-1](handlingar.tabeller/187-1.csv)
-
 | Lokalbehov 2026-2030 –<br>Vård- och Omsorg -<br>Behovsbeskrivning:<br>Anslutningspunkt för Nödvatten<br>på vård och omsorgsboende | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
-| --- | --- | --- | --- |
 | Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning: Utbyggnad<br>av Wifi och Data på vård och<br>omsorgsboende | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
 | Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning: Digitala<br>Trygghetslarm på vård och<br>omsorgsboende | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
 | Lokalbehov 2026-2030 -<br>Vård- och Omsorg -<br>Behovsbeskrivning: Digitalt<br>Låssystem på vård och<br>omsorgsboende | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
 | Lokalbehov 2026-2030 - Vård-<br>och Omsorg - Adresser och<br>avtalstider, verksamhetslokaler | 2024-09-24 | SE-2024-00333 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035<br>Vård- och Omsorg |
 | (Kommunstyrelsen)<br>(Beslut § 205)<br>Intern kontroll 2025 för<br>kommunstyrelsen | 2024-10-01 | SE-2024-00340 | Intern kontroll 2025 för<br>kommunstyrelsen |
 | Kommunledningskontorets<br>tjänsteskrivelse -<br>Intern kontroll 2025 för<br>kommunstyrelsen | 2024-10-01 | SE-2024-00340 | Intern kontroll 2025 för<br>kommunstyrelsen |
-
-<!-- sida 188 -->
-
-KUNGSBACKA  KOMMUN
-4 (7)
-
-[Tabell 188-1](handlingar.tabeller/188-1.csv)
-
 | Intern kontrollplan 2025<br>Kommunstyrelsen | 2024-10-01 | SE-2024-00340 | Intern kontroll 2025 för<br>kommunstyrelsen |
-| --- | --- | --- | --- |
 | (Nämnden för Förskola &<br>Grundskola) (Beslut § 99)<br>Lokalbehov 2026-2030 utblicksår<br>2031-2035 | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
 | (Förskola & Grundskola)<br>Tjänsteskrivelse - Lokalbehov<br>2026-2030 utblicksår 2031-2035 | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
 | (Förskola & grundskola<br>arbetsutskott) (Beslut § 98)<br>Lokalbehov 2026-2030 utblicksår<br>2031-2035 (lokalplan) | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
@@ -7316,32 +7299,14 @@ KUNGSBACKA  KOMMUN
 | Lokalbehov 2026-2030 utblicksår<br>2031-2035 -<br>Förskola & Grundskola -<br>Koncept Utbildningslokaler 1.5 | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
 | Lokalbehov 2026-2030,<br>utblicksår 2031-2035 -<br>Förskola & Grundskola | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
 | Lokalbehov 2026-2030<br>Utblicksår 2031-2035 -<br>Förskola & Grundskola | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
-
-<!-- sida 189 -->
-
-KUNGSBACKA  KOMMUN
-5 (7)
-
-[Tabell 189-1](handlingar.tabeller/189-1.csv)
-
 | Bilaga 1: Behovsbeskrivning<br>verksamhetsanpassning för att<br>uppfylla myndighetskrav<br>förskolor | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
-| --- | --- | --- | --- |
 | Bilaga 2: Behovsbeskrivning<br>verksamhetsanpassning för att<br>uppfylla myndighetskrav<br>grundskolor | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
 | Bilaga 3: Behovsbeskrivning<br>volymändring förskolor Nordväst | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
 | Bilaga 4: Behovsbeskrivning<br>verksamhetsanpassning<br>omdisponering av verksamheter i<br>befintliga lokaler | 2024-10-03 | SE-2024-00347 | Lokalbehov 2026-2030<br>utblicksår 2031-2035<br>Förskola & Grundskola<br>(FG-2024-00599) |
 | (Kommunfullmäktige)<br>(Beslut § 120)<br>Antagande av riktlinjer för<br>studiebesök för förtroendevalda<br>politiker i kommunens<br>verksamheter | 2024-10-18 | SE-2024-00366 | Riktlinjer för studiebesök för<br>förtroendevalda politiker i<br>kommunens verksamheter |
 | Kommunstyrelsens förvaltnings<br>Tjänsteskrivelse -<br>Antagande av Riktlinjer -<br>Studiebesök för förtroendevalda i<br>kommunens verksamheter | 2024-10-18 | SE-2024-00366 | Riktlinjer för studiebesök för<br>förtroendevalda politiker i<br>kommunens verksamheter |
 | Studiebesök för förtroendevalda<br>politiker i kommunens<br>verksamheter -<br>Riktlinjer (KF 2024-10-08 § 120) | 2024-10-18 | SE-2024-00366 | Riktlinjer för studiebesök för<br>förtroendevalda politiker i<br>kommunens verksamheter |
-
-<!-- sida 190 -->
-
-KUNGSBACKA  KOMMUN
-6 (7)
-
-[Tabell 190-1](handlingar.tabeller/190-1.csv)
-
 | (Kommunstyrelsen)<br>(Beslut § 228)<br>Uppstart av projekt i lokalplan -<br>Åsa grundskola | 2024-10-25 | SE-2024-00370 | Uppstart av projekt i lokalplan<br>- Åsa grundskola |
-| --- | --- | --- | --- |
 | Kommunstyrelsens förvaltning<br>tjänsteskrivelse -<br>Uppstart av projekt i lokalplan<br>Åsa grundskolan | 2024-10-25 | SE-2024-00370 | Uppstart av projekt i lokalplan<br>- Åsa grundskola |
 | Kommunbudget 2025, plan 2026-<br>2027, lokalplan ss. 45-53 | 2024-10-25 | SE-2024-00370 | Uppstart av projekt i lokalplan<br>- Åsa grundskola |
 | (Nämnden för Kultur & Fritid) -<br>(Beslut § 105)<br>Lokalbehovsplan 2026-2030 med<br>utblicksår 2031-2035 | 2024-10-25 | SE-2024-00371 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 -<br>Kultur & Fritid |
@@ -7350,6 +7315,26 @@ KUNGSBACKA  KOMMUN
 | Bilaga: (E-post) - Liten teater för<br>repetitioner och föreställningar | 2024-10-25 | SE-2024-00371 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 -<br>Kultur & Fritid |
 | Bilaga: Liten teater för<br>repetitioner och föreställningar -<br>Lokalplan 2026-2030 -<br>Kultur & Fritid | 2024-10-25 | SE-2024-00371 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 -<br>Kultur & Fritid |
 | Bilaga: Konstförråd -<br>Lokalbehovsplan 2026-2030<br>Kultur & Fritid | 2024-10-25 | SE-2024-00371 | Lokalbehovsplan 2026-2030<br>med utblicksår 2031-2035 -<br>Kultur & Fritid |
+
+<!-- sida 187 -->
+
+KUNGSBACKA  KOMMUN
+3 (7)
+
+<!-- sida 188 -->
+
+KUNGSBACKA  KOMMUN
+4 (7)
+
+<!-- sida 189 -->
+
+KUNGSBACKA  KOMMUN
+5 (7)
+
+<!-- sida 190 -->
+
+KUNGSBACKA  KOMMUN
+6 (7)
 
 <!-- sida 191 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7dc0295196b0231a1161b9f/17470480369
 sha256: 4723a7cd18cf52a246ec4aa1bf8fd867fcd89edfcdadf7e6a1903df067634e11
 bytes: 4802265
 sidor: 64
-hamtad: 2026-10-08T02:11:26+00:00
-konverterad: 2026-10-08T02:11:52+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T09:50:45+00:00
+konverterad: 2026-10-14T09:51:07+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [7, 8]
-figurer: null
-tolkade: null
+figurer: [5, 7, 8, 11, 35]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1087,24 +1087,48 @@ Drift per verksamhet
 
 [Tabell 25-1](handlingar.tabeller/25-1.csv)
 
-| Service, Intäkter | Bokslut<br>2024<br>526,2 | Årsbudget<br>2025<br>538,7 | Helårs-<br>prognos<br>2025<br>534,8 | Avvikelse<br>2025<br>-3,9 |
+|  | Bokslut<br>2024 | Årsbudget<br>2025 | Helårs-<br>prognos<br>2025 | Avvikelse<br>2025 |
 | --- | --- | --- | --- | --- |
+| Service, Intäkter | 526,2 | 538,7 | 534,8 | -3,9 |
 | Service, kostnader | -573,4 | -595,8 | -591,8 | 4,0 |
 | Fastigheter, Intäkter | 876,0 | 907,9 | 913,0 | 5,1 |
 | Fastigheter, kostnader | -908,6 | -928,0 | -935,5 | -7,5 |
 | Ram | 71,1 | 77,2 | 77,2 | 0,0 |
 | Periodens resultat | -8,7 | 0,0 | -2,3 | -2,3 |
 
-[Tabell 25-2](handlingar.tabeller/25-2.csv)
+[Tabell 25-26-2](handlingar.tabeller/25-26-2.csv)
 
-| Gemensam verksamhet | Intäkt | Bokslut<br>2024<br>28,6 | Årsbudget<br>2025<br>24,1 | Helårs-<br>prognos<br>2025<br>24,1 | Avvikelse<br>2025<br>0,0 |
+|  |  | Bokslut<br>2024 | Årsbudget<br>2025 | Helårs-<br>prognos<br>2025 | Avvikelse<br>2025 |
 | --- | --- | --- | --- | --- | --- |
+| Gemensam verksamhet | Intäkt | 28,6 | 24,1 | 24,1 | 0,0 |
 |  | Kostnad | -24,6 | -30,3 | -29,3 | 1,0 |
 |  | Netto | 4,0 | -6,2 | -5,2 | 1,0 |
 | Digitalt center | Intäkt | 83,7 | 91,6 | 90,6 | -1,0 |
 |  | Kostnad | -87,9 | -99,2 | -99,3 | -0,1 |
 |  | Netto | -4,2 | -7,6 | -8,7 | -1,1 |
 | HR & Personalförsörjning | Intäkt | 29,8 | 36,6 | 34,7 | -1,9 |
+|  | Kostnad | -42,3 | -42,8 | -41,5 | 1,3 |
+|  | Netto | -12,5 | -6,2 | -6,8 | -0,6 |
+| Utveckling,<br>Kommunikation & KS | Intäkt | 18,8 | 23,5 | 23,5 | 0,0 |
+|  | Kostnad | -42,0 | -49,5 | -49,2 | 0,3 |
+|  | Netto | -23,3 | -26,0 | -25,7 | 0,3 |
+| Inköp | Intäkt | 33,2 | 31,4 | 31,4 | 0,0 |
+|  | Kostnad | -37,0 | -35,3 | -36,1 | -0,8 |
+|  | Netto | -3,9 | -3,9 | -4,7 | -0,8 |
+| Måltider | Intäkt | 238,7 | 240,8 | 239,6 | -1,2 |
+|  | Kostnad | -249,5 | -249,2 | -247,9 | 1,3 |
+|  | Netto | -10,7 | -8,4 | -8,3 | 0,1 |
+| Lokalvård | Intäkt | 137,3 | 137,4 | 137,6 | 0,2 |
+|  | Kostnad | -134,0 | -136,4 | -135,3 | 1,1 |
+|  | Netto | 3,3 | 1,1 | 2,3 | 1,2 |
+| Fastigheter | Intäkt | 894,0 | 917,4 | 922,6 | 5,2 |
+|  | Kostnad | -903,4 | -930,1 | -916,4 | 13,7 |
+|  | Netto | -9,4 | -12,7 | 6,2 | 18,9 |
+| Lokalförsörjning | Intäkt | 2,9 | 2,1 | 2,0 | -0,1 |
+|  | Kostnad | -26,0 | -9,4 | -30,7 | -21,3 |
+|  | Netto | -23,1 | -7,3 | -28,7 | -21,4 |
+| Ram |  | 71,1 | 77,2 | 77,2 | 0,0 |
+| Periodens resultat |  | -8,7 | 0,0 | -2,4 | -2,4 |
 
 <!-- sida 26 -->
 
@@ -1129,32 +1153,6 @@ uppstått då inköpen belastar driften och inte bedömts kunna kategoriseras so
 för att se om bedömningen kan revideras. I nuläge sker debitering till systerförvaltningarna över flera år
 
 16
-
-[Tabell 26-1](handlingar.tabeller/26-1.csv)
-
-|  | Kostnad | -42,3 | -42,8 | -41,5 | 1,3 |
-| --- | --- | --- | --- | --- | --- |
-|  | Netto | -12,5 | -6,2 | -6,8 | -0,6 |
-| Utveckling,<br>Kommunikation & KS | Intäkt | 18,8 | 23,5 | 23,5 | 0,0 |
-|  | Kostnad | -42,0 | -49,5 | -49,2 | 0,3 |
-|  | Netto | -23,3 | -26,0 | -25,7 | 0,3 |
-| Inköp | Intäkt | 33,2 | 31,4 | 31,4 | 0,0 |
-|  | Kostnad | -37,0 | -35,3 | -36,1 | -0,8 |
-|  | Netto | -3,9 | -3,9 | -4,7 | -0,8 |
-| Måltider | Intäkt | 238,7 | 240,8 | 239,6 | -1,2 |
-|  | Kostnad | -249,5 | -249,2 | -247,9 | 1,3 |
-|  | Netto | -10,7 | -8,4 | -8,3 | 0,1 |
-| Lokalvård | Intäkt | 137,3 | 137,4 | 137,6 | 0,2 |
-|  | Kostnad | -134,0 | -136,4 | -135,3 | 1,1 |
-|  | Netto | 3,3 | 1,1 | 2,3 | 1,2 |
-| Fastigheter | Intäkt | 894,0 | 917,4 | 922,6 | 5,2 |
-|  | Kostnad | -903,4 | -930,1 | -916,4 | 13,7 |
-|  | Netto | -9,4 | -12,7 | 6,2 | 18,9 |
-| Lokalförsörjning | Intäkt | 2,9 | 2,1 | 2,0 | -0,1 |
-|  | Kostnad | -26,0 | -9,4 | -30,7 | -21,3 |
-|  | Netto | -23,1 | -7,3 | -28,7 | -21,4 |
-| Ram |  | 71,1 | 77,2 | 77,2 | 0,0 |
-| Periodens resultat |  | -8,7 | 0,0 | -2,4 | -2,4 |
 
 <!-- sida 27 -->
 
@@ -1262,7 +1260,7 @@ Investeringar (belopp i miljoner kronor)
 
 18
 
-[Tabell 28-1](handlingar.tabeller/28-1.csv)
+[Tabell 28-29-1](handlingar.tabeller/28-29-1.csv)
 
 |  | Bokslut<br>2024 | Utfall jan-<br>apr 2025 | Helårsprog<br>nos 2025 | Årsbudget<br>2025 | Avvikelse<br>2025 |
 | --- | --- | --- | --- | --- | --- |
@@ -1270,6 +1268,12 @@ Investeringar (belopp i miljoner kronor)
 | Löpande årliga investeringar<br>- Utgifter | -13,6 | -0,2 | -1,2 | -1,2 | 0,0 |
 | Lokaler - Utgifter | -146,6 | -25,5 | -148,4 | -140,7 | -7,7 |
 | Övriga investeringar - Utgifter | -9,1 | -1,8 | -19,4 | -3,0 | -16,4 |
+| Reinvesteringar - Utgifter | -49,5 | -7,7 | -72,8 | -72,8 | 0,0 |
+|  |  |  |  |  |  |
+| Service |  |  |  |  |  |
+| Löpande investeringar - Utgifter | -18,5 | -1,1 | -27,1 | -34,0 | 6,9 |
+| Övriga investeringar - Utgifter | 0 | 0 | 0 | -8,0 | 8,0 |
+| Netto | -237,3 | -36,3 | -268,9 | -259,7 | -9,2 |
 
 <!-- sida 29 -->
 
@@ -1316,16 +1320,6 @@ prognoser bedömts behöva genomföras först år 2027.
 
 19
 
-[Tabell 29-1](handlingar.tabeller/29-1.csv)
-
-| Reinvesteringar - Utgifter | -49,5 | -7,7 | -72,8 | -72,8 | 0,0 |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-| Service |  |  |  |  |  |
-| Löpande investeringar - Utgifter | -18,5 | -1,1 | -27,1 | -34,0 | 6,9 |
-| Övriga investeringar - Utgifter | 0 | 0 | 0 | -8,0 | 8,0 |
-| Netto | -237,3 | -36,3 | -268,9 | -259,7 | -9,2 |
-
 <!-- sida 30 -->
 
 Nämnden för Service                              Kungsbacka kommun
@@ -1336,7 +1330,7 @@ Projekt (belopp i miljoner kronor)
 
 20
 
-[Tabell 30-1](handlingar.tabeller/30-1.csv)
+[Tabell 30-31-1](handlingar.tabeller/30-31-1.csv)
 
 | Projnr | Text | Totalbu<br>dget | Totalpro<br>gnos | Avvikel<br>se<br>totalt | Utfall<br>totalt<br>t.om.<br>april<br>2025 | Helårsp<br>rognos<br>2025 | Budget<br>2025 | Avvikel<br>se 2025 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1355,6 +1349,7 @@ Projekt (belopp i miljoner kronor)
 | 4920/4921 | Äpplegårdens<br>förskola | -81,8 | -81,8 | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 |
 | 4910/4911 | Gräskärr<br>förskola | -106,8 | -106,8 | 0,0 | -0,8 | 0,0 | 0,0 | 0,0 |
 | 461 P | Toråsskolan<br>reinvestering | -53,5 | -53,5 | 0,0 | -0,2 | -3,5 | 0,0 | -3,5 |
+| Summa projekt >30 mnkr |  | -2 085,5 | -2 070,8 | 14,8 | -490,5 | -121,51 | -105,6 | -15,91 |
 
 <!-- sida 31 -->
 
@@ -1375,12 +1370,6 @@ förskola och Gräskärrs förskola. Även Annebergs samverkanshus och Klovsten 
 pausats, men i dessa fall på grund av utmaningar med detaljplaner.
 
 21
-
-[Tabell 31-1](handlingar.tabeller/31-1.csv)
-
-| Projnr | Text | Totalbu<br>dget | Totalpro<br>gnos | Avvikel<br>se<br>totalt | Utfall<br>totalt<br>t.om.<br>april<br>2025 | Helårsp<br>rognos<br>2025 | Budget<br>2025 | Avvikel<br>se 2025 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Summa projekt >30 mnkr |  | -2 085,5 | -2 070,8 | 14,8 | -490,5 | -121,51 | -105,6 | -15,91 |
 
 <!-- sida 32 -->
 
@@ -1739,7 +1728,7 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 Kungsbacka kommun     Delegering av beslutanderätt - nämnden för Service 6 (12)
 
-[Tabell 40-1](handlingar.tabeller/40-1.csv)
+[Tabell 40-41-1](handlingar.tabeller/40-41-1.csv)
 
 | 2.1.6 | Dataskyddsförordningen<br>GDPR, artikel 28 | Teckna personuppgiftsbiträdesavtal. | FC | Rätten att vidaredelegera gäller tecknande av personuppgifts-<br>biträdesavtal för digital infrastruktur |
 | --- | --- | --- | --- | --- |
@@ -1753,18 +1742,14 @@ Kungsbacka kommun     Delegering av beslutanderätt - nämnden för Service 6 (1
 | 2.1.14 | Reglemente för<br>kommunstyrelsen och<br>övriga nämnder<br>i Kungsbacka kommun | Utse ombud med rätt att föra talan i alla mål och<br>ärenden som enligt lag eller annan författning<br>ankommer på nämnden eller på annat sätt faller inom<br>nämndens ansvarsområde. | FC |  |
 | 2.1.15 | Nämndens budget,<br>Regler och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet\* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | N Ordf.<br>För beslut som avser ordförande<br>beslutar vice ordförande | Rätt till arvode för deltagande på aktivitet regleras i Regler och<br>riktlinjer för förmåner till förtroendevalda<br>\*I samma dokument som ovan framgår vilka aktiviteter som<br>avses. |
 | 2.1.16 |  | Underteckna bidragsansökningar. | FC<br>VC<br>Ekonomichef | Statliga- och EU bidrag. Beslutsrätten gäller inom<br>budgetansvar för respektive verksamhetsområde. |
+| 2.1.17 |  | Förvaltningschefen har rätt att utfärda fullmakt i ärenden<br>angående bidrags-ansökningar, anmälan och hantering av<br>elcertifikat samt uppföljning/rapportering av nyckeltal inom<br>energiområdet hos Länsstyrelsen och Energimyndigheten. | FC |  |
+| 2.1.18 |  | Yttrande över planprogram i gransknings- och<br>samrådsskedet. | FC<br>VC Lokalförsörjning<br>VC Fastighet<br>Lokalplanerare | Ska anmälas vid nämndens nästa sammanträde. |
+| 2.1.19 |  | Yttrande över detaljplan i gransknings- och<br>samrådsskedet. | FC<br>VC Lokalförsörjning<br>VC Fastighet<br>Lokalplanerare | Ska anmälas vid nämndens nästa sammanträde. |
+| 2.2.20 |  | Yttrande över bygglov. | FC<br>Bitr. FC<br>VC Fastighet<br>VC Lokalförsörjning<br>EC Fastighet Stab | Ska anmälas vid nämndens nästa sammanträde. |
 
 <!-- sida 41 -->
 
 Kungsbacka kommun     Delegering av beslutanderätt - nämnden för Service 7 (12)
-
-[Tabell 41-1](handlingar.tabeller/41-1.csv)
-
-| 2.1.17 |  | Förvaltningschefen har rätt att utfärda fullmakt i ärenden<br>angående bidrags-ansökningar, anmälan och hantering av<br>elcertifikat samt uppföljning/rapportering av nyckeltal inom<br>energiområdet hos Länsstyrelsen och Energimyndigheten. | FC |  |
-| --- | --- | --- | --- | --- |
-| 2.1.18 |  | Yttrande över planprogram i gransknings- och<br>samrådsskedet. | FC<br>VC Lokalförsörjning<br>VC Fastighet<br>Lokalplanerare | Ska anmälas vid nämndens nästa sammanträde. |
-| 2.1.19 |  | Yttrande över detaljplan i gransknings- och<br>samrådsskedet. | FC<br>VC Lokalförsörjning<br>VC Fastighet<br>Lokalplanerare | Ska anmälas vid nämndens nästa sammanträde. |
-| 2.2.20 |  | Yttrande över bygglov. | FC<br>Bitr. FC<br>VC Fastighet<br>VC Lokalförsörjning<br>EC Fastighet Stab | Ska anmälas vid nämndens nästa sammanträde. |
 
 <!-- sida 42 -->
 
@@ -1796,7 +1781,7 @@ Kungsbacka kommun     Delegering av beslutanderätt - nämnden för Service 8 (1
 
 Kungsbacka kommun     Delegering av beslutanderätt - nämnden för Service 9 (12)
 
-[Tabell 43-1](handlingar.tabeller/43-1.csv)
+[Tabell 43-44-1](handlingar.tabeller/43-44-1.csv)
 
 | 2.2.6 |  | Reinvesteringar Fastigheter mellan 101 - 300<br>basbelopp. | FC | Rapporteras 1 gång per år. |
 | --- | --- | --- | --- | --- |
@@ -1804,21 +1789,17 @@ Kungsbacka kommun     Delegering av beslutanderätt - nämnden för Service 9 (1
 | 2.2.8 | Upphandlings-<br>lagstiftningen och<br>kommunens policy<br>och riktlinjer | Förhandling i projekt med entreprenör och beslut<br>avseende förändringar eller ändring, tillägg eller<br>avgående arbete (ÄTA), mellan 101-300 basbelopp.<br>Övre gräns är beslutad budget. | FC | I samråd med Inköp.<br>Beslutad budget i kommunfullmäktige är övre gräns.<br>Förändringen återrapporteras via delegeringsbeslut eller vid<br>slutredovisning av projekt. |
 | 2.2.9 | Upphandlings-<br>lagstiftningen och<br>kommunens policy<br>och riktlinjer | Förhandling i projekt med entreprenör och beslut<br>avseende förändringar eller ändring, tillägg eller avgående<br>arbete (ÄTA), mellan 21-100 basbelopp.<br>11-20 basbelopp<br>Övre gräns är beslutad budget. | FC<br>Bitr. FC<br>VC Lokalförsörjning<br>VC Fastighet<br>Projektledare Bygg<br>Lokalförsörjning<br>EC Fastighet<br>Projektledare Bygg Fastighet<br>Projektledare Fastighet<br>Förvaltare Fastighet | I samråd med Inköp.<br>Beslutad budget i kommunfullmäktige är övre gräns.<br>Upp till 10 basbelopp är verkställighet.<br>Förändringen återrapporteras via delegeringsbeslut eller vid<br>slutredovisning av projekt. |
 | 2.2.10 | Upphandlings-<br>lagstiftningen och<br>kommunens policy och<br>riktlinjer | Vara beställarens ombud under anbudstid och<br>byggentreprenad. | FC<br>Bitr. FC<br>VC Lokalförsörjning<br>VC Fastighet<br>Projektledare Bygg<br>Projektledare Fastighet<br>Förvaltare |  |
-
-<!-- sida 44 -->
-
-Kungsbacka kommun     Delegering av beslutanderätt - nämnden för Service 10 (12)
-
-[Tabell 44-1](handlingar.tabeller/44-1.csv)
-
 | 2.2.11 |  | Teckna avtal om personbilshantering. | FC<br>Bitr. FC<br>VC Fastighet<br>EC Fastighet Fordon |  |
-| --- | --- | --- | --- | --- |
 | 2.2.12 | Nämndens beslut<br>om nämndbudget<br>och Kungsbacka<br>styrmodell | Beslut om förvaltningsbudget med fördelning på<br>verksamhetsnivå. | FC |  |
 | 2.2.13 | Attestreglementet | Utse beslutsattestanter och ersättare för nämndens<br>verksamheter. | FC | Anmäls till nämnden 1 gång per år. |
 | 2.2.14 | Regler för kommunens<br>likvidplanering, krav-och<br>inkasso verksamhet<br>samt kontanthantering. | Beslut om att avskriva utestående fordringar upp till ett<br>prisbasbelopp. | FC<br>Ekonomichef | Avskrivning om högst ett basbelopp får vidaredelegeras.<br>Belopp upp till 0,5 prisbasbelopp utgör verkställighet. |
 | 2.2.15 |  | Försäljning av material.<br>Över ett prisbasbelopp.<br>Upp till ett prisbasbelopp. | FC<br>Bitr. FC<br>VC Fastighet<br>EC Fordon<br>Bitr. FC<br>VC<br>EC Fastighet | Anmäls till nämnden 1 gång per år. |
 | 2.2.16 |  | Hantera externa hyresavtal avseende lokaler mellan<br>kommun och hyresvärd med upp till 4 års avtalstid och en<br>årshyra upp till 30 basbelopp exklusive mervärdesskatt. | FC<br>Bitr. FC<br>VC Fastighet<br>EC Fastighet admin |  |
 | 2.2.17 |  | Hantera uppsägning av externa hyresavtal för<br>villkorsändring avseende lokaler mellan kommun och<br>hyresvärd. | FC<br>Bitr. FC<br>VC Fastighet<br>EC Fastighet<br>Administrativ förvaltare |  |
+
+<!-- sida 44 -->
+
+Kungsbacka kommun     Delegering av beslutanderätt - nämnden för Service 10 (12)
 
 <!-- sida 45 -->
 
@@ -2027,18 +2008,59 @@ X               Med rätt att vidaredelegera till annan anställd
 
 <!-- sida 53 -->
 
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
-
-| 2.1.8 | Dataskydds-<br>förordningen<br>GDPR, artikel 28<br>Hantering av<br>personuppgifter,<br>Riktlinjer,<br>Kommunfullmäktige<br>2024-03-05 § 33 | Ge fullmakt att underteckna<br>personuppgiftsbiträdesavtal<br>för digital tjänst eller system<br>som ska användas<br>gemensamt med en eller<br>flera andra nämnder | FC |  | Fullmakt får ges till tjänsteman<br>som ska vara systemägare för<br>den digitala tjänsten eller<br>systemet. |
-| --- | --- | --- | --- | --- | --- |
-| 2.1.9 | Dataskydds-<br>förordningen<br>GDPR, artikel 30 | Fastställa register över<br>personuppgiftsbehandlingar. | FC |  | Anmäls till nämnden en gång<br>per år. |
-| 2.1.10 | Dataskydds-<br>förordningen<br>GDPR, artikel 33<br>och 34 | Hantering av<br>personuppgiftsincident. | FC |  |  |
-| 2.1.11 | Dataskydds-<br>förordningen<br>GDPR artikel 35 | Beslut med anledning av<br>konsekvensbedömning<br>avseende dataskydd. | FC |  | Om aktuell behandling är<br>förknippad med omfattande<br>risker ska beslut om<br>konsekvensbedömningen lyftas<br>till nämnden för Service. |
-| 2.1.12 | Dataskydds-<br>förordningen,<br>GDPR artikel 37 | Utse dataskyddsombud<br>för nämnden. | FC |  | Beslutet ska anmälas till<br>Integritetsskyddsmyndigheten<br>(IMY). |
-| 2.1.13 | Arkivbeskrivning,<br>nämnden för Service<br>2021-04-29 § 35 | Utse Informations-<br>redogörare för<br>förvaltningen för Service. | FC |  | Anmäls till nämnden<br>1 ggr per år. |
-| 2.1.14 | Reglemente för<br>kommunstyrelsen och<br>övriga nämnder<br>i Kungsbacka kommun | Utse ombud med rätt att föra<br>talan i alla mål och ärenden<br>som enligt lag eller annan<br>författning ankommer på<br>nämnden eller på annat sätt<br>faller inom nämndens<br>ansvarsområde. | FC |  |  |
-| 2.1.15 | Nämndens budget,<br>Regler och riktlinjer för<br>förmåner till<br>förtroendevalda<br>Kommunfullmäktige<br>2023-04-04 § 46 | Deltagande i aktivitet för<br>ordförande, vice ordförande,<br>ledamot och ersättare i<br>nämnden. | Ordf.<br>För beslut<br>som avser<br>ordförande<br>beslutar vice<br>ordförande |  | Rätt till arvode för deltagande<br>på aktivitet regleras i<br>”Regler och riktlinjer för<br>förmåner till förtroendevalda”.<br>Där framgår vilka aktiviteter<br>som avses. |
-| 2.1.16 |  | Underteckna<br>bidragsansökningar. | FC | X | Statliga- och EU bidrag.<br>Beslutsrätten gäller inom<br>budgetansvar för respektive<br>verksamhetsområde. |
+2.1.8  Dataskydds-     Ge fullmakt att underteckna FC      Fullmakt får ges till tjänsteman
+förordningen    personuppgiftsbiträdesavtal         som ska vara systemägare för
+den digitala tjänsten eller
+GDPR, artikel 28 för digital tjänst eller system
+systemet.
+som ska användas
+Hantering av
+gemensamt med en eller
+personuppgifter,
+flera andra nämnder
+Riktlinjer,
+Kommunfullmäktige
+2024-03-05 § 33
+2.1.9  Dataskydds-     Fastställa register över FC         Anmäls till nämnden en gång
+förordningen    personuppgiftsbehandlingar.         per år.
+GDPR, artikel 30
+2.1.10 Dataskydds-     Hantering av        FC
+förordningen    personuppgiftsincident.
+GDPR, artikel 33
+och 34
+2.1.11 Dataskydds-     Beslut med anledning av FC          Om aktuell behandling är
+förordningen    konsekvensbedömning                 förknippad med omfattande
+risker ska beslut om
+GDPR artikel 35 avseende dataskydd.
+konsekvensbedömningen lyftas
+till nämnden för Service.
+2.1.12 Dataskydds-     Utse dataskyddsombud FC             Beslutet ska anmälas till
+förordningen,   för nämnden.                        Integritetsskyddsmyndigheten
+(IMY).
+GDPR artikel 37
+2.1.13 Arkivbeskrivning, Utse Informations- FC             Anmäls till nämnden
+nämnden för Service redogörare för                  1 ggr per år.
+2021-04-29 § 35 förvaltningen för Service.
+2.1.14 Reglemente för  Utse ombud med rätt att föra FC
+kommunstyrelsen och talan i alla mål och ärenden
+övriga nämnder  som enligt lag eller annan
+i Kungsbacka kommun författning ankommer på
+nämnden eller på annat sätt
+faller inom nämndens
+ansvarsområde.
+2.1.15 Nämndens budget, Deltagande i aktivitet för Ordf.   Rätt till arvode för deltagande
+Regler och riktlinjer för ordförande, vice ordförande, på aktivitet regleras i
+För beslut
+”Regler och riktlinjer för
+förmåner till   ledamot och ersättare i
+som avser       förmåner till förtroendevalda”.
+förtroendevalda nämnden.            ordförande      Där framgår vilka aktiviteter
+Kommunfullmäktige                   beslutar vice   som avses.
+2023-04-04 § 46                     ordförande
+2.1.16                 Underteckna         FC      X       Statliga- och EU bidrag.
+bidragsansökningar.                 Beslutsrätten gäller inom
+budgetansvar för respektive
+verksamhetsområde.
 
 <!-- sida 54 -->
 
@@ -2075,7 +2097,7 @@ avslagit ansökan om överprövning
 
 <!-- sida 56 -->
 
-[Tabell 56-1](handlingar.tabeller/56-1.csv)
+[Tabell 56-57-1](handlingar.tabeller/56-57-1.csv)
 
 | 2.2.5 | Upphandlings-<br>lagstiftningen och<br>kommunens<br>policy och<br>riktlinjer | Förhandling med<br>entreprenör och beslut<br>avseende förändringar,<br>upp till 100-300<br>basbelopp. Övre gräns är<br>beslutad budget. | FC |  | I samråd med Inköp.<br>Beslutad budget i<br>kommunfullmäktige är<br>övre gräns. |
 | --- | --- | --- | --- | --- | --- |
@@ -2087,6 +2109,10 @@ avslagit ansökan om överprövning
 | 2.2.11 | Regler för<br>kommunens<br>likvidplanering,<br>krav-och inkasso<br>verksamhet samt<br>kontanthantering.<br>Fastställt av<br>Kommun-<br>fullmäktige<br>2010-09-07 § 160 | Beslut om att avskriva<br>utestående fordringar upp till<br>ett prisbasbelopp. | FC | X | Avskrivning om högst<br>ett basbelopp får<br>vidaredelegeras.<br>Belopp upp till<br>0,5 prisbasbelopp<br>utgör verkställighet. |
 | 2.2.12 |  | Försäljning av material.<br>Över ett prisbasbelopp.<br>Upp till ett prisbasbelopp. | FC<br>FC | X | Anmäls till nämnden en<br>gång per år |
 | 2.2.13 |  | Hantera externa hyresavtal<br>avseende lokaler mellan<br>kommun och hyresvärd med<br>upp till 4 års avtalstid och en<br>årshyra upp till 30 basbelopp<br>exklusive mervärdesskatt. | FC | X |  |
+| 2.2.14 |  | Hantera uppsägning av externa<br>hyresavtal för villkorsändring<br>avseende lokaler mellan<br>kommun och hyresvärd. | FC | X |  |
+| 2.2.15 | Upphandlings-<br>lagstiftningen och<br>kommunens policy<br>och riktlinjer | Godkännande av så<br>kallade ÄTA-arbeten<br>gentemot extern hyresvärd<br>under projekttiden för<br>inhyrningsprojekt.<br>Beställningarna utgår från<br>kontrakterad årshyra.<br>Övre gräns är beslutad budget. | FC | X | I samråd med<br>Service Inköp<br>Beslutad budget i<br>kommunfullmäktige<br>är övre gräns.<br>Övre gräns kan vara högre<br>än avtalat kontraktsvärde. |
+| 2.2.16 |  | Hantera och besluta om<br>anläggningstöd till<br>samlingslokaler, hembygdsgårdar<br>och liknande byggnader. | FC | X |  |
+| 2.2.17 |  | Hantera och besluta om<br>driftbidrag till samlingslokaler,<br>hembygdsgårdar och liknande<br>byggnader. | FC | X |  |
 
 <!-- sida 57 -->
 
@@ -2094,14 +2120,6 @@ Följande anses vara verkställighet
 • Chefer kan göra inom ramen attesträtt, budget och ansvarsområde.
 
 Det inkluderar även direktupphandlingar enligt upphandlingsreglerna.
-
-[Tabell 57-1](handlingar.tabeller/57-1.csv)
-
-| 2.2.14 |  | Hantera uppsägning av externa<br>hyresavtal för villkorsändring<br>avseende lokaler mellan<br>kommun och hyresvärd. | FC | X |  |
-| --- | --- | --- | --- | --- | --- |
-| 2.2.15 | Upphandlings-<br>lagstiftningen och<br>kommunens policy<br>och riktlinjer | Godkännande av så<br>kallade ÄTA-arbeten<br>gentemot extern hyresvärd<br>under projekttiden för<br>inhyrningsprojekt.<br>Beställningarna utgår från<br>kontrakterad årshyra.<br>Övre gräns är beslutad budget. | FC | X | I samråd med<br>Service Inköp<br>Beslutad budget i<br>kommunfullmäktige<br>är övre gräns.<br>Övre gräns kan vara högre<br>än avtalat kontraktsvärde. |
-| 2.2.16 |  | Hantera och besluta om<br>anläggningstöd till<br>samlingslokaler, hembygdsgårdar<br>och liknande byggnader. | FC | X |  |
-| 2.2.17 |  | Hantera och besluta om<br>driftbidrag till samlingslokaler,<br>hembygdsgårdar och liknande<br>byggnader. | FC | X |  |
 
 <!-- sida 58 -->
 

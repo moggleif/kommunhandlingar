@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.44f3e70f199373f90eb8717b/1757928568
 sha256: 6dd05c9f63a5525b2a3692366c7d0fc3d942db12e372a9be288209d954323bfa
 bytes: 186793
 sidor: 4
-hamtad: 2026-10-08T02:24:09+00:00
-konverterad: 2026-10-08T02:24:15+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:02:25+00:00
+konverterad: 2026-10-14T10:02:31+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -56,7 +56,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -66,17 +66,6 @@ KUNGSBACKA  KOMMUN
 | 8. | Svar på remiss - Betänkandet<br>"Ett nationellt förbud mot<br>tiggeri" (KS-2025-00530)<br>Torun Ljungman,<br>utvecklingsledare | IF-2025-<br>00234 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg avger<br>yttrande över remissen, Ett nationellt förbud mot<br>tiggeri (SOU 2015:83), till kommunstyrelsen.<br>Nämnden för Individ & Familjeomsorg förklarar<br>paragrafen omedelbart justerad. |
 | 9. | Information om regional<br>överenskommelse om<br>samverkan mellan Region<br>Halland och Hallands<br>kommuner<br>Torun Ljungman,<br>utvecklingsledare | IF-2025-<br>00216 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>informationen till protokollet. |
 | 10. | Tidplan för sammanträden 2026<br>Josefine Jönsson,<br>nämndsekreterare | IF-2022-<br>00213 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg fastställer<br>tidplan för sammanträden och planeringsdagar 2026. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 11. | Återkoppling - Fastställande av<br>avgifter inom nämnden för<br>Individ & Familjeomsorg<br>Karin Nielsen, enhetschef | IF-2024-<br>00276 | Förslag till beslut<br>Nämnden för Individ och Familjeomsorg noterar<br>informationen till protokollet. |
 | 12. | Återkoppling efter nämndens<br>planeringsdag<br>Kamilla Julin, enhetschef | IF-2025-<br>00247 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>informationen till protokollet. |
 | 13. | Redovisning av ej verkställda<br>gynnande beslut enligt<br>socialtjänstlagen, SoL, och<br>lagen om stöd och service till<br>vissa funktionshindrade, LSS,<br>kvartal 2 2025<br>Renate Rondolph,<br>verksamhetschef | IF-2025-<br>00159 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg godkänner<br>redovisning av ej verkställda gynnande beslut enligt<br>socialtjänstlagen, SoL, och enligt lag om stöd och<br>service till vissa funktionshindrade, LSS, för kvartal<br>2 2025. |
@@ -84,6 +73,16 @@ KUNGSBACKA  KOMMUN
 | 15. | Information från förvaltningen<br>Märta Lycken, tf.<br>förvaltningschef | IF-2023-<br>00001 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>informationen till protokollet. |
 | 16. | Anmälan av delegeringsbeslut | IF-2023-<br>00003 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg godkänner<br>redovisningen av delegeringsbeslut fattade under<br>perioden 2025-06-01 – 2025-08-31. |
 | 17. | Redovisning av domar och<br>beslut | IF-2024-<br>00012 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>redovisningen av inkomna domar och beslut till<br>protokollet. |
+| 18. | Redovisning av synpunkter och<br>klagomål | IF-2023-<br>00005 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>redovisningen av inkomna synpunkter och klagomål<br>till protokollet. |
+| 19. | Redovisning av skrivelser och<br>meddelanden | IF-2023-<br>00006 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>redovisningen av inkomna skrivelser och<br>meddelanden till protokollet. |
+| 20. | Övrigt | IF-2023-<br>00008 | Förslag till beslut |
+| 21. | Nedläggning av<br>faderskapsutredning, FB<br>Renate Rondolph,<br>verksamhetschef | IF-2023-<br>00118 | Förslag till beslut<br>Sekretessärende.<br>Nämnden för Individ & Familjeomsorg förklarar<br>paragrafen omedelbart justerad. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -93,12 +92,3 @@ KUNGSBACKA  KOMMUN
 
 Tommy Rydfeldt (L)                Josefine Jönsson
 ordförande                        nämndsekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 18. | Redovisning av synpunkter och<br>klagomål | IF-2023-<br>00005 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>redovisningen av inkomna synpunkter och klagomål<br>till protokollet. |
-| 19. | Redovisning av skrivelser och<br>meddelanden | IF-2023-<br>00006 | Förslag till beslut<br>Nämnden för Individ & Familjeomsorg noterar<br>redovisningen av inkomna skrivelser och<br>meddelanden till protokollet. |
-| 20. | Övrigt | IF-2023-<br>00008 | Förslag till beslut |
-| 21. | Nedläggning av<br>faderskapsutredning, FB<br>Renate Rondolph,<br>verksamhetschef | IF-2023-<br>00118 | Förslag till beslut<br>Sekretessärende.<br>Nämnden för Individ & Familjeomsorg förklarar<br>paragrafen omedelbart justerad. |

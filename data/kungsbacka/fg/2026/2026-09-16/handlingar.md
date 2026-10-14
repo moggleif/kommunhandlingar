@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.3270c14f1a086398421c217a/1789464225
 sha256: 6db7fe9e98577ca2784611c9e50a0f38d71a4241df1242484b50b7182ce1ab16
 bytes: 9291668
 sidor: 606
-hamtad: 2026-10-07T23:09:38+00:00
-konverterad: 2026-10-07T23:10:59+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T07:15:42+00:00
+konverterad: 2026-10-14T07:16:59+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [576]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [526, 528, 576]
+figurer: [55, 135, 188, 219, 457, 526, 528, 529, 538, 542, 543, 552, 569, 570, 571, 576]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1279,48 +1279,119 @@ påverkar elevernas kunskapsresultat, för att vända utvecklingen och stärka m
 
 [Tabell 28-1](handlingar.tabeller/28-1.csv)
 
-|  | Namn Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 Utfall 2026 |
-| --- | --- |
-| Kostnad per<br>inskrivet barn i<br>127 000 131 824 144 657 146 723<br>pedagogisk<br>omsorg |  |
-| Kostnad per<br>inskrivet barn,<br>175 173 183 671 184 293 187 808<br>kommunal<br>förskola |  |
-| Kostnad per<br>inskrivet barn,<br>48 538 48 258 49 784 51 319<br>kommunalt<br>fritidshem |  |
+|  | Namn | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 | Utfall 2026 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Kostnad per<br>inskrivet barn i<br>pedagogisk<br>omsorg | 127 000 | 131 824 | 144 657 | 146 723 |  |
+|  | Kostnad per<br>inskrivet barn,<br>kommunal<br>förskola | 175 173 | 183 671 | 184 293 | 187 808 |  |
+|  | Kostnad per<br>inskrivet barn,<br>kommunalt<br>fritidshem | 48 538 | 48 258 | 49 784 | 51 319 |  |
 
 <!-- sida 29 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Delårsrapport augusti 2026
-
+Namn         Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 Utfall 2026
+Kostnad per
+elev, anpassad 547 700   615 200    603 900
+grundskola
+Kostnad
+kommunal
+119 100    128 512    133 720      135 993
+grundskola åk
+1-9, kr/elev
+Kostnad för
+undervisning i
+kommunal      68 215     71 163     71 458        73 779
+grundskola åk
+1-9, kr/elev
+Kostnad för
+lokaler i
+kommunal      21 239     23 130     27 849        27 050
+grundskola åk
+1-9, kr/elev
+Kostnad för
+lärverktyg i
+kommunal      5 840       6 694      5 417         4 784
+grundskola åk
+1-9, kr/elev
+Kostnad för
+måltider i
+kommunal      6 721       6 995      7 605         7 906
+grundskola åk
+1-9, kr/elev
+Kostnad
+elevhälsa i
+kommunal      3 443       4 140      4 042         5 270
+grundskola åk
+1-9, kr/elev
 4.3 Prestationsmått
 
+Namn         Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 Utfall 2026
+
+Årsarbetare i
+förskoleklass
+med
+93,6 %     88,3 %     93,8 %
+pedagogisk
+högskoleexam
+en
+Antal inskrivna
+barn per
+personal,      4,3        4,8        5,2              4
+pedagogisk
+omsorg
+Barn per
+barngrupp i    12,6       11,9       12,2           11,6
+förskola
+
 21
-
-[Tabell 29-1](handlingar.tabeller/29-1.csv)
-
-|  | Namn Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 Utfall 2026 |
-| --- | --- |
-| Kostnad per<br>elev, anpassad 547 700 615 200 603 900<br>grundskola |  |
-| Kostnad<br>kommunal<br>119 100 128 512 133 720 135 993<br>grundskola åk<br>1-9, kr/elev |  |
-| Kostnad för<br>undervisning i<br>kommunal 68 215 71 163 71 458 73 779<br>grundskola åk<br>1-9, kr/elev |  |
-| Kostnad för<br>lokaler i<br>kommunal 21 239 23 130 27 849 27 050<br>grundskola åk<br>1-9, kr/elev |  |
-| Kostnad för<br>lärverktyg i<br>kommunal 5 840 6 694 5 417 4 784<br>grundskola åk<br>1-9, kr/elev |  |
-| Kostnad för<br>måltider i<br>kommunal 6 721 6 995 7 605 7 906<br>grundskola åk<br>1-9, kr/elev |  |
-| Kostnad<br>elevhälsa i<br>kommunal 3 443 4 140 4 042 5 270<br>grundskola åk<br>1-9, kr/elev |  |
-
-[Tabell 29-2](handlingar.tabeller/29-2.csv)
-
-|  | Namn Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 Utfall 2026 |
-| --- | --- |
-| Årsarbetare i<br>förskoleklass<br>med<br>93,6 % 88,3 % 93,8 %<br>pedagogisk<br>högskoleexam<br>en |  |
-| Antal inskrivna<br>barn per<br>personal, 4,3 4,8 5,2 4<br>pedagogisk<br>omsorg |  |
-| Barn per<br>barngrupp i 12,6 11,9 12,2 11,6<br>förskola |  |
 
 <!-- sida 30 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Delårsrapport augusti 2026
-
+Namn         Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 Utfall 2026
+Inskrivna
+elever per
+21,6       20,6       24,5           22,8
+årsarbetare i
+fritidshem
+Årsarbetare i
+fritidshem med
+pedagogisk     43 %       47 %       49 %          46 %
+högskoleexam
+en
+Elever/lärare
+(årsarbetare) i 13,2      12,4        13            12,6
+grundskola F-9
+Antal inskrivna
+barn per
+4,5        4,6        4,7            4,6
+årsarbetare,
+förskola
+Barn 1-5 år,
+85,4 %     88,7 %     89,4 %        87,9 %
+andel i förskola
+Elever folkbokf.
+i kommunen,
+andel i       18,5 %     19,6 %     19,8 %        20,4 %
+fristående
+skola
+Andel
+förskolebarn i 15 %       15 %      15,9 %        16,3 %
+enskild regi
+Lärare med
+pedagogisk
+högskoleexam
+88,6 %     90,2 %     92,7 %
+en i kommunal
+grundskola åk
+1-9
+Årsarbetare i
+förskolan med
+pedagogisk     48 %       47 %       48 %         51,2 %
+högskoleexam
+en
 4.4 Effektmått
-
 Namn                       Utfall  Utfall  Utfall Utfall Utfall
 2022   2023    2024  2025    2026
 Andel elever som klarat alla delprov i
@@ -1336,20 +1407,6 @@ Andel elever i åk 6 som uppnått
 80,1 %  77,3 %  79,4 %  76,9 %
 betygskriterierna i alla ämnen
 22
-
-[Tabell 30-1](handlingar.tabeller/30-1.csv)
-
-|  | Namn Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 Utfall 2026 |
-| --- | --- |
-| Inskrivna<br>elever per<br>21,6 20,6 24,5 22,8<br>årsarbetare i<br>fritidshem |  |
-| Årsarbetare i<br>fritidshem med<br>pedagogisk 43 % 47 % 49 % 46 %<br>högskoleexam<br>en |  |
-| Elever/lärare<br>(årsarbetare) i 13,2 12,4 13 12,6<br>grundskola F-9 |  |
-| Antal inskrivna<br>barn per<br>4,5 4,6 4,7 4,6<br>årsarbetare,<br>förskola |  |
-| Barn 1-5 år,<br>85,4 % 88,7 % 89,4 % 87,9 %<br>andel i förskola |  |
-| Elever folkbokf.<br>i kommunen,<br>andel i 18,5 % 19,6 % 19,8 % 20,4 %<br>fristående<br>skola |  |
-| Andel<br>förskolebarn i 15 % 15 % 15,9 % 16,3 %<br>enskild regi |  |
-| Lärare med<br>pedagogisk<br>högskoleexam<br>88,6 % 90,2 % 92,7 %<br>en i kommunal<br>grundskola åk<br>1-9 |  |
-| Årsarbetare i<br>förskolan med<br>pedagogisk 48 % 47 % 48 % 51,2 %<br>högskoleexam<br>en |  |
 
 <!-- sida 31 -->
 
@@ -1842,12 +1899,17 @@ Utfall och prognos
 |  |  |
 | Summa |  |
 
-[Tabell 39-3](handlingar.tabeller/39-3.csv)
+[Tabell 39-40-3](handlingar.tabeller/39-40-3.csv)
 
 | Miljoner kronor | Bokslut 2025 | Budget 2026 | Prognos 2026 | Budgetavvike<br>lse 2026 | Delår 2026 |
 | --- | --- | --- | --- | --- | --- |
 | Löpande årliga<br>investeringar |  |  |  |  |  |
 |  |  |  |  |  |  |
+| Utgifter | -10,9 | -15,0 | -15,0 | 0,0 | -7,1 |
+| Övriga investeringar |  |  |  |  |  |
+| Inkomster |  |  |  |  |  |
+| Utgifter |  |  |  |  |  |
+| Netto | -10,9 | -15,0 | -15,0 | 0,0 | -7,1 |
 
 <!-- sida 40 -->
 
@@ -1867,16 +1929,6 @@ löpande investeringar.
 Enligt prognosen kommer hela investeringsbudgeten att användas 2026.
 
 32
-
-[Tabell 40-1](handlingar.tabeller/40-1.csv)
-
-| Miljoner kronor | Bokslut 2025 | Budget 2026 | Prognos 2026 | Budgetavvike<br>lse 2026 | Delår 2026 |
-| --- | --- | --- | --- | --- | --- |
-| Utgifter | -10,9 | -15,0 | -15,0 | 0,0 | -7,1 |
-| Övriga investeringar |  |  |  |  |  |
-| Inkomster |  |  |  |  |  |
-| Utgifter |  |  |  |  |  |
-| Netto | -10,9 | -15,0 | -15,0 | 0,0 | -7,1 |
 
 <!-- sida 41 -->
 
@@ -5838,29 +5890,35 @@ och ålder. Sorterad efter inskrivning vid fem års ålder.
 Barn födda 2018–2022. Tvärsnittspopulationen
 Ålder
 1   2   3   4   5  Total
-%   %   %   %   %   %
-Bakgrund
-Svensk bakgrund (n=416,983) 65,9 95,2 96,5 97,2 97,1 90,5
-Generation 2 (n=127,606) 64,3 86,6 91,0 92,4 92,5 85,4
-Generation 1 (n=17,477) 42,0 69,1 77,2 81,2 81,5 74,6
-Total (n=562,066) 65,1 92,6 94,6 95,5 95,4 88,9
-Ursprungsregion
-Sverige (n=416,983) 65,9 95,2 96,5 97,2 97,1 90,5
-Övriga Norden (n=2,904) 61,0 86,3 90,7 90,4 93,2 84,4
-MENA (n=55,548)   59,6 85,0 90,0 91,7 92,3 84,2
-Östeuropa (n=27,924) 61,8 86,3 90,9 91,7 92,2 85,2
-Syd- och Mellanamerika (n=2,914) 69,3 87,3 90,2 91,4 91,1 86,2
-Central- och södra Afrika (n=28,446) 74,5 88,2 90,1 91,5 90,4 87,2
-Östasien (n=8,106) 65,9 86,2 88,4 88,9 88,7 84,1
-Västeuropa (n=4,449) 62,5 78,7 86,2 86,6 86,0 80,5
-Sydasien (n=11,430) 49,3 74,7 82,2 85,9 84,6 75,2
-Sydeuropa (n=2,357) 69,3 86,5 87,4 86,9 83,9 83,3
-Nordamerika och Australasien (n=1,005) 55,4 78,9 79,0 83,0 72,5 74,5
-Total (n=562,066) 65,1 92,6 94,6 95,5 95,4 88,9
+
 Generation 1: Barnet är fött utomlands och har utrikesfödda föräldrar.
 Generation 2: Barnet är fött i Sverige och har två utrikesfödda föräldrar.
 Källa: Ljungström. A och Mood. C. (2025).
+
 76
+
+[Tabell 137-1](handlingar.tabeller/137-1.csv)
+
+|  | % | % | % | % | % | % |
+| --- | --- | --- | --- | --- | --- | --- |
+| Bakgrund |  |  |  |  |  |  |
+| Svensk bakgrund (n=416,983) | 65,9 | 95,2 | 96,5 | 97,2 | 97,1 | 90,5 |
+| Generation 2 (n=127,606) | 64,3 | 86,6 | 91,0 | 92,4 | 92,5 | 85,4 |
+| Generation 1 (n=17,477) | 42,0 | 69,1 | 77,2 | 81,2 | 81,5 | 74,6 |
+| Total (n=562,066) | 65,1 | 92,6 | 94,6 | 95,5 | 95,4 | 88,9 |
+| Ursprungsregion |  |  |  |  |  |  |
+| Sverige (n=416,983) | 65,9 | 95,2 | 96,5 | 97,2 | 97,1 | 90,5 |
+| Övriga Norden (n=2,904) | 61,0 | 86,3 | 90,7 | 90,4 | 93,2 | 84,4 |
+| MENA (n=55,548) | 59,6 | 85,0 | 90,0 | 91,7 | 92,3 | 84,2 |
+| Östeuropa (n=27,924) | 61,8 | 86,3 | 90,9 | 91,7 | 92,2 | 85,2 |
+| Syd- och Mellanamerika (n=2,914) | 69,3 | 87,3 | 90,2 | 91,4 | 91,1 | 86,2 |
+| Central- och södra Afrika (n=28,446) | 74,5 | 88,2 | 90,1 | 91,5 | 90,4 | 87,2 |
+| Östasien (n=8,106) | 65,9 | 86,2 | 88,4 | 88,9 | 88,7 | 84,1 |
+| Västeuropa (n=4,449) | 62,5 | 78,7 | 86,2 | 86,6 | 86,0 | 80,5 |
+| Sydasien (n=11,430) | 49,3 | 74,7 | 82,2 | 85,9 | 84,6 | 75,2 |
+| Sydeuropa (n=2,357) | 69,3 | 86,5 | 87,4 | 86,9 | 83,9 | 83,3 |
+| Nordamerika och Australasien (n=1,005) | 55,4 | 78,9 | 79,0 | 83,0 | 72,5 | 74,5 |
+| Total (n=562,066) | 65,1 | 92,6 | 94,6 | 95,5 | 95,4 | 88,9 |
 
 <!-- sida 138 -->
 
@@ -7991,17 +8049,7 @@ medelvärden för kommungrupper
 
 Kommungrupp         Antal barn per Antal barn per heltidstjänst
 heltidstjänst med förskollärarlegitimation
-Samtliga kommuner      5,1        11,9
-Storstäder             5,0        14,8
-Pendlingskommun nära storstad 5,5 14,4
-Större stad            5,1        11,0
-Pendlingskommun nära större stad 5,1 10,4
-Lågpendlingskommun nära större stad 5,3 10,5
-Mindre stad/tätort     5,0        10,6
-Pendlingskommun nära mindre
-stad/tätort            5,0        10,1
-Landsbygdskommun       4,8         9,9
-Landsbygdskommun med besöksnäring 4,7 11,7
+
 Källa: Skolverkets statistik
 
 Skolverkets statistik visar även på skillnader i både personal- och
@@ -8029,6 +8077,20 @@ fall (se vidare kapitel 7).39
 39 Ibid.
 
 130
+
+[Tabell 191-1](handlingar.tabeller/191-1.csv)
+
+| Samtliga kommuner | 5,1 | 11,9 |
+| --- | --- | --- |
+| Storstäder | 5,0 | 14,8 |
+| Pendlingskommun nära storstad | 5,5 | 14,4 |
+| Större stad | 5,1 | 11,0 |
+| Pendlingskommun nära större stad | 5,1 | 10,4 |
+| Lågpendlingskommun nära större stad | 5,3 | 10,5 |
+| Mindre stad/tätort | 5,0 | 10,6 |
+| Pendlingskommun nära mindre stad/tätort | 5,0 | 10,1 |
+| Landsbygdskommun | 4,8 | 9,9 |
+| Landsbygdskommun med besöksnäring | 4,7 | 11,7 |
 
 <!-- sida 192 -->
 
@@ -22407,27 +22469,9 @@ region och ålder. Sorterad efter inskrivning vid fem års ålder.
 Barn födda 2018–2022. Tvärsnittspopulationen
 Ålder
 1   2   3    4   5  Total
-%    %   %   %    %   %
-Bakgrund
-Svensk bakgrund (n=416 983) 65,9 95,2 96,5 97,2 97,1 90,5
-Generation 2 (n=127 606) 64,3 86,6 91,0 92,4 92,5 85,4
-Generation 1 (n=17 477) 42,0 69,1 77,2 81,2 81,5 74,6
-Total (n=562,066) 65,1 92,6 94,6 95,5 95,4 88,9
-Ursprungsregion
-Sverige (n=416 983) 65,9 95,2 96,5 97,2 97,1 90,5
-Övriga Norden (n=2 904) 61,0 86,3 90,7 90,4 93,2 84,4
-MENA (n=55 548)  59,6 85,0 90,0 91,7 92,3 84,2
-Östeuropa (n=27 924) 61,8 86,3 90,9 91,7 92,2 85,2
-Syd- och mellanamerika (n=2 914) 69,3 87,3 90,2 91,4 91,1 86,2
-Central- och södra Afrika (n=28 446) 74,5 88,2 90,1 91,5 90,4 87,2
-Östasien (n=8 106) 65,9 86,2 88,4 88,9 88,7 84,1
-Västeuropa (n=4 449) 62,5 78,7 86,2 86,6 86,0 80,5
-Sydasien (n=11 430) 49,3 74,7 82,2 85,9 84,6 75,2
-Sydeuropa (n=2 357) 69,3 86,5 87,4 86,9 83,9 83,3
-Nordamerika och Australasien
-(n=1 005)        55,4 78,9 79,0 83,0 72,5 74,5
-Total (n=562 066) 65,1 92,6 94,6 95,5 95,4 88,9
+
 Skillnader i inskrivningsgrad minskar över förskoleåldern
+
 Att se på inskrivning vid en enda tidpunkt kan ge en missvisande bild,
 särskilt för barn som själva invandrat med sina föräldrar. Det är rimligt
 att vänta sig en fördröjning om åtminstone någon månad efter invand-
@@ -22439,6 +22483,30 @@ Figur 1 visar andelen inskrivna över tid i månader för barn med
 svensk bakgrund, barn i generation 2, och barn i generation 1.
 
 464
+
+[Tabell 525-1](handlingar.tabeller/525-1.csv)
+
+|  | % | % | % | % | % | % |
+| --- | --- | --- | --- | --- | --- | --- |
+| Bakgrund |  |  |  |  |  |  |
+| Svensk bakgrund (n=416 983) | 65,9 | 95,2 | 96,5 | 97,2 | 97,1 | 90,5 |
+| Generation 2 (n=127 606) | 64,3 | 86,6 | 91,0 | 92,4 | 92,5 | 85,4 |
+| Generation 1 (n=17 477) | 42,0 | 69,1 | 77,2 | 81,2 | 81,5 | 74,6 |
+| Total (n=562,066) | 65,1 | 92,6 | 94,6 | 95,5 | 95,4 | 88,9 |
+| Ursprungsregion |  |  |  |  |  |  |
+| Sverige (n=416 983) | 65,9 | 95,2 | 96,5 | 97,2 | 97,1 | 90,5 |
+| Övriga Norden (n=2 904) | 61,0 | 86,3 | 90,7 | 90,4 | 93,2 | 84,4 |
+| MENA (n=55 548) | 59,6 | 85,0 | 90,0 | 91,7 | 92,3 | 84,2 |
+| Östeuropa (n=27 924) | 61,8 | 86,3 | 90,9 | 91,7 | 92,2 | 85,2 |
+| Syd- och mellanamerika (n=2 914) | 69,3 | 87,3 | 90,2 | 91,4 | 91,1 | 86,2 |
+| Central- och södra Afrika (n=28 446) | 74,5 | 88,2 | 90,1 | 91,5 | 90,4 | 87,2 |
+| Östasien (n=8 106) | 65,9 | 86,2 | 88,4 | 88,9 | 88,7 | 84,1 |
+| Västeuropa (n=4 449) | 62,5 | 78,7 | 86,2 | 86,6 | 86,0 | 80,5 |
+| Sydasien (n=11 430) | 49,3 | 74,7 | 82,2 | 85,9 | 84,6 | 75,2 |
+| Sydeuropa (n=2 357) | 69,3 | 86,5 | 87,4 | 86,9 | 83,9 | 83,3 |
+| Nordamerika och Australasien |  |  |  |  |  |  |
+| (n=1 005) | 55,4 | 78,9 | 79,0 | 83,0 | 72,5 | 74,5 |
+| Total (n=562 066) | 65,1 | 92,6 | 94,6 | 95,5 | 95,4 | 88,9 |
 
 <!-- sida 526 -->
 
@@ -22480,16 +22548,6 @@ lednA
 Månader sedan 1-årsdagen/invandring
 Svensk bakgrund
 Generation 2 Generation 1
-
-[Tabell 526-1](handlingar.tabeller/526-1.csv)
-
-|  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
 
 <!-- sida 527 -->
 
@@ -22554,15 +22612,6 @@ Svensk bakgrund
 Gen 2: icke-flykting Gen 2: flykting
 Gen 1: icke-flykting Gen 1: flykting
 
-[Tabell 528-1](handlingar.tabeller/528-1.csv)
-
-|  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
-
 <!-- sida 529 -->
 
 Bilaga 3                                   SOU 2026:37
@@ -22609,32 +22658,6 @@ sprungsregion, och dessutom visar vi boendeområdets socioekono-
 miska index samt boendekommunens kommungrupp.
 
 468
-
-[Tabell 529-1](handlingar.tabeller/529-1.csv)
-
-|  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-
-[Tabell 529-2](handlingar.tabeller/529-2.csv)
-
-|  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
 
 <!-- sida 530 -->
 
@@ -22760,52 +22783,60 @@ Tabell 3 Strukturella kvalitetsindikatorer: Medelvärde och
 median uppdelat på generation. Oktober 2023,
 barn födda 2018–2022. Tvärsnittspopulationen
 
-Medelvärde Median
-Pedagogisk personal per barn (samtliga anställda
-som jobbar i barngrupp)
-
-```osaker-tabell
-Svensk bakgrund               0,204  0,198
-Generation 2                  0,207  0,201
-Generation 1                  0,210  0,204
-Total                         0,205  0,199
-```
-
 Förskollärare per barn (pedagogisk utbildning
 på universitet/högskola)
-
-```osaker-tabell
-Svensk bakgrund               0,091  0,089
-Generation 2                  0,086  0,083
-Generation 1                  0,083  0,079
-Total                         0,090  0,087
-```
 
 Barnskötare per barn (utbildning med inriktning
 mot barn och ungdom i gymnasieskolan)
 
-```osaker-tabell
-Svensk bakgrund               0,064  0,062
-Generation 2                  0,073  0,071
-Generation 1                  0,072  0,071
-Total                         0,066  0,064
-```
-
 Personalomsättning
-Svensk bakgrund               19,9 % 17,7 %
-Generation 2                  20,7 % 18,3 %
-Generation 1                  21,5 % 18,8 %
-Total                         20,1 % 17,9 %
+
 Andel sjukfrånvaro
 
-```osaker-tabell
-Svensk bakgrund               4,1 %  3,0 %
-Generation 2                  4,5 %  3,6 %
-Generation 1                  4,3 %  3,4 %
-Total                         4,2 %  3,2 %
-```
-
 472
+
+[Tabell 533-1](handlingar.tabeller/533-1.csv)
+
+|  | Medelvärde | Median |
+| --- | --- | --- |
+| Pedagogisk personal per barn (samtliga anställda |  |  |
+| som jobbar i barngrupp) |  |  |
+| Svensk bakgrund | 0,204 | 0,198 |
+| Generation 2 | 0,207 | 0,201 |
+| Generation 1 | 0,210 | 0,204 |
+| Total | 0,205 | 0,199 |
+
+[Tabell 533-2](handlingar.tabeller/533-2.csv)
+
+| Svensk bakgrund | 0,091 | 0,089 |
+| --- | --- | --- |
+| Generation 2 | 0,086 | 0,083 |
+| Generation 1 | 0,083 | 0,079 |
+| Total | 0,090 | 0,087 |
+
+[Tabell 533-3](handlingar.tabeller/533-3.csv)
+
+| Svensk bakgrund | 0,064 | 0,062 |
+| --- | --- | --- |
+| Generation 2 | 0,073 | 0,071 |
+| Generation 1 | 0,072 | 0,071 |
+| Total | 0,066 | 0,064 |
+
+[Tabell 533-4](handlingar.tabeller/533-4.csv)
+
+| Svensk bakgrund | 19,9 % | 17,7 % |
+| --- | --- | --- |
+| Generation 2 | 20,7 % | 18,3 % |
+| Generation 1 | 21,5 % | 18,8 % |
+| Total | 20,1 % | 17,9 % |
+
+[Tabell 533-5](handlingar.tabeller/533-5.csv)
+
+| Svensk bakgrund | 4,1 % | 3,0 % |
+| --- | --- | --- |
+| Generation 2 | 4,5 % | 3,6 % |
+| Generation 1 | 4,3 % | 3,4 % |
+| Total | 4,2 % | 3,2 % |
 
 <!-- sida 534 -->
 
@@ -22851,22 +22882,6 @@ barn födda 2018–2022. Tvärsnittspopulationen
 Medelvärde (%) Median (%)
 Andel utlandsfödda pedagoger
 
-```osaker-tabell
-Svensk bakgrund            19,0     14,5
-Generation 2               33,9     31,0
-Generation 1               36,7     34,2
-Total                      22,7     17,5
-```
-
-Andel barn med utländsk bakgrund
-
-```osaker-tabell
-Svensk bakgrund            16,4     11,0
-Generation 2               49,5     46,8
-Generation 1               47,1     43,3
-Total                      24,4     15,3
-```
-
 Diskussion
 Att öka inskrivningsgraden bland barn med utländsk bakgrund i för-
 skolan skulle sannolikt inte leda till någon betydande minskning av
@@ -22892,6 +22907,19 @@ bakgrund i strukturell förskolekvalitet (t.ex. lärartäthet och lärarom-
 sättning) är för små.
 
 474
+
+[Tabell 535-1](handlingar.tabeller/535-1.csv)
+
+| Svensk bakgrund | 19,0 | 14,5 |
+| --- | --- | --- |
+| Generation 2 | 33,9 | 31,0 |
+| Generation 1 | 36,7 | 34,2 |
+| Total | 22,7 | 17,5 |
+| Andel barn med utländsk bakgrund |  |  |
+| Svensk bakgrund | 16,4 | 11,0 |
+| Generation 2 | 49,5 | 46,8 |
+| Generation 1 | 47,1 | 43,3 |
+| Total | 24,4 | 15,3 |
 
 <!-- sida 536 -->
 
@@ -23967,19 +23995,11 @@ kostnad kostnad fererings- kostnad\* offentlig- kommande
 (mnkr) (mnkr) kostnad (mnkr) finansiell personal
 effekt\*\*
 (mnkr)
-Reglering av gruppstorlek 2 105 873 – 2 978 3 122 2 703
-Reglering av personaltäthet 8 415 – – 8 415 8 611 13 210
-Utökad allmän förskola 1 441 146 1 850 3 437 3 437 2 099
-Försöksverksamhet 97  –   –    97  97    –
-Införande av gruppstorlek och
-personaltäthet samtidigt 8 430 873 – 9 304 9 518 13 222
-Införande av gruppstorlek,
-personaltäthet och utökad allmän
-förskola samtidigt 8 877 1 051 1 850 11 778 12 006 13 845
-Samtliga förslag tillsammans 8 974 1 051 1 850 11 875 12 103 13 845
+
 \* Summan av kostnader för enskilda och kommunala huvudmän.
 \*\* Inkluderar effekt av att ersättning till enskilda huvudmän baseras på kommunala huvudmäns
 kostnader. Beräknad genom ett schablonpåslag på de totala kostnaderna.
+
 De offentligfinansiella effekterna av alternativa utformningar av utred-
 ningens förslag redovisas i tabell 5. Tabellen visar den sammantagna
 offentligfinansiella effekten av reglering av gruppstorlek, personal-
@@ -24000,6 +24020,17 @@ ligfinansiella effekten.
 
 499
 
+[Tabell 560-1](handlingar.tabeller/560-1.csv)
+
+| Reglering av gruppstorlek | 2 105 | 873 | – | 2 978 | 3 122 | 2 703 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Reglering av personaltäthet | 8 415 | – | – | 8 415 | 8 611 | 13 210 |
+| Utökad allmän förskola | 1 441 | 146 | 1 850 | 3 437 | 3 437 | 2 099 |
+| Försöksverksamhet | 97 | – | – | 97 | 97 | – |
+| Införande av gruppstorlek och personaltäthet samtidigt | 8 430 | 873 | – | 9 304 | 9 518 | 13 222 |
+| Införande av gruppstorlek, personaltäthet och utökad allmän förskola samtidigt | 8 877 | 1 051 | 1 850 | 11 778 | 12 006 | 13 845 |
+| Samtliga förslag tillsammans | 8 974 | 1 051 | 1 850 | 11 875 | 12 103 | 13 845 |
+
 <!-- sida 561 -->
 
 Bilaga 4                                   SOU 2026:37
@@ -24019,11 +24050,7 @@ kostnad (mnkr) ingskostnad kostnad\* offentlig- kommande
 effekt\*\*
 (mnkr)
 Alternativ reglering av
-gruppstorlek\*\*\* 8 876 467 1 850 11 192 11 383 13 844
-Alternativ reglering av
-personaltäthet\*\*\*\* 5 469 1 051 1 850 8 370 8 423 8 263
-Alternativ utökad
-allmän förskola\*\*\*\*\* 8 756 1 027 925 10 707 10 942 13 714
+
 \* Summan av kostnader för enskilda och kommunala huvudmän.
 \*\* Inkluderar effekt av att ersättning till enskilda huvudmän baseras på kommunala huvudmäns
 kostnader. Beräknad genom ett schablonpåslag på de totala kostnaderna.
@@ -24036,6 +24063,13 @@ förskola.
 gruppstorlekar och personaltäthet.
 
 500
+
+[Tabell 561-1](handlingar.tabeller/561-1.csv)
+
+| gruppstorlek\*\*\* | 8 876 | 467 | 1 850 | 11 192 | 11 383 | 13 844 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Alternativ reglering av personaltäthet\*\*\*\* | 5 469 | 1 051 | 1 850 | 8 370 | 8 423 | 8 263 |
+| Alternativ utökad allmän förskola\*\*\*\*\* | 8 756 | 1 027 | 925 | 10 707 | 10 942 | 13 714 |
 
 <!-- sida 562 -->
 
@@ -24842,7 +24876,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 
 <!-- sida 581 -->
 
-[Tabell 581-1](handlingar.tabeller/581-1.csv)
+[Tabell 581-605-1](handlingar.tabeller/581-605-1.csv)
 
 | Inskickad | Ärendenummer | Delegering | Beslut | Beslutsdatum |
 | --- | --- | --- | --- | --- |
@@ -24886,13 +24920,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-05-26 08:56 | 286660 | A 4.1 | Avslag | 20260526 |
 | 2026-06-01 06:56 | 288326 | A 4.1 | Avslag | 20260601 |
 | 2026-06-10 00:00 | 0-20260615-134249 | A 4.1 | Avslag | 20260615 |
-
-<!-- sida 582 -->
-
-[Tabell 582-1](handlingar.tabeller/582-1.csv)
-
 | 2026-06-15 08:24 | 292570 | A 4.1 | Avslag | 20260616 |
-| --- | --- | --- | --- | --- |
 | 2026-06-16 11:16 | 293106 | A 4.1 | Avslag | 20260616 |
 | 2026-07-27 12:40 | 300772 | A 4.1 | Avslag | 20260805 |
 | 2026-08-04 14:48 | 302413 | A 4.1 | Avslag | 20260805 |
@@ -24933,13 +24961,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-08-23 08:56 | 310722 | A 4.1 | Avslag | 20260824 |
 | 2026-08-23 08:56 | 310723 | A 4.1 | Avslag | 20260824 |
 | 2026-08-23 08:56 | 310723 | A 4.1 | Avslag | 20260824 |
-
-<!-- sida 583 -->
-
-[Tabell 583-1](handlingar.tabeller/583-1.csv)
-
 | 2026-03-18 20:32 | 269303 | A 4.1 | Avslag | 20260601 |
-| --- | --- | --- | --- | --- |
 | 2026-05-31 08:16 | 288175 | A 4.1 | Avslag | 20260601 |
 | 2026-07-09 10:56 | 298059 | A 4.1 | Avslag | 20260713 |
 | 2026-08-17 20:32 | 307177 | A 4.1 | Avslag | 20260818 |
@@ -24980,13 +25002,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-08-06 08:48 | 302854 | A 4.1 | Avslag | 20260810 |
 | 2026-08-23 20:56 | 310831 | A 4.1 | Avslag | 20260828 |
 | 2026-08-26 14:40 | 311844 | A 4.1 | Avslag | 20260828 |
-
-<!-- sida 584 -->
-
-[Tabell 584-1](handlingar.tabeller/584-1.csv)
-
 | 2026-04-01 06:32 | 273353 | A 4.1 | Avslag | 20260824 |
-| --- | --- | --- | --- | --- |
 | 2026-08-11 10:56 | 304152 | A 4.1 | Avslag | 20260824 |
 | 2026-08-19 07:40 | 308298 | A 4.1 | Avslag | 20260819 |
 | 2026-05-17 12:08 | 284269 | A 4.1 | Avslag | 20260615 |
@@ -25027,13 +25043,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-04-02 16:08 | 274025 | A 4.1 | Beviljad | 20260630 |
 | 2026-04-04 16:16 | 274398 | A 4.1 | Beviljad | 20260616 |
 | 2026-04-15 20:48 | 277178 | A 4.1 | Beviljad | 20260828 |
-
-<!-- sida 585 -->
-
-[Tabell 585-1](handlingar.tabeller/585-1.csv)
-
 | 2026-04-15 20:48 | 277179 | A 4.1 | Beviljad | 20260828 |
-| --- | --- | --- | --- | --- |
 | 2026-04-19 20:48 | 278084 | A 4.1 | Beviljad | 20260902 |
 | 2026-05-26 18:48 | 286912 | A 4.1 | Beviljad | 20260616 |
 | 2026-05-28 14:16 | 287587 | A 4.1 | Beviljad | 20260616 |
@@ -25074,13 +25084,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-07-26 19:32 | 300653 | A 4.1 | Beviljad | 20260813 |
 | 2026-07-27 08:56 | 300711 | A 4.1 | Beviljad | 20260811 |
 | 2026-07-27 11:24 | 300748 | A 4.1 | Beviljad | 20260811 |
-
-<!-- sida 586 -->
-
-[Tabell 586-1](handlingar.tabeller/586-1.csv)
-
 | 2026-07-28 14:16 | 301014 | A 4.1 | Beviljad | 20260811 |
-| --- | --- | --- | --- | --- |
 | 2026-07-28 14:16 | 301016 | A 4.1 | Beviljad | 20260811 |
 | 2026-07-28 14:56 | 301027 | A 4.1 | Beviljad | 20260811 |
 | 2026-07-29 11:24 | 301186 | A 4.1 | Beviljad | 20260811 |
@@ -25121,13 +25125,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-08-16 22:48 | 306039 | A 4.1 | Beviljad | 20260817 |
 | 2026-08-17 06:40 | 306079 | A 4.1 | Beviljad | 20260817 |
 | 2026-08-17 07:32 | 306088 | A 4.1 | Beviljad | 20260827 |
-
-<!-- sida 587 -->
-
-[Tabell 587-1](handlingar.tabeller/587-1.csv)
-
 | 2026-08-17 09:32 | 306147 | A 4.1 | Beviljad | 20260827 |
-| --- | --- | --- | --- | --- |
 | 2026-08-17 13:48 | 306721 | A 4.1 | Beviljad | 20260827 |
 | 2026-08-17 13:48 | 306726 | A 4.1 | Beviljad | 20260827 |
 | 2026-08-17 15:08 | 306931 | A 4.1 | Beviljad | 20260818 |
@@ -25168,13 +25166,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-06-28 16:24 | 295696 | A 4.1 | Beviljad | 20260629 |
 | 2026-06-28 16:24 | 295697 | A 4.1 | Beviljad | 20260629 |
 | 2026-06-29 20:40 | 296004 | A 4.1 | Beviljad | 20260630 |
-
-<!-- sida 588 -->
-
-[Tabell 588-1](handlingar.tabeller/588-1.csv)
-
 | 2026-06-29 20:40 | 296005 | A 4.1 | Beviljad | 20260630 |
-| --- | --- | --- | --- | --- |
 | 2026-07-01 13:32 | 296485 | A 4.1 | Beviljad | 20260701 |
 | 2026-07-01 17:08 | 296547 | A 4.1 | Beviljad | 20260701 |
 | 2026-07-03 08:24 | 296940 | A 4.1 | Beviljad | 20260703 |
@@ -25215,13 +25207,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-08-16 16:08 | 305848 | A 4.1 | Beviljad | 20260817 |
 | 2026-08-16 18:08 | 305886 | A 4.1 | Beviljad | 20260817 |
 | 2026-08-16 21:56 | 306004 | A 4.1 | Beviljad | 20260817 |
-
-<!-- sida 589 -->
-
-[Tabell 589-1](handlingar.tabeller/589-1.csv)
-
 | 2026-08-17 06:32 | 306073 | A 4.1 | Beviljad | 20260817 |
-| --- | --- | --- | --- | --- |
 | 2026-08-17 19:24 | 307137 | A 4.1 | Beviljad | 20260818 |
 | 2026-08-18 07:48 | 307320 | A 4.1 | Beviljad | 20260818 |
 | 2026-08-18 07:56 | 307325 | A 4.1 | Beviljad | 20260818 |
@@ -25262,13 +25248,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-03-22 11:40 | 270382 | A 4.1 | Beviljad | 20260817 |
 | 2026-03-22 15:40 | 270422 | A 4.1 | Beviljad | 20260811 |
 | 2026-03-26 15:08 | 271856 | A 4.1 | Beviljad | 20260616 |
-
-<!-- sida 590 -->
-
-[Tabell 590-1](handlingar.tabeller/590-1.csv)
-
 | 2026-03-26 15:08 | 271858 | A 4.1 | Beviljad | 20260810 |
-| --- | --- | --- | --- | --- |
 | 2026-03-27 13:40 | 272160 | A 4.1 | Beviljad | 20260814 |
 | 2026-03-27 13:40 | 272162 | A 4.1 | Beviljad | 20260814 |
 | 2026-03-30 11:24 | 272731 | A 4.1 | Beviljad | 20260814 |
@@ -25309,13 +25289,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-06-01 22:08 | 288834 | A 4.1 | Beviljad | 20260819 |
 | 2026-06-02 09:08 | 288931 | A 4.1 | Beviljad | 20260616 |
 | 2026-06-03 09:24 | 289580 | A 4.1 | Beviljad | 20260616 |
-
-<!-- sida 591 -->
-
-[Tabell 591-1](handlingar.tabeller/591-1.csv)
-
 | 2026-06-03 09:24 | 289584 | A 4.1 | Beviljad | 20260616 |
-| --- | --- | --- | --- | --- |
 | 2026-06-03 09:24 | 289586 | A 4.1 | Beviljad | 20260616 |
 | 2026-06-03 15:24 | 289965 | A 4.1 | Beviljad | 20260616 |
 | 2026-06-03 15:24 | 289965 | A 4.1 | Beviljad | 20260616 |
@@ -25356,13 +25330,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-06-17 08:40 | 293405 | A 4.1 | Beviljad | 20260616 |
 | 2026-06-17 10:32 | 293448 | A 4.1 | Beviljad | 20260825 |
 | 2026-06-17 10:40 | 293449 | A 4.1 | Beviljad | 20260811 |
-
-<!-- sida 592 -->
-
-[Tabell 592-1](handlingar.tabeller/592-1.csv)
-
 | 2026-06-17 13:24 | 293523 | A 4.1 | Beviljad | 20260617 |
-| --- | --- | --- | --- | --- |
 | 2026-06-17 16:32 | 293605 | A 4.1 | Beviljad | 20260618 |
 | 2026-06-18 09:08 | 293721 | A 4.1 | Beviljad | 20260701 |
 | 2026-06-18 09:40 | 293738 | A 4.1 | Beviljad | 20260910 |
@@ -25403,13 +25371,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-07-16 09:32 | 299088 | A 4.1 | Beviljad | 20260811 |
 | 2026-07-16 09:32 | 299089 | A 4.1 | Beviljad | 20260811 |
 | 2026-07-16 16:32 | 299189 | A 4.1 | Beviljad | 20260811 |
-
-<!-- sida 593 -->
-
-[Tabell 593-1](handlingar.tabeller/593-1.csv)
-
 | 2026-07-16 22:32 | 299226 | A 4.1 | Beviljad | 20260811 |
-| --- | --- | --- | --- | --- |
 | 2026-07-16 22:32 | 299227 | A 4.1 | Beviljad | 20260811 |
 | 2026-07-19 19:24 | 299570 | A 4.1 | Beviljad | 20260811 |
 | 2026-07-19 19:24 | 299571 | A 4.1 | Beviljad | 20260811 |
@@ -25450,13 +25412,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-08-02 09:32 | 301777 | A 4.1 | Beviljad | 20260811 |
 | 2026-08-02 12:56 | 301815 | A 4.1 | Beviljad | 20260811 |
 | 2026-08-02 17:32 | 301857 | A 4.1 | Beviljad | 20260813 |
-
-<!-- sida 594 -->
-
-[Tabell 594-1](handlingar.tabeller/594-1.csv)
-
 | 2026-08-02 17:32 | 301858 | A 4.1 | Beviljad | 20260811 |
-| --- | --- | --- | --- | --- |
 | 2026-08-02 17:56 | 301863 | A 4.1 | Beviljad | 20260813 |
 | 2026-08-02 18:40 | 301871 | A 4.1 | Beviljad | 20260812 |
 | 2026-08-02 18:40 | 301872 | A 4.1 | Beviljad | 20260811 |
@@ -25497,13 +25453,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-08-07 19:08 | 303307 | A 4.1 | Beviljad | 20260811 |
 | 2026-08-07 19:08 | 303308 | A 4.1 | Beviljad | 20260812 |
 | 2026-08-08 07:56 | 303378 | A 4.1 | Beviljad | 20260811 |
-
-<!-- sida 595 -->
-
-[Tabell 595-1](handlingar.tabeller/595-1.csv)
-
 | 2026-08-08 07:56 | 303379 | A 4.1 | Beviljad | 20260811 |
-| --- | --- | --- | --- | --- |
 | 2026-08-08 07:56 | 303380 | A 4.1 | Beviljad | 20260811 |
 | 2026-08-08 09:32 | 303384 | A 4.1 | Beviljad | 20260811 |
 | 2026-08-08 15:08 | 303427 | A 4.1 | Beviljad | 20260811 |
@@ -25544,13 +25494,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-08-11 23:08 | 304402 | A 4.1 | Beviljad | 20260813 |
 | 2026-08-12 10:08 | 304474 | A 4.1 | Beviljad | 20260813 |
 | 2026-08-12 10:08 | 304474 | A 4.1 | Beviljad | 20260813 |
-
-<!-- sida 596 -->
-
-[Tabell 596-1](handlingar.tabeller/596-1.csv)
-
 | 2026-08-12 10:16 | 304480 | A 4.1 | Beviljad | 20260812 |
-| --- | --- | --- | --- | --- |
 | 2026-08-12 10:16 | 304481 | A 4.1 | Beviljad | 20260812 |
 | 2026-08-12 11:08 | 304502 | A 4.1 | Beviljad | 20260813 |
 | 2026-08-12 11:08 | 304504 | A 4.1 | Beviljad | 20260813 |
@@ -25591,13 +25535,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-08-16 12:32 | 305784 | A 4.1 | Beviljad | 20260824 |
 | 2026-08-16 12:40 | 305785 | A 4.1 | Beviljad | 20260828 |
 | 2026-08-16 14:24 | 305823 | A 4.1 | Beviljad | 20260817 |
-
-<!-- sida 597 -->
-
-[Tabell 597-1](handlingar.tabeller/597-1.csv)
-
 | 2026-08-16 15:56 | 305843 | A 4.1 | Beviljad | 20260817 |
-| --- | --- | --- | --- | --- |
 | 2026-08-16 16:08 | 305848 | A 4.1 | Beviljad | 20260817 |
 | 2026-08-16 16:24 | 305853 | A 4.1 | Beviljad | 20260817 |
 | 2026-08-16 18:56 | 305899 | A 4.1 | Beviljad | 20260817 |
@@ -25638,13 +25576,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-08-17 18:48 | 307107 | A 4.1 | Beviljad | 20260818 |
 | 2026-08-17 19:16 | 307128 | A 4.1 | Beviljad | 20260818 |
 | 2026-08-17 19:24 | 307137 | A 4.1 | Beviljad | 20260818 |
-
-<!-- sida 598 -->
-
-[Tabell 598-1](handlingar.tabeller/598-1.csv)
-
 | 2026-08-17 19:32 | 307139 | A 4.1 | Beviljad | 20260818 |
-| --- | --- | --- | --- | --- |
 | 2026-08-17 20:24 | 307171 | A 4.1 | Beviljad | 20260818 |
 | 2026-08-17 21:08 | 307201 | A 4.1 | Beviljad | 20260828 |
 | 2026-08-17 21:32 | 307230 | A 4.1 | Beviljad | 20260818 |
@@ -25685,13 +25617,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-08-19 23:40 | 309699 | A 4.1 | Beviljad | 20260820 |
 | 2026-08-20 01:56 | 309703 | A 4.1 | Beviljad | 20260820 |
 | 2026-08-20 12:48 | 310030 | A 4.1 | Beviljad | 20260820 |
-
-<!-- sida 599 -->
-
-[Tabell 599-1](handlingar.tabeller/599-1.csv)
-
 | 2026-08-20 20:08 | 310227 | A 4.1 | Beviljad | 20260824 |
-| --- | --- | --- | --- | --- |
 | 2026-08-20 23:48 | 310276 | A 4.1 | Beviljad | 20260827 |
 | 2026-08-20 23:48 | 310277 | A 4.1 | Beviljad | 20260824 |
 | 2026-08-21 15:32 | 310554 | A 4.1 | Beviljad | 20260824 |
@@ -25732,13 +25658,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-09-06 18:08 | 314796 | A 4.1 | Beviljad | 20260907 |
 | 2026-09-06 18:16 | 314797 | A 4.1 | Beviljad | 20260907 |
 | 2026-09-08 14:08 | 315396 | A 4.1 | Beviljad | 20260909 |
-
-<!-- sida 600 -->
-
-[Tabell 600-1](handlingar.tabeller/600-1.csv)
-
 | 2026-09-09 08:32 | 315544 | A 4.1 | Beviljad | 20260909 |
-| --- | --- | --- | --- | --- |
 | 2026-09-09 08:32 | 315544 | A 4.1 | Beviljad | 20260909 |
 | 2026-09-09 08:40 | 315548 | A 4.1 | Beviljad | 20260909 |
 | 2026-09-09 08:40 | 315548 | A 4.1 | Beviljad | 20260909 |
@@ -25779,13 +25699,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-04-16 07:16 | 277205 | A 4.1 | Beviljad | 20260828 |
 | 2026-04-17 18:56 | 277809 | A 4.1 | Beviljad | 20260904 |
 | 2026-04-29 18:56 | 280735 | A 4.1 | Beviljad | 20260616 |
-
-<!-- sida 601 -->
-
-[Tabell 601-1](handlingar.tabeller/601-1.csv)
-
 | 2026-05-12 16:32 | 283558 | A 4.1 | Beviljad | 20260812 |
-| --- | --- | --- | --- | --- |
 | 2026-05-26 18:48 | 286911 | A 4.1 | Beviljad | 20260616 |
 | 2026-05-26 19:16 | 286919 | A 4.1 | Beviljad | 20260616 |
 | 2026-05-28 14:16 | 287587 | A 4.1 | Beviljad | 20260616 |
@@ -25826,13 +25740,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-07-14 19:16 | 298817 | A 4.1 | Beviljad | 20260811 |
 | 2026-07-14 19:16 | 298818 | A 4.1 | Beviljad | 20260811 |
 | 2026-07-16 23:08 | 299234 | A 4.1 | Beviljad | 20260811 |
-
-<!-- sida 602 -->
-
-[Tabell 602-1](handlingar.tabeller/602-1.csv)
-
 | 2026-07-20 11:32 | 299663 | A 4.1 | Beviljad | 20260827 |
-| --- | --- | --- | --- | --- |
 | 2026-07-22 12:56 | 300053 | A 4.1 | Beviljad | 20260810 |
 | 2026-07-22 12:56 | 300054 | A 4.1 | Beviljad | 20260810 |
 | 2026-07-26 17:32 | 300643 | A 4.1 | Beviljad | 20260827 |
@@ -25873,13 +25781,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-08-15 09:56 | 305544 | A 4.1 | Beviljad | 20260817 |
 | 2026-08-15 16:08 | 305618 | A 4.1 | Beviljad | 20260817 |
 | 2026-08-15 16:08 | 305619 | A 4.1 | Beviljad | 20260817 |
-
-<!-- sida 603 -->
-
-[Tabell 603-1](handlingar.tabeller/603-1.csv)
-
 | 2026-08-15 18:32 | 305648 | A 4.1 | Beviljad | 20260827 |
-| --- | --- | --- | --- | --- |
 | 2026-08-15 23:08 | 305694 | A 4.1 | Beviljad | 20260827 |
 | 2026-08-16 16:08 | 305850 | A 4.1 | Beviljad | 20260827 |
 | 2026-08-16 20:16 | 305942 | A 4.1 | Beviljad | 20260828 |
@@ -25920,13 +25822,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-08-24 18:56 | 311218 | A 4.1 | Beviljad | 20260828 |
 | 2026-08-24 18:56 | 311218 | A 4.1 | Beviljad | 20260828 |
 | 2026-08-25 08:56 | 311339 | A 4.1 | Beviljad | 20260828 |
-
-<!-- sida 604 -->
-
-[Tabell 604-1](handlingar.tabeller/604-1.csv)
-
 | 2026-08-25 09:40 | 311383 | A 4.1 | Beviljad | 20260828 |
-| --- | --- | --- | --- | --- |
 | 2026-08-25 17:16 | 311595 | A 4.1 | Beviljad | 20260828 |
 | 2026-08-25 17:16 | 311597 | A 4.1 | Beviljad | 20260828 |
 | 2026-08-25 18:08 | 311614 | A 4.1 | Beviljad | 20260828 |
@@ -25967,13 +25863,7 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-08-13 16:24 | 305018 | A 4.1 | Beviljad | 20260814 |
 | 2026-08-14 00:00 | 0-20260814-095952 | A 4.1 | Beviljad | 20260817 |
 | 2026-08-14 00:00 | 0-20260814-095719 | A 4.1 | Beviljad | 20260817 |
-
-<!-- sida 605 -->
-
-[Tabell 605-1](handlingar.tabeller/605-1.csv)
-
 | 2026-08-17 13:41 | 306674 | A 4.1 | Beviljad | 20260828 |
-| --- | --- | --- | --- | --- |
 | 2026-08-18 14:56 | 307981 | A 4.1 | Beviljad | 20260827 |
 | 2026-08-24 18:08 | 311204 | A 4.1 | Beviljad | 20260911 |
 | 2026-08-24 18:56 | 311216 | A 4.1 | Beviljad | 20260828 |
@@ -26014,5 +25904,53 @@ Uttaget är gjort utifrån rapporteringtid och inte händelsetid. Dvs händelser
 | 2026-09-02 18:24 | 313929 | A 4.1 | Beviljad | 20260910 |
 | 2026-09-02 18:32 | 313934 | A 4.1 | Beviljad | 20260910 |
 | 2026-09-08 20:56 | 315496 | A 4.1 | Beviljad | 20260910 |
+
+<!-- sida 582 -->
+
+<!-- sida 583 -->
+
+<!-- sida 584 -->
+
+<!-- sida 585 -->
+
+<!-- sida 586 -->
+
+<!-- sida 587 -->
+
+<!-- sida 588 -->
+
+<!-- sida 589 -->
+
+<!-- sida 590 -->
+
+<!-- sida 591 -->
+
+<!-- sida 592 -->
+
+<!-- sida 593 -->
+
+<!-- sida 594 -->
+
+<!-- sida 595 -->
+
+<!-- sida 596 -->
+
+<!-- sida 597 -->
+
+<!-- sida 598 -->
+
+<!-- sida 599 -->
+
+<!-- sida 600 -->
+
+<!-- sida 601 -->
+
+<!-- sida 602 -->
+
+<!-- sida 603 -->
+
+<!-- sida 604 -->
+
+<!-- sida 605 -->
 
 <!-- sida 606 -->

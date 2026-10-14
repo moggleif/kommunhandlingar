@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4e78245d19a7bafa93f13df8/1763126440
 sha256: e1e854bdd5c335e5564520902a6ee31c97e887dc63346ec4e438b86efc5df417
 bytes: 16227751
 sidor: 255
-hamtad: 2026-10-07T22:24:50+00:00
-konverterad: 2026-10-07T22:26:06+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T06:37:45+00:00
+konverterad: 2026-10-14T06:38:48+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ej-konverterad, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [101, 105, 110, 170, 173, 178, 182, 187, 189, 190, 192, 194]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ej-konverterad, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [101, 105, 109, 110, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194]
+figurer: [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 31, 50, 78, 94, 96, 98, 100, 102, 103, 104, 106, 107, 108, 109, 158, 159, 161, 164, 165, 166, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 179, 181, 183, 184, 185, 186, 187, 190, 191, 192, 193, 194, 205, 207, 208, 210, 211, 212, 213, 214, 215, 216, 217, 219, 220, 221, 224, 227, 228, 230, 231, 232, 252, 253, 254, 255]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -864,7 +864,7 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 10
 
-[Tabell 32-1](handlingar.tabeller/32-1.csv)
+[Tabell 32-33-1](handlingar.tabeller/32-33-1.csv)
 
 | Kategorier<br>Gemensamma områden;<br>Informationssäkerhet,<br>administration, inköp m<br>fl. | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>1 Kommunövergripande risk: 3. Vanligt 3. Kännbar Ja<br>Bristande följsamhet till (uppfattas som<br>inköpsprocessen; besvärande för<br>direktupphandling respektive berörda<br>avtalsuppföljning intressenter och<br>kommunen) |
 | --- | --- |
@@ -874,6 +874,9 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 |  | 5 Mottagande av ungdomar i 2. Mindre 3. Kännbar Ja<br>kommunala aktivitetsansvaret vanligt (uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |
 |  | 6 Personer med skyddad 2. Mindre 4. Allvarlig/stor Ja<br>identitet vanligt inverkan (så stor<br>att den inte får<br>inträffa) |
 |  | 7 Utdrag från 3. Vanligt 4. Allvarlig/stor Ja<br>belastningsregister före inverkan (så stor<br>anställning att den inte får<br>inträffa) |
+| Kategorier | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>8 Externa skolplaceringar där 3. Vanligt 3. Kännbar Ja<br>särskilda skäl finns (uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |
+|  | 9 Övertidsersättning betalas ut 2. Mindre 3. Kännbar Ja<br>på felaktiga grunder vanligt (uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |
+|  | 10 Efterlevnad av 3. Vanligt 3. Kännbar Ja<br>informationshanteringsplan (uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |
 
 <!-- sida 33 -->
 
@@ -884,19 +887,17 @@ Intern kontrollplan 2026
 
 11
 
-[Tabell 33-1](handlingar.tabeller/33-1.csv)
-
-| Kategorier | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>8 Externa skolplaceringar där 3. Vanligt 3. Kännbar Ja<br>särskilda skäl finns (uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |
-| --- | --- |
-|  | 9 Övertidsersättning betalas ut 2. Mindre 3. Kännbar Ja<br>på felaktiga grunder vanligt (uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |
-|  | 10 Efterlevnad av 3. Vanligt 3. Kännbar Ja<br>informationshanteringsplan (uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |
-
-[Tabell 33-2](handlingar.tabeller/33-2.csv)
+[Tabell 33-34-1](handlingar.tabeller/33-34-1.csv)
 
 | Kategorier<br>Personal | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergripande 3. Kännbar<br>risk: Efterlevnad till (uppfattas<br>rekryteringsprocessen som<br>2. Mindre besvärande<br>vanligt för berörda<br>intressenter<br>och<br>kommunen) |
 | --- | --- |
 | Gemensamma<br>områden;<br>Informationssäkerhet,<br>administration, inköp<br>m fl. | Kommunövergripande 3. Kännbar<br>risk: (uppfattas<br>informationssäkerhet; som<br>skydd av information 2. Mindre besvärande<br>mot obehörig tillgång vanligt för berörda<br>intressenter<br>och<br>kommunen) |
 |  | Kommunövergripande 3. Kännbar<br>risk: It-säkerhet (uppfattas<br>- Bristande driftmiljö som<br>hos leverantörer 2. Mindre besvärande<br>vanligt för berörda<br>intressenter<br>och<br>kommunen) |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergripande<br>risk: Risk att<br>samhällsutbyggnad 3. Kännbar<br>inte kan ske i planerad (uppfattas<br>takt. Ny infrastruktur som<br>och exploatering och 2. Mindre besvärande<br>projekt för vanligt för berörda<br>underhåll/utbyggnad av intressenter<br>befintlig infrastruktur är och<br>beroende av varandra kommunen)<br>(resurser och<br>samplanering). |
+| Verksamhet | Åtgärdsprogrammens 4. Eventuell<br>kvalitet Allvarlig/stor granskning 2027.<br>2. Mindre inverkan (så Uppföljning av<br>vanligt stor att den tidigare<br>inte får granskningar.<br>inträffa) |
+|  | Felaktiga Granskning 2024<br>anställningsavtal 3. Kännbar visade att den stora<br>(uppfattas bristen var att det<br>som inte gick att se att<br>2. Mindre besvärande belastningsregister<br>vanligt för berörda uppvisats/begärts<br>intressenter ut. Detta finns med<br>och som egen risk och<br>kommunen) granskningsaktivitet<br>2025 samt 2026. |
+|  | Rutiner mot 3. Kännbar Avvaktar resultat<br>kränkningar följs ej (uppfattas från 2025 års<br>som granskning.<br>besvärande<br>3. Vanligt<br>för berörda<br>intressenter<br>och<br>kommunen) |
+|  | Bristande 3. Kännbar Uppföljning och<br>barnkonsekvensanalys (uppfattas kontroll görs inom<br>vid TAK-placeringar som systematiskt<br>2. Mindre besvärande kvalitetsarbete,<br>vanligt för berörda SOSFS<br>intressenter<br>och<br>kommunen) |
 
 <!-- sida 34 -->
 
@@ -904,15 +905,6 @@ Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Intern kontrollplan 2026
 
 12
-
-[Tabell 34-1](handlingar.tabeller/34-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergripande<br>risk: Risk att<br>samhällsutbyggnad 3. Kännbar<br>inte kan ske i planerad (uppfattas<br>takt. Ny infrastruktur som<br>och exploatering och 2. Mindre besvärande<br>projekt för vanligt för berörda<br>underhåll/utbyggnad av intressenter<br>befintlig infrastruktur är och<br>beroende av varandra kommunen)<br>(resurser och<br>samplanering). |
-| --- | --- |
-| Verksamhet | Åtgärdsprogrammens 4. Eventuell<br>kvalitet Allvarlig/stor granskning 2027.<br>2. Mindre inverkan (så Uppföljning av<br>vanligt stor att den tidigare<br>inte får granskningar.<br>inträffa) |
-|  | Felaktiga Granskning 2024<br>anställningsavtal 3. Kännbar visade att den stora<br>(uppfattas bristen var att det<br>som inte gick att se att<br>2. Mindre besvärande belastningsregister<br>vanligt för berörda uppvisats/begärts<br>intressenter ut. Detta finns med<br>och som egen risk och<br>kommunen) granskningsaktivitet<br>2025 samt 2026. |
-|  | Rutiner mot 3. Kännbar Avvaktar resultat<br>kränkningar följs ej (uppfattas från 2025 års<br>som granskning.<br>besvärande<br>3. Vanligt<br>för berörda<br>intressenter<br>och<br>kommunen) |
-|  | Bristande 3. Kännbar Uppföljning och<br>barnkonsekvensanalys (uppfattas kontroll görs inom<br>vid TAK-placeringar som systematiskt<br>2. Mindre besvärande kvalitetsarbete,<br>vanligt för berörda SOSFS<br>intressenter<br>och<br>kommunen) |
 
 <!-- sida 35 -->
 
@@ -3110,28 +3102,28 @@ Datum: 2025-04-10, ATN 2025–00011
 Under 2025-01-01 – 2025-12-31 tillämpas nedanstående priser.
 Priser inom parentes avser utbildningar med Göteborg som huvudman.
 
+Interkommunal ersättning (IKE)             Kronor/
+för 2025                                   poäng
+
+För grundläggande kurser inom vuxenutbildning. Avser både 55 (62)
+klassrumsundervisning och genom flexibel undervisning.
+
+För teoretiska gymnasiala ämnen. Avser både  55 (56)
+klassrumsundervisning och genom flexibel undervisning.
+
+För grundläggande och gymnasiala ämnen på distans. 36 (38)
+För utbildning på vardagar i svenska för invandrare tillämpas
+ersättning enligt följande:
+Studieväg 1                                  60 (73)
+Studieväg 2                                  50 (55)
+Studieväg 3                                  45 (46)
+
 Marie Egerstad     Linda Andersson
 Chef, vuxenutbildningen Projektledare, vuxenutbildningen
 Göteborgsregionen  Göteborgsregionen
 
 2
 Interkommunal ersättning (IKE) inom kommunal vuxenutbildning 2026
-
-[Tabell 88-1](handlingar.tabeller/88-1.csv)
-
-| Interkommunal ersättning (IKE)<br>för 2025 | Kronor/<br>poäng |
-| --- | --- |
-|  |  |
-| För grundläggande kurser inom vuxenutbildning. Avser både<br>klassrumsundervisning och genom flexibel undervisning. | 55 (62) |
-|  |  |
-| För teoretiska gymnasiala ämnen. Avser både<br>klassrumsundervisning och genom flexibel undervisning. | 55 (56) |
-|  |  |
-| För grundläggande och gymnasiala ämnen på distans. | 36 (38) |
-|  |  |
-| För utbildning på vardagar i svenska för invandrare tillämpas<br>ersättning enligt följande: |  |
-| Studieväg 1 | 60 (73) |
-| Studieväg 2 | 50 (55) |
-| Studieväg 3 | 45 (46) |
 
 <!-- sida 89 -->
 
@@ -3555,60 +3547,38 @@ Uppskattat antal lastbilsförare som kommer att anställas under de närmaste 6 
 Anställningsbehov
 Län           Antal 0–6 månader Antal 7–12 månader Total 12 månader
 i procent\*
-Stockholms län                                            22 %
-Uppsala län                                               40 %
-Södermanlands län                                         23 %
-Östergötlands län                                         33 %
-Jönköpings län                                            41 %
-Kronobergs län                                            20 %
-Kalmar län                                                19 %
-Gotlands län                                              56 %
-Blekinge län                                              49 %
-Skåne län                                                 27 %
 
-Hallands län                                              20 %
-Västra Götalands län                                      30 %
-Värmlands län                                             34 %
-Örebro län                                                35 %
-Västmanlands län                                          23 %
+```osaker-tabell
+Stockholms län    167           199          366          22 %
+Uppsala län        35           39            74          40 %
+Södermanlands län  48           28           75           23 %
+Östergötlands län 109           50           158          33 %
+Jönköpings län     58           76           135          41 %
+Kronobergs län     35           37            72          20 %
+Kalmar län         40           39           80           19 %
+Gotlands län       22           14           36           56 %
+Blekinge län       8            15           23           49 %
+Skåne län         401           490          890          27 %
 
-Dalarnas län                                              30 %
-Gävleborgs län                                            26 %
-Västernorrlands län                                       17 %
-Jämtlands län                                             36 %
-Västerbottens län                                         40 %
-Norrbottens län                                           25 %
+Hallands län       54           53           107          20 %
+Västra Götalands län 538        364          902          30 %
+Värmlands län      69           73           141          34 %
+Örebro län         40           44           84           35 %
+Västmanlands län   32           39           70           23 %
 
-Totalt                                                    28 %
+Dalarnas län       59           37           97           30 %
+Gävleborgs län     57           48           105          26 %
+Västernorrlands län 68          57           126          17 %
+Jämtlands län      28           14            41          36 %
+Västerbottens län 246           113          359          40 %
+Norrbottens län    89           50           139          25 %
+
+Totalt            2 200        1 879        4 080         28 %
+```
+
 \*Procent av företagen i respektive län som bedömer att de behöver anställa de kommande 12 månaderna
 
 4
-
-[Tabell 97-1](handlingar.tabeller/97-1.csv)
-
-| 167 | 199 | 366 |
-| --- | --- | --- |
-| 35 | 39 | 74 |
-| 48 | 28 | 75 |
-| 109 | 50 | 158 |
-| 58 | 76 | 135 |
-| 35 | 37 | 72 |
-| 40 | 39 | 80 |
-| 22 | 14 | 36 |
-| 8 | 15 | 23 |
-| 401 | 490 | 890 |
-| 54 | 53 | 107 |
-| 538 | 364 | 902 |
-| 69 | 73 | 141 |
-| 40 | 44 | 84 |
-| 32 | 39 | 70 |
-| 59 | 37 | 97 |
-| 57 | 48 | 105 |
-| 68 | 57 | 126 |
-| 28 | 14 | 41 |
-| 246 | 113 | 359 |
-| 89 | 50 | 139 |
-| 2 200 | 1 879 | 4 080 |
 
 <!-- sida 98 -->
 
@@ -3754,6 +3724,8 @@ Hur många lastbilsförare anställdes under de senaste 12 månaderna?
 6 806
 6 666
 
+6 543
+6 069
 6 000
 6 084
 
@@ -3769,14 +3741,6 @@ Hur många lastbilsförare anställdes under de senaste 12 månaderna?
 2015 2016  2017 2018  2019 2020  2021  2022 2023  2024 2025
 
 TYAs Trendindikator                                                       7
-
-[Tabell 100-1](handlingar.tabeller/100-1.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| 6 543<br>6 069 |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
 
 <!-- sida 101 -->
 
@@ -6877,23 +6841,20 @@ ragadrav
 regleh
 Antal hemtjänsttagare per en omsorgspersonal
 15
-10
+10,75
+10,06                     9,81
+10   9,16
+7,42
+6,75
 5
 0
 15
-10
+12,58                     12,21    13,01
+11,67
+10,61
+10                    9,38
 5
 0
-
-[Tabell 164-1](handlingar.tabeller/164-1.csv)
-
-| 10,06 |  | 10,75<br>9,81 |
-| --- | --- | --- |
-| 9,16 | 7,42<br>6,75 |  |
-|  |  |  |
-| 12,58<br>11,67 | 10,61 | 13,01<br>12,21 |
-|  | 9,38 |  |
-|  |  |  |
 
 <!-- sida 165 -->
 
@@ -6958,26 +6919,16 @@ lednA
 ragadrav
 regleh
 Andel omsorgspersonal som är undersköterskor
-60%
+64%       64%                         66%       67%
+60%                      56%       53%
 40%
 20%
 0%
-60%
+60%   57%       58%                         60%       61%
+47%       48%
 40%
 20%
 0%
-
-[Tabell 165-1](handlingar.tabeller/165-1.csv)
-
-| 64% 64% | 56% | 66% 67% |
-| --- | --- | --- |
-|  | 53% |  |
-|  |  |  |
-|  |  |  |
-| 57% 58% |  | 60% 61% |
-|  | 47% 48% |  |
-|  |  |  |
-|  |  |  |
 
 <!-- sida 166 -->
 
@@ -7958,18 +7909,18 @@ skola har minskat jämfört med tidigare år.
 
 Skolverket mäter årligen, med hjälp av Högskoleförberedande program Yrkesprogram
 data från Statistiska Centralbyrån, hur
-etableringen för ungdomar ser ut ett 50%
+etableringen för ungdomar ser ut ett 50%                               52,7%
 år efter avslutad gymnasieutbildning.
-40%
+40%                   42,5%
 Den senaste statistiken, som visar
 etableringen 2023 för ungdomar som
 30%
 avslutade sin gymnasieutbildning läsåret
 2021/2022, visar på en försämring jäm-
-20%
+20%                   21,4%
 fört med föregående år.
 10%
-Mätperioden täcker in Covid-pandemin,
+Mätperioden täcker in Covid-pandemin,                                   5,1%
 som skulle kunna utgöra en förklaring för 0%
 den minskade etableringen på arbets- 2015 2016 2017 2018 2019 2020 2021 2022 2023 2015 2016 2017 2018 2019 2020 2021 2022 2023
 Etablerad ställning Högskole-studerande
@@ -8021,16 +7972,6 @@ förvånande.
 procentenheter. Andelen ungdomar från
 yrkesprogram som ett år efter avslutad
 10
-
-[Tabell 179-1](handlingar.tabeller/179-1.csv)
-
-|  |  |
-| --- | --- |
-|  | 52,7% |
-| 42,5% |  |
-|  |  |
-| 21,4% |  |
-|  | 5,1% |
 
 <!-- sida 180 -->
 
@@ -8821,56 +8762,52 @@ INFORMATION OM STATISTIKEN
 I DENNA VY
 
 Kvarstående                    Nya
-I september gjorde                               m
-publiceras om upp                                 d-
-Folkhögskolesatsningen
-ringen är att myndi                               r
-samtliga dataunder                                vis
+I september gjorde Arbetsförmedlingen stora förändringar i de data som
+p
+Fo
+u
+lk
+b
+hö
+l
+g
+i
+s
+c
+k
+e
+ole
+r
+s
+a
+at
+s
+sn i
+o
+ng
+m
+en
+upph 1 a 21 n 5 dlade tjänster och u 9 t 22 bi3l8d7ningar. Den största för4ä34nd-
+ringen är att myndigheten konsekvent tagit bort variabeln leverantör ur
+samtliga dataunder7l1a0g, men också andra v88a3ri1a 25b2ler är rensade, exem1p 1e84lvis
 Orientering, test och
-ukatrtblägigldninngingsnamn i                     ing.
-Yrkessvenska och annan
-Förändringen gör d                                tik-
+ukatrtblägigldninngingsnamn i arbetsmarknadsutbildning och förberedande utbildning.
+691
+F Yr ö ke r s ä sv n en d sk r a i n oc g h e an n na n gör dessvärre att många av 7d59e 3o11rdinarie delarna av sta2t9is3tik-
 språkutbildning
-sidorna i Månadsra                                r allt
-statistik kring lever
-Korta Vägen
-Werket för dialog m                              en,
-Yrkes- och studieförberedande
-im foödurlehroppning att ku                      rap-
+sidorna i Månadsrapporten inte är möjliga att ta fram. Det gäller framför allt
+statistik kring levera41n7törer och marknader5.37 147
+Korta Vägen                    102
+Werket för dialog med Arbetsförmedlingen om den förändrade statistiken,
+Yrkes- och studieförberedande 148 90             68
+im foödurlehroppning att kunna återställa den i ko1m26mande nummer av Månadsrap-
 porten.
-Övrigt
+46                27
+Övrigt                                           14
+10
 2024    2025      2024     2025
 Kvarstående och nya deltagare i förberedande utbildning (FUB) per underkategori.
 25
-
-[Tabell 194-1](handlingar.tabeller/194-1.csv)
-
-| Arbetsförmedlingen stor | a förändringar i de data so<br>434 |
-| --- | --- |
-| 1 215 |  |
-| 922 |  |
-| handlade tjänster och utb | i3l8d7ningar. Den största förän |
-|  | bort variabeln leverantör u |
-| gheten konsekvent tagit |  |
-|  | i1a 25b2ler är rensade, exem1p 1e84l |
-| 7l1a0g, men också andra v88a3r |  |
-|  |  |
-| arbetsmarknadsutbildnin | g och förberedande utbildn |
-| 691 |  |
-| 759 | 311 293 |
-| essvärre att många av de | ordinarie delarna av statis |
-| pporten inte är möjliga at<br>537 | t ta fram. Det gäller framfö |
-| 417 | 147<br>102 |
-| antörer och marknader. |  |
-|  |  |
-|  | m den förändrade statistik<br>90 68 |
-| ed Arbetsförmedlingen o<br>148 |  |
-|  | mande nummer av Månads |
-| nna återställa den i ko1m26 |  |
-| 46 |  |
-|  | 27 |
-| 10 | 14 |
-|  |  |
 
 <!-- sida 195 -->
 
@@ -9500,8 +9437,9 @@ Kungsbacka kommun          Delårsbokslut 2025                   4
 
 [Tabell 208-1](handlingar.tabeller/208-1.csv)
 
-| Summa pensionsförpliktelser i balansräkningen<br>varav avsättning pensioner före 1998 | 2 202<br>1 229 | 2 181<br>1 190 |
+| Summa pensionsförpliktelser i balansräkningen | 2 202 | 2 181 |
 | --- | --- | --- |
+| varav avsättning pensioner före 1998 | 1 229 | 1 190 |
 | varav avsättning pensioner efter 1998 | 973 | 990 |
 
 <!-- sida 209 -->
@@ -9525,13 +9463,6 @@ kommunens ekonomi utgår vi ifrån fyra finansiella perspektiv: resultat, kapaci
 
 2.3.1 Resultat och kapacitet
 Årets resultat
-
-Utfall Utfall
-Prognos   till  till
-Årets resultat, miljoner kronor 2021 2022 2023 2024
-2025 augusti augusti
-2024  2025
-Kommunen                  464  756  231  286     477   209    458
 
 \*) Exklusive jämförelsestörande poster
 
@@ -9558,9 +9489,12 @@ Kungsbacka kommun          Delårsbokslut 2025                   5
 
 [Tabell 209-1](handlingar.tabeller/209-1.csv)
 
-| Strukturellt resultat\*<br>Resultatets andel av skatter &<br>statsbidrag % | 494<br>8,4 | 572<br>13,1 | 276<br>3,8 | 211<br>4,6 | 454<br>7,5 | 219<br>5,4 | 442<br>10,8 |
+| Årets resultat, miljoner kronor | 2021 | 2022 | 2023 | 2024 | Prognos 2025 | Utfall till augusti 2024 | Utfall till augusti 2025 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Strukturellt resultats andel av<br>skatter & statsbidrag % | 9,0 | 9,8 | 4,7 | 3,4 | 7,1 | 5,6 | 10,4 |
+| Kommunen | 464 | 756 | 231 | 286 | 477 | 209 | 458 |
+| Strukturellt resultat\* | 494 | 572 | 276 | 211 | 454 | 219 | 442 |
+| Resultatets andel av skatter & statsbidrag % | 8,4 | 13,1 | 3,8 | 4,6 | 7,5 | 5,4 | 10,8 |
+| Strukturellt resultats andel av skatter & statsbidrag % | 9,0 | 9,8 | 4,7 | 3,4 | 7,1 | 5,6 | 10,4 |
 
 <!-- sida 210 -->
 
@@ -9616,8 +9550,9 @@ Kungsbacka kommun          Delårsbokslut 2025                   6
 
 [Tabell 210-1](handlingar.tabeller/210-1.csv)
 
-| Årlig förändring nettokostnader<br>Årlig förändring nettokostnader löpande verksamhet | -1,4<br>3,7 | 14,2<br>9,2 | 1,4<br>3,5 | 1,6<br>0,7 |
+| Årlig förändring nettokostnader | -1,4 | 14,2 | 1,4 | 1,6 |
 | --- | --- | --- | --- | --- |
+| Årlig förändring nettokostnader löpande verksamhet | 3,7 | 9,2 | 3,5 | 0,7 |
 | Årlig förändring nettokostnader inkl. finansiella poster | -0,3 | 15,4 | 1,5 | 0,4 |
 
 <!-- sida 211 -->
@@ -9825,14 +9760,18 @@ Indikator                          2022  2023  2024 2025  Målsättning
 2025
 Antal påbörjade bostäder            848  165   213  59\*\*\*  öka
 
+Antal färdigställda bostäder        363  319   324  299\*\*\* öka
+Anmälda brott mot brottsbalken per invånare, 5 691 6 475 6 541 \*\* minska
+antal/100 000 invånare (BRÅ)
+Brukarbedömning hemtjänst äldreomsorg, helhetssyn 90 % 91 % 88 % \*\* öka
+(Kolada)
+
+Brukarbedömning särskilt boende äldreomsorg, 74 % 76 % 76 % \*\* öka
+helhetssyn (Kolada)
+Brukarbedömning individ- och familjeomsorg, totalt – 88 % - \* 95 % \*\* öka
+helhetssyn (Kolada)
+
 Kungsbacka kommun          Delårsbokslut 2025                  10
-
-[Tabell 214-1](handlingar.tabeller/214-1.csv)
-
-| Antal färdigställda bostäder<br>Anmälda brott mot brottsbalken per invånare,<br>antal/100 000 invånare (BRÅ) | 363<br>5 691 | 319<br>6 475 | 324<br>6 541 | 299\*\*\*<br>\*\* | öka<br>minska |
-| --- | --- | --- | --- | --- | --- |
-| Brukarbedömning hemtjänst äldreomsorg, helhetssyn<br>(Kolada)<br>Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn (Kolada) | 90 %<br>74 % | 91 %<br>76 % | 88 %<br>76 % | \*\*<br>\*\* | öka<br>öka |
-| Brukarbedömning individ- och familjeomsorg, totalt –<br>helhetssyn (Kolada) | 88 % | - \* | 95 % | \*\* | öka |
 
 <!-- sida 215 -->
 
@@ -9931,15 +9870,20 @@ Indikator                        2022  2023   2024  2025  Målsättning
 2025
 Kommunens verksamheters elförbrukning, total \* \* \*    \*    minska
 (kWh)
+Utsläpp till luft av växthusgaser totalt, ton CO2- 2,27 \* \* \* minska
+ekv/inv (Kolada)
+Fossiloberoende personbilar, andel av totalt antal 21,2 24,1 26,5 \* öka
+bilar i det geografiska området (%)
+
+Fossiloberoende personbilar i     94,6  96,2   97,5  97,2   öka
+kommunorganisationen, andel (%)
+Slutanvändning av energi inom det geografiska 15 15 \* \*    minska
+området, MWh/inv (Kolada)
+Matens klimatpåverkan från de offentliga måltiderna 1,86 1,69 1,85 1,44\*\*\* minska
+ska minska räknat i kg CO2-ekv/kg livsmedel.
+Målsättningen är 1,0 år 2030.
 
 Kungsbacka kommun          Delårsbokslut 2025                  12
-
-[Tabell 216-1](handlingar.tabeller/216-1.csv)
-
-| Utsläpp till luft av växthusgaser totalt, ton CO2-<br>ekv/inv (Kolada)<br>Fossiloberoende personbilar, andel av totalt antal<br>bilar i det geografiska området (%) | 2,27<br>21,2 | \*<br>24,1 | \*<br>26,5 | \*<br>\* | minska<br>öka |
-| --- | --- | --- | --- | --- | --- |
-| Fossiloberoende personbilar i<br>kommunorganisationen, andel (%)<br>Slutanvändning av energi inom det geografiska<br>området, MWh/inv (Kolada) | 94,6<br>15 | 96,2<br>15 | 97,5<br>\* | 97,2<br>\* | öka<br>minska |
-| Matens klimatpåverkan från de offentliga måltiderna<br>ska minska räknat i kg CO2-ekv/kg livsmedel.<br>Målsättningen är 1,0 år 2030. | 1,86 | 1,69 | 1,85 | 1,44\*\*\* | minska |
 
 <!-- sida 217 -->
 
@@ -9949,11 +9893,33 @@ Antal kemiska produkter med utfasningsämnen, 113 115 151 167\*\* minska
 inklusive hormonstörande ämnen på SIN-listan ska
 minska i kommunens verksamheter. 2021 var
 antalet 124 (KEMgroup PRO)
+Avfall från hushåll ska minska med 30 % per 103 92 \*  \*    minska
+invånare från 2020 till 2030. Startvärde 100,
+målvärde 2030 är 70.
+Avfall från kommunens verksamheter ska minska 115 223 \* \*  minska
+med 40 % per heltidsanställd. Startvärde 100,
+målvärde 2030 är 60.
+Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig \* \* öka
+Skyddad natur totalt, andel (Kolada) 7,4 % 7,4 % \*    \*
 
+Vattendrag med god ekologisk status, andel 18,5 % \* \* \*     öka
+(Kolada)
+Andelen återbrukade möbler       \*     \*        \*     \*     öka
+Ungas hälsa i årskurs 4 och 8 – Flickor. Åk 4: 88%, Åk 4: 85%, Åk 4: 85%, \* öka
+Åk 8: 72%, Åk 8: 79%, Åk 8: 73%,
+(Elevhälsan i Kungsbacka utvecklar metod utifrån
+Åk 1  Åk 1   Åk 1
+hälsosamtal med elever)          gymnasiet: gymnasiet: gymnasiet:
+65%   73%    75%
+Ungas hälsa i årskurs 4 och 8 – Pojkar. (Elevhälsan Åk 4: 90% Åk 4: 91% Åk 4: 89% \* öka
+Åk 8: 93% Åk 8: 92% Åk 8: 89%
+i Kungsbacka utvecklar metod utifrån hälsosamtal
+Åk 1  Åk 1   Åk 1
+med elever)                      gymnasiet: gymnasiet: gymnasiet:
+85%   86%    88%
 \*) Ännu ej publicerad.
 \*\*) 2025-09-09
 \*\*\*) Januari-juli
-
 2.5.3 Mål: Bästa företagsklimatet i Västsverige
 
 Prognos måluppfyllelse
@@ -9974,14 +9940,6 @@ plats och utvecklade egna affärsidéer.
 Kungsbacka kommun          Delårsbokslut 2025                  13
 
 [Tabell 217-1](handlingar.tabeller/217-1.csv)
-
-| Avfall från hushåll ska minska med 30 % per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70.<br>Avfall från kommunens verksamheter ska minska<br>med 40 % per heltidsanställd. Startvärde 100,<br>målvärde 2030 är 60. | 103<br>115 | 92<br>223 | \*<br>\* | \*<br>\* | minska<br>minska |
-| --- | --- | --- | --- | --- | --- |
-| Ekologisk status i Kungsbackafjorden (VISS)<br>Skyddad natur totalt, andel (Kolada) | måttlig<br>7,4 % | måttlig<br>7,4 % | \*<br>\* | \*<br>\* | öka |
-| Vattendrag med god ekologisk status, andel<br>(Kolada)<br>Andelen återbrukade möbler | 18,5 %<br>\* | \*<br>\* | \*<br>\* | \*<br>\* | öka<br>öka |
-| Ungas hälsa i årskurs 4 och 8 – Flickor.<br>(Elevhälsan i Kungsbacka utvecklar metod utifrån<br>hälsosamtal med elever)<br>Ungas hälsa i årskurs 4 och 8 – Pojkar. (Elevhälsan<br>i Kungsbacka utvecklar metod utifrån hälsosamtal<br>med elever) | Åk 4: 88%,<br>Åk 8: 72%,<br>Åk 1<br>gymnasiet:<br>65%<br>Åk 4: 90%<br>Åk 8: 93%<br>Åk 1<br>gymnasiet:<br>85% | Åk 4: 85%,<br>Åk 8: 79%,<br>Åk 1<br>gymnasiet:<br>73%<br>Åk 4: 91%<br>Åk 8: 92%<br>Åk 1<br>gymnasiet:<br>86% | Åk 4: 85%,<br>Åk 8: 73%,<br>Åk 1<br>gymnasiet:<br>75%<br>Åk 4: 89%<br>Åk 8: 89%<br>Åk 1<br>gymnasiet:<br>88% | \*<br>\* | öka<br>öka |
-
-[Tabell 217-2](handlingar.tabeller/217-2.csv)
 
 | Fokusområden Trend |  |
 | --- | --- |
@@ -10049,7 +10007,16 @@ sammanvägt betygsindex 0–100, för hur företag i
 kommunen bedömer Kungsbacka kommuns
 myndighetsutövning, vilken är en viktig del av
 företagsklimatet.
+Svenskt näringslivs attitydundersökning av kommuners 3,4 3,4 3,8 3,6 öka
+företagsklimat. Medelvärde utifrån skala 1–6, där företag
+bedömer företagsklimatet i Kungsbacka kommun.
+Sysselsatt dagbefolkning, antal (Kolada) 28 485 28 586 \* \*  öka
+Andel av sysselsatt dagbefolkning inom 4,9 % 4,9 % \*  \*     5,0 %
+Göteborgsregionen
+Företagsamhet, andel av invånare 16 - 74 år 18 % 19 % \* \*   öka
 
+Antal nystartade företag per 1 000 invånare 16 - 64 år, 12,8 10,3% \* \* öka
+etableringsfrekvens (Kolada)
 \*) Ännu ej publicerad.
 
 2.5.4 Mål: I Kungsbacka utvecklas vi hela livet
@@ -10084,13 +10051,6 @@ Rektorer bedömer att kollegialt lärande står för den övervägande delen av 
 utveckling i sin yrkesroll och att det är en viktig rutin i vardagen.
 
 Kungsbacka kommun          Delårsbokslut 2025                  15
-
-[Tabell 219-1](handlingar.tabeller/219-1.csv)
-
-| Svenskt näringslivs attitydundersökning av kommuners<br>företagsklimat. Medelvärde utifrån skala 1–6, där företag<br>bedömer företagsklimatet i Kungsbacka kommun.<br>Sysselsatt dagbefolkning, antal (Kolada) | 3,4<br>28 485 | 3,4<br>28 586 | 3,8<br>\* | 3,6<br>\* | öka<br>öka |
-| --- | --- | --- | --- | --- | --- |
-| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen<br>Företagsamhet, andel av invånare 16 - 74 år | 4,9 %<br>18 % | 4,9 %<br>19 % | \*<br>\* | \*<br>\* | 5,0 %<br>öka |
-| Antal nystartade företag per 1 000 invånare 16 - 64 år,<br>etableringsfrekvens (Kolada) | 12,8 | 10,3% | \* | \* | öka |
 
 <!-- sida 220 -->
 
@@ -10134,16 +10094,18 @@ Indikator                           2022 2023  2024 2025
 Genomsnittligt meritvärde för grundskolans årskurs 9. 237 237 238 \* öka
 Meritvärdet utgörs av summan av de 17 bästa betygen
 i elevens slutbetyg och kan max vara 340. (Kolada)
+Genomsnittlig betygspoäng för gymnasiets 14,5 14,3 14,0 \*   öka
+avgångselevers betygspoäng som kan vara max 20.
+(Kolada)
+Arbetslöshet 16–24 år i kommunen, procent (Kolada) 1,7 1,7 2,3 \* minska
+Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 376 325 306 \*
 
+Andel vuxna personer som inte återkommer till 69 73 75 \*    öka
+försörjningsstöd inom ett år efter avslutat
+försörjningsstöd, procent (Kolada)
 \*) Ännu ej publicerad
 
 Kungsbacka kommun          Delårsbokslut 2025                  16
-
-[Tabell 220-1](handlingar.tabeller/220-1.csv)
-
-| Genomsnittlig betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara max 20.<br>(Kolada)<br>Arbetslöshet 16–24 år i kommunen, procent (Kolada) | 14,5<br>1,7 | 14,3<br>1,7 | 14,0<br>2,3 | \*<br>\* | öka<br>minska |
-| --- | --- | --- | --- | --- | --- |
-| Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada)<br>Andel vuxna personer som inte återkommer till<br>försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd, procent (Kolada) | 376<br>69 | 325<br>73 | 306<br>75 | \*<br>\* | öka |
 
 <!-- sida 221 -->
 
@@ -10568,17 +10530,22 @@ Kungsbacka kommun          Delårsbokslut 2025                  24
 
 [Tabell 228-1](handlingar.tabeller/228-1.csv)
 
-| Pensionsförpliktelser före 1998<br>Årets resultat enligt blandmodellen | 25<br>311 | -38<br>439 |
+| Pensionsförpliktelser före 1998 | 25 | -38 |
 | --- | --- | --- |
-| - Samtliga realisationsvinster<br>+Realisationsvinster enligt undantagsmöjlighet | -1<br>- | 0<br>- |
-| +Realisationsförluster enligt undantagsmöjlighet<br>-/+Orealiserade vinster och förluster i värdepapper | -<br>- | -<br>- |
-| +/-Återföring av orealiserade vinster & förluster i värdepapper<br>=Årets resultat efter balanskravsjusteringar | -<br>310 | -<br>439 |
-| -Reservering av medel till resultatutjämningsreserv<br>+Användning av medel från resultatutjämningsreserv | -<br>- | -<br>- |
+| Årets resultat enligt blandmodellen | 311 | 439 |
+| - Samtliga realisationsvinster | -1 | 0 |
+| +Realisationsvinster enligt undantagsmöjlighet | - | - |
+| +Realisationsförluster enligt undantagsmöjlighet | - | - |
+| -/+Orealiserade vinster och förluster i värdepapper | - | - |
+| +/-Återföring av orealiserade vinster & förluster i värdepapper | - | - |
+| =Årets resultat efter balanskravsjusteringar | 310 | 439 |
+| -Reservering av medel till resultatutjämningsreserv | - | - |
+| +Användning av medel från resultatutjämningsreserv | - | - |
 | =Balanskravsresultat | 310 | 439 |
 
-[Tabell 228-2](handlingar.tabeller/228-2.csv)
+[Tabell 228-229-2](handlingar.tabeller/228-229-2.csv)
 
-| Namn Utfall januari-juni Utfall januari-juni<br>2024 2025 |  |  |
+| Namn | Utfall januari-juni<br>2024 | Utfall januari-juni<br>2025 |
 | --- | --- | --- |
 | Anställda totalt | 6 618 | 6 531 |
 | Anställda andel kvinnor | 78,9 % | 78,8 % |
@@ -10586,6 +10553,12 @@ Kungsbacka kommun          Delårsbokslut 2025                  24
 | Andel heltid | 84,8 % | 85,5 % |
 | Personalomsättning | 4,4 % | 4,4 % |
 | Sjukfrånvaro totalt | 7,3 % | 6,9 % |
+| Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller mer | 39,3 % | 38,3 % |
+| Sjukfrånvaro, anställda i åldrarna 29 år eller yngre | 7, 0 % | 7 % |
+| Sjukfrånvaro, anställda i åldrarna 30–49 år | 6,1 % | 6 % |
+| Sjukfrånvaro, anställda i åldrarna 50 år eller äldre | 8,7 % | 7,8 % |
+| Sjukfrånvaro kvinnor | 8,0 % | 7,5 % |
+| Sjukfrånvaro män | 4,9 % | 4,5 % |
 
 <!-- sida 229 -->
 
@@ -10633,17 +10606,6 @@ sysselsättningen kommer öka något, samtidigt som vi ser en fortsatt stigande 
 
 Kungsbacka kommun          Delårsbokslut 2025                  25
 
-[Tabell 229-1](handlingar.tabeller/229-1.csv)
-
-| Namn Utfall januari-juni Utfall januari-juni<br>2024 2025 |  |  |
-| --- | --- | --- |
-| Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller mer | 39,3 % | 38,3 % |
-| Sjukfrånvaro, anställda i åldrarna 29 år eller yngre | 7, 0 % | 7 % |
-| Sjukfrånvaro, anställda i åldrarna 30–49 år | 6,1 % | 6 % |
-| Sjukfrånvaro, anställda i åldrarna 50 år eller äldre | 8,7 % | 7,8 % |
-| Sjukfrånvaro kvinnor | 8,0 % | 7,5 % |
-| Sjukfrånvaro män | 4,9 % | 4,5 % |
-
 <!-- sida 230 -->
 
 år väntas en starkare ökning av antalet arbetade timmar än i år. Detta stärker det kommunala
@@ -10670,17 +10632,25 @@ Miljoner kronor                     Kommunen
 2024-08-31 2025-08-31 Budget 2025 Prognos Avvikelse
 2025    prognos
 
+Extraordinära poster
+(netto)
+Årets resultat       209,4    458,4      260,7    477,2    216,4
+
 Kungsbacka kommun          Delårsbokslut 2025                  26
 
 [Tabell 230-1](handlingar.tabeller/230-1.csv)
 
-| Verksamhetens intäkter<br>Verksamhetens kostnader | 874,2<br>-4 282,7 | 909,9<br>-4 278,1 | 1 410,0<br>-6 912,1 | 1 270,0<br>-6 547,4 | -140,0<br>364,7 |
+| Verksamhetens intäkter | 874,2 | 909,9 | 1 410,0 | 1 270,0 | -140,0 |
 | --- | --- | --- | --- | --- | --- |
-| Avskrivningar<br>Verksamhetens<br>nettokostnader | -337,8<br>-3 746,2 | -339,1<br>-3 707,3 | -557,1<br>-6 059,2 | -526,8<br>-5 804,3 | 30,3<br>254,9 |
-| Skatteintäkter<br>Generella statsbidrag och<br>utjämning | 3 898,8<br>224,3 | 4 077,9<br>184,5 | 6 127,6<br>311,0 | 6 118,4<br>276,9 | -9,2<br>-34,1 |
-| Verksamhetens resultat<br>Finansiella intäkter | 376,9<br>10,4 | 555,2<br>12,0 | 379,4<br>20,5 | 591,1<br>21,4 | 211,6<br>0,9 |
-| Finansiella kostnader<br>Resultat efter finansiella<br>poster | -177,9<br>209,4 | -108,8<br>458,4 | -139,2<br>260,7 | -135,3<br>477,2 | 3,9<br>216,4 |
-| Extraordinära poster<br>(netto)<br>Årets resultat | 209,4 | 458,4 | 260,7 | 477,2 | 216,4 |
+| Verksamhetens kostnader | -4 282,7 | -4 278,1 | -6 912,1 | -6 547,4 | 364,7 |
+| Avskrivningar | -337,8 | -339,1 | -557,1 | -526,8 | 30,3 |
+| Verksamhetens nettokostnader | -3 746,2 | -3 707,3 | -6 059,2 | -5 804,3 | 254,9 |
+| Skatteintäkter | 3 898,8 | 4 077,9 | 6 127,6 | 6 118,4 | -9,2 |
+| Generella statsbidrag och utjämning | 224,3 | 184,5 | 311,0 | 276,9 | -34,1 |
+| Verksamhetens resultat | 376,9 | 555,2 | 379,4 | 591,1 | 211,6 |
+| Finansiella intäkter | 10,4 | 12,0 | 20,5 | 21,4 | 0,9 |
+| Finansiella kostnader | -177,9 | -108,8 | -139,2 | -135,3 | 3,9 |
+| Resultat efter finansiella poster | 209,4 | 458,4 | 260,7 | 477,2 | 216,4 |
 
 <!-- sida 231 -->
 
@@ -10689,28 +10659,55 @@ Miljoner kronor             Kommunen
 
 Aug 2024   Aug 2025   Budget 2025
 
+TILLGÅNGAR
+Anläggningstillgångar
+
+AVSÄTTNINGAR OCH SKULDER
+
 Kungsbacka kommun          Delårsbokslut 2025                  27
 
 [Tabell 231-1](handlingar.tabeller/231-1.csv)
 
-| TILLGÅNGAR<br>Anläggningstillgångar |  |  |  |
+| Immateriella anläggningstillgångar | 0 | 0 | 0 |
 | --- | --- | --- | --- |
-| Immateriella anläggningstillgångar<br>Mark, byggnader o tekniska anläggningar | 0<br>9 087,9 | 0<br>9 223,2 | 0<br>9 891 |
-| Maskiner och inventarier<br>Materiella anläggningstillgångar | 741,5<br>9 829,4 | 757,3<br>9 980,4 | 937<br>10 827 |
-| Finansiella anläggningstillgångar<br>Summa Anläggningstillgångar | 233,4<br>10 062,8 | 241,2<br>10 221,6 | 234<br>11 061 |
-| Bidrag till statlig infrastruktur<br>Omsättningstillgångar | 51,9 | 62,2 | 54 |
-| Förråd med mera<br>Fordringar | 10,2<br>657,0 | 112,8<br>465,8 | 112<br>712 |
-| Kassa och bank<br>Summa Omsättningstillgångar | 425,9<br>1 093,1 | 573,5<br>1 152,2 | 189<br>1 013 |
-| SUMMA TILLGÅNGAR<br>EGET KAPITAL, AVSÄTTNINGAR o<br>SKULDER | 11 207,8 | 11 436,0 | 12 128 |
-| Årets resultat<br>Övrigt eget kapital | 209,4<br>3 974,1 | 458,4<br>4 266,3 | 261<br>3 988 |
-| Summa eget kapital<br>Avsättning för pensioner och liknande<br>förpliktelser | 4 183,5<br>2 217,1 | 4 724,7<br>2 211,0 | 4 249<br>2 189 |
-| Andra avsättningar<br>Summa Avsättningar | 354,0<br>2 571,1 | 329,5<br>2 540,6 | 357<br>2 546 |
-| Långfristiga skulder<br>Kortfristiga skulder | 3 613,6<br>839,6 | 3 376,2<br>794,6 | 4 184<br>1 149 |
-| Summa Skulder<br>SUMMA EGET KAPITAL,<br>AVSÄTTNINGAR OCH SKULDER | 4 453,2<br>11 207,8 | 4 170,7<br>11 436,0 | 5 333<br>12 128 |
+| Mark, byggnader o tekniska anläggningar | 9 087,9 | 9 223,2 | 9 891 |
+| Maskiner och inventarier | 741,5 | 757,3 | 937 |
+| Materiella anläggningstillgångar | 9 829,4 | 9 980,4 | 10 827 |
+| Finansiella anläggningstillgångar | 233,4 | 241,2 | 234 |
+| Summa Anläggningstillgångar | 10 062,8 | 10 221,6 | 11 061 |
+| Bidrag till statlig infrastruktur | 51,9 | 62,2 | 54 |
+| Omsättningstillgångar |  |  |  |
+| Förråd med mera | 10,2 | 112,8 | 112 |
+| Fordringar | 657,0 | 465,8 | 712 |
+| Kassa och bank | 425,9 | 573,5 | 189 |
+| Summa Omsättningstillgångar | 1 093,1 | 1 152,2 | 1 013 |
+| SUMMA TILLGÅNGAR | 11 207,8 | 11 436,0 | 12 128 |
+| EGET KAPITAL, AVSÄTTNINGAR o |  |  |  |
+| SKULDER |  |  |  |
+| Årets resultat | 209,4 | 458,4 | 261 |
+| Övrigt eget kapital | 3 974,1 | 4 266,3 | 3 988 |
+| Summa eget kapital | 4 183,5 | 4 724,7 | 4 249 |
+| Avsättning för pensioner och liknande förpliktelser | 2 217,1 | 2 211,0 | 2 189 |
+| Andra avsättningar | 354,0 | 329,5 | 357 |
+| Summa Avsättningar | 2 571,1 | 2 540,6 | 2 546 |
+| Långfristiga skulder | 3 613,6 | 3 376,2 | 4 184 |
+| Kortfristiga skulder | 839,6 | 794,6 | 1 149 |
+| Summa Skulder | 4 453,2 | 4 170,7 | 5 333 |
+| SUMMA EGET KAPITAL, | 11 207,8 | 11 436,0 | 12 128 |
 
 <!-- sida 232 -->
 
 Miljoner kronor             Kommunen
+PANTER OCH
+ANSVARSFÖRBINDINDELSER
+
+Borgensförbindelser
+3 484,1   3 433,1       3 484,1
+Andel pensionsutfästelse
+Räddningstjänsten
+12,8       10,8          10,9
+Teoretiskt värde av förtroendevaldas
+pensionsförmåner                   7,0        7,5
 
 3.3 Not 1 Redovisningsprinciper och beräkningsmetoder
 
@@ -10746,12 +10743,6 @@ delårsrapporten.
 
 Kungsbacka kommun          Delårsbokslut 2025                  28
 
-[Tabell 232-1](handlingar.tabeller/232-1.csv)
-
-| PANTER OCH<br>ANSVARSFÖRBINDINDELSER<br>Borgensförbindelser | 3 484,1 | 3 433,1 | 3 484,1 |
-| --- | --- | --- | --- |
-| Andel pensionsutfästelse<br>Räddningstjänsten<br>Teoretiskt värde av förtroendevaldas<br>pensionsförmåner | 12,8<br>7,0 | 10,8<br>7,5 | 10,9 |
-
 <!-- sida 233 -->
 
 4  Drift- och investeringsredovisning
@@ -10762,7 +10753,7 @@ Kungsbacka kommun          Delårsbokslut 2025                  29
 
 [Tabell 233-1](handlingar.tabeller/233-1.csv)
 
-| Miljoner kronor Delår Delår Bokslut Budget Prognos Prognos Avvikelse<br>2024 2025 2024 2025 2025 avvikelse procent |  |  |  |  |  |  |  |
+| Miljoner kronor | Delår<br>2024 | Delår<br>2025 | Bokslut<br>2024 | Budget<br>2025 | Prognos<br>2025 | Prognos<br>avvikelse | Avvikelse<br>procent |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Kommunfullmäktige | -2,6 | -3,0 | -4,1 | -4,9 | -4,9 | 0,0 | 0 |
 | Kommunstyrelsen | -180,7 | -186,8 | -265,7 | -292,3 | -277,8 | 14,5 | 5 |
@@ -10897,7 +10888,7 @@ Kungsbacka kommun          Delårsbokslut 2025                  32
 
 [Tabell 236-1](handlingar.tabeller/236-1.csv)
 
-| Delår Delår Budget Prognos Avvikelse<br>Miljoner kronor Prognos 2025<br>2024 2025 2025 avvikelse procent |  |  |  |  |  |  |
+| Miljoner kronor | Delår<br>2024 | Delår<br>2025 | Budget<br>2025 | Prognos 2025 | Prognos<br>avvikelse | Avvikelse<br>procent |
 | --- | --- | --- | --- | --- | --- | --- |
 | Gymnasium &<br>Arbetsmarknad | 0,9 | 3,3 | 6,3 | 6,3 | 0,0 | 0,0% |
 | Kultur & Fritid | 8,3 | 2,6 | 31,4 | 26,3 | 5,2 | 16,5% |
@@ -10958,7 +10949,7 @@ Kungsbacka kommun          Delårsbokslut 2025                  33
 
 [Tabell 237-1](handlingar.tabeller/237-1.csv)
 
-| Miljoner kronor Delår Delår Budget Prognos Avvikelse<br>2024 2025 2025 2025 |  |  |  |  |  |
+| Miljoner kronor | Delår<br>2024 | Delår<br>2025 | Budget<br>2025 | Prognos<br>2025 | Avvikelse |
 | --- | --- | --- | --- | --- | --- |
 | Utgifter | -201,9 | -232,2 | -608,4 | -517,1 | -91,2 |
 | Inkomster | 26,7 | 17,9 | 69,4 | 77,4 | -8,0 |
@@ -10966,7 +10957,7 @@ Kungsbacka kommun          Delårsbokslut 2025                  33
 
 [Tabell 237-2](handlingar.tabeller/237-2.csv)
 
-| Miljoner kronor Delår Delår Budget Prognos Avvikelse<br>2024 2025 2025 2025 |  |  |  |  |  |
+| Miljoner kronor | Delår<br>2024 | Delår<br>2025 | Budget<br>2025 | Prognos<br>2025 | Avvikelse |
 | --- | --- | --- | --- | --- | --- |
 | Utgifter | -1,1 | -0,7 | -14,8 | -3,6 | -11,2 |
 | Inkomster | 0 | 0 | 0 | 0 | 0 |
@@ -10974,7 +10965,7 @@ Kungsbacka kommun          Delårsbokslut 2025                  33
 
 [Tabell 237-3](handlingar.tabeller/237-3.csv)
 
-| Miljoner kronor Delår Delår Budget Prognos Avvikelse<br>2024 2025 2025 2025 |  |  |  |  |  |
+| Miljoner kronor | Delår<br>2024 | Delår<br>2025 | Budget<br>2025 | Prognos<br>2025 | Avvikelse |
 | --- | --- | --- | --- | --- | --- |
 | Utgifter | -26,8 | -13,7 | -27,0 | -28,1 | 1,1 |
 | Inkomster | 3,3 | 2,9 | 1,5 | 3,2 | -1,7 |

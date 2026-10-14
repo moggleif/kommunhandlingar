@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.610314e018d1d1f21c41122/17056537609
 sha256: ca1e367fa1595d5c992f36ddc9dc067059740b556d7fc3f908fd66128f2c4f70
 bytes: 249953
 sidor: 19
-hamtad: 2026-10-08T01:59:02+00:00
-konverterad: 2026-10-08T01:59:05+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:39:14+00:00
+konverterad: 2026-10-14T09:39:16+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -601,7 +601,7 @@ Följande skrivelser inkommit till nämnden för Service under perioden 2023-12-
 
 Expedierat/bestyrkt
 
-[Tabell 14-1](protokoll.tabeller/14-1.csv)
+[Tabell 14-15-1](protokoll.tabeller/14-15-1.csv)
 
 | Beskrivning | Inkom | Tillhör ärende | Ärendemening |
 | --- | --- | --- | --- |
@@ -610,6 +610,11 @@ Expedierat/bestyrkt
 | Redovisning av icke<br>färdigberedda motioner<br>(2, 2023) | 2023-12-21 | SE-2023-00442 | Redovisning av icke<br>färdigberedda motioner<br>(2, 2023) |
 | (Kommunfullmäktige)<br>(Beslut § 198) -<br>Pensionsöverenskommelse<br>för födda 1958 och senare<br>som omfattas av PA-KL,<br>tillämpning enligt PBF | 2023-12-21 | SE-2023-00443 | Pensionsöverenskommelse<br>för födda 1958 och senare<br>som omfattas av PA-KL,<br>tillämpning enligt PBF |
 | Kommunledningskontorets<br>Tjänsteskrivelse -<br>Pensionsöverenskommelse<br>för födda 1958 och senare<br>som omfattas av PA-KL,<br>tillämpning enligt PBF | 2023-12-21 | SE-2023-00443 | Pensionsöverenskommelse<br>för födda 1958 och senare<br>som omfattas av PA-KL,<br>tillämpning enligt PBF |
+| SKR Cirkulär 2023:06 | 2023-12-21 | SE-2023-00443 | Pensionsöverenskommelse<br>för födda 1958 och senare<br>som omfattas av PA-KL,<br>tillämpning enligt PBF |
+| (Kommunfullmäktige)<br>(Beslut § 199) - Motion<br>om anställning av personer<br>med funktionsnedsättning | 2023-12-21 | SE-2022-00269 | Begäran om yttrande -<br>Motion om anställning av<br>personer med<br>funktionsnedsättning |
+| Tjänsteskrivelse - Motion<br>om anställning av personer<br>med funktionsnedsättning | 2023-12-21 | SE-2022-00269 | Begäran om yttrande -<br>Motion om anställning av<br>personer med<br>funktionsnedsättning |
+| Dataskyddsombudets<br>årsrapport 2023 -<br>Kungsbacka kommun | 2024-01-10 | SE-2024-00014 | Dataskyddsombudets<br>årsrapport 2023 |
+| Datasskyddsombudets<br>årsrapport 2023 - Service | 2024-01-10 | SE-2024-00014 | Dataskyddsombudets<br>årsrapport 2023 |
 
 <!-- sida 15 -->
 
@@ -627,15 +632,6 @@ redovisningen av inkomna skrivelser januari 2024 till protokollet, och finner at
 nämnden för Service bifaller det.
 
 Expedierat/bestyrkt
-
-[Tabell 15-1](protokoll.tabeller/15-1.csv)
-
-| SKR Cirkulär 2023:06 | 2023-12-21 | SE-2023-00443 | Pensionsöverenskommelse<br>för födda 1958 och senare<br>som omfattas av PA-KL,<br>tillämpning enligt PBF |
-| --- | --- | --- | --- |
-| (Kommunfullmäktige)<br>(Beslut § 199) - Motion<br>om anställning av personer<br>med funktionsnedsättning | 2023-12-21 | SE-2022-00269 | Begäran om yttrande -<br>Motion om anställning av<br>personer med<br>funktionsnedsättning |
-| Tjänsteskrivelse - Motion<br>om anställning av personer<br>med funktionsnedsättning | 2023-12-21 | SE-2022-00269 | Begäran om yttrande -<br>Motion om anställning av<br>personer med<br>funktionsnedsättning |
-| Dataskyddsombudets<br>årsrapport 2023 -<br>Kungsbacka kommun | 2024-01-10 | SE-2024-00014 | Dataskyddsombudets<br>årsrapport 2023 |
-| Datasskyddsombudets<br>årsrapport 2023 - Service | 2024-01-10 | SE-2024-00014 | Dataskyddsombudets<br>årsrapport 2023 |
 
 <!-- sida 16 -->
 

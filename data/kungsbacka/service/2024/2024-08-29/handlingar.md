@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.50ef5810191784a92d94b8d/17246562542
 sha256: 7602fb94de8868dcf8e7bb624e1615ee023b87ad9aadaf2a7134bd42c0be797d
 bytes: 693351
 sidor: 11
-hamtad: 2026-10-08T02:08:56+00:00
-konverterad: 2026-10-08T02:08:59+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:48:24+00:00
+konverterad: 2026-10-14T09:48:27+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -132,7 +132,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (5)
 
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
+[Tabell 4-7-1](handlingar.tabeller/4-7-1.csv)
 
 | Rapport: En hållbar färdtjänst -<br>Framtids- och nutidsanalys i<br>Kungsbacka | 2024-06-19 | SE-2024-00248 | Beställningscentral för särskild<br>kollektivtrafik |
 | --- | --- | --- | --- |
@@ -143,16 +143,7 @@ KUNGSBACKA  KOMMUN
 | Kommunstyrelsens förvaltnings<br>tjänsteskrivelse -<br>Svar på motion från Roger<br>Larsson (KB) m.fl. om<br>bekämpning av invasiva arter | 2024-06-24 | SE-2023-00327 | Beredning av motion -<br>Prioritering biologisk mångfald<br>(KS 2023-00584) |
 | Motion - Prioritering biologisk<br>mångfald | 2024-06-24 | SE-2023-00327 | Beredning av motion -<br>Prioritering biologisk mångfald<br>(KS 2023-00584) |
 | (Kommunfullmäktige)<br>(Beslut § 91)<br>Kommunbudget 2025, plan<br>2026-2027 | 2024-06-24 | SE-2024-00237 | Kommunbudget 2025, plan<br>2026-2027 |
-
-<!-- sida 5 -->
-
-KUNGSBACKA  KOMMUN
-3 (5)
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
 | Kommunledningskontorets<br>Tjänsteskrivelse -<br>Kommunbudget 2025, plan<br>2026-2027 | 2024-06-24 | SE-2024-00237 | Kommunbudget 2025, plan<br>2026-2027 |
-| --- | --- | --- | --- |
 | Kommunbudget 2025, plan<br>2026-2027, antagen av<br>kommunfullmäktige<br>2024-06-13, § 91 | 2024-06-24 | SE-2024-00237 | Kommunbudget 2025, plan<br>2026-2027 |
 | (Kommunfullmäktige)<br>(Beslut § 92)<br>Uppföljning och prognos april<br>2024 för Kungsbacka kommun | 2024-06-24 | SE-2024-00238 | Uppföljning och prognos april<br>2024 för Kungsbacka kommun |
 | Kommunledningskontorets<br>Tjänsteskrivelse - Uppföljning<br>och prognos april 2024 för<br>Kungsbacka kommun | 2024-06-24 | SE-2024-00238 | Uppföljning och prognos april<br>2024 för Kungsbacka kommun |
@@ -160,21 +151,26 @@ KUNGSBACKA  KOMMUN
 | (Kommunfullmäktige)<br>(Beslut § 96)<br>Revidering av reglemente för<br>nämnden för Service | 2024-06-24 | SE-2024-00057 | Reglemente, nämnden för<br>Service |
 | Reglemente nämnden för<br>Service<br>(Beslut KF 2024-06-13 § 96) | 2024-06-24 | SE-2024-00057 | Reglemente, nämnden för<br>Service |
 | Kommunledningskontoret<br>Tjänsteskrivelse - Revidering av<br>reglemente för nämnden för<br>Service | 2024-06-24 | SE-2024-00057 | Reglemente, nämnden för<br>Service |
-
-<!-- sida 6 -->
-
-KUNGSBACKA  KOMMUN
-4 (5)
-
-[Tabell 6-1](handlingar.tabeller/6-1.csv)
-
 | (E-post)<br>Rapport Nationell studie om<br>kommuners arbete med lokala<br>livsmedelssystem och<br>livsmedelsberedskap | 2024-07-01 | SE-2024-00252 | Rapport: Nationell studie om<br>kommuners arbete med lokala<br>livsmedelsystem och<br>livsmedelsberedskap |
-| --- | --- | --- | --- |
 | Rapport: Nationell studie om<br>kommuners arbete med lokala<br>livsmedelsystem och<br>livsmedelsberedskap | 2024-07-01 | SE-2024-00252 | Rapport: Nationell studie om<br>kommuners arbete med lokala<br>livsmedelsystem och<br>livsmedelsberedskap |
 | Kommunfullmäktige<br>(Beslut § 106)<br>Sammanträdesdagar 2025 för<br>kommunfullmäktige | 2024-08-22 | SE-2024-00299 | Sammanträdesdagar 2025 för<br>kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens<br>arbetsutskott |
 | Kommunstyrelsen<br>(Beslut § 176)<br>Sammanträdesdagar 2025 för<br>kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsen | 2024-08-22 | SE-2024-00299 | Sammanträdesdagar 2025 för<br>kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens<br>arbetsutskott |
 | Kommunstyrelsens förvaltning<br>(Tjänsteskrivelse)<br>Sammanträdesdagar 2025 för<br>Kommunfullmäktige,<br>Kommunstyrelsen och<br>Kommunstyrelsens<br>arbetsutskott | 2024-08-22 | SE-2024-00299 | Sammanträdesdagar 2025 för<br>kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens<br>arbetsutskott |
 | KSAU (Beslut § 193)<br>Sammanträdesdagar 2025 för<br>kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens arbetsutskott | 2024-08-22 | SE-2024-00299 | Sammanträdesdagar 2025 för<br>kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens<br>arbetsutskott |
+| Kommunfullmäktige<br>(Beslut § 107)<br>Återrapportering av uppdrag om<br>att utvärdera införande av<br>språkkrav vid anställning inom<br>skolan samt vård och omsorg i<br>Kungsbacka kommun | 2024-08-22 | SE-2024-00300 | Återrapportering av uppdrag<br>om att utvärdera införande av<br>språkkrav vid anställning inom<br>skolan samt vård och omsorg i<br>Kungsbacka kommun |
+| Kommunstyrelsens förvaltning<br>Tjänsteskrivelse -<br>Återrapportering av uppdrag om<br>att utvärdera införande av<br>språkkrav vid anställning inom<br>skolan samt vård och omsorg i<br>Kungsbacka kommun | 2024-08-22 | SE-2024-00300 | Återrapportering av uppdrag<br>om att utvärdera införande av<br>språkkrav vid anställning inom<br>skolan samt vård och omsorg i<br>Kungsbacka kommun |
+| Kommunfullmäktige<br>(Beslut § 110)<br>Svar på motion från Stefan<br>Jägnert (SD) om ID-kontroller<br>av anställda i Kungsbacka<br>kommun | 2024-08-22 | SE-2023-00384 | Beredning av motion -<br>ID-kontroller (KS 2023-00621) |
+| Kommunstyrelsens förvaltning<br>Tjänsteskrivelse -<br>Svar på motion från Stefan<br>Jägnert (SD) om ID-kontroller<br>av anställda i Kungsbacka<br>kommun | 2024-08-22 | SE-2023-00384 | Beredning av motion -<br>ID-kontroller (KS 2023-00621) |
+
+<!-- sida 5 -->
+
+KUNGSBACKA  KOMMUN
+3 (5)
+
+<!-- sida 6 -->
+
+KUNGSBACKA  KOMMUN
+4 (5)
 
 <!-- sida 7 -->
 
@@ -186,14 +182,6 @@ Förvaltningen för Services tjänsteskrivelse, 2024-06-25
 
 Julia Tryggvadottir Tollesson
 Förvaltningschef Service
-
-[Tabell 7-1](handlingar.tabeller/7-1.csv)
-
-| Kommunfullmäktige<br>(Beslut § 107)<br>Återrapportering av uppdrag om<br>att utvärdera införande av<br>språkkrav vid anställning inom<br>skolan samt vård och omsorg i<br>Kungsbacka kommun | 2024-08-22 | SE-2024-00300 | Återrapportering av uppdrag<br>om att utvärdera införande av<br>språkkrav vid anställning inom<br>skolan samt vård och omsorg i<br>Kungsbacka kommun |
-| --- | --- | --- | --- |
-| Kommunstyrelsens förvaltning<br>Tjänsteskrivelse -<br>Återrapportering av uppdrag om<br>att utvärdera införande av<br>språkkrav vid anställning inom<br>skolan samt vård och omsorg i<br>Kungsbacka kommun | 2024-08-22 | SE-2024-00300 | Återrapportering av uppdrag<br>om att utvärdera införande av<br>språkkrav vid anställning inom<br>skolan samt vård och omsorg i<br>Kungsbacka kommun |
-| Kommunfullmäktige<br>(Beslut § 110)<br>Svar på motion från Stefan<br>Jägnert (SD) om ID-kontroller<br>av anställda i Kungsbacka<br>kommun | 2024-08-22 | SE-2023-00384 | Beredning av motion -<br>ID-kontroller (KS 2023-00621) |
-| Kommunstyrelsens förvaltning<br>Tjänsteskrivelse -<br>Svar på motion från Stefan<br>Jägnert (SD) om ID-kontroller<br>av anställda i Kungsbacka<br>kommun | 2024-08-22 | SE-2023-00384 | Beredning av motion -<br>ID-kontroller (KS 2023-00621) |
 
 <!-- sida 8 -->
 

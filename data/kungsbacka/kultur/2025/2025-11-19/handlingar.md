@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7573952919a7bcb3bbe4edb/17630423952
 sha256: bbcdabb26fed915419fc001af6e8af8ab1e179c69d7ca0a3cbe59abdcc227a78
 bytes: 3498894
 sidor: 59
-hamtad: 2026-10-08T07:44:20+00:00
-konverterad: 2026-10-08T07:44:30+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T10:41:02+00:00
+konverterad: 2026-10-14T10:41:16+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [14]
-figurer: null
-tolkade: null
+figurer: [43]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1574,11 +1574,14 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 |  | 4 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att följa och berörda intressenter och<br>utveckla det kommunen)<br>systematiska<br>beredskapsarbetet |
 | Verksamhet | 5 Nämndspecifik risk: 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>utbetalt föreningsstöd som besvärande för<br>används för annat än berörda intressenter och<br>beviljat kommunen) |
 
-[Tabell 44-2](handlingar.tabeller/44-2.csv)
+[Tabell 44-45-2](handlingar.tabeller/44-45-2.csv)
 
 | Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
 | --- | --- |
 | Personal | Kommunövergrip Förvaltningen är<br>3. Kännbar<br>ande risk: följsam till<br>(uppfattas som<br>Efterlevnad till rekryteringsproces<br>besvärande för<br>rekryteringsproce 2. Mindre vanligt sen och är mycket<br>berörda<br>ssen noggrann med<br>intressenter och<br>referenstagning vid<br>kommunen)<br>anställning. |
+| Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. | Kommunövergrip Förvaltningen har<br>ande risk: It- 3. Kännbar förhållandevis få<br>säkerhet - (uppfattas som IT-system, och har<br>Bristande besvärande för en god<br>2. Mindre vanligt<br>driftmiljö hos berörda implementering av<br>leverantörer intressenter och systemförvaltarmo<br>kommunen) dellen där även<br>risken ingår. |
+|  | Kommunövergrip Risken berör inte<br>ande risk: Risk Kultur & Fritids<br>att verksamheter i<br>samhällsutbyggn tillräckligt hög grad<br>ad inte kan ske i för att vara med i<br>planerad takt. Ny 3. Kännbar plan.<br>infrastruktur och (uppfattas som<br>exploatering och besvärande för<br>2. Mindre vanligt<br>projekt för berörda<br>underhåll/utbygg intressenter och<br>nad av befintlig kommunen)<br>infrastruktur är<br>beroende av<br>varandra<br>(resurser och<br>samplanering). |
+| Verksamhet | Kommunövergrip Kultur & Fritids<br>ande risk: utmaning ligger<br>Dämpad framförallt i att<br>befolkningstillväx fortsätta vara<br>3. Kännbar<br>t med långsiktig relevant för<br>(uppfattas som<br>påverkan på invånarna, då<br>besvärande för<br>kommunala 2. Mindre vanligt invånarnas behov<br>berörda<br>verksamheter och förväntningar<br>intressenter och<br>sätter agendan för<br>kommunen)<br>Kultur & Fritids<br>verksamheter,<br>snarare än själva<br>antalet invånare. |
 
 <!-- sida 45 -->
 
@@ -1586,14 +1589,6 @@ Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Intern kontrollplan 2026
 
 10
-
-[Tabell 45-1](handlingar.tabeller/45-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-| Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. | Kommunövergrip Förvaltningen har<br>ande risk: It- 3. Kännbar förhållandevis få<br>säkerhet - (uppfattas som IT-system, och har<br>Bristande besvärande för en god<br>2. Mindre vanligt<br>driftmiljö hos berörda implementering av<br>leverantörer intressenter och systemförvaltarmo<br>kommunen) dellen där även<br>risken ingår. |
-|  | Kommunövergrip Risken berör inte<br>ande risk: Risk Kultur & Fritids<br>att verksamheter i<br>samhällsutbyggn tillräckligt hög grad<br>ad inte kan ske i för att vara med i<br>planerad takt. Ny 3. Kännbar plan.<br>infrastruktur och (uppfattas som<br>exploatering och besvärande för<br>2. Mindre vanligt<br>projekt för berörda<br>underhåll/utbygg intressenter och<br>nad av befintlig kommunen)<br>infrastruktur är<br>beroende av<br>varandra<br>(resurser och<br>samplanering). |
-| Verksamhet | Kommunövergrip Kultur & Fritids<br>ande risk: utmaning ligger<br>Dämpad framförallt i att<br>befolkningstillväx fortsätta vara<br>3. Kännbar<br>t med långsiktig relevant för<br>(uppfattas som<br>påverkan på invånarna, då<br>besvärande för<br>kommunala 2. Mindre vanligt invånarnas behov<br>berörda<br>verksamheter och förväntningar<br>intressenter och<br>sätter agendan för<br>kommunen)<br>Kultur & Fritids<br>verksamheter,<br>snarare än själva<br>antalet invånare. |
 
 <!-- sida 46 -->
 
@@ -1763,7 +1758,7 @@ www.kungsbacka.se
 
 <!-- sida 51 -->
 
-[Tabell 51-1](handlingar.tabeller/51-1.csv)
+[Tabell 51-54-1](handlingar.tabeller/51-54-1.csv)
 
 | Ärende/ärendegrupp enligt<br>delegationslistan | Beslut, insats samt ev. omfattning | Beslutsfattare | Diarie |
 | --- | --- | --- | --- |
@@ -1775,13 +1770,7 @@ www.kungsbacka.se
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och<br>idéburna föreningar,<br>grupper, nätverk och<br>enskilda kulturutövare<br>samt studieförbund | Fritidskonstnärerna i Kungsbacka | Andreas Høgfeldt |  |
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och<br>idéburna föreningar,<br>grupper, nätverk och<br>enskilda kulturutövare<br>samt studieförbund | Föreningen Hunehals Borg | Andreas Høgfeldt |  |
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och<br>idéburna föreningar,<br>grupper, nätverk och | Föreningen Jazz & Blues i<br>Kungsbacka | Andreas Høgfeldt |  |
-
-<!-- sida 52 -->
-
-[Tabell 52-1](handlingar.tabeller/52-1.csv)
-
 | enskilda kulturutövare<br>samt studieförbund |  |  |  |
-| --- | --- | --- | --- |
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och<br>idéburna föreningar,<br>grupper, nätverk och<br>enskilda kulturutövare<br>samt studieförbund | Föreningen Norden Fjärås-Löftadal |  |  |
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och<br>idéburna föreningar,<br>grupper, nätverk och<br>enskilda kulturutövare<br>samt studieförbund | KNUFF |  |  |
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och<br>idéburna föreningar,<br>grupper, nätverk och<br>enskilda kulturutövare<br>samt studieförbund | Kulturföreningen Vingen i Onsala |  |  |
@@ -1789,32 +1778,26 @@ www.kungsbacka.se
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och<br>idéburna föreningar,<br>grupper, nätverk och<br>enskilda kulturutövare<br>samt studieförbund | Kungsbacka Kammarkör |  |  |
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och<br>idéburna föreningar,<br>grupper, nätverk och<br>enskilda kulturutövare<br>samt studieförbund | Kungsbacka Riksteaterförening |  |  |
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och | Kungsbacka Teaterverkstad |  |  |
-
-<!-- sida 53 -->
-
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
-
 | idéburna föreningar,<br>grupper, nätverk och<br>enskilda kulturutövare<br>samt studieförbund |  |  |  |
-| --- | --- | --- | --- |
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och<br>idéburna föreningar,<br>grupper, nätverk och<br>enskilda kulturutövare<br>samt studieförbund | Kungsbacka Trädgårdsvänner |  |  |
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och<br>idéburna föreningar,<br>grupper, nätverk och<br>enskilda kulturutövare<br>samt studieförbund | Kungsbacka Stadsteater ideell<br>förening |  |  |
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och<br>idéburna föreningar,<br>grupper, nätverk och<br>enskilda kulturutövare<br>samt studieförbund | Lindfjälls Gycklarsällskap |  |  |
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och<br>idéburna föreningar,<br>grupper, nätverk och<br>enskilda kulturutövare<br>samt studieförbund | Motionsdansens vänner |  |  |
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och<br>idéburna föreningar,<br>grupper, nätverk och<br>enskilda kulturutövare<br>samt studieförbund | Nordhallands hembygdsförening |  |  |
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och<br>idéburna föreningar,<br>grupper, nätverk och<br>enskilda kulturutövare<br>samt studieförbund | Kungsbacka Konstförening |  |  |
-
-<!-- sida 54 -->
-
-[Tabell 54-1](handlingar.tabeller/54-1.csv)
-
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och<br>idéburna föreningar,<br>grupper, nätverk och<br>enskilda kulturutövare<br>samt studieförbund | Onsala Hembygdsgille |  |  |
-| --- | --- | --- | --- |
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och<br>idéburna föreningar,<br>grupper, nätverk och<br>enskilda kulturutövare<br>samt studieförbund | Onsala vävförening Apelröd |  |  |
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och<br>idéburna föreningar,<br>grupper, nätverk och<br>enskilda kulturutövare<br>samt studieförbund | Stättareds 4H-klubb |  |  |
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och<br>idéburna föreningar,<br>grupper, nätverk och<br>enskilda kulturutövare<br>samt studieförbund | Teatersällskapet EBBE |  |  |
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och<br>idéburna föreningar,<br>grupper, nätverk och<br>enskilda kulturutövare<br>samt studieförbund | Tölö Hembygdsgille |  |  |
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och<br>idéburna föreningar,<br>grupper, nätverk och<br>enskilda kulturutövare<br>samt studieförbund | Vallda Folkdanslag |  |  |
 | 2.4.3 Beslut och<br>utbetalning av bidrag till<br>idrotts-, kultur- och<br>idéburna föreningar,<br>grupper, nätverk och | Vänföreningen Konstens Hus i<br>Kungsbacka |  |  |
+
+<!-- sida 52 -->
+
+<!-- sida 53 -->
+
+<!-- sida 54 -->
 
 <!-- sida 55 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.740037a718d876d2ccf15851/1708084876
 sha256: bebabc1b7c5c7995a2fa82e09e5b466dfad5b52c74e2c7be7e732c636d838737
 bytes: 7510531
 sidor: 193
-hamtad: 2026-10-08T00:47:22+00:00
-konverterad: 2026-10-08T00:48:02+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T08:40:16+00:00
+konverterad: 2026-10-14T08:40:46+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok]
 tal_obekraftade: [9, 10]
-figurer: null
-tolkade: null
+figurer: [1, 8, 9, 10, 107, 112, 118, 121, 126, 127, 128, 132, 137, 139, 144, 146, 148, 163, 174, 175, 176]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -508,8 +508,9 @@ www.kungsbacka.se
 
 [Tabell 16-1](handlingar.tabeller/16-1.csv)
 
-| Uppföljningsnivå (belopp i mnkr)<br>Drift Skattefinansierad verksamhet | Budget 2023<br>-222,3 | Bokslut 2023<br>-227,1 | Budgetavvikelse<br>2023<br>-4,8 |
+| Uppföljningsnivå (belopp i mnkr) | Budget 2023 | Bokslut 2023 | Budgetavvikelse 2023 |
 | --- | --- | --- | --- |
+| Drift Skattefinansierad verksamhet | -222,3 | -227,1 | -4,8 |
 | Drift Vatten och Avlopp | 3,7 | -8,1 | -11,8 |
 | Drift Avfall och Återvinning | -2,9 | -5,9 | -3,0 |
 | Drift Kungsbacka Bredbandsnät | 0,9 | -1,3 | -2,2 |
@@ -618,8 +619,9 @@ Utfallsrapport Avfall & Återvinning, miljoner
 
 [Tabell 20-1](handlingar.tabeller/20-1.csv)
 
-| Intäkter | Utfall 2021<br>76 | Utfall 2022<br>79,1 | Utfall 2023<br>110,5 |
+|  | Utfall 2021 | Utfall 2022 | Utfall 2023 |
 | --- | --- | --- | --- |
+| Intäkter | 76 | 79,1 | 110,5 |
 | Kostnader | -270 | -307,2 | -337,6 |
 | Netto | -194 | -228,1 | -227,1 |
 | Budget, netto | -189,3 | -223,4 | -222,3 |
@@ -627,8 +629,9 @@ Utfallsrapport Avfall & Återvinning, miljoner
 
 [Tabell 20-2](handlingar.tabeller/20-2.csv)
 
-| Intäkter | Utfall 2021<br>191,3 | Utfall 2022<br>195,7 | Utfall 2023<br>205,2 |
+|  | Utfall 2021 | Utfall 2022 | Utfall 2023 |
 | --- | --- | --- | --- |
+| Intäkter | 191,3 | 195,7 | 205,2 |
 | Kostnader | -171 | -184 | -213,3 |
 | Netto | 20,3 | 11,7 | -8,1 |
 | Reglering skuld VA-<br>abonnenterna | -20,3 | -11,7 | 8,1 |
@@ -636,8 +639,9 @@ Utfallsrapport Avfall & Återvinning, miljoner
 
 [Tabell 20-3](handlingar.tabeller/20-3.csv)
 
-| Intäkter | Utfall 2021<br>88,6 | Utfall 2022<br>90,6 | Utfall 2023<br>94,8 |
+|  | Utfall 2021 | Utfall 2022 | Utfall 2023 |
 | --- | --- | --- | --- |
+| Intäkter | 88,6 | 90,6 | 94,8 |
 | Kostnader | -89,1 | -97,9 | -100,7 |
 | Netto | -0,5 | -7,3 | -5,9 |
 
@@ -646,6 +650,11 @@ Utfallsrapport Avfall & Återvinning, miljoner
 Nämnden för Teknik                               Kungsbacka kommun
 Nämndens årsredovisning 2023
 
+Utfall 2021      Utfall 2022       Utfall 2023
+Reglering skuld
+0,5              7,3              5,9
+abonnenterna
+Resultat                       0,0              0,0              0,0
 Kommentarer till verksamhet och utfall Avfall & återvinning
 Verksamheten redovisar ett utfall för perioden på -5,9 miljoner kronor att jämföra med budgeterat resultat på -
 2,9 miljoner kronor. Avvikelsen mot budget är därmed 3 miljoner kronor. Detta förklaras framför allt av lägre
@@ -677,23 +686,19 @@ devisen en satsad krona nu ger minskade driftskostnader på sikt.
 
 [Tabell 21-1](handlingar.tabeller/21-1.csv)
 
-| Reglering skuld<br>abonnenterna | Utfall 2021<br>0,5 | Utfall 2022<br>7,3 | Utfall 2023<br>5,9 |
+|  | Utfall 2021 | Utfall 2022 | Utfall 2023 |
 | --- | --- | --- | --- |
-| Resultat | 0,0 | 0,0 | 0,0 |
-
-[Tabell 21-2](handlingar.tabeller/21-2.csv)
-
-| Intäkter | Utfall 2021<br>29,8 | Utfall 2022<br>34,5 | Utfall 2023<br>36,2 |
-| --- | --- | --- | --- |
+| Intäkter | 29,8 | 34,5 | 36,2 |
 | Kostnader | -28,8 | -32,8 | -37,5 |
 | Netto | 1,0 | 1,7 | -1,3 |
 | Reglering fordran<br>abonnenterna | -1,0 | -1,7 | 1,3 |
 | Resultat | 0,0 | 0,0 | 0,0 |
 
-[Tabell 21-3](handlingar.tabeller/21-3.csv)
+[Tabell 21-2](handlingar.tabeller/21-2.csv)
 
-| Inkomster | Utfall 2021<br>56 | Utfall 2022<br>4 | Utfall 2023<br>2,8 |
+|  | Utfall 2021 | Utfall 2022 | Utfall 2023 |
 | --- | --- | --- | --- |
+| Inkomster | 56 | 4 | 2,8 |
 | Utgifter | -159,2 | -80,2 | 189,5 |
 | Netto | -103,2 | -76,2 | 192,3 |
 
@@ -736,22 +741,25 @@ påverkar det sätt vi normalt sett utför vårt arbete på. Detta har även upp
 
 [Tabell 22-1](handlingar.tabeller/22-1.csv)
 
-| Inkomster | Utfall 2021<br>70,1 | Utfall 2022<br>70,5 | Utfall 2023<br>43,1 |
+|  | Utfall 2021 | Utfall 2022 | Utfall 2023 |
 | --- | --- | --- | --- |
+| Inkomster | 70,1 | 70,5 | 43,1 |
 | Utgifter | -150,4 | -246,4 | -357,1 |
 | Netto | -80,3 | -175,9 | -314,0 |
 
 [Tabell 22-2](handlingar.tabeller/22-2.csv)
 
-| Inkomster | Utfall 2021<br>0 | Utfall 2022<br>0 | Utfall 2023<br>0 |
+|  | Utfall 2021 | Utfall 2022 | Utfall 2023 |
 | --- | --- | --- | --- |
+| Inkomster | 0 | 0 | 0 |
 | Utgifter | -1,8 | -2 | -2,7 |
 | Netto | -1,8 | -2 | -2,7 |
 
 [Tabell 22-3](handlingar.tabeller/22-3.csv)
 
-| Inkomster | Utfall 2021<br>10,0 | Utfall 2022<br>8,0 | Utfall 2023<br>8,3 |
+|  | Utfall 2021 | Utfall 2022 | Utfall 2023 |
 | --- | --- | --- | --- |
+| Inkomster | 10,0 | 8,0 | 8,3 |
 | Utgifter | 53,6 | -46 | -43,4 |
 | Netto | 63,6 | -38,0 | -35,1 |
 
@@ -1773,11 +1781,14 @@ Nämndens årsredovisning 2023
 
 28
 
-[Tabell 45-1](handlingar.tabeller/45-1.csv)
+[Tabell 45-46-1](handlingar.tabeller/45-46-1.csv)
 
 | Område | Status Beskrivning Kommentar<br>Vi lovar:<br>- Att alltid leverera bra<br>dricksvatten med god kvalitet,<br>vilket vi ser till genom<br>provtagning och kontroller.<br>- Att förbättra kontrollen genom<br>ny teknik.<br>- Att leverera dricksvatten som<br>räcker för hushållens normala<br>behov.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>Uppnått genom att:<br>- Spara på vatten, särskilt när vi<br>går ut med uppmaningar om<br>detta.<br>- Ta till dig våra smarta<br>vattentips, till exempel skaffar en<br>regntunna för bevattning i<br>trädgården.<br>- Ha vatten hemma för att kunna<br>klara dig 72 timmar vid en kris.<br>Se gärna krisinformation.se för<br>att lära dig mer om hur mycket<br>vatten, och andra saker, som du<br>kan behöva hemma vid en kris! |
 | --- | --- |
 |  | Vi lovar:<br>- Att allt slam som blir kvar när vi<br>renat vårt avloppsvatten återgår<br>till jordbruket där det bidrar till att<br>återföra fosfor och producera nya<br>grödor.<br>- Att vårt slam uppfyller nationella<br>krav för vilka halter av olika<br>ämnen som får finnas i det.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>Uppnått genom att:<br>- Sluta fulspola! Bara spolar ner<br>bajs, kiss och toapapper i<br>toaletten.<br>- Slänga allt annat, till exempel<br>våtservetter, tops, bindor, snus<br>och fimpar i soppåsen för<br>brännbart avfall<br>- Skaffa en papperskorg i<br>badrummet så att skräp inte<br>hamnar i toaletten.<br>- Lämna gamla mediciner på ett<br>apotek. |
+| Område<br>Avfall &<br>Återvinning | Status Beskrivning Kommentar<br>Vi lovar:<br>- Att tömma sopkärlen hos dig<br>enligt hämtschemat.<br>- Att om tömningen blir försenad<br>informera via hemsidan och<br>avfallsappen.<br>- Att vi tömmer senast dagen<br>efter att vi fått in anmälan om<br>Totalt 425 st missade tömningar<br>missad hämtning.<br>som rapporterats under 2023 av<br>Uppnått<br>ca 1 077 319 st tömningar<br>Då vill vi att du som<br>(0,04%)<br>kommuninvånare hjälper oss<br>genom att:<br>- Ställa ut dina kärl på rätt dag<br>och att det är lättillgängligt även<br>vid snö och halka.<br>- Vända kärlen med handtagen ut<br>mot vägen för en god arbetsmiljö<br>för de som tömmer. |
+|  | Vi lovar:<br>- Att ta hand om ditt avfall på ett<br>miljöriktigt och ansvarsfullt sätt så<br>att det behandlas på godkända<br>anläggningar för att bli till biogas,<br>materialåtervinnas,<br>energiåtervinnas eller i sista hand<br>deponeras.<br>- Att ge dig information om hur du<br>ska sortera ditt avfall, exempelvis<br>via utskick, hemsidan,<br>avfallsappen och personal på<br>Uppnått återvinningscentralerna.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Sortera ditt avfall enligt gällande<br>regler.<br>- Förlänga livslängden på dina<br>prylar så vi tillsammans kan<br>minska mängden avfall.<br>- Lämna det som någon annan<br>kan få nytta av till återbruk,<br>istället för att slänga i soporna. |
+| Kungsbacka<br>Bredbandsnät | Vi lovar en snabb felavhjälpning<br>för teleoperatörer och storkunder.<br>På det sättet hjälper vi<br>Uppnått<br>Kungsbackas invånare att ha<br>tillgång till ett stabilt och<br>fungerande nät. |
 
 <!-- sida 46 -->
 
@@ -1785,13 +1796,6 @@ Nämnden för Teknik                               Kungsbacka kommun
 Nämndens årsredovisning 2023
 
 29
-
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
-
-| Område<br>Avfall &<br>Återvinning | Status Beskrivning Kommentar<br>Vi lovar:<br>- Att tömma sopkärlen hos dig<br>enligt hämtschemat.<br>- Att om tömningen blir försenad<br>informera via hemsidan och<br>avfallsappen.<br>- Att vi tömmer senast dagen<br>efter att vi fått in anmälan om<br>Totalt 425 st missade tömningar<br>missad hämtning.<br>som rapporterats under 2023 av<br>Uppnått<br>ca 1 077 319 st tömningar<br>Då vill vi att du som<br>(0,04%)<br>kommuninvånare hjälper oss<br>genom att:<br>- Ställa ut dina kärl på rätt dag<br>och att det är lättillgängligt även<br>vid snö och halka.<br>- Vända kärlen med handtagen ut<br>mot vägen för en god arbetsmiljö<br>för de som tömmer. |
-| --- | --- |
-|  | Vi lovar:<br>- Att ta hand om ditt avfall på ett<br>miljöriktigt och ansvarsfullt sätt så<br>att det behandlas på godkända<br>anläggningar för att bli till biogas,<br>materialåtervinnas,<br>energiåtervinnas eller i sista hand<br>deponeras.<br>- Att ge dig information om hur du<br>ska sortera ditt avfall, exempelvis<br>via utskick, hemsidan,<br>avfallsappen och personal på<br>Uppnått återvinningscentralerna.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Sortera ditt avfall enligt gällande<br>regler.<br>- Förlänga livslängden på dina<br>prylar så vi tillsammans kan<br>minska mängden avfall.<br>- Lämna det som någon annan<br>kan få nytta av till återbruk,<br>istället för att slänga i soporna. |
-| Kungsbacka<br>Bredbandsnät | Vi lovar en snabb felavhjälpning<br>för teleoperatörer och storkunder.<br>På det sättet hjälper vi<br>Uppnått<br>Kungsbackas invånare att ha<br>tillgång till ett stabilt och<br>fungerande nät. |
 
 <!-- sida 47 -->
 
@@ -1976,10 +1980,12 @@ annan del är det pågående arbetet med att upprätta arbetsmiljöplaner för a
 
 [Tabell 50-1](handlingar.tabeller/50-1.csv)
 
-| Namn<br>Riskobservation | 2021<br>10 | 2022<br>15 | 2023<br>5 |
+| Namn | 2021 | 2022 | 2023 |
 | --- | --- | --- | --- |
+| Riskobservation | 10 | 15 | 5 |
 | Tillbud | 29 | 22 | 21 |
-| Olycksfall<br>Total | 22<br>61 | 13<br>50 | 14<br>40 |
+| Olycksfall | 22 | 13 | 14 |
+| Total | 61 | 50 | 40 |
 
 <!-- sida 51 -->
 
@@ -2109,82 +2115,152 @@ främst män eller kvinnor anställda.
 
 7.4 Resursmått
 
+Namn        Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023
+Andel deltid   2,8%        3%        2,1%           1,7%        2%
+Andel heltid  97,2%       97%        97,9%         98,3%       98%
+
+Andel kvinnor
+5,1%       5,7%       3,1%           3,1%       2,9%
+som har deltid
+Andel kvinnor
+94,9%       94,3%      96,9%         96,9%      97,1%
+som har heltid
+Andel män som
+1,5%       1,4%       1,4%           0,7%       1,4%
+har deltid
+Andel män som
+98,6%       98,6%      98,6%         99,3%      98,6%
+har heltid
+Anställda andel
+36,4%       37,9%      40,1%         39,8%      41,6%
+kvinnor
+Anställda andel
+63,6%       62,1%      59,9%         60,2%      58,4%
+män
+Anställda
+genomsnittlig
+99,3%       99,1%      99,4%         99,5%      99,5%
+sysselsättnings
+grad
+
+Medarbetare
+19,6%       21%        20,2%         22,4%      21,6%
+30 - 39 år
+Medarbetare
+27,3%       24,7%      27,8%          26%       23,2%
+40 - 49 år
+Medarbetare
+27,3%       29,2%      27,4%         27,2%       28%
+50 - 59 år
+
 36
 
 [Tabell 53-1](handlingar.tabeller/53-1.csv)
 
-|  | Namn Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 |
-| --- | --- |
-| Andel deltid 2,8% 3% 2,1% 1,7% 2% |  |
-| Andel heltid 97,2% 97% 97,9% 98,3% 98% |  |
-| Andel kvinnor<br>5,1% 5,7% 3,1% 3,1% 2,9%<br>som har deltid |  |
-| Andel kvinnor<br>94,9% 94,3% 96,9% 96,9% 97,1%<br>som har heltid |  |
-| Andel män som<br>1,5% 1,4% 1,4% 0,7% 1,4%<br>har deltid |  |
-| Andel män som<br>98,6% 98,6% 98,6% 99,3% 98,6%<br>har heltid |  |
-| Anställda andel<br>36,4% 37,9% 40,1% 39,8% 41,6%<br>kvinnor |  |
-| Anställda andel<br>63,6% 62,1% 59,9% 60,2% 58,4%<br>män |  |
-| Anställda<br>genomsnittlig<br>99,3% 99,1% 99,4% 99,5% 99,5%<br>sysselsättnings<br>grad |  |
-| Anställda totalt 220 246 252 246 250 |  |
-| Antal<br>medarbetare 13,7 11,2 11,6 12,7 9,4<br>per chef |  |
-| Antal<br>medarbetare 18,6 15,9 15,5 16,3 11,9<br>per enhetschef |  |
-| Medarbetare<br>19,6% 21% 20,2% 22,4% 21,6%<br>30 - 39 år |  |
-| Medarbetare<br>27,3% 24,7% 27,8% 26% 23,2%<br>40 - 49 år |  |
-| Medarbetare<br>27,3% 29,2% 27,4% 27,2% 28%<br>50 - 59 år |  |
+| Anställda totalt | 220 | 246 | 252 | 246 | 250 |
+| --- | --- | --- | --- | --- | --- |
+| Antal medarbetare per chef | 13,7 | 11,2 | 11,6 | 12,7 | 9,4 |
+| Antal medarbetare per enhetschef | 18,6 | 15,9 | 15,5 | 16,3 | 11,9 |
 
 <!-- sida 54 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Nämndens årsredovisning 2023
 
+Namn        Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023
+Medarbetare
+17,3%       17,7%      16,7%         16,7%      18,8%
+60 år och äldre
+Medarbetare
+8,6%       7,4%       7,9%           7,7%       8,4%
+yngre än 30 år
+Medelålder      47         47         47             47         47
+Pensionsavgån
+6          4          6               6          2
+gar
 7.5 Effektmått
 
+Namn        Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023
+Frisknärvaro  61,4%       56,1%      60,5%          50%       55,5%
+Frisknärvaro
+60,7%       60,8%      65,1%         53,9%      56,3%
+Kvinnor
+Frisknärvaro
+61,8%       53,1%      57,7%         47,4%      54,9%
+Män
+Korttidssjukfrån
+2,2%       2,5%       2,4%            3%        2,7%
+varo
+Korttidssjukfrån
+2,2%        2%        1,9%           2,9%       2,8%
+varo Kvinnor
+Korttidssjukfrån
+2,2%       2,8%       2,8%           3,1%       2,7%
+varo Män
+Långtidssjukfrå
+3,6%       3,1%       2,5%           2,1%       1,4%
+nvaro
+Långtidssjukfrå
+3,9%       3,3%       1,4%           1,8%       1,7%
+nvaro Kvinnor
+Långtidssjukfrå
+3,4%        3%        3,3%           2,3%       1,2%
+nvaro Män
+Personalomsätt
+7,1%       11,9%       8%           15,2%       9,1%
+ning
+Sjukfrånvaro
+6%         5,3%       3,2%           4,8%       4,5%
+Kvinnor
+Sjukfrånvaro
+5,7%       5,8%        6%            5,3%       3,9%
+Män
+Sjukfrånvaro
+5,8%       5,6%        5%            5,1%       4,1%
+Totalt
+Sjukfrånvaro,
+andel av
+47,8%       43,6%      34,4%         27,8%      18,9%
+sjukfrånvaro 60
+dagar eller mer
 37
-
-[Tabell 54-1](handlingar.tabeller/54-1.csv)
-
-|  | Namn Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 |
-| --- | --- |
-| Medarbetare<br>17,3% 17,7% 16,7% 16,7% 18,8%<br>60 år och äldre |  |
-| Medarbetare<br>8,6% 7,4% 7,9% 7,7% 8,4%<br>yngre än 30 år |  |
-| Medelålder 47 47 47 47 47 |  |
-| Pensionsavgån<br>6 4 6 6 2<br>gar |  |
-
-[Tabell 54-2](handlingar.tabeller/54-2.csv)
-
-|  | Namn Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 |
-| --- | --- |
-| Frisknärvaro 61,4% 56,1% 60,5% 50% 55,5% |  |
-| Frisknärvaro<br>60,7% 60,8% 65,1% 53,9% 56,3%<br>Kvinnor |  |
-| Frisknärvaro<br>61,8% 53,1% 57,7% 47,4% 54,9%<br>Män |  |
-| Korttidssjukfrån<br>2,2% 2,5% 2,4% 3% 2,7%<br>varo |  |
-| Korttidssjukfrån<br>2,2% 2% 1,9% 2,9% 2,8%<br>varo Kvinnor |  |
-| Korttidssjukfrån<br>2,2% 2,8% 2,8% 3,1% 2,7%<br>varo Män |  |
-| Långtidssjukfrå<br>3,6% 3,1% 2,5% 2,1% 1,4%<br>nvaro |  |
-| Långtidssjukfrå<br>3,9% 3,3% 1,4% 1,8% 1,7%<br>nvaro Kvinnor |  |
-| Långtidssjukfrå<br>3,4% 3% 3,3% 2,3% 1,2%<br>nvaro Män |  |
-| Personalomsätt<br>7,1% 11,9% 8% 15,2% 9,1%<br>ning |  |
-| Sjukfrånvaro<br>6% 5,3% 3,2% 4,8% 4,5%<br>Kvinnor |  |
-| Sjukfrånvaro<br>5,7% 5,8% 6% 5,3% 3,9%<br>Män |  |
-| Sjukfrånvaro<br>5,8% 5,6% 5% 5,1% 4,1%<br>Totalt |  |
-| Sjukfrånvaro,<br>andel av<br>47,8% 43,6% 34,4% 27,8% 18,9%<br>sjukfrånvaro 60<br>dagar eller mer |  |
 
 <!-- sida 55 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Nämndens årsredovisning 2023
 
+Namn        Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023
+Sjukfrånvaro,
+andel av
+sjukfrånvaro 60 46,3%     47,4%      33,9%         18,2%      21,7%
+dagar eller mer
+Kvinnor
+Sjukfrånvaro,
+andel av
+sjukfrånvaro 60 48,8%     41,6%      34,6%         33,4%      16,6%
+dagar eller mer
+Män
+Sjukfrånvaro,
+anställda i
+4%         4,2%        4%            4,3%       3,8%
+åldrarna 29 år
+eller yngre
+Sjukfrånvaro,
+anställda i
+4,3%        4%        2,8%           4,4%       3,7%
+åldrarna 30-49
+år
+Sjukfrånvaro,
+anställda i
+7,7%       7,3%       7,3%           6,1%       4,6%
+åldrarna 50 år
+eller äldre
+Sjukfrånvaroda
+gar i snitt per 17,4      18,8       14,9           16,7       13,1
+anställd
+
 38
-
-[Tabell 55-1](handlingar.tabeller/55-1.csv)
-
-|  | Namn Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 |
-| --- | --- |
-| Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60 46,3% 47,4% 33,9% 18,2% 21,7%<br>dagar eller mer<br>Kvinnor |  |
-| Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60 48,8% 41,6% 34,6% 33,4% 16,6%<br>dagar eller mer<br>Män |  |
-| Sjukfrånvaro,<br>anställda i<br>4% 4,2% 4% 4,3% 3,8%<br>åldrarna 29 år<br>eller yngre |  |
-| Sjukfrånvaro,<br>anställda i<br>4,3% 4% 2,8% 4,4% 3,7%<br>åldrarna 30-49<br>år |  |
-| Sjukfrånvaro,<br>anställda i<br>7,7% 7,3% 7,3% 6,1% 4,6%<br>åldrarna 50 år<br>eller äldre |  |
-| Sjukfrånvaroda<br>gar i snitt per 17,4 18,8 14,9 16,7 13,1<br>anställd |  |
 
 <!-- sida 56 -->
 
@@ -2197,6 +2273,18 @@ Nämndens årsredovisning 2023
 
 Drift (belopp mnkr)
 
+Uppföljningsnivå (belopp i                                Budgetavvik
+Bokslut 2022 Budget 2023 Bokslut 2023
+mnkr)                                                      else 2023
+Drift Skattefinansierad
+-228,1     -222,3    -227,1     -4,8
+verksamhet
+Drift Vatten och Avlopp           11,7       3,7      -8,1      -11,8
+Drift Avfall och Återvinning      -7,3      -2,9      -5,9      -3,0
+Drift Kungsbacka
+1,6        0,9      -1,3      -2,2
+Bredbandsnät
+Summa                           -222,1     -220,6    -242,4     -21,8
 Kommentarer
 Drift Skattefinansierad verksamhet: Den skattefinansierade verksamheten redovisar ett utfall för 2023 om -
 4,8 miljoner kronor. Årets resultat förklaras främst av högre kostnader för färdtjänst, lägre intäkter från
@@ -2226,20 +2314,15 @@ Prognossäkerhet 2023
 
 39
 
-[Tabell 56-1](handlingar.tabeller/56-1.csv)
-
-| Uppföljningsnivå (belopp i<br>mnkr)<br>Drift Skattefinansierad<br>verksamhet |  | Bokslut 2022<br>-228,1 | Budget 2023<br>-222,3 | Bokslut 2023<br>-227,1 | Budgetavvik<br>else 2023<br>-4,8 |
-| --- | --- | --- | --- | --- | --- |
-| Drift Vatten och Avlopp |  | 11,7 | 3,7 | -8,1 | -11,8 |
-| Drift Avfall och Återvinning |  | -7,3 | -2,9 | -5,9 | -3,0 |
-| Drift Kungsbacka<br>Bredbandsnät |  | 1,6 | 0,9 | -1,3 | -2,2 |
-| Summa |  | -222,1 | -220,6 | -242,4 | -21,8 |
-
-[Tabell 56-2](handlingar.tabeller/56-2.csv)
+[Tabell 56-57-1](handlingar.tabeller/56-57-1.csv)
 
 | Nämnd (belopp i mnkr) | Prognos delår april | Prognos delår augusti | Bokslut 2023 |
 | --- | --- | --- | --- |
 | Drift Skattefinansierad<br>verksamhet | -11,3 | -8,2 | -4,8 |
+| Drift Vatten & Avlopp | -10,3 | -4,8 | -8,1 |
+| Drift Avfall & Återvinning | -8 | -5,2 | -5,9 |
+| Drift Kungsbacka<br>Bredbandsnät | 0 | -1,2 | -1,3 |
+| Totalt | -29,6 | -19,4 | -20,1 |
 
 <!-- sida 57 -->
 
@@ -2282,21 +2365,13 @@ kostnader för schaktåterställningar har överskridit budget. Detta har i sin 
 
 [Tabell 57-1](handlingar.tabeller/57-1.csv)
 
-| Drift Vatten & Avlopp | -10,3 | -4,8 | -8,1 |
-| --- | --- | --- | --- |
-| Drift Avfall & Återvinning | -8 | -5,2 | -5,9 |
-| Drift Kungsbacka<br>Bredbandsnät | 0 | -1,2 | -1,3 |
-| Totalt | -29,6 | -19,4 | -20,1 |
-
-[Tabell 57-2](handlingar.tabeller/57-2.csv)
-
-| Uppföljningsnivå (belopp i tkr)<br>Verksamhetens intäkter | Bokslut 2022<br>79 149 | Budget 2023<br>102 040 | Bokslut 2023<br>110 471 | Budgetavvik<br>else 2023<br>8 431 |
+| Uppföljningsnivå (belopp i tkr) | Bokslut 2022 | Budget 2023 | Bokslut 2023 | Budgetavvik else 2023 |
 | --- | --- | --- | --- | --- |
+| Verksamhetens intäkter | 79 149 | 102 040 | 110 471 | 8 431 |
 | Verksamhetens kostnader | -307 258 | -324 380 | -337 565 | -13 185 |
 | varav personal | -85 116 | -107 355 | -93 301 | 14 054 |
 | varav verksamhetskostnader | -137 760 | -125 567 | -157 951 | -32 384 |
 | varav kapitalkostnader | -83 840 | -91 458 | -86 313 | 5 145 |
-|  |  |  |  |  |
 | Summa | -228 109 | -222 340 | -227 094 | -4 754 |
 
 <!-- sida 58 -->
@@ -2395,7 +2470,7 @@ Balansräkning
 | Bokslutsdisposition | -11 713 | -3 713 | 8 098 |  |
 | Resultat | 0 | 0 | 0 | -11 811 |
 
-[Tabell 59-2](handlingar.tabeller/59-2.csv)
+[Tabell 59-60-2](handlingar.tabeller/59-60-2.csv)
 
 | (belopp i mnkr)<br>Tillgångar | Not | År 2022 | År 2023 |
 | --- | --- | --- | --- |
@@ -2410,6 +2485,19 @@ Balansräkning
 | Kortfristiga fordringar |  | 28 | 33,3 |
 | Summa<br>omsättningstillgångar | 2 | 63,6 | 72,6 |
 | Summa tillgångar |  | 1456,8 | 1799,4 |
+|  |  |  |  |
+| Eget kapital och<br>skulder |  |  |  |
+| Eget kapital |  |  |  |
+| Ingående eget kapital |  | 52,8 | 64,6 |
+| Årets resultat |  | 11,7 | -8,1 |
+| Utgående eget kapital |  | 64,6 | 56,5 |
+|  |  |  |  |
+| Skulder |  |  |  |
+| Låneskuld (lånat av<br>kommunen) | 3 | 869,5 | 1153,3 |
+| Periodiserade<br>anslutningsavgifter |  | 488,5 | 538,2 |
+| Kortfristiga skulder | 4 | 34,3 | 51,4 |
+| Summa skulder |  | 1392,3 | 1742,9 |
+| Summa eget kapital<br>och skulder |  | 1456,8 | 1799,4 |
 
 <!-- sida 60 -->
 
@@ -2424,31 +2512,15 @@ Not 1
 
 [Tabell 60-1](handlingar.tabeller/60-1.csv)
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Eget kapital och<br>skulder |  |  |  |
-| Eget kapital |  |  |  |
-| Ingående eget kapital |  | 52,8 | 64,6 |
-| Årets resultat |  | 11,7 | -8,1 |
-| Utgående eget kapital |  | 64,6 | 56,5 |
-|  |  |  |  |
-| Skulder |  |  |  |
-| Låneskuld (lånat av<br>kommunen) | 3 | 869,5 | 1153,3 |
-| Periodiserade<br>anslutningsavgifter |  | 488,5 | 538,2 |
-| Kortfristiga skulder | 4 | 34,3 | 51,4 |
-| Summa skulder |  | 1392,3 | 1742,9 |
-| Summa eget kapital<br>och skulder |  | 1456,8 | 1799,4 |
-
-[Tabell 60-2](handlingar.tabeller/60-2.csv)
-
-| Verksamhetens intäkter<br>Brukningsavgifter | År 2022<br>161,8 | År 2023<br>164,0 |
+| Verksamhetens intäkter | År 2022 | År 2023 |
 | --- | --- | --- |
+| Brukningsavgifter | 161,8 | 164,0 |
 | Brukningsavgifter, interna | 12,8 | 11,1 |
 | Övriga intäkter | 0,5 | 7,2 |
 | Periodiserad inkomst och ränta | 20,6 | 22,9 |
 | Summa verksamhetens intäkter | 195,7 | 205,2 |
 
-[Tabell 60-3](handlingar.tabeller/60-3.csv)
+[Tabell 60-61-2](handlingar.tabeller/60-61-2.csv)
 
 | Materiella anläggningstillgångar<br>VA-anläggningar | År 2022 | År 2023 |
 | --- | --- | --- |
@@ -2461,6 +2533,8 @@ Not 1
 | Ingående bokfört värde | 9,0 | 8,1 |
 | Nyanskaffning | 0 | 0 |
 | Årets avskrivningar | -0,9 | -1,9 |
+| Utgående bokfört värde | 8,1 | 6,2 |
+| Summa materiella<br>anläggningstillgångar | 1393,2 | 1726,8 |
 
 <!-- sida 61 -->
 
@@ -2497,29 +2571,26 @@ elstöd om 5 miljoner kronor. Brukningstaxan höjdes med 5 procent under 2023 oc
 
 [Tabell 61-1](handlingar.tabeller/61-1.csv)
 
-| Utgående bokfört värde | 8,1 | 6,2 |
+| Kortfristiga fordringar | År 2022 | År 2023 |
 | --- | --- | --- |
-| Summa materiella<br>anläggningstillgångar | 1393,2 | 1726,8 |
-
-[Tabell 61-2](handlingar.tabeller/61-2.csv)
-
-| Kortfristiga fordringar<br>Kundfordringar | År 2022<br>35,1 | År 2023<br>38 |
-| --- | --- | --- |
+| Kundfordringar | 35,1 | 38 |
 | Interimsfordringar | 0,5 | 1,3 |
 | Kortfristiga fordringar | 28 | 33,3 |
 | Summa kortfristiga fordringar | 63,6 | 72,6 |
 
-[Tabell 61-3](handlingar.tabeller/61-3.csv)
+[Tabell 61-2](handlingar.tabeller/61-2.csv)
 
-| Fond för framtida nyinvestering<br>Ingående bokfört värde | År 2022<br>33,7 | År 2023<br>45,4 |
+| Fond för framtida nyinvestering | År 2022 | År 2023 |
 | --- | --- | --- |
+| Ingående bokfört värde | 33,7 | 45,4 |
 | Avsättningar under året | 11,7 | 0 |
 | Summa investeringsfond | 45,4 | 45,4 |
 
-[Tabell 61-4](handlingar.tabeller/61-4.csv)
+[Tabell 61-3](handlingar.tabeller/61-3.csv)
 
-| Kortfristiga skulder<br>Leverantörsskulder | År 2022<br>31,4 | År 2023<br>49,5 |
+| Kortfristiga skulder | År 2022 | År 2023 |
 | --- | --- | --- |
+| Leverantörsskulder | 31,4 | 49,5 |
 | Moms och särskilda punktskatter | 2,0 | 0,4 |
 | Upplupna kostnader | 0,9 | 1,5 |
 | Summa kortfristiga skulder | 34,3 | 51,4 |
@@ -2573,7 +2644,7 @@ Uppföljning drift Bredband
 |  |  |  |  |
 | Totalt | -14 | -4,8 | -8,1 |
 
-[Tabell 62-2](handlingar.tabeller/62-2.csv)
+[Tabell 62-63-2](handlingar.tabeller/62-63-2.csv)
 
 | (belopp i tkr) | Bokslut 2022 | Budget 2023 | Bokslut 2023 | Avvikelse 2023 |
 | --- | --- | --- | --- | --- |
@@ -2583,6 +2654,8 @@ Uppföljning drift Bredband
 | varav verksamhetskostnad | -8 097 | -9 323 | -8 825 | 498 |
 | varav kapitalkostnad | -21 134 | -21 384,2 | -24 283 | -2 898,8 |
 | Årets resultat | 1 664 | 868,2 | -1 342 | -2 210,2 |
+| Bokslutsdisposition | -1 664 |  | 1 342 |  |
+| Resultat | 0 | 868,2 | 0 | -2 210,2 |
 
 <!-- sida 63 -->
 
@@ -2630,12 +2703,6 @@ Inga särskilda åtgärder har vidtagits under året. Underskottet tas ur result
 46
 
 [Tabell 63-1](handlingar.tabeller/63-1.csv)
-
-| Bokslutsdisposition | -1 664 |  | 1 342 |  |
-| --- | --- | --- | --- | --- |
-| Resultat | 0 | 868,2 | 0 | -2 210,2 |
-
-[Tabell 63-2](handlingar.tabeller/63-2.csv)
 
 | Nämnd (belopp i mnkr) | Prognos delår april | Prognos delår augusti | Bokslut 2023 |
 | --- | --- | --- | --- |
@@ -2740,7 +2807,7 @@ Investeringar Teknik (belopp mnkr)
 |  |  |  |  |
 | Totalt | -8,0 | -5,2 | -5,9 |
 
-[Tabell 65-2](handlingar.tabeller/65-2.csv)
+[Tabell 65-66-2](handlingar.tabeller/65-66-2.csv)
 
 | Miljoner kronor | Bokslut 2022 | Budget 2023 | Bokslut 2023 | Budgetavvike<br>lse 2023 |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2757,6 +2824,11 @@ Investeringar Teknik (belopp mnkr)
 | Inkomster | 0 | 0 | 0 | 0 |  |
 | Exploatering |  |  |  |  |  |
 | Utgifter | -53,7 | -43,1 | -16,8 | 26,3 |  |
+| Inkomster | 6,1 | 1,1 | 0 | -1,1 |  |
+| Investeringar i<br>avgiftsfinansiera<br>verksamhet |  |  |  |  |  |
+| Utgifter | -314,8 | -345,1 | -351,6 | -6,5 |  |
+| Inkomster | 320,8 | 346,7 | 336,2 | -10,5 |  |
+| Netto | -116,4 | -241,8 | -221,7 | 20,1 |  |
 
 <!-- sida 66 -->
 
@@ -2766,29 +2838,6 @@ Nämndens årsredovisning 2023
 8.2.1 Investeringsbudget Skatt
 
 Uppföljning investeringar tkr
-
-Avvikelse
-(Belopp i tkr)              Bokslut 2022 Budget 2023 Bokslut 2023
-2023
-Löpande årliga investeringar
-Inkomster                        2 533        0      1 918     1 918
-Utgifter                        -29 408   -27 644   -29 780    -2 136
-Övriga investeringar
-Inkomster                        1 463        0       890       890
-
-Utgifter                        -46 857   -89 257   -69 084    20 173
-Reinvesteringar
-
-Inkomster                           0         0         0         0
-Utgifter                        -2 549    -84 451   -93 422    -8 971
-Exploatering
-
-```osaker-tabell
-Inkomster                        6 059     1 100        0      -1 100
-Utgifter                        -53 716   -43 117   -16 825    26 292
-
-Netto                          -122 475  -243 369  -206 303    37 066
-```
 
 Kommentarer
 Under 2023 har en kraftsamling genomförts i syfte att öka upparbetningstakten av investeringsmedel. Totalt
@@ -2810,12 +2859,21 @@ från motorfordonstrafik.
 
 [Tabell 66-1](handlingar.tabeller/66-1.csv)
 
-| Inkomster | 6,1 | 1,1 | 0 | -1,1 |  |
-| --- | --- | --- | --- | --- | --- |
-| Investeringar i<br>avgiftsfinansiera<br>verksamhet |  |  |  |  |  |
-| Utgifter | -314,8 | -345,1 | -351,6 | -6,5 |  |
-| Inkomster | 320,8 | 346,7 | 336,2 | -10,5 |  |
-| Netto | -116,4 | -241,8 | -221,7 | 20,1 |  |
+| (Belopp i tkr) | Bokslut 2022 | Budget 2023 | Bokslut 2023 | Avvikelse 2023 |
+| --- | --- | --- | --- | --- |
+| Löpande årliga investeringar |  |  |  |  |
+| Inkomster | 2 533 | 0 | 1 918 | 1 918 |
+| Utgifter | -29 408 | -27 644 | -29 780 | -2 136 |
+| Övriga investeringar |  |  |  |  |
+| Inkomster | 1 463 | 0 | 890 | 890 |
+| Utgifter | -46 857 | -89 257 | -69 084 | 20 173 |
+| Reinvesteringar |  |  |  |  |
+| Inkomster | 0 | 0 | 0 | 0 |
+| Utgifter | -2 549 | -84 451 | -93 422 | -8 971 |
+| Exploatering |  |  |  |  |
+| Inkomster | 6 059 | 1 100 | 0 | -1 100 |
+| Utgifter | -53 716 | -43 117 | -16 825 | 26 292 |
+| Netto | -122 475 | -243 369 | -206 303 | 37 066 |
 
 <!-- sida 67 -->
 
@@ -2969,7 +3027,7 @@ Specifikation projekt > 5 miljoner (belopp i tkr)
 | Utgifter | -246 377 | -424 518 | -357 066 | 67 452 |
 | Netto | -175 863 | -408 213 | -313 948 | 94 265 |
 
-[Tabell 69-2](handlingar.tabeller/69-2.csv)
+[Tabell 69-70-2](handlingar.tabeller/69-70-2.csv)
 
 | Projnr | Text | Utfall totalt | Budget<br>2023 | Bokslut<br>2023 | Avvikelse<br>2023 |
 | --- | --- | --- | --- | --- | --- |
@@ -2980,6 +3038,26 @@ Specifikation projekt > 5 miljoner (belopp i tkr)
 | 3515 | Reinvesteringar VA-ledningar | 223 466 | -3 663 | 86 131 | 89 794 |
 | 5572 | Reinvestering vattenproduktion | 18 101 | 12 030 | 8 719 | -3 311 |
 | 5565 | VA-sanering Hagryd-Dala | 20 869 | 25 798 | 10 810 | -14 988 |
+| 551 C | VA i nytt exploateringsområde,<br>Frillesås-Rya 2:1 etapp 1 | 8 409 | 6 847 | 8 256 | 1 409 |
+| 3513 | Reinvesteringar pumpstationer | 64 019 | 6 956 | 12 515 | 5 559 |
+| 550 N | Utbyggnad VA Snipen-Bolsheden | 901 | 13 850 | 751 | -13 099 |
+| 550 B | Frillesås åtgärder spillvatten | 12 765 | 22 142 | 9 707 | -12 435 |
+| 5507 | Åtgärder reservvatten GBG-KBA | 4 118 | 22 904 | 1 523 | -21 381 |
+| 5097 | VA i nytt exploateringsområde,<br>Skårby 6:19 | 26 649 | 10 270 | 17 919 | 7 649 |
+| 5094 | Omvandlingsområde för VA, 405<br>Lerberg | 375 | 6 689 | 64 | -6 625 |
+| 5089 | VA i nytt exploateringsområde,<br>Skårby 12:1 | 4 638 | 1 799 | 5 493 | 3 694 |
+| 5081 | Fjärås vattenverk ökad<br>reservoarvolym | 141 | 8 913 | 54 | -8 859 |
+| 5080 | Stockalid 1:4 VA utom plan | 1 323 | 13 855 | 1 179 | -12 676 |
+| 5077 | Åtgärder tillskottsvatten | 35 364 | 4 335 | 12 686 | 8 351 |
+| 5073 | Fjärås vattenverk till Hammerö,<br>uppdimensionering ledning<br>etapp 1 | 85 845 | -6 723 | 9 122 | 15 845 |
+| 5072 | VA GC Östra Särövägen | 8 337 | -544 | 5 733 | 6 277 |
+| 5066 | Framtidens avloppsreningsverk<br>Hammargård och Ölmanäs (FAR) | 20 114 | 72 104 | 11 231 | -60 873 |
+| 5061 | Åsa dagvattenledning | 3 870 | 17 678 | 1 547 | -16 131 |
+| 5060 | Voxlöv/Björkris | 1 617 | 29 778 | 1 395 | -28 383 |
+| 5059 | Vattenmätare | 13 954 | 3 034 | 5 788 | 2 754 |
+| 5055 | Reservvatten Varberg | 603 | 20 068 | 171 | -19 897 |
+| 4512 | VA-sanering Hanhals etapp 1 | 50 878 | 49 732 | 43 973 | -5 759 |
+| Summa projekt > 5 miljoner kr |  | 374 296 | 375 185 | 287 711 | -87 474 |
 
 <!-- sida 70 -->
 
@@ -3002,30 +3080,6 @@ Beror på att vi anslutit fler än budgeterat och att förhållanden för byggna
 3515 Reinvesteringar VA-ledningar: Underskott 2022 gjorde att vi startade året med ett underskott i budget. Vi
 
 53
-
-[Tabell 70-1](handlingar.tabeller/70-1.csv)
-
-| 551 C | VA i nytt exploateringsområde,<br>Frillesås-Rya 2:1 etapp 1 | 8 409 | 6 847 | 8 256 | 1 409 |
-| --- | --- | --- | --- | --- | --- |
-| 3513 | Reinvesteringar pumpstationer | 64 019 | 6 956 | 12 515 | 5 559 |
-| 550 N | Utbyggnad VA Snipen-Bolsheden | 901 | 13 850 | 751 | -13 099 |
-| 550 B | Frillesås åtgärder spillvatten | 12 765 | 22 142 | 9 707 | -12 435 |
-| 5507 | Åtgärder reservvatten GBG-KBA | 4 118 | 22 904 | 1 523 | -21 381 |
-| 5097 | VA i nytt exploateringsområde,<br>Skårby 6:19 | 26 649 | 10 270 | 17 919 | 7 649 |
-| 5094 | Omvandlingsområde för VA, 405<br>Lerberg | 375 | 6 689 | 64 | -6 625 |
-| 5089 | VA i nytt exploateringsområde,<br>Skårby 12:1 | 4 638 | 1 799 | 5 493 | 3 694 |
-| 5081 | Fjärås vattenverk ökad<br>reservoarvolym | 141 | 8 913 | 54 | -8 859 |
-| 5080 | Stockalid 1:4 VA utom plan | 1 323 | 13 855 | 1 179 | -12 676 |
-| 5077 | Åtgärder tillskottsvatten | 35 364 | 4 335 | 12 686 | 8 351 |
-| 5073 | Fjärås vattenverk till Hammerö,<br>uppdimensionering ledning<br>etapp 1 | 85 845 | -6 723 | 9 122 | 15 845 |
-| 5072 | VA GC Östra Särövägen | 8 337 | -544 | 5 733 | 6 277 |
-| 5066 | Framtidens avloppsreningsverk<br>Hammargård och Ölmanäs (FAR) | 20 114 | 72 104 | 11 231 | -60 873 |
-| 5061 | Åsa dagvattenledning | 3 870 | 17 678 | 1 547 | -16 131 |
-| 5060 | Voxlöv/Björkris | 1 617 | 29 778 | 1 395 | -28 383 |
-| 5059 | Vattenmätare | 13 954 | 3 034 | 5 788 | 2 754 |
-| 5055 | Reservvatten Varberg | 603 | 20 068 | 171 | -19 897 |
-| 4512 | VA-sanering Hanhals etapp 1 | 50 878 | 49 732 | 43 973 | -5 759 |
-| Summa projekt > 5 miljoner kr |  | 374 296 | 375 185 | 287 711 | -87 474 |
 
 <!-- sida 71 -->
 
@@ -3166,9 +3220,37 @@ vågar på sopkärl har pausats på grund av resursbrist.
 
 Specifikation projekt (belopp i mnkr
 
+Utfall
+Pro                   Totalbud Totalpro       Budget Bokslut Avvikels
+Text                             totalt tom
+jnr                    get     gnos           2023    2023    e 2023
+dec 2023
+351 Gång- och cykelbro över
+-58     xx     -4,7    -6,1    -4,6    1,5
+0  järnvägen vid Inlag
+Gång- och cykelväg
+500
+Hanhals Kyrkoväg-    -34,7  -34,7    -1,2   -11,6    -0,9   10,7
+5
+Torkelt.
+652 Kompletterande belägg
+-57   -57,1   -57,1    -57    -57,1   -0,1
+6  2023
+751
+Ölmanäst reningsverk  -40    -117   -46,7    -40   --46,7    40
+6
+506
+Framtidens ren.verk FAR -100 > -500 -20,1   -72,1   -11,2   60,9
+6
+451
+VA-sanering Hanhals et 1 -53 -89,4  -50,9   -49,7    -44     5,7
+2
+351 Reinvestering VA-
+-141,1  > -500 -223,8   +3,7    -86,1   -89,8
+5  ledningar
+Summa projekt           -483,8         -404,5  -232,8  -203,9   28,9
 Kommentarer
 Här redovisas samtliga investeringsprojekt inom nämnden för Teknik Redovisa med totalt investeringsanslag
-
 56
 
 [Tabell 73-1](handlingar.tabeller/73-1.csv)
@@ -3179,19 +3261,6 @@ Här redovisas samtliga investeringsprojekt inom nämnden för Teknik Redovisa m
 | Inkomster | 0 | 0 | 0 | 0 |
 | Utgifter | -2 009 | -15 226 | -2 682 | 12 544 |
 | Netto | -2 009 | -15 226 | -2 682 | 12 544 |
-
-[Tabell 73-2](handlingar.tabeller/73-2.csv)
-
-| Pro<br>jnr | Text | Totalbud<br>get | Totalpro<br>gnos | Utfall<br>totalt tom<br>dec 2023 | Budget<br>2023 | Bokslut<br>2023 | Avvikels<br>e 2023 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 351<br>0 | Gång- och cykelbro över<br>järnvägen vid Inlag | -58 | xx | -4,7 | -6,1 | -4,6 | 1,5 |
-| 500<br>5 | Gång- och cykelväg<br>Hanhals Kyrkoväg-<br>Torkelt. | -34,7 | -34,7 | -1,2 | -11,6 | -0,9 | 10,7 |
-| 652<br>6 | Kompletterande belägg<br>2023 | -57 | -57,1 | -57,1 | -57 | -57,1 | -0,1 |
-| 751<br>6 | Ölmanäst reningsverk | -40 | -117 | -46,7 | -40 | --46,7 | 40 |
-| 506<br>6 | Framtidens ren.verk FAR | -100 | > -500 | -20,1 | -72,1 | -11,2 | 60,9 |
-| 451<br>2 | VA-sanering Hanhals et 1 | -53 | -89,4 | -50,9 | -49,7 | -44 | 5,7 |
-| 351<br>5 | Reinvestering VA-<br>ledningar | -141,1 | > -500 | -223,8 | +3,7 | -86,1 | -89,8 |
-| Summa projekt |  | -483,8 |  | -404,5 | -232,8 | -203,9 | 28,9 |
 
 <!-- sida 74 -->
 
@@ -3500,7 +3569,7 @@ Balansräkning
 | varav VA investeringsfond |  | 45,4 |  | 45,4 |  |
 | varav fordran/skuld till<br>kollektivet |  | 19,2 |  | 11,1 |  |
 
-[Tabell 82-2](handlingar.tabeller/82-2.csv)
+[Tabell 82-83-2](handlingar.tabeller/82-83-2.csv)
 
 | TILLGÅNGAR | No<br>t | År 2022 | År 2023 |
 | --- | --- | --- | --- |
@@ -3508,22 +3577,7 @@ Balansräkning
 | Mark, byggnader och tekniska<br>anläggningar |  | 1385,1 | 1720,6 |
 | Maskiner och inventarier |  | 8,1 | 6,2 |
 | Summa materiella<br>anläggningstillgångar | 2 | 1393,2 | 1726,8 |
-
-<!-- sida 83 -->
-
-Nämnden för Teknik                               Kungsbacka kommun
-Särredovisning Teknik 2023
-
-Not 1
-
-Not 2
-
-4
-
-[Tabell 83-1](handlingar.tabeller/83-1.csv)
-
 |  |  |  |  |
-| --- | --- | --- | --- |
 | Omsättningstillgångar |  |  |  |
 | Kundfordringar |  | 35,1 | 38 |
 | Interimsfordringar | 3 | 0,5 | 1,3 |
@@ -3545,14 +3599,26 @@ Not 2
 | SUMMA EGET KAPITAL OCH<br>SKULDER |  | 1456,8 | 1799,4 |
 |  |  |  |  |
 
-[Tabell 83-2](handlingar.tabeller/83-2.csv)
+<!-- sida 83 -->
 
-| Brukningsavgifter<br>Brukningsavgifter (interna) | År 2022<br>12,8 | År 2023<br>11,1 |
+Nämnden för Teknik                               Kungsbacka kommun
+Särredovisning Teknik 2023
+
+Not 1
+
+Not 2
+
+4
+
+[Tabell 83-1](handlingar.tabeller/83-1.csv)
+
+| Brukningsavgifter | År 2022 | År 2023 |
 | --- | --- | --- |
+| Brukningsavgifter (interna) | 12,8 | 11,1 |
 | Brukningsavgifter (externa) | 162,4 | 164,0 |
 | Summa Brukningsavgifter | 175,2 | 175,1 |
 
-[Tabell 83-3](handlingar.tabeller/83-3.csv)
+[Tabell 83-84-2](handlingar.tabeller/83-84-2.csv)
 
 | Materiella anläggningstillgångar<br>Mark, byggnader och tekniska<br>anläggningar | Bokslut 2022 | Bokslut 2023 |
 | --- | --- | --- |
@@ -3560,6 +3626,14 @@ Not 2
 | Nyanskaffning | 223 | 380,6 |
 | Årets avskrivning | -39,4 | -45,1 |
 | Utgående bokfört värde | 1385,1 | 1720,6 |
+|  |  |  |
+| Maskiner och inventarier |  |  |
+| Ingående bokfört värde | 9,0 | 8,1 |
+| Nyanskaffning | 0 | 0 |
+| Årets avskrivningar | -0,9 | -1,9 |
+| Utgående bokfört värde | 8,1 | 6,2 |
+|  |  |  |
+| Summa materiella<br>anläggningstillgångar | 1393,2 | 1726,8 |
 
 <!-- sida 84 -->
 
@@ -3587,36 +3661,27 @@ kommunen blev lägre än förväntat.
 
 [Tabell 84-1](handlingar.tabeller/84-1.csv)
 
-|  |  |  |
+| Fordringar | År 2022 | År 2023 |
 | --- | --- | --- |
-| Maskiner och inventarier |  |  |
-| Ingående bokfört värde | 9,0 | 8,1 |
-| Nyanskaffning | 0 | 0 |
-| Årets avskrivningar | -0,9 | -1,9 |
-| Utgående bokfört värde | 8,1 | 6,2 |
-|  |  |  |
-| Summa materiella<br>anläggningstillgångar | 1393,2 | 1726,8 |
-
-[Tabell 84-2](handlingar.tabeller/84-2.csv)
-
-| Fordringar<br>Kundfordringar | År 2022<br>35,1 | År 2023<br>38 |
-| --- | --- | --- |
+| Kundfordringar | 35,1 | 38 |
 | Interimsfordringar | 0,5 | 1,3 |
 | Kortfristiga fordringar | 28 | 33,3 |
 | Summa fordringar | 63,6 | 72,6 |
 
-[Tabell 84-3](handlingar.tabeller/84-3.csv)
+[Tabell 84-2](handlingar.tabeller/84-2.csv)
 
-| Kortfristiga skulder<br>Leverantörsskulder | Bokslut 2022<br>31,4 | Bokslut 2023<br>49,5 |
+| Kortfristiga skulder | Bokslut 2022 | Bokslut 2023 |
 | --- | --- | --- |
+| Leverantörsskulder | 31,4 | 49,5 |
 | Moms och särskilda punktskatter | 2,0 | 0,4 |
 | Upplupna kostnader | 0,9 | 1,5 |
 | Summa kortfristiga skulder | 34,3 | 51,4 |
 
-[Tabell 84-4](handlingar.tabeller/84-4.csv)
+[Tabell 84-3](handlingar.tabeller/84-3.csv)
 
-| VA-investeringsfond -fond för<br>framtida nyinvesteringar<br>Ingående bokfört värde | År 2022<br>33,7 | År 2023<br>45,4 |
+| VA-investeringsfond -fond för<br>framtida nyinvesteringar | År 2022 | År 2023 |
 | --- | --- | --- |
+| Ingående bokfört värde | 33,7 | 45,4 |
 | Årets förändring | 11,7 | 0 |
 | Summa VA-investeringsfond | 45,4 | 45,4 |
 
@@ -3663,7 +3728,7 @@ Uppföljning drift Avfall & återvinning
 
 6
 
-[Tabell 85-1](handlingar.tabeller/85-1.csv)
+[Tabell 85-86-1](handlingar.tabeller/85-86-1.csv)
 
 | Miljoner kronor | Bokslut 2022 | Budget 2023 | Bokslut 2023 | Avvikelse 2023 |
 | --- | --- | --- | --- | --- |
@@ -3675,6 +3740,10 @@ Uppföljning drift Avfall & återvinning
 | Verksamhetens nettokostnader | -7,0 | -2,6 | -5,9 | -3,4 |
 | Finansiella intäkter | 0 | 0 | 0 |  |
 | Finansiella kostnader | -0,3 | -0,4 | 0 | -0,4 |
+| Resultat efter finansnetto | -7,3 | -2,9 | -5,9 | -3,0 |
+|  |  |  |  |  |
+| Resultat överfört till det ack<br>resultatet | 7,3 | 2,9 | 4,6 | 1,7 |
+| Årets resultat | 0 | 0 | -1,3 | -1,3 |
 
 <!-- sida 86 -->
 
@@ -3719,14 +3788,6 @@ nivåer på kapitalkostnader. En ny omlastningsstation byggs under året vilket 
 hyreskostnader.
 
 7
-
-[Tabell 86-1](handlingar.tabeller/86-1.csv)
-
-| Resultat efter finansnetto | -7,3 | -2,9 | -5,9 | -3,0 |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-| Resultat överfört till det ack<br>resultatet | 7,3 | 2,9 | 4,6 | 1,7 |
-| Årets resultat | 0 | 0 | -1,3 | -1,3 |
 
 <!-- sida 87 -->
 
@@ -4719,13 +4780,17 @@ undersöka hur vi ska kunna få in uppdaterade medlemsförteckningar enklare.
 
 9
 
-[Tabell 110-1](handlingar.tabeller/110-1.csv)
+[Tabell 110-111-1](handlingar.tabeller/110-111-1.csv)
 
 | Risker | Enhet Granskningsaktiviteter | Åtgärder |
 | --- | --- | --- |
 | Kommunövergripande<br>risk: Inköp (granskning<br>begränsas till belopp<br>över 100.000:-) | Granskning av att<br>genomförda inköp följer<br>Teknik<br>inköpsprocessen och<br>gällande styrdokument | Utbildning/ information<br>för chefer i praktisk<br>hantering av riktlinjen för<br>direktupphandling.<br>Verksamhetschef<br>ansvarar för åtgärden. |
 | Risk att det uppstår<br>säkerhetsbrister samt<br>brister i styrning och<br>ledning i våra system, till<br>följd av bristande<br>följsamhet till gällande<br>riktlinjer. | Bedrivs ett aktivt<br>säkerhetsarbete för<br>Teknik system som är<br>självskattade enligt<br>KLASSA? | Information till<br>systemförvaltare om<br>informationsklassning av<br>system samt hantering<br>av handlingsplan |
 | Risk för att felaktiga<br>avgifter tas ut från VA-<br>föreningar | Är<br>Teknik medlemsförteckningen<br>uppdaterad? |  |
+| Risk för fel till följd av<br>bristande kvalitet i inlagd<br>information i kartan | Att inlagd information är<br>Teknik<br>korrekt | Projektledare eller<br>byggledare säkerställer<br>att ett komplett material<br>finns dokumenterat i<br>Antura tio arbetsdagar<br>före besiktning, enligt<br>regler för inmätning. |
+|  |  | Byggledare kontrollerar<br>att filformatet är korrekt<br>vid dokumentation i<br>Antura enligt regler för<br>inmätning. |
+|  |  | Kvalitetskontroll i form av<br>stickkontroller av inmätta<br>objekt genomförs vid<br>granskningsmötet |
+|  | Att regler för inmätning,<br>process för kontroll av<br>Teknik<br>inmätning och lathund för<br>redovisning följs | Säkerställa att regler för<br>inmätning följs |
 
 <!-- sida 111 -->
 
@@ -4749,15 +4814,6 @@ kommunen eller regionen.
 
 10
 
-[Tabell 111-1](handlingar.tabeller/111-1.csv)
-
-| Risker | Enhet Granskningsaktiviteter | Åtgärder |
-| --- | --- | --- |
-| Risk för fel till följd av<br>bristande kvalitet i inlagd<br>information i kartan | Att inlagd information är<br>Teknik<br>korrekt | Projektledare eller<br>byggledare säkerställer<br>att ett komplett material<br>finns dokumenterat i<br>Antura tio arbetsdagar<br>före besiktning, enligt<br>regler för inmätning. |
-|  |  | Byggledare kontrollerar<br>att filformatet är korrekt<br>vid dokumentation i<br>Antura enligt regler för<br>inmätning. |
-|  |  | Kvalitetskontroll i form av<br>stickkontroller av inmätta<br>objekt genomförs vid<br>granskningsmötet |
-|  | Att regler för inmätning,<br>process för kontroll av<br>Teknik<br>inmätning och lathund för<br>redovisning följs | Säkerställa att regler för<br>inmätning följs |
-
 <!-- sida 112 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
@@ -4765,6 +4821,12 @@ Uppföljningsrapport intern kontroll 2023
 
 Procentsatserna i nedanstående tabell avser den andel av verksamheten som utförs av privata utförare såsom
 privata transportbolag, entreprenörer, konsulter etc.
+
+Andel av       Kostnad för
+Verksamhet
+verksamhetsvolym % verksamhet mnkr
+Bokslut Bokslut Bokslut Bokslut
+2022    2023    2022    2023
 
 Teknik Skatt
 Teknik skatt har bland annat snöröjning och viss annan av sin verksamhet utlagd till externa utförare såsom
@@ -4795,7 +4857,7 @@ enskilda ärenden som bidrar till den successiva rutinförbättringen hela tiden
 
 [Tabell 112-1](handlingar.tabeller/112-1.csv)
 
-| Verksamhet<br>Teknik Skatt | Andel av<br>verksamhetsvolym %<br>Bokslut Bokslut<br>2022 2023<br>19,3 % 21,6 % |  | Kostnad för<br>verksamhet mnkr<br>Bokslut Bokslut<br>2022 2023<br>59 275 72 769 |  |
+| Teknik Skatt | 19,3 % | 21,6 % | 59 275 | 72 769 |
 | --- | --- | --- | --- | --- |
 | Avfall och Återvinning | 82,5 % | 81,9 % | 80 747 | 82 476 |
 | Kungsbacka Bredbandsnät | 2,3 % | 1,5 % | 746 | 576 |
@@ -4873,7 +4935,7 @@ Nämndens självskattning
 
 13
 
-[Tabell 114-1](handlingar.tabeller/114-1.csv)
+[Tabell 114-115-1](handlingar.tabeller/114-115-1.csv)
 
 | Område<br>Uppdrag och mål | Frågor Svar, Antal 2023<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
 | --- | --- |
@@ -4889,6 +4951,13 @@ Nämndens självskattning
 |  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
 | Riskanalys | Riskanalysen kommuniceras med<br>nämnden |
 |  | Riskanalysen är underlag för åtgärder och<br>granskningar |
+| Område<br>Kontrollaktiviteter | Frågor Svar, Antal 2023<br>Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
+|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
+|  | Återkoppling sker till förvaltningsledningen |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
+| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |
 
 <!-- sida 115 -->
 
@@ -4896,17 +4965,6 @@ Nämnden för Teknik                               Kungsbacka kommun
 Uppföljningsrapport intern kontroll 2023
 
 14
-
-[Tabell 115-1](handlingar.tabeller/115-1.csv)
-
-| Område<br>Kontrollaktiviteter | Frågor Svar, Antal 2023<br>Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
-| --- | --- |
-|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
 
 <!-- sida 116 -->
 
@@ -5367,23 +5425,49 @@ kartan i bilaga 2.
 Tabell 3 – Kungsbackas objekt som ingår i Regionala cykelplanerna 2015–2025 och 2020-2029, samt aktuell status
 och längd.
 
+Objekt                      Väg  Längd  Reg- Status  Typ
+nr.  [km]   ional
+cykel-
+plan
+Guntoftavägen                                Klar    Kattegattleden
+Kläppavägen                                  Klar    Kattegattleden
+Varbergsvägen               939   2,5                Prioriterat
+\-  Torpavägen-Torkelstorpsvägen              Klar
+\-  Torkelstorpsvägen-Hanhals                 Vägplan
+Kyrkväg
+Vallbyvägen                 934   2,2        Bygg-   Framtida
+2015 - handling
+Östra Särö södra            956   2,4   2025 Bygg-   Framtida
+\- Kyrkoby Dalavägen – Säröleden            nation
+
+Ölmanäs Ringväg             903/  5,1        Ej      Framtida
+\-  Jute Tvärväg-Varbergsvägen 904/           startad
+\-  Äppelstigen- Näsbrokrokvägen 939
+\-  Näsbrokrokvägen-Jute Tvärväg
+0,3
+Varbergsvägen
+\-  Ölmanäs Ringväg-Kläppavägen
+Göteborgsvägen              970   1,8        Vägplan Prioriterat
+\-  Anneberg-Kommungränsen
+
+Göteborgsvägen              845   1,8        Ej      Prioriterat
+\-  Södra Rågelundsvägen -                    startad
+Lurendalsvägen
+Varbergsvägen               939   7,2        Ej      Framtida
+\-  Torpavägen – Torpa Maaväg                 startad
+\-  Torpa Maaväg – Dotetorpsvägen
+2020 -
+\-  Dotetorpsvägen – Ölmevallavägen      2029
+\-  Ölmevallavägen – Ölmanäs
+Ringväg
+Gåsevadholmsvägen           932   2,9        Ej      Framtida
+\-  Klintåsvägen-Raskens väg                  startad
+\-  Raskens väg – Fjärås Blåklintsväg
+
+Västra Särövägen            955   0,5        Ej      Framtida
+\-  Särö Lundaväg – Särö banvall              startad
+
 Kungsbacka kommun             Gång- och cykelplan              16 (23)
-
-[Tabell 133-1](handlingar.tabeller/133-1.csv)
-
-| Objekt Väg Längd Reg- Status Typ<br>nr. [km] ional<br>cykel-<br>plan |  |  |
-| --- | --- | --- |
-| Guntoftavägen | 2015 -<br>2025 | Klar Kattegattleden |
-| Kläppavägen |  | Klar Kattegattleden |
-| Varbergsvägen 939 2,5<br>- Torpavägen-Torkelstorpsvägen<br>- Torkelstorpsvägen-Hanhals<br>Kyrkväg |  | Prioriterat<br>Klar<br>Vägplan |
-| Vallbyvägen 934 2,2 |  | Bygg- Framtida<br>handling |
-| Östra Särö södra 956 2,4<br>- Kyrkoby Dalavägen – Säröleden |  | Bygg- Framtida<br>nation |
-| Ölmanäs Ringväg 903/ 5,1<br>- Jute Tvärväg-Varbergsvägen 904/<br>- Äppelstigen- Näsbrokrokvägen 939<br>- Näsbrokrokvägen-Jute Tvärväg<br>0,3<br>Varbergsvägen<br>- Ölmanäs Ringväg-Kläppavägen |  | Ej Framtida<br>startad |
-| Göteborgsvägen 970 1,8<br>- Anneberg-Kommungränsen | 2020 -<br>2029 | Vägplan Prioriterat |
-| Göteborgsvägen 845 1,8<br>- Södra Rågelundsvägen -<br>Lurendalsvägen |  | Ej Prioriterat<br>startad |
-| Varbergsvägen 939 7,2<br>- Torpavägen – Torpa Maaväg<br>- Torpa Maaväg – Dotetorpsvägen<br>- Dotetorpsvägen – Ölmevallavägen<br>- Ölmevallavägen – Ölmanäs<br>Ringväg |  | Ej Framtida<br>startad |
-| Gåsevadholmsvägen 932 2,9<br>- Klintåsvägen-Raskens väg<br>- Raskens väg – Fjärås Blåklintsväg |  | Ej Framtida<br>startad |
-| Västra Särövägen 955 0,5<br>- Särö Lundaväg – Särö banvall |  | Ej Framtida<br>startad |
 
 <!-- sida 134 -->
 
@@ -5862,11 +5946,13 @@ investeringsbudget och därav behöver förvaltningen ta höjd för att projekte
 tillgängliga medel. I investeringsplanen avseende 2025 med plan för 2026-2029 tog förvaltningen höjd
 för att projektet når produktionsskedet någon gång under åren 2026-2029.
 
-[Tabell 147-1](handlingar.tabeller/147-1.csv)
+[Tabell 147-148-1](handlingar.tabeller/147-148-1.csv)
 
 | Del<br>(mnkr) | Kostnadsbedömning<br>miljoner kronor (prisnivå<br>2009-11) | Indexuppräknad kostnadsbedömning<br>enligt Trafikverkets index väghållning<br>(från ursprungsår 2009-11 till prisnivå<br>2023-11) | Kostnadsbedömning<br>framtagen hösten 2023<br>(prisnivå 2023-11) |
 | --- | --- | --- | --- |
 | Tölö tvärled – Stora<br>Bäcksleden | Ej särredovisad | Indexvärde november 2009 = 195,26<br>Indexvärde november 2023= 344,82 | 66 - 76 miljoner<br>kronor |
+| Stora Bäcksleden –<br>Arendalsleden | Ej särredovisad | Indexutvecklingen har varit +76,5 % | 54 - 64 miljoner<br>kronor |
+| Summa | 7,04 | 7,0+76,5%= 12,3<br>Osäkerhet råder kring exakt<br>projektavgränsning i 2009-års<br>kostnadsbedömning. | 120 – 140 miljoner<br>kronor |
 
 <!-- sida 148 -->
 
@@ -5894,12 +5980,6 @@ alla risker för långsam trafik.
 
 4 Det råder osäkerhet kring om hela sträckan längs Varlavägen avsågs eller om det enbart är en av delsträckorna som avsågs med
 beloppet 7 miljoner kronor.
-
-[Tabell 148-1](handlingar.tabeller/148-1.csv)
-
-| Stora Bäcksleden –<br>Arendalsleden | Ej särredovisad | Indexutvecklingen har varit +76,5 % | 54 - 64 miljoner<br>kronor |
-| --- | --- | --- | --- |
-| Summa | 7,04 | 7,0+76,5%= 12,3<br>Osäkerhet råder kring exakt<br>projektavgränsning i 2009-års<br>kostnadsbedömning. | 120 – 140 miljoner<br>kronor |
 
 <!-- sida 149 -->
 
@@ -6935,19 +7015,33 @@ Nedan framgår en översikt över de konsekvensbedömningar som gjorts i kommune
 och där jag lämnat råd. Inom parentes anges vilken del av kommunens verksamhet som gjort
 konsekvensbedömningen:
 
+Gjorda konsekvensbedömningar där lämnat råd
+2021                 2022                 2023
+
+Integrationsplattform (SE) Kontors- och samarbetsverktyg (KS) Stöd vid separationer (IF)
+
+Mitt Arkiv (KS)                          Specialkost (SE)
+Ansökan om stipendium – e-tjänst
+(GA)
+
+E-tjänsteplattform (KS) Gästnätverk (SE) Stöd för automatisering av
+arbets- och beslutsprocesser (KS)
+
+Kompletterande                           Dokumentation vid
+kamerabevakning/digital tillsyn Chattverktyg på kommunens disciplinärenden (KS)
+(VO/IF)            hemsida (KS)
+
+Bedömningsstöd inom Hantering av         Automatiserat avslut av
+gymnasieskolan (GA) användarbehörigheter (SE) personakter (SE)
+
+Färdtjänst – e-tjänst (TE)               Analys- och planeringsstöd inom
+Rapportering av missförhållanden socialtjänsten (IF)
+(visselblåsarfunktion) (KS)
+
+Ekonomiskt bistånd – e-tjänst            Säker posthantering
+(GA)               Digitalt stöd inom LSS (IF) (digital/fysisk) (KS)
+
 10
-
-[Tabell 172-1](handlingar.tabeller/172-1.csv)
-
-| Gjorda konsekvensbedömningar där lämnat råd<br>2021 2022 2023 |  |  |
-| --- | --- | --- |
-| Integrationsplattform (SE) | Kontors- och samarbetsverktyg (KS) | Stöd vid separationer (IF) |
-| Mitt Arkiv (KS) | Ansökan om stipendium – e-tjänst<br>(GA) | Specialkost (SE) |
-| E-tjänsteplattform (KS) | Gästnätverk (SE) | Stöd för automatisering av<br>arbets- och beslutsprocesser (KS) |
-| Kompletterande<br>kamerabevakning/digital tillsyn<br>(VO/IF) | Chattverktyg på kommunens<br>hemsida (KS) | Dokumentation vid<br>disciplinärenden (KS) |
-| Bedömningsstöd inom<br>gymnasieskolan (GA) | Hantering av<br>användarbehörigheter (SE) | Automatiserat avslut av<br>personakter (SE) |
-| Färdtjänst – e-tjänst (TE) | Rapportering av missförhållanden<br>(visselblåsarfunktion) (KS) | Analys- och planeringsstöd inom<br>socialtjänsten (IF) |
-| Ekonomiskt bistånd – e-tjänst<br>(GA) | Digitalt stöd inom LSS (IF) | Säker posthantering<br>(digital/fysisk) (KS) |
 
 <!-- sida 173 -->
 
@@ -7651,31 +7745,110 @@ KUNGSBACKA KOMMUN                                           2 (5)
 
 KUNGSBACKA KOMMUN                                           3 (5)
 
-[Tabell 189-1](handlingar.tabeller/189-1.csv)
-
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-|  | fall och 2 §<br>förordningen<br>om flyttning av<br>fordon i vissa<br>fall | & Utformning EC<br>Anläggning &<br>Utveckling<br>Arbetsledare,<br>Trafik-samordnare<br>Trafikövervakare |  |  |
-| 4.13 | 5 § lag<br>(1976:206) om<br>felparkeringsav<br>gift och 1 § lag<br>(1984:318) om<br>kontrollavgift<br>vid olovlig<br>parkering | Trafikövervakare | Beslut om<br>felparkeringsavgif<br>t samt<br>kontrollavgift vid<br>olovlig parkering | Felparkeringsavgifter (gatumark):<br>- 595 st<br>Kontrollavgifter (tomtmark):<br>- 140 st |
-| 4.14 | Vägmärkesföro<br>rd ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen<br>3 kap. 4 § Plan<br>och Bygglagen<br>6 Kap. 21 | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning &<br>Utveckling<br>Vägtekniker | Beslut om<br>tillstånd att<br>schakta i gator<br>och vägar för<br>vilka kommunen<br>är huvudman och<br>vid behov kräva<br>säkerhet för<br>beräknade<br>kostnader för<br>återställande av<br>kommunens<br>anläggningar | 17 st beslut om tillstånd att schakta i<br>gator och trafikanordningsplan. |
-| 4.15 | Vägmärkesföro<br>rd ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen<br>3 kap. 4 § | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning &<br>Utveckling<br>Vägtekniker | Godkännande av<br>trafikanordningsp<br>lan | 7 st beslut om enbart<br>trafikanordningsplan |
-| 4.16 | 13 kap. och 8 §<br>trafikförordnin<br>gen<br>(1998:1276) | Färdtjänstutredare | Beslut om<br>parkeringstillstån<br>d för<br>rörelsehindrade | Beslut om parkeringstillstånd för<br>rörelsehindrad<br>Beviljade: 11 st<br>Avslagna: 0 st |
-| 5.1 | 6–9 §§ lag<br>(1997:736) om<br>färdtjänst | Färdtjänstutredare<br>EC Kansli | Beslut om<br>tillstånd till<br>färdtjänst med | Beslut om färdtjänst<br>Beviljade: 27 st<br>Avslagna: 0 |
+Punkt i
+delegeringsord                     Delegeringens
+ning        Lagrum    Ansvarig Delegat omfattning Taget beslut och datum för beslutet
+fall och 2 § & Utformning EC
+förordningen Anläggning &
+om flyttning av Utveckling
+fordon i vissa Arbetsledare,
+fall      Trafik-samordnare
+Trafikövervakare
+4.13        5 § lag   Trafikövervakare Beslut om Felparkeringsavgifter (gatumark):
+(1976:206) om          felparkeringsavgif - 595 st
+felparkeringsav
+t samt
+gift och 1 § lag
+kontrollavgift vid Kontrollavgifter (tomtmark):
+(1984:318) om
+olovlig parkering - 140 st
+kontrollavgift
+vid olovlig
+parkering
+4.14        Vägmärkesföro VC Trafik & Beslut om 17 st beslut om tillstånd att schakta i
+rd ningen SFS Utemiljö tillstånd att gator och trafikanordningsplan.
+2007:90 AFS EC drift Gata schakta i gator
+1999:3 49 § 81 EC Anläggning & och vägar för
+§ (a-e)   Utveckling   vilka kommunen
+Ordningslagen Vägtekniker är huvudman och
+3 kap. 4 § Plan        vid behov kräva
+och Bygglagen          säkerhet för
+6 Kap. 21              beräknade
+kostnader för
+återställande av
+kommunens
+anläggningar
+4.15        Vägmärkesföro VC Trafik & Godkännande av 7 st beslut om enbart
+rd ningen SFS Utemiljö trafikanordningsp trafikanordningsplan
+2007:90 AFS EC drift Gata lan
+1999:3 49 § 81 EC Anläggning &
+§ (a-e)   Utveckling
+Ordningslagen Vägtekniker
+3 kap. 4 §
+4.16        13 kap. och 8 § Färdtjänstutredare Beslut om Beslut om parkeringstillstånd för
+trafikförordnin        parkeringstillstån rörelsehindrad
+gen
+d för       Beviljade: 11 st
+(1998:1276)
+rörelsehindrade Avslagna: 0 st
+5.1         6–9 §§ lag Färdtjänstutredare Beslut om Beslut om färdtjänst
+(1997:736) om EC Kansli tillstånd till Beviljade: 27 st
+färdtjänst
+färdtjänst med Avslagna: 0
 
 <!-- sida 190 -->
 
 KUNGSBACKA KOMMUN                                           4 (5)
 
-[Tabell 190-1](handlingar.tabeller/190-1.csv)
+Punkt i
+delegeringsord                     Delegeringens
+ning        Lagrum    Ansvarig Delegat omfattning Taget beslut och datum för beslutet
+regelkompletteri
+ngar
+5.3         4–7 §§ lag Färdtjänstutredare Beslut om Beslut om tillstånd till riksfärdtjänst
+(1997:735) om EC Kansli tillstånd till Beviljade: 10 st
 
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-|  |  |  | regelkompletteri<br>ngar |  |
-| 5.3 | 4–7 §§ lag<br>(1997:735) om<br>riksfärdtjänst | Färdtjänstutredare<br>EC Kansli | Beslut om<br>tillstånd till<br>riksfärdtjänst | Beslut om tillstånd till riksfärdtjänst<br>Beviljade: 10 st<br>Avslagna: 0 st |
-| 8.3 | 61 § lokala<br>renhållnings-<br>föreskrifter | Anette Englund,<br>Louise Backman-<br>Smith. Kund &<br>Kommunikation | Besluta om<br>tillfälligt uppehåll<br>i sophämtning | 240102 5 st<br>240103 1 st<br>240112 4 st<br>240115 4 st<br>240116 2 st<br>240118 4 st<br>240119 1 st<br>240129 1 st<br>240130 4 st |
-| 8.6 | 52 § lokala<br>renhållnings-<br>föreskrifter | Anette Englund,<br>Louise Backman-<br>Smith. Kund &<br>Kommunikation | Besluta om<br>godkännande av<br>kompostering av<br>matavfall | 2 st beslut om godkännande av<br>kompostering av matavfall<br>2024-01-12. |
-| 10.1.2 |  | FC<br>Rekryterande/ansv<br>arig chef | Övriga<br>medarbetare<br>Tillsvidareanställ<br>ning och<br>tidsbegränsade<br>anställningar<br>längre än 6<br>månader | Anställning av<br>- Projektledare, anställd 2024-01-01<br>av Lennart Torgerson<br>- Enhetschef, anställd 2024-01-01 av<br>Lennart Torgerson<br>- Projektledare, anställd 2024-01-01<br>av Jannike Berg<br>I samråd med HR på förvaltningen<br>samt förhandlingschef |
-| 10.3.4 | Nämndens<br>budget, Regler<br>och riktlinjer<br>för förmåner<br>till<br>förtroendevald<br>a | OF/vice OF | Beslutat om<br>kurser,<br>konferenser och<br>dylikt för<br>förtroendevald | - Deltagande för ordförande på<br>fortsättning av<br>samhällsbyggnadsprocessen den 10<br>januari 2024. 2024-01-10 – 2023-<br>00502.<br>- Deltagande för ledamöter på<br>fortsättning av<br>samhällsbyggnadsprocessen den 10 |
+riksfärdtjänst
+riksfärdtjänst Avslagna: 0 st
+8.3         61 § lokala Anette Englund, Besluta om 240102 5 st
+renhållnings- Louise Backman- tillfälligt uppehåll 240103 1 st
+föreskrifter Smith. Kund & i sophämtning 240112 4 st
+Kommunikation            240115 4 st
+240116 2 st
+240118 4 st
+240119 1 st
+240129 1 st
+240130 4 st
+8.6         52 § lokala Anette Englund, Besluta om 2 st beslut om godkännande av
+renhållnings- Louise Backman- godkännande av kompostering av matavfall
+föreskrifter Smith. Kund & kompostering av 2024-01-12.
+Kommunikation matavfall
+10.1.2                FC           Övriga      Anställning av
+Rekryterande/ansv medarbetare
+\- Projektledare, anställd 2024-01-01
+arig chef    Tillsvidareanställ
+av Lennart Torgerson
+ning och
+tidsbegränsade
+\- Enhetschef, anställd 2024-01-01 av
+anställningar
+Lennart Torgerson
+längre än 6
+månader     - Projektledare, anställd 2024-01-01
+av Jannike Berg
+I samråd med HR på förvaltningen
+samt förhandlingschef
+10.3.4      Nämndens  OF/vice OF   Beslutat om - Deltagande för ordförande på
+budget, Regler         kurser,     fortsättning av
+samhällsbyggnadsprocessen den 10
+och riktlinjer         konferenser och
+januari 2024. 2024-01-10 – 2023-
+för förmåner           dylikt för
+00502\.
+till                   förtroendevald
+förtroendevald                     - Deltagande för ledamöter på
+a                                  fortsättning av
+samhällsbyggnadsprocessen den 10
 
 <!-- sida 191 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1722ec5a1900ff6cbabd7d/171834814875
 sha256: b038b6ab7b8c8613c3521d65db6f475693541580f06d571043bfe4a22aab7152
 bytes: 212211
 sidor: 5
-hamtad: 2026-10-08T00:44:03+00:00
-konverterad: 2026-10-08T00:44:10+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T08:37:08+00:00
+konverterad: 2026-10-14T08:37:15+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -68,23 +68,12 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
+[Tabell 3-5-1](kallelse.tabeller/3-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 7. | Kommunal belysning utmed<br>statlig väg | TE-2021-<br>00979,<br>Handläggare:<br>Emir Halalkic,<br>18:25 – 18:30 | Nämnden för Teknik beslutar att Kungsbacka<br>kommun ska fortsätta hålla med belysning längs<br>statlig väg där detta är kravställt enligt vid var tid<br>gällande version av Trafikverkets<br>vägbelysningshandbok. Underhåll av anläggningar<br>sker enligt normal underhållsplaneringstakt.<br>Nämnden för Teknik beslutar att Kungsbacka<br>kommun på följande platser ska fortsätta<br>tillhandahålla belysning av längs statlig väg där<br>detta inte är krav enligt vid var tid gällande<br>version av Trafikverkets vägbelysningshandbok:<br>- i direkt anslutning till busshållplatser samt<br>skolskjutshållplatser<br>- vid korta avstånd till andra belysta platser<br>Nämnden för Teknik förklarar uppdraget 2021-11-<br>17 §114 för slutfört. |
 | 8. | Flytt av medel mellan<br>underportföljer samt<br>investeringstyper avseende<br>2024 | TE-2024-<br>00481,<br>Föredragande:<br>Emir Halalkic,<br>18:30 – 18:40 | Nämnden för Teknik beslutar att för år 2024<br>omfördela medel mellan projekttyper så att nya<br>ramar är:<br>Löpande investeringar 16 300 000 kronor<br>Reinvesteringar 24 600 000 kronor<br>Övriga investeringar 49 900 000 kronor<br>Summa 90 800 000 kronor<br>Nämnden för Teknik beslutar att för år 2024<br>omfördela medel mellan underportföljer så att nya<br>ramar för underportföljer är:<br>Cykelkommun 36 900 000 kronor<br>Kommunens vägnät 3 700 000 kronor<br>Den attraktiva staden 13 800 000 kronor<br>Reinvesteringar 24 600 000 kronor<br>Skog och park 1 000 000 kronor<br>Maskiner och utrustning 10 800 000 kronor<br>Summa 90 800 000 kronor |
-
-<!-- sida 4 -->
-
-KUNGSBACKA  KOMMUN
-
-4(5)
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 9. | Vattentjänstplan | TE-2023-<br>00969,<br>Föredragande:<br>David<br>Johnson,<br>18:40 – 18:55 | Nämnden för Teknik noterar informationen till<br>protokollet. |
 | 10. | Stadslekplats i Björkris | TE-2024-<br>00553,<br>Föredragande:<br>Åsa Dykes &<br>Emir Halalkic,<br>19:10 – 19:25 | Nämnden för Teknik noterar informationen till<br>protokollet. |
 | 11. | Återrapportering<br>implementering av<br>Kungsbackas Gång- &<br>Cykelplan | TE-2024-<br>00482,<br>Föredragande:<br>Åsa Dykes &<br>Emir Halalkic,<br>19:25 – 19:50 | Nämnden för Teknik noterar informationen till<br>protokollet. |
@@ -92,6 +81,14 @@ KUNGSBACKA  KOMMUN
 | 13. | Kvalitetsrapport för färdtjänst<br>juni 2024 | TE-2024-<br>00478,<br>Föredragande:<br>Simon Nissen,<br>20:15 – 20:30 | Nämnden för Teknik noterar informationen till<br>protokollet. |
 | 14. | Återrapportering på uppdrag att<br>ta fram styrdokument för<br>innovation och förnyelse | TE-2024-<br>00287,<br>Föredragande:<br>Susanne<br>Edgren,<br>20:30 – 20:45 | Nämnden för Teknik noterar informationen till<br>protokollet. |
 | 15. | Redovisning av inkomna<br>handlingar 2024 | TE-2024-<br>00002 | Nämnden för Teknik noterar redovisningen av<br>inkomna skrivelser till protokollet. |
+| 16. | Anmälan av delegeringsbeslut<br>2024 | TE-2024-<br>00003 | Nämnden för Teknik noterar delegeringsbeslut<br>fattade och rapporterade under maj<br>2024. |
+| 17. | Information från förvaltningen<br>2024 | TE-2024-<br>00004,<br>20:45 – 21:00 | Nämnden för Teknik noterar informationen till<br>protokollet. |
+
+<!-- sida 4 -->
+
+KUNGSBACKA  KOMMUN
+
+4(5)
 
 <!-- sida 5 -->
 
@@ -101,10 +98,3 @@ KUNGSBACKA  KOMMUN
 
 Monica Neptun                     Simon Nissen
 ordförande                        sekreterare
-
-[Tabell 5-1](kallelse.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 16. | Anmälan av delegeringsbeslut<br>2024 | TE-2024-<br>00003 | Nämnden för Teknik noterar delegeringsbeslut<br>fattade och rapporterade under maj<br>2024. |
-| 17. | Information från förvaltningen<br>2024 | TE-2024-<br>00004,<br>20:45 – 21:00 | Nämnden för Teknik noterar informationen till<br>protokollet. |

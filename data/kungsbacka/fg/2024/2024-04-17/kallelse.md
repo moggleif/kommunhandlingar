@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2b49f86518ecb777ac8a5fc/17131681390
 sha256: 0c1111c6fe897eb8d2ec2601925c344ea77ff39dd099beb20fe8248eafafcf4f
 bytes: 171231
 sidor: 4
-hamtad: 2026-10-07T22:42:07+00:00
-konverterad: 2026-10-07T22:42:14+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T06:52:12+00:00
+konverterad: 2026-10-14T06:52:18+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -65,23 +65,19 @@ KUNGSBACKA  KOMMUN
 | 7. | Regler för omsorg på obekväm<br>arbetstid<br>Kl 17.00-17.30<br>Frida Byrsten, verksamhetschef | FG-2024-00180 | Nämnden för Förskola & Grundskola beslutar<br>om Regler för omsorg på obekväm tid.<br>Reglerna träder i kraft efter genomförd<br>upphandling och avtalstecknande med extern<br>utförare och avser omsorg från och med tidigast<br>höstterminsstart 2024.<br>Förvaltningschef får delegation med rätt att<br>vidaredelegera Beslut om omsorg på obekväm<br>arbetstid, skollagen 25 kap 5 §.<br>Förvaltningschef får delegation att teckna<br>entreprenadavtal med annan part för att utföra<br>omsorg på obekväm arbetstid, skollagen 23 kap<br>2,8 §§. Vidaredelegation medges ej.<br>Förvaltningen för Förskola och Grundskola ska<br>återrapportera en uppföljning av regler och avtal<br>år ett och två.<br>Nämnden beslutar att förvaltningen kompletterar<br>underlaget enligt följande: Ändra maximalt antal<br>timmar till 45 timmar, samt att man inte heller<br>ska vara nära bekant eller ha<br>vänskapsförhållanden. Tillägg sidan 3 efter<br>stycket om delad vårdnad; " i undantagsfall kan<br>det beviljas omsorg på obekväm arbetstid även<br>om enbart den ena föräldern har arbete på<br>obekväm arbetstid." |
 |  | Paus 17.30-17.50 |  |  |
 | 8. | Utredning kring Iseråsskolans<br>ombyggnad<br>Kl 17.50-18.10<br>Anna Antoni, utvecklingsledare | FG-2024-00175 | Nämnden för Förskola & Grundskola beslutar att<br>vid ombyggnation av Iseråsskolan utreda<br>möjligheten att evakuera skolans elever till<br>Fjordskolan samt Kapareskolan. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 9. | Organisationsförändring<br>Förskolor Frillesås<br>Kl 18.10-18.20<br>Eva Eriksson, verksamhetschef<br>Helen Stenum,<br>utvecklingsledare | FG-2024-00185 | Arbetsutskottet överlåter till nämnden att besluta<br>i ärendet. Arbetsutskottet ger förvaltningen i<br>uppdrag att inför nämndsammanträdet<br>komplettera underlaget. |
 | 10. | Anpassning av pedagogisk<br>omsorg i Pedagogiskt område<br>Söder"<br>Kl 18.20-18.30<br>Eva Eriksson, verksamhetschef<br>Helen Stenum,<br>utvecklingsledare | FG-2024-00186 | Arbetsutskottet överlåter till nämnden att besluta<br>i ärendet. Arbetsutskottet ger förvaltningen i<br>uppdrag att inför nämndsammanträdet<br>komplettera underlaget. |
 | 11. | Organisationsförändring på<br>Blomstergatans förskola<br>Kl 18.30-18.50<br>Maria Eriksson,<br>verksamhetschef<br>Anna Flinck, utvecklingsledare | FG-2024-00174 | Arbetsutskottet överlåter till nämnden att besluta<br>i ärendet. Arbetsutskottet ger förvaltningen i<br>uppdrag att inför nämndsammanträdet<br>komplettera underlaget. |
 | 12. | Verksamhetschef elevhälsans<br>medicinska insatser | FG-2024-00177 | Magnus Sandberg utses till verksamhetschef för<br>elevhälsans medicinska insatser från och med 1<br>maj 2024. |
 | 13. | Årlig rapport från<br>intraprenaderna 2023 | FG-2024-00164 | Nämnden för Förskola och Grundskola<br>godkänner rapporten och antecknar<br>informationen i protokollet. |
 | 14. | Delegeringsbeslut antagna av<br>nämnden 2024 | FG-2024-00059 | Redovisning av beslut som fattats av<br>förvaltningen på delegation för nämnden noteras<br>till protokollet. |
+| 15. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 18.50-19.00<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00002 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -91,9 +87,3 @@ KUNGSBACKA  KOMMUN
 
 Emanuel Forsell                   Lars Sundbom
 ordförande                        sekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 15. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 18.50-19.00<br>Stigert Pettersson,<br>förvaltningschef | FG-2024-00002 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen i protokollet. |

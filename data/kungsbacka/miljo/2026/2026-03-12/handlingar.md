@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.3fcba5dd19c985df706e1193/1772790249
 sha256: ce8998cdd498b8e21f01c7f9c6b335419e093dab4d95cd88c7e0ce4c15d6b80d
 bytes: 604041
 sidor: 53
-hamtad: 2026-10-08T08:10:19+00:00
-konverterad: 2026-10-08T08:10:33+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T11:04:25+00:00
+konverterad: 2026-10-14T11:04:32+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [3, 11, 22, 24, 41, 45, 46, 48, 49, 51]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker]
+tal_obekraftade: [3, 11, 22, 24, 41, 43, 45, 46, 48, 49, 51, 53]
+figurer: [43]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -315,8 +315,9 @@ effektivare mätning av vattenprover i fält.
 
 [Tabell 9-1](handlingar.tabeller/9-1.csv)
 
-| Utfall (miljoner kronor)<br>Intäkter | Utfall 2023<br>42,4 | Utfall 2024<br>50,2 | Utfall 2025<br>52,2 |
+| Utfall (miljoner kronor) | Utfall 2023 | Utfall 2024 | Utfall 2025 |
 | --- | --- | --- | --- |
+| Intäkter | 42,4 | 50,2 | 52,2 |
 | Kostnader | -81,1 | -85,3 | -90,9 |
 | Netto | -38,7 | -35,1 | -38,7 |
 | Budget, netto | -40,6 | -39,1 | -40,4 |
@@ -324,8 +325,9 @@ effektivare mätning av vattenprover i fält.
 
 [Tabell 9-2](handlingar.tabeller/9-2.csv)
 
-| Utfall (miljoner kronor)<br>Utgifter | Utfall 2023<br>-0,2 | Utfall 2024<br>-0,1 | Utfall 2025<br>-0,1 |
+| Utfall (miljoner kronor) | Utfall 2023 | Utfall 2024 | Utfall 2025 |
 | --- | --- | --- | --- |
+| Utgifter | -0,2 | -0,1 | -0,1 |
 | Inkomster | 0 | 0 | 0 |
 | Netto | -0,2 | -0,1 | -0,1 |
 
@@ -1119,10 +1121,12 @@ Arbetet med kommunens övergripande arbetsmiljömål har bedrivits inom ramen f�
 
 [Tabell 24-1](handlingar.tabeller/24-1.csv)
 
-| Namn<br>Riskobservation | 2023<br>4 | 2024<br>8 | 2025<br>4 |
+| Namn | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- |
+| Riskobservation | 4 | 8 | 4 |
 | Tillbud | 14 | 14 | 10 |
-| Olycksfall<br>Total | 4<br>22 | 4<br>26 | 5<br>19 |
+| Olycksfall | 4 | 4 | 5 |
+| Total | 22 | 26 | 19 |
 
 <!-- sida 25 -->
 
@@ -1343,32 +1347,6 @@ Nämndens årsredovisning 2025
 
 Drift (belopp miljoner kronor)
 
-Budget-
-Uppföljningsnivå (belopp i mkr) Bokslut 2024 Budget 2025 Bokslut 2025 avvikelse
-2025
-Byggnadsnämnden
-
-Kostnader                        -1,3       -1,7      -1,4       0,3
-
-Geodata & Bygglov
-Intäkter                         30,2      32,3       29,8      -2,5
-Kostnader                        -48,6     -53,8      -53        0,8
-
-Miljö & Hälsoskydd
-
-Intäkter                         20,1      20,3       19,7      -0,6
-Kostnader                        -35,5     -37,5     -33,8       3,7
-
-Kommungemensamt program
-(externa kostnader)
-
-```osaker-tabell
-Intäkter                          0,0       3,7       2,7       -1,0
-
-Kostnader                         0,0       -3,7      -2,7       1,0
-Summa                            -35,1     -40,4     -38,7       1,7
-```
-
 Kommentarer
 Sammanfattning
 Byggnadsnämnden och bygg- och miljöförvaltningen redovisar ett resultat jämfört med budget på +1,7 miljoner
@@ -1387,6 +1365,24 @@ kronor. Intäkterna är -2,5 miljoner kronor lägre än budgeterat. Personalkost
 0,3 miljoner kronor medan de övriga kostnaderna avviker med +1,1 miljoner kronor.
 
 23
+
+[Tabell 29-1](handlingar.tabeller/29-1.csv)
+
+| Uppföljningsnivå (belopp i mkr) | Bokslut 2024 | Budget 2025 | Bokslut 2025 | Budgetavvikelse 2025 |
+| --- | --- | --- | --- | --- |
+| Byggnadsnämnden |  |  |  |  |
+| Kostnader | -1,3 | -1,7 | -1,4 | 0,3 |
+| Geodata & Bygglov |  |  |  |  |
+| Intäkter | 30,2 | 32,3 | 29,8 | -2,5 |
+| Kostnader | -48,6 | -53,8 | -53 | 0,8 |
+| Miljö & Hälsoskydd |  |  |  |  |
+| Intäkter | 20,1 | 20,3 | 19,7 | -0,6 |
+| Kostnader | -35,5 | -37,5 | -33,8 | 3,7 |
+| Kommungemensamt program |  |  |  |  |
+| (externa kostnader) |  |  |  |  |
+| Intäkter | 0,0 | 3,7 | 2,7 | -1,0 |
+| Kostnader | 0,0 | -3,7 | -2,7 | 1,0 |
+| Summa | -35,1 | -40,4 | -38,7 | 1,7 |
 
 <!-- sida 30 -->
 
@@ -2326,15 +2322,37 @@ dantsoK
 segna
 tkejorp
 ejrav röf( gnirevitoM
+eslekivvategdub
+o
+tulskob
+llit
+gnirenopsidtatluser
+mo narägeb
+snednmän
+tmas
+kasrO
+5202
+tulskoB
+/gninsivodertfirD
+jorp/skv/vsnA
+cepS
 mo
 narägeb
 3 pyt röF .)gnirevitom
+nmantkejorP
 sanmäl
 dnoftatluser
 llit gniröfrevö
 ttåmsnoitatserp
 va gninsivoder
 dliksräs
+tulseb
+llit
+galsröf
+snednmän
+\- gniremmuS
+ttoksrevÖ
+ttoksrednU
 mos
 reiretirksgniredrävtu
 ardna
@@ -2343,8 +2361,69 @@ moneg
 ttåtsppu
 tettoksrevö tta
 rasiv
+tom ammusllortnoK
+tta
+ammuS
+tta
+ammuS
+llit
+ammuS
+edneågåP
+\- 4
+pyT
+ange
+\- 3 pyT
+tehmasrev
+\- 2
+pyT
+je
+\- 1
+pyT
+llit
+sröF
+saretegdubmO
+eslekivvA
+llaftU
+tegdubsrÅ
+RÖB
+.eslekivvastulskob
+asivoderretå
+aretegdubmo
+dnoftatluser
+tkejorp
+edatulsva
+je
+ragniresivitkeffe
+dnmän
+nanna
+llit
+tehmaskrevröftu
+dnoftatluser
 .ragniresivitkeffe
 ange
+I "0" DEM
+ATULS
+saretegdubmO
+dnoftatluser
+llit
+sasivoderretå
+sasivoderretå
+NAMMUS
+E-K+J+I+H+G+F=O
+I+H=N
+K+F=M
+J+G=L
+K
+J
+I
+H
+G
+F
+C-D=E
+D
+C
+B
+A
 rkt
 7 atnärnretni
 tegdub ttoksrevÖ
@@ -2359,35 +2438,76 @@ tsmärf
 rä tettoksrevö llit
 nekasrO
 ergäl
-agp redantsoklanosrep gninnameb
+agp redantsoklanosrep
+tehmaskrevdnmäN
+gninnameb
+0
+7
+0
+196
+1
+196
+1
+7
+896
+1
+867
+63-
+664
+83-
+tfirD
+0037
 rah gnilkcevtutrak
 tegdub va netrapreM
 allil
 teD .5202 rednu
 stnävna
+4371
+tkejorP
 llit
-tsröf rkt 4 åp tettoksrevö .nednoftatluser
+tsröf rkt 4 åp tettoksrevö
+gnilkcevtutraK
+tehmaskrevdnmäN
+.nednoftatluser
+0
+0
+0
+4
+4
+4
+319
+1-
+719
+1-
+gninnaks/otofgylf
+0037
+0
+0
+0
+0
+0
+0
+7
+0
+596
+1
+0
+596
+1
+0
+7
+0
+0
+207
+1
+186
+83-
+383
+04-
+nednmän
+tlatoT
 7
 0
 596
 1
 galsröF
-
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
-
-| eslekivvategdub<br>o<br>tulskob<br>llit<br>gnirenopsidtatluser<br>mo<br>narägeb<br>snednmän<br>tmas<br>kasrO | tulseb<br>llit<br>galsröf<br>snednmän<br>-<br>gniremmuS | RÖB<br>tom ammusllortnoK .eslekivvastulskob I "0" DEM NAMMUS<br>ATULS | E-K+J+I+H+G+F=O | 0 | 0 | 0 | 0 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | tta asivoderretå<br>ammuS | I+H=N | 7 | 0 | 0 | 7 |
-|  |  | tta aretegdubmo<br>ammuS | K+F=M | 0 | 0 | 0 | 0 |
-|  |  | llit dnoftatluser<br>ammuS | J+G=L | 196<br>1 | 4 | 0 | 596<br>1 |
-|  | ttoksrevÖ | edneågåP tkejorp saretegdubmO<br>edatulsva<br>- 4<br>pyT<br>je | K |  |  |  | 0 |
-|  |  | ragniresivitkeffe dnoftatluser<br>ange<br>- 3<br>pyT<br>llit | J | 196<br>1 | 4 |  | 596<br>1 |
-|  |  | tehmasrev dnmän sasivoderretå<br>nanna<br>- 2<br>pyT llit | I |  |  |  | 0 |
-|  |  | tehmaskrevröftu sasivoderretå<br>je<br>- 1<br>pyT | H | 7 |  |  | 7 |
-|  | ttoksrednU | dnoftatluser<br>llit<br>sröF | G |  |  |  | 0 |
-|  |  | saretegdubmO | F |  |  |  | 0 |
-| 5202<br>tulskoB |  | eslekivvA | C-D=E | 896<br>1 | 4 | 0 | 207<br>1 |
-|  |  | llaftU | D | 867<br>63- | 319<br>1- |  | 186<br>83- |
-|  |  | tegdubsrÅ | C | 664<br>83- | 719<br>1- |  | 383<br>04- |
-| /gninsivodertfirD<br>nmantkejorP |  |  | B | tfirD | gninnaks/otofgylf<br>gnilkcevtutraK<br>4371<br>tkejorP |  | nednmän<br>tlatoT |
-| jorp/skv/vsnA<br>cepS |  |  | A | tehmaskrevdnmäN<br>0037 | tehmaskrevdnmäN<br>0037 |  |  |

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7dfb7256199c8e9b9cbc0935/1760622287
 sha256: 7b3fa5c085305f2cc7f2d4fa8e35e4faad7ee6f90d5ae89a1c3114311b20e35c
 bytes: 202185
 sidor: 3
-hamtad: 2026-10-08T00:45:23+00:00
-konverterad: 2026-10-08T00:45:29+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T08:38:27+00:00
+konverterad: 2026-10-14T08:38:33+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok]
+kvalitet_per_sida: [ok, tabell-osaker, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -55,15 +55,53 @@ KUNGSBACKA  KOMMUN
 
 2(3)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+Ärende                Beteckning Förslag
 
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 5. | Slutredovisning -<br>Anläggningsarbete för VA-<br>ledningar, bredband och<br>spillvattenpumpstationer<br>HANHALS, 4512<br>Föredragande: Margarita<br>Kouzina<br>18:35 – 18:50 | TE-2025-<br>00902 | Nämnden för Teknik noterar informationen till<br>protokollet. |
-| 6. | Omfördelning av<br>underportföljer 2025<br>Föredragande: Emir Halalkic &<br>Catarina Sundberg<br>18:50 – 19:10 | TE-2025-<br>00505 | Nämnden för Teknik beslutar att för 2025 omfördela<br>medel inom investeringsbudget för VA mellan<br>underportföljer enligt nedanstående tabell över<br>portfölj:<br>Procentuell fördelning av tillgängliga medel år 2025<br>VA Teknik - 0,7%<br>Vattenproduktion – VA - 3,8%<br>VA- ledningsnät - 69,1%<br>Avloppsrening - 9,7%<br>VA-omvandling - 12,6%<br>Exploatering - 4,1% |
-| 7. | Avtal med behov av revidering<br>på grund av ökade antal<br>medlemmar i VA-föreningar<br>19:10 – 19:15 | TE-2025-<br>00609 | Nämnden för Teknik noterar informationen till<br>protokollet. |
-| 8. | Övertagande av VA-anläggning<br>från Lerbergs VA<br>samfällighetsförening i VA-<br>utbyggnadsområde 405 Lerberg<br>Föredragande: Ann-Charlotte<br>Svensson<br>19:15 – 19:35 | TE-2025-<br>00786 | Nämnden för Teknik godkänner Kungsbacka<br>kommuns övertagande av VA-anläggning för vatten<br>och spillvatten från Lerbergs VA<br>samfällighetsförening och att ersättning om 3 211<br>005 kr ska betalas till föreningen.<br>Nämnden för Teknik uppdrar åt förvaltningen att<br>teckna avtal om övertagande med Lerbergs VA<br>samfällighetsförening och att därefter betala ut<br>ersättningen till föreningen. |
-| 9. | Anmälan av delegeringsbeslut<br>2025<br>19:35 – 19:40 | TE-2025-<br>00003 | Nämnden för Teknik noterar delegeringsbeslut<br>fattade under september 2025. |
+5\.  Slutredovisning -     TE-2025-  Nämnden för Teknik noterar informationen till
+Anläggningsarbete för VA- 00902 protokollet.
+ledningar, bredband och
+spillvattenpumpstationer
+HANHALS, 4512
+
+Föredragande: Margarita
+Kouzina
+18:35 – 18:50
+
+6\.  Omfördelning av       TE-2025-  Nämnden för Teknik beslutar att för 2025 omfördela
+underportföljer 2025  00505     medel inom investeringsbudget för VA mellan
+underportföljer enligt nedanstående tabell över
+Föredragande: Emir Halalkic &   portfölj:
+Catarina Sundberg               Procentuell fördelning av tillgängliga medel år 2025
+
+18:50 – 19:10                   VA Teknik - 0,7%
+Vattenproduktion – VA - 3,8%
+VA- ledningsnät - 69,1%
+Avloppsrening - 9,7%
+VA-omvandling - 12,6%
+Exploatering - 4,1%
+
+7\.  Avtal med behov av revidering TE-2025- Nämnden för Teknik noterar informationen till
+på grund av ökade antal 00609   protokollet.
+medlemmar i VA-föreningar
+
+19:10 – 19:15
+
+8\.  Övertagande av VA-anläggning TE-2025- Nämnden för Teknik godkänner Kungsbacka
+från Lerbergs VA      00786     kommuns övertagande av VA-anläggning för vatten
+samfällighetsförening i VA-     och spillvatten från Lerbergs VA
+utbyggnadsområde 405 Lerberg    samfällighetsförening och att ersättning om 3 211
+005 kr ska betalas till föreningen.
+
+Föredragande: Ann-Charlotte
+Svensson                        Nämnden för Teknik uppdrar åt förvaltningen att
+19:15 – 19:35                   teckna avtal om övertagande med Lerbergs VA
+samfällighetsförening och att därefter betala ut
+ersättningen till föreningen.
+
+9\.  Anmälan av delegeringsbeslut TE-2025- Nämnden för Teknik noterar delegeringsbeslut
+2025                  00003     fattade under september 2025.
+
+19:35 – 19:40
 
 <!-- sida 3 -->
 

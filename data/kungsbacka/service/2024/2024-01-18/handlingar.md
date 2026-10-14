@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.28dcea0d18cf3c913c8e2afd/1705306805
 sha256: 79ece01825c9de055ca3b48260a4309aaa560a35e1754c505d3c23c504b5af77
 bytes: 3176840
 sidor: 42
-hamtad: 2026-10-08T02:05:16+00:00
-konverterad: 2026-10-08T02:05:42+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T09:45:19+00:00
+konverterad: 2026-10-14T09:45:44+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ok, ok, ok]
 tal_obekraftade: [9, 10, 13, 15, 39]
-figurer: null
-tolkade: null
+figurer: [30, 34, 35]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1268,6 +1268,14 @@ föregående års femårsplan. De blåvita kolumnerna avser den aktuella begära
 kommande fem år. De orange kolumnerna kommer från föregående års
 investeringsbegäran och beslut i KF.
 
+Total
+KF Beslut Begäran                Totalt begäran
+Service Fastigheter [belopp i mkr] 2024 2024 2025 2026 2027 2028 2029 2025-2029 2024-2028
+Löpande investeringar        1,0 1,0 1,0 0,0 0,0 0,0   2,0     2,5
+Verksamhetsanpassningar 5,0  7,0 5,0 5,0 5,0 5,0 5,0   25,0   35,0
+Reinvesteringar        50,0  60,0 65,0 70,0 75,0 80,0 85,0 375,0 300,0
+Totalt per år          55,0  68,0 71,0 76,0 80,0 85,0 90,0 402,0 337,5
+
 Utblicksår 6–10 samt totala 10-årsperioden
 
 Nytt från förra årets är att det även skall göras en långtidsplan på tio år. Det innebär
@@ -1281,30 +1289,21 @@ Kungsbacka kommun              Styrande dokument                5 (5)
 
 [Tabell 30-1](handlingar.tabeller/30-1.csv)
 
-| Service Fastigheter [belopp i mkr] | 2025 2026 2027 2028 2029 |  |  |  |  | Totalt<br>2025-2029 |
+| Service Fastigheter [belopp i mkr] | 2025 | 2026 | 2027 | 2028 | 2029 | Totalt<br>2025-2029 |
 | --- | --- | --- | --- | --- | --- | --- |
-| Löpande investeringar | 1,0 1,0 0,0 0,0 0,0 |  |  |  |  | 2,0 |
+| Löpande investeringar | 1,0 | 1,0 | 0,0 | 0,0 | 0,0 | 2,0 |
 | Verksamhetsanpassningar | 5,0 | 5,0 | 5,0 | 5,0 | 5,0 | 25,0 |
-| Reinvesteringar | 65,0 70,0 75,0 80,0 85,0 |  |  |  |  | 375,0 |
-| Totalt per år | 71,0 76,0 80,0 85,0 90,0 |  |  |  |  | 402,0 |
+| Reinvesteringar | 65,0 | 70,0 | 75,0 | 80,0 | 85,0 | 375,0 |
+| Totalt per år | 71,0 | 76,0 | 80,0 | 85,0 | 90,0 | 402,0 |
 
 [Tabell 30-2](handlingar.tabeller/30-2.csv)
 
-| Service Fastigheter [belopp i mkr] | KF Beslu<br>202 | t Begära<br>4 202 | n<br>4 2025 2026 2027 2028 2029 |  |  |  |  | Totalt<br>2025-2029 | Total<br>begäran<br>2024-2028 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Löpande investeringar |  | 1, | 0 1,0 1,0 0,0 0,0 0,0 |  |  |  |  | 2,0 | 2,5 |
-| Verksamhetsanpassningar | 5, | 0 7, | 0 5,0 | 5,0 | 5,0 | 5,0 | 5,0 | 25,0 | 35,0 |
-| Reinvesteringar | 50, | 0 60, | 0 65,0 70,0 75,0 80,0 85,0 |  |  |  |  | 375,0 | 300,0 |
-| Totalt per år | 55, | 0 68, | 0 71,0 76,0 80,0 85,0 90,0 |  |  |  |  | 402,0 | 337,5 |
-
-[Tabell 30-3](handlingar.tabeller/30-3.csv)
-
-| Service Fastigheter [belopp i mkr] | 2030 2031 2032 2033 2034 |  |  |  |  | Totalt<br>2030-2034 |  | Totalt<br>2025-<br>2034 |
+| Service Fastigheter [belopp i mkr] | 2030 | 2031 | 2032 | 2033 | 2034 | Totalt<br>2030-2034 |  | Totalt<br>2025-<br>2034 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Löpande investeringar | 1,0 0,0 1,0 0,0 0,0 |  |  |  |  | 2,0 |  | 4,0 |
+| Löpande investeringar | 1,0 | 0,0 | 1,0 | 0,0 | 0,0 | 2,0 |  | 4,0 |
 | Verksamhetsanpassningar | 5,0 | 5,0 | 5,0 | 5,0 | 5,0 | 25,0 |  | 50,0 |
-| Reinvesteringar | 85,0 90,0 90,0 95,0 95,0 |  |  |  |  | 455,0 |  | 830,0 |
-| Totalt per år | 91,0 95,0 96,0 100,0 100,0 |  |  |  |  | 482,0 |  | 884,0 |
+| Reinvesteringar | 85,0 | 90,0 | 90,0 | 95,0 | 95,0 | 455,0 |  | 830,0 |
+| Totalt per år | 91,0 | 95,0 | 96,0 | 100,0 | 100,0 | 482,0 |  | 884,0 |
 
 <!-- sida 31 -->
 
@@ -1463,15 +1462,15 @@ Kungsbacka kommun              Styrande dokument                4 (5)
 
 [Tabell 34-1](handlingar.tabeller/34-1.csv)
 
-| Service [belopp i mkr] | 2025 2026 2027 2028 2029 |  |  |  |  | Totalt<br>2025-2029 |
+| Service [belopp i mkr] | 2025 | 2026 | 2027 | 2028 | 2029 | Totalt<br>2025-2029 |
 | --- | --- | --- | --- | --- | --- | --- |
-| Löpande investeringar lokalvård | 0,7 0,7 0,7 0,7 0,7 |  |  |  |  | 3,5 |
+| Löpande investeringar lokalvård | 0,7 | 0,7 | 0,7 | 0,7 | 0,7 | 3,5 |
 | Löpande investeringar SM | 3,0 | 3,0 | 3,0 | 3,0 | 3,0 | 15,0 |
-| Löpande investeringar måltid | 5,3 5,6 6,2 6,1 6,1 |  |  |  |  | 29,3 |
+| Löpande investeringar måltid | 5,3 | 5,6 | 6,2 | 6,1 | 6,1 | 29,3 |
 | Övriga investeringar måltid (köldmed | 7,2 | 7,2 | 7,2 | 7,8 | 7,8 | 37,2 |
-| Löpande investeringar IT | 11,9 0,4 0,6 1,0 25,9 |  |  |  |  | 39,8 |
+| Löpande investeringar IT | 11,9 | 0,4 | 0,6 | 1,0 | 25,9 | 39,8 |
 | Övriga investeringar IT | 8,0 | 6,0 | 2,0 | 2,0 | 5,0 | 23,0 |
-| Löpande investeringar skrivare | 1,5 1,4 1,6 1,2 1,4 |  |  |  |  | 7,1 |
+| Löpande investeringar skrivare | 1,5 | 1,4 | 1,6 | 1,2 | 1,4 | 7,1 |
 | Totalt | 37,6 | 24,3 | 21,3 | 21,8 | 49,9 | 154,9 |
 
 <!-- sida 35 -->
@@ -1484,20 +1483,23 @@ schablonmässigt. Det behövs inga behovsbeskrivningar för utblicksåren.
 Tillsammans utgör det en grund för kommunens långtidsplanering. Nedan tabell
 återger utblicksåren och slutligen den totala summan för tio års perioden.
 
+Totalt
+
+Totalt   2025-
+Service [belopp i mkr] 2030 2031 2032 2033 2034 2030-2034   2034
+Löpande investeringar lokalvård 0,7 0,7 0,7 0,7 0,7 3,5      7,0
+Löpande investeringar SM 3,0 3,0  3,0  3,0  3,0    15,0     30,0
+Löpande investeringar måltid 6,1 6,1 6,1 6,1 6,1   30,5     59,8
+Övriga investeringar måltid (köldm 7,8 7,8 7,8 7,8 7,8 39,0 76,2
+
+```osaker-tabell
+Löpande investeringar IT 5,0 5,3  3,8 14,4  7,1    35,6     75,4
+Övriga investeringar IT 6,0  2,0  2,0  0,0  2,5    12,5     35,5
+Löpande investeringar skrivare 1,4 1,4 1,4 1,4 1,4  7,0     14,1
+Totalt                 30,0 26,3 24,8 33,4 28,6   143,1    298,0
+```
+
 Kungsbacka kommun              Styrande dokument                5 (5)
-
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
-
-| Service [belopp i mkr] 2030 2031 2032 2033 2034 |  |  |  |  |  | Totalt<br>2030-2034 |  | Totalt<br>2025-<br>2034 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Löpande investeringar lokalvård 0,7 0,7 0,7 0,7 0,7 |  |  |  |  |  | 3,5 |  | 7,0 |
-| Löpande investeringar SM | 3,0 | 3,0 | 3,0 | 3,0 | 3,0 | 15,0 |  | 30,0 |
-| Löpande investeringar måltid 6,1 6,1 6,1 6,1 6,1 |  |  |  |  |  | 30,5 |  | 59,8 |
-| Övriga investeringar måltid (köldm | 7,8 | 7,8 | 7,8 | 7,8 | 7,8 | 39,0 |  | 76,2 |
-| Löpande investeringar IT 5,0 5,3 3,8 14,4 7,1 |  |  |  |  |  | 35,6 |  | 75,4 |
-| Övriga investeringar IT | 6,0 | 2,0 | 2,0 | 0,0 | 2,5 | 12,5 |  | 35,5 |
-| Löpande investeringar skrivare 1,4 1,4 1,4 1,4 1,4 |  |  |  |  |  | 7,0 |  | 14,1 |
-| Totalt | 30,0 | 26,3 | 24,8 | 33,4 | 28,6 | 143,1 |  | 298,0 |
 
 <!-- sida 36 -->
 

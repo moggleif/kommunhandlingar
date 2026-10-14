@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.71420817195b24e1cbe75dbb/1742800755
 sha256: 90a5d09a6c080571ed90dd5d79067094797d31c267d0514c4c93fd73dbf189eb
 bytes: 1746508
 sidor: 36
-hamtad: 2026-10-08T02:11:12+00:00
-konverterad: 2026-10-08T02:11:20+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T09:50:29+00:00
+konverterad: 2026-10-14T09:50:36+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [6]
+figurer: [3, 6, 7]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1166,18 +1166,45 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (3)
 
-[Tabell 28-1](handlingar.tabeller/28-1.csv)
+(Nämnden för Förskola   2025-02-26 SE-2025-00064 Volymanpassning
+&Grundskola) (Beslut § 15)                     förskoleplatser Centrum Väst
+Volymanpassning förskoleplatser                (FG-2025-00052)
+Centrum Väst
 
-| (Nämnden för Förskola<br>&Grundskola) (Beslut § 15)<br>Volymanpassning förskoleplatser<br>Centrum Väst | 2025-02-26 | SE-2025-00064 | Volymanpassning<br>förskoleplatser Centrum Väst<br>(FG-2025-00052) |
-| --- | --- | --- | --- |
-| För & Grundskola<br>Tjänsteskrivelse<br>Volymanpassning förskoleplatser<br>Centrum väst | 2025-02-26 | SE-2025-00064 | Volymanpassning<br>förskoleplatser Centrum Väst<br>(FG-2025-00052) |
-| Volymanpassning förskoleplatser<br>Centrum väst - Utredning | 2025-02-26 | SE-2025-00064 | Volymanpassning<br>förskoleplatser Centrum Väst<br>(FG-2025-00052) |
-| Volymanpassning förskoleplatser<br>Centrum Väst -<br>Barnkonsekvensanalys | 2025-02-26 | SE-2025-00064 | Volymanpassning<br>förskoleplatser Centrum Väst<br>(FG-2025-00052) |
-| (Kommunfullmäktige)<br>(Beslut § 33)<br>Fastställande av<br>koncernbudget 2025 | 2025-03-13 | SE-2025-00093 | Fastställande av<br>koncernbudget 2025 |
-| (Kommunstyrelsen)<br>(Tjänsteskrivelse)<br>koncernbudget 2025 | 2025-03-13 | SE-2025-00093 | Fastställande av<br>koncernbudget 2025 |
-| Kommunbudget 2025<br>plan 2026-2027 antagen av<br>kommunfullmäktige<br>2024-06-13 § 91 | 2025-03-13 | SE-2025-00093 | Fastställande av<br>koncernbudget 2025 |
-| Eksta Budget 2025 | 2025-03-13 | SE-2025-00093 | Fastställande av<br>koncernbudget 2025 |
-| Eksta investeringar och<br>lånebehov 2025-2027 | 2025-03-13 | SE-2025-00093 | Fastställande av<br>koncernbudget 2025 |
+För & Grundskola        2025-02-26 SE-2025-00064 Volymanpassning
+Tjänsteskrivelse                               förskoleplatser Centrum Väst
+Volymanpassning förskoleplatser                (FG-2025-00052)
+
+Centrum väst
+Volymanpassning förskoleplatser 2025-02-26 SE-2025-00064 Volymanpassning
+
+Centrum väst - Utredning                       förskoleplatser Centrum Väst
+(FG-2025-00052)
+
+Volymanpassning förskoleplatser 2025-02-26 SE-2025-00064 Volymanpassning
+Centrum Väst -                                 förskoleplatser Centrum Väst
+Barnkonsekvensanalys                           (FG-2025-00052)
+
+(Kommunfullmäktige)     2025-03-13 SE-2025-00093 Fastställande av
+(Beslut § 33)                                  koncernbudget 2025
+Fastställande av
+koncernbudget 2025
+
+(Kommunstyrelsen)       2025-03-13 SE-2025-00093 Fastställande av
+(Tjänsteskrivelse)                             koncernbudget 2025
+
+koncernbudget 2025
+Kommunbudget 2025       2025-03-13 SE-2025-00093 Fastställande av
+
+plan 2026-2027 antagen av                      koncernbudget 2025
+kommunfullmäktige
+2024-06-13 § 91
+
+Eksta Budget 2025       2025-03-13 SE-2025-00093 Fastställande av
+koncernbudget 2025
+
+Eksta investeringar och 2025-03-13 SE-2025-00093 Fastställande av
+lånebehov 2025-2027                            koncernbudget 2025
 
 <!-- sida 29 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4b3871f619594d48d2455a2c/1742197806
 sha256: 44d3f899cd5862dce290fae7ab4ce3b72d785535aff3f1b014df5a906136901b
 bytes: 14029791
 sidor: 576
-hamtad: 2026-10-07T22:52:30+00:00
-konverterad: 2026-10-07T22:53:54+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T07:01:34+00:00
+konverterad: 2026-10-14T07:02:43+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [19, 565]
-figurer: null
-tolkade: null
+figurer: [18, 25, 360, 361, 375, 383, 392, 393, 394, 396, 397, 483, 552]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -996,24 +996,20 @@ bättre möter deras behov.
 | --- | --- |
 | Individuella åtgärdsprogram:<br>- Elever får mer inflytande över sin skolgång<br>genom regelbundna samtal med lärare och<br>vårdnadshavare. | Elever kan känna sig överkörda:<br>- Om beslut om placering i resursskola fattas<br>utan elevens egen röst kan det skapa<br>motstånd och ovilja. |
 
-[Tabell 29-2](handlingar.tabeller/29-2.csv)
+[Tabell 29-30-2](handlingar.tabeller/29-30-2.csv)
 
 | Positiva konsekvenser | Negativa konsekvenser |
 | --- | --- |
 | Bättre anpassad undervisning<br>- Mindre elevgrupper och fler vuxna per elev<br>skapar förutsättningar för anpassad<br>undervisning<br>- Större möjlighet att individanpassa<br>undervisningen utifrån elevens behov | Risk för social exkludering<br>- En placering i resursskola kan göra att<br>eleven tappar kontakten med jämnåriga i<br>ordinarie skola.<br>- Om återgång till vanlig skola inte planeras<br>väl, kan eleven uppleva sig utanför och<br>annorlunda. |
 | Mindre stress och bättre arbetsmiljö<br>- Många elever som upplever skolmiljön som<br>stressande kan få en lugnare och tryggare<br>miljö i en resursskola.<br>- Mindre sensoriska intryck och färre sociala<br>krav kan göra det lättare att fokusera på<br>skolarbetet | Stigmat kring att gå i resursskola<br>- Vissa elever kan uppleva en negativ<br>stämpel och känna sig annorlunda jämfört<br>med elever i den ordinarie skolan.<br>- Det kan påverka självbild och motivation<br>om eleven ser resursskolan som en<br>"särskild skola för misslyckade elever". |
 | Stärkt självkänsla och ökad skolframgång<br>- Elever som tidigare misslyckats i skolan<br>kan genom ökat stöd uppleva större<br>motivation och självförtroende.<br>- Möjlighet att jobba i egen takt och få<br>positiv återkoppling kan minska<br>skolfrånvaro och öka chanserna att nå<br>kunskapsmålen. | Begränsad tillgång till sociala och ämnesmässiga<br>utmaningar<br>- Om undervisningen inte är tillräckligt<br>utmanande kan elever riskera att få lägre<br>akademiska förväntningar.<br>- Färre elever och specialiserade upplägg kan<br>innebära mindre variation i undervisningen<br>och färre möjligheter till ämnesfördjupning. |
-
-<!-- sida 30 -->
-
-[Tabell 30-1](handlingar.tabeller/30-1.csv)
-
 | Tydligare struktur och specialiserad personal<br>- Resursskolor med specialkompetens inom<br>specialpedagogik, beteendeproblematik och<br>individanpassad undervisning<br>- Tydliga rutiner och individuella<br>åtgärdsprogram hjälper elever med behov<br>av struktur och förutsägbarhet. | Svårigheter vid önskemål om återgång till ordinarie<br>skola<br>- Om eleven senare önskar gå tillbaka till en<br>vanlig skola kan det bli svårt att anpassa sig<br>till större grupper och högre krav.<br>- En bristfällig övergångsplan till vanlig<br>skola kan göra att eleven tappar de framsteg<br>som gjorts i resursskolan. |
-| --- | --- |
 | Resursfördelning och omfördelning av budget<br>- Resursskolan kan avlasta kostnader inom<br>övriga skolor, särskilt om elever med större<br>behov får bättre anpassat stöd i<br>resursskolan. På sikt kan detta minska<br>behovet av individuella insatser i varje<br>enskild skola. | Resursfördelning och omfördelning av budget<br>- När en resursskola inrättas kan det kräva att<br>en del av utbildningsbudgeten öronmärks<br>för den nya verksamheten. Detta kan<br>innebära att mindre medel fördelas till<br>övriga grundskolor om den totala budgeten<br>inte ökas proportionerligt. |
 | Personalkostnader och kompetensförsörjning<br>- Specialiserad personal, till exempel extra<br>ordinärt skickliga lärare, specialpedagoger,<br>psykologer, kuratorer, elevassistenter som<br>tidigare varit kopplad till flera skolor kan<br>omfördelas till resursskolan. | Personalkostnader och kompetensförsörjning<br>- För de ordinarie grundskolorna kan detta<br>kortsiktigt leda till personalbrist inom vissa<br>kompetensområden om inte kommunen<br>justerar med nyrekryteringar eller<br>kompetensutveckling. |
 | Minskade kringkostnader i övriga skolor<br>- När elever med omfattande behov får stöd<br>på en resursskola kan övriga skolor<br>potentiellt minska sina kringkostnader<br>exempelvis extra elevassistenter,<br>anpassningar av lokaler mm | Ökade kringkostnader i övriga skolor<br>- Det kan förekomma ökad administration<br>eller transportkostnader om elever måste<br>resa till resursskolan i stället för att få stöd i<br>sin hemskola |
 | Långsiktiga samhälls- och utbildningsvinster<br>- Elever som får mer skräddarsytt stöd kan i<br>många fall utvecklas bättre och snabbare,<br>vilket på sikt kan leda till högre skolresultat<br>och mindre resurskrävande stödinsatser i<br>senare skolår.<br>- Detta kan i ett längre perspektiv innebära<br>minskade kostnader för den kommunala<br>skolan totalt sett, om resursskolan verkligen<br>lyckas ge eleverna den hjälp de behöver<br>från tidig ålder. |  |
+
+<!-- sida 30 -->
 
 <!-- sida 31 -->
 
@@ -11666,12 +11662,7 @@ för de nya kraven inklusive utvecklingsarbetet under 2026.
 Tabell 6.1 Uppskattad kostnad 2026 och 2027 (kommunala och fristående
 skolor) för krav på konsekvensplan och förväntansdokument
 inkl. kommunikationsinsatser (miljoner kronor)
-Skolform            2026          2027
-Grundskolan         64,1          43,8
-Anpassade grundskolan 8,2          5,6
-Gymnasieskolan      18,4          12,6
-Anpassade gymnasieskolan 3,3       2,3
-Totalt              94,0          64,3
+
 Källa: Utredningens beräkningar.
 
 De nya kraven på konsekvensplan och förväntansdokument för-
@@ -11682,6 +11673,16 @@ väntas generera kostnader om sammanlagt 94 miljoner kronor
 7 Skolverket, 2024k.
 
 229
+
+[Tabell 270-1](handlingar.tabeller/270-1.csv)
+
+| Skolform | 2026 | 2027 |
+| --- | --- | --- |
+| Grundskolan | 64,1 | 43,8 |
+| Anpassade grundskolan | 8,2 | 5,6 |
+| Gymnasieskolan | 18,4 | 12,6 |
+| Anpassade gymnasieskolan | 3,3 | 2,3 |
+| Totalt | 94,0 | 64,3 |
 
 <!-- sida 271 -->
 
@@ -11757,12 +11758,7 @@ visar vår uppskattning av kostnader för 2026 och 2027.
 Tabell 6.2 Uppskattad kostnad 2026 och 2027 (kommunala och
 fristående skolor) för förlängning av tid för disciplinära
 åtgärder (miljoner kronor)
-Skolform            2026          2027
-Grundskolan         16,0           32,9
-Anpassade grundskolan 4,4          9,1
-Gymnasieskolan      1,5            3,0
-Anpassade gymnasieskolan 1,3       2,6
-Totalt              23,2           47,6
+
 Källa: Utredningens beräkningar.
 
 Förlängningen av disciplinära åtgärder beräknas rendera kostnader
@@ -11779,6 +11775,16 @@ en plan för återgång har vi beräknat att detta arbete tar en och en halv
 9 Skolverket, 2024l.
 
 231
+
+[Tabell 272-1](handlingar.tabeller/272-1.csv)
+
+| Skolform | 2026 | 2027 |
+| --- | --- | --- |
+| Grundskolan | 16,0 | 32,9 |
+| Anpassade grundskolan | 4,4 | 9,1 |
+| Gymnasieskolan | 1,5 | 3,0 |
+| Anpassade gymnasieskolan | 1,3 | 2,6 |
+| Totalt | 23,2 | 47,6 |
 
 <!-- sida 273 -->
 
@@ -11798,11 +11804,7 @@ ningar för 2026 och 2027 framgår av tabell 6.3.
 Tabell 6.3 Uppskattad kostnad 2026 och 2027 (kommunala och fristående
 skolor) för plan för återgång vid placering (miljoner kronor)10
 Skolform              2026         2027
-Grundskolan           2,5           5,1
-Anpassade grundskolan 0,2           0,3
-Gymnasieskolan        0,4           0,7
-Anpassade gymnasieskolan 0,1        0,1
-Totalt                3,2           6,2
+
 Källa: Utredningens beräkningar.
 
 Införande av krav på plan för återgång beräknas leda till ökade
@@ -11825,6 +11827,15 @@ arna för lokal utveckling av frånvarouppföljning.
 10 Kostnader för 2026 utgår från ikraftträdande den 1 juli 2026.
 
 232
+
+[Tabell 273-1](handlingar.tabeller/273-1.csv)
+
+| Grundskolan | 2,5 | 5,1 |
+| --- | --- | --- |
+| Anpassade grundskolan | 0,2 | 0,3 |
+| Gymnasieskolan | 0,4 | 0,7 |
+| Anpassade gymnasieskolan | 0,1 | 0,1 |
+| Totalt | 3,2 | 6,2 |
 
 <!-- sida 274 -->
 
@@ -16326,12 +16337,17 @@ Egenkontroller utförda under 2024
 | Patientens klagomål och<br>synpunkter | Fortlöpande | IVO, avvikelsehanteringssystemet,<br>direktkontakt |
 | Kvalitetsgranskning<br>Läkemedelshantering | 1 /år | Verksamhetschef/Extern granskare |
 
-[Tabell 378-2](handlingar.tabeller/378-2.csv)
+[Tabell 378-379-2](handlingar.tabeller/378-379-2.csv)
 
 | Egenkontroll<br>EPI/Psykologer | Omfattning | Källa |
 | --- | --- | --- |
 | Avvikelser | Fortlöpande | Avvikelsehantering Prorenta |
 | Granskning av loggar | 1 gång/månad | /PLA/Systemförvaltare |
+| Journalgranskning | Fortlöpande | Prorenata/PLA |
+| Patientens klagomål och<br>synpunkter | Fortlöpande | IVO, avvikelsehanteringssystemet,<br>direktkontakt |
+| Granskning av<br>psykologutredningar av<br>konsult | Stickprov | Prorenta av PLA |
+| Granskning av<br>psykologutredningar av<br>psykolog i kommun | Genomgång<br>med samtliga<br>psykologer | Intervju med psykolog utifrån<br>dokumenterade psykologutredningar |
+| Tillgång till psykolog | Ett tillfälle | Verksamhetsstatistik och intervju med<br>psykolog |
 
 <!-- sida 379 -->
 
@@ -16339,20 +16355,13 @@ Resultat gällande identifierade mål för 2024
 
 20
 
-[Tabell 379-1](handlingar.tabeller/379-1.csv)
-
-| Journalgranskning | Fortlöpande | Prorenata/PLA |
-| --- | --- | --- |
-| Patientens klagomål och<br>synpunkter | Fortlöpande | IVO, avvikelsehanteringssystemet,<br>direktkontakt |
-| Granskning av<br>psykologutredningar av<br>konsult | Stickprov | Prorenta av PLA |
-| Granskning av<br>psykologutredningar av<br>psykolog i kommun | Genomgång<br>med samtliga<br>psykologer | Intervju med psykolog utifrån<br>dokumenterade psykologutredningar |
-| Tillgång till psykolog | Ett tillfälle | Verksamhetsstatistik och intervju med<br>psykolog |
-
-[Tabell 379-2](handlingar.tabeller/379-2.csv)
+[Tabell 379-380-1](handlingar.tabeller/379-380-1.csv)
 
 | Mål 1.<br>Fortsätta utforma och<br>säkerställa dokumentation på<br>ett patientsäkert sätt i det<br>nya<br>journalsystemet/Prorenata<br>Under 2024 är det ur ett<br>patientsäkerhetsperspektiv av<br>stor betydelse att vi<br>säkerställer och fortsätter<br>arbetet med journalsystemet<br>och journalföring på bästa sätt<br>både i EMI journal samt<br>psykologjournal. | Strategi/er<br>Kontinuerlig<br>utbildning/information om<br>systemet på<br>kategorimöten.<br>Revidera och ändra mallar i<br>systemet efter behov, gäller<br>både ny utformning samt<br>borttagande av verktyg<br>som ej hjälper i vårt<br>uppdrag. (Möjligheter för<br>detta finns)<br>Lägga till nya<br>funktioner/integrationer i<br>systemet som gagnar<br>patientsäkerhet. | Åtgärd<br>Utbildning/diskussion har<br>genomförts systematiskt<br>varje månad vid<br>kategorimöten HSL.<br>Revideringar samt<br>framtagande av nya<br>mallar har skett vid flertal<br>tillfällen under året.<br>Metodstödsbiblioteket<br>(PM/Riktlinjer/rutiner) är<br>komplett i<br>journalsystemet<br>Nya integrationer samt<br>digitala lösningar har<br>tillkommit som både<br>gagnar patientsäkerhet<br>och processer. | Resultat<br>HSL personal blivit<br>säkrare och<br>numer<br>dokumenterar<br>med god tillförlit<br>till systemet.<br>Metodstöd hittas<br>lätt i det nya<br>journalsystemet,<br>där EMI:/EPI<br>rutiner och<br>dokument finns<br>strukturerat<br>sorterade.<br>Webbportalen har<br>utökats med mer<br>tjänster som<br>underlättar för<br>elever/VH och<br>personal | Analys<br>1. |
 | --- | --- | --- | --- | --- |
 | Mål 2.<br>Implementering av<br>sammanhållen journalföring<br>(NPÖ), producent/konsument<br>(Medicinska journalen)<br>Under 2024 kommer<br>anslutning ske och att det sker<br>på ett patientsäkert sätt och<br>att alla krav uppfylls är av stor<br>vikt samt att vi kommer starta | Strategi/er<br>Informationskampanj inför<br>start av NPÖ producenter<br>så att alla krav uppfylls<br>(Sker ihop med<br>kommunikatör)<br>Påbörja ansökan/underlag<br>för att kunna konsumera<br>uppgifter från NPÖ | Åtgärd<br>Information ut till<br>alla skolor, elever,<br>vårdnadshavare har<br>genomförts via<br>affischer, V-klass,<br>Information på<br>Kommunens<br>hemsida.<br>Information om<br>spärr finns tydligt att<br>tillgå. | Resultat<br>Start av<br>produktion till<br>NPÖ<br>genomförde<br>1/4 2024 utan<br>några<br>störningar. | Analys<br>2 |
+| arbetet med att ansluta oss<br>som konsumenter under<br>2024, vilket för vår<br>verksamhet innebär högre<br>patientsäkerhet. |  | Riktlinjer för NPÖ<br>skapade enligt krav.<br>(Loggkontroller,<br>spärr, samtycke osv)<br>Ansökan för att<br>konsumera uppgifter<br>är inledd<br>tillsammans med<br>klient (prorenata) |  |  |
+| Mål 3.<br>Översyn /revidering av<br>ledningssystem Elevhälsans<br>medicinska insats.<br>I 3 kap. 1 § SOSFS 2011:9<br>anges att vårdgivaren ansvarar<br>för att det finns ett<br>ledningssystem för de insatser<br>inom elevhälsan som omfattas<br>av hälso- och sjukvårdslagen.<br>Ledningssystemet skall ses<br>över och revideras beroende<br>på hur verksamheten<br>organiserar ledningen inom<br>hälso och sjukvården utifrån<br>ett vårdgivaransvar | Strategi/er<br>Verksamhetschef enligt HSL<br>ser över och reviderar<br>ledningssystemet.<br>Anpassa systemet efter nya<br>förutsättningar (organisation<br>samt dokumentationssystem<br>för HSL) | Åtgärd<br>Revidering av<br>ledningssystem<br>utfört | Resultat<br>Fastställd av<br>nämnd januari<br>2025 | Analys<br>3 |
 
 <!-- sida 380 -->
 
@@ -16376,12 +16385,6 @@ synpunkter kommer även de fram på detta sätt genom skolsköterskan och kan p�
 utifrån ett medborgarperspektiv.
 
 21
-
-[Tabell 380-1](handlingar.tabeller/380-1.csv)
-
-| arbetet med att ansluta oss<br>som konsumenter under<br>2024, vilket för vår<br>verksamhet innebär högre<br>patientsäkerhet. |  | Riktlinjer för NPÖ<br>skapade enligt krav.<br>(Loggkontroller,<br>spärr, samtycke osv)<br>Ansökan för att<br>konsumera uppgifter<br>är inledd<br>tillsammans med<br>klient (prorenata) |  |  |
-| --- | --- | --- | --- | --- |
-| Mål 3.<br>Översyn /revidering av<br>ledningssystem Elevhälsans<br>medicinska insats.<br>I 3 kap. 1 § SOSFS 2011:9<br>anges att vårdgivaren ansvarar<br>för att det finns ett<br>ledningssystem för de insatser<br>inom elevhälsan som omfattas<br>av hälso- och sjukvårdslagen.<br>Ledningssystemet skall ses<br>över och revideras beroende<br>på hur verksamheten<br>organiserar ledningen inom<br>hälso och sjukvården utifrån<br>ett vårdgivaransvar | Strategi/er<br>Verksamhetschef enligt HSL<br>ser över och reviderar<br>ledningssystemet.<br>Anpassa systemet efter nya<br>förutsättningar (organisation<br>samt dokumentationssystem<br>för HSL) | Åtgärd<br>Revidering av<br>ledningssystem<br>utfört | Resultat<br>Fastställd av<br>nämnd januari<br>2025 | Analys<br>3 |
 
 <!-- sida 381 -->
 
@@ -18519,7 +18522,7 @@ Klassificerin gsstruktur     Sida 2 av 8
 
 Klassificerin gsstruktur     Sida 1 av 8
 
-[Tabell 477-1](handlingar.tabeller/477-1.csv)
+[Tabell 477-481-1](handlingar.tabeller/477-481-1.csv)
 
 | 5.1 | Gemensam<br>skolverksamhet |  |
 | --- | --- | --- |
@@ -18535,15 +18538,7 @@ Klassificerin gsstruktur     Sida 1 av 8
 | 5.1.5.1 | Hantera avvikelser och anmälningar |  |
 | 5.1.6 | Tillhandahålla elevhälsa | Handlingarna inom elevhälsans insatser är<br>uppdelade efter dess olika professioner, då<br>dessa jobbar självständigt och har<br>sekretessplikt i förhållande till varandra.<br>Handlingarna inom respektive yrkeskategori<br>förtecknas senare separat.<br>Inom elevhälsan samlas all löpande<br>dokumentation som ska bevaras i<br>elevhälsans verksamhetssystem.<br>Pappershandlingar skannas antingen in i<br>systemet, eller så antecknas dess relevanta<br>uppgifter i journalen innan dessa gallras. |
 | 5.1.6.1 | Hantera patientsäkerhet |  |
-
-<!-- sida 478 -->
-
-Klassificerin gsstruktur     Sida 2 av 8
-
-[Tabell 478-1](handlingar.tabeller/478-1.csv)
-
 | 5.1.6.2 | Förebyggande och hälsofrämjande<br>insatser på grupp- och<br>organisationsnivå |  |
-| --- | --- | --- |
 | 5.1.6.3 | Tillhandahålla medicinska insatser |  |
 | 5.1.6.4 | Tillhandahålla psykologiska<br>insatser |  |
 | 5.1.6.5 | Tillhandahålla psykosociala<br>(kurativa) insatser |  |
@@ -18561,15 +18556,7 @@ Klassificerin gsstruktur     Sida 2 av 8
 |  |  |  |
 | 5.3 | PEDAGOGISK OMSORG |  |
 | 5.3.0 | Leda-Styra-Organisera |  |
-
-<!-- sida 479 -->
-
-Klassificerin gsstruktur     Sida 3 av 8
-
-[Tabell 479-1](handlingar.tabeller/479-1.csv)
-
 | 5.3.0.1 | Leda |  |
-| --- | --- | --- |
 | 5.3.0.2 | Styra |  |
 | 5.3.0.3 | Organisera |  |
 | 5.3.1 | Driva pedagogisk omsorg |  |
@@ -18587,15 +18574,7 @@ Klassificerin gsstruktur     Sida 3 av 8
 | 5.4.1.4 | Hantera utvecklingssamtal och<br>individuella utvecklingsplaner |  |
 | 5.4.1.5 | Ge modersmålsundervisning |  |
 | 5.4.1.6 | Upptäcka, utreda och tillgodose<br>behov av särskilt stöd |  |
-
-<!-- sida 480 -->
-
-Klassificerin gsstruktur     Sida 4 av 8
-
-[Tabell 480-1](handlingar.tabeller/480-1.csv)
-
 | 5.4.1.7 | Genomföra prov och sätta betyg |  |
-| --- | --- | --- |
 |  |  |  |
 | 5.5 | ANPASSAD<br>GRUNDSKOLA |  |
 | 5.5.0 | Leda-Styra-Organisera |  |
@@ -18613,15 +18592,7 @@ Klassificerin gsstruktur     Sida 4 av 8
 |  |  |  |
 | 5.6 | FRITIDSHEM |  |
 | 5.6.0 | Styra-Organisera |  |
-
-<!-- sida 481 -->
-
-Klassificerin gsstruktur     Sida 5 av 8
-
-[Tabell 481-1](handlingar.tabeller/481-1.csv)
-
 | 5.6.0.1 | Styra |  |
-| --- | --- | --- |
 | 5.6.0.2 | Organisera |  |
 | 5.6.1 | Driva fritidshem |  |
 | 5.6.1.1 | Driva fritidshem |  |
@@ -18630,6 +18601,22 @@ Klassificerin gsstruktur     Sida 5 av 8
 | 6.3 | Insatser för barn och<br>ungdomar |  |
 | 6.3.1 | Hantera insatser för barn<br>och ungdomar |  |
 | 6.3.1.1 | Hantera ansökan eller anmälan,<br>utreda och fatta beslut om insatser<br>för barn och ungdomar |  |
+
+<!-- sida 478 -->
+
+Klassificerin gsstruktur     Sida 2 av 8
+
+<!-- sida 479 -->
+
+Klassificerin gsstruktur     Sida 3 av 8
+
+<!-- sida 480 -->
+
+Klassificerin gsstruktur     Sida 4 av 8
+
+<!-- sida 481 -->
+
+Klassificerin gsstruktur     Sida 5 av 8
 
 <!-- sida 482 -->
 
@@ -19908,7 +19895,7 @@ Placera denna ruta sist i dokumentet:
 
 <!-- sida 553 -->
 
-[Tabell 553-1](handlingar.tabeller/553-1.csv)
+[Tabell 553-560-1](handlingar.tabeller/553-560-1.csv)
 
 |  |  |  |
 | --- | --- | --- |
@@ -19922,13 +19909,7 @@ Placera denna ruta sist i dokumentet:
 | 5.0.2.2 | Motverka kränkningar och hantera trygghet<br>och studiero |  |
 | 5.0.2.3 | Pröva behov av barnomsorg på kväll och helg |  |
 |  |  |  |
-
-<!-- sida 554 -->
-
-[Tabell 554-1](handlingar.tabeller/554-1.csv)
-
 | 5.1 |  |  |
-| --- | --- | --- |
 | 5.1.1 |  |  |
 | 5.1.1.1 | Hantera skolekonomiska frågor |  |
 | 5.1.2 |  |  |
@@ -19940,13 +19921,7 @@ Placera denna ruta sist i dokumentet:
 | 5.1.5 |  |  |
 | 5.1.5.1 | Hantera avvikelser och anmälningar |  |
 | 5.1.6 |  | Handlingarna inom elevhälsans insatser är uppdelade efter dess olika<br>professioner, då dessa jobbar självständigt och har sekretessplikt i |
-
-<!-- sida 555 -->
-
-[Tabell 555-1](handlingar.tabeller/555-1.csv)
-
 |  |  | förhållande till varandra. Handlingarna inom respektive yrkeskategori<br>förtecknas senare separat.<br>Inom elevhälsan samlas all löpande dokumentation som ska bevaras i<br>elevhälsans verksamhetssystem PMO. Pappershandlingar skannas<br>antingen in i systemet, eller så antecknas dess relevanta uppgifter i<br>journalen innan dessa gallras.<br>För asylsökande, gömda elever eller elever med skyddad identitet sker<br>däremot all dokumentation enbart i pappersform, och förvaras i<br>journalskåp i respektive skolas närarkiv. |
-| --- | --- | --- |
 | 5.1.6.1 | Hantera patientsäkerhet |  |
 | 5.1.6.2 | Förebyggande och hälsofrämjande insatser på<br>grupp- och organisationsnivå |  |
 | 5.1.6.3 | Tillhandahålla medicinska insatser |  |
@@ -19955,13 +19930,6 @@ Placera denna ruta sist i dokumentet:
 | 5.1.6.6 | Tillhandahålla skolledarinsatser |  |
 | 5.1.6.7 | Tillhandahålla specialpedagogiska insatser |  |
 | 5.1.6.8 | Tillhandahålla elevhälsans gemensamma<br>insatser | Handlingarna inom processen elevhälsans gemensamma insatser är, till<br>skillnad från de övriga, inte sekretesskyddad per profession. I denna<br>process har därmed elevhälsans samtliga yrkeskategorier tillgång. |
-
-<!-- sida 556 -->
-
-[Tabell 556-1](handlingar.tabeller/556-1.csv)
-
-|  |  |  |
-| --- | --- | --- |
 | 5.2 |  |  |
 | 5.2.0 |  |  |
 | 5.2.0.1 | Leda |  |
@@ -19973,13 +19941,7 @@ Placera denna ruta sist i dokumentet:
 | 5.3 |  |  |
 | 5.3.0 |  |  |
 | 5.3.0.1 | Leda |  |
-
-<!-- sida 557 -->
-
-[Tabell 557-1](handlingar.tabeller/557-1.csv)
-
 | 5.3.0.2 | Styra |  |
-| --- | --- | --- |
 | 5.3.0.3 | Organisera |  |
 | 5.3.1 |  |  |
 | 5.3.1.1 | Driva pedagogisk omsorg |  |
@@ -19991,13 +19953,7 @@ Placera denna ruta sist i dokumentet:
 | 5.4.0.3 | Förbereda och organisera studiegång |  |
 | 5.4.1 |  |  |
 | 5.4.1.1 | Anta och placera elev |  |
-
-<!-- sida 558 -->
-
-[Tabell 558-1](handlingar.tabeller/558-1.csv)
-
 | 5.4.1.2 | Registrera närvaro och förebygga<br>skolfrånvaro |  |
-| --- | --- | --- |
 | 5.4.1.3 | Hantera undervisning och praktik |  |
 | 5.4.1.4 | Hantera utvecklingssamtal och individuella<br>utvecklingsplaner |  |
 | 5.4.1.5 | Ge modersmålsundervisning |  |
@@ -20009,13 +19965,7 @@ Placera denna ruta sist i dokumentet:
 | 5.5.0.1 | Leda |  |
 | 5.5.0.2 | Styra |  |
 | 5.5.0.3 | Förbereda och organisera studiegång |  |
-
-<!-- sida 559 -->
-
-[Tabell 559-1](handlingar.tabeller/559-1.csv)
-
 | 5.5.1 |  |  |
-| --- | --- | --- |
 | 5.5.1.1 | Anta och placera elev |  |
 | 5.5.1.2 | Registrera närvaro och förebygga<br>skolfrånvaro |  |
 | 5.5.1.3 | Hantera undervisning och praktik |  |
@@ -20027,13 +19977,7 @@ Placera denna ruta sist i dokumentet:
 | 5.6 |  |  |
 | 5.6.0 |  |  |
 | 5.6.0.1 | Styra |  |
-
-<!-- sida 560 -->
-
-[Tabell 560-1](handlingar.tabeller/560-1.csv)
-
 | 5.6.0.2 | Organisera |  |
-| --- | --- | --- |
 | 5.6.1 |  |  |
 | 5.6.1.1 | Driva fritidshem |  |
 |  |  |  |
@@ -20041,6 +19985,20 @@ Placera denna ruta sist i dokumentet:
 | 6.3 |  |  |
 | 6.3.1 |  |  |
 | 6.3.1.1 | Hantera ansökan eller anmälan, utreda och<br>fatta beslut om insatser för barn och<br>ungdomar |  |
+
+<!-- sida 554 -->
+
+<!-- sida 555 -->
+
+<!-- sida 556 -->
+
+<!-- sida 557 -->
+
+<!-- sida 558 -->
+
+<!-- sida 559 -->
+
+<!-- sida 560 -->
 
 <!-- sida 561 -->
 
@@ -20541,7 +20499,7 @@ Delegeringsbeslut Prorenata 2025-02-07 -- 2025-03-11
 
 <!-- sida 575 -->
 
-[Tabell 575-1](handlingar.tabeller/575-1.csv)
+[Tabell 575-576-1](handlingar.tabeller/575-576-1.csv)
 
 | Ansökningsdatum | ÄrendeID | Delegering | Beslut |
 | --- | --- | --- | --- |
@@ -20583,13 +20541,7 @@ Delegeringsbeslut Prorenata 2025-02-07 -- 2025-03-11
 | 2025-02-17 00:00 | 0-20250217-<br>145008 | A 4.1 | Avslag |
 | 2025-02-17 14:40 | 186923 | A 4.1 | Avslag |
 | 2025-02-17 14:40 | 186926 | A 4.1 | Avslag |
-
-<!-- sida 576 -->
-
-[Tabell 576-1](handlingar.tabeller/576-1.csv)
-
 | 2025-02-17 20:40 | 187015 | A 4.1 | Avslag |
-| --- | --- | --- | --- |
 | 2025-02-17 21:48 | 187026 | A 4.1 | Avslag |
 | 2025-02-18 15:40 | 187187 | A 4.1 | Beviljad |
 | 2025-02-18 15:40 | 187187 | A 4.1 | Beviljad |
@@ -20622,3 +20574,5 @@ Delegeringsbeslut Prorenata 2025-02-07 -- 2025-03-11
 | 2025-03-06 14:16 | 190325 | A 4.1 | Beviljad |
 | 2025-03-07 00:00 | 0-20250310-<br>103646 | A 4.1 | Avslag |
 | 2025-03-10 00:08 | 190743 | A 4.1 | Beviljad |
+
+<!-- sida 576 -->

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.63015301961de6ca84abb55/17449678927
 sha256: 39cfdfaad41ab46959adef1fd6a88a8bac34da2b12bd71b96f06e7bc295b628b
 bytes: 6181977
 sidor: 117
-hamtad: 2026-10-08T07:38:00+00:00
-konverterad: 2026-10-08T07:38:23+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:36:06+00:00
+konverterad: 2026-10-14T10:36:27+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [34]
+figurer: [6, 16, 17, 18, 61, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -54,7 +54,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -62,23 +62,19 @@ KUNGSBACKA  KOMMUN
 | 4. | Information till nämnd:<br>offentlig konst<br>Föredragande: Peter Rudvall,<br>enhetschef Kultur & Besöksmål<br>1 st dokument<br>15 minuter | KFT-2025-<br>00077 | Nämnden noterar informationen till protokollet. |
 | 5. | Information till nämnd:<br>uppdatering kring<br>GoKungsbacka<br>Föredragande: Linda Ålander,<br>GoKungsbacka<br>1 st dokument<br>20 minuter | KFT-2025-<br>00085 | Nämnden noterar informationen till protokollet. |
 | 6. | Information till nämnd:<br>inriktningar stöd<br>Föredragande: Karl Persson,<br>förvaltningschef<br>1 st dokument<br>15 minuter | KFT-2025-<br>00088 | Nämnden noterar informationen till protokollet. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 |  | Paus |  |  |
 | 7. | Uppdrag för Hållbar hälsa<br>Föredragande: Andreas<br>Høgfeldt, enhetschef Förening<br>& Hållbar hälsa<br>2 st dokument<br>5 minuter | KFT-2025-<br>00083 | Nämnden för Kultur & Fritid beslutar om förändrat<br>uppdrag för enheten Hållbar hälsa (friskvårds- och<br>aktivitetsgrupperna). |
 | 8. | Granskning av föreningsbidrag,<br>hyressubventioner och jäv<br>Föredragande: Karl Persson,<br>förvaltningschef<br>2 st dokument<br>30 minuter | KFT-2025-<br>00084 | Nämnden antar förvaltningens svar. |
 | 9. | Redovisning av inkomna<br>skrivelser april 2025 | KFT-2025-<br>00086 | Nämnden noterar informationen till protokollet. |
 | 10. | Anmälan av delegeringsbeslut<br>april 2025 | KFT-2025-<br>00087 | Redovisning av delegeringsbeslut förtecknade i<br>protokoll 2025-04-23 godkänns. |
 | 11. | Revidering av<br>delegeringsförteckning<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>2 st dokument<br>5 minuter | KFT-2025-<br>00092 | Nämnden godkänner förvaltningens förslag på<br>revideringar. |
+| 12. | Förvaltningschefen informerar<br>Föredragande: Karl Persson,<br>förvaltningschef<br>1 st dokument<br>15 minuter | KFT-2025-<br>00080 | Nämnden noterar informationen till protokollet. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -88,12 +84,6 @@ KUNGSBACKA  KOMMUN
 
 Annika Hedman                     Erik Norinder
 ordförande                        sekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 12. | Förvaltningschefen informerar<br>Föredragande: Karl Persson,<br>förvaltningschef<br>1 st dokument<br>15 minuter | KFT-2025-<br>00080 | Nämnden noterar informationen till protokollet. |
 
 <!-- sida 5 -->
 
@@ -483,9 +473,9 @@ konsekvensbedömningen:
 
 9
 
-[Tabell 14-1](handlingar.tabeller/14-1.csv)
+[Tabell 14-15-1](handlingar.tabeller/14-15-1.csv)
 
-| Gjorda konsekvensbedömningar där yttrande lämnats<br>2021 2022 2023 2024 |  |  |  |
+| Gjorda konsekvensbedömningar där yttrande lämnats<br>2021 | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- |
 | Integrationsplattform<br>(SE) | Kontors- och<br>samarbetsverktyg (KS) | Stöd vid separationer<br>(IF) | Digitalt stöd för<br>medborgardialog (KS) |
 | Mitt Arkiv (KS) | Ansökan om stipendium –<br>e-tjänst (GA) | Specialkost (SE) | Specialkost (SE) |
@@ -494,6 +484,16 @@ konsekvensbedömningen:
 | Bedömningsstöd inom<br>gymnasieskolan (GA) | Hantering av<br>användarbehörigheter (SE) | Automatiserat avslut<br>av personakter (SE) | Kompletterande<br>kamerabevakning i<br>cykelgarage (TE) |
 | Färdtjänst – e-tjänst (TE) | Rapportering av<br>missförhållanden<br>(visselblåsarfunktion) (KS) | Analys- och<br>planeringsstöd inom<br>socialtjänsten (IF) | Kompletterande<br>kamerabevakning/digital<br>tillsyn (IF) |
 | Ekonomiskt bistånd – e-<br>tjänst (GA) | Digitalt stöd inom LSS (IF) | Säker posthantering<br>(digital/fysisk) (KS) | Elevhälsans medicinska<br>insats (FG), (GA) |
+| Orosanmälan – e-tjänst<br>(IF) | Anmälan om tillsyn enligt<br>plan- och bygglagen<br>(olovligheter) – e-tjänst<br>(BN) | Dokumentationsstöd<br>för individärenden<br>inom socialtjänst (IF) | Rekryteringstester (SE) |
+|  | Säker invånardialog (KS) | Digitalt stöd vid ASI-<br>utredning (IF) | Handläggningsstöd för<br>insatser inom<br>socialtjänst i form av<br>arbetsmarknadsinsatser<br>och etablerings- och<br>försörjningsstöd (GA) |
+|  | Stopp-möte (KFT) | Säker arbetsyta för<br>tillfällig hantering av<br>känslig information8<br>(KS) | Behovsanalys kopplat till<br>aktivitetsbaserade<br>arbetsplatser (SE) |
+|  | Hantering av skyddade<br>personuppgifter vid<br>handläggning inom<br>socialtjänsten (IF) |  |  |
+|  | Samtalsstöd för barn och<br>unga inom socialtjänsten<br>(IF) |  |  |
+|  | Analys- och planeringsstöd<br>inom socialtjänsten (IF/VO) |  |  |
+|  | E-underskrifter (KS) |  |  |
+|  | Pulsmätning av<br>arbetsmiljön (KS) |  |  |
+|  | Gästnätverk (SE) |  |  |
+|  | Uppföljning av<br>verksamhetsservice per<br>fastighetsobjekt (SE) |  |  |
 
 <!-- sida 15 -->
 
@@ -513,20 +513,6 @@ incidenter i en verksamhet som hanterar stora mängder personuppgifter väcker f
 finns rutiner. I sammanhanget ska det också sägas att många rapporterade och hanterade incidenter
 
 8 Tröskelanalys                                                 10
-
-[Tabell 15-1](handlingar.tabeller/15-1.csv)
-
-| Orosanmälan – e-tjänst<br>(IF) | Anmälan om tillsyn enligt<br>plan- och bygglagen<br>(olovligheter) – e-tjänst<br>(BN) | Dokumentationsstöd<br>för individärenden<br>inom socialtjänst (IF) | Rekryteringstester (SE) |
-| --- | --- | --- | --- |
-|  | Säker invånardialog (KS) | Digitalt stöd vid ASI-<br>utredning (IF) | Handläggningsstöd för<br>insatser inom<br>socialtjänst i form av<br>arbetsmarknadsinsatser<br>och etablerings- och<br>försörjningsstöd (GA) |
-|  | Stopp-möte (KFT) | Säker arbetsyta för<br>tillfällig hantering av<br>känslig information8<br>(KS) | Behovsanalys kopplat till<br>aktivitetsbaserade<br>arbetsplatser (SE) |
-|  | Hantering av skyddade<br>personuppgifter vid<br>handläggning inom<br>socialtjänsten (IF) |  |  |
-|  | Samtalsstöd för barn och<br>unga inom socialtjänsten<br>(IF) |  |  |
-|  | Analys- och planeringsstöd<br>inom socialtjänsten (IF/VO) |  |  |
-|  | E-underskrifter (KS) |  |  |
-|  | Pulsmätning av<br>arbetsmiljön (KS) |  |  |
-|  | Gästnätverk (SE) |  |  |
-|  | Uppföljning av<br>verksamhetsservice per<br>fastighetsobjekt (SE) |  |  |
 
 <!-- sida 16 -->
 
@@ -3384,7 +3370,7 @@ protokollen.
 
 17
 
-[Tabell 85-1](handlingar.tabeller/85-1.csv)
+[Tabell 85-87-1](handlingar.tabeller/85-87-1.csv)
 
 | Revisionsfrågor | Bedömning |
 | --- | --- |
@@ -3395,21 +3381,20 @@ protokollen.
 | Genomförs kontroller (i dokumentation<br>och på plats) av föreningsbidrag för att<br>säkerställa följsamhet utifrån krav på<br>stödberättigande? | Nej. Det saknas dokumenterade rutiner för att<br>säkerställa föreningars följsamhet utifrån ställda krav.<br>Som ovan nämnts har det därtill enbart funnits ett fåtal<br>krav. Enligt uppgift sker en löpande dialog med<br>föreningar för att följa upp hur deras verksamheter<br>fortlöper. Det genomförs inga stickprovskontroller för<br>att kontrollera föreningarnas följsamhet utifrån ställda<br>krav. |
 | Hur kravställer och kontrolleras att barn-<br>och ungdomsföreningar efterlever<br>barnkonventionen? | Under 2024 har inga krav ställts på att barn- och<br>ungdomsföreningar ska efterleva barnkonventionen.<br>Under 2024 har det inte funnits krav som säkerställer<br>att föreningar efterlever barnkonventionens samtliga<br>delar. |
 | Framgår det om hur enskilda bidrag<br>ska/inte ska användas, bland annat<br>avseende elitinriktad verksamhet? | Nej. Bidragssystemet innehåller inte någon<br>information om hur enskilda bidrag får/inte får<br>användas. Det finns inget tydligt krav om att bidrag<br>inte får användas till elitinriktad verksamhet. |
-
-<!-- sida 86 -->
-
-18
-
-[Tabell 86-1](handlingar.tabeller/86-1.csv)
-
 | Finns krav på redovisning och finansiell<br>återrapportering kring vad<br>föreningsbidragen används till? | Nej. I bidragssystemet framgår inga krav på att<br>föreningar ska redovisa eller återrapportera vad<br>utbetalda bidrag har använts till. |
-| --- | --- |
 | Finns rutiner för att stänga av föreningar<br>från stöd samt rutiner för återbetalning av<br>utbetalda medel när felaktig information<br>lämnats eller på grund av bristande<br>efterlevnad av krav? | Nej. Det saknas dokumenterade rutiner för hur och<br>när återbetalning av utbetalda bidrag är aktuellt.<br>Vidare saknas det en dokumenterad rutin för att<br>stänga av föreningar från stöd. |
 | Bedömningar avseende hyressubventioner |  |
 | Finns dokumenterad rutin för<br>uthyrningsprocessen gentemot<br>föreningar? | Nej. Det finns ingen dokumenterad rutin för<br>uthyrningsprocessen. Det finns ett digitalt boknings-<br>system där föreningar och privatpersoner kan boka<br>kommunala anläggningar och verksamhetsytor. |
 | Dokumenteras motivering till beslut av<br>subventionsgrad av hyra gentemot<br>föreningar? | Nej. Det saknas en dokumenterad bestämmelse<br>avseende subventionsgraden av föreningars<br>hyreskostnader. Av granskningen framkommer att<br>motivering till beslut av subventionsgrad av hyra inte<br>dokumenteras. |
 | Hur har utredningen för principer för<br>subventionsgrad av lokalhyra fortlöpt<br>under året? | Förvaltningen påbörjade en utredning under 2023.<br>Däremot konstaterade förvaltningen att det var<br>nödvändigt att genomföra en översyn av hela<br>bidragssystemet. Under 2024 har förvaltningen<br>genomfört en översyn av bidragsystemet där förslag<br>om principer för uthyrning har presenterats för<br>nämnden. |
 | Har nämnden fått ta ställning till ett<br>förslag för dessa principer? | Ja. Nämnden har i december 2024 beslutat om att<br>anta principer för uthyrningen av klubblokaler och<br>verksamhetsytor. Principerna blir gällande från och<br>med 2025 genom att inga nya avtal för hyres-<br>subventioner kommer ingås från och med 2025.<br>Däremot noterar vi att principerna inte kommer kunna<br>implementeras fullt ut förrän i samband med att<br>utfasningen av befintliga hyressubventionerna är<br>färdig 2030. Vi ser positivt på att principerna blir<br>gällande under 2025 i form av att inga nya avtal för<br>hyressubventionering kommer ingås samt att<br>förvaltningen kommer påbörja ett arbete med att fasa<br>ut hyressubventionerna.<br>Under 2024 fanns inga gällande principer för<br>subventioneringsgrad för lokalhyra. |
+| Bedömningar avseende arbetet med att förhindra jäv |  |
+| Hur arbetar förvaltning respektive nämnd<br>för att förebygga jäv? | Det finns inga dokumenterade rutiner för att<br>förebygga jäv och otillåten påverkan. Enligt uppgift får<br>föreningsadministratörer inte handlägga föreningar<br>där ens närstående är aktiva. Förvaltningen bedömer<br>själva att det finns låg kunskap om jäv och otillåten<br>påverkan. Det pågår ett arbete med att upprätta<br>utbildningsmaterial.<br>Nämnden beskrivs ha en god medvetenhet kopplat till<br>jäv. Enligt uppgift hanterar nämnden frågan om jäv inför<br>varje nämndsammanträde. Protokollgranskning visar<br>dock att anmälan om jäv inte dokumenteras i<br>sammanträdesprotokollen. |
+| Vilka egenkontroller finns för jäv? | Av granskningen framkommer att det inte genomförs<br>några egenkontroller av jäv. Enligt uppgift har<br>förvaltningen under våren 2024 påbörjat ett arbete<br>med att utveckla egenkontroller för jäv och otillåten<br>påverkan. |
+
+<!-- sida 86 -->
+
+18
 
 <!-- sida 87 -->
 
@@ -3441,13 +3426,6 @@ inte kommer kunna implementeras fullt ut förrän i samband med att utfasningen 
 hyressubventionerna är färdig 2030. Vi ser positivt på att principerna blir gällande under 2025
 
 19
-
-[Tabell 87-1](handlingar.tabeller/87-1.csv)
-
-| Bedömningar avseende arbetet med att förhindra jäv |  |
-| --- | --- |
-| Hur arbetar förvaltning respektive nämnd<br>för att förebygga jäv? | Det finns inga dokumenterade rutiner för att<br>förebygga jäv och otillåten påverkan. Enligt uppgift får<br>föreningsadministratörer inte handlägga föreningar<br>där ens närstående är aktiva. Förvaltningen bedömer<br>själva att det finns låg kunskap om jäv och otillåten<br>påverkan. Det pågår ett arbete med att upprätta<br>utbildningsmaterial.<br>Nämnden beskrivs ha en god medvetenhet kopplat till<br>jäv. Enligt uppgift hanterar nämnden frågan om jäv inför<br>varje nämndsammanträde. Protokollgranskning visar<br>dock att anmälan om jäv inte dokumenteras i<br>sammanträdesprotokollen. |
-| Vilka egenkontroller finns för jäv? | Av granskningen framkommer att det inte genomförs<br>några egenkontroller av jäv. Enligt uppgift har<br>förvaltningen under våren 2024 påbörjat ett arbete<br>med att utveckla egenkontroller för jäv och otillåten<br>påverkan. |
 
 <!-- sida 88 -->
 
@@ -4214,17 +4192,42 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 <!-- sida 108 -->
 
+dataskyddslagen
+5 kap 1-3 §§
+2.1.6 Dataskydds- Ge fullmakt att underteckna  Fc          Fullmakt får ges till tjänsteman som ska vara
+förordningen personuppgiftsbiträdesavtal för digital tjänst eller systemägare för tjänsten eller systemet.
+system som ska användas gemensamt med en eller
+GDPR, artikel flera andra nämnder.
+28
+Hantering av
+personuppgifter,
+Riktlinjer,
+Kommun-
+fullmäktige
+2024-03-05 § 33
+2.1.7 Riktlinjer för Ingå personuppgiftsbiträdesavtal för Bitr. kdir Avser kommungemensamma tjänster och system
+personuppgifts- kommungemensamma digitala tjänster och system. som används av kommunens samtliga nämnder.
+behandling,                                           Kommungemensamma system som stödjer
+GDPR artikel 28                                       kommungemensamma stödprocesser som utförs
+av Service eller kommunstyrelsen enligt
+Hantering av                                          reglemente omfattas inte.
+personuppgifter,
+Riktlinjer,
+Kommun-
+fullmäktige
+2024-03-05 § 33
+2.1.8 Dataskydds- Fastställa nämndens register över Fc     Anmäls till nämnden en gång per år.
+förordningen personuppgiftsbehandlingar.
+GDPR artikel 30
+2.1.9 Dataskydds- Utredning och beslut om åtgärder i ärende om Dsk I samråd med enhetschef och systemförvaltare
+förordningen personuppgiftsincident. Delegeringen omfattar anmälan
+till Integritetsskyddsmyndigheten i förekommande fall,
+GDPR artikel 33 samt yttrande i ärende som med anledning av en
+och 34    anmälan inleds av Integritetsskyddsmyndigheten.
+2.1.10 Dataskydds- Beslut med anledning av konsekvensbedömning Fc
+förordningen avseende dataskydd
+GDPR artikel 35
 Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 7 (15)
-
-[Tabell 108-1](handlingar.tabeller/108-1.csv)
-
-|  | dataskyddslagen<br>5 kap 1-3 §§ |  |  |  |
-| --- | --- | --- | --- | --- |
-| 2.1.6 | Dataskydds-<br>förordningen<br>GDPR, artikel<br>28<br>Hantering av<br>personuppgifter,<br>Riktlinjer,<br>Kommun-<br>fullmäktige<br>2024-03-05 § 33 | Ge fullmakt att underteckna<br>personuppgiftsbiträdesavtal för digital tjänst eller<br>system som ska användas gemensamt med en eller<br>flera andra nämnder. | Fc | Fullmakt får ges till tjänsteman som ska vara<br>systemägare för tjänsten eller systemet. |
-| 2.1.7 | Riktlinjer för<br>personuppgifts-<br>behandling,<br>GDPR artikel 28<br>Hantering av<br>personuppgifter,<br>Riktlinjer,<br>Kommun-<br>fullmäktige<br>2024-03-05 § 33 | Ingå personuppgiftsbiträdesavtal för<br>kommungemensamma digitala tjänster och system. | Bitr. kdir | Avser kommungemensamma tjänster och system<br>som används av kommunens samtliga nämnder.<br>Kommungemensamma system som stödjer<br>kommungemensamma stödprocesser som utförs<br>av Service eller kommunstyrelsen enligt<br>reglemente omfattas inte. |
-| 2.1.8 | Dataskydds-<br>förordningen<br>GDPR artikel 30 | Fastställa nämndens register över<br>personuppgiftsbehandlingar. | Fc | Anmäls till nämnden en gång per år. |
-| 2.1.9 | Dataskydds-<br>förordningen<br>GDPR artikel 33<br>och 34 | Utredning och beslut om åtgärder i ärende om<br>personuppgiftsincident. Delegeringen omfattar anmälan<br>till Integritetsskyddsmyndigheten i förekommande fall,<br>samt yttrande i ärende som med anledning av en<br>anmälan inleds av Integritetsskyddsmyndigheten. | Dsk | I samråd med enhetschef och systemförvaltare |
-| 2.1.10 | Dataskydds-<br>förordningen<br>GDPR artikel 35 | Beslut med anledning av konsekvensbedömning<br>avseende dataskydd | Fc |  |
 
 <!-- sida 109 -->
 
@@ -4243,22 +4246,14 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 
 Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 9 (15)
 
-[Tabell 110-1](handlingar.tabeller/110-1.csv)
+[Tabell 110-111-1](handlingar.tabeller/110-111-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 |  |  | Inköp<br>Avser avtal (kontrakt) som inte är kommunövergripande.<br>Avtal som avser två eller flera nämnder tecknas enligt<br>överenskommelse mellan berörda nämnder. |  | Inköpsprocessen enligt Riktlinjer för inköp.<br>Fc och Vc har delegering på köpnivå 5 (avser köp där<br>relationen till leverantören genom avtalsvillkor utöver<br>köplagen behövs regleras. Exempel på detta kan vara<br>ansvar, garantier, viten och avhjälpande vid fel och<br>köpnivå 6 (upphandling).<br>Ec har delegering upp till och med köpnivå 4.<br>Köpnivå 1: vara/tjänst finns för beställning i e-handeln,<br>avtal finns<br>Köpnivå 2: avtal finns i e-handeln<br>Köpnivå 3: direktupphandling utan krav på dokumentation,<br>understigande 100 000 kr, avtalsvillkor behövs inte<br>Köpnivå 4: direktupphandling utan krav på dokumentation,<br>100 000 – 700 000 kr, avtalsvillkor behövs inte<br>Köpnivå 5: direktupphandling utan krav på dokumentation,<br>100 000 – 700 000 kr, avtalsvillkor behövs<br>Köpnivå 6: Upphandling, 700 000 kr - , avtalsvillkor<br>behövs |
 | 2.2.1 a) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Upphandlingsdokument (UD) som följer planeringen<br>enligt inköpsprocessen. | Fc<br>Vc<br>Ec | Ec har delegering efter avstämning med Vc eller Fc |
 | 2.2.1 b) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Tilldelning efter genomförd upphandling | Fc<br>Vc |  |
-
-<!-- sida 111 -->
-
-Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 10 (15)
-
-[Tabell 111-1](handlingar.tabeller/111-1.csv)
-
 | 2.2.1 c) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Avbryta upphandling. | Fc<br>Vc |  |
-| --- | --- | --- | --- | --- |
 | 2.2.1 d) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Ändring och tillägg av kontrakt. | Fc<br>Vc |  |
 | 2.2.1 e) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Uppsägning eller hävning av avtal | Fc<br>Vc |  |
 | 2.2.1 f) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Upphandlingsdokument (UD) som följer planeringen<br>enligt inköpsprocessen.<br>Tilldelning efter genomförd upphandling<br>Avbryta upphandling.<br>Ändring och tillägg av kontrakt.<br>Uppsägning eller hävning av avtal | Ec Kultur &<br>Besöksmål | Avser offentlig konst<br>Vid delegatens förfall har Vc Kultur & demokrati<br>delegation. |
@@ -4269,13 +4264,17 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 | 2.2.6 |  | Beslut om och rätt att underteckna hyresavtal upp till 500 000<br>kr per år, maximalt 3 år | Vc |  |
 | 2.2.7 |  | Beslut om och rätt att underteckna hyresavtal upp till 3 Mkr<br>per år, maximalt 5 år | Fc | Avser externa lokaler och anläggning där Service inte är<br>hyresvärd |
 
+<!-- sida 111 -->
+
+Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 10 (15)
+
 <!-- sida 112 -->
 
 2.3 Personal
 
 Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 11 (15)
 
-[Tabell 112-1](handlingar.tabeller/112-1.csv)
+[Tabell 112-113-1](handlingar.tabeller/112-113-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
@@ -4287,34 +4286,22 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 | 2.3.4 | LAS § 7 | Uppsägning av personliga skäl. | Fc<br>Vc Kultur &<br>Demokrati<br>Vc Fritid &<br>Mötesplatser | I samråd med HR på förvaltningen och förhandlings-<br>chef |
 | 2.3.5 | LAS § 7 | Uppsägning på grund av arbetsbrist. | Fc | I samråd med HR på förvaltningen |
 | 2.3.6 | LAS 18 § | Avsked | Fc | I samråd med HR på förvaltningen och förhandlings-<br>chef |
-
-<!-- sida 113 -->
-
-Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 12 (15)
-
-[Tabell 113-1](handlingar.tabeller/113-1.csv)
-
 | 2.3.7 | "Gemensamt<br>reglemente för<br>kommun-styrelsen<br>och nämnder i<br>Kungsbacka<br>kommun" | Avsluta anställning enligt särskild överenskommelse. | Fc | I samråd med HR-chef |
-| --- | --- | --- | --- | --- |
 |  |  | Annat |  |  |
 | 2.3.8 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla. | Vc | I samråd med HR på förvaltningen i enlighet med<br>”Regler för bisyssla i Kungsbacka kommun” |
 | 2.3.9 | AB § 10 mom<br>1-3 | Avstängning | Vc | I samråd med HR på förvaltningen |
 | 2.3.10 | AB § 11 | Disciplinpåföljd - skriftlig varning. | Vc | I samråd med HR på förvaltningen |
 
-[Tabell 113-2](handlingar.tabeller/113-2.csv)
+<!-- sida 113 -->
+
+Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 12 (15)
+
+[Tabell 113-114-1](handlingar.tabeller/113-114-1.csv)
 
 |  | 2.4 Verksamhet |  |  |  |
 | --- | --- | --- | --- | --- |
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
-
-<!-- sida 114 -->
-
-Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 13 (15)
-
-[Tabell 114-1](handlingar.tabeller/114-1.csv)
-
 | 2.4..1 |  | Avge yttranden i byggnadslovsfrågor avseende<br>kulturmiljövård inför beslut om bygglov | Kommun-<br>antikvarie | 3.1.16 |
-| --- | --- | --- | --- | --- |
 | 2.4.2 |  | Avge yttrande över förslag till detaljplaner utifrån<br>nämndens ansvarsområde | N ordf |  |
 | 2.4.3 |  | Beslut och utbetalning av bidrag till idrotts-, kultur- och<br>idéburna föreningar, grupper, nätverk och enskilda<br>kulturutövare samt studieförbund | Ec Förening &<br>Hållbar hälsa | Inom budgetram och av nämnden fastställda<br>bidragsregler |
 | 2.4.<br>4 | Spellagen<br>6 kap 9 § | Besluta om registrering i fem år, utseende av kontrollant | Fc |  |
@@ -4328,13 +4315,17 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 |  |  |  |  |  |
 |  |  |  |  |  |
 
+<!-- sida 114 -->
+
+Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 13 (15)
+
 <!-- sida 115 -->
 
 Namnlista      över    delegater
 
 Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 14 (15)
 
-[Tabell 115-1](handlingar.tabeller/115-1.csv)
+[Tabell 115-116-1](handlingar.tabeller/115-116-1.csv)
 
 | Nämndens ordförande (N ordf) | Annika Hedman |
 | --- | --- |
@@ -4352,20 +4343,16 @@ Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid
 | Enhetschef (EC) Kulturskolan | Malin Svarfvar |
 | Enhetschef (EC) Förening & Hållbar hälsa | Andreas Høgfeldt |
 | Enhetschef (EC) Senior i Kungsbacka | Elisabeth Lindberg |
-
-<!-- sida 116 -->
-
-Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 15 (15)
-
-[Tabell 116-1](handlingar.tabeller/116-1.csv)
-
 | Enhetschef (EC) Ung i Kungsbacka | Anna Hjelm-Woll |
-| --- | --- |
 | Kommunantikvarie | Sofia Larsson |
 | Dataskyddskontakt (DSK) | Susanna Levin |
 | Registrator | Kerstin Ohlsson |
 | Registrator | Lena Ottosson |
 | Registrator | Marika Ånhed |
+
+<!-- sida 116 -->
+
+Kungsbacka kommun    Delegering av beslutanderätt Nämnden för Kultur & Fritid 15 (15)
 
 <!-- sida 117 -->
 

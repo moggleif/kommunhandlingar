@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.342d4f8619eb49a8271f17/178116242972
 sha256: 0a2e45c1010883a47da85ac83041ed1e7038716a2e84af68d9434047fb2dca85
 bytes: 10542103
 sidor: 215
-hamtad: 2026-10-07T22:33:20+00:00
-konverterad: 2026-10-07T22:33:53+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T06:44:45+00:00
+konverterad: 2026-10-14T06:45:16+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [17, 18, 19, 93, 121, 122, 123, 124, 125, 126, 131, 132, 138, 139, 140, 142, 143, 144, 146, 147, 148, 149, 150, 151, 152, 154, 155, 156, 158, 159, 160, 161, 162, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 175, 176, 177, 183, 186, 189, 196, 198, 208, 213]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -336,7 +336,7 @@ med avseende på självvärdering av sin enhet.
 
 5
 
-[Tabell 11-1](handlingar.tabeller/11-1.csv)
+[Tabell 11-14-1](handlingar.tabeller/11-14-1.csv)
 
 | Frågor | Svar 2025 |
 | --- | --- |
@@ -345,6 +345,26 @@ med avseende på självvärdering av sin enhet.
 | Medverkar skyddsombud i det systematiska<br>arbetsmiljöarbetet?<br>Samverkan med skyddsombud ska ske i alla enheter. |  |
 | Medverkar elevskyddsombud i det systematiska<br>arbetsmiljöarbetet?<br>Inom skolan ska samverkan även ske med<br>elevskyddsombud. |  |
 | Finns kunskap om kommunens arbetsgivarpolicy?<br>Kungsbacka kommuns arbetsgivarpolicy är ett politiskt<br>styrdokument. Arbetsgivarpolicyn innehåller ett avsnitt<br>som heter arbetsmiljö och hälsa, är detta känt? |  |
+| Finns kunskap om vilka risker som finns i arbetet? |  |
+| Finns kunskap och lättillgängliga, skriftliga<br>instruktioner för arbete som är förenat med allvarliga<br>risker inom er enhet, så att arbetet kan utföras utan<br>risk för ohälsa eller olycksfall? |  |
+| Finns kunskap om hur man ska rapportera/anmäla<br>tillbud och olycksfall?<br>Kommunens rutin för anmälan av tillbud och olycksfall<br>finns på kommunens insida under systematiskt<br>arbetsmiljöarbete. Rutinen ska vara känd för alla<br>medarbetare. |  |
+| Finns kunskap om Kungsbacka kommuns regler och<br>rutin för kränkande särbehandling?<br>Kommunens rutin gällande kränkande särbehandling<br>finns på kommunens insida under systematiskt<br>arbetsmiljöarbete. Regler mot kränkande särbehandling,<br>ska vara kända av alla på arbetsplatsen. |  |
+| Finns kunskap om kommunens rutin och<br>handlingsplan för en drogfri arbetsplats?<br>Kommunens rutin och handlingsplan för en drogfri<br>arbetsplats finns på kommunens insida under<br>systematiskt arbetsmiljöarbete. |  |
+| Finns kunskap om vilka föreskrifter, AFS, som gäller<br>för enheten?<br>Samtliga föreskrifter finns på arbetsmiljoverket.se |  |
+| Finns kunskap om personalvårdsprogram Falck<br>Healthcare?<br>Falck Healthcare finns som en förebyggande tjänst för<br>alla medarbetare. |  |
+| Finns kunskap om företagshälsovården?<br>Företagshälsovården pe3, information om uppdrag och<br>tjänster finns på kommunens intranät. |  |
+| Genomförs riskbedömning före förändring i enheten?<br>Vid förändringar i enheten ska en bedömning göras om<br>den medför risker i arbetsmiljön. Den ska göras i<br>samverkan med medarbetare och skyddsombud. |  |
+| Genomförs utredning av tillbud, ohälsa och<br>olycksfall? |  |
+| Förs de åtgärder som inte behöver genomföras<br>omedelbart in i en skriftlig handlingsplan?<br>I planen anges när åtgärderna ska vara genomförda och<br>vem som ska se till att de genomförs. |  |
+| I vår enhet följer vi upp de åtgärder som genomförts<br>för att se om de gett förväntat resultat. |  |
+| Bedömer ni kontinuerligt risken för hot och våld inom<br>er enhet, och finns det en handlingsplan för de<br>åtgärder som behöver vidtas för att förebygga ohälsa<br>och olycksfall? |  |
+| Har du som arbetsmiljöansvarig chef fått en skriftlig<br>uppgiftsfördelning? |  |
+| Har du som chef tillräckliga befogenheter, resurser<br>och kompetens utifrån uppgiftsfördelningen som är<br>genomförd? |  |
+| Har du som chef tillräckliga kunskaper inom<br>systematiskt arbetsmiljöarbete?<br>Innebär att du som chef har kunskap om föreskriften för<br>SAM, vilka rutiner och metoder du har för att undersöka,<br>riskbedöma, åtgärda och följa upp arbetsmiljöarbetet. |  |
+| Har du som chef tillräckliga kunskaper om<br>organisatorisk och social arbetsmiljö?<br>Enligt arbetsmiljöverkets föreskrift 2023:2, 2 kap, ska<br>arbetsgivaren se till att chefer och arbetsledare har<br>tillräckliga kunskaper. |  |
+| Har du som chef tillräckliga kunskaper för att se till<br>att medarbetarnas arbetsuppgifter och befogenheter<br>inte ger upphov till ohälsosam arbetsbelastning?<br>Arbetsgivarens skyldigheter att förebygga ohälsosam<br>arbetsbelastning omfattar såväl chefer och arbetsledare<br>som andra arbetstagare. Det är viktigt att arbetsgivaren<br>skapar förutsättningar för arbetstagarna att<br>uppmärksamma arbetsgivaren på höga krav och<br>bristande resurser. AFS 2023:2, 2 kap |  |
+| Har du som chef tillräckliga kunskaper om vilka<br>åtgärder som behövs för att motverka att<br>arbetstidens förläggning leder till ohälsa hos<br>medarbetarna?<br>Arbetsgivaren bör redan vid planeringen av arbetet ta<br>hänsyn till hur arbetstidens förläggning kan inverka på<br>arbetstagarnas hälsa. Arbetsgivaren bör särskilt<br>uppmärksamma möjligheterna till återhämtning. AFS<br>2023:2, 2 kap |  |
+| Anmäler du som chef allvarliga tillbud och allvarliga<br>olyckor till Arbetsmiljöverket? |  |
 
 <!-- sida 12 -->
 
@@ -353,18 +373,6 @@ Uppföljning Systematiskt arbetsmiljöarbete 2025
 
 6
 
-[Tabell 12-1](handlingar.tabeller/12-1.csv)
-
-| Frågor | Svar 2025 |
-| --- | --- |
-| Finns kunskap om vilka risker som finns i arbetet? |  |
-| Finns kunskap och lättillgängliga, skriftliga<br>instruktioner för arbete som är förenat med allvarliga<br>risker inom er enhet, så att arbetet kan utföras utan<br>risk för ohälsa eller olycksfall? |  |
-| Finns kunskap om hur man ska rapportera/anmäla<br>tillbud och olycksfall?<br>Kommunens rutin för anmälan av tillbud och olycksfall<br>finns på kommunens insida under systematiskt<br>arbetsmiljöarbete. Rutinen ska vara känd för alla<br>medarbetare. |  |
-| Finns kunskap om Kungsbacka kommuns regler och<br>rutin för kränkande särbehandling?<br>Kommunens rutin gällande kränkande särbehandling<br>finns på kommunens insida under systematiskt<br>arbetsmiljöarbete. Regler mot kränkande särbehandling,<br>ska vara kända av alla på arbetsplatsen. |  |
-| Finns kunskap om kommunens rutin och<br>handlingsplan för en drogfri arbetsplats?<br>Kommunens rutin och handlingsplan för en drogfri<br>arbetsplats finns på kommunens insida under<br>systematiskt arbetsmiljöarbete. |  |
-| Finns kunskap om vilka föreskrifter, AFS, som gäller<br>för enheten?<br>Samtliga föreskrifter finns på arbetsmiljoverket.se |  |
-| Finns kunskap om personalvårdsprogram Falck<br>Healthcare?<br>Falck Healthcare finns som en förebyggande tjänst för<br>alla medarbetare. |  |
-
 <!-- sida 13 -->
 
 Gymnasium & Arbetsmarknad                        Kungsbacka kommun
@@ -372,35 +380,12 @@ Uppföljning Systematiskt arbetsmiljöarbete 2025
 
 7
 
-[Tabell 13-1](handlingar.tabeller/13-1.csv)
-
-| Frågor | Svar 2025 |
-| --- | --- |
-| Finns kunskap om företagshälsovården?<br>Företagshälsovården pe3, information om uppdrag och<br>tjänster finns på kommunens intranät. |  |
-| Genomförs riskbedömning före förändring i enheten?<br>Vid förändringar i enheten ska en bedömning göras om<br>den medför risker i arbetsmiljön. Den ska göras i<br>samverkan med medarbetare och skyddsombud. |  |
-| Genomförs utredning av tillbud, ohälsa och<br>olycksfall? |  |
-| Förs de åtgärder som inte behöver genomföras<br>omedelbart in i en skriftlig handlingsplan?<br>I planen anges när åtgärderna ska vara genomförda och<br>vem som ska se till att de genomförs. |  |
-| I vår enhet följer vi upp de åtgärder som genomförts<br>för att se om de gett förväntat resultat. |  |
-| Bedömer ni kontinuerligt risken för hot och våld inom<br>er enhet, och finns det en handlingsplan för de<br>åtgärder som behöver vidtas för att förebygga ohälsa<br>och olycksfall? |  |
-| Har du som arbetsmiljöansvarig chef fått en skriftlig<br>uppgiftsfördelning? |  |
-
 <!-- sida 14 -->
 
 Gymnasium & Arbetsmarknad                        Kungsbacka kommun
 Uppföljning Systematiskt arbetsmiljöarbete 2025
 
 8
-
-[Tabell 14-1](handlingar.tabeller/14-1.csv)
-
-| Frågor | Svar 2025 |
-| --- | --- |
-| Har du som chef tillräckliga befogenheter, resurser<br>och kompetens utifrån uppgiftsfördelningen som är<br>genomförd? |  |
-| Har du som chef tillräckliga kunskaper inom<br>systematiskt arbetsmiljöarbete?<br>Innebär att du som chef har kunskap om föreskriften för<br>SAM, vilka rutiner och metoder du har för att undersöka,<br>riskbedöma, åtgärda och följa upp arbetsmiljöarbetet. |  |
-| Har du som chef tillräckliga kunskaper om<br>organisatorisk och social arbetsmiljö?<br>Enligt arbetsmiljöverkets föreskrift 2023:2, 2 kap, ska<br>arbetsgivaren se till att chefer och arbetsledare har<br>tillräckliga kunskaper. |  |
-| Har du som chef tillräckliga kunskaper för att se till<br>att medarbetarnas arbetsuppgifter och befogenheter<br>inte ger upphov till ohälsosam arbetsbelastning?<br>Arbetsgivarens skyldigheter att förebygga ohälsosam<br>arbetsbelastning omfattar såväl chefer och arbetsledare<br>som andra arbetstagare. Det är viktigt att arbetsgivaren<br>skapar förutsättningar för arbetstagarna att<br>uppmärksamma arbetsgivaren på höga krav och<br>bristande resurser. AFS 2023:2, 2 kap |  |
-| Har du som chef tillräckliga kunskaper om vilka<br>åtgärder som behövs för att motverka att<br>arbetstidens förläggning leder till ohälsa hos<br>medarbetarna?<br>Arbetsgivaren bör redan vid planeringen av arbetet ta<br>hänsyn till hur arbetstidens förläggning kan inverka på<br>arbetstagarnas hälsa. Arbetsgivaren bör särskilt<br>uppmärksamma möjligheterna till återhämtning. AFS<br>2023:2, 2 kap |  |
-| Anmäler du som chef allvarliga tillbud och allvarliga<br>olyckor till Arbetsmiljöverket? |  |
 
 <!-- sida 15 -->
 
@@ -8532,14 +8517,13 @@ använt följande formel (t = år)
 
 e.  Beräkningen ger följande tabell.
 
+År     Betalning  Diskonteringsfaktor Nuvärde
+
+1      1228450 kr 0,95238       1 169 952 kr
+
+2      1228450 kr 0,90703       1 114240 kr
+
 Sida 92 av 101
-
-[Tabell 198-1](handlingar.tabeller/198-1.csv)
-
-| År | Betalning | Diskonteringsfaktor | Nuvärde |
-| --- | --- | --- | --- |
-| 1 | 1228450 kr | 0,95238 | 1 169 952 kr |
-| 2 | 1228450 kr | 0,90703 | 1 114240 kr |
 
 <!-- sida 199 -->
 
@@ -8849,7 +8833,7 @@ Bilagaförteckning
 
 Sida 99 av 101
 
-[Tabell 205-1](handlingar.tabeller/205-1.csv)
+[Tabell 205-207-1](handlingar.tabeller/205-207-1.csv)
 
 | Nr | Handling | Daterad |
 | --- | --- | --- |
@@ -8867,15 +8851,7 @@ Sida 99 av 101
 | S12 | Testprotokoll för restpunkterna i releasen 23.5 |  |
 | S13 | Releasedokument Skolplatsen 23.3 och 23.4 |  |
 | S14 | Releasedokument Skolplatsen 24.2 |  |
-
-<!-- sida 206 -->
-
-Sida 100 av 101
-
-[Tabell 206-1](handlingar.tabeller/206-1.csv)
-
 | S15 | Testprotokoll release 23.4 och 24.2 |  |
-| --- | --- | --- |
 | S16 | Releasedokument Skolplatsen 24.3 |  |
 | S17 | Releasedokument Skolplatsen 24.4 |  |
 | S18 | Testprotokoll release 24.4 |  |
@@ -8891,15 +8867,7 @@ Sida 100 av 101
 | S28 | Mejltråd mellan Andreas Öhman (Gotit) och<br>Anna Hedlund (Kungsbacka) avseende<br>uppdaterad version av Bilaga C1 | 29–30 augusti 2024 |
 | S29 | Mejltråd mellan parternas ombud (Lindahl och<br>Kahn Pedersen) rörande påstående om<br>dataintrång | 12–18 september 2024 |
 | S30 | Bekräftelse från Gotit om att Kungsbacka<br>beretts tillgång till systemet för etapp 2 – mejl | 18 september 2024 |
-
-<!-- sida 207 -->
-
-Sida 101 av 101
-
-[Tabell 207-1](handlingar.tabeller/207-1.csv)
-
 |  | och bifogade leveranshandlingar (samlad<br>bilaga med 16 delar S30.1–S30.16) |  |
-| --- | --- | --- |
 | S31 | Brev från Gotits ombud till Kungsbacka | 19 mars 2024 |
 | S32 | Brev från Kungsbackas ombud till Gotit | 17 april 2024 |
 | S33 | Brev från Gotits ombud till Kungsbacka | 31 maj 2024 |
@@ -8916,6 +8884,14 @@ Sida 101 av 101
 | S44 | Hävningsmeddelande från Kungsbacka<br>kommun till Gotit | 12 november 2024 |
 | S45 | Gotits bestridande av Kungsbackas hävning | 15 november 2024 |
 | S46 | Brev från Gotits ombud till Kungsbackas<br>ombud i anledning av rättelseanmaningen 1<br>november 2024 | 7 november 2024 |
+
+<!-- sida 206 -->
+
+Sida 100 av 101
+
+<!-- sida 207 -->
+
+Sida 101 av 101
 
 <!-- sida 208 -->
 

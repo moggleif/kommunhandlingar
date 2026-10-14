@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5b0e44671961df388b27f8e4/1744873104
 sha256: 2ffc7ae3f913ab60caa336a838d5973e80c27a7d191504339d0ec631da77ff54
 bytes: 5790730
 sidor: 120
-hamtad: 2026-10-07T22:21:25+00:00
-konverterad: 2026-10-07T22:21:59+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T06:34:46+00:00
+konverterad: 2026-10-14T06:35:15+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [52, 99, 100, 101, 102]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [52, 60, 89, 90, 91, 92, 93, 94, 95, 96, 99, 100, 101, 102]
+figurer: [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 106, 114, 115, 116, 117]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -70,7 +70,7 @@ KUNGSBACKA  KOMMUN
 
 3(4)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
+[Tabell 3-4-1](handlingar.tabeller/3-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -78,6 +78,11 @@ KUNGSBACKA  KOMMUN
 | 9. | Planerat utbud på<br>gymnasieskolorna läsår<br>2026/2027 | GA-2025-<br>00040 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 | 10. | IOP Onsala församling | GA-2025-<br>00049 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>beslutar att ingå överenskommelse om idéburet<br>offentligt partnerskap (IOP) med Onsala församling. |
 | 11. | Förslag om översyn av interna<br>och externa priser och<br>utmärkelser i Kungsbacka<br>kommun | GA-2025-<br>00027 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad föreslår<br>kommunstyrelsen att Lära för livet priset inte ska<br>överlåtas till berörd nämnd för hantering utan att<br>priset kan avvecklas till förmån för de<br>kommunövergripande priserna som finns. |
+| 12. | Återrapportering, synpunkter,<br>klagomål och<br>händelserapportering 2025 | GA-2025-<br>00062 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av synpunkter,<br>klagomål och händelserapportering för kvartal 1<br>2025. |
+| 13. | Återrapportering av<br>delegeringsbeslut | GA-2024-<br>00225 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av delegeringsbeslut<br>för perioden 2025-03-01 till 2025-03-31. Nämnden<br>för Gymnasium & Arbetsmarknad godkänner<br>återrapporteringen gällande personuppgiftincidenter<br>för perioden 2025-01-01 till 2025-03-31. |
+| 14. | Återrapportering av program-<br>och verksamhetsråd | GA-2024-<br>00226 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 15. | Inkomna skrivelser till<br>ledamöter och ersättare i<br>nämnden | GA-2024-<br>00227 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
+| 16. | Förvaltningschef informerar<br>Föredragande: Patrik Hellberg<br>19.40-19.50 | GA-2024-<br>00228 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 
 <!-- sida 4 -->
 
@@ -87,16 +92,6 @@ KUNGSBACKA  KOMMUN
 
 Axel Storckenfeldt (M)            Karin Möglebust
 ordförande                        sekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 12. | Återrapportering, synpunkter,<br>klagomål och<br>händelserapportering 2025 | GA-2025-<br>00062 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av synpunkter,<br>klagomål och händelserapportering för kvartal 1<br>2025. |
-| 13. | Återrapportering av<br>delegeringsbeslut | GA-2024-<br>00225 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad<br>godkänner återrapporteringen av delegeringsbeslut<br>för perioden 2025-03-01 till 2025-03-31. Nämnden<br>för Gymnasium & Arbetsmarknad godkänner<br>återrapporteringen gällande personuppgiftincidenter<br>för perioden 2025-01-01 till 2025-03-31. |
-| 14. | Återrapportering av program-<br>och verksamhetsråd | GA-2024-<br>00226 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-| 15. | Inkomna skrivelser till<br>ledamöter och ersättare i<br>nämnden | GA-2024-<br>00227 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
-| 16. | Förvaltningschef informerar<br>Föredragande: Patrik Hellberg<br>19.40-19.50 | GA-2024-<br>00228 | Förslag till beslut<br>Nämnden för Gymnasium & Arbetsmarknad noterar<br>informationen till protokollet. |
 
 <!-- sida 5 -->
 
@@ -914,21 +909,55 @@ gymnasieskolorna.
 
 4.1.1 Resultat
 
+Fråga        2020      2021       2022      2023       2024
+
+Tycker du att Medelvärde Medelvärde 4,5 Medelvärde 4 Medelvärde Medelvärde 4,3
+det var positivt 4,33, Median 5 Median 5 Median 4 4Median 4 Median 4
+att feriearbeta i
+Kungsbacka
+kommun?
+Tycker du att Medelvärde Medelvärde Medelvärde 4 Medelvärde 4 Medelvärde 4,3
+det var lätt att 4,16, Median 4 4,35 Median 5 Median 4 Median 4 Median 4
+ansöka om
+feriejobb?
+Tycker du att du Medelvärde Medelvärde Medelvärde 4 Medelvärde 4 Medelvärde 3,8
+fick nödvändig 3,41, Median 4 3,85 Median 4 Median 4 Median 4 Median 4
+information om
+feriejobbet
+innan start?
+Tycker du att du Medelvärde Medelvärde 4,4 Medelvärde 4 Medelvärde 4 Medelvärde 4,2
+fick en bra 4,18, Median 4 Median 5 Median 4 Median 4 Median 4,5
+introduktion på
+arbetsplatsen?
+
 Gymnasium & Arbetsmarknad, SOSFS 2011:9, Kvalitetsberättelse 2024 9(18)
-
-[Tabell 28-1](handlingar.tabeller/28-1.csv)
-
-| Fråga<br>Tycker du att<br>det var positivt<br>att feriearbeta i<br>Kungsbacka<br>kommun? | 2020<br>Medelvärde<br>4,33, Median 5 | 2021<br>Medelvärde 4,5<br>Median 5 | 2022<br>Medelvärde 4<br>Median 4 | 2023<br>Medelvärde<br>4Median 4 | 2024<br>Medelvärde 4,3<br>Median 4 |
-| --- | --- | --- | --- | --- | --- |
-| Tycker du att<br>det var lätt att<br>ansöka om<br>feriejobb? | Medelvärde<br>4,16, Median 4 | Medelvärde<br>4,35 Median 5 | Medelvärde 4<br>Median 4 | Medelvärde 4<br>Median 4 | Medelvärde 4,3<br>Median 4 |
-| Tycker du att du<br>fick nödvändig<br>information om<br>feriejobbet<br>innan start? | Medelvärde<br>3,41, Median 4 | Medelvärde<br>3,85 Median 4 | Medelvärde 4<br>Median 4 | Medelvärde 4<br>Median 4 | Medelvärde 3,8<br>Median 4 |
-| Tycker du att du<br>fick en bra<br>introduktion på<br>arbetsplatsen? | Medelvärde<br>4,18, Median 4 | Medelvärde 4,4<br>Median 5 | Medelvärde 4<br>Median 4 | Medelvärde 4<br>Median 4 | Medelvärde 4,2<br>Median 4,5 |
 
 <!-- sida 29 -->
 
+Tycker du att Medelvärde Medelvärde 3,8 Medelvärde 4 Medelvärde 4 Medelvärde 3,8
+det var lätt att 3,85, Median 4 Median 5 Median 4 Median 4 Median 4
+tidsrapportera?
+Kan du tänka Medelvärde Medelvärde 4,1 Medelvärde 4 Medelvärde 4 Medelvärde 3,5
+dig att arbeta i 3,82, Median 4 Median 5 Median 4 Median 4 Median 4
+Kungsbacka
+kommun igen i
+framtiden?
+Hur fick du reda 40% genom 15% genom 50% genom Genom Genom
+på möjligheten föräldrar, 36 % kommunens föräldrar, 27,9% kommunens kommunens
+att söka  genom     hemsida ,25% genom   hemsida    hemsida 20%
+kommunalt kompisar, 22 % genom kompisar17.4% 17,4%Genom Skolan 31%
+feriejobb? genom    kompisar och genom   skolan     Kompisar 42%
+kommunens 34 % genom kommunens 19,8%Genom Annons 7%
+hemsida   föräldrar  hemsida, 19,8% kompisar Föräldrar 48%
+genom skolan 27,9%Genom Annat sätt 5%
+annons
+1,2%Genom
+föräldrar
+50,0%På annat
+sätt, nämligen:
+4,7%
 4.1.2 Analys
 Av de besvarade enkäterna kan fastställas att majoriteten av feriearbetarna är positiva till att
-
 arbeta i Kungsbacka kommun. Arbetstagarna tycker enligt enkätsvaren att det är lätt att
 ansöka till ett feriejobb och att introduktionerna har varit bra på arbetsplatserna. En slutsats är
 att vi inom kommunen i regel har ett systematiskt arbete gällande introduktion och ett gott
@@ -936,7 +965,6 @@ bemötande till nyanställda. Det kan också konstaterats att verksamhetssysteme
 väl för användarna som använt sig av detsamma för att söka till tjänsterna.
 Även de chefer som har tagit emot feriearbetare upplever det som positivt och kan tänka sig
 att ta emot feriearbetare igen.
-
 Ett nytt verksamhetssystem för att hantera ansökningsprocessen till tjänsterna har upphandlats
 och ska implementeras under 2025.
 
@@ -959,13 +987,6 @@ Arbetsmarknad, Planering & Uppföljning.
 En övervägande del av ärendena handlar om missar utifrån den mänskliga faktorn. Man har
 
 Gymnasium & Arbetsmarknad, SOSFS 2011:9, Kvalitetsberättelse 2024 10(18)
-
-[Tabell 29-1](handlingar.tabeller/29-1.csv)
-
-| Tycker du att<br>det var lätt att<br>tidsrapportera? | Medelvärde<br>3,85, Median 4 | Medelvärde 3,8<br>Median 5 | Medelvärde 4<br>Median 4 | Medelvärde 4<br>Median 4 | Medelvärde 3,8<br>Median 4 |
-| --- | --- | --- | --- | --- | --- |
-| Kan du tänka<br>dig att arbeta i<br>Kungsbacka<br>kommun igen i<br>framtiden? | Medelvärde<br>3,82, Median 4 | Medelvärde 4,1<br>Median 5 | Medelvärde 4<br>Median 4 | Medelvärde 4<br>Median 4 | Medelvärde 3,5<br>Median 4 |
-| Hur fick du reda<br>på möjligheten<br>att söka<br>kommunalt<br>feriejobb? | 40% genom<br>föräldrar, 36 %<br>genom<br>kompisar, 22 %<br>genom<br>kommunens<br>hemsida | 15% genom<br>kommunens<br>hemsida ,25%<br>genom<br>kompisar och<br>34 % genom<br>föräldrar | 50% genom<br>föräldrar, 27,9%<br>genom<br>kompisar17.4%<br>genom<br>kommunens<br>hemsida, 19,8%<br>genom skolan | Genom<br>kommunens<br>hemsida<br>17,4%Genom<br>skolan<br>19,8%Genom<br>kompisar<br>27,9%Genom<br>annons<br>1,2%Genom<br>föräldrar<br>50,0%På annat<br>sätt, nämligen:<br>4,7% | Genom<br>kommunens<br>hemsida 20%<br>Skolan 31%<br>Kompisar 42%<br>Annons 7%<br>Föräldrar 48%<br>Annat sätt 5% |
 
 <!-- sida 30 -->
 
@@ -2097,17 +2118,42 @@ Kartläggning                    externa             priser
 
 Kartläggning                    interna            priset
 
+Politiskt                                Nominerings-
+Pris        FVL           KompPertiesnsusumtmveackling Förfarande       Delas ut            Övrigt
+instiftat                                   period
+Årets leverans, Årets
+Medarbetare och
+Del av Medarbetardagen
+nyskapare, Årets
+Året medarbetare                                  invånare röstar,
+KSF     Nej       välkomnare                     Maj-okt     Nov
+(fyra kategorier)                                 Intern jury utser                   Både medarbetare och invånare kan
+10 000 kr
+nominera och rösta.
+vinnare
+Årets team
+25 000 kr
+Årets utvecklande
+ledare: 15 000 kr
+kompetensutveckling
+Årets ledare                                    Intern jury utser
+KSF     Nej                                      Feb-mars    Sept          Del av Ledardagen
+(två kategorier)                                     vinnare
+Årets nyskapande
+ledare: 15 000 kr
+kompetensutveckling
+10 000-20000                  Hösten, senast
+Leva livet-priset VO     KF                                                  KF feb    Krockar med Årets medarbetare?
+kompetensutveckling                  1 nov
+Krockar med Årets medarbetare?
+Nämnden utser Hösten, senast
+Lära för livet-priset FG & GA Nämnd\* 10 000 kr/pristagare                     KF nov
+varsin vinnare    1 okt
+Har tidigare delats ut i juni.
+Ej i bruk, men beslutat i KF 2021-05-04.
+Självständigt liv IF     KF
+(KS-2019-00903 i Ciceron).
 \*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
-
-[Tabell 56-1](handlingar.tabeller/56-1.csv)
-
-| Pris | FVL | Politiskt<br>instiftat | KompPertiesnsusumtmveackling | Förfarande | Nominerings-<br>period | Delas ut | Övrigt |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Året medarbetare<br>(fyra kategorier) | KSF | Nej | Årets leverans, Årets<br>nyskapare, Årets<br>välkomnare<br>10 000 kr<br>Årets team<br>25 000 kr | Medarbetare och<br>invånare röstar,<br>Intern jury utser<br>vinnare | Maj-okt | Nov | Del av Medarbetardagen<br>Både medarbetare och invånare kan<br>nominera och rösta. |
-| Årets ledare<br>(två kategorier) | KSF | Nej | Årets utvecklande<br>ledare: 15 000 kr<br>kompetensutveckling<br>Årets nyskapande<br>ledare: 15 000 kr<br>kompetensutveckling | Intern jury utser<br>vinnare | Feb-mars | Sept | Del av Ledardagen |
-| Leva livet-priset | VO | KF | 10 000-20000<br>kompetensutveckling |  | Hösten, senast<br>1 nov | KF feb | Krockar med Årets medarbetare? |
-| Lära för livet-priset | FG & GA | Nämnd\* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
-| Självständigt liv | IF | KF |  |  |  |  | Ej i bruk, men beslutat i KF 2021-05-04.<br>(KS-2019-00903 i Ciceron). |
 
 <!-- sida 57 -->
 
@@ -4341,13 +4387,16 @@ https://sign.visma.net/sv/document-check/cc16b265-5a4b-4846-8e9a-af6a060af137 ww
 | Resultat |  | -202 244 | 2 386 348 | 2 180 818 |
 | Utgående eget kapital årets slut |  | 2 465 791 | 4 852 139 | 4 646 609 |
 
-[Tabell 109-3](handlingar.tabeller/109-3.csv)
+[Tabell 109-110-3](handlingar.tabeller/109-110-3.csv)
 
 | Finsamplatser | Årsplatser | 2025 (\*från start) | 2026<br>(helår) | \*Start 2025 |
 | --- | --- | --- | --- | --- |
 | Laholm | 22 platser | 469 000 kr | 725 000 kr | 2025-05-01 |
 | Halmstad | 125 platser | 2 000 000 kr | 4 120 000<br>kr | 2025-07-01 |
 | Hylte | 10 platser | 160 000 kr | 330 000 kr | 2025-07-01 |
+| Falkenberg | 50 platser | 933 000 kr | 1 648 000<br>kr | 2025-05-01 |
+| Varberg | 50 platser | 600 000 kr | 1 648 000<br>kr | 2025-08-15 |
+| Totalt: | 257 platser | 4 162 000 kr | 8 471 000<br>kr |  |
 
 <!-- sida 110 -->
 
@@ -4395,13 +4444,6 @@ Styrelsen för Samordningsförbundet i Halland föreslås besluta:
 
 Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet
 https://sign.visma.net/sv/document-check/cc16b265-5a4b-4846-8e9a-af6a060af137 www.vismasign.com
-
-[Tabell 110-1](handlingar.tabeller/110-1.csv)
-
-| Falkenberg | 50 platser | 933 000 kr | 1 648 000<br>kr | 2025-05-01 |
-| --- | --- | --- | --- | --- |
-| Varberg | 50 platser | 600 000 kr | 1 648 000<br>kr | 2025-08-15 |
-| Totalt: | 257 platser | 4 162 000 kr | 8 471 000<br>kr |  |
 
 <!-- sida 111 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2b8a29c818ecba375e91af02/1713767052
 sha256: 3dc5b41d56ee881f812045cce5a2511c4b69d1c63c39d7f1f605f30fdd2b0e59
 bytes: 3303932
 sidor: 261
-hamtad: 2026-10-08T02:07:34+00:00
-konverterad: 2026-10-08T02:08:12+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T09:47:12+00:00
+konverterad: 2026-10-14T09:47:43+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [55, 93, 97, 98, 101, 102, 103, 233, 235, 236, 237, 240, 247]
+figurer: [50, 55, 63, 64, 72, 93, 96, 97, 98, 101, 102, 103, 113, 135, 137, 162, 218, 219, 220, 221, 230, 232, 233, 235, 236, 237, 238, 240]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1441,25 +1441,20 @@ dels att det i lagen ska införas en ny paragraf, 9 a §, samt närmast före 9 
 
 Boverket
 
-[Tabell 33-1](handlingar.tabeller/33-1.csv)
+[Tabell 33-34-1](handlingar.tabeller/33-34-1.csv)
 
 | Nuvarande lydelse | Föreslagen lydelse |
 | --- | --- |
 |  | Gränsvärde<br>9 a §<br>Byggnader som uppförs får inte över-<br>stiga gränsvärde för byggnaders kli-<br>matpåverkan.<br>Regeringen får meddela ytterligare fö-<br>reskrifter om gränsvärdet. |
 |  | 16 a § Tillsynsmyndigheten får sluta<br>avtal med en enskild person om att ut-<br>föra uppgifter inom tillsynen. Uppgifter<br>som innefattar myndighetsutövning när<br>Boverket prövar och fattar beslut i<br>ärendet får dock inte överlämnas. |
+| 17 § Om tillsynsmyndigheten beräknar ett<br>värde av klimatpåverkan från byggnaden<br>enligt 7 § 4 som väsentligt avviker från det<br>registrerade värdet ska myndigheten ge<br>byggherren tillfälle att inom en viss tid<br>lämna en förklaring till avvikelsen.<br>Myndigheten ska ändra det registrerade vär-<br>det till det värde som myndigheten har be-<br>räknat om inte byggherren har gjort sanno-<br>likt att avvikelsen enligt första stycket är<br>godtagbar. | 17 § Om tillsynsmyndigheten vid sin<br>tillsyn bedömer att det registrerade<br>värdet av klimatpåverkan från byggna-<br>den enligt 7 § 4 avviker från ett värde<br>som enligt myndigheten är rimligt ska<br>myndigheten ge byggherren tillfälle att<br>inom en viss tid rätta avvikelsen. |
+| 18 § Tillsynsmyndigheten får ta ut en sankt-<br>ionsavgift om<br>1. byggherren har lämnat oriktiga uppgif-<br>ter i klimatdeklarationen och skäligen borde<br>ha insett detta, och<br>2. det deklarerade värdet av klimatpåver-<br>kan från byggnaden enligt 7 § 4 väsentligt<br>avviker från tillsynsmyndighetens beräk-<br>nade värde på ett sätt som inte är godtag-<br>bart.<br>Regeringen får meddela ytterligare före-<br>skrifter om sanktionsavgiften. | 18 § Tillsynsmyndigheten får ta ut en<br>sanktionsavgift om<br>1. byggherren har lämnat oriktiga<br>uppgifter i klimatdeklarationen eller<br>lämnat felaktigt underlag och skäligen<br>borde ha insett detta, eller<br>2. det deklarerade värdet av klimatpå-<br>verkan från byggnaden enligt 7 § 4<br>överstiger gränsvärdet enligt 9 a §.<br>Innan tillsynsmyndigheten beslutar att<br>ta ut en sanktionsavgift ska byggherren<br>ges tillfälle att yttra sig.<br>Om sanktionsavgift tas ut enligt första<br>stycket 2 får inte sanktionsavgift tas ut<br>enligt första stycket 1. Avgiften får<br>högst uppgå till tjugo prisbasbelopp.<br>Regeringen får meddela ytterligare fö-<br>reskrifter om sanktionsavgiften. |
 
 <!-- sida 34 -->
 
 Gränsvärde för byggnaders klimatpåverkan                              17
 
 Boverket
-
-[Tabell 34-1](handlingar.tabeller/34-1.csv)
-
-| Nuvarande lydelse | Föreslagen lydelse |
-| --- | --- |
-| 17 § Om tillsynsmyndigheten beräknar ett<br>värde av klimatpåverkan från byggnaden<br>enligt 7 § 4 som väsentligt avviker från det<br>registrerade värdet ska myndigheten ge<br>byggherren tillfälle att inom en viss tid<br>lämna en förklaring till avvikelsen.<br>Myndigheten ska ändra det registrerade vär-<br>det till det värde som myndigheten har be-<br>räknat om inte byggherren har gjort sanno-<br>likt att avvikelsen enligt första stycket är<br>godtagbar. | 17 § Om tillsynsmyndigheten vid sin<br>tillsyn bedömer att det registrerade<br>värdet av klimatpåverkan från byggna-<br>den enligt 7 § 4 avviker från ett värde<br>som enligt myndigheten är rimligt ska<br>myndigheten ge byggherren tillfälle att<br>inom en viss tid rätta avvikelsen. |
-| 18 § Tillsynsmyndigheten får ta ut en sankt-<br>ionsavgift om<br>1. byggherren har lämnat oriktiga uppgif-<br>ter i klimatdeklarationen och skäligen borde<br>ha insett detta, och<br>2. det deklarerade värdet av klimatpåver-<br>kan från byggnaden enligt 7 § 4 väsentligt<br>avviker från tillsynsmyndighetens beräk-<br>nade värde på ett sätt som inte är godtag-<br>bart.<br>Regeringen får meddela ytterligare före-<br>skrifter om sanktionsavgiften. | 18 § Tillsynsmyndigheten får ta ut en<br>sanktionsavgift om<br>1. byggherren har lämnat oriktiga<br>uppgifter i klimatdeklarationen eller<br>lämnat felaktigt underlag och skäligen<br>borde ha insett detta, eller<br>2. det deklarerade värdet av klimatpå-<br>verkan från byggnaden enligt 7 § 4<br>överstiger gränsvärdet enligt 9 a §.<br>Innan tillsynsmyndigheten beslutar att<br>ta ut en sanktionsavgift ska byggherren<br>ges tillfälle att yttra sig.<br>Om sanktionsavgift tas ut enligt första<br>stycket 2 får inte sanktionsavgift tas ut<br>enligt första stycket 1. Avgiften får<br>högst uppgå till tjugo prisbasbelopp.<br>Regeringen får meddela ytterligare fö-<br>reskrifter om sanktionsavgiften. |
 
 <!-- sida 35 -->
 
@@ -1529,12 +1524,14 @@ Gränsvärde för byggnaders klimatpåverkan                              21
 
 Boverket
 
-[Tabell 38-1](handlingar.tabeller/38-1.csv)
+[Tabell 38-39-1](handlingar.tabeller/38-39-1.csv)
 
 | Nuvarande lydelse | Föreslagen lydelse |
 | --- | --- |
 |  | Gränsvärde<br>7 a § Byggnader som uppförs får ha en<br>klimatpåverkan som högst har följande<br>värden i kilogram koldioxidekvivalenter<br>per kvadratmeter bruttoarea<br>1. Flerbostadshus 375<br>2. Småhus 180<br>3. Kontor 385<br>4. Förskola 330<br>5. Utbildning exklusive förskola 380<br>6. Specialbostad 385<br>7. Övriga byggnader 460<br>Solceller ska inte ingå, vid en beräkning<br>av byggnadens klimatpåverkan som om-<br>fattas av gränsvärdet.<br>Om en byggnad ska ha flera använd-<br>ningsområden viktas gränsvärdet utifrån<br>de olika användningsområdenas area i<br>byggnaden.<br>Med specialbostad avses bostäder som är<br>avsedda för äldre, studenter, unga eller<br>personer med funktionsnedsättning. |
 | 12 § Byggherren ska se till att de un-<br>derlag som verifierar uppgifterna som har<br>angetts i klimatdeklarationen sparas i fem<br>år från det att klimatdeklarationen har<br>getts in. | 12 § Byggherren ska se till att de un-<br>derlag som verifierar uppgifterna som har<br>angetts i klimatdeklarationen sparas i fem<br>år från det att klimatdeklarationen har<br>getts in.<br>Boverket får meddela föreskrifter om hur<br>de upplysningar och handlingar som av-<br>ses i 16 § lagen (2021:787) om klimatde-<br>klaration för byggnader ska lämnas in till<br>Boverket. |
+|  | 12 a §<br>Byggherren ska vid en begäran från Bo-<br>verket visa upp ett digitalt underlag som<br>verifierar de uppgifter som angetts i kli-<br>matdeklarationen.<br>Underlag som verifierar de uppgifter som<br>har angetts i klimatdeklarationen ska in-<br>nehålla<br>1. verifikat på inköpta och levere-<br>rade byggprodukterna med<br>mängdangivelser, som har an-<br>vänts i byggnaden.<br>2. verifikat på produkt- och leve-<br>rantörspecifika klimatdata, om<br>sådana har använts.<br>Verifikat på inköpta byggprodukter ska<br>finnas för byggprodukter som täcker<br>minst 75 procent av byggnadens samman-<br>lagda klimatpåverkan.<br>Verifikat på produkt- och leverantörsspe-<br>cifika klimatdata ska finnas för alla bygg-<br>produkter där specifika klimatdata an-<br>vänts vid beräkning av klimatpåverkan. |
+| 13 § En sanktionsavgift enligt 18 § lagen<br>(2021:787) om klimatdeklaration för<br>byggnader fastställs med tillämpning av<br>det prisbasbelopp som gäller för det år<br>som beslutet om avgiften fattas.<br>Sanktionsavgiften är ett prisbasbelopp<br>med ett tillägg av 0,001 prisbasbelopp per<br>kvadratmeter av byggnadens samlade<br>bruttoarea. Avgiften får högst uppgå till<br>tio prisbasbelopp. | 13 § En sanktionsavgift enligt 18 § lagen<br>(2021:787) om klimatdeklaration för<br>byggnader fastställs med tillämpning av<br>det prisbasbelopp som gäller för det år<br>som beslutet om avgiften fattas.<br>Sanktionsavgiften avseende 18 § första<br>stycket 1 lagen (2021:787) om klimatde-<br>klaration för byggnader är ett prisbas-<br>belopp med ett tillägg av 0,001 prisbas-<br>belopp per kvadratmeter av byggnadens<br>samlade bruttoarea.<br>Sanktionsavgiften avseende 18 § första<br>stycket 2 lagen (2021:787) om klimatde-<br>klaration för byggnader är ett prisbas-<br>belopp med ett tillägg av 0,002 prisbas-<br>belopp per kvadratmeter av byggnadens<br>samlade bruttoarea. |
 
 <!-- sida 39 -->
 
@@ -1543,13 +1540,6 @@ Gränsvärde för byggnaders klimatpåverkan                              22
 1\. Denna förordning träder i kraft den 1 juli 2025.
 
 Boverket
-
-[Tabell 39-1](handlingar.tabeller/39-1.csv)
-
-| Nuvarande lydelse | Föreslagen lydelse |
-| --- | --- |
-|  | 12 a §<br>Byggherren ska vid en begäran från Bo-<br>verket visa upp ett digitalt underlag som<br>verifierar de uppgifter som angetts i kli-<br>matdeklarationen.<br>Underlag som verifierar de uppgifter som<br>har angetts i klimatdeklarationen ska in-<br>nehålla<br>1. verifikat på inköpta och levere-<br>rade byggprodukterna med<br>mängdangivelser, som har an-<br>vänts i byggnaden.<br>2. verifikat på produkt- och leve-<br>rantörspecifika klimatdata, om<br>sådana har använts.<br>Verifikat på inköpta byggprodukter ska<br>finnas för byggprodukter som täcker<br>minst 75 procent av byggnadens samman-<br>lagda klimatpåverkan.<br>Verifikat på produkt- och leverantörsspe-<br>cifika klimatdata ska finnas för alla bygg-<br>produkter där specifika klimatdata an-<br>vänts vid beräkning av klimatpåverkan. |
-| 13 § En sanktionsavgift enligt 18 § lagen<br>(2021:787) om klimatdeklaration för<br>byggnader fastställs med tillämpning av<br>det prisbasbelopp som gäller för det år<br>som beslutet om avgiften fattas.<br>Sanktionsavgiften är ett prisbasbelopp<br>med ett tillägg av 0,001 prisbasbelopp per<br>kvadratmeter av byggnadens samlade<br>bruttoarea. Avgiften får högst uppgå till<br>tio prisbasbelopp. | 13 § En sanktionsavgift enligt 18 § lagen<br>(2021:787) om klimatdeklaration för<br>byggnader fastställs med tillämpning av<br>det prisbasbelopp som gäller för det år<br>som beslutet om avgiften fattas.<br>Sanktionsavgiften avseende 18 § första<br>stycket 1 lagen (2021:787) om klimatde-<br>klaration för byggnader är ett prisbas-<br>belopp med ett tillägg av 0,001 prisbas-<br>belopp per kvadratmeter av byggnadens<br>samlade bruttoarea.<br>Sanktionsavgiften avseende 18 § första<br>stycket 2 lagen (2021:787) om klimatde-<br>klaration för byggnader är ett prisbas-<br>belopp med ett tillägg av 0,002 prisbas-<br>belopp per kvadratmeter av byggnadens<br>samlade bruttoarea. |
 
 <!-- sida 40 -->
 
@@ -1626,12 +1616,13 @@ Gränsvärde för byggnaders klimatpåverkan                              26
 
 Boverket
 
-[Tabell 43-1](handlingar.tabeller/43-1.csv)
+[Tabell 43-44-1](handlingar.tabeller/43-44-1.csv)
 
 | Nuvarande lydelse | Föreslagen lydelse |
 | --- | --- |
 | 8 § Uppgifterna om klimatpåverkan från<br>byggnaden ska omfatta<br>1. råvaruförsörjning i produktskedet,<br>2. transport i produktskedet,<br>3. tillverkning i produktskedet,<br>4. transport i byggproduktionsskedet, och<br>5. bygg- och installationsprocessen i<br>byggproduktionsskedet. | 8 § Uppgifterna om klimatpåverkan från<br>byggnaden ska vid uppförande av en bygg-<br>nad omfatta<br>1. råvaruförsörjning i produktskedet,<br>2. transport i produktskedet,<br>3. tillverkning i produktskedet,<br>4. transport i byggproduktionsskedet,<br>5. bygg- och installationsprocessen i<br>byggproduktionsskedet,<br>6. underhåll i användningsskedet,<br>7. utbyte i användningsskedet,<br>8. driftsenergi i användningsskedet,<br>9. demontering, rivning i slutskedet,<br>10. transport i slutskedet,<br>11. restproduktsbehandling i slutskedet, och<br>12. bortskaffning i slutskedet. |
 |  | 8 a § Uppgifterna om klimatpåverkan från<br>byggnaden ska vid annan ändring än till-<br>byggnad av en byggnad omfatta tillkom-<br>mande byggprodukter som ingår i den änd-<br>ring som omfattas av krav på klimatdekla-<br>ration avseende<br>1. råvaruförsörjning i produktskedet,<br>2. transport i produktskedet,<br>3. tillverkning i produktskedet,<br>4. transport i byggproduktionsskedet, och<br>5. bygg- och installationsprocessen i<br>byggproduktionsskedet. |
+| 9 § Regeringen eller den myndighet som re-<br>geringen bestämmer får meddela ytterligare<br>föreskrifter om vilka uppgifter som ska ingå<br>i en klimatdeklaration.<br>Regeringen eller den myndighet som rege-<br>ringen bestämmer får även meddela före-<br>skrifter om<br>1. vilka data som ska användas för att be-<br>räkna klimatpåverkan,<br>2. vilka delar av byggnaden som klimat-<br>deklarationen ska omfatta, och<br>3. undantag från delar av de krav som<br>ställs på klimatdeklarationens innehåll och<br>omfattning. | 9 § Regeringen eller den myndighet som re-<br>geringen bestämmer får meddela ytterligare<br>föreskrifter om vilka uppgifter som ska ingå<br>i en klimatdeklaration.<br>Regeringen eller den myndighet som rege-<br>ringen bestämmer får även meddela före-<br>skrifter om<br>1. vilka data som ska användas för att be-<br>räkna klimatpåverkan,<br>2. vilka delar av byggnaden och till bygg-<br>naden hörande åtgärder som klimatdekla-<br>rationen ska omfatta, och<br>3. undantag från delar av de krav som<br>ställs på klimatdeklarationens innehåll och<br>omfattning. |
 
 <!-- sida 44 -->
 
@@ -1658,12 +1649,6 @@ dels att 4 och 7 a §§ ska ha följande lydelse,
 dels att det i lagen ska införas en ny paragraf, 5 a §, av följande lydelse.
 
 Boverket
-
-[Tabell 44-1](handlingar.tabeller/44-1.csv)
-
-| Nuvarande lydelse | Föreslagen lydelse |
-| --- | --- |
-| 9 § Regeringen eller den myndighet som re-<br>geringen bestämmer får meddela ytterligare<br>föreskrifter om vilka uppgifter som ska ingå<br>i en klimatdeklaration.<br>Regeringen eller den myndighet som rege-<br>ringen bestämmer får även meddela före-<br>skrifter om<br>1. vilka data som ska användas för att be-<br>räkna klimatpåverkan,<br>2. vilka delar av byggnaden som klimat-<br>deklarationen ska omfatta, och<br>3. undantag från delar av de krav som<br>ställs på klimatdeklarationens innehåll och<br>omfattning. | 9 § Regeringen eller den myndighet som re-<br>geringen bestämmer får meddela ytterligare<br>föreskrifter om vilka uppgifter som ska ingå<br>i en klimatdeklaration.<br>Regeringen eller den myndighet som rege-<br>ringen bestämmer får även meddela före-<br>skrifter om<br>1. vilka data som ska användas för att be-<br>räkna klimatpåverkan,<br>2. vilka delar av byggnaden och till bygg-<br>naden hörande åtgärder som klimatdekla-<br>rationen ska omfatta, och<br>3. undantag från delar av de krav som<br>ställs på klimatdeklarationens innehåll och<br>omfattning. |
 
 <!-- sida 45 -->
 
@@ -2435,11 +2420,13 @@ regelbundna uppföljningen av reglerna.
 
 Boverket
 
-[Tabell 60-1](handlingar.tabeller/60-1.csv)
+[Tabell 60-61-1](handlingar.tabeller/60-61-1.csv)
 
 | Aktivitet | Syfte |
 | --- | --- |
 | Uttag av statistik från Boverkets klimat-<br>deklarationsregister. Sammanställning,<br>analys och publicering på boverket.se. | Utvärdera effekten av styrmedlet. |
+| Sammanställning och analys av informat-<br>ion från Boverkets tillsyn. | Utvärdera tillämpningen med syfte att:<br>- förbättra regelefterlevnaden.<br>- effektivisera tillsynen.<br>- utveckla regler. |
+| Uppföljning av framför allt tillämpningen<br>för att utveckla Boverkets handbok om<br>klimatdeklaration, bland annat genom<br>bransch- och kommunundersökningar. | Underlätta tillämpningen. |
 
 <!-- sida 61 -->
 
@@ -2473,13 +2460,6 @@ matdeklaration. Det är för tidigt att dra några slutsatser om kommunerna
 tillämpar reglerna i lagen om klimatdeklaration och PBL på rätt sätt.
 
 Boverket
-
-[Tabell 61-1](handlingar.tabeller/61-1.csv)
-
-| Aktivitet | Syfte |
-| --- | --- |
-| Sammanställning och analys av informat-<br>ion från Boverkets tillsyn. | Utvärdera tillämpningen med syfte att:<br>- förbättra regelefterlevnaden.<br>- effektivisera tillsynen.<br>- utveckla regler. |
-| Uppföljning av framför allt tillämpningen<br>för att utveckla Boverkets handbok om<br>klimatdeklaration, bland annat genom<br>bransch- och kommunundersökningar. | Underlätta tillämpningen. |
 
 <!-- sida 62 -->
 
@@ -4216,19 +4196,6 @@ gk
 A1-A5           20 % bättre än 75-percentilen 30 % bättre än 75-percentilen
 75-percentilen  Median
 
-[Tabell 93-1](handlingar.tabeller/93-1.csv)
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
 <!-- sida 94 -->
 
 Gränsvärde för byggnaders klimatpåverkan                              77
@@ -4408,14 +4375,16 @@ ment/material transport).
 9
 8
 7
-
+-23%
 6
 5
+-49%
 4
-
+-62%
 3
+-75%
 2
-85%
+-85%
 1
 0
 2020      2025      2030     2035      2040     2045
@@ -4458,19 +4427,6 @@ tm
 2
 Total construction emissions Building materials
 Construction equipment/ material transports
-
-[Tabell 97-1](handlingar.tabeller/97-1.csv)
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  | -23% |  |  |  |
-|  |  |  |  |  |
-|  |  | -49% |  |  |
-|  |  |  | -62% |  |
-|  |  |  |  | -75% |
-|  |  |  |  | - |
-|  |  |  |  |  |
 
 <!-- sida 98 -->
 
@@ -4686,16 +4642,6 @@ snärgmetsys
 gk
 A1-A5 75-percentilen Median 20 % bättre än 75-percentilen 30 % bättre än 75-percentilen
 
-[Tabell 101-1](handlingar.tabeller/101-1.csv)
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
 <!-- sida 102 -->
 
 Gränsvärde för byggnaders klimatpåverkan                              85
@@ -4749,15 +4695,6 @@ snärgmetsys
 ,ATB/e2OC
 gk
 A1-A5 75-percentilen Median 20 % bättre än 75-percentilen 30 % bättre än 75-percentilen
-
-[Tabell 102-1](handlingar.tabeller/102-1.csv)
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 <!-- sida 103 -->
 
@@ -4817,14 +4754,6 @@ snärgmetsys
 ,ATB/e2OC
 gk
 A1-A5  75-percentilen Median 20 % bättre än 75-percentilen 30 % bättre än 75-percentilen
-
-[Tabell 103-1](handlingar.tabeller/103-1.csv)
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 <!-- sida 104 -->
 
@@ -7193,7 +7122,7 @@ oönskade konsekvenserna med skarpa gränsvärden.
 
 Boverket
 
-[Tabell 145-1](handlingar.tabeller/145-1.csv)
+[Tabell 145-147-1](handlingar.tabeller/145-147-1.csv)
 
 | Fråga/egenskap | Uttryckt farhåga om oönskad konsekvens | Kommentar om behov av utvär-<br>dering och fortsatta studier |
 | --- | --- | --- |
@@ -7202,21 +7131,18 @@ Boverket
 | Fördyring | Farhåga: Skulle skarpa gränsvärden kunna leda<br>till dyrare bostäder?<br>Resonemang: Det skulle kunna leda till en fördy-<br>ring av produktionen av byggnader, om imple-<br>mentering av klimatförbättrad betong leder till<br>längre byggtider. | Det är bra om frågan utvärderas<br>inför skärpningen av gränsvärden. |
 | Transporter av kli-<br>matförbättrade pro-<br>dukter | Farhåga: Skulle skarpa gränsvärden kunna<br>medföra att det blir svårare att klara gränsvärdet,<br>i till exempel norra Sverige på grund av längre<br>transporter.<br>Resonemang: Det skulle kunna leda till en ökad<br>klimatpåverkan på grund av längre transport-<br>avstånd, om klimatförbättrade produkter bara<br>produceras i en del av landet. | Detta är inte något problem så<br>länge generiska data används i<br>klimatdeklarationen för modul A4.<br>Och ökningen är generellt margi-<br>nell, sett till den totala klimatpå-<br>verkan för modul A1–A5, även om<br>specifika data används. |
 | Funktioner | Farhåga: Skulle skarpa gränsvärden kunna leda<br>till att det byggs färre underliggande garage och<br>källare?<br>Resonemang: Det skulle kunna leda till att man<br>undviker att bygga in sådana funktioner i bygg-<br>nader, om det kostar mer klimatpåverkan att<br>bygga källare och underliggande garage. | Referensenheten för klimatdekla-<br>rationen är kvadratmeter BTA,<br>bland annat för att motverka detta.<br>Det finns än så länge inga studier<br>i Sverige, som pekar på att bygg-<br>nader med underliggande källare<br>och garage skulle ha svårare att<br>nå ett gränsvärde än byggnader<br>utan dessa funktioner. |
+| Rumshöjd | Farhåga: Skulle skarpa gränsvärden kunna leda<br>till att man inte kan bygga högre rumshöjder i<br>byggnader?<br>Resonemang: Högre rumshöjder innebär i prin-<br>cip att klimatskärmens area blir större i förhål-<br>lande till byggnadens bruttoarea, vilket därmed<br>kan tänkas leda till högre klimatpåverkan per<br>kvadratmeter bruttoarea. | Det är bra om frågan utvärderas<br>inför skärpningen av gränsvärden. |
+| Småhus i tegel eller<br>betong | Farhåga: Skulle skarpa gränsvärden kunna leda<br>till att det inte går att uppföra småhus i tegel eller<br>betong?<br>Resonemang: De referensvärden som gränsvär-<br>dena bygger på för småhus, baseras enbart på<br>byggnader med trä som dominerande stom-<br>material (då marknaden domineras av detta).<br>Frågan är då om gränsvärdena kan nås om man<br>bygger i andra material. Ett krav på tegelfasad<br>kan exempelvis ställas i en detaljplan. | Utredningens förslag har, för att ta<br>höjd för detta, ändrats inför slut-<br>rapporten till att föreslå ett mindre<br>skarpt gränsvärde för småhusen<br>från 2025. Det bedöms som rimligt<br>att nå. Men det kan då krävas nå-<br>gon form av klimatförbättrande åt-<br>gärder redan 2025, vilket är fullt<br>rimligt. Det bedöms vara fullt möj-<br>ligt att nå gränsvärdet då det är en<br>avgränsad byggdel, om det enbart<br>handlar om fasadmaterial. Ett<br>småhus i klassisk betongstomme<br>kommer inte att klara gränsvärdet,<br>men Boverket har inte sett att det<br>finns näringsidkare som uppför<br>sådana byggnader. |
+| Formfaktor | Farhåga: Skulle skarpa gränsvärden kunna leda<br>till att vissa husformer, såsom punkthus, premie-<br>ras?<br>Resonemang: Ju mindre klimatskärmsarea i för-<br>hållande till bruttoarea, desto mindre klimatpå-<br>verkan för modul A1-A5. | Denna fråga undersöktes i refe-<br>rensvärdesstudien, och det syntes<br>ingen sådan påverkan i det urvalet<br>av byggnader. Frågan har även ti-<br>digare studerats i (N. Brown,<br>2013). Det framkom där inga vä-<br>sentliga skillnader mellan de stu-<br>derade alternativen. |
+| Klimatzon | Farhåga: Skulle skarpa gränsvärden kunna göra<br>det svårare att uppföra byggnader som klarar<br>gränsvärden i ett mer nordligt klimat?<br>Resonemang: Det skulle krävas mer isolerings-<br>material för att uppnå kravet på energiprestanda<br>i mer nordligt klimat. | Denna fråga undersöktes i refe-<br>rensvärdesstudien, och det syntes<br>ingen sådan påverkan. Men det<br>förekom samtidigt inga byggnader<br>i klimatzon 1 i urvalet. Frågan har<br>även tidigare studerats i<br>(Erlandsson & Pettersson, 2015).<br>Det visades att bättre isolerade<br>byggnader än enligt kravet i BBR,<br>ger ett marginellt bidrag relativt<br>sett till klimatpåverkan i byggske-<br>det. |
+| Modul B6 saknas i<br>gränsvärdet | Farhåga: Skulle skarpa gränsvärden kunna leda<br>till att en hög energieffektivitet får ett lägre fokus<br>vid nyproduktion av byggnader?<br>Resonemang: Det skulle krävas mer isolerings-<br>material för att uppnå en byggnad med hög<br>energieffektivitet. | Se ovan. Det stora fokus som det<br>nya regelverket för klimatdeklarat-<br>ion för med sig på byggskedets<br>klimatpåverkan i kombination med<br>frågan om en ökad användning av<br>solceller understöds, riskerar dock<br>att innebära ett lägre fokus på att<br>få till mer energieffektiva klimat-<br>skärmar än vad BBR-kravet krä-<br>ver. Det är en fråga som kan vara<br>intressant att utvärdera längre<br>fram. |
+| Nya krav på skydds-<br>rum | Farhåga: Skulle nya krav på skyddsrum kunna<br>leda till att det blir svårt att nå föreslagna gräns-<br>värden?<br>Resonemang: Det skulle krävas mer tunga<br>material och utrymmen under mark. | Se ovan angående byggnader<br>med våningar under mark. Det<br>diskuteras även om skyddsrum<br>ska ses som en del av totalförsva-<br>ret, och därmed undantas klimat-<br>deklarationen. |
 
 <!-- sida 146 -->
 
 Gränsvärde för byggnaders klimatpåverkan                             129
 
 Boverket
-
-[Tabell 146-1](handlingar.tabeller/146-1.csv)
-
-| Fråga/egenskap | Uttryckt farhåga om oönskad konsekvens | Kommentar om behov av utvär-<br>dering och fortsatta studier |
-| --- | --- | --- |
-| Rumshöjd | Farhåga: Skulle skarpa gränsvärden kunna leda<br>till att man inte kan bygga högre rumshöjder i<br>byggnader?<br>Resonemang: Högre rumshöjder innebär i prin-<br>cip att klimatskärmens area blir större i förhål-<br>lande till byggnadens bruttoarea, vilket därmed<br>kan tänkas leda till högre klimatpåverkan per<br>kvadratmeter bruttoarea. | Det är bra om frågan utvärderas<br>inför skärpningen av gränsvärden. |
-| Småhus i tegel eller<br>betong | Farhåga: Skulle skarpa gränsvärden kunna leda<br>till att det inte går att uppföra småhus i tegel eller<br>betong?<br>Resonemang: De referensvärden som gränsvär-<br>dena bygger på för småhus, baseras enbart på<br>byggnader med trä som dominerande stom-<br>material (då marknaden domineras av detta).<br>Frågan är då om gränsvärdena kan nås om man<br>bygger i andra material. Ett krav på tegelfasad<br>kan exempelvis ställas i en detaljplan. | Utredningens förslag har, för att ta<br>höjd för detta, ändrats inför slut-<br>rapporten till att föreslå ett mindre<br>skarpt gränsvärde för småhusen<br>från 2025. Det bedöms som rimligt<br>att nå. Men det kan då krävas nå-<br>gon form av klimatförbättrande åt-<br>gärder redan 2025, vilket är fullt<br>rimligt. Det bedöms vara fullt möj-<br>ligt att nå gränsvärdet då det är en<br>avgränsad byggdel, om det enbart<br>handlar om fasadmaterial. Ett<br>småhus i klassisk betongstomme<br>kommer inte att klara gränsvärdet,<br>men Boverket har inte sett att det<br>finns näringsidkare som uppför<br>sådana byggnader. |
-| Formfaktor | Farhåga: Skulle skarpa gränsvärden kunna leda<br>till att vissa husformer, såsom punkthus, premie-<br>ras?<br>Resonemang: Ju mindre klimatskärmsarea i för-<br>hållande till bruttoarea, desto mindre klimatpå-<br>verkan för modul A1-A5. | Denna fråga undersöktes i refe-<br>rensvärdesstudien, och det syntes<br>ingen sådan påverkan i det urvalet<br>av byggnader. Frågan har även ti-<br>digare studerats i (N. Brown,<br>2013). Det framkom där inga vä-<br>sentliga skillnader mellan de stu-<br>derade alternativen. |
-| Klimatzon | Farhåga: Skulle skarpa gränsvärden kunna göra<br>det svårare att uppföra byggnader som klarar<br>gränsvärden i ett mer nordligt klimat?<br>Resonemang: Det skulle krävas mer isolerings-<br>material för att uppnå kravet på energiprestanda<br>i mer nordligt klimat. | Denna fråga undersöktes i refe-<br>rensvärdesstudien, och det syntes<br>ingen sådan påverkan. Men det<br>förekom samtidigt inga byggnader<br>i klimatzon 1 i urvalet. Frågan har<br>även tidigare studerats i<br>(Erlandsson & Pettersson, 2015).<br>Det visades att bättre isolerade<br>byggnader än enligt kravet i BBR,<br>ger ett marginellt bidrag relativt<br>sett till klimatpåverkan i byggske-<br>det. |
 
 <!-- sida 147 -->
 
@@ -7252,13 +7178,6 @@ nästa nivå för gränsvärden, enligt de svarande. För mer information om
 Boverkets överväganden se kapitlet ”Konsekvenser”.
 
 Boverket
-
-[Tabell 147-1](handlingar.tabeller/147-1.csv)
-
-| Fråga/egenskap | Uttryckt farhåga om oönskad konsekvens | Kommentar om behov av utvär-<br>dering och fortsatta studier |
-| --- | --- | --- |
-| Modul B6 saknas i<br>gränsvärdet | Farhåga: Skulle skarpa gränsvärden kunna leda<br>till att en hög energieffektivitet får ett lägre fokus<br>vid nyproduktion av byggnader?<br>Resonemang: Det skulle krävas mer isolerings-<br>material för att uppnå en byggnad med hög<br>energieffektivitet. | Se ovan. Det stora fokus som det<br>nya regelverket för klimatdeklarat-<br>ion för med sig på byggskedets<br>klimatpåverkan i kombination med<br>frågan om en ökad användning av<br>solceller understöds, riskerar dock<br>att innebära ett lägre fokus på att<br>få till mer energieffektiva klimat-<br>skärmar än vad BBR-kravet krä-<br>ver. Det är en fråga som kan vara<br>intressant att utvärdera längre<br>fram. |
-| Nya krav på skydds-<br>rum | Farhåga: Skulle nya krav på skyddsrum kunna<br>leda till att det blir svårt att nå föreslagna gräns-<br>värden?<br>Resonemang: Det skulle krävas mer tunga<br>material och utrymmen under mark. | Se ovan angående byggnader<br>med våningar under mark. Det<br>diskuteras även om skyddsrum<br>ska ses som en del av totalförsva-<br>ret, och därmed undantas klimat-<br>deklarationen. |
 
 <!-- sida 148 -->
 
@@ -11813,14 +11732,16 @@ Gränsvärde för byggnaders klimatpåverkan                             218
 8
 7
 
-6
+6          -23%
 5
 4
-
+-61%
 3
+-71%
 2
+-87%
 1
-94%
+-94%
 0
 2020    2025    2030    2035    2040    2045
 
@@ -11851,12 +11772,16 @@ Construction equipment/ material transports
 9
 8
 7
+-23%
 6
 5
+-49%
 4
+-62%
 3
+-75%
 2
-5%
+-85%
 1
 0
 2020    2025    2030    2035    2040   2045
@@ -11867,32 +11792,6 @@ tm
 Total construction emissions
 Building materials
 Construction equipment/ material transports
-
-[Tabell 235-1](handlingar.tabeller/235-1.csv)
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  | -23% |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  | -61% |  |  |
-|  |  |  | -71% |  |
-|  |  |  |  | -87% |
-|  |  |  |  | - |
-
-[Tabell 235-2](handlingar.tabeller/235-2.csv)
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  | -23% |  |  |  |
-|  |  |  |  |  |
-|  |  | -49% |  |  |
-|  |  |  | -62% |  |
-|  |  |  |  | -75% |
-|  |  |  |  | -8 |
-|  |  |  |  |  |
 
 <!-- sida 236 -->
 
@@ -12065,13 +11964,15 @@ Ett underlag från de tillfrågade branschaktörerna.
 
 Boverket
 
-[Tabell 238-1](handlingar.tabeller/238-1.csv)
+[Tabell 238-239-1](handlingar.tabeller/238-239-1.csv)
 
 | Aktör (material) | Vilka stora osäkerheter finns det kring denna<br>uppskattade minskning, för respektive pro-<br>dukt/materialkategori? Hur påverkar dessa osä-<br>kerheter klimatpåverkan? |
 | --- | --- |
 | Svensk Betong<br>(betong som tillverkas<br>i Sverige, både fa-<br>briksbetong och prefa-<br>belement). | Det geopolitiska läget påverkar tillgången till råvaror,<br>materialpriserna, bränslepriserna, energin, med<br>mera. CCS i Slite krävs för att nå målen. |
 | Stålbyggnads-<br>Institutet (Konstrukt-<br>ionsstål). | För stål tillverkat i Sverige är osäkerheterna att<br>uppnå målet till 2030 små. Globalt sett finns det<br>många osäkerheter. |
 | Celsa (armeringsstål). | Inga stora osäkerheter. |
+| Swedisol (Mineralull,<br>dvs både sten- och<br>glasull). | Tillgången till förnybar el. Tilldelningen av miljötill-<br>stånd och liknande. Betalningsviljan. Utvecklingen av<br>lagkrav. |
+| Knauf (gips). | Tillgången till fossilfritt bränsle (biogas, vätgas, grön<br>LPG, med mera). Eltillgången i södra Sverige. Ris-<br>ken för brister under en omställningsprocess. |
 
 <!-- sida 239 -->
 
@@ -12097,13 +11998,6 @@ stor möjlig minskning av klimatpåverkan till 2030 och längre fram, på
 medellång sikt.
 
 Boverket
-
-[Tabell 239-1](handlingar.tabeller/239-1.csv)
-
-| Aktör (material) | Vilka stora osäkerheter finns det kring denna<br>uppskattade minskning, för respektive pro-<br>dukt/materialkategori? Hur påverkar dessa osä-<br>kerheter klimatpåverkan? |
-| --- | --- |
-| Swedisol (Mineralull,<br>dvs både sten- och<br>glasull). | Tillgången till förnybar el. Tilldelningen av miljötill-<br>stånd och liknande. Betalningsviljan. Utvecklingen av<br>lagkrav. |
-| Knauf (gips). | Tillgången till fossilfritt bränsle (biogas, vätgas, grön<br>LPG, med mera). Eltillgången i södra Sverige. Ris-<br>ken för brister under en omställningsprocess. |
 
 <!-- sida 240 -->
 
@@ -12593,7 +12487,7 @@ port frångås dock något.
 
 [Tabell 251-1](handlingar.tabeller/251-1.csv)
 
-| Byggnadstyp Nuvarande för- Uppdate- Metodik, värde för<br>slag på gräns- rade gräns- byggnadstypen från<br>värde värde (kg referensvärdesrappor-<br>(kg CO e/m2 CO e/m2 ten avrundat till närm-<br>2 2<br>BTA) BTA) raste femtal |  |  |  |
+| Byggnadstyp | Nuvarande för-<br>slag på gräns-<br>värde<br>(kg CO e/m2<br>2<br>BTA) | Uppdate-<br>rade gräns-<br>värde (kg<br>CO e/m2<br>2<br>BTA) | Metodik, värde för<br>byggnadstypen från<br>referensvärdesrappor-<br>ten avrundat till närm-<br>raste femtal |
 | --- | --- | --- | --- |
 | Flerbostadshus | 375 | 365 | Medianen |
 | Kontor | 385 | 385 |  |
@@ -12678,26 +12572,56 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (5)
 
-[Tabell 254-1](handlingar.tabeller/254-1.csv)
+Kommunstyrelsens förvaltning - 20234-03-25 SE-2024-00112 Intern kontroll 2023 för
 
-| Kommunstyrelsens förvaltning -<br>Tjänsteskrivelse<br>Internkontrollrapport 2023 | 20234-03-25 | SE-2024-00112 | Intern kontroll 2023 för<br>Kungsbacka kommun |
-| --- | --- | --- | --- |
-| Uppföljningsrapport intern<br>kontroll 2023, Kungsbacka<br>kommun | 20234-03-25 | SE-2024-00112 | Intern kontroll 2023 för<br>Kungsbacka kommun |
-| (Nämnden för Vård & Omsorg)<br>(Beslut § 41) Årsplan för<br>konkurrensutsättning av<br>verksamhet 2024 | 2024-03-28 | SE-2024-00122 | Årsplan för<br>konkurrensutsättning av<br>verksamhet 2024 -<br>Nämnden för Vård & Omsorg |
-| Förvaltningen för Vård &<br>Omsorg Tjänsteskrivelse - Årlig<br>konkurrensutsättningsplan 2024 | 2024-03-28 | SE-2024-00122 | Årsplan för<br>konkurrensutsättning av<br>verksamhet 2024 -<br>Nämnden för Vård & Omsorg |
-| (Vård & Omsorg) - Årsplan för<br>konkurrensutsättning av<br>verksamhet 2024 | 2024-03-28 | SE-2024-00122 | Årsplan för<br>konkurrensutsättning av<br>verksamhet 2024 -<br>Nämnden för Vård & Omsorg |
-| Grundläggande granskning<br>2023 -<br>Revisionsrapport (Följebrev) | 2024-04-03 | SE-2024-00125 | Grundläggande granskning<br>2023 |
-| Grundläggande granskning<br>2023 - Rapport | 2024-04-03 | SE-2024-00125 | Grundläggande granskning<br>2023 |
-| Revisionens grundläggande<br>granskning 2024 - (E-post) | 2024-04-04 | SE-2024-00127 | Revisionens grundläggande<br>granskning 2024 |
-| Grundläggande granskning<br>2024 - Projektplan | 2024-04-04 | SE-2024-00127 | Revisionens grundläggande<br>granskning 2024 |
-| (Kommunfullmäktige)<br>(Beslut § 51)<br>Årsredovisning 2023 för<br>Kungsbacka kommun | 2024-04-18 | SE-2024-00148 | Årsredovisning 2023 för<br>Kungsbacka kommun |
+Tjänsteskrivelse                              Kungsbacka kommun
+Internkontrollrapport 2023
+
+Uppföljningsrapport intern 20234-03-25 SE-2024-00112 Intern kontroll 2023 för
+kontroll 2023, Kungsbacka                     Kungsbacka kommun
+kommun
+
+(Nämnden för Vård & Omsorg) 2024-03-28 SE-2024-00122 Årsplan för
+(Beslut § 41) Årsplan för                     konkurrensutsättning av
+konkurrensutsättning av                       verksamhet 2024 -
+
+verksamhet 2024                               Nämnden för Vård & Omsorg
+Förvaltningen för Vård & 2024-03-28 SE-2024-00122 Årsplan för
+
+Omsorg Tjänsteskrivelse - Årlig               konkurrensutsättning av
+konkurrensutsättningsplan 2024                verksamhet 2024 -
+Nämnden för Vård & Omsorg
+
+(Vård & Omsorg) - Årsplan för 2024-03-28 SE-2024-00122 Årsplan för
+konkurrensutsättning av                       konkurrensutsättning av
+verksamhet 2024                               verksamhet 2024 -
+Nämnden för Vård & Omsorg
+
+Grundläggande granskning 2024-04-03 SE-2024-00125 Grundläggande granskning
+2023 -                                        2023
+
+Revisionsrapport (Följebrev)
+Grundläggande granskning 2024-04-03 SE-2024-00125 Grundläggande granskning
+
+2023 - Rapport                                2023
+Revisionens grundläggande 2024-04-04 SE-2024-00127 Revisionens grundläggande
+
+granskning 2024 - (E-post)                    granskning 2024
+Grundläggande granskning 2024-04-04 SE-2024-00127 Revisionens grundläggande
+
+2024 - Projektplan                            granskning 2024
+(Kommunfullmäktige)    2024-04-18 SE-2024-00148 Årsredovisning 2023 för
+
+(Beslut § 51)                                 Kungsbacka kommun
+Årsredovisning 2023 för
+Kungsbacka kommun
 
 <!-- sida 255 -->
 
 KUNGSBACKA  KOMMUN
 3 (5)
 
-[Tabell 255-1](handlingar.tabeller/255-1.csv)
+[Tabell 255-257-1](handlingar.tabeller/255-257-1.csv)
 
 | Kommunledningskontorets<br>Tjänsteskrivelse -<br>Årsredovisning 2023 för<br>Kungsbacka kommun | 2024-04-18 | SE-2024-00148 | Årsredovisning 2023 för<br>Kungsbacka kommun |
 | --- | --- | --- | --- |
@@ -12707,21 +12631,19 @@ KUNGSBACKA  KOMMUN
 | Revisionsberättelse 2023 för<br>Kungsbacka kommun | 2024-04-18 | SE-2024-00149 | Revisionsberättelse 2023 för<br>Kungsbacka kommun och<br>fråga om ansvarsfrihet |
 | (Kommunfullmäktige)<br>(Beslut § 59)<br>Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt regler<br>för fakturering och<br>kravhantering | 2024-04-18 | SE-2024-00150 | Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering |
 | Kommunledningskontorets<br>Tjänsteskrivelse -<br>Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt regler<br>för fakturering och<br>kravhantering | 2024-04-18 | SE-2024-00150 | Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering |
-
-<!-- sida 256 -->
-
-KUNGSBACKA  KOMMUN
-4 (5)
-
-[Tabell 256-1](handlingar.tabeller/256-1.csv)
-
 | Regler för fakturering och<br>kravhantering<br>(KF 2024-04-09 § 59) | 2024-04-18 | SE-2024-00150 | Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering |
-| --- | --- | --- | --- |
 | Gemensamt reglemente för<br>kommunstyrelsen och nämnder | 2024-04-18 | SE-2024-00150 | Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering |
 | Reglemente för<br>Kommunstyrelsen<br>(2024-04-09 § 59) | 2024-04-18 | SE-2024-00150 | Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering |
 | Finansverksamhet - Riktlinjer | 2024-04-18 | SE-2024-00150 | Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering |
 | Finansverksamhet - Policy | 2024-04-18 | SE-2024-00150 | Antagande av policy och<br>riktlinjer för<br>finansverksamheten samt<br>regler för fakturering och<br>kravhantering |
 | (Kommunfullmäktige)<br>(Beslut § 60)<br>Antagande av program för mål,<br>uppföljning och insyn av<br>verksamhet som utförs av<br>privata utförare 2024–2027 | 2024-04-18 | SE-2024-00151 | Antagande av program för mål,<br>uppföljning och insyn av<br>verksamhet som utförs av<br>privata utförare 2024–2027 |
+| Kommunstyrelsens förvaltnings<br>Tjänsteskrivelse -<br>Program för mål, uppföljning<br>och insyn av verksamhet som<br>utförs av privata utförare<br>2024–2027 | 2024-04-18 | SE-2024-00151 | Antagande av program för mål,<br>uppföljning och insyn av<br>verksamhet som utförs av<br>privata utförare 2024–2027 |
+| Mål, uppföljning och insyn av<br>verksamhet som utförs av<br>privata utförare -<br>Program för 2024–2027 | 2024-04-18 | SE-2024-00151 | Antagande av program för mål,<br>uppföljning och insyn av<br>verksamhet som utförs av<br>privata utförare 2024–2027 |
+
+<!-- sida 256 -->
+
+KUNGSBACKA  KOMMUN
+4 (5)
 
 <!-- sida 257 -->
 
@@ -12735,12 +12657,6 @@ Förvaltningen för Services tjänsteskrivelse, 2024-04-02
 Julia Tryggvadottir Tollesson
 
 Förvaltningschef Service
-
-[Tabell 257-1](handlingar.tabeller/257-1.csv)
-
-| Kommunstyrelsens förvaltnings<br>Tjänsteskrivelse -<br>Program för mål, uppföljning<br>och insyn av verksamhet som<br>utförs av privata utförare<br>2024–2027 | 2024-04-18 | SE-2024-00151 | Antagande av program för mål,<br>uppföljning och insyn av<br>verksamhet som utförs av<br>privata utförare 2024–2027 |
-| --- | --- | --- | --- |
-| Mål, uppföljning och insyn av<br>verksamhet som utförs av<br>privata utförare -<br>Program för 2024–2027 | 2024-04-18 | SE-2024-00151 | Antagande av program för mål,<br>uppföljning och insyn av<br>verksamhet som utförs av<br>privata utförare 2024–2027 |
 
 <!-- sida 258 -->
 

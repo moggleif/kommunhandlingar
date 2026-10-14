@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.45b391719bb98c9f25c85b0/17688061572
 sha256: 2adbf8bba394b6a59c591f1cccef91b08208bca76cc37b17249431094b45c9e8
 bytes: 5494295
 sidor: 172
-hamtad: 2026-10-08T02:13:39+00:00
-konverterad: 2026-10-08T02:14:09+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:52:47+00:00
+konverterad: 2026-10-14T09:53:18+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [40]
+figurer: [16, 22, 36, 39, 40, 57, 172]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -355,7 +355,7 @@ EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ - INDIKATORER
 |  |  |
 |  |  |
 
-[Tabell 9-2](handlingar.tabeller/9-2.csv)
+[Tabell 9-10-2](handlingar.tabeller/9-10-2.csv)
 
 | Indikator | Utvärde<br>ra A, B,<br>C | Målsättning<br>2027<br>(öka/minsk<br>a) | Kommentar nya förslag |
 | --- | --- | --- | --- |
@@ -367,6 +367,13 @@ EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ - INDIKATORER
 | Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- pojkar. |  |  |  |
 | Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  |
 | Fossiloberoende personbilar, andel av totalt antal<br>bilar i det geografiska området, (Kolada) |  |  |  |
+| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | A | 1,4 | Utifrån nuläget är målet på<br>1,4 rimligt under kommande<br>år |
+| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021 var<br>antalet 124 (KEMgroup PRO) | B |  | Antal produkter med<br>utfasningsämnen i halter<br>över 0,05 % ska minska i<br>kommunens verksamheter.<br>Till utfasningsämnen räknas<br>också hormonstörande<br>ämnen på SIN-listan. |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  |
+| Andelen återbrukade möbler |  |  |  |
+| Total debiterad vattenförbrukning fördelat på antal<br>anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  |
+| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn |  |  |  |
 
 <!-- sida 10 -->
 
@@ -374,17 +381,6 @@ Nämnden för Service                              Kungsbacka kommun
 Underlag till Kommunbudget 2027
 
 8
-
-[Tabell 10-1](handlingar.tabeller/10-1.csv)
-
-| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | A | 1,4 | Utifrån nuläget är målet på<br>1,4 rimligt under kommande<br>år |
-| --- | --- | --- | --- |
-| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021 var<br>antalet 124 (KEMgroup PRO) | B |  | Antal produkter med<br>utfasningsämnen i halter<br>över 0,05 % ska minska i<br>kommunens verksamheter.<br>Till utfasningsämnen räknas<br>också hormonstörande<br>ämnen på SIN-listan. |
-| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  |
-| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  |
-| Andelen återbrukade möbler |  |  |  |
-| Total debiterad vattenförbrukning fördelat på antal<br>anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  |
-| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn |  |  |  |
 
 <!-- sida 11 -->
 
@@ -739,7 +735,7 @@ Kungsbacka kommun              Styrande dokument                4 (4)
 
 [Tabell 19-1](handlingar.tabeller/19-1.csv)
 
-| Service [belopp i mkr] |  | 2027 2028 2029 2030 2031 |  |  |  |  | Totalt 2027-<br>2031 |
+| Service [belopp i mkr] |  | 2027 | 2028 | 2029 | 2030 | 2031 | Totalt 2027-<br>2031 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Lokalvård | Löpande | 0,7 | 0,7 | 0,7 | 0,7 | 0,7 | 3,5 |
 | Service Management (SM) | Löpande | 3,0 | 3,0 | 3,0 | 3,0 | 3,0 | 15,0 |
@@ -756,7 +752,7 @@ Kungsbacka kommun              Styrande dokument                4 (4)
 
 [Tabell 19-2](handlingar.tabeller/19-2.csv)
 
-| Service [belopp i mkr] |  | 2032 2033 2034 2035 2036 |  |  |  |  | Totalt 2032-<br>2036 | Totalt 2027-<br>2036 |
+| Service [belopp i mkr] |  | 2032 | 2033 | 2034 | 2035 | 2036 | Totalt 2032-<br>2036 | Totalt 2027-<br>2036 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Lokalvård | Löpande | 0,7 | 0,7 | 0,7 | 0,7 | 0,7 | 3,5 | 7,0 |
 | Service Management (SM) | Löpande | 3,0 | 3,0 | 3,0 | 3,0 | 3,0 | 15,0 | 30,0 |
@@ -920,9 +916,6 @@ utgiftsnivå för planperioden 2027–2031:
 
 Totalt
 2027–
-Behov plan 2027–2031 (Mkr) 2027 2028 2029 2030 2031  2031
-Reinvesteringar grund  75    80    85    90    95
-Totalt                  75    80    85    90    90  425,0
 
 2.2 Omfattande reinvesteringar i enskilda byggnader
 
@@ -953,6 +946,13 @@ att uppnå kostnadseffektiva helhetslösningar. Då större renoveringsprojekt i
 säkerställa ett kontrollerat och framgångsrikt genomförande.
 
 Kungsbacka kommun              Styrande dokument               4 (13)
+
+[Tabell 23-1](handlingar.tabeller/23-1.csv)
+
+| Behov plan 2027–2031 (Mkr) | 2027 | 2028 | 2029 | 2030 | 2031 | 2031 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Reinvesteringar grund | 75 | 80 | 85 | 90 | 95 |  |
+| Totalt | 75 | 80 | 85 | 90 | 90 | 425,0 |
 
 <!-- sida 24 -->
 
@@ -1329,66 +1329,58 @@ Tabeller
 Första fem åren
 
 Totalt 2027-
-Behov plan 2027-2031      2027 2028 2029 2030 2031    2031
-Löpande investeringar                     1,0          1,0
-Verksamhetsanpassningar    7,0  5,0  5,0  5,0  5,0    27,0
-Reinvesteringar           102,2 92,5 177,6 313,9 376,5 1 062,8
-Total                     109,2 97,5 182,6 319,9 381,5 1 090,8
-Reinvesteringar, specifikation:
-Reinvesteringar grund     75,0 80,0 85,0 90,0 95,0  425,0
-Toråsskolan               25,9 2,3                   28,2
-Åsaskolan idrottshall rivning och nybyggnation 0,8 27,9 46,0 7,7 82,4
-Åsaskolan                      0,8  57,0 104,0 17,2 179,0
-Grundskola Onsala                   0,4  36,8 162,1 199,3
-Stadshuset                1,3  8,6  3,3              13,3
-Ögärdets förskola                                     0,0
-Kullaviks förskola                  4,0  32,8 21,8   58,6
-Gamla ishallen                           4,3  72,7   77,0
-Totalt                    102,2 92,5 177,6 313,9 376,5 1 062,8
 
 Utblicksår 6–10 samt totala 10-årsperioden
 Nedan tabell återger utblicksåren och slutligen den totala summan för tioårsperioden
 
 Totalt 2032- Totalt 2026-
-Behov plan 2027-2031   2032 2033 2034 2035 2036 2036  2035
-Löpande investeringar                2,0        2,0    3,0
-Verksamhetsanpassningar 5,0 5,0  5,0 5,0  5,0   25,0  52,0
-Reinvesteringar        261,0 137,0 129,7 105,0 110,0 742,7 1 805,5
-Total                  266,0 142,0 134,7 112,0 115,0 769,7 1 860,5
-Reinvesteringar, specifikation:
-Reinvesteringar grund 100,0 100,0 105,0 105,0 110,0 520,0 945,0
-Toråsskolan                                    0,0   28,2
-Åsaskolan idrottshall rivning och nybyggnation 0,0   82,4
-
-```osaker-tabell
-Åsaskolan                                      0,0   179,0
-Grundskola Onsala     108,0                   108,0  307,3
-Stadshuset                                     0,0   13,3
-Ögärdets förskola      4,5 37,0 24,7           66,2  66,2
-Kullaviks förskola                             0,0   58,6
-Gamla ishallen        48,5                     48,5  125,5
-```
-
-Totalt                 261,0 137,0 129,7 105,0 110,0 742,7 1 805,5
 
 Kungsbacka kommun              Styrande dokument               12 (13)
+
+[Tabell 31-1](handlingar.tabeller/31-1.csv)
+
+| Behov plan 2027-2031 | 2027 | 2028 | 2029 | 2030 | 2031 | 2031 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Löpande investeringar |  |  |  | 1,0 |  | 1,0 |
+| Verksamhetsanpassningar | 7,0 | 5,0 | 5,0 | 5,0 | 5,0 | 27,0 |
+| Reinvesteringar | 102,2 | 92,5 | 177,6 | 313,9 | 376,5 | 1 062,8 |
+| Total | 109,2 | 97,5 | 182,6 | 319,9 | 381,5 | 1 090,8 |
+| Reinvesteringar, specifikation: |  |  |  |  |  |  |
+| Reinvesteringar grund | 75,0 | 80,0 | 85,0 | 90,0 | 95,0 | 425,0 |
+| Toråsskolan | 25,9 | 2,3 |  |  |  | 28,2 |
+| Åsaskolan idrottshall rivning och nybyggnation |  | 0,8 | 27,9 | 46,0 | 7,7 | 82,4 |
+| Åsaskolan |  | 0,8 | 57,0 | 104,0 | 17,2 | 179,0 |
+| Grundskola Onsala |  |  | 0,4 | 36,8 | 162,1 | 199,3 |
+| Stadshuset | 1,3 | 8,6 | 3,3 |  |  | 13,3 |
+| Ögärdets förskola |  |  |  |  |  | 0,0 |
+| Kullaviks förskola |  |  | 4,0 | 32,8 | 21,8 | 58,6 |
+| Gamla ishallen |  |  |  | 4,3 | 72,7 | 77,0 |
+| Totalt | 102,2 | 92,5 | 177,6 | 313,9 | 376,5 | 1 062,8 |
+
+[Tabell 31-2](handlingar.tabeller/31-2.csv)
+
+| Behov plan 2027-2031 | 2032 | 2033 | 2034 | 2035 | 2036 | 2036 | 2035 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Löpande investeringar |  |  |  | 2,0 |  | 2,0 | 3,0 |
+| Verksamhetsanpassningar | 5,0 | 5,0 | 5,0 | 5,0 | 5,0 | 25,0 | 52,0 |
+| Reinvesteringar | 261,0 | 137,0 | 129,7 | 105,0 | 110,0 | 742,7 | 1 805,5 |
+| Total | 266,0 | 142,0 | 134,7 | 112,0 | 115,0 | 769,7 | 1 860,5 |
+| Reinvesteringar, specifikation: |  |  |  |  |  |  |  |
+| Reinvesteringar grund | 100,0 | 100,0 | 105,0 | 105,0 | 110,0 | 520,0 | 945,0 |
+| Toråsskolan |  |  |  |  |  | 0,0 | 28,2 |
+| Åsaskolan idrottshall rivning och nybyggnation |  |  |  |  |  | 0,0 | 82,4 |
+| Åsaskolan |  |  |  |  |  | 0,0 | 179,0 |
+| Grundskola Onsala | 108,0 |  |  |  |  | 108,0 | 307,3 |
+| Stadshuset |  |  |  |  |  | 0,0 | 13,3 |
+| Ögärdets förskola | 4,5 | 37,0 | 24,7 |  |  | 66,2 | 66,2 |
+| Kullaviks förskola |  |  |  |  |  | 0,0 | 58,6 |
+| Gamla ishallen | 48,5 |  |  |  |  | 48,5 | 125,5 |
+| Totalt | 261,0 | 137,0 | 129,7 | 105,0 | 110,0 | 742,7 | 1 805,5 |
 
 <!-- sida 32 -->
 
 Engångsdrift första fem åren
 Engångsdrift inkl restvärde kopplat till ovan    Totalt 2027-
-investeringsbehov, mkr    2027 2028 2029 2030 2031   2031
-Åsaskolan idrottshall rivning och nybyggnation 6,4 0,1 6,5
-Åsaskolan                           26,1      0,1    26,2
-Grundskola Onsala                        23,9 0,9    24,8
-Stadshuset                0,9  0,1                   1,0
-Ögärdets förskola                                    0,0
-
-```osaker-tabell
- Kullaviks förskola                       4,4  0,1    4,5
- Gamla ishallen                                11,2   11,2
-Totalt                     0,9  0,1 32,5 28,3 12,4    74,2
-```
 
 Tillkommer ev kostnader för behov av evakueringslokaler
 
@@ -1410,6 +1402,19 @@ Totalt                  1,0 6,1  0,1 0,0 0,0    7,2   81,4
 Tillkommer ev kostnader för behov av evakueringslokaler
 
 Kungsbacka kommun              Styrande dokument               13 (13)
+
+[Tabell 32-1](handlingar.tabeller/32-1.csv)
+
+| investeringsbehov, mkr | 2027 | 2028 | 2029 | 2030 | 2031 | 2031 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Åsaskolan idrottshall rivning och nybyggnation |  |  | 6,4 |  | 0,1 | 6,5 |
+| Åsaskolan |  |  | 26,1 |  | 0,1 | 26,2 |
+| Grundskola Onsala |  |  |  | 23,9 | 0,9 | 24,8 |
+| Stadshuset | 0,9 | 0,1 |  |  |  | 1,0 |
+| Ögärdets förskola |  |  |  |  |  | 0,0 |
+| Kullaviks förskola |  |  |  | 4,4 | 0,1 | 4,5 |
+| Gamla ishallen |  |  |  |  | 11,2 | 11,2 |
+| Totalt | 0,9 | 0,1 | 32,5 | 28,3 | 12,4 | 74,2 |
 
 <!-- sida 33 -->
 
@@ -1960,19 +1965,47 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (3)
 
-[Tabell 42-1](handlingar.tabeller/42-1.csv)
+Sammanställning - Redovisning av 2025-12-18 SE-2025-00533 Redovisning av icke
+icke färdigberedda motioner                    färdigberedda motioner
+(2, 2025)                                      (2, 2025)
 
-| Sammanställning - Redovisning av<br>icke färdigberedda motioner<br>(2, 2025) | 2025-12-18 | SE-2025-00533 | Redovisning av icke<br>färdigberedda motioner<br>(2, 2025) |
-| --- | --- | --- | --- |
-| (Kommunfullmäktige)<br>(Beslut § 240)<br>- Koncernbudget 2026 | 2025-12-18 | SE-2025-00534 | Koncernbudget 2026<br>(KS 2024-00717) |
-| Kommunledningskontorets<br>Tjänsteskrivelse - Koncernbudget<br>2026 | 2025-12-18 | SE-2025-00534 | Koncernbudget 2026<br>(KS 2024-00717) |
-| (Kommunfullmäktige)<br>(Beslut § 114) - Kommunbudget<br>2026, plan 2027-2028 | 2025-12-18 | SE-2025-00534 | Koncernbudget 2026<br>(KS 2024-00717) |
-| Kommunkoncernens investeringar<br>och lånebehov 2025-2028 | 2025-12-18 | SE-2025-00534 | Koncernbudget 2026<br>(KS 2024-00717) |
-| Kommunbudget 2026,<br>plan 2027-2028 | 2025-12-18 | SE-2025-00534 | Koncernbudget 2026<br>(KS 2024-00717) |
-| EKSTA Bostads AB - Budget 2026 | 2025-12-18 | SE-2025-00534 | Koncernbudget 2026<br>(KS 2024-00717) |
-| (Kommunstyrelsen)<br>(Beslut § 261) - Godkännande av<br>anvisningar för fördelning av<br>medel för Trygg uppväxt | 2025-12-19 | SE-2025-00537 | Godkännande av anvisningar<br>för fördelning av medel för<br>Trygg uppväxt |
-| Kommunledningskontorets<br>tjänsteskrivelse - Godkännande av<br>anvisningar för fördelning av<br>medel för Trygg uppväxt | 2025-12-19 | SE-2025-00537 | Godkännande av anvisningar<br>för fördelning av medel för<br>Trygg uppväxt |
-| (Kommunstyrelsen)<br>(Beslut § 262) - Undertecknande<br>av handlingar och beslut för<br>stiftelser | 2025-12-19 | SE-2025-00538 | Undertecknande av handlingar<br>och beslut för stiftelser |
+(Kommunfullmäktige)      2025-12-18 SE-2025-00534 Koncernbudget 2026
+(Beslut § 240)                                 (KS 2024-00717)
+\- Koncernbudget 2026
+
+Kommunledningskontorets  2025-12-18 SE-2025-00534 Koncernbudget 2026
+Tjänsteskrivelse - Koncernbudget               (KS 2024-00717)
+2026
+
+(Kommunfullmäktige)      2025-12-18 SE-2025-00534 Koncernbudget 2026
+(Beslut § 114) - Kommunbudget                  (KS 2024-00717)
+
+2026, plan 2027-2028
+Kommunkoncernens investeringar 2025-12-18 SE-2025-00534 Koncernbudget 2026
+
+och lånebehov 2025-2028                        (KS 2024-00717)
+Kommunbudget 2026,       2025-12-18 SE-2025-00534 Koncernbudget 2026
+
+plan 2027-2028                                 (KS 2024-00717)
+EKSTA Bostads AB - Budget 2026 2025-12-18 SE-2025-00534 Koncernbudget 2026
+(KS 2024-00717)
+
+(Kommunstyrelsen)        2025-12-19 SE-2025-00537 Godkännande av anvisningar
+(Beslut § 261) - Godkännande av                för fördelning av medel för
+
+anvisningar för fördelning av                  Trygg uppväxt
+medel för Trygg uppväxt
+
+Kommunledningskontorets  2025-12-19 SE-2025-00537 Godkännande av anvisningar
+tjänsteskrivelse - Godkännande av              för fördelning av medel för
+anvisningar för fördelning av                  Trygg uppväxt
+medel för Trygg uppväxt
+
+(Kommunstyrelsen)        2025-12-19 SE-2025-00538 Undertecknande av handlingar
+(Beslut § 262) - Undertecknande                och beslut för stiftelser
+
+av handlingar och beslut för
+stiftelser
 
 <!-- sida 43 -->
 

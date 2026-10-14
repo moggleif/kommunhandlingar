@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6d61586419bc36939b21188b/1768548719
 sha256: dda11aa808521dac9470b3145f17bfcaeaea1a1ac03313ac5280d549be0a51ce
 bytes: 203642
 sidor: 4
-hamtad: 2026-10-08T00:45:42+00:00
-konverterad: 2026-10-08T00:45:48+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T08:38:46+00:00
+konverterad: 2026-10-14T08:38:52+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok]
+kvalitet_per_sida: [ok, tabell-osaker, tabell-osaker, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -108,13 +108,49 @@ KUNGSBACKA  KOMMUN
 
 3(4)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
+Ärende                Beteckning Förslag
 
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-|  |  |  | i den önskade takten. På kort sikt hanterar Teknik<br>glappet mellan det egentliga behovet och tilldelade<br>medel genom att prioritera i samverkan med<br>Samhällsbyggnadskontoret. På längre sikt kommer<br>den utbyggnadsplan som nu tas fram att bli ett<br>nödvändigt verktyg för att tydliggöra beroenden,<br>göra gemensamma prioriteringar och få alla budgetar<br>att bättre gå i takt. Utbyggnadsplanen projektleds av<br>Samhällsbyggnadskontoret men drivs som ett<br>kommunövergripande arbete.<br>Investeringar (TSEK) (prisnivå 2026)<br>2027 2028 2029 2030<br>2031 2032-2036<br>Vatten och Avlopp, summa nettokostnad, Behov<br>Exkl FAR<br>350 000 475 179 477 570 718 640<br>821 400 1 829 020<br>Nämnden för Teknik beslutar att fastställa<br>procentuell fördelning mellan underportföljer inom<br>respektive ekonomi i enlighet med bilagor. |
-| 3. | Underlag till kommunbudget<br>2027<br>Föredragande: Ulrika Granfors<br>17:35 – 18:00 | TE-2026-<br>00009 | Nämnden för Teknik fastställer Underlag till<br>kommunbudget 2027 och översänder<br>den till budgetberedningen för vidare hantering. |
-| 4. | Avfallstaxa 2026<br>Föredragande: Ulrika Granfors<br>18:00 – 18:05 | TE-2025-<br>00170 | Nämnden för Teknik antar Avfallstaxa 2026, daterad<br>2026-01-05.<br>Nämnden för Teknik översänder Avfallstaxan till<br>kommunfullmäktige för fastställande. Avfallstaxa<br>beslutad av kommunfullmäktige 2025-11-04 § 223,<br>upphör samtidigt att gälla.<br>Nämnden för Teknik förklarar paragrafen<br>omedelbart justerad. |
+i den önskade takten. På kort sikt hanterar Teknik
+glappet mellan det egentliga behovet och tilldelade
+medel genom att prioritera i samverkan med
+Samhällsbyggnadskontoret. På längre sikt kommer
+den utbyggnadsplan som nu tas fram att bli ett
+nödvändigt verktyg för att tydliggöra beroenden,
+göra gemensamma prioriteringar och få alla budgetar
+att bättre gå i takt. Utbyggnadsplanen projektleds av
+Samhällsbyggnadskontoret men drivs som ett
+kommunövergripande arbete.
+
+Investeringar (TSEK) (prisnivå 2026)
+2027     2028     2029     2030
+
+2031     2032-2036
+Vatten och Avlopp, summa nettokostnad, Behov
+Exkl FAR
+350 000  475 179  477 570  718 640
+821 400  1 829 020
+
+Nämnden för Teknik beslutar att fastställa
+procentuell fördelning mellan underportföljer inom
+respektive ekonomi i enlighet med bilagor.
+
+3\.  Underlag till kommunbudget TE-2026- Nämnden för Teknik fastställer Underlag till
+2027                  00009     kommunbudget 2027 och översänder
+den till budgetberedningen för vidare hantering.
+Föredragande: Ulrika Granfors
+17:35 – 18:00
+
+4\.  Avfallstaxa 2026      TE-2025-  Nämnden för Teknik antar Avfallstaxa 2026, daterad
+00170     2026-01-05.
+Föredragande: Ulrika Granfors
+18:00 – 18:05
+Nämnden för Teknik översänder Avfallstaxan till
+kommunfullmäktige för fastställande. Avfallstaxa
+beslutad av kommunfullmäktige 2025-11-04 § 223,
+upphör samtidigt att gälla.
+
+Nämnden för Teknik förklarar paragrafen
+omedelbart justerad.
 
 <!-- sida 4 -->
 

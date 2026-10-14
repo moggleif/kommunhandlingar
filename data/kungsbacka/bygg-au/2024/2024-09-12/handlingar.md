@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6582e5c2191974ffda7f673/17256125668
 sha256: 26b291fa792e0a2936d4a26eaf6ff27e6bfefea1c60045d721a9bddf88079d2b
 bytes: 1708948
 sidor: 57
-hamtad: 2026-10-08T00:20:56+00:00
-konverterad: 2026-10-08T00:21:12+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T08:17:18+00:00
+konverterad: 2026-10-14T08:17:30+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [24, 27, 32, 33, 34, 35]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -2068,13 +2068,17 @@ Aktuellt forum för respektive digital tjänst eller system framgår i tabellen 
 nedan rekommenderas det att forumet genomförs med undantag för Avtalsuppföljning där Ja innebär att det
 är obligatoriskt.
 
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
+[Tabell 46-47-1](handlingar.tabeller/46-47-1.csv)
 
 | Utvecklingsråd Användarforum Avstämningsmöte Leverantörsmöte Avtalsuppföljning Systemförvaltarforum |  |
 | --- | --- |
 | Publik tjänst | Nej Nej Vid behov Nej Nej Nej |
 | Myndighets-<br>tjänst | Nej Nej Vid behov Ja Nej Nej |
 | Kommersiella<br>tjänster | Nej Nej Vid behov Vid behov Nej Nej |
+| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
+| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
+| Plattform | Ja Ja Ja Ja Ja Ja |
+| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
 
 <!-- sida 47 -->
 
@@ -2123,14 +2127,6 @@ Förslag på agenda:
 •  Dialog om rutiner och arbetet med digital tjänst och system
 
 •  Erfarenhetsutbyte
-
-[Tabell 47-1](handlingar.tabeller/47-1.csv)
-
-| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
-| --- | --- |
-| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
-| Plattform | Ja Ja Ja Ja Ja Ja |
-| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
 
 <!-- sida 48 -->
 

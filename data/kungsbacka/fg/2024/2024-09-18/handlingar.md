@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7104ecc3191f52a6c7143b77/1726468952
 sha256: 5411be417eae256109db6c0e1ca5291e2184ea8714eb238bd730111593d3181f
 bytes: 2689036
 sidor: 82
-hamtad: 2026-10-07T22:49:00+00:00
-konverterad: 2026-10-07T22:49:15+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T06:58:27+00:00
+konverterad: 2026-10-14T06:58:41+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [19, 20, 21]
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1881,22 +1881,65 @@ Kostnaden för undervisning per elev ökar med 4,5 % jämfört med 2022. Det ber
 
 4.2 Resursmått
 
+Namn         Utfall 2020 Utfall 2021 Utfall 2022 Utfall 2023 Utfall 2024
+
+Kostnad per
+inskrivet barn i
+135 349    136 691    127 000       131 824
+pedagogisk
+omsorg
+Kostnad per
+inskrivet barn,
+163 325    168 505    175 173       183 671
+kommunal
+förskola
+Kostnad per
+inskrivet barn,
+43 719     46 373      48 538        48 258
+kommunalt
+fritidshem
+Kostnad per
+elev,         582 800    550 300    547 700
+grundsärskola
+Kostnad
+kommunal
+110 400    113 067    119 100       128 776
+grundskola åk
+1-9, kr/elev
+
 20
-
-[Tabell 45-1](handlingar.tabeller/45-1.csv)
-
-|  | Namn Utfall 2020 Utfall 2021 Utfall 2022 Utfall 2023 Utfall 2024 |
-| --- | --- |
-| Kostnad per<br>inskrivet barn i<br>135 349 136 691 127 000 131 824<br>pedagogisk<br>omsorg |  |
-| Kostnad per<br>inskrivet barn,<br>163 325 168 505 175 173 183 671<br>kommunal<br>förskola |  |
-| Kostnad per<br>inskrivet barn,<br>43 719 46 373 48 538 48 258<br>kommunalt<br>fritidshem |  |
-| Kostnad per<br>elev, 582 800 550 300 547 700<br>grundsärskola |  |
-| Kostnad<br>kommunal<br>110 400 113 067 119 100 128 776<br>grundskola åk<br>1-9, kr/elev |  |
 
 <!-- sida 46 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Delårsrapport Augusti 2024
+
+Namn         Utfall 2020 Utfall 2021 Utfall 2022 Utfall 2023 Utfall 2024
+Kostnad för
+undervisning i
+kommunal      62 502     65 337      68 215        71 309
+grundskola åk
+1-9, kr/elev
+Kostnad för
+lokaler i
+kommunal      18 783     19 080      21 239        23 177
+grundskola åk
+1-9, kr/elev
+Kostnad för
+lärverktyg i
+kommunal       5 167      4 828      5 840         6 708
+grundskola åk
+1-9, kr/elev
+Kostnad för
+måltider i
+kommunal       7 376      7 520      6 721         7 009
+grundskola åk
+1-9, kr/elev
+Kostnad
+elevhälsa i
+kommunal       3 123      3 394      3 443         4 149
+grundskola åk
+1-9, kr/elev
 
 4.3 Prestationsmått
 
@@ -1924,16 +1967,6 @@ förskola
 Barn 1-5 år, andel i förskola 86,6 % 87,4 % 85,4 %  88,7 %
 
 21
-
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
-
-|  | Namn Utfall 2020 Utfall 2021 Utfall 2022 Utfall 2023 Utfall 2024 |
-| --- | --- |
-| Kostnad för<br>undervisning i<br>kommunal 62 502 65 337 68 215 71 309<br>grundskola åk<br>1-9, kr/elev |  |
-| Kostnad för<br>lokaler i<br>kommunal 18 783 19 080 21 239 23 177<br>grundskola åk<br>1-9, kr/elev |  |
-| Kostnad för<br>lärverktyg i<br>kommunal 5 167 4 828 5 840 6 708<br>grundskola åk<br>1-9, kr/elev |  |
-| Kostnad för<br>måltider i<br>kommunal 7 376 7 520 6 721 7 009<br>grundskola åk<br>1-9, kr/elev |  |
-| Kostnad<br>elevhälsa i<br>kommunal 3 123 3 394 3 443 4 149<br>grundskola åk<br>1-9, kr/elev |  |
 
 <!-- sida 47 -->
 
@@ -2309,6 +2342,37 @@ Delårsrapport Augusti 2024
 
 Utfall och prognos
 
+Bokslut Budget Prognos Budget-  Delår   Delår Avvikelse
+Miljoner kronor
+
+```osaker-tabell
+               2023    2024   2024   avvikelse 2023   2024    delår
+Nämnd o styrelse -2,1    -2,3    -2,1    0,2    -1,3    -1,3     0,0
+Öppen förskola   -5,3    -5,2    -4,9    0,3    -3,5    -3,3     0,2
+Förskola        -600,1 -602,0  -609,5    -7,5  -404,9  -403,9    1,0
+```
+
+Pedagogisk
+-10,3    -9,7    -9,7    0,0    -7,2    -6,3     0,9
+omsorg
+Fritidshem      -129,0 -131,5  -132,2    -0,7   -87,0  -86,6     0,4
+Förskoleklass &
+-981,1 -986,9  -994,5    -7,6  -651,1  -651,5   -0,4
+grundskola
+Anpassad
+-39,4   -40,7   -41,5    -0,8   -26,6  -24,4     2,2
+grundskola
+Gemensam
+verksamhet,
+-441,1 -492,5  -495,6    -3,1  -289,4  -322,8   -33,4
+lokaler,
+stödverksamhet
+LSS, Korttidstillsyn
+-5,1    -5,8    -6,0    -0,2   -3,2    -3,7    -0,5
+efter 13 års ålder
+Periodens
+-2 213,5 -2 276,6 -2 296,0 -19,4 -1 474,2 -1 503,8 -29,6
+resultat
 Sammanfattning - text till kommunstyrelsen
 Nämnden prognostiserar ett underskott på 19,4 miljoner kronor för 2024. Det motsvarar en avvikelse mot
 budget på 0,9 %. I underskottet ingår kostnader för utvecklingsprojekt med 9,6 miljoner kronor vilka är
@@ -2327,22 +2391,6 @@ En ytterligare orsak till underskottet är att tilläggsbeloppen till de fristå
 budget. Tilläggsbelopp är de medel fristående enheter kan söka för barn i behov av extraordinära stödåtgärder.
 
 29
-
-[Tabell 54-1](handlingar.tabeller/54-1.csv)
-
-| Miljoner kronor<br>Nämnd o styrelse | Bokslut<br>2023<br>-2,1 | Budget<br>2024<br>-2,3 | Prognos<br>2024<br>-2,1 | Budget-<br>avvikelse<br>0,2 | Delår<br>2023<br>-1,3 | Delår<br>2024<br>-1,3 | Avvikelse<br>delår<br>0,0 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Öppen förskola | -5,3 | -5,2 | -4,9 | 0,3 | -3,5 | -3,3 | 0,2 |
-| Förskola | -600,1 | -602,0 | -609,5 | -7,5 | -404,9 | -403,9 | 1,0 |
-| Pedagogisk<br>omsorg | -10,3 | -9,7 | -9,7 | 0,0 | -7,2 | -6,3 | 0,9 |
-| Fritidshem | -129,0 | -131,5 | -132,2 | -0,7 | -87,0 | -86,6 | 0,4 |
-| Förskoleklass &<br>grundskola | -981,1 | -986,9 | -994,5 | -7,6 | -651,1 | -651,5 | -0,4 |
-| Anpassad<br>grundskola | -39,4 | -40,7 | -41,5 | -0,8 | -26,6 | -24,4 | 2,2 |
-| Gemensam<br>verksamhet,<br>lokaler,<br>stödverksamhet | -441,1 | -492,5 | -495,6 | -3,1 | -289,4 | -322,8 | -33,4 |
-| LSS, Korttidstillsyn<br>efter 13 års ålder | -5,1 | -5,8 | -6,0 | -0,2 | -3,2 | -3,7 | -0,5 |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-| Periodens<br>resultat | -2 213,5 | -2 276,6 | -2 296,0 | -19,4 | -1 474,2 | -1 503,8 | -29,6 |
 
 <!-- sida 55 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1587654f19ddca7e89dbb054/1778177827
 sha256: f1abb9cee52a1358355bd2a919586b77273ce8df198097c14e515ba79c3a43d6
 bytes: 108637
 sidor: 4
-hamtad: 2026-10-08T02:52:40+00:00
-konverterad: 2026-10-08T02:52:46+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T10:26:35+00:00
+konverterad: 2026-10-14T10:26:41+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -54,7 +54,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -62,20 +62,18 @@ KUNGSBACKA  KOMMUN
 | 5. | Information till nämnd:<br>uppdatering Destination<br>Föredragande: Wendela Sanne-<br>Öhrnell, enhetschef Destination<br>20 min<br>1 st dokument | KFT-2026-<br>00126 | Nämnden noterar informationen till protokollet. |
 | 6. | Uppföljning per april 2026<br>Föredragande: Malin<br>Fjellström, controller<br>15 min<br>2 st dokument | KFT-2026-<br>00127 | Nämnden för Kultur & Fritid godkänner uppföljning<br>per april och prognos för 2026. |
 | 7. | Definition armlängds avstånd<br>för nämnd och förvaltning<br>Föredragande: Karl Persson,<br>förvaltningschef, Sofia Rosén,<br>verksamhetschef Kultur &<br>Demokrati<br>10 min<br>1 st dokument | KFT-2026-<br>00140 | Nämnden definierar armlängds avstånd för nämnd<br>och förvaltning:<br>Armlängds avstånd innebär att politiken (nämnden)<br>beslutar om mål, budget och ramar, medan<br>professionen (tjänstepersonerna) självständigt avgör<br>innehåll och kvalitativa bedömningar i utbud och<br>verksamhet. |
+| 8. | Information till nämnd:<br>förvaltningens förhållningssätt<br>till armlängds avstånd<br>Föredragande: Karl Persson,<br>förvaltningschef, Sofia Rosén,<br>verksamhetschef Kultur &<br>Demokrati<br>10 min<br>1 st dokument | KFT-2026-<br>00141 | Nämnden noterar informationen till protokollet. |
+| 9. | Delrapportering uppdrag<br>ridanläggningar<br>Föredragande: Karl Persson,<br>förvaltningschef, Sofia Rosén,<br>verksamhetschef Kultur &<br>Demokrati<br>20 min<br>1 st dokument | KFT-2026-<br>00128 | Nämnden noterar informationen till protokollet. |
+| 10. | Initiativärende<br>Socialdemokraterna: Nya<br>lokaler för Tölöscouterna<br>Föredragande: Karl Persson,<br>förvaltningschef<br>5 min<br>1 st dokument | KFT-2026-<br>00138 | Nämnden anser initiativet vara besvarat, då det ingår<br>i verkställighet. |
+| 11. | Anmälan av delegeringsbeslut<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>3 st dokument | KFT-2026-<br>00129 | Redovisning av delegeringsbeslut förtecknade i<br>protokoll 2026-05-13 godkänns. |
+| 12. | Redovisning av inkomna<br>skrivelser<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>3 st dokument | KFT-2026-<br>00130 | Nämnden noterar redovisningen till protokollet. |
+| 13. | Förvaltningschefen informerar<br>Föredragande: Karl Persson,<br>förvaltningschef<br>1 st dokument | KFT-2026-<br>00131 | Nämnden noterar informationen till protokollet. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Information till nämnd:<br>förvaltningens förhållningssätt<br>till armlängds avstånd<br>Föredragande: Karl Persson,<br>förvaltningschef, Sofia Rosén,<br>verksamhetschef Kultur &<br>Demokrati<br>10 min<br>1 st dokument | KFT-2026-<br>00141 | Nämnden noterar informationen till protokollet. |
-| 9. | Delrapportering uppdrag<br>ridanläggningar<br>Föredragande: Karl Persson,<br>förvaltningschef, Sofia Rosén,<br>verksamhetschef Kultur &<br>Demokrati<br>20 min<br>1 st dokument | KFT-2026-<br>00128 | Nämnden noterar informationen till protokollet. |
-| 10. | Initiativärende<br>Socialdemokraterna: Nya<br>lokaler för Tölöscouterna<br>Föredragande: Karl Persson,<br>förvaltningschef<br>5 min<br>1 st dokument | KFT-2026-<br>00138 | Nämnden anser initiativet vara besvarat, då det ingår<br>i verkställighet. |
 
 <!-- sida 4 -->
 
@@ -85,11 +83,3 @@ KUNGSBACKA  KOMMUN
 
 Annika Hedman                     Erik Norinder
 ordförande                        sekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | Anmälan av delegeringsbeslut<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>3 st dokument | KFT-2026-<br>00129 | Redovisning av delegeringsbeslut förtecknade i<br>protokoll 2026-05-13 godkänns. |
-| 12. | Redovisning av inkomna<br>skrivelser<br>Föredragande: Erik Norinder,<br>utvecklingsledare<br>3 st dokument | KFT-2026-<br>00130 | Nämnden noterar redovisningen till protokollet. |
-| 13. | Förvaltningschefen informerar<br>Föredragande: Karl Persson,<br>förvaltningschef<br>1 st dokument | KFT-2026-<br>00131 | Nämnden noterar informationen till protokollet. |

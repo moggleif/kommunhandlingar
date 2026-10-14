@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7241f4f2192bd482d571a524/1729857342
 sha256: fcc674f74137a837be14d841bb9eeb55b7deb81d0438b6f7f12caf0613d1d4b8
 bytes: 193358
 sidor: 18
-hamtad: 2026-10-08T01:59:48+00:00
-konverterad: 2026-10-08T01:59:56+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T09:39:59+00:00
+konverterad: 2026-10-14T09:40:06+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -599,17 +599,43 @@ själv ta över ärendet och fatta beslut.
 Sammanställning av delegeringsbeslut för anställningar augusti 2024 återrapporteras
 i separat bilaga.
 
+Ärende/ärendegr Beslut, insats Beslutsfattare Beslutsdatum Dnr
+upp enligt    samt
+delegationslistan ev. omfattning
+
+2.3.8
+AB § 10 mom.1-3            Christina
+Avstängning              2024-08-23
+Carlsson
+Tf VC
+2.1.10                     Julia
+Dataskyddsförord           Tryggvadottir
+Hantering av             2024-09-11 SE 2024-
+ningen GDPR,
+personuppgiftsinci
+Tollesson
+00388
+artikel 33 och 34          FC
+dent
+2.1.7
+Dataskydds -               Anders
+Ingå                     2024-09-16 Avtal 2024-
+förordningen               Johansson
+personuppgifts -                    00369
+GDPR, artikel 28           Bitr.Kdir
+biträdesavtal för                   (SE 2024-
+Hantering av
+kommungemensa                       00357)
+personuppgifter,
+mma digitala
+Riktlinjer,
+tjänster och system
+Kommunfullmäkti
+ge 2024 -03 -05 §
+33
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 8A567001B74B2BDBDC16A7A860021E91F5628506DA
 Transaktionsidentitet: F29C4F138DF0E804C03ED8BEF2C0D51F954F5DB54F
-
-[Tabell 15-1](protokoll.tabeller/15-1.csv)
-
-| Ärende/ärendegr<br>upp enligt<br>delegationslistan | Beslut, insats<br>samt<br>ev. omfattning | Beslutsfattare | Beslutsdatum | Dnr |
-| --- | --- | --- | --- | --- |
-| 2.3.8<br>AB § 10 mom.1-3 | Avstängning | Christina<br>Carlsson<br>Tf VC | 2024-08-23 |  |
-| 2.1.10<br>Dataskyddsförord<br>ningen GDPR,<br>artikel 33 och 34 | Hantering av<br>personuppgiftsinci<br>dent | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2024-09-11 | SE 2024-<br>00388 |
-| 2.1.7<br>Dataskydds -<br>förordningen<br>GDPR, artikel 28<br>Hantering av<br>personuppgifter,<br>Riktlinjer,<br>Kommunfullmäkti<br>ge 2024 -03 -05 §<br>33 | Ingå<br>personuppgifts -<br>biträdesavtal för<br>kommungemensa<br>mma digitala<br>tjänster och system | Anders<br>Johansson<br>Bitr.Kdir | 2024-09-16 | Avtal 2024-<br>00369<br>(SE 2024-<br>00357) |
 
 <!-- sida 16 -->
 

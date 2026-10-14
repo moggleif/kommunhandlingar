@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.bf4d0b1965b8a126d7dac4/174590653519
 sha256: d4edea1f1408975101037e6e8bc7222b388232ed81e42bb7d1a315238f1fde9c
 bytes: 286463
 sidor: 34
-hamtad: 2026-10-08T08:14:08+00:00
-konverterad: 2026-10-08T08:14:17+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T11:07:43+00:00
+konverterad: 2026-10-14T11:07:51+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -510,7 +510,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7D110C9AB7A7C5277536B23924B731BCED379644EB
 Transaktionsidentitet: 20A61BDDED5E38925CD982A8652FF26C6407D92719
 
-[Tabell 13-1](protokoll-namnden-for-vard-omsorg-protokoll-2025-04-24-56-57-59-73.tabeller/13-1.csv)
+[Tabell 13-14-1](protokoll-namnden-for-vard-omsorg-protokoll-2025-04-24-56-57-59-73.tabeller/13-14-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -521,6 +521,10 @@ Transaktionsidentitet: 20A61BDDED5E38925CD982A8652FF26C6407D92719
 | Astrid Börjesson (S) |  |  | X |
 | Eva Tingström (S) |  |  | X |
 | Per Hoel (SD) |  | X |  |
+| Göran Ottosson (SD) |  | X |  |
+| Bengt Alderin (C) | X |  |  |
+| Ulrika Högstrand (KD) | X |  |  |
+| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 14 -->
 
@@ -539,14 +543,6 @@ Kommunstyrelsen
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7D110C9AB7A7C5277536B23924B731BCED379644EB
 Transaktionsidentitet: 20A61BDDED5E38925CD982A8652FF26C6407D92719
-
-[Tabell 14-1](protokoll-namnden-for-vard-omsorg-protokoll-2025-04-24-56-57-59-73.tabeller/14-1.csv)
-
-| Göran Ottosson (SD) |  | X |  |
-| --- | --- | --- | --- |
-| Bengt Alderin (C) | X |  |  |
-| Ulrika Högstrand (KD) | X |  |  |
-| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 15 -->
 

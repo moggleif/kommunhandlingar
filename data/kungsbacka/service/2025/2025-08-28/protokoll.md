@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.3ce039ba198e605d2815b32a/1756453457
 sha256: 681ca79cb29f0be8520b00afdb8da4d02ce74d6b1f3c60bfae6606cfebb5e2d3
 bytes: 186668
 sidor: 15
-hamtad: 2026-10-08T02:00:50+00:00
-konverterad: 2026-10-08T02:00:57+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:40:58+00:00
+konverterad: 2026-10-14T09:41:04+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -371,7 +371,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 9-1](protokoll.tabeller/9-1.csv)
+[Tabell 9-10-1](protokoll.tabeller/9-10-1.csv)
 
 | Beskrivning | Inkom | Tillhör ärende | Ärendemening |
 | --- | --- | --- | --- |
@@ -383,6 +383,16 @@ Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 | (Kommunfullmäktige)<br>(Beslut § 114) - Kommunbudget<br>2026, plan 2027-2028 | 2025-06-26 | SE-2025-00284 | Kommunbudget 2026, plan<br>2027–2028 |
 | Kommunledningskontorets<br>Tjänsteskrivelse -<br>Kommunbudget 2026 | 2025-06-26 | SE-2025-00284 | Kommunbudget 2026, plan<br>2027–2028 |
 | Kommunbudget 2026,<br>plan 2027-2028 | 2025-06-26 | SE-2025-00284 | Kommunbudget 2026, plan<br>2027–2028 |
+| (kommunfullmäktige) -<br>(Beslut §115) - Protokollsutdrag<br>Kommunfullmäktige 2025-06-16<br>§ 115 | 2025-06-26 | SE-2025-00285 | Uppföljning och prognos april<br>2025 för Kungsbacka kommun |
+| Kommunledningens<br>Tjänsteskrivelse - Uppföljning<br>och prognos april 2025 för<br>Kungsbacka kommun | 2025-06-26 | SE-2025-00285 | Uppföljning och prognos april<br>2025 för Kungsbacka kommun |
+| Uppföljning och prognos april<br>2025 för Kungsbacka kommun,<br>version till KS | 2025-06-26 | SE-2025-00285 | Uppföljning och prognos april<br>2025 för Kungsbacka kommun |
+| (Kommunfullmäktige) -<br>(beslut § 116) -<br>Redovisning av icke<br>färdigberedda motioner nr 1 2025 | 2025-06-26 | SE-2025-00286 | Redovisning av icke<br>färdigberedda motioner<br>nr 1 2025 |
+| Kommunledningskontorets<br>Tjänsteskrivelse - Redovisning<br>av icke färdigberedda motioner<br>nr 1, 2025 | 2025-06-26 | SE-2025-00286 | Redovisning av icke<br>färdigberedda motioner<br>nr 1 2025 |
+| Redovisning av icke<br>färdigberedda motioner (1, 2025) | 2025-06-26 | SE-2025-00286 | Redovisning av icke<br>färdigberedda motioner<br>nr 1 2025 |
+| (Kommunfullmäktige) –<br>(beslut § 121) - svar på motion<br>förbud om användning av lustgas | 2025-06-26 | SE-2025-00287 | Svar på motion från Susanne<br>Andersson (SD) m.fl. om att<br>införa förbud mot användning<br>av lustgas i berusningssyfte på<br>offentliga platser i Kungsbacka |
+| Kommunledningskontorets<br>Tjänsteskrivelse - Svar på motion<br>om förbud mot användning av<br>lustgas | 2025-06-26 | SE-2025-00287 | Svar på motion från Susanne<br>Andersson (SD) m.fl. om att<br>införa förbud mot användning<br>av lustgas i berusningssyfte på<br>offentliga platser i Kungsbacka |
+| Lokala ordningsföreskrifter för<br>Kungsbacka kommun, antagna av<br>kommunfullmäktige 2025-06-16,<br>§ 121 | 2025-06-26 | SE-2025-00287 | Svar på motion från Susanne<br>Andersson (SD) m.fl. om att<br>införa förbud mot användning<br>av lustgas i berusningssyfte på<br>offentliga platser i Kungsbacka |
+| (Motion) (SD) Förbud mot<br>användning av lustgas i<br>berusningssyfte på offentliga<br>platser i Kungsbacka | 2025-06-26 | SE-2025-00287 | Svar på motion från Susanne<br>Andersson (SD) m.fl. om att<br>införa förbud mot användning<br>av lustgas i berusningssyfte på<br>offentliga platser i Kungsbacka |
 
 <!-- sida 10 -->
 
@@ -394,20 +404,6 @@ Datum
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 10-1](protokoll.tabeller/10-1.csv)
-
-| (kommunfullmäktige) -<br>(Beslut §115) - Protokollsutdrag<br>Kommunfullmäktige 2025-06-16<br>§ 115 | 2025-06-26 | SE-2025-00285 | Uppföljning och prognos april<br>2025 för Kungsbacka kommun |
-| --- | --- | --- | --- |
-| Kommunledningens<br>Tjänsteskrivelse - Uppföljning<br>och prognos april 2025 för<br>Kungsbacka kommun | 2025-06-26 | SE-2025-00285 | Uppföljning och prognos april<br>2025 för Kungsbacka kommun |
-| Uppföljning och prognos april<br>2025 för Kungsbacka kommun,<br>version till KS | 2025-06-26 | SE-2025-00285 | Uppföljning och prognos april<br>2025 för Kungsbacka kommun |
-| (Kommunfullmäktige) -<br>(beslut § 116) -<br>Redovisning av icke<br>färdigberedda motioner nr 1 2025 | 2025-06-26 | SE-2025-00286 | Redovisning av icke<br>färdigberedda motioner<br>nr 1 2025 |
-| Kommunledningskontorets<br>Tjänsteskrivelse - Redovisning<br>av icke färdigberedda motioner<br>nr 1, 2025 | 2025-06-26 | SE-2025-00286 | Redovisning av icke<br>färdigberedda motioner<br>nr 1 2025 |
-| Redovisning av icke<br>färdigberedda motioner (1, 2025) | 2025-06-26 | SE-2025-00286 | Redovisning av icke<br>färdigberedda motioner<br>nr 1 2025 |
-| (Kommunfullmäktige) –<br>(beslut § 121) - svar på motion<br>förbud om användning av lustgas | 2025-06-26 | SE-2025-00287 | Svar på motion från Susanne<br>Andersson (SD) m.fl. om att<br>införa förbud mot användning<br>av lustgas i berusningssyfte på<br>offentliga platser i Kungsbacka |
-| Kommunledningskontorets<br>Tjänsteskrivelse - Svar på motion<br>om förbud mot användning av<br>lustgas | 2025-06-26 | SE-2025-00287 | Svar på motion från Susanne<br>Andersson (SD) m.fl. om att<br>införa förbud mot användning<br>av lustgas i berusningssyfte på<br>offentliga platser i Kungsbacka |
-| Lokala ordningsföreskrifter för<br>Kungsbacka kommun, antagna av<br>kommunfullmäktige 2025-06-16,<br>§ 121 | 2025-06-26 | SE-2025-00287 | Svar på motion från Susanne<br>Andersson (SD) m.fl. om att<br>införa förbud mot användning<br>av lustgas i berusningssyfte på<br>offentliga platser i Kungsbacka |
-| (Motion) (SD) Förbud mot<br>användning av lustgas i<br>berusningssyfte på offentliga<br>platser i Kungsbacka | 2025-06-26 | SE-2025-00287 | Svar på motion från Susanne<br>Andersson (SD) m.fl. om att<br>införa förbud mot användning<br>av lustgas i berusningssyfte på<br>offentliga platser i Kungsbacka |
 
 <!-- sida 11 -->
 
@@ -467,7 +463,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 12-1](protokoll.tabeller/12-1.csv)
+[Tabell 12-13-1](protokoll.tabeller/12-13-1.csv)
 
 | Ärende/ärendegrupp<br>enligt<br>delegationslistan | Beslut, insats samt<br>ev. omfattning | Beslutsfattare | Beslutsdatum | Dnr |
 | --- | --- | --- | --- | --- |
@@ -475,6 +471,9 @@ Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 | 2.3.8<br>AB § 10 mom. 1-3 | Avstängning | Mats<br>Söderström<br>VC | 2025-05-28 |  |
 | 2.3.7<br>AB § 11 | Disciplinpåföljd<br>skriftlig varning | Mats<br>Söderström<br>VC | 2025-06-26 |  |
 | 2.1.11<br>Dataskydds-<br>förordningen<br>GDPR, artikel 35 | Beslut med anledning av<br>konsekvensbedömning<br>avseende dataskydd | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-06-27 | SE-2025-00288 |
+| 2.3.8<br>AB § 10 mom. 1-3 | Avstängning | Mats<br>Söderström<br>VC | 2025-08-12 |  |
+| 2.1.10<br>Dataskydds-<br>förordningen GDPR,<br>artikel 33 och 34 | Hantering av<br>personuppgiftsincident | Johan Burman<br>Bitr. FC | 2025-08-15 | SE-2025-00053 |
+| Punkt 2.1.10<br>Dataskydds-<br>förordningen<br>GDPR, artikel 33 och<br>34 | Hantering av<br>personuppgiftsincident | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-08-20 | SE-2024-00301 |
 
 <!-- sida 13 -->
 
@@ -495,13 +494,6 @@ säga förvaltningen för Service förslag, och att nämnden för Service bifall
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 13-1](protokoll.tabeller/13-1.csv)
-
-| 2.3.8<br>AB § 10 mom. 1-3 | Avstängning | Mats<br>Söderström<br>VC | 2025-08-12 |  |
-| --- | --- | --- | --- | --- |
-| 2.1.10<br>Dataskydds-<br>förordningen GDPR,<br>artikel 33 och 34 | Hantering av<br>personuppgiftsincident | Johan Burman<br>Bitr. FC | 2025-08-15 | SE-2025-00053 |
-| Punkt 2.1.10<br>Dataskydds-<br>förordningen<br>GDPR, artikel 33 och<br>34 | Hantering av<br>personuppgiftsincident | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-08-20 | SE-2024-00301 |
 
 <!-- sida 14 -->
 

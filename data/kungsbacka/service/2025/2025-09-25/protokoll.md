@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5a2a131997952e26b575ee/175887313998
 sha256: 9b04e6fc09f34d9540f6fabd0fbc0f1ad9b6b1886b3b1e935842bafcb7c2e415
 bytes: 233855
 sidor: 16
-hamtad: 2026-10-08T02:00:57+00:00
-konverterad: 2026-10-08T02:01:04+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:41:04+00:00
+konverterad: 2026-10-14T09:41:10+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -513,7 +513,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 2A23482452B2BED61785F33B1C463B27C50A6CF6EB
 Transaktionsidentitet: 2D127FE4EE18C256FE1ADEAE3783F31DFCDBD2856C
 
-[Tabell 12-1](protokoll.tabeller/12-1.csv)
+[Tabell 12-13-1](protokoll.tabeller/12-13-1.csv)
 
 | Beskrivning | Inkom | Tillhör ärende | Ärendemening |
 | --- | --- | --- | --- |
@@ -522,6 +522,9 @@ Transaktionsidentitet: 2D127FE4EE18C256FE1ADEAE3783F31DFCDBD2856C
 | (Kommunstyrelsens<br>arbetsutskott) (Beslut § 185)<br>Ändring av sammanträdesdagar<br>2026 för kommunstyrelsens<br>arbetsutskott | 2025-08-26 | SE-2025-00325 | Sammanträdesdagar 2026 för<br>kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens<br>arbetsutskott |
 | (Kommunstyrelsens<br>arbetsutskott) (Beslut § 170)<br>Sammanträdesdagar 2026 för<br>kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens arbetsutskott | 2025-08-26 | SE-2025-00325 | Sammanträdesdagar 2026 för<br>kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens<br>arbetsutskott |
 | Kommunstyrelsens förvaltning<br>Tjänsteskrivelse -<br>Sammanträdesdagar 2026 för<br>kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens arbetsutskott | 2025-08-26 | SE-2025-00325 | Sammanträdesdagar 2026 för<br>kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens<br>arbetsutskott |
+| (Kommunstyrelsen)<br>(Beslut § 156) Intern kontrollplan<br>2026 för kommunstyrelsen | 2025-08-28 | SE-2025-00331 | Intern kontrollplan 2026 för<br>kommunstyrelsen |
+| Kommunstyrelsens förvaltning<br>Tjänsteskrivelse - Intern<br>kontrollplan 2025<br>Kommunstyrelsen | 2025-08-28 | SE-2025-00331 | Intern kontrollplan 2026 för<br>kommunstyrelsen |
+| Intern kontrollplan 2026 -<br>Kommunstyrelsen | 2025-08-28 | SE-2025-00331 | Intern kontrollplan 2026 för<br>kommunstyrelsen |
 
 <!-- sida 13 -->
 
@@ -543,13 +546,6 @@ nämnden för Service bifaller det.
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 2A23482452B2BED61785F33B1C463B27C50A6CF6EB
 Transaktionsidentitet: 2D127FE4EE18C256FE1ADEAE3783F31DFCDBD2856C
-
-[Tabell 13-1](protokoll.tabeller/13-1.csv)
-
-| (Kommunstyrelsen)<br>(Beslut § 156) Intern kontrollplan<br>2026 för kommunstyrelsen | 2025-08-28 | SE-2025-00331 | Intern kontrollplan 2026 för<br>kommunstyrelsen |
-| --- | --- | --- | --- |
-| Kommunstyrelsens förvaltning<br>Tjänsteskrivelse - Intern<br>kontrollplan 2025<br>Kommunstyrelsen | 2025-08-28 | SE-2025-00331 | Intern kontrollplan 2026 för<br>kommunstyrelsen |
-| Intern kontrollplan 2026 -<br>Kommunstyrelsen | 2025-08-28 | SE-2025-00331 | Intern kontrollplan 2026 för<br>kommunstyrelsen |
 
 <!-- sida 14 -->
 
@@ -584,7 +580,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 2A23482452B2BED61785F33B1C463B27C50A6CF6EB
 Transaktionsidentitet: 2D127FE4EE18C256FE1ADEAE3783F31DFCDBD2856C
 
-[Tabell 14-1](protokoll.tabeller/14-1.csv)
+[Tabell 14-15-1](protokoll.tabeller/14-15-1.csv)
 
 | Ärende/ärendegrupp<br>enligt delegationslistan | Beslut, insats samt<br>ev. omfattning | Beslutsfattare | Beslutsdatum | Dnr |
 | --- | --- | --- | --- | --- |
@@ -592,6 +588,10 @@ Transaktionsidentitet: 2D127FE4EE18C256FE1ADEAE3783F31DFCDBD2856C
 | 2.3.6<br>Gemensamt reglemente för<br>kommunstyrelsen och<br>nämnder i Kungsbacka<br>kommun | Avsluta anställning<br>enligt särskild<br>överenskommelse | Julia Tryggvadottir<br>Tollesson<br>FC | 2025-07-03 |  |
 | 2.1.10<br>Dataskyddsförordningen<br>GDPR, artikel 33 och 34 | Hantering av<br>personuppgiftsincident | Johan Burman<br>t.f. FC | 2025-08-08 | SE-2025-00055 |
 | 2.1.2 a<br>OSL 6 kap 3-6 §§<br>OSL 5 kap 5 § | Utlämnande av allmän<br>handling med<br>förbehåll eller att inte<br>lämna ut en allmän<br>handling.<br>Beslut om<br>sekretessmarkering. | Sandra Ohlsson<br>VC HR | 2025-08-28 | SE-2025-00324 |
+| 2.1.16<br>Underteckna<br>bidragsansökningar | Beslut om deltagande<br>i energigemenskap<br>Interreg-programmet<br>Öresund-Kattegatt-<br>Skagerrak | Mats Söderström<br>VC<br>Fastighet | 2025-09-04 | SE-2025-00350 |
+| 2.1.11<br>GDPR<br>Dataskyddsförordningen<br>artikel 35 | Beslut med anledning<br>av konsekvens-<br>bedömning avseende<br>dataskydd. | Julia Tryggvadottir<br>Tollesson<br>FC | 2025-09-11 | SE-2025-00275 |
+| 2.1.10<br>Dataskyddsförordningen<br>GDPR, artikel 33 och 34 | Hantering av<br>personuppgiftsincident | Julia Tryggvadottir<br>Tollesson<br>FC | 2025-09-15 | SE-2025-00326 |
+| 2.1.10<br>Dataskyddsförordningen<br>GDPR, artikel 33 och 34 | Hantering av<br>personuppgiftsincident<br>(Åtgärdsuppföljning) | Julia Tryggvadottir<br>Tollesson<br>FC | 2025-09-15 | SE-2025-00326 |
 
 <!-- sida 15 -->
 
@@ -614,14 +614,6 @@ förvaltningen för Service förslag, och att nämnden för Service bifaller det
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 2A23482452B2BED61785F33B1C463B27C50A6CF6EB
 Transaktionsidentitet: 2D127FE4EE18C256FE1ADEAE3783F31DFCDBD2856C
-
-[Tabell 15-1](protokoll.tabeller/15-1.csv)
-
-| 2.1.16<br>Underteckna<br>bidragsansökningar | Beslut om deltagande<br>i energigemenskap<br>Interreg-programmet<br>Öresund-Kattegatt-<br>Skagerrak | Mats Söderström<br>VC<br>Fastighet | 2025-09-04 | SE-2025-00350 |
-| --- | --- | --- | --- | --- |
-| 2.1.11<br>GDPR<br>Dataskyddsförordningen<br>artikel 35 | Beslut med anledning<br>av konsekvens-<br>bedömning avseende<br>dataskydd. | Julia Tryggvadottir<br>Tollesson<br>FC | 2025-09-11 | SE-2025-00275 |
-| 2.1.10<br>Dataskyddsförordningen<br>GDPR, artikel 33 och 34 | Hantering av<br>personuppgiftsincident | Julia Tryggvadottir<br>Tollesson<br>FC | 2025-09-15 | SE-2025-00326 |
-| 2.1.10<br>Dataskyddsförordningen<br>GDPR, artikel 33 och 34 | Hantering av<br>personuppgiftsincident<br>(Åtgärdsuppföljning) | Julia Tryggvadottir<br>Tollesson<br>FC | 2025-09-15 | SE-2025-00326 |
 
 <!-- sida 16 -->
 

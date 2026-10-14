@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6033e6193956abcf834d8/1733399630071
 sha256: 8d2a0e9b072051fc76054c34e83e278aa1aa46024962ea79fbb25679fd4cfade
 bytes: 612481
 sidor: 31
-hamtad: 2026-10-07T23:12:08+00:00
-konverterad: 2026-10-07T23:12:16+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T07:18:38+00:00
+konverterad: 2026-10-14T07:18:46+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -665,7 +665,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: CEDF02B63D2F0BE58BAD2EB2F971E992A484E88555
 Transaktionsidentitet: 92E178469319A16930B937E7B8A460A3460EFF5CE9
 
-[Tabell 16-1](protokoll.tabeller/16-1.csv)
+[Tabell 16-17-1](protokoll.tabeller/16-17-1.csv)
 
 | Verksamhet Interkommunalersättning kronor<br>per barn per år |  |
 | --- | --- |
@@ -684,6 +684,10 @@ Transaktionsidentitet: 92E178469319A16930B937E7B8A460A3460EFF5CE9
 | Årskurs F-6 | 37 337 kr |
 | För elever inskrivna i anpassad grundskola uppräknas á-priset för<br>fritidshem för nivå 1 med faktorn 4 och för nivå 2 med faktorn 3 |  |
 |  |  |
+| Anpassad grundskola |  |
+| Nivå 1 | 711 917 kr |
+| Nivå 2 | 539 457 kr |
+| Individintegrerade elever | Efter samråd mellan kommunerna |
 
 <!-- sida 17 -->
 
@@ -705,14 +709,6 @@ FG Ekonomi & Planering
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: CEDF02B63D2F0BE58BAD2EB2F971E992A484E88555
 Transaktionsidentitet: 92E178469319A16930B937E7B8A460A3460EFF5CE9
-
-[Tabell 17-1](protokoll.tabeller/17-1.csv)
-
-| Anpassad grundskola |  |
-| --- | --- |
-| Nivå 1 | 711 917 kr |
-| Nivå 2 | 539 457 kr |
-| Individintegrerade elever | Efter samråd mellan kommunerna |
 
 <!-- sida 18 -->
 

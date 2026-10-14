@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.70d00e119a55206bf545067/17627800015
 sha256: a2a68230495bccb75c495ab65318943efac64cb39cd0e4935e66c5fe34675e33
 bytes: 1451728
 sidor: 31
-hamtad: 2026-10-08T02:36:16+00:00
-konverterad: 2026-10-08T02:36:23+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T10:13:25+00:00
+konverterad: 2026-10-14T10:13:31+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [13, 20]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -561,7 +561,7 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 9
 
-[Tabell 14-1](handlingar.tabeller/14-1.csv)
+[Tabell 14-15-1](handlingar.tabeller/14-15-1.csv)
 
 | Kategorier<br>Personal | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>1 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Efterlevnad till som besvärande för<br>rekryteringsprocessen berörda intressenter och<br>kommunen) |
 | --- | --- |
@@ -572,6 +572,8 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 |  | 6 Risk att riktlinje för 3. Vanligt 2. Lindrig (uppfattas som Ja<br>systematisk liten av berörda<br>individuppföljning inte intressenter och<br>följs kommunen) |
 |  | 7 Risk för välfärdsbrott 3. Vanligt 3. Kännbar (uppfattas Ja<br>inom personlig assistans som besvärande för<br>berörda intressenter och<br>kommunen) |
 |  | 8 Risk för välfärdsbrott i 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>samband med köpta som besvärande för<br>platser berörda intressenter och<br>kommunen) |
+| Kategorier | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>9 Risk för bristande 3. Vanligt 3. Kännbar (uppfattas Ja<br>hantering av tillbud och som besvärande för<br>olycksfall berörda intressenter och<br>kommunen) |
+|  | 10 Risk att vi inte 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>kommunicerar med som besvärande för<br>invånare på ett säkert berörda intressenter och<br>sätt kommunen) |
 
 <!-- sida 15 -->
 
@@ -582,19 +584,15 @@ Intern kontrollplan 2026
 
 10
 
-[Tabell 15-1](handlingar.tabeller/15-1.csv)
-
-| Kategorier | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>9 Risk för bristande 3. Vanligt 3. Kännbar (uppfattas Ja<br>hantering av tillbud och som besvärande för<br>olycksfall berörda intressenter och<br>kommunen) |
-| --- | --- |
-|  | 10 Risk att vi inte 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>kommunicerar med som besvärande för<br>invånare på ett säkert berörda intressenter och<br>sätt kommunen) |
-
-[Tabell 15-2](handlingar.tabeller/15-2.csv)
+[Tabell 15-16-1](handlingar.tabeller/15-16-1.csv)
 
 | Kategorier<br>Ekonomi | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip 2. Lindrig Risk granskades<br>ande risk: (uppfattas som med goda resultat<br>Grundläggande 2. Mindre vanligt liten av berörda 2024<br>redovisning intressenter och<br>kvalitetsbrister kommunen) |
 | --- | --- |
 | Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. | Kommunövergrip 3. Kännbar Risk ej prioriterad<br>ande risk: It- (uppfattas som kommunövergripa<br>säkerhet - besvärande för nde<br>2. Mindre vanligt<br>Bristande berörda<br>driftmiljö hos intressenter och<br>leverantörer kommunen) |
 |  | Kommunövergrip Ej prioriterad risk<br>ande risk: Risk för IF<br>att<br>samhällsutbyggn<br>ad inte kan ske i<br>planerad takt. Ny 3. Kännbar<br>infrastruktur och (uppfattas som<br>exploatering och besvärande för<br>2. Mindre vanligt<br>projekt för berörda<br>underhåll/utbygg intressenter och<br>nad av befintlig kommunen)<br>infrastruktur är<br>beroende av<br>varandra<br>(resurser och<br>samplanering). |
 | Verksamhet | Risk för Process och<br>2. Lindrig<br>felanvändning av arbetssätt för<br>(uppfattas som<br>föreningsbidrag föreningsbidrag<br>2. Mindre vanligt liten av berörda<br>ska ses över 2026,<br>intressenter och<br>granskas vid<br>kommunen)<br>behov 2027 |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip Ej prioriterad risk<br>ande risk: 3. Kännbar för IF<br>Dämpad (uppfattas som<br>befolkningstillväx besvärande för<br>2. Mindre vanligt<br>t med långsiktig berörda<br>påverkan på intressenter och<br>kommunala kommunen)<br>verksamheter |
+|  | Risk att vi inte Risken hanteras<br>har inom ordinarie<br>ändamålsenliga processer<br>system för de<br>syften de 2. Lindrig<br>används för, (uppfattas som<br>vilket riskerar att 3. Vanligt liten av berörda<br>vi brister i intressenter och<br>hantering av kommunen)<br>personuppgifter<br>och<br>sekretessbelagda<br>uppgifter |
 
 <!-- sida 16 -->
 
@@ -602,12 +600,6 @@ Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
 Intern kontrollplan 2026
 
 11
-
-[Tabell 16-1](handlingar.tabeller/16-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip Ej prioriterad risk<br>ande risk: 3. Kännbar för IF<br>Dämpad (uppfattas som<br>befolkningstillväx besvärande för<br>2. Mindre vanligt<br>t med långsiktig berörda<br>påverkan på intressenter och<br>kommunala kommunen)<br>verksamheter |
-| --- | --- |
-|  | Risk att vi inte Risken hanteras<br>har inom ordinarie<br>ändamålsenliga processer<br>system för de<br>syften de 2. Lindrig<br>används för, (uppfattas som<br>vilket riskerar att 3. Vanligt liten av berörda<br>vi brister i intressenter och<br>hantering av kommunen)<br>personuppgifter<br>och<br>sekretessbelagda<br>uppgifter |
 
 <!-- sida 17 -->
 

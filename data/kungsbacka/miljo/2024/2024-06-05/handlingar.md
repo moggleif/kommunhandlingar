@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5f97773918fa403c6cdfb36/17171386647
 sha256: 027b5d13fc4750a98a1f057f2d9d160f68e00d96a5d454dfaff6cdbb4c7c7543
 bytes: 982876
 sidor: 25
-hamtad: 2026-10-08T08:03:00+00:00
-konverterad: 2026-10-08T08:03:09+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T10:58:26+00:00
+konverterad: 2026-10-14T10:58:35+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -919,6 +919,26 @@ Uppföljning och prognos april 2024
 
 Drift (belopp mnkr)
 
+Jan-   Jan-  Avvikelse Helårs- Års-   Budget-
+April  April 2023/2024 prognos budget avvikelse Bokslut
+2023   2024            2024    2024    2024   2023
+
+Byggnadsnämnden    -0,5   -0,4    0,1       -1,5   -1,7     0,2   -1,4
+
+Geodata & Bygglov
+
+Intäkter           8,5    8,5     0,0      25,6    25,0     0,6   25,2
+Kostnader         -15,3  -15,6   -0,3      -47,5   -46,5   -1,0  -45,7
+
+Miljö & Hälsoskydd
+
+```osaker-tabell
+Intäkter           4,8    6,0     1,2      19,0    19,9    -0,9   17,3
+
+Kostnader         -10,7  11,3    -0,6      -34,7   -35,8    1,1  -34,1
+Periodens resultat -13,2 12,8     0,4      -39,1   -39,1    0,0  -38,7
+```
+
 2.2 Resultat per april
 
 Resultatet per april jämfört med budget är -0,5 miljoner kronor. Intäkterna är sammantaget något lägre än
@@ -943,20 +963,6 @@ Avvikelsen för kostnaderna förklaras främst av något högre sammantagna pers
 perioden samt kostnader för AI-projekt som finansieras med externa medel från Vinnova.
 
 6
-
-[Tabell 22-1](handlingar.tabeller/22-1.csv)
-
-| Byggnadsnämnden | Jan-<br>April<br>2023<br>-0,5 | Jan-<br>April<br>2024<br>-0,4 | Avvikelse<br>2023/2024<br>0,1 | Helårs-<br>prognos<br>2024<br>-1,5 | Års-<br>budget<br>2024<br>-1,7 | Budget-<br>avvikelse<br>2024<br>0,2 | Bokslut<br>2023<br>-1,4 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |
-| Geodata & Bygglov |  |  |  |  |  |  |  |
-| Intäkter | 8,5 | 8,5 | 0,0 | 25,6 | 25,0 | 0,6 | 25,2 |
-| Kostnader | -15,3 | -15,6 | -0,3 | -47,5 | -46,5 | -1,0 | -45,7 |
-|  |  |  |  |  |  |  |  |
-| Miljö & Hälsoskydd |  |  |  |  |  |  |  |
-| Intäkter | 4,8 | 6,0 | 1,2 | 19,0 | 19,9 | -0,9 | 17,3 |
-| Kostnader | -10,7 | 11,3 | -0,6 | -34,7 | -35,8 | 1,1 | -34,1 |
-| Periodens resultat | -13,2 | 12,8 | 0,4 | -39,1 | -39,1 | 0,0 | -38,7 |
 
 <!-- sida 23 -->
 

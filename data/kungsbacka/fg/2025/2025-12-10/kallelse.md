@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2f66052419afce94c172737/17652048278
 sha256: c12e0dc709418953ac45f45817643f8b148398aa15d9b8aae7cf9d7e3682a957
 bytes: 213305
 sidor: 4
-hamtad: 2026-10-07T22:44:36+00:00
-konverterad: 2026-10-07T22:44:43+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T06:54:30+00:00
+konverterad: 2026-10-14T06:54:36+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -59,7 +59,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -69,23 +69,21 @@ KUNGSBACKA  KOMMUN
 | 8. | Interkommunala ersättningar<br>utom kommunala<br>samverkansområden<br>Kl 18:20-18:30<br>Gustav Sjöström, ekonomichef | FG-2025-00717 | Interkommunala ersättningar för kommuner<br>utanför Göteborgsregionen, Mark och Varberg<br>fastställs enligt föreslagen tabell och följs från<br>och med 2026-01-01. Eventuell ersättning för<br>tilläggsbelopp och skolskjuts debiteras separat. |
 | 9. | Interkommunala ersättningar<br>Marks kommun och Varberg<br>Kl 18:30-18:35<br>Gustav Sjöström, ekonomichef | FG-2025-00718 | Gemensamma grundbelopp gällande<br>interkommunal ersättning för barn och elever i<br>förskola, pedagogisk omsorg, förskoleklass,<br>grundskola, fritidshem och anpassad grundskola<br>mellan Varberg, Mark och Kungsbacka följs från<br>och med 2026 01 01. |
 | 10. | Interkommunal ersättning inom<br>GR - GRFS: 2025-00201<br>Kl 18:35-18:40<br>Gustav Sjöström, ekonomichef | FG-2025-00588 | Nämnden för Förskola & Grundskola beslutar att<br>följa förbundsstyrelsen inom Göteborgsregionens<br>rekommendation att med avstämningstidpunkt<br>den 15:e respektive månad, fastställa<br>interkommunal ersättning för förskola,<br>pedagogisk omsorg, förskoleklass, grundskola,<br>fritidshem, anpassad grundskola och ISGR<br>kalenderåret 2025 i enlighet med innehållet i<br>prislista. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 11. | Intern kontrollplan 2026<br>Kl 18:40-19:05<br>Frida Byrsten, verksamhetschef | FG-2025-00716 | Nämnden för Förskola & Grundskola godkänner<br>internkontrollplan 2026. |
 | 12. | Samverkansavtal för förskola<br>och pedagogisk omsorg i<br>Göteborgsregionen 2026-01-01<br>- 2029-12-31<br>Kl 19:05-19:15<br>Frida Byrsten, verksamhetschef | FG-2025-00585 | Nämnden för Förskola & Grundskola ställer sig<br>bakom Samverkansavtal för förskola och<br>pedagogisk omsorg i Göteborgsregionen 2026-<br>2029 och överlämnar detta som sitt yttrande till<br>kommunstyrelsen. |
 | 13. | Ansökan om godkännande av<br>fristående pedagogisk omsorg<br>med anledning av<br>verksamhetsförändring - Ek o<br>lek barnomsorg AB | FG-2025-00591 | Nämnden för Förskola & Grundskola godkänner<br>ansökan angående förändring av verksamhet från<br>Ek o lek barnomsorg AB med en ny<br>dagbarnvårdare på Friskmans lycka 11, 439 63<br>Frillesås. Godkännandet omfattar 6 barn. Har<br>verksamheten inte startat inom två år behöver<br>den enskilde ansöka om nytt godkännande. |
 | 14. | Ansökan från<br>Föräldrakooperativet<br>Karamellen ekonomisk förening<br>gällande permanent utökning av<br>barnantal | FG-2025-00683 | Nämnden för Förskola & Grundskola godkänner<br>ansökan från Karamellen ekonomisk förening,<br>(adress borttagen), 439 53 Åsa, om permanent<br>utökning till totalt 20 barn. |
 | 15. | Namnförslag Allmogevägens<br>förskola | FG-2025-00710 | Nämnden för Förskola & Grundskola beslutar att<br>anta namnet Resursskolan Ängen för den nya<br>resursskolan i Kungsbacka kommun. |
 | 16. | Namnförslag Resursskolan<br>Ängen | FG-2025-00709 | Nämnden för Förskola & Grundskola beslutar att<br>anta namnet Resursskolan Ängen för den nya<br>resursskolan i Kungsbacka kommun. |
+| 17. | Initiativärende, öppen förskola<br>och projektmedel<br>Kl 19:15-19:25<br>Ordförande | FG-2025-00742 | Nämnden för Förskola & Grundskola ger<br>förvaltningen för Förskola och Grundskola i<br>uppdrag att:<br>• Ansöka till kommunstyrelsen om 2<br>miljoner kronor från projektmedel ’Trygg<br>uppväxt för att under 2026 stärka och<br>utveckla öppen förskola i Kungsbacka.<br>• Säkerställa att satsningen når fler familjer<br>och att insatserna fördelas över hela<br>kommunen.<br>• Utveckla innehållet i öppen förskola med<br>fokus på föräldrastöd, språkutveckling<br>och matematik.<br>• Återrapportera till nämnden hur medlen<br>använts och vilka effekter satsningen haft<br>på deltagande och upplevd kvalitet. |
+| 18. | Delegeringsbeslut antagna av<br>nämnden 2025 | FG-2025-00007 | Redovisning av beslut som fattats av<br>förvaltningen på delegation för nämnden noteras<br>till protokollet. |
+| 19. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 19:25-19:40<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -95,11 +93,3 @@ KUNGSBACKA  KOMMUN
 
 Emanuel Forsell                   Lars Sundbom
 ordförande                        sekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 17. | Initiativärende, öppen förskola<br>och projektmedel<br>Kl 19:15-19:25<br>Ordförande | FG-2025-00742 | Nämnden för Förskola & Grundskola ger<br>förvaltningen för Förskola och Grundskola i<br>uppdrag att:<br>• Ansöka till kommunstyrelsen om 2<br>miljoner kronor från projektmedel ’Trygg<br>uppväxt för att under 2026 stärka och<br>utveckla öppen förskola i Kungsbacka.<br>• Säkerställa att satsningen når fler familjer<br>och att insatserna fördelas över hela<br>kommunen.<br>• Utveckla innehållet i öppen förskola med<br>fokus på föräldrastöd, språkutveckling<br>och matematik.<br>• Återrapportera till nämnden hur medlen<br>använts och vilka effekter satsningen haft<br>på deltagande och upplevd kvalitet. |
-| 18. | Delegeringsbeslut antagna av<br>nämnden 2025 | FG-2025-00007 | Redovisning av beslut som fattats av<br>förvaltningen på delegation för nämnden noteras<br>till protokollet. |
-| 19. | Information - Förskola &<br>Grundskola arbetsutskott och<br>nämnd<br>Kl 19:25-19:40<br>Stigert Pettersson,<br>förvaltningschef | FG-2025-00004 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet. |

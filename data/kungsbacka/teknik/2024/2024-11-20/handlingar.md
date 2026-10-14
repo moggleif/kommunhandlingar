@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1932ec3d19329b835ff10e23/1731676769
 sha256: 2b2a641ea8f4ea20d37423e42c249cde7c21865f70e162c1293ea5e22377fa4a
 bytes: 11103009
 sidor: 148
-hamtad: 2026-10-08T00:59:31+00:00
-konverterad: 2026-10-08T01:00:15+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T08:49:46+00:00
+konverterad: 2026-10-14T08:50:24+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok]
 tal_obekraftade: [62, 63]
-figurer: null
-tolkade: null
+figurer: [13, 41, 46, 57, 58, 59, 62, 63, 66, 71, 76, 81, 86, 91, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -509,13 +509,16 @@ Fokusområden
 
 13
 
-[Tabell 13-1](handlingar.tabeller/13-1.csv)
+[Tabell 13-14-1](handlingar.tabeller/13-14-1.csv)
 
 | Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättnin<br>g 2025 |
 | --- | --- | --- | --- | --- |
 | Antal påbörjade bostäder | 848 | 165 | 141 | Öka |
 | Antal färdigställda bostäder | 363 | 319 | 109 | Öka |
 | Anmälda brott per invånare (antal/100 000<br>invånare) | 5 691 | 6 475 |  | Minska |
+| Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 90 % | 91 % |  | Öka |
+| Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn | 74 % | 76 % |  | Öka |
+| Brukarbedömning individ- och familjeomsorg totalt<br>- helhetssyn | 88 % |  |  | Öka |
 
 <!-- sida 14 -->
 
@@ -545,39 +548,13 @@ mångfald.
 
 14
 
-[Tabell 14-1](handlingar.tabeller/14-1.csv)
-
-| Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättnin<br>g 2025 |
-| --- | --- | --- | --- | --- |
-| Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 90 % | 91 % |  | Öka |
-| Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn | 74 % | 76 % |  | Öka |
-| Brukarbedömning individ- och familjeomsorg totalt<br>- helhetssyn | 88 % |  |  | Öka |
-
-[Tabell 14-2](handlingar.tabeller/14-2.csv)
+[Tabell 14-15-1](handlingar.tabeller/14-15-1.csv)
 
 | Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättnin<br>g 2025 |
 | --- | --- | --- | --- | --- |
 | Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i %<br>- Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 88 % | 85 % |  | Öka |
 | Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % - Pojkar.<br>(Elevhälsan i Kungsbacka utvecklar metod utifrån<br>hälsosamtal med elever.) | 90 % | 91 % |  | Öka |
 | Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i %<br>- Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 72 % | 79 % |  | Öka |
-
-<!-- sida 15 -->
-
-Nämnden för Teknik                               Kungsbacka kommun
-Nämndbudget 2025
-
-5.2.1 Vi bidrar stort till det hållbara Kungsbacka ur ett ekonomiskt, ekologiskt och socialt
-perspektiv
-
-Beslutats av
-Nämnd
-
-15
-
-[Tabell 15-1](handlingar.tabeller/15-1.csv)
-
-| Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättnin<br>g 2025 |
-| --- | --- | --- | --- | --- |
 | Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i %<br>- Pojkar.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 93 % | 92 % |  |  |
 | Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- flickor. | 65 % | 73 % |  | Öka |
 | Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- pojkar. | 85 % | 86 % |  | Öka |
@@ -593,6 +570,19 @@ Nämnd
 | Fossiloberoende personbilar i<br>kommunorganisationen, andel (%) | 94,6 % | 96,2 % |  | Öka |
 | Andelen återbrukade möbler |  |  |  | Öka |
 | Kommunens verksamheters elförbrukning, total<br>(kWh) |  |  |  | Minska |
+
+<!-- sida 15 -->
+
+Nämnden för Teknik                               Kungsbacka kommun
+Nämndbudget 2025
+
+5.2.1 Vi bidrar stort till det hållbara Kungsbacka ur ett ekonomiskt, ekologiskt och socialt
+perspektiv
+
+Beslutats av
+Nämnd
+
+15
 
 <!-- sida 16 -->
 
@@ -635,11 +625,15 @@ Fokusområden
 | Företagsamhet, andel av invånare 16–74 år | 18 % |  |  | Öka |
 | Antal nystartade företag per 1 000 invånare 16–64<br>år (etableringsfrekvens) | 12,8 |  |  | Öka |
 
-[Tabell 16-2](handlingar.tabeller/16-2.csv)
+[Tabell 16-17-2](handlingar.tabeller/16-17-2.csv)
 
 | Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättnin<br>g 2025 |
 | --- | --- | --- | --- | --- |
 | Genomsnittligt meritvärde i årskurs 9. Meritvärdet<br>utgörs av summan av de 17 bästa betygen i<br>elevens slutbetyg och kan max vara 340. | 237 | 236,5 |  | Öka |
+| Arbetslöshet för ungdomar 16–24 år i kommunen.<br>(Källa: Arbetsförmedlingen och SCB) | 1,7 % | 1,7 % |  | Minska |
+| Genomsnittligt betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara max<br>20. | 14,4 | 14,3 |  | Öka |
+| Andel vuxna personer som inte återkommit till<br>försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) | 69 % | 73 % |  | Öka |
+| Kostnad utbetalt ekonomiskt bistånd, kr/invånare<br>(Kolada) | 376 | 325 |  | Minska |
 
 <!-- sida 17 -->
 
@@ -667,15 +661,6 @@ Nämnd
 17
 
 [Tabell 17-1](handlingar.tabeller/17-1.csv)
-
-| Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättnin<br>g 2025 |
-| --- | --- | --- | --- | --- |
-| Arbetslöshet för ungdomar 16–24 år i kommunen.<br>(Källa: Arbetsförmedlingen och SCB) | 1,7 % | 1,7 % |  | Minska |
-| Genomsnittligt betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara max<br>20. | 14,4 | 14,3 |  | Öka |
-| Andel vuxna personer som inte återkommit till<br>försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) | 69 % | 73 % |  | Öka |
-| Kostnad utbetalt ekonomiskt bistånd, kr/invånare<br>(Kolada) | 376 | 325 |  | Minska |
-
-[Tabell 17-2](handlingar.tabeller/17-2.csv)
 
 | Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättnin<br>g 2025 |
 | --- | --- | --- | --- | --- |
@@ -817,7 +802,7 @@ Nämndbudget 2025
 
 21
 
-[Tabell 21-1](handlingar.tabeller/21-1.csv)
+[Tabell 21-22-1](handlingar.tabeller/21-22-1.csv)
 
 | Område | Beskrivning |
 | --- | --- |
@@ -825,6 +810,9 @@ Nämndbudget 2025
 |  | Vi lovar:<br>- Att alltid leverera bra dricksvatten med god kvalitet, vilket vi ser till genom<br>provtagning och kontroller.<br>- Att förbättra kontrollen genom ny teknik.<br>- Att leverera dricksvatten som räcker för hushållens normala behov.<br>Då vill vi att du som kommuninvånare hjälper oss genom att:<br>- Spara på vatten, särskilt när vi går ut med uppmaningar om detta.<br>- Ta till dig våra smarta vattentips, till exempel skaffar en regntunna för bevattning i<br>trädgården.<br>- Ha vatten hemma för att kunna klara dig 72 timmar vid en kris. Se gärna<br>krisinformation.se för att lära dig mer om hur mycket vatten, och andra saker, som<br>du kan behöva hemma vid en kris! |
 |  | Vi lovar:<br>- Att allt slam som blir kvar när vi renat vårt avloppsvatten återgår till jordbruket där<br>det bidrar till att återföra fosfor och producera nya grödor.<br>- Att vårt slam uppfyller nationella krav för vilka halter av olika ämnen som får<br>finnas i det.<br>Då vill vi att du som kommuninvånare hjälper oss genom att:<br>- Sluta fulspola! Bara spolar ner bajs, kiss och toapapper i toaletten.<br>- Slänga allt annat, till exempel våtservetter, tops, bindor, snus och fimpar i<br>soppåsen för brännbart avfall<br>- Skaffa en papperskorg i badrummet så att skräp inte hamnar i toaletten.<br>- Lämna gamla mediciner på ett apotek. |
 | Avfall & Återvinning | Vi lovar:<br>- Att tömma sopkärlen hos dig enligt hämtschemat.<br>- Att om tömningen blir försenad informera via hemsidan och avfallsappen.<br>- Att vi tömmer senast dagen efter att vi fått in anmälan om missad hämtning.<br>Då vill vi att du som kommuninvånare hjälper oss genom att:<br>- Ställa ut dina kärl på rätt dag och att det är lättillgängligt även vid snö och halka.<br>- Vända kärlen med handtagen ut mot vägen för en god arbetsmiljö för de som<br>tömmer. |
+|  | Vi lovar:<br>- Att ta hand om ditt avfall på ett miljöriktigt och ansvarsfullt sätt så att det<br>behandlas på godkända anläggningar för att bli till biogas, materialåtervinnas,<br>energiåtervinnas eller i sista hand deponeras.<br>- Att ge dig information om hur du ska sortera ditt avfall, exempelvis via utskick,<br>hemsidan, avfallsappen och personal på återvinningscentralerna.<br>Då vill vi att du som kommuninvånare hjälper oss genom att:<br>- Sortera ditt avfall enligt gällande regler.<br>- Förlänga livslängden på dina prylar så vi tillsammans kan minska mängden avfall.<br>- Lämna det som någon annan kan få nytta av till återbruk, istället för att slänga i<br>soporna. |
+| Kungsbacka<br>Bredbandsnät | Vi lovar en snabb felavhjälpning för teleoperatörer och storkunder. På det sättet<br>hjälper vi Kungsbackas invånare att ha tillgång till ett stabilt och fungerande nät. |
+| Kund & Kommunikation | Vi lovar:<br>- Att när du kontaktar oss på Teknik ger vi dig ett gott bemötande och återkoppling<br>inom två arbetsdagar samt svar inom tio arbetsdagar.<br>- Att vi håller kontakten tills ditt ärende är avslutat.<br>Då vill vi att du som kommuninvånare hjälper oss genom att:<br>- Använda anvisade kontaktvägar. |
 
 <!-- sida 22 -->
 
@@ -832,14 +820,6 @@ Nämnden för Teknik                               Kungsbacka kommun
 Nämndbudget 2025
 
 22
-
-[Tabell 22-1](handlingar.tabeller/22-1.csv)
-
-| Område | Beskrivning |
-| --- | --- |
-|  | Vi lovar:<br>- Att ta hand om ditt avfall på ett miljöriktigt och ansvarsfullt sätt så att det<br>behandlas på godkända anläggningar för att bli till biogas, materialåtervinnas,<br>energiåtervinnas eller i sista hand deponeras.<br>- Att ge dig information om hur du ska sortera ditt avfall, exempelvis via utskick,<br>hemsidan, avfallsappen och personal på återvinningscentralerna.<br>Då vill vi att du som kommuninvånare hjälper oss genom att:<br>- Sortera ditt avfall enligt gällande regler.<br>- Förlänga livslängden på dina prylar så vi tillsammans kan minska mängden avfall.<br>- Lämna det som någon annan kan få nytta av till återbruk, istället för att slänga i<br>soporna. |
-| Kungsbacka<br>Bredbandsnät | Vi lovar en snabb felavhjälpning för teleoperatörer och storkunder. På det sättet<br>hjälper vi Kungsbackas invånare att ha tillgång till ett stabilt och fungerande nät. |
-| Kund & Kommunikation | Vi lovar:<br>- Att när du kontaktar oss på Teknik ger vi dig ett gott bemötande och återkoppling<br>inom två arbetsdagar samt svar inom tio arbetsdagar.<br>- Att vi håller kontakten tills ditt ärende är avslutat.<br>Då vill vi att du som kommuninvånare hjälper oss genom att:<br>- Använda anvisade kontaktvägar. |
 
 <!-- sida 23 -->
 
@@ -1046,12 +1026,15 @@ Ramfördelning driftbudget
 | varav kapitalkostnader | -86 313 | -105 500 | -118 400 |
 | Summa | -227 094 | -247 227 | -270 480 |
 
-[Tabell 26-2](handlingar.tabeller/26-2.csv)
+[Tabell 26-27-2](handlingar.tabeller/26-27-2.csv)
 
 | Kungsbacka Bredband | Bokslut 2023 | Budget 2024 | Budget 2025 |
 | --- | --- | --- | --- |
 | Intäkter | 37 013 | 39 200 | 41 969 |
 | Kostnader | -36 145 | -38 300 | 43 144 |
+| Resultat | 868 | 900 | -1 175 |
+| Bokslutsdisposition | -868 | -900 | 1 175 |
+| Resultat | 0 | 0 | 0 |
 
 <!-- sida 27 -->
 
@@ -1089,14 +1072,6 @@ av avfallstaxan om 12 procent. Kostnaderna förväntas öka på grund av ökande
 
 [Tabell 27-1](handlingar.tabeller/27-1.csv)
 
-| Kungsbacka Bredband | Bokslut 2023 | Budget 2024 | Budget 2025 |
-| --- | --- | --- | --- |
-| Resultat | 868 | 900 | -1 175 |
-| Bokslutsdisposition | -868 | -900 | 1 175 |
-| Resultat | 0 | 0 | 0 |
-
-[Tabell 27-2](handlingar.tabeller/27-2.csv)
-
 | Vatten & Avlopp | Bokslut 2023 | Budget 2024 | Budget 2025 |
 | --- | --- | --- | --- |
 | Intäkter | 205 162 | 220 000 | 258 700 |
@@ -1105,7 +1080,7 @@ av avfallstaxan om 12 procent. Kostnaderna förväntas öka på grund av ökande
 | Bokslutsdispositioner | 8 098 | 700 | 0 |
 | Resultat |  | 0 | 0 |
 
-[Tabell 27-3](handlingar.tabeller/27-3.csv)
+[Tabell 27-2](handlingar.tabeller/27-2.csv)
 
 | Avfall & Återvinning | Bokslut 2023 | Budget 2024 | Budget 2025 |
 | --- | --- | --- | --- |
@@ -1942,11 +1917,14 @@ Intern kontrollplan 2025
 
 11
 
-[Tabell 49-1](handlingar.tabeller/49-1.csv)
+[Tabell 49-50-1](handlingar.tabeller/49-50-1.csv)
 
 | Kategorier<br>Ekonomi | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip Ekonomichef och<br>ande risk: övriga medlemmar<br>Grundläggande i<br>redovisning förvaltningsledning<br>kvalitetsbrister en för Teknik<br>bedömer att vi har<br>en god följsamhet<br>och kontroll<br>gällande<br>grundläggande<br>redovisning och att<br>kvalitetssäkrar<br>redovisningen<br>kontinuerligt. En<br>stor genomgång<br>av redovisning har<br>utförts under 2024<br>i samband med<br>arbetet att få en<br>budget i balans.<br>Visst arbete<br>kvarstår men det<br>omhändertas i<br>linjearbetet och<br>redovisas inte i<br>internkontrollen. |
 | --- | --- |
 |  | Kommunövergrip Vi har pågående<br>ande risk: rekryteringar och<br>Resurser till arbetar också<br>innovation, metodiskt för att<br>digitalisering och stärka<br>omställning till kompetensen hos<br>nya arbetssätt för medarbetarna. Vi<br>framtidens har en<br>2. Lindrig<br>välfärd innovationsledare<br>(uppfattas som<br>som både utbildar<br>2. Mindre vanligt liten av berörda<br>och stärker<br>intressenter och<br>kulturen på<br>kommunen)<br>förvaltningen.<br>Ytterligare<br>rekryteringar<br>tillkommer som<br>kommer att stärka<br>behovet. Följs upp<br>iförvaltningslednin<br>gen för Teknik. |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>TEKNIK: Risk för Vi kommer bevaka<br>obehöriga eller denna risk i<br>felaktiga linjearbetet och<br>3. Kännbar<br>transaktioner göra samtliga<br>(uppfattas som<br>1. Osannolik chefer<br>besvärande för<br>(risken är praktiskt uppmärksamma<br>berörda<br>taget obefintlig) på risken. Översyn<br>intressenter och<br>kommer ske kring<br>kommunen)<br>behörigheter i<br>systemet för att<br>minimera risken. |
+| Informationssäke<br>rhet,<br>administration,<br>inköp... | Kommunövergrip Vi är redan<br>ande risk: medvetna om<br>informationssäke denna risk och har<br>rhet; skydd av personer som har<br>information mot ansvar för detta i<br>3. Kännbar<br>obehörig tillgång sina uppdrag. Vi<br>(uppfattas som<br>arbetar<br>besvärande för<br>2. Mindre vanligt kontinuerligt med<br>berörda<br>detta och det<br>intressenter och<br>redovisas till<br>kommunen)<br>verksamhetschef<br>inom Kund- och<br>Verksamhetsstöd<br>samt för<br>förvaltningschef. |
+|  | Kommunövergrip Vi är redan<br>ande risk: It- medvetna om<br>säkerhet denna risk och har<br>- Bristande personer som har<br>driftmiljö hos ansvar för detta i<br>3. Kännbar<br>leverantörer sina uppdrag. Vi<br>(uppfattas som<br>arbetar<br>besvärande för<br>2. Mindre vanligt kontinuerligt med<br>berörda<br>detta och det<br>intressenter och<br>redovisas till<br>kommunen)<br>verksamhetschef<br>inom Kund- och<br>Verksamhetsstöd<br>samt för<br>förvaltningschef. |
 
 <!-- sida 50 -->
 
@@ -1954,13 +1932,6 @@ Nämnden för Teknik                               Kungsbacka kommun
 Intern kontrollplan 2025
 
 12
-
-[Tabell 50-1](handlingar.tabeller/50-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>TEKNIK: Risk för Vi kommer bevaka<br>obehöriga eller denna risk i<br>felaktiga linjearbetet och<br>3. Kännbar<br>transaktioner göra samtliga<br>(uppfattas som<br>1. Osannolik chefer<br>besvärande för<br>(risken är praktiskt uppmärksamma<br>berörda<br>taget obefintlig) på risken. Översyn<br>intressenter och<br>kommer ske kring<br>kommunen)<br>behörigheter i<br>systemet för att<br>minimera risken. |
-| --- | --- |
-| Informationssäke<br>rhet,<br>administration,<br>inköp... | Kommunövergrip Vi är redan<br>ande risk: medvetna om<br>informationssäke denna risk och har<br>rhet; skydd av personer som har<br>information mot ansvar för detta i<br>3. Kännbar<br>obehörig tillgång sina uppdrag. Vi<br>(uppfattas som<br>arbetar<br>besvärande för<br>2. Mindre vanligt kontinuerligt med<br>berörda<br>detta och det<br>intressenter och<br>redovisas till<br>kommunen)<br>verksamhetschef<br>inom Kund- och<br>Verksamhetsstöd<br>samt för<br>förvaltningschef. |
-|  | Kommunövergrip Vi är redan<br>ande risk: It- medvetna om<br>säkerhet denna risk och har<br>- Bristande personer som har<br>driftmiljö hos ansvar för detta i<br>3. Kännbar<br>leverantörer sina uppdrag. Vi<br>(uppfattas som<br>arbetar<br>besvärande för<br>2. Mindre vanligt kontinuerligt med<br>berörda<br>detta och det<br>intressenter och<br>redovisas till<br>kommunen)<br>verksamhetschef<br>inom Kund- och<br>Verksamhetsstöd<br>samt för<br>förvaltningschef. |
 
 <!-- sida 51 -->
 
@@ -5332,6 +5303,41 @@ Delegeringsbeslut Teknik
 
 Delegeringsbeslut under oktober, rapportering i november
 
+Punkt i
+delegeringsordnin                      Delegeringens omfattning Taget beslut och
+g            Lagrum       Ansvarig Delegat               datum för beslutet
+4.3.1                     VC Trafik &  Upphävanden av inaktuella 0st beslut om
+Utemiljö     trafikföreskrifter upphävande av
+EC Planering &                 lokala
+Utformning                     trafikföreskrifter
+EC Anläggning &
+Utveckling
+Trafikingenjör
+Samordnare
+4.4          10 kap.      VC Trafik &  Beslut om tillfälliga 3 st beslut om
+
+trafikförordningen Utemiljö trafikföreskrifter tillfälliga
+(1998:1276)  EC Planering &                 trafikföreskrifter
+Utformning                     angående
+EC Anläggning &                  1384 2024-
+Utveckling                         00144
+Trafikingenjör                   1384 2024-
+Samordnare                         00148
+1384 2024-
+00150
+4.5          10 kap.      VC Trafik &  Revidering av befintliga 0 st reviderade
+trafikförordningen Utemiljö permanenta föreskrifter befintliga
+(1998:1276)  EC Planering &                 permanenta
+Utformning EC                  föreskrifter
+Anläggning &
+Utveckling
+Trafikingenjör
+Samordnare
+4.7          13 kap. 3-4 §§ VC Trafik & Beslut om undantag från 11 beslut om
+trafikförordningen Utemiljö lokala trafikföreskrifter undantag från lokala
+(1998:1276)  EC Planering &                 trafikföreskrifter
+Utformning
+
 Kungsbacka kommun
 434 81 Kungsbacka
 Besöksadress
@@ -5339,57 +5345,163 @@ Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-[Tabell 144-1](handlingar.tabeller/144-1.csv)
-
-| Punkt i<br>delegeringsordnin<br>g | Lagrum | Ansvarig Delegat | Delegeringens omfattning | Taget beslut och<br>datum för beslutet |
-| --- | --- | --- | --- | --- |
-| 4.3.1 |  | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning<br>EC Anläggning &<br>Utveckling<br>Trafikingenjör<br>Samordnare | Upphävanden av inaktuella<br>trafikföreskrifter | 0st beslut om<br>upphävande av<br>lokala<br>trafikföreskrifter |
-| 4.4 | 10 kap.<br>trafikförordningen<br>(1998:1276) | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning<br>EC Anläggning &<br>Utveckling<br>Trafikingenjör<br>Samordnare | Beslut om tillfälliga<br>trafikföreskrifter | 3 st beslut om<br>tillfälliga<br>trafikföreskrifter<br>angående<br>1384 2024-<br>00144<br>1384 2024-<br>00148<br>1384 2024-<br>00150 |
-| 4.5 | 10 kap.<br>trafikförordningen<br>(1998:1276) | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning EC<br>Anläggning &<br>Utveckling<br>Trafikingenjör<br>Samordnare | Revidering av befintliga<br>permanenta föreskrifter | 0 st reviderade<br>befintliga<br>permanenta<br>föreskrifter |
-| 4.7 | 13 kap. 3-4 §§<br>trafikförordningen<br>(1998:1276) | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning | Beslut om undantag från<br>lokala trafikföreskrifter | 11 beslut om<br>undantag från lokala<br>trafikföreskrifter |
-
 <!-- sida 145 -->
 
 KUNGSBACKA KOMMUN                                           2 (5)
 
-[Tabell 145-1](handlingar.tabeller/145-1.csv)
+Punkt i
+delegeringsordnin                      Delegeringens omfattning Taget beslut och
+g            Lagrum       Ansvarig Delegat               datum för beslutet
+EC Anläggning &
+Utveckling
+Trafikingenjör
+Samordnare
+4.8          13 kap. 3 §  VC Trafik &  Beslut till transportör och 2 beslut till
+trafikförordningen Utemiljö yttrande till Trafikverket transportör om
+(1998:1276) 4 EC Planering & om undantag från undantag från
+kap. 12 §, 15 § 17 Utformning bestämmelserna om största bestämmelserna om
+§            EC Anläggning & tillåtna fordonsbredd, - största tillåtna
+trafikförordningen Utveckling längd och -vikt fordonsbredd, -längd
+Trafikingenjör                 och -vikt
+Samordnare
+7 yttranden till
+Trafikverket om
 
-| Punkt i<br>delegeringsordnin<br>g | Lagrum | Ansvarig Delegat | Delegeringens omfattning | Taget beslut och<br>datum för beslutet |
-| --- | --- | --- | --- | --- |
-|  |  | EC Anläggning &<br>Utveckling<br>Trafikingenjör<br>Samordnare |  |  |
-| 4.8 | 13 kap. 3 §<br>trafikförordningen<br>(1998:1276) 4<br>kap. 12 §, 15 § 17<br>§<br>trafikförordningen | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning<br>EC Anläggning &<br>Utveckling<br>Trafikingenjör<br>Samordnare | Beslut till transportör och<br>yttrande till Trafikverket<br>om undantag från<br>bestämmelserna om största<br>tillåtna fordonsbredd, -<br>längd och -vikt | 2 beslut till<br>transportör om<br>undantag från<br>bestämmelserna om<br>största tillåtna<br>fordonsbredd, -längd<br>och -vikt<br>7 yttranden till<br>Trafikverket om<br>undantag från<br>bestämmelserna om<br>största tillåtna<br>fordonsbredd, -längd<br>och -vikt |
-| 4.10 | 10 kap. 14 §<br>trafikförordningen<br>(1998:1276) | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning<br>EC Anläggning &<br>Utveckling<br>Trafikingenjör<br>Samordnare<br>Vägtekniker | Beslut om föreskrifter vid<br>vägarbete eller liknande<br>arbete samt under kortare<br>tid vid skada eller risk för<br>skada på väg | 8st beslut om<br>föreskrifter vid<br>vägarbete eller<br>liknande arbete samt<br>under kortare tid vid<br>skada eller risk för<br>skada på väg<br>1384 2024-<br>00145<br>1384 2024-<br>00146<br>1384 2024-<br>00147<br>1384 2024-<br>00149<br>1384 2024-<br>00152<br>1384 2024-<br>00153<br>1384 2024-<br>00154 |
+undantag från
+bestämmelserna om
+största tillåtna
+fordonsbredd, -längd
+och -vikt
+
+4.10         10 kap. 14 § VC Trafik &  Beslut om föreskrifter vid 8st beslut om
+trafikförordningen Utemiljö vägarbete eller liknande föreskrifter vid
+(1998:1276)  EC Planering & arbete samt under kortare vägarbete eller
+Utformning   tid vid skada eller risk för liknande arbete samt
+EC Anläggning & skada på väg   under kortare tid vid
+Utveckling                     skada eller risk för
+Trafikingenjör                 skada på väg
+Samordnare                     1384 2024-
+Vägtekniker                    00145
+1384 2024-
+00146
+1384 2024-
+00147
+1384 2024-
+00149
+1384 2024-
+
+00152
+1384 2024-
+00153
+1384 2024-
+00154
 
 <!-- sida 146 -->
 
 KUNGSBACKA KOMMUN                                           3 (5)
 
-[Tabell 146-1](handlingar.tabeller/146-1.csv)
+Punkt i
+delegeringsordnin                      Delegeringens omfattning Taget beslut och
+g            Lagrum       Ansvarig Delegat               datum för beslutet
+1384 2024-
+00155
+4.11         2 § lagen om VC Trafik &  Beslut om flyttning av 0 beslut om flyttning
+flyttning av Utemiljö     fordon            av fordon
+fordon i vissa fall EC drift Gata
+och 2 §      EC Planering &
+förordningen om Utformning
+flyttning av EC Anläggning &
+fordon i vissa fall Utveckling
+Arbetsledare,
+Trafik-samordnare
+Trafikövervakare
 
-| Punkt i<br>delegeringsordnin<br>g | Lagrum | Ansvarig Delegat | Delegeringens omfattning | Taget beslut och<br>datum för beslutet |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | 1384 2024-<br>00155 |  |
-| 4.11 | 2 § lagen om<br>flyttning av<br>fordon i vissa fall<br>och 2 §<br>förordningen om<br>flyttning av<br>fordon i vissa fall | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Planering &<br>Utformning<br>EC Anläggning &<br>Utveckling<br>Arbetsledare,<br>Trafik-samordnare<br>Trafikövervakare | Beslut om flyttning av<br>fordon | 0 beslut om flyttning<br>av fordon |  |  |
-| 4.13 | 5 § lag (1976:206)<br>om<br>felparkeringsavgif<br>t och 1 § lag<br>(1984:318) om<br>kontrollavgift vid<br>olovlig parkering | Trafikövervakare | Beslut om<br>felparkeringsavgift samt<br>kontrollavgift vid olovlig<br>parkering | Felparkeringsavgifter<br>(gatumark):<br>368 st<br>Kontrollavgifter<br>(tomtmark):<br>76 st |  |  |
-| 4.14 | Vägmärkesförord<br>ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81 §<br>(a-e)<br>Ordningslagen 3<br>kap. 4 § Plan och<br>Bygglagen 6 Kap.<br>21 | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning &<br>Utveckling<br>Vägtekniker | Beslut om tillstånd att<br>schakta i gator och vägar<br>för vilka kommunen är<br>huvudman och vid behov<br>kräva säkerhet för<br>beräknade kostnader för<br>återställande av<br>kommunens anläggningar | 1 beslut om tillstånd<br>att schakta i gator<br>och<br>trafikanordningsplan<br>. |  |  |
-| 4.15 | Vägmärkesförord<br>ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81 §<br>(a-e)<br>Ordningslagen 3<br>kap. 4 § | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning &<br>Utveckling<br>Vägtekniker | Godkännande av<br>trafikanordningsplan | 24 beslut om enbart<br>trafikanordningsplan |  |  |
-| 4.16 | 13 kap. och 8 §<br>trafikförordningen<br>(1998:1276) | Färdtjänstutredare | Beslut om<br>parkeringstillstånd för<br>rörelsehindrade | Beslut om<br>parkeringstillstånd<br>för rörelsehindrad<br>Beviljade: 23<br>Avslagna: 3 |  |  |
+4.13         5 § lag (1976:206) Trafikövervakare Beslut om Felparkeringsavgifter
+om                        felparkeringsavgift samt (gatumark):
+felparkeringsavgif
+kontrollavgift vid olovlig 368 st
+t och 1 § lag
+parkering
+(1984:318) om
+Kontrollavgifter
+kontrollavgift vid
+(tomtmark):
+olovlig parkering
+76 st
+4.14         Vägmärkesförord VC Trafik & Beslut om tillstånd att 1 beslut om tillstånd
+ningen SFS   Utemiljö     schakta i gator och vägar att schakta i gator
+2007:90 AFS  EC drift Gata för vilka kommunen är och
+1999:3 49 § 81 § EC Anläggning & huvudman och vid behov trafikanordningsplan
+(a-e)        Utveckling   kräva säkerhet för .
+Ordningslagen 3 Vägtekniker beräknade kostnader för
+kap. 4 § Plan och         återställande av
+Bygglagen 6 Kap.          kommunens anläggningar
+21
+4.15         Vägmärkesförord VC Trafik & Godkännande av  24 beslut om enbart
+ningen SFS   Utemiljö     trafikanordningsplan trafikanordningsplan
+2007:90 AFS  EC drift Gata
+1999:3 49 § 81 § EC Anläggning &
+(a-e)        Utveckling
+Ordningslagen 3 Vägtekniker
+kap. 4 §
+4.16         13 kap. och 8 § Färdtjänstutredare Beslut om Beslut om
+trafikförordningen        parkeringstillstånd för parkeringstillstånd
+(1998:1276)
+rörelsehindrade   för rörelsehindrad
+Beviljade: 23
+Avslagna: 3
 
 <!-- sida 147 -->
 
 KUNGSBACKA KOMMUN                                           4 (5)
 
-[Tabell 147-1](handlingar.tabeller/147-1.csv)
+Punkt i
+delegeringsordnin                      Delegeringens omfattning Taget beslut och
+g            Lagrum       Ansvarig Delegat               datum för beslutet
+4.17         Ordningslagen VC Trafik & Yttrande till polisen Se separat bilaga för
+(1993:1617) 2 kap Utemiljö avseende begagnade av Yttranden från
+EC Anläggning & offentlig plats Teknik.
+Utveckling
+Samordnare
+5.1          6–9 §§ lag   Färdtjänstutredar Beslut om tillstånd till Beslut om färdtjänst
+(1997:736) om e           färdtjänst med    Beviljade: 66
+färdtjänst   EC Kansli
+regelkompletteringar Avslagna: 0
+5.3          4–7 §§ lag   Färdtjänstutredar Beslut om tillstånd till Beslut om tillstånd
+(1997:735) om e           riksfärdtjänst    till riksfärdtjänst
+riksfärdtjänst EC Kansli
+Beviljade: 16
+Avslagna: 0
+8.3          37§ Lokala   Anette Englund, Besluta om godkännande 241014 1 st
+avfallsföreskrifter administratör av kompostering av 241030 2 st
+för Kungsbacka Kund &     matavfall
+kommun       Kommunikation
 
-| Punkt i<br>delegeringsordnin<br>g | Lagrum | Ansvarig Delegat | Delegeringens omfattning | Taget beslut och<br>datum för beslutet |
-| --- | --- | --- | --- | --- |
-| 4.17 | Ordningslagen<br>(1993:1617) 2 kap | VC Trafik &<br>Utemiljö<br>EC Anläggning &<br>Utveckling<br>Samordnare | Yttrande till polisen<br>avseende begagnade av<br>offentlig plats | Se separat bilaga för<br>Yttranden från<br>Teknik. |
-| 5.1 | 6–9 §§ lag<br>(1997:736) om<br>färdtjänst | Färdtjänstutredar<br>e<br>EC Kansli | Beslut om tillstånd till<br>färdtjänst med<br>regelkompletteringar | Beslut om färdtjänst<br>Beviljade: 66<br>Avslagna: 0 |
-| 5.3 | 4–7 §§ lag<br>(1997:735) om<br>riksfärdtjänst | Färdtjänstutredar<br>e<br>EC Kansli | Beslut om tillstånd till<br>riksfärdtjänst | Beslut om tillstånd<br>till riksfärdtjänst<br>Beviljade: 16<br>Avslagna: 0 |
-| 8.3 | 37§ Lokala<br>avfallsföreskrifter<br>för Kungsbacka<br>kommun | Anette Englund,<br>administratör<br>Kund &<br>Kommunikation | Besluta om godkännande<br>av kompostering av<br>matavfall | 241014 1 st<br>241030 2 st |
-| 8.5 | 42 § Lokala<br>avfallsföres krifter<br>för Kungsbacka<br>kommun | Anette Englund,<br>administratör<br>Kund &<br>Kommunikation | Besluta om att använda<br>gemensam avfallsbehållare | 241007 1 st |
-| 8.6 | 43, 43a §§ Lokala<br>avfallsföreskrifter<br>för Kungsbacka<br>kommun | Anette Englund,<br>administratör<br>Kund &<br>Kommunikation | Besluta om tillfälligt<br>uppehåll i sophämtning | 241007 1 st<br>241009 1 st<br>241010 1 st<br>241011 1 st<br>241014 1 st<br>241015 1 st<br>241016 1 st<br>241028 2 st |
-| 9.1.2 |  | FC | • Beslut att godkänna<br>tilldelning, gäller även<br>återta tilldelning<br>• Beslut att underteckna<br>avtal efter att avtalsspärren<br>löpt ut alternativt efter att<br>domstol avslagit ansökan<br>om överprövning<br>• Beslut att avbryta<br>upphandling, gäller även<br>återta avbrytande | 1 beslut om<br>uppsägning av<br>underhållsavtal av<br>Klockebergsvägen,<br>daterat 1997-01-23.<br>Daterat 2024-08-21,<br>TE-2024-00003. |
+8.5          42 § Lokala  Anette Englund, Besluta om att använda 241007 1 st
+avfallsföres krifter administratör gemensam avfallsbehållare
+för Kungsbacka Kund &
+kommun       Kommunikation
+8.6          43, 43a §§ Lokala Anette Englund, Besluta om tillfälligt 241007 1 st
+avfallsföreskrifter administratör uppehåll i sophämtning 241009 1 st
+för Kungsbacka Kund &                       241010 1 st
+kommun       Kommunikation                  241011 1 st
+241014 1 st
+241015 1 st
+241016 1 st
+241028 2 st
+
+9.1.2                     FC           • Beslut att godkänna 1 beslut om
+tilldelning, gäller även uppsägning av
+återta tilldelning underhållsavtal av
+• Beslut att underteckna Klockebergsvägen,
+avtal efter att avtalsspärren daterat 1997-01-23.
+löpt ut alternativt efter att Daterat 2024-08-21,
+domstol avslagit ansökan TE-2024-00003.
+om överprövning
+• Beslut att avbryta
+upphandling, gäller även
+
+återta avbrytande
 
 <!-- sida 148 -->
 

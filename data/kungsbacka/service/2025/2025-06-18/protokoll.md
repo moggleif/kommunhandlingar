@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6ccb76a1197838aa9551a9a2/1750315182
 sha256: 16b8b217e9e0ea9ed788fcb462cafafa6df22b1a4207dc5e2ed9f8ed52ed5cf2
 bytes: 232272
 sidor: 18
-hamtad: 2026-10-08T02:00:44+00:00
-konverterad: 2026-10-08T02:00:50+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T09:40:51+00:00
+konverterad: 2026-10-14T09:40:58+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -584,7 +584,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
-[Tabell 15-1](protokoll.tabeller/15-1.csv)
+[Tabell 15-16-1](protokoll.tabeller/15-16-1.csv)
 
 | Ärende/ärendegrupp<br>enligt<br>delegationslistan | Beslut, insats samt<br>ev. omfattning | Beslutsfattare | Beslutsdatum | Dnr |
 | --- | --- | --- | --- | --- |
@@ -592,6 +592,8 @@ Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 | 2.1.10<br>Dataskyddsförordningen<br>GDPR, artikel 33 och 34 | Hantering av<br>personuppgiftsincident | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-06-02 | SE-2025-00221 |
 | 2.1.12<br>Dataskyddsförordningen,<br>GDPR, artikel 37 | Utse dataskyddsombud<br>för nämnden | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-06-03 | SE-2025-00183 |
 | 2.1.10<br>Dataskyddsförordningen<br>GDPR, artikel 33 och 34 | Hantering av<br>personuppgiftsincident | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-06-05 | SE-2025-00163 |
+| 2.1.11<br>GDPR<br>Dataskyddsförordningen<br>artikel 35 | Beslut med anledning av<br>konsekvensbedömning<br>avseende dataskydd | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-06-05 | SE-2025-00238 |
+| 2.2.15<br>Försäljning av material | Över ett prisbasbelopp<br>Upp till ett<br>prisbasbelopp | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-06-11 | SE-2025-00247 |
 
 <!-- sida 16 -->
 
@@ -614,12 +616,6 @@ säga förvaltningen för Service förslag, och att nämnden för Service bifall
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: VISMA_SIGN_01_ATTRIBUTE_SAML_TransactionId
 Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
-
-[Tabell 16-1](protokoll.tabeller/16-1.csv)
-
-| 2.1.11<br>GDPR<br>Dataskyddsförordningen<br>artikel 35 | Beslut med anledning av<br>konsekvensbedömning<br>avseende dataskydd | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-06-05 | SE-2025-00238 |
-| --- | --- | --- | --- | --- |
-| 2.2.15<br>Försäljning av material | Över ett prisbasbelopp<br>Upp till ett<br>prisbasbelopp | Julia<br>Tryggvadottir<br>Tollesson<br>FC | 2025-06-11 | SE-2025-00247 |
 
 <!-- sida 17 -->
 

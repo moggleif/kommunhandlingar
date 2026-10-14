@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1722ec5a1900ff6cbab106e/17183629925
 sha256: ea03bf23deece70a621415a7d09de028991241c144f41963804cf880383d7e99
 bytes: 79332559
 sidor: 442
-hamtad: 2026-10-08T00:51:35+00:00
-konverterad: 2026-10-08T00:58:46+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T08:43:39+00:00
+konverterad: 2026-10-14T08:49:04+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [12, 17, 18, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 67, 76, 126, 127, 137, 139, 140, 141, 146, 152, 153, 154, 155, 158, 162, 165, 168, 171, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 189, 190, 191, 194, 205, 206, 211, 233, 234, 235, 237, 239, 240, 241, 242, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 313, 339, 347, 353, 358, 390, 392, 393, 395, 397, 398, 399, 400, 401, 402, 403, 404, 405, 408, 409, 411, 412, 414, 424, 426]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker]
+tal_obekraftade: [12, 17, 18, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 67, 76, 126, 127, 137, 139, 140, 141, 146, 152, 153, 154, 155, 158, 162, 165, 168, 171, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 189, 190, 191, 194, 205, 206, 211, 212, 233, 234, 235, 237, 239, 240, 241, 242, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 313, 339, 347, 353, 358, 390, 392, 393, 395, 397, 398, 399, 400, 401, 402, 403, 404, 405, 408, 409, 411, 412, 414, 424, 426]
+figurer: [68, 77, 78, 79, 80, 82, 83, 85, 88, 89, 90, 91, 93, 128, 129, 132, 136, 142, 145, 147, 148, 150, 160, 161, 169, 221, 223, 226, 228, 238, 250, 254, 269, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 296, 314, 351, 352, 354, 360, 394, 396, 413, 415, 416, 417, 418, 419, 420, 421, 422, 423, 425, 427, 428, 429, 430, 431, 432, 433, 434, 435]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -13250,6 +13250,13 @@ Nedan tabell redovisar uppskattade kostnader för de olika vägvalen gällande d
 Beloppen är angivna i prisnivå 2024-02 och bör fortlöpande justeras för att vara aktuella i förhållande
 till rådande kostnadsbild i samhället.
 
+Åtgärd                            Kostnadsberäkning
+Förnyelse utan att uppfylla tekniska krav enligt VGU. 200 - 250 mnkr
+
+Arbetet utförs under en tioårsperiod.
+Förnyelse av ljuspunkter där kraven enligt VGU uppfylls. 300 - 350 mnkr
+Arbete utförs under en tioårsperiod.
+
 Kostnaderna i tabellen är osäkra och ligger tidigt i osäkerhetstratten. Djupare studier behöver göras för
 att få en kostnadsbedömning med mindre spann.
 
@@ -13259,13 +13266,6 @@ att få en kostnadsbedömning med mindre spann.
 | --- | --- |
 | Elförbrukning (baserat på genomsnittligt kWh-pris 2023) | 0,35 mnkr |
 | 2023 var upprustningskostnader cirka. Beloppet är lägre än<br>behovet då prioritering lagts på belysning längs<br>kommunala vägar och vägföreningar | 0,35 mnkr |
-
-[Tabell 314-2](handlingar.tabeller/314-2.csv)
-
-| Åtgärd | Kostnadsberäkning |
-| --- | --- |
-| Förnyelse utan att uppfylla tekniska krav enligt VGU.<br>Arbetet utförs under en tioårsperiod. | 200 - 250 mnkr |
-| Förnyelse av ljuspunkter där kraven enligt VGU uppfylls.<br>Arbete utförs under en tioårsperiod. | 300 - 350 mnkr |
 
 <!-- sida 315 -->
 
@@ -14580,7 +14580,16 @@ nuvarande utsläppspunkt i Kungsbackaån, ca 1,5 km från mynningen av
 Kungsbackafjorden.
 
 Tabell 2. Utsläppsvillkor för nya Hammargårds ARV.
-
+Utsläppsvillkor
+Biologisk       Årsmedelvärde får inte överstiga 5 mg/l eller totalt 32 ton per
+Syreförbrukning (BOD 9) år
+7
+Totalfosfor10 (P ) Årsmedelvärde får inte överstiga 0,2 mg/l eller totalt 0,9 ton
+tot
+per år.
+Totalkväve11 (N ) Årsmedelvärde får inte överstiga 6 mg/l eller totalt 40 ton per
+tot
+år.
 Orsaken till utbyggnaden är att Kungsbackas befolkning ökar. Hammargårds
 avloppsreningsverk tar idag emot avloppet från motsvarande 41 000 personer, och
 har tillstånd för 52 000. Den framtida belastningen på verket prognostiseras till 50
@@ -14596,14 +14605,6 @@ https://avloppsguiden.se/informationssidor/avloppsguidens-ordlista/)
 10 Både partikelbunden fosfor och fosfor i lösning.
 11 Både partikelbundet kväve och kväve i lösning.
 Kungsbacka kommun              Styrande dokument               15 (36)
-
-[Tabell 343-1](handlingar.tabeller/343-1.csv)
-
-| Utsläppsvillkor |  |
-| --- | --- |
-| Biologisk<br>Syreförbrukning (BOD 9)<br>7 | Årsmedelvärde får inte överstiga 5 mg/l eller totalt 32 ton per<br>år |
-| Totalfosfor10 (P )<br>tot | Årsmedelvärde får inte överstiga 0,2 mg/l eller totalt 0,9 ton<br>per år. |
-| Totalkväve11 (N )<br>tot | Årsmedelvärde får inte överstiga 6 mg/l eller totalt 40 ton per<br>år. |
 
 <!-- sida 344 -->
 
@@ -18368,27 +18369,88 @@ KUNGSBACKA KOMMUN                                           2 (4)
 
 KUNGSBACKA KOMMUN                                           3 (4)
 
-[Tabell 441-1](handlingar.tabeller/441-1.csv)
+Punkt i
+delegeringsord        Ansvarig  Delegeringens
+ning       Lagrum     Delegat   omfattning     Taget beslut och datum för beslutet
+om flyttning av EC Anläggning
+fordon i vissa & Utveckling
+fall       Arbetsledare,
+Trafik-
+samordnare
+Trafikövervakar
+e
+4.14       Vägmärkesföro VC Trafik & Beslut om tillstånd att 27 st beslut om tillstånd att schakta i
+rd ningen SFS Utemiljö schakta i gator och gator och trafikanordningsplan.
+2007:90 AFS EC drift Gata vägar för vilka
+1999:3 49 § 81 EC Anläggning kommunen är
+§ (a-e)    & Utveckling huvudman och vid
+Ordningslagen Vägtekniker behov kräva säkerhet
+3 kap. 4 § Plan      för beräknade
 
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-|  | om flyttning av<br>fordon i vissa<br>fall | EC Anläggning<br>& Utveckling<br>Arbetsledare,<br>Trafik-<br>samordnare<br>Trafikövervakar<br>e |  |  |
-| 4.14 | Vägmärkesföro<br>rd ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen<br>3 kap. 4 § Plan<br>och Bygglagen<br>6 Kap. 21 | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning<br>& Utveckling<br>Vägtekniker | Beslut om tillstånd att<br>schakta i gator och<br>vägar för vilka<br>kommunen är<br>huvudman och vid<br>behov kräva säkerhet<br>för beräknade<br>kostnader för<br>återställande av<br>kommunens<br>anläggningar | 27 st beslut om tillstånd att schakta i<br>gator och trafikanordningsplan. |
-| 4.15 | Vägmärkesföro<br>rd ningen SFS<br>2007:90 AFS<br>1999:3 49 § 81<br>§ (a-e)<br>Ordningslagen<br>3 kap. 4 § | VC Trafik &<br>Utemiljö<br>EC drift Gata<br>EC Anläggning<br>& Utveckling<br>Vägtekniker | Godkännande av<br>trafikanordningsplan | 42 st beslut om enbart<br>trafikanordningsplan |
-| 4.16 | 13 kap. och 8 §<br>trafikförordnin<br>gen<br>(1998:1276) | Färdtjänstutred<br>are | Beslut om<br>parkeringstillstånd för<br>rörelsehindrade | Beslut om parkeringstillstånd för<br>rörelsehindrad<br>Beviljade: 32<br>Avslagna: 4 |
-| 5.1 | 6–9 §§ lag<br>(1997:736) om<br>färdtjänst | Färdtjänstutred<br>are<br>EC Kansli | Beslut om tillstånd till<br>färdtjänst med<br>regelkompletteringar | Beslut om färdtjänst<br>Beviljade: 78<br>Avslagna: 0 |
-| 5.3 | 4–7 §§ lag<br>(1997:735) om<br>riksfärdtjänst | Färdtjänstutred<br>are<br>EC Kansli | Beslut om tillstånd till<br>riksfärdtjänst | Beslut om tillstånd till riksfärdtjänst<br>Beviljade: 31<br>Avslagna: 0 |
-| 8.3 | 37§ Lokala<br>avfallsföreskrif<br>ter för<br>Kungsbacka<br>kommun | Anette Englund<br>och Louise<br>Backman-<br>Smith,<br>adminstratörer<br>Kund & | Besluta om<br>godkännande av<br>kompostering av<br>matavfall | … beslut godkännande av<br>kompostering av matavfall…<br>240527 1 st<br>240516 1 st<br>240521 1 st |
+och Bygglagen        kostnader för
+6 Kap. 21            återställande av
+kommunens
+anläggningar
+4.15       Vägmärkesföro VC Trafik & Godkännande av 42 st beslut om enbart
+rd ningen SFS Utemiljö trafikanordningsplan trafikanordningsplan
+2007:90 AFS EC drift Gata
+1999:3 49 § 81 EC Anläggning
+§ (a-e)    & Utveckling
+Ordningslagen Vägtekniker
+3 kap. 4 §
+4.16       13 kap. och 8 § Färdtjänstutred Beslut om Beslut om parkeringstillstånd för
+trafikförordnin are  parkeringstillstånd för rörelsehindrad
+gen
+rörelsehindrade Beviljade: 32
+(1998:1276)
+Avslagna: 4
+5.1        6–9 §§ lag Färdtjänstutred Beslut om tillstånd till Beslut om färdtjänst
+(1997:736) om are    färdtjänst med Beviljade: 78
+färdtjänst EC Kansli
+regelkompletteringar Avslagna: 0
+5.3        4–7 §§ lag Färdtjänstutred Beslut om tillstånd till Beslut om tillstånd till riksfärdtjänst
+(1997:735) om are    riksfärdtjänst Beviljade: 31
+riksfärdtjänst EC Kansli
+Avslagna: 0
+8.3        37§ Lokala Anette Englund Besluta om … beslut godkännande av
+avfallsföreskrif och Louise godkännande av kompostering av matavfall…
+ter för    Backman-  kompostering av 240527 1 st
+Kungsbacka           matavfall
+Smith,                   240516 1 st
+kommun
+adminstratörer           240521 1 st
+Kund &
 
 <!-- sida 442 -->
 
 KUNGSBACKA KOMMUN                                           4 (4)
 
-[Tabell 442-1](handlingar.tabeller/442-1.csv)
-
-| Punkt i<br>delegeringsord<br>ning | Lagrum | Ansvarig<br>Delegat | Delegeringens<br>omfattning | Taget beslut och datum för beslutet |
-| --- | --- | --- | --- | --- |
-|  |  | Kommunikatio<br>n |  |  |
-| 8.6 | 43, 43a §§<br>Lokala<br>avfallsföreskrif<br>ter för<br>Kungsbacka<br>kommun | Anette Englund<br>och Louise<br>Backman-<br>Smith,<br>adminstratörer<br>Kund &<br>Kommunikatio<br>n | Besluta om tillfälligt<br>uppehåll i<br>sophämtning | … beslut om tillfälligt uppehåll i<br>sophämtning<br>240506 1 st<br>240507 2 st<br>240516 1 st<br>240517 1 st<br>240520 1 st<br>240521 1 st<br>240524 2 st<br>240527 2 st<br>240528 2 st |
-| 10.1 | LAS, AB §§ 3-5 | Anställa |  |  |
-| 10.1.2 | LAS, AB §§ 3-<br>5 | FC | Övriga medarbetare<br>Tillsvidareanställning<br>och<br>tidsbegränsadeanställn<br>ingar längre än 6<br>månader | - Processingenjör, anställd 2024-05-<br>01 av Maurice Bourne<br>I samråd med HR på<br>förvaltningen samt<br>förhandlingschef |
+Punkt i
+delegeringsord        Ansvarig  Delegeringens
+ning       Lagrum     Delegat   omfattning     Taget beslut och datum för beslutet
+Kommunikatio
+n
+8.6        43, 43a §§ Anette Englund Besluta om tillfälligt … beslut om tillfälligt uppehåll i
+Lokala     och Louise uppehåll i    sophämtning
+avfallsföreskrif Backman- sophämtning 240506 1 st
+ter för
+Smith,                   240507 2 st
+Kungsbacka
+adminstratörer           240516 1 st
+kommun
+Kund &                   240517 1 st
+Kommunikatio             240520 1 st
+n                        240521 1 st
+240524 2 st
+240527 2 st
+240528 2 st
+10.1       LAS, AB §§ 3-5          Anställa
+10.1.2     LAS, AB §§ 3- FC     Övriga medarbetare - Processingenjör, anställd 2024-05-
+5                    Tillsvidareanställning 01 av Maurice Bourne
+och
+tidsbegränsadeanställn
+I samråd med HR på
+ingar längre än 6
+förvaltningen samt
+månader
+förhandlingschef

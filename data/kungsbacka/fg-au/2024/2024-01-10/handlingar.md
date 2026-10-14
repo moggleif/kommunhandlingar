@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.227417af18c8af9fa1e2767e/1704697853
 sha256: 4a3ba06dc1a1f7a3615e84ac77b9ba6544b0c1f5c66b305f944e8241f8f48a29
 bytes: 3553640
 sidor: 84
-hamtad: 2026-10-07T23:19:23+00:00
-konverterad: 2026-10-07T23:19:50+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-14T07:25:13+00:00
+konverterad: 2026-10-14T07:25:35+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [21, 22]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [4, 21, 22, 66]
+figurer: [7, 31, 32, 52, 54, 55, 56, 79]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -2068,33 +2068,40 @@ Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 26
 
 Nämnden för Förskola & Grundskola               Kungsbacka kommun
 
+2021              2022              2023
+Tot Flicko    Di  Tot Flicko    Di  Tot Flicko    Di
+Pojkar            Pojkar            Pojkar
+al   r         ff al   r        ff  al   r        ff
+Bild        15,5 16,7 14,4 2,3 15,1 16,5 13,8 2,7 15,2 16,4 13,5 2,9
+Engelska    14,8 14,8 14,8 0,0 15,2 15,4 15,0 0,4 15,0 15,0 14,7 0,3
+Hem och
+15,4 16,4 14,5 1,9 15,3 16,4 14,1 2,3 15,0 15,4 13,9 1,5
+konsumentkunskap
+\-                 -                 -
+Idrott och hälsa 15,2 14,8 15,5 15,1 15,0 15,2  14,8 14,1 15,0
+0,7               0,2               0,9
+\-                                   -
+Matematik   13,3 13,2 13,3    13,0 13,1 12,9 0,2 13,3 13,1 13,2
+0,1                                 0,1
+Musik       14,9 15,5 14,3 1,2 14,8 15,6 14,1 1,5 14,8 15,1 13,9 1,2
+Biologi     14,2 14,8 13,6 1,2 14,3 15,1 13,6 1,5 13,8 14,0 13,2 0,8
+Fysik       13,8 14,1 13,5 0,6 13,7 14,1 13,3 0,8 13,6 13,5 13,4 0,1
+Kemi        13,7 14,1 13,3 0,8 13,6 14,1 13,2 0,9 13,5 13,6 13,2 0,4
+Geografi    14,7 15,3 14,2 1,1 14,0 14,5 13,5 1,0 14,4 14,6 13,7 0,9
+Historia    14,8 15,2 14,5 0,7 14,3 14,7 14,0 0,7 14,4 14,4 13,9 0,5
+Religionskunskap 14,6 15,4 13,9 1,5 14,0 14,8 13,2 1,6 14,4 14,8 13,6 1,2
+
+Samhällskunskap 14,8 15,3 14,4 0,9 14,2 14,8 13,5 1,3 14,3 14,6 13,6 1,0
+Slöjd       15,1 16,0 14,4 1,6 15,2 16,1 14,4 1,7 15,0 15,3 14,2 1,1
+
+Svenska     14,5 15,7 13,4 2,3 14,0 15,2 12,9 2,3 14,2 14,9 13,1 1,8
+Teknik      14,4 14,9 14,0 0,9 15,0 15,6 14,4 1,2 14,3 14,5 13,9 0,6
+
 6.2 Enkäter
 
 Vårdnadshavare Förskola
 
 Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 27
-
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
-
-|  | 2021 |  |  |  | 2022 |  |  |  | 2023 |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Tot<br>al | Flicko<br>r | Pojkar | Di<br>ff | Tot<br>al | Flicko<br>r | Pojkar | Di<br>ff | Tot<br>al | Flicko<br>r | Pojkar | Di<br>ff |
-| Bild | 15,5 | 16,7 | 14,4 | 2,3 | 15,1 | 16,5 | 13,8 | 2,7 | 15,2 | 16,4 | 13,5 | 2,9 |
-| Engelska | 14,8 | 14,8 | 14,8 | 0,0 | 15,2 | 15,4 | 15,0 | 0,4 | 15,0 | 15,0 | 14,7 | 0,3 |
-| Hem och<br>konsumentkunskap | 15,4 | 16,4 | 14,5 | 1,9 | 15,3 | 16,4 | 14,1 | 2,3 | 15,0 | 15,4 | 13,9 | 1,5 |
-| Idrott och hälsa | 15,2 | 14,8 | 15,5 | -<br>0,7 | 15,1 | 15,0 | 15,2 | -<br>0,2 | 14,8 | 14,1 | 15,0 | -<br>0,9 |
-| Matematik | 13,3 | 13,2 | 13,3 | -<br>0,1 | 13,0 | 13,1 | 12,9 | 0,2 | 13,3 | 13,1 | 13,2 | -<br>0,1 |
-| Musik | 14,9 | 15,5 | 14,3 | 1,2 | 14,8 | 15,6 | 14,1 | 1,5 | 14,8 | 15,1 | 13,9 | 1,2 |
-| Biologi | 14,2 | 14,8 | 13,6 | 1,2 | 14,3 | 15,1 | 13,6 | 1,5 | 13,8 | 14,0 | 13,2 | 0,8 |
-| Fysik | 13,8 | 14,1 | 13,5 | 0,6 | 13,7 | 14,1 | 13,3 | 0,8 | 13,6 | 13,5 | 13,4 | 0,1 |
-| Kemi | 13,7 | 14,1 | 13,3 | 0,8 | 13,6 | 14,1 | 13,2 | 0,9 | 13,5 | 13,6 | 13,2 | 0,4 |
-| Geografi | 14,7 | 15,3 | 14,2 | 1,1 | 14,0 | 14,5 | 13,5 | 1,0 | 14,4 | 14,6 | 13,7 | 0,9 |
-| Historia | 14,8 | 15,2 | 14,5 | 0,7 | 14,3 | 14,7 | 14,0 | 0,7 | 14,4 | 14,4 | 13,9 | 0,5 |
-| Religionskunskap | 14,6 | 15,4 | 13,9 | 1,5 | 14,0 | 14,8 | 13,2 | 1,6 | 14,4 | 14,8 | 13,6 | 1,2 |
-| Samhällskunskap | 14,8 | 15,3 | 14,4 | 0,9 | 14,2 | 14,8 | 13,5 | 1,3 | 14,3 | 14,6 | 13,6 | 1,0 |
-| Slöjd | 15,1 | 16,0 | 14,4 | 1,6 | 15,2 | 16,1 | 14,4 | 1,7 | 15,0 | 15,3 | 14,2 | 1,1 |
-| Svenska | 14,5 | 15,7 | 13,4 | 2,3 | 14,0 | 15,2 | 12,9 | 2,3 | 14,2 | 14,9 | 13,1 | 1,8 |
-| Teknik | 14,4 | 14,9 | 14,0 | 0,9 | 15,0 | 15,6 | 14,4 | 1,2 | 14,3 | 14,5 | 13,9 | 0,6 |
 
 <!-- sida 54 -->
 
@@ -2123,7 +2130,7 @@ Systematiskt skolförbättring -förskola
 
 Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 30
 
-[Tabell 56-1](handlingar.tabeller/56-1.csv)
+[Tabell 56-57-1](handlingar.tabeller/56-57-1.csv)
 
 | Systematisk skolförbättring | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
 | --- | --- | --- | --- | --- | --- |
@@ -2132,19 +2139,6 @@ Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 30
 | Distribuerat ledarskap | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
 | Rektors ledarskap skapar en skolkultur som<br>kännetecknas av tillit och av att medarbetare<br>utövar inflytande genom att ta initiativ till<br>ledarhandlingar som stödjer<br>skolförbättringsarbetet. | 0 | 1 | 31 | 11 | 0 |
 | Medarbetare vill vara och är aktiva deltagare<br>i skolförbättringsarbetet | 0 | 9 | 25 | 10 | 0 |
-
-<!-- sida 57 -->
-
-Nämnden för Förskola & Grundskola               Kungsbacka kommun
-
-Systematiskt skolförbättring -grundskola
-
-Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 31
-
-[Tabell 57-1](handlingar.tabeller/57-1.csv)
-
-| Systematisk skolförbättring | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
-| --- | --- | --- | --- | --- | --- |
 | Rektor distribuerar ledarskapet | 0 | 1 | 32 | 11 | 0 |
 | Kollegialt lärande | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
 | Kollegialt lärande utgör den övervägande<br>delen av enhetens professionsutveckling och<br>ses som en del av vardagsrutinerna. | 2 | 7 | 17 | 17 | 0 |
@@ -2155,7 +2149,15 @@ Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 31
 | Enheten bidrar till att producera ny kunskap<br>genom att utveckla beprövad erfarenhet. | 0 | 18 | 22 | 4 | 0 |
 | Forskningsbaseringen inkluderar<br>översättning till lokala kontexter. | 1 | 18 | 22 | 3 | 0 |
 
-[Tabell 57-2](handlingar.tabeller/57-2.csv)
+<!-- sida 57 -->
+
+Nämnden för Förskola & Grundskola               Kungsbacka kommun
+
+Systematiskt skolförbättring -grundskola
+
+Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 31
+
+[Tabell 57-58-1](handlingar.tabeller/57-58-1.csv)
 
 | Systematisk skolförbättring | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
 | --- | --- | --- | --- | --- | --- |
@@ -2166,6 +2168,13 @@ Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 31
 | Medarbetare vill vara och är aktiva deltagare<br>i skolförbättringsarbetet | 0 | 7 | 24 | 7 | 2 |
 | Rektor distribuerar ledarskapet | 0 | 4 | 22 | 14 | 1 |
 | Kollegialt lärande | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
+| Kollegialt lärande utgör den övervägande<br>delen av enhetens professionsutveckling och<br>ses som en del av vardagsrutinerna. | 0 | 10 | 18 | 12 | 0 |
+| Kollegialt lärande utgår från barns och<br>elevers behov, är inriktat mot förbättring av<br>undervisningen och bedrivs med ett<br>vetenskapligt förhållningssätt i cykliska<br>förlopp | 0 | 13 | 30 | 7 | 0 |
+| Kollegialt lärande resulterar i bestående<br>förändringar av vårt sätt att tänka och göra. | 1 | 11 | 19 | 4 | 5 |
+| Vetenskaplig grund | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
+| Skolförbättringsarbetet, pedagogiskt<br>ledarskap och undervisning vilar på<br>vetenskaplig grund. | 0 | 7 | 23 | 10 | 0 |
+| Enheten bidrar till att producera ny kunskap<br>genom att utveckla beprövad erfarenhet. | 0 | 18 | 18 | 2 | 2 |
+| Forskningsbaseringen inkluderar<br>översättning till lokala kontexter. | 0 | 13 | 21 | 4 | 1 |
 
 <!-- sida 58 -->
 
@@ -2177,19 +2186,7 @@ Rektorer förskola
 
 Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 32
 
-[Tabell 58-1](handlingar.tabeller/58-1.csv)
-
-| Systematisk skolförbättring | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
-| --- | --- | --- | --- | --- | --- |
-| Kollegialt lärande utgör den övervägande<br>delen av enhetens professionsutveckling och<br>ses som en del av vardagsrutinerna. | 0 | 10 | 18 | 12 | 0 |
-| Kollegialt lärande utgår från barns och<br>elevers behov, är inriktat mot förbättring av<br>undervisningen och bedrivs med ett<br>vetenskapligt förhållningssätt i cykliska<br>förlopp | 0 | 13 | 30 | 7 | 0 |
-| Kollegialt lärande resulterar i bestående<br>förändringar av vårt sätt att tänka och göra. | 1 | 11 | 19 | 4 | 5 |
-| Vetenskaplig grund | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
-| Skolförbättringsarbetet, pedagogiskt<br>ledarskap och undervisning vilar på<br>vetenskaplig grund. | 0 | 7 | 23 | 10 | 0 |
-| Enheten bidrar till att producera ny kunskap<br>genom att utveckla beprövad erfarenhet. | 0 | 18 | 18 | 2 | 2 |
-| Forskningsbaseringen inkluderar<br>översättning till lokala kontexter. | 0 | 13 | 21 | 4 | 1 |
-
-[Tabell 58-2](handlingar.tabeller/58-2.csv)
+[Tabell 58-59-1](handlingar.tabeller/58-59-1.csv)
 
 | Läroplan för förskolan, LPFÖ 18 | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
 | --- | --- | --- | --- | --- | --- |
@@ -2198,23 +2195,18 @@ Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 32
 | Omsorg, utveckling och lärande |  |  |  |  |  |
 | Utbildningen i förskolan ska bidra till att<br>barnet utvecklar en förståelse för sig själv<br>och sin omvärld. Utforskande, nyfikenhet<br>och lust att leka och lära ska vara grunden<br>för utbildningen. Den ska präglas av att<br>omsorg, utveckling och lärande bildar en<br>helhet. Utbildningen i förskolan ska ta sin<br>utgångspunkt i läroplanen samt barnens<br>behov, erfarenheter och det de visar intresse<br>för. Flödet av barnens tankar och idéer ska<br>tas tillvara för att skapa mångfald i lärandet. | 0 | 5 | 27 | 9 | 0 |
 | Barns delaktighet och inflytande |  |  |  |  |  |
-
-<!-- sida 59 -->
-
-Nämnden för Förskola & Grundskola               Kungsbacka kommun
-
-Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 33
-
-[Tabell 59-1](handlingar.tabeller/59-1.csv)
-
-| Läroplan för förskolan, LPFÖ 18 | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
-| --- | --- | --- | --- | --- | --- |
 | Utbildningen i förskolan ska lägga grunden<br>för att barnen ska förstå vad demokrati är.<br>Barnens sociala utveckling förutsätter att de<br>alltefter förmåga får ta ansvar för sina egna<br>handlingar och för miljön i förskolan. Barn<br>har rätt till delaktighet och inflytande. De<br>behov och intressen som barnen själva på<br>olika sätt ger uttryck för ska ligga till grund<br>för utformningen av miljön och planeringen<br>av utbildningen. | 0 | 11 | 31 | 0 | 0 |
 | Förskola och hem |  |  |  |  |  |
 | För att skapa bästa möjliga förutsättningar<br>för att barnen ska kunna utvecklas rikt och<br>mångsidigt ska förskolan samarbeta på ett<br>nära och förtroendefullt sätt med hemmen. | 0 | 6 | 26 | 7 | 0 |
 | Övergång och samverkan |  |  |  |  |  |
 | Förskolan ska samverka på ett förtroendefullt<br>sätt med förskoleklassen, skolan och<br>fritidshemmet för att stödja barnens<br>utveckling och lärande i ett långsiktigt<br>perspektiv. Inför övergångar ska de berörda<br>skolformerna och fritidshemmet utbyta<br>kunskaper, erfarenheter och information om<br>innehållet i utbildningen för att skapa<br>sammanhang, kontinuitet och progression i<br>barnens utveckling och lärande. Det ska även<br>finnas samarbetsformer som syftar till att<br>förbereda barnen och deras vårdnadshavare<br>inför övergångar från förskolan till<br>förskoleklassen, skolan och fritidshemmet. | 0 | 11 | 22 | 9 | 0 |
 | Uppföljning, utvärdering och utveckling |  |  |  |  |  |
+
+<!-- sida 59 -->
+
+Nämnden för Förskola & Grundskola               Kungsbacka kommun
+
+Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 33
 
 <!-- sida 60 -->
 
@@ -2240,7 +2232,7 @@ Nämnden för Förskola & Grundskola               Kungsbacka kommun
 
 Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 35
 
-[Tabell 61-1](handlingar.tabeller/61-1.csv)
+[Tabell 61-62-1](handlingar.tabeller/61-62-1.csv)
 
 | Läroplan för grundskolan samt för<br>förskoleklassen och fritidshemmet, LGR<br>22 | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
 | --- | --- | --- | --- | --- | --- |
@@ -2251,17 +2243,6 @@ Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 35
 | Elevernas ansvar och inflytande |  |  |  |  |  |
 | De demokratiska principerna att kunna<br>påverka, ta ansvar och vara delaktig ska<br>omfatta alla elever. Elever ska ges inflytande<br>över utbildningen. De ska fortlöpande<br>stimuleras att ta aktiv del i arbetet med att<br>vidareutveckla utbildningen och hållas<br>informerade i frågor som rör dem.<br>Informationen och formerna för elevernas<br>inflytande ska anpassas efter deras ålder och<br>mognad. Eleverna ska alltid ha möjlighet att<br>ta initiativ till frågor som ska behandlas inom<br>ramen för deras inflytande över utbildningen. | 0 | 12 | 20 | 5 | 2 |
 | Skola och hem |  |  |  |  |  |
-
-<!-- sida 62 -->
-
-Nämnden för Förskola & Grundskola               Kungsbacka kommun
-
-Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 36
-
-[Tabell 62-1](handlingar.tabeller/62-1.csv)
-
-| Läroplan för grundskolan samt för<br>förskoleklassen och fritidshemmet, LGR<br>22 | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
-| --- | --- | --- | --- | --- | --- |
 | Skolans och vårdnadshavarnas gemensamma<br>ansvar för elevernas skolgång ska skapa de<br>bästa möjliga förutsättningarna för barns och<br>ungdomars utveckling och lärande | 0 | 7 | 20 | 10 | 1 |
 | Övergång och samverkan |  |  |  |  |  |
 | Förskoleklassen, fritidshemmet och skolan<br>ska samverka på ett förtroendefullt sätt med<br>varandra och förskolan för att stödja<br>elevernas utveckling och lärande i ett<br>långsiktigt perspektiv. Inför övergångar ska<br>de berörda skolformerna och fritidshemmet<br>utbyta kunskaper, erfarenheter och<br>information om innehållet i utbildningen för<br>att skapa sammanhang, kontinuitet och<br>progression i elevernas utveckling och<br>lärande. Skolan ska även samverka med de<br>gymnasiala utbildningar som eleverna<br>fortsätter till. Det ska även finnas<br>samarbetsformer som syftar till att förbereda<br>eleverna och deras vårdnadshavare inför<br>övergångar. | 0 | 3 | 26 | 8 | 2 |
@@ -2271,6 +2252,12 @@ Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 36
 | Betyget uttrycker i vilken utsträckning den<br>enskilda eleven har uppfyllt de nationella<br>betygskriterier som finns för respektive<br>ämne. Som stöd för betygssättningen finns<br>ämnesspecifika betygskriterier för olika<br>betygssteg | 1 | 6 | 16 | 12 | 1 |
 | Rektorns ansvar |  |  |  |  |  |
 | Som pedagogisk ledare och chef för lärarna<br>och övrig personal i skolan har rektorn det<br>övergripande ansvaret för att verksamheten<br>som helhet inriktas mot de nationella målen.<br>Rektorn ansvarar för att skolans resultat följs<br>upp och utvärderas i förhållande till de<br>nationella målen, kriterierna för bedömning<br>av kunskaper och betygskriterierna. Rektorn<br>har ansvaret för skolans resultat. | 0 | 5 | 21 | 10 | 1 |
+
+<!-- sida 62 -->
+
+Nämnden för Förskola & Grundskola               Kungsbacka kommun
+
+Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 36
 
 <!-- sida 63 -->
 
@@ -2303,22 +2290,11 @@ Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 37
 | Leken i undervisningen | Inte alls | Till viss<br>del | Till stor del | Helt | Vet ej |
 | Undervisningen tillvaratar lärandesituationer<br>utifrån medvetenhet om personalens möjliga<br>roller i barnens lek | 0 | 14 | 25 | 3 | 0 |
 
-[Tabell 63-2](handlingar.tabeller/63-2.csv)
+[Tabell 63-64-2](handlingar.tabeller/63-64-2.csv)
 
 | Undervisningens måldimension | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
 | --- | --- | --- | --- | --- | --- |
 | Undervisningens tydliggör lärandemål | 0 | 8 | 25 | 5 | 0 |
-
-<!-- sida 64 -->
-
-Nämnden för Förskola & Grundskola               Kungsbacka kommun
-
-Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 38
-
-[Tabell 64-1](handlingar.tabeller/64-1.csv)
-
-| Undervisningens måldimension | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
-| --- | --- | --- | --- | --- | --- |
 | Undervisningen följer upp målen | 0 | 9 | 23 | 5 | 1 |
 | Undervisningen är sammanhängande | 0 | 8 | 20 | 7 | 3 |
 | Undervisningen fokuserar lärande<br>bedömning | 0 | 9 | 20 | 4 | 4 |
@@ -2338,6 +2314,12 @@ Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 38
 | Undervisningen är strukturerad | 0 | 7 | 21 | 10 | 0 |
 | Undervisningen kommunicerar förväntningar | 0 | 12 | 20 | 6 | 0 |
 | Undervisningen uttrycker en elevorientering | 1 | 13 | 17 | 4 | 3 |
+
+<!-- sida 64 -->
+
+Nämnden för Förskola & Grundskola               Kungsbacka kommun
+
+Systematiskt kvalitetsarbete 2022-2023 sammanfattande rapport 38
 
 <!-- sida 65 -->
 

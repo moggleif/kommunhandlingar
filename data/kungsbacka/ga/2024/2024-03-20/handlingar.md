@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.99ff57618df2ddb19d29eaa/17104027515
 sha256: 48ef80f77e69c0001c02c8ec32dd80de3f552a0cc74975aa2d0ee6da8a05d5eb
 bytes: 4237547
 sidor: 189
-hamtad: 2026-10-07T22:10:19+00:00
-konverterad: 2026-10-07T22:10:48+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-14T06:25:40+00:00
+konverterad: 2026-10-14T06:26:10+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [4, 5, 17, 23, 149, 151, 152]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -7572,44 +7572,86 @@ Förtroendevalda på deltid
 respektive uppdrag aktuell procentsats av 973 805 kronor (årsarvodet för övriga
 kommunalråd):
 
+Nämnd, styrelse Uppdrag     %-sats Belopp, kr/år Belopp kr/år
+2023     2024
+Kommunstyrelsen (ej Ledamot i AU 40 % 377 810  389 525
+kommunalråd)   Ersättare i AU 5 %      47 230   48 695
+(budgetarbete ingår)
+
+```osaker-tabell
+Byggnadsnämnden Ordförande    35 %    330 585  340 835
+               Vice ordförande 18 %   170 015  175 285
+               Au-ledamot     5 %      47 230   48 695
+```
+
+Nämnden för Förskola & Ordförande 35 % 330 585 340 835
+Grundskola     Vice ordförande 18 %   170 015  175 285
+2:e vice ordförande 10 % 94 455  97 385
+Au-ledamot     4 %      37 785   38 955
+
 Kungsbacka kommun 434 81 Kungsbacka | Besöksadress Vägmästaren, Syréngatan 1
 Telefon 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
-
-[Tabell 171-1](handlingar.tabeller/171-1.csv)
-
-| Nämnd, styrelse | Uppdrag | %-sats | Belopp, kr/år<br>2023 | Belopp kr/år<br>2024 |
-| --- | --- | --- | --- | --- |
-| Kommunstyrelsen (ej<br>kommunalråd) | Ledamot i AU<br>Ersättare i AU<br>(budgetarbete ingår) | 40 %<br>5 % | 377 810<br>47 230 | 389 525<br>48 695 |
-| Byggnadsnämnden | Ordförande<br>Vice ordförande<br>Au-ledamot | 35 %<br>18 %<br>5 % | 330 585<br>170 015<br>47 230 | 340 835<br>175 285<br>48 695 |
-| Nämnden för Förskola &<br>Grundskola | Ordförande<br>Vice ordförande<br>2:e vice ordförande<br>Au-ledamot | 35 %<br>18 %<br>10 %<br>4 % | 330 585<br>170 015<br>94 455<br>37 785 | 340 835<br>175 285<br>97 385<br>38 955 |
 
 <!-- sida 172 -->
 
 KUNGSBACKA KOMMUN
 2 (3)
 
+Nämnden för     Ordförande    30 %    283 360  292 145
+Gymnasium &     Vice ordförande 18 %  170 015  175 285
+Arbetsmarknad   2:e vice ordförande 10 % 94 455 97 385
+Utskottsledamot 5 %    47 230  48 695
+Nämnden för Individ & Ordförande 35 % 330 585  340 835
+Familjeomsorg   Vice ordförande 18 %  170 015  175 285
+2:e vice ordförande 10 % 94 455 97 385
+
+```osaker-tabell
+                Utskottsledamot 8 %    75 565  77 905
+
+Nämnden för Kultur & Ordförande 30 %  283 360  292 145
+Fritid          Vice ordförande 18 %  170 015  175 285
+Nämnden för Miljö & Ordförande 25 %   236 130  243 455
+Hälsoskydd      Vice ordförande 10 %   94 455  97 385
+
+Nämnden för Service Ordförande 25 %   236 130  243 455
+                Vice ordförande 10 %   94 455  97 385
+Nämnden för Teknik Ordförande 25 %    236 130  243 455
+                Vice ordförande 18 %  170 015  175 285
+                Utskottsledamot 4 %    37 785  38 955
+
+Nämnden för Vård & Ordförande 30 %    282 360  292 145
+Omsorg          Vice ordförande 18 %  170 015  175 285
+```
+
+2:e vice ordförande 10 % 94 455 97 385
+Kommunfullmäktige Ordförande  20 %    188 905  194 765
+Vice ordförande 8 %    75 565  77 905
+2:e vice ordförande 4 % 37 785 38 955
+
+```osaker-tabell
+Eksta Bostads AB Ordförande   15 %    141 680  146 075
+                Vice ordförande 6 %    56 675  58 430
+Kommunrevisionen Ordförande   15 %    141 680  146 075
+                Vice ordförande 6 %    56 675  58 430
+                Ledamöter     5 %      47 230  48 695
+
+Stiftelsen Tjolöholm Ordförande 15 %  141 680  146 075
+                Vice ordförande 6 %    56 675  58 430
+```
+
+Överförmyndarnämnden Vice ordförande 10 % 94 455 97 385
+Kommunfullmäktiges Ordförande 2 %      18 895  19 480
+valberedning
+
+Valnämnden valår 2024 Ordförande 5%            48 695
+Vice ordförande 3%             29 215
+Valnämnden – ej valår Ordförande 4%    37 785
+Vice ordförande 2 %    18 895
+
+Partigruppledare Inte kommunalråd 8 %  75 565  77 905
+
 Om deltidsuppdrag innehas av kommunalråd utgår endast ersättning som
 kommunalråd.
-
-[Tabell 172-1](handlingar.tabeller/172-1.csv)
-
-| Nämnden för<br>Gymnasium &<br>Arbetsmarknad | Ordförande<br>Vice ordförande<br>2:e vice ordförande<br>Utskottsledamot | 30 %<br>18 %<br>10 %<br>5 % | 283 360<br>170 015<br>94 455<br>47 230 | 292 145<br>175 285<br>97 385<br>48 695 |
-| --- | --- | --- | --- | --- |
-| Nämnden för Individ &<br>Familjeomsorg | Ordförande<br>Vice ordförande<br>2:e vice ordförande<br>Utskottsledamot | 35 %<br>18 %<br>10 %<br>8 % | 330 585<br>170 015<br>94 455<br>75 565 | 340 835<br>175 285<br>97 385<br>77 905 |
-| Nämnden för Kultur &<br>Fritid | Ordförande<br>Vice ordförande | 30 %<br>18 % | 283 360<br>170 015 | 292 145<br>175 285 |
-| Nämnden för Miljö &<br>Hälsoskydd | Ordförande<br>Vice ordförande | 25 %<br>10 % | 236 130<br>94 455 | 243 455<br>97 385 |
-| Nämnden för Service | Ordförande<br>Vice ordförande | 25 %<br>10 % | 236 130<br>94 455 | 243 455<br>97 385 |
-| Nämnden för Teknik | Ordförande<br>Vice ordförande<br>Utskottsledamot | 25 %<br>18 %<br>4 % | 236 130<br>170 015<br>37 785 | 243 455<br>175 285<br>38 955 |
-| Nämnden för Vård &<br>Omsorg | Ordförande<br>Vice ordförande<br>2:e vice ordförande | 30 %<br>18 %<br>10 % | 282 360<br>170 015<br>94 455 | 292 145<br>175 285<br>97 385 |
-| Kommunfullmäktige | Ordförande<br>Vice ordförande<br>2:e vice ordförande | 20 %<br>8 %<br>4 % | 188 905<br>75 565<br>37 785 | 194 765<br>77 905<br>38 955 |
-| Eksta Bostads AB | Ordförande<br>Vice ordförande | 15 %<br>6 % | 141 680<br>56 675 | 146 075<br>58 430 |
-| Kommunrevisionen | Ordförande<br>Vice ordförande<br>Ledamöter | 15 %<br>6 %<br>5 % | 141 680<br>56 675<br>47 230 | 146 075<br>58 430<br>48 695 |
-| Stiftelsen Tjolöholm | Ordförande<br>Vice ordförande | 15 %<br>6 % | 141 680<br>56 675 | 146 075<br>58 430 |
-| Överförmyndarnämnden | Vice ordförande | 10 % | 94 455 | 97 385 |
-| Kommunfullmäktiges<br>valberedning | Ordförande | 2 % | 18 895 | 19 480 |
-| Valnämnden valår 2024 | Ordförande<br>Vice ordförande | 5%<br>3% |  | 48 695<br>29 215 |
-| Valnämnden – ej valår | Ordförande<br>Vice ordförande | 4%<br>2 % | 37 785<br>18 895 |  |
-| Partigruppledare | Inte kommunalråd | 8 % | 75 565 | 77 905 |
 
 <!-- sida 173 -->
 

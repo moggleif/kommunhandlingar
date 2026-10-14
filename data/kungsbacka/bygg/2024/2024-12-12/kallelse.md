@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6033e6193956abcf8f69f/1733475835354
 sha256: 047284bf0d7f57fa765c7de5ee30bec83ac8ec240743ac0bb2418bb13ccdca5b
 bytes: 212761
 sidor: 4
-hamtad: 2026-10-07T23:45:50+00:00
-konverterad: 2026-10-07T23:45:57+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-14T07:47:34+00:00
+konverterad: 2026-10-14T07:47:40+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -72,7 +72,7 @@ KUNGSBACKA  KOMMUN
 
 3(4)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
+[Tabell 3-4-1](kallelse.tabeller/3-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag | Tid |
 | --- | --- | --- | --- | --- |
@@ -81,6 +81,9 @@ KUNGSBACKA  KOMMUN
 | 12. | Byggsanktionsavgift för att ha<br>påbörjat åtgärd innan<br>startbesked | BN-2020-<br>000869 | Förslag till beslut | 5<br>min |
 | 13. | Byggsanktionsavgift för att ha<br>påbörjat åtgärd i form av murar<br>innan startbesked | BN-2023-<br>001342 | Förslag till beslut | 5<br>min |
 | 14. | Byggsanktionsavgift för att ha<br>påbörjat åtgärd i form av<br>utvändig ändring innan<br>startbesked | BN-2023-<br>002343 | Förslag till beslut | 5<br>min |
+| 15. | Anmälan av ordförandebeslut -<br>Yttrande till Länsstyrelsen i<br>ärende med dnr 2506-2023,<br>angående förhandsbesked för<br>två enbostadshus på fastigheten<br>Vallda-Backa 1:8 | BN-2022-<br>007155 | Förslag till beslut<br>Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut från<br>ordförande Thure Sandén (M) på grund av<br>brådskande ärende. | 2<br>min |
+| 16. | Anmälan av delegeringsbeslut | 2024-00006 | Förslag till beslut<br>Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut fattade<br>under perioden 2024-11-07–2024-12-04. | 1<br>min |
+| 17. | Redovisning av inkomna<br>skrivelser | 2024-00007 | Förslag till beslut<br>Byggnadsnämnden noterar redovisningen av<br>inkomna skrivelser till protokollet. | 1<br>min |
 
 <!-- sida 4 -->
 
@@ -90,11 +93,3 @@ KUNGSBACKA  KOMMUN
 
 Thure Sandén                      Sofie Axelsson
 ordförande                        sekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag | Tid |
-| --- | --- | --- | --- | --- |
-| 15. | Anmälan av ordförandebeslut -<br>Yttrande till Länsstyrelsen i<br>ärende med dnr 2506-2023,<br>angående förhandsbesked för<br>två enbostadshus på fastigheten<br>Vallda-Backa 1:8 | BN-2022-<br>007155 | Förslag till beslut<br>Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut från<br>ordförande Thure Sandén (M) på grund av<br>brådskande ärende. | 2<br>min |
-| 16. | Anmälan av delegeringsbeslut | 2024-00006 | Förslag till beslut<br>Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut fattade<br>under perioden 2024-11-07–2024-12-04. | 1<br>min |
-| 17. | Redovisning av inkomna<br>skrivelser | 2024-00007 | Förslag till beslut<br>Byggnadsnämnden noterar redovisningen av<br>inkomna skrivelser till protokollet. | 1<br>min |
