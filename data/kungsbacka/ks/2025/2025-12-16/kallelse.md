@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2f66052419afce94c17194a6/1765442320
 sha256: 56f921c49a7620369a8d1953126ed6daa746bfcb1bcef65328f87234ad82e53d
 bytes: 234189
 sidor: 7
-hamtad: 2026-10-08T09:15:03+00:00
-konverterad: 2026-10-08T09:15:09+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:06:49+00:00
+konverterad: 2026-10-15T07:06:56+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -99,7 +99,7 @@ KUNGSBACKA  KOMMUN
 
 4(7)
 
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
+[Tabell 4-5-1](kallelse.tabeller/4-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -107,6 +107,9 @@ KUNGSBACKA  KOMMUN
 | 14. | Uppstart av projekt i lokalplan<br>Boende med särskild service<br>(BmSS) | 2025-00830 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner uppstart av projekt<br>Boende med särskild service.<br>Kommunstyrelsen godkänner att finansiering sker<br>genom att ianspråkta investeringsmedel 800 000<br>kronor år 2026, engångsdrift 400 000 kronor år 2026<br>samt driftskostnad 1 800 000 kronor år 2027 från<br>löpnummer 1202 Oförutsedda behov. |
 | 15. | Begäran om planbesked Iserås<br>22:1 | 2025-00566 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av bostäder inom Iserås 22:1 i Onsala. |
 | 16. | Försäljning av Duvehed 2:46 -<br>Prologis/Coloplast | 2021-01056 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner köpeavtal mellan<br>kommunen och Goldcup 101601 AB, under<br>namnändring till Prologis Sweden XL AB, genom<br>vilket kommunen överlåter fastigheten Duvehed<br>2:46, mot en köpeskilling på 14 638 500 kronor,<br>undertecknat av bolaget 2025-10-30.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>och övriga i ärendet nödvändiga handlingar. |
+| 17. | Bevaknings- och<br>samverkansavtal gång- och<br>cykelväg längs väg 916 Fjärås<br>Station | 2025-00771 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner bevaknings- och<br>samverkansavtal med Trafikverket Bevaknings- och<br>samverkansavtal gång- och cykelväg längs väg 916<br>Fjärås Station (TRV 2025/89319),<br>daterat 2025-11-04.<br>Kommunstyrelsen ger kommunstyrelsens ordförande<br>och kommundirektören, eller deras respektive<br>ersättare, i uppdrag att underteckna avtalet.<br>Kommunstyrelsen godkänner att kommunens<br>åtaganden i avtalet, som kostnadsberäknats till 4,7<br>miljoner kronor, finansieras genom kommunens<br>exploateringsbudget, projekt 5119<br>Verksamhetsområden övrigt, under år 2026. |
+| 18. | Godkännande av tilläggsavtal<br>till exploateringsavtal avseende<br>Banken 13 | 2019-00220 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner tilläggsavtal till<br>exploateringsavtal avseende Banken 13 mellan<br>kommunen och Dan Stenlund Fastigheter AB,<br>undertecknat av Dan Stenlund Fastigheter AB<br>2025-11-03.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna<br>tilläggsavtalet samt övriga nödvändiga handlingar för<br>avtalets genomförande. |
+| 19. | Svar på kommunrevisionens<br>granskning av<br>kommunstyrelsens<br>uppsiktsplikt | 2025-00407 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-11-07,<br>och översänder som sitt svar till kommunrevisionen. |
 
 <!-- sida 5 -->
 
@@ -114,21 +117,13 @@ KUNGSBACKA  KOMMUN
 
 5(7)
 
-[Tabell 5-1](kallelse.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 17. | Bevaknings- och<br>samverkansavtal gång- och<br>cykelväg längs väg 916 Fjärås<br>Station | 2025-00771 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner bevaknings- och<br>samverkansavtal med Trafikverket Bevaknings- och<br>samverkansavtal gång- och cykelväg längs väg 916<br>Fjärås Station (TRV 2025/89319),<br>daterat 2025-11-04.<br>Kommunstyrelsen ger kommunstyrelsens ordförande<br>och kommundirektören, eller deras respektive<br>ersättare, i uppdrag att underteckna avtalet.<br>Kommunstyrelsen godkänner att kommunens<br>åtaganden i avtalet, som kostnadsberäknats till 4,7<br>miljoner kronor, finansieras genom kommunens<br>exploateringsbudget, projekt 5119<br>Verksamhetsområden övrigt, under år 2026. |
-| 18. | Godkännande av tilläggsavtal<br>till exploateringsavtal avseende<br>Banken 13 | 2019-00220 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner tilläggsavtal till<br>exploateringsavtal avseende Banken 13 mellan<br>kommunen och Dan Stenlund Fastigheter AB,<br>undertecknat av Dan Stenlund Fastigheter AB<br>2025-11-03.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna<br>tilläggsavtalet samt övriga nödvändiga handlingar för<br>avtalets genomförande. |
-| 19. | Svar på kommunrevisionens<br>granskning av<br>kommunstyrelsens<br>uppsiktsplikt | 2025-00407 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-11-07,<br>och översänder som sitt svar till kommunrevisionen. |
-
 <!-- sida 6 -->
 
 KUNGSBACKA  KOMMUN
 
 6(7)
 
-[Tabell 6-1](kallelse.tabeller/6-1.csv)
+[Tabell 6-7-1](kallelse.tabeller/6-7-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -137,6 +132,9 @@ KUNGSBACKA  KOMMUN
 | 22. | Svar på Region Hallands<br>remiss om<br>Trafikförsörjningsprogram<br>2026–2030 | 2025-00735 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-12-09,<br>och översänder det som sitt svar till Region Halland. |
 | 23. | Svar på Landsbygds- och<br>infrastukturdepartementets<br>remiss av EU-kommissionens<br>förslag till förordningar för<br>perioden 2028–2034 om EU:s<br>fonder, jordbruk, fiske,<br>sammanhållning, social<br>inkludering, migration och<br>säkerhet | 2025-00685 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-10-22,<br>och översänder det som sitt svar till Landsbygds- och<br>infrastukturdepartementet. |
 | 24. | Svar på Finansdepartementets<br>remiss av Europeiska<br>kommissionens förslag till ny<br>förordning om ramverk för<br>uppföljning av budgetutgifter<br>och genomförande | 2025-00790 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-11-10,<br>och översänder det som sitt svar till<br>Finansdepartementet. |
+| 25. | Svar på remiss från Mölndals<br>stad av Reviderad<br>dagvattenstrategi för Mölndals<br>stad | 2025-00786 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-11-04,<br>och översänder det som sitt svar till Mölndals stad. |
+| 26. | Anmälan av delegeringsbeslut | 2025-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
+| 27. | Redovisning av inkomna<br>skrivelser | 2025-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
 
 <!-- sida 7 -->
 
@@ -146,11 +144,3 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Patrik Johansson
 ordförande                        kommunsekreterare
-
-[Tabell 7-1](kallelse.tabeller/7-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 25. | Svar på remiss från Mölndals<br>stad av Reviderad<br>dagvattenstrategi för Mölndals<br>stad | 2025-00786 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-11-04,<br>och översänder det som sitt svar till Mölndals stad. |
-| 26. | Anmälan av delegeringsbeslut | 2025-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
-| 27. | Redovisning av inkomna<br>skrivelser | 2025-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |

@@ -1,0 +1,51 @@
+Verksamhetstyp:,Vård och omsorg,,,,
+Verksamhetsområde:,Insatser för barn och ungdomar,,,,
+Processgrupp:,Hantera insatser för barn och ungdomar,,,,
+Process:,"Placera barn i HVB, familjehem och jourhem",,,,
+Processnummer:,6.3.1.4,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Utforma uppdrag,Vårdplan,Combine,Digitalt,Bevaras,
+Genomföra uppdrag,Genomförandeplan,Combine,Digitalt,Bevaras,
+,Arbetsmarknadsplan,Combine,Digitalt,Bevaras,
+Följa upp,"Rapportering av
+uppdrag",Combine,Digitalt,Bevaras,
+,"Anteckningar från
+uppföljningsmöten",Combine,Digitalt,Bevaras,
+,"Förteckning över barn
+som vistas i familjehem
+eller annat enskilt hem",Ciceron,Digitalt,Bevaras,"Socialnämnden ska föra en förteckning över
+de barn som enligt nämndens beslut vistas i
+familjehem eller annat enskilt hem. Senast 31
+januari varje år ska förteckningen redovisas för
+IVO, 3 kap 4 § Socialtjänstförordningen."
+Avsluta,"Beslut om att avsluta
+vårdinsats",Combine,Digitalt,Bevaras,Omprövning sker var 6:e månad (LVU).
+,"Dokumentation från
+utförare, journaler över
+placerade barn",Combine,Digitalt,Bevaras,"Personakt i enskild verksamhet som avser
+barn som har placerats eller tagits emot i
+boende enligt 8 kap 11 § SoL, ska överlämnas
+för bevarande till den socialnämnd som har
+beslutat om insatsen, enligt avtal. Gäller HVB.
+Familjehem och jourhem för inte journal."
+,"Överflyttning av ärende
+till annan kommun",Ciceron,Digitalt,Bevaras,
+Verksamhetsområde:,Insatser för barn och ungdomar,,,,
+Processgrupp:,Hantera insatser för barn och ungdomar,,,,
+Process:,Besluta om kvalificerad kontaktfamilj/kontaktperson enligt LVU,,,,
+Processnummer:,6.3.1.5,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Utforma uppdrag,Vårdplan,Combine,Digitalt,Bevaras,
+Genomföra uppdrag,Genomförandeplan,Combine,Digitalt,Bevaras,
+,"Omprövning eller
+övervägande LVU",Combine,Digitalt,Bevaras,Information till Individutskottet var 6:e månad.
+,"Beslut om
+familjehemsplacering
+var 6:e månad för
+personer som är äldre
+än 18 år",Combine,Digitalt,Bevaras,
+Följa upp,Mötesanteckning,Combine,Digitalt,Bevaras,
+Avsluta,"Beslut om att avsluta
+LVU",Combine,Digitalt,Bevaras,
+,"Beslut om att avsluta
+SoL",Combine,Digitalt,Bevaras,

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.47292b5718f0fcfefe58fdb/17143802211
 sha256: ebbc6f257c4e597525ee8c792c62d4b67b1f931bdc70366ad447f91fd5830ca2
 bytes: 838657
 sidor: 67
-hamtad: 2026-10-08T09:07:41+00:00
-konverterad: 2026-10-08T09:08:07+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:00:46+00:00
+konverterad: 2026-10-15T07:00:57+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1972,7 +1972,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 51FFF6CA33D82DF146057B95118BB28528062304D5
 Transaktionsidentitet: 594625CB2C62CC15789BCFC5C6EDB6A232EB923028
 
-[Tabell 45-1](protokoll.tabeller/45-1.csv)
+[Tabell 45-46-1](protokoll.tabeller/45-46-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -1987,6 +1987,17 @@ Transaktionsidentitet: 594625CB2C62CC15789BCFC5C6EDB6A232EB923028
 | Exploateringshandläggare | Servitutsavtal Förlanda-Rya 1:2 - Teleledningar |
 | Exploateringshandläggare | Servitutsavtal Förlanda-Rya 1:3 - Teleledningar |
 | Exploateringshandläggare | Servitutsavtal Förlanda-Rya 1:4 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Klavekulla 1:2 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Ryet 1:4 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Köpstaden 7:41 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Björmannehög 1:59 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Ögården 1:6 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Vallda 5:12 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Förlanda-Rya 2:9 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Givared 1:6 - Teleledningar |
+| Mark- och exploateringschef | Markupplåtelseavtal Duvehed 2:14 - Ellevio |
+| Mark- och exploateringschef | Markupplåtelseavtal Duvehed 2:14 - Ellevio |
+| Exploateringshandläggare | Servitutsavtal Ögården 2:1 - Teleledningar |
 
 <!-- sida 46 -->
 
@@ -2004,21 +2015,6 @@ redovisningen av delegeringsbeslut fattade under perioden 2023-12-06 till
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 51FFF6CA33D82DF146057B95118BB28528062304D5
 Transaktionsidentitet: 594625CB2C62CC15789BCFC5C6EDB6A232EB923028
-
-[Tabell 46-1](protokoll.tabeller/46-1.csv)
-
-| Exploateringshandläggare | Servitutsavtal Klavekulla 1:2 - Teleledningar |
-| --- | --- |
-| Exploateringshandläggare | Servitutsavtal Ryet 1:4 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Köpstaden 7:41 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Björmannehög 1:59 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Ögården 1:6 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Vallda 5:12 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Förlanda-Rya 2:9 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Givared 1:6 - Teleledningar |
-| Mark- och exploateringschef | Markupplåtelseavtal Duvehed 2:14 - Ellevio |
-| Mark- och exploateringschef | Markupplåtelseavtal Duvehed 2:14 - Ellevio |
-| Exploateringshandläggare | Servitutsavtal Ögården 2:1 - Teleledningar |
 
 <!-- sida 47 -->
 

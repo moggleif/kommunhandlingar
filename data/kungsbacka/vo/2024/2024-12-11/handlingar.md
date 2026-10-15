@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.760abdd193955bddff37ba2/17337366325
 sha256: 3f6495a04f35c19502831b0326c8d1d36f652cbc6981e61839dee452bc84a2d5
 bytes: 5172294
 sidor: 133
-hamtad: 2026-10-08T08:27:00+00:00
-konverterad: 2026-10-08T08:27:19+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-15T06:18:06+00:00
+konverterad: 2026-10-15T06:18:26+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [9, 42, 47, 52, 62, 63, 64, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 90, 91, 92, 93, 94, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 126, 127]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -283,26 +283,29 @@ Kungsbacka kommun            Rapportmall                        5
 
 <!-- sida 8 -->
 
+Beslut om Lägenheter,   Över- eller underskott av
+VÅBO     permanent lägenheter, inkl. kö om 50 enskilda6
+VÅBO
+
+```osaker-tabell
+År 2024   758        702                - 6
+År 2025   794        802               + 58
+År 2026   830        802               + 22
+År 2027   859        802                - 7
+År 2028   892        802                - 40
+År 2029   914        882               + 18
+
+År 2030   934        882                - 2
+År 2031   944        882                - 12
+År 2032   954        882                - 22
+År 2033   967        882                - 35
+År 2034   980        962               + 32
+År 2035   993        962               + 19
+```
+
 6 Se sidan 9 i Lokalbehov 2026-2030.
 
 Kungsbacka kommun            Rapportmall                        6
-
-[Tabell 8-1](handlingar.tabeller/8-1.csv)
-
-|  | Beslut om<br>VÅBO | Lägenheter,<br>permanent<br>VÅBO | Över- eller underskott av<br>lägenheter, inkl. kö om 50 enskilda6 |
-| --- | --- | --- | --- |
-| År 2024 | 758 | 702 | - 6 |
-| År 2025 | 794 | 802 | + 58 |
-| År 2026 | 830 | 802 | + 22 |
-| År 2027 | 859 | 802 | - 7 |
-| År 2028 | 892 | 802 | - 40 |
-| År 2029 | 914 | 882 | + 18 |
-| År 2030 | 934 | 882 | - 2 |
-| År 2031 | 944 | 882 | - 12 |
-| År 2032 | 954 | 882 | - 22 |
-| År 2033 | 967 | 882 | - 35 |
-| År 2034 | 980 | 962 | + 32 |
-| År 2035 | 993 | 962 | + 19 |
 
 <!-- sida 9 -->
 
@@ -1995,7 +1998,7 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 9
 
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
+[Tabell 53-54-1](handlingar.tabeller/53-54-1.csv)
 
 | Kategorier<br>Personal | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>1 Risk för bristfällig 3. Vanligt 3. Kännbar (uppfattas Ja<br>återhämtning hos som besvärande för<br>medarbetare och att berörda intressenter och<br>förvaltningen bygger kommunen)<br>upp höga<br>semestersaldon på<br>grund av bristande<br>efterlevnad av<br>semesterlagen |
 | --- | --- |
@@ -2005,6 +2008,8 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 |  | 5 Risk för att manuella 1. Osannolik (risken är 1. Försumbar (obetydlig Ja<br>betalningar hanteras på praktiskt taget för berörda intressenter<br>ett felaktigt sätt på grund obefintlig) och kommunen)<br>av avsiktliga eller<br>oavsiktliga fel |
 | Information<br>ssäkerhet,<br>administrati<br>on, inköp... | 6 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Bristande som besvärande för<br>följsamhet till berörda intressenter och<br>inköpsprocessen; kommunen)<br>direktupphandling<br>respektive<br>avtalsuppföljning |
 |  | 7 Risk att anställda 3. Vanligt 3. Kännbar (uppfattas Ja<br>saknar kompetens inom som besvärande för<br>brandsäkerhet. berörda intressenter och<br>kommunen) |
+| Kategorier<br>Verksamhet | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>8 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>och välfärdsbrottslighet inträffa) |
+|  | 9 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att utveckla berörda intressenter och<br>krisledningsorganisation kommunen)<br>en i egen verksamhet |
 
 <!-- sida 54 -->
 
@@ -2016,12 +2021,6 @@ Intern kontrollplan 2025
 10
 
 [Tabell 54-1](handlingar.tabeller/54-1.csv)
-
-| Kategorier<br>Verksamhet | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>8 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>och välfärdsbrottslighet inträffa) |
-| --- | --- |
-|  | 9 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att utveckla berörda intressenter och<br>krisledningsorganisation kommunen)<br>en i egen verksamhet |
-
-[Tabell 54-2](handlingar.tabeller/54-2.csv)
 
 | Kategorier<br>Ekonomi | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip 1. Försumbar Redovisning är<br>ande risk: (obetydlig för inte solitärt<br>Grundläggande 2. Mindre vanligt berörda underlag till<br>redovisning intressenter och inriktningsbeslut.<br>kvalitetsbrister kommunen) |
 | --- | --- |

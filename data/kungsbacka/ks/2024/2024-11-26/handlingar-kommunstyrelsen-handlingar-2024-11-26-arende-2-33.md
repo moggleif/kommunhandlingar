@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1932ec3d19329b835ff59a7a/1732175237
 sha256: 9262dad02b3de84e7e66ff28dc41b16fb7a7a8b3c13ddc8b0b695e42c1c3102b
 bytes: 89165901
 sidor: 398
-hamtad: 2026-10-08T10:20:41+00:00
-konverterad: 2026-10-08T10:28:39+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T08:14:30+00:00
+konverterad: 2026-10-15T08:18:49+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [18, 54, 67, 124, 135, 136, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 177, 178, 179, 190, 323]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [18, 54, 67, 113, 124, 135, 136, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 177, 178, 179, 190, 263, 323]
+figurer: [18, 46, 54, 75, 76, 78, 79, 80, 81, 84, 85, 87, 88, 89, 90, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 129, 147, 166, 167, 168, 169, 170, 171, 182, 183, 184, 186, 187, 188, 189, 235, 236, 238, 251, 252, 258, 262, 263, 264, 265, 266, 268, 272, 279, 285, 286, 287, 297, 312, 323, 367, 368]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -56,22 +56,11 @@ KUNGSBACKA  KOMMUN
 
 2 (10)
 
-[Tabell 2-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/2-1.csv)
+[Tabell 2-10-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/2-10-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 1. | Kungsbacka Arena<br>genomförandefrågor: förstudie,<br>lokalprogram, uthyrning och<br>driftentreprenad, arenanamn<br>13.00–13.30<br>Kommunstyrelsens förvaltning<br>Sven Erik Bergström<br>Anna Rehnberg<br>Lovisa Eld<br>Förvaltningen för Service<br>Peter Johansson<br>Förvaltningen för Kultur & Fritid<br>David Dagemark | 2020-00547 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner Förstudierapport<br>Kungsbacka Arena Fas 1, daterad 2024-08-08, med<br>projektanpassningar enligt alternativ C och att A-hallen<br>fortsättningsvis projekteras med arenarum som är slutet<br>mot omgivningen med den ändringen att bilaga 3<br>Förstudie 240808 Hållbarhetsram utgår.<br>Kommunstyrelsen godkänner att nämnden för Service får<br>ta i anspråk ytterligare sex miljoner kronor ur<br>investeringsanslag för Arenan löpnummer 131, lokalplan<br>2023, för fas 1.<br>Kommunstyrelsen godkänner uthyrningsstrategi<br>Måldokument uthyrning kommersiella lokaler i<br>Kungsbacka Arena, daterad 2024-06-26.<br>Kommunstyrelsen godkänner att nämnden för Service<br>träffar överenskommelser beträffande hyra av lokaler i<br>arenan till ankarkunder enligt Måldokument uthyrning<br>kommersiella lokaler i Kungsbacka Arena, som<br>förberedelse för upphandling av driftentreprenad för<br>uthyrning av kommersiella lokaler i Kungsbacka Arena.<br>Kommunstyrelsen överlämnar till nämnden för Service att<br>fatta beslut om procentsatser för fördelning av<br>reklamintäkterna.<br>Kommunstyrelsen ger kommundirektören i uppdrag att<br>genomföra upphandling av driftentreprenad beträffande<br>uthyrning av kommersiella ytor i Kungsbacka Arena<br>enligt Måldokument uthyrning kommersiella lokaler i<br>Kungsbacka Arena.<br>Kommunstyrelsen delegerar till kommunstyrelsens<br>arbetsutskott att fatta beslut om upphandlingsdokument<br>(UD).<br>Kommunstyrelsen delegerar till kommundirektören rätten<br>att fatta beslut om<br>− annonsering av upphandlingen,<br>− tilldela kontrakt samt<br>− underteckna kontrakt efter att avtalsspärren löpt ut.<br>Kommunstyrelsen ger kommundirektören rätt att<br>vidaredelegera beslutsrätt till samhällsbyggnadschef för<br>beslut om<br>− annonsering av upphandlingen,<br>− tilldela kontrakt samt<br>− underteckna kontrakt efter att avtalsspärren löpt ut. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3 (10)
-
-[Tabell 3-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 2. | Ersättning av befintlig<br>konstgräsplan - Kungsbacka<br>sportfält | 2024-00685 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att tillse att ny konstgräsplan inom Kungsbacka<br>sportfält projekteras och anläggs.<br>Kommunstyrelsen finansierar investering av<br>konstgräsplan från 2024 års exploateringsbudget<br>Kungsbacka Arena, huvudprojekt 8101 och övriga<br>kostnader som engångsdrift inom<br>exploateringsbudget Kungsbacka Arena,<br>huvudprojekt 8101. |
 |  | Information |  |  |
 | 3. | Information om samråd och<br>viktigare pågående ärenden<br>från arbetsutskottets<br>sammanträden | 2024-00014 |  |
@@ -79,61 +68,17 @@ KUNGSBACKA  KOMMUN
 | 5. | Information från förvaltningen<br>och pågående viktigare/större<br>uppdrag, projekt och händelser | 2024-00016 |  |
 |  | Beslutsärenden |  |  |
 | 6. | Budget 2025 för<br>kommunstyrelsen | 2023-00771 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner kommunstyrelsens<br>nämndbudget 2025, daterad 2024-11-05.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att upprätta förvaltningsbudget för 2025.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att göra nödvändiga omfördelningar i<br>förvaltningsbudgeten under året samt att informera<br>styrelsen om dessa i samband med delårsrapport och<br>bokslut. |
-
-<!-- sida 4 -->
-
-KUNGSBACKA  KOMMUN
-
-4 (10)
-
-[Tabell 4-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 7. | Förnyelse av styrmodell | 2023-00672 | Förslag till beslut i kommunstyrelsen<br>Ärendet avslås i sin helhet med hänvisning till att<br>förslaget på styrmodell står för långt från den<br>politiska målbilden. |
 | 8. | Ansökan om deltagande i<br>SKR:s projekt om utvecklad<br>budgetprocess | 2024-00703 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen ansöker om deltagande i SKR:s<br>projekt om utvecklad budgetprocess under perioden<br>2025/2026. |
 | 9. | Delegering om att utse<br>tillförordnad kommundirektör | 2024-00651 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen delegerar till kommunstyrelsens<br>ordförande att utse tillförordnad kommundirektör för<br>den händelse att det uppstår en vakans från det att<br>nuvarande kommundirektör avslutar sin anställning<br>till dess att ny kommundirektör träder i tjänst. |
 | 10. | Remittering av förslag om<br>översyn av interna och externa<br>priser och utmärkelser i<br>Kungsbacka kommun | 2024-00605 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen remitterar Kungsbackas priser,<br>Kartläggning av priser, daterad 2024-10-18, till<br>Byggnadsnämnden, Nämnden för Miljö &<br>Hälsoskydd, nämnden för Förskola & Grundskola,<br>nämnden för Gymnasium & Arbetsmarknad,<br>nämnden för Individ & Familjeomsorg, nämnden för<br>Kultur & Fritid, nämnden för Service, nämnden för<br>Teknik, nämnden för Vård & Omsorg för yttrande<br>över förslaget att:<br>− se över både interna och externa priser för att<br>skapa tydlighet och effektivitet.<br>− samla interna utmärkelser och priser rörande<br>medarbetare och ledare till Medarbetardagen<br>respektive Ledardagen<br>− de förvaltningsspecifika priserna Lära för livet,<br>Leva livet och Självständigt liv inte längre delas<br>ut i kommunfullmäktige utan överlåtes till<br>berörda nämnder att besluta om hur priserna ska<br>se ut framåt. |
-
-<!-- sida 5 -->
-
-KUNGSBACKA  KOMMUN
-
-5 (10)
-
-[Tabell 5-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 11. | Initiativ från Magdalena<br>Sundqvist (S) m.fl. om<br>inbjudan till Ellevio för<br>information om kommunens<br>elförsörjning och stabiliteten i<br>elförsörjningen | 2024-00793 |  |
 | 12. | Uppstart av projekt i lokalplan<br>Signeshus<br>löpnr 816 | 2024-00700 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner uppstart av Signeshus<br>vård-och omsorgsboende. |
 | 13. | Uppstart av projekt i lokalplan<br>Åsaberg Bostäder med särskild<br>service<br>löpnr 515 | 2024-00699 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner uppstart av projekt<br>Åsaberg BmSS. |
 | 14. | Redovisning och avslut av<br>uppdrag om att ta fram förslag<br>för fler ridvägar i kommunen | 2015-00146 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen avslår utredning om att ta fram<br>förslag på hur kommunen i högre grad än idag ska<br>kunna tillhandahålla fler ridvägar i kommunen,<br>daterad 2024-08-16.<br>Kommunstyrelsen förklarar uppdraget som lämnades<br>av kommunstyrelsen 2015-04-14, § 97, för avslutat.<br>Kommunstyrelsen ställer sig positiv till att nämnden<br>för Kultur & Fritid aktivt jobbar vidare med frågan<br>om att tillskapa fler ridvägar i kommunen. |
 | 15. | Planbesked för Alafors 4:12 | 2024-00504 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att pröva bostäder genom en detaljplan för del<br>av Alafors 4:12 skifte 23 i Anneberg.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för del av Alafors 4:12 skifte 23 i<br>Anneberg. |
-
-<!-- sida 6 -->
-
-KUNGSBACKA  KOMMUN
-
-6 (10)
-
-[Tabell 6-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/6-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 16. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för bostäder inom<br>Må 3:15 m.fl. | 2021-00532 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för bostäder inom Må 3:15 i Fjärås, daterad<br>2024-10-14 med följande ändringar:<br>− På sidan 2 under andra stycket stryks följande<br>meningar: Strax sydost om planområdet finns<br>riksintresse för kulturmiljövård samt ett av<br>kommunen utpekat kulturmiljöområde, Fjärås<br>bräcka. Gården har stor historisk förankring<br>och betydelse för platsen med anknytning till<br>frukt- och bärodling. Enligt bebyggelseregistret<br>har gården byggnadshistoriskt värde,<br>miljöskapande värde samt samhällshistoriskt<br>värde.<br>− På sidan 5 under rubriken Kommunala<br>kostnader i första stycket läggs en mening till<br>efter den första meningen som lyder: Strävan<br>ska vara att undvika kommunalt<br>huvudmannaskap inom planområdet.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att fortsätta arbetet med att upprätta förslag till<br>detaljplan för bostäder inom Må 3:15 i Fjärås, i<br>enlighet med projektbeställningen. |
 | 17. | Försäljning av Duvehed 2:14,<br>del av - Scandi Gruppen | 2021-01052 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner köpeavtal mellan<br>kommunen och EFM Fastighets AB, genom vilket<br>kommunen överlåter fastigheten del av Duvehed<br>2:14, mot en köpeskilling på 12 040 000 kronor,<br>undertecknat av bolaget 2024-10-28.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>och övriga i ärendet nödvändiga handlingar |
-
-<!-- sida 7 -->
-
-KUNGSBACKA  KOMMUN
-
-7 (10)
-
-[Tabell 7-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/7-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 18. | Avsiktsförklaring avseende del<br>av kv Samariten | 2024-00673 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner avsiktsförklaringen<br>mellan kommunen och Magnus Månsson Fastighets<br>AB, undertecknad av bolaget 2024-10-23.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna<br>avsiktsförklaringen. |
 | 19. | Svar på Finansdepartementets<br>remiss av Enklare att<br>överblicka riktade statsbidrag -<br>Statskontorets förslag till en<br>samlad informationsportal<br>(Statskontoret 2024:9) | 2024-00616 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-10-01,<br>och översänder det som sitt svar till<br>Finansdepartementet. |
 | 20. | Svar på Finansdepartementets<br>remiss av betänkandet Staten<br>och kommunsektorn -<br>samverkan, självstyrelse,<br>styrning (SOU 2024:43) | 2024-00608 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-10-31,<br>och översänder det som sitt svar till<br>Finansdepartementet. |
@@ -141,6 +86,45 @@ KUNGSBACKA  KOMMUN
 | 22. | Anmälan av ordförandebeslut | 2024-00007 | Förslag till beslut i kommunstyrelsen<br>16B<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
 | 23. | Redovisning av inkomna<br>skrivelser | 2024-00004 | Förslag till beslut i kommunstyrelsen<br>16B<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
 | 24. | Rapport från nämnden för<br>Individ & Familjeomsorg av ej<br>verkställda beslut enligt<br>socialtjänstlagen, SoL, och<br>lagen om stöd och service till<br>vissa funktionshindrade, LSS,<br>andra kvartalet 2024 | 2024-00655 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Individ & Familjeomsorg enligt 16 kap 6 f §<br>socialtjänstlagen och 28 f § lagen om stöd och service<br>till vissa funktionshindrade till protokollet. |
+| 25. | Rapport från nämnden för Vård<br>& Omsorg av ej verkställda<br>beslut enligt socialtjänstlagen,<br>SoL, andra kvartalet 2024 | 2024-00654 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Vård & Omsorg, enligt 16 kap 6 f §<br>socialtjänstlagen, till protokollet. |
+| 26. | Annonsering av<br>kommunfullmäktiges<br>sammanträden 2025 | 2024-00609 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beslutar att annons om<br>kommunfullmäktiges sammanträden införs i de<br>lokala ortstidningarna Norra Halland och<br>Kungsbacka-Posten under 2025. I annonserna i Norra<br>Halland och Kungsbacka-Posten publiceras även<br>väsentliga ärenden i föredragningslistan. |
+| 27. | Särskild avgränsad<br>statistikverksamhet och<br>komplettering av<br>kommunstyrelsens reglemente | 2024-00645 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige utser kommunstyrelsen till<br>ansvarig för den särskilt avgränsade<br>statistikverksamheten med uppgifter som omfattas av<br>sekretess enligt 24 kap. 8 § offentlighets- och<br>sekretesslagen (2009:400).<br>Kommunfullmäktige beslutar att kommunstyrelsens<br>reglemente § 16 Kommunstyrelsens ansvar för egna<br>verksamheter, ska kompletteras med ny punkt 10<br>med följande innehåll:<br>statistik och samhällsanalys samt att det finns<br>en särskild avgränsad statistikverksamhet för<br>framställning av denna.<br>Förslag till beslut i kommunstyrelsen, under<br>förutsättning av kommunfullmäktiges beslut ovan<br>Kommunstyrelsen beslutar att den särskilda<br>avgränsade statistikverksamheten med uppgifter som<br>omfattas av sekretess enligt 24 kap. 8 § offentlighets-<br>och sekretesslagen (2009:400), ska organiseras inom<br>enheten Statistik, Styrning & Ekonomi på<br>Kommunstyrelsens förvaltning samt ska bestå av<br>befattningarna analytiker, controller, projektledare<br>och enhetens chef. |
+| 28. | Antagande av<br>Trafikförsörjningsprogram för<br>särskild kollektivtrafik 2025 | 2024-00478 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar<br>Trafikförsörjningsprogrammet för särskild<br>kollektivtrafik 2025, daterat 2024-06-19.<br>Trafikförsörjningsprogram för särskilda<br>persontransporter - Färdtjänst och riksfärdtjänst,<br>antaget av kommunfullmäktige 2023-05-09, § 62,<br>upphör samtidigt att gälla.<br>Kommunfullmäktige ger nämnden för Teknik i<br>uppdrag att säkerställa den fortsatta hanteringen så att<br>det efterföljande Trafikförsörjningsprogrammet<br>ligger i fas med Hallandstrafikens<br>Trafikförsörjningsprogram. |
+| 29. | Taxa 2025 för Kungsbacka<br>Kulturskola | 2024-00568 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Taxa för Kungsbacka<br>kulturskola, daterad 2024-09-16.<br>Kommunfullmäktige beslutar att taxan får justeras i<br>enlighet med taxans bestämmelse §§ 5-6 om årlig<br>indexjustering och delegation.<br>Taxan träder i kraft den 1 januari 2025.<br>Taxa för Kulturskolan, antagen av<br>kommunfullmäktige 2015-06-09, § 91, upphör<br>samtidigt att gälla. |
+| 30. | Taxa 2025 för biblioteken i<br>Kungsbacka | 2024-00622 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Taxa för Biblioteken i<br>Kungsbacka, daterad 2024-09-23<br>Kommunfullmäktige beslutar att taxan får justeras i<br>enlighet med taxans bestämmelse §§ 5-6 om årlig<br>indexjustering och delegation.<br>Taxan träder i kraft den 1 januari 2025.<br>Tidigare beslut om taxor för Biblioteken i<br>Kungsbacka upphör samtidigt att gälla. |
+| 31. | Taxa 2025 för Naturum Fjärås<br>Bräcka och Äskhult | 2024-00624 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Taxa för Naturum Fjärås<br>Bräcka och Äskhult, daterad 2024-08-12.<br>Kommunfullmäktige beslutar att taxan får justeras i<br>enlighet med taxans bestämmelse §§ 5-6 om årlig<br>indexjustering och delegation.<br>Taxan träder i kraft den 1 januari 2025.<br>Tidigare taxa för Naturum Fjärås Bräcka och<br>Äskhults by upphör samtidigt att gälla. |
+| 32. | Taxa för avfall 2025 | 2024-00300 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Avfallstaxa 2025,<br>daterad 2024-09-26<br>Taxan träder i kraft den 1 januari 2025.<br>Avfallstaxa 2024 antagen av kommunfullmäktige<br>2023-12-14, § 194, upphör samtidigt att gälla.<br>Kommunfullmäktige noterar återredovisningen<br>gällande auktorisationssystem och maxtaxa för<br>fastighetsnära insamling av bygg- och rivningsavfall. |
+| 33. | Redovisning av icke<br>färdigberedda motioner<br>(2, 2024) | 2024-00050 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar redovisningen av icke<br>färdigberedda motioner till och med 2024-10-11 till<br>protokollet. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3 (10)
+
+<!-- sida 4 -->
+
+KUNGSBACKA  KOMMUN
+
+4 (10)
+
+<!-- sida 5 -->
+
+KUNGSBACKA  KOMMUN
+
+5 (10)
+
+<!-- sida 6 -->
+
+KUNGSBACKA  KOMMUN
+
+6 (10)
+
+<!-- sida 7 -->
+
+KUNGSBACKA  KOMMUN
+
+7 (10)
 
 <!-- sida 8 -->
 
@@ -148,27 +132,11 @@ KUNGSBACKA  KOMMUN
 
 8 (10)
 
-[Tabell 8-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/8-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 25. | Rapport från nämnden för Vård<br>& Omsorg av ej verkställda<br>beslut enligt socialtjänstlagen,<br>SoL, andra kvartalet 2024 | 2024-00654 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Vård & Omsorg, enligt 16 kap 6 f §<br>socialtjänstlagen, till protokollet. |
-| 26. | Annonsering av<br>kommunfullmäktiges<br>sammanträden 2025 | 2024-00609 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beslutar att annons om<br>kommunfullmäktiges sammanträden införs i de<br>lokala ortstidningarna Norra Halland och<br>Kungsbacka-Posten under 2025. I annonserna i Norra<br>Halland och Kungsbacka-Posten publiceras även<br>väsentliga ärenden i föredragningslistan. |
-| 27. | Särskild avgränsad<br>statistikverksamhet och<br>komplettering av<br>kommunstyrelsens reglemente | 2024-00645 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige utser kommunstyrelsen till<br>ansvarig för den särskilt avgränsade<br>statistikverksamheten med uppgifter som omfattas av<br>sekretess enligt 24 kap. 8 § offentlighets- och<br>sekretesslagen (2009:400).<br>Kommunfullmäktige beslutar att kommunstyrelsens<br>reglemente § 16 Kommunstyrelsens ansvar för egna<br>verksamheter, ska kompletteras med ny punkt 10<br>med följande innehåll:<br>statistik och samhällsanalys samt att det finns<br>en särskild avgränsad statistikverksamhet för<br>framställning av denna.<br>Förslag till beslut i kommunstyrelsen, under<br>förutsättning av kommunfullmäktiges beslut ovan<br>Kommunstyrelsen beslutar att den särskilda<br>avgränsade statistikverksamheten med uppgifter som<br>omfattas av sekretess enligt 24 kap. 8 § offentlighets-<br>och sekretesslagen (2009:400), ska organiseras inom<br>enheten Statistik, Styrning & Ekonomi på<br>Kommunstyrelsens förvaltning samt ska bestå av<br>befattningarna analytiker, controller, projektledare<br>och enhetens chef. |
-
 <!-- sida 9 -->
 
 KUNGSBACKA  KOMMUN
 
 9 (10)
-
-[Tabell 9-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/9-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 28. | Antagande av<br>Trafikförsörjningsprogram för<br>särskild kollektivtrafik 2025 | 2024-00478 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar<br>Trafikförsörjningsprogrammet för särskild<br>kollektivtrafik 2025, daterat 2024-06-19.<br>Trafikförsörjningsprogram för särskilda<br>persontransporter - Färdtjänst och riksfärdtjänst,<br>antaget av kommunfullmäktige 2023-05-09, § 62,<br>upphör samtidigt att gälla.<br>Kommunfullmäktige ger nämnden för Teknik i<br>uppdrag att säkerställa den fortsatta hanteringen så att<br>det efterföljande Trafikförsörjningsprogrammet<br>ligger i fas med Hallandstrafikens<br>Trafikförsörjningsprogram. |
-| 29. | Taxa 2025 för Kungsbacka<br>Kulturskola | 2024-00568 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Taxa för Kungsbacka<br>kulturskola, daterad 2024-09-16.<br>Kommunfullmäktige beslutar att taxan får justeras i<br>enlighet med taxans bestämmelse §§ 5-6 om årlig<br>indexjustering och delegation.<br>Taxan träder i kraft den 1 januari 2025.<br>Taxa för Kulturskolan, antagen av<br>kommunfullmäktige 2015-06-09, § 91, upphör<br>samtidigt att gälla. |
-| 30. | Taxa 2025 för biblioteken i<br>Kungsbacka | 2024-00622 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Taxa för Biblioteken i<br>Kungsbacka, daterad 2024-09-23<br>Kommunfullmäktige beslutar att taxan får justeras i<br>enlighet med taxans bestämmelse §§ 5-6 om årlig<br>indexjustering och delegation.<br>Taxan träder i kraft den 1 januari 2025.<br>Tidigare beslut om taxor för Biblioteken i<br>Kungsbacka upphör samtidigt att gälla. |
 
 <!-- sida 10 -->
 
@@ -179,14 +147,6 @@ KUNGSBACKA  KOMMUN
 Lisa Andersson                    Patrik Johansson
 
 ordförande                        kommunsekreterare
-
-[Tabell 10-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/10-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 31. | Taxa 2025 för Naturum Fjärås<br>Bräcka och Äskhult | 2024-00624 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Taxa för Naturum Fjärås<br>Bräcka och Äskhult, daterad 2024-08-12.<br>Kommunfullmäktige beslutar att taxan får justeras i<br>enlighet med taxans bestämmelse §§ 5-6 om årlig<br>indexjustering och delegation.<br>Taxan träder i kraft den 1 januari 2025.<br>Tidigare taxa för Naturum Fjärås Bräcka och<br>Äskhults by upphör samtidigt att gälla. |
-| 32. | Taxa för avfall 2025 | 2024-00300 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Avfallstaxa 2025,<br>daterad 2024-09-26<br>Taxan träder i kraft den 1 januari 2025.<br>Avfallstaxa 2024 antagen av kommunfullmäktige<br>2023-12-14, § 194, upphör samtidigt att gälla.<br>Kommunfullmäktige noterar återredovisningen<br>gällande auktorisationssystem och maxtaxa för<br>fastighetsnära insamling av bygg- och rivningsavfall. |
-| 33. | Redovisning av icke<br>färdigberedda motioner<br>(2, 2024) | 2024-00050 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar redovisningen av icke<br>färdigberedda motioner till och med 2024-10-11 till<br>protokollet. |
 
 <!-- sida 11 -->
 
@@ -916,25 +876,39 @@ planarbetet nått beslut om antagande, att minska denna förväntas leda till n�
 
 7.2 Resursmått
 
+Budget   Budget
+Delområde   Nyckeltal   Utfall 2023 Utfall 2022 Utfall 2023
+2024      2025
+Ledtid
+detaljplan från
+projektstart till
+Samhällsbyggnad            31       27       31       35        31
+antagande,
+anges i
+månader
 7.3 Prestationsmått
-
+Budget   Budget   Budget
+Delområde   Nyckeltal   Utfall 2022 Utfall 2023
+2023      2024     2025
+Antal
+Näringsliv  företagsärenden 50      60       50       50        60
+i tillståndslotsen
+Upprättade
+12       9        25       12        25
+detaljplaner
+Planlagda
+381       386      500      500      500
+bostäder
+Samhällsbyggnad
+Ledtid
+planbesked till
+projektstart,  24       31       12       12        24
+anges i
+månader
+Automatiserade
+Digital utveckling         3        7         5        5        5
+processer
 11
-
-[Tabell 28-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/28-1.csv)
-
-| Delområde | Budget Budget<br>Nyckeltal Utfall 2023 Utfall 2022 Utfall 2023<br>2024 2025 |
-| --- | --- |
-| Samhällsbyggnad | Ledtid<br>detaljplan från<br>projektstart till<br>31 27 31 35 31<br>antagande,<br>anges i<br>månader |
-
-[Tabell 28-2](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/28-2.csv)
-
-| Delområde | Budget Budget Budget<br>Nyckeltal Utfall 2022 Utfall 2023<br>2023 2024 2025 |
-| --- | --- |
-| Näringsliv | Antal<br>företagsärenden 50 60 50 50 60<br>i tillståndslotsen |
-| Samhällsbyggnad | Upprättade<br>12 9 25 12 25<br>detaljplaner |
-|  | Planlagda<br>381 386 500 500 500<br>bostäder |
-|  | Ledtid<br>planbesked till<br>projektstart, 24 31 12 12 24<br>anges i<br>månader |
-| Digital utveckling | Automatiserade<br>3 7 5 5 5<br>processer |
 
 <!-- sida 29 -->
 
@@ -943,17 +917,16 @@ Nämndbudget 2025
 
 7.4 Effektmått
 
+Delområde     Nyckeltal                    Utfall 2022    Utfall 2023
+Antal nystartade företag per tusen
+12,5        \*
+invånare (etableringsfrekvens)
+Näringsliv
+Antal arbetsställen                11 808         11 948
+Sysselsatt dagbefolkning, 15–74 år 27 695         28 485
 \*Antal nystartade företag 2023 har inte publicerats ännu.
 
 12
-
-[Tabell 29-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/29-1.csv)
-
-| Delområde | Nyckeltal Utfall 2022 Utfall 2023 |
-| --- | --- |
-| Näringsliv | Antal nystartade företag per tusen<br>12,5 \*<br>invånare (etableringsfrekvens) |
-|  | Antal arbetsställen 11 808 11 948 |
-|  | Sysselsatt dagbefolkning, 15–74 år 27 695 28 485 |
 
 <!-- sida 30 -->
 
@@ -980,22 +953,6 @@ riktat arbete mot studenter inom välfärdssektor, så att de kan erbjudas prakt
 kommunen.
 8.2 Personalmått
 
-Nyckeltal                     Utfall 2021   Utfall 2022   Utfall 2023
-
-```osaker-tabell
-Andel heltid                        100 %         100 %         100 %
-
-Sjukfrånvaro Totalt                  2 %          2,5 %          2,6 %
-Sjukfrånvaro Kvinnor                2,6 %           3 %          3,3 %
-
-Sjukfrånvaro Män                    0,4 %         1,1 %          0,8 %
-Anställda totalt                     127            124           125
-Anställda andel kvinnor             74 %          75,8 %         72 %
-
-Personalomsättning                  7,4 %         11,7 %         8,3 %
-Medelålder                            45            45             46
-```
-
 8.3 Arbetsmiljö
 Medarbetare som trivs på arbetet är våra bästa ambassadörer för verksamheten. För att våra medarbetare ska må
 bra på arbetet är vårt systematiska arbetsmiljöarbete grunden. Fokus ligger och kommer fortsatt ligga på
@@ -1013,6 +970,19 @@ Kommunens övergripande mål för arbetsmiljöarbetet
 Kommunstyrelsens förvaltning har låg sjukfrånvaro och kommunstyrelsens förvaltning kommer att fokusera på
 
 13
+
+[Tabell 30-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/30-1.csv)
+
+| Nyckeltal | Utfall 2021 | Utfall 2022 | Utfall 2023 |
+| --- | --- | --- | --- |
+| Andel heltid | 100 % | 100 % | 100 % |
+| Sjukfrånvaro Totalt | 2 % | 2,5 % | 2,6 % |
+| Sjukfrånvaro Kvinnor | 2,6 % | 3 % | 3,3 % |
+| Sjukfrånvaro Män | 0,4 % | 1,1 % | 0,8 % |
+| Anställda totalt | 127 | 124 | 125 |
+| Anställda andel kvinnor | 74 % | 75,8 % | 72 % |
+| Personalomsättning | 7,4 % | 11,7 % | 8,3 % |
+| Medelålder | 45 | 45 | 46 |
 
 <!-- sida 31 -->
 
@@ -2381,17 +2351,42 @@ Kartläggning                    externa             priser
 
 Kartläggning                    interna            priset
 
+Politiskt                                Nominerings-
+Pris        FVL           KompPertiesnsusumtmveackling Förfarande       Delas ut            Övrigt
+instiftat                                   period
+Årets leverans, Årets
+Medarbetare och
+Del av Medarbetardagen
+nyskapare, Årets
+Året medarbetare                                  invånare röstar,
+KSF     Nej       välkomnare                     Maj-okt     Nov
+(fyra kategorier)                                 Intern jury utser                   Både medarbetare och invånare kan
+10 000 kr
+nominera och rösta.
+vinnare
+Årets team
+25 000 kr
+Årets utvecklande
+ledare: 15 000 kr
+kompetensutveckling
+Årets ledare                                    Intern jury utser
+KSF     Nej                                      Feb-mars    Sept          Del av Ledardagen
+(två kategorier)                                     vinnare
+Årets nyskapande
+ledare: 15 000 kr
+kompetensutveckling
+10 000-20000                  Hösten, senast
+Leva livet-priset VO     KF                                                  KF feb    Krockar med Årets medarbetare?
+kompetensutveckling                  1 nov
+Krockar med Årets medarbetare?
+Nämnden utser Hösten, senast
+Lära för livet-priset FG & GA Nämnd\* 10 000 kr/pristagare                     KF nov
+varsin vinnare    1 okt
+Har tidigare delats ut i juni.
+Ej i bruk, men beslutat i KF 2021-05-04.
+Självständigt liv IF     KF
+(KS-2019-00903 i Ciceron).
 \*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
-
-[Tabell 71-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/71-1.csv)
-
-| Pris | FVL | Politiskt<br>instiftat | KompPertiesnsusumtmveackling | Förfarande | Nominerings-<br>period | Delas ut | Övrigt |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Året medarbetare<br>(fyra kategorier) | KSF | Nej | Årets leverans, Årets<br>nyskapare, Årets<br>välkomnare<br>10 000 kr<br>Årets team<br>25 000 kr | Medarbetare och<br>invånare röstar,<br>Intern jury utser<br>vinnare | Maj-okt | Nov | Del av Medarbetardagen<br>Både medarbetare och invånare kan<br>nominera och rösta. |
-| Årets ledare<br>(två kategorier) | KSF | Nej | Årets utvecklande<br>ledare: 15 000 kr<br>kompetensutveckling<br>Årets nyskapande<br>ledare: 15 000 kr<br>kompetensutveckling | Intern jury utser<br>vinnare | Feb-mars | Sept | Del av Ledardagen |
-| Leva livet-priset | VO | KF | 10 000-20000<br>kompetensutveckling |  | Hösten, senast<br>1 nov | KF feb | Krockar med Årets medarbetare? |
-| Lära för livet-priset | FG & GA | Nämnd\* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
-| Självständigt liv | IF | KF |  |  |  |  | Ej i bruk, men beslutat i KF 2021-05-04.<br>(KS-2019-00903 i Ciceron). |
 
 <!-- sida 72 -->
 
@@ -8374,7 +8369,7 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 
 §§ socialtjänstlagen, SoL
 
-[Tabell 217-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/217-1.csv)
+[Tabell 217-220-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/217-220-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
@@ -8389,16 +8384,6 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 | 2024-02-29 | 9 § 8 LSS, boende barn och<br>ungdomar | Saknar plats. Blivit erbjuden köpt plats under<br>väntetiden vilket de tackat nej till. Erbjuden annan<br>insats under väntetiden. |
 | 2022-03-16 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Tackat nej till 5 erbjudanden, 2022-09-15, 2022-11-29,<br>2023-05-17, 2023-11-20 och 2023-12-05, eftersom<br>boendet inte är tillräckligt centralt och pga målgruppen. |
 | 2022-12-31 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Avbrott i verkställighet, tackat nej till 3 erbjudanden<br>2023-06-20, 2023-12-22 och 2024-05-24, eftersom<br>boendet inte ligger i centrala Kungsbacka. |
-
-<!-- sida 218 -->
-
-KUNGSBACKA  KOMMUN
-4 (8)
-
-[Tabell 218-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/218-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2023-04-03 | 9 § 9 LSS, bostad för vuxna | Tackat nej till 2 erbjudande, 2023-09-27, och 2024-03-<br>14 på Nya Hede men boendet är inte tillräckligt<br>centralt. |
 | 2023-09-04 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Saknar plats. Blivit erbjuden köpt plats 2024-03-22<br>men tackat nej, inte intresserade av köpt plats. |
 | 2023-10-20 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Den enskilde har tackat nej till erbjudande 2024-03-22. |
@@ -8412,16 +8397,6 @@ KUNGSBACKA  KOMMUN
 | 2022-02-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, har specifika önskemål om<br>verksamhet, är i behov av lång planering, tackat nej till<br>befintlig verksamhet. Tackat nej till 2 erbjudanden<br>2023-02-14 och 2023-10-02. |
 | 2022-12-31 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2023-01-11 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet, blivit erbjuden 3 olika DV-grupper. |
-
-<!-- sida 219 -->
-
-KUNGSBACKA  KOMMUN
-5 (8)
-
-[Tabell 219-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/219-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2023-02-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet, pga hälsoskäl. |
 | 2023-04-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde har varit<br>föräldraledig. Tackat nej till erbjudande 2024-01-17. |
 | 2023-05-03 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Arbetsmiljöproblem relaterade<br>till den enskilde. Planering för återgång till DV<br>inplanerat. |
@@ -8435,6 +8410,21 @@ KUNGSBACKA  KOMMUN
 | 2024-01-29 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2024-02-09 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde tackat nej till<br>erbjudande 2024-02-09. Vill inte avsluta insatsen utan<br>pausa på obestämd tid. |
 | 2024-03-15 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, praktikplatsen har avslutat<br>platsen. Den enskilde vill avvakta uppstart till hösten. |
+| 2024-03-25 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, praktikplatsen har avslutat<br>platsen. Erbjudande 2024-04-03, pga hälsotillstånd. |
+| 2024-03-26 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
+| 2024-04-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
+| 2024-04-26 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. Pga hälsotillstånd. |
+| 2024-05-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
+
+<!-- sida 218 -->
+
+KUNGSBACKA  KOMMUN
+4 (8)
+
+<!-- sida 219 -->
+
+KUNGSBACKA  KOMMUN
+5 (8)
 
 <!-- sida 220 -->
 
@@ -8443,17 +8433,7 @@ KUNGSBACKA  KOMMUN
 
 Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
 
-[Tabell 220-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/220-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
-| 2024-03-25 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, praktikplatsen har avslutat<br>platsen. Erbjudande 2024-04-03, pga hälsotillstånd. |
-| 2024-03-26 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
-| 2024-04-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
-| 2024-04-26 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. Pga hälsotillstånd. |
-| 2024-05-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
-
-[Tabell 220-2](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/220-2.csv)
+[Tabell 220-222-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/220-222-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
@@ -8461,16 +8441,6 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2023-07-26 | 4 kap 1 § SoL, boendestöd | Avbrott i verkställighet, en av<br>två insatser är verkställda. Den<br>enskilde har tackat nej. | Verkställt, 2024-04-12 |
 | 2023-11-29 | 4 kap 1 § SoL, boendestöd | Den enskilde är i behov av lång<br>introduktion, 2 insatser av 5 är<br>verkställda 2024-01-23 och<br>2024-03-21. | Verkställt, 2024-06-13 |
 | 2023-12-12 | 4 kap 1 § SoL, boendestöd | Den enskilde har tackat nej, 1<br>insats av 3 är verkställd 2024-<br>01-05. | Avslutat, 2024-04-29 |
-
-<!-- sida 221 -->
-
-KUNGSBACKA  KOMMUN
-7 (8)
-
-[Tabell 221-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/221-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2024-03-01 | 4 kap 1 § SoL, boendestöd | Den enskilde har svårt att ta<br>emot personal och har tackat nej<br>till vissa insatser. | Verkställt, 2024-08-09 |
 | 2023-11-08 | 9 § 3 LSS, ledsagarservice | Avbrott i verkställighet, den<br>enskilde har tackat nej till<br>erbjudande 2024-01-23. | Avslutat, 2024-04-12 |
 | 2023-12-11 | 9 § 3 LSS, ledsagarservice | Avbrott i verkställighet, den<br>enskilde har specifika önskemål. | Verkställt, 2024-06-05 |
@@ -8479,6 +8449,15 @@ KUNGSBACKA  KOMMUN
 | 2023-11-10 | 9 § 5 LSS, avlösarservice i<br>hemmet | Den enskilde har specifika<br>önskemål, önskar<br>samrekrytering med<br>lägerverksamhet. | Verkställt, 2024-04-09 |
 | 2023-11-14 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, den<br>enskilde har specifika önskemål,<br>önskar en PAN-anställning. | Avslutat, 2024-08-21 |
 | 2023-09-01 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Fått erbjudande 2023-11-23,<br>2024-03-05, tackat ja till<br>erbjudande med inflyttning i<br>augusti 2024. | Verkställt, 2024-08-12 |
+| 2023-09-08 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Fått erbjudande 2023-11-24,<br>2024-03-13, tackat ja till<br>erbjudande med inflyttning i<br>augusti 2024. | Verkställt, 2024-08-12 |
+| 2023-10-11 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Fått erbjudande 2023-11-23,<br>2024-03-05, tackat ja till<br>erbjudande med inflyttning i<br>augusti 2024. | Verkställt, 2024-08-12 |
+| 2023-11-27 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. 2024-04-11 tackat<br>ja till erbjudande med<br>inflyttning i augusti 2024. | Verkställt, 2024-08-12 |
+| 2023-09-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. | Verkställt, 2024-06-17 |
+
+<!-- sida 221 -->
+
+KUNGSBACKA  KOMMUN
+7 (8)
 
 <!-- sida 222 -->
 
@@ -8489,15 +8468,6 @@ Inom vuxenenheten och familjehemsenheten finns inga ej verkställda beslut under
 
 Ivan Stipić                   Renate Rondolph
 Förvaltningschef              Verksamhetschef
-
-[Tabell 222-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/222-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
-| 2023-09-08 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Fått erbjudande 2023-11-24,<br>2024-03-13, tackat ja till<br>erbjudande med inflyttning i<br>augusti 2024. | Verkställt, 2024-08-12 |
-| 2023-10-11 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Fått erbjudande 2023-11-23,<br>2024-03-05, tackat ja till<br>erbjudande med inflyttning i<br>augusti 2024. | Verkställt, 2024-08-12 |
-| 2023-11-27 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. 2024-04-11 tackat<br>ja till erbjudande med<br>inflyttning i augusti 2024. | Verkställt, 2024-08-12 |
-| 2023-09-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. | Verkställt, 2024-06-17 |
 
 <!-- sida 223 -->
 
@@ -10892,16 +10862,18 @@ Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 [Tabell 280-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/280-1.csv)
 
-| Terminsavgifter | 2024<br>(gällande sedan 2015) | 2025 |
+|  | 2024 |  |
 | --- | --- | --- |
+| Terminsavgifter | (gällande sedan 2015) | 2025 |
 | Terminsavgift. Grundavgift<br>ämne/instrument samt ”kulår”. | 950 kr | 1 140 kr |
 | Fördjupningslinje | 1 900 kr | 2 280 kr |
 | Orkester, kör och musiklek-ämnen | 475 kr | 570 kr |
 
 [Tabell 280-2](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/280-2.csv)
 
-| Övriga avgifter | 2024<br>(gällande sedan 2015) | 2025 |
+|  | 2024 |  |
 | --- | --- | --- |
+| Övriga avgifter | (gällande sedan 2015) | 2025 |
 | Kortkurs, 10 veckor | 700 kr | 840 kr |
 | Kortkurs, 5 veckor | 400 kr | 480 kr |
 | Småbarnsrytmik, (drop in) | 500 kr | 0 kr |
@@ -13685,7 +13657,7 @@ särskilda avgifter i enlighet med grunderna för denna avfallstaxa och de grund
 Uppdateringar mellan Avfallstaxa 2024 (Avfallstaxa Kommunfullmäktige 14 december 2023 § 194, KS 2023-
 00300 gällande från 1 januari 2024) och Avfallstaxa 2025
 
-[Tabell 350-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/350-1.csv)
+[Tabell 350-357-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/350-357-1.csv)
 
 | Avsnitt | Kommentar | Uppdaterat enligt följande |
 | --- | --- | --- |
@@ -13694,76 +13666,48 @@ Uppdateringar mellan Avfallstaxa 2024 (Avfallstaxa Kommunfullmäktige 14 decembe
 | 2.<br>Beräknings<br>grunder | Skriva att även<br>hämtning av<br>förpackningsavfall<br>omfattas av en maxtaxa | Följande text:<br>Avgifter för fastighetsnära hämtning av bygg- och rivningsavfall samt returpapper<br>begränsas av maxtaxa.<br>Byts till:<br>Avgifter för fastighetsnära hämtning av bygg- och rivningsavfall,<br>förpackningsavfall samt returpapper begränsas av maxtaxa. |
 | 3<br>Mervärdess<br>katt | Skriva ut<br>procenttecknet. | Följande text:<br>Avgifter i taxan är angivna i kronor inklusive 25 % moms.<br>Byts till:<br>Avgifter i taxan är angivna i kronor inklusive 25 procent moms. |
 | 4.1 Allmän<br>Information | Ta bort information om<br>antal ÅVC besök<br>eftersom det står redan i<br>avsnitt 4.6 samt lägga<br>till information om att | Följande text:<br>I abonnemangsavgiften ingår följande:<br>• 15 besök på återvinningscentral per år för privatpersoner och 15 besök per år<br>för |
-
-<!-- sida 351 -->
-
-[Tabell 351-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/351-1.csv)
-
 |  | kärl ägs och distribueras<br>av kommunen och<br>kommunens<br>entreprenörer. | verksamheter med avfallsabonnemang.<br>• Påsar och påshållare för matavfall.<br>• Upp till två meters gångavstånd till hämtfordon för avfallskärl.<br>• I avgiften för slamtömning ingår slangdragning upp till 20 meter.<br>Byts till:<br>I abonnemangsavgiften ingår följande:<br>• Besök på återvinningscentraler enligt avsnitt 4.6<br>• Påsar och påshållare för matavfall.<br>• Upp till två meters gångavstånd till hämtfordon för avfallskärl.<br>• I avgiften för slamtömning ingår slangdragning upp till 20 meter.<br>• Kärl ägs och distribueras av renhållaren eller renhållarens utförare. |
-| --- | --- | --- |
 | 4.3.3.1<br>Gångavstånd till<br>kärl | Ändra till rätt veckor för<br>den nya<br>trädgårdsavfallssäsonge<br>n i tabellen för<br>gångavstånd vid<br>hämtning av<br>trädgårdsavfall | Följande text:<br>Trädgårdsavfall (vecka 14-45)<br>Byts till:<br>Trädgårdsavfall (vecka 12-47) |
 | 4.3.3.4<br>Hämtning av<br>komposterbart<br>trädgårdsavfall i<br>kärl | Förlänga<br>trädgårdsavfallssäsonge<br>n med 4 veckor dvs två<br>extra tömningar. | Uppdatering |
 | 4.3.3.5<br>Hämtning av<br>komposterbart<br>trädgårds- och<br>parkavfall i<br>container | Förtydliggöra i rubriken<br>att den fraktionen<br>inkluderar även ris och<br>grenar. | Följande rubriksnamn:<br>Hämtning av komposterbart trädgårds- och parkavfall i container<br>Byts till:<br>Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris och grenar) i<br>container |
-
-<!-- sida 352 -->
-
-[Tabell 352-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/352-1.csv)
-
 | 4.3.3.7<br>Hämtning av<br>grovavfall | Lägga till att det går att<br>lämna även det som går<br>att återanvända samt<br>lägga till<br>storleksbegränsningar.<br>Uppdatera<br>rubriksnamnet för att<br>inkludera återbruk | Följande rubriksnamn:<br>Hämtning av grovavfall<br>Byts till:<br>Hämtning av grovavfall och återbruk |
-| --- | --- | --- |
 |  |  | Följande text:<br>Renhållarens utförare hämtar avfallet i anslutning till väg vid fastighetsgräns,<br>inom 6 arbetsdagar efter beställning.<br>Uppdaterats till:<br>Renhållarens utförare hämtar avfallet och produkter till återbruk i anslutning till<br>väg vid fastighetsgräns, inom 6 arbetsdagar efter beställning. Varje kolli får väga<br>maximalt 30 kilo och inte ha en volym större än 1 kubikmeter. Längder får vara<br>maximalt 1,2 meter. Kollin ska märkas med respektive fraktion. Produkter till<br>återbruk ska vara hela och rena. Mer information om vad som får lämnas finns<br>på kommunens hemsida |
 |  |  | Följande text i tabellen:<br>Grovavfall, mindre än 1 kubikmeter<br>Grovavfall mindre än 1 kubikmeter<br>Byts till:<br>Grovavfall och återbruk utöver 1 kubikmeter, per extra kubikmeter<br>Grovavfall och återbruk, mindre än 1 kubikmeter |
 | 4.4.2.1 | Ta bort grundavgiften för<br>varmkompost eftersom<br>abonnemanget saknas |  |
 | 4.3.3.8<br>Extra tömningar | Uppdatera perioden när<br>extra tömning av<br>trädgårdsavfall kan<br>beställas i enlighet med<br>den nya förlängda<br>trädgårdsavfallssäsonge<br>n. | Följande text:<br>Fastighetsinnehavare kan beställa extra tömning av brännbart restavfall och<br>matavfall, samt för trädgårdsavfall i kärl under perioden vecka 15–45.<br>Byts till:<br>Fastighetsinnehavare kan beställa extra tömning av brännbart restavfall och<br>matavfall, samt för trädgårdsavfall i kärl under perioden vecka 12–47 |
 | 4.4.4.1<br>Gångavstånd till<br>kärl | Uppdatera perioden i tabellen<br>i enlighet med den nya | Följande text:<br>Trädgårdsavfall (vecka 14–45) |
-
-<!-- sida 353 -->
-
-[Tabell 353-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/353-1.csv)
-
 |  | förlängda<br>trädgårdsavfallssäsongen. | Byts till:<br>Trädgårdsavfall (vecka 12–47) |
-| --- | --- | --- |
 | 4.4.4.4<br>Hämtning av<br>komposterbart<br>trädgårdsavfall i<br>kärl | Förlänga<br>trädgårdsavfallssäsongen<br>med 4 veckor dvs två extra<br>tömningar. | Följande text:<br>Trädgårdsavfall (vecka 14–45)<br>Byts till:<br>Trädgårdsavfall (vecka 12–47) |
 | 4.4.4.5<br>Hämtning av<br>komposterbart<br>trädgårds- och<br>parkavfall i<br>container | Förtydliggöra i rubriken att<br>den fraktionen inkluderar även<br>ris och grenar. | Följande rubriksnamn:<br>Hämtning av komposterbart trädgårds- och parkavfall i container<br>Byts till:<br>Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris och grenar) i<br>container |
 | 4.4.4.7<br>Hämtning av<br>grovavfall | Lägga till att det går att lämna<br>även det som går att<br>återanvända samt lägga till<br>storleksbegränsningar.<br>Uppdatera rubriksnamnet för<br>att inkludera återbruk. | Följande rubriksnamn:<br>Hämtning av grovavfall<br>Byts till:<br>Hämtning av grovavfall och återbruk |
 |  |  | Följande text:<br>Renhållarens utförare hämtar avfallet i anslutning till väg vid fastighetsgräns, inom 6<br>arbetsdagar efter beställning.<br>Uppdaterats till:<br>Renhållarens utförare hämtar avfallet och produkter till återbruk i anslutning till väg vid<br>fastighetsgräns, inom 6 arbetsdagar efter beställning. Varje kolli får väga maximalt 30<br>kilo och inte ha en volym större än 1 kubikmeter. Längder får vara maximalt 1,2 meter. |
-
-<!-- sida 354 -->
-
-[Tabell 354-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/354-1.csv)
-
 |  |  | Kollin ska märkas med respektive fraktion. Produkter till återbruk ska vara hela och<br>rena. Mer information om vad som får lämnas finns på kommunens hemsida |
-| --- | --- | --- |
 |  |  | Följande text i tabellen:<br>Grovavfall, mindre än 1 kubikmeter<br>Grovavfall mindre än 1 kubikmeter<br>Byts till:<br>Grovavfall och återbruk utöver 1 kubikmeter, per extra kubikmeter<br>Grovavfall och återbruk, mindre än 1 kubikmeter |
 | 4.4.4.8<br>Extra tömningar | Lägga till att även extra<br>tömning av trädgårdsavfall<br>kan beställas i enlighet med<br>den nya förlängda<br>trädgårdsavfallssäsongen.<br>Förtydliggöra att extra säck<br>begränsas till brännbart<br>restavfall. Tjänsten är likadan<br>för verksamheter som för<br>privatpersoner. | Följande text:<br>”, men det går inte att beställa extra tömning av trädgårdsavfall.”<br>Ersätts med:<br>”…, samt för trädgårdsavfall i kärl under perioden vecka 12–47”<br>Samt ”brännbart restavfall” läggs i följande mening:<br>Fastighetsinnehavare kan också beställa hämtning av extra säck brännbart<br>restavfall vid sidan av kärlet i samband med tömning av kärl. |
 | 4.4.5<br>Avfall från<br>detaljhandel,<br>restauranger och<br>storkök | Ny rubrik | Följande läggs till tillsammans med avgiftstabell för nya tjänster:<br>Hämtning av kommunalt avfall (enligt tabell nedan) från detaljhandel, restauranger<br>eller storkök kan beställas av valfri entreprenör som har avtal med kommunen.<br>Tjänsten inkluderar hämtning av livsmedelsavfall, ABP-avfall kategori 3, d.v.s.<br>livsmedelsavfall som omfattas av lagstiftningen om animaliska biprodukter. Hämtning<br>sker i enlighet med entreprenörens instruktioner. Hyra av insamlingskärl eller<br>container regleras mellan avfallslämnare och godkänd entreprenör.<br>Avgifterna nedan är högsta tillåtna priser som godkända entreprenörer får<br>debitera avfallslämnare. |
-
-<!-- sida 355 -->
-
-[Tabell 355-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/355-1.csv)
-
 |  |  | Nya tjänster som erbjuds:<br>-Fast livsmedelsavfall (ABP-avfall kategori 3), separat utsorterat i 140l-kärl<br>eller annan typ av behållare<br>-Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat i container<br>-Flytande livsmedelsavfall i sluten behållare (ABP-avfall, kategori 3)<br>-Livsmedelsavfall i form av ätlig olja eller liknande flytande ätligt fett<br>-Övrigt kommunalt avfall. Exempelvis kasserade produkter, textilavfall eller<br>avfall som uppkommit i verksamhetens personalutrymmen eller<br>serveringsverksamhet\*<br>\* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie<br>utförare. Sådant avfall får endast hämtas av annan entreprenör efter<br>godkännande från kommunens avfallsorganisation. |
-| --- | --- | --- |
 | 4.6.1<br>Privatpersoner | Förenkla texten om ÅVC-<br>besök. | Följande text:<br>I avfallsabonnemanget ingår besök på återvinningscentralerna. Alla vuxna<br>folkbokförda i kommunen har 15 besök per person och år. Från det 16:e<br>besöket tas en avgift per besök ut enligt tabell nedan. Inpassering sker<br>med körkort. Personer som inte har körkort kan ansöka om att få ett ÅVC-<br>kort i stället. Även privatpersoner som är folkbokförda i annan kommun<br>men äger ett fritidshus med avfallsabonnemang i Kungsbacka har rätt till 15<br>besök per abonnemang och år och får ett ÅVC-kort till detta. Det är också<br>möjligt att betala enstaka besök på någon av kommunens<br>återvinningscentraler.<br>Byts till:<br>Alla vuxna folkbokförda i kommunen har 15 besök per person och år. Från det 16:e<br>besöket tas en avgift per besök ut enligt tabell nedan. Privatpersoner med<br>avfallsabonnemang för fritidshus i Kungsbacka kommun har rätt till 15 besök per |
-
-<!-- sida 356 -->
-
-[Tabell 356-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/356-1.csv)
-
 |  |  | abonnemang och år. Inpassering sker med körkort. Personer som inte har körkort kan<br>ansöka om att få ett ÅVC-kort i stället. Det är också möjligt att betala enstaka besök<br>på någon av kommunens återvinningscentraler. |
-| --- | --- | --- |
 | 4.6.1<br>Privatpersoner | Utelämna information om vilka<br>avfallstyper kan lämnas av på<br>ÅVC utan att besöket<br>registreras. Det kommer vi<br>publicera på hemsidan. | Följande text stryks:<br>Privatpersoner som bara ska lämna återbruk, förpackningar (av plast,<br>papper, metall, glas), tidningar, returpapper, elektronik, lysrör och ljuskällor,<br>enstaka vitvaror, kyl och frys, batterier, bilbatterier eller fett från hushåll kan<br>göra det utan att besöket registreras. Kontakta då personalen så öppnar de<br>bommen, |
 | 4.6.1<br>Privatpersoner | Ändra från<br>renhållningsabonnemang till<br>avfallsabonnemang i tabellen. | Följande text:<br>Mottagningsavgift för besök ej kopplade till renhållningsabonnemang,<br>Byts till:<br>Mottagningsavgift för besök ej kopplade till avfallsabonnemang. |
 | 4.6.1<br>Privatpersoner | Ta bort information om<br>extrakort. Det är inte längre<br>möjligt längre. | Följande text:<br>För ett extra eller förlorat ÅVC-kort<br>Byts till:<br>Förlorat ÅVC-kort |
 | 4.6.2<br>Verksamheter | Lägg till information om hur<br>inpasseringen sker | Följande läggs till:<br>Inpassering för verksamheter sker med ÅVC-kort. |
+| 4.8 Avgift för att<br>återfå tappade<br>föremål i<br>behållare på<br>återvinningsstatio<br>n | Ny rubrik | Följande läggs till:<br>4.8 8 Avgift för att återfå tappade föremål i behållare på återvinningsstation<br>Övrig service kan innefatta åtgärder för att återfå värdeföremål som tappats i en<br>insamlingsbehållare. Efter överenskommelse om åtgärd tas avgift ut till<br>självkostnadspris för följande:<br>• transportera bort behållare och ställa ut en ersättningsbehållare<br>• tömma ut material från behållare, genomsöka och iordningställa.<br>• uttryckning under jourtid som görs av annan än kommunens egen<br>jourverksamhet |
+| 4.8 Särskilda<br>avgifter | Rubriken byter nummer till 4.9 |  |
+
+<!-- sida 351 -->
+
+<!-- sida 352 -->
+
+<!-- sida 353 -->
+
+<!-- sida 354 -->
+
+<!-- sida 355 -->
+
+<!-- sida 356 -->
 
 <!-- sida 357 -->
-
-[Tabell 357-1](handlingar-kommunstyrelsen-handlingar-2024-11-26-arende-2-33.tabeller/357-1.csv)
-
-| 4.8 Avgift för att<br>återfå tappade<br>föremål i<br>behållare på<br>återvinningsstatio<br>n | Ny rubrik | Följande läggs till:<br>4.8 8 Avgift för att återfå tappade föremål i behållare på återvinningsstation<br>Övrig service kan innefatta åtgärder för att återfå värdeföremål som tappats i en<br>insamlingsbehållare. Efter överenskommelse om åtgärd tas avgift ut till<br>självkostnadspris för följande:<br>• transportera bort behållare och ställa ut en ersättningsbehållare<br>• tömma ut material från behållare, genomsöka och iordningställa.<br>• uttryckning under jourtid som görs av annan än kommunens egen<br>jourverksamhet |
-| --- | --- | --- |
-| 4.8 Särskilda<br>avgifter | Rubriken byter nummer till 4.9 |  |
 
 <!-- sida 358 -->
 

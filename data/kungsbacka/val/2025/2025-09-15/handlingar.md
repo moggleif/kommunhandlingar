@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4caf9626199293fa964480b5/1757503260
 sha256: 483e8d4bb1af6a1b9cc88890634e9999f505be7bd61438ab4e34cf2d56d48d0f
 bytes: 717914
 sidor: 12
-hamtad: 2026-10-08T08:55:54+00:00
-konverterad: 2026-10-08T08:55:57+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-15T06:52:00+00:00
+konverterad: 2026-10-15T06:52:04+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -178,6 +178,14 @@ Delårsrapport augusti 2025
 
 Utfall och prognos
 
+Bokslut Budget Prognos  Budget-  Delår  Delår  Avvikelse
+Miljoner kronor
+2024    2025   2025   avvikelse 2024    2025    delår
+Valnämnden      -1,6    -0,4    -0,4     0,0    -1,4    -0,2     1,2
+
+Periodens
+-1,6    -0,4    -0,4     0,0    -1,4    -0,2     1,2
+resultat
 Sammanfattning - text till kommunstyrelsen
 Valnämndens prognos för 2025 bedöms ligga i nivå med fastställd budget. Eftersom 2025 inte är ett valår är
 verksamheten begränsad. Den skillnad som kan noteras jämfört med 2024 förklaras av att val till
@@ -190,14 +198,6 @@ Ingen förändring i prognos.
 6
 
 [Tabell 7-1](handlingar.tabeller/7-1.csv)
-
-| Miljoner kronor<br>Valnämnden | Bokslut<br>2024<br>-1,6 | Budget<br>2025<br>-0,4 | Prognos<br>2025<br>-0,4 | Budget-<br>avvikelse<br>0,0 | Delår<br>2024<br>-1,4 | Delår<br>2025<br>-0,2 | Avvikelse<br>delår<br>1,2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-| Periodens<br>resultat | -1,6 | -0,4 | -0,4 | 0,0 | -1,4 | -0,2 | 1,2 |
-
-[Tabell 7-2](handlingar.tabeller/7-2.csv)
 
 | Nämnd/förvaltning | Helårsprognos delår 1<br>(mkr) | Helårsprognos delår 2<br>(mkr) | Förändring prognos<br>(mkr) |
 | --- | --- | --- | --- |

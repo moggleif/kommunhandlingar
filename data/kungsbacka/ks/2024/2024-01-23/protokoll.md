@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2fd3b05518d2a878e47ae4f/17061967754
 sha256: 8262fcbda9e751da70973d4522d4754aafd1dfad02ca20fb4318bc454e689bca
 bytes: 881804
 sidor: 62
-hamtad: 2026-10-08T09:07:04+00:00
-konverterad: 2026-10-08T09:07:28+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:00:16+00:00
+konverterad: 2026-10-15T07:00:30+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1544,7 +1544,7 @@ beslutanderätten genom att själv ta över ärendet och fatta beslut.
 
 Expedierat/bestyrkt
 
-[Tabell 34-1](protokoll.tabeller/34-1.csv)
+[Tabell 34-35-1](protokoll.tabeller/34-35-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -1557,6 +1557,20 @@ Expedierat/bestyrkt
 | Enhetschef | Anställning av Utvecklare IT |
 | Enhetschef | Anställning av Utvecklare IT |
 | Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>samråd gällande omprövning/nyprövning av<br>vattenkraftverksanläggning (benämnd<br>Kvarndammen) och fastigheten Berget 1:1,<br>Kungsbacka kommun |
+| Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>remiss om anläggande av vindpark Ärsjö i Varbergs<br>kommun |
+| Exploateringshandläggare | Servitutsavtal Vallda 7:37 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Förlanda-Rya 4:1 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Roppe 1:5 - Teleledningar |
+| Exploateringsingenjör | Servitutsavtal Varla 6:18 - pumpstation, spillvatten-<br>och teleledningar |
+| Exploateringshandläggare | Servitutsavtal Ammendred 1:3 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal - Klavekulla 1:1 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Kussered 1:3 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Vallda 5:12 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Valla 6:11 - Spillvattenledningar |
+| Exploateringshandläggare | Servitutsavtal Valla 6:13 - Spillvattenledningar |
+| Mark- och exploateringschef | Markupplåtelseavtal Må 3:26 - Ellevio |
+| Mark- och exploateringschef | Markupplåtelseavtal Hammerö 4:18 - E.On |
+| Exploateringshandläggare | Servitutsavtal Fixhult 3:27 - Teleledningar |
 
 <!-- sida 35 -->
 
@@ -1572,24 +1586,6 @@ redovisningen av delegeringsbeslut fattade under perioden 2023-09-26 till
 2024-01-16, och finner att kommunstyrelsen bifaller det.
 
 Expedierat/bestyrkt
-
-[Tabell 35-1](protokoll.tabeller/35-1.csv)
-
-| Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>remiss om anläggande av vindpark Ärsjö i Varbergs<br>kommun |
-| --- | --- |
-| Exploateringshandläggare | Servitutsavtal Vallda 7:37 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Förlanda-Rya 4:1 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Roppe 1:5 - Teleledningar |
-| Exploateringsingenjör | Servitutsavtal Varla 6:18 - pumpstation, spillvatten-<br>och teleledningar |
-| Exploateringshandläggare | Servitutsavtal Ammendred 1:3 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal - Klavekulla 1:1 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Kussered 1:3 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Vallda 5:12 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Valla 6:11 - Spillvattenledningar |
-| Exploateringshandläggare | Servitutsavtal Valla 6:13 - Spillvattenledningar |
-| Mark- och exploateringschef | Markupplåtelseavtal Må 3:26 - Ellevio |
-| Mark- och exploateringschef | Markupplåtelseavtal Hammerö 4:18 - E.On |
-| Exploateringshandläggare | Servitutsavtal Fixhult 3:27 - Teleledningar |
 
 <!-- sida 36 -->
 

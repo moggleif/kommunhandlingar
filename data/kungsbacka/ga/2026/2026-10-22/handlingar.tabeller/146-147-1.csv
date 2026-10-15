@@ -1,0 +1,63 @@
+Verksamhetstyp:,Utbildning,,,,
+Verksamhetsområde:,Gemensam skolverksamhet,,,,
+Processgrupp:,Hantera avvikelser och anmälningar,,,,
+Process:,Hantera avvikelser och anmälningar,,,,
+Processnummer:,5.1.5.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Hantera avvikelser
+och klagomål inom
+elevhälsan","Medicinsk och
+psykologisk
+avvikelserapport",Prorenata,Digitalt,Se anm.,"Enskilda rapporterade händelser gallras efter
+10 år, om de granskats i en händelse- eller
+riskanalys, där en sammanställning gjorts för
+rapportering och uppföljning av mål och
+resultat som sedan bevaras.
+Gallring av enskilda avvikelserapporter får inte
+ske om dessa behövs för vårdgivarens
+uppföljning, eller för ev. framtida utredningar i
+disciplin- eller patientskadeärenden."
+,"Klagomål inkomna direkt
+till vårdenhet eller via
+patientnämnd (motsv.)",Ciceron,Digitalt,Se anm.,"Avser skriftliga klagomål till vårdenhet inom
+den egna vårdgivaren.
+Klagomål av betydelse för verksamheten
+bevaras. Klagomål av tillfällig eller ringa
+karaktär gallras vid inaktualitet."
+,Klagomål via IVO,Ciceron,Digitalt,Bevaras,"Avser klagomål som gäller vårdenhet inom den
+egna vårdgivaren."
+"Ta emot och utreda
+klagomål på
+utbildningen",Klagomålsanmälan,Ciceron,Digitalt,Bevaras,"Klagomål kan komma både från
+elev/vårdnadshavare och via Skolinspektionen."
+,"Klagomålsutredning
+(avvikelseutredning)",Ciceron,Digitalt,Bevaras,
+,Beslut om åtgärder,Ciceron,Digitalt,Bevaras,
+,"Uppföljning av vidtagna
+åtgärder",Ciceron,Digitalt,Bevaras,
+Göra anmälningar,"Anmälan till myndighet
+med anledning av
+självrapporteringskrav",Kia,Digitalt,Bevaras,"Ex. anmälan om olycksfall och tillbud. För
+personuppgiftsincident se kommungemensam
+dokumenthanteringsplan, process ”Hantera
+personuppgifter” processnummer 1.4.1.2."
+,"Anmälan till myndighet
+med anledning av
+självrapporteringskrav",Ciceron,Digitalt,Bevaras,"Det dokumenteras även i Prorenata eller DF
+respons (gäller ej Lex Maria) att anmälan
+gjorts och varför, kan gälla t.ex. anmälan enligt
+Lex Maria, Lex Sarah."
+,"Anmälan till myndighet
+med anledning av oro
+för barn/elev",Prorenata,Digitalt,Bevaras,"Notering görs i Prorenata, den formella
+anmälan görs via kontaktformulär till
+socialtjänsten"
+Hantera anmälningar,"Begäran om yttrande
+från utredande
+myndighet",Ciceron,Digitalt,Bevaras,
+,"Yttrande till utredande
+myndighet",Ciceron,Digitalt,Bevaras,
+,"Beslut från
+tillsynsmyndighet",Ciceron,Digitalt,Bevaras,
+,"Redovisning av vidtagna
+åtgärder",Ciceron,Digitalt,Bevaras,

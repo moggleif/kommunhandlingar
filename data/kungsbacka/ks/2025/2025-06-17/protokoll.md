@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.3e42963819780642e64e17a/17502350748
 sha256: 43df7eb29b01421e0a1517c940f0af73479952a91b7a41d63ac558ebcf1bba85
 bytes: 659342
 sidor: 41
-hamtad: 2026-10-08T09:10:26+00:00
-konverterad: 2026-10-08T09:10:33+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:02:37+00:00
+konverterad: 2026-10-15T07:02:45+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1189,7 +1189,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 2CB9CDA63B95923FF7BDA0BB915D756CFB45DD9262
 Transaktionsidentitet: 9F847F7762795B9CE7E5EBE717CD7882EE04009C35
 
-[Tabell 26-1](protokoll.tabeller/26-1.csv)
+[Tabell 26-28-1](protokoll.tabeller/26-28-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -1204,22 +1204,7 @@ Transaktionsidentitet: 9F847F7762795B9CE7E5EBE717CD7882EE04009C35
 | Administrativ chef | Anställande av utredare |
 | Ekonomichef | Anställande av specialist ekonomi |
 | Biträdande kommundirektör | Konsekvensbedömning för analys av befolknings-<br>och fastighetsinformation |
-
-<!-- sida 27 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          27 (39)
-Kommunstyrelsen
-Datum
-2025-06-17
-
-Det här dokumentet är digitalt signerat
-Transaktionsidentitet: 2CB9CDA63B95923FF7BDA0BB915D756CFB45DD9262
-Transaktionsidentitet: 9F847F7762795B9CE7E5EBE717CD7882EE04009C35
-
-[Tabell 27-1](protokoll.tabeller/27-1.csv)
-
 | Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>Arbetsmarknadsdepartementets remiss om ökad<br>kvalitet hos Samhall och flera vägar till skyddat<br>arbete |
-| --- | --- |
 | Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>Boverkets remiss av rapporten Uppdrag att främja<br>en cirkulär ekonomi i bygg- och fastighetssektorn |
 | Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>Justitiedepartementets remiss om ett skärpt<br>regelverk om utvisning på grund av brott |
 | Markingenjör | Avtalsservitut teleledningar Kolla 7:1 |
@@ -1235,6 +1220,20 @@ Transaktionsidentitet: 9F847F7762795B9CE7E5EBE717CD7882EE04009C35
 | Exploateringshandläggare | Servitutsavtal Ölmevalla-Nygård 1:14 -<br>Teleledningar |
 | Exploateringshandläggare | Servitutsavtal Harestorp 4:2 - Teleledningar |
 | Exploateringshandläggare | Servitutsavtal Kläppa 1:55 -Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Harestorp 4:3 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Stockalid 1:12 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Ölmevalla-Bolg 2:11 - Teleledningar |
+
+<!-- sida 27 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          27 (39)
+Kommunstyrelsen
+Datum
+2025-06-17
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: 2CB9CDA63B95923FF7BDA0BB915D756CFB45DD9262
+Transaktionsidentitet: 9F847F7762795B9CE7E5EBE717CD7882EE04009C35
 
 <!-- sida 28 -->
 
@@ -1252,13 +1251,6 @@ redovisningen av delegeringsbeslut fattade under perioden 2025-01-08 till
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 2CB9CDA63B95923FF7BDA0BB915D756CFB45DD9262
 Transaktionsidentitet: 9F847F7762795B9CE7E5EBE717CD7882EE04009C35
-
-[Tabell 28-1](protokoll.tabeller/28-1.csv)
-
-| Exploateringshandläggare | Servitutsavtal Harestorp 4:3 - Teleledningar |
-| --- | --- |
-| Exploateringshandläggare | Servitutsavtal Stockalid 1:12 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Ölmevalla-Bolg 2:11 - Teleledningar |
 
 <!-- sida 29 -->
 

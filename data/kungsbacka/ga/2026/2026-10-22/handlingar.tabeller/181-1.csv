@@ -1,0 +1,26 @@
+Verksamhetstyp:,Utbildning,,,,
+Verksamhetsområde:,Gymnasieskola,,,,
+Processgrupp:,Driva anpassad gymnasieskola,,,,
+Process:,Registrera närvaro och förebygga skolfrånvaro,,,,
+Processnummer:,5.7.2.2,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Följa upp närvaro,Närvarolista,Vklass,Digitalt,"3 år efter
+avslutad
+skolgång",
+,"Rapport över när- och
+frånvaro",Vklass,Digitalt,"3 år efter
+avslutad
+skolgång",
+"Bevilja eller avslå
+ledighet","Beviljad ansökan om
+ledighet",Vklass,Digitalt,Se anm.,När eleven slutat skolan.
+,"Avslagen ansökan om
+ledighet",Vklass,Digitalt,Bevaras,
+,"Överklagan av ansökan
+om ledighet",Ciceron,Digitalt,Bevaras,"För hantering av överklagan, se
+separat kommunövergripande process 1.4.4.1."
+Utreda frånvaro,"Utredning av
+problematisk frånvaro",Ciceron,Digitalt,Bevaras,
+,"Anmälan om
+problematisk frånvaro",Ciceron,Digitalt,Bevaras,"Omfattar information till andra kommuner som
+elever är hemmahörande i."

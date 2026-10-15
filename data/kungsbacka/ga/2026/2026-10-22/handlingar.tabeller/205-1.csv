@@ -1,0 +1,10 @@
+Verksamhetstyp:,Vård och omsorg,,,,
+Verksamhetsområde:,Hantera inrapporterade händelser och anmälningar,,,,
+Processgrupp:,Hantera inrapporterade händelser,,,,
+Process:,Hantera vårdkedjehändelse,,,,
+Processnummer:,6.1.1.3,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Anmäla,Rapport,DF Respons,Digitalt,5 år,
+Utreda,"Utredning och riskanalys
+initierad av negativ
+händelse",DF Respons,Digitalt,5 år,

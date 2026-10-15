@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.756eabe81995849a92018907/1758178023
 sha256: 6c25ee27eab0ed0076289a931c30aeb7aebdddb9e64ad4d00c5973a2b9b9c9fc
 bytes: 132451004
 sidor: 672
-hamtad: 2026-10-08T11:31:49+00:00
-konverterad: 2026-10-08T11:41:01+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T09:24:01+00:00
+konverterad: 2026-10-15T09:34:06+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
-tal_obekraftade: [18, 19, 20, 21, 22, 23, 24, 62, 109, 348, 349, 404, 613, 614, 627, 639, 655, 656, 672]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
+tal_obekraftade: [18, 19, 20, 21, 22, 23, 24, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 62, 109, 151, 152, 348, 349, 358, 404, 613, 614, 627, 639, 655, 656, 672]
+figurer: [18, 19, 21, 22, 23, 24, 25, 32, 40, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 60, 62, 84, 85, 87, 88, 89, 90, 131, 132, 133, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 164, 166, 170, 171, 178, 180, 184, 185, 199, 202, 203, 204, 205, 207, 209, 210, 211, 212, 213, 214, 215, 217, 218, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 233, 242, 253, 279, 280, 282, 283, 284, 285, 286, 288, 289, 290, 291, 292, 293, 294, 295, 298, 299, 300, 302, 303, 305, 306, 350, 351, 354, 355, 358, 359, 360, 361, 366, 367, 368, 369, 371, 373, 374, 376, 377, 378, 382, 383, 403, 404, 439, 442, 448, 453, 461, 464, 529, 530, 533, 534, 535, 536, 537, 538, 539, 540, 548, 551, 552, 556, 578, 590, 593, 655, 656]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2 (7)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-5-1](handlingar.tabeller/2-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -70,6 +70,18 @@ KUNGSBACKA  KOMMUN
 | 6. | Begäran om planbesked för<br>Vallda 9:30 | 2025-00465 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Vallda 9:30 i Vallda. |
 | 7. | Begäran om planbesked för<br>Spårhaga 1:3 | 2025-00464 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inte inleda en detaljplanläggning för att<br>pröva lämpligheten av bostäder inom Spårhaga 1:3<br>m.fl. i Kullavik. |
 | 8. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för bostäder med<br>mera inom Hammerö 13:7<br>m.fl. i Kungsbacka | 2023-00275 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för bostäder med mera inom Hammerö<br>13:7 m.fl. i Kungsbacka, daterad 2025-09-09.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan för bostäder med<br>mera inom Hammerö 13:7 m.fl. i Kungsbacka. |
+| 9. | Inriktningsbeslut inför<br>upprättande av detaljplan och<br>markanvisningstävling för<br>kvarteret Ejdern | 2023-00651 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen beslutar att markanvisningstävling<br>för kvarteret Ejdern genomförs innan samråd över<br>detaljplan för kvarteret Ejdern genomförs.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram underlag inför genomförandet av en<br>markanvisningstävling för bostäder och<br>centrumverksamheter inom Ejdern 8, Kungsbacka<br>2:13 m.fl. i Kungsbacka. |
+| 10. | Svar på Göteborgsregionens<br>remiss av Västra<br>Götalandsregionens: Regional<br>utvecklingsstrategi för Västra<br>Götaland 2021–2030 | 2025-00316 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-08-13,<br>och översänder det som sitt svar till Västra<br>Götalandsregionen. |
+| 11. | Svar på Landsbygds- och<br>infrastrukturdepartementets<br>remiss av Betänkande En<br>översyn av<br>kontrollorganisation och<br>finansieringen av kontroll i<br>livsmedelskedjan för att<br>förenkla för företag (SOU<br>2025:64) | 2025-00472 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-08-19,<br>och översänder det som sitt svar till Landsbygds- och<br>infrastrukturdepartementet. |
+| 12. | Svar på Naturvårdsverkets<br>remiss av förslag till ändring<br>av föreskrifter om miljörapport | 2025-00516 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-08-21,<br>och översänder det som sitt svar till Landsbygds- och<br>infrastrukturdepartementet. |
+| 13. | Svar på Landsbygds- och<br>infrastrukturdepartementets<br>remiss av betänkandet Ökad<br>tydlighet, stärkt samverkan –<br>förutsättningar för framtidens<br>utvecklingspolitik (SOU<br>2025:85) | 2025-00531 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-08-20,<br>och översänder som sitt svar till Landsbygds- och<br>infrastrukturdepartementet. |
+| 14. | Anmälan av delegeringsbeslut | 2025-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
+| 15. | Anmälan av ordförandebeslut | 2025-00007 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
+| 16. | Redovisning av inkomna<br>skrivelser | 2025-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
+| 17. | Antagande av detaljplan för<br>Kungsbacka arena i<br>Kungsbacka stad | 2025-00517 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar detaljplan för Kungsbacka<br>arena i Kungsbacka stad, Kungsbacka kommun,<br>upprättad 2025-06-10. |
+| 18. | Revidering av OPF-KL18<br>(OPF-KR 22 (Kungsbacka))<br>till OPF-KR25 - Bestämmelser<br>om omställningsstöd, pension<br>och familjeskydd för<br>förtroendevalda | 2024-00779 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Lokala bestämmelser om<br>omställningsstöd, pension och familjeskydd för<br>förtroendevalda, OPF-KR 25, daterat 2025-02-19 att<br>gälla för förtroendevalda som tillträtt i samband med<br>valet 2014 eller senare, med start från och med<br>2025-11-01. Bestämmelserna gäller från samma<br>tidpunkt även för förtroendevalda som i tidigare<br>uppdrag inte omfattats av PBF, PRF-KL eller andra<br>omställnings- och pensionsbestämmelser för<br>förtroendevalda.<br>Bestämmelser om omställningsstöd och pension för<br>förtroendevalda (OPF-KL 22) och Lokalt regelverk<br>OPF-KL 22, antaget av kommunfullmäktige<br>2022-06-15, § 112, upphör samtidigt att gälla.<br>Kommunfullmäktige ger kommunstyrelsen i uppdrag<br>att se över befintliga rutiner och anvisningar för<br>omställningsstöd, pension och familjeskydd för<br>förtroendevalda. |
+| 19. | Taxa för brandskyddskontroll<br>2026–2031 | 2025-00504 | Förslag till beslut i kommunfullmäktige<br>1. Kommunfullmäktige antar taxa i enlighet med<br>bilaga 1.<br>2. Kommunfullmäktige antar taxebestämmelserna i<br>enlighet med bilaga 2.<br>4. Kommunfullmäktige beslutar att taxan enligt<br>beslutspunkt 1 gäller från och med den 1 januari 2026<br>till och med den 31 december 2031 för Kungsbacka<br>kommun med den justering som sker enligt<br>beslutspunkt 5.<br>5. Kommunfullmäktige beslutar att<br>Räddningstjänstförbundet Storgöteborg för varje<br>avgiftsår ska årligen justera taxorna enligt<br>beslutspunkt 1 enligt Sveriges kommuner och<br>regioners (SKR) Prisindex för kommunal verksamhet<br>(PKV). Vid justeringen tillämpas det PKV som SKR<br>årligen publicerar i februari, i samband med<br>cirkuläret som omfattar budgetförutsättningar och<br>skatteprognos. Taxan beräknas enligt PKV för två år<br>före det år som taxebeloppet ska gälla. Justeringen<br>görs med PKV enligt det cirkulär som publiceras året<br>före det år taxebeloppet ska gälla. |
+| 20. | Taxa för bredband 2026 | 2025-00434 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar bredbandstaxa 2026,<br>daterad 2025-05-07.<br>Taxan träder i kraft den 1 januari 2026.<br>Bredbandstaxa 2025, antagen av kommunfullmäktige<br>2024-06-13, § 99, upphör samtidigt att gälla. |
 
 <!-- sida 3 -->
 
@@ -77,31 +89,11 @@ KUNGSBACKA  KOMMUN
 
 3 (7)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 9. | Inriktningsbeslut inför<br>upprättande av detaljplan och<br>markanvisningstävling för<br>kvarteret Ejdern | 2023-00651 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen beslutar att markanvisningstävling<br>för kvarteret Ejdern genomförs innan samråd över<br>detaljplan för kvarteret Ejdern genomförs.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram underlag inför genomförandet av en<br>markanvisningstävling för bostäder och<br>centrumverksamheter inom Ejdern 8, Kungsbacka<br>2:13 m.fl. i Kungsbacka. |
-| 10. | Svar på Göteborgsregionens<br>remiss av Västra<br>Götalandsregionens: Regional<br>utvecklingsstrategi för Västra<br>Götaland 2021–2030 | 2025-00316 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-08-13,<br>och översänder det som sitt svar till Västra<br>Götalandsregionen. |
-| 11. | Svar på Landsbygds- och<br>infrastrukturdepartementets<br>remiss av Betänkande En<br>översyn av<br>kontrollorganisation och<br>finansieringen av kontroll i<br>livsmedelskedjan för att<br>förenkla för företag (SOU<br>2025:64) | 2025-00472 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-08-19,<br>och översänder det som sitt svar till Landsbygds- och<br>infrastrukturdepartementet. |
-| 12. | Svar på Naturvårdsverkets<br>remiss av förslag till ändring<br>av föreskrifter om miljörapport | 2025-00516 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-08-21,<br>och översänder det som sitt svar till Landsbygds- och<br>infrastrukturdepartementet. |
-| 13. | Svar på Landsbygds- och<br>infrastrukturdepartementets<br>remiss av betänkandet Ökad<br>tydlighet, stärkt samverkan –<br>förutsättningar för framtidens<br>utvecklingspolitik (SOU<br>2025:85) | 2025-00531 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-08-20,<br>och översänder som sitt svar till Landsbygds- och<br>infrastrukturdepartementet. |
-| 14. | Anmälan av delegeringsbeslut | 2025-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4 (7)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 15. | Anmälan av ordförandebeslut | 2025-00007 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
-| 16. | Redovisning av inkomna<br>skrivelser | 2025-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
-| 17. | Antagande av detaljplan för<br>Kungsbacka arena i<br>Kungsbacka stad | 2025-00517 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar detaljplan för Kungsbacka<br>arena i Kungsbacka stad, Kungsbacka kommun,<br>upprättad 2025-06-10. |
-| 18. | Revidering av OPF-KL18<br>(OPF-KR 22 (Kungsbacka))<br>till OPF-KR25 - Bestämmelser<br>om omställningsstöd, pension<br>och familjeskydd för<br>förtroendevalda | 2024-00779 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Lokala bestämmelser om<br>omställningsstöd, pension och familjeskydd för<br>förtroendevalda, OPF-KR 25, daterat 2025-02-19 att<br>gälla för förtroendevalda som tillträtt i samband med<br>valet 2014 eller senare, med start från och med<br>2025-11-01. Bestämmelserna gäller från samma<br>tidpunkt även för förtroendevalda som i tidigare<br>uppdrag inte omfattats av PBF, PRF-KL eller andra<br>omställnings- och pensionsbestämmelser för<br>förtroendevalda.<br>Bestämmelser om omställningsstöd och pension för<br>förtroendevalda (OPF-KL 22) och Lokalt regelverk<br>OPF-KL 22, antaget av kommunfullmäktige<br>2022-06-15, § 112, upphör samtidigt att gälla.<br>Kommunfullmäktige ger kommunstyrelsen i uppdrag<br>att se över befintliga rutiner och anvisningar för<br>omställningsstöd, pension och familjeskydd för<br>förtroendevalda. |
 
 <!-- sida 5 -->
 
@@ -109,26 +101,22 @@ KUNGSBACKA  KOMMUN
 
 5 (7)
 
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 19. | Taxa för brandskyddskontroll<br>2026–2031 | 2025-00504 | Förslag till beslut i kommunfullmäktige<br>1. Kommunfullmäktige antar taxa i enlighet med<br>bilaga 1.<br>2. Kommunfullmäktige antar taxebestämmelserna i<br>enlighet med bilaga 2.<br>4. Kommunfullmäktige beslutar att taxan enligt<br>beslutspunkt 1 gäller från och med den 1 januari 2026<br>till och med den 31 december 2031 för Kungsbacka<br>kommun med den justering som sker enligt<br>beslutspunkt 5.<br>5. Kommunfullmäktige beslutar att<br>Räddningstjänstförbundet Storgöteborg för varje<br>avgiftsår ska årligen justera taxorna enligt<br>beslutspunkt 1 enligt Sveriges kommuner och<br>regioners (SKR) Prisindex för kommunal verksamhet<br>(PKV). Vid justeringen tillämpas det PKV som SKR<br>årligen publicerar i februari, i samband med<br>cirkuläret som omfattar budgetförutsättningar och<br>skatteprognos. Taxan beräknas enligt PKV för två år<br>före det år som taxebeloppet ska gälla. Justeringen<br>görs med PKV enligt det cirkulär som publiceras året<br>före det år taxebeloppet ska gälla. |
-| 20. | Taxa för bredband 2026 | 2025-00434 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar bredbandstaxa 2026,<br>daterad 2025-05-07.<br>Taxan träder i kraft den 1 januari 2026.<br>Bredbandstaxa 2025, antagen av kommunfullmäktige<br>2024-06-13, § 99, upphör samtidigt att gälla. |
-
 <!-- sida 6 -->
 
 KUNGSBACKA  KOMMUN
 
 6 (7)
 
-[Tabell 6-1](handlingar.tabeller/6-1.csv)
+[Tabell 6-7-1](handlingar.tabeller/6-7-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 21. | Taxa för parkeringsavgifter<br>och felparkeringsavgifter | 2025-00506 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Taxa för<br>parkeringsavgifter och felparkeringsavgifter, daterad<br>2025-06-02.<br>Taxan gäller från och med den 1 januari 2026.<br>Avgifter för parkering- timtaxor, boendekort och<br>nyttokort, antagna av kommunfullmäktige<br>2024-02-06, § 12, upphör att gälla samtidigt som ny<br>taxa träder i kraft.<br>Kommunfullmäktige förklarar uppdraget om att ta<br>fram ett samlat taxedokument, som lämnades till<br>nämnden för Teknik 2024-02-06 § 12, för avslutat. |
 | 22. | Svar på motion från Roger<br>Larsson (KB) om yttranderätt<br>för ersättare vid<br>kommunfullmäktiges<br>sammanträden | 2024-00853 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till dels att införandet av yttranderätt för<br>icke-tjänstgörande ersättare i kommunfullmäktige<br>skulle förändra sammanträdesordningen, dels att<br>kommunfullmäktige i jämförelse med andra<br>beslutande församlingar redan har en numerärt god<br>representation. |
 | 23. | Svar på motion från Ermin<br>Škorić (S) om vård- och<br>omsorgsboenden utan<br>vinstkrav | 2024-00796 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att det inte görs någon åtskillnad<br>mellan vinstdrivande och icke vinstdrivande aktörer<br>och att nämnden för Vård & Omsorg i kommande<br>upphandling av vård- och omsorgsboenden kommer<br>att säkerställa att alla aktörer får lika möjligheter<br>samt att nämnden i kommande årsplaner för<br>konkurrensutsättning kommer att utreda och föreslå<br>konkurrensutsättning av verksamheter på ett sätt som<br>ger alla typer av aktörer lika möjligheter. |
+| 24. | Svar på motion från Shabnam<br>Zamani (S) om att utreda<br>införandet av avgiftsfri<br>skolfrukost i Kungsbacka<br>kommuns gymnasieskolor | 2024-00668 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till dels att förslaget innebär en<br>kostnadsökning som inte kan finansieras inom<br>nämnden för Gymnasium & Arbetsmarknads<br>befintliga budgetram, dels att det skulle vara ett<br>åtagande som går utöver skollagens krav och som om<br>det införs skulle kräva besparingar som påverkar<br>nämndens övriga verksamheter. |
+| 25. | Svar på motion från Roger<br>Larsson (KB) om att inrätta av<br>ett kommunalt pensionärsråd | 2024-00850 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att kommunen redan har etablerade<br>forum, verktyg och mötesplatser för dialog,<br>samverkan och medskapande med kommunens<br>seniorer och pensionärer. |
+| 26. | Svar på motion från Ermin<br>Škorić (S) m.fl. om att utreda<br>och presentera ett förslag på<br>hur ett pensionärs- och<br>seniorråd ska inrättas i<br>Kungsbacka | 2024-00863 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att kommunen redan har etablerade<br>forum, verktyg och mötesplatser för dialog,<br>samverkan och medskapande med kommunens<br>seniorer och pensionärer. |
 
 <!-- sida 7 -->
 
@@ -138,14 +126,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Patrik Johansson
 ordförande                        kommunsekreterare
-
-[Tabell 7-1](handlingar.tabeller/7-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 24. | Svar på motion från Shabnam<br>Zamani (S) om att utreda<br>införandet av avgiftsfri<br>skolfrukost i Kungsbacka<br>kommuns gymnasieskolor | 2024-00668 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till dels att förslaget innebär en<br>kostnadsökning som inte kan finansieras inom<br>nämnden för Gymnasium & Arbetsmarknads<br>befintliga budgetram, dels att det skulle vara ett<br>åtagande som går utöver skollagens krav och som om<br>det införs skulle kräva besparingar som påverkar<br>nämndens övriga verksamheter. |
-| 25. | Svar på motion från Roger<br>Larsson (KB) om att inrätta av<br>ett kommunalt pensionärsråd | 2024-00850 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att kommunen redan har etablerade<br>forum, verktyg och mötesplatser för dialog,<br>samverkan och medskapande med kommunens<br>seniorer och pensionärer. |
-| 26. | Svar på motion från Ermin<br>Škorić (S) m.fl. om att utreda<br>och presentera ett förslag på<br>hur ett pensionärs- och<br>seniorråd ska inrättas i<br>Kungsbacka | 2024-00863 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att kommunen redan har etablerade<br>forum, verktyg och mötesplatser för dialog,<br>samverkan och medskapande med kommunens<br>seniorer och pensionärer. |
 
 <!-- sida 8 -->
 
@@ -1892,10 +1872,10 @@ UPPDRAGSNUMMER SKAPAD AV
 TELEFON KONTAKTPERSON
 BYGGNADSVERK PLUSHÖJD (RH 2000)
 VÅNINGSPLANVÅNINGSDEL DELOMRÅDE
-SYSTEM SPECIFIKATION
+SYSTEM
+SPECIFIKATION
 D R O IT K N U IN M G E S N K T A N T U E M G M O E R R I SKALA F Ä4O NAR D M R0I A N T.G8A0
-72:83:12
-12-11-4202
+72:83:1212-11-4202
 tvr.42R-6643-000-V-04-A/anerA
 akcabsgnuK//:scoD
 ksedotuA
@@ -1935,21 +1915,6 @@ Skiss
 
 [Tabell 49-1](handlingar.tabeller/49-1.csv)
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-[Tabell 49-2](handlingar.tabeller/49-2.csv)
-
 |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |
@@ -1983,9 +1948,9 @@ SKALA 1:5001 5METER
 
 8
 :NMANLIF
-S O E R K IE T N IO T N ERINGSFIGURAAAAA-----4444410000-----11111-----111111111143210++++116251,,83,,830000 PP PPLLAALLAANNNN 11 101132
+S O E R K IE T N IO T N ERINGSFIGURAAAAA-----4444410000-----11111-----111111111143210++++116251,,83,,830000PP PPLLAALLAANNNN 11101132
 SHDBTEAAASNTTUTDUÄMLSLINLGAREGODKÄND AV ÄNDRINGS PM
-POPBDUTBVSSRD E RRYYÅYP IP IO MS T LGGNSE P OO K R N CETC DI GG JJ U Å INIF NE EEP I RNN M D FGOMG KKLAAAI E ESNI K TT S GNDD NPA NN K SSS TLT AU A N-V NAI IMM TO DUENUE NM NRM MG E KM MO RE ER R RVIÅNINGSDEL AFFSKPD AÖDKOLEUSARRLNTSOPEETIHAMASTGÖDAKS R HG TJÅ EADPD TV E(ERRHS O20N00)SKALAFÄ4ONARDMR0IANT.G8A0 53:05:01 90-40-5202 tvr.42R-6643-000-V-04-A/anerA akcabsgnuK//:scoD ksedotuA
+POPBDUTBVSSRD E RRYYÅYP IP IO MS T LGGNSE P OO K R N CETC DI GG JJ U Å INIF NE EEP I RNN M D FGOMG KKLAAAI E ESNI K TT S GNDD NPA NN K SSS TLT AU A N-V NAI IMM TO DUENUE NM NRM MG E KM MO RE ER R RVIÅNINGSDEL AFFSKPD AÖDKOLEUSARRLNTSOPEETIHAMASTGÖDAKS R HG TJÅ EADPD TVE(ERRHS O20N00)SKALAFÄ4ONARDMR0IANT.G8A0 53:05:0190-40-5202 tvr.42R-6643-000-V-04-A/anerA akcabsgnuK//:scoD ksedotuA
 Hall      A
 \- Ett eget universum
 Gestaltningen av Hall A grundar sig liksom övriga ytor på flexibilitet,                                                             2.
@@ -2052,8 +2017,11 @@ nérmeS
 
 ©
 Kungsbacka Arena - Bilaga 1 - 2025-04-14
-3
-
+1
+1
+2
+DA CB C.D B . .A.                                             3
+1
 3
 1
 
@@ -2065,10 +2033,13 @@ SEKTION
 AAAAA ----- 44444 10000 ----- 11111 ----- 11111 11111 43210 ++++116251,,83,,830000 PP PPLLLLAAAANNNN 11 111032
 ORIENTERINGSFIGUR
 B SHDE TAA A S NT T UT DU ÄMLS L IN L G ARE GODKÄND AV ÄNDRINGS PM
-D SSR POPBDUTBV E YP R RY YÅ OI IP M T S L SE G GN O O P KN R C E TC D I G G U J J I Å N I F N E E E P I R M N N D F G O M G K K LA I A A E E S K I N T T S GND D N P A N N K S S S T L T A U A N - V N A I M IM TO D U EN UE N M N R M MG E K M MO R E ER R R V I ÅNINGSDELD AFFSKP AÖ D KOLEU S A L R R N O T S P E E T I H A M S T A G Ö DA S K R HG TJÅ E A DP D T V E(ERRHS O20N00) SKALA FÄ4ONARDMR0IANT.G8A0 53:05:01 90-40-5202 tvr.42R-6643-000-V-04-A/anerA akcabsgnuK//:scoD ksedotuA
+D SSR POPBDUTBV E YP R RY YÅ OI IP M T S L SE G GN O O P KN R C E TC D I G G U J J I Å N I F N E E E P I R M N N D F G O M G K K LA I A A E E S K I N T T S GND D N P A N N K S S S T L T A U A N - V N A I M IM TO D U EN UE N M N R M MG E K M MO R E ER R R V I ÅNINGSDELD AFFSKP AÖ D KOLEU S A L R R N O T S P E E T I H A M S T A G Ö DA S K R HG TJÅ E A DP D T V E(ERRHS O20N00) SKALA FÄ4ONARDMR0IANT.G8A0 53:05:0190-40-5202 tvr.42R-6643-000-V-04-A/anerA akcabsgnuK//:scoD ksedotuA
 Vid t.ex. elitmatch eller konsert med
 sittning på läktaren, leds besökaren
 upp och når Hall A via denna våning
+KIOSK/SERVERING
+ÖPPET
+NER
 KIOSK/SERVERING
 2024-09S-2Y7 GSTREAMNHSAKNNDINLGING
 1 A 4 30A14P Z- 9 43 00RPZ 2 61 0EL 6 6- - - 7 SSAP - K 64 aEN 03 L m U N - R 0 A mTI N T 2 Aa N N G 0 Tn I 0 Is NO 1 S a G KSPK+- Nt 1 t B 2 9 UE.A A r , SM R e N R 3 5A E d 0I GR 6 N C o G ( SÉ 3 v FBE K i BN G s 3 AR A n A ) & 7 CS i C n KTM g K A RL AÅ 1 U R Ö : N 5 4 NM 0 S E : D 6S5 N O A N ARK.
@@ -2078,12 +2049,6 @@ Länkrum            RWC/WC/förråd/städ  Läktargång        Hall A           
 VIP-rum/                              Scen/Plats för
 Hall B                                 Kiosk/servering                       Vertikal kommunikation
 mötesrum/media                        tillfällig läktare
-
-[Tabell 52-1](handlingar.tabeller/52-1.csv)
-
-| KI<br>NER<br>ÖPPET<br>1<br>1<br>2<br>DA CB C.D B . .A. | OSK/SERVERING |
-| --- | --- |
-|  | 1 |
 
 <!-- sida 53 -->
 
@@ -2125,7 +2090,7 @@ SEKTION
 AAAAA ----- 44444 10000 ----- 11111 ----- 11111 11111 43210 ++++116251,,83,,830000 PP PPLLLLAAAANNNN 11 111032
 ORIENTERINGSFIGUR
 B SHDE TAA A S NT T UT DU ÄMLS L IN L G ARE GODKÄND AV ÄNDRINGS PM
-D SSR POPBDUTBV E YP R RY YÅ OI IP M T S L SE G GN O O P KN R C E TC D I G G U J J I Å N I F N E E E P I R M N N D F G O M G K K LA I A A E E S K I N T T S GND D N P A N N K S S S T L T A U A N - V N A I M IM TO D U EN UE N M N R M MG E K M MO R E ER R R V I ÅNINGSDELD AFFSKP AÖ D KOLEU S A L R R N O T S P E E T I H A M S T A G Ö DA S K R HG TJÅ E A DP D T V E(ERRHS O20N00) SKALA FÄ4ONARDMR0IANT.G8A0 54:05:01 90-40-5202 tvr.42R-6643-000-V-04-A/anerA akcabsgnuK//:scoD ksedotuA
+D SSR POPBDUTBV E YP R RY YÅ OI IP M T S L SE G GN O O P KN R C E TC D I G G U J J I Å N I F N E E E P I R M N N D F G O M G K K LA I A A E E S K I N T T S GND D N P A N N K S S S T L T A U A N - V N A I M IM TO D U EN UE N M N R M MG E K M MO R E ER R R V I ÅNINGSDELD AFFSKP AÖ D KOLEU S A L R R N O T S P E E T I H A M S T A G Ö DA S K R HG TJÅ E A DP D T V E(ERRHS O20N00) SKALA FÄ4ONARDMR0IANT.G8A0 54:05:0190-40-5202 tvr.42R-6643-000-V-04-A/anerA akcabsgnuK//:scoD ksedotuA
 2024-09S-2Y7 GSTREAMNHSAKNNDINLGING
 1 A 4 30A14P Z- 9 43 00RPZ 2 61 0EL 6 6- - - 7 SSAP - K 64 aEN 03 L m U N - R 0 A mTI N T 2 Aa N N G 0 Tn I 0 Is NO 1 S a G KSPK+- Nt 3 t B 2 9 UE.A A r , C SM R e N R 3 5A E od 0I GR 6 N C po G ( SÉ 3 yv FBE K i BN G s1 3 AR A n A ) & 7 C CS i C n o KTM g K A p RL AÅ y1 U R Ö : N 5 4 1 NM 0 S E : D 6S5 N O A N ARK.
 5202
@@ -4451,7 +4416,7 @@ som avstår, beslutar att ärendet ska avgöras i dag.
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 102-1](handlingar.tabeller/102-1.csv)
+[Tabell 102-103-1](handlingar.tabeller/102-103-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -4481,37 +4446,7 @@ Justerare                         Expedierat/bestyrkt
 | Kalle Påsse Sundvall | (M) | Alla |  |  |  | X |  |
 | Henrik Arnesson | (C) | Alla |  | X |  |  |  |
 | Marie Wadström | (KD) | Alla |  |  | X |  |  |
-
-<!-- sida 103 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          7 (11)
-Kommunfullmäktige
-Datum
-2021-04-13
-
-Ordföranden prövar sedan Peter Söderbergs (M) m.fl. återremissyrkande mot att
-ärendet ska avgöras i dag, och finner att kommunfullmäktige beslutar att ärendet ska
-avgöras i dag.
-
-Omröstning begärs och verkställs.
-Ordföranden redovisar följande propositionsordning som kommunfullmäktige
-
-godkänner:
-Ja-röst innebär att ärendet ska avgöras i dag.
-Nej-röst innebär att ärendet ska återremitteras enligt Peter Söderbergs (M) m.fl.
-återremissyrkande.
-
-Omröstningsresultat
-
-Ordföranden finner att kommunfullmäktige, med 45 ja-röster mot 11 nej-röster och 5
-som avstår, beslutar att ärendet ska avgöras i dag.
-
-Justerare                         Expedierat/bestyrkt
-
-[Tabell 103-1](handlingar.tabeller/103-1.csv)
-
 | Monica Neptun | (L) | Alla |  | X |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Stephan Philipson | (M) | Alla |  | X |  |  |  |
 | Elisabeth Lyckevall | (S) | Alla | G ert Svensson | X |  |  |  |
 | Roger Krantz | (SD) | Alla |  | X |  |  |  |
@@ -4548,27 +4483,40 @@ Justerare                         Expedierat/bestyrkt
 | Anders Ekström | (M) | Alla |  | X |  |  |  |
 | SUMMA: |  |  |  | 48 | 9 | 4 | 0 |
 
-[Tabell 103-2](handlingar.tabeller/103-2.csv)
+<!-- sida 103 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          7 (11)
+Kommunfullmäktige
+Datum
+2021-04-13
+
+Ordföranden prövar sedan Peter Söderbergs (M) m.fl. återremissyrkande mot att
+ärendet ska avgöras i dag, och finner att kommunfullmäktige beslutar att ärendet ska
+avgöras i dag.
+
+Omröstning begärs och verkställs.
+Ordföranden redovisar följande propositionsordning som kommunfullmäktige
+
+godkänner:
+Ja-röst innebär att ärendet ska avgöras i dag.
+Nej-röst innebär att ärendet ska återremitteras enligt Peter Söderbergs (M) m.fl.
+återremissyrkande.
+
+Omröstningsresultat
+
+Ordföranden finner att kommunfullmäktige, med 45 ja-röster mot 11 nej-röster och 5
+som avstår, beslutar att ärendet ska avgöras i dag.
+
+Justerare                         Expedierat/bestyrkt
+
+[Tabell 103-104-1](handlingar.tabeller/103-104-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Lisa Andersson | (M) | Aslla |  | X |  |  |  |
 | Eva Borg | (S) | Alla |  | X |  |  |  |
 | Carita Boulwén | (SD) | Alla |  | X |  |  |  |
-
-<!-- sida 104 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          8 (11)
-Kommunfullmäktige
-Datum
-2021-04-13
-
-Justerare                         Expedierat/bestyrkt
-
-[Tabell 104-1](handlingar.tabeller/104-1.csv)
-
 | Fredrik Hansson | (C) | Alla |  | X |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Andreas Johansson | (M) | Alla |  |  |  | X |  |
 | Ulrika Landergren | (L) | Alla |  | X |  |  |  |
 | Christian Johansson | (M) | Alla |  | X |  |  |  |
@@ -4628,6 +4576,15 @@ Justerare                         Expedierat/bestyrkt
 | Anders Ekström | (M) | Alla |  | X |  |  |  |
 | SUMMA: |  |  |  | 45 | 11 | 5 | 0 |
 
+<!-- sida 104 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          8 (11)
+Kommunfullmäktige
+Datum
+2021-04-13
+
+Justerare                         Expedierat/bestyrkt
+
 <!-- sida 105 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          9 (11)
@@ -4651,7 +4608,7 @@ som avstår, beslutar enligt kommunstyrelsens förslag.
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 105-1](handlingar.tabeller/105-1.csv)
+[Tabell 105-106-1](handlingar.tabeller/105-106-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -4698,6 +4655,25 @@ Justerare                         Expedierat/bestyrkt
 | Axel Storckenfeldt | (M) | Alla |  | X |  |  |  |
 | Sara Heikkinen Breitholtz | (S) | Alla | B ritt Tönnberg | X |  |  |  |
 | Peter Wesley | (KD) | Alla |  |  | X |  |  |
+| Peter Söderberg | (M) | Alla |  |  | X |  |  |
+| Kenth Wallin | (SD) | Alla |  | X |  |  |  |
+| Kristina Rasmussen | (V) | Alla |  |  |  | X |  |
+| Franklin Eck | (M) | Alla |  |  | X |  |  |
+| Elin Hysén | (L) | Alla |  | X |  |  |  |
+| Rickard Wäst | (S) | Alla |  | X |  |  |  |
+| Heinrich Kaufmann | (C) | Alla |  | X |  |  |  |
+| Per-Axel Carlsson | (M) | Alla |  | X |  |  |  |
+| Tobias Eriksson | (SD) | Alla |  | X |  |  |  |
+| Berit Bergström | (M) | Alla |  | X |  |  |  |
+| Maj-Britt Rane-Andersson | (S) | Alla |  | X |  |  |  |
+| Karin Green | (C) | Alla |  |  | X |  |  |
+| Ann-Helene Reimertz | (M) | Alla |  |  | X |  |  |
+| Madelene Höök | (L) | Alla |  | X |  |  |  |
+| Thord Brynielsson | (SD) | Alla | S tefan Vilumsons | X |  |  |  |
+| Per Stenberg | (M) | Alla |  | X |  |  |  |
+| Ulrika Högstrand | (KD) | Alla |  |  | X |  |  |
+| Anders Ekström | (M) | Alla |  | X |  |  |  |
+| SUMMA: |  |  |  | 45 | 12 | 4 | 0 |
 
 <!-- sida 106 -->
 
@@ -4722,30 +4698,7 @@ Ordföranden finner att kommunfullmäktige, med 31 ja-röster mot 16 nej-röster
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 106-1](handlingar.tabeller/106-1.csv)
-
-| Peter Söderberg | (M) | Alla |  |  | X |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Kenth Wallin | (SD) | Alla |  | X |  |  |  |
-| Kristina Rasmussen | (V) | Alla |  |  |  | X |  |
-| Franklin Eck | (M) | Alla |  |  | X |  |  |
-| Elin Hysén | (L) | Alla |  | X |  |  |  |
-| Rickard Wäst | (S) | Alla |  | X |  |  |  |
-| Heinrich Kaufmann | (C) | Alla |  | X |  |  |  |
-| Per-Axel Carlsson | (M) | Alla |  | X |  |  |  |
-| Tobias Eriksson | (SD) | Alla |  | X |  |  |  |
-| Berit Bergström | (M) | Alla |  | X |  |  |  |
-| Maj-Britt Rane-Andersson | (S) | Alla |  | X |  |  |  |
-| Karin Green | (C) | Alla |  |  | X |  |  |
-| Ann-Helene Reimertz | (M) | Alla |  |  | X |  |  |
-| Madelene Höök | (L) | Alla |  | X |  |  |  |
-| Thord Brynielsson | (SD) | Alla | S tefan Vilumsons | X |  |  |  |
-| Per Stenberg | (M) | Alla |  | X |  |  |  |
-| Ulrika Högstrand | (KD) | Alla |  |  | X |  |  |
-| Anders Ekström | (M) | Alla |  | X |  |  |  |
-| SUMMA: |  |  |  | 45 | 12 | 4 | 0 |
-
-[Tabell 106-2](handlingar.tabeller/106-2.csv)
+[Tabell 106-107-1](handlingar.tabeller/106-107-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -4770,24 +4723,7 @@ Justerare                         Expedierat/bestyrkt
 | Bengt Alderin | (C) | Alla |  | X |  |  |  |
 | Maria Rasmussen | (V) | Alla |  |  | X |  |  |
 | Filip Berndtsson | (M) | Alla |  | X |  |  |  |
-
-<!-- sida 107 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          11 (11)
-Kommunfullmäktige
-Datum
-2021-04-13
-
-Beslutet skickas till
-
-Samtliga nämnder
-
-Justerare                         Expedierat/bestyrkt
-
-[Tabell 107-1](handlingar.tabeller/107-1.csv)
-
 | Lars Eriksson | (S) | Alla |  |  | X |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Susanne Andersson | (SD) | Alla |  |  |  | X |  |
 | Kalle Påsse Sundvall | (M) | Alla |  |  |  | X |  |
 | Henrik Arnesson | (C) | Alla |  | X |  |  |  |
@@ -4828,6 +4764,19 @@ Justerare                         Expedierat/bestyrkt
 | Ulrika Högstrand | (KD) | Alla |  | X |  |  |  |
 | Anders Ekström | (M) | Alla |  | X |  |  |  |
 | SUMMA: |  |  |  | 31 | 16 | 14 | 0 |
+
+<!-- sida 107 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          11 (11)
+Kommunfullmäktige
+Datum
+2021-04-13
+
+Beslutet skickas till
+
+Samtliga nämnder
+
+Justerare                         Expedierat/bestyrkt
 
 <!-- sida 108 -->
 
@@ -15229,25 +15178,44 @@ För tillståndspliktiga avloppsreningsanläggningar som omfattas av Natur-
 vårdsverkets föreskrifter (NFS 2016:6) om rening och kontroll av utsläpp av
 avloppsvatten från tätbebyggelse ska följande rapporteras:
 
-(NFS 2019:7)
+Anslutning              - Tillståndsgiven anslutning (pe)
+\- Dimensionerande kapacitet (pe)
+Belastning              - Maximal genomsnittlig veckobelastning
+från tätbebyggelsen (pe)\*
 
+\- Inkommande maximal genomsnittlig
+veckobelastning för året (pe)\*
+\- Inkommande belastning beräknat som
+årsmedelvärde (pe)
+
+Inkommande till         - COD , BOD , totalfosfor och totalkväve
+Cr    7
+avloppsrenings-anläggning i mängd och halt (kg, mg/l)
+\- Flöde (1 000 m3)
+Utgående från avloppseningsan- - COD , BOD , totalfosfor, totalkväve,
+Cr    7
+läggning                NH -N, Hg, Cd, Pb, Cu, Zn, Cr och Ni i
+4
+mängd och halt (kg, mg/l) samt flöde (1 000
+m3) för utgående renat avloppsvatten, bräd-
+dat i eller vid avloppsreningsanläggningen,
+och sammanvägd utgående mängd och halt
+inklusive bräddning i eller vid avloppse-
+ningsanläggningen
+Efterlevnad av begränsningsvär- - COD (förvalda alternativ anges)\*\*
+Cr
+den i NFS 2016:6        - BOD (förvalda alternativ anges)\*\*
+7
+\- Totalkväve (förvalda alternativ anges)\*\*\*
+\- Totalfosfor (förvalda alternativ anges)
+(NFS 2019:7)
 \* Även bedömningsunderlaget ska redovisas.
 \*\* Om efterlevnad sker genom högsta koncentration per mättillfälle eller
 minsta procentuella reduktion per mättillfälle ska samtliga provtagningsdatum
 med analysresultat redovisas.
-
 \*\*\* Om efterlevnad sker genom procentuell reduktion ska beräkning redovisas.
 Beräkningen ska utgå från reduktionen i avloppsreningsanläggningen och
 naturlig kväveretention
-
-[Tabell 338-1](handlingar.tabeller/338-1.csv)
-
-| Anslutning | - Tillståndsgiven anslutning (pe)<br>- Dimensionerande kapacitet (pe) |
-| --- | --- |
-| Belastning | - Maximal genomsnittlig veckobelastning<br>från tätbebyggelsen (pe)\*<br>- Inkommande maximal genomsnittlig<br>veckobelastning för året (pe)\*<br>- Inkommande belastning beräknat som<br>årsmedelvärde (pe) |
-| Inkommande till<br>avloppsrenings-anläggning | - COD , BOD , totalfosfor och totalkväve<br>Cr 7<br>i mängd och halt (kg, mg/l)<br>- Flöde (1 000 m3) |
-| Utgående från avloppseningsan-<br>läggning | - COD , BOD , totalfosfor, totalkväve,<br>Cr 7<br>NH -N, Hg, Cd, Pb, Cu, Zn, Cr och Ni i<br>4<br>mängd och halt (kg, mg/l) samt flöde (1 000<br>m3) för utgående renat avloppsvatten, bräd-<br>dat i eller vid avloppsreningsanläggningen,<br>och sammanvägd utgående mängd och halt<br>inklusive bräddning i eller vid avloppse-<br>ningsanläggningen |
-| Efterlevnad av begränsningsvär-<br>den i NFS 2016:6 | - COD (förvalda alternativ anges)\*\*<br>Cr<br>- BOD (förvalda alternativ anges)\*\*<br>7<br>- Totalkväve (förvalda alternativ anges)\*\*\*<br>- Totalfosfor (förvalda alternativ anges) |
 
 <!-- sida 339 -->
 
@@ -18381,7 +18349,7 @@ NY KONSTGRÄSPLAN
 
 BÅTKLUBB
 
-Plan skala 1:1500 (A3)
+Plan skala 1:1500(A3)
 
 ILLUSTRATION FRAMTAGEN   AV MARELD
 
@@ -22342,7 +22310,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 3B8B296F0459A33C401A8F42225F61D80ECF02E4EF
 Transaktionsidentitet: C559B96C499F418CD88F6CF293537893AFED199430
 
-[Tabell 490-1](handlingar.tabeller/490-1.csv)
+[Tabell 490-491-1](handlingar.tabeller/490-491-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -22353,6 +22321,14 @@ Transaktionsidentitet: C559B96C499F418CD88F6CF293537893AFED199430
 | Thure Sandén (M) | X |  |  |
 | Magdalena Sundqvist (S) |  | X |  |
 | Johan Tolinsson (S) |  | X |  |
+| Stefan Jägnert (SD) |  | X |  |
+| Stefan Vilumsons (SD) |  | X |  |
+| Fredrik Hansson (C) | X |  |  |
+| Monica Neptun (L) | X |  |  |
+| Fredrik Kollberg (KD) | X |  |  |
+| Patrik Jervne Henestam (V) |  | X |  |
+| Maria Losman (MP) |  | X |  |
+| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 491 -->
 
@@ -22377,18 +22353,6 @@ Samtliga nämnder, Kommunstyrelsens förvaltning: kansliet, HR
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 3B8B296F0459A33C401A8F42225F61D80ECF02E4EF
 Transaktionsidentitet: C559B96C499F418CD88F6CF293537893AFED199430
-
-[Tabell 491-1](handlingar.tabeller/491-1.csv)
-
-| Stefan Jägnert (SD) |  | X |  |
-| --- | --- | --- | --- |
-| Stefan Vilumsons (SD) |  | X |  |
-| Fredrik Hansson (C) | X |  |  |
-| Monica Neptun (L) | X |  |  |
-| Fredrik Kollberg (KD) | X |  |  |
-| Patrik Jervne Henestam (V) |  | X |  |
-| Maria Losman (MP) |  | X |  |
-| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 492 -->
 
@@ -24236,66 +24200,73 @@ För Stenungsund, Tjörn och Lilla Edets kommuner gäller taxan från 1 septembe
 För utförande av föreskriven brandskyddskontroll enligt 3 kap. 4 § lag om skydd
 mot olyckor (2003:778) utgår ersättning enligt denna taxa.
 
-1
+1   Objekt i småhus
+Kronor   Kronor
+exklusive inklusive
+moms     moms
 
-1.1
+1.1 Grundavgift för inställelse
+Inställelse för utförande av brandskyddskontroll.     316      395
 
-1.2
+1.2 Avgift för kontroll av eldstad med tillhörande rökkanal
+947     1184
+1.3 Avgift för kontroll av ytterligare eldstad
+463      579
 
-1.3
+1.4 Avgift för ombokning
+Då fastighetsägaren eller nyttjanderättshavaren ombokat senare än 48 helgfria
+316      395
+timmar före aviserat besök, uttas en grundavgift.
+1.5 Avgift för beställning av icke aviserad kontroll
+För kontroll av anläggning som inte varit i bruk eller inte kontrollerats, utgår
+631      789
+ersättning utöver ordinarie pris.
+1.6 Avgift för ej tillträde
+Då kontrollen inte kunnat utföras pga. att det inte getts tillträde till fastigheten
+enligt avisering och särskilda skäl för detta inte förelegat, utgår ersättning för det 316 395
+aviserade besöket med en grundavgift.
 
-1.4
+2   Övriga objekt
 
-1.5
+2.1 Kontrollavgift
+Kontrollavgift utgår med pris (timersättning) som anges i 3.3.
 
-1.6
+2.2 Avgift för ej tillträde
+Då kontrollen inte kunnat utföras pga. att det inte getts tillträde till fastigheten
+enligt avisering och särskilda skäl för detta inte förelegat, utgår ersättning för det 947 1184
 
-2
-
-2.1
-
-2.2
+aviserade besöket.
 
 1 (2)
-
-[Tabell 533-1](handlingar.tabeller/533-1.csv)
-
-| Objekt i småhus | Kronor<br>exklusive<br>moms | Kronor<br>inklusive<br>moms |
-| --- | --- | --- |
-| Grundavgift för inställelse<br>Inställelse för utförande av brandskyddskontroll. | 316 | 395 |
-| Avgift för kontroll av eldstad med tillhörande rökkanal | 947 | 1184 |
-| Avgift för kontroll av ytterligare eldstad | 463 | 579 |
-| Avgift för ombokning<br>Då fastighetsägaren eller nyttjanderättshavaren ombokat senare än 48 helgfria<br>timmar före aviserat besök, uttas en grundavgift. | 316 | 395 |
-| Avgift för beställning av icke aviserad kontroll<br>För kontroll av anläggning som inte varit i bruk eller inte kontrollerats, utgår<br>ersättning utöver ordinarie pris. | 631 | 789 |
-| Avgift för ej tillträde<br>Då kontrollen inte kunnat utföras pga. att det inte getts tillträde till fastigheten<br>enligt avisering och särskilda skäl för detta inte förelegat, utgår ersättning för det<br>aviserade besöket med en grundavgift. | 316 | 395 |
-| Övriga objekt |  |  |
-| Kontrollavgift<br>Kontrollavgift utgår med pris (timersättning) som anges i 3.3. |  |  |
-| Avgift för ej tillträde<br>Då kontrollen inte kunnat utföras pga. att det inte getts tillträde till fastigheten<br>enligt avisering och särskilda skäl för detta inte förelegat, utgår ersättning för det<br>aviserade besöket. | 947 | 1184 |
 
 <!-- sida 534 -->
 
 Dnr 2025/350               Bilaga 1
 
-3
+3   Särskilda bestämmelser
 
-3.1
+3.1 Avgift för efterkontroll
+För separat utförd efterkontroll av brandskyddsåtgärd eller då kontrollen inte har kunnat slutföras utgår
+ersättning med pris (timersättning) som anges i 3.3.
 
-3.2
+3.2 Avgift för kontroll utförd utom ordinarie arbetstid
+För kontroll utförd utom ordinarie arbetstid orsakat av att objektet inte är tillgängligt under ordinarie
+arbetstid, utgår ersättning med pris (timersättning) som anges i 3.3 samt tillägg motsvarande de
+merkostnader som arbetet föranleder.
 
-3.3
+3.3 Timersättning                                         Kronor Exklusive moms
 
-3.4
+Timersättning utgår per person.                           1 262
+En påbörjad kvartstimme räknas som en hel kvartstimme.
+
+Vid beräkning av arbetstidens längd inräknas förflyttningstiden till och från Kronor Inklusive moms
+arbetsplatsen.                                            1 578
+
+3.4 Indexreglering av taxan
+Ersättning för brandskyddskontroll enligt denna taxa revideras årligen med prisindex för kommunal
+verksamhet.
 
 2 (2)
-
-[Tabell 534-1](handlingar.tabeller/534-1.csv)
-
-| Särskilda bestämmelser |  |
-| --- | --- |
-| Avgift för efterkontroll<br>För separat utförd efterkontroll av brandskyddsåtgärd eller då kontrollen inte har kunnat slutföras utgår<br>ersättning med pris (timersättning) som anges i 3.3. |  |
-| Avgift för kontroll utförd utom ordinarie arbetstid<br>För kontroll utförd utom ordinarie arbetstid orsakat av att objektet inte är tillgängligt under ordinarie<br>arbetstid, utgår ersättning med pris (timersättning) som anges i 3.3 samt tillägg motsvarande de<br>merkostnader som arbetet föranleder. |  |
-| Timersättning<br>Timersättning utgår per person.<br>En påbörjad kvartstimme räknas som en hel kvartstimme.<br>Vid beräkning av arbetstidens längd inräknas förflyttningstiden till och från<br>arbetsplatsen. | Kronor Exklusive moms<br>1 262<br>Kronor Inklusive moms<br>1 578 |
-| Indexreglering av taxan<br>Ersättning för brandskyddskontroll enligt denna taxa revideras årligen med prisindex för kommunal<br>verksamhet. |  |
 
 <!-- sida 535 -->
 
@@ -24553,29 +24524,37 @@ Lönerevision 2025 i procent                    3,4
 Pålägg för sociala avgifter, pensioner m.m. i procent 40
 
 Antal kontroller eldstad, 45 min + 15 min    15 543
-Genomsnittlig arbetstid per kontroll (h)     1 ,00
+Genomsnittlig arbetstid per kontroll (h)     1,00
 Arbetstid                                    15 543
 Ytterligare eldstad, 22 min                   3 021
-Genomsnittlig arbetstid per kontroll (h)     0 ,37
+Genomsnittlig arbetstid per kontroll (h)     0,37
 Arbetstid                                     1 108
 Antal kontroller eldstad, 90 min              1 128
-Genomsnittlig arbetstid per kontroll (h)     1 ,50
+Genomsnittlig arbetstid per kontroll (h)     1,50
 Arbetstid                                     1 692
 Storpannor                                     120
-Genomsnittlig arbetstid per kontroll (h)     1 ,00
+Genomsnittlig arbetstid per kontroll (h)     1,00
 Arbetstid                                      120
 Antal kontroller imkanaler, 120 min           2 357
-Genomsnittlig arbetstid per kontroll (h)     2 ,00
+Genomsnittlig arbetstid per kontroll (h)     2,00
 Arbetstid                                     4 714
 Totalt antal kontroller                      22 169
 Totalt antal timmar (h)                      23 177
 
-[Tabell 541-1](handlingar.tabeller/541-1.csv)
+Kr/h    Pålägg Kostnad
+504           Personalkostnad för BSK per produktionstimme
+284     OH 1  Pålägg för planering och ledning
+788           Personalkostnad för BSK samt ledning och planering
 
-| Kr/h | Pålägg | Kostnad |
-| --- | --- | --- |
-| 504<br>284<br>788<br>20<br>208<br>1 015<br>189<br>1 204<br>58 | OH 1<br>OH 2<br>MO<br>OH 3 | Personalkostnad för BSK per produktionstimme<br>Pålägg för planering och ledning<br>Personalkostnad för BSK samt ledning och planering<br>Pålägg för avdelningens ledningsadministration<br>Pålägg för materialomkostnader<br>Delsumma 1<br>Pålägg för förbundets gemensamma ledning samt stödfunktioner<br>Timkostnad 2025 års nivå<br>Uppräkning med 4,8 % till 2026 års nivå enligt PKV, Prisindex kommunal verksamhet |
-| 1 262 |  | Framräknad kostad per timme som ligger till grund för 2026 års taxa |
+20      OH 2  Pålägg för avdelningens ledningsadministration
+208     MO    Pålägg för materialomkostnader
+1 015         Delsumma 1
+
+189     OH 3  Pålägg för förbundets gemensamma ledning samt stödfunktioner
+1 204         Timkostnad 2025 års nivå
+
+58            Uppräkning med 4,8 % till 2026 års nivå enligt PKV, Prisindex kommunal verksamhet
+1 262         Framräknad kostad per timme som ligger till grund för 2026 års taxa
 
 <!-- sida 542 -->
 
@@ -24590,7 +24569,7 @@ OH 1 - OH för planering och ledning
 Belopp i kronor för planering och ledning som ska taxefinaniseras 6 576 932
 Antal timmar                                 23 177
 
-Kostnad per timme för planering och ledning  2 84
+Kostnad per timme för planering och ledning  284
 
 OH 2 - OH för avdelningens centrala funktion
 
@@ -24648,7 +24627,9 @@ Centralt OH i procent         18,6
 
 | Brandskyddskontrollen | Årskostnad<br>tkr | tkr |
 | --- | --- | --- |
-| Personalkostnader<br>Verksamhetskostnader<br>Kapitaltjänstkostnader | 9 038<br>1 291<br>1 092 | 1 291<br>1 092 |
+| Personalkostnader | 9 038 |  |
+| Verksamhetskostnader | 1 291 | 1 291 |
+| Kapitaltjänstkostnader | 1 092 | 1 092 |
 | Summa kostnader | 11 421 | 2 383 |
 
 <!-- sida 544 -->
@@ -25140,9 +25121,23 @@ Nedanstående servicenivåer gäller för tjänster och produkter specificerad i
 Tjänstespecifikation i Cesar2. Servicenivå gäller enligt Cesars standard för SN 0 om
 inget annat avtalats.
 
+Service-                              Felavhjälpning
+Tillgänglighet Felanmälan Servicetid      Åtgärdstid
+nivå                                   påbörjad
+Helgfri Inom 4 timmar
+Fiber: 99,50% Dygnet                    Inom 12 timmar
+vardag  Helgfri vardag
+SN 0     Kapacitet: runt alla                    Helgfri vardag
+07.0017.00 07.00-17.00
+98,00%    dagar                         07.00-17.00
+Fiber: 99,70% Dygnet Dygnet  Inom 4 timmar Inom 24 timmar
+SN 1     Kapacitet: runt alla runt alla Dygnet runt alla Dygnet runt alla
+99,00%    dagar    dagar      dagar       dagar
+Fiber: 99,90% Dygnet Dygnet  Inom 4 timmar Inom 8 timmar
+SN 2     Kapacitet: runt alla runt alla Dygnet runt alla Dygnet runt alla
+99,90%    dagar    dagar      dagar       dagar
 •  Tillgänglighet: Tillgänglighet beräknas om inget annat avtalats på årsbasis
 inom servicetid.
-
 •  Tillgänglighet = 100\*(mätperiod-oplanerade avbrott) / mätperiod.
 •  Mätperiod: omfattar Servicetid på årsbasis enligt vald Servicenivå.
 
@@ -25154,14 +25149,6 @@ felanmälan som aktiv felsökning ska ha påbörjats.
 tjänsten åter ska fungera enligt tjänstespecifikation.
 
 Kungsbacka kommun             Bredbandstaxa 2026                4 (9)
-
-[Tabell 556-1](handlingar.tabeller/556-1.csv)
-
-| Service-<br>nivå | Tillgänglighet | Felanmälan | Servicetid | Felavhjälpning<br>påbörjad | Åtgärdstid |
-| --- | --- | --- | --- | --- | --- |
-| SN 0 | Fiber: 99,50%<br>Kapacitet:<br>98,00% | Dygnet<br>runt alla<br>dagar | Helgfri<br>vardag<br>07.0017.00 | Inom 4 timmar<br>Helgfri vardag<br>07.00-17.00 | Inom 12 timmar<br>Helgfri vardag<br>07.00-17.00 |
-| SN 1 | Fiber: 99,70%<br>Kapacitet:<br>99,00% | Dygnet<br>runt alla<br>dagar | Dygnet<br>runt alla<br>dagar | Inom 4 timmar<br>Dygnet runt alla<br>dagar | Inom 24 timmar<br>Dygnet runt alla<br>dagar |
-| SN 2 | Fiber: 99,90%<br>Kapacitet:<br>99,90% | Dygnet<br>runt alla<br>dagar | Dygnet<br>runt alla<br>dagar | Inom 4 timmar<br>Dygnet runt alla<br>dagar | Inom 8 timmar<br>Dygnet runt alla<br>dagar |
 
 <!-- sida 557 -->
 
@@ -25317,11 +25304,13 @@ Kungsbacka kommun             Bredbandstaxa 2026                7 (9)
 | Option Extra effektuttag UPS 230VAC,<br>10A, Drifttid minst 2tim | 350W | 10 000 kr | 450 kr |
 | Option Extra UPS 230VAC, 10A, 2 tim<br>(Drifttid minst 4tim) | 350W | 10 000 kr | 450 kr |
 
-[Tabell 559-4](handlingar.tabeller/559-4.csv)
+[Tabell 559-560-4](handlingar.tabeller/559-560-4.csv)
 
 | Tjänst | Månadsavgift |
 | --- | --- |
 | Månadsavgift svartfiber / kapacitet över 10 Mbit | 2 000 kr |
+| Månadsavgift kapacitet under 10 Mbit | 500 kr |
+| Tillägg Servicenivå SN 2 per förbindelse<br>(+60% på Grundavgiften) | 1 200 kr |
 
 <!-- sida 560 -->
 
@@ -25356,12 +25345,6 @@ Kungsbacka kommun             Bredbandstaxa 2026                8 (9)
 
 [Tabell 560-1](handlingar.tabeller/560-1.csv)
 
-| Månadsavgift kapacitet under 10 Mbit | 500 kr |
-| --- | --- |
-| Tillägg Servicenivå SN 2 per förbindelse<br>(+60% på Grundavgiften) | 1 200 kr |
-
-[Tabell 560-2](handlingar.tabeller/560-2.csv)
-
 | Beskrivning | Engångsavgift\* |
 | --- | --- |
 | Fiberanslutning till villa vid byggnation av ett område i tätort | 20 000 kr |
@@ -25369,7 +25352,7 @@ Kungsbacka kommun             Bredbandstaxa 2026                8 (9)
 | Efteranslutning av villa i redan utbyggt område | 29 900 kr |
 | Enskild villa och övriga fiberanslutningar | Offert |
 
-[Tabell 560-3](handlingar.tabeller/560-3.csv)
+[Tabell 560-2](handlingar.tabeller/560-2.csv)
 
 | Servicenivå | Pris |
 | --- | --- |

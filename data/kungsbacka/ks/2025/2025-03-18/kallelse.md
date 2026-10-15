@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.13ca62a51956d150599cc09b/1741848436
 sha256: 27bd87d92c09c0e4e38c57599e0e7045da4217588ebc47f965f8b897915f2703
 bytes: 211591
 sidor: 5
-hamtad: 2026-10-08T09:14:10+00:00
-konverterad: 2026-10-08T09:14:19+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:05:55+00:00
+konverterad: 2026-10-15T07:06:02+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -77,23 +77,12 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
+[Tabell 3-5-1](kallelse.tabeller/3-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 9. | Fördelning av medel avsatta<br>för arbete med civil beredskap<br>2025 | 2024-00828 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen omfördelar 3 000 000 kronor från<br>centrala finansverksamheten för 2025 till nämnden<br>för Service.<br>Kommunstyrelsen omfördelar 1 500 000 kronor från<br>centrala finansverksamheten för 2025 till nämnden<br>för Teknik.<br>Kommunstyrelsen omfördelar 1 100 000 kronor från<br>centrala finansverksamheten för 2025 till nämnden<br>för Förskola & Grundskola.<br>Kommunstyrelsen omfördelar 250 000 kronor från<br>centrala finansverksamheten för 2025 till nämnden<br>för Gymnasium & Arbetsmarknad.<br>Kommunstyrelsen omfördelar 250 000 kronor från<br>centrala finansverksamheten för 2025 till<br>byggnadsnämnden.<br>Kommunstyrelsen omfördelar 550 000 kronor från<br>centrala finansverksamheten för 2025 till nämnden<br>för Kultur & Fritid.<br>Kommunstyrelsen omfördelar 2 100 000 kronor från<br>centrala finansverksamheten för 2025 till nämnden<br>för Vård & Omsorg.<br>Kommunstyrelsen omfördelar 250 000 kronor från<br>centrala finansverksamheten för 2025 till nämnden<br>för Individ & Familjeomsorg.<br>Kommunstyrelsen omfördelar 1 000 000 kronor från<br>centrala finansverksamheten för 2025 till<br>kommunstyrelsen. |
 | 10. | Begäran om planbesked för<br>Mossen 3:2 (Ebbagården) | 2024-00820 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Mossen 3:2 skifte 1 och 5 i<br>Onsala. |
-
-<!-- sida 4 -->
-
-KUNGSBACKA  KOMMUN
-
-4(5)
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 11. | Begäran om planbesked för<br>Lyngås 3:3 | 2024-00811 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av bostäder i befintliga byggnader inom<br>Lyngås 3:3, i Onsala.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för bostäder inom Lyngås 3:3, i Onsala. |
 | 12. | Svar på Göteborgs stads remiss<br>av samrådsförslag för ändring<br>av översiktsplan för Göteborgs<br>stad | 2025-00075 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-02-25,<br>och översänder det som sitt svar till Göteborgs stad. |
 | 13. | Svar på Varbergs kommuns<br>remiss av samrådsförslag för<br>ny översiktsplan för Varbergs<br>kommun | 2024-00840 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-02-03,<br>och översänder det som sitt svar till Varbergs<br>kommun. |
@@ -101,6 +90,15 @@ KUNGSBACKA  KOMMUN
 | 15. | Svar på Socialdepartementets<br>remiss av betänkandet Stärkt<br>medicinsk kompetens i<br>kommunal hälso- och sjukvård<br>(SOU 2024:72) | 2024-00808 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-02-14,<br>och översänder som sitt svar till Socialdepartementet. |
 | 16. | Svar på Socialdepartementets<br>remiss av betänkandet Ett<br>språkkrav för språkutveckling<br>(SOU 2024:78) | 2024-00879 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-02-26<br>och översänder det som sitt svar till<br>Socialdepartementet. |
 | 17. | Svar på Göteborgsregionens<br>remiss av samrådsunderlag<br>inför budget för<br>Göteborgsregionen 2026 | 2025-00211 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen har inget att erinra mot<br>samrådsunderlag inför budget 2026 för<br>Göteborgsregionens kommunalförbund. |
+| 18. | Anmälan av delegeringsbeslut | 2025-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
+| 19. | Redovisning av inkomna<br>skrivelser | 2025-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
+| 20. | Svar på motion från Magdalena<br>Sundqvist (S) om att undersöka<br>möjligheterna för samverkan<br>med högskola eller universitet<br>för att etablera högre<br>utbildningar i Kungsbacka | 2024-00219 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till dels att högre utbildning redan har<br>bedrivits i kommunen men avvecklats till följd av för<br>få sökande och svårigheter att få verksamheten att<br>bära sig ekonomiskt, dels att den samverkan som<br>gymnasieskolorna i dag bedriver med universitet och<br>högskolor bör vara så omfattande som det finns<br>förutsättningar för i kommunen. |
+
+<!-- sida 4 -->
+
+KUNGSBACKA  KOMMUN
+
+4(5)
 
 <!-- sida 5 -->
 
@@ -110,11 +108,3 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Patrik Johansson
 ordförande                        kommunsekreterare
-
-[Tabell 5-1](kallelse.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 18. | Anmälan av delegeringsbeslut | 2025-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
-| 19. | Redovisning av inkomna<br>skrivelser | 2025-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
-| 20. | Svar på motion från Magdalena<br>Sundqvist (S) om att undersöka<br>möjligheterna för samverkan<br>med högskola eller universitet<br>för att etablera högre<br>utbildningar i Kungsbacka | 2024-00219 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till dels att högre utbildning redan har<br>bedrivits i kommunen men avvecklats till följd av för<br>få sökande och svårigheter att få verksamheten att<br>bära sig ekonomiskt, dels att den samverkan som<br>gymnasieskolorna i dag bedriver med universitet och<br>högskolor bör vara så omfattande som det finns<br>förutsättningar för i kommunen. |

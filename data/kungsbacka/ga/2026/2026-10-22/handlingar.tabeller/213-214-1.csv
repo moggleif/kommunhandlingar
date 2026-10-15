@@ -1,0 +1,50 @@
+Verksamhetstyp:,Vård och omsorg,,,,
+Verksamhetsområde:,Individ och familjeomsorg,,,,
+Processgrupp:,Administration inom individ och familjeomsorg,,,,
+Process:,Hantera ekonomiskt bistånd,,,,
+Processnummer:,6.2.1.3,,,,
+"Bevarande och
+gallring:","När det i kolumnen ”Bevara/Gallra” anges ""5 år/Bevaras"" betyder det att handlingar bevaras i enlighet med 16 kap. § § 1-5
+Socialtjänstlagen. Handlingar rörande personer födda den 5:e, 15:e eller 25:e i varje månad samt ärenden rörande placerade
+barn bevaras. Övriga handlingar gallras 5 år efter sista anteckning.",,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Utreda ekonomiskt
+bistånd","Ansökan från enskild om
+bistånd, med bilagor",Viva,Digitalt,5 år/Bevaras,
+,"Ärendeblad, journalblad",Viva,Digitalt,5 år/Bevaras,
+,"Utredning i enskilt
+ärende om bistånd",Viva,Digitalt,5 år/Bevaras,
+,"Beslut i enskilt ärende
+om bistånd",Viva,Digitalt,5 år/Bevaras,
+,"Överklagan, med bilagor",Viva,Digitalt,5 år/Bevaras,
+,"Yttrande till
+förvaltningsdomstol",Viva,Digitalt,5 år/Bevaras,
+,"Beslut/dom i
+förvaltningsdomstol",Viva,Digitalt,5 år/Bevaras,
+,Återkravshandling,Viva,Digitalt,5 år/Bevaras,
+,"Dokumentation av
+planering som rör den
+enskilde",Viva,Digitalt,5 år/Bevaras,"T.ex. överenskommelser,
+handlingsplaner, individuell plan vid
+aktivitetskrav eller arbetslivsinriktad
+rehabilitering, uppdragsbeskrivning"
+,Läkarintyg,Viva,Digitalt,5 år/Bevaras,
+,"Registerkontroll som
+utgör underlag för beslut",Viva,Digitalt,5 år/Bevaras,
+,"Registerkontroll som
+endast har tillfällig
+betydelse",Viva,Digitalt,Vid inaktualitet,
+,"Inkomna, utgående
+och/eller upprättade
+handlingar av tillfällig
+betydelse eller
+rutinmässig karaktär",Viva,Digitalt,Vid inaktualitet,
+,"Kallelse till möte med
+handläggare m.m.",Viva,Digitalt,Se anm.,"Gallring förutsatt att det inte tillför ärendet
+någon sakuppgift eller påverkar beslut."
+,"Meddelande från
+hyresvärd, elbolag,
+Kronofogdemyndighet
+om skulder, uppsägning
+och avhysning, i
+pågående ärende",Viva,Digitalt,Vid inaktualitet,

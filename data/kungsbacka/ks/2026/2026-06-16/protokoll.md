@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.657a7c4219ed4412bae7ae2/17817863801
 sha256: 43db1986f8416fd80ec42624988b1531387e44b94959ebd854a23d5e9dade3bd
 bytes: 532103
 sidor: 44
-hamtad: 2026-10-08T09:11:56+00:00
-konverterad: 2026-10-08T09:12:03+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:04:07+00:00
+konverterad: 2026-10-15T07:04:15+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1582,7 +1582,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: D16467F3D306B8DB228D9F11823B3E52D13C28C8F9
 Transaktionsidentitet: 1992EB02EA89FB9D8D282BE84BAA782C5EF003B03B
 
-[Tabell 36-1](protokoll.tabeller/36-1.csv)
+[Tabell 36-37-1](protokoll.tabeller/36-37-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -1593,6 +1593,9 @@ Transaktionsidentitet: 1992EB02EA89FB9D8D282BE84BAA782C5EF003B03B
 | Kommunekolog | Yttrande över Länsstyrelsen i Hallands läns remiss<br>om vattenverksamhet enligt 11 kap. miljöbalken -<br>Nedläggning av ledning, rör, kabel - Hede 9:26 |
 | Kommunekolog | Yttrande över Länsstyrelsen i Hallands läns remiss<br>om vattenverksamhet enligt 11 kap. miljöbalken -<br>Tröskling och anläggning av våtmark (Lillån) -<br>Älvsåker 8:1, 3:24 |
 | Kommunekolog | Yttrande över Skogsstyrelsens remiss: Samråd –<br>Planerad naturvårdande skötsel inom biotopskydd<br>på fastigheten Nolgärde 1:1 |
+| Kommunekolog | Yttrande över Länsstyrelsen i Hallands läns remiss<br>om vattenverksamhet enligt 11 kap. miljöbalken -<br>Nedläggning av ledning, rör, kabel - Tölö 4:148 |
+| Kommunekolog | Yttrande över Länsstyrelsen i Hallands läns remiss<br>om vattenverksamhet enligt 11 kap. miljöbalken -<br>Förläggning av fiberoptisk sjökabel Lerkil-Saeby -<br>Buera 12:1 |
+| Kommunekolog | Yttrande över Länsstyrelsen i Hallands läns remiss<br>om vattenverksamhet enligt 11 kap. miljöbalken -<br>Nedläggning av trumma - Bröndome 3:2 |
 
 <!-- sida 37 -->
 
@@ -1610,13 +1613,6 @@ redovisningen av delegeringsbeslut fattade under perioden 2026-04-01 till
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: D16467F3D306B8DB228D9F11823B3E52D13C28C8F9
 Transaktionsidentitet: 1992EB02EA89FB9D8D282BE84BAA782C5EF003B03B
-
-[Tabell 37-1](protokoll.tabeller/37-1.csv)
-
-| Kommunekolog | Yttrande över Länsstyrelsen i Hallands läns remiss<br>om vattenverksamhet enligt 11 kap. miljöbalken -<br>Nedläggning av ledning, rör, kabel - Tölö 4:148 |
-| --- | --- |
-| Kommunekolog | Yttrande över Länsstyrelsen i Hallands läns remiss<br>om vattenverksamhet enligt 11 kap. miljöbalken -<br>Förläggning av fiberoptisk sjökabel Lerkil-Saeby -<br>Buera 12:1 |
-| Kommunekolog | Yttrande över Länsstyrelsen i Hallands läns remiss<br>om vattenverksamhet enligt 11 kap. miljöbalken -<br>Nedläggning av trumma - Bröndome 3:2 |
 
 <!-- sida 38 -->
 

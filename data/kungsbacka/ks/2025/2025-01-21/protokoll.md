@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7080f49f194742605d8a14a1/1737616989
 sha256: 5c9e818da65f7fb952c9e40507d3f713a84937b3777dce9e322014332d0a6046
 bytes: 793764
 sidor: 45
-hamtad: 2026-10-08T09:09:49+00:00
-konverterad: 2026-10-08T09:09:56+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:01:55+00:00
+konverterad: 2026-10-15T07:02:01+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1541,7 +1541,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: EE669FAB0C478E1BCAF8B6AD619D62AC4D584B6261
 Transaktionsidentitet: B5E50773EEFD923E27625CA065B3A59AA75664C612
 
-[Tabell 34-1](protokoll.tabeller/34-1.csv)
+[Tabell 34-35-1](protokoll.tabeller/34-35-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -1553,6 +1553,9 @@ Transaktionsidentitet: B5E50773EEFD923E27625CA065B3A59AA75664C612
 | Biträdande kommundirektör | Projektavtal - En gemensam digital assistent för<br>offentlig sektor |
 | Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>Trafikverkets Avgränsningssamråd - Strategisk<br>miljöbedömning av nationell plan för<br>transportinfrastrukturen 2026–2037 |
 | Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>Justitiedepartementets remiss om skärpta krav<br>för offentliga biträden och höjda kompetenskrav för<br>tolkar i migrationsärenden (Ju2024/02299) |
+| Mark- och exploateringschef | Avtal om lägenhetsarrende parkering - Hammerö<br>15:6 |
+| Markingenjör | Markupplåtelseavtal Ellevio - Frillesås-Rya S:6 |
+| Exploateringshandläggare | Servitutsavtal Vallby 7:13 |
 
 <!-- sida 35 -->
 
@@ -1570,13 +1573,6 @@ redovisningen av delegeringsbeslut fattade under perioden 2024-10-07 till
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: EE669FAB0C478E1BCAF8B6AD619D62AC4D584B6261
 Transaktionsidentitet: B5E50773EEFD923E27625CA065B3A59AA75664C612
-
-[Tabell 35-1](protokoll.tabeller/35-1.csv)
-
-| Mark- och exploateringschef | Avtal om lägenhetsarrende parkering - Hammerö<br>15:6 |
-| --- | --- |
-| Markingenjör | Markupplåtelseavtal Ellevio - Frillesås-Rya S:6 |
-| Exploateringshandläggare | Servitutsavtal Vallby 7:13 |
 
 <!-- sida 36 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2e20b236192bd38de2d4c00/17297708039
 sha256: 322b0ec31282ef25273f341fb927c864e4ba455d08c871fc6c48af7a8202fca0
 bytes: 691225
 sidor: 42
-hamtad: 2026-10-08T09:08:33+00:00
-konverterad: 2026-10-08T09:09:34+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:01:28+00:00
+konverterad: 2026-10-15T07:01:35+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -698,7 +698,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: E9EA6493FBF6704ABF3DFAB861B724E36F14F1A54F
 Transaktionsidentitet: 1BBF8A365AD87EA53E584D47F282040D4C82A6E720
 
-[Tabell 15-1](protokoll.tabeller/15-1.csv)
+[Tabell 15-16-1](protokoll.tabeller/15-16-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -713,6 +713,10 @@ Transaktionsidentitet: 1BBF8A365AD87EA53E584D47F282040D4C82A6E720
 | Stefan Vilumsons (SD) |  | X |  |
 | Fredrik Hansson (C) |  | X |  |
 | Monica Neptun (L) | X |  |  |
+| Fredrik Kollberg (KD) | X |  |  |
+| Ann-Louise Lundqvist (S) |  | X |  |
+| Maria Losman (MP) |  | X |  |
+| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 16 -->
 
@@ -734,14 +738,6 @@ Sökanden
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: E9EA6493FBF6704ABF3DFAB861B724E36F14F1A54F
 Transaktionsidentitet: 1BBF8A365AD87EA53E584D47F282040D4C82A6E720
-
-[Tabell 16-1](protokoll.tabeller/16-1.csv)
-
-| Fredrik Kollberg (KD) | X |  |  |
-| --- | --- | --- | --- |
-| Ann-Louise Lundqvist (S) |  | X |  |
-| Maria Losman (MP) |  | X |  |
-| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 17 -->
 
@@ -1327,7 +1323,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: E9EA6493FBF6704ABF3DFAB861B724E36F14F1A54F
 Transaktionsidentitet: 1BBF8A365AD87EA53E584D47F282040D4C82A6E720
 
-[Tabell 31-1](protokoll.tabeller/31-1.csv)
+[Tabell 31-32-1](protokoll.tabeller/31-32-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -1341,6 +1337,13 @@ Transaktionsidentitet: 1BBF8A365AD87EA53E584D47F282040D4C82A6E720
 | Specialist mark- och<br>exploatering | Markupplåtelseavtal Ellevio - Frillesås-Rya 2:1 |
 | Mark- och exploateringschef | Markupplåtelseavtal Ellevio - Heberg 1:2 |
 | Mark- och exploateringschef | Markupplåtelseavtal Ellevio - Tölö 8:12 |
+| Specialist mark- och<br>exploatering | Nyttjanderättsavtal för etableringsyta och upplag -<br>Frillesås-Rya 2:134 |
+| Specialist mark- och<br>exploatering | Avtal om nyttjanderätt för byggparkering - Kolla<br>5:147 |
+| Exploateringshandläggare | Servitutsavtal Stockalid 1:22 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Stockalid 1:10 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Rösan 8:1 - Vattenledning |
+| Exploateringshandläggare | Servitutsavtal Buera 4:7 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Buera 4:22 - Teleledningar |
 
 <!-- sida 32 -->
 
@@ -1357,17 +1360,6 @@ redovisningen av delegeringsbeslut fattade under perioden 2024-04-22 till
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: E9EA6493FBF6704ABF3DFAB861B724E36F14F1A54F
 Transaktionsidentitet: 1BBF8A365AD87EA53E584D47F282040D4C82A6E720
-
-[Tabell 32-1](protokoll.tabeller/32-1.csv)
-
-| Specialist mark- och<br>exploatering | Nyttjanderättsavtal för etableringsyta och upplag -<br>Frillesås-Rya 2:134 |
-| --- | --- |
-| Specialist mark- och<br>exploatering | Avtal om nyttjanderätt för byggparkering - Kolla<br>5:147 |
-| Exploateringshandläggare | Servitutsavtal Stockalid 1:22 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Stockalid 1:10 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Rösan 8:1 - Vattenledning |
-| Exploateringshandläggare | Servitutsavtal Buera 4:7 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Buera 4:22 - Teleledningar |
 
 <!-- sida 33 -->
 
@@ -1705,7 +1697,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: E9EA6493FBF6704ABF3DFAB861B724E36F14F1A54F
 Transaktionsidentitet: 1BBF8A365AD87EA53E584D47F282040D4C82A6E720
 
-[Tabell 39-1](protokoll.tabeller/39-1.csv)
+[Tabell 39-40-1](protokoll.tabeller/39-40-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -1720,6 +1712,10 @@ Transaktionsidentitet: 1BBF8A365AD87EA53E584D47F282040D4C82A6E720
 | Stefan Vilumsons (SD) | X |  |  |
 | Fredrik Hansson (C) |  | X |  |
 | Monica Neptun (L) |  | X |  |
+| Fredrik Kollberg (KD) | X |  |  |
+| Ann-Louise Lundqvist (S) |  | X |  |
+| Maria Losman (MP) |  | X |  |
+| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 40 -->
 
@@ -1741,14 +1737,6 @@ Samtliga nämnder
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: E9EA6493FBF6704ABF3DFAB861B724E36F14F1A54F
 Transaktionsidentitet: 1BBF8A365AD87EA53E584D47F282040D4C82A6E720
-
-[Tabell 40-1](protokoll.tabeller/40-1.csv)
-
-| Fredrik Kollberg (KD) | X |  |  |
-| --- | --- | --- | --- |
-| Ann-Louise Lundqvist (S) |  | X |  |
-| Maria Losman (MP) |  | X |  |
-| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 41 -->
 

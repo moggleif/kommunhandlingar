@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.10708ba619b353ddef6dfc46/1768461355
 sha256: b06c12ac496c997113928719b5add57d16e9e8e3dbe421eb8e0372c5577d81ed
 bytes: 231725
 sidor: 6
-hamtad: 2026-10-08T09:15:09+00:00
-konverterad: 2026-10-08T09:15:15+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:06:56+00:00
+konverterad: 2026-10-15T07:07:03+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -61,7 +61,7 @@ KUNGSBACKA  KOMMUN
 
 2(6)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-3-1](kallelse.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -70,6 +70,10 @@ KUNGSBACKA  KOMMUN
 | 7. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa – Öka<br>utbudet av aktiviteter på<br>särskilda boenden<br>(Kultur & Fritid) | 2025-00968 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>500 000 kronor från centrala finansverksamheten för<br>2026 till nämnden för Kultur & Fritid. |
 | 8. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa –<br>Sommarkulturskolan 2026<br>(Kultur & Fritid) | 2025-00896 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>800 000 kronor från centrala finansverksamheten för<br>2026 till nämnden för Kultur & Fritid. |
 | 9. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa –<br>Ökat välmående på anpassad<br>grundskola<br>(Förskola & Grundskola) | 2025-00869 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>500 000 kronor från centrala finansverksamheten för<br>2026 till nämnden för Förskola & Grundskola. |
+| 10. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa –<br>Praktikinsatser inom<br>gymnasieskola (Gymnasium &<br>Arbetsmarknad) | 2025-00873 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>500 000 kronor från centrala finansverksamheten för<br>2026 till nämnden för Gymnasium & Arbetsmarknad. |
+| 11. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa –<br>Förstärkt psykosocialt stöd<br>inom gymnasieskola<br>(Gymnasium &<br>Arbetsmarknad) | 2025-00873 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>700 000 kronor från centrala finansverksamheten för<br>2026 till nämnden för Gymnasium & Arbetsmarknad. |
+| 12. | Godkännande av arrendeavtal<br>för Åsagrillen på fastigheten<br>Åsa 4:118 | 2025-00497 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner arrendeavtal med<br>Åsagrillen AB (organisationsnummer 556793–4194)<br>avseende mark för gatukiosk på fastigheten Åsa<br>4:118, undertecknat av Åsagrillen AB 2025-12-16.<br>Kommunstyrelsens ordförande samt<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet. |
+| 13. | Begäran om planbesked för del<br>av Össlöv 2:3 och del av<br>Össlöv S:3 | 2025-00585 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom del av Össlöv 2:3 och del av<br>Össlöv s:3. |
 
 <!-- sida 3 -->
 
@@ -77,22 +81,13 @@ KUNGSBACKA  KOMMUN
 
 3(6)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 10. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa –<br>Praktikinsatser inom<br>gymnasieskola (Gymnasium &<br>Arbetsmarknad) | 2025-00873 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>500 000 kronor från centrala finansverksamheten för<br>2026 till nämnden för Gymnasium & Arbetsmarknad. |
-| 11. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa –<br>Förstärkt psykosocialt stöd<br>inom gymnasieskola<br>(Gymnasium &<br>Arbetsmarknad) | 2025-00873 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>700 000 kronor från centrala finansverksamheten för<br>2026 till nämnden för Gymnasium & Arbetsmarknad. |
-| 12. | Godkännande av arrendeavtal<br>för Åsagrillen på fastigheten<br>Åsa 4:118 | 2025-00497 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner arrendeavtal med<br>Åsagrillen AB (organisationsnummer 556793–4194)<br>avseende mark för gatukiosk på fastigheten Åsa<br>4:118, undertecknat av Åsagrillen AB 2025-12-16.<br>Kommunstyrelsens ordförande samt<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet. |
-| 13. | Begäran om planbesked för del<br>av Össlöv 2:3 och del av<br>Össlöv S:3 | 2025-00585 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom del av Össlöv 2:3 och del av<br>Össlöv s:3. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(6)
 
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
+[Tabell 4-5-1](kallelse.tabeller/4-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -100,21 +95,16 @@ KUNGSBACKA  KOMMUN
 | 15. | Svar på remiss av<br>Bostadsförsörjningsprogram<br>2026 för Mölndals stad | 2025-00874 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-01-13,<br>och översänder det som sitt svar till Mölndals stad. |
 | 16. | Anmälan av delegeringsbeslut | 2026-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
 | 17. | Anmälan av ordförandebeslut | 2026-00007 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
+| 18. | Redovisning av inkomna<br>skrivelser | 2026-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
+| 19. | Antagande av arbetsordning<br>för kommunfullmäktige | 2025-00534 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar arbetsordning för<br>kommunfullmäktige, daterad 2025-12-01.<br>Arbetsordning för kommunfullmäktige, antagen av<br>kommunfullmäktige 2019-04-09, § 44, upphör<br>samtidigt att gälla. |
+| 20. | Priser och utmärkelser i<br>Kungsbacka kommun | 2024-00605 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beslutar att Hållbarhetspriset,<br>Lära för livet-priset och Arkitekturpriset ska<br>avvecklas. Styrdokumenten som reglerar dessa priser<br>upphör samtidigt att gälla.<br>Leva livet-priset, studentstipendium inom Vård och<br>Omsorg och Självständigt liv ska inte längre ska<br>delas ut i kommunfullmäktige utan överlåtas till<br>nämnden för Vård & Omsorg respektive nämnden för<br>Individ & Familjeomsorg. Nämnderna beslutar<br>framöver om prisernas framtid och utformning samt<br>om de styrdokument som reglerar priserna. |
+| 21. | Revidering av lokala<br>föreskrifter till skydd för<br>människors hälsa och miljö | 2025-00889 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Lokala föreskrifter till<br>skydd för människors hälsa och miljön, daterade<br>2025-10-30.<br>Lokala föreskrifter till skydd för människors hälsa<br>och miljön, antagna av kommunfullmäktige<br>2018-11-06, § 189, upphör samtidigt att gälla. |
 
 <!-- sida 5 -->
 
 KUNGSBACKA  KOMMUN
 
 5(6)
-
-[Tabell 5-1](kallelse.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 18. | Redovisning av inkomna<br>skrivelser | 2026-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
-| 19. | Antagande av arbetsordning<br>för kommunfullmäktige | 2025-00534 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar arbetsordning för<br>kommunfullmäktige, daterad 2025-12-01.<br>Arbetsordning för kommunfullmäktige, antagen av<br>kommunfullmäktige 2019-04-09, § 44, upphör<br>samtidigt att gälla. |
-| 20. | Priser och utmärkelser i<br>Kungsbacka kommun | 2024-00605 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beslutar att Hållbarhetspriset,<br>Lära för livet-priset och Arkitekturpriset ska<br>avvecklas. Styrdokumenten som reglerar dessa priser<br>upphör samtidigt att gälla.<br>Leva livet-priset, studentstipendium inom Vård och<br>Omsorg och Självständigt liv ska inte längre ska<br>delas ut i kommunfullmäktige utan överlåtas till<br>nämnden för Vård & Omsorg respektive nämnden för<br>Individ & Familjeomsorg. Nämnderna beslutar<br>framöver om prisernas framtid och utformning samt<br>om de styrdokument som reglerar priserna. |
-| 21. | Revidering av lokala<br>föreskrifter till skydd för<br>människors hälsa och miljö | 2025-00889 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Lokala föreskrifter till<br>skydd för människors hälsa och miljön, daterade<br>2025-10-30.<br>Lokala föreskrifter till skydd för människors hälsa<br>och miljön, antagna av kommunfullmäktige<br>2018-11-06, § 189, upphör samtidigt att gälla. |
 
 <!-- sida 6 -->
 

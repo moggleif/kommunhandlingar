@@ -1,0 +1,34 @@
+Verksamhetstyp:,Vård och omsorg,,,,
+Verksamhetsområde:,Individ och familjeomsorg,,,,
+Processgrupp:,Administration inom individ och familjeomsorg,,,,
+Process:,Hantera bistånd boende,,,,
+Processnummer:,6.2.1.4,,,,
+"Bevarande och
+gallring:","När det i kolumnen ”Bevara/Gallra” anges ""5 år/Bevaras"" betyder det att handlingar bevaras i enlighet med 16 kap. § § 1-5
+Socialtjänstlagen. Handlingar rörande personer födda den 5:e, 15:e eller 25:e i varje månad samt ärenden rörande placerade
+barn bevaras. Övriga handlingar gallras 5 år efter sista anteckning.",,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Aktualisera,"Ansökan med eventuella
+bilagor",Viva,Digitalt,5 år/Bevaras,
+,"Ärendeblad, journalblad",Viva,Digitalt,5 år/Bevaras,
+Utreda,"Utredning i enskilt
+ärende",Viva,Digitalt,5 år/Bevaras,
+,Barnsamtal,Viva,Digitalt,5 år/Bevaras,
+,Föräldrasamtal,Viva,Digitalt,5 år/Bevaras,
+,Barnkonsekvensanalys,Viva,Digitalt,5 år/Bevaras,
+,"Inkomna, utgående
+och/eller upprättade
+handlingar av tillfällig
+betydelse eller
+rutinmässig karaktär",Viva,Digitalt,Vid inaktualitet,
+Besluta,"Beslut i enskilt ärende
+om bistånd",Viva,Digitalt,5 år/Bevaras,
+,"Dokumentation av
+planering som rör den
+enskilde, t.ex. boplan",Viva,Digitalt,5 år/Bevaras,
+,Hyreskontrakt,Viva,Digitalt,5 år/Bevaras,Avser hyreskontrakt med den enskilde
+,"Överklagan, med bilagor",Viva,Digitalt,5 år/Bevaras,
+,"Yttrande till
+förvaltningsdomstol",Viva,Digitalt,5 år/Bevaras,
+,"Beslut/dom från
+förvaltningsdomstol",Viva,Digitalt,5 år/Bevaras,

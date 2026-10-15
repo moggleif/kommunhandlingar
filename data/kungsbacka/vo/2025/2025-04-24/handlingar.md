@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6d76bb7f1963d5107e673c96/1745304843
 sha256: b3b5e65f7d7b2e572b701fa84edb7df622e4879b37cf63678c9157202220cd9f
 bytes: 8778359
 sidor: 154
-hamtad: 2026-10-08T08:32:56+00:00
-konverterad: 2026-10-08T08:33:35+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T06:24:23+00:00
+konverterad: 2026-10-15T06:25:07+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [96, 97, 102, 107]
-figurer: null
-tolkade: null
+figurer: [21, 36, 37, 38, 39, 40, 41, 42, 43, 47, 70, 72, 75, 76, 78, 108]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -2823,33 +2823,25 @@ Sammanfattande bedömningar utifrån revisionsfrågor
 
 22
 
-[Tabell 66-1](handlingar.tabeller/66-1.csv)
+[Tabell 66-68-1](handlingar.tabeller/66-68-1.csv)
 
 | Revisionsfråga | Bedömning |  |
 | --- | --- | --- |
 | Har målbilden<br>konkretiserats i mätbara<br>mål, aktiviteter och planer? | Delvis. Bedömningen baseras på att det<br>finns en beslutad målbild som utarbetats<br>tillsammans med länets kommuner, samt en<br>gemensam färdplan. Däremot saknas<br>mätbara mål och tillhörande aktiviteter för att<br>följa utvecklingen mot en nära vård.<br>Färdplanen innehåller inte specifika åtgärder<br>för att uppnå målbilden.<br>Nämnden för Vård & Omsorg har antagit<br>övergripande mål som att främja kontinuitet,<br>personcentrering och minska<br>personalomsättningen. Dessa mål är dock<br>övergripande mål och inte specifika mål som<br>berör omställning till en god och nära vård.<br>Det pågår en rad aktiviteter inom ramen för<br>nämndens förvaltning, och en organisering<br>GNVO-gruppen för att omhänderta arbetet<br>med nära vård i Kungsbacka kommun, vilket<br>är positivt.<br>Vi bedömer att det behövs en tydligare<br>målstyrning med konkreta, mätbara mål,<br>aktiviteter och planer för att säkerställa<br>genomförandet och kontrollen av<br>omställningen, både i det gemensamma<br>arbetet och i Kungsbacka kommun. |  |
 | Finns det politiska<br>beslut som stödjer<br>processerna till<br>omställningen Nära<br>vård? | Delvis. Vi bedömer att nämnden för Vård &<br>Omsorg har fattat politiska beslut kopplat till<br>välfärdsteknik, andra digitala lösningar och<br>ställt sig bakom förvaltningens arbete med<br>förebyggande, hälsofrämjande och<br>rehabiliterande arbete. Dessa beslut främjar<br>omställningen till nära vård. Nämnden har<br>dock inte fattat några politiska beslut direkt |  |
+|  | kopplat till omställning av nära vård i<br>Kungsbacka kommun. Arbetet kring nära<br>vård bedrivs främst i förvaltningen, och kan<br>därför komma att påverkas av nationella<br>satsningar såsom riktade statsbidrag kring<br>nära vård kan komma att göras om eller<br>försvinna. |  |
+| Finns förutsättningar<br>i verksamheterna<br>med primärvården<br>som nav för att<br>transformera till en<br>omställning till nära<br>vård? (kontinuitet<br>och personcentrerad<br>vård) | Delvis. Granskningen visar att det finns<br>utmaningar att rekrytera och behålla<br>medarbetare med rätt kompetens, vilket<br>påverkar kontinuiteten negativt i<br>verksamheten.<br>Vi bedömer att det är positivt att Kungsbacka<br>kommun satsar på utbildning av nya<br>medarbetare och vidareutbildning vid nya<br>behandlingar eller medicinteknisk utrustning<br>som tidigare inte använts. Granskningen<br>visar att Kungsbacka kommun precis som<br>övriga kommuner i länet tillsammans med<br>Region Halland behöver landa i en samsyn<br>kring vilka patienter som är på<br>primärvårdsnivå.<br>Vi bedömer också att utvecklingen som sker<br>kring den digitala utvecklingen och<br>hjälpmedel som används är nödvändig för att<br>kunna hantera den demografiska<br>utvecklingen. |  |
+| Finns en fungerande<br>samverkansstruktur<br>mellan kommunen<br>och regionen för att<br>hantera såväl<br>strategiska som mer<br>operativa frågor för<br>omställning till nära<br>vård? | Delvis. Vi bedömer att det finns en<br>fungerande samverkansstruktur mellan<br>kommunerna och regionen på en strategisk<br>nivå, och att det finns ett flertal forum i och<br>med RUG och beredningsgruppen där<br>gemensamma initiativ kan processas.<br>Granskningen indikerar att det finns behov<br>av att se över och enas i frågor såsom<br>hemsjukvårdsavtalet och definition kring vad<br>som är primärvårdsnivå, då detta skapar<br>gränsdragningsfrågor och inte stödjer<br>omställningen mot nära vård.<br>Vi bedömer att det finns goda exempel<br>såsom läkarmedverkan i hemsjukvården när<br>samverkan fungerar väl och stödjer<br>omställning till nära vård. Även samverkan<br>med lokala vårdcentraler uppges ha |  |
+|  | förbättrats tack vare de dialoger och<br>förbättringsarbete som sker.<br>Granskningen visar också att det finns brister<br>i vårdkedjan från slutenvården till framförallt<br>korttidsboende i form av bristande<br>informationsöverföring mellan vårdgivare,<br>brister inom läkemedelshantering och<br>läkartillgänglighet. |  |
+| Sker en<br>ändamålsenlig<br>uppföljning och<br>rapportering av<br>relevanta mätetal<br>och aktiviteter till<br>nämnden för Vård &<br>Omsorg? | Delvis. Vi bedömer att det inte genomförts<br>någon uppföljning av Omtanke Halland<br>tillsammans med regionen eller länets<br>kommuner som mäter förflyttningen mot nära<br>vård. Det finns förslag på indikatorer, och<br>granskningen antyder att en första<br>uppföljning kommer att ske under 2025.<br>Det är dock oklart om denna uppföljning<br>kommer att rapporteras till nämnden för Vård<br>& Omsorg.<br>Vi bedömer att det finns ett behov av att<br>delge nämnden om det gemensamma<br>arbetet.<br>Vi bedömer att nämnden för Vård & Omsorg<br>följer upp det kommunövergripande arbetet<br>som sker kring omställning till nära vård,<br>men främst utifrån aktiviteter och inte mätetal<br>som kan mäta en omställning till en mer nära<br>vård. Vi bedömer att detta bör utvecklas. |  |
 
 <!-- sida 67 -->
 
 23
 
-[Tabell 67-1](handlingar.tabeller/67-1.csv)
-
-|  | kopplat till omställning av nära vård i<br>Kungsbacka kommun. Arbetet kring nära<br>vård bedrivs främst i förvaltningen, och kan<br>därför komma att påverkas av nationella<br>satsningar såsom riktade statsbidrag kring<br>nära vård kan komma att göras om eller<br>försvinna. |  |
-| --- | --- | --- |
-| Finns förutsättningar<br>i verksamheterna<br>med primärvården<br>som nav för att<br>transformera till en<br>omställning till nära<br>vård? (kontinuitet<br>och personcentrerad<br>vård) | Delvis. Granskningen visar att det finns<br>utmaningar att rekrytera och behålla<br>medarbetare med rätt kompetens, vilket<br>påverkar kontinuiteten negativt i<br>verksamheten.<br>Vi bedömer att det är positivt att Kungsbacka<br>kommun satsar på utbildning av nya<br>medarbetare och vidareutbildning vid nya<br>behandlingar eller medicinteknisk utrustning<br>som tidigare inte använts. Granskningen<br>visar att Kungsbacka kommun precis som<br>övriga kommuner i länet tillsammans med<br>Region Halland behöver landa i en samsyn<br>kring vilka patienter som är på<br>primärvårdsnivå.<br>Vi bedömer också att utvecklingen som sker<br>kring den digitala utvecklingen och<br>hjälpmedel som används är nödvändig för att<br>kunna hantera den demografiska<br>utvecklingen. |  |
-| Finns en fungerande<br>samverkansstruktur<br>mellan kommunen<br>och regionen för att<br>hantera såväl<br>strategiska som mer<br>operativa frågor för<br>omställning till nära<br>vård? | Delvis. Vi bedömer att det finns en<br>fungerande samverkansstruktur mellan<br>kommunerna och regionen på en strategisk<br>nivå, och att det finns ett flertal forum i och<br>med RUG och beredningsgruppen där<br>gemensamma initiativ kan processas.<br>Granskningen indikerar att det finns behov<br>av att se över och enas i frågor såsom<br>hemsjukvårdsavtalet och definition kring vad<br>som är primärvårdsnivå, då detta skapar<br>gränsdragningsfrågor och inte stödjer<br>omställningen mot nära vård.<br>Vi bedömer att det finns goda exempel<br>såsom läkarmedverkan i hemsjukvården när<br>samverkan fungerar väl och stödjer<br>omställning till nära vård. Även samverkan<br>med lokala vårdcentraler uppges ha |  |
-
 <!-- sida 68 -->
 
 24
-
-[Tabell 68-1](handlingar.tabeller/68-1.csv)
-
-|  | förbättrats tack vare de dialoger och<br>förbättringsarbete som sker.<br>Granskningen visar också att det finns brister<br>i vårdkedjan från slutenvården till framförallt<br>korttidsboende i form av bristande<br>informationsöverföring mellan vårdgivare,<br>brister inom läkemedelshantering och<br>läkartillgänglighet. |  |
-| --- | --- | --- |
-| Sker en<br>ändamålsenlig<br>uppföljning och<br>rapportering av<br>relevanta mätetal<br>och aktiviteter till<br>nämnden för Vård &<br>Omsorg? | Delvis. Vi bedömer att det inte genomförts<br>någon uppföljning av Omtanke Halland<br>tillsammans med regionen eller länets<br>kommuner som mäter förflyttningen mot nära<br>vård. Det finns förslag på indikatorer, och<br>granskningen antyder att en första<br>uppföljning kommer att ske under 2025.<br>Det är dock oklart om denna uppföljning<br>kommer att rapporteras till nämnden för Vård<br>& Omsorg.<br>Vi bedömer att det finns ett behov av att<br>delge nämnden om det gemensamma<br>arbetet.<br>Vi bedömer att nämnden för Vård & Omsorg<br>följer upp det kommunövergripande arbetet<br>som sker kring omställning till nära vård,<br>men främst utifrån aktiviteter och inte mätetal<br>som kan mäta en omställning till en mer nära<br>vård. Vi bedömer att detta bör utvecklas. |  |
 
 <!-- sida 69 -->
 
@@ -3583,11 +3575,13 @@ Kungsbacka kommun             Informationsbeskrivning           4 (7)
 | Informationsbeskrivning | 2023-11-16 NVO § 135 | VO-2023-00149 |
 | Informationsbeskrivning | 2025-XX-XX NVO § XX | VO-2023-00149 |
 
-[Tabell 86-4](handlingar.tabeller/86-4.csv)
+[Tabell 86-87-4](handlingar.tabeller/86-87-4.csv)
 
 | Ärende | Beslutsdatum | Diarienummer |
 | --- | --- | --- |
 | Gallringsbeslut för handlingar som har skannats<br>till Nämnden för Vård & Omsorgs diarium i<br>Lex | 2018-02-21<br>NVO § 20 | VO 2017-00175 |
+| Beslut om att följa Dokumenthanteringsplan för<br>kommungemensamma ledningsprocesser och<br>Dokumenthanteringsplan för<br>kommungemensamma stödprocesser | 2020-11-18<br>NVO § 100 | VO 2020-00566 |
+| Arkivmyndigheten beslutar om obligatorisk<br>klassificeringsstruktur och<br>informationshanteringsplan, tidigare kallad<br>dokumenthanteringsplan, med tillhörande<br>gallringsbeslut för lednings- och stödprocesser för alla<br>kommunens nämnder. | 2022-09-15<br>KF § 197 | KS 2021-00911 |
 
 <!-- sida 87 -->
 
@@ -3605,13 +3599,7 @@ och digitala verktyg hanterar förvaltningen sin information.
 
 Kungsbacka kommun             Informationsbeskrivning           5 (7)
 
-[Tabell 87-1](handlingar.tabeller/87-1.csv)
-
-| Beslut om att följa Dokumenthanteringsplan för<br>kommungemensamma ledningsprocesser och<br>Dokumenthanteringsplan för<br>kommungemensamma stödprocesser | 2020-11-18<br>NVO § 100 | VO 2020-00566 |
-| --- | --- | --- |
-| Arkivmyndigheten beslutar om obligatorisk<br>klassificeringsstruktur och<br>informationshanteringsplan, tidigare kallad<br>dokumenthanteringsplan, med tillhörande<br>gallringsbeslut för lednings- och stödprocesser för alla<br>kommunens nämnder. | 2022-09-15<br>KF § 197 | KS 2021-00911 |
-
-[Tabell 87-2](handlingar.tabeller/87-2.csv)
+[Tabell 87-88-1](handlingar.tabeller/87-88-1.csv)
 
 | System | Kort beskrivning |
 | --- | --- |
@@ -3630,6 +3618,10 @@ Kungsbacka kommun             Informationsbeskrivning           5 (7)
 | ODM | Dokumenthantering för Insidan och<br>samarbetsrum |
 | Omnia | Digital samarbetsplattform. Intranätet<br>Insidan |
 | Personec | Personal och lön |
+| Proceedo | E-handelssystem |
+| Raindance | Ekonomisystem |
+| SEFOS | Verktyg för att hantera meddelanden och<br>videomöten med sekretessuppgifter och<br>känsligt innehåll |
+| Stratsys | Styr- och ledningssystem |
 
 <!-- sida 88 -->
 
@@ -3670,14 +3662,6 @@ Informationsansvarig: Biträdande förvaltningschef
 Informationsredogörare: Utvecklare, verksamhetsnära stöd
 
 Kungsbacka kommun             Informationsbeskrivning           6 (7)
-
-[Tabell 88-1](handlingar.tabeller/88-1.csv)
-
-| Proceedo | E-handelssystem |
-| --- | --- |
-| Raindance | Ekonomisystem |
-| SEFOS | Verktyg för att hantera meddelanden och<br>videomöten med sekretessuppgifter och<br>känsligt innehåll |
-| Stratsys | Styr- och ledningssystem |
 
 <!-- sida 89 -->
 

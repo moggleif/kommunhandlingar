@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.15cb71f819d048622e7677ec/1774257700
 sha256: 22e29e0387c15aa0c8a00b4e15d8dca31309a496aa8197329513ccf1762beb8c
 bytes: 488350
 sidor: 44
-hamtad: 2026-10-08T09:11:34+00:00
-konverterad: 2026-10-08T09:11:40+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:03:40+00:00
+konverterad: 2026-10-15T07:03:47+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -705,7 +705,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: B3A8FFB9A5B54476BAAFF1CA07C3CB542384C1DF5F
 Transaktionsidentitet: C8492B6C5DC512E55871B3BBD4CB29B0CE4EB81A41
 
-[Tabell 16-1](protokoll.tabeller/16-1.csv)
+[Tabell 16-17-1](protokoll.tabeller/16-17-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -717,6 +717,13 @@ Transaktionsidentitet: C8492B6C5DC512E55871B3BBD4CB29B0CE4EB81A41
 | Magdalena Sundqvist (S) |  | X |  |
 | Johan Tolinsson (S) |  | X |  |
 | Stefan Jägnert (SD) | X |  |  |
+| Stefan Vilumsons (SD) | X |  |  |
+| Fredrik Hansson (C) |  | X |  |
+| Monica Neptun (L) |  | X |  |
+| Fredrik Kollberg (KD) |  | X |  |
+| Patrik Jervne Henestam (V) |  | X |  |
+| Maria Losman (MP) |  | X |  |
+| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 17 -->
 
@@ -740,17 +747,6 @@ Kommunstyrelsens förvaltning
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: B3A8FFB9A5B54476BAAFF1CA07C3CB542384C1DF5F
 Transaktionsidentitet: C8492B6C5DC512E55871B3BBD4CB29B0CE4EB81A41
-
-[Tabell 17-1](protokoll.tabeller/17-1.csv)
-
-| Stefan Vilumsons (SD) | X |  |  |
-| --- | --- | --- | --- |
-| Fredrik Hansson (C) |  | X |  |
-| Monica Neptun (L) |  | X |  |
-| Fredrik Kollberg (KD) |  | X |  |
-| Patrik Jervne Henestam (V) |  | X |  |
-| Maria Losman (MP) |  | X |  |
-| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 18 -->
 

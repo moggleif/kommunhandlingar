@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.76caecda1944036d2d5d17dd/1737014048
 sha256: ef3b644057ea81904f787853695b6f74e995b77bad16061eeeda570c6c99e76a
 bytes: 298166803
 sidor: 286
-hamtad: 2026-10-08T10:35:25+00:00
-konverterad: 2026-10-08T10:48:21+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T08:26:34+00:00
+konverterad: 2026-10-15T08:37:46+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 149, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257]
-figurer: null
-tolkade: null
+figurer: [64, 72, 73, 76, 77, 83, 90, 91, 93, 94, 95, 96, 109, 134, 141, 142, 143, 148, 155, 156, 158, 160]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -60,7 +60,7 @@ KUNGSBACKA  KOMMUN
 
 2(6)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-3-1](handlingar.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -68,6 +68,10 @@ KUNGSBACKA  KOMMUN
 | 5. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa –<br>Teknik | 2024-00741 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>500 000 kronor från centrala finansverksamheten för<br>2025 till nämnden för Teknik. |
 | 6. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa –<br>Individ & Familjeomsorg | 2024-00794 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>1 000 000 kronor från centrala finansverksamheten<br>för 2025 till nämnden för Individ & Familjeomsorg. |
 | 7. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa –<br>Kultur & Fritid (Stärkt<br>brottsförebyggande arbete) | 2024-00803 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>1 000 000 kronor från centrala finansverksamheten<br>för 2025 till nämnden för Kultur & Fritid. |
+| 8. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa –<br>Kultur & Fritid (Ökade<br>aktiviteter för äldre på<br>boenden) | 2024-00804 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>500 000 kronor från centrala finansverksamheten för<br>2025 till nämnden för Kultur & Fritid. |
+| 9. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa –<br>Gymnasium & Arbetsmarknad | 2024-00827 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>500 000 kronor från centrala finansverksamheten för<br>2025 till nämnden för Gymnasium & Arbetsmarknad. |
+| 10. | Återrapportering av uppdrag<br>att genomföra reflektion och<br>dialoger om klädsel på<br>arbetsplatsen | 2019-00052 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av de<br>genomförda dialogerna om klädkoder och förklarar<br>uppdraget, som lämnades av kommunstyrelsen<br>26 november 2019, § 273, för avslutat. |
+| 11. | Säkerhetsskyddsavtal vid<br>totalförsvarsplanering | 2023-00864 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner säkerhetsskyddsavtal<br>avseende totalförsvarsplaneringen mellan kommunen<br>och Försvarsmakten, daterat 2024-11-07.<br>Säkerhetsskyddschefen utses att för kommunens<br>räkning underteckna avtalet. |
 
 <!-- sida 3 -->
 
@@ -75,30 +79,45 @@ KUNGSBACKA  KOMMUN
 
 3(6)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa –<br>Kultur & Fritid (Ökade<br>aktiviteter för äldre på<br>boenden) | 2024-00804 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>500 000 kronor från centrala finansverksamheten för<br>2025 till nämnden för Kultur & Fritid. |
-| 9. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa –<br>Gymnasium & Arbetsmarknad | 2024-00827 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>500 000 kronor från centrala finansverksamheten för<br>2025 till nämnden för Gymnasium & Arbetsmarknad. |
-| 10. | Återrapportering av uppdrag<br>att genomföra reflektion och<br>dialoger om klädsel på<br>arbetsplatsen | 2019-00052 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av de<br>genomförda dialogerna om klädkoder och förklarar<br>uppdraget, som lämnades av kommunstyrelsen<br>26 november 2019, § 273, för avslutat. |
-| 11. | Säkerhetsskyddsavtal vid<br>totalförsvarsplanering | 2023-00864 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner säkerhetsskyddsavtal<br>avseende totalförsvarsplaneringen mellan kommunen<br>och Försvarsmakten, daterat 2024-11-07.<br>Säkerhetsskyddschefen utses att för kommunens<br>räkning underteckna avtalet. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(6)
 
+Ärende                Beteckning Förslag
+
+12\. Lönekartläggning 2024 och 2024-00774 Förslag till beslut i kommunstyrelsen
+lönestruktur 2025               Kommunstyrelsen fastställer lönestrukturen för 2025
+enligt nedan:
+
+Kommunstyrelsen godkänner rapport avseende
+lönekartläggning 2024 och uppmanar förvaltningarna
+att i löneöversyn 2025 beakta lönesättningen för
+kvinnodominerande befattningar i BAS-intervall D,
+F, H och J.
+
+Kommunstyrelsen godkänner rapport avseende
+lönekartläggning 2024.
+
+13\. Förändring avseende projekt i 2024-00724 Förslag till beslut i kommunstyrelsen
+lokalplan Kv Liljan skola och   Kommunstyrelsen godkänner att omfattningen på
+idrottssal                      projektet Kvarteret Liljan skola reduceras till 350
+elever från tidigare planerade 525 elever.
+
+Kommunstyrelsen godkänner den totala
+investeringsbudgeten om 200 miljoner kronor.
+
+14\. Principavtal avseende 2024-00842 Förslag till beslut i kommunstyrelsen
+detaljplan för Varla 2:412      Kommunstyrelsen godkänner principavtal avseende
+detaljplan för Varla 2:412 i Kungsbacka,
+undertecknat av Hede Fashion Outlet AB.
+
+Kommunstyrelsens ordförande och
+kommundirektören, eller deras respektive ersättare,
+utses att för kommunens räkning underteckna avtalet.
+
 [Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 12. | Lönekartläggning 2024 och<br>lönestruktur 2025 | 2024-00774 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen fastställer lönestrukturen för 2025<br>enligt nedan:<br>BAS 2025 10 p 2025 90 p<br>A 24 500 29 800<br>B 25 500 33 000<br>C 27 700 36 200<br>D 29 800 39 400<br>E 31 900 43 600<br>F 36 200 49 500<br>G 39 400 53 700<br>H 43 100 58 500<br>I 47 900 63 800<br>J 52 100 69 700<br>Kommunstyrelsen godkänner rapport avseende<br>lönekartläggning 2024 och uppmanar förvaltningarna<br>att i löneöversyn 2025 beakta lönesättningen för<br>kvinnodominerande befattningar i BAS-intervall D,<br>F, H och J.<br>Kommunstyrelsen godkänner rapport avseende<br>lönekartläggning 2024. |
-| 13. | Förändring avseende projekt i<br>lokalplan Kv Liljan skola och<br>idrottssal | 2024-00724 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner att omfattningen på<br>projektet Kvarteret Liljan skola reduceras till 350<br>elever från tidigare planerade 525 elever.<br>Kommunstyrelsen godkänner den totala<br>investeringsbudgeten om 200 miljoner kronor. |
-| 14. | Principavtal avseende<br>detaljplan för Varla 2:412 | 2024-00842 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner principavtal avseende<br>detaljplan för Varla 2:412 i Kungsbacka,<br>undertecknat av Hede Fashion Outlet AB.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet. |
-
-[Tabell 4-2](handlingar.tabeller/4-2.csv)
 
 | BAS | 2025 10 p | 2025 90 p |
 | --- | --- | --- |
@@ -119,7 +138,7 @@ KUNGSBACKA  KOMMUN
 
 5(6)
 
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
+[Tabell 5-6-1](handlingar.tabeller/5-6-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -128,6 +147,11 @@ KUNGSBACKA  KOMMUN
 | 17. | Begäran om planbesked för<br>Åsa 5:161 och Åsa 5:101 | 2024-00663 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av småhus inom Åsa 5:101 och 5:161 i<br>Åsa. Exploateringens omfattning, så som antalet<br>bostäder och exploateringsgrad, ska utredas under<br>detaljplanearbetet.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för bostäder inom Åsa 5:101 och 5:161. |
 | 18. | Svar på Klimat- och<br>näringslivsdepartementets<br>remiss av promemorian<br>Reformering av<br>avfallslagstiftning | 2024-00781 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-12-17,<br>och översänder som sitt svar till Klimat- och<br>näringslivsdepartementet med följande tillägg sist i<br>yttrandet:<br>− Kungsbacka kommun vill, utöver ovanstående,<br>understryka vikten av att bevara ett starkt<br>kommunalt självbestämmande. |
 | 19. | Anmälan av delegeringsbeslut | 2025-00006 | Förslag till beslut i kommunstyrelsen<br>14B<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
+| 20. | Redovisning av inkomna<br>skrivelser | 2025-00004 | Förslag till beslut i kommunstyrelsen<br>16B<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
+| 21. | Rapport från nämnden för Vård<br>& Omsorg av ej verkställda<br>beslut enligt socialtjänstlagen,<br>SoL, tredje kvartalet 2024 | 2024-00797 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Vård & Omsorg, enligt 16 kap 6 f §<br>socialtjänstlagen, till protokollet. |
+| 22. | Rapport från nämnden för<br>Individ & Familjeomsorg av ej<br>verkställda beslut enligt<br>socialtjänstlagen, SoL, och<br>lagen om stöd och service till<br>vissa funktionshindrade, LSS,<br>tredje kvartalet 2024 | 2024-00795 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Individ & Familjeomsorg enligt 16 kap 6 f §<br>socialtjänstlagen och 28 f § lagen om stöd och service<br>till vissa funktionshindrade till protokollet. |
+| 23. | Markanvisningsavtal avseende<br>del av Gjutaren 1 och del av<br>Kungsbacka 2:2 | 2019-00547 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner markanvisningsavtal<br>avseende del av Gjutaren 1 och del av Kungsbacka<br>2:2 mellan kommunen och Riksbyggen ekonomisk<br>förening, undertecknat av bolaget 2024-12-10.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalen<br>och övriga nödvändiga handlingar för avtalens<br>genomförande. |
+| 24. | Plan för Kungsbacka kommuns<br>folk-, skol- och<br>gymnasiebibliotek 2025–2030 | 2024-00745 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar plan för Kungsbacka<br>kommuns folk-, skol och gymnasiebibliotek<br>2025–2030, daterad 2024-12-09.<br>Biblioteksplan för Kungsbacka kommuns folk- och<br>skolbibliotek 2021–2024, antagen av<br>kommunfullmäktige 13 april 2021, § 68, upphör<br>samtidigt att gälla. |
 
 <!-- sida 6 -->
 
@@ -137,16 +161,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Patrik Johansson
 ordförande                        kommunsekreterare
-
-[Tabell 6-1](handlingar.tabeller/6-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 20. | Redovisning av inkomna<br>skrivelser | 2025-00004 | Förslag till beslut i kommunstyrelsen<br>16B<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
-| 21. | Rapport från nämnden för Vård<br>& Omsorg av ej verkställda<br>beslut enligt socialtjänstlagen,<br>SoL, tredje kvartalet 2024 | 2024-00797 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Vård & Omsorg, enligt 16 kap 6 f §<br>socialtjänstlagen, till protokollet. |
-| 22. | Rapport från nämnden för<br>Individ & Familjeomsorg av ej<br>verkställda beslut enligt<br>socialtjänstlagen, SoL, och<br>lagen om stöd och service till<br>vissa funktionshindrade, LSS,<br>tredje kvartalet 2024 | 2024-00795 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Individ & Familjeomsorg enligt 16 kap 6 f §<br>socialtjänstlagen och 28 f § lagen om stöd och service<br>till vissa funktionshindrade till protokollet. |
-| 23. | Markanvisningsavtal avseende<br>del av Gjutaren 1 och del av<br>Kungsbacka 2:2 | 2019-00547 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner markanvisningsavtal<br>avseende del av Gjutaren 1 och del av Kungsbacka<br>2:2 mellan kommunen och Riksbyggen ekonomisk<br>förening, undertecknat av bolaget 2024-12-10.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalen<br>och övriga nödvändiga handlingar för avtalens<br>genomförande. |
-| 24. | Plan för Kungsbacka kommuns<br>folk-, skol- och<br>gymnasiebibliotek 2025–2030 | 2024-00745 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar plan för Kungsbacka<br>kommuns folk-, skol och gymnasiebibliotek<br>2025–2030, daterad 2024-12-09.<br>Biblioteksplan för Kungsbacka kommuns folk- och<br>skolbibliotek 2021–2024, antagen av<br>kommunfullmäktige 13 april 2021, § 68, upphör<br>samtidigt att gälla. |
 
 <!-- sida 7 -->
 
@@ -1984,7 +1998,7 @@ beslutar bifalla kommunstyrelsens arbetsutskotts förslag.
 
 Expedierat/bestyrkt
 
-[Tabell 50-1](handlingar.tabeller/50-1.csv)
+[Tabell 50-51-1](handlingar.tabeller/50-51-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -1997,6 +2011,12 @@ Expedierat/bestyrkt
 | Kristina Karlsson (C) | X |  |  |
 | Ulrika Landergren (L) | X |  |  |
 | Niklas Mattsson (KD) |  | X |  |
+| Magdalena Sundqvist (S) | X |  |  |
+| Johan Tolinsson (S) | X |  |  |
+| Stefan Vilumsons (SD) |  | X |  |
+| Maria Gathendahl (M) | X |  |  |
+| Maria Rasmussen (V) | X |  |  |
+| Hans Forsberg (M) | X |  |  |
 
 <!-- sida 51 -->
 
@@ -2009,16 +2029,6 @@ Beslutet skickas till
 Kommunledningskontoret
 
 Expedierat/bestyrkt
-
-[Tabell 51-1](handlingar.tabeller/51-1.csv)
-
-| Magdalena Sundqvist (S) | X |  |  |
-| --- | --- | --- | --- |
-| Johan Tolinsson (S) | X |  |  |
-| Stefan Vilumsons (SD) |  | X |  |
-| Maria Gathendahl (M) | X |  |  |
-| Maria Rasmussen (V) | X |  |  |
-| Hans Forsberg (M) | X |  |  |
 
 <!-- sida 52 -->
 
@@ -2102,7 +2112,7 @@ som avstår, beslutar enligt kommunstyrelsens arbetsutskotts förslag.
 
 Expedierat/bestyrkt
 
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
+[Tabell 53-54-1](handlingar.tabeller/53-54-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -2115,6 +2125,12 @@ Expedierat/bestyrkt
 | Kristina Karlsson (C) |  | X |  |
 | Ulrika Landergren (L) | X |  |  |
 | Niklas Mattsson (KD) | X |  |  |
+| Eva Borg (S) |  | X |  |
+| Johan Tolinsson (S) |  | X |  |
+| Carita Boulwén (SD) |  |  | X |
+| Susanne Andersson (SD) |  |  | X |
+| Maria Losman (MP) |  | X |  |
+| Hans Forsberg (M) | X |  |  |
 
 <!-- sida 54 -->
 
@@ -2134,16 +2150,6 @@ Beslutet skickas till
 Kommunledningskontoret: kommundirektör
 
 Expedierat/bestyrkt
-
-[Tabell 54-1](handlingar.tabeller/54-1.csv)
-
-| Eva Borg (S) |  | X |  |
-| --- | --- | --- | --- |
-| Johan Tolinsson (S) |  | X |  |
-| Carita Boulwén (SD) |  |  | X |
-| Susanne Andersson (SD) |  |  | X |
-| Maria Losman (MP) |  | X |  |
-| Hans Forsberg (M) | X |  |  |
 
 <!-- sida 55 -->
 
@@ -2296,20 +2302,6 @@ Beslut
 
 BAS      2025 10 p 2025 90 p
 
-```osaker-tabell
-A        24 500   29 800
-B        25 500   33 000
-C        27 700   36 200
-D        29 800   39 400
-E        31 900   43 600
-F        36 200   49 500
-G        39 400   53 700
-H        43 100   58 500
-
-I        47 900   63 800
-J        52 100   69 700
-```
-
 Kommunstyrelsen godkänner rapport avseende lönekartläggning 2024 och uppmanar
 förvaltningarna att i löneöversyn 2025 beakta lönesättningen för kvinnodominerande
 befattningar i BAS-intervall D, F, H och J.
@@ -2343,6 +2335,20 @@ Skillnaderna kan i huvudsak förklaras av sakliga faktorer.
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 49CCB813F7B39117AE598A64CCABFB06DFC6FFB572
 Transaktionsidentitet: 990DCAE9ED89CC09189B17D8FB65FB2117A8C7BD61
+
+[Tabell 59-1](handlingar.tabeller/59-1.csv)
+
+| A | 24 500 | 29 800 |
+| --- | --- | --- |
+| B | 25 500 | 33 000 |
+| C | 27 700 | 36 200 |
+| D | 29 800 | 39 400 |
+| E | 31 900 | 43 600 |
+| F | 36 200 | 49 500 |
+| G | 39 400 | 53 700 |
+| H | 43 100 | 58 500 |
+| I | 47 900 | 63 800 |
+| J | 52 100 | 69 700 |
 
 <!-- sida 60 -->
 
@@ -2684,7 +2690,7 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024    4
 
 [Tabell 69-1](handlingar.tabeller/69-1.csv)
 
-| 2021 2022 2023 2024 |  |  |  |  |  |  |
+| 2021 |  | 2022 |  | 2023 |  | 2024 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Kungsbacka | Riket\* | Kungsbacka | Riket\* | Kungsbacka | Riket\* | Kungsbacka |
 | 32 132 | 30 350 | 32 770 | 31 000 | 34 100 | 32 215 | 35 600 |
@@ -2932,38 +2938,46 @@ historisk lön.
 Nedan är befattningar med minst två män respektive kvinnor i befattningen och där
 medianlöneskillnader för månadsanställda är mer än 5 % mellan kvinnor och män.
 
+Befattning                Antal kvinnor Antal män    Procentuell
+skillnad i
+medianlön,
+män/kvinnor
+
+```osaker-tabell
+Utvecklare IT             10          4              86% (87%, 89%)
+Verksamhetsutvecklare     7           2              89%
+Systemförvaltare          10          6              90% (93%)
+Verksamhetschef           8           5              94% (93%, 93%)
+
+Bygglovshandläggare       10          7              94% (95%)
+Utvecklare                15          4              95% (95%)
+Sjuksköterska             109         10             95% (93%, 93%)
+Handläggare               4           2              95%
+
+Aktiveringspedagog        24          2              105%
+Utvecklare                39          19             104%
+Boendepedagog             3           2              104%
+Personlig assistent       70          23             106%
+Samhällsvägledare         16          2              106%
+
+Planarkitekt              9           2              105%
+Fritidspedagog            20          10             107%
+Administratör             66          4              108%
+Familjehemssekreterare    5           2              106%
+Socialsekr LVU/LVM        51          6              109%
+
+Elevassistent             121         38             114%
+Skolassistent             31          15             116%
+Barnskötare               278         3              117%
+Biståndshandläggare       28          2              114%
+
+Verksamhetschef           7           3              108%
+IKT-pedagog               3           2              123%
+```
+
 (Från BI, Daterad: 241030)
 
 Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   10
-
-[Tabell 75-1](handlingar.tabeller/75-1.csv)
-
-| Befattning Antal kvinnor Antal män Procentuell<br>skillnad i<br>medianlön,<br>män/kvinnor |  |  |  |
-| --- | --- | --- | --- |
-| Utvecklare IT | 10 | 4 | 86% (87%, 89%) |
-| Verksamhetsutvecklare | 7 | 2 | 89% |
-| Systemförvaltare | 10 | 6 | 90% (93%) |
-| Verksamhetschef | 8 | 5 | 94% (93%, 93%) |
-| Bygglovshandläggare | 10 | 7 | 94% (95%) |
-| Utvecklare | 15 | 4 | 95% (95%) |
-| Sjuksköterska | 109 | 10 | 95% (93%, 93%) |
-| Handläggare | 4 | 2 | 95% |
-| Aktiveringspedagog | 24 | 2 | 105% |
-| Utvecklare | 39 | 19 | 104% |
-| Boendepedagog | 3 | 2 | 104% |
-| Personlig assistent | 70 | 23 | 106% |
-| Samhällsvägledare | 16 | 2 | 106% |
-| Planarkitekt | 9 | 2 | 105% |
-| Fritidspedagog | 20 | 10 | 107% |
-| Administratör | 66 | 4 | 108% |
-| Familjehemssekreterare | 5 | 2 | 106% |
-| Socialsekr LVU/LVM | 51 | 6 | 109% |
-| Elevassistent | 121 | 38 | 114% |
-| Skolassistent | 31 | 15 | 116% |
-| Barnskötare | 278 | 3 | 117% |
-| Biståndshandläggare | 28 | 2 | 114% |
-| Verksamhetschef | 7 | 3 | 108% |
-| IKT-pedagog | 3 | 2 | 123% |
 
 <!-- sida 76 -->
 
@@ -3159,7 +3173,7 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   13
 
 [Tabell 78-1](handlingar.tabeller/78-1.csv)
 
-| BAS 2017 2019 2021 2022 2023 2024 |  |  |  |  |  |  |
+| BAS | 2017 | 2019 | 2021 | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- | --- | --- | --- |
 | A | 104% | 105% | 105% | 100% | 103% | 102% |
 | B | 92% | 95% | 98% | 97% | 102% | 101% |
@@ -3172,7 +3186,7 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   13
 | I | 96% | 96% | 98% | 98% | 100% | 102% |
 | J | 98% | 97% | 98% | 99% | 96% | 98% |
 
-[Tabell 78-2](handlingar.tabeller/78-2.csv)
+[Tabell 78-79-2](handlingar.tabeller/78-79-2.csv)
 
 | BAS Befattning Antal anställningar En befattnings medianlön i jämförelse<br>med BAS-intervallets medianlön,<br>procentuell skillnad. |  |  |  |
 | --- | --- | --- | --- |
@@ -3192,6 +3206,12 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   13
 | J | Enhetschef | 96 | 94% |
 | F | Arkivarie | 6 | 94% |
 | B | Vårdbiträde | 153 | 94% |
+| C | Dagbarnvårdare | 7 | 95% |
+| G | Socialsekreterare LVU/LVM | 57 | 95% |
+| E | Rekryterare | 8 | 95% |
+| F | Studie och yrkesvägledare | 22 | 95% |
+| C | Personlig assistent | 93 | 95% |
+| C | Barnskötare | 281 | 95% |
 
 <!-- sida 79 -->
 
@@ -3209,17 +3229,7 @@ befattning. För de flesta av de större befattningarna är lönespridningen god
 
 Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   14
 
-[Tabell 79-1](handlingar.tabeller/79-1.csv)
-
-| C | Dagbarnvårdare | 7 | 95% |
-| --- | --- | --- | --- |
-| G | Socialsekreterare LVU/LVM | 57 | 95% |
-| E | Rekryterare | 8 | 95% |
-| F | Studie och yrkesvägledare | 22 | 95% |
-| C | Personlig assistent | 93 | 95% |
-| C | Barnskötare | 281 | 95% |
-
-[Tabell 79-2](handlingar.tabeller/79-2.csv)
+[Tabell 79-80-1](handlingar.tabeller/79-80-1.csv)
 
 | Befattning Antal Medianlön Medianlön Lönespännvidd<br>anställningar kvinnor män |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -3248,20 +3258,16 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   14
 | Administratör | 70 | 34 295 | 31 725 | 17% |
 | Biträde | 62 | 24 200 | 25 000 | 19% |
 | Lärare Kulturskolan | 60 | 35 600 | 36 100 | 14% |
-
-<!-- sida 80 -->
-
-Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   15
-
-[Tabell 80-1](handlingar.tabeller/80-1.csv)
-
 | Specialpedagog | 59 | 47 475 | 47 700 | 11% |
-| --- | --- | --- | --- | --- |
 | Utvecklare | 58 | 44 200 | 42 600 | 28% |
 | Fastighetstekniker | 57 | 30 800 | 31 400 | 11% |
 | Socialsekr LVU/LVM | 57 | 43 500 | 40 050 | 23% |
 | Lärare yrkesämnen | 51 | 44 000 | 43 850 | 27% |
 | Utvecklingsledare | 51 | 49 950 | 51 500 | 17% |
+
+<!-- sida 80 -->
+
+Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   15
 
 <!-- sida 81 -->
 
@@ -3355,7 +3361,7 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   17
 
 [Tabell 82-1](handlingar.tabeller/82-1.csv)
 
-| BAS Antal Kvinnors Antal Männens 2020 2021 2022 2023 2024<br>kvinnor medianlön män medianlön |  |  |  |  |  |  |  |  |  |
+| BAS | Antal<br>kvinnor | Kvinnors<br>medianlön | Antal<br>män | Männens<br>medianlön | 2020 | 2021 | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | 140 | 26 450 | 71 | 25 900 | 1 225 kr | 1 301 kr | 800 kr | 800 kr | 550 kr |
 | B | 535 | 28 000 | 144 | 27 703 | -1 200 kr | -545 kr | -250 kr | 600 kr | 297 kr |
@@ -3384,39 +3390,25 @@ kontinuerliga insatser vid lönesättning och löneöversyn. Handlingsplanen rev
 2000
 
 1500
-
+1 075        1100
 1000
-
-500
-
+550
+500           297                300
+201
 0
-
+A     B     C     D      E     F     G      H     I     J
 -500
-
+-375
 -1000
-0
+-1 000                   -1000
+-1 100
 -1500
-
 -2000
 
 -2500
 2019 2020 2021 2022 2023 2024
 
 Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   18
-
-[Tabell 83-1](handlingar.tabeller/83-1.csv)
-
-|  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  | 1 07 | 5 | 110 | 0 |
-| 55 | 0 |  |  |  |  |  |  |  |  |
-|  | 29 | 7<br>20 | 1 | 30 | 0 |  |  |  |  |
-| A | B | C | D | E | F | G | H | I | J |
-|  |  |  |  |  |  |  | -375 |  |  |
-|  |  |  | -1 10 | 0 | -1 00 | 0 |  |  | -100 |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
 
 <!-- sida 84 -->
 
@@ -6755,23 +6747,6 @@ FÖRRÅD
 
 Ärendenummer: #163409 | Datum: 2024-10-02 21:45                                                                                                          Bilaga 1 sida 1 av 1
 
-[Tabell 158-1](handlingar.tabeller/158-1.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
 <!-- sida 159 -->
 
 Översiktskarta        Åsa    5:161    och   5:101
@@ -7729,7 +7704,7 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 | 2024-06-05 | 4 kap 1 § SoL,<br>öppenvårdsverksamhet | Den enskilde har tackat nej till erbjudande om uppstart,<br>vill avvakta till januari 2025. |
 | 2024-07-09 | 4 kap 1 § SoL, kontaktfamilj | Rekryteringsbekymmer. |
 
-[Tabell 182-2](handlingar.tabeller/182-2.csv)
+[Tabell 182-186-2](handlingar.tabeller/182-186-2.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
@@ -7739,16 +7714,6 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 | 2024-06-01 | 4 kap 1 § SoL,<br>kontaktperson | Den enskilde har specifika önskemål. Tackat nej till<br>erbjudande 2024-08-12. Rekrytering pågår. |
 | 2024-04-09 | 4 kap 1 § SoL, bostad | Saknar plats. Den enskilde har tackat jag till plats med<br>inflyttning i höst. |
 | 2024-04-19 | 9 § 3 LSS, ledsagarservice | Avbrott i verkställighet, velat avvakta med insatsen.<br>Den enskilde har specifika önskemål, tackat nej till<br>erbjudande 2024-09-27. |
-
-<!-- sida 183 -->
-
-KUNGSBACKA  KOMMUN
-3 (7)
-
-[Tabell 183-1](handlingar.tabeller/183-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2024-06-01 | 9 § 4 LSS, kontaktperson | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. Verksamheten har haft flera<br>kontakter med den enskilde för att få igång insatsen. |
 | 2024-06-13 | 9 § 4 LSS, kontaktperson | Rekryteringssvårigheter. Verksamheten fick många<br>beslut inför sommaren och har inte hunnit rekrytera ny<br>personal. |
 | 2024-06-17 | 9 § 4 LSS, kontaktperson | Den enskilde har tackat nej till erbjudande 2024-09-25.<br>Ny rekrytering pågår. |
@@ -7761,16 +7726,6 @@ KUNGSBACKA  KOMMUN
 | 2023-11-22 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Den enskilde är i behov av extern placering. |
 | 2024-01-08 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. Svårigheter att få kontakt med<br>familjen. |
 | 2024-02-01 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. Flertalet kontaktförsök har gjorts,<br>verksamheten pausar insatsen i avvaktan på svar om<br>fortsatt inskolning. |
-
-<!-- sida 184 -->
-
-KUNGSBACKA  KOMMUN
-4 (7)
-
-[Tabell 184-1](handlingar.tabeller/184-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2024-02-29 | 9 § 8 LSS, boende barn och<br>ungdomar | Saknar plats. Blivit erbjuden köpt plats under<br>väntetiden vilket de tackat nej till. Erbjuden annan<br>insats under väntetiden. Tackat ja till erbjudande om<br>inflyttning under november. |
 | 2022-03-16 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Tackat nej till 5 erbjudanden, 2022-09-15, 2022-11-29,<br>2023-05-17, 2023-11-20 och 2023-12-05. |
 | 2022-12-31 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Avbrott i verkställighet, tackat nej till 4 erbjudanden<br>2023-06-20, 2023-12-22 och 2024-05-24 eftersom<br>boendet inte ligger i centrala Kungsbacka. Tackat nej<br>till erbjudande 2024-09-02 trots centralt boende, det är<br>inte läge med flytt just nu. |
@@ -7783,16 +7738,6 @@ KUNGSBACKA  KOMMUN
 | 2024-06-27 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. |
 | 2024-07-04 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Saknar plats. |
 | 2024-07-12 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. |
-
-<!-- sida 185 -->
-
-KUNGSBACKA  KOMMUN
-5 (7)
-
-[Tabell 185-1](handlingar.tabeller/185-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2021-10-29 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. Svårt att få<br>kontakt med den enskilde. Den enskilde har andra<br>insatser vilket gör att DV inte är aktuellt just nu.<br>Ärendet är pausat i väntan på förändrad situation. |
 | 2021-11-23 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, medverkar inte till<br>verkställighet. Den enskilde svarar inte på telefon eller<br>mail. |
 | 2022-02-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, har specifika önskemål om<br>verksamhet, är i behov av lång planering, tackat nej till<br>befintlig verksamhet. Tackat nej till 2 erbjudanden<br>2023-02-14 och 2023-10-02. |
@@ -7804,18 +7749,6 @@ KUNGSBACKA  KOMMUN
 | 2023-10-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, tackat nej till 5 erbjudanden<br>2023-12-11, 2024-02-21, 2024-03-12, 2024-04-10 och<br>2024-05-07. Den enskilde vill avvakta då hen befinner<br>sig på annan ort. Den enskilde avbokar inbokade<br>möten. |
 | 2023-10-20 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd, den<br>enskilde medverkar inte till verkställighet. |
 | 2023-12-20 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. Den enskilde vill avvakta med<br>insatsen, möte inplanerat i oktober. |
-
-<!-- sida 186 -->
-
-KUNGSBACKA  KOMMUN
-6 (7)
-
-Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
-
-[Tabell 186-1](handlingar.tabeller/186-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2023-12-18 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
 | 2024-02-09 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde tackat nej till<br>erbjudande 2024-02-09. Vill inte avsluta insatsen utan<br>pausa på obestämd tid. |
 | 2024-03-15 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, praktikplatsen har avslutat<br>platsen. Saknar plats. |
@@ -7824,7 +7757,29 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2024-06-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2024-07-11 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet, pga hälsotillstånd. |
 
-[Tabell 186-2](handlingar.tabeller/186-2.csv)
+<!-- sida 183 -->
+
+KUNGSBACKA  KOMMUN
+3 (7)
+
+<!-- sida 184 -->
+
+KUNGSBACKA  KOMMUN
+4 (7)
+
+<!-- sida 185 -->
+
+KUNGSBACKA  KOMMUN
+5 (7)
+
+<!-- sida 186 -->
+
+KUNGSBACKA  KOMMUN
+6 (7)
+
+Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
+
+[Tabell 186-187-1](handlingar.tabeller/186-187-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
@@ -7832,6 +7787,14 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2024-05-27 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. | Verkställt, 2024-10-05 |
 | 2023-10-30 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Den enskilde har tackat nej till<br>erbjudande 2024-03-22. | Verkställt, 2024-10-01 |
 | 2024-03-07 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. | Verkställt, 2024-10-01 |
+| 2023-05-03 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet.<br>Arbetsmiljöproblem relaterade<br>till den enskilde. Planering för<br>återgång till DV inplanerat. | Verkställt, 2024-09-09 |
+| 2023-06-14 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. | Avslutat, 2024-10-14 |
+| 2023-02-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet, pga hälsoskäl. | Verkställt, 2024-10-04 |
+| 2024-03-26 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. | Verkställt, 2024-09-10 |
+| 2024-01-29 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Avslutat, 2024-08-27 |
+| 2024-03-25 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet,<br>praktikplatsen har avslutat<br>platsen. Erbjudande 2024-04-<br>03, pga hälsotillstånd. | Verkställt, 2024-10-10 |
+| 2023-10-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Verkställt, 2024-09-02 |
+| 2024-05-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. Vill inte längre<br>ha insatsen. | Avslutat, 2024-10-14 |
 
 <!-- sida 187 -->
 
@@ -7842,19 +7805,6 @@ Inom vuxenenheten och familjehemsenheten finns inga ej verkställda beslut under
 
 Ivan Stipić                   Renate Rondolph
 Förvaltningschef              Verksamhetschef
-
-[Tabell 187-1](handlingar.tabeller/187-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
-| 2023-05-03 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet.<br>Arbetsmiljöproblem relaterade<br>till den enskilde. Planering för<br>återgång till DV inplanerat. | Verkställt, 2024-09-09 |
-| 2023-06-14 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. | Avslutat, 2024-10-14 |
-| 2023-02-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet, pga hälsoskäl. | Verkställt, 2024-10-04 |
-| 2024-03-26 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. | Verkställt, 2024-09-10 |
-| 2024-01-29 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Avslutat, 2024-08-27 |
-| 2024-03-25 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet,<br>praktikplatsen har avslutat<br>platsen. Erbjudande 2024-04-<br>03, pga hälsotillstånd. | Verkställt, 2024-10-10 |
-| 2023-10-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Verkställt, 2024-09-02 |
-| 2024-05-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. Vill inte längre<br>ha insatsen. | Avslutat, 2024-10-14 |
 
 <!-- sida 188 -->
 

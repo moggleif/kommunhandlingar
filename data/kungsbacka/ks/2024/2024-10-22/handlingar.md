@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.518b0d32192711cc07ec6a5a/1729079545
 sha256: 745d404a73a73f2c5cbfee31405be9063507e458218e4e978112a73fd74c1462
 bytes: 140982836
 sidor: 462
-hamtad: 2026-10-08T10:03:50+00:00
-konverterad: 2026-10-08T10:13:13+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T07:55:29+00:00
+konverterad: 2026-10-15T08:05:37+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [58, 68, 69, 76, 77, 78, 79, 80, 270, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 397, 398, 399, 400, 413, 435, 436, 437]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [58, 68, 69, 76, 77, 78, 79, 80, 270, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 361, 397, 398, 399, 400, 413, 435, 436, 437]
+figurer: [20, 43, 45, 46, 48, 49, 50, 51, 60, 61, 62, 63, 67, 76, 78, 79, 80, 89, 90, 91, 94, 95, 96, 97, 98, 99, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 113, 114, 115, 203, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 218, 219, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 234, 235, 237, 238, 245, 257, 262, 265, 270, 277, 278, 279, 281, 282, 283, 284, 285, 288, 290, 291, 295, 301, 302, 304, 306, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 321, 322, 323, 324, 325, 332, 361, 366, 367]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -61,7 +61,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -71,17 +71,6 @@ KUNGSBACKA  KOMMUN
 | 7. | Begäran om planbesked för<br>Åsa 4:2 och Åsa 4:28 | 2024-00454 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Åsa 4:2 och Åsa 4:28 i Åsa. |
 | 8. | Begäran om planbesked för<br>Vallda 5:11 | 2024-00374 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Vallda 5:11 i Vallda. |
 | 9. | Delegering till<br>kommunstyrelsens ordförande<br>att svara på Länsstyrelsen i<br>Halland län remiss om<br>länsövergripande<br>nödvattenplan för Hallands län | 2024-00511 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen delegerar till kommunstyrelsens<br>ordförande att svara på Länsstyrelsen i Hallands läns<br>remiss om länsövergripande nödvattenplan för<br>Hallands län. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 10. | Svar på Landsbygds- och<br>infrastrukturdepartementets<br>remiss av betänkandet om en<br>ny förköpslag (Fi 2022:07) och<br>Uppdrag till Lantmäteriet att<br>möjliggöra fler elektroniska<br>handlingar på fastighetsrättens<br>område | 2024-00461 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-09-12,<br>och översänder det som sitt svar till Landsbygds- och<br>infrastrukturdepartementet. |
 | 11. | Svar på Finansdepartementets<br>remiss av betänkandet Nätt och<br>jämnt – Likvärdighet och<br>effektivitet i kommunsektorn<br>(SOU 2024:50) | 2024-00516 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-10-08,<br>och översänder det som sitt svar till<br>Finansdepartementet. |
 | 12. | Svar på Finansdepartementets<br>remiss av slutbetänkandet<br>Kompletterande bestämmelser<br>till EU:s reviderade förordning<br>om elektronisk identifiering<br>(SOU 2024:45) | 2024-00495 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-09-16,<br>och översänder det som sitt svar till<br>Finansdepartementet. |
@@ -89,6 +78,17 @@ KUNGSBACKA  KOMMUN
 | 14. | Svar på Socialdepartementets<br>remiss av slutbetänkandet<br>Effektivare tillsyn över apotek,<br>bättre skydd vid patientskador<br>samt översyn av handel med<br>receptfria läkemedel (SOU<br>2023:101) | 2024-00471 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-10-02,<br>och översänder det som sitt svar till<br>Socialdepartementet. |
 | 15. | Svar på Ellevios remiss av<br>nätutvecklingsplan 2025–2034 | 2024-00617 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-10-02,<br>och översänder det som sitt svar till Ellevio. |
 | 16. | Svar på E.ON:s remiss av<br>nätutvecklingsplan 2025–2034 | 2024-00619 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-10-02,<br>och översänder det som sitt svar till E.ON. |
+| 17. | Anmälan av delegeringsbeslut | 2024-00006 | Förslag till beslut i kommunstyrelsen<br>14B<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
+| 18. | Redovisning av inkomna<br>skrivelser | 2024-00004 | Förslag till beslut i kommunstyrelsen<br>16B<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
+| 19. | Överlämnande av ansvar för<br>beställningscentral för särskild<br>kollektivtrafik | 2024-00477 | Förslag till beslut i kommunstyrelsen<br>16B<br>Kommunfullmäktige överlämnar ansvaret för<br>beställningscentral för särskild kollektivtrafik till<br>Region Halland från och med den 1 april 2025. |
+| 20. | Svar på motion från Ermin<br>Škorić (S) m.fl. om att utveckla<br>lokala värdighetsgarantier<br>inom äldreomsorgen | 2023-00811 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att verksamheten inom Nämnden för<br>Vård & Omsorg nu bedrivs mer individrelaterat<br>utifrån arbetssättet Individens behov i Centrum<br>(IBIC) vilket innebär att generella kvalitetsgarantier<br>inte anses vara relevanta. |
+| 21. | Svar på motion från Stefan<br>Jägnert (SD) om införande av<br>tolkavgift | 2024-00131 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige bifaller motionen. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -98,16 +98,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Patrik Johansson
 ordförande                        kommunsekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 17. | Anmälan av delegeringsbeslut | 2024-00006 | Förslag till beslut i kommunstyrelsen<br>14B<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
-| 18. | Redovisning av inkomna<br>skrivelser | 2024-00004 | Förslag till beslut i kommunstyrelsen<br>16B<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
-| 19. | Överlämnande av ansvar för<br>beställningscentral för särskild<br>kollektivtrafik | 2024-00477 | Förslag till beslut i kommunstyrelsen<br>16B<br>Kommunfullmäktige överlämnar ansvaret för<br>beställningscentral för särskild kollektivtrafik till<br>Region Halland från och med den 1 april 2025. |
-| 20. | Svar på motion från Ermin<br>Škorić (S) m.fl. om att utveckla<br>lokala värdighetsgarantier<br>inom äldreomsorgen | 2023-00811 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att verksamheten inom Nämnden för<br>Vård & Omsorg nu bedrivs mer individrelaterat<br>utifrån arbetssättet Individens behov i Centrum<br>(IBIC) vilket innebär att generella kvalitetsgarantier<br>inte anses vara relevanta. |
-| 21. | Svar på motion från Stefan<br>Jägnert (SD) om införande av<br>tolkavgift | 2024-00131 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige bifaller motionen. |
 
 <!-- sida 5 -->
 
@@ -446,7 +436,7 @@ Kungsbacka kommun          Delårsbokslut 2024                   5
 
 [Tabell 13-1](handlingar.tabeller/13-1.csv)
 
-| Utfall Utfall<br>Prognos till till<br>Årets resultat, miljoner kronor 2020 2021 2022 2023<br>2024 augusti augusti<br>2023 2024 |  |  |  |  |  |  |  |
+| Årets resultat, miljoner kronor | 2020 | 2021 | 2022 | 2023 | Prognos<br>2024 | Utfall<br>till<br>augusti<br>2023 | Utfall<br>till<br>augusti<br>2024 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Kommunkoncern | 512 | 530 | 822 | 291 | - | 291 | 245 |
 | Kommunen | 415 | 464 | 756 | 231 | 144 | 230 | 209 |
@@ -456,7 +446,7 @@ Kungsbacka kommun          Delårsbokslut 2024                   5
 
 [Tabell 13-2](handlingar.tabeller/13-2.csv)
 
-| Prognos<br>Skatter & generella statsbidrag, procent 2021 2022 2023<br>2024 |  |  |  |  |
+| Skatter & generella statsbidrag, procent | 2021 | 2022 | 2023 | Prognos<br>2024 |
 | --- | --- | --- | --- | --- |
 | Årlig förändring skatter & statsbidrag | 5,4 | 5,0 | 4,4 | 2,5 |
 | Årlig förändring nettokostnader | 5,1 | -1,4 | 14,2 | 4,1 |
@@ -557,21 +547,21 @@ Kungsbacka kommun          Delårsbokslut 2024                   7
 
 [Tabell 15-1](handlingar.tabeller/15-1.csv)
 
-| Prognos Augusti<br>Låneskuld, miljoner kronor 2020 2021 2022 2023<br>2024 2024 |  |  |  |  |  |  |
+| Låneskuld, miljoner kronor | 2020 | 2021 | 2022 | 2023 | Prognos<br>2024 | Augusti<br>2024 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Låneskuld till banker och kreditinstitut | 1 550 | 1 450 | 1 300 | 1 200 | 1 300 | 1 200 |
 | Genomsnittlig upplåningsränta (%) | 0,55 | 0,54 | 0,71 | 1,30 | 1,57 | 1,35 |
 
 [Tabell 15-2](handlingar.tabeller/15-2.csv)
 
-| Augusti<br>Kommunen, procent 2020 2021 2022 2023<br>2024 |  |  |  |  |  |
+| Kommunen, procent | 2020 | 2021 | 2022 | 2023 | Augusti<br>2024 |
 | --- | --- | --- | --- | --- | --- |
 | Soliditet inklusive hela pensionsåtagandet | 33,3 | 35,5 | 35,4 | 35,9 | 37,3 |
 | Soliditet enligt blandmodellen | 49,0 | 49,6 | 46,5 | 46,8 | 48,5 |
 
 [Tabell 15-3](handlingar.tabeller/15-3.csv)
 
-| Prognos<br>Miljoner kronor 2020 2021 2022 2023<br>2024 |  |  |  |  |  |
+| Miljoner kronor | 2020 | 2021 | 2022 | 2023 | Prognos<br>2024 |
 | --- | --- | --- | --- | --- | --- |
 | Avvikelse nämnder | 141 | 157 | 105 | -53 | 15 |
 | Avvikelse nämnder/verksamhetens kostnader (%) | 2,5 | 2,7 | 1,8 | -0,8 | 0,2 |
@@ -679,13 +669,17 @@ Skårbyskolan.
 
 Kungsbacka kommun          Delårsbokslut 2024                   9
 
-[Tabell 17-1](handlingar.tabeller/17-1.csv)
+[Tabell 17-18-1](handlingar.tabeller/17-18-1.csv)
 
-| Indikator 2021 2022 2023 2024 Målsättning<br>2024 |  |  |  |  |  |
+| Indikator | 2021 | 2022 | 2023 | 2024 | Målsättning<br>2024 |
 | --- | --- | --- | --- | --- | --- |
 | Bäst att leva, Kungsbackas placering i ranking av<br>Sveriges kommuner (tidningen Fokus) | 3 | - \* | - \* | -\* | < 20 |
 | Antal påbörjade bostäder | 216 | 848 | 165 | 141 | Öka |
 | Antal färdigställda bostäder | 430 | 363 | 319 | 109 | Öka |
+| Anmälda brott mot brottsbalken per invånare,<br>antal/100 000 invånare (BRÅ) | 5 321 | 5 691 | 6 475 | \*\*\* | Minska |
+| Brukarbedömning hemtjänst äldreomsorg, helhetssyn<br>(Kolada) | - \*\* | 90 % | 91 % | \*\*\* | Öka |
+| Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn (Kolada) | - \*\* | 74 % | 76 % | \*\*\* | Öka |
+| Brukarbedömning individ- och familjeomsorg, totalt –<br>helhetssyn (Kolada) | - \*\* | 88 % | - \*\* | \*\*\* | Öka |
 
 <!-- sida 18 -->
 
@@ -721,15 +715,6 @@ Minskade utsläpp: Kommunens nya avtal för samordnad varudistribution trädde i
 Kungsbacka kommun          Delårsbokslut 2024                  10
 
 [Tabell 18-1](handlingar.tabeller/18-1.csv)
-
-| Indikator 2021 2022 2023 2024 Målsättning<br>2024 |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Anmälda brott mot brottsbalken per invånare,<br>antal/100 000 invånare (BRÅ) | 5 321 | 5 691 | 6 475 | \*\*\* | Minska |
-| Brukarbedömning hemtjänst äldreomsorg, helhetssyn<br>(Kolada) | - \*\* | 90 % | 91 % | \*\*\* | Öka |
-| Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn (Kolada) | - \*\* | 74 % | 76 % | \*\*\* | Öka |
-| Brukarbedömning individ- och familjeomsorg, totalt –<br>helhetssyn (Kolada) | - \*\* | 88 % | - \*\* | \*\*\* | Öka |
-
-[Tabell 18-2](handlingar.tabeller/18-2.csv)
 
 | Fokusområden Trend |  |
 | --- | --- |
@@ -805,29 +790,53 @@ hänvisade detta till skolarbetet. 22 procent angav att en osäker framtid som o
 Över lag ligger mycket fokus på åtgärder inom kärnverksamheten men så som fokusområdena är
 formulerade skulle vi även behöva vidta andra typer av åtgärder för att vi ska nå målet.
 
+Målsättning
+Indikator                         2021  2022   2023  2024
+2024
+Energiförbrukning i kommunens lokaler, KWh per 165 157 154 158 Minska
+kvadratmeter
+Utsläpp till luft av växthusgaser totalt, ton CO2- 2,48 2,27 \* \* Minska
+ekv/inv (Kolada)
+Miljöbilar, andel av totalt antal bilar i det \*\* \*\* \*\* \*\*   Öka
+geografiska området (Kolada)
+Slutanvändning av el inom det geografiska 8 7   \*     \*    Oförändrad
+området, MWh/inv (Kolada)
+Matens klimatpåverkan från de offentliga måltiderna 1,82 1,86 1,69 1,78\*\*\* Minska
+ska minska räknat i kg CO2-ekv/kg livsmedel.
+Målsättningen är 1,0 år 2030.
+Antal kemiska produkter med utfasningsämnen, 124 113 115 133\*\*\* Minska
+inklusive hormonstörande ämnen på SIN-listan ska
+minska i kommunens verksamheter. 2021 var
+antalet 124 (KEMgroup PRO)
+Avfall från hushåll ska minska med 30 % per 105 103 92 \*   Minska
+invånare från 2020 till 2030. Startvärde 100,
+målvärde 2030 är 70.
+Avfall från kommunens verksamheter ska minska 98 115 223 \* Minska
+med 40 % per heltidsanställd. Startvärde 100,
+målvärde 2030 är 60.
+
+Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig måttlig \* Öka
+Skyddad natur totalt, andel (Kolada) 7,4 % 7,4 % 7,4 % \*
+Vattendrag med god ekologisk status, andel 18,5 % 18,5 % \* \* Öka
+(Kolada)
+
+Ungas hälsa i årskurs 4 och 8 – Flickor. Åk 4: 88%, Åk 4: 88%, Åk 4: 85%, \* Öka
+Åk 8: 77%, Åk 8: 72%, Åk 8: 79%,
+(Elevhälsan i Kungsbacka utvecklar metod utifrån
+Åk 1  Åk 1    Åk 1
+hälsosamtal med elever)          gymnasiet: gymnasiet: gymnasiet:
+68%   65%     73%
+Ungas hälsa i årskurs 4 och 8 – Pojkar. (Elevhälsan Åk 4: 93% Åk 4: 90% Åk 4: 91% \* Öka
+Åk 8: 92% Åk 8: 93% Åk 8: 92%
+i Kungsbacka utvecklar metod utifrån hälsosamtal
+Åk 1  Åk 1    Åk 1
+med elever)                      gymnasiet: gymnasiet: gymnasiet:
+88%   85%     86%
 \*) Ännu ej publicerad.
 \*\*) Nyckeltalet har tagits bort från Kolada
 \*\*\*) Data till och med augusti
 
 Kungsbacka kommun          Delårsbokslut 2024                  12
-
-[Tabell 20-1](handlingar.tabeller/20-1.csv)
-
-| Målsättning<br>Indikator 2021 2022 2023 2024<br>2024 |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Energiförbrukning i kommunens lokaler, KWh per<br>kvadratmeter | 165 | 157 | 154 | 158 | Minska |
-| Utsläpp till luft av växthusgaser totalt, ton CO2-<br>ekv/inv (Kolada) | 2,48 | 2,27 | \* | \* | Minska |
-| Miljöbilar, andel av totalt antal bilar i det<br>geografiska området (Kolada) | \*\* | \*\* | \*\* | \*\* | Öka |
-| Slutanvändning av el inom det geografiska<br>området, MWh/inv (Kolada) | 8 | 7 | \* | \* | Oförändrad |
-| Matens klimatpåverkan från de offentliga måltiderna<br>ska minska räknat i kg CO2-ekv/kg livsmedel.<br>Målsättningen är 1,0 år 2030. | 1,82 | 1,86 | 1,69 | 1,78\*\*\* | Minska |
-| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan ska<br>minska i kommunens verksamheter. 2021 var<br>antalet 124 (KEMgroup PRO) | 124 | 113 | 115 | 133\*\*\* | Minska |
-| Avfall från hushåll ska minska med 30 % per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 105 | 103 | 92 | \* | Minska |
-| Avfall från kommunens verksamheter ska minska<br>med 40 % per heltidsanställd. Startvärde 100,<br>målvärde 2030 är 60. | 98 | 115 | 223 | \* | Minska |
-| Ekologisk status i Kungsbackafjorden (VISS) | måttlig | måttlig | måttlig | \* | Öka |
-| Skyddad natur totalt, andel (Kolada) | 7,4 % | 7,4 % | 7,4 % | \* |  |
-| Vattendrag med god ekologisk status, andel<br>(Kolada) | 18,5 % | 18,5 % | \* | \* | Öka |
-| Ungas hälsa i årskurs 4 och 8 – Flickor.<br>(Elevhälsan i Kungsbacka utvecklar metod utifrån<br>hälsosamtal med elever) | Åk 4: 88%,<br>Åk 8: 77%,<br>Åk 1<br>gymnasiet:<br>68% | Åk 4: 88%,<br>Åk 8: 72%,<br>Åk 1<br>gymnasiet:<br>65% | Åk 4: 85%,<br>Åk 8: 79%,<br>Åk 1<br>gymnasiet:<br>73% | \* | Öka |
-| Ungas hälsa i årskurs 4 och 8 – Pojkar. (Elevhälsan<br>i Kungsbacka utvecklar metod utifrån hälsosamtal<br>med elever) | Åk 4: 93%<br>Åk 8: 92%<br>Åk 1<br>gymnasiet:<br>88% | Åk 4: 90%<br>Åk 8: 93%<br>Åk 1<br>gymnasiet:<br>85% | Åk 4: 91%<br>Åk 8: 92%<br>Åk 1<br>gymnasiet:<br>86% | \* | Öka |
 
 <!-- sida 21 -->
 
@@ -920,7 +929,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  14
 
 [Tabell 22-1](handlingar.tabeller/22-1.csv)
 
-| Målsättning<br>Indikator 2021 2022 2023 2024<br>2024 |  |  |  |  |  |
+| Indikator | 2021 | 2022 | 2023 | 2024 | Målsättning<br>2024 |
 | --- | --- | --- | --- | --- | --- |
 | Insikt, SKR:s servicemätning av kommunernas<br>myndighetsutövning till företag. Nöjd kund-index utifrån<br>sammanvägt betygsindex 0–100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilken är en viktig del av<br>företagsklimatet. | 66 | 70 | 67 | \* | Öka |
 | Svenskt näringslivs attitydundersökning av kommuners<br>företagsklimat. Medelvärde utifrån skala 1–6, där företag<br>bedömer företagsklimatet i Kungsbacka kommun. | 3,5 | 3,4 | 3,4 | 3,8 | Öka |
@@ -977,7 +986,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  15
 
 [Tabell 23-1](handlingar.tabeller/23-1.csv)
 
-| Målsättning<br>Indikator 2021 2022 2023 2024<br>2024 |  |  |  |  |  |
+| Indikator | 2021 | 2022 | 2023 | 2024 | Målsättning<br>2024 |
 | --- | --- | --- | --- | --- | --- |
 | Genomsnittligt meritvärde för grundskolans årskurs 9.<br>Meritvärdet utgörs av summan av de 17 bästa betygen<br>i elevens slutbetyg och kan max vara 340. (Kolada) | 239 | 237 | 237 | \* | Öka |
 | Genomsnittlig betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara max 20.<br>(Kolada) | 14,2 | 14,5 | 14,3 | \* | Öka |
@@ -1090,7 +1099,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  17
 
 [Tabell 25-1](handlingar.tabeller/25-1.csv)
 
-| Målsättning<br>Indikator 2021 2022 2023 2024<br>2024 |  |  |  |  |  |
+| Indikator | 2021 | 2022 | 2023 | 2024 | Målsättning<br>2024 |
 | --- | --- | --- | --- | --- | --- |
 | Hållbart medarbetarengagemang, ett index för<br>medarbetarnas samlade uppfattning om områdena<br>motivation, ledarskap och styrning, skala 1–100<br>enligt Medarbetarenkäten. | 78 | 78 | 76 | \* | Öka |
 | Jämställdhetsindex, Jämix. Antal poäng av max 180.<br>Jämix beräknas utifrån nio nyckeltal med skala 1–20<br>och visar hur jämställda arbetsvillkor, arbetsmiljö och<br>anställningsvillkor är i organisationen | 103 | 114 | 122 | \* | Öka |
@@ -1205,7 +1214,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  19
 
 [Tabell 27-1](handlingar.tabeller/27-1.csv)
 
-| Målsättning<br>Indikator 2023 2024<br>2024 |  |  |  |
+| Indikator | 2023 | 2024 | Målsättning<br>2024 |
 | --- | --- | --- | --- |
 | Andel innovationsprojekt som drivits under året \*\* | - | \* | Öka |
 | Andel av bruttokostnaden som avsätts för<br>verksamhetsutveckling och innovation \*\* | - | \* | Öka |
@@ -1252,19 +1261,19 @@ Kungsbacka kommun          Delårsbokslut 2024                  20
 
 [Tabell 28-1](handlingar.tabeller/28-1.csv)
 
-| 2024 2025 2026 Genomsnitt<br>2022 2023<br>prognos budget plan (70 procent över femårsperioden 2022–2026) |  |  |  |  |  |
+| 2022 | 2023 | 2024<br>prognos | 2025<br>budget | 2026<br>plan | Genomsnitt<br>(70 procent över femårsperioden 2022–2026) |
 | --- | --- | --- | --- | --- | --- |
 | 142 | 67 | 66 | 75 | 55 | 81 |
 
 [Tabell 28-2](handlingar.tabeller/28-2.csv)
 
-| Genomsnitt<br>2024<br>2021 2022 2023 2025 (Sista årets soliditet ska vara högre än<br>(augusti)<br>genomsnittet för perioden 2021–2025 |  |  |  |  |  |
+| 2021 | 2022 | 2023 | 2024<br>(augusti) | 2025 | Genomsnitt<br>(Sista årets soliditet ska vara högre än<br>genomsnittet för perioden 2021–2025 |
 | --- | --- | --- | --- | --- | --- |
 | 27,2 | 29,3 | 32,3 | 33,6 | \* | \* |
 
 [Tabell 28-3](handlingar.tabeller/28-3.csv)
 
-| Genomsnitt<br>2024<br>2021 2022 2023 2025 (Sista årets soliditet ska vara högre än<br>(augusti)<br>genomsnittet för perioden 2021–2025 |  |  |  |  |  |
+| 2021 | 2022 | 2023 | 2024<br>(augusti) | 2025 | Genomsnitt<br>(Sista årets soliditet ska vara högre än<br>genomsnittet för perioden 2021–2025 |
 | --- | --- | --- | --- | --- | --- |
 | 35,5 | 35,4 | 35,9 | 37,3 | 34,7 | 35,8 |
 
@@ -1304,9 +1313,9 @@ Kungsbacka kommun          Delårsbokslut 2024                  21
 | +Användning av medel från resultatutjämningsreserv | - | - |
 | =Balanskravsresultat | 245 | 174 |
 
-[Tabell 29-2](handlingar.tabeller/29-2.csv)
+[Tabell 29-30-2](handlingar.tabeller/29-30-2.csv)
 
-| Namn Utfall januari-juni Utfall januari-juni<br>2023 2024 |  |  |
+| Namn | Utfall januari-juni<br>2023 | Utfall januari-juni<br>2024 |
 | --- | --- | --- |
 | Anställda totalt | 6 709 | 6 618 |
 | Anställda andel kvinnor | 79,0 % | 78,9 % |
@@ -1316,6 +1325,10 @@ Kungsbacka kommun          Delårsbokslut 2024                  21
 | Sjukfrånvaro totalt | 7,2 % | 7,3 % |
 | Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller mer | 38,7 % | 39,3 % |
 | Sjukfrånvaro, anställda i åldrarna 29 år eller yngre | 7,5 % | 7, 0 % |
+| Sjukfrånvaro, anställda i åldrarna 30–49 år | 6,2 % | 6,1 % |
+| Sjukfrånvaro, anställda i åldrarna 50 år eller äldre | 8,2 % | 8,7 % |
+| Sjukfrånvaro kvinnor | 7,9 % | 8,0 % |
+| Sjukfrånvaro män | 4,6 % | 4,9 % |
 
 <!-- sida 30 -->
 
@@ -1359,15 +1372,6 @@ vill säga varken fått ersättning eller betalat avgift i systemet, till att bi
 kronor.
 
 Kungsbacka kommun          Delårsbokslut 2024                  22
-
-[Tabell 30-1](handlingar.tabeller/30-1.csv)
-
-| Namn Utfall januari-juni Utfall januari-juni<br>2023 2024 |  |  |
-| --- | --- | --- |
-| Sjukfrånvaro, anställda i åldrarna 30–49 år | 6,2 % | 6,1 % |
-| Sjukfrånvaro, anställda i åldrarna 50 år eller äldre | 8,2 % | 8,7 % |
-| Sjukfrånvaro kvinnor | 7,9 % | 8,0 % |
-| Sjukfrånvaro män | 4,6 % | 4,9 % |
 
 <!-- sida 31 -->
 
@@ -1498,7 +1502,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  26
 
 [Tabell 34-1](handlingar.tabeller/34-1.csv)
 
-| Miljoner kronor Delår Delår Bokslut Budget Prognos Prognos Avvikelse<br>2023 2024 2023 2024 2024 avvikelse procent |  |  |  |  |  |  |  |
+| Miljoner kronor | Delår<br>2023 | Delår<br>2024 | Bokslut<br>2023 | Budget<br>2024 | Prognos<br>2024 | Prognos<br>avvikelse | Avvikelse<br>procent |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Kommunfullmäktige | -3,7 | -2,6 | -5,2 | -4,7 | -4,7 | 0 | 0 |
 | Kommunstyrelse | -196,2 | -180,7 | -285,7 | -285,3 | -271,1 | 14,2 | 5,0 |
@@ -1612,9 +1616,9 @@ bruttoinvesteringarna för respektive nämnd. Om man räknar med årets invester
 
 Kungsbacka kommun          Delårsbokslut 2024                  28
 
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
+[Tabell 36-37-1](handlingar.tabeller/36-37-1.csv)
 
-| Miljoner kronor Delår Delår Budget Prognos Prognos Avvikelse<br>2023 2024 2024 2024 avvikelse procent |  |  |  |  |  |  |
+| Miljoner kronor | Delår<br>2023 | Delår<br>2024 | Budget<br>2024 | Prognos<br>2024 | Prognos<br>avvikelse | Avvikelse<br>procent |
 | --- | --- | --- | --- | --- | --- | --- |
 | Gymnasium &<br>Arbetsmarknad | 1,4 | 0,9 | 4,6 | 4,6 | 0,0 | 0 |
 | Kultur & Fritid | 16,4 | 8,3 | 26,2 | 13,8 | 12,4 | 47,3 |
@@ -1632,6 +1636,11 @@ Kungsbacka kommun          Delårsbokslut 2024                  28
 | Vatten & Avlopp | 190,6 | 201,9 | 591,6 | 389,2 | 202,5 | 34,2 |
 | Avfall & Återvinning | 0,8 | 1,1 | 37,5 | 4,0 | 33,5 | 89,3 |
 | Kungsbacka Bredbandsnät | 24,8 | 26,8 | 23,3 | 29,4 | -6,1 | -26,2 |
+| Summa avgiftsfinansierad<br>verksamhet | 216,2 | 229,9 | 652,5 | 422,6 | 229,9 | 35,2 |
+| Summa investeringar | 550,2 | 486,9 | 1 527,1 | 974,1 | 551,7 | 36,1 |
+| varav finansiell leasing | 11,4 | 0,3 | 0,0 | 2,8 | -2,8 |  |
+| varav gåvor | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 |  |
+| Summa investeringar<br>exklusive finansiell leasing<br>och gåvor | 538,7 | 486,7 | 1 527,1 | 971,3 | 555,7 | 36,4 |
 
 <!-- sida 37 -->
 
@@ -1672,17 +1681,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  29
 
 [Tabell 37-1](handlingar.tabeller/37-1.csv)
 
-| Miljoner kronor Delår Delår Budget Prognos Prognos Avvikelse<br>2023 2024 2024 2024 avvikelse procent |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Summa avgiftsfinansierad<br>verksamhet | 216,2 | 229,9 | 652,5 | 422,6 | 229,9 | 35,2 |
-| Summa investeringar | 550,2 | 486,9 | 1 527,1 | 974,1 | 551,7 | 36,1 |
-| varav finansiell leasing | 11,4 | 0,3 | 0,0 | 2,8 | -2,8 |  |
-| varav gåvor | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 |  |
-| Summa investeringar<br>exklusive finansiell leasing<br>och gåvor | 538,7 | 486,7 | 1 527,1 | 971,3 | 555,7 | 36,4 |
-
-[Tabell 37-2](handlingar.tabeller/37-2.csv)
-
-| Miljoner kronor Delår Delår Budget Prognos Avvikelse<br>2023 2024 2024 2024 |  |  |  |  |  |
+| Miljoner kronor | Delår<br>2023 | Delår<br>2024 | Budget<br>2024 | Prognos<br>2024 | Avvikelse |
 | --- | --- | --- | --- | --- | --- |
 | Utgifter | -190,6 | -201,9 | -591,6 | -389,1 | 202,5 |
 | Inkomster | 20,9 | 26,7 | 125,5 | 70,5 | -55,0 |
@@ -1725,7 +1724,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  30
 
 [Tabell 38-1](handlingar.tabeller/38-1.csv)
 
-| Miljoner kronor Delår Delår Budget Prognos Avvikelse<br>2023 2024 2024 2024 |  |  |  |  |  |
+| Miljoner kronor | Delår<br>2023 | Delår<br>2024 | Budget<br>2024 | Prognos<br>2024 | Avvikelse |
 | --- | --- | --- | --- | --- | --- |
 | Utgifter | 0,8 | -1,1 | -37,5 | -4,0 | 33,5 |
 | Inkomster | 0 | 0 | 0 | 0 | 0 |
@@ -1733,7 +1732,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  30
 
 [Tabell 38-2](handlingar.tabeller/38-2.csv)
 
-| Miljoner kronor Delår Delår Budget Prognos Avvikelse<br>2023 2024 2024 2024 |  |  |  |  |  |
+| Miljoner kronor | Delår<br>2023 | Delår<br>2024 | Budget<br>2024 | Prognos<br>2024 | Avvikelse |
 | --- | --- | --- | --- | --- | --- |
 | Utgifter | -24,8 | -26,8 | -23,3 | -29,4 | -6,1 |
 | Inkomster | 2 | 3,3 | -1,2 | 5,0 | 6,2 |
@@ -10036,7 +10035,7 @@ NÄTUTVECKLINGSPLAN 2025–2034: FÖRETAGETS BEDÖMNING OM DE PLANERADE ÅTGÄRD
 
 PERIODEN 2025–2034 MÖTER BEHOVET
 
-[Tabell 263-1](handlingar.tabeller/263-1.csv)
+[Tabell 263-264-1](handlingar.tabeller/263-264-1.csv)
 
 | DELOMRÅDE | ÄR ÅTGÄRDERNA TILLRÄCKLIGA FÖR ATT<br>MÖTA BEHOVET I DET INTERNA NÄTET? | FINNS DET NÅGRA KVARSTÅENDE<br>BEGRÄNSNINGAR MOT ÖVERLIGGANDE<br>ELNÄT? |
 | --- | --- | --- |
@@ -10050,17 +10049,6 @@ PERIODEN 2025–2034 MÖTER BEHOVET
 | Lidingö | Ja, Ellevio bedömer att det planerade<br>åtgärderna i det egna elnätet är tillräckliga för<br>att möta behovet. | Nej, Ellevio bedömer att det inte kommer att<br>kvarstå några begränsningar mot överliggande<br>elnät vid tidperiodens slut. |
 | Nynäshamn | Ja, Ellevio bedömer att det planerade<br>åtgärderna i det egna elnätet är tillräckliga för<br>att möta behovet. | Nej, Ellevio bedömer att det inte kommer att<br>kvarstå några begränsningar mot överliggande<br>elnät vid tidperiodens slut. |
 | Skaraborg | Ja, Ellevio bedömer att det planerade<br>åtgärderna i det egna elnätet är tillräckliga för<br>att möta behovet. | Ja, Ellevio bedömer att det kan kvarstå<br>begränsningar mot överliggande elnät vid<br>tidsperiodens slut. Dialog om nätåtgärd med Svk<br>och Vattenfall Eldistribution pågår. |
-
-<!-- sida 264 -->
-
-NÄTUTVECKLINGSPLAN 2025–2034: FÖRETAGETS BEDÖMNING OM DE PLANERADE ÅTGÄRDERNA FÖR 62
-
-PERIODEN 2025–2034 MÖTER BEHOVET
-
-[Tabell 264-1](handlingar.tabeller/264-1.csv)
-
-| DELOMRÅDE | ÄR ÅTGÄRDERNA TILLRÄCKLIGA FÖR ATT<br>MÖTA BEHOVET I DET INTERNA NÄTET? | FINNS DET NÅGRA KVARSTÅENDE<br>BEGRÄNSNINGAR MOT ÖVERLIGGANDE<br>ELNÄT? |
-| --- | --- | --- |
 | Norra Bohuslän | Nej, det finns risk att vissa kapacitets-<br>begränsningar i det egna nätet kommer att<br>kvarstå efter att Ellevio har genomfört nuvarande<br>planerade åtgärder. Dessa begränsningar<br>förväntas dock endast uppstå vid topplasttimmar<br>samt om ett fel uppstår och bedöms kunna lösas<br>med omdirigering. | Ja, Ellevio bedömer att det kan kvarstå<br>begränsningar mot överliggande elnät vid<br>tidsperiodens slut. Dialog om nätåtgärd med<br>Vattenfall Eldistribution pågår. |
 | Orust-Tjörn | Nej, det finns risk att vissa kapacitets-<br>begränsningar i det egna nätet kommer att<br>kvarstå efter att Ellevio har genomfört planerade<br>åtgärder. Dessa begränsningar förväntas dock<br>endast uppstå vid topplasttimmar samt om<br>ett fel uppstår och bedöms kunna lösas med<br>omdirigering. | Nej, Ellevio bedömer att det inte kommer att<br>kvarstå några begränsningar mot överliggande<br>elnät vid tidperiodens slut. |
 | Halland | Nej, det finns risk att vissa kapacitets-<br>begränsningar i det egna nätet kommer att<br>kvarstå efter att Ellevio har genomfört nuvarande<br>planerade åtgärder. Dessa begränsningar<br>förväntas dock endast uppstå vid topplasttimmar<br>samt om ett fel uppstår och bedöms kunna lösas<br>med omdirigering. | Ja, Ellevio bedömer att det kan kvarstå<br>begränsningar mot överliggande elnät vid<br>tidsperiodens slut. Dialog om nätåtgärd med<br>Vattenfall Eldistribution och Svk pågår. |
@@ -10068,6 +10056,12 @@ PERIODEN 2025–2034 MÖTER BEHOVET
 | Olingan | Ja, Ellevio bedömer att det planerade<br>åtgärderna i det egna elnätet är tillräckliga för<br>att möta behovet. | Nej, Ellevio bedömer att det inte kommer att<br>kvarstå några begränsningar mot överliggande<br>elnät vid tidperiodens slut. |
 | Torpberget | Ja, Ellevio bedömer att det planerade<br>åtgärderna i det egna elnätet är tillräckliga för<br>att möta behovet. | Nej, Ellevio bedömer att det inte kommer att<br>kvarstå några begränsningar mot överliggande<br>elnät vid tidperiodens slut. |
 | Laforsen | Ja, Ellevio bedömer att det planerade<br>åtgärderna i det egna elnätet är tillräckliga för<br>att möta behovet. | Nej, Ellevio bedömer att det inte kommer att<br>kvarstå några begränsningar mot överliggande<br>elnät vid tidperiodens slut. |
+
+<!-- sida 264 -->
+
+NÄTUTVECKLINGSPLAN 2025–2034: FÖRETAGETS BEDÖMNING OM DE PLANERADE ÅTGÄRDERNA FÖR 62
+
+PERIODEN 2025–2034 MÖTER BEHOVET
 
 <!-- sida 265 -->
 
@@ -11149,33 +11143,6 @@ kapitel 2.1.3 Behovet av överföringskapacitet väntas öka som snabbast under 
 
 Tabell 6 Procentuell ökning av effektuttag (MW) för 2029 och 2034, per län och jämfört mot baseline.
 
-```osaker-tabell
-                      Baseline (MW)        2029            2034
-
-Blekinge län                381             19%            25%
-Gävleborgs län               22              9%            23%
-
-Hallands län                660              7%            10%
-Jämtlands län               100              6%            14%
-
-Jönköpings län              594              6%            12%
-Kalmar län                  622              5%            10%
-
-Kronobergs län              467              6%            12%
-Skåne län                   2843             4%             9%
-
-Stockholms län              556              7%            18%
-Uppsala län                 120             24%            28%
-
-Västerbottens län             6             17%            17%
-Västernorrlands län         1134             3%             5%
-
-Västra Götalands län         13              8%            15%
-Örebro län                  294             12%            18%
-
-Östergötlands län           329              8%            10%
-```
-
 Lokalt kan enskilda anslutningsärenden ha en stor påverkan på det framtida effektbehovet men sett
 till systemet som helhet är summan av alla mindre nya anslutningar och förändrade
 förbrukningsmönster i befintliga anslutningar av större betydelse. Under dagtid utgör hushåll och
@@ -11196,6 +11163,26 @@ kopplat till organisk tillväxt och elektrifieringen av fordonsflottan. Sommarti
 baseline som bygger på representativa historiska data väljer vi här att presentera det ökade effektbehovet i relation till
 baseline, vilken grundar sig på historiska mätdata i våra elnät fram till årsskiftet 2023–2024.
 22
+
+[Tabell 291-1](handlingar.tabeller/291-1.csv)
+
+|  | Baseline (MW) | 2029 | 2034 |
+| --- | --- | --- | --- |
+| Blekinge län | 381 | 19% | 25% |
+| Gävleborgs län | 22 | 9% | 23% |
+| Hallands län | 660 | 7% | 10% |
+| Jämtlands län | 100 | 6% | 14% |
+| Jönköpings län | 594 | 6% | 12% |
+| Kalmar län | 622 | 5% | 10% |
+| Kronobergs län | 467 | 6% | 12% |
+| Skåne län | 2843 | 4% | 9% |
+| Stockholms län | 556 | 7% | 18% |
+| Uppsala län | 120 | 24% | 28% |
+| Västerbottens län | 6 | 17% | 17% |
+| Västernorrlands län | 1134 | 3% | 5% |
+| Västra Götalands län | 13 | 8% | 15% |
+| Örebro län | 294 | 12% | 18% |
+| Östergötlands län | 329 | 8% | 10% |
 
 <!-- sida 292 -->
 
@@ -11387,15 +11374,6 @@ parametrar utgör basdata till dimensioneringsberäkningarna.
 
 Tabell 8. Definierade förutsättningar för beräkning av överföringsförmågan på luftledningar i regionnätet under olika årstider.
 
-Benämning     Lufttemperatur [°C] Vindhastighet [m/s] Solinstrålning [W/m²]
-
-```osaker-tabell
-Vinter                   0               0,6               450
-Vår/höst                10               0,6               800
-
-Sommar                  25               0,6               900
-```
-
 Strömmen som överförs i ledningen genererar förluster i form av värme. Om kyleffekten inte är
 tillräcklig, leder värmeutvecklingen till att luftledningen expanderar och avstånd till mark/omgivning
 minskar. E.ON har som krav från elsäkerhetsverket att hålla säkerhetsavstånd. Elektriskt överslag till
@@ -11420,6 +11398,14 @@ leder även till omvända fenomen, då vissa områden med historiskt produktions
 bli nya konsumtionscentra.
 
 26
+
+[Tabell 295-1](handlingar.tabeller/295-1.csv)
+
+| Benämning | Lufttemperatur [°C] | Vindhastighet [m/s] | Solinstrålning [W/m²] |
+| --- | --- | --- | --- |
+| Vinter | 0 | 0,6 | 450 |
+| Vår/höst | 10 | 0,6 | 800 |
+| Sommar | 25 | 0,6 | 900 |
 
 <!-- sida 296 -->
 

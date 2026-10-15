@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.69662c5a18d8755e10814ac3/1707978389
 sha256: edc2787ecf8261a8afdd867190e32c3bf3eea3a49e3dc17bcec3a3ccc3b7a8ca
 bytes: 61719067
 sidor: 993
-hamtad: 2026-10-08T09:26:02+00:00
-konverterad: 2026-10-08T09:32:43+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T07:17:35+00:00
+konverterad: 2026-10-15T07:24:42+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr]
-tal_obekraftade: [10, 98, 99, 209, 210, 237, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 444, 445, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 554, 839, 840, 918, 919, 920, 921, 922, 923, 924, 925, 932, 933, 957, 958, 959, 960, 961, 962, 963, 978, 987, 993]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, tabell-osaker, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr]
+tal_obekraftade: [10, 98, 99, 122, 168, 171, 209, 210, 212, 217, 236, 237, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 298, 299, 300, 301, 302, 303, 306, 316, 323, 331, 352, 359, 360, 361, 362, 363, 364, 367, 403, 406, 444, 445, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 499, 507, 508, 509, 516, 517, 554, 767, 772, 791, 823, 839, 840, 918, 919, 920, 921, 922, 923, 924, 925, 932, 933, 957, 958, 959, 960, 961, 962, 963, 978, 987, 993]
+figurer: [10, 51, 82, 108, 109, 110, 111, 112, 117, 118, 119, 133, 134, 135, 137, 138, 139, 140, 141, 142, 143, 144, 146, 147, 148, 149, 150, 151, 152, 153, 154, 168, 169, 170, 171, 172, 173, 177, 183, 190, 191, 194, 195, 196, 197, 198, 199, 200, 217, 238, 255, 256, 260, 261, 262, 263, 264, 265, 266, 267, 272, 298, 299, 300, 301, 302, 305, 318, 320, 321, 322, 334, 338, 339, 359, 360, 361, 362, 363, 366, 396, 397, 398, 403, 404, 405, 406, 407, 408, 412, 418, 425, 426, 429, 430, 431, 432, 433, 434, 435, 463, 466, 467, 469, 470, 471, 472, 473, 478, 480, 481, 482, 486, 489, 491, 495, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 523, 525, 526, 527, 528, 530, 535, 539, 542, 544, 768, 769, 775, 779, 780, 809, 810, 851, 858, 914, 918, 919, 920, 921, 922, 923, 924, 925, 957, 958, 959, 960, 961, 962, 963, 987]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -59,7 +59,7 @@ KUNGSBACKA  KOMMUN
 
 2(7)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -71,34 +71,12 @@ KUNGSBACKA  KOMMUN
 | 7. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa -<br>Individ & Familjeomsorg | 2023-00853 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>begärt belopp om 1 000 000 kronor från centrala<br>finansverksamheten för 2024 till nämnden för Individ<br>& Familjeomsorg. |
 | 8. | Delegeringsförteckning för<br>kommunstyrelsen | 2023-00461 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar delegeringsförteckning för<br>kommunstyrelsen, daterad 2024-01-16.<br>Delegeringsförteckningen för kommunstyrelsen,<br>antagen av kommunstyrelsen 2024-01-23, § 12,<br>upphör samtidigt att gälla. |
 | 9. | Återrapportering av uppdrag<br>att utreda förutsättningar för<br>kommersiell stadsodling | 2021-00638 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar utredning om<br>förutsättningarna för kommersiell stadsodling,<br>daterad 2023-12-12, och förklarar uppdraget som<br>lämnades av kommunfullmäktige den 8 december<br>2020, § 183, för avslutat. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(7)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 10. | Samråd för fördjupad<br>översiktsplan för Kungsbacka<br>stad (FÖP) | 2020-00313 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att samråda om Fördjupad översiktsplan för<br>Kungsbacka stad, daterad 2024-01-25. |
 | 11. | Planbesked för Bukärr 2:28 | 2023-00699 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom del av Bukärr 2:28 i Särö. |
 | 12. | Planbesked för Lyngås 3:8 | 2023-00640 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Lyngås 3:8 i Onsala. |
 | 13. | Planbesked för Kläppa 1:4 | 2023-00698 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att utreda förutsättningarna för bostäder inom<br>Kläppa 1:4 genom att inkludera fastigheten i ett<br>planprogram för ett större område i anslutning till<br>Åsa station.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att inkludera Kläppa 1:4 i en projektbeställning för<br>upprättande av planprogram för Åsa station i Åsa. |
 | 14. | Svar på Mark- och<br>miljödomstolen vid<br>Vänersborgs tingsrätts remiss<br>avseende omprövning av<br>moderna miljövillkor av<br>vattenverksamhet för Ålgårda<br>kraftverk | 2024-00101 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-02-06,<br>och översänder det som sitt svar till Mark- och<br>miljödomstolen. |
 | 15. | Svar på Mark- och<br>miljödomstolen vid<br>Vänersborgs tingsrätts remiss<br>avseende omprövning av<br>moderna miljövillkor av<br>vattenverksamhet för Gökalids<br>kraftverk samt Stora Öresjöns<br>regleringsdammar | 2024-00102 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-02-06,<br>och översänder det som sitt svar till Mark- och<br>miljödomstolen. |
-
-<!-- sida 4 -->
-
-KUNGSBACKA  KOMMUN
-
-4(7)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 16. | Svar på Socialdepartementets<br>remiss över promemorian Ett<br>förtydligat brottsförebyggande<br>ansvar för socialnämnden | 2023-00808 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-01-26,<br>och översänder det som sitt svar till<br>Socialdepartementet. |
 | 17. | Anmälan av delegeringsbeslut | 2024-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
 | 18. | Anmälan av ordförandebeslut | 2024-00007 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
@@ -106,34 +84,42 @@ KUNGSBACKA  KOMMUN
 | 20. | Antagande av regler för<br>kommunalt partistöd | 2023-00566 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar regler för kommunalt<br>partistöd, daterade 2023-12-08.<br>Regler för kommunalt partistöd, antagna av<br>kommunfullmäktige 2014-12-09, § 214, upphör<br>samtidigt att gälla. |
 | 21. | Antagande av ny<br>förbundsordning för<br>Göteborgsregionen | 2023-00395 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar förbundsordning för<br>Göteborgsregionen, daterad 2023-10-26. |
 
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(7)
+
+<!-- sida 4 -->
+
+KUNGSBACKA  KOMMUN
+
+4(7)
+
 <!-- sida 5 -->
 
 KUNGSBACKA  KOMMUN
 
 5(7)
 
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
+[Tabell 5-7-1](handlingar.tabeller/5-7-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 22. | Antagande av riktlinjer för<br>hantering av personuppgifter | 2023-00815 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar riktlinjer för hantering av<br>personuppgifter, daterade 2023-12-15.<br>Riktlinjer för personuppgifter och regler för<br>biträdesförhållanden inom Kungsbacka kommun,<br>antagna av kommunstyrelsen 2021-10-19, § 278,<br>upphör samtidigt att gälla.<br>Kommunfullmäktige ger samtliga nämnder i uppdrag<br>att delegera beslutanderätten om<br>personuppgiftsbiträdesavtal för<br>kommungemensamma digitala tjänster och system till<br>biträdande kommundirektör.<br>Kommunfullmäktige reviderar § 5 i Gemensamt<br>reglemente för kommunstyrelse och nämnder i<br>Kungsbacka kommun så att den lyder:<br>Nämnden är personuppgiftsansvarig för den<br>behandling av personuppgifter som sker i<br>nämndens verksamhet. En nämnd kan också ha<br>gemensamt personuppgiftsansvar eller vara<br>personuppgiftsbiträde åt en annan nämnd.<br>Närmare reglering finns i styrdokument.<br>Personuppgiftsansvariga nämnder ska utse<br>dataskyddsombud. |
 | 23. | Återrapportering på uppdrag<br>att ta fram styrdokument för<br>innovation och förnyelse | 2022-00122 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar uppdraget att ta fram<br>ändamålsenliga styrande dokument för innovation<br>och förnyelse, och förklarar uppdraget som lämnades<br>av kommunstyrelsen den 22 mars 2022, § 60 för<br>avslutat.<br>Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige upphäver kvalitetspolicy för<br>Kungsbacka kommun, antagen av<br>kommunfullmäktige 2013-08-13, § 101. |
 | 24. | Taxa för laddning vid publika<br>laddstolpar | 2023-00855 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fastställer taxa för laddning vid<br>Kungsbacka kommuns publika laddstolpar, daterad<br>2024-01-09.<br>Taxan träder i kraft 2024-04-08. |
+| 25. | Godkännande av<br>investeringsmedel till och<br>uppstart av projekt i lokalplan<br>Administrativa lokaler<br>samlokalisering | 2023-00842 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner att projekt<br>Administrativa lokaler samlokalisering läggs till i<br>Lokalplan 2024–2028 som ingår som en del av<br>kommunbudget 2024.<br>Kommunfullmäktige godkänner att<br>investeringsvolym om 44,4 miljoner kronor som<br>ingår i kommunbudget 2024, används för projekt<br>Administrativa lokaler samlokalisering.<br>Förslag till beslut i kommunstyrelsen under<br>förutsättning av kommunfullmäktiges beslut ovan<br>Kommunstyrelsen godkänner uppstart av projekt<br>Administrativa lokaler samlokalisering. |
+| 26. | Ansökan amorteringsfrihet för<br>lån med kommunal borgen -<br>Vallda tennisklubb och Vallda<br>tennishall ekonomisk förening | 2023-00737 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår Vallda Tennisklubbs<br>begäran om amorteringsfrihet för perioden<br>2024-01-01 till 2028-12-31 och medger inte undantag<br>från villkoret om att amortering ska ske för det lån<br>om 1 525 000 kronor som kommunen gått i borgen<br>för.<br>Kommunfullmäktige avslår Vallda Tennishall<br>ekonomisk förenings begäran om amorteringsfrihet<br>för perioden 2024-01-01 till 2028-12-31 och medger<br>inte undantag från villkoret om att amortering ska ske<br>för det lån om 4 970 000 kronor som kommunen har<br>gått i borgen för. |
+| 27. | Svar på motion från Susanne<br>Andersson (SD) m.fl. om<br>separata herr- och damtoaletter | 2023-00336 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att toaletter liksom andra<br>rumsfunktioner ska vara tillgängliga för en så bred<br>målgrupp som möjligt. |
+| 28. | Svar på motion från Magdalena<br>Sundqvist (S) om att återuppta<br>nationaldagsfirandet i<br>Kungsbacka | 2023-00439 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att Kungsbacka kommun även<br>fortsättningsvis kommer att ansvara för<br>genomförande av nationaldagsfirande. |
+| 29. | Svar på motion från Johan<br>Tolinsson (S) om att utreda<br>förutsättningarna för en<br>Ledardag | 2021-01156 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till de befintliga samverkanforum för<br>samspel mellan förtroendevalda och kommunens<br>chefer som redan är etablerade. |
 
 <!-- sida 6 -->
 
 KUNGSBACKA  KOMMUN
 
 6(7)
-
-[Tabell 6-1](handlingar.tabeller/6-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 25. | Godkännande av<br>investeringsmedel till och<br>uppstart av projekt i lokalplan<br>Administrativa lokaler<br>samlokalisering | 2023-00842 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner att projekt<br>Administrativa lokaler samlokalisering läggs till i<br>Lokalplan 2024–2028 som ingår som en del av<br>kommunbudget 2024.<br>Kommunfullmäktige godkänner att<br>investeringsvolym om 44,4 miljoner kronor som<br>ingår i kommunbudget 2024, används för projekt<br>Administrativa lokaler samlokalisering.<br>Förslag till beslut i kommunstyrelsen under<br>förutsättning av kommunfullmäktiges beslut ovan<br>Kommunstyrelsen godkänner uppstart av projekt<br>Administrativa lokaler samlokalisering. |
-| 26. | Ansökan amorteringsfrihet för<br>lån med kommunal borgen -<br>Vallda tennisklubb och Vallda<br>tennishall ekonomisk förening | 2023-00737 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår Vallda Tennisklubbs<br>begäran om amorteringsfrihet för perioden<br>2024-01-01 till 2028-12-31 och medger inte undantag<br>från villkoret om att amortering ska ske för det lån<br>om 1 525 000 kronor som kommunen gått i borgen<br>för.<br>Kommunfullmäktige avslår Vallda Tennishall<br>ekonomisk förenings begäran om amorteringsfrihet<br>för perioden 2024-01-01 till 2028-12-31 och medger<br>inte undantag från villkoret om att amortering ska ske<br>för det lån om 4 970 000 kronor som kommunen har<br>gått i borgen för. |
-| 27. | Svar på motion från Susanne<br>Andersson (SD) m.fl. om<br>separata herr- och damtoaletter | 2023-00336 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att toaletter liksom andra<br>rumsfunktioner ska vara tillgängliga för en så bred<br>målgrupp som möjligt. |
-| 28. | Svar på motion från Magdalena<br>Sundqvist (S) om att återuppta<br>nationaldagsfirandet i<br>Kungsbacka | 2023-00439 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att Kungsbacka kommun även<br>fortsättningsvis kommer att ansvara för<br>genomförande av nationaldagsfirande. |
 
 <!-- sida 7 -->
 
@@ -143,12 +129,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Patrik Johansson
 ordförande                        kommunsekreterare
-
-[Tabell 7-1](handlingar.tabeller/7-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 29. | Svar på motion från Johan<br>Tolinsson (S) om att utreda<br>förutsättningarna för en<br>Ledardag | 2021-01156 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till de befintliga samverkanforum för<br>samspel mellan förtroendevalda och kommunens<br>chefer som redan är etablerade. |
 
 <!-- sida 8 -->
 
@@ -1586,29 +1566,28 @@ totalt 3,6 miljoner kronor.
 Nämnd            Område                Begärt belopp,  Beviljat belopp,
 kronor           kronor
 
-Vård & Omsorg                                                900 000
+Vård & Omsorg    Möta äldre som             900 000          900 000
+besväras av ofrivillig
+ensamhet
 
-Kultur & Fritid
+Kultur & Fritid  Friskvårds- &             1 200 000
+Aktivitetsgruppens
+satsning för att nå fler
+barn och unga
 
-Kultur & Fritid
-
-Individ &
+Kultur & Fritid  Tillsammansgruppen –       500 000
+ungdomar från 13 år
+med NPF-diagnos
+erbjuds mötesplats och
+engagerande aktiviteter
+Individ &                                  1 000 000
 Familjeomsorg
 
-SUMMA                                                        900 000
+SUMMA                                      3 600 000         900 000
 
 Malin Aronsson                     Anders Johansson
 
 Kommundirektör                     Biträdande kommundirektör
-
-[Tabell 40-1](handlingar.tabeller/40-1.csv)
-
-| Möta äldre som<br>besväras av ofrivillig<br>ensamhet | 900 000 |
-| --- | --- |
-| Friskvårds- &<br>Aktivitetsgruppens<br>satsning för att nå fler<br>barn och unga | 1 200 000 |
-| Tillsammansgruppen –<br>ungdomar från 13 år<br>med NPF-diagnos<br>erbjuds mötesplats och<br>engagerande aktiviteter | 500 000 |
-|  | 1 000 000 |
-|  | 3 600 000 |
 
 <!-- sida 41 -->
 
@@ -1969,7 +1948,7 @@ Bilaga 2
 
 Kungsbacka kommun Medel till att främja välmående och motverka psykisk ohälsa 7
 
-[Tabell 49-1](handlingar.tabeller/49-1.csv)
+[Tabell 49-50-1](handlingar.tabeller/49-50-1.csv)
 
 | Aktivitet | För vem | Kostnad |
 | --- | --- | --- |
@@ -1980,19 +1959,7 @@ Kungsbacka kommun Medel till att främja välmående och motverka psykisk ohäls
 | Trubadur på enhet | 6 tillfällen | 18000 |
 | Middag på enhet | Alla | 75000 |
 | Nyårsmiddag x2 | Alla | 30000 |
-
-<!-- sida 50 -->
-
-Bilaga 3
-
-Middag på ett boende
-
-Kungsbacka kommun Medel till att främja välmående och motverka psykisk ohälsa 8
-
-[Tabell 50-1](handlingar.tabeller/50-1.csv)
-
 | Tipspromenader | Alla | 5000 |
-| --- | --- | --- |
 | Samarbete med VO-<br>rörelse/träning på enhet | Alla | 150000 |
 | Personalkostnader för<br>ledsagning och planering | Alla | 100000 |
 | Träffpunkt med VO -äldre | Pension | 1000 |
@@ -2002,6 +1969,14 @@ Kungsbacka kommun Medel till att främja välmående och motverka psykisk ohäls
 | Side by side cykel | Alla | 150000 |
 |  | Total kostnad: | 934000 |
 |  |  |  |
+
+<!-- sida 50 -->
+
+Bilaga 3
+
+Middag på ett boende
+
+Kungsbacka kommun Medel till att främja välmående och motverka psykisk ohälsa 8
 
 <!-- sida 51 -->
 
@@ -2509,17 +2484,45 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 7 (20)
 
 <!-- sida 65 -->
 
+Nr   Lagrum/stöd  Delegeringens omfattning         Delegerat till Med rätt att Anmärkning/villkor
+vidaredelegera
+2.1.9 GDPR artikel 15-21, Helt eller delvis avslå framställan om begäran av Kdir X
+23 och       utövande av registrerads rättigheter
+dataskyddslagen 5
+kap 1-3 §§
+2.1.10 GDPR artikel 35 Beslut med anledning av konsekvensbedömning Kdir X
+avseende dataskydd                        Villkor:
+Vidaredelegering får
+ske till
+kontorscheferna för
+samhällsbyggnads-
+kontoret resp.
+kommunlednings-
+kontoret.
+2.1.11 GDPR artikel 33 Anmälan av personuppgiftsincident till Kdir X
+och 34       tillsynsmyndigheten.
+Villkor:
+Vidaredelegering får
+ske till
+kontorscheferna för
+samhällsbyggnads-
+kontoret resp.
+kommunlednings-
+kontoret och
+verksamhetschefer.
+2.1.12 G DPR, artikel 28 Avtal om personuppgiftsbiträdes behandling av Kdir X
+personuppgifter för den personuppgiftsansvariges Villkor:
+räkning samt överenskommelse om gemensamt Vidaredelegering får
+p ersonuppgiftsansvar.                    ske till
+kontorscheferna för
+samhällsbyggnads-
+kontoret resp.
+kommunlednings-
+kontoret och
+verksamhetschefer.
+2.1.13 GDPR artikel 30 Fastställa kommunstyrelsens register över Kdir X
+personuppgiftsbehandlingar.
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 8 (20)
-
-[Tabell 65-1](handlingar.tabeller/65-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
-| 2.1.9 | GDPR artikel 15-21,<br>23 och<br>dataskyddslagen 5<br>kap 1-3 §§ | Helt eller delvis avslå framställan om begäran av<br>utövande av registrerads rättigheter | Kdir | X |  |
-| 2.1.10 | GDPR artikel 35 | Beslut med anledning av konsekvensbedömning<br>avseende dataskydd | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till<br>kontorscheferna för<br>samhällsbyggnads-<br>kontoret resp.<br>kommunlednings-<br>kontoret. |  |
-| 2.1.11 | GDPR artikel 33<br>och 34 | Anmälan av personuppgiftsincident till<br>tillsynsmyndigheten. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till<br>kontorscheferna för<br>samhällsbyggnads-<br>kontoret resp.<br>kommunlednings-<br>kontoret och<br>verksamhetschefer. |  |
-| 2.1.12 | G DPR, artikel 28 | Avtal om personuppgiftsbiträdes behandling av<br>personuppgifter för den personuppgiftsansvariges<br>räkning samt överenskommelse om gemensamt<br>p ersonuppgiftsansvar. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till<br>kontorscheferna för<br>samhällsbyggnads-<br>kontoret resp.<br>kommunlednings-<br>kontoret och<br>verksamhetschefer. |  |
-| 2.1.13 | GDPR artikel 30 | Fastställa kommunstyrelsens register över<br>personuppgiftsbehandlingar. | Kdir | X |  |
 
 <!-- sida 66 -->
 
@@ -2537,7 +2540,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 9 (20)
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 10 (20)
 
-[Tabell 67-1](handlingar.tabeller/67-1.csv)
+[Tabell 67-68-1](handlingar.tabeller/67-68-1.csv)
 
 |  | 2.2 Ekonomi och inköp |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2549,15 +2552,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 10 (20)
 | 2.2.1 d) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Beslut om ändring och tillägg av kontrakt. | Kdir | X<br>Villkor: Samma<br>delegat som i 2.2.1 a) |  |
 | 2.2.1 e) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Beslut om uppsägning eller hävning av avtal. | Kdir | X<br>Villkor: Samma<br>delegat som i 2.2.1 a) |  |
 | 2.2.2 | KS beslut om<br>nämndbudget och<br>Kungsbacka<br>styrmodell | Förvaltningsbudget med fördelning på verksamhetsnivå. | Kdir |  |  |
-
-<!-- sida 68 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 11 (20)
-
-[Tabell 68-1](handlingar.tabeller/68-1.csv)
-
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.2.3 | Attestreglementet | Utse beslutsattestanter och ersättare för<br>kommunstyrelsens förvaltning. | Kdir |  | Anmäls till KS en gång per år. |
 | 2.2.4 | Reglementet<br>Finanspolicyn | Ta upp lån inom den maximala beloppsgräns<br>kommunfullmäktige årligen fastställer i<br>kommunbudgeten. | Kdir | X |  |
 | 2.2.5 | Reglementet<br>Finanspolicyn | Placering av kommunens medel. | Kdir | X |  |
@@ -2566,11 +2561,15 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 11 (20)
 | 2.2.8 | Reglementet | Årligen bevilja föreningsbidrag, maximalt två<br>prisbasbelopp per år, till Hallands arkivförbund | Kdir | X |  |
 | 2.2.9 | Reglementet | Årligen besluta om bidrag upp till ett belopp om fyra<br>prisbasbelopp per år, till Nyföretagarcentrum Halland. | Kdir | X |  |
 
+<!-- sida 68 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 11 (20)
+
 <!-- sida 69 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 12 (20)
 
-[Tabell 69-1](handlingar.tabeller/69-1.csv)
+[Tabell 69-70-1](handlingar.tabeller/69-70-1.csv)
 
 |  | 2.3 Personal<br>Kommunövergripande personalärenden |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2583,18 +2582,14 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 12 (20)
 | 2.3.6 | LAS | Anställning av<br>kommundirektör. | KS |  | Au bereder ärendet |
 | 2.3.7 | Lönestruktur,<br>arbetsrättslig<br>reglering | Lönesättning (vid nyanställning) och beslut i övriga<br>personalärenden för kommundirektör. | Ks ordf |  |  |
 | 2.3.8 | LAS | Anställning av förvaltningschef hos nämnd. | Au |  | Kommundirektören bereder<br>ärendet. |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
+| 2.3.9 | LAS | Anställning av förvaltningschef hos nämnd på<br>tidsbegränsat förordnande samt beslut om<br>ställföreträdande förvaltningschef hos nämnd. | Kdir |  |  |
+| 2.3.10 | Reglementet | Lönesättning av förvaltningschef hos nämnd (vid<br>nyanställning). | Kdir |  | Information till Au i samband med<br>lönesättning. |
+| 2.3.11 | Arbetsrättslig<br>reglering | Övriga personalärenden rörande förvaltningschef hos<br>nämnd | Kdir |  | Beslut om avsked för fc föregås<br>av samråd med Au.<br>Vid beslut om bisyssla för fc ska<br>information till Au ske. |
 
 <!-- sida 70 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 13 (20)
-
-[Tabell 70-1](handlingar.tabeller/70-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
-| 2.3.9 | LAS | Anställning av förvaltningschef hos nämnd på<br>tidsbegränsat förordnande samt beslut om<br>ställföreträdande förvaltningschef hos nämnd. | Kdir |  |  |
-| 2.3.10 | Reglementet | Lönesättning av förvaltningschef hos nämnd (vid<br>nyanställning). | Kdir |  | Information till Au i samband med<br>lönesättning. |
-| 2.3.11 | Arbetsrättslig<br>reglering | Övriga personalärenden rörande förvaltningschef hos<br>nämnd | Kdir |  | Beslut om avsked för fc föregås<br>av samråd med Au.<br>Vid beslut om bisyssla för fc ska<br>information till Au ske. |
 
 <!-- sida 71 -->
 
@@ -2602,7 +2597,7 @@ Kommunstyrelsens   egna personalärenden
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 14 (20)
 
-[Tabell 71-1](handlingar.tabeller/71-1.csv)
+[Tabell 71-72-1](handlingar.tabeller/71-72-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -2610,15 +2605,6 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 14 (20)
 | 2.3.12 | LAS, kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader avseende chefer för respektive<br>kontor inom kommunstyrelsens förvaltning. | Kdir |  | Samråd med<br>Au innan anställning.<br>Tidsbegränsad anställning<br>kortare än 6 månader är<br>verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor. |
 | 2.3.13 | LAS, kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader för verksamhetschefer och direkt<br>underställd personal inom kommunstyrelsens<br>förvaltning. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till kontorschefer<br>för samhälls-<br>byggnadskontoret<br>resp. kommun-<br>ledningskontoret. | Tidsbegränsad anställning<br>kortare än 6 månader är<br>verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor.<br>Vidaredelegeringen gäller för<br>anställning av personal inom sitt<br>respektive ansvarsområde. |
 | 2.3.14 | LAS, kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader för övrig personal inom<br>kommunstyrelsens förvaltning. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till verksamhets-<br>chefer. | Tidsbegränsad anställning kortare<br>än 6 månader är verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor.<br>Vidaredelegeringen gäller för<br>anställning av personal inom sitt<br>respektive ansvarsområde. |
-
-<!-- sida 72 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (20)
-
-[Tabell 72-1](handlingar.tabeller/72-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.3.15 | Arbetsrättslig<br>reglering | Beslut i övriga personalärenden rörande chefer vid<br>respektive kontor inom kommunstyrelsens förvaltning. | Kdir |  |  |
 |  |  | Avveckla |  |  |  |
 | 2.3.16 | LAS § 7 | Uppsägning av personliga skäl. | Kdir | X | I samråd med HR på förvaltningen<br>och förhandlingschef. |
@@ -2629,6 +2615,10 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (20)
 | 2.3.20 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla | Kdir | X | I samråd med HR på förvaltningen<br>i enlighet med ”Regler för bisyssla<br>i Kungsbacka kommun”. |
 | 2.3.21 | AB § 10 mom 1-3 | Avstängning | Kdir | X | I samråd med HR på<br>förvaltningen. |
 | 2.3.22 | AB § 11 | Disciplinåtgärd – skriftlig varning | Kdir | X | I samråd med HR på<br>förvaltningen. |
+
+<!-- sida 72 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (20)
 
 <!-- sida 73 -->
 
@@ -2655,7 +2645,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 16 (20)
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (20)
 
-[Tabell 74-1](handlingar.tabeller/74-1.csv)
+[Tabell 74-75-1](handlingar.tabeller/74-75-1.csv)
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2669,21 +2659,16 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (20)
 | 2.4.11<br>15 | Reglementet | Förvärv av fastighet eller del av fastighet, genom köp,<br>byte, gåva, fastighetsreglering eller liknande åtgärd, upp<br>till 2 miljoner kr. | Kdir | X | Villkor:<br>Vidaredelegering upp till 2<br>miljoner kronor får ske till VC och<br>upp till 250 000 kronor till annan<br>anställd.<br>Se bestämmelserna punkt 1.5. |
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
 | 2.4.12<br>16 | Reglementet | Uppdrag om förberedelse för överlåtelse av kommunens<br>fasta egendom (fastighet eller del av fastighet). | Au |  |  |
-
-<!-- sida 75 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 18 (20)
-
-[Tabell 75-1](handlingar.tabeller/75-1.csv)
-
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | 2.4.13<br>17 | Reglementet | Överlåtelse av kommunens fasta egendom, (fastighet<br>eller del av fastighet) genom köp, byte, gåva,<br>fastighetsreglering eller liknande åtgärd, upp till 10<br>miljoner kr. | Au |  |  |
 | 2.4.14<br>18 | Reglementet | Överlåtelse av kommunens fasta egendom (fastighet<br>eller del av fastighet) genom köp, byte, gåva,<br>fastighetsreglering eller liknande åtgärd, upp till 2<br>miljoner kr. | Kdir | X | Villkor:<br>Vidaredelegering upp till 2<br>miljoner kronor får ske till VC och<br>upp till 250 000 kronor till annan<br>anställd.<br>Se bestämmelserna punkt 1.5. |
 | 2.4.15<br>19 | Reglementet | Utredning för lokalisering av verksamhet. | Au |  |  |
 | 2.4.16<br>20 | Reglementet | Avtal om parkeringsköp och parkeringsavlösen. | Kdir | X | Se bestämmelserna punkt 1.5. |
 | 2.4.17<br>21 | Reglementet | Förvärv av fast egendom som försäljs på exekutiv- eller<br>offentlig auktion där kommunen har intecknad fordran<br>eller är intecknad för lån med kommunal borgen. | Kdir | X | Samråd Au inför auktion. Se<br>bestämmelserna punkt 1.5 |
 | 2.4.18<br>22 | Reglementet | Nedsättning, dödning, sammanföring och relaxation av<br>inteckningar samt utbyte av pantbrev liksom andra<br>därmed jämförliga åtgärder. | Kdir | X | Se bestämmelserna punkt 1.5 |
+
+<!-- sida 75 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 18 (20)
 
 <!-- sida 76 -->
 
@@ -7327,43 +7312,60 @@ Diarienummer MH-2022-4553
 
 450 201 085 kr
 2073
-
-Kalkylränta            2,0%
-Investeringar         År för åtgärd Kostnad NV NV [% av tot]
-Vattenverk vid Stora Horredssjön (kap. 200 l/s) 0 60 000 000 kr 60 000 000 kr 13,38%
-Vattenverk reinvestering 15 3 000 000 kr 2 229 044 kr 0,50%
-Vattenverk reinvestering 30 3 000 000 kr 1 656 213 kr 0,37%
-Vattenverk reinvestering 45 3 000 000 kr 1 230 590 kr 0,27%
-Vattenverk restvärde   50   -2 000 000 kr -743 056 kr -0,17%
-Ledningar               0   240 000 000 kr 240 000 000 kr 53,53%
-Drift & Underhåll   År för DoU Kostnad per år NV NV [% av tot]
-år   år
-Energikostnad vattenverk 0 50 65 000 kr 2 042 534 kr 0,46%
-Underhållskostnad     0   50 378 250 kr 11 885 979 kr 2,65%
-Underhållskostnad    30   50 38 000 kr 364 010 kr 0,08%
-Personalkostnad       0   50 1 500 000 kr 47 135 409 kr 10,51%
-Pumpning & Kemikalier        Kostnad per år NV NV [% av tot]
-Pumpning                      8 17 220,40 kr 25 680 012 kr 5,73%
-Kemikalier                   1 868 670,00 kr 58 720 350 kr 13,10%
-Indata
-Pumpning
-uppfodringshöjd      38 [m]
-Flöde                200 [l/s]
-g                    9,82 [m/s2]
-Viskositet           1000 [kg/m3]
-Verkningsgrad        0,8 [-]
-Pris                  1 [kr/kWh]
-Nuvärde P & K
-Ledning
-Ledning - pris       12000 [kr]
-Ledning - längd      20000 [m]
-Nuvärde
+År Investeringar Drift & Underhåll MWh kWh-pris Kemikalier-pris NV NV.Sum
+0  300 000 000 kr     - kr      300 000 000 kr 300 000 000 kr
+Kalkylränta            2,0%                             1     - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 4 538 373 kr 304 538 373 kr
+2     - kr    - kr 817,22 817 220 kr 1 868 670 kr 2 581 594 kr 307 119 967 kr
+Investeringar         År för åtgärd Kostnad NV NV [% av tot] 3 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 4 362 142 kr 311 482 109 kr
+Vattenverk vid Stora Horredssjön (kap. 200 l/s) 0 60 000 000 kr 60 000 000 kr 13,38% 4 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 4 276 610 kr 315 758 720 kr
+Vattenverk reinvestering 15 3 000 000 kr 2 229 044 kr 0,50% 5 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 4 192 755 kr 319 951 475 kr
+Vattenverk reinvestering 30 3 000 000 kr 1 656 213 kr 0,37% 6 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 4 110 544 kr 324 062 019 kr
+Vattenverk reinvestering 45 3 000 000 kr 1 230 590 kr 0,27% 7 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 4 029 945 kr 328 091 964 kr
+Vattenverk restvärde   50   -2 000 000 kr -743 056 kr -0,17% 8 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 950 927 kr 332 042 891 kr
+Ledningar               0   240 000 000 kr 240 000 000 kr 53,53% 9 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 873 458 kr 335 916 348 kr
+10    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 797 507 kr 339 713 856 kr
+Drift & Underhåll   År för DoU Kostnad per år NV NV [% av tot] 11 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 723 047 kr 343 436 902 kr
+år   år                            12    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 650 046 kr 347 086 948 kr
+Energikostnad vattenverk 0 50 65 000 kr 2 042 534 kr 0,46% 13 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 578 476 kr 350 665 424 kr
+Underhållskostnad     0   50 378 250 kr 11 885 979 kr 2,65% 14 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 508 310 kr 354 173 734 kr
+Underhållskostnad    30   50 38 000 kr 364 010 kr 0,08% 15  3 000 000 kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 5 668 564 kr 359 842 298 kr
+Personalkostnad       0   50 1 500 000 kr 47 135 409 kr 10,51% 16 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 372 078 kr 363 214 376 kr
+17    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 305 959 kr 366 520 334 kr
+Pumpning & Kemikalier        Kostnad per år NV NV [% av tot] 18 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 241 136 kr 369 761 471 kr
+Pumpning                      817 220,40 kr 25 680 012 kr 5,73% 19 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 177 584 kr 372 939 055 kr
+Kemikalier                   1 868 670,00 kr 58 720 350 kr 13,10% 20 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 115 279 kr 376 054 334 kr
+21    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 054 195 kr 379 108 529 kr
+Indata                                                  22    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 2 994 309 kr 382 102 837 kr
+Pumpning                                                23    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 2 935 597 kr 385 038 434 kr
+uppfodringshöjd      38 [m]                             24    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 2 878 036 kr 387 916 470 kr
+Flöde                200 [l/s]                          25    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 2 821 604 kr 390 738 074 kr
+g                    9,82 [m/s2]                        26    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 2 766 278 kr 393 504 352 kr
+Viskositet           1000 [kg/m3]                       27    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 2 712 038 kr 396 216 390 kr
+Verkningsgrad        0,8 [-]                            28    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 2 658 860 kr 398 875 251 kr
+Pris                  1 [kr/kWh]                        29    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 2 606 726 kr 401 481 977 kr
+Nuvärde P & K                                           30  3 000 000 kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 4 232 805 kr 405 714 782 kr
+Ledning                                                 31    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 526 071 kr 408 240 852 kr
+Ledning - pris       12000 [kr]                         32    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 476 540 kr 410 717 393 kr
+Ledning - längd      20000 [m]                          33    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 427 981 kr 413 145 373 kr
+34    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 380 373 kr 415 525 746 kr
+Nuvärde                         35    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 333 699 kr 417 859 445 kr
+36    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 287 940 kr 420 147 386 kr
 460000 000 kr
-440000 000 kr
-420000 000 kr
-400000 000 kr
-380000 000 kr
+37    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 243 079 kr 422 390 464 kr
+38    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 199 097 kr 424 589 561 kr
+440000 000 kr                                          39    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 155 977 kr 426 745 538 kr
+40    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 113 703 kr 428 859 241 kr
+420000 000 kr                                          41    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 072 258 kr 430 931 499 kr
+42    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 031 625 kr 432 963 125 kr
+43    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 1 991 790 kr 434 954 914 kr
+400000 000 kr                                          44    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 1 952 735 kr 436 907 649 kr
+45  3 000 000 kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 3 145 036 kr 440 052 686 kr
+380000 000 kr                                          46    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 1 876 908 kr 441 929 594 kr
+47    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 1 840 106 kr 443 769 700 kr
+48    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 1 804 025 kr 445 573 725 kr
 360000 000 kr
+49    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 1 768 652 kr 447 342 377 kr
+50 - 2 000 000 kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 990 917 kr 448 333 294 kr
 340000 000 kr
 320000 000 kr
 300000 000 kr
@@ -7374,62 +7376,6 @@ Nuvärde
 | Valt start år<br>Nuvärde år 2073 | 2023 |
 | --- | --- |
 |  | 448 333 294 kr |
-
-[Tabell 211-2](handlingar.tabeller/211-2.csv)
-
-| År | Investeringar | Drift & Underhåll | MWh | kWh-pris | Kemikalier-pris | NV | NV.Sum |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0 | 3 00 000 000 kr |  |  | - kr |  | 3 00 000 000 kr | 3 00 000 000 kr |
-| 1 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 4 538 373 kr | 3 04 538 373 kr |
-| 2 | - kr | - kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 581 594 kr | 3 07 119 967 kr |
-| 3 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 4 362 142 kr | 3 11 482 109 kr |
-| 4 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 4 276 610 kr | 3 15 758 720 kr |
-| 5 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 4 192 755 kr | 3 19 951 475 kr |
-| 6 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 4 110 544 kr | 3 24 062 019 kr |
-| 7 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 4 029 945 kr | 3 28 091 964 kr |
-| 8 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 950 927 kr | 3 32 042 891 kr |
-| 9 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 873 458 kr | 3 35 916 348 kr |
-| 10 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 797 507 kr | 3 39 713 856 kr |
-| 11 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 723 047 kr | 3 43 436 902 kr |
-| 12 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 650 046 kr | 3 47 086 948 kr |
-| 13 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 578 476 kr | 3 50 665 424 kr |
-| 14 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 508 310 kr | 3 54 173 734 kr |
-| 15 | 3 000 000 kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 5 668 564 kr | 3 59 842 298 kr |
-| 16 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 372 078 kr | 3 63 214 376 kr |
-| 17 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 305 959 kr | 3 66 520 334 kr |
-| 18 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 241 136 kr | 3 69 761 471 kr |
-| 19 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 177 584 kr | 3 72 939 055 kr |
-| 20 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 115 279 kr | 3 76 054 334 kr |
-| 21 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 054 195 kr | 3 79 108 529 kr |
-| 22 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 994 309 kr | 3 82 102 837 kr |
-| 23 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 935 597 kr | 3 85 038 434 kr |
-| 24 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 878 036 kr | 3 87 916 470 kr |
-| 25 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 821 604 kr | 3 90 738 074 kr |
-| 26 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 766 278 kr | 3 93 504 352 kr |
-| 27 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 712 038 kr | 3 96 216 390 kr |
-| 28 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 658 860 kr | 3 98 875 251 kr |
-| 29 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 606 726 kr | 4 01 481 977 kr |
-| 30 | 3 000 000 kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 4 232 805 kr | 4 05 714 782 kr |
-| 31 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 526 071 kr | 4 08 240 852 kr |
-| 32 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 476 540 kr | 4 10 717 393 kr |
-| 33 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 427 981 kr | 4 13 145 373 kr |
-| 34 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 380 373 kr | 4 15 525 746 kr |
-| 35 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 333 699 kr | 4 17 859 445 kr |
-| 36 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 287 940 kr | 4 20 147 386 kr |
-| 37 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 243 079 kr | 4 22 390 464 kr |
-| 38 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 199 097 kr | 4 24 589 561 kr |
-| 39 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 155 977 kr | 4 26 745 538 kr |
-| 40 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 113 703 kr | 4 28 859 241 kr |
-| 41 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 072 258 kr | 4 30 931 499 kr |
-| 42 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 031 625 kr | 4 32 963 125 kr |
-| 43 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 1 991 790 kr | 4 34 954 914 kr |
-| 44 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 1 952 735 kr | 4 36 907 649 kr |
-| 45 | 3 000 000 kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 145 036 kr | 4 40 052 686 kr |
-| 46 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 1 876 908 kr | 4 41 929 594 kr |
-| 47 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 1 840 106 kr | 4 43 769 700 kr |
-| 48 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 1 804 025 kr | 4 45 573 725 kr |
-| 49 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 1 768 652 kr | 4 47 342 377 kr |
-| 50 | - 2 000 000 kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 9 90 917 kr | 4 48 333 294 kr |
 
 <!-- sida 212 -->
 
@@ -12114,6 +12060,8 @@ di
 r.
 vt
 
+BET ANT ÄNDRINGEN AVSER SIGN DATUM
+
 X\\
 pp
 U
@@ -12136,6 +12084,89 @@ fsån ö \ k G
 al
 d\C
 i
+U
+D
+P
+A
+P
+T
+D
+U
+R
+M
+AG N
+R B
+6
+R
+5
+e e
+2
+j r l g e
+1
+e r
+6
+s n d
+K
+S o
+a
+v r
+r
+e f
+l
+f r
+s
+s i
+t
+g g
+a
+e
+d
+R
+A
+G
+5 A
+I
+N
+b
+T
+B
+S
+A
+J
+V
+D
+A
+A
+R
+V
+IG
+w
+07
+w
+7
+w
+1
+.
+\-
+r
+7
+e
+8
+jl e
+0
+r
+0
+s
+H
+A
+.
+0
+s
+A
+0
+e
+B
+NDLÄGGARE
 E
 r \D
 \:
@@ -12146,33 +12177,138 @@ d H e o r T r
 a)
 r
 \\
-2023-
+2023-11-24 ANDREAS BÄCKSTRAND
+GÖKALID
+0
+SKAL
+2
+A 1:2
+4
+00
+6 8 10 12 14 16 18 20m S
+B
+1
+1
+SK
+\:
+\:
+E
+I
+2
+4
+A
+T
+L
+F
+0
+0
+A
+U
+0
+0
+IN
+A
+(
+(
+T
+A
+A
+T
+L
+3
+1
+I
+I
+)
+)
+G
+O
+A
+N
+F
+S
+Ö
+P
+R
+N
+M
+L
+U
+H
+M
+A
+M
+A
+Å
+N
+ER
+L
+1
+L
+0
+AN
+1
+DEN
+BET 2023-
 1-
 1
 30
 3 15: 0 2 7 :
 
-[Tabell 304-1](handlingar.tabeller/304-1.csv)
-
-| BET ANT ÄNDRINGEN AVSER SIGN DATUM<br>Rejlers Sverige AB<br>Bergendorffsg 5b 0771-78 00 00<br>652 16 Karlstad www.rejlers.se<br>UPPDRAG NR RITAD AV HANDLÄGGARE<br>GJ AB<br>DATUM ANSVARIG<br>2023-11-24 ANDREAS BÄCKSTRAND<br>GÖKALID<br>BEFINTLIGA FÖRHÅLLANDEN<br>0 2 4 6 8 10 12 14 16 18 20m<br>SITUATIONSPLAN<br>SKALA NUMMER BET<br>SKALA 1:200 1:200 (A1) MA101<br>1:400 (A3) |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | BET | ANT | ÄNDRINGEN AVSER |  | SIGN | DATUM |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  | Rejlers Sverige AB<br>Bergendorffsg 5b 0771-78 00 00<br>652 16 Karlstad www.rejlers.se |  |  |  |  |  |
-|  | UPPDRAG NR |  |  | RITAD AV<br>GJ | HANDLÄGGARE<br>AB |  |
-|  | DATUM ANSVARIG<br>2023-11-24 ANDREAS BÄCKSTRAND |  |  |  |  |  |
-|  | GÖKALID<br>BEFINTLIGA FÖRHÅLLANDEN<br>SITUATIONSPLAN |  |  |  |  |  |
-|  | SKALA<br>1:200 (A1)<br>1:400 (A3) |  |  | NUMMER BET<br>MA101 |  |  |
-
 <!-- sida 305 -->
+
+00004
+
+40000
+00093 00083
+38000
+39000
+00014
+00024
+00034
+00044
+A02
+MA103
+A02
+MA103
+B
+M
+0
+A
+2
+103
+45000
+44000
+43000
+42000
+B02
+MA103                      41000
 
 A ö \ k G D
 al
 di
 r.
 vt
+MA C 1 0 0 2 3
 
+C M 0 A 2 103
+V
+A
+Ä
+LT
+G T
+V
+R
+A
+U
+L
+M
+V
+M
+B
+A
+Å GEBRO
+BET ANT ÄNDRINGEN AVSER SIGN DATUM
 X\\
 pp
 U
@@ -12195,6 +12331,89 @@ fsån ö \ k G
 al
 d\C
 i
+U
+D
+P
+A
+P
+T
+D
+U
+R
+M
+AG N
+R B
+6
+R
+5
+e e
+2
+j r l g e
+1
+e r
+6
+s n d
+K
+S o
+a
+v r
+r
+e f
+l
+f r
+s
+s i
+t
+g g
+a
+e
+d
+R
+A
+G
+5 A
+I
+N
+b
+T
+B
+S
+A
+J
+V
+D
+A
+A
+R
+V
+IG
+w
+07
+w
+7
+w
+1
+.
+\-
+r
+7
+e
+8
+jl e
+0
+r
+0
+s
+H
+A
+.
+0
+s
+A
+0
+e
+B
+NDLÄGGARE
 E
 r \D
 \:
@@ -12205,33 +12424,117 @@ d H e o r T r
 a)
 r
 \\
-2023-11
+2023-11-24 ANDREAS BÄCKSTRAND
+0
+SKAL
+2
+A 1:2
+4
+00
+6 8 10 12 14 16 18 20m G
+S
+A
+1
+1
+SK
+\:
+\:
+L
+I
+2
+4
+A
+Ö
+T
+T
+L
+0
+0
+A
+K
+U
+E
+0
+0
+R A
+A
+(
+(
+A
+A
+N L
+T
+3
+1
+A I
+I
+D
+)
+)
+O
+TI
+N
+VT
+S P
+O
+N
+M
+L
+M
+UM
+A
+L
+M
+A
+N
+Ö
+ER
+1
+P
+02
+BET 2023-11
 5
 -3
 2 1 :
 0
 5 9 4 :
 
-[Tabell 305-1](handlingar.tabeller/305-1.csv)
-
-| 00004<br>00093 00083 00014<br>38000<br>40000 39000 00024<br>00034<br>00044<br>A02<br>MA103<br>A02<br>MA103<br>B 0 2 45000<br>M A 103<br>44000<br>43000<br>42000<br>B02<br>MA103 41000<br>VÄGTRUMMA<br>ALT VALVBÅGEBRO<br>C02<br>MA103<br>BET ANT ÄNDRINGEN AVSER SIGN DATUM<br>C02<br>MA103<br>Rejlers Sverige AB<br>Bergendorffsg 5b 0771-78 00 00<br>652 16 Karlstad www.rejlers.se<br>UPPDRAG NR RITAD AV HANDLÄGGARE<br>GJ AB<br>DATUM ANSVARIG<br>2023-11-24 ANDREAS BÄCKSTRAND<br>GÖKALID<br>ALTERNATIVT OMLÖP<br>0 2 4 6 8 10 12 14 16 18 20m<br>SITUATIONSPLAN<br>SKALA 1:200 SKALA NUMMER BET<br>1:200 (A1) MA102<br>1:400 (A3) |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  | Rejlers Sverige AB<br>Bergendorffsg 5b 0771-78 00 00<br>652 16 Karlstad www.rejlers.se |  |  |
-|  | UPPDRAG NR | RITAD AV<br>GJ | HANDLÄGGARE<br>AB |
-|  | DATUM ANSVARIG<br>2023-11-24 ANDREAS BÄCKSTRAND |  |  |
-|  | GÖKALID<br>ALTERNATIVT OMLÖP<br>SITUATIONSPLAN |  |  |
-|  | SKALA<br>1:200 (A1)<br>1:400 (A3) | NUMMER BET<br>MA102 |  |
-
 <!-- sida 306 -->
 
+\~500
+
+1:1.5
+1:1.5
+\~500
+
+\~500
+
+5:1            5:1
+
+300
+
+300
+\~500 \~500 0051
+OMLÖPETS LÄNGD CA 88 m
+FALL CA 2,5%
+JORDSCHAKTSVOLYM: 1815 m3
+VID ENBART JORDSCHAKT FÖR OMLÖP
+BERGSCHAKTSVOLYM: 400 m3
+VID ENBART BERGSCHAKT FÖR OMLÖP
+FYLLNING MED NATURSTEN CA 146 m3
+VID JORDSCHAKTSALTERNATIV
+A02
+1 : 50
+B02
+1 : 50
+C02
+1 : 50
 A ö \ k G D
 al
 di
 r.
 vt
-
+BET ANT ÄNDRINGEN AVSER SIGN DATUM
 X\\
 pp
 U
@@ -12254,6 +12557,92 @@ fsån ö \ k G
 al
 d\C
 i
+T
+1
+Y
+: 2
+P
+0
+SEKTION BERGSCHAKT       U
+D
+P
+A
+P
+T
+D
+U
+R
+M
+AG N
+R B
+6
+R
+5
+e e
+2
+j r l g e
+1
+e r
+6
+s n d
+K
+S o
+a
+v r
+r
+e f
+l
+f r
+s
+s i
+t
+g g
+a
+e
+d
+R
+A
+G
+5 A
+I
+N
+b
+T
+B
+S
+A J
+V
+D
+A
+A
+R
+V
+IG
+w
+07
+w
+7
+w
+1
+.
+\-
+r
+7
+e
+8
+jl e
+0
+r
+0
+s
+H A
+.
+0
+s
+A
+0
+e
+B NDLÄGGARE
 E
 r \D
 \:
@@ -12264,26 +12653,73 @@ d H e o r T r
 a)
 r
 \\
-2023-
+2023-11-24 ANDREAS BÄCKSTRAND
+TYPSEKTION JORDSCHAKT                                                                                  GÖKALID
+1 : 20                                            0
+SKA
+0
+L
+,
+A
+2
+1:
+0
+2
+,
+0
+4 0,6 0,8 1 1,2 1,4 1,6 1,8 2m 0
+SKA
+0
+L
+,
+A
+5
+1:5
+1
+0
+1,5 2 2,5 3 3,5 4 4,5 5m
+S
+A
+SK
+L
+E
+A
+T
+L
+K
+A
+E
+T
+R
+I
+N
+O
+A
+N
+T
+E
+IV
+R
+T O
+N
+M
+M
+UM
+L
+M
+A
+Ö
+ER
+1
+P
+03
+BET 2023-
 1-
 1
 30
 3 15:
 13
 0:
-
-[Tabell 306-1](handlingar.tabeller/306-1.csv)
-
-| OMLÖPETS LÄNGD CA 88 m<br>FALL CA 2,5%<br>JORDSCHAKTSVOLYM: 1815 m3<br>VID ENBART JORDSCHAKT FÖR OMLÖP<br>BERGSCHAKTSVOLYM: 400 m3<br>VID ENBART BERGSCHAKT FÖR OMLÖP<br>FYLLNING MED NATURSTEN CA 146 m3<br>VID JORDSCHAKTSALTERNATIV<br>\~500<br>A02<br>1:1.5 1 : 50<br>1:1.5<br>\~500 B02<br>1 : 50<br>\~500<br>C02<br>1 : 50<br>5:1 5:1<br>300<br>300 BET ANT ÄNDRINGEN AVSER SIGN DATUM<br>\~500<br>0051<br>\~500<br>Rejlers Sverige AB<br>Bergendorffsg 5b 0771-78 00 00<br>652 16 Karlstad www.rejlers.se<br>TYPSEKTION BERGSCHAKT UPPDRAG NR RITAD AV HANDLÄGGARE<br>GJ AB<br>1 : 20 DATUM ANSVARIG<br>2023-11-24 ANDREAS BÄCKSTRAND<br>TYPSEKTION JORDSCHAKT GÖKALID<br>1 : 20 0 0,2 0,4 0,6 0,8 1 1,2 1,4 1,6 1,8 2m 0 0,5 1 1,5 2 2,5 3 3,5 4 4,5 5m ALTERNATIVT OMLÖP<br>SKALA 1:20 SKALA 1:50 SEKTIONER<br>SKALA NUMMER BET<br>MA103 |  |  |  |
-| --- | --- | --- | --- |
-|  | BET ANT ÄNDRINGEN AVSER SIGN DATUM |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  | Rejlers Sverige AB<br>Bergendorffsg 5b 0771-78 00 00<br>652 16 Karlstad www.rejlers.se |  |  |
-|  | UPPDRAG NR | RITAD AV<br>GJ | HANDLÄGGARE<br>AB |
-|  | DATUM ANSVARIG<br>2023-11-24 ANDREAS BÄCKSTRAND |  |  |
-|  | GÖKALID<br>ALTERNATIVT OMLÖP<br>SEKTIONER |  |  |
-|  | SKALA | NUMMER BET<br>MA103 |  |
 
 <!-- sida 307 -->
 
@@ -14576,6 +15012,8 @@ di
 r.
 vt
 
+BET ANT ÄNDRINGEN AVSER SIGN DATUM
+
 X\\
 pp
 U
@@ -14598,6 +15036,89 @@ fsån ö \ k G
 al
 d\C
 i
+U
+D
+P
+A
+P
+T
+D
+U
+R
+M
+AG N
+R B
+6
+R
+5
+e e
+2
+j r l g e
+1
+e r
+6
+s n d
+K
+S o
+a
+v r
+r
+e f
+l
+f r
+s
+s i
+t
+g g
+a
+e
+d
+R
+A
+G
+5 A
+I
+N
+b
+T
+B
+S
+A
+J
+V
+D
+A
+A
+R
+V
+IG
+w
+07
+w
+7
+w
+1
+.
+\-
+r
+7
+e
+8
+jl e
+0
+r
+0
+s
+H
+A
+.
+0
+s
+A
+0
+e
+B
+NDLÄGGARE
 E
 r \D
 \:
@@ -14608,36 +15129,141 @@ d H e o r T r
 a)
 r
 \\
-2023-
+2023-11-24 ANDREAS BÄCKSTRAND
+GÖKALID
+0
+SKAL
+2
+A 1:2
+4
+00
+6 8 10 12 14 16 18 20m S
+B
+1
+1
+SK
+\:
+\:
+E
+I
+2
+4
+A
+T
+L
+F
+0
+0
+A
+U
+0
+0
+IN
+A
+(
+(
+T
+A
+A
+T
+L
+3
+1
+I
+I
+)
+)
+G
+O
+A
+N
+F
+S
+Ö
+P
+R
+N
+M
+L
+U
+H
+M
+A
+M
+A
+Å
+N
+ER
+L
+1
+L
+0
+AN
+1
+DEN
+BET 2023-
 1-
 1
 30
 3 15: 0 2 7 :
-
-[Tabell 365-1](handlingar.tabeller/365-1.csv)
-
-| BET ANT ÄNDRINGEN AVSER SIGN DATUM<br>Rejlers Sverige AB<br>Bergendorffsg 5b 0771-78 00 00<br>652 16 Karlstad www.rejlers.se<br>UPPDRAG NR RITAD AV HANDLÄGGARE<br>GJ AB<br>DATUM ANSVARIG<br>2023-11-24 ANDREAS BÄCKSTRAND<br>GÖKALID<br>BEFINTLIGA FÖRHÅLLANDEN<br>0 2 4 6 8 10 12 14 16 18 20m<br>SITUATIONSPLAN<br>SKALA NUMMER BET<br>SKALA 1:200 1:200 (A1) MA101<br>1:400 (A3) |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | BET | ANT | ÄNDRINGEN AVSER |  | SIGN | DATUM |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  | Rejlers Sverige AB<br>Bergendorffsg 5b 0771-78 00 00<br>652 16 Karlstad www.rejlers.se |  |  |  |  |  |
-|  | UPPDRAG NR |  |  | RITAD AV<br>GJ | HANDLÄGGARE<br>AB |  |
-|  | DATUM ANSVARIG<br>2023-11-24 ANDREAS BÄCKSTRAND |  |  |  |  |  |
-|  | GÖKALID<br>BEFINTLIGA FÖRHÅLLANDEN<br>SITUATIONSPLAN |  |  |  |  |  |
-|  | SKALA<br>1:200 (A1)<br>1:400 (A3) |  |  | NUMMER BET<br>MA101 |  |  |
 
 <!-- sida 366 -->
 
 Ankomstdatum 2023-12-11
 Diarienummer MH-2023-4570
 
+00004
+
+40000
+00093 00083
+38000
+39000
+00014
+00024
+00034
+00044
+A02
+MA103
+A02
+MA103
+B
+M
+0
+A
+2
+103
+45000
+44000
+43000
+42000
+B02
+MA103                      41000
+
 A ö \ k G D
 al
 di
 r.
 vt
+MA C 1 0 0 2 3
 
+C M 0 A 2 103
+V
+A
+Ä
+LT
+G T
+V
+R
+A
+U
+L
+M
+V
+M
+B
+A
+Å GEBRO
+BET ANT ÄNDRINGEN AVSER SIGN DATUM
 X\\
 pp
 U
@@ -14660,6 +15286,89 @@ fsån ö \ k G
 al
 d\C
 i
+U
+D
+P
+A
+P
+T
+D
+U
+R
+M
+AG N
+R B
+6
+R
+5
+e e
+2
+j r l g e
+1
+e r
+6
+s n d
+K
+S o
+a
+v r
+r
+e f
+l
+f r
+s
+s i
+t
+g g
+a
+e
+d
+R
+A
+G
+5 A
+I
+N
+b
+T
+B
+S
+A
+J
+V
+D
+A
+A
+R
+V
+IG
+w
+07
+w
+7
+w
+1
+.
+\-
+r
+7
+e
+8
+jl e
+0
+r
+0
+s
+H
+A
+.
+0
+s
+A
+0
+e
+B
+NDLÄGGARE
 E
 r \D
 \:
@@ -14670,36 +15379,119 @@ d H e o r T r
 a)
 r
 \\
-2023-11
+2023-11-24 ANDREAS BÄCKSTRAND
+0
+SKAL
+2
+A 1:2
+4
+00
+6 8 10 12 14 16 18 20m G
+S
+A
+1
+1
+SK
+\:
+\:
+L
+I
+2
+4
+A
+Ö
+T
+T
+L
+0
+0
+A
+K
+U
+E
+0
+0
+R A
+A
+(
+(
+A
+A
+N L
+T
+3
+1
+A I
+I
+D
+)
+)
+O
+TI
+N
+VT
+S P
+O
+N
+M
+L
+M
+UM
+A
+L
+M
+A
+N
+Ö
+ER
+1
+P
+02
+BET 2023-11
 5
 -3
 2 1 :
 0
 5 9 4 :
 
-[Tabell 366-1](handlingar.tabeller/366-1.csv)
-
-| 00004<br>00093 00083 00014<br>38000<br>40000 39000 00024<br>00034<br>00044<br>A02<br>MA103<br>A02<br>MA103<br>B 0 2 45000<br>M A 103<br>44000<br>43000<br>42000<br>B02<br>MA103 41000<br>VÄGTRUMMA<br>ALT VALVBÅGEBRO<br>C02<br>MA103<br>BET ANT ÄNDRINGEN AVSER SIGN DATUM<br>C02<br>MA103<br>Rejlers Sverige AB<br>Bergendorffsg 5b 0771-78 00 00<br>652 16 Karlstad www.rejlers.se<br>UPPDRAG NR RITAD AV HANDLÄGGARE<br>GJ AB<br>DATUM ANSVARIG<br>2023-11-24 ANDREAS BÄCKSTRAND<br>GÖKALID<br>ALTERNATIVT OMLÖP<br>0 2 4 6 8 10 12 14 16 18 20m<br>SITUATIONSPLAN<br>SKALA 1:200 SKALA NUMMER BET<br>1:200 (A1) MA102<br>1:400 (A3) |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  | Rejlers Sverige AB<br>Bergendorffsg 5b 0771-78 00 00<br>652 16 Karlstad www.rejlers.se |  |  |
-|  | UPPDRAG NR | RITAD AV<br>GJ | HANDLÄGGARE<br>AB |
-|  | DATUM ANSVARIG<br>2023-11-24 ANDREAS BÄCKSTRAND |  |  |
-|  | GÖKALID<br>ALTERNATIVT OMLÖP<br>SITUATIONSPLAN |  |  |
-|  | SKALA<br>1:200 (A1)<br>1:400 (A3) | NUMMER BET<br>MA102 |  |
-
 <!-- sida 367 -->
 
+\~500
+
+1:1.5
+1:1.5
+\~500
+
+\~500
+
+5:1            5:1
+
+300
+
+300
+\~500 \~500 0051
 Ankomstdatum 2023-12-11
 Diarienummer MH-2023-4570
-
+OMLÖPETS LÄNGD CA 88 m
+FALL CA 2,5%
+JORDSCHAKTSVOLYM: 1815 m3
+VID ENBART JORDSCHAKT FÖR OMLÖP
+BERGSCHAKTSVOLYM: 400 m3
+VID ENBART BERGSCHAKT FÖR OMLÖP
+FYLLNING MED NATURSTEN CA 146 m3
+VID JORDSCHAKTSALTERNATIV
+A02
+1 : 50
+B02
+1 : 50
+C02
+1 : 50
 A ö \ k G D
 al
 di
 r.
 vt
-
+BET ANT ÄNDRINGEN AVSER SIGN DATUM
 X\\
 pp
 U
@@ -14722,6 +15514,92 @@ fsån ö \ k G
 al
 d\C
 i
+T
+1
+Y
+: 2
+P
+0
+SEKTION BERGSCHAKT       U
+D
+P
+A
+P
+T
+D
+U
+R
+M
+AG N
+R B
+6
+R
+5
+e e
+2
+j r l g e
+1
+e r
+6
+s n d
+K
+S o
+a
+v r
+r
+e f
+l
+f r
+s
+s i
+t
+g g
+a
+e
+d
+R
+A
+G
+5 A
+I
+N
+b
+T
+B
+S
+A J
+V
+D
+A
+A
+R
+V
+IG
+w
+07
+w
+7
+w
+1
+.
+\-
+r
+7
+e
+8
+jl e
+0
+r
+0
+s
+H A
+.
+0
+s
+A
+0
+e
+B NDLÄGGARE
 E
 r \D
 \:
@@ -14732,26 +15610,73 @@ d H e o r T r
 a)
 r
 \\
-2023-
+2023-11-24 ANDREAS BÄCKSTRAND
+TYPSEKTION JORDSCHAKT                                                                                  GÖKALID
+1 : 20                                            0
+SKA
+0
+L
+,
+A
+2
+1:
+0
+2
+,
+0
+4 0,6 0,8 1 1,2 1,4 1,6 1,8 2m 0
+SKA
+0
+L
+,
+A
+5
+1:5
+1
+0
+1,5 2 2,5 3 3,5 4 4,5 5m
+S
+A
+SK
+L
+E
+A
+T
+L
+K
+A
+E
+T
+R
+I
+N
+O
+A
+N
+T
+E
+IV
+R
+T O
+N
+M
+M
+UM
+L
+M
+A
+Ö
+ER
+1
+P
+03
+BET 2023-
 1-
 1
 30
 3 15:
 13
 0:
-
-[Tabell 367-1](handlingar.tabeller/367-1.csv)
-
-| OMLÖPETS LÄNGD CA 88 m<br>FALL CA 2,5%<br>JORDSCHAKTSVOLYM: 1815 m3<br>VID ENBART JORDSCHAKT FÖR OMLÖP<br>BERGSCHAKTSVOLYM: 400 m3<br>VID ENBART BERGSCHAKT FÖR OMLÖP<br>FYLLNING MED NATURSTEN CA 146 m3<br>VID JORDSCHAKTSALTERNATIV<br>\~500<br>A02<br>1:1.5 1 : 50<br>1:1.5<br>\~500 B02<br>1 : 50<br>\~500<br>C02<br>1 : 50<br>5:1 5:1<br>300<br>300 BET ANT ÄNDRINGEN AVSER SIGN DATUM<br>\~500<br>0051<br>\~500<br>Rejlers Sverige AB<br>Bergendorffsg 5b 0771-78 00 00<br>652 16 Karlstad www.rejlers.se<br>TYPSEKTION BERGSCHAKT UPPDRAG NR RITAD AV HANDLÄGGARE<br>GJ AB<br>1 : 20 DATUM ANSVARIG<br>2023-11-24 ANDREAS BÄCKSTRAND<br>TYPSEKTION JORDSCHAKT GÖKALID<br>1 : 20 0 0,2 0,4 0,6 0,8 1 1,2 1,4 1,6 1,8 2m 0 0,5 1 1,5 2 2,5 3 3,5 4 4,5 5m ALTERNATIVT OMLÖP<br>SKALA 1:20 SKALA 1:50 SEKTIONER<br>SKALA NUMMER BET<br>MA103 |  |  |  |
-| --- | --- | --- | --- |
-|  | BET ANT ÄNDRINGEN AVSER SIGN DATUM |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  | Rejlers Sverige AB<br>Bergendorffsg 5b 0771-78 00 00<br>652 16 Karlstad www.rejlers.se |  |  |
-|  | UPPDRAG NR | RITAD AV<br>GJ | HANDLÄGGARE<br>AB |
-|  | DATUM ANSVARIG<br>2023-11-24 ANDREAS BÄCKSTRAND |  |  |
-|  | GÖKALID<br>ALTERNATIVT OMLÖP<br>SEKTIONER |  |  |
-|  | SKALA | NUMMER BET<br>MA103 |  |
 
 <!-- sida 368 -->
 
@@ -18047,43 +18972,60 @@ Diarienummer MH-2023-4570
 
 450 201 085 kr
 2073
-
-Kalkylränta            2,0%
-Investeringar         År för åtgärd Kostnad NV NV [% av tot]
-Vattenverk vid Stora Horredssjön (kap. 200 l/s) 0 60 000 000 kr 60 000 000 kr 13,38%
-Vattenverk reinvestering 15 3 000 000 kr 2 229 044 kr 0,50%
-Vattenverk reinvestering 30 3 000 000 kr 1 656 213 kr 0,37%
-Vattenverk reinvestering 45 3 000 000 kr 1 230 590 kr 0,27%
-Vattenverk restvärde   50   -2 000 000 kr -743 056 kr -0,17%
-Ledningar               0   240 000 000 kr 240 000 000 kr 53,53%
-Drift & Underhåll   År för DoU Kostnad per år NV NV [% av tot]
-år   år
-Energikostnad vattenverk 0 50 65 000 kr 2 042 534 kr 0,46%
-Underhållskostnad     0   50 378 250 kr 11 885 979 kr 2,65%
-Underhållskostnad    30   50 38 000 kr 364 010 kr 0,08%
-Personalkostnad       0   50 1 500 000 kr 47 135 409 kr 10,51%
-Pumpning & Kemikalier        Kostnad per år NV NV [% av tot]
-Pumpning                      8 17 220,40 kr 25 680 012 kr 5,73%
-Kemikalier                   1 868 670,00 kr 58 720 350 kr 13,10%
-Indata
-Pumpning
-uppfodringshöjd      38 [m]
-Flöde                200 [l/s]
-g                    9,82 [m/s2]
-Viskositet           1000 [kg/m3]
-Verkningsgrad        0,8 [-]
-Pris                  1 [kr/kWh]
-Nuvärde P & K
-Ledning
-Ledning - pris       12000 [kr]
-Ledning - längd      20000 [m]
-Nuvärde
+År Investeringar Drift & Underhåll MWh kWh-pris Kemikalier-pris NV NV.Sum
+0  300 000 000 kr     - kr      300 000 000 kr 300 000 000 kr
+Kalkylränta            2,0%                             1     - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 4 538 373 kr 304 538 373 kr
+2     - kr    - kr 817,22 817 220 kr 1 868 670 kr 2 581 594 kr 307 119 967 kr
+Investeringar         År för åtgärd Kostnad NV NV [% av tot] 3 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 4 362 142 kr 311 482 109 kr
+Vattenverk vid Stora Horredssjön (kap. 200 l/s) 0 60 000 000 kr 60 000 000 kr 13,38% 4 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 4 276 610 kr 315 758 720 kr
+Vattenverk reinvestering 15 3 000 000 kr 2 229 044 kr 0,50% 5 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 4 192 755 kr 319 951 475 kr
+Vattenverk reinvestering 30 3 000 000 kr 1 656 213 kr 0,37% 6 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 4 110 544 kr 324 062 019 kr
+Vattenverk reinvestering 45 3 000 000 kr 1 230 590 kr 0,27% 7 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 4 029 945 kr 328 091 964 kr
+Vattenverk restvärde   50   -2 000 000 kr -743 056 kr -0,17% 8 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 950 927 kr 332 042 891 kr
+Ledningar               0   240 000 000 kr 240 000 000 kr 53,53% 9 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 873 458 kr 335 916 348 kr
+10    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 797 507 kr 339 713 856 kr
+Drift & Underhåll   År för DoU Kostnad per år NV NV [% av tot] 11 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 723 047 kr 343 436 902 kr
+år   år                            12    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 650 046 kr 347 086 948 kr
+Energikostnad vattenverk 0 50 65 000 kr 2 042 534 kr 0,46% 13 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 578 476 kr 350 665 424 kr
+Underhållskostnad     0   50 378 250 kr 11 885 979 kr 2,65% 14 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 508 310 kr 354 173 734 kr
+Underhållskostnad    30   50 38 000 kr 364 010 kr 0,08% 15  3 000 000 kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 5 668 564 kr 359 842 298 kr
+Personalkostnad       0   50 1 500 000 kr 47 135 409 kr 10,51% 16 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 372 078 kr 363 214 376 kr
+17    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 305 959 kr 366 520 334 kr
+Pumpning & Kemikalier        Kostnad per år NV NV [% av tot] 18 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 241 136 kr 369 761 471 kr
+Pumpning                      817 220,40 kr 25 680 012 kr 5,73% 19 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 177 584 kr 372 939 055 kr
+Kemikalier                   1 868 670,00 kr 58 720 350 kr 13,10% 20 - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 115 279 kr 376 054 334 kr
+21    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 3 054 195 kr 379 108 529 kr
+Indata                                                  22    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 2 994 309 kr 382 102 837 kr
+Pumpning                                                23    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 2 935 597 kr 385 038 434 kr
+uppfodringshöjd      38 [m]                             24    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 2 878 036 kr 387 916 470 kr
+Flöde                200 [l/s]                          25    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 2 821 604 kr 390 738 074 kr
+g                    9,82 [m/s2]                        26    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 2 766 278 kr 393 504 352 kr
+Viskositet           1000 [kg/m3]                       27    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 2 712 038 kr 396 216 390 kr
+Verkningsgrad        0,8 [-]                            28    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 2 658 860 kr 398 875 251 kr
+Pris                  1 [kr/kWh]                        29    - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 2 606 726 kr 401 481 977 kr
+Nuvärde P & K                                           30  3 000 000 kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 4 232 805 kr 405 714 782 kr
+Ledning                                                 31    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 526 071 kr 408 240 852 kr
+Ledning - pris       12000 [kr]                         32    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 476 540 kr 410 717 393 kr
+Ledning - längd      20000 [m]                          33    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 427 981 kr 413 145 373 kr
+34    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 380 373 kr 415 525 746 kr
+Nuvärde                         35    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 333 699 kr 417 859 445 kr
+36    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 287 940 kr 420 147 386 kr
 460000 000 kr
-440000 000 kr
-420000 000 kr
-400000 000 kr
-380000 000 kr
+37    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 243 079 kr 422 390 464 kr
+38    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 199 097 kr 424 589 561 kr
+440000 000 kr                                          39    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 155 977 kr 426 745 538 kr
+40    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 113 703 kr 428 859 241 kr
+420000 000 kr                                          41    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 072 258 kr 430 931 499 kr
+42    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 2 031 625 kr 432 963 125 kr
+43    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 1 991 790 kr 434 954 914 kr
+400000 000 kr                                          44    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 1 952 735 kr 436 907 649 kr
+45  3 000 000 kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 3 145 036 kr 440 052 686 kr
+380000 000 kr                                          46    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 1 876 908 kr 441 929 594 kr
+47    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 1 840 106 kr 443 769 700 kr
+48    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 1 804 025 kr 445 573 725 kr
 360000 000 kr
+49    - kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 1 768 652 kr 447 342 377 kr
+50 - 2 000 000 kr 1 981 250 kr 817,22 817 220 kr 1 868 670 kr 990 917 kr 448 333 294 kr
 340000 000 kr
 320000 000 kr
 300000 000 kr
@@ -18094,62 +19036,6 @@ Nuvärde
 | Valt start år<br>Nuvärde år 2073 | 2023 |
 | --- | --- |
 |  | 448 333 294 kr |
-
-[Tabell 446-2](handlingar.tabeller/446-2.csv)
-
-| År | Investeringar | Drift & Underhåll | MWh | kWh-pris | Kemikalier-pris | NV | NV.Sum |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0 | 3 00 000 000 kr |  |  | - kr |  | 3 00 000 000 kr | 3 00 000 000 kr |
-| 1 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 4 538 373 kr | 3 04 538 373 kr |
-| 2 | - kr | - kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 581 594 kr | 3 07 119 967 kr |
-| 3 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 4 362 142 kr | 3 11 482 109 kr |
-| 4 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 4 276 610 kr | 3 15 758 720 kr |
-| 5 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 4 192 755 kr | 3 19 951 475 kr |
-| 6 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 4 110 544 kr | 3 24 062 019 kr |
-| 7 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 4 029 945 kr | 3 28 091 964 kr |
-| 8 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 950 927 kr | 3 32 042 891 kr |
-| 9 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 873 458 kr | 3 35 916 348 kr |
-| 10 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 797 507 kr | 3 39 713 856 kr |
-| 11 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 723 047 kr | 3 43 436 902 kr |
-| 12 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 650 046 kr | 3 47 086 948 kr |
-| 13 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 578 476 kr | 3 50 665 424 kr |
-| 14 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 508 310 kr | 3 54 173 734 kr |
-| 15 | 3 000 000 kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 5 668 564 kr | 3 59 842 298 kr |
-| 16 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 372 078 kr | 3 63 214 376 kr |
-| 17 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 305 959 kr | 3 66 520 334 kr |
-| 18 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 241 136 kr | 3 69 761 471 kr |
-| 19 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 177 584 kr | 3 72 939 055 kr |
-| 20 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 115 279 kr | 3 76 054 334 kr |
-| 21 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 054 195 kr | 3 79 108 529 kr |
-| 22 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 994 309 kr | 3 82 102 837 kr |
-| 23 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 935 597 kr | 3 85 038 434 kr |
-| 24 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 878 036 kr | 3 87 916 470 kr |
-| 25 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 821 604 kr | 3 90 738 074 kr |
-| 26 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 766 278 kr | 3 93 504 352 kr |
-| 27 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 712 038 kr | 3 96 216 390 kr |
-| 28 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 658 860 kr | 3 98 875 251 kr |
-| 29 | - kr | 1 943 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 606 726 kr | 4 01 481 977 kr |
-| 30 | 3 000 000 kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 4 232 805 kr | 4 05 714 782 kr |
-| 31 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 526 071 kr | 4 08 240 852 kr |
-| 32 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 476 540 kr | 4 10 717 393 kr |
-| 33 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 427 981 kr | 4 13 145 373 kr |
-| 34 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 380 373 kr | 4 15 525 746 kr |
-| 35 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 333 699 kr | 4 17 859 445 kr |
-| 36 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 287 940 kr | 4 20 147 386 kr |
-| 37 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 243 079 kr | 4 22 390 464 kr |
-| 38 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 199 097 kr | 4 24 589 561 kr |
-| 39 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 155 977 kr | 4 26 745 538 kr |
-| 40 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 113 703 kr | 4 28 859 241 kr |
-| 41 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 072 258 kr | 4 30 931 499 kr |
-| 42 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 2 031 625 kr | 4 32 963 125 kr |
-| 43 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 1 991 790 kr | 4 34 954 914 kr |
-| 44 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 1 952 735 kr | 4 36 907 649 kr |
-| 45 | 3 000 000 kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 3 145 036 kr | 4 40 052 686 kr |
-| 46 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 1 876 908 kr | 4 41 929 594 kr |
-| 47 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 1 840 106 kr | 4 43 769 700 kr |
-| 48 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 1 804 025 kr | 4 45 573 725 kr |
-| 49 | - kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 1 768 652 kr | 4 47 342 377 kr |
-| 50 | - 2 000 000 kr | 1 981 250 kr | 817,22 | 8 17 220 kr | 1 868 670 kr | 9 90 917 kr | 4 48 333 294 kr |
 
 <!-- sida 447 -->
 
@@ -19704,18 +20590,6 @@ horisontella linjer. (www.vattenwebb.smhi.se)
 | MQ | 0,60 |
 | MLQ | 0,11 |
 
-[Tabell 477-2](handlingar.tabeller/477-2.csv)
-
-|  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-
 <!-- sida 478 -->
 
 Ankomstdatum 2023-12-11
@@ -20878,18 +21752,13 @@ Tröskel +86,96                                        Tröskel +86,67
 
 Kort tagit ifrån höger strandkant uppströms
 
-Konstr. Datum       Granskad av
+Konstr. Datum       Granskad av                    Rev.
 ME   2022-06-07
-Reglerdamm kanal till Gökalidssjön
-
-Bilaga T5
+Skala     Sida
+Reglerdamm kanal till Gökalidssjön 1 : 40  1 / 1
+Bilaga T5                     Ritn.nr
 Nuvarande förhållanden
-
-[Tabell 506-1](handlingar.tabeller/506-1.csv)
-
-| Rev.<br>Skala<br>1 : 40 | Sida<br>1 / 1 |
-| --- | --- |
-| Ritn.nr<br>T5 Reglerdamm kanal till Gökalidssjön |  |
+T5 Reglerdamm kanal till Gökalidssjön
 
 <!-- sida 507 -->
 
@@ -20906,12 +21775,13 @@ A
 
 ca 48m
 
-Konstr. Datum       Granskad av
+Konstr. Datum       Granskad av                    Rev.
 ME   2022-06-08
-Gökalid intagsdamm
-
-Bilaga T6
+Skala     Sida
+Gökalid intagsdamm            1 : 300      1 / 1
+Bilaga T6                     Ritn.nr
 Nuvarande förhållanden
+T6 Gökalid intagsdamm
 m6,0
 Ankomstdatum 2023-12-11
 Diarienummer MH-2023-4570
@@ -20929,30 +21799,6 @@ ca 390m Tub ner till kraftstation
 Hjälpfix VD1953
 +87,77
 
-[Tabell 507-1](handlingar.tabeller/507-1.csv)
-
-|  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |  |
-
-[Tabell 507-2](handlingar.tabeller/507-2.csv)
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-
-[Tabell 507-3](handlingar.tabeller/507-3.csv)
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-
-[Tabell 507-4](handlingar.tabeller/507-4.csv)
-
-| Rev.<br>Skala<br>1 : 300 | Sida<br>1 / 1 |
-| --- | --- |
-| Ritn.nr<br>T6 Gökalid intagsdamm |  |
-
 <!-- sida 508 -->
 
 A
@@ -20965,12 +21811,13 @@ Utloppskanal
 
 A
 
-Konstr. Datum       Granskad av
+Konstr. Datum       Granskad av                    Rev.
 ME   2022-06-10
-Kulvert vid Gökalid kraftstation
-
-Bilaga T7
+Skala     Sida
+Kulvert vid Gökalid kraftstation 1 : 100   1 / 1
+Bilaga T7                     Ritn.nr
 Nuvarande förhållanden
+T7 kulvert vid kraftstation
 00571 00061  00041   00021   00001   0008    0006   0004    0002 008 0
 +37,66 +37,72 +37,74 +37,79  +37,84  +37,89  +37,94  +38,00  +38,05 +38,06
 VY ca +36,43
@@ -20987,18 +21834,6 @@ pilen markerar vattenriktning
 Kraftstationen
 Kulverten mynnar ut
 under plattformen
-
-[Tabell 508-1](handlingar.tabeller/508-1.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-
-[Tabell 508-2](handlingar.tabeller/508-2.csv)
-
-| Rev.<br>Skala<br>1 : 100 | Sida<br>1 / 1 |
-| --- | --- |
-| Ritn.nr<br>T7 kulvert vid kraftstation |  |
 
 <!-- sida 509 -->
 
@@ -21259,24 +22094,13 @@ Tröskel +86,40
 
 Kort tagit ifrån nedströms
 
-Konstr. Datum       Granskad av
+Konstr. Datum       Granskad av                    Rev.
 ME   2022-06-13
-Tolaredssjöns regleringsdamm
-
-Bilaga T10
+Skala     Sida
+Tolaredssjöns regleringsdamm  1 : 100      1 / 1
+Bilaga T10                    Ritn.nr
 Framtida förhållanden
-
-[Tabell 515-1](handlingar.tabeller/515-1.csv)
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-
-[Tabell 515-2](handlingar.tabeller/515-2.csv)
-
-| Rev.<br>Skala<br>1 : 100 | Sida<br>1 / 1 |
-| --- | --- |
-| Ritn.nr<br>T10 Tolaredssjöns regleringsdamm framtida förhållanden |  |
+T10 Tolaredssjöns regleringsdamm framtida förhållanden
 
 <!-- sida 516 -->
 
@@ -21293,12 +22117,13 @@ A
 
 ca 48m
 
-Konstr. Datum       Granskad av
+Konstr. Datum       Granskad av                    Rev.
 ME   2022-06-13
-Gökalid intagsdamm
-
-Bilaga T11
+Skala     Sida
+Gökalid intagsdamm            1 : 300      1 / 1
+Bilaga T11                    Ritn.nr
 Framtida förhållanden
+T11 Gökalid intagsdamm framtida förhållanden
 m6,0
 Ankomstdatum 2023-12-11
 Diarienummer MH-2023-4570
@@ -21320,30 +22145,6 @@ fisk och ål kan transporteras ner mot
 den naturliga åfåran
 FIX VD1953
 +87,77
-
-[Tabell 516-1](handlingar.tabeller/516-1.csv)
-
-|  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |  |
-
-[Tabell 516-2](handlingar.tabeller/516-2.csv)
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-
-[Tabell 516-3](handlingar.tabeller/516-3.csv)
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-
-[Tabell 516-4](handlingar.tabeller/516-4.csv)
-
-| Rev.<br>Skala<br>1 : 300 | Sida<br>1 / 1 |
-| --- | --- |
-| Ritn.nr<br>T11 Gökalid intagsdamm framtida förhållanden |  |
 
 <!-- sida 517 -->
 
@@ -21369,12 +22170,13 @@ Utloppskanal
 
 A
 
-Konstr. Datum       Granskad av
+Konstr. Datum       Granskad av                    Rev.
 ME   2022-06-13
-Kulvert vid Gökalid kraftstation
-
-Bilaga T12
+Skala     Sida
+Kulvert vid Gökalid kraftstation 1 : 100   1 / 2
+Bilaga T12                    Ritn.nr
 Framtida förhållanden
+T12 Fiskväg kulvert vid kraftstation
 m1,0
 m6,0
 Ankomstdatum 2023-12-11
@@ -21405,12 +22207,6 @@ Befintlig kulvertbotten behålls för att minimera bergsskärning.
 Vilobassängen hela kulvertens bredd.
 tak för att kulvertens vatten inte ska rinna ner i fiskvägen.
 
-[Tabell 517-1](handlingar.tabeller/517-1.csv)
-
-| Rev.<br>Skala<br>1 : 100 | Sida<br>1 / 2 |
-| --- | --- |
-| Ritn.nr<br>T12 Fiskväg kulvert vid kraftstation |  |
-
 <!-- sida 518 -->
 
 Ankomstdatum 2023-12-11
@@ -21420,18 +22216,13 @@ Bro över kulvert/färdig fiskväg
 
 Skiljeväggar mellan respektive del.
 
-Konstr. Datum       Granskad av
+Konstr. Datum       Granskad av                    Rev.
 ME   2022-06-13
-Kulvert vid Gökalid kraftstation
-
-Bilaga T12
+Skala     Sida
+Kulvert vid Gökalid kraftstation 1 : 100   2 / 2
+Bilaga T12                    Ritn.nr
 Framtida förhållanden
-
-[Tabell 518-1](handlingar.tabeller/518-1.csv)
-
-| Rev.<br>Skala<br>1 : 100 | Sida<br>2 / 2 |
-| --- | --- |
-| Ritn.nr<br>T12 Fiskväg kulvert vid kraftstation |  |
+T12 Fiskväg kulvert vid kraftstation
 
 <!-- sida 519 -->
 
@@ -31982,13 +32773,13 @@ FLERÅRSÖVERSIKT
 
 Beloppen i flerårsöversikten är angivna i tusental kronor om inte annat anges.
 
-2201-2212  2101-2112 2001-2012  1901-1912
+[Tabell 935-1](handlingar.tabeller/935-1.csv)
 
-```osaker-tabell
-Nettoomsättning                 3 885      3 859     3 486      4 119
-Resultat efter finansiella poster -566      -99        -15       -469
-Soliditet %                      -79        -46       -112       -110
-```
+|  | 2201-2212 | 2101-2112 | 2001-2012 | 1901-1912 |
+| --- | --- | --- | --- | --- |
+| Nettoomsättning | 3 885 | 3 859 | 3 486 | 4 119 |
+| Resultat efter finansiella poster | -566 | -99 | -15 | -469 |
+| Soliditet % | -79 | -46 | -112 | -110 |
 
 <!-- sida 936 -->
 
@@ -31996,14 +32787,6 @@ Vallda TK                                                       3(7)
 849400-2259
 
 RESULTATRÄKNING                       1
-
-2022-01-01 2021-01-01
-2022-12-31 2021-12-31
-
-Rörelseintäkter, lagerförändringar m.m.
-Nettoomsättning                                   3 884 666  3 858 757
-Övriga rörelseintäkter                              15 468    46 410
-Summa rörelseintäkter, lagerförändringar m.m.     3 900 134 3 905 167
 
 Rörelsekostnader
 Råvaror och förnödenheter                          -450 251  -298 156
@@ -32016,17 +32799,24 @@ Rörelseresultat                                   -504 646    -57 967
 
 Finansiella poster
 
-```osaker-tabell
-Övriga ränteintäkter och liknande resultatposter    -1 412       0
-Räntekostnader och liknande resultatposter         -59 502    -40 981
-Summa finansiella poster                           -60 914    -40 981
+[Tabell 936-1](handlingar.tabeller/936-1.csv)
 
-Resultat efter finansiella poster                 -565 560    -98 948
+|  | 2022-01-01 2022-12-31 | 2021-01-01 2021-12-31 |
+| --- | --- | --- |
+| Rörelseintäkter, lagerförändringar m.m. |  |  |
+| Nettoomsättning | 3 884 666 | 3 858 757 |
+| Övriga rörelseintäkter | 15 468 | 46 410 |
+| Summa rörelseintäkter, lagerförändringar m.m. | 3 900 134 | 3 905 167 |
 
-Resultat före skatt                               -565 560    -98 948
+[Tabell 936-2](handlingar.tabeller/936-2.csv)
 
-Årets resultat                                    -565 560    -98 948
-```
+| Övriga ränteintäkter och liknande resultatposter | -1 412 | 0 |
+| --- | --- | --- |
+| Räntekostnader och liknande resultatposter | -59 502 | -40 981 |
+| Summa finansiella poster | -60 914 | -40 981 |
+| Resultat efter finansiella poster | -565 560 | -98 948 |
+| Resultat före skatt | -565 560 | -98 948 |
+| Årets resultat | -565 560 | -98 948 |
 
 <!-- sida 937 -->
 
@@ -32054,36 +32844,27 @@ Summa anläggningstillgångar                       1 375 001 1 498 981
 Omsättningstillgångar
 Kortfristiga fordringar
 
-```osaker-tabell
-Kundfordringar                                     270 570    30 960
-Förutbetalda kostnader och upplupna intäkter       488 000    845 052
-Summa kortfristiga fordringar                      758 570    876 012
-```
-
 Kassa och bank
 
-```osaker-tabell
-Kassa och bank                                     173 332    331 911
-Summa kassa och bank                               173 332    331 911
+[Tabell 937-1](handlingar.tabeller/937-1.csv)
 
-Summa omsättningstillgångar                        931 902  1 207 923
-```
+| Kundfordringar | 270 570 | 30 960 |
+| --- | --- | --- |
+| Förutbetalda kostnader och upplupna intäkter | 488 000 | 845 052 |
+| Summa kortfristiga fordringar | 758 570 | 876 012 |
 
-SUMMA TILLGÅNGAR                                  2 306 903 2 706 904
+[Tabell 937-2](handlingar.tabeller/937-2.csv)
+
+| Kassa och bank | 173 332 | 331 911 |
+| --- | --- | --- |
+| Summa kassa och bank | 173 332 | 331 911 |
+| Summa omsättningstillgångar | 931 902 | 1 207 923 |
+| SUMMA TILLGÅNGAR | 2 306 903 | 2 706 904 |
 
 <!-- sida 938 -->
 
 Vallda TK                                                       5(7)
 849400-2259
-
-2022-12-31 2021-12-31
-
-EGET KAPITAL OCH SKULDER
-
-Eget kapital
-Eget kapital vid räkenskapsårets början           -1 247 980 -1 149 032
-Årets resultat                                     -565 560   -98 948
-Eget kapital vid räkenskapsårets slut            -1 813 540 -1 247 980
 
 Långfristiga skulder
 Övriga skulder till kreditinstitut    6           1 525 000  1 550 000
@@ -32093,16 +32874,25 @@ Summa långfristiga skulder                        3 592 022 3 374 022
 
 Kortfristiga skulder
 
-```osaker-tabell
-Leverantörsskulder                                 215 362    114 556
-Skatteskulder                                       16 758    14 936
-Övriga skulder                                      36 779    38 341
-Upplupna kostnader och förutbetalda intäkter       259 522    413 029
+[Tabell 938-1](handlingar.tabeller/938-1.csv)
 
-Summa kortfristiga skulder                         528 421   580 862
-```
+|  | 2022-12-31 | 2021-12-31 |
+| --- | --- | --- |
+| EGET KAPITAL OCH SKULDER |  |  |
+| Eget kapital |  |  |
+| Eget kapital vid räkenskapsårets början | -1 247 980 | -1 149 032 |
+| Årets resultat | -565 560 | -98 948 |
+| Eget kapital vid räkenskapsårets slut | -1 813 540 | -1 247 980 |
 
-SUMMA EGET KAPITAL OCH SKULDER                    2 306 903 2 706 904
+[Tabell 938-2](handlingar.tabeller/938-2.csv)
+
+| Leverantörsskulder | 215 362 | 114 556 |
+| --- | --- | --- |
+| Skatteskulder | 16 758 | 14 936 |
+| Övriga skulder | 36 779 | 38 341 |
+| Upplupna kostnader och förutbetalda intäkter | 259 522 | 413 029 |
+| Summa kortfristiga skulder | 528 421 | 580 862 |
+| SUMMA EGET KAPITAL OCH SKULDER | 2 306 903 | 2 706 904 |
 
 <!-- sida 939 -->
 
@@ -32122,34 +32912,29 @@ Medelantalet anställda                                5         5
 
 Not 3   Inventarier verktyg och installationer   2022-12-31 2021-12-31
 
-```osaker-tabell
-Ingående anskaffningsvärden                        120 538   120 538
-Utgående anskaffningsvärden                        120 538   120 538
-
-Ingående avskrivningar                            -107 938   -95 338
-```
-
-Förändringar av avskrivningar
-
-```osaker-tabell
-Årets avskrivningar                                -12 600   -12 600
-Utgående avskrivningar                            -120 538  -107 938
-
-Redovisat värde                                       0      12 600
-```
-
 Not 4   Grusbanor på annans mark                 2022-12-31 2021-12-31
 
-Ingående anskaffningsvärden                       2 117 767 2 117 767
-Utgående anskaffningsvärden                       2 117 767 2 117 767
+[Tabell 939-1](handlingar.tabeller/939-1.csv)
 
-Ingående avskrivningar                            -735 738  -629 849
-Förändringar av avskrivningar
+| Ingående anskaffningsvärden | 120 538 | 120 538 |
+| --- | --- | --- |
+| Utgående anskaffningsvärden | 120 538 | 120 538 |
+| Ingående avskrivningar | -107 938 | -95 338 |
+| Förändringar av avskrivningar |  |  |
+| Årets avskrivningar | -12 600 | -12 600 |
+| Utgående avskrivningar | -120 538 | -107 938 |
+| Redovisat värde | 0 | 12 600 |
 
-Årets avskrivningar                               -105 889  -105 889
-Utgående avskrivningar                            -841 627  -735 738
+[Tabell 939-2](handlingar.tabeller/939-2.csv)
 
-Redovisat värde                                  1 276 140 1 382 029
+| Ingående anskaffningsvärden | 2 117 767 | 2 117 767 |
+| --- | --- | --- |
+| Utgående anskaffningsvärden | 2 117 767 | 2 117 767 |
+| Ingående avskrivningar | -735 738 | -629 849 |
+| Förändringar av avskrivningar |  |  |
+| Årets avskrivningar | -105 889 | -105 889 |
+| Utgående avskrivningar | -841 627 | -735 738 |
+| Redovisat värde | 1 276 140 | 1 382 029 |
 
 <!-- sida 940 -->
 
@@ -32158,22 +32943,6 @@ Vallda TK                                                       7(7)
 
 Not 5   Byggnader på annans mark, klubbstuga och 2022-12-31 2021-12-31
 omklädningsrum mm
-
-```osaker-tabell
-Ingående anskaffningsvärden                        137 298   137 298
-Utgående anskaffningsvärden                        137 298   137 298
-
-Ingående avskrivningar                             -32 946   -27 455
-```
-
-Förändringar av avskrivningar
-
-```osaker-tabell
-Årets avskrivningar                                 -5 491   -5 491
-Utgående avskrivningar                             -38 437   -32 946
-
-Redovisat värde                                    98 861   104 352
-```
 
 Totalt nedlagda ekonomiska medel avseende byggnation av klubbstuga och omklädningsrum uppgår till 2 318 298,
 avgår bidrag från Arvsfonden 2 181 000 kr.
@@ -32203,6 +32972,17 @@ Min revisionsberättelse har lämnats
 
 Heidi Helenius
 Revisor
+
+[Tabell 940-1](handlingar.tabeller/940-1.csv)
+
+| Ingående anskaffningsvärden | 137 298 | 137 298 |
+| --- | --- | --- |
+| Utgående anskaffningsvärden | 137 298 | 137 298 |
+| Ingående avskrivningar | -32 946 | -27 455 |
+| Förändringar av avskrivningar |  |  |
+| Årets avskrivningar | -5 491 | -5 491 |
+| Utgående avskrivningar | -38 437 | -32 946 |
+| Redovisat värde | 98 861 | 104 352 |
 
 <!-- sida 941 -->
 
@@ -32266,14 +33046,16 @@ Kortfristiga skulder
 2940 Uppl soc avg                   -77 279,00   -6 998,00  -84 277,00
 2943 Upplupen löneskatt             -16 758,33     13,33    -16 745,00
 2990 Övr upplupna kostn/förutb     -208 492,00  167 492,00  -41 000,00
-S:a kortfristiga skulder           -580 159,55  47 702,55   -532 457,00
 ```
 
-S:A EGET KAPITAL, AVSÄTTN OCH SKULDER -882 179,04 638 262,33 -243 916,71
-
-Beräknat resultat                      0,00         0,00        0,00
-
 BL Bokslut 2022.1.103           2023-06-28                   1(1)
+
+[Tabell 941-1](handlingar.tabeller/941-1.csv)
+
+| S:a kortfristiga skulder | -580 159,55 | 47 702,55 | -532 457,00 |
+| --- | --- | --- | --- |
+| S:A EGET KAPITAL, AVSÄTTN OCH SKULDER | -882 179,04 | 638 262,33 | -243 916,71 |
+| Beräknat resultat | 0,00 | 0,00 | 0,00 |
 
 <!-- sida 942 -->
 
@@ -32497,40 +33279,36 @@ FLERÅRSÖVERSIKT
 
 Beloppen i flerårsöversikten är angivna i tusental kronor om inte annat anges.
 
-2201-2212  2101-2112 2001-2012  1901-1912
-
-```osaker-tabell
-Nettoomsättning                  390        390       380        370
-Resultat efter finansiella poster -59       10          6
-Balansomslutning                5 388      5 397     5 388      5 386
-```
-
 FÖRÄNDRINGAR I EGET KAPITAL
 
-Medlems-   Balanserat   Årets      Totalt
-insatser  resultat   resultat
-Belopp vid årets ingång        680 900   -283 203    10 467   408 164
-Resultatdisposition enligt föreningsstämman:
-
-```osaker-tabell
-Balanseras i ny räkning                   10 467    -10 467       0
-Årets resultat                                      -59 116    -59 116
-Belopp vid årets utgång        680 900   -272 736   -59 116   349 048
-```
-
-RESULTATDISPOSITION
-
-Medel att disponera:
-
-Balanserat resultat           -272 736
-Årets resultat                 -59 116
-Summa                         -331 852
-
-Förslag till disposition:
-Balanseras i ny räkning       -331 852
-Summa                         -331 852
-
 Bolagets resultat och ställning framgår av efterföljande resultat-och balansräkning med noter.
+
+[Tabell 946-1](handlingar.tabeller/946-1.csv)
+
+|  | 2201-2212 | 2101-2112 | 2001-2012 | 1901-1912 |
+| --- | --- | --- | --- | --- |
+| Nettoomsättning | 390 | 390 | 380 | 370 |
+| Resultat efter finansiella poster | -59 | 10 | 6 |  |
+| Balansomslutning | 5 388 | 5 397 | 5 388 | 5 386 |
+
+[Tabell 946-2](handlingar.tabeller/946-2.csv)
+
+|  | Medlems- | Balanserat | Årets | Totalt |
+| --- | --- | --- | --- | --- |
+|  | insatser | resultat | resultat |  |
+| Belopp vid årets ingång | 680 900 | -283 203 | 10 467 | 408 164 |
+| Resultatdisposition enligt föreningsstämman: |  |  |  |  |
+| Balanseras i ny räkning |  | 10 467 | -10 467 | 0 |
+| Årets resultat |  |  | -59 116 | -59 116 |
+| Belopp vid årets utgång | 680 900 | -272 736 | -59 116 | 349 048 |
+| RESULTATDISPOSITION |  |  |  |  |
+| Medel att disponera: |  |  |  |  |
+| Balanserat resultat | -272 736 |  |  |  |
+| Årets resultat | -59 116 |  |  |  |
+| Summa | -331 852 |  |  |  |
+| Förslag till disposition: |  |  |  |  |
+| Balanseras i ny räkning | -331 852 |  |  |  |
+| Summa | -331 852 |  |  |  |
 
 <!-- sida 947 -->
 
@@ -32539,35 +33317,24 @@ Vallda Tennishall Ek Förening                                   3(6)
 
 RESULTATRÄKNING                       1
 
-2022-01-01 2021-01-01
-2022-12-31 2021-12-31
+[Tabell 947-1](handlingar.tabeller/947-1.csv)
 
-Rörelseintäkter, lagerförändringar m.m.
-Nettoomsättning                                    390 000    390 000
-Summa rörelseintäkter, lagerförändringar m.m.      390 000   390 000
-
-Rörelsekostnader
-
-```osaker-tabell
-Övriga externa kostnader                            -1 580     -1 200
-Avskrivningar av materiella anläggningstillgångar  -252 006  -255 208
-Summa rörelsekostnader                            -253 586   -256 408
-
-Rörelseresultat                                    136 414   133 592
-```
-
-Finansiella poster
-
-```osaker-tabell
-Räntekostnader och liknande resultatposter         -195 530  -123 125
-Summa finansiella poster                          -195 530   -123 125
-
-Resultat efter finansiella poster                  -59 116    10 467
-
-Resultat före skatt                                -59 116    10 467
-
-Årets resultat                                     -59 116    10 467
-```
+|  | 2022-01-01 2022-12-31 | 2021-01-01 2021-12-31 |
+| --- | --- | --- |
+| Rörelseintäkter, lagerförändringar m.m. |  |  |
+| Nettoomsättning | 390 000 | 390 000 |
+| Summa rörelseintäkter, lagerförändringar m.m. | 390 000 | 390 000 |
+| Rörelsekostnader |  |  |
+| Övriga externa kostnader | -1 580 | -1 200 |
+| Avskrivningar av materiella anläggningstillgångar | -252 006 | -255 208 |
+| Summa rörelsekostnader | -253 586 | -256 408 |
+| Rörelseresultat | 136 414 | 133 592 |
+| Finansiella poster |  |  |
+| Räntekostnader och liknande resultatposter | -195 530 | -123 125 |
+| Summa finansiella poster | -195 530 | -123 125 |
+| Resultat efter finansiella poster | -59 116 | 10 467 |
+| Resultat före skatt | -59 116 | 10 467 |
+| Årets resultat | -59 116 | 10 467 |
 
 <!-- sida 948 -->
 
@@ -32593,12 +33360,14 @@ Kortfristiga fordringar
 Summa kortfristiga fordringar                     2 067 022  1 824 022
 
 Kassa och bank
-Kassa och bank                                        -6         0
-Summa kassa och bank                                  -6         0
 
-Summa omsättningstillgångar                       2 067 016 1 824 022
+[Tabell 948-1](handlingar.tabeller/948-1.csv)
 
-SUMMA TILLGÅNGAR                                  5 388 431 5 397 442
+| Kassa och bank | -6 | 0 |
+| --- | --- | --- |
+| Summa kassa och bank | -6 | 0 |
+| Summa omsättningstillgångar | 2 067 016 | 1 824 022 |
+| SUMMA TILLGÅNGAR | 5 388 431 | 5 397 442 |
 
 <!-- sida 949 -->
 
@@ -32611,34 +33380,25 @@ EGET KAPITAL OCH SKULDER
 
 Eget kapital
 Bundet eget kapital
-Medlemsinsatser                                    680 900    680 900
-Summa bundet eget kapital                          680 900    680 900
 
-Fritt eget kapital
+[Tabell 949-1](handlingar.tabeller/949-1.csv)
 
-```osaker-tabell
-Balanserat resultat                                -272 736  -283 203
-Årets resultat                                     -59 116    10 467
-Summa fritt eget kapital                           -331 852  -272 736
-
-Summa eget kapital                                 349 048   408 164
-```
-
-Långfristiga skulder
-Övriga skulder till kreditinstitut                4 970 000  4 970 000
-
-Summa långfristiga skulder                        4 970 000 4 970 000
-
-Kortfristiga skulder
-
-```osaker-tabell
-Övriga skulder                                         0      19 278
-Upplupna kostnader och förutbetalda intäkter        69 383       0
-
-Summa kortfristiga skulder                         69 383     19 278
-```
-
-SUMMA EGET KAPITAL OCH SKULDER                    5 388 431 5 397 442
+| Medlemsinsatser | 680 900 | 680 900 |
+| --- | --- | --- |
+| Summa bundet eget kapital | 680 900 | 680 900 |
+| Fritt eget kapital |  |  |
+| Balanserat resultat | -272 736 | -283 203 |
+| Årets resultat | -59 116 | 10 467 |
+| Summa fritt eget kapital | -331 852 | -272 736 |
+| Summa eget kapital | 349 048 | 408 164 |
+| Långfristiga skulder |  |  |
+| Övriga skulder till kreditinstitut | 4 970 000 | 4 970 000 |
+| Summa långfristiga skulder | 4 970 000 | 4 970 000 |
+| Kortfristiga skulder |  |  |
+| Övriga skulder | 0 | 19 278 |
+| Upplupna kostnader och förutbetalda intäkter | 69 383 | 0 |
+| Summa kortfristiga skulder | 69 383 | 19 278 |
+| SUMMA EGET KAPITAL OCH SKULDER | 5 388 431 | 5 397 442 |
 
 <!-- sida 950 -->
 
@@ -32653,16 +33413,6 @@ Enligt BFNAR 2016:10
 Årsredovisningen har upprättats enligt årsredovisningslagen och BFNAR 2016:10 Årsredovisning i mindre företag (K2).
 
 Not 2   Byggnader och mark                       2022-12-31 2021-12-31
-
-Ingående anskaffningsvärden                       8 141 095 8 141 095
-Utgående anskaffningsvärden                       8 141 095 8 141 095
-
-Ingående avskrivningar                           -4 567 675 -4 312 467
-Förändringar av avskrivningar
-Årets avskrivningar                               -252 006  -255 208
-Utgående avskrivningar                           -4 819 681 -4 567 675
-
-Redovisat värde                                  3 321 414 3 573 420
 
 Not 3   Rapport om årsredovisning
 
@@ -32685,6 +33435,17 @@ Min revisionsberättelse har lämnats
 
 Heidi Helenius
 Revisor
+
+[Tabell 950-1](handlingar.tabeller/950-1.csv)
+
+| Ingående anskaffningsvärden | 8 141 095 | 8 141 095 |
+| --- | --- | --- |
+| Utgående anskaffningsvärden | 8 141 095 | 8 141 095 |
+| Ingående avskrivningar | -4 567 675 | -4 312 467 |
+| Förändringar av avskrivningar |  |  |
+| Årets avskrivningar | -252 006 | -255 208 |
+| Utgående avskrivningar | -4 819 681 | -4 567 675 |
+| Redovisat värde | 3 321 414 | 3 573 420 |
 
 <!-- sida 951 -->
 
@@ -32776,19 +33537,17 @@ RESULTAT FÖRE FINANSIELLA POSTER   133 592,00    2 822,00   136 414,00
 
 Finansiella och andra intäkter och kostnader
 8400 Räntekostnader                -123 124,61  -72 405,18  -195 529,79
-S:a finansiella och andra intäkter och kostnader -123 124,61 -72 405,18 -195 529,79
-
-```osaker-tabell
-RESULTAT FÖRE BOKSLUTSDISPOSITIONER 10 467,39   -69 583,18  -59 115,79
-
-RESULTAT FÖRE SKATT                 10 467,39   -69 583,18  -59 115,79
-
-ÅRETS RESULTAT                      10 467,39   -69 583,18  -59 115,79
-
-Beräknat resultat                      0,00         0,00        0,00
-```
 
 BL Bokslut 2022.1.103           2023-06-28                   1(1)
+
+[Tabell 952-1](handlingar.tabeller/952-1.csv)
+
+| S:a finansiella och andra intäkter och kostnader | -123 124,61 | -72 405,18 | -195 529,79 |
+| --- | --- | --- | --- |
+| RESULTAT FÖRE BOKSLUTSDISPOSITIONER | 10 467,39 | -69 583,18 | -59 115,79 |
+| RESULTAT FÖRE SKATT | 10 467,39 | -69 583,18 | -59 115,79 |
+| ÅRETS RESULTAT | 10 467,39 | -69 583,18 | -59 115,79 |
+| Beräknat resultat | 0,00 | 0,00 | 0,00 |
 
 <!-- sida 953 -->
 

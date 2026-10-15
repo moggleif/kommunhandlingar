@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.46db326b19c4795e00836ce2/1770883677
 sha256: 908aed7d20da237037cb00f579366c56a604c8555ebb339442bdeec319c2b347
 bytes: 60252880
 sidor: 936
-hamtad: 2026-10-08T12:25:28+00:00
-konverterad: 2026-10-08T12:28:15+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T10:08:29+00:00
+konverterad: 2026-10-15T10:11:51+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [12, 66, 97, 98, 99, 100, 101, 102]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [12, 66, 97, 98, 99, 100, 101, 102, 151, 152, 362, 369, 376, 821, 841]
+figurer: [48, 49, 52, 53, 55, 59, 79, 96, 108, 110, 117, 121, 124, 126, 128, 129, 130, 131, 132, 133, 136, 138, 140, 141, 142, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 156, 158, 173, 179, 185, 187, 199, 200, 201, 202, 203, 204, 205, 206, 207, 211, 230, 345, 351, 352, 356, 362, 365, 366, 367, 368, 369, 370, 371, 372, 376, 379, 380, 381, 382, 383, 384, 422, 448, 449, 452, 453, 462, 463, 464, 507, 605, 614, 616, 618, 620, 621, 622, 624, 626, 627, 636, 637, 638, 639, 640, 641, 642, 644, 646, 648, 649, 651, 654, 656, 657, 658, 660, 661, 662, 665, 666, 667, 668, 669, 670, 671, 672, 673, 675, 677, 679, 682, 683, 687, 688, 689, 690, 691, 697, 698, 699, 701, 703, 705, 706, 708, 710, 712, 714, 716, 718, 719, 722, 723, 734, 746, 759, 765, 767, 769, 774, 775, 777, 780, 781, 782, 784, 785, 786, 787, 788, 789, 792, 793, 794, 795, 796, 797, 798, 799, 801, 807, 812, 815, 816, 817, 818, 821, 822, 823, 824, 825, 827, 832, 835, 836, 837, 838, 841, 842, 843, 844, 845, 847, 848, 853, 856, 857, 858, 861, 862, 863, 865, 867, 872, 873, 874, 877, 878, 879, 880, 881, 882, 885, 886, 887, 888, 889, 890, 891, 892, 893, 894, 895, 896, 897, 898, 899, 900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 915, 916, 917, 919, 920, 921, 923, 924]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -60,7 +60,7 @@ KUNGSBACKA  KOMMUN
 
 2 (8)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-3-1](handlingar.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -70,6 +70,8 @@ KUNGSBACKA  KOMMUN
 | 6. | Begäran om medel för trygg<br>uppväxt - Stärka barn och<br>ungas välmående och minska<br>utanförskapet (Kultur & Fritid) | 2025-00966 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>3 000 000 kronor från centrala finansverksamheten<br>för 2026 till nämnden för Kultur & Fritid. |
 | 7. | Begäran om medel för trygg<br>uppväxt - En ännu bättre öppen<br>förskola (Förskola &<br>Grundskola) | 2025-00971 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>2 000 000 kronor från centrala finansverksamheten<br>för 2026 till nämnden för Förskola & Grundskola. |
 | 8. | Begäran om medel för trygg<br>uppväxt - Satsningen på två<br>skolcoacher i samverkan<br>(Gymnasium &<br>Arbetsmarknad) | 2025-00911 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>2 000 000 kronor från centrala finansverksamheten<br>för 2026 till nämnden för Gymnasium &<br>Arbetsmarknad. |
+| 9. | Begäran om medel för trygg<br>uppväxt - Koordinator för att<br>möjliggöra tidiga insatser,<br>motverka normbrytande<br>beteende, hjälp till självhjälp<br>och stärkt stöd till familjehem<br>och jourfamiljer (Individ &<br>Familjeomsorg) | 2025-00859 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>2 000 000 kronor från centrala finansverksamheten<br>för 2026 till nämnden för Individ & Familjeomsorg. |
+| 10. | Begäran om planbesked Hede<br>4:9 | 2025-00759 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av bostäder inom Hede 4:9,<br>i Kungsbacka.<br>Möjlig exploatering, såsom antal lägenheter,<br>bebyggelsetyp och våningsantal, ska utredas under<br>detaljplanearbetet och anpassas efter platsens<br>förutsättningar. Tölögården och dess verksamhet ska<br>särskilt beaktas i det kommande planarbetet.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande<br>av detaljplan för bostäder inom Hede<br>4:9 i Kungsbacka. |
 
 <!-- sida 3 -->
 
@@ -77,51 +79,22 @@ KUNGSBACKA  KOMMUN
 
 3 (8)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 9. | Begäran om medel för trygg<br>uppväxt - Koordinator för att<br>möjliggöra tidiga insatser,<br>motverka normbrytande<br>beteende, hjälp till självhjälp<br>och stärkt stöd till familjehem<br>och jourfamiljer (Individ &<br>Familjeomsorg) | 2025-00859 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>2 000 000 kronor från centrala finansverksamheten<br>för 2026 till nämnden för Individ & Familjeomsorg. |
-| 10. | Begäran om planbesked Hede<br>4:9 | 2025-00759 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av bostäder inom Hede 4:9,<br>i Kungsbacka.<br>Möjlig exploatering, såsom antal lägenheter,<br>bebyggelsetyp och våningsantal, ska utredas under<br>detaljplanearbetet och anpassas efter platsens<br>förutsättningar. Tölögården och dess verksamhet ska<br>särskilt beaktas i det kommande planarbetet.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande<br>av detaljplan för bostäder inom Hede<br>4:9 i Kungsbacka. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4 (8)
 
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
+[Tabell 4-7-1](handlingar.tabeller/4-7-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 11. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för bostäder inom<br>Tölö 8:26 i Kungsbacka stad | 2021-00656 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för bostäder inom Tölö 8:26 i Kungsbacka<br>stad, daterad 2025-12-01, med följande ändringar:<br>− Under projektets syfte ändras följande mening:<br>Med bra kopplingar till Kungsbacka station får vi<br>en välplanerad infrastruktur och lättillgänglig<br>kollektivtrafik som minimerar biltransporter och<br>dess miljöpåverkan.<br>till<br>Med bra kopplingar till Kungsbacka station får vi<br>en välplanerad infrastruktur och lättillgänglig<br>kollektivtrafik som möjliggör färre biltransporter.<br>− Under detaljplanens inriktning läggs två ord till:<br>Detaljplanen kommer att utreda möjligheten med<br>en bostadsexploatering i centrala Kungsbacka.<br>Bebyggelsen ska anpassas till platsens<br>förutsättningar. Området ska utvecklas med<br>möjlighet till blandade upplåtelseformer och<br>bostadstyper inklusive trygghetsboende och<br>bostäder med särskild service (BmSS).<br>− Under detaljplanens inriktning tas slutet av<br>meningen bort, så att meningen får följande<br>lydelse:<br>Området föreslås byggas ut med kvartersstruktur i<br>sluttningen nedanför kyrkan för att få bra<br>ljudmiljöer. Den nya bebyggelsens möte mot<br>kyrkan och dess kulturmiljö ska beaktas. I<br>skogsområdet vid Tölöberg föreslås punkthus<br>som anpassas till terrängen och naturen.<br>Bebyggelsen föreslås i två till fem våningar.<br>Innebär att delen "eventuellt högre vid<br>punkthusen" stryks.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan för bostäder inom<br>Tölö 8:26 i Kungsbacka stad. |
-
-<!-- sida 5 -->
-
-KUNGSBACKA  KOMMUN
-
-5 (8)
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 12. | Markanvisningstävling för<br>småhus inom kvarteret<br>Gjutaren och Liljan | 2019-00547 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner inbjudan till<br>Markanvisningstävling för småhus inom kvarteret<br>Gjutaren och Liljan, daterat 2025-12-19, med<br>följande ändring:<br>− Parkeringstalet i markanvisningen ändras till<br>1,3, i enlighet med parkeringsstrategin.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att genomföra markanvisningstävling i enlighet med<br>inbjudan. |
 | 13. | Markanvisningstävling inom<br>detaljplan för Aranäs etapp 4,<br>fastigheten Inlagsgärde 2 | 2025-00970 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner Inbjudan till<br>Markanvisningstävling för Aranäs<br>etapp 4, fastigheten Inlagsgärde 2, daterat<br>2025-12-19, med följande tillägg:<br>− Området området bör innehålla en betydande<br>del ägandelägenheter. Förvaltningen får i<br>uppdrag att utforma utvärderingskriterier för<br>detta ändamål.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att genomföra markanvisningstävling i enlighet med<br>Inbjudan till Markanvisningstävlingen. |
 | 14. | Svar på Region Hallands<br>remiss om Regional Cykelplan<br>2026–2035 | 2025-00515 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-12-05,<br>och översänder det som sitt svar till Region Halland. |
 | 15. | Svar på Konkurrensverkets<br>remiss av rapport om hantering<br>av onormalt låga anbud som<br>inte är seriöst menade | 2025-00861 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-01-07,<br>och översänder det som sitt svar till<br>Finansdepartementet. |
 | 16. | Svar på remiss av ny<br>förbundsordning och<br>samverkansavtal för<br>Räddningstjänsten<br>Storgöteborg | 2025-00979 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-01-09,<br>och översänder det som sitt svar till<br>Räddningstjänstförbundet Storgöteborg. |
-
-<!-- sida 6 -->
-
-KUNGSBACKA  KOMMUN
-
-6 (8)
-
-[Tabell 6-1](handlingar.tabeller/6-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 17. | Svar på Landsbygds- och<br>infrastrukturdepartementet<br>remiss av betänkandet En<br>bättre organisering av<br>fastighetsbildnings-<br>verksamheten (SOU 2025:98) | 2025-00929 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-01-12,<br>och översänder det som sitt svar till Landsbygds- och<br>infrastrukturdepartementet. |
 | 18. | Svar på Landsbygds- och<br>infrastrukturdepartementets<br>remiss av betänkandet En<br>stärkt hästnäring - för<br>företagande, jämställdhet,<br>jämlikhet och folkhälsa (SOU<br>2025:58) | 2025-00880 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-01-22,<br>och översänder det till Landsbygds- och<br>infrastrukturdepartementet. |
 | 19. | Svar på Klimat- och<br>näringslivsdepartementet<br>remiss av förslag på digitala<br>lösningar för digitaliserad<br>tillsynsvägledning | 2025-00887 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-01-20,<br>och översänder som sitt svar till Naturvårdsverket. |
@@ -129,20 +102,27 @@ KUNGSBACKA  KOMMUN
 | 21. | Anmälan av delegeringsbeslut | 2026-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
 | 22. | Anmälan av ordförandebeslut | 2026-00007 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
 | 23. | Redovisning av inkomna<br>skrivelser | 2026-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
+| 24. | Rapport från nämnden för<br>Individ & Familjeomsorg av ej<br>verkställda beslut enligt<br>socialtjänstlagen, SoL, och<br>lagen om stöd och service till<br>vissa funktionshindrade, LSS,<br>tredje kvartalet 2025 | 2025-00954 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Individ & Familjeomsorg enligt 16 kap. 6 f §<br>socialtjänstlagen och 28 f § lagen om stöd och service<br>till vissa funktionshindrade, till protokollet. |
+| 25. | Medfinansiering av statlig<br>infrastruktur för<br>exploateringsverksamheten<br>inom kommunstyrelsens<br>förvaltning | 2025-00969 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige ger kommunstyrelsen rätt att<br>träffa medfinansieringsavtal för statlig infrastruktur<br>inom ramen för kommunens<br>exploateringsverksamhet som hanteras av<br>samhällsbyggnadskontoret på kommunstyrelsens<br>förvaltning. |
+| 26. | Revidering av riktlinjer och<br>regler för förmåner till<br>förtroendevalda | 2024-00576 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Riktlinjer och regler för<br>förmåner till förtroendevalda och andra uppdrag,<br>daterade 2025-11-03.<br>Riktlinjer och regler för förmåner till<br>förtroendevalda, antagna av kommunfullmäktige<br>2023-04-04, § 46, upphör samtidigt att gälla. |
+
+<!-- sida 5 -->
+
+KUNGSBACKA  KOMMUN
+
+5 (8)
+
+<!-- sida 6 -->
+
+KUNGSBACKA  KOMMUN
+
+6 (8)
 
 <!-- sida 7 -->
 
 KUNGSBACKA  KOMMUN
 
 7 (8)
-
-[Tabell 7-1](handlingar.tabeller/7-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 24. | Rapport från nämnden för<br>Individ & Familjeomsorg av ej<br>verkställda beslut enligt<br>socialtjänstlagen, SoL, och<br>lagen om stöd och service till<br>vissa funktionshindrade, LSS,<br>tredje kvartalet 2025 | 2025-00954 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Individ & Familjeomsorg enligt 16 kap. 6 f §<br>socialtjänstlagen och 28 f § lagen om stöd och service<br>till vissa funktionshindrade, till protokollet. |
-| 25. | Medfinansiering av statlig<br>infrastruktur för<br>exploateringsverksamheten<br>inom kommunstyrelsens<br>förvaltning | 2025-00969 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige ger kommunstyrelsen rätt att<br>träffa medfinansieringsavtal för statlig infrastruktur<br>inom ramen för kommunens<br>exploateringsverksamhet som hanteras av<br>samhällsbyggnadskontoret på kommunstyrelsens<br>förvaltning. |
-| 26. | Revidering av riktlinjer och<br>regler för förmåner till<br>förtroendevalda | 2024-00576 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Riktlinjer och regler för<br>förmåner till förtroendevalda och andra uppdrag,<br>daterade 2025-11-03.<br>Riktlinjer och regler för förmåner till<br>förtroendevalda, antagna av kommunfullmäktige<br>2023-04-04, § 46, upphör samtidigt att gälla. |
 
 <!-- sida 8 -->
 
@@ -1105,17 +1085,6 @@ Kommunstyrelsen                                  Kungsbacka kommun
 
 5.3 Prestationsmått
 
-Namn                         Utfall  Utfall  Utfall Utfall  Utfall
-
-```osaker-tabell
-                             2021    2022    2023    2024    2025
-Upprättade detaljplaner        11      12      9      10      11
-Antal företagsärenden i företagslotsen 46 50  60      46      38
-
-Planlagda bostäder            662     381     386     248    940
-Automatiserade processer       11      3       7       7       8
-```
-
 Ledtid planbesked till projektstart, anges
 24      24     31      32      14
 i månader
@@ -1131,6 +1100,15 @@ Sysselsatt dagbefolkning, 15–74 år 28 167 28 494 28 586 28 426 \*
 \* Ännu ej publicerad
 
 19
+
+[Tabell 30-1](handlingar.tabeller/30-1.csv)
+
+| Namn | Utfall 2021 | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- | --- |
+| Upprättade detaljplaner | 11 | 12 | 9 | 10 | 11 |
+| Antal företagsärenden i företagslotsen | 46 | 50 | 60 | 46 | 38 |
+| Planlagda bostäder | 662 | 381 | 386 | 248 | 940 |
+| Automatiserade processer | 11 | 3 | 7 | 7 | 8 |
 
 <!-- sida 31 -->
 
@@ -2290,16 +2268,6 @@ Bild: två graferna; en med BAS A-E och en med BAS F-J. Graferna visar på kvinn
 alla befattningar med fler än 10 månadsanställda. Från BI, Daterad: 251104.
 Kungsbacka kommun  Lönekartläggning och Handlingsplan, 2025-12-09 12
 
-[Tabell 52-1](handlingar.tabeller/52-1.csv)
-
-|  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-
 <!-- sida 53 -->
 
 7  Likvärdiga arbeten
@@ -2703,7 +2671,7 @@ utvecklingsområdena i årets lönekartläggning.
 
 Kungsbacka kommun  Lönekartläggning och Handlingsplan, 2025-12-09 20
 
-[Tabell 60-1](handlingar.tabeller/60-1.csv)
+[Tabell 60-61-1](handlingar.tabeller/60-61-1.csv)
 
 | Nr Åtgärd Tidpunkt Ansvar Kommentar/Uppföljning |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -2716,6 +2684,8 @@ Kungsbacka kommun  Lönekartläggning och Handlingsplan, 2025-12-09 20
 | 7 | Fortsätta arbetet utifrån den<br>övergripande lönestrukturen<br>för att säkerställa rättvisa<br>löner. | Kontinuerligt | HR och<br>chefer | Säkerställs genom årliga<br>kalibreringsmöten. |
 | 8 | Utbilda chefer i jämställd<br>och saklig lönesättning. | Årligen | HR-funktion | Minst en utbildningsinsats<br>per år. |
 | 9 | Utbilda HR-personal i<br>korrekt BAS-värdering av<br>befattningar. | Årligen | HR-funktion | Säkerställ gemensam<br>metodik över<br>förvaltningar. |
+| 10 | Uppdatera arbetsvärderingar<br>i BAS och AID för att<br>säkerställa aktuell och<br>rättvis värdering. | Kontinuerligt | HR-funktion | Revidering görs vid<br>organisationsförändringar. |
+| 11 | Genomföra årliga<br>medarbetarsamtal för att<br>tydliggöra kopplingen<br>mellan mål, resultat och lön. | Årligen | Lönesättande<br>chef | Resultat används som<br>underlag vid lönesättning. |
 
 <!-- sida 61 -->
 
@@ -2731,12 +2701,6 @@ löneöversynen har de fackliga organisationerna möjlighet att inkomma med yrka
 könsneutrala löner.
 
 Kungsbacka kommun  Lönekartläggning och Handlingsplan, 2025-12-09 21
-
-[Tabell 61-1](handlingar.tabeller/61-1.csv)
-
-| 10 | Uppdatera arbetsvärderingar<br>i BAS och AID för att<br>säkerställa aktuell och<br>rättvis värdering. | Kontinuerligt | HR-funktion | Revidering görs vid<br>organisationsförändringar. |
-| --- | --- | --- | --- | --- |
-| 11 | Genomföra årliga<br>medarbetarsamtal för att<br>tydliggöra kopplingen<br>mellan mål, resultat och lön. | Årligen | Lönesättande<br>chef | Resultat används som<br>underlag vid lönesättning. |
 
 <!-- sida 62 -->
 
@@ -5538,18 +5502,27 @@ scenarierna för olika utformningar i Capcal.
 Tabell 2. Sammanställning av belastningsgrader för de studerade scenarierna med olika
 utformningar i Capcal under eftermiddagens maxtimme.
 
+Utformning Väjningsplikt Väjningsplikt Signalreglering Signalreglering Signalreglering
+\+ Extra               + Svängfält + Extra körfält
+körfält               norrifrån   Tölövägen
+Tölöleden             Söderåleden + Svängfält
+
+norrifrån
+Scenario                                                 Söderåleden
+Önskvärd
+0,6        0,6        0,8         0,8        0,8
+servicenivå
+Godtagbar
+0,6 - 1,0  0,6 - 1,0  0,8 - 1,0   0,8 - 1,0   0,8 - 1,0
+servicenivå
+Nuläge          0,72
+Nuläge + Tölö
+0,84
+8:26 + Sjukhuset
+2050 låg        1,12      0,89        0,73
+2050 hög        4,94       4,2       över 1      0,77        0,66
+
 21
-
-[Tabell 137-1](handlingar.tabeller/137-1.csv)
-
-| Utformning<br>Scenario | Väjningsplikt | Väjningsplikt<br>+ Extra<br>körfält<br>Tölöleden | Signalreglering | Signalreglering<br>+ Svängfält<br>norrifrån<br>Söderåleden | Signalreglering<br>+ Extra körfält<br>Tölövägen<br>+ Svängfält<br>norrifrån<br>Söderåleden |
-| --- | --- | --- | --- | --- | --- |
-| Önskvärd<br>servicenivå | 0,6 | 0,6 | 0,8 | 0,8 | 0,8 |
-| Godtagbar<br>servicenivå | 0,6 - 1,0 | 0,6 - 1,0 | 0,8 - 1,0 | 0,8 - 1,0 | 0,8 - 1,0 |
-| Nuläge | 0,72 |  |  |  |  |
-| Nuläge + Tölö<br>8:26 + Sjukhuset | 0,84 |  |  |  |  |
-| 2050 låg | 1,12 | 0,89 | 0,73 |  |  |
-| 2050 hög | 4,94 | 4,2 | över 1 | 0,77 | 0,66 |
 
 <!-- sida 138 -->
 
@@ -5912,9 +5885,9 @@ Vilken kommun? Kungsbacka
 Var i kommunen? Centralt i huvudorten
 Markanvändning
 Bostäder BTA [m2] Antal bostadsenheter Antal boende Indata till beräkning Nyttotrafik [%] Osäkerhet
-Lägenhet                               372Boende 15%
-Radhus/parhus                           20Boende 15%
-Villa                                   20Boende 15%
+Lägenhet               208             372Boende 15%
+Radhus/parhus           8               20Boende 15%
+Villa                   8               20Boende 15%
 Verksamheter BTA [m2] Antal…
 Kontor                  Anställda       0Anställda 5%
 Småindustri/hantverkare Anställda       0Anställda 10%
@@ -5926,27 +5899,6 @@ Förskola                Elever          0Elever 5%
 Låg/mellanstadium       Elever          0Elever 5%
 Högstadie/gymnasium     Elever          0Elever 5%
 Gym                     Besök/dag       0Besök/dag 5%
-
-[Tabell 151-1](handlingar.tabeller/151-1.csv)
-
-|  | 208 |  |
-| --- | --- | --- |
-|  | 8 |  |
-|  | 8 |  |
-
-[Tabell 151-2](handlingar.tabeller/151-2.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
 
 <!-- sida 152 -->
 
@@ -6092,21 +6044,25 @@ med cykel: 15%
 till fots: 30%
 med annat: 2%
 Resor uppdelat efter markanvändning (exkl. nyttotrafik)
-Totalt
-886
-4 8
-4 8
-\-
-\-
-\-
-\-
-\-
-\-
-\-
-\-
-\-
-\-
-982
+Markanvändningstyp Bil Kollektivtrafik\*Cykel Gång Annat Totalt
+
+```osaker-tabell
+Lägenhet            340    125   133  268  20   886
+Radhus/parhus        19     7     7   15    1    48
+Villa                19     7     7   15    1    48
+```
+
+Kontor              -      -     -    -    -     -
+Småindustri/hantverkare -  -     -    -    -     -
+Detaljhandel        -      -     -    -    -     -
+Stormarknad         -      -     -    -    -     -
+Närbutik            -      -     -    -    -     -
+Restaurang          -      -     -    -    -     -
+Förskola            -      -     -    -    -     -
+Låg/mellanstadium   -      -     -    -    -     -
+Högstadie/gymnasium -      -     -    -    -     -
+Gym                 -      -     -    -    -     -
+Totalt antal resor/dygn 378 138  147  297  22   982
 \* Totalt antal på- och avstigande
 Påverkansparametrarnas effekt på färdmedelsandelarna
 Nedanstående tabell visar påverkansparametrarnas effekt på resultatet. Detta är inräknat i samtliga resultattabeller.
@@ -6119,36 +6075,17 @@ returresor. Bilresor innebär antalet personer som genomför en resa med bil. Å
 
 [Tabell 153-1](handlingar.tabeller/153-1.csv)
 
-| Markanvändningstyp | Bil | Kollektivtrafik | \*Cykel | Gång | Annat |
-| --- | --- | --- | --- | --- | --- |
-| Lägenhet | 3 40 | 125 | 133 | 268 | 2 0 |
-| Radhus/parhus | 19 | 7 | 7 | 1 5 | 1 |
-| Villa | 19 | 7 | 7 | 1 5 | 1 |
-| Kontor | - | - | - | - | - |
-| Småindustri/hantverkare | - | - | - | - | - |
-| Detaljhandel | - | - | - | - | - |
-| Stormarknad | - | - | - | - | - |
-| Närbutik | - | - | - | - | - |
-| Restaurang | - | - | - | - | - |
-| Förskola | - | - | - | - | - |
-| Låg/mellanstadium | - | - | - | - | - |
-| Högstadie/gymnasium | - | - | - | - | - |
-| Gym | - | - | - | - | - |
-| Totalt antal resor/dygn | 3 78 | 138 | 147 | 297 | 2 2 |
-
-[Tabell 153-2](handlingar.tabeller/153-2.csv)
-
 |  | Bil | Kollektivtrafik | Cykel | Gång | Annat |
 | --- | --- | --- | --- | --- | --- |
 | Förändring | -12% | -12% | +91% | 0% | 0% |
 
-[Tabell 153-3](handlingar.tabeller/153-3.csv)
+[Tabell 153-2](handlingar.tabeller/153-2.csv)
 
 |  | Exkl. nyttotrafik | Inkl. nyttotrafik |
 | --- | --- | --- |
-| Antal bilresor [resor/dygn] | 3 80 | 4 30 |
-| Uppskattat ÅDT [fordon/dygn] | 2 80 | 3 20 |
-| Uppskattat ÅVDT [fordon/dygn] | 3 10 | 3 60 |
+| Antal bilresor [resor/dygn] | 380 | 430 |
+| Uppskattat ÅDT [fordon/dygn] | 280 | 320 |
+| Uppskattat ÅVDT [fordon/dygn] | 310 | 360 |
 
 <!-- sida 154 -->
 
@@ -15200,33 +15137,72 @@ anges. Ändringarna anges kursiverade. I sista kolumnen följer korta kommentare
 
 8 (13)
 
-[Tabell 359-1](handlingar.tabeller/359-1.csv)
+[Tabell 359-360-1](handlingar.tabeller/359-360-1.csv)
 
 | Nu gällande<br>förbundsordning | Förslag till ny<br>förbundsordning | Kommentarer till<br>föreslagna ändringar |
 | --- | --- | --- |
 | 2 § Medlemmar<br>Medlemskommunerna<br>som ingår i<br>kommunalförbundet är<br>Göteborg, Mölndal,<br>Kungsbacka, Härryda,<br>Partille, Lerum, Lilla Edet,<br>Tjörn och Stenungsund. | 2 § Medlemmar<br>Medlemskommunerna<br>som ingår i<br>kommunalförbundet är<br>Göteborg, Mölndal,<br>Kungsbacka, Härryda,<br>Partille, Lerum, Lilla Edet,<br>Tjörn och Stenungsund,<br>Kungälv och Ale | Kommunerna Kungälv och<br>Ale har ansökt om<br>medlemskap i<br>räddningstjänstförbundet. |
+| 5 § Förbundsfullmäktige<br>Förbundets högsta<br>beslutande organ är<br>förbundsfullmäktige med<br>33 ledamöter och 33<br>ersättare. Uppdraget som<br>ordförande i<br>förbundsfullmäktige<br>innehas av ledamot från<br>annan medlemskommun<br>än Göteborg. Uppdraget<br>som första och andra vice<br>ordförande innehas av<br>ledamot från Göteborgs<br>kommun.<br>Medlemskommunerna<br>utser antal ledamöter och<br>ersättare enligt nedan.<br>Göteborg ska utse 17<br>ledamöter och 17<br>ersättare.<br>Mölndal ska utse 2<br>ledamöter och 2 ersättare.<br>Kungsbacka ska utse 2<br>ledamöter och 2 ersättare.<br>Härryda ska utse 2<br>ledamöter och 2 ersättare.<br>Partille ska utse 2<br>ledamöter och 2 ersättare.<br>Lerum ska utse 2<br>ledamöter och 2 ersättare.<br>Lilla Edet ska utse 2<br>ledamöter och 2 ersättare.<br>Tjörn ska utse 2 ledamöter<br>och 2 ersättare.<br>Stenungsund ska utse 2<br>ledamöter och 2 ersättare. | 5 § Förbundsfullmäktige<br>Förbundets högsta<br>beslutande organ är<br>förbundsfullmäktige med<br>21 ledamöter och 21<br>ersättare. Uppdraget som<br>ordförande i<br>förbundsfullmäktige<br>innehas av ledamot från<br>annan medlemskommun<br>än Göteborg. Uppdraget<br>som första och andra vice<br>ordförande innehas av<br>ledamot från Göteborgs<br>kommun.<br>Medlemskommunerna<br>utser antal ledamöter och<br>ersättare enligt nedan.<br>Göteborg ska utse 11<br>ledamöter och 11<br>ersättare.<br>Mölndal ska utse 1<br>ledamot och 1 ersättare.<br>Kungsbacka ska utse 1<br>ledamot och 1 ersättare.<br>Härryda ska utse 1 ledamot<br>och 1 ersättare.<br>Partille ska utse 1 ledamot<br>och 1 ersättare.<br>Lerum ska utse 1 ledamot<br>och 1 ersättare.<br>Lilla Edet ska utse 1<br>ledamot och 1 ersättare.<br>Tjörn ska utse 1 ledamot<br>och 1 ersättare.<br>Stenungsund ska utse 1<br>ledamot och 1 ersättare.<br>Kungälv ska utse 1 ledamot<br>och 1 ersättare. | Antalet ledamöter<br>utsedda av Göteborgs<br>kommun är det antal som<br>utses av övriga<br>medlemskommuner<br>tillsammans plus 1<br>ledamot och 1 ersättare.<br>Antalet ledamöter i<br>förbundsfullmäktige blir<br>därmed 21 ordinarie<br>ledamöter och lika många<br>ersättare. |
 
 <!-- sida 360 -->
 
 9 (13)
 
-[Tabell 360-1](handlingar.tabeller/360-1.csv)
-
-| Nu gällande<br>förbundsordning | Förslag till ny<br>förbundsordning | Kommentarer till<br>föreslagna ändringar |
-| --- | --- | --- |
-| 5 § Förbundsfullmäktige<br>Förbundets högsta<br>beslutande organ är<br>förbundsfullmäktige med<br>33 ledamöter och 33<br>ersättare. Uppdraget som<br>ordförande i<br>förbundsfullmäktige<br>innehas av ledamot från<br>annan medlemskommun<br>än Göteborg. Uppdraget<br>som första och andra vice<br>ordförande innehas av<br>ledamot från Göteborgs<br>kommun.<br>Medlemskommunerna<br>utser antal ledamöter och<br>ersättare enligt nedan.<br>Göteborg ska utse 17<br>ledamöter och 17<br>ersättare.<br>Mölndal ska utse 2<br>ledamöter och 2 ersättare.<br>Kungsbacka ska utse 2<br>ledamöter och 2 ersättare.<br>Härryda ska utse 2<br>ledamöter och 2 ersättare.<br>Partille ska utse 2<br>ledamöter och 2 ersättare.<br>Lerum ska utse 2<br>ledamöter och 2 ersättare.<br>Lilla Edet ska utse 2<br>ledamöter och 2 ersättare.<br>Tjörn ska utse 2 ledamöter<br>och 2 ersättare.<br>Stenungsund ska utse 2<br>ledamöter och 2 ersättare. | 5 § Förbundsfullmäktige<br>Förbundets högsta<br>beslutande organ är<br>förbundsfullmäktige med<br>21 ledamöter och 21<br>ersättare. Uppdraget som<br>ordförande i<br>förbundsfullmäktige<br>innehas av ledamot från<br>annan medlemskommun<br>än Göteborg. Uppdraget<br>som första och andra vice<br>ordförande innehas av<br>ledamot från Göteborgs<br>kommun.<br>Medlemskommunerna<br>utser antal ledamöter och<br>ersättare enligt nedan.<br>Göteborg ska utse 11<br>ledamöter och 11<br>ersättare.<br>Mölndal ska utse 1<br>ledamot och 1 ersättare.<br>Kungsbacka ska utse 1<br>ledamot och 1 ersättare.<br>Härryda ska utse 1 ledamot<br>och 1 ersättare.<br>Partille ska utse 1 ledamot<br>och 1 ersättare.<br>Lerum ska utse 1 ledamot<br>och 1 ersättare.<br>Lilla Edet ska utse 1<br>ledamot och 1 ersättare.<br>Tjörn ska utse 1 ledamot<br>och 1 ersättare.<br>Stenungsund ska utse 1<br>ledamot och 1 ersättare.<br>Kungälv ska utse 1 ledamot<br>och 1 ersättare. | Antalet ledamöter<br>utsedda av Göteborgs<br>kommun är det antal som<br>utses av övriga<br>medlemskommuner<br>tillsammans plus 1<br>ledamot och 1 ersättare.<br>Antalet ledamöter i<br>förbundsfullmäktige blir<br>därmed 21 ordinarie<br>ledamöter och lika många<br>ersättare. |
-
 <!-- sida 361 -->
 
+Nu gällande        Förslag till ny   Kommentarer till
+
+förbundsordning    förbundsordning   föreslagna ändringar
+Ale ska utse 1 ledamot och
+1 ersättare.
+
+6 § Förbundsstyrelse 6 § Förbundsstyrelse
+
+I kommunalförbundet ska I kommunalförbundet ska Förbundsstyrelsen
+det finnas en      det finnas en     föreslås bestå av endast
+förbundsstyrelse med 14 förbundsstyrelse med 18 ledamöter och inga
+ledamöter och 11   ledamöter. Av     ersättare. Antalet
+ersättare. Av ledamöterna ledamöterna ska 8 vara i styrelseledamöter blir 18.
+
+och ersättarna ska 6 Göteborg folkbokförda
+respektive 3 vara i medlemmar av Göteborgs
+Göteborg folkbokförda kommun och återstående
+medlemmar av Göteborgs ledamöter utom Göteborgs
+Stad och återstående kommun men inom
+ledamöter och ersättare kommunalförbundets
+utom Göteborgs Stad men medlemskommuner
+inom kommunalförbundets folkbokförda
+medlemskommuner    kommunmedlemmar.
+
+folkbokförda       Varje övrig
+kommunmedlemmar.   medlemskommun
+Varje övrig        företräds av 1 ledamot
+medlemskommun      folkbokförd i respektive
+företräds av en ledamot medlemskommun.
+och en ersättare
+folkbokförda i respektive
+medlemskommun.
+
+7 § Revisorer och  7 § Revisorer och
+ansvarsfrihet      ansvarsfrihet
+De nyvalda         De nyvalda        Antalet revisorer föreslås
+
+förbundsfullmäktige väljer förbundsfullmäktige väljer minska från 9 revisorer till
+9 revisorer, en från 5 revisorer för granskning 5 revisorer. De fem
+respektive kommun, för av kommunalförbundets medlemskommuner som
+granskning av      verksamhet. De fem har störst andel i
+kommunalförbundets medlemskommuner som förbundet utser
+verksamhet. Revisorer har störst andel i förbundet förbundets revisorer. Det
+utses för en period om fyra utser förbundets revisorer. är kommunerna
+år räknat från och med den Revisorer utses för en Göteborg, Kungsbacka,
+1 januari året efter det då period om fyra år räknat Mölndal, Kungälv,
+
+val av kommunfullmäktige från och med den 1 januari Stenungsund
+har ägt rum i hela landet. året efter det då val av
+Det åligger revisorerna att kommunfullmäktige har
+före mars månads utgång ägt rum i hela landet.
+
 10 (13)
-
-[Tabell 361-1](handlingar.tabeller/361-1.csv)
-
-| Nu gällande<br>förbundsordning | Förslag till ny<br>förbundsordning | Kommentarer till<br>föreslagna ändringar |
-| --- | --- | --- |
-|  | Ale ska utse 1 ledamot och<br>1 ersättare. |  |
-| 6 § Förbundsstyrelse<br>I kommunalförbundet ska<br>det finnas en<br>förbundsstyrelse med 14<br>ledamöter och 11<br>ersättare. Av ledamöterna<br>och ersättarna ska 6<br>respektive 3 vara i<br>Göteborg folkbokförda<br>medlemmar av Göteborgs<br>Stad och återstående<br>ledamöter och ersättare<br>utom Göteborgs Stad men<br>inom kommunalförbundets<br>medlemskommuner<br>folkbokförda<br>kommunmedlemmar.<br>Varje övrig<br>medlemskommun<br>företräds av en ledamot<br>och en ersättare<br>folkbokförda i respektive<br>medlemskommun. | 6 § Förbundsstyrelse<br>I kommunalförbundet ska<br>det finnas en<br>förbundsstyrelse med 18<br>ledamöter. Av<br>ledamöterna ska 8 vara i<br>Göteborg folkbokförda<br>medlemmar av Göteborgs<br>kommun och återstående<br>ledamöter utom Göteborgs<br>kommun men inom<br>kommunalförbundets<br>medlemskommuner<br>folkbokförda<br>kommunmedlemmar.<br>Varje övrig<br>medlemskommun<br>företräds av 1 ledamot<br>folkbokförd i respektive<br>medlemskommun. | Förbundsstyrelsen<br>föreslås bestå av endast<br>ledamöter och inga<br>ersättare. Antalet<br>styrelseledamöter blir 18. |
-| 7 § Revisorer och<br>ansvarsfrihet<br>De nyvalda<br>förbundsfullmäktige väljer<br>9 revisorer, en från<br>respektive kommun, för<br>granskning av<br>kommunalförbundets<br>verksamhet. Revisorer<br>utses för en period om fyra<br>år räknat från och med den<br>1 januari året efter det då<br>val av kommunfullmäktige<br>har ägt rum i hela landet.<br>Det åligger revisorerna att<br>före mars månads utgång | 7 § Revisorer och<br>ansvarsfrihet<br>De nyvalda<br>förbundsfullmäktige väljer<br>5 revisorer för granskning<br>av kommunalförbundets<br>verksamhet. De fem<br>medlemskommuner som<br>har störst andel i förbundet<br>utser förbundets revisorer.<br>Revisorer utses för en<br>period om fyra år räknat<br>från och med den 1 januari<br>året efter det då val av<br>kommunfullmäktige har<br>ägt rum i hela landet. | Antalet revisorer föreslås<br>minska från 9 revisorer till<br>5 revisorer. De fem<br>medlemskommuner som<br>har störst andel i<br>förbundet utser<br>förbundets revisorer. Det<br>är kommunerna<br>Göteborg, Kungsbacka,<br>Mölndal, Kungälv,<br>Stenungsund |
 
 <!-- sida 362 -->
 
@@ -22348,7 +22324,7 @@ och service till vissa funktionshindrade, LSS, samt enligt 11 kap 1 § och rappo
 
 §§ socialtjänstlagen, SoL
 
-[Tabell 512-1](handlingar.tabeller/512-1.csv)
+[Tabell 512-515-1](handlingar.tabeller/512-515-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
@@ -22363,16 +22339,6 @@ och service till vissa funktionshindrade, LSS, samt enligt 11 kap 1 § och rappo
 | 2024-11-30 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. Tackat nej till erbjudande om<br>sommarläger, pga hälsotillstånd hos den enskilde.<br>Verkställighet inplanerad 2025-11. |
 | 2025-02-24 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, arbetsmiljöproblem relaterade<br>till den enskilde. Har blivit erbjuden anpassad<br>verkställighet som den enskilde tackat nej till.<br>Nytt erbjudande skickat 2025-10, väntar på<br>återkoppling. |
 | 2025-06-01 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, hälsoproblem hos den<br>enskilde. |
-
-<!-- sida 513 -->
-
-KUNGSBACKA  KOMMUN
-4 (9)
-
-[Tabell 513-1](handlingar.tabeller/513-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2025-06-01 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet. Den enskilde vill pausa<br>insatsen. Verksamheten har kontinuerlig kontakt. |
 | 2025-06-24 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, hälsoproblem hos den<br>enskilde. |
 | 2025-06-26 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet. Den enskilde vill pausa<br>insatsen. Planerad uppstart 2025-10. |
@@ -22387,16 +22353,6 @@ KUNGSBACKA  KOMMUN
 | 2025-03-14 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Tackat nej till erbjudande 2025-03-25. Ny planering<br>pågår. |
 | 2025-03-21 | 9 § 9 LSS, bostad för vuxna | Saknar plats, planering pågår. Tackat ja till erbjudande<br>om inflytt 2026-01. |
 | 2025-04-22 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Saknar plats. Fått erbjudande om inflytt på nybyggt<br>boende vid årsskiftet, inväntar svar. |
-
-<!-- sida 514 -->
-
-KUNGSBACKA  KOMMUN
-5 (9)
-
-[Tabell 514-1](handlingar.tabeller/514-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2022-02-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, har specifika önskemål om<br>verksamhet, tackat nej till erbjudanden.<br>Pågående ärende i förvaltningsrätten.<br>Fått erbjudande om verksamhet, inväntar svar om<br>introduktion. |
 | 2022-12-31 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. Insatsen är<br>pausad. Den enskilde har flyttat in på BmSS och vill<br>landa innan uppstart av daglig verksamhet. |
 | 2023-12-18 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. Verksamheten har kontinuerlig<br>kontakt. |
@@ -22408,6 +22364,22 @@ KUNGSBACKA  KOMMUN
 | 2025-02-20 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde valde att avsluta<br>sin sysselsättning pga mående och miljö. Återkommer<br>när den enskilde vill återuppta insatsen igen. |
 | 2025-03-07 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Samverkan pågår. Den<br>enskilde har andra önskemål om verkställighet. |
 | 2025-03-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. Tackar nej till att boka in möten. |
+| 2025-03-19 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet pga mående och förändringar i<br>verksamheten. Har deltagit vid ett tillfälle under<br>hösten, motiveringsarbete pågår. |
+| 2025-04-08 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till verkställighet. Vill<br>avvakta med uppstart pga hälsoskäl. |
+| 2025-04-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. Har haft flertalet möten och blivit<br>erbjuden plats. Den enskilde befinner sig nu utomlands. |
+| 2025-05-05 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. Den enskilde avbokar inplanerade<br>möten. Går inte att får kontakt. |
+| 2025-06-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Pga hälsoskäl. Verksamheten<br>har kontinuerlig kontakt. |
+| 2025-06-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde har valt att<br>avsluta sin praktik och pausa insatsen. Den enskilde<br>önskar ny kontakt 2025-11. |
+
+<!-- sida 513 -->
+
+KUNGSBACKA  KOMMUN
+4 (9)
+
+<!-- sida 514 -->
+
+KUNGSBACKA  KOMMUN
+5 (9)
 
 <!-- sida 515 -->
 
@@ -22416,33 +22388,12 @@ KUNGSBACKA  KOMMUN
 
 Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
 
-[Tabell 515-1](handlingar.tabeller/515-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
-| 2025-03-19 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet pga mående och förändringar i<br>verksamheten. Har deltagit vid ett tillfälle under<br>hösten, motiveringsarbete pågår. |
-| 2025-04-08 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till verkställighet. Vill<br>avvakta med uppstart pga hälsoskäl. |
-| 2025-04-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. Har haft flertalet möten och blivit<br>erbjuden plats. Den enskilde befinner sig nu utomlands. |
-| 2025-05-05 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. Den enskilde avbokar inplanerade<br>möten. Går inte att får kontakt. |
-| 2025-06-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Pga hälsoskäl. Verksamheten<br>har kontinuerlig kontakt. |
-| 2025-06-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde har valt att<br>avsluta sin praktik och pausa insatsen. Den enskilde<br>önskar ny kontakt 2025-11. |
-
-[Tabell 515-2](handlingar.tabeller/515-2.csv)
+[Tabell 515-518-1](handlingar.tabeller/515-518-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
 | 2025-04-08 | 11 kap 1 § SoL,<br>boendestöd | Den enskilde medverkar inte till<br>verkställighet. Den enskilde<br>avbokar ofta. | Avslutat 2025-09-10.<br>Den enskilde vill<br>avsluta insatsen. |
 | 2025-04-08 | 11 kap 1 § SoL,<br>boendestöd | Den enskilde medverkar inte till<br>verkställighet. 5 av 7 insatser är<br>verkställda. Den enskilde tackar<br>nej till erbjudande om sina<br>helginsatser. | Avslutat 2025-09-05.<br>Den enskilde vill<br>avsluta insatsen. |
-
-<!-- sida 516 -->
-
-KUNGSBACKA  KOMMUN
-7 (9)
-
-[Tabell 516-1](handlingar.tabeller/516-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2024-02-01 | 9 § 6 LSS, korttidsvistelse<br>i form av korttidshem | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet, har specifika<br>önskemål om utförandet.<br>Verksamheten pausar insatsen i<br>avvaktan på svar om start av<br>inskolning. Tackat ja till<br>uppstart efter sommaren. | Verkställt 2025-09-24 |
 | 2024-06-26 | 9 § 6 LSS, korttidsvistelse<br>i form av korttidshem | Den enskilde har tackat nej till<br>erbjudande 2024-08-13, har<br>specifika önskemål om upplägg,<br>enbart helger. Verksamheten har<br>gjort flera kontaktförsök,<br>inväntar återkoppling från<br>familjen. | Verkställt 2025-09-24 |
 | 2024-11-13 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Den enskilde medverkar inte till<br>verkställighet. Har beslut om<br>sommarläger, tackat nej till<br>erbjudande om läger i sommar. | Avslutat 2025-09-03.<br>Avslutat på den<br>enskildes begäran. |
@@ -22450,16 +22401,6 @@ KUNGSBACKA  KOMMUN
 | 2025-03-07 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Den enskilde medverkar inte till<br>verkställighet. Ingen<br>återkoppling om erbjudande om<br>uppstart.<br>Uppstart inplanerad i augusti. | Verkställt 2025-08-24. |
 | 2025-04-23 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Tackat nej till uppstart innan<br>sommaren, planerad uppstart till<br>hösten. | Verkställt 2025-09-06. |
 | 2025-04-28 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Avbrott i verkställighet. Den<br>enskilde medverkar inte till<br>verkställighet. | Avslutat 2025-08-01.<br>Avslutat på den<br>enskildes begäran. |
-
-<!-- sida 517 -->
-
-KUNGSBACKA  KOMMUN
-8 (9)
-
-[Tabell 517-1](handlingar.tabeller/517-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2025-05-12 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Tackat nej till uppstart innan<br>sommaren, planerad uppstart till<br>hösten. | Verkställt 2025-08-30. |
 | 2024-12-11 | 9 § 8 LSS, boende för<br>barn och ungdomar | Saknar plats, specifika<br>önskemål. | Avslutat 2025-10-03.<br>Avslutat på den<br>enskildes begäran. |
 | 2021-10-29 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. Svårt att få<br>kontakt med den enskilde. Blivit<br>erbjuden praktikplats, den<br>enskilde vill avvakta uppstart. | Verkställt 2025-10-13. |
@@ -22467,6 +22408,17 @@ KUNGSBACKA  KOMMUN
 | 2023-12-20 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. Inväntar<br>återkoppling från anhöriga om<br>de vill ha kvar insatsen.<br>Planerad uppstart efter<br>sommaren. | Verkställt 2025-08-25. |
 | 2024-06-24 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. Planeringen är att<br>återgå till DV under hösten. | Verkställt 2025-09-01. |
 | 2025-01-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde medverkar inte till<br>verkställighet. Är i behov av<br>annan verkställighet än tidigare.<br>Avbokar inbokade studiebesök | Avslutat 2025-08-25.<br>Avslutat på den<br>enskildes begäran. |
+| 2025-04-16 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till<br>verkställighet. Varit på<br>studiebesök och blivit erbjuden<br>plats. Den enskilde ska<br>återkomma efter semestern för<br>fortsatt planering. | Verkställt 2025-09-01. |
+
+<!-- sida 516 -->
+
+KUNGSBACKA  KOMMUN
+7 (9)
+
+<!-- sida 517 -->
+
+KUNGSBACKA  KOMMUN
+8 (9)
 
 <!-- sida 518 -->
 
@@ -22477,12 +22429,6 @@ Inom vuxenenheten och familjehemsenheten finns inga ej verkställda beslut under
 
 Märta Lycken                  Renate Rondolph
 Tf. förvaltningschef          Verksamhetschef
-
-[Tabell 518-1](handlingar.tabeller/518-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
-| 2025-04-16 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till<br>verkställighet. Varit på<br>studiebesök och blivit erbjuden<br>plats. Den enskilde ska<br>återkomma efter semestern för<br>fortsatt planering. | Verkställt 2025-09-01. |
 
 <!-- sida 519 -->
 
@@ -34684,16 +34630,6 @@ Bilaga 1
 Skydd "E6:an" nivå (RH2000)-volym (m3)
 Volym m3
 
-[Tabell 821-1](handlingar.tabeller/821-1.csv)
-
-|  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-
 <!-- sida 822 -->
 
 Bilaga 1
@@ -35436,16 +35372,6 @@ m
 Bilaga 2
 Skydd "Inlagsleden" nivå (RH2000)-volym (m3)
 Volym m3
-
-[Tabell 841-1](handlingar.tabeller/841-1.csv)
-
-|  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |
 
 <!-- sida 842 -->
 
@@ -36614,12 +36540,13 @@ n:\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 3 skydd
 
 Bilaga 4
 
-Alternativ Yttre skydd längs E6
+Alternativ Yttre skydd längs E6  TOTAL KALKYLSUMMA, påslag 50% 760 029 000
 
-Längd Vall [m]                1300
+TOTAL KALKYLSUMMA, påslag 25% 633 357 500
+Längd Vall [m]                1300 TOTAL KALKYLSUMMA, påslag 0% 506 686 000
 Flöden till pst          68 m3/s
 Skyddsnivå +4 (pga vågor)
-Kommentar
+Enhet      Kr/enhet     Totalt     Kommentar
 Miljö/Tillstånd                                               300 000
 Tillstånd - avgifter                       1        300 000   300 000
 
@@ -36673,24 +36600,17 @@ PÅSLAG- OSÄKERTHETSFAKTOR                                       1,25
 
 PÅSLAG- OSÄKERTHETSFAKTOR                                       1,00
 
-[Tabell 872-1](handlingar.tabeller/872-1.csv)
-
-| TOTAL KALKYLSUMMA, påslag 50% |  | 760 029 000 |
-| --- | --- | --- |
-| TOTAL KALKYLSUMMA, påslag 25% |  | 633 357 500 |
-| TOTAL KALKYLSUMMA, påslag 0% |  | 506 686 000 |
-| Enhet | Kr/enhet | Totalt |
-
 <!-- sida 873 -->
 
 Bilaga 4
 
-Alternativ Yttre skydd längs Inlagsleden
+Alternativ Yttre skydd längs Inlagsleden TOTAL KALKYLSUMMA, påslag 50% 759 729 000
 
-Längd Vall [m]               900
+TOTAL KALKYLSUMMA, påslag 25% 633 107 500
+Längd Vall [m]               900 TOTAL KALKYLSUMMA, påslag 0% 506 486 000
 Flöden till pst          68 m3/s
 Skyddsnivå +3,5 (inga vågor)
-Kommentar
+Enhet     Kr/enhet      Totalt     Kommentar
 Miljö/Tillstånd                                               300 000
 Tillstånd - avgifter                     1         300 000    300 000
 
@@ -36748,14 +36668,6 @@ Ej utbyggnad av Kolla översvämningsskydd                   -41 000 000
 PÅSLAG- OSÄKERTHETSFAKTOR                                       1,50
 PÅSLAG- OSÄKERTHETSFAKTOR                                       1,25
 PÅSLAG- OSÄKERTHETSFAKTOR                                       1,00
-
-[Tabell 873-1](handlingar.tabeller/873-1.csv)
-
-| TOTAL KALKYLSUMMA, påslag 50% |  | 759 729 000 |
-| --- | --- | --- |
-| TOTAL KALKYLSUMMA, påslag 25% |  | 633 107 500 |
-| TOTAL KALKYLSUMMA, påslag 0% |  | 506 486 000 |
-| Enhet | Kr/enhet | Totalt |
 
 <!-- sida 874 -->
 
@@ -37079,7 +36991,7 @@ Yttre översvämningsskydd mot höga havsnivåer | Förstudie avseende lokaliser
 
 Bilaga 5 Valda och bortvalda alternativ.docx         2020-12-04 | 7(38)
 
-[Tabell 883-1](handlingar.tabeller/883-1.csv)
+[Tabell 883-884-1](handlingar.tabeller/883-884-1.csv)
 
 | Nr | Tema/rubrik | Kategori/antagande/för-<br>utsättning | Kommentarer och input |
 | --- | --- | --- | --- |
@@ -37118,20 +37030,7 @@ Bilaga 5 Valda och bortvalda alternativ.docx         2020-12-04 | 7(38)
 | 20A | Kostnader | Extremt dyrt/svårt med drift |  |
 | 21A | Kostnader | Dyrt/lättare med drift |  |
 | - | Kostnader | - | Mer eller mindre svåra byggförhållanden<br>/ läge och längd på skydd |
-
-<!-- sida 884 -->
-
-Bilaga 5
-Uppdragsnr:106 22 65
-
-Yttre översvämningsskydd mot höga havsnivåer | Förstudie avseende lokalisering, genomförbarhet och kostnadsbedömning
-
-Bilaga 5 Valda och bortvalda alternativ.docx         2020-12-04 | 8(38)
-
-[Tabell 884-1](handlingar.tabeller/884-1.csv)
-
 | - | Kostnader | - | Organisation kring anläggning / Under-<br>håll |
-| --- | --- | --- | --- |
 | - | Kostnader | - | Livslängd, Livscykelanalys |
 | 22A | Hydraulik och vat-<br>tenhantering | Tillgång till magasinsvoly-<br>mer, buffert | Tillgängliga ytor |
 | 23A | Hydraulik och vat-<br>tenhantering | Omledning av tillkom-<br>mande vatten | Avledning av tillkommandevattenflöden |
@@ -37155,6 +37054,15 @@ Bilaga 5 Valda och bortvalda alternativ.docx         2020-12-04 | 8(38)
 |  |  |  | Skydd ger förutsättning för exploatering<br>långt nedströms -> Mer sårbar |
 | - | Risk och sårbarhet | Val av skyddsobjekt | Vad kan vi offra/vad är viktigt att<br>skydda/ekonomi |
 | 40A | Geoteknik | Bra förhållanden | Bra nivåer, bra undergrund |
+
+<!-- sida 884 -->
+
+Bilaga 5
+Uppdragsnr:106 22 65
+
+Yttre översvämningsskydd mot höga havsnivåer | Förstudie avseende lokalisering, genomförbarhet och kostnadsbedömning
+
+Bilaga 5 Valda och bortvalda alternativ.docx         2020-12-04 | 8(38)
 
 <!-- sida 885 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.28437bed1a0422e77ad1d114/1787904840
 sha256: 1eb9a902e7af1a843fa62ae1bd5ca429f73d6e7c18e475e61f16279388a913cc
 bytes: 401101
 sidor: 29
-hamtad: 2026-10-08T09:12:03+00:00
-konverterad: 2026-10-08T09:12:07+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:04:15+00:00
+konverterad: 2026-10-15T07:04:19+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -690,7 +690,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 997CC825A1E867CA342F927F1AADF61F77FF6A7444
 Transaktionsidentitet: C3A9AB8EF6E4B4F98CE29A387BA23ACDFDF01BE48D
 
-[Tabell 17-1](protokoll.tabeller/17-1.csv)
+[Tabell 17-18-1](protokoll.tabeller/17-18-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -707,6 +707,14 @@ Transaktionsidentitet: C3A9AB8EF6E4B4F98CE29A387BA23ACDFDF01BE48D
 | Exploateringshandläggare | Servitutsavtal Givared 1:27 - Optoledningar |
 | Exploateringshandläggare | Servitutsavtal Litserhult 1:9 - Teleledningar |
 | Exploateringshandläggare | Servitutsavtal Litserhult 1:19 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Litserhult 1:24 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Litserhult 1:38 - Optoledningar |
+| Samhällsbyggnadschef | Underavtal om juridiska tjänster -<br>Delområdeavtalsområde Fastighetsrätt |
+| Markingenjör | Markupplåtelseavtal Alslöv 10:1 |
+| Markingenjör | Nyttjanderättsavtal Nedre Ögärdet 2:13 |
+| Kommunsekreterare | Kommunen avstår att yttra sig över Universitets-<br>och högskolerådets hemställan om<br>registerförfattning för den nationella<br>betygsdatabasen |
+| Enhetschef | Anställande av samhällsplanerare |
+| Samhällsbyggnadschef | Anställande av utvecklingsledare |
 
 <!-- sida 18 -->
 
@@ -724,18 +732,6 @@ redovisningen av delegeringsbeslut fattade under perioden 2026-06-04 till
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 997CC825A1E867CA342F927F1AADF61F77FF6A7444
 Transaktionsidentitet: C3A9AB8EF6E4B4F98CE29A387BA23ACDFDF01BE48D
-
-[Tabell 18-1](protokoll.tabeller/18-1.csv)
-
-| Exploateringshandläggare | Servitutsavtal Litserhult 1:24 - Teleledningar |
-| --- | --- |
-| Exploateringshandläggare | Servitutsavtal Litserhult 1:38 - Optoledningar |
-| Samhällsbyggnadschef | Underavtal om juridiska tjänster -<br>Delområdeavtalsområde Fastighetsrätt |
-| Markingenjör | Markupplåtelseavtal Alslöv 10:1 |
-| Markingenjör | Nyttjanderättsavtal Nedre Ögärdet 2:13 |
-| Kommunsekreterare | Kommunen avstår att yttra sig över Universitets-<br>och högskolerådets hemställan om<br>registerförfattning för den nationella<br>betygsdatabasen |
-| Enhetschef | Anställande av samhällsplanerare |
-| Samhällsbyggnadschef | Anställande av utvecklingsledare |
 
 <!-- sida 19 -->
 
@@ -1098,7 +1094,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 997CC825A1E867CA342F927F1AADF61F77FF6A7444
 Transaktionsidentitet: C3A9AB8EF6E4B4F98CE29A387BA23ACDFDF01BE48D
 
-[Tabell 26-1](protokoll.tabeller/26-1.csv)
+[Tabell 26-27-1](protokoll.tabeller/26-27-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -1114,6 +1110,9 @@ Transaktionsidentitet: C3A9AB8EF6E4B4F98CE29A387BA23ACDFDF01BE48D
 | Fredrik Hansson (C) | X |  |  |
 | Monica Neptun (L) | X |  |  |
 | Fredrik Kollberg (KD) | X |  |  |
+| Patrik Jervne Henestam (V) |  | X |  |
+| Maria Losman (MP) |  |  | X |
+| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 27 -->
 
@@ -1125,13 +1124,6 @@ Datum
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 997CC825A1E867CA342F927F1AADF61F77FF6A7444
 Transaktionsidentitet: C3A9AB8EF6E4B4F98CE29A387BA23ACDFDF01BE48D
-
-[Tabell 27-1](protokoll.tabeller/27-1.csv)
-
-| Patrik Jervne Henestam (V) |  | X |  |
-| --- | --- | --- | --- |
-| Maria Losman (MP) |  |  | X |
-| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 28 -->
 

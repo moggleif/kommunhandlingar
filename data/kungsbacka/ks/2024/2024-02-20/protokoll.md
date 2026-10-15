@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.8bcd94c18d8729c25b2e983/17086710625
 sha256: 588e591e4bcc7b0e32f59d0a9c7d63f52bb53a321d8269c29d095cedcaf6c8c4
 bytes: 736815
 sidor: 47
-hamtad: 2026-10-08T09:07:28+00:00
-konverterad: 2026-10-08T09:07:34+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:00:30+00:00
+konverterad: 2026-10-15T07:00:37+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1052,7 +1052,7 @@ beslutanderätten genom att själv ta över ärendet och fatta beslut.
 
 Expedierat/bestyrkt
 
-[Tabell 24-1](protokoll.tabeller/24-1.csv)
+[Tabell 24-26-1](protokoll.tabeller/24-26-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -1065,20 +1065,7 @@ Expedierat/bestyrkt
 | Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>Halmstad kommuns samråd av renhållningsordning |
 | Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>Laholms kommuns remiss om reviderad avfallsplan<br>och tillhörande avfallsföreskrifter |
 | Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>Havs- och vattenmyndighetens samråd om |
-
-<!-- sida 25 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          25 (45)
-Kommunstyrelsen
-Datum
-2024-02-20
-
-Expedierat/bestyrkt
-
-[Tabell 25-1](protokoll.tabeller/25-1.csv)
-
 |  | bedömning av miljötillstånd och socioekonomisk<br>analys |
-| --- | --- |
 | Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>Havs- och vattenmyndighetens remiss om ändring i<br>föreskrifterna HVMFS 2012:18 om vad som<br>kännetecknar god miljöstatus samt<br>miljökvalitetsnormer med indikatorer för Nordsjön<br>och Östersjön |
 | Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>remiss av Effektiv och behovsbaserad digital vård |
 | Exploateringshandläggare | Servitutsavtal Varla 6:22 - Teleledningar |
@@ -1097,6 +1084,18 @@ Expedierat/bestyrkt
 | Exploateringshandläggare | Servitutsavtal Gressela 4:2 - Teleledningar |
 | Exploateringshandläggare | Servitutsavtal Gressela 4:10 - Teleledningar |
 | Exploateringshandläggare | Servitutsavtal Höglanda 4:2 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Höglanda 4:10 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Höglanda 4:12 - Teleledningar |
+| Mark- och exploateringschef | Överlåtelse av avtal om jordbruksarrende - Alslöv<br>9:10 |
+
+<!-- sida 25 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          25 (45)
+Kommunstyrelsen
+Datum
+2024-02-20
+
+Expedierat/bestyrkt
 
 <!-- sida 26 -->
 
@@ -1112,13 +1111,6 @@ redovisningen av delegeringsbeslut fattade under perioden 2023-10-18 till
 2024-02-06, och finner att kommunstyrelsen bifaller det.
 
 Expedierat/bestyrkt
-
-[Tabell 26-1](protokoll.tabeller/26-1.csv)
-
-| Exploateringshandläggare | Servitutsavtal Höglanda 4:10 - Teleledningar |
-| --- | --- |
-| Exploateringshandläggare | Servitutsavtal Höglanda 4:12 - Teleledningar |
-| Mark- och exploateringschef | Överlåtelse av avtal om jordbruksarrende - Alslöv<br>9:10 |
 
 <!-- sida 27 -->
 

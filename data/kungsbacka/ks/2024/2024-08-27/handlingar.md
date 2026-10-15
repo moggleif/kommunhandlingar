@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6c78981e191785767f26ec9/17247399721
 sha256: 8c4e59ddadf0fff7950c74fc51617e7220045b0d6a0278959aabb7fc197ea21e
 bytes: 79980515
 sidor: 237
-hamtad: 2026-10-08T09:56:22+00:00
-konverterad: 2026-10-08T09:58:53+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T07:46:55+00:00
+konverterad: 2026-10-15T07:49:55+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224]
-figurer: null
-tolkade: null
+figurer: [15, 207, 215, 217, 223]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -75,30 +75,25 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
+[Tabell 3-4-1](handlingar.tabeller/3-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 8. | Svar på Finansdepartementets<br>remiss av promemorian Stärkt<br>skydd för vissa förtroendevalda<br>och en tydligare intern kontroll<br>i kommuner och regioner<br>(Ds 2024:10) | 2024-00403 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-06-05,<br>och översänder det som sitt svar till<br>Finansdepartementet, med följande ändringar i<br>Sammanfattande inställning:<br>− Sammanfattningsvis anser Kungsbacka<br>kommun att de föreslagna förändringarna i<br>kommunallagen avseende intern kontroll är bra<br>och relevanta medan de föreslagna ändringarna<br>avseende stärkt skydd för vissa förtroendevalda<br>inte bör införas i kommunallagen. Ansvaret för<br>förtroendevaldas trygghet bör dock inte ligga på<br>kommunerna på samma sätt som för anställda,<br>men det behövs tas fram rutiner och riktlinjer<br>för hur arbetet med stärkt skydd för<br>förtroendevalda ska hanteras. Stärkt skydd kan<br>även behövas för fler förtroendevalda än de som<br>nämns i underlaget. I flertalet av<br>kommunerna/regionerna kommer sannolikt inte<br>alla nämndsordföranden att omfattas vilket de<br>borde. De kostnadsberäkningar som presenterats<br>anser Kungsbacka kommun sannolikt är grovt<br>underskattade.<br>Kungsbacka kommun ser fram emot vidare<br>dialog kring denna fråga och är redo att bidra<br>med ytterligare underlag och synpunkter. |
 | 9. | Svar på Havs- och<br>vattenmyndighetens remiss av<br>förslag till ändrade havsplaner<br>för Bottniska viken, Östersjön<br>och Västerhavet | 2024-00400 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-06-04,<br>och översänder det som sitt svar till Havs- och<br>vattenmyndigheten. |
 | 10. | Svar på Klimat- och<br>näringslivsdepartementets<br>remiss av förslag till nationell<br>förteckning över vattenlevande<br>invasiva främmande arter<br>(KN2023/03476) | 2024-00399 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-06-11,<br>och översänder det som sitt svar till Havs- och<br>vattenmyndigheten samt Naturvårdsverket. |
-
-<!-- sida 4 -->
-
-KUNGSBACKA  KOMMUN
-
-4(5)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 11. | Svar på Socialdepartementets<br>remiss av betänkandet En trygg<br>uppväxt utan nikotin, alkohol<br>och lustgas (SOU 2024:23) | 2024-00384 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-07-08,<br>med ändringen att de tre första meningarna under<br>Kommunens inställning i detalj stryks.<br>Kommunstyrelsen översänder yttrandet som sitt svar<br>till Socialdepartementet. |
 | 12. | Anmälan av delegeringsbeslut | 2024-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
 | 13. | Anmälan av ordförandebeslut | 2024-00007 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
 | 14. | Redovisning av inkomna<br>skrivelser | 2024-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
 | 15. | Rapport från nämnden för<br>Individ & Familjeomsorg av ej<br>verkställda beslut enligt<br>socialtjänstlagen, SoL, och<br>lagen om stöd och service till<br>vissa funktionshindrade, LSS,<br>första kvartalet 2024 | 2024-00408 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Individ & Familjeomsorg enligt 16 kap 6 f §<br>socialtjänstlagen och 28 f § lagen om stöd och service<br>till vissa funktionshindrade till protokollet. |
 | 16. | Rapport från nämnden för Vård<br>& Omsorg av ej verkställda<br>beslut enligt socialtjänstlagen,<br>SoL, första kvartalet 2024 | 2024-00401 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Vård & Omsorg, enligt 16 kap 6 f §<br>socialtjänstlagen, till protokollet. |
+
+<!-- sida 4 -->
+
+KUNGSBACKA  KOMMUN
+
+4(5)
 
 <!-- sida 5 -->
 
@@ -1787,7 +1782,7 @@ Kommerskollegium.
 
 5
 
-[Tabell 47-1](handlingar.tabeller/47-1.csv)
+[Tabell 47-48-1](handlingar.tabeller/47-48-1.csv)
 
 | Art | Undantag från<br>förbuden | Geografisk<br>omfattning<br>av<br>regleringen | Hanteringsåtgärder/<br>utrotningsåtgärder |
 | --- | --- | --- | --- |
@@ -1796,20 +1791,16 @@ Kommerskollegium.
 | Jättesliden<br>(parkslide,<br>jätteslide och<br>hybridslide) | Ägare eller<br>innehavare av<br>särskild rätt till<br>fastighet<br>undantas från<br>skyldigheten att<br>utrota befintliga<br>bestånd.<br>Åtgärder för<br>utrotning eller<br>spridningsbegrä<br>nsning ska dock<br>vidtas avseende<br>bestånd som<br>visar tecken på<br>eller riskerar att<br>sprida sig. | Hela landet | Hanteringsåtgärder |
 | Vresros | - | Hela landet | Hanteringsåtgärder |
 | Kaukasiskt<br>fetblad | Växter som<br>används eller<br>ska användas på<br>sedum- eller<br>vegetationstak<br>som har<br>uppförts innan<br>eller högst tre år<br>efter arten togs<br>upp på den | Hela landet | Utrotningsåtgärder |
-
-<!-- sida 48 -->
-
-6
-
-[Tabell 48-1](handlingar.tabeller/48-1.csv)
-
 |  | nationella<br>förteckningen<br>ska inte<br>omfattas av<br>förbuden. |  |  |
-| --- | --- | --- | --- |
 | Sibiriskt<br>fetblad | Växter som<br>används eller<br>ska användas på<br>sedum- eller<br>vegetationstak<br>som har<br>uppförts innan<br>eller högst tre år<br>efter arten togs<br>upp på den<br>nationella<br>förteckningen<br>ska inte<br>omfattas av<br>förbuden. | Hela landet | Utrotningsåtgärder |
 | Strandkotula | - | Hela landet | Utrotningsåtgärder |
 | Spärroxbär | Undantag från<br>förbudet mot<br>införsel i landet. | Gotlands och<br>Kalmar län | Hanteringsåtgärder |
 | Kanadensiskt<br>gullris<br>Höstgullris | - | Hela landet | Hanteringsåtgärder |
 | Mink | Djur som<br>används eller<br>ska användas<br>för<br>pälsdjursuppföd<br>ning omfattas<br>inte av<br>förbuden.<br>Djur som hålls i<br>djurparker<br>omfattas inte av<br>förbuden. | Hela landet | Utrotningsåtgärder |
+
+<!-- sida 48 -->
+
+6
 
 <!-- sida 49 -->
 
@@ -3993,7 +3984,7 @@ Tabell 10. Åtgärdskostnader för utrotning enligt EU-reglering
 
 48
 
-[Tabell 90-1](handlingar.tabeller/90-1.csv)
+[Tabell 90-91-1](handlingar.tabeller/90-91-1.csv)
 
 | Art | Omfattning av åtgärd | Åtgärdskostnad |
 | --- | --- | --- |
@@ -4008,6 +3999,10 @@ Tabell 10. Åtgärdskostnader för utrotning enligt EU-reglering
 | Spärroxbär | Upprepande åtgärder under<br>5årsperiod | 850 miljoner kr, nuvärde<br>(2020 års nivå) |
 | Kanadensiskt gullris:<br>infrastrukturmiljöer | Engångsåtgärd\* | 6,7–12,8 miljoner kr |
 | Kanadensiskt gullris: övriga<br>naturtyper | Engångsåtgärd\* | 4–10 miljoner kr |
+| Höstgullris | - | - |
+| Mink: hela landet | Engångsåtgärd\* | 0,2–1,6 miljarder kr |
+| Mink: alla öar i havsvatten | Engångsåtgärd\* | 23,2 miljoner kr |
+| Mink: alla öar i fågelskydd | Engångsåtgärd\* | 0,39 miljoner kr |
 
 <!-- sida 91 -->
 
@@ -4058,14 +4053,6 @@ således länsstyrelserna större rådighet i frågan, men den kommer samtidigt
 innebära ett utökat tillsynsansvar. För kommunerna som ansvarar för
 
 49
-
-[Tabell 91-1](handlingar.tabeller/91-1.csv)
-
-| Höstgullris | - | - |
-| --- | --- | --- |
-| Mink: hela landet | Engångsåtgärd\* | 0,2–1,6 miljarder kr |
-| Mink: alla öar i havsvatten | Engångsåtgärd\* | 23,2 miljoner kr |
-| Mink: alla öar i fågelskydd | Engångsåtgärd\* | 0,39 miljoner kr |
 
 <!-- sida 92 -->
 
@@ -4347,7 +4334,7 @@ förslagens förenlighet med SPS-avtalet.
 
 Översikt föreslagen reglering (tabell)
 
-[Tabell 100-1](handlingar.tabeller/100-1.csv)
+[Tabell 100-101-1](handlingar.tabeller/100-101-1.csv)
 
 | Art | Hur arten ska<br>hanteras | Undantag från förbuden i 7 a § |
 | --- | --- | --- |
@@ -4359,15 +4346,7 @@ förslagens förenlighet med SPS-avtalet.
 | vattenpest<br>(Elodea canadensis) | hanteringsåtgärder | Privata fastighetsägare med befintliga<br>bestånd i öppna vattensystem. |
 | amerikansk hummer<br>(Homarus americanus) | utrotningsåtgärder | Amerikansk hummer som importeras<br>eller förs in till landet av den som har<br>tillstånd av Havs- och vattenmyndigheten<br>omfattas inte av förbuden i 7a § punkt 1,<br>2 och 7. Detta gäller i första införselled. |
 | marmorkarp<br>(Hypophthalmichthys nobilis) | utrotningsåtgärder |  |
-
-<!-- sida 101 -->
-
-7/53
-
-[Tabell 101-1](handlingar.tabeller/101-1.csv)
-
 | prickig dvärgmal<br>(Ictalurus punctatus) | utrotningsåtgärder |  |
-| --- | --- | --- |
 | Väderfiskar, Misgurnus spp.<br>(Misgurnus amamianus)<br>(Misgurnus anguillicaudatus)<br>(Misgurnus bipartitus)<br>(Misgurnus buphoensis)<br>(Misgurnus chipisaniensis)<br>(Misgurnus fossilis)<br>(Misgurnus dabryanus)<br>(Misgurnus mohoity)<br>(Misgurnus multimaculatus)<br>(Misgurnus nahangensis)<br>(Misgurnus nikolskyi)<br>(Misgurnus tonkinensis) | utrotningsåtgärder |  |
 | svartmunnad smörbult<br>(Neogobius melanostomus) | hanteringsåtgärder |  |
 | sjögull<br>(Nymphoides peltata) | hanteringsåtgärder | Privata fastighetsägare med befintliga<br>bestånd i öppna vattensystem. |
@@ -4376,6 +4355,10 @@ förslagens förenlighet med SPS-avtalet.
 | bighead goby<br>(Ponticola kessleri) | utrotningsåtgärder |  |
 | apelsinläpp<br>(Rapana venosa) | utrotningsåtgärder |  |
 | kinesisk dammussla<br>(Sinanodonta woodiana) | utrotningsåtgärder |  |
+
+<!-- sida 101 -->
+
+7/53
 
 <!-- sida 102 -->
 
@@ -8858,7 +8841,7 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 
 §§ socialtjänstlagen, SoL
 
-[Tabell 192-1](handlingar.tabeller/192-1.csv)
+[Tabell 192-195-1](handlingar.tabeller/192-195-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
@@ -8873,16 +8856,6 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 | 2022-12-16 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, tackat nej till 4 erbjudanden,<br>2022-12-16, 2023-04-25, 2023-06-14, 2023-08-22.<br>Familjen vill komma med eget förslag på avlösare och<br>tar då kontakt med förvaltningen. |
 | 2023-06-12 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, den enskilde har tackat nej till<br>erbjudande 2023-11-30 och 2024-01-26. Den enskilde<br>har blivit beviljad annan insats, vill avsluta<br>ledsagarservice när en ny insats kommit igång. |
 | 2023-11-10 | 9 § 5 LSS, avlösarservice i<br>hemmet | Den enskilde har specifika önskemål, önskar<br>samrekrytering med lägerverksamhet. |
-
-<!-- sida 193 -->
-
-KUNGSBACKA  KOMMUN
-4 (7)
-
-[Tabell 193-1](handlingar.tabeller/193-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2023-11-14 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, d§en enskilde har specifika<br>önskemål, önskar en PAN-anställning. |
 | 2023-12-08 | 9 § 5 LSS, avlösarservice i<br>hemmet | Tackat nej till erbjudande 2024-01-18, den enskilde har<br>ansökt om ny insats. |
 | 2023-11-22 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Den enskilde är i behov av extern placering. |
@@ -8896,16 +8869,6 @@ KUNGSBACKA  KOMMUN
 | 2023-11-27 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Saknar plats. 2024-04-11 tackat ja till erbjudande med<br>inflyttning i augusti 2024. |
 | 2021-10-29 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2021-11-23 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, medverkar inte till<br>verkställighet. Den enskilde svarar inte på telefon eller<br>mail. |
-
-<!-- sida 194 -->
-
-KUNGSBACKA  KOMMUN
-5 (7)
-
-[Tabell 194-1](handlingar.tabeller/194-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2022-02-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, har specifika önskemål om<br>verksamhet, är i behov av lång planering, tackat nej till<br>befintlig verksamhet. Tackat nej till 2 erbjudanden<br>2023-02-14 och 2023-10-02. |
 | 2022-12-31 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2023-01-11 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet, blivit erbjuden 3 olika DV-grupper. |
@@ -8919,6 +8882,17 @@ KUNGSBACKA  KOMMUN
 | 2023-10-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, tackat nej till 4 erbjudanden<br>2023-12-11, 2024-02-21, 2024-03-12 och 2024-04-10.<br>Den enskilde vill avvakta då hen befinner sig på annan<br>ort. |
 | 2023-10-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2023-10-20 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
+| 2023-12-18 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
+
+<!-- sida 193 -->
+
+KUNGSBACKA  KOMMUN
+4 (7)
+
+<!-- sida 194 -->
+
+KUNGSBACKA  KOMMUN
+5 (7)
 
 <!-- sida 195 -->
 
@@ -8927,13 +8901,7 @@ KUNGSBACKA  KOMMUN
 
 Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
 
-[Tabell 195-1](handlingar.tabeller/195-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
-| 2023-12-18 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
-
-[Tabell 195-2](handlingar.tabeller/195-2.csv)
+[Tabell 195-196-1](handlingar.tabeller/195-196-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
@@ -8945,6 +8913,8 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2023-09-07 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknas plats. Den enskilde är<br>inlagd och samverkan pågår<br>mellan region och kommun. | Verkställt, 2024-04-02 |
 | 2023-04-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. Individen har<br>blivit erbjuden flera<br>uppstartsmöten men avbokat. | Verkställt, 2024-02-05 |
 | 2023-04-27 | 9 § 10 LSS, daglig<br>verksamhet | Tackat nej till 5 erbjudanden om<br>uppstart, önskar avvakta pga<br>rädsla för smittspridning. | Verkställt, 2024-02-06 |
+| 2023-09-18 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde har flyttat till annan<br>kommun, vill pröva daglig<br>verksamhet på den nya orten<br>innan hen beslutar om återflytt<br>eller inte. | Avslutat, 2024-01-12 |
+| 2023-09-20 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde har tackat nej till<br>uppstart, missnöjd med<br>insatsens utformning. | Avslutat, 2023-11-20 |
 
 <!-- sida 196 -->
 
@@ -8956,13 +8926,6 @@ Inom vuxenenheten och familjehemsenheten finns inga ej verkställda beslut under
 Ivan Stipić                   Renate Rondolph
 
 Förvaltningschef              Verksamhetschef
-
-[Tabell 196-1](handlingar.tabeller/196-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
-| 2023-09-18 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde har flyttat till annan<br>kommun, vill pröva daglig<br>verksamhet på den nya orten<br>innan hen beslutar om återflytt<br>eller inte. | Avslutat, 2024-01-12 |
-| 2023-09-20 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde har tackat nej till<br>uppstart, missnöjd med<br>insatsens utformning. | Avslutat, 2023-11-20 |
 
 <!-- sida 197 -->
 
@@ -9121,7 +9084,7 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 |  |  |  |
 |  |  |  |
 
-[Tabell 200-3](handlingar.tabeller/200-3.csv)
+[Tabell 200-201-3](handlingar.tabeller/200-201-3.csv)
 
 | Beslutsdatum | Insats | Datum för verkställighet, avslut |
 | --- | --- | --- |
@@ -9139,19 +9102,7 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 2023-10-02 | Särskilt boende | Verkställd 2024-03-11 |
 | 2023-10-04 | Särskilt boende | Verkställd 2024-02-05 |
 | 2023-10-05 | Särskilt boende | Återtag 2024-01-23 (Tackat nej till<br>erbjudande). |
-
-<!-- sida 201 -->
-
-KUNGSBACKA  KOMMUN
-3 (3)
-
-Arian Faily                   Pia Berglund
-Förvaltningschef              Verksamhetschef Myndighet & Förebyggande
-
-[Tabell 201-1](handlingar.tabeller/201-1.csv)
-
 | 2023-10-12 | Särskilt boende | Återtag 2024-03-11 (tackat nej till ett<br>erbjudande) |
-| --- | --- | --- |
 | 2023-10-12 | Särskilt boende | Återtag 2024-03-01 (tackat nej till ett<br>erbjudande) |
 | 2023-10-17 | Särskilt boende | Verkställd 2024-01-25 |
 | 2023-10-20 | Särskilt boende | Verkställd 2024-02-14 |
@@ -9168,6 +9119,14 @@ Förvaltningschef              Verksamhetschef Myndighet & Förebyggande
 | 2023-10-26 | Växelvård | Verkställd 2024-03-05 |
 | 2023-11-28 | Växelvård | Verkställd 2024-03-12 |
 | 2023-11-28 | Växelvård | Verkställd 2024-03-25 |
+
+<!-- sida 201 -->
+
+KUNGSBACKA  KOMMUN
+3 (3)
+
+Arian Faily                   Pia Berglund
+Förvaltningschef              Verksamhetschef Myndighet & Förebyggande
 
 <!-- sida 202 -->
 

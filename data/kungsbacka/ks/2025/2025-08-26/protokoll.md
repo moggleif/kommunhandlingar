@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.3ce039ba198e605d2813b882/1756368503
 sha256: a6db0056b1cbf0c4d3bbb1fe18ce095beb529c58aa6edf0ca81092bc0adeeb54
 bytes: 592760
 sidor: 36
-hamtad: 2026-10-08T09:10:33+00:00
-konverterad: 2026-10-08T09:10:40+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:02:45+00:00
+konverterad: 2026-10-15T07:02:51+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1027,7 +1027,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 25A6D447A5CF1B0E373AE5785EB745D57FF0897E2D
 Transaktionsidentitet: 42A8DDD4C813431D2CC372CD06EFFEEF2AFBA3455D
 
-[Tabell 24-1](protokoll.tabeller/24-1.csv)
+[Tabell 24-25-1](protokoll.tabeller/24-25-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -1040,6 +1040,13 @@ Transaktionsidentitet: 42A8DDD4C813431D2CC372CD06EFFEEF2AFBA3455D
 | Samhällsplanerare | Servitutsavtal Kungsbacka 3:1 till förmån för<br>Linden 14 - fyra utkragande balkonger |
 | Mark- och exploateringschef | Övertagande av upplåtelser av jakträtt - Guntofta 3:8<br>och Släps-Stocken 1:4 |
 | Exploateringshandläggare | Servitutsavtal Lerberg 5:49 - Optoledningar |
+| Mark- och exploateringschef | Avtal om jakträtt - Skårby 12:1 |
+| Samhällsbyggnadschef | Samarbetsavtal om fördjupad utredning av delad<br>mikromobilitet |
+| Markingenjör | Servitutsavtal Va-ledningar Varla s:24 |
+| Enhetschef | Svar på Länsstyrelsen i Hallands län remiss<br>avseende anmälan om vattenverksamhet för byte av<br>sjökabel till Nidingen inklusive tillhörande<br>utrustning |
+| Kommunekolog | Yttrande till Skogsstyrelsens avseende samråd om<br>planerad naturvårdande skötsel i skogliga<br>biotopskyddsområdet beläget inom fastigheter<br>Dagsnäs 1:2 och Älenäs 1:12 |
+| Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>Halmstads kommuns remiss om samråd av<br>reviderad riktlinje för avfallshantering,<br>avfallsföreskrifter |
+| Kommunekolog | Yttrande till Länsstyrelsen Hallands län avseende<br>anmälan om vattenverksamhet enligt 11 kap.<br>miljöbalken: Väg 940 Rösan–Forsbäck<br>(535-1253-2025), (535-1260-2025), (535-1262-<br>2025),<br>(535-1265-2025), (535-1274-2025), (535-1294-<br>2025)<br>(535-1308-2025), (535-1310-2025) |
 
 <!-- sida 25 -->
 
@@ -1056,17 +1063,6 @@ redovisningen av delegeringsbeslut fattade under perioden 2025-04-14 till
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 25A6D447A5CF1B0E373AE5785EB745D57FF0897E2D
 Transaktionsidentitet: 42A8DDD4C813431D2CC372CD06EFFEEF2AFBA3455D
-
-[Tabell 25-1](protokoll.tabeller/25-1.csv)
-
-| Mark- och exploateringschef | Avtal om jakträtt - Skårby 12:1 |
-| --- | --- |
-| Samhällsbyggnadschef | Samarbetsavtal om fördjupad utredning av delad<br>mikromobilitet |
-| Markingenjör | Servitutsavtal Va-ledningar Varla s:24 |
-| Enhetschef | Svar på Länsstyrelsen i Hallands län remiss<br>avseende anmälan om vattenverksamhet för byte av<br>sjökabel till Nidingen inklusive tillhörande<br>utrustning |
-| Kommunekolog | Yttrande till Skogsstyrelsens avseende samråd om<br>planerad naturvårdande skötsel i skogliga<br>biotopskyddsområdet beläget inom fastigheter<br>Dagsnäs 1:2 och Älenäs 1:12 |
-| Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>Halmstads kommuns remiss om samråd av<br>reviderad riktlinje för avfallshantering,<br>avfallsföreskrifter |
-| Kommunekolog | Yttrande till Länsstyrelsen Hallands län avseende<br>anmälan om vattenverksamhet enligt 11 kap.<br>miljöbalken: Väg 940 Rösan–Forsbäck<br>(535-1253-2025), (535-1260-2025), (535-1262-<br>2025),<br>(535-1265-2025), (535-1274-2025), (535-1294-<br>2025)<br>(535-1308-2025), (535-1310-2025) |
 
 <!-- sida 26 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.26b3aae2194a007ae025178b/1738075496
 sha256: 079dfe6d6ef1d574d685d5bba72a7930a95042403b22b29d34c3101a0e7a9af5
 bytes: 1612865
 sidor: 33
-hamtad: 2026-10-08T08:55:01+00:00
-konverterad: 2026-10-08T08:55:06+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-15T06:50:57+00:00
+konverterad: 2026-10-15T06:51:04+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [25, 30]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -294,32 +294,24 @@ ETT MEDSKAPANDE SAMHÄLLE OCH EN ÖPPEN ATTITYD - INDIKATORER
 
 [Tabell 9-1](handlingar.tabeller/9-1.csv)
 
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
+| Förslag Indikator | 2022 | 2023 | 2024 | Målsättning<br>2026 | Trend |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 [Tabell 9-2](handlingar.tabeller/9-2.csv)
 
-| Förslag Indikator | 2022 | 2023 | 2024 | Målsättning<br>2026 | Trend |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+| Förslag till nya fokusområden | Förslag till förändrade fokusområden |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 [Tabell 9-3](handlingar.tabeller/9-3.csv)
 
-| Förslag till nya fokusområden | Förslag till förändrade fokusområden |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
-[Tabell 9-4](handlingar.tabeller/9-4.csv)
-
 | Förslag Indikator | 2022 | 2023 | 2024 | Målsättning<br>2026 | Trend |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
@@ -327,7 +319,7 @@ ETT MEDSKAPANDE SAMHÄLLE OCH EN ÖPPEN ATTITYD - INDIKATORER
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 
-[Tabell 9-5](handlingar.tabeller/9-5.csv)
+[Tabell 9-4](handlingar.tabeller/9-4.csv)
 
 | Förslag till nya fokusområden | Förslag till förändrade fokusområden |
 | --- | --- |
@@ -336,7 +328,7 @@ ETT MEDSKAPANDE SAMHÄLLE OCH EN ÖPPEN ATTITYD - INDIKATORER
 |  |  |
 |  |  |
 
-[Tabell 9-6](handlingar.tabeller/9-6.csv)
+[Tabell 9-5](handlingar.tabeller/9-5.csv)
 
 | Förslag Indikator | 2022 | 2023 | 2024 | Målsättning<br>2026 | Trend |
 | --- | --- | --- | --- | --- | --- |
@@ -348,13 +340,6 @@ Valnämnd                                         Kungsbacka kommun
 Underlag till Kommunbudget 2026
 
 6
-
-[Tabell 10-1](handlingar.tabeller/10-1.csv)
-
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
 
 <!-- sida 11 -->
 
@@ -468,8 +453,9 @@ valdagen men efter en central överenskommelse i februari blev det ett undantag 
 
 [Tabell 14-1](handlingar.tabeller/14-1.csv)
 
-| Utfall (miljoner kronor)<br>Intäkter | Utfall 2022<br>2,3 | Utfall 2023<br>0,0 | Utfall 2024<br>2,5 |
+| Utfall (miljoner kronor) | Utfall 2022 | Utfall 2023 | Utfall 2024 |
 | --- | --- | --- | --- |
+| Intäkter | 2,3 | 0,0 | 2,5 |
 | Kostnader | -3,7 | -0,3 | -4,1 |
 | Netto | -1,4 | -0,3 | -1,6 |
 | Budget, netto | -2,3 | -1,1 | -1,9 |
@@ -525,6 +511,12 @@ Nämndens årsredovisning 2024
 
 Drift (belopp mkr)
 
+Uppföljningsnivå (belopp i                                Budgetavvik
+Bokslut 2023 Budget 2024 Bokslut 2024
+mkr)                                                       else 2024
+Valnämnden                        -0,3      -1,9      -1,6       0,3
+Summa                             -0,3      -1,9      -1,6       0,3
+
 Kommentarer
 Valnämnden har planerat och genomfört val till Europaparlamentet. Valnämnden har en positiv budgetavvikelse
 på 0,3 miljoner kronor, vilket till stor del beror på ett högre statsbidrag än väntat.
@@ -540,12 +532,6 @@ Ej aktuellt då underskott ej föreligger.
 6
 
 [Tabell 18-1](handlingar.tabeller/18-1.csv)
-
-| Uppföljningsnivå (belopp i<br>mkr)<br>Valnämnden |  | Bokslut 2023<br>-0,3 | Budget 2024<br>-1,9 | Bokslut 2024<br>-1,6 | Budgetavvik<br>else 2024<br>0,3 |
-| --- | --- | --- | --- | --- | --- |
-| Summa |  | -0,3 | -1,9 | -1,6 | 0,3 |
-
-[Tabell 18-2](handlingar.tabeller/18-2.csv)
 
 | Nämnd (belopp i mkr) | Prognos delår april | Prognos delår augusti | Bokslut 2024 |
 | --- | --- | --- | --- |

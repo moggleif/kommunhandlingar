@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7c5dac1f1a01f73e04a5cdd5/1787568897
 sha256: 55ef8af763489308e499cb5ece449b2f90d2f65274e0e4cee496f8cece3f4474
 bytes: 4609077
 sidor: 99
-hamtad: 2026-10-08T08:44:39+00:00
-konverterad: 2026-10-08T08:45:05+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T06:36:19+00:00
+konverterad: 2026-10-15T06:36:46+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [70, 71, 72, 76, 81]
-figurer: null
-tolkade: null
+figurer: [5, 48, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -187,7 +187,7 @@ Informationssäkerhet- & data skydd delårsberättelse 2026 Sida 4 av 6
 
 [Tabell 5-1](handlingar.tabeller/5-1.csv)
 
-| Beskrivning Antal Antal Antal<br>2026 2025 2024 |  |  |  |
+| Beskrivning | Antal<br>2026 | Antal<br>2025 | Antal<br>2024 |
 | --- | --- | --- | --- |
 | Begäran om registerutdrag | 3 | 9 | 3 |
 | Förfrågningar om förvaltningen behandlar personuppgifter | 0 | 0 | 0 |
@@ -1964,7 +1964,7 @@ avlösarservice samt social samvaro.
 Vilka insatser utföraren får utföra beror på om utföraren är godkänd för serviceinsatser eller för service- och
 omsorgsinsatser.
 
-[Tabell 42-1](handlingar.tabeller/42-1.csv)
+[Tabell 42-43-1](handlingar.tabeller/42-43-1.csv)
 
 | Insats | Certifiering för | Ersättning |
 | --- | --- | --- |
@@ -1974,6 +1974,12 @@ omsorgsinsatser.
 | Post-, bank- och apoteksärenden | Service | Ersätts med beviljad och utförd tjänst |
 | Egenvård | Omsorg | Ersätts med beviljad och utförd tjänst |
 | Tillredning, uppackning och delning av<br>mat | Omsorg | Ersätts med beviljad och utförd tjänst |
+| Samtliga tjänster för personlig<br>omvårdnad | Omsorg | Ersätts med beviljad och utförd tjänst |
+| Delegerade och instruerade hälso- och<br>sjukvårdsuppgifter | Omsorg | Se avsnitt 2 |
+| Trygghetslarm | Omsorg | Ersätts med 15 minuter för utförd tjänst, särskild<br>ersättning kan utgå vid längre larmåtgärder, till<br>exempel invänta ambulans |
+| Ledsagning | Omsorg | Ersätts med samma timersättningsbelopp som övriga<br>omsorgsinsatser dock utgår endast ersättningen för<br>utförd tid |
+| Avlösning | Omsorg | Ersätts med samma timersättningsbelopp som övriga<br>omsorgsinsatser dock utgår endast ersättningen för<br>utförd tid |
+| Aktiveringstid, social samvaro | Omsorg | Ersätts med samma timersättningsbelopp som övriga<br>omsorgsinsatser dock utgår endast ersättningen för<br>utförd tid |
 
 <!-- sida 43 -->
 
@@ -2017,17 +2023,6 @@ med för närvarande fem kr/debiterad timma.
 Utföraren får inte kräva eller acceptera ersättning från Kungsbacka kommun, utöver värdet för de insatser
 biståndet avser. Utförd insats ska följa handläggares beslut.
 
-[Tabell 43-1](handlingar.tabeller/43-1.csv)
-
-| Insats | Certifiering för | Ersättning |
-| --- | --- | --- |
-| Samtliga tjänster för personlig<br>omvårdnad | Omsorg | Ersätts med beviljad och utförd tjänst |
-| Delegerade och instruerade hälso- och<br>sjukvårdsuppgifter | Omsorg | Se avsnitt 2 |
-| Trygghetslarm | Omsorg | Ersätts med 15 minuter för utförd tjänst, särskild<br>ersättning kan utgå vid längre larmåtgärder, till<br>exempel invänta ambulans |
-| Ledsagning | Omsorg | Ersätts med samma timersättningsbelopp som övriga<br>omsorgsinsatser dock utgår endast ersättningen för<br>utförd tid |
-| Avlösning | Omsorg | Ersätts med samma timersättningsbelopp som övriga<br>omsorgsinsatser dock utgår endast ersättningen för<br>utförd tid |
-| Aktiveringstid, social samvaro | Omsorg | Ersätts med samma timersättningsbelopp som övriga<br>omsorgsinsatser dock utgår endast ersättningen för<br>utförd tid |
-
 <!-- sida 44 -->
 
 2\. Ersättning för delegerade och instruerade hälso- och
@@ -2052,7 +2047,7 @@ högre schablontiden för samma insats, utifrån bedömd omfattning och tidsåtg
 ersättningsnivåer i övrigt.
 Tabell: Schablontider för hälso- och sjukvårdsinsatser
 
-[Tabell 44-1](handlingar.tabeller/44-1.csv)
+[Tabell 44-47-1](handlingar.tabeller/44-47-1.csv)
 
 | Insats (KVÅ-kod) | Nivå | Schablontid (min) |
 | --- | --- | --- |
@@ -2084,13 +2079,6 @@ Tabell: Schablontider för hälso- och sjukvårdsinsatser
 | Läkemedelstillförsel, kutan (DT017) |  | 6 |
 | Läkemedelstillförsel, nasal (DT018) |  | 4 |
 | Läkemedelstillförsel, peroral (DT019) |  | 4 |
-
-<!-- sida 45 -->
-
-[Tabell 45-1](handlingar.tabeller/45-1.csv)
-
-| Insats (KVÅ-kod) | Nivå | Schablontid (min) |
-| --- | --- | --- |
 | Läkemedelstillförsel, rektal (DT020) |  | 8 |
 | Läkemedelstillförsel, transkutan (DT022) |  | 8 |
 | Läkemedelstillförsel, vaginal (DT023) |  | 8 |
@@ -2138,13 +2126,6 @@ Tabell: Schablontider för hälso- och sjukvårdsinsatser
 | Yrselträning (QB002) |  | 18 |
 | Fallprevention (QB003) |  | 23 |
 | Smärtreducerande behandling (QB008) |  | 18 |
-
-<!-- sida 46 -->
-
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
-
-| Insats (KVÅ-kod) | Nivå | Schablontid (min) |
-| --- | --- | --- |
 | Fysikalisk behandling (QB011) |  | 6 |
 | Cirkulationsbefrämjande åtgärd (delegerat av at/ft) (QD002) |  | 13 |
 | Cirkulationsbefrämjande åtgärd (QD002) |  | 13 |
@@ -2197,13 +2178,6 @@ Tabell: Schablontider för hälso- och sjukvårdsinsatser
 | Övervakning av kroppsställning (QM006) |  | 18 |
 | Träning i att bibehålla en kroppsställning och överflyttning (QM007) | Nivå 1 | 15 |
 | Träning i att bibehålla en kroppsställning och överflyttning (QM007) | Nivå 2 | 30 |
-
-<!-- sida 47 -->
-
-[Tabell 47-1](handlingar.tabeller/47-1.csv)
-
-| Insats (KVÅ-kod) | Nivå | Schablontid (min) |
-| --- | --- | --- |
 | Gångträning (QM015) | Nivå 1 | 15 |
 | Gångträning (QM015) | Nivå 2 | 45 |
 | Trappträning (QM016) |  | 15 |
@@ -2236,6 +2210,12 @@ Tabell: Schablontider för hälso- och sjukvårdsinsatser
 | Träningsprogram (QV011) | Nivå 2 | 45 |
 | Punktion av perifer ven för blodprovstagning (SP010) |  | 24 |
 | Ständigt närvarande personal (extravak) i 8 timmar eller mer (XV014) |  | 960 |
+
+<!-- sida 45 -->
+
+<!-- sida 46 -->
+
+<!-- sida 47 -->
 
 <!-- sida 48 -->
 

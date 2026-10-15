@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7cb8909319ceecd54042cf09/1773665591
 sha256: c4d2eff9b5439a24c44a641f103f6b299ee2d3bb558f2f7a3b9ef8cefab25dd2
 bytes: 8010204
 sidor: 84
-hamtad: 2026-10-08T08:40:40+00:00
-konverterad: 2026-10-08T08:41:23+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T06:33:05+00:00
+konverterad: 2026-10-15T06:33:50+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ocr, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok]
 tal_obekraftade: [21, 23, 24, 25, 26, 27, 29, 32, 44, 45, 46, 47, 49, 50, 51, 52, 53, 71, 72, 73, 78, 79]
-figurer: null
-tolkade: null
+figurer: [2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 40, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 56, 57, 59, 61, 63, 65, 67, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1851,13 +1851,18 @@ ekonomichef på Vård & Omsorg.
 
 Kungsbacka kommun, God och Nära vård, 2025                14(17)
 
-[Tabell 67-1](handlingar.tabeller/67-1.csv)
+[Tabell 67-68-1](handlingar.tabeller/67-68-1.csv)
 
 | Initiativ<br>nr | Initiativets<br>namn | Involv-<br>erade<br>förvalt-<br>ningar | Kort beskrivning av initiativet | Beslut |
 | --- | --- | --- | --- | --- |
 | 2025.01 | Korttidsboende<br>för personer med<br>samsjuklighet | IF (VO) | Projekt med förarbete inför eventuell driftstart av<br>korttidsboende i Kungsbacka kommun för<br>personer med samsjuklighet. Detta för att<br>möjliggöra vård och stöd i hemmakommunen<br>där närstående och övriga stödfunktioner<br>förutom korttidsboendet också finns. Idag köps<br>en hel del platser utomläns vilket försvårar vård,<br>omsorg och stöd. | Komplettering<br>önskades.<br>Senare<br>tillbakadraget<br>av<br>initiativtagare |
 | 2025.02 | Forum för<br>handledare inom<br>området vård<br>och omsorg | GA (VO,<br>IF) | Syfte med forumet är att stärka handledarnas<br>kompetens, ge utrymme för erfarenhetsutbyte<br>och öka motivationen i uppdraget som<br>handledare. På sikt bidrar detta till en mer<br>attraktiv och hållbar vård- och omsorgssektor<br>med bättre kvalitet i handledningen av elever på<br>APL och ökade möjligheter till framtida<br>rekrytering. | JA |
 | 2025.03 | Ung i<br>Kungsmässan | KFT | Som ett led i uppsökande verksamhet skapa en<br>mötesplats för ungdomar i form av ett<br>"vardagsrum" på Kungsmässan där de kan<br>möta vuxna för stöd och trygghet. | NEJ<br>Behovsanalys<br>saknas |
+| 2025.04 | Aktivitetshus i<br>Onsala | KFT (VO) | Anställa samhällspedagog och skapa en<br>mötesplats där alla åldersgrupper kan bidra och<br>delta. Aktiviteter inom åldersgruppen senior och<br>åldersgruppen ungdom och även aktiviteter<br>emellan åldersgrupperna. Skapa mötesplats för<br>personer med kognitiv svikt. Involvera<br>civilsamhället på mötesplatsen | NEJ<br>Förstudie<br>med<br>uppdrags-<br>beskrivning<br>och<br>behovsanalys<br>(ffa kopplat till<br>de unga)<br>saknas |
+| 2025.05 | Trygg digital<br>uppväxt | KFT (FG,<br>GA,<br>Region<br>Halland,<br>civilsamhäl<br>let) | Projektet med syfte att minska utsatthet på nätet<br>för barn och unga genom utbildning och ökad<br>medvetenhet, men även skapa förutsättningar<br>för de som redan utsatts att få rätt stöd. Genom<br>utbildning av befintliga aktörer som möter barn<br>och unga redan idag kan de identifiera<br>utsattheten och ställa rätt frågor. Idag saknas ett<br>samlat arbete kring utbildningsinsatser för såväl<br>barn och unga som för vårdnadshavare eller<br>andra viktiga vuxna. Kampanjer planeras för att<br>öka medvetenheten. | JA |
+| 2025.06 | Förstudie digital<br>socialtjänstmotta<br>gning | IF, VO, GA | Den digitala mottagningen syftar till att öka<br>tillgängligheten och skapa en mer<br>sammanhållen socialtjänst genom digitala<br>lösningar. Förstudien ska utreda hur en<br>förvaltningsgemensam digital plattform kan<br>etableras för kontakt, rådgivning,<br>insatsplanering och självbetjäningstjänster som<br>tidsbokning och videosamtal. Målet är att sänka<br>trösklarna för kontakt, frigöra tid för mänsklig<br>närvaro och höja kvaliteten i service och stöd. | JA |
+| 2025.07 | Psykiatri-<br>sjuksköterska till<br>Vård och<br>Omsorg | VO (IF) | En psykiatrisjuksköterska ska fungera som<br>konsult när det gäller personer med psykisk<br>ohälsa som bor på Bostad med Särskild Service<br>(BmSS). Sjuksköterskan ska stödja i arbetet<br>med att ta fram handlingsplaner att använda vid<br>tidiga tecken på försämrad psykisk hälsa.<br>Sjuksköterskan ska även kompetensförstärka<br>medarbetare som möter dessa personer så att<br>de kan ge en trygg och säker vård och omsorg.<br>Målsättning är även att minska risk att utveckla<br>psykisk ohälsa inom målgruppen. | JA |
+| 2025.08 | Dietist för att<br>skapa/stödja<br>hälsosamma<br>kostvanor inom<br>grundskola och i<br>gymnasiet | FG, GA<br>(Region<br>Halland) | Dietisttjänst inom skolan med ett centralt<br>uppdrag att utifrån sin specialistkompetens bidra<br>med b.l.a stöd, utbildning och direkta insatser till<br>både elever och personal. Samverka med<br>regionens dietister och verksamheter inom<br>området blir en central funktion i uppdraget. | JA |
 
 <!-- sida 68 -->
 
@@ -1871,16 +1876,6 @@ handledning. Initiativtagarna ser efter genomfört initiativ under året tecken 
 engagemang i att ta emot elever och en större trygghet i rollen som handledare.
 
 Kungsbacka kommun, God och Nära vård, 2025                15(17)
-
-[Tabell 68-1](handlingar.tabeller/68-1.csv)
-
-| Initiativ<br>nr | Initiativets<br>namn | Involv-<br>erade<br>förvalt-<br>ningar | Kort beskrivning av initiativet | Beslut |
-| --- | --- | --- | --- | --- |
-| 2025.04 | Aktivitetshus i<br>Onsala | KFT (VO) | Anställa samhällspedagog och skapa en<br>mötesplats där alla åldersgrupper kan bidra och<br>delta. Aktiviteter inom åldersgruppen senior och<br>åldersgruppen ungdom och även aktiviteter<br>emellan åldersgrupperna. Skapa mötesplats för<br>personer med kognitiv svikt. Involvera<br>civilsamhället på mötesplatsen | NEJ<br>Förstudie<br>med<br>uppdrags-<br>beskrivning<br>och<br>behovsanalys<br>(ffa kopplat till<br>de unga)<br>saknas |
-| 2025.05 | Trygg digital<br>uppväxt | KFT (FG,<br>GA,<br>Region<br>Halland,<br>civilsamhäl<br>let) | Projektet med syfte att minska utsatthet på nätet<br>för barn och unga genom utbildning och ökad<br>medvetenhet, men även skapa förutsättningar<br>för de som redan utsatts att få rätt stöd. Genom<br>utbildning av befintliga aktörer som möter barn<br>och unga redan idag kan de identifiera<br>utsattheten och ställa rätt frågor. Idag saknas ett<br>samlat arbete kring utbildningsinsatser för såväl<br>barn och unga som för vårdnadshavare eller<br>andra viktiga vuxna. Kampanjer planeras för att<br>öka medvetenheten. | JA |
-| 2025.06 | Förstudie digital<br>socialtjänstmotta<br>gning | IF, VO, GA | Den digitala mottagningen syftar till att öka<br>tillgängligheten och skapa en mer<br>sammanhållen socialtjänst genom digitala<br>lösningar. Förstudien ska utreda hur en<br>förvaltningsgemensam digital plattform kan<br>etableras för kontakt, rådgivning,<br>insatsplanering och självbetjäningstjänster som<br>tidsbokning och videosamtal. Målet är att sänka<br>trösklarna för kontakt, frigöra tid för mänsklig<br>närvaro och höja kvaliteten i service och stöd. | JA |
-| 2025.07 | Psykiatri-<br>sjuksköterska till<br>Vård och<br>Omsorg | VO (IF) | En psykiatrisjuksköterska ska fungera som<br>konsult när det gäller personer med psykisk<br>ohälsa som bor på Bostad med Särskild Service<br>(BmSS). Sjuksköterskan ska stödja i arbetet<br>med att ta fram handlingsplaner att använda vid<br>tidiga tecken på försämrad psykisk hälsa.<br>Sjuksköterskan ska även kompetensförstärka<br>medarbetare som möter dessa personer så att<br>de kan ge en trygg och säker vård och omsorg.<br>Målsättning är även att minska risk att utveckla<br>psykisk ohälsa inom målgruppen. | JA |
-| 2025.08 | Dietist för att<br>skapa/stödja<br>hälsosamma<br>kostvanor inom<br>grundskola och i<br>gymnasiet | FG, GA<br>(Region<br>Halland) | Dietisttjänst inom skolan med ett centralt<br>uppdrag att utifrån sin specialistkompetens bidra<br>med b.l.a stöd, utbildning och direkta insatser till<br>både elever och personal. Samverka med<br>regionens dietister och verksamheter inom<br>området blir en central funktion i uppdraget. | JA |
 
 <!-- sida 69 -->
 

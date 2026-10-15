@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.27cefa4f18fe7c0ed5d5384/17180099581
 sha256: e2444d8e2beef1e7ebd48242aeb71ae0cbdc8901e094f1e2280e519e50be7b31
 bytes: 3274662
 sidor: 48
-hamtad: 2026-10-08T08:22:16+00:00
-konverterad: 2026-10-08T08:22:25+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T06:13:02+00:00
+konverterad: 2026-10-15T06:13:13+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [17, 18, 24, 26, 40]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1211,38 +1211,30 @@ ansvarsområden.
 
 Kungsbacka kommun               Ledningssystem                 8 (10)
 
-[Tabell 29-1](handlingar.tabeller/29-1.csv)
+[Tabell 29-31-1](handlingar.tabeller/29-31-1.csv)
 
 | Nivå/funktion | Ansvarar för |
 | --- | --- |
 | Nämnd | Ledningssystemet för systematiskt kvalitetsarbete<br>Att ta beslut om resursfördelning och verksamhetens ekonomiska<br>förutsättningar i budget |
-
-<!-- sida 30 -->
-
-Kungsbacka kommun               Ledningssystem                 9 (10)
-
-[Tabell 30-1](handlingar.tabeller/30-1.csv)
-
 |  | Att upprätta och anta årlig kvalitets- och patientsäkerhetsberättelse<br>Att delegera uppgifter enligt delegeringsförteckning |
-| --- | --- |
 | Förvaltningschef | Ledningssystemets omsättning i praktiken<br>Att skapa organisatoriska förutsättningar och fördela resurser för att<br>kvaliteten systematiskt och fortlöpande ska utvecklas och säkras.<br>Att ge verksamhetschefer förutsättningar att leda verksamheterna<br>enligt ledningssystemet |
 | Verksamhetschef<br>distrikt | Den strategiska samordningen av det systematiska kvalitetsarbetet<br>i sitt distrikt<br>Uppföljning, analys och dokumentation av det systematiska<br>kvalitetsarbetet på distriktsnivå |
 | Enhetschef | Den strategiska samordningen av det systematiska kvalitetsarbetet<br>på sin enhet<br>Att säkerställa att verksamhetens medarbetare arbetar i enlighet<br>med ledningssystemet och att beslutade processer och rutiner är<br>kända av medarbetarna.<br>Dokumentation av det löpande systematiska kvalitetsarbetet på<br>enheten. |
 | Medarbetare | Att följa gällande rutiner och riktlinjer och medverka i<br>verksamhetens kvalitetsarbete.<br>Påtala brister i, eller avsaknad av, rutiner som en del i<br>förbättringsarbetet.<br>Rapportera och delta i utredning av händelser, missförhållanden<br>enligt lex Sarah och vårdskador enligt lex Maria. |
 | Verksamhetschef HSL<br>(4 kap. §2 HSL) | Att säkerställa att patientens behov av trygghet, kontinuitet,<br>samordning och säkerhet i vården tillgodoses.<br>Att fastställa rutiner och arbetssätt för hur det systematiska<br>kvalitetsarbetet inom hälso- och sjukvård bedrivs.<br>Att säkra att hälso- och sjukvård bedrivs utifrån lagar, föreskrifter,<br>riktlinjer och för verksamheten fastställda rutiner genom uppföljning<br>och analys av resultat i egenkontroller.<br>Att resursers användning och bemanning är optimal för att uppnå<br>god och säker vård samt att bedriva ett systematiskt kvalitets- och<br>patientsäkerhetsarbete. |
 | MAS, MAR<br>(11 kap. §4 HSL) | Att följa upp kvaliteten och säkerheten i den kommunala hälso- och<br>sjukvården.<br>Att det finns ändamålsenliga och välfungerande rutiner för den<br>kommunala hälso- och sjukvården och i vissa fall ta fram och<br>fastställa dem (i enlighet med lag och föreskrift)<br>Att det finns ett system för rapportering av vårdskador, och risk för<br>vårdkador, samt att utreda sådana händelser. |
+|  | Att på delegation från nämnden besluta om anmälan enligt lex<br>Maria till IVO.<br>Att samverka och samordna med andra vårdgivare samt ge råd och<br>stöd till chefer.<br>Redovisning av resultat och mätningar och att årligen bereda<br>patientsäkerhetsberättelse |
+| SAS | Att följa upp kvaliteten inom socialtjänstens område.<br>Att det finns ändamålsenliga och välfungerande rutiner för<br>verksamheten inom socialtjänstens område.<br>Att det finns ett system för rapportering av händelser samt att<br>utreda de händelser i verksamheten som har medfört eller hade<br>kunnat medföra allvarligt missförhållande.<br>Att på delegation från nämnden fatta beslut i lex Sarah-utredningar<br>samt anmäla missförhållanden till IVO om de är allvarliga.<br>Att samverka och samordna med andra verksamheter som bedriver<br>socialtjänst samt ge råd och stöd till chefer gällande det<br>systematiska kvalitetsarbetet. |
+| Utvecklingsledare<br>Kvalitet | Att följa upp, analysera och förbättra det systematiska<br>kvalitetsarbetet.<br>Redovisning av resultat och mätningar och att årligen bereda<br>kvalitetsberättelse.<br>Att bistå i arbetet med att utreda, följa upp och granska<br>kommunens verksamheter i såväl Vård & Omsorgs egen regi som<br>hos privata utförare.<br>Att genomföra enkät- och kvalitetsundersökningar och utvärdera<br>samt analysera resultatet. |
+| Utvecklingsledare<br>avtal och uppföljning | Att följa upp att privata utförare har ett systematiskt kvalitetsarbete i<br>enlighet med SOSFS 2011:9 samt kvalitetsarbete som framgår av<br>avtal. |
+
+<!-- sida 30 -->
+
+Kungsbacka kommun               Ledningssystem                 9 (10)
 
 <!-- sida 31 -->
 
 Kungsbacka kommun               Ledningssystem                 10 (10)
-
-[Tabell 31-1](handlingar.tabeller/31-1.csv)
-
-|  | Att på delegation från nämnden besluta om anmälan enligt lex<br>Maria till IVO.<br>Att samverka och samordna med andra vårdgivare samt ge råd och<br>stöd till chefer.<br>Redovisning av resultat och mätningar och att årligen bereda<br>patientsäkerhetsberättelse |
-| --- | --- |
-| SAS | Att följa upp kvaliteten inom socialtjänstens område.<br>Att det finns ändamålsenliga och välfungerande rutiner för<br>verksamheten inom socialtjänstens område.<br>Att det finns ett system för rapportering av händelser samt att<br>utreda de händelser i verksamheten som har medfört eller hade<br>kunnat medföra allvarligt missförhållande.<br>Att på delegation från nämnden fatta beslut i lex Sarah-utredningar<br>samt anmäla missförhållanden till IVO om de är allvarliga.<br>Att samverka och samordna med andra verksamheter som bedriver<br>socialtjänst samt ge råd och stöd till chefer gällande det<br>systematiska kvalitetsarbetet. |
-| Utvecklingsledare<br>Kvalitet | Att följa upp, analysera och förbättra det systematiska<br>kvalitetsarbetet.<br>Redovisning av resultat och mätningar och att årligen bereda<br>kvalitetsberättelse.<br>Att bistå i arbetet med att utreda, följa upp och granska<br>kommunens verksamheter i såväl Vård & Omsorgs egen regi som<br>hos privata utförare.<br>Att genomföra enkät- och kvalitetsundersökningar och utvärdera<br>samt analysera resultatet. |
-| Utvecklingsledare<br>avtal och uppföljning | Att följa upp att privata utförare har ett systematiskt kvalitetsarbete i<br>enlighet med SOSFS 2011:9 samt kvalitetsarbete som framgår av<br>avtal. |
 
 <!-- sida 32 -->
 

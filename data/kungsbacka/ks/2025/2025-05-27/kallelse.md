@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2bfb8e8f196f6594a3bc88/174789355586
 sha256: 00d72228148bbc28610e5b7bcd06d6afcfb439ceb8d589acb97be237c9a7324e
 bytes: 230927
 sidor: 8
-hamtad: 2026-10-08T09:14:25+00:00
-konverterad: 2026-10-08T09:14:31+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:06:09+00:00
+konverterad: 2026-10-15T07:06:15+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -112,7 +112,7 @@ KUNGSBACKA  KOMMUN
 
 3(8)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
+[Tabell 3-6-1](kallelse.tabeller/3-6-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -122,34 +122,12 @@ KUNGSBACKA  KOMMUN
 | 5. | Information om aktuella<br>händelser från nämnder, bolag,<br>intresseorganisationer (SKR,<br>GR med flera) | 2025-00015 |  |
 | 6. | Information från förvaltningen<br>och pågående viktigare/större<br>uppdrag, projekt och händelser | 2025-00016 |  |
 |  | Beslutsärenden |  |  |
-
-<!-- sida 4 -->
-
-KUNGSBACKA  KOMMUN
-
-4(8)
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 7. | Avvikelse från bestämmelser<br>om arbetstidens förläggning<br>inom personlig assistans i vissa<br>situationer och inom Individ-<br>och Familjeomsorgs<br>lägerverksamhet | 2025-00285 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen beviljar avvikelse från regler om<br>maxlängden på 20 timmar för ett arbetspass till 24<br>timmar inom:<br>1. personlig assistans för situationer då brukare<br>ska genomföra resor på semester eller inom<br>sitt arbete och<br>2. lägerverksamheten för barn och unga.<br>Beslutet gäller under perioden 1 juni 2025–31 maj<br>2026. |
 | 8. | Avvikelse från bestämmelser<br>om arbetstidens förläggning<br>inom Bostäder med särskild<br>service (BMSS) | 2025-00354 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen beviljar avvikelse från regler om<br>maxlängden på 20 timmar för ett arbetspass till 24<br>timmar inom bostad med särskild service (BmSS),<br>för situationer då brukare ska genomföra resor som<br>semester eller inom sitt arbete.<br>Beslutet gäller under perioden 1 juli 2025–31 januari<br>2026. |
 | 9. | Utdelning ur Arvid och Hildur<br>Anderssons donationsfond<br>2024 (Individ &<br>Familjeomsorg) | 2024-00859 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen delar inte ut medel ur Arvid och<br>Hildur Anderssons donationsfond avseende nämnden<br>för Individ & Familjeomsorg för 2024. |
 | 10. | Utdelning ur Arvid och Hildur<br>Anderssons donationsfond<br>2025 (Gymnasium &<br>Arbetsmarknad) | 2025-00314 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen beslutar om utdelning av 35 000<br>kronor till sökanden som uppfyller kriterierna<br>uppställda i Arvid och Hildur Anderssons fond, enligt<br>förslag från nämnden för Gymnasium &<br>Arbetsmarknad. |
 | 11. | Biträdande<br>säkerhetsskyddschef i<br>Kungsbacka kommun | 2025-00359 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen utser Joel Ledsgård, Specialist<br>krisberedskap, till biträdande säkerhetsskyddschef för<br>Kungsbacka kommun. |
 | 12. | Tillförordnad<br>säkerhetsskyddschef i<br>Kungsbacka kommun | 2025-00358 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen utser Joel Ledsgård, Specialist<br>krisberedskap, till tillförordnad Säkerhetsskyddschef<br>från och med den 28 juni 2025. |
-
-<!-- sida 5 -->
-
-KUNGSBACKA  KOMMUN
-
-5(8)
-
-[Tabell 5-1](kallelse.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 13. | Godkännande av<br>exploateringsavtal Castellum<br>Väst Kungsbacka AB och<br>Castellum Varla 3:34 AB<br>avseende detaljplan för<br>verksamheter inom Varla 3:22<br>m.fl. i Kungsbacka,<br>Kungsbacka kommun | 2021-00366 | Förslag till beslut<br>Kommunstyrelsen godkänner exploateringsavtal<br>avseende detaljplan för verksamheter inom Varla<br>3:22 m.fl. i Kungsbacka, mellan kommunen och<br>Castellum Väst Kungsbacka AB samt Castellum<br>Varla 3:34 AB, undertecknat av bolagen 2025-04-25.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalen<br>samt övriga nödvändiga handlingar för avtalens<br>genomförande. |
 | 14. | Svar på Räddningstjänsten<br>Storgöteborgs underlag för<br>budget 2026 plan 2027–2028 | 2025-00269 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen har inget att erinra mot<br>samrådsunderlag till budget 2026 plan 2027–2028 för<br>Räddningstjänsten Storgöteborg. |
 | 15. | Svar på Finansdepartementets<br>remiss av betänkandet AI-<br>kommissionens Färdplan för<br>Sverige (SOU 2025:12) | 2025-00227 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-04-09,<br>och översänder det som sitt svar till<br>Finansdepartementet. |
@@ -157,20 +135,27 @@ KUNGSBACKA  KOMMUN
 | 17. | Redovisning av inkomna<br>skrivelser | 2025-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
 | 18. | Redovisning av icke<br>färdigberedda motioner<br>nr 1 2025 | 2025-00049 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar redovisningen av icke<br>färdigberedda motioner till och med 2025-04-15. |
 | 19. | Årsredovisning 2024 för<br>Samordningsförbundet i<br>Halland | 2025-00099 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beviljar styrelsen för<br>Samordningsförbundet i Halland ansvarsfrihet för<br>verksamhetsåret 2024. |
+| 20. | Årsredovisning 2024 för Eksta<br>Bostads AB och Tempohus<br>Kungsbacka AB | 2025-00097 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar årsredovisning 2024<br>inklusive revisionsberättelser och<br>lekmannarevisorernas granskningsrapporter för Eksta<br>Bostads AB och Tempohus Kungsbacka AB till<br>protokollet. |
+| 21. | Slutredovisning av gång- och<br>cykelväg längs väg 934<br>Vallbyvägen | 2025-00196 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar informationen till<br>protokollet. |
+| 22. | Taxa för prövning och tillsyn<br>enligt alkohollagen, lag om<br>tobak och liknande produkter,<br>lag om handel med vissa<br>receptfria läkemedel och lag<br>om tobaksfria nikotinprodukter | 2025-00375 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar taxa för prövning och<br>tillsyn enligt alkohollagen, lag om tobak och liknande<br>produkter, lag om handel med vissa receptfria<br>läkemedel och lag om tobaksfria nikotinprodukter,<br>daterad 2025-04-30.<br>Taxan gäller från och med den 1 juli 2025.<br>Taxa för prövning och tillsyn enligt alkohollagen, lag<br>om tobak och liknande produkter, lag om handel med<br>receptfria läkemedel samt lag om tobaksfria<br>nikotinprodukter antagen av kommunfullmäktige<br>2023-06-14 § 76, upphör att gälla samtidigt som ny<br>taxa träder i kraft.<br>Kommunfullmäktige ger nämnden för Miljö &<br>Hälsoskydd möjlighet att årligen justera<br>avgiftsbeloppen i taxan i enlighet med taxans<br>bestämmelser § 5, Indexjustering. |
+
+<!-- sida 4 -->
+
+KUNGSBACKA  KOMMUN
+
+4(8)
+
+<!-- sida 5 -->
+
+KUNGSBACKA  KOMMUN
+
+5(8)
 
 <!-- sida 6 -->
 
 KUNGSBACKA  KOMMUN
 
 6(8)
-
-[Tabell 6-1](kallelse.tabeller/6-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 20. | Årsredovisning 2024 för Eksta<br>Bostads AB och Tempohus<br>Kungsbacka AB | 2025-00097 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar årsredovisning 2024<br>inklusive revisionsberättelser och<br>lekmannarevisorernas granskningsrapporter för Eksta<br>Bostads AB och Tempohus Kungsbacka AB till<br>protokollet. |
-| 21. | Slutredovisning av gång- och<br>cykelväg längs väg 934<br>Vallbyvägen | 2025-00196 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar informationen till<br>protokollet. |
-| 22. | Taxa för prövning och tillsyn<br>enligt alkohollagen, lag om<br>tobak och liknande produkter,<br>lag om handel med vissa<br>receptfria läkemedel och lag<br>om tobaksfria nikotinprodukter | 2025-00375 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar taxa för prövning och<br>tillsyn enligt alkohollagen, lag om tobak och liknande<br>produkter, lag om handel med vissa receptfria<br>läkemedel och lag om tobaksfria nikotinprodukter,<br>daterad 2025-04-30.<br>Taxan gäller från och med den 1 juli 2025.<br>Taxa för prövning och tillsyn enligt alkohollagen, lag<br>om tobak och liknande produkter, lag om handel med<br>receptfria läkemedel samt lag om tobaksfria<br>nikotinprodukter antagen av kommunfullmäktige<br>2023-06-14 § 76, upphör att gälla samtidigt som ny<br>taxa träder i kraft.<br>Kommunfullmäktige ger nämnden för Miljö &<br>Hälsoskydd möjlighet att årligen justera<br>avgiftsbeloppen i taxan i enlighet med taxans<br>bestämmelser § 5, Indexjustering. |
 
 <!-- sida 7 -->
 

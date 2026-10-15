@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.515f200f1a0adad2ac422f4/17896265849
 sha256: 2d4e9b5ea37ea5a2b6a44914fc61a9084512b0d010ae20e37f6f9303facc8bb1
 bytes: 211449
 sidor: 4
-hamtad: 2026-10-08T09:15:51+00:00
-konverterad: 2026-10-08T09:15:57+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:07:43+00:00
+konverterad: 2026-10-15T07:07:49+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -60,7 +60,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -71,17 +71,6 @@ KUNGSBACKA  KOMMUN
 | 7. | Avtal och nya stadgar avseende<br>Stiftelsen Tjolöholm | 2025-00589 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner tilläggsavtal daterat<br>den 21 augusti 2026<br>Kommunstyrelsen ger kommunstyrelsens ordförande<br>och kommundirektören i uppdrag att underteckna<br>avtalet för Kungsbacka kommuns räkning. |
 | 8. | Svar på initiativ från Lisa<br>Andersson (M) m.fl. om höjd<br>kvalitet i bemötande, service<br>och handläggning | 2026-00366 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisning av<br>handlingsplan avseende Initiativ Höjd kvalitet i<br>bemötande, service och handläggning i protokollet.<br>Initiativet kommer följas upp i ordinarie uppföljning. |
 | 9. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för<br>bostäder inom Ölmanäs 6:80 | 2026-00227 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen upphäver tidigare beslut från<br>2014-03-18, § 47, om att ta fram ett planprogram för<br>Ölmanäs 6:80 i Åsa.<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för bostäder inom Ölmanäs 6:80 i Åsa,<br>daterad 2026-08-12.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan för bostäder inom<br>Ölmanäs 6:80 i Åsa. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 10. | Svar på Länsstyrelsen i Västra<br>Götalands läns remiss av<br>vattenförsörjningsplan för länet | 2026-00379 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-08-21,<br>och översänder det som sitt svar till Länsstyrelsen i<br>Västra Götaland. |
 | 11. | Svar på Göteborgs stads<br>granskning av ändring av<br>översiktsplan | 2026-00453 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-09-01,<br>och översänder det som sitt svar till Göteborgs stad. |
 | 12. | Svar på Landsbygds- och<br>infrastrukturdepartementet<br>remiss av ändringar i<br>trafikbullerförordningen | 2026-00400 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-08-21,<br>och översänder det som sitt svar till Landsbygds- och<br>infrastrukturdepartementet. |
@@ -91,6 +80,13 @@ KUNGSBACKA  KOMMUN
 | 16. | Anmälan av delegeringsbeslut | 2026-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
 | 17. | Anmälan av ordförandebeslut | 2026-00007 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
 | 18. | Redovisning av inkomna<br>skrivelser | 2026-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
+| 19. | Antagande av<br>arbetsgivarpolicy | 2025-00400 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar uppdaterad<br>arbetsgivarpolicy, daterad 2026-08-25.<br>Arbetsgivarpolicy, antagen av kommunfullmäktige<br>2019-06-11, § 86, upphör samtidigt att gälla. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -100,9 +96,3 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Patrik Johansson
 ordförande                        kommunsekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 19. | Antagande av<br>arbetsgivarpolicy | 2025-00400 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar uppdaterad<br>arbetsgivarpolicy, daterad 2026-08-25.<br>Arbetsgivarpolicy, antagen av kommunfullmäktige<br>2019-06-11, § 86, upphör samtidigt att gälla. |

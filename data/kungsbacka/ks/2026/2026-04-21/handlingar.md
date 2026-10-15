@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.347aca1d19d8aefb0402806b/1776325537
 sha256: 205ec8a15a387ce5f5df236598aabc1fe43d7048b215d0f0c2f20c3167d013a5
 bytes: 276822424
 sidor: 683
-hamtad: 2026-10-09T07:34:32+00:00
-konverterad: 2026-10-09T07:42:50+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T10:14:58+00:00
+konverterad: 2026-10-15T10:24:37+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tom, tom, tom, tom, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
-tal_obekraftade: [19, 20, 21, 22, 25, 26, 27, 28, 29, 40, 41, 42, 43, 44, 45, 46, 47, 48, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 401, 467, 468, 469, 470, 471, 472, 473, 474, 618, 619, 635, 683]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tom, tom, tom, tom, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
+tal_obekraftade: [19, 20, 21, 22, 25, 26, 27, 28, 29, 40, 41, 42, 43, 44, 45, 46, 47, 48, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 125, 126, 127, 128, 129, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 401, 441, 467, 468, 469, 470, 471, 472, 473, 474, 526, 618, 619, 635, 683]
 figurer: [94, 95, 96, 97, 98, 99, 100, 103, 107, 109, 110, 112, 113, 114, 115, 117, 119, 120, 121, 122, 123, 125, 126, 127, 128, 129, 157, 161, 167, 173, 186, 216, 294, 296, 298, 300, 302, 303, 304, 306, 307, 308, 310, 311, 312, 314, 315, 316, 317, 318, 320, 321, 322, 324, 325, 326, 327, 328, 329, 330, 332, 333, 334, 335, 336, 338, 339, 340, 342, 344, 346, 347, 348, 350, 352, 353, 354, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 372, 373, 374, 376, 377, 378, 379, 380, 382, 384, 386, 388, 390, 392, 394, 396, 399, 400, 401, 402, 407, 410, 411, 415, 417, 420, 423, 424, 460, 475, 526, 527, 542, 546, 547, 550, 551, 555, 574, 594, 595]
 tolkade: []
 ---
@@ -60,7 +60,7 @@ KUNGSBACKA  KOMMUN
 
 2(8)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-3-1](handlingar.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -69,6 +69,9 @@ KUNGSBACKA  KOMMUN
 | 6. | Tillägg till avsiktsförklaring<br>avseende del av kv. Samariten | 2024-00673 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner tillägg till<br>avsiktsförklaring avseende del av kv Samariten<br>mellan kommunen och Magnus Månsson Fastighets<br>AB, undertecknad av bolaget 2026-03-09.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna<br>avsiktsförklaringen. |
 | 7. | Genomförande av<br>detaljprojektering av allmän<br>plats och allmänna<br>VA-anläggningar inom<br>detaljplan för verksamheter<br>inom Frillesås-Rya 3:77 m.fl. | 2020-00049 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner att detaljprojektering<br>av allmän plats och allmänna VA-anläggningar inom<br>detaljplan för verksamheter inom Frillesås-Rya 3:77<br>m.fl. genomförs innan detaljplanen får laga kraft.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att genomföra detaljprojektering av allmän plats och<br>allmänna VA-anläggningar inom detaljplan för<br>verksamheter inom Frillesås-Rya 3:77 m.fl. innan<br>detaljplanen får laga kraft. |
 | 8. | Förlängning av<br>markanvisningsavtal med<br>Eksta Bostads AB, avseende<br>del av Skårby 2:3 i Anneberg | 2021-00907 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner begäran från Eksta<br>Bostads AB, att gällande markanvisningsavtal<br>avseende del av Skårby 2:3, förlängs med två år till<br>23 maj 2028, med i övrigt oförändrade avtalsvillkor.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning godkänna<br>förlängning av avtalet. |
+| 9. | Förlängning av principavtal<br>och markanvisning med Doxa<br>Anneberg AB, detaljplan för<br>utveckling av Annebergs<br>centrum | 2019-00257 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner begäran från Doxa<br>Anneberg AB, innebärande att gällande principavtal<br>och markanvisning avseende ny detaljplan för<br>Annebergs centrum, förlängs med två år till 26 maj<br>2028, på i övrigt oförändrade avtalsvillkor. |
+| 10. | Begäran om planbesked för del<br>av Kolla 5:2 | 2026-00097 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av handel och verksamheter inom del<br>av Kolla 5:2, i Kungsbacka.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för handel och verksamheter inom del av<br>Kolla 5:2, i Kungsbacka. |
+| 11. | Godkännande av<br>lokaliseringsutredning för ny<br>återvinningscentral syd i södra<br>Kungsbacka | 2025-00941 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner Lokaliseringsutredning<br>för ny återvinningscentral syd, daterad 2026-03-04.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan för ny<br>återvinningscentral syd inom fastigheten Kläppa<br>2:2>1 söder om Kläppavägen i Åsa. |
 
 <!-- sida 3 -->
 
@@ -76,21 +79,13 @@ KUNGSBACKA  KOMMUN
 
 3(8)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 9. | Förlängning av principavtal<br>och markanvisning med Doxa<br>Anneberg AB, detaljplan för<br>utveckling av Annebergs<br>centrum | 2019-00257 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner begäran från Doxa<br>Anneberg AB, innebärande att gällande principavtal<br>och markanvisning avseende ny detaljplan för<br>Annebergs centrum, förlängs med två år till 26 maj<br>2028, på i övrigt oförändrade avtalsvillkor. |
-| 10. | Begäran om planbesked för del<br>av Kolla 5:2 | 2026-00097 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av handel och verksamheter inom del<br>av Kolla 5:2, i Kungsbacka.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för handel och verksamheter inom del av<br>Kolla 5:2, i Kungsbacka. |
-| 11. | Godkännande av<br>lokaliseringsutredning för ny<br>återvinningscentral syd i södra<br>Kungsbacka | 2025-00941 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner Lokaliseringsutredning<br>för ny återvinningscentral syd, daterad 2026-03-04.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan för ny<br>återvinningscentral syd inom fastigheten Kläppa<br>2:2>1 söder om Kläppavägen i Åsa. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(8)
 
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
+[Tabell 4-5-1](handlingar.tabeller/4-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -99,17 +94,6 @@ KUNGSBACKA  KOMMUN
 | 14. | Svar på Länsstyrelsen i<br>Hallands läns remiss av<br>regional handlingsplan för<br>elektrifiering | 2025-00944 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-03-04,<br>och översänder det som sitt svar till Länsstyrelsen i<br>Hallands län. |
 | 15. | Svar på Varbergs kommun<br>remiss av fördjupad<br>översiktsplan för Väröbacka | 2026-00149 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-03-02,<br>och översänder det som sitt svar till Varbergs<br>kommun. |
 | 16. | Svar på Region Hallands<br>remiss av Regionalt<br>serviceprogram | 2026-00142 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-04-02,<br>och översänder det som sitt svar till Region Halland. |
-
-<!-- sida 5 -->
-
-KUNGSBACKA  KOMMUN
-
-5(8)
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 17. | Överklagande av Länsstyrelsen<br>i Hallands läns beslut om att<br>upphäva lokal<br>ordningsföreskrift i<br>Kungsbacka kommun - Förbud<br>mot användning av lustgas i<br>berusningssyfte | 2025-00581 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar komplettering av<br>överklagande, daterat 2026-03-31, och översänder det<br>till Kammarrätten i Göteborg. |
 | 18. | Anmälan av delegeringsbeslut | 2026-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
 | 19. | Anmälan av ordförandebeslut | 2026-00007 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
@@ -117,33 +101,37 @@ KUNGSBACKA  KOMMUN
 | 21. | Rapport från nämnden för<br>Individ & Familjeomsorg av ej<br>verkställda beslut enligt<br>socialtjänstlagen, SoL, och<br>lagen om stöd och service till<br>vissa funktionshindrade, LSS,<br>fjärde kvartalet 2025 | 2026-00164 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Individ & Familjeomsorg Socialtjänstlagen och<br>Lagen om stöd och service till vissa<br>funktionshindrade, till protokollet. |
 | 22. | Rapport från nämnden för Vård<br>& Omsorg av ej verkställda<br>beslut enligt socialtjänstlagen,<br>SoL, fjärde kvartalet 2025 | 2026-00165 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport enligt<br>socialtjänstlagen, från nämnden för Vård & Omsorg<br>till protokollet. |
 
+<!-- sida 5 -->
+
+KUNGSBACKA  KOMMUN
+
+5(8)
+
 <!-- sida 6 -->
 
 KUNGSBACKA  KOMMUN
 
 6(8)
 
-[Tabell 6-1](handlingar.tabeller/6-1.csv)
+[Tabell 6-8-1](handlingar.tabeller/6-8-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 23. | Ombudgeteringar och<br>resultatfonder 2025 | 2026-00133 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige ökar resultatfonderna med en<br>total summa av 88 162 000 kronor till totalt<br>595 561 000 kronor.<br>Kommunfullmäktige utökar nämndernas driftramar<br>genom att ombudgetera 19 617 000 kronor avseende<br>kvarvarande engångskostnader i lokalplan.<br>Finansiering sker från kommunfullmäktiges anslag<br>för oförutsedda medel med 10 000 000 kronor samt<br>6 000 000 kronor från kommunstyrelsens anslag för<br>oförutsedda medel samt 3 617 000 kronor från<br>Kommunstyrelsens arbetsutskotts anslag för<br>oförutsedda medel.<br>Kommunfullmäktige godkänner ombudgetering samt<br>omplanering av investeringar och exploateringar från<br>2025 till år 2026 med 159 501 000 kronor med en<br>total investerings- och exploateringsvolym på<br>1 631 548 000 kronor för 2026.<br>Kommunfullmäktige godkänner ombudgetering av<br>investeringar från 2025 och till år 2027 med<br>70 622 000 kronor.<br>Investeringsvolymen finansieras inom ramen för<br>kommunfullmäktiges beslut med begränsningen om<br>att den totala låneskulden inte överstiger<br>totalbeloppet om 1 400,0 miljoner kronor år 2026,<br>(Kommunbudget 2026, antagen av<br>kommunfullmäktige 2025-06-16, § 114). |
 | 24. | Omfördelning av statsbidrag<br>2025 avseende stöd till<br>kommuner i omställningen till<br>en långsiktigt hållbar, mer<br>förebyggande och<br>kunskapsbaserad socialtjänst | 2026-00220 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fördelar statsbidraget 2025 för<br>omställning till nya socialtjänstlagen med 6 067 396<br>kronor till nämnden för Individ & Familjeomsorg,<br>1 534 698 kronor till nämnden Vård & Omsorg och<br>545 785 kronor till Gymnasium & Arbetsmarknad. |
+| 25. | Försäljning av<br>laddningsstationer inom<br>nämnden för Tekniks<br>verksamhet | 2025-00126 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beslutar att de<br>laddningsstationer, som i dag finns inom nämnden<br>för Tekniks verksamhet, i första hand avyttras, och i<br>andra hand avvecklas.<br>Kommunfullmäktige ger nämnden för Teknik i<br>uppdrag att verkställa beslutet före den 1 december<br>2026.<br>Kommunfullmäktige ger nämnden för Teknik i<br>uppdrag att etablera en digital tjänst (e-tjänst) där<br>privata aktörer kan ansöka om möjlighet att etablera<br>laddningsstationer på allmänplats med kommunalt<br>huvudmannaskap. |
+| 26. | Avveckling av Kapten Menns<br>fond | 2025-00912 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beslutar att avveckla stiftelsen<br>Kapten Menns fond och använda dess tillgångar.<br>Kommunfullmäktige ger kommunstyrelsen i uppdrag<br>att genomföra avvecklingen. |
+| 27. | Antagande av policy och<br>riktlinjer för<br>inköpsverksamheten i<br>Kungsbacka kommun | 2026-00163 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Policy för inköp,<br>Riktlinjer för inköp och Riktlinjer för<br>direktupphandling, daterade 2026-02-06.<br>Policy för inköp och Riktlinjer för inköp, antagna av<br>kommunfullmäktige 2021-03-09 § 30, samt<br>Riktlinjer för direktupphandling, antagen av<br>kommunfullmäktige 2022-10-18 § 160, upphör<br>samtidigt att gälla. |
+| 28. | Svar på motion från Carita<br>Boulwén (SD) m.fl. om<br>inrättande av ”Jourhavande<br>förälder”, ett alternativ till<br>familjehemsplacering | 2025-00604 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att det redan finns insatser utifrån<br>barnets bästa som utgör ett alternativ till<br>familjehemsplacering samt att den föreslagna<br>insatsen bedöms få liten praktisk användning. |
+| 29. | Svar på motion från Mats<br>Ståhlberg (KB) om anläggande<br>av hundrastgård i Kolla | 2025-00630 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att frågan om hundrastgårdar bör<br>behandlas samlat och strategiskt för hela kommunen,<br>snarare än genom beslut om en enskild anläggning<br>samt att investeringen att anlägga en hundrastgård<br>inte är något som nämnden för Teknik vill prioritera<br>just nu. |
+| 30. | Svar på motion från Carita<br>Boulwén (SD) m.fl. om<br>avskaffande av religiöst<br>motiverad<br>specialkost i förskola och skola | 2025-00457 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige bifaller motionen om att<br>avskaffa religiöst motiverad specialkost i kommunala<br>förskolor och skolor.<br>Genom att införa ett fullgott vegetariskt alternativ<br>skapas en inkluderande måltidsverksamhet som kan<br>möta olika preferenser samtidigt som<br>måltidsverksamheten kan bedrivas på ett hållbart och<br>ekonomiskt ansvarsfullt sätt. |
+| 31. | Svar på motion från Christer<br>Perfjell (KB) om att behålla<br>lokala VA-lösningar tills<br>kommunen säkrat långsiktig<br>VA-försörjning | 2025-00670 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser att motionen är besvarad<br>med hänvisning till att förutsättningarna för att<br>behålla lokala VA-lösningar redan är utredda och<br>tillämpas i den omfattning som är möjlig utifrån<br>gällande lagstiftning. |
 
 <!-- sida 7 -->
 
 KUNGSBACKA  KOMMUN
 
 7(8)
-
-[Tabell 7-1](handlingar.tabeller/7-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 25. | Försäljning av<br>laddningsstationer inom<br>nämnden för Tekniks<br>verksamhet | 2025-00126 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beslutar att de<br>laddningsstationer, som i dag finns inom nämnden<br>för Tekniks verksamhet, i första hand avyttras, och i<br>andra hand avvecklas.<br>Kommunfullmäktige ger nämnden för Teknik i<br>uppdrag att verkställa beslutet före den 1 december<br>2026.<br>Kommunfullmäktige ger nämnden för Teknik i<br>uppdrag att etablera en digital tjänst (e-tjänst) där<br>privata aktörer kan ansöka om möjlighet att etablera<br>laddningsstationer på allmänplats med kommunalt<br>huvudmannaskap. |
-| 26. | Avveckling av Kapten Menns<br>fond | 2025-00912 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beslutar att avveckla stiftelsen<br>Kapten Menns fond och använda dess tillgångar.<br>Kommunfullmäktige ger kommunstyrelsen i uppdrag<br>att genomföra avvecklingen. |
-| 27. | Antagande av policy och<br>riktlinjer för<br>inköpsverksamheten i<br>Kungsbacka kommun | 2026-00163 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Policy för inköp,<br>Riktlinjer för inköp och Riktlinjer för<br>direktupphandling, daterade 2026-02-06.<br>Policy för inköp och Riktlinjer för inköp, antagna av<br>kommunfullmäktige 2021-03-09 § 30, samt<br>Riktlinjer för direktupphandling, antagen av<br>kommunfullmäktige 2022-10-18 § 160, upphör<br>samtidigt att gälla. |
-| 28. | Svar på motion från Carita<br>Boulwén (SD) m.fl. om<br>inrättande av ”Jourhavande<br>förälder”, ett alternativ till<br>familjehemsplacering | 2025-00604 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att det redan finns insatser utifrån<br>barnets bästa som utgör ett alternativ till<br>familjehemsplacering samt att den föreslagna<br>insatsen bedöms få liten praktisk användning. |
 
 <!-- sida 8 -->
 
@@ -153,14 +141,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Patrik Johansson
 ordförande                        kommunsekreterare
-
-[Tabell 8-1](handlingar.tabeller/8-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 29. | Svar på motion från Mats<br>Ståhlberg (KB) om anläggande<br>av hundrastgård i Kolla | 2025-00630 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att frågan om hundrastgårdar bör<br>behandlas samlat och strategiskt för hela kommunen,<br>snarare än genom beslut om en enskild anläggning<br>samt att investeringen att anlägga en hundrastgård<br>inte är något som nämnden för Teknik vill prioritera<br>just nu. |
-| 30. | Svar på motion från Carita<br>Boulwén (SD) m.fl. om<br>avskaffande av religiöst<br>motiverad<br>specialkost i förskola och skola | 2025-00457 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige bifaller motionen om att<br>avskaffa religiöst motiverad specialkost i kommunala<br>förskolor och skolor.<br>Genom att införa ett fullgott vegetariskt alternativ<br>skapas en inkluderande måltidsverksamhet som kan<br>möta olika preferenser samtidigt som<br>måltidsverksamheten kan bedrivas på ett hållbart och<br>ekonomiskt ansvarsfullt sätt. |
-| 31. | Svar på motion från Christer<br>Perfjell (KB) om att behålla<br>lokala VA-lösningar tills<br>kommunen säkrat långsiktig<br>VA-försörjning | 2025-00670 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser att motionen är besvarad<br>med hänvisning till att förutsättningarna för att<br>behålla lokala VA-lösningar redan är utredda och<br>tillämpas i den omfattning som är möjlig utifrån<br>gällande lagstiftning. |
 
 <!-- sida 9 -->
 
@@ -6276,8 +6256,8 @@ Resultatbudget; detalj 2026, ram 2027 och plan 2028 GR (tkr).
 | --- | --- | --- | --- |
 |  | Detalj 2026 | Ram 2027 | Plan 2028 |
 | Verksamhetens intäkter | 471 494 | 485 638 | 500 208 |
-| varav årsavgifter avsedda för GR:s verksamhet | 51 694 | 52 102 | 52 575 |
-| varav årsavgifter transfererade till andra regionala organisationer | 27 310 | 27 345 | 27 380 |
+| varav årsavgifter avsedda för GR:s verksamhet | 51694 | 52102 | 52575 |
+| varav årsavgifter transfererade till andra regionala organisationer | 27310 | 27345 | 27380 |
 | Verksamhetens kostnader | -476 367 | -486 646 | -498 198 |
 | Avskrivningar | -4 322 | -4 092 | -4 110 |
 | Verksamhetens nettokostnader | -9 195 | -5 100 | -2 100 |
@@ -6341,7 +6321,7 @@ Balansbudget; detalj 2026, ram 2027 och plan 2028 (tkr). samt preliminär årsav
 | II. Fordringar | 79 902 | 82 299 | 84 768 |
 | III. Kortfristiga placeringar | - | - | - |
 | IV. Kassa & Bank | 280 279 | 283 007 | 291 498 |
-| S:A TILLGÅNGAR | 416 899 | 418 593 | 426 332 |
+| S:A TILLGÅNGAR | 416899 | 418593 | 426332 |
 |  |  |  |  |
 | EGET KAPITAL, AVSÄTTNINGAR & SKULDER |  |  |  |
 | A. Eget kapital | 62 386 | 59 686 | 60 186 |
@@ -6355,7 +6335,7 @@ Balansbudget; detalj 2026, ram 2027 och plan 2028 (tkr). samt preliminär årsav
 | I. Långfristiga skulder | - | - | - |
 | II. Kortfristiga skulder | 354 513 | 358 907 | 366 146 |
 |  |  |  |  |
-| S:A EGET KAPITAL, AVSÄTTNINGAR<br>& SKULDER | 416 899 | 418 593 | 426 332 |
+| S:A EGET KAPITAL, AVSÄTTNINGAR<br>& SKULDER | 416899 | 418593 | 426332 |
 |  |  |  |  |
 | Soliditet | 15,0% | 14,3% | 14,1% |
 | Likviditet (kassalikv) | 109,7% | 110,0% | 111,1% |
@@ -16396,21 +16376,13 @@ Nej, förslaget bedöms inte bidra till att uppnå målet.
 Tabell 6. Samlad bedömning om hur de olika alternativen bidrar till måluppfyllelse av de nationella miljömålen.
 Jämförelse nollalternativ, samrådsförslag och planförslag till godkännandehandling (huvudalternativ).
 
-[Tabell 382-1](handlingar.tabeller/382-1.csv)
+[Tabell 382-384-1](handlingar.tabeller/382-384-1.csv)
 
 | Mål | Noll-<br>alternativ | Samrådsförslag<br>FÖP Väröbacka | Motivering |
 | --- | --- | --- | --- |
 | Begränsad<br>klimatverkan |  |  | För nollalternativet bedöms påverkan på målet vara<br>neutral. Planerad bebyggelse är inte anpassad till nya<br>stationsläget vilket kan bidra till behov av biltransporter till<br>stationen. I övrigt som planförslaget.<br>I arbetet med den fördjupade översiktsplanen har hänsyn<br>tagits till förväntade förhöjda havsnivåer och 100 års-regn.<br>Planen möjliggör för ett nytt stationsläge vilket bidrar till att<br>fler kan pendla med tåg. Planen möjliggör även att nya<br>gång- och cykelstråk byggs ut. Genom ovanstående bidrar<br>planförslaget positivt till måluppfyllelsen. Ny exploatering<br>har alltid en stor klimatpåverkan, framför allt under<br>byggnadsskedet, måluppfyllelsen bedöms därför<br>sammantaget bli neutral för miljömålet begränsad<br>klimatpåverkan. |
 | Frisk luft |  |  | För nollalternativet bedöms påverkan på målet vara<br>neutral.<br>Planförslaget möjliggör ett nytt stationsläge för tåg i<br>Väröbacka vilket underlättar arbetspendling med tåg till<br>och från orten. Om fler väljer tåg i stället för bil bidrar |
-
-<!-- sida 383 -->
-
-90
-
-[Tabell 383-1](handlingar.tabeller/383-1.csv)
-
 |  |  |  | planförslaget till minskade utsläpp från vägtrafik, som är<br>en stor källa till luftföroreningar, framför allt i tätorter.<br>Genom planförslaget utökas gång- och cykelvägar i<br>området vilket också är positiv för måluppfyllelsen om fler<br>kan välja att gå och cykla i stället för att ta bilen i området. |
-| --- | --- | --- | --- |
 | Giftfri miljö |  |  | Lika bedömning nollalternativ och planförslag.<br>I planområdet finns fyra konstaterade förorenade områden<br>med riskklass 3. Eventuellt finns förorenad mark vid<br>ytterligare verksamheter; 2 verkstadsindustri, sågverk,<br>bilvårdsanläggning, betong och cementindustri,<br>mellanlagring och sorteringsstation avfall samt en<br>skjutbana.<br>Vid exploatering hanteras förorenad mark i detaljplan<br>alternativt bygglov så att riktvärden uppnås.<br>Efterbehandling av förorenad mark för att kunna bygga<br>behövs på flera platser vilket minskar föroreningarna i<br>området. |
 | Ingen övergödning |  |  | Lika bedömning nollalternativ och planförslag.<br>I kommande detaljplaner för både nollalternativ kommer<br>MKN vatten att behöva hanteras. Bedömningen av<br>påverkan på måluppfyllnad blir därför lika. I planförslaget<br>har det tagits ett mer helhetsgrepp för hanteringen av<br>dagvatten vilket är positivt.<br>Om jordbruksmark tas i anspråk minskar besprutningen<br>och övergödningen vilket kan påverka vattenmiljön. |
 | Levande sjöar och<br>vattendrag |  |  | Lika bedömning nollalternativ och planförslag.<br>En väl planerad dagvatten- och avloppshantering kommer<br>bidra till uppfyllelse av målet. |
@@ -16418,6 +16390,12 @@ Jämförelse nollalternativ, samrådsförslag och planförslag till godkännande
 | Hav i balans samt<br>levande kust och<br>skärgård |  |  | Lika bedömning nollalternativ och planförslag.<br>En väl planerad dagvatten- och avloppshantering kommer<br>bidra till uppfyllelse av målet. |
 | Myllrande<br>våtmarker |  |  | I nollalternativet finns inga områden för natur planlagda.<br>I planförslaget kommer befintliga dammar att planläggas<br>som natur. Flera dagvattendammar kommer att anläggas<br>och flera av dem ska utformas också för att gynna den<br>biologiska mångfalden där det är möjligt. |
 | Ett rikt<br>odlingslandskap |  |  | Nollalternativet innebär att FÖP norra kusten genomförs<br>och att ytor av jordbruksmark tas i anspråk vilket bedöms<br>vara negativt för måluppfyllelsen.<br>Planförslaget innebär att odlingsbar jordbruksmark tas i<br>anspråk för en utveckling av samhället. En<br>lokaliseringsutredning har gjorts där det alternativ som nu<br>presenteras är det som tar minst jordbruksmark i anspråk.<br>Planförslaget innebär en utveckling med infrastruktur,<br>bostäder, verksamheter och skolverksamheter som utgör<br>ett väsentligt samhällsintresse. Planförslaget bidrar<br>måttligt negativt till måluppfyllelsen. |
+| God bebyggd miljö |  |  | Planförslaget möjliggör för en sammanhållen utveckling av<br>samhället med ett nytt stationsläge, nya bostäder,<br>kontorsplatser, skola, serviceboenden, parker, fler gång-<br>och cykelvägar samt nya centrala mötesplatser och<br>aktivitetsytor. Nya gång och cykelstråk gynnar<br>upplevelsevärden och ökar trygghetskänslan. Ny<br>bebyggelse mellan Väröbacka och Limabacka ökar<br>förbindelsen och tillgängligheten och samhörigheten<br>mellan samhällena. Vid utformning av bostäder och<br>arbetsplatser i nära anslutning till väg och järnväg är det<br>viktigt att de utformas med hänsyn till buller för att skapa<br>en god bebyggd miljö. |
+| Ett rikt växt- och<br>djurliv |  |  | I nollalternativet är ingen natur planlagd.<br>I planförslaget är ställningstagandet att de ekologiska<br>sambanden ska stärkas. I planförslaget bevaras de flesta<br>naturområdena, parker och grönstruktur för att gynna den<br>gröna infrastrukturen planeras vilket är positivt. Mark tas i<br>anspråk och bebyggs när planen förverkligas vilket medför<br>att det även medför en negativ påverkan på naturvärden.<br>Påverkan på skyddade arter bedöms i senare skede,<br>kompletterade artutredningar kommer sannolikt att<br>behövas. |
+
+<!-- sida 383 -->
+
+90
 
 <!-- sida 384 -->
 
@@ -16454,12 +16432,6 @@ som behöver göras enligt fastställda åtgärdsprogram.
 Prövning av ny bebyggelse gentemot MKN sker i detaljplaneskedet. En detaljplan får inte
 antas om dess genomförande skulle medverka till att en miljökvalitetsnorm inte följs
 (Naturvårdsverket, 2019). I kapitlet för vatten, kapitel 6.5, görs en bedömning om MKN
-
-[Tabell 384-1](handlingar.tabeller/384-1.csv)
-
-| God bebyggd miljö |  |  | Planförslaget möjliggör för en sammanhållen utveckling av<br>samhället med ett nytt stationsläge, nya bostäder,<br>kontorsplatser, skola, serviceboenden, parker, fler gång-<br>och cykelvägar samt nya centrala mötesplatser och<br>aktivitetsytor. Nya gång och cykelstråk gynnar<br>upplevelsevärden och ökar trygghetskänslan. Ny<br>bebyggelse mellan Väröbacka och Limabacka ökar<br>förbindelsen och tillgängligheten och samhörigheten<br>mellan samhällena. Vid utformning av bostäder och<br>arbetsplatser i nära anslutning till väg och järnväg är det<br>viktigt att de utformas med hänsyn till buller för att skapa<br>en god bebyggd miljö. |
-| --- | --- | --- | --- |
-| Ett rikt växt- och<br>djurliv |  |  | I nollalternativet är ingen natur planlagd.<br>I planförslaget är ställningstagandet att de ekologiska<br>sambanden ska stärkas. I planförslaget bevaras de flesta<br>naturområdena, parker och grönstruktur för att gynna den<br>gröna infrastrukturen planeras vilket är positivt. Mark tas i<br>anspråk och bebyggs när planen förverkligas vilket medför<br>att det även medför en negativ påverkan på naturvärden.<br>Påverkan på skyddade arter bedöms i senare skede,<br>kompletterade artutredningar kommer sannolikt att<br>behövas. |
 
 <!-- sida 385 -->
 
@@ -18169,7 +18141,7 @@ landet  2021–2035
 
 I Nationell strategi för hållbar regional utveckling i hela landet 2021–
 
-2035 identifierar regeringen likvärdiga möjligheter till boende, arbete,
+2035identifierar regeringen likvärdiga möjligheter till boende, arbete,
 
 och välfärd i hela landet som ett av fyra strategiska områden. God
 tillgång till kommersiell och offentlig service är en av de utpekade
@@ -18447,7 +18419,7 @@ kontantuttag.
 
 Tillväxtverkets (2024) rapport Tillgänglighet till grundläggande
 
-kommersiell service 2024 bedömer det svårt att avgöra huruvida
+kommersiell service 2024bedömer det svårt att avgöra huruvida
 obemannade  butiker kommer slå igenom i större skala över hela
 
 landet. Det konstateras dock att obemannade butiker utgör ett
@@ -20372,7 +20344,7 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2025-04-05 | 11 kap 1 § SoL kontaktperson | Personalrelaterade skäl. |
 | 2025-07-04 | 11 kap 1 § SoL kontaktperson | Personalrelaterade skäl. |
 
-[Tabell 480-2](handlingar.tabeller/480-2.csv)
+[Tabell 480-481-2](handlingar.tabeller/480-481-2.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
@@ -20380,6 +20352,8 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2024-10-16 | 11 kap 1 § SoL,<br>öppenvårdsverksamhet | Saknar plats | Avslutat 2026-01-09.<br>Behovet tillgodoses<br>genom annan insats. |
 | 2025-05-28 | 11 kap 1 § SoL<br>öppenvårdsverksamhet | Saknar plats | Avslutat 2025-12-05.<br>Insatsen önskas inte<br>längre. |
 | 2025-07-01 | 11 kap 1 § SoL<br>kontaktfamilj | Rekryteringsbekymmer, finns<br>ingen kontaktfamilj som<br>matchar behovet. | Avslutat 2026-01-19.<br>Insatsen önskas inte<br>längre. |
+| 2025-07-15 | 11 kap 1 § SoL<br>öppenvårdsverksamhet | Saknar plats | Verkställt 2026-01-12. |
+| 2025-07-15 | 11 kap 1 § SoL<br>öppenvårdsverksamhet | Saknar plats | Verkställt 2026-01-26. |
 
 <!-- sida 481 -->
 
@@ -20390,14 +20364,7 @@ Ej verkställda beslut, funktionsstödsenheten, enligt 9 § och rapportering enl
 och service till vissa funktionshindrade, LSS, samt enligt 11 kap 1 § och rapportering enligt 34 kap 1-3
 §§ socialtjänstlagen, SoL
 
-[Tabell 481-1](handlingar.tabeller/481-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
-| 2025-07-15 | 11 kap 1 § SoL<br>öppenvårdsverksamhet | Saknar plats | Verkställt 2026-01-12. |
-| 2025-07-15 | 11 kap 1 § SoL<br>öppenvårdsverksamhet | Saknar plats | Verkställt 2026-01-26. |
-
-[Tabell 481-2](handlingar.tabeller/481-2.csv)
+[Tabell 481-485-1](handlingar.tabeller/481-485-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
@@ -20410,16 +20377,6 @@ och service till vissa funktionshindrade, LSS, samt enligt 11 kap 1 § och rappo
 | 2025-10-10 | 11 kap 1 § SoL, bostad | Saknar plats. Planering pågår, kommer få erbjudande<br>om plats på boende under februari. |
 | 2025-07-01 | 9 § 4 LSS, kontaktperson | Den enskilde medverkar inte till verkställighet.<br>Rekrytering pågår. Den enskilde vill avvakta med<br>uppstart. |
 | 2025-08-27 | 9 § 4 LSS, kontaktperson | Personalrelaterade skäl. Rekrytering pågår. |
-
-<!-- sida 482 -->
-
-KUNGSBACKA  KOMMUN
-4 (8)
-
-[Tabell 482-1](handlingar.tabeller/482-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2025-02-24 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, arbetsmiljöproblem relaterade<br>till den enskilde. Har blivit erbjuden anpassad<br>verkställighet som den enskilde tackat nej till.<br>Planerad uppstart januari 2026. |
 | 2025-06-01 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, hälsoproblem hos den<br>enskilde. |
 | 2025-06-01 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet. Den enskilde vill pausa<br>insatsen. Verksamheten har kontinuerlig kontakt. |
@@ -20433,16 +20390,6 @@ KUNGSBACKA  KOMMUN
 | 2025-10-08 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Den enskilde har specifika önskemål. Uppstart<br>planerad till februari 2026. |
 | 2025-10-19 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. |
 | 2024-10-17 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. Tackat nej till erbjudande om köpt plats.<br>Tacket nej till erbjudande 2025-05 pga för långt från<br>centrum. Planering pågår. |
-
-<!-- sida 483 -->
-
-KUNGSBACKA  KOMMUN
-5 (8)
-
-[Tabell 483-1](handlingar.tabeller/483-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2025-01-14 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Saknar plats. Tackat nej till erbjudande i 2025-11. Har<br>specifika önskemål om boende. |
 | 2025-03-12 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Saknar plats. Planering pågår. Fått erbjudande om köpt<br>plats. Tackat nej till erbjudande 2025-11. Planering<br>pågår. |
 | 2025-03-14 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Tackat nej till erbjudande 2025-03-25. Ny planering<br>pågår. |
@@ -20456,16 +20403,6 @@ KUNGSBACKA  KOMMUN
 | 2024-09-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2024-12-06 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2025-02-20 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde valde att avsluta<br>sin sysselsättning pga mående och miljö. Återkommer<br>när den enskilde vill återuppta insatsen igen. |
-
-<!-- sida 484 -->
-
-KUNGSBACKA  KOMMUN
-6 (8)
-
-[Tabell 484-1](handlingar.tabeller/484-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2025-03-07 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Samverkan pågår. Den<br>enskilde har andra önskemål om verkställighet. Fått<br>erbjudande om 2 nya verksamheter men inte svarat på<br>introduktion. Planering pågår. |
 | 2025-03-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. Den enskilde har specifika önskemål. |
 | 2025-03-19 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet pga mående och förändringar i<br>verksamheten. Har deltagit vid ett tillfälle under<br>hösten, motiveringsarbete pågår. |
@@ -20478,6 +20415,22 @@ KUNGSBACKA  KOMMUN
 | 2025-09-09 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. Kontakt och planering pågår för att<br>motivera den enskilde. |
 | 2025-09-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet pga hälsotillstånd. |
 | 2025-10-08 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde har specifika önskemål. Tackat nej till<br>erbjudande. Fortsatt planering pågår. |
+| 2025-10-21 | 9 § 10 LSS, daglig<br>verksamhet | Saknar plats. Tackat ja till uppstart, planering pågår. |
+
+<!-- sida 482 -->
+
+KUNGSBACKA  KOMMUN
+4 (8)
+
+<!-- sida 483 -->
+
+KUNGSBACKA  KOMMUN
+5 (8)
+
+<!-- sida 484 -->
+
+KUNGSBACKA  KOMMUN
+6 (8)
 
 <!-- sida 485 -->
 
@@ -20486,13 +20439,7 @@ KUNGSBACKA  KOMMUN
 
 Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
 
-[Tabell 485-1](handlingar.tabeller/485-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
-| 2025-10-21 | 9 § 10 LSS, daglig<br>verksamhet | Saknar plats. Tackat ja till uppstart, planering pågår. |
-
-[Tabell 485-2](handlingar.tabeller/485-2.csv)
+[Tabell 485-486-1](handlingar.tabeller/485-486-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
@@ -20504,6 +20451,12 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2025-06-26 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Avbrott i verkställighet. Den<br>enskilde vill inte ha insatsen. | Avslutat 2025-11-07. |
 | 2024-09-24 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. Den enskilde bor<br>på boende i annan kommun.<br>Tackat nej till erbjudande 2025-<br>03-26 då boendet inte var<br>centralt. | Verkställt 2026-01-02. |
 | 2024-10-02 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. Tackat nej till<br>erbjudande 2025-04-11 då<br>boendet inte matchar behoven. | Verkställt 2026-01-20. |
+| 2024-11-29 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. Arbete med att<br>hitta lämpligt boende pågår. | Verkställt 2026-01-19. |
+| 2025-01-13 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. | Verkställt 2026-01-22. |
+| 2025-03-21 | 9 § 9 LSS, bostad för<br>vuxna | Saknar plats, planering pågår. | Verkställt 2026-01-01. |
+| 2025-04-22 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. | Verkställt 2026-01-19. |
+| 2022-12-31 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. Insatsen är<br>pausad. Den enskilde har flyttat<br>in på BmSS och vill landa innan<br>uppstart av daglig verksamhet. | Avslutat 2025-10-31.<br>Avslutat på egen<br>begäran. |
+| 2025-02-18 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde medverkar inte till<br>verkställighet. Har kontinuerlig<br>kontakt via telefon. Den<br>enskilde avbokar möten. Den<br>enskilde är tveksam till insatsen. | Avslutat 2026-01-16.<br>Avslutat på egen<br>begäran. |
 
 <!-- sida 486 -->
 
@@ -20514,17 +20467,6 @@ Inom vuxenenheten och familjehemsenheten finns inga ej verkställda beslut under
 
 Märta Lycken                  Renate Rondolph
 Tf. förvaltningschef          Verksamhetschef
-
-[Tabell 486-1](handlingar.tabeller/486-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
-| 2024-11-29 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. Arbete med att<br>hitta lämpligt boende pågår. | Verkställt 2026-01-19. |
-| 2025-01-13 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. | Verkställt 2026-01-22. |
-| 2025-03-21 | 9 § 9 LSS, bostad för<br>vuxna | Saknar plats, planering pågår. | Verkställt 2026-01-01. |
-| 2025-04-22 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. | Verkställt 2026-01-19. |
-| 2022-12-31 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. Insatsen är<br>pausad. Den enskilde har flyttat<br>in på BmSS och vill landa innan<br>uppstart av daglig verksamhet. | Avslutat 2025-10-31.<br>Avslutat på egen<br>begäran. |
-| 2025-02-18 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde medverkar inte till<br>verkställighet. Har kontinuerlig<br>kontakt via telefon. Den<br>enskilde avbokar möten. Den<br>enskilde är tveksam till insatsen. | Avslutat 2026-01-16.<br>Avslutat på egen<br>begäran. |
 
 <!-- sida 487 -->
 
@@ -20656,7 +20598,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (4)
 
-[Tabell 490-1](handlingar.tabeller/490-1.csv)
+[Tabell 490-491-1](handlingar.tabeller/490-491-1.csv)
 
 | 2025-07-08 | Särskilt boende | Tackat nej till erbjudande (U) |
 | --- | --- | --- |
@@ -20698,6 +20640,8 @@ KUNGSBACKA  KOMMUN
 | 2025-09-24 | Särskilt boende | Platsbrist |
 | 2025-09-24 | Särskilt boende | Platsbrist |
 | 2025-09-26 | Särskilt boende | Platsbrist |
+| 2025-09-30 | Särskilt boende | Platsbrist |
+| 2025-10-01 | Särskilt boende | Platsbrist |
 
 <!-- sida 491 -->
 
@@ -20710,12 +20654,6 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 
 [Tabell 491-1](handlingar.tabeller/491-1.csv)
 
-| 2025-09-30 | Särskilt boende | Platsbrist |
-| --- | --- | --- |
-| 2025-10-01 | Särskilt boende | Platsbrist |
-
-[Tabell 491-2](handlingar.tabeller/491-2.csv)
-
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
 | 2025-06-12 | Särskilt boende | Avliden 2025-10-09 |
@@ -20723,7 +20661,7 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 2025-08-06 | Särskilt boende | Återtag 2025-12-03 (U) |
 | 2025-08-29 | Särskilt boende | Avliden 2025-12-25 |
 
-[Tabell 491-3](handlingar.tabeller/491-3.csv)
+[Tabell 491-492-2](handlingar.tabeller/491-492-2.csv)
 
 | Beslutsdatum | Insats | Datum för verkställighet, avslut |
 | --- | --- | --- |
@@ -20747,6 +20685,12 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 2025-06-09 | Särskilt boende | Verkställt 2025-10-31 |
 | 2025-06-10 | Särskilt boende | Verkställt 2025-12-20 (U) |
 | 2025-06-19 | Särskilt boende | Verkställt 2025-10-17 |
+| 2025-06-19 | Särskilt boende | Verkställt 2025-11-27 (U) |
+| 2025-06-19 | Särskilt boende | Verkställt 2025-11-27 (U) |
+| 2025-06-27 | Särskilt boende | Verkställt 2025-12-29 |
+| 2025-07-01 | Särskilt boende | Verkställt 2025-11-10 |
+| 2025-05-23 | Växelvård | Verkställt 2025-11-04 |
+| 2025-06-17 | Växelvård | Tackat nej, återtag 2025-11-21 |
 
 <!-- sida 492 -->
 
@@ -20755,16 +20699,6 @@ KUNGSBACKA  KOMMUN
 
 Arian Faily                   Ann-Helen Svensson
 Förvaltningschef              Verksamhetschef
-
-[Tabell 492-1](handlingar.tabeller/492-1.csv)
-
-| 2025-06-19 | Särskilt boende | Verkställt 2025-11-27 (U) |
-| --- | --- | --- |
-| 2025-06-19 | Särskilt boende | Verkställt 2025-11-27 (U) |
-| 2025-06-27 | Särskilt boende | Verkställt 2025-12-29 |
-| 2025-07-01 | Särskilt boende | Verkställt 2025-11-10 |
-| 2025-05-23 | Växelvård | Verkställt 2025-11-04 |
-| 2025-06-17 | Växelvård | Tackat nej, återtag 2025-11-21 |
 
 <!-- sida 493 -->
 
@@ -21129,11 +21063,6 @@ KUNGSBACKA  KOMMUN
 
 Resultatfonder
 
-Nämnd/Styrelse Belopp i UB 2025 Bokslut Nämndens Förslag Förslag IB 2026
-tusentals kronor         2025     begäran
-
-Arbetsmarknad
-
 Nämndernas inlämnade förslag innebär en ökning av resultatfonderna med 66 059 000 kronor. Efter
 genomgång föreslås ökningen bli 88 162 000 kronor. Nämndernas ingående resultatfonder 2025 uppgår
 till 507 399 000 kronor. Efter förslag till resultathantering uppgår nämndernas totala resultatfonder
@@ -21144,22 +21073,17 @@ I samband med bokslutet för 2025 finns pågående projekt som fortsätter 2026.
 omfördela dessa från anslaget för oförutsett, som finns avsatt med olika belopp hos kommunstyrelsen
 och kommunfullmäktige.
 
-Belopp i tusentals Nämndernas Förslag till
-kronor               begäran kommunfullmäktige
-
 [Tabell 501-1](handlingar.tabeller/501-1.csv)
 
-| Kommunfullmäktige | 0 | 207 | 0 | 0 | 0 |
+| Nämnd/Styrelse Belopp i tusentals kronor | UB 2025 | Bokslut 2025 | Nämndens begäran | Förslag | Förslag IB 2026 |
 | --- | --- | --- | --- | --- | --- |
+| Kommunfullmäktige | 0 | 207 | 0 | 0 | 0 |
 | Kommunstyrelsen | 0 | 16 523 | 0 | 0 | 0 |
 | Kommunrevision | 0 | 294 | 0 | 0 | 0 |
 | Valnämnden | 0 | 41 | 0 | 0 | 0 |
 | Gymnasium & | 77 300 | 1 800 | 300 | 300 | 77 600 |
-
-[Tabell 501-2](handlingar.tabeller/501-2.csv)
-
+| Arbetsmarknad |  |  |  |  |  |
 | Kultur & Fritid | 29 615 | 1 494 | 201 | 201 | 29 816 |
-| --- | --- | --- | --- | --- | --- |
 | Förskola & Grundskola | 125 705 | 19 408 | 19 408 | 19 047 | 144 752 |
 | Teknik Skatt | 4 528 | 5 977 | 5 977 | 460 | 4 988 |
 | Miljö & Hälsoskydd | 0 | 108 | 0 | 0 | 0 |
@@ -21171,10 +21095,11 @@ kronor               begäran kommunfullmäktige
 | Finans | 11 266 | 200 239 | 0 | 0 | 11 266 |
 | Totalt | 507 399 | 343 645 | 66 059 | 88 162 | 595 561 |
 
-[Tabell 501-3](handlingar.tabeller/501-3.csv)
+[Tabell 501-2](handlingar.tabeller/501-2.csv)
 
-| Service | 48 847 | 18 357 |
+| Belopp i tusentals kronor | Nämndernas begäran | Förslag till kommunfullmäktige |
 | --- | --- | --- |
+| Service | 48 847 | 18 357 |
 | Kultur & Fritid | 640 | 0 |
 | KS lokalplan | 1 260 | 1 260 |
 | Summa | 50 747 | 19 617 |
@@ -21322,10 +21247,10 @@ Löpande årliga investeringar 68 855 4 500 - - 4 500   68 855  -
 Övriga och reinvesteringar 156 600 100 146 - 4 000 3 500 260 246 - 4 000
 Lokaler           199 580 210 403    - - 117 580 37 000 292 403 37 000
 Avgiftsfinansierad verksamhet 918 650 38 123 - - 37 622 37 622 919 151 37 622
-Delsumma     1 343 685 353 172 - 4 000 - 156 202 74 622 1 540 655 7 0 622
+Delsumma     1 343 685 353 172 - 4 000 - 156 202 74 622 1 540 655 70 622
 Exploateringsinvesteringar och
 omsättningstillgångar 128 362 - 37 469 -    -         90 893  -
-SUMMA       1 472 047 315 703 - 4 000 - 156 202 74 622 1 631 548 7 0 622
+SUMMA       1 472 047 315 703 - 4 000 - 156 202 74 622 1 631 548 70 622
 159 501 70 622             1 631 548
 1 631 548 - 4 000
 Ombudget förslag:          2026    2027 2026-2027
@@ -21349,10 +21274,10 @@ Löpande årliga investeringar 68 855 4 500 - - 4 500   68 855  -
 Övriga och reinvesteringar 156 600 100 146 - 4 000 3 500 260 246 - 4 000
 Lokaler           199 580 210 403    - - 117 580 37 000 292 403 37 000
 Avgiftsfinansierad verksamhet 918 650 38 123 - - 37 622 37 622 919 151 37 622
-Delsumma     1 343 685 353 172 - 4 000 - 156 202 74 622 1 540 655 7 0 622
+Delsumma     1 343 685 353 172 - 4 000 - 156 202 74 622 1 540 655 70 622
 Exploateringsinvesteringar och
 omsättningstillgångar 128 362 - 37 469                90 893  -
-SUMMA       1 472 047 315 703 - 4 000 - 156 202 74 622 1 631 548 7 0 622
+SUMMA       1 472 047 315 703 - 4 000 - 156 202 74 622 1 631 548 70 622
 Ombudget förslag:          2025    2026 2025-2026
 Totalt förslag från nämnderna 315 703 -4 000 311 703
 Förslag till kommunfullmäktige 159 501 70 622 230 123
@@ -21389,26 +21314,21 @@ Löpande investeringar ombudgeteras ej enligt gällande ekonomistryrprinciper
 
 <!-- sida 508 -->
 
-Förändring
-gentemot Summa ny  Förslag
-nämndernas budget förändring ny
-förslag 2027 2026 budget 2027
-
-```osaker-tabell
-     15 000       0
-      3 900       0
-      7 150       0
-
-      2 500       0
-       255        0
-     24 400       0
-      6 000       0
-      9 650       0
-
-0    68 855       0
-```
-
 68 855 kontrollsumma 2025
+
+[Tabell 508-1](handlingar.tabeller/508-1.csv)
+
+| Förändring<br>gentemot<br>nämndernas<br>förslag 2027 | Summa ny<br>budget<br>2026 | Förslag<br>förändring ny<br>budget 2027 |
+| --- | --- | --- |
+|  | 15 000 | 0 |
+|  | 3 900 | 0 |
+|  | 7 150 | 0 |
+|  | 2 500 | 0 |
+|  | 255 | 0 |
+|  | 24 400 | 0 |
+|  | 6 000 | 0 |
+|  | 9 650 | 0 |
+| 0 | 68 855 | 0 |
 
 <!-- sida 509 -->
 
@@ -21481,17 +21401,17 @@ förslag till
 Budget   ombudget
 2026       2026
 
-Summa BM                          2 650
+[Tabell 510-1](handlingar.tabeller/510-1.csv)
 
-Kultur & Fritid
-KF budgetram 2026                12 000     19 748
-Summa Kultur & Fritid            12 000     19 748
-
-KS Finans
-KF budgetram 2026                60 500
-Summa KS Finans                  60 500
-
-SUMMA                            156 600   100 146
+| Summa BM | 2 650 |  |
+| --- | --- | --- |
+| Kultur & Fritid |  |  |
+| KF budgetram 2026 | 12 000 | 19 748 |
+| Summa Kultur & Fritid | 12 000 | 19 748 |
+| KS Finans |  |  |
+| KF budgetram 2026 | 60 500 |  |
+| Summa KS Finans | 60 500 |  |
+| SUMMA | 156 600 | 100 146 |
 
 <!-- sida 511 -->
 
@@ -21595,14 +21515,16 @@ Budget ombudget  ombudget
 2026    2026      2027
 Kungsbacka bredband
 TE-Br    8514 Kungsbacka Landsbygg                     501
-Enligt KF budgetram 2025          22 000
-Summa bredband                    22 000      501        0
 
-Avfall & Återvinning
-Enligt KF budgetram 2025          65 000
-Summa Avfall & Återvinning        65 000       0         0
+[Tabell 518-1](handlingar.tabeller/518-1.csv)
 
-SUMMA                             918 650   38 123       0
+| Enligt KF budgetram 2025 | 22 000 |  |  |
+| --- | --- | --- | --- |
+| Summa bredband | 22 000 | 501 | 0 |
+| Avfall & Återvinning |  |  |  |
+| Enligt KF budgetram 2025 | 65 000 |  |  |
+| Summa Avfall & Återvinning | 65 000 | 0 | 0 |
+| SUMMA | 918 650 | 38 123 | 0 |
 
 <!-- sida 519 -->
 
@@ -21769,14 +21691,14 @@ Exploateringar
 
 OMPLANERING
 Belopp i Tkr
-Budget   Förslag till Summa Ny
-2026 omplanering 2026 budget 2026
 
-```osaker-tabell
-Inkomster         0           0            0
-Utgifter      128 362      -37 469     90 893
-              128 362      -37 469     90 893
-```
+[Tabell 525-1](handlingar.tabeller/525-1.csv)
+
+|  | Budget<br>2026 | Förslag till<br>omplanering 2026 | Summa Ny<br>budget 2026 |
+| --- | --- | --- | --- |
+| Inkomster | 0 | 0 | 0 |
+| Utgifter | 128 362 | -37 469 | 90 893 |
+|  | 128 362 | -37 469 | 90 893 |
 
 <!-- sida 526 -->
 
@@ -22043,12 +21965,6 @@ Skattefinansierade verksamheter:
 
 71 Miljö och hälsoskydd             ej res.fond
 
-Affärsdrivande verksamheter (fakt. utfall):
-
-53 Avfall och återvinning
-Finansförvaltning övrigt              156 739   15 674
-Totalt                              8 155 347  815 535
-
 [Tabell 527-1](handlingar.tabeller/527-1.csv)
 
 | 10 Kommunfullmäktige | 0 | 207 | 0 | 0 | 0 |
@@ -22084,13 +22000,13 @@ Totalt                              8 155 347  815 535
 | 81 Individ & Familjeomsorg | 880 370 | 88 037 |
 | 85 Vård & omsorg | 1 382 336 | 138 234 |
 | Summa skattefinansierat | 6 430 191 | 643 019 |
-
-[Tabell 527-4](handlingar.tabeller/527-4.csv)
-
+| Affärsdrivande verksamheter (fakt. utfall): |  |  |
 | 60 Service | 594 662 | 59 466 |
-| --- | --- | --- |
 | 63 SE Fastigheter | 973 755 | 97 376 |
 | Summa affärsdrivande | 1 568 417 | 156 842 |
+| 53 Avfall och återvinning |  |  |
+| Finansförvaltning övrigt | 156 739 | 15 674 |
+| Totalt | 8 155 347 | 815 535 |
 
 <!-- sida 528 -->
 
@@ -23714,7 +23630,7 @@ Förkortningar: PP = Pendelparkering, KM = Kvartersmark, AP = Allmän plats
 | Hammerö | KUNGSBACKA 5:4, AP |
 | Fors | FORS 1:337, KM |
 
-[Tabell 572-2](handlingar.tabeller/572-2.csv)
+[Tabell 572-573-2](handlingar.tabeller/572-573-2.csv)
 
 | Ellevio |  |
 | --- | --- |
@@ -23733,15 +23649,7 @@ Förkortningar: PP = Pendelparkering, KM = Kvartersmark, AP = Allmän plats
 | Särö centrumväg, Särö centrum | NÖTEGÅNG 1:91, KM |
 | Snipens PP | SPÅRHAGA 1:5, AP |
 | Bolshedens PP | BOLSHEDEN 1:2, AP |
-
-<!-- sida 573 -->
-
-24
-
-[Tabell 573-1](handlingar.tabeller/573-1.csv)
-
 |  |  |
-| --- | --- |
 | Vallda | Anläggnings ID |
 | Smarholmsvägen | BUERA 1:11, KM |
 | Motionsvägen | VALLDA 45:2, KM |
@@ -23762,6 +23670,10 @@ Förkortningar: PP = Pendelparkering, KM = Kvartersmark, AP = Allmän plats
 | Frillesås | Anläggnings ID |
 | Frillesås PP, Frillesåsv | FRILLESÅS-RYA 2:1, AP |
 | Frillesås PP, Almedalsv | ALMEDAL 1,5, AP |
+
+<!-- sida 573 -->
+
+24
 
 <!-- sida 574 -->
 

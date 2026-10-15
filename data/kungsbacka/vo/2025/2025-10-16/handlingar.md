@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2e03992c199c92193a169400/1760341527
 sha256: 5cbc5fa98610754f97d506a3595cdbc72e211c434b356590497c929bb9084325
 bytes: 13346143
 sidor: 169
-hamtad: 2026-10-08T08:36:22+00:00
-konverterad: 2026-10-08T08:37:24+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T06:28:13+00:00
+konverterad: 2026-10-15T06:29:21+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ej-konverterad, tabell-osaker, tabell-osaker, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ej-konverterad, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ocr, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ej-konverterad, tabell-osaker, tabell-osaker, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ej-konverterad, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [1, 2, 3, 4, 5, 6, 8, 9, 106, 109, 110, 111, 112, 116, 117, 137, 138, 141, 144, 145, 146, 147, 148, 152, 153, 154, 157]
-figurer: null
-tolkade: null
+figurer: [1, 2, 3, 4, 5, 6, 7, 8, 9, 15, 61, 68, 70, 71, 75, 80, 81, 84, 89, 90, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 122, 128, 129, 130, 131, 134, 137, 138, 139, 140, 141, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 154, 155, 156, 157, 159, 160]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -3825,7 +3825,7 @@ Vård & Omsorg, God och Nära vård, delår 2025               3(13)
 | Kompetenshöjande insatser: Hälsofrämjande och<br>förebyggande arbete | Hänvisning till kapitel Hälsofrämjande i denna rapport |
 | Komma i görande med förändrade arbetssätt:<br>Indikatorer --> Dialog --> Gemensamt ta fram<br>aktiviteter --> Följa upp. Hålla i och hålla ut | Se nedan gällande indikatorer samt avsnitt gällande<br>kompetenshöjande insatser |
 
-[Tabell 95-2](handlingar.tabeller/95-2.csv)
+[Tabell 95-96-2](handlingar.tabeller/95-96-2.csv)
 
 | Vad? | Status |
 | --- | --- |
@@ -3836,6 +3836,8 @@ Vård & Omsorg, God och Nära vård, delår 2025               3(13)
 | Nämnden för Vård & Omsorg säkerställer en tydlig<br>styrning med en gemensam inriktning och uppföljning<br>som mäter rörelsen till en god och nära vård. | Fr.o.m Q2 2025 redovisas Hallandsövergripande<br>indikatorer kopplade till God och Nära vård årligen till<br>RUG och delges Nämnden för Vård & Omsorg via<br>inkommen skrivelse |
 |  | Instruktion för rapportering skapad |
 |  | Gällande lokala indikatorer - se nedan |
+| Nämnden för Vård & Omsorg fortsätter arbetet för<br>ökad kontinuitet och personcentrerad vård inom<br>primärvården. | Åtgärd genomförs via beslutade nämndmål (antal<br>personal som en hemtjänstmottagare möter under 14<br>dagar samt andel medarbetare som väljer att avsluta<br>sin anställning) och kommunfullmäktiges direktiv<br>kopplat till innovation och omställning till nya<br>arbetssätt. |
+|  | Dialog pågår om att inkludera instrument som mäter<br>vårdtagarnas upplevelse av personcentrerad vård i<br>kommande hemsjukvårdsenkät |
 
 <!-- sida 96 -->
 
@@ -3882,13 +3884,6 @@ Distrikt Norr har vidareutvecklat sitt rehabiliterande förhållningssätt, där
 används som ett centralt verktyg för att dokumentera och följa upp individens förmåga.
 
 Vård & Omsorg, God och Nära vård, delår 2025               4(13)
-
-[Tabell 96-1](handlingar.tabeller/96-1.csv)
-
-| Vad? | Status |
-| --- | --- |
-| Nämnden för Vård & Omsorg fortsätter arbetet för<br>ökad kontinuitet och personcentrerad vård inom<br>primärvården. | Åtgärd genomförs via beslutade nämndmål (antal<br>personal som en hemtjänstmottagare möter under 14<br>dagar samt andel medarbetare som väljer att avsluta<br>sin anställning) och kommunfullmäktiges direktiv<br>kopplat till innovation och omställning till nya<br>arbetssätt. |
-|  | Dialog pågår om att inkludera instrument som mäter<br>vårdtagarnas upplevelse av personcentrerad vård i<br>kommande hemsjukvårdsenkät |
 
 <!-- sida 97 -->
 
@@ -4261,12 +4256,34 @@ Egen undersökning Hemsjukvårdsenkät planeras genomföras hösten 2025
 
 Vård & Omsorg, God och Nära vård, delår 2025              11(13)
 
-[Tabell 103-1](handlingar.tabeller/103-1.csv)
+[Tabell 103-104-1](handlingar.tabeller/103-104-1.csv)
 
 | Kontinuitet: Antal personal som omsorgstagare i hemtjänsten möter under 14 dagar |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Medelvärde per 14 dagar. Egen regi. |  |  |  |  |  |  |
 |  | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|  | - | 17,3 | 17,9 | 19 | 18,4 | i.u |
+| Källa: Kolada, KKiK |  |  |  |  |  |  |
+| Upplevelse av att få träffa fasta kontakter vid behov eller inom rimlig tid (patientrapporterat). |  |  |  |  |  |  |
+| Andel som bedömt upplevelsen som mycket lätt eller ganska lätt alternativt alltid eller oftast. |  |  |  |  |  |  |
+|  | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| Vård och<br>Omsorgsboende | 83% | - | 74% | 81% | 77% | i.u |
+| Hemtjänst | - | - | - | - | 21% | i.u |
+| Källa: Vad tycker de äldre om äldreomsorgen (Socialstyrelsen) |  |  |  |  |  |  |
+|  |  |  | 2018 | 2020 | 2023 | 2025 |
+| Sjuksköterske-<br>verksamheten | - | - | 86% | 89% | 89% | i.u |
+| Rehabiliterande<br>verksamheten | - | - | 80% | 81% | 84% | i.u |
+| Källa: Hemsjukvårsenkät (Vård och Omsorg, Kungsbacka) |  |  |  |  |  |  |
+| Kompetens hos medarbetare: Andel inrapporterade händelser i verksamheten där orsak är brist i<br>kompetens |  |  |  |  |  |  |
+|  | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|  | - | - | - | 10,3% | 20,2% | 29% |
+| Källa: DF-respons |  |  |  |  |  |  |
+| Kompetens hos medarbetare: Tycker du att personalen har den kunskap och kompetens som behövs för<br>att göra sitt arbete? |  |  |  |  |  |  |
+| Adel som bedömt att alla eller flertalet i personalen har den kunskap och kompetens som behövs. Sammanslaget<br>egen regi och extern regi. |  |  |  |  |  |  |
+|  | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| Vård och<br>Omsorgsboende | - | - | - | - | 83% | i.u |
+| Hemtjänst | - | - | - | - | 91% | i.u |
+| Källa: Vad tycker de äldre om äldreomsorgen (Socialstyrelsen) |  |  |  |  |  |  |
 
 <!-- sida 104 -->
 
@@ -4290,32 +4307,6 @@ regelbunden uppföljning och revidering vid förändrade behov.
 I Distrikt Centrum har resultatet från undersökningen Vad tycker de äldre om äldreomsorgen
 
 Vård & Omsorg, God och Nära vård, delår 2025              12(13)
-
-[Tabell 104-1](handlingar.tabeller/104-1.csv)
-
-|  | - | 17,3 | 17,9 | 19 | 18,4 | i.u |
-| --- | --- | --- | --- | --- | --- | --- |
-| Källa: Kolada, KKiK |  |  |  |  |  |  |
-| Upplevelse av att få träffa fasta kontakter vid behov eller inom rimlig tid (patientrapporterat). |  |  |  |  |  |  |
-| Andel som bedömt upplevelsen som mycket lätt eller ganska lätt alternativt alltid eller oftast. |  |  |  |  |  |  |
-|  | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
-| Vård och<br>Omsorgsboende | 83% | - | 74% | 81% | 77% | i.u |
-| Hemtjänst | - | - | - | - | 21% | i.u |
-| Källa: Vad tycker de äldre om äldreomsorgen (Socialstyrelsen) |  |  |  |  |  |  |
-|  |  |  | 2018 | 2020 | 2023 | 2025 |
-| Sjuksköterske-<br>verksamheten | - | - | 86% | 89% | 89% | i.u |
-| Rehabiliterande<br>verksamheten | - | - | 80% | 81% | 84% | i.u |
-| Källa: Hemsjukvårsenkät (Vård och Omsorg, Kungsbacka) |  |  |  |  |  |  |
-| Kompetens hos medarbetare: Andel inrapporterade händelser i verksamheten där orsak är brist i<br>kompetens |  |  |  |  |  |  |
-|  | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
-|  | - | - | - | 10,3% | 20,2% | 29% |
-| Källa: DF-respons |  |  |  |  |  |  |
-| Kompetens hos medarbetare: Tycker du att personalen har den kunskap och kompetens som behövs för<br>att göra sitt arbete? |  |  |  |  |  |  |
-| Adel som bedömt att alla eller flertalet i personalen har den kunskap och kompetens som behövs. Sammanslaget<br>egen regi och extern regi. |  |  |  |  |  |  |
-|  | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
-| Vård och<br>Omsorgsboende | - | - | - | - | 83% | i.u |
-| Hemtjänst | - | - | - | - | 91% | i.u |
-| Källa: Vad tycker de äldre om äldreomsorgen (Socialstyrelsen) |  |  |  |  |  |  |
 
 <!-- sida 105 -->
 
@@ -4797,7 +4788,7 @@ Augusti     355   323   530   293   273   397    -62     -50    -133
 
 Antal 2024
 Antal månadsanställda vikarier, ej
-definierat hur mycket dem arbetat 60          4 9
+definierat hur mycket dem arbetat 60          49
 
 Antal vikarier enheter tackade nej till
 (olika anledningar exempelvis inte
@@ -4832,24 +4823,6 @@ tillgänglighet                                310 (cirka)
 Avhopp Vikarier                 Totalt 2024   Totalt 2025  Minskat med
 Avhopp                               122           104           -18
 
-Annonseringsstatistik (VO+IF) 2024 Antal sökande Antal anställda
-
-```osaker-tabell
-Annonsering 1                        366           90
-Annonsering 2                        454           130
-Annonsering under sommaren           399           70
-```
-
-Annonseringsstatistik (VO+IF) 2025 Antal sökande Antal anställda
-
-```osaker-tabell
-Annonsering 1                        661           181
-Annonsering 2                        496           106
-Annonsering 3                        263           42
-
-Annonsering under sommaren           406           200
-```
-
 Rekryteringsstatistiken visar hur många vikarier som förvaltningen önskade i antal medarbetare på
 scheman och hur många vikarier som Vikariecenter tillsatte. Antalen som visas är hur många vikarier
 som gick på förbokade scheman med veckor och pass på en timanställning, ej de vikarier som ville
@@ -4858,6 +4831,23 @@ sommaren.
 
 För 2025 fanns beslut om att månadsanställa på enheterna på längre vikariat i hög uträckning. Dessa är
 med i statistiken för 2025. De rekryterats via Vikariecenter och ingår i det totala behovet gällande
+
+[Tabell 124-1](handlingar.tabeller/124-1.csv)
+
+| Annonseringsstatistik (VO+IF) 2024 | Antal sökande | Antal anställda |
+| --- | --- | --- |
+| Annonsering 1 | 366 | 90 |
+| Annonsering 2 | 454 | 130 |
+| Annonsering under sommaren | 399 | 70 |
+
+[Tabell 124-2](handlingar.tabeller/124-2.csv)
+
+| Annonseringsstatistik (VO+IF) 2025 | Antal sökande | Antal anställda |
+| --- | --- | --- |
+| Annonsering 1 | 661 | 181 |
+| Annonsering 2 | 496 | 106 |
+| Annonsering 3 | 263 | 42 |
+| Annonsering under sommaren | 406 | 200 |
 
 <!-- sida 125 -->
 
@@ -4879,13 +4869,6 @@ Termin 4 - Termin 5
 sjuksköterskestudent                    4            4
 
 Annonseringsstatistik (sjuksköterskor)
-2025                           Antal sökande Antal anställda
-
-```osaker-tabell
-Annonsering 1                         16            2
-Annonsering 2                         28            4
-Specifik för T5 sjuksköterskestudent   3            0
-```
 
 Sjuksköterskor kunde inte rekryteras i den mängd som behövdes trots annonsering och rekrytering
 under våren. Det inkom ansökningar men få av dessa kunde anställas. Det kom också in ett kraftigt
@@ -4903,6 +4886,14 @@ Förflyttningsteknik
 
 •  Totalt antal utbildningsplatser: 300
 •  Inställda tillfällen: Tre (på grund av för få anmälda under vecka 24, 25)
+
+[Tabell 125-1](handlingar.tabeller/125-1.csv)
+
+| 2025 | Antal sökande | Antal anställda |
+| --- | --- | --- |
+| Annonsering 1 | 16 | 2 |
+| Annonsering 2 | 28 | 4 |
+| Specifik för T5 sjuksköterskestudent | 3 | 0 |
 
 <!-- sida 126 -->
 

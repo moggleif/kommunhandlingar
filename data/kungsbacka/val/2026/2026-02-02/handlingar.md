@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5fe7e16619c033c26982724/17695862671
 sha256: 09b8979e40ac4701cb5520e85033bd54f63d181d488d760cacac776287a90f80
 bytes: 4476522
 sidor: 54
-hamtad: 2026-10-08T08:56:15+00:00
-konverterad: 2026-10-08T08:56:44+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T06:52:21+00:00
+konverterad: 2026-10-15T06:52:43+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [40, 41]
-figurer: null
-tolkade: null
+figurer: [12]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -404,7 +404,7 @@ Ej aktuell.
 
 [Tabell 14-1](handlingar.tabeller/14-1.csv)
 
-| Verksamhet | Andel av<br>verksamhetsvolym %<br>Bokslut Bokslut<br>2024 2025 |  | Kostnad för<br>verksamhet mnkr<br>Bokslut Bokslut<br>2024 2025 |  |
+| Verksamhet | Andel av<br>verksamhetsvolym %<br>Bokslut<br>2024 | Bokslut<br>2025 | Kostnad för<br>verksamhet mnkr<br>Bokslut<br>2024 | Bokslut<br>2025 |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -647,13 +647,6 @@ I KUNGSBACKA UTVECKLAS VI HELA LIVET - INDIKATORER
 
 [Tabell 22-1](handlingar.tabeller/22-1.csv)
 
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-
-[Tabell 22-2](handlingar.tabeller/22-2.csv)
-
 | Indikator | Utvärde<br>ra A, B,<br>C | Målsättning<br>2027<br>(öka/minsk<br>a) | Kommentar nya förslag |
 | --- | --- | --- | --- |
 | Insikt, SKRs servicemätning av kommunernas<br>myndighetsutövning för företag. Nöjd-kund-index<br>utifrån sammanvägt betygsindex 0-100, för hur<br>företag i kommunen bedömer Kungsbacka<br>kommuns myndighetsutövning, vilket är en viktig<br>del av företagsklimatet. |  |  |  |
@@ -663,7 +656,7 @@ I KUNGSBACKA UTVECKLAS VI HELA LIVET - INDIKATORER
 | Företagsamhet, andel av invånare 16–74 år |  |  |  |
 | Antal nystartade företag per 1 000 invånare 16–64<br>år (etableringsfrekvens) |  |  |  |
 
-[Tabell 22-3](handlingar.tabeller/22-3.csv)
+[Tabell 22-2](handlingar.tabeller/22-2.csv)
 
 | Förslag till nya fokusområden | Ta bort fokusområden |
 | --- | --- |
@@ -672,12 +665,15 @@ I KUNGSBACKA UTVECKLAS VI HELA LIVET - INDIKATORER
 |  |  |
 |  |  |
 
-[Tabell 22-4](handlingar.tabeller/22-4.csv)
+[Tabell 22-23-3](handlingar.tabeller/22-23-3.csv)
 
 | Indikator | Utvärde<br>ra A, B,<br>C | Målsättning<br>2027<br>(öka/minsk<br>a) | Kommentar nya förslag |
 | --- | --- | --- | --- |
 | Genomsnittligt meritvärde för grundskolans i<br>årskurs 9 (hemkommun). Meritvärdet utgörs av<br>summan av de 17 bästa betygen i elevens<br>slutbetyg och kan max vara 340. |  |  |  |
 | Genomsnittlig betygspoäng gymnasieelever med<br>examen (hemkommun) som kan vara max 20. |  |  |  |
+| Arbetslöshet för ungdomar 16–24 år i kommunen.<br>(Källa: Arbetsförmedlingen och SCB) |  |  |  |
+| Andel vuxna personer som inte återkommit till<br>försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) |  |  |  |
+| Kostnad utbetalt ekonomiskt bistånd, kr/invånare<br>(Kolada) |  |  |  |
 
 <!-- sida 23 -->
 
@@ -692,13 +688,6 @@ ETT MEDSKAPANDE SAMHÄLLE OCH EN ÖPPEN ATTITYD - INDIKATORER
 
 [Tabell 23-1](handlingar.tabeller/23-1.csv)
 
-| Arbetslöshet för ungdomar 16–24 år i kommunen.<br>(Källa: Arbetsförmedlingen och SCB) |  |  |  |
-| --- | --- | --- | --- |
-| Andel vuxna personer som inte återkommit till<br>försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) |  |  |  |
-| Kostnad utbetalt ekonomiskt bistånd, kr/invånare<br>(Kolada) |  |  |  |
-
-[Tabell 23-2](handlingar.tabeller/23-2.csv)
-
 | Förslag till nya fokusområden | Ta bort fokusområden |
 | --- | --- |
 |  |  |
@@ -706,7 +695,7 @@ ETT MEDSKAPANDE SAMHÄLLE OCH EN ÖPPEN ATTITYD - INDIKATORER
 |  |  |
 |  |  |
 
-[Tabell 23-3](handlingar.tabeller/23-3.csv)
+[Tabell 23-2](handlingar.tabeller/23-2.csv)
 
 | Indikator | Utvärde<br>ra A, B,<br>C | Målsättning<br>2027<br>(öka/minsk<br>a) | Kommentar nya förslag |
 | --- | --- | --- | --- |
@@ -800,8 +789,9 @@ Ej aktuell 2025 då det är ett så kallat mellanvalsår.
 
 [Tabell 26-1](handlingar.tabeller/26-1.csv)
 
-| Utfall (miljoner kronor)<br>Intäkter | Utfall 2023<br>0 | Utfall 2024<br>2,5 | Utfall 2025<br>0,0 |
+| Utfall (miljoner kronor) | Utfall 2023 | Utfall 2024 | Utfall 2025 |
 | --- | --- | --- | --- |
+| Intäkter | 0 | 2,5 | 0,0 |
 | Kostnader | -0,3 | -4,1 | -0,3 |
 | Netto | -0,3 | -1,6 | -0,3 |
 | Budget, netto | -1,1 | -1,9 | -0,4 |
@@ -853,6 +843,12 @@ Nämndens årsredovisning 2025
 
 Drift (belopp miljoner kronor)
 
+Budgetavvike
+Uppföljningsnivå (belopp i mkr) Bokslut 2024 Budget 2025 Bokslut 2025
+lse 2025
+Valnämnden                       -1,6      -0,4       -0,3       0,1
+Summa                            -1,6      -0,4       -0,3       0,1
+
 Skillnaderna mellan åren beror på om det varit valår samt om nämnden fått mer budget än vad
 grundbehovet kräver.
 Prognossäkerhet 2025
@@ -866,12 +862,6 @@ Inga viten eller rättstvister föreligger.
 5
 
 [Tabell 29-1](handlingar.tabeller/29-1.csv)
-
-| Uppföljningsnivå (belopp i mkr)<br>Valnämnden | Bokslut 2024<br>-1,6 | Budget 2025<br>-0,4 | Bokslut 2025<br>-0,3 | Budgetavvike<br>lse 2025<br>0,1 |
-| --- | --- | --- | --- | --- |
-| Summa | -1,6 | -0,4 | -0,3 | 0,1 |
-
-[Tabell 29-2](handlingar.tabeller/29-2.csv)
 
 | Nämnd (belopp i mkr) | Prognos delår april | Prognos delår augusti | Bokslut 2025 |
 | --- | --- | --- | --- |

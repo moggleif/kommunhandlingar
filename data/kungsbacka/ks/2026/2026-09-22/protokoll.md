@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.35b654231a0d0c8586c120d8/1790252730
 sha256: 26a6b5c06fc1d25839384153d83364360133dcadcda88c54558819cd5d86eaf9
 bytes: 434342
 sidor: 35
-hamtad: 2026-10-08T09:12:12+00:00
-konverterad: 2026-10-08T09:12:21+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:04:24+00:00
+konverterad: 2026-10-15T07:04:34+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1172,7 +1172,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 96E563F7862FDB9DB0FE0941A467F3F41720FBE52D
 Transaktionsidentitet: B5995A74CEE980D06BDD20862F4D7A792D225C871E
 
-[Tabell 28-1](protokoll.tabeller/28-1.csv)
+[Tabell 28-29-1](protokoll.tabeller/28-29-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -1182,6 +1182,19 @@ Transaktionsidentitet: B5995A74CEE980D06BDD20862F4D7A792D225C871E
 | Kommunsekreterare | Kungsbacka kommun avstår från att yttra sig över<br>granskning av vägplan för anläggning av väg<br>970/513 - delen Anneberg-Lindome och Mölndals<br>stad |
 | Kommunsekreterare | Kungsbacka kommun avstår från att yttra sig över<br>Landsbygds- och infrastrukturdepartementets remiss<br>av promemorian Vägval för framtiden: Justeringar<br>av vägmärken i vägmärkesförordningen |
 | Kommunsekreterare | Kungsbacka kommun avstår från att yttra sig över<br>Länsstyrelsen i Hallands läns remiss om anmälan av<br>vattenverksamhet, nedläggning/byte av trumma<br>m.m. i Hallabäcken, Varla |
+| Enhetschef | Yttrande över Skogsstyrelsens remiss: Samråd om<br>planerad naturvårdande skötsel i biotopskydd på<br>fastigheten Nolgärde 1:1 |
+| Markingenjör | Överenskommelse om fastighetsreglering för<br>Kungsbacka Hjälm 1:21 |
+| Kommunekolog | Yttrande över Naturvårdsverkets samråd om förslag<br>till avgränsning av strategisk miljöbedömning av<br>fyra planer om utbyggd avloppsrening |
+| Exploateringshandläggare | Servitutsavtal Förlanda-Högen 1:10 - Teleledningar<br>med tillbehör |
+| Exploateringshandläggare | Servitutsavtal Förlanda-Högen 1:13 - Teleledningar<br>med tillbehör |
+| Exploateringshandläggare | Avtal om nyttjanderätt Heberg 3:43 - Parkering och<br>gräsyta |
+| Markingenjör | Markupplåtelseavtal Rossared 5:20 |
+| Markingenjör | Markupplåtelseavtal Kärra 2:1 |
+| Exploateringshandläggare | Servitutsavtal Litserhult 1:4 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Litserhult 1:21 - Teleledningar |
+| Markingenjör | Markupplåtelseavtal Frillesås-Rya 3:77 |
+| Samhällsbyggnadschef | Anställande av utvecklingsledare |
+| Mark- och exploateringschef | Anställande av exploateringsingenjör |
 
 <!-- sida 29 -->
 
@@ -1199,23 +1212,6 @@ redovisningen av delegeringsbeslut fattade under perioden 2026-06-24 till
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 96E563F7862FDB9DB0FE0941A467F3F41720FBE52D
 Transaktionsidentitet: B5995A74CEE980D06BDD20862F4D7A792D225C871E
-
-[Tabell 29-1](protokoll.tabeller/29-1.csv)
-
-| Enhetschef | Yttrande över Skogsstyrelsens remiss: Samråd om<br>planerad naturvårdande skötsel i biotopskydd på<br>fastigheten Nolgärde 1:1 |
-| --- | --- |
-| Markingenjör | Överenskommelse om fastighetsreglering för<br>Kungsbacka Hjälm 1:21 |
-| Kommunekolog | Yttrande över Naturvårdsverkets samråd om förslag<br>till avgränsning av strategisk miljöbedömning av<br>fyra planer om utbyggd avloppsrening |
-| Exploateringshandläggare | Servitutsavtal Förlanda-Högen 1:10 - Teleledningar<br>med tillbehör |
-| Exploateringshandläggare | Servitutsavtal Förlanda-Högen 1:13 - Teleledningar<br>med tillbehör |
-| Exploateringshandläggare | Avtal om nyttjanderätt Heberg 3:43 - Parkering och<br>gräsyta |
-| Markingenjör | Markupplåtelseavtal Rossared 5:20 |
-| Markingenjör | Markupplåtelseavtal Kärra 2:1 |
-| Exploateringshandläggare | Servitutsavtal Litserhult 1:4 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Litserhult 1:21 - Teleledningar |
-| Markingenjör | Markupplåtelseavtal Frillesås-Rya 3:77 |
-| Samhällsbyggnadschef | Anställande av utvecklingsledare |
-| Mark- och exploateringschef | Anställande av exploateringsingenjör |
 
 <!-- sida 30 -->
 

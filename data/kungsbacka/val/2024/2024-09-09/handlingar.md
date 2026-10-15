@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2c0e0b6e191975d71558ecc/17252846339
 sha256: f9533c5e9e8acd6276070c13c4cd526639c6200a9b7cb5939b42b24e2f2c7845
 bytes: 2209520
 sidor: 45
-hamtad: 2026-10-08T08:53:58+00:00
-konverterad: 2026-10-08T08:54:11+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T06:49:43+00:00
+konverterad: 2026-10-15T06:49:58+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok]
 tal_obekraftade: [41]
-figurer: null
-tolkade: null
+figurer: [40]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -283,6 +283,14 @@ Delårsrapport augusti 2024
 
 Utfall och prognos
 
+Bokslut Budget Prognos Budget-  Delår  Delår  Avvikelse
+Miljoner kronor
+2023   2024    2024  avvikelse 2023    2024    delår
+Valnämnden       -0,3    2,0     1,7     0,3     0,2    1,4      1,2
+
+Periodens
+-0,3    2,0     1,7     0,3     0,2    1,4      1,2
+resultat
 Sammanfattning - text till kommunstyrelsen
 Valnämnden har planerat och genomfört val till Europaparlamentet. Valnämnden har en positiv
 prognosavvikelse på 300 000 kronor vilket till stor del beror på ett högre statsbidrag än förväntat.
@@ -292,14 +300,6 @@ Förändring helårsprognos
 8
 
 [Tabell 11-1](handlingar.tabeller/11-1.csv)
-
-| Miljoner kronor<br>Valnämnden | Bokslut<br>2023<br>-0,3 | Budget<br>2024<br>2,0 | Prognos<br>2024<br>1,7 | Budget-<br>avvikelse<br>0,3 | Delår<br>2023<br>0,2 | Delår<br>2024<br>1,4 | Avvikelse<br>delår<br>1,2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-| Periodens<br>resultat | -0,3 | 2,0 | 1,7 | 0,3 | 0,2 | 1,4 | 1,2 |
-
-[Tabell 11-2](handlingar.tabeller/11-2.csv)
 
 | Nämnd/förvaltning | Helårsprognos delår 1<br>(mkr) | Helårsprognos delår 2<br>(mkr) | Förändring prognos<br>(mkr) |
 | --- | --- | --- | --- |
@@ -639,7 +639,7 @@ Valnämndens delegeri ng av beslutanderätt Sida 8 av 12
 
 Valnämndens delegeri ng av beslutanderätt Sida 9 av 12
 
-[Tabell 22-1](handlingar.tabeller/22-1.csv)
+[Tabell 22-23-1](handlingar.tabeller/22-23-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Ersättare | Anmärkning<br>/villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -651,17 +651,13 @@ Valnämndens delegeri ng av beslutanderätt Sida 9 av 12
 | 2.3.5 | LAS 18 § | Avsked | AC | KD | I samråd med<br>HR på<br>Kommunstyrels<br>ens förvaltning<br>och<br>förhandlings-<br>chef |
 | 2.3.6 | "Gemensamt<br>reglemente för<br>kommun-<br>styrelsen och<br>nämnder i<br>Kungsbacka<br>kommun" | Avsluta anställning enligt särskild<br>överenskommelse. | AC | KD | I samråd<br>med HR-<br>chef |
 |  |  | Övrigt |  |  |  |
+| 2.3.7 | AB § 11 | Disciplinpåföljd - skriftlig<br>varning. | AC | KD | I samråd med<br>HR på<br>Kommunstyrels<br>ens förvaltning |
+| 2.3.8 | AB § 10<br>mom 1-3 | Avstängning | AC | KD | I samråd med<br>HR på<br>Kommunstyrels<br>ens förvaltning |
+| 2.3.9 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla. | AC | KD | I samråd med<br>HR på<br>Kommunstyr<br>elsens<br>förvaltning i<br>enlighet med<br>”Regler för<br>bisyssla i<br>Kungsbacka<br>kommun” |
 
 <!-- sida 23 -->
 
 Valnämndens delegeri ng av beslutanderätt Sida 10 av 12
-
-[Tabell 23-1](handlingar.tabeller/23-1.csv)
-
-| 2.3.7 | AB § 11 | Disciplinpåföljd - skriftlig<br>varning. | AC | KD | I samråd med<br>HR på<br>Kommunstyrels<br>ens förvaltning |
-| --- | --- | --- | --- | --- | --- |
-| 2.3.8 | AB § 10<br>mom 1-3 | Avstängning | AC | KD | I samråd med<br>HR på<br>Kommunstyrels<br>ens förvaltning |
-| 2.3.9 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla. | AC | KD | I samråd med<br>HR på<br>Kommunstyr<br>elsens<br>förvaltning i<br>enlighet med<br>”Regler för<br>bisyssla i<br>Kungsbacka<br>kommun” |
 
 <!-- sida 24 -->
 
@@ -933,13 +929,38 @@ Kungsbacka kommun        Valnämndens delegering av beslutanderätt 7 (12)
 
 <!-- sida 33 -->
 
+Nr    Lagrum/stöd Delegeringens omfattning Delegerat Ersättare Anmärkning/
+till             villkor
+2.1.10 Valnämndens Deltagande i aktivitet\* för Ordf.       Rätt till arvode
+budget,    ordförande, vice ordförande,              för deltagande
+För beslut       på aktivitet
+Regler och ledamot och ersättare i
+som avser        regleras i
+riktlinjer för Valnämnden.                           Regler och
+ordförande
+förmåner till                                        riktlinjer för
+beslutar vice
+förtroende-                                          förmåner till
+ordförande       förtroendevald
+valda
+a
+(antaget i
+(antaget i
+kommun-
+kommun-
+fullmäktige 15
+juni 2022 § 106.                                     fullmäktige 15
+Gäller från 2023-                                    juni 2022 §
+01-01)                                               106. Gäller
+från 2023-01-
+01\)
+\*I samma
+dokument
+framgår vilka
+aktiviteter som
+avses.
+
 Kungsbacka kommun        Valnämndens delegering av beslutanderätt 8 (12)
-
-[Tabell 33-1](handlingar.tabeller/33-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat<br>till | Ersättare | Anmärkning/<br>villkor |
-| --- | --- | --- | --- | --- | --- |
-| 2.1.10 | Valnämndens<br>budget,<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroende-<br>valda<br>(antaget i<br>kommun-<br>fullmäktige 15<br>juni 2022 § 106.<br>Gäller från 2023-<br>01-01) | Deltagande i aktivitet\* för<br>ordförande, vice ordförande,<br>ledamot och ersättare i<br>Valnämnden. | Ordf.<br>För beslut<br>som avser<br>ordförande<br>beslutar vice<br>ordförande |  | Rätt till arvode<br>för deltagande<br>på aktivitet<br>regleras i<br>Regler och<br>riktlinjer för<br>förmåner till<br>förtroendevald<br>a<br>(antaget i<br>kommun-<br>fullmäktige 15<br>juni 2022 §<br>106. Gäller<br>från 2023-01-<br>01)<br>\*I samma<br>dokument<br>framgår vilka<br>aktiviteter som<br>avses. |
 
 <!-- sida 34 -->
 
@@ -960,7 +981,7 @@ Kungsbacka kommun        Valnämndens delegering av beslutanderätt 9 (12)
 
 Kungsbacka kommun        Valnämndens delegering av beslutanderätt 10 (12)
 
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
+[Tabell 35-36-1](handlingar.tabeller/35-36-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat<br>till | Ersättare | Anmärkning/<br>villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -973,17 +994,13 @@ Kungsbacka kommun        Valnämndens delegering av beslutanderätt 10 (12)
 | 2.3.6 | "Gemensamt<br>reglemente för<br>kommun-<br>styrelsen och<br>nämnder i<br>Kungsbacka<br>kommun" | Avsluta anställning enligt<br>särskild överenskommelse. | AC | KD | I samråd med<br>HR-chef |
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat<br>till | Ersättare | Anmärkning/<br>villkor |
 |  |  | Övrigt |  |  |  |
+| 2.3.7 | AB § 11 | Disciplinpåföljd - skriftlig<br>varning. | AC | KD | I samråd med HR<br>på<br>Kommunstyrelsen<br>s förvaltning |
+| 2.3.8 | AB § 10<br>mom 1-3 | Avstängning | AC | KD | I samråd med HR<br>på<br>Kommunstyrelsen<br>s förvaltning |
+| 2.3.9 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla. | AC | KD | I samråd med<br>HR på<br>Kommunstyrels<br>ens förvaltning i<br>enlighet med<br>”Regler för<br>bisyssla i<br>Kungsbacka<br>kommun” |
 
 <!-- sida 36 -->
 
 Kungsbacka kommun        Valnämndens delegering av beslutanderätt 11 (12)
-
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
-
-| 2.3.7 | AB § 11 | Disciplinpåföljd - skriftlig<br>varning. | AC | KD | I samråd med HR<br>på<br>Kommunstyrelsen<br>s förvaltning |
-| --- | --- | --- | --- | --- | --- |
-| 2.3.8 | AB § 10<br>mom 1-3 | Avstängning | AC | KD | I samråd med HR<br>på<br>Kommunstyrelsen<br>s förvaltning |
-| 2.3.9 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla. | AC | KD | I samråd med<br>HR på<br>Kommunstyrels<br>ens förvaltning i<br>enlighet med<br>”Regler för<br>bisyssla i<br>Kungsbacka<br>kommun” |
 
 <!-- sida 37 -->
 

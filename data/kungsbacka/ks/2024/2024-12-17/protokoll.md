@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7c9da29193deb51bde2c3/1734609842202
 sha256: 4e530284818082dc0e6eb0c7d4c41bd887cb2e54afd502adc4e176e9a36b8394
 bytes: 736094
 sidor: 49
-hamtad: 2026-10-08T09:09:42+00:00
-konverterad: 2026-10-08T09:09:49+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:01:46+00:00
+konverterad: 2026-10-15T07:01:55+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1415,7 +1415,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: DC7B72A880E8042C86CCCE8564CE1BF8B9765C823F
 Transaktionsidentitet: 48DF95771D1D656A5EEC1A4F8A83787605B7F2E323
 
-[Tabell 32-1](protokoll.tabeller/32-1.csv)
+[Tabell 32-33-1](protokoll.tabeller/32-33-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -1429,6 +1429,15 @@ Transaktionsidentitet: 48DF95771D1D656A5EEC1A4F8A83787605B7F2E323
 | Mark- och exploateringschef | Markupplåtelseavtal Ellevio - Hede 3:19 |
 | Mark- och exploateringschef | Markupplåtelseavtal Ellevio - Bolsheden 1:53 |
 | Mark- och exploateringschef | Markupplåtelseavtal Ellevio - Bolsheden 1:2 |
+| Mark- och exploateringschef | Avtal om lägenhetsearrende Nötegång 1:91 -<br>Parkering |
+| Exploateringshandläggare | Servitutsavtal Gressela 4:2 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Ammendred 2:16 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Hede 7:1 - Vatten-, spillvatten- och<br>dagvattenledningar |
+| Exploateringshandläggare | Servitutsavtal Tölö 8:12 - Vatten-, spillvatten- och<br>dagvattenledningar |
+| Mark- och exploateringschef | Avtal om lägenhetsarrende Dannebacka 2:18 -<br>Monopole med basstation |
+| Mark- och exploateringschef | Avtal om lägenhetsarrende Kolla 5:6 - Monopole<br>med basstation |
+| Mark- och exploateringschef | Avtal om lägenhetsarrende Varla 12:67 - Monopole<br>med basstation |
+| Samhällsbyggnadschef | Anställande av verksamhetschef |
 
 <!-- sida 33 -->
 
@@ -1446,19 +1455,6 @@ redovisningen av delegeringsbeslut fattade under perioden 2024-04-25 till
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: DC7B72A880E8042C86CCCE8564CE1BF8B9765C823F
 Transaktionsidentitet: 48DF95771D1D656A5EEC1A4F8A83787605B7F2E323
-
-[Tabell 33-1](protokoll.tabeller/33-1.csv)
-
-| Mark- och exploateringschef | Avtal om lägenhetsearrende Nötegång 1:91 -<br>Parkering |
-| --- | --- |
-| Exploateringshandläggare | Servitutsavtal Gressela 4:2 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Ammendred 2:16 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Hede 7:1 - Vatten-, spillvatten- och<br>dagvattenledningar |
-| Exploateringshandläggare | Servitutsavtal Tölö 8:12 - Vatten-, spillvatten- och<br>dagvattenledningar |
-| Mark- och exploateringschef | Avtal om lägenhetsarrende Dannebacka 2:18 -<br>Monopole med basstation |
-| Mark- och exploateringschef | Avtal om lägenhetsarrende Kolla 5:6 - Monopole<br>med basstation |
-| Mark- och exploateringschef | Avtal om lägenhetsarrende Varla 12:67 - Monopole<br>med basstation |
-| Samhällsbyggnadschef | Anställande av verksamhetschef |
 
 <!-- sida 34 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.29e29ba018df2c6344728d5f/1710401433
 sha256: cbc9aac481fb3dce478784f7c2a692d30428c4ecd159447511cdc4b5b612b064
 bytes: 251079
 sidor: 6
-hamtad: 2026-10-08T09:12:35+00:00
-konverterad: 2026-10-08T09:12:48+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:04:45+00:00
+konverterad: 2026-10-15T07:04:51+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -59,7 +59,7 @@ KUNGSBACKA  KOMMUN
 
 2(6)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -71,33 +71,11 @@ KUNGSBACKA  KOMMUN
 | 7. | Godkännande av<br>uppföljningsrapport av intern<br>kontroll 2023 för Kungsbacka<br>kommun | 2022-00324 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner uppföljningsrapport för<br>intern kontroll 2023 för Kungsbacka kommun,<br>daterad 2024-02-13. |
 | 8. | Initiativ från Magdalena<br>Sundqvist (S) om att avskaffa<br>självfinansieringen av<br>friskvårdsbidraget | 2024-00186 |  |
 | 9. | Begäran om planbesked för<br>Vallda 20:3, Bröndome 1:2 och<br>del av Vallda 20:59 | 2023-00809 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Vallda 20:3, Bröndome 1:2 och<br>del av Vallda 20:59 i Vallda. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(6)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 10. | Avslut av uppdrag att utarbeta<br>förslag till planprogram för<br>planändring inom del av<br>fastigheterna Varla 12:18 och<br>Varla 12:20 | 2011-00068 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen avslutar uppdrag om att utarbeta<br>förslag till planprogram för planändring inom del av<br>fastigheterna Varla 12:18 och Varla 12:20, som<br>lämnades av kommunstyrelsen den 15 mars 2011,<br>§ 52. |
 | 11. | Godkännande av<br>exploateringsavtal med JM AB<br>avseende detaljplan för<br>bostäder och utbildningslokaler<br>inom del av Tölö 6:4 m.fl. | 2022-00419 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner exploateringsavtal<br>avseende detaljplan för bostäder och<br>utbildningslokaler inom del av Tölö 6:4 m.fl. i<br>Kungsbacka, mellan kommunen och JM AB,<br>undertecknat av bolaget 2024-02-14.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>och övriga nödvändiga handlingar för avtalets<br>genomförande. |
 | 12. | Godkännande av<br>exploateringsavtal avseende<br>detaljplan för bostäder inom<br>Nötegång 1:121 i Särö centrum | 2024-00139 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner exploateringsavtal<br>avseende detaljplan för bostäder inom Nötegång<br>1:121 m.fl. i Särö centrum, mellan kommunen och<br>Eksta Bostads AB, undertecknat av bolaget<br>2024-02-21.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalen<br>samt övriga nödvändiga handlingar för avtalens<br>genomförande. |
 | 13. | Svar på Länsstyrelsen i<br>Hallands läns remiss av förslag<br>till beslut och skötselplan för<br>det blivande kulturreservatet<br>Lilla Äskhult i Kungsbacka<br>kommun | 2023-00840 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-02-01,<br>och översänder det som sitt svar till Länsstyrelsen i<br>Hallands län. |
 | 14. | Svar på kommunrevisionens<br>granskning av<br>kompetensförsörjning | 2023-00573 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-02-06,<br>och översänder det som sitt svar till<br>kommunrevisionen. |
-
-<!-- sida 4 -->
-
-KUNGSBACKA  KOMMUN
-
-4(6)
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 15. | Svar på Varberg kommuns<br>remiss av samråd om fördjupad<br>översiktsplan för Väröbacka | 2023-00782 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-02-12,<br>och översänder det som sitt svar till Varbergs<br>kommun. |
 | 16. | Svar på Landsbygds- och<br>infrastrukturdepartementets<br>remiss av betänkandet Bättre<br>information om hyresbostäder<br>(SOU 2023:65) | 2023-00818 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-02-10,<br>och översänder det som sitt svar till Landsbygds- och<br>infrastrukturdepartementet. |
 | 17. | Anmälan av delegeringsbeslut | 2024-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
@@ -105,6 +83,18 @@ KUNGSBACKA  KOMMUN
 | 19. | Överföring av budgetmedel<br>avseende pensionskostnader<br>för Räddningstjänsten<br>Storgöteborg | 2024-00128 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige överför budgetmedel om 10 898<br>000 kronor för räddningstjänstens pensionskostnader<br>från kommunstyrelsen till KS Finans. |
 | 20. | Upphävande av<br>tillämpningsregler för särskild<br>kollektivtrafik - Färdtjänst | 2024-00098 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beslutar att Tillämpningsregler<br>för särskild kollektivtrafik - Färdtjänst, antagna av<br>kommunfullmäktige 2019-12-10, § 183, upphör att<br>gälla den 2 maj 2024. |
 | 21. | Antagande av taxa för<br>färdtjänst 2024 | 2023-00666 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Taxa för särskild<br>kollektivtrafik - Färdtjänst, daterad 2024-01-23, att<br>gälla från 2 maj 2024.<br>Kommunfullmäktige ger nämnden för Teknik i<br>uppdrag att justera avgiftsbeloppen i enlighet med<br>taxans bestämmelser § 5.<br>Färdtjänsttaxa, antagen av kommunfullmäktige<br>2008-10-14, § 164, upphör samtidigt att gälla. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(6)
+
+<!-- sida 4 -->
+
+KUNGSBACKA  KOMMUN
+
+4(6)
 
 <!-- sida 5 -->
 

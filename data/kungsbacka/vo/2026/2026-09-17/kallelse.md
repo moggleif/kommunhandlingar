@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.77fd706f1a08662c7eab6a57/1789388817
 sha256: b627dc454e4f90c9a06b2869957dde28a682d1e0adb4a403106d2a8ade8109c0
 bytes: 206075
 sidor: 4
-hamtad: 2026-10-08T08:19:48+00:00
-konverterad: 2026-10-08T08:19:54+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T06:10:17+00:00
+konverterad: 2026-10-15T06:10:23+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -70,7 +70,7 @@ KUNGSBACKA  KOMMUN
 
 3(4)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
+[Tabell 3-4-1](kallelse.tabeller/3-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -81,6 +81,12 @@ KUNGSBACKA  KOMMUN
 | 12. | Information - Plan för dialog<br>med personal och för besök i<br>verksamheterna | VO-2026-00305 | Nämnden för Vård & Omsorg noterar<br>informationen till protokollet. |
 | 13. | Information - Uppföljning av<br>bemanningsgrad per enhet inom<br>Vård & Omsorg | VO-2026-00205 | Nämnden för Vård & Omsorg noterar<br>informationen till protokollet. |
 | 14. | Information - Arbetet med<br>fokusenheter | VO-2026-00367 | Nämnden för Vård & Omsorg noterar<br>informationen till protokollet. |
+| 15. | Redovisning av ej verkställda<br>gynnande beslut enligt<br>socialtjänstlagen 2026 -<br>Nämnden för Vård & Omsorg | VO-2026-00168 | Nämnden för Vård & Omsorg noterar<br>redovisning av ej verkställda gynnande beslut<br>enligt socialtjänstlagen, andra kvartalet 2026. |
+| 16. | Anmälan av ordförandebeslut,<br>september 2026 | VO-2026-00003 | Det föreligger inga ordförandebeslut. |
+| 17. | Anmälan av delegationsbeslut,<br>september 2026 | VO-2026-00002 | Nämnden för Vård & Omsorg noterar anmälda<br>delegationsbeslut till protokollet. |
+| 18. | Redovisning av inkomna<br>skrivelser, september 2026 | VO-2026-00001 | Nämnden för Vård & Omsorg noterar inkomna<br>skrivelser till protokollet. |
+| 19. | Information från förvaltningen,<br>september 2026 | VO-2026-00005 | Nämnden för Vård & Omsorg noterar<br>informationen till protokollet. |
+| 20. | Information från nämnden,<br>september 2026 | VO-2026-00006 | Nämnden för Vård & Omsorg noterar<br>informationen till protokollet. |
 
 <!-- sida 4 -->
 
@@ -90,14 +96,3 @@ KUNGSBACKA  KOMMUN
 
 Hravn Forsne (M)                  Vera Lagerström
 ordförande                        nämndsekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 15. | Redovisning av ej verkställda<br>gynnande beslut enligt<br>socialtjänstlagen 2026 -<br>Nämnden för Vård & Omsorg | VO-2026-00168 | Nämnden för Vård & Omsorg noterar<br>redovisning av ej verkställda gynnande beslut<br>enligt socialtjänstlagen, andra kvartalet 2026. |
-| 16. | Anmälan av ordförandebeslut,<br>september 2026 | VO-2026-00003 | Det föreligger inga ordförandebeslut. |
-| 17. | Anmälan av delegationsbeslut,<br>september 2026 | VO-2026-00002 | Nämnden för Vård & Omsorg noterar anmälda<br>delegationsbeslut till protokollet. |
-| 18. | Redovisning av inkomna<br>skrivelser, september 2026 | VO-2026-00001 | Nämnden för Vård & Omsorg noterar inkomna<br>skrivelser till protokollet. |
-| 19. | Information från förvaltningen,<br>september 2026 | VO-2026-00005 | Nämnden för Vård & Omsorg noterar<br>informationen till protokollet. |
-| 20. | Information från nämnden,<br>september 2026 | VO-2026-00006 | Nämnden för Vård & Omsorg noterar<br>informationen till protokollet. |

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.140482519662359883ca87/174549279456
 sha256: 54125013d0ba82e254f196632c06c9a9d1f8e5a4a828f6f68baef340130de6ef
 bytes: 1007661
 sidor: 65
-hamtad: 2026-10-08T09:10:10+00:00
-konverterad: 2026-10-08T09:10:20+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:02:16+00:00
+konverterad: 2026-10-15T07:02:29+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1393,7 +1393,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 3B8B296F0459A33C401A8F42225F61D80ECF02E4EF
 Transaktionsidentitet: C559B96C499F418CD88F6CF293537893AFED199430
 
-[Tabell 31-1](protokoll.tabeller/31-1.csv)
+[Tabell 31-32-1](protokoll.tabeller/31-32-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -1408,6 +1408,10 @@ Transaktionsidentitet: C559B96C499F418CD88F6CF293537893AFED199430
 | Näringslivschef | Anställande av utvecklare |
 | Mark- och exploateringschef | Avtal om lägenhetsarrende Fjärås Prästgård 1:6 -<br>grundvattenrör för Teknik |
 | Mark- och exploateringschef | Avtal om lägenhetsarrende Li 2:1 - grundvattenrör<br>för Teknik |
+| Exploateringshandläggare | Servitutsavtal Mark Öjersås 1:6 - Teleledningar |
+| Mark- och exploateringschef | Avtal om sidoarrende - Varla 1:5 och Varla 2:198 |
+| Exploateringsingenjör | Servitutsavtal Södercentrum 9 - ledningar och<br>balkonger kommunens fastighet Kungsbacka 4:6<br>tjänande fastighet |
+| Exploateringsingenjör | Servitutsavtal Södercentrum 10 - ledningar och<br>balkonger kommunens fastighet Kungsbacka 4:6<br>tjänande fastighet |
 
 <!-- sida 32 -->
 
@@ -1425,14 +1429,6 @@ redovisningen av delegeringsbeslut fattade under perioden 2024-12-16 till
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 3B8B296F0459A33C401A8F42225F61D80ECF02E4EF
 Transaktionsidentitet: C559B96C499F418CD88F6CF293537893AFED199430
-
-[Tabell 32-1](protokoll.tabeller/32-1.csv)
-
-| Exploateringshandläggare | Servitutsavtal Mark Öjersås 1:6 - Teleledningar |
-| --- | --- |
-| Mark- och exploateringschef | Avtal om sidoarrende - Varla 1:5 och Varla 2:198 |
-| Exploateringsingenjör | Servitutsavtal Södercentrum 9 - ledningar och<br>balkonger kommunens fastighet Kungsbacka 4:6<br>tjänande fastighet |
-| Exploateringsingenjör | Servitutsavtal Södercentrum 10 - ledningar och<br>balkonger kommunens fastighet Kungsbacka 4:6<br>tjänande fastighet |
 
 <!-- sida 33 -->
 
@@ -1803,7 +1799,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 3B8B296F0459A33C401A8F42225F61D80ECF02E4EF
 Transaktionsidentitet: C559B96C499F418CD88F6CF293537893AFED199430
 
-[Tabell 40-1](protokoll.tabeller/40-1.csv)
+[Tabell 40-41-1](protokoll.tabeller/40-41-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -1814,6 +1810,14 @@ Transaktionsidentitet: C559B96C499F418CD88F6CF293537893AFED199430
 | Thure Sandén (M) | X |  |  |
 | Magdalena Sundqvist (S) |  | X |  |
 | Johan Tolinsson (S) |  | X |  |
+| Stefan Jägnert (SD) |  | X |  |
+| Stefan Vilumsons (SD) |  | X |  |
+| Fredrik Hansson (C) | X |  |  |
+| Monica Neptun (L) | X |  |  |
+| Fredrik Kollberg (KD) | X |  |  |
+| Patrik Jervne Henestam (V) |  | X |  |
+| Maria Losman (MP) |  | X |  |
+| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 41 -->
 
@@ -1838,18 +1842,6 @@ Samtliga nämnder, Kommunstyrelsens förvaltning: kansliet, HR
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 3B8B296F0459A33C401A8F42225F61D80ECF02E4EF
 Transaktionsidentitet: C559B96C499F418CD88F6CF293537893AFED199430
-
-[Tabell 41-1](protokoll.tabeller/41-1.csv)
-
-| Stefan Jägnert (SD) |  | X |  |
-| --- | --- | --- | --- |
-| Stefan Vilumsons (SD) |  | X |  |
-| Fredrik Hansson (C) | X |  |  |
-| Monica Neptun (L) | X |  |  |
-| Fredrik Kollberg (KD) | X |  |  |
-| Patrik Jervne Henestam (V) |  | X |  |
-| Maria Losman (MP) |  | X |  |
-| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 42 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1ec384d6192704b8d9da0679/1728904287
 sha256: 49f79a8c971f6cc264a2c5593f841ca1f5b71d3500384a55a487f1f8424df89f
 bytes: 3046191
 sidor: 93
-hamtad: 2026-10-08T08:26:22+00:00
-konverterad: 2026-10-08T08:26:38+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-15T06:17:19+00:00
+konverterad: 2026-10-15T06:17:37+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -481,13 +481,21 @@ december 2021 att höja minimibeloppet i 8 kap. 7 § socialtjänstlagen. Lagänd
 
 Taxor och avgifter som berörs av det förändrade prisbasbeloppet, PBB, för 2025 visas i tabellen nedan.
 
-[Tabell 11-1](handlingar.tabeller/11-1.csv)
+[Tabell 11-12-1](handlingar.tabeller/11-12-1.csv)
 
-| Beräkning 2025 2024 |  |  |  |
+|  | Beräkning | 2025 | 2024 |
 | --- | --- | --- | --- |
 | Förbehållsbelopp, ensamstående | 1,4789\*PBB/12 | 7 247kr/mån | 6 706 kr/mån |
 | Förbehållsbelopp,<br>gifta/sammanboende | 1,2066\*PBB/12 | 5 912 kr/mån | 5 584 kr/mån |
 | Förhöjt förbehållsbelopp, under 65<br>år ensamstående | Förbehållsbelopp<br>\*1,1 | 7 971 kr/mån | 7 377 kr/mån |
+| Förhöjt förbehållsbelopp, under 65<br>år gifta/sammanboende | Förbehållsbelopp<br>\*1,1 | 6 504 kr/mån | 6 142 kr/mån |
+| Omsorgsavgift (maxtaxa) | 0,5392\*PBB/12 | 2 642 kr/mån | 2 575 kr/mån |
+| Hyra särskilt boende (utanför<br>hyreslagen) | 0,5539\*PBB/12 | 2 714 kr/ mån | 2 645 kr/ mån |
+| Timtaxa Hemtjänst | 10% av maxtaxan | 264 kr/tim | 257 kr/tim |
+| Avgift för korttidsplats Omsorg | Maxtaxa/30 | 88 kr/dygn | 86 kr/dygn |
+| Avgift för dagomsorg | Maxtaxa/90 | 29 kr/dag | 29 kr/dag |
+| Trygghetslarm | 0,00562\*PBB | 330 kr/dag | 322 kr/dag |
+| Patientavgift HSV, 18-84 år | 0,00634\*PBB | 373 kr/ mån | 363 kr/ mån |
 
 <!-- sida 12 -->
 
@@ -501,19 +509,7 @@ Förvaltningschef                   Ekonomichef
 
 [Tabell 12-1](handlingar.tabeller/12-1.csv)
 
-| Förhöjt förbehållsbelopp, under 65<br>år gifta/sammanboende | Förbehållsbelopp<br>\*1,1 | 6 504 kr/mån | 6 142 kr/mån |
-| --- | --- | --- | --- |
-| Omsorgsavgift (maxtaxa) | 0,5392\*PBB/12 | 2 642 kr/mån | 2 575 kr/mån |
-| Hyra särskilt boende (utanför<br>hyreslagen) | 0,5539\*PBB/12 | 2 714 kr/ mån | 2 645 kr/ mån |
-| Timtaxa Hemtjänst | 10% av maxtaxan | 264 kr/tim | 257 kr/tim |
-| Avgift för korttidsplats Omsorg | Maxtaxa/30 | 88 kr/dygn | 86 kr/dygn |
-| Avgift för dagomsorg | Maxtaxa/90 | 29 kr/dag | 29 kr/dag |
-| Trygghetslarm | 0,00562\*PBB | 330 kr/dag | 322 kr/dag |
-| Patientavgift HSV, 18-84 år | 0,00634\*PBB | 373 kr/ mån | 363 kr/ mån |
-
-[Tabell 12-2](handlingar.tabeller/12-2.csv)
-
-| Beräkning 2024 2023 |  |  |  |
+|  | Beräkning | 2024 | 2023 |
 | --- | --- | --- | --- |
 | Kostnad mat korttidsplats | Helabonnemang/30 | 145 kr/dag | 135 kr/dag |
 | Kostnad mat/fika dagomsorg | Uppräknas med SE<br>index | 74 kr/dag | 69 kr/dag |
@@ -650,7 +646,7 @@ Informationshanteringsplan                Sida 3 av 39
 
 Informationshanteringsplan                Sida 4 av 39
 
-[Tabell 19-1](handlingar.tabeller/19-1.csv)
+[Tabell 19-21-1](handlingar.tabeller/19-21-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -665,28 +661,12 @@ Informationshanteringsplan                Sida 4 av 39
 |  | Ansökan | Ciceron | Digital | Bevara | I ansökan ingår bilagor till<br>ansökan såsom<br>försäkringsbevis, IVO-<br>tillstånd etc.<br>Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
 |  | Korrespondens under tiden för<br>certifiering | Kungsbacka kommuns<br>upphandlingsstöd | Digital | Bevara | Förvaltningen för Vård &<br>Omsorg får begära att<br>ansökan förtydligas eller<br>kompletteras om det kan ske<br>utan risk för särbehandling<br>eller konkurrensbegränsning. |
 | Hantera ansökan | Utvärderingsprotokoll | Ciceron | Digital | Bevara | Inkluderar kvalificering av<br>inkomna ansökningar. |
-
-<!-- sida 20 -->
-
-Informationshanteringsplan                Sida 5 av 39
-
-[Tabell 20-1](handlingar.tabeller/20-1.csv)
-
 |  |  |  |  |  | Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
-| --- | --- | --- | --- | --- | --- |
 |  | Förhandling enligt MBL § 38<br>avseende beslut om ny utförare av<br>hemtjänstinsatser inom kundvalet | Ciceron | Digital | Bevara | 38 § Lag (1976:580) om<br>medbestämmande i<br>arbetslivet.<br>Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
 | Besluta | Beslut | Ciceron | Digital | Bevaras | Ett beslut i form av ett<br>beviljande eller avslag om att<br>få bedriva hemtjänst. Beslutet<br>ger sökande rätt att ansöka<br>om rättelse av beslutet till<br>Förvaltningsrätten. |
 | Teckna avtal | Avtal | Ciceron avtalsdiarium | Digital | Bevara | Avtal om att bedriva<br>hemtjänst samt ändringar och<br>tillägg till avtal, vilka<br>skriftligen godkänts av<br>utförare genom intyg att<br>utföraren tagit del av<br>reviderat<br>förfrågningsunderlag.<br>Avtalstecknande sker mellan<br>parterna. Avtalet upprättas i<br>två exemplar, varav det ena<br>förvaras hos kommunen och<br>det andra hos utföraren.<br>Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
 | Överklaga | Överklagan | Ciceron | Digital | Bevara | Handlingar rörande<br>överklagande/rättelse av<br>beslut. Ansökan ska vara<br>skriftlig och skickas till<br>Förvaltningsrätten inom tre |
-
-<!-- sida 21 -->
-
-Informationshanteringsplan                Sida 6 av 39
-
-[Tabell 21-1](handlingar.tabeller/21-1.csv)
-
 |  |  |  |  |  | veckor från det att<br>underrättelse om beslutet har<br>lämnats. |
-| --- | --- | --- | --- | --- | --- |
 | Hantera avtal | Brister i förpliktelser enligt avtal | Ciceron | Digital | Bevara |  |
 |  | Upphörande av avtal | Ciceron | Digital | Bevara | Om utföraren inte har fått<br>någon omsorgstagare ett år<br>efter ett beviljande, upphör<br>avtalet automatiskt att gälla. |
 |  | Uppsägning av avtal | Ciceron | Digital | Bevara | Tre månaders uppsägningstid<br>gäller för både kommunen<br>och utföraren. |
@@ -694,11 +674,19 @@ Informationshanteringsplan                Sida 6 av 39
 | Dokumentera | Godkännande av byte av driftansvarig<br>i verksamhet som drivs hos leverantör<br>i valfrihetssystem | Ciceron | Digital | Bevara |  |
 |  | Uppföljningar | Ciceron | Digital | Bevara | Helårs-, delårs- och<br>kvalitetsuppföljning |
 
+<!-- sida 20 -->
+
+Informationshanteringsplan                Sida 5 av 39
+
+<!-- sida 21 -->
+
+Informationshanteringsplan                Sida 6 av 39
+
 <!-- sida 22 -->
 
 Informationshanteringsplan                Sida 7 av 39
 
-[Tabell 22-1](handlingar.tabeller/22-1.csv)
+[Tabell 22-25-1](handlingar.tabeller/22-25-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -711,15 +699,7 @@ Informationshanteringsplan                Sida 7 av 39
 |  | Förhandling enligt MBL § 11 inför<br>beslut om viktig förändring | Ciceron | Digital | Bevara | 11 § Lag (1976:580) om<br>medbestämmande i<br>arbetslivet. |
 | Hantera underlag | Information enligt MBL § 19 inför<br>beslut om upphandlingsdokument i<br>upphandling | Ciceron | Digital | Bevara | 19 § Lag (1976:580) om<br>medbestämmande i<br>arbetslivet. |
 |  | Upphandlingsdokument | Ciceron | Digital | Bevara | Metod för utvärdering och<br>tilldelningsgrund samt krav<br>och kommersiella villkor för<br>utförare av drift av vård- och<br>omsorgsboende.<br>Förtydligande:<br>Upphandlingsdokument<br>inkluderar samtliga bilagor<br>som tillhör<br>upphandlingsdokumentet.<br>Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
-
-<!-- sida 23 -->
-
-Informationshanteringsplan                Sida 8 av 39
-
-[Tabell 23-1](handlingar.tabeller/23-1.csv)
-
 |  | Förtydliganden och kompletterande<br>frågor om upphandlingsdokumentet | Kungsbacka kommuns<br>upphandlingsstöd | Digital | Bevara | Förtydliganden,<br>kompletteringar och svar på<br>frågor som inkommer under<br>anbudstiden. |
-| --- | --- | --- | --- | --- | --- |
 | Besluta | Beslut om att avbryta upphandling | Ciceron | Digital | Bevara | En upphandling får avbrytas<br>om det finns sakliga skäl för<br>detta. Ett sådant beslut ska<br>följa de grundläggande<br>principerna i allmänhet.<br>Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
 | Hantera anbud | Öppningsprotokoll | Kungsbacka kommuns<br>upphandlingsstöd | Digital | Bevara |  |
 |  | Anbud | Kungsbacka kommuns<br>upphandlingsstöd | Digital | Bevara |  |
@@ -727,15 +707,7 @@ Informationshanteringsplan                Sida 8 av 39
 |  | Utvärderingsprotokoll | Ciceron | Digital | Bevara | Inkluderar kvalificering av<br>inkomna anbud samt resultat<br>av utvärdering.<br>Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
 |  | Förhandling enligt MBL § 38<br>avseende antagande av utförare för<br>driften | Ciceron | Digital | Bevara | 38 § Lag (1976:580) om<br>medbestämmande i<br>arbetslivet. |
 | Besluta | Upphandlingsprotokoll | Ciceron | Digital | Bevara | Förvaltningen för Service,<br>enheten Inköps föreslag till<br>tilldelningsbeslut. |
-
-<!-- sida 24 -->
-
-Informationshanteringsplan                Sida 9 av 39
-
-[Tabell 24-1](handlingar.tabeller/24-1.csv)
-
 |  |  |  |  |  | Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
-| --- | --- | --- | --- | --- | --- |
 |  | Tilldelningsbeslut | Ciceron | Digital | Bevara | Beslut om vilken<br>anbudsgivare som vunnit<br>upphandlingen och med<br>vilken avtal kommer att<br>tecknas. Beslutet innehåller<br>namn på den som vunnit<br>upphandlingen och varför<br>denne kommer att tilldelas<br>avtal.<br>Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
 | Överprövning | Föreläggande, aktbilagor och dom | Ciceron | Digital | Bevara | Samtliga handlingar rörande<br>överprövningen. |
 | Teckna avtal | Avtal som omfattar drift av vård- och<br>omsorgsboende samt ändringar och<br>tillägg till avtal, vilka skriftligen<br>godkänts av båda parter | Ciceron avtalsdiarium | Digital och papper | Bevara | Avtalstecknande sker mellan<br>parterna. Avtalet upprättas i<br>två exemplar, varav det ena<br>förvaras hos kommunen och<br>det andra hos utföraren.<br>Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
@@ -743,22 +715,26 @@ Informationshanteringsplan                Sida 9 av 39
 |  | Ändring och tillägg till avtal | Ciceron | Digital | Bevara | Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
 |  | Brister i förpliktelser enligt avtal | Ciceron | Digital | Bevara |  |
 |  | Upphörande av avtal i förtid | Ciceron | Digital | Bevara | Upphörande av avtal ska vara<br>skriftligt och innehålla datum<br>för avtalets upphörande.<br>Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
+| Dokumentera | Godkännande av byte av driftansvarig<br>i verksamhet som drivs på<br>entreprenad | Ciceron | Digital | Bevara |  |
+|  | Uppföljningar | Ciceron | Digital | Bevara | Helårs-, delårs- och<br>kvalitetsuppföljning |
+
+<!-- sida 23 -->
+
+Informationshanteringsplan                Sida 8 av 39
+
+<!-- sida 24 -->
+
+Informationshanteringsplan                Sida 9 av 39
 
 <!-- sida 25 -->
 
 Informationshanteringsplan                Sida 10 av 39
 
-[Tabell 25-1](handlingar.tabeller/25-1.csv)
-
-| Dokumentera | Godkännande av byte av driftansvarig<br>i verksamhet som drivs på<br>entreprenad | Ciceron | Digital | Bevara |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Uppföljningar | Ciceron | Digital | Bevara | Helårs-, delårs- och<br>kvalitetsuppföljning |
-
 <!-- sida 26 -->
 
 Informationshanteringsplan                Sida 11 av 39
 
-[Tabell 26-1](handlingar.tabeller/26-1.csv)
+[Tabell 26-27-1](handlingar.tabeller/26-27-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -774,16 +750,12 @@ Informationshanteringsplan                Sida 11 av 39
 |  | Serviceärenden | Artvise | Digital | 14 månader |  |
 |  | Arbetsorder till Swedlock support om<br>larmorganisationen inte själva kan<br>hantera/montera digitalt lås | Outlook | Digital | Efter utförd<br>arbetsorder |  |
 | Hantera register | Lista över adress och<br>lägenhetsnummer där digitalt lås<br>monterats i Äldrelägenhet | Närarkiv | Papper | Vid inaktualitet |  |
+| Beställa | Registrera och avregistrera<br>läkemedelsskåp | Artvise | Digital | 14 månader |  |
+|  | Beställning av digitala lås, värdeskåp<br>och läkemedelsskåp | Proceedo | Digital | 7 år |  |
 
 <!-- sida 27 -->
 
 Informationshanteringsplan                Sida 12 av 39
-
-[Tabell 27-1](handlingar.tabeller/27-1.csv)
-
-| Beställa | Registrera och avregistrera<br>läkemedelsskåp | Artvise | Digital | 14 månader |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Beställning av digitala lås, värdeskåp<br>och läkemedelsskåp | Proceedo | Digital | 7 år |  |
 
 <!-- sida 28 -->
 
@@ -952,7 +924,7 @@ Informationshanteringsplan                Sida 21 av 39
 
 Informationshanteringsplan                Sida 22 av 39
 
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
+[Tabell 37-38-1](handlingar.tabeller/37-38-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -973,15 +945,7 @@ Informationshanteringsplan                Sida 22 av 39
 | Kommunicera utredning | Kommunikation | Combine | Digital | 5 år (5, 15, 25<br>bevaras) |  |
 | Besluta | Beslut om bifall/avslag om bistånd | Combine | Digital | 5 år (5, 15, 25<br>bevaras) |  |
 | Hantera ej verkställt<br>beslut | Tjänsteskrivelse om Rapportering av<br>ej verkställda beslut enligt<br>socialtjänstlagen | Ciceron | Digital | Bevaras |  |
-
-<!-- sida 38 -->
-
-Informationshanteringsplan                Sida 23 av 39
-
-[Tabell 38-1](handlingar.tabeller/38-1.csv)
-
 |  | Begäran om yttrande och handlingar<br>från IVO | Ciceron | Digital | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Yttrande | Ciceron | Digital | Bevaras |  |
 |  | Beslut från IVO | Ciceron | Digital | Bevaras |  |
 | Överklaga | Överklagan om bistånd tillsammans<br>med bilagor | Combine | Digital | 5 år (5, 15, 25<br>bevaras) |  |
@@ -992,6 +956,10 @@ Informationshanteringsplan                Sida 23 av 39
 | Besluta | Avgiftsbeslut | Combine | Digital | 5 år (5, 15, 25<br>bevaras) |  |
 | Hantera uppgift | Jämkningsansökan på grund av<br>dubbla hyror | Combine | Digital | 5 år (5, 15, 25<br>bevaras) |  |
 | Besluta | Beslut om jämkning för dubbla hyror | Combine | Digital | 5 år (5, 15, 25<br>bevaras) |  |
+
+<!-- sida 38 -->
+
+Informationshanteringsplan                Sida 23 av 39
 
 <!-- sida 39 -->
 
@@ -1062,7 +1030,7 @@ Informationshanteringsplan                Sida 27 av 39
 
 Informationshanteringsplan                Sida 28 av 39
 
-[Tabell 43-1](handlingar.tabeller/43-1.csv)
+[Tabell 43-44-1](handlingar.tabeller/43-44-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1081,15 +1049,7 @@ Informationshanteringsplan                Sida 28 av 39
 | Utbetala | Utbetalningsfil till BGC/Swedbank | Raindance | Digital | 7 år |  |
 | Ansöka | Ansökan om återställningsbidrag | BAB-online | Digital | Se anmärkning | Gallras inom ett år från det<br>att personen har avlidit. |
 | Hantera underlag | Beskrivning av<br>återställningsåtgärderna | BAB-online | Digital | Se anmärkning | Gallras inom ett år från det<br>att personen har avlidit. |
-
-<!-- sida 44 -->
-
-Informationshanteringsplan                Sida 29 av 39
-
-[Tabell 44-1](handlingar.tabeller/44-1.csv)
-
 |  | Specifikation av kostnader/offert | BAB-online | Digital | Se anmärkning | Gallras inom ett år från det<br>att personen har avlidit. |
-| --- | --- | --- | --- | --- | --- |
 | Besluta | Beslut om återställningsbidrag | BAB-online | Digital | Se anmärkning | Gallras inom ett år från det<br>att personen har avlidit. |
 | Överklaga | Överklagan tillsammans med bilagor | BAB-online | Digital | Se anmärkning | Gallras inom ett år från det<br>att personen har avlidit. |
 | Registrera | Underrättelse från förvaltningsrätt om<br>yttrande över innehåll i handlingar | BAB-online | Digital | Se anmärkning | Gallras inom ett år från det<br>att personen har avlidit. |
@@ -1097,6 +1057,10 @@ Informationshanteringsplan                Sida 29 av 39
 | Överprövning av beslut | Beslut från förvaltningsrätt | BAB-online | Digital | Se anmärkning | Gallras inom ett år från det<br>att personen har avlidit.<br>Beslut om att exempelvis<br>avslå yrkande om muntlig<br>förhandling och avvisa<br>överklagande. |
 |  | Dom från förvaltningsrätt | BAB-online | Digital | Se anmärkning | Gallras inom ett år från det<br>att personen har avlidit. |
 |  | Beslut från kammarrätt och högsta<br>förvaltningsdomstol om<br>prövningstillstånd | BAB-online | Digital | Se anmärkning | Gallras inom ett år från det<br>att personen har avlidit. |
+
+<!-- sida 44 -->
+
+Informationshanteringsplan                Sida 29 av 39
 
 <!-- sida 45 -->
 
@@ -1118,7 +1082,7 @@ Informationshanteringsplan                Sida 30 av 39
 
 Informationshanteringsplan                Sida 31 av 39
 
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
+[Tabell 46-47-1](handlingar.tabeller/46-47-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1137,15 +1101,6 @@ Informationshanteringsplan                Sida 31 av 39
 |  | Bemötandeplan GPS-klocka | Närarkiv | Papper | 5 år (5, 15, 25<br>bevaras) |  |
 |  | Bemötandeplan aggressivitet | Samarbetsrum | Digital | 5 år (5, 15, 25<br>bevaras) |  |
 |  | Egenkontroll livsmedelshygien, rapport<br>om kyl, frys med mera enligt<br>egenkontrollprogram | Närarkiv | Papper | 3 månader |  |
-
-<!-- sida 47 -->
-
-Informationshanteringsplan                Sida 32 av 39
-
-[Tabell 47-1](handlingar.tabeller/47-1.csv)
-
-| Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Verksamhetsområde: | Vård och omsorg |  |  |  |  |
 | Processgrupp: | Insatser för äldre och personer med funktionsnedsättning |  |  |  |  |
 | Process: | Hantera korttidsboende och växelvård |  |  |  |  |
@@ -1156,6 +1111,10 @@ Informationshanteringsplan                Sida 32 av 39
 |  | Hälsoärende | Combine | Digital | 5 år (5, 15, 25<br>bevaras) |  |
 |  | Journalanteckning | Combine | Digital | 5 år (5, 15, 25<br>bevaras) |  |
 |  | Signeringslista för läkemedel | Alfa eCare | Digital | 10 år (5, 15, 25<br>bevaras) |  |
+
+<!-- sida 47 -->
+
+Informationshanteringsplan                Sida 32 av 39
 
 <!-- sida 48 -->
 
@@ -1212,7 +1171,7 @@ Informationshanteringsplan                Sida 35 av 39
 
 Informationshanteringsplan                Sida 36 av 39
 
-[Tabell 51-1](handlingar.tabeller/51-1.csv)
+[Tabell 51-52-1](handlingar.tabeller/51-52-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1234,15 +1193,7 @@ Informationshanteringsplan                Sida 36 av 39
 |  | Remissvar | Combine | Digital | 10 år (5, 15 och 25<br>bevaras) | Eventuella pappershandlingar<br>förvaras i närarkiv. |
 |  | Bilder/filmer | Combine | Digital | 10 år (5, 15 och 25<br>bevaras) | Eventuella pappershandlingar<br>förvaras i närarkiv. |
 |  | Ordinationshandling/läkemedelslista | Hemdok | Papper | 10 år (5, 15 och 25<br>bevaras) | Eventuella pappershandlingar<br>förvaras i närarkiv. |
-
-<!-- sida 52 -->
-
-Informationshanteringsplan                Sida 37 av 39
-
-[Tabell 52-1](handlingar.tabeller/52-1.csv)
-
 |  | Patients narkotikajournal | Alfa eCare | Digital | 10 år (5, 15 och 25<br>bevaras) | Eventuella pappershandlingar<br>förvaras i närarkiv. |
-| --- | --- | --- | --- | --- | --- |
 | Hantera<br>förrådsadministration | Förbrukningsjournal och kontroll av<br>narkotikaklassade läkemedel i förråd | Närarkiv | Papper | 10 år |  |
 | Hantera läkemedel | Signeringslista för avläsning av<br>kylskåp där läkemedel förvaras | I anslutning till kylskåp | Papper | 3 månader |  |
 | Hantera medicintekniska<br>produkter | Register över medicintekniska<br>produkter | Samarbetsrum | Digital | Vid inaktualitet |  |
@@ -1254,6 +1205,10 @@ Informationshanteringsplan                Sida 37 av 39
 |  | Hjälpmedelslista | Hemdok | Papper | Vid inaktualitet |  |
 | Hantera avtal | Avtal för medicintekniska produkter | Ciceron avtalsdiarium | Digital | Bevaras |  |
 |  | Avtal avseende blodprovstagning<br>mellan Polismyndigheten och<br>Hemsjukvården Kungsbacka kommun | Ciceron avtalsdiarium | Digital | Bevaras |  |
+
+<!-- sida 52 -->
+
+Informationshanteringsplan                Sida 37 av 39
 
 <!-- sida 53 -->
 
@@ -2442,12 +2397,31 @@ Delårsrapport Augusti 2024
 
 4.2 Resursmått
 
+Namn          Utfall 2020 Utfall 2021 Utfall 2022 Utfall 2023
+
+Kostnad
+äldreomsorg,   61 637       64 751      66 654         70 419
+kr/inv 65+
+Nettokostnadsav
+5,7 %       9,2 %       6,9 %            8 %
+vikelse
+Antal
+omsorgstagare i
+2 375       2 443       2 664           2 182
+verksamheten
+över 65 år
+Antal
+omsorgstagare i
+88          98          137
+verksamheten
+under 65 år
+Antal patienter i
+1 771       1 899       1 994           2 780
+hemsjukvården
 Antal patienter i hemsjukvården varierar mycket på grund av metoden siffrorna är uttagna. Siffror för 2023 är antal aktiva patienter
 under hela året, tidigare uttag är gjorda ett specifikt datum och antal patienter inskrivna det specifika datumet. Nycktal för 2024
 rapporteras på helår.
-
 4.3 Prestationsmått
-
 Namn                       Utfall  Utfall  Utfall Utfall Utfall
 2020   2021    2022  2023    2024
 Antal lägenheter på vård- och
@@ -2462,16 +2436,6 @@ Kö till vård- och omsorgsboende 29  20      53        67      71
 Antal timmar hemtjänst är under perioden januari till augusti. Jämförande siffror för åren 2020-2023 är på helår. Beläggningsgrad
 
 18
-
-[Tabell 79-1](handlingar.tabeller/79-1.csv)
-
-|  | Namn Utfall 2020 Utfall 2021 Utfall 2022 Utfall 2023 |
-| --- | --- |
-| Kostnad<br>äldreomsorg, 61 637 64 751 66 654 70 419<br>kr/inv 65+ |  |
-| Nettokostnadsav<br>5,7 % 9,2 % 6,9 % 8 %<br>vikelse |  |
-| Antal<br>omsorgstagare i<br>2 375 2 443 2 664 2 182<br>verksamheten<br>över 65 år |  |
-| Antal<br>omsorgstagare i<br>88 98 137<br>verksamheten<br>under 65 år |  |
-| Antal patienter i<br>1 771 1 899 1 994 2 780<br>hemsjukvården |  |
 
 <!-- sida 80 -->
 
@@ -2738,6 +2702,24 @@ Delårsrapport Augusti 2024
 
 Utfall och prognos
 
+Bokslut Budget Prognos Budget-  Delår  Delår  Avvikelse
+Miljoner kronor
+2023   2024    2024  avvikelse 2023    2024    delår
+Nämnd            -1,2    -1,4   -1,4     0,0    -0,8    -0,9    -0,1
+Förvaltning
+-5,8   -32,8   -24,8    8,0     6,5    -5,4   -11,9
+gemensamt
+Förvaltningslednin
+-495,2  -549,8  -529,1   20,7   -326,4 -349,8   -23,4
+gskontoret
+
+Vård och omsorg
+0,7      0               0     -1,0             1,0
+2022
+Periodens
+-1 070,3 -1 159,7 -1 131,7 28,0  -710,9 -746,5   -35,6
+resultat
+
 Sammanfattning - text till kommunstyrelsen
 
 Fokus för nämnden är fortsatt att bygga en hållbar verksamhet som kan fortsatt leverera omsorg under
@@ -2763,17 +2745,12 @@ Verksamheterna i distrikten prognosticeras ett underskott på 15 miljoner kronor
 
 [Tabell 85-1](handlingar.tabeller/85-1.csv)
 
-| Miljoner kronor<br>Nämnd | Bokslut<br>2023<br>-1,2 | Budget<br>2024<br>-1,4 | Prognos<br>2024<br>-1,4 | Budget-<br>avvikelse<br>0,0 | Delår<br>2023<br>-0,8 | Delår<br>2024<br>-0,9 | Avvikelse<br>delår<br>-0,1 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Förvaltning<br>gemensamt | -5,8 | -32,8 | -24,8 | 8,0 | 6,5 | -5,4 | -11,9 |
-| Förvaltningslednin<br>gskontoret | -495,2 | -549,8 | -529,1 | 20,7 | -326,4 | -349,8 | -23,4 |
 | Distrikt Syd | -66,6 | -56,9 | -60,4 | -3,5 | -43,8 | -44,6 | -0,8 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | Distrikt Centrum | -73,1 | -83,7 | -82,4 | 1,3 | -54,8 | -58,2 | -3,4 |
 | Distrikt Norr | -30,4 | -27,6 | -31,0 | -3,4 | -21,7 | -20,7 | 1,0 |
 | Distrikt Väst | -40,1 | -81,9 | -90,9 | -9,0 | -27,0 | -61,9 | -34,9 |
 | Distrikt 5 | -358,6 | -325,6 | -311,7 | 13,9 | -241,9 | -205,0 | 36,9 |
-| Vård och omsorg<br>2022 | 0,7 | 0 |  | 0 | -1,0 |  | 1,0 |
-| Periodens<br>resultat | -1 070,3 | -1 159,7 | -1 131,7 | 28,0 | -710,9 | -746,5 | -35,6 |
 
 <!-- sida 86 -->
 

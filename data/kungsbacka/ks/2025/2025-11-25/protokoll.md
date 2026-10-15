@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.661b4a0719ad2f66ef8eccf/17645913453
 sha256: 5c7f65b55228f223e28adde310a14fcabddf5b9bfd59c7518198cbaed6f2a60b
 bytes: 621245
 sidor: 66
-hamtad: 2026-10-08T09:10:55+00:00
-konverterad: 2026-10-08T09:11:04+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: text-utan-tabeller
+hamtad: 2026-10-15T07:03:07+00:00
+konverterad: 2026-10-15T07:03:17+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: full
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -624,24 +624,6 @@ Kommunstyrelsen fastställer lönestrukturen för 2026 enligt nedan:
 
 BAS-intervall 10 percentil 90 percentil
 
-```osaker-tabell
-A            25 250     30 700
-
-B            26 250     34 000
-C            28 550     37 300
-
-D            30 700     40 600
-E            32 850     44 900
-
-F            37 300     51 000
-G            40 600     55 300
-
-H            44 400     60 250
-I            49 350     65 700
-
-J            53 650     71 800
-```
-
 Sammanfattning av ärendet
 
 Kungsbacka kommun arbetar med en lönestruktur där samtliga befattningar är
@@ -668,6 +650,20 @@ kommunstyrelsens arbetsutskotts förslag, och att kommunstyrelsen bifaller det.
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: E60DB36024E83225633B4EFF23036D46148DA6BAEB
 Transaktionsidentitet: F28267642B6A7944BF82C8EDD7038A2C6D62583700
+
+[Tabell 14-1](protokoll.tabeller/14-1.csv)
+
+| A | 25 250 | 30 700 |
+| --- | --- | --- |
+| B | 26 250 | 34 000 |
+| C | 28 550 | 37 300 |
+| D | 30 700 | 40 600 |
+| E | 32 850 | 44 900 |
+| F | 37 300 | 51 000 |
+| G | 40 600 | 55 300 |
+| H | 44 400 | 60 250 |
+| I | 49 350 | 65 700 |
+| J | 53 650 | 71 800 |
 
 <!-- sida 15 -->
 
@@ -835,7 +831,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: E60DB36024E83225633B4EFF23036D46148DA6BAEB
 Transaktionsidentitet: F28267642B6A7944BF82C8EDD7038A2C6D62583700
 
-[Tabell 18-1](protokoll.tabeller/18-1.csv)
+[Tabell 18-19-1](protokoll.tabeller/18-19-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -849,6 +845,11 @@ Transaktionsidentitet: F28267642B6A7944BF82C8EDD7038A2C6D62583700
 | Stefan Jägnert (SD) | X |  |  |
 | Stefan Vilumsons (SD) | X |  |  |
 | Annika Hedman (C) | X |  |  |
+| Monica Neptun (L) | X |  |  |
+| Fredrik Kollberg (KD) | X |  |  |
+| Patrik Jervne Henestam (V) |  | X |  |
+| Maria Losman (MP) |  | X |  |
+| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 19 -->
 
@@ -873,15 +874,6 @@ Nämnden för Individ & Familjeomsorg, nämnden för Gymnasium & Arbetsmarknad
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: E60DB36024E83225633B4EFF23036D46148DA6BAEB
 Transaktionsidentitet: F28267642B6A7944BF82C8EDD7038A2C6D62583700
-
-[Tabell 19-1](protokoll.tabeller/19-1.csv)
-
-| Monica Neptun (L) | X |  |  |
-| --- | --- | --- | --- |
-| Fredrik Kollberg (KD) | X |  |  |
-| Patrik Jervne Henestam (V) |  | X |  |
-| Maria Losman (MP) |  | X |  |
-| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 20 -->
 

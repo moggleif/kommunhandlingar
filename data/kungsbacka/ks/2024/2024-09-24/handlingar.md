@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.33d6d97191e4f00c90c8a98/17266613739
 sha256: b445137a352d0c771dffff2bd603f93599a6ec0d3fee931d9595ec98414f2181
 bytes: 76037184
 sidor: 630
-hamtad: 2026-10-08T09:58:53+00:00
-konverterad: 2026-10-08T10:03:50+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T07:49:55+00:00
+konverterad: 2026-10-15T07:55:29+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, tom, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
-tal_obekraftade: [10, 65, 66, 67, 68, 69, 70, 71, 72, 220, 234, 236, 237, 238, 315, 316, 317, 318, 319, 320, 322, 325, 326, 327, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 341, 343, 345, 346, 347, 348, 349, 350, 351, 352, 353, 379, 380, 381, 414, 415, 416, 459, 462, 465, 483, 486, 630]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, tom, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
+tal_obekraftade: [10, 65, 66, 67, 68, 69, 70, 71, 72, 108, 110, 112, 113, 114, 115, 117, 118, 120, 123, 124, 167, 168, 169, 173, 175, 176, 220, 229, 234, 236, 237, 238, 315, 316, 317, 318, 319, 320, 322, 325, 326, 327, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 341, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 379, 380, 381, 414, 415, 416, 459, 462, 465, 483, 486, 630]
+figurer: [10, 30, 65, 66, 67, 68, 69, 70, 71, 72, 80, 84, 103, 109, 110, 111, 113, 114, 116, 117, 118, 119, 120, 121, 122, 123, 124, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 138, 139, 140, 141, 143, 144, 145, 146, 148, 149, 150, 151, 152, 153, 154, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 182, 192, 215, 217, 227, 234, 243, 247, 248, 249, 250, 251, 252, 255, 257, 259, 260, 262, 265, 273, 277, 279, 280, 281, 282, 284, 285, 288, 292, 293, 297, 298, 299, 301, 303, 304, 305, 310, 311, 312, 313, 314, 320, 345, 346, 347, 348, 349, 354, 362, 363, 364, 365, 367, 368, 370, 374, 375, 376, 377, 379, 380, 382, 387, 388, 389, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 416, 420, 421, 422, 423, 424, 426, 427, 429, 432, 433, 434, 435, 437, 450, 454, 457, 459, 460, 462, 464, 465, 467, 472, 475, 478, 481, 483, 486, 489, 494, 495, 508, 548, 580, 581]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -131,7 +131,7 @@ KUNGSBACKA  KOMMUN
 
 4(7)
 
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
+[Tabell 4-7-1](handlingar.tabeller/4-7-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -139,17 +139,6 @@ KUNGSBACKA  KOMMUN
 | 10. | Yttrande till Förvaltningsrätten<br>avseende överklagande<br>(laglighetsprövning enligt<br>kommunallagen) av uppdrag<br>att inleda försäljning av Fors<br>1:230 och Fors 1:231 till Eksta<br>Bostads AB | 2024-00512 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-08-14,<br>och översänder det som sitt svar till<br>Förvaltningsrätten i Göteborg. |
 | 11. | Svar på Länsstyrelsen i<br>Hallands läns remiss av förslag<br>till nytt beslut för naturreservat<br>Vallda Sandö och förslag till<br>utvidgning av reservat | 2024-00430 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-09-03,<br>och översänder det som sitt svar till Länsstyrelsen i<br>Hallands län. |
 | 12. | Svar på Länsstyrelsen i<br>Hallands läns begäran om<br>yttrande avseende fråga om<br>kommunalt vatten och avlopp<br>(dagvatten) i område Västra<br>Hagen i Kungsbacka kommun | 2024-00180 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-06-27,<br>och översänder det som sitt svar till Länsstyrelsen i<br>Hallands län. |
-
-<!-- sida 5 -->
-
-KUNGSBACKA  KOMMUN
-
-5(7)
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 13. | Svar på Göteborgsregionens<br>remiss avseende avrop inom<br>åtgärdsområdet Trimning och<br>effektivisering i stråk | 2024-00437 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-07-30,<br>och översänder det som sitt svar till<br>Göteborgsregionen. |
 | 14. | Svar på<br>Arbetsmarknadsdepartementets<br>remiss av betänkandet<br>Genomförande av<br>lönetransparensdirektivet<br>(SOU 2024:40) | 2024-00439 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-08-21,<br>och översänder det som sitt svar till<br>Arbetsmarknadsdepartementet. |
 | 15. | Svar på Klimat- och<br>näringslivsdepartementets<br>remiss av promemorian<br>Hantering av trädgårds- och<br>parkavfall (KN2024/01288) | 2024-00446 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-08-23,<br>och översänder det som sitt svar till Klimat- och<br>näringslivsdepartementet. |
@@ -157,20 +146,22 @@ KUNGSBACKA  KOMMUN
 | 17. | Anmälan av ordförandebeslut | 2024-00007 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
 | 18. | Redovisning av inkomna<br>skrivelser | 2024-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
 | 19. | Taxa för låst cykelparkering | 2024-00329 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar taxa för låst<br>cykelparkering, daterad 2024-05-15.<br>Taxan träder i kraft den 1 januari 2025.<br>Kommunfullmäktige beslutar att taxan får justeras i<br>enlighet med taxans bestämmelse §§ 5-6 om årlig<br>indexjustering och delegation. |
+| 20. | Taxa för VA 2025 | 2024-00298 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar VA-taxa 2025, daterad<br>2024-04-17.<br>Taxan träder i kraft den 1 januari 2025.<br>VA-taxa 2024, antagen av kommunfullmäktige<br>2023-11-07, § 171, upphör samtidigt att gälla. |
+| 21. | Fördelning av extra resurser till<br>skolor 2024 | 2024-00518 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fördelar Kungsbacka kommuns<br>andel av statsbidraget för stärkt kunskapsutveckling<br>2024 med 1 419 209 kronor till nämnden för<br>Gymnasium & Arbetsmarknad och 3 391 426 kronor<br>till nämnden för Förskola & Grundskola. |
+| 22. | Omfördelning av budgetmedel<br>för medfinansiering av statlig<br>infrastruktur | 2024-00476 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beslutar att kostnaderna som har<br>uppstått med anledning av avtalen för GC-vägen<br>längs (väg 970) Anneberg, GC-vägen längs (väg 934)<br>Vallbyvägen och Gåsevadsholmsvägen (väg 932),<br>GC-vägen längs (väg 956), Kyrkobydalavägen<br>Säröleden samt GC-vägen längs (väg 939)<br>Torkeltorpsvägen-Hanhals kyrkväg, som tidigare har<br>ingåtts för medfinansiering till statlig infrastruktur,<br>finansieras av kommunens centrala<br>finansverksamhet, vilket innebär att 61 miljoner<br>kronor kommer belasta årets resultat.<br>Kommunfullmäktige beslutar att den årliga budgeten<br>och kostnaden omfördelas från nämnden för Teknik<br>till kommunens centrala finansverksamhet med<br>sammantaget 1,5 miljoner kronor för de<br>medfinansieringsavtal som sedan tidigare fördelas<br>under 25 år, vilka är GC-vägen längs (väg 970)<br>Anneberg, GC-vägen längs (väg 934) Vallbyvägen<br>och Gåsevadsholmsvägen (väg 932) samt för<br>avskrivningar och internränta om 1,7 miljoner kronor<br>vardera åren 2024 och 2025 för de båda<br>medfinansieringsavtal som skrivs av direkt, vilka är<br>GC-vägen längs (väg 956), Kyrkobydalavägen<br>Säröleden samt GC-vägen längs (väg 939)<br>Torkeltorpsvägen-Hanhals kyrkväg. |
+| 23. | Svar på motion från Ermin<br>Škorić (S) m.fl. om<br>medarbetarundersökning för<br>Vård & Omsorg samt Individ<br>& Familjeomsorg utifrån de<br>fem övergripande<br>arbetsmiljömålen | 2023-00729 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att nämnden för Individ & Omsorg<br>samt nämnden för Vård & Omsorg redan genomför<br>medarbetarundersökningar samt kompletterande<br>undersökningsmetoder kopplade till det systematiska<br>arbetsmiljöarbetet utifrån de fem övergripande<br>arbetsmiljömålen som är beslutade av<br>kommunfullmäktige. |
+
+<!-- sida 5 -->
+
+KUNGSBACKA  KOMMUN
+
+5(7)
 
 <!-- sida 6 -->
 
 KUNGSBACKA  KOMMUN
 
 6(7)
-
-[Tabell 6-1](handlingar.tabeller/6-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 20. | Taxa för VA 2025 | 2024-00298 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar VA-taxa 2025, daterad<br>2024-04-17.<br>Taxan träder i kraft den 1 januari 2025.<br>VA-taxa 2024, antagen av kommunfullmäktige<br>2023-11-07, § 171, upphör samtidigt att gälla. |
-| 21. | Fördelning av extra resurser till<br>skolor 2024 | 2024-00518 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fördelar Kungsbacka kommuns<br>andel av statsbidraget för stärkt kunskapsutveckling<br>2024 med 1 419 209 kronor till nämnden för<br>Gymnasium & Arbetsmarknad och 3 391 426 kronor<br>till nämnden för Förskola & Grundskola. |
-| 22. | Omfördelning av budgetmedel<br>för medfinansiering av statlig<br>infrastruktur | 2024-00476 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beslutar att kostnaderna som har<br>uppstått med anledning av avtalen för GC-vägen<br>längs (väg 970) Anneberg, GC-vägen längs (väg 934)<br>Vallbyvägen och Gåsevadsholmsvägen (väg 932),<br>GC-vägen längs (väg 956), Kyrkobydalavägen<br>Säröleden samt GC-vägen längs (väg 939)<br>Torkeltorpsvägen-Hanhals kyrkväg, som tidigare har<br>ingåtts för medfinansiering till statlig infrastruktur,<br>finansieras av kommunens centrala<br>finansverksamhet, vilket innebär att 61 miljoner<br>kronor kommer belasta årets resultat.<br>Kommunfullmäktige beslutar att den årliga budgeten<br>och kostnaden omfördelas från nämnden för Teknik<br>till kommunens centrala finansverksamhet med<br>sammantaget 1,5 miljoner kronor för de<br>medfinansieringsavtal som sedan tidigare fördelas<br>under 25 år, vilka är GC-vägen längs (väg 970)<br>Anneberg, GC-vägen längs (väg 934) Vallbyvägen<br>och Gåsevadsholmsvägen (väg 932) samt för<br>avskrivningar och internränta om 1,7 miljoner kronor<br>vardera åren 2024 och 2025 för de båda<br>medfinansieringsavtal som skrivs av direkt, vilka är<br>GC-vägen längs (väg 956), Kyrkobydalavägen<br>Säröleden samt GC-vägen längs (väg 939)<br>Torkeltorpsvägen-Hanhals kyrkväg. |
 
 <!-- sida 7 -->
 
@@ -180,12 +171,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Patrik Johansson
 ordförande                        kommunsekreterare
-
-[Tabell 7-1](handlingar.tabeller/7-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 23. | Svar på motion från Ermin<br>Škorić (S) m.fl. om<br>medarbetarundersökning för<br>Vård & Omsorg samt Individ<br>& Familjeomsorg utifrån de<br>fem övergripande<br>arbetsmiljömålen | 2023-00729 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att nämnden för Individ & Omsorg<br>samt nämnden för Vård & Omsorg redan genomför<br>medarbetarundersökningar samt kompletterande<br>undersökningsmetoder kopplade till det systematiska<br>arbetsmiljöarbetet utifrån de fem övergripande<br>arbetsmiljömålen som är beslutade av<br>kommunfullmäktige. |
 
 <!-- sida 8 -->
 
@@ -1374,12 +1359,14 @@ Internkontrollplan 2025
 | Verksamhet | 4 Kommunövergripande risk 2. 4. Allvarlig/stor inverkan (så Ja<br>- Risk för korruption och Mindre stor att den inte får inträffa)<br>välfärdsbrottslighet vanligt |
 |  | 5 Kommunövergripande risk: 3. 3. Kännbar (uppfattas som Ja<br>Förvaltningarnas arbete med att Vanligt besvärande för berörda<br>utveckla intressenter och kommunen)<br>krisledningsorganisationen i<br>egen verksamhet |
 
-[Tabell 36-2](handlingar.tabeller/36-2.csv)
+[Tabell 36-37-2](handlingar.tabeller/36-37-2.csv)
 
 | Kategorier<br>Personal | Sanno- Anledning till att<br>Risker Konsekvens<br>likhet risk ej tas till plan<br>Kommunövergripande risk: 3. Kännbar Ingen aktuell risk för<br>Resurs- och kompetensbrist (uppfattas som kommunstyrelsens<br>2.<br>besvärande för verksamheter.<br>Mindre<br>berörda<br>vanligt<br>intressenter och<br>kommunen) |
 | --- | --- |
 | Ekonomi | Kommunövergripande risk: 3. Kännbar Utvecklingsarbete<br>Grundläggande redovisning (uppfattas som pågår bl a med nya<br>2.<br>kvalitetsbrister besvärande för avstämningar och<br>Mindre<br>berörda rapporter (BI)<br>vanligt<br>intressenter och<br>kommunen) |
 |  | Kommunövergripande risk: Omfattas av KFs<br>2. Lindrig<br>Resurser till innovation, direktiv till<br>2. (uppfattas som<br>digitalisering och omställning till nämnderna och följs<br>Mindre liten av berörda<br>nya arbetssätt för framtidens upp i processen för<br>vanligt intressenter och<br>välfärd budget och<br>kommunen)<br>uppföljning. |
+| Kategorier<br>Information<br>ssäkerhet,<br>administrati<br>on, inköp... | Sanno- Anledning till att<br>Risker Konsekvens<br>likhet risk ej tas till plan<br>Kommunövergripande risk: Arbetet med<br>3. Kännbar<br>informationssäkerhet; skydd av informationssäkerhe<br>(uppfattas som<br>information mot obehörig 2. t följer<br>besvärande för<br>tillgång Mindre gemensamma<br>berörda<br>vanligt styrdokument med<br>intressenter och<br>uppföljning i egen<br>kommunen)<br>process. |
+|  | Kommunövergripande risk: It- Tas omhand genom<br>3. Kännbar<br>säkerhet - Bristande driftmiljö inköpsprocessen/lev<br>(uppfattas som<br>hos leverantörer 2. erantörsuppföljning.<br>besvärande för<br>Mindre Även uppföljning<br>berörda<br>vanligt genom<br>intressenter och<br>systemförvaltarmod<br>kommunen)<br>ellen. |
 
 <!-- sida 37 -->
 
@@ -1387,12 +1374,6 @@ Kommunstyrelsen                                  Kungsbacka kommun
 Internkontrollplan 2025
 
 10
-
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
-
-| Kategorier<br>Information<br>ssäkerhet,<br>administrati<br>on, inköp... | Sanno- Anledning till att<br>Risker Konsekvens<br>likhet risk ej tas till plan<br>Kommunövergripande risk: Arbetet med<br>3. Kännbar<br>informationssäkerhet; skydd av informationssäkerhe<br>(uppfattas som<br>information mot obehörig 2. t följer<br>besvärande för<br>tillgång Mindre gemensamma<br>berörda<br>vanligt styrdokument med<br>intressenter och<br>uppföljning i egen<br>kommunen)<br>process. |
-| --- | --- |
-|  | Kommunövergripande risk: It- Tas omhand genom<br>3. Kännbar<br>säkerhet - Bristande driftmiljö inköpsprocessen/lev<br>(uppfattas som<br>hos leverantörer 2. erantörsuppföljning.<br>besvärande för<br>Mindre Även uppföljning<br>berörda<br>vanligt genom<br>intressenter och<br>systemförvaltarmod<br>kommunen)<br>ellen. |
 
 <!-- sida 38 -->
 
@@ -7129,7 +7110,12 @@ Inflyttningar Utflyttningar Flyttningsöverskott
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | Falkenberg | Varberg | Kungsbacka | Göteborg | Mölndal | Halmstad |
 | --- | --- | --- | --- | --- | --- | --- |
-| <1 år 29 27 20 37 27 38<br>1–2 år 17 17 11 19 14 19<br>2–3 år 10 8 7 9 9 10<br>3–5 år 8 8 7 8 8 7<br>5–10 år 7 8 10 7 9 6<br>>10 år 29 32 45 19 33 20 |  |  |  |  |  |  |
+| <1 år | 29 | 27 | 20 | 37 | 27 | 38 |
+| 1–2 år | 17 | 17 | 11 | 19 | 14 | 19 |
+| 2–3 år | 10 | 8 | 7 | 9 | 9 | 10 |
+| 3–5 år | 8 | 8 | 7 | 8 | 8 | 7 |
+| 5–10 år | 7 | 8 | 10 | 7 | 9 | 6 |
+| >10 år | 29 | 32 | 45 | 19 | 33 | 20 |
 
 <!-- sida 170 -->
 
@@ -7147,7 +7133,13 @@ ungdomar och 1/3-del svarar att det är balans.
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | KUNGSBACKA<br>STAD | SLÄP | VALLDA | ONSALA | FJÄRÅS | ÅSA<br>FRILLESÅS | GÄLLINGE | ÄLVSÅKER | KOMMUN |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <1 år 31 12 12 12 17 18 20 20 20<br>1–2 år 16 5 8 6 13 8 16 11 11<br>2–3 år 10 5 3 4 7 5 7 7 7<br>3–5 år 8 8 6 7 8 6 6 10 7<br>5–10 år 10 11 7 11 10 11 6 9 10<br>>10 år 24 59 64 61 46 51 45 44 45<br>Total 100 100 100 100 100 100 100 100 100 |  |  |  |  |  |  |  |  |  |
+| <1 år | 31 | 12 | 12 | 12 | 17 | 18 | 20 | 20 | 20 |
+| 1–2 år | 16 | 5 | 8 | 6 | 13 | 8 | 16 | 11 | 11 |
+| 2–3 år | 10 | 5 | 3 | 4 | 7 | 5 | 7 | 7 | 7 |
+| 3–5 år | 8 | 8 | 6 | 7 | 8 | 6 | 6 | 10 | 7 |
+| 5–10 år | 10 | 11 | 7 | 11 | 10 | 11 | 6 | 9 | 10 |
+| >10 år | 24 | 59 | 64 | 61 | 46 | 51 | 45 | 44 | 45 |
+| Total | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |
 
 <!-- sida 171 -->
 
@@ -12634,23 +12626,28 @@ Naturvårdsverket. Länsstyrelsen ansvarar för regelbunden tillsyn av reservate
 6\. Sammanfattning      och  prioritering  av
 planerade   skötselåtgärder
 
+Skötselåtgärd     När         Skötselområde Prioritet Finansiering
+
+Strandstädning    Vid behov   1, 2, 3, 4    2      Förvaltare
+Bete              Årligen     2 (Stora Keholmen), 8 2 Djurhållare
+
+Bete              Årligen     3, 4, 5, 6, 10, 11, 12 1 Djurhållare
+Upprätta överenskommelse Snarast 4 - i de delar som inte 1 Förvaltare
+med markägare om bete         betas idag
+Röjning           Vid behov   2 - 16        1      Förvaltare,
+djurhållare
+Bränning          Enligt      6, 7, 11      1      Förvaltaren
+bränningsplan
+Bränning          Vid behov   2, 3, 4, 5, 8, 10, 14 1 Förvaltare
+
+Sandblottor skapas Vid behov  2, 3, 6, 7, 8, 11, 12 1 Förvaltare
+Fågelåker och ängsvall Årligen 5            3      Förvaltare
+anläggs
+Avverkning/ryckning av träd Snarast, 4, 5   1      Förvaltare
+och buskar        återkommande
+Restaurering av igenvuxna Snarast 6, 7      1      Förvaltare
+
 34 Page 62 of 112
-
-[Tabell 308-1](handlingar.tabeller/308-1.csv)
-
-| Skötselåtgärd | När | Skötselområde | Prioritet | Finansiering |
-| --- | --- | --- | --- | --- |
-| Strandstädning | Vid behov | 1, 2, 3, 4 | 2 | Förvaltare |
-| Bete | Årligen | 2 (Stora Keholmen), 8 | 2 | Djurhållare |
-| Bete | Årligen | 3, 4, 5, 6, 10, 11, 12 | 1 | Djurhållare |
-| Upprätta överenskommelse<br>med markägare om bete | Snarast | 4 - i de delar som inte<br>betas idag | 1 | Förvaltare |
-| Röjning | Vid behov | 2 - 16 | 1 | Förvaltare,<br>djurhållare |
-| Bränning | Enligt<br>bränningsplan | 6, 7, 11 | 1 | Förvaltaren |
-| Bränning | Vid behov | 2, 3, 4, 5, 8, 10, 14 | 1 | Förvaltare |
-| Sandblottor skapas | Vid behov | 2, 3, 6, 7, 8, 11, 12 | 1 | Förvaltare |
-| Fågelåker och ängsvall<br>anläggs | Årligen | 5 | 3 | Förvaltare |
-| Avverkning/ryckning av träd<br>och buskar | Snarast,<br>återkommande | 4, 5 | 1 | Förvaltare |
-| Restaurering av igenvuxna | Snarast | 6, 7 | 1 | Förvaltare |
 
 <!-- sida 309 -->
 
@@ -12865,17 +12862,17 @@ Hävd av strandängen
 2.2.1.4  Vattenförsörjning
 2\. 2. 2                                                    7
 Hävd av hällmarksljungheden
-2.2 . 3                                                    8
+2.2. 3                                                     8
 Hävd av skogen
-2.2 . 4                                                    8
+2.2. 4                                                     8
 Hävd av odlad mark och ängsmark
 2\. 2. 5                                                    8
 Fornminnen och fornminnesområden
-2.2 . 6                                                    8
+2.2. 6                                                     8
 Reningsverk
-2.2 . 7                                                    8
+2.2. 7                                                     8
 Småbåtshamn
-2.2 . 8                                                    8
+2.2. 8                                                     8
 Golfbana
 2\. 2. 9                                                    9
 Luf tle dni ng
@@ -13363,7 +13360,7 @@ na genom bete eller slåtter.
 
 2.2      Principer för disposition av mark och vatten samt åt­
 gärder av allmän karaktär
-2.2 .1    Hävd_av strandän�en
+2.2.1     Hävd_av strandän�en
 
 2.2.1.1   Bete
 Årligt bete ska �ke med nötkreatur, får och/eller häs­
@@ -13387,7 +13384,7 @@ Stängsel underhålls kontinuerligt.
 Erforderliga anordningar för djurens vattenförsörjning
 ordnas i den mån det  saknas och befintliga sådana
 underhålls kontinuerligt.
-2.2 .2   �ä�d_a� hällmarkslJungheden
+2.2.2    �ä�d_a� hällmarkslJungheden
 Röjning av lövsly och i viss utsträckning en ska ut­
 föras i den mån de negativt inverkar på landskapets
 öppenhet och allmänhetens framkomlighet. Tillväxten är
@@ -13940,7 +13937,7 @@ tavla snarast.  Betnjng •
 1 d Öppen ängsmark           Uppsättning av stängsel
 och stättor snarast.
 Betning av hela området
-fr o m 1 981. Lätt röjning
+fr o m 1981. Lätt röjning
 av en snarast.
 1 e Öppen ängsmark            Rensning av diken snarast.
 
@@ -14087,7 +14084,7 @@ sas så att besökare kommer att stå i höjd med träd­
 kronorna. Utförandet av tornet kan vara av enklare
 slag. Underhålles kontinuerligt.
 
-3.2 . 9    Informationstavlor
+3.2. 9     Informationstavlor
 
 Placering av informationstavlor och fågelskyddstav­
 lor framgår av karta. En större informationstavla
@@ -17863,7 +17860,7 @@ pågående detaljplaner/vägplaner.
 
 Avrop förstärkta satsningar trimning och effektivisering i stråk 3 (4)
 
-[Tabell 452-1](handlingar.tabeller/452-1.csv)
+[Tabell 452-453-1](handlingar.tabeller/452-453-1.csv)
 
 | Kommun ÅVS Åtgärdsnamn Bidrag |  |  |  |
 | --- | --- | --- | --- |
@@ -17874,6 +17871,8 @@ Avrop förstärkta satsningar trimning och effektivisering i stråk 3 (4)
 | Göteborg | TRV 2017/43201 | Trafiksäkerhetsåtgärder Bondegärdet<br>och Hjällbo Lillgata | 36 000 000 kr |
 | Göteborg | TRV 2017/43201 | GC-väg mellan<br>Fotbollsvägen/Bondegärdet och<br>Angereds Storåsväg | 16 200 000 kr |
 | Partille | TRV 2017/117972 | Vägbreddning 2+1 körfält med<br>mittseparering av Landvettervägen-<br>Partillevägen. | 40 000 000 kr |
+| Partille | TRV 2017/117972 | Anpassning av cirkulationsplats vid<br>Nya Öjersjövägen. | 15 000 000 kr |
+|  |  |  | 118 880 000 kr |
 
 <!-- sida 453 -->
 
@@ -17898,12 +17897,6 @@ Vid eventuella frågor är ni välkomna att kontakta Anna Gustafsson
 ((e-post borttagen)).
 
 Avrop förstärkta satsningar trimning och effektivisering i stråk 4 (4)
-
-[Tabell 453-1](handlingar.tabeller/453-1.csv)
-
-| Partille | TRV 2017/117972 | Anpassning av cirkulationsplats vid<br>Nya Öjersjövägen. | 15 000 000 kr |
-| --- | --- | --- | --- |
-|  |  |  | 118 880 000 kr |
 
 <!-- sida 454 -->
 
@@ -22648,24 +22641,31 @@ Anläggningsavgift ska betalas för Bostadsfastighet.
 
 Avgift utgår per fastighet med:
 
+a) Servisavgift
+En ledning             74 984 kr 80%
+Två ledningar          84 357 kr 90%
+
+Tre ledningar          93 730 kr 100%
+V       S      Df      Dg  Totalavgift
+27 727 kr 42 879 kr 17 152 kr
+b) Förbindelsepunktsavgift                       -   85 758 kr
+30%     50%    20%
+30,90 kr 51,50 kr 5,15 kr
+15,45
+c) Tomtyteavgift per m2                          kr  103,00 kr
+30%     50%    5%
+15%
+20 085 kr 30 128 kr
+d) Bostadsenhetsavgift                   -       -   50 212 kr
+40%
+60%
+Avgift för Dagvatten utan att
+e)\*                       -       -      26 525 kr - 26 525 kr
+förbindelsepunkt är upprättad
 \*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
 ut, reduceras avgift enligt 5.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        5 (15)
-
-[Tabell 563-1](handlingar.tabeller/563-1.csv)
-
-| a) | Servisavgift |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | En ledning | 74 984 kr 80% |  |  |  |  |
-|  | Två ledningar | 84 357 kr 90% |  |  |  |  |
-|  | Tre ledningar | 93 730 kr 100% |  |  |  |  |
-|  |  | V | S | Df | Dg | Totalavgift |
-| b) | Förbindelsepunktsavgift | 27 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
-| c) | Tomtyteavgift per m2 | 30,90 kr<br>30% | 51,50 kr<br>50% | 5,15 kr<br>5% | 15,45<br>kr<br>15% | 103,00 kr |
-| d) | Bostadsenhetsavgift | 20 085 kr<br>40% | 30 128 kr<br>60% | - | - | 50 212 kr |
-| e)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
 
 <!-- sida 564 -->
 
@@ -22748,15 +22748,31 @@ Anläggningsavgift ska betalas för Annan fastighet.
 
 Avgift utgår per fastighet med:
 
+a) Servisavgift
+
+En ledning            74 984 kr 80%
+
+Två ledningar         84 357 kr 90%
+
+Tre ledningar         93 730 kr 100%
+V      S      Df       Dg   Totalavgift
+
+27 727 kr 42 879 kr 17 152 kr
+b) Förbindelsepunktsavgift                      -    85 758 kr
+30%    50%    20%
+35,20 kr 58,66 kr 5,87 kr 17,60 kr
+c) Tomtyteavgift per m2                              117,32 kr
+30%    50%    5%       15%
+Avgift för Dagvatten utan att
+d)\*                      -      -      26 525 kr -
+förbindelsepunkt är upprättad
 \*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
 ut, reduceras avgift enligt 6.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 6.2
 Är förbindelsepunkt gemensam för två eller flera fastigheter, fördelas avgifter enligt
 6.1 a) lika mellan fastigheterna.
-
 6.3
-
 Om godtagbar säkerhet ställs, kan huvudmannen medge anstånd med betalning av
 Tomtyteavgift för viss andel av fastighetens areal som motsvarar markyta som
 tillsvidare inte utnyttjas för verksamheten på fastigheten.
@@ -22766,18 +22782,6 @@ fastighetsbildningsåtgärd frångår fastigheten, upphör anståndsmedgivandet 
 och resterande Tomtyteavgift förfaller till betalning.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        7 (15)
-
-[Tabell 565-1](handlingar.tabeller/565-1.csv)
-
-| a) | Servisavgift |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | En ledning | 74 984 kr 80% |  |  |  |  |
-|  | Två ledningar | 84 357 kr 90% |  |  |  |  |
-|  | Tre ledningar | 93 730 kr 100% |  |  |  |  |
-|  |  | V | S | Df | Dg | Totalavgift |
-| b) | Förbindelsepunktsavgift | 27 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
-| c) | Tomtyteavgift per m2 | 35,20 kr<br>30% | 58,66 kr<br>50% | 5,87 kr<br>5% | 17,60 kr<br>15% | 117,32 kr |
-| d)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
 
 <!-- sida 566 -->
 
@@ -22963,6 +22967,13 @@ V     S      Df    Dg    Totalavgift
 
 a) En Grundavgift per år      690 kr 1035 kr           1 725 kr
 40%   60%
+b) en avgift per m³ levererat vatten 13,10 kr 26,40 kr 39,50 kr
+33%   67%
+
+c) en Bostadsenhetsavgift per Bostadsenhet 690 kr 1035 kr 1 725 kr
+och år för Bostadsfastighet 40%  60%
+d) en Dagvattenavgift per m² hårdgjord     1,13 kr 0,31 kr 1,44 kr
+tomtyta och år                          79%   21%
 
 I fråga om bebyggd annan fastighet räknas även varje påbörjat 200-tal m2
 bruttoarea (BTA) enligt Svensk Standard SS 02 10 50 som en bostadsenhet. Vid
@@ -22983,13 +22994,6 @@ Brukningsavgift för tillfälligt vatten ska betalas enligt 14.1 b). Om mätning
 antas den förbrukade vattenmängden uppgå till 50 m³ per Bostadsenhet.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        11 (15)
-
-[Tabell 569-1](handlingar.tabeller/569-1.csv)
-
-| b) | en avgift per m³ levererat vatten | 13,10 kr<br>33% | 26,40 kr<br>67% |  |  | 39,50 kr |
-| --- | --- | --- | --- | --- | --- | --- |
-| c) | en Bostadsenhetsavgift per Bostadsenhet<br>och år för Bostadsfastighet | 690 kr<br>40% | 1035 kr<br>60% |  |  | 1 725 kr |
-| d) | en Dagvattenavgift per m² hårdgjord<br>tomtyta och år |  |  | 1,13 kr<br>79% | 0,31 kr<br>21% | 1,44 kr |
 
 <!-- sida 570 -->
 
@@ -23687,43 +23691,58 @@ Anläggningsavgift ska betalas för Bostadsfastighet.
 
 Avgift utgår per fastighet med:
 
+a) Servisavgift
+En ledning             74 984 kr 80%
+Två ledningar          84 357 kr 90%
+
+Tre ledningar          93 730 kr 100%
+V       S      Df      Dg  Totalavgift
+27 727 kr 42 879 kr 17 152 kr
+b) Förbindelsepunktsavgift                       -   85 758 kr
+30%     50%    20%
+30,90 kr 51,50 kr 5,15 kr
+15,45
+c) Tomtyteavgift per m2                          kr  103,00 kr
+30%     50%    5%      15%
+20 085 kr 30 128 kr
+d) Bostadsenhetsavgift                   -       -   50 212 kr
+40%
+60%
+Avgift för Dagvatten utan att
+e)\*                       -       -      26 525 kr - 26 525 kr
+förbindelsepunkt är upprättad
 \*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
 ut, reduceras avgift enligt 5.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        5 (19)
-
-[Tabell 586-1](handlingar.tabeller/586-1.csv)
-
-| a) | Servisavgift |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | En ledning | 74 984 kr 80% |  |  |  |  |
-|  | Två ledningar | 84 357 kr 90% |  |  |  |  |
-|  | Tre ledningar | 93 730 kr 100% |  |  |  |  |
-|  |  | V | S | Df | Dg | Totalavgift |
-| b) | Förbindelsepunktsavgift | 27 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
-| c) | Tomtyteavgift per m2 | 30,90 kr<br>30% | 51,50 kr<br>50% | 5,15 kr<br>5% | 15,45<br>kr<br>15% | 103,00 kr |
-| d) | Bostadsenhetsavgift | 20 085 kr<br>40% | 30 128 kr<br>60% | - | - | 50 212 kr |
-| e)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
 
 <!-- sida 587 -->
 
 2024
 
+a)  Servisavgift
+En ledning             107 000 kr 80%
+Två ledningar          120 000 kr 90%
+
+Tre ledningar          133 000 kr 100%
+V       S      Df     Dg   Totalavgift
+29 140  45 790kr 8 330kr
+b)  Förbindelsepunktsavgift                      -    83 260 kr
+kr 35%  55%    10%
+7,00
+20,00 kr 20,00kr 20,00kr
+c)  Tomtyteavgift per m2                         kr   67,00 kr
+30%     30%    30%
+10%
+23 110 kr 23 110 kr
+d)  Bostadsenhetsavgift                   -      -    46 220 kr
+50%
+50%
+Avgift för Dagvatten utan att
+e)\*                        -       -      16 650 kr - 16 650 kr
+förbindelsepunkt är upprättad
+
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        6 (19)
-
-[Tabell 587-1](handlingar.tabeller/587-1.csv)
-
-| a) | Servisavgift |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | En ledning | 107 000 kr 80% |  |  |  |  |
-|  | Två ledningar | 120 000 kr 90% |  |  |  |  |
-|  | Tre ledningar | 133 000 kr 100% |  |  |  |  |
-|  |  | V | S | Df | Dg | Totalavgift |
-| b) | Förbindelsepunktsavgift | 29 140<br>kr 35% | 45 790kr<br>55% | 8 330kr<br>10% | - | 83 260 kr |
-| c) | Tomtyteavgift per m2 | 20,00 kr<br>30% | 20,00kr<br>30% | 20,00kr<br>30% | 7,00<br>kr<br>10% | 67,00 kr |
-| d) | Bostadsenhetsavgift | 23 110 kr<br>50% | 23 110 kr<br>50% | - | - | 46 220 kr |
-| e)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 16 650 kr | - | 16 650 kr |
 
 <!-- sida 588 -->
 
@@ -23806,37 +23825,50 @@ Anläggningsavgift ska betalas för Annan fastighet.
 
 Avgift utgår per fastighet med:
 
+a) Servisavgift
+
+En ledning            74 984 kr 80%
+
+Två ledningar         84 357 kr 90%
+
+Tre ledningar         93 730 kr 100%
+V      S      Df       Dg   Totalavgift
+
+27 727 kr 42 879 kr 17 152 kr
+b) Förbindelsepunktsavgift                      -    85 758 kr
+30%    50%    20%
+35,20 kr 58,66 kr 5,87 kr 17,60 kr
+c) Tomtyteavgift per m2                              117,32 kr
+30%    50%    5%       15%
+Avgift för Dagvatten utan att
+d)\*                      -      -      26 525 kr -
+förbindelsepunkt är upprättad
 \*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
 ut, reduceras avgift enligt 6.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 2024
+a)  Servisavgift
+En ledning            107 000 kr 80%
+
+Två ledningar         120 000 kr 90%
+
+Tre ledningar         133 000 kr 100%
+
+V      S      Df      Dg    Totalavgift
+63 530 kr 99 830 kr 18 150 kr
+b)  Förbindelsepunktsavgift                     -     181 510 kr
+35%    55%    10%
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        8 (19)
 
-[Tabell 589-1](handlingar.tabeller/589-1.csv)
-
-| a) | Servisavgift |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | En ledning | 74 984 kr 80% |  |  |  |  |
-|  | Två ledningar | 84 357 kr 90% |  |  |  |  |
-|  | Tre ledningar | 93 730 kr 100% |  |  |  |  |
-|  |  | V | S | Df | Dg | Totalavgift |
-| b) | Förbindelsepunktsavgift | 27 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
-| c) | Tomtyteavgift per m2 | 35,20 kr<br>30% | 58,66 kr<br>50% | 5,87 kr<br>5% | 17,60 kr<br>15% | 117,32 kr |
-| d)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
-
-[Tabell 589-2](handlingar.tabeller/589-2.csv)
-
-| a) | Servisavgift |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | En ledning | 107 000 kr 80% |  |  |  |  |
-|  | Två ledningar | 120 000 kr 90% |  |  |  |  |
-|  | Tre ledningar | 133 000 kr 100% |  |  |  |  |
-|  |  | V | S | Df | Dg | Totalavgift |
-| b) | Förbindelsepunktsavgift | 63 530 kr<br>35% | 99 830 kr<br>55% | 18 150 kr<br>10% | - | 181 510 kr |
-
 <!-- sida 590 -->
 
+20,00 kr 20,00kr 20,00kr 7,00kr
+c)  Tomtyteavgift per m2                              67,00 kr
+30%    30%    30%     10%
+Avgift för Dagvatten utan att
+d)\*                       -      -      22 200kr -
+förbindelsepunkt är upprättad
 6.2
 
 Är förbindelsepunkt gemensam för två eller flera fastigheter, fördelas avgifter enligt
@@ -23878,12 +23910,6 @@ med:
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        9 (19)
 
 [Tabell 590-1](handlingar.tabeller/590-1.csv)
-
-| c) | Tomtyteavgift per m2 | 20,00 kr<br>30% | 20,00kr<br>30% | 20,00kr<br>30% | 7,00kr<br>10% | 67,00 kr |
-| --- | --- | --- | --- | --- | --- | --- |
-| d)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 22 200kr | - |  |
-
-[Tabell 590-2](handlingar.tabeller/590-2.csv)
 
 |  |  | Bostadsfastighet |  | Annan fastighet |
 | --- | --- | --- | --- | --- |
@@ -24039,6 +24065,13 @@ V     S      Df    Dg    Totalavgift
 
 a) En Grundavgift per år      690 kr 1035 kr           1 725 kr
 40%   60%
+b) en avgift per m³ levererat vatten 13,10 kr 26,40 kr 39,50 kr
+33%   67%
+
+c) en Bostadsenhetsavgift per Bostadsenhet 690 kr 1035 kr 1 725 kr
+och år för Bostadsfastighet 40%  60%
+d) en Dagvattenavgift per m² hårdgjord     1,13 kr 0,31 kr 1,44 kr
+tomtyta och år                          79%   21%
 
 2024
 
@@ -24046,6 +24079,13 @@ V     S     Df    Dg     Totalavgift
 
 a) En Grundavgift per år       580 kr 870 kr            1 450 kr
 40%   60%
+b) en avgift per m³ levererat vatten 11 kr 22,20 kr     33,20 kr
+33%   67%
+
+c) en Bostadsenhetsavgift per Bostadsenhet 580 kr 870 kr 1 450kr
+och år för Bostadsfastighet 40%   60%
+d) en Dagvattenavgift per m² hårdgjord     0,95 kr 0,26 kr 1,21 kr
+tomtyta och år                          79%   21%
 
 I fråga om bebyggd annan fastighet räknas även varje påbörjat 200-tal m2
 bruttoarea (BTA) enligt Svensk Standard SS 02 10 50 som en bostadsenhet. Vid
@@ -24053,20 +24093,6 @@ beräkning av antalet ekvivalenta bostadsenheter för bebyggd annan fastighet
 reduceras bruttoarean för lager- och förrådslokaler med 50 %.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        13 (19)
-
-[Tabell 594-1](handlingar.tabeller/594-1.csv)
-
-| b) | en avgift per m³ levererat vatten | 13,10 kr<br>33% | 26,40 kr<br>67% |  |  | 39,50 kr |
-| --- | --- | --- | --- | --- | --- | --- |
-| c) | en Bostadsenhetsavgift per Bostadsenhet<br>och år för Bostadsfastighet | 690 kr<br>40% | 1035 kr<br>60% |  |  | 1 725 kr |
-| d) | en Dagvattenavgift per m² hårdgjord<br>tomtyta och år |  |  | 1,13 kr<br>79% | 0,31 kr<br>21% | 1,44 kr |
-
-[Tabell 594-2](handlingar.tabeller/594-2.csv)
-
-| b) | en avgift per m³ levererat vatten | 11 kr<br>33% | 22,20 kr<br>67% |  |  | 33,20 kr |
-| --- | --- | --- | --- | --- | --- | --- |
-| c) | en Bostadsenhetsavgift per Bostadsenhet<br>och år för Bostadsfastighet | 580 kr<br>40% | 870 kr<br>60% |  |  | 1 450kr |
-| d) | en Dagvattenavgift per m² hårdgjord<br>tomtyta och år |  |  | 0,95 kr<br>79% | 0,26 kr<br>21% | 1,21 kr |
 
 <!-- sida 595 -->
 

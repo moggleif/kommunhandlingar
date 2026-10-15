@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1825fec18e5f70a9a5c06/1711034491484
 sha256: d645d49ddff4239e74e35e869a3f98a10120af19764d353704c2b4bc2ac029ed
 bytes: 740754
 sidor: 45
-hamtad: 2026-10-08T09:07:34+00:00
-konverterad: 2026-10-08T09:07:41+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:00:37+00:00
+konverterad: 2026-10-15T07:00:46+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -729,12 +729,25 @@ enligt kommunstyrelsens arbetsutskotts förslag.
 
 Expedierat/bestyrkt
 
-[Tabell 17-1](protokoll.tabeller/17-1.csv)
+[Tabell 17-18-1](protokoll.tabeller/17-18-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
 | Emanuel Forsell (M) | X |  |  |
 | Hravn Forsne (M) | X |  |  |
+| Berit Bergström (M) | X |  |  |
+| Axel Storckenfeldt (M) | X |  |  |
+| Thure Sandén (M) | X |  |  |
+| Magdalena Sundqvist (S) |  | X |  |
+| Ann-Louise Lundqvist (S) |  | X |  |
+| Stefan Jägnert (SD) |  | X |  |
+| Stefan Vilumsons (SD) |  | X |  |
+| Fredrik Hansson (C) | X |  |  |
+| Monica Neptun (L) | X |  |  |
+| Fredrik Kollberg (KD) | X |  |  |
+| Patrik Jervne Henestam (V) |  | X |  |
+| Maria Losman (MP) |  | X |  |
+| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 18 -->
 
@@ -753,23 +766,6 @@ Lagfaren ägare till Vallda 20:3, lagfaren ägare till Bröndome 1:2, lagfaren �
 Vallda 20:59
 
 Expedierat/bestyrkt
-
-[Tabell 18-1](protokoll.tabeller/18-1.csv)
-
-| Berit Bergström (M) | X |  |  |
-| --- | --- | --- | --- |
-| Axel Storckenfeldt (M) | X |  |  |
-| Thure Sandén (M) | X |  |  |
-| Magdalena Sundqvist (S) |  | X |  |
-| Ann-Louise Lundqvist (S) |  | X |  |
-| Stefan Jägnert (SD) |  | X |  |
-| Stefan Vilumsons (SD) |  | X |  |
-| Fredrik Hansson (C) | X |  |  |
-| Monica Neptun (L) | X |  |  |
-| Fredrik Kollberg (KD) | X |  |  |
-| Patrik Jervne Henestam (V) |  | X |  |
-| Maria Losman (MP) |  | X |  |
-| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 19 -->
 
@@ -1216,7 +1212,7 @@ beslutanderätten genom att själv ta över ärendet och fatta beslut.
 
 Expedierat/bestyrkt
 
-[Tabell 29-1](protokoll.tabeller/29-1.csv)
+[Tabell 29-30-1](protokoll.tabeller/29-30-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -1229,6 +1225,9 @@ Expedierat/bestyrkt
 | Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>Länsstyrelsens remiss om förslag på<br>miljöanpassningsåtgärder av vattenverksamhet för<br>elproduktion |
 | Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>Havs- och vattenmyndighetens remiss om översyn<br>och aktualisering av hamnarna av riksintresse för<br>yrkesfisket |
 | Exploateringshandläggare | Servitutsavtal Nötegång 1:91 - Teleledningar |
+| Mark- och exploateringschef | Avtal om partiell nyttjanderätt del av Li 2:23<br>Hallandsleden |
+| Exploateringshandläggare | Servitutsavtal Iserås 4:89 och 4:112 - VA- och<br>teleledningar |
+| Exploateringshandläggare | Servitutsavtal Nötegång 2:120 - dagvattenledning |
 
 <!-- sida 30 -->
 
@@ -1244,13 +1243,6 @@ redovisningen av delegeringsbeslut fattade under perioden 2024-01-15 till
 2024-03-12, och finner att kommunstyrelsen bifaller det.
 
 Expedierat/bestyrkt
-
-[Tabell 30-1](protokoll.tabeller/30-1.csv)
-
-| Mark- och exploateringschef | Avtal om partiell nyttjanderätt del av Li 2:23<br>Hallandsleden |
-| --- | --- |
-| Exploateringshandläggare | Servitutsavtal Iserås 4:89 och 4:112 - VA- och<br>teleledningar |
-| Exploateringshandläggare | Servitutsavtal Nötegång 2:120 - dagvattenledning |
 
 <!-- sida 31 -->
 
@@ -1514,7 +1506,7 @@ enligt kommunstyrelsens arbetsutskotts förslag.
 
 Expedierat/bestyrkt
 
-[Tabell 36-1](protokoll.tabeller/36-1.csv)
+[Tabell 36-37-1](protokoll.tabeller/36-37-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -1527,6 +1519,12 @@ Expedierat/bestyrkt
 | Ann-Louise Lundqvist (S) |  | X |  |
 | Stefan Jägnert (SD) | X |  |  |
 | Stefan Vilumsons (SD) | X |  |  |
+| Fredrik Hansson (C) | X |  |  |
+| Monica Neptun (L) | X |  |  |
+| Fredrik Kollberg (KD) | X |  |  |
+| Patrik Jervne Henestam (V) |  | X |  |
+| Maria Losman (MP) |  | X |  |
+| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 37 -->
 
@@ -1541,16 +1539,6 @@ Familjeomsorg, nämnden för Förskola & Grundskola, nämnden för Gymnasium &
 Arbetsmarknad
 
 Expedierat/bestyrkt
-
-[Tabell 37-1](protokoll.tabeller/37-1.csv)
-
-| Fredrik Hansson (C) | X |  |  |
-| --- | --- | --- | --- |
-| Monica Neptun (L) | X |  |  |
-| Fredrik Kollberg (KD) | X |  |  |
-| Patrik Jervne Henestam (V) |  | X |  |
-| Maria Losman (MP) |  | X |  |
-| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 38 -->
 

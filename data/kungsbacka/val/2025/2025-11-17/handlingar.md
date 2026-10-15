@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.40dca3c719a555f04d07ed9f/1762928400
 sha256: b495bc805ece245996bf99e3478a5cb327179ba8dc0497203fd6b512f1927deb
 bytes: 2459041
 sidor: 44
-hamtad: 2026-10-08T08:55:57+00:00
-konverterad: 2026-10-08T08:56:15+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T06:52:04+00:00
+konverterad: 2026-10-15T06:52:21+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok]
 tal_obekraftade: [39]
-figurer: null
-tolkade: null
+figurer: [27, 42, 43]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -993,11 +993,14 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 |  | 2 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>och välfärdsbrottslighet inträffa) |
 |  | 3 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att följa och berörda intressenter och<br>utveckla det kommunen)<br>systematiska<br>beredskapsarbetet |
 
-[Tabell 28-2](handlingar.tabeller/28-2.csv)
+[Tabell 28-29-2](handlingar.tabeller/28-29-2.csv)
 
 | Kategorier<br>Personal | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip 3. Kännbar<br>ande risk: (uppfattas som<br>Efterlevnad till besvärande för<br>2. Mindre vanligt<br>rekryteringsproce berörda<br>ssen intressenter och<br>kommunen) |
 | --- | --- |
 | Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. | Kommunövergrip 3. Kännbar<br>ande risk: (uppfattas som<br>informationssäke besvärande för<br>2. Mindre vanligt<br>rhet; skydd av berörda<br>information mot intressenter och<br>obehörig tillgång kommunen) |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip 3. Kännbar<br>ande risk: It- (uppfattas som<br>säkerhet besvärande för<br>2. Mindre vanligt<br>- Bristande berörda<br>driftmiljö hos intressenter och<br>leverantörer kommunen) |
+|  | Kommunövergrip<br>ande risk: Risk<br>att<br>samhällsutbyggn<br>ad inte kan ske i<br>planerad takt. Ny 3. Kännbar<br>infrastruktur och (uppfattas som<br>exploatering och besvärande för<br>2. Mindre vanligt<br>projekt för berörda<br>underhåll/utbygg intressenter och<br>nad av befintlig kommunen)<br>infrastruktur är<br>beroende av<br>varandra<br>(resurser och<br>samplanering). |
+| Verksamhet | Kommunövergrip<br>ande risk: 3. Kännbar<br>Dämpad (uppfattas som<br>befolkningstillväx besvärande för<br>2. Mindre vanligt<br>t med långsiktig berörda<br>påverkan på intressenter och<br>kommunala kommunen)<br>verksamheter |
 
 <!-- sida 29 -->
 
@@ -1005,13 +1008,6 @@ Nämnden för Valnämnd                             Kungsbacka kommun
 Intern kontrollplan 2026
 
 10
-
-[Tabell 29-1](handlingar.tabeller/29-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip 3. Kännbar<br>ande risk: It- (uppfattas som<br>säkerhet besvärande för<br>2. Mindre vanligt<br>- Bristande berörda<br>driftmiljö hos intressenter och<br>leverantörer kommunen) |
-| --- | --- |
-|  | Kommunövergrip<br>ande risk: Risk<br>att<br>samhällsutbyggn<br>ad inte kan ske i<br>planerad takt. Ny 3. Kännbar<br>infrastruktur och (uppfattas som<br>exploatering och besvärande för<br>2. Mindre vanligt<br>projekt för berörda<br>underhåll/utbygg intressenter och<br>nad av befintlig kommunen)<br>infrastruktur är<br>beroende av<br>varandra<br>(resurser och<br>samplanering). |
-| Verksamhet | Kommunövergrip<br>ande risk: 3. Kännbar<br>Dämpad (uppfattas som<br>befolkningstillväx besvärande för<br>2. Mindre vanligt<br>t med långsiktig berörda<br>påverkan på intressenter och<br>kommunala kommunen)<br>verksamheter |
 
 <!-- sida 30 -->
 

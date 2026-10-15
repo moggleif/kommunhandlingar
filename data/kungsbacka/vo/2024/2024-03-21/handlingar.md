@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.99ff57618df2ddb19d38366/17107777120
 sha256: b4dadf45e03cae9c15ec71e56426abfc45c473b7215544f08149b256e9bff0f9
 bytes: 7670549
 sidor: 93
-hamtad: 2026-10-08T08:20:55+00:00
-konverterad: 2026-10-08T08:21:27+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T06:11:36+00:00
+konverterad: 2026-10-15T06:12:11+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [48, 59, 60, 61, 62]
-figurer: null
-tolkade: null
+figurer: [1, 12, 13, 14, 33]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -477,19 +477,33 @@ Nedan framgår en översikt över de konsekvensbedömningar som gjorts i kommune
 och där jag lämnat råd. Inom parentes anges vilken del av kommunens verksamhet som gjort
 konsekvensbedömningen:
 
+Gjorda konsekvensbedömningar där lämnat råd
+2021                 2022                 2023
+
+Integrationsplattform (SE) Kontors- och samarbetsverktyg (KS) Stöd vid separationer (IF)
+
+Mitt Arkiv (KS)                          Specialkost (SE)
+Ansökan om stipendium – e-tjänst
+(GA)
+
+E-tjänsteplattform (KS) Gästnätverk (SE) Stöd för automatisering av
+arbets- och beslutsprocesser (KS)
+
+Kompletterande                           Dokumentation vid
+kamerabevakning/digital tillsyn Chattverktyg på kommunens disciplinärenden (KS)
+(VO/IF)            hemsida (KS)
+
+Bedömningsstöd inom Hantering av         Automatiserat avslut av
+gymnasieskolan (GA) användarbehörigheter (SE) personakter (SE)
+
+Färdtjänst – e-tjänst (TE)               Analys- och planeringsstöd inom
+Rapportering av missförhållanden socialtjänsten (IF)
+(visselblåsarfunktion) (KS)
+
+Ekonomiskt bistånd – e-tjänst            Säker posthantering
+(GA)               Digitalt stöd inom LSS (IF) (digital/fysisk) (KS)
+
 10
-
-[Tabell 10-1](handlingar.tabeller/10-1.csv)
-
-| Gjorda konsekvensbedömningar där lämnat råd<br>2021 2022 2023 |  |  |
-| --- | --- | --- |
-| Integrationsplattform (SE) | Kontors- och samarbetsverktyg (KS) | Stöd vid separationer (IF) |
-| Mitt Arkiv (KS) | Ansökan om stipendium – e-tjänst<br>(GA) | Specialkost (SE) |
-| E-tjänsteplattform (KS) | Gästnätverk (SE) | Stöd för automatisering av<br>arbets- och beslutsprocesser (KS) |
-| Kompletterande<br>kamerabevakning/digital tillsyn<br>(VO/IF) | Chattverktyg på kommunens<br>hemsida (KS) | Dokumentation vid<br>disciplinärenden (KS) |
-| Bedömningsstöd inom<br>gymnasieskolan (GA) | Hantering av<br>användarbehörigheter (SE) | Automatiserat avslut av<br>personakter (SE) |
-| Färdtjänst – e-tjänst (TE) | Rapportering av missförhållanden<br>(visselblåsarfunktion) (KS) | Analys- och planeringsstöd inom<br>socialtjänsten (IF) |
-| Ekonomiskt bistånd – e-tjänst<br>(GA) | Digitalt stöd inom LSS (IF) | Säker posthantering<br>(digital/fysisk) (KS) |
 
 <!-- sida 11 -->
 
@@ -1503,19 +1517,21 @@ Telefonlista
 Telefonnummer som är bra att känna till och veta när de kan användas utifrån
 ansvarsområde.
 
+Enhet                  Kontaktinfo Ansvarsområde
+Polis                  114 14    Råd och stöd
+
+Polis                  112       Akut situation
+
+Socialjour kvällar och helger 031-365 87 00 Skydd, stöd och råd
+Kvinnofridslinjen      020-50 50 50 För yrkesverksamma och enskilda. Stöd och råd
+dygnet runt
+
+Stödtelefon Hedersförtryck 010-223 57 60 För yrkesverksamma. Stöd och råd.
+Välj att sluta         020-555 666 För enskilda som utövar våld mot sin partner
+
 Processflöde
 
 Kungsbacka kommun            Riktlinje våld i nära relation     5 (6)
-
-[Tabell 33-1](handlingar.tabeller/33-1.csv)
-
-| Enhet | Kontaktinfo | Ansvarsområde |
-| --- | --- | --- |
-| Polis<br>Polis | 114 14<br>112 | Råd och stöd<br>Akut situation |
-| Socialjour kvällar och helger | 031-365 87 00 | Skydd, stöd och råd |
-| Kvinnofridslinjen | 020-50 50 50 | För yrkesverksamma och enskilda. Stöd och råd<br>dygnet runt |
-| Stödtelefon Hedersförtryck | 010-223 57 60 | För yrkesverksamma. Stöd och råd. |
-| Välj att sluta | 020-555 666 | För enskilda som utövar våld mot sin partner |
 
 <!-- sida 34 -->
 
@@ -1944,7 +1960,8 @@ www.kungsbacka.se
 
 | 2023 | uppräknat | 2024 |
 | --- | --- | --- |
-| Omsorg per timme 449<br>Service per timme 407 | +26 kr<br>+26 kr | 496<br>453 |
+| Omsorg per timme 449 | +26 kr | 496 |
+| Service per timme 407 | +26 kr | 453 |
 | OPI 1,9% |  | 4,6% |
 
 <!-- sida 45 -->
@@ -2284,9 +2301,15 @@ eftersom ålder på fastigheten genererar olika utmaningar för driften. Äldre 
 är inte på samma sätt som nyare fastigheter anpassade för dagens arbetssätt inom
 vård- och omsorg.
 
-Kommunal regi
-Extern regi
-Totalt
+Byggda på 2000-talet Byggda på 1900-talet
+
+Boenden  Lägenheter Boenden   Lägenheter
+
+```osaker-tabell
+Kommunal regi    8        541       1          41
+Extern regi      1        40        1          94
+Totalt           9        581       2         135
+```
 
 Ekonomi
 Driftskostnaden för ett omsorgsboende med 80 platser är ca 51 miljoner kronor/år
@@ -2297,14 +2320,6 @@ och omsorgsboende avviker med ett större underskott per lägenhet än Måhaga,
 under samtliga tre år.
 
 Kungsbacka kommun     Årsplan för konkurrensutsättning av verksamhet 2024 3 (4)
-
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
-
-| Byggda på 2000-talet | Byggda på 1900-talet |
-| --- | --- |
-| Boenden Lägenheter | Boenden Lägenheter |
-| 8 541<br>1 40 | 1 41<br>1 94 |
-| 9 581 | 2 135 |
 
 <!-- sida 54 -->
 
@@ -2889,7 +2904,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 
 4 (17)
 
-[Tabell 69-1](handlingar.tabeller/69-1.csv)
+[Tabell 69-70-1](handlingar.tabeller/69-70-1.csv)
 
 | Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -2905,6 +2920,9 @@ NÄMNDEN FÖR VÅRD & OMSORG
 | 3.1.10 | 4 kap 1 §<br>socialtjänstlag | Köp av plats i annan kommun eller förvaltning (extern<br>verkställighet) | Verksamhetschef |  |
 | 3.1.11 | 11 kap 1 §<br>socialtjänstlag | Inleda utredning, inte inleda utredning (avvisa) och avsluta<br>utredning utan beslut angående ansökan (avskriva) | Biståndshandläggare | Beslut att avvisa en ansökan eller avskriva en<br>utredning kan överklagas. |
 | 3.1.12 | 2a kap<br>10-11 §§ | Begäran om överflyttning av ärende till annan kommun, meddela<br>inställning till begäran från annan kommun, ansökan om | Verksamhetschef |  |
+|  | socialtjänstlag | överflyttning till Inspektionen för vård och omsorg (IVO) och<br>yttrande till IVO efter ansökan om överflyttning från annan<br>kommun. |  |  |
+| 3.1.13 | 2 kap 1 § och<br>4 kap 1 §<br>socialtjänstlag | Tillfälligt bistånd för att undvika nöd, i avvaktan på prövning från<br>biståndshandläggare | Chef i beredskap | Beslutet skall bara gälla till dess att det omprövats av<br>biståndshandläggare. |
+| 3.1.14 | 4 kap 2 §<br>socialtjänstlag | Nödvändiga sociala insatser, till följd av exempelvis ålder eller<br>funktionsnedsättning, till personer som är flyktingar enligt<br>massflyktsdirektivet | Biståndshandläggare | Enskild ska i första hand vända sig till<br>Migrationsverket. Migrationsverket kan då besluta om<br>hantering som flykting enligt massflyktsdirektivet och<br>tilldela ansvaret till Kungsbacka kommun att<br>ombesörja stöd enligt LMA. |
 
 <!-- sida 70 -->
 
@@ -2919,13 +2937,6 @@ NÄMNDEN FÖR VÅRD & OMSORG
 
 [Tabell 70-1](handlingar.tabeller/70-1.csv)
 
-|  | socialtjänstlag | överflyttning till Inspektionen för vård och omsorg (IVO) och<br>yttrande till IVO efter ansökan om överflyttning från annan<br>kommun. |  |  |
-| --- | --- | --- | --- | --- |
-| 3.1.13 | 2 kap 1 § och<br>4 kap 1 §<br>socialtjänstlag | Tillfälligt bistånd för att undvika nöd, i avvaktan på prövning från<br>biståndshandläggare | Chef i beredskap | Beslutet skall bara gälla till dess att det omprövats av<br>biståndshandläggare. |
-| 3.1.14 | 4 kap 2 §<br>socialtjänstlag | Nödvändiga sociala insatser, till följd av exempelvis ålder eller<br>funktionsnedsättning, till personer som är flyktingar enligt<br>massflyktsdirektivet | Biståndshandläggare | Enskild ska i första hand vända sig till<br>Migrationsverket. Migrationsverket kan då besluta om<br>hantering som flykting enligt massflyktsdirektivet och<br>tilldela ansvaret till Kungsbacka kommun att<br>ombesörja stöd enligt LMA. |
-
-[Tabell 70-2](handlingar.tabeller/70-2.csv)
-
 | Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | 3.2.1 | 4-9 §§ lag om<br>bostadsanpassningsbidrag | Bostadsanpassningsbidrag – upp till 10 prisbasbelopp | Bostadsanpassningsbidrags-<br>handläggare |  |
@@ -2935,11 +2946,14 @@ NÄMNDEN FÖR VÅRD & OMSORG
 | 3.2.5 | 11 §§ lag om<br>bostadsanpassningsbidrag | Reperationsbidrag – upp till 10 prisbasbelopp | Bostadsanpassningsbidrags-<br>handläggare |  |
 | 3.2.6 | 11 §§ lag om<br>bostadsanpassningsbidrag | Reperationsbidrag – över 10 prisbasbelopp | Enhetschef Myndighet |  |
 
-[Tabell 70-3](handlingar.tabeller/70-3.csv)
+[Tabell 70-71-2](handlingar.tabeller/70-71-2.csv)
 
 | Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | 3.3.1 | 8 kap 4-9 §§ | Fastställa avgift för enskild | Avgiftshandläggare | I enlighet med av Kommunfullmäktige antagna taxor. |
+|  | socialtjänstlag<br>17 kap 1, 8 §§<br>hälso- och<br>sjukvårdslag |  |  |  |
+| 3.3.2 |  | Nedsättning eller avskrivning av avgift för enskild, vid särskilda<br>skäl | Enhetschef<br>Myndighet |  |
+| 3.3.3 | Riktlinjer från<br>Sveriges<br>kommuner och<br>regioner | Fastställa arvode och omkostnadsersättning till kontaktperson | Enhetschef<br>Myndighet |  |
 
 <!-- sida 71 -->
 
@@ -2950,20 +2964,21 @@ NÄMNDEN FÖR VÅRD & OMSORG
 
 6 (17)
 
-[Tabell 71-1](handlingar.tabeller/71-1.csv)
-
-|  | socialtjänstlag<br>17 kap 1, 8 §§<br>hälso- och<br>sjukvårdslag |  |  |  |
-| --- | --- | --- | --- | --- |
-| 3.3.2 |  | Nedsättning eller avskrivning av avgift för enskild, vid särskilda<br>skäl | Enhetschef<br>Myndighet |  |
-| 3.3.3 | Riktlinjer från<br>Sveriges<br>kommuner och<br>regioner | Fastställa arvode och omkostnadsersättning till kontaktperson | Enhetschef<br>Myndighet |  |
-
-[Tabell 71-2](handlingar.tabeller/71-2.csv)
+[Tabell 71-72-1](handlingar.tabeller/71-72-1.csv)
 
 | Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | 3.4.1 | 36 §<br>förvaltningslag | Rättelse av uppenbar felaktighet i beslut till följd av skrivfel,<br>räknefel eller liknande förbiseende | Delegaten i<br>ursprungsbeslutet,<br>nämndsekreterare | Rättelsen ska kommuniceras till den som beslutet<br>berör men är i sig inte ett överklagningsbart beslut.<br>Nämndsekreterare rättar beslut fattade av nämnden i<br>sin helhet. Gäller inte beslut som är överklagbara<br>enligt 13 kap. kommunallag. |
 | 3.4.2 | 37-38 §§<br>förvaltningslag | Ändring av ett pågående gynnande beslut (omprövning) | Delegaten i<br>ursprungsbeslutet | Beslut som är gynnande för enskild får bara ändras<br>till den enskildes nackdel i vissa fall, se 37 § 2 st<br>förvaltningslag. |
 | 3.4.3 |  | Överklaga dom i förvaltningsrätten, kammarrätten eller beslut<br>från annan myndighet, samt begäran om inhibition och<br>yttranden till förvaltningsdomstol om beslut som överklagats av<br>kommunen | Verksamhetschef | I de fall nämnden fattat ursprungsbeslutet ska<br>nämnden anta yttrande. |
+| 3.4.4 | 44-46 §§<br>förvaltningslag | Prövning av om överklagan har inkommit i rätt tid<br>(rättidsprövning) och ska överlämnas till överinstans eller om<br>den inkommit för sent och ska avvisas. | Delegaten i<br>ursprungsbeslutet,<br>nämndsekreterare | I de fall nämnden fattat ursprungsbeslutet, eller om<br>ordförande tagit ett brådskande beslut i nämndens<br>ställe, gör nämndsekreterare rättidsprövning. |
+| 3.4.5 | 39 och 46 §§<br>förvaltningslag | Omprövning vid överklagan | Delegaten i<br>ursprungsbeslutet | Om beslutet ändras till den enskildes fördel så ska<br>både det överklagade beslutet och det nya beslutet<br>överlämnas till rätten. När överklagan är överlämnad<br>till rätten får beslutet inte längre ändras. |
+| 3.4.6 |  | Yttrande till förvaltningsdomstol angående beslut överklagat av<br>enskild | Delegaten i<br>ursprungsbeslutet | I de fall nämnden fattat ursprungsbeslutet ska<br>nämnden anta yttrande. |
+| 3.4.7 |  | Föra kommunens talan i ärenden eller mål vid allmän domstol<br>eller allmän förvaltningsdomstol | Delegaten i<br>ursprungsbeslutet |  |
+| 3.4.8 | Gemensamt<br>reglemente för<br>kommun-<br>styrelsen<br>och övriga<br>nämnder i<br>Kungsbacka<br>kommun | Utse ombud med rätt att föra kommunens talan i mål och<br>ärenden som enligt lag eller annan författning ankommer på<br>nämnden eller på annat sätt faller inom nämndens<br>ansvarsområde | Förvaltningschef |  |
+| 3.4.9 | 3 § lag om<br>offentligt biträde | Yttrande om offentligt biträde | Verksamhetschef |  |
+| 3.4.10 | 12 §<br>förvaltningslag | Avslå eller avvisa begäran om att få ärende avgjort efter sex<br>månader från att det inletts | Verksamhetschef |  |
+| 3.4.11 | 14-15 §§<br>förvaltningslag | Avvisa olämpligt ombud eller förelägga ombud att styrka sin<br>behörighet genom fullmakt | Enhetschef |  |
 
 <!-- sida 72 -->
 
@@ -2975,18 +2990,6 @@ Nr    Lagrum/stöd  Delegeringens omfattning               Delegerat till Anmär
 
 7 (17)
 
-[Tabell 72-1](handlingar.tabeller/72-1.csv)
-
-| 3.4.4 | 44-46 §§<br>förvaltningslag | Prövning av om överklagan har inkommit i rätt tid<br>(rättidsprövning) och ska överlämnas till överinstans eller om<br>den inkommit för sent och ska avvisas. | Delegaten i<br>ursprungsbeslutet,<br>nämndsekreterare | I de fall nämnden fattat ursprungsbeslutet, eller om<br>ordförande tagit ett brådskande beslut i nämndens<br>ställe, gör nämndsekreterare rättidsprövning. |
-| --- | --- | --- | --- | --- |
-| 3.4.5 | 39 och 46 §§<br>förvaltningslag | Omprövning vid överklagan | Delegaten i<br>ursprungsbeslutet | Om beslutet ändras till den enskildes fördel så ska<br>både det överklagade beslutet och det nya beslutet<br>överlämnas till rätten. När överklagan är överlämnad<br>till rätten får beslutet inte längre ändras. |
-| 3.4.6 |  | Yttrande till förvaltningsdomstol angående beslut överklagat av<br>enskild | Delegaten i<br>ursprungsbeslutet | I de fall nämnden fattat ursprungsbeslutet ska<br>nämnden anta yttrande. |
-| 3.4.7 |  | Föra kommunens talan i ärenden eller mål vid allmän domstol<br>eller allmän förvaltningsdomstol | Delegaten i<br>ursprungsbeslutet |  |
-| 3.4.8 | Gemensamt<br>reglemente för<br>kommun-<br>styrelsen<br>och övriga<br>nämnder i<br>Kungsbacka<br>kommun | Utse ombud med rätt att föra kommunens talan i mål och<br>ärenden som enligt lag eller annan författning ankommer på<br>nämnden eller på annat sätt faller inom nämndens<br>ansvarsområde | Förvaltningschef |  |
-| 3.4.9 | 3 § lag om<br>offentligt biträde | Yttrande om offentligt biträde | Verksamhetschef |  |
-| 3.4.10 | 12 §<br>förvaltningslag | Avslå eller avvisa begäran om att få ärende avgjort efter sex<br>månader från att det inletts | Verksamhetschef |  |
-| 3.4.11 | 14-15 §§<br>förvaltningslag | Avvisa olämpligt ombud eller förelägga ombud att styrka sin<br>behörighet genom fullmakt | Enhetschef |  |
-
 <!-- sida 73 -->
 
 DELEGERINGSFÖRTECKNING
@@ -2994,7 +2997,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 
 8 (17)
 
-[Tabell 73-1](handlingar.tabeller/73-1.csv)
+[Tabell 73-74-1](handlingar.tabeller/73-74-1.csv)
 
 | 3.5.1 | 14 kap 3 § 2 st, 14<br>kap 7 §<br>socialtjänstlag<br>(lex Sarah) | Bedöma rapporter om missförhållanden och risk för<br>missförhållanden samt anmälan till IVO om allvarligt<br>missförhållande eller påtaglig risk för allvarligt<br>missförhållande inom socialtjänst | Socialt ansvarig<br>samordnare<br>(SAS) | SAS ger information om anmälan till förvaltningschef och<br>nämnden för Vård & Omsorg |
 | --- | --- | --- | --- | --- |
@@ -3004,6 +3007,11 @@ NÄMNDEN FÖR VÅRD & OMSORG
 | 3.5.5 | 19 §<br>Läkemedelverkets<br>föreskrifter om<br>säkerhets-<br>övervakning av<br>humanläkemedel | Rapportera misstänkta biverkningar av läkemedel till<br>Läkemedelsverket | Medicinskt<br>ansvarig<br>sjuksköterska<br>(MAS), Medicinskt<br>ansvarig för<br>rehabilitering<br>(MAR) |  |
 | 3.5.6 | 6 kap 11-12 §§<br>smittskyddslag | Lämna uppgifter till smittskyddsläkare efter underrättelse och<br>anmäla till smittskyddsläkare att den smittade inte följer<br>meddelade förhållningsregler | Enhetschef,<br>Sjuksköterska |  |
 | 3.5.7 | 12 kap 10 §<br>socialtjänstlag<br>10 kap 2 §<br>offentlighets- och<br>sekretesslag | Polisanmälan av brott som hindrar den egna verksamheten,<br>utan hinder av sekretess, när det är nödvändigt | Verksamhetschef |  |
+| 3.5.8 | 12 kap 10 §<br>socialtjänstlag<br>10 kap 21-23 §§<br>offentlighets- och<br>sekretesslag<br>6 §<br>bidragsbrottslagen | Polisanmälan av brukare vid misstanke om brott i vissa fall,<br>utan hinder av sekretess | Verksamhetschef | Misstanke om brott får bara anmälas i vissa fall. Se 10<br>kap 21-23 §§ offentlighets- och sekretesslag för en utförlig<br>lista. Misstanke om bidragsbrott ska alltid anmälas om inte<br>brottet är ringa. |
+| 3.5.9 | 17a §<br>folkbokföringslag<br>12 kap 10 § 3 st<br>socialtjänstlag | Yttrande till Skatteverket om skyddad folkbokföring eller<br>sekretessmarkering i folkbokföring efter begäran | Bistånds-<br>handläggare |  |
+| 3.5.10 | 11 kap 16 §<br>Föräldrabalk | Yttrande om godmanskap eller förvaltarskap | Bistånds-<br>handläggare |  |
+| 3.5.11 | 5 kap 3 §<br>socialtjänst-<br>förordning | Anmälan till överförmyndare om enskilds behov av<br>förmyndare, förvaltare eller god man respektive anmälan om<br>att anordnat förmyndarskap, godmanskap eller förvaltarskap<br>bör upphöra. | Bistånds-<br>handläggare |  |
+| 3.5.12 |  | Yttrande till tillsynsmyndighet | Förvaltningschef,<br>Ekonomi- och<br>kvalitetschef,<br>HR- och<br>kommunikationsc<br>hef,<br>Verksamhetschef | Omfattar bland annat Inspektionen för vård och omsorg<br>(IVO), Arbetsmiljöverket, Integritetsskyddsmyndigheten<br>(IMY), Riksdagens ombudsmän (JO), Patientnämnden i<br>Region Halland, Diskrimineringsombudsmannen (DO) och<br>Konkurrensverket. |
 
 <!-- sida 74 -->
 
@@ -3011,15 +3019,6 @@ DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
 9 (17)
-
-[Tabell 74-1](handlingar.tabeller/74-1.csv)
-
-| 3.5.8 | 12 kap 10 §<br>socialtjänstlag<br>10 kap 21-23 §§<br>offentlighets- och<br>sekretesslag<br>6 §<br>bidragsbrottslagen | Polisanmälan av brukare vid misstanke om brott i vissa fall,<br>utan hinder av sekretess | Verksamhetschef | Misstanke om brott får bara anmälas i vissa fall. Se 10<br>kap 21-23 §§ offentlighets- och sekretesslag för en utförlig<br>lista. Misstanke om bidragsbrott ska alltid anmälas om inte<br>brottet är ringa. |
-| --- | --- | --- | --- | --- |
-| 3.5.9 | 17a §<br>folkbokföringslag<br>12 kap 10 § 3 st<br>socialtjänstlag | Yttrande till Skatteverket om skyddad folkbokföring eller<br>sekretessmarkering i folkbokföring efter begäran | Bistånds-<br>handläggare |  |
-| 3.5.10 | 11 kap 16 §<br>Föräldrabalk | Yttrande om godmanskap eller förvaltarskap | Bistånds-<br>handläggare |  |
-| 3.5.11 | 5 kap 3 §<br>socialtjänst-<br>förordning | Anmälan till överförmyndare om enskilds behov av<br>förmyndare, förvaltare eller god man respektive anmälan om<br>att anordnat förmyndarskap, godmanskap eller förvaltarskap<br>bör upphöra. | Bistånds-<br>handläggare |  |
-| 3.5.12 |  | Yttrande till tillsynsmyndighet | Förvaltningschef,<br>Ekonomi- och<br>kvalitetschef,<br>HR- och<br>kommunikationsc<br>hef,<br>Verksamhetschef | Omfattar bland annat Inspektionen för vård och omsorg<br>(IVO), Arbetsmiljöverket, Integritetsskyddsmyndigheten<br>(IMY), Riksdagens ombudsmän (JO), Patientnämnden i<br>Region Halland, Diskrimineringsombudsmannen (DO) och<br>Konkurrensverket. |
 
 <!-- sida 75 -->
 
@@ -3032,7 +3031,7 @@ Kommentar: Avrop på ramavtal eller mindre upphandling genom enklare förfarande
 
 10 (17)
 
-[Tabell 75-1](handlingar.tabeller/75-1.csv)
+[Tabell 75-76-1](handlingar.tabeller/75-76-1.csv)
 
 | Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -3040,18 +3039,7 @@ Kommentar: Avrop på ramavtal eller mindre upphandling genom enklare förfarande
 | 4.2 |  | Inhyrning, uthyrning och uppsägning av fastigheter, lokaler<br>och lägenheter | Förvaltningschef,<br>verksamhetschef |  |
 | 4.3 |  | Ingå och säga upp avtal inom respektive<br>verksamhetsområde med budgetansvar. | Förvaltningschef,<br>verksamhetschef |  |
 | 4.4 | Lag om offentlig<br>upphandling,<br>Riktlinjer för inköp | Beslut om upphandling inom nämndens<br>verksamhetsområde – i enlighet med vad nämnden har<br>beslutat om verksamhetens mål, inriktning, omfattning och<br>kvalitet. | Förvaltningschef,<br>verksamhetschef | Beslutanderätten innefattar:<br>- att inleda upphandling och vilket förfarande som ska<br>användas,<br>- tilldelning av kontrakt eller återtagande av tilldelning<br>- underteckna avtal efter att avtalsspärren löpt ut<br>alternativt efter att domstol avslagit ansökan om<br>överprövning<br>- avbryta upphandling och återupptagande av avbruten<br>upphandling<br>- ändring och tillägg till avtal<br>- utkrävande av vite enligt avtal<br>- uppsägning eller hävning av avtal<br>Inför beslut bör samråd ske med Service Inköp och<br>aktuella ramavtal beaktas. Beslut om upphandling av<br>ramavtal som rör flera nämnder i kommunen fattas av<br>Service. |
-
-<!-- sida 76 -->
-
-DELEGERINGSFÖRTECKNING
-NÄMNDEN FÖR VÅRD & OMSORG
-
-11 (17)
-
-[Tabell 76-1](handlingar.tabeller/76-1.csv)
-
 |  |  |  |  | Beslutanderätten gäller inom samma område och med<br>samma beloppsgräns som delegaten har attesträtt för. |
-| --- | --- | --- | --- | --- |
 | 4.5 | Aktuellt avtal | Godkännande av byte av driftsansvarig i verksamhet som<br>drivs på entreprenad eller hos leverantör i valfrihetssystem. | Utvecklingsledare<br>med ansvar för<br>externa utförare |  |
 | 4.6 | Policy för fordon och<br>tillämpnings-<br>anvisningar | Göra undantag från Policy för fordon i enskilda fall vid<br>särskilda skäl | Förvaltningschef |  |
 | 4.7 |  | Överlämna överskottsmaterial till Service för avyttring | Förvaltningschef |  |
@@ -3062,6 +3050,13 @@ NÄMNDEN FÖR VÅRD & OMSORG
 | 4.12 | Förfrågnings-<br>underlag LOV | Uppsägning eller hävning av kontrakt enligt lag om<br>valfrihetssystem | Förvaltningschef |  |
 | 4.13 | 3 kap 1-4 §§<br>skadeståndslag | Skadestånds- och ersättningsärenden, högst ett<br>prisbasbelopp | Förvaltningschef |  |
 | 4.14 |  | Ansökan om statliga bidrag | Ekonomi- och<br>kvalitetschef |  |
+
+<!-- sida 76 -->
+
+DELEGERINGSFÖRTECKNING
+NÄMNDEN FÖR VÅRD & OMSORG
+
+11 (17)
 
 <!-- sida 77 -->
 
@@ -3074,7 +3069,7 @@ Kommentar: Kommunstyrelsens förvaltning har i Regler kring delegering tagit fra
 
 12 (17)
 
-[Tabell 77-1](handlingar.tabeller/77-1.csv)
+[Tabell 77-78-1](handlingar.tabeller/77-78-1.csv)
 
 | Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -3088,6 +3083,8 @@ Kommentar: Kommunstyrelsens förvaltning har i Regler kring delegering tagit fra
 | 5.6 |  | Avsluta anställning enligt särskild överenskommelse. | Verksamhetschef | I samråd med HR-chef |
 |  |  | Övrigt |  |  |
 | 5.7 | 11 § Allmänna<br>bestämmelser | Disciplinpåföljd - skriftlig varning. | Verksamhetschef | I samråd med HR på förvaltningen |
+| 5.8 | 10 § Allmänna<br>bestämmelser | Avstängning | Verksamhetschef | I samråd med HR på förvaltningen |
+| 5.9 | 7 c § lag om offentlig<br>anställning, 8 §<br>Allmänna bestämmelser | Förbud mot utövande av bisyssla | Verksamhetschef | I samråd med HR på förvaltningen i enlighet med<br>”Regler för bisyssla i Kungsbacka kommun” |
 
 <!-- sida 78 -->
 
@@ -3095,12 +3092,6 @@ DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
 13 (17)
-
-[Tabell 78-1](handlingar.tabeller/78-1.csv)
-
-| 5.8 | 10 § Allmänna<br>bestämmelser | Avstängning | Verksamhetschef | I samråd med HR på förvaltningen |
-| --- | --- | --- | --- | --- |
-| 5.9 | 7 c § lag om offentlig<br>anställning, 8 §<br>Allmänna bestämmelser | Förbud mot utövande av bisyssla | Verksamhetschef | I samråd med HR på förvaltningen i enlighet med<br>”Regler för bisyssla i Kungsbacka kommun” |
 
 <!-- sida 79 -->
 
@@ -3111,7 +3102,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 
 14 (17)
 
-[Tabell 79-1](handlingar.tabeller/79-1.csv)
+[Tabell 79-80-1](handlingar.tabeller/79-80-1.csv)
 
 | Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -3124,6 +3115,11 @@ NÄMNDEN FÖR VÅRD & OMSORG
 | 6.7 | 18 § lag om<br>informationssäkerhet<br>för samhällsviktiga och<br>digitala tjänster | Anmäla incident som har en betydande påverkan på<br>kontinuitet i samhällsviktig tjänst till Myndigheten för<br>samhällsskydd och beredskap | Informationssäker-<br>hetssamordnare | Vård & Omsorg är leverantör av samhällsviktiga tjänster<br>(hälso- och sjukvård) och antalet anställd legitimerad<br>vårdpersonal överstiger 50 årsarbetskrafter. Vård &<br>Omsorg är därför skyldiga att rapportera incidenter i<br>nätverk och informationssystem som har en betydande<br>påverkan på kontinuitet i hälso- och sjukvården till<br>Myndigheten för samhällsskydd och beredskap (MSB). |
 | 6.8 | 3 kap 8 § körkorts-<br>förordningen | Yttrande till Transportstyrelsen eller domstol i<br>körkortsärende | Verksamhetschef |  |
 | 6.9 | 6 § lag om<br>särskild<br>personutredning i<br>brottmål mm | Lämnande av upplysningar och förslag på åtgärder till<br>rätten, åklagaren eller Kriminalvården om misstänkt i<br>brottsmålsutredning, efter begäran | Verksamhetschef |  |
+| 6.10 | 2 kap. 14 §<br>Tryckfrihetsförordning,<br>TF<br>6 kap 4-5 §§<br>offentlighets- och<br>sekretesslag<br>10 kap. 3, 4, 13 och 14<br>§§ offentlighets- och<br>sekretesslag | Utlämnande av allmän handling med förbehåll,<br>sekretessmarkering eller att avslå begäran om att få ta<br>del av allmän handling. | Förvaltningschef | En prövning av om en handling kan lämnas ut kan ske i<br>två steg. I första hand är det den anställda i kommunen<br>som har hand om handlingen som ska pröva om<br>handlingen kan lämnas ut. Den anställde kan då lämna<br>ut handlingen, lämna ut delar av den eller neka begäran,<br>men behöver inte ge den enskilde ett skriftligt<br>avslagsbeslut. Vid tveksamhet från den anställde eller<br>om den enskilde begär det så ska delegaten i denna<br>delegationsordning pröva begäran och först då lämna ett<br>skriftligt beslut. |
+| 6.11 | 6 kap 1a §<br>offentlighets- och<br>sekretesslag | Beslut om förskottsbetalning för att få ta del av kopia av<br>allmän handling | Registrator<br>Utvecklare<br>informations-<br>förvaltning |  |
+| 6.12 | 10 § arkivlag,<br>Dokumenthanterings-<br>planer för<br>ledningsprocesser,<br>stödprocesser och<br>verksamhetsprocesser | Gallring av allmänna handlingar som inte finns upptagna i<br>dokumenthanteringsplan | Registrator<br>Utvecklare<br>informations-<br>förvaltning |  |
+| 6.13 |  | Yttrande över planprogram och detaljplan i samrådsskede | Ekonomi och<br>kvalitetschef |  |
+| 6.14 | Nämndens budget,<br>Regler och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet inom Sverige för ordförande, vice<br>ordförande, ledamot och ersättare i nämnden. | Ordförande.<br>För beslut som<br>avser ordförande<br>beslutar 1:e vice<br>ordföranden | Rätt till arvode för deltagande på aktivitet regleras i<br>”Regler och riktlinjer för förmåner till förtroendevalda”.<br>Där framgår vilka aktiviteter som avses. |
 
 <!-- sida 80 -->
 
@@ -3131,15 +3127,6 @@ DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
 15 (17)
-
-[Tabell 80-1](handlingar.tabeller/80-1.csv)
-
-| 6.10 | 2 kap. 14 §<br>Tryckfrihetsförordning,<br>TF<br>6 kap 4-5 §§<br>offentlighets- och<br>sekretesslag<br>10 kap. 3, 4, 13 och 14<br>§§ offentlighets- och<br>sekretesslag | Utlämnande av allmän handling med förbehåll,<br>sekretessmarkering eller att avslå begäran om att få ta<br>del av allmän handling. | Förvaltningschef | En prövning av om en handling kan lämnas ut kan ske i<br>två steg. I första hand är det den anställda i kommunen<br>som har hand om handlingen som ska pröva om<br>handlingen kan lämnas ut. Den anställde kan då lämna<br>ut handlingen, lämna ut delar av den eller neka begäran,<br>men behöver inte ge den enskilde ett skriftligt<br>avslagsbeslut. Vid tveksamhet från den anställde eller<br>om den enskilde begär det så ska delegaten i denna<br>delegationsordning pröva begäran och först då lämna ett<br>skriftligt beslut. |
-| --- | --- | --- | --- | --- |
-| 6.11 | 6 kap 1a §<br>offentlighets- och<br>sekretesslag | Beslut om förskottsbetalning för att få ta del av kopia av<br>allmän handling | Registrator<br>Utvecklare<br>informations-<br>förvaltning |  |
-| 6.12 | 10 § arkivlag,<br>Dokumenthanterings-<br>planer för<br>ledningsprocesser,<br>stödprocesser och<br>verksamhetsprocesser | Gallring av allmänna handlingar som inte finns upptagna i<br>dokumenthanteringsplan | Registrator<br>Utvecklare<br>informations-<br>förvaltning |  |
-| 6.13 |  | Yttrande över planprogram och detaljplan i samrådsskede | Ekonomi och<br>kvalitetschef |  |
-| 6.14 | Nämndens budget,<br>Regler och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet inom Sverige för ordförande, vice<br>ordförande, ledamot och ersättare i nämnden. | Ordförande.<br>För beslut som<br>avser ordförande<br>beslutar 1:e vice<br>ordföranden | Rätt till arvode för deltagande på aktivitet regleras i<br>”Regler och riktlinjer för förmåner till förtroendevalda”.<br>Där framgår vilka aktiviteter som avses. |
 
 <!-- sida 81 -->
 
