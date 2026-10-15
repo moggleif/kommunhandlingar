@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7f17e7f7197627ca5f9bb92b/1750141335
 sha256: a05be5b128458f99b8f1b3ba583239d0c4be1d7dcdb95b8affb6e61cc708b35d
 bytes: 112255513
 sidor: 474
-hamtad: 2026-10-08T11:17:35+00:00
-konverterad: 2026-10-08T11:22:04+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T09:08:24+00:00
+konverterad: 2026-10-15T09:13:43+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
-tal_obekraftade: [57, 59, 63, 64, 65, 66, 67, 69, 70, 148, 362, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 473, 474]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
+tal_obekraftade: [29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 57, 59, 63, 64, 65, 66, 67, 69, 70, 127, 148, 362, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 473, 474]
+figurer: [39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 80, 103, 109, 112, 117, 119, 121, 125, 127, 128, 130, 131, 133, 134, 135, 136, 143, 144, 145, 146, 157, 158, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 172, 173, 174, 175, 177, 178, 179, 181, 184, 185, 186, 192, 197, 199, 201, 202, 203, 204, 205, 206, 207, 213, 218, 219, 223, 232, 237, 239, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 314, 319, 320, 321, 322, 323, 324, 334, 346, 347, 356, 357, 362, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 402, 403, 404, 405, 410, 411, 412, 413, 414, 415, 416, 417, 432, 452, 453]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -60,7 +60,7 @@ KUNGSBACKA  KOMMUN
 
 2(7)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -70,6 +70,17 @@ KUNGSBACKA  KOMMUN
 | 6. | Ansökan om verksamhetsstöd -<br>Ung Företagsamhet 2025/2026<br>- 2027/2028 | 2024-00855 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen beviljar ny finansieringsperiod för<br>Ung Företagsamhet Halland, med 299 632 kronor per<br>år för läsåren 2025/2026, 2026/2027 och 2027/2028. |
 | 7. | Uppstart och etablering av<br>frivillig resursgrupp (FRG) och<br>avtal med frivilliga<br>försvarsorganisationer (FFO) | 2025-00393 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att träffa avtal med frivillig resursgrupp (FRG) och<br>frivilliga försvarsorganisationer (FFO).<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalen<br>samt övriga nödvändiga handlingar för avtalens<br>genomförande. |
 | 8. | Lokaliseringsutredning ny isyta<br>för träning | 2022-00920 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner lokaliseringsutredning<br>för ny isyta för träning, daterad 2025-05-14.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för ishall inom del av Kungsbacka 4:65 i<br>Kungsbacka. |
+| 9. | Begäran om planbesked för<br>Kyvik 3:147 | 2025-00249 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplaneläggning för att pröva<br>lämpligheten av att anpassa byggrätten inom Kyvik<br>3:147.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för planändring med<br>syftet att anpassa byggrätten inom Kyvik 3:147 i<br>Kullavik. |
+| 10. | Svar på Region Hallands<br>remiss av Kollektivtrafikplan<br>2026 med utblick 2027–2028 | 2025-00076 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-06-03,<br>och översänder det som sitt svar till Hallandstrafiken. |
+| 11. | Svar på Länsstyrelsen i<br>Hallands remiss av förslag till<br>bildande av Fälareds<br>naturreservat i Kungsbacka<br>kommun | 2025-00298 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-05-14,<br>och översänder som sitt svar till Länsstyrelsen i<br>Hallands län. |
+| 12. | Svar på Landsbygds- och<br>infrastrukturdepartementets<br>remiss av Boverkets rapport<br>Uppdrag att utveckla reformen<br>med certifierade<br>byggprojekteringsföretag | 2025-00321 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-05-16,<br>och överlämnar det som sitt svar till Landsbygds- och<br>infrastrukturdepartementet. |
+| 13. | Svar på Klimat- och<br>näringslivsdepartementets<br>remiss av betänkande En ny<br>samordnad miljöbedömnings-<br>och tillståndsprövningsprocess<br>(SOU 2024:98) | 2025-00141 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-05-21,<br>och översänder det som sitt svar till Klimat- och<br>näringslivsdepartementet. |
+| 14. | Svar på<br>Arbetsmarknadsdepartementets<br>remiss av betänkandet<br>Etableringsboendelagen – Ett<br>nytt system för bosättning för<br>vissa nyanlända (SOU<br>2025:35) | 2025-00330 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-06-10,<br>och översänder det som sitt svar till<br>Arbetsmarknadsdepartementet. |
+| 15. | Svar på Varbergs kommuns<br>remiss av detaljplan för del av<br>Löftabro 1:2 i Varbergs<br>kommun | 2025-00384 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-05-28,<br>och översänder det som sitt svar till Varbergs<br>kommun. |
+| 16. | Anmälan av delegeringsbeslut | 2025-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
+| 17. | Anmälan av ordförandebeslut | 2025-00007 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
+| 18. | Redovisning av inkomna<br>skrivelser | 2025-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
+| 19. | VA-verksamhetsområde 2024 | 2025-00264 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fastställer nya<br>verksamhetsområden i enlighet med bilaga 1-19,<br>daterad 2025-01-31. |
 
 <!-- sida 3 -->
 
@@ -77,32 +88,11 @@ KUNGSBACKA  KOMMUN
 
 3(7)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 9. | Begäran om planbesked för<br>Kyvik 3:147 | 2025-00249 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplaneläggning för att pröva<br>lämpligheten av att anpassa byggrätten inom Kyvik<br>3:147.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för planändring med<br>syftet att anpassa byggrätten inom Kyvik 3:147 i<br>Kullavik. |
-| 10. | Svar på Region Hallands<br>remiss av Kollektivtrafikplan<br>2026 med utblick 2027–2028 | 2025-00076 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-06-03,<br>och översänder det som sitt svar till Hallandstrafiken. |
-| 11. | Svar på Länsstyrelsen i<br>Hallands remiss av förslag till<br>bildande av Fälareds<br>naturreservat i Kungsbacka<br>kommun | 2025-00298 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-05-14,<br>och översänder som sitt svar till Länsstyrelsen i<br>Hallands län. |
-| 12. | Svar på Landsbygds- och<br>infrastrukturdepartementets<br>remiss av Boverkets rapport<br>Uppdrag att utveckla reformen<br>med certifierade<br>byggprojekteringsföretag | 2025-00321 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-05-16,<br>och överlämnar det som sitt svar till Landsbygds- och<br>infrastrukturdepartementet. |
-| 13. | Svar på Klimat- och<br>näringslivsdepartementets<br>remiss av betänkande En ny<br>samordnad miljöbedömnings-<br>och tillståndsprövningsprocess<br>(SOU 2024:98) | 2025-00141 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-05-21,<br>och översänder det som sitt svar till Klimat- och<br>näringslivsdepartementet. |
-| 14. | Svar på<br>Arbetsmarknadsdepartementets<br>remiss av betänkandet<br>Etableringsboendelagen – Ett<br>nytt system för bosättning för<br>vissa nyanlända (SOU<br>2025:35) | 2025-00330 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-06-10,<br>och översänder det som sitt svar till<br>Arbetsmarknadsdepartementet. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(7)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 15. | Svar på Varbergs kommuns<br>remiss av detaljplan för del av<br>Löftabro 1:2 i Varbergs<br>kommun | 2025-00384 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-05-28,<br>och översänder det som sitt svar till Varbergs<br>kommun. |
-| 16. | Anmälan av delegeringsbeslut | 2025-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
-| 17. | Anmälan av ordförandebeslut | 2025-00007 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
-| 18. | Redovisning av inkomna<br>skrivelser | 2025-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
-| 19. | VA-verksamhetsområde 2024 | 2025-00264 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fastställer nya<br>verksamhetsområden i enlighet med bilaga 1-19,<br>daterad 2025-01-31. |
 
 <!-- sida 5 -->
 
@@ -122,13 +112,50 @@ KUNGSBACKA  KOMMUN
 
 6(7)
 
-[Tabell 6-1](handlingar.tabeller/6-1.csv)
+Ärende                Beteckning Förslag
 
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 21. | Sammanträdesdagar 2026 för<br>kommunfullmäktige och<br>kommunstyrelsen | 2025-00394 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen sammanträder följande datum år<br>2026<br>20 januari 16 juni 15 december<br>17 februari 25 augusti<br>17 mars 22 september<br>21 april 20 oktober<br>26 maj 24 november<br>Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige sammanträder följande datum<br>år 2026<br>3 februari 11 augusti<br>3 mars 8 september<br>14 april 6 oktober<br>5 maj 3 november<br>9 juni (heldag) 8 december |
-| 22. | Redovisning av kommunalt<br>partistöd för år 2024 och<br>utbetalning av partistöd för år<br>2026 | 2025-00145 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beviljar Moderaterna,<br>Centerpartiet, Liberalerna, Kristdemokraterna,<br>Socialdemokraterna, Miljöpartiet de gröna,<br>Vänsterpartiet, Sverigedemokraterna och<br>Kungsbackaborna partistöd för år 2026.<br>Kommunfullmäktige fastställer att partistödets<br>storlek för år 2026 baseras på det antal mandat<br>respektive parti besitter i kommunfullmäktige efter<br>de allmänna valen 2022. Partistödet betalas ut i<br>januari 2026. |
-| 23. | Svar på motion från Roger<br>Larsson (KB) om kostnadsfri<br>utdelning av broddar till<br>invånare som är 65 år eller<br>äldre | 2024-00851 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att åtgärden bedöms ha begränsad<br>påverkan på antal fallolyckor. |
+21\. Sammanträdesdagar 2026 för 2025-00394 Förslag till beslut i kommunstyrelsen
+kommunfullmäktige och
+Kommunstyrelsen sammanträder följande datum år
+kommunstyrelsen
+2026
+20 januari    16 juni    15 december
+17 februari   25 augusti
+17 mars       22 september
+
+21 april      20 oktober
+26 maj        24 november
+
+Förslag till beslut i kommunfullmäktige
+Kommunfullmäktige sammanträder följande datum
+år 2026
+
+3 februari    11 augusti
+
+3 mars        8 september
+14 april      6 oktober
+
+5 maj         3 november
+9 juni (heldag) 8 december
+
+22\. Redovisning av kommunalt 2025-00145 Förslag till beslut i kommunfullmäktige
+partistöd för år 2024 och       Kommunfullmäktige beviljar Moderaterna,
+utbetalning av partistöd för år Centerpartiet, Liberalerna, Kristdemokraterna,
+2026                            Socialdemokraterna, Miljöpartiet de gröna,
+Vänsterpartiet, Sverigedemokraterna och
+Kungsbackaborna partistöd för år 2026.
+
+Kommunfullmäktige fastställer att partistödets
+storlek för år 2026 baseras på det antal mandat
+respektive parti besitter i kommunfullmäktige efter
+de allmänna valen 2022. Partistödet betalas ut i
+januari 2026.
+
+23\. Svar på motion från Roger 2024-00851 Förslag till beslut i kommunfullmäktige
+Larsson (KB) om kostnadsfri     Kommunfullmäktige avslår motionen med
+utdelning av broddar till       hänvisning till att åtgärden bedöms ha begränsad
+invånare som är 65 år eller     påverkan på antal fallolyckor.
+äldre
 
 <!-- sida 7 -->
 
@@ -685,22 +712,22 @@ V sentliga h ndelser efter r kenskaps!rets slut
 
 Den 27 mars avgick vd. Hans Helander. Niklas Martis g!r in som tf vd tills ny vd tilltr der.
 
-Fler#rs!versikt (Tkr)       2024     2023     2022    2021
-Huvudint kter              41 633   40 423  44 007   38 221
-Resultat efter finansiella poster -6 983 25 390 740    238
-
-```osaker-tabell
-Balansomslutning           45 608   55 319  25 925   28 086
-Soliditet (%)                66       67       46       39
-Antal anst llda              38       40       43       39
-```
-
 F"r definitioner av nyckeltal, se Not 1 Redovisningsprinciper.
 
 Stiftelsens resultat och st llning i "vrigt framg!r av efterf"ljande resultat- och balansr kning med noter.
 
 Detta dokumentet har signerats genom digitala signeringstjänsten GetAccept.
 Fingerprint: ad47c3a73bbfd3e6c9576324adc038724d7b83323722597b0227e4f991a759154bf010c97d870ce9a68d178e5a9c5f71f3aa46224a314bdecd6eb5f8572c9e32
+
+[Tabell 20-1](handlingar.tabeller/20-1.csv)
+
+| Fler#rs!versikt (Tkr) | 2024 | 2023 | 2022 | 2021 |
+| --- | --- | --- | --- | --- |
+| Huvudint kter | 41 633 | 40 423 | 44 007 | 38 221 |
+| Resultat efter finansiella poster | -6 983 | 25 390 | 740 | 238 |
+| Balansomslutning | 45 608 | 55 319 | 25 925 | 28 086 |
+| Soliditet (%) | 66 | 67 | 46 | 39 |
+| Antal anst llda | 38 | 40 | 43 | 39 |
 
 <!-- sida 21 -->
 
@@ -715,45 +742,31 @@ Tkr
 
 Stiftelsens int"kter
 
-```osaker-tabell
-Bidrag                              2           11 731      10 827
-Nettooms ttning                                 29 902      29 596
-&vriga r"relseint kter                            110       28 542
-Summa stiftelsens int"kter                      41 743      68 965
-```
-
-Stiftelsens kostnader
-
-```osaker-tabell
-Handelsvaror                                     -5 277     -5 728
-&vriga externa kostnader                        -16 228     -13 958
-Personalkostnader                   3           -26 189     -23 986
-```
-
-Av- och nedskrivningar av materiella och immateriella
-
-```osaker-tabell
-anl ggningstillg!ngar                            -1 781      -881
-&vriga r"relsekostnader                           -18          -5
-Summa stiftelsens kostnader                     -49 493     -44 558
-R!relseresultat                                  -7 750     24 407
-```
-
-Finansiella poster
-
-```osaker-tabell
-&vriga r nteint kter och liknande resultatposter  776         982
-R ntekostnader och liknande resultatposter         -9          0
-Summa finansiella poster                          767         982
-Resultat efter finansiella poster                -6 983     25 389
-
-Resultat f!re skatt                              -6 983     25 389
-
- rets resultat                                   -6 983     25 389
-```
-
 Detta dokumentet har signerats genom digitala signeringstjänsten GetAccept.
 Fingerprint: ad47c3a73bbfd3e6c9576324adc038724d7b83323722597b0227e4f991a759154bf010c97d870ce9a68d178e5a9c5f71f3aa46224a314bdecd6eb5f8572c9e32
+
+[Tabell 21-1](handlingar.tabeller/21-1.csv)
+
+| Bidrag | 2 | 11 731 | 10 827 |
+| --- | --- | --- | --- |
+| Nettooms ttning |  | 29 902 | 29 596 |
+| &vriga r"relseint kter |  | 110 | 28 542 |
+| Summa stiftelsens int"kter |  | 41 743 | 68 965 |
+| Stiftelsens kostnader |  |  |  |
+| Handelsvaror |  | -5 277 | -5 728 |
+| &vriga externa kostnader |  | -16 228 | -13 958 |
+| Personalkostnader | 3 | -26 189 | -23 986 |
+| Av- och nedskrivningar av materiella och immateriella anl ggningstillg!ngar |  | -1 781 | -881 |
+| &vriga r"relsekostnader |  | -18 | -5 |
+| Summa stiftelsens kostnader |  | -49 493 | -44 558 |
+| R!relseresultat |  | -7 750 | 24 407 |
+| Finansiella poster |  |  |  |
+| &vriga r nteint kter och liknande resultatposter |  | 776 | 982 |
+| R ntekostnader och liknande resultatposter |  | -9 | 0 |
+| Summa finansiella poster |  | 767 | 982 |
+| Resultat efter finansiella poster |  | -6 983 | 25 389 |
+| Resultat f!re skatt |  | -6 983 | 25 389 |
+| rets resultat |  | -6 983 | 25 389 |
 
 <!-- sida 22 -->
 
@@ -774,19 +787,8 @@ liknande r ttigheter                4              63          84
 Summa immateriella anl"ggningstillg#ngar           63          84
 
 Materiella anl ggningstillg!ngar
-Byggnader och mark                  5           16 329      13 468
-Inventarier, verktyg och installationer 6        9 909       1 918
-P!g!ende nyanl ggningar och f"rskott avseende
-materiella anl ggningstillg!ngar    7             870         444
-Summa materiella anl"ggningstillg#ngar          27 108      15 830
 
 Finansiella anl ggningstillg!ngar
-
-```osaker-tabell
-Andra l!ngfristiga v rdepappersinnehav          12 540         0
-Summa finansiella anl"ggningstillg#ngar         12 540         0
-Summa anl"ggningstillg#ngar                     39 711      15 914
-```
 
 Oms"ttningstillg#ngar
 
@@ -795,13 +797,6 @@ R!varor och f"rn"denheter                         870         786
 Summa varulager                                   870         786
 
 Kortfristiga fordringar
-
-```osaker-tabell
-Kundfordringar                                    155         155
-&vriga fordringar                                 258        1 095
-F"rutbetalda kostnader och upplupna int kter      848         773
-Summa kortfristiga fordringar                    1 261       2 023
-```
 
 Kassa och bank
 
@@ -815,6 +810,29 @@ SUMMA  TILLG  NGAR                              45 608      55 319
 
 Detta dokumentet har signerats genom digitala signeringstjänsten GetAccept.
 Fingerprint: ad47c3a73bbfd3e6c9576324adc038724d7b83323722597b0227e4f991a759154bf010c97d870ce9a68d178e5a9c5f71f3aa46224a314bdecd6eb5f8572c9e32
+
+[Tabell 22-1](handlingar.tabeller/22-1.csv)
+
+| Byggnader och mark | 5 | 16 329 | 13 468 |
+| --- | --- | --- | --- |
+| Inventarier, verktyg och installationer | 6 | 9 909 | 1 918 |
+| P!g!ende nyanl ggningar och f"rskott avseende materiella anl ggningstillg!ngar | 7 | 870 | 444 |
+| Summa materiella anl"ggningstillg#ngar |  | 27 108 | 15 830 |
+
+[Tabell 22-2](handlingar.tabeller/22-2.csv)
+
+| Andra l!ngfristiga v rdepappersinnehav | 12 540 | 0 |
+| --- | --- | --- |
+| Summa finansiella anl"ggningstillg#ngar | 12 540 | 0 |
+| Summa anl"ggningstillg#ngar | 39 711 | 15 914 |
+
+[Tabell 22-3](handlingar.tabeller/22-3.csv)
+
+| Kundfordringar | 155 | 155 |
+| --- | --- | --- |
+| &vriga fordringar | 258 | 1 095 |
+| F"rutbetalda kostnader och upplupna int kter | 848 | 773 |
+| Summa kortfristiga fordringar | 1 261 | 2 023 |
 
 <!-- sida 23 -->
 
@@ -833,13 +851,6 @@ Bundet eget kapital vid r kenskaps!rets b"rjan  10 500      10 500
 Bundet eget kapital vid r"kenskaps#rets slut    10 500      10 500
 
 Fritt eget kapital
-
-```osaker-tabell
-Fritt eget kapital vid r kenskaps!rets b"rjan   26 696       1 308
-#rets resultat                                   -6 983     25 389
-Fritt eget kapital vid r"kenskaps#rets slut     19 713      26 697
-Summa eget kapital                              30 213      37 197
-```
 
 Avs"ttningar
 Avs ttningar f"r pensioner och liknande f"rpliktelser
@@ -861,6 +872,14 @@ SUMMA  EGET KAPITAL OCH SKULDER                 45 608      55 319
 
 Detta dokumentet har signerats genom digitala signeringstjänsten GetAccept.
 Fingerprint: ad47c3a73bbfd3e6c9576324adc038724d7b83323722597b0227e4f991a759154bf010c97d870ce9a68d178e5a9c5f71f3aa46224a314bdecd6eb5f8572c9e32
+
+[Tabell 23-1](handlingar.tabeller/23-1.csv)
+
+| Fritt eget kapital vid r kenskaps!rets b"rjan | 26 696 | 1 308 |
+| --- | --- | --- |
+| #rets resultat | -6 983 | 25 389 |
+| Fritt eget kapital vid r"kenskaps#rets slut | 19 713 | 26 697 |
+| Summa eget kapital | 30 213 | 37 197 |
 
 <!-- sida 24 -->
 
@@ -950,37 +969,35 @@ Totala l!ner, andra ers"ttningar, sociala kostnader och
 pensionskostnader                             25 428      23 467
 
 Not 4 Immateriella tillg#ngar
-2024-12-31  2023-12-31
-
-```osaker-tabell
-Ing!ende anskaffningsv rden                     105           0
-Ink"p                                             0         105
-Utg#ende ackumulerade anskaffningsv"rden        105         105
-
-Ing!ende avskrivningar                           -21          0
-#rets avskrivningar                              -21        -21
-Utg#ende ackumulerade avskrivningar              -42        -21
-
-Utg#ende redovisat v"rde                         63          84
-```
 
 Not 5 Byggnader och mark
-2024-12-31  2023-12-31
-
-```osaker-tabell
-Ing!ende anskaffningsv rden                   18 744      18 619
-Ink"p                                          3 128        125
-Utg#ende ackumulerade anskaffningsv"rden      21 872      18 744
-
-Ing!ende avskrivningar                         -5 276     -5 113
-#rets avskrivningar                             -267        -163
-Utg#ende ackumulerade avskrivningar            -5 543     -5 276
-
-Utg#ende redovisat v"rde                      16 329      13 468
-```
 
 Detta dokumentet har signerats genom digitala signeringstjänsten GetAccept.
 Fingerprint: ad47c3a73bbfd3e6c9576324adc038724d7b83323722597b0227e4f991a759154bf010c97d870ce9a68d178e5a9c5f71f3aa46224a314bdecd6eb5f8572c9e32
+
+[Tabell 25-1](handlingar.tabeller/25-1.csv)
+
+|  | 2024-12-31 | 2023-12-31 |
+| --- | --- | --- |
+| Ing!ende anskaffningsv rden | 105 | 0 |
+| Ink"p | 0 | 105 |
+| Utg#ende ackumulerade anskaffningsv"rden | 105 | 105 |
+| Ing!ende avskrivningar | -21 | 0 |
+| #rets avskrivningar | -21 | -21 |
+| Utg#ende ackumulerade avskrivningar | -42 | -21 |
+| Utg#ende redovisat v"rde | 63 | 84 |
+
+[Tabell 25-2](handlingar.tabeller/25-2.csv)
+
+|  | 2024-12-31 | 2023-12-31 |
+| --- | --- | --- |
+| Ing!ende anskaffningsv rden | 18 744 | 18 619 |
+| Ink"p | 3 128 | 125 |
+| Utg#ende ackumulerade anskaffningsv"rden | 21 872 | 18 744 |
+| Ing!ende avskrivningar | -5 276 | -5 113 |
+| #rets avskrivningar | -267 | -163 |
+| Utg#ende ackumulerade avskrivningar | -5 543 | -5 276 |
+| Utg#ende redovisat v"rde | 16 329 | 13 468 |
 
 <!-- sida 26 -->
 
@@ -988,52 +1005,51 @@ Stiftelsen Tjol"holm                                         8 (10)
 Org.nr 849400-4578
 
 Not 6 Inventarier, verktyg och installationer
-2024-12-31  2023-12-31
-
-```osaker-tabell
-Ing!ende anskaffningsv rden                    8 721       8 465
-Ink"p                                          9 498        256
-F"rs ljningar/utrangeringar                    -1 366         0
-Utg#ende ackumulerade anskaffningsv"rden      16 853       8 721
-
-Ing!ende avskrivningar                         -6 804     -6 107
-F"rs ljningar/utrangeringar                    1 352          0
-#rets avskrivningar                            -1 493       -697
-Utg#ende ackumulerade avskrivningar            -6 944     -6 804
-
-Utg#ende redovisat v"rde                       9 909       1 917
-```
 
 Not 7 P#g#ende nyanl"ggningar och f!rskott avseende materiella anl"ggningstillg#ngar
-
-2024-12-31  2023-12-31
-
-```osaker-tabell
-Ing!ende anskaffningsv rden                    1 003         77
-Ink"p                                          2 995        926
-Omklassificeringar                             -3 128         0
-Utg#ende ackumulerade anskaffningsv"rden        870        1 003
-
-Utg#ende redovisat v"rde                        870        1 003
-```
 
 Se ven not 1 redovisnings- och v rderingsprinciper. V rdet i balansr kningen p! anl ggningar finansierade
 med offentliga bidrag avr knas l"pande mot erh!llna bidrag och v rdet i balansr kningen r d rf"r 444 tkr !r
 2024\.
 
 Not 8 Eget kapital
-Stiftelse Balanserat  rets    Totalt
-kapital  resultat  resultat
-Belopp vid
-r kenskaps!rets b"rjan 10 500    1 308     25 390   37 198
-&verf"ring av
-f"reg!ende !rs resultat          25 390   -25 390       0
-\#rets resultat                             -6 983    -6 983
-Belopp vid
-r"kenskaps#rets slut   10 500    26 698    -6 983   30 215
 
 Detta dokumentet har signerats genom digitala signeringstjänsten GetAccept.
 Fingerprint: ad47c3a73bbfd3e6c9576324adc038724d7b83323722597b0227e4f991a759154bf010c97d870ce9a68d178e5a9c5f71f3aa46224a314bdecd6eb5f8572c9e32
+
+[Tabell 26-1](handlingar.tabeller/26-1.csv)
+
+|  | 2024-12-31 | 2023-12-31 |
+| --- | --- | --- |
+| Ing!ende anskaffningsv rden | 8 721 | 8 465 |
+| Ink"p | 9 498 | 256 |
+| F"rs ljningar/utrangeringar | -1 366 | 0 |
+| Utg#ende ackumulerade anskaffningsv"rden | 16 853 | 8 721 |
+| Ing!ende avskrivningar | -6 804 | -6 107 |
+| F"rs ljningar/utrangeringar | 1 352 | 0 |
+| #rets avskrivningar | -1 493 | -697 |
+| Utg#ende ackumulerade avskrivningar | -6 944 | -6 804 |
+| Utg#ende redovisat v"rde | 9 909 | 1 917 |
+
+[Tabell 26-2](handlingar.tabeller/26-2.csv)
+
+|  | 2024-12-31 | 2023-12-31 |
+| --- | --- | --- |
+| Ing!ende anskaffningsv rden | 1 003 | 77 |
+| Ink"p | 2 995 | 926 |
+| Omklassificeringar | -3 128 | 0 |
+| Utg#ende ackumulerade anskaffningsv"rden | 870 | 1 003 |
+| Utg#ende redovisat v"rde | 870 | 1 003 |
+
+[Tabell 26-3](handlingar.tabeller/26-3.csv)
+
+|  | Stiftelse kapital | Balanserat resultat | rets resultat | Totalt |
+| --- | --- | --- | --- | --- |
+| Belopp vid |  |  |  |  |
+| r kenskaps!rets b"rjan | 10 500 | 1 308 | 25 390 | 37 198 |
+| &verf"ring av f"reg!ende !rs resultat |  | 25 390 | -25 390 | 0 |
+| #rets resultat |  |  | -6 983 | -6 983 |
+| Belopp vid r"kenskaps#rets slut | 10 500 | 26 698 | -6 983 | 30 215 |
 
 <!-- sida 27 -->
 
@@ -1041,19 +1057,6 @@ Stiftelsen Tjol"holm                                         9 (10)
 Org.nr 849400-4578
 
 Not 9 Mottagna ej anv"nda bidrag
-Varav avr knat
-Offentliga mot p!g!ende
-fastighetsbidra nyanl ggninga
-g        r &vriga bidrag Summa
-Vid !rets b"rjan                        8 221    -559       0      7 662
-Under !ret erh!llna bidrag              5 799                      5 799
-Bidrag som redovisas som avg!ende post fr!n anskaffningsv rdet
-
-```osaker-tabell
-p! anl ggningstillg!ngar                          559               559
-Bidrag avr knade i resultatr kningen    -8 630                     -8 630
-Vid #rets slut                          5 390      0        0      5 390
-```
 
 Den dag som framg!r av min elektroniska underskrift
 
@@ -1075,6 +1078,16 @@ Auktoriserad revisor               Revisor
 
 Detta dokumentet har signerats genom digitala signeringstjänsten GetAccept.
 Fingerprint: ad47c3a73bbfd3e6c9576324adc038724d7b83323722597b0227e4f991a759154bf010c97d870ce9a68d178e5a9c5f71f3aa46224a314bdecd6eb5f8572c9e32
+
+[Tabell 27-1](handlingar.tabeller/27-1.csv)
+
+|  | Offentliga fastighetsbidra g | Varav avr knat mot p!g!ende nyanl ggninga r | &vriga bidrag | Summa |
+| --- | --- | --- | --- | --- |
+| Vid !rets b"rjan | 8 221 | -559 | 0 | 7 662 |
+| Under !ret erh!llna bidrag | 5 799 |  |  | 5 799 |
+| Bidrag som redovisas som avg!ende post fr!n anskaffningsv rdet p! anl ggningstillg!ngar |  | 559 |  | 559 |
+| Bidrag avr knade i resultatr kningen | -8 630 |  |  | -8 630 |
+| Vid #rets slut | 5 390 | 0 | 0 | 5 390 |
 
 <!-- sida 28 -->
 
@@ -3698,6 +3711,18 @@ Ansökan om verksamhetsstöd
 
 (Preliminär uträkning)
 
+Läsår         Prel. Antal   Kr/invånare    Verksamhetsstöd
+invånare per 30              Kungsbacka
+sept 2024                    kommun
+
+2025/2026     85 609        4,50 kr        385 240 kr
+
+2026/2027     85 609        4,50 kr        385 240 kr
+
+2027/2028     85 609        4,50 kr        385 240 kr
+
+Summa 3 år                                 1 155 720 kr
+
 Sökande och initiativtagare:
 Ung Företagsamhet i Hallands län
 Tre (adress borttagen),302 41 Halmstad
@@ -3706,15 +3731,6 @@ Org. Nr: 849201-7960
 BG: 5873-4047
 www.ungforetagsamhet.se/halland
 Kontaktperson; Ida Thorén Olsson, Regionchef
-
-[Tabell 87-1](handlingar.tabeller/87-1.csv)
-
-| Läsår | Prel. Antal<br>invånare per 30<br>sept 2024 | Kr/invånare | Verksamhetsstöd<br>Kungsbacka<br>kommun |
-| --- | --- | --- | --- |
-| 2025/2026 | 85 609 | 4,50 kr | 385 240 kr |
-| 2026/2027 | 85 609 | 4,50 kr | 385 240 kr |
-| 2027/2028 | 85 609 | 4,50 kr | 385 240 kr |
-| Summa 3 år |  |  | 1 155 720 kr |
 
 <!-- sida 88 -->
 
@@ -4461,10 +4477,6 @@ Av SE Fastigheters totala behov av reinvesteringsåtgärder utgör dessa
 grundreinvesteringsbehov följande utgiftsmassa för planperioden:
 Totalt
 2026–
-Behov plan 2026–2030 (Mkr) 2026 2027 2028 2029 2030  2030
-Reinvesteringar grund  70    75    80    85    90
-
-Totalt                  70    75    80    85    90  400,0
 
 2.2 Omfattande reinvesteringar i enskilda byggnader
 Det finns ett tydligt behov av reinvesteringsåtgärder som omfattar kompletta
@@ -4484,6 +4496,13 @@ utan även skapar en hållbar byggnad med lägre energiförbrukning och minskade
 underhållskostnader. Utöver att säkerställa byggnadens funktionalitet och livslängd
 
 Kungsbacka kommun              Styrande dokument                3 (8)
+
+[Tabell 104-1](handlingar.tabeller/104-1.csv)
+
+| Behov plan 2026–2030 (Mkr) | 2026 | 2027 | 2028 | 2029 | 2030 | 2030 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Reinvesteringar grund | 70 | 75 | 80 | 85 | 90 |  |
+| Totalt | 70 | 75 | 80 | 85 | 90 | 400,0 |
 
 <!-- sida 105 -->
 
@@ -5321,9 +5340,9 @@ Flexibel användning av Arenatorget
 Exteriöra perspektiv Vpläartms aa tut phpä nfögra s, tmreöetet sidprloattts,. Parkering Sfoäosdotnrugcskbse,t monaatfdees tmivaarl.knader, Fågelpost morgonterrass Cykelbana Huvudentré Mindre konserter, evenemang.
 Lek, dagvatten, rekreation. Vinteraktiviteter.
 Träningsbåna
-5 min
-5 min
-5 min
+5min
+5min
+5min
 Otoilclp hot imf m uga nil kv a tai n onsdn l eeu r t sntinadg Editat lonygt tm teodrg c seonmtru smtår i Nmfra aåm tnugt r i fd oas clds h äs b kor ioma l r o o g m isk rå det
 Situaionsplan 1:200 (A1) “KRONA” 3/12
 Situationsplan över föreslagen arena. Semrén &
@@ -14787,7 +14806,7 @@ ANntagen B         Löftabro, Varbergs kommun
 20xx-xx-xx § xxx
 0                 meter              100           Laga kraft         Upprättad av Stadsbyggnadskontoret
 20xx-xx-xx         2025-04-10
-Skala 1: 1000 (A1 )
+Skala 1: 1000 (A1)
 
 <!-- sida 363 -->
 
@@ -16461,38 +16480,46 @@ taxa.
 
 Diarienummer: 2025/76
 
-2\.
-2.1
+2\. Rengöring                                            Kronor   Kronor
+exklusive moms inklusive moms
+2.1 Inställelseavgift
+För rengöring uttas en inställelseavgift per person och tillfälle.
+240     300,00
+Avgift för flera utförare får endast uttas om förutsättningarna är sådana att objektet
+kräver detta. Avgiften kompenserar även för förbrukningsmateriel.
+2.2 Timersättning – ordinarie arbetstid
+För rengöring av imkanaler uttas ersättning för faktisk tidsåtgång per person och timme.
+Ordinarie arbetstid är helgfria vardagar mellan kl. 06:00 och 17:00. Tidsåtgången räknas 480 per 600,00 per
+från ankomst tills arbetet slutförts i lokalen.      timme    timme
+Ersättning för flera utförare får endast uttas om förutsättningarna är sådana att objektet
+kräver detta. Observera att specificerad tidrapport ska lämnas.
+2.3 Timersättning – utom ordinarie arbetstid
+Ersättning för flera utförare får endast uttas om förutsättningarna är sådana att objektet
+kräver detta. Observera att specificerad tidrapport ska lämnas.
+A  Timersättning – kl. 17:01 – 22:00
+För rengöring av imkanaler utom ordinarie arbetstid (helgfria vardagar kl. 17:01 – 22:00), 527 per 658,75 per
+uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills arbetet timme timme
+slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme.
+B Timersättning – kl. 22:01 – 06:00
+För rengöring av imkanaler utom ordinarie arbetstid (helgfria vardagar kl. 22:01 – 06:00), 579 per 723,75 per
+uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills arbetet timme timme
+slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme.
+C Timersättning – lördagar och helgdagar
 
-2.2
-
-2.3
-
-A
-
-B
-
-C
-
-2.4
-
-2.5
-
-3
-
-[Tabell 411-1](handlingar.tabeller/411-1.csv)
-
-| Rengöring | Kronor<br>exklusive moms | Kronor<br>inklusive moms |
-| --- | --- | --- |
-| Inställelseavgift<br>För rengöring uttas en inställelseavgift per person och tillfälle.<br>Avgift för flera utförare får endast uttas om förutsättningarna är sådana att objektet<br>kräver detta. Avgiften kompenserar även för förbrukningsmateriel. | 240 | 300,00 |
-| Timersättning – ordinarie arbetstid<br>För rengöring av imkanaler uttas ersättning för faktisk tidsåtgång per person och timme.<br>Ordinarie arbetstid är helgfria vardagar mellan kl. 06:00 och 17:00. Tidsåtgången räknas<br>från ankomst tills arbetet slutförts i lokalen.<br>Ersättning för flera utförare får endast uttas om förutsättningarna är sådana att objektet<br>kräver detta. Observera att specificerad tidrapport ska lämnas. | 480 per<br>timme | 600,00 per<br>timme |
-| Timersättning – utom ordinarie arbetstid<br>Ersättning för flera utförare får endast uttas om förutsättningarna är sådana att objektet<br>kräver detta. Observera att specificerad tidrapport ska lämnas. |  |  |
-| Timersättning – kl. 17:01 – 22:00<br>För rengöring av imkanaler utom ordinarie arbetstid (helgfria vardagar kl. 17:01 – 22:00),<br>uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills arbetet<br>slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme. | 527 per<br>timme | 658,75 per<br>timme |
-| Timersättning – kl. 22:01 – 06:00<br>För rengöring av imkanaler utom ordinarie arbetstid (helgfria vardagar kl. 22:01 – 06:00),<br>uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills arbetet<br>slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme. | 579 per<br>timme | 723,75 per<br>timme |
-| Timersättning – lördagar och helgdagar<br>För rengöring av imkanaler utom ordinarie arbetstid (lördagar och helgdagar oavsett<br>klockslag), uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills<br>arbetet slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme. | 708 per<br>timme | 885,00 per<br>timme |
-| Avgift för ej tillträde<br>Då rengöringen inte kunnat utföras på grund av att det inte getts tillträde till fastigheten<br>enligt avisering och särskilda skäl för detta inte förelegat, uttas en inställelseavgift per<br>person och tillfälle för det aviserade besöket. | 240 | 300,00 |
-| Avgift för ombokning<br>Då fastighetsägaren eller nyttjanderättshavaren ombokat senare än 48 helgfria timmar<br>före aviserat besök, uttas en grundavgift. | 240 | 300,00 |
-| Basår och årlig justering av taxan<br>Taxans basår är 2024. Taxan revideras årligen från och med den 1 januari 2027 enlighet med<br>aktuellt prisindex för kommunal verksamhet (PKV). |  |  |
+För rengöring av imkanaler utom ordinarie arbetstid (lördagar och helgdagar oavsett 708 per 885,00 per
+klockslag), uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills timme timme
+arbetet slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme.
+2.4 Avgift för ej tillträde
+Då rengöringen inte kunnat utföras på grund av att det inte getts tillträde till fastigheten
+240     300,00
+enligt avisering och särskilda skäl för detta inte förelegat, uttas en inställelseavgift per
+person och tillfälle för det aviserade besöket.
+2.5 Avgift för ombokning
+Då fastighetsägaren eller nyttjanderättshavaren ombokat senare än 48 helgfria timmar 240 300,00
+före aviserat besök, uttas en grundavgift.
+3  Basår och årlig justering av taxan
+Taxans basår är 2024. Taxan revideras årligen från och med den 1 januari 2027 enlighet med
+aktuellt prisindex för kommunal verksamhet (PKV).
 
 <!-- sida 412 -->
 
@@ -16638,39 +16665,50 @@ enligt denna taxa.
 
 Dnr A0318/20
 
-2\.
+2\. Rengöring                                            Kronor   Kronor
+exklusive moms inklusive moms
+2.1 Inställelseavgift
+För rengöring uttas en inställelseavgift per person och tillfälle.
+240     300,00
+Avgift för flera utförare får endast uttas om förutsättningarna är sådana att objektet
+kräver detta. Avgiften kompenserar även för förbrukningsmateriel.
+2.2 Timersättning – ordinarie arbetstid
+För rengöring av imkanaler uttas ersättning för faktisk tidsåtgång per person och timme.
+Ordinarie arbetstid är helgfria vardagar mellan kl. 06:00 och 17:00. Tidsåtgången räknas 480/ 600,00/
+från ankomst tills arbetet slutförts i lokalen.      timme    timme
+Ersättning för flera utförare får endast uttas om förutsättningarna är sådana att objektet
+kräver detta. Observera att specificerad tidrapport ska lämnas.
+2.3 Timersättning – utom ordinarie arbetstid
+Ersättning för flera utförare får endast uttas om förutsättningarna är sådana att objektet
+kräver detta. Observera att specificerad tidrapport ska lämnas.
+A  Timersättning – kl. 17:01 – 22:00
 
-2.1
+För rengöring av imkanaler utom ordinarie arbetstid (helgfria vardagar kl. 17:01 – 22:00), 527/ 658,75/
+uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills arbetet timme timme
+slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme.
+B Timersättning – kl. 22:01 – 06:00
+För rengöring av imkanaler utom ordinarie arbetstid (helgfria vardagar kl. 22:01 – 06:00), 579/ 723,75/
+uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills arbetet timme timme
+slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme.
+C Timersättning – lördagar och helgdagar
+För rengöring av imkanaler utom ordinarie arbetstid (lördagar och helgdagar oavsett 708/ 885,00/
+klockslag), uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills timme timme
+arbetet slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme.
 
-2.2
-
-2.3
-
-A
-
-B
-
-C
-
-2.4
-
-2.5
-
-3
-
-[Tabell 415-1](handlingar.tabeller/415-1.csv)
-
-| Rengöring | Kronor<br>exklusive moms | Kronor<br>inklusive moms |
-| --- | --- | --- |
-| Inställelseavgift<br>För rengöring uttas en inställelseavgift per person och tillfälle.<br>Avgift för flera utförare får endast uttas om förutsättningarna är sådana att objektet<br>kräver detta. Avgiften kompenserar även för förbrukningsmateriel. | 240 | 300,00 |
-| Timersättning – ordinarie arbetstid<br>För rengöring av imkanaler uttas ersättning för faktisk tidsåtgång per person och timme.<br>Ordinarie arbetstid är helgfria vardagar mellan kl. 06:00 och 17:00. Tidsåtgången räknas<br>från ankomst tills arbetet slutförts i lokalen.<br>Ersättning för flera utförare får endast uttas om förutsättningarna är sådana att objektet<br>kräver detta. Observera att specificerad tidrapport ska lämnas. | 480/<br>timme | 600,00/<br>timme |
-| Timersättning – utom ordinarie arbetstid<br>Ersättning för flera utförare får endast uttas om förutsättningarna är sådana att objektet<br>kräver detta. Observera att specificerad tidrapport ska lämnas. |  |  |
-| Timersättning – kl. 17:01 – 22:00<br>För rengöring av imkanaler utom ordinarie arbetstid (helgfria vardagar kl. 17:01 – 22:00),<br>uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills arbetet<br>slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme. | 527/<br>timme | 658,75/<br>timme |
-| Timersättning – kl. 22:01 – 06:00<br>För rengöring av imkanaler utom ordinarie arbetstid (helgfria vardagar kl. 22:01 – 06:00),<br>uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills arbetet<br>slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme. | 579/<br>timme | 723,75/<br>timme |
-| Timersättning – lördagar och helgdagar<br>För rengöring av imkanaler utom ordinarie arbetstid (lördagar och helgdagar oavsett<br>klockslag), uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills<br>arbetet slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme. | 708/<br>timme | 885,00/<br>timme |
-| Avgift för ej tillträde<br>Då rengöringen inte kunnat utföras pga att det inte getts tillträde till fastigheten enligt<br>avisering och särskilda skäl för detta inte förelegat, uttas en inställelseavgift per person<br>och tillfälle för det aviserade besöket. | 240 | 300,00 |
-| Avgift för ombokning<br>Då fastighetsägaren eller nyttjanderättshavaren ombokat senare än 48 helgfria timmar<br>före aviserat besök, uttas en grundavgift. | 240 | 300,00 |
-| Basår och årlig justering av taxan<br>Taxans basår är 2019. Taxan revideras årligen från och med år 2020 i enlighet med aktuellt<br>sotningsindex, som överenskommits mellan Sveriges Skorstensfejarmästares Riksförbund och<br>Sveriges Kommuner och Regioner. Räddningstjänstförbundet Storgöteborg ska från och med<br>ikraftträdandet år 2022 årligen justera taxan i enlighet med det nationella Sotningsindex<br>(Cirkulär 2002:83) som meddelas av Sveriges Kommuner och Regioner. |  |  |
+2.4 Avgift för ej tillträde
+Då rengöringen inte kunnat utföras pga att det inte getts tillträde till fastigheten enligt
+240     300,00
+avisering och särskilda skäl för detta inte förelegat, uttas en inställelseavgift per person
+och tillfälle för det aviserade besöket.
+2.5 Avgift för ombokning
+Då fastighetsägaren eller nyttjanderättshavaren ombokat senare än 48 helgfria timmar 240 300,00
+före aviserat besök, uttas en grundavgift.
+3  Basår och årlig justering av taxan
+Taxans basår är 2019. Taxan revideras årligen från och med år 2020 i enlighet med aktuellt
+sotningsindex, som överenskommits mellan Sveriges Skorstensfejarmästares Riksförbund och
+Sveriges Kommuner och Regioner. Räddningstjänstförbundet Storgöteborg ska från och med
+ikraftträdandet år 2022 årligen justera taxan i enlighet med det nationella Sotningsindex
+(Cirkulär 2002:83) som meddelas av Sveriges Kommuner och Regioner.
 
 <!-- sida 416 -->
 
@@ -17325,80 +17363,72 @@ Kommundirektör                Biträdande kommundirektör
 <!-- sida 432 -->
 
 Januari 2026      Februari 2026      Mars 2026         April 2026        Maj 2026          Juni 2026
-
-[Tabell 432-1](handlingar.tabeller/432-1.csv)
-
-| T 1 Nyårsdagen | S 1 | S 1 | O 1 | F 1 Första maj | M 1 23 |
-| --- | --- | --- | --- | --- | --- |
-| F 2 | M 2 6 | M 2 10 | T 2 | L 2 | T 2 KSAU |
-| L 3 | T 3 KSAU KF | T 3 KSAU KF | F 3 Långfredagen | S 3 | O 3 |
-| S 4 | O 4 | O 4 | L 4 Påskafton | M 4 19 | T 4 |
-| M 5 Trettondagsafton 2 | T 5 | T 5 | S 5 Påskdagen | T 5 KSAU KF | F 5 |
-| T 6 Trettondedag jul | F 6 | F 6 | M 6 Annandag påsk 15 | O 6 | L 6 Sveriges nationaldag |
-| O 7 | L 7 | L 7 | T 7 | T 7 | S 7 |
-| T 8 | S 8 | S 8 | O 8 | F 8 | M 8 24 |
-| F 9 | M 9 7 | M 9 11 | T 9 | L 9 | T 9 KF |
-| L 10 | T 10 | T 10 KSAU | F 10 | S 10 | O 10 |
-| S 11 | O 11 | O 11 | L 11 | M 11 20 | T 11 KSAU |
-| M 12 3 | T 12 | T 12 | S 12 | T 12 KSAU | F 12 |
-| T 13 KSAU | F 13 | F 13 | M 13 16 | O 13 | L 13 |
-| O 14 | L 14 | L 14 | T 14 KSAU KF | T 14 Kristi himmelsfärdsdag | S 14 |
-| T 15 | S 15 | S 15 | O 15 | F 15 | M 15 25 |
-| F 16 | M 16 8 | M 16 12 | T 16 | L 16 | T 16 KS |
-| L 17 | T 17 KS | T 17 KS | F 17 | S 17 | O 17 |
-| S 18 | O 18 | O 18 | L 18 | M 18 21 | T 18 |
-| M 19 4 | T 19 | T 19 | S 19 | T 19 KSAU | F 19 Midsommarafton |
-| T 20 KS | F 20 | F 20 | M 20 17 | O 20 | L 20 Midsommardagen |
-| O 21 | L 21 | L 21 | T 21 KS | T 21 | S 21 |
-| T 22 | S 22 | S 22 | O 22 | F 22 | M 22 26 |
-| F 23 | M 23 9 | M 23 13 | T 23 | L 23 | T 23 |
-| L 24 | T 24 KSAU | T 24 KSAU | F 24 | S 24 | O 24 |
-| S 25 | O 25 | O 25 | L 25 | M 25 22 | T 25 |
-| M 26 5 | T 26 | T 26 | S 26 | T 26 KS | F 26 |
-| T 27 KSAU | F 27 | F 27 | M 27 18 | O 27 | L 27 |
-| O 28 | L 28 | L 28 | T 28 KSAU | T 28 | S 28 |
-| T 29 |  | S 29 | O 29 | F 29 | M 29 27 |
-| F 30 |  | M 30 14 | T 30 Valborgsmässoafton | L 30 | T 30 |
-| L 31 |  | T 31 KSAU |  | S 31 |  |
+T 1 Nyårsdagen    S 1               S 1               O 1               F 1 Första maj    M 1            23
+F 2               M 2             6 M 2            10 T 2               L 2               T 2 KSAU
+L 3               T 3 KSAU KF       T 3 KSAU KF       F 3 Långfredagen  S 3               O 3
+S 4               O 4               O 4               L 4 Påskafton     M 4            19 T 4
+M 5 Trettondagsafton 2 T 5          T 5               S 5 Påskdagen     T 5 KSAU KF       F 5
+T 6 Trettondedag jul F 6            F 6               M 6 Annandag påsk 15 O 6            L 6 Sveriges nationaldag
+O 7               L 7               L 7               T 7               T 7               S 7
+T 8               S 8               S 8               O 8               F 8               M 8            24
+F 9               M 9             7 M 9            11 T 9               L 9               T 9 KF
+L 10              T 10              T 10 KSAU         F 10              S 10              O 10
+S 11              O 11              O 11              L 11              M 11           20 T 11 KSAU
+M 12            3 T 12              T 12              S 12              T 12 KSAU         F 12
+T 13 KSAU         F 13              F 13              M 13           16 O 13              L 13
+O 14              L 14              L 14              T 14 KSAU KF      T 14 Kristi himmelsfärdsdag S 14
+T 15              S 15              S 15              O 15              F 15              M 15           25
+F 16              M 16            8 M 16           12 T 16              L 16              T 16 KS
+L 17              T 17 KS           T 17 KS           F 17              S 17              O 17
+S 18              O 18              O 18              L 18              M 18           21 T 18
+M 19            4 T 19              T 19              S 19              T 19 KSAU         F 19 Midsommarafton
+T 20 KS           F 20              F 20              M 20           17 O 20              L 20 Midsommardagen
+O 21              L 21              L 21              T 21 KS           T 21              S 21
+T 22              S 22              S 22              O 22              F 22              M 22           26
+F 23              M 23            9 M 23           13 T 23              L 23              T 23
+L 24              T 24 KSAU         T 24 KSAU         F 24              S 24              O 24
+S 25              O 25              O 25              L 25              M 25           22 T 25
+M 26            5 T 26              T 26              S 26              T 26 KS           F 26
+T 27 KSAU         F 27              F 27              M 27           18 O 27              L 27
+O 28              L 28              L 28              T 28 KSAU         T 28              S 28
+T 29                                S 29              O 29              F 29              M 29           27
+F 30                                M 30           14 T 30 Valborgsmässoafton L 30        T 30
+L 31                                T 31 KSAU                           S 31
 
 <!-- sida 433 -->
 
 Juli 2026        Augusti 2026     September 2026     Oktober 2026     November 2026     December 2026
-
-[Tabell 433-1](handlingar.tabeller/433-1.csv)
-
-| O 1 | L 1 | T 1 KSAU | T 1 | S 1 | T 1 KSAU |
-| --- | --- | --- | --- | --- | --- |
-| T 2 | S 2 | O 2 | F 2 | M 2 45 | O 2 |
-| F 3 | M 3 32 | T 3 | L 3 | T 3 KSAU KF | T 3 |
-| L 4 | T 4 | F 4 | S 4 | O 4 | F 4 |
-| S 5 | O 5 | L 5 | M 5 41 | T 5 | L 5 |
-| M 6 28 | T 6 | S 6 | T 6 KSAU KF | F 6 | S 6 |
-| T 7 | F 7 | M 7 37 | O 7 | L 7 | M 7 50 |
-| O 8 | L 8 | T 8 KSAU KF | T 8 | S 8 | T 8 KSAU KF |
-| T 9 | S 9 | O 9 | F 9 | M 9 46 | O 9 |
-| F 10 | M 10 33 | T 10 | L 10 | T 10 KSAU | T 10 |
-| L 11 | T 11 KSAU KF | F 11 | S 11 | O 11 | F 11 |
-| S 12 | O 12 | L 12 | M 12 42 | T 12 | L 12 |
-| M 13 29 | T 13 | S 13 Allmänna val | T 13 KSAU | F 13 | S 13 |
-| T 14 | F 14 | M 14 38 | O 14 | L 14 | M 14 51 |
-| O 15 | L 15 | T 15 KSAU | T 15 | S 15 | T 15 KS |
-| T 16 | S 16 | O 16 | F 16 | M 16 47 | O 16 |
-| F 17 | M 17 34 | T 17 | L 17 | T 17 KSAU | T 17 |
-| L 18 | T 18 KSAU | F 18 | S 18 | O 18 | F 18 |
-| S 19 | O 19 | L 19 | M 19 43 | T 19 | L 19 |
-| M 20 30 | T 20 | S 20 | T 20 KS | F 20 | S 20 |
-| T 21 | F 21 | M 21 39 | O 21 | L 21 | M 21 52 |
-| O 22 | L 22 | T 22 KS | T 22 | S 22 | T 22 |
-| T 23 | S 23 | O 23 | F 23 | M 23 48 | O 23 |
-| F 24 | M 24 35 | T 24 | L 24 | T 24 KS | T 24 Julafton |
-| L 25 | T 25 KS | F 25 | S 25 | O 25 | F 25 Juldagen |
-| S 26 | O 26 | L 26 | M 26 44 | T 26 | L 26 Annandag jul |
-| M 27 31 | T 27 | S 27 | T 27 | F 27 | S 27 |
-| T 28 | F 28 | M 28 40 | O 28 | L 28 | M 28 53 |
-| O 29 | L 29 | T 29 KSAU | T 29 | S 29 | T 29 |
-| T 30 | S 30 | O 30 | F 30 Alla helgons afton | M 30 49 | O 30 |
-| F 31 | M 31 36 |  | L 31 Alla helgons dag |  | T 31 Nyårsafton |
+O 1               L 1               T 1 KSAU          T 1               S 1               T 1 KSAU
+T 2               S 2               O 2               F 2               M 2            45 O 2
+F 3               M 3            32 T 3               L 3               T 3 KSAU KF       T 3
+L 4               T 4               F 4               S 4               O 4               F 4
+S 5               O 5               L 5               M 5            41 T 5               L 5
+M 6            28 T 6               S 6               T 6 KSAU KF       F 6               S 6
+T 7               F 7               M 7            37 O 7               L 7               M 7            50
+O 8               L 8               T 8 KSAU KF       T 8               S 8               T 8 KSAU KF
+T 9               S 9               O 9               F 9               M 9            46 O 9
+F 10              M 10           33 T 10              L 10              T 10 KSAU         T 10
+L 11              T 11 KSAU KF      F 11              S 11              O 11              F 11
+S 12              O 12              L 12              M 12           42 T 12              L 12
+M 13           29 T 13              S 13 Allmänna val T 13 KSAU         F 13              S 13
+T 14              F 14              M 14           38 O 14              L 14              M 14           51
+O 15              L 15              T 15 KSAU         T 15              S 15              T 15 KS
+T 16              S 16              O 16              F 16              M 16           47 O 16
+F 17              M 17           34 T 17              L 17              T 17 KSAU         T 17
+L 18              T 18 KSAU         F 18              S 18              O 18              F 18
+S 19              O 19              L 19              M 19           43 T 19              L 19
+M 20           30 T 20              S 20              T 20 KS           F 20              S 20
+T 21              F 21              M 21           39 O 21              L 21              M 21           52
+O 22              L 22              T 22 KS           T 22              S 22              T 22
+T 23              S 23              O 23              F 23              M 23           48 O 23
+F 24              M 24           35 T 24              L 24              T 24 KS           T 24 Julafton
+L 25              T 25 KS           F 25              S 25              O 25              F 25 Juldagen
+S 26              O 26              L 26              M 26           44 T 26              L 26 Annandag jul
+M 27           31 T 27              S 27              T 27              F 27              S 27
+T 28              F 28              M 28           40 O 28              L 28              M 28           53
+O 29              L 29              T 29 KSAU         T 29              S 29              T 29
+T 30              S 30              O 30              F 30 Alla helgons afton M 30     49 O 30
+F 31              M 31           36                   L 31 Alla helgons dag               T 31 Nyårsafton
 
 <!-- sida 434 -->
 
@@ -18934,7 +18964,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7D110C9AB7A7C5277536B23924B731BCED379644EB
 Transaktionsidentitet: 20A61BDDED5E38925CD982A8652FF26C6407D92719
 
-[Tabell 464-1](handlingar.tabeller/464-1.csv)
+[Tabell 464-465-1](handlingar.tabeller/464-465-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -18945,6 +18975,10 @@ Transaktionsidentitet: 20A61BDDED5E38925CD982A8652FF26C6407D92719
 | Astrid Börjesson (S) |  |  | X |
 | Eva Tingström (S) |  |  | X |
 | Per Hoel (SD) |  | X |  |
+| Göran Ottosson (SD) |  | X |  |
+| Bengt Alderin (C) | X |  |  |
+| Ulrika Högstrand (KD) | X |  |  |
+| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 465 -->
 
@@ -18962,14 +18996,6 @@ Kommunstyrelsen
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7D110C9AB7A7C5277536B23924B731BCED379644EB
 Transaktionsidentitet: 20A61BDDED5E38925CD982A8652FF26C6407D92719
-
-[Tabell 465-1](handlingar.tabeller/465-1.csv)
-
-| Göran Ottosson (SD) |  | X |  |
-| --- | --- | --- | --- |
-| Bengt Alderin (C) | X |  |  |
-| Ulrika Högstrand (KD) | X |  |  |
-| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 466 -->
 

@@ -1,0 +1,51 @@
+Verksamhetstyp:,Utbildning,,,,
+Verksamhetsområde:,Kommunal vuxenutbildning,,,,
+Processgrupp:,Bedriva grundläggande vuxenutbildning,,,,
+Process:,Bedriva grundläggande vuxenutbildning,,,,
+Processnummer:,5.8.1.4,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Antagning,"Ansökan till kurs,
+antagna elever",Edlevo,Digitalt,Se anm.,"När eleven slutat sin skolgång kan
+handlingarna gallras.
+Ansökningshandlingar som kommer i
+pappersform scannas in i Edlevo."
+,"Ansökan till kurs, ej
+antagna elever",Edlevo,Digitalt,1 år,"Efter avslutad reservintagning.
+Ansökningshandlingar som kommer i
+pappersform scannas in i Edlevo."
+,"Yttrande/beslut över
+utbildning i annan
+kommun",Edlevo,Digitalt,"Gallras 2 år efter
+slutförd
+utbildning i
+annan kommun",
+Elevregistering,Elevhistorik,Edlevo,Digitalt,Bevaras,"Uppgifter om elevs genomförda kurser- och
+studieavbrott."
+,"Underlag för debitering
+av interkommunala
+avgifter",Edlevo,Digitalt,10 år,"Debitering av interkommunala avgifter in
+(intäkter) samt för prognos interkommunala
+avgifter ut (kostnader)."
+"Hantera individuell
+studieplan",Individuell studieplan,Edlevo,Digitalt,Se anm.,Då eleven slutat skolan.
+,"Blankett skyddade
+personuppgifter,",Pärm,Papper,Se anm.,"Sekretesshandling, förvaras i låst"
+,"inklusive
+ansökningshandling",,,,"skåp. Blanketten behöver sparas så länge
+personen uppbär skyddade personuppgifter för
+identifiering i systemet."
+"Övrig administration
+gällande
+vuxenutbildning",Elevklagomål,Ciceron,Digitalt,Se anm.,När avtalsperiod går ut
+,Disciplinär åtgärd,Ciceron,Digitalt,Bevaras,"Handlingar rörande ex varning, avstängning,
+avvisning av elev. Upphandlade skolor har
+skyldighet att informera rektor på Vuxnas
+lärande, som sedan fattar beslut.
+Längre avstängning görs av
+förvaltningschef/nämnd."
+Ge särskilt stöd,Läs- och skrivutredning,Närarkiv,Papper,5 år,"Endast enhetschef/rektor och specialpedagog
+har behörighet att se utredningarna."
+,"Pedagogisk
+kartläggning/överlämning",Närarkiv,Papper,"1 år efter
+avslutade studier","Endast enhetschef/rektor och specialpedagog
+har behörighet att se kartläggningarna."

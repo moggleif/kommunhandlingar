@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2f66052419afce94c17194bc/1765442358
 sha256: b300f6d21c0578f62568c01a23fda64d75b72a8229f98cedf09021846426f4df
 bytes: 102246330
 sidor: 665
-hamtad: 2026-10-08T12:08:35+00:00
-konverterad: 2026-10-08T12:17:57+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T09:56:45+00:00
+konverterad: 2026-10-15T10:05:58+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ok, ocr, ok, ocr, ocr, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ej-konverterad, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, tom, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [14, 15, 16, 18, 19, 20, 21, 22, 24, 25, 27, 29, 30, 31, 34, 35, 36, 37, 38, 39, 40, 41, 42, 44, 46, 48, 49, 51, 52, 53, 55, 56, 58, 59, 60, 63, 64, 66, 67, 69, 71, 77, 78, 79, 81, 82, 83, 84, 86, 87, 92, 93, 96, 97, 99, 101, 102, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 152, 153, 155, 156, 158, 159, 160, 161, 163, 164, 166, 167, 168, 169, 171, 173, 174, 175, 176, 177, 179, 184, 185, 186, 187, 188, 189, 190, 191, 192, 194, 196, 197, 198, 199, 201, 202, 203, 205, 206, 208, 209, 210, 211, 213, 214, 215, 217, 218, 219, 254, 255, 257, 258, 259, 267, 268, 269, 270, 348, 349, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 408, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 425]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ok, ocr, ok, ocr, ocr, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ej-konverterad, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, tom, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [14, 15, 16, 18, 19, 20, 21, 22, 24, 25, 27, 29, 30, 31, 34, 35, 36, 37, 38, 39, 40, 41, 42, 44, 46, 48, 49, 51, 52, 53, 55, 56, 58, 59, 60, 63, 64, 66, 67, 69, 71, 77, 78, 79, 81, 82, 83, 84, 86, 87, 92, 93, 96, 97, 99, 101, 102, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 152, 153, 155, 156, 158, 159, 160, 161, 163, 164, 166, 167, 168, 169, 171, 173, 174, 175, 176, 177, 179, 184, 185, 186, 187, 188, 189, 190, 191, 192, 194, 196, 197, 198, 199, 201, 202, 203, 205, 206, 208, 209, 210, 211, 213, 214, 215, 217, 218, 219, 254, 255, 257, 258, 259, 267, 268, 269, 270, 348, 349, 372, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 401, 408, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 425, 542]
+figurer: [11, 21, 22, 54, 74, 77, 88, 91, 98, 105, 106, 107, 108, 178, 221, 228, 230, 232, 235, 248, 262, 273, 276, 282, 348, 349, 354, 355, 357, 358, 359, 360, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 389, 390, 391, 392, 401, 409, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 494, 520, 549, 557, 559, 568, 569, 577, 585, 586, 587, 588, 589, 602, 609, 612, 616, 619, 621, 622, 654, 656, 661]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -99,7 +99,7 @@ KUNGSBACKA  KOMMUN
 
 4(7)
 
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
+[Tabell 4-5-1](handlingar.tabeller/4-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -107,6 +107,9 @@ KUNGSBACKA  KOMMUN
 | 14. | Uppstart av projekt i lokalplan<br>Boende med särskild service<br>(BmSS) | 2025-00830 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner uppstart av projekt<br>Boende med särskild service.<br>Kommunstyrelsen godkänner att finansiering sker<br>genom att ianspråkta investeringsmedel 800 000<br>kronor år 2026, engångsdrift 400 000 kronor år 2026<br>samt driftskostnad 1 800 000 kronor år 2027 från<br>löpnummer 1202 Oförutsedda behov. |
 | 15. | Begäran om planbesked Iserås<br>22:1 | 2025-00566 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av bostäder inom Iserås 22:1 i Onsala. |
 | 16. | Försäljning av Duvehed 2:46 -<br>Prologis/Coloplast | 2021-01056 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner köpeavtal mellan<br>kommunen och Goldcup 101601 AB, under<br>namnändring till Prologis Sweden XL AB, genom<br>vilket kommunen överlåter fastigheten Duvehed<br>2:46, mot en köpeskilling på 14 638 500 kronor,<br>undertecknat av bolaget 2025-10-30.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>och övriga i ärendet nödvändiga handlingar. |
+| 17. | Bevaknings- och<br>samverkansavtal gång- och<br>cykelväg längs väg 916 Fjärås<br>Station | 2025-00771 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner bevaknings- och<br>samverkansavtal med Trafikverket Bevaknings- och<br>samverkansavtal gång- och cykelväg längs väg 916<br>Fjärås Station (TRV 2025/89319),<br>daterat 2025-11-04.<br>Kommunstyrelsen ger kommunstyrelsens ordförande<br>och kommundirektören, eller deras respektive<br>ersättare, i uppdrag att underteckna avtalet.<br>Kommunstyrelsen godkänner att kommunens<br>åtaganden i avtalet, som kostnadsberäknats till 4,7<br>miljoner kronor, finansieras genom kommunens<br>exploateringsbudget, projekt 5119<br>Verksamhetsområden övrigt, under år 2026. |
+| 18. | Godkännande av tilläggsavtal<br>till exploateringsavtal avseende<br>Banken 13 | 2019-00220 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner tilläggsavtal till<br>exploateringsavtal avseende Banken 13 mellan<br>kommunen och Dan Stenlund Fastigheter AB,<br>undertecknat av Dan Stenlund Fastigheter AB<br>2025-11-03.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna<br>tilläggsavtalet samt övriga nödvändiga handlingar för<br>avtalets genomförande. |
+| 19. | Svar på kommunrevisionens<br>granskning av<br>kommunstyrelsens<br>uppsiktsplikt | 2025-00407 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-11-07,<br>och översänder som sitt svar till kommunrevisionen. |
 
 <!-- sida 5 -->
 
@@ -114,21 +117,13 @@ KUNGSBACKA  KOMMUN
 
 5(7)
 
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 17. | Bevaknings- och<br>samverkansavtal gång- och<br>cykelväg längs väg 916 Fjärås<br>Station | 2025-00771 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner bevaknings- och<br>samverkansavtal med Trafikverket Bevaknings- och<br>samverkansavtal gång- och cykelväg längs väg 916<br>Fjärås Station (TRV 2025/89319),<br>daterat 2025-11-04.<br>Kommunstyrelsen ger kommunstyrelsens ordförande<br>och kommundirektören, eller deras respektive<br>ersättare, i uppdrag att underteckna avtalet.<br>Kommunstyrelsen godkänner att kommunens<br>åtaganden i avtalet, som kostnadsberäknats till 4,7<br>miljoner kronor, finansieras genom kommunens<br>exploateringsbudget, projekt 5119<br>Verksamhetsområden övrigt, under år 2026. |
-| 18. | Godkännande av tilläggsavtal<br>till exploateringsavtal avseende<br>Banken 13 | 2019-00220 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner tilläggsavtal till<br>exploateringsavtal avseende Banken 13 mellan<br>kommunen och Dan Stenlund Fastigheter AB,<br>undertecknat av Dan Stenlund Fastigheter AB<br>2025-11-03.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna<br>tilläggsavtalet samt övriga nödvändiga handlingar för<br>avtalets genomförande. |
-| 19. | Svar på kommunrevisionens<br>granskning av<br>kommunstyrelsens<br>uppsiktsplikt | 2025-00407 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-11-07,<br>och översänder som sitt svar till kommunrevisionen. |
-
 <!-- sida 6 -->
 
 KUNGSBACKA  KOMMUN
 
 6(7)
 
-[Tabell 6-1](handlingar.tabeller/6-1.csv)
+[Tabell 6-7-1](handlingar.tabeller/6-7-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -137,6 +132,9 @@ KUNGSBACKA  KOMMUN
 | 22. | Svar på Region Hallands<br>remiss om<br>Trafikförsörjningsprogram<br>2026–2030 | 2025-00735 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-12-09,<br>och översänder det som sitt svar till Region Halland. |
 | 23. | Svar på Landsbygds- och<br>infrastukturdepartementets<br>remiss av EU-kommissionens<br>förslag till förordningar för<br>perioden 2028–2034 om EU:s<br>fonder, jordbruk, fiske,<br>sammanhållning, social<br>inkludering, migration och<br>säkerhet | 2025-00685 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-10-22,<br>och översänder det som sitt svar till Landsbygds- och<br>infrastukturdepartementet. |
 | 24. | Svar på Finansdepartementets<br>remiss av Europeiska<br>kommissionens förslag till ny<br>förordning om ramverk för<br>uppföljning av budgetutgifter<br>och genomförande | 2025-00790 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-11-10,<br>och översänder det som sitt svar till<br>Finansdepartementet. |
+| 25. | Svar på remiss från Mölndals<br>stad av Reviderad<br>dagvattenstrategi för Mölndals<br>stad | 2025-00786 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-11-04,<br>och översänder det som sitt svar till Mölndals stad. |
+| 26. | Anmälan av delegeringsbeslut | 2025-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
+| 27. | Redovisning av inkomna<br>skrivelser | 2025-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
 
 <!-- sida 7 -->
 
@@ -146,14 +144,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Patrik Johansson
 ordförande                        kommunsekreterare
-
-[Tabell 7-1](handlingar.tabeller/7-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 25. | Svar på remiss från Mölndals<br>stad av Reviderad<br>dagvattenstrategi för Mölndals<br>stad | 2025-00786 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-11-04,<br>och översänder det som sitt svar till Mölndals stad. |
-| 26. | Anmälan av delegeringsbeslut | 2025-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
-| 27. | Redovisning av inkomna<br>skrivelser | 2025-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
 
 <!-- sida 8 -->
 
@@ -11892,6 +11882,15 @@ förvaring och som omsluts helt eller delvis av
 BYA = Byggnadsarea   Area som byggnaden tar upp på marken inklusive
 utstickande byggnadsdelar tex. balkong.
 
+Objektsfaktor (OF)
+
+Area (m2): BTA + OPA                           OF
+0 - 100                                         5
+101 - 1000                                      25
+
+1001 - 5000                                     55
+\>5001                                          105
+
 Timdebitering
 
 För vissa ärendetyper anges ”Timdebitering”. I dessa fall beräknas avgiften genom
@@ -11911,16 +11910,6 @@ B – Taxetabeller för fysisk samhällsplanering: Handläggningskostnaden per t
 Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 4 (21)
 
 [Tabell 330-1](handlingar.tabeller/330-1.csv)
-
-| Objektsfaktor (OF) |  |
-| --- | --- |
-| Area (m2): BTA + OPA | OF |
-| 0 - 100 | 5 |
-| 101 - 1000 | 25 |
-| 1001 - 5000 | 55 |
-| >5001 | 105 |
-
-[Tabell 330-2](handlingar.tabeller/330-2.csv)
 
 | Planfaktor (PF) |  |
 | --- | --- |
@@ -23139,11 +23128,11 @@ Tabell 3. Basutbud för orter utefter invånarantal. Antal turer/resmöjligheter
 stadstrafiken bestäms enligt efterfrågan samt stråk i stadstrafiken.
 
 Tätort-inv.antal Mån-fre         Lör          Sön
-<300                                          -
-300–499                                       -
+<300          Närtrafik/Anropsstyrd trafik -  -
+300–499       5                  -            -
 
-500–999                                       -
-1000–2999                                     5
+500–999       7                  -            -
+1000–2999     10                 6            5
 \>3000         18                 10           6
 
 4.5 Kollektivtrafikens infrastruktur
@@ -23162,14 +23151,6 @@ sätt. Goda möjligheter att kunna parkera cykel och bil bör i så stor utsträ
 möjligt finnas vid kollektivtrafikens bytespunkter för att underlätta hela resan.
 
 27
-
-[Tabell 578-1](handlingar.tabeller/578-1.csv)
-
-| Närtrafik/Anropsstyrd trafik | - |
-| --- | --- |
-| 5 | - |
-| 7 | - |
-| 10 | 6 |
 
 <!-- sida 579 -->
 
@@ -23514,11 +23495,13 @@ Tabell 4. Utbud i regionala och lokala kollektivtrafikstråk. Antal turer/resmö
 turer i stadstrafiken bestäms enligt efterfrågan samt stråk i stadstrafiken.
 Stråk            Mån-fre           Lör              Sön
 
-Mycket starka                                       8
-Starka                                              8
+```osaker-tabell
+Mycket starka     24               12               8
+Starka            18               12               8
 
-Lokalt mycket starkt                                32
+Lokalt mycket starkt 54            36               32
 Lokalt starkt     28               20               12
+```
 
 Utbudet som finns i stråken idag ska upprätthållas så långt det är möjligt förutsatt
 att befintligt utbud motsvarar resbehovet. Kollektivtrafikutbudet i Halland ska ses
@@ -23560,13 +23543,6 @@ från studier. Kollektivtrafik som benämns övriga linjer ska vara mer flexibel
 kollektivtrafiken i stråken. De övriga linjerna kan med fördel kompletteras med
 
 39
-
-[Tabell 590-1](handlingar.tabeller/590-1.csv)
-
-| 24 | 12 |
-| --- | --- |
-| 18 | 12 |
-| 54 | 36 |
 
 <!-- sida 591 -->
 

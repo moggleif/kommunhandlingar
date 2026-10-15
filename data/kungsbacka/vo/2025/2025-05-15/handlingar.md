@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5d477a49196b39710ab4f999/1747050261
 sha256: 6ac0d01e0758dff5c6b1c4f2a20b8bed5002869556ce2bf7aedbb9f23e6292fc
 bytes: 26228288
 sidor: 384
-hamtad: 2026-10-08T08:33:35+00:00
-konverterad: 2026-10-08T08:35:08+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T06:25:07+00:00
+konverterad: 2026-10-15T06:26:52+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [21, 22, 23, 24, 25, 26, 27, 28, 29, 57, 58]
-figurer: null
-tolkade: null
+figurer: [57, 58, 85, 87, 90, 91, 93, 94, 95, 97, 99, 101, 102, 104, 106, 108, 110, 112, 114, 115, 116, 117, 119, 121, 122, 131, 133, 134, 136, 137, 139, 141, 143, 145, 147, 150, 152, 153, 154, 156, 157, 158, 161, 162, 163, 164, 165, 166, 167, 168, 169, 171, 173, 175, 178, 179, 183, 184, 185, 186, 187, 192, 195, 196, 207, 208, 221, 318, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 366, 368, 369, 370, 371]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -169,8 +169,9 @@ pågår för att anpassa verksamheterna framöver.
 
 [Tabell 5-1](handlingar.tabeller/5-1.csv)
 
-| Nämnd | Bokslut<br>2024<br>-1,3 | Årsbudget<br>2025<br>-1,4 | Helårs-<br>prognos<br>2025<br>-1,4 | Avvikelse<br>2025<br>0,0 |
+|  | Bokslut<br>2024 | Årsbudget<br>2025 | Helårs-<br>prognos<br>2025 | Avvikelse<br>2025 |
 | --- | --- | --- | --- | --- |
+| Nämnd | -1,3 | -1,4 | -1,4 | 0,0 |
 | Förvaltning Gemensamt | -1,7 | -29,5 | -20 | 9,5 |
 | Förvaltningsledningskontoret | -542,8 | -196,2 | -201,6 | -5,4 |
 | Distrikt Syd | -67,3 | -48,2 | -48,2 | 0,0 |
@@ -336,7 +337,7 @@ Investeringar (belopp i miljoner kronor)
 
 7
 
-[Tabell 8-1](handlingar.tabeller/8-1.csv)
+[Tabell 8-9-1](handlingar.tabeller/8-9-1.csv)
 
 |  | Bokslut<br>2024 | Utfall Jan-<br>Apr 2025 | Årsbudget<br>2025 | Helårsprog<br>nos 2025 | Avvikelse<br>2025 |
 | --- | --- | --- | --- | --- | --- |
@@ -344,6 +345,18 @@ Investeringar (belopp i miljoner kronor)
 | Utgifter | 5,3 | -1,1 | -5,5 | -5,5 | 0,0 |
 | Övriga investeringar |  |  |  |  |  |
 | Utgifter | 0,2 | 0 | -15,8 | -5,8 | 10,0 |
+| Inkomster |  |  |  |  |  |
+| Reinvesteringar |  |  |  |  |  |
+| Utgifter |  |  |  |  |  |
+| Lokalinvesteringar |  |  |  |  |  |
+| Utgifter |  |  |  |  |  |
+| Inkomster |  |  |  |  |  |
+| Exploatering |  |  |  |  |  |
+| Utgifter |  |  |  |  |  |
+| Investeringar i avgiftsfinansierad<br>verksamhet |  |  |  |  |  |
+| Utgifter |  |  |  |  |  |
+| Inkomster |  |  |  |  |  |
+| Netto | 5,5 | -1,1 | -21,3 | -5,5 | 15,8 |
 
 <!-- sida 9 -->
 
@@ -362,23 +375,6 @@ omsorgsboendena där larmen nu i stället blir digitala i stället för fasta in
 Förvaltningen prognosticerar att investera i trygghetslarm för knappt 6 miljoner kronor.
 
 8
-
-[Tabell 9-1](handlingar.tabeller/9-1.csv)
-
-|  | Bokslut<br>2024 | Utfall Jan-<br>Apr 2025 | Årsbudget<br>2025 | Helårsprog<br>nos 2025 | Avvikelse<br>2025 |
-| --- | --- | --- | --- | --- | --- |
-| Inkomster |  |  |  |  |  |
-| Reinvesteringar |  |  |  |  |  |
-| Utgifter |  |  |  |  |  |
-| Lokalinvesteringar |  |  |  |  |  |
-| Utgifter |  |  |  |  |  |
-| Inkomster |  |  |  |  |  |
-| Exploatering |  |  |  |  |  |
-| Utgifter |  |  |  |  |  |
-| Investeringar i avgiftsfinansierad<br>verksamhet |  |  |  |  |  |
-| Utgifter |  |  |  |  |  |
-| Inkomster |  |  |  |  |  |
-| Netto | 5,5 | -1,1 | -21,3 | -5,5 | 15,8 |
 
 <!-- sida 10 -->
 
@@ -14427,11 +14423,14 @@ positiva resultat på sekundära effekter kopplade till denna lista.
 
 Kungsbacka kommun         Projekt utbildningsteam               8
 
-[Tabell 371-1](handlingar.tabeller/371-1.csv)
+[Tabell 371-372-1](handlingar.tabeller/371-372-1.csv)
 
 | Effektmål Resultat Kommentar |  |  |
 | --- | --- | --- |
 | Ökad följsamhet till rutin<br>gällande enstaka hembesök | Medelvårdtid hos pågående<br>enstaka hembesök: 44-52<br>dagar. Noteras även att vård<br>pågår regelbundet hos många<br>av dessa personer | Enligt rutin ska enstaka<br>hembesök inte pågå mer än<br>14 dagar |
+| Ökad följsamhet till rutin<br>gällande patientavgifter | Mätning 3 gånger under<br>projektet visar att ca 90-100<br>inskrivna i hemsjukvården<br>som bör ha patientavgift<br>startad ej har det. | Ingen förbättring ses under<br>projekttiden. |
+| Öka egenvård | Inga nya<br>egenvårdsbedömningar under<br>projektperioden. | Källa: dokumentation i journal<br>under viss KVÅ kod där<br>egenvårdsbedömningar ska<br>dokumenteras |
+| Öka antal utskrivna från<br>hemsjukvården | Ingen förändring jmf med<br>tidigare | Granskning av<br>indikatorsrapporten gällande<br>antal utskrivna. Har man inte<br>längre behov av sjukvård i<br>hemmet ska man skrivas ut<br>från hemsjukvården |
 
 <!-- sida 372 -->
 
@@ -14461,19 +14460,12 @@ Kungsbacka kommun         Projekt utbildningsteam               9
 
 [Tabell 372-1](handlingar.tabeller/372-1.csv)
 
-| Ökad följsamhet till rutin<br>gällande patientavgifter | Mätning 3 gånger under<br>projektet visar att ca 90-100<br>inskrivna i hemsjukvården<br>som bör ha patientavgift<br>startad ej har det. | Ingen förbättring ses under<br>projekttiden. |
-| --- | --- | --- |
-| Öka egenvård | Inga nya<br>egenvårdsbedömningar under<br>projektperioden. | Källa: dokumentation i journal<br>under viss KVÅ kod där<br>egenvårdsbedömningar ska<br>dokumenteras |
-| Öka antal utskrivna från<br>hemsjukvården | Ingen förändring jmf med<br>tidigare | Granskning av<br>indikatorsrapporten gällande<br>antal utskrivna. Har man inte<br>längre behov av sjukvård i<br>hemmet ska man skrivas ut<br>från hemsjukvården |
-
-[Tabell 372-2](handlingar.tabeller/372-2.csv)
-
 | Bästa som hänt på länge | Frigör tid för PAS | Bra kompetensökning och<br>möjlighet till reflektion |
 | --- | --- | --- |
 | Mycket hög kvalitet på<br>utbildningen | Har märkt att personalen har<br>mer kompetens nu | Kan teamet även hålla<br>enhetsspecifika vid behov<br>utbildningar som jag kan<br>boka? |
 | VAK-blanketten är jättebra | Bra att delegeringarna ligger<br>samlade för gruppen | Skapar meningsfullhet för våra<br>medarbetare |
 
-[Tabell 372-3](handlingar.tabeller/372-3.csv)
+[Tabell 372-2](handlingar.tabeller/372-2.csv)
 
 | Mer uppstyrt med<br>delegeringar nu | Mer rättvis delegering | Omsorgspersonalen är<br>jättenöjda |
 | --- | --- | --- |
@@ -14721,7 +14713,7 @@ KUNGSBACKA  KOMMUN
 
 Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts eller avslutats
 
-[Tabell 379-1](handlingar.tabeller/379-1.csv)
+[Tabell 379-380-1](handlingar.tabeller/379-380-1.csv)
 
 | Beslutsdatum | Insats | Datum för verkställighet, avslut |
 | --- | --- | --- |
@@ -14748,19 +14740,7 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 2024-10-10 | Särskilt boende | Verkställd 2025-02-10 |
 | 2024-10-14 | Särskilt boende | Verkställd 2025-03-23 |
 | 2024-10-16 | Särskilt boende | Verkställd 2025-01-27 |
-
-<!-- sida 380 -->
-
-KUNGSBACKA  KOMMUN
-4 (4)
-
-Arian Faily                   Ann-Helen Svensson
-Förvaltningschef              Verksamhetschef
-
-[Tabell 380-1](handlingar.tabeller/380-1.csv)
-
 | 2024-10-17 | Särskilt boende | Verkställd 2025-02-01 |
-| --- | --- | --- |
 | 2024-10-17 | Särskilt boende | Verkställd 2025-02-05 |
 | 2024-10-25 | Särskilt boende | Verkställd 2025-01-26 |
 | 2024-10-29 | Särskilt boende | Verkställd 2025-02-17 (U) |
@@ -14780,6 +14760,14 @@ Förvaltningschef              Verksamhetschef
 | 2024-11-21 | Växelvård | Verkställd 2025-03-25 |
 | 2024-12-03 | Växelvård | Verkställd 2025-03-13 |
 | 2024-12-06 | Växelvård | Verkställd 2025-03-11 |
+
+<!-- sida 380 -->
+
+KUNGSBACKA  KOMMUN
+4 (4)
+
+Arian Faily                   Ann-Helen Svensson
+Förvaltningschef              Verksamhetschef
 
 <!-- sida 381 -->
 

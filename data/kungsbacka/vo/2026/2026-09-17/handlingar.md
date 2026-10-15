@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.77fd706f1a08662c7eab6a6c/1789388869
 sha256: 7747ef87e33809a3e0c6d8a446e1ff689cca145100ed24cf7f8ec4bd924f7274
 bytes: 32925373
 sidor: 782
-hamtad: 2026-10-08T08:45:05+00:00
-konverterad: 2026-10-08T08:50:27+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T06:36:46+00:00
+konverterad: 2026-10-15T06:42:18+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [651, 665, 666, 667, 668, 669, 670, 671, 672, 673, 674, 675, 676, 677, 678, 679, 680, 681, 682, 683, 684, 685, 686, 687, 689, 690, 691, 692, 693, 694, 695, 696, 697, 698, 699, 700, 701, 702, 703, 705, 706, 707, 708, 709, 710, 711, 713, 714, 715, 716, 717, 718, 719, 720, 721, 722, 723, 724, 725, 727, 728, 729, 730, 731, 732, 733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745, 746, 747, 748, 749, 750]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [298, 434, 651, 665, 666, 667, 668, 669, 670, 671, 672, 673, 674, 675, 676, 677, 678, 679, 680, 681, 682, 683, 684, 685, 686, 687, 689, 690, 691, 692, 693, 694, 695, 696, 697, 698, 699, 700, 701, 702, 703, 705, 706, 707, 708, 709, 710, 711, 713, 714, 715, 716, 717, 718, 719, 720, 721, 722, 723, 724, 725, 727, 728, 729, 730, 731, 732, 733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745, 746, 747, 748, 749, 750]
+figurer: [31, 35, 36, 37, 38, 39, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 59, 60, 61, 206, 228, 235, 277, 292, 294, 295, 297, 436, 645, 656, 657, 658, 659, 660]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -3218,7 +3218,7 @@ för valnämnden, överförmyndare i samverkan och revisionen, arbetar aktivt f�
 
 5
 
-[Tabell 69-1](handlingar.tabeller/69-1.csv)
+[Tabell 69-70-1](handlingar.tabeller/69-70-1.csv)
 
 | Kommunövergripande mål | Nämndmål | Aktiviteter |
 | --- | --- | --- |
@@ -3233,6 +3233,11 @@ för valnämnden, överförmyndare i samverkan och revisionen, arbetar aktivt f�
 |  |  | Aktiviteter som främjar rörelse i<br>samarbete med Kultur & Fritid |
 |  |  | Styrka- och balansaktiviteter på<br>vård-och omsorgsboenden |
 |  |  | Implementering av mobila<br>trygghetslarm |
+|  |  | Hembesök av rehab vid<br>inskrivning i hemsjukvården i<br>ordinärt boende |
+| Ett medskapande samhälle och<br>öppen attityd | Medarbetare hos Vård & Omsorg<br>får den kompetensutveckling som<br>krävs för arbetet och kan utvecklas<br>genom vidareutbildning | Äldreomsorgslyftet |
+| Direktiv - Innovation och<br>omställning till nya arbetssätt | Strategimål: Mer tid till<br>kärnuppdraget genom<br>digitalisering/ automation |  |
+| Direktiv - Civil beredskap |  |  |
+| Direktiv - Bättre friskvård i<br>Kungsbacka kommun |  |  |
 
 <!-- sida 70 -->
 
@@ -3280,16 +3285,6 @@ Beslutats av
 Nämnd
 
 6
-
-[Tabell 70-1](handlingar.tabeller/70-1.csv)
-
-| Kommunövergripande mål | Nämndmål | Aktiviteter |
-| --- | --- | --- |
-|  |  | Hembesök av rehab vid<br>inskrivning i hemsjukvården i<br>ordinärt boende |
-| Ett medskapande samhälle och<br>öppen attityd | Medarbetare hos Vård & Omsorg<br>får den kompetensutveckling som<br>krävs för arbetet och kan utvecklas<br>genom vidareutbildning | Äldreomsorgslyftet |
-| Direktiv - Innovation och<br>omställning till nya arbetssätt | Strategimål: Mer tid till<br>kärnuppdraget genom<br>digitalisering/ automation |  |
-| Direktiv - Civil beredskap |  |  |
-| Direktiv - Bättre friskvård i<br>Kungsbacka kommun |  |  |
 
 <!-- sida 71 -->
 
@@ -4118,6 +4113,26 @@ Delårsrapport augusti 2026
 
 4.1 Resursmått
 
+Namn         Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 Utfall 2026
+Kostnad
+äldreomsorg,  66 654     70 419     70 918        74 839
+kr/inv 65+
+Nettokostnadsa
+6,9 %       8 %        2,7 %         4,6 %
+vvikelse
+Antal
+omsorgstagare
+2 664       2 182      2 756         2 830
+i verksamheten
+över 65 år
+Antal
+omsorgstagare
+137                   165            173
+i verksamheten
+under 65 år
+Antal patienter i
+1 994       2 780      2 082         2 174
+hemsjukvården
 4.2 Prestationsmått
 
 4.3 Effektmått
@@ -4126,23 +4141,13 @@ Delårsrapport augusti 2026
 
 [Tabell 86-1](handlingar.tabeller/86-1.csv)
 
-|  | Namn Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 Utfall 2026 |
-| --- | --- |
-| Kostnad<br>äldreomsorg, 66 654 70 419 70 918 74 839<br>kr/inv 65+ |  |
-| Nettokostnadsa<br>6,9 % 8 % 2,7 % 4,6 %<br>vvikelse |  |
-| Antal<br>omsorgstagare<br>2 664 2 182 2 756 2 830<br>i verksamheten<br>över 65 år |  |
-| Antal<br>omsorgstagare<br>137 165 173<br>i verksamheten<br>under 65 år |  |
-| Antal patienter i<br>1 994 2 780 2 082 2 174<br>hemsjukvården |  |
-
-[Tabell 86-2](handlingar.tabeller/86-2.csv)
-
-|  | Namn Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 Utfall 2026 |
-| --- | --- |
-| Antal<br>lägenheter på<br>vård- och 694 704 704 704<br>omsorgsboend<br>e |  |
-| Antal<br>lägenheter för<br>62 60 60 60<br>korttids/växelvå<br>rd |  |
-| Beläggningsgra<br>d vård- och<br>97 % 96 % 97 % 97,6 %<br>omsorgsboend<br>e |  |
-| Antal timmar<br>537 632 545 404 548 528 587 759<br>hemtjänst |  |
-| Kö till vård- och<br>omsorgsboend 53 67 74 99<br>e |  |
+|  | Namn | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 | Utfall 2026 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Antal<br>lägenheter på<br>vård- och<br>omsorgsboend<br>e | 694 | 704 | 704 | 704 |  |
+|  | Antal<br>lägenheter för<br>korttids/växelvå<br>rd | 62 | 60 | 60 | 60 |  |
+|  | Beläggningsgra<br>d vård- och<br>omsorgsboend<br>e | 97 % | 96 % | 97 % | 97,6 % |  |
+|  | Antal timmar<br>hemtjänst | 537 632 | 545 404 | 548 528 | 587 759 |  |
+|  | Kö till vård- och<br>omsorgsboend<br>e | 53 | 67 | 74 | 99 |  |
 
 <!-- sida 87 -->
 
@@ -10105,20 +10110,6 @@ Tabell 6.1 Patientens första kontakt\* med den specialiserade vården
 Antal genomförda första kontakter under 2025 per yrkeskategori
 Yrkeskategori       Antal         Procent
 
-```osaker-tabell
-Läkare            1 979 279        79
-Sjuksköterska      174 961          7
-Barnmorska          64 498         2,5
-Audionom            51 106          2
-Fysioterapeut       45 546         1,8
-Logoped             29 056         1,2
-Psykolog            27 552         1,1
-Kurator             19 593         0,8
-Arbetsterapeut      17 844         0,7
-Övriga             106 513         4,2
-```
-
-Totalt            2 515 948
 \* Med kontakt avses fysiska besök, hembesök, distansbesök samt telefon-/brevkontakt.
 Källa: SKR Utökad uppföljning av specialiserad vård, 2026-02-09.
 
@@ -10147,6 +10138,21 @@ grafi eller socioekonomiska förhållanden.
 17 Genomsnittet för andelen väntande över 180 dagar för samtliga regioner var 18 procent.
 18 SKR, ”Utökad uppföljning av specialiserad vård”, hämtad 2026-02-11.
 110
+
+[Tabell 224-1](handlingar.tabeller/224-1.csv)
+
+| Läkare | 1 979 279 | 79 |
+| --- | --- | --- |
+| Sjuksköterska | 174 961 | 7 |
+| Barnmorska | 64 498 | 2,5 |
+| Audionom | 51 106 | 2 |
+| Fysioterapeut | 45 546 | 1,8 |
+| Logoped | 29 056 | 1,2 |
+| Psykolog | 27 552 | 1,1 |
+| Kurator | 19 593 | 0,8 |
+| Arbetsterapeut | 17 844 | 0,7 |
+| Övriga | 106 513 | 4,2 |
+| Totalt | 2 515 948 |  |
 
 <!-- sida 225 -->
 
@@ -10359,18 +10365,23 @@ varierat mellan 23 och 39 dagar under 2021–2025.
 Tabell 6.2 Väntetid till undersökningar – skopier
 Resultaten avser oktober 2025
 Genomförda    Väntande
-Andel (%) inom 30 dagar 54           25
-Andel (%) inom 60 dagar 76           36
-Andel (%) inom 90 dagar 82           42
-Medianväntetid (dagar) 28           143
-Medelväntetid (dagar)  74           374
-Totalt antal         13 713        26 044
+
 Not: Måttet genomförda avser väntetiden bland de personer som fick sin undersökning genomförd i
 oktober 2025. Måttet väntande avser hur länge de personer som står på väntelistan till en undersökning
 (men ännu inte fått någon) i slutet av oktober 2025 hade väntat.
 Källa: www.vantetider.se. Data hämtad 2026-02-10.
 
 115
+
+[Tabell 229-1](handlingar.tabeller/229-1.csv)
+
+| Andel (%) inom 30 dagar | 54 | 25 |
+| --- | --- | --- |
+| Andel (%) inom 60 dagar | 76 | 36 |
+| Andel (%) inom 90 dagar | 82 | 42 |
+| Medianväntetid (dagar) | 28 | 143 |
+| Medelväntetid (dagar) | 74 | 374 |
+| Totalt antal | 13 713 | 26 044 |
 
 <!-- sida 230 -->
 
@@ -10399,25 +10410,25 @@ samt klinisk neurofysiologi
 Andel (procent) av genomförda undersökningar som gjordes
 inom 30, 60 respektive 90 dagar i oktober 2025
 Inom 30 dagar Inom 60 dagar Inom 90 dagar
-Arbets-EKG           59      84      91
-Datortomografi       70      87      92
-Elektroencephalografi EEG 54 85      91
-Elektromyografi EMG  33      68      80
-Långtids-EKG / Holter EKG 34 73      83
-Magnetresonanstomografi-
 
-```osaker-tabell
-undersökningar (MR)  48      75      83
-Myocardscintigrafi   44      78      87
-PET CT               73      90      94
-Spirometri           44      84      88
-```
-
-Ultraljud carotis (halskärl) 82 87   90
-Ultraljud hjärta     42      58      67
 Källa: www.väntetider.se. Data hämtad 2026-02-10.
 
 116
+
+[Tabell 230-1](handlingar.tabeller/230-1.csv)
+
+| Arbets-EKG | 59 | 84 | 91 |
+| --- | --- | --- | --- |
+| Datortomografi | 70 | 87 | 92 |
+| Elektroencephalografi EEG | 54 | 85 | 91 |
+| Elektromyografi EMG | 33 | 68 | 80 |
+| Långtids-EKG / Holter EKG | 34 | 73 | 83 |
+| Magnetresonanstomografi- undersökningar (MR) | 48 | 75 | 83 |
+| Myocardscintigrafi | 44 | 78 | 87 |
+| PET CT | 73 | 90 | 94 |
+| Spirometri | 44 | 84 | 88 |
+| Ultraljud carotis (halskärl) | 82 | 87 | 90 |
+| Ultraljud hjärta | 42 | 58 | 67 |
 
 <!-- sida 231 -->
 
@@ -27723,7 +27734,25 @@ Så kan vårdgarantin bli en realitet och vårdköerna kortas.
 SOU 2026:38                                   Bilaga 3
 
 Tabell 1. Kostnadsberäkning
-
+Snittkostnad Antal väntande i Summa Resekostnader
+operation genomsnitt per kostnader
+offentlig månad aug operationer
+vårdgivare 2023 - aug
+2024
+Operation av 104 167 kr 1 700 177 083 900 kr 6 800 000 kr
+höftledsprotes
+Operation av Främre 1 200 41 880 000 kr 4 800 000 kr
+framfall\* kolporafi
+32 914 kr
+Bakre kolporafi
+36 887 kr
+Operation av Ensidig 4 500 64 777 500 kr 18 000 000 kr
+grå starr operation av
+grå starr
+14 395 kr
+Kostnader             283 741 400 kr 29 600 000 kr
+Totalt belopp
+313 341 400 kr
 Källa: Väntetidsdatabasen och Sirona. En jämförande analys av privata vårdgivares ersättningar och
 offentliga vårdgivares kostnader – för höft- och knäprotesoperationer, operationer av grå starr och
 framfallsoperationer, Rapport till Vårdföretagarna i mars 2024. I tabellen används snittkostnader för
@@ -27747,18 +27776,7 @@ Intentionen med satsningen är att antalet operationer ska öka. I
 denna promemoria föreslås dock inte några formella krav på att
 antalet operationer måste öka för att regionerna ska få del av medel,
 49
-
 515
-
-[Tabell 629-1](handlingar.tabeller/629-1.csv)
-
-|  | Snittkostnad<br>operation<br>offentlig<br>vårdgivare | Antal väntande i<br>genomsnitt per<br>månad aug<br>2023 - aug<br>2024 | Summa<br>kostnader<br>operationer | Resekostnader |
-| --- | --- | --- | --- | --- |
-| Operation av<br>höftledsprotes | 104 167 kr | 1 700 | 177 083 900 kr | 6 800 000 kr |
-| Operation av<br>framfall\* | Främre<br>kolporafi<br>32 914 kr<br>Bakre kolporafi<br>36 887 kr | 1 200 | 41 880 000 kr | 4 800 000 kr |
-| Operation av<br>grå starr | Ensidig<br>operation av<br>grå starr<br>14 395 kr | 4 500 | 64 777 500 kr | 18 000 000 kr |
-| Kostnader |  |  | 283 741 400 kr | 29 600 000 kr |
-| Totalt belopp<br>313 341 400 kr |  |  |  |  |
 
 <!-- sida 630 -->
 
@@ -34607,7 +34625,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (4)
 
-[Tabell 776-1](handlingar.tabeller/776-1.csv)
+[Tabell 776-777-1](handlingar.tabeller/776-777-1.csv)
 
 | 2025-10-23 | Särskilt boende | Tackat nej |
 | --- | --- | --- |
@@ -34648,6 +34666,8 @@ KUNGSBACKA  KOMMUN
 | 2026-03-26 | Särskilt boende | Platsbrist |
 | 2026-03-27 | Särskilt boende | Platsbrist |
 | 2026-01-12 | Växelvård | Platsbrist, verkställt 26-04-28 |
+| 2026-02-13 | Växelvård | Platsbrist, verkställt 26-06-09 |
+| 2026-02-24 | Växelvård | Tackat nej |
 
 <!-- sida 777 -->
 
@@ -34660,12 +34680,6 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 
 [Tabell 777-1](handlingar.tabeller/777-1.csv)
 
-| 2026-02-13 | Växelvård | Platsbrist, verkställt 26-06-09 |
-| --- | --- | --- |
-| 2026-02-24 | Växelvård | Tackat nej |
-
-[Tabell 777-2](handlingar.tabeller/777-2.csv)
-
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
 | 26-01-29 | Särskilt boende | Tackar nej (U), återtag 26-05-18 |
@@ -34673,7 +34687,7 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 26-02-03 | Särskilt boende | Tackat nej, avliden 26-06-22 |
 | 26-02-25 | Särskilt boende | Tackat nej, återtag 26-06-16 |
 
-[Tabell 777-3](handlingar.tabeller/777-3.csv)
+[Tabell 777-778-2](handlingar.tabeller/777-778-2.csv)
 
 | Beslutsdatum | Insats | Datum för verkställighet, avslut |
 | --- | --- | --- |
@@ -34698,6 +34712,9 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 2025-12-08 | Växelvård | Platsbrist, verkställt 26-04-21 |
 | 2025-12-15 | Växelvård | Platsbrist, verkställt 26-05-05 |
 | 2025-12-15 | Särskilt boende | Platsbrist, verkställt 26-04-15 |
+| 2025-12-17 | Särskilt boende | Platsbrist (U), verkställt 26-04-29 |
+| 2025-12-19 | Särskilt boende | Platsbrist, verkställt 26-04-20 |
+| 2025-12-22 | Särskilt boende | Platsbrist, verkställt 26-04-13 |
 
 <!-- sida 778 -->
 
@@ -34707,13 +34724,6 @@ KUNGSBACKA  KOMMUN
 Arian Faily                   Ann-Helen Svensson
 
 Förvaltningschef              Verksamhetschef
-
-[Tabell 778-1](handlingar.tabeller/778-1.csv)
-
-| 2025-12-17 | Särskilt boende | Platsbrist (U), verkställt 26-04-29 |
-| --- | --- | --- |
-| 2025-12-19 | Särskilt boende | Platsbrist, verkställt 26-04-20 |
-| 2025-12-22 | Särskilt boende | Platsbrist, verkställt 26-04-13 |
 
 <!-- sida 779 -->
 

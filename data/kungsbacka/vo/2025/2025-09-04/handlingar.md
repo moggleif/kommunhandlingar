@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.21f416fd19908f767023be6/17568000342
 sha256: 92f093cc023bb3112ebf350f6ffbeeeec7cbf6c42a979390c0da0fdd169e2213
 bytes: 5666471
 sidor: 99
-hamtad: 2026-10-08T08:35:50+00:00
-konverterad: 2026-10-08T08:36:22+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T06:27:40+00:00
+konverterad: 2026-10-15T06:28:13+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, tabell-osaker, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [54, 55, 57, 58, 61, 62, 63, 65, 68]
-figurer: null
-tolkade: null
+figurer: [15, 16, 17, 18, 33, 36, 39, 43, 48, 51, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 68, 78, 86]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -2552,17 +2552,14 @@ Kontinuitet
 
 <!-- sida 67 -->
 
-```osaker-tabell
-                                         2023          2024         2025  juli
+[Tabell 67-1](handlingar.tabeller/67-1.csv)
 
-City 4 veckor                              673 257          578 833     291 881
-
-Varla 4 veckor                             794 336          839 335     253 623
-
-Fjärås 6 veckor                            491 587          475 733     294 797
-
-Åsa Frillesås 6 veckor                     506 717          499 454     322 799
-```
+|  | 2023 | 2024 | 2025 juli |
+| --- | --- | --- | --- |
+| City 4 veckor | 673 257 | 578 833 | 291 881 |
+| Varla 4 veckor | 794 336 | 839 335 | 253 623 |
+| Fjärås 6 veckor | 491 587 | 475 733 | 294 797 |
+| Åsa Frillesås 6 veckor | 506 717 | 499 454 | 322 799 |
 
 <!-- sida 68 -->
 
@@ -3584,7 +3581,7 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 2025-01-30 | Särskilt boende | Avliden 2025-05-25 |
 | 2025-02-07 | Växelvård | Avsagt sig beslutet 25-05-26 |
 
-[Tabell 93-2](handlingar.tabeller/93-2.csv)
+[Tabell 93-94-2](handlingar.tabeller/93-94-2.csv)
 
 | Beslutsdatum | Insats | Datum för verkställighet, avslut |
 | --- | --- | --- |
@@ -3609,6 +3606,12 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 2024-12-10 | Särskilt boende | Verkställd 2025-06-09 |
 | 2024-12-13 | Särskilt boende | Verkställd 2025-04-05 |
 | 2024-12-16 | Särskilt boende | Verkställd 2025-06-09 |
+| 2024-12-18 | Särskilt boende | Verkställd 2025-06-13 |
+| 2024-12-20 | Särskilt boende | Verkställd 2025-06-30 |
+| 2024-12-23 | Särskilt boende | Verkställd 2025-05-26 |
+| 2 024-12-27 | Särskilt boende | Verkställd 2025-06-30 |
+| 2024-12-27 | Särskilt boende | Verkställd 2025-06-13 |
+| 2024-12-02 | Växelvård | Verkställd 2025-04-10 |
 
 <!-- sida 94 -->
 
@@ -3618,16 +3621,6 @@ KUNGSBACKA  KOMMUN
 Arian Faily                   Ann-Helen Svensson
 
 Förvaltningschef              Verksamhetschef
-
-[Tabell 94-1](handlingar.tabeller/94-1.csv)
-
-| 2024-12-18 | Särskilt boende | Verkställd 2025-06-13 |
-| --- | --- | --- |
-| 2024-12-20 | Särskilt boende | Verkställd 2025-06-30 |
-| 2024-12-23 | Särskilt boende | Verkställd 2025-05-26 |
-| 2 024-12-27 | Särskilt boende | Verkställd 2025-06-30 |
-| 2024-12-27 | Särskilt boende | Verkställd 2025-06-13 |
-| 2024-12-02 | Växelvård | Verkställd 2025-04-10 |
 
 <!-- sida 95 -->
 

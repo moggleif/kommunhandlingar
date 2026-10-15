@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.49d36ef2191e50b885087c30/1726492429
 sha256: 9acd019678948dcfef0df259d49e09fa74c579a411e9fe8b4e6baed4bdb086d0
 bytes: 21907192
 sidor: 545
-hamtad: 2026-10-08T08:22:33+00:00
-konverterad: 2026-10-08T08:26:22+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T06:13:22+00:00
+konverterad: 2026-10-15T06:17:19+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 190, 191, 192, 193, 194, 195, 196]
-figurer: null
-tolkade: null
+figurer: [1, 51, 58, 60, 63, 65, 66, 73, 75, 77, 79, 84, 89, 105, 113, 114, 116, 119, 121]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -4258,6 +4258,12 @@ Kungsbacka kommun       Kvalitetsberättelse delår 2024         10
 
 <!-- sida 92 -->
 
+Hygienmätning
+Vår -21 Höst -21 Vår -22 Höst -22 Vår -23 Höst -23 Vår -24
+Antal observationer      813    590    671   562    532    513   522
+Följsamhet basala hygienrutiner 83% 76,40% 76,80% 77,40% 73,70% 71,90% 74,10%
+Följsamhet klädregler  91,50% 89,20% 91,20% 91,10% 91,70%  91% 91,40%
+
 Arbetet med att sprida kunskap och information till alla medarbetare kring basala hygienrutiner och
 skyddsutrustning har skett kontinuerligt. Vårdhygieniska frågor diskuteras mer regelbundet i
 verksamheterna, resultat och erfarenheter från genomförda mätningar, återkopplas i högre grad än
@@ -4299,12 +4305,6 @@ statsbidrag för att göra läges- och behovsanalyser. Syftet med den nya lagen 
 ska bli mer förebyggande, jämställd och lättillgänglig än idag samt arbeta mer kunskapsbaserat.
 
 Kungsbacka kommun       Kvalitetsberättelse delår 2024         11
-
-[Tabell 92-1](handlingar.tabeller/92-1.csv)
-
-| Hygienmätning<br>Vår -21 Höst -21 Vår -22 Höst -22 Vår -23 Höst -23 | Vår -24 |
-| --- | --- |
-| Antal observationer 813 590 671 562 532 513<br>Följsamhet basala hygienrutiner 83% 76,40% 76,80% 77,40% 73,70% 71,90%<br>Följsamhet klädregler 91,50% 89,20% 91,20% 91,10% 91,70% 91% | 522<br>74,10%<br>91,40% |
 
 <!-- sida 93 -->
 
@@ -5273,6 +5273,48 @@ Nämnden för Vård & Omsorg                       Kungsbacka kommun
 
 3.1.1 Lokalbehov Vård och omsorgsboende
 
+Beskrivning                       Budget Plan Plan Plan Plan Plan
+Löpnr                    Kategorisera
+2025  2026 2027 2028 2029 2030
+Anneberg vård och     Volymökningar
+807                                                      80
+omsorgsboende       befintlig plats
+Bukärrsgården vård och Volymökningar
+808                                     X
+omsorgsboende avveckling hyra befintlig plats
+Reservkraft 11 st vård och
+811 omsorgsboende       Strukturomvandlingar, X X X
+besparingsmöjligheter
+Administrativ lokal
+813 Omsorgenshus avveckling Strukturomvandlingar, X
+besparingsmöjligheter
+Hemtjänst Sjöallén 9F
+814 ersättningslokal    Strukturomvandlingar, X
+besparingsmöjligheter
+Hemtjänst Sjöallén 9F
+815 avveckling lokal    Strukturomvandlingar, X
+besparingsmöjligheter
+Signeshus vård och    Volymökningar
+816                                    100
+omsorgsboende       befintlig plats
+Ekhaga vård och
+817 omsorgsboende       Strukturomvandlingar, X
+besparingsmöjligheter
+Ekhaga ersättning/avveckling
+818 verksamhetslokal Hsv Strukturomvandlingar, X
+besparingsmöjligheter
+Enhetligt låssystem vård och
+omsorgsboenden      Strukturomvandlingar, X
+besparingsmöjligheter
+Digitala Trygghetslarm vård och
+omsorgsboenden      Strukturomvandlingar, X
+besparingsmöjligheter
+Bygga ut wifi och data på vård Volymökningar
+X
+och omsorgsboende   befintlig plats
+Anslutningspunkt nödvatten
+vård och omsorgsboenden Strukturomvandlingar, X
+besparingsmöjligheter
 Noter KF beslutade lokalbehov.
 Lokalbehov som har ett löpnummer är KF beslutade och, har upprättad Behovsbeskrivning sedan
 tidigare. Behovsbeskrivning för om- och nybyggnation av vård och omsorgsboende utgörs av
@@ -5282,24 +5324,6 @@ Koncepthandling.
 kommunen. Samordnas med projekt 226, Anneberg förskola, samt med projekt 144 Bibliotek i
 
 Lokalbehov 2026-2030 Utblicksår 2031-2035 11
-
-[Tabell 119-1](handlingar.tabeller/119-1.csv)
-
-| Löpnr<br>807 | Beskrivning<br>Anneberg vård och<br>omsorgsboende | Kategorisera<br>Volymökningar<br>befintlig plats | Budget<br>2025 | Plan<br>2026 | Plan<br>2027 | Plan<br>2028 | Plan<br>2029<br>80 | Plan<br>2030 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 808 | Bukärrsgården vård och<br>omsorgsboende avveckling hyra | Volymökningar<br>befintlig plats | X |  |  |  |  |  |
-| 811 | Reservkraft 11 st vård och<br>omsorgsboende | Strukturomvandlingar,<br>besparingsmöjligheter | X | X | X |  |  |  |
-| 813 | Administrativ lokal<br>Omsorgenshus avveckling | Strukturomvandlingar,<br>besparingsmöjligheter |  | X |  |  |  |  |
-| 814 | Hemtjänst Sjöallén 9F<br>ersättningslokal | Strukturomvandlingar,<br>besparingsmöjligheter | X |  |  |  |  |  |
-| 815 | Hemtjänst Sjöallén 9F<br>avveckling lokal | Strukturomvandlingar,<br>besparingsmöjligheter | X |  |  |  |  |  |
-| 816 | Signeshus vård och<br>omsorgsboende | Volymökningar<br>befintlig plats | 100 |  |  |  |  |  |
-| 817 | Ekhaga vård och<br>omsorgsboende | Strukturomvandlingar,<br>besparingsmöjligheter |  | X |  |  |  |  |
-| 818 | Ekhaga ersättning/avveckling<br>verksamhetslokal Hsv | Strukturomvandlingar,<br>besparingsmöjligheter |  | X |  |  |  |  |
-|  | Enhetligt låssystem vård och<br>omsorgsboenden | Strukturomvandlingar,<br>besparingsmöjligheter |  | X |  |  |  |  |
-|  | Digitala Trygghetslarm vård och<br>omsorgsboenden | Strukturomvandlingar,<br>besparingsmöjligheter |  | X |  |  |  |  |
-|  | Bygga ut wifi och data på vård<br>och omsorgsboende | Volymökningar<br>befintlig plats |  | X |  |  |  |  |
-|  | Anslutningspunkt nödvatten<br>vård och omsorgsboenden | Strukturomvandlingar,<br>besparingsmöjligheter |  | X |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
 
 <!-- sida 120 -->
 
@@ -5385,6 +5409,13 @@ Service monterad anslutningspunkt 2024. (Utredning finns sekretessmarkerad i Cic
 3.1.2 Utblicksår 2031-2035
 
 Tabell
+Löp Beskrivning                      Plan   Plan Plan  Plan  Plan
+Kategorisera
+nr                                   2031  2032  2033  2034  2035
+
+Nytt vård och omsorgsboende Volymökningar
+X                80
+befintlig plats
 
 3.2 Administrativa lokaler
 För att nämnden ska tillgodose kommunens lagstadgade skyldigheter behöver förvaltningen arbeta
@@ -5406,13 +5437,6 @@ byggas i Kungsbacka stad. I översiktsplanen anges även att kommunen kommer att
 övriga två stationsorter, Anneberg och Åsa. I utvecklings orterna kommer större delen av
 
 Lokalbehov 2026-2030 Utblicksår 2031-2035 13
-
-[Tabell 121-1](handlingar.tabeller/121-1.csv)
-
-| Löp<br>nr | Beskrivning<br>Nytt vård och omsorgsboende | Kategorisera<br>Volymökningar<br>befintlig plats | Plan<br>2031<br>X | Plan<br>2032 | Plan<br>2033 | Plan<br>2034<br>80 | Plan<br>2035 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
 
 <!-- sida 122 -->
 
@@ -23342,14 +23366,6 @@ Antal vikarier tillsatta        375
 Avhopp Vikarier            Totalt 2024
 Avhopp                          122
 
-Annonseringsstatistik (VO+IF) 2024 Antal sökande Antal anställda
-
-```osaker-tabell
-Annonsering 1                   366          90
-Annonsering 2                   454         130
-Annonsering under sommaren      399          70
-```
-
 Rekryteringsstatistiken visar hur många vikarier som förvaltningen önskade i antal
 medarbetare och hur många Vikariecenter tillsatte. Antalen som visas är hur många vikarier
 som gick på förbokade veckor och pass på en timanställning, ej de vikarier som ville arbeta
@@ -23375,6 +23391,14 @@ samband med de åtgärder som vidtagits vilket avses redovisas vid nämndssamman
 oktober.
 
 2 Antal medarbetare utan relation till hur mycket dem arbetade.
+
+[Tabell 535-1](handlingar.tabeller/535-1.csv)
+
+| Annonseringsstatistik (VO+IF) 2024 | Antal sökande | Antal anställda |
+| --- | --- | --- |
+| Annonsering 1 | 366 | 90 |
+| Annonsering 2 | 454 | 130 |
+| Annonsering under sommaren | 399 | 70 |
 
 <!-- sida 536 -->
 

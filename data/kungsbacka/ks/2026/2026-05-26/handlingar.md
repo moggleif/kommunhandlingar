@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.41c3c8151a01f3423c0131b2/1787300369
 sha256: 603f11ca59d1352bc9a01a239380f9fd33b44a3c98aacb00261540bd8a854896
 bytes: 205915322
 sidor: 950
-hamtad: 2026-10-09T07:42:50+00:00
-konverterad: 2026-10-09T07:57:58+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T10:24:38+00:00
+konverterad: 2026-10-15T10:40:26+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
-tal_obekraftade: [176, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 333, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 623, 626, 629, 631, 632, 633, 634, 635, 636, 637, 638, 639, 640, 641, 643, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 659, 660, 661, 662, 663, 664, 665, 668, 670, 674, 675, 676, 677, 678, 680, 681, 682, 683, 684, 695, 696, 697, 698, 699, 700, 701, 702, 703, 704, 706, 707, 764, 765, 766, 767, 768, 769, 770, 771, 772, 774, 775, 776, 777, 778, 779, 780, 781, 782, 783, 784, 785, 786, 787, 788, 789, 919, 920, 941, 950]
-figurer: [23, 34, 46, 50, 51, 52, 54, 56, 57, 61, 62, 63, 64, 65, 66, 67, 71, 76, 80, 83, 84, 86, 88, 89, 90, 93, 94, 95, 97, 98, 99, 100, 101, 107, 108, 109, 110, 119, 148, 152, 159, 161, 164, 165, 166, 167, 170, 175, 180, 183, 184, 186, 187, 188, 189, 190, 192, 193, 194, 195, 197, 198, 199, 200, 201, 209, 214, 215, 217, 218, 219, 220, 221, 222, 223, 224, 225, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 309, 313, 321, 323, 324, 325, 340, 341, 371, 374, 378, 379, 384, 386, 391, 397, 398, 399, 400, 401, 402, 404, 405, 406, 407, 410, 412, 414, 418, 420, 426, 430, 437, 442, 447, 450, 451, 453, 462, 464, 465, 466, 467, 473, 474, 475, 477, 478, 481, 495, 506, 510, 512, 514, 516, 517, 519, 520, 521, 524, 525, 528, 529, 532, 536, 537, 540, 544, 548, 549, 554, 558, 560, 562, 564, 566, 567, 571, 572, 573, 574, 578, 591, 592, 593, 594, 596, 601, 603, 604, 605, 606, 607, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636, 637, 638, 639, 641, 642, 644, 645, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 662, 664, 665, 666, 667, 668, 670, 674, 675, 676, 677, 678, 679, 683, 684, 686, 687, 688, 689, 690, 691, 692, 693, 694, 695, 696, 698, 699, 700, 701, 702, 703, 705, 706, 707, 709, 725, 740, 741, 742, 743, 744, 745, 817, 893]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
+tal_obekraftade: [80, 83, 84, 176, 180, 183, 184, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 333, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 610, 611, 623, 626, 629, 631, 632, 633, 634, 635, 636, 637, 638, 639, 640, 641, 643, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 659, 660, 661, 662, 663, 664, 665, 668, 670, 674, 675, 676, 677, 678, 680, 681, 682, 683, 684, 695, 696, 697, 698, 699, 700, 701, 702, 703, 704, 706, 707, 714, 715, 716, 717, 718, 719, 720, 721, 722, 723, 724, 725, 726, 727, 728, 729, 730, 731, 732, 733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745, 746, 764, 765, 766, 767, 768, 769, 770, 771, 772, 774, 775, 776, 777, 778, 779, 780, 781, 782, 783, 784, 785, 786, 787, 788, 789, 792, 793, 794, 795, 796, 797, 798, 799, 919, 920, 941, 950]
+figurer: [23, 34, 46, 50, 52, 54, 56, 57, 61, 62, 63, 64, 65, 66, 67, 71, 76, 80, 83, 84, 86, 90, 93, 94, 95, 97, 98, 99, 100, 107, 108, 109, 110, 119, 148, 159, 161, 164, 165, 166, 167, 170, 175, 180, 183, 184, 186, 187, 188, 189, 190, 192, 193, 194, 195, 197, 198, 199, 200, 209, 214, 215, 217, 218, 219, 220, 221, 222, 223, 224, 225, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 309, 313, 321, 323, 324, 325, 340, 341, 371, 374, 378, 379, 384, 386, 391, 397, 398, 399, 400, 401, 402, 404, 405, 406, 407, 410, 412, 414, 418, 420, 426, 430, 437, 442, 447, 450, 451, 453, 462, 464, 465, 466, 467, 473, 474, 475, 477, 478, 481, 495, 506, 510, 512, 514, 516, 517, 519, 520, 521, 524, 525, 528, 529, 532, 536, 537, 540, 544, 548, 549, 554, 558, 560, 562, 564, 566, 567, 571, 573, 574, 578, 591, 592, 593, 594, 596, 601, 603, 604, 605, 606, 607, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636, 637, 638, 639, 641, 642, 644, 645, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 662, 664, 665, 666, 667, 668, 670, 674, 675, 676, 677, 678, 679, 683, 684, 686, 687, 688, 689, 690, 691, 692, 693, 694, 695, 696, 698, 699, 700, 701, 702, 703, 705, 706, 707, 709, 725, 740, 741, 742, 743, 744, 745, 817, 893]
 tolkade: []
 ---
 
@@ -114,7 +114,7 @@ KUNGSBACKA  KOMMUN
 
 3 (13)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
+[Tabell 3-5-1](handlingar.tabeller/3-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -124,6 +124,16 @@ KUNGSBACKA  KOMMUN
 | 6. | Information om aktuella<br>händelser från nämnder, bolag,<br>intresseorganisationer (SKR,<br>GR med flera) | 2026-00015 |  |
 | 7. | Information från förvaltningen<br>och pågående viktigare/större<br>uppdrag, projekt och händelser | 2026-00016 |  |
 |  | Beslutsärenden |  |  |
+| 8. | Initiativ från Lisa Andersson<br>(M) m.fl. om höjd kvalitet i<br>bemötande, service och<br>handläggning | 2026-00366 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsens arbetsutskott överlämnar initiativet<br>till kommunstyrelsen för ställningstagande. |
+| 9. | Initiativ från Magdalena<br>Sundqvist (S) om att bjuda in<br>näringsidkare som haft<br>myndighetskontakt inom fyra<br>områden | 2026-00368 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsens arbetsutskott överlämnar initiativet<br>till kommunstyrelsen för ställningstagande. |
+| 10. | Initiativ från Stefan Jägnert<br>(SD) om ett företagsklimat som<br>bygger på service, rättssäkerhet<br>och respekt | 2026-00369 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsens arbetsutskott överlämnar initiativet<br>till kommunstyrelsen för ställningstagande. |
+| 11. | Förtroendeuppdrag med stärkt<br>skydd enligt kommunallagen<br>(KL) 4 kap. 18 a § | 2025-00405 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen beslutar att följande<br>förtroendeuppdrag ska omfattas av kommunens<br>utökade ansvar för förtroendevalda enligt<br>kommunallagen (KL) 4 kap. 18 a §:<br>kommunalråd och oppositionsråd som utsetts av<br>kommunfullmäktige, kommunfullmäktiges<br>ordförande samtliga nämndsordföranden samt<br>ordförande i dessa nämnders utskott, i de fall dessa<br>inte är samma förtroendevalda, valnämndens<br>ordförande omfattas endast valår.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram ändamålsenliga styrande dokument för<br>säkerheten för förtroendevalda med dessa uppdrag. |
+| 12. | Förstärkt uppsiktsplikt över de<br>kommunala bolagens<br>verksamhet 2025 | 2026-00188 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bedömer att kommunens helägda<br>bolag Eksta Bostads AB inklusive dotterbolag<br>Tempohus Kungsbacka AB under 2025 har bedrivit<br>en verksamhet som varit förenlig med fastställt<br>kommunalt ändamål samt utförts inom ramen för de<br>kommunala befogenheterna. |
+| 13. | Fördelning av<br>investeringsmedel för robusta<br>lokaler | 2026-00328 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen fördelar 7 miljoner kronor i<br>investeringsmedel för civil beredskap till nämnden<br>för Service under 2026.<br>Kommunstyrelsen fördelar 5 miljoner kronor i<br>investeringsmedel för civil beredskap till nämnden<br>för Teknik under 2026.<br>Finansiering sker från kommunstyrelsens ansvar<br>9905 avsatta för direktivet civil beredskap. |
+| 14. | Avbryta lokalprojekt Naturum<br>Fjärås Bräcka (löpnr 142) | 2023-00633 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen avbryter byggprojektet Naturum<br>Fjärås Bräcka löpnummer 142 med omedelbar<br>verkan.<br>Kommunstyrelsen godkänner att nedlagda kostnader<br>på cirka 1 400 000 kronor hanteras i bokslut 2026. |
+| 15. | Begäran om planbesked Bukärr<br>22:36 | 2026-00152 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av bostäder inom Bukärr 22:36 i Särö. |
+| 16. | Begäran om planbesked<br>Älskogsbräcka 1:2 | 2026-00153 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Älskogsbräcka 1:2 i Onsala. |
+| 17. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>ändring av del av detaljplan TP<br>63 och TP 45c inom Varla<br>2:412 | 2026-00303 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>ändring av del av detaljplan TP 63 och del av<br>detaljplan TP 45c inom Varla 2:412, daterad<br>2026-04-22.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan enligt<br>projektbeställning. |
 
 <!-- sida 4 -->
 
@@ -131,31 +141,11 @@ KUNGSBACKA  KOMMUN
 
 4 (13)
 
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Initiativ från Lisa Andersson<br>(M) m.fl. om höjd kvalitet i<br>bemötande, service och<br>handläggning | 2026-00366 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsens arbetsutskott överlämnar initiativet<br>till kommunstyrelsen för ställningstagande. |
-| 9. | Initiativ från Magdalena<br>Sundqvist (S) om att bjuda in<br>näringsidkare som haft<br>myndighetskontakt inom fyra<br>områden | 2026-00368 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsens arbetsutskott överlämnar initiativet<br>till kommunstyrelsen för ställningstagande. |
-| 10. | Initiativ från Stefan Jägnert<br>(SD) om ett företagsklimat som<br>bygger på service, rättssäkerhet<br>och respekt | 2026-00369 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsens arbetsutskott överlämnar initiativet<br>till kommunstyrelsen för ställningstagande. |
-| 11. | Förtroendeuppdrag med stärkt<br>skydd enligt kommunallagen<br>(KL) 4 kap. 18 a § | 2025-00405 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen beslutar att följande<br>förtroendeuppdrag ska omfattas av kommunens<br>utökade ansvar för förtroendevalda enligt<br>kommunallagen (KL) 4 kap. 18 a §:<br>kommunalråd och oppositionsråd som utsetts av<br>kommunfullmäktige, kommunfullmäktiges<br>ordförande samtliga nämndsordföranden samt<br>ordförande i dessa nämnders utskott, i de fall dessa<br>inte är samma förtroendevalda, valnämndens<br>ordförande omfattas endast valår.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram ändamålsenliga styrande dokument för<br>säkerheten för förtroendevalda med dessa uppdrag. |
-| 12. | Förstärkt uppsiktsplikt över de<br>kommunala bolagens<br>verksamhet 2025 | 2026-00188 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bedömer att kommunens helägda<br>bolag Eksta Bostads AB inklusive dotterbolag<br>Tempohus Kungsbacka AB under 2025 har bedrivit<br>en verksamhet som varit förenlig med fastställt<br>kommunalt ändamål samt utförts inom ramen för de<br>kommunala befogenheterna. |
-
 <!-- sida 5 -->
 
 KUNGSBACKA  KOMMUN
 
 5 (13)
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 13. | Fördelning av<br>investeringsmedel för robusta<br>lokaler | 2026-00328 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen fördelar 7 miljoner kronor i<br>investeringsmedel för civil beredskap till nämnden<br>för Service under 2026.<br>Kommunstyrelsen fördelar 5 miljoner kronor i<br>investeringsmedel för civil beredskap till nämnden<br>för Teknik under 2026.<br>Finansiering sker från kommunstyrelsens ansvar<br>9905 avsatta för direktivet civil beredskap. |
-| 14. | Avbryta lokalprojekt Naturum<br>Fjärås Bräcka (löpnr 142) | 2023-00633 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen avbryter byggprojektet Naturum<br>Fjärås Bräcka löpnummer 142 med omedelbar<br>verkan.<br>Kommunstyrelsen godkänner att nedlagda kostnader<br>på cirka 1 400 000 kronor hanteras i bokslut 2026. |
-| 15. | Begäran om planbesked Bukärr<br>22:36 | 2026-00152 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av bostäder inom Bukärr 22:36 i Särö. |
-| 16. | Begäran om planbesked<br>Älskogsbräcka 1:2 | 2026-00153 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Älskogsbräcka 1:2 i Onsala. |
-| 17. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>ändring av del av detaljplan TP<br>63 och TP 45c inom Varla<br>2:412 | 2026-00303 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>ändring av del av detaljplan TP 63 och del av<br>detaljplan TP 45c inom Varla 2:412, daterad<br>2026-04-22.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan enligt<br>projektbeställning. |
 
 <!-- sida 6 -->
 
@@ -219,38 +209,16 @@ KUNGSBACKA  KOMMUN
 
 7 (13)
 
-[Tabell 7-1](handlingar.tabeller/7-1.csv)
+[Tabell 7-9-1](handlingar.tabeller/7-9-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 |  |  |  | Under rubriken Trafik på sidan 7 stryks följande<br>stycke:<br>− För att uppnå en trevlig bostadsmiljö och<br>trygga gator föreslås en inriktning med<br>samordnad parkering och sophantering då<br>det annars kommer att ta väldigt mycket plats<br>vid varje enskild fastighet.<br>och ersätts med:<br>− För att uppnå en trevlig bostadsmiljö och<br>trygga gator föreslås en inriktning med<br>huvudsakligen fastighetsnära parkering och<br>sophantering för småhus samt samordnad<br>parkering och sophantering för<br>flerbostadshus.<br>Under rubriken Förväntad nytta på sidan 8 och framåt<br>stryks följande stycke:<br>− En detaljplan för bostäder inom området<br>förväntas bidra till kommunens mål för<br>bostadsförsörjning. Detaljplanen ska ge<br>möjlighet till byggnation av en blandning av<br>flerbostadshus och småhus i ett centrumnära<br>läge i Vallda.<br>och ersätts med:<br>− En detaljplan för bostäder inom området<br>förväntas bidra till kommunens mål för<br>bostadsförsörjning. Detaljplanen ska ge<br>möjlighet till byggnation av huvudsakligen<br>småhus och till viss del småskaliga<br>flerbostadshus i ett centrumnära läge i<br>Vallda.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan för bostäder och<br>service inom Vallda 20:3 m.fl. i Vallda. |
-
-<!-- sida 8 -->
-
-KUNGSBACKA  KOMMUN
-
-8 (13)
-
-[Tabell 8-1](handlingar.tabeller/8-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 19. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för<br>bostäder och centrumändamål<br>inom Aranäs 10 och Aranäs 15<br>i Kungsbacka | 2022-00534 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för bostäder och centrumändamål inom<br>Aranäs 10 och Aranäs 15 i Kungsbacka stad, daterad<br>2026-03-24.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan för bostäder och<br>centrumändamål inom Aranäs 10 och Aranäs 15 i<br>Kungsbacka stad. |
 | 20. | Godkännande av<br>markanvisningsavtal avseende<br>del av Frillesås-Rya 3:77 m.fl. | 2025-00595 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner markanvisningsavtal<br>avseende del av Frillesås-Rya 3:77 m.fl. mellan<br>kommunen och Dagab inköp och logistik AB,<br>undertecknat av bolaget 2026-05-07.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalen<br>och övriga nödvändiga handlingar för avtalens<br>genomförande. |
 | 21. | Svar på Svenska kraftnäts<br>avgränsningssamråd om<br>kabelförbindelse Konti-Skan<br>Connect mellan Lindome och<br>Vester Hassing | 2026-00154 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-03-24,<br>och översänder som sitt svar till Svenska Kraftnät. |
 | 22. | Svar på Finansdepartementets<br>remiss – Betänkandet Belägg<br>för broms? Åtgärder för<br>starkare incitament till lägre<br>kommunalskattesatser<br>(SOU 2026:20) | 2026-00194 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-04-01,<br>och översänder det som sitt svar till<br>Finansdepartementet. |
 | 23. | Svar på Mölndals stads samråd<br>om ändring av översiktsplanen<br>genom fördjupning för<br>Lindome | 2026-00182 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-04-22,<br>och översänder det som sitt svar till Mölndals stad. |
-
-<!-- sida 9 -->
-
-KUNGSBACKA  KOMMUN
-
-9 (13)
-
-[Tabell 9-1](handlingar.tabeller/9-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 24. | Svar på Räddningstjänsten<br>Storgöteborgs underlag för<br>budget 2027 plan 2028–2029 | 2026-00289 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen har inget att erinra mot<br>samrådsunderlag till budget 2027 plan 2028–2029 för<br>Räddningstjänsten Storgöteborg. |
 | 25. | Svar på Överförmyndare i<br>samverkans underlag för<br>budget 2027, plan 2028–2029 | 2026-00156 | Förslag till beslut i kommunstyrelsen<br>Kungsbacka kommun har inget att erinra mot<br>samrådsunderlag till budget 2027 för<br>Överförmyndare i samverkan, daterad 2026-02-09.<br>Medlemmarna ska få en återrapportering om hur<br>effektiviseringen och verksamhetsutvecklingen går i<br>relation till de ökade medlemsavgifterna, detta för att<br>följa effekthemtagningen |
 | 26. | Anmälan av delegeringsbeslut | 2026-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
@@ -258,6 +226,18 @@ KUNGSBACKA  KOMMUN
 | 28. | Redovisning av inkomna<br>skrivelser | 2026-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
 | 29. | Årsredovisning 2025 för Eksta<br>Bostads AB och Tempohus AB | 2026-00187 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar årsredovisning 2025<br>inklusive revisionsberättelser och<br>lekmannarevisorernas granskningsrapporter för Eksta<br>Bostads AB och Tempohus Kungsbacka AB till<br>protokollet. |
 | 30. | Årsredovisning 2025 för<br>Samordningsförbundet i<br>Halland och fråga om<br>ansvarsfrihet för styrelsen | 2026-00261 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beviljar styrelsen för<br>Samordningsförbundet i Halland ansvarsfrihet för<br>verksamhetsåret 2025. Årsredovisning och<br>revisionsberättelser noteras till protokollet. |
+
+<!-- sida 8 -->
+
+KUNGSBACKA  KOMMUN
+
+8 (13)
+
+<!-- sida 9 -->
+
+KUNGSBACKA  KOMMUN
+
+9 (13)
 
 <!-- sida 10 -->
 
@@ -303,26 +283,23 @@ KUNGSBACKA  KOMMUN
 
 11 (13)
 
-[Tabell 11-1](handlingar.tabeller/11-1.csv)
+[Tabell 11-13-1](handlingar.tabeller/11-13-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 33. | Godkännande av<br>genomförandeavtal med<br>Ellevio AB avseende<br>markförläggning av<br>kraftledning Klovsten-Gräskärr | 2019-00488 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner genomförandeavtal<br>avseende flytt av luftledningar i Klovsten och<br>Gräskärr mellan kommunen och Ellevio AB, daterat<br>2026-04-15.<br>Kommunstyrelsens ordförande och<br>kommundirektören eller deras respektive ersättare<br>utses att för kommunens räkning underteckna avtalet<br>samt nödvändiga handlingar för avtalets<br>genomförande.<br>Kommunfullmäktige ger kommunstyrelsen i uppdrag<br>att besluta om ekonomiska frågor i enlighet med<br>punkt 3.5 i genomförandeavtalet.<br>Förslag till beslut i kommunstyrelsen under<br>förutsättning av kommunfullmäktiges beslut ovan<br>Kommunstyrelsen ger kommunstyrelsens<br>arbetsutskott i uppdrag att besluta om ekonomiska<br>frågor i enlighet med punkt 3.5 i<br>genomförandeavtalet. |
 | 34. | Kungsbacka kommun och<br>Stiftelsen Tjolöholm –<br>stadgeändringar, avtal m.m. | 2025-00589 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige förklarar uppdraget som gavs<br>den 12 augusti 2025 för slutfört.<br>Kommunfullmäktige godkänner avtal mellan<br>Kungsbacka kommun och Stiftelsen Tjolöholm,<br>2026-04-14<br>Kommunfullmäktige ger kommunstyrelsens<br>ordförande och kommundirektören i uppdrag att<br>underteckna avtalet för Kungsbacka kommuns<br>räkning.<br>Kommunfullmäktige delegerar rätten att besluta om<br>ändringar eller tillägg till avtalet till<br>kommunstyrelsen.<br>Kommunfullmäktige godkänner förslag till nya<br>stadgar för Stiftelsen Tjolöholm,<br>2026-04-14. |
+| 35. | Årsredovisning 2025 för<br>Stiftelsen Tjolöholm och fråga<br>om ansvarsfrihet för styrelsen | 2026-00262 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar årsredovisning 2025 och<br>revisionsberättelse för Stiftelsen Tjolöholm till<br>protokollet.<br>Kommunfullmäktige beviljar styrelsen för stiftelsen<br>Tjolöholm ansvarsfrihet för verksamhetsåret 2025. |
+| 36. | Införande av valfrihetssystem<br>enligt LOV inom vård- och<br>omsorgsboende | 2025-00962 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige ställer sig bakom en inriktning<br>att införa valfrihetssystem enligt lag (2008:962) om<br>valfrihetssystem inom vård- och omsorgsboende i<br>Kungsbacka kommun.<br>Kommunfullmäktige ger nämnden för Vård &<br>Omsorg i uppdrag att ta fram en plan för hur ett<br>valfrihetssystem enligt lag (2008:962) om<br>valfrihetssystem inom vård- och omsorgsboende ska<br>utformas i Kungsbacka kommun. Planen ska<br>återredovisas till kommunfullmäktige för<br>ställningstagande innan implementering.<br>Planen ska särskilt tydliggöra målbild med<br>valfrihetssystemet samt hur systemet ska utformas<br>avseende ersättningsmodell, kravställning,<br>uppföljning och kontroll, kapacitetsplanering,<br>fastighetsfrågor samt konsekvenser för ekonomi,<br>kompetensförsörjning och kommunens långsiktiga<br>planeringsförmåga. |
+| 37. | Svar på motion från Mats<br>Ståhlberg (KB) om att låta<br>invånarna bli en del av<br>lösningen mot invasiva arter | 2025-00627 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att arbete med att ta fram en<br>åtgärdsplan för invasiva arter pågår och att olika<br>lösningar för att involvera invånare i bekämpning av<br>invasiva arter kan utvärderas inom ramen för denna. |
+| 38. | Svar på motion från Elisabeth<br>Sahlsten (MP) om mera grön<br>och blå mat i Kungsbacka<br>kommun | 2025-00809 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionens yrkande 1-3<br>med hänvisning till att kommunens<br>måltidsverksamhet redan bedrivs i enlighet med<br>gällande riktlinjer.<br>Kommunfullmäktige avslår motionens sista yrkande<br>med hänvisning till att samma förhållningssätt som<br>för måltidsverksamhetens inköp bör gälla för övriga<br>inköp av mat vid catering, fika och möten, i syfte att<br>säkerställa en enhetlig, effektiv och långsiktigt<br>hållbar styrning av kommunens livsmedelsinköp. |
+| 39. | Svar på motion från Magdalena<br>Sundqvist (S) om utbildning<br>kring våld i nära relation och<br>mäns våld mot kvinnor | 2024-00731 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att kommunen redan erbjuder<br>utbildningar för alla anställda, med tillhörande<br>stödmaterial som lyfts i utvecklingssamtal och vid<br>hälsosamtal, för att identifiera och stödja anställda<br>som är utsatta för olika typer av våld. |
 
 <!-- sida 12 -->
 
 KUNGSBACKA  KOMMUN
 
 12 (13)
-
-[Tabell 12-1](handlingar.tabeller/12-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 35. | Årsredovisning 2025 för<br>Stiftelsen Tjolöholm och fråga<br>om ansvarsfrihet för styrelsen | 2026-00262 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar årsredovisning 2025 och<br>revisionsberättelse för Stiftelsen Tjolöholm till<br>protokollet.<br>Kommunfullmäktige beviljar styrelsen för stiftelsen<br>Tjolöholm ansvarsfrihet för verksamhetsåret 2025. |
-| 36. | Införande av valfrihetssystem<br>enligt LOV inom vård- och<br>omsorgsboende | 2025-00962 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige ställer sig bakom en inriktning<br>att införa valfrihetssystem enligt lag (2008:962) om<br>valfrihetssystem inom vård- och omsorgsboende i<br>Kungsbacka kommun.<br>Kommunfullmäktige ger nämnden för Vård &<br>Omsorg i uppdrag att ta fram en plan för hur ett<br>valfrihetssystem enligt lag (2008:962) om<br>valfrihetssystem inom vård- och omsorgsboende ska<br>utformas i Kungsbacka kommun. Planen ska<br>återredovisas till kommunfullmäktige för<br>ställningstagande innan implementering.<br>Planen ska särskilt tydliggöra målbild med<br>valfrihetssystemet samt hur systemet ska utformas<br>avseende ersättningsmodell, kravställning,<br>uppföljning och kontroll, kapacitetsplanering,<br>fastighetsfrågor samt konsekvenser för ekonomi,<br>kompetensförsörjning och kommunens långsiktiga<br>planeringsförmåga. |
-| 37. | Svar på motion från Mats<br>Ståhlberg (KB) om att låta<br>invånarna bli en del av<br>lösningen mot invasiva arter | 2025-00627 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att arbete med att ta fram en<br>åtgärdsplan för invasiva arter pågår och att olika<br>lösningar för att involvera invånare i bekämpning av<br>invasiva arter kan utvärderas inom ramen för denna. |
 
 <!-- sida 13 -->
 
@@ -332,13 +309,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Patrik Johansson
 ordförande                        kommunsekreterare
-
-[Tabell 13-1](handlingar.tabeller/13-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 38. | Svar på motion från Elisabeth<br>Sahlsten (MP) om mera grön<br>och blå mat i Kungsbacka<br>kommun | 2025-00809 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionens yrkande 1-3<br>med hänvisning till att kommunens<br>måltidsverksamhet redan bedrivs i enlighet med<br>gällande riktlinjer.<br>Kommunfullmäktige avslår motionens sista yrkande<br>med hänvisning till att samma förhållningssätt som<br>för måltidsverksamhetens inköp bör gälla för övriga<br>inköp av mat vid catering, fika och möten, i syfte att<br>säkerställa en enhetlig, effektiv och långsiktigt<br>hållbar styrning av kommunens livsmedelsinköp. |
-| 39. | Svar på motion från Magdalena<br>Sundqvist (S) om utbildning<br>kring våld i nära relation och<br>mäns våld mot kvinnor | 2024-00731 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att kommunen redan erbjuder<br>utbildningar för alla anställda, med tillhörande<br>stödmaterial som lyfts i utvecklingssamtal och vid<br>hälsosamtal, för att identifiera och stödja anställda<br>som är utsatta för olika typer av våld. |
 
 <!-- sida 14 -->
 
@@ -756,21 +726,9 @@ bedömningen av arbetet med mål och direktiv gör vi i samband med delårsboksl
 
 Resultat, prognos
 
-Budget
-Prognos
-Miljoner kronor              2022  2023 2024  2025 2026 inkl.
-2026
-ombudget
-Årets resultat, prognos       753   231  286   604     320   508
-Avgår jämförelsestörande poster: -184 52 -75   -57      0   -142
-0
-\- varav resultat från exploateringsverksamhet -184 40 23 46  -145
-¹ Strukturellt resultat/prognos 569 276  211   548     320   366
-Resultatets andel av skatter & statsbidrag
-Årets resultat (%)            13,1  3,8   4,6  9,5     4,8   7,7
-Strukturellt resultat (%)     9,8   4,7   3,4  8,6     4,8   5,5
 ¹Årets resultat exklusive jämförelsestörande poster
 Prognosen är att årets resultat blir 508 miljoner kronor. Det är 96 miljoner kronor lägre än resultatet
+
 förra året. Det prognostiserade resultatet motsvarar 7,7 procent av skatteintäkter och statsbidrag,
 jämfört med 9,5 procent förra året. Kommunen har inte med resultatet från
 exploateringsverksamheten i budgeten eftersom det är osäkert när i tiden det kommer. I
@@ -791,6 +749,18 @@ långsammare än ökningen av nettokostnaderna.
 Kungsbacka kommun         Apriluppföljning 2026                 4
 
 [Tabell 26-1](handlingar.tabeller/26-1.csv)
+
+| Miljoner kronor | 2022 | 2023 | 2024 | 2025 | Budget<br>2026 inkl.<br>ombudget | Prognos<br>2026 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Årets resultat, prognos | 753 | 231 | 286 | 604 | 320 | 508 |
+| Avgår jämförelsestörande poster: | -184 | 52 | -75 | -57 | 0 | -142 |
+| - varav resultat från exploateringsverksamhet | -184 | 40 | 23 | 46 | 0 | -145 |
+| ¹ Strukturellt resultat/prognos | 569 | 276 | 211 | 548 | 320 | 366 |
+| Resultatets andel av skatter & statsbidrag |  |  |  |  |  |  |
+| Årets resultat (%) | 13,1 | 3,8 | 4,6 | 9,5 | 4,8 | 7,7 |
+| Strukturellt resultat (%) | 9,8 | 4,7 | 3,4 | 8,6 | 4,8 | 5,5 |
+
+[Tabell 26-2](handlingar.tabeller/26-2.csv)
 
 | Procent | 2022 | 2023 | 2024 | 2025 | Budget<br>2026 | Prognos<br>2026 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1045,7 +1015,7 @@ Kungsbacka kommun         Apriluppföljning 2026                 9
 | Jämförelsestörande poster | -57 | 0 | -142 | -142 |
 | Strukturellt resultat | 548 | 320 | 366 | 46 |
 
-[Tabell 31-2](handlingar.tabeller/31-2.csv)
+[Tabell 31-32-2](handlingar.tabeller/31-32-2.csv)
 
 | Miljoner kronor | Resultatfond<br>2026 | Bokslut 2025 | Budget 2026 | Prognos<br>2026 | Prognos-<br>avvikelse | Avvikelse<br>% |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1064,6 +1034,14 @@ Kungsbacka kommun         Apriluppföljning 2026                 9
 | Individ & Familjeomsorg | 9,8 | -836,2 | -882,3 | -882,3 | 0,0 | 0,0 |
 | Vård & Omsorg | 153,3 | -1 185,7 | -1 278,5 | -1 289,0 | -10,4 | -0,8 |
 | Skattefinansierade<br>nämnder | 584,3 | -5 878,2 | -6 229,7 | -6 215,3 | 14,4 | 0,2 |
+| Kungsbacka<br>Bredbandsnät |  | 0,0 | 0,0 | -4,9 | -4,9 | - |
+| Vatten & Avlopp |  | 0,0 | 0,0 | 3,0 | 3,0 | - |
+| Avfall & Återvinning |  | 0,0 | 0,0 | 0,1 | 0,1 | - |
+| Avgiftsfinansierade<br>verksamheter |  | 0,0 | 0,0 | -1,9 | -1,9 | - |
+| Summa nämnder |  | -5 878,2 | -6 229,7 | -6 217,1 | 12,6 | 0,2 |
+| ¹ Finansverksamheten | 11,3 | 143,6 | 16,6 | 178,9 | 162,4 | - |
+| Justering interna poster<br>med mera | - | 558,1 | 525,3 | 616,3 | 91,0 | - |
+| Verksamhetens<br>nettokostnader | 595,6 | -5 176,5 | -5 687,8 | -5 421,9 | 266 | - |
 
 <!-- sida 32 -->
 
@@ -1109,18 +1087,6 @@ prognostiserar ett underskott på cirka fem miljoner kronor, vilket främst bero
 licenskostnader mellan 2025 och 2026.
 
 Kungsbacka kommun         Apriluppföljning 2026                10
-
-[Tabell 32-1](handlingar.tabeller/32-1.csv)
-
-| Kungsbacka<br>Bredbandsnät |  | 0,0 | 0,0 | -4,9 | -4,9 | - |
-| --- | --- | --- | --- | --- | --- | --- |
-| Vatten & Avlopp |  | 0,0 | 0,0 | 3,0 | 3,0 | - |
-| Avfall & Återvinning |  | 0,0 | 0,0 | 0,1 | 0,1 | - |
-| Avgiftsfinansierade<br>verksamheter |  | 0,0 | 0,0 | -1,9 | -1,9 | - |
-| Summa nämnder |  | -5 878,2 | -6 229,7 | -6 217,1 | 12,6 | 0,2 |
-| ¹ Finansverksamheten | 11,3 | 143,6 | 16,6 | 178,9 | 162,4 | - |
-| Justering interna poster<br>med mera | - | 558,1 | 525,3 | 616,3 | 91,0 | - |
-| Verksamhetens<br>nettokostnader | 595,6 | -5 176,5 | -5 687,8 | -5 421,9 | 266 | - |
 
 <!-- sida 33 -->
 
@@ -1872,50 +1838,32 @@ långsiktig hållbarhet.
 
 Här får du en snabb överblick över kommunens ekonomiska utveckling under tio år.
 
-2020  2021 2022 2023 2024 2025 2026 2027 2028 2029
-Skatt
-Kommunal skattesats Kungs- 21,33 21,33 21,33 21,33 21,33 21,33 21,18 21,18 21,18 21,18
-backa procent
-Invånare
-
-Resultat och volymer
-Årets resultat, miljoner kronor 415 464 753 231 286 604 320 364 446 444
-Årets resultat i andel av skat- 7,9 8,4 13,1 3,8 4,6 9,5 4,8 5,3 6,2 6,0
-teintäkter och statsbidrag, %
-Pensionskostnader, miljoner 290 307 259 515 625 351 294 296 353  388
-kronor
-Pensionskostnader, kronor per 3 415 3 599 3 019 6 013 7 285 4 066 3 402 3 413 4 060 4 455
-invånare
-Nettoinvesteringar, miljoner 857 623 809 928 765 747 1 632 1 845 1 498 1 194
-kronor, exkl. finansiell leasing
-– varav inom skattefinansierad 695 503 608 576 429 289 713 897 820 516
-verksamhet
-– varav inom avgiftsfinansie- 120 120 201 352 336 458 919 948 678 678
-rad verksamhet
-
-invånare
-Borgensåtagande, miljoner 3 412 3 502 3 493 3 484 3 476 3 473 3 468 3 468 3 468 3 468
-kronor
-Borgensåtagande, kronor per 40 174 41 049 40 710 40 676 40 517 40 228 40 128 39 986 39 891 39 815
-invånare
 \* Jämförelsetalen för 2019 är justerade med anledning av övergång till RKR R2 under 2020. Åren dessförinnan bygger på tidigare gällande redovisningsprincip.
 
 10 Kommunbudget 2027 och plan 2028–2029
 
 [Tabell 51-1](handlingar.tabeller/51-1.csv)
 
-| Antal invånare 31 december | 84 930 | 85 301 | 85 801 | 85 653 | 85 792 | 86 332 | 86 424 | 86 730 | 86 936 | 87 102 |
+|  | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Skatt |  |  |  |  |  |  |  |  |  |  |
+| Kommunal skattesats Kungs- backa procent | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,18 | 21,18 | 21,18 | 21,18 |
+| Invånare |  |  |  |  |  |  |  |  |  |  |
+| Antal invånare 31 december | 84 930 | 85 301 | 85 801 | 85 653 | 85 792 | 86 332 | 86 424 | 86 730 | 86 936 | 87 102 |
 | Födda | 763 | 778 | 742 | 702 | 696 | 662 | 656 | 650 | 665 | 677 |
 | Döda | 643 | 678 | 682 | 690 | 652 | 696 | 735 | 758 | 781 | 803 |
 | Inflyttning | 4 066 | 4 087 | 3 974 | 3 603 | 3 881 | 4 033 | 3 817 | 4 146 | 4 078 | 4 054 |
 | Utflyttning | 3 663 | 3 842 | 3 572 | 3 768 | 3 788 | 3 466 | 3 645 | 3 732 | 3 756 | 3 763 |
 | Folkökning | 523 | 371 | 500 | -148 | 139 | 540 | 93 | 306 | 206 | 165 |
-
-[Tabell 51-2](handlingar.tabeller/51-2.csv)
-
+| Resultat och volymer |  |  |  |  |  |  |  |  |  |  |
+| Årets resultat, miljoner kronor | 415 | 464 | 753 | 231 | 286 | 604 | 320 | 364 | 446 | 444 |
+| Årets resultat i andel av skat- teintäkter och statsbidrag, % | 7,9 | 8,4 | 13,1 | 3,8 | 4,6 | 9,5 | 4,8 | 5,3 | 6,2 | 6,0 |
+| Pensionskostnader, miljoner kronor | 290 | 307 | 259 | 515 | 625 | 351 | 294 | 296 | 353 | 388 |
+| Pensionskostnader, kronor per invånare | 3 415 | 3 599 | 3 019 | 6 013 | 7 285 | 4 066 | 3 402 | 3 413 | 4 060 | 4 455 |
+| Nettoinvesteringar, miljoner kronor, exkl. finansiell leasing | 857 | 623 | 809 | 928 | 765 | 747 | 1 632 | 1 845 | 1 498 | 1 194 |
+| – varav inom skattefinansierad verksamhet | 695 | 503 | 608 | 576 | 429 | 289 | 713 | 897 | 820 | 516 |
+| – varav inom avgiftsfinansie- rad verksamhet | 120 | 120 | 201 | 352 | 336 | 458 | 919 | 948 | 678 | 678 |
 | Tillgångar, miljoner kronor | 7 859 | 8 634 | 10 586 | 11 061 | 11 383 | 11 766 | 12 361 | 13 392 | 14 094 | 14 513 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Tillgångar, kronor per invånare | 92 535 | 101 218 | 123 379 | 129 137 | 132 681 | 136 288 | 143 027 | 154 410 | 162 119 | 166 621 |
 | Soliditet, procent | 33,3 | 35,5 | 35,4 | 35,9 | 37,4 | 41,3 | 41,9 | 41,4 | 42,5 | 44,3 |
 | Likviditet, miljoner kronor | 381 | 372 | 426 | 291 | 416 | 531 | 211 | 168 | 101 | 139 |
@@ -1923,7 +1871,9 @@ invånare
 | Låneskuld, miljoner kronor | 1 561 | 1 576 | 1 300 | 1 200 | 1 200 | 1 050 | 1 400 | 2 150 | 2 450 | 2 450 |
 | Låneskuld, kronor per invånare | 18 380 | 18 480 | 15 151 | 14 010 | 13 987 | 12 162 | 16 199 | 24 790 | 28 182 | 28 128 |
 | Pensionsskuld, miljoner kronor | 1 747 | 1 795 | 1789 | 1 946 | 2 202 | 2 184 | 2 104 | 2 021 | 1 978 | 1 953 |
-| Pensionsskuld, kronor per | 20 570 | 21 043 | 20 851 | 22 720 | 25 667 | 25 298 | 24 345 | 23 302 | 22 752 | 22 422 |
+| Pensionsskuld, kronor per invånare | 20 570 | 21 043 | 20 851 | 22 720 | 25 667 | 25 298 | 24 345 | 23 302 | 22 752 | 22 422 |
+| Borgensåtagande, miljoner kronor | 3 412 | 3 502 | 3 493 | 3 484 | 3 476 | 3 473 | 3 468 | 3 468 | 3 468 | 3 468 |
+| Borgensåtagande, kronor per invånare | 40 174 | 41 049 | 40 710 | 40 676 | 40 517 | 40 228 | 40 128 | 39 986 | 39 891 | 39 815 |
 
 <!-- sida 52 -->
 
@@ -2104,13 +2054,7 @@ löneökningar och nytt avgiftsbestämt pensionsavtal med och generella statsbid
 höjda premienivåer. Ökningen av prisbasbeloppet berodde Även en mindre procentuell avvikelse får därför stort
 på den snabba uppgången av inflationen. Prisbasbeloppet genomslag.
 har stor betydelse för värdesäkringen av pensionsskulden.
-Belopp i miljoner Budget Plan Plan Plan
-Tidigare har prisbasbeloppet ökat långsamt och då hållit
-kronor     2026  2027 2028 2029
-tillbaka pensionskostnaderna. Eftersom inflationen är
-Skatteintäkter 6 362 6 514 6 797 7 081
-tillbaka på tvåprocentsmålet är pensionskostnaderna sedan
-Inkomstutjämning -161 -96 -68 -60
+
 2025 tillbaka på en mer normal nivå. Prognosen från
 pensionsbolaget KPA Pension visar att pensionskostna­ Kostnadsutjäm- 13 7 15 11
 ning
@@ -2125,6 +2069,15 @@ skattekraft (%)
 Summa intäkter 6 619 6 858 7 159 7 413
 
 Kommunbudget 2027 och plan 2028–2029 15
+
+[Tabell 56-1](handlingar.tabeller/56-1.csv)
+
+| Belopp i miljoner | Budget | Plan | Plan | Plan |
+| --- | --- | --- | --- | --- |
+| Tidigare har prisbasbeloppet ökat långsamt och då hållit |  |  |  |  |
+| kronor tillbaka pensionskostnaderna. Eftersom inflationen är | 2026 | 2027 | 2028 | 2029 |
+| Skatteintäkter tillbaka på tvåprocentsmålet är pensionskostnaderna sedan | 6 362 | 6 514 | 6 797 | 7 081 |
+| Inkomstutjämning | -161 | -96 | -68 | -60 |
 
 <!-- sida 57 -->
 
@@ -3254,48 +3207,55 @@ Kommunbudget 2027 och plan 2028–2029 39
 KÖUvNrGigSaB AtiCllKäAgSg FÖRUTSÄTTNINGAR
 
 Övriga tillkommande tillägg från och med kommunbudget 2027
-Tillägg tusen kronor, Tkr                     Plan Plan Plan
-2027 2028 2029
-Förskola & Grundskola, Särskild satsning på stärkt utbildning 40 000 40 000 40 000
-Gymnasium & Arbetsmarknad, Särskild satsning på stärkt utbildning 5 000 5 000 5 000
-Individ & Familjeomsorg, Särskild satsning på förebyggande insatser 7 000 7 000 7 000
-Individ & Familjeomsorg, Särskild satsning för att möta allt svårare diagnoser 3 000 3 000 3 000
-Vård & Omsorg, Särskild satsning på stärkt personalkontinuitet i omsorgen 20 000 20 000 20 000
-Teknik, Särskild satsning på en grön och välkomnande kommun 5 000 5 000 5 000
-Särskild satsning råvaror till måltiderna som fördelas från Service till FG, GA, VO och IF 3 000 3 000 3 000
-Kultur & Fritid, Särskild satsning på brottsförebyggande arbete 5 000 5 000 5 000
-Kultur & Fritid, Särskild satsning på social samvaro för att minska ensamheten hos ungdomar och äldre 5 000 5 000 5 000
-Summa övriga tillägg 2026–2028                93 000 93 000 93 000
 
 Kvarstående övriga tillägg från kommunbudget 2026
-Tillägg tusen kronor, Tkr                      Plan Plan Plan
-2027 2028 2029
-Förskola & Grundskola, från och med 2026      30 000 30 000 30 000
-Gymnasium & Arbetsmarknad, från och med 2026   3 000 3 000 3 000
-Individ & Familjeomsorg, från och med 2026    20 000 20 000 20 000
-Vård & Omsorg, från och med 2026              10 000 10 000 10 000
-Trygg uppväxt                                 10 000 10 000 10 000
-Ökade livsmedelspriser från 2026 utöver 3,1 procent, fördelas från Service till FG, GA, VO och IF 3 000 3 000 3 000
-Kommunfullmäktige politikerutbildning ny mandatperiod 2 250
-Summa kvarstående övriga tillägg 2026–2028 som ingår i ram 78 250 76 000 76 000
 
 Kvarstående övriga tillägg från kommunbudget 2025
-Tillägg tusen kronor, Tkr                      Plan Plan Plan
-2027 2028 2029
-Service, ekonomisk rådgivning, ingår i ram     700  700  700
-Gymnasium & Arbetsmarknad, ingår i ram         3 000 3 000 3 000
-Förskola & Grundskola, ingår i ram             5 000 5 000 5 000
-Individ & Familjeomsorg, ingår i ram           2 000 2 000 2 000
-Vård & Omsorg, ingår i ram                     5 000 5 000 5 000
-Ersättning ökade måltidspriser upp till 7,2 procent för FG, GA, VO, IF, (mellanskillnad mellan 3,9 procent 3 706 3 706 3 706
-upp till 7,2 procent), ingår i ram
 
-kvarstår i ramen
 Summa kvarstående övriga tillägg från 2025 som ingår i ram 75 032 47 032 47 032
 
 40 Kommunbudget 2027 och plan 2028–2029
 
 [Tabell 81-1](handlingar.tabeller/81-1.csv)
+
+| Tillägg tusen kronor, Tkr | Plan 2027 | Plan 2028 | Plan 2029 |
+| --- | --- | --- | --- |
+| Förskola & Grundskola, Särskild satsning på stärkt utbildning | 40 000 | 40 000 | 40 000 |
+| Gymnasium & Arbetsmarknad, Särskild satsning på stärkt utbildning | 5 000 | 5 000 | 5 000 |
+| Individ & Familjeomsorg, Särskild satsning på förebyggande insatser | 7 000 | 7 000 | 7 000 |
+| Individ & Familjeomsorg, Särskild satsning för att möta allt svårare diagnoser | 3 000 | 3 000 | 3 000 |
+| Vård & Omsorg, Särskild satsning på stärkt personalkontinuitet i omsorgen | 20 000 | 20 000 | 20 000 |
+| Teknik, Särskild satsning på en grön och välkomnande kommun | 5 000 | 5 000 | 5 000 |
+| Särskild satsning råvaror till måltiderna som fördelas från Service till FG, GA, VO och IF | 3 000 | 3 000 | 3 000 |
+| Kultur & Fritid, Särskild satsning på brottsförebyggande arbete | 5 000 | 5 000 | 5 000 |
+| Kultur & Fritid, Särskild satsning på social samvaro för att minska ensamheten hos ungdomar och äldre | 5 000 | 5 000 | 5 000 |
+| Summa övriga tillägg 2026–2028 | 93 000 | 93 000 | 93 000 |
+
+[Tabell 81-2](handlingar.tabeller/81-2.csv)
+
+| Tillägg tusen kronor, Tkr | Plan 2027 | Plan 2028 | Plan 2029 |
+| --- | --- | --- | --- |
+| Förskola & Grundskola, från och med 2026 | 30 000 | 30 000 | 30 000 |
+| Gymnasium & Arbetsmarknad, från och med 2026 | 3 000 | 3 000 | 3 000 |
+| Individ & Familjeomsorg, från och med 2026 | 20 000 | 20 000 | 20 000 |
+| Vård & Omsorg, från och med 2026 | 10 000 | 10 000 | 10 000 |
+| Trygg uppväxt | 10 000 | 10 000 | 10 000 |
+| Ökade livsmedelspriser från 2026 utöver 3,1 procent, fördelas från Service till FG, GA, VO och IF | 3 000 | 3 000 | 3 000 |
+| Kommunfullmäktige politikerutbildning ny mandatperiod | 2 250 |  |  |
+| Summa kvarstående övriga tillägg 2026–2028 som ingår i ram | 78 250 | 76 000 | 76 000 |
+
+[Tabell 81-3](handlingar.tabeller/81-3.csv)
+
+| Tillägg tusen kronor, Tkr | Plan 2027 | Plan 2028 | Plan 2029 |
+| --- | --- | --- | --- |
+| Service, ekonomisk rådgivning, ingår i ram | 700 | 700 | 700 |
+| Gymnasium & Arbetsmarknad, ingår i ram | 3 000 | 3 000 | 3 000 |
+| Förskola & Grundskola, ingår i ram | 5 000 | 5 000 | 5 000 |
+| Individ & Familjeomsorg, ingår i ram | 2 000 | 2 000 | 2 000 |
+| Vård & Omsorg, ingår i ram | 5 000 | 5 000 | 5 000 |
+| Ersättning ökade måltidspriser upp till 7,2 procent för FG, GA, VO, IF, (mellanskillnad mellan 3,9 procent upp till 7,2 procent), ingår i ram | 3 706 | 3 706 | 3 706 |
+
+[Tabell 81-4](handlingar.tabeller/81-4.csv)
 
 | Ersättning ökade måltidspriser 0,5 procent för FG, GA, VO, IF, (totalt 3 procent 5 978 tkr), ingår i ram | 996 | 996 | 996 |
 | --- | --- | --- | --- |
@@ -3308,17 +3268,13 @@ Summa kvarstående övriga tillägg från 2025 som ingår i ram 75 032 47 032 47
 | Individ & Familjeomsorg, från och med 2025 som kvarstår i ramen | 6 000 | 6 000 | 6 000 |
 | Vård & Omsorg, från och med 2025 som kvarstår i ramen | 2 000 | 2 000 | 2 000 |
 | Friskvårdsaktiviteter enligt nytt direktiv från 2025–2027 | 3 000 |  |  |
-| Förändrade redovisningsregler för Teknik, från investering till driftkostnad från och med 2025 som | 4 000 | 4 000 | 4 000 |
+| Förändrade redovisningsregler för Teknik, från investering till driftkostnad från och med 2025 som kvarstår i ramen | 4 000 | 4 000 | 4 000 |
 
 <!-- sida 82 -->
 
 KUNGSBACKAS FÖRUTSÄTTNINGAR
 
 Nämndernas driftramar 2026–2027
-Nämnder, belopp i Tusen kronor, Tkr Priser, löner Volymer Övriga tillägg Ramjustering Ram 2027, Ram 2028,
-3,0 procent 2027   2027 inkl ombud- inkl. kapital- inkl. kapital-
-2027                  get t o m kostnad, kostnad,
-2026-04-30 internt övrigt internt övrigt
 
 Ramjusteringar är bland annat gjorda till nämnderna för nya, avgående och förändrade lokalhyror och lokalvård till och med 2026-04-30,
 Från och med 2027 räknas fastighetsbidraget till Stiftelsen Tjolöholm upp med 3 procent årligen inom Kommunstyrelsens budgetram.
@@ -3344,8 +3300,9 @@ Kommunbudget 2027 och plan 2028–2029 41
 
 [Tabell 82-1](handlingar.tabeller/82-1.csv)
 
-| Kommunfullmäktige | 145 |  |  |  | 7 233 | 5 183 |
+| Nämnder, belopp i Tusen kronor, Tkr | Priser, löner 3,0 procent 2027 | Volymer 2027 | Övriga tillägg 2027 | Ramjustering inkl ombudget t o m 2026-04-30 | Ram 2027, inkl. kapitalkostnad, internt övrigt | Ram 2028, inkl. kapitalkostnad, internt övrigt |
 | --- | --- | --- | --- | --- | --- | --- |
+| Kommunfullmäktige | 145 |  |  |  | 7 233 | 5 183 |
 | Kommunrevision | 111 |  |  |  | 3 806 | 3 920 |
 | Valnämnden | 62 | 113 |  |  | 626 | 689 |
 | Kommunstyrelsen | 8 971 | 420 |  | -1 011 | 308 430 | 307 816 |
@@ -3581,29 +3538,15 @@ tillgångar ska alltid vara lika stor som summan av skulder och eget kapital.
 
 Resultaträkning
 
-Belopp i miljoner kronor      Bokslut Budget Budget Plan Plan
-2025  2026  2027 2028  2029
-inkl ombudget
-
-säljning anläggningstillgångar
-Årets resultat enligt blandmodellen 565 254 294   395   398
-Samtliga realisationsvinster
-Årets resultat efter balanskravsjusteringar 565 254 294 395 398
-
-Balanskravsresultat              565  254   294   395   398
-Nyckeltal
-
-SKR cirkulär 25:21
-
-Resultat tillkommer vid försäljning av exploateringsmark 181 322 240 287
-samt exploateringsersättningar prognos våren 2026 till
 Kommunbudget 2027
+
 46 Kommunbudget 2027 och plan 2028–2029
 
 [Tabell 87-1](handlingar.tabeller/87-1.csv)
 
-| Avskrivningar | -513 | -540 | -449 | -488 | -526 |
+| Belopp i miljoner kronor | Bokslut 2025 | Budget 2026 inkl ombudget | Budget 2027 | Plan 2028 | Plan 2029 |
 | --- | --- | --- | --- | --- | --- |
+| Avskrivningar | -513 | -540 | -449 | -488 | -526 |
 | Verksamhetens nettokostnader | -5 690 | -6 213 | -6 394 | -6 581 | -6 834 |
 | Skatteintäkter | 6 111 | 6 362 | 6 514 | 6 797 | 7 081 |
 | Generella statsbidrag | 276 | 257 | 344 | 362 | 332 |
@@ -3614,12 +3557,13 @@ Kommunbudget 2027
 | Årets resultat | 604 | 320 | 364 | 446 | 444 |
 | -Varav jämförelsestörande poster | -57 |  |  |  |  |
 | Strukturellt resultat | 548 | 320 | 364 | 446 | 444 |
-| Pensionsförpliktelser intjänade före 1998, reavinster för- | -40 | -66 | -70 | -52 | -46 |
-
-[Tabell 87-2](handlingar.tabeller/87-2.csv)
-
+| Pensionsförpliktelser intjänade före 1998, reavinster för- säljning anläggningstillgångar | -40 | -66 | -70 | -52 | -46 |
+| Årets resultat enligt blandmodellen | 565 | 254 | 294 | 395 | 398 |
+| Samtliga realisationsvinster |  |  |  |  |  |
+| Årets resultat efter balanskravsjusteringar | 565 | 254 | 294 | 395 | 398 |
+| Balanskravsresultat | 565 | 254 | 294 | 395 | 398 |
+| Nyckeltal |  |  |  |  |  |
 | Verksamhetens resultat andel av skatter och statsbidrag | 8,5% | 4,6% | 5,0% | 5,8% | 5,5% |
-| --- | --- | --- | --- | --- | --- |
 | Årlig förändring av nettokostnader | -0,4% | 2,5% | 2,9% | 2,9% | 3,8% |
 | Årlig förändring av skatter och statsbidrag | 3,4% | 2,8% | 3,6% | 4,4% | 3,5% |
 | Årets resultat andel av skatteintäkter, statsbidrag | 9,5% | 4,8% | 5,3% | 6,2% | 6,0% |
@@ -3628,6 +3572,8 @@ Kommunbudget 2027
 | Summa använda skattemedel | 91% | 95% | 95% | 94% | 94% |
 | Finansnettots andel av skatter, statsbidrag | 2,9% | 1,8% | 1,3% | 2,1% | 2,5% |
 | Summa använda skattemedel | 95% | 96% | 95% | 95% | 95% |
+| SKR cirkulär 25:21 |  |  |  |  |  |
+| Resultat tillkommer vid försäljning av exploateringsmark samt exploateringsersättningar prognos våren 2026 till |  | 181 | 322 | 240 | 287 |
 
 <!-- sida 88 -->
 
@@ -3635,91 +3581,53 @@ FINANSIELLA RAPPORTER
 
 Kassaflödesanalys
 
-Belopp i miljoner kronor   Bokslut Budget Budget Plan Plan
-2025  2026  2027  2028 2029
-inkl ombudget
-Kassaflöde från den löpande verksamheten
-
-investeringsbidrag
-Kassaflöde från den löpande verksamheten 28
-Summa kassaflöde från den löpande verksamheten 1 206 962 1 052 1 130 1 232
-
-Investeringsverksamheten
-Investering i materiella anläggningstillgångar -835 -309 -524 -317 -129
--Varav investering finansiell leasing
-
-```osaker-tabell
-Löpande investeringar               -72   -62   -63   -75
-Övriga investeringar                -241 -153  -128  -112
-
-Exploateringsverksamheten           -91  -158  -313  -343
-Avgiftsfinansierade investeringar  -919  -948  -678  -535
-```
-
-Försäljning av materiella anläggningstillgångar 2
-Investering i finansiella anläggningstillgångar
-Kassaflöde från investeringsverksamheten -833 -1 632 -1 845 -1 498 -1 194
-
-Finansieringsverksamheten
-Amortering av lån kreditinstitut -150
-Nyupptagna lån finansiell leasing 0
-Amortering av skulder för finansiell leasing -82
-Nyupptagna lån kreditinstitut       350   750  300     0
-Omsatta lån
-
-Nyckeltal
-Egenfinansiering av investeringar årsvis 138% 59% 53% 74% 107%
-Investeringarnas andel av skatter och statsbidrag 12% 23% 25% 19% 15%
-
 Kommunbudget 2027 och plan 2028–2029 47
 
 [Tabell 88-1](handlingar.tabeller/88-1.csv)
 
-| Årets Resultat | 604 | 320 | 364 | 446 | 444 |
+| Belopp i miljoner kronor | Bokslut 2025 | Budget 2026 inkl ombudget | Budget 2027 | Plan 2028 | Plan 2029 |
 | --- | --- | --- | --- | --- | --- |
+| Kassaflöde från den löpande verksamheten |  |  |  |  |  |
+| Årets Resultat | 604 | 320 | 364 | 446 | 444 |
 | Justering för ej likviditetspåverkande poster | 579 | 540 | 449 | 488 | 526 |
 | Övriga ej likvidpåverkande poster | -18 | -79 | -83 | -44 | -25 |
 | Övriga likvidpåverkande poster | -98 |  |  |  |  |
 | Poster som redovisas i annan sektion | 4 |  |  |  |  |
-| Investeringsintäkter, exploateringsersättningar, | 108 | 181 | 322 | 240 | 287 |
-
-[Tabell 88-2](handlingar.tabeller/88-2.csv)
-
+| Investeringsintäkter, exploateringsersättningar, investeringsbidrag | 108 | 181 | 322 | 240 | 287 |
+| Kassaflöde från den löpande verksamheten | 28 |  |  |  |  |
+| Summa kassaflöde från den löpande verksamheten | 1 206 | 962 | 1 052 | 1 130 | 1 232 |
+| Investeringsverksamheten |  |  |  |  |  |
+| Investering i materiella anläggningstillgångar | -835 | -309 | -524 | -317 | -129 |
+| -Varav investering finansiell leasing |  |  |  |  |  |
+| Löpande investeringar |  | -72 | -62 | -63 | -75 |
+| Övriga investeringar |  | -241 | -153 | -128 | -112 |
+| Exploateringsverksamheten |  | -91 | -158 | -313 | -343 |
+| Avgiftsfinansierade investeringar |  | -919 | -948 | -678 | -535 |
+| Försäljning av materiella anläggningstillgångar | 2 |  |  |  |  |
+| Investering i finansiella anläggningstillgångar |  |  |  |  |  |
+| Kassaflöde från investeringsverksamheten | -833 | -1 632 | -1 845 | -1 498 | -1 194 |
+| Finansieringsverksamheten |  |  |  |  |  |
+| Amortering av lån kreditinstitut | -150 |  |  |  |  |
+| Nyupptagna lån finansiell leasing | 0 |  |  |  |  |
+| Amortering av skulder för finansiell leasing | -82 |  |  |  |  |
+| Nyupptagna lån kreditinstitut |  | 350 | 750 | 300 | 0 |
+| Omsatta lån |  |  |  |  |  |
 | Förändring långfristiga fordringar | 0 |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Förändring av övriga långfristiga skulder | -6 |  |  |  |  |
 | Kassaflöde från finansieringsverksamheten | -238 | 350 | 750 | 300 | 0 |
 | Utbetalning av bidrag statlig infrastruktur | -21 |  |  |  |  |
 | Årets kassaflöde | 114 | -320 | -42 | -68 | 38 |
 | Likvida medel vid årets början | 416 | 531 | 211 | 168 | 101 |
 | Likvida medel vid årets slut | 531 | 211 | 168 | 101 | 139 |
+| Nyckeltal |  |  |  |  |  |
+| Egenfinansiering av investeringar årsvis | 138% | 59% | 53% | 74% | 107% |
+| Investeringarnas andel av skatter och statsbidrag | 12% | 23% | 25% | 19% | 15% |
 
 <!-- sida 89 -->
 
 FINANSIELLA RAPPORTER
 
 Balansräkning
-Belopp i miljoner kronor       Bokslut Budget Budget Plan Plan
-2025  2026  2027  2028 2029
-inkl ombudget
-TILLGÅNGAR
-Immateriella tillgångar             0     0     0     0    0
-Materiella anläggningstillgångar
-
-Finansiella anläggningstillgångar
-Finansiella anläggningstillgångar  232   232   232  232   232
-Långfristiga fordringar
-
-Omsättningstillgångar
-
-EGET KAPITAL, AVSÄTTNINGAR OCH SKULDER
-Eget kapital
-
-Avsättningar
-
-Skulder
-
-investeringsbidrag samt övriga långfristiga skulder
 
 Övriga upplysningar
 ¹Byte sv redovisningsprincip för grundfondskapital Tjolöholm
@@ -3728,54 +3636,42 @@ enligt RKR R7 i 2024.
 
 [Tabell 89-1](handlingar.tabeller/89-1.csv)
 
-| Mark byggnader och tekniska anläggningar | 9 457 | 10 295 | 11 307 | 12 015 | 12 320 |
+| Belopp i miljoner kronor | Bokslut 2025 | Budget 2026 inkl ombudget | Budget 2027 | Plan 2028 | Plan 2029 |
 | --- | --- | --- | --- | --- | --- |
+| TILLGÅNGAR |  |  |  |  |  |
+| Immateriella tillgångar | 0 | 0 | 0 | 0 | 0 |
+| Materiella anläggningstillgångar |  |  |  |  |  |
+| Mark byggnader och tekniska anläggningar | 9 457 | 10 295 | 11 307 | 12 015 | 12 320 |
 | Maskiner och inventarier | 785 | 857 | 919 | 982 | 1 057 |
 | Summa materiella anläggningstillgångar | 10 242 | 11 153 | 12 226 | 12 996 | 13 377 |
-
-[Tabell 89-2](handlingar.tabeller/89-2.csv)
-
+| Finansiella anläggningstillgångar |  |  |  |  |  |
+| Finansiella anläggningstillgångar | 232 | 232 | 232 | 232 | 232 |
+| Långfristiga fordringar |  |  |  |  |  |
 | Summa finansiella anläggningstillgångar | 232 | 232 | 232 | 232 | 232 |
-| --- | --- | --- | --- | --- | --- |
 | Summa anläggningstillgångar | 10 475 | 11 385 | 12 459 | 13 229 | 13 610 |
 | Bidrag till statlig infrastruktur | 61 | 65 | 65 | 65 | 65 |
-
-[Tabell 89-3](handlingar.tabeller/89-3.csv)
-
+| Omsättningstillgångar |  |  |  |  |  |
 | Förråd, lager och fastigheter för försäljning | 135 | 135 | 135 | 135 | 135 |
-| --- | --- | --- | --- | --- | --- |
 | Fordringar | 565 | 565 | 565 | 565 | 565 |
 | Kassa o bank | 531 | 211 | 168 | 101 | 139 |
 | Summa omsättningstillgångar | 1 231 | 911 | 868 | 801 | 838 |
 | SUMMA TILLGÅNGAR | 11 766 | 12 361 | 13 392 | 14 094 | 14 513 |
-
-[Tabell 89-4](handlingar.tabeller/89-4.csv)
-
+| EGET KAPITAL, AVSÄTTNINGAR OCH SKULDER |  |  |  |  |  |
+| Eget kapital |  |  |  |  |  |
 | Eget kapital vid årets början | 4 251 | 4 862 | 5 182 | 5 546 | 5 992 |
-| --- | --- | --- | --- | --- | --- |
 | ¹ Justering av egetkapital | 7 |  |  |  |  |
 | Årets resultat | 604 | 320 | 364 | 446 | 444 |
 | Summa eget kapital vid årets slut | 4 862 | 5 182 | 5 546 | 5 992 | 6 436 |
-
-[Tabell 89-5](handlingar.tabeller/89-5.csv)
-
+| Avsättningar |  |  |  |  |  |
 | Avsättningar för pensioner och liknande förpliktelser | 2 184 | 2 104 | 2 022 | 1 978 | 1 953 |
-| --- | --- | --- | --- | --- | --- |
 | Andra avsättningar | 283 | 288 | 289 | 289 | 289 |
 | Summa avsättningar | 2 467 | 2 393 | 2 310 | 2 267 | 2 242 |
-
-[Tabell 89-6](handlingar.tabeller/89-6.csv)
-
+| Skulder |  |  |  |  |  |
 | Långfristiga skulder | 3 402 | 3 752 | 4 502 | 4 802 | 4 802 |
-| --- | --- | --- | --- | --- | --- |
 | -Varav låneskuld | 1 050 | 1 400 | 2 150 | 2 450 | 2 450 |
 | -Varav långfristig leasingskuld, finansiell leasing | 1 445 | 1 445 | 1 445 | 1 445 | 1 445 |
-| -Varav långfristig skuld anslutningsavgifter, statliga | 907 | 907 | 907 | 907 | 907 |
-
-[Tabell 89-7](handlingar.tabeller/89-7.csv)
-
+| -Varav långfristig skuld anslutningsavgifter, statliga investeringsbidrag samt övriga långfristiga skulder | 907 | 907 | 907 | 907 | 907 |
 | Kortfristiga skulder | 1 035 | 1 034 | 1 034 | 1 034 | 1 034 |
-| --- | --- | --- | --- | --- | --- |
 | Summa skulder | 4 438 | 4 787 | 5 537 | 5 837 | 5 837 |
 | Summa eget kapital, avsättningar och skulder | 11 766 | 12 361 | 13 392 | 14 094 | 14 513 |
 | Soliditet | 41,3% | 41,9% | 41,4% | 42,5% | 44,3% |
@@ -4294,10 +4190,6 @@ Investeringar totalt, Tusen Årsbudget Budget Budget Plan 2028 Plan 2029 Plan 20
 kronor (Tkr)      2026 inkl. omb. 2027                           2031
 2026
 
-Delsumma         553 397 712 397 1 299 362 1 265 909 1 121 487 1 366 249 1 260 736 6 313 743
-
-exploateringar och lokaler
-
 60 Kommunbudget 2027 och plan 2028–2029
 
 [Tabell 101-1](handlingar.tabeller/101-1.csv)
@@ -4310,13 +4202,10 @@ exploateringar och lokaler
 | Reinvesteringar | 38 750 | 38 750 | 35 500 | 44 750 | 47 250 | 48 550 | 45 750 | 221 800 |
 | Delsumma | 425 035 | 621 504 | 1 141 486 | 953 223 | 778 511 | 1 053 860 | 995 715 | 4 922 795 |
 | Exploateringar (in/ut) | 128 362 | 90 893 | 157 876 | 312 686 | 342 976 | 312 389 | 265 021 | 1 390 948 |
-
-[Tabell 101-2](handlingar.tabeller/101-2.csv)
-
+| Delsumma | 553 397 | 712 397 | 1 299 362 | 1 265 909 | 1 121 487 | 1 366 249 | 1 260 736 | 6 313 743 |
 | Avgiftsfinansierade inv | 918 650 | 919 151 | 947 972 | 678 360 | 535 390 | 419 500 | 395 850 | 2 977 072 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Kommunjustering totalt |  |  | -402 700 | -446 300 | -463 000 | -533 300 | -497 000 | -2 342 300 |
-| Summa investeringar inkl | 1 472 047 | 1 631 548 | 1 844 634 | 1 497 969 | 1 193 877 | 1 252 449 | 1 159 586 | 6 948 515 |
+| Summa investeringar inkl exploateringar och lokaler | 1 472 047 | 1 631 548 | 1 844 634 | 1 497 969 | 1 193 877 | 1 252 449 | 1 159 586 | 6 948 515 |
 
 <!-- sida 102 -->
 
@@ -4350,9 +4239,8 @@ Kommunbudget 2027 och plan 2028–2029 61
 
 [Tabell 102-1](handlingar.tabeller/102-1.csv)
 
-| Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- |
+| Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- 2031 |
 | --- | --- | --- | --- | --- |
-|  |  |  |  | 2031 |
 | KS/Samhällsbyggnad | 500 | 500 | 500 | 1 000 |
 | Markköp | 40 000 | 40 000 | 40 000 | 80 000 |
 | Lokalplan | 754 630 | 630 919 | 381 657 | 890 864 |
@@ -4361,9 +4249,8 @@ Kommunbudget 2027 och plan 2028–2029 61
 
 [Tabell 102-2](handlingar.tabeller/102-2.csv)
 
-| Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- |
+| Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- 2031 |
 | --- | --- | --- | --- | --- |
-|  |  |  |  | 2031 |
 | Löpande | 6 500 | 6 500 | 6 500 | 13 000 |
 | Reinvesteringar | 5 500 | 4 800 | 8 000 | 9 900 |
 | Övriga investeringar | 26 000 | 5 000 | 5 000 | 18 000 |
@@ -4383,12 +4270,6 @@ Löpande investeringar, Summa   2 500     2 500     2 500    5 000
 Vård & Omsorg
 
 Service
-Investeringar, belopp i tusen kronor Budget 2027 Plan 2028 Plan 2029 Plan 2030-
-2031
-Löpande                       14 400    15 200    27 800    38 900
-Övriga                         13 200    9 200    12 800    28 100
-
-Lokaler & reinvesteringar
 
 Teknik, skattefinansierat
 
@@ -4409,17 +4290,20 @@ Summa                         947 972   678 360  535 390   815 350
 
 [Tabell 103-1](handlingar.tabeller/103-1.csv)
 
-| Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- |
+| Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- 2031 |
 | --- | --- | --- | --- | --- |
-|  |  |  |  | 2031 |
 | Löpande investeringar | 6 000 | 6 000 | 6 000 | 13 000 |
 | Övriga investeringar | 2 650 | 2 700 | 2 750 | 5 600 |
 | Summa | 8 650 | 8 700 | 8 750 | 18 600 |
 
 [Tabell 103-2](handlingar.tabeller/103-2.csv)
 
-| Löpande |  |  |  | 1 000 |
+| Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- 2031 |
 | --- | --- | --- | --- | --- |
+| Löpande | 14 400 | 15 200 | 27 800 | 38 900 |
+| Övriga | 13 200 | 9 200 | 12 800 | 28 100 |
+| Lokaler & reinvesteringar |  |  |  |  |
+| Löpande |  |  |  | 1 000 |
 | Verksamhetsanpassningar | 7 000 | 5 000 | 5 000 | 10 000 |
 | Reinvesteringar | 102 200 | 92 500 | 177 600 | 690 400 |
 | Ombudget från 2025 reinvesteringar | 7 000 |  |  |  |
@@ -4429,9 +4313,8 @@ Summa                         947 972   678 360  535 390   815 350
 
 [Tabell 103-3](handlingar.tabeller/103-3.csv)
 
-| Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- |
+| Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- 2031 |
 | --- | --- | --- | --- | --- |
-|  |  |  |  | 2031 |
 | Löpande | 10 000 | 9 900 | 10 000 | 20 000 |
 | Reinvesteringar | 30 000 | 39 950 | 39 250 | 84 400 |
 | Övriga investeringar | 80 000 | 70 150 | 70 750 | 135 600 |
@@ -4468,20 +4351,12 @@ Kommunbudget 2027 och plan 2028–2029 63
 | Inbetalningar | -398 552 | -320 638 | -315 141 | -319 801 | -371 745 |
 | Utbetalningar | 234 471 | 393 626 | 370 626 | 330 389 | 278 021 |
 | Summa kassaflöde | -164 081 | 72 988 | 55 485 | 10 588 | -93 724 |
-
-[Tabell 104-2](handlingar.tabeller/104-2.csv)
-
 | Utgifter anläggningstillgång Bostäder | 65 638 | 188 356 | 155 971 | 164 439 | 241 721 |
-| --- | --- | --- | --- | --- | --- |
 | Utgifter anläggningstillgång Verksamheter | 68 808 | 47 900 | 49 080 | 47 000 | 15 000 |
 | Utgifter anläggningstillgång Övriga projekt | 6 200 | 44 780 | 92 775 | 90 050 | 0 |
 | Utgifter mark - Inv | 17 230 | 31 650 | 45 150 | 10 900 | 8 300 |
 | Summa balansräkning | 157 876 | 312 686 | 342 976 | 312 389 | 265 021 |
-
-[Tabell 104-3](handlingar.tabeller/104-3.csv)
-
 | Kostnader Bostäder drift | 8 850 | 13 150 | 16 650 | 12 000 | 10 000 |
-| --- | --- | --- | --- | --- | --- |
 | Kostnader Verksamheter drift | 10 560 | 2 640 | 0 | 0 | 0 |
 | Kostnader Övriga projekt drift | 50 900 | 56 200 | 6 000 | 3 000 | 3 000 |
 | Kostnader mark - Drift | 6 285 | 8 950 | 5 000 | 3 000 | 0 |
@@ -5056,33 +4931,28 @@ Magdalena Sundqvist
 
 <!-- sida 120 -->
 
-Socialdemokraternas satsningar, Skuggbudget 2027
-(miljoner kronor)
-Drift Investeringar
-Personalsatsningar - arbetsmiljödirektiv, friskvårdsbidrag, skor och minnesgåva 10
-Dubblera LOK-stödet till föreningar                 8
+[Tabell 120-1](handlingar.tabeller/120-1.csv)
 
-Anställa 60 nya lärare                              45
-Förebyggande och främjande, nämndsövergripande inom Främjande 4:an 30
-Vård & Omsorg, 100 %-ig volymtilldelning samt nivåhöjande, åtgärda tidigare försämringar 50
-
-Nivåhöjande inom Förskola & Grundskola med fokus på elevhälsa 25
-Nivåhöjande inom IF, höjning av dagersättning - daglig verksamhet samt ökad grundbemanning 25
-
-Råvaror till de måltider som serveras inom bland annat skola och boenden 10
-Färdtjänst, endast en zon i hela Kungsbacka         5
-
-Studieförbund, kompensation för regeringens försämringar samt möjliggöra utveckling 7
-Friskvård gymnasieelever, stödja tonåringar till aktiv fritid 3
-
-Kulturskola för hundralappen, alla unga ska ha råd med kulturskola 4,5
-6-timmars projekt, ett hållbart arbetsliv - hela livet 5
-Klimat direktiv - Kungsbacka kommuns alla verksamheter ska medverka 10
-
-Markinköp - möjliggöra för näringsliv och bostäder        40
-Offentlig konst - skapa ett attraktivt Kungsbacka         5,4
-
-Totalt                                             237,5  45,4
+| Socialdemokraternas satsningar, Skuggbudget 2027<br>(miljoner kronor) |  |  |
+| --- | --- | --- |
+|  | Drift | Investeringar |
+| Personalsatsningar - arbetsmiljödirektiv, friskvårdsbidrag, skor och minnesgåva | 10 |  |
+| Dubblera LOK-stödet till föreningar | 8 |  |
+| Anställa 60 nya lärare | 45 |  |
+| Förebyggande och främjande, nämndsövergripande inom Främjande 4:an | 30 |  |
+| Vård & Omsorg, 100 %-ig volymtilldelning samt nivåhöjande, åtgärda tidigare försämringar | 50 |  |
+| Nivåhöjande inom Förskola & Grundskola med fokus på elevhälsa | 25 |  |
+| Nivåhöjande inom IF, höjning av dagersättning - daglig verksamhet samt ökad grundbemanning | 25 |  |
+| Råvaror till de måltider som serveras inom bland annat skola och boenden | 10 |  |
+| Färdtjänst, endast en zon i hela Kungsbacka | 5 |  |
+| Studieförbund, kompensation för regeringens försämringar samt möjliggöra utveckling | 7 |  |
+| Friskvård gymnasieelever, stödja tonåringar till aktiv fritid | 3 |  |
+| Kulturskola för hundralappen, alla unga ska ha råd med kulturskola | 4,5 |  |
+| 6-timmars projekt, ett hållbart arbetsliv - hela livet | 5 |  |
+| Klimat direktiv - Kungsbacka kommuns alla verksamheter ska medverka | 10 |  |
+| Markinköp - möjliggöra för näringsliv och bostäder |  | 40 |
+| Offentlig konst - skapa ett attraktivt Kungsbacka |  | 5,4 |
+| Totalt | 237,5 | 45,4 |
 
 <!-- sida 121 -->
 
@@ -6316,59 +6186,46 @@ samt hjälpmedel.
 
 Här får du en snabb överblick över kommunens ekonomiska utveckling under tio år.
 
-2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028
-Skatt
-Kommunal skattesats, % 21,33 21,33 21,33 21,33 21,33 21,33 21,33 21,33 21,18 21,18 21,18
-Invånare
-
-Resultat och volymer
-Årets resultat, 171  210 415  464  753 231  286  261 320  319  346
-miljoner kronor
-Årets resultat i andel av 3,6 4,2 7,9 8,4 13,1 3,8 4,6 4,0 4,8 4,7 4,9
-skatteintäkter och stats-
-bidrag, %
-Pensionskostnader, 215 253 290 307 259 515  625  345 299  335  353
-m iljoner kronor
-Pensionskostnader, 2 580 2 998 3 415 3 599 3 019 6 013 7 285 4 003 3 469 3 884 4 087
-kronor per invånare
-Nettoinvesteringar, 744 948 857 623 809 1 011 819 1 291 1 472 2 377 2 264
-m iljoner kronor
-– varav inom skatte­ 674 748 695 503 608 659 441 712 553 1 458 1 553
-finansierad verksamhet
-– varav inom avgifts­ 70 200 120 120 201 352 378 579 919  919  711
-finansierad verksamhet
-Tillgångar,    6 215 7 053 7 859 8 634 10 586 11 061 11 383 12 128 12 449 13 918 15 118
-miljoner kronor
 Tillgångar,   74 567 83 567 92 535 101 218 123 379 129 137 132 681 140 724 144 442 161 372 175 040
 kronor per invånare
-Soliditet, procent 28,4 31,5 33,3 35,5 35,4 35,9 37,4 35,0 41,9 39,8 38,9
-Likviditet,     194  156 381  372  426 291  416  341 255   111 154
-miljoner kronor
-Likviditet,    2 328 1 848 4 486 4 361 4 965 3 397 4 849 3 957 2 959 1 287 1 783
-kronor per invånare
-Låneskuld,      950 1 350 1 561 1 576 1 300 1 200 1 200 1 050 1 400 2 600 3 500
-miljoner kronor
-Låneskuld,     11 398 15 996 18 380 18 480 15 151 14 010 13 987 12 183 16 244 30 146 40 524
-kronor per invånare
-Pensionsskuld, 1 673 1 689 1 747 1 795 1789 1 946 2 202 2 181 2 107 2 056 2 010
-miljoner kronor
-Pensionsskuld, 20 072 20 015 20 570 21 043 20 851 22 720 25 667 25 307 24 447 23 838 23 272
-kronor per invånare
-Borgensåtagande, 3 059 3 283 3 412 3 502 3 493 3 484 3 476 3 476 3 476 3 476 3 476
-m iljoner kronor
-Borgensåtagande, 36 702 38 900 40 174 41 049 40 710 40 676 40 517 40 333 40 331 40 302 40 246
-kronor per invånare
+
 \* Jämförelsetalen för 2019 är justerade med anledning av övergång till RKR R2 under 2020. Åren dessförinnan bygger på tidigare gällande redovisningsprincip.
 
 [Tabell 152-1](handlingar.tabeller/152-1.csv)
 
-| Antal invånare 31/12 | 83 348 | 84 395 | 84 930 | 85 301 | 85 801 | 85 653 | 85 792 | 86 183 | 86 187 | 86 248 | 86 369 |
+|  | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Skatt |  |  |  |  |  |  |  |  |  |  |  |
+| Kommunal skattesats, % | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,18 | 21,18 | 21,18 |
+| Invånare |  |  |  |  |  |  |  |  |  |  |  |
+| Antal invånare 31/12 | 83 348 | 84 395 | 84 930 | 85 301 | 85 801 | 85 653 | 85 792 | 86 183 | 86 187 | 86 248 | 86 369 |
 | Födda | 822 | 805 | 763 | 778 | 742 | 702 | 696 | 680 | 691 | 680 | 686 |
 | Döda | 615 | 573 | 643 | 678 | 682 | 690 | 652 | 735 | 755 | 775 | 793 |
 | Inflyttning | 4 552 | 4 277 | 4 066 | 4 087 | 3 974 | 3 603 | 3 881 | 4 141 | 3 801 | 3 889 | 3 965 |
 | Utflyttning | 3 404 | 3 480 | 3 663 | 3 842 | 3 572 | 3 768 | 3 788 | 3 695 | 3 735 | 3 734 | 3 737 |
 | Folkökning | 1 355 | 1 029 | 523 | 371 | 500 | -148 | 139 | 391 | 4 | 61 | 121 |
+| Resultat och volymer |  |  |  |  |  |  |  |  |  |  |  |
+| Årets resultat, miljoner kronor | 171 | 210 | 415 | 464 | 753 | 231 | 286 | 261 | 320 | 319 | 346 |
+| Årets resultat i andel av skatteintäkter och stats- bidrag, % | 3,6 | 4,2 | 7,9 | 8,4 | 13,1 | 3,8 | 4,6 | 4,0 | 4,8 | 4,7 | 4,9 |
+| Pensionskostnader, m iljoner kronor | 215 | 253 | 290 | 307 | 259 | 515 | 625 | 345 | 299 | 335 | 353 |
+| Pensionskostnader, kronor per invånare | 2 580 | 2 998 | 3 415 | 3 599 | 3 019 | 6 013 | 7 285 | 4 003 | 3 469 | 3 884 | 4 087 |
+| Nettoinvesteringar, m iljoner kronor | 744 | 948 | 857 | 623 | 809 | 1 011 | 819 | 1 291 | 1 472 | 2 377 | 2 264 |
+| – varav inom skatte­ finansierad verksamhet | 674 | 748 | 695 | 503 | 608 | 659 | 441 | 712 | 553 | 1 458 | 1 553 |
+| – varav inom avgifts­ finansierad verksamhet | 70 | 200 | 120 | 120 | 201 | 352 | 378 | 579 | 919 | 919 | 711 |
+| Tillgångar, miljoner kronor | 6 215 | 7 053 | 7 859 | 8 634 | 10 586 | 11 061 | 11 383 | 12 128 | 12 449 | 13 918 | 15 118 |
+
+[Tabell 152-2](handlingar.tabeller/152-2.csv)
+
+| Soliditet, procent | 28,4 | 31,5 | 33,3 | 35,5 | 35,4 | 35,9 | 37,4 | 35,0 | 41,9 | 39,8 | 38,9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Likviditet, miljoner kronor | 194 | 156 | 381 | 372 | 426 | 291 | 416 | 341 | 255 | 111 | 154 |
+| Likviditet, kronor per invånare | 2 328 | 1 848 | 4 486 | 4 361 | 4 965 | 3 397 | 4 849 | 3 957 | 2 959 | 1 287 | 1 783 |
+| Låneskuld, miljoner kronor | 950 | 1 350 | 1 561 | 1 576 | 1 300 | 1 200 | 1 200 | 1 050 | 1 400 | 2 600 | 3 500 |
+| Låneskuld, kronor per invånare | 11 398 | 15 996 | 18 380 | 18 480 | 15 151 | 14 010 | 13 987 | 12 183 | 16 244 | 30 146 | 40 524 |
+| Pensionsskuld, miljoner kronor | 1 673 | 1 689 | 1 747 | 1 795 | 1789 | 1 946 | 2 202 | 2 181 | 2 107 | 2 056 | 2 010 |
+| Pensionsskuld, kronor per invånare | 20 072 | 20 015 | 20 570 | 21 043 | 20 851 | 22 720 | 25 667 | 25 307 | 24 447 | 23 838 | 23 272 |
+| Borgensåtagande, m iljoner kronor | 3 059 | 3 283 | 3 412 | 3 502 | 3 493 | 3 484 | 3 476 | 3 476 | 3 476 | 3 476 | 3 476 |
+| Borgensåtagande, kronor per invånare | 36 702 | 38 900 | 40 174 | 41 049 | 40 710 | 40 676 | 40 517 | 40 333 | 40 331 | 40 302 | 40 246 |
 
 <!-- sida 153 -->
 
@@ -7634,41 +7491,36 @@ KUNGSBACKAS FÖRUTSÄTTNINGAR
 Övriga tillägg
 
 Övriga tillkommande tillägg från och med kommunbudget 2026
-Tillägg tusen kronor, Tkr                     Plan Plan Plan
-2026 2027 2028
-Förskola & Grundskola, från och med 2026     30 000 30 000 30 000
-Gymnasium & Arbetsmarknad, från och med 2026  3 000 3 000 3 000
-Individ & Familjeomsorg, från och med 2026   20 000 20 000 20 000
-Vård & Omsorg, från och med 2026             10 000 10 000 10 000
-Trygg uppväxt                                10 000 10 000 10 000
-
-Ökade livsmedelspriser från 2026 utöver 3,1 procent, fördelas från Service till FG, GA, VO 3 000 3 000 3 000
-och IF
-Kommunfullmäktige politikerutbildning ny mandatperiod 2 250
-Summa övriga tillägg 2026–2028               76 000 78 250 76 000
 
 Kvarstående övriga tillägg från kommunbudget 2025
-Tillägg tusen kronor, Tkr                      Plan Plan Plan
-2026 2027 2028
-Service, ekonomisk rådgivning, ingår i ram     700  700  700
-Gymnasium & Arbetsmarknad, ingår i ram        3 000 3 000 3 000
-Förskola & Grundskola, ingår i ram            5 000 5 000 5 000
-Individ & Familjeomsorg, ingår i ram          2 000 2 000 2 000
-Vård & Omsorg, ingår i ram                    5 000 5 000 5 000
-Ersättning ökade måltidspriser upp till 7,2 procent för FG, GA, VO, IF, (mellanskillnad 3 706 3 706 3 706
-mellan 3,9 procent upp till 7,2 procent), ingår i ram
-Ersättning ökade måltidspriser 0,5 procent för FG, GA, VO, IF, (totalt 3 procent 5 978 tkr), 996 996 996
-ingår i ram
-
-2025 som kvarstår i ramen
-Summa kvarstående övriga tillägg från 2025 som ingår i ram 76 662 75 032 47 032
 
 38 Kommunbudget 2026 och plan 2027–2028
 
 [Tabell 181-1](handlingar.tabeller/181-1.csv)
 
-| Valnämnden, tillägg för valår 2026 tillägg endast ettårigt | 1 630 |  |  |
+| Tillägg tusen kronor, Tkr | Plan 2026 | Plan 2027 | Plan 2028 |
 | --- | --- | --- | --- |
+| Förskola & Grundskola, från och med 2026 | 30 000 | 30 000 | 30 000 |
+| Gymnasium & Arbetsmarknad, från och med 2026 | 3 000 | 3 000 | 3 000 |
+| Individ & Familjeomsorg, från och med 2026 | 20 000 | 20 000 | 20 000 |
+| Vård & Omsorg, från och med 2026 | 10 000 | 10 000 | 10 000 |
+| Trygg uppväxt | 10 000 | 10 000 | 10 000 |
+| Ökade livsmedelspriser från 2026 utöver 3,1 procent, fördelas från Service till FG, GA, VO och IF | 3 000 | 3 000 | 3 000 |
+| Kommunfullmäktige politikerutbildning ny mandatperiod |  | 2 250 |  |
+| Summa övriga tillägg 2026–2028 | 76 000 | 78 250 | 76 000 |
+
+[Tabell 181-2](handlingar.tabeller/181-2.csv)
+
+| Tillägg tusen kronor, Tkr | Plan 2026 | Plan 2027 | Plan 2028 |
+| --- | --- | --- | --- |
+| Service, ekonomisk rådgivning, ingår i ram | 700 | 700 | 700 |
+| Gymnasium & Arbetsmarknad, ingår i ram | 3 000 | 3 000 | 3 000 |
+| Förskola & Grundskola, ingår i ram | 5 000 | 5 000 | 5 000 |
+| Individ & Familjeomsorg, ingår i ram | 2 000 | 2 000 | 2 000 |
+| Vård & Omsorg, ingår i ram | 5 000 | 5 000 | 5 000 |
+| Ersättning ökade måltidspriser upp till 7,2 procent för FG, GA, VO, IF, (mellanskillnad mellan 3,9 procent upp till 7,2 procent), ingår i ram | 3 706 | 3 706 | 3 706 |
+| Ersättning ökade måltidspriser 0,5 procent för FG, GA, VO, IF, (totalt 3 procent 5 978 tkr), ingår i ram | 996 | 996 | 996 |
+| Valnämnden, tillägg för valår 2026 tillägg endast ettårigt | 1 630 |  |  |
 | Kommunrevisionen uppräkning utöver 2,5 procent, ingår i ram | 100 | 100 | 100 |
 | Kommunfullmäktige arvoden, ingår i ram | 530 | 530 | 530 |
 | Främja välmående motverka psykisk ohälsa, ingår i ram och kvarstår under planperioden | 5 000 | 5 000 |  |
@@ -7679,6 +7531,8 @@ Summa kvarstående övriga tillägg från 2025 som ingår i ram 76 662 75 032 47
 | Vård & Omsorg, från och med 2025 som kvarstår i ramen | 2 000 | 2 000 | 2 000 |
 | Friskvårdsaktiviteter enligt nytt direktiv från 2025–2027 | 3 000 | 3 000 |  |
 | Förändrade redovisningsregler för Teknik, från investering till driftkostnad från och med | 4 000 | 4 000 | 4 000 |
+| 2025 som kvarstår i ramen |  |  |  |
+| Summa kvarstående övriga tillägg från 2025 som ingår i ram | 76 662 | 75 032 | 47 032 |
 
 <!-- sida 182 -->
 
@@ -8009,12 +7863,6 @@ FINANSIELLA RAPPORTER
 
 Kassaflödesanalys
 
-Belopp i miljoner kronor   Bokslut Budget April- Budget Plan Plan
-2024  2025 uppföljning 2026 2027 2028
-inkl ombudget 2025
-
-Kassaflöde från den löpande verksamheten
-
 Poster som redovisas i annan sektion
 Investeringsintäkter, exploateringsersättningar, 189 202 84 174 514
 investeringsbidrag
@@ -8042,8 +7890,10 @@ Kommunbudget 2026 och plan 2027–2028 45
 
 [Tabell 188-1](handlingar.tabeller/188-1.csv)
 
-| Årets Resultat | 286 | 261 | 642 | 320 | 319 | 346 |
+| Belopp i miljoner kronor | Bokslut 2024 | Budget 2025 inkl ombudget | Apriluppföljning 2025 | Budget 2026 | Plan 2027 | Plan 2028 |
 | --- | --- | --- | --- | --- | --- | --- |
+| Kassaflöde från den löpande verksamheten |  |  |  |  |  |  |
+| Årets Resultat | 286 | 261 | 642 | 320 | 319 | 346 |
 | Avskrivningar | 506 | 566 | 530 | 540 | 560 | 583 |
 | Övriga ej likvidpåverkande poster | 355 | -0,5 | -22 | -74 | -51 | -46 |
 | Övriga likvidpåverkande poster | -97 |  |  |  |  |  |
@@ -8095,7 +7945,6 @@ Avsättningar
 
 Skulder
 
-investeringsbidrag samt övriga långfristiga skulder
 Kortfristiga skulder              1 024 1 149   1 024 1 024 1 024 1 024
 Summa skulder                     4 605 5 333   4 455 4 805 6 005 6 905
 
@@ -8147,7 +7996,7 @@ Soliditet                         37,4% 35,0%   41,4% 41,9% 39,8% 38,9%
 | --- | --- | --- | --- | --- | --- | --- |
 | -Varav låneskuld | 1 200 | 1 750 | 1 050 | 1 400 | 2 600 | 3 500 |
 | ­Varav långfristig leasingskuld, finansiell leasing | 1 527 | 1 605 | 1 527 | 1 527 | 1 527 | 1 527 |
-| -Varav långfristig skuld anslutningsavgifter, statliga | 853 | 829 | 853 | 853 | 853 | 853 |
+| -Varav långfristig skuld anslutningsavgifter, statliga investeringsbidrag samt övriga långfristiga skulder | 853 | 829 | 853 | 853 | 853 | 853 |
 
 <!-- sida 190 -->
 
@@ -8617,33 +8466,23 @@ själv utifrån det utrymme som finns för att finansiera
 driftskostnaderna.                Följande tabeller visar investeringarna totalt och per
 nämnd.
 
-Investeringar totalt, Tusen Årsbudget Budget Budget Plan 2027 Plan 2028 Plan 2029 Plan 2030 Plan 2026-
-kronor (Tkr)      2025 inkl. omb. 2026                          2030
-2025
-
-Delsumma        753 096 746 777 553 397 1 458 064 1 552 723 1 267 498 1 346 125 6 177 805
-
-exploateringar och lokaler
-
 58 Kommunbudget 2026 och plan 2027–2028
 
 [Tabell 201-1](handlingar.tabeller/201-1.csv)
 
-| Löpande investeringar | 80 295 | 80 295 | 68 855 | 74 455 | 74 505 | 91 655 | 90 955 | 400 425 |
+| Investeringar totalt, Tusen kronor (Tkr) | Årsbudget 2025 | Budget inkl. omb. 2025 | Budget 2026 | Plan 2027 | Plan 2028 | Plan 2029 | Plan 2030 | Plan 2026- 2030 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Löpande investeringar | 80 295 | 80 295 | 68 855 | 74 455 | 74 505 | 91 655 | 90 955 | 400 425 |
 | Lokalinvesteringar SE | 77 850 | 218 852 | 108 940 | 126 210 | 237 800 | 279 660 | 276 500 | 1 029 110 |
 | Lokalplan | 251 800 | 188 456 | 90 640 | 760 780 | 663 044 | 441 868 | 568 291 | 2 524 621 |
 | Övriga investeringar | 93 350 | 125 646 | 117 850 | 143 200 | 109 300 | 70 400 | 77 450 | 518 200 |
 | Reinvesteringar | 29 200 | 29 200 | 38 750 | 23 000 | 24 800 | 49 500 | 38 900 | 174 950 |
 | Delsumma | 532 495 | 642 449 | 425 035 | 1 127 645 | 1 109 449 | 933 083 | 1 052 096 | 4 647 306 |
 | Exploateringar (in/ut) | 220 601 | 104 328 | 128 362 | 330 419 | 443 274 | 334 415 | 294 029 | 1 530 499 |
-
-[Tabell 201-2](handlingar.tabeller/201-2.csv)
-
+| Delsumma | 753 096 | 746 777 | 553 397 | 1 458 064 | 1 552 723 | 1 267 498 | 1 346 125 | 6 177 805 |
 | Avgiftsfinansierade inv | 584 580 | 579 449 | 918 650 | 918 850 | 711 360 | 528 740 | 421 850 | 3 499 450 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Kommunjustering totalt | -35 000 | -35 000 |  |  |  |  |  |  |
-| Summa investeringar inkl | 1 302 676 | 1 291 226 | 1 472 047 | 2 376 914 | 2 264 083 | 1 796 238 | 1 767 975 | 9 677 255 |
+| Summa investeringar inkl exploateringar och lokaler | 1 302 676 | 1 291 226 | 1 472 047 | 2 376 914 | 2 264 083 | 1 796 238 | 1 767 975 | 9 677 255 |
 
 <!-- sida 202 -->
 
@@ -8679,9 +8518,8 @@ Kommunbudget 2026 och plan 2027–2028 59
 
 [Tabell 202-1](handlingar.tabeller/202-1.csv)
 
-| Investeringar, belopp i tusen kronor | Budget 2026 | Plan 2027 | Plan 2028 | Plan 2029- |
+| Investeringar, belopp i tusen kronor | Budget 2026 | Plan 2027 | Plan 2028 | Plan 2029- 2030 |
 | --- | --- | --- | --- | --- |
-|  |  |  |  | 2030 |
 | KS/Samhällsbyggnad | 500 | 500 | 500 | 1 000 |
 | Markköp | 40 000 | 40 000 | 40 000 | 80 000 |
 | Lokalplan 2024 | 90 640 | 760 780 | 663 044 | 1 010 158 |
@@ -8690,9 +8528,8 @@ Kommunbudget 2026 och plan 2027–2028 59
 
 [Tabell 202-2](handlingar.tabeller/202-2.csv)
 
-| Investeringar, belopp i tusen kronor | Budget 2026 | Plan 2027 | Plan 2028 | Plan 2029- |
+| Investeringar, belopp i tusen kronor | Budget 2026 | Plan 2027 | Plan 2028 | Plan 2029- 2030 |
 | --- | --- | --- | --- | --- |
-|  |  |  |  | 2030 |
 | Löpande | 3 900 | 6 500 | 6 500 | 13 000 |
 | Reinvesteringar | 7 000 | 4 400 | 4 400 | 8 900 |
 | Övriga investeringar | 5 000 | 23 000 | 10 000 | 10 000 |
@@ -8711,12 +8548,6 @@ Löpande investeringar, Summa   2 500     2 500     2 500    5 000
 Vård & Omsorg
 
 Service
-Investeringar, belopp i tusen kronor Budget 2026 Plan 2027 Plan 2028 Plan 2029-
-2030
-Löpande                       23 400    24 200    25 100    73 100
-Övriga                         7 000     2 000    2 000     11 000
-
-Lokaler & reinvesteringar
 
 Teknik, skattefinansierat
 
@@ -8728,17 +8559,20 @@ Avgiftsfinansierad verksamhet
 
 [Tabell 203-1](handlingar.tabeller/203-1.csv)
 
-| Investeringar, belopp i tusen kronor | Budget 2026 | Plan 2027 | Plan 2028 | Plan 2029- |
+| Investeringar, belopp i tusen kronor | Budget 2026 | Plan 2027 | Plan 2028 | Plan 2029- 2030 |
 | --- | --- | --- | --- | --- |
-|  |  |  |  | 2030 |
 | Löpande investeringar | 6 000 | 6 000 | 6 000 | 12 500 |
 | Övriga investeringar | 2 600 | 2 650 | 2 700 | 5 550 |
 | Summa | 8 600 | 8 650 | 8 700 | 18 050 |
 
 [Tabell 203-2](handlingar.tabeller/203-2.csv)
 
-| Löpande | 1 000 |  |  | 1 000 |
+| Investeringar, belopp i tusen kronor | Budget 2026 | Plan 2027 | Plan 2028 | Plan 2029- 2030 |
 | --- | --- | --- | --- | --- |
+| Löpande | 23 400 | 24 200 | 25 100 | 73 100 |
+| Övriga | 7 000 | 2 000 | 2 000 | 11 000 |
+| Lokaler & reinvesteringar |  |  |  |  |
+| Löpande | 1 000 |  |  | 1 000 |
 | Verksamhetsanpassningar | 7 000 | 7 000 | 7 000 | 14 000 |
 | Reinvesteringar | 88 800 | 232 160 | 297 140 | 261 030 |
 | Tillägg Reinvesteringar | 10 000 | -112 950 | -66 340 | 281 130 |
@@ -8746,9 +8580,8 @@ Avgiftsfinansierad verksamhet
 
 [Tabell 203-3](handlingar.tabeller/203-3.csv)
 
-| Investeringar, belopp i tusen kronor | Budget 2026 | Plan 2027 | Plan 2028 | Plan 2029- |
+| Investeringar, belopp i tusen kronor | Budget 2026 | Plan 2027 | Plan 2028 | Plan 2029- 2030 |
 | --- | --- | --- | --- | --- |
-|  |  |  |  | 2030 |
 | Löpande | 9 650 | 12 850 | 12 000 | 33 200 |
 | Reinvesteringar | 31 750 | 18 600 | 20 400 | 79 500 |
 | Övriga investeringar\* | 40 100 | 55 050 | 54 100 | 40 300 |
@@ -8756,9 +8589,8 @@ Avgiftsfinansierad verksamhet
 
 [Tabell 203-4](handlingar.tabeller/203-4.csv)
 
-| Investeringar, belopp i tusen kronor | Budget 2026 | Plan 2027 | Plan 2028 | Plan 2029- |
+| Investeringar, belopp i tusen kronor | Budget 2026 | Plan 2027 | Plan 2028 | Plan 2029- 2030 |
 | --- | --- | --- | --- | --- |
-|  |  |  |  | 2030 |
 | Kungsbacka bredband | 22 000 | 22 000 | 22 300 | 35 200 |
 | Avfall & Återvinning | 65 000 | 25 000 | 56 000 | 94 000 |
 | Vatten & Avlopp | 831 650 | 871 850 | 633 060 | 821 390 |
@@ -8795,20 +8627,12 @@ Kommunbudget 2026 och plan 2027–2028 61
 | Inbetalningar | -156 299 | -252 788 | -528 567 | -428 293 | -354 775 |
 | Utbetalningar | 200 462 | 409 019 | 457 474 | 342 415 | 294 029 |
 | Summa kassaflöde | 44 163 | 156 231 | -71 093 | -85 878 | -60 746 |
-
-[Tabell 204-2](handlingar.tabeller/204-2.csv)
-
 | Utgifter anläggningstillgång Bostäder | 45 823 | 140 818 | 245 629 | 235 760 | 226 259 |
-| --- | --- | --- | --- | --- | --- |
 | Utgifter anläggningstillgång Verksamheter | 42 089 | 64 576 | 88 895 | 56 255 | 53 970 |
 | Utgifter anläggningstillgång Övriga projekt | 13 900 | 94 275 | 95 650 | 19 500 | 5 500 |
 | Utgifter mark - Inv (OT) | 26 550 | 30 750 | 13 100 | 22 900 | 8 300 |
 | Summa balansräkning | 128 362 | 330 419 | 443 274 | 334 415 | 294 029 |
-
-[Tabell 204-3](handlingar.tabeller/204-3.csv)
-
 | Kostnader Bostäder drift | 26 450 | 19 050 | 8 200 | 2 000 | 0 |
-| --- | --- | --- | --- | --- | --- |
 | Kostnader Verksamheter drift | 2 000 | 11 200 | 0 | 0 | 0 |
 | Kostnader Övriga projekt drift | 41 000 | 34 000 | 6 000 | 3 000 | 0 |
 | Kostnader mark - Drift | 2 650 | 14 350 | 0 | 3 000 | 0 |
@@ -13993,12 +13817,25 @@ enligt kommunstyrelsens arbetsutskotts förslag.
 
 Expedierat/bestyrkt
 
-[Tabell 331-1](handlingar.tabeller/331-1.csv)
+[Tabell 331-332-1](handlingar.tabeller/331-332-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
 | Emanuel Forsell (M) | X |  |  |
 | Hravn Forsne (M) | X |  |  |
+| Berit Bergström (M) | X |  |  |
+| Axel Storckenfeldt (M) | X |  |  |
+| Thure Sandén (M) | X |  |  |
+| Magdalena Sundqvist (S) |  | X |  |
+| Ann-Louise Lundqvist (S) |  | X |  |
+| Stefan Jägnert (SD) |  | X |  |
+| Stefan Vilumsons (SD) |  | X |  |
+| Fredrik Hansson (C) | X |  |  |
+| Monica Neptun (L) | X |  |  |
+| Fredrik Kollberg (KD) | X |  |  |
+| Patrik Jervne Henestam (V) |  | X |  |
+| Maria Losman (MP) |  | X |  |
+| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 332 -->
 
@@ -14017,23 +13854,6 @@ Lagfaren ägare till Vallda 20:3, lagfaren ägare till Bröndome 1:2, lagfaren �
 Vallda 20:59
 
 Expedierat/bestyrkt
-
-[Tabell 332-1](handlingar.tabeller/332-1.csv)
-
-| Berit Bergström (M) | X |  |  |
-| --- | --- | --- | --- |
-| Axel Storckenfeldt (M) | X |  |  |
-| Thure Sandén (M) | X |  |  |
-| Magdalena Sundqvist (S) |  | X |  |
-| Ann-Louise Lundqvist (S) |  | X |  |
-| Stefan Jägnert (SD) |  | X |  |
-| Stefan Vilumsons (SD) |  | X |  |
-| Fredrik Hansson (C) | X |  |  |
-| Monica Neptun (L) | X |  |  |
-| Fredrik Kollberg (KD) | X |  |  |
-| Patrik Jervne Henestam (V) |  | X |  |
-| Maria Losman (MP) |  | X |  |
-| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 333 -->
 
@@ -23612,52 +23432,70 @@ Stenungsunds kommun              31 352 259 32 355 531 33 423 264 34 492 808
 Lilla Edets kommun               14 318 330 14 776 517 15 264 142 15 752 594
 Summa                           655 655 747 676 636 731 698 965 743 721 332 647
 Infasningsavgifte fasas ut i etapper från och med 2028 -25 % -50 %
-Infasningsavgifter               2026   2027  2028  2029
-Tjörns kommun                    3 521 449 3 634 135 2 815 546 1 937 096
-Stenungsunds kommun              8 904 189 9 189 123 7 119 273 4 898 060
-Lilla Edets kommun               4 060 547 4 190 485 3 246 578 2 233 646
-Summa                            16 486 185 17 013 743 13 181 397 9 068 801
-Medlemsavgift för räddningstjänst + Infasningsavgift 2026 2027 2028 2029
-Göteborgs kommun                421 910 410 435 411 543 449 780 124 464 173 088
-Mölndals kommun                  39 501 562 40 765 612 42 110 877 43 458 425
-Kungsbacka kommun                58 444 476 60 314 699 62 305 084 64 298 847
-Partille kommun                  22 230 932 22 942 322 23 699 418 24 457 800
-Härryda kommun                   26 951 514 27 813 962 28 731 823 29 651 242
-Lerums kommun                    28 565 351 29 479 442 30 452 264 31 426 736
-Tjörns kommun                    15 902 362 16 411 238 16 014 293 15 558 202
-Stenungsunds kommun              40 256 448 41 544 654 40 542 537 39 390 868
-Lilla Edets kommun               18 378 877 18 967 001 18 510 719 17 986 240
-Summa                           672 141 932 693 650 474 712 147 140 730 401 448
+
 Forts nästa sida
+
+[Tabell 572-1](handlingar.tabeller/572-1.csv)
+
+| Infasningsavgifter | 2026 | 2027 | 2028 | 2029 |
+| --- | --- | --- | --- | --- |
+| Tjörns kommun | 3 521 449 | 3 634 135 | 2 815 546 | 1 937 096 |
+| Stenungsunds kommun | 8 904 189 | 9 189 123 | 7 119 273 | 4 898 060 |
+| Lilla Edets kommun | 4 060 547 | 4 190 485 | 3 246 578 | 2 233 646 |
+| Summa | 16 486 185 | 17 013 743 | 13 181 397 | 9 068 801 |
+
+[Tabell 572-2](handlingar.tabeller/572-2.csv)
+
+| Medlemsavgift för räddningstjänst + Infasningsavgift | 2026 | 2027 | 2028 | 2029 |
+| --- | --- | --- | --- | --- |
+| Göteborgs kommun | 421 910 410 | 435 411 543 | 449 780 124 | 464 173 088 |
+| Mölndals kommun | 39 501 562 | 40 765 612 | 42 110 877 | 43 458 425 |
+| Kungsbacka kommun | 58 444 476 | 60 314 699 | 62 305 084 | 64 298 847 |
+| Partille kommun | 22 230 932 | 22 942 322 | 23 699 418 | 24 457 800 |
+| Härryda kommun | 26 951 514 | 27 813 962 | 28 731 823 | 29 651 242 |
+| Lerums kommun | 28 565 351 | 29 479 442 | 30 452 264 | 31 426 736 |
+| Tjörns kommun | 15 902 362 | 16 411 238 | 16 014 293 | 15 558 202 |
+| Stenungsunds kommun | 40 256 448 | 41 544 654 | 40 542 537 | 39 390 868 |
+| Lilla Edets kommun | 18 378 877 | 18 967 001 | 18 510 719 | 17 986 240 |
+| Summa | 672 141 932 | 693 650 474 | 712 147 140 | 730 401 448 |
 
 <!-- sida 573 -->
 
 3(3)
 
 Bilaga sida 2 - Medlemskommunernas avgifter, kronor exkl moms
-Medlemsavgift för pensionskostnader\* 2026 2027 2028 2029
-Göteborgs kommun                 58 175 000 57 600 000 68 478 000 75 388 000
-Mölndals kommun                  5 451 000 5 397 000 6 417 000 7 064 000
-Kungsbacka kommun                8 055 000 7 975 000 9 482 000 10 438 000
-Partille kommun                  3 065 000 3 034 000 3 607 000 3 971 000
-Härryda kommun                   3 716 000 3 679 000 4 374 000 4 815 000
-Lerums kommun                    3 942 000 3 903 000 4 640 000 5 108 000
-Tjörns kommun                    1 709 000 1 692 000 2 011 000 2 214 000
-Stenungsunds kommun              4 321 000 4 279 000 5 087 000 5 600 000
-Lilla Edets kommun               1 971 000 1 951 000 2 320 000 2 554 000
-Summa                            90 405 000 89 510 000 106 416 000 117 152 000
+
 \*2027-2029 enligt KPA Prognos 2025-12-04 inkl avsättning för SAP-R
-Summa medlemsavgifter inkl infasningsavgifter och pensionkostnader 2026 2027 2028 2029
-Göteborgs kommun                480 085 410 493 011 543 518 258 124 539 561 088
-Mölndals kommun                  44 952 562 46 162 612 48 527 877 50 522 425
-Kungsbacka kommun                66 499 476 68 289 699 71 787 084 74 736 847
-Partille kommun                  25 295 932 25 976 322 27 306 418 28 428 800
-Härryda kommun                   30 667 514 31 492 962 33 105 823 34 466 242
-Lerums kommun                    32 507 351 33 382 442 35 092 264 36 534 736
-Tjörns kommun                    17 611 362 18 103 238 18 025 293 17 772 202
-Stenungsunds kommun              44 577 448 45 823 654 45 629 537 44 990 868
-Lilla Edets kommun               20 349 877 20 918 001 20 830 719 20 540 240
-Summa                           762 546 932 783 160 474 818 563 140 847 553 448
+
+[Tabell 573-1](handlingar.tabeller/573-1.csv)
+
+| Medlemsavgift för pensionskostnader\* | 2026 | 2027 | 2028 | 2029 |
+| --- | --- | --- | --- | --- |
+| Göteborgs kommun | 58 175 000 | 57 600 000 | 68 478 000 | 75 388 000 |
+| Mölndals kommun | 5 451 000 | 5 397 000 | 6 417 000 | 7 064 000 |
+| Kungsbacka kommun | 8 055 000 | 7 975 000 | 9 482 000 | 10 438 000 |
+| Partille kommun | 3 065 000 | 3 034 000 | 3 607 000 | 3 971 000 |
+| Härryda kommun | 3 716 000 | 3 679 000 | 4 374 000 | 4 815 000 |
+| Lerums kommun | 3 942 000 | 3 903 000 | 4 640 000 | 5 108 000 |
+| Tjörns kommun | 1 709 000 | 1 692 000 | 2 011 000 | 2 214 000 |
+| Stenungsunds kommun | 4 321 000 | 4 279 000 | 5 087 000 | 5 600 000 |
+| Lilla Edets kommun | 1 971 000 | 1 951 000 | 2 320 000 | 2 554 000 |
+| Summa | 90 405 000 | 89 510 000 | 106 416 000 | 117 152 000 |
+
+[Tabell 573-2](handlingar.tabeller/573-2.csv)
+
+| Summa medlemsavgifter inkl infasningsavgifter och pensionkostnader | 2026 | 2027 | 2028 | 2029 |
+| --- | --- | --- | --- | --- |
+| Göteborgs kommun | 480 085 410 | 493 011 543 | 518 258 124 | 539 561 088 |
+| Mölndals kommun | 44 952 562 | 46 162 612 | 48 527 877 | 50 522 425 |
+| Kungsbacka kommun | 66 499 476 | 68 289 699 | 71 787 084 | 74 736 847 |
+| Partille kommun | 25 295 932 | 25 976 322 | 27 306 418 | 28 428 800 |
+| Härryda kommun | 30 667 514 | 31 492 962 | 33 105 823 | 34 466 242 |
+| Lerums kommun | 32 507 351 | 33 382 442 | 35 092 264 | 36 534 736 |
+| Tjörns kommun | 17 611 362 | 18 103 238 | 18 025 293 | 17 772 202 |
+| Stenungsunds kommun | 44 577 448 | 45 823 654 | 45 629 537 | 44 990 868 |
+| Lilla Edets kommun | 20 349 877 | 20 918 001 | 20 830 719 | 20 540 240 |
+| Summa | 762 546 932 | 783 160 474 | 818 563 140 | 847 553 448 |
 
 <!-- sida 574 -->
 
@@ -24303,13 +24141,6 @@ kommunerna Tjörn, Stenungsund och Lilla Edet, vilket speglas i statistiken.
 Personalstatistik
 Uppgifter per 31/12
 
-2025  2024  2023   2022  2021
-Arbetad tid
-Antal årsarbetare\*            812   798   797   725   722
-Antal anställda per december
-
-Anställda per december inkl. RIB
-
 \*Beräkning enligt SKR:s definition. Med årsarbetare menas summan av de anställdas sysselsättningsgrader,
 t.ex. 100 % sysselsättningsgrad motsvarar 1,0 årsarbetare och 75 procent 0,75.
 
@@ -24319,8 +24150,12 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                            14(19)
 
 [Tabell 587-1](handlingar.tabeller/587-1.csv)
 
-| Totalt antal anställda (inkl timanställda) | 820 | 802 | 804 | 737 | 733 |
+|  | 2025 | 2024 | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- |
+| Arbetad tid |  |  |  |  |  |
+| Antal årsarbetare\* | 812 | 798 | 797 | 725 | 722 |
+| Antal anställda per december |  |  |  |  |  |
+| Totalt antal anställda (inkl timanställda) | 820 | 802 | 804 | 737 | 733 |
 | varav tillsvidareanställda | 779 | 772 | 767 | 695 | 703 |
 | varav tidsbegränsade anställda (exkl tim) | 34 | 27 | 32 | 31 | 21 |
 | varav timanställda | 7 | 3 | 5 | 11 | 9 |
@@ -24331,11 +24166,8 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                            14(19)
 | varav anställda, män | 678 | 662 | 669 | 605 | 611 |
 | varav kvinnor i procent | 17 | 17 | 16 | 17 | 17 |
 | varav män i procent | 83 | 83 | 84 | 83 | 83 |
-
-[Tabell 587-2](handlingar.tabeller/587-2.csv)
-
+| Anställda per december inkl. RIB |  |  |  |  |  |
 | Antal anställda (inkl timanställda) | 820 | 802 | 804 | 737 | 733 |
-| --- | --- | --- | --- | --- | --- |
 | Antal beredskapsanställda (RIB) | 206 | 216 | 208 | 148 | 148 |
 | Totalt | 1026 | 1018 | 1012 | 885 | 881 |
 | Ej anställda | 247 | 226 | 223 | 171 | 164 |
@@ -24352,7 +24184,7 @@ Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 7.1 Preliminär Resultatbudget 2027 och 2028 - 2029
 Miljontal kronor           2025   2027  2028  2029
 Verksamhetens intäkter
-Medlemsavgifter Göteborg 4 76,7 493,0 518,3 539,6
+Medlemsavgifter Göteborg 476,7 493,0 518,3 539,6
 Medlemsavgifter Mölndal 44,6    46,1 48,5  50,5
 Medlemsavgifter Kungsbacka 66,0 68,3 71,8  74,7
 Medlemsavgifter Partille 25,1   26,0 27,3  28,4
@@ -24378,9 +24210,9 @@ Entreprenad- och konsultkostnader - 41,4 - 53,0 - 47,4 - 49,3
 Personalkostnader     - 656,7 - 711,7 - 742,4 - 774,8
 varav lön och soc avg - 571,6 - 630,7 - 655,9 - 682,1
 varav pensionskostnader - 85,1 - 81,0 - 86,5 - 92,7
-Övriga verksamhetskostnader - 1 43,0 - 149,9 - 154,5 - 159,4
+Övriga verksamhetskostnader - 143,0 - 149,9 - 154,5 - 159,4
 S:a kostnader         - 841,1 - 914,6 - 944,3 - 983,5
-Avskrivningar         - 4 4,5 - 49,3 - 49,3 - 49,3
+Avskrivningar         - 44,5  - 49,3 - 49,3 - 49,3
 varav Färjenäs utbildning- och övningsanläggning - 2,5 - 2,5 - 2,5 - 2,5
 varav säkerhetsinvesteringar - 1,5 - 1,5 - 1,5 - 1,5
 Verksamhetens nettokostnader 25,5 - 8,4 3,0 - 1,5
@@ -24389,9 +24221,9 @@ Generella statsbidrag och utjämning - -     -
 Verksamhetens resultat     25,5  - 8,4  3,0 - 1,5
 Finansiella intäkter    6,6    13,0  13,0  13,0
 
-Finansiella kostnader - 2 0,5 - 8 ,6 - 20,0 - 24,6
+Finansiella kostnader - 20,5  - 8,6 - 20,0 - 24,6
 varav pensionskostnader - 20,4 - 8,5 - 19,9 - 24,5
-Resultat efter finansiella poster 11,6 - 4,0 - 4,0 - 1 3,1
+Resultat efter finansiella poster 11,6 - 4,0 - 4,0 - 13,1
 
 Underskott att hantera                     9,1
 ÅRETS RESULTAT             11,6  - 4,0 - 4,0 - 4,0
@@ -24440,56 +24272,74 @@ Stenungsunds kommun              31 352 259 32 355 531 33 423 264 34 492 808
 Lilla Edets kommun               14 318 330 14 776 517 15 264 142 15 752 594
 Summa                            655 655 747 676 636 731 698 965 743 721 332 647
 Infasningsavgifte fasas ut i etapper från och med 2028 -25 % -50 %
-Infasningsavgifter               2026   2027  2028  2029
-Tjörns kommun                     3 521 449 3 634 135 3 724 080 1 921 625
-Stenungsunds kommun               8 904 189 9 189 123 9 416 554 4 858 942
-Lilla Edets kommun                4 060 547 4 190 485 4 294 199 2 215 807
-Summa                            16 486 185 17 013 743 13 076 125 8 996 374
-Medlemsavgift för räddningstjänst + Infasningsavgift 2026 2027 2028 2029
-Göteborgs kommun                 421 910 410 435 411 543 449 780 124 464 173 088
-Mölndals kommun                  39 501 562 40 765 612 42 110 877 43 458 425
-Kungsbacka kommun                58 444 476 60 314 699 62 305 084 64 298 847
-Partille kommun                  22 230 932 22 942 322 23 699 418 24 457 800
-Härryda kommun                   26 951 514 27 813 962 28 731 823 29 651 242
-Lerums kommun                    28 565 351 29 479 442 30 452 264 31 426 736
-Tjörns kommun                    15 902 362 16 411 238 16 922 827 15 542 732
-Stenungsunds kommun              40 256 448 41 544 654 42 839 818 39 351 750
-Lilla Edets kommun               18 378 877 18 967 001 19 558 341 17 968 401
-Summa                            672 141 932 693 650 474 716 400 576 730 329 021
+
 Fortsättning nästa sida
 
 RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                            16(19)
+
+[Tabell 589-1](handlingar.tabeller/589-1.csv)
+
+| Infasningsavgifter | 2026 | 2027 | 2028 | 2029 |
+| --- | --- | --- | --- | --- |
+| Tjörns kommun | 3 521 449 | 3 634 135 | 3 724 080 | 1 921 625 |
+| Stenungsunds kommun | 8 904 189 | 9 189 123 | 9 416 554 | 4 858 942 |
+| Lilla Edets kommun | 4 060 547 | 4 190 485 | 4 294 199 | 2 215 807 |
+| Summa | 16 486 185 | 17 013 743 | 13 076 125 | 8 996 374 |
+
+[Tabell 589-2](handlingar.tabeller/589-2.csv)
+
+| Medlemsavgift för räddningstjänst + Infasningsavgift | 2026 | 2027 | 2028 | 2029 |
+| --- | --- | --- | --- | --- |
+| Göteborgs kommun | 421 910 410 | 435 411 543 | 449 780 124 | 464 173 088 |
+| Mölndals kommun | 39 501 562 | 40 765 612 | 42 110 877 | 43 458 425 |
+| Kungsbacka kommun | 58 444 476 | 60 314 699 | 62 305 084 | 64 298 847 |
+| Partille kommun | 22 230 932 | 22 942 322 | 23 699 418 | 24 457 800 |
+| Härryda kommun | 26 951 514 | 27 813 962 | 28 731 823 | 29 651 242 |
+| Lerums kommun | 28 565 351 | 29 479 442 | 30 452 264 | 31 426 736 |
+| Tjörns kommun | 15 902 362 | 16 411 238 | 16 922 827 | 15 542 732 |
+| Stenungsunds kommun | 40 256 448 | 41 544 654 | 42 839 818 | 39 351 750 |
+| Lilla Edets kommun | 18 378 877 | 18 967 001 | 19 558 341 | 17 968 401 |
+| Summa | 672 141 932 | 693 650 474 | 716 400 576 | 730 329 021 |
 
 <!-- sida 590 -->
 
 Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 
 Bilaga sida 2 - Medlemskommunernas avgifter, kronor exkl moms
-Medlemsavgift för pensionskostnader\* 2026 2027 2028 2029
-Göteborgs kommun                 58 175 000 57 600 000 68 478 000 75 388 000
-Mölndals kommun                   5 451 000 5 397 000 6 417 000 7 064 000
-Kungsbacka kommun                 8 055 000 7 975 000 9 482 000 10 438 000
-Partille kommun                   3 065 000 3 034 000 3 607 000 3 971 000
-Härryda kommun                    3 716 000 3 679 000 4 374 000 4 815 000
-Lerums kommun                     5 942 000 3 903 000 4 640 000 5 108 000
-Tjörns kommun                     1 709 000 1 692 000 2 011 000 2 214 000
-Stenungsunds kommun               4 321 000 4 279 000 5 087 000 5 600 000
-Lilla Edets kommun                1 971 000 1 951 000 2 320 000 2 554 000
-Summa                            92 405 000 89 510 000 106 416 000 117 152 000
+
 \*2027-2029 enligt KPA Prognos 2025-12-04 inkl avsättning för SAP-R
-Summa medlemsavgifter inkl infasningsavgifter och pensionkostnader 2025 2026 2027 2028
-Göteborgs kommun                 480 085 410 493 011 543 518 258 124 539 561 088
-Mölndals kommun                  44 952 562 46 162 612 48 527 877 50 522 425
-Kungsbacka kommun                66 499 476 68 289 699 71 787 084 74 736 847
-Partille kommun                  25 295 932 25 976 322 27 306 418 28 428 800
-Härryda kommun                   30 667 514 31 492 962 33 105 823 34 466 242
-Lerums kommun                    34 507 351 33 382 442 35 092 264 36 534 736
-Tjörns kommun                    17 611 362 18 103 238 18 933 827 17 756 732
-Stenungsunds kommun              44 577 448 45 823 654 47 926 818 44 951 750
-Lilla Edets kommun               20 349 877 20 918 001 21 878 341 20 522 401
-Summa                            764 546 932 783 160 474 822 816 576 847 481 021
 
 RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                            17(19)
+
+[Tabell 590-1](handlingar.tabeller/590-1.csv)
+
+| Medlemsavgift för pensionskostnader\* | 2026 | 2027 | 2028 | 2029 |
+| --- | --- | --- | --- | --- |
+| Göteborgs kommun | 58 175 000 | 57 600 000 | 68 478 000 | 75 388 000 |
+| Mölndals kommun | 5 451 000 | 5 397 000 | 6 417 000 | 7 064 000 |
+| Kungsbacka kommun | 8 055 000 | 7 975 000 | 9 482 000 | 10 438 000 |
+| Partille kommun | 3 065 000 | 3 034 000 | 3 607 000 | 3 971 000 |
+| Härryda kommun | 3 716 000 | 3 679 000 | 4 374 000 | 4 815 000 |
+| Lerums kommun | 5 942 000 | 3 903 000 | 4 640 000 | 5 108 000 |
+| Tjörns kommun | 1 709 000 | 1 692 000 | 2 011 000 | 2 214 000 |
+| Stenungsunds kommun | 4 321 000 | 4 279 000 | 5 087 000 | 5 600 000 |
+| Lilla Edets kommun | 1 971 000 | 1 951 000 | 2 320 000 | 2 554 000 |
+| Summa | 92 405 000 | 89 510 000 | 106 416 000 | 117 152 000 |
+
+[Tabell 590-2](handlingar.tabeller/590-2.csv)
+
+| Summa medlemsavgifter inkl infasningsavgifter och pensionkostnader | 2025 | 2026 | 2027 | 2028 |
+| --- | --- | --- | --- | --- |
+| Göteborgs kommun | 480 085 410 | 493 011 543 | 518 258 124 | 539 561 088 |
+| Mölndals kommun | 44 952 562 | 46 162 612 | 48 527 877 | 50 522 425 |
+| Kungsbacka kommun | 66 499 476 | 68 289 699 | 71 787 084 | 74 736 847 |
+| Partille kommun | 25 295 932 | 25 976 322 | 27 306 418 | 28 428 800 |
+| Härryda kommun | 30 667 514 | 31 492 962 | 33 105 823 | 34 466 242 |
+| Lerums kommun | 34 507 351 | 33 382 442 | 35 092 264 | 36 534 736 |
+| Tjörns kommun | 17 611 362 | 18 103 238 | 18 933 827 | 17 756 732 |
+| Stenungsunds kommun | 44 577 448 | 45 823 654 | 47 926 818 | 44 951 750 |
+| Lilla Edets kommun | 20 349 877 | 20 918 001 | 21 878 341 | 20 522 401 |
+| Summa | 764 546 932 | 783 160 474 | 822 816 576 | 847 481 021 |
 
 <!-- sida 591 -->
 
@@ -28691,36 +28541,15 @@ Sammandrag             5  år
 
 av verksamheten och nyckeltal
 
-2025  2024   2023  2022   2021
-Resultaträkning
-
-Balansräkning
-
-Fastigheter
-Lägenhetsyta, kvm      206 267 205 155 203 002 203 002 202 433
-Lokalyta, kvm          92 786 92 861 93 170 93 170 84 094
-
-Finansiering
-
-Lönsamhet
-Direktavkastning ( % )  5,82% 5,57%  5,83% 4,90% 4,66%
-Avkastning på eget kapital ( % ) 9,32% 7,33% 10,91% 11,37% 11,64%
-
-Ekonomi
-Medelhyra lägenheter ( kr / kvm ) 1 448 1 384 1 321 1 235 1 211
-Medelhyra lokaler ( kr / kvm ) 1 638 1 629 1 519 1 342 1 356
-Driftkostnader ( kr / kvm ) - 482 - 480 - 433 - 400 - 406
-Underhållskostnader ( kr / kvm ) -208 -200 -146 -182 -189
-Driftsöverskott exkl underhåll ( kr / kvm ) 1078 1026 1008 911 886
-Driftöverskott ( kr / kvm ) 870 825   862   730   697
-
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2025 43
 Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 [Tabell 664-1](handlingar.tabeller/664-1.csv)
 
-| Hyresintäkter | 457 303 | 440 736 | 417 160 | 374 664 | 362 485 |
+|  | 2025 | 2024 | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- |
+| Resultaträkning |  |  |  |  |  |
+| Hyresintäkter | 457 303 | 440 736 | 417 160 | 374 664 | 362 485 |
 | Övriga intäkter i rörelsen | 45 524 | 42 913 | 41 710 | 36 966 | 35 835 |
 | Driftskostnader | -173 853 | -171 567 | -153 474 | -139 608 | -139 143 |
 | Underhållskostnader | -62 170 | -59 534 | -43 247 | -52 908 | -53 976 |
@@ -28733,11 +28562,8 @@ Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 | Jämförelsestörande poster | 0 | 0 | 0 | 0 | 0 |
 | Bokslutsdispositioner | -1 479 | -1 824 | -1 357 | 1 981 | -756 |
 | Resultat före skatt | 83 033 | 61 136 | 84 451 | 80 378 | 75 255 |
-
-[Tabell 664-2](handlingar.tabeller/664-2.csv)
-
+| Balansräkning |  |  |  |  |  |
 | Materiella anläggningstillgångar | 4 456 773 | 4 384 393 | 4 363 632 | 4 324 950 | 4 225 045 |
-| --- | --- | --- | --- | --- | --- |
 | Finansiella anläggningstillgångar | 146 038 | 126 026 | 116 143 | 116 111 | 119 565 |
 | Omsättningstillgångar | 138 595 | 124 935 | 156 277 | 175 314 | 226 139 |
 | Eget kapital | 924 162 | 857 163 | 809 822 | 738 802 | 675 480 |
@@ -28746,15 +28572,29 @@ Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 | Låneskuld | 3 587 481 | 3 591 957 | 3 598 802 | 3 672 712 | 3 700 222 |
 | Rörelseskulder | 132 146 | 89 076 | 135 679 | 123 922 | 117 863 |
 | Balansomslutning | 4 741 406 | 4 635 354 | 4 636 052 | 4 616 375 | 4 570 750 |
-
-[Tabell 664-3](handlingar.tabeller/664-3.csv)
-
+| Fastigheter |  |  |  |  |  |
+| Lägenhetsyta, kvm | 206 267 | 205 155 | 203 002 | 203 002 | 202 433 |
+| Lokalyta, kvm | 92 786 | 92 861 | 93 170 | 93 170 | 84 094 |
+| Finansiering |  |  |  |  |  |
 | Soliditet ( % ) | 19,69% | 18,67% | 17,61% | 16,12% | 14,93% |
-| --- | --- | --- | --- | --- | --- |
 | Justerad soliditet ( % ) | 43,21% | 41,77% | 40,99% | 41,88% | 41,34% |
 | Räntetäckningsgrad | 2,1 | 1,8 | 2,1 | 2,6 | 3,0 |
 | Genomsnittlig låneränta ( % ) | 2,11% | 2,33% | 2,08% | 1,29% | 1,03% |
 | Kassaflöde, exkl investeringar | 186 322 | 164 257 | 183 340 | 165 498 | 159 439 |
+| Lönsamhet |  |  |  |  |  |
+| Direktavkastning ( % ) | 5,82% | 5,57% | 5,83% | 4,90% | 4,66% |
+| Avkastning på eget kapital ( % ) | 9,32% | 7,33% | 10,91% | 11,37% | 11,64% |
+| Ekonomi |  |  |  |  |  |
+| Medelhyra lägenheter ( kr / kvm ) | 1 448 | 1 384 | 1 321 | 1 235 | 1 211 |
+| Medelhyra lokaler ( kr / kvm ) | 1 638 | 1 629 | 1 519 | 1 342 | 1 356 |
+
+[Tabell 664-2](handlingar.tabeller/664-2.csv)
+
+| Driftkostnader ( kr / kvm ) | - 482 | - 480 | - 433 | - 400 | - 406 |
+| --- | --- | --- | --- | --- | --- |
+| Underhållskostnader ( kr / kvm ) | -208 | -200 | -146 | -182 | -189 |
+| Driftsöverskott exkl underhåll ( kr / kvm ) | 1078 | 1026 | 1008 | 911 | 886 |
+| Driftöverskott ( kr / kvm ) | 870 | 825 | 862 | 730 | 697 |
 
 <!-- sida 665 -->
 
@@ -28981,16 +28821,6 @@ förändring           av  det    egna     kapitalet
 
 koncern
 
-" Aktieägar- " Annat eget kapital
-Aktiekapital                  Totalt
-tillskott " inkl årets resultat "
-
-moderbolag
-
-Aktieägar- Balanserat Årets
-Aktiekapital Reservfond                   Totalt
-tillskott resultat resultat
-
 Aktiekapitalet omfattar 50.000 aktier om 1.000:-. Samtliga innehas av Kungsbacka kommun.
 Aktieägartillskottet är ovillkorat.
 
@@ -28999,8 +28829,9 @@ Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 [Tabell 669-1](handlingar.tabeller/669-1.csv)
 
-| Ingående balans 2024-01-01 | 50 000 000 | 100 000 000 | 669 199 640 | 819 199 640 |
+|  | Aktiekapital | " Aktieägartillskott " | " Annat eget kapital inkl årets resultat " | Totalt |
 | --- | --- | --- | --- | --- |
+| Ingående balans 2024-01-01 | 50 000 000 | 100 000 000 | 669 199 640 | 819 199 640 |
 | Utdelning till ägaren |  |  | -1 740 000 | -1 740 000 |
 | Årets resultat |  |  | 50 650 367 | 50 650 367 |
 | Utgående balans 2024-12-31 | 50 000 000 | 100 000 000 | 718 110 007 | 868 110 007 |
@@ -29008,12 +28839,13 @@ Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 | Utdelning till ägaren |  |  | -1 575 000 | -1 575 000 |
 | Övrig justering av det egna kapitalet |  |  | 1 107 521 | 1 107 521 |
 | Årets resultat |  |  | 70 292 653 | 70 292 653 |
-| Utgående balans 2025-12-31 | 50 000 000 | 100 000 000 | 787 935 181 | 937 935 181 |
+| Utgående balans 2025-12-31 moderbolag | 50 000 000 | 100 000 000 | 787 935 181 | 937 935 181 |
 
 [Tabell 669-2](handlingar.tabeller/669-2.csv)
 
-| Ingående balans 2024-01-01 | 50 000 000 | 40 957 761 | 100 000 000 | 546 614 081 | 72 250 327 | 809 822 170 |
+|  | Aktiekapital | Reservfond | Aktieägartillskott | Balanserat resultat | Årets resultat | Totalt |
 | --- | --- | --- | --- | --- | --- | --- |
+| Ingående balans 2024-01-01 | 50 000 000 | 40 957 761 | 100 000 000 | 546 614 081 | 72 250 327 | 809 822 170 |
 | Överföring av resultat |  |  |  | 72 250 327 | -72 250 327 | 0 |
 | Utdelning till ägaren |  |  |  | -1 740 000 |  | -1 740 000 |
 | Årets resultat |  |  |  |  | 49 080 909 | 49 080 909 |
@@ -29110,52 +28942,54 @@ not 2 - specifikation av hyresintäkter
 
 KONCERN        MODERBOLAG
 2025     2024    2025    2024
-Bostäder                        273 488 349 256 685 211 264 634 815 249 328 875
-Lokaler                         186 056 343 184 581 950 186 056 343 184 581 950
-
-Garage, p-platser                10 164 077 9 660 046 10 164 077 9 660 046
-Kabel-TV-avgifter                 579 040  601 055 579 040 601 055
-Summa hyresintäkter             470 287 809 451 528 262 461 434 275 444 171 926
-
-Hyresbortfall garage, p-platser  -1 613 757 -1 369 143 -1 613 757 -1 369 143
-
-Hyresbortfall bostäder            -114 482 -114 376 -114 482 -114 376
-Hyresrabatter bostäder            -20 029  -82 943 -20 029 -82 943
-Hyresbortfall lokaler             -791 477 -785 057 -791 477 -785 057
-Hyresrabatter lokaler             -794 437 -1 151 756 -794 437 -1 151 756
-Summa hyresbortfall och rabatter -3 334 182 -3 503 275 -3 334 182 -3 503 275
-
-Summa hyror                     466 953 627 448 024 987 458 100 093 440 668 651
-Hyresjustering enl avtal med KBA kommun -797 365 67 057 -797 365 67 057
-
-not 3 - övriga förvaltningsintäkter
 
 KONCERN        MODERBOLAG
 2025     2024    2025   2024
-Värmeleveranser                  21 713 325 20 449 623 21 713 325 20 449 623
-Övriga intäkter                  14 108 384 13 067 431 15 419 496 13 846 905
-
-El-avgifter                      8 544 606 8 656 800 8 391 277 8 616 447
-Summa övriga förvaltningsintäkter 44 366 315 42 173 854 45 524 098 42 912 975
-
-not 4 - Driftskostnader
 
 KONCERN        MODERBOLAG
 2025     2024    2025   2024
-Direkta driftskostnader         118 692 020 120 950 844 117 289 756 119 367 194
-Personalkostnader fastighetsdrift 18 714 091 17 465 074 18 714 091 17 465 074
 
-Övriga driftskostnader           2 295 421 1 929 641 2 152 879 1 810 612
-Personalkostnader förvaltning och styrelse 22 981 445 21 080 791 22 981 445 21 080 791
-Lokalkostnader                    482 114 384 946  482 114 384 946
-Kontorskostnader                 4 138 530 3 948 829 4 138 530 3 948 829
-Administrativa kostnader förvaltning 8 024 143 7 509 230 8 094 456 7 509 230
-
-Summa driftskostnader           175 327 764 173 269 355 173 853 271 171 566 676
 I administrativa kostnader ingår även kostnader för avbrutna projekt.
 
 50
 Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
+
+[Tabell 671-1](handlingar.tabeller/671-1.csv)
+
+| Bostäder | 273 488 349 | 256 685 211 | 264 634 815 | 249 328 875 |
+| --- | --- | --- | --- | --- |
+| Lokaler | 186 056 343 | 184 581 950 | 186 056 343 | 184 581 950 |
+| Garage, p-platser | 10 164 077 | 9 660 046 | 10 164 077 | 9 660 046 |
+| Kabel-TV-avgifter | 579 040 | 601 055 | 579 040 | 601 055 |
+| Summa hyresintäkter | 470 287 809 | 451 528 262 | 461 434 275 | 444 171 926 |
+| Hyresbortfall garage, p-platser | -1 613 757 | -1 369 143 | -1 613 757 | -1 369 143 |
+| Hyresbortfall bostäder | -114 482 | -114 376 | -114 482 | -114 376 |
+| Hyresrabatter bostäder | -20 029 | -82 943 | -20 029 | -82 943 |
+| Hyresbortfall lokaler | -791 477 | -785 057 | -791 477 | -785 057 |
+| Hyresrabatter lokaler | -794 437 | -1 151 756 | -794 437 | -1 151 756 |
+| Summa hyresbortfall och rabatter | -3 334 182 | -3 503 275 | -3 334 182 | -3 503 275 |
+| Summa hyror | 466 953 627 | 448 024 987 | 458 100 093 | 440 668 651 |
+| Hyresjustering enl avtal med KBA kommun not 3 - övriga förvaltningsintäkter | -797 365 | 67 057 | -797 365 | 67 057 |
+
+[Tabell 671-2](handlingar.tabeller/671-2.csv)
+
+| Värmeleveranser | 21 713 325 | 20 449 623 | 21 713 325 | 20 449 623 |
+| --- | --- | --- | --- | --- |
+| Övriga intäkter | 14 108 384 | 13 067 431 | 15 419 496 | 13 846 905 |
+| El-avgifter | 8 544 606 | 8 656 800 | 8 391 277 | 8 616 447 |
+| Summa övriga förvaltningsintäkter not 4 - Driftskostnader | 44 366 315 | 42 173 854 | 45 524 098 | 42 912 975 |
+
+[Tabell 671-3](handlingar.tabeller/671-3.csv)
+
+| Direkta driftskostnader | 118 692 020 | 120 950 844 | 117 289 756 | 119 367 194 |
+| --- | --- | --- | --- | --- |
+| Personalkostnader fastighetsdrift | 18 714 091 | 17 465 074 | 18 714 091 | 17 465 074 |
+| Övriga driftskostnader | 2 295 421 | 1 929 641 | 2 152 879 | 1 810 612 |
+| Personalkostnader förvaltning och styrelse | 22 981 445 | 21 080 791 | 22 981 445 | 21 080 791 |
+| Lokalkostnader | 482 114 | 384 946 | 482 114 | 384 946 |
+| Kontorskostnader | 4 138 530 | 3 948 829 | 4 138 530 | 3 948 829 |
+| Administrativa kostnader förvaltning | 8 024 143 | 7 509 230 | 8 094 456 | 7 509 230 |
+| Summa driftskostnader | 175 327 764 | 173 269 355 | 173 853 271 | 171 566 676 |
 
 <!-- sida 672 -->
 
@@ -29165,12 +28999,7 @@ not 5 - underhållskostnader
 
 KONCERN        MODERBOLAG
 2025     2024    2025   2024
-Löpande underhåll                6 659 509 5 632 275 6 501 304 5 487 758
-Planerat underhåll              56 582 088 54 872 817 55 669 073 54 046 405
 
-Summa underhållskostnader       63 241 597 60 505 092 62 170 377 59 534 163
-
-not 6 - Fastighetsskatt
 KONCERN        MODERBOLAG
 
 2025     2024    2025   2024
@@ -29188,17 +29017,27 @@ not 8 - av- och nedskrivningar
 KONCERN        MODERBOLAG
 
 2025     2024    2025   2024
-Byggnader                        92 531 030 92 212 094 89 158 406 89 027 853
-Värmeanläggningar                5 731 944 5 732 737 5 731 944 5 732 737
-Markanläggningar                 2 750 342 2 542 200 2 717 075 2 541 149
-Byggnadsinventarier               1 152 811 1 118 963 1 152 811 1 118 963
-
-Markinventarier                    65 710  59 558   65 710 59 558
-Inventarier                      3 109 868 2 921 052 2 983 869 2 817 220
-Summa av- och nedskrivningar    105 341 705 104 586 604 101 809 815 101 297 480
 
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2025 51
 Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
+
+[Tabell 672-1](handlingar.tabeller/672-1.csv)
+
+| Löpande underhåll | 6 659 509 | 5 632 275 | 6 501 304 | 5 487 758 |
+| --- | --- | --- | --- | --- |
+| Planerat underhåll | 56 582 088 | 54 872 817 | 55 669 073 | 54 046 405 |
+| Summa underhållskostnader not 6 - Fastighetsskatt | 63 241 597 | 60 505 092 | 62 170 377 | 59 534 163 |
+
+[Tabell 672-2](handlingar.tabeller/672-2.csv)
+
+| Byggnader | 92 531 030 | 92 212 094 | 89 158 406 | 89 027 853 |
+| --- | --- | --- | --- | --- |
+| Värmeanläggningar | 5 731 944 | 5 732 737 | 5 731 944 | 5 732 737 |
+| Markanläggningar | 2 750 342 | 2 542 200 | 2 717 075 | 2 541 149 |
+| Byggnadsinventarier | 1 152 811 | 1 118 963 | 1 152 811 | 1 118 963 |
+| Markinventarier | 65 710 | 59 558 | 65 710 | 59 558 |
+| Inventarier | 3 109 868 | 2 921 052 | 2 983 869 | 2 817 220 |
+| Summa av- och nedskrivningar | 105 341 705 | 104 586 604 | 101 809 815 | 101 297 480 |
 
 <!-- sida 673 -->
 
@@ -29207,43 +29046,10 @@ NOTER
 not 9 - personal
 
 KONCERN        MODERBOLAG
-
-Fördelning                                        Kvinnor   Män
-
-```osaker-tabell
-Styrelse (ordinarie ledamöten)                     42,9%   57,1%
-Vd och ledningsgrupp                               33,3%   66,7%
-Administration                                     70,4%   29,6%
-
-Fastighetsdrift                                    17,2%   82,8%
-
- Löner och andra ersättningar      2025     2024    2025   2024
-```
-
-Styrelse och VD                  1 740 198 1 754 526 1 740 198 1 754 526
-Övriga                          26 506 240 24 560 117 26 506 240 24 560 117
-
-Summa                           28 246 438 26 314 643 28 246 438 26 314 643
-Sociala avgifter enligt lag och avtal 8 968 610 8 243 008 8 968 610 8 243 008
-
-Pensionskostnader till VD och styrelse 381 000 370 224 381 000 370 224
-Pensionskostnader till övriga anställda 2 409 438 2 146 589 2 409 438 2 146 589
-Summa                           11 759 048 10 759 821 11 759 048 10 759 821
-
-not 10 - ersättning till revisionsföretag
+Medeltal anställda                2025     2024    2025   2024
 
 KONCERN        MODERBOLAG
-
-```osaker-tabell
-                                   2025    2024     2025   2024
-Ernst & Young AB Revision         308 000 339 617  254 250 283 367
-Ernst & Young AB Konsulttjänster     0       0        0      0
-
-Kungsbacka kommun, revision       10 000   20 000   7 500  15 000
-Summa                             318 000 359 617  261 750 298 367
-```
-
-not 11 - resultat från finansiella investeringar
+2025    2024     2025   2024
 
 KONCERN        MODERBOLAG
 2025     2024    2025   2024
@@ -29255,11 +29061,39 @@ Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 [Tabell 673-1](handlingar.tabeller/673-1.csv)
 
-| Medeltal anställda | 2025 | 2024 | 2025 | 2024 |
-| --- | --- | --- | --- | --- |
 | Administration | 21,43 | 20,81 | 21,43 | 20,81 |
+| --- | --- | --- | --- | --- |
 | Fastighetsdrift | 29,42 | 28,65 | 29,42 | 28,65 |
 | Summa antal anställda | 50,85 | 49,46 | 50,85 | 49,46 |
+
+[Tabell 673-2](handlingar.tabeller/673-2.csv)
+
+| Fördelning | Kvinnor | Män |
+| --- | --- | --- |
+| Styrelse (ordinarie ledamöten) | 42,9% | 57,1% |
+| Vd och ledningsgrupp | 33,3% | 66,7% |
+| Administration | 70,4% | 29,6% |
+| Fastighetsdrift | 17,2% | 82,8% |
+
+[Tabell 673-3](handlingar.tabeller/673-3.csv)
+
+| Löner och andra ersättningar | 2025 | 2024 | 2025 | 2024 |
+| --- | --- | --- | --- | --- |
+| Styrelse och VD | 1 740 198 | 1 754 526 | 1 740 198 | 1 754 526 |
+| Övriga | 26 506 240 | 24 560 117 | 26 506 240 | 24 560 117 |
+| Summa | 28 246 438 | 26 314 643 | 28 246 438 | 26 314 643 |
+| Sociala avgifter enligt lag och avtal | 8 968 610 | 8 243 008 | 8 968 610 | 8 243 008 |
+| Pensionskostnader till VD och styrelse | 381 000 | 370 224 | 381 000 | 370 224 |
+| Pensionskostnader till övriga anställda | 2 409 438 | 2 146 589 | 2 409 438 | 2 146 589 |
+| Summa not 10 - ersättning till revisionsföretag | 11 759 048 | 10 759 821 | 11 759 048 | 10 759 821 |
+
+[Tabell 673-4](handlingar.tabeller/673-4.csv)
+
+| Ernst & Young AB Revision | 308 000 | 339 617 | 254 250 | 283 367 |
+| --- | --- | --- | --- | --- |
+| Ernst & Young AB Konsulttjänster | 0 | 0 | 0 | 0 |
+| Kungsbacka kommun, revision | 10 000 | 20 000 | 7 500 | 15 000 |
+| Summa not 11 - resultat från finansiella investeringar | 318 000 | 359 617 | 261 750 | 298 367 |
 
 <!-- sida 674 -->
 
@@ -29269,8 +29103,7 @@ not 12 - skatt
 
 De huvudsakliga komponenterna när det gäller räkenskapsårets skattekostnader är följande:
 KONCERN        MODERBOLAG
-
-Skatteeffekt av:
+Redovisad skatt i resultaträkningen 2025   2024     2025   2024
 
 Bolaget redovisar uppskjuten skatteskuld hänförlig till temporär skillnad mellan bokföringsmässiga och skattemässiga
 värden på byggnader, samtidigt redovisar bolaget motsvarande uppskjuten skattefordran på grund av ej utnyttjade
@@ -29284,9 +29117,8 @@ Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 [Tabell 674-1](handlingar.tabeller/674-1.csv)
 
-| Redovisad skatt i resultaträkningen | 2025 | 2024 | 2025 | 2024 |
-| --- | --- | --- | --- | --- |
 | Aktuell skatt | 11 690 396 | 8 332 787 | 11 385 819 | 7 957 088 |
+| --- | --- | --- | --- | --- |
 | Justering av aktuell skatt för tidigare år | -18 001 | -17 999 | -18 001 | -17 999 |
 | Förändring uppskjuten skatt avseende temporära skillnader | 3 091 553 | 4 115 584 | 3 091 553 | 4 115 584 |
 | Summa redovisad skatt | 14 763 948 | 12 430 372 | 14 459 371 | 12 054 673 |
@@ -29297,11 +29129,8 @@ Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 | --- | --- | --- | --- | --- |
 | Redovisat resultat före skatt | 85 056 601 | 63 080 739 | 83 033 219 | 61 135 582 |
 | Skatt på redovisat resultat med gällande skattesats | 17 521 660 | 12 994 632 | 17 104 843 | 12 593 930 |
-
-[Tabell 674-3](handlingar.tabeller/674-3.csv)
-
+| Skatteeffekt av: |  |  |  |  |
 | Ej skattepliktiga intäkter som ingår i resultatet | -11 700 | -10 992 | -11 120 | -9 967 |
-| --- | --- | --- | --- | --- |
 | Ej avdragsgilla kostnader | 74 997 | 54 734 | 74 997 | 54 605 |
 | Ej avdragsgilla räntor | 0 | 2 588 841 | 0 | 2 588 841 |
 | Kostnader som ska dras av men som inte ingår | -2 762 515 | -4 012 629 | -2 762 515 | -4 012 629 |
@@ -29319,6 +29148,7 @@ NOTER
 not 13 - byggnader och mark
 
 KONCERN         MODERBOLAG
+Byggnader                        2025    2024     2025    2024
 
 Utgående bokfört värde        3 865 717 874 3 801 927 450 3 750 247 334 3 703 264 710
 
@@ -29326,15 +29156,15 @@ Utgående bokfört värde        3 865 717 874 3 801 927 450 3 750 247 334 3 703
 Bedömt marknadsvärde enligt extern värdering 7 568 330 000 7 257 791 000 7 419 206 000 7 136 667 000
 
 KONCERN         MODERBOLAG
+Mark                             2025    2024     2025    2024
 
 54
 Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 [Tabell 675-1](handlingar.tabeller/675-1.csv)
 
-| Byggnader | 2025 | 2024 | 2025 | 2024 |
-| --- | --- | --- | --- | --- |
 | Ingående ackumulerade anskaffningsvärden | 4 963 491 735 | 4 832 364 190 | 4 850 928 586 | 4 719 801 041 |
+| --- | --- | --- | --- | --- |
 | Nyanskaffning under året | 4 537 000 | 0 | 0 | 0 |
 | Omklassificering | 4 237 866 | -3 379 405 | 4 237 866 | -3 379 405 |
 | Försäljning / Utrangering under året | 0 | -6 347 415 | 0 | -6 347 415 |
@@ -29348,9 +29178,8 @@ Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 [Tabell 675-2](handlingar.tabeller/675-2.csv)
 
-| Mark | 2025 | 2024 | 2025 | 2024 |
-| --- | --- | --- | --- | --- |
 | Ingående ackumulerade anskaffningsvärden | 313 682 329 | 305 881 330 | 307 357 252 | 299 556 253 |
+| --- | --- | --- | --- | --- |
 | Nyanskaffning under året | 15 663 000 | 3 762 499 | 0 | 3 762 499 |
 | Försäljning / Utrangering under året | 0 | 0 | 0 | 0 |
 | Överfört från pågående nyanläggningar | 2 528 453 | 4 038 500 | 2 528 453 | 4 038 500 |
@@ -29364,49 +29193,44 @@ not 14 - värmeanläggningar
 
 KONCERN         MODERBOLAG
 2025    2024     2025    2024
-Ingående ackumulerade anskaffningsvärden 230 043 457 226 811 594 230 043 457 226 811 594
-Nyanskaffning under året            0       0        0       0
-
-Omklassificering                -4 112 927 3 379 405 -4 112 927 3 379 405
-Försäljning/Utrangering under året -1 123 700 -965 906 -1 123 700 -965 906
-Överfört från pågående nyanläggningar 3 256 835 818 364 3 256 835 818 364
-Utgående anskaffningsvärden   228 063 665 230 043 457 228 063 665 230 043 457
-
-Ingående ackumulerade avskrivningar -72 002 693 -65 774 643 -72 002 693 -65 774 643
-Omklassificering                1 217 965 -1 119 132 1 217 965 -1 119 132
-Försäljning/Utrangering under året 848 981 623 819 848 981 623 819
-Årets avskrivning              -5 731 944 -5 732 737 -5 731 944 -5 732 737
-Utgående ackumulerade avskrivningar -75 667 691 -72 002 693 -75 667 691 -72 002 693
-
-Utgående bokfört värde         152 395 974 158 040 764 152 395 974 158 040 764
-
-not 15 - byggnadsinventarier
 
 KONCERN         MODERBOLAG
 2025    2024     2025    2024
-Ingående ackumulerade anskaffningsvärden 26 346 105 22 461 851 26 346 105 22 461 851
-
-```osaker-tabell
-Nyanskaffning under året            0       0        0       0
-
-Omklassificering                -124 939          -124 939
-Försäljning / Utrangering under året 0   -432 689    0    -432 689
-```
-
-Överfört från pågående nyanläggningar 360 003 4 316 943 360 003 4 316 943
-Utgående anskaffningsvärden    26 581 169 26 346 105 26 581 169 26 346 105
-
-Ingående ackumulerade avskrivningar -11 709 835 -11 023 561 -11 709 835 -11 023 561
-
-Försäljning / Utrangering under året 0   432 689     0    432 689
-Omklassificering                 29 673     0     29 673     0
-Årets avskrivning               -1 152 811 -1 118 963 -1 152 811 -1 118 963
-Utgående ackumulerade avskrivningar -12 832 973 -11 709 835 -12 832 973 -11 709 835
-
-Utgående bokfört värde         13 748 196 14 636 270 13 748 196 14 636 270
 
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2025 55
 Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
+
+[Tabell 676-1](handlingar.tabeller/676-1.csv)
+
+| Ingående ackumulerade anskaffningsvärden | 230 043 457 | 226 811 594 | 230 043 457 | 226 811 594 |
+| --- | --- | --- | --- | --- |
+| Nyanskaffning under året | 0 | 0 | 0 | 0 |
+| Omklassificering | -4 112 927 | 3 379 405 | -4 112 927 | 3 379 405 |
+| Försäljning/Utrangering under året | -1 123 700 | -965 906 | -1 123 700 | -965 906 |
+| Överfört från pågående nyanläggningar | 3 256 835 | 818 364 | 3 256 835 | 818 364 |
+| Utgående anskaffningsvärden | 228 063 665 | 230 043 457 | 228 063 665 | 230 043 457 |
+| Ingående ackumulerade avskrivningar | -72 002 693 | -65 774 643 | -72 002 693 | -65 774 643 |
+| Omklassificering | 1 217 965 | -1 119 132 | 1 217 965 | -1 119 132 |
+| Försäljning/Utrangering under året | 848 981 | 623 819 | 848 981 | 623 819 |
+| Årets avskrivning | -5 731 944 | -5 732 737 | -5 731 944 | -5 732 737 |
+| Utgående ackumulerade avskrivningar | -75 667 691 | -72 002 693 | -75 667 691 | -72 002 693 |
+| Utgående bokfört värde not 15 - byggnadsinventarier | 152 395 974 | 158 040 764 | 152 395 974 | 158 040 764 |
+
+[Tabell 676-2](handlingar.tabeller/676-2.csv)
+
+| Ingående ackumulerade anskaffningsvärden | 26 346 105 | 22 461 851 | 26 346 105 | 22 461 851 |
+| --- | --- | --- | --- | --- |
+| Nyanskaffning under året | 0 | 0 | 0 | 0 |
+| Omklassificering | -124 939 |  | -124 939 |  |
+| Försäljning / Utrangering under året | 0 | -432 689 | 0 | -432 689 |
+| Överfört från pågående nyanläggningar | 360 003 | 4 316 943 | 360 003 | 4 316 943 |
+| Utgående anskaffningsvärden | 26 581 169 | 26 346 105 | 26 581 169 | 26 346 105 |
+| Ingående ackumulerade avskrivningar | -11 709 835 | -11 023 561 | -11 709 835 | -11 023 561 |
+| Försäljning / Utrangering under året | 0 | 432 689 | 0 | 432 689 |
+| Omklassificering | 29 673 | 0 | 29 673 | 0 |
+| Årets avskrivning | -1 152 811 | -1 118 963 | -1 152 811 | -1 118 963 |
+| Utgående ackumulerade avskrivningar | -12 832 973 | -11 709 835 | -12 832 973 | -11 709 835 |
+| Utgående bokfört värde | 13 748 196 | 14 636 270 | 13 748 196 | 14 636 270 |
 
 <!-- sida 677 -->
 
@@ -29416,37 +29240,37 @@ not 16 - markanläggningar
 
 KONCERN         MODERBOLAG
 2025    2024     2025    2024
-Ingående ackumulerade anskaffningsvärden 133 139 555 122 802 677 133 038 706 122 784 619
-Nyanskaffningar under året      500 000     0        0       0
-
-Försäljning / Utrangering under året -62 115 0    -62 115    0
-Överfört från pågående nyanläggningar 9 656 695 10 336 878 6 806 695 10 254 087
-Utgående anskaffningsvärden    143 234 135 133 139 555 139 783 286 133 038 706
-
-Ingående ackumulerade avskrivningar -27 342 868 -24 800 668 -27 340 702 -24 799 553
-Försäljning / Utrangering under året 19 508 0     19 508
-Årets avskrivning              -2 750 342 -2 542 200 -2 717 075 -2 541 149
-Utgående ackumulerade avskrivningar -30 073 702 -27 342 868 -30 038 269 -27 340 702
-
-Utgående bokfört värde         113 160 433 105 796 686 109 745 017 105 698 004
-
-not 17 - markinventarier
 
 KONCERN         MODERBOLAG
 2025    2024     2025    2024
-Ingående ackumulerade anskaffningsvärden 1 239 657 1 142 647 1 239 657 1 142 647
-
-Överfört från pågående nyanläggningar 894 637 97 010 894 637 97 010
-Utgående ackumulerade anskaffningsvärden 2 134 294 1 239 657 2 134 294 1 239 657
-
-Ingående ackumulerade avskrivningar -79 787 -20 229 -79 787 -20 229
-Årets avskrivning                -65 710 -59 558  -65 710 -59 558
-Utgående ackumulerade avskrivningar -145 497 -79 787 -145 497 -79 787
-
-Utgående bokfört värde          1 988 797 1 159 870 1 988 797 1 159 870
 
 56
 Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
+
+[Tabell 677-1](handlingar.tabeller/677-1.csv)
+
+| Ingående ackumulerade anskaffningsvärden | 133 139 555 | 122 802 677 | 133 038 706 | 122 784 619 |
+| --- | --- | --- | --- | --- |
+| Nyanskaffningar under året | 500 000 | 0 | 0 | 0 |
+| Försäljning / Utrangering under året | -62 115 | 0 | -62 115 | 0 |
+| Överfört från pågående nyanläggningar | 9 656 695 | 10 336 878 | 6 806 695 | 10 254 087 |
+| Utgående anskaffningsvärden | 143 234 135 | 133 139 555 | 139 783 286 | 133 038 706 |
+| Ingående ackumulerade avskrivningar | -27 342 868 | -24 800 668 | -27 340 702 | -24 799 553 |
+| Försäljning / Utrangering under året | 19 508 | 0 | 19 508 |  |
+| Årets avskrivning | -2 750 342 | -2 542 200 | -2 717 075 | -2 541 149 |
+| Utgående ackumulerade avskrivningar | -30 073 702 | -27 342 868 | -30 038 269 | -27 340 702 |
+| Utgående bokfört värde not 17 - markinventarier | 113 160 433 | 105 796 686 | 109 745 017 | 105 698 004 |
+
+[Tabell 677-2](handlingar.tabeller/677-2.csv)
+
+| Ingående ackumulerade anskaffningsvärden | 1 239 657 | 1 142 647 | 1 239 657 | 1 142 647 |
+| --- | --- | --- | --- | --- |
+| Överfört från pågående nyanläggningar | 894 637 | 97 010 | 894 637 | 97 010 |
+| Utgående ackumulerade anskaffningsvärden | 2 134 294 | 1 239 657 | 2 134 294 | 1 239 657 |
+| Ingående ackumulerade avskrivningar | -79 787 | -20 229 | -79 787 | -20 229 |
+| Årets avskrivning | -65 710 | -59 558 | -65 710 | -59 558 |
+| Utgående ackumulerade avskrivningar | -145 497 | -79 787 | -145 497 | -79 787 |
+| Utgående bokfört värde | 1 988 797 | 1 159 870 | 1 988 797 | 1 159 870 |
 
 <!-- sida 678 -->
 
@@ -29456,34 +29280,36 @@ not 18 - inventarier
 
 KONCERN         MODERBOLAG
 2025    2024     2025    2024
-Ingående ackumulerade anskaffningsvärden 30 200 512 28 035 746 29 670 582 27 505 816
-Nyanskaffningar under året      2 814 128 2 591 967 2 664 128 2 591 967
-
-Överfört från pågående nyanläggningar 333 664     333 664    0
-Omklassificering                    0    452 857     0    452 857
-Försäljning / Utrangering under året -4 061 516 -880 058 -4 061 516 -880 058
-Utgående ackumulerade anskaffningsvärden 29 286 788 30 200 512 28 606 858 29 670 582
-
-Ingående ackumulerade avskrivningar -22 417 674 -19 771 054 -22 293 117 -19 750 329
-Årets avskrivning              -3 109 868 -2 921 052 -2 983 869 -2 817 220
-Omklassificering                    0    -452 858    0    -452 858
-
-Försäljning / Utrangering under året 3 953 295 727 290 3 953 295 727 290
-Utgående ackumulerade avskrivningar -21 574 247 -22 417 674 -21 323 691 -22 293 117
-Utgående bokfört värde          7 712 540 7 782 838 7 283 167 7 377 465
-
-not 19 - pågående nyanläggningar
 
 KONCERN         MODERBOLAG
 2025    2024     2025    2024
-Ingående ackumulerade anskaffningsvärden 103 715 203 131 611 485 86 859 027 130 591 236
-
-Årets investeringar            173 588 533 132 385 977 171 951 285 116 550 050
-Överfört under året            -165 824 513 -160 282 259 -147 331 089 -160 282 259
-Utgående bokfört värde         111 479 223 103 715 203 111 479 223 86 859 027
 
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2025 57
 Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
+
+[Tabell 678-1](handlingar.tabeller/678-1.csv)
+
+| Ingående ackumulerade anskaffningsvärden | 30 200 512 | 28 035 746 | 29 670 582 | 27 505 816 |
+| --- | --- | --- | --- | --- |
+| Nyanskaffningar under året | 2 814 128 | 2 591 967 | 2 664 128 | 2 591 967 |
+| Överfört från pågående nyanläggningar | 333 664 |  | 333 664 | 0 |
+| Omklassificering | 0 | 452 857 | 0 | 452 857 |
+| Försäljning / Utrangering under året | -4 061 516 | -880 058 | -4 061 516 | -880 058 |
+| Utgående ackumulerade anskaffningsvärden | 29 286 788 | 30 200 512 | 28 606 858 | 29 670 582 |
+| Ingående ackumulerade avskrivningar | -22 417 674 | -19 771 054 | -22 293 117 | -19 750 329 |
+| Årets avskrivning | -3 109 868 | -2 921 052 | -2 983 869 | -2 817 220 |
+| Omklassificering | 0 | -452 858 | 0 | -452 858 |
+| Försäljning / Utrangering under året | 3 953 295 | 727 290 | 3 953 295 | 727 290 |
+| Utgående ackumulerade avskrivningar | -21 574 247 | -22 417 674 | -21 323 691 | -22 293 117 |
+| Utgående bokfört värde not 19 - pågående nyanläggningar | 7 712 540 | 7 782 838 | 7 283 167 | 7 377 465 |
+
+[Tabell 678-2](handlingar.tabeller/678-2.csv)
+
+| Ingående ackumulerade anskaffningsvärden | 103 715 203 | 131 611 485 | 86 859 027 | 130 591 236 |
+| --- | --- | --- | --- | --- |
+| Årets investeringar | 173 588 533 | 132 385 977 | 171 951 285 | 116 550 050 |
+| Överfört under året | -165 824 513 | -160 282 259 | -147 331 089 | -160 282 259 |
+| Utgående bokfört värde | 111 479 223 | 103 715 203 | 111 479 223 | 86 859 027 |
 
 <!-- sida 679 -->
 
@@ -29500,49 +29326,47 @@ not 21 - långfristiga värdepappersinnehav
 
 KONCERN         MODERBOLAG
 2025    2024     2025    2024
-Aktier i Swedbank                113 425 113 425  113 425  113 425
-Aktier i SABO Byggnadsförsäkrings AB 30 000 30 000 30 000 30 000
-
-Insatskapital HBV                40 000  40 000   40 000  40 000
-Vindkraftsandelar O2             817 400 817 400  817 400 817 400
-Summa                           1 000 825 1 000 825 1 000 825 1 000 825
-
-not 22 - långfristiga fodringar
-
-KONCERN         MODERBOLAG
-
-```osaker-tabell
-                                  2025    2024     2025    2024
-Lån till dotterbolaget              0       0   45 000 000 25 000 000
-Deposition HBV                   36 845   24 797  36 845   24 797
-```
-
-Summa                            36 845  24 797 45 036 845 25 024 797
-
-not 23 - förutbetalda kostnader och upplupna intäkter
 
 KONCERN         MODERBOLAG
 2025    2024     2025    2024
-Fjärrvärme                      2 867 831   0    2 867 831   0
-Försäkringar                    1 805 297 1 697 273 1 771 572 1 667 465
 
-```osaker-tabell
-Parkeringsersättning             240 771 164 817  240 771 164 817
-Kungsbacka kommun               304 892  816 045  304 892 599 474
-Dataprogram och licenser        570 406  453 806  570 406 453 806
-Telefoni och datakommunikation  284 302  296 432  284 302 296 432
-Fastighetstjänster               329 618 149 901  329 618 149 901
-
-Samfällighetsavgifter            198 920 212 962  198 920 212 962
-Miele bonus                      110 196 135 776  110 196 135 776
-Bilinköp                            0   1 098 900    0   1 098 900
-Övrigt                          489 249  575 342  979 553 706 010
-```
-
-Summa                           7 201 482 5 601 254 7 658 061 5 485 543
+KONCERN         MODERBOLAG
+2025    2024     2025    2024
 
 58
 Dokument-ID 09222115557571174859 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
+
+[Tabell 679-1](handlingar.tabeller/679-1.csv)
+
+| Aktier i Swedbank | 113 425 | 113 425 | 113 425 | 113 425 |
+| --- | --- | --- | --- | --- |
+| Aktier i SABO Byggnadsförsäkrings AB | 30 000 | 30 000 | 30 000 | 30 000 |
+| Insatskapital HBV | 40 000 | 40 000 | 40 000 | 40 000 |
+| Vindkraftsandelar O2 | 817 400 | 817 400 | 817 400 | 817 400 |
+| Summa not 22 - långfristiga fodringar | 1 000 825 | 1 000 825 | 1 000 825 | 1 000 825 |
+
+[Tabell 679-2](handlingar.tabeller/679-2.csv)
+
+| Lån till dotterbolaget | 0 | 0 | 45 000 000 | 25 000 000 |
+| --- | --- | --- | --- | --- |
+| Deposition HBV | 36 845 | 24 797 | 36 845 | 24 797 |
+| Summa not 23 - förutbetalda kostnader och upplupna intäkter | 36 845 | 24 797 | 45 036 845 | 25 024 797 |
+
+[Tabell 679-3](handlingar.tabeller/679-3.csv)
+
+| Fjärrvärme | 2 867 831 | 0 | 2 867 831 | 0 |
+| --- | --- | --- | --- | --- |
+| Försäkringar | 1 805 297 | 1 697 273 | 1 771 572 | 1 667 465 |
+| Parkeringsersättning | 240 771 | 164 817 | 240 771 | 164 817 |
+| Kungsbacka kommun | 304 892 | 816 045 | 304 892 | 599 474 |
+| Dataprogram och licenser | 570 406 | 453 806 | 570 406 | 453 806 |
+| Telefoni och datakommunikation | 284 302 | 296 432 | 284 302 | 296 432 |
+| Fastighetstjänster | 329 618 | 149 901 | 329 618 | 149 901 |
+| Samfällighetsavgifter | 198 920 | 212 962 | 198 920 | 212 962 |
+| Miele bonus | 110 196 | 135 776 | 110 196 | 135 776 |
+| Bilinköp | 0 | 1 098 900 | 0 | 1 098 900 |
+| Övrigt | 489 249 | 575 342 | 979 553 | 706 010 |
+| Summa | 7 201 482 | 5 601 254 | 7 658 061 | 5 485 543 |
 
 <!-- sida 680 -->
 
@@ -30957,7 +30781,6 @@ Kassaflöde från den löpande verksamheten 3 433 146 2 664 724
 
 Investeringsverksamheten
 
-anläggningstillgångar
 Kassaflöde från investeringsverksamheten -21 379 727 -15 918 719
 
 Finansieringsverksamheten
@@ -30973,7 +30796,7 @@ Dokument-ID 09222115557571073374 Signerat CK, HS, PW, AL
 | --- | --- | --- |
 | Sålda materiella anläggningstillgångar | 0 | 0 |
 | Ökning av finansiella anläggningstillgångar | 0 | 0 |
-| Avyttring/amortering av övriga finansiella | 0 | 0 |
+| Avyttring/amortering av övriga finansiella anläggningstillgångar | 0 | 0 |
 
 [Tabell 701-2](handlingar.tabeller/701-2.csv)
 
@@ -38214,42 +38037,28 @@ Tkr
 
 Stiftelsens intäkter
 
-```osaker-tabell
-Bidrag                              2           12 610      11 731
-Nettoomsättning                                 24 508      29 902
-Övriga rörelseintäkter                             79         110
-Summa stiftelsens intäkter                      37 197      41 743
-```
-
-Stiftelsens kostnader
-
-```osaker-tabell
-Handelsvaror                                     -3 630     -5 277
-Övriga externa kostnader                        -11 728     -16 228
-Personalkostnader                   3           -22 031     -26 189
-```
-
-Av- och nedskrivningar av materiella och immateriella
-
-Finansiella poster
-
 [Tabell 850-1](handlingar.tabeller/850-1.csv)
 
-| anläggningstillgångar | -1 702 | -1 781 |
-| --- | --- | --- |
-| Övriga rörelsekostnader | -5 | -18 |
-| Summa stiftelsens kostnader | -39 096 | -49 493 |
-| Rörelseresultat | -1 899 | -7 750 |
-
-[Tabell 850-2](handlingar.tabeller/850-2.csv)
-
-| Övriga ränteintäkter och liknande resultatposter | 170 | 776 |
-| --- | --- | --- |
-| Räntekostnader och liknande resultatposter | -1 | -9 |
-| Summa finansiella poster | 169 | 767 |
-| Resultat efter finansiella poster | -1 730 | -6 983 |
-| Resultat före skatt | -1 730 | -6 983 |
-| Årets resultat | -1 730 | -6 983 |
+| Bidrag | 2 | 12 610 | 11 731 |
+| --- | --- | --- | --- |
+| Nettoomsättning |  | 24 508 | 29 902 |
+| Övriga rörelseintäkter |  | 79 | 110 |
+| Summa stiftelsens intäkter |  | 37 197 | 41 743 |
+| Stiftelsens kostnader |  |  |  |
+| Handelsvaror |  | -3 630 | -5 277 |
+| Övriga externa kostnader |  | -11 728 | -16 228 |
+| Personalkostnader | 3 | -22 031 | -26 189 |
+| Av- och nedskrivningar av materiella och immateriella anläggningstillgångar |  | -1 702 | -1 781 |
+| Övriga rörelsekostnader |  | -5 | -18 |
+| Summa stiftelsens kostnader |  | -39 096 | -49 493 |
+| Rörelseresultat |  | -1 899 | -7 750 |
+| Finansiella poster |  |  |  |
+| Övriga ränteintäkter och liknande resultatposter |  | 170 | 776 |
+| Räntekostnader och liknande resultatposter |  | -1 | -9 |
+| Summa finansiella poster |  | 169 | 767 |
+| Resultat efter finansiella poster |  | -1 730 | -6 983 |
+| Resultat före skatt |  | -1 730 | -6 983 |
+| Årets resultat |  | -1 730 | -6 983 |
 
 <!-- sida 851 -->
 
@@ -38266,50 +38075,35 @@ Anläggningstillgångar
 
 Immateriella anläggningstillgångar
 Koncessioner, patent, licenser, varumärken samt
-liknande rättigheter                4              42          63
-Summa immateriella anläggningstillgångar           42          63
-
-Materiella anläggningstillgångar
-Byggnader och mark                  5           16 932      16 329
-Inventarier, verktyg och installationer 6        8 610       9 909
-Pågående nyanläggningar och förskott avseende
-materiella anläggningstillgångar    7             228         870
-Summa materiella anläggningstillgångar          25 769      27 107
-
-Finansiella anläggningstillgångar
-
-Omsättningstillgångar
-
-Varulager m. m.
-Råvaror och förnödenheter                         346         870
-Summa varulager                                   346         870
-
-Kortfristiga fordringar
-
-Kassa och bank
 
 [Tabell 851-1](handlingar.tabeller/851-1.csv)
 
-| Andra långfristiga värdepappersinnehav | 10 099 | 12 540 |
-| --- | --- | --- |
-| Summa finansiella anläggningstillgångar | 10 099 | 12 540 |
-| Summa anläggningstillgångar | 35 911 | 39 710 |
-
-[Tabell 851-2](handlingar.tabeller/851-2.csv)
-
-| Kundfordringar | 367 | 155 |
-| --- | --- | --- |
-| Övriga fordringar | 298 | 258 |
-| Förutbetalda kostnader och upplupna intäkter | 692 | 848 |
-| Summa kortfristiga fordringar | 1 357 | 1 262 |
-
-[Tabell 851-3](handlingar.tabeller/851-3.csv)
-
-| Kassa och bank | 5 058 | 3 766 |
-| --- | --- | --- |
-| Summa kassa och bank | 5 058 | 3 766 |
-| Summa omsättningstillgångar | 6 761 | 5 898 |
-| SUMMA TILLGÅNGAR | 42 672 | 45 609 |
+| liknande rättigheter | 4 | 42 | 63 |
+| --- | --- | --- | --- |
+| Summa immateriella anläggningstillgångar |  | 42 | 63 |
+| Materiella anläggningstillgångar |  |  |  |
+| Byggnader och mark | 5 | 16 932 | 16 329 |
+| Inventarier, verktyg och installationer | 6 | 8 610 | 9 909 |
+| Pågående nyanläggningar och förskott avseende materiella anläggningstillgångar | 7 | 228 | 870 |
+| Summa materiella anläggningstillgångar |  | 25 769 | 27 107 |
+| Finansiella anläggningstillgångar |  |  |  |
+| Andra långfristiga värdepappersinnehav |  | 10 099 | 12 540 |
+| Summa finansiella anläggningstillgångar |  | 10 099 | 12 540 |
+| Summa anläggningstillgångar |  | 35 911 | 39 710 |
+| Omsättningstillgångar |  |  |  |
+| Varulager m. m. |  |  |  |
+| Råvaror och förnödenheter |  | 346 | 870 |
+| Summa varulager |  | 346 | 870 |
+| Kortfristiga fordringar |  |  |  |
+| Kundfordringar |  | 367 | 155 |
+| Övriga fordringar |  | 298 | 258 |
+| Förutbetalda kostnader och upplupna intäkter |  | 692 | 848 |
+| Summa kortfristiga fordringar |  | 1 357 | 1 262 |
+| Kassa och bank |  |  |  |
+| Kassa och bank |  | 5 058 | 3 766 |
+| Summa kassa och bank |  | 5 058 | 3 766 |
+| Summa omsättningstillgångar |  | 6 761 | 5 898 |
+| SUMMA TILLGÅNGAR |  | 42 672 | 45 609 |
 
 <!-- sida 852 -->
 
@@ -38473,18 +38267,7 @@ Not 6 Inventarier, verktyg och installationer
 
 Not 7 Pågående nyanläggningar och förskott avseende materiella anläggningstillgångar
 
-2025-12-31 2024-12-31
-
 Not 8 Eget kapital
-Stiftelse Balanserat Årets     Totalt
-kapital  resultat  resultat
-Belopp vid
-räkenskapsårets början 10 500    26 696    -6 983   30 214
-Överföring av
-föregående års resultat          -6 983    6 983        0
-Årets resultat                             -1 730    -1 730
-Belopp vid
-räkenskapsårets slut   10 500    19 714    -1 730   28 483
 
 [Tabell 855-1](handlingar.tabeller/855-1.csv)
 
@@ -38502,12 +38285,23 @@ räkenskapsårets slut   10 500    19 714    -1 730   28 483
 
 [Tabell 855-2](handlingar.tabeller/855-2.csv)
 
-| Ingående anskaffningsvärden | 870 | 1 003 |
+|  | 2025-12-31 | 2024-12-31 |
 | --- | --- | --- |
+| Ingående anskaffningsvärden | 870 | 1 003 |
 | Inköp | 228 | 2 995 |
 | Omklassificeringar | -870 | -3 128 |
 | Utgående ackumulerade anskaffningsvärden | 228 | 870 |
 | Utgående redovisat värde | 228 | 870 |
+
+[Tabell 855-3](handlingar.tabeller/855-3.csv)
+
+|  | Stiftelse kapital | Balanserat resultat | Årets resultat | Totalt |
+| --- | --- | --- | --- | --- |
+| Belopp vid |  |  |  |  |
+| räkenskapsårets början | 10 500 | 26 696 | -6 983 | 30 214 |
+| Överföring av föregående års resultat |  | -6 983 | 6 983 | 0 |
+| Årets resultat |  |  | -1 730 | -1 730 |
+| Belopp vid räkenskapsårets slut | 10 500 | 19 714 | -1 730 | 28 483 |
 
 <!-- sida 856 -->
 
@@ -38515,10 +38309,6 @@ Stiftelsen Tjolöholm                                        11 (11)
 Org.nr 849400-4578
 
 Not 9 Mottagna ej använda bidrag
-Varav avräknat
-Offentliga mot pågående
-fastighetsbidra nyanläggninga
-g        r  Övriga bidrag Summa
 
 Under året har en förändring gällande den redovisningsmässiga hanteringen av historiskt erhållna bidrag
 gjorts, varför en justering av avräknade bidrag har genomförts i redovisningen.
@@ -38546,8 +38336,9 @@ Auktoriserad revisor
 
 [Tabell 856-1](handlingar.tabeller/856-1.csv)
 
-| Vid årets början | 5 390 | 0 | 0 | 5 390 |
+|  | Offentliga fastighetsbidra g | Varav avräknat mot pågående nyanläggninga r | Övriga bidrag | Summa |
 | --- | --- | --- | --- | --- |
+| Vid årets början | 5 390 | 0 | 0 | 5 390 |
 | Under året erhållna bidrag | 3 295 |  |  | 3 295 |
 | Bidrag avräknade i resultaträkningen | -5 924 |  |  | -5 924 |
 | Vid årets slut | 2 761 | 0 | 0 | 2 761 |
@@ -40352,7 +40143,7 @@ enbart fastigheterna som ägs av Eksta att beaktas vidare i utredningen.
 
 Tabell 1. Befintligt bestånd av vård- och omsorgsboenden
 
-[Tabell 896-1](handlingar.tabeller/896-1.csv)
+[Tabell 896-897-1](handlingar.tabeller/896-897-1.csv)
 
 |  | Totalt<br>platser | Varav<br>demens | Varav<br>somatik | Driftform | Hyresavtal kan<br>tidigast avträdas | Detaljplan | Fastighetsägare |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -40367,19 +40158,15 @@ Tabell 1. Befintligt bestånd av vård- och omsorgsboenden
 | Signeshus\*\* | 97 |  |  | Egenregi | 2051-03-31 | Detaljplan,<br>Servicelägenheter (B )<br>2 | Eksta |
 | Smedjan (korttid<br>och växelvård) | 50 | x | x | Egenregi | 2027-09-30\* | Detaljplan, Bostäder (B) | Privat |
 | Särö | 80 | 60 | 20 | Egenregi | 2045-10-31 | Detaljplan, Vård och<br>omsorgsboende (BD )<br>1 | Eksta |
+| Vickan4 | 40 | 20 | 10 | Driftentreprenad<br>enligt LOU | 2032-03-31 | Detaljplan, Bostäder (B )<br>3 | Eksta |
+| Åsa | 60 | 49 | 11 | Egenregi | 2030-08-31 | Detaljplan, Allmänt<br>ändamål (A) | Eksta |
+| Totalt\*\*\* | 860 | 373 | 330 |  |  |  |  |
 
 <!-- sida 897 -->
 
 \* Villkorsändring av hyresavtal för Bedagården samt Smedjan pågår.
 \*\* Signeshus har genomgått ombyggnation och beräknas tas i drift 2026.
 \*\*\* Uppgift om fördelning demens/somatik saknas för Signeshus
-
-[Tabell 897-1](handlingar.tabeller/897-1.csv)
-
-| Vickan4 | 40 | 20 | 10 | Driftentreprenad<br>enligt LOU | 2032-03-31 | Detaljplan, Bostäder (B )<br>3 | Eksta |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Åsa | 60 | 49 | 11 | Egenregi | 2030-08-31 | Detaljplan, Allmänt<br>ändamål (A) | Eksta |
-| Totalt\*\*\* | 860 | 373 | 330 |  |  |  |  |
 
 <!-- sida 898 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.3f19ad5f18d548ea2e02bd6/17066084049
 sha256: a5a050a32693b8f345d2515811c976ed09c53b438dba3ead964cb177d2093665
 bytes: 4702635
 sidor: 86
-hamtad: 2026-10-08T08:53:11+00:00
-konverterad: 2026-10-08T08:53:32+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T06:48:51+00:00
+konverterad: 2026-10-15T06:49:14+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [14, 51, 58, 69, 70, 71, 85, 86]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -118,8 +118,9 @@ Valnämnden har ingen egen personal eller arvoderade valförrättare år 2023.
 
 [Tabell 5-1](handlingar.tabeller/5-1.csv)
 
-| Utfall (miljoner kronor)<br>Intäkter | Utfall 2021<br>0,0 | Utfall 2022<br>2,3 | Utfall 2023 |
+| Utfall (miljoner kronor) | Utfall 2021 | Utfall 2022 | Utfall 2023 |
 | --- | --- | --- | --- |
+| Intäkter | 0,0 | 2,3 |  |
 | Kostnader | -0,2 | -3,7 | -0,3 |
 | Netto | -0,2 | -1,4 | -0,3 |
 | Budget, netto | -0,6 | -2,3 | -1,0 |
@@ -165,6 +166,13 @@ Nämndens årsredovisning 2023
 
 Drift (belopp mnkr)
 
+Uppföljningsnivå (belopp i                                Budgetavvik
+Bokslut 2022 Budget 2023 Bokslut 2023
+mnkr)                                                      else 2023
+Valnämnden                        -1,4      -1,0      -0,3       0,7
+
+Summa                             -1,4      -1,0      -0,3       0,7
+
 Kommentarer
 Resultatet för valnämndens verksamhet ger ett budgetöverskott på 0,7 miljoner kronor då nämnden fått mer
 budget än grundbehovet kräver. Valnämnden bedriver ingen stor verksamhet år 2023 då det inte är valår
@@ -183,13 +191,6 @@ Ej aktuellt då underskott eller negativ resultatfond ej föreligger
 5
 
 [Tabell 8-1](handlingar.tabeller/8-1.csv)
-
-| Uppföljningsnivå (belopp i<br>mnkr)<br>Valnämnden |  | Bokslut 2022<br>-1,4 | Budget 2023<br>-1,0 | Bokslut 2023<br>-0,3 | Budgetavvik<br>else 2023<br>0,7 |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-| Summa |  | -1,4 | -1,0 | -0,3 | 0,7 |
-
-[Tabell 8-2](handlingar.tabeller/8-2.csv)
 
 | Nämnd (belopp i mnkr) | Prognos delår april | Prognos delår augusti | Bokslut 2023 |
 | --- | --- | --- | --- |
@@ -622,7 +623,7 @@ Kursiv ny lokal
 Bilaga A
 2024-01-10
 
-[Tabell 23-1](handlingar.tabeller/23-1.csv)
+[Tabell 23-24-1](handlingar.tabeller/23-24-1.csv)
 
 | Valdistrikt | Vallokal 2024 |
 | --- | --- |
@@ -663,13 +664,7 @@ Bilaga A
 | Särö | Särö skola, Matsalen |
 | Tingberget | Tingbergsskolan, Matsalen |
 | Vallda Backa | Toråsskolan, Matsalen |
-
-<!-- sida 24 -->
-
-[Tabell 24-1](handlingar.tabeller/24-1.csv)
-
 | Vallda Bröndomme | Valldahallen A |
-| --- | --- |
 | Vallda Sandö | Valldahallen B |
 | Innerstaden | Varlaskolan, Matsalen |
 | Ölmevalla Östra | Åsa Gårdsskolan, Idrottssalen |
@@ -678,6 +673,8 @@ Bilaga A
 | Ölmanäs | Åsaskolan, Biblioteket |
 | Älvsåker | Älvsåkersskolan, Folkbiblioteket uppehållsrummet |
 | Anneberg | Älvsåkersskolan, Matsalen |
+
+<!-- sida 24 -->
 
 <!-- sida 25 -->
 
@@ -689,35 +686,53 @@ Kursiv ny lokal
 Bilaga B
 2024-01-10
 
-[Tabell 25-1](handlingar.tabeller/25-1.csv)
+Kommundel    Lokal           22/5 - 9/6                Anteckningar
+Frillesås    Frillesåsskolan Måndag - fredag
+Gamla elevcaféet 15.00–18.00
 
-| Kommundel | Lokal | 22/5 - 9/6 | Anteckningar |
-| --- | --- | --- | --- |
-| Frillesås | Frillesåsskolan<br>Gamla elevcaféet | Måndag - fredag<br>15.00–18.00 |  |
-|  |  |  |  |
-| Åsa | Åsa Gårdsskola<br>Biblioteket | Måndag – fredag<br>16.00 – 19.00 |  |
-|  |  |  |  |
-| Åsa | Löftadalens<br>Folkhögskola, A-salen | Torsdag 30 maj<br>15.00-17.00 | Kan skriva ut<br>dubblettröstkort |
-|  |  |  |  |
-| Fjärås | Mötesplats Fjärås<br>Fjärås torg | Måndag – fredag<br>15.00 – 18.00 |  |
-|  |  |  |  |
-| Kungsbacka | Stadshuset,<br>Idala/Fjäråsrummet,<br>entréplan | Måndag 08.00-18.00<br>Tisdag -Torsdag 08.00-17.00<br>Fredag 08.00 - 15.00<br>Lördag 10.00 – 17.00 v. 22-23<br>Söndag 11.00 -17.00 v. 22<br>Valdagen 08.00-21.00 v. 23 | Kan skriva ut<br>dubblettröstkort |
-|  |  |  |  |
-| Kungsbacka | Kungsmässan<br>entrén mot<br>Borgmästaregatan | Vardagar 10.00 – 20.00<br>Lördag 10.00 – 18.00 v.21-23<br>Söndag & 6/6 10.00 – 18.00 v. 21-23 | Kan skriva ut<br>dubblettröstkort |
-|  |  |  |  |
-| Kungsbacka | Biblioteksbussen | Enligt tidtabell. | Länk tidtabell |
-|  |  |  |  |
-| Kungsbacka | Aranäsgymnasiet<br>Lokal I-128, Estet | Måndag 27 maj & tisdag 28 maj<br>11.00-14.00 | Kan skriva ut<br>dubblettröstkort |
-|  |  |  |  |
-| Kungsbacka | Elof Lindälvsgymnasiet<br>Utanför aulan | Onsdag 29 maj & torsdag 30 maj<br>11.00-14.00 | Kan skriva ut<br>dubblettröstkort |
-|  |  |  |  |
-| Älvsåker | Älvsåkerskolan,<br>Biblioteket | Måndag – fredag<br>15.00–18.00 |  |
-|  |  |  |  |
-| Vallda | Toråsskolan,<br>biblioteket | Måndag – fredag<br>15.00–18.00 |  |
-|  |  |  |  |
-| Onsala | Båt- och<br>Sjöfartsmuseum<br>Hagards väg, Onsala | Måndag-fredag<br>15.00–18.00 även 6/6 |  |
-|  |  |  |  |
-| Kullavik | Biblioteket Kullavik | Måndag: 11.00-19.00<br>Tisdag: 13.00 -17.00<br>Onsdag: 9.00 -17.00<br>Torsdag: 15.00 -19.00<br>Lördag: 10.00-14.00 |  |
+Åsa          Åsa Gårdsskola  Måndag – fredag
+Biblioteket     16.00 – 19.00
+
+Åsa          Löftadalens     Torsdag 30 maj            Kan skriva ut
+Folkhögskola, A-salen 15.00-17.00         dubblettröstkort
+
+Fjärås       Mötesplats Fjärås Måndag – fredag
+Fjärås torg     15.00 – 18.00
+
+Kungsbacka   Stadshuset,     Måndag 08.00-18.00        Kan skriva ut
+Idala/Fjäråsrummet, Tisdag -Torsdag 08.00-17.00 dubblettröstkort
+entréplan       Fredag 08.00 - 15.00
+Lördag 10.00 – 17.00 v. 22-23
+Söndag 11.00 -17.00 v. 22
+Valdagen 08.00-21.00 v. 23
+
+Kungsbacka   Kungsmässan     Vardagar 10.00 – 20.00    Kan skriva ut
+entrén mot      Lördag 10.00 – 18.00 v.21-23 dubblettröstkort
+Borgmästaregatan Söndag & 6/6 10.00 – 18.00 v. 21-23
+
+Kungsbacka   Biblioteksbussen Enligt tidtabell.        Länk tidtabell
+
+Kungsbacka   Aranäsgymnasiet Måndag 27 maj & tisdag 28 maj Kan skriva ut
+Lokal I-128, Estet 11.00-14.00            dubblettröstkort
+
+Kungsbacka   Elof Lindälvsgymnasiet Onsdag 29 maj & torsdag 30 maj Kan skriva ut
+Utanför aulan   11.00-14.00               dubblettröstkort
+
+Älvsåker     Älvsåkerskolan, Måndag – fredag
+Biblioteket     15.00–18.00
+
+Vallda       Toråsskolan,    Måndag – fredag
+biblioteket     15.00–18.00
+
+Onsala       Båt- och        Måndag-fredag
+Sjöfartsmuseum  15.00–18.00 även 6/6
+Hagards väg, Onsala
+
+Kullavik     Biblioteket Kullavik Måndag: 11.00-19.00
+Tisdag: 13.00 -17.00
+Onsdag: 9.00 -17.00
+Torsdag: 15.00 -19.00
+Lördag: 10.00-14.00
 
 <!-- sida 26 -->
 
@@ -1974,44 +1989,92 @@ Förtroendevalda på deltid
 respektive uppdrag aktuell procentsats av 973 805 kronor (årsarvodet för övriga
 kommunalråd):
 
+Nämnd, styrelse Uppdrag     %-sats Belopp, kr/år Belopp kr/år
+2023     2024
+Kommunstyrelsen (ej Ledamot i AU 40 % 377 810  389 525
+kommunalråd)   Ersättare i AU 5 %      47 230   48 695
+(budgetarbete ingår)
+
+```osaker-tabell
+Byggnadsnämnden Ordförande    35 %    330 585  340 835
+               Vice ordförande 18 %   170 015  175 285
+               Au-ledamot     5 %      47 230   48 695
+```
+
+Nämnden för Förskola & Ordförande 35 % 330 585 340 835
+Grundskola     Vice ordförande 18 %   170 015  175 285
+2:e vice ordförande 10 % 94 455  97 385
+Au-ledamot     4 %      37 785   38 955
+
 Kungsbacka kommun 434 81 Kungsbacka | Besöksadress Vägmästaren, Syréngatan 1
 Telefon 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
-
-[Tabell 55-1](handlingar.tabeller/55-1.csv)
-
-| Nämnd, styrelse | Uppdrag | %-sats | Belopp, kr/år<br>2023 | Belopp kr/år<br>2024 |
-| --- | --- | --- | --- | --- |
-| Kommunstyrelsen (ej<br>kommunalråd) | Ledamot i AU<br>Ersättare i AU<br>(budgetarbete ingår) | 40 %<br>5 % | 377 810<br>47 230 | 389 525<br>48 695 |
-| Byggnadsnämnden | Ordförande<br>Vice ordförande<br>Au-ledamot | 35 %<br>18 %<br>5 % | 330 585<br>170 015<br>47 230 | 340 835<br>175 285<br>48 695 |
-| Nämnden för Förskola &<br>Grundskola | Ordförande<br>Vice ordförande<br>2:e vice ordförande<br>Au-ledamot | 35 %<br>18 %<br>10 %<br>4 % | 330 585<br>170 015<br>94 455<br>37 785 | 340 835<br>175 285<br>97 385<br>38 955 |
 
 <!-- sida 56 -->
 
 KUNGSBACKA KOMMUN
 2 (3)
 
+```osaker-tabell
+Nämnden för     Ordförande    30 %    283 360  292 145
+Gymnasium &     Vice ordförande 18 %  170 015  175 285
+Arbetsmarknad   Utskottsledamot 5 %    47 230  48 695
+```
+
+Nämnden för Individ & Ordförande 35 % 330 585  340 835
+
+```osaker-tabell
+Familjeomsorg   Vice ordförande 18 %  170 015  175 285
+                Utskottsledamot 8 %    75 565  77 905
+
+Nämnden för Kultur & Ordförande 30 %  283 360  292 145
+Fritid          Vice ordförande 18 %  170 015  175 285
+```
+
+2:e vice ordförande 10 % 94 455 97 385
+
+```osaker-tabell
+Nämnden för Miljö & Ordförande 25 %   236 130  243 455
+Hälsoskydd      Vice ordförande 10 %   94 455  97 385
+
+Nämnden för Service Ordförande 25 %   236 130  243 455
+                Vice ordförande 10 %   94 455  97 385
+Nämnden för Teknik Ordförande 25 %    236 130  243 455
+                Vice ordförande 18 %  170 015  175 285
+                Utskottsledamot 4 %    37 785  38 955
+
+Nämnden för Vård & Ordförande 30 %    282 360  292 145
+Omsorg          Vice ordförande 18 %  170 015  175 285
+```
+
+2:e vice ordförande 10 % 94 455 97 385
+Kommunfullmäktige Ordförande  20 %    188 905  194 765
+Vice ordförande 8 %    75 565  77 905
+2:e vice ordförande 4 % 37 785 38 955
+
+```osaker-tabell
+Eksta Bostads AB Ordförande   15 %    141 680  146 075
+                Vice ordförande 6 %    56 675  58 430
+Kommunrevisionen Ordförande   15 %    141 680  146 075
+                Vice ordförande 6 %    56 675  58 430
+                Ledamöter     5 %      47 230  48 695
+
+Stiftelsen Tjolöholm Ordförande 15 %  141 680  146 075
+                Vice ordförande 6 %    56 675  58 430
+```
+
+Överförmyndarnämnden Vice ordförande 10 % 94 455 97 385
+Kommunfullmäktiges Ordförande 2 %      18 895  19 480
+valberedning
+
+Valnämnden valår 2024 Ordförande 5%            48 695
+Vice ordförande 3%             29 215
+Valnämnden – ej valår Ordförande 4%    37 785
+Vice ordförande 2 %    18 895
+
+Partigruppledare Inte kommunalråd 8 %  75 565  77 905
+
 Om deltidsuppdrag innehas av kommunalråd utgår endast ersättning som
 kommunalråd.
-
-[Tabell 56-1](handlingar.tabeller/56-1.csv)
-
-| Nämnden för<br>Gymnasium &<br>Arbetsmarknad | Ordförande<br>Vice ordförande<br>Utskottsledamot | 30 %<br>18 %<br>5 % | 283 360<br>170 015<br>47 230 | 292 145<br>175 285<br>48 695 |
-| --- | --- | --- | --- | --- |
-| Nämnden för Individ &<br>Familjeomsorg | Ordförande<br>Vice ordförande<br>Utskottsledamot | 35 %<br>18 %<br>8 % | 330 585<br>170 015<br>75 565 | 340 835<br>175 285<br>77 905 |
-| Nämnden för Kultur &<br>Fritid | Ordförande<br>Vice ordförande<br>2:e vice ordförande | 30 %<br>18 %<br>10 % | 283 360<br>170 015<br>94 455 | 292 145<br>175 285<br>97 385 |
-| Nämnden för Miljö &<br>Hälsoskydd | Ordförande<br>Vice ordförande | 25 %<br>10 % | 236 130<br>94 455 | 243 455<br>97 385 |
-| Nämnden för Service | Ordförande<br>Vice ordförande | 25 %<br>10 % | 236 130<br>94 455 | 243 455<br>97 385 |
-| Nämnden för Teknik | Ordförande<br>Vice ordförande<br>Utskottsledamot | 25 %<br>18 %<br>4 % | 236 130<br>170 015<br>37 785 | 243 455<br>175 285<br>38 955 |
-| Nämnden för Vård &<br>Omsorg | Ordförande<br>Vice ordförande<br>2:e vice ordförande | 30 %<br>18 %<br>10 % | 282 360<br>170 015<br>94 455 | 292 145<br>175 285<br>97 385 |
-| Kommunfullmäktige | Ordförande<br>Vice ordförande<br>2:e vice ordförande | 20 %<br>8 %<br>4 % | 188 905<br>75 565<br>37 785 | 194 765<br>77 905<br>38 955 |
-| Eksta Bostads AB | Ordförande<br>Vice ordförande | 15 %<br>6 % | 141 680<br>56 675 | 146 075<br>58 430 |
-| Kommunrevisionen | Ordförande<br>Vice ordförande<br>Ledamöter | 15 %<br>6 %<br>5 % | 141 680<br>56 675<br>47 230 | 146 075<br>58 430<br>48 695 |
-| Stiftelsen Tjolöholm | Ordförande<br>Vice ordförande | 15 %<br>6 % | 141 680<br>56 675 | 146 075<br>58 430 |
-| Överförmyndarnämnden | Vice ordförande | 10 % | 94 455 | 97 385 |
-| Kommunfullmäktiges<br>valberedning | Ordförande | 2 % | 18 895 | 19 480 |
-| Valnämnden valår 2024 | Ordförande<br>Vice ordförande | 5%<br>3% |  | 48 695<br>29 215 |
-| Valnämnden – ej valår | Ordförande<br>Vice ordförande | 4%<br>2 % | 37 785<br>18 895 |  |
-| Partigruppledare | Inte kommunalråd | 8 % | 75 565 | 77 905 |
 
 <!-- sida 57 -->
 
@@ -2511,19 +2574,33 @@ Nedan framgår en översikt över de konsekvensbedömningar som gjorts i kommune
 och där jag lämnat råd. Inom parentes anges vilken del av kommunens verksamhet som gjort
 konsekvensbedömningen:
 
+Gjorda konsekvensbedömningar där lämnat råd
+2021                 2022                 2023
+
+Integrationsplattform (SE) Kontors- och samarbetsverktyg (KS) Stöd vid separationer (IF)
+
+Mitt Arkiv (KS)                          Specialkost (SE)
+Ansökan om stipendium – e-tjänst
+(GA)
+
+E-tjänsteplattform (KS) Gästnätverk (SE) Stöd för automatisering av
+arbets- och beslutsprocesser (KS)
+
+Kompletterande                           Dokumentation vid
+kamerabevakning/digital tillsyn Chattverktyg på kommunens disciplinärenden (KS)
+(VO/IF)            hemsida (KS)
+
+Bedömningsstöd inom Hantering av         Automatiserat avslut av
+gymnasieskolan (GA) användarbehörigheter (SE) personakter (SE)
+
+Färdtjänst – e-tjänst (TE)               Analys- och planeringsstöd inom
+Rapportering av missförhållanden socialtjänsten (IF)
+(visselblåsarfunktion) (KS)
+
+Ekonomiskt bistånd – e-tjänst            Säker posthantering
+(GA)               Digitalt stöd inom LSS (IF) (digital/fysisk) (KS)
+
 10
-
-[Tabell 67-1](handlingar.tabeller/67-1.csv)
-
-| Gjorda konsekvensbedömningar där lämnat råd<br>2021 2022 2023 |  |  |
-| --- | --- | --- |
-| Integrationsplattform (SE) | Kontors- och samarbetsverktyg (KS) | Stöd vid separationer (IF) |
-| Mitt Arkiv (KS) | Ansökan om stipendium – e-tjänst<br>(GA) | Specialkost (SE) |
-| E-tjänsteplattform (KS) | Gästnätverk (SE) | Stöd för automatisering av<br>arbets- och beslutsprocesser (KS) |
-| Kompletterande<br>kamerabevakning/digital tillsyn<br>(VO/IF) | Chattverktyg på kommunens<br>hemsida (KS) | Dokumentation vid<br>disciplinärenden (KS) |
-| Bedömningsstöd inom<br>gymnasieskolan (GA) | Hantering av<br>användarbehörigheter (SE) | Automatiserat avslut av<br>personakter (SE) |
-| Färdtjänst – e-tjänst (TE) | Rapportering av missförhållanden<br>(visselblåsarfunktion) (KS) | Analys- och planeringsstöd inom<br>socialtjänsten (IF) |
-| Ekonomiskt bistånd – e-tjänst<br>(GA) | Digitalt stöd inom LSS (IF) | Säker posthantering<br>(digital/fysisk) (KS) |
 
 <!-- sida 68 -->
 

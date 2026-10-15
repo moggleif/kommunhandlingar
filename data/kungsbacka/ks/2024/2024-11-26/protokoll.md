@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.5ea575a19367eedc862ed66/17331230961
 sha256: 751085864fc8acb69c5ec3ec553af00d3ad41e28b0bd1eaf670e10148d4080a3
 bytes: 819746
 sidor: 58
-hamtad: 2026-10-08T09:09:34+00:00
-konverterad: 2026-10-08T09:09:42+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:01:35+00:00
+konverterad: 2026-10-15T07:01:46+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1773,7 +1773,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 84101C747CF7673D40CC7EF639A8A438BCE7C3931A
 Transaktionsidentitet: F80F1F2666AE8B769F3A8C1B214BA22D1F3DCB9034
 
-[Tabell 38-1](protokoll.tabeller/38-1.csv)
+[Tabell 38-39-1](protokoll.tabeller/38-39-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -1786,6 +1786,12 @@ Transaktionsidentitet: F80F1F2666AE8B769F3A8C1B214BA22D1F3DCB9034
 | Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>Klimat- och näringslivsdepartementets remiss om<br>utkast till rapport om hur Sverige genomför<br>Århuskonventionen |
 | Specialist mark- och<br>exploatering | Markupplåtelseavtal Ellevio - Kläppa 2:2 |
 | Exploateringshandläggare | Servitutsavtal Vallda 20:62 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Må 2:184 - Vatten-, spillvatten- och<br>dagvattenledningar |
+| Exploateringshandläggare | Servitutsavtal Alslöv 3:9 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Hjälmsberg 2:1 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Köpstaden 3:71 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Vallby 6:3 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Vallby 6:9 - Teleledningar |
 
 <!-- sida 39 -->
 
@@ -1802,16 +1808,6 @@ redovisningen av delegeringsbeslut fattade under perioden 2024-05-06 till
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 84101C747CF7673D40CC7EF639A8A438BCE7C3931A
 Transaktionsidentitet: F80F1F2666AE8B769F3A8C1B214BA22D1F3DCB9034
-
-[Tabell 39-1](protokoll.tabeller/39-1.csv)
-
-| Exploateringshandläggare | Servitutsavtal Må 2:184 - Vatten-, spillvatten- och<br>dagvattenledningar |
-| --- | --- |
-| Exploateringshandläggare | Servitutsavtal Alslöv 3:9 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Hjälmsberg 2:1 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Köpstaden 3:71 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Vallby 6:3 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Vallby 6:9 - Teleledningar |
 
 <!-- sida 40 -->
 

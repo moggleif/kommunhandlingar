@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7d86dbc01919733afcd89eb/17252563700
 sha256: b221797f87f764efd7ad30f33b32f149930b2e0514412cd767c77d4c44cfc4c5
 bytes: 623392
 sidor: 35
-hamtad: 2026-10-08T09:08:18+00:00
-konverterad: 2026-10-08T09:08:25+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:01:10+00:00
+konverterad: 2026-10-15T07:01:18+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -899,7 +899,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: E4352B6F39BB3854D397441F9C05E7530708646DDB
 Transaktionsidentitet: EBF43AF8B97BE7917C91B5963DC7C5E39509D83C4A
 
-[Tabell 20-1](protokoll.tabeller/20-1.csv)
+[Tabell 20-22-1](protokoll.tabeller/20-22-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -911,22 +911,7 @@ Transaktionsidentitet: EBF43AF8B97BE7917C91B5963DC7C5E39509D83C4A
 | Samhällsbyggnadschef | Kommunstyrelsen avstår från att lämna yttrande<br>över Trafikverkets remiss om åtgärdsprogram för<br>omgivningsbuller 2024–2028 |
 | Samhällsplanerare | Yttrande till Göteborgs stad avseende<br>avgränsningssamråd rörande förstärkning av VA-<br>ledningsnät mellan Välen och Lindås |
 | Samhällsbyggnadschef | Kommunstyrelsen avstår från att lämna yttrande<br>över Klimat- och näringslivsdepartementets remiss<br>om författningsändringar i förordning (2014:425)<br>om bekämpningsmedel |
-
-<!-- sida 21 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          21 (33)
-Kommunstyrelsen
-Datum
-2024-08-27
-
-Det här dokumentet är digitalt signerat
-Transaktionsidentitet: E4352B6F39BB3854D397441F9C05E7530708646DDB
-Transaktionsidentitet: EBF43AF8B97BE7917C91B5963DC7C5E39509D83C4A
-
-[Tabell 21-1](protokoll.tabeller/21-1.csv)
-
 | Samhällsbyggnadschef | Kommunstyrelsen avstår från att lämna yttrande<br>över Finansdepartementets remiss om ett effektivt<br>straffrättsligt skydd för statliga stöd till företag. |
-| --- | --- |
 | Samhällsplanerare | Kommunstyrelsen avstår från att lämna yttrande<br>över remiss om registerhållning för användande av<br>avloppsslam |
 | Exploateringshandläggare | Servitutsavtal Äskatorp 5:23 - Teleledningar |
 | Exploateringshandläggare | Servitutsavtal Äskatorp 5:5 - Teleledningar |
@@ -945,6 +930,23 @@ Transaktionsidentitet: EBF43AF8B97BE7917C91B5963DC7C5E39509D83C4A
 | Mark- och exploateringschef | Markupplåtelseavtal Ellevio - Iserås 19:1 |
 | Mark- och exploateringschef | Avtal om jakträtt - Kläppa 2:2 och Kläppa 2:13 |
 | Mark- och exploateringschef | Överenskommelse om fastighetsreglering Släps-<br>Hagen 1:136 och Släps-Hagen 1:77, 1:79 |
+| Exploateringshandläggare | Servitutsavtal Förlanda-Rya 2:12 - Teleledningar |
+| Mark- och exploateringschef | Markupplåtelseavtal Ellevio - Skällared 2:101 |
+| Mark- och exploateringschef | Sidoarrende Frillesås-Rya 3:77 - Jordbruk |
+| Mark- och exploateringschef | Avtal om jakt - Guntofta 3:8 |
+| Mark- och exploateringschef | Avtal om sidoarrende Kläppa 2:2 och 2:13 -<br>jordbruk |
+| Mark- och exploateringschef | Avtal om nyttjanderätt med Björkåfrihet - kläd- och<br>textilinsamling på flera platser |
+
+<!-- sida 21 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          21 (33)
+Kommunstyrelsen
+Datum
+2024-08-27
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: E4352B6F39BB3854D397441F9C05E7530708646DDB
+Transaktionsidentitet: EBF43AF8B97BE7917C91B5963DC7C5E39509D83C4A
 
 <!-- sida 22 -->
 
@@ -961,16 +963,6 @@ redovisningen av delegeringsbeslut fattade under perioden 2023-01-26 till
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: E4352B6F39BB3854D397441F9C05E7530708646DDB
 Transaktionsidentitet: EBF43AF8B97BE7917C91B5963DC7C5E39509D83C4A
-
-[Tabell 22-1](protokoll.tabeller/22-1.csv)
-
-| Exploateringshandläggare | Servitutsavtal Förlanda-Rya 2:12 - Teleledningar |
-| --- | --- |
-| Mark- och exploateringschef | Markupplåtelseavtal Ellevio - Skällared 2:101 |
-| Mark- och exploateringschef | Sidoarrende Frillesås-Rya 3:77 - Jordbruk |
-| Mark- och exploateringschef | Avtal om jakt - Guntofta 3:8 |
-| Mark- och exploateringschef | Avtal om sidoarrende Kläppa 2:2 och 2:13 -<br>jordbruk |
-| Mark- och exploateringschef | Avtal om nyttjanderätt med Björkåfrihet - kläd- och<br>textilinsamling på flera platser |
 
 <!-- sida 23 -->
 
@@ -1374,7 +1366,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: E4352B6F39BB3854D397441F9C05E7530708646DDB
 Transaktionsidentitet: EBF43AF8B97BE7917C91B5963DC7C5E39509D83C4A
 
-[Tabell 31-1](protokoll.tabeller/31-1.csv)
+[Tabell 31-32-1](protokoll.tabeller/31-32-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -1382,6 +1374,17 @@ Transaktionsidentitet: EBF43AF8B97BE7917C91B5963DC7C5E39509D83C4A
 | Hravn Forsne (M) | X |  |  |
 | Maria Gathendahl (M) | X |  |  |
 | Berit Bergström (M) | X |  |  |
+| Thure Sandén (M) | X |  |  |
+| Magdalena Sundqvist (S) |  | X |  |
+| Johan Tolinsson (S) |  | X |  |
+| Stefan Jägnert (SD) | X |  |  |
+| Stefan Vilumsons (SD) | X |  |  |
+| Fredrik Hansson (C) | X |  |  |
+| Monica Neptun (L) | X |  |  |
+| Fredrik Kollberg (KD) | X |  |  |
+| Patrik Jervne Henestam (V) |  | X |  |
+| Maria Losman (MP) |  | X |  |
+| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 32 -->
 
@@ -1396,21 +1399,6 @@ Samtliga nämnder
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: E4352B6F39BB3854D397441F9C05E7530708646DDB
 Transaktionsidentitet: EBF43AF8B97BE7917C91B5963DC7C5E39509D83C4A
-
-[Tabell 32-1](protokoll.tabeller/32-1.csv)
-
-| Thure Sandén (M) | X |  |  |
-| --- | --- | --- | --- |
-| Magdalena Sundqvist (S) |  | X |  |
-| Johan Tolinsson (S) |  | X |  |
-| Stefan Jägnert (SD) | X |  |  |
-| Stefan Vilumsons (SD) | X |  |  |
-| Fredrik Hansson (C) | X |  |  |
-| Monica Neptun (L) | X |  |  |
-| Fredrik Kollberg (KD) | X |  |  |
-| Patrik Jervne Henestam (V) |  | X |  |
-| Maria Losman (MP) |  | X |  |
-| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 33 -->
 

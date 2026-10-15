@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.11a49e3519c6f3d10312def6/1771511491
 sha256: 0ce122f131d131488b31fb68193d8b5a4001c226edf931c47bcccda37777f2ed
 bytes: 598010
 sidor: 54
-hamtad: 2026-10-08T09:11:25+00:00
-konverterad: 2026-10-08T09:11:34+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:03:32+00:00
+konverterad: 2026-10-15T07:03:40+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1483,7 +1483,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: C8BEE4CA3586B8843919D51CEDAF0944561D109B24
 Transaktionsidentitet: 76555C7B505823C2AE0717C0ED6263DA7862D814DB
 
-[Tabell 32-1](protokoll.tabeller/32-1.csv)
+[Tabell 32-33-1](protokoll.tabeller/32-33-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -1497,6 +1497,19 @@ Transaktionsidentitet: 76555C7B505823C2AE0717C0ED6263DA7862D814DB
 | Kommunikationschef | (Limepark) Kungsbacka Aktiv Förvaltningsavtal<br>2025 |
 | Kommunikationschef | (Mediaflow Europe AB) Tillfällig avtalsförlängning |
 | Biträdande kommundirektör | Personuppgiftsbiträdesavtal med Chemgroup<br>Sweden AB |
+| Enhetschef | Anställande av ekonomiadministratör |
+| Enhetschef | Anställande av ekonomiadministratör |
+| Markingenjör | Markupplåtelseavtal Hede 3:20 |
+| Markingenjör | Markupplåtelseavtal Hede 9:26 |
+| Markingenjör | Markupplåtelseavtal Ekenäs 5:1 |
+| Markingenjör | Markupplåtelseavtal Nötegång 1:49 |
+| Specialist mark- och<br>exploatering | Överenskommelse om fastighetsreglering, allmän<br>plats, detaljplan för sjukhus inom Tölöberg 2 och<br>Tölö 1:17 i Kungsbacka |
+| Exploateringshandläggare | Servitutsavtal Kalvhult 1:12 - Teleledningar med<br>tillbehör |
+| Exploateringshandläggare | Servitutsavtal Håkälla 1:13 - Teleledningar med<br>tillbehör |
+| Exploateringshandläggare | Servitutsavtal Salvared 1:2 - Teleledningar med<br>tillbehör |
+| Exploateringshandläggare | Servitutsavtal Litserhult S:4 - Optoledningar med<br>tillbehör |
+| Enhetschef | Anställande av administratör |
+| Enhetschef | Anställande av planarkitekt |
 
 <!-- sida 33 -->
 
@@ -1514,23 +1527,6 @@ redovisningen av delegeringsbeslut fattade under perioden 2024-01-17 till
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: C8BEE4CA3586B8843919D51CEDAF0944561D109B24
 Transaktionsidentitet: 76555C7B505823C2AE0717C0ED6263DA7862D814DB
-
-[Tabell 33-1](protokoll.tabeller/33-1.csv)
-
-| Enhetschef | Anställande av ekonomiadministratör |
-| --- | --- |
-| Enhetschef | Anställande av ekonomiadministratör |
-| Markingenjör | Markupplåtelseavtal Hede 3:20 |
-| Markingenjör | Markupplåtelseavtal Hede 9:26 |
-| Markingenjör | Markupplåtelseavtal Ekenäs 5:1 |
-| Markingenjör | Markupplåtelseavtal Nötegång 1:49 |
-| Specialist mark- och<br>exploatering | Överenskommelse om fastighetsreglering, allmän<br>plats, detaljplan för sjukhus inom Tölöberg 2 och<br>Tölö 1:17 i Kungsbacka |
-| Exploateringshandläggare | Servitutsavtal Kalvhult 1:12 - Teleledningar med<br>tillbehör |
-| Exploateringshandläggare | Servitutsavtal Håkälla 1:13 - Teleledningar med<br>tillbehör |
-| Exploateringshandläggare | Servitutsavtal Salvared 1:2 - Teleledningar med<br>tillbehör |
-| Exploateringshandläggare | Servitutsavtal Litserhult S:4 - Optoledningar med<br>tillbehör |
-| Enhetschef | Anställande av administratör |
-| Enhetschef | Anställande av planarkitekt |
 
 <!-- sida 34 -->
 

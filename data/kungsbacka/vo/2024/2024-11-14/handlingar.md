@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.687e3942192fee121355b3a9/1731329735
 sha256: 679be9de412d75d83eb2045b673d004dc1bd6c08a77b9be1e034cbaf553c79ec
 bytes: 5786955
 sidor: 105
-hamtad: 2026-10-08T08:26:38+00:00
-konverterad: 2026-10-08T08:27:00+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T06:17:37+00:00
+konverterad: 2026-10-15T06:18:06+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [93]
-figurer: null
-tolkade: null
+figurer: [38, 93]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -539,12 +539,14 @@ så ska de rapporteras och utredas som missförhållanden enligt lex Sarah.
 
 2\. Definitioner
 
-[Tabell 15-1](handlingar.tabeller/15-1.csv)
+[Tabell 15-16-1](handlingar.tabeller/15-16-1.csv)
 
 | Kvalitet | Kvalitet skapas då en verksamhet uppfyller de krav och<br>mål som gäller för verksamheten enligt lagar och<br>föreskrifter om hälso- och sjukvård, socialtjänst och<br>beslut som meddelats med stöd av föreskrifterna.<br>Utöver denna nationella styrning är kommunens<br>politiska mål och direktiv centrala för bedömning av<br>uppnådd kvalitet. Dessutom är den enskilde, den som<br>är mottagare av vård och omsorg, och dennes<br>upplevelse av kvaliteten av stor vikt. |
 | --- | --- |
 | Händelserapport | Något har inträffat i verksamheten som avviker från en<br>god kvalitet i verksamheten. |
 | Brist i verksamheten | Utredningen visar att händelsen hade kunnat undvikas<br>om verksamheten hade vidtagit lämpliga åtgärder. |
+| Vårdskada/risk för<br>vårdskada | Lidande, kroppslig eller psykisk skada eller sjukdom<br>samt dödsfall som hade kunnat undvikas om adekvata<br>åtgärder hade vidtagits vid patientens kontakt med<br>hälso- och sjukvården. |
+| Allvarlig vårdskada/risk<br>för vårdskada | vårdskada som:<br>1. är bestående och inte ringa, eller<br>2. har lett till att patienten fått ett väsentligt ökat<br>vårdbehov eller avlidit. |
 
 <!-- sida 16 -->
 
@@ -585,12 +587,6 @@ Brister inom socialtjänsten eller lex Sarah utreds av den externa utföraren sj
 
 Enhets- och verksamhetschefer sammanställer rapporterade händelser och
 analyserar dessa två gånger per år. Deras arbete utgör underlag för den
-
-[Tabell 16-1](handlingar.tabeller/16-1.csv)
-
-| Vårdskada/risk för<br>vårdskada | Lidande, kroppslig eller psykisk skada eller sjukdom<br>samt dödsfall som hade kunnat undvikas om adekvata<br>åtgärder hade vidtagits vid patientens kontakt med<br>hälso- och sjukvården. |
-| --- | --- |
-| Allvarlig vårdskada/risk<br>för vårdskada | vårdskada som:<br>1. är bestående och inte ringa, eller<br>2. har lett till att patienten fått ett väsentligt ökat<br>vårdbehov eller avlidit. |
 
 <!-- sida 17 -->
 
@@ -904,12 +900,14 @@ att bestämmelserna enligt lex Sarah uppfylls.
 
 2\. Definitioner och begrepp
 
-[Tabell 26-1](handlingar.tabeller/26-1.csv)
+[Tabell 26-27-1](handlingar.tabeller/26-27-1.csv)
 
 | Missförhållande | Avser både handlingar, och underlåtelse att handla,<br>som innebär, inneburit eller riskerat att innebära hot mot<br>eller medfört konsekvenser för den enskildes liv,<br>säkerhet, fysiska eller psykiska hälsa. Enbart händelser<br>med koppling till den egna nämndens verksamhetens<br>område ska rapporteras enligt lex Sarah. |
 | --- | --- |
 | Påtaglig risk för<br>missförhållande | Med påtaglig risk för ett missförhållande avses att det är<br>fråga om en uppenbar och konkret risk för ett<br>missförhållande. |
 | Rapporteringsskyldighet | Var och en som är verksam inom nämndens<br>verksamhetsområde är rapporteringsskyldig. Med var<br>och en menas:<br>• Alla anställda<br>• Uppdragstagare<br>• Praktikanter eller motsvarande under utbildning |
+|  | • Deltagare i arbetsmarknadspolitiska åtgärder |
+| Allvarligt missförhållande | Missförhållanden som fått, eller kunde ha fått, allvarliga<br>konsekvenser för den enskildes liv, säkerhet eller<br>fysiska och psykiska hälsa ska bedömas som allvarliga.<br>Allvarliga missförhållanden ska snarast anmälas till<br>Inspektionen för vård och omsorg (IVO). |
 
 <!-- sida 27 -->
 
@@ -953,12 +951,6 @@ utredningsunderlaget i stället tas fram av dennes chef.
 1 I delegeringsförteckning framgår att socialt ansvarig samordnare ansvarar för bedömning,
 såväl av missförhållande/påtaglig risk för missförhållande och om dessa är allvarliga och ska
 anmälas till IVO.
-
-[Tabell 27-1](handlingar.tabeller/27-1.csv)
-
-|  | • Deltagare i arbetsmarknadspolitiska åtgärder |
-| --- | --- |
-| Allvarligt missförhållande | Missförhållanden som fått, eller kunde ha fått, allvarliga<br>konsekvenser för den enskildes liv, säkerhet eller<br>fysiska och psykiska hälsa ska bedömas som allvarliga.<br>Allvarliga missförhållanden ska snarast anmälas till<br>Inspektionen för vård och omsorg (IVO). |
 
 <!-- sida 28 -->
 
@@ -1322,26 +1314,29 @@ Kungsbacka kommun            Rapportmall                        5
 
 <!-- sida 37 -->
 
+Beslut om Lägenheter,   Över- eller underskott av
+VÅBO     permanent lägenheter, inkl. kö om 50 enskilda6
+VÅBO
+
+```osaker-tabell
+År 2024   758        702                - 6
+År 2025   794        802               + 58
+År 2026   830        802               + 22
+År 2027   859        802                - 7
+År 2028   892        802                - 40
+År 2029   914        882               + 18
+
+År 2030   934        882                - 2
+År 2031   944        882                - 12
+År 2032   954        882                - 22
+År 2033   967        882                - 35
+År 2034   980        962               + 32
+År 2035   993        962               + 19
+```
+
 6 Se sidan 9 i Lokalbehov 2026-2030.
 
 Kungsbacka kommun            Rapportmall                        6
-
-[Tabell 37-1](handlingar.tabeller/37-1.csv)
-
-|  | Beslut om<br>VÅBO | Lägenheter,<br>permanent<br>VÅBO | Över- eller underskott av<br>lägenheter, inkl. kö om 50 enskilda6 |
-| --- | --- | --- | --- |
-| År 2024 | 758 | 702 | - 6 |
-| År 2025 | 794 | 802 | + 58 |
-| År 2026 | 830 | 802 | + 22 |
-| År 2027 | 859 | 802 | - 7 |
-| År 2028 | 892 | 802 | - 40 |
-| År 2029 | 914 | 882 | + 18 |
-| År 2030 | 934 | 882 | - 2 |
-| År 2031 | 944 | 882 | - 12 |
-| År 2032 | 954 | 882 | - 22 |
-| År 2033 | 967 | 882 | - 35 |
-| År 2034 | 980 | 962 | + 32 |
-| År 2035 | 993 | 962 | + 19 |
 
 <!-- sida 38 -->
 
@@ -2736,7 +2731,7 @@ Fokusområden
 
 10
 
-[Tabell 69-1](handlingar.tabeller/69-1.csv)
+[Tabell 69-70-1](handlingar.tabeller/69-70-1.csv)
 
 | Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättning<br>2025 |
 | --- | --- | --- | --- | --- |
@@ -2745,6 +2740,9 @@ Fokusområden
 | Boende är nöjda med de aktiviteter som erbjuds<br>på vård- och omsorgsboende | - | - | 52 % | Öka |
 | Upplevd ensamhet bland äldre på vård- och<br>omsorgsboende | - | - | 17 % | Minska |
 | Anmälda brott per invånare (antal/100 000<br>invånare) | 5 691 | 6 475 |  | Minska |
+| Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 90 % | 91 % | 88% | Öka |
+| Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn | 74 % | 76 % | 76% | Öka |
+| Brukarbedömning individ- och familjeomsorg totalt<br>- helhetssyn | 88 % |  |  | Öka |
 
 <!-- sida 70 -->
 
@@ -2778,18 +2776,10 @@ de äldre om äldreomsorgen?”
 
 | Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättning<br>2025 |
 | --- | --- | --- | --- | --- |
-| Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 90 % | 91 % | 88% | Öka |
-| Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn | 74 % | 76 % | 76% | Öka |
-| Brukarbedömning individ- och familjeomsorg totalt<br>- helhetssyn | 88 % |  |  | Öka |
-
-[Tabell 70-2](handlingar.tabeller/70-2.csv)
-
-| Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättning<br>2025 |
-| --- | --- | --- | --- | --- |
 | Personalkontinuitet, antal personal som en<br>hemtjänstmottagare möter under 14 dagar,<br>medelvärde, egenregi | 17,9 | 19 | 18,4 |  |
 | Fast omsorgskontakt inom hemtjänsten\* | - | - | 21 % | 30 % |
 
-[Tabell 70-3](handlingar.tabeller/70-3.csv)
+[Tabell 70-2](handlingar.tabeller/70-2.csv)
 
 | Indikator | Utfall 2024 | Målsättning<br>2025 |
 | --- | --- | --- |
@@ -2815,7 +2805,7 @@ mångfald.
 
 12
 
-[Tabell 71-1](handlingar.tabeller/71-1.csv)
+[Tabell 71-72-1](handlingar.tabeller/71-72-1.csv)
 
 | Indikator | Utfall 2022 | Utfall 2023 | Målsättning<br>2025 |
 | --- | --- | --- | --- |
@@ -2827,6 +2817,14 @@ mångfald.
 | Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i% -<br>pojkar. | 85 % | 86 % | Öka |
 | Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 97 |  | Minska |
 | Avfall från kommunens verksamheter ska minska<br>med 40 % per heltidsanställd. Startvärde 100,<br>målvärde 2030 är 60. | 84,5 |  | Minska |
+| Utsläpp till luft av växthusgaser totalt, ton CO2-<br>ekv/inv (Kolada) | 2,27 |  | Minska |
+| Fossiloberoende personbilar, andel av totalt antal<br>bilar i det geografiska området, (Kolada) | 21,2 % | 24,1 % | Öka |
+| Slutanvändning av energi inom det geografiska<br>området, MWh/inv (Kolada) | 7 |  | Minska |
+| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,86 | 1,79 | Minska |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  | Öka |
+| Skyddad natur totalt, andel (Kolada) | 7,4 % | 7,4 % | Öka |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) | 18,5 |  | Öka |
+| Fossiloberoende personbilar i<br>kommunorganisationen, andel (%) | 94,6 % | 96,2 % | Öka |
 
 <!-- sida 72 -->
 
@@ -2845,20 +2843,7 @@ mellan näringsliv och utbildning.
 
 13
 
-[Tabell 72-1](handlingar.tabeller/72-1.csv)
-
-| Indikator | Utfall 2022 | Utfall 2023 | Målsättning<br>2025 |
-| --- | --- | --- | --- |
-| Utsläpp till luft av växthusgaser totalt, ton CO2-<br>ekv/inv (Kolada) | 2,27 |  | Minska |
-| Fossiloberoende personbilar, andel av totalt antal<br>bilar i det geografiska området, (Kolada) | 21,2 % | 24,1 % | Öka |
-| Slutanvändning av energi inom det geografiska<br>området, MWh/inv (Kolada) | 7 |  | Minska |
-| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,86 | 1,79 | Minska |
-| Ekologisk status i Kungsbackafjorden (VISS) |  |  | Öka |
-| Skyddad natur totalt, andel (Kolada) | 7,4 % | 7,4 % | Öka |
-| Vattendrag med god ekologisk status, andel<br>(Kolada) | 18,5 |  | Öka |
-| Fossiloberoende personbilar i<br>kommunorganisationen, andel (%) | 94,6 % | 96,2 % | Öka |
-
-[Tabell 72-2](handlingar.tabeller/72-2.csv)
+[Tabell 72-73-1](handlingar.tabeller/72-73-1.csv)
 
 | Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättning<br>2025 |
 | --- | --- | --- | --- | --- |
@@ -2867,6 +2852,7 @@ mellan näringsliv och utbildning.
 | Sysselsatt dagbefolkning, antal |  |  |  | Öka |
 | Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 4,9 % |  |  | Öka |
 | Företagsamhet, andel av invånare 16–74 år | 18 % |  |  | Öka |
+| Antal nystartade företag per 1 000 invånare 16–64<br>år (etableringsfrekvens) | 12,8 |  |  | Öka |
 
 <!-- sida 73 -->
 
@@ -2898,12 +2884,6 @@ Nämnd
 14
 
 [Tabell 73-1](handlingar.tabeller/73-1.csv)
-
-| Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättning<br>2025 |
-| --- | --- | --- | --- | --- |
-| Antal nystartade företag per 1 000 invånare 16–64<br>år (etableringsfrekvens) | 12,8 |  |  | Öka |
-
-[Tabell 73-2](handlingar.tabeller/73-2.csv)
 
 | Indikator | Utfall 2022 | Utfall 2023 | Utfall 2024 | Målsättning<br>2025 |
 | --- | --- | --- | --- | --- |
@@ -3150,45 +3130,83 @@ Nämndbudget 2025
 
 7.1 Resursmått
 
+Utfall Utfall  Utfall
+Delområde Nyckeltal
+2023   2022    2023
+Kostnad
+70 419  66 654 70 419
+äldreomsorg, kr/inv 65+
+8 %    6,9 %   8 %
+Nettokostnadsavvikelse
+Resursmått Antal
+omsorgstagare i
+2 182  2 664   2 182
+verksamheten över 65
+år
+Antal patienter i
+2 780  1 994   2 780
+hemsjukvården
 7.2 Prestationsmått
 
+Delområde  Nyckeltal    Utfall 2022 Utfall 2023
+
+Antal
+lägenheter på
+694      704
+vård- och
+omsorgsboende
+Antal
+lägenheter för 62        60
+korttids/växelvård
+Prestationsmått
+Beläggningsgrad
+97 %      96 %
+vård- och
+omsorgsboende
+Antal timmar
+537 632  545 404
+hemtjänst
+Kö till vård-
+och            53        67
+omsorgsboende
 7.3 Effektmått
 
 20
-
-[Tabell 79-1](handlingar.tabeller/79-1.csv)
-
-| Delområde | Utfall Utfall Utfall<br>Nyckeltal<br>2023 2022 2023 |
-| --- | --- |
-| Resursmått | Kostnad<br>70 419 66 654 70 419<br>äldreomsorg, kr/inv 65+ |
-|  | 8 % 6,9 % 8 %<br>Nettokostnadsavvikelse |
-|  | Antal<br>omsorgstagare i<br>2 182 2 664 2 182<br>verksamheten över 65<br>år |
-|  | Antal patienter i<br>2 780 1 994 2 780<br>hemsjukvården |
-
-[Tabell 79-2](handlingar.tabeller/79-2.csv)
-
-| Delområde | Nyckeltal Utfall 2022 Utfall 2023 |
-| --- | --- |
-| Prestationsmått | Antal<br>lägenheter på<br>694 704<br>vård- och<br>omsorgsboende |
-|  | Antal<br>lägenheter för 62 60<br>korttids/växelvård |
-|  | Beläggningsgrad<br>97 % 96 %<br>vård- och<br>omsorgsboende |
-|  | Antal timmar<br>537 632 545 404<br>hemtjänst |
-|  | Kö till vård-<br>och 53 67<br>omsorgsboende |
 
 <!-- sida 80 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndbudget 2025
 
+Delområde    Nyckeltal  Utfall 2022 Utfall 2023 Utfall 2024
+Brukar
+personal i
+hemsjukvården
+Hemsjukvården alltid eller  -      98 %
+oftast bemöta
+dig på ett bra
+sätt?
+Andel som
+sammantaget
+är mycket eller
+ganska nöjda 74 %     76 %     76%
+med sitt
+Vad tycker de
+särskilda
+äldre om
+boende.
+äldreomsorgen?
+Enkätundersökning
+Andel som
+för de över 65 år
+sammantaget
+är mycket eller
+90 %       91 %
+ganska nöjda                   88%
+med sin
+hemtjänst.
+
 21
-
-[Tabell 80-1](handlingar.tabeller/80-1.csv)
-
-| Delområde | Nyckeltal Utfall 2022 Utfall 2023 Utfall 2024 |
-| --- | --- |
-| Hemsjukvården | Brukar<br>personal i<br>hemsjukvården<br>alltid eller - 98 %<br>oftast bemöta<br>dig på ett bra<br>sätt? |
-| Vad tycker de<br>äldre om<br>äldreomsorgen?<br>Enkätundersökning<br>för de över 65 år | Andel som<br>sammantaget<br>är mycket eller<br>ganska nöjda 74 % 76 % 76%<br>med sitt<br>särskilda<br>boende. |
-|  | Andel som<br>sammantaget<br>är mycket eller<br>90 % 91 %<br>ganska nöjda 88%<br>med sin<br>hemtjänst. |
 
 <!-- sida 81 -->
 
@@ -3563,7 +3581,7 @@ www.kungsbacka.se
 
 [Tabell 88-1](handlingar.tabeller/88-1.csv)
 
-| 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 |  |  |  |  |  |  |  |  |  |  |
+|  | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 | 2034 | 2035 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Löpande<br>investeringar |  |  |  |  |  |  |  |  |  |  |
 | Återinvesteringar | 6 000 | 6 000 | 6 000 | 6 000 | 6 500 | 6 500 | 6 500 | 6 500 | 6 500 | 7 000 |

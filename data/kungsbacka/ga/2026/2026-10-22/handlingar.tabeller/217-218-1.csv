@@ -1,0 +1,61 @@
+Verksamhetstyp:,Vård och omsorg,,,,
+Verksamhetsområde:,Insatser för barn och ungdomar,,,,
+Processgrupp:,Hantera insatser för barn och ungdomar,,,,
+Process:,"Hantera ansökan eller anmälan, utreda och fatta beslut om insatser för barn och ungdomar",,,,
+Processnummer:,6.3.1.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Aktualisera,"Ansökan med eventuella
+bilagor, t.ex. kontaktfamilj,
+kontaktperson,
+familjebehandling",Combine,Digitalt,Bevaras,"Barnet är registerledare. Bevaras vid
+placering annars gallras det."
+,"Begäran om överflyttning av
+ärende från annan kommun",Ciceron,Digitalt,Bevaras,
+,"Anmälan som leder till
+utredning",Combine,Digitalt,Bevaras,Bevaras vid placering.
+,"Anmälan som inte leder till
+utredning, där personakt
+finns",Combine,Digitalt,Bevaras,"Om det finns en personakt sedan
+innan, ska anmälan läggas i denna.
+Bevaras vid placering."
+,"Anmälan – som inte leder till
+utredning, där personakt
+inte finns","Kronologisk
+pärm för
+anmälningar -
+Ciceron",Papper/Digitalt,5 år,"När personakt saknas hålls handlingen
+ordnad i kronologisk pärm."
+,"Ärendeblad, journalblad,
+aktualisering",Combine,Digitalt,Bevaras,Bevaras vid placering.
+Utreda,Utredning i enskilt ärende,Combine,Digitalt,Bevaras,Bevaras vid placering.
+,Kallelse,Combine,Digitalt,Se anm.,"T.ex. till möte med handläggare.
+Bevaras vid placering annars gallras."
+,Polisrapport,Combine,Digitalt,Bevaras,Bevaras vid placering.
+,"Registerkontroll som utgör
+underlag för beslut",Combine,Digitalt,Bevaras,"Bevaras vid placering.
+Registerkontroll som endast har tillfällig
+betydelse kan gallras."
+,Psykologutlåtande,Combine,Digitalt,Bevaras,Bevaras vid placering.
+,Läkarutlånade,Combine,Digitalt,Bevaras,Bevaras vid placering.
+,Polisregisterutdrag,Combine,Digitalt,Bevaras,Bevaras vid placering.
+,Konsultationsdokument skola,Combine,Digitalt,Bevaras,Bevaras vid placering.
+Besluta,"Beslut i enskilt ärende om
+bistånd",Combine,Digitalt,Bevaras,Bevaras vid placering.
+,"Beslut i enskilt ärende om
+insats gällande
+kontaktfamilj/kontaktperson",Combine,Digitalt,Bevaras,Bevaras vid placering.
+,"Beslut i enskilt ärende om
+öppenvårdsinsats
+intern/extern",Combine,Digitalt,Bevaras,Bevaras vid placering.
+,"Beslut i enskilt ärende om
+bistånd och/eller insats
+gällande familjehem eller
+placering HVB",Combine,Digitalt,Bevaras,
+,"Beslut om ansökan om vård
+enligt LVU",Combine,Digitalt,Bevaras,
+,Dom från Tingsrätten,Combine,Digitalt,Bevaras,Bevaras vid placering.
+,"Protokollsutdrag från
+individutskottet",Combine,Digitalt,Bevaras,Gäller LVU.
+,Kallelse till förhandling,Combine,Digitalt,Bevaras,Gäller LVU.
+,"Dom från Förvaltnings- och
+Kammarrätten",Combine,Digitalt,Bevaras,Gäller LVU.

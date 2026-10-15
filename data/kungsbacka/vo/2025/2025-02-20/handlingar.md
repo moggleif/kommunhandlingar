@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4a9fcfaa1950506f02663282/1739794588
 sha256: 9dd4ba8b08f9829f87ab771d35fccc4a7cf67e0ca634389e55968a04b4f517f7
 bytes: 5953599
 sidor: 157
-hamtad: 2026-10-08T08:28:29+00:00
-konverterad: 2026-10-08T08:28:54+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T06:19:48+00:00
+konverterad: 2026-10-15T06:20:19+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: [49, 57, 63, 71, 72, 73, 77, 79, 80, 89, 90, 93, 95, 98, 103, 108, 109, 111]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -157,8 +157,9 @@ omsorgsboendena där larmen nu i stället blir digitala i stället för fasta in
 
 [Tabell 5-1](handlingar.tabeller/5-1.csv)
 
-| Utfall (miljoner kronor)<br>Intäkter | Utfall 2022<br>756,4 | Utfall 2023<br>879,9 | Utfall 2024<br>858,1 |
+| Utfall (miljoner kronor) | Utfall 2022 | Utfall 2023 | Utfall 2024 |
 | --- | --- | --- | --- |
+| Intäkter | 756,4 | 879,9 | 858,1 |
 | Kostnader | -1 738 | -1 950,3 | -1 998,4 |
 | Netto | -981,6 | -1 070,4 | -1 140,3 |
 | Budget, netto | -1 023,9 | -1 082,8 | -1 159,7 |
@@ -166,8 +167,9 @@ omsorgsboendena där larmen nu i stället blir digitala i stället för fasta in
 
 [Tabell 5-2](handlingar.tabeller/5-2.csv)
 
-| Utfall (miljoner kronor)<br>Utgifter | Utfall 2022<br>-5,0 | Utfall 2023<br>-4,9 | Utfall 2024<br>-5,6 |
+| Utfall (miljoner kronor) | Utfall 2022 | Utfall 2023 | Utfall 2024 |
 | --- | --- | --- | --- |
+| Utgifter | -5,0 | -4,9 | -5,6 |
 | Inkomster |  |  |  |
 | Netto | -5,0 | -4,9 | -5,6 |
 
@@ -1031,10 +1033,12 @@ steg. En digital utbildning med fokus på samverkansavtalet och en halv dag med 
 
 [Tabell 23-1](handlingar.tabeller/23-1.csv)
 
-| Namn<br>Riskobservation | 2022<br>86 | 2023<br>135 | 2024<br>114 |
+| Namn | 2022 | 2023 | 2024 |
 | --- | --- | --- | --- |
+| Riskobservation | 86 | 135 | 114 |
 | Tillbud | 985 | 1366 | 987 |
-| Olycksfall<br>Total | 97<br>1168 | 175<br>1676 | 172<br>1273 |
+| Olycksfall | 97 | 175 | 172 |
+| Total | 1168 | 1676 | 1273 |
 
 <!-- sida 24 -->
 
@@ -1160,82 +1164,151 @@ hitta nya och smartare arbetssätt för att möta ett samhälle i förändring.
 
 6.4 Resursmått
 
+Namn        Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024
+Andel deltid  40,9 %     37,7 %      37,4 %     32,6 %     29,9 %
+
+Andel heltid  59,1 %     62,3 %      62,6 %     67,4 %     70,1 %
+Andel kvinnor
+42,4 %     39,4 %      38,6 %     34 %       31,5 %
+som har deltid
+Andel kvinnor
+57,6 %     60,6 %      61,4 %     66 %       68,5 %
+som har heltid
+Andel män som
+20 %      18,6 %      26 %       20,8 %     18,7 %
+har deltid
+Andel män som
+80 %      81,4 %      74 %       79,2 %     81,3 %
+har heltid
+Anställda andel
+91,7 %     89,9 %      88,9 %     87,8 %     86,9 %
+kvinnor
+Anställda andel
+8,3 %     10,2 %      11,1 %     12,2 %     13,2 %
+män
+Anställda
+genomsnittlig
+90,8 %     91,4 %      92 %       93 %       93,7 %
+sysselsättnings
+grad
+Anställda totalt 1 243    1 300      1 397      1 429      1 422
+Antal
+medarbetare    22,5        24        23,5        22,4       23,5
+per chef
+Antal
+medarbetare    27,1       28,4       27,9        25,3       26,8
+per enhetschef
+Medarbetare
+22,1 %     22,1 %      23 %       21,6 %     21,5 %
+30 - 39 år
+Medarbetare
+21,8 %     19,4 %      18,5 %     19,4 %     20,1 %
+40 - 49 år
+Medarbetare
+30,9 %      31 %       29 %       28,6 %     26,9 %
+50 - 59 år
+Medarbetare
+11 %      11,9 %      12,5 %     13,7 %     14,4 %
+60 år och äldre
 25
-
-[Tabell 26-1](handlingar.tabeller/26-1.csv)
-
-|  | Namn Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024 |
-| --- | --- |
-| Andel deltid 40,9 % 37,7 % 37,4 % 32,6 % 29,9 % |  |
-| Andel heltid 59,1 % 62,3 % 62,6 % 67,4 % 70,1 % |  |
-| Andel kvinnor<br>42,4 % 39,4 % 38,6 % 34 % 31,5 %<br>som har deltid |  |
-| Andel kvinnor<br>57,6 % 60,6 % 61,4 % 66 % 68,5 %<br>som har heltid |  |
-| Andel män som<br>20 % 18,6 % 26 % 20,8 % 18,7 %<br>har deltid |  |
-| Andel män som<br>80 % 81,4 % 74 % 79,2 % 81,3 %<br>har heltid |  |
-| Anställda andel<br>91,7 % 89,9 % 88,9 % 87,8 % 86,9 %<br>kvinnor |  |
-| Anställda andel<br>8,3 % 10,2 % 11,1 % 12,2 % 13,2 %<br>män |  |
-| Anställda<br>genomsnittlig<br>90,8 % 91,4 % 92 % 93 % 93,7 %<br>sysselsättnings<br>grad |  |
-| Anställda totalt 1 243 1 300 1 397 1 429 1 422 |  |
-| Antal<br>medarbetare 22,5 24 23,5 22,4 23,5<br>per chef |  |
-| Antal<br>medarbetare 27,1 28,4 27,9 25,3 26,8<br>per enhetschef |  |
-| Medarbetare<br>22,1 % 22,1 % 23 % 21,6 % 21,5 %<br>30 - 39 år |  |
-| Medarbetare<br>21,8 % 19,4 % 18,5 % 19,4 % 20,1 %<br>40 - 49 år |  |
-| Medarbetare<br>30,9 % 31 % 29 % 28,6 % 26,9 %<br>50 - 59 år |  |
-| Medarbetare<br>11 % 11,9 % 12,5 % 13,7 % 14,4 %<br>60 år och äldre |  |
 
 <!-- sida 27 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndens årsredovisning 2024
 
+Namn        Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024
+Medarbetare
+14,2 %     15,7 %      17 %       16,7 %     17,2 %
+yngre än 30 år
+Medelålder      45         44         44         44         44
+Pensionsavgån
+17         26         19         11         24
+gar
 6.5 Effektmått
 
+Namn        Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024
+Frisknärvaro  34,4 %     41,3 %      36,8 %     38,9 %     39,9 %
+
+Frisknärvaro
+33,4 %     40,6 %      35,5 %     37,6 %     39,7 %
+Kvinnor
+Frisknärvaro
+47,3 %     50,4 %      48,1 %     48,5 %     41,8 %
+Män
+Korttidssjukfrån
+5,5 %      4,8 %      5,5 %      5,2 %       5 %
+varo
+Korttidssjukfrån
+5,5 %      4,8 %      5,6 %      5,2 %       5 %
+varo Kvinnor
+Korttidssjukfrån
+4,9 %      4,4 %      4,8 %      5,1 %      4,5 %
+varo Män
+Långtidssjukfrå
+5 %        4,8 %      4,6 %      4,8 %       5 %
+nvaro
+Långtidssjukfrå
+5,2 %      5 %        4,9 %      5,1 %      5,4 %
+nvaro Kvinnor
+Långtidssjukfrå
+3,1 %      2,6 %      1,6 %      2,4 %      2,4 %
+nvaro Män
+Personalomsätt
+13,4 %     12,6 %      14,1 %     16,4 %     14,3 %
+ning
+Sjukfrånvaro
+10,7 %      9,8 %      10,5 %     10,3 %     10,5 %
+Kvinnor
+Sjukfrånvaro
+8 %        7 %        6,4 %      7,5 %      6,9 %
+Män
+Sjukfrånvaro
+10,5 %      9,6 %      10,1 %     10 %       10 %
+Totalt
+Sjukfrånvaro,
+andel av
+34,2 %     36,9 %      34 %       34,8 %     35,8 %
+sjukfrånvaro 60
+dagar eller mer
 26
-
-[Tabell 27-1](handlingar.tabeller/27-1.csv)
-
-|  | Namn Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024 |
-| --- | --- |
-| Medarbetare<br>14,2 % 15,7 % 17 % 16,7 % 17,2 %<br>yngre än 30 år |  |
-| Medelålder 45 44 44 44 44 |  |
-| Pensionsavgån<br>17 26 19 11 24<br>gar |  |
-
-[Tabell 27-2](handlingar.tabeller/27-2.csv)
-
-|  | Namn Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024 |
-| --- | --- |
-| Frisknärvaro 34,4 % 41,3 % 36,8 % 38,9 % 39,9 % |  |
-| Frisknärvaro<br>33,4 % 40,6 % 35,5 % 37,6 % 39,7 %<br>Kvinnor |  |
-| Frisknärvaro<br>47,3 % 50,4 % 48,1 % 48,5 % 41,8 %<br>Män |  |
-| Korttidssjukfrån<br>5,5 % 4,8 % 5,5 % 5,2 % 5 %<br>varo |  |
-| Korttidssjukfrån<br>5,5 % 4,8 % 5,6 % 5,2 % 5 %<br>varo Kvinnor |  |
-| Korttidssjukfrån<br>4,9 % 4,4 % 4,8 % 5,1 % 4,5 %<br>varo Män |  |
-| Långtidssjukfrå<br>5 % 4,8 % 4,6 % 4,8 % 5 %<br>nvaro |  |
-| Långtidssjukfrå<br>5,2 % 5 % 4,9 % 5,1 % 5,4 %<br>nvaro Kvinnor |  |
-| Långtidssjukfrå<br>3,1 % 2,6 % 1,6 % 2,4 % 2,4 %<br>nvaro Män |  |
-| Personalomsätt<br>13,4 % 12,6 % 14,1 % 16,4 % 14,3 %<br>ning |  |
-| Sjukfrånvaro<br>10,7 % 9,8 % 10,5 % 10,3 % 10,5 %<br>Kvinnor |  |
-| Sjukfrånvaro<br>8 % 7 % 6,4 % 7,5 % 6,9 %<br>Män |  |
-| Sjukfrånvaro<br>10,5 % 9,6 % 10,1 % 10 % 10 %<br>Totalt |  |
-| Sjukfrånvaro,<br>andel av<br>34,2 % 36,9 % 34 % 34,8 % 35,8 %<br>sjukfrånvaro 60<br>dagar eller mer |  |
 
 <!-- sida 28 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndens årsredovisning 2024
 
+Namn        Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024
+Sjukfrånvaro,
+andel av
+sjukfrånvaro 60 34,6 %   37,6 %      35,2 %     36,1 %     37,1 %
+dagar eller mer
+Kvinnor
+Sjukfrånvaro,
+andel av
+sjukfrånvaro 60 28,9 %   28,1 %      18,1 %     22 %       23 %
+dagar eller mer
+Män
+Sjukfrånvaro,
+anställda i
+10,5 %      8,3 %      8,2 %      9,6 %      8,9 %
+åldrarna 29 år
+eller yngre
+Sjukfrånvaro,
+anställda i
+9,1 %      9,5 %      9,9 %      8,7 %      8,6 %
+åldrarna 30-49
+år
+Sjukfrånvaro,
+anställda i
+11,8 %      10 %       10,9 %     11,3 %     11,8 %
+åldrarna 50 år
+eller äldre
+Sjukfrånvaroda
+gar i snitt per 35,8      32,3       34,6        34         34,5
+anställd
+
 27
-
-[Tabell 28-1](handlingar.tabeller/28-1.csv)
-
-|  | Namn Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024 |
-| --- | --- |
-| Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60 34,6 % 37,6 % 35,2 % 36,1 % 37,1 %<br>dagar eller mer<br>Kvinnor |  |
-| Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60 28,9 % 28,1 % 18,1 % 22 % 23 %<br>dagar eller mer<br>Män |  |
-| Sjukfrånvaro,<br>anställda i<br>10,5 % 8,3 % 8,2 % 9,6 % 8,9 %<br>åldrarna 29 år<br>eller yngre |  |
-| Sjukfrånvaro,<br>anställda i<br>9,1 % 9,5 % 9,9 % 8,7 % 8,6 %<br>åldrarna 30-49<br>år |  |
-| Sjukfrånvaro,<br>anställda i<br>11,8 % 10 % 10,9 % 11,3 % 11,8 %<br>åldrarna 50 år<br>eller äldre |  |
-| Sjukfrånvaroda<br>gar i snitt per 35,8 32,3 34,6 34 34,5<br>anställd |  |
 
 <!-- sida 29 -->
 
@@ -1276,17 +1349,17 @@ enheternas arbete med att anpassa verksamheten till tillgängliga resurser.
 
 [Tabell 29-1](handlingar.tabeller/29-1.csv)
 
-| Uppföljningsnivå (belopp i<br>mkr)<br>Nämnd |  | Bokslut 2023<br>-1,2 | Budget 2024<br>-1,4 | Bokslut 2024<br>-1,3 | Budgetavvik<br>else 2024<br>0,1 |
-| --- | --- | --- | --- | --- | --- |
-| Förvaltning Gemensamt | -5,8 |  | -10,4 | 1,7 | 12,1 |
-| Distrikt Syd | -66,6 |  | -63,0 | -67,3 | -4,3 |
-| Distrikt Centrum | -94,4 |  | -87,1 | -86,9 | 0,2 |
-| Distrikt Norr | -30,4 |  | -30,8 | -33,7 | -2,9 |
-| Distrikt Väst | -83,9 |  | -81,9 | -92,5 | -10,6 |
-| Distrikt 5 | -292,7 |  | -330,3 | -317,5 | 12,8 |
-| FLK | -495,3 |  | -554,8 | -542,8 | 12,0 |
-|  |  |  |  |  |  |
-| Summa |  | -1 070,3 | -1 159,7 | -1 140,3 | 19,4 |
+| Uppföljningsnivå (belopp i mkr) | Bokslut 2023 | Budget 2024 | Bokslut 2024 | Budgetavvik else 2024 |
+| --- | --- | --- | --- | --- |
+| Nämnd | -1,2 | -1,4 | -1,3 | 0,1 |
+| Förvaltning Gemensamt | -5,8 | -10,4 | 1,7 | 12,1 |
+| Distrikt Syd | -66,6 | -63,0 | -67,3 | -4,3 |
+| Distrikt Centrum | -94,4 | -87,1 | -86,9 | 0,2 |
+| Distrikt Norr | -30,4 | -30,8 | -33,7 | -2,9 |
+| Distrikt Väst | -83,9 | -81,9 | -92,5 | -10,6 |
+| Distrikt 5 | -292,7 | -330,3 | -317,5 | 12,8 |
+| FLK | -495,3 | -554,8 | -542,8 | 12,0 |
+| Summa | -1 070,3 | -1 159,7 | -1 140,3 | 19,4 |
 
 <!-- sida 30 -->
 
@@ -1641,28 +1714,32 @@ Nämnd:  Vård & Omsorg
 Investeringsprojekt - begäran om ombudgetering 2024
 Utgifter i (-) och inkomster i (+) belopp i tkr
 TKR
+Projekt nr Projektnamn                   Bokslut 2024     Orsak till bokslut och budgetavvikelse 2024 samt Nämndens begäran om
+Projekttyp Nämnd Årsbudget Utfall Avvikelse Avslutade projekt Resultat ombTuypd 4g e- Pteårgiånegn dme m Typ 4 - Kontrollsumma mot
+Ja/Nej avslutade ej avslutade Pågående ej bokslutsavvikelse
+projekt projekt avslutade
+Ombudgeteras till projekt
+2025 Ombudgetera
+s till 2026
+A           B                     C       D      E=D-C     K       L      M      N    O=L+M+N-E
+
+```osaker-tabell
+  Löpande:                                                0                                      0
+    3860  ÄO Kompl Inv/ Utrustning1 VO -5 000  -5 309   -309       Nej  -309      0              0
+    3863  Grundutrustning MPT 1 VO       0                0                                      0
+                                                          0                                      0
+   Övriga:                                                0                                      0
+    3862  Tekniska lösningar 3 VO     -13 484   -266   13 218      Nej         13 218            0
+    3856  Nyckelfritt  3     VO          0                0                                      0
+                                                          0                                      0
+                                                          0                                      0
+                                                          0                                      0
+Totalt nämnden                        -18 484  -5 575  12 909           -309   13 218  0         0
+```
 
 Investeringsbudgeten
 Investeringsbudgeten behandlas i princip på samma sätt som driftbudgeten.
 Över- och underskott skott avseende pågående men ej avslutade investeringar överföres till det nya budgetåret till dess investeringen är genomförd och slutredovisad.
-
-[Tabell 39-1](handlingar.tabeller/39-1.csv)
-
-| Projekt nr | Projektnamn | Projekttyp | Nämnd | Bokslut 2024 |  |  | Orsak till bokslut och budgetavvikelse 2024 samt Nämndens begäran om |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  | Årsbudget | Utfall | Avvikelse | Avslutade projekt<br>Ja/Nej | Resultat om<br>avslutade<br>projekt | bTuypd 4g e- Pteårgiånegn dme<br>ej avslutade<br>projekt<br>Ombudgeteras till<br>2025 | m Typ 4 -<br>Pågående ej<br>avslutade<br>projekt<br>Ombudgetera | Kontrollsumma mot<br>bokslutsavvikelse |
-| A | B | C D E=D-C |  |  |  |  | K | s till 2026<br>L M N O=L+M+N-E |  |  |  |
-| Löpande: |  |  |  |  |  | 0 |  |  |  |  | 0 |
-| 3860 | ÄO Kompl Inv/ Utrustning | 1 | VO | -5 000 | -5 309 | -309 | Nej | -309 | 0 |  | 0 |
-| 3863 | Grundutrustning MPT | 1 | VO | 0 |  | 0 |  |  |  |  | 0 |
-|  |  |  |  |  |  | 0 |  |  |  |  | 0 |
-| Övriga: |  |  |  |  |  | 0 |  |  |  |  | 0 |
-| 3862 | Tekniska lösningar | 3 | VO | -13 484 | -266 | 13 218 | Nej |  | 13 218 |  | 0 |
-| 3856 | Nyckelfritt | 3 | VO | 0 |  | 0 |  |  |  |  | 0 |
-|  |  |  |  |  |  | 0 |  |  |  |  | 0 |
-|  |  |  |  |  |  | 0 |  |  |  |  | 0 |
-|  |  |  |  |  |  | 0 |  |  |  |  | 0 |
-| Totalt nämnden |  |  |  | -18 484 -5 575 12 909 |  |  |  | -309 13 218 0 0 |  |  |  |
 
 <!-- sida 40 -->
 
@@ -1952,11 +2029,41 @@ Uppföljningsrapport intern kontroll 2024
 | Verksamhet | 8 Kommunövergripande risk - Risk för korruption Ja |
 |  | 9 Kommunövergripande risk: Förvaltningarnas Ja<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet |
 
-[Tabell 50-2](handlingar.tabeller/50-2.csv)
+[Tabell 50-55-2](handlingar.tabeller/50-55-2.csv)
 
 | Kategorier<br>Personal | Risker Anledning till att risk ej tas till plan<br>Risk för att Förvaltningen har stora rekryteringsbehov och följer att grunden för<br>medarbetare utan anställning vanligtvis är heltid och tills vidare. Detta medför att fåtal<br>kompetens medarbetare anställs i tidsbegränsade anställningar. Införandet av<br>anställs på långa karriärvägsmodellen januari 2024 innebär tydliga utbildnings -och<br>vikariat och kompetenskrav på samtliga befattningar inom omvårdnadsarbete<br>uppnår förutom biträden.<br>företrädes- eller<br>Förvaltningen följer noga de tidsbegränsat anställda för att tillse om<br>konverteringsrätt<br>brister i kompetens finns. I det fall en medarbetare i tidsbegränsad<br>anställning brister i sin kompetens avslutas anställningen i<br>anslutning till att aktuell tidsbegränsad anställning upphör. Risken<br>omhändertas därmed på annat sätt. |
 | --- | --- |
 |  | Risk för brister i Förvaltningen har ett pågående arbete med införande av<br>vården och Karriärvägsmodellens olika befattningar. Genom detta sker<br>omsorgen av kartläggning av medarbetares utbildning, erfarenhet och<br>enskilda på kompetens i relation till befattning och utbildningsinsatser planeras<br>grund av att och genomförs, framförallt genom Äldreomsorgslyftet.<br>anställda saknar<br>Då uppföljning av detta arbete sker inom ramen för nämndens<br>yrkeskompetens<br>målarbete omhändertas risken där. |
+| Kategorier | Risker Anledning till att risk ej tas till plan<br>Risk för att E-tjänst på Insidan för avslut av behörigheter har införts vilket<br>medarbetare som underlättar arbetet avsevärt.<br>avslutat sin<br>anställning eller<br>bytt tjänst har<br>behörighet till<br>system, lokaler<br>och andra<br>tillgångar på<br>grund av att<br>behörigheterna<br>inte avslutas |
+|  | Kommunövergrip Förvaltningen har ett pågående arbete kring organisering och<br>ande risk: kompetenskrav för arbete med insatsplanering, bemanning och<br>Övertidsersättnin schema för våra verksamheter. Uppföljning sker inom ramen för<br>g betalas ut på fel det arbetet.<br>grund |
+| Ekonomi | Kommunövergrip Redovisning är inte solitärt underlag till inriktningsbeslut.<br>ande risk:<br>Grundläggande<br>redovisning<br>kvalitetsbrister |
+|  | Kommunövergrip<br>ande risk:<br>Resurser till<br>innovation,<br>digitalisering och<br>omställning till<br>nya arbetssätt för<br>framtidens<br>välfärd |
+| Informations<br>säkerhet,<br>administratio<br>n, inköp... | Risk för bristande Förbättringsåtgärder sker som del av ordinarie<br>vård och omsorg systemförvaltningsarbete. Därtill sker insatser med utgångspunkt<br>på grund av att från informationssäkerhetsarbetet och arbetet med<br>verksamhetssyst informationsklassificering<br>em och/eller<br>digitala verktyg<br>slutar att fungera |
+|  | Risk för bristande Risken adresseras inom ramen för förvaltningens systematiska<br>informationssäke informationssäkerhetsarbete.<br>rhet på grund av<br>misstag eller<br>okunskap hos<br>medarbetare om<br>aktuell<br>lagstiftning |
+| Kategorier | Risker Anledning till att risk ej tas till plan<br>Kommunövergrip Utgår som gemensam granskning 2024. Tas upp av nämnderna<br>ande risk: Inköp om det är relevant för den egna verksamheten<br>(granskning<br>begränsas till<br>belopp över<br>100.000:-) |
+|  | Det saknas en Finns ansvarig för infosäkerhet och dataskydd som bevakar risken.<br>övergripande<br>riskanalys & ett<br>systematiskt<br>informationssäke<br>rhetsarbete |
+|  | Risk för bristande Arbetet ligger inom ramen för ordinarie<br>informationssäke informationssäkerhetsarbete och dataskydd<br>rhet på grund av<br>misstag eller<br>okunskap hos<br>medarbetare om<br>aktuell<br>lagstiftning |
+|  | Risk för bristande Förbättringsåtgärder sker som del av ordinarie<br>vård och omsorg systemförvaltningsarbete. Därtill sker insatser med utgångspunkt<br>på grund av att från informationssäkerhetsarbetet och arbetet med<br>verksamhetssyst informationsklassificering.<br>em och/eller<br>digitala verktyg<br>slutar att fungera |
+|  | Risk att Avtalsdiariet används för hantering av avtal vilket säkerställer<br>förvaltningens korrekt hantering.<br>avtal inte<br>hanteras i<br>enlighet med<br>dokumenthanteri<br>ngsplanen samt<br>kommunövergrip<br>ande riktlinjer |
+|  | Kommunövergrip Risken adresseras inom ramen för förvaltningens systematiska<br>ande risk: informationssäkerhetsarbete.<br>informationssäke<br>rhet; skydd av<br>information mot<br>obehörig tillgång |
+| Verksamhet | Risk att Service ansvarar<br>brandutrustning<br>inte kontrolleras |
+| Kategorier | Risker Anledning till att risk ej tas till plan<br>Risk att Läggs till i egenkontroll för systematisk brandskyddsarbete<br>utrymningsrutin<br>för personal och<br>boende inte är<br>känd i<br>verksamheten för<br>vård- och<br>omsorgsboenden |
+|  | Risk att Läggs till i egenkontroll för systematisk brandskyddsarbete<br>utrymningsrutin<br>för personal inte<br>är känd i<br>verksamheten för<br>övriga lokaler<br>(exklusive vård-<br>och<br>omsorgsboenden<br>) utifrån<br>arbetsgivaransva<br>r |
+|  | Risk att Arbetssättet och processen ansökan-beslut-verkställighet är<br>processen välfungerande. Inga indikationer på brister har framkommit under<br>ansökan-beslut- senaste internkontrollerna.<br>verkställighet inte<br>följs |
+|  | Risk att Andel aktuella genomförandeplaner mäts inom ramen för<br>genomförandepla måluppföljning (nämndsmål) och kvalitet följ upp i egenkontrollen.<br>n ej upprättas<br>korrekt |
+|  | Risk för Antal händelser där orsak är brist i dokumentation under 2023 var<br>vårdskada p ga 32 stycken för alla vård-och omsorgstagare i kommunen<br>brister i hälso-<br>och<br>sjukvårdsdokume<br>ntationen. |
+|  | Risk att inte Rutin har upprättats.<br>kunderna får<br>någon vård eller<br>omsorg i<br>samband med<br>konkurs eller<br>uppsägning av<br>avtal med extern<br>hemtjänstutförare<br>. |
+|  | Risk för 95 % av händelser kopplat till läkemedelshantering under 2023 har<br>vårdskada gett ingen till mindre konsekvens för patienten.<br>kopplat till<br>läkemedelshanter<br>ing |
+| Kategorier | Risker Anledning till att risk ej tas till plan<br>Risk för bristande Risk bevakas och följs upp i verksamheterna systematiska<br>vård och omsorg kvalitetsarbete och rapporteras i kvalitetsberättelse<br>på grund av att<br>rutiner, riktlinjer<br>och ordinationer<br>inte efterlevs i<br>önskad<br>omfattning |
+|  | Risk för brister i Risk bevakas och följs upp i verksamheterna systematiska<br>dokumentationss kvalitetsarbete och rapporteras i kvalitetsberättelse<br>kyldigheten<br>socialtjänst |
+|  | Brister i analog Digital och analog myndighetlåda bevakas och fördelas varje dag.<br>och digital<br>posthantering. |
+|  | Risk för bristande Beslut att samtliga våbo ska ha stationär reservkraft år 2028 togs i<br>vård och omsorg KF juni 2023<br>vid vård- och<br>omsorgsboenden<br>på grund av att<br>det saknas<br>reservkraft vid el-<br>avbrott |
+|  | Risk för Utredning pågår för att hitta lösning. Nya boendet byggs med<br>vårdskada vid komfortkyla.<br>vård- och<br>omsorgsboenden<br>på grund av att<br>det saknas<br>komfortkyla vid<br>höga<br>temperaturer |
+|  | Risk för att Andel aktuella genomförandeplaner mäts inom ramen för<br>enskildas måluppföljning (nämndsmål) och kvalitet följ upp i egenkontrollen.<br>genomförandepla<br>ner inte är<br>aktuella på grund<br>av hur tid och<br>resurser<br>prioriteras |
+|  | Risk för bristande Tas ej med till plan då Oral care är utförare och nämnden ej kan<br>vård och omsorg vidta åtgärder i ett företag.<br>av enskilda på<br>grund av att<br>munhälsobedöm<br>ningar inte<br>genomförs i<br>önskad<br>omfattning |
+| Kategorier | Risker Anledning till att risk ej tas till plan<br>Risk för bristande Resultat från DF respons visar att det finns mycket få händelser<br>vård och omsorg där patient farit illa kopplat till smärta vid vård i livets slut. Däremot<br>vid vård i livets finns brister i dokumentation och användning av fastställda rutiner.<br>slut på grund av Resultat från palliativa registret arbetas vidare med i palliativa<br>att gruppen inom hemsjukvården.<br>validerad/struktur<br>erad<br>smärtskattning<br>inte genomförs i<br>önskad<br>omfattning |
+|  | Risk för bristande Resultat från DF respons visar att det finns mycket få händelser<br>vård och omsorg där patient farit illa kopplat till smärta vid vård i livets slut. Däremot<br>vid vård i livets finns brister i dokumentation och användning av fastställda rutiner.<br>slut då det Resultat från palliativa registret arbetas vidare med i palliativa<br>saknas gruppen inom hemsjukvården.<br>dokumenterad<br>munhälsobedöm<br>ning |
+|  | Risk för bristande Risk bevakas och följs upp i verksamheterna systematiska<br>vård och omsorg kvalitetsarbete och rapporteras i kvalitetsberättelse<br>på grund av<br>avvikelser från<br>dokumentationss<br>kyldigheten<br>socialtjänst |
 
 <!-- sida 51 -->
 
@@ -1965,33 +2072,12 @@ Uppföljningsrapport intern kontroll 2024
 
 8
 
-[Tabell 51-1](handlingar.tabeller/51-1.csv)
-
-| Kategorier | Risker Anledning till att risk ej tas till plan<br>Risk för att E-tjänst på Insidan för avslut av behörigheter har införts vilket<br>medarbetare som underlättar arbetet avsevärt.<br>avslutat sin<br>anställning eller<br>bytt tjänst har<br>behörighet till<br>system, lokaler<br>och andra<br>tillgångar på<br>grund av att<br>behörigheterna<br>inte avslutas |
-| --- | --- |
-|  | Kommunövergrip Förvaltningen har ett pågående arbete kring organisering och<br>ande risk: kompetenskrav för arbete med insatsplanering, bemanning och<br>Övertidsersättnin schema för våra verksamheter. Uppföljning sker inom ramen för<br>g betalas ut på fel det arbetet.<br>grund |
-| Ekonomi | Kommunövergrip Redovisning är inte solitärt underlag till inriktningsbeslut.<br>ande risk:<br>Grundläggande<br>redovisning<br>kvalitetsbrister |
-|  | Kommunövergrip<br>ande risk:<br>Resurser till<br>innovation,<br>digitalisering och<br>omställning till<br>nya arbetssätt för<br>framtidens<br>välfärd |
-| Informations<br>säkerhet,<br>administratio<br>n, inköp... | Risk för bristande Förbättringsåtgärder sker som del av ordinarie<br>vård och omsorg systemförvaltningsarbete. Därtill sker insatser med utgångspunkt<br>på grund av att från informationssäkerhetsarbetet och arbetet med<br>verksamhetssyst informationsklassificering<br>em och/eller<br>digitala verktyg<br>slutar att fungera |
-|  | Risk för bristande Risken adresseras inom ramen för förvaltningens systematiska<br>informationssäke informationssäkerhetsarbete.<br>rhet på grund av<br>misstag eller<br>okunskap hos<br>medarbetare om<br>aktuell<br>lagstiftning |
-
 <!-- sida 52 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Uppföljningsrapport intern kontroll 2024
 
 9
-
-[Tabell 52-1](handlingar.tabeller/52-1.csv)
-
-| Kategorier | Risker Anledning till att risk ej tas till plan<br>Kommunövergrip Utgår som gemensam granskning 2024. Tas upp av nämnderna<br>ande risk: Inköp om det är relevant för den egna verksamheten<br>(granskning<br>begränsas till<br>belopp över<br>100.000:-) |
-| --- | --- |
-|  | Det saknas en Finns ansvarig för infosäkerhet och dataskydd som bevakar risken.<br>övergripande<br>riskanalys & ett<br>systematiskt<br>informationssäke<br>rhetsarbete |
-|  | Risk för bristande Arbetet ligger inom ramen för ordinarie<br>informationssäke informationssäkerhetsarbete och dataskydd<br>rhet på grund av<br>misstag eller<br>okunskap hos<br>medarbetare om<br>aktuell<br>lagstiftning |
-|  | Risk för bristande Förbättringsåtgärder sker som del av ordinarie<br>vård och omsorg systemförvaltningsarbete. Därtill sker insatser med utgångspunkt<br>på grund av att från informationssäkerhetsarbetet och arbetet med<br>verksamhetssyst informationsklassificering.<br>em och/eller<br>digitala verktyg<br>slutar att fungera |
-|  | Risk att Avtalsdiariet används för hantering av avtal vilket säkerställer<br>förvaltningens korrekt hantering.<br>avtal inte<br>hanteras i<br>enlighet med<br>dokumenthanteri<br>ngsplanen samt<br>kommunövergrip<br>ande riktlinjer |
-|  | Kommunövergrip Risken adresseras inom ramen för förvaltningens systematiska<br>ande risk: informationssäkerhetsarbete.<br>informationssäke<br>rhet; skydd av<br>information mot<br>obehörig tillgång |
-| Verksamhet | Risk att Service ansvarar<br>brandutrustning<br>inte kontrolleras |
 
 <!-- sida 53 -->
 
@@ -2000,17 +2086,6 @@ Uppföljningsrapport intern kontroll 2024
 
 10
 
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
-
-| Kategorier | Risker Anledning till att risk ej tas till plan<br>Risk att Läggs till i egenkontroll för systematisk brandskyddsarbete<br>utrymningsrutin<br>för personal och<br>boende inte är<br>känd i<br>verksamheten för<br>vård- och<br>omsorgsboenden |
-| --- | --- |
-|  | Risk att Läggs till i egenkontroll för systematisk brandskyddsarbete<br>utrymningsrutin<br>för personal inte<br>är känd i<br>verksamheten för<br>övriga lokaler<br>(exklusive vård-<br>och<br>omsorgsboenden<br>) utifrån<br>arbetsgivaransva<br>r |
-|  | Risk att Arbetssättet och processen ansökan-beslut-verkställighet är<br>processen välfungerande. Inga indikationer på brister har framkommit under<br>ansökan-beslut- senaste internkontrollerna.<br>verkställighet inte<br>följs |
-|  | Risk att Andel aktuella genomförandeplaner mäts inom ramen för<br>genomförandepla måluppföljning (nämndsmål) och kvalitet följ upp i egenkontrollen.<br>n ej upprättas<br>korrekt |
-|  | Risk för Antal händelser där orsak är brist i dokumentation under 2023 var<br>vårdskada p ga 32 stycken för alla vård-och omsorgstagare i kommunen<br>brister i hälso-<br>och<br>sjukvårdsdokume<br>ntationen. |
-|  | Risk att inte Rutin har upprättats.<br>kunderna får<br>någon vård eller<br>omsorg i<br>samband med<br>konkurs eller<br>uppsägning av<br>avtal med extern<br>hemtjänstutförare<br>. |
-|  | Risk för 95 % av händelser kopplat till läkemedelshantering under 2023 har<br>vårdskada gett ingen till mindre konsekvens för patienten.<br>kopplat till<br>läkemedelshanter<br>ing |
-
 <!-- sida 54 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
@@ -2018,30 +2093,12 @@ Uppföljningsrapport intern kontroll 2024
 
 11
 
-[Tabell 54-1](handlingar.tabeller/54-1.csv)
-
-| Kategorier | Risker Anledning till att risk ej tas till plan<br>Risk för bristande Risk bevakas och följs upp i verksamheterna systematiska<br>vård och omsorg kvalitetsarbete och rapporteras i kvalitetsberättelse<br>på grund av att<br>rutiner, riktlinjer<br>och ordinationer<br>inte efterlevs i<br>önskad<br>omfattning |
-| --- | --- |
-|  | Risk för brister i Risk bevakas och följs upp i verksamheterna systematiska<br>dokumentationss kvalitetsarbete och rapporteras i kvalitetsberättelse<br>kyldigheten<br>socialtjänst |
-|  | Brister i analog Digital och analog myndighetlåda bevakas och fördelas varje dag.<br>och digital<br>posthantering. |
-|  | Risk för bristande Beslut att samtliga våbo ska ha stationär reservkraft år 2028 togs i<br>vård och omsorg KF juni 2023<br>vid vård- och<br>omsorgsboenden<br>på grund av att<br>det saknas<br>reservkraft vid el-<br>avbrott |
-|  | Risk för Utredning pågår för att hitta lösning. Nya boendet byggs med<br>vårdskada vid komfortkyla.<br>vård- och<br>omsorgsboenden<br>på grund av att<br>det saknas<br>komfortkyla vid<br>höga<br>temperaturer |
-|  | Risk för att Andel aktuella genomförandeplaner mäts inom ramen för<br>enskildas måluppföljning (nämndsmål) och kvalitet följ upp i egenkontrollen.<br>genomförandepla<br>ner inte är<br>aktuella på grund<br>av hur tid och<br>resurser<br>prioriteras |
-|  | Risk för bristande Tas ej med till plan då Oral care är utförare och nämnden ej kan<br>vård och omsorg vidta åtgärder i ett företag.<br>av enskilda på<br>grund av att<br>munhälsobedöm<br>ningar inte<br>genomförs i<br>önskad<br>omfattning |
-
 <!-- sida 55 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Uppföljningsrapport intern kontroll 2024
 
 12
-
-[Tabell 55-1](handlingar.tabeller/55-1.csv)
-
-| Kategorier | Risker Anledning till att risk ej tas till plan<br>Risk för bristande Resultat från DF respons visar att det finns mycket få händelser<br>vård och omsorg där patient farit illa kopplat till smärta vid vård i livets slut. Däremot<br>vid vård i livets finns brister i dokumentation och användning av fastställda rutiner.<br>slut på grund av Resultat från palliativa registret arbetas vidare med i palliativa<br>att gruppen inom hemsjukvården.<br>validerad/struktur<br>erad<br>smärtskattning<br>inte genomförs i<br>önskad<br>omfattning |
-| --- | --- |
-|  | Risk för bristande Resultat från DF respons visar att det finns mycket få händelser<br>vård och omsorg där patient farit illa kopplat till smärta vid vård i livets slut. Däremot<br>vid vård i livets finns brister i dokumentation och användning av fastställda rutiner.<br>slut då det Resultat från palliativa registret arbetas vidare med i palliativa<br>saknas gruppen inom hemsjukvården.<br>dokumenterad<br>munhälsobedöm<br>ning |
-|  | Risk för bristande Risk bevakas och följs upp i verksamheterna systematiska<br>vård och omsorg kvalitetsarbete och rapporteras i kvalitetsberättelse<br>på grund av<br>avvikelser från<br>dokumentationss<br>kyldigheten<br>socialtjänst |
 
 <!-- sida 56 -->
 
@@ -2120,6 +2177,12 @@ Med privata utförare avses utförare som har hand om skötseln av en kommunal a
 privat utförare räknas inte hel- eller delägda kommunala bolag, eller stiftelse eller förening som bildats av
 kommunen eller regionen.
 
+Andel av       Kostnad för
+Verksamhet
+verksamhetsvolym % verksamhet mnkr
+Bokslut Bokslut Bokslut Bokslut
+2023    2024    2023    2024
+
 14
 
 [Tabell 57-1](handlingar.tabeller/57-1.csv)
@@ -2133,7 +2196,7 @@ kommunen eller regionen.
 
 [Tabell 57-2](handlingar.tabeller/57-2.csv)
 
-| Verksamhet<br>Kundval - hemtjänst | Andel av<br>verksamhetsvolym %<br>Bokslut Bokslut<br>2023 2024<br>15,7 % 18,8 % |  | Kostnad för<br>verksamhet mnkr<br>Bokslut Bokslut<br>2023 2024<br>52,4 55,2 |  |
+| Kundval - hemtjänst | 15,7 % | 18,8 % | 52,4 | 55,2 |
 | --- | --- | --- | --- | --- |
 | Omsorgsboende | 17,8 % | 17,8 % | 63,4 | 68,1 |
 | Korttidsboende | 15,2 % | 15,2 % | 4,6 | 5,3 |
@@ -2255,7 +2318,7 @@ Nämndens självskattning
 
 18
 
-[Tabell 61-1](handlingar.tabeller/61-1.csv)
+[Tabell 61-62-1](handlingar.tabeller/61-62-1.csv)
 
 | Område<br>Uppdrag och mål | Frågor Svar, Antal 2024<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
 | --- | --- |
@@ -2270,18 +2333,7 @@ Nämndens självskattning
 |  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |
 |  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
 | Riskanalys | Riskanalysen kommuniceras med<br>nämnden |
-
-<!-- sida 62 -->
-
-Nämnden för Vård & Omsorg                        Kungsbacka kommun
-Uppföljningsrapport intern kontroll 2024
-
-19
-
-[Tabell 62-1](handlingar.tabeller/62-1.csv)
-
 | Område | Frågor Svar, Antal 2024<br>Riskanalysen är underlag för åtgärder och<br>granskningar |
-| --- | --- |
 | Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
 |  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
 | Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
@@ -2289,6 +2341,13 @@ Uppföljningsrapport intern kontroll 2024
 |  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
 | Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
 |  | Vi har en fungerande introduktion av nya<br>medarbetare |
+
+<!-- sida 62 -->
+
+Nämnden för Vård & Omsorg                        Kungsbacka kommun
+Uppföljningsrapport intern kontroll 2024
+
+19
 
 <!-- sida 63 -->
 
@@ -5335,7 +5394,7 @@ KUNGSBACKA  KOMMUN
 
 Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts eller avslutats
 
-[Tabell 129-1](handlingar.tabeller/129-1.csv)
+[Tabell 129-130-1](handlingar.tabeller/129-130-1.csv)
 
 | Beslutsdatum | Insats | Datum för verkställighet, avslut |
 | --- | --- | --- |
@@ -5373,6 +5432,10 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 2024-09-02 | Särskilt boende | Verkställd 2024-12-14 |
 | 2024-09-04 | Särskilt boende | Verkställd 2024-12-12 |
 | 2024-09-05 | Särskilt boende | Verkställd 2024-12-12 |
+| 2024-09-18 | Särskilt boende | Verkställd 2024-12-20 |
+| 2024-05-20 | Växelvård | Verkställd 2024-10-01 |
+| 2024-06-24 | Växelvård | Verkställd 2024-10-10 |
+| 2024-06-27 | Växelvård | Verkställd 2024-10-24 |
 
 <!-- sida 130 -->
 
@@ -5381,14 +5444,6 @@ KUNGSBACKA  KOMMUN
 
 Arian Faily                   Ann-Helen Svensson
 Förvaltningschef              Verksamhetschef
-
-[Tabell 130-1](handlingar.tabeller/130-1.csv)
-
-| 2024-09-18 | Särskilt boende | Verkställd 2024-12-20 |
-| --- | --- | --- |
-| 2024-05-20 | Växelvård | Verkställd 2024-10-01 |
-| 2024-06-24 | Växelvård | Verkställd 2024-10-10 |
-| 2024-06-27 | Växelvård | Verkställd 2024-10-24 |
 
 <!-- sida 131 -->
 
@@ -5445,23 +5500,19 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (4)
 
-[Tabell 132-1](handlingar.tabeller/132-1.csv)
+[Tabell 132-133-1](handlingar.tabeller/132-133-1.csv)
 
 | 4.1 | Attestreglemente,<br>Tillämpnings-<br>anvisningar för<br>attestreglementet<br>Nytt - rött kursivt<br>Borttaget – gult<br>överstruket<br>Se sidan 10 i<br>förteckningen | Utse beslutsattestanter<br>och ersättare för<br>nämndens<br>verksamheter, och<br>besluta om<br>beloppsgränser eller<br>begränsad attesträtt. | Förvaltningschef,<br>Biträdande<br>förvaltningschef<br>Ekonomichef | Attesträtt innebär rätt att<br>besluta om att godkänna<br>kostnader inom ett<br>verksamhetsområde.<br>Följsamheten av<br>attestreglementet ska årligen<br>kontrolleras, i enlighet med<br>Tillämpningsanvisningar för<br>attestreglementet och av<br>nämnden fastställd<br>kontrollplan. Resultatet av<br>kontrollen ska redovisas till<br>nämnden. |
 | --- | --- | --- | --- | --- |
 | 4.4 | Lag om offentlig<br>upphandling,<br>Riktlinjer för<br>inköp<br>Upphandlings-<br>lagstiftningen<br>Kommunens<br>policy och<br>riktlinjer<br>Nytt - rött kursivt<br>Borttaget – gult<br>överstruket<br>Se sidor 10-11<br>i förteckningen | Beslut om<br>upphandling inom<br>nämndens<br>verksamhetsområde<br>– i enlighet med vad<br>nämnden har beslutat<br>om verksamhetens<br>mål, inriktning,<br>omfattning och<br>kvalitet.<br>Beslutanderätten<br>innefattar:<br>- att inleda<br>upphandling och<br>vilket förfarande<br>som ska användas<br>- godkänna<br>tilldelning och<br>underteckna<br>avtalet<br>- tilldelning av<br>kontrakt eller<br>återtagande av<br>tilldelning<br>- underteckna avtal<br>efter att<br>avtalsspärren löpt | Förvaltningschef<br>Biträdande<br>förvaltningschef<br>verksamhetschef | Endast bytt kolumn till<br>omfattning<br>Beslutanderätten innefattar:<br>- att inleda upphandling och<br>vilket förfarande som ska<br>användas,<br>- tilldelning av kontrakt eller<br>återtagande av tilldelning<br>- underteckna avtal efter att<br>avtalsspärren löpt ut<br>alternativt efter att domstol<br>avslagit ansökan om<br>överprövning<br>- avbryta upphandling och<br>återupptagande av avbruten<br>upphandling<br>- ändring och tillägg till<br>avtal<br>- utkrävande av vite enligt<br>avtal<br>- uppsägning eller hävning<br>av avtal<br>Står kvar, se nedan.<br>Inför beslut bör samråd ske<br>med Service Inköp och<br>aktuella ramavtal beaktas.<br>Beslut om upphandling av |
+|  |  | ut alternativt efter<br>att domstol<br>avslagit ansökan<br>om överprövning<br>- avbryta<br>upphandling och<br>återupptagande<br>av avbruten<br>upphandling<br>- ändring och<br>tillägg till avtal<br>- utkrävande av<br>vite enligt avtal<br>- uppsägning eller<br>hävning av avtal |  | ramavtal som rör flera<br>nämnder i kommunen fattas<br>av Service.<br>Nämndens ska informeras<br>innan upphandling sker vid<br>större upphandlingar som<br>har långsiktig effekt.<br>Beslutanderätten gäller inom<br>samma område och med<br>samma beloppsgräns som<br>delegaten har<br>attesträtt/budgetansvar för<br>och i enlighet med<br>upphandlingsregler. |
+| 4.9 | Regler för<br>kommunens<br>likvidplanering,<br>krav- och<br>inkasso-<br>verksamhet och<br>kontanthantering<br>Nytt - rött kursivt<br>Borttaget – gult<br>överstruket<br>Se sida 11 i<br>förteckningen | Beslut om att<br>avskriva utestående<br>fordringar<br>Avskrivning om<br>högst ett<br>prisbasbelopp får<br>vidaredelegeras av<br>förvaltningschef. | Förvaltningschef,<br>Biträdande<br>förvaltningschef<br>Ekonomichef |  |
+| 4.14 | Nytt - rött kursivt<br>Borttaget – gult<br>överstruket<br>Se sida 12 i<br>förteckningen | Ansökan om statliga<br>bidrag | Biträdande<br>förvaltningschef<br>Ekonomichef |  |
 
 <!-- sida 133 -->
 
 KUNGSBACKA  KOMMUN
 3 (4)
-
-[Tabell 133-1](handlingar.tabeller/133-1.csv)
-
-|  |  | ut alternativt efter<br>att domstol<br>avslagit ansökan<br>om överprövning<br>- avbryta<br>upphandling och<br>återupptagande<br>av avbruten<br>upphandling<br>- ändring och<br>tillägg till avtal<br>- utkrävande av<br>vite enligt avtal<br>- uppsägning eller<br>hävning av avtal |  | ramavtal som rör flera<br>nämnder i kommunen fattas<br>av Service.<br>Nämndens ska informeras<br>innan upphandling sker vid<br>större upphandlingar som<br>har långsiktig effekt.<br>Beslutanderätten gäller inom<br>samma område och med<br>samma beloppsgräns som<br>delegaten har<br>attesträtt/budgetansvar för<br>och i enlighet med<br>upphandlingsregler. |
-| --- | --- | --- | --- | --- |
-| 4.9 | Regler för<br>kommunens<br>likvidplanering,<br>krav- och<br>inkasso-<br>verksamhet och<br>kontanthantering<br>Nytt - rött kursivt<br>Borttaget – gult<br>överstruket<br>Se sida 11 i<br>förteckningen | Beslut om att<br>avskriva utestående<br>fordringar<br>Avskrivning om<br>högst ett<br>prisbasbelopp får<br>vidaredelegeras av<br>förvaltningschef. | Förvaltningschef,<br>Biträdande<br>förvaltningschef<br>Ekonomichef |  |
-| 4.14 | Nytt - rött kursivt<br>Borttaget – gult<br>överstruket<br>Se sida 12 i<br>förteckningen | Ansökan om statliga<br>bidrag | Biträdande<br>förvaltningschef<br>Ekonomichef |  |
 
 <!-- sida 134 -->
 
@@ -5603,7 +5654,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 
 4 (18)
 
-[Tabell 138-1](handlingar.tabeller/138-1.csv)
+[Tabell 138-139-1](handlingar.tabeller/138-139-1.csv)
 
 | Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -5619,6 +5670,9 @@ NÄMNDEN FÖR VÅRD & OMSORG
 | 3.1.10 | 4 kap 1 §<br>socialtjänstlag | Köp av plats i annan kommun eller förvaltning (extern<br>verkställighet) | Verksamhetschef |  |
 | 3.1.11 | 11 kap 1 §<br>socialtjänstlag | Inleda utredning, inte inleda utredning (avvisa) och avsluta<br>utredning utan beslut angående ansökan (avskriva) | Biståndshandläggare | Beslut att avvisa en ansökan eller avskriva en<br>utredning kan överklagas. |
 | 3.1.12 | 2a kap<br>10-11 §§ | Begäran om överflyttning av ärende till annan kommun, meddela<br>inställning till begäran från annan kommun, ansökan om | Verksamhetschef |  |
+|  | socialtjänstlag | överflyttning till Inspektionen för vård och omsorg (IVO) och<br>yttrande till IVO efter ansökan om överflyttning från annan<br>kommun. |  |  |
+| 3.1.13 | 2 kap 1 § och<br>4 kap 1 §<br>socialtjänstlag | Tillfälligt bistånd för att undvika nöd, i avvaktan på prövning från<br>biståndshandläggare | Chef i beredskap | Beslutet skall bara gälla till dess att det omprövats av<br>biståndshandläggare. |
+| 3.1.14 | 4 kap 2 §<br>socialtjänstlag | Nödvändiga sociala insatser, till följd av exempelvis ålder eller<br>funktionsnedsättning, till personer som är flyktingar enligt<br>massflyktsdirektivet | Biståndshandläggare | Enskild ska i första hand vända sig till<br>Migrationsverket. Migrationsverket kan då besluta om<br>hantering som flykting enligt massflyktsdirektivet och<br>tilldela ansvaret till Kungsbacka kommun att<br>ombesörja stöd enligt LMA. |
 
 <!-- sida 139 -->
 
@@ -5633,13 +5687,6 @@ NÄMNDEN FÖR VÅRD & OMSORG
 
 [Tabell 139-1](handlingar.tabeller/139-1.csv)
 
-|  | socialtjänstlag | överflyttning till Inspektionen för vård och omsorg (IVO) och<br>yttrande till IVO efter ansökan om överflyttning från annan<br>kommun. |  |  |
-| --- | --- | --- | --- | --- |
-| 3.1.13 | 2 kap 1 § och<br>4 kap 1 §<br>socialtjänstlag | Tillfälligt bistånd för att undvika nöd, i avvaktan på prövning från<br>biståndshandläggare | Chef i beredskap | Beslutet skall bara gälla till dess att det omprövats av<br>biståndshandläggare. |
-| 3.1.14 | 4 kap 2 §<br>socialtjänstlag | Nödvändiga sociala insatser, till följd av exempelvis ålder eller<br>funktionsnedsättning, till personer som är flyktingar enligt<br>massflyktsdirektivet | Biståndshandläggare | Enskild ska i första hand vända sig till<br>Migrationsverket. Migrationsverket kan då besluta om<br>hantering som flykting enligt massflyktsdirektivet och<br>tilldela ansvaret till Kungsbacka kommun att<br>ombesörja stöd enligt LMA. |
-
-[Tabell 139-2](handlingar.tabeller/139-2.csv)
-
 | Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | 3.2.1 | 4-9 §§ lag om<br>bostadsanpassningsbidrag | Bostadsanpassningsbidrag – upp till 10 prisbasbelopp | Bostadsanpassningsbidrags-<br>handläggare |  |
@@ -5649,11 +5696,14 @@ NÄMNDEN FÖR VÅRD & OMSORG
 | 3.2.5 | 11 §§ lag om<br>bostadsanpassningsbidrag | Reperationsbidrag – upp till 10 prisbasbelopp | Bostadsanpassningsbidrags-<br>handläggare |  |
 | 3.2.6 | 11 §§ lag om<br>bostadsanpassningsbidrag | Reperationsbidrag – över 10 prisbasbelopp | Enhetschef |  |
 
-[Tabell 139-3](handlingar.tabeller/139-3.csv)
+[Tabell 139-140-2](handlingar.tabeller/139-140-2.csv)
 
 | Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | 3.3.1 | 8 kap 4-9 §§ | Fastställa avgift för enskild | Avgiftshandläggare | I enlighet med av Kommunfullmäktige antagna taxor. |
+|  | socialtjänstlag<br>17 kap 1, 8 §§<br>hälso- och<br>sjukvårdslag |  |  |  |
+| 3.3.2 |  | Nedsättning eller avskrivning av avgift för enskild, vid särskilda<br>skäl | Enhetschef |  |
+| 3.3.3 | Riktlinjer från<br>Sveriges<br>kommuner och<br>regioner | Fastställa arvode och omkostnadsersättning till kontaktperson | Enhetschef |  |
 
 <!-- sida 140 -->
 
@@ -5664,20 +5714,21 @@ NÄMNDEN FÖR VÅRD & OMSORG
 
 6 (18)
 
-[Tabell 140-1](handlingar.tabeller/140-1.csv)
-
-|  | socialtjänstlag<br>17 kap 1, 8 §§<br>hälso- och<br>sjukvårdslag |  |  |  |
-| --- | --- | --- | --- | --- |
-| 3.3.2 |  | Nedsättning eller avskrivning av avgift för enskild, vid särskilda<br>skäl | Enhetschef |  |
-| 3.3.3 | Riktlinjer från<br>Sveriges<br>kommuner och<br>regioner | Fastställa arvode och omkostnadsersättning till kontaktperson | Enhetschef |  |
-
-[Tabell 140-2](handlingar.tabeller/140-2.csv)
+[Tabell 140-141-1](handlingar.tabeller/140-141-1.csv)
 
 | Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | 3.4.1 | 36 §<br>förvaltningslag | Rättelse av uppenbar felaktighet i beslut till följd av skrivfel,<br>räknefel eller liknande förbiseende | Delegaten i<br>ursprungsbeslutet,<br>nämndsekreterare | Rättelsen ska kommuniceras till den som beslutet<br>berör men är i sig inte ett överklagningsbart beslut.<br>Nämndsekreterare rättar beslut fattade av nämnden i<br>sin helhet. Gäller inte beslut som är överklagbara<br>enligt 13 kap. kommunallag. |
 | 3.4.2 | 37-38 §§<br>förvaltningslag | Ändring av ett pågående gynnande beslut (omprövning) | Delegaten i<br>ursprungsbeslutet | Beslut som är gynnande för enskild får bara ändras<br>till den enskildes nackdel i vissa fall, se 37 § 2 st<br>förvaltningslag. |
 | 3.4.3 |  | Överklaga dom i förvaltningsrätten, kammarrätten eller beslut<br>från annan myndighet, samt begäran om inhibition och<br>yttranden till förvaltningsdomstol om beslut som överklagats av<br>kommunen | Verksamhetschef | I de fall nämnden fattat ursprungsbeslutet ska<br>nämnden anta yttrande. |
+| 3.4.4 | 44-46 §§<br>förvaltningslag | Prövning av om överklagan har inkommit i rätt tid<br>(rättidsprövning) och ska överlämnas till överinstans eller om<br>den inkommit för sent och ska avvisas. | Delegaten i<br>ursprungsbeslutet,<br>nämndsekreterare | I de fall nämnden fattat ursprungsbeslutet, eller om<br>ordförande tagit ett brådskande beslut i nämndens<br>ställe, gör nämndsekreterare rättidsprövning. |
+| 3.4.5 | 39 och 46 §§<br>förvaltningslag | Omprövning vid överklagan | Delegaten i<br>ursprungsbeslutet | Om beslutet ändras till den enskildes fördel så ska<br>både det överklagade beslutet och det nya beslutet<br>överlämnas till rätten. När överklagan är överlämnad<br>till rätten får beslutet inte längre ändras. |
+| 3.4.6 |  | Yttrande till förvaltningsdomstol angående beslut överklagat av<br>enskild | Delegaten i<br>ursprungsbeslutet | I de fall nämnden fattat ursprungsbeslutet ska<br>nämnden anta yttrande. |
+| 3.4.7 |  | Föra kommunens talan i ärenden eller mål vid allmän domstol<br>eller allmän förvaltningsdomstol | Delegaten i<br>ursprungsbeslutet |  |
+| 3.4.8 | Gemensamt<br>reglemente för<br>kommun-<br>styrelsen<br>och övriga<br>nämnder i<br>Kungsbacka<br>kommun | Utse ombud med rätt att föra kommunens talan i mål och<br>ärenden som enligt lag eller annan författning ankommer på<br>nämnden eller på annat sätt faller inom nämndens<br>ansvarsområde | Förvaltningschef |  |
+| 3.4.9 | 3 § lag om<br>offentligt biträde | Yttrande om offentligt biträde | Verksamhetschef |  |
+| 3.4.10 | 12 §<br>förvaltningslag | Avslå eller avvisa begäran om att få ärende avgjort efter sex<br>månader från att det inletts | Verksamhetschef |  |
+| 3.4.11 | 14-15 §§<br>förvaltningslag | Avvisa olämpligt ombud eller förelägga ombud att styrka sin<br>behörighet genom fullmakt | Enhetschef |  |
 
 <!-- sida 141 -->
 
@@ -5689,18 +5740,6 @@ Nr    Lagrum/stöd  Delegeringens omfattning               Delegerat till Anmär
 
 7 (18)
 
-[Tabell 141-1](handlingar.tabeller/141-1.csv)
-
-| 3.4.4 | 44-46 §§<br>förvaltningslag | Prövning av om överklagan har inkommit i rätt tid<br>(rättidsprövning) och ska överlämnas till överinstans eller om<br>den inkommit för sent och ska avvisas. | Delegaten i<br>ursprungsbeslutet,<br>nämndsekreterare | I de fall nämnden fattat ursprungsbeslutet, eller om<br>ordförande tagit ett brådskande beslut i nämndens<br>ställe, gör nämndsekreterare rättidsprövning. |
-| --- | --- | --- | --- | --- |
-| 3.4.5 | 39 och 46 §§<br>förvaltningslag | Omprövning vid överklagan | Delegaten i<br>ursprungsbeslutet | Om beslutet ändras till den enskildes fördel så ska<br>både det överklagade beslutet och det nya beslutet<br>överlämnas till rätten. När överklagan är överlämnad<br>till rätten får beslutet inte längre ändras. |
-| 3.4.6 |  | Yttrande till förvaltningsdomstol angående beslut överklagat av<br>enskild | Delegaten i<br>ursprungsbeslutet | I de fall nämnden fattat ursprungsbeslutet ska<br>nämnden anta yttrande. |
-| 3.4.7 |  | Föra kommunens talan i ärenden eller mål vid allmän domstol<br>eller allmän förvaltningsdomstol | Delegaten i<br>ursprungsbeslutet |  |
-| 3.4.8 | Gemensamt<br>reglemente för<br>kommun-<br>styrelsen<br>och övriga<br>nämnder i<br>Kungsbacka<br>kommun | Utse ombud med rätt att föra kommunens talan i mål och<br>ärenden som enligt lag eller annan författning ankommer på<br>nämnden eller på annat sätt faller inom nämndens<br>ansvarsområde | Förvaltningschef |  |
-| 3.4.9 | 3 § lag om<br>offentligt biträde | Yttrande om offentligt biträde | Verksamhetschef |  |
-| 3.4.10 | 12 §<br>förvaltningslag | Avslå eller avvisa begäran om att få ärende avgjort efter sex<br>månader från att det inletts | Verksamhetschef |  |
-| 3.4.11 | 14-15 §§<br>förvaltningslag | Avvisa olämpligt ombud eller förelägga ombud att styrka sin<br>behörighet genom fullmakt | Enhetschef |  |
-
 <!-- sida 142 -->
 
 DELEGERINGSFÖRTECKNING
@@ -5708,7 +5747,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 
 8 (18)
 
-[Tabell 142-1](handlingar.tabeller/142-1.csv)
+[Tabell 142-143-1](handlingar.tabeller/142-143-1.csv)
 
 | 3.5.1 | 14 kap 3 § 2 st, 14<br>kap 7 §<br>socialtjänstlag<br>(lex Sarah) | Bedöma rapporter om missförhållanden och risk för<br>missförhållanden samt anmälan till IVO om allvarligt<br>missförhållande eller påtaglig risk för allvarligt<br>missförhållande inom socialtjänst | Socialt ansvarig<br>samordnare<br>(SAS) | SAS ger information om anmälan till förvaltningschef och<br>nämnden för Vård & Omsorg |
 | --- | --- | --- | --- | --- |
@@ -5718,6 +5757,11 @@ NÄMNDEN FÖR VÅRD & OMSORG
 | 3.5.5 | 19 §<br>Läkemedelverkets<br>föreskrifter om<br>säkerhets-<br>övervakning av<br>humanläkemedel | Rapportera misstänkta biverkningar av läkemedel till<br>Läkemedelsverket | Medicinskt<br>ansvarig<br>sjuksköterska<br>(MAS), Medicinskt<br>ansvarig för<br>rehabilitering<br>(MAR) |  |
 | 3.5.6 | 6 kap 11-12 §§<br>smittskyddslag | Lämna uppgifter till smittskyddsläkare efter underrättelse och<br>anmäla till smittskyddsläkare att den smittade inte följer<br>meddelade förhållningsregler | Enhetschef,<br>Sjuksköterska |  |
 | 3.5.7 | 12 kap 10 §<br>socialtjänstlag<br>10 kap 2 §<br>offentlighets- och<br>sekretesslag | Polisanmälan av brott som hindrar den egna verksamheten,<br>utan hinder av sekretess, när det är nödvändigt | Verksamhetschef |  |
+| 3.5.8 | 12 kap 10 §<br>socialtjänstlag<br>10 kap 21-23 §§<br>offentlighets- och<br>sekretesslag<br>6 §<br>bidragsbrottslagen | Polisanmälan av brukare vid misstanke om brott i vissa fall,<br>utan hinder av sekretess | Verksamhetschef | Misstanke om brott får bara anmälas i vissa fall. Se 10<br>kap 21-23 §§ offentlighets- och sekretesslag för en utförlig<br>lista. Misstanke om bidragsbrott ska alltid anmälas om inte<br>brottet är ringa. |
+| 3.5.9 | 17a §<br>folkbokföringslag<br>12 kap 10 § 3 st<br>socialtjänstlag | Yttrande till Skatteverket om skyddad folkbokföring eller<br>sekretessmarkering i folkbokföring efter begäran | Bistånds-<br>handläggare |  |
+| 3.5.10 | 11 kap 16 §<br>Föräldrabalk | Yttrande om godmanskap eller förvaltarskap | Bistånds-<br>handläggare |  |
+| 3.5.11 | 5 kap 3 §<br>socialtjänst-<br>förordning | Anmälan till överförmyndare om enskilds behov av<br>förmyndare, förvaltare eller god man respektive anmälan om<br>att anordnat förmyndarskap, godmanskap eller förvaltarskap<br>bör upphöra. | Bistånds-<br>handläggare |  |
+| 3.5.12 |  | Yttrande till tillsynsmyndighet | Förvaltningschef,<br>Biträdande<br>förvaltningschef<br>Verksamhetschef | Omfattar bland annat Socialstyrelsen, Inspektionen för<br>vård och omsorg (IVO), Arbetsmiljöverket,<br>Integritetsskyddsmyndigheten (IMY), Riksdagens<br>ombudsmän (JO), Justitiekansler (JK)<br>Diskrimineringsombudsmannen (DO) Konkurrensverket<br>och Patientnämnden i Region Halland. |
 
 <!-- sida 143 -->
 
@@ -5725,15 +5769,6 @@ DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
 9 (18)
-
-[Tabell 143-1](handlingar.tabeller/143-1.csv)
-
-| 3.5.8 | 12 kap 10 §<br>socialtjänstlag<br>10 kap 21-23 §§<br>offentlighets- och<br>sekretesslag<br>6 §<br>bidragsbrottslagen | Polisanmälan av brukare vid misstanke om brott i vissa fall,<br>utan hinder av sekretess | Verksamhetschef | Misstanke om brott får bara anmälas i vissa fall. Se 10<br>kap 21-23 §§ offentlighets- och sekretesslag för en utförlig<br>lista. Misstanke om bidragsbrott ska alltid anmälas om inte<br>brottet är ringa. |
-| --- | --- | --- | --- | --- |
-| 3.5.9 | 17a §<br>folkbokföringslag<br>12 kap 10 § 3 st<br>socialtjänstlag | Yttrande till Skatteverket om skyddad folkbokföring eller<br>sekretessmarkering i folkbokföring efter begäran | Bistånds-<br>handläggare |  |
-| 3.5.10 | 11 kap 16 §<br>Föräldrabalk | Yttrande om godmanskap eller förvaltarskap | Bistånds-<br>handläggare |  |
-| 3.5.11 | 5 kap 3 §<br>socialtjänst-<br>förordning | Anmälan till överförmyndare om enskilds behov av<br>förmyndare, förvaltare eller god man respektive anmälan om<br>att anordnat förmyndarskap, godmanskap eller förvaltarskap<br>bör upphöra. | Bistånds-<br>handläggare |  |
-| 3.5.12 |  | Yttrande till tillsynsmyndighet | Förvaltningschef,<br>Biträdande<br>förvaltningschef<br>Verksamhetschef | Omfattar bland annat Socialstyrelsen, Inspektionen för<br>vård och omsorg (IVO), Arbetsmiljöverket,<br>Integritetsskyddsmyndigheten (IMY), Riksdagens<br>ombudsmän (JO), Justitiekansler (JK)<br>Diskrimineringsombudsmannen (DO) Konkurrensverket<br>och Patientnämnden i Region Halland. |
 
 <!-- sida 144 -->
 
@@ -5746,7 +5781,7 @@ Kommentar: Avrop på ramavtal eller mindre upphandling genom enklare förfarande
 
 10 (18)
 
-[Tabell 144-1](handlingar.tabeller/144-1.csv)
+[Tabell 144-146-1](handlingar.tabeller/144-146-1.csv)
 
 | Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -5754,18 +5789,7 @@ Kommentar: Avrop på ramavtal eller mindre upphandling genom enklare förfarande
 | 4.2 |  | Inhyrning, uthyrning och uppsägning av fastigheter, lokaler<br>och lägenheter | Förvaltningschef,<br>verksamhetschef |  |
 | 4.3 |  | Ingå och säga upp avtal inom respektive<br>verksamhetsområde med budgetansvar. | Förvaltningschef,<br>verksamhetschef |  |
 | 4.4 | Lag om offentlig<br>upphandling,<br>Riktlinjer för inköp<br>Upphandlings-<br>lagstiftningen<br>Kommunens policy<br>och riktlinjer | Beslut om upphandling inom nämndens<br>verksamhetsområde – i enlighet med vad nämnden har<br>beslutat om verksamhetens mål, inriktning, omfattning och<br>kvalitet.<br>Beslutanderätten innefattar:<br>- att inleda upphandling och vilket förfarande som ska<br>användas<br>- godkänna tilldelning och underteckna avtalet<br>- tilldelning av kontrakt eller återtagande av tilldelning<br>- underteckna avtal efter att avtalsspärren löpt ut<br>alternativt efter att domstol avslagit ansökan om<br>överprövning<br>- avbryta upphandling och återupptagande av avbruten<br>upphandling<br>- ändring och tillägg till avtal<br>- utkrävande av vite enligt avtal<br>- uppsägning eller hävning av avtal | Förvaltningschef<br>Biträdande<br>förvaltningschef<br>verksamhetschef | Kursivt endast flyttat till bytt kolumn för omfattning<br>Beslutanderätten innefattar:<br>- att inleda upphandling och vilket förfarande som ska<br>användas,<br>- tilldelning av kontrakt eller återtagande av tilldelning<br>- underteckna avtal efter att avtalsspärren löpt ut<br>alternativt efter att domstol avslagit ansökan om<br>överprövning<br>- avbryta upphandling och återupptagande av avbruten<br>upphandling<br>- ändring och tillägg till avtal<br>- utkrävande av vite enligt avtal<br>- uppsägning eller hävning av avtal<br>Stå kvar, se nedan.<br>Inför beslut bör samråd ske med Service Inköp och<br>aktuella ramavtal beaktas. Beslut om upphandling av<br>ramavtal som rör flera nämnder i kommunen fattas av<br>Service. |
-
-<!-- sida 145 -->
-
-DELEGERINGSFÖRTECKNING
-NÄMNDEN FÖR VÅRD & OMSORG
-
-11 (18)
-
-[Tabell 145-1](handlingar.tabeller/145-1.csv)
-
 |  |  |  |  | Nämndens ska informeras innan upphandling sker vid<br>större upphandlingar som har långsiktig effekt.<br>Beslutanderätten gäller inom samma område och med<br>samma beloppsgräns som delegaten har<br>attesträtt/budgetansvar för och i enlighet med<br>upphandlingsregler. |
-| --- | --- | --- | --- | --- |
 | 4.5 | Aktuellt avtal | Godkännande av byte av driftsansvarig i verksamhet som<br>drivs på entreprenad eller hos leverantör i valfrihetssystem. | Utvecklingsledare<br>med ansvar för<br>externa utförare |  |
 | 4.6 | Policy för fordon och<br>tillämpnings-<br>anvisningar | Göra undantag från Policy för fordon i enskilda fall vid<br>särskilda skäl | Förvaltningschef |  |
 | 4.7 |  | Överlämna överskottsmaterial till Service för avyttring | Förvaltningschef |  |
@@ -5774,6 +5798,15 @@ NÄMNDEN FÖR VÅRD & OMSORG
 | 4.10 | 8 kap 1 § lag om<br>valfrihetssystem<br>(LOV) | Godkännande av sökande som leverantör av tjänster inom<br>valfrihetssystem | Förvaltningschef | Valfrihetssystem tillämpas inom de områden som<br>nämnden för Vård & Omsorg har fattat beslut om.<br>Vid förändring i sökandes verksamhet som innebär byte<br>av inriktning, område, ägare eller att företaget ombildas i<br>ny form ska frågan om godkännande prövas på nytt. |
 | 4.11 | 8 kap 3 § lag om<br>valfrihetssystem<br>(LOV) | Träffa kontrakt med godkända leverantörer inom<br>valfrihetssystemet | Förvaltningschef |  |
 | 4.12 | Förfrågnings-<br>underlag LOV | Uppsägning eller hävning av kontrakt enligt lag om<br>valfrihetssystem | Förvaltningschef |  |
+| 4.13 | 3 kap 1-4 §§<br>skadeståndslag | Skadestånds- och ersättningsärenden, högst ett<br>prisbasbelopp | Förvaltningschef |  |
+| 4.14 |  | Ansökan om statliga bidrag | Ekonomichef<br>Biträdande<br>förvaltningschef |  |
+
+<!-- sida 145 -->
+
+DELEGERINGSFÖRTECKNING
+NÄMNDEN FÖR VÅRD & OMSORG
+
+11 (18)
 
 <!-- sida 146 -->
 
@@ -5786,13 +5819,7 @@ Kommentar: Kommunstyrelsens förvaltning har i Regler kring delegering tagit fra
 
 12 (18)
 
-[Tabell 146-1](handlingar.tabeller/146-1.csv)
-
-| 4.13 | 3 kap 1-4 §§<br>skadeståndslag | Skadestånds- och ersättningsärenden, högst ett<br>prisbasbelopp | Förvaltningschef |  |
-| --- | --- | --- | --- | --- |
-| 4.14 |  | Ansökan om statliga bidrag | Ekonomichef<br>Biträdande<br>förvaltningschef |  |
-
-[Tabell 146-2](handlingar.tabeller/146-2.csv)
+[Tabell 146-147-1](handlingar.tabeller/146-147-1.csv)
 
 | Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -5803,6 +5830,11 @@ Kommentar: Kommunstyrelsens förvaltning har i Regler kring delegering tagit fra
 | 5.3 | 7 § lag om<br>anställningsskydd<br>(LAS), 33-35 §§<br>Allmänna bestämmelser | Uppsägning av personliga skäl | Verksamhetschef | I samråd med HR på förvaltningen och förhandlingschef |
 | 5.4 | 7 § lag om<br>anställningsskydd<br>(LAS), 33-35 §§<br>Allmänna bestämmelser | Uppsägning på grund av arbetsbrist | Verksamhetschef | I samråd med HR på förvaltningen |
 | 5.5 | 18 § lag om<br>anställningsskydd (LAS) | Avsked | Verksamhetschef | I samråd med HR på förvaltningen och förhandlingschef |
+| 5.6 |  | Avsluta anställning enligt särskild överenskommelse. | Verksamhetschef | I samråd med HR-chef |
+|  |  | Övrigt |  |  |
+| 5.7 | 11 § Allmänna<br>bestämmelser | Disciplinpåföljd - skriftlig varning. | Verksamhetschef | I samråd med HR på förvaltningen |
+| 5.8 | 10 § Allmänna<br>bestämmelser | Avstängning | Verksamhetschef | I samråd med HR på förvaltningen |
+| 5.9 | 7 c § lag om offentlig<br>anställning, 8 §<br>Allmänna bestämmelser | Förbud mot utövande av bisyssla | Verksamhetschef | I samråd med HR på förvaltningen i enlighet med<br>”Regler för bisyssla i Kungsbacka kommun” |
 
 <!-- sida 147 -->
 
@@ -5810,15 +5842,6 @@ DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
 13 (18)
-
-[Tabell 147-1](handlingar.tabeller/147-1.csv)
-
-| 5.6 |  | Avsluta anställning enligt särskild överenskommelse. | Verksamhetschef | I samråd med HR-chef |
-| --- | --- | --- | --- | --- |
-|  |  | Övrigt |  |  |
-| 5.7 | 11 § Allmänna<br>bestämmelser | Disciplinpåföljd - skriftlig varning. | Verksamhetschef | I samråd med HR på förvaltningen |
-| 5.8 | 10 § Allmänna<br>bestämmelser | Avstängning | Verksamhetschef | I samråd med HR på förvaltningen |
-| 5.9 | 7 c § lag om offentlig<br>anställning, 8 §<br>Allmänna bestämmelser | Förbud mot utövande av bisyssla | Verksamhetschef | I samråd med HR på förvaltningen i enlighet med<br>”Regler för bisyssla i Kungsbacka kommun” |
 
 <!-- sida 148 -->
 
@@ -5829,7 +5852,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 
 14 (18)
 
-[Tabell 148-1](handlingar.tabeller/148-1.csv)
+[Tabell 148-149-1](handlingar.tabeller/148-149-1.csv)
 
 | Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -5840,18 +5863,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 | 6.5 | Artikel 33<br>Dataskydds-<br>förordningen (GDPR) | Anmäla personuppgiftsincident till<br>Integritetsskyddsmyndigheten | Dataskyddskontakt |  |
 | 6.6 | Artikel 28 GDPR och<br>Hantering av<br>personuppgifter –<br>Se, KF, § 33, 2024-03-<br>05 - Delegera uppgift<br>(GDPR)<br>Närmare reglering<br>finns i styrdokument.<br>Gemensamt<br>reglemente för<br>kommunstyrelse och<br>nämnder i Kungsbacka<br>kommun. | Ingå avtal om personuppgiftsbiträdes behandling av<br>personuppgifter för den personuppgiftsansvariges räkning<br>för kommungemensamma digitala tjänster och system | Biträdande<br>kommundirektör | Avser kommungemensamma tjänster och system som<br>används av kommunens samtliga nämnder.<br>Kommungemensamma tjänster och system som stödjer<br>kommungemensamma stödprocesser som utförs av<br>Service eller kommunstyrelsen enligt deras reglementen<br>omfattas inte. |
 | 6.7 | 18 § lag om<br>informationssäkerhet<br>för samhällsviktiga och<br>digitala tjänster | Anmäla incident som har en betydande påverkan på<br>kontinuitet i samhällsviktig tjänst till Myndigheten för<br>samhällsskydd och beredskap | Informationssäker-<br>hetssamordnare | Vård & Omsorg är leverantör av samhällsviktiga tjänster<br>(hälso- och sjukvård) och antalet anställd legitimerad<br>vårdpersonal överstiger 50 årsarbetskrafter. Vård &<br>Omsorg är därför skyldiga att rapportera incidenter i<br>nätverk och informationssystem som har en betydande |
-
-<!-- sida 149 -->
-
-DELEGERINGSFÖRTECKNING
-NÄMNDEN FÖR VÅRD & OMSORG
-
-15 (18)
-
-[Tabell 149-1](handlingar.tabeller/149-1.csv)
-
 |  |  |  |  | påverkan på kontinuitet i hälso- och sjukvården till<br>Myndigheten för samhällsskydd och beredskap (MSB). |
-| --- | --- | --- | --- | --- |
 | 6.8 | 3 kap 8 § körkorts-<br>förordningen | Yttrande till Transportstyrelsen eller domstol i<br>körkortsärende | Verksamhetschef |  |
 | 6.9 | 6 § lag om<br>särskild<br>personutredning i<br>brottmål mm | Lämnande av upplysningar och förslag på åtgärder till<br>rätten, åklagaren eller Kriminalvården om misstänkt i<br>brottsmålsutredning, efter begäran | Verksamhetschef |  |
 | 6.10 | 2 kap. 14 §<br>Tryckfrihetsförordning,<br>TF<br>6 kap 4-5 §§<br>offentlighets- och<br>sekretesslag<br>10 kap. 3, 4, 13 och 14<br>§§ offentlighets- och<br>sekretesslag | Utlämnande av allmän handling med förbehåll,<br>sekretessmarkering eller att avslå begäran om att få ta<br>del av allmän handling. | Förvaltningschef | En prövning av om en handling kan lämnas ut kan ske i<br>två steg. I första hand är det den anställda i kommunen<br>som har hand om handlingen som ska pröva om<br>handlingen kan lämnas ut. Den anställde kan då lämna<br>ut handlingen, lämna ut delar av den eller neka begäran,<br>men behöver inte ge den enskilde ett skriftligt<br>avslagsbeslut. Vid tveksamhet från den anställde eller<br>om den enskilde begär det så ska delegaten i denna<br>delegationsordning pröva begäran och först då lämna ett<br>skriftligt beslut. |
@@ -5859,6 +5871,13 @@ NÄMNDEN FÖR VÅRD & OMSORG
 | 6.12 | 10 § arkivlag,<br>Dokumenthanterings-<br>planer för<br>ledningsprocesser,<br>stödprocesser och<br>verksamhetsprocesser | Gallring av allmänna handlingar som inte finns upptagna i<br>dokumenthanteringsplan | Utvecklare<br>informations-<br>förvaltning |  |
 | 6.13 |  | Yttrande över planprogram och detaljplan i samrådsskede | Ekonomi och<br>kvalitetschef |  |
 | 6.14 | Nämndens budget,<br>Regler och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet inom Sverige för ordförande, vice<br>ordförande, ledamot och ersättare i nämnden. | Ordförande.<br>För beslut som<br>avser ordförande | Rätt till arvode för deltagande på aktivitet regleras i<br>”Regler och riktlinjer för förmåner till förtroendevalda”.<br>Där framgår vilka aktiviteter som avses. |
+
+<!-- sida 149 -->
+
+DELEGERINGSFÖRTECKNING
+NÄMNDEN FÖR VÅRD & OMSORG
+
+15 (18)
 
 <!-- sida 150 -->
 

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.311aaa10199f64f29ee3b02b/1760940413
 sha256: 97e79aa074dd0202f397a97b29d42fa51d6961eb312182b2aefbfd9fa01caf4d
 bytes: 230813884
 sidor: 409
-hamtad: 2026-10-08T11:41:01+00:00
-konverterad: 2026-10-08T11:48:51+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T09:34:06+00:00
+konverterad: 2026-10-15T09:43:04+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 76, 77, 78, 79, 80, 81, 82, 83, 86, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 121, 122, 123, 124, 125, 126, 127, 128, 146, 207, 208, 209, 210, 211, 212, 213, 214, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 309, 310, 311, 312, 313, 314, 315, 316]
-figurer: null
-tolkade: null
+figurer: [9, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 28, 31, 32, 34, 35, 36, 65, 66, 68, 69, 70, 71, 84, 85, 138, 139, 154, 157, 159, 160, 161, 162, 163, 164, 165, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 186, 188, 200, 267, 268, 269, 270, 271, 272, 273, 274, 382]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -60,7 +60,7 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-5-1](handlingar.tabeller/2-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -70,17 +70,6 @@ KUNGSBACKA  KOMMUN
 | 6. | Uppstart av projekt i lokalplan<br>– Åsaskolan –<br>verksamhetsanpassning för att<br>uppfylla myndighetskrav | 2025-00598 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner uppstart av projekt<br>Åsaskolan – verksamhetsanpassning för att uppfylla<br>myndighetskrav.<br>Kommunstyrelsen godkänner att finansiering sker<br>genom att investeringsmedel på 8,3 miljoner kronor<br>respektive 530 000 kronor i driftmedel omfördelas<br>från löpnummer 1202 Oförutsedda behov år 2026. |
 | 7. | Begäran om planbesked för<br>Släps-Kullen 2:40 | 2025-00444 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Släps-Kullen 2:40, i Kullavik. |
 | 8. | Godkännande av<br>exploateringsavtal för<br>detaljplan för sjukhus inom<br>Tölöberg 2 och Tölö 1:17 i<br>Kungsbacka stad | 2022-00765 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner exploateringsavtal<br>avseende detaljplan för sjukhus inom Tölöberg 2 och<br>Tölö 1:17 i Kungsbacka, mellan kommunen och<br>Region Halland, undertecknat av Region Halland<br>2025-09-10.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalen<br>samt övriga nödvändiga handlingar för avtalens<br>genomförande. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(5)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 9. | Principavtal avseende<br>detaljplan för bostäder inom<br>Lerberg 16:40 m.fl. i Anneberg<br>i Kungsbacka kommun | 2025-00222 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner principavtal inom<br>planområdet för Lerberg 16:40 m.fl. i Kungsbacka,<br>undertecknat av fastighetsägarna.<br>Kommunstyrelsens ordförande och kommundirektör,<br>eller deras respektive ersättare, utses att för<br>kommunens räkning underteckna avtalet. |
 | 10. | Godkännande av<br>projektbeställning samt<br>överlämnande till<br>byggnadsnämnden för att<br>upprätta detaljplan för<br>verksamheter inom Äskatorp<br>21:1 m.fl. i Fjärås<br>stationsområde | 2023-00272 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för verksamheter inom Äskatorp 21:1 m.fl.<br>i Fjärås stationsområde, daterad 2025-09-10.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan för verksamheter<br>inom Äskatorp 21:1 m.fl. i Fjärås. |
 | 11. | Svar på Göteborgsregionens<br>remiss av Regional<br>utvecklingsplan för<br>Storstadsregionen | 2025-00231 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-09-10,<br>och översänder det som sitt svar till<br>Göteborgsregionens kommunalförbund (GR). |
@@ -88,20 +77,23 @@ KUNGSBACKA  KOMMUN
 | 13. | Svar på Justitiedepartementets<br>remiss av betänkandet Ett<br>nationellt förbud mot tiggeri<br>(SOU 2025:83) | 2025-00530 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-10-14,<br>och översänder det som sitt svar till<br>Justitiedepartementet. |
 | 14. | Anmälan av delegeringsbeslut | 2025-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
 | 15. | Redovisning av inkomna<br>skrivelser | 2025-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
+| 16. | Rapport från nämnden för Vård<br>& Omsorg av ej verkställda<br>beslut enligt socialtjänstlagen,<br>SoL, andra kvartalet 2025 | 2025-00634 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Vård & Omsorg, enligt 16 kap 6 f §<br>socialtjänstlagen, till protokollet. |
+| 17. | Rapport från nämnden för<br>Individ & Familjeomsorg av ej<br>verkställda beslut enligt<br>socialtjänstlagen, SoL, och<br>lagen om stöd och service till<br>vissa funktionshindrade, LSS,<br>andra kvartalet 2025 | 2025-00677 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Individ & Familjeomsorg enligt 16 kap 6 f §<br>socialtjänstlagen och 28 f § lagen om stöd och service<br>till vissa funktionshindrade, till protokollet. |
+| 18. | Godkännande av projekt och<br>medfinansiering av<br>belysningsanläggning vid del<br>av väg 955 i Särö | 2025-00540 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner<br>medfinansieringsavtal med Trafikverket<br>Bevakningsavtal – Belysningsanläggning Särö vid<br>väg 955, del av, rivning och byggnation av ny<br>belysning (TRV 2025/66904), daterat 2025-06-18.<br>Kommunfullmäktige ger kommunstyrelsens<br>ordförande och kommundirektören, eller deras<br>respektive ersättare, i uppdrag att underteckna<br>medfinansieringsavtalet.<br>Kommunfullmäktige godkänner att<br>medfinansieringen finansieras av kommunens<br>centrala finansverksamhet, vilket innebär att<br>3,2 miljoner kronor kommer belasta årets resultat.<br>Kommunfullmäktige beslutar att årets budget och<br>kostnader omfördelas från nämnden för Teknik till<br>kommunens centrala finansverksamhet med<br>sammantaget 3,2 miljoner kronor.<br>Kommunfullmäktige ger nämnden för Teknik i<br>uppdrag att genomföra projektet inom ramen för<br>medfinansieringsavtalet samt inom budgeten. |
+| 19. | Genomförande av detaljplan<br>för bostäder, verksamheter och<br>restaurang inom Skällared 3:55<br>med flera i Gottskär,<br>Kungsbacka kommun | 2025-00306 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner exploateringsavtal<br>avseende genomförande av detaljplan för bostäder,<br>verksamheter och restaurang inom Skällared 3:55<br>med flera i Gottskär, Kungsbacka kommun, mellan<br>kommunen och Gottskärs Havsbad AB, undertecknat<br>av bolaget 2025-09-25.<br>Kommunfullmäktige godkänner överenskommelse<br>om fastighetsreglering mellan kommunen och<br>Gottskärs Havsbad AB, undertecknat av bolaget<br>2025-09-25.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna<br>avtalen, samt övriga nödvändiga handlingar för<br>avtalens genomförande. |
+| 20. | Taxa för avfall 2026 | 2025-00496 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Avfallstaxa 2026, daterad<br>2025-05-30.<br>Taxan träder i kraft den 1 januari 2026.<br>Kommunfullmäktige ger nämnden för Teknik<br>möjlighet att årligen reglera maxtaxan för tjänster<br>som utförs av auktoriserade entreprenörer i enlighet<br>med taxans bestämmelser i 5. Indexjustering av<br>avgiftsbelopp och 6. Delegering av beslut om<br>justering efter index.<br>Avfallstaxa 2025, antagen av kommunfullmäktige<br>2025-05-06, § 90, upphör samtidigt att gälla. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(5)
 
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 16. | Rapport från nämnden för Vård<br>& Omsorg av ej verkställda<br>beslut enligt socialtjänstlagen,<br>SoL, andra kvartalet 2025 | 2025-00634 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Vård & Omsorg, enligt 16 kap 6 f §<br>socialtjänstlagen, till protokollet. |
-| 17. | Rapport från nämnden för<br>Individ & Familjeomsorg av ej<br>verkställda beslut enligt<br>socialtjänstlagen, SoL, och<br>lagen om stöd och service till<br>vissa funktionshindrade, LSS,<br>andra kvartalet 2025 | 2025-00677 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Individ & Familjeomsorg enligt 16 kap 6 f §<br>socialtjänstlagen och 28 f § lagen om stöd och service<br>till vissa funktionshindrade, till protokollet. |
-| 18. | Godkännande av projekt och<br>medfinansiering av<br>belysningsanläggning vid del<br>av väg 955 i Särö | 2025-00540 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner<br>medfinansieringsavtal med Trafikverket<br>Bevakningsavtal – Belysningsanläggning Särö vid<br>väg 955, del av, rivning och byggnation av ny<br>belysning (TRV 2025/66904), daterat 2025-06-18.<br>Kommunfullmäktige ger kommunstyrelsens<br>ordförande och kommundirektören, eller deras<br>respektive ersättare, i uppdrag att underteckna<br>medfinansieringsavtalet.<br>Kommunfullmäktige godkänner att<br>medfinansieringen finansieras av kommunens<br>centrala finansverksamhet, vilket innebär att<br>3,2 miljoner kronor kommer belasta årets resultat.<br>Kommunfullmäktige beslutar att årets budget och<br>kostnader omfördelas från nämnden för Teknik till<br>kommunens centrala finansverksamhet med<br>sammantaget 3,2 miljoner kronor.<br>Kommunfullmäktige ger nämnden för Teknik i<br>uppdrag att genomföra projektet inom ramen för<br>medfinansieringsavtalet samt inom budgeten. |
 
 <!-- sida 5 -->
 
@@ -111,13 +103,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Patrik Johansson
 ordförande                        kommunsekreterare
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 19. | Genomförande av detaljplan<br>för bostäder, verksamheter och<br>restaurang inom Skällared 3:55<br>med flera i Gottskär,<br>Kungsbacka kommun | 2025-00306 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner exploateringsavtal<br>avseende genomförande av detaljplan för bostäder,<br>verksamheter och restaurang inom Skällared 3:55<br>med flera i Gottskär, Kungsbacka kommun, mellan<br>kommunen och Gottskärs Havsbad AB, undertecknat<br>av bolaget 2025-09-25.<br>Kommunfullmäktige godkänner överenskommelse<br>om fastighetsreglering mellan kommunen och<br>Gottskärs Havsbad AB, undertecknat av bolaget<br>2025-09-25.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna<br>avtalen, samt övriga nödvändiga handlingar för<br>avtalens genomförande. |
-| 20. | Taxa för avfall 2026 | 2025-00496 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Avfallstaxa 2026, daterad<br>2025-05-30.<br>Taxan träder i kraft den 1 januari 2026.<br>Kommunfullmäktige ger nämnden för Teknik<br>möjlighet att årligen reglera maxtaxan för tjänster<br>som utförs av auktoriserade entreprenörer i enlighet<br>med taxans bestämmelser i 5. Indexjustering av<br>avgiftsbelopp och 6. Delegering av beslut om<br>justering efter index.<br>Avfallstaxa 2025, antagen av kommunfullmäktige<br>2025-05-06, § 90, upphör samtidigt att gälla. |
 
 <!-- sida 6 -->
 
@@ -410,8 +395,9 @@ Kungsbacka kommun          Delårsbokslut 2025                   4
 
 [Tabell 12-1](handlingar.tabeller/12-1.csv)
 
-| Summa pensionsförpliktelser i balansräkningen<br>varav avsättning pensioner före 1998 | 2 202<br>1 229 | 2 181<br>1 190 |
+| Summa pensionsförpliktelser i balansräkningen | 2 202 | 2 181 |
 | --- | --- | --- |
+| varav avsättning pensioner före 1998 | 1 229 | 1 190 |
 | varav avsättning pensioner efter 1998 | 973 | 990 |
 
 <!-- sida 13 -->
@@ -435,13 +421,6 @@ kommunens ekonomi utgår vi ifrån fyra finansiella perspektiv: resultat, kapaci
 
 2.3.1 Resultat och kapacitet
 Årets resultat
-
-Utfall Utfall
-Prognos   till  till
-Årets resultat, miljoner kronor 2021 2022 2023 2024
-2025 augusti augusti
-2024  2025
-Kommunen                  464  756  231  286     477   209    458
 
 \*) Exklusive jämförelsestörande poster
 
@@ -468,9 +447,12 @@ Kungsbacka kommun          Delårsbokslut 2025                   5
 
 [Tabell 13-1](handlingar.tabeller/13-1.csv)
 
-| Strukturellt resultat\*<br>Resultatets andel av skatter &<br>statsbidrag % | 494<br>8,4 | 572<br>13,1 | 276<br>3,8 | 211<br>4,6 | 454<br>7,5 | 219<br>5,4 | 442<br>10,8 |
+| Årets resultat, miljoner kronor | 2021 | 2022 | 2023 | 2024 | Prognos 2025 | Utfall till augusti 2024 | Utfall till augusti 2025 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Strukturellt resultats andel av<br>skatter & statsbidrag % | 9,0 | 9,8 | 4,7 | 3,4 | 7,1 | 5,6 | 10,4 |
+| Kommunen | 464 | 756 | 231 | 286 | 477 | 209 | 458 |
+| Strukturellt resultat\* | 494 | 572 | 276 | 211 | 454 | 219 | 442 |
+| Resultatets andel av skatter & statsbidrag % | 8,4 | 13,1 | 3,8 | 4,6 | 7,5 | 5,4 | 10,8 |
+| Strukturellt resultats andel av skatter & statsbidrag % | 9,0 | 9,8 | 4,7 | 3,4 | 7,1 | 5,6 | 10,4 |
 
 <!-- sida 14 -->
 
@@ -526,8 +508,9 @@ Kungsbacka kommun          Delårsbokslut 2025                   6
 
 [Tabell 14-1](handlingar.tabeller/14-1.csv)
 
-| Årlig förändring nettokostnader<br>Årlig förändring nettokostnader löpande verksamhet | -1,4<br>3,7 | 14,2<br>9,2 | 1,4<br>3,5 | 1,6<br>0,7 |
+| Årlig förändring nettokostnader | -1,4 | 14,2 | 1,4 | 1,6 |
 | --- | --- | --- | --- | --- |
+| Årlig förändring nettokostnader löpande verksamhet | 3,7 | 9,2 | 3,5 | 0,7 |
 | Årlig förändring nettokostnader inkl. finansiella poster | -0,3 | 15,4 | 1,5 | 0,4 |
 
 <!-- sida 15 -->
@@ -735,14 +718,18 @@ Indikator                          2022  2023  2024 2025  Målsättning
 2025
 Antal påbörjade bostäder            848  165   213  59\*\*\*  öka
 
+Antal färdigställda bostäder        363  319   324  299\*\*\* öka
+Anmälda brott mot brottsbalken per invånare, 5 691 6 475 6 541 \*\* minska
+antal/100 000 invånare (BRÅ)
+Brukarbedömning hemtjänst äldreomsorg, helhetssyn 90 % 91 % 88 % \*\* öka
+(Kolada)
+
+Brukarbedömning särskilt boende äldreomsorg, 74 % 76 % 76 % \*\* öka
+helhetssyn (Kolada)
+Brukarbedömning individ- och familjeomsorg, totalt – 88 % - \* 95 % \*\* öka
+helhetssyn (Kolada)
+
 Kungsbacka kommun          Delårsbokslut 2025                  10
-
-[Tabell 18-1](handlingar.tabeller/18-1.csv)
-
-| Antal färdigställda bostäder<br>Anmälda brott mot brottsbalken per invånare,<br>antal/100 000 invånare (BRÅ) | 363<br>5 691 | 319<br>6 475 | 324<br>6 541 | 299\*\*\*<br>\*\* | öka<br>minska |
-| --- | --- | --- | --- | --- | --- |
-| Brukarbedömning hemtjänst äldreomsorg, helhetssyn<br>(Kolada)<br>Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn (Kolada) | 90 %<br>74 % | 91 %<br>76 % | 88 %<br>76 % | \*\*<br>\*\* | öka<br>öka |
-| Brukarbedömning individ- och familjeomsorg, totalt –<br>helhetssyn (Kolada) | 88 % | - \* | 95 % | \*\* | öka |
 
 <!-- sida 19 -->
 
@@ -841,15 +828,20 @@ Indikator                        2022  2023   2024  2025  Målsättning
 2025
 Kommunens verksamheters elförbrukning, total \* \* \*    \*    minska
 (kWh)
+Utsläpp till luft av växthusgaser totalt, ton CO2- 2,27 \* \* \* minska
+ekv/inv (Kolada)
+Fossiloberoende personbilar, andel av totalt antal 21,2 24,1 26,5 \* öka
+bilar i det geografiska området (%)
+
+Fossiloberoende personbilar i     94,6  96,2   97,5  97,2   öka
+kommunorganisationen, andel (%)
+Slutanvändning av energi inom det geografiska 15 15 \* \*    minska
+området, MWh/inv (Kolada)
+Matens klimatpåverkan från de offentliga måltiderna 1,86 1,69 1,85 1,44\*\*\* minska
+ska minska räknat i kg CO2-ekv/kg livsmedel.
+Målsättningen är 1,0 år 2030.
 
 Kungsbacka kommun          Delårsbokslut 2025                  12
-
-[Tabell 20-1](handlingar.tabeller/20-1.csv)
-
-| Utsläpp till luft av växthusgaser totalt, ton CO2-<br>ekv/inv (Kolada)<br>Fossiloberoende personbilar, andel av totalt antal<br>bilar i det geografiska området (%) | 2,27<br>21,2 | \*<br>24,1 | \*<br>26,5 | \*<br>\* | minska<br>öka |
-| --- | --- | --- | --- | --- | --- |
-| Fossiloberoende personbilar i<br>kommunorganisationen, andel (%)<br>Slutanvändning av energi inom det geografiska<br>området, MWh/inv (Kolada) | 94,6<br>15 | 96,2<br>15 | 97,5<br>\* | 97,2<br>\* | öka<br>minska |
-| Matens klimatpåverkan från de offentliga måltiderna<br>ska minska räknat i kg CO2-ekv/kg livsmedel.<br>Målsättningen är 1,0 år 2030. | 1,86 | 1,69 | 1,85 | 1,44\*\*\* | minska |
 
 <!-- sida 21 -->
 
@@ -859,11 +851,33 @@ Antal kemiska produkter med utfasningsämnen, 113 115 151 167\*\* minska
 inklusive hormonstörande ämnen på SIN-listan ska
 minska i kommunens verksamheter. 2021 var
 antalet 124 (KEMgroup PRO)
+Avfall från hushåll ska minska med 30 % per 103 92 \*  \*    minska
+invånare från 2020 till 2030. Startvärde 100,
+målvärde 2030 är 70.
+Avfall från kommunens verksamheter ska minska 115 223 \* \*  minska
+med 40 % per heltidsanställd. Startvärde 100,
+målvärde 2030 är 60.
+Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig \* \* öka
+Skyddad natur totalt, andel (Kolada) 7,4 % 7,4 % \*    \*
 
+Vattendrag med god ekologisk status, andel 18,5 % \* \* \*     öka
+(Kolada)
+Andelen återbrukade möbler       \*     \*        \*     \*     öka
+Ungas hälsa i årskurs 4 och 8 – Flickor. Åk 4: 88%, Åk 4: 85%, Åk 4: 85%, \* öka
+Åk 8: 72%, Åk 8: 79%, Åk 8: 73%,
+(Elevhälsan i Kungsbacka utvecklar metod utifrån
+Åk 1  Åk 1   Åk 1
+hälsosamtal med elever)          gymnasiet: gymnasiet: gymnasiet:
+65%   73%    75%
+Ungas hälsa i årskurs 4 och 8 – Pojkar. (Elevhälsan Åk 4: 90% Åk 4: 91% Åk 4: 89% \* öka
+Åk 8: 93% Åk 8: 92% Åk 8: 89%
+i Kungsbacka utvecklar metod utifrån hälsosamtal
+Åk 1  Åk 1   Åk 1
+med elever)                      gymnasiet: gymnasiet: gymnasiet:
+85%   86%    88%
 \*) Ännu ej publicerad.
 \*\*) 2025-09-09
 \*\*\*) Januari-juli
-
 2.5.3 Mål: Bästa företagsklimatet i Västsverige
 
 Prognos måluppfyllelse
@@ -884,14 +898,6 @@ plats och utvecklade egna affärsidéer.
 Kungsbacka kommun          Delårsbokslut 2025                  13
 
 [Tabell 21-1](handlingar.tabeller/21-1.csv)
-
-| Avfall från hushåll ska minska med 30 % per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70.<br>Avfall från kommunens verksamheter ska minska<br>med 40 % per heltidsanställd. Startvärde 100,<br>målvärde 2030 är 60. | 103<br>115 | 92<br>223 | \*<br>\* | \*<br>\* | minska<br>minska |
-| --- | --- | --- | --- | --- | --- |
-| Ekologisk status i Kungsbackafjorden (VISS)<br>Skyddad natur totalt, andel (Kolada) | måttlig<br>7,4 % | måttlig<br>7,4 % | \*<br>\* | \*<br>\* | öka |
-| Vattendrag med god ekologisk status, andel<br>(Kolada)<br>Andelen återbrukade möbler | 18,5 %<br>\* | \*<br>\* | \*<br>\* | \*<br>\* | öka<br>öka |
-| Ungas hälsa i årskurs 4 och 8 – Flickor.<br>(Elevhälsan i Kungsbacka utvecklar metod utifrån<br>hälsosamtal med elever)<br>Ungas hälsa i årskurs 4 och 8 – Pojkar. (Elevhälsan<br>i Kungsbacka utvecklar metod utifrån hälsosamtal<br>med elever) | Åk 4: 88%,<br>Åk 8: 72%,<br>Åk 1<br>gymnasiet:<br>65%<br>Åk 4: 90%<br>Åk 8: 93%<br>Åk 1<br>gymnasiet:<br>85% | Åk 4: 85%,<br>Åk 8: 79%,<br>Åk 1<br>gymnasiet:<br>73%<br>Åk 4: 91%<br>Åk 8: 92%<br>Åk 1<br>gymnasiet:<br>86% | Åk 4: 85%,<br>Åk 8: 73%,<br>Åk 1<br>gymnasiet:<br>75%<br>Åk 4: 89%<br>Åk 8: 89%<br>Åk 1<br>gymnasiet:<br>88% | \*<br>\* | öka<br>öka |
-
-[Tabell 21-2](handlingar.tabeller/21-2.csv)
 
 | Fokusområden Trend |  |
 | --- | --- |
@@ -959,7 +965,16 @@ sammanvägt betygsindex 0–100, för hur företag i
 kommunen bedömer Kungsbacka kommuns
 myndighetsutövning, vilken är en viktig del av
 företagsklimatet.
+Svenskt näringslivs attitydundersökning av kommuners 3,4 3,4 3,8 3,6 öka
+företagsklimat. Medelvärde utifrån skala 1–6, där företag
+bedömer företagsklimatet i Kungsbacka kommun.
+Sysselsatt dagbefolkning, antal (Kolada) 28 485 28 586 \* \*  öka
+Andel av sysselsatt dagbefolkning inom 4,9 % 4,9 % \*  \*     5,0 %
+Göteborgsregionen
+Företagsamhet, andel av invånare 16 - 74 år 18 % 19 % \* \*   öka
 
+Antal nystartade företag per 1 000 invånare 16 - 64 år, 12,8 10,3% \* \* öka
+etableringsfrekvens (Kolada)
 \*) Ännu ej publicerad.
 
 2.5.4 Mål: I Kungsbacka utvecklas vi hela livet
@@ -994,13 +1009,6 @@ Rektorer bedömer att kollegialt lärande står för den övervägande delen av 
 utveckling i sin yrkesroll och att det är en viktig rutin i vardagen.
 
 Kungsbacka kommun          Delårsbokslut 2025                  15
-
-[Tabell 23-1](handlingar.tabeller/23-1.csv)
-
-| Svenskt näringslivs attitydundersökning av kommuners<br>företagsklimat. Medelvärde utifrån skala 1–6, där företag<br>bedömer företagsklimatet i Kungsbacka kommun.<br>Sysselsatt dagbefolkning, antal (Kolada) | 3,4<br>28 485 | 3,4<br>28 586 | 3,8<br>\* | 3,6<br>\* | öka<br>öka |
-| --- | --- | --- | --- | --- | --- |
-| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen<br>Företagsamhet, andel av invånare 16 - 74 år | 4,9 %<br>18 % | 4,9 %<br>19 % | \*<br>\* | \*<br>\* | 5,0 %<br>öka |
-| Antal nystartade företag per 1 000 invånare 16 - 64 år,<br>etableringsfrekvens (Kolada) | 12,8 | 10,3% | \* | \* | öka |
 
 <!-- sida 24 -->
 
@@ -1044,16 +1052,18 @@ Indikator                           2022 2023  2024 2025
 Genomsnittligt meritvärde för grundskolans årskurs 9. 237 237 238 \* öka
 Meritvärdet utgörs av summan av de 17 bästa betygen
 i elevens slutbetyg och kan max vara 340. (Kolada)
+Genomsnittlig betygspoäng för gymnasiets 14,5 14,3 14,0 \*   öka
+avgångselevers betygspoäng som kan vara max 20.
+(Kolada)
+Arbetslöshet 16–24 år i kommunen, procent (Kolada) 1,7 1,7 2,3 \* minska
+Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 376 325 306 \*
 
+Andel vuxna personer som inte återkommer till 69 73 75 \*    öka
+försörjningsstöd inom ett år efter avslutat
+försörjningsstöd, procent (Kolada)
 \*) Ännu ej publicerad
 
 Kungsbacka kommun          Delårsbokslut 2025                  16
-
-[Tabell 24-1](handlingar.tabeller/24-1.csv)
-
-| Genomsnittlig betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara max 20.<br>(Kolada)<br>Arbetslöshet 16–24 år i kommunen, procent (Kolada) | 14,5<br>1,7 | 14,3<br>1,7 | 14,0<br>2,3 | \*<br>\* | öka<br>minska |
-| --- | --- | --- | --- | --- | --- |
-| Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada)<br>Andel vuxna personer som inte återkommer till<br>försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd, procent (Kolada) | 376<br>69 | 325<br>73 | 306<br>75 | \*<br>\* | öka |
 
 <!-- sida 25 -->
 
@@ -1478,17 +1488,22 @@ Kungsbacka kommun          Delårsbokslut 2025                  24
 
 [Tabell 32-1](handlingar.tabeller/32-1.csv)
 
-| Pensionsförpliktelser före 1998<br>Årets resultat enligt blandmodellen | 25<br>311 | -38<br>439 |
+| Pensionsförpliktelser före 1998 | 25 | -38 |
 | --- | --- | --- |
-| - Samtliga realisationsvinster<br>+Realisationsvinster enligt undantagsmöjlighet | -1<br>- | 0<br>- |
-| +Realisationsförluster enligt undantagsmöjlighet<br>-/+Orealiserade vinster och förluster i värdepapper | -<br>- | -<br>- |
-| +/-Återföring av orealiserade vinster & förluster i värdepapper<br>=Årets resultat efter balanskravsjusteringar | -<br>310 | -<br>439 |
-| -Reservering av medel till resultatutjämningsreserv<br>+Användning av medel från resultatutjämningsreserv | -<br>- | -<br>- |
+| Årets resultat enligt blandmodellen | 311 | 439 |
+| - Samtliga realisationsvinster | -1 | 0 |
+| +Realisationsvinster enligt undantagsmöjlighet | - | - |
+| +Realisationsförluster enligt undantagsmöjlighet | - | - |
+| -/+Orealiserade vinster och förluster i värdepapper | - | - |
+| +/-Återföring av orealiserade vinster & förluster i värdepapper | - | - |
+| =Årets resultat efter balanskravsjusteringar | 310 | 439 |
+| -Reservering av medel till resultatutjämningsreserv | - | - |
+| +Användning av medel från resultatutjämningsreserv | - | - |
 | =Balanskravsresultat | 310 | 439 |
 
-[Tabell 32-2](handlingar.tabeller/32-2.csv)
+[Tabell 32-33-2](handlingar.tabeller/32-33-2.csv)
 
-| Namn Utfall januari-juni Utfall januari-juni<br>2024 2025 |  |  |
+| Namn | Utfall januari-juni<br>2024 | Utfall januari-juni<br>2025 |
 | --- | --- | --- |
 | Anställda totalt | 6 618 | 6 531 |
 | Anställda andel kvinnor | 78,9 % | 78,8 % |
@@ -1496,6 +1511,12 @@ Kungsbacka kommun          Delårsbokslut 2025                  24
 | Andel heltid | 84,8 % | 85,5 % |
 | Personalomsättning | 4,4 % | 4,4 % |
 | Sjukfrånvaro totalt | 7,3 % | 6,9 % |
+| Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller mer | 39,3 % | 38,3 % |
+| Sjukfrånvaro, anställda i åldrarna 29 år eller yngre | 7, 0 % | 7 % |
+| Sjukfrånvaro, anställda i åldrarna 30–49 år | 6,1 % | 6 % |
+| Sjukfrånvaro, anställda i åldrarna 50 år eller äldre | 8,7 % | 7,8 % |
+| Sjukfrånvaro kvinnor | 8,0 % | 7,5 % |
+| Sjukfrånvaro män | 4,9 % | 4,5 % |
 
 <!-- sida 33 -->
 
@@ -1543,17 +1564,6 @@ sysselsättningen kommer öka något, samtidigt som vi ser en fortsatt stigande 
 
 Kungsbacka kommun          Delårsbokslut 2025                  25
 
-[Tabell 33-1](handlingar.tabeller/33-1.csv)
-
-| Namn Utfall januari-juni Utfall januari-juni<br>2024 2025 |  |  |
-| --- | --- | --- |
-| Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller mer | 39,3 % | 38,3 % |
-| Sjukfrånvaro, anställda i åldrarna 29 år eller yngre | 7, 0 % | 7 % |
-| Sjukfrånvaro, anställda i åldrarna 30–49 år | 6,1 % | 6 % |
-| Sjukfrånvaro, anställda i åldrarna 50 år eller äldre | 8,7 % | 7,8 % |
-| Sjukfrånvaro kvinnor | 8,0 % | 7,5 % |
-| Sjukfrånvaro män | 4,9 % | 4,5 % |
-
 <!-- sida 34 -->
 
 år väntas en starkare ökning av antalet arbetade timmar än i år. Detta stärker det kommunala
@@ -1580,17 +1590,25 @@ Miljoner kronor                     Kommunen
 2024-08-31 2025-08-31 Budget 2025 Prognos Avvikelse
 2025    prognos
 
+Extraordinära poster
+(netto)
+Årets resultat       209,4    458,4      260,7    477,2    216,4
+
 Kungsbacka kommun          Delårsbokslut 2025                  26
 
 [Tabell 34-1](handlingar.tabeller/34-1.csv)
 
-| Verksamhetens intäkter<br>Verksamhetens kostnader | 874,2<br>-4 282,7 | 909,9<br>-4 278,1 | 1 410,0<br>-6 912,1 | 1 270,0<br>-6 547,4 | -140,0<br>364,7 |
+| Verksamhetens intäkter | 874,2 | 909,9 | 1 410,0 | 1 270,0 | -140,0 |
 | --- | --- | --- | --- | --- | --- |
-| Avskrivningar<br>Verksamhetens<br>nettokostnader | -337,8<br>-3 746,2 | -339,1<br>-3 707,3 | -557,1<br>-6 059,2 | -526,8<br>-5 804,3 | 30,3<br>254,9 |
-| Skatteintäkter<br>Generella statsbidrag och<br>utjämning | 3 898,8<br>224,3 | 4 077,9<br>184,5 | 6 127,6<br>311,0 | 6 118,4<br>276,9 | -9,2<br>-34,1 |
-| Verksamhetens resultat<br>Finansiella intäkter | 376,9<br>10,4 | 555,2<br>12,0 | 379,4<br>20,5 | 591,1<br>21,4 | 211,6<br>0,9 |
-| Finansiella kostnader<br>Resultat efter finansiella<br>poster | -177,9<br>209,4 | -108,8<br>458,4 | -139,2<br>260,7 | -135,3<br>477,2 | 3,9<br>216,4 |
-| Extraordinära poster<br>(netto)<br>Årets resultat | 209,4 | 458,4 | 260,7 | 477,2 | 216,4 |
+| Verksamhetens kostnader | -4 282,7 | -4 278,1 | -6 912,1 | -6 547,4 | 364,7 |
+| Avskrivningar | -337,8 | -339,1 | -557,1 | -526,8 | 30,3 |
+| Verksamhetens nettokostnader | -3 746,2 | -3 707,3 | -6 059,2 | -5 804,3 | 254,9 |
+| Skatteintäkter | 3 898,8 | 4 077,9 | 6 127,6 | 6 118,4 | -9,2 |
+| Generella statsbidrag och utjämning | 224,3 | 184,5 | 311,0 | 276,9 | -34,1 |
+| Verksamhetens resultat | 376,9 | 555,2 | 379,4 | 591,1 | 211,6 |
+| Finansiella intäkter | 10,4 | 12,0 | 20,5 | 21,4 | 0,9 |
+| Finansiella kostnader | -177,9 | -108,8 | -139,2 | -135,3 | 3,9 |
+| Resultat efter finansiella poster | 209,4 | 458,4 | 260,7 | 477,2 | 216,4 |
 
 <!-- sida 35 -->
 
@@ -1599,28 +1617,55 @@ Miljoner kronor             Kommunen
 
 Aug 2024   Aug 2025   Budget 2025
 
+TILLGÅNGAR
+Anläggningstillgångar
+
+AVSÄTTNINGAR OCH SKULDER
+
 Kungsbacka kommun          Delårsbokslut 2025                  27
 
 [Tabell 35-1](handlingar.tabeller/35-1.csv)
 
-| TILLGÅNGAR<br>Anläggningstillgångar |  |  |  |
+| Immateriella anläggningstillgångar | 0 | 0 | 0 |
 | --- | --- | --- | --- |
-| Immateriella anläggningstillgångar<br>Mark, byggnader o tekniska anläggningar | 0<br>9 087,9 | 0<br>9 223,2 | 0<br>9 891 |
-| Maskiner och inventarier<br>Materiella anläggningstillgångar | 741,5<br>9 829,4 | 757,3<br>9 980,4 | 937<br>10 827 |
-| Finansiella anläggningstillgångar<br>Summa Anläggningstillgångar | 233,4<br>10 062,8 | 241,2<br>10 221,6 | 234<br>11 061 |
-| Bidrag till statlig infrastruktur<br>Omsättningstillgångar | 51,9 | 62,2 | 54 |
-| Förråd med mera<br>Fordringar | 10,2<br>657,0 | 112,8<br>465,8 | 112<br>712 |
-| Kassa och bank<br>Summa Omsättningstillgångar | 425,9<br>1 093,1 | 573,5<br>1 152,2 | 189<br>1 013 |
-| SUMMA TILLGÅNGAR<br>EGET KAPITAL, AVSÄTTNINGAR o<br>SKULDER | 11 207,8 | 11 436,0 | 12 128 |
-| Årets resultat<br>Övrigt eget kapital | 209,4<br>3 974,1 | 458,4<br>4 266,3 | 261<br>3 988 |
-| Summa eget kapital<br>Avsättning för pensioner och liknande<br>förpliktelser | 4 183,5<br>2 217,1 | 4 724,7<br>2 211,0 | 4 249<br>2 189 |
-| Andra avsättningar<br>Summa Avsättningar | 354,0<br>2 571,1 | 329,5<br>2 540,6 | 357<br>2 546 |
-| Långfristiga skulder<br>Kortfristiga skulder | 3 613,6<br>839,6 | 3 376,2<br>794,6 | 4 184<br>1 149 |
-| Summa Skulder<br>SUMMA EGET KAPITAL,<br>AVSÄTTNINGAR OCH SKULDER | 4 453,2<br>11 207,8 | 4 170,7<br>11 436,0 | 5 333<br>12 128 |
+| Mark, byggnader o tekniska anläggningar | 9 087,9 | 9 223,2 | 9 891 |
+| Maskiner och inventarier | 741,5 | 757,3 | 937 |
+| Materiella anläggningstillgångar | 9 829,4 | 9 980,4 | 10 827 |
+| Finansiella anläggningstillgångar | 233,4 | 241,2 | 234 |
+| Summa Anläggningstillgångar | 10 062,8 | 10 221,6 | 11 061 |
+| Bidrag till statlig infrastruktur | 51,9 | 62,2 | 54 |
+| Omsättningstillgångar |  |  |  |
+| Förråd med mera | 10,2 | 112,8 | 112 |
+| Fordringar | 657,0 | 465,8 | 712 |
+| Kassa och bank | 425,9 | 573,5 | 189 |
+| Summa Omsättningstillgångar | 1 093,1 | 1 152,2 | 1 013 |
+| SUMMA TILLGÅNGAR | 11 207,8 | 11 436,0 | 12 128 |
+| EGET KAPITAL, AVSÄTTNINGAR o |  |  |  |
+| SKULDER |  |  |  |
+| Årets resultat | 209,4 | 458,4 | 261 |
+| Övrigt eget kapital | 3 974,1 | 4 266,3 | 3 988 |
+| Summa eget kapital | 4 183,5 | 4 724,7 | 4 249 |
+| Avsättning för pensioner och liknande förpliktelser | 2 217,1 | 2 211,0 | 2 189 |
+| Andra avsättningar | 354,0 | 329,5 | 357 |
+| Summa Avsättningar | 2 571,1 | 2 540,6 | 2 546 |
+| Långfristiga skulder | 3 613,6 | 3 376,2 | 4 184 |
+| Kortfristiga skulder | 839,6 | 794,6 | 1 149 |
+| Summa Skulder | 4 453,2 | 4 170,7 | 5 333 |
+| SUMMA EGET KAPITAL, | 11 207,8 | 11 436,0 | 12 128 |
 
 <!-- sida 36 -->
 
 Miljoner kronor             Kommunen
+PANTER OCH
+ANSVARSFÖRBINDINDELSER
+
+Borgensförbindelser
+3 484,1   3 433,1       3 484,1
+Andel pensionsutfästelse
+Räddningstjänsten
+12,8       10,8          10,9
+Teoretiskt värde av förtroendevaldas
+pensionsförmåner                   7,0        7,5
 
 3.3 Not 1 Redovisningsprinciper och beräkningsmetoder
 
@@ -1656,12 +1701,6 @@ delårsrapporten.
 
 Kungsbacka kommun          Delårsbokslut 2025                  28
 
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
-
-| PANTER OCH<br>ANSVARSFÖRBINDINDELSER<br>Borgensförbindelser | 3 484,1 | 3 433,1 | 3 484,1 |
-| --- | --- | --- | --- |
-| Andel pensionsutfästelse<br>Räddningstjänsten<br>Teoretiskt värde av förtroendevaldas<br>pensionsförmåner | 12,8<br>7,0 | 10,8<br>7,5 | 10,9 |
-
 <!-- sida 37 -->
 
 4  Drift- och investeringsredovisning
@@ -1672,7 +1711,7 @@ Kungsbacka kommun          Delårsbokslut 2025                  29
 
 [Tabell 37-1](handlingar.tabeller/37-1.csv)
 
-| Miljoner kronor Delår Delår Bokslut Budget Prognos Prognos Avvikelse<br>2024 2025 2024 2025 2025 avvikelse procent |  |  |  |  |  |  |  |
+| Miljoner kronor | Delår<br>2024 | Delår<br>2025 | Bokslut<br>2024 | Budget<br>2025 | Prognos<br>2025 | Prognos<br>avvikelse | Avvikelse<br>procent |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Kommunfullmäktige | -2,6 | -3,0 | -4,1 | -4,9 | -4,9 | 0,0 | 0 |
 | Kommunstyrelsen | -180,7 | -186,8 | -265,7 | -292,3 | -277,8 | 14,5 | 5 |
@@ -1807,7 +1846,7 @@ Kungsbacka kommun          Delårsbokslut 2025                  32
 
 [Tabell 40-1](handlingar.tabeller/40-1.csv)
 
-| Delår Delår Budget Prognos Avvikelse<br>Miljoner kronor Prognos 2025<br>2024 2025 2025 avvikelse procent |  |  |  |  |  |  |
+| Miljoner kronor | Delår<br>2024 | Delår<br>2025 | Budget<br>2025 | Prognos 2025 | Prognos<br>avvikelse | Avvikelse<br>procent |
 | --- | --- | --- | --- | --- | --- | --- |
 | Gymnasium &<br>Arbetsmarknad | 0,9 | 3,3 | 6,3 | 6,3 | 0,0 | 0,0% |
 | Kultur & Fritid | 8,3 | 2,6 | 31,4 | 26,3 | 5,2 | 16,5% |
@@ -1868,7 +1907,7 @@ Kungsbacka kommun          Delårsbokslut 2025                  33
 
 [Tabell 41-1](handlingar.tabeller/41-1.csv)
 
-| Miljoner kronor Delår Delår Budget Prognos Avvikelse<br>2024 2025 2025 2025 |  |  |  |  |  |
+| Miljoner kronor | Delår<br>2024 | Delår<br>2025 | Budget<br>2025 | Prognos<br>2025 | Avvikelse |
 | --- | --- | --- | --- | --- | --- |
 | Utgifter | -201,9 | -232,2 | -608,4 | -517,1 | -91,2 |
 | Inkomster | 26,7 | 17,9 | 69,4 | 77,4 | -8,0 |
@@ -1876,7 +1915,7 @@ Kungsbacka kommun          Delårsbokslut 2025                  33
 
 [Tabell 41-2](handlingar.tabeller/41-2.csv)
 
-| Miljoner kronor Delår Delår Budget Prognos Avvikelse<br>2024 2025 2025 2025 |  |  |  |  |  |
+| Miljoner kronor | Delår<br>2024 | Delår<br>2025 | Budget<br>2025 | Prognos<br>2025 | Avvikelse |
 | --- | --- | --- | --- | --- | --- |
 | Utgifter | -1,1 | -0,7 | -14,8 | -3,6 | -11,2 |
 | Inkomster | 0 | 0 | 0 | 0 | 0 |
@@ -1884,7 +1923,7 @@ Kungsbacka kommun          Delårsbokslut 2025                  33
 
 [Tabell 41-3](handlingar.tabeller/41-3.csv)
 
-| Miljoner kronor Delår Delår Budget Prognos Avvikelse<br>2024 2025 2025 2025 |  |  |  |  |  |
+| Miljoner kronor | Delår<br>2024 | Delår<br>2025 | Budget<br>2025 | Prognos<br>2025 | Avvikelse |
 | --- | --- | --- | --- | --- | --- |
 | Utgifter | -26,8 | -13,7 | -27,0 | -28,1 | 1,1 |
 | Inkomster | 3,3 | 2,9 | 1,5 | 3,2 | -1,7 |
@@ -10099,7 +10138,7 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 2025-01-30 | Särskilt boende | Avliden 2025-05-25 |
 | 2025-02-07 | Växelvård | Avsagt sig beslutet 25-05-26 |
 
-[Tabell 249-2](handlingar.tabeller/249-2.csv)
+[Tabell 249-250-2](handlingar.tabeller/249-250-2.csv)
 
 | Beslutsdatum | Insats | Datum för verkställighet, avslut |
 | --- | --- | --- |
@@ -10124,6 +10163,12 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 2024-12-10 | Särskilt boende | Verkställd 2025-06-09 |
 | 2024-12-13 | Särskilt boende | Verkställd 2025-04-05 |
 | 2024-12-16 | Särskilt boende | Verkställd 2025-06-09 |
+| 2024-12-18 | Särskilt boende | Verkställd 2025-06-13 |
+| 2024-12-20 | Särskilt boende | Verkställd 2025-06-30 |
+| 2024-12-23 | Särskilt boende | Verkställd 2025-05-26 |
+| 2 024-12-27 | Särskilt boende | Verkställd 2025-06-30 |
+| 2024-12-27 | Särskilt boende | Verkställd 2025-06-13 |
+| 2024-12-02 | Växelvård | Verkställd 2025-04-10 |
 
 <!-- sida 250 -->
 
@@ -10133,16 +10178,6 @@ KUNGSBACKA  KOMMUN
 Arian Faily                   Ann-Helen Svensson
 
 Förvaltningschef              Verksamhetschef
-
-[Tabell 250-1](handlingar.tabeller/250-1.csv)
-
-| 2024-12-18 | Särskilt boende | Verkställd 2025-06-13 |
-| --- | --- | --- |
-| 2024-12-20 | Särskilt boende | Verkställd 2025-06-30 |
-| 2024-12-23 | Särskilt boende | Verkställd 2025-05-26 |
-| 2 024-12-27 | Särskilt boende | Verkställd 2025-06-30 |
-| 2024-12-27 | Särskilt boende | Verkställd 2025-06-13 |
-| 2024-12-02 | Växelvård | Verkställd 2025-04-10 |
 
 <!-- sida 251 -->
 
@@ -10310,23 +10345,13 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 | 2025-04-08 | 4 kap 1 § SoL, kontaktperson | Rekryteringsbekymmer |
 | 2025-05-28 | 4 kap 1 § SoL<br>öppenvårdsverksamhet | Saknar plats |
 
-[Tabell 254-2](handlingar.tabeller/254-2.csv)
+[Tabell 254-258-2](handlingar.tabeller/254-258-2.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
 | 2024-12-01 | 4 kap 1 § SoL,<br>kontaktperson | Den enskilde medverkar inte till verkställighet. Det har<br>tagit tid att få in önskemål, förslag på ny kontaktperson<br>2025-06-10. |
 | 2025-01-17 | 4 kap 1 § SoL, bostad | Saknar plats, planering pågår. Tackat nej till<br>erbjudande 2025-05 då det var för långt från centrum. |
 | 2025-04-08 | 4 kap 1 § SoL, boendestöd | Den enskilde medverkar inte till verkställighet. Den<br>enskilde avbokar ofta. |
-
-<!-- sida 255 -->
-
-KUNGSBACKA  KOMMUN
-3 (10)
-
-[Tabell 255-1](handlingar.tabeller/255-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2025-04-08 | 4 kap 1 § SoL, boendestöd | Den enskilde medverkar inte till verkställighet. 5 av 7<br>insatser är verkställda. Den enskilde tackar nej till<br>erbjudande om sina helginsatser. |
 | 2025-04-23 | 4 kap 1 § SoL,<br>korttidsvistelse | Den enskilde medverkar inte till verkställighet. Vill<br>avvakta med uppstart till hösten. |
 | 2025-04-24 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet. Tackat nej till erbjudanden om<br>nyrekrytering 2025-04-24. Funderar istället på en<br>annan insats. |
@@ -10338,16 +10363,6 @@ KUNGSBACKA  KOMMUN
 | 2025-02-24 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, arbetsmiljöproblem relaterade<br>till den enskilde. Har blivit erbjuden anpassad<br>verkställighet som den enskilde tackat nej till. |
 | 2025-03-07 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Den enskilde medverkar inte till verkställighet. Ingen<br>återkoppling om erbjudande om uppstart. Uppstart<br>inplanerad i augusti. |
 | 2025-04-23 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Tackat nej till uppstart innan sommaren, planerad<br>uppstart till hösten. |
-
-<!-- sida 256 -->
-
-KUNGSBACKA  KOMMUN
-4 (10)
-
-[Tabell 256-1](handlingar.tabeller/256-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2025-04-28 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. |
 | 2025-05-12 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Tackat nej till uppstart innan sommaren, planerad<br>uppstart till hösten. |
 | 2024-12-11 | 9 § 8 LSS, boende för barn<br>och ungdomar | Saknar plats, specifika önskemål. |
@@ -10361,16 +10376,6 @@ KUNGSBACKA  KOMMUN
 | 2025-03-14 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Tackat nej till erbjudande 2025-03-25. Ny planering<br>pågår. |
 | 2025-03-21 | 9 § 9 LSS, bostad för vuxna | Saknar plats, planering pågår. |
 | 2025-04-22 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Saknar plats. Fått erbjudande om inflytt på nybyggt<br>boende vid årsskiftet, den enskilde är intresserad och<br>inväntar informationsmöte. |
-
-<!-- sida 257 -->
-
-KUNGSBACKA  KOMMUN
-5 (10)
-
-[Tabell 257-1](handlingar.tabeller/257-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2021-10-29 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. Svårt att få<br>kontakt med den enskilde. Blivit erbjuden praktikplats,<br>den enskilde vill avvakta uppstart. |
 | 2022-02-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, har specifika önskemål om<br>verksamhet, är i behov av lång planering, tackat nej till<br>befintlig verksamhet. Tackat nej till 2 erbjudanden<br>2023-02-14 och 2023-10-02.<br>Erbjudande om uppstart innan sommaren som<br>överklagats till förvaltningsrätten som har avvisat<br>överklagan.<br>Kontinuerlig kontakt pågår med den enskilde och<br>anhöriga. |
 | 2022-12-31 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. Insatsen är<br>pausad. Den enskilde har flyttat in på BmSS och vill<br>landa innan uppstart av daglig verksamhet. |
@@ -10380,16 +10385,6 @@ KUNGSBACKA  KOMMUN
 | 2024-02-09 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde tackat nej till<br>erbjudande 2024-02-09. Vill inte avsluta insatsen utan<br>pausa på obestämd tid. |
 | 2024-06-24 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. Planeringen är att återgå till DV<br>under hösten. |
 | 2024-08-19 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. Vill pausa/avvakta insatsen pga<br>hälsotillstånd. |
-
-<!-- sida 258 -->
-
-KUNGSBACKA  KOMMUN
-6 (10)
-
-[Tabell 258-1](handlingar.tabeller/258-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2024-09-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2024-12-06 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2025-01-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. Är i behov av annan verkställighet än<br>tidigare. Avbokar inbokade studiebesök |
@@ -10401,6 +10396,26 @@ KUNGSBACKA  KOMMUN
 | 2025-04-16 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till verkställighet. Varit<br>på studiebesök och blivit erbjuden plats. Den enskilde<br>ska återkomma efter semestern för fortsatt planering. |
 | 2025-04-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet. Har haft flertalet möten och blivit<br>erbjuden plats. Den enskilde befinner sig nu utomlands. |
 
+<!-- sida 255 -->
+
+KUNGSBACKA  KOMMUN
+3 (10)
+
+<!-- sida 256 -->
+
+KUNGSBACKA  KOMMUN
+4 (10)
+
+<!-- sida 257 -->
+
+KUNGSBACKA  KOMMUN
+5 (10)
+
+<!-- sida 258 -->
+
+KUNGSBACKA  KOMMUN
+6 (10)
+
 <!-- sida 259 -->
 
 KUNGSBACKA  KOMMUN
@@ -10408,7 +10423,7 @@ KUNGSBACKA  KOMMUN
 
 Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
 
-[Tabell 259-1](handlingar.tabeller/259-1.csv)
+[Tabell 259-262-1](handlingar.tabeller/259-262-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
@@ -10418,16 +10433,6 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2024-10-03 | 4 kap 1 § SoL,<br>kontaktperson | Den enskilde medverkar inte till<br>verkställighet. Verksamheten<br>har ringt och sökt familjen<br>kontinuerligt sedan beslutet<br>beviljades, familjen ska<br>återkomma men har inte hört av<br>sig. | Avslutat, 2025-08-01<br>Varit tveksam sen<br>början till insatsen och<br>nu ska den enskilde<br>flytta till internat. |
 | 2024-11-29 | 4 kap 1 § SoL, avlösning i<br>hemmet | Den enskilde har specifika<br>önskemål, tackat nej till<br>erbjudande om uppstart 2025-<br>03-17. | Verkställt, 2025-05-06 |
 | 2025-03-11 | 4 kap 1 § SoL, boendestöd | Den enskilde medverkar inte till<br>verkställighet. Verksamheten<br>har försökt få kontakt via<br>telefon och brev. | Avslutat, 2025-07-03<br>Den enskilde vill inte<br>längre ha insatsen. |
-
-<!-- sida 260 -->
-
-KUNGSBACKA  KOMMUN
-8 (10)
-
-[Tabell 260-1](handlingar.tabeller/260-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2024-07-01 | 9 § 5 LSS, avlösarservice i<br>hemmet | Den enskilde har tackat nej till<br>erbjudande 2024-09-16.<br>Uppstartsmöte 2025-03-03,<br>insatsen kommer snart startas<br>upp under mars. | Verkställt, 2025-04-30 |
 | 2024-11-09 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Avbrott i verkställighet,<br>hälsotillstånd hos den enskilde.<br>Verksamheten har varit i<br>kontakt med familjen, ny plan är<br>på gång. | Verkställt, 2025-06-28 |
 | 2024-11-25 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Avbrott i verkställighet,<br>hälsotillstånd hos den enskilde. | Verkställt, 2025-05-24 |
@@ -10435,16 +10440,6 @@ KUNGSBACKA  KOMMUN
 | 2025-01-19 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. | Avslutat, 2025-05-27<br>Den enskilde har blivit<br>erbjudan annan insats<br>och är inte längre<br>intresserad av läger. |
 | 2025-02-12 | 9 § 6 LSS, korttidsvistelse<br>i form av stödfamilj | Personalrelaterade skäl. Har<br>blivit erbjudan kompenserande<br>insats i form av sommarläger<br>men tackat nej. | Verkställt, 2025-07-24 |
 | 2024-04-07 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. Tackat nej till<br>uppstart. | Avslutat, 2025-05-31<br>Beslutet löpte ut och<br>den enskilde ville inte<br>ansöka om insatsen på<br>nytt. |
-
-<!-- sida 261 -->
-
-KUNGSBACKA  KOMMUN
-9 (10)
-
-[Tabell 261-1](handlingar.tabeller/261-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2024-10-01 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>servicebostad | Saknar plats. | Verkställt, 2025-05-01 |
 | 2024-11-05 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. Arbete med att<br>hitta lämpligt boende pågår. | Verkställt, 2025-08-11 |
 | 2023-06-22 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. Svårigheter att få<br>kontakt med den enskilde. Den<br>enskilde avbokar möte för<br>uppstart. | Avslutat, 2025-07-09.<br>Avslutat på begäran av<br>den enskilde. |
@@ -10453,6 +10448,17 @@ KUNGSBACKA  KOMMUN
 | 2024-10-21 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till<br>verkställighet. Möte för<br>studiebesök inplanerat | Verkställt, 2025-06-23 |
 | 2024-10-29 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde har specifika önskemål,<br>tackat nej till erbjudande. | Verkställt, 2025-05-19 |
 | 2024-12-03 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde vill inte ha insatsen. | Avslutat, 2025-05-14<br>Avslutat på begäran av<br>den enskilde. |
+| 2024-12-01 | 4 kap 1 § SoL,<br>kontaktperson | Den enskilde medverkar inte till<br>verkställighet. Verksamheten<br>har sökt kontakt flertalet gånger<br>och skickat brev utan att få<br>kontakt. | Verkställt, 2025-05-28 |
+
+<!-- sida 260 -->
+
+KUNGSBACKA  KOMMUN
+8 (10)
+
+<!-- sida 261 -->
+
+KUNGSBACKA  KOMMUN
+9 (10)
 
 <!-- sida 262 -->
 
@@ -10463,12 +10469,6 @@ Inom vuxenenheten och familjehemsenheten finns inga ej verkställda beslut under
 
 Ivan Stipić                   Renate Rondolph
 Förvaltningschef              Verksamhetschef
-
-[Tabell 262-1](handlingar.tabeller/262-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
-| 2024-12-01 | 4 kap 1 § SoL,<br>kontaktperson | Den enskilde medverkar inte till<br>verkställighet. Verksamheten<br>har sökt kontakt flertalet gånger<br>och skickat brev utan att få<br>kontakt. | Verkställt, 2025-05-28 |
 
 <!-- sida 263 -->
 
@@ -14232,6 +14232,13 @@ lämnas finns på kommunens hemsida
 
 Avgifter för grovavfall och återbruk, i kronor per hämtning
 
+Grovavfall och återbruk, mindre än 1 kubikmeter 1 570
+Grovavfall och återbruk utöver 1 kubikmeter    415
+415
+Elavfall (vitvaror), mindre än 1 kubikmeter    1 285
+kkukbuibkimkketuebri, kpmere teexrt r a kubikmeter 1285
+Elavfall (vitvaror), utöver 1 kubikmeter, per extra kubikmeter 300
+3001 570
 4.4.4.8 Extra tömningar
 Fastighetsinnehavare kan beställa extra tömning av brännbart restavfall och matavfall, samt
 för trädgårdsavfall i kärl under perioden vecka 12–47. Efter beställning utför renhållarens
@@ -14252,21 +14259,13 @@ Kungsbacka kommun         Avfallstaxa 2026                   18
 
 [Tabell 340-1](handlingar.tabeller/340-1.csv)
 
-| Grovavfall och återbruk, mindre än 1 kubikmeter | 1 570 |
-| --- | --- |
-| Grovavfall och återbruk utöver 1 kubikmeter | 415<br>415 |
-| Elavfall (vitvaror), mindre än 1 kubikmeter<br>kkukbuibkimkketuebri, kpmere teexrt r a kubikmeter | 1 285<br>1285 |
-| Elavfall (vitvaror), utöver 1 kubikmeter, per extra kubikmeter | 300<br>3001 570 |
-
-[Tabell 340-2](handlingar.tabeller/340-2.csv)
-
 | Per extra säck i samband med tömning | 465 |
 | --- | --- |
 | Extra tömning av kärl, oavsett storlek | 465 |
 | Extra tömning av container | 3 635 |
 | Extra tömning av underjordsbehållare | 3 635 |
 
-[Tabell 340-3](handlingar.tabeller/340-3.csv)
+[Tabell 340-2](handlingar.tabeller/340-2.csv)
 
 | Byte till större kärl eller kärl av samma storlek | 765 |
 | --- | --- |
@@ -15501,6 +15500,13 @@ information om vad som får lämnas finns på kommunens hemsida
 
 Avgifter för grovavfall och återbruk, i kronor per hämtning
 
+Grovavfall och återbruk, mindre än 1 kubikmeter 1 570
+Grovavfall och återbruk utöver 1 kubikmeter    415
+415
+Elavfall (vitvaror), mindre än 1 kubikmeter    1 285
+kkukbuibkimkketuebri, kpmere teexrt r a kubikmeter 1285
+Elavfall (vitvaror), utöver 1 kubikmeter, per extra kubikmeter 300
+3001 570
 4.4.4.8 Extra tömningar
 Fastighetsinnehavare kan beställa extra tömning av brännbart restavfall och matavfall, samt
 för trädgårdsavfall i kärl under perioden vecka 12–47. Efter beställning utför renhållarens
@@ -15521,21 +15527,13 @@ Kungsbacka kommun         Avfallstaxa 2026                   19
 
 [Tabell 368-1](handlingar.tabeller/368-1.csv)
 
-| Grovavfall och återbruk, mindre än 1 kubikmeter | 1 570 |
-| --- | --- |
-| Grovavfall och återbruk utöver 1 kubikmeter | 415<br>415 |
-| Elavfall (vitvaror), mindre än 1 kubikmeter<br>kkukbuibkimkketuebri, kpmere teexrt r a kubikmeter | 1 285<br>1285 |
-| Elavfall (vitvaror), utöver 1 kubikmeter, per extra kubikmeter | 300<br>3001 570 |
-
-[Tabell 368-2](handlingar.tabeller/368-2.csv)
-
 | Per extra säck i samband med tömning | 465 |
 | --- | --- |
 | Extra tömning av kärl, oavsett storlek | 465 |
 | Extra tömning av container | 3 635 |
 | Extra tömning av underjordsbehållare | 3 635 |
 
-[Tabell 368-3](handlingar.tabeller/368-3.csv)
+[Tabell 368-2](handlingar.tabeller/368-2.csv)
 
 | Byte till större kärl eller kärl av samma storlek | 765 |
 | --- | --- |
@@ -15870,7 +15868,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   26
 | --- | --- | --- | --- |
 | Mindre än 2 kubikmeter | 2 375 | 2 875 | 5 555 |
 
-[Tabell 375-4](handlingar.tabeller/375-4.csv)
+[Tabell 375-376-4](handlingar.tabeller/375-376-4.csv)
 
 | Schemalagd tömning<br>Utförs under specifik vecka, avisering skickas cirka tre veckor före planerad tömningsvecka |  |
 | --- | --- |
@@ -15879,20 +15877,7 @@ Kungsbacka kommun         Avfallstaxa 2026                   26
 | Byggtoalett/portabel toalett, mindre än 2 kubikmeter | 2 545 |
 | Budad tömning inom fem dygn<br>Utförs inom fem helgfria vardagar eller under fem specifikt valda vardagar |  |
 | Anläggning mindre än 2 kubikmeter | 1 770 |
-
-<!-- sida 376 -->
-
-Avgifter, i kronor, för hämtning av fosforfilter och annat filtermaterial från minireningsverk
-
-Inför hämtning av fosforfilter ska fastighetsägaren förbereda anläggningen så att tömning kan
-ske genom slamsugning eller med kranbil.
-
-Kungsbacka kommun         Avfallstaxa 2026                   27
-
-[Tabell 376-1](handlingar.tabeller/376-1.csv)
-
 | Anläggning 2–4 kubikmeter\* | 2 555 |
-| --- | --- |
 | Byggtoalett/portabel toalett, mindre än 2 kubikmeter | 3 080 |
 | Tidsbeställd tömning<br>Utförs tidigast 25 timmar efter beställning (på specifik timme, helgfria vardagar klockan 06–15) |  |
 | Anläggning mindre än 2 kubikmeter | 5 480 |
@@ -15905,7 +15890,16 @@ Kungsbacka kommun         Avfallstaxa 2026                   27
 | Anläggning mindre än 2 kubikmeter | 10 505 |
 | Anläggning 2–4 kubikmeter\* | 11 110 |
 
-[Tabell 376-2](handlingar.tabeller/376-2.csv)
+<!-- sida 376 -->
+
+Avgifter, i kronor, för hämtning av fosforfilter och annat filtermaterial från minireningsverk
+
+Inför hämtning av fosforfilter ska fastighetsägaren förbereda anläggningen så att tömning kan
+ske genom slamsugning eller med kranbil.
+
+Kungsbacka kommun         Avfallstaxa 2026                   27
+
+[Tabell 376-1](handlingar.tabeller/376-1.csv)
 
 | Kassett | 5 615 |
 | --- | --- |

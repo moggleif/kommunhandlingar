@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.25533da21997c87c744b383a/1759133851
 sha256: 3acdd7a51ed426b4d7b8f259cb0085ad3ca989b22de7653329fe104a53ba03a3
 bytes: 850764
 sidor: 55
-hamtad: 2026-10-08T09:10:40+00:00
-konverterad: 2026-10-08T09:10:50+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:02:51+00:00
+konverterad: 2026-10-15T07:03:02+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -2255,7 +2255,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 584D637A058F20AB6AC070F7666083AEF2B6ADED26
 Transaktionsidentitet: 9B38A5C2A9F8221AEF17A7D4A98008DBA700F80617
 
-[Tabell 49-1](protokoll.tabeller/49-1.csv)
+[Tabell 49-50-1](protokoll.tabeller/49-50-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -2271,6 +2271,9 @@ Transaktionsidentitet: 9B38A5C2A9F8221AEF17A7D4A98008DBA700F80617
 | Fredrik Hansson (C) | X |  |  |
 | Monica Neptun (L) | X |  |  |
 | Fredrik Kollberg (KD) | X |  |  |
+| Patrik Jervne Henestam (V) |  | X |  |
+| Maria Losman (MP) |  | X |  |
+| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 50 -->
 
@@ -2286,13 +2289,6 @@ Nämnden för Vård & Omsorg
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 584D637A058F20AB6AC070F7666083AEF2B6ADED26
 Transaktionsidentitet: 9B38A5C2A9F8221AEF17A7D4A98008DBA700F80617
-
-[Tabell 50-1](protokoll.tabeller/50-1.csv)
-
-| Patrik Jervne Henestam (V) |  | X |  |
-| --- | --- | --- | --- |
-| Maria Losman (MP) |  | X |  |
-| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 51 -->
 

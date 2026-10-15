@@ -1,0 +1,63 @@
+Verksamhetstyp:,Utbildning,,,,
+Verksamhetsområde:,Gemensam skolverksamhet,,,,
+Processgrupp:,Hantera skolekonomiska frågor,,,,
+Process:,Hantera skolekonomiska frågor,,,,
+Processnummer:,5.1.1.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Hantera
+personalfördelning",Organisationsplan,Raindance,Digitalt,Se anm.,Uppdateras fortlöpande i systemet.
+,Organisationsschema,Raindance,Digitalt,Se anm.,Uppdateras fortlöpande i systemet.
+"Hantera
+interkommunal
+ersättning",Beslut om bidragsnivå,Ciceron,Digitalt,Bevaras,
+,"Manuell fil från
+elevhanteringssystemet
+(för kommunala
+enheter)",IST,Digitalt,7 år,
+,"Manuell utbetalning, fil
+från
+elevhanteringssystem
+(för fristående enheter)",Närarkiv,Papper,7 år,"Manuella utbetalningar registreras i
+leverantörsregistret i Raindance. Fil läses in i
+leverantörsregistret i Raindance."
+,"Avtal och
+överenskommelse med
+annan kommun om
+placering",Ciceron,Digitalt,Bevaras,
+,"Beslut om att ta emot
+elev från annan
+kommun",Ciceron,Digitalt,Bevaras,
+"Hantera
+tilläggsbelopp","Ansökan om
+tilläggsbelopp",Ciceron,Digitalt,Bevaras,
+,Underlag till ansökan,Ciceron,Digitalt,Bevaras,
+,Beslut om tilläggsbelopp,Ciceron,Digitalt,Bevaras,
+,Överklagan,Ciceron,Digitalt,Bevaras,"För hantering av överklagan, se separat
+kommungemensam ledningsprocess 1.4.4.1."
+"Hantera
+inackorderingstillägg
+och resebidrag","Ansökan och beslut om
+inackorderingstillägg",Samarbetsrum,Digitalt,3 år,"Under förutsättning att vederbörlig kontroll och
+redovisning skett."
+,Ansökan om resebidrag,Samarbetsrum,Digitalt,3 år,"Under förutsättning att vederbörlig kontroll och
+redovisning skett."
+Hantera entreprenad,"Manuell utbetalning,
+fil från
+elevhanteringssystem",Samarbetsrum,Digitalt,2 år,Filer registreras manuellt i Raindance.
+Hantera statsbidrag,Ansökan om statsbidrag,Ciceron,Digitalt,Bevaras,
+,"Slutrapportering av
+statsbidrag",Ciceron,Digitalt,Bevaras,
+,"Utdelningar av
+statsbidrag",Samarbetsrum,Digitalt,10 år,
+"Hantera stipendier,
+bidrag och fonder","Underlag/bilagor till
+ansökan",Ciceron,Digitalt,3 år,
+,Ansökan,Ciceron,Digitalt,3 år,
+,Nomineringar,Ciceron,Digitalt,Bevaras,Avser ”Lära-för-livet”
+,"Information till nämnden
+om nomineringar",Ciceron,Digitalt,Bevaras,Avser ”Lära-för-livet”
+,Beslut om stipendiater,Ciceron,Digitalt,Bevaras,
+,Korrespondens,Ciceron,Digitalt,Se anm.,"Rutinartad korrespondens gallras vid
+inaktualitet. Korrespondens som tillför
+sakuppgift till ärendet registreras i Ciceron och
+gallras efter 3 år."

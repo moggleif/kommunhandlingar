@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.3632c6c019a1532ee47312e/17613046506
 sha256: a06b67197b2a61c8d23cc3270c67fa9221e7c36e62dce301d02c426655dad71c
 bytes: 654664
 sidor: 39
-hamtad: 2026-10-08T09:10:50+00:00
-konverterad: 2026-10-08T09:10:55+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:03:02+00:00
+konverterad: 2026-10-15T07:03:07+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1186,7 +1186,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: AD34415EBFC2A047452BFE68BDDA77B9991FB5DF61
 Transaktionsidentitet: F1636C6A29096BBE05FA0C55E0FA1FA6E61A8E232E
 
-[Tabell 27-1](protokoll.tabeller/27-1.csv)
+[Tabell 27-28-1](protokoll.tabeller/27-28-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -1200,6 +1200,12 @@ Transaktionsidentitet: F1636C6A29096BBE05FA0C55E0FA1FA6E61A8E232E
 | Administrativ chef | Avslag på begäran om att få ta del av allmänna<br>handlingarna |
 | Samhällsbyggnadschef | Anställande av utvecklingsledare |
 | Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>Finansdepartementet remiss av Tullverkets<br>hemställan om ändringar i lagen (1964:167) med<br>särskilda bestämmelser om unga lagöverträdare och<br>tullbefogenhetslagen (2024:710) |
+| Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>Länsstyrelsen i Västra Götalands läns remiss av<br>West Wind Offshore AB:s bemötande av inkomna<br>yttranden avseende havsbaserad vindkraftspark<br>Västvind (del inom svensk ekonomisk zon) |
+| Exploateringshandläggare | Servitutsavtal Vallda 21:5 - Optoledningar |
+| Exploateringshandläggare | Servitutsavtal Vallda 22:3 - Optoledningar |
+| Exploateringshandläggare | Servitutsavtal Vallda 6:5 - Optoledningar |
+| Exploateringshandläggare | Servitutsavtal Nötegång 1:126 - Optoledningar |
+| Exploateringshandläggare | Servitutsavtal Vallda 4:26 - dricksvatten- och<br>avloppsledningar |
 
 <!-- sida 28 -->
 
@@ -1216,16 +1222,6 @@ redovisningen av delegeringsbeslut fattade under perioden 2025-09-01 till
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: AD34415EBFC2A047452BFE68BDDA77B9991FB5DF61
 Transaktionsidentitet: F1636C6A29096BBE05FA0C55E0FA1FA6E61A8E232E
-
-[Tabell 28-1](protokoll.tabeller/28-1.csv)
-
-| Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>Länsstyrelsen i Västra Götalands läns remiss av<br>West Wind Offshore AB:s bemötande av inkomna<br>yttranden avseende havsbaserad vindkraftspark<br>Västvind (del inom svensk ekonomisk zon) |
-| --- | --- |
-| Exploateringshandläggare | Servitutsavtal Vallda 21:5 - Optoledningar |
-| Exploateringshandläggare | Servitutsavtal Vallda 22:3 - Optoledningar |
-| Exploateringshandläggare | Servitutsavtal Vallda 6:5 - Optoledningar |
-| Exploateringshandläggare | Servitutsavtal Nötegång 1:126 - Optoledningar |
-| Exploateringshandläggare | Servitutsavtal Vallda 4:26 - dricksvatten- och<br>avloppsledningar |
 
 <!-- sida 29 -->
 

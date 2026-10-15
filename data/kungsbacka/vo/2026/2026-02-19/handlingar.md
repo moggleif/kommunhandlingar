@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.4dbd19e519c47bd57e6e4956/1771312646
 sha256: b8517fdc7333fe00494148a4b32aa78d9a922cb97102505cea0d3cb1cc155574
 bytes: 27640517
 sidor: 306
-hamtad: 2026-10-08T08:38:21+00:00
-konverterad: 2026-10-08T08:40:40+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T06:30:32+00:00
+konverterad: 2026-10-15T06:33:05+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ocr, ocr, ok, ok, ocr, ok, ocr, ok, ok, ocr, ocr, ok, ocr, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ocr, ocr, ok, ok, ocr, ok, ocr, ok, ok, ocr, ocr, ok, ocr, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [99, 100, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 179, 180, 181, 186, 187, 188, 189, 190, 191, 192, 267, 270, 272, 273, 276, 278, 281, 282, 284, 287]
-figurer: null
-tolkade: null
+figurer: [68, 69, 77, 81, 148, 149, 155, 169, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 195, 204, 205, 206, 210, 212, 213, 224, 233, 237, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 255, 256, 257, 258, 259, 260, 261, 262, 267, 268, 269, 270, 271, 272, 273, 274, 276, 277, 278, 280, 281, 282, 283, 284, 285, 286, 287]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1206,8 +1206,9 @@ nyttja då kostnaderna oftast ligger som leasing och licenser i driften.
 
 [Tabell 24-1](handlingar.tabeller/24-1.csv)
 
-| Utfall (miljoner kronor)<br>Intäkter | Utfall 2023<br>879,9 | Utfall 2024<br>858,1 | Utfall 2025<br>966,6 |
+| Utfall (miljoner kronor) | Utfall 2023 | Utfall 2024 | Utfall 2025 |
 | --- | --- | --- | --- |
+| Intäkter | 879,9 | 858,1 | 966,6 |
 | Kostnader | -1 950,3 | -1 998,4 | -2 152,3 |
 | Netto | -1 070,4 | -1 140,3 | -1 185,7 |
 | Budget, netto | -1 082,8 | -1 159,7 | -1 211,8 |
@@ -1215,8 +1216,9 @@ nyttja då kostnaderna oftast ligger som leasing och licenser i driften.
 
 [Tabell 24-2](handlingar.tabeller/24-2.csv)
 
-| Utfall (miljoner kronor)<br>Utgifter | Utfall 2023<br>-4,9 | Utfall 2024<br>-5,6 | Utfall 2025<br>-11,7 |
+| Utfall (miljoner kronor) | Utfall 2023 | Utfall 2024 | Utfall 2025 |
 | --- | --- | --- | --- |
+| Utgifter | -4,9 | -5,6 | -11,7 |
 | Inkomster |  |  |  |
 | Netto | -4,9 | -5,6 | -11,7 |
 
@@ -2643,10 +2645,12 @@ hälften av olycksfallen. 2024 hade vi 37 olycksfall relaterat till hot & våld,
 
 [Tabell 51-1](handlingar.tabeller/51-1.csv)
 
-| Namn<br>Riskobservation | 2023<br>135 | 2024<br>114 | 2025<br>88 |
+| Namn | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- |
+| Riskobservation | 135 | 114 | 88 |
 | Tillbud | 1366 | 987 | 1021 |
-| Olycksfall<br>Total | 175<br>1676 | 172<br>1273 | 152<br>1261 |
+| Olycksfall | 175 | 172 | 152 |
+| Total | 1676 | 1273 | 1261 |
 
 <!-- sida 52 -->
 
@@ -2940,8 +2944,9 @@ Förvaltningsledningskontoret: -3 255 tkr
 
 [Tabell 57-1](handlingar.tabeller/57-1.csv)
 
-| Uppföljningsnivå (belopp i mkr)<br>Nämnd | Bokslut 2024<br>-1,2 | Budget 2025<br>-1,4 | Bokslut 2025<br>-1,3 | Budgetavvike<br>lse 2025<br>0,1 |
+| Uppföljningsnivå (belopp i mkr) | Bokslut 2024 | Budget 2025 | Bokslut 2025 | Budgetavvike lse 2025 |
 | --- | --- | --- | --- | --- |
+| Nämnd | -1,2 | -1,4 | -1,3 | 0,1 |
 | Förvaltning Gemensamt | -5,8 | -54,2 | -44,2 | 10,0 |
 | FLK | -495,3 | -242,8 | -246,1 | -3,3 |
 | Distrikt Syd | -66,6 | -64,5 | -65,6 | -1,1 |
@@ -3727,6 +3732,11 @@ när skötseln av en kommunal angelägenhet har lämnats över till någon annan
 Med privata utförare avses utförare som har hand om skötseln av en kommunal angelägenhet (KL kap 10). Som
 privat utförare räknas inte hel- eller delägda kommunala bolag, eller stiftelse eller förening som bildats av
 kommunen eller regionen.
+Andel av       Kostnad för
+Verksamhet
+verksamhetsvolym % verksamhet mnkr
+Bokslut Bokslut Bokslut Bokslut
+2024    2025    2024    2025
 
 Inom Vård & Omsorgs verksamhetsområde bedrivs kundval inom hemtjänsten (LOV) och även inom vård- och
 omsorgsboenden som drivs på entreprenad (LOU).
@@ -3753,7 +3763,7 @@ görs.
 
 [Tabell 81-1](handlingar.tabeller/81-1.csv)
 
-| Verksamhet<br>Kundval - hemtjänst | Andel av<br>verksamhetsvolym %<br>Bokslut Bokslut<br>2024 2025<br>18,8 18,4 |  | Kostnad för<br>verksamhet mnkr<br>Bokslut Bokslut<br>2024 2025<br>55,2 58,5 |  |
+| Kundval - hemtjänst | 18,8 | 18,4 | 55,2 | 58,5 |
 | --- | --- | --- | --- | --- |
 | Vård- och omsorgsboende | 17,8 | 17,6 | 68,1 | 69,6 |
 | Korttidsboende | 15,2 | 19,2 | 5,3 | 12,0 |
@@ -3857,7 +3867,7 @@ Nämndens självskattning
 
 13
 
-[Tabell 84-1](handlingar.tabeller/84-1.csv)
+[Tabell 84-85-1](handlingar.tabeller/84-85-1.csv)
 
 | Område<br>Uppdrag och mål | Frågor Svar 2025<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
 | --- | --- |
@@ -3871,18 +3881,7 @@ Nämndens självskattning
 |  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |
 |  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
 | Riskanalys | Riskanalysen kommuniceras med<br>nämnden |
-
-<!-- sida 85 -->
-
-Nämnden för Vård & Omsorg                        Kungsbacka kommun
-Internkontrollrapport 2025 -
-
-14
-
-[Tabell 85-1](handlingar.tabeller/85-1.csv)
-
 | Område | Frågor Svar 2025<br>Riskanalysen är underlag för åtgärder och<br>granskningar |
-| --- | --- |
 | Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
 |  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
 | Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
@@ -3890,6 +3889,13 @@ Internkontrollrapport 2025 -
 |  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
 | Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
 |  | Vi har en fungerande introduktion av nya<br>medarbetare |
+
+<!-- sida 85 -->
+
+Nämnden för Vård & Omsorg                        Kungsbacka kommun
+Internkontrollrapport 2025 -
+
+14
 
 <!-- sida 86 -->
 
@@ -6449,21 +6455,13 @@ komma in Q1 2026.
 
 Vård & Omsorg, God och Nära vård, helår 2025               8(16)
 
-[Tabell 160-1](handlingar.tabeller/160-1.csv)
+[Tabell 160-162-1](handlingar.tabeller/160-162-1.csv)
 
 | Delaktighet: Brukar personalen ta hänsyn till dina åsikter och önskemål om hur hjälpen ska genomföras? |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Andel som bedömt att personalen alltid eller oftast tar hänsyn till deras åsikter och önskemål. Omsorg. Egen regi. |  |  |  |  |  |  |
 |  | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
-
-<!-- sida 161 -->
-
-Vård & Omsorg, God och Nära vård, helår 2025               9(16)
-
-[Tabell 161-1](handlingar.tabeller/161-1.csv)
-
 | Vård och<br>Omsorgsboende | 85% | - | 80% | 85% | 79% | 75% |
-| --- | --- | --- | --- | --- | --- | --- |
 | Hemtjänst | 87% | - | 86% | 91% | 86% | 86% |
 | Källa: Vad tycker de äldre om äldreomsorgen (Socialstyrelsen) |  |  |  |  |  |  |
 | Delaktighet: Jag är delaktig i planering och beslut om min vård och rehabilitering i hemmet i den<br>utsträckning som jag vill. |  |  |  |  |  |  |
@@ -6490,6 +6488,14 @@ Vård & Omsorg, God och Nära vård, helår 2025               9(16)
 |  |  |  |  |  |  | 2025 |
 | Vård- och<br>omsorgsboende |  |  |  |  |  |  |
 | Ordinärt boende, ev<br>med hemtjänst |  |  |  |  |  |  |
+| Bostad med<br>Särskild Service |  |  |  |  |  |  |
+| Ordinärt boende<br>med personlig<br>assistans |  |  |  |  |  |  |
+| Korttidsboende |  |  |  |  |  |  |
+| Källa: Hemsjukvårdsenkät (kommunerna i Halland) |  |  |  |  |  |  |
+
+<!-- sida 161 -->
+
+Vård & Omsorg, God och Nära vård, helår 2025               9(16)
 
 <!-- sida 162 -->
 
@@ -6539,14 +6545,6 @@ under mer kontrollerade former med högre och mer jämlik kvalitet i både
 
 Vård & Omsorg, God och Nära vård, helår 2025              10(16)
 
-[Tabell 162-1](handlingar.tabeller/162-1.csv)
-
-| Bostad med<br>Särskild Service |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Ordinärt boende<br>med personlig<br>assistans |  |  |  |  |  |  |
-| Korttidsboende |  |  |  |  |  |  |
-| Källa: Hemsjukvårdsenkät (kommunerna i Halland) |  |  |  |  |  |  |
-
 <!-- sida 163 -->
 
 utbildningsförfarandet och i fattade beslut. Genom att samla arbete med delegeringar till
@@ -6583,7 +6581,7 @@ Resultat från hemsjukvårdsenkäten väntas komma in Q1 2026
 
 Vård & Omsorg, God och Nära vård, helår 2025              11(16)
 
-[Tabell 163-1](handlingar.tabeller/163-1.csv)
+[Tabell 163-164-1](handlingar.tabeller/163-164-1.csv)
 
 | Kontinuitet: Antal personal i snitt som omsorgstagare i hemtjänsten med minst två besök dagligen möter<br>under 14 dagar. |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -6600,6 +6598,22 @@ Vård & Omsorg, God och Nära vård, helår 2025              11(16)
 | Förtroende: Känner du förtroende för personalen? |  |  |  |  |  |  |
 | År 2020 och 2023: Andel som svarat Ja för alla/ja för de flesta. År 2025: Andel som svarat: alltid eller ofta. Fr.o.m<br>2025 är sjuksköterske- och rehabverksamheten sammanslagna i hemsjukvårdsenkäten. |  |  |  |  |  |  |
 |  | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| Sjuksköterske-<br>verksamheten | 95% | - | - | 95% | - |  |
+| Rehabverksamheten<br>Vård- och<br>omsorgsboende | 90% | - | - | 94% | - |  |
+| Ordinärt boende, ev<br>med hemtjänst |  |  |  |  |  |  |
+| Bostad med Särskild<br>Service |  |  |  |  |  |  |
+| Ordinärt boende<br>med personlig<br>assistans |  |  |  |  |  |  |
+| Kortiddsboende |  |  |  |  |  |  |
+| Källa: Hemsjukvårdsenkät (kommunerna i Halland) |  |  |  |  |  |  |
+| Personcentrering: Upplevelse av hur personcentrerad vård och rehabilitering är ur vård- och<br>omsorgstagarens perspektiv. |  |  |  |  |  |  |
+| Instrumentet PERCCI-S (person centred community care inventory) används. Bygger på tolv frågor där man<br>besvarar utifrån sin upplevelse. Svarsalternativen poängssätts från 0-6. Totalvärde för PERCCI-S kan variera<br>mellan 0 och 72 poäng. Ju högre värde desto högre upplevelse av personcentrering |  |  |  |  |  |  |
+|  | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| Vård- och<br>omsorgsboende |  |  |  |  |  |  |
+| Ordinärt boende, ev<br>med hemtjänst |  |  |  |  |  |  |
+| Bostad med Särskild<br>Service |  |  |  |  |  |  |
+| Ordinärt boende<br>med personlig<br>assistans |  |  |  |  |  |  |
+| Kortiddsboende |  |  |  |  |  |  |
+| Källa: Hemsjukvårdsenkät (kommunerna i Halland) |  |  |  |  |  |  |
 
 <!-- sida 164 -->
 
@@ -6621,26 +6635,6 @@ kontinuitet. Hemsjukvården tar ett tydligt ansvar för samordningen och ser til
 inkluderas när det är aktuellt. Sjuksköterskorna är tillgängliga, lyhörda och delaktiga i
 
 Vård & Omsorg, God och Nära vård, helår 2025              12(16)
-
-[Tabell 164-1](handlingar.tabeller/164-1.csv)
-
-| Sjuksköterske-<br>verksamheten | 95% | - | - | 95% | - |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Rehabverksamheten<br>Vård- och<br>omsorgsboende | 90% | - | - | 94% | - |  |
-| Ordinärt boende, ev<br>med hemtjänst |  |  |  |  |  |  |
-| Bostad med Särskild<br>Service |  |  |  |  |  |  |
-| Ordinärt boende<br>med personlig<br>assistans |  |  |  |  |  |  |
-| Kortiddsboende |  |  |  |  |  |  |
-| Källa: Hemsjukvårdsenkät (kommunerna i Halland) |  |  |  |  |  |  |
-| Personcentrering: Upplevelse av hur personcentrerad vård och rehabilitering är ur vård- och<br>omsorgstagarens perspektiv. |  |  |  |  |  |  |
-| Instrumentet PERCCI-S (person centred community care inventory) används. Bygger på tolv frågor där man<br>besvarar utifrån sin upplevelse. Svarsalternativen poängssätts från 0-6. Totalvärde för PERCCI-S kan variera<br>mellan 0 och 72 poäng. Ju högre värde desto högre upplevelse av personcentrering |  |  |  |  |  |  |
-|  | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
-| Vård- och<br>omsorgsboende |  |  |  |  |  |  |
-| Ordinärt boende, ev<br>med hemtjänst |  |  |  |  |  |  |
-| Bostad med Särskild<br>Service |  |  |  |  |  |  |
-| Ordinärt boende<br>med personlig<br>assistans |  |  |  |  |  |  |
-| Kortiddsboende |  |  |  |  |  |  |
-| Källa: Hemsjukvårdsenkät (kommunerna i Halland) |  |  |  |  |  |  |
 
 <!-- sida 165 -->
 
@@ -7111,7 +7105,7 @@ Gemensam plan God och nära vård     9 (10)
 | Rutin för Hallandsgemensam<br>samverkanstruktur: enskild<br>vårdcentral och hemsjukvården. | Region<br>Halland<br>och<br>respektive<br>kommun i<br>Halland | Inventering av<br>nuvarande samverkan<br>och ta fram förslag på<br>samverkansstruktur och<br>samverkansmöten<br>avseende frekvens och<br>innehåll. | Genomförda samverkansmöten<br>på enskild nivå enligt beslutad<br>frekvens och innehåll.<br>Regional vårdvalsuppföljning.<br>Respektive kommuns egen<br>uppföljning av utförd samverkan. |
 | Rutin för Hallandsgemensam<br>samverkanstruktur på gruppnivå:<br>alla vårdcentraler och<br>hemsjukvården per kommun. | Region<br>Halland<br>och<br>respektive<br>kommun i<br>Halland | Inventering av<br>nuvarande samverkan<br>och ta fram förslag på<br>samverkansstruktur och<br>samverkansmöten<br>avseende frekvens och<br>innehåll. | Genomförda samverkansmöte på<br>gruppnivå enligt beslutad<br>frekvens och innehåll.<br>Regional vårdvalsuppföljning.<br>Respektive kommuns egen<br>uppföljning av utförd samverkan. |
 
-[Tabell 177-2](handlingar.tabeller/177-2.csv)
+[Tabell 177-178-2](handlingar.tabeller/177-178-2.csv)
 
 | Vad ska finnas | Vem ansvarar | Hur sker det: | Hur sker uppföljning |
 | --- | --- | --- | --- |
@@ -7120,18 +7114,14 @@ Gemensam plan God och nära vård     9 (10)
 | Gemensam analys avseende<br>omotiverade inskrivningar | Region<br>Halland och<br>respektive<br>kommun i<br>Halland | Analysen mynnar ut i<br>förslag på proaktiva<br>åtgärder. | Påverkbar slutenvård kronisk<br>sjukdom (Vården i siffror) |
 | Upprättad eller reviderad<br>behandlingsplan för patienter i<br>hemmet med kommunal hälso-<br>och sjukvård med ökad risk för<br>inskrivning i slutenvården | Region<br>Halland och<br>respektive<br>kommun i<br>Halland | Utvärdera och utveckla<br>samverkan och<br>gemensamma rutiner<br>och undersöka<br>möjlighet till uppföljning<br>i system. | Utfall i system. |
 | Behandlingsplan finns<br>tillgängliga för patient. | Region<br>Halland och<br>respektive<br>kommun i<br>Halland | Inventering av<br>nuvarande<br>dokumentation av<br>behandlingsplaner.<br>Utred behov av eventuell<br>kompletterande tillgång<br>till information om<br>behandlingsplaner. | Patientens upplevelse av<br>delaktighet genom Vad tycker de<br>äldre om äldreomsorgen,<br>Hemsjukvårdsenkät och<br>Nationell Patientenkät (NPE).<br>Information finns tillgänglig på<br>Samordnad plan 1177. |
+|  |  | Anmäl intresse från<br>respektive kommun i<br>Halland och Region<br>Halland till Samordnad<br>plan 1177. |  |
+| Behandlingsplan finns<br>tillgängliga för personal | Region<br>Halland och<br>respektive<br>kommun i<br>Halland | Inventering av<br>nuvarande<br>dokumentation av<br>behandlingsplaner.<br>Utred behov av ev<br>kompletterande tillgång<br>till information om<br>behandlingsplaner.<br>Anmäl intresse från<br>respektive kommun i<br>Halland och Region<br>Halland till Samordnad<br>plan 1177. | Information finns tillgänglig via<br>huvudmannens journalsystem<br>Information finns tillgänglig via<br>NPÖ<br>Information finns tillgänglig i<br>Lifecare SP.<br>Information finns tillgänglig på<br>Samordnad plan 1177. |
+| Kompetens hos medarbetare<br>gällande vilka möjligheter som<br>finns för att vårda patient i<br>hemmet. | Region<br>Halland och<br>respektive<br>kommun i<br>Halland | Kompetens hos<br>medarbetare inom en<br>huvudman vilka<br>möjligheter<br>medarbetare hos annan<br>huvudman har för att<br>vårda patient i hemmet.<br>Kompetens gällande<br>risker för inskrivning i<br>slutenvård hos specifika<br>patientgrupper och vilka<br>åtgärder som behöver<br>vidtas för att minska den<br>risken. | Andel återinskrivningar i<br>slutenvården inom 30 dagar efter<br>utskrivning (Vården i siffror och<br>Lifecare SP)<br>Påverkbar slutenvård kronisk<br>sjukdom (Vården i siffror) |
+| Utvecklat arbete med tillgång<br>till läkare i hemmet. Ökad<br>tillgänglighet via exempelvis<br>stöd av digital teknik för att<br>genomföra konsultation eller<br>besök. | Region<br>Halland och<br>respektive<br>kommun i<br>Halland | Översyn av befintliga<br>kommunikationskanaler<br>inom Region Halland<br>och kommunerna i<br>Halland. Se över<br>möjligheter att använda<br>kanalerna över<br>huvudmannagränserna. | Upplevelse av tillgänglighet till<br>läkare från patientens perspektiv<br>via enkätundersökningen vad<br>tycker de äldre om<br>äldreomsorgen och<br>Hemsjukvårdsenkät Halland<br>Upplevelse av tillgänglighet till<br>läkare ur medarbetarperspektiv<br>(kommun) |
 
 <!-- sida 178 -->
 
 Gemensam plan God och nära vård     10 (10)
-
-[Tabell 178-1](handlingar.tabeller/178-1.csv)
-
-|  |  | Anmäl intresse från<br>respektive kommun i<br>Halland och Region<br>Halland till Samordnad<br>plan 1177. |  |
-| --- | --- | --- | --- |
-| Behandlingsplan finns<br>tillgängliga för personal | Region<br>Halland och<br>respektive<br>kommun i<br>Halland | Inventering av<br>nuvarande<br>dokumentation av<br>behandlingsplaner.<br>Utred behov av ev<br>kompletterande tillgång<br>till information om<br>behandlingsplaner.<br>Anmäl intresse från<br>respektive kommun i<br>Halland och Region<br>Halland till Samordnad<br>plan 1177. | Information finns tillgänglig via<br>huvudmannens journalsystem<br>Information finns tillgänglig via<br>NPÖ<br>Information finns tillgänglig i<br>Lifecare SP.<br>Information finns tillgänglig på<br>Samordnad plan 1177. |
-| Kompetens hos medarbetare<br>gällande vilka möjligheter som<br>finns för att vårda patient i<br>hemmet. | Region<br>Halland och<br>respektive<br>kommun i<br>Halland | Kompetens hos<br>medarbetare inom en<br>huvudman vilka<br>möjligheter<br>medarbetare hos annan<br>huvudman har för att<br>vårda patient i hemmet.<br>Kompetens gällande<br>risker för inskrivning i<br>slutenvård hos specifika<br>patientgrupper och vilka<br>åtgärder som behöver<br>vidtas för att minska den<br>risken. | Andel återinskrivningar i<br>slutenvården inom 30 dagar efter<br>utskrivning (Vården i siffror och<br>Lifecare SP)<br>Påverkbar slutenvård kronisk<br>sjukdom (Vården i siffror) |
-| Utvecklat arbete med tillgång<br>till läkare i hemmet. Ökad<br>tillgänglighet via exempelvis<br>stöd av digital teknik för att<br>genomföra konsultation eller<br>besök. | Region<br>Halland och<br>respektive<br>kommun i<br>Halland | Översyn av befintliga<br>kommunikationskanaler<br>inom Region Halland<br>och kommunerna i<br>Halland. Se över<br>möjligheter att använda<br>kanalerna över<br>huvudmannagränserna. | Upplevelse av tillgänglighet till<br>läkare från patientens perspektiv<br>via enkätundersökningen vad<br>tycker de äldre om<br>äldreomsorgen och<br>Hemsjukvårdsenkät Halland<br>Upplevelse av tillgänglighet till<br>läkare ur medarbetarperspektiv<br>(kommun) |
 
 <!-- sida 179 -->
 

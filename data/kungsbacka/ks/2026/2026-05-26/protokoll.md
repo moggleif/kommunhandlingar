@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.41c3c8151a01f3423c0131b3/1787300393
 sha256: 58db5e300250f8a8646e33a238e2fbd1d05ebd737ed8e2c2f95d4df1026086c0
 bytes: 595132
 sidor: 70
-hamtad: 2026-10-08T09:11:47+00:00
-konverterad: 2026-10-08T09:11:56+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:03:56+00:00
+konverterad: 2026-10-15T07:04:07+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1939,7 +1939,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: EE3AF4FC37BB786E48EAD7389B2ACDBF5B32987873
 Transaktionsidentitet: 8D760D41A662612E9E7BD5D25DC0484F5D73B18503
 
-[Tabell 44-1](protokoll.tabeller/44-1.csv)
+[Tabell 44-45-1](protokoll.tabeller/44-45-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -1951,6 +1951,14 @@ Transaktionsidentitet: 8D760D41A662612E9E7BD5D25DC0484F5D73B18503
 | Administrativ chef | Tillförordnade dataskyddsombud sommar 2026 |
 | Samhällsbyggnadschef | Kommunstyrelsen avstår från att lämna yttrande<br>över Havs- och vattenmyndighetens remiss av<br>översyn och aktualisering av riksintresse för<br>yrkesfiskehamnar |
 | Samhällsbyggnadschef | Kommunstyrelsen avstår från att lämna yttrande<br>över upphävande av Boverkets föreskrifter och<br>allmänna råd om anpassningar och avsteg för<br>tillfälliga anläggningsboenden |
+| Samhällsbyggnadschef | Kommunstyrelsen avstår från att lämna yttrande<br>över Klimat- och näringslivsdepartementets remiss<br>över framställan om utvidgat tillsynsansvar för<br>Kemikalieinspektionen |
+| Kommunekolog | Yttrande över Skogsstyrelsens remiss: Samråd –<br>Planerad naturvårdande skötsel inom biotopskydd<br>på fastigheten Karsjö 1:2 (SK 7-1999) |
+| Kommunekolog | Yttrande över Skogsstyrelsens remiss: Samråd –<br>Planerad naturvårdande skötsel inom biotopskydd<br>på fastigheten Ubbhult 1:4 (SKS 112-226) |
+| Markingenjör | Markupplåtelseavtal Borekulla 2:3 |
+| Markingenjör | Markupplåtelseavtal Frillesås-Rya 2:36 |
+| Markingenjör | Markupplåtelseavtal Varla 2:364 |
+| Samhällsbyggnadschef | Avtal med Dun & Bradstreet Sweden AB om<br>Simpler analys 2026 |
+| Samhällsbyggnadschef | Kommunstyrelsen avstår från att yttra sig över<br>förslag till utvecklad utformning av utmärkelsen<br>Årets Stadskärna från 2027 |
 
 <!-- sida 45 -->
 
@@ -1968,18 +1976,6 @@ redovisningen av delegeringsbeslut fattade under perioden 2025-06-04 till
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: EE3AF4FC37BB786E48EAD7389B2ACDBF5B32987873
 Transaktionsidentitet: 8D760D41A662612E9E7BD5D25DC0484F5D73B18503
-
-[Tabell 45-1](protokoll.tabeller/45-1.csv)
-
-| Samhällsbyggnadschef | Kommunstyrelsen avstår från att lämna yttrande<br>över Klimat- och näringslivsdepartementets remiss<br>över framställan om utvidgat tillsynsansvar för<br>Kemikalieinspektionen |
-| --- | --- |
-| Kommunekolog | Yttrande över Skogsstyrelsens remiss: Samråd –<br>Planerad naturvårdande skötsel inom biotopskydd<br>på fastigheten Karsjö 1:2 (SK 7-1999) |
-| Kommunekolog | Yttrande över Skogsstyrelsens remiss: Samråd –<br>Planerad naturvårdande skötsel inom biotopskydd<br>på fastigheten Ubbhult 1:4 (SKS 112-226) |
-| Markingenjör | Markupplåtelseavtal Borekulla 2:3 |
-| Markingenjör | Markupplåtelseavtal Frillesås-Rya 2:36 |
-| Markingenjör | Markupplåtelseavtal Varla 2:364 |
-| Samhällsbyggnadschef | Avtal med Dun & Bradstreet Sweden AB om<br>Simpler analys 2026 |
-| Samhällsbyggnadschef | Kommunstyrelsen avstår från att yttra sig över<br>förslag till utvecklad utformning av utmärkelsen<br>Årets Stadskärna från 2027 |
 
 <!-- sida 46 -->
 
@@ -2972,7 +2968,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: EE3AF4FC37BB786E48EAD7389B2ACDBF5B32987873
 Transaktionsidentitet: 8D760D41A662612E9E7BD5D25DC0484F5D73B18503
 
-[Tabell 67-1](protokoll.tabeller/67-1.csv)
+[Tabell 67-68-1](protokoll.tabeller/67-68-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -2980,6 +2976,17 @@ Transaktionsidentitet: 8D760D41A662612E9E7BD5D25DC0484F5D73B18503
 | Hravn Forsne (M) | X |  |  |
 | Maria Gathendahl (M) | X |  |  |
 | Axel Storckenfeldt (M) | X |  |  |
+| Thure Sandén (M) | X |  |  |
+| Ann-Louise Lundqvist (S) |  | X |  |
+| Ermin Škorić (S) |  | X |  |
+| Stefan Jägnert (SD) | X |  |  |
+| Stefan Vilumsons (SD) | X |  |  |
+| Fredrik Hansson (C) | X |  |  |
+| Monica Neptun (L) | X |  |  |
+| Fredrik Kollberg (KD) | X |  |  |
+| Patrik Jervne Henestam (V) |  | X |  |
+| Maria Losman (MP) | X |  |  |
+| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 68 -->
 
@@ -2991,21 +2998,6 @@ Datum
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: EE3AF4FC37BB786E48EAD7389B2ACDBF5B32987873
 Transaktionsidentitet: 8D760D41A662612E9E7BD5D25DC0484F5D73B18503
-
-[Tabell 68-1](protokoll.tabeller/68-1.csv)
-
-| Thure Sandén (M) | X |  |  |
-| --- | --- | --- | --- |
-| Ann-Louise Lundqvist (S) |  | X |  |
-| Ermin Škorić (S) |  | X |  |
-| Stefan Jägnert (SD) | X |  |  |
-| Stefan Vilumsons (SD) | X |  |  |
-| Fredrik Hansson (C) | X |  |  |
-| Monica Neptun (L) | X |  |  |
-| Fredrik Kollberg (KD) | X |  |  |
-| Patrik Jervne Henestam (V) |  | X |  |
-| Maria Losman (MP) | X |  |  |
-| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 69 -->
 

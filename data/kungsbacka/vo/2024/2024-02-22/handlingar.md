@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.366666ef18d873f2cac23599/1708354939
 sha256: 89381c99235bed7f89ec50ba7dfd180c1b6560a4227fc45f7f2bb307addd1bc9
 bytes: 9989672
 sidor: 291
-hamtad: 2026-10-08T08:20:04+00:00
-konverterad: 2026-10-08T08:20:55+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T06:10:40+00:00
+konverterad: 2026-10-15T06:11:36+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [119]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134]
+figurer: [44, 49, 57, 60, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 107, 108, 109, 110, 111, 112, 113, 119, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 149, 157, 158, 162, 164, 181, 200, 202, 204, 206, 211, 227, 238, 239, 249]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -147,8 +147,9 @@ omsorgsboendena där larmen nu i stället blir digitala i stället för fasta in
 
 [Tabell 4-1](handlingar.tabeller/4-1.csv)
 
-| Utfall (miljoner kronor)<br>Intäkter | Utfall 2021<br>224,11 | Utfall 2022<br>245,89 | Utfall 2023<br>239,76 |
+| Utfall (miljoner kronor) | Utfall 2021 | Utfall 2022 | Utfall 2023 |
 | --- | --- | --- | --- |
+| Intäkter | 224,11 | 245,89 | 239,76 |
 | Kostnader | -1 185,10 | -1 227,45 | -1 310,08 |
 | Netto | -960,99 | -981,56 | -1 070,32 |
 | Budget, netto | -972,53 | -1 023,85 | -1 082,83 |
@@ -156,8 +157,9 @@ omsorgsboendena där larmen nu i stället blir digitala i stället för fasta in
 
 [Tabell 4-2](handlingar.tabeller/4-2.csv)
 
-| Utfall (miljoner kronor)<br>Utgifter | Utfall 2021<br>-5,87 | Utfall 2022<br>-4,98 | Utfall 2023<br>-4,91 |
+| Utfall (miljoner kronor) | Utfall 2021 | Utfall 2022 | Utfall 2023 |
 | --- | --- | --- | --- |
+| Utgifter | -5,87 | -4,98 | -4,91 |
 | Inkomster |  |  |  |
 | Netto | -5,87 | -4,98 | -4,91 |
 
@@ -1010,10 +1012,12 @@ utifrån.
 
 [Tabell 22-1](handlingar.tabeller/22-1.csv)
 
-| Namn<br>Riskobservation | 2021<br>76 | 2022<br>86 | 2023<br>135 |
+| Namn | 2021 | 2022 | 2023 |
 | --- | --- | --- | --- |
+| Riskobservation | 76 | 86 | 135 |
 | Tillbud | 918 | 985 | 1366 |
-| Olycksfall<br>Total | 178<br>1172 | 97<br>1168 | 175<br>1676 |
+| Olycksfall | 178 | 97 | 175 |
+| Total | 1172 | 1168 | 1676 |
 
 <!-- sida 23 -->
 
@@ -1132,31 +1136,60 @@ Nämndens årsredovisning 2023
 
 6.4 Resursmått
 
+Namn        Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023
+Andel deltid  44,5%       40,9%      37,7%         37,4%      32,6%
+Andel heltid  55,5%       59,1%      62,3%         62,6%      67,4%
+
+Andel kvinnor
+45,7%       42,4%      39,4%         38,6%       34%
+som har deltid
+Andel kvinnor
+54,3%       57,6%      60,6%         61,4%       66%
+som har heltid
+Andel män som
+25,4%       20%        18,6%          26%       20,8%
+har deltid
+Andel män som
+74,6%       80%        81,4%          74%       79,2%
+har heltid
+Anställda andel
+92,8%       91,7%      89,9%         88,9%      87,8%
+kvinnor
+Anställda andel
+7,2%       8,3%       10,2%         11,1%      12,2%
+män
+Anställda
+genomsnittlig
+90%        90,8%      91,4%          92%        93%
+sysselsättnings
+grad
+Anställda totalt 1 229    1 243      1 300         1 397      1 429
+Antal
+medarbetare    24,1       22,5        24            23,5       22,4
+per chef
+Antal
+medarbetare    28,1       27,1       28,4           27,9       25,3
+per enhetschef
+Medarbetare
+19,5%       22,1%      22,1%          23%       21,6%
+30 - 39 år
+Medarbetare
+23%        21,8%      19,4%         18,5%      19,4%
+40 - 49 år
+Medarbetare
+29,6%       30,9%      31%            29%       28,6%
+50 - 59 år
+Medarbetare
+11,6%       11%        11,9%         12,5%      13,7%
+60 år och äldre
+Medarbetare
+16,44%      14,2%      15,7%          17%       16,7%
+yngre än 30 år
+Medelålder      44         45         44             44         44
+Pensionsavgån
+27         17         26             19         11
+gar
 24
-
-[Tabell 25-1](handlingar.tabeller/25-1.csv)
-
-|  | Namn Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 |
-| --- | --- |
-| Andel deltid 44,5% 40,9% 37,7% 37,4% 32,6% |  |
-| Andel heltid 55,5% 59,1% 62,3% 62,6% 67,4% |  |
-| Andel kvinnor<br>45,7% 42,4% 39,4% 38,6% 34%<br>som har deltid |  |
-| Andel kvinnor<br>54,3% 57,6% 60,6% 61,4% 66%<br>som har heltid |  |
-| Andel män som<br>25,4% 20% 18,6% 26% 20,8%<br>har deltid |  |
-| Andel män som<br>74,6% 80% 81,4% 74% 79,2%<br>har heltid |  |
-| Anställda andel<br>92,8% 91,7% 89,9% 88,9% 87,8%<br>kvinnor |  |
-| Anställda andel<br>7,2% 8,3% 10,2% 11,1% 12,2%<br>män |  |
-| Anställda<br>genomsnittlig<br>90% 90,8% 91,4% 92% 93%<br>sysselsättnings<br>grad |  |
-| Anställda totalt 1 229 1 243 1 300 1 397 1 429 |  |
-| Antal<br>medarbetare 24,1 22,5 24 23,5 22,4<br>per chef |  |
-| Antal<br>medarbetare 28,1 27,1 28,4 27,9 25,3<br>per enhetschef |  |
-| Medarbetare<br>19,5% 22,1% 22,1% 23% 21,6%<br>30 - 39 år |  |
-| Medarbetare<br>23% 21,8% 19,4% 18,5% 19,4%<br>40 - 49 år |  |
-| Medarbetare<br>29,6% 30,9% 31% 29% 28,6%<br>50 - 59 år |  |
-| Medarbetare<br>11,6% 11% 11,9% 12,5% 13,7%<br>60 år och äldre |  |
-| Medarbetare<br>16,44% 14,2% 15,7% 17% 16,7%<br>yngre än 30 år |  |
-| Medelålder 44 45 44 44 44 |  |
-| Pensionsavgån<br>27 17 26 19 11<br>gar |  |
 
 <!-- sida 26 -->
 
@@ -1165,46 +1198,89 @@ Nämndens årsredovisning 2023
 
 6.5 Effektmått
 
+Namn        Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023
+Frisknärvaro\*  56%        34,4%      41,3%         36,8%      38,9%
+Frisknärvaro
+55,4%       33,4%      40,6%         35,5%      37,6%
+Kvinnor
+Frisknärvaro
+65,7%       47,3%      50,4%         48,1%      48,5%
+Män
+Korttidssjukfrån
+4,1%       5,5%       4,8%           5,5%       5,2%
+varo
+Korttidssjukfrån
+4,1%       5,5%       4,8%           5,6%       5,2%
+varo Kvinnor
+Korttidssjukfrån
+3,7%       4,9%       4,4%           4,8%       5,1%
+varo Män
+Långtidssjukfrå
+5,8%        5%        4,8%           4,6%       4,8%
+nvaro
+Långtidssjukfrå
+6%         5,2%        5%            4,9%       5,1%
+nvaro Kvinnor
+Långtidssjukfrå
+2,3%       3,1%       2,6%           1,6%       2,4%
+nvaro Män
+Personalomsätt
+17,6%       13,4%      12,6%         14,1%      16,4%
+ning
+Sjukfrånvaro
+10,1%       10,7%      9,8%          10,5%      10,3%
+Kvinnor
+Sjukfrånvaro
+6%          8%         7%            6,4%       7,5%
+Män
+Sjukfrånvaro
+9,8%       10,5%      9,6%          10,1%       10%
+Totalt
+Sjukfrånvaro,
+andel av
+40%        34,2%      36,9%          34%       34,8%
+sjukfrånvaro 60
+dagar eller mer
+Sjukfrånvaro,
+andel av
+sjukfrånvaro 60 41%       34,6%      37,6%         35,2%      36,1%
+dagar eller mer
+Kvinnor
+Sjukfrånvaro,
+andel av
+sjukfrånvaro 60 18,4%     28,9%      28,1%         18,1%       22%
+dagar eller mer
+Män
+Sjukfrånvaro,
+anställda i
+9,3%       10,5%      8,3%           8,2%       9,6%
+åldrarna 29 år
+eller yngre
 25
-
-[Tabell 26-1](handlingar.tabeller/26-1.csv)
-
-|  | Namn Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 |
-| --- | --- |
-| Frisknärvaro\* 56% 34,4% 41,3% 36,8% 38,9% |  |
-| Frisknärvaro<br>55,4% 33,4% 40,6% 35,5% 37,6%<br>Kvinnor |  |
-| Frisknärvaro<br>65,7% 47,3% 50,4% 48,1% 48,5%<br>Män |  |
-| Korttidssjukfrån<br>4,1% 5,5% 4,8% 5,5% 5,2%<br>varo |  |
-| Korttidssjukfrån<br>4,1% 5,5% 4,8% 5,6% 5,2%<br>varo Kvinnor |  |
-| Korttidssjukfrån<br>3,7% 4,9% 4,4% 4,8% 5,1%<br>varo Män |  |
-| Långtidssjukfrå<br>5,8% 5% 4,8% 4,6% 4,8%<br>nvaro |  |
-| Långtidssjukfrå<br>6% 5,2% 5% 4,9% 5,1%<br>nvaro Kvinnor |  |
-| Långtidssjukfrå<br>2,3% 3,1% 2,6% 1,6% 2,4%<br>nvaro Män |  |
-| Personalomsätt<br>17,6% 13,4% 12,6% 14,1% 16,4%<br>ning |  |
-| Sjukfrånvaro<br>10,1% 10,7% 9,8% 10,5% 10,3%<br>Kvinnor |  |
-| Sjukfrånvaro<br>6% 8% 7% 6,4% 7,5%<br>Män |  |
-| Sjukfrånvaro<br>9,8% 10,5% 9,6% 10,1% 10%<br>Totalt |  |
-| Sjukfrånvaro,<br>andel av<br>40% 34,2% 36,9% 34% 34,8%<br>sjukfrånvaro 60<br>dagar eller mer |  |
-| Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60 41% 34,6% 37,6% 35,2% 36,1%<br>dagar eller mer<br>Kvinnor |  |
-| Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60 18,4% 28,9% 28,1% 18,1% 22%<br>dagar eller mer<br>Män |  |
-| Sjukfrånvaro,<br>anställda i<br>9,3% 10,5% 8,3% 8,2% 9,6%<br>åldrarna 29 år<br>eller yngre |  |
 
 <!-- sida 27 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndens årsredovisning 2023
 
+Namn        Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023
+Sjukfrånvaro,
+anställda i
+8,6%       9,1%       9,5%           9,9%       8,7%
+åldrarna 30-49
+år
+Sjukfrånvaro,
+anställda i
+10%        11,8%      10%           10,9%      11,3%
+åldrarna 50 år
+eller äldre
+Sjukfrånvaroda
+gar i snitt per 31,7      35,8       32,3           34,6        34
+anställd
+
 \*Frisknärvaro är medarbetare som har haft färre än fem sjukdagar under en tolvmånadersperiod
 
 26
-
-[Tabell 27-1](handlingar.tabeller/27-1.csv)
-
-|  | Namn Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 |
-| --- | --- |
-| Sjukfrånvaro,<br>anställda i<br>8,6% 9,1% 9,5% 9,9% 8,7%<br>åldrarna 30-49<br>år |  |
-| Sjukfrånvaro,<br>anställda i<br>10% 11,8% 10% 10,9% 11,3%<br>åldrarna 50 år<br>eller äldre |  |
-| Sjukfrånvaroda<br>gar i snitt per 31,7 35,8 32,3 34,6 34<br>anställd |  |
 
 <!-- sida 28 -->
 
@@ -1216,6 +1292,26 @@ Nämndens årsredovisning 2023
 7.1 Uppföljning driftbudget
 
 Drift (belopp mnkr)
+
+Uppföljningsnivå (belopp i                               Budgetavvikelse
+Bokslut 2022 Budget 2023 Bokslut 2023
+mnkr)                                                        2023
+
+```osaker-tabell
+Nämnd                                    -1,4        -1,2          0,2
+Förvaltningsgemensamt                    -18,9       -5,8         13,1
+FLK                                     -508,7     -495,2         13,5
+
+Distrikt Syd                             -57,2      -66,6         -9,4
+Distrikt Centrum                         -59,5      -73,1        -13,6
+
+Distrikt Norr                            -29,6      -30,4         -0,8
+Distrikt Väst                            -34,4      -40,1         -5,7
+Distrikt 5                              -373,1     -357,9         15,2
+
+Vård & Omsorg                981,5         0                        0
+Summa                        981,5     -1 082,8   -1 070,3        12,5
+```
 
 Kommentarer
 Nämnden för Vård & Omsorg visar på ett överskott om 12,5 miljoner kronor.
@@ -1244,20 +1340,6 @@ inflyttning skedde i början av året så stängdes även Signes Hus med 116 pla
 •  reserv om +7,1 miljoner kronor
 
 27
-
-[Tabell 28-1](handlingar.tabeller/28-1.csv)
-
-| Uppföljningsnivå (belopp i<br>mnkr)<br>Nämnd | Bokslut 2022 | Budget 2023<br>-1,4 | Bokslut 2023<br>-1,2 | Budgetavvikelse<br>2023<br>0,2 |
-| --- | --- | --- | --- | --- |
-| Förvaltningsgemensamt |  | -18,9 | -5,8 | 13,1 |
-| FLK |  | -508,7 | -495,2 | 13,5 |
-| Distrikt Syd |  | -57,2 | -66,6 | -9,4 |
-| Distrikt Centrum |  | -59,5 | -73,1 | -13,6 |
-| Distrikt Norr |  | -29,6 | -30,4 | -0,8 |
-| Distrikt Väst |  | -34,4 | -40,1 | -5,7 |
-| Distrikt 5 |  | -373,1 | -357,9 | 15,2 |
-| Vård & Omsorg | 981,5 | 0 |  | 0 |
-| Summa | 981,5 | -1 082,8 | -1 070,3 | 12,5 |
 
 <!-- sida 29 -->
 
@@ -1594,32 +1676,36 @@ Nämnd:  Vård & Omsorg
 Investeringsprojekt - begäran om ombudgetering 2023
 Utgifter i (-) och inkomster i (+) belopp i tkr
 TKR
+Projekt nr Projektnamn                 Bokslut 2023    Orsak till bokslut och budgetavvikelse 2023 samt Nämndens begäran om
+Projekttyp Nämnd Årsbudget Utfall Avvikelse Avslutade projekt Resultat Typo 4m - Pbåugdågenedtee reijn g mTy mp 4 - Pågående ej Kontrollsumma mot
+Ja/Nej avslutade avslutade projekt avslutade projekt bokslutsavvikelse
+projekt Ombudgeteras till 2024Ombudgeteras till 2025
+A          B                     C       D   E=D-C   K      L      M         N      O=L+M+N-E
 
-3862Ok, belopp
+```osaker-tabell
+Löpande:                                           0                                         0
+
+  3860  ÄO Kompl Inv/ Utrustning 1 VO -5 000 -4 903 97    Nej             97                 0
+  3863  Grundutrustning MPT 1 VO        0          0                                         0
+                                                   0                                         0
+ Övriga:                                           0                                         0
+```
+
+3862Ok, beloppen överensstämmerT mekendis kbae slölustn i§n g7ar 3 VO -10 934 10 934 Nej 10 934       0
+
+```osaker-tabell
+    3856  Nyckelfritt  3     VO           0          0                                         0
+                                                     0                                         0
+                                                     0                                         0
+                                                     0                                         0
+                                                     0                                         0
+                                                     0                                         0
+Totalt nämnden                         -15 934 -4 903 11 031       0      11 031      0        0
+```
 
 Investeringsbudgeten
 Investeringsbudgeten behandlas i princip på samma sätt som driftbudgeten.
 Över- och underskott skott avseende pågående men ej avslutade investeringar överföres till det nya budgetåret till dess investeringen är genomförd och slutredovisad.
-
-[Tabell 36-1](handlingar.tabeller/36-1.csv)
-
-| Projekt nr | Projektnamn | Projekttyp | Nämnd | Bokslut 2023 |  |  | Orsak till bokslut och budgetavvikelse 2023 samt Nämndens begäran om |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  | Årsbudget | Utfall | Avvikelse | Avslutade projekt<br>Ja/Nej | Resultat<br>avslutade<br>projekt | Typo 4m - Pbåugdågenedtee reijn g<br>avslutade projekt<br>Ombudgeteras till 2024 | mTy mp 4 - Pågående ej<br>avslutade projekt<br>Ombudgeteras till 2025 | Kontrollsumma mot<br>bokslutsavvikelse |
-| A | B | C D E=D-C |  |  |  |  | K | L M N O=L+M+N-E |  |  |  |
-| Löpande: |  |  |  |  |  | 0 |  |  |  |  | 0 |
-| 3860 | ÄO Kompl Inv/ Utrustning | 1 | VO | -5 000 | -4 903 | 97 | Nej |  | 97 |  | 0 |
-| 3863 | Grundutrustning MPT | 1 | VO | 0 |  | 0 |  |  |  |  | 0 |
-|  |  |  |  |  |  | 0 |  |  |  |  | 0 |
-| Övriga: |  |  |  |  |  | 0 |  |  |  |  | 0 |
-| en överensstämme | rT mekendis kbae slölustn i§n g7ar | 3 | VO | -10 934 |  | 10 934 | Nej |  | 10 934 |  | 0 |
-| 3856 | Nyckelfritt | 3 | VO | 0 |  | 0 |  |  |  |  | 0 |
-|  |  |  |  |  |  | 0 |  |  |  |  | 0 |
-|  |  |  |  |  |  | 0 |  |  |  |  | 0 |
-|  |  |  |  |  |  | 0 |  |  |  |  | 0 |
-|  |  |  |  |  |  | 0 |  |  |  |  | 0 |
-|  |  |  |  |  |  | 0 |  |  |  |  | 0 |
-| Totalt nämnden |  |  |  | -15 934 -4 903 11 031 |  |  |  | 0 11 031 0 0 |  |  |  |
 
 <!-- sida 37 -->
 
@@ -1866,11 +1952,13 @@ Uppföljningsrapport intern kontroll 2023
 |  | 10 Risk för bristande vård och omsorg vid vård i livets Ja<br>slut då det saknas dokumenterad munhälsobedömning |
 |  | 11 Kommunövergripande risk - Risk för korruption Ja |
 
-[Tabell 45-2](handlingar.tabeller/45-2.csv)
+[Tabell 45-46-2](handlingar.tabeller/45-46-2.csv)
 
 | Kategorier<br>Personal | Risker Anledning till att risk ej tas till plan<br>Risk för att Kontrollen har under tre år inte visat på större avvikelser och exkluderas<br>medarbetare utan därmed från internkontrollen. HR kommer fortsatt följa upp andelen<br>kompetens anställs vårdbiträden respektive undersköterskor.<br>på långa vikariat<br>och uppnår<br>företrädes- eller<br>konverteringsrätt |
 | --- | --- |
 | Informationssä<br>kerhet,<br>administration,<br>inköp... | Risk för bristande Risken hanteras i ordinarie drift samt följs upp och redovisas inom ramen<br>informationssäkerh för informations- och dataskyddsarbetet.<br>et på grund av<br>misstag eller<br>okunskap hos<br>medarbetare om<br>aktuell lagstiftning |
+| Kategorier<br>Verksamhet | Risker Anledning till att risk ej tas till plan<br>Risk för vård- och Kontrollen kommer att följas upp och redovisas inom ramen för<br>personskada på säkerhetsberättelsen 2023 och inkluderas därför inte inom ramen för<br>vård- och internkontrollen.<br>omsorgsboenden<br>samt i<br>verksamhetslokaler<br>på grund av att<br>medarbetare<br>saknar obligatorisk<br>utbildning i<br>brandsäkerhet |
+|  | Risk för bristande Följsamheten till rutiner, riktlinjer och ordinationer har ökat under tre år.<br>vård och omsorg Detta kommer fortsatt följas upp och redovisas inom ramen för arbetet<br>på grund av att med patientsäkerhet men inte inom ramen för internkontrollen.<br>rutiner, riktlinjer<br>och ordinationer<br>inte efterlevs i<br>önskad omfattning |
 
 <!-- sida 46 -->
 
@@ -1878,12 +1966,6 @@ Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Uppföljningsrapport intern kontroll 2023
 
 6
-
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
-
-| Kategorier<br>Verksamhet | Risker Anledning till att risk ej tas till plan<br>Risk för vård- och Kontrollen kommer att följas upp och redovisas inom ramen för<br>personskada på säkerhetsberättelsen 2023 och inkluderas därför inte inom ramen för<br>vård- och internkontrollen.<br>omsorgsboenden<br>samt i<br>verksamhetslokaler<br>på grund av att<br>medarbetare<br>saknar obligatorisk<br>utbildning i<br>brandsäkerhet |
-| --- | --- |
-|  | Risk för bristande Följsamheten till rutiner, riktlinjer och ordinationer har ökat under tre år.<br>vård och omsorg Detta kommer fortsatt följas upp och redovisas inom ramen för arbetet<br>på grund av att med patientsäkerhet men inte inom ramen för internkontrollen.<br>rutiner, riktlinjer<br>och ordinationer<br>inte efterlevs i<br>önskad omfattning |
 
 <!-- sida 47 -->
 
@@ -1972,7 +2054,7 @@ nivåerna låg på 51,4 procent respektive 47,1 procent.
 
 8
 
-[Tabell 48-1](handlingar.tabeller/48-1.csv)
+[Tabell 48-49-1](handlingar.tabeller/48-49-1.csv)
 
 | Risker | Enhet Granskningsaktiviteter | Åtgärder |
 | --- | --- | --- |
@@ -1982,6 +2064,7 @@ nivåerna låg på 51,4 procent respektive 47,1 procent.
 | Kommunövergripande risk:<br>Bristande hantering av<br>delegationsbeslut | Granskning av<br>Vård & Omsorg<br>delegeringsbeslut | Granskning görs 2024 |
 | Risk för brister i<br>dokumentationsskyldigheten<br>socialtjänst | Delaktigheten i<br>genomförandeplanen samt<br>Vård & Omsorg<br>att plan upprättas inom<br>given tid | Egenkontroll och<br>kvarstående kontrollmoment<br>2024 |
 |  | Följsamhet till föreskrift<br>Vård & Omsorg<br>SOSFS 2014:5 | Egenkontroll och<br>kvarstående kontrollmoment<br>2024 |
+|  | Granskning av pågående<br>Vård & Omsorg beslut enligt<br>Socialtjänstlagen | Egenkontroll och<br>kvarstående kontrollmoment<br>2024 |
 
 <!-- sida 49 -->
 
@@ -2004,6 +2087,19 @@ Med privata utförare avses utförare som har hand om skötseln av en kommunal a
 privat utförare räknas inte hel- eller delägda kommunala bolag, eller stiftelse eller förening som bildats av
 kommunen eller regionen.
 
+Andel av       Kostnad för
+Verksamhet
+verksamhetsvolym % verksamhet kr
+Bokslut Bokslut Bokslut Bokslut
+
+```osaker-tabell
+                                        2022   2023    2022    2023
+Kundval - hemtjänst                  14,6 %  15,7 %  39 517 427 52 437 157
+ Omsorgsboende                       28,5 %  17,8 %  144 371 993 63 409 520
+
+ Korttidsboende                      16,1 %  15,2 %  5 315 886 4 625 320
+```
+
 Under hösten 2022 beslutade nämnden att ingen ny verksamhet som drivs av kommunal regi ska
 konkurrensutsättas under 2023. Inom Vård & Omsorgs verksamhetsområde bedrivs kundval inom hemtjänsten
 (LOV) och även inom vård- och omsorgsboenden som drivs på entreprenad (LOU).
@@ -2024,19 +2120,6 @@ Förvaltningen och nämnden har en löpande dialog med samtliga utförare, bland
 utförarträffar. Nya samarbetsrutiner utverkades under 2022 och under 2024 kommer ansvarig tjänsteperson även
 
 9
-
-[Tabell 49-1](handlingar.tabeller/49-1.csv)
-
-| Risker | Enhet Granskningsaktiviteter | Åtgärder |
-| --- | --- | --- |
-|  | Granskning av pågående<br>Vård & Omsorg beslut enligt<br>Socialtjänstlagen | Egenkontroll och<br>kvarstående kontrollmoment<br>2024 |
-
-[Tabell 49-2](handlingar.tabeller/49-2.csv)
-
-| Verksamhet<br>Kundval - hemtjänst | Andel av<br>verksamhetsvolym %<br>Bokslut Bokslut<br>2022 2023<br>14,6 % 15,7 % |  | Kostnad för<br>verksamhet kr<br>Bokslut Bokslut<br>2022 2023<br>39 517 427 52 437 157 |  |
-| --- | --- | --- | --- | --- |
-| Omsorgsboende | 28,5 % | 17,8 % | 144 371 993 | 63 409 520 |
-| Korttidsboende | 16,1 % | 15,2 % | 5 315 886 | 4 625 320 |
 
 <!-- sida 50 -->
 
@@ -2149,7 +2232,7 @@ Nämndens självskattning
 
 13
 
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
+[Tabell 53-54-1](handlingar.tabeller/53-54-1.csv)
 
 | Område<br>Uppdrag och mål | Frågor Svar, Antal 2023<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
 | --- | --- |
@@ -2162,18 +2245,7 @@ Nämndens självskattning
 |  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
 |  | Ledningen informeras om fel och brister i<br>organisationen |
 |  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |
-
-<!-- sida 54 -->
-
-Nämnden för Vård & Omsorg                        Kungsbacka kommun
-Uppföljningsrapport intern kontroll 2023
-
-14
-
-[Tabell 54-1](handlingar.tabeller/54-1.csv)
-
 | Område | Frågor Svar, Antal 2023<br>Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-| --- | --- |
 | Riskanalys | Riskanalysen kommuniceras med<br>nämnden |
 |  | Riskanalysen är underlag för åtgärder och<br>granskningar |
 | Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
@@ -2183,6 +2255,13 @@ Uppföljningsrapport intern kontroll 2023
 |  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
 | Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
 |  | Vi har en fungerande introduktion av nya<br>medarbetare |
+
+<!-- sida 54 -->
+
+Nämnden för Vård & Omsorg                        Kungsbacka kommun
+Uppföljningsrapport intern kontroll 2023
+
+14
 
 <!-- sida 55 -->
 
@@ -2437,11 +2516,40 @@ Intern kontrollplan 2024
 
 7
 
-[Tabell 62-1](handlingar.tabeller/62-1.csv)
+[Tabell 62-67-1](handlingar.tabeller/62-67-1.csv)
 
 | Kategorier<br>Personal | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk för att Fåtal medarbetare<br>medarbetare utan anställs i<br>kompetens anställs på tidsbegränsade<br>långa vikariat och anställningar.<br>uppnår företrädes- eller Införandet av<br>konverteringsrätt karriärvägsmodellen<br>januari 2024 innebär<br>tydliga utbildnings -<br>och kompetenskrav<br>på samtliga<br>befattningar inom<br>omvårdnadsarbete<br>förutom biträden.<br>Förvaltningen följer<br>2. Lindrig (uppfattas noga de<br>som liten av berörda tidsbegränsat<br>2. Mindre vanligt<br>intressenter och anställda för att tillse<br>kommunen) om brister i<br>kompetens finns. I<br>det fall en<br>medarbetare i<br>tidsbegränsad<br>anställning brister i<br>sin kompetens<br>avslutas<br>anställningen i<br>anslutning till att<br>aktuell tidsbegränsad<br>anställning upphör.<br>Risken omhändertas<br>därmed på annat<br>sätt. |
 | --- | --- |
 |  | Risk för brister i vården Arbete pågår med<br>och omsorgen av införande av<br>enskilda på grund av Karriärvägsmodellen<br>att anställda saknar s olika befattningar.<br>yrkeskompetens Genom detta sker<br>kartläggning av<br>medarbetares<br>utbildning, erfarenhet<br>3. Kännbar och kompetens i<br>(uppfattas som relation till befattning<br>2. Mindre vanligt besvärande för och<br>berörda intressenter utbildningsinsatser<br>och kommunen) planeras och<br>genomförs, främst<br>genom<br>Äldreomsorgslyftet<br>Då uppföljning av<br>detta arbete sker<br>inom ramen för<br>nämndens<br>målarbete. |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk för att E-tjänst på Insidan<br>medarbetare som för avslut av<br>avslutat sin anställning behörigheter har<br>2. Lindrig (uppfattas<br>eller bytt tjänst har införts vilket<br>som liten av berörda<br>behörighet till system, 2. Mindre vanligt minimerar risk samt<br>intressenter och<br>lokaler och andra främjar att rutin följs.<br>kommunen)<br>tillgångar på grund av<br>att behörigheterna inte<br>avslutas |
+|  | Kommunövergripande Förvaltningen har ett<br>risk: Övertidsersättning pågående arbete<br>betalas ut på fel grund kring organisering<br>och kompetenskrav<br>3. Kännbar<br>för arbete med<br>(uppfattas som<br>insatsplanering,<br>2. Mindre vanligt besvärande för<br>bemanning och<br>berörda intressenter<br>schema för våra<br>och kommunen)<br>verksamheter.<br>Uppföljning sker<br>inom ramen för det<br>arbetet. |
+| Ekonomi | Kommunövergripande 1. Försumbar Redovisning är inte<br>risk: Grundläggande (obetydlig för solitärt underlag till<br>2. Mindre vanligt<br>redovisning berörda intressenter inriktningsbeslut.<br>kvalitetsbrister och kommunen) |
+| Informationssäkerh<br>et, administration,<br>inköp... | Risk för bristande vård Förbättringsåtgärder<br>och omsorg på grund sker som del av<br>av att ordinarie<br>verksamhetssystem systemförvaltningsar<br>och/eller digitala bete. Därtill sker<br>4. Allvarlig/stor<br>verktyg slutar att insatser med<br>2. Mindre vanligt inverkan (så stor att<br>fungera utgångspunkt från<br>den inte får inträffa)<br>informationssäkerhet<br>sarbetet och arbetet<br>med<br>informationsklassific<br>ering |
+|  | Risk för bristande Risken adresseras<br>3. Kännbar<br>informationssäkerhet inom ramen för<br>(uppfattas som<br>på grund av misstag förvaltningens<br>2. Mindre vanligt besvärande för<br>eller okunskap hos systematiska<br>berörda intressenter<br>medarbetare om aktuell informationssäkerhet<br>och kommunen)<br>lagstiftning sarbete. |
+|  | Kommunövergripande Utgår som<br>risk: Inköp (granskning 3. Kännbar gemensam<br>begränsas till belopp (uppfattas som granskning 2024.<br>över 100.000:-) 2. Mindre vanligt besvärande för Tas upp av<br>berörda intressenter nämnderna om det<br>och kommunen) är relevant för den<br>egna verksamheten |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Det saknas en Finns ansvarig för<br>3. Kännbar<br>övergripande 1. Osannolik infosäkerhet och<br>(uppfattas som<br>riskanalys & ett (risken är dataskydd som<br>besvärande för<br>systematiskt praktiskt taget bevakar risken.<br>berörda intressenter<br>informationssäkerhets- obefintlig)<br>och kommunen)<br>arbete |
+|  | Risk för bristande Arbetet ligger inom<br>3. Kännbar<br>informationssäkerhet ramen för ordinarie<br>(uppfattas som<br>på grund av misstag informationssäkerhet<br>2. Mindre vanligt besvärande för<br>eller okunskap hos sarbete och<br>berörda intressenter<br>medarbetare om aktuell dataskydd<br>och kommunen)<br>lagstiftning |
+|  | Risk för bristande vård Förbättringsåtgärder<br>och omsorg på grund sker som del av<br>av att ordinarie<br>verksamhetssystem systemförvaltningsar<br>och/eller digitala bete. Därtill sker<br>4. Allvarlig/stor<br>verktyg slutar att insatser med<br>2. Mindre vanligt inverkan (så stor att<br>fungera utgångspunkt från<br>den inte får inträffa)<br>informationssäkerhet<br>sarbetet och arbetet<br>med<br>informationsklassific<br>ering. |
+|  | Risk att förvaltningens Avtalsdiariet<br>avtal inte hanteras i används för<br>1. Osannolik 2. Lindrig (uppfattas<br>enlighet med hantering av avtal<br>(risken är som liten av berörda<br>dokumenthanteringspla vilket säkerställer<br>praktiskt taget intressenter och<br>nen samt korrekt hantering.<br>obefintlig) kommunen)<br>kommunövergripande<br>riktlinjer |
+|  | Kommunövergripande Risken adresseras<br>3. Kännbar<br>risk: inom ramen för<br>(uppfattas som<br>informationssäkerhet; förvaltningens<br>2. Mindre vanligt besvärande för<br>skydd av information systematiska<br>berörda intressenter<br>mot obehörig tillgång informationssäkerhet<br>och kommunen)<br>sarbete. |
+| Verksamhet | Risk att 3. Kännbar Service ansvarar<br>brandutrustning inte (uppfattas som<br>kontrolleras 2. Mindre vanligt besvärande för<br>berörda intressenter<br>och kommunen) |
+|  | Risk att Läggs till i<br>utrymningsrutin för egenkontroll för<br>4. Allvarlig/stor<br>personal och boende systematisk<br>2. Mindre vanligt inverkan (så stor att<br>inte är känd i brandskyddsarbete<br>den inte får inträffa)<br>verksamheten för vård-<br>och omsorgsboenden |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk att Läggs till i<br>utrymningsrutin för egenkontroll för<br>personal inte är känd systematisk<br>i verksamheten för 4. Allvarlig/stor brandskyddsarbete<br>övriga lokaler 2. Mindre vanligt inverkan (så stor att<br>(exklusive vård- och den inte får inträffa)<br>omsorgsboenden)<br>utifrån<br>arbetsgivaransvar |
+|  | Risk att processen Arbetssättet och<br>ansökan-beslut- processen ansökan-<br>verkställighet inte följs 3. Kännbar beslut-verkställighet<br>1. Osannolik<br>(uppfattas som är välfungerande.<br>(risken är<br>besvärande för Inga indikationer på<br>praktiskt taget<br>berörda intressenter brister har<br>obefintlig)<br>och kommunen) framkommit under<br>senaste<br>internkontrollerna. |
+|  | Risk att Andel aktuella<br>genomförandeplan ej 3. Kännbar genomförandeplaner<br>upprättas korrekt (uppfattas som mäts inom ramen för<br>2. Mindre vanligt besvärande för måluppföljning<br>berörda intressenter (nämndsmål) och<br>och kommunen) kvalitet följ upp i<br>egenkontrollen. |
+|  | Risk för vårdskada p ga Antal händelser där<br>brister i hälso- och orsak är brist i<br>1. Försumbar<br>sjukvårdsdokumentatio dokumentation under<br>(obetydlig för<br>nen. 2. Mindre vanligt 2023 var 32 stycken<br>berörda intressenter<br>för alla vård-och<br>och kommunen)<br>omsorgstagare i<br>kommunen |
+|  | Risk att inte kunderna Rutin har upprättats.<br>får någon vård eller 3. Kännbar<br>omsorg i samband med (uppfattas som<br>konkurs eller 2. Mindre vanligt besvärande för<br>uppsägning av avtal berörda intressenter<br>med extern och kommunen)<br>hemtjänstutförare. |
+|  | Risk för vårdskada 95 % av händelser<br>kopplat till kopplat till<br>1. Försumbar<br>läkemedelshantering läkemedelshantering<br>(obetydlig för<br>2. Mindre vanligt under 2023 har gett<br>berörda intressenter<br>ingen till mindre<br>och kommunen)<br>konsekvens för<br>patienten. |
+|  | Risk för bristande vård Risk bevakas och<br>och omsorg på grund följs upp i<br>2. Lindrig (uppfattas<br>av att rutiner, riktlinjer verksamheterna<br>som liten av berörda<br>och ordinationer inte 2. Mindre vanligt systematiska<br>intressenter och<br>efterlevs i önskad kvalitetsarbete och<br>kommunen)<br>omfattning rapporteras i<br>kvalitetsberättelse |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk för brister i Risk bevakas och<br>dokumentationsskyldig 3. Kännbar följs upp i<br>heten socialtjänst (uppfattas som verksamheterna<br>3. Vanligt besvärande för systematiska<br>berörda intressenter kvalitetsarbete och<br>och kommunen) rapporteras i<br>kvalitetsberättelse |
+|  | Brister i analog och Digital och analog<br>1. Osannolik 2. Lindrig (uppfattas<br>digital posthantering. myndighetslåda<br>(risken är som liten av berörda<br>bevakas och<br>praktiskt taget intressenter och<br>hanteras varje<br>obefintlig) kommunen)<br>veckodag. |
+|  | Risk för bristande vård Beslut att samtliga<br>och omsorg vid vård- våbo ska ha<br>4. Allvarlig/stor<br>och omsorgsboenden stationär reservkraft<br>2. Mindre vanligt inverkan (så stor att<br>på grund av att det år 2028 togs i KF juni<br>den inte får inträffa)<br>saknas reservkraft vid 2023<br>el-avbrott |
+|  | Risk för vårdskada vid Utredning pågår för<br>vård- och att hitta lösning. Nya<br>4. Allvarlig/stor<br>omsorgsboenden på boendet byggs med<br>2. Mindre vanligt inverkan (så stor att<br>grund av att det saknas komfortkyla.<br>den inte får inträffa)<br>komfortkyla vid höga<br>temperaturer |
+|  | Risk för att enskildas Andel aktuella<br>genomförandeplaner 3. Kännbar genomförandeplaner<br>inte är aktuella på (uppfattas som mäts inom ramen för<br>grund av hur tid och 2. Mindre vanligt besvärande för måluppföljning<br>resurser prioriteras berörda intressenter (nämndsmål) och<br>och kommunen) kvalitet följ upp i<br>egenkontrollen. |
+|  | Risk för bristande vård Tas ej med till plan<br>och omsorg av enskilda 1. Osannolik 1. Försumbar då Oral care är<br>på grund av att (risken är (obetydlig för utförare och<br>munhälsobedömningar praktiskt taget berörda intressenter nämnden ej kan<br>inte genomförs i obefintlig) och kommunen) vidta åtgärder i ett<br>önskad omfattning företag. |
+|  | Risk för bristande vård Resultat från DF<br>och omsorg vid vård i respons visar att det<br>livets slut på grund av finns mycket få<br>att händelser där patient<br>validerad/strukturerad farit illa kopplat till<br>smärtskattning inte smärta vid vård i<br>genomförs i önskad livets slut. Däremot<br>1. Osannolik 2. Lindrig (uppfattas<br>omfattning finns brister i<br>(risken är som liten av berörda<br>dokumentation och<br>praktiskt taget intressenter och<br>användning av<br>obefintlig) kommunen)<br>fastställda rutiner.<br>Resultat från<br>palliativa registret<br>arbetas vidare med i<br>palliativa gruppen<br>inom<br>hemsjukvården. |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk för bristande vård Resultat från DF<br>och omsorg vid vård i respons visar att det<br>livets slut då det finns mycket få<br>saknas dokumenterad händelser där patient<br>munhälsobedömning farit illa kopplat till<br>smärta vid vård i<br>livets slut. Däremot<br>1. Osannolik 2. Lindrig (uppfattas<br>finns brister i<br>(risken är som liten av berörda<br>dokumentation och<br>praktiskt taget intressenter och<br>användning av<br>obefintlig) kommunen)<br>fastställda rutiner.<br>Resultat från<br>palliativa registret<br>arbetas vidare med i<br>palliativa gruppen<br>inom<br>hemsjukvården. |
+|  | Risk för bristande vård Risk bevakas och<br>och omsorg på grund 3. Kännbar följs upp i<br>av avvikelser från (uppfattas som verksamheterna<br>dokumentationsskyldig 2. Mindre vanligt besvärande för systematiska<br>heten socialtjänst berörda intressenter kvalitetsarbete och<br>och kommunen) rapporteras i<br>kvalitetsberättelse |
 
 <!-- sida 63 -->
 
@@ -2450,33 +2558,12 @@ Intern kontrollplan 2024
 
 8
 
-[Tabell 63-1](handlingar.tabeller/63-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk för att E-tjänst på Insidan<br>medarbetare som för avslut av<br>avslutat sin anställning behörigheter har<br>2. Lindrig (uppfattas<br>eller bytt tjänst har införts vilket<br>som liten av berörda<br>behörighet till system, 2. Mindre vanligt minimerar risk samt<br>intressenter och<br>lokaler och andra främjar att rutin följs.<br>kommunen)<br>tillgångar på grund av<br>att behörigheterna inte<br>avslutas |
-| --- | --- |
-|  | Kommunövergripande Förvaltningen har ett<br>risk: Övertidsersättning pågående arbete<br>betalas ut på fel grund kring organisering<br>och kompetenskrav<br>3. Kännbar<br>för arbete med<br>(uppfattas som<br>insatsplanering,<br>2. Mindre vanligt besvärande för<br>bemanning och<br>berörda intressenter<br>schema för våra<br>och kommunen)<br>verksamheter.<br>Uppföljning sker<br>inom ramen för det<br>arbetet. |
-| Ekonomi | Kommunövergripande 1. Försumbar Redovisning är inte<br>risk: Grundläggande (obetydlig för solitärt underlag till<br>2. Mindre vanligt<br>redovisning berörda intressenter inriktningsbeslut.<br>kvalitetsbrister och kommunen) |
-| Informationssäkerh<br>et, administration,<br>inköp... | Risk för bristande vård Förbättringsåtgärder<br>och omsorg på grund sker som del av<br>av att ordinarie<br>verksamhetssystem systemförvaltningsar<br>och/eller digitala bete. Därtill sker<br>4. Allvarlig/stor<br>verktyg slutar att insatser med<br>2. Mindre vanligt inverkan (så stor att<br>fungera utgångspunkt från<br>den inte får inträffa)<br>informationssäkerhet<br>sarbetet och arbetet<br>med<br>informationsklassific<br>ering |
-|  | Risk för bristande Risken adresseras<br>3. Kännbar<br>informationssäkerhet inom ramen för<br>(uppfattas som<br>på grund av misstag förvaltningens<br>2. Mindre vanligt besvärande för<br>eller okunskap hos systematiska<br>berörda intressenter<br>medarbetare om aktuell informationssäkerhet<br>och kommunen)<br>lagstiftning sarbete. |
-|  | Kommunövergripande Utgår som<br>risk: Inköp (granskning 3. Kännbar gemensam<br>begränsas till belopp (uppfattas som granskning 2024.<br>över 100.000:-) 2. Mindre vanligt besvärande för Tas upp av<br>berörda intressenter nämnderna om det<br>och kommunen) är relevant för den<br>egna verksamheten |
-
 <!-- sida 64 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Intern kontrollplan 2024
 
 9
-
-[Tabell 64-1](handlingar.tabeller/64-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Det saknas en Finns ansvarig för<br>3. Kännbar<br>övergripande 1. Osannolik infosäkerhet och<br>(uppfattas som<br>riskanalys & ett (risken är dataskydd som<br>besvärande för<br>systematiskt praktiskt taget bevakar risken.<br>berörda intressenter<br>informationssäkerhets- obefintlig)<br>och kommunen)<br>arbete |
-| --- | --- |
-|  | Risk för bristande Arbetet ligger inom<br>3. Kännbar<br>informationssäkerhet ramen för ordinarie<br>(uppfattas som<br>på grund av misstag informationssäkerhet<br>2. Mindre vanligt besvärande för<br>eller okunskap hos sarbete och<br>berörda intressenter<br>medarbetare om aktuell dataskydd<br>och kommunen)<br>lagstiftning |
-|  | Risk för bristande vård Förbättringsåtgärder<br>och omsorg på grund sker som del av<br>av att ordinarie<br>verksamhetssystem systemförvaltningsar<br>och/eller digitala bete. Därtill sker<br>4. Allvarlig/stor<br>verktyg slutar att insatser med<br>2. Mindre vanligt inverkan (så stor att<br>fungera utgångspunkt från<br>den inte får inträffa)<br>informationssäkerhet<br>sarbetet och arbetet<br>med<br>informationsklassific<br>ering. |
-|  | Risk att förvaltningens Avtalsdiariet<br>avtal inte hanteras i används för<br>1. Osannolik 2. Lindrig (uppfattas<br>enlighet med hantering av avtal<br>(risken är som liten av berörda<br>dokumenthanteringspla vilket säkerställer<br>praktiskt taget intressenter och<br>nen samt korrekt hantering.<br>obefintlig) kommunen)<br>kommunövergripande<br>riktlinjer |
-|  | Kommunövergripande Risken adresseras<br>3. Kännbar<br>risk: inom ramen för<br>(uppfattas som<br>informationssäkerhet; förvaltningens<br>2. Mindre vanligt besvärande för<br>skydd av information systematiska<br>berörda intressenter<br>mot obehörig tillgång informationssäkerhet<br>och kommunen)<br>sarbete. |
-| Verksamhet | Risk att 3. Kännbar Service ansvarar<br>brandutrustning inte (uppfattas som<br>kontrolleras 2. Mindre vanligt besvärande för<br>berörda intressenter<br>och kommunen) |
-|  | Risk att Läggs till i<br>utrymningsrutin för egenkontroll för<br>4. Allvarlig/stor<br>personal och boende systematisk<br>2. Mindre vanligt inverkan (så stor att<br>inte är känd i brandskyddsarbete<br>den inte får inträffa)<br>verksamheten för vård-<br>och omsorgsboenden |
 
 <!-- sida 65 -->
 
@@ -2485,17 +2572,6 @@ Intern kontrollplan 2024
 
 10
 
-[Tabell 65-1](handlingar.tabeller/65-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk att Läggs till i<br>utrymningsrutin för egenkontroll för<br>personal inte är känd systematisk<br>i verksamheten för 4. Allvarlig/stor brandskyddsarbete<br>övriga lokaler 2. Mindre vanligt inverkan (så stor att<br>(exklusive vård- och den inte får inträffa)<br>omsorgsboenden)<br>utifrån<br>arbetsgivaransvar |
-| --- | --- |
-|  | Risk att processen Arbetssättet och<br>ansökan-beslut- processen ansökan-<br>verkställighet inte följs 3. Kännbar beslut-verkställighet<br>1. Osannolik<br>(uppfattas som är välfungerande.<br>(risken är<br>besvärande för Inga indikationer på<br>praktiskt taget<br>berörda intressenter brister har<br>obefintlig)<br>och kommunen) framkommit under<br>senaste<br>internkontrollerna. |
-|  | Risk att Andel aktuella<br>genomförandeplan ej 3. Kännbar genomförandeplaner<br>upprättas korrekt (uppfattas som mäts inom ramen för<br>2. Mindre vanligt besvärande för måluppföljning<br>berörda intressenter (nämndsmål) och<br>och kommunen) kvalitet följ upp i<br>egenkontrollen. |
-|  | Risk för vårdskada p ga Antal händelser där<br>brister i hälso- och orsak är brist i<br>1. Försumbar<br>sjukvårdsdokumentatio dokumentation under<br>(obetydlig för<br>nen. 2. Mindre vanligt 2023 var 32 stycken<br>berörda intressenter<br>för alla vård-och<br>och kommunen)<br>omsorgstagare i<br>kommunen |
-|  | Risk att inte kunderna Rutin har upprättats.<br>får någon vård eller 3. Kännbar<br>omsorg i samband med (uppfattas som<br>konkurs eller 2. Mindre vanligt besvärande för<br>uppsägning av avtal berörda intressenter<br>med extern och kommunen)<br>hemtjänstutförare. |
-|  | Risk för vårdskada 95 % av händelser<br>kopplat till kopplat till<br>1. Försumbar<br>läkemedelshantering läkemedelshantering<br>(obetydlig för<br>2. Mindre vanligt under 2023 har gett<br>berörda intressenter<br>ingen till mindre<br>och kommunen)<br>konsekvens för<br>patienten. |
-|  | Risk för bristande vård Risk bevakas och<br>och omsorg på grund följs upp i<br>2. Lindrig (uppfattas<br>av att rutiner, riktlinjer verksamheterna<br>som liten av berörda<br>och ordinationer inte 2. Mindre vanligt systematiska<br>intressenter och<br>efterlevs i önskad kvalitetsarbete och<br>kommunen)<br>omfattning rapporteras i<br>kvalitetsberättelse |
-
 <!-- sida 66 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
@@ -2503,29 +2579,12 @@ Intern kontrollplan 2024
 
 11
 
-[Tabell 66-1](handlingar.tabeller/66-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk för brister i Risk bevakas och<br>dokumentationsskyldig 3. Kännbar följs upp i<br>heten socialtjänst (uppfattas som verksamheterna<br>3. Vanligt besvärande för systematiska<br>berörda intressenter kvalitetsarbete och<br>och kommunen) rapporteras i<br>kvalitetsberättelse |
-| --- | --- |
-|  | Brister i analog och Digital och analog<br>1. Osannolik 2. Lindrig (uppfattas<br>digital posthantering. myndighetslåda<br>(risken är som liten av berörda<br>bevakas och<br>praktiskt taget intressenter och<br>hanteras varje<br>obefintlig) kommunen)<br>veckodag. |
-|  | Risk för bristande vård Beslut att samtliga<br>och omsorg vid vård- våbo ska ha<br>4. Allvarlig/stor<br>och omsorgsboenden stationär reservkraft<br>2. Mindre vanligt inverkan (så stor att<br>på grund av att det år 2028 togs i KF juni<br>den inte får inträffa)<br>saknas reservkraft vid 2023<br>el-avbrott |
-|  | Risk för vårdskada vid Utredning pågår för<br>vård- och att hitta lösning. Nya<br>4. Allvarlig/stor<br>omsorgsboenden på boendet byggs med<br>2. Mindre vanligt inverkan (så stor att<br>grund av att det saknas komfortkyla.<br>den inte får inträffa)<br>komfortkyla vid höga<br>temperaturer |
-|  | Risk för att enskildas Andel aktuella<br>genomförandeplaner 3. Kännbar genomförandeplaner<br>inte är aktuella på (uppfattas som mäts inom ramen för<br>grund av hur tid och 2. Mindre vanligt besvärande för måluppföljning<br>resurser prioriteras berörda intressenter (nämndsmål) och<br>och kommunen) kvalitet följ upp i<br>egenkontrollen. |
-|  | Risk för bristande vård Tas ej med till plan<br>och omsorg av enskilda 1. Osannolik 1. Försumbar då Oral care är<br>på grund av att (risken är (obetydlig för utförare och<br>munhälsobedömningar praktiskt taget berörda intressenter nämnden ej kan<br>inte genomförs i obefintlig) och kommunen) vidta åtgärder i ett<br>önskad omfattning företag. |
-|  | Risk för bristande vård Resultat från DF<br>och omsorg vid vård i respons visar att det<br>livets slut på grund av finns mycket få<br>att händelser där patient<br>validerad/strukturerad farit illa kopplat till<br>smärtskattning inte smärta vid vård i<br>genomförs i önskad livets slut. Däremot<br>1. Osannolik 2. Lindrig (uppfattas<br>omfattning finns brister i<br>(risken är som liten av berörda<br>dokumentation och<br>praktiskt taget intressenter och<br>användning av<br>obefintlig) kommunen)<br>fastställda rutiner.<br>Resultat från<br>palliativa registret<br>arbetas vidare med i<br>palliativa gruppen<br>inom<br>hemsjukvården. |
-
 <!-- sida 67 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Intern kontrollplan 2024
 
 12
-
-[Tabell 67-1](handlingar.tabeller/67-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk för bristande vård Resultat från DF<br>och omsorg vid vård i respons visar att det<br>livets slut då det finns mycket få<br>saknas dokumenterad händelser där patient<br>munhälsobedömning farit illa kopplat till<br>smärta vid vård i<br>livets slut. Däremot<br>1. Osannolik 2. Lindrig (uppfattas<br>finns brister i<br>(risken är som liten av berörda<br>dokumentation och<br>praktiskt taget intressenter och<br>användning av<br>obefintlig) kommunen)<br>fastställda rutiner.<br>Resultat från<br>palliativa registret<br>arbetas vidare med i<br>palliativa gruppen<br>inom<br>hemsjukvården. |
-| --- | --- |
-|  | Risk för bristande vård Risk bevakas och<br>och omsorg på grund 3. Kännbar följs upp i<br>av avvikelser från (uppfattas som verksamheterna<br>dokumentationsskyldig 2. Mindre vanligt besvärande för systematiska<br>heten socialtjänst berörda intressenter kvalitetsarbete och<br>och kommunen) rapporteras i<br>kvalitetsberättelse |
 
 <!-- sida 68 -->
 
@@ -5657,33 +5716,32 @@ IVO bedömer att nämnden redovisning inte är tillräcklig inom följande områ
 | Översyn och förtydligande i rutin gällande<br>dokumentation av läkemedelsgenomgångar under Q1<br>2024. | Medicinskt ansvarig sjuksköterska ansvarar för revidering av<br>rutin under Q1 2024.<br>Uppföljning av medicinskt ansvarig sjuksköterska under Q2<br>2024 gällande hur förändring har kommunicerats ut,<br>exempelvis via APT eller veckobrev. |
 |  |  |
 
-[Tabell 138-2](handlingar.tabeller/138-2.csv)
+[Tabell 138-139-2](handlingar.tabeller/138-139-2.csv)
 
 | Dokumentation av brytpunktssamtal |  |
 | --- | --- |
 | Åtgärder som har vidtagits eller planeras? | Effektuppföljning. Hur och när följs åtgärder upp? Vem ansvarar? |
 | Följsamhet till hallandsövergripande rutin för<br>brytpunktssamtal. Sök - Vårdgivare<br>(regionhalland.se)<br>Dokumentation av sjuksköterska sker i ett<br>hälsoärende döpt till Vård i livets slut när | Egenkontroll via utdrag statistik från hälso- och sjukvårdsjournal i<br>januari 2024 påvisar att 155 unika SÄBO-patienter har dokumentation<br>på KVÅ QX006 palliativ vård under 2023.<br>Jämförelse för rimlighetsbedömning gjord med utdrag ut<br>palliativregistret som visar att 127 patienter avled på särskilt |
+| läkare bedömt patient palliativ. Detta enligt<br>rutin för dokumentation legitimerad personal.<br>Information i hälsoärendet ska vara samlad<br>och lättöverskådlig. Information i<br>hälsoärendet innefattar bland annat<br>brytpunktssamtal, trygghetsordinationer och<br>beslut om Ej HLR. | boende/vård- och omsorgsboende/LSS under 2023.<br>Uppföljning via mätning av antal dokumentation palliativ vård Q4 2024<br>utförs av medicinskt ansvarig sjuksköterska. |
+| Kollegial journalgranskning utförs Q2 2024<br>med bland annat fokus hälsoärende Vård i<br>livets slut. | Granskning av hälso- och sjukvårdvårdsjournal utförs av utsedda<br>medarbetare under Q2 2024. Resultatet sammanställs av medicinskt<br>ansvarig för rehabilitering och medicinskt ansvarig sjuksköterska.<br>Resultatet används av verksamheten i det systematiska kvalitetsarbetet.<br>Resultatet rapporteras i patientsäkerhetsberättelsen. |
+| Översyn av rutin gällande dokumentation av<br>brytpunktssamtal och vård i livets slut utifrån<br>resultat från journalgranskning Q2 2024.<br>Justering och förtydligande i rutin sker utefter<br>behov. | Medicinskt ansvarig sjuksköterska ansvarar för genomförande under<br>Q2 2024. |
+|  |  |
 
 <!-- sida 139 -->
 
 KUNGSBACKA  KOMMUN
 3 (9)
 
-[Tabell 139-1](handlingar.tabeller/139-1.csv)
-
-| läkare bedömt patient palliativ. Detta enligt<br>rutin för dokumentation legitimerad personal.<br>Information i hälsoärendet ska vara samlad<br>och lättöverskådlig. Information i<br>hälsoärendet innefattar bland annat<br>brytpunktssamtal, trygghetsordinationer och<br>beslut om Ej HLR. | boende/vård- och omsorgsboende/LSS under 2023.<br>Uppföljning via mätning av antal dokumentation palliativ vård Q4 2024<br>utförs av medicinskt ansvarig sjuksköterska. |
-| --- | --- |
-| Kollegial journalgranskning utförs Q2 2024<br>med bland annat fokus hälsoärende Vård i<br>livets slut. | Granskning av hälso- och sjukvårdvårdsjournal utförs av utsedda<br>medarbetare under Q2 2024. Resultatet sammanställs av medicinskt<br>ansvarig för rehabilitering och medicinskt ansvarig sjuksköterska.<br>Resultatet används av verksamheten i det systematiska kvalitetsarbetet.<br>Resultatet rapporteras i patientsäkerhetsberättelsen. |
-| Översyn av rutin gällande dokumentation av<br>brytpunktssamtal och vård i livets slut utifrån<br>resultat från journalgranskning Q2 2024.<br>Justering och förtydligande i rutin sker utefter<br>behov. | Medicinskt ansvarig sjuksköterska ansvarar för genomförande under<br>Q2 2024. |
-|  |  |
-
-[Tabell 139-2](handlingar.tabeller/139-2.csv)
+[Tabell 139-140-1](handlingar.tabeller/139-140-1.csv)
 
 | Att sjuksköterska påbörjar palliativ läkemedelsbehandling vid vård i livets<br>slutskede utan förnyad kontakt med läkare |  |
 | --- | --- |
 | Åtgärder som har vidtagits eller planeras? | Effektuppföljning. Hur och när följs åtgärder upp? Vem<br>ansvarar? |
 | Samverkan mellan chefsläkare region Halland och<br>Mas har skett gällande denna fråga Q4 2023.<br>Riktlinje för vård i livets slut har förtydligats av<br>medicinskt ansvarig sjuksköterska Q4 2023<br>gällande kontakt med ansvarig läkare inför påbörja<br>palliativ läkemedelsbehandling om patientens<br>hälsotillstånd har förändrats i väsentlig grad eller<br>om förskriven läkemedelsordination är äldre än 14<br>dagar. | Uppföljning kommer att ske via granskning av journal.<br>Medicinskt ansvarig sjuksköterska kommer i Q4 2024 att granska<br>att palliativa läkemedel har givits i enlighet med reviderad<br>riktlinje och att läkarkontakt har tagits om ordination är äldre än<br>14 dagar. Resultatet återkopplas till verksamheten som en del i<br>det systematiska kvalitetsarbetet. |
 |  |  |
+| Kontinuitet |  |
+| Åtgärder som har vidtagits eller planeras? | Effektuppföljning. Hur och när följs åtgärder upp? Vem<br>ansvarar? |
+| Q1 2023 genomfördes en omorganisation där<br>verksamheten omorganiserades till fem<br>tvärfunktionella distrikt.<br>Under 2023 har bemanningen av sjuksköterskor<br>setts över och ett eget resursteam har anställts.<br>Användningen av bemanningssjuksköterskor har<br>minskats till enstaka ströpass.<br>Rekrytering av sjuksköterskor har skett under 2023<br>och de 16 sjuksköterske-vakanser som fanns i mars<br>2023 är nu Q1 2024 tillsatta.<br>Resursteam för omsorgspersonal finns i distrikt<br>Söder och rekrytering pågår för ett liknande i<br>distrikt Norr. Fem omsorgspersonal ingår i<br>resursteam Söder och arbetar som resurser inom<br>distriktet utifrån behov på vård- och omsorgsboende<br>och hemtjänst, vilket medför färre timvikarier och<br>en ökad kontinuitet för patient. | Minskning av bemanningssjuksköterskor och timvikarier bidrar<br>till en ökad kontinuitet hos patient.<br>Daglig bemanning hanteras av chef med stöd av<br>koordinator/samordnare. Effekt utvärderas av ansvarig<br>enhetschef.<br>Under 2023 var personalomsättningen 27,06% för sjuksköterskor<br>och 14,84% hos undersköterskor på vård- och omsorgsboende.<br>Personalomsättning följs upp varje i delår och helår i<br>förvaltningen. Uppföljning av effekt av åtgärder sker genom<br>mätning av personalomsättning Q3 2024. |
 
 <!-- sida 140 -->
 
@@ -5705,19 +5763,12 @@ utifrån de åtgärder som vidtagits avseende:
 \- att sjuksköterska påbörjar palliativ läkemedelsbehandling vid vård i livets slutskede utan förnyad
 kontakt med läkare
 
-[Tabell 140-1](handlingar.tabeller/140-1.csv)
-
-| Kontinuitet |  |
-| --- | --- |
-| Åtgärder som har vidtagits eller planeras? | Effektuppföljning. Hur och när följs åtgärder upp? Vem<br>ansvarar? |
-| Q1 2023 genomfördes en omorganisation där<br>verksamheten omorganiserades till fem<br>tvärfunktionella distrikt.<br>Under 2023 har bemanningen av sjuksköterskor<br>setts över och ett eget resursteam har anställts.<br>Användningen av bemanningssjuksköterskor har<br>minskats till enstaka ströpass.<br>Rekrytering av sjuksköterskor har skett under 2023<br>och de 16 sjuksköterske-vakanser som fanns i mars<br>2023 är nu Q1 2024 tillsatta.<br>Resursteam för omsorgspersonal finns i distrikt<br>Söder och rekrytering pågår för ett liknande i<br>distrikt Norr. Fem omsorgspersonal ingår i<br>resursteam Söder och arbetar som resurser inom<br>distriktet utifrån behov på vård- och omsorgsboende<br>och hemtjänst, vilket medför färre timvikarier och<br>en ökad kontinuitet för patient. | Minskning av bemanningssjuksköterskor och timvikarier bidrar<br>till en ökad kontinuitet hos patient.<br>Daglig bemanning hanteras av chef med stöd av<br>koordinator/samordnare. Effekt utvärderas av ansvarig<br>enhetschef.<br>Under 2023 var personalomsättningen 27,06% för sjuksköterskor<br>och 14,84% hos undersköterskor på vård- och omsorgsboende.<br>Personalomsättning följs upp varje i delår och helår i<br>förvaltningen. Uppföljning av effekt av åtgärder sker genom<br>mätning av personalomsättning Q3 2024. |
-
 <!-- sida 141 -->
 
 KUNGSBACKA  KOMMUN
 5 (9)
 
-[Tabell 141-1](handlingar.tabeller/141-1.csv)
+[Tabell 141-145-1](handlingar.tabeller/141-145-1.csv)
 
 | Omsorgspersonalens kompetens |  |
 | --- | --- |
@@ -5725,16 +5776,7 @@ KUNGSBACKA  KOMMUN
 | På SÄBO för äldre är i Kungsbacka 84-<br>88% (2023) av den tillsvidareanställda<br>omsorgspersonalen utbildad<br>undersköterska.<br>Nämnden har hög andel fastanställda<br>undersköterskor på säbo. Den skyddade<br>yrkestiteln innebär att omsorgspersonalen<br>har viss utbildning eller fått motsvarande<br>kompetens på något annat vis. Hög andel<br>utbildade undersköterskor bidrar till en<br>högre patientsäkerhet. | I årlig enkät för egenkontroll följs omsorgspersonalens kompetens<br>upp. I den egenkontroll som utfördes Q2 2023 svarar 95,5 % av<br>enheterna att det på enheten finns personal med rätt kompentens att<br>kunna ta emot och utföra ordinerade hälso- och sjukvårdsinsatser<br>alla tider på dygnet.<br>I egenkontroll utförd Q2 2023 svarar 91,3 % av enheterna att all<br>personal har kännedom om riktlinje för kontakt med hälso- och<br>sjukvårdspersonal.<br>Uppföljning sker i ny egenkontroll Q2 2024, enhetschef ansvarar<br>för att med stöd av verksamhetsutvecklare vidta åtgärder utifrån<br>resultat.<br>Brister hanteras via verktyg för händelserapportering där utredning<br>sker och åtgärder vid behov vidtas. Händelser med vårdskada eller<br>risk för vårdskada utreds kontinuerligt av enhetschef som en del i<br>det systematiska kvalitetsarbetet och vid allvarlig vårdskada eller<br>risk för allvarlig vårdskada av medicinskt ansvarig för<br>rehabilitering samt medicinskt ansvarig sjuksköterska. Brister i<br>verksamheten rapporteras och följs upp i<br>patientsäkerhetsberättelsen. |
 | Nyanställd omsorgspersonal får en<br>introduktion med ett digitalt<br>utbildningspaket innefattande omsorg och<br>hälso- och sjukvård. | Medarbetare på förvaltningsledningskontoret ansvarar för<br>utbildningsmaterialet och enhetschef ansvarar för att medarbetare<br>genomgår utbildningen.<br>Uppföljning av introduktionen sker kontinuerligt och revideringar<br>sker vid behov. Inför sommaren 2024 kommer<br>vikarieintroduktionen ses över av ansvarig utvecklingsledare.<br>Uppföljning av att nyanställd omsorgspersonal har genomgått<br>introduktionsutbildning kommer att följas upp i egenkontrollsenkät<br>Q2 2024. |
 | Vård & Omsorg i Kungsbacka har under<br>2023 infört Göteborgsregionens<br>karriärvägsmodell, beståendes av fyra<br>titulaturer gällande vård- och<br>omsorgspersonal: biträde, vårdbiträde,<br>undersköterska och<br>specialistundersköterska. Införandet av en<br>karriärvägsmodell bidrar till arbetet med<br>personalförsörjningen. | Sedan äldreomsorgslyftets start har 77 medarbetare vidareutbildat<br>sig till undersköterska på betald arbetstid inom ramen för<br>äldreomsorgslyftet och ytterligare 20 medarbetare beräknas bli<br>klara under 2024 då en ny utbildningsomgång startade under 2023.<br>Vidare studerar 14 medarbetare vidare till specialistundersköterska<br>på betald arbetstid. Under hösten 2023 kom beskedet att regeringen<br>avser förlänga Äldreomsorgslyftet och förvaltningen har därefter<br>förberett för cirka 65 medarbetare att utbilda sig på arbetstid till<br>framför allt vårdbiträde och undersköterska med start under första<br>kvartalet 2024. Uppföljning sker av utvecklingsledare<br>kompetensförsörjning. |
-
-<!-- sida 142 -->
-
-KUNGSBACKA  KOMMUN
-6 (9)
-
-[Tabell 142-1](handlingar.tabeller/142-1.csv)
-
 | Under Q1-Q2 2024 skapas ett årshjul för<br>upprätthållandet av kompetens hos<br>omsorgspersonal. Årshjulet består av<br>korta repetitionsfilmer som enhetschefer<br>kommer att gå igenom tillsammans med<br>personal. | Uppföljning kommer att ske i form av en FORMS-enkät Q4 2024<br>året till cheferna om deras upplevelse av årshjulet och deras tankar<br>om förbättringar. 4:2-grupp ansvarar för enkät samt vidtar åtgärder<br>utifrån resultat. |
-| --- | --- |
 | Kartläggning gällande kompetenshöjande<br>insatser utfördes 2023. Under Q1 2024<br>rekryteras utbildningsteam.<br>Utbildningsteamet kommer bland annat<br>att utbilda omsorgspersonal inom<br>bedömningar instruerade insatser och<br>palliativ vård. | Effekt följs upp av projektansvarig via mätning av antal<br>genomförda utbildningar, antal personer som medverkat på<br>utbildningarna och medarbetares upplevda kvalitet/trygghet/effekt<br>av genomgången utbildning. Projektet kommer även att följa upp<br>antal rapporterade händelser där orsak till händelse är bristande<br>kompetens. |
 |  |  |
 | Brist: Omsorgspersonals brister i svenska språket |  |
@@ -5742,16 +5784,7 @@ KUNGSBACKA  KOMMUN
 | Vid rekrytering av omsorgspersonal utför<br>rekryterare ett språktest som en del i<br>rekryteringsprocessen vid anställning. | Vid underkänt språktest anställs inte personen. För möjlighet till<br>anställning måste språktest vara godkänt. Rekryterare utför<br>åtgärden vid varje rekryteringstillfälle. |
 | Utbildning av språkombud. Språkombud<br>är medarbetare med uppdrag att stödja<br>kollegor när det gäller språkutveckling<br>och medvetandegöra hur språket används.<br>De har i uppdrag att skapa en<br>inkluderande och tillåtande kultur<br>gällande språk på arbetsplatsen. I<br>uppdraget ingår hur språket används vid<br>dokumentation, telefonsamtal,<br>rapportering och hur vi kan säkerställa att<br>information har uppmärksammats korrekt<br>av alla i arbetsgruppen.<br>Utbildning språkombud genomfördes<br>under 2023, totalt 14 medarbetare. Under<br>hösten 2024 planeras ny utbildning. | Antalet utbildade språkombud följs upp efter avslutad kurs sker av<br>enhetschef på utvecklingsenheten.<br>Metodutvecklare följer upp språkombuden via nätverksträffar två<br>gånger per år och där lyfts bland annat goda exempel kring arbetet. |
 |  |  |
-
-<!-- sida 143 -->
-
-KUNGSBACKA  KOMMUN
-7 (9)
-
-[Tabell 143-1](handlingar.tabeller/143-1.csv)
-
 | Sjuksköterskans förutsättningar bedöma patientens hälsotillstånd<br>/handleda omsorgspersonal |  |
-| --- | --- |
 | Åtgärder som har vidtagits eller<br>planeras? | Effektuppföljning. Hur och när följs åtgärder upp? Vem<br>ansvarar? |
 | Under 2024 påbörjas ett arbete gällande<br>Minskad administrationstid för<br>sjuksköterskor. Syftet är att skapa mer<br>patientnära tid för sjuksköterskan. | Mätning av administrativ tid kommer att ske under Q1 2024.<br>Utifrån mätningen kommer en handlingsplan att skapas med<br>åtgärder som prioriteras utefter en prioriteringsmatris.<br>Effekten följs upp av enhetschef på utvecklingsenheten. |
 | Under Q1 2024 anställs ett<br>utbildningsteam. Teamet kommer bland<br>annat utbilda omsorgspersonal gällande<br>mäta vitalparametrar och bedömning. | Ökad kompetens gällande mäta vitalparametrar samt<br>överrapportering vid sviktande hälsa underlättar för sjuksköterskan<br>samt ger ökad förutsättning att bedöma hälsotillstånd hos patient.<br>Effekten följs upp av projektansvarig via mätning av antal<br>genomförda utbildningar, antal personer som medverkat på<br>utbildningarna och medarbetares upplevda kvalitet/trygghet/effekt<br>av genomgången utbildning. Projektet kommer även att följa upp<br>antal rapporterade händelser där orsak till händelse är bristande<br>kompetens. |
@@ -5762,22 +5795,33 @@ KUNGSBACKA  KOMMUN
 |  |  |
 | Dokumentation |  |
 | Åtgärder som har vidtagits eller<br>planeras? | Effektuppföljning. Hur och när följs åtgärder upp? Vem<br>ansvarar? |
-
-<!-- sida 144 -->
-
-KUNGSBACKA  KOMMUN
-8 (9)
-
-[Tabell 144-1](handlingar.tabeller/144-1.csv)
-
 | Granskning av hälso-och<br>sjukvårdsdokumentation utfördes 2021 av<br>sjuksköterskor på uppdrag av MAS och<br>MAR.<br>Uppföljning planeras genom ny<br>journalgranskning våren 2024.<br>Kungsbacka kommun dokumenterar<br>vårdplaner utifrån patienternas specifika<br>omvårdnads-/rehabiliteringsbehov. Dessa<br>benämns som hälsoärenden i stället för<br>vårdplan. Planeringen görs tillsammans<br>med patienten och/eller anhörig och i<br>hälsoärendet beskrivs patientens problem,<br>insatser, mål, vilka åtgärder som ska<br>utföras, vem som utför dessa och när<br>planen ska följas upp. och<br>dokumentationen finns tillgänglig för all<br>legitimerad personal. | Dokumentation följs upp via journalgranskning vart annat år.<br>Kollegial journalgranskning sker av utsedd legitimerad personal<br>och granskningen sammanställs av medicinskt ansvarig för<br>rehabilitering samt medicinskt ansvarig sjuksköterska. Åtgärder<br>vidtas i verksamheten utifrån resultat i granskning.<br>Resultat av journalgranskningen 2021 visade på en avsevärd<br>förbättring där 98% av journalerna bedömdes ge en överblick I hög<br>grad ” och ” I ganska hög grad” gällande överblick över<br>hälsoärendena.<br>Journalgranskningen 2021 visade också att 100 % av de granskade<br>journalerna, om man summerar” I hög grad ” och ” I ganska hög<br>grad”, hade information dokumenterad på korrekt ställe i journalen. |
-| --- | --- |
 | Q2 2023 togs en utbildningsfilm fram av<br>metodutvecklare och är ett komplement<br>till de manualer och utbildningar som<br>redan finns. Filmen används som en<br>introduktion i systemet vid nyrekrytering<br>och finns tillgänglig vid behov av<br>kunskapsstärkning. | Effekten följs upp genom journalgranskning Q2 2024.<br>Upplevd effekt är också en trygghet hos nyanställda då de vid<br>behov kan se filmen fler gånger vid behov. |
 | För hälso- och sjukvårdsåtgärder som<br>utförs av omsorgspersonal så har<br>omsorgspersonal läs- och<br>dokumentationsbehörighet. Tillgång finns<br>också sedan 2022 via en app i<br>mobiltelefonen vilket ökar<br>omsorgspersonals tillgänglighet till<br>dokumentationen. | Genomförd egenkontroll Q2 2023 påvisar att 95,7% är pålästa på<br>den enskildes behov av aktuella insatser inom hälso- och<br>sjukvården helt eller till stor del.<br>Enligt egenkontrollen som genomfördes Q2 2023 så har 95,7% har<br>kunskap om hur de ska dokumentera i aktuella verksamhetssystem<br>helt eller till stor del.<br>Uppföljning sker i ny egenkontroll Q2 2024, enhetschef ansvarar<br>för att med stöd av verksamhetsutvecklare vidta åtgärder utifrån<br>resultat. |
 |  |  |
 | Delegering |  |
 | Åtgärder som har vidtagits eller<br>planeras? | Effektuppföljning. Hur och när följs åtgärder upp? Vem<br>ansvarar? |
 | Kartläggning gällande kompetenshöjande<br>insatser utfördes 2023. Under Q1 2024<br>rekryteras utbildningsteam. | Effekt följs upp kvartalsvis av projektansvarig via mätning av antal<br>genomförda utbildningar och antal personer som medverkat på<br>utbildningarna. En FORMS-enkät skickas Q4 2024 till<br>enhetschefer, omsorgspersonal och sjuksköterskor gällande |
+| Utbildningsteamet kommer bland annat<br>att hålla utbildningar inför delegering.<br>Genom att ett fåtal sjuksköterskor håller i<br>utbildning inför delegering och de har i<br>sitt uppdrag att hålla sig uppdaterade<br>gällande senaste rekommendationerna<br>kring arbetssättet så ökar kvaliteten på<br>given utbildning inför delegeringen. | upplevelsen av utbildning och delegeringsprocess då<br>utbildningsteam ansvara för del av den. |
+| Riktlinje för delegering är känd i<br>verksamheten och följs av legitimerad<br>personal. | Genomförd egenkontroll Q2 2023 påvisar att 100% av legitimerad<br>personal följer upp delegering regelbundet helt eller till stor del.<br>Egenkontroll Q2 2023 påvisar att 100% återkallar en delegering vid<br>behov helt eller till stor del.<br>Egenkontroll Q2 2023 påvisar att 100% upprättar och signerar<br>delegeringsbeslut i digitalt verktyg helt eller till stor del.<br>Uppföljning sker i ny egenkontroll Q2 2024, enhetschef ansvarar<br>för att med stöd av verksamhetsutvecklare vidta åtgärder utifrån<br>resultat. |
+|  |  |
+| Effektmätning för ämnesområden Kontinuitet, Läkemedelsgenomgång och Palliativ läkemedelsbehandling, se<br>kompletteringar sida 2–4. |  |
+|  |  |
+
+<!-- sida 142 -->
+
+KUNGSBACKA  KOMMUN
+6 (9)
+
+<!-- sida 143 -->
+
+KUNGSBACKA  KOMMUN
+7 (9)
+
+<!-- sida 144 -->
+
+KUNGSBACKA  KOMMUN
+8 (9)
 
 <!-- sida 145 -->
 
@@ -5788,15 +5832,6 @@ Namn och funktion på uppgiftslämnare
 Arian Faily, Förvaltningschef
 Ann-Helen Svensson, Verksamhetschef enligt HSL 4 kap 2§
 Lotta Kjellner, Medicinskt ansvarig sjuksköterska
-
-[Tabell 145-1](handlingar.tabeller/145-1.csv)
-
-| Utbildningsteamet kommer bland annat<br>att hålla utbildningar inför delegering.<br>Genom att ett fåtal sjuksköterskor håller i<br>utbildning inför delegering och de har i<br>sitt uppdrag att hålla sig uppdaterade<br>gällande senaste rekommendationerna<br>kring arbetssättet så ökar kvaliteten på<br>given utbildning inför delegeringen. | upplevelsen av utbildning och delegeringsprocess då<br>utbildningsteam ansvara för del av den. |
-| --- | --- |
-| Riktlinje för delegering är känd i<br>verksamheten och följs av legitimerad<br>personal. | Genomförd egenkontroll Q2 2023 påvisar att 100% av legitimerad<br>personal följer upp delegering regelbundet helt eller till stor del.<br>Egenkontroll Q2 2023 påvisar att 100% återkallar en delegering vid<br>behov helt eller till stor del.<br>Egenkontroll Q2 2023 påvisar att 100% upprättar och signerar<br>delegeringsbeslut i digitalt verktyg helt eller till stor del.<br>Uppföljning sker i ny egenkontroll Q2 2024, enhetschef ansvarar<br>för att med stöd av verksamhetsutvecklare vidta åtgärder utifrån<br>resultat. |
-|  |  |
-| Effektmätning för ämnesområden Kontinuitet, Läkemedelsgenomgång och Palliativ läkemedelsbehandling, se<br>kompletteringar sida 2–4. |  |
-|  |  |
 
 <!-- sida 146 -->
 
@@ -8027,7 +8062,7 @@ Beslut enligt lex Sarah november 2022 till och med oktober 2023.
 
 Kungsbacka kommun    Kvalitetsberättelse helår Vård och omsorg 22
 
-[Tabell 193-1](handlingar.tabeller/193-1.csv)
+[Tabell 193-196-1](handlingar.tabeller/193-196-1.csv)
 
 | ID | Verksamhet | Typ av händelse | Beslut[1] |
 | --- | --- | --- | --- |
@@ -8046,15 +8081,7 @@ Kungsbacka kommun    Kvalitetsberättelse helår Vård och omsorg 22
 | 50634 | VÅBO | Fall | Händelsen utgör inte ett missförhållande eller<br>risk för missförhållande |
 | 50587 | VÅBO | Insats omsorg | Händelsen utgör inte ett missförhållande eller<br>risk för missförhållande |
 | 50571 | Hemtjänst | Insats omsorg | Händelsen utgör inte ett missförhållande eller<br>risk för missförhållande |
-
-<!-- sida 194 -->
-
-Kungsbacka kommun    Kvalitetsberättelse helår Vård och omsorg 23
-
-[Tabell 194-1](handlingar.tabeller/194-1.csv)
-
 | 50292 | Annan<br>vårdgivare/<br>utförare | Information, kommunikation<br>och samverkan | Händelsen utgör inte ett missförhållande eller<br>risk för missförhållande |
-| --- | --- | --- | --- |
 | 50282 | VÅBO | Insats omsorg ; Professionellt<br>bemötande | Händelsen utgör inte ett missförhållande eller<br>risk för missförhållande |
 | 50246 | VÅBO | Digitala system och teknisk<br>miljö | Händelsen utgör inte ett missförhållande eller<br>risk för missförhållande |
 | 50245 | VÅBO | Digitala system och teknisk<br>miljö | Händelsen utgör inte ett missförhållande eller<br>risk för missförhållande |
@@ -8072,15 +8099,7 @@ Kungsbacka kommun    Kvalitetsberättelse helår Vård och omsorg 23
 | 47343 | VÅBO | Insats service | Händelsen utgör inte ett missförhållande eller<br>risk för missförhållande |
 | 47329 | VÅBO | Information, kommunikation<br>och samverkan | Händelsen utgör inte ett missförhållande eller<br>risk för missförhållande |
 | 47327 | Hemtjänst | Fall | Händelsen utgör inte ett missförhållande eller<br>risk för missförhållande |
-
-<!-- sida 195 -->
-
-Kungsbacka kommun    Kvalitetsberättelse helår Vård och omsorg 24
-
-[Tabell 195-1](handlingar.tabeller/195-1.csv)
-
 | 47188 | Hemtjänst | Insats omsorg | En påtaglig risk för ett missförhållande enligt<br>14 kap § 6 eller 24 e § LSS har förelegat |
-| --- | --- | --- | --- |
 | 47006 | VÅBO | Fall; Insats omsorg | Händelsen utgör inte ett missförhållande eller<br>risk för missförhållande |
 | 46769 | VÅBO | Hjälpmedel | Händelsen utgör inte ett missförhållande eller<br>risk för missförhållande |
 | 46538 | VÅBO | Professionellt bemötande | Händelsen utgör inte ett missförhållande eller<br>risk för missförhållande |
@@ -8098,18 +8117,7 @@ Kungsbacka kommun    Kvalitetsberättelse helår Vård och omsorg 24
 | 44476 | Hemtjänst | Annan händelse | Händelsen utgör inte ett missförhållande eller<br>risk för missförhållande |
 | 43729 | VÅBO | Annan händelse | En påtaglig risk för ett missförhållande enligt<br>14 kap § 6 eller 24 e § LSS har förelegat |
 | 43728 | VÅBO | Insats omsorg | Händelsen utgör inte ett missförhållande eller<br>risk för missförhållande |
-
-<!-- sida 196 -->
-
-[1] Vissa av händelserna som rubricerats ”utgör inte ett missförhållande, eller risk för missförhållande” omfattas av inte av
-bestämmelserna enligt lex Sarah och har spårändrats till hantering inom hälso- och sjukvård.
-
-Kungsbacka kommun    Kvalitetsberättelse helår Vård och omsorg 25
-
-[Tabell 196-1](handlingar.tabeller/196-1.csv)
-
 | 43521 | Hemtjänst | Information, kommunikation<br>och samverkan | Händelsen utgör inte ett missförhållande eller<br>risk för missförhållande |
-| --- | --- | --- | --- |
 | 43440 | VÅBO | Fall | Ett missförhållande enligt 14 kap § 6 SoL eller<br>24 e § LSS har förelegat |
 | 43393 | Hemtjänst | Fall | Händelsen utgör inte ett missförhållande eller<br>risk för missförhållande |
 | 42938 | Annan<br>vårdgivare/<br>utförare | Vård och behandling (HSL) | Händelsen utgör inte ett missförhållande eller<br>risk för missförhållande |
@@ -8118,6 +8126,21 @@ Kungsbacka kommun    Kvalitetsberättelse helår Vård och omsorg 25
 | 37921 | Hemtjänst | Brist i/utebliven insats/stöd | Händelsen utgör inte ett missförhållande eller<br>risk för missförhållande |
 | 33078 | VÅBO | Vård och behandling (HSL) | Händelsen utgör inte ett missförhållande eller<br>risk för missförhållande |
 | 11609 | Annan<br>vårdgivare/<br>utförare | Utebliven/bristfällig<br>vårdplanering | Händelsen utgör inte ett missförhållande eller<br>risk för missförhållande |
+
+<!-- sida 194 -->
+
+Kungsbacka kommun    Kvalitetsberättelse helår Vård och omsorg 23
+
+<!-- sida 195 -->
+
+Kungsbacka kommun    Kvalitetsberättelse helår Vård och omsorg 24
+
+<!-- sida 196 -->
+
+[1] Vissa av händelserna som rubricerats ”utgör inte ett missförhållande, eller risk för missförhållande” omfattas av inte av
+bestämmelserna enligt lex Sarah och har spårändrats till hantering inom hälso- och sjukvård.
+
+Kungsbacka kommun    Kvalitetsberättelse helår Vård och omsorg 25
 
 <!-- sida 197 -->
 
@@ -10288,7 +10311,7 @@ kommunen som covid så kan man ha en kommungemensam redovisning.
 
 Vård & Omsorg, Beredskapsplan Vård & Omsorg               23(25)
 
-[Tabell 245-1](handlingar.tabeller/245-1.csv)
+[Tabell 245-246-1](handlingar.tabeller/245-246-1.csv)
 
 | Förkortningar | Definitioner |
 | --- | --- |
@@ -10307,6 +10330,15 @@ Vård & Omsorg, Beredskapsplan Vård & Omsorg               23(25)
 | Militärt försvar | Består av Försvarsmakten som försvarar vårt<br>territorium och våra gränser. |
 | MSB | Myndigheten för samhällsskydd och beredskap |
 | Pandemi | En pandemi är när en infektionssjukdom sprids över<br>stora delar av världen och drabbar en stor del av<br>befolkningen i varje land. |
+| POSOM | Psykosocialt omhändertagande. |
+| Risk | Ett mått på de skadliga konsekvenserna samt<br>sannolikheten av att en händelse inträffar. |
+| Risk- och sårbarhetsanalys | Analys som beskriver hot, risker och sårbarheter inom<br>det egna verksamhetsområde. Samt att skapa ett<br>underlag för egen planering. |
+| Samhällsstörning | Händelse som är så omfattande eller allvarlig att<br>resurserna inom kommunen måste omorganiseras,<br>ledas och samordnas på ett särskilt sätt. |
+| SKR | Sveriges kommuner och regioner. |
+| Skärpt beredskap | Delar eller hela totalförsvaret mobiliseras. |
+| Tjänsteman i Beredskap (TIB) | Person i beredskap, dygnet runt, årets alla dagar,<br>som tar emot larm vid en samhällsstörning. |
+| Totalförsvar | Totalförsvar är all verksamhet som behövs för att<br>förbereda Sverige för krig och består av militärt<br>försvar och civilt försvar. |
+| VMA | Viktigt meddelande till allmänheten - Varningssystem. |
 
 <!-- sida 246 -->
 
@@ -10343,20 +10375,6 @@ Kontakt: Kungsbacka direkt 0300-83 40 00 http://(e-post borttagen)
 Kungsbacka kommun, 434 81 Kungsbacka http://kungsbacka.se
 
 Vård & Omsorg, Beredskapsplan Vård & Omsorg               24(25)
-
-[Tabell 246-1](handlingar.tabeller/246-1.csv)
-
-| Förkortningar | Definitioner |
-| --- | --- |
-| POSOM | Psykosocialt omhändertagande. |
-| Risk | Ett mått på de skadliga konsekvenserna samt<br>sannolikheten av att en händelse inträffar. |
-| Risk- och sårbarhetsanalys | Analys som beskriver hot, risker och sårbarheter inom<br>det egna verksamhetsområde. Samt att skapa ett<br>underlag för egen planering. |
-| Samhällsstörning | Händelse som är så omfattande eller allvarlig att<br>resurserna inom kommunen måste omorganiseras,<br>ledas och samordnas på ett särskilt sätt. |
-| SKR | Sveriges kommuner och regioner. |
-| Skärpt beredskap | Delar eller hela totalförsvaret mobiliseras. |
-| Tjänsteman i Beredskap (TIB) | Person i beredskap, dygnet runt, årets alla dagar,<br>som tar emot larm vid en samhällsstörning. |
-| Totalförsvar | Totalförsvar är all verksamhet som behövs för att<br>förbereda Sverige för krig och består av militärt<br>försvar och civilt försvar. |
-| VMA | Viktigt meddelande till allmänheten - Varningssystem. |
 
 <!-- sida 247 -->
 
@@ -12144,7 +12162,7 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 2023-08-29 | Särskilt boende | Återtag 2023-11-28 |
 | 2023-09-08 | Särskilt boende | Återtag 2023-12-19 |
 
-[Tabell 285-3](handlingar.tabeller/285-3.csv)
+[Tabell 285-286-3](handlingar.tabeller/285-286-3.csv)
 
 | Beslutsdatum | Insats | Datum för verkställighet, avslut |
 | --- | --- | --- |
@@ -12166,19 +12184,7 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 2023-06-27 | Särskilt boende | 2023-11-29 |
 | 2023-06-27 | Särskilt boende | Avliden |
 | 2023-06-26 | Växelvård | 2023-10-24 |
-
-<!-- sida 286 -->
-
-KUNGSBACKA  KOMMUN
-3 (3)
-
-Arian Faily                   Pia Berglund
-Förvaltningschef              Verksamhetschef Myndighet & Förebyggande
-
-[Tabell 286-1](handlingar.tabeller/286-1.csv)
-
 | 2023-06-28 | Särskilt boende | 2023-11-27 |
-| --- | --- | --- |
 | 2023-06-29 | Särskilt boende | 2023-12-04 |
 | 2023-07-05 | Särskilt boende | 2023-10-22 |
 | 2023-07-18 | Särskilt boende | 2023-10-25 |
@@ -12192,6 +12198,14 @@ Förvaltningschef              Verksamhetschef Myndighet & Förebyggande
 | 2023-08-30 | Särskilt boende | 2023-12-09 |
 | 2023-09-06 | Särskilt boende | 2023-12-27 |
 | 2023-09-26 | Särskilt boende | 2023-12-28 |
+
+<!-- sida 286 -->
+
+KUNGSBACKA  KOMMUN
+3 (3)
+
+Arian Faily                   Pia Berglund
+Förvaltningschef              Verksamhetschef Myndighet & Förebyggande
 
 <!-- sida 287 -->
 

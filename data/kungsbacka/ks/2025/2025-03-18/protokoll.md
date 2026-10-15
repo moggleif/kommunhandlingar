@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.187cc124195b269152a63900/1742798983
 sha256: e920349bf41c394170f77c8a4e4856c260b5a3d199a2792e1967ff10068a5ccf
 bytes: 642333
 sidor: 35
-hamtad: 2026-10-08T09:10:03+00:00
-konverterad: 2026-10-08T09:10:10+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:02:08+00:00
+konverterad: 2026-10-15T07:02:16+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1264,7 +1264,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: C6B9A95F986C8587A452AC21C3C99EC934AD64F336
 Transaktionsidentitet: 05CF59E515F7DF0F7E327DF8A229DC81CE72D3673F
 
-[Tabell 28-1](protokoll.tabeller/28-1.csv)
+[Tabell 28-29-1](protokoll.tabeller/28-29-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -1275,27 +1275,7 @@ Transaktionsidentitet: 05CF59E515F7DF0F7E327DF8A229DC81CE72D3673F
 | Samhällsplanerare | Yttrande över Vattenfall AB:s remiss avseende<br>avgränsningssamrådet för ny kärnkraft på<br>Väröhalvön |
 | Exploateringshandläggare | Servitutsavtal - Förlanda-Högen 1:7 - Teleledningar |
 | Exploateringshandläggare | Servitutsavtal Gällinge 1:16 - Teleledningar |
-
-<!-- sida 29 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          29 (33)
-Kommunstyrelsen
-Datum
-2025-03-18
-
-Beslutsgång
-Ordförande Lisa Andersson (M) prövar om kommunstyrelsen kan godkänna
-redovisningen av delegeringsbeslut fattade under perioden 2025-02-12 till
-2025-03-11, och finner att kommunstyrelsen bifaller det.
-
-Det här dokumentet är digitalt signerat
-Transaktionsidentitet: C6B9A95F986C8587A452AC21C3C99EC934AD64F336
-Transaktionsidentitet: 05CF59E515F7DF0F7E327DF8A229DC81CE72D3673F
-
-[Tabell 29-1](protokoll.tabeller/29-1.csv)
-
 | Exploateringshandläggare | Servitutsavtal Roppe 1:4 - Teleledningar |
-| --- | --- |
 | Exploateringshandläggare | Servitutsavtal Mark Öjersås 1:4 - Teleledningar |
 | Mark- och exploateringschef | Överlåtelse av avtal om lägenhetsarrende -<br>Rågelund 1:95 |
 | Exploateringshandläggare | Servitutsavtal Ammendred 2:2 - Teleledningar |
@@ -1312,6 +1292,22 @@ Transaktionsidentitet: 05CF59E515F7DF0F7E327DF8A229DC81CE72D3673F
 | Exploateringshandläggare | Servitutsavtal Ammendred 2:15 - Teleledningar |
 | Mark- och exploateringschef | Avtal om partiell nyttjanderätt - Tjolöholm 1:1,<br>Torpa S:27, 2:2 By 1:10 1:31 samt Ölmanäs 19:1 -<br>Länsstyrelsen/Naturvårdsverket för upplåtelse för<br>vandringsled |
 | Exploateringshandläggare | Servitutsavtal Vallda 6:3 - Vattenledning |
+
+<!-- sida 29 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          29 (33)
+Kommunstyrelsen
+Datum
+2025-03-18
+
+Beslutsgång
+Ordförande Lisa Andersson (M) prövar om kommunstyrelsen kan godkänna
+redovisningen av delegeringsbeslut fattade under perioden 2025-02-12 till
+2025-03-11, och finner att kommunstyrelsen bifaller det.
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: C6B9A95F986C8587A452AC21C3C99EC934AD64F336
+Transaktionsidentitet: 05CF59E515F7DF0F7E327DF8A229DC81CE72D3673F
 
 <!-- sida 30 -->
 
@@ -1467,7 +1463,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: C6B9A95F986C8587A452AC21C3C99EC934AD64F336
 Transaktionsidentitet: 05CF59E515F7DF0F7E327DF8A229DC81CE72D3673F
 
-[Tabell 32-1](protokoll.tabeller/32-1.csv)
+[Tabell 32-33-1](protokoll.tabeller/32-33-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -1480,6 +1476,12 @@ Transaktionsidentitet: 05CF59E515F7DF0F7E327DF8A229DC81CE72D3673F
 | Johan Tolinsson (S) |  | X |  |
 | Stefan Jägnert (SD) |  |  | X |
 | Stefan Vilumsons (SD) |  |  | X |
+| Fredrik Hansson (C) | X |  |  |
+| Monica Neptun (L) | X |  |  |
+| Marie Wadström (KD) | X |  |  |
+| Patrik Jervne Henestam (V) | X |  |  |
+| Maria Losman (MP) |  | X |  |
+| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 33 -->
 
@@ -1494,16 +1496,6 @@ Nämnden för Gymnasium & Arbetsmarknad
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: C6B9A95F986C8587A452AC21C3C99EC934AD64F336
 Transaktionsidentitet: 05CF59E515F7DF0F7E327DF8A229DC81CE72D3673F
-
-[Tabell 33-1](protokoll.tabeller/33-1.csv)
-
-| Fredrik Hansson (C) | X |  |  |
-| --- | --- | --- | --- |
-| Monica Neptun (L) | X |  |  |
-| Marie Wadström (KD) | X |  |  |
-| Patrik Jervne Henestam (V) | X |  |  |
-| Maria Losman (MP) |  | X |  |
-| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 34 -->
 

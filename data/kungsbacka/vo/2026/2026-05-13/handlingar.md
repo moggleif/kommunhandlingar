@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.3487527419ddc981c03d0d2e/1778506388
 sha256: 0595ff4769634a3c1efae0291d27bcd6834346f73de5f461ca95e87444609bef
 bytes: 13280112
 sidor: 166
-hamtad: 2026-10-08T08:42:25+00:00
-konverterad: 2026-10-08T08:44:25+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T06:35:00+00:00
+konverterad: 2026-10-15T06:36:06+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ocr, ej-konverterad, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ocr, ej-konverterad, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [5, 6, 7, 11, 16, 102, 116, 117, 118, 119, 120, 121, 123, 124, 125, 126, 127, 129, 132, 134, 135, 136, 148, 149, 151]
-figurer: null
-tolkade: null
+figurer: [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 36, 42, 43, 68, 89, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 132, 133, 134, 135, 136, 140, 141, 142, 148, 149, 150, 151]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1724,47 +1724,34 @@ historik avseende datum för upprättande/uppföljning.
 3.3.1. Resultat av genomfört stickprov
 
 Tabell 1. Resultat stickprovsgranskning.
-Fråga                  Boende                       Ej
+Fråga                  Boende      Ja   Delvis\* Nej Ej
 
 tillämplig\*\*
-Är genomförandeplan    Boende 1                     0
-upprättad?             Boende 2                     0
-Boende 3                     0
-Boende 4                     0
 
-Har brukare/närstående varit Boende 1               0
-delaktiga i upprättandet av Boende 2                0
-planen?                Boende 3                     0
+```osaker-tabell
+Är genomförandeplan    Boende 1    14   0     0     0
+upprättad?             Boende 2    6    0     0     0
+                       Boende 3    4    0     0     0
+                       Boende 4    6    0     0     0
 
-Boende 4                     0
+Har brukare/närstående varit Boende 1 11 0    3     0
+delaktiga i upprättandet av Boende 2 3  0     3     0
+planen?                Boende 3    4    0     0     0
 
-Har uppföljning av planen Boende 1                  3
-genomförts?            Boende 2                     1
-Boende 3                     1
-Boende 4                     1
+                       Boende 4    5    0     1     0
+
+Har uppföljning av planen Boende 1 9    2     0     3
+genomförts?            Boende 2    4    1     0     1
+                       Boende 3    1    2     0     1
+                       Boende 4    2    2     1     1
+```
+
 \*Delvis - Uppföljning av genomförandeplan har genomförts men inte i enlighet med riktlinjer om maxtiden
 på sex månader mellan respektive uppföljning.
 
 5 Uppdragsbeskrivning Undersköterska
 6 Social dokumentation, Rutin – förvaltningsövergripande, 2020-07-08
 14
-
-[Tabell 49-1](handlingar.tabeller/49-1.csv)
-
-| Ja | Delvis\* | Nej |
-| --- | --- | --- |
-| 14 | 0 | 0 |
-| 6 | 0 | 0 |
-| 4 | 0 | 0 |
-| 6 | 0 | 0 |
-| 11 | 0 | 3 |
-| 3 | 0 | 3 |
-| 4 | 0 | 0 |
-| 5 | 0 | 1 |
-| 9 | 2 | 0 |
-| 4 | 1 | 0 |
-| 1 | 2 | 0 |
-| 2 2 |  | 1 |
 
 <!-- sida 50 -->
 
@@ -3691,7 +3678,7 @@ www.kungsbacka.se
 KUNGSBACKA  KOMMUN
 2 (4)
 
-[Tabell 97-1](handlingar.tabeller/97-1.csv)
+[Tabell 97-98-1](handlingar.tabeller/97-98-1.csv)
 
 | 2025-10-07 | Särskilt boende | Tackat nej, verkställt 26-01-29 (U) |
 | --- | --- | --- |
@@ -3733,6 +3720,14 @@ KUNGSBACKA  KOMMUN
 | 2025-11-27 | Särskilt boende | Platsbrist |
 | 2025-12-01 | Särskilt boende | Platsbrist |
 | 2025-12-03 | Särskilt boende | Platsbrist |
+| 2025-12-05 | Särskilt boende | Platsbrist |
+| 2025-12-08 | Växelvård | Platsbrist |
+| 2025-12-15 | Växelvård | Platsbrist |
+| 2025-12-15 | Särskilt boende | Platsbrist |
+| 2025-12-17 | Särskilt boende | Platsbrist (U) |
+| 2025-12-08 | Växelvård | Platsbrist |
+| 2025-12-19 | Särskilt boende | Platsbrist |
+| 2025-12-22 | Särskilt boende | Platsbrist |
 
 <!-- sida 98 -->
 
@@ -3745,18 +3740,6 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 
 [Tabell 98-1](handlingar.tabeller/98-1.csv)
 
-| 2025-12-05 | Särskilt boende | Platsbrist |
-| --- | --- | --- |
-| 2025-12-08 | Växelvård | Platsbrist |
-| 2025-12-15 | Växelvård | Platsbrist |
-| 2025-12-15 | Särskilt boende | Platsbrist |
-| 2025-12-17 | Särskilt boende | Platsbrist (U) |
-| 2025-12-08 | Växelvård | Platsbrist |
-| 2025-12-19 | Särskilt boende | Platsbrist |
-| 2025-12-22 | Särskilt boende | Platsbrist |
-
-[Tabell 98-2](handlingar.tabeller/98-2.csv)
-
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
 | 2025-06-27 | Särskilt boende | Tackar nej, återtag 26-01-27 (U) |
@@ -3765,7 +3748,7 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 2025-10-22 | Särskilt boende | Avliden 26-03-14 |
 | 2025-10-23 | Särskilt boende | Tackar nej, återtag 26-02-13 |
 
-[Tabell 98-3](handlingar.tabeller/98-3.csv)
+[Tabell 98-99-2](handlingar.tabeller/98-99-2.csv)
 
 | Beslutsdatum | Insats | Datum för verkställighet, avslut |
 | --- | --- | --- |
@@ -3779,20 +3762,7 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 2025-08-08 | Särskilt boende | Platsbrist, verkställt 26-02-07 |
 | 2025-08-08 | Medflyttande | Platsbrist, verkställt 26-02-07 |
 | 2025-08-11 | Särskilt boende | Platsbrist, verkställt 26-01-19 |
-
-<!-- sida 99 -->
-
-KUNGSBACKA  KOMMUN
-4 (4)
-
-Arian Faily                   Ann-Helen Svensson
-
-Förvaltningschef              Verksamhetschef
-
-[Tabell 99-1](handlingar.tabeller/99-1.csv)
-
 | 2025-08-20 | Särskilt boende | Platsbrist, verkställt 26-03-09 |
-| --- | --- | --- |
 | 2025-08-21 | Särskilt boende | Platsbrist, verkställt 26-03-03 |
 | 2025-08-26 | Särskilt boende | Platsbrist, verkställt 26-02-06 |
 | 2025-08-29 | Särskilt boende | Platsbrist, verkställt 26-01-17 (U) |
@@ -3805,6 +3775,15 @@ Förvaltningschef              Verksamhetschef
 | 2025-09-24 | Särskilt boende | Platsbrist, verkställt 26-02-01 |
 | 2025-09-26 | Särskilt boende | Platsbrist, verkställt 26-02-01 |
 | 2025-10-01 | Särskilt boende | Platsbrist, verkställt 26-01-22 |
+
+<!-- sida 99 -->
+
+KUNGSBACKA  KOMMUN
+4 (4)
+
+Arian Faily                   Ann-Helen Svensson
+
+Förvaltningschef              Verksamhetschef
 
 <!-- sida 100 -->
 
@@ -4777,11 +4756,21 @@ Personer som deltar i projektet
 
 INFORMATIONSDRIVEN INTEGRERAD VÅRD                            9
 
-[Tabell 145-1](handlingar.tabeller/145-1.csv)
+[Tabell 145-146-1](handlingar.tabeller/145-146-1.csv)
 
 | Namn | org | position |
 | --- | --- | --- |
 | Farzaneh Etminani | Högskolan i Halmstad | Associate Professor, Docent |
+| Mattias Ohlsson | Högskolan i Halmstad | Professor |
+| Simon Holmesson | Högskolan i Halmstad | Head of Operations Leap for Life/Director International relations |
+| Omar Hamed | Högskolan i Halmstad | Research engineer |
+| NN | Högskolan i Halmstad | Postdoc |
+| Dag Salaj | Region Örebro Län | Äldrevårdsöverläkare |
+| Magnus Clarin | Region Halland | FoUChef |
+| Björn Hässlebro | Region Kronoberg | Data och AI-chef |
+| Fattane Zarringkalam | University of Guelph | Assistant Professor |
+| Pontus Ryderstedt | Cubist IT AB | Software development, Team lead |
+| William Lord | Cubist IT AB | Interdisciplinary SW & AI/ML Engineer |
 
 <!-- sida 146 -->
 
@@ -4804,20 +4793,6 @@ valfardsinspirator?publisherId=3236794&lang=sv
 [9] https://leapforlife.se/verksamhet/aktuella-projekt/health-data-sweden.html
 
 INFORMATIONSDRIVEN INTEGRERAD VÅRD                           10
-
-[Tabell 146-1](handlingar.tabeller/146-1.csv)
-
-| Mattias Ohlsson | Högskolan i Halmstad | Professor |
-| --- | --- | --- |
-| Simon Holmesson | Högskolan i Halmstad | Head of Operations Leap for Life/Director International relations |
-| Omar Hamed | Högskolan i Halmstad | Research engineer |
-| NN | Högskolan i Halmstad | Postdoc |
-| Dag Salaj | Region Örebro Län | Äldrevårdsöverläkare |
-| Magnus Clarin | Region Halland | FoUChef |
-| Björn Hässlebro | Region Kronoberg | Data och AI-chef |
-| Fattane Zarringkalam | University of Guelph | Assistant Professor |
-| Pontus Ryderstedt | Cubist IT AB | Software development, Team lead |
-| William Lord | Cubist IT AB | Interdisciplinary SW & AI/ML Engineer |
 
 <!-- sida 147 -->
 

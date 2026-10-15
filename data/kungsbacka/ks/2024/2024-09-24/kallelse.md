@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.33d6d97191e4f00c90c8a7f/17266613451
 sha256: 1b6df7d87cc73edf0de174c66bbdd17a412ffe2ee0496893adf3ea00fe8249e0
 bytes: 256867
 sidor: 7
-hamtad: 2026-10-08T09:13:24+00:00
-konverterad: 2026-10-08T09:13:30+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:05:17+00:00
+konverterad: 2026-10-15T07:05:23+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -131,7 +131,7 @@ KUNGSBACKA  KOMMUN
 
 4(7)
 
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
+[Tabell 4-7-1](kallelse.tabeller/4-7-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -139,17 +139,6 @@ KUNGSBACKA  KOMMUN
 | 10. | Yttrande till Förvaltningsrätten<br>avseende överklagande<br>(laglighetsprövning enligt<br>kommunallagen) av uppdrag<br>att inleda försäljning av Fors<br>1:230 och Fors 1:231 till Eksta<br>Bostads AB | 2024-00512 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-08-14,<br>och översänder det som sitt svar till<br>Förvaltningsrätten i Göteborg. |
 | 11. | Svar på Länsstyrelsen i<br>Hallands läns remiss av förslag<br>till nytt beslut för naturreservat<br>Vallda Sandö och förslag till<br>utvidgning av reservat | 2024-00430 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-09-03,<br>och översänder det som sitt svar till Länsstyrelsen i<br>Hallands län. |
 | 12. | Svar på Länsstyrelsen i<br>Hallands läns begäran om<br>yttrande avseende fråga om<br>kommunalt vatten och avlopp<br>(dagvatten) i område Västra<br>Hagen i Kungsbacka kommun | 2024-00180 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-06-27,<br>och översänder det som sitt svar till Länsstyrelsen i<br>Hallands län. |
-
-<!-- sida 5 -->
-
-KUNGSBACKA  KOMMUN
-
-5(7)
-
-[Tabell 5-1](kallelse.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 13. | Svar på Göteborgsregionens<br>remiss avseende avrop inom<br>åtgärdsområdet Trimning och<br>effektivisering i stråk | 2024-00437 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-07-30,<br>och översänder det som sitt svar till<br>Göteborgsregionen. |
 | 14. | Svar på<br>Arbetsmarknadsdepartementets<br>remiss av betänkandet<br>Genomförande av<br>lönetransparensdirektivet<br>(SOU 2024:40) | 2024-00439 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-08-21,<br>och översänder det som sitt svar till<br>Arbetsmarknadsdepartementet. |
 | 15. | Svar på Klimat- och<br>näringslivsdepartementets<br>remiss av promemorian<br>Hantering av trädgårds- och<br>parkavfall (KN2024/01288) | 2024-00446 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-08-23,<br>och översänder det som sitt svar till Klimat- och<br>näringslivsdepartementet. |
@@ -157,20 +146,22 @@ KUNGSBACKA  KOMMUN
 | 17. | Anmälan av ordförandebeslut | 2024-00007 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
 | 18. | Redovisning av inkomna<br>skrivelser | 2024-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
 | 19. | Taxa för låst cykelparkering | 2024-00329 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar taxa för låst<br>cykelparkering, daterad 2024-05-15.<br>Taxan träder i kraft den 1 januari 2025.<br>Kommunfullmäktige beslutar att taxan får justeras i<br>enlighet med taxans bestämmelse §§ 5-6 om årlig<br>indexjustering och delegation. |
+| 20. | Taxa för VA 2025 | 2024-00298 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar VA-taxa 2025, daterad<br>2024-04-17.<br>Taxan träder i kraft den 1 januari 2025.<br>VA-taxa 2024, antagen av kommunfullmäktige<br>2023-11-07, § 171, upphör samtidigt att gälla. |
+| 21. | Fördelning av extra resurser till<br>skolor 2024 | 2024-00518 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fördelar Kungsbacka kommuns<br>andel av statsbidraget för stärkt kunskapsutveckling<br>2024 med 1 419 209 kronor till nämnden för<br>Gymnasium & Arbetsmarknad och 3 391 426 kronor<br>till nämnden för Förskola & Grundskola. |
+| 22. | Omfördelning av budgetmedel<br>för medfinansiering av statlig<br>infrastruktur | 2024-00476 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beslutar att kostnaderna som har<br>uppstått med anledning av avtalen för GC-vägen<br>längs (väg 970) Anneberg, GC-vägen längs (väg 934)<br>Vallbyvägen och Gåsevadsholmsvägen (väg 932),<br>GC-vägen längs (väg 956), Kyrkobydalavägen<br>Säröleden samt GC-vägen längs (väg 939)<br>Torkeltorpsvägen-Hanhals kyrkväg, som tidigare har<br>ingåtts för medfinansiering till statlig infrastruktur,<br>finansieras av kommunens centrala<br>finansverksamhet, vilket innebär att 61 miljoner<br>kronor kommer belasta årets resultat.<br>Kommunfullmäktige beslutar att den årliga budgeten<br>och kostnaden omfördelas från nämnden för Teknik<br>till kommunens centrala finansverksamhet med<br>sammantaget 1,5 miljoner kronor för de<br>medfinansieringsavtal som sedan tidigare fördelas<br>under 25 år, vilka är GC-vägen längs (väg 970)<br>Anneberg, GC-vägen längs (väg 934) Vallbyvägen<br>och Gåsevadsholmsvägen (väg 932) samt för<br>avskrivningar och internränta om 1,7 miljoner kronor<br>vardera åren 2024 och 2025 för de båda<br>medfinansieringsavtal som skrivs av direkt, vilka är<br>GC-vägen längs (väg 956), Kyrkobydalavägen<br>Säröleden samt GC-vägen längs (väg 939)<br>Torkeltorpsvägen-Hanhals kyrkväg. |
+| 23. | Svar på motion från Ermin<br>Škorić (S) m.fl. om<br>medarbetarundersökning för<br>Vård & Omsorg samt Individ<br>& Familjeomsorg utifrån de<br>fem övergripande<br>arbetsmiljömålen | 2023-00729 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att nämnden för Individ & Omsorg<br>samt nämnden för Vård & Omsorg redan genomför<br>medarbetarundersökningar samt kompletterande<br>undersökningsmetoder kopplade till det systematiska<br>arbetsmiljöarbetet utifrån de fem övergripande<br>arbetsmiljömålen som är beslutade av<br>kommunfullmäktige. |
+
+<!-- sida 5 -->
+
+KUNGSBACKA  KOMMUN
+
+5(7)
 
 <!-- sida 6 -->
 
 KUNGSBACKA  KOMMUN
 
 6(7)
-
-[Tabell 6-1](kallelse.tabeller/6-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 20. | Taxa för VA 2025 | 2024-00298 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar VA-taxa 2025, daterad<br>2024-04-17.<br>Taxan träder i kraft den 1 januari 2025.<br>VA-taxa 2024, antagen av kommunfullmäktige<br>2023-11-07, § 171, upphör samtidigt att gälla. |
-| 21. | Fördelning av extra resurser till<br>skolor 2024 | 2024-00518 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fördelar Kungsbacka kommuns<br>andel av statsbidraget för stärkt kunskapsutveckling<br>2024 med 1 419 209 kronor till nämnden för<br>Gymnasium & Arbetsmarknad och 3 391 426 kronor<br>till nämnden för Förskola & Grundskola. |
-| 22. | Omfördelning av budgetmedel<br>för medfinansiering av statlig<br>infrastruktur | 2024-00476 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beslutar att kostnaderna som har<br>uppstått med anledning av avtalen för GC-vägen<br>längs (väg 970) Anneberg, GC-vägen längs (väg 934)<br>Vallbyvägen och Gåsevadsholmsvägen (väg 932),<br>GC-vägen längs (väg 956), Kyrkobydalavägen<br>Säröleden samt GC-vägen längs (väg 939)<br>Torkeltorpsvägen-Hanhals kyrkväg, som tidigare har<br>ingåtts för medfinansiering till statlig infrastruktur,<br>finansieras av kommunens centrala<br>finansverksamhet, vilket innebär att 61 miljoner<br>kronor kommer belasta årets resultat.<br>Kommunfullmäktige beslutar att den årliga budgeten<br>och kostnaden omfördelas från nämnden för Teknik<br>till kommunens centrala finansverksamhet med<br>sammantaget 1,5 miljoner kronor för de<br>medfinansieringsavtal som sedan tidigare fördelas<br>under 25 år, vilka är GC-vägen längs (väg 970)<br>Anneberg, GC-vägen längs (väg 934) Vallbyvägen<br>och Gåsevadsholmsvägen (väg 932) samt för<br>avskrivningar och internränta om 1,7 miljoner kronor<br>vardera åren 2024 och 2025 för de båda<br>medfinansieringsavtal som skrivs av direkt, vilka är<br>GC-vägen längs (väg 956), Kyrkobydalavägen<br>Säröleden samt GC-vägen längs (väg 939)<br>Torkeltorpsvägen-Hanhals kyrkväg. |
 
 <!-- sida 7 -->
 
@@ -180,9 +171,3 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Patrik Johansson
 ordförande                        kommunsekreterare
-
-[Tabell 7-1](kallelse.tabeller/7-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 23. | Svar på motion från Ermin<br>Škorić (S) m.fl. om<br>medarbetarundersökning för<br>Vård & Omsorg samt Individ<br>& Familjeomsorg utifrån de<br>fem övergripande<br>arbetsmiljömålen | 2023-00729 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att nämnden för Individ & Omsorg<br>samt nämnden för Vård & Omsorg redan genomför<br>medarbetarundersökningar samt kompletterande<br>undersökningsmetoder kopplade till det systematiska<br>arbetsmiljöarbetet utifrån de fem övergripande<br>arbetsmiljömålen som är beslutade av<br>kommunfullmäktige. |

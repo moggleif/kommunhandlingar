@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.515f200f1a0adad2ac422f5/17896266011
 sha256: 0c352865240ea4188a3c3c8d31937e8fb11fb643cc929dc92e69ab4b20cc8a5a
 bytes: 26102022
 sidor: 328
-hamtad: 2026-10-09T08:07:46+00:00
-konverterad: 2026-10-09T08:09:56+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T10:51:59+00:00
+konverterad: 2026-10-15T10:54:13+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [43, 48, 49, 50, 51, 52, 53, 54, 55, 96, 97, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [43, 48, 49, 50, 51, 52, 53, 54, 55, 96, 97, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 293]
 figurer: [88, 90, 106, 113, 116, 120, 122, 124, 125, 128, 129, 130, 131, 132, 133, 135, 136, 138, 143, 147, 150, 151, 152, 156, 159, 160, 161, 175, 215, 243, 278, 318, 321, 323, 324]
 tolkade: []
 ---
@@ -60,7 +60,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -71,17 +71,6 @@ KUNGSBACKA  KOMMUN
 | 7. | Avtal och nya stadgar avseende<br>Stiftelsen Tjolöholm | 2025-00589 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner tilläggsavtal daterat<br>den 21 augusti 2026<br>Kommunstyrelsen ger kommunstyrelsens ordförande<br>och kommundirektören i uppdrag att underteckna<br>avtalet för Kungsbacka kommuns räkning. |
 | 8. | Svar på initiativ från Lisa<br>Andersson (M) m.fl. om höjd<br>kvalitet i bemötande, service<br>och handläggning | 2026-00366 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisning av<br>handlingsplan avseende Initiativ Höjd kvalitet i<br>bemötande, service och handläggning i protokollet.<br>Initiativet kommer följas upp i ordinarie uppföljning. |
 | 9. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för<br>bostäder inom Ölmanäs 6:80 | 2026-00227 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen upphäver tidigare beslut från<br>2014-03-18, § 47, om att ta fram ett planprogram för<br>Ölmanäs 6:80 i Åsa.<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för bostäder inom Ölmanäs 6:80 i Åsa,<br>daterad 2026-08-12.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan för bostäder inom<br>Ölmanäs 6:80 i Åsa. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 10. | Svar på Länsstyrelsen i Västra<br>Götalands läns remiss av<br>vattenförsörjningsplan för länet | 2026-00379 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-08-21,<br>och översänder det som sitt svar till Länsstyrelsen i<br>Västra Götaland. |
 | 11. | Svar på Göteborgs stads<br>granskning av ändring av<br>översiktsplan | 2026-00453 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-09-01,<br>och översänder det som sitt svar till Göteborgs stad. |
 | 12. | Svar på Landsbygds- och<br>infrastrukturdepartementet<br>remiss av ändringar i<br>trafikbullerförordningen | 2026-00400 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-08-21,<br>och översänder det som sitt svar till Landsbygds- och<br>infrastrukturdepartementet. |
@@ -91,6 +80,13 @@ KUNGSBACKA  KOMMUN
 | 16. | Anmälan av delegeringsbeslut | 2026-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
 | 17. | Anmälan av ordförandebeslut | 2026-00007 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
 | 18. | Redovisning av inkomna<br>skrivelser | 2026-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
+| 19. | Antagande av<br>arbetsgivarpolicy | 2025-00400 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar uppdaterad<br>arbetsgivarpolicy, daterad 2026-08-25.<br>Arbetsgivarpolicy, antagen av kommunfullmäktige<br>2019-06-11, § 86, upphör samtidigt att gälla. |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -100,12 +96,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Patrik Johansson
 ordförande                        kommunsekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 19. | Antagande av<br>arbetsgivarpolicy | 2025-00400 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar uppdaterad<br>arbetsgivarpolicy, daterad 2026-08-25.<br>Arbetsgivarpolicy, antagen av kommunfullmäktige<br>2019-06-11, § 86, upphör samtidigt att gälla. |
 
 <!-- sida 5 -->
 
@@ -6048,19 +6038,13 @@ Tabell 1. Bedömningsmatris för risk för vattenbrist i enskilda brunnar.
 Låg brunnstäthet Medelhög Hög brunnstäthet
 brunnstäthet
 Hög grundvattentillgång
-2
+1          1          2
 Medelhög grundvattentillgång
-3
+1          2          3
 Låg grundvattentillgång
 2          3          3
 
 45
-
-[Tabell 150-1](handlingar.tabeller/150-1.csv)
-
-| 1 | 1 |
-| --- | --- |
-| 1 | 2 |
 
 <!-- sida 151 -->
 
@@ -6749,11 +6733,23 @@ Tabell 4. Åtgärder riktade till kommunerna i deras arbete med vattenförsörjn
 
 61
 
-[Tabell 166-1](handlingar.tabeller/166-1.csv)
+[Tabell 166-167-1](handlingar.tabeller/166-167-1.csv)
 
 | Säkerställa råvattentillgång |  |
 | --- | --- |
 | 1 | Säkerställa skydd av vattentäkter, baserat på lokal riskanalys, och vid behov:<br>a) inrätta vattenskyddsområden för de allmänna vattentäkter som saknar skydd.<br>b) gör regelbundet en översyn av befintliga vattenskyddsområden och bedöm om<br>de behöver revideras, exempelvis utifrån klimatrisker och förändrad<br>markanvändning. Revidera vattenskyddsområden vid behov<br>c) säkerställ att information om kommunens vattenskyddsområden är<br>sammanställda på ett överskådligt och aktuellt sätt, inklusive sådana som<br>fastställts i äldre vattendomar.<br>d) säkerställ att kommunen vet vilka vattenskyddsområden som kommunen har<br>tillsyn inom.<br>e) sprid information om vattenskyddsområden till berörda fastighetsägare och<br>verksamhetsutövare. |
+|  | f) tillse god beredskap för olyckor och oförutsedda händelser som kan påverka<br>råvattenkvaliteten.<br>g) verka för att påtagliga risker reduceras genom att åtgärder vidtas av ansvariga<br>aktörer i vattentäktens närhet. |
+| 2 | Säkerställa att tillståndspliktiga allmänna yt- och grundvattentäkter har tillstånd och att<br>uttagen är långsiktigt hållbara. Vid behov ska prövning enligt miljöbalken initieras,<br>särskilt i områden med ansträngda resurser och kumulativ påverkan.15 |
+| 3 | Inkludera de regionalt viktiga dricksvattenresurserna i den kommunala VA-planeringen. |
+| 4 | Gör en analys av vattentillgång i kommunen och långsiktigt vattenbehov. Säkerställ att<br>analysen förankras i exempelvis kommunens vattentjänstplan eller annat<br>planeringsdokument för VA16. |
+| 5 | Klimatsäkra dricksvattenförsörjningen. Exempelvis genom att arbete med<br>livsmedelsverkets handböcker för klimatanpassning och krisberedskap17. |
+| 6 | Planera för redundans och reservvattenförsörjning. |
+| 7 | Säkerställ att planering och rutiner finns framtagna för händelser som påverkar<br>dricksvattentillgången, enligt exempelvis livsmedelsverkets guide för nödvattenplanering<br>och Länsstyrelsen planeringsinriktning för civilt försvar och höjd beredskap i Västra<br>Götalands län18. |
+| Tillse kunskapsunderlag |  |
+| 8 | Övervaka parametrar som nivåer, flöden och vattenkvalitetsparametrar i<br>dricksvattenresurser. |
+| 9 | Undersök hur dricksvattenförsörjningen påverkas av klimatförändringarna genom att<br>beakta underlag från exempelvis SMHI och SGU om påverkan på nivåer, flöden och<br>vattenkvalitetsparametrar |
+| Möjliggör samordning och samverkan |  |
+| 10 | Vid behov utveckla mellankommunala samarbeten och samarbeta om dricksvattenfrågor<br>över förvaltningsgränserna inom kommunen. |
 
 <!-- sida 167 -->
 
@@ -6767,22 +6763,6 @@ handbok i krisberedskap och civilt försvar för dricksvatten.
 länsstyrelsens planeringsinriktning för civilt försvar och höjd beredskap för Västra Götalands län.
 Planeringsinriktning och dess bilagor kan nås genom att kontakta länsstyrelsen.
 62
-
-[Tabell 167-1](handlingar.tabeller/167-1.csv)
-
-|  | f) tillse god beredskap för olyckor och oförutsedda händelser som kan påverka<br>råvattenkvaliteten.<br>g) verka för att påtagliga risker reduceras genom att åtgärder vidtas av ansvariga<br>aktörer i vattentäktens närhet. |
-| --- | --- |
-| 2 | Säkerställa att tillståndspliktiga allmänna yt- och grundvattentäkter har tillstånd och att<br>uttagen är långsiktigt hållbara. Vid behov ska prövning enligt miljöbalken initieras,<br>särskilt i områden med ansträngda resurser och kumulativ påverkan.15 |
-| 3 | Inkludera de regionalt viktiga dricksvattenresurserna i den kommunala VA-planeringen. |
-| 4 | Gör en analys av vattentillgång i kommunen och långsiktigt vattenbehov. Säkerställ att<br>analysen förankras i exempelvis kommunens vattentjänstplan eller annat<br>planeringsdokument för VA16. |
-| 5 | Klimatsäkra dricksvattenförsörjningen. Exempelvis genom att arbete med<br>livsmedelsverkets handböcker för klimatanpassning och krisberedskap17. |
-| 6 | Planera för redundans och reservvattenförsörjning. |
-| 7 | Säkerställ att planering och rutiner finns framtagna för händelser som påverkar<br>dricksvattentillgången, enligt exempelvis livsmedelsverkets guide för nödvattenplanering<br>och Länsstyrelsen planeringsinriktning för civilt försvar och höjd beredskap i Västra<br>Götalands län18. |
-| Tillse kunskapsunderlag |  |
-| 8 | Övervaka parametrar som nivåer, flöden och vattenkvalitetsparametrar i<br>dricksvattenresurser. |
-| 9 | Undersök hur dricksvattenförsörjningen påverkas av klimatförändringarna genom att<br>beakta underlag från exempelvis SMHI och SGU om påverkan på nivåer, flöden och<br>vattenkvalitetsparametrar |
-| Möjliggör samordning och samverkan |  |
-| 10 | Vid behov utveckla mellankommunala samarbeten och samarbeta om dricksvattenfrågor<br>över förvaltningsgränserna inom kommunen. |
 
 <!-- sida 168 -->
 
@@ -9228,6 +9208,21 @@ avgiftsnivå avgiftsnivå per tillståndshavare förändring
 inför 2027          jämfört med
 gällande nivå
 
+```osaker-tabell
+Ringhals (13§ 3) 270 000 308 000      2      14%     616 000
+OKG (13§ 3)  270 000  308 000         1      14%     308 000
+FKA (13§ 3)  270 000  308 000         3      14%     924 000
+Clab (13§ 4) 265 000  302 000         1      14%     302 000
+WSE (13§ 1)  512 000  584 000         1      14%     584 000
+Studsvik (13§ 5 13 000 14 800         1      14%     26 200
+och 13§ 6)    10 000   11 400         1      14%
+Chalmers (13§ 6) 10 000 11 400        1      14%     11 400
+SVAFO         13 000   14 800         1      14%     26 200
+(13§ 5 och 13§ 6) 10 000 11 400       1      14%
+Cyclife       13 000   14 800         1      14%     26 200
+(13§ 5 och 13§ 6) 10 000 11 400       1      14%
+```
+
 Förslaget medför inga ökade kostnader för SSM. Den stora höjningen anses nödvändig,
 dels eftersom verksamheten behöver växa för att möta externa krav och dels då avgiften
 har legat stilla på samma nivå i flera år.
@@ -9235,22 +9230,6 @@ har legat stilla på samma nivå i flera år.
 10 Lägre beräknad kostnadsnivå 2026 jämfört med 2025 på grund av att verksamhet med exportkontroll inte längre
 finansieras av avgiften, cirka 3,8 miljoner kronor.
 11 I beräknade kostnader ingår ökade kostnader motsvarande cirka en årsarbetskraft.
-
-[Tabell 222-1](handlingar.tabeller/222-1.csv)
-
-| Ringhals (13§ 3) | 270 000 | 308 000 | 2 | 14% | 616 000 |
-| --- | --- | --- | --- | --- | --- |
-| OKG (13§ 3) | 270 000 | 308 000 | 1 | 14% | 308 000 |
-| FKA (13§ 3) | 270 000 | 308 000 | 3 | 14% | 924 000 |
-| Clab (13§ 4) | 265 000 | 302 000 | 1 | 14% | 302 000 |
-| WSE (13§ 1) | 512 000 | 584 000 | 1 | 14% | 584 000 |
-| Studsvik (13§ 5 | 13 000 | 14 800 | 1 | 14% | 26 200 |
-| och 13§ 6) | 10 000 | 11 400 | 1 | 14% |  |
-| Chalmers (13§ 6) | 10 000 | 11 400 | 1 | 14% | 11 400 |
-| SVAFO | 13 000 | 14 800 | 1 | 14% | 26 200 |
-| (13§ 5 och 13§ 6) | 10 000 | 11 400 | 1 | 14% |  |
-| Cyclife | 13 000 | 14 800 | 1 | 14% | 26 200 |
-| (13§ 5 och 13§ 6) | 10 000 | 11 400 | 1 | 14% |  |
 
 <!-- sida 223 -->
 
@@ -9966,7 +9945,7 @@ Dokumentnr: SSM2026-1060-2
 Tabellen visar en samlad bild över gällande avgifter och myndighetens förslag på
 justeringar. Avrundningar medför variationer i procentsatsen.
 
-[Tabell 236-1](handlingar.tabeller/236-1.csv)
+[Tabell 236-237-1](handlingar.tabeller/236-237-1.csv)
 
 | Gällande<br>paragraf | Gällande<br>avgiftsnivå | Föreslagen<br>avgiftsnivå | Procentuell<br>förändring |
 | --- | --- | --- | --- |
@@ -10031,16 +10010,6 @@ justeringar. Avrundningar medför variationer i procentsatsen.
 | 11 § 2 | 1 626 000 | 1 626 000 | 0% |
 | 11 § 3 | 600 000 | 600 000 | 0% |
 | 11 § 4 | 1 626 000 | 1 626 000 | 0% |
-
-<!-- sida 237 -->
-
-Sida 23 (23)
-Dokumentnr: SSM2026-1060-2
-
-[Tabell 237-1](handlingar.tabeller/237-1.csv)
-
-| Gällande<br>paragraf | Gällande<br>avgiftsnivå | Föreslagen<br>avgiftsnivå | Procentuell<br>förändring |
-| --- | --- | --- | --- |
 | 11 § 5 | 350 000 | 350 000 | 0% |
 | 11 § 6 | 1 626 000 | 1 626 000 | 0% |
 | 11 § 7 | 400 000 | 400 000 | 0% |
@@ -10104,6 +10073,11 @@ Dokumentnr: SSM2026-1060-2
 | 16 § 13 |  | 2 040 | - |
 | 17 § | 3 700 | 4 080 | 10% |
 | 18 § | 35 000 | 38 590 | 10% |
+
+<!-- sida 237 -->
+
+Sida 23 (23)
+Dokumentnr: SSM2026-1060-2
 
 <!-- sida 238 -->
 
@@ -12832,7 +12806,7 @@ Härigenom föreskrivs att 2 § lagen (1994:260) om offentlig anställning
 ska ha följande lydelse.
 Nuvarande lydelse    Föreslagen lydelse
 
-eoaertrct ,h ok fvcruåhannr nj ea u svppipedrltaäart teasspd seepl aesnlpbseevltaaerrespnårtdogefä irflöderr-2 §1eosromåss aeåertccgi nsmdhh äf a iftösr ur n1djuråvpät 4enp apalör v prtkg vjot gaie uelcfkiäp rptfheumdt.p esrnfr1rnprö inä o vear§otame ltr,am aa t vo trtd sstieich epldpkshlä ete u allllnssia ascapsnpnrep eaeedsneln olaemslbsm arhse ponaoe trtssevkmvopveaoefe aninrralrledkoaevsnaer----
+eoaertrct ,h ok fvcruåhannr nj ea u svppipedrltaäart teasspd seepl aesnlpbseevltaaerrespnårtdogefä irflöderr-2 §1eosromåss aeåertccgi nsmdhh äf a iftösr ur n1djuråvpät 4enpapalör v prtkg vjot gaie uelcfkiäp rptfheumdt.p esrnfr1rnpröinä o vear§otame ltr,am aa t vo trtd sstieich epldpkshlä ete u allllnssia ascapsnpnrep eaeedsneln olaemslbsm arhse ponaoe trtssevkmvopveaoefe aninrralrledkoaevsnaer----
 Följande föreskrifter i lagen Följande föreskrifter i lagen
 gäller också arbetstagare hos kom- gäller också arbetstagare hos kom-
 muner, regioner och kommunal- muner, regioner och kommunal-
@@ -12845,7 +12819,7 @@ och
 42 § första och andra styckena – 42 § första och andra styckena
 om vissa undantag från lagen om vissa undantag från lagen
 (1976:580) om medbestämmande i (1976:580) om medbestämmande i
-eoaeartrrct ,bh oek ftvcrusåhalnnir nvj eae u ts.vpp ipedrltaäart teasspd seepl aesnlpbseevltaaerrespnårtdogefä irflöderr- eosromåssaaeåertrccgi bnsmdhh äef a iftösrt ur n1sdjuråvpält 4enpi apalövr v prtkg vejot gaie ueltcfkiä.p rptf heumdt.p esrnfr1rnprö inä o vear§otame ltr,am aa t vo trtd sstieich epldpkshlä ete u allllnssia ascapsnpnrep eaeedsneln olaemslbsm arhse ponaoe trtssevkmvopveaoefe aninrralrledkoaevsnaer----
+eoaeartrrct ,bh oek ftvcrusåhalnnir nvj eae u ts.vpp ipedrltaäart teasspd seepl aesnlpbseevltaaerrespnårtdogefä irflöderr- eosromåssaaeåertrccgi bnsmdhh äef a iftösrt ur n1sdjuråvpält 4enpiapalövr v prtkg vejot gaie ueltcfkiä.p rptf heumdt.p esrnfr1rnpröinä o vear§otame ltr,am aa t vo trtd sstieich epldpkshlä ete u allllnssia ascapsnpnrep eaeedsneln olaemslbsm arhse ponaoe trtssevkmvopveaoefe aninrralrledkoaevsnaer----
 Föreskrifterna i 30 § om periodiska hälsoundersökningar gäller också
 arbetstagare hos kommuner och regioner.
 Denna lag träder i kraft den 1 juli 2027.

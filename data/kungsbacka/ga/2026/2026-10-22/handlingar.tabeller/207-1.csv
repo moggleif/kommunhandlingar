@@ -1,0 +1,20 @@
+Verksamhetstyp:,Vård och omsorg,,,,
+Verksamhetsområde:,Hantera inrapporterade händelser och avvikelser,,,,
+Processgrupp:,Hantera anmälningar,,,,
+Process:,Hantera anmälningar enligt Lex Sarah,,,,
+Processnummer:,6.1.2.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Anmäla,"Anmälan från personal
+om Lex Sarah",DF Respons,Digitalt,Bevaras,
+,"Anmälan till
+Inspektionen för vård
+och omsorg",Ciceron,Digitalt,Bevaras,
+Utreda,"Utredning av enhetschef
+(eller utsedd utredare)",DF Respons,Digitalt,Bevaras,
+,"Utredning av Socialt
+ansvarig samordnare",Ciceron,Digitalt,Bevaras,Avser utredning med eventuella bilagor.
+Beslut,Beslut från utredning,Ciceron,Digitalt,Bevaras,"Avser beslut från SAS utredning med
+eventuella åtgärder samt beslut om anmälan
+till IVO."
+,"Beslut från Inspektionen
+för vård och omsorg",Ciceron,Digitalt,Bevaras,

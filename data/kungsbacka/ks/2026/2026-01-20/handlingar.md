@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.10708ba619b353ddef6dfcb6/1768461381
 sha256: 43c0fb956e97f81f83acec1caa817ef041cc5762bb23cf0063871ea0a490ac7f
 bytes: 55022787
 sidor: 370
-hamtad: 2026-10-08T12:17:57+00:00
-konverterad: 2026-10-08T12:25:28+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T10:05:58+00:00
+konverterad: 2026-10-15T10:08:29+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
-tal_obekraftade: [59, 61, 67, 69, 76, 77, 78, 79, 80, 81, 122, 297, 333, 370]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
+tal_obekraftade: [59, 61, 67, 69, 76, 77, 78, 79, 80, 81, 122, 226, 297, 333, 370]
+figurer: [62, 70, 89, 90, 91, 92, 94, 95, 99, 100, 101, 104, 105, 106, 107, 108, 109, 124, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 147, 148, 150, 151, 152, 153, 155, 157, 159, 160, 161, 163, 167, 169, 172, 173, 174, 176, 177, 178, 180, 182, 186, 188, 191, 192, 193, 194, 197, 199, 200, 202, 204, 205, 206, 207, 208, 209, 210, 212, 214, 216, 217, 218, 219, 221, 222, 223, 224, 227, 228, 230, 231, 233, 236, 238, 239, 264, 327, 334, 335, 336, 337]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -61,7 +61,7 @@ KUNGSBACKA  KOMMUN
 
 2(6)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-3-1](handlingar.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -70,6 +70,10 @@ KUNGSBACKA  KOMMUN
 | 7. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa – Öka<br>utbudet av aktiviteter på<br>särskilda boenden<br>(Kultur & Fritid) | 2025-00968 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>500 000 kronor från centrala finansverksamheten för<br>2026 till nämnden för Kultur & Fritid. |
 | 8. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa –<br>Sommarkulturskolan 2026<br>(Kultur & Fritid) | 2025-00896 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>800 000 kronor från centrala finansverksamheten för<br>2026 till nämnden för Kultur & Fritid. |
 | 9. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa –<br>Ökat välmående på anpassad<br>grundskola<br>(Förskola & Grundskola) | 2025-00869 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>500 000 kronor från centrala finansverksamheten för<br>2026 till nämnden för Förskola & Grundskola. |
+| 10. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa –<br>Praktikinsatser inom<br>gymnasieskola (Gymnasium &<br>Arbetsmarknad) | 2025-00873 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>500 000 kronor från centrala finansverksamheten för<br>2026 till nämnden för Gymnasium & Arbetsmarknad. |
+| 11. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa –<br>Förstärkt psykosocialt stöd<br>inom gymnasieskola<br>(Gymnasium &<br>Arbetsmarknad) | 2025-00873 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>700 000 kronor från centrala finansverksamheten för<br>2026 till nämnden för Gymnasium & Arbetsmarknad. |
+| 12. | Godkännande av arrendeavtal<br>för Åsagrillen på fastigheten<br>Åsa 4:118 | 2025-00497 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner arrendeavtal med<br>Åsagrillen AB (organisationsnummer 556793–4194)<br>avseende mark för gatukiosk på fastigheten Åsa<br>4:118, undertecknat av Åsagrillen AB 2025-12-16.<br>Kommunstyrelsens ordförande samt<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet. |
+| 13. | Begäran om planbesked för del<br>av Össlöv 2:3 och del av<br>Össlöv S:3 | 2025-00585 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom del av Össlöv 2:3 och del av<br>Össlöv s:3. |
 
 <!-- sida 3 -->
 
@@ -77,22 +81,13 @@ KUNGSBACKA  KOMMUN
 
 3(6)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 10. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa –<br>Praktikinsatser inom<br>gymnasieskola (Gymnasium &<br>Arbetsmarknad) | 2025-00873 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>500 000 kronor från centrala finansverksamheten för<br>2026 till nämnden för Gymnasium & Arbetsmarknad. |
-| 11. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa –<br>Förstärkt psykosocialt stöd<br>inom gymnasieskola<br>(Gymnasium &<br>Arbetsmarknad) | 2025-00873 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>700 000 kronor från centrala finansverksamheten för<br>2026 till nämnden för Gymnasium & Arbetsmarknad. |
-| 12. | Godkännande av arrendeavtal<br>för Åsagrillen på fastigheten<br>Åsa 4:118 | 2025-00497 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner arrendeavtal med<br>Åsagrillen AB (organisationsnummer 556793–4194)<br>avseende mark för gatukiosk på fastigheten Åsa<br>4:118, undertecknat av Åsagrillen AB 2025-12-16.<br>Kommunstyrelsens ordförande samt<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet. |
-| 13. | Begäran om planbesked för del<br>av Össlöv 2:3 och del av<br>Össlöv S:3 | 2025-00585 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom del av Össlöv 2:3 och del av<br>Össlöv s:3. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(6)
 
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
+[Tabell 4-5-1](handlingar.tabeller/4-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -100,21 +95,16 @@ KUNGSBACKA  KOMMUN
 | 15. | Svar på remiss av<br>Bostadsförsörjningsprogram<br>2026 för Mölndals stad | 2025-00874 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-01-13,<br>och översänder det som sitt svar till Mölndals stad. |
 | 16. | Anmälan av delegeringsbeslut | 2026-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
 | 17. | Anmälan av ordförandebeslut | 2026-00007 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
+| 18. | Redovisning av inkomna<br>skrivelser | 2026-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
+| 19. | Antagande av arbetsordning<br>för kommunfullmäktige | 2025-00534 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar arbetsordning för<br>kommunfullmäktige, daterad 2025-12-01.<br>Arbetsordning för kommunfullmäktige, antagen av<br>kommunfullmäktige 2019-04-09, § 44, upphör<br>samtidigt att gälla. |
+| 20. | Priser och utmärkelser i<br>Kungsbacka kommun | 2024-00605 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beslutar att Hållbarhetspriset,<br>Lära för livet-priset och Arkitekturpriset ska<br>avvecklas. Styrdokumenten som reglerar dessa priser<br>upphör samtidigt att gälla.<br>Leva livet-priset, studentstipendium inom Vård och<br>Omsorg och Självständigt liv ska inte längre ska<br>delas ut i kommunfullmäktige utan överlåtas till<br>nämnden för Vård & Omsorg respektive nämnden för<br>Individ & Familjeomsorg. Nämnderna beslutar<br>framöver om prisernas framtid och utformning samt<br>om de styrdokument som reglerar priserna. |
+| 21. | Revidering av lokala<br>föreskrifter till skydd för<br>människors hälsa och miljö | 2025-00889 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Lokala föreskrifter till<br>skydd för människors hälsa och miljön, daterade<br>2025-10-30.<br>Lokala föreskrifter till skydd för människors hälsa<br>och miljön, antagna av kommunfullmäktige<br>2018-11-06, § 189, upphör samtidigt att gälla. |
 
 <!-- sida 5 -->
 
 KUNGSBACKA  KOMMUN
 
 5(6)
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 18. | Redovisning av inkomna<br>skrivelser | 2026-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
-| 19. | Antagande av arbetsordning<br>för kommunfullmäktige | 2025-00534 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar arbetsordning för<br>kommunfullmäktige, daterad 2025-12-01.<br>Arbetsordning för kommunfullmäktige, antagen av<br>kommunfullmäktige 2019-04-09, § 44, upphör<br>samtidigt att gälla. |
-| 20. | Priser och utmärkelser i<br>Kungsbacka kommun | 2024-00605 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beslutar att Hållbarhetspriset,<br>Lära för livet-priset och Arkitekturpriset ska<br>avvecklas. Styrdokumenten som reglerar dessa priser<br>upphör samtidigt att gälla.<br>Leva livet-priset, studentstipendium inom Vård och<br>Omsorg och Självständigt liv ska inte längre ska<br>delas ut i kommunfullmäktige utan överlåtas till<br>nämnden för Vård & Omsorg respektive nämnden för<br>Individ & Familjeomsorg. Nämnderna beslutar<br>framöver om prisernas framtid och utformning samt<br>om de styrdokument som reglerar priserna. |
-| 21. | Revidering av lokala<br>föreskrifter till skydd för<br>människors hälsa och miljö | 2025-00889 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Lokala föreskrifter till<br>skydd för människors hälsa och miljön, daterade<br>2025-10-30.<br>Lokala föreskrifter till skydd för människors hälsa<br>och miljön, antagna av kommunfullmäktige<br>2018-11-06, § 189, upphör samtidigt att gälla. |
 
 <!-- sida 6 -->
 
@@ -510,13 +500,7 @@ EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ - INDIKATORER
 
 8
 
-[Tabell 16-1](handlingar.tabeller/16-1.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-
-[Tabell 16-2](handlingar.tabeller/16-2.csv)
+[Tabell 16-17-1](handlingar.tabeller/16-17-1.csv)
 
 | Indikator | Utvärdera<br>A, B, C | Målsättning 2027<br>(öka/minska) | Kommentar nya<br>förslag |
 | --- | --- | --- | --- |
@@ -529,6 +513,12 @@ EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ - INDIKATORER
 | Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | A |  |  |
 | Fossiloberoende personbilar, andel av totalt<br>antal bilar i det geografiska området, (Kolada) | A |  |  |
 | Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | A |  |  |
+| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021<br>var antalet 124 (KEMgroup PRO) | A |  |  |
+| Ekologisk status i Kungsbackafjorden (VISS) | A |  |  |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) | A |  |  |
+| Andelen återbrukade möbler | A |  |  |
+| Total debiterad vattenförbrukning fördelat på<br>antal anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn | A |  |  |
+| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn | A |  |  |
 
 <!-- sida 17 -->
 
@@ -543,16 +533,6 @@ BÄSTA FÖRETAGSKLIMATET I VÄSTSVERIGE - INDIKATORER
 
 [Tabell 17-1](handlingar.tabeller/17-1.csv)
 
-| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021<br>var antalet 124 (KEMgroup PRO) | A |  |  |
-| --- | --- | --- | --- |
-| Ekologisk status i Kungsbackafjorden (VISS) | A |  |  |
-| Vattendrag med god ekologisk status, andel<br>(Kolada) | A |  |  |
-| Andelen återbrukade möbler | A |  |  |
-| Total debiterad vattenförbrukning fördelat på<br>antal anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn | A |  |  |
-| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn | A |  |  |
-
-[Tabell 17-2](handlingar.tabeller/17-2.csv)
-
 | Förslag till nya fokusområden | Ta bort fokusområden |
 | --- | --- |
 | Företagen ska uppleva fullt stöd från kommunen och<br>alltid få en service som präglas av positivt<br>bemötande och ett lösningsorienterat förhållningssätt<br>med hög rättssäkerhet och effektivitet. |  |
@@ -560,13 +540,16 @@ BÄSTA FÖRETAGSKLIMATET I VÄSTSVERIGE - INDIKATORER
 |  |  |
 |  |  |
 
-[Tabell 17-3](handlingar.tabeller/17-3.csv)
+[Tabell 17-18-2](handlingar.tabeller/17-18-2.csv)
 
 | Indikator | Utvärdera<br>A, B, C | Målsättning 2027<br>(öka/minska) | Kommentar nya<br>förslag |
 | --- | --- | --- | --- |
 | Insikt, SKRs servicemätning av kommunernas<br>myndighetsutövning för företag. Nöjd-kund-<br>index utifrån sammanvägt betygsindex 0-100,<br>för hur företag i kommunen bedömer<br>Kungsbacka kommuns myndighetsutövning,<br>vilket är en viktig del av företagsklimatet. | A |  |  |
 | Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde utifrån<br>skala 1-6, där företag bedömer företagsklimatet<br>i Kungsbacka kommun. | A |  |  |
 | Sysselsatt dagbefolkning, antal | A |  |  |
+| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | A |  |  |
+| Företagsamhet, andel av invånare 16–74 år | C |  | Mäts inte längre |
+| Antal nystartade företag per 1 000 invånare 16–<br>64 år (etableringsfrekvens) | A |  |  |
 
 <!-- sida 18 -->
 
@@ -583,13 +566,6 @@ ETT MEDSKAPANDE SAMHÄLLE OCH EN ÖPPEN ATTITYD- FOKUSOMRÅDEN
 
 [Tabell 18-1](handlingar.tabeller/18-1.csv)
 
-| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | A |  |  |
-| --- | --- | --- | --- |
-| Företagsamhet, andel av invånare 16–74 år | C |  | Mäts inte längre |
-| Antal nystartade företag per 1 000 invånare 16–<br>64 år (etableringsfrekvens) | A |  |  |
-
-[Tabell 18-2](handlingar.tabeller/18-2.csv)
-
 | Förslag till nya fokusområden | Ta bort fokusområden |
 | --- | --- |
 |  |  |
@@ -597,7 +573,7 @@ ETT MEDSKAPANDE SAMHÄLLE OCH EN ÖPPEN ATTITYD- FOKUSOMRÅDEN
 |  |  |
 |  |  |
 
-[Tabell 18-3](handlingar.tabeller/18-3.csv)
+[Tabell 18-2](handlingar.tabeller/18-2.csv)
 
 | Indikator | Utvärdera<br>A, B, C | Målsättning 2027<br>(öka/minska) | Kommentar nya<br>förslag |
 | --- | --- | --- | --- |
@@ -606,7 +582,7 @@ ETT MEDSKAPANDE SAMHÄLLE OCH EN ÖPPEN ATTITYD- FOKUSOMRÅDEN
 | Arbetslöshet för ungdomar 16–24 år i<br>kommunen. (Källa: Arbetsförmedlingen och<br>SCB) | A |  |  |
 | Kostnad utbetalt ekonomiskt bistånd,<br>kr/invånare (Kolada) | A |  |  |
 
-[Tabell 18-4](handlingar.tabeller/18-4.csv)
+[Tabell 18-3](handlingar.tabeller/18-3.csv)
 
 | Förslag till nya fokusområden | Ta bort fokusområden |
 | --- | --- |
@@ -9667,20 +9643,12 @@ faktiskt kan påverkas – genom markpolitik, avtal, samverkan och strategisk pl
 
 Mölndals stad     Bostadsförsörjningsprogram         11
 
-[Tabell 257-1](handlingar.tabeller/257-1.csv)
+[Tabell 257-259-1](handlingar.tabeller/257-259-1.csv)
 
 | Riktlinje | Indikator (definition) | Källa/metod | Ansvarig/dataäg<br>are |
 | --- | --- | --- | --- |
 | Planera där<br>staden växer | Andel nybyggda bostäder i<br>stationsnära lägen | Bygglov + GIS | BMF Bygglov |
-
-<!-- sida 258 -->
-
-Mölndals stad     Bostadsförsörjningsprogram         12
-
-[Tabell 258-1](handlingar.tabeller/258-1.csv)
-
 |  | Antal färdigställda bostäder i<br>utvecklingsorterna (Mölndal,<br>Kållered, Lindome, Hällesåker) | SCB/bygglov/infly<br>tt | BMF Bygglov |
-| --- | --- | --- | --- |
 | Varierat<br>utbud i alla<br>livsskeden | Antal färdigställda små<br>lägenheter (<45 kvm) | Bygglov | BMF Bygglov |
 |  | Antal färdigställa stora<br>lägenheter (≥ 4 rok) | Bygglov | BMF Bygglov |
 |  | Antal färdigställa småhus | Bygglov | BMF Bygglov |
@@ -9689,6 +9657,18 @@ Mölndals stad     Bostadsförsörjningsprogram         12
 |  | Antal färdigställda bostäder i<br>särskilda boendeformer utanför<br>lagstadgad omsorg (t.ex.<br>trygghetsboenden, 55+/60+-<br>boenden, gemenskapsboenden) | Bygglov/VOF | BMF Bygglov,<br>VOF, SBF FA |
 |  | Antal bostäder för unga<br>(student/kollektiv/”compact<br>living”) via mark/avtal | Avtal/bygglov | SBF Mark och<br>exploatering |
 | Beredskap<br>för | Antal bostäder i antagna/laga<br>kraft DP | Planregister | SBF Planenhet |
+| bostadsbygga<br>nde |  |  |  |
+|  | Andel DP där byggstart skett ≤5<br>år efter laga kraft | Planregister +<br>byggstart | SBF<br>Planenhet/BMF<br>Bygglov |
+|  | Genomsnittlig planläggningstid<br>(initiering>antagande) | Planprocessdata | SBF Planenhet |
+| Klimat och<br>miljö | Andel antagna/lagakraftvunna<br>DP med krav eller bestämmelser<br>på<br>grönytefaktor/ekosystemtjänster | Planregister | SBF Planenhet,<br>SBF MEX |
+|  | Andel nyproduktion under BBR-<br>krav (kWh/m2) | Energiberäkningar | BMF Bygglov |
+|  | Antal antagna/lagakraftvunna<br>med klimatanpassningsåtgärder | Planregister | SBF Planenhet |
+|  | Andel av allmännyttans<br>bostadsbestånd som renoverats<br>eller energieffektiviserats under<br>perioden | Mölndalsbostäder,<br>Förbo | Mölndalsbostäder<br>AB, Förbo AB |
+|  | Förhållande mellan investeringar<br>i renovering och i nyproduktion<br>(kr/år) | Mölndalsbostäder,<br>Förbo | Mölndalsbostäder<br>AB, Förbo AB |
+
+<!-- sida 258 -->
+
+Mölndals stad     Bostadsförsörjningsprogram         12
 
 <!-- sida 259 -->
 
@@ -9704,18 +9684,6 @@ eventuella revideringar av programmets inriktning.
 bostadsproduktion och status för indikatorerna.
 
 Mölndals stad     Bostadsförsörjningsprogram         13
-
-[Tabell 259-1](handlingar.tabeller/259-1.csv)
-
-| bostadsbygga<br>nde |  |  |  |
-| --- | --- | --- | --- |
-|  | Andel DP där byggstart skett ≤5<br>år efter laga kraft | Planregister +<br>byggstart | SBF<br>Planenhet/BMF<br>Bygglov |
-|  | Genomsnittlig planläggningstid<br>(initiering>antagande) | Planprocessdata | SBF Planenhet |
-| Klimat och<br>miljö | Andel antagna/lagakraftvunna<br>DP med krav eller bestämmelser<br>på<br>grönytefaktor/ekosystemtjänster | Planregister | SBF Planenhet,<br>SBF MEX |
-|  | Andel nyproduktion under BBR-<br>krav (kWh/m2) | Energiberäkningar | BMF Bygglov |
-|  | Antal antagna/lagakraftvunna<br>med klimatanpassningsåtgärder | Planregister | SBF Planenhet |
-|  | Andel av allmännyttans<br>bostadsbestånd som renoverats<br>eller energieffektiviserats under<br>perioden | Mölndalsbostäder,<br>Förbo | Mölndalsbostäder<br>AB, Förbo AB |
-|  | Förhållande mellan investeringar<br>i renovering och i nyproduktion<br>(kr/år) | Mölndalsbostäder,<br>Förbo | Mölndalsbostäder<br>AB, Förbo AB |
 
 <!-- sida 260 -->
 
@@ -11476,17 +11444,42 @@ Kartläggning                    externa             priser
 
 Kartläggning                    interna            priset
 
+Politiskt                                Nominerings-
+Pris        FVL           KompPertiesnsusumtmveackling Förfarande       Delas ut            Övrigt
+instiftat                                   period
+Årets leverans, Årets
+Medarbetare och
+Del av Medarbetardagen
+nyskapare, Årets
+Året medarbetare                                  invånare röstar,
+KSF     Nej       välkomnare                     Maj-okt     Nov
+(fyra kategorier)                                 Intern jury utser                   Både medarbetare och invånare kan
+10 000 kr
+nominera och rösta.
+vinnare
+Årets team
+25 000 kr
+Årets utvecklande
+ledare: 15 000 kr
+kompetensutveckling
+Årets ledare                                    Intern jury utser
+KSF     Nej                                      Feb-mars    Sept          Del av Ledardagen
+(två kategorier)                                     vinnare
+Årets nyskapande
+ledare: 15 000 kr
+kompetensutveckling
+10 000-20000                  Hösten, senast
+Leva livet-priset VO     KF                                                  KF feb    Krockar med Årets medarbetare?
+kompetensutveckling                  1 nov
+Krockar med Årets medarbetare?
+Nämnden utser Hösten, senast
+Lära för livet-priset FG & GA Nämnd\* 10 000 kr/pristagare                     KF nov
+varsin vinnare    1 okt
+Har tidigare delats ut i juni.
+Ej i bruk, men beslutat i KF 2021-05-04.
+Självständigt liv IF     KF
+(KS-2019-00903 i Ciceron).
 \*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
-
-[Tabell 301-1](handlingar.tabeller/301-1.csv)
-
-| Pris | FVL | Politiskt<br>instiftat | KompPertiesnsusumtmveackling | Förfarande | Nominerings-<br>period | Delas ut | Övrigt |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Året medarbetare<br>(fyra kategorier) | KSF | Nej | Årets leverans, Årets<br>nyskapare, Årets<br>välkomnare<br>10 000 kr<br>Årets team<br>25 000 kr | Medarbetare och<br>invånare röstar,<br>Intern jury utser<br>vinnare | Maj-okt | Nov | Del av Medarbetardagen<br>Både medarbetare och invånare kan<br>nominera och rösta. |
-| Årets ledare<br>(två kategorier) | KSF | Nej | Årets utvecklande<br>ledare: 15 000 kr<br>kompetensutveckling<br>Årets nyskapande<br>ledare: 15 000 kr<br>kompetensutveckling | Intern jury utser<br>vinnare | Feb-mars | Sept | Del av Ledardagen |
-| Leva livet-priset | VO | KF | 10 000-20000<br>kompetensutveckling |  | Hösten, senast<br>1 nov | KF feb | Krockar med Årets medarbetare? |
-| Lära för livet-priset | FG & GA | Nämnd\* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
-| Självständigt liv | IF | KF |  |  |  |  | Ej i bruk, men beslutat i KF 2021-05-04.<br>(KS-2019-00903 i Ciceron). |
 
 <!-- sida 302 -->
 
@@ -13204,6 +13197,14 @@ sänkning av två avgifter:
 Förslagen till ändrade service och biljettuppläggningsavgifter innebär avgifter som är något högre än
 de var fram till mars 2025.
 
+Avgift                       Fram till Från och med Nytt förslag
+2025-03-01 25-03-01  2026
+
+Serviceavgift kronor per biljett 8 kr / 5 kr 25 kr/ 20 kr 10 kr/7 kr
+
+(den lägre summan vid barnproduktioner)
+Biljettuppläggningsavgift     600 kr   1 500 kr 750 kr
+
 Nämnden för Kultur & Fritid föreslår inga ändringar i övrigt av avgifterna för Kungsbacka Teater och
 konsertsalen Snäckan och avser inte heller att göra någon indexjustering för 2026.
 
@@ -13215,13 +13216,6 @@ justerade avgifter ligger i nivå med dessa.
 Rickard Vidlund                    Anders Johansson
 
 Kommundirektör                     Biträdande kommundirektör
-
-[Tabell 348-1](handlingar.tabeller/348-1.csv)
-
-| Avgift | Fram till<br>2025-03-01 | Från och med<br>25-03-01 | Nytt förslag<br>2026 |
-| --- | --- | --- | --- |
-| Serviceavgift kronor per biljett<br>(den lägre summan vid barnproduktioner) | 8 kr / 5 kr | 25 kr/ 20 kr | 10 kr/7 kr |
-| Biljettuppläggningsavgift | 600 kr | 1 500 kr | 750 kr |
 
 <!-- sida 349 -->
 

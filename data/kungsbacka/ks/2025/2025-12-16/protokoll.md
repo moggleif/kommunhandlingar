@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.14178fa219b2bfdb5495c25/17660613684
 sha256: 7732ddaee76415402e4ceba651090eb9d0dd1ca5ae0f6803f1273bbbdab39522
 bytes: 500619
 sidor: 47
-hamtad: 2026-10-08T09:11:04+00:00
-konverterad: 2026-10-08T09:11:09+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:03:17+00:00
+konverterad: 2026-10-15T07:03:25+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1957,7 +1957,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 347A1B9DF07F88B025B9631CCEA76852DD1F15350E
 Transaktionsidentitet: 4925FBFE37A690F4323E8FD312D985A628914C8F13
 
-[Tabell 43-1](protokoll.tabeller/43-1.csv)
+[Tabell 43-44-1](protokoll.tabeller/43-44-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -1969,6 +1969,8 @@ Transaktionsidentitet: 4925FBFE37A690F4323E8FD312D985A628914C8F13
 | Samhällsbyggnadschef | Kommunstyrelsen avstår från att lämna yttrande<br>över Klimat- och näringslivsdepartementets utkast<br>till lagrådsremiss - En mer ändamålsenlig prövning<br>av kärntekniska anläggningar |
 | Samhällsbyggnadschef | Kommunstyrelsen avstår att lämna yttrande över<br>delbetänkande Ny kärnkraft – ett samlat system för<br>omhändertagande av radioaktivt avfall |
 | Samhällsbyggnadschef | Kommunstyrelsen avstår från att lämna yttrande |
+|  | över Klimat- och näringslivsdepartementets remiss<br>Ny Kärnkraft i Sverige, fler möjliga platser vid<br>kusten |
+| Exploateringshandläggare | Avtal om lägenhetsarrende Dannebacka 2:18 - Mark<br>för toalettbyggnad |
 
 <!-- sida 44 -->
 
@@ -1985,12 +1987,6 @@ redovisningen av delegeringsbeslut fattade under perioden 2025-11-01 till
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 347A1B9DF07F88B025B9631CCEA76852DD1F15350E
 Transaktionsidentitet: 4925FBFE37A690F4323E8FD312D985A628914C8F13
-
-[Tabell 44-1](protokoll.tabeller/44-1.csv)
-
-|  | över Klimat- och näringslivsdepartementets remiss<br>Ny Kärnkraft i Sverige, fler möjliga platser vid<br>kusten |
-| --- | --- |
-| Exploateringshandläggare | Avtal om lägenhetsarrende Dannebacka 2:18 - Mark<br>för toalettbyggnad |
 
 <!-- sida 45 -->
 

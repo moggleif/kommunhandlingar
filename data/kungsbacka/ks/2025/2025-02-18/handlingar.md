@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.42aac4b1194d846c2fcf1032/1739534411
 sha256: 6fa418c3de52ea0b5801063caf4b107176ececab8ce615aa85c3f47d9722ca15
 bytes: 55469329
 sidor: 727
-hamtad: 2026-10-08T10:48:21+00:00
-konverterad: 2026-10-08T10:50:47+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T08:37:47+00:00
+konverterad: 2026-10-15T08:40:44+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [9, 226, 436, 437, 438, 506, 507, 555, 596]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [9, 226, 436, 437, 438, 506, 507, 555, 596, 599, 688]
+figurer: [9, 38, 40, 43, 44, 46, 47, 48, 50, 52, 54, 55, 58, 60, 62, 64, 66, 67, 68, 69, 71, 73, 74, 83, 85, 86, 88, 89, 91, 93, 95, 97, 99, 102, 104, 105, 106, 108, 109, 110, 113, 114, 115, 116, 117, 118, 119, 120, 121, 123, 125, 127, 130, 131, 132, 133, 134, 139, 142, 143, 153, 154, 166, 169, 170, 173, 177, 185, 186, 187, 188, 189, 190, 194, 196, 197, 198, 199, 201, 202, 203, 204, 205, 206, 207, 208, 210, 211, 212, 213, 214, 215, 216, 218, 219, 220, 221, 222, 223, 224, 281, 283, 286, 287, 289, 290, 291, 293, 295, 297, 298, 300, 303, 305, 307, 309, 311, 312, 313, 314, 316, 318, 319, 328, 330, 331, 333, 334, 336, 338, 340, 342, 344, 346, 348, 349, 350, 352, 353, 355, 358, 359, 360, 361, 362, 363, 364, 365, 366, 368, 370, 372, 374, 375, 377, 378, 379, 380, 381, 386, 389, 390, 400, 401, 413, 447, 448, 449, 450, 451, 464, 465, 497, 515, 516, 517, 518, 520, 555, 568, 571, 576, 579, 581, 582, 584, 585, 586, 587, 590, 595, 599, 600, 602, 603, 607, 608, 610, 611, 613, 614, 615, 616, 623, 624, 625, 656, 660, 661, 663, 667, 669, 683, 685, 686, 687, 688, 689, 690]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -58,7 +58,7 @@ KUNGSBACKA  KOMMUN
 
 2(6)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-6-1](handlingar.tabeller/2-6-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -69,6 +69,17 @@ KUNGSBACKA  KOMMUN
 | 6. | Erbjudande om medlemskap i<br>kommunalförbundet<br>Tolkförmedling Väst | 2024-00694 | Förslag till beslut i kommunstyrelsen<br>Kungsbacka kommun ansöker inte om medlemskap i<br>Tolkförmedling Väst. |
 | 7. | Delegeringsförteckning för<br>kommunstyrelsen | 2025-00072 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar delegeringsförteckning för<br>kommunstyrelsen, daterad 2025-01-08.<br>Delegeringsförteckningen för kommunstyrelsen,<br>antagen av kommunstyrelsen 2024-06-18, §§ 165-<br>166, upphör samtidigt att gälla. |
 | 8. | Avslut av uppdrag om<br>avsiktsförklaring gällande<br>tågstation i Frillesås | 2021-01004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen konstaterar att frågan om en<br>framtida station i Frillesås hanterats i<br>Planeringsstrategi för översiktsplanen, antagen av<br>kommunfullmäktige 2024-06-13, § 157, och förklarar<br>därmed uppdraget som lämnades av<br>kommunstyrelsen 2021-11-23, § 293, om att ta fram<br>ett underlag för en avsiktsförklaring gällande en<br>tågstation i Frillesås, för avslutat. |
+| 9. | Avvikelse från bestämmelser<br>om arbetstidens förläggning<br>inom personlig assistans inom<br>förvaltningen för Individ- och<br>Familjeomsorg | 2024-00718 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen beviljar avvikelse från regler om<br>maxlängden på 20 timmar för ett arbetspass till 24<br>timmar inom personlig assistans för individer som<br>har ett identifierat behov. Beslutet gäller under<br>perioden 2025-02-01 till och med 2026-01-31. |
+| 10. | Begäran om planbesked för<br>Bäcken 1:31 m.fl. | 2024-00780 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten att möjliggöra fastighetsbildning enligt<br>begäran om planbesked.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för planändring med<br>syfte att möjliggöra fastighetsbildning för totalt åtta<br>bostäder inom Bäcken 1:31, 1:32, 1:33 och 1:34 i<br>Onsala. |
+| 11. | Svar på Naturvårdsverkets<br>remiss av Förslag till<br>författningsändringar till följd<br>av EU:s reviderade<br>förordningar om fluorerade<br>växthusgaser och<br>ozonnedbrytande ämnen | 2024-00761 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-01-13,<br>och översänder det som sitt svar till Klimat- och<br>näringslivsdepartementet. |
+| 12. | Svar på Länsstyrelsen i<br>Hallands läns remiss av<br>Energi- och klimatstrategi för<br>Hallands län | 2024-00791 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-01-16,<br>och översänder det som sitt svar till Länsstyrelsen i<br>Hallands län. |
+| 13. | Anmälan av delegeringsbeslut | 2025-00006 | Förslag till beslut i kommunstyrelsen<br>14B<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
+| 14. | Anmälan av ordförandebeslut | 2025-00007 | Förslag till beslut i kommunstyrelsen<br>14B<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
+| 15. | Redovisning av inkomna<br>skrivelser | 2025-00004 | Förslag till beslut i kommunstyrelsen<br>16B<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
+| 16. | Fastställande av koncernbudget<br>2025 | 2023-00686 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fastställer koncernbudget 2025<br>med tjänsteskrivelse, daterad 2025-01-02, vilken är<br>en bilaga till beslutad Kommunbudget 2025, plan<br>2026–2027, fastställd av kommunfullmäktige<br>2024-06-13, § 91.<br>Kommunfullmäktige fastställer resultaträkning samt<br>investeringar och lånebehov för Eksta Bostads AB.<br>Kommunfullmäktige fastställer den samlade<br>koncernens investeringsvolym inklusive<br>exploateringar 2025, till 1 453 miljoner kronor netto,<br>varav kommunens andel är 1 303 miljoner kronor och<br>Eksta Bostads AB:s andel är 150 miljoner kronor.<br>Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen delegerar till ekonomichefen eller<br>dennes ersättare att omsätta befintliga lån vid förfall<br>samt uppta nya lån till ett totalbelopp av 550 miljoner<br>kronor under 2025. Den totala låneskulden får inte<br>överstiga totalbeloppet 1 750 miljoner kronor.<br>Kommundirektören och ekonomichefen eller deras<br>respektive ersättare, utses att var för sig för<br>kommunens räkning underteckna lånereverser.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att fördela medlen avsatta för arbete med bättre<br>friskvård. |
+| 17. | Vattentjänstplan för<br>Kungsbacka kommun | 2023-00852 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar vattentjänstplan för<br>Kungsbacka kommun, daterad 2024-05-30. |
+| 18. | Godkännande av projekt och<br>finansiering av gång- och<br>cykelväg Södra<br>Rågelundsvägen -<br>Lurendalsvägen | 2024-00854 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner<br>medfinansieringsavtal med Trafikverket Gång- och<br>cykelväg längs väg 845 genom Frillesås, Södra<br>Rågelundsvägen-Lurendalsvägen, Kungsbacka<br>kommun, daterat 2024-11-21.<br>Kommunfullmäktige ger kommunstyrelsens<br>ordförande och kommundirektören, eller vid förfall<br>för dessa deras respektive ställföreträdare, i uppdrag<br>att underteckna medfinansieringsavtalet.<br>Kommunfullmäktige omfördelar 15,5 miljoner<br>kronor ur kommunens centrala finansverksamhet till<br>nämnden för Teknik i prisnivå juni 2024 jämte<br>eventuell uppräkning för kostnadsutveckling enligt<br>Trafikverkets index för väginvesteringar.<br>Kommunfullmäktige omfördelar 3,1 miljoner kronor,<br>till en projektspecifik riskreserv, ur kommunens<br>centrala finansverksamhet till nämnden för Teknik i<br>prisnivå juni 2024 jämte eventuell uppräkning för<br>kostnadsutveckling enligt Trafikverkets index för<br>väginvesteringar.<br>Kommunfullmäktige minskar nämnden för Tekniks<br>investeringsram med motsvarande summa.<br>Kommunfullmäktige uppdrar åt nämnden för Teknik<br>att genomföra projektet inom ramen för<br>medfinansieringsavtalet samt inom tilldelade medel<br>för projektet och riskreserv.<br>Kommunfullmäktige beslutar att enligt kommunens<br>ekonomistyrprinciper ska 18,6 miljoner kronor<br>kostnadsföras direkt under år 2025 och belasta detta<br>års resultat. |
+| 19. | Högsta priser för Kungsbacka<br>badhus och Fjärås simhall | 2024-00881 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fastställer maximala priser för<br>allmänhet, skolor och föreningar i Kungsbacka<br>badhus och Fjärås simhall som koncessionshavaren<br>får ta ut samt övriga villkor som ska gälla för<br>driftoperatörens verksamhet i anläggningarna för<br>perioden från 2026-07-01 till 2033-06-30 enligt<br>dokumentet Villkor priser, Bilaga 3, Högsta pris<br>Kungsbacka badhus och Fjärås simhall tiden<br>2026-07-01–2033-06-30, daterad 2025-01-08.<br>Kommunfullmäktige ger nämnden för Kultur &<br>Fritid möjlighet att årligen justera priserna i Villkor<br>priser, Bilaga 3, Högsta priser Kungsbacka badhus<br>och Fjärås simhall tiden 2026-07-01–2033-06-30,<br>daterad 2025-01-08, i enlighet med villkorsbilagans<br>punkt 5.2 om indexreglering. |
 
 <!-- sida 3 -->
 
@@ -76,42 +87,17 @@ KUNGSBACKA  KOMMUN
 
 3(6)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 9. | Avvikelse från bestämmelser<br>om arbetstidens förläggning<br>inom personlig assistans inom<br>förvaltningen för Individ- och<br>Familjeomsorg | 2024-00718 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen beviljar avvikelse från regler om<br>maxlängden på 20 timmar för ett arbetspass till 24<br>timmar inom personlig assistans för individer som<br>har ett identifierat behov. Beslutet gäller under<br>perioden 2025-02-01 till och med 2026-01-31. |
-| 10. | Begäran om planbesked för<br>Bäcken 1:31 m.fl. | 2024-00780 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten att möjliggöra fastighetsbildning enligt<br>begäran om planbesked.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för planändring med<br>syfte att möjliggöra fastighetsbildning för totalt åtta<br>bostäder inom Bäcken 1:31, 1:32, 1:33 och 1:34 i<br>Onsala. |
-| 11. | Svar på Naturvårdsverkets<br>remiss av Förslag till<br>författningsändringar till följd<br>av EU:s reviderade<br>förordningar om fluorerade<br>växthusgaser och<br>ozonnedbrytande ämnen | 2024-00761 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-01-13,<br>och översänder det som sitt svar till Klimat- och<br>näringslivsdepartementet. |
-| 12. | Svar på Länsstyrelsen i<br>Hallands läns remiss av<br>Energi- och klimatstrategi för<br>Hallands län | 2024-00791 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-01-16,<br>och översänder det som sitt svar till Länsstyrelsen i<br>Hallands län. |
-| 13. | Anmälan av delegeringsbeslut | 2025-00006 | Förslag till beslut i kommunstyrelsen<br>14B<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
-| 14. | Anmälan av ordförandebeslut | 2025-00007 | Förslag till beslut i kommunstyrelsen<br>14B<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(6)
 
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 15. | Redovisning av inkomna<br>skrivelser | 2025-00004 | Förslag till beslut i kommunstyrelsen<br>16B<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
-| 16. | Fastställande av koncernbudget<br>2025 | 2023-00686 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fastställer koncernbudget 2025<br>med tjänsteskrivelse, daterad 2025-01-02, vilken är<br>en bilaga till beslutad Kommunbudget 2025, plan<br>2026–2027, fastställd av kommunfullmäktige<br>2024-06-13, § 91.<br>Kommunfullmäktige fastställer resultaträkning samt<br>investeringar och lånebehov för Eksta Bostads AB.<br>Kommunfullmäktige fastställer den samlade<br>koncernens investeringsvolym inklusive<br>exploateringar 2025, till 1 453 miljoner kronor netto,<br>varav kommunens andel är 1 303 miljoner kronor och<br>Eksta Bostads AB:s andel är 150 miljoner kronor.<br>Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen delegerar till ekonomichefen eller<br>dennes ersättare att omsätta befintliga lån vid förfall<br>samt uppta nya lån till ett totalbelopp av 550 miljoner<br>kronor under 2025. Den totala låneskulden får inte<br>överstiga totalbeloppet 1 750 miljoner kronor.<br>Kommundirektören och ekonomichefen eller deras<br>respektive ersättare, utses att var för sig för<br>kommunens räkning underteckna lånereverser.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att fördela medlen avsatta för arbete med bättre<br>friskvård. |
-| 17. | Vattentjänstplan för<br>Kungsbacka kommun | 2023-00852 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar vattentjänstplan för<br>Kungsbacka kommun, daterad 2024-05-30. |
-
 <!-- sida 5 -->
 
 KUNGSBACKA  KOMMUN
 
 5(6)
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 18. | Godkännande av projekt och<br>finansiering av gång- och<br>cykelväg Södra<br>Rågelundsvägen -<br>Lurendalsvägen | 2024-00854 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner<br>medfinansieringsavtal med Trafikverket Gång- och<br>cykelväg längs väg 845 genom Frillesås, Södra<br>Rågelundsvägen-Lurendalsvägen, Kungsbacka<br>kommun, daterat 2024-11-21.<br>Kommunfullmäktige ger kommunstyrelsens<br>ordförande och kommundirektören, eller vid förfall<br>för dessa deras respektive ställföreträdare, i uppdrag<br>att underteckna medfinansieringsavtalet.<br>Kommunfullmäktige omfördelar 15,5 miljoner<br>kronor ur kommunens centrala finansverksamhet till<br>nämnden för Teknik i prisnivå juni 2024 jämte<br>eventuell uppräkning för kostnadsutveckling enligt<br>Trafikverkets index för väginvesteringar.<br>Kommunfullmäktige omfördelar 3,1 miljoner kronor,<br>till en projektspecifik riskreserv, ur kommunens<br>centrala finansverksamhet till nämnden för Teknik i<br>prisnivå juni 2024 jämte eventuell uppräkning för<br>kostnadsutveckling enligt Trafikverkets index för<br>väginvesteringar.<br>Kommunfullmäktige minskar nämnden för Tekniks<br>investeringsram med motsvarande summa.<br>Kommunfullmäktige uppdrar åt nämnden för Teknik<br>att genomföra projektet inom ramen för<br>medfinansieringsavtalet samt inom tilldelade medel<br>för projektet och riskreserv.<br>Kommunfullmäktige beslutar att enligt kommunens<br>ekonomistyrprinciper ska 18,6 miljoner kronor<br>kostnadsföras direkt under år 2025 och belasta detta<br>års resultat. |
 
 <!-- sida 6 -->
 
@@ -121,12 +107,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Patrik Johansson
 ordförande                        kommunsekreterare
-
-[Tabell 6-1](handlingar.tabeller/6-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 19. | Högsta priser för Kungsbacka<br>badhus och Fjärås simhall | 2024-00881 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fastställer maximala priser för<br>allmänhet, skolor och föreningar i Kungsbacka<br>badhus och Fjärås simhall som koncessionshavaren<br>får ta ut samt övriga villkor som ska gälla för<br>driftoperatörens verksamhet i anläggningarna för<br>perioden från 2026-07-01 till 2033-06-30 enligt<br>dokumentet Villkor priser, Bilaga 3, Högsta pris<br>Kungsbacka badhus och Fjärås simhall tiden<br>2026-07-01–2033-06-30, daterad 2025-01-08.<br>Kommunfullmäktige ger nämnden för Kultur &<br>Fritid möjlighet att årligen justera priserna i Villkor<br>priser, Bilaga 3, Högsta priser Kungsbacka badhus<br>och Fjärås simhall tiden 2026-07-01–2033-06-30,<br>daterad 2025-01-08, i enlighet med villkorsbilagans<br>punkt 5.2 om indexreglering. |
 
 <!-- sida 7 -->
 
@@ -998,18 +978,6 @@ anges i månader
 \* Vi valde att sluta med dessa mätningar 2024 då resultatet inte gett värde för verksamheterna.
 5.3 Prestationsmått
 
-Namn                           Utfall  Utfall Utfall  Utfall  Utfall
-
-```osaker-tabell
-                                2020    2021  2022    2023    2024
-Upprättade detaljplaner            10      11      12       9      10
-
-Antal företagsärenden i tillståndslotsen 32 46     50      60      46
-Planlagda bostäder                336     662     381     386     248
-
-Automatiserade processer           10      11       3       7       7
-```
-
 Ledtid planbesked till projektstart, anges i
 5,35     24      24      31      32
 månader
@@ -1036,6 +1004,15 @@ uppföljningen 2025.
 \* Ännu ej publicerad
 
 17
+
+[Tabell 25-1](handlingar.tabeller/25-1.csv)
+
+| Namn | Utfall 2020 | Utfall 2021 | Utfall 2022 | Utfall 2023 | Utfall 2024 |
+| --- | --- | --- | --- | --- | --- |
+| Upprättade detaljplaner | 10 | 11 | 12 | 9 | 10 |
+| Antal företagsärenden i tillståndslotsen | 32 | 46 | 50 | 60 | 46 |
+| Planlagda bostäder | 336 | 662 | 381 | 386 | 248 |
+| Automatiserade processer | 10 | 11 | 3 | 7 | 7 |
 
 <!-- sida 26 -->
 
@@ -18019,24 +17996,53 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 7 (20)
 
 <!-- sida 480 -->
 
+Nr    Lagrum/stöd Delegeringens omfattning        Delegerat till Med rätt att Anmärkning/villkor
+vidaredelegera
+2.1.9 GDPR artikel 15- Helt eller delvis avslå framställan om begäran av Kdir X
+21, 23 och  utövande av registrerads rättigheter
+dataskyddslagen
+5 kap 1-3 §§
+2.1.10 GDPR artikel 35 Beslut med anledning av konsekvensbedömning Kdir X
+avseende dataskydd                        Villkor:
+Vidaredelegering får
+ske till
+kontorscheferna för
+samhällsbyggnads-
+kontoret resp.
+kommunlednings-
+kontoret.
+2.1.11 GDPR artikel 33 Anmälan av personuppgiftsincident till Kdir X
+och 34      tillsynsmyndigheten.
+Villkor:
+Vidaredelegering får
+ske till
+kontorscheferna för
+samhällsbyggnads-
+kontoret resp.
+kommunlednings-
+kontoret och
+verksamhetschefer.
+2.1.12 G DPR, artikel 28 Ingå personuppgiftsbiträdesavtal för digitala tjänster Kdir X
+och system samt överenskommelse om gemensamt Villkor:
+personuppgiftsansvar.                     Vidaredelegering får
+ske till
+kontorscheferna för
+samhällsbyggnads-
+kontoret resp.
+kommunlednings-
+kontoret och
+verksamhetschefer.
+2.1.13 GDPR artikel 30 Fastställa kommunstyrelsens register över Kdir X
+personuppgiftsbehandlingar.
+Nr    Lagrum/stöd Delegeringens omfattning        Delegerat till Med rätt att Anmärkning/villkor
+vidaredelegera
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 8 (20)
-
-[Tabell 480-1](handlingar.tabeller/480-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
-| 2.1.9 | GDPR artikel 15-<br>21, 23 och<br>dataskyddslagen<br>5 kap 1-3 §§ | Helt eller delvis avslå framställan om begäran av<br>utövande av registrerads rättigheter | Kdir | X |  |
-| 2.1.10 | GDPR artikel 35 | Beslut med anledning av konsekvensbedömning<br>avseende dataskydd | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till<br>kontorscheferna för<br>samhällsbyggnads-<br>kontoret resp.<br>kommunlednings-<br>kontoret. |  |
-| 2.1.11 | GDPR artikel 33<br>och 34 | Anmälan av personuppgiftsincident till<br>tillsynsmyndigheten. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till<br>kontorscheferna för<br>samhällsbyggnads-<br>kontoret resp.<br>kommunlednings-<br>kontoret och<br>verksamhetschefer. |  |
-| 2.1.12 | G DPR, artikel 28 | Ingå personuppgiftsbiträdesavtal för digitala tjänster<br>och system samt överenskommelse om gemensamt<br>personuppgiftsansvar. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till<br>kontorscheferna för<br>samhällsbyggnads-<br>kontoret resp.<br>kommunlednings-<br>kontoret och<br>verksamhetschefer. |  |
-| 2.1.13 | GDPR artikel 30 | Fastställa kommunstyrelsens register över<br>personuppgiftsbehandlingar. | Kdir | X |  |
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
 
 <!-- sida 481 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 9 (20)
 
-[Tabell 481-1](handlingar.tabeller/481-1.csv)
+[Tabell 481-482-1](handlingar.tabeller/481-482-1.csv)
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -18045,15 +18051,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 9 (20)
 | 2.1.16 | Regler för<br>arvoden till<br>förtroendevalda | Besluta i frågor om tolkning och tillämpningar av<br>reglerna. | Au |  |  |
 | 2.1.17 | Nämndens<br>budget, Regler<br>och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet\* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar 1:e vice<br>ordföranden och<br>vid förfall för<br>denne 2:e vice<br>ordföranden |  | Rätt till arvode för deltagande på<br>aktivitet regleras i Regler och<br>riktlinjer för förmåner till<br>förtroendevalda<br>\*I samma dokument som ovan<br>framgår vilka aktiviteter som<br>avses. |
 | 2.1.18 | Riktlinjer för<br>flaggning | Avvikelser från riktlinjerna för flaggning vid kommunens<br>officiella flaggstänger | Au |  |  |
-
-<!-- sida 482 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 10 (20)
-
-[Tabell 482-1](handlingar.tabeller/482-1.csv)
-
 |  | 2.2 Ekonomi och inköp |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
 |  |  | Inköp<br>Avser avtal (kontrakt) eller ramavtal som inte är<br>kommunövergripande. Dessa hanteras av nämnden för<br>Service.<br>Avtal eller ramavtal som avser två eller flera nämnder<br>tecknas enligt överenskommelse mellan berörda<br>nämnder. |  |  |  |
 | 2.2.1 a) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Beslut om upphandlingsdokument (UD) som följer<br>planeringen enligt inköpsprocessen. | Kdir | X | Inköpsprocessen enligt Riktlinjer<br>för inköp. |
@@ -18063,29 +18061,51 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 10 (20)
 | 2.2.1 e) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Beslut om uppsägning eller hävning av avtal. | Kdir | X<br>Villkor: Samma<br>delegat som i 2.2.1 a) |  |
 | 2.2.2 | KS beslut om<br>nämndbudget och<br>Kungsbacka<br>styrmodell | Förvaltningsbudget med fördelning på<br>verksamhetsnivå. | Kdir |  |  |
 
+<!-- sida 482 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 10 (20)
+
 <!-- sida 483 -->
 
+Nr    Lagrum/stöd Delegeringens omfattning        Delegerat till Med rätt att Anmärkning/villkor
+vidaredelegera
+2.2.3 Attestreglementet Utse beslutsattestanter och ersättare för Kdir   Anmäls till KS en gång per år.
+kommunstyrelsens förvaltning.
+2.2.4 Reglementet Ta upp lån inom den maximala beloppsgräns Kdir X
+Finanspolicyn kommunfullmäktige årligen fastställer i
+kommunbudgeten.
+
+2.2.5 Reglementet Placering av kommunens medel.   Kdir      X
+Finanspolicyn
+2.2.6 Instruktion för kdir Avtal som inte redan är definierade i Kdir X
+delegationsordningen med extern part till ett värde av
+max 250 000 kr.
+2.2.7 Reglementet Årligen bevilja föreningsbidrag, upp till 1 prisbasbelopp, Kdir X
+till Kungsbacka Närradioförening
+
+2.2.8 Reglementet Årligen bevilja föreningsbidrag, maximalt två Kdir X
+prisbasbelopp per år, till Hallands arkivförbund
+2.2.9 Reglementet Årligen besluta om bidrag upp till ett belopp om fyra Kdir X
+prisbasbelopp per år, till Nyföretagarcentrum Halland.
+
+2.2.10 Riktlinjer för Undantag för kommunstyrelsen från huvudregeln att Kdir X
+finansverksamhet leasing inte är tillåtet för annat än fordon och
+avsnitt 5   arbetsmaskiner.
+Gemensamt
+reglemente § 9
+2.2.11 Riktlinjer för Godkännande för nämnd för undantag från huvudregeln Kdir X
+finansverksamhet att leasing inte är tillåtet för annat än fordon och
+avsnitt 5   arbetsmaskiner.
+Gemensamt
+reglemente § 9
+
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 11 (20)
-
-[Tabell 483-1](handlingar.tabeller/483-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
-| 2.2.3 | Attestreglementet | Utse beslutsattestanter och ersättare för<br>kommunstyrelsens förvaltning. | Kdir |  | Anmäls till KS en gång per år. |
-| 2.2.4 | Reglementet<br>Finanspolicyn | Ta upp lån inom den maximala beloppsgräns<br>kommunfullmäktige årligen fastställer i<br>kommunbudgeten. | Kdir | X |  |
-| 2.2.5 | Reglementet<br>Finanspolicyn | Placering av kommunens medel. | Kdir | X |  |
-| 2.2.6 | Instruktion för kdir | Avtal som inte redan är definierade i<br>delegationsordningen med extern part till ett värde av<br>max 250 000 kr. | Kdir | X |  |
-| 2.2.7 | Reglementet | Årligen bevilja föreningsbidrag, upp till 1 prisbasbelopp,<br>till Kungsbacka Närradioförening | Kdir | X |  |
-| 2.2.8 | Reglementet | Årligen bevilja föreningsbidrag, maximalt två<br>prisbasbelopp per år, till Hallands arkivförbund | Kdir | X |  |
-| 2.2.9 | Reglementet | Årligen besluta om bidrag upp till ett belopp om fyra<br>prisbasbelopp per år, till Nyföretagarcentrum Halland. | Kdir | X |  |
-| 2.2.10 | Riktlinjer för<br>finansverksamhet<br>avsnitt 5<br>Gemensamt<br>reglemente § 9 | Undantag för kommunstyrelsen från huvudregeln att<br>leasing inte är tillåtet för annat än fordon och<br>arbetsmaskiner. | Kdir | X |  |
-| 2.2.11 | Riktlinjer för<br>finansverksamhet<br>avsnitt 5<br>Gemensamt<br>reglemente § 9 | Godkännande för nämnd för undantag från huvudregeln<br>att leasing inte är tillåtet för annat än fordon och<br>arbetsmaskiner. | Kdir | X |  |
 
 <!-- sida 484 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 12 (20)
 
-[Tabell 484-1](handlingar.tabeller/484-1.csv)
+[Tabell 484-485-1](handlingar.tabeller/484-485-1.csv)
 
 |  | 2.3 Personal<br>Kommunövergripande personalärenden |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -18098,23 +18118,19 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 12 (20)
 | 2.3.6 | LAS | Anställning av<br>kommundirektör. | KS |  | Au bereder ärendet |
 | 2.3.7 | Lönestruktur,<br>arbetsrättslig<br>reglering | Lönesättning (vid nyanställning) och beslut i övriga<br>personalärenden för kommundirektör. | Ks ordf |  |  |
 | 2.3.8 | LAS | Anställning av förvaltningschef hos nämnd. | Au |  | Kommundirektören bereder<br>ärendet. |
+| Nr<br>2.3.9 | Lagrum/stöd<br>LAS | Delegeringens omfattning<br>Anställning av förvaltningschef hos nämnd på<br>tidsbegränsat förordnande samt beslut om<br>ställföreträdande förvaltningschef hos nämnd. | Delegerat till<br>Kdir | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
+| 2.3.10 | Reglementet | Lönesättning av förvaltningschef hos nämnd (vid<br>nyanställning). | Kdir |  | Information till Au i samband med<br>lönesättning. |
+| 2.3.11 | Arbetsrättslig<br>reglering | Övriga personalärenden rörande förvaltningschef hos<br>nämnd | Kdir |  | Beslut om avsked för fc föregås<br>av samråd med Au.<br>Vid beslut om bisyssla för fc ska<br>information till Au ske. |
 
 <!-- sida 485 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 13 (20)
 
-[Tabell 485-1](handlingar.tabeller/485-1.csv)
-
-| Nr<br>2.3.9 | Lagrum/stöd<br>LAS | Delegeringens omfattning<br>Anställning av förvaltningschef hos nämnd på<br>tidsbegränsat förordnande samt beslut om<br>ställföreträdande förvaltningschef hos nämnd. | Delegerat till<br>Kdir | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
-| 2.3.10 | Reglementet | Lönesättning av förvaltningschef hos nämnd (vid<br>nyanställning). | Kdir |  | Information till Au i samband med<br>lönesättning. |
-| 2.3.11 | Arbetsrättslig<br>reglering | Övriga personalärenden rörande förvaltningschef hos<br>nämnd | Kdir |  | Beslut om avsked för fc föregås<br>av samråd med Au.<br>Vid beslut om bisyssla för fc ska<br>information till Au ske. |
-
 <!-- sida 486 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 14 (20)
 
-[Tabell 486-1](handlingar.tabeller/486-1.csv)
+[Tabell 486-487-1](handlingar.tabeller/486-487-1.csv)
 
 |  | Kommunstyrelsens egna personalärenden |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -18123,15 +18139,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 14 (20)
 | 2.3.12 | LAS,<br>kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader avseende chefer för respektive<br>kontor inom kommunstyrelsens förvaltning. | Kdir |  | Samråd med<br>Au innan anställning.<br>Tidsbegränsad anställning<br>kortare än 6 månader är<br>verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor. |
 | 2.3.13 | LAS,<br>kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader för verksamhetschefer och direkt<br>underställd personal inom kommunstyrelsens<br>förvaltning. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till kontorschefer<br>för samhälls-<br>byggnadskontoret<br>resp. kommun-<br>ledningskontoret. | Tidsbegränsad anställning<br>kortare än 6 månader är<br>verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor.<br>Vidaredelegeringen gäller för<br>anställning av personal inom sitt<br>respektive ansvarsområde. |
 | 2.3.14 | LAS,<br>kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader för övrig personal inom<br>kommunstyrelsens förvaltning. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till verksamhets-<br>chefer. | Tidsbegränsad anställning kortare<br>än 6 månader är verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor.<br>Vidaredelegeringen gäller för<br>anställning av personal inom sitt<br>respektive ansvarsområde. |
-
-<!-- sida 487 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (20)
-
-[Tabell 487-1](handlingar.tabeller/487-1.csv)
-
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.3.15 | Arbetsrättslig<br>reglering | Beslut i övriga personalärenden rörande chefer vid<br>respektive kontor inom kommunstyrelsens förvaltning. | Kdir |  |  |
 |  |  | Avveckla |  |  |  |
 | 2.3.16 | LAS § 7 | Uppsägning av personliga skäl. | Kdir | X | I samråd med HR på förvaltningen<br>och förhandlingschef. |
@@ -18143,11 +18151,15 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (20)
 | 2.3.21 | AB § 10 mom 1-3 | Avstängning | Kdir | X | I samråd med HR på<br>förvaltningen. |
 | 2.3.22 | AB § 11 | Disciplinåtgärd – skriftlig varning | Kdir | X | I samråd med HR på<br>förvaltningen. |
 
+<!-- sida 487 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (20)
+
 <!-- sida 488 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 16 (20)
 
-[Tabell 488-1](handlingar.tabeller/488-1.csv)
+[Tabell 488-490-1](handlingar.tabeller/488-490-1.csv)
 
 |  | 2.4 Samhällsbyggnad |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -18162,15 +18174,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 16 (20)
 | 2.4.8 | Reglementet | Avtal om arrende och annan upplåtelse av kommunens<br>mark för en tid av högst 5 år. | Kdir | X | Se bestämmelserna punkt 1.5 |
 | 2.4.9 | Reglementet | Avtal om arrende och annan upplåtelse av kommunens<br>mark för en tid av högst 10 år. | Au |  |  |
 | 2.4.10 | Reglementet | Uppsägning, överlåtelse eller medgivande till<br>vidareöverlåtelse av arrendeavtal. | Kdir | X | Se bestämmelserna punkt 1.5 |
-
-<!-- sida 489 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (20)
-
-[Tabell 489-1](handlingar.tabeller/489-1.csv)
-
 | Nr | La8grum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.4.11 | Reglementet | Servitutsavtal, markavtal och avtal för ledningsrätter<br>samt vägrätt avseende upplåtelse på kommunens<br>mark, upp till 2 miljoner kr. | Kdir | X | Villkor:<br>Vidaredelegering upp till 2<br>miljoner kronor får ske till VC och<br>upp till 250 000 kronor till annan<br>anställd.<br>Se bestämmelserna punkt 1.5 |
 | 2.4.12 | Reglementet | Tillförsäkra kommunen nyttjanderätter (t.ex. arrende,<br>servitut, tomträtt) för kommunens förvaltningar upp till<br>250 000 kr. | Kdir | X | Se bestämmelserna punkt 1.5 |
 | 2.4.13 | Reglementet | Upplåtelse av allmän plats för särskilda ändamål | Kdir | X | Nämnden för Teknik handlägger<br>yttranden om tillstånd enligt OL 3<br>kap 2 §. |
@@ -18178,21 +18182,21 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (20)
 | 2.4.15 | Reglementet | Förvärv av fastighet eller del av fastighet, genom köp,<br>byte, gåva, fastighetsreglering eller liknande åtgärd, upp<br>till 2 miljoner kr. | Kdir | X | Villkor:<br>Vidaredelegering upp till 2<br>miljoner kronor får ske till VC och<br>upp till 250 000 kronor till annan<br>anställd.<br>Se bestämmelserna punkt 1.5. |
 | 2.4.16 | Reglementet | Uppdrag om förberedelse för överlåtelse av kommunens<br>fasta egendom (fastighet eller del av fastighet). | Au |  |  |
 | 2.4.17 | Reglementet | Överlåtelse av kommunens fasta egendom, (fastighet<br>eller del av fastighet) genom köp, byte, gåva,<br>fastighetsreglering eller liknande åtgärd, upp till 10<br>miljoner kr. | Au |  |  |
-
-<!-- sida 490 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 18 (20)
-
-[Tabell 490-1](handlingar.tabeller/490-1.csv)
-
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.4.18 | Reglementet | Överlåtelse av kommunens fasta egendom (fastighet<br>eller del av fastighet) genom köp, byte, gåva,<br>fastighetsreglering eller liknande åtgärd, upp till 2<br>miljoner kr. | Kdir | X | Villkor:<br>Vidaredelegering upp till 2<br>miljoner kronor får ske till VC och<br>upp till 250 000 kronor till annan<br>anställd.<br>Se bestämmelserna punkt 1.5. |
 | 2.4.19 | Reglementet | Utredning för lokalisering av verksamhet. | Au |  |  |
 | 2.4.20 | Reglementet | Avtal om parkeringsköp och parkeringsavlösen. | Kdir | X | Se bestämmelserna punkt 1.5. |
 | 2.4.21 | Reglementet | Förvärv av fast egendom som försäljs på exekutiv- eller<br>offentlig auktion där kommunen har intecknad fordran<br>eller är intecknad för lån med kommunal borgen. | Kdir | X | Samråd Au inför auktion. Se<br>bestämmelserna punkt 1.5 |
 | 2.4.22 | Reglementet | Nedsättning, dödning, sammanföring och relaxation av<br>inteckningar samt utbyte av pantbrev liksom andra<br>därmed jämförliga åtgärder. | Kdir | X | Se bestämmelserna punkt 1.5 |
 | 2.4.23 | KS 2024-06-18 §<br>166 | Ansöka om bidrag enligt Boverkets bidragsutlysning om<br>stöd till kommuner för ökat småhusbyggande och<br>omvandlingsåtgärder. | Kdir | X |  |
+
+<!-- sida 489 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (20)
+
+<!-- sida 490 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 18 (20)
 
 <!-- sida 491 -->
 
@@ -20743,34 +20747,27 @@ Kommunkoncernens    investeringar och lånebehov
 
 Kungsbacka  kommun
 
-Planperiod
-
-```osaker-tabell
-Koncernens investeringsplan, mkr    2024     2025      2026     2027
-Kommunbudget 2025, KF 2024-06-13, §91 1 445  1 303     2 054    2 607
-
-Eksta Bostads AB                     300      150       200      200
-
-Summa investeringar årligen         1 745    1 453     2 254    2 807
-```
-
-Summa investeringar perioden                                    8 259
-
-```osaker-tabell
-Koncernens nyupplåningsbehov, mkr   2024     2025      2026     2027
-Kommunbudget 2025, KF 2024-06-13, §91 350     200       950     1 300
-
-Eksta Bostads AB                      0         0       100      100
-
-Summa lånebehov årligen              350      200      1050     1400
-```
-
-Summa lånebehov perioden                                        3 000
-
-Andel egenfinansiering koncernen årligen 80%  86%      53%       50%
-Andel egenfinansiering koncernen perioden                        64%
-
 ‎
+
+[Tabell 556-1](handlingar.tabeller/556-1.csv)
+
+| Koncernens investeringsplan, mkr | 2024 | Planperiod 2025 | 2026 | 2027 |
+| --- | --- | --- | --- | --- |
+| Kommunbudget 2025, KF 2024-06-13, §91 | 1 445 | 1 303 | 2 054 | 2 607 |
+| Eksta Bostads AB | 300 | 150 | 200 | 200 |
+| Summa investeringar årligen | 1 745 | 1 453 | 2 254 | 2 807 |
+| Summa investeringar perioden |  |  |  | 8 259 |
+
+[Tabell 556-2](handlingar.tabeller/556-2.csv)
+
+| Koncernens nyupplåningsbehov, mkr | 2024 | 2025 | 2026 | 2027 |
+| --- | --- | --- | --- | --- |
+| Kommunbudget 2025, KF 2024-06-13, §91 | 350 | 200 | 950 | 1 300 |
+| Eksta Bostads AB | 0 | 0 | 100 | 100 |
+| Summa lånebehov årligen | 350 | 200 | 1050 | 1400 |
+| Summa lånebehov perioden |  |  |  | 3 000 |
+| Andel egenfinansiering koncernen årligen | 80% | 86% | 53% | 50% |
+| Andel egenfinansiering koncernen perioden |  |  |  | 64% |
 
 <!-- sida 557 -->
 
@@ -21483,54 +21480,40 @@ stiftelsens huvudman.
 
 Här får du en snabb överblick över kommunens ekonomiska utveckling under tio år.
 
-2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027
-Skatt
-Kommunal skattesats % 21,33 21,33 21,33 21,33 21,33 21,33 21,33 21,33 21,33 21,33 21,33
-
-Invånare
-Antal invånare 31/12 81 986 83 348 84 395 84 930 85 301 85 801 85 653 86 179 87 139 87 552 88 226
-Födda           731  822  805  763  778   742  702  687  684  726  736
-Döda            624  615  573  643  678  682  690   745  764  782  801
-
-Inflyttning    4 179 4 552 4 277 4 066 4 087 3 974 3 603 4 279 4 774 4 276 4 561
-Utflyttning    3 007 3 404 3 480 3 663 3 842 3 572 3 768 3 695 3 734 3 807 3 822
-Folkökning     1 279 1 355 1 029 523 371 500  -148  526  960  413  674
-Resultat och volymer
-Årets resultat, miljoner 163 171 210 415 464 753 231 14  200  338  313
-
-Årets resultat i andel av 3,6 3,6 4,2 7,9 8,4 13,1 3,8 0,2 3,1 5,0 4,5
-skatteintäkter och stats-
-bidrag, %
-Pensionskostnader, 215 215 253 290  307  259   515  613  374  310  335
-miljoner
-Pensionskostnader, 2 622 2 580 2 998 3 415 3 599 3 019 6 013 7 113 4 292 3 541 3 797
-kronor per invånare
-Nettoinvesteringar, 492 744 948 857 623  809   928 1 445 1 303 2 054 2 607
-miljoner
-– varav inom skatte­ 436 674 748 695 503 608   576  917  718 1 082 1 688
-finansierad verksamhet
-– varav inom avgifts­ 56 70 200 120  120  201  352  528  585  972  919
-finansierad verksamhet
-Tillgångar, miljoner 5 538 6 215 7 053 7 859 8 634 10 586 11 061 11 668 12 067 13 287 14 845
-Tillgångar, kronor per 67 548 74 567 83 567 92 535 101 218 123 379 129 137 135 393 138 480 151 761 168 261
-invånare
-Soliditet, procent 28,8 28,4 31,5 33,3 35,5 35,4 35,9 34,2 34,7 34,1 32,6
-
-Likviditet, miljoner 160 194 156 381 372 426   291  264  137  103  116
-Likviditet, kronor per 1 952 2 328 1 848 4 486 4 361 4 965 3 397 3 063 1 572 1 176 1 315
-invånare
-Låneskuld, miljoner 650 950 1 350 1 561 1 576 1 300 1 200 1 550 1 750 2 700 4 000
-Låneskuld, kronor per 7 928 11 398 15 996 18 380 18 480 15 151 14 010 17 986 20 083 30 839 45 338
-invånare
-
-Pensionsskuld, miljoner 1 701 1 673 1 689 1 747 1 795 1789 1 946 2 189 2 189 2 120 2 065
-Pensionsskuld, kronor 20 747 20 072 20 015 20 570 21 043 20 851 22 720 25 401 25 121 24 214 23 406
-per invånare
-Borgensåtagande, 2 892 3 059 3 283 3 412 3 502 3 493 3 484 3 484 3 484 3 484 3 484
-miljoner
-Borgensåtagande, kronor 35 274 36 702 38 900 40 174 41 049 40 710 40 676 40 427 39 982 39 793 39 489
-per invånare
 \* Jämförelsetalen för 2019 är justerade med anledning av övergång till RKR R2 under 2020. Åren dessförinnan bygger på tidigare gällande redovisningsprincip.
+
+[Tabell 572-1](handlingar.tabeller/572-1.csv)
+
+|  | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Skatt |  |  |  |  |  |  |  |  |  |  |  |
+| Kommunal skattesats % | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 |
+| Invånare |  |  |  |  |  |  |  |  |  |  |  |
+| Antal invånare 31/12 | 81 986 | 83 348 | 84 395 | 84 930 | 85 301 | 85 801 | 85 653 | 86 179 | 87 139 | 87 552 | 88 226 |
+| Födda | 731 | 822 | 805 | 763 | 778 | 742 | 702 | 687 | 684 | 726 | 736 |
+| Döda | 624 | 615 | 573 | 643 | 678 | 682 | 690 | 745 | 764 | 782 | 801 |
+| Inflyttning | 4 179 | 4 552 | 4 277 | 4 066 | 4 087 | 3 974 | 3 603 | 4 279 | 4 774 | 4 276 | 4 561 |
+| Utflyttning | 3 007 | 3 404 | 3 480 | 3 663 | 3 842 | 3 572 | 3 768 | 3 695 | 3 734 | 3 807 | 3 822 |
+| Folkökning | 1 279 | 1 355 | 1 029 | 523 | 371 | 500 | -148 | 526 | 960 | 413 | 674 |
+| Resultat och volymer |  |  |  |  |  |  |  |  |  |  |  |
+| Årets resultat, miljoner | 163 | 171 | 210 | 415 | 464 | 753 | 231 | 14 | 200 | 338 | 313 |
+| Årets resultat i andel av skatteintäkter och stats- bidrag, % | 3,6 | 3,6 | 4,2 | 7,9 | 8,4 | 13,1 | 3,8 | 0,2 | 3,1 | 5,0 | 4,5 |
+| Pensionskostnader, miljoner | 215 | 215 | 253 | 290 | 307 | 259 | 515 | 613 | 374 | 310 | 335 |
+| Pensionskostnader, kronor per invånare | 2 622 | 2 580 | 2 998 | 3 415 | 3 599 | 3 019 | 6 013 | 7 113 | 4 292 | 3 541 | 3 797 |
+| Nettoinvesteringar, miljoner | 492 | 744 | 948 | 857 | 623 | 809 | 928 | 1 445 | 1 303 | 2 054 | 2 607 |
+| – varav inom skatte­ finansierad verksamhet | 436 | 674 | 748 | 695 | 503 | 608 | 576 | 917 | 718 | 1 082 | 1 688 |
+| – varav inom avgifts­ finansierad verksamhet | 56 | 70 | 200 | 120 | 120 | 201 | 352 | 528 | 585 | 972 | 919 |
+| Tillgångar, miljoner | 5 538 | 6 215 | 7 053 | 7 859 | 8 634 | 10 586 | 11 061 | 11 668 | 12 067 | 13 287 | 14 845 |
+| Tillgångar, kronor per invånare | 67 548 | 74 567 | 83 567 | 92 535 | 101 218 | 123 379 | 129 137 | 135 393 | 138 480 | 151 761 | 168 261 |
+| Soliditet, procent | 28,8 | 28,4 | 31,5 | 33,3 | 35,5 | 35,4 | 35,9 | 34,2 | 34,7 | 34,1 | 32,6 |
+| Likviditet, miljoner | 160 | 194 | 156 | 381 | 372 | 426 | 291 | 264 | 137 | 103 | 116 |
+| Likviditet, kronor per invånare | 1 952 | 2 328 | 1 848 | 4 486 | 4 361 | 4 965 | 3 397 | 3 063 | 1 572 | 1 176 | 1 315 |
+| Låneskuld, miljoner | 650 | 950 | 1 350 | 1 561 | 1 576 | 1 300 | 1 200 | 1 550 | 1 750 | 2 700 | 4 000 |
+| Låneskuld, kronor per invånare | 7 928 | 11 398 | 15 996 | 18 380 | 18 480 | 15 151 | 14 010 | 17 986 | 20 083 | 30 839 | 45 338 |
+| Pensionsskuld, miljoner | 1 701 | 1 673 | 1 689 | 1 747 | 1 795 | 1789 | 1 946 | 2 189 | 2 189 | 2 120 | 2 065 |
+| Pensionsskuld, kronor per invånare | 20 747 | 20 072 | 20 015 | 20 570 | 21 043 | 20 851 | 22 720 | 25 401 | 25 121 | 24 214 | 23 406 |
+| Borgensåtagande, miljoner | 2 892 | 3 059 | 3 283 | 3 412 | 3 502 | 3 493 | 3 484 | 3 484 | 3 484 | 3 484 | 3 484 |
+| Borgensåtagande, kronor per invånare | 35 274 | 36 702 | 38 900 | 40 174 | 41 049 | 40 710 | 40 676 | 40 427 | 39 982 | 39 793 | 39 489 |
 
 <!-- sida 573 -->
 
@@ -22805,57 +22788,24 @@ som tas bort 2025
 Kommunrevisionen uppräkning 100 100 100 100
 Summa övriga tillägg 2025-2027 38 000 30 630 29 000
 utöver 2,5 procent, ingår i ram
-Kommunfullmäktige arvoden, 530 530 530 530
-ingår i ram
-Främja välmående motverka 5 000 5 000 5 000 5 000
-psykisk ohälsa, ingår i ram och
-kvarstår under planperioden
-Kommungemensam digitalise- 10 000 10 000 10 000 10 000
-ring fortsatt utveckling, ingår
-i ram
-Kommungemensamt för innova- 10 000 10 000 10 000 10 000
-tion, ingår i ram
-Summa kvarstående övriga till- 50 982 49 032 49 032 49 032
-lägg från 2024 som ingår i ram
+
 Kommunbudget 2025 och plan 2026–2027 37
+
+[Tabell 600-1](handlingar.tabeller/600-1.csv)
+
+| Kommunfullmäktige arvoden, ingår i ram | 530 | 530 | 530 | 530 |
+| --- | --- | --- | --- | --- |
+| Främja välmående motverka psykisk ohälsa, ingår i ram och kvarstår under planperioden | 5 000 | 5 000 | 5 000 | 5 000 |
+| Kommungemensam digitalise- ring fortsatt utveckling, ingår i ram | 10 000 | 10 000 | 10 000 | 10 000 |
+| Kommungemensamt för innova- tion, ingår i ram | 10 000 | 10 000 | 10 000 | 10 000 |
+| Summa kvarstående övriga till- lägg från 2024 som ingår i ram | 50 982 | 49 032 | 49 032 | 49 032 |
 
 <!-- sida 601 -->
 
 KUNGSBACKAS FÖRUTSÄTTNINGAR
 
 Nämndernas driftramar 2025–2026
-Nämnder, belopp i Tusen kronor, Tkr Priser, löner Volymer Övriga tillägg Ram- Ram 2025, Ram 2026,
-3,0 procent - 2025  2025 justeringar inkl. kapital- inkl. kapital-
-2025                   t o m kostnad, kostnad,
-2024-04-30 internt övrigt internt övrigt
 
-```osaker-tabell
-Kommunfullmäktige        134     75                    4 887   5 020
-Kommunrevision           104     25                    3 591   3 699
-Valnämnden               59    -1 645            19     389    2 019
-Kommunstyrelsen         8 529    601   -1 000  -10 101 283 353 292 087
-Service                 1 286                  -7 659 92 723  81 895
-Byggnadsnämnden         1 188    515            -700  39 948  41 335
-Miljö & Hälsoskydd       30                            1 044   1 075
-Teknik                  4 570   1 934  4 000    -784  270 488 279 726
-Kultur & Fritid         7 721   1 817          8 596  296 139 305 639
-```
-
-Förskola & Grundskola  66 269  -18 064 14 000  43 317 2 339 822 2 399 872
-Gymnasium & Arbetsmarknad 18 645 3 045          629   648 946 671 435
-Individ & Familjeomsorg 23 519 11 064  6 000   3 049  829 715 863 445
-Vård & Omsorg           34 151 22 392  2 000   9 232 1 217 803 1 275 236
-Summa skattefinansierad verksamhet 166 205 21 759 25 000 45 598 6 028 847 6 222 483
-Finansförvaltning, inklusive pensioner 13 000  12 477 59 232  51 264
-Semesterlöneskuld                                      6 000   6 000
-Oförutsett, OF                                        20 000  20 000
-
-\- Varav KF-OF                                          10 000 10 000
-\- Varav KS-OF                                          6 000   6 000
-\- Varav KSAU-OF                                        4 000   4 000
-Kalkylerade kapitalkostnader                          -172 715 -200 402
-Nya lokalhyror och avskrivningar              -58 075 178 481 153 655
-Summa ekonomisk ramar 2025-2026 166 205 21 759 38 000 0 6 119 845 6 253 000
 Ramjusteringar är bland annat gjorda till nämnderna för nya och förändrade lokalhyror och lokalvård under hösten 2023 till och med 2024­04­30,
 samt fullmäktiges beslut om att ramjustera från Kommunstyrelsen till finansverksamheten för Räddningstjänstens pensioner (10 898 tusen kronor).
 
@@ -22876,6 +22826,34 @@ Digitalt center Pris per användare och verk- 3 procent
 samhet
 
 38 Kommunbudget 2025 och plan 2026–2027
+
+[Tabell 601-1](handlingar.tabeller/601-1.csv)
+
+| Nämnder, belopp i Tusen kronor, Tkr | Priser, löner 3,0 procent - 2025 | Volymer 2025 | Övriga tillägg 2025 | Ramjusteringar t o m 2024-04-30 | Ram 2025, inkl. kapitalkostnad, internt övrigt | Ram 2026, inkl. kapitalkostnad, internt övrigt |
+| --- | --- | --- | --- | --- | --- | --- |
+| Kommunfullmäktige | 134 | 75 |  |  | 4 887 | 5 020 |
+| Kommunrevision | 104 | 25 |  |  | 3 591 | 3 699 |
+| Valnämnden | 59 | -1 645 |  | 19 | 389 | 2 019 |
+| Kommunstyrelsen | 8 529 | 601 | -1 000 | -10 101 | 283 353 | 292 087 |
+| Service | 1 286 |  |  | -7 659 | 92 723 | 81 895 |
+| Byggnadsnämnden | 1 188 | 515 |  | -700 | 39 948 | 41 335 |
+| Miljö & Hälsoskydd | 30 |  |  |  | 1 044 | 1 075 |
+| Teknik | 4 570 | 1 934 | 4 000 | -784 | 270 488 | 279 726 |
+| Kultur & Fritid | 7 721 | 1 817 |  | 8 596 | 296 139 | 305 639 |
+| Förskola & Grundskola | 66 269 | -18 064 | 14 000 | 43 317 | 2 339 822 | 2 399 872 |
+| Gymnasium & Arbetsmarknad | 18 645 | 3 045 |  | 629 | 648 946 | 671 435 |
+| Individ & Familjeomsorg | 23 519 | 11 064 | 6 000 | 3 049 | 829 715 | 863 445 |
+| Vård & Omsorg | 34 151 | 22 392 | 2 000 | 9 232 | 1 217 803 | 1 275 236 |
+| Summa skattefinansierad verksamhet | 166 205 | 21 759 | 25 000 | 45 598 | 6 028 847 | 6 222 483 |
+| Finansförvaltning, inklusive pensioner |  |  | 13 000 | 12 477 | 59 232 | 51 264 |
+| Semesterlöneskuld |  |  |  |  | 6 000 | 6 000 |
+| Oförutsett, OF |  |  |  |  | 20 000 | 20 000 |
+| - Varav KF-OF |  |  |  |  | 10 000 | 10 000 |
+| - Varav KS-OF |  |  |  |  | 6 000 | 6 000 |
+| - Varav KSAU-OF |  |  |  |  | 4 000 | 4 000 |
+| Kalkylerade kapitalkostnader |  |  |  |  | -172 715 | -200 402 |
+| Nya lokalhyror och avskrivningar |  |  |  | -58 075 | 178 481 | 153 655 |
+| Summa ekonomisk ramar 2025-2026 | 166 205 | 21 759 | 38 000 | 0 | 6 119 845 | 6 253 000 |
 
 <!-- sida 602 -->
 
@@ -23024,47 +23002,35 @@ tillgångar å ena sidan och skulder och eget kapital å andra sidan är alltid 
 
 Resultaträkning
 
-Belopp i miljoner kronor  Bokslut Budget Budget Plan Plan
-2023 2024  2025  2026  2027
-inkl ombudget
-
-Avskrivningar               -478  -510  -566 -600  -640
-Verksamhetens nettokostnader -5 637 -5 909 -6 120 -6 253 -6 447
-
-Skatteintäkter              5 718 5 865 6 128 6 380 6 636
-
-```osaker-tabell
-Generella statsbidrag        319  264    311  334   306
-Verksamhetens resultat      400   220   319   461   496
-
-Finansiella intäkter         23    16    21    20    20
-
-Finansiella kostnader       -192  -222  -139  -142 -203
-Resultat efter finansiella poster 231 14 200  338   313
-
-Årets resultat               231   14   200   338   313
-```
-
-Pensionsförpliktelser intjänade före 1998 22 25 -39 -62 -57
-Årets resultat enligt blandmodellen 253 39 161 276  256
-Samtliga realisationsvinster -8
-Årets resultat efter balanskravsjusteringar 245 39 161 276 256
-Balanskravsresultat         245    39    161  276   256
-
-Nyckeltal
-Nettokostnadsutveckling     14,2% 4,8%  3,6%  2,2%  3,1%
-Ökning av skatter och statsbidrag 4,4% 1,5% 5,0% 4,3% 3,4%
-Årets resultat andel av skatteintäkter, statsbidrag 3,8% 0,2% 3,1% 5,0% 4,5%
-Nettokostnadernas andel av skatter, statsbidrag 93% 96% 95% 93% 93%
-Finansnettots andel av skatter, statsbidrag 2,8% 3,4% 1,8% 1,8% 2,6%
-Summa använda skattemedel   96%   100%  97%   95%   95%
-
-SKR cirkulär 24:27
-
-Resultat tillkommer vid försäljning av exploate- 62,0 301 210 200 423
-ringsmark samt exploateringsersättningar
-
 42 Kommunbudget 2025 och plan 2026–2027
+
+[Tabell 605-1](handlingar.tabeller/605-1.csv)
+
+| Belopp i miljoner kronor | Bokslut 2023 | Budget 2024 inkl ombudget | Budget 2025 | Plan 2026 | Plan 2027 |
+| --- | --- | --- | --- | --- | --- |
+| Avskrivningar | -478 | -510 | -566 | -600 | -640 |
+| Verksamhetens nettokostnader | -5 637 | -5 909 | -6 120 | -6 253 | -6 447 |
+| Skatteintäkter | 5 718 | 5 865 | 6 128 | 6 380 | 6 636 |
+| Generella statsbidrag | 319 | 264 | 311 | 334 | 306 |
+| Verksamhetens resultat | 400 | 220 | 319 | 461 | 496 |
+| Finansiella intäkter | 23 | 16 | 21 | 20 | 20 |
+| Finansiella kostnader | -192 | -222 | -139 | -142 | -203 |
+| Resultat efter finansiella poster | 231 | 14 | 200 | 338 | 313 |
+| Årets resultat | 231 | 14 | 200 | 338 | 313 |
+| Pensionsförpliktelser intjänade före 1998 | 22 | 25 | -39 | -62 | -57 |
+| Årets resultat enligt blandmodellen | 253 | 39 | 161 | 276 | 256 |
+| Samtliga realisationsvinster | -8 |  |  |  |  |
+| Årets resultat efter balanskravsjusteringar | 245 | 39 | 161 | 276 | 256 |
+| Balanskravsresultat | 245 | 39 | 161 | 276 | 256 |
+| Nyckeltal |  |  |  |  |  |
+| Nettokostnadsutveckling | 14,2% | 4,8% | 3,6% | 2,2% | 3,1% |
+| Ökning av skatter och statsbidrag | 4,4% | 1,5% | 5,0% | 4,3% | 3,4% |
+| Årets resultat andel av skatteintäkter, statsbidrag | 3,8% | 0,2% | 3,1% | 5,0% | 4,5% |
+| Nettokostnadernas andel av skatter, statsbidrag | 93% | 96% | 95% | 93% | 93% |
+| Finansnettots andel av skatter, statsbidrag | 2,8% | 3,4% | 1,8% | 1,8% | 2,6% |
+| Summa använda skattemedel | 96% | 100% | 97% | 95% | 95% |
+| SKR cirkulär 24:27 |  |  |  |  |  |
+| Resultat tillkommer vid försäljning av exploate- ringsmark samt exploateringsersättningar | 62,0 | 301 | 210 | 200 | 423 |
 
 <!-- sida 606 -->
 
@@ -23072,68 +23038,48 @@ FINANSIELLA RAPPORTER
 
 Kassaflödesanalys
 
-Belopp i miljoner kronor   Bokslut Budget Budget Plan Plan
-2023  2024  2025  2026 2027
-inkl ombudget
-
-Kassaflöde från den löpande verksamheten
-
-```osaker-tabell
-Årets Resultat                231    14   200  338    313
-Avskrivningar                       510   566  600   640
-Övriga ej likvidpåverkande poster 822 243 -0,5  -69  -55
-```
-
-Övriga likvidpåverkande poster -91
-Poster som redovisas i annan sektion -8
-Investeringsintäkter, exploateringsersättningar, 301 210 200 423
-investeringsbidrag
-Kassaflöde från den löpande verksamheten
-Summa kassaflöde från den löpande verksamheten 954 1 068 976 1 070 1 320
-
-Investeringsverksamheten
-Investering i materiella anläggningstillgångar -1 011 -541 -330 -564 -1169
-­Varav investering finansiell leasing
-
-```osaker-tabell
-Löpande investeringar               -95   -45   -43  -46
-
-Övriga investeringar               -163  -123  -124  -123
-Exploateringsverksamheten           -117 -221  -351  -351
-Avgiftsfinansierade investeringar  -528  -585  -972  -919
-```
-
-Investeringar                  8
-Investering i finansiella anläggningstillgångar -8
-Kassaflöde från investeringsverksamheten -1 011 -1 445 -1 303 -2 054 -2 607
-
-Finansieringsverksamheten
-Amortering av lån kreditinstitut -100
-Nyupptagna lån finansiell leasing 28
-Amortering av skulder för finansiell leasing -78
-Nyupptagna lån kreditinstitut       350   200  950   1300
-Omsatta lån
-
-Amortering av skuld
-Förändring av övriga långfristiga skulder -1
-Kassaflöde från finansieringsverksamheten -151 350 200 950 1 300
-
-Utbetalning av bidrag statlig infrastruktur -10
-
-```osaker-tabell
-Årets kassaflöde              -135  -27  -127   -34   13
-
-Likvida medel vid årets början 426  291   264   137   103
-Likvida medel vid årets slut  291   264   137   103   116
-```
-
-Nyckeltal
-Egenfinansiering av investeringar årsvis 67% 57% 75% 55% 53%
-
-Egenfinansiering av investeringar 2023-2027          59%
-Investeringarnas andel av skatter och statsbidrag 16% 23% 19% 29% 35%
-
 Kommunbudget 2025 och plan 2026–2027 43
+
+[Tabell 606-1](handlingar.tabeller/606-1.csv)
+
+| Belopp i miljoner kronor | Bokslut 2023 | Budget 2024 inkl ombudget | Budget 2025 | Plan 2026 | Plan 2027 |
+| --- | --- | --- | --- | --- | --- |
+| Kassaflöde från den löpande verksamheten |  |  |  |  |  |
+| Årets Resultat | 231 | 14 | 200 | 338 | 313 |
+| Avskrivningar |  | 510 | 566 | 600 | 640 |
+| Övriga ej likvidpåverkande poster | 822 | 243 | -0,5 | -69 | -55 |
+| Övriga likvidpåverkande poster | -91 |  |  |  |  |
+| Poster som redovisas i annan sektion | -8 |  |  |  |  |
+| Investeringsintäkter, exploateringsersättningar, investeringsbidrag |  | 301 | 210 | 200 | 423 |
+| Kassaflöde från den löpande verksamheten |  |  |  |  |  |
+| Summa kassaflöde från den löpande verksamheten | 954 | 1 068 | 976 | 1 070 | 1 320 |
+| Investeringsverksamheten |  |  |  |  |  |
+| Investering i materiella anläggningstillgångar | -1 011 | -541 | -330 | -564 | -1169 |
+| ­Varav investering finansiell leasing |  |  |  |  |  |
+| Löpande investeringar |  | -95 | -45 | -43 | -46 |
+| Övriga investeringar |  | -163 | -123 | -124 | -123 |
+| Exploateringsverksamheten |  | -117 | -221 | -351 | -351 |
+| Avgiftsfinansierade investeringar |  | -528 | -585 | -972 | -919 |
+| Investeringar | 8 |  |  |  |  |
+| Investering i finansiella anläggningstillgångar | -8 |  |  |  |  |
+| Kassaflöde från investeringsverksamheten | -1 011 | -1 445 | -1 303 | -2 054 | -2 607 |
+| Finansieringsverksamheten |  |  |  |  |  |
+| Amortering av lån kreditinstitut | -100 |  |  |  |  |
+| Nyupptagna lån finansiell leasing | 28 |  |  |  |  |
+| Amortering av skulder för finansiell leasing | -78 |  |  |  |  |
+| Nyupptagna lån kreditinstitut |  | 350 | 200 | 950 | 1300 |
+| Omsatta lån |  |  |  |  |  |
+| Amortering av skuld |  |  |  |  |  |
+| Förändring av övriga långfristiga skulder | -1 |  |  |  |  |
+| Kassaflöde från finansieringsverksamheten | -151 | 350 | 200 | 950 | 1 300 |
+| Utbetalning av bidrag statlig infrastruktur | -10 |  |  |  |  |
+| Årets kassaflöde | -135 | -27 | -127 | -34 | 13 |
+| Likvida medel vid årets början | 426 | 291 | 264 | 137 | 103 |
+| Likvida medel vid årets slut | 291 | 264 | 137 | 103 | 116 |
+| Nyckeltal |  |  |  |  |  |
+| Egenfinansiering av investeringar årsvis | 67% | 57% | 75% | 55% | 53% |
+| Egenfinansiering av investeringar 2023-2027 |  |  |  |  | 59% |
+| Investeringarnas andel av skatter och statsbidrag | 16% | 23% | 19% | 29% | 35% |
 
 <!-- sida 607 -->
 
@@ -23147,53 +23093,71 @@ inkl ombudget
 TILLGÅNGAR
 Immateriella tillgångar              0,1   0,1   0,1   0,1   0,1
 Materiella anläggningstillgångar
-Mark byggnader och tekniska anläggningar 8 896 9 435 9 916 11 127 12 626
-Maskiner och inventarier             761  856   902   944   990
-Summa materiella anläggningstillgångar 9 658 10 291 10 818 12 072 13 616
 
 Finansiella anläggningstillgångar
 Finansiella anläggningstillgångar    234  234   234   234   234
 Långfristiga fordringar
-Summa finansiella anläggningstillgångar 234 234 234   234   234
-Summa anläggningstillgångar         9 891 10 525 11 052 12 306 13 850
 
-Bidrag till statlig infrastruktur    54    54    54    54    54
 Omsättningstillgångar
-Förråd, lager och fastigheter för försäljning 112 112 112 112 112
-
-```osaker-tabell
-Fordringar                           712   712   712  712   712
-Kassa o bank                         291  264    137  103   116
-
-Summa omsättningstillgångar         1 116 1 089 962   928   941
-```
-
-SUMMA TILLGÅNGAR                    11 061 11 668 12 067 13 287 14 845
 
 EGET KAPITAL, AVSÄTTNINGAR OCH SKULDER
 Eget kapital
-Eget kapital vid årets början       3 744 3 974 3 988 4 188 4 527
 
-Årets resultat                       231   14   200   338   313
-Summa eget kapital vid årets slut   3 974 3 988 4 188 4 527 4 840
 Avsättningar
-Avsättningar för pensioner och liknande förpliktelser 1 946 2 189 2 189 2 120 2 065
 
-Andra avsättningar                   357   357  357   357   357
-Summa avsättningar                  2 304 2 547 2 546 2 477 2 422
 Skulder
-Långfristiga skulder                3 634 3 984 4 184 5 134 6 434
--Varav låneskuld                    1 200 1 550 1 750 2 700 4 000
 
-­Varav långfristig leasingskuld, finansiell leasing 1 605 1 605 1 605 1 605 1 605
--Varav långfristig skuld anslutningsavgifter, statliga investerings- 829 829 829 829 829
-bidrag samt övriga långfristiga skulder
 Kortfristiga skulder                1 149 1 149 1 149 1 149 1 149
 Summa skulder                       4 783 5 133 5 333 6 283 7 583
 Summa eget kapital, avsättningar och skulder 11 061 11 668 12 067 13 287 14 845
 Soliditet                          35,9% 34,2% 34,7% 34,1% 32,6%
 
 44 Kommunbudget 2025 och plan 2026–2027
+
+[Tabell 607-1](handlingar.tabeller/607-1.csv)
+
+| Mark byggnader och tekniska anläggningar | 8 896 | 9 435 | 9 916 | 11 127 | 12 626 |
+| --- | --- | --- | --- | --- | --- |
+| Maskiner och inventarier | 761 | 856 | 902 | 944 | 990 |
+| Summa materiella anläggningstillgångar | 9 658 | 10 291 | 10 818 | 12 072 | 13 616 |
+
+[Tabell 607-2](handlingar.tabeller/607-2.csv)
+
+| Summa finansiella anläggningstillgångar | 234 | 234 | 234 | 234 | 234 |
+| --- | --- | --- | --- | --- | --- |
+| Summa anläggningstillgångar | 9 891 | 10 525 | 11 052 | 12 306 | 13 850 |
+| Bidrag till statlig infrastruktur | 54 | 54 | 54 | 54 | 54 |
+
+[Tabell 607-3](handlingar.tabeller/607-3.csv)
+
+| Förråd, lager och fastigheter för försäljning | 112 | 112 | 112 | 112 | 112 |
+| --- | --- | --- | --- | --- | --- |
+| Fordringar | 712 | 712 | 712 | 712 | 712 |
+| Kassa o bank | 291 | 264 | 137 | 103 | 116 |
+| Summa omsättningstillgångar | 1 116 | 1 089 | 962 | 928 | 941 |
+| SUMMA TILLGÅNGAR | 11 061 | 11 668 | 12 067 | 13 287 | 14 845 |
+
+[Tabell 607-4](handlingar.tabeller/607-4.csv)
+
+| Eget kapital vid årets början | 3 744 | 3 974 | 3 988 | 4 188 | 4 527 |
+| --- | --- | --- | --- | --- | --- |
+| Årets resultat | 231 | 14 | 200 | 338 | 313 |
+| Summa eget kapital vid årets slut | 3 974 | 3 988 | 4 188 | 4 527 | 4 840 |
+
+[Tabell 607-5](handlingar.tabeller/607-5.csv)
+
+| Avsättningar för pensioner och liknande förpliktelser | 1 946 | 2 189 | 2 189 | 2 120 | 2 065 |
+| --- | --- | --- | --- | --- | --- |
+| Andra avsättningar | 357 | 357 | 357 | 357 | 357 |
+| Summa avsättningar | 2 304 | 2 547 | 2 546 | 2 477 | 2 422 |
+
+[Tabell 607-6](handlingar.tabeller/607-6.csv)
+
+| Långfristiga skulder | 3 634 | 3 984 | 4 184 | 5 134 | 6 434 |
+| --- | --- | --- | --- | --- | --- |
+| -Varav låneskuld | 1 200 | 1 550 | 1 750 | 2 700 | 4 000 |
+| ­Varav långfristig leasingskuld, finansiell leasing | 1 605 | 1 605 | 1 605 | 1 605 | 1 605 |
+| -Varav långfristig skuld anslutningsavgifter, statliga investerings- bidrag samt övriga långfristiga skulder | 829 | 829 | 829 | 829 | 829 |
 
 <!-- sida 608 -->
 
@@ -23668,38 +23632,29 @@ själv utifrån det utrymme som finns för att finansiera
 driftskostnaderna.                Följande tabeller visar investeringarna totalt och per
 nämnd.
 
-Investeringar totalt, Tusen kronor (Tkr) Budget 2025 Plan 2026 Plan 2027 Plan 2028 Plan 2029 Plan 2025-
-2029
-Löpande investeringar   80 295  72 995 75 595  75 595 87 958 392 438
-Lokalinvesteringar SE    77 850 94 600  71 050 55 000 90 000 388 500
-Lokalplan               251 800 469 391 1 098 260 772 354 524 928 3 116 733
-Övriga investeringar     93 350 86 900 88 950  91 000 105 071 465 271
-
-Reinvesteringar         29 200  37 000 34 200  34 400 35 216 170 016
-Justering kommuntotalt  -35 000 -30 000 -30 000 -30 000 -44 900 -169 900
-Delsumma                497 495 730 886 1 338 055 998 349 798 273 4 363 058
-Exploateringar (in/ut)  220 601 351 338 350 460 360 981 206 246 1 489 626
-Delsumma                718 096 1 082 224 1 688 515 1 359 330 1 004 519 5 852 684
-Avgiftsfinansierade inv 584 580 971 650 918 850 721 060 525 790 3 721 930
-Summa investeringar inkl explotaringar 1 302 676 2 053 874 2 607 365 2 080 390 1 530 309 9 574 614
-och lokaler
-
 54 Kommunbudget 2025 och plan 2026–2027
+
+[Tabell 617-1](handlingar.tabeller/617-1.csv)
+
+| Investeringar totalt, Tusen kronor (Tkr) | Budget 2025 | Plan 2026 | Plan 2027 | Plan 2028 | Plan 2029 | Plan 2025- 2029 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Löpande investeringar | 80 295 | 72 995 | 75 595 | 75 595 | 87 958 | 392 438 |
+| Lokalinvesteringar SE | 77 850 | 94 600 | 71 050 | 55 000 | 90 000 | 388 500 |
+| Lokalplan | 251 800 | 469 391 | 1 098 260 | 772 354 | 524 928 | 3 116 733 |
+| Övriga investeringar | 93 350 | 86 900 | 88 950 | 91 000 | 105 071 | 465 271 |
+| Reinvesteringar | 29 200 | 37 000 | 34 200 | 34 400 | 35 216 | 170 016 |
+| Justering kommuntotalt | -35 000 | -30 000 | -30 000 | -30 000 | -44 900 | -169 900 |
+| Delsumma | 497 495 | 730 886 | 1 338 055 | 998 349 | 798 273 | 4 363 058 |
+| Exploateringar (in/ut) | 220 601 | 351 338 | 350 460 | 360 981 | 206 246 | 1 489 626 |
+| Delsumma | 718 096 | 1 082 224 | 1 688 515 | 1 359 330 | 1 004 519 | 5 852 684 |
+| Avgiftsfinansierade inv | 584 580 | 971 650 | 918 850 | 721 060 | 525 790 | 3 721 930 |
+| Summa investeringar inkl explotaringar och lokaler | 1 302 676 | 2 053 874 | 2 607 365 | 2 080 390 | 1 530 309 | 9 574 614 |
 
 <!-- sida 618 -->
 
 INVESTERING OCH EXPLOATERING
 
 Kommungemensamma investeringar
-Investeringar, belopp i tusen kronor Budget 2025 Plan 2026 Plan 2027 Plan 2028-
-2029
-
-```osaker-tabell
-KS/Samhällsbyggnad              1 300    1 300     1 300     2 600
-Markköp                        40 000    40 000   40 000    80 000
-Lokalplan                      251 800  469 391  1 098 260 1 297 282
-Summa                         293 100   510 691  1 139 560 1 379 882
-```
 
 Kommungemensamma exploateringar
 Exploateringar, belopp i tusen kronor Budget 2025 Plan 2026 Plan 2027 Plan 2028-
@@ -23717,17 +23672,6 @@ Investeringar, belopp i tusen kronor Budget 2025 Plan 2026 Plan 2027 Plan 2028-
 Löpande investeringar, Summa   15 000    15 000    15 000   30 000
 
 Kultur & Fritid
-Investeringar, belopp i tusen kronor Budget 2025 Plan 2026 Plan 2027 Plan 2028-
-2029
-
-```osaker-tabell
-Löpande                         6 700    3 900     6 500    13 000
-Reinvesteringar                 4 200    7 000     4 200     8 800
-Övriga investeringar           5 000     5 000     7 000    14 000
-```
-
-Ombudget övriga investeringar från 2023 500
-Summa                          16 400    15 900    17 700   35 800
 
 Bygg & Miljö
 Investeringar, belopp i tusen kronor Budget 2025 Plan 2026 Plan 2027 Plan 2028-
@@ -23735,6 +23679,25 @@ Investeringar, belopp i tusen kronor Budget 2025 Plan 2026 Plan 2027 Plan 2028-
 Löpande investeringar, Summa    255       255       255       510
 
 Kommunbudget 2025 och plan 2026–2027 55
+
+[Tabell 618-1](handlingar.tabeller/618-1.csv)
+
+| Investeringar, belopp i tusen kronor | Budget 2025 | Plan 2026 | Plan 2027 | Plan 2028- 2029 |
+| --- | --- | --- | --- | --- |
+| KS/Samhällsbyggnad | 1 300 | 1 300 | 1 300 | 2 600 |
+| Markköp | 40 000 | 40 000 | 40 000 | 80 000 |
+| Lokalplan | 251 800 | 469 391 | 1 098 260 | 1 297 282 |
+| Summa | 293 100 | 510 691 | 1 139 560 | 1 379 882 |
+
+[Tabell 618-2](handlingar.tabeller/618-2.csv)
+
+| Investeringar, belopp i tusen kronor | Budget 2025 | Plan 2026 | Plan 2027 | Plan 2028- 2029 |
+| --- | --- | --- | --- | --- |
+| Löpande | 6 700 | 3 900 | 6 500 | 13 000 |
+| Reinvesteringar | 4 200 | 7 000 | 4 200 | 8 800 |
+| Övriga investeringar | 5 000 | 5 000 | 7 000 | 14 000 |
+| Ombudget övriga investeringar från 2023 | 500 |  |  |  |
+| Summa | 16 400 | 15 900 | 17 700 | 35 800 |
 
 <!-- sida 619 -->
 
@@ -23746,53 +23709,51 @@ Investeringar, belopp i tusen kronor Budget 2025 Plan 2026 Plan 2027 Plan 2028-
 Löpande investeringar, Summa   2 500     2 500     2 500    5 000
 
 Vård & Omsorg
-Investeringar, belopp i tusen kronor Budget 2025 Plan 2026 Plan 2027 Plan 2028-
-2029
-
-```osaker-tabell
-Löpande investeringar          5 500     6 000    6 000     12 000
-Övriga investeringar           2 550     2 600     2 650    5 450
-Summa                          8 050     8 600     8 650    17 450
-```
 
 Service
-Investeringar, belopp i tusen kronor Budget 2025 Plan 2026 Plan 2027 Plan 2028-
-2029
-Löpande                       35 000    30 000    30 000    74 900
-Övriga                         8 000     2 000    2 000     7 000
-
-Lokaler & reinvesteringar
-
-```osaker-tabell
-Verksamhetsanpassningar        5 000     5 000    5 000     10 000
-
-Reinvesteringar               72 850    89 600    66 050   135 000
-Summa                         120 850   126 600  103 050   226 900
-```
 
 Teknik, skattefinansierat
-Investeringar, belopp i tusen kronor Budget 2025 Plan 2026 Plan 2027 Plan 2028-
-2029
-
-```osaker-tabell
-Löpande                        9 000     9 000    9 000     15 463
-Reinvesteringar               25 000    30 000    30 000    60 816
-Övriga investeringar          36 000    36 000    36 000    87 021
-Summa                         70 000    75 000    75 000   163 300
-```
 
 Avgiftsfinansierad verksamhet
-Investeringar, belopp i tusen kronor Budget 2025 Plan 2026 Plan 2027 Plan 2028-
-2029
-
-```osaker-tabell
-Kungsbacka bredband           22 000    22 000    22 000    37 400
-Avfall & Återvinning           14 750   118 000   25 000   113 000
-Vatten & Avlopp               547 830   831 650   871 850 1 096 450
-Summa                         584 580   971 650  918 850  1 246 850
-```
 
 56 Kommunbudget 2025 och plan 2026–2027
+
+[Tabell 619-1](handlingar.tabeller/619-1.csv)
+
+| Investeringar, belopp i tusen kronor | Budget 2025 | Plan 2026 | Plan 2027 | Plan 2028- 2029 |
+| --- | --- | --- | --- | --- |
+| Löpande investeringar | 5 500 | 6 000 | 6 000 | 12 000 |
+| Övriga investeringar | 2 550 | 2 600 | 2 650 | 5 450 |
+| Summa | 8 050 | 8 600 | 8 650 | 17 450 |
+
+[Tabell 619-2](handlingar.tabeller/619-2.csv)
+
+| Investeringar, belopp i tusen kronor | Budget 2025 | Plan 2026 | Plan 2027 | Plan 2028- 2029 |
+| --- | --- | --- | --- | --- |
+| Löpande | 35 000 | 30 000 | 30 000 | 74 900 |
+| Övriga | 8 000 | 2 000 | 2 000 | 7 000 |
+| Lokaler & reinvesteringar |  |  |  |  |
+| Verksamhetsanpassningar | 5 000 | 5 000 | 5 000 | 10 000 |
+| Reinvesteringar | 72 850 | 89 600 | 66 050 | 135 000 |
+| Summa | 120 850 | 126 600 | 103 050 | 226 900 |
+
+[Tabell 619-3](handlingar.tabeller/619-3.csv)
+
+| Investeringar, belopp i tusen kronor | Budget 2025 | Plan 2026 | Plan 2027 | Plan 2028- 2029 |
+| --- | --- | --- | --- | --- |
+| Löpande | 9 000 | 9 000 | 9 000 | 15 463 |
+| Reinvesteringar | 25 000 | 30 000 | 30 000 | 60 816 |
+| Övriga investeringar | 36 000 | 36 000 | 36 000 | 87 021 |
+| Summa | 70 000 | 75 000 | 75 000 | 163 300 |
+
+[Tabell 619-4](handlingar.tabeller/619-4.csv)
+
+| Investeringar, belopp i tusen kronor | Budget 2025 | Plan 2026 | Plan 2027 | Plan 2028- 2029 |
+| --- | --- | --- | --- | --- |
+| Kungsbacka bredband | 22 000 | 22 000 | 22 000 | 37 400 |
+| Avfall & Återvinning | 14 750 | 118 000 | 25 000 | 113 000 |
+| Vatten & Avlopp | 547 830 | 831 650 | 871 850 | 1 096 450 |
+| Summa | 584 580 | 971 650 | 918 850 | 1 246 850 |
 
 <!-- sida 620 -->
 
@@ -23814,32 +23775,29 @@ slutredovisas fördelar man inbetalningarna och utbetalningarna mellan balansrä
 räkningen.
 
 Exploateringsplan 2025–2029
-Belopp i miljoner,            Plan     Plan    Plan    Plan    Plan
-
-```osaker-tabell
-inkomster (-), utgifter (+)   2025    2026     2027    2028    2029
-Inbetalningar                  -267    -266    -440    -557    -282
-
-Utbetalningar                  277     418     367      361     207
-Summa kassaflöde                10     152      -72    -196     -75
-
-Utgifter anläggningstillgång Bostäder 56 167   222      309     163
-Utgifter anläggningstillgång Verksamheter 45 64 47      34      33
-Utgifter anläggningstillgång Övriga projekt 76 87 50     0       0
-Utgifter mark - Inv (OT)        43      33      31      18       11
-Summa balansräkning            221     351      351     361     206
-
-Kostnader Bostäder drift        0       26      11       0       1
-Kostnader Verksamheter drift    11      0        0       0       0
-Kostnader Övriga projekt drift  45      40       0       0       0
-Kostnader mark - Drift          0        1       6       0       0
-Intäkter markförsäljning       -200    -150    -258    -319     -133
-```
-
-Gatukostnadsersättning/Investeringsbidrag -67 -116 -182 -238    -150
-Summa exploateringsresultat    -210    -200    -423    -557     -281
 
 Kommunbudget 2025 och plan 2026–2027 57
+
+[Tabell 620-1](handlingar.tabeller/620-1.csv)
+
+| Belopp i miljoner, | Plan | Plan | Plan | Plan | Plan |
+| --- | --- | --- | --- | --- | --- |
+| inkomster (-), utgifter (+) | 2025 | 2026 | 2027 | 2028 | 2029 |
+| Inbetalningar | -267 | -266 | -440 | -557 | -282 |
+| Utbetalningar | 277 | 418 | 367 | 361 | 207 |
+| Summa kassaflöde | 10 | 152 | -72 | -196 | -75 |
+| Utgifter anläggningstillgång Bostäder | 56 | 167 | 222 | 309 | 163 |
+| Utgifter anläggningstillgång Verksamheter | 45 | 64 | 47 | 34 | 33 |
+| Utgifter anläggningstillgång Övriga projekt | 76 | 87 | 50 | 0 | 0 |
+| Utgifter mark - Inv (OT) | 43 | 33 | 31 | 18 | 11 |
+| Summa balansräkning | 221 | 351 | 351 | 361 | 206 |
+| Kostnader Bostäder drift | 0 | 26 | 11 | 0 | 1 |
+| Kostnader Verksamheter drift | 11 | 0 | 0 | 0 | 0 |
+| Kostnader Övriga projekt drift | 45 | 40 | 0 | 0 | 0 |
+| Kostnader mark - Drift | 0 | 1 | 6 | 0 | 0 |
+| Intäkter markförsäljning | -200 | -150 | -258 | -319 | -133 |
+| Gatukostnadsersättning/Investeringsbidrag | -67 | -116 | -182 | -238 | -150 |
+| Summa exploateringsresultat | -210 | -200 | -423 | -557 | -281 |
 
 <!-- sida 621 -->
 
@@ -25134,7 +25092,16 @@ nuvarande utsläppspunkt i Kungsbackaån, ca 1,5 km från mynningen av
 Kungsbackafjorden.
 
 Tabell 2. Utsläppsvillkor för nya Hammargårds ARV.
-
+Utsläppsvillkor
+Biologisk       Årsmedelvärde får inte överstiga 5 mg/l eller totalt 32 ton per
+Syreförbrukning (BOD 9) år
+7
+Totalfosfor10 (P ) Årsmedelvärde får inte överstiga 0,2 mg/l eller totalt 0,9 ton
+tot
+per år.
+Totalkväve11 (N ) Årsmedelvärde får inte överstiga 6 mg/l eller totalt 40 ton per
+tot
+år.
 Orsaken till utbyggnaden är att Kungsbackas befolkning ökar. Hammargårds
 avloppsreningsverk tar idag emot avloppet från motsvarande 41 000 personer, och
 har tillstånd för 52 000. Den framtida belastningen på verket prognostiseras till 50
@@ -25150,14 +25117,6 @@ https://avloppsguiden.se/informationssidor/avloppsguidens-ordlista/)
 10 Både partikelbunden fosfor och fosfor i lösning.
 11 Både partikelbundet kväve och kväve i lösning.
 Kungsbacka kommun              Styrande dokument               15 (36)
-
-[Tabell 652-1](handlingar.tabeller/652-1.csv)
-
-| Utsläppsvillkor |  |
-| --- | --- |
-| Biologisk<br>Syreförbrukning (BOD 9)<br>7 | Årsmedelvärde får inte överstiga 5 mg/l eller totalt 32 ton per<br>år |
-| Totalfosfor10 (P )<br>tot | Årsmedelvärde får inte överstiga 0,2 mg/l eller totalt 0,9 ton<br>per år. |
-| Totalkväve11 (N )<br>tot | Årsmedelvärde får inte överstiga 6 mg/l eller totalt 40 ton per<br>år. |
 
 <!-- sida 653 -->
 
@@ -27423,7 +27382,7 @@ Tabell 3
 
 2020
 
-[Tabell 701-1](handlingar.tabeller/701-1.csv)
+[Tabell 701-702-1](handlingar.tabeller/701-702-1.csv)
 
 | 1 | Högsta avgiftsuttag 2020-01-01 – 2026-06-301. Se dock Punkt<br>1.5.2 om indexreglering, samt punkt1.5.4. ” … Dock ska<br>förutvarande avgifter gälla i båda anläggningarna tills det nya<br>badhuset tas i bruk.” | 1 |
 | --- | --- | --- |
@@ -27440,13 +27399,7 @@ Tabell 3
 | 1.5 | Villkor för avgifterna | 5. |
 | 1.5.1 | Avgifterna ska tas ut av operatör och får inte överstiga nivåerna<br>i denna villkorsbilaga. Operatör får underskrida dessa belopp,<br>samt erbjuda ytterligare rabatter. | 5.1 |
 | 1.5.2 | Avgifterna indexregleras årligen med höjningar motsvarande<br>KPI/AKI. Detta sker för<br>första gången 2022-01-01. | 5.2 |
-
-<!-- sida 702 -->
-
-[Tabell 702-1](handlingar.tabeller/702-1.csv)
-
 | 1.5.3 | 3. Avgifterna gäller från 2020-01-01 till och med 2026-06-30.<br>Dock ska förutvarande avgifter gälla i båda anläggningarna tills<br>det nya badhuset tas i bruk. | 5.3 |
-| --- | --- | --- |
 | 2. | Övriga villkor för badhusverksamheten | 6 |
 | 2.1 | Klippkort och årskort för Kungsbacka badhus gäller även i Fjärås<br>simhall. | 6.1 |
 | 2.2 | Årskort och klippkort skall gälla ett år från och med<br>inköpsdatum och vara personliga. | 6.2 |
@@ -27456,6 +27409,8 @@ Tabell 3
 |  |  |  |
 |  |  |  |
 |  |  |  |
+
+<!-- sida 702 -->
 
 <!-- sida 703 -->
 
@@ -27535,11 +27490,11 @@ kr   procent
 
 må-to fram till kl 14
 barn 0-2 år                                   -      -
-barn 3-11 år (i betalande vuxens sällskap)    4 0     4 6  6    1 5
-Ungdom 12-17 år                               6 0     6 9  9    1 6
-Motionssim vuxna (ej familjedelen eller relax) Vuxen. 6 0 6 9 9 1 6
+barn 3-11 år (i betalande vuxens sällskap)    40      46   6    15
+Ungdom 12-17 år                               60      69   9    16
+Motionssim vuxna (ej familjedelen eller relax) Vuxen. 60 69 9   16
 Motionssim.
-Vuxna, hela anläggningen förutom relax Vuxen. 8 0     9 7 17    2 1
+Vuxna, hela anläggningen förutom relax Vuxen. 80      97  17    21
 
 Motionssim och
 familjebad.
@@ -27547,56 +27502,59 @@ familjebad.
 All övrig tid
 barn 0-2 år                                   -      -
 
-barn 3-11 år (i betalande vuxens sällskap)    5 0     5 7  7    1 4
-Ungdom 12-17 år                               7 0     8 2 12    1 7
-Motionssim vuxna (ej familjedelen eller relax) Vuxen. 7 0 8 2 12 1 7
+barn 3-11 år (i betalande vuxens sällskap)    50      57   7    14
+Ungdom 12-17 år                               70      82  12    17
+Motionssim vuxna (ej familjedelen eller relax) Vuxen. 70 82 12  17
 Motionssim.
-Vuxna, hela anläggningen förutom relax Vuxen. 110    128  18    1 6
+Vuxna, hela anläggningen förutom relax Vuxen. 110    128  18    16
 
 Motionssim och
 familjebad.
 
 All tid, grupp
-Grupp (1 v + 2 barn)                         190     220  30    1 6
-tillkommande barn/ungdomar per person         3 0     3 5  5    1 6
-
-Grupp (2 v + 2 barn)                         290     335  45    1 5
-tillkommande barn/ungdomar per person         3 0     3 5  5    1 5
 
 All tid, 12-kort
-barn 3-11 år (i betalande vuxens sällskap)   500     572  72    1 4
-Ungdom 12-17 år                              700     817 117    1 7
-Motionssim vuxna (ej familjedelen eller relax) Vuxen. 700 817 117 1 7
+barn 3-11 år (i betalande vuxens sällskap)   500     572  72    14
+Ungdom 12-17 år                              700     817 117    17
+Motionssim vuxna (ej familjedelen eller relax) Vuxen. 700 817 117 17
 Motionssim.
 
-Vuxna, hela anläggningen förutom relax Vuxen. 1 100 1 276 176   1 6
+Vuxna, hela anläggningen förutom relax Vuxen. 1 100 1 276 176   16
 Motionssim och
 familjebad.
 
 All tid, årskort
-barn 3-11 år (i betalande vuxens sällskap)   900    1 041 141   1 6
-Ungdom 12-17 år                             1 400   1 613 213   1 5
+barn 3-11 år (i betalande vuxens sällskap)   900    1 041 141   16
+Ungdom 12-17 år                             1 400   1 613 213   15
 
-Motionssim vuxna (ej familjedelen eller relax) Vuxen. 1 700 1 960 260 1 5
+Motionssim vuxna (ej familjedelen eller relax) Vuxen. 1 700 1 960 260 15
 Motionssim.
-Vuxna, hela anläggningen förutom relax Vuxen. 2 400 2 772 372   1 6
+Vuxna, hela anläggningen förutom relax Vuxen. 2 400 2 772 372   16
 Motionssim och
 familjebad.
 
+[Tabell 705-1](handlingar.tabeller/705-1.csv)
+
+| Grupp (1 v + 2 barn) | 190 | 220 | 30 | 16 |
+| --- | --- | --- | --- | --- |
+| tillkommande barn/ungdomar per person | 30 | 35 | 5 | 16 |
+| Grupp (2 v + 2 barn) | 290 | 335 | 45 | 15 |
+| tillkommande barn/ungdomar per person | 30 | 35 | 5 | 15 |
+
 <!-- sida 706 -->
 
-Tilläggsårskort barn 3-11 år i samma familj, från 300 347 47    1 6
-
-barn eller ungdom nummer tre
-Tilläggsårskort ungdom 12-17 år i samma familj, 600  694  94    1 6
-från barn eller ungdom nummer tre
-
-All tid, relax (inkl. bad)
-Entré                                        160     184  24    1 5
-12-kort                                     1 600   1 838 238   1 5
 Årskort                        (Tas bort)   2 900
 
-Simskoleavgift                               130     150  20    1 5
+Simskoleavgift                               130     150  20    15
+
+[Tabell 706-1](handlingar.tabeller/706-1.csv)
+
+| Tilläggsårskort barn 3-11 år i samma familj, från barn eller ungdom nummer tre | 300 | 347 | 47 | 16 |
+| --- | --- | --- | --- | --- |
+| Tilläggsårskort ungdom 12-17 år i samma familj, från barn eller ungdom nummer tre | 600 | 694 | 94 | 16 |
+| All tid, relax (inkl. bad) |  |  |  |  |
+| Entré | 160 | 184 | 24 | 15 |
+| 12-kort | 1 600 | 1 838 | 238 | 15 |
 
 <!-- sida 707 -->
 
@@ -28055,7 +28013,7 @@ badhuset tas i bruk till och med 2026-06-30.
 
 Expedierat/bestyrkt
 
-[Tabell 719-1](handlingar.tabeller/719-1.csv)
+[Tabell 719-720-1](handlingar.tabeller/719-720-1.csv)
 
 | Kungsbacka<br>Badhus | må-to fram till<br>kl. 14 | all tid/<br>all övrig<br>tid | all tid |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -28068,6 +28026,8 @@ Expedierat/bestyrkt
 | Grupp (1 v + 2 barn,<br>tillkommande barn/ungdomar<br>30 kr/person) |  | 190 |  |  |  |  |  |
 | Grupp (2 v + 2 barn,<br>tillkommande barn/ungdomar<br>30 kr/person) |  | 290 |  |  |  |  |  |
 | Tilläggsårskort barn 3–11 år i<br>samma familj, från barn eller<br>ungdom nr tre |  |  |  | 300 |  |  |  |
+| Tilläggsårskort ungdom<br>12–17 år i samma familj, från<br>barn eller ungdom nr tre |  |  |  | 600 |  |  |  |
+|  |  |  |  |  | 160 | 1 600 | 2 900 |
 
 <!-- sida 720 -->
 
@@ -28088,12 +28048,6 @@ Expedierat/bestyrkt
 
 [Tabell 720-1](handlingar.tabeller/720-1.csv)
 
-| Tilläggsårskort ungdom<br>12–17 år i samma familj, från<br>barn eller ungdom nr tre |  |  |  | 600 |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | 160 | 1 600 | 2 900 |
-
-[Tabell 720-2](handlingar.tabeller/720-2.csv)
-
 | Fjärås Simhall |  |  |  |
 | --- | --- | --- | --- |
 | Målgrupp | Entré | 12-kort | Årskort |
@@ -28106,12 +28060,24 @@ Expedierat/bestyrkt
 | Tilläggsårskort barn 3–11 år i samma familj,<br>från barn eller ungdom nr tre |  |  | 200 |
 | Tilläggsårskort ungdom 12–17 år i samma<br>familj, från barn eller ungdom nr tre |  |  | 400 |
 
-[Tabell 720-3](handlingar.tabeller/720-3.csv)
+[Tabell 720-721-2](handlingar.tabeller/720-721-2.csv)
 
 | Skolbad | 30 kr/deltagare/tillfälle |
 | --- | --- |
 | Simskoleverksamhet för skolelever | 70 kr/deltagare/tillfälle |
 | Föreningar |  |
+| Tävlings-/ tränings-/motionsbassäng | 10kr/25m-bana/timma |
+| Undervisningsbassänger,<br>gruppverksamhet | 10 kr/delt. + 200kr/grupp, max 12 pers. (ej övrigt<br>entrépris) |
+| Tävlingar, banhyra | 10kr/25m-bana/timma |
+| Tävlingar, timpris i 25m-bassäng om<br>delar av anläggningen kan vara öppen | 300 kr/timma |
+| Tävlingar, timpris i 50m-bassäng om<br>delar av anläggningen kan vara öppen,<br>bl.a. minst en 25m-bassäng | 500 kr/timma |
+| Tävlingar, timpris om hela anläggningen<br>måste vara stängd | 800 kr/timma |
+| Årskort för föreningsmedlemmar upp<br>t.o.m. 17 år | 1 400 kr för de som tränar 4 ggr/vecka eller mer,<br>900 kr för de som tränar mindre än 4ggr/vecka |
+| Föreningsmedlemmar från 18 år | Betalar inträde på vanligt sätt |
+| Kommersiella priser |  |
+| Hyra halva 50m-bassängen | 700 kr/timme + ordinarie entrépris |
+| Hyra hel undervisningsbassäng | 1 200 kr + ordinarie entrépris |
+| Övrig kommersiell hyra för bassänger<br>sätts av driftsoperatören |  |
 
 <!-- sida 721 -->
 
@@ -28129,22 +28095,6 @@ Ersättning enligt priser för skolbad/simskoleverksamhet för skolelever
 utgår då driftoperatör eller förening utför den specifika aktiviteten.
 
 Expedierat/bestyrkt
-
-[Tabell 721-1](handlingar.tabeller/721-1.csv)
-
-| Tävlings-/ tränings-/motionsbassäng | 10kr/25m-bana/timma |
-| --- | --- |
-| Undervisningsbassänger,<br>gruppverksamhet | 10 kr/delt. + 200kr/grupp, max 12 pers. (ej övrigt<br>entrépris) |
-| Tävlingar, banhyra | 10kr/25m-bana/timma |
-| Tävlingar, timpris i 25m-bassäng om<br>delar av anläggningen kan vara öppen | 300 kr/timma |
-| Tävlingar, timpris i 50m-bassäng om<br>delar av anläggningen kan vara öppen,<br>bl.a. minst en 25m-bassäng | 500 kr/timma |
-| Tävlingar, timpris om hela anläggningen<br>måste vara stängd | 800 kr/timma |
-| Årskort för föreningsmedlemmar upp<br>t.o.m. 17 år | 1 400 kr för de som tränar 4 ggr/vecka eller mer,<br>900 kr för de som tränar mindre än 4ggr/vecka |
-| Föreningsmedlemmar från 18 år | Betalar inträde på vanligt sätt |
-| Kommersiella priser |  |
-| Hyra halva 50m-bassängen | 700 kr/timme + ordinarie entrépris |
-| Hyra hel undervisningsbassäng | 1 200 kr + ordinarie entrépris |
-| Övrig kommersiell hyra för bassänger<br>sätts av driftsoperatören |  |
 
 <!-- sida 722 -->
 
@@ -28376,7 +28326,7 @@ beslutar bifalla kommunstyrelsens förslag.
 
 Expedierat/bestyrkt
 
-[Tabell 726-1](handlingar.tabeller/726-1.csv)
+[Tabell 726-727-1](handlingar.tabeller/726-727-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -28410,25 +28360,7 @@ Expedierat/bestyrkt
 | Monica Neptun | ( L ) | A l la |  | X |  |  |  |
 | Stephan Philipson | ( M ) | A ll a | L a r s Thelén | X |  |  |  |
 | Elisabeth Lyckevall | (S ) | A ll a |  |  | X |  |  |
-
-<!-- sida 727 -->
-
-KUNGSBACKA KOMMUN               PROTOKOLLSUTDRAG
-
-Kommunfullmäktige               Datum
-2019-06-11
-
-Beslutet skickas till
-
-Nämnden för Kultur & Fritid, Kommunledningskontoret: Ekonomi, Service:
-upphandling
-
-Expedierat/bestyrkt
-
-[Tabell 727-1](handlingar.tabeller/727-1.csv)
-
 | Roger Krantz | ( S D ) | A l la |  | X |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Thure Sandén | (M ) | A ll a |  | X |  |  |  |
 | Anders Eriksson | ( C ) | A ll a |  | X |  |  |  |
 | Hravn Forsne | ( M ) | A ll a |  | X |  |  |  |
@@ -28460,3 +28392,17 @@ Expedierat/bestyrkt
 | Per Stenberg | (M ) | A ll a | A n n ika Carlsson | X |  |  |  |
 | Ulrika Högstrand | ( K D ) | A l la |  | X |  |  |  |
 | SUMMA: |  |  |  | 47 | 14 | 0 | 0 |
+
+<!-- sida 727 -->
+
+KUNGSBACKA KOMMUN               PROTOKOLLSUTDRAG
+
+Kommunfullmäktige               Datum
+2019-06-11
+
+Beslutet skickas till
+
+Nämnden för Kultur & Fritid, Kommunledningskontoret: Ekonomi, Service:
+upphandling
+
+Expedierat/bestyrkt

@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.7f17e7f7197627ca5f92dfd/17497111062
 sha256: 43a7b659cebd3fc83eed465ff309d26b2ebd92d414df41f8bf0da29386d253e9
 bytes: 199282
 sidor: 7
-hamtad: 2026-10-08T09:14:31+00:00
-konverterad: 2026-10-08T09:14:37+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-15T07:06:15+00:00
+konverterad: 2026-10-15T07:06:21+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, tabell-osaker, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -60,7 +60,7 @@ KUNGSBACKA  KOMMUN
 
 2(7)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -70,6 +70,17 @@ KUNGSBACKA  KOMMUN
 | 6. | Ansökan om verksamhetsstöd -<br>Ung Företagsamhet 2025/2026<br>- 2027/2028 | 2024-00855 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen beviljar ny finansieringsperiod för<br>Ung Företagsamhet Halland, med 299 632 kronor per<br>år för läsåren 2025/2026, 2026/2027 och 2027/2028. |
 | 7. | Uppstart och etablering av<br>frivillig resursgrupp (FRG) och<br>avtal med frivilliga<br>försvarsorganisationer (FFO) | 2025-00393 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att träffa avtal med frivillig resursgrupp (FRG) och<br>frivilliga försvarsorganisationer (FFO).<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalen<br>samt övriga nödvändiga handlingar för avtalens<br>genomförande. |
 | 8. | Lokaliseringsutredning ny isyta<br>för träning | 2022-00920 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner lokaliseringsutredning<br>för ny isyta för träning, daterad 2025-05-14.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för ishall inom del av Kungsbacka 4:65 i<br>Kungsbacka. |
+| 9. | Begäran om planbesked för<br>Kyvik 3:147 | 2025-00249 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplaneläggning för att pröva<br>lämpligheten av att anpassa byggrätten inom Kyvik<br>3:147.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för planändring med<br>syftet att anpassa byggrätten inom Kyvik 3:147 i<br>Kullavik. |
+| 10. | Svar på Region Hallands<br>remiss av Kollektivtrafikplan<br>2026 med utblick 2027–2028 | 2025-00076 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-06-03,<br>och översänder det som sitt svar till Hallandstrafiken. |
+| 11. | Svar på Länsstyrelsen i<br>Hallands remiss av förslag till<br>bildande av Fälareds<br>naturreservat i Kungsbacka<br>kommun | 2025-00298 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-05-14,<br>och översänder som sitt svar till Länsstyrelsen i<br>Hallands län. |
+| 12. | Svar på Landsbygds- och<br>infrastrukturdepartementets<br>remiss av Boverkets rapport<br>Uppdrag att utveckla reformen<br>med certifierade<br>byggprojekteringsföretag | 2025-00321 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-05-16,<br>och överlämnar det som sitt svar till Landsbygds- och<br>infrastrukturdepartementet. |
+| 13. | Svar på Klimat- och<br>näringslivsdepartementets<br>remiss av betänkande En ny<br>samordnad miljöbedömnings-<br>och tillståndsprövningsprocess<br>(SOU 2024:98) | 2025-00141 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-05-21,<br>och översänder det som sitt svar till Klimat- och<br>näringslivsdepartementet. |
+| 14. | Svar på<br>Arbetsmarknadsdepartementets<br>remiss av betänkandet<br>Etableringsboendelagen – Ett<br>nytt system för bosättning för<br>vissa nyanlända (SOU<br>2025:35) | 2025-00330 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-06-10,<br>och översänder det som sitt svar till<br>Arbetsmarknadsdepartementet. |
+| 15. | Svar på Varbergs kommuns<br>remiss av detaljplan för del av<br>Löftabro 1:2 i Varbergs<br>kommun | 2025-00384 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-04-28,<br>och översänder det som sitt svar till Varbergs<br>kommun. |
+| 16. | Anmälan av delegeringsbeslut | 2025-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
+| 17. | Anmälan av ordförandebeslut | 2025-00007 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
+| 18. | Redovisning av inkomna<br>skrivelser | 2025-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
+| 19. | VA-verksamhetsområde 2024 | 2025-00264 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fastställer nya<br>verksamhetsområden i enlighet med bilaga 1-19,<br>daterad 2025-01-31. |
 
 <!-- sida 3 -->
 
@@ -77,32 +88,11 @@ KUNGSBACKA  KOMMUN
 
 3(7)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 9. | Begäran om planbesked för<br>Kyvik 3:147 | 2025-00249 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplaneläggning för att pröva<br>lämpligheten av att anpassa byggrätten inom Kyvik<br>3:147.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för planändring med<br>syftet att anpassa byggrätten inom Kyvik 3:147 i<br>Kullavik. |
-| 10. | Svar på Region Hallands<br>remiss av Kollektivtrafikplan<br>2026 med utblick 2027–2028 | 2025-00076 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-06-03,<br>och översänder det som sitt svar till Hallandstrafiken. |
-| 11. | Svar på Länsstyrelsen i<br>Hallands remiss av förslag till<br>bildande av Fälareds<br>naturreservat i Kungsbacka<br>kommun | 2025-00298 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-05-14,<br>och översänder som sitt svar till Länsstyrelsen i<br>Hallands län. |
-| 12. | Svar på Landsbygds- och<br>infrastrukturdepartementets<br>remiss av Boverkets rapport<br>Uppdrag att utveckla reformen<br>med certifierade<br>byggprojekteringsföretag | 2025-00321 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-05-16,<br>och överlämnar det som sitt svar till Landsbygds- och<br>infrastrukturdepartementet. |
-| 13. | Svar på Klimat- och<br>näringslivsdepartementets<br>remiss av betänkande En ny<br>samordnad miljöbedömnings-<br>och tillståndsprövningsprocess<br>(SOU 2024:98) | 2025-00141 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-05-21,<br>och översänder det som sitt svar till Klimat- och<br>näringslivsdepartementet. |
-| 14. | Svar på<br>Arbetsmarknadsdepartementets<br>remiss av betänkandet<br>Etableringsboendelagen – Ett<br>nytt system för bosättning för<br>vissa nyanlända (SOU<br>2025:35) | 2025-00330 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-06-10,<br>och översänder det som sitt svar till<br>Arbetsmarknadsdepartementet. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(7)
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 15. | Svar på Varbergs kommuns<br>remiss av detaljplan för del av<br>Löftabro 1:2 i Varbergs<br>kommun | 2025-00384 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-04-28,<br>och översänder det som sitt svar till Varbergs<br>kommun. |
-| 16. | Anmälan av delegeringsbeslut | 2025-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
-| 17. | Anmälan av ordförandebeslut | 2025-00007 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
-| 18. | Redovisning av inkomna<br>skrivelser | 2025-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
-| 19. | VA-verksamhetsområde 2024 | 2025-00264 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fastställer nya<br>verksamhetsområden i enlighet med bilaga 1-19,<br>daterad 2025-01-31. |
 
 <!-- sida 5 -->
 
@@ -122,13 +112,50 @@ KUNGSBACKA  KOMMUN
 
 6(7)
 
-[Tabell 6-1](kallelse.tabeller/6-1.csv)
+Ärende                Beteckning Förslag
 
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 21. | Sammanträdesdagar 2026 för<br>kommunfullmäktige och<br>kommunstyrelsen | 2025-00394 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen sammanträder följande datum år<br>2026<br>20 januari 16 juni 15 december<br>17 februari 25 augusti<br>17 mars 22 september<br>21 april 20 oktober<br>26 maj 24 november<br>Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige sammanträder följande datum<br>år 2026<br>3 februari 11 augusti<br>3 mars 8 september<br>14 april 6 oktober<br>5 maj 3 november<br>9 juni (heldag) 8 december |
-| 22. | Redovisning av kommunalt<br>partistöd för år 2024 och<br>utbetalning av partistöd för år<br>2026 | 2025-00145 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beviljar Moderaterna,<br>Centerpartiet, Liberalerna, Kristdemokraterna,<br>Socialdemokraterna, Miljöpartiet de gröna,<br>Vänsterpartiet, Sverigedemokraterna och<br>Kungsbackaborna partistöd för år 2026.<br>Kommunfullmäktige fastställer att partistödets<br>storlek för år 2026 baseras på det antal mandat<br>respektive parti besitter i kommunfullmäktige efter<br>de allmänna valen 2022. Partistödet betalas ut i<br>januari 2026. |
-| 23. | Svar på motion från Roger<br>Larsson (KB) om kostnadsfri<br>utdelning av broddar till<br>invånare som är 65 år eller<br>äldre | 2024-00851 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att åtgärden bedöms ha begränsad<br>påverkan på antal fallolyckor. |
+21\. Sammanträdesdagar 2026 för 2025-00394 Förslag till beslut i kommunstyrelsen
+kommunfullmäktige och
+Kommunstyrelsen sammanträder följande datum år
+kommunstyrelsen
+2026
+20 januari    16 juni    15 december
+17 februari   25 augusti
+17 mars       22 september
+
+21 april      20 oktober
+26 maj        24 november
+
+Förslag till beslut i kommunfullmäktige
+Kommunfullmäktige sammanträder följande datum
+år 2026
+
+3 februari    11 augusti
+
+3 mars        8 september
+14 april      6 oktober
+
+5 maj         3 november
+9 juni (heldag) 8 december
+
+22\. Redovisning av kommunalt 2025-00145 Förslag till beslut i kommunfullmäktige
+partistöd för år 2024 och      Kommunfullmäktige beviljar Moderaterna,
+utbetalning av partistöd för år Centerpartiet, Liberalerna, Kristdemokraterna,
+2026                           Socialdemokraterna, Miljöpartiet de gröna,
+Vänsterpartiet, Sverigedemokraterna och
+Kungsbackaborna partistöd för år 2026.
+
+Kommunfullmäktige fastställer att partistödets
+storlek för år 2026 baseras på det antal mandat
+respektive parti besitter i kommunfullmäktige efter
+de allmänna valen 2022. Partistödet betalas ut i
+januari 2026.
+
+23\. Svar på motion från Roger 2024-00851 Förslag till beslut i kommunfullmäktige
+Larsson (KB) om kostnadsfri    Kommunfullmäktige avslår motionen med
+utdelning av broddar till      hänvisning till att åtgärden bedöms ha begränsad
+invånare som är 65 år eller    påverkan på antal fallolyckor.
+äldre
 
 <!-- sida 7 -->
 

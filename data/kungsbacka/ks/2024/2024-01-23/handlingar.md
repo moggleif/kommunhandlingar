@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1abb884718c8ab9a9f73e7b8/1705474508
 sha256: 9e2d45b2086c80a1c8fbcdc143dd95f235a952a247f40bcbcd3e0244d0b676b6
 bytes: 163597772
 sidor: 589
-hamtad: 2026-10-08T09:15:57+00:00
-konverterad: 2026-10-08T09:26:02+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T07:07:49+00:00
+konverterad: 2026-10-15T07:17:35+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
+kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
 tal_obekraftade: [111, 115, 116, 118, 119, 123, 124, 125, 126, 127, 128, 129, 130, 134, 135, 136, 137, 138, 139, 140, 141, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 304, 306, 336, 337, 340, 341, 342, 343, 344, 454, 527, 537, 538, 545, 560, 570, 571, 589]
-figurer: null
-tolkade: null
+figurer: [21, 30, 31, 35, 36, 42, 115, 116, 123, 124, 125, 126, 127, 128, 129, 130, 134, 135, 136, 137, 138, 139, 140, 141, 181, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 232, 236, 249, 260, 262, 263, 264, 265, 274, 275, 279, 284, 287, 320, 360, 380, 435, 437, 439, 451, 518, 527, 537, 545, 555, 560]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -59,17 +59,41 @@ KUNGSBACKA  KOMMUN
 
 2(9)
 
+Ärende                Beteckning Förslag
+
+Beslutsärenden
+
+5\.  Kommunstyrelsens underlag 2023-00841 Förslag till beslut i kommunstyrelsen
+till kommunbudget 2025          Kommunstyrelsen godkänner underlag till
+kommunbudget 2025.
+
+6\.  Fastställande av lönestruktur 2023-00738 Förslag till beslut i kommunstyrelsen
+2024 samt information om        Kommunstyrelsen fastställer lönestrukturen för 2024
+lönekartläggning 2023           enligt nedan:
+
+Kommunstyrelsen godkänner rapport avseende
+lönekartläggning 2023 och uppmanar förvaltningarna
+att i löneöversyn 2024 beakta lönesättningen för
+kvinnodominerande befattningar i BAS-intervall D, F
+och J.
+
+Kommunstyrelsen godkänner rapport avseende
+lönekartläggning 2023.
+
+7\.  Begäran om medel för att 2023-00836 Förslag till beslut i kommunstyrelsen
+främja välmående och            Kommunstyrelsen bifaller begäran och omfördelar
+motverka psykisk ohälsa -       begärt belopp om 500 000 kronor från centrala
+Kultur & Fritid                 finansverksamheten för 2024 till nämnden för Kultur
+(Tillsammansgruppen)            & Fritid.
+
+8\.  Begäran om medel för att 2023-00837 Förslag till beslut i kommunstyrelsen
+främja välmående och            Kommunstyrelsen bifaller begäran och omfördelar
+
+motverka psykisk ohälsa -       begärt belopp om 1 200 000 kronor från centrala
+Kultur & Fritid (Friskvårds- &  finansverksamheten för 2024 till nämnden för Kultur
+Aktivitetsgruppen)              & Fritid.
+
 [Tabell 2-1](handlingar.tabeller/2-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-|  | Beslutsärenden |  |  |
-| 5. | Kommunstyrelsens underlag<br>till kommunbudget 2025 | 2023-00841 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner underlag till<br>kommunbudget 2025. |
-| 6. | Fastställande av lönestruktur<br>2024 samt information om<br>lönekartläggning 2023 | 2023-00738 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen fastställer lönestrukturen för 2024<br>enligt nedan:<br>BAS-kod 10 p 2024 90 p 2024<br>A 23 690 28 840<br>B 24 720 31 930<br>C 26 780 35 020<br>D 28 840 38 110<br>E 30 900 42 230<br>F 35 020 47 895<br>G 38 110 52 015<br>H 41 715 56 650<br>I 46 350 61 800<br>J 50 470 67 465<br>Kommunstyrelsen godkänner rapport avseende<br>lönekartläggning 2023 och uppmanar förvaltningarna<br>att i löneöversyn 2024 beakta lönesättningen för<br>kvinnodominerande befattningar i BAS-intervall D, F<br>och J.<br>Kommunstyrelsen godkänner rapport avseende<br>lönekartläggning 2023. |
-| 7. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa -<br>Kultur & Fritid<br>(Tillsammansgruppen) | 2023-00836 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>begärt belopp om 500 000 kronor från centrala<br>finansverksamheten för 2024 till nämnden för Kultur<br>& Fritid. |
-| 8. | Begäran om medel för att<br>främja välmående och<br>motverka psykisk ohälsa -<br>Kultur & Fritid (Friskvårds- &<br>Aktivitetsgruppen) | 2023-00837 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bifaller begäran och omfördelar<br>begärt belopp om 1 200 000 kronor från centrala<br>finansverksamheten för 2024 till nämnden för Kultur<br>& Fritid. |
-
-[Tabell 2-2](handlingar.tabeller/2-2.csv)
 
 | BAS-kod | 10 p 2024 | 90 p 2024 |
 | --- | --- | --- |
@@ -90,7 +114,7 @@ KUNGSBACKA  KOMMUN
 
 3(9)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
+[Tabell 3-6-1](handlingar.tabeller/3-6-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -99,33 +123,11 @@ KUNGSBACKA  KOMMUN
 | 11. | Överlåtelse av arrendeavtal för<br>Fors 1:3 till Forsgårdens<br>Golfklubb | 2023-00712 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner överlåtelse av avtal om<br>lägenhetsarrende avseende padelbanor inom del av<br>Kungsbacka Fors 1:3 till den nya ägaren av<br>padelbanorna Forsgården Golfklubb.<br>Kommunstyrelsens ordförande samt<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna<br>samtliga handlingar i ärendet. |
 | 12. | Uppstart av projekt i lokalplan<br>Kv Liljan skola och idrottssal | 2023-00658 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner uppstart av projekt<br>Kv Liljan skola och idrottssal. |
 | 13. | Förändring av projekt och<br>omfördelning av budget i<br>lokalplan Björkris boende med<br>särskild service (löpnr 504) | 2023-00659 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner att planerad inhyrning<br>av Björkris boende med särskild service (BMSS)<br>löpnummer 504 ersätts med byggnation i egen regi i<br>Åsaberg.<br>Kommunstyrelsen godkänner att investeringsmedel<br>omfördelas från Björkris BMSS till nytt projekt<br>Åsaberg BMSS och att omfördelningen högst uppgår<br>till 1,5 miljoner kronor. |
-
-<!-- sida 4 -->
-
-KUNGSBACKA  KOMMUN
-
-4(9)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 14. | Godkännande av<br>exploateringsavtal avseende<br>detaljplan för verksamheter<br>inom Varla 6:17 m.fl. i<br>Kungsbacka stad | 2020-00911 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner förslag till<br>exploateringsavtal avseende detaljplan för<br>verksamheter inom Varla 6:18 m.fl. i Kungsbacka,<br>mellan kommunen och Kommanditbolaget Mattsons<br>Fastigheter Nr 3, undertecknat av bolaget<br>2023-12-15.<br>Kommunstyrelsen godkänner förslag till<br>exploateringsavtal avseende detaljplan för<br>verksamheter inom Varla 6:18 m.fl. i Kungsbacka,<br>mellan kommunen och FHDY Fastigheter i<br>Kungsbacka Kommanditbolag, undertecknat av<br>bolaget 2023-12-18.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalen<br>samt övriga nödvändiga handlingar för avtalens<br>genomförande. |
 | 15. | Svar på remiss från Klimat-<br>och näringslivsdepartementet<br>över promemorian Uppgifter<br>om medelstora<br>förbränningsanläggningar | 2023-00676 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2023-12-04,<br>och översänder det som sitt svar till Klimat- och<br>näringslivsdepartementet. |
 | 16. | Svar på kommunrevisionens<br>granskning av<br>informationssäkerhet | 2023-00730 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2023-12-13,<br>och översänder det som sitt svar till<br>kommunrevisionen. |
 | 17. | Svar på Länsstyrelsen i<br>Hallands läns remiss över<br>förslag till beslut och<br>skötselplan för Särö<br>Nordanskogs naturreservat i<br>Kungsbacka kommun | 2023-00679 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2023-12-14,<br>och översänder det som sitt svar till Länsstyrelsen i<br>Hallands län. |
 | 18. | Svar på Finansdepartementets<br>remiss över betänkandet<br>Övergångsrestriktioner – ökat<br>förtroende för offentlig<br>verksamhet (2023:45) | 2023-00713 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2023-12-18,<br>och översänder det som sitt svar till<br>Finansdepartementet. |
-
-<!-- sida 5 -->
-
-KUNGSBACKA  KOMMUN
-
-5(9)
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 19. | Anmälan av delegeringsbeslut | 2024-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
 | 20. | Anmälan av ordförandebeslut | 2024-00007 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
 | 21. | Redovisning av inkomna<br>skrivelser | 2024-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
@@ -133,6 +135,21 @@ KUNGSBACKA  KOMMUN
 | 23. | Rapport från nämnden för Vård<br>& Omsorg av ej verkställda<br>beslut enligt socialtjänstlagen,<br>SoL, tredje kvartalet 2023 | 2023-00770 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Vård & Omsorg, enligt 16 kap 6 f §<br>socialtjänstlagen, till protokollet. |
 | 24. | Regelverk avseende<br>valmöjligheter för arbete efter<br>pensionsåldern | 2023-00555 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Riktlinjer för ett långt och<br>gott arbetsliv, daterade 2023-11-30.<br>Riktlinjer för ett långt och gott arbetsliv, antagna av<br>kommunfullmäktige 2020-12-08, § 173, upphör<br>samtidigt att gälla. |
 | 25. | Antagande av riktlinje för<br>personalföreträdares<br>deltagande vid nämnd | 2023-00709 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar riktlinjer avseende<br>personalföreträdare i nämnder, daterade 2023-11-27. |
+| 26. | Ändring av stadgar för<br>Stiftelsen Tjolöholm | 2023-00765 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner som huvudman för<br>Stiftelsen Tjolöholm att stiftelsens stadgar ändras<br>enligt följande. Sista meningen i § 3 som lyder<br>"Enligt särskilt avtal mellan Kungsbacka kommun<br>och Västkuststiftelsen skall Västkuststiftelsen svara<br>för åtgärder för friluftsliv och naturvård inom<br>egendomen med årligt bidrag från Västkuststiftelsen"<br>ska utgå.<br>Beslutet förutsätter att Kammarkollegiet beslutar om<br>tillstånd till ändring av stadgarna. |
+| 27. | Strategi för krisberedskap och<br>civilt försvar | 2023-00807 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar strategi för krisberedskap<br>och civilt försvar, 2023–2026, daterad 2023-12-14.<br>Riktlinjer för krisberedskap och civilt försvar,<br>antagen av kommunfullmäktige 2019-12-10, § 190,<br>och Säkerhets- och beredskapspolicy, antagen av<br>kommunfullmäktige 2019-12-10, § 189, upphör<br>samtidigt att gälla. |
+| 28. | Reglemente för<br>krisledningsnämnden | 2023-00664 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar reglemente för<br>krisledningsnämnden, daterat 2023-10-13.<br>Reglemente för krisledningsnämnden antaget av<br>kommunfullmäktige den 10 december 2019, § 188,<br>upphör samtidigt att gälla. |
+
+<!-- sida 4 -->
+
+KUNGSBACKA  KOMMUN
+
+4(9)
+
+<!-- sida 5 -->
+
+KUNGSBACKA  KOMMUN
+
+5(9)
 
 <!-- sida 6 -->
 
@@ -140,41 +157,28 @@ KUNGSBACKA  KOMMUN
 
 6(9)
 
-[Tabell 6-1](handlingar.tabeller/6-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 26. | Ändring av stadgar för<br>Stiftelsen Tjolöholm | 2023-00765 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner som huvudman för<br>Stiftelsen Tjolöholm att stiftelsens stadgar ändras<br>enligt följande. Sista meningen i § 3 som lyder<br>"Enligt särskilt avtal mellan Kungsbacka kommun<br>och Västkuststiftelsen skall Västkuststiftelsen svara<br>för åtgärder för friluftsliv och naturvård inom<br>egendomen med årligt bidrag från Västkuststiftelsen"<br>ska utgå.<br>Beslutet förutsätter att Kammarkollegiet beslutar om<br>tillstånd till ändring av stadgarna. |
-| 27. | Strategi för krisberedskap och<br>civilt försvar | 2023-00807 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar strategi för krisberedskap<br>och civilt försvar, 2023–2026, daterad 2023-12-14.<br>Riktlinjer för krisberedskap och civilt försvar,<br>antagen av kommunfullmäktige 2019-12-10, § 190,<br>och Säkerhets- och beredskapspolicy, antagen av<br>kommunfullmäktige 2019-12-10, § 189, upphör<br>samtidigt att gälla. |
-| 28. | Reglemente för<br>krisledningsnämnden | 2023-00664 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar reglemente för<br>krisledningsnämnden, daterat 2023-10-13.<br>Reglemente för krisledningsnämnden antaget av<br>kommunfullmäktige den 10 december 2019, § 188,<br>upphör samtidigt att gälla. |
-
 <!-- sida 7 -->
 
 KUNGSBACKA  KOMMUN
 
 7(9)
 
-[Tabell 7-1](handlingar.tabeller/7-1.csv)
+[Tabell 7-8-1](handlingar.tabeller/7-8-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 29. | Nya avgifter för parkering-<br>timtaxor, boendekort och<br>nyttokort | 2023-00754 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fastställer parkeringsavgifter i<br>Kungsbacka kommun:<br>− Taxa A för parkering 7 kronor per timme<br>− Taxa B för parkering 6 kronor per timme<br>− Taxa C för parkering 5 kronor per timme<br>− Taxa D för parkering 3 kronor per timme<br>− Taxa E för parkering 8 kronor per timme<br>− Dygnsbiljetter avskaffas på parkeringsplatser<br>inom Kungsbacka stad.<br>− Månadsbiljett avskaffas från och med<br>2024-04-08<br>− Boendeparkering 300 kronor per månad för<br>områdena: Björkris, Tingberget, Kolla och<br>Hammerö/Hålabäck<br>− Boendeparkering 350 kronor per månad för<br>områdena: Signeskulle, Centrum, Västra<br>Villastaden och Östra Villastaden<br>− Nyttokort 3 000 kronor per år respektive 375<br>kronor per månad.<br>Kommunfullmäktige fastställer avgifter för<br>felparkering i Kungsbacka kommun:<br>− Överskriden tid, ej betalt 300 kronor per tillfälle<br>− Förbud att parkera 450 kronor per tillfälle<br>− Förbud att stanna 800 kronor per tillfälle<br>− Parkering för rörelsehindrad, PRH 800 kronor<br>per tillfälle<br>Nya taxor och avgifter för parkering och felparkering<br>ska gälla från och med 2024-04-08.<br>Kommunfullmäktiges beslut om taxa 2019-11-05,<br>§ 165, upphör att gälla samtidigt som ny taxa träder i<br>kraft.<br>Kommunfullmäktige ger nämnden för Teknik i<br>uppdrag att arbeta fram ett samlat taxedokument för<br>parkerings- och felparkeringsavgifter inför år 2025. |
+| 30. | Antagande av Lokala<br>avfallsföreskrifter | 2022-00687 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Lokala avfallsföreskrifter,<br>daterade 2023-09-18, att ingå i Kungsbacka<br>kommuns renhållningsordning, antagen av<br>kommunfullmäktige 2016-12-06, § 198.<br>Lokala renhållningsföreskrifterna i Kungsbacka<br>kommuns renhållningsordning, antagna av<br>kommunfullmäktige 2023-12-14, § 197, upphör<br>samtidigt att gälla |
+| 31. | Svar på motion från Maria<br>Losman (MP) om utbyggnad<br>av laddinfrastruktur för elbilar i<br>Kungsbacka | 2023-00280 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser att motionen är besvarad<br>med hänvisning till dels arbetet inom<br>konsumentrådgivningen, dels implementeringen av<br>plan- och bygglagens krav på laddinfrastruktur, dels<br>pågående utredning av behovet av publika laddplatser<br>och identifiering av tänkbara laddpunkter och platser<br>där det finns kapacitet i eldistributionsnätet samt på<br>vilket sätt kommunen kan och bör bidra i detta<br>arbete. |
+| 32. | Svar på motion från Viking<br>Bengtsson (V) m.fl. om att<br>ändra tidsbegränsningen för<br>hyreskontrakt för nyanlända<br>barnfamiljer | 2023-00135 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att en jämn fördelning av nyanlända<br>inom kommunen är en förutsättning för god<br>integration. |
+| 33. | Svar på motion från Maria<br>Losman (MP) m. fl. om att<br>ändra tidsbegränsningen för<br>hyreskontrakt för nyanlända | 2023-00118 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till dels att två-årsregeln är en<br>förutsättning för att utflyttning från de temporära<br>boendena sker i en rimlig takt, dels<br>arbetsmarknadsperspektivet, som innebär en<br>förväntan att alla invånare ska ta ansvar för sina egna<br>liv och bli självförsörjande genom studier och arbete. |
+| 34. | Svar på motion från motion<br>från Maj-Britt Rane Andersson<br>(S) m.fl. om att utreda<br>möjligheten att införa fria<br>arbetsskor, alternativt<br>skobidrag, till personal inom<br>omsorgen i Kungsbacka | 2023-00434 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att det skulle innebära omotiverat stora<br>kostnader och omkostnader att införa fria arbetsskor<br>för personal inom omsorgen samt att det inte finns<br>några formella krav på att arbetsgivaren ska<br>tillhandahålla arbetsskor för personal inom omsorg. |
 
 <!-- sida 8 -->
 
 KUNGSBACKA  KOMMUN
 
 8(9)
-
-[Tabell 8-1](handlingar.tabeller/8-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 30. | Antagande av Lokala<br>avfallsföreskrifter | 2022-00687 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Lokala avfallsföreskrifter,<br>daterade 2023-09-18, att ingå i Kungsbacka<br>kommuns renhållningsordning, antagen av<br>kommunfullmäktige 2016-12-06, § 198.<br>Lokala renhållningsföreskrifterna i Kungsbacka<br>kommuns renhållningsordning, antagna av<br>kommunfullmäktige 2023-12-14, § 197, upphör<br>samtidigt att gälla |
-| 31. | Svar på motion från Maria<br>Losman (MP) om utbyggnad<br>av laddinfrastruktur för elbilar i<br>Kungsbacka | 2023-00280 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser att motionen är besvarad<br>med hänvisning till dels arbetet inom<br>konsumentrådgivningen, dels implementeringen av<br>plan- och bygglagens krav på laddinfrastruktur, dels<br>pågående utredning av behovet av publika laddplatser<br>och identifiering av tänkbara laddpunkter och platser<br>där det finns kapacitet i eldistributionsnätet samt på<br>vilket sätt kommunen kan och bör bidra i detta<br>arbete. |
-| 32. | Svar på motion från Viking<br>Bengtsson (V) m.fl. om att<br>ändra tidsbegränsningen för<br>hyreskontrakt för nyanlända<br>barnfamiljer | 2023-00135 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att en jämn fördelning av nyanlända<br>inom kommunen är en förutsättning för god<br>integration. |
-| 33. | Svar på motion från Maria<br>Losman (MP) m. fl. om att<br>ändra tidsbegränsningen för<br>hyreskontrakt för nyanlända | 2023-00118 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till dels att två-årsregeln är en<br>förutsättning för att utflyttning från de temporära<br>boendena sker i en rimlig takt, dels<br>arbetsmarknadsperspektivet, som innebär en<br>förväntan att alla invånare ska ta ansvar för sina egna<br>liv och bli självförsörjande genom studier och arbete. |
-| 34. | Svar på motion från motion<br>från Maj-Britt Rane Andersson<br>(S) m.fl. om att utreda<br>möjligheten att införa fria<br>arbetsskor, alternativt<br>skobidrag, till personal inom<br>omsorgen i Kungsbacka | 2023-00434 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att det skulle innebära omotiverat stora<br>kostnader och omkostnader att införa fria arbetsskor<br>för personal inom omsorgen samt att det inte finns<br>några formella krav på att arbetsgivaren ska<br>tillhandahålla arbetsskor för personal inom omsorg. |
 
 <!-- sida 9 -->
 
@@ -558,20 +562,6 @@ Kommunstyrelsen fastställer lönestrukturen för 2024 enligt nedan:
 
 BASkod 10 p 2024 90 p 2024
 
-```osaker-tabell
-A     23 690  28 840
-B     24 720  31 930
-C     26 780  35 020
-D     28 840  38 110
-E     30 900  42 230
-
-F     35 020  47 895
-G     38 110  52 015
-H     41 715  56 650
-I     46 350  61 800
-J     50 470  67 465
-```
-
 Kommunstyrelsen godkänner rapport avseende lönekartläggning 2023 och uppmanar förvaltningarna
 att i löneöversyn 2024 beakta lönesättningen för kvinnodominerande befattningar i BAS-intervall D, F
 och J.
@@ -593,6 +583,20 @@ Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
+
+[Tabell 19-1](handlingar.tabeller/19-1.csv)
+
+| A | 23 690 | 28 840 |
+| --- | --- | --- |
+| B | 24 720 | 31 930 |
+| C | 26 780 | 35 020 |
+| D | 28 840 | 38 110 |
+| E | 30 900 | 42 230 |
+| F | 35 020 | 47 895 |
+| G | 38 110 | 52 015 |
+| H | 41 715 | 56 650 |
+| I | 46 350 | 61 800 |
+| J | 50 470 | 67 465 |
 
 <!-- sida 20 -->
 
@@ -1117,34 +1121,50 @@ måluppfyllelse. I något fall kan det handla om historisk lön.
 KUNGSBACKA  KOMMUN
 12 (21)
 
+BAS   Befattning            Antal  Antal  procentuell skillnad i
+kvinnor män   medianlön mellan män
+och kvinnor
+
+```osaker-tabell
+G     Utvecklare IT         8      6      87% (89%)
+F     Sjuksköterska         93     7      93% (93%)
+
+L     Verksamhetschef       6      4      93% (93%)
+E     Systemförvaltare      9      5      93%
+
+F     Socialpedagog         5      3      94%
+F     Bibliotekarie         26     4      95%
+
+E     Bygglovshandläggare   11     7      95%
+```
+
+F     Kommunikatör förvaltning 7   2      95% (93%)
+
+```osaker-tabell
+G     Skolkurator           27     2      95%
+
+E     Utvecklare            10     4      95%
+C     Undersköterska        780    80     105%
+
+F     Fritidspedagog        22     14     105%
+D     Stödpedagog           31     6      105%
+
+F     Planarkitekt          9      2      106%
+C     Administratör         69     2      106%
+
+M     Verksamhetschef       8      2      106%
+
+C     Fritidsledare         57     22     108%
+C     Elevassistent         107    29     109%
+
+C     Barnskötare           281    3      111%
+F     IKT-pedagog           3      2      125%
+
+B     Skolassistent         3      2      147%
+```
+
 Befattningar med minst två män respektive kvinnor i befattningen och där medianlöneskillnader för
 tillsvidareanställda är mer än 5 % mellan kvinnor och män, (bild från 231018).
-
-[Tabell 34-1](handlingar.tabeller/34-1.csv)
-
-| BAS Befattning Antal Antal procentuell skillnad i<br>kvinnor män medianlön mellan män<br>och kvinnor |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| G | Utvecklare IT | 8 | 6 | 87% (89%) |
-| F | Sjuksköterska | 93 | 7 | 93% (93%) |
-| L | Verksamhetschef | 6 | 4 | 93% (93%) |
-| E | Systemförvaltare | 9 | 5 | 93% |
-| F | Socialpedagog | 5 | 3 | 94% |
-| F | Bibliotekarie | 26 | 4 | 95% |
-| E | Bygglovshandläggare | 11 | 7 | 95% |
-| F | Kommunikatör förvaltning | 7 | 2 | 95% (93%) |
-| G | Skolkurator | 27 | 2 | 95% |
-| E | Utvecklare | 10 | 4 | 95% |
-| C | Undersköterska | 780 | 80 | 105% |
-| F | Fritidspedagog | 22 | 14 | 105% |
-| D | Stödpedagog | 31 | 6 | 105% |
-| F | Planarkitekt | 9 | 2 | 106% |
-| C | Administratör | 69 | 2 | 106% |
-| M | Verksamhetschef | 8 | 2 | 106% |
-| C | Fritidsledare | 57 | 22 | 108% |
-| C | Elevassistent | 107 | 29 | 109% |
-| C | Barnskötare | 281 | 3 | 111% |
-| F | IKT-pedagog | 3 | 2 | 125% |
-| B | Skolassistent | 3 | 2 | 147% |
 
 <!-- sida 35 -->
 
@@ -1265,7 +1285,7 @@ kan detta vara förklaringen för de befattningar som under flera år identifier
 
 [Tabell 37-1](handlingar.tabeller/37-1.csv)
 
-| BAS 2017 2019 2021 2022 2023 |  |  |  |  |  |
+| BAS | 2017 | 2019 | 2021 | 2022 | 2023 |
 | --- | --- | --- | --- | --- | --- |
 | A | 104% | 105% | 105% | 100% | 103% |
 | B | 92% | 95% | 98% | 97% | 102% |
@@ -1628,24 +1648,24 @@ Nämndernas ansökningar hittills avseende 2024 uppgår till ett 2,6 miljoner kr
 Nämnd            Område                Begärt belopp,  Beviljat belopp,
 kronor           kronor
 
-Vård & Omsorg                                                900 000
+Vård & Omsorg    Möta äldre som             900 000          900 000
+besväras av ofrivillig
+ensamhet
 
-Kultur & Fritid
+Kultur & Fritid  Friskvårds- &             1 200 000
+Aktivitetsgruppens
+satsning för att nå fler
+barn och unga
+Kultur & Fritid  Tillsammansgruppen –       500 000
+ungdomar från 13 år
 
-Kultur & Fritid
-
-SUMMA                                                        900 000
+med NPF-diagnos
+erbjuds mötesplats och
+engagerande aktiviteter
+SUMMA                                      2 600 000         900 000
 
 Malin Aronsson                     Anders Johansson
 Kommundirektör                     Biträdande kommundirektör
-
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
-
-| Möta äldre som<br>besväras av ofrivillig<br>ensamhet | 900 000 |
-| --- | --- |
-| Friskvårds- &<br>Aktivitetsgruppens<br>satsning för att nå fler<br>barn och unga | 1 200 000 |
-| Tillsammansgruppen –<br>ungdomar från 13 år<br>med NPF-diagnos<br>erbjuds mötesplats och<br>engagerande aktiviteter | 500 000 |
-|  | 2 600 000 |
 
 <!-- sida 47 -->
 
@@ -1842,24 +1862,24 @@ totalt 2,6 miljoner kronor.
 Nämnd            Område                Begärt belopp,  Beviljat belopp,
 kronor           kronor
 
-Vård & Omsorg                                                900 000
+Vård & Omsorg    Möta äldre som             900 000          900 000
+besväras av ofrivillig
+ensamhet
 
-Kultur & Fritid
+Kultur & Fritid  Friskvårds- &             1 200 000
+Aktivitetsgruppens
+satsning för att nå fler
+barn och unga
+Kultur & Fritid  Tillsammansgruppen –       500 000
 
-Kultur & Fritid
-
-SUMMA                                                        900 000
+ungdomar från 13 år
+med NPF-diagnos
+erbjuds mötesplats och
+engagerande aktiviteter
+SUMMA                                      2 600 000         900 000
 
 Malin Aronsson                     Anders Johansson
 Kommundirektör                     Biträdande kommundirektör
-
-[Tabell 52-1](handlingar.tabeller/52-1.csv)
-
-| Möta äldre som<br>besväras av ofrivillig<br>ensamhet | 900 000 |
-| --- | --- |
-| Friskvårds- &<br>Aktivitetsgruppens<br>satsning för att nå fler<br>barn och unga | 1 200 000 |
-| Tillsammansgruppen –<br>ungdomar från 13 år<br>med NPF-diagnos<br>erbjuds mötesplats och<br>engagerande aktiviteter | 500 000 |
-|  | 2 600 000 |
 
 <!-- sida 53 -->
 
@@ -2374,17 +2394,45 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 7 (20)
 
 <!-- sida 67 -->
 
+Nr   Lagrum/stöd  Delegeringens omfattning         Delegerat till Med rätt att Anmärkning/villkor
+vidaredelegera
+
+2.1.9 GDPR artikel 15-21, Helt eller delvis avslå framställan om begäran av Kdir X
+23 och       utövande av registrerads rättigheter
+dataskyddslagen 5
+kap 1-3 §§
+2.1.10 GDPR artikel 35 Beslut med anledning av konsekvensbedömning Kdir X
+avseende dataskydd                        Villkor:
+Vidaredelegering får
+ske till kontors-
+cheferna för
+stadsbyggnads-
+kontoret
+samhällsbyggnads-
+kontoret resp.
+kommunlednings-
+kontoret.
+2.1.11 GDPR artikel 33 Anmälan av personuppgiftsincident till Kdir X
+och 34       tillsynsmyndigheten.
+Villkor:
+Vidaredelegering får
+ske till kontorschefer
+för stadsbyggnads-
+kontoret
+samhällsbyggnads-
+kontoret resp.
+kommunlednings-
+kontoret och
+verksamhetschefer.
+2.1.12 G DPR, artikel 28 Avtal om personuppgiftsbiträdes behandling av Kdir X
+personuppgifter för den personuppgiftsansvariges Villkor:
+räkning samt överenskommelse om gemensamt Vidaredelegering får
+p ersonuppgiftsansvar.                    ske till kontorschefer
+för stadsbyggnads-
+kontoret
+samhällsbyggnads-
+kontoret resp.
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 8 (20)
-
-[Tabell 67-1](handlingar.tabeller/67-1.csv)
-
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| 2.1.9 | GDPR artikel 15-21,<br>23 och<br>dataskyddslagen 5<br>kap 1-3 §§ | Helt eller delvis avslå framställan om begäran av<br>utövande av registrerads rättigheter | Kdir | X |  |
-| 2.1.10 | GDPR artikel 35 | Beslut med anledning av konsekvensbedömning<br>avseende dataskydd | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till kontors-<br>cheferna för<br>stadsbyggnads-<br>kontoret<br>samhällsbyggnads-<br>kontoret resp.<br>kommunlednings-<br>kontoret. |  |
-| 2.1.11 | GDPR artikel 33<br>och 34 | Anmälan av personuppgiftsincident till<br>tillsynsmyndigheten. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till kontorschefer<br>för stadsbyggnads-<br>kontoret<br>samhällsbyggnads-<br>kontoret resp.<br>kommunlednings-<br>kontoret och<br>verksamhetschefer. |  |
-| 2.1.12 | G DPR, artikel 28 | Avtal om personuppgiftsbiträdes behandling av<br>personuppgifter för den personuppgiftsansvariges<br>räkning samt överenskommelse om gemensamt<br>p ersonuppgiftsansvar. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till kontorschefer<br>för stadsbyggnads-<br>kontoret<br>samhällsbyggnads-<br>kontoret resp. |  |
 
 <!-- sida 68 -->
 
@@ -2404,7 +2452,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 9 (20)
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 10 (20)
 
-[Tabell 69-1](handlingar.tabeller/69-1.csv)
+[Tabell 69-70-1](handlingar.tabeller/69-70-1.csv)
 
 |  | 2.2 Ekonomi och inköp |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2416,15 +2464,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 10 (20)
 | 2.2.1 d) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Beslut om ändring och tillägg av kontrakt. | Kdir | X<br>Villkor: Samma<br>delegat som i 2.2.1 a) |  |
 | 2.2.1 e) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Beslut om uppsägning eller hävning av avtal. | Kdir | X<br>Villkor: Samma<br>delegat som i 2.2.1 a) |  |
 | 2.2.2 | KS beslut om<br>nämndbudget och<br>Kungsbacka<br>styrmodell | Förvaltningsbudget med fördelning på verksamhetsnivå. | Kdir |  |  |
-
-<!-- sida 70 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 11 (20)
-
-[Tabell 70-1](handlingar.tabeller/70-1.csv)
-
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.2.3 | Attestreglementet | Utse beslutsattestanter och ersättare för<br>kommunstyrelsens förvaltning. | Kdir |  | Anmäls till KS en gång per år. |
 | 2.2.4 | Reglementet<br>Finanspolicyn | Ta upp lån inom den maximala beloppsgräns<br>kommunfullmäktige årligen fastställer i<br>kommunbudgeten. | Kdir | X |  |
 | 2.2.5 | Reglementet<br>Finanspolicyn | Placering av kommunens medel. | Kdir | X |  |
@@ -2433,11 +2473,15 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 11 (20)
 | 2.2.8 | Reglementet | Årligen bevilja föreningsbidrag, maximalt två<br>prisbasbelopp per år, till Hallands arkivförbund | Kdir | X |  |
 | 2.2.9 | Reglementet | Årligen besluta om bidrag upp till ett belopp om fyra<br>prisbasbelopp per år, till Nyföretagarcentrum Halland. | Kdir | X |  |
 
+<!-- sida 70 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 11 (20)
+
 <!-- sida 71 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 12 (20)
 
-[Tabell 71-1](handlingar.tabeller/71-1.csv)
+[Tabell 71-72-1](handlingar.tabeller/71-72-1.csv)
 
 |  | 2.3 Personal<br>Kommunövergripande personalärenden |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2450,18 +2494,14 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 12 (20)
 | 2.3.6 | LAS | Anställning av<br>kommundirektör. | KS |  | Au bereder ärendet |
 | 2.3.7 | Lönestruktur,<br>arbetsrättslig<br>reglering | Lönesättning (vid nyanställning) och beslut i övriga<br>personalärenden för kommundirektör. | Ks ordf |  |  |
 | 2.3.8 | LAS | Anställning av förvaltningschef hos nämnd. | Au |  | Kommundirektören bereder<br>ärendet. |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
+| 2.3.9 | LAS | Anställning av förvaltningschef hos nämnd på<br>tidsbegränsat förordnande samt beslut om<br>ställföreträdande förvaltningschef hos nämnd. | Kdir |  |  |
+| 2.3.10 | Reglementet | Lönesättning av förvaltningschef hos nämnd (vid<br>nyanställning). | Kdir |  | Information till Au i samband med<br>lönesättning. |
+| 2.3.11 | Arbetsrättslig<br>reglering | Övriga personalärenden rörande förvaltningschef hos<br>nämnd | Kdir |  | Beslut om avsked för fc föregås<br>av samråd med Au.<br>Vid beslut om bisyssla för fc ska<br>information till Au ske. |
 
 <!-- sida 72 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 13 (20)
-
-[Tabell 72-1](handlingar.tabeller/72-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
-| 2.3.9 | LAS | Anställning av förvaltningschef hos nämnd på<br>tidsbegränsat förordnande samt beslut om<br>ställföreträdande förvaltningschef hos nämnd. | Kdir |  |  |
-| 2.3.10 | Reglementet | Lönesättning av förvaltningschef hos nämnd (vid<br>nyanställning). | Kdir |  | Information till Au i samband med<br>lönesättning. |
-| 2.3.11 | Arbetsrättslig<br>reglering | Övriga personalärenden rörande förvaltningschef hos<br>nämnd | Kdir |  | Beslut om avsked för fc föregås<br>av samråd med Au.<br>Vid beslut om bisyssla för fc ska<br>information till Au ske. |
 
 <!-- sida 73 -->
 
@@ -2469,7 +2509,7 @@ Kommunstyrelsens   egna personalärenden
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 14 (20)
 
-[Tabell 73-1](handlingar.tabeller/73-1.csv)
+[Tabell 73-74-1](handlingar.tabeller/73-74-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -2477,15 +2517,6 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 14 (20)
 | 2.3.12 | LAS, kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader avseende chefer för respektive<br>kontor inom kommunstyrelsens förvaltning. | Kdir |  | Samråd med<br>Au innan anställning.<br>Tidsbegränsad anställning<br>kortare än 6 månader är<br>verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor. |
 | 2.3.13 | LAS, kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader för verksamhetschefer och direkt<br>underställd personal inom kommunstyrelsens<br>förvaltning. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till kontorschefer<br>för stadsbyggnads-<br>kontoret<br>samhällsbyggnads-<br>kontoret resp.<br>kommunlednings-<br>kontoret. | Tidsbegränsad anställning<br>kortare än 6 månader är<br>verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor.<br>Vidaredelegeringen gäller för<br>anställning av personal inom sitt<br>respektive ansvarsområde. |
 | 2.3.14 | LAS, kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader för övrig personal inom<br>kommunstyrelsens förvaltning. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till verksamhets-<br>chefer. | Tidsbegränsad anställning kortare<br>än 6 månader är verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor.<br>Vidaredelegeringen gäller för<br>anställning av personal inom sitt<br>respektive ansvarsområde. |
-
-<!-- sida 74 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (20)
-
-[Tabell 74-1](handlingar.tabeller/74-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.3.15 | Arbetsrättslig<br>reglering | Beslut i övriga personalärenden rörande chefer vid<br>respektive kontor inom kommunstyrelsens förvaltning. | Kdir |  |  |
 |  |  | Avveckla |  |  |  |
 | 2.3.16 | LAS § 7 | Uppsägning av personliga skäl. | Kdir | X | I samråd med HR på förvaltningen<br>och förhandlingschef. |
@@ -2497,11 +2528,15 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (20)
 | 2.3.21 | AB § 10 mom 1-3 | Avstängning | Kdir | X | I samråd med HR på<br>förvaltningen. |
 | 2.3.22 | AB § 11 | Disciplinåtgärd – skriftlig varning | Kdir | X | I samråd med HR på<br>förvaltningen. |
 
+<!-- sida 74 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (20)
+
 <!-- sida 75 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 16 (20)
 
-[Tabell 75-1](handlingar.tabeller/75-1.csv)
+[Tabell 75-77-1](handlingar.tabeller/75-77-1.csv)
 
 |  | 2.4 Verksamhet<br>Mark och exploatering |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2513,15 +2548,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 16 (20)
 | 2.4.5 | Reglementet | Uppsägning, överlåtelse eller medgivande till<br>vidareöverlåtelse av arrendeavtal. | Kdir | X | Se bestämmelserna punkt 1.5 |
 | 2.4.6 | Reglementet | Servitutsavtal, markavtal och avtal för ledningsrätter<br>samt vägrätt avseende upplåtelse på kommunens mark,<br>upp till 2 miljoner kr. | Kdir | X | Villkor:<br>Vidaredelegering upp till 2<br>miljoner kronor får ske till VC och<br>upp till 250 000 kronor till annan<br>anställd.<br>Se bestämmelserna punkt 1.5 |
 | 2.4.7 | Reglementet | Tillförsäkra kommunen nyttjanderätter (t.ex. arrende,<br>servitut, tomträtt) för kommunens förvaltningar upp till<br>250 000 kr. | Kdir | X | Se bestämmelserna punkt 1.5 |
-
-<!-- sida 76 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (20)
-
-[Tabell 76-1](handlingar.tabeller/76-1.csv)
-
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.4.8 | Reglementet | Upplåtelse av allmän plats för särskilda ändamål | Kdir | X | Nämnden för Teknik handlägger<br>yttranden om tillstånd enligt OL 3<br>kap 2 §. |
 | 2.4.9 | Reglementet | Yttrande avseende tillstånd för högspänningsledningar<br>för nätkoncession och liknande. (Gäller inkommen<br>framställan från den beslutande myndigheten). | Au |  |  |
 | 2.4.10 | Reglementet | Förvärv av fastighet eller del av fastighet, genom köp,<br>byte, gåva, fastighetsreglering eller liknande åtgärd, upp<br>till 10 miljoner kr. | Au |  | Se bestämmelserna punkt 1.5 |
@@ -2530,15 +2557,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (20)
 | 2.4.13 | Reglementet | Överlåtelse av kommunens fasta egendom, (fastighet<br>eller del av fastighet) genom köp, byte, gåva,<br>fastighetsreglering eller liknande åtgärd, upp till 10<br>miljoner kr. | Au |  |  |
 | 2.4.14 | Reglementet | Överlåtelse av kommunens fasta egendom (fastighet<br>eller del av fastighet) genom köp, byte, gåva,<br>fastighetsreglering eller liknande åtgärd, upp till 2<br>miljoner kr. | Kdir | X | Villkor:<br>Vidaredelegering upp till 2<br>miljoner kronor får ske till VC och<br>upp till 250 000 kronor till annan<br>anställd.<br>Se bestämmelserna punkt 1.5. |
 | 2.4.15 | Reglementet | Utredning för lokalisering av verksamhet. | Au |  |  |
-
-<!-- sida 77 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 18 (20)
-
-[Tabell 77-1](handlingar.tabeller/77-1.csv)
-
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.4.16 | Reglementet | Avtal om parkeringsköp och parkeringsavlösen. | Kdir | X | Se bestämmelserna punkt 1.5. |
 | 2.4.17 | Reglementet | Förvärv av fast egendom som försäljs på exekutiv- eller<br>offentlig auktion där kommunen har intecknad fordran<br>eller är intecknad för lån med kommunal borgen. | Kdir | X | Samråd Au inför auktion. Se<br>bestämmelserna punkt 1.5 |
 | 2.4.18 | Reglementet | Nedsättning, dödning, sammanföring och relaxation av<br>inteckningar samt utbyte av pantbrev liksom andra<br>därmed jämförliga åtgärder. | Kdir | X | Se bestämmelserna punkt 1.5 |
@@ -2549,7 +2568,40 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 18 (20)
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 
+<!-- sida 76 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (20)
+
+<!-- sida 77 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 18 (20)
+
 <!-- sida 78 -->
+
+2.6 5 Övrig verksamhet
+
+Nr   Lagrum/stöd  Delegeringens omfattning         Delegerat till Med rätt att Anmärkning/villkor
+vidareelegera
+2.6 5.1 Kamerabevak- Yttranden över ansökningar om tillstånd att bruka Kdir X
+ningslagen   övervakningskamera.
+(2018:1200)
+2.6 5.2 Lagen (1970:498) Tillstånd att använda kommunens heraldiska vapen. Kdir X
+om skydd för vapen
+och vissa andra
+officiella
+beteckningar
+1 §
+2.6 5.3 Hemvärnsförordning Utse ledamot till hemvärnsråd. Kdir X
+en (1997:147)
+11 §
+2.6 5.4 Äktenskapsbalken 4 Yttrande över samt avstyrkan eller tillstyrkan av förslag Kdir Länsstyrelsen förordnar/
+kap., vigsel till borgerlig vigselförrättare och begravningsombud.  utser vigselförrättare. Kommunen
+har möjlighet att yttra sig till
+länsstyrelsen innan länsstyrelsen
+fattar beslut.
+2.6 5.5 Reglementet Utse ägarrepresentant till Inera AB:s ägarråd och ge Kdir
+denne rätt att utse SKR:s representant som ombud för
+Kungsbacka kommun vid Inera AB:s årsstämma.
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 19 (20)
 
@@ -2560,17 +2612,6 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 19 (20)
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidareelegera | Anmärkning/villkor |
 | 2.5.1 | SSKF 3:5, FFS | Utse signalskyddschef och biträdande signalskyddschef | Kdir |  |  |
 | 2.5.2 | VMAL 2 §,<br>VMAF 3 § | Begära sändning av ett viktigt meddelande till<br>allmänheten om varning och information | Kdir | VC Säkerhet och<br>beredskap |  |
-
-[Tabell 78-2](handlingar.tabeller/78-2.csv)
-
-|  | 2.6 5 Övrig verksamhet |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidareelegera | Anmärkning/villkor |
-| 2.6 5.1 | Kamerabevak-<br>ningslagen<br>(2018:1200) | Yttranden över ansökningar om tillstånd att bruka<br>övervakningskamera. | Kdir | X |  |
-| 2.6 5.2 | Lagen (1970:498)<br>om skydd för vapen<br>och vissa andra<br>officiella<br>beteckningar<br>1 § | Tillstånd att använda kommunens heraldiska vapen. | Kdir | X |  |
-| 2.6 5.3 | Hemvärnsförordning<br>en (1997:147)<br>11 § | Utse ledamot till hemvärnsråd. | Kdir | X |  |
-| 2.6 5.4 | Äktenskapsbalken 4<br>kap., vigsel | Yttrande över samt avstyrkan eller tillstyrkan av förslag<br>till borgerlig vigselförrättare och begravningsombud. | Kdir |  | Länsstyrelsen förordnar/<br>utser vigselförrättare. Kommunen<br>har möjlighet att yttra sig till<br>länsstyrelsen innan länsstyrelsen<br>fattar beslut. |
-| 2.6 5.5 | Reglementet | Utse ägarrepresentant till Inera AB:s ägarråd och ge<br>denne rätt att utse SKR:s representant som ombud för<br>Kungsbacka kommun vid Inera AB:s årsstämma. | Kdir |  |  |
 
 <!-- sida 79 -->
 
@@ -2810,18 +2851,45 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 7 (19)
 
 <!-- sida 87 -->
 
+Nr   Lagrum/stöd  Delegeringens omfattning         Delegerat till Med rätt att Anmärkning/villkor
+vidaredelegera
+2.1.9 GDPR artikel 15-21, Helt eller delvis avslå framställan om begäran av Kdir X
+23 och       utövande av registrerads rättigheter
+dataskyddslagen 5
+kap 1-3 §§
+2.1.10 GDPR artikel 35 Beslut med anledning av konsekvensbedömning Kdir X
+avseende dataskydd                        Villkor:
+Vidaredelegering får
+ske till kontors-
+cheferna för
+stadsbyggnads-
+kontoret resp.
+kommunlednings-
+kontoret.
+2.1.11 GDPR artikel 33 Anmälan av personuppgiftsincident till Kdir X
+och 34       tillsynsmyndigheten.                      Villkor:
+Vidaredelegering får
+ske till kontorschefer
+för stadsbyggnads-
+kontoret resp.
+kommunlednings-
+kontoret och
+verksamhetschefer.
+2.1.12 G DPR, artikel 28 Avtal om personuppgiftsbiträdes behandling av Kdir X
+personuppgifter för den personuppgiftsansvariges Villkor:
+räkning samt överenskommelse om gemensamt Vidaredelegering får
+ske till kontorschefer
+p ersonuppgiftsansvar.
+för stadsbyggnads-
+kontoret resp.
+kommunlednings-
+kontoret och
+v erksamhets-chefer.
+2.1.13 GDPR artikel 30 Fastställa kommunstyrelsens register över Kdir X
+personuppgiftsbehandlingar.
+2.1.14 Regler för arvoden Besluta i frågor om tolkning och tillämpningar av Au
+till förtroendevalda reglerna.
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 8 (19)
-
-[Tabell 87-1](handlingar.tabeller/87-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
-| 2.1.9 | GDPR artikel 15-21,<br>23 och<br>dataskyddslagen 5<br>kap 1-3 §§ | Helt eller delvis avslå framställan om begäran av<br>utövande av registrerads rättigheter | Kdir | X |  |
-| 2.1.10 | GDPR artikel 35 | Beslut med anledning av konsekvensbedömning<br>avseende dataskydd | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till kontors-<br>cheferna för<br>stadsbyggnads-<br>kontoret resp.<br>kommunlednings-<br>kontoret. |  |
-| 2.1.11 | GDPR artikel 33<br>och 34 | Anmälan av personuppgiftsincident till<br>tillsynsmyndigheten. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till kontorschefer<br>för stadsbyggnads-<br>kontoret resp.<br>kommunlednings-<br>kontoret och<br>verksamhetschefer. |  |
-| 2.1.12 | G DPR, artikel 28 | Avtal om personuppgiftsbiträdes behandling av<br>personuppgifter för den personuppgiftsansvariges<br>räkning samt överenskommelse om gemensamt<br>p ersonuppgiftsansvar. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till kontorschefer<br>för stadsbyggnads-<br>kontoret resp.<br>kommunlednings-<br>kontoret och<br>v erksamhets-chefer. |  |
-| 2.1.13 | GDPR artikel 30 | Fastställa kommunstyrelsens register över<br>personuppgiftsbehandlingar. | Kdir | X |  |
-| 2.1.14 | Regler för arvoden<br>till förtroendevalda | Besluta i frågor om tolkning och tillämpningar av<br>reglerna. | Au |  |  |
 
 <!-- sida 88 -->
 
@@ -2838,7 +2906,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 9 (19)
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 10 (19)
 
-[Tabell 89-1](handlingar.tabeller/89-1.csv)
+[Tabell 89-90-1](handlingar.tabeller/89-90-1.csv)
 
 |  | 2.2 Ekonomi och inköp |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2850,15 +2918,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 10 (19)
 | 2.2.1 d) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Beslut om ändring och tillägg av kontrakt. | Kdir | X<br>Villkor: Samma<br>delegat som i 2.2.1 a) |  |
 | 2.2.1 e) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Beslut om uppsägning eller hävning av avtal. | Kdir | X<br>Villkor: Samma<br>delegat som i 2.2.1 a) |  |
 | 2.2.2 | KS beslut om<br>nämndbudget och<br>Kungsbacka<br>styrmodell | Förvaltningsbudget med fördelning på verksamhetsnivå. | Kdir |  |  |
-
-<!-- sida 90 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 11 (19)
-
-[Tabell 90-1](handlingar.tabeller/90-1.csv)
-
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.2.3 | Attestreglementet | Utse beslutsattestanter och ersättare för<br>kommunstyrelsens förvaltning. | Kdir |  | Anmäls till KS en gång per år. |
 | 2.2.4 | Reglementet<br>Finanspolicyn | Ta upp lån inom den maximala beloppsgräns<br>kommunfullmäktige årligen fastställer i<br>kommunbudgeten. | Kdir | X |  |
 | 2.2.5 | Reglementet<br>Finanspolicyn | Placering av kommunens medel. | Kdir | X |  |
@@ -2867,11 +2927,15 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 11 (19)
 | 2.2.8 | Reglementet | Årligen bevilja föreningsbidrag, maximalt två<br>prisbasbelopp per år, till Hallands arkivförbund | Kdir | X |  |
 | 2.2.9 | Reglementet | Årligen besluta om bidrag upp till ett belopp om fyra<br>prisbasbelopp per år, till Nyföretagarcentrum Halland. | Kdir | X |  |
 
+<!-- sida 90 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 11 (19)
+
 <!-- sida 91 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 12 (19)
 
-[Tabell 91-1](handlingar.tabeller/91-1.csv)
+[Tabell 91-92-1](handlingar.tabeller/91-92-1.csv)
 
 |  | 2.3 Personal<br>Kommunövergripande personalärenden |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2884,24 +2948,20 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 12 (19)
 | 2.3.6 | LAS | Anställning av<br>kommundirektör. | KS |  | Au bereder ärendet |
 | 2.3.7 | Lönestruktur,<br>arbetsrättslig<br>reglering | Lönesättning (vid nyanställning) och beslut i övriga<br>personalärenden för kommundirektör. | Ks ordf |  |  |
 | 2.3.8 | LAS | Anställning av förvaltningschef hos nämnd. | Au |  | Kommundirektören bereder<br>ärendet. |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
+| 2.3.9 | LAS | Anställning av förvaltningschef hos nämnd på<br>tidsbegränsat förordnande samt beslut om<br>ställföreträdande förvaltningschef hos nämnd. | Kdir |  |  |
+| 2.3.10 | Reglementet | Lönesättning av förvaltningschef hos nämnd (vid<br>nyanställning). | Kdir |  | Information till Au i samband med<br>lönesättning. |
+| 2.3.11 | Arbetsrättslig<br>reglering | Övriga personalärenden rörande förvaltningschef hos<br>nämnd | Kdir |  | Beslut om avsked för fc föregås<br>av samråd med Au.<br>Vid beslut om bisyssla för fc ska<br>information till Au ske. |
 
 <!-- sida 92 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 13 (19)
 
-[Tabell 92-1](handlingar.tabeller/92-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
-| 2.3.9 | LAS | Anställning av förvaltningschef hos nämnd på<br>tidsbegränsat förordnande samt beslut om<br>ställföreträdande förvaltningschef hos nämnd. | Kdir |  |  |
-| 2.3.10 | Reglementet | Lönesättning av förvaltningschef hos nämnd (vid<br>nyanställning). | Kdir |  | Information till Au i samband med<br>lönesättning. |
-| 2.3.11 | Arbetsrättslig<br>reglering | Övriga personalärenden rörande förvaltningschef hos<br>nämnd | Kdir |  | Beslut om avsked för fc föregås<br>av samråd med Au.<br>Vid beslut om bisyssla för fc ska<br>information till Au ske. |
-
 <!-- sida 93 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 14 (19)
 
-[Tabell 93-1](handlingar.tabeller/93-1.csv)
+[Tabell 93-94-1](handlingar.tabeller/93-94-1.csv)
 
 |  | Kommunstyrelsens egna personalärenden |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2910,15 +2970,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 14 (19)
 | 2.3.12 | LAS, kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader avseende chefer för respektive<br>kontor inom kommunstyrelsens förvaltning. | Kdir |  | Samråd med<br>Au innan anställning.<br>Tidsbegränsad anställning<br>kortare än 6 månader är<br>verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor. |
 | 2.3.13 | LAS, kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader för verksamhetschefer och direkt<br>underställd personal inom kommunstyrelsens<br>förvaltning. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till kontorschefer<br>för stadsbyggnads-<br>kontoret resp.<br>kommunlednings-<br>kontoret. | Tidsbegränsad anställning<br>kortare än 6 månader är<br>verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor.<br>Vidaredelegeringen gäller för<br>anställning av personal inom sitt<br>respektive ansvarsområde. |
 | 2.3.14 | LAS, kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader för övrig personal inom<br>kommunstyrelsens förvaltning. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till verksamhets-<br>chefer. | Tidsbegränsad anställning kortare<br>än 6 månader är verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor.<br>Vidaredelegeringen gäller för<br>anställning av personal inom sitt<br>respektive ansvarsområde. |
-
-<!-- sida 94 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (19)
-
-[Tabell 94-1](handlingar.tabeller/94-1.csv)
-
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.3.15 | Arbetsrättslig<br>reglering | Beslut i övriga personalärenden rörande chefer vid<br>respektive kontor inom kommunstyrelsens förvaltning. | Kdir |  |  |
 |  |  | Avveckla |  |  |  |
 | 2.3.16 | LAS § 7 | Uppsägning av personliga skäl. | Kdir | X | I samråd med HR på förvaltningen<br>och förhandlingschef. |
@@ -2930,11 +2982,15 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (19)
 | 2.3.21 | AB § 10 mom 1-3 | Avstängning | Kdir | X | I samråd med HR på<br>förvaltningen. |
 | 2.3.22 | AB § 11 | Disciplinåtgärd – skriftlig varning | Kdir | X | I samråd med HR på<br>förvaltningen. |
 
+<!-- sida 94 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (19)
+
 <!-- sida 95 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 16 (19)
 
-[Tabell 95-1](handlingar.tabeller/95-1.csv)
+[Tabell 95-97-1](handlingar.tabeller/95-97-1.csv)
 
 |  | 2.4 Verksamhet<br>Mark och exploatering |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2946,15 +3002,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 16 (19)
 | 2.4.5 | Reglementet | Uppsägning, överlåtelse eller medgivande till<br>vidareöverlåtelse av arrendeavtal. | Kdir | X | Se bestämmelserna punkt 1.5 |
 | 2.4.6 | Reglementet | Servitutsavtal, markavtal och avtal för ledningsrätter<br>samt vägrätt avseende upplåtelse på kommunens mark,<br>upp till 2 miljoner kr. | Kdir | X | Villkor:<br>Vidaredelegering upp till 2<br>miljoner kronor får ske till VC och<br>upp till 250 000 kronor till annan<br>anställd.<br>Se bestämmelserna punkt 1.5 |
 | 2.4.7 | Reglementet | Tillförsäkra kommunen nyttjanderätter (t.ex. arrende,<br>servitut, tomträtt) för kommunens förvaltningar upp till<br>250 000 kr. | Kdir | X | Se bestämmelserna punkt 1.5 |
-
-<!-- sida 96 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (19)
-
-[Tabell 96-1](handlingar.tabeller/96-1.csv)
-
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.4.8 | Reglementet | Upplåtelse av allmän plats för särskilda ändamål | Kdir | X | Nämnden för Teknik handlägger<br>yttranden om tillstånd enligt OL 3<br>kap 2 §. |
 | 2.4.9 | Reglementet | Yttrande avseende tillstånd för högspänningsledningar<br>för nätkoncession och liknande. (Gäller inkommen<br>framställan från den beslutande myndigheten). | Au |  |  |
 | 2.4.10 | Reglementet | Förvärv av fastighet eller del av fastighet, genom köp,<br>byte, gåva, fastighetsreglering eller liknande åtgärd, upp<br>till 10 miljoner kr. | Au |  | Se bestämmelserna punkt 1.5 |
@@ -2963,18 +3011,18 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (19)
 | 2.4.13 | Reglementet | Överlåtelse av kommunens fasta egendom, (fastighet<br>eller del av fastighet) genom köp, byte, gåva,<br>fastighetsreglering eller liknande åtgärd, upp till 10<br>miljoner kr. | Au |  |  |
 | 2.4.14 | Reglementet | Överlåtelse av kommunens fasta egendom (fastighet<br>eller del av fastighet) genom köp, byte, gåva,<br>fastighetsreglering eller liknande åtgärd, upp till 2<br>miljoner kr. | Kdir | X | Villkor:<br>Vidaredelegering upp till 2<br>miljoner kronor får ske till VC och<br>upp till 250 000 kronor till annan<br>anställd.<br>Se bestämmelserna punkt 1.5. |
 | 2.4.15 | Reglementet | Utredning för lokalisering av verksamhet. | Au |  |  |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
+| 2.4.16 | Reglementet | Avtal om parkeringsköp och parkeringsavlösen. | Kdir | X | Se bestämmelserna punkt 1.5. |
+| 2.4.17 | Reglementet | Förvärv av fast egendom som försäljs på exekutiv- eller<br>offentlig auktion där kommunen har intecknad fordran<br>eller är intecknad för lån med kommunal borgen. | Kdir | X | Samråd Au inför auktion. Se<br>bestämmelserna punkt 1.5 |
+| 2.4.18 | Reglementet | Nedsättning, dödning, sammanföring och relaxation av<br>inteckningar samt utbyte av pantbrev liksom andra<br>därmed jämförliga åtgärder. | Kdir | X | Se bestämmelserna punkt 1.5 |
+
+<!-- sida 96 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (19)
 
 <!-- sida 97 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 18 (19)
-
-[Tabell 97-1](handlingar.tabeller/97-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
-| 2.4.16 | Reglementet | Avtal om parkeringsköp och parkeringsavlösen. | Kdir | X | Se bestämmelserna punkt 1.5. |
-| 2.4.17 | Reglementet | Förvärv av fast egendom som försäljs på exekutiv- eller<br>offentlig auktion där kommunen har intecknad fordran<br>eller är intecknad för lån med kommunal borgen. | Kdir | X | Samråd Au inför auktion. Se<br>bestämmelserna punkt 1.5 |
-| 2.4.18 | Reglementet | Nedsättning, dödning, sammanföring och relaxation av<br>inteckningar samt utbyte av pantbrev liksom andra<br>därmed jämförliga åtgärder. | Kdir | X | Se bestämmelserna punkt 1.5 |
 
 <!-- sida 98 -->
 
@@ -7750,15 +7798,15 @@ Ansvar för kontroll av ovanstående punkter inom informationssäkerhet ägs av 
 beredskap. Resultat sammanställs i enlighet med kraven i standarden ISO 27000. Verksamheternas
 egen uppföljning sker i enlighet med kommunens och nämndernas ordinarie rutiner för uppföljning.
 
-[Tabell 191-1](handlingar.tabeller/191-1.csv)
+Område        Ansvar                                   Genomförande
 
-| Område | Ansvar | Genomförande |
-| --- | --- | --- |
-| Utbildning | Enhetschef Enheten för säkerhet och beredskap | 2024 - 2025 |
-| Övning | Specialist informationssäkerhet | 2024 - 2025 |
-| Incidenthantering | Enhetschef Enheten för säkerhet och beredskap | 2024 |
-| Kontinuitetsarbete | Specialist informationssäkerhet | 2024 |
-| Rapportering | Specialist informationssäkerhet | 2024 |
+Utbildning    Enhetschef Enheten för säkerhet och beredskap 2024 - 2025
+Övning        Specialist informationssäkerhet          2024 - 2025
+
+Incidenthantering Enhetschef Enheten för säkerhet och beredskap 2024
+Kontinuitetsarbete Specialist informationssäkerhet     2024
+
+Rapportering  Specialist informationssäkerhet          2024
 
 <!-- sida 192 -->
 
@@ -12149,23 +12197,14 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 | 2022-11-08 | 4 kap 1 § SoL, kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som<br>matchar behovet. |
 | 2023-03-12 | 4 kap 1 § SoL, kontaktperson | Rekryteringsbekymmer, särskilda behov gör att det varit<br>extra svårt att tillsätta en kontaktperson. |
 
-[Tabell 299-2](handlingar.tabeller/299-2.csv)
+[Tabell 299-302-2](handlingar.tabeller/299-302-2.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
 | 2022-07-06 | 4 kap 1 § SoL,<br>kontaktperson | Den enskilde medverkar inte till verkställighet, har<br>avbokat 4 erbjudanden om uppstart. |
 | 2023-03-27 | 4 kap 1 § SoL, boendestöd | En av två insatser är verkställd 2023-04-04. Tackat nej<br>till 2 erbjudanden 2023-04-25, 2023-08-29, önskar inte<br>den andra beviljade insatsen. |
 | 2023-04-14 | 4 kap 1 § SoL, boendestöd | Arbetsmiljöproblem relaterade till den enskilde. |
-
-<!-- sida 300 -->
-
-KUNGSBACKA  KOMMUN
-3 (6)
-
-[Tabell 300-1](handlingar.tabeller/300-1.csv)
-
 | 2023-04-25 | 4 kap 1 § SoL, boendestöd | Den enskilde är i behov av lång introduktion, 1 insats<br>av 2 verkställd 2023-04-25. Den enskilde bor på annan<br>ort vilket medfört svårigheter att få igång den andra<br>insatsen. |
-| --- | --- | --- |
 | 2023-06-16 | 4 kap 1 § SoL, boendestöd | Den enskilde är i behov av lång introduktion. 1 insats<br>av 2 verkställd 2023-06-26. |
 | 2023-07-07 | 4 kap 1 § SoL, boendestöd | 1 av 4 insatser är verkställda, de övriga har varit svåra<br>att verkställa pga logistiska skäl. |
 | 2023-07-13 | 4 kap 1 § SoL, boendestöd | 2 av 3 insatser är verkställda. Den enskilde har tackat<br>nej. |
@@ -12181,16 +12220,7 @@ KUNGSBACKA  KOMMUN
 | 2022-12-16 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, tackat nej till 4 erbjudanden,<br>2022-12-16, 2023-04-25, 2023-06-14, 2023-08-22. |
 | 2023-01-11 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, tackat nej till erbjudande<br>2023-06-19, tveksam till beviljad insats. |
 | 2023-06-12 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, personalbrist på grund av<br>nystartad verksamhet. |
-
-<!-- sida 301 -->
-
-KUNGSBACKA  KOMMUN
-4 (6)
-
-[Tabell 301-1](handlingar.tabeller/301-1.csv)
-
 | 2023-06-14 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet personalbrist på grund av<br>nystartad verksamhet. |
-| --- | --- | --- |
 | 2023-02-08 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, har specifika önskemål. |
 | 2022-10-06 | 9 § 6 Korttidsvistelse i form<br>av korttidshem | Tackat nej till 2 erbjudanden, 2022-11-23, 2023-05-13.<br>Planering av uppstart till våren 2024 utifrån anhörigs<br>önskemål. |
 | 2020-07-08 | 9 § 9 LSS, bostad för vuxna | Tackat nej till 5 erbjudanden, 2020-12-18, 2021-10-18,<br>2022-05-25, 2022-11-10, 2023-04-14. Tackat nej till<br>erbjudande om gruppbostad 2023-09-13. |
@@ -12205,6 +12235,23 @@ KUNGSBACKA  KOMMUN
 | 2022-11-05 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
 | 2022-12-31 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2023-01-11 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
+| 2023-02-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
+| 2023-03-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
+| 2023-04-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. Individen<br>har blivit erbjuden flera uppstartsmöten men avbokat. |
+| 2023-04-17 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde är föräldraledig. |
+| 2023-04-27 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde har fått praktikplats med start i november,<br>önskar avvakta till dess. |
+| 2023-05-03 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Arbetsmiljöproblem relaterade<br>till den enskilde. |
+| 2023-05-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
+
+<!-- sida 300 -->
+
+KUNGSBACKA  KOMMUN
+3 (6)
+
+<!-- sida 301 -->
+
+KUNGSBACKA  KOMMUN
+4 (6)
 
 <!-- sida 302 -->
 
@@ -12213,18 +12260,7 @@ KUNGSBACKA  KOMMUN
 
 Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
 
-[Tabell 302-1](handlingar.tabeller/302-1.csv)
-
-| 2023-02-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
-| --- | --- | --- |
-| 2023-03-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
-| 2023-04-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. Individen<br>har blivit erbjuden flera uppstartsmöten men avbokat. |
-| 2023-04-17 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde är föräldraledig. |
-| 2023-04-27 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde har fått praktikplats med start i november,<br>önskar avvakta till dess. |
-| 2023-05-03 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Arbetsmiljöproblem relaterade<br>till den enskilde. |
-| 2023-05-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
-
-[Tabell 302-2](handlingar.tabeller/302-2.csv)
+[Tabell 302-303-1](handlingar.tabeller/302-303-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
@@ -12232,6 +12268,15 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2023-05-05 | 4 kap 1 § SoL,<br>kontaktperson | Den enskilde medverkar inte till<br>verkställighet. | Avslutat, 2023-09-26,<br>den enskilde upplever<br>inte att hen är i behov<br>av insatsen. |
 | 2022-09-28 | 9 § 3 LSS, ledsagarservice | Avbrott i verkställighet, tackat<br>nej till 2 erbjudanden,<br>2023-03-14, 2023-05-02. | Verkställt, 2023-09-13. |
 | 2022-08-30 | 9 § 3 LSS, ledsagarservice | Tackat nej till 1 erbjudande,<br>2022-11-03. | Avslutat, 2023-08-08,<br>inte rätt insats. |
+| 2022-10-03 | 9 § 4 LSS, kontaktperson | Avbrott i verkställighet, tackat<br>nej till 2 erbjudanden,<br>2023-03-13, 2023-05-02, vill<br>vänta till hösten. | Avslutat, 2023-09-26.<br>Den enskilde vill inte<br>ha insatsen. |
+| 2022-05-22 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, tackat<br>nej till 4 erbjudanden,<br>2022-06-14, 2022-09-06, 2023-<br>01-19, 2023-06-15. Tveksam till<br>beviljad insats. | Verkställt, 2023-09-26. |
+| 2022-09-28 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, tackat<br>nej till 2 erbjudanden,<br>2023-03-14, 2023-05-02.<br>Tveksam till beviljad insats. | Verkställt, 2023-09-13. |
+| 2023-04-03 | 9 § 6 Korttidsvistelse i<br>form av läger | Saknas plats. | Verkställt, 2023-09-02 |
+| 2023-04-04 | 9 § 6 Korttidsvistelse i<br>form av läger | Den enskilde har specifika<br>önskemål. | Verkställt, 2023-08-26 |
+| 2023-03-07 | 9 § 9 LSS, bostad för<br>vuxna | Matchar inte våra befintliga<br>boenden. | Verkställt, 2023-08-30. |
+| 2022-02-02 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>servicebostad | Tackat nej till 2 erbjudanden,<br>2022-11-30, 2023-02-03. | Verkställt, 2023-09-01. |
+| 2022-02-10 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till<br>verkställighet. | Avslutat, 2023-04-21,<br>på egen begäran. |
+| 2023-03-10 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Verkställt, 2023-09-04. |
 
 <!-- sida 303 -->
 
@@ -12243,19 +12288,6 @@ Inom vuxenenheten och familjehemsenheten finns inga ej verkställda beslut under
 Ivan Stipić                   Emelie Sandberg
 
 Förvaltningschef              Biträdande förvaltningschef
-
-[Tabell 303-1](handlingar.tabeller/303-1.csv)
-
-| 2022-10-03 | 9 § 4 LSS, kontaktperson | Avbrott i verkställighet, tackat<br>nej till 2 erbjudanden,<br>2023-03-13, 2023-05-02, vill<br>vänta till hösten. | Avslutat, 2023-09-26.<br>Den enskilde vill inte<br>ha insatsen. |
-| --- | --- | --- | --- |
-| 2022-05-22 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, tackat<br>nej till 4 erbjudanden,<br>2022-06-14, 2022-09-06, 2023-<br>01-19, 2023-06-15. Tveksam till<br>beviljad insats. | Verkställt, 2023-09-26. |
-| 2022-09-28 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, tackat<br>nej till 2 erbjudanden,<br>2023-03-14, 2023-05-02.<br>Tveksam till beviljad insats. | Verkställt, 2023-09-13. |
-| 2023-04-03 | 9 § 6 Korttidsvistelse i<br>form av läger | Saknas plats. | Verkställt, 2023-09-02 |
-| 2023-04-04 | 9 § 6 Korttidsvistelse i<br>form av läger | Den enskilde har specifika<br>önskemål. | Verkställt, 2023-08-26 |
-| 2023-03-07 | 9 § 9 LSS, bostad för<br>vuxna | Matchar inte våra befintliga<br>boenden. | Verkställt, 2023-08-30. |
-| 2022-02-02 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>servicebostad | Tackat nej till 2 erbjudanden,<br>2022-11-30, 2023-02-03. | Verkställt, 2023-09-01. |
-| 2022-02-10 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till<br>verkställighet. | Avslutat, 2023-04-21,<br>på egen begäran. |
-| 2023-03-10 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Verkställt, 2023-09-04. |
 
 <!-- sida 304 -->
 
@@ -18126,7 +18158,7 @@ kontraproposition i huvudomröstningen.
 
 Expedierat/bestyrkt
 
-[Tabell 447-1](handlingar.tabeller/447-1.csv)
+[Tabell 447-448-1](handlingar.tabeller/447-448-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -18154,30 +18186,7 @@ Expedierat/bestyrkt
 | Filip Berndtsson | ( M ) | A ll a |  |  | X |  |  |
 | Lars Eriksson | (S ) | A ll a |  | X |  |  |  |
 | Susanne Andersson | ( S D ) | A l la |  |  |  | X |  |
-
-<!-- sida 448 -->
-
-KUNGSBACKA KOMMUN               PROTOKOLLSUTDRAG
-
-Kommunfullmäktige               Datum
-2019-11-05
-
-Ordföranden redovisar sedan följande propositionsordning för
-huvudomröstningen som kommunfullmäktige godkänner:
-
-Ja-röst innebär bifall till kommunstyrelsens förslag.
-Nej-röst innebär bifall till Britt Tönnbergs (S) m.fl. yrkande.
-
-Omröstningsresultat
-Ordföranden finner att kommunfullmäktige, med 46 ja-röster mot 13 nej-röster
-och 2 som avstår, beslutar bifalla kommunstyrelsens förslag.
-
-Expedierat/bestyrkt
-
-[Tabell 448-1](handlingar.tabeller/448-1.csv)
-
 | Kalle Påsse Sundvall | ( M ) | A ll a |  |  |  | X |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Henrik Arnesson | ( C ) | A ll a |  |  |  | X |  |
 | Marie Wadström | ( K D ) | A l la |  |  |  | X |  |
 | Monica Neptun | ( L ) | A l la |  |  |  | X |  |
@@ -18216,6 +18225,25 @@ Expedierat/bestyrkt
 | Ulrika Högstrand | ( K D ) | A l la |  |  |  | X |  |
 | SUMMA: |  |  |  | 14 | 9 | 38 | 0 |
 
+<!-- sida 448 -->
+
+KUNGSBACKA KOMMUN               PROTOKOLLSUTDRAG
+
+Kommunfullmäktige               Datum
+2019-11-05
+
+Ordföranden redovisar sedan följande propositionsordning för
+huvudomröstningen som kommunfullmäktige godkänner:
+
+Ja-röst innebär bifall till kommunstyrelsens förslag.
+Nej-röst innebär bifall till Britt Tönnbergs (S) m.fl. yrkande.
+
+Omröstningsresultat
+Ordföranden finner att kommunfullmäktige, med 46 ja-röster mot 13 nej-röster
+och 2 som avstår, beslutar bifalla kommunstyrelsens förslag.
+
+Expedierat/bestyrkt
+
 <!-- sida 449 -->
 
 KUNGSBACKA KOMMUN               PROTOKOLLSUTDRAG
@@ -18225,7 +18253,7 @@ Kommunfullmäktige               Datum
 
 Expedierat/bestyrkt
 
-[Tabell 449-1](handlingar.tabeller/449-1.csv)
+[Tabell 449-450-1](handlingar.tabeller/449-450-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -18282,6 +18310,15 @@ Expedierat/bestyrkt
 | Heinrich Kaufmann | (C ) | A ll a |  | X |  |  |  |
 | Gunilla Apler | ( M ) | A ll a |  | X |  |  |  |
 | Tobias Eriksson | ( S D ) | A l la |  | X |  |  |  |
+| Berit Bergström | (M ) | A ll a |  | X |  |  |  |
+| Maj-Britt Rane-Andersson | (S ) | A ll a |  |  | X |  |  |
+| Karin Green | ( C ) | A ll a |  | X |  |  |  |
+| Ann-Helene Reimertz | ( M ) | A ll a |  | X |  |  |  |
+| Madelene Höök | ( L ) | A l la |  | X |  |  |  |
+| Thord Brynielsson | ( S D ) | A l la | L a rs Gallon | X |  |  |  |
+| Per Stenberg | ( M ) | A ll a |  | X |  |  |  |
+| Ulrika Högstrand | ( K D ) | A l la |  | X |  |  |  |
+| SUMMA: |  |  |  | 46 | 13 | 2 | 0 |
 
 <!-- sida 450 -->
 
@@ -18294,19 +18331,6 @@ Beslutet skickas till
 Nämnden för Teknik, kommunledningskontoret: ekonomi
 
 Expedierat/bestyrkt
-
-[Tabell 450-1](handlingar.tabeller/450-1.csv)
-
-| Berit Bergström | (M ) | A ll a |  | X |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Maj-Britt Rane-Andersson | (S ) | A ll a |  |  | X |  |  |
-| Karin Green | ( C ) | A ll a |  | X |  |  |  |
-| Ann-Helene Reimertz | ( M ) | A ll a |  | X |  |  |  |
-| Madelene Höök | ( L ) | A l la |  | X |  |  |  |
-| Thord Brynielsson | ( S D ) | A l la | L a rs Gallon | X |  |  |  |
-| Per Stenberg | ( M ) | A ll a |  | X |  |  |  |
-| Ulrika Högstrand | ( K D ) | A l la |  | X |  |  |  |
-| SUMMA: |  |  |  | 46 | 13 | 2 | 0 |
 
 <!-- sida 451 -->
 
@@ -19957,46 +19981,32 @@ respektive återvinningscentral.
 
 Ku ngsbacka kommun            Lokala avfallsföreskrifter       24 (34)
 
-[Tabell 490-1](handlingar.tabeller/490-1.csv)
+[Tabell 490-493-1](handlingar.tabeller/490-493-1.csv)
 
 | Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
 | --- | --- | --- | --- |
 | Annat avfall än avfall<br>under kommunalt ansvar. | Detta avfall ska<br>hanteras separat från<br>avfall under<br>kommunalt ansvar<br>enligt 15 kap. 20 §<br>miljöbalken. | Fraktionerna ska<br>förvaras och<br>transporteras skilt från<br>varandra och annat<br>avfall. Ska emballeras<br>efter mottagarens<br>villkor. | Kontakta lämplig<br>entreprenör. |
 | Bygg- och rivningsavfall<br>som inte producerats i en<br>yrkesmässig verksamhet | Detta avfall ska<br>sorteras ut och<br>hanteras separat från<br>kommunalt avfall och<br>avfall under<br>kommunalt ansvar<br>enligt 15 kap. 20 §<br>miljöbalken. Avfallet<br>ska utöver<br>utsortering av farligt<br>avfall samt<br>elektronikavfall<br>sorteras i minst<br>följande fraktioner:<br>trä, mineral (som<br>består av betong,<br>tegel, klinker,<br>keramik eller sten),<br>metall, glas, plast<br>och gips. | För vissa fraktioner<br>ställs specifika krav på<br>emballering, till<br>exempel för asbest (se<br>nedan). | Avfallet lämnas<br>utsorterat på<br>återvinningscentral<br>eller hämtas<br>fastighetsnära av<br>entreprenör som<br>ingått avtal kring<br>hämtning av bygg-<br>och rivningsavfall<br>med kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
 | Bygg- och rivningsavfall i<br>form av schaktmassor som<br>lyder under kommunalt<br>ansvar |  |  | Hämtas<br>fastighetsnära av<br>entreprenör som<br>ingått avtal kring<br>hämtning av bygg-<br>och rivningsavfall<br>med kommunen. |
+| Farligt avfall | Följande produkter<br>eller ämnen utgör<br>exempel på vad som<br>ska hanteras som<br>farligt avfall:<br>• Färg<br>• Lösningsmedel<br>• Kemikalier<br>• Ljuskällor<br>• Bensin och diesel<br>• Bekämpningsmedel<br>• Avfall som<br>innehåller<br>kvicksilver | Ska vara emballerat<br>och tydligt märkt med<br>uppgift om innehåll.<br>Olika typer av farligt<br>avfall får inte blandas<br>eller spädas ut med:<br>(1) andra slag av farligt<br>avfall,<br>(2) annat avfall eller<br>(3) andra ämnen eller<br>material. | Farligt avfall lämnas<br>på<br>återvinningscentral.<br>Hämtning av farligt<br>avfall från fastighet<br>kan beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa. Farligt<br>avfall som inte faller<br>under kommunalt<br>ansvar hanteras ej<br>av kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
+| Asbest | Asbest utgör farligt<br>avfall. | Förpackas väl i kraftig<br>plast (minst 0,2 mm).<br>Avfallet ska vara<br>emballerat så att det är<br>dammtätt.<br>Asbest som är<br>emballerat i sopsäckar<br>tas inte emot. | Asbest från<br>privatpersoner<br>lämnas på<br>återvinningscentral<br>som tar emot den<br>typen av avfall. |
+| Spillolja | Spillolja utgör farligt<br>avfall. Spillolja ska<br>sorteras ut och<br>hanteras separat från<br>annat farligt avfall.<br>Spillolja som är<br>isolerolja ska hållas<br>åtskild från andra<br>isoleroljor och andra<br>spilloljor till dess att<br>halten av PCB-<br>produkter i isoleroljan<br>har fastställts.<br>Den som hanterar<br>spillolja ska se till att<br>spilloljan inte blandas<br>med spilloljor med<br>andra egenskaper<br>eller med andra typer<br>av avfall eller ämnen<br>på ett sätt som: | Ska vara emballerat i<br>oljebeständig<br>förpackning och tydligt<br>märkt med uppgift om<br>innehåll. | Spillolja i konsument-<br>förpackning lämnas<br>av privatpersoner på<br>återvinningscentral. |
+|  | Hindrar (1)<br>regenerering av<br>spilloljan, eller<br>(2) annan material-<br>återvinning som ger<br>likvärdiga eller bättre<br>miljöeffekter än<br>regenerering. |  |  |
+| Grovavfall | Grovavfall som utgör<br>kommunalt avfall<br>under kommunalt<br>ansvar och som på<br>grund av avfallets<br>egenskaper behöver<br>hanteras separat från<br>annat kommunalt<br>avfall och avfall<br>under kommunalt<br>ansvar.<br>Avfallet ska sorteras<br>enligt gällande<br>sorterings-<br>instruktioner på ÅVC. | Grovavfall som hämtas<br>av renhållarens<br>utförare ska i den mån<br>det är möjligt buntas<br>eller förpackas i<br>lämpligt emballage.<br>Längder ska vara<br>maximalt 1,2 meter<br>med en största volym<br>av 1 kubikmeter och<br>med en vikt av högst<br>30 kilogram/kolli.<br>Sortering ska ske<br>enligt kommunens<br>instruktioner.<br>Emballaget ska<br>märkas med<br>”grovavfall” och<br>respektive fraktion. | Grovavfall lämnas på<br>återvinningscentral.<br>På<br>återvinningscentralen<br>ska avfallet sorteras<br>och lämnas enligt<br>instruktioner på plats.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Annan transportör<br>godtas enligt 15a§. |
+| Restavfall<br>(Sorterat brännbart kärl-<br>och säckavfall som faller<br>under kommunalt ansvar) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | Ska emballeras i<br>lämpligt material så att<br>avfallet inte kan<br>spridas eller damma<br>vid tömning. | Hämtning sker enligt<br>bilaga 2. |
+| Komposterbart<br>trädgårdsavfall<br>(Till komposterbart<br>trädgårdsavfall räknas<br>växtavfall som<br>uppkommer vid normal<br>trädgårdsskötsel däremot<br>inte fällda träd eller avfall<br>som uppstår vid större<br>anläggningsarbeten i en<br>trädgård.) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | På återvinnings-<br>centralen ska avfallet<br>lämnas enligt<br>instruktioner på plats. | Komposterbart<br>trädgårdsavfall<br>lämnas på<br>återvinningscentral.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Hämtning av<br>komposterbart<br>trädgårdsavfall sker<br>separat från<br>hämtning av annat<br>grovavfall.<br>För abonnemang<br>med hämtning av<br>komposterbart<br>trädgårdsavfall i kärl,<br>ska avfallet läggas<br>löst i kärlet och inte<br>packas så hårt att<br>tömningen försvåras.<br>Annan transportör<br>godtas enligt 15a§<br>Trädgårdsavfall från<br>den egna fastigheten<br>får komposteras på<br>fastigheten.<br>Särskilda regler<br>gäller för avfall som<br>innehåller invasiva<br>växter. |
 
 <!-- sida 491 -->
 
 Ku ngsbacka kommun            Lokala avfallsföreskrifter       25 (34)
 
-[Tabell 491-1](handlingar.tabeller/491-1.csv)
-
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
-| --- | --- | --- | --- |
-| Farligt avfall | Följande produkter<br>eller ämnen utgör<br>exempel på vad som<br>ska hanteras som<br>farligt avfall:<br>• Färg<br>• Lösningsmedel<br>• Kemikalier<br>• Ljuskällor<br>• Bensin och diesel<br>• Bekämpningsmedel<br>• Avfall som<br>innehåller<br>kvicksilver | Ska vara emballerat<br>och tydligt märkt med<br>uppgift om innehåll.<br>Olika typer av farligt<br>avfall får inte blandas<br>eller spädas ut med:<br>(1) andra slag av farligt<br>avfall,<br>(2) annat avfall eller<br>(3) andra ämnen eller<br>material. | Farligt avfall lämnas<br>på<br>återvinningscentral.<br>Hämtning av farligt<br>avfall från fastighet<br>kan beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa. Farligt<br>avfall som inte faller<br>under kommunalt<br>ansvar hanteras ej<br>av kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
-| Asbest | Asbest utgör farligt<br>avfall. | Förpackas väl i kraftig<br>plast (minst 0,2 mm).<br>Avfallet ska vara<br>emballerat så att det är<br>dammtätt.<br>Asbest som är<br>emballerat i sopsäckar<br>tas inte emot. | Asbest från<br>privatpersoner<br>lämnas på<br>återvinningscentral<br>som tar emot den<br>typen av avfall. |
-| Spillolja | Spillolja utgör farligt<br>avfall. Spillolja ska<br>sorteras ut och<br>hanteras separat från<br>annat farligt avfall.<br>Spillolja som är<br>isolerolja ska hållas<br>åtskild från andra<br>isoleroljor och andra<br>spilloljor till dess att<br>halten av PCB-<br>produkter i isoleroljan<br>har fastställts.<br>Den som hanterar<br>spillolja ska se till att<br>spilloljan inte blandas<br>med spilloljor med<br>andra egenskaper<br>eller med andra typer<br>av avfall eller ämnen<br>på ett sätt som: | Ska vara emballerat i<br>oljebeständig<br>förpackning och tydligt<br>märkt med uppgift om<br>innehåll. | Spillolja i konsument-<br>förpackning lämnas<br>av privatpersoner på<br>återvinningscentral. |
-
 <!-- sida 492 -->
 
 Ku ngsbacka kommun            Lokala avfallsföreskrifter       26 (34)
 
-[Tabell 492-1](handlingar.tabeller/492-1.csv)
-
-|  | Hindrar (1)<br>regenerering av<br>spilloljan, eller<br>(2) annan material-<br>återvinning som ger<br>likvärdiga eller bättre<br>miljöeffekter än<br>regenerering. |  |  |
-| --- | --- | --- | --- |
-| Grovavfall | Grovavfall som utgör<br>kommunalt avfall<br>under kommunalt<br>ansvar och som på<br>grund av avfallets<br>egenskaper behöver<br>hanteras separat från<br>annat kommunalt<br>avfall och avfall<br>under kommunalt<br>ansvar.<br>Avfallet ska sorteras<br>enligt gällande<br>sorterings-<br>instruktioner på ÅVC. | Grovavfall som hämtas<br>av renhållarens<br>utförare ska i den mån<br>det är möjligt buntas<br>eller förpackas i<br>lämpligt emballage.<br>Längder ska vara<br>maximalt 1,2 meter<br>med en största volym<br>av 1 kubikmeter och<br>med en vikt av högst<br>30 kilogram/kolli.<br>Sortering ska ske<br>enligt kommunens<br>instruktioner.<br>Emballaget ska<br>märkas med<br>”grovavfall” och<br>respektive fraktion. | Grovavfall lämnas på<br>återvinningscentral.<br>På<br>återvinningscentralen<br>ska avfallet sorteras<br>och lämnas enligt<br>instruktioner på plats.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Annan transportör<br>godtas enligt 15a§. |
-| Restavfall<br>(Sorterat brännbart kärl-<br>och säckavfall som faller<br>under kommunalt ansvar) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | Ska emballeras i<br>lämpligt material så att<br>avfallet inte kan<br>spridas eller damma<br>vid tömning. | Hämtning sker enligt<br>bilaga 2. |
-
 <!-- sida 493 -->
 
 Ku ngsbacka kommun            Lokala avfallsföreskrifter       27 (34)
-
-[Tabell 493-1](handlingar.tabeller/493-1.csv)
-
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
-| --- | --- | --- | --- |
-| Komposterbart<br>trädgårdsavfall<br>(Till komposterbart<br>trädgårdsavfall räknas<br>växtavfall som<br>uppkommer vid normal<br>trädgårdsskötsel däremot<br>inte fällda träd eller avfall<br>som uppstår vid större<br>anläggningsarbeten i en<br>trädgård.) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | På återvinnings-<br>centralen ska avfallet<br>lämnas enligt<br>instruktioner på plats. | Komposterbart<br>trädgårdsavfall<br>lämnas på<br>återvinningscentral.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Hämtning av<br>komposterbart<br>trädgårdsavfall sker<br>separat från<br>hämtning av annat<br>grovavfall.<br>För abonnemang<br>med hämtning av<br>komposterbart<br>trädgårdsavfall i kärl,<br>ska avfallet läggas<br>löst i kärlet och inte<br>packas så hårt att<br>tömningen försvåras.<br>Annan transportör<br>godtas enligt 15a§<br>Trädgårdsavfall från<br>den egna fastigheten<br>får komposteras på<br>fastigheten.<br>Särskilda regler<br>gäller för avfall som<br>innehåller invasiva<br>växter. |
 
 <!-- sida 494 -->
 
@@ -20025,7 +20035,7 @@ Ku ngsbacka kommun            Lokala avfallsföreskrifter       29 (34)
 
 Ku ngsbacka kommun            Lokala avfallsföreskrifter       30 (34)
 
-[Tabell 496-1](handlingar.tabeller/496-1.csv)
+[Tabell 496-497-1](handlingar.tabeller/496-497-1.csv)
 
 | Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
 | --- | --- | --- | --- |
@@ -20033,18 +20043,14 @@ Ku ngsbacka kommun            Lokala avfallsföreskrifter       30 (34)
 | Stickande och skärande<br>avfall under kommunalt<br>ansvar (från hushåll eller<br>uppkommet genom<br>egenvård) |  | Kanyler ska läggas i<br>speciell behållare som<br>tillhandahålls av<br>kommunen via<br>exempelvis apotek.<br>Annat stickande och<br>skärande avfall i<br>mindre volymer ska<br>paketeras väl. | Ska lämnas till<br>apotek som<br>kommunen har avtal<br>med eller på<br>återvinningscentral.<br>Hämtning av fulla<br>behållare från<br>fastighet kan<br>beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa.<br>Välpaketerat<br>stickande och<br>skärande avfall i<br>mindre volymer ska<br>läggas i behållare för<br>brännbart restavfall.<br>Annan transportör<br>godtas enligt 15a§ |
 | Förpackningar | I enlighet med<br>definitionen av<br>förpackning i<br>förordningen<br>(2018:1462) om<br>producentansvar för<br>förpackningar | Lämnas lösa i de<br>behållare/ kärl som<br>tillhandahålls/anvisas | Se sorteringskrav i<br>13a§<br>Annan transportör<br>godtas enligt 15a§ |
 | Returpapper | I enlighet med<br>definitionen av<br>returpapper i<br>avfallsförordningen<br>(2020:614) | Lämnas löst i de<br>behållare/kärl som<br>tillhandahålls/anvisas. | Ska lämnas i de<br>insamlingssystem<br>som tillhandahålls av<br>kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
+| Kasserade bilbatterier | I enlighet med<br>definitionen av<br>batteri i<br>batteriförordningen<br>(2008:834) | Ställs upp på ett sätt<br>som förhindrar att<br>batterisyra/innehåll<br>rinner ut. | Ska lämnas i de<br>insamlingssystem<br>som tillhandahålls av<br>kommunen eller<br>producent.<br>Tas ej emot från<br>verksamheter. |
+| Kasserade bärbara<br>batterier<br>Om kasserade produkter<br>innehåller lösa bärbara<br>batterier ska dessa<br>plockas ur. Är de bärbara<br>batterierna inbyggda i<br>produkten hanteras den<br>som avfall från<br>el-utrustning. | I enlighet med<br>definitionen av<br>bärbart batteri i<br>batteriförordningen<br>(2008:834) |  | Ska lämnas i de<br>insamlingssystem<br>som tillhandahålls av<br>kommunen eller<br>producent.<br>För verksamheter<br>gäller särskilda<br>regler. |
+| Konsumentelavfall/elavfall | Skrymmande<br>konsumentelavfall/el<br>avfall ska sorteras ut<br>och hållas skilt från<br>annat grovavfall.<br>Smått<br>konsumentelavfall/ela<br>vfall ska sorteras ut<br>och hållas skilt från<br>kärl- och säckavfall. |  | Konsumentelavfall<br>lämnas vid<br>återvinningscentral<br>eller till en producent.<br>På<br>återvinningscentralen<br>ska avfallet lämnas<br>enligt instruktioner på<br>plats. Hämtning av<br>skrymmande<br>konsumentelavfall<br>kan beställas med<br>tjänster för grovavfall<br>enligt kommunens<br>avfallstaxa.<br>För verksamheter<br>gäller särskilda<br>regler.<br>Se övriga<br>bestämmelser<br>kring transport i<br>15a§. |
+| Läkemedel | I enlighet med<br>definitionen av<br>läkemedel i<br>förordningen<br>(2009:1031) om<br>producentansvar för<br>läkemedel. | Ska lämnas i<br>behållare/ påse som<br>tillhandahålls av<br>apoteket. | Lämnas till apotek. |
 
 <!-- sida 497 -->
 
 Ku ngsbacka kommun            Lokala avfallsföreskrifter       31 (34)
-
-[Tabell 497-1](handlingar.tabeller/497-1.csv)
-
-| Kasserade bilbatterier | I enlighet med<br>definitionen av<br>batteri i<br>batteriförordningen<br>(2008:834) | Ställs upp på ett sätt<br>som förhindrar att<br>batterisyra/innehåll<br>rinner ut. | Ska lämnas i de<br>insamlingssystem<br>som tillhandahålls av<br>kommunen eller<br>producent.<br>Tas ej emot från<br>verksamheter. |
-| --- | --- | --- | --- |
-| Kasserade bärbara<br>batterier<br>Om kasserade produkter<br>innehåller lösa bärbara<br>batterier ska dessa<br>plockas ur. Är de bärbara<br>batterierna inbyggda i<br>produkten hanteras den<br>som avfall från<br>el-utrustning. | I enlighet med<br>definitionen av<br>bärbart batteri i<br>batteriförordningen<br>(2008:834) |  | Ska lämnas i de<br>insamlingssystem<br>som tillhandahålls av<br>kommunen eller<br>producent.<br>För verksamheter<br>gäller särskilda<br>regler. |
-| Konsumentelavfall/elavfall | Skrymmande<br>konsumentelavfall/el<br>avfall ska sorteras ut<br>och hållas skilt från<br>annat grovavfall.<br>Smått<br>konsumentelavfall/ela<br>vfall ska sorteras ut<br>och hållas skilt från<br>kärl- och säckavfall. |  | Konsumentelavfall<br>lämnas vid<br>återvinningscentral<br>eller till en producent.<br>På<br>återvinningscentralen<br>ska avfallet lämnas<br>enligt instruktioner på<br>plats. Hämtning av<br>skrymmande<br>konsumentelavfall<br>kan beställas med<br>tjänster för grovavfall<br>enligt kommunens<br>avfallstaxa.<br>För verksamheter<br>gäller särskilda<br>regler.<br>Se övriga<br>bestämmelser<br>kring transport i<br>15a§. |
-| Läkemedel | I enlighet med<br>definitionen av<br>läkemedel i<br>förordningen<br>(2009:1031) om<br>producentansvar för<br>läkemedel. | Ska lämnas i<br>behållare/ påse som<br>tillhandahålls av<br>apoteket. | Lämnas till apotek. |
 
 <!-- sida 498 -->
 
@@ -20121,61 +20127,41 @@ Ku ngsbacka kommun            Lokala avfallsföreskrifter       34 (34)
 
 Bilaga 1 Sammanställning av korrigeringar gjorda efter utställningstiden
 
-[Tabell 501-1](handlingar.tabeller/501-1.csv)
+[Tabell 501-506-1](handlingar.tabeller/501-506-1.csv)
 
 | Paragraf | Kommentar | Uppdaterat enligt följande |
 | --- | --- | --- |
 | 2§ punkt 1. d | Lägg till parkavfall och<br>uppdatera i enlighet<br>med Avfall Sveriges<br>mall. (A&Å) | Följande text:<br>Med trädgårdsavfall avses sådant biologiskt nedbrytbart trädgårdsavfall i enlighet<br>med definitionen i 1 kap. 5 § 1 punkten avfallsförordningen (2020:614) som<br>uppstår vid normalt nyttjande av trädgård vid bostadshus och sådant avfall från<br>andra källor som är kommunalt avfall i enlighet med 15 kap. 3 § miljöbalken.<br>Byts till:<br>Med trädgårdsavfall avses sådant biologiskt nedbrytbart trädgårds- och<br>parkavfall i enlighet med definitionen i 1 kap. 5 § 1 punkten avfallsförordningen<br>(2020:614) som uppstår i trädgård vid bostadshus och sådant avfall från andra<br>källor som är kommunalt avfall i enlighet med 15 kap. 3 § miljöbalken. |
 | 2§ (punkt 10) | Se över definitionen<br>av yrkesmässig<br>verksamhet.<br>Det kan vara bra att<br>”lätta” på definitionen.<br>Det blir svårigheter för<br>tillsynsmyndigheten<br>om Kungsbacka<br>kommun definierar<br>yrkesmässig<br>verksamhet ”striktare”<br>än exempelvis | Följande korrigering görs:<br>10. Yrkesmässig verksamhet innebär att tjänster utförs mot betalning och i<br>kommersiellt syfte. Undantaget är skolor och ideella föreningar som utför en<br>tjänst för att samla in pengar till ett visst ändamål, exempelvis klassresa eller<br>idrottsevenemang.<br>Byts till:<br>”10. Så länge inte annat framgår i gällande lagstiftning innebär med yrkesmässig<br>verksamhet i dessa föreskrifter att någon regelbundet utför tjänster mot betalning.<br>Tillfälliga arbeten och kortare uppdrag av obetydlig omfattning räknas här inte som<br>yrkesmässig verksamhet. Till yrkesmässig verksamhet räknas inte heller skolor eller |
-
-<!-- sida 502 -->
-
-[Tabell 502-1](handlingar.tabeller/502-1.csv)
-
 |  | Naturvårdsverket,<br>polismyndigheten eller<br>skatteverket.<br>Naturvårdsverkets<br>utredning kring<br>behovet av tydligare<br>definition skall vara<br>klar 17/10. Vi behöver<br>innan dess bestämma<br>hur vi definierar en<br>yrkesmässig<br>verksamhet i<br>Kungsbacka.<br>(A&Å, avstämt med<br>MH) | ideella föreningar som utför en tjänst för att samla in pengar till ett visst ändamål,<br>exempelvis klassresa eller idrottsevenemang. |
-| --- | --- | --- |
 | 11–13§ | Vård & Omsorg kan<br>se en viss påverkan<br>av beviljad<br>biståndsinsats utifrån<br>insatser till personer i<br>kvarboende som inte<br>själva kan hantera<br>separering av sitt<br>matavfall. Vidare finns<br>det personer med<br>kognitiva<br>funktionsnedsättningar<br>som ex<br>demenssjukdom som<br>bor i ordinärt boende<br>och hanterar sina | Inga förändringar föreslås baserat på Vård & Omsorgs yttrande. A&Å har kikat<br>närmare på kommentar kring VO´s yttrande i internt möte. Möjlighet att söka<br>dispens finns i föreslagna föreskrifter. |
-
-<!-- sida 503 -->
-
-[Tabell 503-1](handlingar.tabeller/503-1.csv)
-
 |  | sopor själva och här<br>ser Vård & Omsorg en<br>risk för felsortering. I<br>övrigt så har Vård &<br>Omsorg inga<br>synpunkter på<br>förslaget. |  |
-| --- | --- | --- |
 | 13c§ | I 13c§ bör vi förtydliga att<br>ytterligare föreskrifter om<br>hantering av invasiva arter<br>återfinns i bilaga 1. (Möte<br>A&Å, MH) | Rödmarkerat byts till fet text nedan:<br>13c§ Avfall i form av invasiva växter ska sorteras ut och hållas skiljt från annat avfall<br>och sorteras ut från annat biologiskt avfall samt hanteras i enlighet med<br>sorteringsanvisningarna till avfallsföreskrifterna.<br>Byts till:<br>13c§ Avfall i form av invasiva växter ska sorteras ut och hållas skiljt från annat avfall<br>och sorteras ut från annat biologiskt avfall samt hanteras i enlighet med<br>sorteringsanvisningarna i bilaga 1. |
 | 15§ | 15§ bör uppdateras enligt<br>Avfall Sveriges mall | Rödmarkerat läggs till:<br>15 § Avfall under kommunalt ansvar ska lämnas till och transporteras bort av<br>renhållaren eller renhållarens utförare, om inte annat sägs i dessa föreskrifter och<br>dess bilaga 1. |
 | 15§ | Vi kan inte ha formuleringen<br>i föreskrifterna utan att<br>auktorisera företag för<br>hämtning av farligt avfall<br>från verksamheter. Avstämt<br>med Avfall Sverige. (A&Å) | Nedan stryks i 15a<br>15a§ Grovavfall, bioavfall i form av trädgårds- och parkavfall, farligt avfall, bygg-<br>och rivningsavfall som inte har uppstått i en yrkesmässig verksamhet samt<br>annat avfall under kommunalt ansvar som markerats i bilaga 1, får lämnas till<br>annan än renhållaren eller renhållarens utförare, för borttransport till den eller de<br>platser i kommunen där kommunen tar emot sådant avfall. Yrkesmässiga<br>utförare får dock endast anlitas av yrkesmässig verksamhet för avfall som<br>uppstått i den egna verksamheten. Farligt avfall från yrkesmässig verksamhet |
-
-<!-- sida 504 -->
-
-[Tabell 504-1](handlingar.tabeller/504-1.csv)
-
 |  |  | tas inte emot på kommunens återvinningscentraler men får lämnas till annan<br>aktör med tillstånd för hantering av den typen av avfall.<br>Enligt 5 kap. 18 § avfallsförordningen (2020:614) ska yrkesmässig verksamhet som<br>lämnar avfallet till någon annan än kommunen eller de som kommunen anlitat,<br>kontrollera att den som tar emot avfallet har gjort de anmälningar eller har de tillstånd<br>som krävs för hanteringen. Vid yrkesmässig transport av farligt avfall inklusive elavfall,<br>ska även upprättas transportdokument och utföras den anteckning och rapportering<br>som krävs enligt 6 kap. avfallsförordningen. |
-| --- | --- | --- |
 | 22§ | Det finns ingen information<br>om att kärlen skall vara i<br>tömbart skick likt i<br>avfallsfoldern och i taxan.<br>Kungsbacka Direkt föreslår<br>att vi kompletterar med<br>detta i 22§. | Fetmarkerad text läggs till i 22§:<br>22§ Behållare får inte fyllas mer än att den kan stängas. Den får inte heller<br>vara så tung att det blir uppenbara svårigheter att flytta den eller att<br>arbetsmiljökrav inte kan tillgodoses. Behållare bör vara fri från snö och is<br>och avfallet ska gå att tömma utan svårigheter, det vill säga att avfallet<br>inte är fastfruset eller intorkat i kärlet vid hämtningstillfället. |
 | 23§ | Vi bör lägga till information<br>om hur kärl i miljörum skall<br>placeras inför tömning.<br>Förtydligande i 23§ föreslås.<br>Text att hämta finns i Avfall<br>Sveriges handbok för<br>avfallsutrymmen. (K&K,<br>A&Å) | Fetmarkerad text läggs till i 23§<br>23§ För en- och tvåfamiljsfastigheter gäller att behållaren senast kl. 06.00<br>på hämtningsdagens morgon ska vara uppställd vid hämtningsplatsen med<br>draghandtaget vänt utåt mot bilvägen. Kärl i miljörum ska placeras så att<br>draghandtaget utan svårighet kan nås från gången. Detta så att<br>hämtning underlättas och hantering med den utrustning som används i<br>kommunens renhållningssystem kan ske. Behållare ska kunna flyttas utan<br>svårighet. Anordningar såsom kedja, snöre eller rep ska kunna avlägsnas<br>utan svårighet. |
 | 31§ | Vi bör ha bättre möjligheter<br>att säkerställa en god<br>arbetsmiljö och en säker<br>hämtning av avfall. Hela 24§ | 31§ Renhållaren eller renhållarens utförare har rätt att inte utföra ordinarie<br>hämtning om föreskrifterna i 13§, 16§, 21§ 2 st., 22§, 24§ 1–3 st., 6 st. och<br>8 och 9 st. samt 28§ inte följs. |
-
-<!-- sida 505 -->
-
-[Tabell 505-1](handlingar.tabeller/505-1.csv)
-
 |  | bör ingå under skrivelse i<br>31§. | Byts till:<br>31§ Renhållaren eller renhållarens utförare har rätt att inte utföra ordinarie<br>hämtning om föreskrifterna i 13§, 16§, 21§ 2 st., 22§, 24§ samt 28§ inte<br>följs. |
-| --- | --- | --- |
 | 31b§ | 31b§ bör bytas till 31a§ för<br>att vi skall vara konsekventa<br>i dokumentet. (A&Å) | 31b§ är bytt till 33a§ |
 | 32§ | Lägg till att även 31a<br>(tidigare 31b§) gäller för<br>verksamheter. (A&Å) | Paragrafhänvisning i 32b uppdaterad till 13-31a§§. |
 | 32§ | 32§ bör uppdateras<br>enligt Avfall Sveriges<br>mall. | Avfall under kommunalt ansvar från verksamheter ska hållas skilt från annat<br>avfall än avfall under kommunalt ansvar. För avfall under kommunalt ansvar<br>från verksamheter gäller 13–31 §§ om ej annat anges i dessa föreskrifter.<br>Byts till:<br>Utöver vad som föreskrivs i 13-31a§§ ska verksamheter hålla avfall under<br>kommunalt ansvar åtskilt från annat avfall. |
 | 32§ | Tillägg i form av 32a§<br>bör göras för att<br>matcha 24a§ i Avfall<br>Sveriges mall. 8a§ i<br>mallen är 13a§ i<br>Kungsbackas<br>föreskrifter så detta<br>måste ändras i ny<br>paragraf 32a§ | Följande läggs till efter 32§:<br>32a§ Verksamheter som har avfallshantering som är samlokaliserad med<br>hushåll och som har anmält att verksamheten vill ha kommunal insamling av<br>förpackningsavfall eller skrymmande<br>förpackningsavfall ska sortera ut förpackningsavfallet i enligt 13a§ och<br>lämna det till ett insamlingssystem som kommunen eller den som<br>renhållaren eller renhållarens utförare tillhandahåller. |
-
-<!-- sida 506 -->
-
-[Tabell 506-1](handlingar.tabeller/506-1.csv)
-
 |  |  | För plastflaskor och metallburkar som är avsedda för ett retursystem gäller i<br>stället att sådana alltid ska lämnas till retursystemet i enlighet med 13a§.<br>Bestämmelsen i 13a§ om att utsorterat läkemedelsavfall och förpackningar<br>innehållande läkemedelsavfall ska lämnas till apotek, gäller endast hushåll.<br>Närmare föreskrifter om sortering återfinns i bilaga 1. |
-| --- | --- | --- |
 | 33a§ | 33a§ bör bytas till 33§ och<br>33b bör bytas till 33a§ om vi<br>skall vara konsekventa i<br>dokumentet. (A&Å) | Paragrafnummer har uppdaterats. |
 | 33§ + 33a§ (Innan<br>ändring 33a+b§) | Vi har nu “Regler för<br>oljeavskiljare kopplade till<br>kommunalt spillvattennät”<br>som kan vara bra att lyfta i<br>föreskrifterna.<br>Det är dock bra om vi håller<br>det på en övergripande nivå<br>om regler ändras. A&Å har<br>stämt av med<br>Avloppsrening.<br>Avloppsrening önskar lägga<br>till följande i 33b§: Utöver<br>gällande lagstiftning ska<br>lokala regler för annat avfall<br>än avfall under kommunalt<br>ansvar från verksamheter<br>följas. | Fetmarkerad text läggs till i 33a§ (tidigare 33b§)<br>33a§ För den som driver en yrkesmässig verksamhet och har oljeavskiljare eller<br>annan vattenreningsanläggning avsedd för spillvatten kopplat till kommunens<br>spillvattennät ska resultat av utförda kontroller, tömningar och besiktningar lämnas på<br>begäran till nämnden för Teknik. Nämnden för Teknik ska ges möjlighet att yttra sig<br>vid nyinstallation och vid förändringar av verksamheten som rör funktionen av<br>oljeavskiljaren eller annan vattenreningsanläggning avsedd för spillvatten.<br>Utöver gällande lagstiftning ska lokala regler för annat avfall än avfall under<br>kommunalt ansvar från verksamheter följas. |
 | 36§ | Synpunkter från MH<br>inkomna under utställning:<br>”Under mötet tas synpunkt<br>upp om att det i nuvarande<br>formulering i 36 § | 36§ uppdateras till följande:<br>36§ Komposterbart trädgårdsavfall från fastigheten får komposteras på fastigheten<br>utan särskild anmälan. Trädgårdsavfall som innehåller invasiva växter ska<br>hanteras i enlighet med 13c§. |
+
+<!-- sida 502 -->
+
+<!-- sida 503 -->
+
+<!-- sida 504 -->
+
+<!-- sida 505 -->
+
+<!-- sida 506 -->
 
 <!-- sida 507 -->
 
@@ -20216,7 +20202,7 @@ Första meningen i 36
 
 <!-- sida 508 -->
 
-[Tabell 508-1](handlingar.tabeller/508-1.csv)
+[Tabell 508-510-1](handlingar.tabeller/508-510-1.csv)
 
 |  | trädgårdsavfall från<br>fastigheten får<br>komposteras på<br>fastigheten utan<br>särskild anmälan.”<br>Utöver detta så har vi inga<br>synpunkter på de tilltänkta<br>avfallsföreskrifterna. |  |
 | --- | --- | --- |
@@ -20224,24 +20210,16 @@ Första meningen i 36
 | 46§ (ny) | Rubrik angående<br>insamling av<br>förpackningsavfall från<br>samlokaliserade<br>varsamheter saknas.<br>Lägg till enligt mall<br>och uppdatera<br>paragrafhänvisningar.<br>Förslag: Minst 1<br>månad före det att<br>man önskar starta<br>insamlingen måste<br>man ansöka. (A&Å) | Ny rubrik och 46§ tillagd:<br>Anmälan avseende insamling<br>av förpackningsavfall för<br>samlokaliserade verksamheter<br>46 § En verksamhet i en fastighet som har fastighetsnära insamling av<br>förpackningsavfall och som har en avfallshantering som är samlokaliserad<br>med hushållens ska anmäla till kommunen att den<br>vill ha kommunal insamling senast en (1) månad innan insamlingen ska påbörjas. |
 | Förstasidan | Lägg till trevlig bild på<br>förstasidan likt i Göteborgs<br>föreskrifter. (A&Å) | Tillagt |
 | Innehållsförteckning | Det blir enklare att hitta i<br>dokumentet om man har en | Tillagt |
-
-<!-- sida 509 -->
-
-[Tabell 509-1](handlingar.tabeller/509-1.csv)
-
 |  | innehållsförteckning. Se<br>Göteborgs stads föreskrifter<br>tex. (A&Å) |  |
-| --- | --- | --- |
 | Rubrik ”Andra<br>undantag” | Paragrafnummer saknas.<br>(A&Å) | ”47§” läggs till framför Andra undantag. |
 | Bilaga 1<br>Komposterbart<br>trädgårdsavfall | Lägg till i bilaga 1 info om<br>möjlighet till att kompostera<br>trädgårdsavfall på egen<br>fastighet. Just nu står det<br>bara att man får åka till<br>ÅVC. (Kommentar från möte<br>A&Å och MH 19/6) | Tillägg i bilaga 1 under komposterbart trädgårdsavfall: Trädgårdsavfall från den<br>egna fastigheten får komposteras på fastigheten. Särskilda regler gäller för<br>avfall som innehåller invasiva växter. |
 | Bilaga 1<br>Komposterbart<br>trädgårdsavfall | 1. Förtydliga i tabellen vad<br>som avses samt ta bort<br>att det bara gäller avfall<br>från småhus.<br>2. I krav på emballering och<br>instruktion för<br>hämtning/lämning finns<br>en upprepning. Stryk ena<br>stycket.<br>3. Förtydliga instruktion för<br>hämtning/lämning. Ta<br>bort att det endast gäller<br>avfall från hushåll.<br>(A&Å) | 1. Under ” Typ av avfall som ska sorteras ut och hållas skiljt från annat avfall” byts:<br>(Till trädgårdsavfall räknas komposterbart och växtavfall som uppkommer vid normal<br>trädgårdsskötsel i småhus, däremot inte fällda träd eller avfall som uppstår vid större<br>anläggningsarbeten i en trädgård.)<br>till:<br>(Till komposterbart trädgårdsavfall räknas växtavfall som uppkommer vid normal<br>trädgårdsskötsel, däremot inte fällda träd eller avfall som uppstår vid större<br>anläggningsarbeten i en trädgård.)<br>2. Följande stryks från ”krav på emballering med mera”:<br>För alternativ med abonnemang med hämtning av trädgårdsavfall i kärl, ska avfallet<br>läggas löst i kärlet och inte packas så hårt att tömningen försvåras.<br>3. Under ”Instruktion för hämtning/lämning” byts:<br>Trädgårdsavfall från hushållen lämnas på återvinningscentral.<br>Hämtning från fastighet kan beställas separat enligt kommunens avfallstaxa. |
+|  |  | Hämtning av trädgårdsavfall sker separat från hämtning av annat grovavfall.<br>För abonnemang med hämtning av trädgårdsavfall i kärl, ska avfallet läggas löst i<br>kärlet och inte packas så hårt att tömningen försvåras.<br>Annan transportör godtas enligt 15a§<br>Trädgårdsavfall från den egna fastigheten får komposteras på fastigheten. Särskilda<br>regler gäller för avfall som innehåller invasiva växter.<br>till:<br>Komposterbart trädgårdsavfall lämnas på återvinningscentral.<br>Hämtning från fastighet kan beställas separat enligt kommunens avfallstaxa.<br>Hämtning av komposterbart trädgårdsavfall sker separat från hämtning av annat<br>grovavfall.<br>För abonnemang med hämtning av komposterbart trädgårdsavfall i kärl, ska avfallet<br>läggas löst i kärlet och inte packas så hårt att tömningen försvåras.<br>Annan transportör godtas enligt 15a§<br>Trädgårdsavfall från den egna fastigheten får komposteras på fastigheten. Särskilda<br>regler gäller för avfall som innehåller invasiva växter. |
+| Bilaga 1<br>Trädgårdsavfall i<br>form av grövre ris<br>och grenar (ny<br>fraktion i bilaga 1) | Ny fraktion bör läggas till i<br>bilaga 1 för att visa att vi<br>kan ge dispens för annan<br>hantering av visst material.<br>Det handlar om ris och<br>grenas där man i vissa fall<br>skulle kunna få dispens mot<br>eldningsförbudet. | Bilaga 1 har kompletterats med ”ny” fraktion:<br>”Trädgårdsavfall i form av grövre ris och grenar”<br>I bilagan framgår nu hur detta material skall hanteras samt vilka alternativ för<br>hämtning/lämning som finns. |
+
+<!-- sida 509 -->
 
 <!-- sida 510 -->
-
-[Tabell 510-1](handlingar.tabeller/510-1.csv)
-
-|  |  | Hämtning av trädgårdsavfall sker separat från hämtning av annat grovavfall.<br>För abonnemang med hämtning av trädgårdsavfall i kärl, ska avfallet läggas löst i<br>kärlet och inte packas så hårt att tömningen försvåras.<br>Annan transportör godtas enligt 15a§<br>Trädgårdsavfall från den egna fastigheten får komposteras på fastigheten. Särskilda<br>regler gäller för avfall som innehåller invasiva växter.<br>till:<br>Komposterbart trädgårdsavfall lämnas på återvinningscentral.<br>Hämtning från fastighet kan beställas separat enligt kommunens avfallstaxa.<br>Hämtning av komposterbart trädgårdsavfall sker separat från hämtning av annat<br>grovavfall.<br>För abonnemang med hämtning av komposterbart trädgårdsavfall i kärl, ska avfallet<br>läggas löst i kärlet och inte packas så hårt att tömningen försvåras.<br>Annan transportör godtas enligt 15a§<br>Trädgårdsavfall från den egna fastigheten får komposteras på fastigheten. Särskilda<br>regler gäller för avfall som innehåller invasiva växter. |
-| --- | --- | --- |
-| Bilaga 1<br>Trädgårdsavfall i<br>form av grövre ris<br>och grenar (ny<br>fraktion i bilaga 1) | Ny fraktion bör läggas till i<br>bilaga 1 för att visa att vi<br>kan ge dispens för annan<br>hantering av visst material.<br>Det handlar om ris och<br>grenas där man i vissa fall<br>skulle kunna få dispens mot<br>eldningsförbudet. | Bilaga 1 har kompletterats med ”ny” fraktion:<br>”Trädgårdsavfall i form av grövre ris och grenar”<br>I bilagan framgår nu hur detta material skall hanteras samt vilka alternativ för<br>hämtning/lämning som finns. |
 
 <!-- sida 511 -->
 

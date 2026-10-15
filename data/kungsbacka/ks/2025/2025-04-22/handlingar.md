@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6d76bb7f1963d5107e616b38/1744889265
 sha256: d178e2700094e0c15edf559e7c33c9c81fe374c8a409920ab84c1c04752fbf66
 bytes: 323783886
 sidor: 1716
-hamtad: 2026-10-08T10:52:13+00:00
-konverterad: 2026-10-08T11:10:29+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T08:42:24+00:00
+konverterad: 2026-10-15T09:01:11+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
-tal_obekraftade: [541, 542, 543, 544, 545, 546, 593, 594, 595, 596, 597, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636, 637, 638, 639, 640, 641, 776, 777, 1265, 1266, 1267, 1268, 1269, 1270, 1271, 1272, 1273, 1274, 1275, 1276, 1277, 1278, 1279, 1280, 1281, 1282, 1283, 1284, 1285, 1286, 1287, 1288, 1289, 1290, 1291, 1292, 1293, 1294, 1295, 1296, 1297, 1298, 1299, 1300, 1301, 1302, 1303, 1304, 1305, 1306, 1307, 1308, 1309, 1310, 1311, 1312, 1313, 1320, 1321, 1322, 1323, 1324, 1325, 1384, 1471, 1472, 1473, 1474, 1475, 1476, 1481, 1482, 1483, 1484, 1485, 1486, 1487, 1488, 1489, 1672, 1693, 1701, 1716]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
+tal_obekraftade: [541, 542, 543, 544, 545, 546, 579, 581, 593, 594, 595, 596, 597, 606, 607, 608, 609, 610, 611, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636, 637, 638, 639, 640, 641, 776, 777, 1025, 1027, 1029, 1030, 1031, 1032, 1034, 1035, 1037, 1040, 1041, 1084, 1085, 1086, 1090, 1092, 1093, 1160, 1162, 1164, 1165, 1166, 1167, 1169, 1170, 1172, 1175, 1176, 1219, 1220, 1221, 1225, 1227, 1228, 1265, 1266, 1267, 1268, 1269, 1270, 1271, 1272, 1273, 1274, 1275, 1276, 1277, 1278, 1279, 1280, 1281, 1282, 1283, 1284, 1285, 1286, 1287, 1288, 1289, 1290, 1291, 1292, 1293, 1294, 1295, 1296, 1297, 1298, 1299, 1300, 1301, 1302, 1303, 1304, 1305, 1306, 1307, 1308, 1309, 1310, 1311, 1312, 1313, 1320, 1321, 1322, 1323, 1324, 1325, 1340, 1384, 1471, 1472, 1473, 1474, 1475, 1476, 1481, 1482, 1483, 1484, 1485, 1486, 1487, 1488, 1489, 1672, 1693, 1701, 1716]
+figurer: [553, 554, 555, 568, 569, 570, 571, 572, 573, 575, 576, 577, 578, 579, 580, 591, 593, 594, 595, 596, 597, 599, 603, 606, 609, 612, 613, 614, 615, 616, 617, 618, 619, 620, 622, 630, 633, 639, 641, 648, 649, 650, 651, 652, 654, 655, 656, 657, 658, 659, 666, 667, 668, 670, 672, 676, 677, 678, 679, 680, 686, 694, 696, 697, 699, 701, 702, 703, 704, 705, 706, 709, 710, 712, 713, 718, 720, 722, 723, 725, 726, 727, 728, 730, 735, 950, 972, 974, 976, 988, 990, 992, 1004, 1008, 1020, 1026, 1027, 1028, 1030, 1031, 1033, 1034, 1035, 1036, 1037, 1038, 1039, 1040, 1041, 1043, 1044, 1045, 1046, 1047, 1048, 1049, 1050, 1051, 1052, 1053, 1055, 1056, 1057, 1058, 1060, 1061, 1062, 1063, 1065, 1066, 1067, 1068, 1069, 1070, 1071, 1073, 1074, 1075, 1076, 1077, 1078, 1079, 1080, 1081, 1082, 1083, 1084, 1088, 1089, 1090, 1091, 1092, 1093, 1094, 1095, 1096, 1097, 1099, 1109, 1132, 1136, 1155, 1161, 1162, 1163, 1165, 1166, 1168, 1169, 1170, 1171, 1172, 1173, 1174, 1175, 1176, 1178, 1179, 1180, 1181, 1182, 1183, 1184, 1185, 1186, 1187, 1188, 1190, 1191, 1192, 1193, 1195, 1196, 1197, 1198, 1200, 1201, 1202, 1203, 1204, 1205, 1206, 1208, 1209, 1210, 1211, 1212, 1213, 1214, 1215, 1216, 1217, 1218, 1219, 1223, 1224, 1225, 1226, 1227, 1228, 1229, 1230, 1231, 1232, 1234, 1244, 1332, 1333, 1336, 1339, 1340, 1342, 1343, 1344, 1345, 1346, 1351, 1358, 1373, 1374, 1375, 1376, 1383, 1384, 1397, 1398, 1408, 1422, 1431, 1445, 1446, 1447, 1488, 1489, 1496, 1497, 1499, 1504, 1525, 1528, 1545, 1560, 1564, 1571, 1572, 1577, 1578, 1579, 1580, 1584, 1585, 1588, 1591, 1593, 1594, 1601, 1602, 1604, 1605, 1608, 1611, 1612, 1615, 1616, 1618, 1619, 1620, 1621, 1622, 1623, 1627, 1628, 1629, 1630, 1631, 1633, 1637, 1640, 1641, 1642, 1643, 1644, 1645, 1648, 1649, 1650, 1660, 1693]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -60,7 +60,7 @@ KUNGSBACKA  KOMMUN
 
 2(10)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-5-1](handlingar.tabeller/2-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -68,6 +68,20 @@ KUNGSBACKA  KOMMUN
 | 5. | Antagande av<br>informationshanteringsplan för<br>kommungemensamma<br>stödprocesser | 2024-00787 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar Informationshanteringsplan<br>för kommungemensamma stödprocesser, daterad<br>2024-12-17.<br>Informationshanteringsplan för<br>kommungemensamma stödprocesser, antagen av<br>kommunstyrelsen 2023-05-30, § 108, upphör<br>samtidigt att gälla. |
 | 6. | Avtal om parkeringsavlösen<br>för Centralen 3 | 2024-00215 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner avtal om<br>parkeringsavlösen, innebärande att kommunen<br>upplåter två parkeringsplatser inom<br>parkeringsområde centrum för en ersättning om<br>175 000 kronor per plats till förmån för ägaren till<br>fastigheten Centralen 3.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>samt övriga för ärendets genomförande nödvändiga<br>handlingar. |
 | 7. | Uppdrag att ta fram styrande<br>dokument för<br>parkeringsavlösen | 2024-00697 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram ändamålsenliga styrande dokument för<br>parkeringsavlösen. |
+| 8. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplaner för del av<br>detaljplan S21A för Malevik<br>1:39, detaljplan S53 för Släps-<br>Högås 1:25 m.fl. samt del av<br>detaljplan K35 och T16 inom<br>Spoven 1 | 2025-00143 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>Startpaket småplaner 2025 – Del av detaljplan S21A<br>för Malevik 1:39, Detaljplan S53 för Släps-Högås<br>1:25 m.fl. samt del av detaljplan K35 och T16 inom<br>Spoven 1.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan enligt<br>projektbeställning. |
+| 9. | Begäran om planbesked för<br>Bukärr 3:86 | 2024-00874 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Bukärr 3:86, i Särö. |
+| 10. | Begäran om planbesked för del<br>av Bångsbo 4:1 | 2025-00061 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av bostäder samt verksamhetsmark<br>inom del av Bångsbo 4:1.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för Bångsbo 4:1. |
+| 11. | Begäran om planbesked för<br>Hede 1:53 | 2024-00878 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av skola inom Hede 1:53 i Kungsbacka<br>stad.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>ny detaljplan för Hede 1:53 i Kungsbacka stad. |
+| 12. | Begäran om planbesked för<br>Åsa 5:197 och 5:70 | 2024-00876 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>möjligheten att utveckla befintlig verksamhet inom<br>Åsa 5:197 och 5:70, i Åsa. Möjlig exploatering,<br>såsom placering av byggnader och våningsantal, ska<br>utredas under detaljplanearbetet.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för folkhögskola med internat inom Åsa<br>5:197 och 5:70, i Åsa. |
+| 13. | Budget 2026 för<br>Överförmyndare i samverkan | 2025-00209 | Förslag till beslut i kommunstyrelsen<br>Kungsbacka kommun har inget att erinra mot<br>samrådsunderlag till budget 2026 för<br>Överförmyndare i samverkan. |
+| 14. | Svar på Region Hallands<br>remiss av Regional fysisk plan<br>Halland 2050 | 2024-00869 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-03-12,<br>och översänder det som sitt svar till Region Halland. |
+| 15. | Svar på Länsstyrelsen i<br>Hallands remiss av Regional<br>strategi för storskalig<br>utrymning och mottagning i<br>Hallands län | 2025-00232 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-03-11,<br>och översänder det som sitt svar till Länsstyrelsen i<br>Hallands län. |
+| 16. | Svar på Landsbygds- och<br>infrastrukturdepartementets<br>remiss av betänkandet Avgift<br>för områdessamverkan – och<br>andra åtgärder för trygghet i<br>byggd miljö (SOU 2025:5) | 2025-00153 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-03-25,<br>och översänder det som sitt svar till Landsbygds- och<br>infrastrukturdepartementet. |
+| 17. | Svar på Vattenmyndighetens<br>remiss av arbetsprogram och<br>viktiga vattenfrågor i<br>Västerhavets vattendistrikt | 2024-00765 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-02-20,<br>och översänder det som sitt svar till<br>Vattenmyndigheten i Västerhavets vattendistrikt. |
+| 18. | Svar på<br>Utbildningsdepartementets<br>remiss av betänkandet Bättre<br>förutsättningar för trygghet och<br>studiero i skolan (SOU 2025:8) | 2025-00172 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-03-20,<br>och översänder det som sitt svar till<br>Utbildningsdepartementet. |
+| 19. | Anmälan av delegeringsbeslut | 2025-00006 | Förslag till beslut i kommunstyrelsen<br>14B<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
+| 20. | Anmälan av ordförandebeslut | 2025-00007 | Förslag till beslut i kommunstyrelsen<br>16B<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
+| 21. | Redovisning av inkomna<br>skrivelser | 2025-00004 | Förslag till beslut i kommunstyrelsen<br>16B<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
 
 <!-- sida 3 -->
 
@@ -75,31 +89,11 @@ KUNGSBACKA  KOMMUN
 
 3(10)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplaner för del av<br>detaljplan S21A för Malevik<br>1:39, detaljplan S53 för Släps-<br>Högås 1:25 m.fl. samt del av<br>detaljplan K35 och T16 inom<br>Spoven 1 | 2025-00143 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>Startpaket småplaner 2025 – Del av detaljplan S21A<br>för Malevik 1:39, Detaljplan S53 för Släps-Högås<br>1:25 m.fl. samt del av detaljplan K35 och T16 inom<br>Spoven 1.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan enligt<br>projektbeställning. |
-| 9. | Begäran om planbesked för<br>Bukärr 3:86 | 2024-00874 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Bukärr 3:86, i Särö. |
-| 10. | Begäran om planbesked för del<br>av Bångsbo 4:1 | 2025-00061 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av bostäder samt verksamhetsmark<br>inom del av Bångsbo 4:1.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för Bångsbo 4:1. |
-| 11. | Begäran om planbesked för<br>Hede 1:53 | 2024-00878 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av skola inom Hede 1:53 i Kungsbacka<br>stad.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>ny detaljplan för Hede 1:53 i Kungsbacka stad. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(10)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 12. | Begäran om planbesked för<br>Åsa 5:197 och 5:70 | 2024-00876 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>möjligheten att utveckla befintlig verksamhet inom<br>Åsa 5:197 och 5:70, i Åsa. Möjlig exploatering,<br>såsom placering av byggnader och våningsantal, ska<br>utredas under detaljplanearbetet.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för folkhögskola med internat inom Åsa<br>5:197 och 5:70, i Åsa. |
-| 13. | Budget 2026 för<br>Överförmyndare i samverkan | 2025-00209 | Förslag till beslut i kommunstyrelsen<br>Kungsbacka kommun har inget att erinra mot<br>samrådsunderlag till budget 2026 för<br>Överförmyndare i samverkan. |
-| 14. | Svar på Region Hallands<br>remiss av Regional fysisk plan<br>Halland 2050 | 2024-00869 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-03-12,<br>och översänder det som sitt svar till Region Halland. |
-| 15. | Svar på Länsstyrelsen i<br>Hallands remiss av Regional<br>strategi för storskalig<br>utrymning och mottagning i<br>Hallands län | 2025-00232 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-03-11,<br>och översänder det som sitt svar till Länsstyrelsen i<br>Hallands län. |
-| 16. | Svar på Landsbygds- och<br>infrastrukturdepartementets<br>remiss av betänkandet Avgift<br>för områdessamverkan – och<br>andra åtgärder för trygghet i<br>byggd miljö (SOU 2025:5) | 2025-00153 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-03-25,<br>och översänder det som sitt svar till Landsbygds- och<br>infrastrukturdepartementet. |
-| 17. | Svar på Vattenmyndighetens<br>remiss av arbetsprogram och<br>viktiga vattenfrågor i<br>Västerhavets vattendistrikt | 2024-00765 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-02-20,<br>och översänder det som sitt svar till<br>Vattenmyndigheten i Västerhavets vattendistrikt. |
 
 <!-- sida 5 -->
 
@@ -107,28 +101,32 @@ KUNGSBACKA  KOMMUN
 
 5(10)
 
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 18. | Svar på<br>Utbildningsdepartementets<br>remiss av betänkandet Bättre<br>förutsättningar för trygghet och<br>studiero i skolan (SOU 2025:8) | 2025-00172 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-03-20,<br>och översänder det som sitt svar till<br>Utbildningsdepartementet. |
-| 19. | Anmälan av delegeringsbeslut | 2025-00006 | Förslag till beslut i kommunstyrelsen<br>14B<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
-| 20. | Anmälan av ordförandebeslut | 2025-00007 | Förslag till beslut i kommunstyrelsen<br>16B<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
-| 21. | Redovisning av inkomna<br>skrivelser | 2025-00004 | Förslag till beslut i kommunstyrelsen<br>16B<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
-
 <!-- sida 6 -->
 
 KUNGSBACKA  KOMMUN
 
 6(10)
 
-[Tabell 6-1](handlingar.tabeller/6-1.csv)
+[Tabell 6-9-1](handlingar.tabeller/6-9-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 22. | Ombudgeteringar och<br>resultatfonder 2024 | 2025-00186 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige ökar resultatfonderna med en<br>total summa av 35 240 000 kronor.<br>Kommunfullmäktige utökar nämndernas ramar med<br>13 721 000 kronor. Finansiering sker från<br>kommunfullmäktiges anslag för oförutsedda medel<br>med 10 000 000 kronor samt 3 721 000 kronor från<br>kommunstyrelsens anslag för oförutsedda medel.<br>Kommunfullmäktige godkänner ombudgetering samt<br>omplanering av investeringar och exploateringar från<br>2024 till år 2025 med -11 451 000 kronor med en<br>total investerings- och exploateringsvolym på<br>1 291 226 000 kronor för 2025.<br>Kommunfullmäktige godkänner ombudgetering av<br>investeringar från 2024 och till år 2026 med<br>3 140 000 kronor.<br>Investeringsvolymen finansieras inom ramen för<br>kommunfullmäktiges beslut med begränsningen om<br>att den totala låneskulden inte överstiger<br>totalbeloppet om 1 750 miljoner kronor år 2025,<br>(Kommunbudget 2025, antagen av<br>kommunfullmäktige 2024-06-13, § 91).<br>Kommunfullmäktige minskar nämndernas<br>budgetramar 2025 med -61 miljoner kronor på grund<br>av de sänkta arbetsgivaravgifterna och fastställer<br>kommunens budgeterade resultat 2025 att förändras<br>från 200 miljoner kronor till 261 miljoner kronor. |
 | 23. | Rapport från nämnden för<br>Individ & Familjeomsorg av ej<br>verkställda beslut enligt<br>socialtjänstlagen, SoL, och<br>lagen om stöd och service till<br>vissa funktionshindrade, LSS,<br>fjärde kvartalet 2024 | 2025-00200 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Individ & Familjeomsorg enligt 16 kap 6 f §<br>socialtjänstlagen och 28 f § lagen om stöd och service<br>till vissa funktionshindrade till protokollet. |
 | 24. | Rapport från nämnden för Vård<br>& Omsorg av ej verkställda<br>beslut enligt socialtjänstlagen,<br>SoL, fjärde kvartalet 2024 | 2025-00204 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Vård & Omsorg, enligt 16 kap 6 f §<br>socialtjänstlagen, till protokollet. |
+| 25. | Antagande av OPF-KR 25 -<br>Bestämmelser om<br>omställningsstöd, pension och<br>familjeskydd för<br>förtroendevalda | 2024-00779 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Lokala bestämmelser om<br>omställningsstöd, pension och familjeskydd för<br>förtroendevalda, OPF-KR 25, daterat 2025-02-19, att<br>gälla för förtroendevalda som tillträtt i samband med<br>valet 2014 eller senare, med start från och med<br>2025-06-01. Bestämmelserna gäller från samma<br>tidpunkt även för förtroendevalda som i tidigare<br>uppdrag inte omfattats av PBF, PRF-KL eller andra<br>omställnings- och pensionsbestämmelser för<br>förtroendevalda.<br>Bestämmelser om omställningsstöd och pension för<br>förtroendevalda (OPF-KL 22) och Lokalt regelverk<br>OPF-KL 22, antagna av kommunfullmäktige<br>2022-06-15, § 112, upphör samtidigt att gälla.<br>Kommunfullmäktige ger kommunstyrelsen i uppdrag<br>att se över befintliga rutiner och anvisningar för<br>omställningsstöd, pension och familjeskydd för<br>förtroendevalda. |
+| 26. | Återrapportering av uppdrag<br>om utvärdering av fördelning<br>mellan ersättning och förlorade<br>arbetsinkomster för<br>förtroendevalda | 2024-00575 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar utvärdering av<br>fördelningen mellan ersättning och förlorad<br>arbetsförtjänst och förklarar uppdraget, som<br>lämnades av kommunfullmäktige 16 juni 2020, § 72,<br>för avslutat. |
+| 27. | Taxa för avfall 2025 | 2024-00300 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Avfallstaxa 2025, daterad<br>2025-01-23.<br>Taxan träder i kraft den 1 juni 2025.<br>Avfallstaxa 2025, antagen av kommunfullmäktige<br>2024-12-12, § 165, upphör samtidigt att gälla. |
+| 28. | Taxa för VA 2025 | 2024-00298 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige korrigerar beloppen i VA-taxan<br>2025 avseende Förbindelspunktsavgift (b), från<br>27 727 kronor till 25 727 kronor samt<br>Bostadsenhetsavgift (d) från 30 128 kronor till<br>30 127 kronor, i taxans § 5.1 respektive § 6.1. |
+| 29. | Bostadsförsörjningsplan för<br>Kungsbacka kommun<br>2025–2029 | 2023-00143 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Bostadsförsörjningsplan<br>för Kungsbacka kommun 2025–2029, daterad<br>2025-03-24.<br>Kungsbackas Bostadsförsörjningsprogram<br>2019–2025 med utblick mot 2030, antaget av<br>kommunfullmäktige 2020-05-05, § 46, upphör<br>samtidigt att gälla. |
+| 30. | Godkännande av<br>exploateringsavtal med<br>Transportcentrum i<br>Kungsbacka AB och Balder i<br>Kungsbacka AB samt<br>överenskommelse om<br>fastighetsbildning med<br>Transportcentrum i<br>Kungsbacka AB och<br>Kungsbacka Lastbilcentral<br>Fastighets AB avseende<br>detaljplan för verksamheter i<br>Klovsten inom fastigheterna<br>Ysby 1:12 m.fl., i Kungsbacka<br>stad | 2017-00510 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner exploateringsavtal<br>avseende detaljplan för verksamheter i Klovsten<br>inom fastigheterna Ysby 1:2 m.fl. i Kungsbacka stad,<br>Kungsbacka kommun, mellan kommunen och<br>Transportcentrum i Kungsbacka AB samt mellan<br>kommunen och Balder i Kungsbacka AB,<br>undertecknade av bolagen 2025-03-13.<br>Kommunfullmäktige godkänner överenskommelse<br>om fastighetsbildning mellan kommunen och<br>Transportcentrum i Kungsbacka AB samt<br>Kungsbacka Lastbilcentral Fastighets AB,<br>undertecknad av bolagen 2025-03-13.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalen<br>samt övriga nödvändiga handlingar för avtalens<br>genomförande. |
+| 31. | Antagande av detaljplan för<br>verksamheter i Klovsten inom<br>fastigheterna Ysby 1:12 m.fl. i<br>Kungsbacka stad | 2025-00192 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar detaljplan för<br>verksamheter i Klovsten inom Ysby 1:12 m.fl. i<br>Kungsbacka stad, Kungsbacka kommun, upprättad<br>2025-01-21. |
+| 32. | Detaljplan för Kungsbacka<br>6:27 och Hammargård 1:7 | 2021-00213 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar detaljplan för industri<br>inom del av Kungsbacka 6:27 och Hammargård 1:7 i<br>Kungsbacka, upprättad 2025-02-11. |
+| 33. | Fördelning av statsbidrag 2025<br>avseende stöd till kommuner i<br>omställningen till en<br>långsiktigt hållbar, mer<br>förebyggande och<br>kunskapsbaserad socialtjänst | 2025-00205 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fördelar Kungsbacka kommuns<br>andel av statsbidraget 2025 för ny socialtjänstlag på<br>totalt 8 147 879 kronor med 4 647 879 kronor till<br>nämnden för Individ & Familjeomsorg, 2 800 000<br>kronor till nämnden för Vård & Omsorg och 700 000<br>kronor till nämnden för Gymnasium &<br>Arbetsmarknad. |
+| 34. | Svar på motion från Magdalena<br>Sundqvist (S) m.fl. om att<br>inrätta en årlig minnesdag för<br>Förintelsens offer i samband<br>med den internationella<br>minnesdagen | 2024-00620 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att nämnden för Kultur & Fritid redan<br>har möjligheten att uppmärksamma minnesdagen för<br>Förintelsens offer inom ramen för sitt reglemente och<br>uppdraget att arbeta med demokratifrågor. |
+| 35. | Svar på motion från Ermin<br>Škorić (S) m.fl. om att utreda<br>sex timmars arbetsdag inom<br>omsorgen | 2023-00710 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att tidigare pilotprojekt och studier<br>visar att en sänkning av arbetstiden till sex timmar<br>per dag blir mycket kostsamt och att vinsterna i form<br>av minskad sjukskrivning är marginell och inte står i<br>proportion till de ökade kostnaderna. Vidare finns en<br>kompetensförsörjningsutmaning inom vård och<br>omsorg som med en minskad arbetstid skulle bli än<br>större. |
+| 36. | Svar på motion från Lars<br>Eriksson (S) om utökat<br>markförvärv samt planering av<br>områden för privat<br>småhusbyggnation | 2024-00286 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att kommunen redan arbetar<br>strategiskt med markinköp utifrån de Riktlinjer för<br>markägande som kommunstyrelsen antog den 23 juni<br>2020 samt att översiktsplanen ger möjlighet för<br>småhusbyggnation i privat regi inom<br>utvecklingsorter. |
+| 37. | Svar på motion från Shabnam<br>Zamani (S) om att utforma ett<br>långsiktigt och strategiskt<br>folkhälsoprogram | 2024-00648 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen som besvarad<br>med hänvisning till att ett långsiktigt och strategiskt<br>kommungemensamt arbete med folkhälsofrågor<br>redan tillgodoses med befintliga arbetssätt. |
 
 <!-- sida 7 -->
 
@@ -136,45 +134,17 @@ KUNGSBACKA  KOMMUN
 
 7(10)
 
-[Tabell 7-1](handlingar.tabeller/7-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 25. | Antagande av OPF-KR 25 -<br>Bestämmelser om<br>omställningsstöd, pension och<br>familjeskydd för<br>förtroendevalda | 2024-00779 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Lokala bestämmelser om<br>omställningsstöd, pension och familjeskydd för<br>förtroendevalda, OPF-KR 25, daterat 2025-02-19, att<br>gälla för förtroendevalda som tillträtt i samband med<br>valet 2014 eller senare, med start från och med<br>2025-06-01. Bestämmelserna gäller från samma<br>tidpunkt även för förtroendevalda som i tidigare<br>uppdrag inte omfattats av PBF, PRF-KL eller andra<br>omställnings- och pensionsbestämmelser för<br>förtroendevalda.<br>Bestämmelser om omställningsstöd och pension för<br>förtroendevalda (OPF-KL 22) och Lokalt regelverk<br>OPF-KL 22, antagna av kommunfullmäktige<br>2022-06-15, § 112, upphör samtidigt att gälla.<br>Kommunfullmäktige ger kommunstyrelsen i uppdrag<br>att se över befintliga rutiner och anvisningar för<br>omställningsstöd, pension och familjeskydd för<br>förtroendevalda. |
-| 26. | Återrapportering av uppdrag<br>om utvärdering av fördelning<br>mellan ersättning och förlorade<br>arbetsinkomster för<br>förtroendevalda | 2024-00575 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar utvärdering av<br>fördelningen mellan ersättning och förlorad<br>arbetsförtjänst och förklarar uppdraget, som<br>lämnades av kommunfullmäktige 16 juni 2020, § 72,<br>för avslutat. |
-| 27. | Taxa för avfall 2025 | 2024-00300 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Avfallstaxa 2025, daterad<br>2025-01-23.<br>Taxan träder i kraft den 1 juni 2025.<br>Avfallstaxa 2025, antagen av kommunfullmäktige<br>2024-12-12, § 165, upphör samtidigt att gälla. |
-| 28. | Taxa för VA 2025 | 2024-00298 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige korrigerar beloppen i VA-taxan<br>2025 avseende Förbindelspunktsavgift (b), från<br>27 727 kronor till 25 727 kronor samt<br>Bostadsenhetsavgift (d) från 30 128 kronor till<br>30 127 kronor, i taxans § 5.1 respektive § 6.1. |
-
 <!-- sida 8 -->
 
 KUNGSBACKA  KOMMUN
 
 8(10)
 
-[Tabell 8-1](handlingar.tabeller/8-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 29. | Bostadsförsörjningsplan för<br>Kungsbacka kommun<br>2025–2029 | 2023-00143 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Bostadsförsörjningsplan<br>för Kungsbacka kommun 2025–2029, daterad<br>2025-03-24.<br>Kungsbackas Bostadsförsörjningsprogram<br>2019–2025 med utblick mot 2030, antaget av<br>kommunfullmäktige 2020-05-05, § 46, upphör<br>samtidigt att gälla. |
-| 30. | Godkännande av<br>exploateringsavtal med<br>Transportcentrum i<br>Kungsbacka AB och Balder i<br>Kungsbacka AB samt<br>överenskommelse om<br>fastighetsbildning med<br>Transportcentrum i<br>Kungsbacka AB och<br>Kungsbacka Lastbilcentral<br>Fastighets AB avseende<br>detaljplan för verksamheter i<br>Klovsten inom fastigheterna<br>Ysby 1:12 m.fl., i Kungsbacka<br>stad | 2017-00510 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner exploateringsavtal<br>avseende detaljplan för verksamheter i Klovsten<br>inom fastigheterna Ysby 1:2 m.fl. i Kungsbacka stad,<br>Kungsbacka kommun, mellan kommunen och<br>Transportcentrum i Kungsbacka AB samt mellan<br>kommunen och Balder i Kungsbacka AB,<br>undertecknade av bolagen 2025-03-13.<br>Kommunfullmäktige godkänner överenskommelse<br>om fastighetsbildning mellan kommunen och<br>Transportcentrum i Kungsbacka AB samt<br>Kungsbacka Lastbilcentral Fastighets AB,<br>undertecknad av bolagen 2025-03-13.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalen<br>samt övriga nödvändiga handlingar för avtalens<br>genomförande. |
-| 31. | Antagande av detaljplan för<br>verksamheter i Klovsten inom<br>fastigheterna Ysby 1:12 m.fl. i<br>Kungsbacka stad | 2025-00192 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar detaljplan för<br>verksamheter i Klovsten inom Ysby 1:12 m.fl. i<br>Kungsbacka stad, Kungsbacka kommun, upprättad<br>2025-01-21. |
-| 32. | Detaljplan för Kungsbacka<br>6:27 och Hammargård 1:7 | 2021-00213 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar detaljplan för industri<br>inom del av Kungsbacka 6:27 och Hammargård 1:7 i<br>Kungsbacka, upprättad 2025-02-11. |
-
 <!-- sida 9 -->
 
 KUNGSBACKA  KOMMUN
 
 9(10)
-
-[Tabell 9-1](handlingar.tabeller/9-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 33. | Fördelning av statsbidrag 2025<br>avseende stöd till kommuner i<br>omställningen till en<br>långsiktigt hållbar, mer<br>förebyggande och<br>kunskapsbaserad socialtjänst | 2025-00205 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fördelar Kungsbacka kommuns<br>andel av statsbidraget 2025 för ny socialtjänstlag på<br>totalt 8 147 879 kronor med 4 647 879 kronor till<br>nämnden för Individ & Familjeomsorg, 2 800 000<br>kronor till nämnden för Vård & Omsorg och 700 000<br>kronor till nämnden för Gymnasium &<br>Arbetsmarknad. |
-| 34. | Svar på motion från Magdalena<br>Sundqvist (S) m.fl. om att<br>inrätta en årlig minnesdag för<br>Förintelsens offer i samband<br>med den internationella<br>minnesdagen | 2024-00620 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att nämnden för Kultur & Fritid redan<br>har möjligheten att uppmärksamma minnesdagen för<br>Förintelsens offer inom ramen för sitt reglemente och<br>uppdraget att arbeta med demokratifrågor. |
-| 35. | Svar på motion från Ermin<br>Škorić (S) m.fl. om att utreda<br>sex timmars arbetsdag inom<br>omsorgen | 2023-00710 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att tidigare pilotprojekt och studier<br>visar att en sänkning av arbetstiden till sex timmar<br>per dag blir mycket kostsamt och att vinsterna i form<br>av minskad sjukskrivning är marginell och inte står i<br>proportion till de ökade kostnaderna. Vidare finns en<br>kompetensförsörjningsutmaning inom vård och<br>omsorg som med en minskad arbetstid skulle bli än<br>större. |
-| 36. | Svar på motion från Lars<br>Eriksson (S) om utökat<br>markförvärv samt planering av<br>områden för privat<br>småhusbyggnation | 2024-00286 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att kommunen redan arbetar<br>strategiskt med markinköp utifrån de Riktlinjer för<br>markägande som kommunstyrelsen antog den 23 juni<br>2020 samt att översiktsplanen ger möjlighet för<br>småhusbyggnation i privat regi inom<br>utvecklingsorter. |
-| 37. | Svar på motion från Shabnam<br>Zamani (S) om att utforma ett<br>långsiktigt och strategiskt<br>folkhälsoprogram | 2024-00648 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen som besvarad<br>med hänvisning till att ett långsiktigt och strategiskt<br>kommungemensamt arbete med folkhälsofrågor<br>redan tillgodoses med befintliga arbetssätt. |
 
 <!-- sida 10 -->
 
@@ -997,7 +967,7 @@ Informationshanteringsplan                      Sida 30 av 49
 
 Informationshanteringsplan                      Sida 31 av 49
 
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
+[Tabell 46-49-1](handlingar.tabeller/46-49-1.csv)
 
 | Verksamhetstyp: | Ledning av kommunal myndighet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1016,15 +986,7 @@ Informationshanteringsplan                      Sida 31 av 49
 |  | Projektbudget | Diarium | Digitalt | Bevaras | Kan ingå i ansökan. Administreras i Antura eller<br>samarbetsrum. Diarieförs i diarium efter<br>upprättande. |
 |  | Avsiktsförklaring | Diarium | Se<br>anmärkning | Se anmärkning | Kan även benämnas som letter of intent.<br>Förklaringar som upprättas på papper skannas och<br>diarieförs i diarium och bevaras. Pappret förvarar i<br>projektpärm och gallras vid revisionstidens<br>upphörande. |
 |  | Bekräftelse på inlämnad<br>ansökan | Diarium | Digitalt | Bevaras |  |
-
-<!-- sida 47 -->
-
-Informationshanteringsplan                      Sida 32 av 49
-
-[Tabell 47-1](handlingar.tabeller/47-1.csv)
-
 |  | Begäran om<br>komplettering | Diarium | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Komplettering av<br>ansökan | Diarium | Digitalt | Bevaras | Administreras i Antura eller samarbetsrum.<br>Diarieförs i diarium efter upprättande. |
 |  | Medfinansieringsintyg | Se anmärkning | Se<br>anmärkning | Se anmärkning | Intyg som upprättas på papper skannas och<br>diarieförs digitalt i diarium och bevaras. Pappret<br>förvaras i projektpärm och gallras vid<br>revisionstidens upphörande. |
 |  | Beslut om ansökan | Diarium | Digitalt | Bevaras | Avser beslut från finansiären om tilldelning eller<br>avslag. |
@@ -1036,15 +998,7 @@ Informationshanteringsplan                      Sida 32 av 49
 |  | Projektbudget | Digital<br>projektplats | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Avser<br>detaljerad budget. |
 |  | Statusrapport | Digital<br>projektplats | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Avser<br>rapporter till styrgrupp. |
 |  | Ändringsbegäran | Diarium | Digitalt | Bevaras | Avser begäran om ändringar av mer<br>genomgripande karaktär. Till styrgrupp och eller<br>finansiären. Administreras i Antura eller<br>samarbetsrum. Diarieförs i diarium efter<br>upprättande. |
-
-<!-- sida 48 -->
-
-Informationshanteringsplan                      Sida 33 av 49
-
-[Tabell 48-1](handlingar.tabeller/48-1.csv)
-
 |  | Beslut om ändring av<br>projekt | Diarium | Digitalt | Bevaras | Avser beslut om ändringar av mer genomgripande<br>karaktär av styrgrupp och eller finansiären. |
-| --- | --- | --- | --- | --- | --- |
 | Genomföra:<br>genomföra projekt | Underlag | Se anmärkning | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Avser<br>källmaterial, statistiska uppgifter, enkäter mm som<br>samlats in/skapats som underlag för projektets<br>genomförande. Förvaras i digital projektplats eller<br>projektpärm. |
 |  | Bearbetat underlag | Se anmärkning | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Kan vara<br>sammanställningar av resultat, utvärderingar och<br>analyser. Förvaras i digital projektplats eller<br>projektpärm. |
 |  | Projektresultat | Diarium | Digitalt | Bevaras | Kan vara en rapport, handbok, skrift eller<br>beskrivning av projektets resultat. Administreras i<br>Antura eller samarbetsrum. Diarieförs i diarium<br>efter upprättande. |
@@ -1054,15 +1008,7 @@ Informationshanteringsplan                      Sida 33 av 49
 |  | Utvärdering från<br>följeforskning | Se anmärkning | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Förvaras i<br>digital projektplats eller projektpärm. |
 | Genomföra: redovisa | Lägesrapport | Se anmärkning | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Består av<br>redovisning av både innehåll och ekonomi till<br>finansiärer av projektet. Förvaras i digital<br>projektplats eller projektpärm. |
 |  | Beslut om utbetalning | Diarium | Digitalt | Bevaras | Ekonomisk redovisning, se process 2.4.1.4<br>Bokföra och redovisa. |
-
-<!-- sida 49 -->
-
-Informationshanteringsplan                      Sida 34 av 49
-
-[Tabell 49-1](handlingar.tabeller/49-1.csv)
-
 | Genomföra:<br>spridning av resultat | Spridningsmaterial | Se anmärkning |  | Se anmärkning | Gallras vid revisionstidens upphörande. till<br>exempel roll-up och tröjor. Spara ett exemplar av<br>varje. alternativt ett fotografi av<br>spridningsmaterialet i sin helhet. Fotografiet<br>sparas i så fall i digitalt projektverktyg eller<br>projektpärm. |
-| --- | --- | --- | --- | --- | --- |
 |  | Spridningsdokumentation | Se anmärkning | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Avser<br>dokumentation av genomförd spridning tex<br>medierapportering (tidningsnotis, skärmdump).<br>Förvaras i digital projektplats eller projektpärm. |
 |  | Trycksaker | Diarium | Digitalt | Bevaras | Avser "tryck-pdf". |
 |  | Web | Server | Digitalt | Bevaras | Bevaras av projektägare. |
@@ -1073,6 +1019,18 @@ Informationshanteringsplan                      Sida 34 av 49
 | Utvärdera projekt | Nyttoutvärdering | Diarium | Digitalt | Bevaras |  |
 | Handlingar ej<br>bundna till specifik<br>aktivitet | Korrespondens | Se anmärkning | Digitalt | Se anmärkning | Korrespondens av betydelse diarieförs och bevaras<br>i diarium. Rutinmässig korrespondens gallras vid<br>inaktualitet. |
 |  | Minnesanteckningar | Digital<br>projektplats | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Inklusive<br>kallelser, närvarolistor, dagordningar och<br>signerade listor från projektgrupp och styrgrupp. |
+
+<!-- sida 47 -->
+
+Informationshanteringsplan                      Sida 32 av 49
+
+<!-- sida 48 -->
+
+Informationshanteringsplan                      Sida 33 av 49
+
+<!-- sida 49 -->
+
+Informationshanteringsplan                      Sida 34 av 49
 
 <!-- sida 50 -->
 
@@ -1095,7 +1053,7 @@ Informationshanteringsplan                      Sida 35 av 49
 
 Informationshanteringsplan                      Sida 36 av 49
 
-[Tabell 51-1](handlingar.tabeller/51-1.csv)
+[Tabell 51-52-1](handlingar.tabeller/51-52-1.csv)
 
 | Verksamhetstyp: | Ledning av kommunal myndighet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1116,15 +1074,7 @@ Informationshanteringsplan                      Sida 36 av 49
 |  | Samtycke eller<br>integritetsstärkande<br>medgivande | Diarium | Digitalt | Bevaras | På samtycket/medgivandet ska det framgå vilka<br>uppgifter som avses samt var de återfinns. |
 |  | Uppföljning/egenkontroll av<br>dataskydd | Diarium | Digitalt | Bevaras | Systematiskt kvalitetssäkringsarbete i enlighet<br>med artikel 5.2 och 24.1–2 i GDPR. |
 |  | Råd och rekommendationer<br>från dataskyddsombud | Diarium | Digitalt | Bevaras | I enlighet med artikel 39.1(a) GDPR. |
-
-<!-- sida 52 -->
-
-Informationshanteringsplan                      Sida 37 av 49
-
-[Tabell 52-1](handlingar.tabeller/52-1.csv)
-
 | Hantera förfrågan | Förfrågan om personuppgifter<br>behandlas | Outlook | Digitalt | 30 dagar |  |
-| --- | --- | --- | --- | --- | --- |
 | Hantera begäran | Begäran om registerutdrag | Diarium | Digitalt | 2 år | Begäran från säkerhetspolisen bevaras på<br>papper. |
 |  | Registerutdrag | Diarium | Digitalt | 2 år | I enlighet med artikel 15 GDPR. |
 |  | Begäran om ändring/rättelse | Diarium | Digitalt | 2 år | I enlighet med artikel 16 GDPR. |
@@ -1141,11 +1091,15 @@ Informationshanteringsplan                      Sida 37 av 49
 |  | Beslut med anledning av<br>personuppgiftsincident | Diarium | Digitalt | Bevaras |  |
 |  | Beslut med anledning av<br>konsekvensbedömning | Diarium | Digitalt | Bevaras |  |
 
+<!-- sida 52 -->
+
+Informationshanteringsplan                      Sida 37 av 49
+
 <!-- sida 53 -->
 
 Informationshanteringsplan                      Sida 38 av 49
 
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
+[Tabell 53-54-1](handlingar.tabeller/53-54-1.csv)
 
 | Verksamhetstyp: | Ledning av kommunal myndighet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1163,15 +1117,6 @@ Informationshanteringsplan                      Sida 38 av 49
 |  | Förteckning över<br>öppna data | Se anmärkning | Digitalt | Se anmärkning | Publiceras på webb. Uppdateras löpande. |
 |  | Öppna data | Se anmärkning | Digitalt | Se anmärkning | Avser data från en rad nyckeltal som publiceras på<br>kommunens webb via SKRs databas Kolada. På<br>kommunens webb visas endast den aktuella uppgift<br>som hämtas från databasen från Kolada. Webben<br>uppdateras löpande. |
 |  | Grunddata | Se anmärkning | Digitalt | Se anmärkning | Avser data som hämtas eller lämnas från ett system<br>direkt till en användare till exempel via API:er.<br>Grunddata hanteras i övrigt enlig<br>hanteringsanvisningen för berörd process. |
-
-<!-- sida 54 -->
-
-Informationshanteringsplan                      Sida 39 av 49
-
-[Tabell 54-1](handlingar.tabeller/54-1.csv)
-
-| Verksamhetstyp: | Ledning av kommunal myndighet |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Verksamhetsområde: | Demokrati och insyn |  |  |  |  |
 | Processgrupp: | Offentlig dialog |  |  |  |  |
 | Process: | Hantera klagomål |  |  |  |  |
@@ -1179,6 +1124,10 @@ Informationshanteringsplan                      Sida 39 av 49
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Ta emot synpunkt | Inkommen<br>kommentar | Diarium | Digitalt | Bevaras | Avser den formaliserade synpunkthanteringen<br>”kommentaren” som sker genom kommunens e-<br>tjänst. |
 | Lämna svar på<br>synpunkt | Svar på kommentar | Diarium | Digitalt | Bevaras |  |
+
+<!-- sida 54 -->
+
+Informationshanteringsplan                      Sida 39 av 49
 
 <!-- sida 55 -->
 
@@ -1254,7 +1203,7 @@ Informationshanteringsplan                      Sida 43 av 49
 
 Informationshanteringsplan                      Sida 44 av 49
 
-[Tabell 59-1](handlingar.tabeller/59-1.csv)
+[Tabell 59-60-1](handlingar.tabeller/59-60-1.csv)
 
 | Verksamhetstyp: | Ledning av kommunal myndighet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1272,26 +1221,22 @@ Informationshanteringsplan                      Sida 44 av 49
 |  | Informationsmaterial | Diarium | Digitalt | Se anmärkning | Kommunspecifik information bevaras. Övrig<br>information gallras efter valet vunnit laga kraft. |
 |  | Postkvittenser | Närarkiv | Papper | Se anmärkning | Avser kvittenser från PostNord över mottagna<br>röster. Gallras efter att valet vunnit laga kraft. |
 |  | Omslag | Närarkiv | Papper | Se anmärkning | Omslag med ytterkuvert från godkända budröster<br>samt omslag med budröster som underkänts och<br>tagits omhand gallras efter att valet vunnit laga<br>kraft. |
-
-<!-- sida 60 -->
-
-Informationshanteringsplan                      Sida 45 av 49
-
-[Tabell 60-1](handlingar.tabeller/60-1.csv)
-
 |  | Protokoll, mottagna<br>förstidsröster | Närarkiv | Papper | Se anmärkning | Gallras efter att nästa val vunnit laga kraft. |
-| --- | --- | --- | --- | --- | --- |
 |  | Röstkort | Närarkiv | Papper | Se anmärkning | Avser röstkort som samlats upp i vallokaler och<br>röstningslokaler, gallras efter valet. |
 |  | Röstlängder | Närarkiv | Papper | Bevaras |  |
 | Utvärdera allmänna<br>val | Uppföljningar | Samarbetsrum | Digitalt | Bevaras | Avser uppföljning av till exempel lokaler,<br>transporter, ambulerande röstmottagare och annat<br>som utgör underlag för planering av nästkommande<br>val. |
 |  | Uppföljningar av<br>enkätsvar från<br>vallokaler | Diarium | Digitalt | Bevaras | Avser uppföljning av till exempel lokaler,<br>transporter, ambulerande röstmottagare och annat<br>som utgör underlag för planering av nästkommande<br>val. |
 | Genomföra allmänna<br>val | Väljarförteckningar | Närarkiv | Papper | Se anmärkning | Gallras efter att nästa val vunnit laga kraft. |
 
+<!-- sida 60 -->
+
+Informationshanteringsplan                      Sida 45 av 49
+
 <!-- sida 61 -->
 
 Informationshanteringsplan                      Sida 46 av 49
 
-[Tabell 61-1](handlingar.tabeller/61-1.csv)
+[Tabell 61-62-1](handlingar.tabeller/61-62-1.csv)
 
 | Verksamhetstyp: | Ledning av kommunal myndighet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1316,16 +1261,12 @@ Informationshanteringsplan                      Sida 46 av 49
 |  | Parternas yttranden | Diarium | Digitalt | Bevaras |  |
 |  | Korrespondens | Se anmärkning | Digitalt | Se anmärkning | Korrespondens av betydelse diarieförs och bevaras.<br>Korrespondens av ringa eller tillfällig betydelse<br>gallras vid inaktualitet. |
 |  | Yttrande | Diarium | Digitalt | Bevaras |  |
+|  | Beslut eller dom | Diarium | Digitalt | Bevaras |  |
+|  | Lagakraftsbevis | Diarium | Digitalt | Bevaras |  |
 
 <!-- sida 62 -->
 
 Informationshanteringsplan                      Sida 47 av 49
-
-[Tabell 62-1](handlingar.tabeller/62-1.csv)
-
-|  | Beslut eller dom | Diarium | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Lagakraftsbevis | Diarium | Digitalt | Bevaras |  |
 
 <!-- sida 63 -->
 
@@ -1987,7 +1928,7 @@ Informationshanteringsplan                      Sida 30 av 49
 
 Informationshanteringsplan                      Sida 31 av 49
 
-[Tabell 95-1](handlingar.tabeller/95-1.csv)
+[Tabell 95-98-1](handlingar.tabeller/95-98-1.csv)
 
 | Verksamhetstyp: | Ledning av kommunal myndighet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2006,15 +1947,7 @@ Informationshanteringsplan                      Sida 31 av 49
 |  | Projektbudget | Diarium | Digitalt | Bevaras | Kan ingå i ansökan. Administreras i Antura eller<br>samarbetsrum. Diarieförs i diarium efter<br>upprättande. |
 |  | Avsiktsförklaring | Diarium | Se<br>anmärkning | Se anmärkning | Kan även benämnas som letter of intent.<br>Förklaringar som upprättas på papper skannas och<br>diarieförs i diarium och bevaras. Pappret förvarar i<br>projektpärm och gallras vid revisionstidens<br>upphörande. |
 |  | Bekräftelse på inlämnad<br>ansökan | Diarium | Digitalt | Bevaras |  |
-
-<!-- sida 96 -->
-
-Informationshanteringsplan                      Sida 32 av 49
-
-[Tabell 96-1](handlingar.tabeller/96-1.csv)
-
 |  | Begäran om<br>komplettering | Diarium | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Komplettering av<br>ansökan | Diarium | Digitalt | Bevaras | Administreras i Antura eller samarbetsrum.<br>Diarieförs i diarium efter upprättande. |
 |  | Medfinansieringsintyg | Se anmärkning | Se<br>anmärkning | Se anmärkning | Intyg som upprättas på papper skannas och<br>diarieförs digitalt i diarium och bevaras. Pappret<br>förvaras i projektpärm och gallras vid<br>revisionstidens upphörande. |
 |  | Beslut om ansökan | Diarium | Digitalt | Bevaras | Avser beslut från finansiären om tilldelning eller<br>avslag. |
@@ -2026,15 +1959,7 @@ Informationshanteringsplan                      Sida 32 av 49
 |  | Projektbudget | Digital<br>projektplats | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Avser<br>detaljerad budget. |
 |  | Statusrapport | Digital<br>projektplats | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Avser<br>rapporter till styrgrupp. |
 |  | Ändringsbegäran | Diarium | Digitalt | Bevaras | Avser begäran om ändringar av mer<br>genomgripande karaktär. Till styrgrupp och eller<br>finansiären. Administreras i Antura eller<br>samarbetsrum. Diarieförs i diarium efter<br>upprättande. |
-
-<!-- sida 97 -->
-
-Informationshanteringsplan                      Sida 33 av 49
-
-[Tabell 97-1](handlingar.tabeller/97-1.csv)
-
 |  | Beslut om ändring av<br>projekt | Diarium | Digitalt | Bevaras | Avser beslut om ändringar av mer genomgripande<br>karaktär av styrgrupp och eller finansiären. |
-| --- | --- | --- | --- | --- | --- |
 | Genomföra:<br>genomföra projekt | Underlag | Se anmärkning | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Avser<br>källmaterial, statistiska uppgifter, enkäter mm som<br>samlats in/skapats som underlag för projektets<br>genomförande. Förvaras i digital projektplats eller<br>projektpärm. |
 |  | Bearbetat underlag | Se anmärkning | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Kan vara<br>sammanställningar av resultat, utvärderingar och<br>analyser. Förvaras i digital projektplats eller<br>projektpärm. |
 |  | Projektresultat | Diarium | Digitalt | Bevaras | Kan vara en rapport, handbok, skrift eller<br>beskrivning av projektets resultat. Administreras i<br>Antura eller samarbetsrum. Diarieförs i diarium<br>efter upprättande. |
@@ -2044,15 +1969,7 @@ Informationshanteringsplan                      Sida 33 av 49
 |  | Utvärdering från<br>följeforskning | Se anmärkning | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Förvaras i<br>digital projektplats eller projektpärm. |
 | Genomföra: redovisa | Lägesrapport | Se anmärkning | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Består av<br>redovisning av både innehåll och ekonomi till<br>finansiärer av projektet. Förvaras i digital<br>projektplats eller projektpärm. |
 |  | Beslut om utbetalning | Diarium | Digitalt | Bevaras | Ekonomisk redovisning, se process 2.4.1.4<br>Bokföra och redovisa. |
-
-<!-- sida 98 -->
-
-Informationshanteringsplan                      Sida 34 av 49
-
-[Tabell 98-1](handlingar.tabeller/98-1.csv)
-
 | Genomföra:<br>spridning av resultat | Spridningsmaterial | Se anmärkning |  | Se anmärkning | Gallras vid revisionstidens upphörande. till<br>exempel roll-up och tröjor. Spara ett exemplar av<br>varje. alternativt ett fotografi av<br>spridningsmaterialet i sin helhet. Fotografiet<br>sparas i så fall i digitalt projektverktyg eller<br>projektpärm. |
-| --- | --- | --- | --- | --- | --- |
 |  | Spridningsdokumentation | Se anmärkning | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Avser<br>dokumentation av genomförd spridning tex<br>medierapportering (tidningsnotis, skärmdump).<br>Förvaras i digital projektplats eller projektpärm. |
 |  | Trycksaker | Diarium | Digitalt | Bevaras | Avser "tryck-pdf". |
 |  | Web | Server | Digitalt | Bevaras | Bevaras av projektägare. |
@@ -2063,6 +1980,18 @@ Informationshanteringsplan                      Sida 34 av 49
 | Utvärdera projekt | Nyttoutvärdering | Diarium | Digitalt | Bevaras |  |
 | Handlingar ej<br>bundna till specifik<br>aktivitet | Korrespondens | Se anmärkning | Digitalt | Se anmärkning | Korrespondens av betydelse diarieförs och bevaras<br>i diarium. Rutinmässig korrespondens gallras vid<br>inaktualitet. |
 |  | Minnesanteckningar | Digital<br>projektplats | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Inklusive<br>kallelser, närvarolistor, dagordningar och<br>signerade listor från projektgrupp och styrgrupp. |
+
+<!-- sida 96 -->
+
+Informationshanteringsplan                      Sida 32 av 49
+
+<!-- sida 97 -->
+
+Informationshanteringsplan                      Sida 33 av 49
+
+<!-- sida 98 -->
+
+Informationshanteringsplan                      Sida 34 av 49
 
 <!-- sida 99 -->
 
@@ -2085,7 +2014,7 @@ Informationshanteringsplan                      Sida 35 av 49
 
 Informationshanteringsplan                      Sida 36 av 49
 
-[Tabell 100-1](handlingar.tabeller/100-1.csv)
+[Tabell 100-101-1](handlingar.tabeller/100-101-1.csv)
 
 | Verksamhetstyp: | Ledning av kommunal myndighet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2106,15 +2035,7 @@ Informationshanteringsplan                      Sida 36 av 49
 |  | Samtycke eller integritetsstärkande<br>medgivande | Diarium | Digitalt | Bevaras | På samtycket/medgivandet ska det<br>framgå vilka uppgifter som avses samt<br>var de återfinns. |
 |  | Uppföljning/egenkontroll av dataskydd | Diarium | Digitalt | Bevaras | Systematiskt kvalitetssäkringsarbete i<br>enlighet med artikel 5.2 och 24.1–2 i<br>GDPR. |
 |  | Råd och rekommendationer från<br>dataskyddsombud | Diarium | Digitalt | Bevaras | I enlighet med artikel 39.1(a) GDPR. |
-
-<!-- sida 101 -->
-
-Informationshanteringsplan                      Sida 37 av 49
-
-[Tabell 101-1](handlingar.tabeller/101-1.csv)
-
 | Hantera förfrågan | Förfrågan om personuppgifter behandlas | Outlook | Digitalt | 30 dagar |  |
-| --- | --- | --- | --- | --- | --- |
 | Hantera begäran | Begäran om registerutdrag | Diarium | Digitalt | 2 år | Begäran från säkerhetspolisen bevaras på<br>papper. |
 |  | Registerutdrag | Diarium | Digitalt | 2 år | I enlighet med artikel 15 GDPR. |
 |  | Begäran om ändring/rättelse | Diarium | Digitalt | 2 år | I enlighet med artikel 16 GDPR. |
@@ -2131,11 +2052,15 @@ Informationshanteringsplan                      Sida 37 av 49
 |  | Beslut med anledning av<br>personuppgiftsincident | Diarium | Digitalt | Bevaras |  |
 |  | Beslut med anledning av<br>konsekvensbedömning | Diarium | Digitalt | Bevaras |  |
 
+<!-- sida 101 -->
+
+Informationshanteringsplan                      Sida 37 av 49
+
 <!-- sida 102 -->
 
 Informationshanteringsplan                      Sida 38 av 49
 
-[Tabell 102-1](handlingar.tabeller/102-1.csv)
+[Tabell 102-103-1](handlingar.tabeller/102-103-1.csv)
 
 | Verksamhetstyp: | Ledning av kommunal myndighet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2153,15 +2078,6 @@ Informationshanteringsplan                      Sida 38 av 49
 |  | Förteckning över<br>öppna data | Se anmärkning | Digitalt | Se anmärkning | Publiceras på webb. Uppdateras löpande. |
 |  | Öppna data | Se anmärkning | Digitalt | Se anmärkning | Avser data från en rad nyckeltal som publiceras på<br>kommunens webb via SKRs databas Kolada. På<br>kommunens webb visas endast den aktuella uppgift<br>som hämtas från databasen från Kolada. Webben<br>uppdateras löpande. |
 |  | Grunddata | Se anmärkning | Digitalt | Se anmärkning | Avser data som hämtas eller lämnas från ett system<br>direkt till en användare till exempel via API:er.<br>Grunddata hanteras i övrigt enlig<br>hanteringsanvisningen för berörd process. |
-
-<!-- sida 103 -->
-
-Informationshanteringsplan                      Sida 39 av 49
-
-[Tabell 103-1](handlingar.tabeller/103-1.csv)
-
-| Verksamhetstyp: | Ledning av kommunal myndighet |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Verksamhetsområde: | Demokrati och insyn |  |  |  |  |
 | Processgrupp: | Offentlig dialog |  |  |  |  |
 | Process: | Hantera klagomål |  |  |  |  |
@@ -2169,6 +2085,10 @@ Informationshanteringsplan                      Sida 39 av 49
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Ta emot synpunkt | Inkommen<br>kommentar | Diarium | Digitalt | Bevaras | Avser den formaliserade synpunkthanteringen<br>”kommentaren” som sker genom kommunens e-<br>tjänst. |
 | Lämna svar på<br>synpunkt | Svar på kommentar | Diarium | Digitalt | Bevaras |  |
+
+<!-- sida 103 -->
+
+Informationshanteringsplan                      Sida 39 av 49
 
 <!-- sida 104 -->
 
@@ -2244,7 +2164,7 @@ Informationshanteringsplan                      Sida 43 av 49
 
 Informationshanteringsplan                      Sida 44 av 49
 
-[Tabell 108-1](handlingar.tabeller/108-1.csv)
+[Tabell 108-109-1](handlingar.tabeller/108-109-1.csv)
 
 | Verksamhetstyp: | Ledning av kommunal myndighet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2262,26 +2182,22 @@ Informationshanteringsplan                      Sida 44 av 49
 |  | Informationsmaterial | Diarium | Digitalt | Se anmärkning | Kommunspecifik information bevaras. Övrig<br>information gallras efter valet vunnit laga kraft. |
 |  | Postkvittenser | Närarkiv | Papper | Se anmärkning | Avser kvittenser från PostNord över mottagna<br>röster. Gallras efter att valet vunnit laga kraft. |
 |  | Omslag | Närarkiv | Papper | Se anmärkning | Omslag med ytterkuvert från godkända budröster<br>samt omslag med budröster som underkänts och<br>tagits omhand gallras efter att valet vunnit laga<br>kraft. |
-
-<!-- sida 109 -->
-
-Informationshanteringsplan                      Sida 45 av 49
-
-[Tabell 109-1](handlingar.tabeller/109-1.csv)
-
 |  | Protokoll, mottagna<br>förstidsröster | Närarkiv | Papper | Se anmärkning | Gallras efter att nästa val vunnit laga kraft. |
-| --- | --- | --- | --- | --- | --- |
 |  | Röstkort | Närarkiv | Papper | Se anmärkning | Avser röstkort som samlats upp i vallokaler och<br>röstningslokaler, gallras efter valet. |
 |  | Röstlängder | Närarkiv | Papper | Bevaras |  |
 | Utvärdera allmänna<br>val | Uppföljningar | Samarbetsrum | Digitalt | Bevaras | Avser uppföljning av till exempel lokaler,<br>transporter, ambulerande röstmottagare och annat<br>som utgör underlag för planering av nästkommande<br>val. |
 |  | Uppföljningar av<br>enkätsvar från<br>vallokaler | Diarium | Digitalt | Bevaras | Avser uppföljning av till exempel lokaler,<br>transporter, ambulerande röstmottagare och annat<br>som utgör underlag för planering av nästkommande<br>val. |
 | Genomföra allmänna<br>val | Väljarförteckningar | Närarkiv | Papper | Se anmärkning | Gallras efter att nästa val vunnit laga kraft. |
 
+<!-- sida 109 -->
+
+Informationshanteringsplan                      Sida 45 av 49
+
 <!-- sida 110 -->
 
 Informationshanteringsplan                      Sida 46 av 49
 
-[Tabell 110-1](handlingar.tabeller/110-1.csv)
+[Tabell 110-111-1](handlingar.tabeller/110-111-1.csv)
 
 | Verksamhetstyp: | Ledning av kommunal myndighet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2306,16 +2222,12 @@ Informationshanteringsplan                      Sida 46 av 49
 |  | Parternas yttranden | Diarium | Digitalt | Bevaras |  |
 |  | Korrespondens | Se anmärkning | Digitalt | Se anmärkning | Korrespondens av betydelse diarieförs och bevaras.<br>Korrespondens av ringa eller tillfällig betydelse<br>gallras vid inaktualitet. |
 |  | Yttrande | Diarium | Digitalt | Bevaras |  |
+|  | Beslut eller dom | Diarium | Digitalt | Bevaras |  |
+|  | Lagakraftsbevis | Diarium | Digitalt | Bevaras |  |
 
 <!-- sida 111 -->
 
 Informationshanteringsplan                      Sida 47 av 49
-
-[Tabell 111-1](handlingar.tabeller/111-1.csv)
-
-|  | Beslut eller dom | Diarium | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Lagakraftsbevis | Diarium | Digitalt | Bevaras |  |
 
 <!-- sida 112 -->
 
@@ -2977,7 +2889,7 @@ Informationshanteringsplan                      Sida 30 av 49
 
 Informationshanteringsplan                      Sida 31 av 49
 
-[Tabell 144-1](handlingar.tabeller/144-1.csv)
+[Tabell 144-147-1](handlingar.tabeller/144-147-1.csv)
 
 | Verksamhetstyp: | Ledning av kommunal myndighet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2996,15 +2908,7 @@ Informationshanteringsplan                      Sida 31 av 49
 |  | Projektbudget | Diarium | Digitalt | Bevaras | Kan ingå i ansökan. Administreras i Antura eller<br>samarbetsrum. Diarieförs i diarium efter<br>upprättande. |
 |  | Avsiktsförklaring | Diarium | Se<br>anmärkning | Se anmärkning | Kan även benämnas som letter of intent.<br>Förklaringar som upprättas på papper skannas och<br>diarieförs i diarium och bevaras. Pappret förvarar i<br>projektpärm och gallras vid revisionstidens<br>upphörande. |
 |  | Bekräftelse på inlämnad<br>ansökan | Diarium | Digitalt | Bevaras |  |
-
-<!-- sida 145 -->
-
-Informationshanteringsplan                      Sida 32 av 49
-
-[Tabell 145-1](handlingar.tabeller/145-1.csv)
-
 |  | Begäran om<br>komplettering | Diarium | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Komplettering av<br>ansökan | Diarium | Digitalt | Bevaras | Administreras i Antura eller samarbetsrum.<br>Diarieförs i diarium efter upprättande. |
 |  | Medfinansieringsintyg | Se anmärkning | Se<br>anmärkning | Se anmärkning | Intyg som upprättas på papper skannas och<br>diarieförs digitalt i diarium och bevaras. Pappret<br>förvaras i projektpärm och gallras vid<br>revisionstidens upphörande. |
 |  | Beslut om ansökan | Diarium | Digitalt | Bevaras | Avser beslut från finansiären om tilldelning eller<br>avslag. |
@@ -3016,15 +2920,7 @@ Informationshanteringsplan                      Sida 32 av 49
 |  | Projektbudget | Digital<br>projektplats | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Avser<br>detaljerad budget. |
 |  | Statusrapport | Digital<br>projektplats | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Avser<br>rapporter till styrgrupp. |
 |  | Ändringsbegäran | Diarium | Digitalt | Bevaras | Avser begäran om ändringar av mer<br>genomgripande karaktär. Till styrgrupp och eller<br>finansiären. Administreras i Antura eller<br>samarbetsrum. Diarieförs i diarium efter<br>upprättande. |
-
-<!-- sida 146 -->
-
-Informationshanteringsplan                      Sida 33 av 49
-
-[Tabell 146-1](handlingar.tabeller/146-1.csv)
-
 |  | Beslut om ändring av<br>projekt | Diarium | Digitalt | Bevaras | Avser beslut om ändringar av mer genomgripande<br>karaktär av styrgrupp och eller finansiären. |
-| --- | --- | --- | --- | --- | --- |
 | Genomföra:<br>genomföra projekt | Underlag | Se anmärkning | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Avser<br>källmaterial, statistiska uppgifter, enkäter mm som<br>samlats in/skapats som underlag för projektets<br>genomförande. Förvaras i digital projektplats eller<br>projektpärm. |
 |  | Bearbetat underlag | Se anmärkning | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Kan vara<br>sammanställningar av resultat, utvärderingar och<br>analyser. Förvaras i digital projektplats eller<br>projektpärm. |
 |  | Projektresultat | Diarium | Digitalt | Bevaras | Kan vara en rapport, handbok, skrift eller<br>beskrivning av projektets resultat. Administreras i<br>Antura eller samarbetsrum. Diarieförs i diarium<br>efter upprättande. |
@@ -3034,15 +2930,7 @@ Informationshanteringsplan                      Sida 33 av 49
 |  | Utvärdering från<br>följeforskning | Se anmärkning | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Förvaras i<br>digital projektplats eller projektpärm. |
 | Genomföra: redovisa | Lägesrapport | Se anmärkning | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Består av<br>redovisning av både innehåll och ekonomi till<br>finansiärer av projektet. Förvaras i digital<br>projektplats eller projektpärm. |
 |  | Beslut om utbetalning | Diarium | Digitalt | Bevaras | Ekonomisk redovisning, se process 2.4.1.4<br>Bokföra och redovisa. |
-
-<!-- sida 147 -->
-
-Informationshanteringsplan                      Sida 34 av 49
-
-[Tabell 147-1](handlingar.tabeller/147-1.csv)
-
 | Genomföra:<br>spridning av resultat | Spridningsmaterial | Se anmärkning |  | Se anmärkning | Gallras vid revisionstidens upphörande. till<br>exempel roll-up och tröjor. Spara ett exemplar av<br>varje. alternativt ett fotografi av<br>spridningsmaterialet i sin helhet. Fotografiet<br>sparas i så fall i digitalt projektverktyg eller<br>projektpärm. |
-| --- | --- | --- | --- | --- | --- |
 |  | Spridningsdokumentation | Se anmärkning | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Avser<br>dokumentation av genomförd spridning tex<br>medierapportering (tidningsnotis, skärmdump).<br>Förvaras i digital projektplats eller projektpärm. |
 |  | Trycksaker | Diarium | Digitalt | Bevaras | Avser "tryck-pdf". |
 |  | Web | Server | Digitalt | Bevaras | Bevaras av projektägare. |
@@ -3053,6 +2941,18 @@ Informationshanteringsplan                      Sida 34 av 49
 | Utvärdera projekt | Nyttoutvärdering | Diarium | Digitalt | Bevaras |  |
 | Handlingar ej<br>bundna till specifik<br>aktivitet | Korrespondens | Se anmärkning | Digitalt | Se anmärkning | Korrespondens av betydelse diarieförs och bevaras<br>i diarium. Rutinmässig korrespondens gallras vid<br>inaktualitet. |
 |  | Minnesanteckningar | Digital<br>projektplats | Digitalt | Se anmärkning | Gallras vid revisionstidens upphörande. Inklusive<br>kallelser, närvarolistor, dagordningar och<br>signerade listor från projektgrupp och styrgrupp. |
+
+<!-- sida 145 -->
+
+Informationshanteringsplan                      Sida 32 av 49
+
+<!-- sida 146 -->
+
+Informationshanteringsplan                      Sida 33 av 49
+
+<!-- sida 147 -->
+
+Informationshanteringsplan                      Sida 34 av 49
 
 <!-- sida 148 -->
 
@@ -3075,7 +2975,7 @@ Informationshanteringsplan                      Sida 35 av 49
 
 Informationshanteringsplan                      Sida 36 av 49
 
-[Tabell 149-1](handlingar.tabeller/149-1.csv)
+[Tabell 149-150-1](handlingar.tabeller/149-150-1.csv)
 
 | Verksamhetstyp: | Ledning av kommunal myndighet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3096,15 +2996,7 @@ Informationshanteringsplan                      Sida 36 av 49
 |  | Samtycke eller<br>integritetsstärkande<br>medgivande | Diarium | Digitalt | Bevaras | På samtycket/medgivandet ska det framgå vilka<br>uppgifter som avses samt var de återfinns. |
 |  | Uppföljning/egenkontroll av<br>dataskydd | Diarium | Digitalt | Bevaras | Systematiskt kvalitetssäkringsarbete i enlighet<br>med artikel 5.2 och 24.1–2 i GDPR. |
 |  | Råd och rekommendationer<br>från dataskyddsombud | Diarium | Digitalt | Bevaras | I enlighet med artikel 39.1(a) GDPR. |
-
-<!-- sida 150 -->
-
-Informationshanteringsplan                      Sida 37 av 49
-
-[Tabell 150-1](handlingar.tabeller/150-1.csv)
-
 | Hantera begäran | Begäran om registerutdrag | Diarium | Digitalt | 2 år | Begäran från säkerhetspolisen bevaras på<br>papper. |
-| --- | --- | --- | --- | --- | --- |
 |  | Registerutdrag | Diarium | Digitalt | 2 år | I enlighet med artikel 15 GDPR. |
 |  | Begäran om ändring/rättelse | Diarium | Digitalt | 2 år | I enlighet med artikel 16 GDPR. |
 |  | Begäran om radering | Diarium | Digitalt | 2 år | I enlighet med artikel 17 GDPR. |
@@ -3120,11 +3012,15 @@ Informationshanteringsplan                      Sida 37 av 49
 |  | Beslut med anledning av<br>personuppgiftsincident | Diarium | Digitalt | Bevaras |  |
 |  | Beslut med anledning av<br>konsekvensbedömning | Diarium | Digitalt | Bevaras |  |
 
+<!-- sida 150 -->
+
+Informationshanteringsplan                      Sida 37 av 49
+
 <!-- sida 151 -->
 
 Informationshanteringsplan                      Sida 38 av 49
 
-[Tabell 151-1](handlingar.tabeller/151-1.csv)
+[Tabell 151-152-1](handlingar.tabeller/151-152-1.csv)
 
 | Verksamhetstyp: | Ledning av kommunal myndighet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3142,15 +3038,6 @@ Informationshanteringsplan                      Sida 38 av 49
 |  | Förteckning över<br>öppna data | Se anmärkning | Digitalt | Se anmärkning | Publiceras på webb. Uppdateras löpande. |
 |  | Öppna data | Se anmärkning | Digitalt | Se anmärkning | Avser data från en rad nyckeltal som publiceras på<br>kommunens webb via SKRs databas Kolada. På<br>kommunens webb visas endast den aktuella uppgift<br>som hämtas från databasen från Kolada. Webben<br>uppdateras löpande. |
 |  | Grunddata | Se anmärkning | Digitalt | Se anmärkning | Avser data som hämtas eller lämnas från ett system<br>direkt till en användare till exempel via API:er.<br>Grunddata hanteras i övrigt enlig<br>hanteringsanvisningen för berörd process. |
-
-<!-- sida 152 -->
-
-Informationshanteringsplan                      Sida 39 av 49
-
-[Tabell 152-1](handlingar.tabeller/152-1.csv)
-
-| Verksamhetstyp: | Ledning av kommunal myndighet |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Verksamhetsområde: | Demokrati och insyn |  |  |  |  |
 | Processgrupp: | Offentlig dialog |  |  |  |  |
 | Process: | Hantera klagomål |  |  |  |  |
@@ -3158,6 +3045,10 @@ Informationshanteringsplan                      Sida 39 av 49
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Ta emot synpunkt | Inkommen<br>kommentar | Diarium | Digitalt | Bevaras | Avser den formaliserade synpunkthanteringen<br>”kommentaren” som sker genom kommunens e-<br>tjänst. |
 | Lämna svar på<br>synpunkt | Svar på kommentar | Diarium | Digitalt | Bevaras |  |
+
+<!-- sida 152 -->
+
+Informationshanteringsplan                      Sida 39 av 49
 
 <!-- sida 153 -->
 
@@ -3233,7 +3124,7 @@ Informationshanteringsplan                      Sida 43 av 49
 
 Informationshanteringsplan                      Sida 44 av 49
 
-[Tabell 157-1](handlingar.tabeller/157-1.csv)
+[Tabell 157-158-1](handlingar.tabeller/157-158-1.csv)
 
 | Verksamhetstyp: | Ledning av kommunal myndighet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3251,26 +3142,22 @@ Informationshanteringsplan                      Sida 44 av 49
 |  | Informationsmaterial | Diarium | Digitalt | Se anmärkning | Kommunspecifik information bevaras. Övrig<br>information gallras efter valet vunnit laga kraft. |
 |  | Postkvittenser | Närarkiv | Papper | Se anmärkning | Avser kvittenser från PostNord över mottagna<br>röster. Gallras efter att valet vunnit laga kraft. |
 |  | Omslag | Närarkiv | Papper | Se anmärkning | Omslag med ytterkuvert från godkända budröster<br>samt omslag med budröster som underkänts och<br>tagits omhand gallras efter att valet vunnit laga<br>kraft. |
-
-<!-- sida 158 -->
-
-Informationshanteringsplan                      Sida 45 av 49
-
-[Tabell 158-1](handlingar.tabeller/158-1.csv)
-
 |  | Protokoll, mottagna<br>förstidsröster | Närarkiv | Papper | Se anmärkning | Gallras efter att nästa val vunnit laga kraft. |
-| --- | --- | --- | --- | --- | --- |
 |  | Röstkort | Närarkiv | Papper | Se anmärkning | Avser röstkort som samlats upp i vallokaler och<br>röstningslokaler, gallras efter valet. |
 |  | Röstlängder | Närarkiv | Papper | Bevaras |  |
 | Utvärdera allmänna<br>val | Uppföljningar | Samarbetsrum | Digitalt | Bevaras | Avser uppföljning av till exempel lokaler,<br>transporter, ambulerande röstmottagare och annat<br>som utgör underlag för planering av nästkommande<br>val. |
 |  | Uppföljningar av<br>enkätsvar från<br>vallokaler | Diarium | Digitalt | Bevaras | Avser uppföljning av till exempel lokaler,<br>transporter, ambulerande röstmottagare och annat<br>som utgör underlag för planering av nästkommande<br>val. |
 | Genomföra allmänna<br>val | Väljarförteckningar | Närarkiv | Papper | Se anmärkning | Gallras efter att nästa val vunnit laga kraft. |
 
+<!-- sida 158 -->
+
+Informationshanteringsplan                      Sida 45 av 49
+
 <!-- sida 159 -->
 
 Informationshanteringsplan                      Sida 46 av 49
 
-[Tabell 159-1](handlingar.tabeller/159-1.csv)
+[Tabell 159-160-1](handlingar.tabeller/159-160-1.csv)
 
 | Verksamhetstyp: | Ledning av kommunal myndighet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3295,16 +3182,12 @@ Informationshanteringsplan                      Sida 46 av 49
 |  | Parternas yttranden | Diarium | Digitalt | Bevaras |  |
 |  | Korrespondens | Se anmärkning | Digitalt | Se anmärkning | Korrespondens av betydelse diarieförs och bevaras.<br>Korrespondens av ringa eller tillfällig betydelse<br>gallras vid inaktualitet. |
 |  | Yttrande | Diarium | Digitalt | Bevaras |  |
+|  | Beslut eller dom | Diarium | Digitalt | Bevaras |  |
+|  | Lagakraftsbevis | Diarium | Digitalt | Bevaras |  |
 
 <!-- sida 160 -->
 
 Informationshanteringsplan                      Sida 47 av 49
-
-[Tabell 160-1](handlingar.tabeller/160-1.csv)
-
-|  | Beslut eller dom | Diarium | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Lagakraftsbevis | Diarium | Digitalt | Bevaras |  |
 
 <!-- sida 161 -->
 
@@ -3528,7 +3411,7 @@ Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 Informationshanteringsplan                      Sida 1 av 126
 
-[Tabell 168-1](handlingar.tabeller/168-1.csv)
+[Tabell 168-169-1](handlingar.tabeller/168-169-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3546,23 +3429,19 @@ Informationshanteringsplan                      Sida 1 av 126
 |  | Regler för hantering av<br>information i Kungsbacka<br>kommuns digitala<br>samarbetsplattform och<br>Microsoft 365 | Diarium | Digitalt | Bevaras | Beslutas av biträdande<br>kommundirektör. |
 | Organisera<br>informationsförvaltning | Arkivmyndighetens<br>tillsynsplan | Samarbetsrum | Digitalt | Vid inaktualitet |  |
 |  | Rutin för samråd av<br>informationshanteringsplan | Samarbetsrum | Digitalt | Vid inaktualitet |  |
+|  | Anteckningar från<br>arkivmyndighetens<br>veckomöten | OneNote | Digitalt | 2 år |  |
+|  | Mall | Samarbetsrum | Digitalt | Vid inaktualitet | Exempelvis mallar för<br>informationshanteringsplan,<br>klassificeringsstruktur och<br>informationsbeskrivning. |
+|  | Instruktion | Samarbetsrum | Digitalt | Vid inaktualitet | Exempelvis instruktion för<br>upprättande och underhåll<br>av<br>informationshanteringsplan. |
 
 <!-- sida 169 -->
 
 Informationshanteringsplan                      Sida 2 av 126
 
-[Tabell 169-1](handlingar.tabeller/169-1.csv)
-
-|  | Anteckningar från<br>arkivmyndighetens<br>veckomöten | OneNote | Digitalt | 2 år |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Mall | Samarbetsrum | Digitalt | Vid inaktualitet | Exempelvis mallar för<br>informationshanteringsplan,<br>klassificeringsstruktur och<br>informationsbeskrivning. |
-|  | Instruktion | Samarbetsrum | Digitalt | Vid inaktualitet | Exempelvis instruktion för<br>upprättande och underhåll<br>av<br>informationshanteringsplan. |
-
 <!-- sida 170 -->
 
 Informationshanteringsplan                      Sida 3 av 126
 
-[Tabell 170-1](handlingar.tabeller/170-1.csv)
+[Tabell 170-171-1](handlingar.tabeller/170-171-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3580,17 +3459,13 @@ Informationshanteringsplan                      Sida 3 av 126
 |  | Bekräftelse från IVO om att<br>rapporten har mottagits | Diarium | Digitalt | Bevaras |  |
 |  | Planering | Diarium | Digitalt | Bevaras | Exempel på planering: Akut planering och<br>långsiktig planering. |
 | Systematisk<br>informationssäkerhet | Analys | Diarium | Digitalt | Bevaras | Exempelvis GAP-analys, riskanalys,<br>verksamhetsanalys och omvärldsanalys. |
+|  |  |  |  |  | Arbetsmaterial före upprättande hanteras<br>på Klass 3-ytan. |
+|  | Kontinuitetsplan | Diarium | Digitalt | Bevaras | Arbetsmaterial före upprättande hanteras<br>på Klass 3-ytan. |
+|  | Årsrapport | Diarium | Digitalt | Bevaras | Arbetsmaterial före upprättande hanteras<br>på Klass 3-ytan.<br>För beslut i förvaltningsledning, se<br>ledingsprocess Överlägga och besluta<br>1.1.3.1 |
 
 <!-- sida 171 -->
 
 Informationshanteringsplan                      Sida 4 av 126
-
-[Tabell 171-1](handlingar.tabeller/171-1.csv)
-
-|  |  |  |  |  | Arbetsmaterial före upprättande hanteras<br>på Klass 3-ytan. |
-| --- | --- | --- | --- | --- | --- |
-|  | Kontinuitetsplan | Diarium | Digitalt | Bevaras | Arbetsmaterial före upprättande hanteras<br>på Klass 3-ytan. |
-|  | Årsrapport | Diarium | Digitalt | Bevaras | Arbetsmaterial före upprättande hanteras<br>på Klass 3-ytan.<br>För beslut i förvaltningsledning, se<br>ledingsprocess Överlägga och besluta<br>1.1.3.1 |
 
 <!-- sida 172 -->
 
@@ -3704,7 +3579,7 @@ Informationshanteringsplan                      Sida 10 av 126
 
 Informationshanteringsplan                      Sida 11 av 126
 
-[Tabell 178-1](handlingar.tabeller/178-1.csv)
+[Tabell 178-179-1](handlingar.tabeller/178-179-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3726,23 +3601,19 @@ Informationshanteringsplan                      Sida 11 av 126
 |  | Valideringskvitto | Outlook | Digitalt | Vid inaktualitet | Validerar metadatafilen. |
 |  | Konverteringskvitto | Outlook | Digitalt | Vid inaktualitet | Visar antal godkända och ej godkända<br>arkivobjekt. |
 |  | Konverteringsrapport | Outlook | Digitalt | Vid inaktualitet | Visar antal lyckade, ej genomförda och<br>misslyckade konverteringar. |
+|  | Arkiveringskvitto | Outlook | Digitalt | Vid inaktualitet | Visar antal godkända och ej godkända<br>arkivobjekt. |
+|  | Leveransdokumentation | Diarium | Digitalt | Bevaras | Handläggs i samarbetsrum. Vid projektavslut<br>diarieförs handlingen tillsammans med ärendet. |
+| Godkänna leverans | Leveransgodkännande | Diarium | Digitalt | Bevaras | Leveransgodkännande genomförs av<br>förvaltningen. |
 
 <!-- sida 179 -->
 
 Informationshanteringsplan                      Sida 12 av 126
 
-[Tabell 179-1](handlingar.tabeller/179-1.csv)
-
-|  | Arkiveringskvitto | Outlook | Digitalt | Vid inaktualitet | Visar antal godkända och ej godkända<br>arkivobjekt. |
-| --- | --- | --- | --- | --- | --- |
-|  | Leveransdokumentation | Diarium | Digitalt | Bevaras | Handläggs i samarbetsrum. Vid projektavslut<br>diarieförs handlingen tillsammans med ärendet. |
-| Godkänna leverans | Leveransgodkännande | Diarium | Digitalt | Bevaras | Leveransgodkännande genomförs av<br>förvaltningen. |
-
 <!-- sida 180 -->
 
 Informationshanteringsplan                      Sida 13 av 126
 
-[Tabell 180-1](handlingar.tabeller/180-1.csv)
+[Tabell 180-181-1](handlingar.tabeller/180-181-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3764,17 +3635,13 @@ Informationshanteringsplan                      Sida 13 av 126
 |  | Valideringskvitto | Outlook | Digitalt | Vid inaktualitet | Validerar metadatafilen. |
 |  | Konverteringskvitto | Outlook | Digitalt | Vid inaktualitet | Visar antal godkända och ej godkända<br>arkivobjekt. |
 |  | Konverteringsrapport | Outlook | Digitalt | Vid inaktualitet | Visar antal lyckade, ej genomförda och<br>misslyckade konverteringar. |
+|  | Arkiveringskvitto | Outlook | Digitalt | Vid inaktualitet | Visar antal godkända och ej godkända<br>arkivobjekt. |
+|  | Leveransdokumentation | Diarium | Digitalt | Bevaras | Handläggs i samarbetsrum. Vid projektavslut<br>diarieförs handlingen tillsammans med ärendet. |
+| Godkänna leverans | Leveransgodkännande | Diarium | Digital | Bevaras | Leveransgodkännande genomförs av<br>kommunarkivet. |
 
 <!-- sida 181 -->
 
 Informationshanteringsplan                      Sida 14 av 126
-
-[Tabell 181-1](handlingar.tabeller/181-1.csv)
-
-|  | Arkiveringskvitto | Outlook | Digitalt | Vid inaktualitet | Visar antal godkända och ej godkända<br>arkivobjekt. |
-| --- | --- | --- | --- | --- | --- |
-|  | Leveransdokumentation | Diarium | Digitalt | Bevaras | Handläggs i samarbetsrum. Vid projektavslut<br>diarieförs handlingen tillsammans med ärendet. |
-| Godkänna leverans | Leveransgodkännande | Diarium | Digital | Bevaras | Leveransgodkännande genomförs av<br>kommunarkivet. |
 
 <!-- sida 182 -->
 
@@ -3885,7 +3752,7 @@ Informationshanteringsplan                      Sida 20 av 126
 
 Informationshanteringsplan                      Sida 21 av 126
 
-[Tabell 188-1](handlingar.tabeller/188-1.csv)
+[Tabell 188-190-1](handlingar.tabeller/188-190-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3900,15 +3767,7 @@ Informationshanteringsplan                      Sida 21 av 126
 |  | Testrapport | Diarium | Digitalt | Bevaras | Administreras i Antura eller<br>samarbetsrum. Diarieförs i diarium efter<br>upprättande. |
 | Dokumentera | Teknisk dokumentation | Diarium | Digitalt | Bevaras | Beskrivning av komponenter i<br>verksamhetssystem, exempelvis<br>gränssnitt, databas, programvara och<br>övriga kringsystem.<br>Dokumentation vänder sig framför allt<br>till teknisk systemförvaltare. |
 |  | Systemdokumentation | Insidan | Digitalt | Se anmärkning | Gallras efter att verksamhetssystemet<br>avvecklats.<br>Beskriver processer, gränssnitt och<br>funktioner vid förvaltning av system.<br>Dokumentationen vänder sig framför<br>allt till systemförvaltare och användare. |
-
-<!-- sida 189 -->
-
-Informationshanteringsplan                      Sida 22 av 126
-
-[Tabell 189-1](handlingar.tabeller/189-1.csv)
-
 |  | Beslut | Diarium | Digitalt | Bevaras | Beslut av betydelse. Exempelvis beslut<br>gällande utveckling och inköp av ny<br>funktionalitet. |
-| --- | --- | --- | --- | --- | --- |
 |  | Mötesanteckning | Insidan | Digitalt | Vid inaktualitet | Exempelvis vid utvecklingsråd,<br>användarforum och leverantörsmöten. |
 |  | Korrespondens | Outlook | Digitalt | Vid inaktualitet |  |
 | Dokumentera | Uppföljningsrapport | Diarium | Digitalt | 10 år |  |
@@ -3917,20 +3776,20 @@ Informationshanteringsplan                      Sida 22 av 126
 |  | Handlingsplan | Diarium | Digital | Bevaras | Kan även benämnas åtgärdslista eller<br>kontinuitetsplan. Exempelvis åtgärder<br>som ska följas upp efter en<br>informationsklassning av systemet. |
 | Dokumentera<br>händelser | Händelselogg | Respektive<br>verksamhetssystem | Digitalt | Vid inaktualitet | Information som användare har åtkomst<br>till och som visar händelser som<br>användare genomfört. |
 |  | Integritetslogg | Respektive<br>verksamhetssystem | Digitalt | 10 år | Även kallad användarlogg eller<br>granskningslogg. Vid systembyte och<br>eventuell volymstyrd gallring ska<br>informationen plockas ut från<br>verksamhetssystemet och förvaras<br>digitalt.<br>Logg som dokumenterar tillgång till<br>information (till exempel databasfrågor,<br>anropens ursprung/plats, ansvarig<br>användare för operationer, datum,<br>tidpunkt, berörda tabeller och fält) och |
-
-<!-- sida 190 -->
-
-Informationshanteringsplan                      Sida 23 av 126
-
-[Tabell 190-1](handlingar.tabeller/190-1.csv)
-
 |  |  |  |  |  | som kan behövas i revisioner, ansvars-<br>/disciplinärenden, skadestånd, brottmål<br>till exempel dataintrång med mera.<br>Om loggen vid kontroll leder till åtgärd<br>ska den diarieföras och bevaras. |
-| --- | --- | --- | --- | --- | --- |
 | Dokumentera<br>händelser | Systemlogg | Respektive<br>verksamhetssystem | Digitalt | Vid inaktualitet | Används främst för felsökning och för<br>att få en teknisk överblick av<br>verksamhetssystemets processer och<br>operationer. |
 |  | Rapport om loggranskning | Samarbetsrum | Digitalt | 10 år | Med tillhörande underlag.<br>Om loggen vid kontroll leder till åtgärd<br>ska den diarieföras och bevaras. |
 | Systematisera rutiner | Manual | Insidan | Digitalt | Vid inaktualitet | Kan även benämnas lathund. |
 |  | Utbildningsfilmer | KLOK | Digitalt | Vid inaktualitet |  |
 | Administrera<br>behörigheter | Behörighetsbeställning | Artvise | Digitalt | 18 månader | Tilläg, ändringar och avslut av<br>behörigheter. |
+
+<!-- sida 189 -->
+
+Informationshanteringsplan                      Sida 22 av 126
+
+<!-- sida 190 -->
+
+Informationshanteringsplan                      Sida 23 av 126
 
 <!-- sida 191 -->
 
@@ -3970,7 +3829,7 @@ Informationshanteringsplan                      Sida 25 av 126
 
 Informationshanteringsplan                      Sida 26 av 126
 
-[Tabell 193-1](handlingar.tabeller/193-1.csv)
+[Tabell 193-194-1](handlingar.tabeller/193-194-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3986,15 +3845,7 @@ Informationshanteringsplan                      Sida 26 av 126
 |  | Windowslogg | C: | Digitalt | Volymstyrd<br>gallring | Operativsystemets händelseloggar som sparas<br>lokalt på datorn. |
 |  | Eventloggar ifrån<br>samtliga servrar | Log360 | Digitalt | 31 dagar | Används för säkerhetsövervakning |
 |  | Profilinformation,<br>Remote Desktop | Central lagring på<br>filserver | Digitalt | Vid inaktualitet |  |
-
-<!-- sida 194 -->
-
-Informationshanteringsplan                      Sida 27 av 126
-
-[Tabell 194-1](handlingar.tabeller/194-1.csv)
-
 | Hantera elektroniska<br>spår centralt på<br>server | Nätverksinfo - logg,<br>personuppgifter | ISE, Brandvägg,<br>Cisco Catalyst<br>Center | Digitalt | 60 dagar | ISE-loggar |
-| --- | --- | --- | --- | --- | --- |
 | Hantera<br>meddelandehanterin<br>g och kommunikation<br>centralt på server | E-post, som lagts i<br>Outlooks papperskorg | Microsoft 365 | Digitalt | Se anm. | Gallras efter 104 dagar. Forcerad manuell gallring<br>kan genomföras när som helst av användaren. |
 |  | E-postlogg | Microsoft 365 | Digitalt | 90 dagar |  |
 |  | Chattmeddelande | Microsoft 365 | Digitalt | 90 dagar |  |
@@ -4002,6 +3853,10 @@ Informationshanteringsplan                      Sida 27 av 126
 | Hantera telefoni och<br>röstmeddelande<br>centralt på server | Förteckning över<br>inkomna/utgående<br>samtal | Telenor | Digitalt | Vid inaktualitet | Även röstmeddelanden. |
 |  | Förteckning över<br>telefonanknytningar | Telenor | Digitalt | Vid inaktualitet |  |
 |  | Automatiskt<br>inspelade<br>telefonsamtal | Telenor | Digitalt | 14 dagar | Exempelvis inspelade samtal från Kungsbacka<br>direkt. |
+
+<!-- sida 194 -->
+
+Informationshanteringsplan                      Sida 27 av 126
 
 <!-- sida 195 -->
 
@@ -4073,7 +3928,7 @@ Informationshanteringsplan                      Sida 31 av 126
 
 Informationshanteringsplan                      Sida 32 av 126
 
-[Tabell 199-1](handlingar.tabeller/199-1.csv)
+[Tabell 199-200-1](handlingar.tabeller/199-200-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4088,20 +3943,16 @@ Informationshanteringsplan                      Sida 32 av 126
 |  | Kallelse | Handläggare | Se<br>anmärkning | Vid inaktualitet | På papper eller digitalt, skickas till<br>extern part. För kallelse rörande<br>misskötsamhet, se process 2.3.8.2<br>Hantering av disciplinåtgärder. |
 |  | Protokoll för icke-<br>individärenden | Se anmärkning | Digitalt | Bevaras | Förvaras i samarbetsrum eller<br>diarium. |
 |  | Protokoll för<br>individärenden | Personakt | Digitalt | Bevaras | Exempelvis MBL-protokoll. För<br>protokoll rörande misskötsamhet, se<br>process 2.3.8.2 Hantering av<br>disciplinåtgärder. |
-
-<!-- sida 200 -->
-
-Informationshanteringsplan                      Sida 33 av 126
-
-[Tabell 200-1](handlingar.tabeller/200-1.csv)
-
 | Genomföra<br>förhandling | Förhandlingsprotokoll<br>för lokala kollektivavtal | Diarium | Digitalt | Bevaras | Avser bland annat protokoll,<br>överläggningar central-/<br>förvaltningsnivå.<br>Kopia läggs i samarbetsrummet ”HR<br>Kungsbacka kommun” under ”Styrda<br>dokument” |
-| --- | --- | --- | --- | --- | --- |
 |  | Handlingsplan för<br>lönekartläggning | Samarbetsrum för HR-KLK | Digitalt | Bevaras |  |
 |  | Lokalt kollektivavtal | Diarium | Digitalt | Bevaras | Publiceras på Insidan. |
 |  | LOK kopplat till centrala<br>kollektivavtal | Diarium | Digitalt | Bevaras | Exempelvis LOK till HÖK. |
 | Förbundsvisa<br>förhandlingar/<br>överläggningar | Facklig tid, rapporter och<br>sammanställningar | Personec | Digitalt | 2 år | Bokförs på aktivitet 925. |
 |  | Anmälan om facklig<br>företrädare | Samarbetsrum ”Facklig<br>företrädare anmälan” | Digitalt | Vid inaktualitet |  |
+
+<!-- sida 200 -->
+
+Informationshanteringsplan                      Sida 33 av 126
 
 <!-- sida 201 -->
 
@@ -4157,7 +4008,7 @@ Informationshanteringsplan                      Sida 36 av 126
 
 Informationshanteringsplan                      Sida 37 av 126
 
-[Tabell 204-1](handlingar.tabeller/204-1.csv)
+[Tabell 204-207-1](handlingar.tabeller/204-207-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4174,15 +4025,7 @@ Informationshanteringsplan                      Sida 37 av 126
 |  | Betygshandling | Se anmärkning | Digitalt | Se anmärkning | Erhållen tjänst – bevaras i personakt.<br>Ej erhållen tjänst – gallras efter 2 år i Varbi. |
 |  | Lärarlegitimation | Se anmärkning | Digitalt | Se anmärkning | Erhållen tjänst – bevaras i personakt.<br>Ej erhållen tjänst – gallras efter 2 år i Varbi. |
 |  | Förskollärarlegitimation | Se anmärkning | Digitalt | Se anmärkning | Erhållen tjänst – bevaras i personakt.<br>Ej erhållen tjänst – gallras efter 2 år i Varbi. |
-
-<!-- sida 205 -->
-
-Informationshanteringsplan                      Sida 38 av 126
-
-[Tabell 205-1](handlingar.tabeller/205-1.csv)
-
 |  | Arbetsgivarintyg | Se anmärkning | Digitalt | Se anmärkning | Även kallat tjänstgöringsintyg.<br>Erhållen tjänst – bevaras i personakt.<br>Ej erhållen tjänst – gallras efter 2 år i Varbi. |
-| --- | --- | --- | --- | --- | --- |
 |  | Intyg på<br>behörighetsgivande<br>utbildning | Se anmärkning | Digitalt | Se anmärkning | Innefattar studieintyg, diplom, kursintyg mm.<br>Erhållen tjänst – bevaras i personakt.<br>Ej erhållen tjänst – gallras efter 2 år i Varbi. |
 |  | Sökandeförteckning | Varbi | Digitalt | 2 år |  |
 | Göra urval | Referenstagning | Refapp | Digitalt | 2 år |  |
@@ -4192,15 +4035,7 @@ Informationshanteringsplan                      Sida 38 av 126
 |  | Arbetstillstånd | Personakt | Digitalt | Bevaras | Ändring av person-/samordningsnummer<br>från Skatteverket. |
 |  | Uppehållstillstånd | Personakt | Digitalt | Bevaras |  |
 | Hantera utdrag | Utdrag ur<br>belastningsregistret | Personalarkiv | Papper | Se anmärkning | För anställda som arbetar med barn med<br>funktionsnedsättning (LSS): utdrag eller<br>kopia gallras efter två år. (SFS 1993:387).<br>För anställda inom skola/barnomsorg:<br>Notering om att registerutdrag visats upp.<br>Kopia på registerutdrag får inte tas. (SFS<br>2010:800).<br>För anställda inom övrigt arbete med barn:<br>Notering om att registerutdraget visats upp. |
-
-<!-- sida 206 -->
-
-Informationshanteringsplan                      Sida 39 av 126
-
-[Tabell 206-1](handlingar.tabeller/206-1.csv)
-
 |  |  |  |  |  | Kopia på registerutdrag får inte tas. (SFS<br>2013:852). |
-| --- | --- | --- | --- | --- | --- |
 |  | Säkerhetsprövning | Säkerhetsskåp hos<br>säkerhetsskyddschef | Papper | Se anmärkning | Exempelvis samtycke till och framställan om<br>registerkontroll, särskild personutredning och<br>sammanställning/sändlista Säpo. Förvaras i<br>slutet kuvert som endast får öppnas av<br>behörig.<br>Vid erhållen tjänst bevaras handlingen.<br>Vid ej erhållen tjänst gallras den omgående<br>efter besked om att tjänst ej erhållits. |
 | Erbjudande om tjänst | MBL-protokoll vid<br>chefstillsättning | Diarium | Digitalt | Bevaras | Kopia publiceras på Insidan under<br>”Samverkan”. |
 | Anställa | Tillsättningsbeslut | Varbi | Digitalt | Bevaras | Meddelas på FSG, CSG, LSG i de flesta fall<br>för chefer. |
@@ -4209,18 +4044,22 @@ Informationshanteringsplan                      Sida 39 av 126
 |  | Ansvarsförbindelse | Personakt | Papper | Bevaras | För journalföring. |
 |  | Sekretessförbindelse | Personakt | Papper | Bevaras | En stor del av de anställda skriver under detta<br>som en bilaga till det digitala<br>anställningsavtalet. En fristående<br>pappershandling används av vissa<br>verksamheter. |
 |  | Anmälningsplikt enligt<br>Lex Sarah och Lex<br>Maria | Personakt | Papper | Bevaras | En stor del av de anställda skriver under detta<br>som en bilaga till det digitala<br>anställningsavtalet. En fristående |
+|  |  |  |  |  | pappershandling används av vissa<br>verksamheter. |
+|  | Anmälan LAS-företräde | Winlas | Digitalt | Vid inaktualitet | Tidsbegränsad anställning, företrädesrätt vid<br>uppsägning arbetsbrist. |
+|  | Erbjudande om<br>anställning,<br>företrädesrätt | Personakt | Se<br>anmärkning | Se anmärkning | Bevaras endast om medarbetaren tackar nej. I<br>övriga fall gallras handlingen och<br>anställningen dokumenteras i<br>anställningsavtal. Underskrift på papper<br>sparas i fysisk personakt, digitalt<br>underskriven sparas i digital personakt. |
+|  | Uppgifter om anhöriga | Se anmärkning | Digitalt | Vid inaktualitet | Personec används av anställda och chefer,<br>Medvind används av Vikariecenter. |
+
+<!-- sida 205 -->
+
+Informationshanteringsplan                      Sida 38 av 126
+
+<!-- sida 206 -->
+
+Informationshanteringsplan                      Sida 39 av 126
 
 <!-- sida 207 -->
 
 Informationshanteringsplan                      Sida 40 av 126
-
-[Tabell 207-1](handlingar.tabeller/207-1.csv)
-
-|  |  |  |  |  | pappershandling används av vissa<br>verksamheter. |
-| --- | --- | --- | --- | --- | --- |
-|  | Anmälan LAS-företräde | Winlas | Digitalt | Vid inaktualitet | Tidsbegränsad anställning, företrädesrätt vid<br>uppsägning arbetsbrist. |
-|  | Erbjudande om<br>anställning,<br>företrädesrätt | Personakt | Se<br>anmärkning | Se anmärkning | Bevaras endast om medarbetaren tackar nej. I<br>övriga fall gallras handlingen och<br>anställningen dokumenteras i<br>anställningsavtal. Underskrift på papper<br>sparas i fysisk personakt, digitalt<br>underskriven sparas i digital personakt. |
-|  | Uppgifter om anhöriga | Se anmärkning | Digitalt | Vid inaktualitet | Personec används av anställda och chefer,<br>Medvind används av Vikariecenter. |
 
 <!-- sida 208 -->
 
@@ -4456,7 +4295,7 @@ Informationshanteringsplan                      Sida 53 av 126
 
 Informationshanteringsplan                      Sida 54 av 126
 
-[Tabell 221-1](handlingar.tabeller/221-1.csv)
+[Tabell 221-222-1](handlingar.tabeller/221-222-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4473,23 +4312,19 @@ Informationshanteringsplan                      Sida 54 av 126
 |  | Dokumentation av<br>allvarligt tillbud | Diarium | Digitalt | 10 år |  |
 |  | Tillsynsmeddelande<br>från<br>Arbetsmiljöverket | Diarium | Digitalt | Bevaras |  |
 |  | Korrespondens | Diarium | Digitalt | Se anmärkning | Korrespondens av betydelse diarieförs och bevaras.<br>I korrespondens av betydelse ingår exempelvis<br>begäran till Arbetsmiljöverket om förlängd |
+|  |  |  |  |  | svarsfrist samt svar från Arbetsmiljöverket om att<br>förlängd svarstid beviljas. |
+|  | Avslutsbrev från<br>Arbetsmiljöverket | Diarium | Digitalt | Bevaras |  |
+| Sammanställa tillbud | Sammanställning<br>av olycksfall,<br>ohälsa och tillbud | Diarium | Digitalt | Bevaras | Minst en gång per år ska en sammanställning av<br>olycksfall, ohälsa och tillbud redovisas i<br>samverkansgrupp och nämnd, enligt organisatorisk<br>samverkansstruktur. Sammanställningen används<br>som underlag i det förebyggande arbetsmiljöarbetet<br>på verksamhetsnivå och slutligen förvaltningsnivå. |
 
 <!-- sida 222 -->
 
 Informationshanteringsplan                      Sida 55 av 126
 
-[Tabell 222-1](handlingar.tabeller/222-1.csv)
-
-|  |  |  |  |  | svarsfrist samt svar från Arbetsmiljöverket om att<br>förlängd svarstid beviljas. |
-| --- | --- | --- | --- | --- | --- |
-|  | Avslutsbrev från<br>Arbetsmiljöverket | Diarium | Digitalt | Bevaras |  |
-| Sammanställa tillbud | Sammanställning<br>av olycksfall,<br>ohälsa och tillbud | Diarium | Digitalt | Bevaras | Minst en gång per år ska en sammanställning av<br>olycksfall, ohälsa och tillbud redovisas i<br>samverkansgrupp och nämnd, enligt organisatorisk<br>samverkansstruktur. Sammanställningen används<br>som underlag i det förebyggande arbetsmiljöarbetet<br>på verksamhetsnivå och slutligen förvaltningsnivå. |
-
 <!-- sida 223 -->
 
 Informationshanteringsplan                      Sida 56 av 126
 
-[Tabell 223-1](handlingar.tabeller/223-1.csv)
+[Tabell 223-224-1](handlingar.tabeller/223-224-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4504,23 +4339,19 @@ Informationshanteringsplan                      Sida 56 av 126
 |  | Handlingsplan | Informationssystem<br>om arbetsmiljö<br>(KIA) | Digitalt | Bevaras |  |
 | Anmäla allvarlig<br>arbetsolycka till<br>arbetsmiljöverket | Anmälan/utredning | Informationssystem<br>om arbetsmiljö<br>(KIA) | Digitalt | Bevaras |  |
 |  | Dokumentation av<br>allvarlig<br>arbetsplatsolycka | Diarium | Digitalt | 10 år |  |
+| Anmäla<br>färdolycksfall | Anmälan om<br>färdolycksfall | Informationssystem<br>om arbetsmiljö<br>(KIA) | Digitalt | Bevaras | Till Försäkringskassan och AFA. |
+|  | Dokumentation av<br>färdolycksfall | Informationssystem<br>om arbetsmiljö<br>(KIA) | Digitalt | Bevaras |  |
+| Sammanställa<br>olycksfall | Sammanställning<br>av olycksfall,<br>ohälsa och tillbud | Diarium | Digitalt | Bevaras | Minst en gång per år ska en sammanställning av<br>olycksfall, ohälsa och tillbud redovisas i<br>samverkansgrupp och nämnd, enligt organisatorisk<br>samverkansstruktur. Sammanställningen används<br>som underlag i det förebyggande arbetsmiljöarbetet<br>på verksamhetsnivå och slutligen förvaltningsnivå. |
 
 <!-- sida 224 -->
 
 Informationshanteringsplan                      Sida 57 av 126
 
-[Tabell 224-1](handlingar.tabeller/224-1.csv)
-
-| Anmäla<br>färdolycksfall | Anmälan om<br>färdolycksfall | Informationssystem<br>om arbetsmiljö<br>(KIA) | Digitalt | Bevaras | Till Försäkringskassan och AFA. |
-| --- | --- | --- | --- | --- | --- |
-|  | Dokumentation av<br>färdolycksfall | Informationssystem<br>om arbetsmiljö<br>(KIA) | Digitalt | Bevaras |  |
-| Sammanställa<br>olycksfall | Sammanställning<br>av olycksfall,<br>ohälsa och tillbud | Diarium | Digitalt | Bevaras | Minst en gång per år ska en sammanställning av<br>olycksfall, ohälsa och tillbud redovisas i<br>samverkansgrupp och nämnd, enligt organisatorisk<br>samverkansstruktur. Sammanställningen används<br>som underlag i det förebyggande arbetsmiljöarbetet<br>på verksamhetsnivå och slutligen förvaltningsnivå. |
-
 <!-- sida 225 -->
 
 Informationshanteringsplan                      Sida 58 av 126
 
-[Tabell 225-1](handlingar.tabeller/225-1.csv)
+[Tabell 225-226-1](handlingar.tabeller/225-226-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4536,18 +4367,14 @@ Informationshanteringsplan                      Sida 58 av 126
 |  | Förstadagsintyg | Adato | Digitalt | 3 månader | Signerad överenskommelse. |
 | Upprätta handlingsplan | Plan för återgång i arbete | Adato | Digitalt | Bevaras | Tidigare även kallad handlingsplan,<br>rehabiliteringsplan och rehabplan. |
 |  | Läkarintyg | Se anmärkning | Digitalt | Se anmärkning. | Läkarintyg (inklusive vårdintyg) där<br>arbetslivsinriktad rehabilitering är<br>aktuell bevaras i Adato. Övriga |
+|  |  |  |  |  | gallras omgående. Eventuella papper<br>skannas och gallras. |
+|  | Hälsoavstämning | Adato | Digitalt | Bevaras |  |
+| Avsluta rehabilitering | Mötesanteckningar,<br>rehabiliteringsmöten | Adato | Digitalt | Bevaras | T.ex. vid rehabiliteringsavslut eller<br>alkohol- och drogrelaterade ärenden |
+|  | Överenskommelser,<br>arbetsgivare-arbetstagare | Adato/ Personakt | Digitalt/<br>papper | Bevaras | T.ex. i samband med behandling/<br>handlingsprogram i alkohol- och<br>drogärenden. Eventuella underskrivna<br>pappershandlingar läggs i personakt,<br>annars digitalt i system. |
 
 <!-- sida 226 -->
 
 Informationshanteringsplan                      Sida 59 av 126
-
-[Tabell 226-1](handlingar.tabeller/226-1.csv)
-
-|  |  |  |  |  | gallras omgående. Eventuella papper<br>skannas och gallras. |
-| --- | --- | --- | --- | --- | --- |
-|  | Hälsoavstämning | Adato | Digitalt | Bevaras |  |
-| Avsluta rehabilitering | Mötesanteckningar,<br>rehabiliteringsmöten | Adato | Digitalt | Bevaras | T.ex. vid rehabiliteringsavslut eller<br>alkohol- och drogrelaterade ärenden |
-|  | Överenskommelser,<br>arbetsgivare-arbetstagare | Adato/ Personakt | Digitalt/<br>papper | Bevaras | T.ex. i samband med behandling/<br>handlingsprogram i alkohol- och<br>drogärenden. Eventuella underskrivna<br>pappershandlingar läggs i personakt,<br>annars digitalt i system. |
 
 <!-- sida 227 -->
 
@@ -4571,7 +4398,7 @@ Informationshanteringsplan                      Sida 60 av 126
 
 Informationshanteringsplan                      Sida 61 av 126
 
-[Tabell 228-1](handlingar.tabeller/228-1.csv)
+[Tabell 228-230-1](handlingar.tabeller/228-230-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4592,15 +4419,7 @@ Informationshanteringsplan                      Sida 61 av 126
 |  | Anmälan av ändring i kodsträng | Artvise | Digitalt | 2 år |  |
 |  | Anmälan av ändring i lön | Artvise | Digitalt | 7 år |  |
 |  | Ansökan och överenskommelse<br>om löneväxling | Artvise | Digitalt | 7 år | Själva ansökan om löneväxling<br>görs direkt av medarbetaren<br>till försäkringsbolaget. En<br>kopia skickas till Lönecenter. |
-
-<!-- sida 229 -->
-
-Informationshanteringsplan                      Sida 62 av 126
-
-[Tabell 229-1](handlingar.tabeller/229-1.csv)
-
 |  | Underlag för ersättning till<br>förtroendevalda för ordinarie<br>sammanträden | Samarbetsrum | Digitalt | 7 år | Exempelvis: närvarolistor,<br>sammanträden och<br>förrättningar. |
-| --- | --- | --- | --- | --- | --- |
 |  | Underlag för ersättning till<br>förtroendevalda utöver ordinarie<br>sammanträden | Artvise | Digitalt | 7 år | Exempelvis kursprogram,<br>kilometerersättning,<br>inkomstbortfall och<br>barnpassning. |
 |  | Underlag för ersättning till<br>valförrättare | Personec | Digitalt | Bevaras | Pappersblanketten som<br>inkommer bevaras i närarkiv i<br>7 år. |
 |  | Reseräkning/traktamente | Personec | Digitalt | Bevaras | Eventuella kvitton sparas hos<br>chef på papper och gallras<br>efter 7 år. |
@@ -4610,15 +4429,7 @@ Informationshanteringsplan                      Sida 62 av 126
 |  | Facklig tid, rapporter och<br>sammanställningar | Artvise | Digitalt | 7 år |  |
 |  | Beslut om högriskskydd för<br>arbetstagare med omfattande<br>korttidsfrånvaro | Artvise | Digitalt | 7 år | Utifrån beslut begär<br>lönekonsult ersättning från<br>Försäkringskassan. I dagsläget<br>sköter Förvaltningen för<br>Förskola & Grundskola och<br>Förvaltningen för Gymnasium<br>& Arbetsmarknad sina egna. |
 |  | Överenskommelse om lön | Personakt | Papper | Bevaras |  |
-
-<!-- sida 230 -->
-
-Informationshanteringsplan                      Sida 63 av 126
-
-[Tabell 230-1](handlingar.tabeller/230-1.csv)
-
 |  | Ansökan och beslut om att gå ner<br>i tjänst med bibehållen<br>tjänstepension | Artvise | Digitalt | 7 år |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Ansökan om lönebidrag | Personalarkiv | Papper | Se anmärkning. | Gallras när anställning upphör.<br>Exempelvis introduktionsjobb,<br>nystartsjobb, etableringsjobb<br>och lönebidrag. |
 |  | Manuell utbetalning | Samarbetsrum | Digitalt | 7 år | Även kallad kassautbetalning. |
 |  | Återbetald löneskuld | Artvise | Digitalt | 7 år |  |
@@ -4629,6 +4440,14 @@ Informationshanteringsplan                      Sida 63 av 126
 | Betala ut lön | Lönefil | P: | Digitalt | 7 år | Även kallad bankfil. |
 |  | Redovisning av preliminärskatt<br>och arbetsgivaravgift | Närarkiv Lönecenter | Papper | 7 år |  |
 |  | Rättning av kontrolluppgifter | Närarkiv Lönecenter | Papper | 7 år |  |
+
+<!-- sida 229 -->
+
+Informationshanteringsplan                      Sida 62 av 126
+
+<!-- sida 230 -->
+
+Informationshanteringsplan                      Sida 63 av 126
 
 <!-- sida 231 -->
 
@@ -4665,7 +4484,7 @@ Informationshanteringsplan                      Sida 65 av 126
 
 Informationshanteringsplan                      Sida 66 av 126
 
-[Tabell 233-1](handlingar.tabeller/233-1.csv)
+[Tabell 233-234-1](handlingar.tabeller/233-234-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4684,16 +4503,12 @@ Informationshanteringsplan                      Sida 66 av 126
 |  | Underrättelse om<br>avstängning | Novi | Digitalt | Bevaras | Skickas till fackförbund. |
 |  | Beslut om avstängning | Novi | Digitalt | Bevaras |  |
 |  | Beslut om skriftlig<br>varning med<br>underskrift | Personakt | Papper | Bevaras | 2 exemplar upprättas. Arbetsgivarens exemplar<br>undertecknas av behörig företrädare och av<br>medarbetaren när den mottages alternativt<br>bevittnas. |
+| Besluta | Överläggningsprotokoll | Novi | Digitalt | Bevaras | Avseende varning och avstängning. Upprättas i<br>två exemplar med underskrifter, ett till<br>fackförbund och ett till arbetsgivare att spara. |
+|  | Polisanmälan | Novi | Digitalt | Bevaras | För förseelse i arbetet. |
 
 <!-- sida 234 -->
 
 Informationshanteringsplan                      Sida 67 av 126
-
-[Tabell 234-1](handlingar.tabeller/234-1.csv)
-
-| Besluta | Överläggningsprotokoll | Novi | Digitalt | Bevaras | Avseende varning och avstängning. Upprättas i<br>två exemplar med underskrifter, ett till<br>fackförbund och ett till arbetsgivare att spara. |
-| --- | --- | --- | --- | --- | --- |
-|  | Polisanmälan | Novi | Digitalt | Bevaras | För förseelse i arbetet. |
 
 <!-- sida 235 -->
 
@@ -4718,7 +4533,7 @@ Informationshanteringsplan                      Sida 68 av 126
 
 Informationshanteringsplan                      Sida 69 av 126
 
-[Tabell 236-1](handlingar.tabeller/236-1.csv)
+[Tabell 236-237-1](handlingar.tabeller/236-237-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4732,17 +4547,13 @@ Informationshanteringsplan                      Sida 69 av 126
 |  | Kopia på varsel om<br>avsked | Se anmärkning | Papper | Se anmärkning | Original skickas till berörd. Varsel som resulterar i<br>avslut bevaras i Novi.<br>Varsel som inte resulterar i avslut e-postas till<br>personalarkiv och gallras efter 2 år.<br>(e-post borttagen) |
 |  | Kopia på<br>underättelse om<br>avsked | Se anmärkning | Papper | Se anmärkning | Original skickas till berörd. Underättelse som<br>resulterar i avslut bevaras i Novi. |
 | Besluta | Besked om avslut<br>av anställning | Personakt | Papper | Bevaras |  |
+|  | Beslut om varaktig<br>sjukersättning | Personakt | Papper | Bevaras | Utifrån underlag från Försäkringskassan. |
+|  | Skriftlig grund för<br>uppsägning/avsked | Personakt | Papper | Bevaras | Kan begäras av berörd medarbetare. |
+|  | Överenskommelse<br>om arbetsbefrielse | Personakt | Papper | Bevaras |  |
 
 <!-- sida 237 -->
 
 Informationshanteringsplan                      Sida 70 av 126
-
-[Tabell 237-1](handlingar.tabeller/237-1.csv)
-
-|  | Beslut om varaktig<br>sjukersättning | Personakt | Papper | Bevaras | Utifrån underlag från Försäkringskassan. |
-| --- | --- | --- | --- | --- | --- |
-|  | Skriftlig grund för<br>uppsägning/avsked | Personakt | Papper | Bevaras | Kan begäras av berörd medarbetare. |
-|  | Överenskommelse<br>om arbetsbefrielse | Personakt | Papper | Bevaras |  |
 
 <!-- sida 238 -->
 
@@ -4828,7 +4639,7 @@ Informationshanteringsplan                      Sida 75 av 126
 
 Informationshanteringsplan                      Sida 76 av 126
 
-[Tabell 243-1](handlingar.tabeller/243-1.csv)
+[Tabell 243-245-1](handlingar.tabeller/243-245-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4842,15 +4653,7 @@ Informationshanteringsplan                      Sida 76 av 126
 |  | Krediteringar | Se anm. | Se<br>anmärknin<br>g | 7 år | Raindance: Kreditering i KRP görs digitalt i systemet<br>av respektive förvaltning. KLK Styrning & Ekonomi<br>reglerar kreditfaktura mot debetfaktura.<br>Future: Teknik skickar attesterat krediteringsunderlag<br>till KLK Styrning & Ekonomi. Skickas underlaget<br>digitalt arkiveras originalet hos förvaltningen.<br>Future: Annulleringar registreras enbart i systemet. |
 |  | Fakturerade kundfakturor | Se anm. | Digitalt | 7 år | Raindance: I systemet, samt på<br>P:\DFiles\Utskriftslev_RD<br>Future: I systemet, samt på P:\EDP Future<br>Filer\Fakturafil |
 |  | Kundreskontrajournal | Se anm. | Digitalt | Bevaras | Samarbetsrum Alla Ekonomi\Revision<br>År 1995–2005 på CD.<br>Kungsbacka kommun\KSF Ekonomi KLK -<br>Dokument\Kundteamet\Avstämning\Bokslut\åååå |
-
-<!-- sida 244 -->
-
-Informationshanteringsplan                      Sida 77 av 126
-
-[Tabell 244-1](handlingar.tabeller/244-1.csv)
-
 | Motta Inbetalningar<br>från kundfakturor | ISO20022 fil med<br>inbetalningar kundfakturor | Se anm. | Digitalt | 7 år | Inbetalningsfiler från bankgiro och autogiro sparas<br>för:<br>Raindance BG: P:\DFiles\Inbetalningar\BG<br>Inbetalningar<br>Raindance AG:<br>P:\DFiles\Inbetalningar\AG_Inbetalningar Future:<br>P:\EDP Future Filer\BGFiler\Inlästa och P:\EDP<br>Future Filer\AGFiler\BG autogiro\Inlästa |
-| --- | --- | --- | --- | --- | --- |
 |  | Sammanställning samt<br>fellista<br>ISO20022inbetalningar<br>kundfakturor | Se anm. | Se<br>anmärknin<br>g | 7 år | Raindance: Arkiveras digitalt i systemet<br>Future: Bokföringsunderlagen arkiveras digitalt C:\\<br>Kungsbacka kommun\KSF Ekonomi KLK -<br>Dokument\Kundteamet\Inbetalningar\åååå\mm\ååmm<br>dd |
 |  | Inbetalningsjournal | Se anm. | Digitalt | 7 år | Raindance: Arkiveras i systemet. Går inte att<br>exportera<br>Future: P:\EDP Future filer\BGFiler |
 | Hantera utbetalning<br>från Kundreskontran<br>Raindance | Utbetalningsfil till<br>Swedbank | Se anm. | Digitalt | 7 år | Kundutbetalningar BG (Företag):<br>P:\Dfiles\Utbetalningar\KR\BG\Arkiv<br>Kundutbetalningar SUS (Privatpersoner):<br>P:\Dfiles\Utbetalningar\KR\SUS\Arkiv |
@@ -4858,21 +4661,21 @@ Informationshanteringsplan                      Sida 77 av 126
 |  | Återredovisade<br>kundutbetalningar BG | Se anm. | Digitalt | 7 år | Fil från Swedbank.<br>P:\Dfiles\Utbetalningar\KR\BG\Kvittens\Arkiv |
 |  | Avvisade<br>kundutbetalningar BG | Se anm. | Digitalt | 2 år | Fil från Swedbank.<br>P:\Dfiles\Utbetalningar\KR\BG\Kvittens\Arkiv |
 |  | Avvisade<br>kundutbetalningar SUS | Se anm. | Papper | 7 år | Besked om avvisade kundutbetalningar kommer i<br>Internetbanken som ett elektroniskt dokument. Bokas<br>och sparas tillsammans med kassaverifikationer. |
-
-<!-- sida 245 -->
-
-Informationshanteringsplan                      Sida 78 av 126
-
-[Tabell 245-1](handlingar.tabeller/245-1.csv)
-
 | Hantera utbetalning<br>från Future | Utbetalningsfil till<br>Swedbank | Se anm | Digitalt | 7 år | P:\EDP Future Filer\Utbetalningar\SUS\Arkiv |
-| --- | --- | --- | --- | --- | --- |
 | Hantera<br>kravhantering | Betalningspåminnelser | Se anm. | Digitalt | 2 år | Raindance: I systemet. Går inte att exportera Future:<br>P:\EDP Future Filer\Kravfil\Parajett\Arkiv |
 |  | Inkassokrav | Se anm. | Digitalt | 7 år | Raindance:<br>P:\DFiles\Inkassobolag\Intrum\Inkassokrav<br>Future: P:\EDP Future Filer\Kravfil\Intrum\Arkiv |
 |  | Betalningsföreläggande<br>betalda | Närarkiv<br>Vägmästaren | Papper | 7 år | Betalning registreras i KRP och när hela skulden är<br>betald sätts alla underlag i pärmen<br>“Betalningsföreläggande betalda”. |
 |  | Avskrivningar,<br>kundfakturor | Närarkiv,<br>Vägmästaren | Papper | 7 år | Avskrivning utförs i Raindance och Future. Fordran<br>skrivs av i bokföringen och skulden registreras hos<br>efterbevakningsföretaget.<br>Vid avskrivning gentemot gäldenär registreras fordran<br>inte hos efterbevakningsföretaget. |
 | Hantera autogiro | Medgivande/avanmälning<br>ar från BGC | Närarkiv,<br>Vägmästaren | Papper | Gallras vid<br>inaktualitet | Ansökning/avanmälan inkommer via Internetbanken,<br>Autogiro Online eller via blankett. Ansökningarna<br>som sker digitalt skrivs ut och arkiveras i närarkiv.<br>Ansökningarna som sker digitalt spara ner under<br>respektive BG-nummer:<br>KSF Ekonomi KLK -<br>Dokument\Kundteamet\AUTOGIRO\Medgivanden\åå<br>åå |
 | Hantera E-faktura | Anmälan/avanmälan e-<br>faktura kundreskontran | Se anm. | Digitalt | 7 år | Anmälan/avanmälan läses in digitalt i Raindance och<br>Future.<br>Inlästa filer sparas ner:<br>Raindance: P:\DFiles\Efaktura\Inlast<br>Future: P:\EDP Future Filer\Efaktura\Arkiv |
+
+<!-- sida 244 -->
+
+Informationshanteringsplan                      Sida 77 av 126
+
+<!-- sida 245 -->
+
+Informationshanteringsplan                      Sida 78 av 126
 
 <!-- sida 246 -->
 
@@ -4886,7 +4689,7 @@ Informationshanteringsplan                      Sida 79 av 126
 
 Informationshanteringsplan                      Sida 80 av 126
 
-[Tabell 247-1](handlingar.tabeller/247-1.csv)
+[Tabell 247-248-1](handlingar.tabeller/247-248-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4900,15 +4703,7 @@ Informationshanteringsplan                      Sida 80 av 126
 |  | Räntefaktura, krav och<br>inkasso | Närarkiv SE<br>Inköp | Papper | 7 år | Inkomna krav på papper som inte skannas, manuell<br>hantering och registrering direkt i ekonomisystemet<br>Raindance. |
 |  | Fakturafil från Proceedo till<br>Raindance | Se<br>anmärkning | Digitalt | 2 år | P:\DFiles\Proceedo\Arkiv<br>Avser A, B och C-filer |
 |  | Kvitto | Se<br>anmärkning | Papper | Se anmärkning | Originalkvitton, som är underlag för ej specificerade<br>fakturor, skannas och bifogas till fakturan i e- |
-
-<!-- sida 248 -->
-
-Informationshanteringsplan                      Sida 81 av 126
-
-[Tabell 248-1](handlingar.tabeller/248-1.csv)
-
 |  |  |  |  |  | handelssystemet. Originalkvittot kan slängas när det<br>finns bifogat. |
-| --- | --- | --- | --- | --- | --- |
 | Betala<br>leverantörsfakturor | Manuell utbetalning | Se<br>anmärkning | Papper | 7 år | Manuella utbetalningar registreras i Raindance.<br>Arkiveras hos respektive förvaltning i sju år. |
 |  | Utbetalningsfil till<br>BGC/Swedbank | Se<br>anmärkning | Digitalt | 7 år | Ekonomi skickar tre olika filer:<br>Leverantörbetalningar:<br>P:\DFiles\Utbetalningar\LR\BG\Arkiv<br>Utlandsbetalningar:<br>P:\DFiles\Utbetalningar\LR\Sepa\Arkiv<br>Utbetalningar privatpersoner via Swedbank SUS:<br>P:\DFiles\Utbetalningar\LR\SUS\Arkiv |
 |  | Utbetalningsjournal | Se<br>anmärkning | Digitalt | 7 år | Utbetalningsjournal skapas i Raindance för alla<br>utbetalningssätten och arkiveras på<br>P:\DFiles\Arkiv\LR\Utbet_journal |
@@ -4917,6 +4712,10 @@ Informationshanteringsplan                      Sida 81 av 126
 |  | Avvisade<br>leverantörsbetalning | Närarkiv<br>Vägmästaren | Papper | 2 år | Besked om avvisade leverantörsbetalningar kommer<br>från Bankgirocentralen. Ansvarig handläggare<br>åtgärdar utbetalningen i ekonomisystemet. |
 |  | Avvisade<br>leverantörsutbetalning SUS | Närarkiv<br>Vägmästaren | Papper | 7 år | Besked om avvisade leverantörsbetalningar kommer i<br>Internetbanken som ett elektroniskt dokument.<br>Sparas tillsammans med kassaverifikationer. |
 |  | Ej inlöst utbetalning | Se<br>anmärkning | Digitalt | 7 år | Listor arkiveras på två olika ställen: |
+
+<!-- sida 248 -->
+
+Informationshanteringsplan                      Sida 81 av 126
 
 <!-- sida 249 -->
 
@@ -4952,7 +4751,7 @@ Informationshanteringsplan                      Sida 83 av 126
 
 Informationshanteringsplan                      Sida 84 av 126
 
-[Tabell 251-1](handlingar.tabeller/251-1.csv)
+[Tabell 251-254-1](handlingar.tabeller/251-254-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4966,28 +4765,12 @@ Informationshanteringsplan                      Sida 84 av 126
 |  | Anläggningsregister –<br>integrationslista<br>kapitalkostnader | Raindance | Digitalt | 2 år | Arkiveras digitalt i Samarbetsrum\KSF<br>Ekonomisystem systemförvaltning\Delsystem<br>AR\20XX\Kapitalkostnader |
 |  | Anläggningsregister –<br>avstämningslista<br>kapitalkostnader | Raindance | Digitalt | 2 år | Arkiveras digitalt i Samarbetsrum\KSF<br>Ekonomisystem systemförvaltning\Delsystem<br>AR\20XX\Kapitalkostnader |
 | Hantera bokföring<br>och avstämning | Bokföringsorder | Raindance | Digitalt | 7 år | Bokföringsordern registreras i<br>ekonomisystemet och skickas sedan till<br>attestant för attest och blir definitiv vid<br>attestering. |
-
-<!-- sida 252 -->
-
-Informationshanteringsplan                      Sida 85 av 126
-
-[Tabell 252-1](handlingar.tabeller/252-1.csv)
-
 |  | Kassaverifikationer | Se anmärkning | Digitalt | 7 år | Kassaverifikationerna registreras i<br>ekonomisystemet med vertypen EKBANK.<br>Arkiveras digitalt i Samarbetsrum\KSF<br>Ekonomi KLK\Dokument\Internbanken\1.<br>Kassaverifikationer huvudkontot/Respektive<br>år.<br>I vissa fall arkiverar förvaltningarna<br>underlagen hos sig. Detta ska ske enligt<br>överenskommelse med Internbanken.<br>Arkivering i papper i närarkiv på Vägmästaren<br>t o m 2024-02-06. |
-| --- | --- | --- | --- | --- | --- |
 |  | Bokföringsorder<br>försäljning Kassasystem | Se anmärkning | Digitalt | 7 år | En gemensam bokföringsfil från alla<br>försäljningsställenas kassasystem.<br>P:\DFiles\Kassaystem\Svepos\Arkiv<br>Bokas med vertypen EKBOKA |
 |  | Bokföringsorder<br>inbetalningar E-tjänster | Se anmärkning | Digitalt | 7 år | P:\DFiles\Etjänst\Arkiv<br>Bokas med vertypen EKETJÄ<br>Underlag för att skapa bokföringsordern finns i<br>mappen P:\DFiles\Etjänst\Payex\Arkiv |
 |  | Kassaredovisning -<br>Bokföringsrapport | Se anmärkning | Digitalt | 7 år | P:\DFiles\Kassasystem\Svepos\Arkiv\ Arkiv<br>bokföringsrapport kassa<br>Z-rapport finns digitalt i kassasystemet |
 |  | Bokslutsspecifikationer | Se anmärkning | Digitalt | Bevaras | Fram till och med delårsbokslut 2021:<br>Samarbetsrum Alla Ekonomi \Bokslut,<br>delårsrapport\Bokslut<br>Från och med årsbokslut 2021: Modul i<br>Ekonomisystemet Raindance |
-
-<!-- sida 253 -->
-
-Informationshanteringsplan                      Sida 86 av 126
-
-[Tabell 253-1](handlingar.tabeller/253-1.csv)
-
 |  | Avstämningslistor | Se anmärkning | Se anm. | 2 år | Finns både analogt och digitalt. Avstämning av<br>balanskonton och reskontror görs av respektive<br>balanskontoansvarig |
-| --- | --- | --- | --- | --- | --- |
 |  | Kontoplan/kodplan | Raindance | Digitalt | Bevaras |  |
 | Bokslut och revision | Delårsrapport | Diarium | Digitalt | Bevaras |  |
 |  | Årsredovisning | Diarium | Digitalt | Bevaras |  |
@@ -4995,19 +4778,23 @@ Informationshanteringsplan                      Sida 86 av 126
 |  | Revisionsrapporter | Diarium | Digitalt | Bevaras |  |
 |  | Grund- och Huvudbok | Raindance | Digitalt | Bevaras | År 1993–2000 CD<br>År 2001–2005 Kommunens e-arkiv<br>År 2006–2010<br>P:\DFiles\earkiv\Huvudbokstranskationer<br>År 2011–2016 P:\DFiles\earkiv<br>År 2017 – Digitalt i systemet |
 | Hantera<br>räkenskapsstatistik | Statistik SCB | Se anmärkning | Digitalt | 7 år | Ekonomi lämnar olika sorters statistik till SCB:<br>Räkenskapssammandraget: Steg 1 och 2,<br>Kvartalsutfall, Privata utförare, Kommunens<br>finansiella tillgångar och skulder och Offentligt<br>ägda företag.<br>Arkiveras: Samarbetsrum/KSF Ekonomi<br>KLK/8 Statistik |
-
-<!-- sida 254 -->
-
-Informationshanteringsplan                      Sida 87 av 126
-
-[Tabell 254-1](handlingar.tabeller/254-1.csv)
-
 | Fakturera internt | Internfakturor | Se anmärkning | Digitalt | 2 år | Internfakturor skapas både i Visma Proceedo<br>och Raindance. Eventuellt underlag på papper<br>förvaras på respektive förvaltning. |
-| --- | --- | --- | --- | --- | --- |
 | Hantera garantier<br>och säkerheter | Garantier | Se anmärkning | Se anmärkning | Gallras 7 år efter<br>avslut | Papper – Original Garantier/säkerheter<br>arkiveras i kassaskåpet i KLK Styrning &<br>Ekonomis närarkiv på Vägmästaren.<br>Innehållsförteckning/kartotek arkiveras i<br>Samarbetsrum\KSF Ekonomi KLK -<br>Internbanken\Bankgarantier\\ |
 | Systemdokumentatio<br>n | Systemdokumentation | Se anmärkning | Digitalt | Bevaras | Sparas årligen från och med 2020<br>Samarbetsrum\KSF Ekonomi KLK \KSF<br>Ekonomisystem systemförvaltning |
 | Hantera<br>attestbehörigheter | Attestunderlag | Se anmärkning | Se anmärkning | 7 år efter avslutad<br>attestbehörighet | Attestunderlagen som skickas in digitalt till<br>(e-post borttagen) registreras i<br>attestbasen, underlagen arkiveras på respektive<br>förvaltning |
 | Hantera Försäkring | Försäkringshandlingar | Se anmärkning | Digitalt | 7 år efter avtalets<br>slut | Försäkringsbreven kommer från Kommunens<br>försäkringsförmedlare på Söderberg &<br>Partners. Kommunens försäkringssamordnare<br>har tillgång till Söderberg & Partners<br>dokumentsystem "Optimum" där kommunens<br>försäkringsbrev mm finns tillgängliga.<br>Försäkringsbrev arkiveras i<br>samarbetsrummet\KSF Ekonomi<br>KLK\12Försäkringar\Försäkringsbrev |
+
+<!-- sida 252 -->
+
+Informationshanteringsplan                      Sida 85 av 126
+
+<!-- sida 253 -->
+
+Informationshanteringsplan                      Sida 86 av 126
+
+<!-- sida 254 -->
+
+Informationshanteringsplan                      Sida 87 av 126
 
 <!-- sida 255 -->
 
@@ -5108,7 +4895,7 @@ Informationshanteringsplan                      Sida 93 av 126
 
 Informationshanteringsplan                      Sida 94 av 126
 
-[Tabell 261-1](handlingar.tabeller/261-1.csv)
+[Tabell 261-262-1](handlingar.tabeller/261-262-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -5124,18 +4911,14 @@ Informationshanteringsplan                      Sida 94 av 126
 | Administrera<br>donationsstiftelser | Verifikationer | Närarkiv<br>Vägmästaren | Papper | 7 år | Bokförs i Visma Administration. Alla<br>verifikationer samt bilagor arkiveras i<br>papper. SIE-fil arkiveras i samarbetsrum<br>Alla Ekonomi\Stiftelser\4 Bokslut\SIE-<br>filer |
 |  | Årsbokslut | Närarkiv<br>Vägmästaren | Papper | Bevaras | Finns även digitalt i samarbetsrum Alla<br>Ekonomi \Stiftelser\4 Bokslut\respektive<br>år |
 |  | Årsredovisning | Närarkiv<br>Vägmästaren | Papper | Bevaras | Finns även digitalt i samarbetsrum Alla<br>Ekonomi \Stiftelser\3 Årsredovisningar<br>\respektive år |
+|  | Ansökan om medel med<br>tillhörande underlag | Diarium | Digitalt | Bevaras | Hanteras av respektive förvaltning. |
+|  | Protokollsutdrag | Diarium | Digitalt | Bevaras | Förvaras i förvaltningarnas diarium |
+|  | Beslut om utbetalning | G: | Digitalt | 7 år | Skickas in från respektive förvaltning<br>till KLK för utbetalning och bokföring.<br>Samarbetsrum Alla Ekonomi\\<br>Stiftelser\respektive<br>stiftelse\Utdelningar\respektive år |
+|  | Kopia på deklarationer | G: | Digitalt | 7 år | Originalet skickas in på papper till<br>Skatteverket, kopior sparas i<br>samarbetsrum Alla Ekonomi\\<br>Stiftelser\4 Bokslut\respektive<br>år\Deklarationer |
 
 <!-- sida 262 -->
 
 Informationshanteringsplan                      Sida 95 av 126
-
-[Tabell 262-1](handlingar.tabeller/262-1.csv)
-
-|  | Ansökan om medel med<br>tillhörande underlag | Diarium | Digitalt | Bevaras | Hanteras av respektive förvaltning. |
-| --- | --- | --- | --- | --- | --- |
-|  | Protokollsutdrag | Diarium | Digitalt | Bevaras | Förvaras i förvaltningarnas diarium |
-|  | Beslut om utbetalning | G: | Digitalt | 7 år | Skickas in från respektive förvaltning<br>till KLK för utbetalning och bokföring.<br>Samarbetsrum Alla Ekonomi\\<br>Stiftelser\respektive<br>stiftelse\Utdelningar\respektive år |
-|  | Kopia på deklarationer | G: | Digitalt | 7 år | Originalet skickas in på papper till<br>Skatteverket, kopior sparas i<br>samarbetsrum Alla Ekonomi\\<br>Stiftelser\4 Bokslut\respektive<br>år\Deklarationer |
 
 <!-- sida 263 -->
 
@@ -5177,7 +4960,7 @@ Informationshanteringsplan                      Sida 97 av 126
 
 Informationshanteringsplan                      Sida 98 av 126
 
-[Tabell 265-1](handlingar.tabeller/265-1.csv)
+[Tabell 265-269-1](handlingar.tabeller/265-269-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -5194,15 +4977,7 @@ Informationshanteringsplan                      Sida 98 av 126
 |  | Avtalsvillkor | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
 |  | Lista<br>upphandlingsdokumentshämtare | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
 | Genomföra<br>upphandling | Frågor från anbudsgivare och<br>svar, under annonseringstiden | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | När frågorna blir av betydelse för<br>upphandlingen går det ut ett förtydligande,<br>meddelande till alla anbudsgivare.<br>Administreras i Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
-
-<!-- sida 266 -->
-
-Informationshanteringsplan                      Sida 99 av 126
-
-[Tabell 266-1](handlingar.tabeller/266-1.csv)
-
 |  | Ansökningsinbjudan | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Specifikt för urvalsselektiv eller förhandlad<br>upphandling. Administreras i Tendsign,<br>överförs till Ciceron avtalsdiarium efter<br>avslutat ärende |
-| --- | --- | --- | --- | --- | --- |
 |  | Ansökningar om att få inkomma<br>med anbud, valda | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Specifikt för urvalsselektiv eller förhandlad<br>upphandling. Administreras i Tendsign,<br>överförs till Ciceron avtalsdiarium efter<br>avslutat ärende |
 |  | Ansökningar om att få inkomma<br>med anbud, ej valda/ej korrekt<br>inlämnande | Ciceron<br>avtalsdiarium | Digitalt | 4 år | Specifikt för urvalsselektiv eller förhandlad<br>upphandling. Administreras i Tendsign,<br>överförs till Ciceron avtalsdiarium efter<br>avslutat ärende |
 |  | Meddelande till anbudsgivare | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Specifikt för urvalsselektiv eller förhandlad<br>upphandling. Administreras i Tendsign,<br>överförs till Ciceron avtalsdiarium efter<br>avslutat ärende |
@@ -5211,15 +4986,7 @@ Informationshanteringsplan                      Sida 99 av 126
 |  | Anbudssammanställning | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
 |  | Anbud, antagna | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Inklusive specifikationer, bilagor etc.<br>Administreras i Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
 | Anbudspröva och<br>utvärdera | Anbud, ej antagna | Ciceron<br>avtalsdiarium | Digitalt | 4 år | Inklusive specifikationer, bilagor etc.<br>Administreras i Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
-
-<!-- sida 267 -->
-
-Informationshanteringsplan                      Sida 100 av 126
-
-[Tabell 267-1](handlingar.tabeller/267-1.csv)
-
 | Anbudspröva och<br>utvärdera | Öppningsprotokoll | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Anbudsöppning, ansökan. Administreras i<br>Tendsign, överförs till Ciceron avtalsdiarium<br>efter avslutat ärende |
-| --- | --- | --- | --- | --- | --- |
 |  | Korrespondens med<br>anbudsgivare, av betydelse | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
 |  | Korrespondens med<br>anbudsgivare, av ringa eller<br>tillfällig betydelse | Outlook | Digitalt | Gallras vid<br>inaktualitet |  |
 |  | Skatte- och registerkontroll av<br>anbudsgivare | Tendsign | Digitalt | Bevaras | Inbyggd funktionalitet i systemet, en aktivitet i<br>att kvalificera leverantören. |
@@ -5230,15 +4997,7 @@ Informationshanteringsplan                      Sida 100 av 126
 |  | Lottningsprotokoll | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
 |  | Upphandlingsprotokoll | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
 |  | Begäran om förklaring av anbud<br>med svar | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Exempelvis förklaring vid onormalt lågt<br>anbud. Bevaras som en del av<br>anbudshandlingar (frågor och svar).<br>Administreras i Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
-
-<!-- sida 268 -->
-
-Informationshanteringsplan                      Sida 101 av 126
-
-[Tabell 268-1](handlingar.tabeller/268-1.csv)
-
 | Avbryta upphandling | Beslut om att avbryta<br>upphandling | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
-| --- | --- | --- | --- | --- | --- |
 | Besluta och teckna<br>avtal | Tilldelningsbeslut | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Kvitto på utsänt tilldelningsbeslut,<br>avbrytandebeslut registreras i<br>upphandlingssystemets logg. Administreras i<br>Tendsign, överförs till Ciceron avtalsdiarium<br>efter avslutat ärende |
 |  | Avtal/kontrakt inklusive bilagor | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Exempelvis ramavtal, objektsavtal,<br>entreprenadavtal, tjänstekoncessionsavtal och<br>avtal för externa utförare. Administreras i<br>Tendsign, överförs till Ciceron avtalsdiarium<br>efter avslutat ärende. |
 |  | Strategi- och resultatrapport | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
@@ -5246,25 +5005,33 @@ Informationshanteringsplan                      Sida 101 av 126
 | Följa upp och<br>förvalta avtal | Förändring av avtal | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Inklusive motivering till förändring<br>/tjänsteskrivelse. Kan även vara tilläggsavtal,<br>prisjustering. Administreras i Tendsign,<br>överförs till Ciceron avtalsdiarium efter<br>avslutat ärende |
 |  | Annonsering av förändring av<br>beslut enligt 17 kap. 16 § LOU | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
 |  | Överlåtelse av avtal | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
-
-<!-- sida 269 -->
-
-Informationshanteringsplan                      Sida 102 av 126
-
-[Tabell 269-1](handlingar.tabeller/269-1.csv)
-
 | Följa upp och<br>förvalta avtal | Korrespondens med leverantör | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | I korrespondens av betydelse ingår exempelvis<br>mötesprotokoll, varsling om brist,<br>handlingsplaner för avhjälpande av fel,<br>reklamation. Administreras i Tendsign,<br>överförs till Ciceron avtalsdiarium efter<br>avslutat ärende |
-| --- | --- | --- | --- | --- | --- |
 |  | Anmodan om rättelse | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Anmodan kan även innehålla meddelande om<br>vite eller annan påföljd. Administreras i<br>Tendsign, överförs till Ciceron avtalsdiarium<br>efter avslutat ärende |
 |  | Vitesfakturaunderlag | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
 |  | Hävning av avtal/kontrakt<br>(hävningsmeddelande) | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
 |  | Överenskommelser om<br>upphörande av<br>avtal/förlikningar | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
 
+<!-- sida 266 -->
+
+Informationshanteringsplan                      Sida 99 av 126
+
+<!-- sida 267 -->
+
+Informationshanteringsplan                      Sida 100 av 126
+
+<!-- sida 268 -->
+
+Informationshanteringsplan                      Sida 101 av 126
+
+<!-- sida 269 -->
+
+Informationshanteringsplan                      Sida 102 av 126
+
 <!-- sida 270 -->
 
 Informationshanteringsplan                      Sida 103 av 126
 
-[Tabell 270-1](handlingar.tabeller/270-1.csv)
+[Tabell 270-272-1](handlingar.tabeller/270-272-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -5276,30 +5043,22 @@ Informationshanteringsplan                      Sida 103 av 126
 | Förbereda och<br>initiera<br>upphandlingsärende | Förfrågan/<br>behovsspecifikation/offert | Se<br>anmärkning | Digitalt | Se anmärkning | Om handlingen ingår i direktupphandlingar med<br>ett värde under 100 000 kr: förvaras i<br>samarbetsrum och gallras vid avtalets utgång. |
 |  | Underlag för beräkning<br>av inköpsbelopp | Se<br>anmärkning | Digitalt | Se anmärkning | Om handlingen ingår i direktupphandlingar med<br>ett värde mellan 100 000 och<br>direktupphandlingsgräns, med avtalshandling<br>undertecknad av båda parter: registreras i Ciceron<br>avtalsdiarium och bevaras.<br>Om handlingen ingår i direktupphandlingar med<br>ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan avtalshandling<br>undertecknad av båda parter: registreras i<br>Proceedo och gallras efter 7 år. |
 | Genomföra<br>direktupphandling | Inbjudan<br>direktupphandling | Se<br>anmärkning | Digitalt | Se anmärkning | Om handlingen ingår i direktupphandlingar med<br>ett värde mellan 100 000 och<br>direktupphandlingsgräns, med avtalshandling<br>undertecknad av båda parter: registreras i Ciceron<br>avtalsdiarium och bevaras.<br>Om handlingen ingår i direktupphandlingar med<br>ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan avtalshandling |
+|  |  |  |  |  | undertecknad av båda parter: registreras i<br>Proceedo och gallras efter 7 år. |
+|  | Kravspecifikation<br>direktupphandling | Se<br>anmärkning | Digitalt | Se anmärkning | Om handlingen ingår i direktupphandlingar med<br>ett värde mellan 100 000 och<br>direktupphandlingsgräns, med avtalshandling<br>undertecknad av båda parter: registreras i Ciceron<br>avtalsdiarium och bevaras.<br>Om handlingen ingår i direktupphandlingar med<br>ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan avtalshandling<br>undertecknad av båda parter: registreras i<br>Proceedo och gallras efter 7 år. |
+|  | Anbud, antagna | Se<br>anmärkning | Digitalt | Se anmärkning | Inklusive bilagor.<br>Om handlingen ingår i direktupphandlingar med<br>ett värde mellan 100 000 och<br>direktupphandlingsgräns, med avtalshandling<br>undertecknad av båda parter: registreras i Ciceron<br>avtalsdiarium och gallras vid avtalets utgång.<br>Om handlingen ingår i direktupphandlingar med<br>ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan avtalshandling<br>undertecknad av båda parter: registreras i<br>Proceedo och gallras efter 7 år. |
+|  | Anbud, ej antagna | Se<br>anmärkning | Digitalt | Se anmärkning | Inklusive bilagor.<br>Om handlingen ingår i direktupphandlingar med<br>ett värde mellan 100 000 och |
+|  |  |  |  |  | direktupphandlingsgräns, med avtalshandling<br>undertecknad av båda parter: registreras i Ciceron<br>avtalsdiarium och<br>Gallras vid avtalets utgång.<br>Om handlingen ingår i direktupphandlingar med<br>ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan avtalshandling<br>undertecknad av båda parter: registreras i<br>Proceedo och gallras efter 7 år. |
+|  | Rekvisition | Proceedo | Digitalt | 7 år |  |
+| Besluta och teckna<br>avtal | ”Dokumentation av<br>direktupphandlingar” | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Upprättas för att efterleva lagkravet på<br>dokumentation för upphandlingar för ett värde<br>över 100 000 kr, Konkurrensverket. |
+|  | Avtal | Se<br>anmärkning | Se<br>anmärkning | Se anmärkning | Avtal underskrivna digitalt förvaras i Ciceron<br>avtalsdiarium.<br>Avtal på papper registreras i Ciceron<br>avtalsdiarium och förvaras hos handläggare.<br>Om handlingen ingår i direktupphandlingar med<br>ett värde över 100 000 kr: bevaras.<br>Om handlingen ingår i direktupphandlingar med<br>ett värde under 100 000 kr: gallras vid avtalets<br>utgång. |
 
 <!-- sida 271 -->
 
 Informationshanteringsplan                      Sida 104 av 126
 
-[Tabell 271-1](handlingar.tabeller/271-1.csv)
-
-|  |  |  |  |  | undertecknad av båda parter: registreras i<br>Proceedo och gallras efter 7 år. |
-| --- | --- | --- | --- | --- | --- |
-|  | Kravspecifikation<br>direktupphandling | Se<br>anmärkning | Digitalt | Se anmärkning | Om handlingen ingår i direktupphandlingar med<br>ett värde mellan 100 000 och<br>direktupphandlingsgräns, med avtalshandling<br>undertecknad av båda parter: registreras i Ciceron<br>avtalsdiarium och bevaras.<br>Om handlingen ingår i direktupphandlingar med<br>ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan avtalshandling<br>undertecknad av båda parter: registreras i<br>Proceedo och gallras efter 7 år. |
-|  | Anbud, antagna | Se<br>anmärkning | Digitalt | Se anmärkning | Inklusive bilagor.<br>Om handlingen ingår i direktupphandlingar med<br>ett värde mellan 100 000 och<br>direktupphandlingsgräns, med avtalshandling<br>undertecknad av båda parter: registreras i Ciceron<br>avtalsdiarium och gallras vid avtalets utgång.<br>Om handlingen ingår i direktupphandlingar med<br>ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan avtalshandling<br>undertecknad av båda parter: registreras i<br>Proceedo och gallras efter 7 år. |
-|  | Anbud, ej antagna | Se<br>anmärkning | Digitalt | Se anmärkning | Inklusive bilagor.<br>Om handlingen ingår i direktupphandlingar med<br>ett värde mellan 100 000 och |
-
 <!-- sida 272 -->
 
 Informationshanteringsplan                      Sida 105 av 126
-
-[Tabell 272-1](handlingar.tabeller/272-1.csv)
-
-|  |  |  |  |  | direktupphandlingsgräns, med avtalshandling<br>undertecknad av båda parter: registreras i Ciceron<br>avtalsdiarium och<br>Gallras vid avtalets utgång.<br>Om handlingen ingår i direktupphandlingar med<br>ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan avtalshandling<br>undertecknad av båda parter: registreras i<br>Proceedo och gallras efter 7 år. |
-| --- | --- | --- | --- | --- | --- |
-|  | Rekvisition | Proceedo | Digitalt | 7 år |  |
-| Besluta och teckna<br>avtal | ”Dokumentation av<br>direktupphandlingar” | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Upprättas för att efterleva lagkravet på<br>dokumentation för upphandlingar för ett värde<br>över 100 000 kr, Konkurrensverket. |
-|  | Avtal | Se<br>anmärkning | Se<br>anmärkning | Se anmärkning | Avtal underskrivna digitalt förvaras i Ciceron<br>avtalsdiarium.<br>Avtal på papper registreras i Ciceron<br>avtalsdiarium och förvaras hos handläggare.<br>Om handlingen ingår i direktupphandlingar med<br>ett värde över 100 000 kr: bevaras.<br>Om handlingen ingår i direktupphandlingar med<br>ett värde under 100 000 kr: gallras vid avtalets<br>utgång. |
 
 <!-- sida 273 -->
 
@@ -5361,7 +5120,7 @@ Informationshanteringsplan                      Sida 108 av 126
 
 Informationshanteringsplan                      Sida 109 av 126
 
-[Tabell 276-1](handlingar.tabeller/276-1.csv)
+[Tabell 276-278-1](handlingar.tabeller/276-278-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -5381,15 +5140,7 @@ Informationshanteringsplan                      Sida 109 av 126
 |  | Säkerhetsprövning | Säkerhetsskåp | Papper | Bevaras | Avser säkerhetsprövning av SÄPO<br>Försvarssekretess enligt OSL 15:2. |
 | Hantera Styrel | Plan för styrel | Diarium | Digitalt | Bevaras |  |
 |  | Bilagor till plan för<br>styrel | Säkerhetsskåp | Papper | Bevaras | Försvarssekretess enligt OSL 15:2. |
-
-<!-- sida 277 -->
-
-Informationshanteringsplan                      Sida 110 av 126
-
-[Tabell 277-1](handlingar.tabeller/277-1.csv)
-
 | Hantera skyddsobjekt | Beslut om skyddsobjekt | Säkerhetsskåp | Papper | Bevaras | Inkommer från Länsstyrelsen<br>Försvarssekretess enligt OSL 15:2. |
-| --- | --- | --- | --- | --- | --- |
 | Samordna<br>Krisledning vid<br>samhällsstörning | Lägesbilder,<br>dokumentation | Diarium | Digitalt | Bevaras | T.ex. kartor, fotografier på whiteboards,<br>skärmdumpar från IT-system. En lägesbild<br>innehåller vad som har hänt, konsekvenser för<br>verksamheten, åtgärder, resurser och<br>samordningsbehov. |
 |  | Korrespondens | Se anm. | Digitalt | Bevaras | Korrespondens av vikt bevaras i diarium<br>exempelvis viktigt meddelande till allmänheten<br>(VMA), information till allmänheten,<br>myndighetsmeddelande. Korrespondens av mindre<br>vikt gallras vid inaktualitet. |
 |  | Mötesanteckningar | Diarium | Digitalt | Bevaras | Anteckningar vid stabsorientering<br>(krisledningsorganisationens möten). |
@@ -5399,17 +5150,17 @@ Informationshanteringsplan                      Sida 110 av 126
 |  | Kontaktuppgifter | Pärm/samarbetsrum | Digitalt/<br>papper | Se anmärkning | Uppdateras vid behov. Kontaktlistor/telefonlistor<br>över personer som kontaktas vid en<br>samhällsstörning. |
 |  | Logg över aktuella<br>händelser | Pärm/samarbetsrum | Digitalt/<br>papper | Bevaras |  |
 | Svara på tillsyn och<br>rapportering | Uppföljning enligt LEH | Diarium | Digitalt | Bevaras | Årlig uppföljning från Länsstyrelsen kopplat till<br>kommunöverenskommelsen. |
+|  | Uppföljning från civilt<br>försvar | Diarium | Digitalt | Se anmärkning | Årlig uppföljning från Länsstyrelsen kopplat till<br>kommunöverenskommelsen. Svaret till<br>Länsstyrelsen skickas analogt. |
+|  | Uppföljning till civilt<br>försvar | Se anm. | Papper | Se anmärkning | Uppföljning till Länsstyrelsen avhändas. |
+|  | Mottagningsbevis | Säkerhetsskåp | Papper | Bevaras | Avser mottagningsbevis av rekommenderat brev. |
+
+<!-- sida 277 -->
+
+Informationshanteringsplan                      Sida 110 av 126
 
 <!-- sida 278 -->
 
 Informationshanteringsplan                      Sida 111 av 126
-
-[Tabell 278-1](handlingar.tabeller/278-1.csv)
-
-|  | Uppföljning från civilt<br>försvar | Diarium | Digitalt | Se anmärkning | Årlig uppföljning från Länsstyrelsen kopplat till<br>kommunöverenskommelsen. Svaret till<br>Länsstyrelsen skickas analogt. |
-| --- | --- | --- | --- | --- | --- |
-|  | Uppföljning till civilt<br>försvar | Se anm. | Papper | Se anmärkning | Uppföljning till Länsstyrelsen avhändas. |
-|  | Mottagningsbevis | Säkerhetsskåp | Papper | Bevaras | Avser mottagningsbevis av rekommenderat brev. |
 
 <!-- sida 279 -->
 
@@ -5430,7 +5181,7 @@ Informationshanteringsplan                      Sida 112 av 126
 
 Informationshanteringsplan                      Sida 113 av 126
 
-[Tabell 280-1](handlingar.tabeller/280-1.csv)
+[Tabell 280-281-1](handlingar.tabeller/280-281-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -5446,19 +5197,15 @@ Informationshanteringsplan                      Sida 113 av 126
 | Organisera<br>information och<br>marknadsföring | Kungsbacka Språkhandbok<br>och skrivregler | Samarbetsrum | Digitalt | Se anmärkning | Uppdateras vid behov. |
 |  | Bilder, filmer, ljud som<br>utgör personuppgifter | Media flow | Digitalt | Se anmärkning | Ett urval av bilder som speglar<br>verksamheten bevaras i samråd med<br>kommunarkivet.<br>Material som inte bevaras gallras senast<br>efter fem år. Material som endast publiceras<br>i kommunens sociala mediekanaler förvaras<br>inte i Media flow och gallras vid<br>inaktualitet. |
 |  | Bilder, filmer, ljud som inte<br>utgör personuppgifter | Media flow | Digitalt | Se anmärkning | Ett urval av bilder som speglar<br>verksamheten bevaras i samråd med<br>kommunarkivet.<br>Material som inte bevaras gallras vid<br>inaktualitet. |
-
-<!-- sida 281 -->
-
-Informationshanteringsplan                      Sida 114 av 126
-
-[Tabell 281-1](handlingar.tabeller/281-1.csv)
-
 |  | Filmer i bildbank | Media flow | Digitalt | Se anm. | Ett urval av filmer som speglar<br>verksamheten bevaras i samråd med<br>kommunarkivet.<br>Filmer av ringa eller tillfällig karaktär<br>gallras efter fem år.<br>För interna utbildningsfilmer se 2.3.2.2<br>kompetensutveckla |
-| --- | --- | --- | --- | --- | --- |
 |  | Kommunikationstrappan | Samarbetsrum | Digitalt | Bevaras |  |
 |  | Innehållsplan | Samarbetsrum | Digitalt | Vid inaktualitet | Uppdateras kontinuerligt. |
 |  | Kanalplan | Samarbetsrum | Digitalt | Vid inaktualitet | Uppdateras kontinuerligt. |
 |  | Direkt från kommunen – ett<br>nyhetsbrev från Kungsbacka<br>kommun | Apsis | Digitalt | Se anm. | Systemförvaltaren ansvarar för att<br>ögonblicksbilder tas en gång om året i<br>samråd med kommunarkivet. |
+
+<!-- sida 281 -->
+
+Informationshanteringsplan                      Sida 114 av 126
 
 <!-- sida 282 -->
 
@@ -5498,7 +5245,7 @@ Informationshanteringsplan                      Sida 116 av 126
 
 Informationshanteringsplan                      Sida 117 av 126
 
-[Tabell 284-1](handlingar.tabeller/284-1.csv)
+[Tabell 284-285-1](handlingar.tabeller/284-285-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -5522,19 +5269,15 @@ Informationshanteringsplan                      Sida 117 av 126
 |  | Informationsmaterial | Samarbetsrum | Digital | 2 år | Externt material, inkommer från SCB. |
 | Motta resultat av<br>medborgarundersökning | Underlag | Diarium | Digital | Bevaras | Statistiskt underlag. Inkommer från SCB. |
 |  | SCB:s<br>medborgarundersökning | Diarium | Digital | Bevaras | Avser den rapport som resultatet utmynnar i.<br>Inkommer från SCB. |
-
-<!-- sida 285 -->
-
-Informationshanteringsplan                      Sida 118 av 126
-
-[Tabell 285-1](handlingar.tabeller/285-1.csv)
-
 |  | för Kungsbacka<br>kommun |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Tabell- och<br>diagrambilaga | Diarium | Digital | Bevaras | Inkommer från SCB. |
 | Presentera resultat av<br>medborgarundersökning | Rapport | Diarium | Digital | Bevaras | Rapport skapad av Kungsbacka kommun utifrån<br>det mottagna resultatet från SCB. |
 |  | Pressmeddelande | Samarbetsrum | Digitalt | 2 år | Interna och externa pressmeddelanden. |
 |  | Informationsmaterial | Samarbetsrum | Digitalt | 2 år | Informationsmaterial skapat av Kungsbacka<br>kommun. |
+
+<!-- sida 285 -->
+
+Informationshanteringsplan                      Sida 118 av 126
 
 <!-- sida 286 -->
 
@@ -5676,7 +5419,7 @@ Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 Informationshanteringsplan                      Sida 1 av 127
 
-[Tabell 294-1](handlingar.tabeller/294-1.csv)
+[Tabell 294-295-1](handlingar.tabeller/294-295-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -5696,16 +5439,12 @@ Informationshanteringsplan                      Sida 1 av 127
 |  | Rutin för samråd av<br>informationshanteringsplan | Samarbetsrum | Digitalt | Vid inaktualitet |  |
 |  | Anteckningar från<br>arkivmyndighetens<br>veckomöten | OneNote | Digitalt | 2 år |  |
 |  | Mall | Samarbetsrum | Digitalt | Vid inaktualitet | Exempelvis mallar för<br>informationshanteringsplan, |
+|  |  |  |  |  | klassificeringsstruktur och<br>informationsbeskrivning. |
+|  | Instruktion | Samarbetsrum | Digitalt | Vid inaktualitet | Exempelvis instruktion för<br>upprättande och underhåll<br>av<br>informationshanteringsplan. |
 
 <!-- sida 295 -->
 
 Informationshanteringsplan                      Sida 2 av 127
-
-[Tabell 295-1](handlingar.tabeller/295-1.csv)
-
-|  |  |  |  |  | klassificeringsstruktur och<br>informationsbeskrivning. |
-| --- | --- | --- | --- | --- | --- |
-|  | Instruktion | Samarbetsrum | Digitalt | Vid inaktualitet | Exempelvis instruktion för<br>upprättande och underhåll<br>av<br>informationshanteringsplan. |
 
 <!-- sida 296 -->
 
@@ -5854,7 +5593,7 @@ Informationshanteringsplan                      Sida 10 av 127
 
 Informationshanteringsplan                      Sida 11 av 127
 
-[Tabell 304-1](handlingar.tabeller/304-1.csv)
+[Tabell 304-305-1](handlingar.tabeller/304-305-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -5876,23 +5615,19 @@ Informationshanteringsplan                      Sida 11 av 127
 |  | Valideringskvitto | Outlook | Digitalt | Vid inaktualitet | Validerar metadatafilen. |
 |  | Konverteringskvitto | Outlook | Digitalt | Vid inaktualitet | Visar antal godkända och ej godkända<br>arkivobjekt. |
 |  | Konverteringsrapport | Outlook | Digitalt | Vid inaktualitet | Visar antal lyckade, ej genomförda och<br>misslyckade konverteringar. |
+|  | ArkiveringsrapportArkiveringskvitto | Outlook | Digitalt | Vid inaktualitet | Visar antal godkända och ej godkända<br>arkivobjekt. |
+|  | LeveransspecifikationLeveransdokume<br>ntation | Diarium | Digitalt | Bevaras | Handläggs i samarbetsrum. Vid<br>projektavslut diarieförs handlingen<br>tillsammans med ärendet. |
+| Godkänna<br>leverans | Leveransgodkännande | Diarium | Digitalt | Bevaras | Leveransgodkännande genomförs av<br>förvaltningen. |
 
 <!-- sida 305 -->
 
 Informationshanteringsplan                      Sida 12 av 127
 
-[Tabell 305-1](handlingar.tabeller/305-1.csv)
-
-|  | ArkiveringsrapportArkiveringskvitto | Outlook | Digitalt | Vid inaktualitet | Visar antal godkända och ej godkända<br>arkivobjekt. |
-| --- | --- | --- | --- | --- | --- |
-|  | LeveransspecifikationLeveransdokume<br>ntation | Diarium | Digitalt | Bevaras | Handläggs i samarbetsrum. Vid<br>projektavslut diarieförs handlingen<br>tillsammans med ärendet. |
-| Godkänna<br>leverans | Leveransgodkännande | Diarium | Digitalt | Bevaras | Leveransgodkännande genomförs av<br>förvaltningen. |
-
 <!-- sida 306 -->
 
 Informationshanteringsplan                      Sida 13 av 127
 
-[Tabell 306-1](handlingar.tabeller/306-1.csv)
+[Tabell 306-307-1](handlingar.tabeller/306-307-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -5914,17 +5649,13 @@ Informationshanteringsplan                      Sida 13 av 127
 |  | Valideringskvitto | Outlook | Digitalt | Vid inaktualitet | Validerar metadatafilen. |
 |  | Konverteringskvitto | Outlook | Digitalt | Vid inaktualitet | Visar antal godkända och ej godkända<br>arkivobjekt. |
 |  | Konverteringsrapport | Outlook | Digitalt | Vid inaktualitet | Visar antal lyckade, ej genomförda och<br>misslyckade konverteringar. |
+|  | ArkiveringsrapportArkiveringskvitto | Outlook | Digitalt | Vid inaktualitet | Visar antal godkända och ej godkända<br>arkivobjekt. |
+|  | LeveransspecifikationLeveransdokume<br>ntation | Diarium | Digitalt | Bevaras | Handläggs i samarbetsrum. Vid<br>projektavslut diarieförs handlingen<br>tillsammans med ärendet. |
+| Godkänna<br>leverans | Leveransgodkännande | Diarium | Digital | Bevaras | Leveransgodkännande genomförs av<br>kommunarkivet. |
 
 <!-- sida 307 -->
 
 Informationshanteringsplan                      Sida 14 av 127
-
-[Tabell 307-1](handlingar.tabeller/307-1.csv)
-
-|  | ArkiveringsrapportArkiveringskvitto | Outlook | Digitalt | Vid inaktualitet | Visar antal godkända och ej godkända<br>arkivobjekt. |
-| --- | --- | --- | --- | --- | --- |
-|  | LeveransspecifikationLeveransdokume<br>ntation | Diarium | Digitalt | Bevaras | Handläggs i samarbetsrum. Vid<br>projektavslut diarieförs handlingen<br>tillsammans med ärendet. |
-| Godkänna<br>leverans | Leveransgodkännande | Diarium | Digital | Bevaras | Leveransgodkännande genomförs av<br>kommunarkivet. |
 
 <!-- sida 308 -->
 
@@ -6036,7 +5767,7 @@ Informationshanteringsplan                      Sida 20 av 127
 
 Informationshanteringsplan                      Sida 21 av 127
 
-[Tabell 314-1](handlingar.tabeller/314-1.csv)
+[Tabell 314-316-1](handlingar.tabeller/314-316-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -6052,15 +5783,7 @@ Informationshanteringsplan                      Sida 21 av 127
 | Dokumentera | Teknisk dokumentation | Diarium | Digitalt | Bevaras | Beskrivning av komponenter i<br>verksamhetssystem, exempelvis<br>gränssnitt, databas, programvara och<br>övriga kringsystem.<br>Dokumentation vänder sig framför allt<br>till teknisk systemförvaltare. |
 |  | Systemdokumentation | Insidan | Digitalt | Se anmärkning | Gallras efter att verksamhetssystemet<br>avvecklats.<br>Beskriver processer, gränssnitt och<br>funktioner vid förvaltning av system.<br>Dokumentationen vänder sig framför<br>allt till systemförvaltare och användare. |
 |  | Beslut | Diarium | Digitalt | Bevaras | Beslut av betydelse. Exempelvis beslut<br>gällande utveckling och inköp av ny<br>funktionalitet. |
-
-<!-- sida 315 -->
-
-Informationshanteringsplan                      Sida 22 av 127
-
-[Tabell 315-1](handlingar.tabeller/315-1.csv)
-
 |  | Mötesanteckning | Insidan | Digitalt | Vid inaktualitet | Exempelvis vid utvecklingsråd,<br>användarforum och leverantörsmöten. |
-| --- | --- | --- | --- | --- | --- |
 |  | Korrespondens | Outlook | Digitalt | Vid inaktualitet |  |
 | Dokumentera | Uppföljningsrapport | Diarium | Digitalt | 10 år |  |
 |  | Presentation | Insidan | Digitalt | Vid inaktualitet | Exempelvis presentationer vid<br>användarträffar, ledningsgruppsmöten<br>och leverantörsmöten. |
@@ -6068,19 +5791,19 @@ Informationshanteringsplan                      Sida 22 av 127
 |  | Handlingsplan | Diarium | Digital | Bevaras | Kan även benämnas åtgärdslista eller<br>kontinuitetsplan. Exempelvis åtgärder<br>som ska följas upp efter en<br>informationsklassning av systemet. |
 | Dokumentera<br>händelser | Händelselogg | Respektive<br>verksamhetssystem | Digitalt | Vid inaktualitet | Information som användare har åtkomst<br>till och som visar händelser som<br>användare genomfört. |
 |  | Integritetslogg | Respektive<br>verksamhetssystem | Digitalt | 10 år | Även kallad användarlogg eller<br>granskningslogg. Vid systembyte och<br>eventuell volymstyrd gallring ska<br>informationen plockas ut från<br>verksamhetssystemet och förvaras<br>digitalt.<br>Logg som dokumenterar tillgång till<br>information (till exempel databasfrågor,<br>anropens ursprung/plats, ansvarig<br>användare för operationer, datum,<br>tidpunkt, berörda tabeller och fält) och<br>som kan behövas i revisioner, ansvars-<br>/disciplinärenden, skadestånd, brottmål<br>till exempel dataintrång med mera.<br>Om loggen vid kontroll leder till åtgärd<br>ska den diarieföras och bevaras. |
-
-<!-- sida 316 -->
-
-Informationshanteringsplan                      Sida 23 av 127
-
-[Tabell 316-1](handlingar.tabeller/316-1.csv)
-
 | Dokumentera<br>händelser | Systemlogg | Respektive<br>verksamhetssystem | Digitalt | Vid inaktualitet | Används främst för felsökning och för<br>att få en teknisk överblick av<br>verksamhetssystemets processer och<br>operationer. |
-| --- | --- | --- | --- | --- | --- |
 |  | Rapport om loggranskning | Samarbetsrum | Digitalt | 10 år | Med tillhörande underlag.<br>Om loggen vid kontroll leder till åtgärd<br>ska den diarieföras och bevaras. |
 | Systematisera rutiner | Manual | Insidan | Digitalt | Vid inaktualitet | Kan även benämnas lathund. |
 |  | Utbildningsfilmer | KLOK | Digitalt | Vid inaktualitet |  |
 | Administrera<br>behörigheter | Behörighetsbeställning | Artvise | Digitalt | 18 månader | Tilläg, ändringar och avslut av<br>behörigheter. |
+
+<!-- sida 315 -->
+
+Informationshanteringsplan                      Sida 22 av 127
+
+<!-- sida 316 -->
+
+Informationshanteringsplan                      Sida 23 av 127
 
 <!-- sida 317 -->
 
@@ -6120,7 +5843,7 @@ Informationshanteringsplan                      Sida 25 av 127
 
 Informationshanteringsplan                      Sida 26 av 127
 
-[Tabell 319-1](handlingar.tabeller/319-1.csv)
+[Tabell 319-320-1](handlingar.tabeller/319-320-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -6136,15 +5859,7 @@ Informationshanteringsplan                      Sida 26 av 127
 |  | Windowslogg | C: | Digitalt | Volymstyrd<br>gallring | Operativsystemets händelseloggar som sparas<br>lokalt på datorn. |
 |  | Eventloggar ifrån<br>samtliga servrar | Log360 | Digitalt | 31 dagar | Används för säkerhetsövervakning |
 |  | Profilinformation,<br>Remote Desktop | Central lagring på<br>filserver | Digitalt | Vid inaktualitet |  |
-
-<!-- sida 320 -->
-
-Informationshanteringsplan                      Sida 27 av 127
-
-[Tabell 320-1](handlingar.tabeller/320-1.csv)
-
 | Hantera elektroniska<br>spår centralt på<br>server | Nätverksinfo - logg,<br>personuppgifter | ISE, Brandvägg,<br>Cisco Catalyst<br>CenterDigitalt<br>Centers egna<br>system och servrar | DigitaltDigital<br>t | 60 dagarSe anm. | ISE-loggarGallras efter högst 60 dagar. |
-| --- | --- | --- | --- | --- | --- |
 | Hantera<br>meddelandehanterin<br>g och<br>kommunikation<br>centralt på server | E-post, som lagts i<br>Outlooks<br>papperskorg | Microsoft 365 | Digitalt | Se anm. | Gallras efter 104 dagar. Forcerad manuell gallring<br>kan genomföras när som helst av användaren. |
 |  | E-postlogg | Microsoft 365 | Digitalt | 90 dagar |  |
 |  | Chattmeddelande | Microsoft 365 | Digitalt | 90 dagar |  |
@@ -6152,6 +5867,10 @@ Informationshanteringsplan                      Sida 27 av 127
 | Hantera telefoni och<br>röstmeddelande<br>centralt på server | Förteckning över<br>inkomna/utgående<br>samtal | Telenor | Digitalt | Vid inaktualitet | Även röstmeddelanden. |
 |  | Förteckning över<br>telefonanknytningar | Telenor | Digitalt | Vid inaktualitet |  |
 |  | Automatiskt<br>inspelade<br>telefonsamtal | Telenor | Digitalt | 14 dagar | Exempelvis inspelade samtal från Kungsbacka<br>direkt. |
+
+<!-- sida 320 -->
+
+Informationshanteringsplan                      Sida 27 av 127
 
 <!-- sida 321 -->
 
@@ -6175,7 +5894,7 @@ Informationshanteringsplan                      Sida 28 av 127
 
 Informationshanteringsplan                      Sida 29 av 127
 
-[Tabell 322-1](handlingar.tabeller/322-1.csv)
+[Tabell 322-323-1](handlingar.tabeller/322-323-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -6196,17 +5915,13 @@ Informationshanteringsplan                      Sida 29 av 127
 |  | Rekryteringsordning | Diarium | Digitalt | Bevaras |  |
 | Styra | Ledarskapskriterier | Diarium | Digitalt | Bevaras |  |
 |  | Regler för<br>tjänsteresor | Diarium | Digitalt | Bevaras |  |
+|  | Riktlinjer för<br>uppföljningssamtal | Diarium | Digitalt | Bevaras |  |
+|  | Arbetsplatskultur | Diarium | Digitalt | Bevaras |  |
+| Organisera | Beslut om<br>ställföreträdande<br>chef | Diarium | Digitalt | Bevaras |  |
 
 <!-- sida 323 -->
 
 Informationshanteringsplan                      Sida 30 av 127
-
-[Tabell 323-1](handlingar.tabeller/323-1.csv)
-
-|  | Riktlinjer för<br>uppföljningssamtal | Diarium | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Arbetsplatskultur | Diarium | Digitalt | Bevaras |  |
-| Organisera | Beslut om<br>ställföreträdande<br>chef | Diarium | Digitalt | Bevaras |  |
 
 <!-- sida 324 -->
 
@@ -6244,7 +5959,7 @@ Informationshanteringsplan                      Sida 32 av 127
 
 Informationshanteringsplan                      Sida 33 av 127
 
-[Tabell 326-1](handlingar.tabeller/326-1.csv)
+[Tabell 326-327-1](handlingar.tabeller/326-327-1.csv)
 
 | Genomföra<br>samverkanförhandlin<br>g | Begäran om<br>förhandling/överläggnin<br>g | Se anmärkning | Digitalt | Vid inaktualitet | Förvaras i samarbetsrum. För<br>begäran rörande misskötsamhet, se<br>process 2.3.8.2 Hantering av<br>disciplinåtgärder. |
 | --- | --- | --- | --- | --- | --- |
@@ -6254,18 +5969,14 @@ Informationshanteringsplan                      Sida 33 av 127
 |  | Förhandlingsprotokoll<br>för lokala kollektivavtal | Kommunledningskontorets<br>närarkivDiarium | Digitalt | Bevaras | Avser bl.a.bland annat protokoll,<br>överläggningar central-/<br>förvaltningsnivå.<br>Handlingar som skapas i processen<br>fram till protokoll ska ligga i<br>Ciceron.<br>Kopia läggs i samarbetsrummet ”HR<br>Kungsbacka kommun” under ”Styrda<br>dokument” |
 |  | Handlingsplan för<br>lönekartläggning | Hos<br>förhandlingschefSamarbetsru<br>m för HR-KLK | Digitalt | Bevaras |  |
 |  | Lokalat kollektivavtal | Vägmästaren, närarkiv<br>2507Diarium | PapperDigital<br>t | Bevaras | Diarieförs. Publiceras på Insidan. |
+| Förbundsvisa<br>förhandlingar/<br>överläggningar | Kollektivavtal kopplat<br>till HÖKLOK kopplat<br>till centrala<br>kollektivavtal | Vägmästaren, närarkiv<br>2507Diarium | PapperDigital<br>t | Bevaras | Diarieförs. Publiceras på<br>Insidan.Exempelvis LOK till HÖK. |
+|  | Facklig tid, rapporter<br>och sammanställningar | HR-portalenPersonec | Digitalt | 2 år | Bokförs på aktivitet 925. |
+| Anmäla fackliga<br>företrädare | Anmälan om facklig<br>företrädare | Samarbetsrum ”Facklig<br>företrädare anmälan” | Digitalt | Vid inaktualitet |  |
+|  | Underlag anmälan<br>facklig förtroendevald | Samarbetsrum ”Facklig<br>företrädare anmälan” | Digitalt | Vid inaktualitet | Skickas av fack till funktionsbrevlåda<br>fackligtfortroendevald@kungsbacka.<br>se |
 
 <!-- sida 327 -->
 
 Informationshanteringsplan                      Sida 34 av 127
-
-[Tabell 327-1](handlingar.tabeller/327-1.csv)
-
-| Förbundsvisa<br>förhandlingar/<br>överläggningar | Kollektivavtal kopplat<br>till HÖKLOK kopplat<br>till centrala<br>kollektivavtal | Vägmästaren, närarkiv<br>2507Diarium | PapperDigital<br>t | Bevaras | Diarieförs. Publiceras på<br>Insidan.Exempelvis LOK till HÖK. |
-| --- | --- | --- | --- | --- | --- |
-|  | Facklig tid, rapporter<br>och sammanställningar | HR-portalenPersonec | Digitalt | 2 år | Bokförs på aktivitet 925. |
-| Anmäla fackliga<br>företrädare | Anmälan om facklig<br>företrädare | Samarbetsrum ”Facklig<br>företrädare anmälan” | Digitalt | Vid inaktualitet |  |
-|  | Underlag anmälan<br>facklig förtroendevald | Samarbetsrum ”Facklig<br>företrädare anmälan” | Digitalt | Vid inaktualitet | Skickas av fack till funktionsbrevlåda<br>fackligtfortroendevald@kungsbacka.<br>se |
 
 <!-- sida 328 -->
 
@@ -6327,7 +6038,7 @@ Informationshanteringsplan                      Sida 37 av 127
 
 Informationshanteringsplan                      Sida 38 av 127
 
-[Tabell 331-1](handlingar.tabeller/331-1.csv)
+[Tabell 331-334-1](handlingar.tabeller/331-334-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -6346,15 +6057,7 @@ Informationshanteringsplan                      Sida 38 av 127
 |  | Förskollärarlegitimation | Se anmärkning | DigitaltSe<br>anmärkning | Se anmärkning | Erhållen tjänst – bevaras i personakt.<br>Ej erhållen tjänst – gallras efter 2 år i Varbi. |
 |  | Arbetsgivarintyg | Se anmärkning | DigitaltSe<br>anmärkning | Se anmärkning | Även kallat tjänstgöringsintyg.<br>Erhållen tjänst – bevaras i personakt.<br>Ej erhållen tjänst – gallras efter 2 år i Varbi. |
 |  | Intyg på<br>behörighetsgivande<br>utbildning | Se anmärkning | DigitaltSe<br>anmärkning | Se anmärkning | Innefattar studieintyg, diplom, kursintyg<br>mm.<br>Erhållen tjänst – bevaras i personakt.<br>Ej erhållen tjänst – gallras efter 2 år i Varbi. |
-
-<!-- sida 332 -->
-
-Informationshanteringsplan                      Sida 39 av 127
-
-[Tabell 332-1](handlingar.tabeller/332-1.csv)
-
 |  | Sökandeförteckning | Varbi | Digitalt | 2 år |  |
-| --- | --- | --- | --- | --- | --- |
 | Göra urval | Referenstagning | VarbiRefapp | Digitalt | 2 år | Genom Refapp. |
 |  | Intervjuanteckningar | Varbi | Digitalt | 2 år |  |
 |  | Språkbedömning | Varbi | Digitalt | 2 år |  |
@@ -6364,15 +6067,7 @@ Informationshanteringsplan                      Sida 39 av 127
 | Hantera utdrag | Utdrag ur<br>belastningsregistret | PersonaktPersonalarkiv | Papper | Se anmärkning | För anställda inom HVB-hem: Utdrag eller<br>kopia gallras efter två år (SFS 2007:171).<br>För anställda som arbetar med barn med<br>funktionsnedsättning (LSS): utdrag eller<br>kopia gallras efter två år. (SFS 1993:387).<br>För anställda inom skola/barnomsorg:<br>Notering om att registerutdrag visats upp.<br>Kopia på registerutdrag får inte tas. (SFS<br>2010:800).<br>För anställda inom övrigt arbete med barn:<br>Notering om att registerutdraget visats upp.<br>Kopia på registerutdrag får inte tas. (SFS<br>2013:852). |
 |  | Utdrag ur<br>misstankeregistret | Personakt | Papper | Se anmärkning | Vi behöver kunna visa att och när vi sett<br>utdrag och godkänt det. Utdrag återlämnas<br>eller gallras. |
 | Erbjudande om tjänst | Säkerhetsprövning | Säkerhetsskåp hos<br>säkerhetsskyddschef | Papper | Se anmärkning | Exempelvis samtycke till och framställan om<br>registerkontroll, särskild personutredning och<br>sammanställning/sändlista Säpo. Förvaras i<br>slutet kuvert som endast får öppnas av<br>behörig.<br>Vid erhållen tjänst bevaras handlingen. |
-
-<!-- sida 333 -->
-
-Informationshanteringsplan                      Sida 40 av 127
-
-[Tabell 333-1](handlingar.tabeller/333-1.csv)
-
 |  |  |  |  |  | Vid ej erhållen tjänst gallras den omgående<br>efter besked om att tjänst ej erhållits. |
-| --- | --- | --- | --- | --- | --- |
 | Göra urval<br>Anställa | MBL-protokoll vid<br>chefstillsättning | Respektive förvaltnings<br>närarkivDiarium | PapperDigitalt | Bevaras | Vid chefstillsättning.<br>Kopia publiceras på Insidan under<br>”Samverkan”. |
 |  | Tillsättningsbeslut | Varbi | Digitalt | Bevaras | Meddelas på FSG, CSG, LSG i de flesta fall<br>för chefer. |
 |  | Anställningsavtal | Se anmärkningPersonakt | Se<br>anmärkningDigitalt | Bevaras | Sedan december 2018 är anställningsavtalen<br>digitala med elektronisk underskrift och<br>sedan hösten 2021 med tillhörande<br>ärendebeskrivning. Dessa fFörvaras digitalt i<br>digital personakt. Inklusive bilagor,<br>exempelvis fullmakt för postöppning.<br>Fåtal undantag, exempelvis anställning av<br>direktör och anställning för feriearbetare<br>förvaras på papper i personakt. |
@@ -6381,16 +6076,20 @@ Informationshanteringsplan                      Sida 40 av 127
 |  | Sekretessförbindelse | Personakt | Se<br>anmärkningPapper | Bevaras | En stor del av de anställda skriver under<br>detta som en bilaga till det digitala<br>anställningsavtalet. En fristående<br>pappershandling används av bland annat<br>vikariecenter.vissa verksamheter. |
 |  | Anmälningsplikt enligt<br>Lex Sarah och Lex<br>Maria | Personakt | Se<br>anmärkningPapper | Bevaras | En stor del av de anställda skriver under<br>detta som en bilaga till det digitala<br>anställningsavtalet. En fristående<br>pappershandling används av bland annat<br>vikariecenter.vissa verksamheter. |
 |  | Anmälan LAS-<br>företräde, tidsbegränsad<br>anställning | Winlas | Digitalt | Vid inaktualitet | Tidsbegränsad anställning, företrädesrätt vid<br>uppsägning arbetsbrist. |
+|  | Erbjudande om<br>anställning,<br>företrädesrätt | Personakt | PapperSe<br>anmärkning | Se anmärkning | Bevaras endast om medarbetaren tackar nej.<br>I övriga fall gallras handlingen och<br>anställningen dokumenteras i<br>anställningsavtal. Underskrift på papper<br>sparas i fysisk personakt, digitalt<br>underskriven sparas i digital personakt. |
+|  | Uppgifter om anhöriga | HR-portalenSe<br>anmärkning | Digitalt | Vid inaktualitet | Personec används av anställda och chefer,<br>Medvind används av Vikariecenter. |
+
+<!-- sida 332 -->
+
+Informationshanteringsplan                      Sida 39 av 127
+
+<!-- sida 333 -->
+
+Informationshanteringsplan                      Sida 40 av 127
 
 <!-- sida 334 -->
 
 Informationshanteringsplan                      Sida 41 av 127
-
-[Tabell 334-1](handlingar.tabeller/334-1.csv)
-
-|  | Erbjudande om<br>anställning,<br>företrädesrätt | Personakt | PapperSe<br>anmärkning | Se anmärkning | Bevaras endast om medarbetaren tackar nej.<br>I övriga fall gallras handlingen och<br>anställningen dokumenteras i<br>anställningsavtal. Underskrift på papper<br>sparas i fysisk personakt, digitalt<br>underskriven sparas i digital personakt. |
-| --- | --- | --- | --- | --- | --- |
-|  | Uppgifter om anhöriga | HR-portalenSe<br>anmärkning | Digitalt | Vid inaktualitet | Personec används av anställda och chefer,<br>Medvind används av Vikariecenter. |
 
 <!-- sida 335 -->
 
@@ -6633,7 +6332,7 @@ Informationshanteringsplan                      Sida 54 av 127
 
 Informationshanteringsplan                      Sida 55 av 127
 
-[Tabell 348-1](handlingar.tabeller/348-1.csv)
+[Tabell 348-349-1](handlingar.tabeller/348-349-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -6650,16 +6349,12 @@ Informationshanteringsplan                      Sida 55 av 127
 |  | Dokumentation av<br>allvarligt tillbud | Diarium | Digitalt | 10 år |  |
 |  | Tillsynsmeddelande<br>från<br>Arbetsmiljöverket | Diarium | Digitalt | Bevaras |  |
 |  | Korrespondens | Diarium | Digitalt | Se anmärkning | Korrespondens av betydelse diarieförs och bevaras.<br>I korrespondens av betydelse ingår exempelvis<br>begäran till Arbetsmiljöverket om förlängd<br>svarsfrist samt svar från Arbetsmiljöverket om att<br>förlängd svarstid beviljas. |
+|  | Avslutsbrev från<br>Arbetsmiljöverket | Diarium | Digitalt | Bevaras |  |
+| Sammanställa tillbud | Sammanställning<br>av olycksfall,<br>ohälsa och tillbud | Diarium | Digitalt | Bevaras | Minst en gång per år ska en sammanställning av<br>olycksfall, ohälsa och tillbud redovisas i<br>samverkansgrupp och nämnd, enligt organisatorisk<br>samverkansstruktur. Sammanställningen används<br>som underlag i det förebyggande arbetsmiljöarbetet<br>på verksamhetsnivå och slutligen förvaltningsnivå. |
 
 <!-- sida 349 -->
 
 Informationshanteringsplan                      Sida 56 av 127
-
-[Tabell 349-1](handlingar.tabeller/349-1.csv)
-
-|  | Avslutsbrev från<br>Arbetsmiljöverket | Diarium | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
-| Sammanställa tillbud | Sammanställning<br>av olycksfall,<br>ohälsa och tillbud | Diarium | Digitalt | Bevaras | Minst en gång per år ska en sammanställning av<br>olycksfall, ohälsa och tillbud redovisas i<br>samverkansgrupp och nämnd, enligt organisatorisk<br>samverkansstruktur. Sammanställningen används<br>som underlag i det förebyggande arbetsmiljöarbetet<br>på verksamhetsnivå och slutligen förvaltningsnivå. |
 
 <!-- sida 350 -->
 
@@ -6696,7 +6391,7 @@ Informationshanteringsplan                      Sida 58 av 127
 
 Informationshanteringsplan                      Sida 59 av 127
 
-[Tabell 352-1](handlingar.tabeller/352-1.csv)
+[Tabell 352-353-1](handlingar.tabeller/352-353-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -6713,16 +6408,12 @@ Informationshanteringsplan                      Sida 59 av 127
 | Upprätta handlingsplan | Plan för återgång i arbete | RehabiliteringssystemAdato | Digitalt | Bevaras | Tidigare även kallad handlingsplan,<br>rehabiliteringsplan och rehabplan. |
 |  | Läkarintyg | RehabiliteringssystemSe<br>anmärkning | Digitalt | Se anmärkning. | Läkarintyg (inklusive vårdintyg) där<br>arbetslivsinriktad rehabilitering är<br>aktuell bevaras i Adato. Övriga<br>gallras omgående. Eventuella papper<br>skannas och gallras. |
 |  | Hälsoavstämning | RehabiliteringssystemAdato | Digitalt | Bevaras |  |
+| Avsluta rehabilitering | Mötesanteckningar,<br>rehabiliteringsmöten | RehabiliteringssystemAdato | Digitalt | Bevaras | T.ex. vid rehabiliteringsavslut eller<br>alkohol- och drogrelaterade ärenden |
+|  | Överenskommelser,<br>arbetsgivare-arbetstagare | RehabiliteringssystemAdato<br>/ Personakt | Digitalt/<br>papper | Bevaras | T.ex. i samband med behandling/<br>handlingsprogram i alkohol- och<br>drogärenden. Eventuella<br>underskrivna pappershandlingar<br>läggs i personakt, annars digitalt i<br>system. |
 
 <!-- sida 353 -->
 
 Informationshanteringsplan                      Sida 60 av 127
-
-[Tabell 353-1](handlingar.tabeller/353-1.csv)
-
-| Avsluta rehabilitering | Mötesanteckningar,<br>rehabiliteringsmöten | RehabiliteringssystemAdato | Digitalt | Bevaras | T.ex. vid rehabiliteringsavslut eller<br>alkohol- och drogrelaterade ärenden |
-| --- | --- | --- | --- | --- | --- |
-|  | Överenskommelser,<br>arbetsgivare-arbetstagare | RehabiliteringssystemAdato<br>/ Personakt | Digitalt/<br>papper | Bevaras | T.ex. i samband med behandling/<br>handlingsprogram i alkohol- och<br>drogärenden. Eventuella<br>underskrivna pappershandlingar<br>läggs i personakt, annars digitalt i<br>system. |
 
 <!-- sida 354 -->
 
@@ -6746,7 +6437,7 @@ Informationshanteringsplan                      Sida 61 av 127
 
 Informationshanteringsplan                      Sida 62 av 127
 
-[Tabell 355-1](handlingar.tabeller/355-1.csv)
+[Tabell 355-357-1](handlingar.tabeller/355-357-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -6767,15 +6458,7 @@ Informationshanteringsplan                      Sida 62 av 127
 |  | Anmälan av ändring i kodsträng | Artvise | Digitalt | 2 år |  |
 |  | Anmälan av ändring i lön | Artvise | Digitalt | 7 år |  |
 |  | Ansökan och överenskommelse om<br>löneväxling | Artvise | Digitalt | 7 år | Själva ansökan om<br>löneväxling görs direkt av<br>medarbetaren till<br>försäkringsbolaget. En kopia<br>skickas till Lönecenter. |
-
-<!-- sida 356 -->
-
-Informationshanteringsplan                      Sida 63 av 127
-
-[Tabell 356-1](handlingar.tabeller/356-1.csv)
-
 |  | Begäran om intyg | Artvise | Digitalt | 2 år | Exempelvis anställningsbevis<br>eller inkomstuppgift. |
-| --- | --- | --- | --- | --- | --- |
 |  | Intyg | Samarbetsrum | Digitalt | 2 år | Exempelvis anställningsbevis<br>eller inkomstuppgift. |
 |  | Förtroendemannaredovisning<br>Underlag för ersättning till<br>förtroendevalda för ordinarie<br>sammanträden | Samarbetsrum | Digitalt | 7 år | Underlag för beräkning av<br>arvode för valförrättare,<br>uppdragstagare,<br>förtroendevalda och god man.<br>Exempelvis: närvarolistor,<br>sSammanträden och,<br>förrättningar.,<br>begravningsarvoden. |
 |  | Underlag för ersättning till<br>förtroendevalda utöver ordinarie<br>sammanträden | Artvise | Digitalt | 7 år | Exempelvis kursprogram,<br>kilometerersättning,<br>inkomstbortfall och<br>barnpassning. |
@@ -6786,15 +6469,7 @@ Informationshanteringsplan                      Sida 63 av 127
 |  | Meddelande om löneavdrag | Artvise | Digitalt | 7 år | Kallat intresseavdrag.<br>Exempelvis för konstförening<br>och kostavdrag. |
 |  | Facklig tid, rapporter och<br>sammanställningar | Artvise | Digitalt | 7 år |  |
 |  | Beslut om högriskskydd för<br>arbetstagare med omfattande<br>korttidsfrånvaro | NärarkivArtvise | PapperDigital<br>t | 7 år | Utifrån beslut begär<br>lönekonsult ersättning från<br>Försäkringskassan. I dagsläget |
-
-<!-- sida 357 -->
-
-Informationshanteringsplan                      Sida 64 av 127
-
-[Tabell 357-1](handlingar.tabeller/357-1.csv)
-
 |  |  |  |  |  | sköter Förvaltningen för<br>Förskola & Grundskola och<br>Förvaltningen för Gymnasium<br>& Arbetsmarknad sina egna. |
-| --- | --- | --- | --- | --- | --- |
 |  | Överenskommelse om lön | Personakt | Papper | Bevaras |  |
 |  | Ansökan och beslut om att gå ner i<br>tjänst med bibehållen tjänstepension | Artvise | Digitalt | 7 år |  |
 |  | Ansökan om lönebidrag | Hos respektive<br>chefPersonalarkiv | Papper | Se anmärkning. | Gallras när anställning upphör.<br>Exempelvis introduktionsjobb,<br>nystartsjobb, etableringsjobb<br>och lönebidrag. |
@@ -6809,6 +6484,14 @@ Informationshanteringsplan                      Sida 64 av 127
 |  | Utbetalningsorder | Samarbetsrum | Digitalt | 7 år |  |
 | Löneredovisning | Redovisning av preliminärskatt och<br>arbetsgivaravgift | SamarbetsrumNärarkiv<br>Lönecenter | DigitaltPappe<br>r | 7 år |  |
 |  | Rättning av kontrolluppgifter | Närarkiv<br>LönecenterSamarbetsru<br>m | PapperDigital<br>t | 7 år |  |
+
+<!-- sida 356 -->
+
+Informationshanteringsplan                      Sida 63 av 127
+
+<!-- sida 357 -->
+
+Informationshanteringsplan                      Sida 64 av 127
 
 <!-- sida 358 -->
 
@@ -6845,7 +6528,7 @@ Informationshanteringsplan                      Sida 66 av 127
 
 Informationshanteringsplan                      Sida 67 av 127
 
-[Tabell 360-1](handlingar.tabeller/360-1.csv)
+[Tabell 360-361-1](handlingar.tabeller/360-361-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -6867,16 +6550,12 @@ Informationshanteringsplan                      Sida 67 av 127
 | Besluta | Beslut om avstängning | PersonaktNovi | PapperDigitalt | Bevaras |  |
 |  | Beslut om skriftlig<br>varning med<br>underskrift | Personakt | Papper | Bevaras | 2 exemplar upprättas. Arbetsgivarens exemplar<br>undertecknas av behörig företrädare och av<br>medarbetaren när den mottages alternativt<br>bevittnas. |
 |  | Underrättelse om<br>avstämning | Personakt | Papper | Bevaras | Skickas till fackförbund. |
+|  | Överläggningsprotokol<br>l | PersonaktNovi | PapperDigitalt | Bevaras | Avseende varning och avstängning. Upprättas i<br>två exemplar med underskrifter, ett till<br>fackförbund och ett till arbetsgivare att spara. |
+|  | Polisanmälan | PersonaktNovi | PapperDigitalt | Bevaras | För förseelse i arbetet. |
 
 <!-- sida 361 -->
 
 Informationshanteringsplan                      Sida 68 av 127
-
-[Tabell 361-1](handlingar.tabeller/361-1.csv)
-
-|  | Överläggningsprotokol<br>l | PersonaktNovi | PapperDigitalt | Bevaras | Avseende varning och avstängning. Upprättas i<br>två exemplar med underskrifter, ett till<br>fackförbund och ett till arbetsgivare att spara. |
-| --- | --- | --- | --- | --- | --- |
-|  | Polisanmälan | PersonaktNovi | PapperDigitalt | Bevaras | För förseelse i arbetet. |
 
 <!-- sida 362 -->
 
@@ -7010,7 +6689,7 @@ Informationshanteringsplan                      Sida 76 av 127
 
 Informationshanteringsplan                      Sida 77 av 127
 
-[Tabell 370-1](handlingar.tabeller/370-1.csv)
+[Tabell 370-373-1](handlingar.tabeller/370-373-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -7024,53 +6703,41 @@ Informationshanteringsplan                      Sida 77 av 127
 |  | Krediteringar | Se anm. | Se<br>anmärknin<br>g | 7 år | Raindance: Kreditering i KRP görs digitalt i systemet<br>av respektive förvaltning. KLK Styrning & Ekonomi<br>reglerar kreditfaktura mot debetfaktura.<br>Future: Teknik skickar attesterat krediteringsunderlag<br>till KLK Styrning & Ekonomi. Skickas underlaget<br>digitalt arkiveras originalet hos förvaltningen.<br>Future: Annulleringar registreras enbart i systemet. |
 |  | Fakturerade kundfakturor | Se anm. | Digitalt | 7 år | Raindance: I systemet, samt på<br>P:\DFiles\Utskriftslev_RD<br>Future: I systemet, samt på P:\EDP Future<br>Filer\Fakturafil |
 |  | Kundreskontrajournal | Se anm. | Digitalt | Bevaras | Samarbetsrum Alla Ekonomi\Revision<br>År 1995–2005 på CD.<br>Kungsbacka kommun\KSF Ekonomi KLK -<br>Dokument\Kundteamet\Avstämning\Bokslut\åååå |
-
-<!-- sida 371 -->
-
-Informationshanteringsplan                      Sida 78 av 127
-
-[Tabell 371-1](handlingar.tabeller/371-1.csv)
-
 | Motta Inbetalningar<br>från kundfakturor | BG-Max ISO20022 fil<br>med inbetalningar<br>kundfakturor | Se anm. | Digitalt | 7 år | Inbetalningsfiler från bankgiro och autogiro sparas<br>för:<br>Raindance: P:\DFiles\Bg\Old Raindance BG:<br>P:\DFiles\Inbetalningar\BG Inbetalningar<br>Raindance AG:<br>P:\DFiles\Inbetalningar\AG_Inbetalningar<br>Future: P:\EDP Future Filer\BGFiler\Inlästa och<br>P:\EDP Future Filer\AGFiler\BG autogiro\Inlästa |
-| --- | --- | --- | --- | --- | --- |
 |  | Sammanställning samt<br>fellista BG-Max<br>ISO20022 inbetalningar<br>kundfakturor | Se anm. | Se<br>anmärknin<br>g | 7 år | Raindance: Arkiveras digitalt i systemet<br>Future: Bokföringsunderlagen arkiveras i papper med<br>kassaverifikationerna Future: Bokföringsunderlagen<br>arkiveras digitalt C:\ Kungsbacka kommun\KSF<br>Ekonomi KLK -<br>Dokument\Kundteamet\Inbetalningar\åååå\mm\ååmm<br>dd |
 |  | Inbetalningsjournal | Se anm. | Digitalt | 7 år | Raindance: Arkiveras i systemet. Går inte att<br>exportera<br>Future: P:\EDP Future filer\BGFiler |
 | Hantera utbetalning<br>från Kundreskontran<br>Raindance | Utbetalningsfil till<br>Swedbank | Se anm. | Digitalt | 7 år | Kundutbetalningar BG (Företag):<br>P:\Dfiles\Utbetalningar\KR\BG\Arkiv<br>Kundutbetalningar SUS (Privatpersoner):<br>P:\Dfiles\Utbetalningar\KR\SUS\Arkiv |
 |  | Utbetalningsjournal | Se anm. | Digitalt | 7 år | I systemet. Går inte att exportera |
 |  | Återredovisade<br>kundutbetalningar BG | Se anm. | Digitalt | 7 år | Fil från Swedbank.<br>P:\Dfiles\Utbetalningar\KR\BG\Kvittens\Arkiv |
 |  | Avvisade<br>kundutbetalningar BG | Se anm. | Digitalt | 2 år | Fil från Swedbank.<br>P:\Dfiles\Utbetalningar\KR\BG\Kvittens\Arkiv |
-
-<!-- sida 372 -->
-
-Informationshanteringsplan                      Sida 79 av 127
-
-[Tabell 372-1](handlingar.tabeller/372-1.csv)
-
 |  | Avvisade<br>kundutbetalningar SUS | Se anm. | Papper | 7 år | Besked om avvisade kundutbetalningar kommer i<br>Internetbanken som ett elektroniskt dokument. Bokas<br>och sparas tillsammans med kassaverifikationer. |
-| --- | --- | --- | --- | --- | --- |
 | Hantera utbetalning<br>från Future | Utbetalningsfil till<br>Swedbank | Se anm | Digitalt | 7 år | P:\EDP Future Filer\UT BGC\TEIS P:\EDP Future<br>Filer\Utbetalningar\SUS\Arkiv |
 | Hantera<br>kravhantering | Betalningspåminnelser | Se anm. | Digitalt | 2 år | Raindance:<br>P:\DFiles\Arkiv\KR\Betalningspåminnelser<br>Raindance: I systemet. Går inte att exportera<br>Future: P:\EDP Future Filer\Kravfil och lista på<br>utskrivna krav under P:\EDP Future<br>Filer\ARKIV\Påminnelser Future: P:\EDP Future<br>Filer\Kravfil\Parajett\Arkiv |
 |  | Inkassokrav | Se anm. | Digitalt | 7 år | Raindance: P:\DFiles\Arkiv\KR\Inkassokrav<br>Raindance:<br>P:\DFiles\Inkassobolag\Intrum\Inkassokrav<br>Future: P:\EDP Future Filer\ARKIV\Inkassokrav<br>Future: P:\EDP Future Filer\Kravfil\Intrum\Arkiv |
 |  | Betalningsföreläggande<br>betalda | Närarkiv<br>Vägmästaren | Papper | 7 år | Betalning registreras i KRP och när hela skulden är<br>betald sätts alla underlag i pärmen<br>“Betalningsföreläggande betalda”. |
 |  | Avskrivningar,<br>kundfakturor | Närarkiv,<br>Vägmästaren | Papper | 7 år | Avskrivning utförs i Raindance och Future. Fordran<br>skrivs av i bokföringen och skulden registreras hos<br>efterbevakningsföretaget.<br>Vid avskrivning gentemot gäldenär registreras fordran<br>inte hos efterbevakningsföretaget. |
 | Hantera autogiro | Medgivande/avanmälning<br>ar från BGC | Närarkiv,<br>Vägmästaren | Papper | Gallras vid<br>inaktualitet | Ansökning/avanmälan inkommer via Internetbanken,<br>Autogiro Online eller via blankett. Ansökningarna<br>som sker digitalt skrivs ut och arkiveras i närarkiv.<br>Ansökningarna som sker digitalt spara ner under<br>respektive BG-nummer: |
+|  |  |  |  |  | KSF Ekonomi KLK -<br>Dokument\Kundteamet\AUTOGIRO\Medgivanden\åå<br>åå |
+| Hantera E-faktura | Anmälan/avanmälan e-<br>faktura kundreskontran | Se anm. | Digitalt | Gallras vid<br>inaktualitet7 år | Anmälan/avanmälan läses in digitalt i Raindance och<br>Future.<br>Inlästa filer sparas ner:<br>Raindance: P:\DFiles\Efaktura\Inlast<br>Future: P:\EDP Future Filer\Efaktura\Arkiv |
+| Hantera<br>amorteringsplan | Amorteringsplaner för<br>kundfakturor i Raindance<br>och Future | Närarkiv,<br>Vägmästaren | Papper | Gallras vid<br>inaktualitet | Amorteringsavtal arkiveras i närarkivet |
+
+<!-- sida 371 -->
+
+Informationshanteringsplan                      Sida 78 av 127
+
+<!-- sida 372 -->
+
+Informationshanteringsplan                      Sida 79 av 127
 
 <!-- sida 373 -->
 
 Informationshanteringsplan                      Sida 80 av 127
 
-[Tabell 373-1](handlingar.tabeller/373-1.csv)
-
-|  |  |  |  |  | KSF Ekonomi KLK -<br>Dokument\Kundteamet\AUTOGIRO\Medgivanden\åå<br>åå |
-| --- | --- | --- | --- | --- | --- |
-| Hantera E-faktura | Anmälan/avanmälan e-<br>faktura kundreskontran | Se anm. | Digitalt | Gallras vid<br>inaktualitet7 år | Anmälan/avanmälan läses in digitalt i Raindance och<br>Future.<br>Inlästa filer sparas ner:<br>Raindance: P:\DFiles\Efaktura\Inlast<br>Future: P:\EDP Future Filer\Efaktura\Arkiv |
-| Hantera<br>amorteringsplan | Amorteringsplaner för<br>kundfakturor i Raindance<br>och Future | Närarkiv,<br>Vägmästaren | Papper | Gallras vid<br>inaktualitet | Amorteringsavtal arkiveras i närarkivet |
-
 <!-- sida 374 -->
 
 Informationshanteringsplan                      Sida 81 av 127
 
-[Tabell 374-1](handlingar.tabeller/374-1.csv)
+[Tabell 374-376-1](handlingar.tabeller/374-376-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -7081,34 +6748,26 @@ Informationshanteringsplan                      Sida 81 av 127
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Hantera<br>leverantörsfakturor | Leverantörsfakturor | Se<br>anmärkning. | Se anm. | Se anmärkning. | Digitala leverantörsfakturor: Hanteras i Visma<br>proceedoe-handelssystem, gallras efter 7 år.<br>Analoga leverantörsfakturor: gallras efter 3 år.<br>Inkomna pappersfakturor datumstämplas och skickas<br>till skanningsleverantören för skanning och<br>arkivering genom Visma Proceedo. Inkomna<br>pappersfakturor datumstämplas och skickas till<br>skanningsleverantör för inläsning, därefter fortsatt<br>hantering i e-handelssystemet.<br>Ett fåtal underlag kan ej skickas till<br>scanningsföretaget och måste därmed hanteras med<br>manuell registrering i Proceedo. Dessa arkiveras i<br>närarkiv hos SE Inköp. Ett fåtal fakturor behöver<br>hanteras manuellt, antingen med registrering i e-<br>handels- eller i ekonomisystemet. Så snart fakturan<br>samt eventuellt tillhörande underlag är inskannat i<br>något av systemen kan pappersfakturan/underlagen<br>slängas. |
 |  | Leverantörsreskontrajournal | Se<br>anmärkning | Digital | Bevara | Samarbetsrum Alla Ekonomi\Revision År 1995-<br>2000 CD<br>År 2001-2004 Kommunens e-arkiv<br>År 2011-2020 Kommunens e-arkiv<br>År 2021-2023 Samarbetsrum Alla<br>Ekonomi\Revision\åååå |
-
-<!-- sida 375 -->
-
-Informationshanteringsplan                      Sida 82 av 127
-
-[Tabell 375-1](handlingar.tabeller/375-1.csv)
-
 |  | Räntefakturor, krav och<br>inkasso | Närarkiv SE<br>Inköp | Papper | 7 år | Inkomna krav på papper som inte skannas, manuell<br>hantering och registrering direkt i ekonomisystemet<br>Raindance. |
-| --- | --- | --- | --- | --- | --- |
 |  | Fakturafiler från Proceedo<br>till Raindance | Se<br>anmärkning. | Digitalt | 2 år | P:\DFiles\Proceedo\Arkiv<br>Avser A, B och C-filer |
 |  | Kvitton | Se<br>anmärkning. | Papper | Se anmärkning. | Originalkvitton som är underlag för ej specificerade<br>fakturor och där kvittot har scannats in till fakturan i<br>Proceedo arkiveras på respektive enhet och får<br>gallras efter 3 år<br>Originalkvitton som är underlag för ej specificerade<br>fakturor arkiveras på respektive enhet, samt med<br>hänvisning till order/fakturanumret och får gallras<br>efter 7 år. Originalkvitton, som är underlag för ej<br>specificerade fakturor, skannas och bifogas till<br>fakturan i e-handelssystemet. Originalkvittot kan<br>slängas när det finns bifogat. |
 | Betala<br>leverantörsfakturor | Manuella utbetalningar | Se<br>anmärkning. | Papper | 7 år | Manuella utbetalningar registreras i Raindance.<br>Arkiveras hos respektive förvaltning i sju år. |
 |  | Utbetalningsfil till<br>BGC/Swedbank | Se<br>anmärkning. | Digitalt | 7 år | Ekonomi skickar tre olika filer:<br>Leverantörbetalningar BGC:<br>P:\DFiles\Bg\Arkiv\TEIS<br>Utlandsbetalningar Swedbank: P:\DFiles\\:<br>Sepa\teis\Arkiv<br>Utbetalningar privatpersoner via Swedbank<br>SUS: P:\DFiles\ Su\Arkiv Leverantörbetalningar:<br>P:\DFiles\Utbetalningar\LR\BG\Arkiv<br>Utlandsbetalningar:<br>P:\DFiles\Utbetalningar\LR\Sepa\Arkiv<br>Utbetalningar privatpersoner via Swedbank SUS: |
-
-<!-- sida 376 -->
-
-Informationshanteringsplan                      Sida 83 av 127
-
-[Tabell 376-1](handlingar.tabeller/376-1.csv)
-
 |  |  |  |  |  | P:\DFiles\Utbetalningar\LR\SUS\Arkiv |
-| --- | --- | --- | --- | --- | --- |
 |  | Utbetalningsjournal | Se<br>anmärkning. | Digitalt | 7 år | Utbetalningsjournal skapas i Raindance för alla<br>utbetalningssätten och arkiveras på<br>P:\DFiles\Arkiv\LR\Utbet_journal |
 |  | Återredovisade<br>leverantörsbetalningar | Se<br>anmärkning. | Digitalt | 7 år | Fil från BGC som avser utbetalda<br>leverantörsbetalningar.<br>P:\DFiles\Bg\Kvittens_levbet\Arkiv_kvittens_levbet. |
 |  | Återredovisade<br>leverantörsbetalningar från<br>Raindance till Proceedo | Se<br>anmärkning. | Digitalt | 2 år | P:\DFiles\Arkiv\LR\Aterrapp_betaldag |
 |  | Avvisade<br>leverantörsbetalningar | Närarkiv<br>Vägmästaren | Papper | 2 år | Besked om avvisade leverantörsbetalningar kommer<br>från Bankgirocentralen. Ansvarig handläggare<br>åtgärdar utbetalningen i ekonomisystemet. |
 |  | Avvisade<br>leverantörsutbetalningar<br>SUS | Närarkiv<br>Vägmästaren | Papper | 7 år | Besked om avvisade leverantörsbetalningar kommer i<br>Internetbanken som ett elektroniskt dokument.<br>Sparas tillsammans med kassaverifikationer. |
 |  | Ej inlösta utbetalningar | Se<br>anmärkning. | Digitalt | 7 år | Listor arkiveras på två olika ställen:<br>Samarbetsrum\KSF Ekonomi KLK\Kundteamet\Ej<br>returnerade belopp<br>samt<br>Samarbetsrum\KSF Ekonomi KLK -<br>Internbanken\Avstämning konton\Avstämning<br>konton respektive år |
+
+<!-- sida 375 -->
+
+Informationshanteringsplan                      Sida 82 av 127
+
+<!-- sida 376 -->
+
+Informationshanteringsplan                      Sida 83 av 127
 
 <!-- sida 377 -->
 
@@ -7132,7 +6791,7 @@ Informationshanteringsplan                      Sida 84 av 127
 
 Informationshanteringsplan                      Sida 85 av 127
 
-[Tabell 378-1](handlingar.tabeller/378-1.csv)
+[Tabell 378-381-1](handlingar.tabeller/378-381-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -7145,29 +6804,13 @@ Informationshanteringsplan                      Sida 85 av 127
 |  | Utrangeringar och<br>försäljningar | Närarkiv,<br>Vägmästaren | Papper | 7 år |  |
 |  | Anläggningsregister –<br>integrationslista<br>kapitalkostnader | Raindance | Digitalt | 2 år | Arkiveras digitalt i Samarbetsrum\KSF<br>Ekonomisystem systemförvaltning\Delsystem<br>AR\20XX\Kapitalkostnader |
 |  | Anläggningsregister –<br>avstämningslista<br>kapitalkostnader | Raindance | Digitalt | 2 år | Arkiveras digitalt i Samarbetsrum\KSF<br>Ekonomisystem systemförvaltning\Delsystem<br>AR\20XX\Kapitalkostnader |
-
-<!-- sida 379 -->
-
-Informationshanteringsplan                      Sida 86 av 127
-
-[Tabell 379-1](handlingar.tabeller/379-1.csv)
-
 | Hantera bokföring<br>och avstämning | Bokföringsorder | Raindance | Digitalt | 7 år | Bokföringsordern registreras i<br>ekonomisystemet och skickas sedan till<br>attestant för attest och blir definitiv vid<br>attestering. |
-| --- | --- | --- | --- | --- | --- |
 |  | Kassaverifikationer | Närarkiv,<br>VägmästarenSe<br>anmärkning | PapperDigitalt | 7 år | Kassaverifikationerna registreras i<br>ekonomisystemet med vertypen EKBANK.<br>Arkiveras digitalt i Samarbetsrum\KSF<br>Ekonomi KLK\Dokument\Internbanken\1.<br>Kassaverifikationer huvudkontot/Respektive<br>år.<br>I vissa fall arkiverar förvaltningarna<br>underlagen hos sig. Detta ska ske enligt<br>överenskommelse med Internbanken.<br>Arkivering i papper i närarkiv på Vägmästaren<br>t o m 2024-02-06. |
 |  | Bokföringsorder<br>försäljning Kassasystem | Se anmärkning. | Digitalt | 7 år | En gemensam bokföringsfil från alla<br>försäljningsställenas kassasystem.<br>P:\DFiles\Kassaystem\Svepos\Arkiv<br>Bokas med vertypen EKBOKA |
 |  | Bokföringsorder<br>inbetalningar E-tjänster | Se anmärkning. | Digitalt | 7 år | P:\DFiles\Etjänst\Arkiv<br>Bokas med vertypen EKETJÄ<br>Underlag för att skapa bokföringsordern finns i<br>mappen P:\DFiles\Etjänst\Payex\Arkiv |
 |  | Kassaredovisning -<br>Bokföringsrapport | Se anmärkning. | Digitalt | 7 år | P:\DFiles\Kassasystem\Svepos\Arkiv\ Arkiv<br>bokföringsrapport kassa<br>Z-rapport finns digitalt i kassasystemet |
 |  | Bokslutsspecifikationer | Se anmärkning. | Digitalt | Bevaras | Fram till och med delårsbokslut 2021:<br>G:\KLK\Begränsad\Alla Ekonomi\Bokslut,<br>delårsrapport\Bokslut<br>Från och med årsbokslut 2021: Modul i<br>Ekonomisystemet Raindance Fram till och<br>med delårsbokslut 2021: |
-
-<!-- sida 380 -->
-
-Informationshanteringsplan                      Sida 87 av 127
-
-[Tabell 380-1](handlingar.tabeller/380-1.csv)
-
 |  |  |  |  |  | Samarbetsrum Alla Ekonomi \Bokslut,<br>delårsrapport\Bokslut<br>Från och med årsbokslut 2021: Modul i<br>Ekonomisystemet Raindance |
-| --- | --- | --- | --- | --- | --- |
 |  | Avstämningslistor | Se anmärkning. | Se anm. | 2 år | Finns både analogt och digitalt. Avstämning av<br>balanskonton och reskontror görs av respektive<br>balanskontoansvarig |
 |  | Kontoplan/kodplan | Raindance | Digitalt | Bevaras |  |
 | Bokslut och revision | Delårsrapport | Diarium | Digitalt | Bevaras |  |
@@ -7177,19 +6820,23 @@ Informationshanteringsplan                      Sida 87 av 127
 |  | Grund- och Huvudbok | Raindance | Digitalt | Bevaras | År 1993–2000 CD<br>År 2001–2005 Kommunens e-arkiv<br>År 2006–2010<br>P:\DFiles\earkiv\Huvudbokstranskationer<br>År 2011–2016 P:\DFiles\earkiv<br>År 2017 – Digitalt i systemet |
 | Hantera<br>räkenskapsstatistik | Statistik SCB | Se anmärkning. | Digitalt | 7 år | Ekonomi lämnar olika sorters statistik till SCB:<br>Räkenskapssammandraget: Steg 1 och 2,<br>Kvartalsutfall, Privata utförare, Kommunens<br>finansiella tillgångar och skulder och Offentligt<br>ägda företag.<br>Arkiveras: Samarbetsrum/KSF Ekonomi<br>KLK/8 Statistik |
 | Fakturera internt | Internfakturor | Se anmärkning. | Digitalt | 2 år | Internfakturor skapas både i Visma Proceedo<br>och Raindance. Eventuellt underlag på papper<br>förvaras på respektive förvaltning. |
-
-<!-- sida 381 -->
-
-Informationshanteringsplan                      Sida 88 av 127
-
-[Tabell 381-1](handlingar.tabeller/381-1.csv)
-
 |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Hantera garantier<br>och säkerheter | Garantier | Se anmärkning. | Se<br>anmärkning. | Gallras 7 år efter<br>avslut | Papper – Original Garantier/säkerheter<br>arkiveras i kassaskåpet i KLK Styrning &<br>Ekonomis närarkiv på Vägmästaren.<br>Innehållsförteckning/kartotek arkiveras i<br>Samarbetsrum\KSF Ekonomi KLK -<br>Internbanken\Bankgarantier\\ |
 | Systemdokumentatio<br>n | Systemdokumentation | Se anmärkning. | Digitalt | Bevaras | Sparas årligen från och med 2020<br>Samarbetsrum\KSF Ekonomi KLK \KSF<br>Ekonomisystem systemförvaltning |
 | Hantera<br>attestbehörigheter | Attestunderlag | Se anmärkning. | Se<br>anmärkning. | 7 år efter avslutad<br>attestbehörighet | Attestbasen finns på<br>G:\KLK\Begränsad\Attestregister<br>Attestunderlagen som skickas in digitalt till<br>(e-post borttagen) registreras i<br>attestbasen, underlagen arkiveras på respektive<br>förvaltning |
 | Hantera Försäkring | Försäkringshandlingar | Se anmärkning. | Digitalt | 7 år efter avtalets<br>slut | Försäkringsbreven kommer från Kommunens<br>försäkringsförmedlare på Söderberg &<br>Partners. Kommunens försäkringssamordnare<br>har tillgång till Söderberg & Partners<br>dokumentsystem "Optimum" där kommunens<br>försäkringsbrev mm finns tillgängliga.<br>Försäkringsbrev arkiveras i<br>samarbetsrummet\KSF Ekonomi<br>KLK\12Försäkringar\Försäkringsbrev |
+
+<!-- sida 379 -->
+
+Informationshanteringsplan                      Sida 86 av 127
+
+<!-- sida 380 -->
+
+Informationshanteringsplan                      Sida 87 av 127
+
+<!-- sida 381 -->
+
+Informationshanteringsplan                      Sida 88 av 127
 
 <!-- sida 382 -->
 
@@ -7290,7 +6937,7 @@ Informationshanteringsplan                      Sida 94 av 127
 
 Informationshanteringsplan                      Sida 95 av 127
 
-[Tabell 388-1](handlingar.tabeller/388-1.csv)
+[Tabell 388-389-1](handlingar.tabeller/388-389-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -7307,17 +6954,13 @@ Informationshanteringsplan                      Sida 95 av 127
 |  | Årsbokslut | Närarkiv<br>Vägmästaren | Papper | Bevaras | Finns även digitalt i samarbetsrum Alla<br>Ekonomi \Stiftelser\4 Bokslut\respektive<br>år |
 |  | Årsredovisning | Närarkiv<br>Vägmästaren | Papper | Bevaras | Finns även digitalt i samarbetsrum Alla<br>Ekonomi \Stiftelser\3 Årsredovisningar<br>\respektive år |
 |  | Ansökan om medel med<br>tillhörande underlag | Diarium | Digitalt | Bevaras | Hanteras av respektive förvaltning. |
+|  | Protokollsutdrag | Diarium | Digitalt | Bevaras | Förvaras i förvaltningarnas diarium |
+|  | Beslut om utbetalning | G: | Digitalt | 7 år | Skickas in från respektive förvaltning<br>till KLK för utbetalning och bokföring.<br>Samarbetsrum Alla Ekonomi\\<br>Stiftelser\respektive<br>stiftelse\Utdelningar\respektive år |
+|  | Kopia på deklarationer | G: | Digitalt | 7 år | Originalet skickas in på papper till<br>Skatteverket, kopior sparas i<br>samarbetsrum Alla Ekonomi\\<br>Stiftelser\4 Bokslut\respektive<br>år\Deklarationer |
 
 <!-- sida 389 -->
 
 Informationshanteringsplan                      Sida 96 av 127
-
-[Tabell 389-1](handlingar.tabeller/389-1.csv)
-
-|  | Protokollsutdrag | Diarium | Digitalt | Bevaras | Förvaras i förvaltningarnas diarium |
-| --- | --- | --- | --- | --- | --- |
-|  | Beslut om utbetalning | G: | Digitalt | 7 år | Skickas in från respektive förvaltning<br>till KLK för utbetalning och bokföring.<br>Samarbetsrum Alla Ekonomi\\<br>Stiftelser\respektive<br>stiftelse\Utdelningar\respektive år |
-|  | Kopia på deklarationer | G: | Digitalt | 7 år | Originalet skickas in på papper till<br>Skatteverket, kopior sparas i<br>samarbetsrum Alla Ekonomi\\<br>Stiftelser\4 Bokslut\respektive<br>år\Deklarationer |
 
 <!-- sida 390 -->
 
@@ -7359,7 +7002,7 @@ Informationshanteringsplan                      Sida 98 av 127
 
 Informationshanteringsplan                      Sida 99 av 127
 
-[Tabell 392-1](handlingar.tabeller/392-1.csv)
+[Tabell 392-396-1](handlingar.tabeller/392-396-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -7376,15 +7019,7 @@ Informationshanteringsplan                      Sida 99 av 127
 |  | Avtalsvillkor | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 |  | Lista<br>upphandlingsdokumentshämtare | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 | Genomföra<br>upphandling | Frågor från anbudsgivare och svar,<br>under annonseringstiden | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | När frågorna blir av betydelse för<br>upphandlingen går det ut ett<br>förtydligande, meddelande till alla |
-
-<!-- sida 393 -->
-
-Informationshanteringsplan                      Sida 100 av 127
-
-[Tabell 393-1](handlingar.tabeller/393-1.csv)
-
 | Genomföra<br>upphandling |  |  |  |  | anbudsgivare. Administreras i Tendsign,<br>överförs till Ciceron avtalsdiarium efter<br>avslutat ärende |
-| --- | --- | --- | --- | --- | --- |
 |  | Ansökningsinbjudan | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Specifikt för urvalsselektiv eller<br>förhandlad upphandling. Administreras i<br>Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
 |  | Ansökningar om att få inkomma<br>med anbud, valda | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Specifikt för urvalsselektiv eller<br>förhandlad upphandling. Administreras i<br>Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
 |  | Ansökningar om att få inkomma<br>med anbud, ej valda/ej korrekt<br>inlämnande | Ciceron<br>avtalsdiarium | Digitalt | Gallras 4 år efter<br>avslutad<br>upphandling | Specifikt för urvalsselektiv eller<br>förhandlad upphandling. Administreras i<br>Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
@@ -7393,15 +7028,7 @@ Informationshanteringsplan                      Sida 100 av 127
 | Anbudspröva och<br>utvärdera | Fullmakt | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 |  | Anbudssammanställning | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 |  | Anbud, antagna | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Inklusive specifikationer, bilagor etc.<br>Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
-
-<!-- sida 394 -->
-
-Informationshanteringsplan                      Sida 101 av 127
-
-[Tabell 394-1](handlingar.tabeller/394-1.csv)
-
 | Anbudspröva och<br>utvärdera | Anbud, ej antagna | Ciceron<br>avtalsdiarium | Digitalt | Gallras 4 år efter<br>avslutad<br>upphandling | Inklusive specifikationer, bilagor etc.<br>Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
-| --- | --- | --- | --- | --- | --- |
 |  | Öppningsprotokoll | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Anbudsöppning, ansökan. Administreras i<br>Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
 |  | Korrespondens med anbudsgivare,<br>av betydelse | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 |  | Korrespondens med anbudsgivare,<br>av ringa eller tillfällig betydelse | Outlook | Digitalt | Gallras vid<br>inaktualitet |  |
@@ -7412,30 +7039,14 @@ Informationshanteringsplan                      Sida 101 av 127
 |  | Dokument från intervjuer, prover,<br>tester, inspelad presentation | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 |  | Lottningsprotokoll | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 |  | Upphandlingsprotokoll | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
-
-<!-- sida 395 -->
-
-Informationshanteringsplan                      Sida 102 av 127
-
-[Tabell 395-1](handlingar.tabeller/395-1.csv)
-
 | Anbudspröva och<br>utvärdera | Begäran om förklaring av anbud<br>med svar | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Exempelvis förklaring vid onormalt lågt<br>anbud. Bevaras som en del av<br>anbudshandlingar (frågor och svar).<br>Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
-| --- | --- | --- | --- | --- | --- |
 | Avbryta upphandling | Beslut om att avbryta upphandling | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 | Besluta och teckna<br>avtal | Tilldelningsbeslut | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Kvitto på utsänt tilldelningsbeslut,<br>avbrytandebeslut registreras i<br>upphandlingssystemets logg.<br>Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 |  | Avtal/kontrakt inklusive bilagor | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Exempelvis ramavtal, objektsavtal,<br>entreprenadavtal, tjänstekoncessionsavtal<br>och avtal för externa utförare.<br>Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende. |
 |  | Resultat- och analysrapportStrategi-<br>och resultatrapport | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 | Efterannonsera | Efterannonsering - annons efter<br>avslutad upphandling till EUT/TED | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 | Följa upp och<br>förvalta avtal | Förändring av avtal | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Inklusive motivering till förändring<br>/tjänsteskrivelse. Kan även vara<br>tilläggsavtal, prisjustering. Administreras<br>i Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
-
-<!-- sida 396 -->
-
-Informationshanteringsplan                      Sida 103 av 127
-
-[Tabell 396-1](handlingar.tabeller/396-1.csv)
-
 |  | Annonsering av förändring av beslut<br>enligt 17 kap. 16 § LOU | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
-| --- | --- | --- | --- | --- | --- |
 |  | Överlåtelse av avtal | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 | Följa upp och<br>förvalta avtal | Korrespondens med leverantör | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | I korrespondens av betydelse ingår<br>exempelvis mötesprotokoll, varsling om<br>brist, handlingsplaner för avhjälpande av<br>fel, reklamation. Administreras i<br>Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
 |  | Anmodan om rättelse | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Anmodan kan även innehålla meddelande<br>om vite eller annan påföljd. Administreras<br>i Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
@@ -7443,11 +7054,27 @@ Informationshanteringsplan                      Sida 103 av 127
 |  | Hävning av avtal/kontrakt<br>(hävningsmeddelande) | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 |  | Överenskommelser om upphörande<br>av avtal/förlikningar | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 
+<!-- sida 393 -->
+
+Informationshanteringsplan                      Sida 100 av 127
+
+<!-- sida 394 -->
+
+Informationshanteringsplan                      Sida 101 av 127
+
+<!-- sida 395 -->
+
+Informationshanteringsplan                      Sida 102 av 127
+
+<!-- sida 396 -->
+
+Informationshanteringsplan                      Sida 103 av 127
+
 <!-- sida 397 -->
 
 Informationshanteringsplan                      Sida 104 av 127
 
-[Tabell 397-1](handlingar.tabeller/397-1.csv)
+[Tabell 397-399-1](handlingar.tabeller/397-399-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -7459,30 +7086,22 @@ Informationshanteringsplan                      Sida 104 av 127
 | Förbereda och<br>initiera<br>upphandlingsärende | Förfrågan/<br>behovsspecifikation/offert | Se anmärkning | Digitalt | Se anmärkning | Om handlingen ingår i direktupphandlingar<br>med ett värde under 100 000 kr: förvaras i<br>samarbetsrum och gallras vid avtalets<br>utgång. |
 |  | Underlag för beräkning<br>av inköpsbelopp | Se anmärkning | Digitalt | Se anmärkning | Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, med<br>avtalshandling undertecknad av båda<br>parter: registreras i Ciceron avtalsdiarium<br>och<br>bevaras.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan<br>avtalshandling undertecknad av båda<br>parter: registreras i Proceedo och gallras<br>efter 7 år. |
 | Genomföra<br>direktupphandling | Inbjudan<br>direktupphandling | Se anmärkning | Digitalt | Se anmärkning | Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, med<br>avtalshandling undertecknad av båda<br>parter: registreras i Ciceron avtalsdiarium<br>och<br>bevaras. |
+|  |  |  |  |  | Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan<br>avtalshandling undertecknad av båda<br>parter: registreras i Proceedo och gallras<br>efter 7 år. |
+|  | Kravspecifikation<br>direktupphandling | Se anmärkning | Digitalt | Se anmärkning | Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, med<br>avtalshandling undertecknad av båda<br>parter: registreras i Ciceron avtalsdiarium<br>och<br>bevaras.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan<br>avtalshandling undertecknad av båda<br>parter: registreras i Proceedo och gallras<br>efter 7 år. |
+|  | Anbud, antagna | Se anmärkning | Digitalt | Se anmärkning | Inklusive bilagor.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, med<br>avtalshandling undertecknad av båda<br>parter: registreras i Ciceron avtalsdiarium<br>och<br>gallras vid avtalets utgång.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan |
+|  |  |  |  |  | avtalshandling undertecknad av båda<br>parter: registreras i Proceedo och gallras<br>efter 7 år. |
+|  | Anbud, ej antagna | Se anmärkning | Digitalt | Se anmärkning | Inklusive bilagor.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, med<br>avtalshandling undertecknad av båda<br>parter: registreras i Ciceron avtalsdiarium<br>och<br>Gallras vid avtalets utgång.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan<br>avtalshandling undertecknad av båda<br>parter: registreras i Proceedo och gallras<br>efter 7 år. |
+|  | Rekvisition | Proceedo | Digitalt | 7 år |  |
+| Besluta och teckna<br>avtal | ”Dokumentation av<br>direktupphandlingar” | Ciceron avtalsdiarium | Digitalt | Bevaras | Upprättas för att efterleva lagkravet på<br>dokumentation för upphandlingar för ett<br>värde över 100 000 kr, Konkurrensverket. |
+|  | Avtal | Se anmärkning | Se<br>anmärkning | Se anmärkning | Avtal underskrivna digitalt förvaras i<br>Ciceron avtalsdiarium.<br>Avtal på papper registreras i Ciceron<br>avtalsdiarium och förvaras hos<br>handläggare.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde<br>över 100 000 kr: bevaras. |
 
 <!-- sida 398 -->
 
 Informationshanteringsplan                      Sida 105 av 127
 
-[Tabell 398-1](handlingar.tabeller/398-1.csv)
-
-|  |  |  |  |  | Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan<br>avtalshandling undertecknad av båda<br>parter: registreras i Proceedo och gallras<br>efter 7 år. |
-| --- | --- | --- | --- | --- | --- |
-|  | Kravspecifikation<br>direktupphandling | Se anmärkning | Digitalt | Se anmärkning | Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, med<br>avtalshandling undertecknad av båda<br>parter: registreras i Ciceron avtalsdiarium<br>och<br>bevaras.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan<br>avtalshandling undertecknad av båda<br>parter: registreras i Proceedo och gallras<br>efter 7 år. |
-|  | Anbud, antagna | Se anmärkning | Digitalt | Se anmärkning | Inklusive bilagor.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, med<br>avtalshandling undertecknad av båda<br>parter: registreras i Ciceron avtalsdiarium<br>och<br>gallras vid avtalets utgång.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan |
-
 <!-- sida 399 -->
 
 Informationshanteringsplan                      Sida 106 av 127
-
-[Tabell 399-1](handlingar.tabeller/399-1.csv)
-
-|  |  |  |  |  | avtalshandling undertecknad av båda<br>parter: registreras i Proceedo och gallras<br>efter 7 år. |
-| --- | --- | --- | --- | --- | --- |
-|  | Anbud, ej antagna | Se anmärkning | Digitalt | Se anmärkning | Inklusive bilagor.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, med<br>avtalshandling undertecknad av båda<br>parter: registreras i Ciceron avtalsdiarium<br>och<br>Gallras vid avtalets utgång.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan<br>avtalshandling undertecknad av båda<br>parter: registreras i Proceedo och gallras<br>efter 7 år. |
-|  | Rekvisition | Proceedo | Digitalt | 7 år |  |
-| Besluta och teckna<br>avtal | ”Dokumentation av<br>direktupphandlingar” | Ciceron avtalsdiarium | Digitalt | Bevaras | Upprättas för att efterleva lagkravet på<br>dokumentation för upphandlingar för ett<br>värde över 100 000 kr, Konkurrensverket. |
-|  | Avtal | Se anmärkning | Se<br>anmärkning | Se anmärkning | Avtal underskrivna digitalt förvaras i<br>Ciceron avtalsdiarium.<br>Avtal på papper registreras i Ciceron<br>avtalsdiarium och förvaras hos<br>handläggare.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde<br>över 100 000 kr: bevaras. |
 
 <!-- sida 400 -->
 
@@ -7632,7 +7251,7 @@ Informationshanteringsplan                      Sida 113 av 127
 
 Informationshanteringsplan                      Sida 114 av 127
 
-[Tabell 407-1](handlingar.tabeller/407-1.csv)
+[Tabell 407-408-1](handlingar.tabeller/407-408-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -7648,19 +7267,15 @@ Informationshanteringsplan                      Sida 114 av 127
 | Organisera<br>information och<br>marknadsföring | Kungsbacka Språkhandbok<br>och skrivregler | Samarbetsrum | Digitalt | Se anmärkning | Uppdateras vid behov. |
 |  | Bilder i bildbank Bilder,<br>filmer, ljud som utgör<br>personuppgifter | Media flow | Digitalt | Se anmärkning. | Ett urval av bilder som speglar<br>verksamheten bevaras i samråd med<br>kommunarkivet.<br>Material som inte bevaras gallras senast<br>efter fem år. Material som endast publiceras<br>i kommunens sociala mediekanaler förvaras<br>inte i Media flow och gallras vid<br>inaktualitet.<br>Bilder av ringa eller tillfällig karaktär<br>gallras efter fem år. |
 |  | Bilder, filmer, ljud som inte<br>utgör personuppgifter | Media flow | Digitalt | Se anmärkning | Ett urval av bilder som speglar<br>verksamheten bevaras i samråd med<br>kommunarkivet.<br>Material som inte bevaras gallras vid<br>inaktualitet. |
-
-<!-- sida 408 -->
-
-Informationshanteringsplan                      Sida 115 av 127
-
-[Tabell 408-1](handlingar.tabeller/408-1.csv)
-
 |  | Filmer i bildbank | Media flow | Digitalt | Se anm. | Ett urval av filmer som speglar<br>verksamheten bevaras i samråd med<br>kommunarkivet.<br>Filmer av ringa eller tillfällig karaktär<br>gallras efter fem år.<br>För interna utbildningsfilmer se 2.3.2.2<br>kompetensutveckla |
-| --- | --- | --- | --- | --- | --- |
 |  | Kommunikationstrappan | Samarbetsrum | Digitalt | Bevaras |  |
 |  | Innehållsplan | Samarbetsrum | Digitalt | Vid inaktualitet | Uppdateras kontinuerligt. |
 |  | Kanalplan | Samarbetsrum | Digitalt | Vid inaktualitet | Uppdateras kontinuerligt. |
 |  | Direkt från kommunen – ett<br>nyhetsbrev från Kungsbacka<br>kommun | Apsis | Digitalt | Se anm. | Systemförvaltaren ansvarar för att<br>ögonblicksbilder tas en gång om året i<br>samråd med kommunarkivet. |
+
+<!-- sida 408 -->
+
+Informationshanteringsplan                      Sida 115 av 127
 
 <!-- sida 409 -->
 
@@ -7700,7 +7315,7 @@ Informationshanteringsplan                      Sida 117 av 127
 
 Informationshanteringsplan                      Sida 118 av 127
 
-[Tabell 411-1](handlingar.tabeller/411-1.csv)
+[Tabell 411-412-1](handlingar.tabeller/411-412-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -7724,19 +7339,15 @@ Informationshanteringsplan                      Sida 118 av 127
 |  | Informationsmaterial | Samarbetsrum | Digital | 2 år | Externt material, inkommer från SCB. |
 | Motta resultat av<br>medborgarundersökning | Underlag | Diarium | Digital | Bevaras | Statistiskt underlag. Inkommer från SCB. |
 |  | SCB:s<br>medborgarundersökning | Diarium | Digital | Bevaras | Avser den rapport som resultatet utmynnar i.<br>Inkommer från SCB. |
-
-<!-- sida 412 -->
-
-Informationshanteringsplan                      Sida 119 av 127
-
-[Tabell 412-1](handlingar.tabeller/412-1.csv)
-
 |  | för Kungsbacka<br>kommun |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Tabell- och<br>diagrambilaga | Diarium | Digital | Bevaras | Inkommer från SCB. |
 | Presentera resultat av<br>medborgarundersökning | Rapport | Diarium | Digital | Bevaras | Rapport skapad av Kungsbacka kommun utifrån<br>det mottagna resultatet från SCB. |
 |  | Pressmeddelande | Samarbetsrum | Digitalt | 2 år | Interna och externa pressmeddelanden. |
 |  | Informationsmaterial | Samarbetsrum | Digitalt | 2 år | Informationsmaterial skapat av Kungsbacka<br>kommun. |
+
+<!-- sida 412 -->
+
+Informationshanteringsplan                      Sida 119 av 127
 
 <!-- sida 413 -->
 
@@ -7878,7 +7489,7 @@ Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
 Informationshanteringsplan                      Sida 1 av 118
 
-[Tabell 421-1](handlingar.tabeller/421-1.csv)
+[Tabell 421-422-1](handlingar.tabeller/421-422-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -7897,16 +7508,12 @@ Informationshanteringsplan                      Sida 1 av 118
 | Organisera<br>informationsförvaltning | Arkivmyndighetens<br>tillsynsplan | Samarbetsrum | Digitalt | Vid inaktualitet |  |
 |  | Rutin för samråd av<br>informationshanteringsplan | Samarbetsrum | Digitalt | Vid inaktualitet |  |
 |  | Anteckningar från<br>arkivmyndighetens<br>veckomöten | OneNote | Digitalt | 2 år |  |
+|  | Mall | Samarbetsrum | Digitalt | Vid inaktualitet | Exempelvis mallar för<br>informationshanteringsplan,<br>klassificeringsstruktur och<br>informationsbeskrivning. |
+|  | Instruktion | Samarbetsrum | Digitalt | Vid inaktualitet | Exempelvis instruktion för<br>upprättande och underhåll<br>av<br>informationshanteringsplan. |
 
 <!-- sida 422 -->
 
 Informationshanteringsplan                      Sida 2 av 118
-
-[Tabell 422-1](handlingar.tabeller/422-1.csv)
-
-|  | Mall | Samarbetsrum | Digitalt | Vid inaktualitet | Exempelvis mallar för<br>informationshanteringsplan,<br>klassificeringsstruktur och<br>informationsbeskrivning. |
-| --- | --- | --- | --- | --- | --- |
-|  | Instruktion | Samarbetsrum | Digitalt | Vid inaktualitet | Exempelvis instruktion för<br>upprättande och underhåll<br>av<br>informationshanteringsplan. |
 
 <!-- sida 423 -->
 
@@ -8212,7 +7819,7 @@ Informationshanteringsplan                      Sida 18 av 118
 
 Informationshanteringsplan                      Sida 19 av 118
 
-[Tabell 439-1](handlingar.tabeller/439-1.csv)
+[Tabell 439-441-1](handlingar.tabeller/439-441-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -8229,32 +7836,24 @@ Informationshanteringsplan                      Sida 19 av 118
 |  | Mötesanteckning | Insidan | Digitalt | Vid inaktualitet | Exempelvis vid utvecklingsråd,<br>användarforum och leverantörsmöten. |
 |  | Korrespondens | Outlook | Digitalt | Vid inaktualitet |  |
 |  | Uppföljningsrapport | Diarium | Digitalt | 10 år |  |
-
-<!-- sida 440 -->
-
-Informationshanteringsplan                      Sida 20 av 118
-
-[Tabell 440-1](handlingar.tabeller/440-1.csv)
-
 | Dokumentera | Presentation | Insidan | Digitalt | Vid inaktualitet | Exempelvis presentationer vid<br>användarträffar, ledningsgruppsmöten<br>och leverantörsmöten. |
-| --- | --- | --- | --- | --- | --- |
 |  | Kommunikationsplan | Insidan | Digitalt | Vid inaktualitet | Exempelvis vid incident eller införande<br>av ny funktion. |
 |  | Handlingsplan | Diarium | Digital | Bevaras | Kan även benämnas åtgärdslista eller<br>kontinuitetsplan. Exempelvis åtgärder<br>som ska följas upp efter en<br>informationsklassning av systemet. |
 | Dokumentera<br>händelser | Händelselogg | Respektive<br>verksamhetssystem | Digitalt | Vid inaktualitet | Information som användare har åtkomst<br>till och som visar händelser som<br>användare genomfört. |
 |  | Integritetslogg | Respektive<br>verksamhetssystem | Digitalt | 10 år | Även kallad användarlogg eller<br>granskningslogg. Vid systembyte och<br>eventuell volymstyrd gallring ska<br>informationen plockas ut från<br>verksamhetssystemet och förvaras<br>digitalt.<br>Logg som dokumenterar tillgång till<br>information (till exempel databasfrågor,<br>anropens ursprung/plats, ansvarig<br>användare för operationer, datum,<br>tidpunkt, berörda tabeller och fält) och<br>som kan behövas i revisioner, ansvars-<br>/disciplinärenden, skadestånd, brottmål<br>till exempel dataintrång med mera.<br>Om loggen vid kontroll leder till åtgärd<br>ska den diarieföras och bevaras. |
 | Dokumentera<br>händelser | Systemlogg | Respektive<br>verksamhetssystem | Digitalt | Vid inaktualitet | Används främst för felsökning och för<br>att få en teknisk överblick av<br>verksamhetssystemets processer och<br>operationer. |
 |  | Rapport om loggranskning | Samarbetsrum | Digitalt | 10 år | Med tillhörande underlag. |
+|  |  |  |  |  | Om loggen vid kontroll leder till åtgärd<br>ska den diarieföras och bevaras. |
+| Systematisera rutiner | Manual | Insidan | Digitalt | Vid inaktualitet | Kan även benämnas lathund. |
+|  | Utbildningsfilmer | KLOK | Digitalt | Vid inaktualitet |  |
+
+<!-- sida 440 -->
+
+Informationshanteringsplan                      Sida 20 av 118
 
 <!-- sida 441 -->
 
 Informationshanteringsplan                      Sida 21 av 118
-
-[Tabell 441-1](handlingar.tabeller/441-1.csv)
-
-|  |  |  |  |  | Om loggen vid kontroll leder till åtgärd<br>ska den diarieföras och bevaras. |
-| --- | --- | --- | --- | --- | --- |
-| Systematisera rutiner | Manual | Insidan | Digitalt | Vid inaktualitet | Kan även benämnas lathund. |
-|  | Utbildningsfilmer | KLOK | Digitalt | Vid inaktualitet |  |
 
 <!-- sida 442 -->
 
@@ -8294,7 +7893,7 @@ Informationshanteringsplan                      Sida 23 av 118
 
 Informationshanteringsplan                      Sida 24 av 118
 
-[Tabell 444-1](handlingar.tabeller/444-1.csv)
+[Tabell 444-445-1](handlingar.tabeller/444-445-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -8313,16 +7912,12 @@ Informationshanteringsplan                      Sida 24 av 118
 |  | E-postlogg | Microsoft 365 | Digitalt | 90 dagar |  |
 |  | Chattmeddelande | Microsoft 365 | Digitalt | 90 dagar |  |
 |  | Virus- och<br>spammeddelande i e-<br>post | Microsoft 365 | Digitalt | 14 dagar |  |
+| Hantera telefoni och<br>röstmeddelande<br>centralt på server | Förteckning över<br>inkomna/utgående<br>samtal | Telenor | Digitalt | Vid inaktualitet | Även röstmeddelanden. |
+|  | Förteckning över<br>telefonanknytningar | Telenor | Digitalt | Vid inaktualitet |  |
 
 <!-- sida 445 -->
 
 Informationshanteringsplan                      Sida 25 av 118
-
-[Tabell 445-1](handlingar.tabeller/445-1.csv)
-
-| Hantera telefoni och<br>röstmeddelande<br>centralt på server | Förteckning över<br>inkomna/utgående<br>samtal | Telenor | Digitalt | Vid inaktualitet | Även röstmeddelanden. |
-| --- | --- | --- | --- | --- | --- |
-|  | Förteckning över<br>telefonanknytningar | Telenor | Digitalt | Vid inaktualitet |  |
 
 <!-- sida 446 -->
 
@@ -8345,7 +7940,7 @@ Informationshanteringsplan                      Sida 26 av 118
 
 Informationshanteringsplan                      Sida 27 av 118
 
-[Tabell 447-1](handlingar.tabeller/447-1.csv)
+[Tabell 447-448-1](handlingar.tabeller/447-448-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -8366,17 +7961,13 @@ Informationshanteringsplan                      Sida 27 av 118
 |  | Rekryteringsordning | Diarium | Digitalt | Bevaras |  |
 | Styra | Ledarskapskriterier | Diarium | Digitalt | Bevaras |  |
 |  | Regler för<br>tjänsteresor | Diarium | Digitalt | Bevaras |  |
+|  | Riktlinjer för<br>uppföljningssamtal | Diarium | Digitalt | Bevaras |  |
+|  | Arbetsplatskultur | Diarium | Digitalt | Bevaras |  |
+| Organisera | Beslut om<br>ställföreträdande<br>chef | Diarium | Digitalt | Bevaras |  |
 
 <!-- sida 448 -->
 
 Informationshanteringsplan                      Sida 28 av 118
-
-[Tabell 448-1](handlingar.tabeller/448-1.csv)
-
-|  | Riktlinjer för<br>uppföljningssamtal | Diarium | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Arbetsplatskultur | Diarium | Digitalt | Bevaras |  |
-| Organisera | Beslut om<br>ställföreträdande<br>chef | Diarium | Digitalt | Bevaras |  |
 
 <!-- sida 449 -->
 
@@ -8484,7 +8075,7 @@ Informationshanteringsplan                      Sida 34 av 118
 
 Informationshanteringsplan                      Sida 35 av 118
 
-[Tabell 455-1](handlingar.tabeller/455-1.csv)
+[Tabell 455-457-1](handlingar.tabeller/455-457-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -8504,15 +8095,7 @@ Informationshanteringsplan                      Sida 35 av 118
 |  | Förskollärarlegitimation | Se anmärkning | Se anmärkning | Se anmärkning | Erhållen tjänst – bevaras i personakt.<br>Ej erhållen tjänst – gallras efter 2 år i Varbi. |
 |  | Arbetsgivarintyg | Se anmärkning | Se anmärkning | Se anmärkning | Även kallat tjänstgöringsintyg.<br>Erhållen tjänst – bevaras i personakt.<br>Ej erhållen tjänst – gallras efter 2 år i Varbi. |
 |  | Intyg på<br>behörighetsgivande<br>utbildning | Se anmärkning | Se anmärkning | Se anmärkning | Innefattar studieintyg, diplom, kursintyg<br>mm.<br>Erhållen tjänst – bevaras i personakt. |
-
-<!-- sida 456 -->
-
-Informationshanteringsplan                      Sida 36 av 118
-
-[Tabell 456-1](handlingar.tabeller/456-1.csv)
-
 |  |  |  |  |  | Ej erhållen tjänst – gallras efter 2 år i Varbi. |
-| --- | --- | --- | --- | --- | --- |
 |  | Sökandeförteckning | Varbi | Digitalt | 2 år |  |
 | Göra urval | Referenstagning | Varbi | Digitalt | 2 år | Genom Refapp. |
 |  | Intervjuanteckningar | Varbi | Digitalt | 2 år |  |
@@ -8520,15 +8103,7 @@ Informationshanteringsplan                      Sida 36 av 118
 | Hantera utdrag | Utdrag ur<br>belastningsregistret | Personakt | Papper | Se anmärkning | För anställda inom HVB-hem: Utdrag eller<br>kopia gallras efter två år (SFS 2007:171).<br>För anställda som arbetar med barn med<br>funktionsnedsättning (LSS): utdrag eller<br>kopia gallras efter två år. (SFS 1993:387).<br>För anställda inom skola/barnomsorg:<br>Notering om att registerutdrag visats upp.<br>Kopia på registerutdrag får inte tas. (SFS<br>2010:800).<br>För anställda inom övrigt arbete med barn:<br>Notering om att registerutdraget visats upp.<br>Kopia på registerutdrag får inte tas. (SFS<br>2013:852). |
 |  | Utdrag ur<br>misstankeregistret | Personakt | Papper | Se anmärkning | Vi behöver kunna visa att och när vi sett<br>utdrag och godkänt det. Utdrag återlämnas<br>eller gallras. |
 | Erbjudande om tjänst | Säkerhetsprövning | Säkerhetsskåp hos<br>säkerhetsskyddschef | Papper | Se anmärkning | Exempelvis samtycke till och framställan om<br>registerkontroll, särskild personutredning och<br>sammanställning/sändlista Säpo. Förvaras i<br>slutet kuvert som endast får öppnas av<br>behörig.<br>Vid erhållen tjänst bevaras handlingen.<br>Vid ej erhållen tjänst gallras den omgående<br>efter besked om att tjänst ej erhållits. |
-
-<!-- sida 457 -->
-
-Informationshanteringsplan                      Sida 37 av 118
-
-[Tabell 457-1](handlingar.tabeller/457-1.csv)
-
 | Göra urval | MBL-protokoll | Respektive<br>förvaltnings<br>närarkiv | Papper | Bevaras | Vid chefstillsättning.<br>Kopia publiceras på Insidan under<br>”Samverkan”. |
-| --- | --- | --- | --- | --- | --- |
 |  | Tillsättningsbeslut | Varbi | Digitalt | Bevaras | Meddelas på FSG, CSG, LSG i de flesta fall<br>för chefer. |
 | Anställa | Anställningsavtal | Se anmärkning | Se anmärkning | Bevaras | Sedan december 2018 är anställningsavtalen<br>digitala med elektronisk underskrift och<br>sedan hösten 2021 med tillhörande<br>ärendebeskrivning. Dessa förvaras digitalt i<br>digital personakt. Inklusive bilagor,<br>exempelvis fullmakt för postöppning.<br>Fåtal undantag, exempelvis anställning av<br>direktör och anställning för feriearbetare<br>förvaras på papper i personakt. |
 |  | Ansvarsförbindelse | Personakt | Papper | Bevaras | För journalföring. |
@@ -8537,6 +8112,14 @@ Informationshanteringsplan                      Sida 37 av 118
 |  | LAS-företräde,<br>tidsbegränsad<br>anställning | Winlas | Digitalt | Vid inaktualitet |  |
 |  | Erbjudande om<br>anställning,<br>företrädesrätt | Personakt | Papper | Se anmärkning | Bevaras endast om medarbetaren tackar nej.<br>I övriga fall gallras handlingen och<br>anställningen dokumenteras i<br>anställningsavtal. |
 |  | Uppgifter om anhöriga | HR-portalen | Digitalt | Vid inaktualitet |  |
+
+<!-- sida 456 -->
+
+Informationshanteringsplan                      Sida 36 av 118
+
+<!-- sida 457 -->
+
+Informationshanteringsplan                      Sida 37 av 118
 
 <!-- sida 458 -->
 
@@ -8758,7 +8341,7 @@ Informationshanteringsplan                      Sida 50 av 118
 
 Informationshanteringsplan                      Sida 51 av 118
 
-[Tabell 471-1](handlingar.tabeller/471-1.csv)
+[Tabell 471-472-1](handlingar.tabeller/471-472-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -8775,16 +8358,12 @@ Informationshanteringsplan                      Sida 51 av 118
 |  | Dokumentation av<br>allvarligt tillbud | Diarium | Digitalt | 10 år |  |
 |  | Tillsynsmeddelande<br>från<br>Arbetsmiljöverket | Diarium | Digitalt | Bevaras |  |
 |  | Korrespondens | Diarium | Digitalt | Se anmärkning | Korrespondens av betydelse diarieförs och bevaras.<br>I korrespondens av betydelse ingår exempelvis<br>begäran till Arbetsmiljöverket om förlängd<br>svarsfrist samt svar från Arbetsmiljöverket om att<br>förlängd svarstid beviljas. |
+|  | Avslutsbrev från<br>Arbetsmiljöverket | Diarium | Digitalt | Bevaras |  |
+| Sammanställa tillbud | Sammanställning<br>av olycksfall,<br>ohälsa och tillbud | Diarium | Digitalt | Bevaras | Minst en gång per år ska en sammanställning av<br>olycksfall, ohälsa och tillbud redovisas i<br>samverkansgrupp och nämnd, enligt organisatorisk<br>samverkansstruktur. Sammanställningen används<br>som underlag i det förebyggande arbetsmiljöarbetet<br>på verksamhetsnivå och slutligen förvaltningsnivå. |
 
 <!-- sida 472 -->
 
 Informationshanteringsplan                      Sida 52 av 118
-
-[Tabell 472-1](handlingar.tabeller/472-1.csv)
-
-|  | Avslutsbrev från<br>Arbetsmiljöverket | Diarium | Digitalt | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
-| Sammanställa tillbud | Sammanställning<br>av olycksfall,<br>ohälsa och tillbud | Diarium | Digitalt | Bevaras | Minst en gång per år ska en sammanställning av<br>olycksfall, ohälsa och tillbud redovisas i<br>samverkansgrupp och nämnd, enligt organisatorisk<br>samverkansstruktur. Sammanställningen används<br>som underlag i det förebyggande arbetsmiljöarbetet<br>på verksamhetsnivå och slutligen förvaltningsnivå. |
 
 <!-- sida 473 -->
 
@@ -8868,7 +8447,7 @@ Informationshanteringsplan                      Sida 57 av 118
 
 Informationshanteringsplan                      Sida 58 av 118
 
-[Tabell 478-1](handlingar.tabeller/478-1.csv)
+[Tabell 478-480-1](handlingar.tabeller/478-480-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -8891,15 +8470,7 @@ Informationshanteringsplan                      Sida 58 av 118
 |  | Ansökan och<br>överenskommelse om<br>löneväxling | Artvise | Digitalt | 7 år | Själva ansökan om löneväxling görs direkt av<br>medarbetaren till försäkringsbolaget. En kopia<br>skickas till Lönecenter. |
 | Beräkna lön | Begäran om intyg | Artvise | Digitalt | 2 år | Exempelvis anställningsbevis eller<br>inkomstuppgift. |
 |  | Intyg | Samarbetsrum | Digitalt | 2 år | Exempelvis anställningsbevis eller<br>inkomstuppgift. |
-
-<!-- sida 479 -->
-
-Informationshanteringsplan                      Sida 59 av 118
-
-[Tabell 479-1](handlingar.tabeller/479-1.csv)
-
 |  | Förtroendemannaredovisning | Samarbetsrum | Digitalt | 7 år | Underlag för beräkning av arvode för<br>valförrättare, uppdragstagare, förtroendevalda<br>och god man. Exempelvis: närvarolistor,<br>sammanträden, förrättningar,<br>begravningsarvoden. |
-| --- | --- | --- | --- | --- | --- |
 |  | Reseräkning/traktamente | Personec | Digitalt | Bevaras | Eventuella kvitton sparas hos chef på papper<br>och gallras efter 7 år. |
 |  | Beslut om utmätning av lön | Närarkiv | Papper | 7 år |  |
 |  | Beslut om jämkning | Artvise | Digitalt | 7 år |  |
@@ -8917,16 +8488,16 @@ Informationshanteringsplan                      Sida 59 av 118
 |  | Lönefil | P: | Digitalt | 7 år | Även kallad bankfil. |
 |  | Omvandling av<br>semesterdagar till timmar | Artvise | Digitalt | 7 år |  |
 |  | Utbetalningsorder | Samarbetsrum | Digitalt | 7 år |  |
+| Löneredovisning | Redovisning av<br>preliminärskatt och<br>arbetsgivaravgift | Samarbetsrum | Digitalt | 7 år |  |
+|  | Rättning av kontrolluppgifter | Samarbetsrum | Digitalt | 7 år |  |
+
+<!-- sida 479 -->
+
+Informationshanteringsplan                      Sida 59 av 118
 
 <!-- sida 480 -->
 
 Informationshanteringsplan                      Sida 60 av 118
-
-[Tabell 480-1](handlingar.tabeller/480-1.csv)
-
-| Löneredovisning | Redovisning av<br>preliminärskatt och<br>arbetsgivaravgift | Samarbetsrum | Digitalt | 7 år |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Rättning av kontrolluppgifter | Samarbetsrum | Digitalt | 7 år |  |
 
 <!-- sida 481 -->
 
@@ -9103,7 +8674,7 @@ Informationshanteringsplan                      Sida 70 av 118
 
 Informationshanteringsplan                      Sida 71 av 118
 
-[Tabell 491-1](handlingar.tabeller/491-1.csv)
+[Tabell 491-493-1](handlingar.tabeller/491-493-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -9118,15 +8689,7 @@ Informationshanteringsplan                      Sida 71 av 118
 |  | Fakturerade kundfakturor | Se anm. | Digitalt | 7 år | Raindance: I systemet, samt på<br>P:\DFiles\Utskriftslev_RD<br>Future: I systemet, samt på P:\EDP Future<br>Filer\Fakturafil |
 |  | Kundreskontrajournal | Se anm. | Digitalt | Bevaras | Samarbetsrum Alla Ekonomi\Revision |
 |  | BG-Max fil med inbetalningar<br>kundfakturor | Se anm. | Digitalt | 7 år | Inbetalningsfiler från bankgiro och autogiro<br>sparas för: |
-
-<!-- sida 492 -->
-
-Informationshanteringsplan                      Sida 72 av 118
-
-[Tabell 492-1](handlingar.tabeller/492-1.csv)
-
 | Motta<br>Inbetalningar från<br>kundfakturor |  |  |  |  | Raindance: P:\DFiles\Bg\Old<br>Future: P:\EDP Future Filer\BGFiler\Inlästa<br>och P:\EDP Future Filer\AGFiler\BG<br>autogiro\Inlästa |
-| --- | --- | --- | --- | --- | --- |
 |  | Sammanställning samt fellista BG-<br>Max inbetalningar kundfakturor | Se anm. | Se<br>anmärkning | 7år | Raindance: Arkiveras digitalt i systemet<br>Future: Bokföringsunderlagen arkiveras i<br>papper med kassaverifikationerna |
 |  | Inbetalningsjournal | Se anm. | Digitalt | 7 år | Raindance: Arkiveras i systemet. Går inte att<br>exportera<br>Future: P:\EDP Future filer\BGFiler |
 | Hantera<br>utbetalning från<br>Kundreskontran<br>Raindance | Utbetalningsfil till Swedbank | Se anm. | Digitalt | 7 år | Kundutbetalningar BG (Företag):<br>P:\Dfiles\Utbetalningar\KR\BG\Arkiv<br>Kundutbetalningar SUS (Privatpersoner):<br>P:\Dfiles\Utbetalningar\KR\SUS\Arkiv |
@@ -9134,15 +8697,7 @@ Informationshanteringsplan                      Sida 72 av 118
 |  | Återredovisade kundutbetalningar<br>BG | Se anm. | Digitalt | 7 år | Fil från Swedbank.<br>P:\Dfiles\Utbetalningar\KR\BG\Kvittens\Ar<br>kiv |
 |  | Avvisade kundutbetalningar BG | Se anm. | Digitalt | 2 år | Fil från Swedbank.<br>P:\Dfiles\Utbetalningar\KR\BG\Kvittens\Ar<br>kiv |
 |  | Avvisade kundutbetalningar SUS | Se anm. | Papper | 7 år | Besked om avvisade kundutbetalningar<br>kommer i Internetbanken som ett<br>elektroniskt dokument. Bokas och sparas<br>tillsammans med kassaverifikationer. |
-
-<!-- sida 493 -->
-
-Informationshanteringsplan                      Sida 73 av 118
-
-[Tabell 493-1](handlingar.tabeller/493-1.csv)
-
 | Hantera<br>utbetalning från<br>Future | Utbetalningsfil till Swedbank | Se anm | Digitalt | 7 år | P:\EDP Future Filer\UT BGC\TEIS |
-| --- | --- | --- | --- | --- | --- |
 | Hantera<br>kravhantering | Betalningspåminnelser | Se anm. | Digitalt | 2 år | Raindance:<br>P:\DFiles\Arkiv\KR\Betalningspåminnelser<br>Future: P:\EDP Future Filer\Kravfil och lista<br>på utskrivna krav under P:\EDP Future<br>Filer\ARKIV\Påminnelser |
 |  | Inkassokrav | Se anm. | Digitalt | 7 år | Raindance: P:\DFiles\Arkiv\KR\Inkassokrav<br>Future: P:\EDP Future<br>Filer\ARKIV\Inkassokrav |
 |  | Betalningsföreläggande betalda | Närarkiv<br>Vägmästaren | Papper | 7 år | Betalning registreras i KRP och när hela<br>skulden är betald sätts alla underlag i pärmen<br>“Betalningsföreläggande betalda”. |
@@ -9151,11 +8706,19 @@ Informationshanteringsplan                      Sida 73 av 118
 | Hantera E-faktura | Anmälan/avanmälan e-faktura<br>kundreskontran | Se anm. | Digitalt | Gallras vid<br>inaktualitet | Anmälan/avanmälan läses in digitalt i<br>Raindance och Future. |
 | Hantera<br>amorteringsplan | Amorteringsplaner för<br>kundfakturor i Raindance och<br>Future | Närarkiv,<br>Vägmästaren | Papper | Gallras vid<br>inaktualitet |  |
 
+<!-- sida 492 -->
+
+Informationshanteringsplan                      Sida 72 av 118
+
+<!-- sida 493 -->
+
+Informationshanteringsplan                      Sida 73 av 118
+
 <!-- sida 494 -->
 
 Informationshanteringsplan                      Sida 74 av 118
 
-[Tabell 494-1](handlingar.tabeller/494-1.csv)
+[Tabell 494-495-1](handlingar.tabeller/494-495-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -9169,15 +8732,7 @@ Informationshanteringsplan                      Sida 74 av 118
 |  | Räntefakturor, krav och<br>inkasso | Närarkiv SE<br>Inköp | Papper | 7 år | Inkomna krav på papper som inte skannas, manuell<br>hantering och registrering direkt i ekonomisystemet<br>Raindance. |
 |  | Fakturafiler från Proceedo<br>till Raindance | Se anm. | Digitalt | 2 år | P:\DFiles\Proceedo\Arkiv<br>Avser A, B och C-filer |
 |  | Kvitton | Se anm. | Papper | Se anm. | Originalkvitton som är underlag för ej specificerade<br>fakturor och där kvittot har scannats in till fakturan i<br>Proceedo arkiveras på respektive enhet och får<br>gallras efter 3 år<br>Originalkvitton som är underlag för ej specificerade<br>fakturor arkiveras på respektive enhet, samt med |
-
-<!-- sida 495 -->
-
-Informationshanteringsplan                      Sida 75 av 118
-
-[Tabell 495-1](handlingar.tabeller/495-1.csv)
-
 |  |  |  |  |  | hänvisning till order/fakturanumret och får gallras<br>efter 7 år. |
-| --- | --- | --- | --- | --- | --- |
 | Betala<br>leverantörsfakturor | Manuella utbetalningar | Se anm. | Papper | 7 år | Manuella utbetalningar registreras i Raindance.<br>Arkiveras hos respektive förvaltning i sju år. |
 |  | Utbetalningsfil till<br>BGC/Swedbank | Se anm. | Digitalt | 7 år | Ekonomi skickar tre olika filer:<br>Leverantörbetalningar BGC:<br>P:\DFiles\Bg\Arkiv\TEIS<br>Utlandsbetalningar Swedbank: P:\DFiles\\:<br>Sepa\teis\Arkiv<br>Utbetalningar privatpersoner via Swedbank SUS:<br>P:\DFiles\ Su\Arkiv |
 |  | Utbetalningsjournal | Se anm. | Digitalt | 7 år | Utbetalningsjournal skapas i Raindance för alla<br>utbetalningssätten och arkiveras på<br>P:\DFiles\Arkiv\LR\Utbet_journal |
@@ -9185,6 +8740,10 @@ Informationshanteringsplan                      Sida 75 av 118
 |  | Återredovisade<br>leverantörsbetalningar från<br>Raindance till Proceedo | Se anm. | Digitalt | 2 år | P:\DFiles\Arkiv\LR\Aterrapp_betaldag |
 |  | Avvisade<br>leverantörsbetalningar | Närarkiv<br>Vägmästaren | Papper | 2 år | Besked om avvisade leverantörsbetalningar kommer<br>från Bankgirocentralen. Ansvarig handläggare<br>åtgärdar utbetalningen i ekonomisystemet. |
 |  | Avvisade<br>leverantörsutbetalningar<br>SUS | Närarkiv<br>Vägmästaren | Papper | 7 år | Besked om avvisade leverantörsbetalningar kommer<br>i Internetbanken som ett elektroniskt dokument.<br>Sparas tillsammans med kassaverifikationer. |
+
+<!-- sida 495 -->
+
+Informationshanteringsplan                      Sida 75 av 118
 
 <!-- sida 496 -->
 
@@ -9220,7 +8779,7 @@ Informationshanteringsplan                      Sida 77 av 118
 
 Informationshanteringsplan                      Sida 78 av 118
 
-[Tabell 498-1](handlingar.tabeller/498-1.csv)
+[Tabell 498-500-1](handlingar.tabeller/498-500-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -9235,15 +8794,7 @@ Informationshanteringsplan                      Sida 78 av 118
 |  | Anläggningsregister –<br>avstämningslista<br>kapitalkostnader | Raindance | Digitalt | 2 år | Arkiveras digitalt i Samarbetsrum\KSF<br>Ekonomisystem systemförvaltning\Delsystem<br>AR\20XX\Kapitalkostnader |
 | Hantera bokföring<br>och avstämning | Bokföringsorder | Raindance | Digitalt | 7 år | Bokföringsordern registreras i<br>ekonomisystemet och skickas sedan till<br>attestant för attest och blir definitiv vid<br>attestering. |
 |  | Kassaverifikationer | Närarkiv,<br>Vägmästaren | Papper | 7 år | Kassaverifikationerna registreras i<br>ekonomisystemet med vertypen EKBANK. |
-
-<!-- sida 499 -->
-
-Informationshanteringsplan                      Sida 79 av 118
-
-[Tabell 499-1](handlingar.tabeller/499-1.csv)
-
 |  | Bokföringsorder<br>försäljning Kassasystem | Se anm. | Digitalt | 7 år | En gemensam bokföringsfil från alla<br>försäljningsställenas kassasystem.<br>P:\DFiles\Kassaystem\Svepos\Arkiv<br>Bokas med vertypen EKBOKA |
-| --- | --- | --- | --- | --- | --- |
 |  | Bokföringsorder<br>inbetalningar E-tjänster | Se anm. | Digitalt | 7 år | P:\DFiles\Etjänst\Arkiv<br>Bokas med vertypen EKETJÄ<br>Underlag för att skapa bokföringsordern finns i<br>mappen P:\DFiles\Etjänst\Payex\Arkiv |
 |  | Kassaredovisning -<br>Bokföringsrapport | Se anm. | Digitalt | 7 år | P:\DFiles\Kassasystem\Svepos\Arkiv\ Arkiv<br>bokföringsrapport kassa<br>Z-rapport finns digitalt i kassasystemet |
 |  | Bokslutsspecifikationer | Se anm. | Digitalt | Bevaras | Fram till och med delårsbokslut 2021:<br>G:\KLK\Begränsad\Alla Ekonomi\Bokslut,<br>delårsrapport\Bokslut<br>Från och med årsbokslut 2021: Modul i<br>Ekonomisystemet Raindance |
@@ -9255,20 +8806,20 @@ Informationshanteringsplan                      Sida 79 av 118
 |  | Revisionsrapporter | Diarium | Digitalt | Bevaras |  |
 |  | Grund- och Huvudbok | Raindance | Digitalt | Bevaras |  |
 | Hantera<br>räkenskapsstatistik | Statistik SCB | Se anm. | Digitalt | 7 år | Ekonomi lämnar olika sorters statistik till SCB:<br>Räkenskapssammandraget: Steg 1 och 2,<br>Kvartalsutfall, Privata utförare, Kommunens |
-
-<!-- sida 500 -->
-
-Informationshanteringsplan                      Sida 80 av 118
-
-[Tabell 500-1](handlingar.tabeller/500-1.csv)
-
 |  |  |  |  |  | finansiella tillgångar och skulder och Offentligt<br>ägda företag.<br>Arkiveras: Samarbetsrum/KSF Ekonomi<br>KLK/8 Statistik |
-| --- | --- | --- | --- | --- | --- |
 | Fakturera internt | Internfakturor | Se anm. | Digitalt | 2 år | Internfakturor skapas både i Visma Proceedo<br>och Raindance. Eventuellt underlag på papper<br>förvaras på respektive förvaltning. |
 | Hantera garantier<br>och säkerheter | Garantier | Se anm. | Se anm. | Gallras 7 år efter<br>avslut | Papper – Original Garantier/säkerheter<br>arkiveras i kassaskåpet i KLK Styrning &<br>Ekonomis närarkiv på Vägmästaren.<br>Innehållsförteckning/kartotek arkiveras i<br>Samarbetsrum\KSF Ekonomi KLK -<br>Internbanken\Bankgarantier\\ |
 | Systemdokumentatio<br>n | Systemdokumentation | Se anm. | Digitalt | Bevaras | Sparas årligen från och med 2020<br>Samarbetsrum\KSF Ekonomi KLK \KSF<br>Ekonomisystem systemförvaltning |
 | Hantera<br>attestbehörigheter | Attestunderlag | Se anm. | Se anm. | 7 år efter avslutad<br>attestbehörighet | Attestbasen finns på<br>G:\KLK\Begränsad\Attestregister<br>Attestunderlagen som skickas in digitalt till<br>(e-post borttagen) registreras i<br>attestbasen, underlagen arkiveras på respektive<br>förvaltning |
 | Hantera Försäkring | Försäkringshandlingar | Se anm. | Digitalt | 7 år efter avtalets<br>slut | Försäkringsbreven kommer från Kommunens<br>försäkringsförmedlare på Söderberg &<br>Partners. Kommunens försäkringssamordnare<br>har tillgång till Söderberg & Partners<br>dokumentsystem "Optimum" där kommunens<br>försäkringsbrev mm finns tillgängliga. |
+
+<!-- sida 499 -->
+
+Informationshanteringsplan                      Sida 79 av 118
+
+<!-- sida 500 -->
+
+Informationshanteringsplan                      Sida 80 av 118
 
 <!-- sida 501 -->
 
@@ -9373,7 +8924,7 @@ Informationshanteringsplan                      Sida 87 av 118
 
 Informationshanteringsplan                      Sida 88 av 118
 
-[Tabell 508-1](handlingar.tabeller/508-1.csv)
+[Tabell 508-509-1](handlingar.tabeller/508-509-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -9390,17 +8941,13 @@ Informationshanteringsplan                      Sida 88 av 118
 |  | Årsbokslut | Närarkiv<br>Vägmästaren | Papper | Bevaras | Finns även digitalt i samarbetsrum Alla<br>Ekonomi \Stiftelser\4 Bokslut\respektive<br>år |
 |  | Årsredovisning | Närarkiv<br>Vägmästaren | Papper | Bevaras | Finns även digitalt i samarbetsrum Alla<br>Ekonomi \Stiftelser\3 Årsredovisningar<br>\respektive år |
 |  | Ansökan om medel med<br>tillhörande underlag | Diarium | Digitalt | Bevaras | Hanteras av respektive förvaltning. |
+|  | Protokollsutdrag | Diarium | Digitalt | Bevaras | Förvaras i förvaltningarnas diarium |
+|  | Beslut om utbetalning | G: | Digitalt | 7 år | Skickas in från respektive förvaltning<br>till KLK för utbetalning och bokföring.<br>Samarbetsrum Alla Ekonomi\\<br>Stiftelser\respektive<br>stiftelse\Utdelningar\respektive år |
+|  | Kopia på deklarationer | G: | Digitalt | 7 år | Originalet skickas in på papper till<br>Skatteverket, kopior sparas i<br>samarbetsrum Alla Ekonomi\\<br>Stiftelser\4 Bokslut\respektive<br>år\Deklarationer |
 
 <!-- sida 509 -->
 
 Informationshanteringsplan                      Sida 89 av 118
-
-[Tabell 509-1](handlingar.tabeller/509-1.csv)
-
-|  | Protokollsutdrag | Diarium | Digitalt | Bevaras | Förvaras i förvaltningarnas diarium |
-| --- | --- | --- | --- | --- | --- |
-|  | Beslut om utbetalning | G: | Digitalt | 7 år | Skickas in från respektive förvaltning<br>till KLK för utbetalning och bokföring.<br>Samarbetsrum Alla Ekonomi\\<br>Stiftelser\respektive<br>stiftelse\Utdelningar\respektive år |
-|  | Kopia på deklarationer | G: | Digitalt | 7 år | Originalet skickas in på papper till<br>Skatteverket, kopior sparas i<br>samarbetsrum Alla Ekonomi\\<br>Stiftelser\4 Bokslut\respektive<br>år\Deklarationer |
 
 <!-- sida 510 -->
 
@@ -9442,7 +8989,7 @@ Informationshanteringsplan                      Sida 91 av 118
 
 Informationshanteringsplan                      Sida 92 av 118
 
-[Tabell 512-1](handlingar.tabeller/512-1.csv)
+[Tabell 512-516-1](handlingar.tabeller/512-516-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -9459,15 +9006,7 @@ Informationshanteringsplan                      Sida 92 av 118
 |  | Avtalsvillkor | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 |  | Lista<br>upphandlingsdokumentshämtare | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 | Genomföra<br>upphandling | Frågor från anbudsgivare och svar,<br>under annonseringstiden | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | När frågorna blir av betydelse för<br>upphandlingen går det ut ett<br>förtydligande, meddelande till alla |
-
-<!-- sida 513 -->
-
-Informationshanteringsplan                      Sida 93 av 118
-
-[Tabell 513-1](handlingar.tabeller/513-1.csv)
-
 | Genomföra<br>upphandling |  |  |  |  | anbudsgivare. Administreras i Tendsign,<br>överförs till Ciceron avtalsdiarium efter<br>avslutat ärende |
-| --- | --- | --- | --- | --- | --- |
 |  | Ansökningsinbjudan | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Specifikt för urvalsselektiv eller<br>förhandlad upphandling. Administreras i<br>Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
 |  | Ansökningar om att få inkomma<br>med anbud, valda | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Specifikt för urvalsselektiv eller<br>förhandlad upphandling. Administreras i<br>Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
 |  | Ansökningar om att få inkomma<br>med anbud, ej valda/ej korrekt<br>inlämnande | Ciceron<br>avtalsdiarium | Digitalt | Gallras 4 år efter<br>avslutad<br>upphandling | Specifikt för urvalsselektiv eller<br>förhandlad upphandling. Administreras i<br>Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
@@ -9476,15 +9015,7 @@ Informationshanteringsplan                      Sida 93 av 118
 | Anbudspröva och<br>utvärdera | Fullmakt | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 |  | Anbudssammanställning | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 |  | Anbud, antagna | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Inklusive specifikationer, bilagor etc.<br>Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
-
-<!-- sida 514 -->
-
-Informationshanteringsplan                      Sida 94 av 118
-
-[Tabell 514-1](handlingar.tabeller/514-1.csv)
-
 | Anbudspröva och<br>utvärdera | Anbud, ej antagna | Ciceron<br>avtalsdiarium | Digitalt | Gallras 4 år efter<br>avslutad<br>upphandling | Inklusive specifikationer, bilagor etc.<br>Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
-| --- | --- | --- | --- | --- | --- |
 |  | Öppningsprotokoll | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Anbudsöppning, ansökan. Administreras i<br>Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
 |  | Korrespondens med anbudsgivare,<br>av betydelse | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 |  | Korrespondens med anbudsgivare,<br>av ringa eller tillfällig betydelse | Outlook | Digitalt | Gallras vid<br>inaktualitet |  |
@@ -9495,30 +9026,14 @@ Informationshanteringsplan                      Sida 94 av 118
 |  | Dokument från intervjuer, prover,<br>tester, inspelad presentation | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 |  | Lottningsprotokoll | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 |  | Upphandlingsprotokoll | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
-
-<!-- sida 515 -->
-
-Informationshanteringsplan                      Sida 95 av 118
-
-[Tabell 515-1](handlingar.tabeller/515-1.csv)
-
 | Anbudspröva och<br>utvärdera | Begäran om förklaring av anbud<br>med svar | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Exempelvis förklaring vid onormalt lågt<br>anbud. Bevaras som en del av<br>anbudshandlingar (frågor och svar).<br>Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
-| --- | --- | --- | --- | --- | --- |
 | Avbryta upphandling | Beslut om att avbryta upphandling | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 | Besluta och teckna<br>avtal | Tilldelningsbeslut | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Kvitto på utsänt tilldelningsbeslut,<br>avbrytandebeslut registreras i<br>upphandlingssystemets logg.<br>Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 |  | Avtal/kontrakt inklusive bilagor | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Exempelvis ramavtal, objektsavtal,<br>entreprenadavtal, tjänstekoncessionsavtal<br>och avtal för externa utförare.<br>Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende. |
 |  | Resultat- och analysrapport | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 | Efterannonsera | Efterannonsering - annons efter<br>avslutad upphandling till EUT/TED | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 | Följa upp och<br>förvalta avtal | Förändring av avtal | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Inklusive motivering till förändring<br>/tjänsteskrivelse. Kan även vara<br>tilläggsavtal, prisjustering. Administreras<br>i Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
-
-<!-- sida 516 -->
-
-Informationshanteringsplan                      Sida 96 av 118
-
-[Tabell 516-1](handlingar.tabeller/516-1.csv)
-
 |  | Annonsering av förändring av beslut<br>enligt 17 kap. 16 § LOU | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
-| --- | --- | --- | --- | --- | --- |
 |  | Överlåtelse av avtal | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 | Följa upp och<br>förvalta avtal | Korrespondens med leverantör | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | I korrespondens av betydelse ingår<br>exempelvis mötesprotokoll, varsling om<br>brist, handlingsplaner för avhjälpande av<br>fel, reklamation. Administreras i<br>Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
 |  | Anmodan om rättelse | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Anmodan kan även innehålla meddelande<br>om vite eller annan påföljd. Administreras<br>i Tendsign, överförs till Ciceron<br>avtalsdiarium efter avslutat ärende |
@@ -9526,11 +9041,27 @@ Informationshanteringsplan                      Sida 96 av 118
 |  | Hävning av avtal/kontrakt<br>(hävningsmeddelande) | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 |  | Överenskommelser om upphörande<br>av avtal/förlikningar | Ciceron<br>avtalsdiarium | Digitalt | Bevaras | Administreras i Tendsign, överförs till<br>Ciceron avtalsdiarium efter avslutat<br>ärende |
 
+<!-- sida 513 -->
+
+Informationshanteringsplan                      Sida 93 av 118
+
+<!-- sida 514 -->
+
+Informationshanteringsplan                      Sida 94 av 118
+
+<!-- sida 515 -->
+
+Informationshanteringsplan                      Sida 95 av 118
+
+<!-- sida 516 -->
+
+Informationshanteringsplan                      Sida 96 av 118
+
 <!-- sida 517 -->
 
 Informationshanteringsplan                      Sida 97 av 118
 
-[Tabell 517-1](handlingar.tabeller/517-1.csv)
+[Tabell 517-519-1](handlingar.tabeller/517-519-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -9542,30 +9073,22 @@ Informationshanteringsplan                      Sida 97 av 118
 | Förbereda och<br>initiera<br>upphandlingsärende | Förfrågan/<br>behovsspecifikation/offert | Se anmärkning | Digitalt | Se anmärkning | Om handlingen ingår i direktupphandlingar<br>med ett värde under 100 000 kr: förvaras i<br>samarbetsrum och gallras vid avtalets<br>utgång. |
 |  | Underlag för beräkning<br>av inköpsbelopp | Se anmärkning | Digitalt | Se anmärkning | Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, med<br>avtalshandling undertecknad av båda<br>parter: registreras i Ciceron avtalsdiarium<br>och<br>bevaras.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan<br>avtalshandling undertecknad av båda<br>parter: registreras i Proceedo och gallras<br>efter 7 år. |
 | Genomföra<br>direktupphandling | Inbjudan<br>direktupphandling | Se anmärkning | Digitalt | Se anmärkning | Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, med<br>avtalshandling undertecknad av båda<br>parter: registreras i Ciceron avtalsdiarium<br>och<br>bevaras. |
+|  |  |  |  |  | Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan<br>avtalshandling undertecknad av båda<br>parter: registreras i Proceedo och gallras<br>efter 7 år. |
+|  | Kravspecifikation<br>direktupphandling | Se anmärkning | Digitalt | Se anmärkning | Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, med<br>avtalshandling undertecknad av båda<br>parter: registreras i Ciceron avtalsdiarium<br>och<br>bevaras.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan<br>avtalshandling undertecknad av båda<br>parter: registreras i Proceedo och gallras<br>efter 7 år. |
+|  | Anbud, antagna | Se anmärkning | Digitalt | Se anmärkning | Inklusive bilagor.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, med<br>avtalshandling undertecknad av båda<br>parter: registreras i Ciceron avtalsdiarium<br>och<br>gallras vid avtalets utgång.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan |
+|  |  |  |  |  | avtalshandling undertecknad av båda<br>parter: registreras i Proceedo och gallras<br>efter 7 år. |
+|  | Anbud, ej antagna | Se anmärkning | Digitalt | Se anmärkning | Inklusive bilagor.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, med<br>avtalshandling undertecknad av båda<br>parter: registreras i Ciceron avtalsdiarium<br>och<br>Gallras vid avtalets utgång.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan<br>avtalshandling undertecknad av båda<br>parter: registreras i Proceedo och gallras<br>efter 7 år. |
+|  | Rekvisition | Proceedo | Digitalt | 7 år |  |
+| Besluta och teckna<br>avtal | ”Dokumentation av<br>direktupphandlingar” | Ciceron avtalsdiarium | Digitalt | Bevaras | Upprättas för att efterleva lagkravet på<br>dokumentation för upphandlingar för ett<br>värde över 100 000 kr, Konkurrensverket. |
+|  | Avtal | Se anmärkning | Se<br>anmärkning | Se anmärkning | Avtal underskrivna digitalt förvaras i<br>Ciceron avtalsdiarium.<br>Avtal på papper registreras i Ciceron<br>avtalsdiarium och förvaras hos<br>handläggare.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde<br>över 100 000 kr: bevaras. |
 
 <!-- sida 518 -->
 
 Informationshanteringsplan                      Sida 98 av 118
 
-[Tabell 518-1](handlingar.tabeller/518-1.csv)
-
-|  |  |  |  |  | Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan<br>avtalshandling undertecknad av båda<br>parter: registreras i Proceedo och gallras<br>efter 7 år. |
-| --- | --- | --- | --- | --- | --- |
-|  | Kravspecifikation<br>direktupphandling | Se anmärkning | Digitalt | Se anmärkning | Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, med<br>avtalshandling undertecknad av båda<br>parter: registreras i Ciceron avtalsdiarium<br>och<br>bevaras.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan<br>avtalshandling undertecknad av båda<br>parter: registreras i Proceedo och gallras<br>efter 7 år. |
-|  | Anbud, antagna | Se anmärkning | Digitalt | Se anmärkning | Inklusive bilagor.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, med<br>avtalshandling undertecknad av båda<br>parter: registreras i Ciceron avtalsdiarium<br>och<br>gallras vid avtalets utgång.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan |
-
 <!-- sida 519 -->
 
 Informationshanteringsplan                      Sida 99 av 118
-
-[Tabell 519-1](handlingar.tabeller/519-1.csv)
-
-|  |  |  |  |  | avtalshandling undertecknad av båda<br>parter: registreras i Proceedo och gallras<br>efter 7 år. |
-| --- | --- | --- | --- | --- | --- |
-|  | Anbud, ej antagna | Se anmärkning | Digitalt | Se anmärkning | Inklusive bilagor.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, med<br>avtalshandling undertecknad av båda<br>parter: registreras i Ciceron avtalsdiarium<br>och<br>Gallras vid avtalets utgång.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde mellan 100 000 och<br>direktupphandlingsgräns, utan<br>avtalshandling undertecknad av båda<br>parter: registreras i Proceedo och gallras<br>efter 7 år. |
-|  | Rekvisition | Proceedo | Digitalt | 7 år |  |
-| Besluta och teckna<br>avtal | ”Dokumentation av<br>direktupphandlingar” | Ciceron avtalsdiarium | Digitalt | Bevaras | Upprättas för att efterleva lagkravet på<br>dokumentation för upphandlingar för ett<br>värde över 100 000 kr, Konkurrensverket. |
-|  | Avtal | Se anmärkning | Se<br>anmärkning | Se anmärkning | Avtal underskrivna digitalt förvaras i<br>Ciceron avtalsdiarium.<br>Avtal på papper registreras i Ciceron<br>avtalsdiarium och förvaras hos<br>handläggare.<br>Om handlingen ingår i direktupphandlingar<br>med ett värde<br>över 100 000 kr: bevaras. |
 
 <!-- sida 520 -->
 
@@ -9618,7 +9141,7 @@ Informationshanteringsplan                      Sida 102 av 118
 
 Informationshanteringsplan                      Sida 103 av 118
 
-[Tabell 523-1](handlingar.tabeller/523-1.csv)
+[Tabell 523-524-1](handlingar.tabeller/523-524-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -9640,15 +9163,7 @@ Informationshanteringsplan                      Sida 103 av 118
 |  | Bilagor till plan för<br>styrel | Säkerhetsskåp | Papper | Bevaras | Försvarssekretess enligt OSL 15:2. |
 | Hantera skyddsobjekt | Beslut om skyddsobjekt | Säkerhetsskåp | Papper | Bevaras | Inkommer från Länsstyrelsen<br>Försvarssekretess enligt OSL 15:2. |
 | Samordna<br>Krisledning vid<br>samhällsstörning | Lägesbilder,<br>dokumentation | Diarium | Digitalt | Bevaras | T.ex. kartor, fotografier på whiteboards,<br>skärmdumpar från IT-system. En lägesbild<br>innehåller vad som har hänt, konsekvenser för |
-
-<!-- sida 524 -->
-
-Informationshanteringsplan                      Sida 104 av 118
-
-[Tabell 524-1](handlingar.tabeller/524-1.csv)
-
 |  |  |  |  |  | verksamheten, åtgärder, resurser och<br>samordningsbehov. |
-| --- | --- | --- | --- | --- | --- |
 |  | Korrespondens | Se anm. | Digitalt | Bevaras | Korrespondens av vikt bevaras i diarium<br>exempelvis viktigt meddelande till allmänheten<br>(VMA), information till allmänheten,<br>myndighetsmeddelande. Korrespondens av mindre<br>vikt gallras vid inaktualitet. |
 |  | Mötesanteckningar | Diarium | Digitalt | Bevaras | Anteckningar vid stabsorientering<br>(krisledningsorganisationens möten). |
 |  | Beslut som påverkar<br>samhället eller egen<br>verksamhet | Diarium | Digitalt | Bevaras | Till exempel beslut om eldningsförbud och<br>upphävande av eldningsförbud, stängning av<br>verksamheter. |
@@ -9657,11 +9172,15 @@ Informationshanteringsplan                      Sida 104 av 118
 |  | Uppföljning till civilt<br>försvar | Se anm. | Papper | Se anm. | Uppföljning till Länsstyrelsen avhändas. |
 |  | Mottagningsbevis | Säkerhetsskåp | Papper | Bevaras | Avser mottagningsbevis av rekommenderat brev. |
 
+<!-- sida 524 -->
+
+Informationshanteringsplan                      Sida 104 av 118
+
 <!-- sida 525 -->
 
 Informationshanteringsplan                      Sida 105 av 118
 
-[Tabell 525-1](handlingar.tabeller/525-1.csv)
+[Tabell 525-526-1](handlingar.tabeller/525-526-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -9679,16 +9198,12 @@ Informationshanteringsplan                      Sida 105 av 118
 |  | Filmer i bildbank | Media flow | Digitalt | Se anm. | Ett urval av filmer som speglar<br>verksamheten bevaras i samråd med<br>kommunarkivet.<br>Filmer av ringa eller tillfällig karaktär<br>gallras efter fem år.<br>För interna utbildningsfilmer se 2.3.2.2<br>kompetensutveckla |
 |  | Kommunikationstrappan | Samarbetsrum | Digitalt | Bevaras |  |
 |  | Innehållsplan | Samarbetsrum | Digitalt | Vid inaktualitet | Uppdateras kontinuerligt. |
+|  | Kanalplan | Samarbetsrum | Digitalt | Vid inaktualitet | Uppdateras kontinuerligt. |
+|  | Direkt från kommunen – ett<br>nyhetsbrev från Kungsbacka<br>kommun | Apsis | Digitalt | Se anm. | Systemförvaltaren ansvarar för att<br>ögonblicksbilder tas en gång om året i<br>samråd med kommunarkivet. |
 
 <!-- sida 526 -->
 
 Informationshanteringsplan                      Sida 106 av 118
-
-[Tabell 526-1](handlingar.tabeller/526-1.csv)
-
-|  | Kanalplan | Samarbetsrum | Digitalt | Vid inaktualitet | Uppdateras kontinuerligt. |
-| --- | --- | --- | --- | --- | --- |
-|  | Direkt från kommunen – ett<br>nyhetsbrev från Kungsbacka<br>kommun | Apsis | Digitalt | Se anm. | Systemförvaltaren ansvarar för att<br>ögonblicksbilder tas en gång om året i<br>samråd med kommunarkivet. |
 
 <!-- sida 527 -->
 
@@ -9728,7 +9243,7 @@ Informationshanteringsplan                      Sida 108 av 118
 
 Informationshanteringsplan                      Sida 109 av 118
 
-[Tabell 529-1](handlingar.tabeller/529-1.csv)
+[Tabell 529-530-1](handlingar.tabeller/529-530-1.csv)
 
 | Verksamhetstyp: | Ge verksamhetsstöd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -9752,19 +9267,15 @@ Informationshanteringsplan                      Sida 109 av 118
 |  | Informationsmaterial | Samarbetsrum | Digital | 2 år | Externt material, inkommer från SCB. |
 | Motta resultat av<br>medborgarundersökning | Underlag | Diarium | Digital | Bevaras | Statistiskt underlag. Inkommer från SCB. |
 |  | SCB:s<br>medborgarundersökning | Diarium | Digital | Bevaras | Avser den rapport som resultatet utmynnar i.<br>Inkommer från SCB. |
-
-<!-- sida 530 -->
-
-Informationshanteringsplan                      Sida 110 av 118
-
-[Tabell 530-1](handlingar.tabeller/530-1.csv)
-
 |  | för Kungsbacka<br>kommun |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Tabell- och<br>diagrambilaga | Diarium | Digital | Bevaras | Inkommer från SCB. |
 | Presentera resultat av<br>medborgarundersökning | Rapport | Diarium | Digital | Bevaras | Rapport skapad av Kungsbacka kommun utifrån<br>det mottagna resultatet från SCB. |
 |  | Pressmeddelande | Samarbetsrum | Digitalt | 2 år | Interna och externa pressmeddelanden. |
 |  | Informationsmaterial | Samarbetsrum | Digitalt | 2 år | Informationsmaterial skapat av Kungsbacka<br>kommun. |
+
+<!-- sida 530 -->
+
+Informationshanteringsplan                      Sida 110 av 118
 
 <!-- sida 531 -->
 
@@ -19053,7 +18564,7 @@ KUNGSBACKA  KOMMUN
 
 Nämndernas redovisade ombudgeteringar och resultatfonder
 
-[Tabell 792-1](handlingar.tabeller/792-1.csv)
+[Tabell 792-794-1](handlingar.tabeller/792-794-1.csv)
 
 | Nämnd/Styrelse | Noteringar |
 | --- | --- |
@@ -19061,34 +18572,24 @@ Nämndernas redovisade ombudgeteringar och resultatfonder
 | Förskola & Grundskola | Nämnden redovisar ett överskott om 8 765 000 kronor. Nämnden<br>föreslår att hela överskottet förs över till nämndens resultatfond.<br>Överskottet beror till stor del på lägre kostnader inom den centrala<br>organisationen. Detta gäller främst kostnader för lokalhyror,<br>skolmåltider, kompetensutvecklingsprojekt, skolskjutskostnader och<br>system. En prioritet har varit att arbeta med lokaleffektivitet för att<br>minska kostnaderna då flera lokaler och paviljonger har avvecklats under<br>året. Nämnden har konsekvent arbetat med åtgärdsplaner under året för<br>att nå en budget i balans som ska möta ett lägre barn- och elevantal.<br>Kommunstyrelsens förvaltning föreslår att nämndens begäran beviljas<br>och hela överskottet på 8 765 000 kronor förs till nämndens resultatfond. |
 | Gymnasium &<br>Arbetsmarknad | Gymnasium & Arbetsmarknad redovisar ett överskott om 13 498 000<br>kronor. Nämnden föreslår att 3 103 000 kronor överförs till<br>resultatfonden och de resterande 10 395 000 kronor föreslås att<br>återredovisas då nämnden når taket för resultatfondens tillåtna storlek.<br>Nämnden har under året arbetat med flera olika effektiviseringar såsom<br>minskade kostnader för tomhyror, minskade kostnader för lokaler för<br>nyanlända, samt minskat antal tjänster genom effektiviserad process på<br>arbetsmarknadsenheterna.<br>Kommunstyrelsens förvaltning föreslår att nämndens begäran beviljas då<br>resultatfonden kommer nå resultatfondens tillåtna storlek. |
 | Vård & Omsorg | Vård & Omsorg redovisar ett överskott om 19 402 000 kronor. Nämnden<br>föreslår att hela överskottet förs till resultatfonden. Överskottet förklaras<br>av att de senaste åren har förvaltningen arbetat med effektiviseringar för<br>att bibehålla en budget i balans och därigenom skapa utrymme för att<br>kunna möta förändringar i samhället med bland annat ökad andel äldre<br>och kompetensbrist. |
+|  | Kommunstyrelsens förvaltning föreslår att nämndens begäran beviljas,<br>och därmed att 19 402 000 kronor förs till resultatfonden. |
+| Byggnadsnämnden | Byggnadsnämnden redovisar ett överskott om 4 014 000 kronor.<br>Nämnden föreslår att 1 117 000 kronor avseende projektbudget för<br>kartutveckling som inte kunnat användas som planerat ombudgeteras till<br>2025, att 2 000 kronor avseende internränta återredovisas samt att<br>resterande överskott om 2 895 000 kronor förs till resultatfonden.<br>Kommunstyrelsens förvaltning föreslår att 1 117 000 kronor<br>ombudgeteras avseende kartutvecklingsprojektet samt internräntan<br>återredovisas och att nämndens begäran om att överföra 2 895 000<br>kronor till resultatfonden godkänns. |
+| Miljö & Hälsoskydd | Nämnden redovisar ett överskott om 180 000 kronor. Jämfört med<br>budget har nämnden en positiv budgetavvikelse där det i första hand är<br>kostnaderna för arvoden som varit något lägre än budgeterat för året. Då<br>nämnden inte har någon resultatfond eller projekt som kan ombudgeteras<br>föreslår nämnden att hela överskottet återredovisas.<br>Kommunstyrelsens förvaltning föreslår att nämndens begäran beviljas<br>och att hela överskottet återredovisas. |
+| Kultur & Fritid | Nämnden redovisar ett underskott om 1 145 000 kronor. Nämnden<br>föreslår att av nämndens underskott om total 1 145 000 kronor så ska<br>316 000 kronor som avser internränta återredovisas och därmed att<br>1 461 000 kronor finanserias av nämndens resultatfond. Underskottet<br>beror på kostnader i samband md stängning av Kungsbacka badhus<br>under sommaren 2024 samt planerade utvecklingsprojekt.<br>Kommunstyrelsens förvaltning föreslår att nämndens begäran beviljas<br>vilket innebär att resultatfonden minskar med 1 461 000 kronor. |
+| Teknik skatt | Nämnden för Teknik redovisar ett överskott om 188 000 kronor.<br>Nämnden föreslår att överskottet förs över till nämndens resultatfond.<br>Nycklar till att nå resultatet har varit flera. Vissa arbeten utförts mer<br>sällan än tidigare. Stora omprioriteringar inom utemiljöskötseln har<br>genomförts bland annat med hjälp av ett nytt klassificeringssystem för<br>skötsel av ytor. Den nya upphandlingen av trafikavtal för Färdtjänst har<br>resulterat i lägre kostnader för resor än tidigare år. Nya taxor för<br>egenavgifter i Färdtjänsten, och nya taxor för parkering, har<br>båda bidragit till högre intäkter än tidigare. Ett mer stabilt elpris har gjort |
+|  | att kostnader inte fluktuerat lika mycket som tidigare år, något som gjort<br>prognosarbetet mer träffsäkert.<br>Kommunstyrelsens förvaltning föreslår att överskottet i sin helhet om<br>188 000 kronor förs över till nämndens resultatfond. |
+| Service | Nämnden visar ett totalt underskott om 8 649 000 kronor.<br>Av det totala underskottet redovisar Service fastighet ett underskott om<br>17 105 000 kronor och Service drift redovisar ett överskott på 8 456 000<br>kronor. Gällande Service fastighet föreslås ombudgetering för pågående<br>projekt i lokalplanen på totalt 694 000 kronor samt återredovisning för<br>poster med total negativ resultateffekt på -15 578 000 kronor. Efter<br>ombudgetering och återredovisning har Service fastighet ett<br>driftunderskott på 2 221 000 kronor som föreslås finansieras av<br>nämndens resultatfond. En stor bidragande orsak är de fortsatt höga<br>energipriserna. Andra väsentliga kostnadsavvikelser avser<br>resultatpåverkan förknippat med redovisning av finansiell leasing,<br>kostnader för utrangeringar av anläggningstillgångar och nedlagda<br>lokalprojekt som Borgmästaren, Elektronen samt Hede och Klinnekärs<br>förskola. För Service drift föreslår nämnden att 8 283 000 kronor förs till<br>nämndens resultatfond och att resterande 173 000 kronor som avser<br>internränta återredovisas.<br>Kommunstyrelsens förvaltning föreslår att nämndens förslag för<br>fastighetsverksamheten beviljas, 694 000 kronor ombudgeteras för<br>pågående projekt, 2 221 000 kronor tas i anspråk av resultatfonden och<br>att nämnden återredovisar 15 578 000 kronor. Kommunstyrelsens<br>förvaltning föreslår också att nämndens begäran för Service drift<br>beviljas, vilket innebär att nämnden för över 8 283 000 kronor till<br>resultatfonden och att återstående 173 000 kronor återredovisas.<br>Kommunstyrelsens förvaltning föreslår att nämnden sammantaget<br>beviljas föra över 6 062 000 kronor till Service resultatfond. |
+| Finansförvaltning övrigt | Kommunstyrelsens lokalplan redovisar ett överskott om 129 000 000<br>kronor. Här ingår överskott för centralt budgeterade hyresmedel samt<br>engångskostnader för nya lokaler i lokalplanen.<br>Kommunstyrelsens förvaltning föreslår att allt från lokalplanen<br>återredovisas förutom 11 910 000 kronor som ombudgeteras för<br>kommande engångskostnader i lokalplanen. |
 
 <!-- sida 793 -->
 
 KUNGSBACKA  KOMMUN
 4 (9)
 
-[Tabell 793-1](handlingar.tabeller/793-1.csv)
-
-| Nämnd/Styrelse | Noteringar |
-| --- | --- |
-|  | Kommunstyrelsens förvaltning föreslår att nämndens begäran beviljas,<br>och därmed att 19 402 000 kronor förs till resultatfonden. |
-| Byggnadsnämnden | Byggnadsnämnden redovisar ett överskott om 4 014 000 kronor.<br>Nämnden föreslår att 1 117 000 kronor avseende projektbudget för<br>kartutveckling som inte kunnat användas som planerat ombudgeteras till<br>2025, att 2 000 kronor avseende internränta återredovisas samt att<br>resterande överskott om 2 895 000 kronor förs till resultatfonden.<br>Kommunstyrelsens förvaltning föreslår att 1 117 000 kronor<br>ombudgeteras avseende kartutvecklingsprojektet samt internräntan<br>återredovisas och att nämndens begäran om att överföra 2 895 000<br>kronor till resultatfonden godkänns. |
-| Miljö & Hälsoskydd | Nämnden redovisar ett överskott om 180 000 kronor. Jämfört med<br>budget har nämnden en positiv budgetavvikelse där det i första hand är<br>kostnaderna för arvoden som varit något lägre än budgeterat för året. Då<br>nämnden inte har någon resultatfond eller projekt som kan ombudgeteras<br>föreslår nämnden att hela överskottet återredovisas.<br>Kommunstyrelsens förvaltning föreslår att nämndens begäran beviljas<br>och att hela överskottet återredovisas. |
-| Kultur & Fritid | Nämnden redovisar ett underskott om 1 145 000 kronor. Nämnden<br>föreslår att av nämndens underskott om total 1 145 000 kronor så ska<br>316 000 kronor som avser internränta återredovisas och därmed att<br>1 461 000 kronor finanserias av nämndens resultatfond. Underskottet<br>beror på kostnader i samband md stängning av Kungsbacka badhus<br>under sommaren 2024 samt planerade utvecklingsprojekt.<br>Kommunstyrelsens förvaltning föreslår att nämndens begäran beviljas<br>vilket innebär att resultatfonden minskar med 1 461 000 kronor. |
-| Teknik skatt | Nämnden för Teknik redovisar ett överskott om 188 000 kronor.<br>Nämnden föreslår att överskottet förs över till nämndens resultatfond.<br>Nycklar till att nå resultatet har varit flera. Vissa arbeten utförts mer<br>sällan än tidigare. Stora omprioriteringar inom utemiljöskötseln har<br>genomförts bland annat med hjälp av ett nytt klassificeringssystem för<br>skötsel av ytor. Den nya upphandlingen av trafikavtal för Färdtjänst har<br>resulterat i lägre kostnader för resor än tidigare år. Nya taxor för<br>egenavgifter i Färdtjänsten, och nya taxor för parkering, har<br>båda bidragit till högre intäkter än tidigare. Ett mer stabilt elpris har gjort |
-
 <!-- sida 794 -->
 
 KUNGSBACKA  KOMMUN
 5 (9)
-
-[Tabell 794-1](handlingar.tabeller/794-1.csv)
-
-| Nämnd/Styrelse | Noteringar |
-| --- | --- |
-|  | att kostnader inte fluktuerat lika mycket som tidigare år, något som gjort<br>prognosarbetet mer träffsäkert.<br>Kommunstyrelsens förvaltning föreslår att överskottet i sin helhet om<br>188 000 kronor förs över till nämndens resultatfond. |
-| Service | Nämnden visar ett totalt underskott om 8 649 000 kronor.<br>Av det totala underskottet redovisar Service fastighet ett underskott om<br>17 105 000 kronor och Service drift redovisar ett överskott på 8 456 000<br>kronor. Gällande Service fastighet föreslås ombudgetering för pågående<br>projekt i lokalplanen på totalt 694 000 kronor samt återredovisning för<br>poster med total negativ resultateffekt på -15 578 000 kronor. Efter<br>ombudgetering och återredovisning har Service fastighet ett<br>driftunderskott på 2 221 000 kronor som föreslås finansieras av<br>nämndens resultatfond. En stor bidragande orsak är de fortsatt höga<br>energipriserna. Andra väsentliga kostnadsavvikelser avser<br>resultatpåverkan förknippat med redovisning av finansiell leasing,<br>kostnader för utrangeringar av anläggningstillgångar och nedlagda<br>lokalprojekt som Borgmästaren, Elektronen samt Hede och Klinnekärs<br>förskola. För Service drift föreslår nämnden att 8 283 000 kronor förs till<br>nämndens resultatfond och att resterande 173 000 kronor som avser<br>internränta återredovisas.<br>Kommunstyrelsens förvaltning föreslår att nämndens förslag för<br>fastighetsverksamheten beviljas, 694 000 kronor ombudgeteras för<br>pågående projekt, 2 221 000 kronor tas i anspråk av resultatfonden och<br>att nämnden återredovisar 15 578 000 kronor. Kommunstyrelsens<br>förvaltning föreslår också att nämndens begäran för Service drift<br>beviljas, vilket innebär att nämnden för över 8 283 000 kronor till<br>resultatfonden och att återstående 173 000 kronor återredovisas.<br>Kommunstyrelsens förvaltning föreslår att nämnden sammantaget<br>beviljas föra över 6 062 000 kronor till Service resultatfond. |
-| Finansförvaltning övrigt | Kommunstyrelsens lokalplan redovisar ett överskott om 129 000 000<br>kronor. Här ingår överskott för centralt budgeterade hyresmedel samt<br>engångskostnader för nya lokaler i lokalplanen.<br>Kommunstyrelsens förvaltning föreslår att allt från lokalplanen<br>återredovisas förutom 11 910 000 kronor som ombudgeteras för<br>kommande engångskostnader i lokalplanen. |
 
 <!-- sida 795 -->
 
@@ -19114,7 +18615,21 @@ pågående projekt. Förslag till kommunfullmäktige är att ombudgetera 13 721 
 
 | Nämnd/Styrelse<br>Belopp i tusentals kronor | UB 2024 | Bokslut<br>2024 | Nämndens<br>begäran | Förslag | Förslag IB<br>2025 |
 | --- | --- | --- | --- | --- | --- |
-| Kommunfullmäktige<br>Kommunstyrelsen<br>Kommunrevision<br>Valnämnden<br>Gymnasium & Arbetsmarknad<br>Kultur & Fritid\*<br>Förskola & Grundskola<br>Teknik Skatt<br>Miljö & Hälsoskydd<br>Byggnadsnämnden<br>Individ & Familjeomsorg<br>Vård & Omsorg<br>Service<br>Service Fastigheter<br>Finans | 0<br>0<br>0<br>0<br>74 197<br>31 076<br>116 940<br>4 340<br>0<br>2 586<br>22 635<br>108 256<br>23 297<br>77 566<br>11 266 | 562<br>19 610<br>320<br>337<br>13 498<br>-1 145<br>8 765<br>188<br>180<br>4 014<br>-3 714<br>19 402<br>8 456<br>-17 105<br>220 911 | 0<br>0<br>0<br>0<br>3 103<br>-1 461<br>8 765<br>188<br>0<br>2 895<br>-3 714<br>19 402<br>8 283<br>-2 221<br>0 | 0<br>0<br>0<br>0<br>3 103<br>-1 461<br>8 765<br>188<br>0<br>2 895<br>-3 714<br>19 402<br>8 283<br>-2 221<br>0 | 0<br>0<br>0<br>0<br>77 300<br>29 615<br>125 705<br>4 528<br>0<br>5 481<br>18 921<br>127 658<br>31 580<br>75 345<br>11 266 |
+| Kommunfullmäktige | 0 | 562 | 0 | 0 | 0 |
+| Kommunstyrelsen | 0 | 19 610 | 0 | 0 | 0 |
+| Kommunrevision | 0 | 320 | 0 | 0 | 0 |
+| Valnämnden | 0 | 337 | 0 | 0 | 0 |
+| Gymnasium & Arbetsmarknad | 74 197 | 13 498 | 3 103 | 3 103 | 77 300 |
+| Kultur & Fritid\* | 31 076 | -1 145 | -1 461 | -1 461 | 29 615 |
+| Förskola & Grundskola | 116 940 | 8 765 | 8 765 | 8 765 | 125 705 |
+| Teknik Skatt | 4 340 | 188 | 188 | 188 | 4 528 |
+| Miljö & Hälsoskydd | 0 | 180 | 0 | 0 | 0 |
+| Byggnadsnämnden | 2 586 | 4 014 | 2 895 | 2 895 | 5 481 |
+| Individ & Familjeomsorg | 22 635 | -3 714 | -3 714 | -3 714 | 18 921 |
+| Vård & Omsorg | 108 256 | 19 402 | 19 402 | 19 402 | 127 658 |
+| Service | 23 297 | 8 456 | 8 283 | 8 283 | 31 580 |
+| Service Fastigheter | 77 566 | -17 105 | -2 221 | -2 221 | 75 345 |
+| Finans | 11 266 | 220 911 | 0 | 0 | 11 266 |
 | Totalt | 472 159 | 274 279 | 35 240 | 35 240 | 507 399 |
 
 [Tabell 795-2](handlingar.tabeller/795-2.csv)
@@ -19207,17 +18722,24 @@ när det gäller utbyggnaden av allmänplats. Det samma gäller Ledningsflytt Kl
 genomförandet av nedgrävningen av kraftledningen har skjutits ett år framåt i tiden.
 
 Belopp i tusentals kronor
-
-[Tabell 797-1](handlingar.tabeller/797-1.csv)
-
-|  | Budget 2025 | Nämndernas<br>förslag till<br>ombudget 2025 | Nämndernas<br>förslag till<br>ombudget<br>2026 | Förändring<br>gentemot<br>nämnderna<br>s förslag<br>2025 | Förslag ny<br>budget<br>2025 | Förslag ny<br>budget<br>2026 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Löpande årliga investeringar | 80 295 | 190 |  | - 1 9 0 | 80 295 |  |
-| Övriga och reinvesteringar | 122 550 | 37 418 |  |  | 159 968 |  |
-| Lokaler | 294 650 | 72 536 | 3 140 |  | 367 186 | 3 140 |
-| Avgiftsfinansierad<br>verksamhet | 584 580 | -5 131 |  |  | 5 7 9 449 |  |
-| Delsumma | 1 082 075 | 105 013 | 3 140 | -190 | 1 186 898 | 3 140 |
-| Exploateringsinvesteringar<br>och omsättningstillgångar | 220 601 | -116 273 |  |  | 104 328 |  |
+Förslag ny Förslag ny
+Förändring
+Nämndernas        budget budget
+Nämndernas         gentemot
+förslag till
+Budget 2025 förslag till     nämnderna
+ombudget
+ombudget 2025       s förslag
+2026           2025    2026
+2025
+Löpande årliga investeringar 80 295 190            - 1 9 0 80 295
+Övriga och reinvesteringar 122 550 37 418                159 968
+Lokaler               294 650     72 536   3 140         367 186 3 140
+Avgiftsfinansierad
+verksamhet            584 580     -5 131                 5 79 449
+Delsumma   1 082 075   105 013   3 140   -190 1 186 898 3 140
+Exploateringsinvesteringar
+och omsättningstillgångar 220 601 -116 273               104 328
 
 <!-- sida 798 -->
 
@@ -19270,7 +18792,20 @@ Tillförordnad kommundirektör       Ekonomichef
 Sammanställning total
 
 Belopp i Tkr
-
+Förändring Förändring Förslag ny Förslag ny
+Nämndernas Nämndernas gentemot gentemot budget budget
+Budget 2025 förslag till förslag till
+nämndernas nämndernas
+ombudget 2025 ombudget 2026   2025  2026
+förslag 2025 förslag 2026
+Löpande årliga investeringar 80 295 190 - - 190      80 295  -
+Övriga och reinvesteringar 122 550 37 418 -         159 968  -
+Lokaler          294 650  72 536  3 140             367 186 3 140
+Avgiftsfinansierad verksamhet 584 580 - 5 131 - - - 579 449  -
+Delsumma   1 082 075 105 013 3 140 - 190   -  1 186 898 3 140
+Exploateringsinvesteringar och
+omsättningstillgångar 220 601 - 116 273             104 328  -
+SUMMA      1 302 676 - 11 261 3 140 - 190  -  1 291 226 3 140
 \-    11 451  3 140            1 291 226
 1 291 226 3 140
 Ombudget förslag:          2025    2026 2025-2026
@@ -19278,70 +18813,188 @@ Totalt förslag från nämnderna -11 261 3 140 -8 121
 Förslag till kommunfullmäktige -11 451 3 140 -8 311
 Förändring gentemot nämndernas förslag -190 0 -190
 
-[Tabell 799-1](handlingar.tabeller/799-1.csv)
-
-|  | Budget 2025 | Nämndernas<br>förslag till<br>ombudget 2025 | Nämndernas<br>förslag till<br>ombudget 2026 | Förändring<br>gentemot<br>nämndernas<br>förslag 2025 | Förändring<br>gentemot<br>nämndernas<br>förslag 2026 | Förslag ny<br>budget<br>2025 | Förslag ny<br>budget<br>2026 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Löpande årliga investeringar | 80 295 | 190 | - | - 190 |  | 80 295 | - |
-| Övriga och reinvesteringar | 122 550 | 37 418 | - |  |  | 159 968 | - |
-| Lokaler | 294 650 | 72 536 | 3 140 |  |  | 367 186 | 3 140 |
-| Avgiftsfinansierad verksamhet | 584 580 | - 5 131 | - | - | - | 579 449 | - |
-| Delsumma | 1 082 075 | 105 013 | 3 140 | - 190 | - | 1 186 898 | 3 140 |
-| Exploateringsinvesteringar och<br>omsättningstillgångar | 220 601 | - 116 273 |  |  |  | 104 328 | - |
-| SUMMA | 1 302 676 | - 11 261 | 3 140 | - 190 | - | 1 291 226 | 3 140 |
-
 <!-- sida 800 -->
 
 Löpande investeringar
 Typ 1
 Belopp i Tkr
 
+Nämndernas Nämndernas Förändring Förändring
+förslag till förslag till gentemot gentemot Summa ny Summa ny
+Budget ombudget ombudget nämndernas nämndernas budget budget
+
+```osaker-tabell
+                       2025  2025   2026 förslag 2025 förslag 2026 2025 2026
+FG   Förskola & Grundskola 15 000                         15 000   0
+K&F  Kultur & Fritid    6 700                             6 700    0
+GA   Gymnasium & Arbetsmarknad 6 340                      6 340    0
+IF   Individ och Familjeomsorg 2 500                      2 500    0
+MB   Bygg & Miljö       255                                255     0
+SE   Service           35 000                             35 000   0
+VO   Vård & Omsorg      5 500  190           -190         5 500    0
+TE-skatt Teknik Skatt   9 000                             9 000    0
+     SUMMA             80 295  190     0     -190     0   80 295   0
+```
+
 80 295kontrollsumma 2025
 Löpande investeringar ombudgeteras ej enligt gällande ekonomistryrprinciper
-
-[Tabell 800-1](handlingar.tabeller/800-1.csv)
-
-|  | Budget<br>2025 | Nämndernas<br>förslag till<br>ombudget<br>2025 | Nämndernas<br>förslag till<br>ombudget<br>2026 | Förändring<br>gentemot<br>nämndernas<br>förslag 2025 | Förändring<br>gentemot<br>nämndernas<br>förslag 2026 | Summa ny<br>budget<br>2025 | Summa ny<br>budget<br>2026 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| FG Förskola & Grundskola<br>K&F Kultur & Fritid<br>GA Gymnasium & Arbetsmarknad<br>IF Individ och Familjeomsorg<br>MB Bygg & Miljö<br>SE Service<br>VO Vård & Omsorg<br>TE-skatt Teknik Skatt | 15 000<br>6 700<br>6 340<br>2 500<br>255<br>35 000<br>5 500<br>9 000 | 190 |  | -190 |  | 15 000<br>6 700<br>6 340<br>2 500<br>255<br>35 000<br>5 500<br>9 000 | 0<br>0<br>0<br>0<br>0<br>0<br>0<br>0 |
-| SUMMA | 80 295 | 190 | 0 | -190 | 0 | 80 295 | 0 |
 
 <!-- sida 801 -->
 
 Övriga investeringar
 Typ 3+5+7
 Belopp i Tkr
+Nämndernas Nämndernas Förändring Förändring Summa Summa
+förslag till förslag till gentemot gentemot ny ny
+Budget ombudget ombudget nämndernas nämndernas budget budget
+2025  2025   2026 förslag 2025 förslag 2026 2025 2026
+Teknik - Skatt expl
+TE-skatt/expl 4125 Må Park allmän plats 16 226             16 226
+TE-skatt/expl 4141 Björkris 2 Gata/Park SBK -2 500         -2 500
+TE-skatt/expl 4142 Aranäs 3 Infrastruktur gata mm 4 825    4 825
+TE-skatt/expl 4143 Tingberget allm platsmark -972           -972
+TE-skatt/expl 4144 Skår 12:1 expl gata,cirk,park 4 126     4 126
+TE-skatt/expl 4147 Markförbättring Anneberg centr -28       -28
+TE-skatt/expl 4149 Valand utbyggnad gator tek -4 057       -4 057
+TE-skatt/expl 4153 Björkris 2b allmän plats först -29       -29
+TE-skatt/expl 4154 Förstärkningsåtgärder Kba ham 657        657
+TE-skatt/expl 4155 Bolsheden 1:2 gata 557                   557
+TE-skatt/expl 4172 Gjutaren/Liljan gata 3 959              3 959
+TE-skatt/expl 4175 Stockalid 1:4 Gata/Park -964             -964
+TE-skatt/expl 4179 Kolla 2 Gata/Park inv -2 841            -2 841
+TE-skatt/expl 4189 Tölö ängar 3 6:4 Gata/Park inv -48       -48
+TE-skatt/expl 4190 Tölö äng syd Gata/Park inv -39           -39
+TE-skatt/expl 4192 Duvehed Gata/Park inv 13                  13
+TE-skatt/expl 4198 Kolla Park v-omr Gata/Park inv 174       174
+Enligt KF budgetram 2025 61 000                     61 000
+Summa Teknik - Skatt expl 61 000 19 059 0  0     0  80 059 0
+SE Fastigheter typ 3
+SEFA   4902 BMSS Pölagården 508 j inrednin 1 492           1 492
+SEFA   4908 Iseråsskolan inred 335   -8                      -8
+SEFA   4919 Naturum arb.miljö inred 142 250                 250
+SEFA   4925 BmSS Kommunvägen löp 507 inred 77                77
+SEFA   4930 Toalettbygg Vallda Sandö bygg 1 893            1 893
+SEFA   4931 Toalettbygg Hanhals bad bygg 742                742
+SEFA   8945 Vallda BMSS inredning  1 191                   1 191
+SEFA   8968 Klockaregårdens fsk inredning 436               436
+SEFA   8983 Stockalids förskola inredning -1 549           -1 549
+SEFA   8995 BMSS Söderstaden inred 502 598                  598
+Enligt KF budgetram 2025 inkl Service 8 000         8 000
+Summa SE Fastigheter typ 3 8 000 5 122 0   0     0  13 122 0
+Vård & Omsorg
+VO     3862 Tekniska lösningar     13 237                  13 237
+Enligt KF budgetram 2025 2 550                      2 550
+Summa VO             2 550  13 237   0     0     0  15 787 0
+Kultur & Fritid
+KF budgetram 2025    9 700                          9 700
+Summa Kultur & Fritid 9 700   0      0     0     0  9 700  0
+KS Finans
 
-[Tabell 801-1](handlingar.tabeller/801-1.csv)
-
-|  | Budget<br>2025 | Nämndernas<br>förslag till<br>ombudget<br>2025 | Nämndernas<br>förslag till<br>ombudget<br>2026 | Förändring<br>gentemot<br>nämndernas<br>förslag 2025 | Förändring<br>gentemot<br>nämndernas<br>förslag 2026 | Summa<br>ny<br>budget<br>2025 | Summa<br>ny<br>budget<br>2026 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Teknik - Skatt expl<br>TE-skatt/expl 4125 Må Park allmän plats<br>TE-skatt/expl 4141 Björkris 2 Gata/Park SBK<br>TE-skatt/expl 4142 Aranäs 3 Infrastruktur gata mm<br>TE-skatt/expl 4143 Tingberget allm platsmark<br>TE-skatt/expl 4144 Skår 12:1 expl gata,cirk,park<br>TE-skatt/expl 4147 Markförbättring Anneberg centr<br>TE-skatt/expl 4149 Valand utbyggnad gator tek<br>TE-skatt/expl 4153 Björkris 2b allmän plats först<br>TE-skatt/expl 4154 Förstärkningsåtgärder Kba ham<br>TE-skatt/expl 4155 Bolsheden 1:2 gata<br>TE-skatt/expl 4172 Gjutaren/Liljan gata<br>TE-skatt/expl 4175 Stockalid 1:4 Gata/Park<br>TE-skatt/expl 4179 Kolla 2 Gata/Park inv<br>TE-skatt/expl 4189 Tölö ängar 3 6:4 Gata/Park inv<br>TE-skatt/expl 4190 Tölö äng syd Gata/Park inv<br>TE-skatt/expl 4192 Duvehed Gata/Park inv<br>TE-skatt/expl 4198 Kolla Park v-omr Gata/Park inv<br>Enligt KF budgetram 2025<br>Summa Teknik - Skatt expl<br>SE Fastigheter typ 3<br>SEFA 4902 BMSS Pölagården 508 j inrednin<br>SEFA 4908 Iseråsskolan inred 335<br>SEFA 4919 Naturum arb.miljö inred 142<br>SEFA 4925 BmSS Kommunvägen löp 507 inred<br>SEFA 4930 Toalettbygg Vallda Sandö bygg<br>SEFA 4931 Toalettbygg Hanhals bad bygg<br>SEFA 8945 Vallda BMSS inredning<br>SEFA 8968 Klockaregårdens fsk inredning<br>SEFA 8983 Stockalids förskola inredning<br>SEFA 8995 BMSS Söderstaden inred 502<br>Enligt KF budgetram 2025 inkl Service<br>Summa SE Fastigheter typ 3<br>Vård & Omsorg<br>VO 3862 Tekniska lösningar<br>Enligt KF budgetram 2025<br>Summa VO<br>Kultur & Fritid<br>KF budgetram 2025<br>Summa Kultur & Fritid<br>KS Finans<br>KF budgetram 2025<br>Summa KS Finans | 61 000<br>61 000<br>8 000<br>8 000<br>2 550<br>2 550<br>9 700<br>9 700<br>41 300<br>41 300 | 16 226<br>-2 500<br>4 825<br>-972<br>4 126<br>-28<br>-4 057<br>-29<br>657<br>557<br>3 959<br>-964<br>-2 841<br>-48<br>-39<br>13<br>174<br>19 059<br>1 492<br>-8<br>250<br>77<br>1 893<br>742<br>1 191<br>436<br>-1 549<br>598<br>5 122<br>13 237<br>13 237<br>0 | 0<br>0<br>0<br>0 | 0<br>0<br>0<br>0 | 0<br>0<br>0<br>0 | 16 226<br>-2 500<br>4 825<br>-972<br>4 126<br>-28<br>-4 057<br>-29<br>657<br>557<br>3 959<br>-964<br>-2 841<br>-48<br>-39<br>13<br>174<br>61 000<br>80 059<br>1 492<br>-8<br>250<br>77<br>1 893<br>742<br>1 191<br>436<br>-1 549<br>598<br>8 000<br>13 122<br>13 237<br>2 550<br>15 787<br>9 700<br>9 700<br>41 300<br>41 300 | 0<br>0<br>0<br>0 |
-| SUMMA | 122 550 | 37 418 | 0 | 0 | 0 | 159 968 | 0 |
+```osaker-tabell
+KF budgetram 2025    41 300                         41 300
+Summa KS Finans      41 300                         41 300
+SUMMA               122 550 37 418   0     0     0 159 968 0
+```
 
 <!-- sida 802 -->
 
 Avgiftsfinansierad verksamhet
 Typ 6+8
 Belopp i Tkr
+Nämndernas Nämndernas Förändring Förändring Summa Summa
+förslag till förslag till gentemot gentemot Ny Ny
+Budget ombudget ombudget nämndernas nämndernas budget budget
+2025 2025   2026 förslag 2025 förslag 2026 2025 2026
+Vatten & avlopp expl
+TE-VA/expl 5084 VEXP Må 3:13     -3 090                   -3 090 0
+TE-VA/expl 5097 VEXP Skårby 6:19 -10 003                 -10 003 0
+TE-VA/expl 551C VEXP Frillesås-Rya 2:1 etapp 1 -5 597     -5 597 0
+
+```osaker-tabell
+TE-VA/expl 7506 VEXP Kvarteret Gjutaren UT 10 425        10 425  0
+TE-VA/expl 7517 VEXP Gjutaren o Liljan -294               -294   0
+TE-VA/expl 7520 VEXP Spårhaga 2:180 -104                  -104   0
+```
+
+Enligt KF budgetram 2025 547 830                   547 830 0
+Summa Vatten och Avlopp inkl expl 547 830 -8 663 0 0 0 539 167 0
+Kungsbacka bredband
+
+```osaker-tabell
+TE-Br 8514 Kungsbacka Landsbygg  3 532                    3 532  0
+      Enligt KF budgetram 2025 22 000                    22 000  0
+      Summa bredband      22 000 3 532    0     0      0 25 532  0
+```
+
+Avfall & Återvinning
 
 [Tabell 802-1](handlingar.tabeller/802-1.csv)
 
-|  | Budget<br>2025 | Nämndernas<br>förslag till<br>ombudget<br>2025 | Nämndernas<br>förslag till<br>ombudget<br>2026 | Förändring<br>gentemot<br>nämndernas<br>förslag 2025 | Förändring<br>gentemot<br>nämndernas<br>förslag 2026 | Summa<br>Ny<br>budget<br>2025 | Summa<br>Ny<br>budget<br>2026 |
+| Enligt KF budgetram 2025 | 14 750 |  |  |  |  | 14 750 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Vatten & avlopp expl<br>TE-VA/expl 5084 VEXP Må 3:13<br>TE-VA/expl 5097 VEXP Skårby 6:19<br>TE-VA/expl 551C VEXP Frillesås-Rya 2:1 etapp 1<br>TE-VA/expl 7506 VEXP Kvarteret Gjutaren UT<br>TE-VA/expl 7517 VEXP Gjutaren o Liljan<br>TE-VA/expl 7520 VEXP Spårhaga 2:180<br>Enligt KF budgetram 2025<br>Summa Vatten och Avlopp inkl expl<br>Kungsbacka bredband<br>TE-Br 8514 Kungsbacka Landsbygg<br>Enligt KF budgetram 2025<br>Summa bredband<br>Avfall & Återvinning<br>Enligt KF budgetram 2025<br>Summa Avfall & Återvinning | 547 830<br>547 830<br>22 000<br>22 000<br>14 750<br>14 750 | -3 090<br>-10 003<br>-5 597<br>10 425<br>-294<br>-104<br>-8 663<br>3 532<br>3 532<br>0 | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0<br>0 | -3 090<br>-10 003<br>-5 597<br>10 425<br>-294<br>-104<br>547 830<br>539 167<br>3 532<br>22 000<br>25 532<br>14 750<br>14 750 | 0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0 |
+| Summa Avfall & Återvinning | 14 750 | 0 | 0 | 0 | 0 | 14 750 | 0 |
 | SUMMA | 584 580 | -5 131 | 0 | 0 | 0 | 579 449 | 0 |
 
 <!-- sida 803 -->
 
 Lokaler
 Belopp i Tkr
+Lokaltyp     Budget N ämndernas Nämndernas Förändring Förändring Summa Summa
+2025 förslag till förslag till gentemot gentemot Ny budget Ny
+ombudget ombudget nämndernas nämndernas 2025 budget
+2025   2026 förslag 2025 förslag 2026 2026
+KS Finans
 
 [Tabell 803-1](handlingar.tabeller/803-1.csv)
 
-| Lokaltyp<br>KS Finans<br>8931 Lokalplansbudget pågående projekt<br>Löpnr 142 Naturum<br>Löpnr 207 Äppelgårdens förskola<br>Löpnr 131 Arenan inkl skyddsrum<br>Räddningstjänst<br>Kvarteret Liljan skola<br>Enligt KF budgetram 2025 lokalplan<br>Enligt KF budgetram 2025 justering kommun<br>Summa KS Finans<br>Kultur & Fritid<br>3768 Konst 1% endast budget<br>3791 Konst Skårbyskolan<br>3794 Konst Trollsländan fsk 2024<br>3795 Konst Stockalid fsk<br>3796 Konst Högarydsvägen gruppboend<br>Enligt KF budgetram 2025, ombudget från 2023<br>Summa Kultur & Fritid<br>SE Fastigheter<br>4900 Frillesås rid- o körkl 138<br>4901 BMSS Pölagården Åsa 508j bygg<br>4907 Iseråsskolan ny o omb bygg 335<br>4910 Gräskärr förskola<br>4914 Skårby förskola<br>4918 Naturum arb. miljö bygg 142<br>4920 Äpplegårdens fsk bygg 207<br>4926 Arenan fas 1 löpnr 131 bygg<br>4932 Klovsten Räddningstjänst bygg<br>4934 Hallaförskola iordnig utemiljö<br>4935 Smedingeskolan matsal utökning<br>4936 Smedingeskolan matsal inventar<br>4937 Liljans skola och idrottssal<br>4939 Ombyggnad Stadshuset hus B<br>4940 Ombygg Stadshus B inventarier<br>4941 Åsaberg BmSS<br>4942 Frillesås rid-körklu inred 138<br>6950 Verksamhetsförändringar FG<br>8911 Varlaskolan ny-och tillbyggnad<br>8944 Vallda BMSS<br>8951 Myndig.krav pav Elof L<br>8954 Myn krav pav gaKullaviksskolan<br>8961 Skårbyskolan<br>8967 Klockaregårdens förskola<br>8972 Omlastningscentral Duvehed<br>8978 Stockalids förskola<br>8979 Anneberg bygg vob bmss fsk<br>Enligt KF budgetram 2025<br>Summa SE Fastigheter | Budget<br>2025 | N ämndernas<br>förslag till<br>ombudget<br>2025 | Nämndernas<br>förslag till<br>ombudget<br>2026 | Förändring<br>gentemot<br>nämndernas<br>förslag 2025 | Förändring<br>gentemot<br>nämndernas<br>förslag 2026 | Summa<br>Ny budget<br>2025 | Summa<br>Ny<br>budget<br>2026 |
+| 8931 Lokalplansbudget pågående projekt |  |  |  |  |  | 0 | 0 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | 251 800<br>-35 000<br>216 800<br>0<br>77 850<br>77 850 | 6 150<br>-8 700<br>31 820<br>-69 895<br>-22 720<br>-63 345<br>800<br>690<br>350<br>243<br>301<br>2 384<br>19 806<br>-177<br>18 209<br>-789<br>-2 361<br>5 283<br>-3 482<br>3 047<br>10 428<br>632<br>181<br>218<br>-664<br>-835<br>-7<br>-1 771<br>250<br>1 744<br>-521<br>17 862<br>6 366<br>1 017<br>27 995<br>3 732<br>17 210<br>11 587<br>-1 464<br>133 496 | 0<br>3 140<br>3 140<br>0 | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>6 150<br>-8 700<br>31 820<br>-69 895<br>-22 720<br>251 800<br>-35 000<br>153 456<br>800<br>690<br>350<br>243<br>301<br>0<br>2 384<br>19 806<br>-177<br>18 209<br>-789<br>-2 361<br>5 283<br>-3 482<br>3 047<br>10 428<br>632<br>181<br>218<br>-664<br>-835<br>-7<br>-1 771<br>250<br>1 744<br>-521<br>17 862<br>6 366<br>1 017<br>27 995<br>3 732<br>17 210<br>11 587<br>-1 464<br>77 850<br>211 346 | 0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>3 140<br>0<br>0<br>0<br>0<br>3 140<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0<br>0 |
+| Löpnr 142 Naturum |  | 6 150 |  |  |  | 6 150 | 0 |
+| Löpnr 207 Äppelgårdens förskola |  | -8 700 |  |  |  | -8 700 | 0 |
+| Löpnr 131 Arenan inkl skyddsrum |  | 31 820 |  |  |  | 31 820 | 0 |
+| Räddningstjänst |  | -69 895 |  |  |  | -69 895 | 0 |
+| Kvarteret Liljan skola |  | -22 720 |  |  |  | -22 720 | 0 |
+| Enligt KF budgetram 2025 lokalplan | 251 800 |  |  |  |  | 251 800 | 0 |
+| Enligt KF budgetram 2025 justering kommun | -35 000 |  |  |  |  | -35 000 |  |
+| Summa KS Finans | 216 800 | -63 345 | 0 | 0 | 0 | 153 456 | 0 |
+| Kultur & Fritid |  |  |  |  |  |  |  |
+| 3768 Konst 1% endast budget |  | 800 | 3 140 |  |  | 800 | 3 140 |
+| 3791 Konst Skårbyskolan |  | 690 |  |  |  | 690 | 0 |
+| 3794 Konst Trollsländan fsk 2024 |  | 350 |  |  |  | 350 | 0 |
+| 3795 Konst Stockalid fsk |  | 243 |  |  |  | 243 | 0 |
+| 3796 Konst Högarydsvägen gruppboend |  | 301 |  |  |  | 301 | 0 |
+| Enligt KF budgetram 2025, ombudget från 2023 |  |  |  |  |  | 0 |  |
+| Summa Kultur & Fritid | 0 | 2 384 | 3 140 | 0 | 0 | 2 384 | 3 140 |
+| SE Fastigheter |  |  |  |  |  |  |  |
+| 4900 Frillesås rid- o körkl 138 |  | 19 806 |  |  |  | 19 806 | 0 |
+| 4901 BMSS Pölagården Åsa 508j bygg |  | -177 |  |  |  | -177 | 0 |
+| 4907 Iseråsskolan ny o omb bygg 335 |  | 18 209 |  |  |  | 18 209 | 0 |
+| 4910 Gräskärr förskola |  | -789 |  |  |  | -789 | 0 |
+| 4914 Skårby förskola |  | -2 361 |  |  |  | -2 361 | 0 |
+| 4918 Naturum arb. miljö bygg 142 |  | 5 283 |  |  |  | 5 283 | 0 |
+| 4920 Äpplegårdens fsk bygg 207 |  | -3 482 |  |  |  | -3 482 | 0 |
+| 4926 Arenan fas 1 löpnr 131 bygg |  | 3 047 |  |  |  | 3 047 | 0 |
+| 4932 Klovsten Räddningstjänst bygg |  | 10 428 |  |  |  | 10 428 | 0 |
+| 4934 Hallaförskola iordnig utemiljö |  | 632 |  |  |  | 632 | 0 |
+| 4935 Smedingeskolan matsal utökning |  | 181 |  |  |  | 181 | 0 |
+| 4936 Smedingeskolan matsal inventar |  | 218 |  |  |  | 218 | 0 |
+| 4937 Liljans skola och idrottssal |  | -664 |  |  |  | -664 | 0 |
+| 4939 Ombyggnad Stadshuset hus B |  | -835 |  |  |  | -835 | 0 |
+| 4940 Ombygg Stadshus B inventarier |  | -7 |  |  |  | -7 | 0 |
+| 4941 Åsaberg BmSS |  | -1 771 |  |  |  | -1 771 | 0 |
+| 4942 Frillesås rid-körklu inred 138 |  | 250 |  |  |  | 250 | 0 |
+| 6950 Verksamhetsförändringar FG |  | 1 744 |  |  |  | 1 744 | 0 |
+| 8911 Varlaskolan ny-och tillbyggnad |  | -521 |  |  |  | -521 | 0 |
+| 8944 Vallda BMSS |  | 17 862 |  |  |  | 17 862 | 0 |
+| 8951 Myndig.krav pav Elof L |  | 6 366 |  |  |  | 6 366 | 0 |
+| 8954 Myn krav pav gaKullaviksskolan |  | 1 017 |  |  |  | 1 017 | 0 |
+| 8961 Skårbyskolan |  | 27 995 |  |  |  | 27 995 | 0 |
+| 8967 Klockaregårdens förskola |  | 3 732 |  |  |  | 3 732 | 0 |
+| 8972 Omlastningscentral Duvehed |  | 17 210 |  |  |  | 17 210 | 0 |
+| 8978 Stockalids förskola |  | 11 587 |  |  |  | 11 587 | 0 |
+| 8979 Anneberg bygg vob bmss fsk |  | -1 464 |  |  |  | -1 464 | 0 |
+| Enligt KF budgetram 2025 | 77 850 |  |  |  |  | 77 850 | 0 |
+| Summa SE Fastigheter | 77 850 | 133 496 | 0 | 0 | 0 | 211 346 | 0 |
 | SUMMA | 294 650 | 72 536 | 3 140 | 0 | 0 | 367 186 | 3 140 |
 
 <!-- sida 804 -->
@@ -19355,7 +19008,8 @@ Belopp i Tkr
 
 |  | Budget<br>2025 | Förslag till<br>omplanering 2025 | Summa Ny<br>budget 2025 |
 | --- | --- | --- | --- |
-| Inkomster<br>Utgifter | 0<br>220 601 | 0<br>-116 273 | 0<br>104 328 |
+| Inkomster | 0 | 0 | 0 |
+| Utgifter | 220 601 | -116 273 | 104 328 |
 |  | 220 601 | -116 273 | 104 328 |
 
 <!-- sida 805 -->
@@ -19532,7 +19186,7 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 
 §§ socialtjänstlagen, SoL
 
-[Tabell 809-1](handlingar.tabeller/809-1.csv)
+[Tabell 809-812-1](handlingar.tabeller/809-812-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
@@ -19548,16 +19202,6 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 | 2023-11-22 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Den enskilde är i behov av extern placering. |
 | 2024-02-01 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. Flertalet kontaktförsök har gjorts,<br>verksamheten pausar insatsen i avvaktan på svar om<br>fortsatt inskolning. |
 | 2024-04-07 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Den enskilde medverkar inte till verkställighet, den<br>enskilde är tveksam till insatsen. |
-
-<!-- sida 810 -->
-
-KUNGSBACKA  KOMMUN
-4 (9)
-
-[Tabell 810-1](handlingar.tabeller/810-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2024-04-19 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Den enskilde medverkar inte till verkställighet, den<br>enskilde är tveksam till insatsen. |
 | 2022-03-16 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Tackat nej till 5 erbjudanden, 2022-09-15, 2022-11-29,<br>2023-05-17, 2023-11-20 och 2023-12-05. Tackat ja till<br>erbjudande med inflyttning 2025-02-01. |
 | 2022-12-31 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Avbrott i verkställighet, tackat nej till 3 erbjudanden<br>2023-06-20, 2023-12-22, 2024-05-24 eftersom boendet<br>inte ligger i centrala Kungsbacka. Tackat nej till<br>erbjudande 2024-09-02 trots centralt boende, det är inte<br>läge med flytt just nu. |
@@ -19570,16 +19214,6 @@ KUNGSBACKA  KOMMUN
 | 2024-10-02 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. |
 | 2024-10-17 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. |
 | 2021-10-29 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. Svårt att få<br>kontakt med den enskilde. Den enskilde har andra<br>insatser vilket gör att DV inte är aktuellt just nu.<br>Ärendet är pausat i väntan på förändrad situation. |
-
-<!-- sida 811 -->
-
-KUNGSBACKA  KOMMUN
-5 (9)
-
-[Tabell 811-1](handlingar.tabeller/811-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2022-02-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, har specifika önskemål om<br>verksamhet, är i behov av lång planering, tackat nej till<br>befintlig verksamhet. Tackat nej till 2 erbjudanden<br>2023-02-14 och 2023-10-02. Planering för uppstart<br>pågår. |
 | 2022-12-31 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. Insatsen är<br>pausad. |
 | 2023-01-11 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet, blivit erbjuden 3 olika DV-grupper.<br>Den enskilde avbokar möten för uppstart. |
@@ -19592,6 +19226,17 @@ KUNGSBACKA  KOMMUN
 | 2024-02-09 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde tackat nej till<br>erbjudande 2024-02-09. Vill inte avsluta insatsen utan<br>pausa på obestämd tid. |
 | 2024-04-26 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde vill starta upp<br>insatsen och väntar på uppstartsmöte. |
 | 2024-06-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
+| 2024-08-19 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet, vill avvakta med insatsen. |
+
+<!-- sida 810 -->
+
+KUNGSBACKA  KOMMUN
+4 (9)
+
+<!-- sida 811 -->
+
+KUNGSBACKA  KOMMUN
+5 (9)
 
 <!-- sida 812 -->
 
@@ -19600,13 +19245,7 @@ KUNGSBACKA  KOMMUN
 
 Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
 
-[Tabell 812-1](handlingar.tabeller/812-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
-| 2024-08-19 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet, vill avvakta med insatsen. |
-
-[Tabell 812-2](handlingar.tabeller/812-2.csv)
+[Tabell 812-815-1](handlingar.tabeller/812-815-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
@@ -19616,16 +19255,6 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2024-06-24 | 4 kap 1 § SoL, boendestöd | Insatsen är delvis verkställd<br>2024-08-23. Den enskilde vill<br>avvakta med den andra insatsen.<br>Tackade nej till uppstart 2024-<br>09-25. | Verkställt, 2024-11-05 |
 | 2024-09-10 | 4 kap 1 § SoL, boendestöd | Den enskilde är i behov av lång<br>introduktion. | Verkställt, 2025-01-15 |
 | 2024-09-30 | 4 kap 1 § SoL, boendestöd | Den enskilde är i behov av lång<br>introduktion. Tackade nej till<br>erbjudande 2024-11-19 och i<br>december 2024. | Verkställt, 2025-01-14 |
-
-<!-- sida 813 -->
-
-KUNGSBACKA  KOMMUN
-7 (9)
-
-[Tabell 813-1](handlingar.tabeller/813-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2024-04-19 | 9 § 3 LSS, ledsagarservice | Avbrott i verkställighet, velat<br>avvakta med insatsen. Den<br>enskilde har specifika önskemål,<br>tackat nej till erbjudande 2024-<br>09-27. | Verkställt, 2024-11-29 |
 | 2024-06-13 | 9 § 4 LSS, kontaktperson | Rekryteringssvårigheter.<br>Verksamheten fick många<br>beslut inför sommaren och har<br>inte hunnit rekrytera ny<br>personal. | Verkställt, 2024-11-12 |
 | 2024-06-17 | 9 § 4 LSS, kontaktperson | Den enskilde har tackat nej till<br>erbjudande 2024-09-25. Ny<br>rekrytering pågår. | Verkställt, 2024-11-05 |
@@ -19635,16 +19264,6 @@ KUNGSBACKA  KOMMUN
 | 2024-05-16 | 9 § 5 LSS, avlösarservice i<br>hemmet | Den enskilde vill avvakta med<br>insatsen, planerad uppstart till<br>hösten. | Verkställt, 2024-10-20 |
 | 2024-05-16 | 9 § 5 LSS, avlösarservice i<br>hemmet | Den enskilde vill avvakta med<br>insatsen, planerad uppstart till<br>hösten. | Verkställt, 2024-10-20 |
 | 2024-01-08 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. Svårigheter att få<br>kontakt med familjen. | Verkställt, 2024-12-10 |
-
-<!-- sida 814 -->
-
-KUNGSBACKA  KOMMUN
-8 (9)
-
-[Tabell 814-1](handlingar.tabeller/814-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2024-02-29 | 9 § 8 LSS, boende barn<br>och ungdomar | Saknar plats. Blivit erbjuden<br>köpt plats under väntetiden<br>vilket de tackat nej till.<br>Erbjuden annan insats under<br>väntetiden. | Verkställt, 2024-11-01 |
 | 2024-02-08 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. Tackat ja till<br>erbjudande med inflyttning<br>under november. | Verkställt, 2024-11-01 |
 | 2024-03-13 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. Den enskilde har<br>tackat nej till erbjudande<br>september 2024. | Avslutat, 2024-12-13 |
@@ -19653,6 +19272,20 @@ KUNGSBACKA  KOMMUN
 | 2024-06-27 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>servicebostad | Saknar plats. | Verkställt, 2025-01-15 |
 | 2021-11-23 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet,<br>medverkar inte till<br>verkställighet. Den enskilde<br>svarar inte på telefon eller mail. | Avslutat, 2024-12-18 |
 | 2023-04-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde har varit föräldraledig.<br>Tackat nej till erbjudande 2024-<br>01-17. | Avslutat, 2024-12-06 |
+| 2023-10-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, tackat<br>nej till 5 erbjudanden 2023-12-<br>11, 2024-02-21, 2024-03-12,<br>2024-04-10 och 2024-05-07.<br>Den enskilde vill avvakta då hen<br>befinner sig på annan ort. Den<br>enskilde avbokar möten. | Avslutat, 2025-01-20 |
+| 2024-04-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. | Verkställt, 2024-12-10 |
+| 2024-07-11 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde medverkar inte till<br>verkställighet, pga<br>hälsotillstånd. | Verkställt, 2025-01-13 |
+| 2024-04-10 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till<br>verkställighet. | Avslutat, 2024-12-06 |
+
+<!-- sida 813 -->
+
+KUNGSBACKA  KOMMUN
+7 (9)
+
+<!-- sida 814 -->
+
+KUNGSBACKA  KOMMUN
+8 (9)
 
 <!-- sida 815 -->
 
@@ -19664,15 +19297,6 @@ Inom vuxenenheten och familjehemsenheten finns inga ej verkställda beslut under
 Ivan Stipić                   Renate Rondolph
 
 Förvaltningschef              Verksamhetschef
-
-[Tabell 815-1](handlingar.tabeller/815-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
-| 2023-10-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, tackat<br>nej till 5 erbjudanden 2023-12-<br>11, 2024-02-21, 2024-03-12,<br>2024-04-10 och 2024-05-07.<br>Den enskilde vill avvakta då hen<br>befinner sig på annan ort. Den<br>enskilde avbokar möten. | Avslutat, 2025-01-20 |
-| 2024-04-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. | Verkställt, 2024-12-10 |
-| 2024-07-11 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde medverkar inte till<br>verkställighet, pga<br>hälsotillstånd. | Verkställt, 2025-01-13 |
-| 2024-04-10 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till<br>verkställighet. | Avslutat, 2024-12-06 |
 
 <!-- sida 816 -->
 
@@ -19831,25 +19455,14 @@ Gynnande beslut som avbrutits och ej verkställts inom tre månader.
 | 2024-09-25 | Särskilt boende | Platsbrist (U) |
 | 2024-09-30 | Särskilt boende | Platsbrist |
 
-[Tabell 819-2](handlingar.tabeller/819-2.csv)
+[Tabell 819-821-2](handlingar.tabeller/819-821-2.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
 | 2024-09-02 | Särskilt boende | Erbjuden, tackat nej.<br>Återtag 2024-12-12 |
 | 2024-07-05 | Särskilt boende | Avliden (U) |
 | 2024-07-17 | Särskilt boende | Avliden |
-
-<!-- sida 820 -->
-
-KUNGSBACKA  KOMMUN
-3 (4)
-
-Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts eller avslutats
-
-[Tabell 820-1](handlingar.tabeller/820-1.csv)
-
 | Beslutsdatum | Insats | Datum för verkställighet, avslut |
-| --- | --- | --- |
 | 2024-05-02 | Särskilt boende | Verkställd 2024-12-03 |
 | 2024-05-13 | Särskilt boende | Verkställd 2024-11-16 |
 | 2024-05-16 | Särskilt boende | Verkställd 2024-12-30 |
@@ -19884,6 +19497,17 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 2024-09-02 | Särskilt boende | Verkställd 2024-12-14 |
 | 2024-09-04 | Särskilt boende | Verkställd 2024-12-12 |
 | 2024-09-05 | Särskilt boende | Verkställd 2024-12-12 |
+| 2024-09-18 | Särskilt boende | Verkställd 2024-12-20 |
+| 2024-05-20 | Växelvård | Verkställd 2024-10-01 |
+| 2024-06-24 | Växelvård | Verkställd 2024-10-10 |
+| 2024-06-27 | Växelvård | Verkställd 2024-10-24 |
+
+<!-- sida 820 -->
+
+KUNGSBACKA  KOMMUN
+3 (4)
+
+Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts eller avslutats
 
 <!-- sida 821 -->
 
@@ -19892,14 +19516,6 @@ KUNGSBACKA  KOMMUN
 
 Arian Faily                   Ann-Helen Svensson
 Förvaltningschef              Verksamhetschef
-
-[Tabell 821-1](handlingar.tabeller/821-1.csv)
-
-| 2024-09-18 | Särskilt boende | Verkställd 2024-12-20 |
-| --- | --- | --- |
-| 2024-05-20 | Växelvård | Verkställd 2024-10-01 |
-| 2024-06-24 | Växelvård | Verkställd 2024-10-10 |
-| 2024-06-27 | Växelvård | Verkställd 2024-10-24 |
 
 <!-- sida 822 -->
 
@@ -22464,7 +22080,7 @@ som avstår och 1 frånvarande, beslutar enligt kommunstyrelsens förslag.
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 878-1](handlingar.tabeller/878-1.csv)
+[Tabell 878-879-1](handlingar.tabeller/878-879-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -22503,23 +22119,7 @@ Justerare                         Expedierat/bestyrkt
 | Anders Eriksson | (C) | Alla |  |  | X |  |  |
 | Hravn Forsne | (M) | Alla |  | X |  |  |  |
 | Kent Stenhammar | (S) | Alla | A nders Törnberg |  | X |  |  |
-
-<!-- sida 879 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           4 (1)
-Kommunfullmäktige
-Datum
-2020-06-16
-
-Beslutet skickas till
-Samtliga nämnder och bolag, Service: lönecenter, arvodesberedningen
-
-Justerare                         Expedierat/bestyrkt
-
-[Tabell 879-1](handlingar.tabeller/879-1.csv)
-
 | Jan Eric Knutas | (L) | Alla |  |  | X |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Clas Rosander | (MP) | A lla | E lisabeth Sahlsten | X |  |  |  |
 | Charlotte Wallenstein | (M) | Alla |  | X |  |  |  |
 | Bengt Fransson | (SD) | Alla |  |  | X |  |  |
@@ -22546,6 +22146,18 @@ Justerare                         Expedierat/bestyrkt
 | Per Stenberg | (M) | Alla |  |  | X |  |  |
 | Ulrika Högstrand | (KD) | Alla |  |  |  | X |  |
 | SUMMA: |  |  |  | 19 | 40 | 1 | 1 |
+
+<!-- sida 879 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           4 (1)
+Kommunfullmäktige
+Datum
+2020-06-16
+
+Beslutet skickas till
+Samtliga nämnder och bolag, Service: lönecenter, arvodesberedningen
+
+Justerare                         Expedierat/bestyrkt
 
 <!-- sida 880 -->
 
@@ -23901,28 +23513,35 @@ Kungsbacka kommun         Avfallstaxa 2025                   27
 Bilaga 1 Förslag på uppdateringar av avfallstaxa beslutad av Kommunfullmäktige 12 december 2024 § 165,
 KS 2024-00300 gällande från 1 januari 2025
 
+Avsnitt            Kommentar     Uppdaterat enligt följande
+
+4.4.4.10           Maxtaxor
+Returpapper,       uppräknade    Följande priser:
+fastighetsnära     enligt
+insamling          avfallsindex
+
+Byts till:
+
+4.4.4.11           Maxtaxor      Följande priser:
+Förpackningsavfall, uppräknade
+fastighetsnära     enligt        Tömning                                     330
+insamling          avfallsindex
+
 [Tabell 910-1](handlingar.tabeller/910-1.csv)
-
-| Avsnitt | Kommentar | Uppdaterat enligt följande |
-| --- | --- | --- |
-| 4.4.4.10<br>Returpapper,<br>fastighetsnära<br>insamling | Maxtaxor<br>uppräknade<br>enligt<br>avfallsindex | Följande priser:<br>Litet kärl (upp till 150 liter) 45<br>Större kärl (190–370 liter) 85<br>660 liter 150<br>Byts till:<br>Litet kärl (upp till 150 liter) 46<br>Större kärl (190–370 liter) 86<br>660 liter 152 |
-| 4.4.4.11<br>Förpackningsavfall,<br>fastighetsnära<br>insamling | Maxtaxor<br>uppräknade<br>enligt<br>avfallsindex | Följande priser:<br>Tömning 330<br>Plastkärl 190 liter<br>60<br>Plastkärl 370 liter<br>70<br>Plastkärl 660 liter<br>100 |
-
-[Tabell 910-2](handlingar.tabeller/910-2.csv)
 
 | Litet kärl (upp till 150 liter) | 45 |  |
 | --- | --- | --- |
 | Större kärl (190–370 liter) | 85 |  |
 | 660 liter | 150 |  |
 
-[Tabell 910-3](handlingar.tabeller/910-3.csv)
+[Tabell 910-2](handlingar.tabeller/910-2.csv)
 
 | Litet kärl (upp till 150 liter) | 46 |  |
 | --- | --- | --- |
 | Större kärl (190–370 liter) | 86 |  |
 | 660 liter | 152 |  |
 
-[Tabell 910-4](handlingar.tabeller/910-4.csv)
+[Tabell 910-3](handlingar.tabeller/910-3.csv)
 
 | Plastkärl 190 liter | 60 |  |
 | --- | --- | --- |
@@ -23931,34 +23550,36 @@ KS 2024-00300 gällande från 1 januari 2025
 
 <!-- sida 911 -->
 
+Bottentömmande/markbehållare                975
+Container liftdumper 10 kubikmeter          2460
+
+Container frontlastare 8 kubikmeter         890
+
+Byts till:
+
+Tömning                                     334
+
 [Tabell 911-1](handlingar.tabeller/911-1.csv)
-
-|  |  | Bottentömmande/markbehållare 975<br>Container liftdumper 10 kubikmeter 2460<br>Container frontlastare 8 kubikmeter 890<br>Container liftdumper 10 kbm 380<br>Container frontlastare 8 kbm 300<br>Byts till:<br>Tömning 334<br>Plastkärl 190 liter<br>61<br>Plastkärl 370 liter<br>71<br>Plastkärl 660 liter<br>101<br>Bottentömmande/markbehållare 987<br>Container liftdumper 10 kubikmeter 2490<br>Container frontlastare 8 kubikmeter 901<br>Container liftdumper 10 kbm 385<br>Container frontlastare 8 kbm 304 | Bottentömmande/markbehållare | 975 |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  | Container liftdumper 10 kubikmeter | 2460 |  |
-|  |  |  | Container frontlastare 8 kubikmeter | 890 |  |
-
-[Tabell 911-2](handlingar.tabeller/911-2.csv)
 
 | Container liftdumper 10 kbm | 380 |  |
 | --- | --- | --- |
 | Container frontlastare 8 kbm | 300 |  |
 
-[Tabell 911-3](handlingar.tabeller/911-3.csv)
+[Tabell 911-2](handlingar.tabeller/911-2.csv)
 
 | Plastkärl 190 liter | 61 |  |
 | --- | --- | --- |
 | Plastkärl 370 liter | 71 |  |
 | Plastkärl 660 liter | 101 |  |
 
-[Tabell 911-4](handlingar.tabeller/911-4.csv)
+[Tabell 911-3](handlingar.tabeller/911-3.csv)
 
 | Bottentömmande/markbehållare | 987 |  |
 | --- | --- | --- |
 | Container liftdumper 10 kubikmeter | 2490 |  |
 | Container frontlastare 8 kubikmeter | 901 |  |
 
-[Tabell 911-5](handlingar.tabeller/911-5.csv)
+[Tabell 911-4](handlingar.tabeller/911-4.csv)
 
 | Container liftdumper 10 kbm | 385 |  |
 | --- | --- | --- |
@@ -23966,23 +23587,26 @@ KS 2024-00300 gällande från 1 januari 2025
 
 <!-- sida 912 -->
 
+4.5 Fastighetsnära Maxtaxor      Följande priser:
+insamling av bygg- uppräknade
+och rivningsavfall enligt
+avfallsindex
+
+Grundavgift                     6 850
+Styckpris storsäck (1 kbm)      229
+
+El-avfall                       1 500
+Energiåtervinning               1 500
+
+Gips                            1 000
+
 [Tabell 912-1](handlingar.tabeller/912-1.csv)
-
-| 4.5 Fastighetsnära<br>insamling av bygg-<br>och rivningsavfall | Maxtaxor<br>uppräknade<br>enligt<br>avfallsindex | Följande priser:<br>Container liten (6–18 kbm) 4 281<br>Container stor (19–35 kbm) samt schaktflak 9 kbm 5 832<br>7 500<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej)<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 400<br>Avfall innehållande asbest 3 750<br>Energiåtervinning 2 200<br>Förorenad jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej) 7 500<br>Förorenad jord (invasiva växter) 8 200<br>Gips 2 500<br>Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 400<br>Metall 350<br>Mineral\* 2 882<br>Osorterat/sammansatt bygg- och rivningsavfall\*\* 2 500<br>Planglas 2 619<br>Plast (inkl. eftersortering) 2 700<br>Tryckimpregnerat trä/slipers 2 330<br>Trä 1 120<br>Övrigt bygg- och rivningsavfall 2 619<br>Grundavgift 6 850<br>Styckpris storsäck (1 kbm) 229<br>El-avfall 1 500<br>Energiåtervinning 1 500<br>Gips 1 000 |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  | Grundavgift | 6 850 |  |
-|  |  |  | Styckpris storsäck (1 kbm) | 229 |  |
-|  |  |  | El-avfall | 1 500 |  |
-|  |  |  | Energiåtervinning | 1 500 |  |
-|  |  |  | Gips | 1 000 |  |
-
-[Tabell 912-2](handlingar.tabeller/912-2.csv)
 
 | Container liten (6–18 kbm) | 4 281 |  |
 | --- | --- | --- |
 | Container stor (19–35 kbm) samt schaktflak 9 kbm | 5 832 |  |
 
-[Tabell 912-3](handlingar.tabeller/912-3.csv)
+[Tabell 912-2](handlingar.tabeller/912-2.csv)
 
 | Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej) | 7 500 |  |
 | --- | --- | --- |
@@ -24004,35 +23628,41 @@ KS 2024-00300 gällande från 1 januari 2025
 
 <!-- sida 913 -->
 
+Kablar (ej farligt avfall)      1 000
+Metall                          175
+
+Mineral\*                        2 885
+Osorterat/sammansatt bygg- och rivningsavfall\*\* 2 000
+Planglas                        1 500
+
+Plast                           1 000
+Tryckimpregnerat trä/slipers    1 165
+Trä                             560
+
+Övrigt bygg- och rivningsavfall 2 000
+
+Byts till:
+
+7 590
+Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej)
+Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 477
+Avfall innehållande asbest                           3 795
+
+Energiåtervinning                                    2 226
+Förorenad jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej) 7 590
+Förorenad jord (invasiva växter)                     8 298
+
+Gips                                                 2 530
+Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 477
+Metall                                               354
+
 [Tabell 913-1](handlingar.tabeller/913-1.csv)
-
-|  |  | Kablar (ej farligt avfall) 1 000<br>Metall 175<br>Mineral\* 2 885<br>Osorterat/sammansatt bygg- och rivningsavfall\*\* 2 000<br>Planglas 1 500<br>Plast 1 000<br>Tryckimpregnerat trä/slipers 1 165<br>Trä 560<br>Övrigt bygg- och rivningsavfall 2 000<br>Felsorteringsavgift container 4 800<br>Felsorteringsavgift storsäck 1 500<br>Byts till:<br>Container liten (6–18 kbm) 4 332<br>Container stor (19–35 kbm) samt schaktflak 9 kbm 5 902<br>7 590<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej)<br>Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 477<br>Avfall innehållande asbest 3 795<br>Energiåtervinning 2 226<br>Förorenad jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej) 7 590<br>Förorenad jord (invasiva växter) 8 298<br>Gips 2 530<br>Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) 6 477<br>Metall 354 | Kablar (ej farligt avfall) | 1 000 |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | Metall | 175 |  |  |
-|  |  |  | Mineral\* | 2 885 |  |  |
-|  |  |  | Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 000 |  |  |
-|  |  |  | Planglas | 1 500 |  |  |
-|  |  |  | Plast | 1 000 |  |  |
-|  |  |  | Tryckimpregnerat trä/slipers | 1 165 |  |  |
-|  |  |  | Trä | 560 |  |  |
-|  |  |  | Övrigt bygg- och rivningsavfall | 2 000 |  |  |
-|  |  |  | Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej) |  | 7 590 |  |
-|  |  |  | Asfalt (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) |  | 6 477 |  |
-|  |  |  | Avfall innehållande asbest |  | 3 795 |  |
-|  |  |  | Energiåtervinning |  | 2 226 |  |
-|  |  |  | Förorenad jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls ej) |  | 7 590 |  |
-|  |  |  | Förorenad jord (invasiva växter) |  | 8 298 |  |
-|  |  |  | Gips |  | 2 530 |  |
-|  |  |  | Jord (analyserad, riktvärden under känslig markanvändning (KM) uppfylls) |  | 6 477 |  |
-|  |  |  | Metall |  | 354 |  |
-
-[Tabell 913-2](handlingar.tabeller/913-2.csv)
 
 | Felsorteringsavgift container | 4 800 |  |
 | --- | --- | --- |
 | Felsorteringsavgift storsäck | 1 500 |  |
 
-[Tabell 913-3](handlingar.tabeller/913-3.csv)
+[Tabell 913-2](handlingar.tabeller/913-2.csv)
 
 | Container liten (6–18 kbm) | 4 332 |  |
 | --- | --- | --- |
@@ -24040,24 +23670,23 @@ KS 2024-00300 gällande från 1 januari 2025
 
 <!-- sida 914 -->
 
+Mineral\*                                             2 917
+Osorterat/sammansatt bygg- och rivningsavfall\*\*      2 530
+
+Planglas                                             2 650
+Plast (inkl. eftersortering)                         2 732
+Tryckimpregnerat trä/slipers                         2 358
+
+Trä                                                  1 133
+Övrigt bygg- och rivningsavfall                      2 650
+
 [Tabell 914-1](handlingar.tabeller/914-1.csv)
-
-|  |  | Mineral\* 2 917<br>Osorterat/sammansatt bygg- och rivningsavfall\*\* 2 530<br>Planglas 2 650<br>Plast (inkl. eftersortering) 2 732<br>Tryckimpregnerat trä/slipers 2 358<br>Trä 1 133<br>Övrigt bygg- och rivningsavfall 2 650<br>Grundavgift 6 932<br>Styckpris storsäck (1 kbm) 232<br>El-avfall 1 518<br>Energiåtervinning 1 518<br>Gips 1 012<br>Kablar (ej farligt avfall) 1 012<br>Metall 177<br>Mineral\* 2 920<br>Osorterat/sammansatt bygg- och rivningsavfall\*\* 2 024<br>Planglas 1 518<br>Plast 1 012<br>Tryckimpregnerat trä/slipers 1 179<br>Trä 567<br>Övrigt bygg- och rivningsavfall 2 024<br>Felsorteringsavgift container 4 858<br>Felsorteringsavgift storsäck 1 518 | Mineral\* | 2 917 |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  | Osorterat/sammansatt bygg- och rivningsavfall\*\* | 2 530 |  |
-|  |  |  | Planglas | 2 650 |  |
-|  |  |  | Plast (inkl. eftersortering) | 2 732 |  |
-|  |  |  | Tryckimpregnerat trä/slipers | 2 358 |  |
-|  |  |  | Trä | 1 133 |  |
-|  |  |  | Övrigt bygg- och rivningsavfall | 2 650 |  |
-
-[Tabell 914-2](handlingar.tabeller/914-2.csv)
 
 | Grundavgift | 6 932 |  |
 | --- | --- | --- |
 | Styckpris storsäck (1 kbm) | 232 |  |
 
-[Tabell 914-3](handlingar.tabeller/914-3.csv)
+[Tabell 914-2](handlingar.tabeller/914-2.csv)
 
 | El-avfall | 1 518 |  |
 | --- | --- | --- |
@@ -24073,7 +23702,7 @@ KS 2024-00300 gällande från 1 januari 2025
 | Trä | 567 |  |
 | Övrigt bygg- och rivningsavfall | 2 024 |  |
 
-[Tabell 914-4](handlingar.tabeller/914-4.csv)
+[Tabell 914-3](handlingar.tabeller/914-3.csv)
 
 | Felsorteringsavgift container | 4 858 |  |
 | --- | --- | --- |
@@ -25536,35 +25165,42 @@ KUNGSBACKA  KOMMUN
 
 taxedokumentet.
 
-Figur 1 Tabell som beskriver korrigerade belopp. Tabellen förekommer på sid 5 respektive sid 7 i VA taxan 2025
+a) Servisavgift
 
+En ledning             74 984 kr 80%
+Två ledningar          84 357 kr 90%
+
+Tre ledningar          93 730 kr 100%
+V       S        Df     Dg     Totalavgift
+27 727 kr 42 879 kr 17 152 kr
+b) Förbindelsepunktsavgift                        -      85 758 kr
+25 727 kr 50%    20%
+30%
+15,45 kr
+30,90 kr 51,50 kr 5,15 kr
+c) Tomtyteavgift per m2                           15%    103,00 kr
+30%     50%      5%
+20 085 kr 30 128 kr
+d) Bostadsenhetsavgift                     -      -     50 212 kr
+40%
+30 127 kr
+60%
+Avgift för Dagvatten utan att
+e)\*                       -       -        26 525 kr -   26 525 kr
+förbindelsepunkt är upprättad
+Figur 1 Tabell som beskriver korrigerade belopp. Tabellen förekommer på sid 5 respektive sid 7 i VA taxan 2025
 För b) Förbindelsepunktsavgift uppges att kostnaden för en anslutning av vatten är 27 727 kronor. 30
 procent av totalavgiften på 85 758 kronor blir 25 727 kronor. Det har blivit fel när uppgifterna lagts in
 i tabellen, och tabellen behöver justeras så att det framgår att avgiften är 25 727 kronor i stället för 27
 727 kronor.
-
 I d) Bostadsenhetsavgift, är det en felaktig avrundning som gör att korrekt avgift att ta ut för spillvatten
 (60 procent av 50 212 kronor) blir 30 127 kronor, i stället för uppgivna 30 128 kronor.
-
 Nämnden för Teknik uppmärksammade felet innan taxan började gälla och debitering år 2025 har i
 förekommande fall skett enligt de korrekt beräknade lägre beloppen.
 
 Anders Johansson                   Christina Hermansson
 
 Tillförordnad kommundirektör       Ekonomichef
-
-[Tabell 948-1](handlingar.tabeller/948-1.csv)
-
-| a) | Servisavgift |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | En ledning | 74 984 kr 80% |  |  |  |  |
-|  | Två ledningar | 84 357 kr 90% |  |  |  |  |
-|  | Tre ledningar | 93 730 kr 100% |  |  |  |  |
-|  |  | V | S | Df | Dg | Totalavgift |
-| b) | Förbindelsepunktsavgift | 27 727 kr<br>25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
-| c) | Tomtyteavgift per m2 | 30,90 kr<br>30% | 51,50 kr<br>50% | 5,15 kr<br>5% | 15,45 kr<br>15% | 103,00 kr |
-| d) | Bostadsenhetsavgift | 20 085 kr<br>40% | 30 128 kr<br>30 127 kr<br>60% | - | - | 50 212 kr |
-| e)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
 
 <!-- sida 949 -->
 
@@ -25893,24 +25529,31 @@ Anläggningsavgift ska betalas för Bostadsfastighet.
 
 Avgift utgår per fastighet med:
 
+a) Servisavgift
+En ledning             74 984 kr 80%
+Två ledningar          84 357 kr 90%
+
+Tre ledningar          93 730 kr 100%
+V       S      Df      Dg  Totalavgift
+25 727 kr 42 879 kr 17 152 kr
+b) Förbindelsepunktsavgift                       -   85 758 kr
+30%     50%    20%
+30,90 kr 51,50 kr 5,15 kr
+15,45
+c) Tomtyteavgift per m2                          kr  103,00 kr
+30%     50%    5%
+15%
+20 085 kr 30 127 kr
+d) Bostadsenhetsavgift                   -       -   50 212 kr
+40%
+60%
+Avgift för Dagvatten utan att
+e)\*                       -       -      26 525 kr - 26 525 kr
+förbindelsepunkt är upprättad
 \*Avgift enligt 5.1 e) tas ej ut om avgift uttages för Df enligt 5.1a) och b). I det fall avgift enligt 5.1 e) tas
 ut, reduceras avgift enligt 5.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2025        5 (15)
-
-[Tabell 956-1](handlingar.tabeller/956-1.csv)
-
-| a) | Servisavgift |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | En ledning | 74 984 kr 80% |  |  |  |  |
-|  | Två ledningar | 84 357 kr 90% |  |  |  |  |
-|  | Tre ledningar | 93 730 kr 100% |  |  |  |  |
-|  |  | V | S | Df | Dg | Totalavgift |
-| b) | Förbindelsepunktsavgift | 25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
-| c) | Tomtyteavgift per m2 | 30,90 kr<br>30% | 51,50 kr<br>50% | 5,15 kr<br>5% | 15,45<br>kr<br>15% | 103,00 kr |
-| d) | Bostadsenhetsavgift | 20 085 kr<br>40% | 30 127 kr<br>60% | - | - | 50 212 kr |
-| e)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - | 26 525 kr |
 
 <!-- sida 957 -->
 
@@ -25985,15 +25628,31 @@ Anläggningsavgift ska betalas för Annan fastighet.
 
 Avgift utgår per fastighet med:
 
+a) Servisavgift
+
+En ledning            74 984 kr 80%
+
+Två ledningar         84 357 kr 90%
+
+Tre ledningar         93 730 kr 100%
+V      S      Df       Dg   Totalavgift
+
+25 727 kr 42 879 kr 17 152 kr
+b) Förbindelsepunktsavgift                      -    85 758 kr
+30%    50%    20%
+35,20 kr 58,66 kr 5,87 kr 17,60 kr
+c) Tomtyteavgift per m2                              117,32 kr
+30%    50%    5%       15%
+Avgift för Dagvatten utan att
+d)\*                      -      -      26 525 kr -
+förbindelsepunkt är upprättad
 \*Avgift enligt 6.1 d) tas ej ut om avgift uttages för Df enligt 6.1 a) och b). I det fall avgift enligt 6.1 d) tas
 ut, reduceras avgift enligt 6.1 a) och b) med delen Df, eftersom servisledning och förbindelsepunkt inte
 lagts eller upprättats.
 6.2
 Är förbindelsepunkt gemensam för två eller flera fastigheter, fördelas avgifter enligt
 6.1 a) lika mellan fastigheterna.
-
 6.3
-
 Om godtagbar säkerhet ställs, kan huvudmannen medge anstånd med betalning av
 Tomtyteavgift för viss andel av fastighetens areal som motsvarar markyta som
 tillsvidare inte utnyttjas för verksamheten på fastigheten.
@@ -26003,18 +25662,6 @@ fastighetsbildningsåtgärd frångår fastigheten, upphör anståndsmedgivandet 
 och resterande Tomtyteavgift förfaller till betalning.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2025        7 (15)
-
-[Tabell 958-1](handlingar.tabeller/958-1.csv)
-
-| a) | Servisavgift |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | En ledning | 74 984 kr 80% |  |  |  |  |
-|  | Två ledningar | 84 357 kr 90% |  |  |  |  |
-|  | Tre ledningar | 93 730 kr 100% |  |  |  |  |
-|  |  | V | S | Df | Dg | Totalavgift |
-| b) | Förbindelsepunktsavgift | 25 727 kr<br>30% | 42 879 kr<br>50% | 17 152 kr<br>20% | - | 85 758 kr |
-| c) | Tomtyteavgift per m2 | 35,20 kr<br>30% | 58,66 kr<br>50% | 5,87 kr<br>5% | 17,60 kr<br>15% | 117,32 kr |
-| d)\* | Avgift för Dagvatten utan att<br>förbindelsepunkt är upprättad | - | - | 26 525 kr | - |  |
 
 <!-- sida 959 -->
 
@@ -26200,6 +25847,13 @@ V     S      Df    Dg    Totalavgift
 
 a) En Grundavgift per år      690 kr 1035 kr           1 725 kr
 40%   60%
+b) en avgift per m³ levererat vatten 13,10 kr 26,40 kr 39,50 kr
+33%   67%
+
+c) en Bostadsenhetsavgift per Bostadsenhet 690 kr 1035 kr 1 725 kr
+och år för Bostadsfastighet 40%  60%
+d) en Dagvattenavgift per m² hårdgjord     1,13 kr 0,31 kr 1,44 kr
+tomtyta och år                          79%   21%
 
 I fråga om bebyggd annan fastighet räknas även varje påbörjat 200-tal m2
 bruttoarea (BTA) enligt Svensk Standard SS 02 10 50 som en bostadsenhet. Vid
@@ -26220,13 +25874,6 @@ Brukningsavgift för tillfälligt vatten ska betalas enligt 14.1 b). Om mätning
 antas den förbrukade vattenmängden uppgå till 50 m³ per Bostadsenhet.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2025        11 (15)
-
-[Tabell 962-1](handlingar.tabeller/962-1.csv)
-
-| b) | en avgift per m³ levererat vatten | 13,10 kr<br>33% | 26,40 kr<br>67% |  |  | 39,50 kr |
-| --- | --- | --- | --- | --- | --- | --- |
-| c) | en Bostadsenhetsavgift per Bostadsenhet<br>och år för Bostadsfastighet | 690 kr<br>40% | 1035 kr<br>60% |  |  | 1 725 kr |
-| d) | en Dagvattenavgift per m² hårdgjord<br>tomtyta och år |  |  | 1,13 kr<br>79% | 0,31 kr<br>21% | 1,44 kr |
 
 <!-- sida 963 -->
 
@@ -31227,7 +30874,12 @@ Inflyttningar Utflyttningar Flyttningsöverskott
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | Falkenberg | Varberg | Kungsbacka | Göteborg | Mölndal | Halmstad |
 | --- | --- | --- | --- | --- | --- | --- |
-| <1 år 29 27 20 37 27 38<br>1–2 år 17 17 11 19 14 19<br>2–3 år 10 8 7 9 9 10<br>3–5 år 8 8 7 8 8 7<br>5–10 år 7 8 10 7 9 6<br>>10 år 29 32 45 19 33 20 |  |  |  |  |  |  |
+| <1 år | 29 | 27 | 20 | 37 | 27 | 38 |
+| 1–2 år | 17 | 17 | 11 | 19 | 14 | 19 |
+| 2–3 år | 10 | 8 | 7 | 9 | 9 | 10 |
+| 3–5 år | 8 | 8 | 7 | 8 | 8 | 7 |
+| 5–10 år | 7 | 8 | 10 | 7 | 9 | 6 |
+| >10 år | 29 | 32 | 45 | 19 | 33 | 20 |
 
 <!-- sida 1087 -->
 
@@ -31245,7 +30897,13 @@ ungdomar och 1/3-del svarar att det är balans.
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | KUNGSBACKA<br>STAD | SLÄP | VALLDA | ONSALA | FJÄRÅS | ÅSA<br>FRILLESÅS | GÄLLINGE | ÄLVSÅKER | KOMMUN |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <1 år 31 12 12 12 17 18 20 20 20<br>1–2 år 16 5 8 6 13 8 16 11 11<br>2–3 år 10 5 3 4 7 5 7 7 7<br>3–5 år 8 8 6 7 8 6 6 10 7<br>5–10 år 10 11 7 11 10 11 6 9 10<br>>10 år 24 59 64 61 46 51 45 44 45<br>Total 100 100 100 100 100 100 100 100 100 |  |  |  |  |  |  |  |  |  |
+| <1 år | 31 | 12 | 12 | 12 | 17 | 18 | 20 | 20 | 20 |
+| 1–2 år | 16 | 5 | 8 | 6 | 13 | 8 | 16 | 11 | 11 |
+| 2–3 år | 10 | 5 | 3 | 4 | 7 | 5 | 7 | 7 | 7 |
+| 3–5 år | 8 | 8 | 6 | 7 | 8 | 6 | 6 | 10 | 7 |
+| 5–10 år | 10 | 11 | 7 | 11 | 10 | 11 | 6 | 9 | 10 |
+| >10 år | 24 | 59 | 64 | 61 | 46 | 51 | 45 | 44 | 45 |
+| Total | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |
 
 <!-- sida 1088 -->
 
@@ -36483,7 +36141,12 @@ Inflyttningar Utflyttningar Flyttningsöverskott
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | Falkenberg | Varberg | Kungsbacka | Göteborg | Mölndal | Halmstad |
 | --- | --- | --- | --- | --- | --- | --- |
-| <1 år 29 27 20 37 27 38<br>1–2 år 17 17 11 19 14 19<br>2–3 år 10 8 7 9 9 10<br>3–5 år 8 8 7 8 8 7<br>5–10 år 7 8 10 7 9 6<br>>10 år 29 32 45 19 33 20 |  |  |  |  |  |  |
+| <1 år | 29 | 27 | 20 | 37 | 27 | 38 |
+| 1–2 år | 17 | 17 | 11 | 19 | 14 | 19 |
+| 2–3 år | 10 | 8 | 7 | 9 | 9 | 10 |
+| 3–5 år | 8 | 8 | 7 | 8 | 8 | 7 |
+| 5–10 år | 7 | 8 | 10 | 7 | 9 | 6 |
+| >10 år | 29 | 32 | 45 | 19 | 33 | 20 |
 
 <!-- sida 1222 -->
 
@@ -36501,7 +36164,13 @@ ungdomar och 1/3-del svarar att det är balans.
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | KUNGSBACKA<br>STAD | SLÄP | VALLDA | ONSALA | FJÄRÅS | ÅSA<br>FRILLESÅS | GÄLLINGE | ÄLVSÅKER | KOMMUN |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <1 år 31 12 12 12 17 18 20 20 20<br>1–2 år 16 5 8 6 13 8 16 11 11<br>2–3 år 10 5 3 4 7 5 7 7 7<br>3–5 år 8 8 6 7 8 6 6 10 7<br>5–10 år 10 11 7 11 10 11 6 9 10<br>>10 år 24 59 64 61 46 51 45 44 45<br>Total 100 100 100 100 100 100 100 100 100 |  |  |  |  |  |  |  |  |  |
+| <1 år | 31 | 12 | 12 | 12 | 17 | 18 | 20 | 20 | 20 |
+| 1–2 år | 16 | 5 | 8 | 6 | 13 | 8 | 16 | 11 | 11 |
+| 2–3 år | 10 | 5 | 3 | 4 | 7 | 5 | 7 | 7 | 7 |
+| 3–5 år | 8 | 8 | 6 | 7 | 8 | 6 | 6 | 10 | 7 |
+| 5–10 år | 10 | 11 | 7 | 11 | 10 | 11 | 6 | 9 | 10 |
+| >10 år | 24 | 59 | 64 | 61 | 46 | 51 | 45 | 44 | 45 |
+| Total | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |
 
 <!-- sida 1223 -->
 
@@ -50749,7 +50418,7 @@ tabellen nedan.
 
 Antagandehandling                                          35 (41)
 
-[Tabell 1531-1](handlingar.tabeller/1531-1.csv)
+[Tabell 1531-1533-1](handlingar.tabeller/1531-1533-1.csv)
 
 | Miljöaspekt | Bedömning av<br>konsekvenser –<br>planförslag | Kommentar |
 | --- | --- | --- |
@@ -50758,17 +50427,6 @@ Antagandehandling                                          35 (41)
 | Buller från trafik och<br>verksamheter | Obetydliga till | Planförslaget och utvecklingen av reningsverket och värmeverket bedöms ge<br>en i stort sett oförändrad situation ur bullersynpunkt. Planförslaget förväntas<br>därför innebära obetydliga till små negativa konsekvenser på buller från trafik<br>och verksamheter. |
 |  | små negativa<br>konsekvenser |  |
 | Luftmiljö | Obetydliga<br>konsekvenser | Planförslaget förväntas innebära ett visst utsläpp av rökgaser vid<br>reningsverket men även något minskat utsläpp till luft vad avser t.ex.<br>koldioxid och kväveoxid pga. förändringar i transportarbetet. Förändringarna<br>vid reningsverket förväntas innebära en i stort sett oförändrad situation ur<br>luktsynpunkt. Miljökvalitetsnormerna för de aktuella parametrarna riskeras ej<br>överskridas. Sammantaget sker obetydliga konsekvenser på luftmiljön. |
-
-<!-- sida 1532 -->
-
-Detaljplan för Kungsbacka 6:27 och Hammargård 1:7   Datum: 2025-02-11
-
-Antagandehandling                                          36 (41)
-
-[Tabell 1532-1](handlingar.tabeller/1532-1.csv)
-
-| Miljöaspekt | Bedömning av<br>konsekvenser –<br>planförslag | Kommentar |
-| --- | --- | --- |
 | Risk och sårbarhet<br>Transporter av farligt<br>gods | Små negativa<br>konsekvenser | Den totala risknivån i planområdet gällande farligt gods bedöms som<br>godtagbar till följd av planförslaget förutsatt att utbyggnader sker i enlighet<br>med Länsstyrelsens rekommenderade skyddsåtgärder. Konsekvenserna<br>bedöms som små negativa. |
 | Risker inom verksamheter | Små positiva<br>konsekvenser | Identifierade risker för befintliga verksamheter finns oavsett en utbyggnad<br>eller ej och hanteras inom verksamheternas säkerhets-arbete. En viss ökad<br>riskbild kopplat till verksamheternas produktion kan uppstå under byggtiden<br>vid en utbyggnad och även risker kring utformning av verksamheterna, men<br>dessa kan undvikas genom aktivt riskhanteringsarbete i planeringsprocesser.<br>En utökning av verksamheter bidrar till att konsekvenserna av riskerna blir<br>större då fler personer blir anslutna till systemen och därmed drabbas vid en<br>olycka. Samtidigt finns det risker om man inte kan säkerställa försörjning till<br>invånare. Planförslaget medför därmed små konsekvenser i både positiv och<br>negativ riktning. |
 |  | Små negativa<br>konsekvenser |  |
@@ -50777,6 +50435,17 @@ Antagandehandling                                          36 (41)
 |  | Små negativa<br>konsekvenser |  |
 | Naturmiljö och friluftsliv<br>Naturmiljö | Små negativa till | Sammantaget bedöms konsekvenserna för naturmiljön lokalt inom<br>planområdet som små negativa om man håller sig inom exploaterade ytor<br>men som medelstora negativa om anslutande kuperad naturmark tas i<br>anspråk, vilka då främst bedöms uppstå under inledande markarbeten.<br>Översiktligt bedöms planerad utökning av reningsverkets kapacitet och<br>fortsatt drift av kraftverket medföra små till medelstora positiva konsekvenser<br>för naturmiljö och då främst till följd av minskade kväveutsläpp till<br>Kungsbackafjorden vilket är tydligt positivt för fjordens naturtyper och arter. |
 |  | Medelstora<br>negativa<br>konsekvenser |  |
+| Friluftsliv | Obetydliga<br>konsekvenser | Planförslaget bedöms inte påverka några rekreationsvärden eller försvåra<br>möjligheterna till rekreation i anslutande höjdområde, varför konsekvenser<br>för friluftsliv bedöms som obetydliga till små negativa. |
+| Övriga miljöfrågor<br>Markförhållanden | Obetydliga<br>konsekvenser | Planförslaget innebär en något förändrad markanvändning samt uppförande<br>av nya byggnader, vilket innebär en del markarbeten i form av schaktning,<br>sprängarbeten och grundläggning eller blocknedfall. Under förutsättning att<br>arbetena genomförs med erforderliga säkerhetskrav bedöms detaljplanen ge<br>obetydliga konsekvenser för planområdets geotekniska förhållanden |
+| Föroreningar | Små positiva<br>konsekvenser | Inom planområdet finns inget saneringsbehov avseende påträffade halter i<br>jord då samtliga resultat understiger MKM för nuvarande och planerad<br>markanvändning. Dialog krävs med tillsynsmyndigheten om de höga<br>metallhalterna i grundvattnet och eventuellt behov av ytterligare utredningar<br>och åtgärder. Planförslaget medför att befintliga föroreningar inom<br>planområdet åtgärdas vid planerade utbyggnader och att dialog förs om<br>föroreningar i grundvattnet. Planförslaget medför små positiva konsekvenser<br>för föroreningssituationen i området. |
+| Kulturmiljö | Obetydliga till | Inom planområdet finns två kulturhistoriska fynd som är helt<br>undersökta utan någon antikvarisk bedömning enligt<br>Riksantikvarieämbetet. Dessa påverkas ej av planförslaget. Norr om<br>planområdet finns en möjlig fornlämning i form av en fornborg. Vid<br>omfattande sprängningsarbeten kan en arkeologisk utredning krävas<br>för denna. I övrigt förväntas planförslaget ej påverka övriga fynd kring<br>planområdet. |
+|  | Små negativa<br>konsekvenser |  |
+
+<!-- sida 1532 -->
+
+Detaljplan för Kungsbacka 6:27 och Hammargård 1:7   Datum: 2025-02-11
+
+Antagandehandling                                          36 (41)
 
 <!-- sida 1533 -->
 
@@ -50805,16 +50474,6 @@ Enligt kartläggning av luftföroreningssituationen i Kungsbacka 2015 konstatera
 alla tre miljökvalitetsnormerna för kvävedioxid underskreds inom hela tätorten med
 
 Antagandehandling                                          37 (41)
-
-[Tabell 1533-1](handlingar.tabeller/1533-1.csv)
-
-| Miljöaspekt | Bedömning av<br>konsekvenser –<br>planförslag | Kommentar |
-| --- | --- | --- |
-| Friluftsliv | Obetydliga<br>konsekvenser | Planförslaget bedöms inte påverka några rekreationsvärden eller försvåra<br>möjligheterna till rekreation i anslutande höjdområde, varför konsekvenser<br>för friluftsliv bedöms som obetydliga till små negativa. |
-| Övriga miljöfrågor<br>Markförhållanden | Obetydliga<br>konsekvenser | Planförslaget innebär en något förändrad markanvändning samt uppförande<br>av nya byggnader, vilket innebär en del markarbeten i form av schaktning,<br>sprängarbeten och grundläggning eller blocknedfall. Under förutsättning att<br>arbetena genomförs med erforderliga säkerhetskrav bedöms detaljplanen ge<br>obetydliga konsekvenser för planområdets geotekniska förhållanden |
-| Föroreningar | Små positiva<br>konsekvenser | Inom planområdet finns inget saneringsbehov avseende påträffade halter i<br>jord då samtliga resultat understiger MKM för nuvarande och planerad<br>markanvändning. Dialog krävs med tillsynsmyndigheten om de höga<br>metallhalterna i grundvattnet och eventuellt behov av ytterligare utredningar<br>och åtgärder. Planförslaget medför att befintliga föroreningar inom<br>planområdet åtgärdas vid planerade utbyggnader och att dialog förs om<br>föroreningar i grundvattnet. Planförslaget medför små positiva konsekvenser<br>för föroreningssituationen i området. |
-| Kulturmiljö | Obetydliga till | Inom planområdet finns två kulturhistoriska fynd som är helt<br>undersökta utan någon antikvarisk bedömning enligt<br>Riksantikvarieämbetet. Dessa påverkas ej av planförslaget. Norr om<br>planområdet finns en möjlig fornlämning i form av en fornborg. Vid<br>omfattande sprängningsarbeten kan en arkeologisk utredning krävas<br>för denna. I övrigt förväntas planförslaget ej påverka övriga fynd kring<br>planområdet. |
-|  | Små negativa<br>konsekvenser |  |
 
 <!-- sida 1534 -->
 
@@ -55595,7 +55254,7 @@ Tabell 15.1. Sammanfattning av konsekvensbedömningen.
 
 n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | Sida 88 av 95
 
-[Tabell 1651-1](handlingar.tabeller/1651-1.csv)
+[Tabell 1651-1652-1](handlingar.tabeller/1651-1652-1.csv)
 
 | Miljöaspekt | Bedömning av<br>konsekvenser –<br>planförslag | Kommentar |
 | --- | --- | --- |
@@ -55608,19 +55267,6 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 | Risker inom<br>verksamheter | Små positiva<br>konsekvenser | Identifierade risker för befintliga verksamheter finns oavsett en<br>utbyggnad eller ej och hanteras inom verksamheternas säkerhets-<br>arbete. En viss ökad riskbild kopplat till verksamheternas produktion<br>kan uppstå under byggtiden vid en utbyggnad och även risker kring<br>utformning av verksamheterna, men dessa kan undvikas genom aktivt<br>riskhanteringsarbete i planeringsprocesser.<br>En utökning av verksamheter bidrar till att konsekvenserna av riskerna<br>blir större då fler personer blir anslutna till systemen och därmed<br>drabbas vid en olycka. Samtidigt finns det risker om man inte kan<br>säkerställa försörjning till invånare. Planförslaget medför därmed små<br>konsekvenser i både positiv och negativ riktning. |
 |  | Små negativa<br>konsekvenser |  |
 | Vattenförhållanden | Små positiva<br>konsekvenser | Planförslaget bedöms inte medföra några större förändringar gällande<br>såväl dagvattenhantering, översvämningsrisk och påverkan på<br>miljökvalitetsnormer (MKN), med undantag för att viss ökad rening av<br>dagvatten uppnås om föreslagna åtgärder genomförs. Planförslaget<br>innebär små positiva till obetydliga konsekvenser på vattenmiljön.<br>Detaljplanen möjliggör för att en utökning av reningsverkets kapacitet<br>och fortsatt drift av värmeverket. Dessa konsekvenser hanteras inom<br>ramen för tillståndsprocesserna för dessa. Översiktligt bedöms en<br>utökning av reningsverket medföra små till medelstora positivta<br>konsekvenser för vattenmiljön till följd av minskade utsläpp till<br>recipienterna jämfört med nuvarande tillstånd. Status för MKN för<br>Kungsbackaåns nedre del och Inre Kungsbackafjorden bedöms inte<br>försämras och möjligheten att uppnå god status äventyras inte. |
-
-<!-- sida 1652 -->
-
-Miljökonsekvensbeskrivning
-till detaljplan för fastigheterna Kungsbacka 6:27 och Hammargård 1:7
-Uppdragsnr.: 108 12 18 Version: 3
-
-n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | Sida 89 av 95
-
-[Tabell 1652-1](handlingar.tabeller/1652-1.csv)
-
-| Miljöaspekt | Bedömning av<br>konsekvenser –<br>planförslag | Kommentar |
-| --- | --- | --- |
 | Skyddade områden<br>och<br>skyddsbestämmelse<br>r | Obetydliga<br>konsekvenser | Planen bedöms inte påverka riksintresset Västkustbanan, förutsatt att<br>lämpliga skyddsåtgärder genomförs. Konsekvenserna bedöms som<br>små till obetydliga.<br>Planförslaget medför något minskad dagvattenpåverkan på Kungs-<br>backaån och Kungsbackafjorden, varvid påverkan på växt- och djurlivet<br>i dessa skyddade områden bedöms som obetydligt.<br>Erhållet tillstånd för reningsverkets medför minskade närsaltsutsläpp<br>vilket bedöms bidra till förbättrade förutsättningarna för både<br>Kungsbackaåns och Kungsbackafjordens växt- och djurliv genom<br>minskad kvävetillförsel. Påverkan på de skyddade områdena bedöms<br>som små till medelstora positiva. |
 |  | Små negativa<br>konsekvenser |  |
 | Naturmiljö och<br>friluftsliv<br>Naturmiljö | Små negativa till | Sammantaget bedöms konsekvenserna för naturmiljön lokalt inom<br>planområdet som små negativa om man håller sig inom exploaterade<br>ytor men som medelstora negativa om anslutande kuperad naturmark<br>tas i anspråk, vilka då främst bedöms uppstå under inledande<br>markarbeten.<br>Översiktligt bedöms planerad utökning av reningsverkets kapacitet och<br>fortsatt drift av kraftverket medföra små till medelstora positiva<br>konsekvenser för naturmiljö och då främst till följd av minskade<br>kväveutsläpp till Kungsbackafjorden vilket är tydligt positivt för fjordens<br>naturtyper och arter. |
@@ -55630,6 +55276,14 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 | Föroreningar | Små positiva<br>konsekvenser | Inom planområdet finns inget saneringsbehov avseende påträffade<br>halter i jord då samtliga resultat understiger MKM för nuvarande och<br>planerad markanvändning. Dialog krävs med tillsynsmyndigheten om<br>de höga metallhalterna i grundvattnet och eventuellt behov av<br>ytterligare utredningar och åtgärder. Planförslaget medför att befintliga<br>föroreningar inom planområdet åtgärdas vid planerade utbyggnader och<br>att dialog förs om föroreningar i grundvattnet. Planförslaget medför små<br>positiva konsekvenser för föroreningssituationen i området. |
 | Kulturmiljö | Obetydliga till | Inom planområdet finns två kulturhistoriska fynd som är helt undersökta<br>utan någon antikvarisk bedömning enligt Riksantikvarieämbetet. Dessa<br>påverkas ej av planförslaget. Norr om planområdet finns en möjlig<br>fornlämning i form av en fornborg. Vid omfattande sprängningsarbeten<br>kan en arkeologisk utredning krävas för denna. I övrigt förväntas<br>planförslaget ej påverka övriga fynd kring planområdet. |
 |  | Små negativa<br>konsekvenser |  |
+
+<!-- sida 1652 -->
+
+Miljökonsekvensbeskrivning
+till detaljplan för fastigheterna Kungsbacka 6:27 och Hammargård 1:7
+Uppdragsnr.: 108 12 18 Version: 3
+
+n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | Sida 89 av 95
 
 <!-- sida 1653 -->
 
@@ -55672,7 +55326,7 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 | 7 | Ingen övergödning | 15 | God bebyggd miljö |
 | 8 | Levande sjöar och vattendrag | 16 | Ett rikt växt- och djurliv |
 
-[Tabell 1653-2](handlingar.tabeller/1653-2.csv)
+[Tabell 1653-1654-2](handlingar.tabeller/1653-1654-2.csv)
 
 | Nr | Miljökvalitetsmål | Påverkan | Detaljplanens inverkan på miljökvalitetsmålen |
 | --- | --- | --- | --- |
@@ -55680,6 +55334,12 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 | 2 | Frisk luft | + | Utbyggnad enligt planförslaget och verksamheternas tillståndsansökningar<br>förväntas förutom minskade utsläpp till luft vad gäller koldioxid och kväveoxid<br>pga. förändringar i transportarbetet även medföra ett visst utsläpp av rökgaser<br>vid en framtida förändrad slamhantering. Miljökvalitetsnormer för luft förväntas<br>dock fortsatt kunna klaras med stor marginal. Sammantaget förväntas<br>planförslaget innebära viss påverkan på miljökvalitetsmålet i positiv riktning. |
 | 4 | Giftfri miljö | + | Planförslaget bedöms medföra att befintliga föroreningar inom planområdet<br>åtgärdas i samband med planerade utbyggnader och att dialog förs angående<br>de höga metallhalterna i grundvattnet, varför detta bedöms medföra små positiva<br>konsekvenser för föroreningssituationen i området. Detta kan innebära viss<br>positiv påverkan på miljökvalitetsmålet. |
 | 7 | Ingen<br>övergödning | + | Planförslaget bedöms inte medföra några större förändringar gällande såväl<br>dagvattenhantering, översvämningsrisk och påverkan på miljökvalitetsnormer,<br>med undantag för att viss ökad rening av dagvatten kan uppnås om föreslagna<br>åtgärder genomförs. Planförslaget förväntas på lokal nivå ge en viss positiv<br>inverkan på miljömålet. |
+|  |  |  | Erhållet tillstånd för utökning av reningsverket minskar utsläppen av närsalter<br>jämfört med nuvarande situation till recipienterna. Särskilt minskade<br>kväveutsläpp bedöms bidra till att förbättra övergödningssituationen i fjorden<br>vilket kan bromsa produktionen av fintrådiga alger i fjordens grundområden,<br>vilket i sin tur kan gynna fjordens växt- och djurliv. Möjligheterna till att uppnå<br>god ekologisk och kemisk status i Kungsbackaån och Inre Kungsbackafjorden<br>förbättras. Detta påverkar miljömålet i positiv riktning |
+| 8 | Levande sjöar<br>och vattendrag | + | Planförslaget bedöms inte påverka Kungsbackaåns växt- och djurliv eller<br>vattenkvalitet utan viss ökad dagvattenrening sker inom planområdet.<br>Erhållet tillstånd för utökning av reningsverket minskar utsläppen av närsalter<br>vilket är positivt för Kungsbackaåns vattenkvalitet och växt- och djurliv.<br>Miljömålet bedöms påverkas i positiv riktning. |
+| 9 | Grundvatten av<br>god kvalitet | + | Grundvattnet i området rinner mot recipienten Kungsbackaån, vilken mynnar ut i<br>Kungsbackafjorden. Grundvatten i området visar delvis på höga till mycket höga<br>metallhalter. Dialog med tillsynsmyndigheten krävs gällande ytterligare<br>utredningar och åtgärder som ska genomföras i samband med utbyggnad. Detta<br>kan innebära positiv påverkan på miljökvalitetsmålet. |
+| 10 | Hav i balans samt<br>levande kust och<br>skärgård | - | Den slutgiltiga recipienten Inre Kungsbackafjorden, hyser mycket höga natur-<br>och friluftsvärden och omfattas av ett flertal skyddsbestämmelser. Planförslaget<br>förväntas inte medföra något större påverkan på slutrecipienten genom<br>dagvattenutsläpp då planförslaget medför en viss ökad rening av den<br>begränsade mängd dagvatten som planområdet ger upphov till.<br>Planerad utökning av reningsverket innebär minskade närsaltsutsläpp till<br>Kungsbackaån och Kungsbackafjorden. Främst minskad kvävetillförsel till<br>Kungsbackafjordens inre del kan motverka ökad produktion av fintrådiga alger<br>och de negativa följdeffekter denna får på fjordens naturtyper och arter genom<br>övertäckning, syrebrist och svavelvätebildning. Detta påverkar miljömålet i<br>positiv riktning. |
+| 15 | God bebyggd<br>miljö | + | Planområdet kommer att fortsätta användas för industriverksamheter av det<br>befintliga värmeverket och avloppsreningsverket. Att ta fram en ny detaljplan för<br>området för att möjliggöra utbyggnad av befintliga verksamheter gör att området<br>kan fortsätta nyttjas och nya områden behöver ej tas i anspråk för dessa<br>samhällsviktiga verksamheter. Planförslaget förväntas därför innebära positiv<br>påverkan på miljökvalitetsmålet. |
+| 16 | Ett rikt växt- och<br>djurliv | -/+ | Planförslagets påverkan på naturmiljön och områdets växt- och djurliv bedöms<br>som liten.<br>Erhållet tillstånd för reningsverket bedöms dock bidra till att förbättra närsalts<br>situationen i recipienterna vilket gynnar deras naturtyper och växt- och djurliv. |
 
 <!-- sida 1654 -->
 
@@ -55688,17 +55348,6 @@ till detaljplan för fastigheterna Kungsbacka 6:27 och Hammargård 1:7
 Uppdragsnr.: 108 12 18 Version: 3
 
 n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | Sida 91 av 95
-
-[Tabell 1654-1](handlingar.tabeller/1654-1.csv)
-
-| Nr | Miljökvalitetsmål | Påverkan | Detaljplanens inverkan på miljökvalitetsmålen |
-| --- | --- | --- | --- |
-|  |  |  | Erhållet tillstånd för utökning av reningsverket minskar utsläppen av närsalter<br>jämfört med nuvarande situation till recipienterna. Särskilt minskade<br>kväveutsläpp bedöms bidra till att förbättra övergödningssituationen i fjorden<br>vilket kan bromsa produktionen av fintrådiga alger i fjordens grundområden,<br>vilket i sin tur kan gynna fjordens växt- och djurliv. Möjligheterna till att uppnå<br>god ekologisk och kemisk status i Kungsbackaån och Inre Kungsbackafjorden<br>förbättras. Detta påverkar miljömålet i positiv riktning |
-| 8 | Levande sjöar<br>och vattendrag | + | Planförslaget bedöms inte påverka Kungsbackaåns växt- och djurliv eller<br>vattenkvalitet utan viss ökad dagvattenrening sker inom planområdet.<br>Erhållet tillstånd för utökning av reningsverket minskar utsläppen av närsalter<br>vilket är positivt för Kungsbackaåns vattenkvalitet och växt- och djurliv.<br>Miljömålet bedöms påverkas i positiv riktning. |
-| 9 | Grundvatten av<br>god kvalitet | + | Grundvattnet i området rinner mot recipienten Kungsbackaån, vilken mynnar ut i<br>Kungsbackafjorden. Grundvatten i området visar delvis på höga till mycket höga<br>metallhalter. Dialog med tillsynsmyndigheten krävs gällande ytterligare<br>utredningar och åtgärder som ska genomföras i samband med utbyggnad. Detta<br>kan innebära positiv påverkan på miljökvalitetsmålet. |
-| 10 | Hav i balans samt<br>levande kust och<br>skärgård | - | Den slutgiltiga recipienten Inre Kungsbackafjorden, hyser mycket höga natur-<br>och friluftsvärden och omfattas av ett flertal skyddsbestämmelser. Planförslaget<br>förväntas inte medföra något större påverkan på slutrecipienten genom<br>dagvattenutsläpp då planförslaget medför en viss ökad rening av den<br>begränsade mängd dagvatten som planområdet ger upphov till.<br>Planerad utökning av reningsverket innebär minskade närsaltsutsläpp till<br>Kungsbackaån och Kungsbackafjorden. Främst minskad kvävetillförsel till<br>Kungsbackafjordens inre del kan motverka ökad produktion av fintrådiga alger<br>och de negativa följdeffekter denna får på fjordens naturtyper och arter genom<br>övertäckning, syrebrist och svavelvätebildning. Detta påverkar miljömålet i<br>positiv riktning. |
-| 15 | God bebyggd<br>miljö | + | Planområdet kommer att fortsätta användas för industriverksamheter av det<br>befintliga värmeverket och avloppsreningsverket. Att ta fram en ny detaljplan för<br>området för att möjliggöra utbyggnad av befintliga verksamheter gör att området<br>kan fortsätta nyttjas och nya områden behöver ej tas i anspråk för dessa<br>samhällsviktiga verksamheter. Planförslaget förväntas därför innebära positiv<br>påverkan på miljökvalitetsmålet. |
-| 16 | Ett rikt växt- och<br>djurliv | -/+ | Planförslagets påverkan på naturmiljön och områdets växt- och djurliv bedöms<br>som liten.<br>Erhållet tillstånd för reningsverket bedöms dock bidra till att förbättra närsalts<br>situationen i recipienterna vilket gynnar deras naturtyper och växt- och djurliv. |
 
 <!-- sida 1655 -->
 
@@ -56830,7 +56479,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7A68450FE1D012D031B316EED1F081534B8C7935DD
 Transaktionsidentitet: 6A67DB0FCE455564C0FD887AF6116A5A52481A7A1B
 
-[Tabell 1680-1](handlingar.tabeller/1680-1.csv)
+[Tabell 1680-1681-1](handlingar.tabeller/1680-1681-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -56839,6 +56488,12 @@ Transaktionsidentitet: 6A67DB0FCE455564C0FD887AF6116A5A52481A7A1B
 | Annika Carlsson (M) | X |  |  |
 | Barbro Hjelström (M) | X |  |  |
 | Astrid Börjesson (S) |  | X |  |
+| Eva Tingström (S) |  | X |  |
+| Per Hoel (SD) | X |  |  |
+| Göran Ottosson (SD) | X |  |  |
+| Bengt Alderin (C) | X |  |  |
+| Carry Kvarntun (M) | X |  |  |
+| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 1681 -->
 
@@ -56869,16 +56524,6 @@ Transaktionsidentitet: 7A68450FE1D012D031B316EED1F081534B8C7935DD
 Transaktionsidentitet: 6A67DB0FCE455564C0FD887AF6116A5A52481A7A1B
 
 [Tabell 1681-1](handlingar.tabeller/1681-1.csv)
-
-| Eva Tingström (S) |  | X |  |
-| --- | --- | --- | --- |
-| Per Hoel (SD) | X |  |  |
-| Göran Ottosson (SD) | X |  |  |
-| Bengt Alderin (C) | X |  |  |
-| Carry Kvarntun (M) | X |  |  |
-| Hravn Forsne (M), ordförande | X |  |  |
-
-[Tabell 1681-2](handlingar.tabeller/1681-2.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |

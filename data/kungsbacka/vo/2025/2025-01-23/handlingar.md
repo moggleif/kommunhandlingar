@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.6a4a3a17194749c526c532b5/1737379235
 sha256: 394d53a592d0a939fae9b144d7a01216b562e655acd67f4fa498ea9f68295a33
 bytes: 15367284
 sidor: 512
-hamtad: 2026-10-08T08:27:19+00:00
-konverterad: 2026-10-08T08:28:29+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T06:18:26+00:00
+konverterad: 2026-10-15T06:19:48+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [341]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [51, 341, 356, 358, 360, 361, 362, 363, 365, 366, 368, 371, 372, 415, 416, 417, 421, 423, 424]
+figurer: [28, 280, 351, 357, 358, 359, 361, 362, 364, 365, 366, 367, 368, 369, 370, 371, 372, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 386, 387, 388, 389, 391, 392, 393, 394, 396, 397, 398, 399, 400, 401, 402, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 430, 440, 455, 459, 485, 486, 487, 501, 503]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -416,13 +416,6 @@ ETT MEDSKAPANDE SAMHÄLLE OCH EN ÖPPEN ATTITYD - INDIKATORER
 
 [Tabell 10-1](handlingar.tabeller/10-1.csv)
 
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-
-[Tabell 10-2](handlingar.tabeller/10-2.csv)
-
 | Förslag Indikator | 2022 | 2023 | 2024 | Målsättning<br>2026 | Trend |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
@@ -675,13 +668,22 @@ möjliga service och tjänster med de resurser vi har även i framtiden.
 
 7
 
-[Tabell 18-1](handlingar.tabeller/18-1.csv)
+[Tabell 18-20-1](handlingar.tabeller/18-20-1.csv)
 
 | Kommunövergripande<br>mål | Fokusområden | Nämndmål | Aktiviteter | Förväntad effekt |
 | --- | --- | --- | --- | --- |
 | En attraktiv kommun att<br>bo, verka och vistas i | I Kungsbacka<br>finns<br>mötesplatser<br>för samvaro,<br>rekreation,<br>upplevelser<br>och kreativa<br>utbyten. | Förvaltningen för<br>Vård & Omsorg ska<br>tillsammans med<br>förvaltningen för<br>Kultur & Fritid öka<br>utbudet av aktiviteter<br>på särskilda boenden | Medskapande<br>undersökning på<br>vård- och<br>omsorgsboenden<br>kring utbudet av<br>aktiviteter i<br>samarbete med<br>Kultur & Fritid | Kvalificerat underlag<br>till utökning av eller<br>innehåll i aktiviteter |
 |  |  |  | Utifrån underlag ta<br>fram aktivitetspaket<br>utifrån<br>omsorgstagarnas<br>behov | Förbättrad upplevelse<br>av meningsfulla och<br>behovsanpassade<br>aktiviteter |
 |  | I Kungsbacka<br>är vi trygga<br>och får en god<br>vård och<br>omsorg när vi<br>behöver stöd<br>för att få livet<br>att fungera. | Antalet personal som<br>en<br>hemtjänstmottagare<br>möter under 14 dagar<br>ska årligen minska<br>och 2025 uppgå till<br>maximalt 14<br>medarbetare | Gemensam insats &<br>bemanningsenhet | Genom att samla<br>kompetenser kring de<br>arbetsmoment som i<br>störst utsträckning<br>påverkar<br>personalkontinuiteten<br>dvs insatsplanering<br>och bemanning,<br>skapas bättre<br>förutsättning att uppnå<br>målet. Enheten tar<br>också hjälp av digitala<br>lösningar för att arbeta<br>mer<br>datadrivet/faktabaserat<br>och effektivt med<br>insatsplanering och<br>bemanning för att ha<br>rätt person på rätt<br>plats utifrån Gretas<br>behov. |
+|  |  |  | Kungsbackamodellen | Genom att dela in<br>hemtjänstenheter i<br>mindre arbetslag i<br>hemtjänstgrupperna<br>med regelbundna<br>möten mellan Fast<br>omsorgskontakter och<br>deras omsorgstagare<br>behov ska<br>Kungsbackamodellen<br>kunna förbättra<br>personalkontinuiteten.<br>Modellen ger<br>förutsättningar för en<br>ökad delaktighet och<br>inflytande i sin vård<br>och omsorg samt<br>ökade möjligheter att<br>individanpassa<br>besöken hos<br>omsorgstagarna. |
+|  |  | Upplevelsen av<br>ensamhet bland<br>äldre i Kungsbacka<br>som får insatser av<br>förvaltningen för<br>Vård & Omsorg ska<br>årligen minska | Invånardrivna<br>aktiviteter utifrån<br>kartläggning | Meningsfulla aktiviteter<br>för vård- och<br>omsorgstagare och<br>ökad nöjdhet över<br>utbud |
+|  |  |  | Kartlägga orsak till<br>upplevd ensamhet<br>(samarbete med<br>andra förvaltningar) | Ökad förståelse för<br>och värdefulla<br>underlag till<br>nödvändiga åtgärder |
+| I Kungsbacka utvecklas<br>vi hela livet | I Kungsbacka<br>stärks<br>individens och<br>familjens egen<br>förmåga att ta<br>hand om sitt<br>liv. | Vård-och<br>omsorgstagare i<br>Kungsbacka<br>kommun har en<br>upplevd god hälsa<br>och blir stärkta i<br>fallpreventiva<br>åtgärder | Arbeta med<br>välfärdsteknik, tex<br>digitala samtal i<br>ordinärt boende samt<br>sensorer på vård-<br>och<br>omsorgsboenden | Ökad känsla av<br>självständighet och<br>trygghet samt<br>förbättrade möjligheter<br>till fallprevention. |
+|  |  |  | Aktiviteter som<br>främjar rörelse i<br>samarbete med<br>Kultur & Fritid | Vård- och<br>omsorgstagare får<br>förbättrad rörlighet och<br>styrka |
+|  |  |  | Styrka- och<br>balansaktiviteter på<br>vård-och<br>omsorgsboenden | Minskad risk för fall<br>och fall som leder till<br>skador. |
+|  |  |  | Implementering av<br>mobila trygghetslarm | Ökad känsla av<br>självständighet och<br>förbättrad hälsa |
+|  |  |  | Hembesök av rehab<br>vid inskrivning i<br>hemsjukvården i<br>ordinärt boende | Tidiga insatser vid risk<br>för fall |
+| Ett medskapande<br>samhälle och öppen<br>attityd | Kungsbacka<br>kommun är en<br>attraktiv<br>arbetsgivare<br>med modiga<br>och<br>medskapande<br>medarbetare<br>och ledare | Medarbetare hos<br>Vård & Omsorg får<br>den<br>kompetensutveckling<br>som krävs för arbetet<br>och kan utvecklas<br>genom<br>vidareutbildning | Äldreomsorgslyftet | Ny och befintlig<br>personal får möjlighet<br>att utbilda sig på<br>arbetstid. |
 
 <!-- sida 19 -->
 
@@ -690,31 +692,12 @@ Förvaltningsbudget 2025
 
 8
 
-[Tabell 19-1](handlingar.tabeller/19-1.csv)
-
-| Kommunövergripande<br>mål | Fokusområden | Nämndmål | Aktiviteter | Förväntad effekt |
-| --- | --- | --- | --- | --- |
-|  |  |  | Kungsbackamodellen | Genom att dela in<br>hemtjänstenheter i<br>mindre arbetslag i<br>hemtjänstgrupperna<br>med regelbundna<br>möten mellan Fast<br>omsorgskontakter och<br>deras omsorgstagare<br>behov ska<br>Kungsbackamodellen<br>kunna förbättra<br>personalkontinuiteten.<br>Modellen ger<br>förutsättningar för en<br>ökad delaktighet och<br>inflytande i sin vård<br>och omsorg samt<br>ökade möjligheter att<br>individanpassa<br>besöken hos<br>omsorgstagarna. |
-|  |  | Upplevelsen av<br>ensamhet bland<br>äldre i Kungsbacka<br>som får insatser av<br>förvaltningen för<br>Vård & Omsorg ska<br>årligen minska | Invånardrivna<br>aktiviteter utifrån<br>kartläggning | Meningsfulla aktiviteter<br>för vård- och<br>omsorgstagare och<br>ökad nöjdhet över<br>utbud |
-|  |  |  | Kartlägga orsak till<br>upplevd ensamhet<br>(samarbete med<br>andra förvaltningar) | Ökad förståelse för<br>och värdefulla<br>underlag till<br>nödvändiga åtgärder |
-| I Kungsbacka utvecklas<br>vi hela livet | I Kungsbacka<br>stärks<br>individens och<br>familjens egen<br>förmåga att ta<br>hand om sitt<br>liv. | Vård-och<br>omsorgstagare i<br>Kungsbacka<br>kommun har en<br>upplevd god hälsa<br>och blir stärkta i<br>fallpreventiva<br>åtgärder | Arbeta med<br>välfärdsteknik, tex<br>digitala samtal i<br>ordinärt boende samt<br>sensorer på vård-<br>och<br>omsorgsboenden | Ökad känsla av<br>självständighet och<br>trygghet samt<br>förbättrade möjligheter<br>till fallprevention. |
-|  |  |  | Aktiviteter som<br>främjar rörelse i<br>samarbete med<br>Kultur & Fritid | Vård- och<br>omsorgstagare får<br>förbättrad rörlighet och<br>styrka |
-|  |  |  | Styrka- och<br>balansaktiviteter på<br>vård-och<br>omsorgsboenden | Minskad risk för fall<br>och fall som leder till<br>skador. |
-
 <!-- sida 20 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Förvaltningsbudget 2025
 
 9
-
-[Tabell 20-1](handlingar.tabeller/20-1.csv)
-
-| Kommunövergripande<br>mål | Fokusområden | Nämndmål | Aktiviteter | Förväntad effekt |
-| --- | --- | --- | --- | --- |
-|  |  |  | Implementering av<br>mobila trygghetslarm | Ökad känsla av<br>självständighet och<br>förbättrad hälsa |
-|  |  |  | Hembesök av rehab<br>vid inskrivning i<br>hemsjukvården i<br>ordinärt boende | Tidiga insatser vid risk<br>för fall |
-| Ett medskapande<br>samhälle och öppen<br>attityd | Kungsbacka<br>kommun är en<br>attraktiv<br>arbetsgivare<br>med modiga<br>och<br>medskapande<br>medarbetare<br>och ledare | Medarbetare hos<br>Vård & Omsorg får<br>den<br>kompetensutveckling<br>som krävs för arbetet<br>och kan utvecklas<br>genom<br>vidareutbildning | Äldreomsorgslyftet | Ny och befintlig<br>personal får möjlighet<br>att utbilda sig på<br>arbetstid. |
 
 <!-- sida 21 -->
 
@@ -2001,33 +1984,25 @@ Sammanfattande bedömningar utifrån revisionsfrågor
 
 22
 
-[Tabell 47-1](handlingar.tabeller/47-1.csv)
+[Tabell 47-49-1](handlingar.tabeller/47-49-1.csv)
 
 | Revisionsfråga | Bedömning |  |
 | --- | --- | --- |
 | Har målbilden<br>konkretiserats i mätbara<br>mål, aktiviteter och planer? | Delvis. Bedömningen baseras på att det<br>finns en beslutad målbild som utarbetats<br>tillsammans med länets kommuner, samt en<br>gemensam färdplan. Däremot saknas<br>mätbara mål och tillhörande aktiviteter för att<br>följa utvecklingen mot en nära vård.<br>Färdplanen innehåller inte specifika åtgärder<br>för att uppnå målbilden.<br>Nämnden för Vård & Omsorg har antagit<br>övergripande mål som att främja kontinuitet,<br>personcentrering och minska<br>personalomsättningen. Dessa mål är dock<br>övergripande mål och inte specifika mål som<br>berör omställning till en god och nära vård.<br>Det pågår en rad aktiviteter inom ramen för<br>nämndens förvaltning, och en organisering<br>GNVO-gruppen för att omhänderta arbetet<br>med nära vård i Kungsbacka kommun, vilket<br>är positivt.<br>Vi bedömer att det behövs en tydligare<br>målstyrning med konkreta, mätbara mål,<br>aktiviteter och planer för att säkerställa<br>genomförandet och kontrollen av<br>omställningen, både i det gemensamma<br>arbetet och i Kungsbacka kommun. |  |
 | Finns det politiska<br>beslut som stödjer<br>processerna till<br>omställningen Nära<br>vård? | Delvis. Vi bedömer att nämnden för Vård &<br>Omsorg har fattat politiska beslut kopplat till<br>välfärdsteknik, andra digitala lösningar och<br>ställt sig bakom förvaltningens arbete med<br>förebyggande, hälsofrämjande och<br>rehabiliterande arbete. Dessa beslut främjar<br>omställningen till nära vård. Nämnden har<br>dock inte fattat några politiska beslut direkt |  |
+|  | kopplat till omställning av nära vård i<br>Kungsbacka kommun. Arbetet kring nära<br>vård bedrivs främst i förvaltningen, och kan<br>därför komma att påverkas av nationella<br>satsningar såsom riktade statsbidrag kring<br>nära vård kan komma att göras om eller<br>försvinna. |  |
+| Finns förutsättningar<br>i verksamheterna<br>med primärvården<br>som nav för att<br>transformera till en<br>omställning till nära<br>vård? (kontinuitet<br>och personcentrerad<br>vård) | Delvis. Granskningen visar att det finns<br>utmaningar att rekrytera och behålla<br>medarbetare med rätt kompetens, vilket<br>påverkar kontinuiteten negativt i<br>verksamheten.<br>Vi bedömer att det är positivt att Kungsbacka<br>kommun satsar på utbildning av nya<br>medarbetare och vidareutbildning vid nya<br>behandlingar eller medicinteknisk utrustning<br>som tidigare inte använts. Granskningen<br>visar att Kungsbacka kommun precis som<br>övriga kommuner i länet tillsammans med<br>Region Halland behöver landa i en samsyn<br>kring vilka patienter som är på<br>primärvårdsnivå.<br>Vi bedömer också att utvecklingen som sker<br>kring den digitala utvecklingen och<br>hjälpmedel som används är nödvändig för att<br>kunna hantera den demografiska<br>utvecklingen. |  |
+| Finns en fungerande<br>samverkansstruktur<br>mellan kommunen<br>och regionen för att<br>hantera såväl<br>strategiska som mer<br>operativa frågor för<br>omställning till nära<br>vård? | Delvis. Vi bedömer att det finns en<br>fungerande samverkansstruktur mellan<br>kommunerna och regionen på en strategisk<br>nivå, och att det finns ett flertal forum i och<br>med RUG och beredningsgruppen där<br>gemensamma initiativ kan processas.<br>Granskningen indikerar att det finns behov<br>av att se över och enas i frågor såsom<br>hemsjukvårdsavtalet och definition kring vad<br>som är primärvårdsnivå, då detta skapar<br>gränsdragningsfrågor och inte stödjer<br>omställningen mot nära vård.<br>Vi bedömer att det finns goda exempel<br>såsom läkarmedverkan i hemsjukvården när<br>samverkan fungerar väl och stödjer<br>omställning till nära vård. Även samverkan<br>med lokala vårdcentraler uppges ha |  |
+|  | förbättrats tack vare de dialoger och<br>förbättringsarbete som sker.<br>Granskningen visar också att det finns brister<br>i vårdkedjan från slutenvården till framförallt<br>korttidsboende i form av bristande<br>informationsöverföring mellan vårdgivare,<br>brister inom läkemedelshantering och<br>läkartillgänglighet. |  |
+| Sker en<br>ändamålsenlig<br>uppföljning och<br>rapportering av<br>relevanta mätetal<br>och aktiviteter till<br>nämnden för Vård &<br>Omsorg? | Delvis. Vi bedömer att det inte genomförts<br>någon uppföljning av Omtanke Halland<br>tillsammans med regionen eller länets<br>kommuner som mäter förflyttningen mot nära<br>vård. Det finns förslag på indikatorer, och<br>granskningen antyder att en första<br>uppföljning kommer att ske under 2025.<br>Det är dock oklart om denna uppföljning<br>kommer att rapporteras till nämnden för Vård<br>& Omsorg.<br>Vi bedömer att det finns ett behov av att<br>delge nämnden om det gemensamma<br>arbetet.<br>Vi bedömer att nämnden för Vård & Omsorg<br>följer upp det kommunövergripande arbetet<br>som sker kring omställning till nära vård,<br>men främst utifrån aktiviteter och inte mätetal<br>som kan mäta en omställning till en mer nära<br>vård. Vi bedömer att detta bör utvecklas. |  |
 
 <!-- sida 48 -->
 
 23
 
-[Tabell 48-1](handlingar.tabeller/48-1.csv)
-
-|  | kopplat till omställning av nära vård i<br>Kungsbacka kommun. Arbetet kring nära<br>vård bedrivs främst i förvaltningen, och kan<br>därför komma att påverkas av nationella<br>satsningar såsom riktade statsbidrag kring<br>nära vård kan komma att göras om eller<br>försvinna. |  |
-| --- | --- | --- |
-| Finns förutsättningar<br>i verksamheterna<br>med primärvården<br>som nav för att<br>transformera till en<br>omställning till nära<br>vård? (kontinuitet<br>och personcentrerad<br>vård) | Delvis. Granskningen visar att det finns<br>utmaningar att rekrytera och behålla<br>medarbetare med rätt kompetens, vilket<br>påverkar kontinuiteten negativt i<br>verksamheten.<br>Vi bedömer att det är positivt att Kungsbacka<br>kommun satsar på utbildning av nya<br>medarbetare och vidareutbildning vid nya<br>behandlingar eller medicinteknisk utrustning<br>som tidigare inte använts. Granskningen<br>visar att Kungsbacka kommun precis som<br>övriga kommuner i länet tillsammans med<br>Region Halland behöver landa i en samsyn<br>kring vilka patienter som är på<br>primärvårdsnivå.<br>Vi bedömer också att utvecklingen som sker<br>kring den digitala utvecklingen och<br>hjälpmedel som används är nödvändig för att<br>kunna hantera den demografiska<br>utvecklingen. |  |
-| Finns en fungerande<br>samverkansstruktur<br>mellan kommunen<br>och regionen för att<br>hantera såväl<br>strategiska som mer<br>operativa frågor för<br>omställning till nära<br>vård? | Delvis. Vi bedömer att det finns en<br>fungerande samverkansstruktur mellan<br>kommunerna och regionen på en strategisk<br>nivå, och att det finns ett flertal forum i och<br>med RUG och beredningsgruppen där<br>gemensamma initiativ kan processas.<br>Granskningen indikerar att det finns behov<br>av att se över och enas i frågor såsom<br>hemsjukvårdsavtalet och definition kring vad<br>som är primärvårdsnivå, då detta skapar<br>gränsdragningsfrågor och inte stödjer<br>omställningen mot nära vård.<br>Vi bedömer att det finns goda exempel<br>såsom läkarmedverkan i hemsjukvården när<br>samverkan fungerar väl och stödjer<br>omställning till nära vård. Även samverkan<br>med lokala vårdcentraler uppges ha |  |
-
 <!-- sida 49 -->
 
 24
-
-[Tabell 49-1](handlingar.tabeller/49-1.csv)
-
-|  | förbättrats tack vare de dialoger och<br>förbättringsarbete som sker.<br>Granskningen visar också att det finns brister<br>i vårdkedjan från slutenvården till framförallt<br>korttidsboende i form av bristande<br>informationsöverföring mellan vårdgivare,<br>brister inom läkemedelshantering och<br>läkartillgänglighet. |  |
-| --- | --- | --- |
-| Sker en<br>ändamålsenlig<br>uppföljning och<br>rapportering av<br>relevanta mätetal<br>och aktiviteter till<br>nämnden för Vård &<br>Omsorg? | Delvis. Vi bedömer att det inte genomförts<br>någon uppföljning av Omtanke Halland<br>tillsammans med regionen eller länets<br>kommuner som mäter förflyttningen mot nära<br>vård. Det finns förslag på indikatorer, och<br>granskningen antyder att en första<br>uppföljning kommer att ske under 2025.<br>Det är dock oklart om denna uppföljning<br>kommer att rapporteras till nämnden för Vård<br>& Omsorg.<br>Vi bedömer att det finns ett behov av att<br>delge nämnden om det gemensamma<br>arbetet.<br>Vi bedömer att nämnden för Vård & Omsorg<br>följer upp det kommunövergripande arbetet<br>som sker kring omställning till nära vård,<br>men främst utifrån aktiviteter och inte mätetal<br>som kan mäta en omställning till en mer nära<br>vård. Vi bedömer att detta bör utvecklas. |  |
 
 <!-- sida 50 -->
 
@@ -9291,13 +9266,11 @@ kommunerna som som rapporterar om
 rapporterar om oförändrad eller förvärrad
 personalbrist personalbrist jämfört med
 oktober 2023 oktober 2022
-Arbetsterapeut     47            92
-Fysioterapeut      47            91
-Grundutbildad sjuksköterska 60   83
-Specialistsjuksköterska 69       92
+
 Källa: Socialstyrelsen, Nationell översikt över tillgång och efterfrågan på legitimerad hälso- och
 sjukvårdspersonal. Nationella planeringsstödet 2024 – delrapport 1 av 3, s. 36. samt e-post till
 utredningen från Socialstyrelsen 2024-05-07. 258 kommuner svarade på enkäten.
+
 6.3.2 Personalrörligheten bland anställda
 i kommun och region ökar över tid
 
@@ -9318,6 +9291,14 @@ vårdspersonal. Nationella planeringsstödet 2024 – delrapport 1 av 3, 2023, s
 11 Arbetsgivarverket, https://www.arbetsgivarverket.se/statistik-och-analys/staten-i-siffror-
 personalomsattning (hämtad 2024-08-22).
 161
+
+[Tabell 220-1](handlingar.tabeller/220-1.csv)
+
+| Arbetsterapeut | 47 | 92 |
+| --- | --- | --- |
+| Fysioterapeut | 47 | 91 |
+| Grundutbildad sjuksköterska | 60 | 83 |
+| Specialistsjuksköterska | 69 | 92 |
 
 <!-- sida 221 -->
 
@@ -9524,14 +9505,6 @@ något minskat söktryck än tidigare år (tabell 6.4).
 Tabell 6.4 Antal sökande per antagen (söktryck) till hälso- och
 sjukvårdsutbildningar höstterminerna 2019–2023
 Utbildning         2019 2020 2021 2022 2023
-Sjuksköterska       2,1  2,5  3,2 2,9  2,5
-Specialistsjuksköterska 2,1 1,9 2,2 2,1 2,3
-
-```osaker-tabell
-Arbetsterapeut      1,5  1,5  1,6 1,3  1,5
-Fysioterapeut       4,3  5,0  5,2 4,0  3,2
-Medeltal            2,5  2,7  3,1 2,6  2,4
-```
 
 Källa: Universitetskanslersämbetet, Högskolan i siffror. (Hämtat 2024-08-12.)
 
@@ -9551,6 +9524,15 @@ Välfärdens kompetensförsörjning, 2022, s. 19.
 
 166
 
+[Tabell 225-1](handlingar.tabeller/225-1.csv)
+
+| Sjuksköterska | 2,1 | 2,5 | 3,2 | 2,9 | 2,5 |
+| --- | --- | --- | --- | --- | --- |
+| Specialistsjuksköterska | 2,1 | 1,9 | 2,2 | 2,1 | 2,3 |
+| Arbetsterapeut | 1,5 | 1,5 | 1,6 | 1,3 | 1,5 |
+| Fysioterapeut | 4,3 | 5,0 | 5,2 | 4,0 | 3,2 |
+| Medeltal | 2,5 | 2,7 | 3,1 | 2,6 | 2,4 |
+
 <!-- sida 226 -->
 
 SOU 2024:72        Bakgrund kompetensförsörjning i kommunal hälso- och sjukvård
@@ -9562,12 +9544,7 @@ utfärdade legitimationer har ökat under perioden (tabell 6.5).
 
 Tabell 6.5 Antal examinerade studenter på hälso-
 och sjukvårdsutbildningar 2019–2023
-Utbildning          2019 2020 2021 2022 2023
-Sjuksköterska       4 443 4 502 4 598 4 426 4 348
-Specialistsjuksköterska 2 371 2 406 2 377 2 780 2 582
-Arbetsterapeut       428  384  401  389 368
-Fysioterapeut        501  531  525  562 554
-Totalt              7 743 7 823 7 901 8 157 7 852
+
 Källa: Universitetskanslersämbetet, Högskolan i siffror. (Hämtat 2024-04-17.)
 
 Antalet nyutexaminerade är av naturliga skäl en viktig indikator för
@@ -9599,6 +9576,16 @@ Välfärdens kompetensförsörjning, 2022, s. 19.
 
 167
 
+[Tabell 226-1](handlingar.tabeller/226-1.csv)
+
+| Utbildning | 2019 | 2020 | 2021 | 2022 | 2023 |
+| --- | --- | --- | --- | --- | --- |
+| Sjuksköterska | 4 443 | 4 502 | 4 598 | 4 426 | 4 348 |
+| Specialistsjuksköterska | 2 371 | 2 406 | 2 377 | 2 780 | 2 582 |
+| Arbetsterapeut | 428 | 384 | 401 | 389 | 368 |
+| Fysioterapeut | 501 | 531 | 525 | 562 | 554 |
+| Totalt | 7 743 | 7 823 | 7 901 | 8 157 | 7 852 |
+
 <!-- sida 227 -->
 
 Bakgrund kompetensförsörjning i kommunal hälso- och sjukvård SOU 2024:72
@@ -9618,9 +9605,7 @@ blev möjligt för drygt tio år sedan.
 Tabell 6.6 Antal utfärdade legitimationer 2018 – 2022
 samt procentuell förändring.
 Yrkesgrupp         2018 2022 Förändring 2018–2022 (%)
-Sjuksköterska       483 4814      -0,5
-Arbetsterapeut      450  398      -11
-Fysioterapeut       926  737      -20
+
 Källa: Socialstyrelsen, Nationell översikt över tillgång och efterfrågan på legitimerad hälso- och sjuk-
 vårdspersonal. Nationella planeringsstödet 2024 – delrapport 1 av 3, s. 29.
 
@@ -9644,6 +9629,13 @@ tet. Det beror på många olika faktorer, exempelvis
 vårdspersonal. Nationella planeringsstödet 2024 – delrapport 1 av 3, 2023, s. 28.
 
 168
+
+[Tabell 227-1](handlingar.tabeller/227-1.csv)
+
+| Sjuksköterska | 483 | 4814 | -0,5 |
+| --- | --- | --- | --- |
+| Arbetsterapeut | 450 | 398 | -11 |
+| Fysioterapeut | 926 | 737 | -20 |
 
 <!-- sida 228 -->
 
@@ -9758,11 +9750,7 @@ Tabell 6.7 Statistik för läkarutbildningen 2019–2023. Antal examinerade
 studenter på läkarutbildningen, antal förstahandssökande till
 läkarutbildningen höst- och vårtermin och antal sökande per
 antagen (söktryck) till läkarutbildningen höstterminerna
-Läkarutbildningen  2019 2020 2021  2022 2023
-Antal examinerade  1 385 1 405 1 474 1 457 1 422
-Antal förstahandssökande 8 694 10 323 10 316 10 619 10 002
-Antal sökande per antagen
-(söktryck)          5,3  6,7  7,1  6,6   6,1
+
 Källa: Universitetskanslersämbetet (2024). Statistikdatabas. (Hämtat 2024-08-12)
 
 6.5   Behovet av utveckling och nya arbetssätt
@@ -9781,6 +9769,15 @@ framöver.
 ningen till en god och nära vård: delrapport, 2023, s. 147.
 
 171
+
+[Tabell 230-1](handlingar.tabeller/230-1.csv)
+
+| Läkarutbildningen | 2019 | 2020 | 2021 | 2022 | 2023 |
+| --- | --- | --- | --- | --- | --- |
+| Antal examinerade | 1 385 | 1 405 | 1 474 | 1 457 | 1 422 |
+| Antal förstahandssökande | 8 694 | 10 323 | 10 316 | 10 619 | 10 002 |
+| Antal sökande per antagen |  |  |  |  |  |
+| (söktryck) | 5,3 | 6,7 | 7,1 | 6,6 | 6,1 |
 
 <!-- sida 231 -->
 
@@ -12915,14 +12912,6 @@ av Magnetmodellen i två medelstora kommuner
 Titel     Antal Lön (mkr) Andel av Total kostnad Kostnad
 tjänst (%) per år (mkr) tre år (mkr)
 
-```osaker-tabell
-Projektledare 2 1,5     50     1,5     4,5
-Magnetteam 30   1,5     10     4,5     13,5
-Sjuksköterskor 20 1,5   10      3       9
-Undersköterskor 60 1,5 2,5    2,25     6,75
-Totalt                        11,25   33,75
-```
-
 Källa: Uppgifter från Mittuniversitetet och egna beräkningar.
 
 8.2.5 Konsekvenser av förslaget om fler
@@ -12952,6 +12941,15 @@ kommer att påverka det kommunala självstyret eftersom det bör vara
 frivilligt för kommunerna att använda sådana medel.
 
 242
+
+[Tabell 301-1](handlingar.tabeller/301-1.csv)
+
+| Projektledare | 2 | 1,5 | 50 | 1,5 | 4,5 |
+| --- | --- | --- | --- | --- | --- |
+| Magnetteam | 30 | 1,5 | 10 | 4,5 | 13,5 |
+| Sjuksköterskor | 20 | 1,5 | 10 | 3 | 9 |
+| Undersköterskor | 60 | 1,5 | 2,5 | 2,25 | 6,75 |
+| Totalt |  |  |  | 11,25 | 33,75 |
 
 <!-- sida 302 -->
 
@@ -13135,14 +13133,6 @@ SOU 2024:72                             Konsekvensutredning
 Tabell 8.2 Antal registrerade studenter på program vårterminen 2023
 
 Utbildning            Registrerade Andel (%)
-Grundutbildad sjuksköterska 15 354
-
-```osaker-tabell
-Specialistsjuksköterska  4 170       86
-Arbetsterapeut           1 343       6
-Fysioterapeut            1 882       8
-Totalt                  22 749      100
-```
 
 Källa: Universitetskanslersämbetet (2024). Statistikdatabas, hämtat 2024-05-13.
 
@@ -13175,6 +13165,15 @@ går tillsammans med sjuksköterskeutbildningen i VULF-avtalet.
 11 SOU 2024:09 s. 388.
 
 247
+
+[Tabell 306-1](handlingar.tabeller/306-1.csv)
+
+| Grundutbildad sjuksköterska | 15 354 |  |
+| --- | --- | --- |
+| Specialistsjuksköterska | 4 170 | 86 |
+| Arbetsterapeut | 1 343 | 6 |
+| Fysioterapeut | 1 882 | 8 |
+| Totalt | 22 749 | 100 |
 
 <!-- sida 307 -->
 
@@ -14791,17 +14790,42 @@ Kartläggning                    externa             priser
 
 Kartläggning                    interna            priset
 
+Politiskt                                Nominerings-
+Pris        FVL           KompPertiesnsusumtmveackling Förfarande       Delas ut            Övrigt
+instiftat                                   period
+Årets leverans, Årets
+Medarbetare och
+Del av Medarbetardagen
+nyskapare, Årets
+Året medarbetare                                  invånare röstar,
+KSF     Nej       välkomnare                     Maj-okt     Nov
+(fyra kategorier)                                 Intern jury utser                   Både medarbetare och invånare kan
+10 000 kr
+nominera och rösta.
+vinnare
+Årets team
+25 000 kr
+Årets utvecklande
+ledare: 15 000 kr
+kompetensutveckling
+Årets ledare                                    Intern jury utser
+KSF     Nej                                      Feb-mars    Sept          Del av Ledardagen
+(två kategorier)                                     vinnare
+Årets nyskapande
+ledare: 15 000 kr
+kompetensutveckling
+10 000-20000                  Hösten, senast
+Leva livet-priset VO     KF                                                  KF feb    Krockar med Årets medarbetare?
+kompetensutveckling                  1 nov
+Krockar med Årets medarbetare?
+Nämnden utser Hösten, senast
+Lära för livet-priset FG & GA Nämnd\* 10 000 kr/pristagare                     KF nov
+varsin vinnare    1 okt
+Har tidigare delats ut i juni.
+Ej i bruk, men beslutat i KF 2021-05-04.
+Självständigt liv IF     KF
+(KS-2019-00903 i Ciceron).
 \*Frågan om Lära för livet-priset lyftes på KF-nivå år 1999, i samband med besvarandet av en motion. Fullmäktige tog dock inte beslut för egen del, utan rekommenderade berörda nämnder att instifta priset.
-
-[Tabell 345-1](handlingar.tabeller/345-1.csv)
-
-| Pris | FVL | Politiskt<br>instiftat | KompPertiesnsusumtmveackling | Förfarande | Nominerings-<br>period | Delas ut | Övrigt |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Året medarbetare<br>(fyra kategorier) | KSF | Nej | Årets leverans, Årets<br>nyskapare, Årets<br>välkomnare<br>10 000 kr<br>Årets team<br>25 000 kr | Medarbetare och<br>invånare röstar,<br>Intern jury utser<br>vinnare | Maj-okt | Nov | Del av Medarbetardagen<br>Både medarbetare och invånare kan<br>nominera och rösta. |
-| Årets ledare<br>(två kategorier) | KSF | Nej | Årets utvecklande<br>ledare: 15 000 kr<br>kompetensutveckling<br>Årets nyskapande<br>ledare: 15 000 kr<br>kompetensutveckling | Intern jury utser<br>vinnare | Feb-mars | Sept | Del av Ledardagen |
-| Leva livet-priset | VO | KF | 10 000-20000<br>kompetensutveckling |  | Hösten, senast<br>1 nov | KF feb | Krockar med Årets medarbetare? |
-| Lära för livet-priset | FG & GA | Nämnd\* | 10 000 kr/pristagare | Nämnden utser<br>varsin vinnare | Hösten, senast<br>1 okt | KF nov | Krockar med Årets medarbetare?<br>Har tidigare delats ut i juni. |
-| Självständigt liv | IF | KF |  |  |  |  | Ej i bruk, men beslutat i KF 2021-05-04.<br>(KS-2019-00903 i Ciceron). |
 
 <!-- sida 346 -->
 
@@ -17694,7 +17718,12 @@ Inflyttningar Utflyttningar Flyttningsöverskott
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | Falkenberg | Varberg | Kungsbacka | Göteborg | Mölndal | Halmstad |
 | --- | --- | --- | --- | --- | --- | --- |
-| <1 år 29 27 20 37 27 38<br>1–2 år 17 17 11 19 14 19<br>2–3 år 10 8 7 9 9 10<br>3–5 år 8 8 7 8 8 7<br>5–10 år 7 8 10 7 9 6<br>>10 år 29 32 45 19 33 20 |  |  |  |  |  |  |
+| <1 år | 29 | 27 | 20 | 37 | 27 | 38 |
+| 1–2 år | 17 | 17 | 11 | 19 | 14 | 19 |
+| 2–3 år | 10 | 8 | 7 | 9 | 9 | 10 |
+| 3–5 år | 8 | 8 | 7 | 8 | 8 | 7 |
+| 5–10 år | 7 | 8 | 10 | 7 | 9 | 6 |
+| >10 år | 29 | 32 | 45 | 19 | 33 | 20 |
 
 <!-- sida 418 -->
 
@@ -17712,7 +17741,13 @@ ungdomar och 1/3-del svarar att det är balans.
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | KUNGSBACKA<br>STAD | SLÄP | VALLDA | ONSALA | FJÄRÅS | ÅSA<br>FRILLESÅS | GÄLLINGE | ÄLVSÅKER | KOMMUN |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <1 år 31 12 12 12 17 18 20 20 20<br>1–2 år 16 5 8 6 13 8 16 11 11<br>2–3 år 10 5 3 4 7 5 7 7 7<br>3–5 år 8 8 6 7 8 6 6 10 7<br>5–10 år 10 11 7 11 10 11 6 9 10<br>>10 år 24 59 64 61 46 51 45 44 45<br>Total 100 100 100 100 100 100 100 100 100 |  |  |  |  |  |  |  |  |  |
+| <1 år | 31 | 12 | 12 | 12 | 17 | 18 | 20 | 20 | 20 |
+| 1–2 år | 16 | 5 | 8 | 6 | 13 | 8 | 16 | 11 | 11 |
+| 2–3 år | 10 | 5 | 3 | 4 | 7 | 5 | 7 | 7 | 7 |
+| 3–5 år | 8 | 8 | 6 | 7 | 8 | 6 | 6 | 10 | 7 |
+| 5–10 år | 10 | 11 | 7 | 11 | 10 | 11 | 6 | 9 | 10 |
+| >10 år | 24 | 59 | 64 | 61 | 46 | 51 | 45 | 44 | 45 |
+| Total | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |
 
 <!-- sida 419 -->
 

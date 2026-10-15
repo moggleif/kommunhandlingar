@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.1932ec3d19329b835ff59a78/1732175201
 sha256: d920464692e1d24d1b7aed7f6548abea6faa8787edb4c1692e82ccd49fb234e1
 bytes: 212406130
 sidor: 256
-hamtad: 2026-10-08T10:13:13+00:00
-konverterad: 2026-10-08T10:20:41+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T08:05:37+00:00
+konverterad: 2026-10-15T08:14:30+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [110, 111, 112, 113, 210, 219]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 119, 120, 121, 123, 210, 219]
+figurer: [37, 40, 49, 51, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 111, 113, 114, 115, 117, 118, 119, 120, 121, 122, 123, 127, 128, 130, 131, 132, 133, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 169, 170, 171, 173, 175, 176, 178, 179, 180, 181, 182, 183, 184, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 202, 203, 208, 209, 210, 217, 219, 220, 221, 222, 223, 225, 226, 227, 228, 229, 230, 232, 233]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -2558,19 +2558,71 @@ nossnåM
 nérmeS
 ©
 Kungsbacka Arena - Förstudie - 23-12-22
-
- 
+IDROTTSTORG
+VIP/RESTAURANG
+ENTRÉ
+HUVUDENTRÉ
+PUBLIK OCH SPORT
+ENTRÉ DRIFT KOMMERS 80 000
+ENTRÉ -BoH/ARENA
+BACK of HOUSE
+ENTRÉ -ARTIST/ELITIDROTT & DRIFT
+ENTRÉ -MEDIA/FÖRENINGAR
+ENTRÉ -BORTASUP.
+ENTRÉ -DRIFT FOTBOLLSPLAN
+5
+tsaL
+jak
+BADHUSET
+AKTIVITETSPARK
+ISARENA
+Alternativ      A                                                                                   S
+N
+Ä
+R
+G
+\-
+S
+R
+E
+T
+E
+M
+\-
+0
+8
+ISHALL
+FRAMTIDA     FRAMTIDA
+MÖJLIG       MÖJLIG
+BYGGRÄTT     BYGGRÄTT     INFART BoH
+HKP-PLATS
+BOULEHALLEN
+MILJÖRUM
+ENTRÉ GYM
+& LOKALER
+SPORT-
+ARENA
+HALLEN
+
+UTBREDNING &
+UTSEENDE ENLIGT L.
+ENTRÉ FORRÅD                                                                                
+OCH SKYDDSRUM
+
+IDROTTSPARK
+ENTRÉ       FOTBOLLSLÄKTARE / SKÄRMTAK
+                                                 IDROTTSPARK
+                                                                                                            UTFART BoH
 
-
+                                                                         ENTRÉ -FOTBOLL
 
-
+                                                                                                                                           
 
 
-
+                                                                                                                                        
 
 
-
-
+                                                                     FOTBOLLARENA
 
 
 
@@ -2594,54 +2646,27 @@ Kungsbacka Arena - Förstudie - 23-12-22
 
 
 
+                                                                                                                                        
 
-
-
+                                                                                                                                               
 
-
+                                                                                                                                                
 
-
-
-
+                                                                                                                                                
+                                                                                                                                               
 
-
-
-
-
-
-
-
-
-
+                                                                                                                                               
+                                                                                                                                        
+  
+ 
+                                                                                                                         SKALA 1:1000 (för A3) 
+                                                                                                                                    N
+    Illustrationsplan                                    MÖJLIG FRAMTIDA FOTBOLLSLÄKTARE                             0        25  50 m
 
 
-
-
-
-
-
+                                                                                                                                
+                                                                                                                 
 
-
-[Tabell 59-1](handlingar.tabeller/59-1.csv)
-
-| BADHUSET<br>AKTIVITETSPARK<br>ISARENA<br>Alternativ A S<br>N<br>Ä<br>R<br>G<br>-<br>S<br>R<br>E<br>T<br>E<br>M<br>-<br>0<br>8<br>ISHALL<br>IDROTTSTORG FRAMTIDA FRAMTIDA<br>MÖJLIG MÖJLIG<br>BYGGRÄTT BYGGRÄTT INFART BoH<br>VIP/RESTAURANG<br>ENTRÉ<br>HUVUDENTRÉ HKP-PLATS<br>PUBLIK OCH SPORT<br>BOULEHALLEN<br>MILJÖRUM<br>ENTRÉ GYM<br>ENTRÉ DRIFT KOMMERS 80 000 & LOKALER<br>tsaL<br>jak<br>SPORT-<br>ARENA<br>ENTRÉ -BoH/ARENA HALLEN<br><br>BACK of HOUSE<br>UTBREDNING &<br>UTSEENDE ENLIGT L.<br>ENTRÉ FORRÅD    <br>OCH SKYDDSRUM<br><br>IDROTTSPARK<br>ENTRÉ -ARTIST/ELITIDROTT & DRIFT<br>ENTRÉ -MEDIA/FÖRENINGAR<br>ENTRÉ FOTBOLLSLÄKTARE / SKÄRMTAK<br>IDROTTSPARK<br>ENTRÉ -BORTASUP. UTFART BoH<br>ENTRÉ -DRIFT FOTBOLLSPLAN ENTRÉ -FOTBOLL<br><br><br>FOTBOLLARENA<br>  <br>  <br>  <br>  <br>  <br>  <br>  <br>  <br> <br>SKALA 1:1000 (för A3) <br>N<br><br>5 MÖJLIG FRAMTIDA FOTBOLLSLÄKTARE 0 25 50 m<br>Illustrationsplan<br>   <br>  <br>             |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |   |  |  |  |
-|  |  |  |  |   |  |  |  |
-|  |  |  |  |   |  |  |  |
-|  |  |  |  |   |  |  |  |
-|  |  |  |  |   |  |  |  |
-|  |  |  |  |   |  |  |  |
-|  | <br> |  |  |  | <br> | <br> |  |
-|  |  <br> |  |  |  |  |  |  |
-|  | N<br><br>50 m 5 |  |  |  |  |  |  |
-|  | <br> <br>  |  |  |  |  <br> |  |  |
 
 <!-- sida 60 -->
 
@@ -2651,88 +2676,163 @@ nossnåM
 &
 nérmeS
 ©
-Kungsbacka Arena - Förstudie -
-Alternativ
-E
-D
+Kungsbacka Arena - Förstudie - 23-12-22
+Legend
+Kommunalt
+Kommersiellt
+Delat
+HUVUDENTRÉ VIP/RESTAURANG
+PUBLIK OCH SPORT ENTRÉ
+VIP VINDFÅNG                                     TRAPPHUS
+RESTAURANG
+FOAJÉ                                                    PASSAGE
+UNDERCENTRAL
+INFODISK/DRIFT
+EL-RUM
+KOMMERSIELL    STÄD      RWC
+BACK OF HOUSE
+KIOSK
+SKYDDSRUM/REHABGYM    OMKL. A1
+OMKL. A2
+SKYDDSRUM/FÖRRÅD
+OMKL. A1                                FRD ANTIDOPING OMKL. C/ HANDBOLL PROD. OFFICE ARTISTLOGE
+SKYDDSRUM/FORRÅD FOTBOLL                                                                    ENTRÉ -ARTIST/ELITIDROTT OMKL. D OMKL. B /ENSEMBLELOGE /ENS O EM M B K L L E . E LOGE /ARB P E R T E S S R S U R M U M M EDIA TRAPPHUS MÖ A V M C T IL E K E R S R D U R E I M A U D / M . / PERS / O PA N U A S LRUM
+ENTRÉ -MEDIA/FÖRENINGAR
+SPELARBÄNK MED TAK
+SKALA 1:500 (för A3)
+0      10      20 m      6
+EGASSAP
+PASSAGE/MIXED ZONE TRAPPHUS
+PASSAGE
+PASSAGE/SPELARTUNNEL
+&-DNAH TTÄVTLLOB              &-DNAH TTÄVTLLOB
+FRD FOTBOLL FROSTFRITT
+DRF LLOBTOFTILE
+FRD NIU
+LLOBDNAHTILE
+DRF
+LOKAL/CAFÉ
+VÄNTRUM
+EGASSAP
+HISS HISS STORKÖK
+WC  WC
+TICKET RIP
+FRD FRD HANDBOLL HANDBOLL
+FRD FRD HANDBOLL HANDBOLL                                       FRD ARENAMATERIAL TVÄTT AR O T M IS K T L L . O B G / E /B S O T R O D L A O R CH
+RWC MASSAGE HISS M L E Ä D K IC AR IN E S / K M M A Ö TC TE H- HISS RUM
+EGASSAP
+ENTRÉ DRIFT KOMMERS
+MÖTESRUM
+KIOSK
+GYM
+OMKL. E  OMKL. E /ENSEMBLELOGE /ENSEMBLELOGE /ENS O E M M K B L L . E D LOGE /ENS O EM M B K L L E . E LOGE
+PASSAGE
+TROP
+MILJÖRUM
+SCHAKT
+200 sittplatser
+PASSAGE
+CAFÉ                                                 OMKL.         GO K D O S M M M O E T R T S AK
+TICKET                  WC RIP
+ENTRÉ -BoH/ARENA
+OMKL. A1
+OMKL. A2
+OMKL. A1                                                MILJÖRUM
+OMKL. C    OMKL. D/ CREW ROOM OMKL. D/ CREW ROOM
+FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT F F R R D O F S O T T F B R O IT L T L FRD FOTBOLL FROSTFRITT SPR. TANK SPR. RUM FRD FOTBOLL FROSTFRITT 200 m3 - 20m x 4 m x 2,5m (LxBxH)
+FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT ENTRÉ -BORTASUP.
+ENTRÉ -DRIFT FOTBOLLSPLAN
+MURLIV
+YTSAMMANSTÄLLNING
+50/50
+Frostfritt
+Kommersiell
+Kommunal
+FRAMTIDA MÖJLIG BYGGRÄTT
+TRAPPHUS                                                 PAUSRUM KONTOR
+OMKL. FRD FRYS KYL FETT- UTSLUTNING
+RWC PASSAGE
+CAFÉKÖK                                                WC STÄD
+OMKL.                                                                                TELERUM
+PASSAGEFRD/SOP
+RWC
+VILRUM RWC/D
+FRD
+/KOPI
+LASTKAJ
+LYFTBORD
+BOH-PLAN,
+UTBREDNING &
+ENTRÉ FORRÅD                                                                                              UTSEENDE ENLIGT L.
+OCH SKYDDSRUM              RWC/D   RWC/D
+EL-TRUCK
+ENTRÉ FORRÅD OCH SKYDDSRUM
+FRD HANDBOLL                                                                   OMKL. OMKL. RWC/D DRIFT DRIFT RWC/D RWC/D
+DRIFT RWC ENTRÉ FORRÅD OCH SKYDDSRUM
+ENTRÉ IDROTTSPARK
+LLOBDNAHTILE
+DRF
+FRAMTIDA MÖJLIG BYGGRÄTT
+CAFÉ
+ENTRÉ
+ENTRÉ GYM & LOKALER
+OMKL                           SCEN 2       SCEN1
+SPELARTUNNEL
+/ ENTRÉ
+FOTBOLL
+TROP
+FRD NIU
+Extra målställning
+SPELARBÄNK MED TAK
+DRF LLOBTOFTILE DRF LLOBTOFTILE DRF LLOBTOFTILE
+VINDFÅNG
+SKÄRMTAK                                                                             SKÄRMTAK
+STAKET
+SÄKERHETSGRÄNS
+GNÅFDNIV
+LLEISREMMOK
+ÉRTNE
+SKÄRMTAK
+KATMRÄKS
+KATMRÄKS
+A             B                                   C
+Alternativ      A
+HKP-PLATS HKP-PLATS
+E                                                                                                                              E
+
+D                                                                                                                              D           
+
 
  
-
-
+ 
 
-
-
-
-
-
-
-
-
-
-
-
+                                                                                                                                           
+ 
+                                                                                                                                            
+ 
+      
+
+      
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+                                                                                                                                           
 
-
-
-
-
-
+                                                                                                                                                
+                                                                                                                                                   
 
-
-
-
-
-
-
-
-
+                                                                                                                                               
+                                                                                                                                        
+    
+                                                                                                                                           
+                                                                                                                                    
+                                                                                                                                    
 
-
-
-
-
-
-
-
+               A             B                                   C
+                                                                                                                             
+                                                                                                                           
 
-SKALA 1:500 (för A3)
 N
-0      10      20 m      6
 Plan 1-Entréplan
-
-[Tabell 60-1](handlingar.tabeller/60-1.csv)
-
-| YTSAMMANSTÄLLNING<br>50/50<br>Frostfritt<br>23-12-22<br>Kommersiell<br>Kommunal<br>A B C<br>FRAMTIDA MÖJLIG BYGGRÄTT<br>Legend FRAMTIDA MÖJLIG BYGGRÄTT A<br>Kommunalt<br>Kommersiellt<br>Delat<br>HKP-PLATS HKP-PLATS<br>HUVUDENTRÉ VIP/RESTAURANG CAFÉ<br>PUBLIK OCH SPORT ENTRÉ ENTRÉ<br>MILJÖRUM<br>VIP VINDFÅNG TRAPPHUS HISS HISS STORKÖK SCHAKT MURLIV TRAPPHUS PAUSRUM KONTOR VINDFÅNG E<br>200 sittplatser<br>PASSAGE<br>RESTAURANG CAFÉ OMKL. GO K D O S M M M O E T R T S AK OMKL. FRD FRYS KYL FETT- UTSLUTNING<br>RWC PASSAGE<br>FOAJÉ PASSAGE LOKAL/CAFÉ ENTRÉ DRIFT KOMMERS TICKET WC RIP CAFÉKÖK WC STÄD ENTRÉ GYM & LOKALER SKÄRMTAK<br>OMKL. TELERUM GNÅFDNIV<br>UNDERCENTRAL MÖTESRUM PASSAGEFRD/SOP<br>INFODISK/DRIFT RWC<br>EL-RUM<br>VILRUM RWC/D<br>FRD <br>/KOPI<br>LLEISREMMOK<br>WC WC LASTKAJ<br>KOMMERSIELL STÄD RWC TICKET RIP ÉRTNE D    <br>LYFTBORD <br>BACK OF HOUSE ENTRÉ -BoH/ARENA OMKL SCEN 2 SCEN1<br>KIOSK KIOSK BOH-PLAN, KATMRÄKS<br>UTBREDNING &<br>ENTRÉ FORRÅD UTSEENDE ENLIGT L.<br>OCH SKYDDSRUM RWC/D RWC/D<br>SKYDDSRUM/REHABGYM OMKL. A1 OMKL. A1 LLOBDNAHTILE<br>EGASSAP EGASSAP EGASSAP <br>OMKL. A2 OMKL. A2 DRF<br>LLOBDNAHTILE GYM FRD NIU <br>FRD FRD<br>HANDBOLL HANDBOLL<br>EL-TRUCK<br>SKYDDSRUM/FÖRRÅD DRF ENTRÉ FORRÅD OCH SKYDDSRUM<br>OMKL. A1 FRD ANTIDOPING OMKL. C/ HANDBOLL PROD. OFFICE ARTISTLOGE &-DNAH TTÄVTLLOB &-DNAH TTÄVTLLOB DRF LLOBTOFTILE VÄNTRUM FRD FRD HANDBOLL HANDBOLL FRD ARENAMATERIAL TVÄTT AR O T M IS K T L L . O B G / E /B S O T R O D L A O R CH OMKL. A1 MILJÖRUM FRD HANDBOLL OMKL. OMKL. RWC/D DRIFT DRIFT RWC/D RWC/D DRF LLOBTOFTILE DRF LLOBTOFTILE DRF LLOBTOFTILE KATMRÄKS<br>SKYDDSRUM/FORRÅD FOTBOLL ENTRÉ -ARTIST/ELITIDROTT PASSAGE/MIXED ZONE RWC MASSAGE<br>OMKL. D OMKL. B /ENSEMBLELOGE /ENS O EM M B K L L E . E LOGE /ARB P E R T E S S R S U R M U M M EDIA TRAPPHUS MÖ A V M C T IL E K E R S R D U R E I M A U D / M . / PERS / O PA N U A S LRUM TRAPPHUS FRD NIU HISS M L E Ä D K IC AR IN E S / K M M A Ö TC TE H- HISS RUM OMKL. E OMKL. E /ENSEMBLELOGE /ENSEMBLELOGE /ENS O E M M K B L L . E D LOGE /ENS O EM M B K L L E . E LOGE OMKL. C OMKL. D/ CREW ROOM OMKL. D/ CREW ROOM DRIFT RWC ENTRÉ FORRÅD OCH SKYDDSRUM<br>ENTRÉ -MEDIA/FÖRENINGAR PASSAGE PASSAGE SKÄRMTAK SKÄRMTAK<br>PASSAGE/SPELARTUNNEL<br>FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT F F R R D O F S O T T F B R O IT L T L FRD FOTBOLL FROSTFRITT SPR. TANK SPR. RUM FRD FOTBOLL FROSTFRITT 200 m3 - 20m x 4 m x 2,5m (LxBxH) ENTRÉ IDROTTSPARK Extra målställning      <br>  <br>FRD FOTBOLL FROSTFRITT FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT   <br>ENTRÉ -BORTASUP. SPELARTUNNEL STAKET   <br>/ ENTRÉ<br>FOTBOLL   <br>SPELARBÄNK MED TAK SPELARBÄNK MED TAK   <br>TROP ENTRÉ -DRIFT FOTBOLLSPLAN TROP SÄKERHETSGRÄNS     <br><br><br><br>A B C<br>    <br>  <br>        |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |    |  |  |  |
-|  |  | <br><br> |  <br> <br>  |  |
-|  |   <br>  <br>  <br>   |  |  |  |
-|  |  <br> |  |  |  |
-|  | <br> |  |  |  |
-|  | <br> <br>  |  |  |  <br> |
 
 <!-- sida 61 -->
 
@@ -2742,88 +2842,118 @@ nossnåM
 &
 nérmeS
 ©
-Kungsbacka Arena - Förstudie -
-Alternativ
-E
-D
-
- 
-
+Kungsbacka Arena - Förstudie - 23-12-22
+Legend
+Kommunalt
+Kommersiellt
+Delat
+TRAPPHUS
+WC         SERVERING                           WC UNI
+FRD HANDBOLL
+SPORTHALL    GALLERI
+PASSAGE FRD FÖRENINGAR RWC
+RWC WC   WC    KIOSK        SERVERING             TRAPPHUS KIOSK RWC
+SKALA 1:500 (för A3)
+0      10      20 m      7
+MURSDRÅVKUJS
+YTSAMMANSTÄLLNING
+50/50
+Kommersiell
+Kommunal
+TRAPPHUS SCHAKT                                               HISS
+ÖPPET NED             HISS WC        RWC KIOSK                  KIOSK RWC SCHAKT
+HC HC
+SCHAKT
+20p                              20p
+ÖPPET
+NED
+KIOSK
+115p
+HC
+KIOSK
+HAND-& BOLLTVÄTT                                                       SCHAKT HC HC
+FRD INNEBANDY   BØTTEKOTT FRD SPORTHALL
+SCHAKT RWC KIOSK SCHAKT TRAPPHUS HISS             HISS  KIOSK
+HC                                                                   B 10 O 0 R P T L A A S T U S P E P R ORT CA. HC
+20 PL M. BORD, MEDIA
+p911
+p781
+p911
+115p
+115p       307+4p        307+4p      115p
+20p                              20p
+p911
+p8+481
+p911
+LESGNÄTS
+LEBIXELF
+210p      197+8p    210p
+METSYSSGNINGGÄLKRÖM
+MÖRKLÄGGNINGSSYSTEM
+MÖRKLÄGGNINGSSYSTEM
+METSYSSGNINGGÄLKRÖM
+A             B                                   C
+Alternativ      A
+E                                                                                                                              E
+
+D                                                                                                                              D           
+
+                         E P V O S F E P O Ö N - N R U T P S
 
 
-
+                                                                                                                                           
 
 
-
+                                                                                                                                        
 
 
 
 
 
-
-
+SON
+                               FÖR 
+E
+P
+V
+O
+E
+P
+N
+-U
+T
+P
+S
+
+
+   
+
+   
+  
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+                                                                                                                                         
+                                                                                                                                                
+                                                                                                                                                
 
-
-
-
+                                                                                                                                                
+                                                                                                                                               
 
-
-
-
-
-
-
-
-
+                                                                                                                                               
+                                                                                                                                        
+  
+                                                                                                                                               
+                                                                                                                                    
+                                                                                                                                    
 
 
-
-
-
-
-
-
-
+               A             B                                   C
+                                                                                                                                        
+                                                                                                                           
 
-SKALA 1:500 (för A3)
 N
-0      10      20 m      7
 Plan 2
-
-[Tabell 61-1](handlingar.tabeller/61-1.csv)
-
-| YTSAMMANSTÄLLNING<br>50/50<br>Kommersiell<br>23-12-22<br>Kommunal<br>A B C<br>Legend A<br>Kommunalt<br>Kommersiellt<br>Delat<br>TRAPPHUS TRAPPHUS SCHAKT HISS MÖRKLÄGGNINGSSYSTEM<br>WC SERVERING WC UNI ÖPPET NED HISS WC RWC KIOSK KIOSK RWC SCHAKT E<br>FRD HANDBOLL<br>HC HC<br>SCHAKT<br>20p 20p<br>ÖPPET<br>KIOSK<br>NED METSYSSGNINGGÄLKRÖM<br>115p 115p 210p 197+8p 210p<br>p911 p911 <br>METSYSSGNINGGÄLKRÖM D    <br><br>SPORTHALL GALLERI HC p781 p8+481<br>SON<br>FÖR<br>POP-UP<br>EVENTS<br><br>p911 p911<br><br>115p 307+4p 307+4p 115p<br>KIOSK SON<br>20p 20p FÖR POP-UP<br>EVENTS<br>HAND-&<br>BOLLTVÄTT SCHAKT<br>HC HC<br>PASSAGE<br>FRD FÖRENINGAR RWC MURSDRÅVKUJS FRD INNEBANDY BØTTEKOTT FRD SPORTHALL<br>RWC WC WC KIOSK SERVERING TRAPPHUS KIOSK RWC SCHAKT RWC KIOSK SCHAKT TRAPPHUS HISS HISS KIOSK<br>LESGNÄTS<br>MÖRKLÄGGNINGSSYSTEM<br>LEBIXELF<br>HC B 10 O 0 R P T L A A S T U S P E P R ORT CA. HC   <br>20 PL M. BORD, MEDIA   <br>  <br>  <br>  <br>  <br>  <br>  <br> <br><br><br><br>A B C<br>   <br>  <br>        |  |  |
-| --- | --- | --- |
-|  | <br><br>  <br>  <br>   |  |
-|  |   <br>  <br>  <br>  <br>   |  |
-|  |  <br> |  |
-|  | <br> |  |
-|  | <br> <br>  |  <br> |
 
 <!-- sida 62 -->
 
@@ -2833,89 +2963,111 @@ nossnåM
 &
 nérmeS
 ©
-Kungsbacka Arena - Förstudie -
-Alternativ
-E
-D
+Kungsbacka Arena - Förstudie - 23-12-22
+Legend
+Kommunalt
+Kommersiellt
+Delat
+SCHAKT                                  KONTOR         / F K R O D PISCHAKT
+MÖTESRUM MÖTESRUM MÖTESRUM TELEFONRUM TELEFONRUM TELEFONRUM TELEFONRUM
+MINI-STÄD
+BOKNINGSBAR LOKAL
+/CO-WORK /VIP-LOGE
+TEKNIK-ARENA
+HC
+TEKNIK/LJUD/LJUS
+MINI-STÄD
+LÄKTARE SPORTHALL HC GALLERI        YTOR FÖRENINGSLIV M PR IN E S 10 S P E L V A T T . N SE E R D E F Ö PÅ R L S Ä K K R T IV A A R N E D N E KAMERA KO /M M Ö M T E E NTKO /M M Ö M T E E NTS / P M EA Ö K T E E R KON / T M R Ö O T LL E RUM FR / D E L K R A U N M SLI ENTRÉ PENTRY
+HK ARANÄS 7-10p
+SEMINARIERUM/FOTBOLLS-VIP                                        GREENROOM/
+TEKNIK-OMKL, GYM, M.M.    BOKN / IN C G O S -W BA O R R K LOKAL SPE / A S K A E M R T / A M L ÖTEKO SE N K T R O E R T / A K R A I N A S T LI K H O K N T A O RA R N /K Ä A S N 4 S p LI K / K K O I A F N N T 2 S O p L R I K / Ö K O A v N r N . T 3 S O p L R I MÖTESR 5 U 0 M p FÖRENING RWC/D ARBE M TS A R T U S M AL P / RESS PENTRY/FOTBOLLS VIP KAMERA YTOR FÖRENINGSLIV/ PAUSRUM
+SKALA 1:500 (för A3)
+0      10      20 m      8
+.TNEMMOK .TNEMMOK
+YTSAMMANSTÄLLNING
+50/50
+Kommersiell
+Kommunal
+HISS TRAPPHUS HISS
+RWC/D
+MÖRKLÄGGNINGSSYSTEM
+BOKNINGSBAR LOKAL
+/CO-WORK
+/VIP-LOGE
+BOKNINGSBAR LOKAL
+/CO-WORK /VIP-LOGE
+BOKNINGSBAR LOKAL /CO-WORK
+/VIP-LOGE
+ÖPPET
+NED
+ÖPPET
+NED  / B K O O K N N T I R N O G L S L B L A J R U L D O /L K J A U L S
+ÖPPET
+NED
+BOKNINGSBAR LOKAL /CO-WORK
+/VIP-LOGE
+BOKNINGSBAR LOKAL
+/CO-WORK /VIP-LOGE
+BOKNINGSBAR LOKAL /CO-WORK /VIP-LOGE
+BOKNINGSBAR LOKAL /CO-WORK /VIP-LOGE
+MÖRKLÄGGNINGSSYSTEM
+RWC/D                     KA F N RD SLI         KA F N RD SLI
+SCHAKT
+TRAPPHUS HISS      KON /S T A R M O T L A LR L UM M / Ö S T A E M S T R A U L M HISS /PENTRY /TV-STUDIO FRD KANSLI TF TF TF TF KA F N RD SLI
+METSYSSGNINGGÄLKRÖM
+A             B                                   C
+Alternativ      A
+TAKFÖNSTER
+E                                                                                                                              E
+
+D                                                                                                                              D           
+
 
  
 
 
 
-
-
-
-
+                                                                                                                                           
+ 
+                                                                                                                                        
 
 
-
-
-
+  
 
 
 
-
-
+ 
 
 
-
-
-
-
+   
 
 
 
-
-
-
-
-
-
+     
 
 
-
-
-
+                                                     HÖJ-OCH SÄNKBART PARTI I KAMERARUM                                                 
+                                                     ÖPPNINGSBARA PARTIER VID ÖVRIGA MEDIAFUNKTIONER                                           
 
-
+                                                                                                                                                
 
-
-
-
+                                                                                                                                                
+                                                                                                                                               
 
-
-
-
-
-
-
-
-
+                                                                                                                                               
+                                                                                                                                        
+  
+ 
+                                                                                                                                           
+                                                                                                                                    
+                                                                                                                                    
 
-
-
-
-
-
-
-
+               A             B                                   C
+                                                                                                                                        
+                                                                                                                           
 
-SKALA 1:500 (för A3)
 N
-0      10      20 m      8
 Plan 3
-
-[Tabell 62-1](handlingar.tabeller/62-1.csv)
-
-| YTSAMMANSTÄLLNING<br>50/50<br>Kommersiell<br>23-12-22<br>Kommunal<br>A B C<br>Legend A<br>Kommunalt<br>Kommersiellt<br>Delat<br>TAKFÖNSTER<br>SCHAKT KONTOR / F K R O D PISCHAKT HISS TRAPPHUS HISS E<br>MÖTESRUM MÖTESRUM MÖTESRUM TELEFONRUM TELEFONRUM TELEFONRUM TELEFONRUM<br>RWC/D<br>MINI-STÄD<br>MÖRKLÄGGNINGSSYSTEM<br>METSYSSGNINGGÄLKRÖM<br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE<br>BOKNINGSBAR LOKAL<br>/CO-WORK /VIP-LOGE <br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE D    <br>BOKNINGSBAR LOKAL <br>/CO-WORK<br>/VIP-LOGE<br>TEKNIK-ARENA ÖPPET ÖPPET ÖPPET<br>HC NED NED / B K O O K N N T I R N O G L S L B L A J R U L D O /L K J A U L S NED<br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE<br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE<br><br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE<br><br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE<br>TEKNIK/LJUD/LJUS<br>MINI-STÄD MÖRKLÄGGNINGSSYSTEM<br>LÄKTARE SPORTHALL HC GALLERI YTOR FÖRENINGSLIV M PR IN E S 10 S P E L V A T T . N SE E R D E F Ö PÅ R L S Ä K K R T IV A A R N E D N E KAMERA KO /M M Ö M T E E NTKO /M M Ö M T E E NTS / P M EA Ö K T E E R KON / T M R Ö O T LL E RUM FR / D E L K R A U N M SLI ENTRÉ PENTRY RWC/D KA F N RD SLI KA F N RD SLI<br>HK ARANÄS 7-10p<br>SEMINARIERUM/FOTBOLLS-VIP GREENROOM/ SCHAKT<br>TEKNIK-OMKL, GYM, M.M. BOKN / IN C G O S -W BA O R R K LOKAL SPE / A S K A E M R T / A M L ÖTEKO SE N K T R O E R T / A K R A I N A S T LI K H O K N T A O RA R N /K Ä A S N 4 S p LI K / K K O I A F N N T 2 S O p L R I K / Ö K O A v N r N . T 3 S O p L R I MÖTESR 5 U 0 M p FÖRENING RWC/D ARBE M TS A R T U S M AL P / RESS PENTRY/FOTBOLLS VIP KAMERA YTOR FÖRENINGSLIV/ PAUSRUM .TNEMMOK .TNEMMOK TRAPPHUS HISS KON /S T A R M O T L A LR L UM M / Ö S T A E M S T R A U L M HISS /PENTRY /TV-STUDIO FRD KANSLI TF TF TF TF KA F N RD SLI<br>HÖJ-OCH SÄNKBART PARTI I KAMERARUM   <br>ÖPPNINGSBARA PARTIER VID ÖVRIGA MEDIAFUNKTIONER   <br>  <br>  <br>  <br>  <br>  <br>  <br> <br><br><br><br>A B C<br>   <br>  <br>        |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | <br><br>  <br>  <br>   |  |  |  |  |
-|  |  | <br> |  <br>  |  |  |
-|  |  |  |   |  |  |
-|  | <br> |  |  | <br> | <br> |
-|  |  <br> |  |  |  |  |
-|  | <br> |  |  |  |  |
-|  | <br> <br>  |  |  |  <br> |  |
 
 <!-- sida 63 -->
 
@@ -2925,19 +3077,45 @@ nossnåM
 &
 nérmeS
 ©
-Kungsbacka Arena - Förstudie -
-Alternativ
-E
-D
+Kungsbacka Arena - Förstudie - 23-12-22
+Legend
+Kommunalt
+Kommersiellt
+Delat
+SKALA 1:500 (för A3)
+0      10      20 m      9
+LLAHTROPS/ANERA-KINKET
+YTSAMMANSTÄLLNING
+50/50
+ÖPPET
+NED
+ÖPPET
+NED
+GÅNGBRYGGA
+ÖPPET
+NED
+TRAPPHUS                                                      TRAPPHUS
+AGGYRBGNÅG             AGGYRBGNÅG AGGYRBGNÅG
+LANTERNIN
+JUMBOTRON
+GÅNGBRYGGA GÅNGBRYGGA
+SKÄRMTAK FOTBOLLSLÄKTARE
+ERALYKSLEDEMLYK
+A             B                                   C
+Alternativ      A
+E                                                                                                                              E
+
+D                                                                                                                              D           
+
 
  
-
-
+                                                                                                  ANNAN PLACERING BEHÖVER
+                                                                                                   UTREDAS I SENARE SKEDE
 
-
+                                                                                                                                           
 
 
-
+                                                                                                                                        
 
 
 
@@ -2955,7 +3133,7 @@ D
 
 
 
-
+                                                  GÅNGBRYGGA
 
 
 
@@ -2965,49 +3143,28 @@ D
 
 
 
+                                                                                                                                         
 
-
-
+                                                                                                                                               
 
-
-
-
-
-
+                                                                                                                                                 
+                                                                                                                                                
+                                                                                                                                               
 
-
-
-
-
-
-
-
-
+                                                                                                                                               
+                                                                                                                                        
+  
+ 
+                                                                                                                                           
+                                                                                                                                    
+                                                                                                                                    
 
-
-
-
-
-
-
-
+               A             B                                   C
+                                                                                                                                        
+                                                                                                                           
 
-SKALA 1:500 (för A3)
 N
-0      10      20 m      9
 Plan 4
-
-[Tabell 63-1](handlingar.tabeller/63-1.csv)
-
-| YTSAMMANSTÄLLNING<br>50/50<br>23-12-22<br>A B C<br>Legend A<br>Kommunalt<br>Kommersiellt<br>Delat<br>E<br>LANTERNIN<br><br>NED<br>ÖPPET D    <br>LLAHTROPS/ANERA-KINKET <br>JUMBOTRON<br>ERALYKSLEDEMLYK<br>NED ÖPPET<br>ÖPPET GÅNGBRYGGA<br>NED<br>AGGYRBGNÅG AGGYRBGNÅG AGGYRBGNÅG<br>ANNAN PLACERING BEHÖVER<br>UTREDAS I SENARE SKEDE<br><br><br>GÅNGBRYGGA GÅNGBRYGGA GÅNGBRYGGA<br>TRAPPHUS TRAPPHUS<br>  <br>  <br>SKÄRMTAK FOTBOLLSLÄKTARE   <br>  <br>  <br>  <br>  <br>  <br> <br><br><br><br>A B C<br>   <br>  <br>        |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  | <br>   |  |
-|  |   <br>  <br>  <br>  <br>  <br>  <br>   |  |
-|  |  <br> |  |
-|  | <br> |  |
-|  | <br> <br>  |  <br> |
 
 <!-- sida 64 -->
 
@@ -3017,19 +3174,47 @@ nossnåM
 &
 nérmeS
 ©
-Kungsbacka Arena - Förstudie -
-Alternativ
+Kungsbacka Arena - Förstudie - 23-12-22
+TAK
+MILJÖRUM
+GLASTAK
+SPO
+T
+R
+A
+T
+K
+H ALL       LAN
+T
+T
+A
 E
-D
+K
+RNIN
+YTA
+FÖR
+SOLCELLER
+INOM
+STRECKAT
+ARENATAK
+SEDUMTAK
+TAK-FOTBOLLSLÄKTARE
+SKALA 1:500 (för A3)
+0      10      20 m     10
+ERALYKSLEDEMLYK
+A             B                                   C
+Alternativ      A
+E                                                  SEDUMTAK                                                                    E
+
+D                                                                                                                              D           
+
 
  
-
-
-
-
+                                                                                                  ANNAN PLACERING BEHÖVER
+                                                                                                   UTREDAS I SENARE SKEDE                
 
 
-
+                                                                                                                                        
 
 
 
@@ -3057,52 +3242,32 @@ D
 
 
 
+                                                                                                                                         
 
-
-
+                                                                                                                                               
 
-
+                                                                                                                                                
 
-
-
-
+                                                                                                                                                
+                                                                                                                                               
 
-
-
-
-
-
-
-
+                                                                                                                                               
+                                                                                                                                        
+  
+ 
+                                                                                                                                            
+ 
+
+
+                                                                                                                                    
 
 
-
-
-
-
-
-
-
+               A             B                                   C
+                                                                                                                                       
+                                                                                                                           
 
-SKALA 1:500 (för A3)
 N
-0      10      20 m     10
 Takplan
-
-[Tabell 64-1](handlingar.tabeller/64-1.csv)
-
-| 23-12-22<br>A B C<br>A<br>TAK<br>MILJÖRUM<br>GLASTAK SEDUMTAK E<br><br>YTA D    <br>FÖR<br>SOLCELLER ERALYKSLEDEMLYK <br>T A K T A K INOM ARENATAK<br>SPO R T H ALL LAN T E RNIN STRECKAT<br>ANNAN PLACERING BEHÖVER<br>UTREDAS I SENARE SKEDE<br><br><br>SEDUMTAK<br>  <br>  <br>TAK-FOTBOLLSLÄKTARE   <br>  <br>  <br>  <br>  <br>  <br> <br><br><br><br>A B C<br>   <br>  <br>        |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |   <br>  <br>  <br>  <br>  <br>   |  |  |  |  |
-|  | <br> |  | <br> | <br> |  |
-|  |  <br> |  |  |  |  |
-|  | <br> |  |  |  |  |
-|  | <br> <br>  |  |  <br> |  |  |
 
 <!-- sida 65 -->
 
@@ -3565,19 +3730,76 @@ nossnåM
 nérmeS
 ©
 Kungsbacka Arena - Förstudie - 23-12-22
-
- 
+ENTRÉ
+LOKALER/KONTOR
+IDROTTSTORG
+ENTRÉ
+RESTAURANT/VIP
+VIP/RESTAURANG
+ENTRÉ
+HUVUDENTRÉ
+PUBLIK OCH SPORT
+ENTRÉ DRIFT KOMMERS 80 000
+ENTRÉ -BoH/ARENA
+BACK of HOUSE
+ENTRÉ -ARTIST/ELITIDROTT & DRIFT
+ENTRÉ -MEDIA/FÖRENINGAR
+ENTRÉ -BORTASUP.
+ENTRÉ -DRIFT FOTBOLLSPLAN
+16
+tsaL
+jak
+BADHUSET
+AKTIVITETSPARK
+ISARENA
+Alternativ      B                                                                                   S
+N
+Ä
+R
+G
+\-
+S
+R
+E
+T
+E
+M
+\-
+0
+8
+ANNEX
+ISHALL
+FRAMTIDA
+MÖJLIG
+BYGGRÄTT     INFART BoH
+HKP-PLATS
+BOULEHALLEN
+MILJÖRUM
+ENTRÉ GYM
+& LOKALER
+SPORT-
+ARENA
+HALLEN
+
+UTBREDNING &
+UTSEENDE ENLIGT L.
+ENTRÉ FORRÅD                                                                                
+OCH SKYDDSRUM
+
+IDROTTSPARK
+ENTRÉ       FOTBOLLSLÄKTARE / SKÄRMTAK
+                                                 IDROTTSPARK
+                                                                                                            UTFART BoH
 
-
+                                                                         ENTRÉ -FOTBOLL
 
-
+                                                                                                                                           
 
 
-
+                                                                                                                                        
 
 
-
-
+                                                                     FOTBOLLARENA
 
 
 
@@ -3601,54 +3823,27 @@ Kungsbacka Arena - Förstudie - 23-12-22
 
 
 
+                                                                                                                                        
 
-
-
+                                                                                                                                               
 
-
+                                                                                                                                                
 
-
-
-
+                                                                                                                                                
+                                                                                                                                               
 
-
-
-
-
-
- 
-
-
-
+                                                                                                                                               
+                                                                                                                                        
+  
+ 
+                                                                                                                         SKALA 1:1000 (för A3) 
+                                                                                                                                     N
+     Illustrationsplan                                  MÖJLIG FRAMTIDA FOTBOLLSLÄKTARE                             0        25  50 m
 
 
-
-
-
-
-
+                                                                                                                                
+                                                                                                                 
 
-
-[Tabell 70-1](handlingar.tabeller/70-1.csv)
-
-| BADHUSET<br>AKTIVITETSPARK<br>ISARENA<br>Alternativ B S<br>N<br>Ä<br>R<br>G<br>-<br>S<br>R<br>E<br>T<br>E<br>M<br>-<br>0<br>8<br>ANNEX<br>ENTRÉ ISHALL<br>LOKALER/KONTOR<br>IDROTTSTORG FRAMTIDA<br>ENTRÉ MÖJLIG<br>RESTAURANT/VIP<br>BYGGRÄTT INFART BoH<br>VIP/RESTAURANG<br>ENTRÉ<br>HUVUDENTRÉ HKP-PLATS<br>PUBLIK OCH SPORT<br>BOULEHALLEN<br>MILJÖRUM<br>ENTRÉ GYM<br>ENTRÉ DRIFT KOMMERS 80 000 & LOKALER<br>tsaL<br>jak<br>SPORT-<br>ARENA<br>ENTRÉ -BoH/ARENA HALLEN<br><br>BACK of HOUSE<br>UTBREDNING &<br>UTSEENDE ENLIGT L.<br>ENTRÉ FORRÅD    <br>OCH SKYDDSRUM<br><br>IDROTTSPARK<br>ENTRÉ -ARTIST/ELITIDROTT & DRIFT<br>ENTRÉ -MEDIA/FÖRENINGAR<br>ENTRÉ FOTBOLLSLÄKTARE / SKÄRMTAK<br>IDROTTSPARK<br>ENTRÉ -BORTASUP. UTFART BoH<br>ENTRÉ -DRIFT FOTBOLLSPLAN ENTRÉ -FOTBOLL<br><br><br>FOTBOLLARENA<br>  <br>  <br>  <br>  <br>  <br>  <br>  <br>  <br> <br>SKALA 1:1000 (för A3) <br>N<br><br>16 MÖJLIG FRAMTIDA FOTBOLLSLÄKTARE 0 25 50 m<br>Illustrationsplan<br>   <br>  <br>             |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |   |  |  |  |
-|  |  |  |  |   |  |  |  |
-|  |  |  |  |   |  |  |  |
-|  |  |  |  |   |  |  |  |
-|  |  |  |  |   |  |  |  |
-|  |  |  |  |   |  |  |  |
-|  | <br> |  |  |  | <br> | <br> |  |
-|  |  <br> |  |  |  |  |  |  |
-|  | N<br><br>50 m 16 |  |  |  |  |  |  |
-|  | <br> <br>  |  |  |  |  <br> |  |  |
 
 <!-- sida 71 -->
 
@@ -3659,84 +3854,183 @@ nossnåM
 nérmeS
 ©
 Kungsbacka Arena - Förstudie - 23-12-22
-F
-Alternativ
-E
-D
+Legend
+Kommunalt
+Kommersiellt
+Delat
+HUVUDENTRÉ VIP/RESTAURANG
+PUBLIK OCH SPORT ENTRÉ
+VIP VINDFÅNG                                     TRAPPHUS
+RESTAURANG
+FOAJÉ                                                    PASSAGE
+UNDERCENTRAL
+INFODISK/DRIFT
+EL-RUM
+KOMMERSIELL    STÄD      RWC
+BACK OF HOUSE
+KIOSK
+SKYDDSRUM/REHABGYM    OMKL. A1
+OMKL. A2
+SKYDDSRUM/FÖRRÅD
+OMKL. A1                                FRD ANTIDOPING OMKL. C/ HANDBOLL PROD. OFFICE ARTISTLOGE
+SKYDDSRUM/FORRÅD FOTBOLL                                                                    ENTRÉ -ARTIST/ELITIDROTT OMKL. D OMKL. B /ENSEMBLELOGE /ENS O EM M B K L L E . E LOGE /ARB P E R T E S S R S U R M U M M EDIA TRAPPHUS MÖ A V M C T IL E K E R S R D U R E I M A U D / M . / PERS / O PA N U A S LRUM
+ENTRÉ -MEDIA/FÖRENINGAR
+SPELARBÄNK MED TAK
+SKALA 1:500 (för A3)
+0      10      20 m     17
+EGASSAP
+PASSAGE/MIXED ZONE TRAPPHUS
+PASSAGE
+PASSAGE/SPELARTUNNEL
+&-DNAH TTÄVTLLOB              &-DNAH TTÄVTLLOB
+FRD FOTBOLL FROSTFRITT
+DRF LLOBTOFTILE
+FRD NIU
+LLOBDNAHTILE
+DRF
+LOKAL/CAFÉ
+VÄNTRUM
+EGASSAP
+HISS HISS STORKÖK
+WC  WC
+TICKET RIP
+FRD FRD HANDBOLL HANDBOLL
+FRD FRD HANDBOLL HANDBOLL                                       FRD ARENAMATERIAL TVÄTT AR O T M IS K T L L . O B G / E /B S O T R O D L A O R CH
+RWC MASSAGE HISS M L E Ä D K IC AR IN E S / K M M A Ö TC TE H- HISS RUM
+EGASSAP
+ENTRÉ DRIFT KOMMERS
+MÖTESRUM
+KIOSK
+GYM
+OMKL. E  OMKL. E /ENSEMBLELOGE /ENSEMBLELOGE /ENS O E M M K B L L . E D LOGE /ENS O EM M B K L L E . E LOGE
+PASSAGE
+TROP
+KONTOR
+MÖTESRUM
+TRAPPHUS
+KONTOR
+RESTAURANG ANNEX
+Ca 340 + ute + ståande
+UNDERCENTRAL
+MÖJLIG EXPANSION STORKÖK
+MILJÖRUM
+SCHAKT
+200 sittplatser
+PASSAGE
+CAFÉ                                                 OMKL.         GO K D O S M M M O E T R T S AK
+TICKET                  WC RIP
+ENTRÉ -BoH/ARENA
+OMKL. A1
+OMKL. A2
+OMKL. A1                                                MILJÖRUM
+OMKL. C    OMKL. D/ CREW ROOM OMKL. D/ CREW ROOM
+FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT F F R R D O F S O T T F B R O IT L T L FRD FOTBOLL FROSTFRITT SPR. TANK SPR. RUM FRD FOTBOLL FROSTFRITT 200 m3 - 20m x 4 m x 2,5m (LxBxH)
+FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT ENTRÉ -BORTASUP.
+ENTRÉ -DRIFT FOTBOLLSPLAN
+MURLIV
+YTSAMMANSTÄLLNING
+50/50
+Frostfritt                                         RWC/D
+HISS
+Kommersiell
+Kommunal
+WC
+RWC
+WC
+EL/TELERUM
+RWC/D
+TRAPPHUS                                                 PAUSRUM KONTOR
+OMKL. FRD FRYS KYL FETT- UTSLUTNING
+RWC PASSAGE CAFÉKÖK WC STÄD
+OMKL.                                                                                TELERUM
+PASSAGEFRD/SOP
+RWC
+VILRUM RWC/D FRD
+/KOPI
+LASTKAJ
+LYFTBORD
+BOH-PLAN,
+UTBREDNING &
+UTSEENDE ENLIGT L.
+RWC/D   RWC/D
+EL-TRUCK
+FRD HANDBOLL                                                                   OMKL. OMKL. RWC/D DRIFT DRIFT RWC/D RWC/D
+DRIFT RWC
+MURSETÖM MURSETÖM
+MÖTESRUM
+FRAMTIDA MÖJLIG BYGGRÄTT
+ENTRÉ RESTAURANT/VIP
+ENTRÉ FORRÅD
+OCH SKYDDSRUM
+ENTRÉ FORRÅD OCH SKYDDSRUM
+ENTRÉ FORRÅD OCH SKYDDSRUM
+ENTRÉ IDROTTSPARK
+LLOBDNAHTILE
+DRF
+ENTRÉ KONTOR/KOMMERS
+FRAMTIDA MÖJLIG BYGGRÄTT
+CAFÉ
+ENTRÉ
+ENTRÉ GYM & LOKALER
+OMKL                           SCEN 2       SCEN1
+SPELARTUNNEL
+/ ENTRÉ
+FOTBOLL
+TROP
+FRD NIU
+Extra målställning
+SPELARBÄNK MED TAK
+DRF LLOBTOFTILE DRF LLOBTOFTILE DRF LLOBTOFTILE
+VINDFÅNG
+SKÄRMTAK                                                                             SKÄRMTAK
+STAKET
+SÄKERHETSGRÄNS
+GNÅFDNIV
+LLEISREMMOK
+ÉRTNE
+LÄGE OCH TEKNISK LÖSNING FASTIGHETSINDELNING
+MÖJLIG EXPANSION RESTAURANG UTREDS I SENARE SKEDE
+SKÄRMTAK
+KATMRÄKS
+KATMRÄKS
+A             B                                   C
+F                                                                                                                              F
+Alternativ      B
+E                                                                                                                              E
+HKP-PLATS HKP-PLATS
+D                                                                                                                              D
+
+    
+
 
  
-
-
+ 
 
-
-
-
-
-
-
-
-
-
-
-
+                                                                                                                                           
+ 
+                                                                                                                                            
+ 
+      
+
+      
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+                                                                                                                                           
 
-
-
-
-
-
+                                                                                                                                                
+                                                                                                                                                   
 
-
-
-
-
-
-
-
-
-Plan 1-Entréplan 
+                                                                                                                                               
+                                                                                                                                        
+    
+                                                                                                                                           
+                                                                                                                               N    
+                                                                                                                                     Plan 1-Entréplan 
 
-
-
-
-
-
-
+                A             B                                   C
+                                                                                                                             
+                                                                                                                           
 
-
-[Tabell 71-1](handlingar.tabeller/71-1.csv)
-
-| A B C<br>YTSAMMANSTÄLLNING F<br>KONTOR<br>50/50<br>MURSETÖM MURSETÖM<br>MÖTESRUM MÖTESRUM<br>Legend Frostfritt RWC/D B<br>HISS<br>Kommersiell<br>Kommunalt ENTRÉ KONTOR/KOMMERS<br>TRAPPHUS Kommunal<br>Kommersiellt<br>Delat<br>KONTOR FRAMTIDA MÖJLIG BYGGRÄTT<br>RESTAURANG ANNEX ENTRÉ RESTAURANT/VIP<br>WC<br>RWC FRAMTIDA MÖJLIG BYGGRÄTT<br>WC<br>Ca 340 + ute + ståande E<br>EL/TELERUM<br>RWC/D<br>UNDERCENTRAL<br>LÄGE OCH TEKNISK LÖSNING FASTIGHETSINDELNING HKP-PLATS HKP-PLATS<br>MÖJLIG EXPANSION RESTAURANG UTREDS I SENARE SKEDE<br>HUVUDENTRÉ VIP/RESTAURANG CAFÉ<br>PUBLIK OCH SPORT ENTRÉ ENTRÉ<br>MÖJLIG EXPANSION STORKÖK<br>MILJÖRUM<br>VIP VINDFÅNG TRAPPHUS HISS HISS STORKÖK SCHAKT MURLIV TRAPPHUS PAUSRUM KONTOR VINDFÅNG<br>200 sittplatser<br>PASSAGE<br>RESTAURANG CAFÉ OMKL. GO K D O S M M M O E T R T S AK OMKL. FRD FRYS KYL FETT- UTSLUTNING<br>FOAJÉ PASSAGE LOKAL/CAFÉ ENTRÉ DRIFT KOMMERS TICKET WC RIP RWC PASSAGE CAFÉKÖK WC STÄD ENTRÉ GYM & LOKALER SKÄRMTAK D<br>OMKL. TELERUM GNÅFDNIV<br>UNDERCENTRAL MÖTESRUM PASSAGEFRD/SOP<br>INFODISK/DRIFT RWC<br>EL-RUM<br>VILRUM RWC/D<br>FRD <br>/KOPI<br>LLEISREMMOK<br>WC WC LASTKAJ<br>KOMMERSIELL STÄD RWC TICKET RIP ÉRTNE    <br>LYFTBORD <br>BACK OF HOUSE ENTRÉ -BoH/ARENA OMKL SCEN 2 SCEN1<br>KIOSK KIOSK BOH-PLAN, KATMRÄKS<br>UTBREDNING &<br>UTSEENDE ENLIGT L. ENTRÉ FORRÅD<br>RWC/D RWC/D OCH SKYDDSRUM<br>SKYDDSRUM/REHABGYM OMKL. A1 OMKL. A1 LLOBDNAHTILE<br>EGASSAP EGASSAP EGASSAP <br>OMKL. A2 OMKL. A2 DRF<br>LLOBDNAHTILE GYM FRD NIU <br>FRD FRD<br>HANDBOLL HANDBOLL<br>EL-TRUCK<br>SKYDDSRUM/FÖRRÅD DRF ENTRÉ FORRÅD OCH SKYDDSRUM<br>OMKL. A1 FRD ANTIDOPING OMKL. C/ HANDBOLL PROD. OFFICE ARTISTLOGE &-DNAH TTÄVTLLOB &-DNAH TTÄVTLLOB DRF LLOBTOFTILE VÄNTRUM FRD FRD HANDBOLL HANDBOLL FRD ARENAMATERIAL TVÄTT AR O T M IS K T L L . O B G / E /B S O T R O D L A O R CH OMKL. A1 MILJÖRUM FRD HANDBOLL OMKL. OMKL. RWC/D DRIFT DRIFT RWC/D RWC/D DRF LLOBTOFTILE DRF LLOBTOFTILE DRF LLOBTOFTILE KATMRÄKS<br>SKYDDSRUM/FORRÅD FOTBOLL ENTRÉ -ARTIST/ELITIDROTT PASSAGE/MIXED ZONE RWC MASSAGE<br>OMKL. D OMKL. B /ENSEMBLELOGE /ENS O EM M B K L L E . E LOGE /ARB P E R T E S S R S U R M U M M EDIA TRAPPHUS MÖ A V M C T IL E K E R S R D U R E I M A U D / M . / PERS / O PA N U A S LRUM TRAPPHUS FRD NIU HISS M L E Ä D K IC AR IN E S / K M M A Ö TC TE H- HISS RUM OMKL. E OMKL. E /ENSEMBLELOGE /ENSEMBLELOGE /ENS O E M M K B L L . E D LOGE /ENS O EM M B K L L E . E LOGE OMKL. C OMKL. D/ CREW ROOM OMKL. D/ CREW ROOM DRIFT RWC ENTRÉ FORRÅD OCH SKYDDSRUM<br>ENTRÉ -MEDIA/FÖRENINGAR PASSAGE PASSAGE SKÄRMTAK SKÄRMTAK<br>PASSAGE/SPELARTUNNEL<br>FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT F F R R D O F S O T T F B R O IT L T L FRD FOTBOLL FROSTFRITT SPR. TANK SPR. RUM FRD FOTBOLL FROSTFRITT 200 m3 - 20m x 4 m x 2,5m (LxBxH) ENTRÉ IDROTTSPARK Extra målställning      <br>  <br>FRD FOTBOLL FROSTFRITT FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT   <br>ENTRÉ -BORTASUP. SPELARTUNNEL STAKET   <br>/ ENTRÉ<br>FOTBOLL   <br>SPELARBÄNK MED TAK SPELARBÄNK MED TAK   <br>TROP ENTRÉ -DRIFT FOTBOLLSPLAN TROP SÄKERHETSGRÄNS     <br>SKALA 1:500 (för A3) <br>N <br><br>0 10 20 m 17<br>A B C<br>    <br>  <br>        |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |    |  |  |  |
-|  |  | <br><br> |  <br> <br>  |  |
-|  |   <br>  <br>  <br>   |  |  |  |
-|  |  <br> |  |  |  |
-|  | <br><br>7 |  |  |  |
-|  | <br> <br>  |  |  |  <br> |
 
 <!-- sida 72 -->
 
@@ -3747,83 +4041,134 @@ nossnåM
 nérmeS
 ©
 Kungsbacka Arena - Förstudie - 23-12-22
-F
-Alternativ
-E
-D
-
- 
-
+Legend
+Kommunalt
+Kommersiellt
+Delat
+TRAPPHUS
+WC         SERVERING                           WC UNI
+FRD HANDBOLL
+SPORTHALL    GALLERI
+PASSAGE FRD FÖRENINGAR RWC
+RWC WC   WC    KIOSK        SERVERING             TRAPPHUS KIOSK RWC
+SKALA 1:500 (för A3)
+0      10      20 m     18
+MURSDRÅVKUJS
+YTSAMMANSTÄLLNING
+50/50
+MÖTESRUM KOPI MÖTESRUM
+Kommersiell
+HISS
+Kommunal                                                RESTAURANG ANNEX
+TRAPPHUS
+TERRASS                KONTOR
+MÖTESRUM
+Ca 130 + ståande
+RWC/D
+WC
+WC
+RWC
+RESTAURANG ANNEX
+TRAPPHUS SCHAKT                                               HISS
+HISS              KIOSK WC RWC            KIOSK RWC SCHAKT
+HC HC
+SCHAKT
+KIOSK
+HC
+KIOSK
+HAND-& BOLLTVÄTT                                                       SCHAKT HC HC
+FRD INNEBANDY FRD SPORTHALL
+SCHAKT RWC KIOSK SCHAKT TRAPPHUS HISS             HISS  KIOSK
+HC                                                                   B 10 O 0 R P T L A A S T U S P E P R ORT CA. HC
+20 PL M. BORD, MEDIA
+MURSETÖM
+RWC/D
+ÖPPET NED
+20p                              20p
+ÖPPET
+NED
+115p
+BØTTEKOTT
+p911
+p781
+p911
+115p
+115p       307+4p        307+4p      115p
+20p                              20p
+p911
+p8+481
+p911
+LESGNÄTS
+LEBIXELF
+210p      197+8p    210p
+METSYSSGNINGGÄLKRÖM
+MÖRKLÄGGNINGSSYSTEM
+MÖRKLÄGGNINGSSYSTEM
+METSYSSGNINGGÄLKRÖM
+A             B                                   C
+F                                                                                                                              F
+Alternativ      B
+E                                                                                                                              E
+LÄGE OCH TEKNISK LÖSNING FASTIGHETSINDELNING
+UTREDS I SENARE SKEDE
+D                                                                                                                              D
+
+    
+
+                         E P V O S F E P O Ö N - N R U T P S
 
 
-
+                                                                                                                                           
 
 
-
+                                                                                                                                        
 
 
 
 
 
-
-
+SON
+                               FÖR 
+E
+P
+V
+O
+E
+P
+N
+-U
+T
+P
+S
+
+
+   
+
+   
+  
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+                                                                                                                                         
+                                                                                                                                                
+                                                                                                                                                
 
-
-
-
+                                                                                                                                                
+                                                                                                                                               
 
-
-
-
-
-
-
-
-
-Plan 2        
+                                                                                                                                               
+                                                                                                                                        
+  
+ 
+                                                                                                                                           
+                                                                                                                               N    
+                                                                                                                                     Plan 2 
 
-
-
-
-
-
-
+                A             B                                   C
+                                                                                                                                        
+                                                                                                                           
 
-
-[Tabell 72-1](handlingar.tabeller/72-1.csv)
-
-| A B C<br>YTSAMMANSTÄLLNING F<br>50/50<br>MURSETÖM<br>MÖTESRUM KOPI MÖTESRUM<br>Legend Kommersiell RWC/D B<br>HISS<br>Kommunal RESTAURANG ANNEX<br>Kommunalt<br>TRAPPHUS<br>Kommersiellt<br>Delat<br>TERRASS KONTOR<br>MÖTESRUM<br>Ca 130 + ståande<br>RWC/D<br>WC<br>WC<br>E<br>RWC<br>RESTAURANG ANNEX<br>LÄGE OCH TEKNISK LÖSNING FASTIGHETSINDELNING<br>UTREDS I SENARE SKEDE<br>TRAPPHUS TRAPPHUS SCHAKT HISS MÖRKLÄGGNINGSSYSTEM<br>WC SERVERING WC UNI HISS KIOSK WC RWC KIOSK RWC SCHAKT ÖPPET NED<br>FRD HANDBOLL<br>HC HC<br>SCHAKT D<br>20p 20p<br>ÖPPET<br>KIOSK<br>NED METSYSSGNINGGÄLKRÖM<br>115p 115p 210p 197+8p 210p<br>p911 p911 <br>METSYSSGNINGGÄLKRÖM    <br><br>SPORTHALL GALLERI HC p781 p8+481<br>SON<br>FÖR<br>POP-UP<br>EVENTS<br><br>p911 p911<br><br>115p 307+4p 307+4p 115p<br>KIOSK SON<br>20p 20p FÖR POP-UP<br>EVENTS<br>HAND-&<br>BOLLTVÄTT SCHAKT<br>HC HC<br>PASSAGE<br>FRD FÖRENINGAR RWC MURSDRÅVKUJS FRD INNEBANDY FRD SPORTHALL BØTTEKOTT<br>RWC WC WC KIOSK SERVERING TRAPPHUS KIOSK RWC SCHAKT RWC KIOSK SCHAKT TRAPPHUS HISS HISS KIOSK<br>LESGNÄTS<br>MÖRKLÄGGNINGSSYSTEM<br>LEBIXELF<br>HC B 10 O 0 R P T L A A S T U S P E P R ORT CA. HC   <br>20 PL M. BORD, MEDIA   <br>  <br>  <br>  <br>  <br>  <br>  <br> <br>SKALA 1:500 (för A3) <br>N <br><br>0 10 20 m 18<br>A B C<br>   <br>  <br>        |  |  |
-| --- | --- | --- |
-|  | <br><br>  <br>  <br>   |  |
-|  |   <br>  <br>  <br>  <br>   |  |
-|  |  <br> |  |
-|  | <br><br>8 |  |
-|  | <br> <br>  |  <br> |
 
 <!-- sida 73 -->
 
@@ -3834,85 +4179,115 @@ nossnåM
 nérmeS
 ©
 Kungsbacka Arena - Förstudie - 23-12-22
-F
-Alternativ
-E
-D
+Legend
+Kommunalt
+Kommersiellt
+Delat
+SCHAKT                                  KONTOR         / F K R O D PISCHAKT
+MÖTESRUM MÖTESRUM MÖTESRUM TELEFONRUM TELEFONRUM TELEFONRUM TELEFONRUM
+MINI-STÄD
+BOKNINGSBAR LOKAL /CO-WORK /VIP-LOGE
+TEKNIK-ARENA
+HC
+TEKNIK/LJUD/LJUS
+MINI-STÄD
+LÄKTARE SPORTHALL HC GALLERI        YTOR FÖRENINGSLIV M PR IN E S 10 S P E L V A T T . N SE E R D E F Ö PÅ R L S Ä K K R T IV A A R N E D N E KAMERA KO /M M Ö M T E E NTKO /M M Ö M T E E NTS / P M EA Ö K T E E R KON / T M R Ö O T LL E RUM FR / D E L K R A U N M SLI ENTRÉ PENTRY
+HK ARANÄS 7-10p
+SEMINARIERUM/FOTBOLLS-VIP                                        GREENROOM/
+TEKNIK-OMKL, GYM, M.M.    BOKN / IN C G O S -W BA O R R K LOKAL SPE / A S K A E M R T / A M L ÖTEKO SE N K T R O E R T / A K R A I N A S T LI K H O K N T A O RA R N /K Ä A S N 4 S p LI K / K K O I A F N N T 2 S O p L R I K / Ö K O A v N r N . T 3 S O p L R I MÖTESR 5 U 0 M p FÖRENING RWC/D ARBE M TS A R T U S M AL P / RESS PENTRY/FOTBOLLS VIP KAMERA YTOR FÖRENINGSLIV/ PAUSRUM
+SKALA 1:500 (för A3)
+0      10      20 m     19
+.TNEMMOK .TNEMMOK
+YTSAMMANSTÄLLNING
+50/50
+Kommersiell
+Kommunal
+TRAPPHUS
+FLÄKTRUM-ANNEX
+HISS TRAPPHUS HISS
+RWC/D
+MÖRKLÄGGNINGSSYSTEM
+BOKNINGSBAR LOKAL
+/CO-WORK
+/VIP-LOGE
+BOKNINGSBAR LOKAL
+/CO-WORK /VIP-LOGE
+BOKNINGSBAR LOKAL
+/CO-WORK
+/VIP-LOGE
+ÖPPET
+NED
+ÖPPET
+NED  / B K O O K N N T I R N O G L S L B L A J R U L D O /L K J A U L S
+ÖPPET
+NED
+BOKNINGSBAR LOKAL
+/CO-WORK
+/VIP-LOGE
+BOKNINGSBAR LOKAL
+/CO-WORK /VIP-LOGE
+BOKNINGSBAR LOKAL /CO-WORK /VIP-LOGE
+BOKNINGSBAR LOKAL /CO-WORK /VIP-LOGE
+MÖRKLÄGGNINGSSYSTEM
+RWC/D                     KA F N RD SLI         KA F N RD SLI
+SCHAKT
+TRAPPHUS HISS      KON /S T A R M O T L A LR L UM M / Ö S T A E M S T R A U L M HISS /PENTRY /TV-STUDIO FRD KANSLI TF TF TF TF KA F N RD SLI
+METSYSSGNINGGÄLKRÖM
+A             B                                   C
+F                                                                                                                              F
+Alternativ      B
+E                                                                                                                              E
+LÄGE OCH TEKNISK LÖSNING FASTIGHETSINDELNING
+UTREDS I SENARE SKEDE
+TAKFÖNSTER
+D                                                                                                                              D
+
+    
+
 
  
 
 
 
-
-
-
-
+                                                                                                                                           
+ 
+                                                                                                                                        
 
 
-
-
-
+  
 
 
 
-
-
+ 
 
 
-
-
-
-
+   
 
 
 
-
-
-
-
-
-
+     
 
 
-
-
-
+                                                     HÖJ-OCH SÄNKBART PARTI I KAMERARUM                                                 
+                                                     ÖPPNINGSBARA PARTIER VID ÖVRIGA MEDIAFUNKTIONER                                           
 
-
+                                                                                                                                                
 
-
-
-
+                                                                                                                                                
+                                                                                                                                               
 
-
-
-
-
-
-
-
-
-Plan 3        
+                                                                                                                                               
+                                                                                                                                        
+  
+ 
+                                                                                                                                           
+                                                                                                                               N    
+                                                                                                                                     Plan 3 
 
-
-
-
-
-
-
+                A             B                                   C
+                                                                                                                                        
+                                                                                                                           
 
-
-[Tabell 73-1](handlingar.tabeller/73-1.csv)
-
-| A B C<br>YTSAMMANSTÄLLNING F<br>50/50<br>Legend Kommersiell B<br>Kommunal<br>Kommunalt<br>Kommersiellt<br>TRAPPHUS<br>Delat<br>FLÄKTRUM-ANNEX<br>E<br>LÄGE OCH TEKNISK LÖSNING FASTIGHETSINDELNING<br>UTREDS I SENARE SKEDE<br>TAKFÖNSTER<br>SCHAKT KONTOR / F K R O D PISCHAKT HISS TRAPPHUS HISS<br>MÖTESRUM MÖTESRUM MÖTESRUM TELEFONRUM TELEFONRUM TELEFONRUM TELEFONRUM<br>RWC/D<br>MINI-STÄD D<br>MÖRKLÄGGNINGSSYSTEM<br>METSYSSGNINGGÄLKRÖM<br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE<br>BOKNINGSBAR LOKAL<br>/CO-WORK /VIP-LOGE <br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE<br>   <br>BOKNINGSBAR LOKAL <br>/CO-WORK<br>/VIP-LOGE<br>TEKNIK-ARENA ÖPPET ÖPPET ÖPPET<br>HC NED NED / B K O O K N N T I R N O G L S L B L A J R U L D O /L K J A U L S NED<br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE<br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE<br><br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE<br><br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE<br>TEKNIK/LJUD/LJUS<br>MINI-STÄD MÖRKLÄGGNINGSSYSTEM<br>LÄKTARE SPORTHALL HC GALLERI YTOR FÖRENINGSLIV M PR IN E S 10 S P E L V A T T . N SE E R D E F Ö PÅ R L S Ä K K R T IV A A R N E D N E KAMERA KO /M M Ö M T E E NTKO /M M Ö M T E E NTS / P M EA Ö K T E E R KON / T M R Ö O T LL E RUM FR / D E L K R A U N M SLI ENTRÉ PENTRY RWC/D KA F N RD SLI KA F N RD SLI<br>HK ARANÄS 7-10p<br>SEMINARIERUM/FOTBOLLS-VIP GREENROOM/ SCHAKT<br>TEKNIK-OMKL, GYM, M.M. BOKN / IN C G O S -W BA O R R K LOKAL SPE / A S K A E M R T / A M L ÖTEKO SE N K T R O E R T / A K R A I N A S T LI K H O K N T A O RA R N /K Ä A S N 4 S p LI K / K K O I A F N N T 2 S O p L R I K / Ö K O A v N r N . T 3 S O p L R I MÖTESR 5 U 0 M p FÖRENING RWC/D ARBE M TS A R T U S M AL P / RESS PENTRY/FOTBOLLS VIP KAMERA YTOR FÖRENINGSLIV/ PAUSRUM .TNEMMOK .TNEMMOK TRAPPHUS HISS KON /S T A R M O T L A LR L UM M / Ö S T A E M S T R A U L M HISS /PENTRY /TV-STUDIO FRD KANSLI TF TF TF TF KA F N RD SLI<br>HÖJ-OCH SÄNKBART PARTI I KAMERARUM   <br>ÖPPNINGSBARA PARTIER VID ÖVRIGA MEDIAFUNKTIONER   <br>  <br>  <br>  <br>  <br>  <br>  <br> <br>SKALA 1:500 (för A3) <br>N <br><br>0 10 20 m 19<br>A B C<br>   <br>  <br>        |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | <br><br>  <br>  <br>   |  |  |  |  |
-|  |  | <br> |  <br>  |  |  |
-|  |  |  |   |  |  |
-|  | <br> |  |  | <br> | <br> |
-|  |  <br> |  |  |  |  |
-|  | <br><br>9 |  |  |  |  |
-|  | <br> <br>  |  |  |  <br> |  |
 
 <!-- sida 74 -->
 
@@ -3923,19 +4298,46 @@ nossnåM
 nérmeS
 ©
 Kungsbacka Arena - Förstudie - 23-12-22
-F
-Alternativ
-E
-D
+Legend
+Kommunalt
+Kommersiellt
+Delat
+SKALA 1:500 (för A3)
+0      10      20 m     20
+LLAHTROPS/ANERA-KINKET
+YTSAMMANSTÄLLNING
+50/50
+ÖPPET
+NED
+ÖPPET
+NED
+GÅNGBRYGGA
+ÖPPET
+NED
+TRAPPHUS                                                      TRAPPHUS
+AGGYRBGNÅG             AGGYRBGNÅG AGGYRBGNÅG
+LANTERNIN
+JUMBOTRON
+GÅNGBRYGGA GÅNGBRYGGA
+SKÄRMTAK FOTBOLLSLÄKTARE
+ERALYKSLEDEMLYK
+A             B                                   C
+F                                                                                                                              F
+Alternativ      B
+E                                                                                                                              E
+D                                                                                                                              D
+
+    
+
 
  
-
-
+                                                                                                  ANNAN PLACERING BEHÖVER
+                                                                                                   UTREDAS I SENARE SKEDE
 
-
+                                                                                                                                           
 
 
-
+                                                                                                                                        
 
 
 
@@ -3953,7 +4355,7 @@ D
 
 
 
-
+                                                  GÅNGBRYGGA
 
 
 
@@ -3963,45 +4365,26 @@ D
 
 
 
+                                                                                                                                         
 
-
-
+                                                                                                                                               
 
-
-
-
-
-
+                                                                                                                                                 
+                                                                                                                                                
+                                                                                                                                               
 
-
-
-
-
-
-
-
-
-Plan 4        
+                                                                                                                                               
+                                                                                                                                        
+  
+ 
+                                                                                                                                           
+                                                                                                                               N    
+                                                                                                                                     Plan 4 
 
-
-
-
-
-
-
+                A             B                                   C
+                                                                                                                                        
+                                                                                                                           
 
-
-[Tabell 74-1](handlingar.tabeller/74-1.csv)
-
-| A B C<br>YTSAMMANSTÄLLNING F<br>50/50<br>Legend B<br>Kommunalt<br>Kommersiellt<br>Delat<br>E<br>D<br>LANTERNIN<br><br>NED<br>ÖPPET    <br>LLAHTROPS/ANERA-KINKET <br>JUMBOTRON<br>ERALYKSLEDEMLYK<br>NED ÖPPET<br>ÖPPET GÅNGBRYGGA<br>NED<br>AGGYRBGNÅG AGGYRBGNÅG AGGYRBGNÅG<br>ANNAN PLACERING BEHÖVER<br>UTREDAS I SENARE SKEDE<br><br><br>GÅNGBRYGGA GÅNGBRYGGA GÅNGBRYGGA<br>TRAPPHUS TRAPPHUS<br>  <br>  <br>SKÄRMTAK FOTBOLLSLÄKTARE   <br>  <br>  <br>  <br>  <br>  <br> <br>SKALA 1:500 (för A3) <br>N <br><br>0 10 20 m 20<br>A B C<br>   <br>  <br>        |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  | <br>   |  |
-|  |   <br>  <br>  <br>  <br>  <br>  <br>   |  |
-|  |  <br> |  |
-|  | <br><br>0 |  |
-|  | <br> <br>  |  <br> |
 
 <!-- sida 75 -->
 
@@ -4012,19 +4395,55 @@ nossnåM
 nérmeS
 ©
 Kungsbacka Arena - Förstudie - 23-12-22
-F
-Alternativ
+SEDUMTAK
+TERRASS
+PLAN 2
+TAK
+TEKNIKRUM
+TAK
+MILJÖRUM
+GLASTAK
+SPO
+T
+R
+A
+T
+K
+H ALL       LAN
+T
+T
+A
 E
-D
+K
+RNIN
+YTA
+FÖR
+SOLCELLER
+INOM
+STRECKAT
+ARENATAK
+SEDUMTAK
+TAK-FOTBOLLSLÄKTARE
+SKALA 1:500 (för A3)
+0      10      20 m     21
+ERALYKSLEDEMLYK
+A             B                                   C
+F                                                                                                                              F
+Alternativ      B
+E                                                                                                                              E
+SEDUMTAK
+D                                                                                                                              D
+
+    
+
 
  
-
-
-
-
+                                                                                                  ANNAN PLACERING BEHÖVER
+                                                                                                   UTREDAS I SENARE SKEDE
+                                                                                                                                           
 
 
-
+                                                                                                                                        
 
 
 
@@ -4052,46 +4471,27 @@ D
 
 
 
+                                                                                                                                         
 
-
-
+                                                                                                                                               
 
-
+                                                                                                                                                
 
-
-
-
+                                                                                                                                                
+                                                                                                                                               
 
-
-
-
- 
- 
-
-Takplan       
+                                                                                                                                               
+                                                                                                                                        
+  
+ 
+                                                                                                                                            
+                                                                                                                               N    
+                                                                                                                                    Takplan 
 
-
-
-
-
-
-
+                A             B                                   C
+                                                                                                                                       
+                                                                                                                           
 
-
-[Tabell 75-1](handlingar.tabeller/75-1.csv)
-
-| A B C<br>F<br>SEDUMTAK B<br>TERRASS<br>PLAN 2<br>TAK<br>TEKNIKRUM<br>E<br>TAK<br>MILJÖRUM<br>GLASTAK<br>SEDUMTAK<br>D<br><br>YTA    <br>FÖR<br>SOLCELLER ERALYKSLEDEMLYK <br>T A K T A K INOM ARENATAK<br>SPO R T H ALL LAN T E RNIN STRECKAT<br>ANNAN PLACERING BEHÖVER<br>UTREDAS I SENARE SKEDE<br><br><br>SEDUMTAK<br>  <br>  <br>TAK-FOTBOLLSLÄKTARE   <br>  <br>  <br>  <br>  <br>  <br> <br>SKALA 1:500 (för A3) <br>N <br><br>0 10 20 m 21<br>A B C<br>   <br>  <br>        |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |   <br>  <br>  <br>  <br>  <br>   |  |  |  |  |
-|  | <br> |  | <br> | <br> |  |
-|  |  <br> |  |  |  |  |
-|  | <br><br>1 |  |  |  |  |
-|  | <br> <br>  |  |  <br> |  |  |
 
 <!-- sida 76 -->
 
@@ -5115,19 +5515,88 @@ nossnåM
 nérmeS
 ©
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19
+IDROTTSTORG
+80000
+BACK of HOUSE
+ENTRÉ -ARTIST/ELITIDROTT
+ENTRÉ -MEDIA/DRIFT/KOMMERS
+ENTRÉ -BORTASUP.
+ENTRÉ -DRIFT FOTBOLLSPLAN
+6/20
+jaktsaL
+BADHUSET
+AKTIVITETSPARK
+ISARENA
+S
+N
+Ä
+R
+G
+\-
+S
+R
+E
+T
+E
+M
+\-
+0
+8
+ISHALL                                                                   INFART BoH
+FRAMTIDA
+MÖJLIG
+BYGGRÄTT
+Miljörummens
+placering beror på
+infartens placering
+BOULEHALLEN
+SPORT-
+ARENA
+ENTRÉ FORRÅD OCH SKYDDSRUM HALLEN
+IDROTTSPARK
+UTFART/ INFART BoH
+ENTRÉ -FOTBOLL
+FOTBOLLARENA
+STALP-PKH
+INFART/UTFART MÅSTE
+UTREDAS OCH
+KVALITETSSÄKRAS VIDARE
+MED KOMMUN OCH
+TRAFIKKONSULT/L
+11 200
+HUVUDENTRÉ VIP/RESTAURANG
+PUBLIK OCH SPORT ENTRÉ
+ENTRÉ -BOH RESTAURANG
+ENTRÉ -BoH/ARENA
+UTBREDNING & UTSEENDE ENLIGT L. GRÄNS OCH PLACERING FÖR
+STÄNGSEL UTREDAS VIDARE
+ENTRÉ-BoH/SCEN
+INFART/UTFART MÅSTE
+UTREDAS OCH
+KVALITETSSÄKRAS VIDARE
+MED KOMMUN OCH
+TRAFIKKONSULT/L
+ENTRÉ GYM ENTRÉ OMKL / SÖDRA PLATSEN SPORTHALL /
+FOTBOLL
+GRÄNS OCH PLACERING FÖR
+STÄNGSEL UTREDAS VIDARE
+031
+51
+HKP-PLATS
+FHK 2023-12-XX
+PLACERING AV HKP- PLATSER MÅSTE UTREDAS
+VIDARE MED KOMMUN OCH
+L/TRAFIKKONSULT                                                                               BET  ÄNDRINGEN AVSER SIGN DATUM
+N
 t
-v
-.0 r
-.2
-e
-id
+v .0 r .2
+e id
 u
 ts
-rö
+rö                                                                                                                                           FÖRSTUDIE
 F
 \-
-a
-n
+a                                                                                                                                         KUNGSBACKA ARENA n
 e
 Ar
 a
@@ -5153,54 +5622,63 @@ g
 n
 u
 K
+/                                                                                                                                      A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00
 /
-/
-:s
-co
 D
-k
-s
-e
-d
-o
-t
-u
-A
-6
-5
-:7
-4
-:0
+:s co                                                                                                                                  K
+E
+?
+?
+?
+?
+T
+T
+E
+E
+L
+L
+\:
+\:
+0
+0
+3
+3
 1
-7
+1
+\-
+\-
 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+k s                                                                                                                                    V ??         TEL: 031-000 00 00
+e d                                                                                                                                    W ??         TEL: 031-000 00 00
+o
+t u                                                                                                                                    L ??         TEL: 031-000 00 00
+A                                                                                                                                      UPPDRAG NR RITAD AV HANDLÄGGARE
+0000-00 DM/HC/RR/FT DM/HC/RR/FT
+6 5                                                                                                                        SKALA 1:1000 (för A3) DATUM A L N Z SV / A M RIG L
+:7
+4                                                                                                                                      NYBYGGNAD AV ARENABYNGGNAD
+:0
+1                                                                                                                                      SITUATIONSPLAN
+7 0 Illustrationsplan - Ursprungligt läge                                                                                  0        25       50 m
 \-
 6
 0
-\-
-4
-2
-0
-2
+\- 4 2 SITUATIONSPLAN                                                                                                                   S A KA 1 LA 1:500 A NUM - MER 01-1-001 BET
+0 2                                                              0 5 10 15 20 25 30 35 40 45 50m                                       A3 1:1000
 SKALA 1:500 I A1 (1:1000 I A3-FORMAT)
-
-[Tabell 95-1](handlingar.tabeller/95-1.csv)
-
-| BADHUSET<br>AKTIVITETSPARK<br>ISARENA<br>S<br>N<br>Ä<br>R<br>G<br>-<br>S<br>R<br>E<br>T<br>E<br>M<br>-<br>0<br>8<br>IDROTTSTORG<br>ISHALL INFART BoH<br>FRAMTIDA INFART/UTFART MÅSTE<br>UTREDAS OCH<br>MÖJLIG KVALITETSSÄKRAS VIDARE<br>MED KOMMUN OCH HKP-PLATS<br>BYGGRÄTT TRAFIKKONSULT/L<br>11 200<br>031<br>Miljörummens<br>placering beror på HUVUDENTRÉ VIP/RESTAURANG 51<br>infartens placering PUBLIK OCH SPORT ENTRÉ<br>BOULEHALLEN<br>ENTRÉ -BOH RESTAURANG<br>80000<br>ENTRÉ -BoH/ARENA<br>BACK of HOUSE SPORT-<br>ARENA<br>ENTRÉ FORRÅD OCH SKYDDSRUM HALLEN UTBREDNING & UTSEENDE ENLIGT L. GRÄNS OCH PLACERING FÖR<br>STÄNGSEL UTREDAS VIDARE<br>FHK 2023-12-XX<br>jaktsaL PLACERING AV HKP- PLATSER MÅSTE UTREDAS<br>ENTRÉ-BoH/SCEN VIDARE MED KOMMUN OCH<br>L/TRAFIKKONSULT BET ÄNDRINGEN AVSER SIGN DATUM<br>INFART/UTFART MÅSTE N<br>IDROTTSPARK UTREDAS OCH<br>ENTRÉ -ARTIST/ELITIDROTT STALP-PKH KVALITETSSÄKRAS VIDARE<br>MED KOMMUN OCH<br>TRAFIKKONSULT/L<br>ENTRÉ -MEDIA/DRIFT/KOMMERS<br>UTFART/ ENTRÉ GYM ENTRÉ<br>OMKL /<br>INFART BoH SÖDRA PLATSEN SPORTHALL /<br>FOTBOLL<br>ENTRÉ -BORTASUP.<br>ENTRÉ -DRIFT FOTBOLLSPLAN FÖRSTUDIE<br>ENTRÉ -FOTBOLL<br>GRÄNS OCH PLACERING FÖR KUNGSBACKA ARENA<br>STÄNGSEL UTREDAS VIDARE<br>FOTBOLLARENA<br>A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00<br>K ?? TEL: 031-000 00 00<br>E ?? TEL: 031-000 00 00<br>V ?? TEL: 031-000 00 00<br>W ?? TEL: 031-000 00 00<br>L ?? TEL: 031-000 00 00<br>UPPDRAG NR RITAD AV HANDLÄGGARE<br>0000-00 DM/HC/RR/FT DM/HC/RR/FT<br>DATUM ANSVARIG<br>SKALA 1:1000 (för A3) LZ/ML<br>NYBYGGNAD AV ARENABYNGGNAD<br>SITUATIONSPLAN<br>6/20 0 25 50 m<br>Illustrationsplan - Ursprungligt läge<br>SITUATIONSPLAN SKALA NUMMER BET<br>A1 1:500 A-01-1-001<br>0 5 10 15 20 25 30 35 40 45 50m A3 1:1000 |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | N<br>FÖRSTUDIE |  |  |  |  |
-|  | KUNGSBACKA ARENA |  |  |  |  |
-|  |  |  |  |  |  |
-|  | A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00 |  |  |  |  |
-|  |  | K | ?? TEL: 031-000 00 00 |  |  |
-|  |  | E | ?? TEL: 031-000 00 00 |  |  |
-|  |  | V | ?? TEL: 031-000 00 00 |  |  |
-|  |  | W | ?? TEL: 031-000 00 00 |  |  |
-|  |  | L | ?? TEL: 031-000 00 00 |  |  |
-|  | UPPDRAG NR<br>0000-00 |  |  | RITAD AV<br>DM/HC/RR/FT | HANDLÄGGARE<br>DM/HC/RR/FT |
-|  | DATUM ANSVARIG<br>LZ/ML |  |  |  |  |
-|  | NYBYGGNAD AV ARENABYNGGNAD<br>SITUATIONSPLAN<br>50 m 6/20 |  |  |  |  |
-|  | SKALA<br>A1 1:500<br>A3 1:1000 |  |  | NUMMER BET<br>A-01-1-001 |  |
 
 <!-- sida 96 -->
 
@@ -5211,19 +5689,88 @@ nossnåM
 nérmeS
 ©
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19
+IDROTTSTORG
+80000
+BACK of HOUSE
+ENTRÉ -ARTIST/ELITIDROTT
+ENTRÉ -MEDIA/DRIFT/KOMMERS
+ENTRÉ -BORTASUP.
+ENTRÉ -DRIFT FOTBOLLSPLAN
+7/20
+jaktsaL
+BADHUSET
+AKTIVITETSPARK
+ISARENA
+S
+N
+Ä
+R
+G
+\-
+S
+R
+E
+T
+E
+M
+\-
+0
+8
+ISHALL                                                                   INFART BoH
+FRAMTIDA
+MÖJLIG
+BYGGRÄTT
+Miljörummens
+placering beror på
+infartens placering
+BOULEHALLEN
+SPORT-
+ARENA
+ENTRÉ FORRÅD OCH SKYDDSRUM HALLEN
+IDROTTSPARK
+UTFART/ INFART BoH
+ENTRÉ -FOTBOLL
+FOTBOLLARENA
+STALP-PKH
+INFART/UTFART MÅSTE
+UTREDAS OCH
+KVALITETSSÄKRAS VIDARE
+MED KOMMUN OCH
+TRAFIKKONSULT/L
+11 200
+HUVUDENTRÉ VIP/RESTAURANG
+PUBLIK OCH SPORT ENTRÉ
+ENTRÉ -BOH RESTAURANG
+ENTRÉ -BoH/ARENA
+UTBREDNING & UTSEENDE ENLIGT L. GRÄNS OCH PLACERING FÖR
+STÄNGSEL UTREDAS VIDARE
+ENTRÉ-BoH/SCEN
+INFART/UTFART MÅSTE
+UTREDAS OCH
+KVALITETSSÄKRAS VIDARE
+MED KOMMUN OCH
+TRAFIKKONSULT/L
+ENTRÉ GYM ENTRÉ OMKL / SÖDRA PLATSEN SPORTHALL /
+FOTBOLL
+GRÄNS OCH PLACERING FÖR
+STÄNGSEL UTREDAS VIDARE
+031
+51
+HKP-PLATS
+FHK 2023-12-XX
+PLACERING AV HKP- PLATSER MÅSTE UTREDAS
+VIDARE MED KOMMUN OCH
+L/TRAFIKKONSULT                                                                               BET  ÄNDRINGEN AVSER SIGN DATUM
+N
 t
-v
-.0 r
-.2
-e
-id
+v .0 r .2
+e id
 u
 ts
-rö
+rö                                                                                                                                           FÖRSTUDIE
 F
 \-
-a
-n
+a                                                                                                                                         KUNGSBACKA ARENA n
 e
 Ar
 a
@@ -5249,54 +5796,63 @@ g
 n
 u
 K
+/                                                                                                                                      A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00
 /
-/
-:s
-co
 D
-k
-s
-e
-d
-o
-t
-u
-A
-6
-5
-:7
-4
-:0
+:s co                                                                                                                                  K
+E
+?
+?
+?
+?
+T
+T
+E
+E
+L
+L
+\:
+\:
+0
+0
+3
+3
 1
-7
+1
+\-
+\-
 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+k s                                                                                                                                    V ??         TEL: 031-000 00 00
+e d                                                                                                                                    W ??         TEL: 031-000 00 00
+o
+t u                                                                                                                                    L ??         TEL: 031-000 00 00
+A                                                                                                                                      UPPDRAG NR RITAD AV HANDLÄGGARE
+0000-00 DM/HC/RR/FT DM/HC/RR/FT
+6 5                                                                                                                        SKALA 1:1000 (för A3) DATUM A L N Z SV / A M RIG L
+:7
+4                                                                                                                                      NYBYGGNAD AV ARENABYNGGNAD
+:0
+1                                                                                                                                      SITUATIONSPLAN
+7 0 Illustrationsplan - Förslagen flytt hus                                                                                0        25       50 m
 \-
 6
 0
-\-
-4
-2
-0
-2
+\- 4 2 SITUATIONSPLAN                                                                                                                   S A KA 1 LA 1:500 A NUM - MER 01-1-001 BET
+0 2                                                              0 5 10 15 20 25 30 35 40 45 50m                                       A3 1:1000
 SKALA 1:500 I A1 (1:1000 I A3-FORMAT)
-
-[Tabell 96-1](handlingar.tabeller/96-1.csv)
-
-| BADHUSET<br>AKTIVITETSPARK<br>ISARENA<br>S<br>N<br>Ä<br>R<br>G<br>-<br>S<br>R<br>E<br>T<br>E<br>M<br>-<br>0<br>8<br>IDROTTSTORG<br>ISHALL INFART BoH<br>FRAMTIDA INFART/UTFART MÅSTE<br>UTREDAS OCH<br>MÖJLIG KVALITETSSÄKRAS VIDARE<br>MED KOMMUN OCH HKP-PLATS<br>BYGGRÄTT TRAFIKKONSULT/L<br>11 200<br>031<br>Miljörummens<br>placering beror på HUVUDENTRÉ VIP/RESTAURANG 51<br>infartens placering PUBLIK OCH SPORT ENTRÉ<br>BOULEHALLEN<br>ENTRÉ -BOH RESTAURANG<br>80000<br>ENTRÉ -BoH/ARENA<br>BACK of HOUSE SPORT-<br>ARENA<br>ENTRÉ FORRÅD OCH SKYDDSRUM HALLEN UTBREDNING & UTSEENDE ENLIGT L. GRÄNS OCH PLACERING FÖR<br>STÄNGSEL UTREDAS VIDARE<br>FHK 2023-12-XX<br>jaktsaL PLACERING AV HKP- PLATSER MÅSTE UTREDAS<br>ENTRÉ-BoH/SCEN VIDARE MED KOMMUN OCH<br>L/TRAFIKKONSULT BET ÄNDRINGEN AVSER SIGN DATUM<br>INFART/UTFART MÅSTE N<br>IDROTTSPARK UTREDAS OCH<br>ENTRÉ -ARTIST/ELITIDROTT STALP-PKH KVALITETSSÄKRAS VIDARE<br>MED KOMMUN OCH<br>TRAFIKKONSULT/L<br>ENTRÉ -MEDIA/DRIFT/KOMMERS<br>UTFART/ ENTRÉ GYM ENTRÉ<br>OMKL /<br>INFART BoH SÖDRA PLATSEN SPORTHALL /<br>FOTBOLL<br>ENTRÉ -BORTASUP.<br>ENTRÉ -DRIFT FOTBOLLSPLAN FÖRSTUDIE<br>ENTRÉ -FOTBOLL<br>GRÄNS OCH PLACERING FÖR KUNGSBACKA ARENA<br>STÄNGSEL UTREDAS VIDARE<br>FOTBOLLARENA<br>A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00<br>K ?? TEL: 031-000 00 00<br>E ?? TEL: 031-000 00 00<br>V ?? TEL: 031-000 00 00<br>W ?? TEL: 031-000 00 00<br>L ?? TEL: 031-000 00 00<br>UPPDRAG NR RITAD AV HANDLÄGGARE<br>0000-00 DM/HC/RR/FT DM/HC/RR/FT<br>DATUM ANSVARIG<br>SKALA 1:1000 (för A3) LZ/ML<br>NYBYGGNAD AV ARENABYNGGNAD<br>SITUATIONSPLAN<br>7/20 0 25 50 m<br>Illustrationsplan - Förslagen flytt hus<br>SITUATIONSPLAN SKALA NUMMER BET<br>A1 1:500 A-01-1-001<br>0 5 10 15 20 25 30 35 40 45 50m A3 1:1000 |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | N<br>FÖRSTUDIE |  |  |  |  |
-|  | KUNGSBACKA ARENA |  |  |  |  |
-|  |  |  |  |  |  |
-|  | A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00 |  |  |  |  |
-|  |  | K | ?? TEL: 031-000 00 00 |  |  |
-|  |  | E | ?? TEL: 031-000 00 00 |  |  |
-|  |  | V | ?? TEL: 031-000 00 00 |  |  |
-|  |  | W | ?? TEL: 031-000 00 00 |  |  |
-|  |  | L | ?? TEL: 031-000 00 00 |  |  |
-|  | UPPDRAG NR<br>0000-00 |  |  | RITAD AV<br>DM/HC/RR/FT | HANDLÄGGARE<br>DM/HC/RR/FT |
-|  | DATUM ANSVARIG<br>LZ/ML |  |  |  |  |
-|  | NYBYGGNAD AV ARENABYNGGNAD<br>SITUATIONSPLAN<br>50 m 7/20 |  |  |  |  |
-|  | SKALA<br>A1 1:500<br>A3 1:1000 |  |  | NUMMER BET<br>A-01-1-001 |  |
 
 <!-- sida 97 -->
 
@@ -5465,161 +6021,141 @@ N
 nossnåM
 & nérmeS
 ©
-Y
-Kungsbacka Arena - Förstudie 2.0 - 24-06-19
-HUVUDENTRÉ
-PUBLIK OCH SPORT
+YTSAMMANSTÄLLNING
+50/50
+Kungsbacka Arena - Förstudie 2.0 - 24-06-19            Kommersiell
+Kommunal
+OBS!                             Förklaring
+YTSAMMANSTÄLLNING
+50/5500/50
+KoKmmoemrsiemll ersiellt
+KoKmmoumnalmunal
+HUVUDENTRÉ  VIP/RESTAURANG
+PUBLIK OCH SPORT ENTRÉ
 A8
 A7/8
-A8
-TIC A K L E T T A1 R7IP/8
-A7
-FOAJÉ
-453,7 m²
-A7
-INFODISK/DR 32,3 m²
+TRAPPHUS A8 23,1 m² A7/8 A7 4 F 5 O 3, A 7 J m É ² M 1 E 4 Z 1, Z 6 A m N ² IN HISS TR 2 A 3 P ,1 P m H ² US 12 W ,0 C m² KOMMER 5 S P6 I 8A E 5 ,S 1 2 L , 6 S L m A m / ² G K ² E ONTOR 14 W ,0 C m² SC 6, H 0 A m K ² T HISS TR 2 A 3 P ,1 P m H ² US A7
+INFO 3 D 2 I , S 3 K m /D ² RIFT                                                    T 11 E 0 K ,3 N m IK ²
 A6
-SKYDDSRUM/RE 99 H ,8 A B m G ² YM/GARDERÅB A6V 6 IL ,1 R m U ² MR 5 W ,0
-ENTRÉ FORRÅD
-OCH SKYDDSRUM
-A5                               20 W ,1 C m² HA1N4 F ,D8 R B D mO²LL HA1N3 F ,D8 R B D mO²LL 4 R ,
-OC E H N T S R K É Y D F D O S R R R U Å M D SKYDDS 2 R 2 U ,5 M m / ² FÖRRÅD A5
-OMKL
-HA1N1 F ,D0 R B D mO²LL HA1N0 F ,D9 R B D mO²LL HA1N0 F ,D R 1 B D mO²LL 1 S 5, T 3 Ä m D ²
-A4                     RWC/D   RWC/D
-4,8 m²  4,8 m²
-OMKL. A1 OC E H N T S R K É Y D F D O S R R R U Å M D SKYDDSRUM/FO 9 R 9 R ,8 Å m D ² FOTBOLL / GYM O 3 M 9 K ,7 L . m A ² 1 A4 39,6 m²
-OMKL. A2 OMKL. A2 45,1 m²t 44,9 m²
-A3            PASSAGE      v .0 r 60,6 m² .2
-e
-id
-O 3 M 9 K ,6 L . m A ² 1u ts A3O 3 M 9 K ,6 L . m A ² 1 rö
-RWC/D F RWC/D 4,8 m² - 4,8 m² A2 a n
-e
-FR 7, D 4 N m² IU Ar
-a HISS TR 2 A 3 P ,1 P m H ² US k ca A2 b s g n A1 u
-K / ENTRÉ GYM a n A1/6
-e
-E
-O
-N
-M
-T
-K
-R
-L
-É
-/
-Ar
-A1
-SPO F R O T T H B A O LL L L / a k ca
+SKYDDSRUM/RE 99 H ,8 A B m G ² YM/GARDERÅB A6 A5        KOMMERSIE 19 L 3 L ,5 / F m Ö ² RENINGAR RWC 4,8 m²
+FHK 2023-12-XX SKYDDS 2 R 2 U ,5 M m / ² FÖRRÅD A5
+A4                               1 S 5, T 3 Ä m D ²
+ÖPPETNED                     ÖPPETNED
+SCEN                                           BET  ÄNDRINGEN AVSER SIGN DATUM
+FÖRSTUDIE 2.0 -WORK IN PROGRESS                                                          N SKYDDSRUM/FORRÅD FOTBOLL / GYM OMKL. A1 99,8 m² 39,7 m² A4
+OMKL. A2 45,1 m²t A3 v .0 r .2 id e                         BACK 8 3 O ,9 F m H ² OUSE O 3 M 9 K ,6 L . m A ² 1u ts A3 - rö F ANT 29 ID ,5 O m P ² ING PRO 1 D 9, . 5 O m F ² FICE E 1 L 2 - ,1 R U m² M PA 68 S , S 5 A m G ² E FÖRSTUDIE A2 a n e PASSAGE/MIXED ZONE ENTRÉ -ARTIST/ELITIDROTT KOM 9 M 7, E 9 R m S ² IELL KUNGSBACKA ARENA
+Ar                      OMKL. D        WC              65,8 m² TR 2 A 3 P ,1 P m H ² US a k ca b s g n A2 /ENSE2M9,B5 LmE²LOGE 1 S 4 T ,0 Ä D m² /ENSP O E2AM M 4S,B K 8S L L AmE . G² E 1 L 9 EO 2 , G/ 6 M E m E ² ZZANIN 15,0 m² M P T R R IN2 E A 3 S P 1, P 10 S P A 3 m H P 5 E S ² , U L V 4 S A S T A m T . G ² S N E E E R D E F M Ö P A Ö V R Å M C T 9 IL ,K E L SE9 R Ä S R KD U m K R R E I M A² T D U IV A / M . A R / N E D N P E ERS 2/P O 3F,A N 5RU A 8 DmS , L ² 4 M R m E U ² D M IA KA 7, M 8 E m R ² A KO / E 6M M ,6Ö P N M A 5 mT E 3T S ²E N , S 8R T A m G É² K E O /4M - M ,5Ö M M Tm E E² E NT D SP / I 4M E A ,8Ö A / K Tm D E E ² R RIF K T O / N K T /9M R O ,9Ö O M Tm L E L ² R M UM ERS FR /E D 6L, 3 K R A Um N ²M SLI ENTR 3 É 1, 1 P m E ² NTRY A1 e Ar u K / a n A1/6 1 T 7 E 9 K ,7 N m IK ² TR 2 A 3 P ,1 P m H ² US R H 7 W , I 2 S C S m / ² D LOU 50 N ,8 G E m ² YTA KOMMERSIE 46 L 6 L , 3 / F m Ö ² RENINGAR R 4 W ,8 C m / ² DPA 5 S ,4 S A m G ² E 1 1 , , W W 8 8 C C m m ² ² HISS TR 2 A 3 P ,1 P m H ² US A1 a k ca
 b s g
 n u
-B2     A18    A19   K /A20 / :s co
-D
-k s
-e
-d o
-t
-u A
-9
-4
+B2     A18    A19   K /A20  A21    B10    B11    B12    B13    B14    B15     B16   A22                                                                    A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00 / D :s co SPELARBÄNK MED TAK K E ? ? ? ? T T E E L L : : 0 0 3 3 1 1 - - 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+k s         B2     A18    A19    A20    A21    B10    B11    B12    B13    B14    B15    B16    A22                                    V ??         TEL: 031-000 00 00 e d W ?? TEL: 031-000 00 00 o t u L ?? TEL: 031-000 00 00 A UPPDRAG NR RITAD AV HANDLÄGGARE 0000-00 DM/HC/RR/FT DM/HC/RR/FT
+9 4                                                                                                                                    DATUM A L N Z SV / A M RIG L
 :3
-5 :5 1 7 0 -
+5                                                                                                                                      NYBYGGNAD AV ARENABYGGNAD :5 1 PLAN 12 -VÅNING 3 7 0 -
 6
-0 - 4 PLAN 3
-2
-0
-2                                                                             SKALA 1:500 (för A3)
+0 - 4 2 PLAN 3                                                                                                                         S A KA 1 LA 1:250 A NUM - MER 40-1-300 BET
+0 2                                                              0   5   10  15 SKAL 2 A 0 1:500 ( 2 fö 5m r A3)                       A3 1:500
 SKALA 1:250 I A1 (1:500 I A3-FORMAT)
 0      10      20 m    9/20
 Plan 1 - Entréplan
+&-DNAH TTÄ²VmT 7L,L4OB DRF LLOB²mT O0F,1T1ILE &-DNAH TTÄ²VmT 5L,L4OB
+STORKÖK 96,9 m²
+MÖTESRUM 12,3 m²
+WC 20,1 m² HA1N4 F ,D8 R B D mO²LL HA1N3 F ,D8 R B D mO²LL 32 W ,9 C m²
+FRD FRD HA1N0,D9 BmO²LL HA1N0,D1 BmO²LL
+FRD HANDBOLL 7,8 m² PASSAGE 60,6 m² FRD MA 10 S ,7 S A m G ² E VÄNTRUM ARE /B N S O2 A T5R M O,D6 A L mO A T ²R E C R H IAL
+FR 7, D 4 N m² IU   4 R ,8 W m C ² M M6 A ,4Ö T C TmE H ² - HISS OMKL. E /ENSE2M5,B6 LmE²LOGE
 TROP
+YTSAMMANSTÄLLNING BTA
+50/50
+Kommersiell
+Kommunal
+MILJÖRUM
+23,5 m²
+KONTOR 12,2 m² PASSAGE TICKET RIP 30,4 m² GODSMOTTAK ALT 1 O 13 M ,0 K m L ² . O 12 M ,6 K m L ² . 6 F ,0 R m D ² 5 F , R 9 Y m S ² 5 K ,8 Y m L ²UTS F 6L, E U2 T Tm T N² - ING KO29M,2M Em²RS RWCPASSAGE 4,8 m² 6,9 m² WC 18,2 m² 6, W 6 C m² 2 S , T 6 Ä m D ²
+ENTRÉ -BoH/ARENA
+V 6 IL ,1 R m U ² MR 5 W ,0 C m / ² D ENTRÉ FORRÅD OCH SKYDDSRUM +1,1m
+ENTRÉ FORRÅD OCH SKYDDSRUM OMKL
+FRD                                                                                              BOH-PLAN, HA1N1,D0 BmO²LL UTBREDNING & RWC/D RWC/D UTSEENDE ENLIGT L.
+4,8 m²  4,8 m² OMKL. A1 ENTRÉ FORRÅD 39,6 m² OCH SKYDDSRUM
+OMKL. A2                                                    LASTKAJ 44,9 m² OMKL. A1 39,6 m² LYFTBORD R 4 W ,8 C m / ² D R 4 W ,8 C m / ² D TE 11 L , E 8 R m U ² M
+RWC/D 4,8 m² OMKL. D/ CRE24W,8 R mO²OM ENTRÉ GYM ENTRÉ OMKL / SPORTHALL / FOTBOLL
+ENTRÉ -BORTASUP. SPELARTUNNEL
+ENTRÉ -DRIFT FOTBOLLSPLAN TROP
 ?gninllätslåm artxE
-VINDFÅNG / TICKETRIP
-16,8 m²
+FRD NIU 14,9 m²
+HCO-HCTAM TAGELED²mS T6E,7HREKÄS DRF LLOB²mT O1,F11TILE DRF LLOB²mTO 6F,8TILE
+STAKET
+SÄKERHETSGRÄNS
+KATMRÄKS
+30,1 m² MILJÖRUM
+12 000
+TVÄTT 13,7 m²     OMKL. C 23,1 m²
+OMKL. OMKL. 1D4R,2I FmT² 1D4R,2I FmT² LÄKARE/ MEDICINSK 11R,2U mM²
+005 62
+PLATSERING AV MILJÖRUM BEROR PÅ
+LÖSNING FOR INFART
+VINDFÅN 16 G ,8 / T m I ² CKETRIP TR 1 A 6 P ,3 P m H ² US VIND 9 F ,7 Å N m G ² VIP RESTAURANG 347,4 m² BACK OF HOUSE 79,1 m²
+EL-TRUCK
 GARDERÅB / KIOSK MERCH / KIOSK MERCH / KIOSK 20,3 m² 20,1 m² 21,1 m²
 FOAJÉ
 140,6 m²
-FRD NIU 14,9 m²
-D D D   D D
-D D WC  D D
-GYM 409,8 m²
-PASSAGE
-82,2 m²
-WCWC GYM / ENTRÉ 2,3 m2²,3 m²
-121,0 m²
-A1/6
-STAKET
-SÄKERHETSGRÄNS
-7 x IRU 4 x FH
+FAST SCEN 318,0 m²
+ARENA PLAN 1
+1417,7 m²
+D D D   D D D
+D D WC  D D WC                                                    PA 4 S 1,0 S A m G ² E FRD ELITHANDBOLL 14,0 m²
+ENTRÉ -BoH/SCEN PASSAGE 27,8 m² +1,1m GYM 409,8 m² AR O T1 M 5IS, K 5T L Lm . O ² B G / E AR O T2 M I1S, K 6T L Lm . O² C G / E TEKNIK 15 / , L 7 J U m D ² /LJUS PASSAGE 82,2 m²
+GYM 12 1 / , 0 E N m T ² RÉ 2, W 3 C m2², W 3 C m² CR O E3 M W0, K 5 L Rm . O ² D O / M /ENS O E3M M 0,B K 5 L L mE . ² E LOGE /ENS O E2M M 9,B K 5 L L mE . ² E LOGE OMKL. D A1/6 /ENSE2M5,B6 LmE²LOGE Ramp +0,5m
+SPELARBÄNK MED TAK
+7 x IRU 4 x FH 8 x FH
 HF      HF
-HF D D
-D D
+HF D D D D WC
 ROKSETU RODIRROK
-HF D D HWC/D HWC/D
-D D WC
-HF      HF
-D D WC  D D D D D D D
-D
-D D
-STALP-PKH
-STALP-PKH
-A                 B
+HF x4
+HF D D HWC/D HWC/D D D WC WC HF HF HF D D WC D D WC D D D D D D
+D D    WC    WC     D D D D  WCWC    D D                HF D D HWC/D WC WC HF D D D D HWC/DWC HF D D HF HF D D WC WC D D D D WCWC D D WC D D WC
+2x FH        HF HF WCDWCD Uri x4
+WC D D HWC DWC STALP-PKH STALP-PKH
+FRD ELITHANDBOLL 13,7 m²
+PASSAGE 47,6 m²        PASSAGE/SPELARTUNNEL 212,7 m²
+HWC D OMKL. B 16,3 m²
+003 3
+2 600
+2 400
+2 400                            2 600
+006 2
+007
+2
+3 350  2 600
+Möjligt att bygga fotbollsläktaren i flera etapper, och denna del slutligen. Ca. 500 + 500 platser.
+005
+1000 3 000 4
+Arean i varje rum på planritningarna avser rumsytan BTA ca 990 m2
+A                 B                               C     innanför omslutande väggar och ger en annan
+BTA ca 1340 m2
+totalsumma än räknemetoden för BTPALA Ns 1om anges
+BTA-sammanställningen intill.                BTA ca 3870 m2
+994 m2
+1.338 m2
+3.867 m2
 +2,5m
-E
-TICKET RIP
-ALT 2 3 350 D
+E                                        PUB 5, L 4 I K m H ² ISS                  HISS   PAUSR 13 U ,6 M / m V ² ILRUM        E +2,5m ENTRÉ -BOH RESTAURANG
+TIC A K L E T T 2 RIP T A IC L . T R 2 IP                                                                 FHK 2023-12-XX D D
+BET  ÄNDRINGEN AVSER SIGN DATUM FÖRSTUDIE 2.0 -WORK IN PROGRESS N
 +2,5m
 tv 0.r .2
-e di
-u ts rö
-F
-\-
-n a                       PA 47 S , S 6 A m G ² E e rA
-a k ca
-b
-s g                                  HWC
-n
-u K                                 D / a OMKL. B n 16,3 m² e A
-a
-r                +2,5m
-k ac                          +2,5m
-b
-s
-g n
-u K /
-/ s: co
-D
-k s e d o
-tu    LJUSMAST
-A
-8
-5 :0
-0
-:2
-1
-4
+e di u ts rö                                                                                                                                 FÖRSTUDIE F - a KUNGSBACKA ARENA n e rA a k ca b +2,5m
+s g n u K                                                                         FRD / a 4,7 m² HISS n e A a r +2,5m k ac +2,5m +2,5m b s g n u K / A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00
+/ s:                                                                                                                                    K ??        TEL: 031-000 00 00 co
+D                                                                                                                                       E ??        TEL: 031-000 00 00
+k s                                                                                                                                     V ??        TEL: 031-000 00 00 e d HC W ?? TEL: 031-000 00 00 o tu LJUSMAST LJUSMAST L ?? TEL: 031-000 00 00
+A                                                                                                                                      UPPDRAG NR RITAD AV HANDLÄGGARE 0000-00 DM/HC/RR/FT DM/HC/RR/FT Körbar yta för drift och lyft DATUM ANSVARIG 8 LZ/ML :2 0 :0 5 5 FLAGGSTÄNGER N P Y LA B N Y G 1 G 0 N - AD E N A T V R É A P R LA EN N ABYGGNAD
+1 4                                               105 000                                    5 000 2 000
 2
-0 2 .6 PLAN 1 - ENTRÉPLAN 0 .2 1
-A                 B
+0 2 0 .6 PLAN 1 - ENTRÉPLAN                                              Skrafferade delar av fotbollsläktare                          S A KA 1 LA 1:250 A NUM - MER 40-1-100 BET .2 0 5 10 15 20 25m A3 1:500 1 är med i förstudiekalkyl. Kan plockas
+A                 B                              SKCALA 1:250 I A1 (1:500 I A3-FORMAT) bort och utföras i senare skede
 N
-
-[Tabell 98-1](handlingar.tabeller/98-1.csv)
-
-| TSAMMANSTÄLLNING<br>50/50<br>Kommersiell<br>Kommunal<br>OBS! Förklaring<br>YTSAMMANSTÄLLNING<br>50/5500/50 Arean i varje rum på planritningarna avser rumsytan BTA ca 990 m2<br>C innanför omslutande väggar och ger en annan<br>KoKmmoemrsiemll ersiellt BTA ca 1340 m2<br>YTSAMMANSTÄLLNING BTA totalsumma än räknemetoden för BTPALA Ns 1om anges<br>KoKmmoumnalmunal BTA-sammanställningen intill. BTA ca 3870 m2<br>50/50 994 m2<br>Kommersiell 1.338 m2<br>Kommunal 3.867 m2<br>VIP/RESTAURANG<br>ENTRÉ PLATSERING AV MILJÖRUM BEROR PÅ<br>LÖSNING FOR INFART<br>MILJÖRUM<br>23,5 m²<br>TRAPPHUS 23,1 m² STORKÖK KONTOR 12,2 m² TR 1 A 6 P ,3 P m H ² US VIND 9 F ,7 Å N m G ² VIP PUB 5, L 4 I K m H ² ISS HISS PAUSR 13 U ,6 M / m V ² ILRUM E<br>96,9 m² PASSAGE 30,4 m² GODSMOTTAK O M K L . O M K L . F R D F R Y S K Y L F E T T - KO29M,2M Em²RS 30,1 m² MILJÖRUM RESTAURANG 347,4 m²<br>M 1 E 4 Z 1, Z 6 A m N ² IN HISS TR 2 A 3 P ,1 P m H ² US 12 W ,0 C m² KOMMER 5 S P6 I 8A E ,S2 L S L m A / ² G K E ONTOR 14 W ,0 C m² SC 6, H 0 A m K ² T HISS TR 2 A 3 P ,1 P m H ² US 51,6 m² 13 ,0 m ² 12 ,6 m ² 6 ,0 m ² 5 , 9 m ² 5 ,8 m ²UTS 6L, U2 Tm N² ING RWCPASSAGE 4,8 m² 6,9 m² WC 18,2 m² HF x4 HF HF 006 +2,5m ENTRÉ -BOH RESTAURANG<br>6, W 6 C m² 2 S , T 6 Ä m D ² BACK OF HOUSE 79,1 m² 2x FH WCDWCD Uri x4 2 600 2<br>ENTRÉ -BoH/ARENA EL-TRUCK 2 400<br>IFT T 11 E 0 K ,3 N m IK ² MÖTESRUM 12,3 m²<br>C/D<br>m²<br>KOMMERSIELL / FÖRENINGAR +1,1m FAST SCEN 318,0 m² 8 x FH T A IC L . T R 2 IP FHK 2023-12-XX<br>193,5 m²<br>WC 8 m² WC 32,9 m² 2 600 D<br>ARENA PLAN 1<br>FHK 2023-12-XX 005 1417,7 m² 003 BET ÄNDRINGEN AVSER SIGN DATUM<br>ÖPPETNED ÖPPETNED KATMRÄKS 62 3 FÖRSTUDIE 2.0 -WORK IN PROGRESS N<br>BOH-PLAN,<br>SCEN BET ÄNDRINGEN AVSER SIGN DATUM UTBREDNING & UTSEENDE ENLIGT L. D FRD ELITHANDBOLL 13,7 m²<br>FÖRSTUDIE 2.0 -WORK IN PROGRESS N WC PA 4 S 1,0 S A m G ² E<br>12 000<br>FRD ELITHANDBOLL<br>14,0 m²<br>LASTKAJ<br>FRD HANDBOLL<br>7,8 m²<br>ENTRÉ -BoH/SCEN<br>FÖRSTUDIE<br>BACK OF HOUSE 83,9 m² TVÄTT 13,7 m² WC 2 400 2 600<br>ANT 29 ID ,5 O m P ² ING PRO 1 D 9, . 5 O m F ² FICE E 1 L 2 - ,1 R U m² M PA 68 S , S 5 A m G ² E FÖRSTUDIE &-DNAH TTÄ²VmT 7L,L4OB DRF LLOB²mT O0F,1T1ILE &-DNAH TTÄ²VmT 5L,L4OB FRD MA 10 S ,7 S A m G ² E VÄNTRUM ARE /B N S O2 A T5R M O,D6 A L mO A T ²R E C R H IAL LYFTBORD TELERUM 11,8 m² HCO-HCTAM TAGELED²mS T6E,7HREKÄS DRF LLOB²mT O1,F11TILE DRF LLOB²mTO 6F,8TILE OMKL. C 23,1 m² PASSAGE 27,8 m² +1,1m AR O T1 M 5IS, K 5T L Lm . O ² B G / E AR O T2 M I1S, K 6T L Lm . O² C G / E TEKNIK 15 / , L 7 J U m D ² /LJUS WC HF WC D WC D D HWC DWC KUNGSBACKA ARENA<br>KOMMERSIELL KUNGSBACKA ARENA PASSAGE/MIXED ZONE ENTRÉ -ARTIST/ELITIDROTT 97,9 m² PASSAGE/SPELARTUNNEL 212,7 m² 007 +2,5m<br>OMKL. D WC 65,8 m² /ENSE2M9,B5 LmE²LOGE 15,0 m² VILRUM/ 1 S 4 T ,0 Ä D m² /ENSP O E2AM M 4S,B K 8S L L AmE . G² E 1 L 9 EO 2 , G/ 6 M E m E ² ZZANIN M P T R R IN2 E A 3 S P 1, P 10 S P A 3 m H P 5 E S ² , U L V 4 S A S T A m T . G ² S N E E E R D E F M Ö P A Ö R Å M C T 9 ,K E L SE9 Ä S R KDm K R R E IA² T D U IV A M . A R / N E D N P E ERS 2/P O 3F,A N 5RU A 8 DmS , L ² 4 M R m E U ² D M IA KA 7, M 8 E m R ² A KO / E 6M M ,6Ö P N M A 5 mT E 3T S ²E N , S 8R T A m G É² K E O /4M - M ,5Ö M M Tm E E² E NT D SP / I 4M E A ,8Ö A / K Tm D E E ² R RIF K T O / N K T /9M R O ,9Ö O M Tm L E L ² R M UM ERS FR /E D 6L, 3 K R A Um N ²M SLI ENTR 3 É 1, 1 P m E ² NTRY RWC MATCH- 4,8 m² M6,4Ö TmE² OMKL. E /ENSE2M5,B6 LmE²LOGE RWC/D 4,8 m² OMKL. D/ CRE24W,8 R mO²OM OMKL. OMKL. 1D4R,2I FmT² 1D4R,2I FmT² LÄKARE/ MEDICINSK 11R,2U mM² CR O E3 M W0, K 5 L Rm . O ² D O / M /ENS O E3M M 0,B K 5 L L mE . ² E LOGE /ENS O E2M M 9,B K 5 L L mE . ² E LOGE OMKL. D /ENSE2M5,B6 LmE²LOGE D WC WC D D D D WCWC D D HF D HWC/D WC WC HF D D D D HWC/DWC HF D D HF HF D WC WC D D D D WCWC D D WC D D WC 2 FRD 4,7 m² HISS<br>1 T 7 E 9 K ,7 N m IK ² TR 2 A 3 P ,1 P m H ² US HISS LOUNGE YTA KOMMERSIE 46 L 6 L , 3 / F m Ö ² RENINGAR R 4 W ,8 C m / ² DPA 5 S ,4 S A m G ² E 1 1 , , W W 8 8 C C m m ² ² HISS TR 2 A 3 P ,1 P m H ² US +2,5m<br>50,8 m²<br>RWC/D<br>7,2 m² Ramp<br>+0,5m<br>Möjligt att bygga fotbollsläktaren i flera etapper,<br>och denna del slutligen. Ca. 500 + 500 platser.<br>A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00<br>K ?? TEL: 031-000 00 00<br>E ?? TEL: 031-000 00 00<br>A21 B10 B11 B12 B13 B14 B15 B16 A22 A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00 SPELARBÄNK MED TAK K ?? TEL: 031-000 00 00 E ?? TEL: 031-000 00 00 ENTRÉ -BORTASUP. SPELARTUNNEL SPELARBÄNK MED TAK 005 V ?? TEL: 031-000 00 00 HC W ?? TEL: 031-000 00 00 LJUSMAST L ?? TEL: 031-000 00 00<br>1000 UPPDRAG NR RITAD AV HANDLÄGGARE<br>B2 A18 A19 A20 A21 B10 B11 B12 B13 B14 B15 B16 A22 V ?? TEL: 031-000 00 00 TROP ENTRÉ -DRIFT FOTBOLLSPLAN 0000-00 DM/HC/RR/FT DM/HC/RR/FT Körbar yta för drift och lyft<br>W ?? TEL: 031-000 00 00 3 DATUM ANSVARIG<br>L ?? TEL: 031-000 00 00 000 LZ/ML<br>UPPDRAG NR RITAD AV HANDLÄGGARE 0000-00 DM/HC/RR/FT DM/HC/RR/FT 4 NYBYGGNAD AV ARENABYGGNAD 5 FLAGGSTÄNGER PLAN 10 -ENTRÉPLAN<br>DATUM ANSVARIG LZ/ML 105 000 5 000 2 000<br>NYBYGGNAD AV ARENABYGGNAD<br>PLAN 12 -VÅNING 3 Skrafferade delar av fotbollsläktare S A KA 1 LA 1:250 A NUM - MER 40-1-100 BET<br>0 5 10 15 20 25m A3 1:500<br>är med i förstudiekalkyl. Kan plockas<br>SKCALA 1:250 I A1 (1:500 I A3-FORMAT)<br>SKALA NUMMER BET bort och utföras i senare skede<br>A1 1:250 A-40-1-300<br>0 5 10 15 20 25m A3 1:500 |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | BET ÄNDRINGEN AVSER SIGN DATUM<br>N |  |  |  |  |
-|  | FÖRSTUDIE<br>KUNGSBACKA ARENA |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  | A<br>K<br>E | Semrén & Månsson / Hille Melbye TEL: 031-743 02 00<br>?? TEL: 031-000 00 00<br>?? TEL: 031-000 00 00 |  |  |
-|  |  | V | ?? TEL: 031-000 00 00 |  |  |
-|  |  | W | ?? TEL: 031-000 00 00 |  |  |
-|  |  | L | ?? TEL: 031-000 00 00 |  |  |
-|  | UPPDRAG NR<br>0000-00 |  |  | RITAD AV<br>DM/HC/RR/FT | HANDLÄGGARE<br>DM/HC/RR/FT |
-|  | DATUM ANSVARIG<br>LZ/ML |  |  |  |  |
-|  | NYBYGGNAD AV ARENABYGGNAD<br>PLAN 12 -VÅNING 3 |  |  |  |  |
-|  | SKALA<br>A1 1:250<br>A3 1:500 |  |  | NUMMER BET<br>A-40-1-300 |  |
 
 <!-- sida 99 -->
 
@@ -5637,51 +6173,109 @@ Kommersiell
 Kommunal
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19            Kommersiell
 Kommunal
+OBS!                             Förklaring
+YTSAMMANSTÄLLNING
+50/5500/50
+KoKmmoemrsiemll ersiellt
+KoKmmoumnalmunal
 A8
 A7/8
-ÖPPET NED      A8   HISS TR 2 A 3 P ,1 P m H ² US 21 W ,0 C m² 7 R ,4 W m C ² 1 K 3 I , O 9 S m K ²
+ÖPPET NED      A8               7 R ,4 W m C ² 1 K 3 I , O 9 S m K ² 1 K 4 I , O 0 S m K ² S 2 C ,8 H A m K ² T TR 2 A 3 P ,1 P m H ² US W 19 C ,3 U m N ² I
 A7/8
-A7                                       MEZZANIN
-141,6 m²
-FRD SPORTHALLEN
-14,6 m² A7
-PUBLIKYTA
-307,4 m²
+A7                                       M 1 E 4 Z 1, Z 6 A m N ² IN HISS TR 2 A 3 P ,1 P m H ² US 12 W ,0 C m² KOMMER 5 S 6 I 8 E ,2 L L m / ² KONTOR 14 W ,0 C m² SC 6, H 0 A m K ² T HISS TR 2 A 3 P ,1 P m H ² US
+A7
+TEKNIK 110,3 m²
 A6
-SON
-A6PO F P Ö - R UP
-EVENTS
-A5
-SPORTHALL 1171,5 m² A5 HC
+A6
+A5                                                              KOMMERSIE 19 L 3 L ,5 / F m Ö ² RENINGAR
+SPORTHALL                                                                                                                                             FHK 2023-12-XX 1171,5 m² A5 HC
 A4
-SON
-A4PO F P Ö - R UP
-EVENTS
+ÖPPETNED                     ÖPPETNED
+SCEN                                           BET  ÄNDRINGEN AVSER SIGN DATUM
+FÖRSTUDIE 2.0 -WORK IN PROGRESS
+N
+A4
 t A3 v .0 r
 .2
 e id u ts A3
-rö
-F
-\- A2 a A1/6 PENTRY 2 0 M ,0 E S m S ² OR O.L F . RD 3 H 9 A ,9 N m D ² BOLL FR F D Ö S R2 P E 2 0 F O 2 ,N R 2 ,6 R I D Nm T m G² H ² A A R LLEN FRD S 6 I C 1 N , 6 4 H N , 0 A E m K m ² B T ² ANDY T 4 R R , 2 8 A W 3 P , m C 1 P ² m H ² US PA 25 S ,4 S n a e k Ar ca b s A H m G ² IS E S VINDFÅN 2 G 9, 9 / T A m I ² C 2 KETRIP SEMINARIER 6 U 7 M ,0 /F m O ² TBOLLS-VIP BØ M T I6N T ,2 E IS K mT O ²Ä T D T / 23 W , A 2 C R m E ² 9 N 5 A 3, 1 P m LA ² N 2 25 W ,9 C m² SJUKV 12 Å ,6 R D m² S g RWC A1 n u K 5,5 m² 1 T 7 E 9 K ,7 N m IK ² / a n A1/6 e Ar
-a k HC A1   KOMMENSETKRETARIASTPEAKER KAMERA KONTROLLRUM / MÖT ca
-b s g n u B2 A18 A19 K /A20 A21 B10 B11 / :s
-co
+rö                                                                                             PASSAGE                                       FÖRSTUDIE
+F                                                                                              68,5 m²
+\- A2 FRD FRD INNEBANDY PASS a n eAGE                                                     KOM 9 M 7, E 9 R m S ² IELL                      KUNGSBACKA ARENA FÖR2E0,N2 INmG²AR 16,0 m² 4 R ,8 W m C ² 25,4Ar m² 15 W ,0 C m² a FRD SP 2 O 2,6 R T m H ² ALLEN S 6 C ,4 H A m K ² T TR 2 A 3 P ,1 P m H ² US k ca b s g n HISS A2 1 S 4 T ,0 Ä D m² PASSAG 19 E 2 , / 6 M m E ² ZZANIN M PR IN E T S 1 R 0 S 2 A 3 P P E ,1L P V Am H T T² . U S N S E E R D E F Ö P 6 R Å R ,6 W L S Ä m K C K ² R T IV A A R N E D N E FR 8 D , 4 M m E ² DIA KA 7, M 8 E m R ² A KO /6M M ,6Ö P M A 5 mT E 3 S ²E N , S 8 T A m G ² K E O /4M M ,5Ö M Tm E E² NTSP /4M E ,8Ö A K TmE E ² R KONT /9M R ,9Ö O Tm L E L ² RUM FR /E D 6L, 3 K R A Um N ²M SLI ENTR 3 É 1, 1 P m E ² NTRY A1 e Ar u K / a n A1/6 1 T 7 E 9 K ,7 N m IK ² TR 2 A 3 P ,1 P m H ² US R H 7 W , I 2 S C S m / ² D LOU 50 N ,8 G E m ² YTA KOMMERSIE 46 L 6 L , 3 / F m Ö ² REN H IN C GAR R 4 W ,8 C m / ² DPA 5 S ,4 S A m G ² E 1 1 , , W W 8 8 C C m m ² ² HISS TR 2 A 3 P ,1 P m H ² US
+A1 a k ca HC            20 PL M. BORD, MEDIA       B C O A. R 1 T 0 A 0 S P U L P A P T O S R E T R
+b s g n u B2 A18 A19 K /A20 A21 B10 B11 B12 B13 B14 B15   B16   A22                                                                    A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00 /
 D
-k s         B2     A18    A19 e d o t u
-A
-9
-4
-:3 5
-:5 1
+:s co                                                                                                                                  K
+E
+?
+?
+?
+?
+T
+T
+E
+E
+L
+L
+\:
+\:
+0
+0
+3
+3
+1
+1
+\-
+\-
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0 k s B2 A18 A19 A20 A21 B10 B11 B12 B13 B14 B15 B16 A22 V ?? TEL: 031-000 00 00 e d W ?? TEL: 031-000 00 00 o t u L ?? TEL: 031-000 00 00
+A                                                                                                                                      UPPDRAG NR RITAD AV HANDLÄGGARE 0000-00 DM/HC/RR/FT DM/HC/RR/FT
+9 4                                                                                                                                    DATUM A L N Z SV / A M RIG L
+:3 5                                                                                                                                   NYBYGGNAD AV ARENABYGGNAD :5 1 PLAN 12 -VÅNING 3
 7 0 -
 6
-0 - 4 PLAN 3
-2 0 2                                                                         SKALA 1:500 (för A3)
+0 - 4 2 PLAN 3                                                                                                                         S A KA 1 LA 1:250 A NUM - MER 40-1-300 BET 0 2 0 5 10 15 SKAL 2 A 0 1:500 ( 2 fö 5m r A3) A3 1:500
 SKALA 1:250 I A1 (1:500 I A3-FORMAT)
 0      10      20 m   10/20
 Plan 2 (Arenaplan)
+LESGNÄTS
+LEBIXELF
+YTSAMMANSTÄLLNING BTA
+50/50
+Kommersiell
+Kommunal
+HISS TR 2 A 3 P ,1 P m H ² US 21 W ,0 C m² SE 6 R 3 V ,5 E R m I ² NG WC 24,8 m²
+FRD SP 14 O ,6 R T m H ² ALLEN                            SER 90 V ,1 E R m² ING
+PUBLIKYTA 307,4 m²
+SON
+FÖR POP-UP
+EVENTS
+SON
+FÖR POP-UP
+EVENTS
+GREENROOM/ SERVERING / ARRANG9E0,M1 AmN²GSRUM
+ARENA PLAN 2 953,1 m² PENTRY MESSOR O.L. 20,0 m² FRD HANDBOLL A1/6 39,9 m² VINDFÅN 2 G 9, 9 / T m I ² CKETRIP SEMINARIER 6 U 7 M ,0 /F m O ² TBOLLS-VIP BØ M T I6N R T ,2 E I W S K mT C O ²Ä T D T / 23 W ,2 C m² 25 W ,9 C m² SJUKV 12 Å ,6 R D m² SRUM 2 K 1 I , O 4 S m K ² SE 7 R 0 V ,6 E R m I ² NG 1 K 8 I , O 9 S m K ² /A P R R B E E S T S 4S K 4R, O 9U N mM F ² . M R E U D M IA PASSAGE WC 5,5 m² 11,6 m² 3,3 m²
+KOMMENSETKRETARIASTPEAKER KAMERA KONTROLLRUM / MÖTE Möjligt att bygga fotbollsläktaren i flera etapper, och denna del slutligen. 1 000 platser när färdig.
+008 9        055
+1000 3 000
+4
+058
+31
+Ca. 2.000 sittplatser (+500 på tillfälliga läktare på fast scen)
 ).lP
 56 .ac( ERATKÄL
+EL-RUM 19,5 m²
 PIR
 TEKCIT
 PIR TEKCIT
@@ -5689,49 +6283,47 @@ PIR TEKCIT
 2 TLA
 2 TLA
 2 TLA
+HISS    FRD 9,3 m²
 HC
-HF TICKET RIP ALT 2
+FÖRSTUDIE 2.0 -WORK IN PROGRESS
+HC
+HF HF FRD. ARR. RUM HISS 7,5 m² HF HF HF 4 R ,3 W m C ² K 7, I 2 O S m K ² TICKET RIP ALT 2
 TV-STUDIO     KOMMENT
-3x FH 3x FH 2x FH 2x FH HF HF Möjligt att bygga fotbollsläktaren i flera etapper, och mediadel slutligen.
+3x FH 3x FH 2x FH 2x FH
+PLAN 2
+950 m2
+365 m2
+3.400 m2
+HF HF Möjligt att bygga fotbollsläktaren i flera etapper, och mediadel slutligen.
+HC
 Ca. 1.000 sittplatser på hela fotbollsläktaren
 PIR TEKCIT 2 TLA
-A                 B
-E
-D
+Arean i varje rum på planritningarna avser rumsytan BTA ca 950 m2
+A                 B                               C     innanför omslutande väggar och ger en annan
+BTA ca 365 m2
+totalsumma än räknemetoden för BTA som anges
+BTA-sammanställningen intill.                BTA ca 3400 m2
+E                                                                                                                              E
+D                                                                                                                              D
+FHK 2023-12-XX
+BET  ÄNDRINGEN AVSER SIGN DATUM
+N
 tv 0.r
 .2
 e di u ts
-rö
+rö                                                                                                                                           FÖRSTUDIE
 F
-\- a n e rA a k ca b s g n u K / a n e Ar
+\- a                                                                                                                                       KUNGSBACKA ARENA n e rA a k ca b s g n u K / a n e Ar
 a k ac
-b s g n u K / / s:
-co
-D
-k s e d o tu
-A
-0
-1 :1
-1 :2
-1 4
+b s g n u K /                                                                                                                           A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00 / s: K ?? TEL: 031-000 00 00 co
+D                                                                                                                                       E ??        TEL: 031-000 00 00 k s V ?? TEL: 031-000 00 00 e d W ?? TEL: 031-000 00 00 o tu L ?? TEL: 031-000 00 00
+A                                                                                                                                      UPPDRAG NR RITAD AV HANDLÄGGARE 0000-00 DM/HC/RR/FT DM/HC/RR/FT
+DATUM ANSVARIG LZ/ML
+:2 0 1 :1 1                                                              Skrafferade delar av fotbollsläktare                          N P Y LA B N Y G 1 G 1 N - AD V Å A N V IN G A R 2 ENABYGGNAD
+1 4                                                                      är med i förstudiekalkyl. Kan plockas
 2
-0 2              A                 B .6 PLAN 2
-0 .2 1
+0 . 0 6 2 PLAN 2 A                 B                               C     bort och utföras i senare skede                               S A KA 1 LA 1:250 A NUM - MER 40-1-200 BET .2 0 5 10 15 20 25m A3 1:500 1
 N SKALA 1:250 I A1 (1:500 I A3-FORMAT)
-
-[Tabell 99-1](handlingar.tabeller/99-1.csv)
-
-| OBS! Förklaring<br>YTSAMMANSTÄLLNING<br>50/5500/50 Arean i varje rum på planritningarna avser rumsytan BTA ca 950 m2<br>C innanför omslutande väggar och ger en annan<br>KoKmmoemrsiemll ersiellt BTA ca 365 m2<br>YTSAMMANSTÄLLNING BTA totalsumma än räknemetoden för BTPALA Ns 2om anges<br>KoKmmoumnalmunal BTA-sammanställningen intill. BTA ca 3400 m2<br>50/50 950 m2<br>Kommersiell 365 m2<br>Kommunal 3.400 m2<br>1 K 4 I , O 0 S m K ² S 2 C ,8 H A m K ² T TR 2 A 3 P ,1 P m H ² US WC UNI 19,3 m² SERVERING 63,5 m² WC 24,8 m² HISS 9 F ,3 R D m² E<br>HISS TR 2 A 3 P ,1 P m H ² US 12 W ,0 C m² KOMMERSIELL / KONTOR 14 W ,0 C m² SC 6, H 0 A m K ² T HISS TR 2 A 3 P ,1 P m H ² US 568,2 m² HC<br>SERVERING<br>90,1 m²<br>TEKNIK<br>110,3 m²<br>KOMMERSIELL / FÖRENINGAR<br>193,5 m²<br>D<br>FHK 2023-12-XX Ca. 2.000 sittplatser (+500 på tillfälliga läktare på fast scen) FHK 2023-12-XX<br>FÖRSTUDIE 2.0 -WORK IN PROGRESS<br>ÖPPETNED ÖPPETNED<br>SCEN BET ÄNDRINGEN AVSER SIGN DATUM BET ÄNDRINGEN AVSER SIGN DATUM<br>FÖRSTUDIE 2.0 -WORK IN PROGRESS<br>N N<br>GREENROOM/ SERVERING /<br>ARRANG9E0,M1 AmN²GSRUM<br>FÖRSTUDIE PASSAGE FÖRSTUDIE<br>68,5 m²<br>HF<br>KOMMERSIELL KUNGSBACKA ARENA KUNGSBACKA ARENA<br>97,9 m²<br>WC<br>15,0 m²<br>TRAPPHUS 1 S 4 T ,0 Ä D m² PASSAG 19 E 2 , / 6 M m E ² ZZANIN M PR IN E S 10 S 2 3 P E ,1L V Am T T² . S N E E R D E F Ö P 6 R Å R ,6 W L S Ä m K C K ² R T IV A A R N E D N E FR 8 D , 4 M m E ² DIA KA 7, M 8 E m R ² A KO /6M M ,6Ö P M A 5 mT E 3 S ²E N , S 8 T A m G ² K E O /4M M ,5Ö M Tm E E² NTSP /4M E ,8Ö A K TmE E ² R KONT /9M R ,9Ö O Tm L E L ² RUM FR /E D 6L, 3 K R A Um N ²M SLI ENTR 3 É 1, 1 P m E ² NTRY TR 2 A 3 P ,1 P m H ² US HISS LOUNGE YTA KOMMERSIE 46 L 6 L , 3 / F m Ö ² RENINGAR R 4 W ,8 C m / ² DPA 5 S ,4 S A m G ² E 1 1 , , W W 8 8 C C m m ² ² HISS TR 2 A 3 P ,1 P m H ² US KIOSK 18,9 m² RUM 2 K 1 I , O 4 S m K ² SE 7 R 0 V ,6 E R m I ² NG /A P R R B E E S T S 4S K 4R, O 9U N mM F ² . M R E U D M IA PASSAGE WC 11,6 m² 3,3 m² FRD. ARR. RUM EL-RUM HISS 7,5 m² 19,5 m² HF HF HF 4 R ,3 W m C ² K 7, I 2 O S m K ²<br>50,8 m²<br>R 7 W ,2 C m / ² D HC<br>E Möjligt att bygga fotbollsläktaren i flera etapper,<br>20 PL M. BORD, MEDIA BORTASUPPORT LESGNÄTS och denna del slutligen. 1 000 platser när färdig. 058<br>CA. 100 PLATSER<br>008 31<br>LEBIXELF<br>9<br>B12 B13 B14 B15 B16 A22 A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00 A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00<br>HC<br>K ?? TEL: 031-000 00 00 055 K ?? TEL: 031-000 00 00<br>E ?? TEL: 031-000 00 00 E ?? TEL: 031-000 00 00<br>1000<br>A20 A21 B10 B11 B12 B13 B14 B15 B16 A22 V ?? TEL: 031-000 00 00 V ?? TEL: 031-000 00 00<br>W ?? TEL: 031-000 00 00 3 W ?? TEL: 031-000 00 00<br>L ?? TEL: 031-000 00 00 000 L ?? TEL: 031-000 00 00<br>UPPDRAG NR RITAD AV HANDLÄGGARE 0000-00 DM/HC/RR/FT DM/HC/RR/FT 4 UPPDRAG NR RITAD AV HANDLÄGGARE 0000-00 DM/HC/RR/FT DM/HC/RR/FT<br>DATUM ANSVARIG DATUM ANSVARIG<br>LZ/ML LZ/ML<br>NYBYGGNAD AV ARENABYGGNAD NYBYGGNAD AV ARENABYGGNAD<br>PLAN 12 -VÅNING 3 Skrafferade delar av fotbollsläktare PLAN 11 -VÅNING 2<br>är med i förstudiekalkyl. Kan plockas<br>C<br>SKALA NUMMER BET A1 1:250 A-40-1-300 0 5 10 15 20 25m A3 1:500 bort och utföras i senare skede SKALA NUMMER BET A1 1:250 A-40-1-200 0 5 10 15 20 25m A3 1:500 |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | FÖRSTUDIE<br>KUNGSBACKA ARENA |  |  |  |  |
-|  | A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00<br>K ?? TEL: 031-000 00 00<br>E ?? TEL: 031-000 00 00 |  |  |  |  |
-|  |  | V | ?? TEL: 031-000 00 00 |  |  |
-|  |  | W | ?? TEL: 031-000 00 00 |  |  |
-|  |  | L | ?? TEL: 031-000 00 00 |  |  |
-|  | UPPDRAG NR<br>0000-00 |  |  | RITAD AV<br>DM/HC/RR/FT | HANDLÄGGARE<br>DM/HC/RR/FT |
-|  | DATUM ANSVARIG<br>LZ/ML |  |  |  |  |
-|  | NYBYGGNAD AV ARENABYGGNAD<br>PLAN 12 -VÅNING 3 |  |  |  |  |
-|  | SKALA<br>A1 1:250<br>A3 1:500 |  |  | NUMMER BET<br>A-40-1-300 |  |
 
 <!-- sida 100 -->
 
@@ -5749,30 +6341,66 @@ Kommersiell
 Kommunal
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19            Kommersiell
 Kommunal
-A                 B
+OBS!                             Förklaring
+YTSAMMANSTÄLLNING
+Arean i varje rum på planritningarna avser rumsytan 50/5500/50 BTA ca 990 m2
+A                 B                               C     innanför omslutande väggar och ger en annan
+KoKmmoemrsiemll ersiellt BTA ca 1630 m2
+totalsumma än räkYnTSeAmMMeAtNoSTdÄLeLnNI NfGö BrT ABTPALA Ns 3om anges
+BTA-sammanställningen intill.      KoKmmoumnalmunal BTA ca 30 m2
+50/50   988 m2
+Kommersiell 1.629 m2
+Kommunal 30 m2
 A8
 A7/8
-E              M 1 E 4 Z 1, Z 6 A m N ² IN A8 HISS TR 2 A 3 P ,1 P m H ² US 12 W ,0 C m² KOMMER 5 S 6 I 8 E ,2 L L m / ² KON
+E              M 1 E 4 Z 1, Z 6 A m N ² IN A8 HISS TR 2 A 3 P ,1 P m H ² US 12 W ,0 C m² KOMMER 5 S 6 I 8 E ,2 L L m / ² KONTOR 14 W ,0 C m² S 6 C ,0 H A m K ² T HISS TR 2 A 3 P ,1 P m H ² US E
 A7/8
-A7                                       MEZZANIN
-141,6 m²
+A7                                       M 1 E 4 Z 1, Z 6 A m N ² IN HISS TR 2 A 3 P ,1 P m H ² US 12 W ,0 C m² KOMMER 5 S 6 I 8 E ,2 L L m / ² KONTOR 14 W ,0 C m² SC 6, H 0 A m K ² T HISS TR 2 A 3 P ,1 P m H ² US
+TEKNIK
+110,3 m²
 A7
+TEKNIK
+110,3 m²
 A6
 KOMMERSIELL / FÖRENINGAR
 A6 193,5 m²
-A5
-D                                  ÖPPET
-NED
-A5
+FHK 2023-12-XX
+A5                                                              KOMMERSIE 19 L 3 L ,5 / F m Ö ² RENINGAR
+D                                  ÖPPET NED
+A5                          FÖR
+Ö
+S
+P
+T
+P
+U
+E
+D
+T
+I
+N
+E
+E
+2
+D
+.0 -WORK IN PROGRESS  SCEN
+D
+BET  ÄNDRINGEN AVSER SIGN DATUM
+FHK 2023-12-XX
 A4
+ÖPPETNED                     ÖPPETNED
+SCEN
+N
+BET  ÄNDRINGEN AVSER SIGN DATUM
+FÖRSTUDIE 2.0 -WORK IN PROGRESS
+N
 tv
 0.r                                 A4
 .2
 e
-d u ts rö i A3                  t . v . 2 0 r
+d u ts rö i A3                  t . v . 2 0 r                                                  PASSAGE                                       FÖRSTUDIE
 a
-n
-e rA
+n e rA
 F
 \-
 a
@@ -5780,92 +6408,248 @@ id
 e
 u ts
 \-
-rö F
-A3
-15 W ,0 C m²
-k ca b A2                   STÄD a n ePASSAGE / MEZZANIN M PR IN E S 10 S P E L V A T T . S N E E R D E F Ö P R Å L S Ä K K R
-s
-g
-14,0 m² Ar 192,6 m²
-n u K               1 T 7 E 9 K ,7 N m IK ² TRAPPHUS a k A2 KOMMERSIELL / FÖRENI
-a A a k c
-/
-a n e r A A 1/ 1 6
-23,1 m² ca
-b s g n u K / a n R
-H
-7 W ,
-I
-2
-S
-C
-S
-m / ² D LO A U 5 1 N 0 / , G 8 6 E m ² YTA 1 T 7 E 9 K ,7 N m IK ²
-466,3 m²
-1 S 4 T ,0 Ä
-b                               e
-s
-g n
-Ar
-A1
+rö F A3 15 W ,0 C m²                                     KOM 9 M 7, E 9 R m S ² IELL
+68,5 m²
+PA 68 S , S 5 A m G ² E KUNGSBACKA ARENA      FÖRSTUDIE
+a b s g n A a k c / a n e r s g n u K k ca b A A A 1/ 2 1 6 1 T 7 E 9 K ,7 N m IK ² 1 S 4, T 0 Ä m D T ² R 2 A 3 P ,1 P m H ² US e Ar a n a e k Ar ca b s g n u K / a n R H P 7 W , I A 2 S S C S m S / ² D AG 19 E 2 , / 6 M m E ² ZZAN L I O N A U A 5 A 1 N 0 / 2 1 , G 8 6 E m ² YTA 1 T 7 E 9 K ,7 N m IK ² M PR I K N E O S 1 M 0 S M P E E L V R A T S T . S I N E 4 E E 6 L R 6 D L , 3 E F / Ö F m P Ö ² R Å R 1 L S S 4 E Ä K T ,0 N K Ä R I T D m N I T V A ² G R A R 2 A A N 3 E P R , D N 1 P E m H ² US FRD 8, 4 R M H 7 P W m , E A I 2 S ² D S C S m I S / A ² D AG 19 E 2 , / 6 M m K E ² A 7 Z , M 8 Z A E m N R ² L I A O N U 50 N ,8 G E m ² Y K T O /6 A M M ,6 P Ö M A 5 mT E 3 S E² N ,1 S 85 T WA ,m0 G ²C K m E O ² /4M M ,5Ö M Tm E E² NTSP /4M E ,8Ö A K TmE E ² R KONT /9M R ,9Ö O mT L R 4 E² L W , R 8 U C m M / ² DPA 5 F S ,4 R S / E D A m 6L, G ² 3 K R E A mU 1 1 N , , W W ² 8 8 M S C C m m L ² ² I HISS ENTR 3 É 1, 1 P T m E R M P 2 ² N A R I K 3N T P E , O 1 R P S 1 M m Y H 0 S ² M U P E E S L V R A T T S . S I N E 4 E E 6 L R 6 D L , 3 E F / F Ö m P Ö ² R Å R L S E Ä K N K R I T N IV A G A R A N E R D N E FR 8 D , 4 M m E ² DIA KA 7, M 8 E m R ² A KO /6M M ,6Ö P M A 5 mT E 3 S ²E N , S 8 T A m G ² K E O /4M M ,5Ö M Tm E E² NTSP /4M E ,8Ö A K TmE E ² R KONT /9M R ,9Ö O Tm L R 4 E L ² W , R 8 U C m M / ² DPA 5 F S ,4 R S / E D A m 6L, G ² 3 K R E A Um 1 1 N , , W W ² 8 8 M S C C m m L ² ² I HISS ENTR 3 É 1, 1 P T m E R ² 2 N A 3 P T ,1 R P m Y H ² US KOM 9 M 7, E 9 R m S ² IELL KUNGSBACKA ARENA
 u                               a
 K                               k
-k s e d
+tu
+k s e d o
 s co
 D
 \:
 /
 /
 B2     A18    A19
+D
 ca
 b s g
 n u
-K : / s / A20 A21 B10 B11
-SKÄRMTAK
-tu
-o
-D
-co
-A
-k s         B2     A18    A19
-e
-d
-o
-0 :
+K : / s / co A20 A21 B10 B11
+SKÄRMTAK FOT
+B
+B
 12
-1
-t
+OLLSLÄKTARE
+B13    B14    B15     B16   A22
 A
-u
-:2
+K
+E
+V W
+L
+?
+? ?
+?
+S
+??
+?
+? ?
+?
+emrén & Månsson / Hille Melbye
+T
+T T
+T
+T
+T
+E
+E E
+E
+E
+E
+L
+L L
+L
+L
+L
+\:
+\: :
+\:
+\:
+\:
+0
+0 0
+0
+0
+0
+3
+3
+3 3
+3
+3
 1
+1
+1 1
+1
+1
+\-
+\-
+\- -
+\-
+\-
+7
+0
+0 0
+0
+0
 4
-9
-4
-.2 0 1 2 . 0 6 2 PLAN 3         7 0 - : : 3 5 5 1
-6
-A              0 - 4 B PLAN 3
+0
+0 0
+0
+0
+0
+0 0
+0
+0
+3
+0
+0 0
+0
+0
+0
+0
+0 0
+0
+0
 2
 0
-2                                                                             SKALA 1:500 (för A3)
+0 0
+0
+0
+0
+0
+0 0
+0
+0
+0
+A K
+E
+S ?
+?
+?
+?
+emrén & Månsson / Hille Melbye T T
+T
+E E
+E
+L L
+L
+\: :
+\:
+0 0
+0
+3 3
+3
+1 1
+1
+\-
+\-
+\- 0
+0
+74 0
+0
+0
+0
+3 0
+0
+0 0
+0
+2 0
+0
+0 0
+0
+0
+A                               k s         B2     A18    A19    A20    A21    B10    B11    B12    B13    B14    B15    B16    A22    U 0 P 0 PD 0 RA 0 G - N 0 R 0 R D IT M AD / A H V C/RR/FT H D A M NDL / Ä H GG C AR / E RR/FT V ?? TEL: 031-000 00 00
+e d                                                                                                    DATUM ANSVARIG                  W ??         TEL: 031-000 00 00
+:2 0
+1 4
+\:
+12
+1
+o t
+A
+u
+9 4
+N P Y LA B N Y G 1 G 2 N - AD V Å A N V
+L
+IN
+Z
+A G
+/
+R
+M
+3 E
+L
+NABYGGNAD              U
+D
+0 P
+A
+0 P
+T
+D
+L
+U
+0 R
+M
+A 0 G -
+?
+N
+?
+0 R 0 R
+A
+D
+L
+I
+N
+T
+Z
+M
+S
+A
+V
+D
+/
+/
+A
+A
+M R
+H V
+IG L
+C/RR/FT D H
+T
+A
+E
+M N
+L
+D
+\:
+/ L Ä
+0
+H G
+3
+G C
+1
+A
+\-
+R /
+0
+E R
+00
+R
+0
+/
+0
+F
+0
+T
+0
+.2 0 1 2 . 0 6 2 PLAN 3         7 0 - : : 3 5 5 1                 0   5   10 15  20  25m                                               S A A KA 1 3 LA 1 1 : : 2 5 5 0 0 0 A NUM - MER 40-1-300 BET N P Y LA B N Y G 1 G 2 N - AD V Å A N V IN A G R 3 ENABYGGNAD
+6
+A              0 - 4 2 B PLAN 3                  SKCALA 1:250 I A1 (1:500 I A3-FORMAT)                                                                S A KA 1 LA 1:250 A NUM - MER 40-1-300 BET
+0 2                                                              0   5   10  15 SKAL 2 A 0 1:500 ( 2 fö 5m r A3)                       A3 1:500
 SKALA 1:250 I A1 (1:500 I A3-FORMAT) N
 0      10      20 m   11/20
 Plan 3 (Kommersiellt plan)
-
-[Tabell 100-1](handlingar.tabeller/100-1.csv)
-
-| OBS! Förklaring<br>YTSAMMANSTÄLLNING<br>Arean i varje rum på planritningarna avser rumsytan 50/5500/50 BTA ca 990 m2<br>C innanför omslutande väggar och ger en annan<br>KoKmmoemrsiemll ersiellt BTA ca 1630 m2<br>totalsumma än räkYnTSeAmMMeAtNoSTdÄLeLnNI NfGö BrT ABTPALA Ns 3om anges<br>BTA-sammanställningen intill. KoKmmoumnalmunal BTA ca 30 m2<br>50/50 988 m2<br>Kommersiell 1.629 m2<br>Kommunal 30 m2<br>TOR 14 W ,0 C m² S 6 C ,0 H A m K ² T HISS TR 2 A 3 P ,1 P m H ² US E<br>HISS TR 2 A 3 P ,1 P m H ² US 12 W ,0 C m² KOMMERSIELL / KONTOR 14 W ,0 C m² SC 6, H 0 A m K ² T HISS TR 2 A 3 P ,1 P m H ² US<br>568,2 m²<br>TEKNIK<br>110,3 m²<br>TEKNIK<br>110,3 m²<br>FHK 2023-12-XX<br>KOMMERSIELL / FÖRENINGAR<br>193,5 m²<br>ÖPPET D<br>NED<br>FHK 2023-12-XX<br>SCEN BET ÄNDRINGEN AVSER SIGN DATUM<br>FÖRSTUDIE 2.0 -WORK IN PROGRESS<br>ÖPPETNED ÖPPETNED N<br>SCEN BET ÄNDRINGEN AVSER SIGN DATUM<br>FÖRSTUDIE 2.0 -WORK IN PROGRESS<br>N<br>FÖRSTUDIE<br>PASSAGE<br>68,5 m²<br>KOMMERSIELL KUNGSBACKA ARENA<br>97,9 m²<br>FÖRSTUDIE<br>PASSAGE<br>68,5 m²<br>T IV A A R N E D N E FRD 8, 4 M m E ² DIA KA 7, M 8 E m R ² A KO /6M M ,6Ö M mT E E² NTKO /4M M ,5Ö M Tm E E² NTSP /4M E ,8Ö A K TmE E ² R KONT /9M R ,9Ö O mT L E² LRUM FR /E D 6L, 3 K R A mU N ²M SLI ENTRÉ PENTRY KOM 9 M 7, E 9 R m S ² IELL KUNGSBACKA ARENA<br>PA 53 S ,1 S 85 WA ,m0 G ²C m E ² 31,1 m²<br>D m N ² GAR PASSAG 19 E 2 , / 6 M m E ² ZZANIN R 4 W ,8 C m / ² DPA 5 S ,4 S A m G ² E 1 1 , , W W 8 8 C C m m ² ² HISS TR M P 2 A R I3N P E ,1 P S 1m H 0 S ² U P E S L V A T T . S N E E R D E F Ö P R Å L S Ä K K R T IV A A R N E D N E FR 8 D , 4 M m E ² DIA KA 7, M 8 E m R ² A KO /6M M ,6Ö P M A mT E S ²E N S T AG K E O /4M M ,5Ö M Tm E E² NTSP /4M E ,8Ö A K TmE E ² R KONT /9M R ,9Ö O Tm L E L ² RUM FR /E D 6L, 3 K R A Um N ²M SLI ENTR 3 É 1, 1 P m E ² NTRY<br>53,8 m²<br>TR 2 A 3 P ,1 P m H ² US HISS LOUNGE YTA KOMMERSIE 46 L 6 L , 3 / F m Ö ² RENINGAR R 4 W ,8 C m / ² DPA 5 S ,4 S A m G ² E 1 1 , , W W 8 8 C C m m ² ² HISS TR 2 A 3 P ,1 P m H ² US<br>50,8 m²<br>RWC/D<br>7,2 m²<br>A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00<br>FOTBOLLSLÄKTARE<br>K ?? TEL: 031-000 00 00<br>E ?? TEL: 031-000 00 00<br>B12 B13 B14 B15 B16 A22 V ?? TEL: 031-000 00 00 A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00<br>W ?? TEL: 031-000 00 00 K ?? TEL: 031-000 00 00<br>L ?? TEL: 031-000 00 00 E ?? TEL: 031-000 00 00<br>UPPDRAG NR RITAD AV HANDLÄGGARE<br>A20 A21 B10 B11 B12 B13 B14 B15 B16 A22 0000-00 DM/HC/RR/FT DM/HC/RR/FT V ?? TEL: 031-000 00 00<br>DATUM ANSVARIG W ?? TEL: 031-000 00 00<br>LZ/ML L ?? TEL: 031-000 00 00<br>NYBYGGNAD AV ARENABYGGNAD UPPDRAG NR RITAD AV HANDLÄGGARE<br>0000-00 DM/HC/RR/FT DM/HC/RR/FT<br>PLAN 12 -VÅNING 3<br>DATUM ANSVARIG<br>LZ/ML<br>NYBYGGNAD AV ARENABYGGNAD<br>S A KA 1 LA 1:250 A NUM - MER 40-1-300 BET PLAN 12 -VÅNING 3<br>0 5 10 15 20 25m A3 1:500<br>SKCALA 1:250 I A1 (1:500 I A3-FORMAT)<br>SKALA NUMMER BET<br>A1 1:250 A-40-1-300<br>0 5 10 15 20 25m A3 1:500 |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00 |  |  |  |  |
-|  |  | K | ?? TEL: 031-000 00 00 |  |  |
-|  |  | E | ?? TEL: 031-000 00 00 |  |  |
-|  |  | V | ?? TEL: 031-000 00 00 |  |  |
-|  |  | W | ?? TEL: 031-000 00 00 |  |  |
-|  |  | L | ?? TEL: 031-000 00 00 |  |  |
-|  | UPPDRAG NR<br>0000-00 |  |  | RITAD AV<br>DM/HC/RR/FT | HANDLÄGGARE<br>DM/HC/RR/FT |
-|  | DATUM ANSVARIG<br>LZ/ML |  |  |  |  |
-|  | NYBYGGNAD AV ARENABYGGNAD<br>PLAN 12 -VÅNING 3 |  |  |  |  |
-|  | SKALA<br>A1 1:250<br>A3 1:500 |  |  | NUMMER BET<br>A-40-1-300 |  |
 
 <!-- sida 101 -->
 
@@ -5881,23 +6665,113 @@ YTSAMMANSTÄLLNING
 50/50
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19            Kommersiell
 Kommunal
-A                 B
+OBS!                             Förklaring
+YTSAMMANSTÄLLNING
+50/5500/50
+KoKmmoemrsiemll ersiellt
+KoKmmoumnalmunal
 A8
 A7/8
-E                                   A8
+A8
 A7/8
-A7                                       MEZZANIN
-141,6 m²
+A7                                       M 1 E 4 Z 1, Z 6 A m N ² IN HISS TR 2 A 3 P ,1 P m H ² US 12 W ,0 C m² KOMMER 5 S 6 I 8 E ,2 L L m / ² KONTOR 14 W ,0 C m² SC 6, H 0 A m K ² T HISS TR 2 A 3 P ,1 P m H ² US
 A7
+TEKNIK
+110,3 m²
 A6
 A6
-A5
+A5                                                              KOMMERSIE 19 L 3 L ,5 / F m Ö ² RENINGAR
+FHK 2023-12-XX
+A4
+A5                         ÖPPET NED J ÖPPETNED UMBOTRON    ÖPPETNED
+SCEN                                           BET  ÄNDRINGEN AVSER SIGN DATUM FÖRSTUDIE 2.0 -WORK IN PROGRESS
+N
+A4
+t A3 v .0 r .2
+e
+id
+u ts A3
+rö F UNDE 5 R 1, C 7 E m N ² TRAL                                                              PA 68 S , S 5 A m G ² E                       FÖRSTUDIE
+\- A2 a n e                                                                               KOM 9 M 7, E 9 R m S ² IELL                      KUNGSBACKA ARENA
+Ar                                     WC 15,0 m²
+a
+A1/6                       k ca b s g n KAYL2MEDELSKYLARE 1 S 4 T ,0 Ä D m² PASSAG 19 E 2 , / 6 M m E ² ZZANIN M PR IN E S 10 S P E L V A T T . S N E E R D E F Ö P R Å L S Ä K K R T IV A A R N E D N E FR 8 D , 4 M m E ² DIA KA 7, M 8 E m R ² A KO /6M M ,6Ö P M A 5 mT E 3 S ²E N , S 8 T A m G ² K E O /4M M ,5Ö M Tm E E² NTSP /4M E ,8Ö A K TmE E ² R KONT /9M R ,9Ö O Tm L E L ² RUM FR /E D 6L, 3 K R A Um N ²M SLI ENTR 3 É 1, 1 P m E ² NTRY A1 e Ar u K / a n A1/6 1 T 7 E 9 K ,7 N m IK ² TR 2 A 3 P ,1 P m H ² US R H 7 W , I 2 S C S m / ² D LOU 50 N ,8 G E m ² YTA KOMMERSIE 46 L 6 L , 3 / F m Ö ² RENINGAR R 4 W ,8 C m / ² DPA 5 S ,4 S A m G ² E 1 1 , , W W 8 8 C C m m ² ² HISS TR 2 A 3 P ,1 P m H ² US
+A1 a
+k ca
+b s g n
+u B2 A18 A19 K /A20 A21 B10 B11 B12 B13    B14    B15     B16   A22                                                                    A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00
+/
 D
-A5
+:s co                                                                                                                                  K
+E
+?
+?
+?
+?
+T
+T
+E
+E
+L
+L
+\:
+\:
+0
+0
+3
+3
+1
+1
+\-
+\-
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0 k s B2 A18 A19 A20 A21 B10 B11 B12 B13 B14 B15 B16 A22 V ?? TEL: 031-000 00 00 e d W ?? TEL: 031-000 00 00
+o t u                                                                                                                                  L ??         TEL: 031-000 00 00 A UPPDRAG NR RITAD AV HANDLÄGGARE
+0000-00 DM/HC/RR/FT DM/HC/RR/FT
+9 4                                                                                                                                    DATUM A L N Z SV / A M RIG L
+:3
+5                                                                                                                                      NYBYGGNAD AV ARENABYGGNAD :5
+1                                                                                                                                      PLAN 12 -VÅNING 3
+7
+0
+\-
+6
+0 - 4 2 PLAN 3                                                                                                                         S A KA 1 LA 1:250 A NUM - MER 40-1-300 BET
+0 2                                                              0   5   10  15 SKAL 2 A 0 1:500 ( 2 fö 5m r A3)                       A3 1:500
+SKALA 1:250 I A1 (1:500 I A3-FORMAT)
+0      10      20 m   12/20
+Plan 4 (Teknikplan)
+GNINSÖL
+HCO ROGGYRBGNÅG
+NECS TSAF
+HCO MURLLAH
+REVÖ
+SAF ETSEN
+I TSADERTU
+ETSÅM
+Arean i varje rum på planritningarna avser rumsytan BTA ca 590 m2
+A                 B                               C     innanför omslutande väggar och ger en annan
+totalsumma än räkYnTSeAmMMeANtSoTdÄLeLNnIN fGö BrT ABTPALA Ns 4o /m TAK anges
+BTA-sammanställningen intill.
+50/50   589 m2
+E                                                                                                                              E
+FHK 2023-12-XX
+BET  ÄNDRINGEN AVSER SIGN DATUM D D N
 0
 tv
 .r
-A4
 TEKNIK-AR
 4
 E
@@ -5912,109 +6786,38 @@ PORTHALL
 .2
 e di
 u ts
-A4
-rö
+rö                                                                                                                                           FÖRSTUDIE
 F
-n e rA
-\-
-a    A3
-t
-. v . 2 0 r
-s g n
+\- a                                                                                                                                       KUNGSBACKA ARENA n e rA
 a
 k ca
-b
-id
-e
-u ts
-rö F U
-A
-N
-3
-DE 5 R 1, C 7 E m N ² TRAL
-/ u K A2                        a -
-a                               n
-n                               e
-A
-e
-r
-Ar
-a b
-a
-k
-c    A1/6
-a
-k
-ca
-b s
-KAYL2MEDELSKYLARE
-s                               g
-u g n A1                        n u K              1 T 7 E 9 K ,7 N m IK ²
-K                               /
-/ /                             a n A1/6
-tu
-A
-k s
-e d o
-s co
-D
-\:
-B2     A18    A19
-a
-e
-k
-Ar
-ca
 b s g n
-u K /A20
-A1
-A21    B10    B11
-S
-/
-:s
-9 2                             D
-co
-2 0 2
-:2 0 1
-4
-:1
-k s e d
-o t A u
-B2     A18
-.6  PLAN 4
+u K / a n
+e Ar
+a                                                                                   Alternativ placering på k trappa/tillgång till tak ac b s g n u K / A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00 / s: K ?? TEL: 031-000 00 00 co
+D                                                                                                                                       E ??        TEL: 031-000 00 00
+k s                                                                                                                                     V ??        TEL: 031-000 00 00
+e d                                                     SKÄRMTAK FOTBOLLSLÄKTARE                                                        W ??        TEL: 031-000 00 00 o tu L ?? TEL: 031-000 00 00
+A                                                                                                                                      UPPDRAG NR RITAD AV HANDLÄGGARE 0000-00 DM/HC/RR/FT DM/HC/RR/FT
+DATUM ANSVARIG LZ/ML
+9 :2 0 : 2 1                                                                                                                           N P Y LA B N Y G 1 G 3 N - AD V Å A N V IN A G R 4 ENABYGGNAD 1
+4 2 0 2
 0
-.2                              9
-1                               4
-:3
-5
-:5
+.6  PLAN 4                                                                                                                             S
+A
+KA
 1
-7
-0
+LA
+1:250 A
+NUM
 \-
-6
-A              0 - 4 B PLAN 3
-2
-0
-2                                                                             SKALA 1:500 (för A3)
-SKALA 1:250 I A1 (1:500 I A3-FORMAT) N
-0      10      20 m   12/20
-Plan 4 (Teknikplan)
-
-[Tabell 101-1](handlingar.tabeller/101-1.csv)
-
-| OBS! Förklaring<br>YTSAMMANSTÄLLNING<br>50/5500/50 Arean i varje rum på planritningarna avser rumsytan BTA ca 590 m2<br>C innanför omslutande väggar och ger en annan<br>KoKmmoemrsiemll ersiellt<br>totalsumma än räkYnTSeAmMMeANtSoTdÄLeLNnIN fGö BrT ABTPALA Ns 4o /m TAK anges<br>KoKmmoumnalmunal BTA-sammanställningen intill.<br>50/50 589 m2<br>E<br>HISS TR 2 A 3 P ,1 P m H ² US 12 W ,0 C m² KOMMERSIELL / KONTOR 14 W ,0 C m² SC 6, H 0 A m K ² T HISS TR 2 A 3 P ,1 P m H ² US<br>568,2 m²<br>TEKNIK<br>110,3 m²<br>FHK 2023-12-XX<br>KOMMERSIELL / FÖRENINGAR BET ÄNDRINGEN AVSER SIGN DATUM<br>193,5 m² GNINSÖL NECS TSAF SAF ETSEN D N<br>FHK 2023-12-XX NED J UMBOTRON HCO ROGGYRBGNÅG HCO MURLLAH I TSADERTU<br>ÖPPET ÖPPETNED ÖPPETNED<br>REVÖ ETSÅM<br>SCEN BET ÄNDRINGEN AVSER SIGN DATUM<br>FÖRSTUDIE 2.0 -WORK IN PROGRESS<br>N<br>FÖRSTUDIE<br>KUNGSBACKA ARENA<br>FÖRSTUDIE<br>PASSAGE<br>68,5 m²<br>KOMMERSIELL KUNGSBACKA ARENA<br>97,9 m²<br>WC<br>15,0 m²<br>1 S 4 T ,0 Ä D m² PASSAG 19 E 2 , / 6 M m E ² ZZANIN M PR IN E S 10 S P E L V A T T . S N E E R D E F Ö P R Å L S Ä K K R T IV A A R N E D N E FR 8 D , 4 M m E ² DIA KA 7, M 8 E m R ² A KO /6M M ,6Ö P M A mT E S ²E N S T AG K E O /4M M ,5Ö M Tm E E² NTSP /4M E ,8Ö A K TmE E ² R KONT /9M R ,9Ö O Tm L E L ² RUM FR /E D 6L, 3 K R A Um N ²M SLI ENTR 3 É 1, 1 P m E ² NTRY Alternativ placering på trappa/tillgång till tak<br>53,8 m²<br>TR 2 A 3 P ,1 P m H ² US HISS LOUNGE YTA KOMMERSIE 46 L 6 L , 3 / F m Ö ² RENINGAR R 4 W ,8 C m / ² DPA 5 S ,4 S A m G ² E 1 1 , , W W 8 8 C C m m ² ² HISS TR 2 A 3 P ,1 P m H ² US A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00<br>50,8 m²<br>RWC/D K ?? TEL: 031-000 00 00<br>7,2 m²<br>E ?? TEL: 031-000 00 00<br>V ?? TEL: 031-000 00 00<br>KÄRMTAK FOTBOLLSLÄKTARE W ?? TEL: 031-000 00 00<br>L ?? TEL: 031-000 00 00<br>UPPDRAG NR RITAD AV HANDLÄGGARE<br>B12 B13 B14 B15 B16 A22 A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00 0000-00 DM/HC/RR/FT DM/HC/RR/FT<br>K ?? TEL: 031-000 00 00 DATUM ANSVARIG LZ/ML<br>E ?? TEL: 031-000 00 00<br>NYBYGGNAD AV ARENABYGGNAD<br>A19 A20 A21 B10 B11 B12 B13 B14 B15 B16 A22 V ?? TEL: 031-000 00 00 PLAN 13 -VÅNING 4<br>W ?? TEL: 031-000 00 00<br>L ?? TEL: 031-000 00 00<br>UPPDRAG NR RITAD AV HANDLÄGGARE<br>0000-00 DM/HC/RR/FT DM/HC/RR/FT SKALA NUMMER BET<br>DATUM ANSVARIG A1 1:250 A-40-1-400 0 5 10 15 20 25m A3 1:500<br>LZ/ML<br>NYBYGGNAD AV ARENABYGGNAD SKALA 1:250 I A1 (1:500 I A3-FORMAT)<br>PLAN 12 -VÅNING 3<br>C<br>SKALA NUMMER BET<br>A1 1:250 A-40-1-300<br>0 5 10 15 20 25m A3 1:500 |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00 |  |  |  |  |
-|  |  | K | ?? TEL: 031-000 00 00 |  |  |
-|  |  | E | ?? TEL: 031-000 00 00 |  |  |
-|  |  | V | ?? TEL: 031-000 00 00 |  |  |
-|  |  | W | ?? TEL: 031-000 00 00 |  |  |
-|  |  | L | ?? TEL: 031-000 00 00 |  |  |
-|  | UPPDRAG NR<br>0000-00 |  |  | RITAD AV<br>DM/HC/RR/FT | HANDLÄGGARE<br>DM/HC/RR/FT |
-|  | DATUM ANSVARIG<br>LZ/ML |  |  |  |  |
-|  | NYBYGGNAD AV ARENABYGGNAD<br>PLAN 12 -VÅNING 3 |  |  |  |  |
-|  | SKALA<br>A1 1:250<br>A3 1:500 |  |  | NUMMER BET<br>A-40-1-300 |  |
+MER
+40-1-400
+BET
+.2                                                                0   5   10 15  20  25m                                               A3 1:500 1
+SKALA 1:250 I A1 (1:500 I A3-FORMAT)
+A                 B                               C
+N
 
 <!-- sida 102 -->
 
@@ -6345,15 +7148,21 @@ BET
 
 <!-- sida 105 -->
 
+16 / 20
 3202
 nossnåM
-
 &
 nérmeS
-
 ©
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19
-
+FaFAsSaAdD m MoOTt nNoOrRrR
+FASAD MOT NORR
+FHK 2023-12-XX
+FHK 2023-12-XX
+BET  ÄNDRINGEN AVSER SIGN DATUM
+BET  ÄNDRINGEN AVSER SIGN DATUM
+N
+N
 t
 v
 .0 rt v
@@ -6369,8 +7178,8 @@ t
 2
 s rö
 F
-a n-
-ea
+F F Ö Ö R R S S T T U U D D I I E E
+a n ea -                                                                                                                                  K K U U N N G G S S B B A A C C K K A A A A R R E E N N A A
 Arn
 e
 aAr
@@ -6381,12 +7190,12 @@ g n u
 a
 k ca
 b s g
-Kn
-/u
-aK
-e
-n/
+K /
 a
+n u
+K
+FaFAsSaAdD m MoOTt sSöÖdDeERr
+e n/ a                FASAD MOT SÖDER
 Ar
 e
 n
@@ -6399,72 +7208,135 @@ a
 k ca
 b s g
 Kn
-/u
+/u                                                                                                                                      A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00
 /K
+k s
 D
-:s
-co:
-/
+D
+:s co: /
 s
 /
 co
-k sD
-e d o t A u k s e d o t
-u
+K
+E
+V
 A
-7
+K
+E
+?
+?
+?
+S
+?
+?
+?
+?
+?
+?
+?
+emrén & Månsson / Hille Melbye T
+T
+T
+T
+T
+T
+E
+E
+E
+E
+E
+E
+L
+L
+L
+L
+L
+L
+\:
+\:
+\:
+\:
+\:
+\:
 0
-Fasad 7 0 : : 8 5 5 1 : : 7 8 5 0 5 1
+0
+0
+0
+0
+0
+3
+3
+3
+3
+3
+3
+11
+1
+1
+1
+1
+\-
+\-
+\-
+\-
+\-
+-0
+0
+0
+0
+0
+740
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3 0
+0
+0
+0
+0
+00
+0
+0
+0
+0
+2 0
+0
+0
+0
+0
+00
+0
+0
+0
+0
+0
+e d o t A u k s e d o t A u                                                                                             SKALA 1:500 (för A3) U U 0 P P 0 P P D D W L V W L 0 R R A A 0 G G - ? ? ? ? ?N N ? ? ? ? ? 0 R R 0 R D R I I T T M A A D D / A A H V V C/RR/FT D H T T H T T TA A E E E E E M N N L L L L LD D : : : : : / L L Ä Ä 0 0 0 0 0 H G G 3 3 3 3 3G G C 1 1 1 1 1A A - - - - -R R / 0 0 0 0 0E E R 0 0 0 0 0 0 0 0 0 0 R 0 0 0 0 0 / 0 0 0 0 0 F 0 0 0 0 0 T 0 0 0 0 0
+Fasad 7 0 : : 7 8 5 0 5 1 : : 7 8 5 0 5 1 er                                                                                0      10      2 N N D F D F 0A A0 A 0 A Y Y T T U U 0 S S B B M Mm 0 A A Y Y - D D G G 0 0 G GM M N NO O A AT T D D N N A AO O V V A LA D L R R N N Z Z MS S R 1 R A A V V/ / /A A , , 6 R R M M R R HI I S S G G E E L L C / Ö Ö N N / 2 D D A A R E E B B R 0 R R Y Y /F G G T G G N N A A DM D D /HC/RR/FT
 \- 6 0 7 0 -
--6
-40
-2-
-04
-22
-0
-2
+\- 4 2 0 2 6 0 - 4 2                                               0   5  10  15  20  25m                                               S A AS A K K A A 1 31 L L A A 1 11 : :: 2 52 5 05 0 00 A A N N U U M M- - M M E E R R4 4 0 0 - - 3 3 - - 1 1 0 0 1 1 B B E E T T
+0 2                                                               0   5  10  15  20  25m                                               A3 1:500
 SKALA 1:250 I A1 (1:500 I A3-FORMAT)
-
-[Tabell 105-1](handlingar.tabeller/105-1.csv)
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FaFAsSaAdD m MoOTt nNoOrRrR<br>FASAD MOT NORR<br>FHK 2023-12-XX<br>FHK 2023-12-XX<br>BET ÄNDRINGEN AVSER SIGN DATUM<br>BET ÄNDRINGEN AVSER SIGN DATUM<br>N<br>N<br>FÖRSTUDIE<br>FÖRSTUDIE<br>KUNGSBACKA ARENA<br>KUNGSBACKA ARENA<br>FaFAsSaAdD m MoOTt sSöÖdDeERr<br>FASAD MOT SÖDER<br>A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00<br>KA ?S?emrén & Månsson / Hille Melbye TTEELL:: 003311--074003 0002 0000<br>EK ???? TTEELL:: 003311--000000 0000 0000<br>VE ???? TTEELL:: 003311--000000 0000 0000<br>WV ???? TTEELL:: 003311--000000 0000 0000<br>LW ???? TTEELL:: 003311--000000 0000 0000<br>SKALA 1:500 (för A3) UPPDLRAG ?N?R RITAD AV HTAENLD:L Ä0G3G1A-R0E00 00 00<br>0000-00 DM/HC/RR/FT DM/HC/RR/FT<br>UPPDRAG NR RITAD AV HANDLÄGGARE<br>D0A0TU0M0-00 ADNMSV/ARHIGC/RR/FT DM/HC/RR/FT<br>er 0 10 2 N DA0 Y TU B Mm YGGNAD AV LA L N Z Z S1 A V/ / A6 R M M RIG E L L / N 2 AB 0 YGGNAD<br>NFAYSBAYDG GMNOATD NAOVR RA, RSEÖNDAEBRYGGNAD<br>FASAD MOT NORR, SÖDER<br>16 / 20<br>SKALA NUMMER BET<br>0 5 10 15 20 25m A AS A KA 1 31 LA 1 11 : :: 2 52 5 05 0 00 ANUM-MER40-3-101 BET |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | BET ÄNDRINGEN AVSER SIGN DATUM |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | N<br>N<br>FÖRSTUDIE<br>FÖRSTUDIE |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | KUNGSBACKA ARENA<br>KUNGSBACKA ARENA |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00 |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | KA | ?S?emrén & Månsson / Hille Melbye TTEELL:: 003311--074003 0002 0000 |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | EK | ???? TTEELL:: 003311--000000 0000 0000 |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | VE | ???? TTEELL:: 003311--000000 0000 0000 |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | WV | ???? TTEELL:: 003311--000000 0000 0000 |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  | LW | ???? TTEELL:: 003311--000000 0000 0000 |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | UP | PDLRA | G ?N?R | RITAD AV | HTAENLD:L Ä0G3G1A-R0E00 00 00 |
-|  |  |  |  |  |  |  |  |  |  |  | 0000-00<br>UPPDRAG NR |  |  | DM/HC/RR/FT<br>RITAD AV | DM/HC/RR/FT<br>HANDLÄGGARE |
-|  |  |  |  |  |  |  |  |  |  |  | D0A0TU0M0-00 |  |  | ADNMSV/ARHIGC/RR/FT | DM/HC/RR/FT |
-|  |  |  |  |  |  |  |  |  |  |  | 2DA0TU Mm |  |  | LANZS1V/A6MRIGL/20 |  |
-|  |  |  |  |  |  |  |  |  |  |  | NYBYGGNAD AVL ZA/RMELNABYGGNAD |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | NFAYSBAYDG GMNOATD NAOVR RA, RSEÖNDAEBRYGGNAD<br>FASAD MOT NORR, SÖDER<br>16 / 20 |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | SKALA |  |  | NUMMER BET |  |
-|  |  |  |  |  |  |  |  |  |  |  | A1 1:250<br>AS KA31 LA11::520500<br>A |  |  | ANUM-MER40-3-101 BET |  |
-|  | 0 | 5 |  | 1 | 0 1 | 5 | 2 | 0 | 2 | 5m | A3 1:500 |  |  | A-40-3-101 |  |
-|  | SKAL | A 1: | 250 I | A1 | (1:50 | 0 I | A3-F | ORMA | T) |  |  |  |  |  |  |
+SKALA 1:250 I A1 (1:500 I A3-FORMAT)
 
 <!-- sida 106 -->
 
+17 / 20
 3202
 nossnåM
-
 &
 nérmeS
-
 ©
 Kungsbacka Arena - Förstudie 2.0 - 24-06-19
-
+FFaAsSaAdD mMOoTt vVäÄsStTeErR
+FHK 2023-12-XX
+BET  ÄNDRINGEN AVSER SIGN DATUM
+N
 t
 v
 .0 r
@@ -6473,10 +7345,24 @@ e
 id
 u
 ts
-rö
+rö                                                                                                                                           FÖRSTUDIE
 F
 \-
+a                                                                                                                                         KUNGSBACKA ARENA
+n
+e
+Ar
 a
+k
+ca
+b
+s
+g
+n
+u
+K /
+a
+FFaAsSaAdD mMOoTt öÖsSTteERr
 n
 e
 Ar
@@ -6489,68 +7375,78 @@ g
 n
 u
 K
+/                                                                                                                                       A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00
 /
-a
-n
-e
-Ar
-a
-k
-ca
-b
-s
-g
-n
-u
-K
-/
-/
-:s
-co
 D
-k
-s
-e
-d
-o
-t
-u
-A
-4
-4
-Fasader :8
-5
-:5
+:s co                                                                                                                                   K
+E
+?
+?
+?
+?
+T
+T
+E
+E
+L
+L
+\:
+\:
+0
+0
+3
+3
 1
+1
+\-
+\-
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+k s                                                                                                                                     V ??        TEL: 031-000 00 00
+e d                                                                                                                                     W ??        TEL: 031-000 00 00
+o
+t A u                                                                                                                SKALA 1:500 (för A3) UPPD L RAG ? N ? R RITAD AV H T A E N L D : L Ä 0 G 3 G 1 A - R 0 E 00 00 00
+0000-00 DM/HC/RR/FT DM/HC/RR/FT
+4                                                                                                                                      DATUM ANSVARIG
+Fasader :8 4
+5
+0      10      20 m
+NYBYGGNA
+1
+D
+7 /
+A
+2
+V
+L Z0
+A
+/
+R
+M
+E
+L
+NABYGGNAD
+:5
+1                                                                                                                                      FASAD MOT VÄSTER, ÖSTER
 7
 0
 \-
-6
-0
-\-
-4
-2
-0
-2
+6 0
+\- 4 2                                                                                                                                  S A KA 1 LA 1:250 A NUM - MER 40-3-102 BET
+0 2                                                               0   5  10  15  20  25m                                               A3 1:500
 SKALA 1:250 I A1 (1:500 I A3-FORMAT)
-
-[Tabell 106-1](handlingar.tabeller/106-1.csv)
-
-| FFaAsSaAdD mMOoTt vVäÄsStTeErR<br>FHK 2023-12-XX<br>BET ÄNDRINGEN AVSER SIGN DATUM<br>N<br>FÖRSTUDIE<br>KUNGSBACKA ARENA<br>FFaAsSaAdD mMOoTt öÖsSTteERr<br>A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00<br>K ?? TEL: 031-000 00 00<br>E ?? TEL: 031-000 00 00<br>V ?? TEL: 031-000 00 00<br>W ?? TEL: 031-000 00 00<br>L ?? TEL: 031-000 00 00<br>SKALA 1:500 (för A3) UPPDRAG NR RITAD AV HANDLÄGGARE<br>0000-00 DM/HC/RR/FT DM/HC/RR/FT<br>DATUM ANSVARIG<br>0 10 20 m 17/2LZ0/ML<br>NYBYGGNAD AV ARENABYGGNAD<br>FASAD MOT VÄSTER, ÖSTER<br>17 / 20<br>SKALA NUMMER BET<br>A1 1:250 A-40-3-102<br>0 5 10 15 20 25m A3 1:500 |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | N<br>FÖRSTUDIE |  |  |  |  |
-|  | KUNGSBACKA ARENA |  |  |  |  |
-|  |  |  |  |  |  |
-|  | A Semrén & Månsson / Hille Melbye TEL: 031-743 02 00 |  |  |  |  |
-|  |  | K | ?? TEL: 031-000 00 00 |  |  |
-|  |  | E | ?? TEL: 031-000 00 00 |  |  |
-|  |  | V | ?? TEL: 031-000 00 00 |  |  |
-|  |  | W | ?? TEL: 031-000 00 00 |  |  |
-|  |  | L | ?? TEL: 031-000 00 00 |  |  |
-|  | UPPDRAG NR<br>0000-00 |  |  | RITAD AV<br>DM/HC/RR/FT | HANDLÄGGARE<br>DM/HC/RR/FT |
-|  | DATUM ANSVARIG<br>17/2LZ0/ML |  |  |  |  |
-|  | NYBYGGNAD AV ARENABYGGNAD<br>FASAD MOT VÄSTER, ÖSTER<br>17 / 20 |  |  |  |  |
-|  | SKALA<br>A1 1:250<br>A3 1:500 |  |  | NUMMER BET<br>A-40-3-102 |  |
 
 <!-- sida 107 -->
 
@@ -6760,7 +7656,7 @@ P-DRIFT P-DRIFT
 
 DRIFTSFORDON
 
-PLAN SKALA 1:400 (A3)
+PLAN SKALA 1:400(A3)
 4
 JAKTSAL
 INFART
@@ -6830,7 +7726,7 @@ TRAILER
 B
 TRAILER
 B
-2 ST TURNÉBUSSAR
+2ST TURNÉBUSSAR
 TV-BUSS/OB
 BUSS
 INFART
@@ -6840,7 +7736,7 @@ P-DRIFT P-DRIFT
 UTFART
 JAKTSAL
 YTA FÖR CONTAINERS
-PLAN SKALA 1:400 (A3)
+PLAN SKALA 1:400(A3)
 
 <!-- sida 121 -->
 
@@ -6896,7 +7792,7 @@ UTFART
 JAKTSAL
 INHÄGNAD
 MÖJLIG BRANDUPPSTÄLLNING
-PLAN SKALA 1:400 (A3)
+PLAN SKALA 1:400(A3)
 FÖR
 LAG
 OCH
@@ -6925,7 +7821,7 @@ Bilden till höger redovisar körspår för 24 m fordon.
 
 7
 
-PLAN SKALA 1:500 (A3)
+PLAN SKALA 1:500(A3)
 
 <!-- sida 123 -->
 
@@ -6951,7 +7847,7 @@ RHP   RHP
 
 P-DRIFT P-DRIFT
 
-PLAN SKALA 1:400 (A3)
+PLAN SKALA 1:400(A3)
 8
 TRAILERS
 RÄDDNINGSTJÄNST
@@ -8827,18 +9723,25 @@ Newsec bedömer att de kommersiella ytorna i Kungsbacka Arena är mellan 7 000 �
 kommersiella ytorna uppdelat per verksamhetsområde. Ytorna är angivna i LOA då de kommersiella aktörerna har svarat på frågan avseende storlek
 utifrån hur stor yta deönskar hyra.
 
-[Tabell 184-1](handlingar.tabeller/184-1.csv)
+Typ  av lokal              Yta (kvm  LOA)       Kommentar
 
-| Typ av lokal | Yta (kvm LOA) | Kommentar |
-| --- | --- | --- |
-| Upplevelserestaurang | 2 000 –2 500 | Lunch- och kvällsservering på samma yta |
-| Café | 200 - 400 |  |
-| Kiosk | 50 - 100 |  |
-| Co-working/Konferens/Mässa | 2 500 –3 000 | Kommer förmodligen börja med en mindre yta och utökas med<br>tiden. I denna yta ingår även konferenscenter |
-| Kontor | 700 -1 000 |  |
-| Gym | 300 alternativt 800 | Beroende på om det är ett boutique gym eller storskaligt. Newsec<br>bedömer att ett boutique gym är troligast i arenan |
-| Hälsa | 500 |  |
-| Totalt | 6 250 –8 300 |  |
+Upplevelserestaurang       2 000 –2 500         Lunch- och kvällsservering på samma yta
+
+Café                       200 - 400
+
+Kiosk                      50 - 100
+
+Co-working/Konferens/Mässa 2 500 –3 000         Kommer  förmodligen börja med en mindre yta och utökas med
+
+tiden. I denna yta ingår även konferenscenter
+Kontor                     700 -1 000
+
+Gym                        300 alternativt 800  Beroende på om det är ett boutique gym eller storskaligt. Newsec
+bedömer att ett boutique gym är troligast i arenan
+
+Hälsa                      500
+
+Totalt                     6 250 –8 300
 
 <!-- sida 185 -->
 
@@ -9426,16 +10329,22 @@ Totalytor
 
 I nedan tabell beskrivs hur stor andel av den totala kommersiella ytan de olika verksamhetsområdena kommer att stå för iKungsbacka Arena.
 
-[Tabell 208-1](handlingar.tabeller/208-1.csv)
+Verksamhetsområde          Yta (kvm  LOA)   Andel  av totalytan (%)   Kommentar
 
-| Verksamhetsområde | Yta (kvm LOA) | Andel av totalytan (%) | Kommentar |
-| --- | --- | --- | --- |
-| Mat & Dryck | 2 250 –3 000 | 36% | Upplevelserestaurang, café och kiosker. En aktör<br>bedriver hela detta verksamhetsområde |
-| Co-working/Konferens/Mässa | 2 500 –3 000 | 38% | En aktör bedriver co-working och konferensytor |
-| Kontor | 700 -1 000 | 12% | Bedöms vara 3-5 företag som kommer att hyra<br>kontorslokaler |
-| Gym | 300 alternativt 800 | 7% | En aktör bedriver gym |
-| Hälsa | 500 | 7% | Bedöms vara omkring 5 företag som bedriver detta<br>verksamhetsområde |
-| Totalt | 6 250 –8 300 | 100% |  |
+Mat & Dryck                2 250 –3 000     36%                       Upplevelserestaurang, café och kiosker. En aktör
+bedriver hela detta verksamhetsområde
+
+Co-working/Konferens/Mässa 2 500 –3 000     38%                       En aktör bedriver co-working och konferensytor
+
+Kontor                     700 -1 000       12%                       Bedöms vara 3-5 företag som kommer att hyra
+kontorslokaler
+
+Gym                        300 alternativt 800 7%                     En aktör bedriver gym
+
+Hälsa                      500              7%                        Bedöms vara omkring 5 företag som bedriver detta
+verksamhetsområde
+
+Totalt                     6 250 –8 300     100%
 
 <!-- sida 209 -->
 
@@ -10940,7 +11849,7 @@ som avstår, beslutar att ärendet ska avgöras i dag.
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 251-1](handlingar.tabeller/251-1.csv)
+[Tabell 251-252-1](handlingar.tabeller/251-252-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -10970,37 +11879,7 @@ Justerare                         Expedierat/bestyrkt
 | Kalle Påsse Sundvall | (M) | Alla |  |  |  | X |  |
 | Henrik Arnesson | (C) | Alla |  | X |  |  |  |
 | Marie Wadström | (KD) | Alla |  |  | X |  |  |
-
-<!-- sida 252 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          7 (11)
-Kommunfullmäktige
-Datum
-2021-04-13
-
-Ordföranden prövar sedan Peter Söderbergs (M) m.fl. återremissyrkande mot att
-ärendet ska avgöras i dag, och finner att kommunfullmäktige beslutar att ärendet ska
-avgöras i dag.
-
-Omröstning begärs och verkställs.
-Ordföranden redovisar följande propositionsordning som kommunfullmäktige
-
-godkänner:
-Ja-röst innebär att ärendet ska avgöras i dag.
-Nej-röst innebär att ärendet ska återremitteras enligt Peter Söderbergs (M) m.fl.
-återremissyrkande.
-
-Omröstningsresultat
-
-Ordföranden finner att kommunfullmäktige, med 45 ja-röster mot 11 nej-röster och 5
-som avstår, beslutar att ärendet ska avgöras i dag.
-
-Justerare                         Expedierat/bestyrkt
-
-[Tabell 252-1](handlingar.tabeller/252-1.csv)
-
 | Monica Neptun | (L) | Alla |  | X |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Stephan Philipson | (M) | Alla |  | X |  |  |  |
 | Elisabeth Lyckevall | (S) | Alla | G ert Svensson | X |  |  |  |
 | Roger Krantz | (SD) | Alla |  | X |  |  |  |
@@ -11037,27 +11916,40 @@ Justerare                         Expedierat/bestyrkt
 | Anders Ekström | (M) | Alla |  | X |  |  |  |
 | SUMMA: |  |  |  | 48 | 9 | 4 | 0 |
 
-[Tabell 252-2](handlingar.tabeller/252-2.csv)
+<!-- sida 252 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          7 (11)
+Kommunfullmäktige
+Datum
+2021-04-13
+
+Ordföranden prövar sedan Peter Söderbergs (M) m.fl. återremissyrkande mot att
+ärendet ska avgöras i dag, och finner att kommunfullmäktige beslutar att ärendet ska
+avgöras i dag.
+
+Omröstning begärs och verkställs.
+Ordföranden redovisar följande propositionsordning som kommunfullmäktige
+
+godkänner:
+Ja-röst innebär att ärendet ska avgöras i dag.
+Nej-röst innebär att ärendet ska återremitteras enligt Peter Söderbergs (M) m.fl.
+återremissyrkande.
+
+Omröstningsresultat
+
+Ordföranden finner att kommunfullmäktige, med 45 ja-röster mot 11 nej-röster och 5
+som avstår, beslutar att ärendet ska avgöras i dag.
+
+Justerare                         Expedierat/bestyrkt
+
+[Tabell 252-253-1](handlingar.tabeller/252-253-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Lisa Andersson | (M) | Aslla |  | X |  |  |  |
 | Eva Borg | (S) | Alla |  | X |  |  |  |
 | Carita Boulwén | (SD) | Alla |  | X |  |  |  |
-
-<!-- sida 253 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          8 (11)
-Kommunfullmäktige
-Datum
-2021-04-13
-
-Justerare                         Expedierat/bestyrkt
-
-[Tabell 253-1](handlingar.tabeller/253-1.csv)
-
 | Fredrik Hansson | (C) | Alla |  | X |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Andreas Johansson | (M) | Alla |  |  |  | X |  |
 | Ulrika Landergren | (L) | Alla |  | X |  |  |  |
 | Christian Johansson | (M) | Alla |  | X |  |  |  |
@@ -11117,6 +12009,15 @@ Justerare                         Expedierat/bestyrkt
 | Anders Ekström | (M) | Alla |  | X |  |  |  |
 | SUMMA: |  |  |  | 45 | 11 | 5 | 0 |
 
+<!-- sida 253 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          8 (11)
+Kommunfullmäktige
+Datum
+2021-04-13
+
+Justerare                         Expedierat/bestyrkt
+
 <!-- sida 254 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          9 (11)
@@ -11140,7 +12041,7 @@ som avstår, beslutar enligt kommunstyrelsens förslag.
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 254-1](handlingar.tabeller/254-1.csv)
+[Tabell 254-255-1](handlingar.tabeller/254-255-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -11187,6 +12088,25 @@ Justerare                         Expedierat/bestyrkt
 | Axel Storckenfeldt | (M) | Alla |  | X |  |  |  |
 | Sara Heikkinen Breitholtz | (S) | Alla | B ritt Tönnberg | X |  |  |  |
 | Peter Wesley | (KD) | Alla |  |  | X |  |  |
+| Peter Söderberg | (M) | Alla |  |  | X |  |  |
+| Kenth Wallin | (SD) | Alla |  | X |  |  |  |
+| Kristina Rasmussen | (V) | Alla |  |  |  | X |  |
+| Franklin Eck | (M) | Alla |  |  | X |  |  |
+| Elin Hysén | (L) | Alla |  | X |  |  |  |
+| Rickard Wäst | (S) | Alla |  | X |  |  |  |
+| Heinrich Kaufmann | (C) | Alla |  | X |  |  |  |
+| Per-Axel Carlsson | (M) | Alla |  | X |  |  |  |
+| Tobias Eriksson | (SD) | Alla |  | X |  |  |  |
+| Berit Bergström | (M) | Alla |  | X |  |  |  |
+| Maj-Britt Rane-Andersson | (S) | Alla |  | X |  |  |  |
+| Karin Green | (C) | Alla |  |  | X |  |  |
+| Ann-Helene Reimertz | (M) | Alla |  |  | X |  |  |
+| Madelene Höök | (L) | Alla |  | X |  |  |  |
+| Thord Brynielsson | (SD) | Alla | S tefan Vilumsons | X |  |  |  |
+| Per Stenberg | (M) | Alla |  | X |  |  |  |
+| Ulrika Högstrand | (KD) | Alla |  |  | X |  |  |
+| Anders Ekström | (M) | Alla |  | X |  |  |  |
+| SUMMA: |  |  |  | 45 | 12 | 4 | 0 |
 
 <!-- sida 255 -->
 
@@ -11211,30 +12131,7 @@ Ordföranden finner att kommunfullmäktige, med 31 ja-röster mot 16 nej-röster
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 255-1](handlingar.tabeller/255-1.csv)
-
-| Peter Söderberg | (M) | Alla |  |  | X |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Kenth Wallin | (SD) | Alla |  | X |  |  |  |
-| Kristina Rasmussen | (V) | Alla |  |  |  | X |  |
-| Franklin Eck | (M) | Alla |  |  | X |  |  |
-| Elin Hysén | (L) | Alla |  | X |  |  |  |
-| Rickard Wäst | (S) | Alla |  | X |  |  |  |
-| Heinrich Kaufmann | (C) | Alla |  | X |  |  |  |
-| Per-Axel Carlsson | (M) | Alla |  | X |  |  |  |
-| Tobias Eriksson | (SD) | Alla |  | X |  |  |  |
-| Berit Bergström | (M) | Alla |  | X |  |  |  |
-| Maj-Britt Rane-Andersson | (S) | Alla |  | X |  |  |  |
-| Karin Green | (C) | Alla |  |  | X |  |  |
-| Ann-Helene Reimertz | (M) | Alla |  |  | X |  |  |
-| Madelene Höök | (L) | Alla |  | X |  |  |  |
-| Thord Brynielsson | (SD) | Alla | S tefan Vilumsons | X |  |  |  |
-| Per Stenberg | (M) | Alla |  | X |  |  |  |
-| Ulrika Högstrand | (KD) | Alla |  |  | X |  |  |
-| Anders Ekström | (M) | Alla |  | X |  |  |  |
-| SUMMA: |  |  |  | 45 | 12 | 4 | 0 |
-
-[Tabell 255-2](handlingar.tabeller/255-2.csv)
+[Tabell 255-256-1](handlingar.tabeller/255-256-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -11259,24 +12156,7 @@ Justerare                         Expedierat/bestyrkt
 | Bengt Alderin | (C) | Alla |  | X |  |  |  |
 | Maria Rasmussen | (V) | Alla |  |  | X |  |  |
 | Filip Berndtsson | (M) | Alla |  | X |  |  |  |
-
-<!-- sida 256 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          11 (11)
-Kommunfullmäktige
-Datum
-2021-04-13
-
-Beslutet skickas till
-
-Samtliga nämnder
-
-Justerare                         Expedierat/bestyrkt
-
-[Tabell 256-1](handlingar.tabeller/256-1.csv)
-
 | Lars Eriksson | (S) | Alla |  |  | X |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Susanne Andersson | (SD) | Alla |  |  |  | X |  |
 | Kalle Påsse Sundvall | (M) | Alla |  |  |  | X |  |
 | Henrik Arnesson | (C) | Alla |  | X |  |  |  |
@@ -11317,3 +12197,16 @@ Justerare                         Expedierat/bestyrkt
 | Ulrika Högstrand | (KD) | Alla |  | X |  |  |  |
 | Anders Ekström | (M) | Alla |  | X |  |  |  |
 | SUMMA: |  |  |  | 31 | 16 | 14 | 0 |
+
+<!-- sida 256 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          11 (11)
+Kommunfullmäktige
+Datum
+2021-04-13
+
+Beslutet skickas till
+
+Samtliga nämnder
+
+Justerare                         Expedierat/bestyrkt

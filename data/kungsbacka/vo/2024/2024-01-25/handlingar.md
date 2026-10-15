@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.72b72d4c18d2a9af0cdaa41/17062778201
 sha256: 55901f963b19d3ee0f64a654e24c6b1faaf822d3948e7b78635bc5600143086b
 bytes: 1258299
 sidor: 25
-hamtad: 2026-10-08T08:19:54+00:00
-konverterad: 2026-10-08T08:20:04+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T06:10:30+00:00
+konverterad: 2026-10-15T06:10:40+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -733,7 +733,7 @@ Insats: Avlösning i hemmet, växelvård
 
 Bilaga 2 Insatser
 
-[Tabell 16-1](handlingar.tabeller/16-1.csv)
+[Tabell 16-19-1](handlingar.tabeller/16-19-1.csv)
 
 | Insats | Förklaring | Schablontider | Dubbel-<br>bemanning |
 | --- | --- | --- | --- |
@@ -743,26 +743,14 @@ Bilaga 2 Insatser
 | Daglig service | Diska efter måltid, slänga sopor, ta<br>in post, bädda säng mm.<br>Används endast om det ej ingår i<br>annan insats under dagen. | 10 minuter per tillfälle | Nej |
 | Digitala inköp | Inköp av dagligvaror och färdiga<br>matportioner. Avser att beställa, ta<br>emot, packa upp.<br>Möjligt att avse andra inköp till<br>exempel apoteksvaror (bud), kläder<br>eller liknande vid enstaka tillfällen.<br>Alternativ till ledsagning.<br>Utredningsunderlag och dialog med<br>individen ska tydliggöra vilka delar<br>av momentet som ska utföras. | 15/30 minuter per vecka.<br>15 minuter för beställning<br>och 15 minuter för att ta<br>emot och packa upp<br>varor.<br>Kan delas mellan makar,<br>halva tiden var men minst<br>15 minuter/person. | Nej |
 | Dusch | Avser att tvätta hela eller delar av<br>kroppen. Innefattar även | 20/30/45 minuter per<br>tillfälle | Dubbelbemanning<br>efter bedömning av |
-
-<!-- sida 17 -->
-
-[Tabell 17-1](handlingar.tabeller/17-1.csv)
-
 | (Att tvätta sig) | förberedelser inför och<br>iordningsställa efter momentet.<br>Används endast om det ej ingår i<br>a nnan insats under dagen. | Normalfallet 1–2 gånger<br>per vecka.<br>Motivering krävs om<br>insatsen ska ske oftare. | rehab alternativt<br>godkänd av<br>enhetschef utifrån<br>arbetsmiljöskäl. |
-| --- | --- | --- | --- |
 | Egenvård | Efter intyg från legitimerad<br>personal.<br>Denna insats ska alltid läggas<br>separat. | 5/10 minuter per tillfälle | Nej |
 | Enklare måltider | Beredning av enklare måltider<br>såsom frukost, mellanmål,<br>kvällsmat. Avser ej att tillreda<br>måltider.<br>Används endast om det ej ingår i<br>annan insats under dagen. | 15 minuter per tillfälle | Nej |
 | Förflyttning | Används om det endast avser behov<br>inom livsområdet förflyttning inne i<br>bostaden.<br>Används oftast tillsammans med<br>annan insats. | 5/10/15/20 minuter per<br>tillfälle | Dubbelbemanning<br>efter bedömning av<br>rehab alternativt<br>godkänd av<br>enhetschef utifrån<br>arbetsmiljöskäl. |
 | Insats natt | Används när det finns behov av<br>fysiskt besök nattetid på grund av<br>toalettbehov, dryck, bryta nattfasta<br>etc.<br>Digitalt först<br>Norm är att digitala lösningar ska<br>användas när det är möjligt. Möjligt<br>att kombinera med digital tillsyn och<br>trygghetslarm för att minska antal<br>besök. | 1–2 gånger per natt<br>15 minuter per tillfälle<br>Endast schablontid ska<br>användas. | Dubbelbemanning<br>efter bedömning av<br>rehab alternativt<br>godkänd av<br>enhetschef utifrån<br>arbetsmiljöskäl. |
 | Kvällsbehov | Sköta personlig hygien, bereda<br>enklare måltider/värma mat,<br>förflyttning, toalettbesök, klä på/av<br>sig, hushållsarbete, slänga sopor etc | 15/30/60 minuter per<br>tillfälle | Dubbelbemanning<br>efter bedömning av<br>rehab alternativt<br>godkänd av<br>enhetschef utifrån<br>arbetsmiljöskäl. |
 | Ledsagning | Till och från vårdinrättning, till<br>aktiviteter av social karaktär, till och<br>från frisör etc.<br>Behovet ska ej kunna tillgodoses på<br>annat sätt via anhörig/närstående,<br>stöd från civilsamhälle eller<br>förebyggandeenhet. | Upp till 5 timmar per<br>månad eller enstaka<br>tillfälle<br>Motivering krävs om<br>insatsen ska ske oftare. | Dubbelbemanning<br>efter bedömning av<br>rehab alternativt<br>godkänd av<br>enhetschef utifrån<br>arbetsmiljöskäl. |
-
-<!-- sida 18 -->
-
-[Tabell 18-1](handlingar.tabeller/18-1.csv)
-
 |  |  | Förfrågan om ledsagning<br>ska göras till utföraren vid<br>varje tillfälle. |  |
-| --- | --- | --- | --- |
 | Lättstädning | Används endast i undantagsfall vid<br>behov.<br>Används endast om det ej utförs i<br>a nnan insats under dagen. | 15 minuter per tillfälle | Nej |
 | Morgonbehov | Sköta personlig hygien, bereda<br>enklare måltider/värma mat,<br>förflyttning, toalettbesök, klä på/av<br>sig, hushållsarbete, slänga sopor etc | 15/30/45/60 minuter per<br>tillfälle | Dubbelbemanning<br>efter bedömning av<br>rehab alternativt<br>godkänd av<br>enhetschef utifrån<br>arbetsmiljöskäl. |
 | Måltidshjälp | Används om det endast avser att<br>värma mat, duka fram, servera eller<br>plocka undan efter måltid.<br>Används endast om det ej ingår i<br>annan insats under dagen. | 10 minuter per tillfälle | Nej |
@@ -771,22 +759,22 @@ Bilaga 2 Insatser
 | Städning | Två rum och kök för ensamstående<br>och tre rum och kök för<br>sammanboende med skilda sovrum.<br>Utredningsunderlag och dialog med<br>individen ska tydliggöra vilka delar<br>av momentet som ska utföras. | 60/90 minuter var tredje<br>vecka<br>Kan delas mellan makar,<br>halva tiden var. | Nej |
 | Stöd vid måltid | Mata, sitta med vid måltid, motivera<br>att äta/dricka.<br>Används endast om det ej ingår i<br>annan insats under dagen. | 30/45 minuter per<br>tillfälle | Nej |
 | Tillsyn dag | Digitalt först<br>Normen är via digital lösning såsom<br>digital tillsyn eller ringtillsyn.<br>Om trygghetslarm finns ska ej tillsyn<br>användas om förmåga att påkalla<br>hjälp finns. | 5 minuter per tillfälle vid<br>digital tillsyn eller<br>ringtillsyn | Nej |
+|  | Vid behov, kortare fysiskt besök för<br>att tillförsäkras trygghet och<br>säkerhet i vardagen. | 10 min per tillfälle vid<br>fysiskt besök |  |
+| Digital tillsyn | Digitalt först<br>Norm att tillsyn nattetid sker via<br>trygghetskamera. | 10/15 minuter per<br>tillfälle | Nej |
+| Toalettbehov | Toalettbesök, tömning av kateter,<br>byte av inkontinensskydd, rengöring<br>av hygienutrymme. Hit räknas också<br>byte av stomipåse samt byte av<br>stomiplatta (om det inte finns<br>medicinska hinder).<br>Används endast om det ej ingår i<br>annan insats under dagen. | 10/20 minuter per<br>tillfälle | Dubbelbemanning<br>efter bedömning av<br>rehab alternativt<br>godkänd av<br>enhetschef utifrån<br>arbetsmiljöskäl. |
+| Tvätt/klädvård | Tvätta kläder, handdukar,<br>sängkläder, hänga tvätt, lägga ihop<br>tvätt, stryka, vid behov sy i en<br>knapp, lägga in i garderob, boka<br>tvättid.<br>Utredningsunderlag och dialog med<br>individen ska tydliggöra vilka delar<br>av momentet som ska utföras. | 30 minuter en gång per<br>vecka.<br>Kan delas mellan makar,<br>halva tiden var. | Nej |
+| Övrig omsorg | Ska innefatta alla behov som ska<br>utföras inom ramen för<br>besöket/besöken.<br>Kan innefatta en eller flera<br>livsområden och behovskoder.<br>Exempel:<br>• Allmänna uppgifter<br>• Förflyttning<br>• Personlig vård<br>• Hemliv<br>• Känsla av trygghet | 20/30/45/60 minuter per<br>tillfälle<br>Kommer ej att användas i<br>Kungsbackamodellen. | Dubbelbemanning<br>efter bedömning av<br>rehab alternativt<br>godkänd av<br>enhetschef utifrån<br>arbetsmiljöskäl. |
+| Övrig service | Ej daglig service.<br>Ta ut soptunna till väg etc.<br>Används endast om det ej ingår i<br>annan insats under dagen. | 5/10 minuter per tillfälle | Nej |
+
+<!-- sida 17 -->
+
+<!-- sida 18 -->
 
 <!-- sida 19 -->
 
 Om en insats tillgodoser fler behov kan förklaringar avvika från ovanstående. Ex när ett toalettbehov
 innefattar även ett förflyttningsbehov. Schablontiderna är fetmarkerade. Frekvenserna är
 skälighetsbedömda, och i dokumentet är de beskrivna utifrån norm i Kungsbacka.
-
-[Tabell 19-1](handlingar.tabeller/19-1.csv)
-
-|  | Vid behov, kortare fysiskt besök för<br>att tillförsäkras trygghet och<br>säkerhet i vardagen. | 10 min per tillfälle vid<br>fysiskt besök |  |
-| --- | --- | --- | --- |
-| Digital tillsyn | Digitalt först<br>Norm att tillsyn nattetid sker via<br>trygghetskamera. | 10/15 minuter per<br>tillfälle | Nej |
-| Toalettbehov | Toalettbesök, tömning av kateter,<br>byte av inkontinensskydd, rengöring<br>av hygienutrymme. Hit räknas också<br>byte av stomipåse samt byte av<br>stomiplatta (om det inte finns<br>medicinska hinder).<br>Används endast om det ej ingår i<br>annan insats under dagen. | 10/20 minuter per<br>tillfälle | Dubbelbemanning<br>efter bedömning av<br>rehab alternativt<br>godkänd av<br>enhetschef utifrån<br>arbetsmiljöskäl. |
-| Tvätt/klädvård | Tvätta kläder, handdukar,<br>sängkläder, hänga tvätt, lägga ihop<br>tvätt, stryka, vid behov sy i en<br>knapp, lägga in i garderob, boka<br>tvättid.<br>Utredningsunderlag och dialog med<br>individen ska tydliggöra vilka delar<br>av momentet som ska utföras. | 30 minuter en gång per<br>vecka.<br>Kan delas mellan makar,<br>halva tiden var. | Nej |
-| Övrig omsorg | Ska innefatta alla behov som ska<br>utföras inom ramen för<br>besöket/besöken.<br>Kan innefatta en eller flera<br>livsområden och behovskoder.<br>Exempel:<br>• Allmänna uppgifter<br>• Förflyttning<br>• Personlig vård<br>• Hemliv<br>• Känsla av trygghet | 20/30/45/60 minuter per<br>tillfälle<br>Kommer ej att användas i<br>Kungsbackamodellen. | Dubbelbemanning<br>efter bedömning av<br>rehab alternativt<br>godkänd av<br>enhetschef utifrån<br>arbetsmiljöskäl. |
-| Övrig service | Ej daglig service.<br>Ta ut soptunna till väg etc.<br>Används endast om det ej ingår i<br>annan insats under dagen. | 5/10 minuter per tillfälle | Nej |
 
 <!-- sida 20 -->
 

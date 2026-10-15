@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2aa120519d9a515cfb74c5b/17769500513
 sha256: be5cadcd276cbedc216a89eec1193c0e5db81578e0dd7f8ea9f1c9b3ba99dc6a
 bytes: 532343
 sidor: 55
-hamtad: 2026-10-08T09:11:40+00:00
-konverterad: 2026-10-08T09:11:47+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:03:47+00:00
+konverterad: 2026-10-15T07:03:56+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1351,7 +1351,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: A5C1329CB6CF8D49BEC6C788405BF3AFC37576CD59
 Transaktionsidentitet: CF647CD28BA4EF066D5F5A9DDF922260BDDEFEAF94
 
-[Tabell 31-1](protokoll.tabeller/31-1.csv)
+[Tabell 31-32-1](protokoll.tabeller/31-32-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -1365,6 +1365,16 @@ Transaktionsidentitet: CF647CD28BA4EF066D5F5A9DDF922260BDDEFEAF94
 | Exploateringshandläggare | Servitutsavtal Kolla 5:10 – Optoledningar med<br>tillbehör |
 | Specialist mark och<br>exploatering | Överenskommelse om fastighetsreglering, andelar<br>Påtorp s:1 |
 | Exploateringshandläggare | Överlåtelse av avtal om anläggningsarrende – |
+|  | parkeringsplatser inom Skårby 3:114 till<br>Brf Charlotta Eleonora |
+| Exploateringshandläggare | Avtal om nyttjanderätt Skårby 2:3 –<br>Jordbruksändamål |
+| Exploateringshandläggare | Avtal om överlåtelse av arrenderätt från Aranäs<br>Projekt AB till Aranäs KB – Del av Kungsbacka 3:1<br>utanför Sankt Gertrud 8 |
+| Exploateringshandläggare | Arrendeavtal för etableringsyta MVB Väst AB –<br>Duvehed 2:14 |
+| Markingenjör | Markupplåtelseavtal Svinholmen 1:1 |
+| Markingenjör | Markupplåtelseavtal Hede 3:20 |
+| Markingenjör | Markupplåtelseavtal Hede 9:26 |
+| Exploateringshandläggare | Servitutsavtal Strannegården 2:2 – VA-ledningar |
+| Exploateringshandläggare | Servitutsavtal Kolla 5:15 – Optoledningar med<br>tillbehör |
+| Planchef | Anställande av planarkitekt |
 
 <!-- sida 32 -->
 
@@ -1382,20 +1392,6 @@ redovisningen av delegeringsbeslut fattade under perioden 2025-10-31 till
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: A5C1329CB6CF8D49BEC6C788405BF3AFC37576CD59
 Transaktionsidentitet: CF647CD28BA4EF066D5F5A9DDF922260BDDEFEAF94
-
-[Tabell 32-1](protokoll.tabeller/32-1.csv)
-
-|  | parkeringsplatser inom Skårby 3:114 till<br>Brf Charlotta Eleonora |
-| --- | --- |
-| Exploateringshandläggare | Avtal om nyttjanderätt Skårby 2:3 –<br>Jordbruksändamål |
-| Exploateringshandläggare | Avtal om överlåtelse av arrenderätt från Aranäs<br>Projekt AB till Aranäs KB – Del av Kungsbacka 3:1<br>utanför Sankt Gertrud 8 |
-| Exploateringshandläggare | Arrendeavtal för etableringsyta MVB Väst AB –<br>Duvehed 2:14 |
-| Markingenjör | Markupplåtelseavtal Svinholmen 1:1 |
-| Markingenjör | Markupplåtelseavtal Hede 3:20 |
-| Markingenjör | Markupplåtelseavtal Hede 9:26 |
-| Exploateringshandläggare | Servitutsavtal Strannegården 2:2 – VA-ledningar |
-| Exploateringshandläggare | Servitutsavtal Kolla 5:15 – Optoledningar med<br>tillbehör |
-| Planchef | Anställande av planarkitekt |
 
 <!-- sida 33 -->
 
@@ -2196,7 +2192,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: A5C1329CB6CF8D49BEC6C788405BF3AFC37576CD59
 Transaktionsidentitet: CF647CD28BA4EF066D5F5A9DDF922260BDDEFEAF94
 
-[Tabell 50-1](protokoll.tabeller/50-1.csv)
+[Tabell 50-51-1](protokoll.tabeller/50-51-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -2211,6 +2207,10 @@ Transaktionsidentitet: CF647CD28BA4EF066D5F5A9DDF922260BDDEFEAF94
 | Stefan Vilumsons (SD) | X |  |  |
 | Fredrik Hansson (C) |  | X |  |
 | Monica Neptun (L) | X |  |  |
+| Fredrik Kollberg (KD) | X |  |  |
+| Patrik Jervne Henestam (V) |  | X |  |
+| Maria Losman (MP) |  | X |  |
+| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 51 -->
 
@@ -2229,14 +2229,6 @@ Nämnden för Gymnasium & Arbetsmarknad, nämnden för Förskola & Grundskola
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: A5C1329CB6CF8D49BEC6C788405BF3AFC37576CD59
 Transaktionsidentitet: CF647CD28BA4EF066D5F5A9DDF922260BDDEFEAF94
-
-[Tabell 51-1](protokoll.tabeller/51-1.csv)
-
-| Fredrik Kollberg (KD) | X |  |  |
-| --- | --- | --- | --- |
-| Patrik Jervne Henestam (V) |  | X |  |
-| Maria Losman (MP) |  | X |  |
-| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 52 -->
 

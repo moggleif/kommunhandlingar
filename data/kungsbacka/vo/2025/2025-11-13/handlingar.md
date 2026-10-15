@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.40dca3c719a555f04d060ad6/1762790175
 sha256: 55e9e8f9cd3b0d671d7340f5ac944d79c8b15c6d8fac29b6addd276805dcb70d
 bytes: 5181130
 sidor: 134
-hamtad: 2026-10-08T08:37:24+00:00
-konverterad: 2026-10-08T08:37:52+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T06:29:21+00:00
+konverterad: 2026-10-15T06:29:55+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [118, 119, 121, 122]
-figurer: null
-tolkade: null
+figurer: [49, 52, 53, 54, 66, 118, 119, 120, 121, 122, 125, 126]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1003,7 +1003,7 @@ Fokusområden
 
 12
 
-[Tabell 25-1](handlingar.tabeller/25-1.csv)
+[Tabell 25-26-1](handlingar.tabeller/25-26-1.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -1012,6 +1012,10 @@ Fokusområden
 | Boende är nöjda med de aktiviteter som erbjuds<br>på vård-och omsorgsboende | 62 % | 52 % | 59% | Öka |
 | Upplevd ensamhet bland äldre på vård-och<br>omsorgsboende | 16 % | 17 % | 14 % | Minska |
 | Anmälda brott mot brottsbalken per invånare<br>(antal/100 000 invånare) | 6 475 | 6 541 |  | Minska |
+| Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 91 % | 88 % | 88 % | Öka |
+| Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn | 76 % | 76 % | 78 % | Öka |
+| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn |  | 95 % |  | Öka |
+| Invånare 16-84 år med avsaknad av tillit till<br>andra |  |  |  | Minska |
 
 <!-- sida 26 -->
 
@@ -1027,11 +1031,26 @@ Fokusområde
 Nämndmålet är kopplat till fokusområdet "I Kungsbacka är man trygg och får en god omsorg när man behöver
 stöd för att få livet att fungera"
 
+Indikatorer                    Utfall Utfall  Utfall Målvärde Målvärde
+2023    2024    2025   2025    2028
+Personalkontinuitet, antal personal som en
+hemtjänstmottagare möter under 14 dagar, 19 18,4       17      14
+medelvärde, egenregi
+Fast omsorgskontakt inom hemtjänsten\*  21 %   22 %    30 %    80 %
+
 5.1.2 Upplevelsen av ensamhet bland äldre i Kungsbacka som får insatser av förvaltningen
 för Vård & Omsorg ska årligen minska.
 Beslutats av
 
 Nämnd
+Indikatorer                    Utfall Utfall  Utfall Målvärde Målvärde
+2023    2024    2025   2025    2028
+Upplevd ensamhet bland äldre på vård-och                       5%
+16 %    17 %    14%    15 %
+omsorgsboende
+Upplevd ensamhet bland äldre inom                              3%
+8 %     7 %     10%     5 %
+hemtjänsten
 
 5.2 En hållbar utveckling och en hälsosam miljö
 
@@ -1039,29 +1058,6 @@ Beslutats av
 Kommunfullmäktige
 
 13
-
-[Tabell 26-1](handlingar.tabeller/26-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
-| Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 91 % | 88 % | 88 % | Öka |
-| Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn | 76 % | 76 % | 78 % | Öka |
-| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn |  | 95 % |  | Öka |
-| Invånare 16-84 år med avsaknad av tillit till<br>andra |  |  |  | Minska |
-
-[Tabell 26-2](handlingar.tabeller/26-2.csv)
-
-| Indikatorer Utfall Utfall Utfall Målvärde<br>2023 2024 2025 2025 | Målvärde<br>2028 |
-| --- | --- |
-| Personalkontinuitet, antal personal som en<br>hemtjänstmottagare möter under 14 dagar, 19 18,4 17<br>medelvärde, egenregi | 14 |
-| Fast omsorgskontakt inom hemtjänsten\* 21 % 22 % 30 % | 80 % |
-
-[Tabell 26-3](handlingar.tabeller/26-3.csv)
-
-| Indikatorer Utfall Utfall Utfall Målvärde<br>2023 2024 2025 2025 | Målvärde<br>2028 |
-| --- | --- |
-| Upplevd ensamhet bland äldre på vård-och<br>16 % 17 % 14% 15 %<br>omsorgsboende | 5% |
-| Upplevd ensamhet bland äldre inom<br>8 % 7 % 10% 5 %<br>hemtjänsten | 3% |
 
 <!-- sida 27 -->
 
@@ -1078,7 +1074,7 @@ mångfald.
 
 14
 
-[Tabell 27-1](handlingar.tabeller/27-1.csv)
+[Tabell 27-28-1](handlingar.tabeller/27-28-1.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -1092,6 +1088,13 @@ mångfald.
 | Avfall från kommunens verksamheter ska<br>minska med 40 % per heltidsanställd. Startvärde<br>100, målvärde 2030 är 60. | 223 |  |  | Minska |
 | Fossiloberoende personbilar, andel av totalt<br>antal bilar i det geografiska området, (Kolada) | 24,1 % | 26,5 % |  | Öka |
 | Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-ekv/kg<br>livsmedel. Målsättningen är 1,0 år 2030. | 1,79 | 1,85 |  | Minska |
+| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021<br>var antalet 124 (KEMgroup PRO) | 115 | 151 |  | Minska |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  | Öka |
+| Andelen återbrukade möbler |  |  |  | Öka |
+| Total debiterad vattenförbrukning fördelat på<br>antal anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  | Minska |
+| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn. |  |  |  | Minska |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  | Minska |
 
 <!-- sida 28 -->
 
@@ -1109,19 +1112,7 @@ mellan näringsliv och utbildning.
 
 15
 
-[Tabell 28-1](handlingar.tabeller/28-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
-| Antal kemiska produkter med utfasningsämnen,<br>inklusive hormonstörande ämnen på SIN-listan<br>ska minska i kommunens verksamheter. 2021<br>var antalet 124 (KEMgroup PRO) | 115 | 151 |  | Minska |
-| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  | Öka |
-| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  | Öka |
-| Andelen återbrukade möbler |  |  |  | Öka |
-| Total debiterad vattenförbrukning fördelat på<br>antal anslutna till vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen och privata<br>verksamheter). Liter/person och dygn |  |  |  | Minska |
-| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn. |  |  |  | Minska |
-| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  | Minska |
-
-[Tabell 28-2](handlingar.tabeller/28-2.csv)
+[Tabell 28-29-1](handlingar.tabeller/28-29-1.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -1130,6 +1121,7 @@ mellan näringsliv och utbildning.
 | Sysselsatt dagbefolkning, antal | 28 586 |  |  | Öka |
 | Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 4,9 % |  |  | Öka |
 | Företagsamhet, andel av invånare 16–74 år | 19 % |  |  | Öka |
+| Antal nystartade företag per 1 000 invånare 16–<br>64 år (etableringsfrekvens) | 10,3 |  |  | Öka |
 
 <!-- sida 29 -->
 
@@ -1151,15 +1143,18 @@ stärkta i fallpreventiva åtgärder
 Beslutats av
 Nämnd
 
+Indikatorer                    Utfall Utfall  Utfall Målvärde Målvärde
+2023    2024    2025   2025    2028
+Antal rapporterade fall per patient ska minska 2,4 2,2 Minska -30 %
+
+Upplevt hälsotillstånd, vård-och                             40 %
+35 %    34 %   32 %    30 %
+omsorgsboende
+Upplevt hälsotillstånd, hemtjänst 35 % 35 %   34 %    32 %   40 %
+
 16
 
 [Tabell 29-1](handlingar.tabeller/29-1.csv)
-
-| Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
-| --- | --- | --- | --- | --- |
-| Antal nystartade företag per 1 000 invånare 16–<br>64 år (etableringsfrekvens) | 10,3 |  |  | Öka |
-
-[Tabell 29-2](handlingar.tabeller/29-2.csv)
 
 | Indikator | Utfall 2023 | Utfall 2024 | Utfall 2025 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -1168,14 +1163,6 @@ Nämnd
 | Genomsnittligt betygspoäng gymnasieelever<br>med examen (hemkommun) som kan vara max<br>20. | 14,3 | 14 | 14 | Öka |
 | Andel vuxna personer som inte återkommit till<br>försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) | 73 % | 75 % |  | Öka |
 | Kostnad utbetalt ekonomiskt bistånd, kr/invånare<br>(Kolada) | 325 | 306 |  | Minska |
-
-[Tabell 29-3](handlingar.tabeller/29-3.csv)
-
-| Indikatorer Utfall Utfall Utfall Målvärde<br>2023 2024 2025 2025 | Målvärde<br>2028 |
-| --- | --- |
-| Antal rapporterade fall per patient ska minska 2,4 2,2 Minska | -30 % |
-| Upplevt hälsotillstånd, vård-och<br>35 % 34 % 32 % 30 %<br>omsorgsboende | 40 % |
-| Upplevt hälsotillstånd, hemtjänst 35 % 35 % 34 % 32 % | 40 % |
 
 <!-- sida 30 -->
 
@@ -1402,31 +1389,53 @@ Nämndbudget 2026
 
 7.2 Resursmått
 
+Budget   Budget
+Delområde Nyckeltal       Utfall 2022 Utfall 2023 Utfall 2024
+2025     2026
+Kostnad
+66 654   70 419
+äldreomsorg, kr/inv 65+
+6,9 %     8 %     2,9 %
+Nettokostnadsavvikelse
+Antal
+omsorgstagare i
+2 664    2 182    2 756
+verksamheten över 65
+Resursmått
+år
+Antal
+omsorgstagare i
+137               165
+verksamheten under 65
+år
+Antal patienter i
+1 994    2 780    2 082
+hemsjukvården
 7.3 Prestationsmått
-
+Budget   Budget
+Delområde  Nyckeltal    Utfall 2022 Utfall 2023 Utfall 2024
+2025      2026
+Antal
+lägenheter på
+694      704       704
+vård- och
+omsorgsboende
+Antal
+lägenheter för 62        60       60
+korttids/växelvård
+Prestationsmått
+Beläggningsgrad
+97 %      96 %     97 %
+vård- och
+omsorgsboende
+Antal timmar
+537 632  545 404  548 528
+hemtjänst
+Kö till vård-
+och            53        67       74
+omsorgsboende
 7.4 Effektmått
-
 22
-
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
-
-| Delområde | Budget Budget<br>Nyckeltal Utfall 2022 Utfall 2023 Utfall 2024<br>2025 2026 |
-| --- | --- |
-| Resursmått | Kostnad<br>66 654 70 419<br>äldreomsorg, kr/inv 65+ |
-|  | 6,9 % 8 % 2,9 %<br>Nettokostnadsavvikelse |
-|  | Antal<br>omsorgstagare i<br>2 664 2 182 2 756<br>verksamheten över 65<br>år |
-|  | Antal<br>omsorgstagare i<br>137 165<br>verksamheten under 65<br>år |
-|  | Antal patienter i<br>1 994 2 780 2 082<br>hemsjukvården |
-
-[Tabell 35-2](handlingar.tabeller/35-2.csv)
-
-| Delområde | Budget Budget<br>Nyckeltal Utfall 2022 Utfall 2023 Utfall 2024<br>2025 2026 |
-| --- | --- |
-| Prestationsmått | Antal<br>lägenheter på<br>694 704 704<br>vård- och<br>omsorgsboende |
-|  | Antal<br>lägenheter för 62 60 60<br>korttids/växelvård |
-|  | Beläggningsgrad<br>97 % 96 % 97 %<br>vård- och<br>omsorgsboende |
-|  | Antal timmar<br>537 632 545 404 548 528<br>hemtjänst |
-|  | Kö till vård-<br>och 53 67 74<br>omsorgsboende |
 
 <!-- sida 36 -->
 
@@ -2678,13 +2687,16 @@ beredskapsarbetet
 
 10
 
-[Tabell 68-1](handlingar.tabeller/68-1.csv)
+[Tabell 68-69-1](handlingar.tabeller/68-69-1.csv)
 
 | Kategorier<br>Personal | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk för bristfällig Risken är<br>återhämtning hos omhändertagen i<br>medarbetare och 3. Kännbar och med<br>att förvaltningen (uppfattas som förvaltningens nya<br>bygger upp höga besvärande för handbok för<br>3. Vanligt<br>semestersaldon berörda bemanning och<br>på grund av intressenter och schema.<br>bristande kommunen)<br>efterlevnad av<br>semesterlagen |
 | --- | --- |
 |  | Kommunövergrip 3. Kännbar Kommunstyrelsen<br>ande risk: (uppfattas som har valt att ta bort<br>Efterlevnad till besvärande för denna<br>2. Mindre vanligt<br>rekryteringsproce berörda kommunövergripa<br>ssen intressenter och nde risken.<br>kommunen) |
 | Ekonomi | Kommunövergrip 1. Försumbar Redovisning är<br>ande risk: (obetydlig för inte solitärt<br>Grundläggande 2. Mindre vanligt berörda underlag till<br>redovisning intressenter och inriktningsbeslut.<br>kvalitetsbrister kommunen) |
 | Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. | Risk för att inköp Denna risk är en<br>genomförs på ett dubblett med den<br>felaktigt sätt på 3. Kännbar kommunövergripa<br>grund av att (uppfattas som nde risken<br>inköpsprocessen besvärande för "Bristande<br>2. Mindre vanligt<br>och tillhörande berörda följsamhet till<br>riktlinjer inte intressenter och inköpsprocessen;<br>efterlevs kommunen) direktupphandling<br>respektive<br>avtalsuppföljning" |
+| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip 3. Kännbar Risken adresseras<br>ande risk: (uppfattas som inom ramen för<br>informationssäke besvärande för förvaltningens<br>2. Mindre vanligt<br>rhet; skydd av berörda systematiska<br>information mot intressenter och informationssäkerh<br>obehörig tillgång kommunen) etsarbete |
+|  | Kommunövergrip 3. Kännbar Risken adresseras<br>ande risk: It- (uppfattas som inom ramen för<br>säkerhet besvärande för förvaltningens<br>2. Mindre vanligt<br>- Bristande berörda systematiska<br>driftmiljö hos intressenter och informationssäkerh<br>leverantörer kommunen) etsarbete |
+| Verksamhet | Kommunövergrip Nämndens<br>ande risk: 3. Kännbar målgrupp kommer<br>Dämpad (uppfattas som att växa framöver<br>befolkningstillväx besvärande för och därför ser<br>2. Mindre vanligt<br>t med långsiktig berörda nämnden inte<br>påverkan på intressenter och denna risken.<br>kommunala kommunen)<br>verksamheter |
 
 <!-- sida 69 -->
 
@@ -2692,13 +2704,6 @@ Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Intern kontrollplan 2026
 
 11
-
-[Tabell 69-1](handlingar.tabeller/69-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip 3. Kännbar Risken adresseras<br>ande risk: (uppfattas som inom ramen för<br>informationssäke besvärande för förvaltningens<br>2. Mindre vanligt<br>rhet; skydd av berörda systematiska<br>information mot intressenter och informationssäkerh<br>obehörig tillgång kommunen) etsarbete |
-| --- | --- |
-|  | Kommunövergrip 3. Kännbar Risken adresseras<br>ande risk: It- (uppfattas som inom ramen för<br>säkerhet besvärande för förvaltningens<br>2. Mindre vanligt<br>- Bristande berörda systematiska<br>driftmiljö hos intressenter och informationssäkerh<br>leverantörer kommunen) etsarbete |
-| Verksamhet | Kommunövergrip Nämndens<br>ande risk: 3. Kännbar målgrupp kommer<br>Dämpad (uppfattas som att växa framöver<br>befolkningstillväx besvärande för och därför ser<br>2. Mindre vanligt<br>t med långsiktig berörda nämnden inte<br>påverkan på intressenter och denna risken.<br>kommunala kommunen)<br>verksamheter |
 
 <!-- sida 70 -->
 
@@ -2895,7 +2900,7 @@ dataskyddsberättelse
 
 4
 
-[Tabell 78-1](handlingar.tabeller/78-1.csv)
+[Tabell 78-80-1](handlingar.tabeller/78-80-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2910,27 +2915,11 @@ dataskyddsberättelse
 |  | Ansökan | Ciceron | Digital | Bevara | I ansökan ingår bilagor till<br>ansökan såsom<br>försäkringsbevis, IVO-<br>tillstånd etc.<br>Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
 |  | Korrespondens under tiden för<br>certifiering | Kungsbacka kommuns<br>upphandlingsstöd | Digital | Bevara | Förvaltningen för Vård &<br>Omsorg får begära att<br>ansökan förtydligas eller<br>kompletteras om det kan ske<br>utan risk för särbehandling<br>eller konkurrensbegränsning. |
 | Hantera ansökan | Utvärderingsprotokoll | Ciceron | Digital | Bevara | Inkluderar kvalificering av<br>inkomna ansökningar. |
-
-<!-- sida 79 -->
-
-5
-
-[Tabell 79-1](handlingar.tabeller/79-1.csv)
-
 |  |  |  |  |  | Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
-| --- | --- | --- | --- | --- | --- |
 |  | Förhandling enligt MBL § 38<br>avseende beslut om ny utförare av<br>hemtjänstinsatser inom kundvalet | Ciceron | Digital | Bevara | 38 § Lag (1976:580) om<br>medbestämmande i<br>arbetslivet.<br>Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
 | Besluta | Beslut | Ciceron | Digital | Bevaras | Ett beslut i form av ett<br>beviljande eller avslag om att<br>få bedriva hemtjänst. Beslutet<br>ger sökande rätt att ansöka<br>om rättelse av beslutet till<br>Förvaltningsrätten. |
 | Teckna avtal | Avtal | Ciceron avtalsdiarium | Digital | Bevara | Avtal om att bedriva<br>hemtjänst samt ändringar och<br>tillägg till avtal, vilka<br>skriftligen godkänts av<br>utförare genom intyg att<br>utföraren tagit del av<br>reviderat<br>förfrågningsunderlag.<br>Avtalstecknande sker mellan<br>parterna. Avtalet upprättas i<br>två exemplar, varav det ena<br>förvaras hos kommunen och<br>det andra hos utföraren.<br>Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
-
-<!-- sida 80 -->
-
-6
-
-[Tabell 80-1](handlingar.tabeller/80-1.csv)
-
 | Överklaga | Överklagan | Ciceron | Digital | Bevara | Handlingar rörande<br>överklagande/rättelse av<br>beslut. Ansökan ska vara<br>skriftlig och skickas till<br>Förvaltningsrätten inom tre<br>veckor från det att<br>underrättelse om beslutet har<br>lämnats. |
-| --- | --- | --- | --- | --- | --- |
 | Hantera avtal | Brister i förpliktelser enligt avtal | Ciceron | Digital | Bevara |  |
 |  | Upphörande av avtal | Ciceron | Digital | Bevara | Om utföraren inte har fått<br>någon omsorgstagare ett år<br>efter ett beviljande, upphör<br>avtalet automatiskt att gälla. |
 |  | Uppsägning av avtal | Ciceron | Digital | Bevara | Tre månaders uppsägningstid<br>gäller för både kommunen<br>och utföraren. |
@@ -2938,11 +2927,19 @@ dataskyddsberättelse
 | Dokumentera | Godkännande av byte av driftansvarig<br>i verksamhet som drivs hos leverantör<br>i valfrihetssystem | Ciceron | Digital | Bevara |  |
 |  | Uppföljningar | Ciceron | Digital | Bevara | Helårs-, delårs- och<br>kvalitetsuppföljning |
 
+<!-- sida 79 -->
+
+5
+
+<!-- sida 80 -->
+
+6
+
 <!-- sida 81 -->
 
 7
 
-[Tabell 81-1](handlingar.tabeller/81-1.csv)
+[Tabell 81-84-1](handlingar.tabeller/81-84-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2955,15 +2952,7 @@ dataskyddsberättelse
 |  | Förhandling enligt MBL § 11 inför<br>beslut om viktig förändring | Ciceron | Digital | Bevara | 11 § Lag (1976:580) om<br>medbestämmande i<br>arbetslivet. |
 | Hantera underlag | Information enligt MBL § 19 inför<br>beslut om upphandlingsdokument i<br>upphandling | Ciceron | Digital | Bevara | 19 § Lag (1976:580) om<br>medbestämmande i<br>arbetslivet. |
 |  | Upphandlingsdokument | Ciceron | Digital | Bevara | Metod för utvärdering och<br>tilldelningsgrund samt krav<br>och kommersiella villkor för<br>utförare av drift av vård- och<br>omsorgsboende.<br>Förtydligande:<br>Upphandlingsdokument<br>inkluderar samtliga bilagor<br>som tillhör<br>upphandlingsdokumentet.<br>Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
-
-<!-- sida 82 -->
-
-8
-
-[Tabell 82-1](handlingar.tabeller/82-1.csv)
-
 |  | Förtydliganden och kompletterande<br>frågor om upphandlingsdokumentet | Kungsbacka kommuns<br>upphandlingsstöd | Digital | Bevara | Förtydliganden,<br>kompletteringar och svar på<br>frågor som inkommer under<br>anbudstiden. |
-| --- | --- | --- | --- | --- | --- |
 | Besluta | Beslut om att avbryta upphandling | Ciceron | Digital | Bevara | En upphandling får avbrytas<br>om det finns sakliga skäl för<br>detta. Ett sådant beslut ska<br>följa de grundläggande<br>principerna i allmänhet.<br>Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
 | Hantera anbud | Öppningsprotokoll | Kungsbacka kommuns<br>upphandlingsstöd | Digital | Bevara |  |
 |  | Anbud | Kungsbacka kommuns<br>upphandlingsstöd | Digital | Bevara |  |
@@ -2971,15 +2960,7 @@ dataskyddsberättelse
 |  | Utvärderingsprotokoll | Ciceron | Digital | Bevara | Inkluderar kvalificering av<br>inkomna anbud samt resultat<br>av utvärdering.<br>Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
 |  | Förhandling enligt MBL § 38<br>avseende antagande av utförare för<br>driften | Ciceron | Digital | Bevara | 38 § Lag (1976:580) om<br>medbestämmande i<br>arbetslivet. |
 | Besluta | Upphandlingsprotokoll | Ciceron | Digital | Bevara | Förvaltningen för Service,<br>enheten Inköps föreslag till<br>tilldelningsbeslut. |
-
-<!-- sida 83 -->
-
-9
-
-[Tabell 83-1](handlingar.tabeller/83-1.csv)
-
 |  |  |  |  |  | Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
-| --- | --- | --- | --- | --- | --- |
 |  | Tilldelningsbeslut | Ciceron | Digital | Bevara | Beslut om vilken<br>anbudsgivare som vunnit<br>upphandlingen och med<br>vilken avtal kommer att<br>tecknas. Beslutet innehåller<br>namn på den som vunnit<br>upphandlingen och varför<br>denne kommer att tilldelas<br>avtal.<br>Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
 | Överprövning | Föreläggande, aktbilagor och dom | Ciceron | Digital | Bevara | Samtliga handlingar rörande<br>överprövningen. |
 | Teckna avtal | Avtal som omfattar drift av vård- och<br>omsorgsboende samt ändringar och<br>tillägg till avtal, vilka skriftligen<br>godkänts av båda parter | Ciceron avtalsdiarium | Digital och papper | Bevara | Avtalstecknande sker mellan<br>parterna. Avtalet upprättas i<br>två exemplar, varav det ena<br>förvaras hos kommunen och<br>det andra hos utföraren.<br>Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
@@ -2987,22 +2968,26 @@ dataskyddsberättelse
 |  | Ändring och tillägg till avtal | Ciceron | Digital | Bevara | Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
 |  | Brister i förpliktelser enligt avtal | Ciceron | Digital | Bevara |  |
 |  | Upphörande av avtal i förtid | Ciceron | Digital | Bevara | Upphörande av avtal ska vara<br>skriftligt och innehålla datum<br>för avtalets upphörande.<br>Kopia finns i Kungsbacka<br>kommuns upphandlingsstöd. |
+| Dokumentera | Godkännande av byte av driftansvarig<br>i verksamhet som drivs på<br>entreprenad | Ciceron | Digital | Bevara |  |
+|  | Uppföljningar | Ciceron | Digital | Bevara | Helårs-, delårs- och<br>kvalitetsuppföljning |
+
+<!-- sida 82 -->
+
+8
+
+<!-- sida 83 -->
+
+9
 
 <!-- sida 84 -->
 
 10
 
-[Tabell 84-1](handlingar.tabeller/84-1.csv)
-
-| Dokumentera | Godkännande av byte av driftansvarig<br>i verksamhet som drivs på<br>entreprenad | Ciceron | Digital | Bevara |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Uppföljningar | Ciceron | Digital | Bevara | Helårs-, delårs- och<br>kvalitetsuppföljning |
-
 <!-- sida 85 -->
 
 11
 
-[Tabell 85-1](handlingar.tabeller/85-1.csv)
+[Tabell 85-86-1](handlingar.tabeller/85-86-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3016,15 +3001,7 @@ dataskyddsberättelse
 | Avsluta | Samtycke och nyckelkvittens för<br>installation av trygghetslarm och/eller<br>digitalt lås, Återlämnad nyckel/larm | Närarkiv | Papper | 2 år efter<br>återlämnande | Förvaras i pärm hos enheten<br>Lås & Larm. |
 | Avslut | Nyckelkvittens för digitalt lås,<br>Återlämnad nyckel/larm | Närarkiv | Papper | 2 år efter<br>återlämnande |  |
 | Hantera avtal | Godkännande att Kungsbacka<br>kommun monterar upphandlat<br>nyckelsystem hos fastighetsägare för<br>hyres- och bostadsrätt | Närarkiv Samarbetsrum | Papper Digitalt | 2 år efter<br>nedmontering | Förvaras i pärm hos enheten<br>Lås & Larm<br>Förvaras i samarbetsrum för<br>lås och larm |
-
-<!-- sida 86 -->
-
-12
-
-[Tabell 86-1](handlingar.tabeller/86-1.csv)
-
 | Beställa | Beställningar för installation eller<br>avslut av digitala lås | Combine | Digital | Se anmärkning | Kan gallras efter att<br>meddelandet med<br>beställningen från<br>Kvarboende eller<br>Hemsjukvården har skickats<br>via Combine till enheten Lås<br>& Larm Innovation &<br>digitalisering och<br>beställningen har utförts. |
-| --- | --- | --- | --- | --- | --- |
 |  | Serviceärenden från verksamheten | Artvise Outlook | Digital | 14 månader |  |
 |  | Serviceärenden från fastighetsägare | Artvise Outlook | Digital | 14 månader |  |
 |  | Arbetsorder till Swedlock support om<br>larmorganisationen inte själva kan<br>hantera/montera digitalt lås | Outlook | Digital | Efter utförd<br>arbetsorder |  |
@@ -3033,6 +3010,10 @@ dataskyddsberättelse
 |  | Beställning av digitala lås, värdeskåp<br>och läkemedelsskåp, larm och GPS-<br>klockor. | Proceedo | Digital | 7 år |  |
 |  | Beställning av värdeskåp<br>och läkemedelsskåp | Proceedo | Digital | 7 år |  |
 | Dokumentera | Lista över inkomna<br>installationsärenden | Samarbetsrum | Digitalt | 1 vecka | Tillfälligt arbetssätt i avvaktan<br>på ärendehanteringssystem |
+
+<!-- sida 86 -->
+
+12
 
 <!-- sida 87 -->
 
@@ -3201,7 +3182,7 @@ dataskyddsberättelse
 
 22
 
-[Tabell 96-1](handlingar.tabeller/96-1.csv)
+[Tabell 96-97-1](handlingar.tabeller/96-97-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3222,15 +3203,7 @@ dataskyddsberättelse
 | Dokumentera | Journalanteckning | Combine | Digital | 5 år (5, 15, 25<br>bevaras) |  |
 | Kommunicera utredning | Kommunikation | Combine | Digital | 5 år (5, 15, 25<br>bevaras) |  |
 | Besluta | Beslut om bifall/avslag om bistånd | Combine | Digital | 5 år (5, 15, 25<br>bevaras) |  |
-
-<!-- sida 97 -->
-
-23
-
-[Tabell 97-1](handlingar.tabeller/97-1.csv)
-
 | Hantera ej verkställt<br>beslut | Tjänsteskrivelse om Rapportering av<br>ej verkställda beslut enligt<br>socialtjänstlagen | Ciceron | Digital | Bevaras |  |
-| --- | --- | --- | --- | --- | --- |
 |  | Begäran om yttrande och handlingar<br>från IVO | Ciceron | Digital | Bevaras |  |
 |  | Yttrande | Ciceron | Digital | Bevaras |  |
 |  | Beslut från IVO | Ciceron | Digital | Bevaras |  |
@@ -3242,6 +3215,10 @@ dataskyddsberättelse
 | Besluta | Avgiftsbeslut | Combine | Digital | 5 år (5, 15, 25<br>bevaras) |  |
 | Hantera uppgift | Jämkningsansökan på grund av<br>dubbla hyror | Combine | Digital | 5 år (5, 15, 25<br>bevaras) |  |
 | Besluta | Beslut om jämkning för dubbla hyror | Combine | Digital | 5 år (5, 15, 25<br>bevaras) |  |
+
+<!-- sida 97 -->
+
+23
 
 <!-- sida 98 -->
 
@@ -3314,7 +3291,7 @@ arkiveras hos förvaltningen i
 
 28
 
-[Tabell 102-1](handlingar.tabeller/102-1.csv)
+[Tabell 102-103-1](handlingar.tabeller/102-103-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3332,15 +3309,7 @@ arkiveras hos förvaltningen i
 | Hantera underlag | Kopia av faktura | BAB-online | Digital | Se anmärkning | Gallras inom ett år från det att personen har<br>avlidit. |
 | Utbetala | Utbetalningsfil till BGC/Swedbank | Raindance | Digital | 7 år |  |
 | Ansöka | Ansökan om återställningsbidrag | BAB-online | Digital | Se anmärkning | Gallras inom ett år från det att personen har<br>avlidit. |
-
-<!-- sida 103 -->
-
-29
-
-[Tabell 103-1](handlingar.tabeller/103-1.csv)
-
 | Hantera underlag | Beskrivning av<br>återställningsåtgärderna | BAB-online | Digital | Se anmärkning | Gallras inom ett år från det att personen har<br>avlidit. |
-| --- | --- | --- | --- | --- | --- |
 |  | Specifikation av kostnader/offert | BAB-online | Digital | Se anmärkning | Gallras inom ett år från det att personen har<br>avlidit. |
 | Besluta | Beslut om återställningsbidrag | BAB-online | Digital | Se anmärkning | Gallras inom ett år från det<br>att personen har avlidit. |
 | Överklaga | Överklagan tillsammans med bilagor | BAB-online | Digital | Se anmärkning | Gallras inom ett år från det<br>att personen har avlidit. |
@@ -3349,6 +3318,10 @@ arkiveras hos förvaltningen i
 | Överprövning av beslut | Beslut från förvaltningsrätt | BAB-online | Digital | Se anmärkning | Gallras inom ett år från det att personen har<br>avlidit.<br>Beslut om att exempelvis avslå yrkande om<br>muntlig förhandling och avvisa<br>överklagande. |
 |  | Dom från förvaltningsrätt | BAB-online | Digital | Se anmärkning | Gallras inom ett år från det att personen har<br>avlidit. |
 |  | Beslut från kammarrätt och högsta<br>förvaltningsdomstol om<br>prövningstillstånd | BAB-online | Digital | Se anmärkning | Gallras inom ett år från det att personen har<br>avlidit. |
+
+<!-- sida 103 -->
+
+29
 
 <!-- sida 104 -->
 
@@ -3370,7 +3343,7 @@ arkiveras hos förvaltningen i
 
 31
 
-[Tabell 105-1](handlingar.tabeller/105-1.csv)
+[Tabell 105-106-1](handlingar.tabeller/105-106-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3389,15 +3362,6 @@ arkiveras hos förvaltningen i
 |  | Bemötandeplan GPS-klocka | Närarkiv | Papper | 5 år (5, 15, 25<br>bevaras) |  |
 |  | Bemötandeplan aggressivitet | Samarbetsrum | Digital | 5 år (5, 15, 25<br>bevaras) |  |
 |  | Egenkontroll livsmedelshygien, rapport<br>om kyl, frys med mera enligt<br>egenkontrollprogram | Närarkiv | Papper | 3 månader |  |
-
-<!-- sida 106 -->
-
-32
-
-[Tabell 106-1](handlingar.tabeller/106-1.csv)
-
-| Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Verksamhetsområde: | Vård och omsorg |  |  |  |  |
 | Processgrupp: | Insatser för äldre och personer med funktionsnedsättning |  |  |  |  |
 | Process: | Hantera korttidsboende och växelvård |  |  |  |  |
@@ -3408,6 +3372,10 @@ arkiveras hos förvaltningen i
 |  | Hälsoärende | Combine | Digital | 5 år (5, 15, 25<br>bevaras) |  |
 |  | Journalanteckning | Combine | Digital | 5 år (5, 15, 25<br>bevaras) |  |
 |  | Signeringslista för läkemedel | Alfa eCare | Digital | 10 år (5, 15, 25<br>bevaras) |  |
+
+<!-- sida 106 -->
+
+32
 
 <!-- sida 107 -->
 
@@ -3464,7 +3432,7 @@ arkiveras hos förvaltningen i
 
 36
 
-[Tabell 110-1](handlingar.tabeller/110-1.csv)
+[Tabell 110-111-1](handlingar.tabeller/110-111-1.csv)
 
 | Verksamhetstyp: | Kärnverksamhet |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3486,15 +3454,7 @@ arkiveras hos förvaltningen i
 |  | Remissvar | Combine | Digital | 10 år (5, 15 och 25<br>bevaras) | Eventuella pappershandlingar<br>förvaras i närarkiv. |
 |  | Bilder/filmer | Combine | Digital | 10 år (5, 15 och 25<br>bevaras) | Eventuella pappershandlingar<br>förvaras i närarkiv. |
 |  | Ordinationshandling/läkemedelslista | Hemdok | Papper | 10 år (5, 15 och 25<br>bevaras) | Eventuella pappershandlingar<br>förvaras i närarkiv. |
-
-<!-- sida 111 -->
-
-37
-
-[Tabell 111-1](handlingar.tabeller/111-1.csv)
-
 |  | Patients narkotikajournal | Alfa eCare | Digital | 10 år (5, 15 och 25<br>bevaras) | Eventuella pappershandlingar<br>förvaras i närarkiv. |
-| --- | --- | --- | --- | --- | --- |
 | Hantera<br>förrådsadministration | Förbrukningsjournal och kontroll av<br>narkotikaklassade läkemedel i förråd | Närarkiv | Papper | 10 år |  |
 | Hantera läkemedel | Signeringslista för avläsning av<br>kylskåp där läkemedel förvaras | I anslutning till kylskåp | Papper | 3 månader |  |
 | Hantera medicintekniska<br>produkter | Register över medicintekniska<br>produkter | Samarbetsrum | Digital | Vid inaktualitet |  |
@@ -3506,6 +3466,10 @@ arkiveras hos förvaltningen i
 |  | Hjälpmedelslista | Hemdok | Papper | Vid inaktualitet |  |
 | Hantera avtal | Avtal för medicintekniska produkter | Ciceron avtalsdiarium | Digital | Bevaras |  |
 |  | Avtal avseende blodprovstagning<br>mellan Polismyndigheten och<br>Hemsjukvården Kungsbacka kommun | Ciceron avtalsdiarium | Digital | Bevaras |  |
+
+<!-- sida 111 -->
+
+37
 
 <!-- sida 112 -->
 
@@ -3603,38 +3567,30 @@ tillgängliga. Eventuella justeringar av frågeställningar eller datakällor sk
 kommuner och redovisas i samband med den årliga rapporteringen. Uppkommer behov av att justera
 indikatorerna i sig ska nytt ärende anmälas till respektive kommuns ansvariga nämnd.
 
-[Tabell 114-1](handlingar.tabeller/114-1.csv)
+[Tabell 114-116-1](handlingar.tabeller/114-116-1.csv)
 
 | Indikator | Frågeställning | Områden som redovisas | Källa |
 | --- | --- | --- | --- |
 | Delaktighet | Brukar personalen ta<br>hänsyn till dina åsikter<br>och önskemål om hur | Vård och Omsorgsboende,<br>Hemtjänst | Vad tycker de äldre<br>om äldreomsorgen<br>(Socialstyrelsen). |
+|  | hjälpen ska<br>genomföras? |  |  |
+|  | Jag är delaktig i<br>planering och beslut om<br>min vård och<br>rehabilitering i hemmet<br>i den utsträckning som<br>jag vill. | Hemsjukvården:<br>- vård och<br>omsorgsboende,<br>- ordinärt boende,<br>- bostad med särskild<br>service,<br>- korttidsenhet | Hemsjukvårdsenkät<br>(kommunerna i<br>Halland) |
+| Samordning | Upplever du att de som<br>hjälper dig jobbar<br>tillsammans på ett bra<br>sätt utifrån dina behov? | Hemsjukvården:<br>- vård och<br>omsorgsboende,<br>- ordinärt boende,<br>- bostad med särskild<br>service,<br>- korttidsenhet<br>Redovisas upplevelse av<br>samordning internt inom<br>kommun och externt<br>kommun-region. | Hemsjukvårdsenkät<br>(kommunerna i<br>Halland) |
+| Tillgänglighet | Upplevelse av att få<br>träffa fasta<br>kontakter/personal vid<br>behov eller inom rimlig<br>tid. | Vård och omsorgsboende,<br>Hemtjänst,<br>Hemsjukvården och<br>läkare:<br>- vård och<br>omsorgsboende,<br>- ordinärt boende,<br>- bostad med särskild<br>service,<br>- korttidsenhet | Vad tycker de äldre<br>om äldreomsorgen<br>(Socialstyrelsen)<br>Hemsjukvårdsenkät<br>(kommunerna i<br>Halland) |
+| Förtroende | Känner du förtroende<br>för personalen? | Vård och omsorgsboende,<br>Hemtjänst,<br>Hemsjukvården:<br>- vård och<br>omsorgsboende,<br>- ordinärt boende,<br>- bostad med särskild<br>service,<br>- korttidsenhet | Vad tycker de äldre<br>om äldreomsorgen<br>(Socialstyrelsen)<br>Hemsjukvårdsenkät<br>(kommunerna i<br>Halland) |
+| Kontinuitet | Andel personal som<br>omsorgstagare i<br>hemtjänsten med minst<br>två besök dagligen<br>möter under 14 dagar. | Hemtjänst | Kommunens kvalitet i<br>korthet (KKiK),<br>Kolada |
+| Återinskrivningar<br>i slutenvården | Andel återinskrivningar<br>i slutenvården inom 30<br>dagar.<br>Andel kopplat till alla<br>vårdtillfällen inom<br>kommunen under året. | Kommunövergripande,<br>alla som i samband med<br>vårdtillfället har kontakt<br>med kommunal vård- och<br>omsorg.<br>Alla åldrar | Lifecare SP |
+| Självskattad hälsa<br>(återfinns inte<br>bland kommun-<br>regionala Hallands-<br>indikatorerna) | Hur bedömer du ditt<br>allmänna<br>hälsotillstånd? | Vård och omsorgsboende,<br>Hemtjänst,<br>Hemsjukvården:<br>- vård och<br>omsorgsboende,<br>- ordinärt boende,<br>- bostad med särskild<br>service,<br>- korttidsenhet | Vad tycker de äldre<br>om äldreomsorgen<br>(Socialstyrelsen)<br>Hemsjukvårdsenkät<br>(kommunerna i<br>Halland) |
+| Personcentrering<br>(återfinns inte<br>bland kommun- | Upplevelse av hur<br>personcentrerad vården<br>är ur vård- och | Hemsjukvården:<br>- vård och<br>omsorgsboende, | Hemsjukvårdsenkät<br>(kommunerna i<br>Halland) |
 
 <!-- sida 115 -->
 
 KUNGSBACKA  KOMMUN
 3 (5)
 
-[Tabell 115-1](handlingar.tabeller/115-1.csv)
-
-|  | hjälpen ska<br>genomföras? |  |  |
-| --- | --- | --- | --- |
-|  | Jag är delaktig i<br>planering och beslut om<br>min vård och<br>rehabilitering i hemmet<br>i den utsträckning som<br>jag vill. | Hemsjukvården:<br>- vård och<br>omsorgsboende,<br>- ordinärt boende,<br>- bostad med särskild<br>service,<br>- korttidsenhet | Hemsjukvårdsenkät<br>(kommunerna i<br>Halland) |
-| Samordning | Upplever du att de som<br>hjälper dig jobbar<br>tillsammans på ett bra<br>sätt utifrån dina behov? | Hemsjukvården:<br>- vård och<br>omsorgsboende,<br>- ordinärt boende,<br>- bostad med särskild<br>service,<br>- korttidsenhet<br>Redovisas upplevelse av<br>samordning internt inom<br>kommun och externt<br>kommun-region. | Hemsjukvårdsenkät<br>(kommunerna i<br>Halland) |
-| Tillgänglighet | Upplevelse av att få<br>träffa fasta<br>kontakter/personal vid<br>behov eller inom rimlig<br>tid. | Vård och omsorgsboende,<br>Hemtjänst,<br>Hemsjukvården och<br>läkare:<br>- vård och<br>omsorgsboende,<br>- ordinärt boende,<br>- bostad med särskild<br>service,<br>- korttidsenhet | Vad tycker de äldre<br>om äldreomsorgen<br>(Socialstyrelsen)<br>Hemsjukvårdsenkät<br>(kommunerna i<br>Halland) |
-
 <!-- sida 116 -->
 
 KUNGSBACKA  KOMMUN
 4 (5)
-
-[Tabell 116-1](handlingar.tabeller/116-1.csv)
-
-| Förtroende | Känner du förtroende<br>för personalen? | Vård och omsorgsboende,<br>Hemtjänst,<br>Hemsjukvården:<br>- vård och<br>omsorgsboende,<br>- ordinärt boende,<br>- bostad med särskild<br>service,<br>- korttidsenhet | Vad tycker de äldre<br>om äldreomsorgen<br>(Socialstyrelsen)<br>Hemsjukvårdsenkät<br>(kommunerna i<br>Halland) |
-| --- | --- | --- | --- |
-| Kontinuitet | Andel personal som<br>omsorgstagare i<br>hemtjänsten med minst<br>två besök dagligen<br>möter under 14 dagar. | Hemtjänst | Kommunens kvalitet i<br>korthet (KKiK),<br>Kolada |
-| Återinskrivningar<br>i slutenvården | Andel återinskrivningar<br>i slutenvården inom 30<br>dagar.<br>Andel kopplat till alla<br>vårdtillfällen inom<br>kommunen under året. | Kommunövergripande,<br>alla som i samband med<br>vårdtillfället har kontakt<br>med kommunal vård- och<br>omsorg.<br>Alla åldrar | Lifecare SP |
-| Självskattad hälsa<br>(återfinns inte<br>bland kommun-<br>regionala Hallands-<br>indikatorerna) | Hur bedömer du ditt<br>allmänna<br>hälsotillstånd? | Vård och omsorgsboende,<br>Hemtjänst,<br>Hemsjukvården:<br>- vård och<br>omsorgsboende,<br>- ordinärt boende,<br>- bostad med särskild<br>service,<br>- korttidsenhet | Vad tycker de äldre<br>om äldreomsorgen<br>(Socialstyrelsen)<br>Hemsjukvårdsenkät<br>(kommunerna i<br>Halland) |
-| Personcentrering<br>(återfinns inte<br>bland kommun- | Upplevelse av hur<br>personcentrerad vården<br>är ur vård- och | Hemsjukvården:<br>- vård och<br>omsorgsboende, | Hemsjukvårdsenkät<br>(kommunerna i<br>Halland) |
 
 <!-- sida 117 -->
 

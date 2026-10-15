@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.687e3942192fee12135294a3/1731061735
 sha256: 5615e8b78036d77633146bdbc7e76ec56517860ec12be89799f9379a68876c89
 bytes: 6564326
 sidor: 400
-hamtad: 2026-10-08T08:54:11+00:00
-konverterad: 2026-10-08T08:55:01+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T06:49:58+00:00
+konverterad: 2026-10-15T06:50:57+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [139, 338]
-figurer: null
-tolkade: null
+figurer: [24, 29, 87, 90, 95, 96, 97, 98, 122, 123, 124, 125, 126, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 141, 223, 228, 286, 289, 294, 295, 296, 297, 321, 322, 323, 324, 325, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 340]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1541,7 +1541,7 @@ Valnämndens delegeri ng av beslutanderätt Sida 8 av 12
 
 Valnämndens delegeri ng av beslutanderätt Sida 9 av 12
 
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
+[Tabell 46-47-1](handlingar.tabeller/46-47-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Ersättare | Anmärkning<br>/villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -1553,17 +1553,13 @@ Valnämndens delegeri ng av beslutanderätt Sida 9 av 12
 | 2.3.5 | LAS 18 § | Avsked | AC | KD | I samråd med<br>HR på<br>Kommunstyrels<br>ens förvaltning<br>och<br>förhandlings-<br>chef |
 | 2.3.6 | "Gemensamt<br>reglemente för<br>kommun-<br>styrelsen och<br>nämnder i<br>Kungsbacka<br>kommun" | Avsluta anställning enligt särskild<br>överenskommelse. | AC | KD | I samråd<br>med HR-<br>chef |
 |  |  | Övrigt |  |  |  |
+| 2.3.7 | AB § 11 | Disciplinpåföljd - skriftlig<br>varning. | AC | KD | I samråd med<br>HR på<br>Kommunstyrels<br>ens förvaltning |
+| 2.3.8 | AB § 10<br>mom 1-3 | Avstängning | AC | KD | I samråd med<br>HR på<br>Kommunstyrels<br>ens förvaltning |
+| 2.3.9 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla. | AC | KD | I samråd med<br>HR på<br>Kommunstyr<br>elsens<br>förvaltning i<br>enlighet med<br>”Regler för<br>bisyssla i<br>Kungsbacka<br>kommun” |
 
 <!-- sida 47 -->
 
 Valnämndens delegeri ng av beslutanderätt Sida 10 av 12
-
-[Tabell 47-1](handlingar.tabeller/47-1.csv)
-
-| 2.3.7 | AB § 11 | Disciplinpåföljd - skriftlig<br>varning. | AC | KD | I samråd med<br>HR på<br>Kommunstyrels<br>ens förvaltning |
-| --- | --- | --- | --- | --- | --- |
-| 2.3.8 | AB § 10<br>mom 1-3 | Avstängning | AC | KD | I samråd med<br>HR på<br>Kommunstyrels<br>ens förvaltning |
-| 2.3.9 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla. | AC | KD | I samråd med<br>HR på<br>Kommunstyr<br>elsens<br>förvaltning i<br>enlighet med<br>”Regler för<br>bisyssla i<br>Kungsbacka<br>kommun” |
 
 <!-- sida 48 -->
 
@@ -1822,13 +1818,41 @@ Kungsbacka kommun        Delegering av beslutanderätt, Valnämnden 6 (11)
 
 <!-- sida 56 -->
 
+fullmäktige 15                                        fullmäktige 15
+juni 2022 § 106.                                      juni 2022 §
+Gäller från 2023-                                     106. Gäller
+01-01)                                                från 2023-01-
+01\)
+\*I samma
+dokument
+framgår vilka
+aktiviteter som
+avses.
+2.1.11 Lagrum: artikel Ingå personuppgiftsbiträdesavtal Bitr. KD Avser
+för kommungemensamma digitala              kommungemen
+28 GDPR och                                            samma tjänster
+tjänster och system.
+Hantering av                                           och system som
+används av
+personuppgifter -
+kommunens
+Riktlinjer,                                            samtliga
+nämnder.
+Kommunfullmäktige
+Kommungemen
+2024-03-05 § 33                                        samma system
+som stödjer
+kommungemen
+samma
+stödprocesser
+som utförs av
+Service eller
+kommunstyrels
+en enligt
+reglemente
+omfattas inte.
+
 Kungsbacka kommun        Delegering av beslutanderätt, Valnämnden 7 (11)
-
-[Tabell 56-1](handlingar.tabeller/56-1.csv)
-
-|  | fullmäktige 15<br>juni 2022 § 106.<br>Gäller från 2023-<br>01-01) |  |  |  | fullmäktige 15<br>juni 2022 §<br>106. Gäller<br>från 2023-01-<br>01)<br>\*I samma<br>dokument<br>framgår vilka<br>aktiviteter som<br>avses. |
-| --- | --- | --- | --- | --- | --- |
-| 2.1.11 | Lagrum: artikel<br>28 GDPR och<br>Hantering av<br>personuppgifter -<br>Riktlinjer,<br>Kommunfullmäktige<br>2024-03-05 § 33 | Ingå personuppgiftsbiträdesavtal<br>för kommungemensamma digitala<br>tjänster och system. | Bitr. KD |  | Avser<br>kommungemen<br>samma tjänster<br>och system som<br>används av<br>kommunens<br>samtliga<br>nämnder.<br>Kommungemen<br>samma system<br>som stödjer<br>kommungemen<br>samma<br>stödprocesser<br>som utförs av<br>Service eller<br>kommunstyrels<br>en enligt<br>reglemente<br>omfattas inte. |
 
 <!-- sida 57 -->
 
@@ -1850,7 +1874,7 @@ Kungsbacka kommun        Delegering av beslutanderätt, Valnämnden 8 (11)
 
 Kungsbacka kommun        Delegering av beslutanderätt, Valnämnden 9 (11)
 
-[Tabell 58-1](handlingar.tabeller/58-1.csv)
+[Tabell 58-59-1](handlingar.tabeller/58-59-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat<br>till | Ersättare | Anmärknin<br>g/villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -1861,18 +1885,14 @@ Kungsbacka kommun        Delegering av beslutanderätt, Valnämnden 9 (11)
 | 2.3.4 | LAS § 7 | Uppsägning på grund av<br>arbetsbrist. | AC | KD | I samråd med<br>HR på<br>Kommunstyrel<br>sens<br>förvaltning |
 | 2.3.5 | LAS 18 § | Avsked | AC | KD | I samråd med<br>HR på<br>Kommunstyrel<br>sens<br>förvaltning<br>och<br>förhandlings-<br>chef |
 | 2.3.6 | "Gemensamt<br>reglemente för<br>kommun-<br>styrelsen och<br>nämnder i<br>Kungsbacka<br>kommun" | Avsluta anställning enligt<br>särskild överenskommelse. | AC | KD | I samråd<br>med HR-<br>chef |
+|  |  | Övrigt |  |  |  |
+| 2.3.7 | AB § 11 | Disciplinpåföljd - skriftlig<br>varning. | AC | KD | I samråd med<br>HR på<br>Kommunstyrel<br>sens<br>förvaltning |
+| 2.3.8 | AB § 10<br>mom 1-3 | Avstängning | AC | KD | I samråd med<br>HR på<br>Kommunstyrel<br>sens<br>förvaltning |
+| 2.3.9 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla. | AC | KD | I samråd<br>med HR på<br>Kommunstyr<br>elsens<br>förvaltning i<br>enlighet<br>med ”Regler<br>för bisyssla i<br>Kungsbacka<br>kommun” |
 
 <!-- sida 59 -->
 
 Kungsbacka kommun        Delegering av beslutanderätt, Valnämnden 10 (11)
-
-[Tabell 59-1](handlingar.tabeller/59-1.csv)
-
-|  |  | Övrigt |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| 2.3.7 | AB § 11 | Disciplinpåföljd - skriftlig<br>varning. | AC | KD | I samråd med<br>HR på<br>Kommunstyrel<br>sens<br>förvaltning |
-| 2.3.8 | AB § 10<br>mom 1-3 | Avstängning | AC | KD | I samråd med<br>HR på<br>Kommunstyrel<br>sens<br>förvaltning |
-| 2.3.9 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla. | AC | KD | I samråd<br>med HR på<br>Kommunstyr<br>elsens<br>förvaltning i<br>enlighet<br>med ”Regler<br>för bisyssla i<br>Kungsbacka<br>kommun” |
 
 <!-- sida 60 -->
 
@@ -4080,13 +4100,17 @@ Aktuellt forum för respektive digital tjänst eller system framgår i tabellen 
 nedan rekommenderas det att forumet genomförs med undantag för Avtalsuppföljning där Ja innebär att det
 är obligatoriskt.
 
-[Tabell 109-1](handlingar.tabeller/109-1.csv)
+[Tabell 109-110-1](handlingar.tabeller/109-110-1.csv)
 
 | Utvecklingsråd Användarforum Avstämningsmöte Leverantörsmöte Avtalsuppföljning Systemförvaltarforum |  |
 | --- | --- |
 | Publik tjänst | Nej Nej Vid behov Nej Nej Nej |
 | Myndighets-<br>tjänst | Nej Nej Vid behov Ja Nej Nej |
 | Kommersiella<br>tjänster | Nej Nej Vid behov Vid behov Nej Nej |
+| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
+| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
+| Plattform | Ja Ja Ja Ja Ja Ja |
+| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
 
 <!-- sida 110 -->
 
@@ -4135,14 +4159,6 @@ Förslag på agenda:
 •  Dialog om rutiner och arbetet med digital tjänst och system
 
 •  Erfarenhetsutbyte
-
-[Tabell 110-1](handlingar.tabeller/110-1.csv)
-
-| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
-| --- | --- |
-| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
-| Plattform | Ja Ja Ja Ja Ja Ja |
-| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
 
 <!-- sida 111 -->
 
@@ -4934,13 +4950,10 @@ Vice ordförande i vallokal   20%                        4  0%
 3%
 Annat
 2%
+Antal svar
+Totalt 15 592
 
-[Tabell 131-1](handlingar.tabeller/131-1.csv)
-
-|  | Antal svar |
-| --- | --- |
-| Totalt | 15 592 |
-| Kungsbacka kommun | 221 |
+Kungsbacka kommun    221
 
 <!-- sida 132 -->
 
@@ -4951,10 +4964,10 @@ Har  du jobbat   som  röstmottagare     i tidigare val?
 Total Kungsbacka kommun
 
 80%         76%
-71%
+71%                                                               Antal svar
 70%
-
-60%
+Totalt 15 592
+60%                                                            Kungsbacka kommun    221
 
 50%
 
@@ -4968,13 +4981,6 @@ Total Kungsbacka kommun
 
 0%
 Ja                      Nej
-
-[Tabell 132-1](handlingar.tabeller/132-1.csv)
-
-|  | Antal svar |
-| --- | --- |
-| Totalt | 15 592 |
-| Kungsbacka kommun | 221 |
 
 <!-- sida 133 -->
 
@@ -4991,9 +4997,11 @@ Total  Kungsbacka kommun
 7%
 Mindre än en vecka innan
 8%
+Antal svar
 37%
-1-2 veckor innan
+1-2 veckor innan                                                                      Totalt 18 055
 41%
+Kungsbacka kommun    246
 38%
 3-4 veckor innan
 38%
@@ -5006,13 +5014,6 @@ Mindre än en vecka innan
 1%
 Deltog inte i någon utbildning
 0%
-
-[Tabell 133-1](handlingar.tabeller/133-1.csv)
-
-|  | Antal svar |
-| --- | --- |
-| Totalt | 18 055 |
-| Kungsbacka kommun | 246 |
 
 <!-- sida 134 -->
 
@@ -5031,16 +5032,11 @@ uppdraget som röstmottagare påbörjades                             95%
 
 Utbildningen hölls för nära inpå att uppdraget 1%
 som röstmottagare påbörjades 1%
+Antal svar
+Totalt 17 684
 
-Utbildningen hölls för långt ifrån att uppdraget 6%
+Utbildningen hölls för långt ifrån att uppdraget 6%                                     Kungsbacka kommun   244
 som röstmottagare påbörjades 4%
-
-[Tabell 134-1](handlingar.tabeller/134-1.csv)
-
-|  | Antal svar |
-| --- | --- |
-| Totalt | 17 684 |
-| Kungsbacka kommun | 244 |
 
 <!-- sida 135 -->
 
@@ -5086,11 +5082,11 @@ Total  Kungsbacka kommun
 100%      96%  97%
 90%
 
-80%
-70%
+80%                                                                                            Antal svar
+70%                                                                                      Totalt 15 398
 
 60%
-
+Kungsbacka kommun   218
 50%
 40%
 
@@ -5101,13 +5097,6 @@ Total  Kungsbacka kommun
 0%           0%
 0%
 Ja               Nej               Delvis
-
-[Tabell 136-1](handlingar.tabeller/136-1.csv)
-
-|  | Antal svar |
-| --- | --- |
-| Totalt | 15 398 |
-| Kungsbacka kommun | 218 |
 
 <!-- sida 137 -->
 
@@ -9556,7 +9545,7 @@ Valnämndens delegeri ng av beslutanderätt Sida 8 av 12
 
 Valnämndens delegeri ng av beslutanderätt Sida 9 av 12
 
-[Tabell 245-1](handlingar.tabeller/245-1.csv)
+[Tabell 245-246-1](handlingar.tabeller/245-246-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Ersättare | Anmärkning<br>/villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -9568,17 +9557,13 @@ Valnämndens delegeri ng av beslutanderätt Sida 9 av 12
 | 2.3.5 | LAS 18 § | Avsked | AC | KD | I samråd med<br>HR på<br>Kommunstyrels<br>ens förvaltning<br>och<br>förhandlings-<br>chef |
 | 2.3.6 | "Gemensamt<br>reglemente för<br>kommun-<br>styrelsen och<br>nämnder i<br>Kungsbacka<br>kommun" | Avsluta anställning enligt särskild<br>överenskommelse. | AC | KD | I samråd<br>med HR-<br>chef |
 |  |  | Övrigt |  |  |  |
+| 2.3.7 | AB § 11 | Disciplinpåföljd - skriftlig<br>varning. | AC | KD | I samråd med<br>HR på<br>Kommunstyrels<br>ens förvaltning |
+| 2.3.8 | AB § 10<br>mom 1-3 | Avstängning | AC | KD | I samråd med<br>HR på<br>Kommunstyrels<br>ens förvaltning |
+| 2.3.9 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla. | AC | KD | I samråd med<br>HR på<br>Kommunstyr<br>elsens<br>förvaltning i<br>enlighet med<br>”Regler för<br>bisyssla i<br>Kungsbacka<br>kommun” |
 
 <!-- sida 246 -->
 
 Valnämndens delegeri ng av beslutanderätt Sida 10 av 12
-
-[Tabell 246-1](handlingar.tabeller/246-1.csv)
-
-| 2.3.7 | AB § 11 | Disciplinpåföljd - skriftlig<br>varning. | AC | KD | I samråd med<br>HR på<br>Kommunstyrels<br>ens förvaltning |
-| --- | --- | --- | --- | --- | --- |
-| 2.3.8 | AB § 10<br>mom 1-3 | Avstängning | AC | KD | I samråd med<br>HR på<br>Kommunstyrels<br>ens förvaltning |
-| 2.3.9 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla. | AC | KD | I samråd med<br>HR på<br>Kommunstyr<br>elsens<br>förvaltning i<br>enlighet med<br>”Regler för<br>bisyssla i<br>Kungsbacka<br>kommun” |
 
 <!-- sida 247 -->
 
@@ -9837,13 +9822,41 @@ Kungsbacka kommun        Delegering av beslutanderätt, Valnämnden 6 (11)
 
 <!-- sida 255 -->
 
+fullmäktige 15                                        fullmäktige 15
+juni 2022 § 106.                                      juni 2022 §
+Gäller från 2023-                                     106. Gäller
+01-01)                                                från 2023-01-
+01\)
+\*I samma
+dokument
+framgår vilka
+aktiviteter som
+avses.
+2.1.11 Lagrum: artikel Ingå personuppgiftsbiträdesavtal Bitr. KD Avser
+för kommungemensamma digitala              kommungemen
+28 GDPR och                                            samma tjänster
+tjänster och system.
+Hantering av                                           och system som
+används av
+personuppgifter -
+kommunens
+Riktlinjer,                                            samtliga
+nämnder.
+Kommunfullmäktige
+Kommungemen
+2024-03-05 § 33                                        samma system
+som stödjer
+kommungemen
+samma
+stödprocesser
+som utförs av
+Service eller
+kommunstyrels
+en enligt
+reglemente
+omfattas inte.
+
 Kungsbacka kommun        Delegering av beslutanderätt, Valnämnden 7 (11)
-
-[Tabell 255-1](handlingar.tabeller/255-1.csv)
-
-|  | fullmäktige 15<br>juni 2022 § 106.<br>Gäller från 2023-<br>01-01) |  |  |  | fullmäktige 15<br>juni 2022 §<br>106. Gäller<br>från 2023-01-<br>01)<br>\*I samma<br>dokument<br>framgår vilka<br>aktiviteter som<br>avses. |
-| --- | --- | --- | --- | --- | --- |
-| 2.1.11 | Lagrum: artikel<br>28 GDPR och<br>Hantering av<br>personuppgifter -<br>Riktlinjer,<br>Kommunfullmäktige<br>2024-03-05 § 33 | Ingå personuppgiftsbiträdesavtal<br>för kommungemensamma digitala<br>tjänster och system. | Bitr. KD |  | Avser<br>kommungemen<br>samma tjänster<br>och system som<br>används av<br>kommunens<br>samtliga<br>nämnder.<br>Kommungemen<br>samma system<br>som stödjer<br>kommungemen<br>samma<br>stödprocesser<br>som utförs av<br>Service eller<br>kommunstyrels<br>en enligt<br>reglemente<br>omfattas inte. |
 
 <!-- sida 256 -->
 
@@ -9865,7 +9878,7 @@ Kungsbacka kommun        Delegering av beslutanderätt, Valnämnden 8 (11)
 
 Kungsbacka kommun        Delegering av beslutanderätt, Valnämnden 9 (11)
 
-[Tabell 257-1](handlingar.tabeller/257-1.csv)
+[Tabell 257-258-1](handlingar.tabeller/257-258-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat<br>till | Ersättare | Anmärknin<br>g/villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -9876,18 +9889,14 @@ Kungsbacka kommun        Delegering av beslutanderätt, Valnämnden 9 (11)
 | 2.3.4 | LAS § 7 | Uppsägning på grund av<br>arbetsbrist. | AC | KD | I samråd med<br>HR på<br>Kommunstyrel<br>sens<br>förvaltning |
 | 2.3.5 | LAS 18 § | Avsked | AC | KD | I samråd med<br>HR på<br>Kommunstyrel<br>sens<br>förvaltning<br>och<br>förhandlings-<br>chef |
 | 2.3.6 | "Gemensamt<br>reglemente för<br>kommun-<br>styrelsen och<br>nämnder i<br>Kungsbacka<br>kommun" | Avsluta anställning enligt<br>särskild överenskommelse. | AC | KD | I samråd<br>med HR-<br>chef |
+|  |  | Övrigt |  |  |  |
+| 2.3.7 | AB § 11 | Disciplinpåföljd - skriftlig<br>varning. | AC | KD | I samråd med<br>HR på<br>Kommunstyrel<br>sens<br>förvaltning |
+| 2.3.8 | AB § 10<br>mom 1-3 | Avstängning | AC | KD | I samråd med<br>HR på<br>Kommunstyrel<br>sens<br>förvaltning |
+| 2.3.9 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla. | AC | KD | I samråd<br>med HR på<br>Kommunstyr<br>elsens<br>förvaltning i<br>enlighet<br>med ”Regler<br>för bisyssla i<br>Kungsbacka<br>kommun” |
 
 <!-- sida 258 -->
 
 Kungsbacka kommun        Delegering av beslutanderätt, Valnämnden 10 (11)
-
-[Tabell 258-1](handlingar.tabeller/258-1.csv)
-
-|  |  | Övrigt |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| 2.3.7 | AB § 11 | Disciplinpåföljd - skriftlig<br>varning. | AC | KD | I samråd med<br>HR på<br>Kommunstyrel<br>sens<br>förvaltning |
-| 2.3.8 | AB § 10<br>mom 1-3 | Avstängning | AC | KD | I samråd med<br>HR på<br>Kommunstyrel<br>sens<br>förvaltning |
-| 2.3.9 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla. | AC | KD | I samråd<br>med HR på<br>Kommunstyr<br>elsens<br>förvaltning i<br>enlighet<br>med ”Regler<br>för bisyssla i<br>Kungsbacka<br>kommun” |
 
 <!-- sida 259 -->
 
@@ -12095,13 +12104,17 @@ Aktuellt forum för respektive digital tjänst eller system framgår i tabellen 
 nedan rekommenderas det att forumet genomförs med undantag för Avtalsuppföljning där Ja innebär att det
 är obligatoriskt.
 
-[Tabell 308-1](handlingar.tabeller/308-1.csv)
+[Tabell 308-309-1](handlingar.tabeller/308-309-1.csv)
 
 | Utvecklingsråd Användarforum Avstämningsmöte Leverantörsmöte Avtalsuppföljning Systemförvaltarforum |  |
 | --- | --- |
 | Publik tjänst | Nej Nej Vid behov Nej Nej Nej |
 | Myndighets-<br>tjänst | Nej Nej Vid behov Ja Nej Nej |
 | Kommersiella<br>tjänster | Nej Nej Vid behov Vid behov Nej Nej |
+| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
+| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
+| Plattform | Ja Ja Ja Ja Ja Ja |
+| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
 
 <!-- sida 309 -->
 
@@ -12150,14 +12163,6 @@ Förslag på agenda:
 •  Dialog om rutiner och arbetet med digital tjänst och system
 
 •  Erfarenhetsutbyte
-
-[Tabell 309-1](handlingar.tabeller/309-1.csv)
-
-| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
-| --- | --- |
-| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
-| Plattform | Ja Ja Ja Ja Ja Ja |
-| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
 
 <!-- sida 310 -->
 
@@ -12949,13 +12954,10 @@ Vice ordförande i vallokal   20%                        4  0%
 3%
 Annat
 2%
+Antal svar
+Totalt 15 592
 
-[Tabell 330-1](handlingar.tabeller/330-1.csv)
-
-|  | Antal svar |
-| --- | --- |
-| Totalt | 15 592 |
-| Kungsbacka kommun | 221 |
+Kungsbacka kommun    221
 
 <!-- sida 331 -->
 
@@ -12966,10 +12968,10 @@ Har  du jobbat   som  röstmottagare     i tidigare val?
 Total Kungsbacka kommun
 
 80%         76%
-71%
+71%                                                               Antal svar
 70%
-
-60%
+Totalt 15 592
+60%                                                            Kungsbacka kommun    221
 
 50%
 
@@ -12983,13 +12985,6 @@ Total Kungsbacka kommun
 
 0%
 Ja                      Nej
-
-[Tabell 331-1](handlingar.tabeller/331-1.csv)
-
-|  | Antal svar |
-| --- | --- |
-| Totalt | 15 592 |
-| Kungsbacka kommun | 221 |
 
 <!-- sida 332 -->
 
@@ -13006,9 +13001,11 @@ Total  Kungsbacka kommun
 7%
 Mindre än en vecka innan
 8%
+Antal svar
 37%
-1-2 veckor innan
+1-2 veckor innan                                                                      Totalt 18 055
 41%
+Kungsbacka kommun    246
 38%
 3-4 veckor innan
 38%
@@ -13021,13 +13018,6 @@ Mindre än en vecka innan
 1%
 Deltog inte i någon utbildning
 0%
-
-[Tabell 332-1](handlingar.tabeller/332-1.csv)
-
-|  | Antal svar |
-| --- | --- |
-| Totalt | 18 055 |
-| Kungsbacka kommun | 246 |
 
 <!-- sida 333 -->
 
@@ -13046,16 +13036,11 @@ uppdraget som röstmottagare påbörjades                             95%
 
 Utbildningen hölls för nära inpå att uppdraget 1%
 som röstmottagare påbörjades 1%
+Antal svar
+Totalt 17 684
 
-Utbildningen hölls för långt ifrån att uppdraget 6%
+Utbildningen hölls för långt ifrån att uppdraget 6%                                     Kungsbacka kommun   244
 som röstmottagare påbörjades 4%
-
-[Tabell 333-1](handlingar.tabeller/333-1.csv)
-
-|  | Antal svar |
-| --- | --- |
-| Totalt | 17 684 |
-| Kungsbacka kommun | 244 |
 
 <!-- sida 334 -->
 
@@ -13101,11 +13086,11 @@ Total  Kungsbacka kommun
 100%      96%  97%
 90%
 
-80%
-70%
+80%                                                                                            Antal svar
+70%                                                                                      Totalt 15 398
 
 60%
-
+Kungsbacka kommun   218
 50%
 40%
 
@@ -13116,13 +13101,6 @@ Total  Kungsbacka kommun
 0%           0%
 0%
 Ja               Nej               Delvis
-
-[Tabell 335-1](handlingar.tabeller/335-1.csv)
-
-|  | Antal svar |
-| --- | --- |
-| Totalt | 15 398 |
-| Kungsbacka kommun | 218 |
 
 <!-- sida 336 -->
 

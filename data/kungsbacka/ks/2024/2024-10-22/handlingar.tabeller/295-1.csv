@@ -1,0 +1,4 @@
+Benämning,Lufttemperatur [°C],Vindhastighet [m/s],Solinstrålning [W/m²]
+Vinter,0,"0,6",450
+Vår/höst,10,"0,6",800
+Sommar,25,"0,6",900

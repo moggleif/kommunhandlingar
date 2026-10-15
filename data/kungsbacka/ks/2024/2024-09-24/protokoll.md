@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.20293f1d19233944f50595b3/1727685979
 sha256: 7fbfc8c0ade9b984b1dc8705f2daaf7eddd97f87572addb3dcf6562e0ed22c04
 bytes: 693198
 sidor: 43
-hamtad: 2026-10-08T09:08:25+00:00
-konverterad: 2026-10-08T09:08:33+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-15T07:01:18+00:00
+konverterad: 2026-10-15T07:01:28+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: null
-tolkade: null
+figurer: []
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -1206,7 +1206,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 4CC6AAA7CDCB3B6ED31F1338BCA3AB0B35DB2BC170
 Transaktionsidentitet: 5EB805F81E0369795F98398085EC730C012F14AAE9
 
-[Tabell 28-1](protokoll.tabeller/28-1.csv)
+[Tabell 28-29-1](protokoll.tabeller/28-29-1.csv)
 
 | Delegat | Ärende |
 | --- | --- |
@@ -1217,6 +1217,21 @@ Transaktionsidentitet: 5EB805F81E0369795F98398085EC730C012F14AAE9
 | Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>Trafikverkets remiss om sektorsbeskrivning och<br>kriterier för riksintresse. |
 | Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över<br>Länsstyrelsens remiss om Sveriges ekonomiska zon<br>för vindparken Poseidon |
 | Samhällsbyggnadschef | Kommunen avstår från att lämna yttrande över |
+|  | Västtrafiks remiss om riktlinjer för tillgänglighet på<br>hållplats |
+| Mark- och exploateringschef | Genomförandeavtal - projektering och utbyggnad av<br>gångväg - del av Frillesås-Rya 2:1 |
+| Exploateringshandläggare | Servitutsavtal Hjälm 16:1 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Vallby 6:5 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Guntofta 1:45 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Vallby 7:12 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Vallby 6:4 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Gräppås 1:8 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Gräppås 2:25 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Kyrkobyn 8:1 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Gödestad 5:5 - Teleledningar |
+| Mark- och exploateringschef | Avtal om sidoarrende del av Kläppa 2:2 - jordbruk |
+| Exploateringshandläggare | Servitutsavtal Ölmevalla-Bolg 2:8 - Teleledningar |
+| Exploateringshandläggare | Servitutsavtal Mossen 3:15 - VA- och teleledningar |
+| Exploateringshandläggare | Servitutsavtal Mossen 3:2 - VA- och teleledningar |
 
 <!-- sida 29 -->
 
@@ -1234,25 +1249,6 @@ redovisningen av delegeringsbeslut fattade under perioden 2023-11-15 till
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 4CC6AAA7CDCB3B6ED31F1338BCA3AB0B35DB2BC170
 Transaktionsidentitet: 5EB805F81E0369795F98398085EC730C012F14AAE9
-
-[Tabell 29-1](protokoll.tabeller/29-1.csv)
-
-|  | Västtrafiks remiss om riktlinjer för tillgänglighet på<br>hållplats |
-| --- | --- |
-| Mark- och exploateringschef | Genomförandeavtal - projektering och utbyggnad av<br>gångväg - del av Frillesås-Rya 2:1 |
-| Exploateringshandläggare | Servitutsavtal Hjälm 16:1 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Vallby 6:5 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Guntofta 1:45 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Vallby 7:12 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Vallby 6:4 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Gräppås 1:8 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Gräppås 2:25 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Kyrkobyn 8:1 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Gödestad 5:5 - Teleledningar |
-| Mark- och exploateringschef | Avtal om sidoarrende del av Kläppa 2:2 - jordbruk |
-| Exploateringshandläggare | Servitutsavtal Ölmevalla-Bolg 2:8 - Teleledningar |
-| Exploateringshandläggare | Servitutsavtal Mossen 3:15 - VA- och teleledningar |
-| Exploateringshandläggare | Servitutsavtal Mossen 3:2 - VA- och teleledningar |
 
 <!-- sida 30 -->
 

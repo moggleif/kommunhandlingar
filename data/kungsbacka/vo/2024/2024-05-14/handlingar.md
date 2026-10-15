@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.b7a004018f378e8f28131b0/17153454675
 sha256: 20420ad22df715f68b26b5863e779a5afd00aed5c8b60a779e732d5729a827e3
 bytes: 6385200
 sidor: 80
-hamtad: 2026-10-08T08:21:55+00:00
-konverterad: 2026-10-08T08:22:16+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T06:12:39+00:00
+konverterad: 2026-10-15T06:13:02+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [48, 62, 64, 67]
-figurer: null
-tolkade: null
+figurer: [10, 14, 15, 16, 17, 48, 49, 50, 51, 52, 54, 56, 57, 58, 59, 60, 61, 62, 64, 67, 68, 69, 70, 71, 72]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -101,7 +101,7 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 |  |  |  |
 |  |  |  |
 
-[Tabell 2-3](handlingar.tabeller/2-3.csv)
+[Tabell 2-3-3](handlingar.tabeller/2-3-3.csv)
 
 | Beslutsdatum | Insats | Datum för verkställighet, avslut |
 | --- | --- | --- |
@@ -119,19 +119,7 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 2023-10-02 | Särskilt boende | Verkställd 2024-03-11 |
 | 2023-10-04 | Särskilt boende | Verkställd 2024-02-05 |
 | 2023-10-05 | Särskilt boende | Återtag 2024-01-23 (Tackat nej till<br>erbjudande). |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-3 (3)
-
-Arian Faily                   Pia Berglund
-Förvaltningschef              Verksamhetschef Myndighet & Förebyggande
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
 | 2023-10-12 | Särskilt boende | Återtag 2024-03-11 (tackat nej till ett<br>erbjudande) |
-| --- | --- | --- |
 | 2023-10-12 | Särskilt boende | Återtag 2024-03-01 (tackat nej till ett<br>erbjudande) |
 | 2023-10-17 | Särskilt boende | Verkställd 2024-01-25 |
 | 2023-10-20 | Särskilt boende | Verkställd 2024-02-14 |
@@ -148,6 +136,14 @@ Förvaltningschef              Verksamhetschef Myndighet & Förebyggande
 | 2023-10-26 | Växelvård | Verkställd 2024-03-05 |
 | 2023-11-28 | Växelvård | Verkställd 2024-03-12 |
 | 2023-11-28 | Växelvård | Verkställd 2024-03-25 |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+3 (3)
+
+Arian Faily                   Pia Berglund
+Förvaltningschef              Verksamhetschef Myndighet & Förebyggande
 
 <!-- sida 4 -->
 
@@ -898,8 +894,29 @@ Uppföljning och prognos april 2024
 
 Drift (belopp mnkr)
 
-Analys och kommentarer till nämnden
+Helårspr         Budget-
+ognos  Årsbudget avvikelse Bokslut
 
+```osaker-tabell
+Vård & Omsorg                          2024    2024    2024   2023
+Nämnd                                  -1 423   -1 423     0    205
+
+Förvaltning gemensamt                  -26 547 -32 847  6 300  13 141
+```
+
+Förvaltningsledningskontoret          -536 265 -549 895 13 630 13 557
+
+Distrikt 5                            -340 149 -349 649 9 500  15 131
+Distrikt Syd                           -61 091 -59 761  -1 330 -9 394
+Distrikt Centrum                       -56 519 -59 419  2 900 -13 553
+
+Distrikt Norr                          -28 174 -27 674   -500   -825
+Distrikt Väst                          -82 543 -79 043  -3 500 -5 743
+
+-1
+Periodens resultat                           -1 159 711 27 000 12 519
+132 711
+Analys och kommentarer till nämnden
 Analys:
 Distrikt Norr: Budgetavvikelse - 1 531tkr, Prognos: -500 tkr
 Vård och omsorgsboende: Resultat: -381 tkr.
@@ -925,21 +942,6 @@ Per april månad visar båda enheterna positivt resultat samt bra nyckeltal kopp
 Prognos: -300 tkr
 
 4
-
-[Tabell 25-1](handlingar.tabeller/25-1.csv)
-
-| Vård & Omsorg | Helårspr<br>ognos<br>2024 | Årsbudget<br>2024 | Budget-<br>avvikelse<br>2024 | Bokslut<br>2023 |
-| --- | --- | --- | --- | --- |
-| Nämnd | -1 423 | -1 423 | 0 | 205 |
-| Förvaltning gemensamt | -26 547 | -32 847 | 6 300 | 13 141 |
-| Förvaltningsledningskontoret | -536 265 | -549 895 | 13 630 | 13 557 |
-| Distrikt 5 | -340 149 | -349 649 | 9 500 | 15 131 |
-| Distrikt Syd | -61 091 | -59 761 | -1 330 | -9 394 |
-| Distrikt Centrum | -56 519 | -59 419 | 2 900 | -13 553 |
-| Distrikt Norr | -28 174 | -27 674 | -500 | -825 |
-| Distrikt Väst | -82 543 | -79 043 | -3 500 | -5 743 |
-|  |  |  |  |  |
-| Periodens resultat | -1<br>132 711 | -1 159 711 | 27 000 | 12 519 |
 
 <!-- sida 26 -->
 

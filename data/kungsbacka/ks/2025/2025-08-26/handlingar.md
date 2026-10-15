@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.3ed5df63198cae4d8001ca6/17557561150
 sha256: 571b817d95c973cbdfb60c52fca76352fbca9c17f0b1c2a7f897122f1513845d
 bytes: 276797708
 sidor: 387
-hamtad: 2026-10-08T11:22:04+00:00
-konverterad: 2026-10-08T11:31:49+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T09:13:43+00:00
+konverterad: 2026-10-15T09:24:01+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
-tal_obekraftade: [56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 129, 130, 131, 132, 143, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 322, 329, 330, 364, 387]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
+tal_obekraftade: [17, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 129, 130, 131, 132, 143, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 322, 329, 330, 364, 387]
+figurer: [17, 33, 105, 119, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 149, 150, 162, 167, 168, 171, 172, 197, 200, 201, 203, 204, 206, 232, 238, 239, 253, 260, 267, 271, 272, 273, 278, 279, 281, 288, 290, 293, 294, 295, 296, 297, 298, 300, 302, 303, 304, 305, 306, 307, 314, 320, 328]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -61,7 +61,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -70,17 +70,6 @@ KUNGSBACKA  KOMMUN
 | 7. | Rivning av byggnad inom<br>Skårby 12:1 | 2025-00331 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att tillse att byggnad på Skårby 12:1 rivs. |
 | 8. | Begäran om planbesked för<br>Särö 1:57 och 1:307 | 2025-00388 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Särö 1:57 och Särö 1:307, i Särö. |
 | 9. | Godkännande av<br>projektbeställning för<br>Planprogram Åsa station | 2024-00218 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning<br>gällande Planprogram för Åsa station i Åsa, daterad<br>2025-06-11. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 10. | Svar på Göteborgsregionens<br>remiss av Samverkansformer<br>kring kollektivtrafik i Västra<br>Götaland | 2025-00309 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-06-17,<br>och översänder det som sitt svar till<br>Göteborgsregionen. |
 | 11. | Svar på Finansdepartementets<br>remiss av Statskontorets<br>rapport Förbättrad kontroll och<br>uppföljning av privata utförare<br>i kommuner och regioner<br>(Statskontoret 2025:7) | 2025-00417 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-06-09,<br>och översänder det som sitt svar till<br>Finansdepartementet. |
 | 12. | Svar på Klimat- och<br>näringslivsdepartementets<br>remiss av promemorian<br>Genomförande av<br>bestämmelser i<br>förnybartdirektivet om<br>tillståndsförfaranden för<br>förnybar energi | 2025-00315 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-06-18,<br>och översänder det som sitt svar till Klimat- och<br>näringslivsdepartementet. |
@@ -88,6 +77,16 @@ KUNGSBACKA  KOMMUN
 | 14. | Anmälan av delegeringsbeslut | 2025-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
 | 15. | Anmälan av ordförandebeslut | 2025-00007 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
 | 16. | Redovisning av inkomna<br>skrivelser | 2025-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
+| 17. | Rapport från nämnden för Vård<br>& Omsorg av ej verkställda<br>beslut enligt socialtjänstlagen,<br>SoL, första kvartalet 2025 | 2025-00437 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Vård & Omsorg, enligt 16 kap 6 f §<br>socialtjänstlagen, till protokollet. |
+| 18. | Rapport från nämnden för<br>Individ & Familjeomsorg av ej<br>verkställda beslut enligt<br>socialtjänstlagen, SoL, och<br>lagen om stöd och service till<br>vissa funktionshindrade, LSS,<br>första kvartalet 2025 | 2025-00423 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Individ & Familjeomsorg, enligt 16 kap 6 f §<br>socialtjänstlagen och 28 f § lagen om stöd och service<br>till vissa funktionshindrade, till protokollet. |
+| 19. | Svar på motion från Shabnam<br>Zamani (S) m.fl. om att utreda<br>möjligheterna att införa<br>kulturell allemansrätt på<br>skoltid | 2024-00583 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till det arbete som redan görs inom<br>nämnden för Förskola & Grundskola samt nämnden<br>för Gymnasium & Arbetsmarknad gällande<br>kulturaktiviteter i utbildning och undervisning. |
+| 20. | Svar på motion från Johan<br>Tolinsson (S) m.fl. om ökat<br>samarbete för barn och elevers<br>hälsa | 2024-00595 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att det redan finns etablerade<br>samarbetsforum för berörda parter i arbetet med barn<br>och elevers hälsa |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(4)
 
 <!-- sida 4 -->
 
@@ -97,15 +96,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Patrik Johansson
 ordförande                        kommunsekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 17. | Rapport från nämnden för Vård<br>& Omsorg av ej verkställda<br>beslut enligt socialtjänstlagen,<br>SoL, första kvartalet 2025 | 2025-00437 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Vård & Omsorg, enligt 16 kap 6 f §<br>socialtjänstlagen, till protokollet. |
-| 18. | Rapport från nämnden för<br>Individ & Familjeomsorg av ej<br>verkställda beslut enligt<br>socialtjänstlagen, SoL, och<br>lagen om stöd och service till<br>vissa funktionshindrade, LSS,<br>första kvartalet 2025 | 2025-00423 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar rapport från nämnden<br>för Individ & Familjeomsorg, enligt 16 kap 6 f §<br>socialtjänstlagen och 28 f § lagen om stöd och service<br>till vissa funktionshindrade, till protokollet. |
-| 19. | Svar på motion från Shabnam<br>Zamani (S) m.fl. om att utreda<br>möjligheterna att införa<br>kulturell allemansrätt på<br>skoltid | 2024-00583 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till det arbete som redan görs inom<br>nämnden för Förskola & Grundskola samt nämnden<br>för Gymnasium & Arbetsmarknad gällande<br>kulturaktiviteter i utbildning och undervisning. |
-| 20. | Svar på motion från Johan<br>Tolinsson (S) m.fl. om ökat<br>samarbete för barn och elevers<br>hälsa | 2024-00595 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att det redan finns etablerade<br>samarbetsforum för berörda parter i arbetet med barn<br>och elevers hälsa |
 
 <!-- sida 5 -->
 
@@ -561,12 +551,16 @@ Intern kontrollplan 2026
 |  | 3 2. Mindre 4. Allvarlig/stor inverkan Ja<br>Kommunövergripan vanligt (så stor att den inte får<br>de risk - Risk för inträffa)<br>korruption och<br>välfärdsbrottslighet |
 |  | 4 2. Mindre 3. Kännbar (uppfattas Ja<br>Kommunövergripan vanligt som besvärande för<br>de risk: berörda intressenter och<br>Förvaltningarnas kommunen)<br>arbete med att följa<br>och utveckla det<br>systematiska<br>beredskapsarbetet |
 
-[Tabell 18-2](handlingar.tabeller/18-2.csv)
+[Tabell 18-19-2](handlingar.tabeller/18-19-2.csv)
 
 | Kategorier<br>Personal | Sannolik Konsekvens Anledning till att risk ej<br>Risker<br>het tas till plan<br>Kommunöver- 2. Mindre 3. Kännbar Efterlevnad till gällande<br>gripande risk: vanligt (uppfattas som rutiner har följts upp under<br>Efterlevnad till besvärande för några år och visar på gott<br>rekryterings- berörda resultat. Åtgärder<br>processen intressenter och (information och utbildning)<br>kommunen) har vidtagits vid behov.<br>Följs fortsättningsvis upp<br>på annat sätt. |
 | --- | --- |
 | Ekonomi | Kommunövergripa 2. Mindre 3. Kännbar Utvecklingsarbete pågår bl<br>nde risk: vanligt (uppfattas som a med nya avstämningar<br>Grundläggande besvärande för och rapporter (BI)<br>redovisning berörda<br>kvalitetsbrister intressenter och<br>kommunen) |
 | Gemensa<br>mma<br>områden;<br>Informatio<br>nssäkerhe<br>t, | Kommunövergripa 2. Mindre 3. Kännbar Arbetet med<br>nde risk: vanligt (uppfattas som informationssäkerhet följer<br>informationssäkerh besvärande för gemensamma<br>et; skydd av berörda styrdokument med<br>information mot intressenter och uppföljning i egen process.<br>obehörig tillgång kommunen) |
+| Kategorier<br>administra<br>tion, inköp<br>m fl. | Sannolik Konsekvens Anledning till att risk ej<br>Risker<br>het tas till plan<br>Kommunövergripa 2. Mindre 3. Kännbar Tas omhand genom<br>nde risk: It- vanligt (uppfattas som inköpsprocessen/leverantö<br>säkerhet besvärande för rsuppföljning. Även<br>- Bristande berörda uppföljning egenom<br>driftmiljö hos intressenter och systemförvaltarmodellen.<br>leverantörer kommunen) |
+|  | Kommunövergripa 2. Mindre 3. Kännbar Hanteras genom<br>nde risk: Risk att vanligt (uppfattas som Samhällsbyggnadsledning<br>samhällsutbyggnad besvärande för (Samhällsbyggnadsproces<br>inte kan ske i berörda sen) där vi kommer att<br>planerad takt. Ny intressenter och arbeta med ”Obruten digital<br>infrastruktur och kommunen) samhällsbyggnadsprocess”<br>exploatering och samt ”Utbyggnadsplan”. I<br>projekt för Samhällsbyggnadsledning<br>underhåll/utbyggna finns flera förvaltningar<br>d av befintlig representerade (Teknik,<br>infrastruktur är Service, Bygg o Miljö,<br>beroende av Kultur o Fritid samt KSF<br>varandra (resurser genom SBK och Ekonomi.<br>och<br>samplanering). (Ny<br>formulering)Bristan<br>de resurser och<br>samplanering för<br>samhällsutbyggnad<br>(ny infrastruktur vs<br>underhåll/utbyggna<br>d) (tidigare<br>formulering) |
+| Verksamh<br>et | Kommunövergripa 2. Mindre 3. Kännbar Tas omhand genom<br>nde risk: Dämpad vanligt (uppfattas som budgetprocessen och<br>befolkningstillväxt besvärande för lokalplanen.<br>med långsiktig berörda<br>påverkan på intressenter och<br>kommunala kommunen)<br>verksamheter |
+|  | Risk att 2. Mindre 3. Kännbar<br>kommunstyrelsen vanligt (uppfattas som<br>inte utövar sin besvärande för<br>uppsiktsplikt över berörda<br>den kommunala intressenter och<br>verksamheten på kommunen)<br>ett ändamålsenligt<br>sätt |
 
 <!-- sida 19 -->
 
@@ -574,14 +568,6 @@ Kommunstyrelsen                                  Kungsbacka kommun
 Intern kontrollplan 2026
 
 10
-
-[Tabell 19-1](handlingar.tabeller/19-1.csv)
-
-| Kategorier<br>administra<br>tion, inköp<br>m fl. | Sannolik Konsekvens Anledning till att risk ej<br>Risker<br>het tas till plan<br>Kommunövergripa 2. Mindre 3. Kännbar Tas omhand genom<br>nde risk: It- vanligt (uppfattas som inköpsprocessen/leverantö<br>säkerhet besvärande för rsuppföljning. Även<br>- Bristande berörda uppföljning egenom<br>driftmiljö hos intressenter och systemförvaltarmodellen.<br>leverantörer kommunen) |
-| --- | --- |
-|  | Kommunövergripa 2. Mindre 3. Kännbar Hanteras genom<br>nde risk: Risk att vanligt (uppfattas som Samhällsbyggnadsledning<br>samhällsutbyggnad besvärande för (Samhällsbyggnadsproces<br>inte kan ske i berörda sen) där vi kommer att<br>planerad takt. Ny intressenter och arbeta med ”Obruten digital<br>infrastruktur och kommunen) samhällsbyggnadsprocess”<br>exploatering och samt ”Utbyggnadsplan”. I<br>projekt för Samhällsbyggnadsledning<br>underhåll/utbyggna finns flera förvaltningar<br>d av befintlig representerade (Teknik,<br>infrastruktur är Service, Bygg o Miljö,<br>beroende av Kultur o Fritid samt KSF<br>varandra (resurser genom SBK och Ekonomi.<br>och<br>samplanering). (Ny<br>formulering)Bristan<br>de resurser och<br>samplanering för<br>samhällsutbyggnad<br>(ny infrastruktur vs<br>underhåll/utbyggna<br>d) (tidigare<br>formulering) |
-| Verksamh<br>et | Kommunövergripa 2. Mindre 3. Kännbar Tas omhand genom<br>nde risk: Dämpad vanligt (uppfattas som budgetprocessen och<br>befolkningstillväxt besvärande för lokalplanen.<br>med långsiktig berörda<br>påverkan på intressenter och<br>kommunala kommunen)<br>verksamheter |
-|  | Risk att 2. Mindre 3. Kännbar<br>kommunstyrelsen vanligt (uppfattas som<br>inte utövar sin besvärande för<br>uppsiktsplikt över berörda<br>den kommunala intressenter och<br>verksamheten på kommunen)<br>ett ändamålsenligt<br>sätt |
 
 <!-- sida 20 -->
 
@@ -1577,7 +1563,7 @@ Bilaga 1
 Utredningar som beviljas bidrag på bemyndigandet för 2025 och 2026 (belopp i
 kronor).
 
-[Tabell 42-1](handlingar.tabeller/42-1.csv)
+[Tabell 42-44-1](handlingar.tabeller/42-44-1.csv)
 
 | Län | Objektnamn | Typ av<br>utredning | Beslutat<br>bidrag för<br>2025 | Beslutat<br>bidrag för<br>2026 |
 | --- | --- | --- | --- | --- |
@@ -1597,17 +1583,7 @@ kronor).
 | Kronoberg | Lindshammar<br>(Bruksområdet) -<br>Glasindustri | Huvudstudie | 900 000 | 600 000 |
 |  | Lindshammar (Övriga<br>områden) -<br>Glasindustri | Huvudstudie | 900 000 | 600 000 |
 |  | Johanstorp glasbruk -<br>Glasindustri | Huvudstudie,<br>komplettering | 200 000 | - |
-
-<!-- sida 43 -->
-
-Ankomstdatum 2024-12-13
-Diarienummer MH-2023-2167
-NATURVÅRDSVERKET                                             8(14)
-
-[Tabell 43-1](handlingar.tabeller/43-1.csv)
-
 | Norrbotten | Porjus smältverk<br>(övre) - Järn-, stål- och<br>manufaktur | Förstudie | 900 000 | - |
-| --- | --- | --- | --- | --- |
 |  | Jonitexfabriken –<br>Fiberskive-tillverkning | MIFO fas 2 | 600 000 | - |
 |  | Trädgårdsfirma B.<br>Pettersson | MIFO fas 2 | 600 000 | - |
 | Skåne | F.d. Glimma Glasbruk<br>– Glasindustri | Förstudie | 300 000 | - |
@@ -1625,17 +1601,7 @@ NATURVÅRDSVERKET                                             8(14)
 | Västerbotten | Rundviks tvätt | MIFO fas 2,<br>komplettering | 124 500 | - |
 |  | Wiklunds trä –<br>Sågverk med<br>doppning | MIFO fas 2,<br>komplettering | 326 000 | - |
 | Västernorrland | Kramforsfjärden -<br>Svanö sediment | Huvudstudie,<br>komplettering | 1 474 528 | - |
-
-<!-- sida 44 -->
-
-Ankomstdatum 2024-12-13
-Diarienummer MH-2023-2167
-NATURVÅRDSVERKET                                             9(14)
-
-[Tabell 44-1](handlingar.tabeller/44-1.csv)
-
 |  | (Sediment BKL 1,<br>Massa och<br>pappersindustri) |  |  |  |
-| --- | --- | --- | --- | --- |
 |  | Smedsgården, Alnö -<br>Gruva och upplag -<br>Järnmalm m.fl. | Förstudie | 420 000 | - |
 | Västmanland | Bålsjöverkets<br>silvergruva | Huvudstudie,<br>komplettering | 2 225 000 | 370 000 |
 | Västra<br>Götaland | Rydals gasverk | Huvudstudie,<br>komplettering | 320 000 | - |
@@ -1648,6 +1614,18 @@ NATURVÅRDSVERKET                                             9(14)
 |  | Ävjeboda-Gullringens<br>såg – Sågverk med<br>doppning | MIFO fas 2 | 400 000 | - |
 | Summa | - | - | 21 851 058 | 2 820 000 |
 
+<!-- sida 43 -->
+
+Ankomstdatum 2024-12-13
+Diarienummer MH-2023-2167
+NATURVÅRDSVERKET                                             8(14)
+
+<!-- sida 44 -->
+
+Ankomstdatum 2024-12-13
+Diarienummer MH-2023-2167
+NATURVÅRDSVERKET                                             9(14)
+
 <!-- sida 45 -->
 
 Ankomstdatum 2024-12-13
@@ -1659,7 +1637,7 @@ Bilaga 2
 Omfördelning av oförbrukat uppbundet bidrag från 2024 till 2025 och 2026 (belopp i
 kronor).
 
-[Tabell 45-1](handlingar.tabeller/45-1.csv)
+[Tabell 45-46-1](handlingar.tabeller/45-46-1.csv)
 
 | Län | Objektnamn | Typ av<br>utredning | Omfördelning<br>av oförbrukat<br>uppbundet<br>bidrag (kr) från<br>2024 till 2025 | Omfördelning<br>av oförbrukat<br>uppbundet<br>bidrag (kr) från<br>2025 till 2026 |
 | --- | --- | --- | --- | --- |
@@ -1683,21 +1661,17 @@ kronor).
 | Västernorrland | Lucksta f.d.<br>sågverk | Huvudstudie | 870 000 | - |
 |  | Norrböle<br>tjärfabrik | Huvudstudie | 700 000 | - |
 | Västmanland | Inga<br>omfördelningar | - | - | - |
+| Västra<br>Götaland | Inga<br>omfördelningar | - | - | - |
+| Örebro | Inga<br>omfördelningar | - | - | - |
+| Östergötland | Opphems såg –<br>Sågverk med<br>doppning | Huvudstudie | 350 000 | - |
+|  | Thunvall Thure<br>T.T-tvätten | Huvudstudie | 50 000 | - |
+| Summa | - | - | 7 670 000 | 770 000 |
 
 <!-- sida 46 -->
 
 Ankomstdatum 2024-12-13
 Diarienummer MH-2023-2167
 NATURVÅRDSVERKET                                            11(14)
-
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
-
-| Västra<br>Götaland | Inga<br>omfördelningar | - | - | - |
-| --- | --- | --- | --- | --- |
-| Örebro | Inga<br>omfördelningar | - | - | - |
-| Östergötland | Opphems såg –<br>Sågverk med<br>doppning | Huvudstudie | 350 000 | - |
-|  | Thunvall Thure<br>T.T-tvätten | Huvudstudie | 50 000 | - |
-| Summa | - | - | 7 670 000 | 770 000 |
 
 <!-- sida 47 -->
 
@@ -1710,7 +1684,7 @@ Bilaga 3
 Sökta utredningar som avslås i detta beslut, alternativt där avdrag gjorts på ansökt
 belopp (belopp i kronor).
 
-[Tabell 47-1](handlingar.tabeller/47-1.csv)
+[Tabell 47-49-1](handlingar.tabeller/47-49-1.csv)
 
 | Län | Objekt och typ av<br>utredning | Ansökt,<br>men ej<br>beviljat<br>bidrag för<br>2025 | Ansökt,<br>men ej<br>beviljat<br>bidrag för<br>2026 | Motivering |
 | --- | --- | --- | --- | --- |
@@ -1719,23 +1693,22 @@ belopp (belopp i kronor).
 | Kalmar | Upsala armatur II,<br>Ytbehandling av<br>metaller<br>elektrolytiska/kemiska<br>processer – ny<br>förstudie | 600 000 | - | Naturvårdsverket väljer<br>att inte bevilja bidrag till<br>denna utredning vid detta<br>tillfälle. Då det<br>ekonomiska utrymmet för<br>utredningar är begränsat<br>prioriterar<br>Naturvårdsverket att i<br>stället lämna bidrag till<br>redan pågående<br>utredningar, så att de kan<br>slutföras. |
 |  | Åbe:s verkstäder,<br>Verkstadsindustri -<br>med halogenerade<br>lösningsmedel – ny<br>förstudie | 600 000 | - | Naturvårdsverket väljer<br>att inte bevilja bidrag till<br>denna utredning vid detta<br>tillfälle. Då det<br>ekonomiska utrymmet för<br>utredningar är begränsat<br>prioriterar<br>Naturvårdsverket att i<br>stället lämna bidrag till<br>redan pågående<br>utredningar, så att de kan<br>slutföras. |
 | Kronoberg | Sandsjöryds kvarn –<br>ny Mifo fas 2-<br>undersökning | 250 000 | - | Naturvårdsverket väljer<br>att inte bevilja bidrag till<br>detta objekt vid detta<br>tillfälle, då det i länet<br>redan är många pågående<br>utredningar som behöver<br>kunna slutföras, så att de<br>som är högst prioriterade<br>ska kunna gå in i<br>åtgärdsfas. |
-
-<!-- sida 48 -->
-
-Ankomstdatum 2024-12-13
-Diarienummer MH-2023-2167
-NATURVÅRDSVERKET                                            13(14)
-
-[Tabell 48-1](handlingar.tabeller/48-1.csv)
-
 | Norrbotten | Nordindustri verkstad<br>AB, Varv med<br>halogenerade<br>lösningsmedel/giftiga<br>båtbottenfärger – ny<br>Mifo fas 2-<br>undersökning | 600 000 | - | Länsstyrelsen har valt att<br>prioritera bort detta<br>objekt p.g.a. tidsbrist ifall<br>de övriga sökta objekten<br>skulle beviljas (vilket<br>sker). |
-| --- | --- | --- | --- | --- |
 | Uppsala | Vällnora<br>bruk/Bennebols bruk<br>– komplettering av<br>pågående<br>huvudstudie | 455 000\* | - | Avdrag har gjorts på sökt<br>belopp med denna<br>summa avseende<br>pilotstudier, då<br>pilotstudier inte ryms i<br>det som omfattas av<br>utredningsfasen. |
 |  | Lännaholms bruk –<br>komplettering av<br>pågående<br>huvudstudie | 228 000\* | - | Avdrag har gjorts på sökt<br>belopp med denna<br>summa avseende<br>pilotstudier, då<br>pilotstudier inte ryms i<br>det som omfattas av<br>utredningsfasen. |
 | Västerbotten | Skelleftehamns<br>metallgjuteri – ny<br>förstudie | 348 000 | - | Kompletteringar<br>avseende<br>ansvarsbedömningen<br>inkom för nära inpå<br>Naturvårdsverkets<br>beslutstillfälle, därav har<br>ansvarsfrågan inte hunnit<br>granskas. |
 | Västmanland | Nedre Skärsjön<br>inklusive Uggleforsån,<br>gruvor och upplag –<br>komplettering av<br>pågående<br>huvudstudie | 1 800 000 | - | Kompletteringar<br>avseende<br>ansvarsutredningen hade<br>inte inkommit i tid till<br>Naturvårdsverkets<br>beslutstillfälle, därav har<br>ansvarsfrågan inte hunnit<br>granskas. |
 |  | Bålsjöverkets<br>silvergruva –<br>komplettering av<br>pågående<br>huvudstudie | 75 000\* | 130 000\* | För 2025 görs avdrag för<br>skyltning, vilket vi anser<br>är mer att betrakta som<br>en administrativ åtgärd.<br>För 2026 görs avdrag för<br>upprättande av ansökan<br>enligt 2 § 4 förordningen<br>(2004:100) om<br>statsbidrag för<br>avhjälpande av<br>föroreningsskador, vilket<br>ska sökas separat. |
 | Västra<br>Götaland | Fengersfors-Knarrbyn,<br>massa-<br>pappersindustri –<br>komplettering av<br>pågående<br>huvudstudie | 1 300 000 | 700 000 | Underlaget gällande<br>ansvarsutredningen var<br>inkomplett vid<br>Naturvårdsverkets<br>beslutstillfälle, och det<br>behöver kompletteras. |
+|  | Södra Sveriges trä<br>AB/Dannegrens<br>sågverk AB – ny<br>huvudstudie | 1 050 000 | 450 000 | Naturvårdsverket väljer<br>att inte bevilja bidrag till<br>objektet vid detta tillfälle<br>då objektet inte är<br>rangordnat på länets<br>prioriteringslista<br>kombinerat med att det i<br>länet redan är många<br>pågående utredningar<br>som behöver kunna<br>slutföras, så att de som är<br>högst prioriterade ska<br>kunna gå in i åtgärdsfas. |
+|  | ABC-fabriken,<br>Ytbehandling av<br>metaller<br>elektrolytiska/kemiska<br>processer – ny<br>(fördjupad) förstudie | 1 690 000 | - | Naturvårdsverket väljer<br>att inte bevilja bidrag till<br>detta objekt vid detta<br>tillfälle då vi anser att<br>kostnaden för en<br>förstudie är mycket hög,<br>och att innehållet i<br>utredningen är tveksamt<br>då objektet bara har<br>riskklass 2 och inte står<br>med på länets<br>prioriteringslista. |
+| Summa |  | 10 046 000 | 1 705 000 |  |
+
+<!-- sida 48 -->
+
+Ankomstdatum 2024-12-13
+Diarienummer MH-2023-2167
+NATURVÅRDSVERKET                                            13(14)
 
 <!-- sida 49 -->
 
@@ -1745,13 +1718,6 @@ NATURVÅRDSVERKET                                            14(14)
 
 \*Avdrag har gjorts för sådant som inte ryms i det som omfattas av utredningsskedet enligt 2 § 3
 förordningen (2004:100) om statsbidrag för avhjälpande av föroreningsskador.
-
-[Tabell 49-1](handlingar.tabeller/49-1.csv)
-
-|  | Södra Sveriges trä<br>AB/Dannegrens<br>sågverk AB – ny<br>huvudstudie | 1 050 000 | 450 000 | Naturvårdsverket väljer<br>att inte bevilja bidrag till<br>objektet vid detta tillfälle<br>då objektet inte är<br>rangordnat på länets<br>prioriteringslista<br>kombinerat med att det i<br>länet redan är många<br>pågående utredningar<br>som behöver kunna<br>slutföras, så att de som är<br>högst prioriterade ska<br>kunna gå in i åtgärdsfas. |
-| --- | --- | --- | --- | --- |
-|  | ABC-fabriken,<br>Ytbehandling av<br>metaller<br>elektrolytiska/kemiska<br>processer – ny<br>(fördjupad) förstudie | 1 690 000 | - | Naturvårdsverket väljer<br>att inte bevilja bidrag till<br>detta objekt vid detta<br>tillfälle då vi anser att<br>kostnaden för en<br>förstudie är mycket hög,<br>och att innehållet i<br>utredningen är tveksamt<br>då objektet bara har<br>riskklass 2 och inte står<br>med på länets<br>prioriteringslista. |
-| Summa |  | 10 046 000 | 1 705 000 |  |
 
 <!-- sida 50 -->
 
@@ -12248,18 +12214,38 @@ Vårdanslaget (anslaget 1:3 inom utgiftsområde 20 om klimat, miljö och natur i
 regeringens budget). Om annan finansiering än via Vårdanslaget kan ordnas för en
 åtgärd kan åtgärden få ökad prioritet och därmed utföras tidigare än planerat.
 
-[Tabell 315-1](handlingar.tabeller/315-1.csv)
+Skötselåtgärd  När     Skötselområde Prioritet Finansiering
+Gränsmarkering Inom 5 år Hela reservatet 1    Vårdanslaget
 
-| Skötselåtgärd | När | Skötselområde | Prioritet | Finansiering |
-| --- | --- | --- | --- | --- |
-| Gränsmarkering | Inom 5 år | Hela reservatet | 1 | Vårdanslaget |
-| Ljushuggning och<br>friställning av<br>solitärträd och deras<br>efterträdare<br>(inklusive<br>ringbarkning,<br>veteranisering och<br>skapande av<br>högstubbar). | Påbörjas<br>snarast | 1, (2), 3, 5, 6, 7,<br>9, 11, 12, 13 | Prio 1. Börja<br>med sk.omr.<br>7, 9 och 13,<br>därefter 1, 3,<br>5 och 6.<br>Sedan 11 och<br>12. | Vårdanslaget |
-| Röjning av sly och<br>buskar i hagmarker | Inom 5 år | 7, 9, 13 | 1 | Vårdanslaget |
-| Röjning och fällning<br>av gran | Inom 15 år | 11 | 3 | Vårdanslaget |
-| Naturvårdande<br>röjning och fällning i<br>täta, rakstammiga<br>bestånd | Inom 15 år | Sk.omr. 7 (avd.<br>8, 9, 11, 13, 21,<br>24, 27, 56, 70).<br>Sk.omr. 11<br>(avd. 188) | 3 | Vårdanslaget |
-| Naturvårdande<br>röjning i bryn | Inom 10 år | Hela reservatet | 2 | Vårdanslaget |
-| Fällning av bok<br>innanför bryn | Inom 10 år | 5, 6, 9 | 2 | Vårdanslaget |
-| Anläggning av<br>ekoxekomposter<br>och mulmholkar | Vid behov | Alla utom 8 | 3 | Vårdanslaget |
+Ljushuggning och Påbörjas 1, (2), 3, 5, 6, 7, Prio 1. Börja Vårdanslaget
+friställning av snarast 9, 11, 12, 13 med sk.omr.
+solitärträd och deras              7, 9 och 13,
+efterträdare                       därefter 1, 3,
+(inklusive                         5 och 6.
+ringbarkning,                      Sedan 11 och
+veteranisering och                 12.
+skapande av
+högstubbar).
+Röjning av sly och Inom 5 år 7, 9, 13 1       Vårdanslaget
+buskar i hagmarker
+
+Röjning och fällning Inom 15 år 11 3          Vårdanslaget
+av gran
+
+Naturvårdande  Inom 15 år Sk.omr. 7 (avd. 3   Vårdanslaget
+röjning och fällning i 8, 9, 11, 13, 21,
+täta, rakstammiga      24, 27, 56, 70).
+bestånd                Sk.omr. 11
+(avd. 188)
+Naturvårdande  Inom 10 år Hela reservatet 2   Vårdanslaget
+röjning i bryn
+
+Fällning av bok Inom 10 år 5, 6, 9 2          Vårdanslaget
+innanför bryn
+
+Anläggning av  Vid behov Alla utom 8 3        Vårdanslaget
+ekoxekomposter
+och mulmholkar
 
 <!-- sida 316 -->
 
@@ -12285,22 +12271,54 @@ regeringens budget). Om annan finansiering än via Vårdanslaget kan ordnas för
 
 63 (78)
 
-[Tabell 317-1](handlingar.tabeller/317-1.csv)
+Skötselåtgärd  När     Skötselområde Prioritet Finansiering
 
-| Skötselåtgärd | När | Skötselområde | Prioritet | Finansiering |
-| --- | --- | --- | --- | --- |
-| Plantering av träd<br>och buskar på<br>granhyggen | Inom 10 år | Sk.omr. 11<br>(avd. 176, 181,<br>185, 186, 189,<br>205, 207, 215,<br>218) | 2 | Vårdanslaget |
-| Stängsling och<br>betesdrift | Inom 5 år | Alla utom 4<br>och 8 | Prio 1.<br>Högst<br>prioritet i<br>sk.omr. 7, 9,<br>13 och<br>följande avd. i<br>sk.omr. 11:<br>183, 215 | Vårdanslaget eller<br>EU:s Life-fond |
-| Röjning av träd och<br>buskar på öppna<br>hedytor | Inom 10 år | Sk.omr. 11<br>(avd. 176, 181,<br>185, 186, 189,<br>205, 207, 215,<br>218)<br>Sk.omr. 7 (avd.<br>2, 3, 42, 79) | 2 | Vårdanslaget eller<br>EU:s Life-fond |
-| Naturvårdsbränning | Inom 15 år | Sk.omr. 11<br>(avd. 176, 181,<br>185, 186, 189,<br>205, 207, 215,<br>218)<br>Sk.omr. 7 (avd.<br>2, 3) | 3 | Vårdanslaget eller<br>EU:s Life-fond |
-| Betesputsning | Vid behov | 7, 9, 10, 13. På<br>sikt också 14. | 3 | Vårdanslaget |
-| Rensning av<br>befintliga dammar | Vid behov | Sk.omr. 1 (avd.<br>156 =<br>Ruddammen)<br>Sk.omr. 7 (avd.<br>32, 51)<br>Sk.omr. 5 (avd.<br>118)<br>Sk.omr 9 (avd.<br>116) | Prio 2 för<br>Ruddammen<br>Prio 3 för<br>övriga | Vårdanslaget,<br>Länsstyrelsens<br>kulturmiljö-<br>funktion eller<br>stiftelsen |
+Plantering av träd Inom 10 år Sk.omr. 11 2    Vårdanslaget
+och buskar på          (avd. 176, 181,
+granhyggen             185, 186, 189,
+205, 207, 215,
+218\)
+Stängsling och Inom 5 år Alla utom 4 Prio 1.  Vårdanslaget eller
+betesdrift             och 8       Högst      EU:s Life-fond
+prioritet i
+sk.omr. 7, 9,
+13 och
+följande avd. i
+sk.omr. 11:
+183, 215
+Röjning av träd och Inom 10 år Sk.omr. 11 2   Vårdanslaget eller
+buskar på öppna        (avd. 176, 181,        EU:s Life-fond
+hedytor                185, 186, 189,
+205, 207, 215,
+218\)
+Sk.omr. 7 (avd.
+2, 3, 42, 79)
+
+Naturvårdsbränning Inom 15 år Sk.omr. 11 3    Vårdanslaget eller
+(avd. 176, 181,        EU:s Life-fond
+185, 186, 189,
+205, 207, 215,
+218\)
+Sk.omr. 7 (avd.
+2, 3)
+Betesputsning  Vid behov 7, 9, 10, 13. På 3   Vårdanslaget
+sikt också 14.
+
+Rensning av    Vid behov Sk.omr. 1 (avd. Prio 2 för Vårdanslaget,
+befintliga dammar      156 =       Ruddammen  Länsstyrelsens
+Ruddammen)             kulturmiljö-
+Sk.omr. 7 (avd. Prio 3 för funktion eller
+32, 51)     övriga     stiftelsen
+Sk.omr. 5 (avd.
+118\)
+Sk.omr 9 (avd.
+116\)
 
 <!-- sida 318 -->
 
 64 (78)
 
-[Tabell 318-1](handlingar.tabeller/318-1.csv)
+[Tabell 318-319-1](handlingar.tabeller/318-319-1.csv)
 
 | Skötselåtgärd | När | Skötselområde | Prioritet | Finansiering |
 | --- | --- | --- | --- | --- |
@@ -12312,18 +12330,13 @@ regeringens budget). Om annan finansiering än via Vårdanslaget kan ordnas för
 | Nyanläggning av<br>leder | Inom 15 år | Sk.omr. 10, 11<br>och 13. Se<br>karta i kap. 7.8. | 3 | Vårdanslaget eller<br>stiftelsen |
 | Underhåll av bänkar<br>och bänkbord | Inom 10 år | Hela<br>reservatet, se<br>karta i kap. 7.8. | 2 | Vårdanslaget eller<br>stiftelsen |
 | Röjning vid<br>utsiktsplatser | Inom 5 år | Sk.omr. 1 (avd.<br>147-148).<br>Sk.omr 7 (avd.<br>42 och 79).<br>Sk.omr. 9 (avd.<br>111).<br>Sk.omr. 11<br>(avd. 179, 228).<br>Vid behov<br>ytterligare ytor. | 1 | Vårdanslaget eller<br>stiftelsen |
+| Utveckling av<br>övernattningsplatser | Första ytan<br>inom 10 år | Sk.omr. 7 (avd.<br>2-6).<br>Sk.omr. 11<br>(avd. 216 samt<br>avd. 172-174). | 2 | Vårdanslaget eller<br>stiftelsen |
+| Uppsättning av<br>reservatsskyltar | Inom 5 år | Hela reservatet | 1 | Vårdanslaget |
+| Uppsättning av<br>informationsskyltar<br>om kulturmiljöer | Inom 15 år | Hela reservatet | 3 | Länsstyrelsens<br>kulturmiljöfunktion,<br>vårdanslaget eller<br>stiftelsen. |
 
 <!-- sida 319 -->
 
 65 (78)
-
-[Tabell 319-1](handlingar.tabeller/319-1.csv)
-
-| Skötselåtgärd | När | Skötselområde | Prioritet | Finansiering |
-| --- | --- | --- | --- | --- |
-| Utveckling av<br>övernattningsplatser | Första ytan<br>inom 10 år | Sk.omr. 7 (avd.<br>2-6).<br>Sk.omr. 11<br>(avd. 216 samt<br>avd. 172-174). | 2 | Vårdanslaget eller<br>stiftelsen |
-| Uppsättning av<br>reservatsskyltar | Inom 5 år | Hela reservatet | 1 | Vårdanslaget |
-| Uppsättning av<br>informationsskyltar<br>om kulturmiljöer | Inom 15 år | Hela reservatet | 3 | Länsstyrelsens<br>kulturmiljöfunktion,<br>vårdanslaget eller<br>stiftelsen. |
 
 <!-- sida 320 -->
 
@@ -12585,7 +12598,7 @@ KUNGSBACKA  KOMMUN
 
 Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts eller avslutats
 
-[Tabell 335-1](handlingar.tabeller/335-1.csv)
+[Tabell 335-336-1](handlingar.tabeller/335-336-1.csv)
 
 | Beslutsdatum | Insats | Datum för verkställighet, avslut |
 | --- | --- | --- |
@@ -12612,19 +12625,7 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 2024-10-10 | Särskilt boende | Verkställd 2025-02-10 |
 | 2024-10-14 | Särskilt boende | Verkställd 2025-03-23 |
 | 2024-10-16 | Särskilt boende | Verkställd 2025-01-27 |
-
-<!-- sida 336 -->
-
-KUNGSBACKA  KOMMUN
-4 (4)
-
-Arian Faily                   Ann-Helen Svensson
-Förvaltningschef              Verksamhetschef
-
-[Tabell 336-1](handlingar.tabeller/336-1.csv)
-
 | 2024-10-17 | Särskilt boende | Verkställd 2025-02-01 |
-| --- | --- | --- |
 | 2024-10-17 | Särskilt boende | Verkställd 2025-02-05 |
 | 2024-10-25 | Särskilt boende | Verkställd 2025-01-26 |
 | 2024-10-29 | Särskilt boende | Verkställd 2025-02-17 (U) |
@@ -12644,6 +12645,14 @@ Förvaltningschef              Verksamhetschef
 | 2024-11-21 | Växelvård | Verkställd 2025-03-25 |
 | 2024-12-03 | Växelvård | Verkställd 2025-03-13 |
 | 2024-12-06 | Växelvård | Verkställd 2025-03-11 |
+
+<!-- sida 336 -->
+
+KUNGSBACKA  KOMMUN
+4 (4)
+
+Arian Faily                   Ann-Helen Svensson
+Förvaltningschef              Verksamhetschef
 
 <!-- sida 337 -->
 
@@ -12822,7 +12831,7 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 
 §§ socialtjänstlagen, SoL
 
-[Tabell 341-1](handlingar.tabeller/341-1.csv)
+[Tabell 341-344-1](handlingar.tabeller/341-344-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
@@ -12836,16 +12845,6 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 | 2024-07-01 | 9 § 5 LSS, avlösarservice i<br>hemmet | Den enskilde har tackat nej till erbjudande 2024-09-16.<br>Uppstartsmöte 2025-03-03, insatsen kommer snart<br>startas upp under mars. |
 | 2024-02-01 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet, har specifika önskemål om<br>utförandet. Verksamheten pausar insatsen i avvaktan på<br>svar om start av inskolning. |
 | 2024-04-07 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Den enskilde medverkar inte till verkställighet, den<br>enskilde är tveksam till insatsen. Tackat nej till<br>erbjudande 2025-12-13. |
-
-<!-- sida 342 -->
-
-KUNGSBACKA  KOMMUN
-4 (9)
-
-[Tabell 342-1](handlingar.tabeller/342-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2024-06-26 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Den enskilde har tackat nej till erbjudande 2024-08-13,<br>har specifika önskemål om upplägg, enbart helger.<br>Verksamheten har gjort flera kontaktförsök, inväntar<br>återkoppling från familjen. |
 | 2024-11-09 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, hälsotillstånd hos den<br>enskilde. Verksamheten har varit i kontakt med<br>familjen, ny plan är på gång. |
 | 2024-11-22 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, hälsotillstånd hos den<br>enskilde. |
@@ -12860,16 +12859,6 @@ KUNGSBACKA  KOMMUN
 | 2024-10-17 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. Tackat nej till erbjudande om köpt plats. |
 | 2024-11-05 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. Arbete med att hitta lämpligt boende<br>pågår. |
 | 2024-11-29 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. Arbete med att hitta lämpligt boende<br>pågår. |
-
-<!-- sida 343 -->
-
-KUNGSBACKA  KOMMUN
-5 (9)
-
-[Tabell 343-1](handlingar.tabeller/343-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2025-01-13 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. Planering pågår. |
 | 2025-01-14 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. Blivit erbjuden boende, verksamheten<br>inväntar svar på erbjudandet. |
 | 2021-10-29 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. Svårt att få<br>kontakt med den enskilde. Blivit erbjuden praktikplats,<br>den enskilde vill avvakta uppstart. |
@@ -12881,18 +12870,6 @@ KUNGSBACKA  KOMMUN
 | 2023-12-20 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. Inväntar återkoppling från anhöriga<br>om de vill ha kvar insatsen. |
 | 2024-01-09 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till verkställighet, vill<br>avvakta uppstart av insatsen. Inväntar återkoppling<br>från god man. |
 | 2024-02-09 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde tackat nej till<br>erbjudande 2024-02-09. Vill inte avsluta insatsen utan<br>pausa på obestämd tid. |
-
-<!-- sida 344 -->
-
-KUNGSBACKA  KOMMUN
-6 (9)
-
-Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
-
-[Tabell 344-1](handlingar.tabeller/344-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2024-06-24 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. Möte inplanerat för eventuell<br>uppstart. |
 | 2024-08-19 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet, vill avvakta med insatsen. Pga<br>hälsotillstånd. |
 | 2024-09-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
@@ -12902,23 +12879,30 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2024-12-03 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde vill inte ha insatsen. |
 | 2024-12-03 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till verkställighet.<br>Verksamheten har gjort flera kontaktförsök. |
 
-[Tabell 344-2](handlingar.tabeller/344-2.csv)
+<!-- sida 342 -->
+
+KUNGSBACKA  KOMMUN
+4 (9)
+
+<!-- sida 343 -->
+
+KUNGSBACKA  KOMMUN
+5 (9)
+
+<!-- sida 344 -->
+
+KUNGSBACKA  KOMMUN
+6 (9)
+
+Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
+
+[Tabell 344-347-1](handlingar.tabeller/344-347-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
 | 2024-06-26 | 4 kap 1 § SoL, bostad | Saknar plats. | Verkställt, 2025-04-15 |
 | 2024-07-12 | 4 kap 1 § SoL,<br>kontaktperson | Den enskilde medverkar inte till<br>verkställighet. Tackar nej till<br>erbjudande 2024-12-16. | Verkställt, 2025-03-27 |
 | 2024-09-05 | 4 kap 1 § SoL,<br>kontaktperson | Den enskilde vill avvakta med<br>insatsen. | Avslutat, 2025-01-29.<br>Den enskilde vill inte<br>längre ha insatsen. |
-
-<!-- sida 345 -->
-
-KUNGSBACKA  KOMMUN
-7 (9)
-
-[Tabell 345-1](handlingar.tabeller/345-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2024-10-03 | 4 kap 1 § SoL,<br>kontaktperson | Den enskilde ville avvakta med<br>uppstart. | Verkställt, 2025-03-25 |
 | 2024-12-01 | 4 kap 1 § SoL, boendestöd | Den enskilde är i behov av lång<br>uppstart. | Verkställt, 2025-03-26 |
 | 2024-07-12 | 9 § 3 LSS, ledsagarservice | Den enskilde medverkar inte till<br>verkställighet. Verksamheten<br>har haft flera kontakter med den<br>enskilde för att få igång<br>insatsen. | Verkställt, 2025-02-15 |
@@ -12927,16 +12911,6 @@ KUNGSBACKA  KOMMUN
 | 2023-11-22 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Den enskilde är i behov av<br>extern placering. | Avslutat, 2024-12-17.<br>Den enskilde vill inte<br>längre ha insatsen. |
 | 2024-04-10 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Den enskilde medverkar inte till<br>verkställighet, den enskilde är<br>tveksam till insatsen. | Avslutat, 2025-01-27.<br>Den enskilde vill inte<br>längre ha insatsen. |
 | 2022-03-16 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Tackat nej till 5 erbjudanden,<br>2022-09-15, 2022-11-29, 2023-<br>05-17, 2023-11-20 och 2023-<br>12-05. Tackat ja till erbjudande<br>med inflyttning 2025-02-01. | Verkställt, 2025-02-06 |
-
-<!-- sida 346 -->
-
-KUNGSBACKA  KOMMUN
-8 (9)
-
-[Tabell 346-1](handlingar.tabeller/346-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2022-12-31 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Avbrott i verkställighet, tackat<br>nej till 3 erbjudanden 2023-06-<br>20, 2023-12-22, 2024-05-24<br>eftersom boendet inte ligger i<br>centrala Kungsbacka. Tackat nej<br>till erbjudande 2024-09-02 trots<br>centralt boende, det är inte läge<br>med flytt just nu. | Avslutat, 2025-04-02.<br>Den enskilde vill inte<br>längre ha insatsen. |
 | 2023-04-03 | 9 § 9 LSS, bostad för<br>vuxna | Tackat nej till 2 erbjudande,<br>2023-09-27, och 2024-03-14 på<br>Nya Hede men boendet är inte<br>tillräckligt centralt. | Verkställt, 2025-02-01 |
 | 2023-09-04 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. Blivit erbjuden<br>köpt plats 2024-03-22 men<br>tackat nej. | Verkställt, 2025-02-01 |
@@ -12945,6 +12919,17 @@ KUNGSBACKA  KOMMUN
 | 2023-05-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet och pga<br>hälsotillstånd. Blivit erbjuden<br>annan DV-grupp. | Verkställt, 2025-02-27 |
 | 2023-10-20 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd, den enskilde<br>medverkar inte till<br>verkställighet. Den enskilde vill<br>avvakta med insatsen. | Avslutat, 2025-02-14.<br>Den enskilde vill inte<br>längre ha insatsen. |
 | 2024-04-26 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde vill starta upp insatsen<br>och väntar på uppstartsmöte. | Verkställt, 2025-01-17 |
+| 2024-06-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Verkställt, 2025-02-17 |
+
+<!-- sida 345 -->
+
+KUNGSBACKA  KOMMUN
+7 (9)
+
+<!-- sida 346 -->
+
+KUNGSBACKA  KOMMUN
+8 (9)
 
 <!-- sida 347 -->
 
@@ -12956,12 +12941,6 @@ Inom vuxenenheten och familjehemsenheten finns inga ej verkställda beslut under
 Ivan Stipić                   Renate Rondolph
 
 Förvaltningschef              Verksamhetschef
-
-[Tabell 347-1](handlingar.tabeller/347-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
-| 2024-06-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Verkställt, 2025-02-17 |
 
 <!-- sida 348 -->
 

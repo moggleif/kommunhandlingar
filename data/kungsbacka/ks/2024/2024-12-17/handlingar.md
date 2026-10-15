@@ -12,15 +12,15 @@ kalla_url: https://kungsbacka.se/download/18.2eac78ea193953fe2805ee18/1733995582
 sha256: 1157adc986408bf1cb59c9ac9a04b556bc81eb667aeed5c20a8e4129a289e02f
 bytes: 193217824
 sidor: 528
-hamtad: 2026-10-08T10:28:39+00:00
-konverterad: 2026-10-08T10:35:25+00:00
-pipeline: kommunhandlingar 0.1.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-15T08:18:49+00:00
+konverterad: 2026-10-15T08:26:34+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [11, 12, 13, 14, 18, 19, 20, 21, 22, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 47, 50, 51, 52, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 92, 122, 123, 309, 310, 341, 342, 353, 354, 355, 356, 357, 358, 359, 363, 364, 365, 366]
-figurer: null
-tolkade: null
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [11, 12, 13, 14, 18, 19, 20, 21, 22, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 47, 50, 51, 52, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 92, 122, 123, 158, 179, 264, 309, 310, 341, 342, 353, 354, 355, 356, 357, 358, 359, 363, 364, 365, 366]
+figurer: [84, 85, 86, 88, 92, 130, 135, 141, 152, 155, 156, 157, 158, 161, 163, 164, 165, 166, 167, 168, 169, 170, 174, 182, 183, 184, 199, 208, 216, 262, 265, 341, 342, 377, 411, 412, 450, 451, 491, 507]
+tolkade: []
 ---
 
 <!-- sida 1 -->
@@ -60,7 +60,7 @@ KUNGSBACKA  KOMMUN
 
 2 (7)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-7-1](handlingar.tabeller/2-7-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -69,6 +69,24 @@ KUNGSBACKA  KOMMUN
 | 6. | Godkännande av arrendeavtal<br>för Löftadalens<br>Dragkampsklubb på del av<br>fastigheten Frillesås-Rya 2:1 | 2024-00594 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner arrendeavtal för<br>Löftadalens Dragkampsklubb på del av fastigheten<br>Frillesås-Rya 2:1, undertecknat av Löftadalens<br>Dragkampsklubb 2024-11-08.<br>Kommunstyrelsens ordförande samt<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet. |
 | 7. | Godkännande av förslag till<br>köpeavtal avseende del av<br>Skårby 2:3 i Anneberg | 2021-00907 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner köpeavtal mellan<br>kommunen och Tempohus Kungsbacka AB, genom<br>vilket kommunen överlåter en del av fastigheten<br>Skårby 2:3 mot en köpeskilling av 20 000 000<br>kronor, undertecknat av bolaget 2024-11-13.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>och andra i ärendet nödvändiga handlingar. |
 | 8. | Förlängning av principavtal<br>med KB Stejla Anneberg,<br>detaljplan för utveckling av<br>Annebergs centrum | 2019-00257 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner begäran från KB Stejla<br>Anneberg, innebärande att gällande principavtal<br>avseende ny detaljplan för Annebergs centrum,<br>förlängs med två år till 31 december 2026, på i övrigt<br>oförändrade avtalsvillkor. |
+| 9. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för bostäder inom<br>Åsa 4:146 och Åsa 4:152 | 2021-00109 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för bostäder inom Åsa 4:146 och 4:152 i<br>Åsa, daterad 2024-11-11, med följande ändringar:<br>Under rubriken Hållbarhetsaspekter<br>− Följande mening ur första stycket stryks:<br>Detta projekt kan bidra till att minska<br>byggandet utanför tätorterna, vilket annars är<br>mycket attraktivt nära kustbandet.<br>− Följande stycke stryks:<br>Eftersom Åsa är en ort med stor andel småhus<br>så kan byggnation av lägenheter i bostadsrätts-<br>eller hyresrättsform bidra till ökad variation av<br>bostadsutbudet och därmed större blandning av<br>målgrupper. Detta gynnar social hållbarhet.<br>Exempelvis kan äldre personer bo kvar i orten<br>även när de inte längre orkar ta hand om en<br>villa, yngre personer har möjlighet att komma in<br>på bostadsmarknaden och par, med eller utan<br>barn, som separerar har möjlighet att stanna<br>kvar inom Åsa.<br>och ersätts med:<br>Eftersom Åsa är en ort med hög andel småhus<br>så kan byggnation av vissa flerbostadshus bidra<br>till ökad variation av bostadsutbudet och en mer<br>flexibel bostadsmarknad. Genom att även<br>fortsättningsvis bygga i huvudsak ägande- och<br>bostadsrättsform behålls och stärks den sociala<br>hållbarheten i området.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan för bostäder inom<br>Åsa 4:146 och 4:152 i Åsa. |
+| 10. | Indexjustering av taxa för plan-<br>och byggverksamhet (tabell B)<br>för 2025 | 2024-00709 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen justerar handläggningskostnad per<br>timme (tabell B) i taxa för Kungsbacka kommuns<br>plan- och byggverksamhet från 1 160 kronor per<br>timme till 1 213 kronor per timme i enlighet med<br>punkt fyra i taxans bestämmelser om indexjustering<br>av avgiftsbelopp.<br>Kommunstyrelsen justerar avgift för planbesked<br>(tabell B3.1) från 26 700 kronor till 27 928 kronor i<br>enlighet med punkt fyra i taxans bestämmelser om<br>indexjustering av avgiftsbelopp.<br>Kommunstyrelsen justerar planavgift vid bygglov<br>(tabell B1 och B2) från 57,3 milliprisbasbelopp<br>(mPBB) till 58,8 milliprisbasbelopp (mPBB).<br>Den justerade handläggningskostnaden per timme<br>samt justerade belopp i tabell B träder i kraft den<br>1 januari 2025. |
+| 11. | Val av ersättare för<br>styrelserepresentant till<br>Kungsbackaåns<br>Fiskevårdsområdesförening<br>2025-01-01-2026-12-31 | 2024-00728 |  |
+| 12. | Svar på Göteborgsregionens<br>remiss av Västra<br>Götalandsregionens strategiska<br>plan för kollektivtrafik på<br>jämlika villkor | 2024-00735 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-11-12,<br>och översänder det som sitt svar till<br>Göteborgsregionen. |
+| 13. | Svar på Göteborgsregionens<br>remiss av Västra<br>Götalandsregionens<br>trafikförsörjningsprogram<br>2026–2029 | 2024-00755 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-11-07,<br>och översänder det som sitt svar till<br>Göteborgsregionen. |
+| 14. | Svar på Justitiedepartementets<br>remiss av betänkandet En<br>översyn av 23 kap.<br>brottsbalken (SOU 2024:55) | 2024-00656 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-12-10,<br>och översänder det som sitt svar till<br>Justitiedepartementet. |
+| 15. | Svar på Finansdepartementets<br>remiss av promemorian<br>Sekretess och dataskydd i det<br>tekniska systemet enligt EU:s<br>förordning om en gemensam<br>digital ingång (Fi 2023:C) | 2024-00641 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-11-08,<br>och översänder det som sitt svar till<br>Finansdepartementet. |
+| 16. | Yttrande till Förvaltningsrätten<br>i Göteborg avseende<br>överklagande<br>(laglighetsprövning enligt<br>kommunallagen) av beslut om<br>införande av tolkavgift |  | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-12-05,<br>och översänder det som sitt svar till<br>Förvaltningsrätten i Göteborg.<br>Kommunstyrelsen avvaktar med att verkställa<br>kommunfullmäktiges beslut 2024-11-05, § 144, till<br>dess att laglighetsprövningen är avgjord och beslutet<br>fått laga kraft. |
+| 17. | Anmälan av delegeringsbeslut | 2024-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
+| 18. | Anmälan av ordförandebeslut | 2024-00007 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
+| 19. | Redovisning av inkomna<br>skrivelser | 2024-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
+| 20. | Återrapportering av uppdrag<br>om att ta fram kriterier för<br>byggande av ekobyar | 2014-00268 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige förklarar uppdraget om att se<br>över kriterier för ekobyar, som lämnades av<br>kommunfullmäktige 2014-05-06, § 60, för avslutat,<br>med hänvisning till att hållbarhetsfrågor kopplade till<br>ekobyar hanteras inom ramen för enskilda projekt<br>och befintliga riktlinjer för hållbart byggande och<br>boende. |
+| 21. | Återrapportering av uppdrag<br>om att ta fram tillämpningar<br>och anvisningar för vindkraft<br>som prövas enligt miljöbalken | 2012-00162 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige förklarar uppdraget om att ta<br>fram tillämpningar och anvisningar för vindkraft som<br>prövas enligt miljöbalken, som lämnades av<br>kommunfullmäktige 2012-04-10, § 89, för avslutat,<br>med hänvisning till att det redan finns en vägledning<br>från Energimyndigheten om kommunal tillstyrkan<br>vid tillståndsprövning av vindkraftverk. |
+| 22. | Revidering av kemikalieplan<br>2024 | 2024-00548 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Kemikalieplan för<br>Kungsbacka kommun, daterad 2024-10-18.<br>Kemikalieplan för Kungsbacka kommun, antagen av<br>kommunfullmäktige 2021-02-02, § 4, upphör<br>samtidigt att gälla. |
+| 23. | Utdelning av medel ur<br>Stiftelsen Adolf och Hélene<br>Hasselgrens Minnesfond | 2024-00452 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beviljar utdelning ur Stiftelsen<br>Adolf Hasselgrens och hans maka Hélene<br>Hasselgrens Minnesfond till en summa av maximalt<br>1,5 miljoner kronor för inköp och installation av<br>skulptur skapad av Kerstin Dahl Norén. Skulpturen<br>ska placeras framför Kulturhuset Fyren. |
+| 24. | Taxa 2025 för Kungsbacka<br>Teater och Konsertsalen<br>Snäckan | 2024-00623 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Taxa för Kungsbacka<br>Teater och konsertsalen Snäckan, daterad<br>2024-09-27.<br>Kommunfullmäktige beslutar att taxan får justeras i<br>enlighet med taxans bestämmelse §§ 5-6 om årlig<br>indexjustering och delegation.<br>Taxan träder i kraft den 1 januari 2025.<br>Taxor och avgifter för uthyrning av lokaler på<br>Kungsbacka Teater och kulturhuset Fyren, antagna av<br>kommunfullmäktige 2018-09-11, § 130, upphör<br>samtidigt att gälla. |
+| 25. | Taxa 2025 för Kungsbacka<br>Konsthall | 2024-00621 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Taxa för Kungsbacka<br>konsthall, daterad 2024-09-24.<br>Kommunfullmäktige beslutar att taxan får justeras i<br>enlighet med taxans bestämmelse §§ 5-6 om årlig<br>indexjustering och delegation.<br>Taxan träder i kraft den 1 januari 2025.<br>Tidigare taxedokument för Konsthallen i Kungsbacka<br>upphör samtidigt att gälla. |
+| 26. | Svar på motion från Carita<br>Boulwén (SD) m.fl. om<br>översyn och förbättringar av<br>kommunfullmäktigesalen | 2024-00103 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till dels att de förbättringsförslag som<br>motionärerna föreslår kommer omhändertas i<br>samband med ombyggnationen av stadshus B, dels<br>att ytterligare förbättringsåtgärder av<br>kommunfullmäktigesalen också kommer undersökas<br>inom ombyggnadsprojektet. |
 
 <!-- sida 3 -->
 
@@ -76,27 +94,11 @@ KUNGSBACKA  KOMMUN
 
 3 (7)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 9. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för bostäder inom<br>Åsa 4:146 och Åsa 4:152 | 2021-00109 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för bostäder inom Åsa 4:146 och 4:152 i<br>Åsa, daterad 2024-11-11, med följande ändringar:<br>Under rubriken Hållbarhetsaspekter<br>− Följande mening ur första stycket stryks:<br>Detta projekt kan bidra till att minska<br>byggandet utanför tätorterna, vilket annars är<br>mycket attraktivt nära kustbandet.<br>− Följande stycke stryks:<br>Eftersom Åsa är en ort med stor andel småhus<br>så kan byggnation av lägenheter i bostadsrätts-<br>eller hyresrättsform bidra till ökad variation av<br>bostadsutbudet och därmed större blandning av<br>målgrupper. Detta gynnar social hållbarhet.<br>Exempelvis kan äldre personer bo kvar i orten<br>även när de inte längre orkar ta hand om en<br>villa, yngre personer har möjlighet att komma in<br>på bostadsmarknaden och par, med eller utan<br>barn, som separerar har möjlighet att stanna<br>kvar inom Åsa.<br>och ersätts med:<br>Eftersom Åsa är en ort med hög andel småhus<br>så kan byggnation av vissa flerbostadshus bidra<br>till ökad variation av bostadsutbudet och en mer<br>flexibel bostadsmarknad. Genom att även<br>fortsättningsvis bygga i huvudsak ägande- och<br>bostadsrättsform behålls och stärks den sociala<br>hållbarheten i området.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan för bostäder inom<br>Åsa 4:146 och 4:152 i Åsa. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4 (7)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 10. | Indexjustering av taxa för plan-<br>och byggverksamhet (tabell B)<br>för 2025 | 2024-00709 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen justerar handläggningskostnad per<br>timme (tabell B) i taxa för Kungsbacka kommuns<br>plan- och byggverksamhet från 1 160 kronor per<br>timme till 1 213 kronor per timme i enlighet med<br>punkt fyra i taxans bestämmelser om indexjustering<br>av avgiftsbelopp.<br>Kommunstyrelsen justerar avgift för planbesked<br>(tabell B3.1) från 26 700 kronor till 27 928 kronor i<br>enlighet med punkt fyra i taxans bestämmelser om<br>indexjustering av avgiftsbelopp.<br>Kommunstyrelsen justerar planavgift vid bygglov<br>(tabell B1 och B2) från 57,3 milliprisbasbelopp<br>(mPBB) till 58,8 milliprisbasbelopp (mPBB).<br>Den justerade handläggningskostnaden per timme<br>samt justerade belopp i tabell B träder i kraft den<br>1 januari 2025. |
-| 11. | Val av ersättare för<br>styrelserepresentant till<br>Kungsbackaåns<br>Fiskevårdsområdesförening<br>2025-01-01-2026-12-31 | 2024-00728 |  |
-| 12. | Svar på Göteborgsregionens<br>remiss av Västra<br>Götalandsregionens strategiska<br>plan för kollektivtrafik på<br>jämlika villkor | 2024-00735 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-11-12,<br>och översänder det som sitt svar till<br>Göteborgsregionen. |
-| 13. | Svar på Göteborgsregionens<br>remiss av Västra<br>Götalandsregionens<br>trafikförsörjningsprogram<br>2026–2029 | 2024-00755 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-11-07,<br>och översänder det som sitt svar till<br>Göteborgsregionen. |
-| 14. | Svar på Justitiedepartementets<br>remiss av betänkandet En<br>översyn av 23 kap.<br>brottsbalken (SOU 2024:55) | 2024-00656 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-12-10,<br>och översänder det som sitt svar till<br>Justitiedepartementet. |
 
 <!-- sida 5 -->
 
@@ -104,31 +106,11 @@ KUNGSBACKA  KOMMUN
 
 5 (7)
 
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 15. | Svar på Finansdepartementets<br>remiss av promemorian<br>Sekretess och dataskydd i det<br>tekniska systemet enligt EU:s<br>förordning om en gemensam<br>digital ingång (Fi 2023:C) | 2024-00641 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-11-08,<br>och översänder det som sitt svar till<br>Finansdepartementet. |
-| 16. | Yttrande till Förvaltningsrätten<br>i Göteborg avseende<br>överklagande<br>(laglighetsprövning enligt<br>kommunallagen) av beslut om<br>införande av tolkavgift |  | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-12-05,<br>och översänder det som sitt svar till<br>Förvaltningsrätten i Göteborg.<br>Kommunstyrelsen avvaktar med att verkställa<br>kommunfullmäktiges beslut 2024-11-05, § 144, till<br>dess att laglighetsprövningen är avgjord och beslutet<br>fått laga kraft. |
-| 17. | Anmälan av delegeringsbeslut | 2024-00006 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut. |
-| 18. | Anmälan av ordförandebeslut | 2024-00007 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner redovisningen av<br>delegeringsbeslut från kommunstyrelsens ordförande<br>på grund av brådskande ärenden. |
-| 19. | Redovisning av inkomna<br>skrivelser | 2024-00004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av inkomna<br>skrivelser till protokollet. |
-| 20. | Återrapportering av uppdrag<br>om att ta fram kriterier för<br>byggande av ekobyar | 2014-00268 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige förklarar uppdraget om att se<br>över kriterier för ekobyar, som lämnades av<br>kommunfullmäktige 2014-05-06, § 60, för avslutat,<br>med hänvisning till att hållbarhetsfrågor kopplade till<br>ekobyar hanteras inom ramen för enskilda projekt<br>och befintliga riktlinjer för hållbart byggande och<br>boende. |
-
 <!-- sida 6 -->
 
 KUNGSBACKA  KOMMUN
 
 6 (7)
-
-[Tabell 6-1](handlingar.tabeller/6-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 21. | Återrapportering av uppdrag<br>om att ta fram tillämpningar<br>och anvisningar för vindkraft<br>som prövas enligt miljöbalken | 2012-00162 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige förklarar uppdraget om att ta<br>fram tillämpningar och anvisningar för vindkraft som<br>prövas enligt miljöbalken, som lämnades av<br>kommunfullmäktige 2012-04-10, § 89, för avslutat,<br>med hänvisning till att det redan finns en vägledning<br>från Energimyndigheten om kommunal tillstyrkan<br>vid tillståndsprövning av vindkraftverk. |
-| 22. | Revidering av kemikalieplan<br>2024 | 2024-00548 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Kemikalieplan för<br>Kungsbacka kommun, daterad 2024-10-18.<br>Kemikalieplan för Kungsbacka kommun, antagen av<br>kommunfullmäktige 2021-02-02, § 4, upphör<br>samtidigt att gälla. |
-| 23. | Utdelning av medel ur<br>Stiftelsen Adolf och Hélene<br>Hasselgrens Minnesfond | 2024-00452 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beviljar utdelning ur Stiftelsen<br>Adolf Hasselgrens och hans maka Hélene<br>Hasselgrens Minnesfond till en summa av maximalt<br>1,5 miljoner kronor för inköp och installation av<br>skulptur skapad av Kerstin Dahl Norén. Skulpturen<br>ska placeras framför Kulturhuset Fyren. |
-| 24. | Taxa 2025 för Kungsbacka<br>Teater och Konsertsalen<br>Snäckan | 2024-00623 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Taxa för Kungsbacka<br>Teater och konsertsalen Snäckan, daterad<br>2024-09-27.<br>Kommunfullmäktige beslutar att taxan får justeras i<br>enlighet med taxans bestämmelse §§ 5-6 om årlig<br>indexjustering och delegation.<br>Taxan träder i kraft den 1 januari 2025.<br>Taxor och avgifter för uthyrning av lokaler på<br>Kungsbacka Teater och kulturhuset Fyren, antagna av<br>kommunfullmäktige 2018-09-11, § 130, upphör<br>samtidigt att gälla. |
 
 <!-- sida 7 -->
 
@@ -138,13 +120,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Patrik Johansson
 ordförande                        kommunsekreterare
-
-[Tabell 7-1](handlingar.tabeller/7-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 25. | Taxa 2025 för Kungsbacka<br>Konsthall | 2024-00621 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Taxa för Kungsbacka<br>konsthall, daterad 2024-09-24.<br>Kommunfullmäktige beslutar att taxan får justeras i<br>enlighet med taxans bestämmelse §§ 5-6 om årlig<br>indexjustering och delegation.<br>Taxan träder i kraft den 1 januari 2025.<br>Tidigare taxedokument för Konsthallen i Kungsbacka<br>upphör samtidigt att gälla. |
-| 26. | Svar på motion från Carita<br>Boulwén (SD) m.fl. om<br>översyn och förbättringar av<br>kommunfullmäktigesalen | 2024-00103 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till dels att de förbättringsförslag som<br>motionärerna föreslår kommer omhändertas i<br>samband med ombyggnationen av stadshus B, dels<br>att ytterligare förbättringsåtgärder av<br>kommunfullmäktigesalen också kommer undersökas<br>inom ombyggnadsprojektet. |
 
 <!-- sida 8 -->
 
@@ -4857,6 +4832,15 @@ förvaring och som omsluts helt eller delvis av
 BYA = Byggnadsarea   Area som byggnaden tar upp på marken inklusive
 utstickande byggnadsdelar tex. balkong.
 
+Objektsfaktor (OF)
+
+Area (m2): BTA + OPA                           OF
+0 - 100                                         5
+101 - 1000                                      25
+
+1001 - 5000                                     55
+\>5001                                          105
+
 Timdebitering
 
 För vissa ärendetyper anges ”Timdebitering”. I dessa fall beräknas avgiften genom
@@ -4876,16 +4860,6 @@ B – Taxetabeller för fysisk samhällsplanering: Handläggningskostnaden per t
 Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 4 (21)
 
 [Tabell 103-1](handlingar.tabeller/103-1.csv)
-
-| Objektsfaktor (OF) |  |
-| --- | --- |
-| Area (m2): BTA + OPA | OF |
-| 0 - 100 | 5 |
-| 101 - 1000 | 25 |
-| 1001 - 5000 | 55 |
-| >5001 | 105 |
-
-[Tabell 103-2](handlingar.tabeller/103-2.csv)
 
 | Planfaktor (PF) |  |
 | --- | --- |
@@ -7253,16 +7227,6 @@ Under  programperioden    kommer    en ny reviderad målbild  för              
 
 tågtrafik att tas fram.
 
-[Tabell 164-1](handlingar.tabeller/164-1.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
 <!-- sida 165 -->
 
 14
@@ -8857,7 +8821,7 @@ till nuvarande trafikförsörjningsprogram
 
 Hållbarhetsintegrering och bedömning                          Sida 4
 
-[Tabell 202-1](handlingar.tabeller/202-1.csv)
+[Tabell 202-203-1](handlingar.tabeller/202-203-1.csv)
 
 | Hushållning<br>med natur-<br>resurser | + | Genom ökade ambitioner kring marknadsandel och hållbart<br>resande samt borttaget mål om ökat antal resor finns potential<br>till resurseffektivitet. Även genom fortsatt elektrifiering av<br>kollektivtrafiken, eftersom elen är mer energieffektiv som<br>drivmedel. Det positiva bidraget förutsätter dock minskad<br>biltrafik och totalt resande. Användning av elbatterier i<br>kollektivtrafiken är mer resurseffektiv, men produktionen av<br>elbatterier är förknippad med utmaningar. |
 | --- | --- | --- |
@@ -8868,16 +8832,12 @@ Hållbarhetsintegrering och bedömning                          Sida 4
 | Delaktighet | + | Involvering av barn och unga i processen för framtagandet.<br>Delaktighet finns med som prioriterad åtgärd. |
 | Fysisk<br>aktivitet | + | Ökade ambitioner kring hållbart resande (gång, cykel och<br>kollektivtrafik) och integrering mellan cykel och kollektivtrafik<br>genom tydligare kopplingar till Strategisk plan för ökad cykling. |
 | Trafik-<br>säkerhet | + | Utveckla samverkan kring trafiksäkerhet samt VGR:s/<br>Västtrafiks egna arbete kring trafiksäkerhet. |
+| God<br>ekonomisk<br>hushållning<br>(resurseffekt<br>ivitet) | + | Programmet beskriver vidareutvecklat arbete kring FOI för ökad<br>resurseffektivitet, arbete med smarta och nya lösningar som<br>kompletterar kollektivtrafiken. |
+| Långsiktig<br>ekonomi i<br>balans | + | Ingen stor ambitionsökning mer än på marginalen. Återhållsamt<br>program i sin grund. Remissförslaget lägger större fokus på<br>balansen mellan intäkter och kostnader. Detta för att<br>möjliggöra framtida satsningar på kollektivtrafiken men också<br>för att få ut mer måluppfyllnad och nytta för investerade medel. |
 
 <!-- sida 203 -->
 
 Hållbarhetsintegrering och bedömning                          Sida 5
-
-[Tabell 203-1](handlingar.tabeller/203-1.csv)
-
-| God<br>ekonomisk<br>hushållning<br>(resurseffekt<br>ivitet) | + | Programmet beskriver vidareutvecklat arbete kring FOI för ökad<br>resurseffektivitet, arbete med smarta och nya lösningar som<br>kompletterar kollektivtrafiken. |
-| --- | --- | --- |
-| Långsiktig<br>ekonomi i<br>balans | + | Ingen stor ambitionsökning mer än på marginalen. Återhållsamt<br>program i sin grund. Remissförslaget lägger större fokus på<br>balansen mellan intäkter och kostnader. Detta för att<br>möjliggöra framtida satsningar på kollektivtrafiken men också<br>för att få ut mer måluppfyllnad och nytta för investerade medel. |
 
 <!-- sida 204 -->
 
@@ -17025,7 +16985,7 @@ Kungsbacka kommun              Styrande dokument               8 (28)
 
 Kungsbacka kommun              Styrande dokument               9 (28)
 
-[Tabell 380-1](handlingar.tabeller/380-1.csv)
+[Tabell 380-381-1](handlingar.tabeller/380-381-1.csv)
 
 | Egenskap | Kriterier |
 | --- | --- |
@@ -17035,19 +16995,15 @@ Kungsbacka kommun              Styrande dokument               9 (28)
 | Fluorerade växthusgaser<br>(F-gaser) | Kigalitillägget om fluorkolväten (HFC) i den<br>internationell konventionen Montrealprotokollet |
 | Hormonstörande | Ämnen som uppfyller kriterierna för att<br>klassificeras som hormonstörande för<br>människors hälsa eller miljön i kategori 1 enligt<br>CLP-förordningen (EG) nr 1272/2008, eller<br>(ED HH 1, EUH380: Kan orsaka hormonstörningar<br>hos människor)<br>(ED ENV 1, EUH430: Kan orsaka<br>hormonstörningar i miljön)<br>Ämnen som identifierats som hormonstörande<br>för hälsa eller miljö inom någon av följande EU-<br>förordningar: Reach-förordningen (EG) nr<br>1907/2006, Biocidförordningen (EG) nr 528/2012<br>eller Växtskyddsmedelsförordningen (EG) nr<br>1107/2009 |
 | Kraftigt<br>allergiframkallande | Ämnen som uppfyller kriterierna för att<br>klassificeras som luftvägssensibiliserande i<br>kategori 1 eller hudsensibiliserande i kategori<br>1A enligt CLP-förordningen (EG) nr 1272/2008<br>(Resp. Sens 1, H334: Kan orsaka allergi- eller<br>astmasymtom eller andningssvårigheter vid<br>inandning)<br>(Skin Sens. 1A, H317: Kan orsaka allergisk<br>hudreaktion) |
-
-<!-- sida 381 -->
-
-Kungsbacka kommun              Styrande dokument               10 (28)
-
-[Tabell 381-1](handlingar.tabeller/381-1.csv)
-
 | Ozonnedbrytande | Ämnen som uppfyller kriterierna för att<br>klassificeras som farligt för ozonskiktet i<br>kategori 1 enligt CLP-förordningen (EG) nr<br>1272/2008<br>(Ozone 1, H420: Skadar folkhälsan och miljön<br>genom att förstöra ozonet i övre delen av<br>atmosfären) |
-| --- | --- |
 | PBT/vPvB | Ämnen som uppfyller kriterierna för att<br>klassificeras som långlivade, bioackumulerande<br>och toxiska eller mycket långlivade och mycket<br>bioackumulerande enligt CLP-förordningen<br>(EG) nr 1272/2008, eller<br>(PBT, EUH440: Ackumuleras i miljön och i<br>levande organismer, inbegripet människor)<br>(vPvB, EUH441: Ackumuleras kraftigt i miljön och<br>i levande organismer, inbegripet människor)<br>Ämnen som uppfyller kriterierna i Bilaga Xlll,<br>Reach-förordningen (EG) nr 1907/2006, eller<br>uppfyller kriterierna i Bilaga D,<br>Stockholmskonventionen |
 | PMT/vPvM | Ämnen som uppfyller kriterierna för att<br>klassificeras som långlivade, mobila och toxiska<br>eller mycket långlivade och mycket mobila enligt<br>CLP-förordningen (EG) nr 1272/2008<br>(PMT, EUH450: Långlivat ämne som kan förorena<br>vattenkällor)<br>(vPvB, EUH451: Mycket långlivat ämne som kan<br>förorena vattenkällor) |
 | Särskilt farliga metaller<br>(Cd, Hg, Pb) | Kadmium, kvicksilver, bly och dess föreningar<br>omfattas av definitionen särskilt farliga ämnen i<br>Sveriges miljökvalitetsmål Giftfri miljö. |
 | PFAS, Särskilt persistenta<br>ämnen | PFAS (per- och polyfluorerade alkylsubstanser)<br>har jämförbar allvarlighetsgrad med särskilt farliga<br>ämnen på grund av deras extrema persistens och<br>bör av försiktighetsskäl behandlas som särskilt<br>farliga ämnen enligt Sveriges miljökvalitetsmål<br>Giftfri miljö.<br>PFAS definieras som fluorerade ämnen som<br>innehåller minst en helt fluorerad metyl- eller<br>metylenkolatom (utan någon H/Cl/Br/I-atom fäst<br>vid den), det vill säga med några få undantag, alla<br>ämnen med minst en perfluorerad metylgrupp (–<br>CF3) eller en perfluorerad metylengrupp (–CF2–).<br>(OECD, 2021) |
+
+<!-- sida 381 -->
+
+Kungsbacka kommun              Styrande dokument               10 (28)
 
 <!-- sida 382 -->
 
@@ -17117,7 +17073,7 @@ I Kungsbacka kommun ska prioriterade riskminskningsämnen undvikas så långt de
 
 Kungsbacka kommun              Styrande dokument               12 (28)
 
-[Tabell 383-1](handlingar.tabeller/383-1.csv)
+[Tabell 383-384-1](handlingar.tabeller/383-384-1.csv)
 
 | Egenskap | Kriterier |
 | --- | --- |
@@ -17128,6 +17084,8 @@ Kungsbacka kommun              Styrande dokument               12 (28)
 | Mycket hög akut giftighet | Ämnen som uppfyller kriterierna för att klassificeras<br>som akuttoxiskt i kategori 1 eller 2 enligt CLP-<br>förordningen (EG) nr 1272/2008, eller<br>(Acute Tox. 1 eller 2, H300: Dödligt vid förtäring)<br>(Acute Tox. 1 eller 2, H310: Dödligt vid hudkontakt)<br>(Acute Tox. 1 eller 2, H330: Dödligt vid inandning)<br>Ämnen som uppfyller kriterierna för att klassificeras<br>som specifikt organtoxiskt - enstaka exponering i<br>kategori 1 enligt CLP-förordningen (EG) nr 1272/2008<br>(STOT SE 1, H370: Orsakar organskador) |
 | Potentiella PBT/vPvB | Ämnen som uppfyller screening-kriterierna för<br>PBT/vPvB-identifiering enligt Bilaga XIII, Reach-<br>förordningen (EG) nr 1907/2006, eller är under<br>utvärdering för PBT/vPvB i någon regulatorisk<br>expertgrupp. |
 | Potentiellt<br>hormonstörande | Ämnen som uppfyller kriterierna för att klassificeras<br>som hormonstörande för människors hälsa eller miljön i<br>kategori 2 enligt CLP-förordningen (EG) nr 1272/2008,<br>eller<br>(ED HH 2, EUH381: Misstänks orsaka hormonstörningar<br>hos människor)<br>(ED ENV 2, EUH431: Misstänks orsaka hormonstörningar i<br>miljön)<br>Ämnen som är under utvärdering för hormonstörning<br>(hälsa eller miljön) i någon regulatorisk expertgrupp. |
+| Reproduktionsstörande | Ämnen som uppfyller kriterierna för att klassificeras<br>som reproduktionstoxiskt i kategori 2 eller<br>tilläggskategori för effekter på eller via amning enligt<br>CLP-förordningen (EG) nr 1272/2008<br>(Repr. 2, H361: Misstänks kunna skada fertiliteten eller det<br>ofödda barnet)<br>(Lact. H362: Kan skada spädbarn som ammas) |
+| Specifikt organskadande<br>efter upprepad<br>exponering | Ämnen som uppfyller kriterierna för att klassificeras<br>som specifikt organtoxiskt - upprepad exponering i<br>kategori 1 enligt CLP-förordningen (EG) nr 1272/2008<br>(STOT RE 1, H372: Orsakar organskador genom lång eller<br>upprepad exponering) |
 
 <!-- sida 384 -->
 
@@ -17173,12 +17131,6 @@ av farliga kemikalier, behöver även gravida och kvinnor i fertil ålder ses so
 prioriterade grupper. Inom flera verksamheter är personalen till övervägande del
 
 Kungsbacka kommun              Styrande dokument               13 (28)
-
-[Tabell 384-1](handlingar.tabeller/384-1.csv)
-
-| Reproduktionsstörande | Ämnen som uppfyller kriterierna för att klassificeras<br>som reproduktionstoxiskt i kategori 2 eller<br>tilläggskategori för effekter på eller via amning enligt<br>CLP-förordningen (EG) nr 1272/2008<br>(Repr. 2, H361: Misstänks kunna skada fertiliteten eller det<br>ofödda barnet)<br>(Lact. H362: Kan skada spädbarn som ammas) |
-| --- | --- |
-| Specifikt organskadande<br>efter upprepad<br>exponering | Ämnen som uppfyller kriterierna för att klassificeras<br>som specifikt organtoxiskt - upprepad exponering i<br>kategori 1 enligt CLP-förordningen (EG) nr 1272/2008<br>(STOT RE 1, H372: Orsakar organskador genom lång eller<br>upprepad exponering) |
 
 <!-- sida 385 -->
 
@@ -18690,25 +18642,24 @@ listan
 Detta kan i dagsläget vara allergiframkallande ämnen. Kandidatförteckningen förklaras
 närmare i nästa avsnitt om SVHC-ämnen.
 
-[Tabell 416-1](handlingar.tabeller/416-1.csv)
+[Tabell 416-418-1](handlingar.tabeller/416-418-1.csv)
 
 | Egenskap | Kriterier |
 | --- | --- |
 | Cancerframkallande | Ämnen som uppfyller kriterierna för att klassificeras<br>som cancerframkallande i kategori 1A eller 1B enligt<br>CLP-förordningen (EG) nr 1272/2008<br>(Carc. 1A/1B, H350: Kan orsaka cancer) |
 | Mutagent | Ämnen som uppfyller kriterierna för att klassificeras<br>som könscellsmutagent i kategori 1A eller 1B enligt<br>CLP-förordningen CLP-förordningen (EG) nr<br>1272/2008<br>(Muta. 1A/1B, H340: Kan orsaka genetiska defekter) |
-
-<!-- sida 417 -->
-
-[Tabell 417-1](handlingar.tabeller/417-1.csv)
-
 | Reproduktionsstörande | Ämnen som uppfyller kriterierna för att klassificeras<br>som reproduktionstoxiskt i kategori 1A eller 1B<br>enligt CLP-förordningen<br>(Repr. 1A/1B, H360: Kan skada fertiliteten eller det<br>ofödda barnet) |
-| --- | --- |
 | Fluorerade växthusgaser (F-<br>gaser) | Kigalitillägget om fluorkolväten (HFC) i den<br>internationell konventionen Montrealprotokollet |
 | Hormonstörande | Ämnen som uppfyller kriterierna för att klassificeras<br>som hormonstörande för människors hälsa eller<br>miljön i kategori 1 enligt CLP-förordningen (EG) nr<br>1272/2008, eller<br>(ED HH 1, EUH380: Kan orsaka hormonstörningar<br>hos människor)<br>(ED ENV 1, EUH430: Kan orsaka hormonstörningar i<br>miljön)<br>Ämnen som identifierats som hormonstörande för<br>hälsa eller miljö inom någon av följande EU-<br>förordningar: Reach-förordningen (EG) nr<br>1907/2006, Biocidförordningen (EG) nr 528/2012<br>eller Växtskyddsmedelsförordningen (EG) nr<br>1107/2009 |
 | Kraftigt allergiframkallande | Ämnen som uppfyller kriterierna för att klassificeras<br>som luftvägssensibiliserande i kategori 1 eller<br>hudsensibiliserande i kategori 1A enligt CLP-<br>förordningen (EG) nr 1272/2008<br>(Resp. Sens 1, H334: Kan orsaka allergi- eller<br>astmasymtom eller andningssvårigheter vid<br>inandning)<br>(Skin Sens. 1A, H317: Kan orsaka allergisk<br>hudreaktion) |
 | Ozonnedbrytande | Ämnen som uppfyller kriterierna för att klassificeras<br>som farligt för ozonskiktet i kategori 1 enligt CLP-<br>förordningen (EG) nr 1272/2008<br>(Ozone 1, H420: Skadar folkhälsan och miljön genom<br>att förstöra ozonet i övre delen av atmosfären) |
 | PBT/vPvB | Ämnen som uppfyller kriterierna för att klassificeras<br>som långlivade, bioackumulerande och toxiska eller<br>mycket långlivade och mycket bioackumulerande<br>enligt CLP-förordningen (EG) nr 1272/2008, eller<br>(PBT, EUH440: Ackumuleras i miljön och i levande<br>organismer, inbegripet människor)<br>(vPvB, EUH441: Ackumuleras kraftigt i miljön och i<br>levande organismer, inbegripet människor)<br>Ämnen som uppfyller kriterierna i Bilaga Xlll, Reach-<br>förordningen (EG) nr 1907/2006, eller uppfyller<br>kriterierna i Bilaga D, Stockholmskonventionen |
 | PMT/vPvM | Ämnen som uppfyller kriterierna för att klassificeras<br>som långlivade, mobila och toxiska eller mycket |
+|  | långlivade och mycket mobila enligt CLP-<br>förordningen (EG) nr 1272/2008<br>(PMT, EUH450: Långlivat ämne som kan förorena<br>vattenkällor)<br>(vPvB, EUH451: Mycket långlivat ämne som kan<br>förorena vattenkällor) |
+| Särskilt farliga metaller (Cd,<br>Hg, Pb) | Kadmium, kvicksilver, bly och dess föreningar<br>omfattas av definitionen särskilt farliga ämnen i<br>Sveriges miljökvalitetsmål Giftfri miljö. |
+| PFAS, Särskilt persistenta<br>ämnen | PFAS (per- och polyfluorerade alkylsubstanser) har<br>jämförbar allvarlighetsgrad med särskilt farliga<br>ämnen på grund av deras extrema persistens och bör<br>av försiktighetsskäl behandlas som särskilt farliga<br>ämnen enligt Sveriges miljökvalitetsmål Giftfri miljö.<br>PFAS definieras som fluorerade ämnen som<br>innehåller minst en helt fluorerad metyl- eller<br>metylenkolatom (utan någon H/Cl/Br/I-atom fäst<br>vid den), det vill säga med några få undantag, alla<br>ämnen med minst en perfluorerad metylgrupp (–<br>CF3) eller en perfluorerad metylengrupp (–CF2–).<br>(OECD, 2021) |
+
+<!-- sida 417 -->
 
 <!-- sida 418 -->
 
@@ -18738,13 +18689,6 @@ SVHC-ämnen, Substances of Very High Concern, är ”ämnen som inger mycket sto
 betänkligheter” i Europas kemikalielagstiftning Reach. De är utfasningsämnen, och ska
 
 därmed fasas ut från kommunens verksamheter. Dessa ämnen är upptagna på
-
-[Tabell 418-1](handlingar.tabeller/418-1.csv)
-
-|  | långlivade och mycket mobila enligt CLP-<br>förordningen (EG) nr 1272/2008<br>(PMT, EUH450: Långlivat ämne som kan förorena<br>vattenkällor)<br>(vPvB, EUH451: Mycket långlivat ämne som kan<br>förorena vattenkällor) |
-| --- | --- |
-| Särskilt farliga metaller (Cd,<br>Hg, Pb) | Kadmium, kvicksilver, bly och dess föreningar<br>omfattas av definitionen särskilt farliga ämnen i<br>Sveriges miljökvalitetsmål Giftfri miljö. |
-| PFAS, Särskilt persistenta<br>ämnen | PFAS (per- och polyfluorerade alkylsubstanser) har<br>jämförbar allvarlighetsgrad med särskilt farliga<br>ämnen på grund av deras extrema persistens och bör<br>av försiktighetsskäl behandlas som särskilt farliga<br>ämnen enligt Sveriges miljökvalitetsmål Giftfri miljö.<br>PFAS definieras som fluorerade ämnen som<br>innehåller minst en helt fluorerad metyl- eller<br>metylenkolatom (utan någon H/Cl/Br/I-atom fäst<br>vid den), det vill säga med några få undantag, alla<br>ämnen med minst en perfluorerad metylgrupp (–<br>CF3) eller en perfluorerad metylengrupp (–CF2–).<br>(OECD, 2021) |
 
 <!-- sida 419 -->
 
@@ -18876,24 +18820,23 @@ bilaga XIII
 
 Ämnen som räknas som prioriterade riskminskningsämnen är:
 
-[Tabell 421-1](handlingar.tabeller/421-1.csv)
+[Tabell 421-423-1](handlingar.tabeller/421-423-1.csv)
 
 | Egenskap | Kriterier |
 | --- | --- |
 | Allergiframkallande | Ämnen som uppfyller kriterierna för att klassificeras<br>som hudsensibiliserande i kategori 1 eller 1B enligt CLP-<br>förordningen (EG) nr 1272/2008<br>(Skin Sens. 1/1B, H317: Kan orsaka allergisk<br>hudreaktion, EUH208: Kan orsaka en allergisk reaktion) |
 | Cancerframkallande | Ämnen som uppfyller kriterierna för att klassificeras<br>som cancerframkallade i kategori 2 enligt CLP-<br>förordningen (EG) nr 1272/2008<br>(Carc. 2, H351: Misstänks kunna orsaka cancer) |
 | Miljöfarliga<br>långtidseffekter | Ämnen som uppfyller kriterierna för att klassificeras<br>som farlig för vattenmiljön i kategori kronisk 1 eller 4<br>enligt CLP-förordningen (EG) nr 1272/2008 |
-
-<!-- sida 422 -->
-
-[Tabell 422-1](handlingar.tabeller/422-1.csv)
-
 |  | (Aquatic chronic 1, H410: Mycket giftigt för<br>vattenlevande organismer med långtidseffekter)<br>(Aquatic chronic 4, H413: Kan ge skadliga<br>långtidseffekter för vattenlevande organismer) |
-| --- | --- |
 | Mutagent | Ämnen som uppfyller kriterierna för att klassificeras<br>som könscellsmutagent i kategori 2 enligt CLP-<br>förordningen (EG) nr 1272/2008<br>(Muta. 2, H341: Misstänks kunna orsaka genetiska<br>defekter) |
 | Mycket hög akut giftighet | Ämnen som uppfyller kriterierna för att klassificeras<br>som akuttoxiskt i kategori 1 eller 2 enligt CLP-<br>förordningen (EG) nr 1272/2008, eller<br>(Acute Tox. 1 eller 2, H300: Dödligt vid förtäring)<br>(Acute Tox. 1 eller 2, H310: Dödligt vid hudkontakt)<br>(Acute Tox. 1 eller 2, H330: Dödligt vid inandning)<br>Ämnen som uppfyller kriterierna för att klassificeras<br>som specifikt organtoxiskt - enstaka exponering i<br>kategori 1 enligt CLP-förordningen (EG) nr 1272/2008<br>(STOT SE 1, H370: Orsakar organskador) |
 | Potentiella PBT/vPvB | Ämnen som uppfyller screening-kriterierna för<br>PBT/vPvB-identifiering enligt Bilaga XIII, Reach-<br>förordningen (EG) nr 1907/2006, eller är under<br>utvärdering för PBT/vPvB i någon regulatorisk<br>expertgrupp. |
 | Potentiellt<br>hormonstörande | Ämnen som uppfyller kriterierna för att klassificeras<br>som hormonstörande för människors hälsa eller miljön i<br>kategori 2 enligt CLP-förordningen (EG) nr 1272/2008,<br>eller<br>(ED HH 2, EUH381: Misstänks orsaka hormonstörningar<br>hos människor)<br>(ED ENV 2, EUH431: Misstänks orsaka<br>hormonstörningar i miljön) |
+|  | Ämnen som är under utvärdering för hormonstörning<br>(hälsa eller miljön) i någon regulatorisk expertgrupp. |
+| Reproduktionsstörande | Ämnen som uppfyller kriterierna för att klassificeras<br>som reproduktionstoxiskt i kategori 2 eller<br>tilläggskategori för effekter på eller via amning enligt<br>CLP-förordningen (EG) nr 1272/2008<br>(Repr. 2, H361: Misstänks kunna skada fertiliteten eller<br>det ofödda barnet)<br>(Lact. H362: Kan skada spädbarn som ammas) |
+| Specifikt organskadande<br>efter upprepad<br>exponering | Ämnen som uppfyller kriterierna för att klassificeras<br>som specifikt organtoxiskt - upprepad exponering i<br>kategori 1 enligt CLP-förordningen (EG) nr 1272/2008<br>(STOT RE 1, H372: Orsakar organskador genom lång<br>eller upprepad exponering) |
+
+<!-- sida 422 -->
 
 <!-- sida 423 -->
 
@@ -18924,13 +18867,6 @@ konsekvenser.
 
 Våra barn tillbringar ofta en stor del av sin vakna tid på förskolan, skolan och fritidshem.
 Förskolor är platser där man hittar högre halter av en rad skadliga ämnen jämfört med
-
-[Tabell 423-1](handlingar.tabeller/423-1.csv)
-
-|  | Ämnen som är under utvärdering för hormonstörning<br>(hälsa eller miljön) i någon regulatorisk expertgrupp. |
-| --- | --- |
-| Reproduktionsstörande | Ämnen som uppfyller kriterierna för att klassificeras<br>som reproduktionstoxiskt i kategori 2 eller<br>tilläggskategori för effekter på eller via amning enligt<br>CLP-förordningen (EG) nr 1272/2008<br>(Repr. 2, H361: Misstänks kunna skada fertiliteten eller<br>det ofödda barnet)<br>(Lact. H362: Kan skada spädbarn som ammas) |
-| Specifikt organskadande<br>efter upprepad<br>exponering | Ämnen som uppfyller kriterierna för att klassificeras<br>som specifikt organtoxiskt - upprepad exponering i<br>kategori 1 enligt CLP-förordningen (EG) nr 1272/2008<br>(STOT RE 1, H372: Orsakar organskador genom lång<br>eller upprepad exponering) |
 
 <!-- sida 424 -->
 
@@ -21987,32 +21923,83 @@ Kungsbacka Teater och k onsertlokalen Snäckan Sida 2 av 5
 
 4\. Avgiftsbelopp/taxetabell Kungsbacka Teater
 
+Avgift                     Beräkningssätt    Belopp 2021 Belopp 2025
+
+Hyra ideell. En tekniker är obligatorisk Per timme, momsfritt 1 500 kr 1 800 kr
+och ingår. Två foajévärdar ingår. På          2 10 0 kr  2 550 kr
+repetitionsdagar gäller 50 % av
+hyresavgiften.
+Hyra kommersiell. En tekniker är Per timme, momsfritt 3 200 kr 3 850 kr
+obligatorisk och ingår. Två foajévärdar
+ingår. På repetitionsdagar gäller 50 % av
+hyresavgiften.
+Extra föreställning. Gäller föreställning Per extra föreställning, 7 500 kr 9 000 kr
+dag då det redan finns inplanerad minst momsfritt
+en föreställning.
+
+Hyra foajé och scen/salong för mässor Per timme, momsfritt 4 000 kr 4 800 kr
+och liknande.
+Tekniker nr två.           Per timme, exkl. 25 % 600 kr   750 kr
+moms, minimum 3
+timmar
+
+Bärhjälp/extra foajévärdar. Per timme, exkl. 25 % 300 kr  450 kr
+moms, minimum 3
+timmar
+Biljettavgift. Administrationsavgift per Per såld biljett, exkl. 25 5 kr/8 kr 20/25 kr
+utskriven biljett. För evenemang med % moms. (Den lägre
+inträde och biljetthantering. avgiften vid interna
+barnproduktioner.)
+
+Biljettuppläggningsavgift. Totalt, exkl. 25 % moms. 600 kr 1 500 kr
+
+Tekniker utanför hyrestimme. Per timme, exkl. 25 % 600 kr 750 kr
+moms
+
+Hyra av flygel (stämd).    Per tillfälle, exkl. 25 % 2 500 kr 2 700 kr
+moms
+Grundhyra vid konferenser m.m. En Heldag, max 8 timmar - 30 000 kr
+foajévärd ingår.
+Långtidshyra, dvs. hyra av scen och                     Enligt offert
+kringutrymmen för repetitioner och/eller
+föreställningar under period om minst
+sju dagar.
+
 4.1. Endast hela timmar debiteras. Arrangören betalar för iordningställande före och efter
 arrangemanget. Teatern går endast att boka med behörig personal. Vid större evenemang krävs två
 tekniker.
 
 Kungsbacka Teater och k onsertlokalen Snäckan Sida 3 av 5
 
-[Tabell 497-1](handlingar.tabeller/497-1.csv)
-
-| Avgift | Beräkningssätt | Belopp 2021 | Belopp 2025 |
-| --- | --- | --- | --- |
-| Hyra ideell. En tekniker är obligatorisk<br>och ingår. Två foajévärdar ingår. På<br>repetitionsdagar gäller 50 % av<br>hyresavgiften. | Per timme, momsfritt | 1 500 kr<br>2 10 0 kr | 1 800 kr<br>2 550 kr |
-| Hyra kommersiell. En tekniker är<br>obligatorisk och ingår. Två foajévärdar<br>ingår. På repetitionsdagar gäller 50 % av<br>hyresavgiften. | Per timme, momsfritt | 3 200 kr | 3 850 kr |
-| Extra föreställning. Gäller föreställning<br>dag då det redan finns inplanerad minst<br>en föreställning. | Per extra föreställning,<br>momsfritt | 7 500 kr | 9 000 kr |
-| Hyra foajé och scen/salong för mässor<br>och liknande. | Per timme, momsfritt | 4 000 kr | 4 800 kr |
-| Tekniker nr två. | Per timme, exkl. 25 %<br>moms, minimum 3<br>timmar | 600 kr | 750 kr |
-| Bärhjälp/extra foajévärdar. | Per timme, exkl. 25 %<br>moms, minimum 3<br>timmar | 300 kr | 450 kr |
-| Biljettavgift. Administrationsavgift per<br>utskriven biljett. För evenemang med<br>inträde och biljetthantering. | Per såld biljett, exkl. 25<br>% moms. (Den lägre<br>avgiften vid interna<br>barnproduktioner.) | 5 kr/8 kr | 20/25 kr |
-| Biljettuppläggningsavgift. | Totalt, exkl. 25 % moms. | 600 kr | 1 500 kr |
-| Tekniker utanför hyrestimme. | Per timme, exkl. 25 %<br>moms | 600 kr | 750 kr |
-| Hyra av flygel (stämd). | Per tillfälle, exkl. 25 %<br>moms | 2 500 kr | 2 700 kr |
-| Grundhyra vid konferenser m.m. En<br>foajévärd ingår. | Heldag, max 8 timmar | - | 30 000 kr |
-| Långtidshyra, dvs. hyra av scen och<br>kringutrymmen för repetitioner och/eller<br>föreställningar under period om minst<br>sju dagar. |  |  | Enligt offert |
-
 <!-- sida 498 -->
 
 5\. Avgiftsbelopp/taxetabell, konsertsalen Snäckan
+
+Avgift         Beräkningssätt     Belopp 2019     Belopp 2025
+Snäckan, hyra  Per tre timmar.         2 600 kr
+kommersiell
+Från timme fyra, per timme. 700 kr
+Från första timme.                       840 kr
+
+Minimum tre timmar.
+Snäckan, hyra ideell Per tre timmar.    950 kr
+
+Från timme fyra, per timme. 250 kr
+Per timme.                               300 kr
+
+Utställningsytor Om arrangemangets tema är 0 kr         0 kr
+ickekommersiellt och faller
+inom ramen för nämndens
+mål upplåts
+utställningsutrymme
+kostnadsfritt.
+
+Tekniker       Per timme, exkl. 25 % moms. 600 kr       750 kr
+Även förberedelse och
+efterarbete räknas.
+För bokning mån-fre efter kl
+17.00, samt lö-sö debiteras
+minimum tre timmar.
 
 5.1. Ideell hyra gäller ideella föreningar, övriga kommunala förvaltningar, skolor, fackföreningar och
 politiska partier, samt privatpersoner när det gäller icke-kommersiell verksamhet.
@@ -22038,15 +22025,6 @@ eller inte, och i förekommande fall räkna upp beloppen i taxan.
 gäller, används den taxa som gäller vid det datum bokningen görs.
 
 Kungsbacka Teater och k onsertlokalen Snäckan Sida 4 av 5
-
-[Tabell 498-1](handlingar.tabeller/498-1.csv)
-
-| Avgift | Beräkningssätt | Belopp 2019 | Belopp 2025 |
-| --- | --- | --- | --- |
-| Snäckan, hyra<br>kommersiell | Per tre timmar.<br>Från timme fyra, per timme.<br>Från första timme.<br>Minimum tre timmar. | 2 600 kr<br>700 kr | 840 kr |
-| Snäckan, hyra ideell | Per tre timmar.<br>Från timme fyra, per timme.<br>Per timme. | 950 kr<br>250 kr | 300 kr |
-| Utställningsytor | Om arrangemangets tema är<br>ickekommersiellt och faller<br>inom ramen för nämndens<br>mål upplåts<br>utställningsutrymme<br>kostnadsfritt. | 0 kr | 0 kr |
-| Tekniker | Per timme, exkl. 25 % moms.<br>Även förberedelse och<br>efterarbete räknas.<br>För bokning mån-fre efter kl<br>17.00, samt lö-sö debiteras<br>minimum tre timmar. | 600 kr | 750 kr |
 
 <!-- sida 499 -->
 
@@ -22544,21 +22522,31 @@ kommunen har att subventionera utifrån politiskt fastställda mål och styrdoku
 avgiftsnivån ”Avgift ideell” gäller för övriga kommunala förvaltningar och skolor, ideella föreningar,
 studieförbund och andra organisationer, ”Avgift kommersiell” i övriga fall.
 
+Vad              Avgift ideell Avgift   Exkl. 25 % Anmärkning
+2024        kommersiell moms
+2024
+Entré                0 kr        0 kr
+
+Konstguidning, bokade 0 kr      850 kr      x    Max 30 personer per
+grupper, vardag fram till                        grupp.
+k l 18.00
+Konstguidning, bokade 0 kr     1 000 kr     x    Max 30 personer per
+grupper, vardag från kl                          grupp.
+1 8.00
+
+Konstguidning, bokade 0 kr     1 500 kr     x    Max 25 personer per
+g rupper, helg                                   grupp.
+Skapande verkstad    0 kr        0 kr            Ingen kostnad. Ca 2-3
+förskole- & skolelever                           timmar inkl. visning. 4-12
+personer per grupp.
+Skapande verkstad    0 kr       100 kr      x    Ca 2-3 timmar inkl. visning.
+vuxna/person                                     4-12 personer per grupp.
+Kostnad för material
+t illkommer.
+
 Kungsbacka Kons thall, Taxa 2025 Sida 2 av 3
 
 [Tabell 512-1](handlingar.tabeller/512-1.csv)
-
-| Vad | Avgift ideell<br>2024 | Avgift<br>kommersiell<br>2024 | Exkl. 25 %<br>moms | Anmärkning |
-| --- | --- | --- | --- | --- |
-| Entré | 0 kr | 0 kr |  |  |
-| Konstguidning, bokade<br>grupper, vardag fram till<br>k l 18.00 | 0 kr | 850 kr | x | Max 30 personer per<br>grupp. |
-| Konstguidning, bokade<br>grupper, vardag från kl<br>1 8.00 | 0 kr | 1 000 kr | x | Max 30 personer per<br>grupp. |
-| Konstguidning, bokade<br>g rupper, helg | 0 kr | 1 500 kr | x | Max 25 personer per<br>grupp. |
-| Skapande verkstad<br>förskole- & skolelever | 0 kr | 0 kr |  | Ingen kostnad. Ca 2-3<br>timmar inkl. visning. 4-12<br>personer per grupp. |
-| Skapande verkstad<br>vuxna/person | 0 kr | 100 kr | x | Ca 2-3 timmar inkl. visning.<br>4-12 personer per grupp.<br>Kostnad för material<br>t illkommer. |
-|  |  |  |  |  |
-
-[Tabell 512-2](handlingar.tabeller/512-2.csv)
 
 | Vad | Avgift ideell 2025<br>exkl. 25 % moms | Avgift kommersiell<br>2025<br>exkl. 25 % moms | Anmärkning |
 | --- | --- | --- | --- |
