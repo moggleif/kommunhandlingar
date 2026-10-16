@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.44c56de518fa42b4f1d12ec9/1717407862
 sha256: e91dc06b074455510cf9108a16189da4abb53e84bfabab3aa9f94496e2403941
 bytes: 14423329
 sidor: 199
-hamtad: 2026-10-09T08:58:34+00:00
-konverterad: 2026-10-09T08:59:24+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T06:50:49+00:00
+konverterad: 2026-10-16T06:51:35+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok]
 tal_obekraftade: [42, 43, 139, 149, 195, 196]
 figurer: [73, 74, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 87, 88, 89, 90, 92, 93, 94, 95, 100, 105, 107, 109, 113, 114, 115, 116, 117, 120, 121, 122, 123, 124, 125, 126, 139]
 tolkade: []
@@ -56,29 +56,24 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-3-1](handlingar.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 3. | Information om arbetet med att<br>ta fram en ny styrmodell<br>10:05-11:05<br>Christina Hermansson<br>Lena Thorell<br>Lina Lundgren<br>Katarina Öryd, Byggnads- och<br>miljöförvaltningen | 2023-00672 | - |
 | 4. | Ansökan om stöd för ökat<br>småhusbyggande och<br>omvandlingar från lokaler till<br>bostäder | 2024-00328 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen ger kommundirektören delegation<br>att ansöka om bidrag enligt Boverkets<br>bidragsutlysning om stöd till kommuner för ökat<br>småhusbyggande och omvandlingsåtgärder, med rätt<br>att vidaredelegera. |
 | 5. | Sammanträdesdagar 2025 för<br>kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens arbetsutskott | 2024-00362 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott sammanträder<br>följande datum år 2025: 7, 14 och 28 januari; 4 och<br>25 februari; 4, 11 och 25 mars; 8 och 29 april; 6, 13<br>och 20 maj; 3 och 10 juni; 12 och 19 augusti; 2, 9,<br>16 och 30 september; 7 och 14 oktober; 4, 11 och 18<br>november; 2 och 9 december<br>Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen sammanträder följande datum år<br>2025: 21 januari, 18 februari, 18 mars, 22 april, 27<br>maj, 17 juni, 26 augusti, 23 september, 21 oktober,<br>25 november och 16 december<br>Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige sammanträder följande datum<br>år 2025: 4 februari, 4 mars, 8 april, 6 maj<br>12 juni (heldag), 12 augusti, 9 september, 7 oktober<br>4 november, 11 december |
+| 6. | Återrapportering av uppdrag om<br>att utvärdera införande av<br>språkkrav vid anställning inom<br>skolan samt vård och omsorg i<br>Kungsbacka kommun | 2020-00618 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar genomförd utvärdering<br>och förklarar uppdrag som lämnades av<br>kommunfullmäktige 2022-03-08, § 34, för avslutat.<br>Kommunfullmäktige beslutar att försöksperiodens<br>språkkrav blir permanent och övergår till ordinarie<br>verksamhet i berörda nämnder med förvaltningar. |
+| 7. | Delegeringsförteckning för<br>kommunstyrelsen | 2024-00327 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar delegeringsförteckning för<br>kommunstyrelsen, daterad 2024-05-13.<br>Delegeringsförteckningen för kommunstyrelsen,<br>antagen av kommunstyrelsen 2024-02-20 § 45,<br>upphör samtidigt att gälla |
+| 8. | Svar på Hallandstrafikens<br>remiss av Kollektivtrafikplan<br>2025 med utblick 2026-2027 | 2024-00256 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande daterat 2024-05-07,<br>och skickar det som sitt svar till Hallandstrafiken. |
+| 9. | Svar på motion från Maria<br>Losman (MP) om den politiska<br>organisationen i Kungsbacka | 2024-00156 | Kommunstyrelsens förvaltning överlämnar svaret på<br>motionen utan eget ställningstagande. |
+| 10. | Svar på motion från Magdalena<br>Sundqvist (S) om att utreda<br>möjligheten att införa<br>medborgarförslag | 2024-00104 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning att till det arbete som i dag sker i<br>kommunens verksamheter ger bättre förutsättningar<br>för medskapande med invånarna. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(5)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 6. | Återrapportering av uppdrag om<br>att utvärdera införande av<br>språkkrav vid anställning inom<br>skolan samt vård och omsorg i<br>Kungsbacka kommun | 2020-00618 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar genomförd utvärdering<br>och förklarar uppdrag som lämnades av<br>kommunfullmäktige 2022-03-08, § 34, för avslutat.<br>Kommunfullmäktige beslutar att försöksperiodens<br>språkkrav blir permanent och övergår till ordinarie<br>verksamhet i berörda nämnder med förvaltningar. |
-| 7. | Delegeringsförteckning för<br>kommunstyrelsen | 2024-00327 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar delegeringsförteckning för<br>kommunstyrelsen, daterad 2024-05-13.<br>Delegeringsförteckningen för kommunstyrelsen,<br>antagen av kommunstyrelsen 2024-02-20 § 45,<br>upphör samtidigt att gälla |
-| 8. | Svar på Hallandstrafikens<br>remiss av Kollektivtrafikplan<br>2025 med utblick 2026-2027 | 2024-00256 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande daterat 2024-05-07,<br>och skickar det som sitt svar till Hallandstrafiken. |
-| 9. | Svar på motion från Maria<br>Losman (MP) om den politiska<br>organisationen i Kungsbacka | 2024-00156 | Kommunstyrelsens förvaltning överlämnar svaret på<br>motionen utan eget ställningstagande. |
-| 10. | Svar på motion från Magdalena<br>Sundqvist (S) om att utreda<br>möjligheten att införa<br>medborgarförslag | 2024-00104 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning att till det arbete som i dag sker i<br>kommunens verksamheter ger bättre förutsättningar<br>för medskapande med invånarna. |
 
 <!-- sida 4 -->
 
@@ -910,7 +905,7 @@ enligt kommunstyrelsens arbetsutskotts förslag.
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 21-1](handlingar.tabeller/21-1.csv)
+[Tabell 21-22-1](handlingar.tabeller/21-22-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -922,6 +917,13 @@ Justerare                         Expedierat/bestyrkt
 | Heinrich Kaufmann (C) |  | X |  |
 | Kristina Karlsson (C) |  | X |  |
 | Monica Neptun (L) |  | X |  |
+| Marie Wadström (KD) | X |  |  |
+| Eva Borg (S) |  | X |  |
+| Johan Tolinsson (S) |  | X |  |
+| Carita Boulwén (SD) | X |  |  |
+| Stefan Jägnert (SD) | X |  |  |
+| Maria Losman (MP) |  | X |  |
+| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 22 -->
 
@@ -941,17 +943,6 @@ Beslutet skickas till
 Samtliga nämnder
 
 Justerare                         Expedierat/bestyrkt
-
-[Tabell 22-1](handlingar.tabeller/22-1.csv)
-
-| Marie Wadström (KD) | X |  |  |
-| --- | --- | --- | --- |
-| Eva Borg (S) |  | X |  |
-| Johan Tolinsson (S) |  | X |  |
-| Carita Boulwén (SD) | X |  |  |
-| Stefan Jägnert (SD) | X |  |  |
-| Maria Losman (MP) |  | X |  |
-| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 23 -->
 
@@ -2479,7 +2470,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 8 (20)
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 9 (20)
 
-[Tabell 57-1](handlingar.tabeller/57-1.csv)
+[Tabell 57-58-1](handlingar.tabeller/57-58-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -2488,15 +2479,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 9 (20)
 | 2.1.14 6 | Regler för<br>arvoden till<br>förtroendevalda | Besluta i frågor om tolkning och tillämpningar av<br>reglerna. | Au |  |  |
 | 2.1.15 7 | Nämndens<br>budget, Regler<br>och riktlinjer för<br>förmåner till<br>förtroendevalda | Deltagande i aktivitet\* för ordförande, vice ordförande,<br>ledamot och ersättare i nämnden. | Ordf.<br>För beslut som<br>avser<br>ordförande<br>beslutar 1:e vice<br>ordföranden och<br>vid förfall för<br>denne 2:e vice<br>ordföranden |  | Rätt till arvode för deltagande på<br>aktivitet regleras i Regler och<br>riktlinjer för förmåner till<br>förtroendevalda<br>\*I samma dokument som ovan<br>framgår vilka aktiviteter som<br>avses. |
 | 2.1.16 8 | Riktlinjer för<br>flaggning | Avvikelser från riktlinjerna för flaggning vid kommunens<br>officiella flaggstänger | Au |  |  |
-
-<!-- sida 58 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 10 (20)
-
-[Tabell 58-1](handlingar.tabeller/58-1.csv)
-
 |  | 2.2 Ekonomi och inköp |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
 |  |  | Inköp<br>Avser avtal (kontrakt) eller ramavtal som inte är<br>kommunövergripande. Dessa hanteras av nämnden för<br>Service.<br>Avtal eller ramavtal som avser två eller flera nämnder<br>tecknas enligt överenskommelse mellan berörda<br>nämnder. |  |  |  |
 | 2.2.1 a) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Beslut om upphandlingsdokument (UD) som följer<br>planeringen enligt inköpsprocessen. | Kdir | X | Inköpsprocessen enligt Riktlinjer<br>för inköp. |
@@ -2505,6 +2488,10 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 10 (20)
 | 2.2.1 d) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Beslut om ändring och tillägg av kontrakt. | Kdir | X<br>Villkor: Samma<br>delegat som i 2.2.1 a) |  |
 | 2.2.1 e) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Beslut om uppsägning eller hävning av avtal. | Kdir | X<br>Villkor: Samma<br>delegat som i 2.2.1 a) |  |
 | 2.2.2 | KS beslut om<br>nämndbudget och<br>Kungsbacka<br>styrmodell | Förvaltningsbudget med fördelning på<br>verksamhetsnivå. | Kdir |  |  |
+
+<!-- sida 58 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 10 (20)
 
 <!-- sida 59 -->
 
@@ -2546,7 +2533,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 11 (20)
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 12 (20)
 
-[Tabell 60-1](handlingar.tabeller/60-1.csv)
+[Tabell 60-61-1](handlingar.tabeller/60-61-1.csv)
 
 |  | 2.3 Personal<br>Kommunövergripande personalärenden |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2559,24 +2546,20 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 12 (20)
 | 2.3.6 | LAS | Anställning av<br>kommundirektör. | KS |  | Au bereder ärendet |
 | 2.3.7 | Lönestruktur,<br>arbetsrättslig<br>reglering | Lönesättning (vid nyanställning) och beslut i övriga<br>personalärenden för kommundirektör. | Ks ordf |  |  |
 | 2.3.8 | LAS | Anställning av förvaltningschef hos nämnd. | Au |  | Kommundirektören bereder<br>ärendet. |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
+| 2.3.9 | LAS | Anställning av förvaltningschef hos nämnd på<br>tidsbegränsat förordnande samt beslut om<br>ställföreträdande förvaltningschef hos nämnd. | Kdir |  |  |
+| 2.3.10 | Reglementet | Lönesättning av förvaltningschef hos nämnd (vid<br>nyanställning). | Kdir |  | Information till Au i samband med<br>lönesättning. |
+| 2.3.11 | Arbetsrättslig<br>reglering | Övriga personalärenden rörande förvaltningschef hos<br>nämnd | Kdir |  | Beslut om avsked för fc föregås<br>av samråd med Au.<br>Vid beslut om bisyssla för fc ska<br>information till Au ske. |
 
 <!-- sida 61 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 13 (20)
 
-[Tabell 61-1](handlingar.tabeller/61-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
-| 2.3.9 | LAS | Anställning av förvaltningschef hos nämnd på<br>tidsbegränsat förordnande samt beslut om<br>ställföreträdande förvaltningschef hos nämnd. | Kdir |  |  |
-| 2.3.10 | Reglementet | Lönesättning av förvaltningschef hos nämnd (vid<br>nyanställning). | Kdir |  | Information till Au i samband med<br>lönesättning. |
-| 2.3.11 | Arbetsrättslig<br>reglering | Övriga personalärenden rörande förvaltningschef hos<br>nämnd | Kdir |  | Beslut om avsked för fc föregås<br>av samråd med Au.<br>Vid beslut om bisyssla för fc ska<br>information till Au ske. |
-
 <!-- sida 62 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 14 (20)
 
-[Tabell 62-1](handlingar.tabeller/62-1.csv)
+[Tabell 62-63-1](handlingar.tabeller/62-63-1.csv)
 
 |  | Kommunstyrelsens egna personalärenden |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2585,15 +2568,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 14 (20)
 | 2.3.12 | LAS,<br>kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader avseende chefer för respektive<br>kontor inom kommunstyrelsens förvaltning. | Kdir |  | Samråd med<br>Au innan anställning.<br>Tidsbegränsad anställning<br>kortare än 6 månader är<br>verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor. |
 | 2.3.13 | LAS,<br>kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader för verksamhetschefer och direkt<br>underställd personal inom kommunstyrelsens<br>förvaltning. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till kontorschefer<br>för samhälls-<br>byggnadskontoret<br>resp. kommun-<br>ledningskontoret. | Tidsbegränsad anställning<br>kortare än 6 månader är<br>verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor.<br>Vidaredelegeringen gäller för<br>anställning av personal inom sitt<br>respektive ansvarsområde. |
 | 2.3.14 | LAS,<br>kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader för övrig personal inom<br>kommunstyrelsens förvaltning. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till verksamhets-<br>chefer. | Tidsbegränsad anställning kortare<br>än 6 månader är verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor.<br>Vidaredelegeringen gäller för<br>anställning av personal inom sitt<br>respektive ansvarsområde. |
-
-<!-- sida 63 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (20)
-
-[Tabell 63-1](handlingar.tabeller/63-1.csv)
-
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.3.15 | Arbetsrättslig<br>reglering | Beslut i övriga personalärenden rörande chefer vid<br>respektive kontor inom kommunstyrelsens förvaltning. | Kdir |  |  |
 |  |  | Avveckla |  |  |  |
 | 2.3.16 | LAS § 7 | Uppsägning av personliga skäl. | Kdir | X | I samråd med HR på förvaltningen<br>och förhandlingschef. |
@@ -2605,11 +2580,15 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (20)
 | 2.3.21 | AB § 10 mom 1-3 | Avstängning | Kdir | X | I samråd med HR på<br>förvaltningen. |
 | 2.3.22 | AB § 11 | Disciplinåtgärd – skriftlig varning | Kdir | X | I samråd med HR på<br>förvaltningen. |
 
+<!-- sida 63 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (20)
+
 <!-- sida 64 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 16 (20)
 
-[Tabell 64-1](handlingar.tabeller/64-1.csv)
+[Tabell 64-66-1](handlingar.tabeller/64-66-1.csv)
 
 |  | 2.4 Samhällsbyggnad |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2624,15 +2603,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 16 (20)
 | 2.4.8 | Reglementet | Avtal om arrende och annan upplåtelse av kommunens<br>mark för en tid av högst 5 år. | Kdir | X | Se bestämmelserna punkt 1.5 |
 | 2.4.9 | Reglementet | Avtal om arrende och annan upplåtelse av kommunens<br>mark för en tid av högst 10 år. | Au |  |  |
 | 2.4.10 | Reglementet | Uppsägning, överlåtelse eller medgivande till<br>vidareöverlåtelse av arrendeavtal. | Kdir | X | Se bestämmelserna punkt 1.5 |
-
-<!-- sida 65 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (20)
-
-[Tabell 65-1](handlingar.tabeller/65-1.csv)
-
 | Nr | La8grum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.4.11 | Reglementet | Servitutsavtal, markavtal och avtal för ledningsrätter<br>samt vägrätt avseende upplåtelse på kommunens<br>mark, upp till 2 miljoner kr. | Kdir | X | Villkor:<br>Vidaredelegering upp till 2<br>miljoner kronor får ske till VC och<br>upp till 250 000 kronor till annan<br>anställd.<br>Se bestämmelserna punkt 1.5 |
 | 2.4.12 | Reglementet | Tillförsäkra kommunen nyttjanderätter (t.ex. arrende,<br>servitut, tomträtt) för kommunens förvaltningar upp till<br>250 000 kr. | Kdir | X | Se bestämmelserna punkt 1.5 |
 | 2.4.13 | Reglementet | Upplåtelse av allmän plats för särskilda ändamål | Kdir | X | Nämnden för Teknik handlägger<br>yttranden om tillstånd enligt OL 3<br>kap 2 §. |
@@ -2640,20 +2611,20 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (20)
 | 2.4.15 | Reglementet | Förvärv av fastighet eller del av fastighet, genom köp,<br>byte, gåva, fastighetsreglering eller liknande åtgärd, upp<br>till 2 miljoner kr. | Kdir | X | Villkor:<br>Vidaredelegering upp till 2<br>miljoner kronor får ske till VC och<br>upp till 250 000 kronor till annan<br>anställd.<br>Se bestämmelserna punkt 1.5. |
 | 2.4.16 | Reglementet | Uppdrag om förberedelse för överlåtelse av kommunens<br>fasta egendom (fastighet eller del av fastighet). | Au |  |  |
 | 2.4.17 | Reglementet | Överlåtelse av kommunens fasta egendom, (fastighet<br>eller del av fastighet) genom köp, byte, gåva,<br>fastighetsreglering eller liknande åtgärd, upp till 10<br>miljoner kr. | Au |  |  |
-
-<!-- sida 66 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 18 (20)
-
-[Tabell 66-1](handlingar.tabeller/66-1.csv)
-
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.4.18 | Reglementet | Överlåtelse av kommunens fasta egendom (fastighet<br>eller del av fastighet) genom köp, byte, gåva,<br>fastighetsreglering eller liknande åtgärd, upp till 2<br>miljoner kr. | Kdir | X | Villkor:<br>Vidaredelegering upp till 2<br>miljoner kronor får ske till VC och<br>upp till 250 000 kronor till annan<br>anställd.<br>Se bestämmelserna punkt 1.5. |
 | 2.4.19 | Reglementet | Utredning för lokalisering av verksamhet. | Au |  |  |
 | 2.4.20 | Reglementet | Avtal om parkeringsköp och parkeringsavlösen. | Kdir | X | Se bestämmelserna punkt 1.5. |
 | 2.4.21 | Reglementet | Förvärv av fast egendom som försäljs på exekutiv- eller<br>offentlig auktion där kommunen har intecknad fordran<br>eller är intecknad för lån med kommunal borgen. | Kdir | X | Samråd Au inför auktion. Se<br>bestämmelserna punkt 1.5 |
 | 2.4.22 | Reglementet | Nedsättning, dödning, sammanföring och relaxation av<br>inteckningar samt utbyte av pantbrev liksom andra<br>därmed jämförliga åtgärder. | Kdir | X | Se bestämmelserna punkt 1.5 |
+
+<!-- sida 65 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (20)
+
+<!-- sida 66 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 18 (20)
 
 <!-- sida 67 -->
 
@@ -8062,7 +8033,7 @@ trafficking, företagsspionage och terrorism.
 Kommunen som arbetsgivare är enligt lag skyldiga att säkerställa medarbetares
 rätt till arbete i Sverige.
 ”Utlänningslagen
-20 kap. Bestämmelser om straff mm
+20kap. Bestämmelser om straff mm
 5§ Till böter eller, när omständigheterna är försvårande, fängelse döms den som
 uppsåtligen eller av oaktsamhet har utlänning anställd, om utlänningen
 

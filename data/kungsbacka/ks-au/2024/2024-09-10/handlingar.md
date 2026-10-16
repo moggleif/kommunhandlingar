@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.2c0e0b6e191975d7155e49f/17255447814
 sha256: 46216dd0952275c2939d8f8c4f7c3fad92105ef64d9d0ba8db506e8754205763
 bytes: 103240714
 sidor: 473
-hamtad: 2026-10-09T09:07:17+00:00
-konverterad: 2026-10-09T09:14:58+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T06:59:29+00:00
+konverterad: 2026-10-16T07:06:24+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [104, 107, 110, 128, 131, 178, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 207, 327, 328, 425, 434]
-figurer: [10, 32, 62, 63, 95, 99, 102, 104, 105, 107, 109, 110, 112, 117, 120, 123, 126, 128, 131, 134, 139, 140, 153, 194, 195, 196, 197, 198, 202, 204, 215, 216, 217, 218, 220, 221, 222, 223, 224, 225, 226, 227, 228, 235, 236, 254, 257, 266, 268, 272, 273, 274, 275, 276, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 332, 333, 334, 335, 336, 337, 338, 342, 343, 345, 346, 347, 348, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 384, 385, 386, 388, 390, 391, 393, 394, 395, 396, 397, 398, 399, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 417, 418, 423, 424, 425, 432, 434, 435, 436, 437, 438, 440, 441, 442, 443, 444, 445, 447, 448]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [104, 107, 110, 128, 131, 178, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 207, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 334, 335, 336, 338, 425, 434]
+figurer: [10, 32, 62, 63, 95, 99, 102, 104, 105, 107, 109, 110, 112, 117, 120, 123, 126, 128, 131, 134, 139, 140, 153, 194, 195, 196, 197, 198, 202, 204, 215, 216, 217, 218, 220, 221, 222, 223, 224, 225, 226, 227, 228, 235, 236, 254, 257, 266, 268, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 332, 333, 334, 335, 336, 337, 338, 342, 343, 345, 346, 347, 348, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 384, 385, 386, 388, 390, 391, 393, 394, 395, 396, 397, 398, 399, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 417, 418, 423, 424, 425, 432, 434, 435, 436, 437, 438, 440, 441, 442, 443, 444, 445, 447, 448]
 tolkade: []
 ---
 
@@ -58,29 +58,24 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-3-1](handlingar.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 5. | Omfördelning av budgetmedel<br>för medfinansiering av statlig<br>infrastruktur | 2024-00476 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beslutar att kostnaderna som har<br>uppstått med anledning av avtalen för GC-vägen längs<br>(väg 970) Anneberg, GC-vägen längs (väg 934)<br>Vallbyvägen och Gåsevadsholmsvägen (väg 932), GC-<br>vägen längs (väg 956), Kyrkobydalavägen Säröleden<br>samt GC-vägen längs (väg 939) Torkeltorpsvägen-<br>Hanhals kyrkväg, som tidigare har ingåtts för<br>medfinansiering till statlig infrastruktur finansieras av<br>kommunens centrala finansverksamhet, vilket innebär<br>att 61 miljoner kronor kommer belasta årets resultat.<br>Kommunfullmäktige beslutar att den årliga budgeten<br>och kostnaden omfördelas från nämnden för Teknik till<br>kommunens centrala finansverksamhet med<br>sammantaget 1,5 miljoner kronor för de<br>medfinansieringsavtal som sedan tidigare fördelas<br>under 25 år, vilka är GC-vägen längs (väg 970)<br>Anneberg, GC-vägen längs (väg 934) Vallbyvägen och<br>Gåsevadsholmsvägen (väg 932) (samt för<br>avskrivningar och internränta om 1,7 miljoner kronor<br>vardera åren 2024 och 2025 för de båda<br>medfinansieringsavtal som skrivs av direkt, vilka är<br>GC-vägen längs (väg 956), Kyrkobydalavägen<br>Säröleden samt GC-vägen längs (väg 939)<br>Torkeltorpsvägen-Hanhals kyrkväg. |
 | 6. | Svar på Göteborgsregionens<br>remiss av Avrop förstärkt<br>satsning Trimning och<br>effektivisering i stråk | 2024-00437 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-07-30,<br>och översänder det som sitt svar till<br>Göteborgsregionen. |
 | 7. | Svar på<br>Arbetsmarknadsdepartementets<br>remiss av betänkandet<br>Genomförande av<br>lönetransparensdirektivet (SOU<br>2024:40) | 2024-00439 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande daterat 2024-08-21<br>och översänder det som sitt svar till<br>Arbetsmarknadsdepartementet. |
+| 8. | Svar på motion från Ermin<br>Skoric (S) m.fl. om<br>medarbetarundersökning för<br>Vård & Omsorg samt Individ &<br>Familjeomsorg utifrån de fem<br>övergripande arbetsmiljömålen | 2023-00729 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att nämnden för Individ & Omsorg samt<br>nämnden för Vård & Omsorg redan genomför<br>medarbetarundersökningar samt kompletterande<br>undersökningsmetoder kopplade till det systematiska<br>arbetsmiljöarbetet utifrån de fem övergripande<br>arbetsmiljömålen som är beslutade av<br>kommunfullmäktige. |
+| 9. | Försäljning av Duvehed 2:53 -<br>Letf | 2021-01055 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott godkänner köpeavtal<br>mellan kommunen och Letf Miljö AB, genom vilket<br>kommunen överlåter fastigheten Duvehed 2:53, mot en<br>köpeskilling på 6 665 960 kronor, undertecknat av<br>bolaget 2024-08-22.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>och övriga i ärendet nödvändiga handlingar. |
+| 10. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för bostäder inom<br>Vallda-Backa 1:6 | 2019-00047 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för bostäder inom Vallda-Backa 1:6 i<br>Vallda, daterad 2024-08-21.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan för bostäder inom<br>Vallda-Backa 1:6 i Vallda.<br>Kommunstyrelsen upphäver tidigare beslut från den 15<br>januari 2019, § 17, om att ta fram ett planprogram för<br>Vallda-Backa 1:6 i Vallda. |
+| 11. | Begäran om planbesked för<br>Kungsbacka 5:3 | 2024-00319 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Kungsbacka 5:3 i Kungsbacka stad. |
+| 12. | Begäran om planbesked<br>Hammerö 7:19 och Kungsbacka<br>5:2 | 2024-00307 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Hammerö 7:19 och Kungsbacka<br>5:2 i Kungsbacka stad. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(5)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Svar på motion från Ermin<br>Skoric (S) m.fl. om<br>medarbetarundersökning för<br>Vård & Omsorg samt Individ &<br>Familjeomsorg utifrån de fem<br>övergripande arbetsmiljömålen | 2023-00729 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att nämnden för Individ & Omsorg samt<br>nämnden för Vård & Omsorg redan genomför<br>medarbetarundersökningar samt kompletterande<br>undersökningsmetoder kopplade till det systematiska<br>arbetsmiljöarbetet utifrån de fem övergripande<br>arbetsmiljömålen som är beslutade av<br>kommunfullmäktige. |
-| 9. | Försäljning av Duvehed 2:53 -<br>Letf | 2021-01055 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott godkänner köpeavtal<br>mellan kommunen och Letf Miljö AB, genom vilket<br>kommunen överlåter fastigheten Duvehed 2:53, mot en<br>köpeskilling på 6 665 960 kronor, undertecknat av<br>bolaget 2024-08-22.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>och övriga i ärendet nödvändiga handlingar. |
-| 10. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för bostäder inom<br>Vallda-Backa 1:6 | 2019-00047 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för bostäder inom Vallda-Backa 1:6 i<br>Vallda, daterad 2024-08-21.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan för bostäder inom<br>Vallda-Backa 1:6 i Vallda.<br>Kommunstyrelsen upphäver tidigare beslut från den 15<br>januari 2019, § 17, om att ta fram ett planprogram för<br>Vallda-Backa 1:6 i Vallda. |
-| 11. | Begäran om planbesked för<br>Kungsbacka 5:3 | 2024-00319 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Kungsbacka 5:3 i Kungsbacka stad. |
-| 12. | Begäran om planbesked<br>Hammerö 7:19 och Kungsbacka<br>5:2 | 2024-00307 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Hammerö 7:19 och Kungsbacka<br>5:2 i Kungsbacka stad. |
 
 <!-- sida 4 -->
 
@@ -518,12 +513,14 @@ Internkontrollplan 2025
 | Verksamhet | 4 Kommunövergripande risk 2. 4. Allvarlig/stor inverkan (så Ja<br>- Risk för korruption och Mindre stor att den inte får inträffa)<br>välfärdsbrottslighet vanligt |
 |  | 5 Kommunövergripande risk: 3. 3. Kännbar (uppfattas som Ja<br>Förvaltningarnas arbete med att Vanligt besvärande för berörda<br>utveckla intressenter och kommunen)<br>krisledningsorganisationen i<br>egen verksamhet |
 
-[Tabell 16-2](handlingar.tabeller/16-2.csv)
+[Tabell 16-17-2](handlingar.tabeller/16-17-2.csv)
 
 | Kategorier<br>Personal | Sanno- Anledning till att<br>Risker Konsekvens<br>likhet risk ej tas till plan<br>Kommunövergripande risk: 3. Kännbar Ingen aktuell risk för<br>Resurs- och kompetensbrist (uppfattas som kommunstyrelsens<br>2.<br>besvärande för verksamheter.<br>Mindre<br>berörda<br>vanligt<br>intressenter och<br>kommunen) |
 | --- | --- |
 | Ekonomi | Kommunövergripande risk: 3. Kännbar Utvecklingsarbete<br>Grundläggande redovisning (uppfattas som pågår bl a med nya<br>2.<br>kvalitetsbrister besvärande för avstämningar och<br>Mindre<br>berörda rapporter (BI)<br>vanligt<br>intressenter och<br>kommunen) |
 |  | Kommunövergripande risk: Omfattas av KFs<br>2. Lindrig<br>Resurser till innovation, direktiv till<br>2. (uppfattas som<br>digitalisering och omställning till nämnderna och följs<br>Mindre liten av berörda<br>nya arbetssätt för framtidens upp i processen för<br>vanligt intressenter och<br>välfärd budget och<br>kommunen)<br>uppföljning. |
+| Kategorier<br>Information<br>ssäkerhet,<br>administrati<br>on, inköp... | Sanno- Anledning till att<br>Risker Konsekvens<br>likhet risk ej tas till plan<br>Kommunövergripande risk: Arbetet med<br>3. Kännbar<br>informationssäkerhet; skydd av informationssäkerhe<br>(uppfattas som<br>information mot obehörig 2. t följer<br>besvärande för<br>tillgång Mindre gemensamma<br>berörda<br>vanligt styrdokument med<br>intressenter och<br>uppföljning i egen<br>kommunen)<br>process. |
+|  | Kommunövergripande risk: It- Tas omhand genom<br>3. Kännbar<br>säkerhet - Bristande driftmiljö inköpsprocessen/lev<br>(uppfattas som<br>hos leverantörer 2. erantörsuppföljning.<br>besvärande för<br>Mindre Även uppföljning<br>berörda<br>vanligt genom<br>intressenter och<br>systemförvaltarmod<br>kommunen)<br>ellen. |
 
 <!-- sida 17 -->
 
@@ -531,12 +528,6 @@ Kommunstyrelsen                                  Kungsbacka kommun
 Internkontrollplan 2025
 
 10
-
-[Tabell 17-1](handlingar.tabeller/17-1.csv)
-
-| Kategorier<br>Information<br>ssäkerhet,<br>administrati<br>on, inköp... | Sanno- Anledning till att<br>Risker Konsekvens<br>likhet risk ej tas till plan<br>Kommunövergripande risk: Arbetet med<br>3. Kännbar<br>informationssäkerhet; skydd av informationssäkerhe<br>(uppfattas som<br>information mot obehörig 2. t följer<br>besvärande för<br>tillgång Mindre gemensamma<br>berörda<br>vanligt styrdokument med<br>intressenter och<br>uppföljning i egen<br>kommunen)<br>process. |
-| --- | --- |
-|  | Kommunövergripande risk: It- Tas omhand genom<br>3. Kännbar<br>säkerhet - Bristande driftmiljö inköpsprocessen/lev<br>(uppfattas som<br>hos leverantörer 2. erantörsuppföljning.<br>besvärande för<br>Mindre Även uppföljning<br>berörda<br>vanligt genom<br>intressenter och<br>systemförvaltarmod<br>kommunen)<br>ellen. |
 
 <!-- sida 18 -->
 
@@ -3861,7 +3852,7 @@ pågående detaljplaner/vägplaner.
 
 Avrop förstärkta satsningar trimning och effektivisering i stråk 3 (4)
 
-[Tabell 97-1](handlingar.tabeller/97-1.csv)
+[Tabell 97-98-1](handlingar.tabeller/97-98-1.csv)
 
 | Kommun ÅVS Åtgärdsnamn Bidrag |  |  |  |
 | --- | --- | --- | --- |
@@ -3872,6 +3863,8 @@ Avrop förstärkta satsningar trimning och effektivisering i stråk 3 (4)
 | Göteborg | TRV 2017/43201 | Trafiksäkerhetsåtgärder Bondegärdet<br>och Hjällbo Lillgata | 36 000 000 kr |
 | Göteborg | TRV 2017/43201 | GC-väg mellan<br>Fotbollsvägen/Bondegärdet och<br>Angereds Storåsväg | 16 200 000 kr |
 | Partille | TRV 2017/117972 | Vägbreddning 2+1 körfält med<br>mittseparering av Landvettervägen-<br>Partillevägen. | 40 000 000 kr |
+| Partille | TRV 2017/117972 | Anpassning av cirkulationsplats vid<br>Nya Öjersjövägen. | 15 000 000 kr |
+|  |  |  | 118 880 000 kr |
 
 <!-- sida 98 -->
 
@@ -3896,12 +3889,6 @@ Vid eventuella frågor är ni välkomna att kontakta Anna Gustafsson
 ((e-post borttagen)).
 
 Avrop förstärkta satsningar trimning och effektivisering i stråk 4 (4)
-
-[Tabell 98-1](handlingar.tabeller/98-1.csv)
-
-| Partille | TRV 2017/117972 | Anpassning av cirkulationsplats vid<br>Nya Öjersjövägen. | 15 000 000 kr |
-| --- | --- | --- | --- |
-|  |  |  | 118 880 000 kr |
 
 <!-- sida 99 -->
 
@@ -11328,88 +11315,163 @@ nossnåM
 &
 nérmeS
 ©
-Kungsbacka Arena - Förstudie -
-Alternativ
-E
-D
+Kungsbacka Arena - Förstudie - 23-12-22
+Legend
+Kommunalt
+Kommersiellt
+Delat
+HUVUDENTRÉ VIP/RESTAURANG
+PUBLIK OCH SPORT ENTRÉ
+VIP VINDFÅNG                                     TRAPPHUS
+RESTAURANG
+FOAJÉ                                                    PASSAGE
+UNDERCENTRAL
+INFODISK/DRIFT
+EL-RUM
+KOMMERSIELL    STÄD      RWC
+BACK OF HOUSE
+KIOSK
+SKYDDSRUM/REHABGYM    OMKL. A1
+OMKL. A2
+SKYDDSRUM/FÖRRÅD
+OMKL. A1                                FRD ANTIDOPING OMKL. C/ HANDBOLL PROD. OFFICE ARTISTLOGE
+SKYDDSRUM/FORRÅD FOTBOLL                                                                    ENTRÉ -ARTIST/ELITIDROTT OMKL. D OMKL. B /ENSEMBLELOGE /ENS O EM M B K L L E . E LOGE /ARB P E R T E S S R S U R M U M M EDIA TRAPPHUS MÖ A V M C T IL E K E R S R D U R E I M A U D / M . / PERS / O PA N U A S LRUM
+ENTRÉ -MEDIA/FÖRENINGAR
+SPELARBÄNK MED TAK
+SKALA 1:500 (för A3)
+0      10      20 m      6
+EGASSAP
+PASSAGE/MIXED ZONE TRAPPHUS
+PASSAGE
+PASSAGE/SPELARTUNNEL
+&-DNAH TTÄVTLLOB              &-DNAH TTÄVTLLOB
+FRD FOTBOLL FROSTFRITT
+DRF LLOBTOFTILE
+FRD NIU
+LLOBDNAHTILE
+DRF
+LOKAL/CAFÉ
+VÄNTRUM
+EGASSAP
+HISS HISS STORKÖK
+WC  WC
+TICKET RIP
+FRD FRD HANDBOLL HANDBOLL
+FRD FRD HANDBOLL HANDBOLL                                       FRD ARENAMATERIAL TVÄTT AR O T M IS K T L L . O B G / E /B S O T R O D L A O R CH
+RWC MASSAGE HISS M L E Ä D K IC AR IN E S / K M M A Ö TC TE H- HISS RUM
+EGASSAP
+ENTRÉ DRIFT KOMMERS
+MÖTESRUM
+KIOSK
+GYM
+OMKL. E  OMKL. E /ENSEMBLELOGE /ENSEMBLELOGE /ENS O E M M K B L L . E D LOGE /ENS O EM M B K L L E . E LOGE
+PASSAGE
+TROP
+MILJÖRUM
+SCHAKT
+200 sittplatser
+PASSAGE
+CAFÉ                                                 OMKL.         GO K D O S M M M O E T R T S AK
+TICKET                  WC RIP
+ENTRÉ -BoH/ARENA
+OMKL. A1
+OMKL. A2
+OMKL. A1                                                MILJÖRUM
+OMKL. C    OMKL. D/ CREW ROOM OMKL. D/ CREW ROOM
+FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT F F R R D O F S O T T F B R O IT L T L FRD FOTBOLL FROSTFRITT SPR. TANK SPR. RUM FRD FOTBOLL FROSTFRITT 200 m3 - 20m x 4 m x 2,5m (LxBxH)
+FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT ENTRÉ -BORTASUP.
+ENTRÉ -DRIFT FOTBOLLSPLAN
+MURLIV
+YTSAMMANSTÄLLNING
+50/50
+Frostfritt
+Kommersiell
+Kommunal
+FRAMTIDA MÖJLIG BYGGRÄTT
+TRAPPHUS                                                 PAUSRUM KONTOR
+OMKL. FRD FRYS KYL FETT- UTSLUTNING
+RWC PASSAGE
+CAFÉKÖK                                                WC STÄD
+OMKL.                                                                                TELERUM
+PASSAGEFRD/SOP
+RWC
+VILRUM RWC/D
+FRD
+/KOPI
+LASTKAJ
+LYFTBORD
+BOH-PLAN,
+UTBREDNING &
+ENTRÉ FORRÅD                                                                                              UTSEENDE ENLIGT L.
+OCH SKYDDSRUM              RWC/D   RWC/D
+EL-TRUCK
+ENTRÉ FORRÅD OCH SKYDDSRUM
+FRD HANDBOLL                                                                   OMKL. OMKL. RWC/D DRIFT DRIFT RWC/D RWC/D
+DRIFT RWC ENTRÉ FORRÅD OCH SKYDDSRUM
+ENTRÉ IDROTTSPARK
+LLOBDNAHTILE
+DRF
+FRAMTIDA MÖJLIG BYGGRÄTT
+CAFÉ
+ENTRÉ
+ENTRÉ GYM & LOKALER
+OMKL                           SCEN 2       SCEN1
+SPELARTUNNEL
+/ ENTRÉ
+FOTBOLL
+TROP
+FRD NIU
+Extra målställning
+SPELARBÄNK MED TAK
+DRF LLOBTOFTILE DRF LLOBTOFTILE DRF LLOBTOFTILE
+VINDFÅNG
+SKÄRMTAK                                                                             SKÄRMTAK
+STAKET
+SÄKERHETSGRÄNS
+GNÅFDNIV
+LLEISREMMOK
+ÉRTNE
+SKÄRMTAK
+KATMRÄKS
+KATMRÄKS
+A             B                                   C
+Alternativ      A
+HKP-PLATS HKP-PLATS
+E                                                                                                                              E
+
+D                                                                                                                              D           
+
 
  
-
-
+ 
 
-
-
-
-
-
-
-
-
-
-
-
+                                                                                                                                           
+ 
+                                                                                                                                            
+ 
+      
+
+      
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+                                                                                                                                           
 
-
-
-
-
-
+                                                                                                                                                
+                                                                                                                                                   
 
-
-
-
-
-
-
-
-
+                                                                                                                                               
+                                                                                                                                        
+    
+                                                                                                                                           
+                                                                                                                                    
+                                                                                                                                    
 
-
-
-
-
-
-
-
+               A             B                                   C
+                                                                                                                             
+                                                                                                                           
 
-SKALA 1:500 (för A3)
 N
-0      10      20 m      6
 Plan 1-Entréplan
-
-[Tabell 277-1](handlingar.tabeller/277-1.csv)
-
-| YTSAMMANSTÄLLNING<br>50/50<br>Frostfritt<br>23-12-22<br>Kommersiell<br>Kommunal<br>A B C<br>FRAMTIDA MÖJLIG BYGGRÄTT<br>Legend FRAMTIDA MÖJLIG BYGGRÄTT A<br>Kommunalt<br>Kommersiellt<br>Delat<br>HKP-PLATS HKP-PLATS<br>HUVUDENTRÉ VIP/RESTAURANG CAFÉ<br>PUBLIK OCH SPORT ENTRÉ ENTRÉ<br>MILJÖRUM<br>VIP VINDFÅNG TRAPPHUS HISS HISS STORKÖK SCHAKT MURLIV TRAPPHUS PAUSRUM KONTOR VINDFÅNG E<br>200 sittplatser<br>PASSAGE<br>RESTAURANG CAFÉ OMKL. GO K D O S M M M O E T R T S AK OMKL. FRD FRYS KYL FETT- UTSLUTNING<br>RWC PASSAGE<br>FOAJÉ PASSAGE LOKAL/CAFÉ ENTRÉ DRIFT KOMMERS TICKET WC RIP CAFÉKÖK WC STÄD ENTRÉ GYM & LOKALER SKÄRMTAK<br>OMKL. TELERUM GNÅFDNIV<br>UNDERCENTRAL MÖTESRUM PASSAGEFRD/SOP<br>INFODISK/DRIFT RWC<br>EL-RUM<br>VILRUM RWC/D<br>FRD <br>/KOPI<br>LLEISREMMOK<br>WC WC LASTKAJ<br>KOMMERSIELL STÄD RWC TICKET RIP ÉRTNE D    <br>LYFTBORD <br>BACK OF HOUSE ENTRÉ -BoH/ARENA OMKL SCEN 2 SCEN1<br>KIOSK KIOSK BOH-PLAN, KATMRÄKS<br>UTBREDNING &<br>ENTRÉ FORRÅD UTSEENDE ENLIGT L.<br>OCH SKYDDSRUM RWC/D RWC/D<br>SKYDDSRUM/REHABGYM OMKL. A1 OMKL. A1 LLOBDNAHTILE<br>EGASSAP EGASSAP EGASSAP <br>OMKL. A2 OMKL. A2 DRF<br>LLOBDNAHTILE GYM FRD NIU <br>FRD FRD<br>HANDBOLL HANDBOLL<br>EL-TRUCK<br>SKYDDSRUM/FÖRRÅD DRF ENTRÉ FORRÅD OCH SKYDDSRUM<br>OMKL. A1 FRD ANTIDOPING OMKL. C/ HANDBOLL PROD. OFFICE ARTISTLOGE &-DNAH TTÄVTLLOB &-DNAH TTÄVTLLOB DRF LLOBTOFTILE VÄNTRUM FRD FRD HANDBOLL HANDBOLL FRD ARENAMATERIAL TVÄTT AR O T M IS K T L L . O B G / E /B S O T R O D L A O R CH OMKL. A1 MILJÖRUM FRD HANDBOLL OMKL. OMKL. RWC/D DRIFT DRIFT RWC/D RWC/D DRF LLOBTOFTILE DRF LLOBTOFTILE DRF LLOBTOFTILE KATMRÄKS<br>SKYDDSRUM/FORRÅD FOTBOLL ENTRÉ -ARTIST/ELITIDROTT PASSAGE/MIXED ZONE RWC MASSAGE<br>OMKL. D OMKL. B /ENSEMBLELOGE /ENS O EM M B K L L E . E LOGE /ARB P E R T E S S R S U R M U M M EDIA TRAPPHUS MÖ A V M C T IL E K E R S R D U R E I M A U D / M . / PERS / O PA N U A S LRUM TRAPPHUS FRD NIU HISS M L E Ä D K IC AR IN E S / K M M A Ö TC TE H- HISS RUM OMKL. E OMKL. E /ENSEMBLELOGE /ENSEMBLELOGE /ENS O E M M K B L L . E D LOGE /ENS O EM M B K L L E . E LOGE OMKL. C OMKL. D/ CREW ROOM OMKL. D/ CREW ROOM DRIFT RWC ENTRÉ FORRÅD OCH SKYDDSRUM<br>ENTRÉ -MEDIA/FÖRENINGAR PASSAGE PASSAGE SKÄRMTAK SKÄRMTAK<br>PASSAGE/SPELARTUNNEL<br>FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT F F R R D O F S O T T F B R O IT L T L FRD FOTBOLL FROSTFRITT SPR. TANK SPR. RUM FRD FOTBOLL FROSTFRITT 200 m3 - 20m x 4 m x 2,5m (LxBxH) ENTRÉ IDROTTSPARK Extra målställning      <br>  <br>FRD FOTBOLL FROSTFRITT FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT   <br>ENTRÉ -BORTASUP. SPELARTUNNEL STAKET   <br>/ ENTRÉ<br>FOTBOLL   <br>SPELARBÄNK MED TAK SPELARBÄNK MED TAK   <br>TROP ENTRÉ -DRIFT FOTBOLLSPLAN TROP SÄKERHETSGRÄNS     <br><br><br><br>A B C<br>    <br>  <br>        |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |    |  |  |  |
-|  |  | <br><br> |  <br> <br>  |  |
-|  |   <br>  <br>  <br>   |  |  |  |
-|  |  <br> |  |  |  |
-|  | <br> |  |  |  |
-|  | <br> <br>  |  |  |  <br> |
 
 <!-- sida 278 -->
 
@@ -11419,88 +11481,118 @@ nossnåM
 &
 nérmeS
 ©
-Kungsbacka Arena - Förstudie -
-Alternativ
-E
-D
-
- 
-
+Kungsbacka Arena - Förstudie - 23-12-22
+Legend
+Kommunalt
+Kommersiellt
+Delat
+TRAPPHUS
+WC         SERVERING                           WC UNI
+FRD HANDBOLL
+SPORTHALL    GALLERI
+PASSAGE FRD FÖRENINGAR RWC
+RWC WC   WC    KIOSK        SERVERING             TRAPPHUS KIOSK RWC
+SKALA 1:500 (för A3)
+0      10      20 m      7
+MURSDRÅVKUJS
+YTSAMMANSTÄLLNING
+50/50
+Kommersiell
+Kommunal
+TRAPPHUS SCHAKT                                               HISS
+ÖPPET NED             HISS WC        RWC KIOSK                  KIOSK RWC SCHAKT
+HC HC
+SCHAKT
+20p                              20p
+ÖPPET
+NED
+KIOSK
+115p
+HC
+KIOSK
+HAND-& BOLLTVÄTT                                                       SCHAKT HC HC
+FRD INNEBANDY   BØTTEKOTT FRD SPORTHALL
+SCHAKT RWC KIOSK SCHAKT TRAPPHUS HISS             HISS  KIOSK
+HC                                                                   B 10 O 0 R P T L A A S T U S P E P R ORT CA. HC
+20 PL M. BORD, MEDIA
+p911
+p781
+p911
+115p
+115p       307+4p        307+4p      115p
+20p                              20p
+p911
+p8+481
+p911
+LESGNÄTS
+LEBIXELF
+210p      197+8p    210p
+METSYSSGNINGGÄLKRÖM
+MÖRKLÄGGNINGSSYSTEM
+MÖRKLÄGGNINGSSYSTEM
+METSYSSGNINGGÄLKRÖM
+A             B                                   C
+Alternativ      A
+E                                                                                                                              E
+
+D                                                                                                                              D           
+
+                         E P V O S F E P O Ö N - N R U T P S
 
 
-
+                                                                                                                                           
 
 
-
+                                                                                                                                        
 
 
 
 
 
-
-
+SON
+                               FÖR 
+E
+P
+V
+O
+E
+P
+N
+-U
+T
+P
+S
+
+
+   
+
+   
+  
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+                                                                                                                                         
+                                                                                                                                                
+                                                                                                                                                
 
-
-
-
+                                                                                                                                                
+                                                                                                                                               
 
-
-
-
-
-
-
-
-
+                                                                                                                                               
+                                                                                                                                        
+  
+                                                                                                                                               
+                                                                                                                                    
+                                                                                                                                    
 
 
-
-
-
-
-
-
-
+               A             B                                   C
+                                                                                                                                        
+                                                                                                                           
 
-SKALA 1:500 (för A3)
 N
-0      10      20 m      7
 Plan 2
-
-[Tabell 278-1](handlingar.tabeller/278-1.csv)
-
-| YTSAMMANSTÄLLNING<br>50/50<br>Kommersiell<br>23-12-22<br>Kommunal<br>A B C<br>Legend A<br>Kommunalt<br>Kommersiellt<br>Delat<br>TRAPPHUS TRAPPHUS SCHAKT HISS MÖRKLÄGGNINGSSYSTEM<br>WC SERVERING WC UNI ÖPPET NED HISS WC RWC KIOSK KIOSK RWC SCHAKT E<br>FRD HANDBOLL<br>HC HC<br>SCHAKT<br>20p 20p<br>ÖPPET<br>KIOSK<br>NED METSYSSGNINGGÄLKRÖM<br>115p 115p 210p 197+8p 210p<br>p911 p911 <br>METSYSSGNINGGÄLKRÖM D    <br><br>SPORTHALL GALLERI HC p781 p8+481<br>SON<br>FÖR<br>POP-UP<br>EVENTS<br><br>p911 p911<br><br>115p 307+4p 307+4p 115p<br>KIOSK SON<br>20p 20p FÖR POP-UP<br>EVENTS<br>HAND-&<br>BOLLTVÄTT SCHAKT<br>HC HC<br>PASSAGE<br>FRD FÖRENINGAR RWC MURSDRÅVKUJS FRD INNEBANDY BØTTEKOTT FRD SPORTHALL<br>RWC WC WC KIOSK SERVERING TRAPPHUS KIOSK RWC SCHAKT RWC KIOSK SCHAKT TRAPPHUS HISS HISS KIOSK<br>LESGNÄTS<br>MÖRKLÄGGNINGSSYSTEM<br>LEBIXELF<br>HC B 10 O 0 R P T L A A S T U S P E P R ORT CA. HC   <br>20 PL M. BORD, MEDIA   <br>  <br>  <br>  <br>  <br>  <br>  <br> <br><br><br><br>A B C<br>   <br>  <br>        |  |  |
-| --- | --- | --- |
-|  | <br><br>  <br>  <br>   |  |
-|  |   <br>  <br>  <br>  <br>   |  |
-|  |  <br> |  |
-|  | <br> |  |
-|  | <br> <br>  |  <br> |
 
 <!-- sida 279 -->
 
@@ -11510,89 +11602,111 @@ nossnåM
 &
 nérmeS
 ©
-Kungsbacka Arena - Förstudie -
-Alternativ
-E
-D
+Kungsbacka Arena - Förstudie - 23-12-22
+Legend
+Kommunalt
+Kommersiellt
+Delat
+SCHAKT                                  KONTOR         / F K R O D PISCHAKT
+MÖTESRUM MÖTESRUM MÖTESRUM TELEFONRUM TELEFONRUM TELEFONRUM TELEFONRUM
+MINI-STÄD
+BOKNINGSBAR LOKAL
+/CO-WORK /VIP-LOGE
+TEKNIK-ARENA
+HC
+TEKNIK/LJUD/LJUS
+MINI-STÄD
+LÄKTARE SPORTHALL HC GALLERI        YTOR FÖRENINGSLIV M PR IN E S 10 S P E L V A T T . N SE E R D E F Ö PÅ R L S Ä K K R T IV A A R N E D N E KAMERA KO /M M Ö M T E E NTKO /M M Ö M T E E NTS / P M EA Ö K T E E R KON / T M R Ö O T LL E RUM FR / D E L K R A U N M SLI ENTRÉ PENTRY
+HK ARANÄS 7-10p
+SEMINARIERUM/FOTBOLLS-VIP                                        GREENROOM/
+TEKNIK-OMKL, GYM, M.M.    BOKN / IN C G O S -W BA O R R K LOKAL SPE / A S K A E M R T / A M L ÖTEKO SE N K T R O E R T / A K R A I N A S T LI K H O K N T A O RA R N /K Ä A S N 4 S p LI K / K K O I A F N N T 2 S O p L R I K / Ö K O A v N r N . T 3 S O p L R I MÖTESR 5 U 0 M p FÖRENING RWC/D ARBE M TS A R T U S M AL P / RESS PENTRY/FOTBOLLS VIP KAMERA YTOR FÖRENINGSLIV/ PAUSRUM
+SKALA 1:500 (för A3)
+0      10      20 m      8
+.TNEMMOK .TNEMMOK
+YTSAMMANSTÄLLNING
+50/50
+Kommersiell
+Kommunal
+HISS TRAPPHUS HISS
+RWC/D
+MÖRKLÄGGNINGSSYSTEM
+BOKNINGSBAR LOKAL
+/CO-WORK
+/VIP-LOGE
+BOKNINGSBAR LOKAL
+/CO-WORK /VIP-LOGE
+BOKNINGSBAR LOKAL /CO-WORK
+/VIP-LOGE
+ÖPPET
+NED
+ÖPPET
+NED  / B K O O K N N T I R N O G L S L B L A J R U L D O /L K J A U L S
+ÖPPET
+NED
+BOKNINGSBAR LOKAL /CO-WORK
+/VIP-LOGE
+BOKNINGSBAR LOKAL
+/CO-WORK /VIP-LOGE
+BOKNINGSBAR LOKAL /CO-WORK /VIP-LOGE
+BOKNINGSBAR LOKAL /CO-WORK /VIP-LOGE
+MÖRKLÄGGNINGSSYSTEM
+RWC/D                     KA F N RD SLI         KA F N RD SLI
+SCHAKT
+TRAPPHUS HISS      KON /S T A R M O T L A LR L UM M / Ö S T A E M S T R A U L M HISS /PENTRY /TV-STUDIO FRD KANSLI TF TF TF TF KA F N RD SLI
+METSYSSGNINGGÄLKRÖM
+A             B                                   C
+Alternativ      A
+TAKFÖNSTER
+E                                                                                                                              E
+
+D                                                                                                                              D           
+
 
  
 
 
 
-
-
-
-
+                                                                                                                                           
+ 
+                                                                                                                                        
 
 
-
-
-
+  
 
 
 
-
-
+ 
 
 
-
-
-
-
+   
 
 
 
-
-
-
-
-
-
+     
 
 
-
-
-
+                                                     HÖJ-OCH SÄNKBART PARTI I KAMERARUM                                                 
+                                                     ÖPPNINGSBARA PARTIER VID ÖVRIGA MEDIAFUNKTIONER                                           
 
-
+                                                                                                                                                
 
-
-
-
+                                                                                                                                                
+                                                                                                                                               
 
-
-
-
-
-
-
-
-
+                                                                                                                                               
+                                                                                                                                        
+  
+ 
+                                                                                                                                           
+                                                                                                                                    
+                                                                                                                                    
 
-
-
-
-
-
-
-
+               A             B                                   C
+                                                                                                                                        
+                                                                                                                           
 
-SKALA 1:500 (för A3)
 N
-0      10      20 m      8
 Plan 3
-
-[Tabell 279-1](handlingar.tabeller/279-1.csv)
-
-| YTSAMMANSTÄLLNING<br>50/50<br>Kommersiell<br>23-12-22<br>Kommunal<br>A B C<br>Legend A<br>Kommunalt<br>Kommersiellt<br>Delat<br>TAKFÖNSTER<br>SCHAKT KONTOR / F K R O D PISCHAKT HISS TRAPPHUS HISS E<br>MÖTESRUM MÖTESRUM MÖTESRUM TELEFONRUM TELEFONRUM TELEFONRUM TELEFONRUM<br>RWC/D<br>MINI-STÄD<br>MÖRKLÄGGNINGSSYSTEM<br>METSYSSGNINGGÄLKRÖM<br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE<br>BOKNINGSBAR LOKAL<br>/CO-WORK /VIP-LOGE <br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE D    <br>BOKNINGSBAR LOKAL <br>/CO-WORK<br>/VIP-LOGE<br>TEKNIK-ARENA ÖPPET ÖPPET ÖPPET<br>HC NED NED / B K O O K N N T I R N O G L S L B L A J R U L D O /L K J A U L S NED<br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE<br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE<br><br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE<br><br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE<br>TEKNIK/LJUD/LJUS<br>MINI-STÄD MÖRKLÄGGNINGSSYSTEM<br>LÄKTARE SPORTHALL HC GALLERI YTOR FÖRENINGSLIV M PR IN E S 10 S P E L V A T T . N SE E R D E F Ö PÅ R L S Ä K K R T IV A A R N E D N E KAMERA KO /M M Ö M T E E NTKO /M M Ö M T E E NTS / P M EA Ö K T E E R KON / T M R Ö O T LL E RUM FR / D E L K R A U N M SLI ENTRÉ PENTRY RWC/D KA F N RD SLI KA F N RD SLI<br>HK ARANÄS 7-10p<br>SEMINARIERUM/FOTBOLLS-VIP GREENROOM/ SCHAKT<br>TEKNIK-OMKL, GYM, M.M. BOKN / IN C G O S -W BA O R R K LOKAL SPE / A S K A E M R T / A M L ÖTEKO SE N K T R O E R T / A K R A I N A S T LI K H O K N T A O RA R N /K Ä A S N 4 S p LI K / K K O I A F N N T 2 S O p L R I K / Ö K O A v N r N . T 3 S O p L R I MÖTESR 5 U 0 M p FÖRENING RWC/D ARBE M TS A R T U S M AL P / RESS PENTRY/FOTBOLLS VIP KAMERA YTOR FÖRENINGSLIV/ PAUSRUM .TNEMMOK .TNEMMOK TRAPPHUS HISS KON /S T A R M O T L A LR L UM M / Ö S T A E M S T R A U L M HISS /PENTRY /TV-STUDIO FRD KANSLI TF TF TF TF KA F N RD SLI<br>HÖJ-OCH SÄNKBART PARTI I KAMERARUM   <br>ÖPPNINGSBARA PARTIER VID ÖVRIGA MEDIAFUNKTIONER   <br>  <br>  <br>  <br>  <br>  <br>  <br> <br><br><br><br>A B C<br>   <br>  <br>        |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | <br><br>  <br>  <br>   |  |  |  |  |
-|  |  | <br> |  <br>  |  |  |
-|  |  |  |   |  |  |
-|  | <br> |  |  | <br> | <br> |
-|  |  <br> |  |  |  |  |
-|  | <br> |  |  |  |  |
-|  | <br> <br>  |  |  |  <br> |  |
 
 <!-- sida 280 -->
 
@@ -11602,19 +11716,45 @@ nossnåM
 &
 nérmeS
 ©
-Kungsbacka Arena - Förstudie -
-Alternativ
-E
-D
+Kungsbacka Arena - Förstudie - 23-12-22
+Legend
+Kommunalt
+Kommersiellt
+Delat
+SKALA 1:500 (för A3)
+0      10      20 m      9
+LLAHTROPS/ANERA-KINKET
+YTSAMMANSTÄLLNING
+50/50
+ÖPPET
+NED
+ÖPPET
+NED
+GÅNGBRYGGA
+ÖPPET
+NED
+TRAPPHUS                                                      TRAPPHUS
+AGGYRBGNÅG             AGGYRBGNÅG AGGYRBGNÅG
+LANTERNIN
+JUMBOTRON
+GÅNGBRYGGA GÅNGBRYGGA
+SKÄRMTAK FOTBOLLSLÄKTARE
+ERALYKSLEDEMLYK
+A             B                                   C
+Alternativ      A
+E                                                                                                                              E
+
+D                                                                                                                              D           
+
 
  
-
-
+                                                                                                  ANNAN PLACERING BEHÖVER
+                                                                                                   UTREDAS I SENARE SKEDE
 
-
+                                                                                                                                           
 
 
-
+                                                                                                                                        
 
 
 
@@ -11632,7 +11772,7 @@ D
 
 
 
-
+                                                  GÅNGBRYGGA
 
 
 
@@ -11642,49 +11782,28 @@ D
 
 
 
+                                                                                                                                         
 
-
-
+                                                                                                                                               
 
-
-
-
-
-
+                                                                                                                                                 
+                                                                                                                                                
+                                                                                                                                               
 
-
-
-
-
-
-
-
-
+                                                                                                                                               
+                                                                                                                                        
+  
+ 
+                                                                                                                                           
+                                                                                                                                    
+                                                                                                                                    
 
-
-
-
-
-
-
-
+               A             B                                   C
+                                                                                                                                        
+                                                                                                                           
 
-SKALA 1:500 (för A3)
 N
-0      10      20 m      9
 Plan 4
-
-[Tabell 280-1](handlingar.tabeller/280-1.csv)
-
-| YTSAMMANSTÄLLNING<br>50/50<br>23-12-22<br>A B C<br>Legend A<br>Kommunalt<br>Kommersiellt<br>Delat<br>E<br>LANTERNIN<br><br>NED<br>ÖPPET D    <br>LLAHTROPS/ANERA-KINKET <br>JUMBOTRON<br>ERALYKSLEDEMLYK<br>NED ÖPPET<br>ÖPPET GÅNGBRYGGA<br>NED<br>AGGYRBGNÅG AGGYRBGNÅG AGGYRBGNÅG<br>ANNAN PLACERING BEHÖVER<br>UTREDAS I SENARE SKEDE<br><br><br>GÅNGBRYGGA GÅNGBRYGGA GÅNGBRYGGA<br>TRAPPHUS TRAPPHUS<br>  <br>  <br>SKÄRMTAK FOTBOLLSLÄKTARE   <br>  <br>  <br>  <br>  <br>  <br> <br><br><br><br>A B C<br>   <br>  <br>        |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  | <br>   |  |
-|  |   <br>  <br>  <br>  <br>  <br>  <br>   |  |
-|  |  <br> |  |
-|  | <br> |  |
-|  | <br> <br>  |  <br> |
 
 <!-- sida 281 -->
 
@@ -11694,19 +11813,47 @@ nossnåM
 &
 nérmeS
 ©
-Kungsbacka Arena - Förstudie -
-Alternativ
+Kungsbacka Arena - Förstudie - 23-12-22
+TAK
+MILJÖRUM
+GLASTAK
+SPO
+T
+R
+A
+T
+K
+H ALL       LAN
+T
+T
+A
 E
-D
+K
+RNIN
+YTA
+FÖR
+SOLCELLER
+INOM
+STRECKAT
+ARENATAK
+SEDUMTAK
+TAK-FOTBOLLSLÄKTARE
+SKALA 1:500 (för A3)
+0      10      20 m     10
+ERALYKSLEDEMLYK
+A             B                                   C
+Alternativ      A
+E                                                  SEDUMTAK                                                                    E
+
+D                                                                                                                              D           
+
 
  
-
-
-
-
+                                                                                                  ANNAN PLACERING BEHÖVER
+                                                                                                   UTREDAS I SENARE SKEDE                
 
 
-
+                                                                                                                                        
 
 
 
@@ -11734,52 +11881,32 @@ D
 
 
 
+                                                                                                                                         
 
-
-
+                                                                                                                                               
 
-
+                                                                                                                                                
 
-
-
-
+                                                                                                                                                
+                                                                                                                                               
 
-
-
-
-
-
-
-
+                                                                                                                                               
+                                                                                                                                        
+  
+ 
+                                                                                                                                            
+ 
+
+
+                                                                                                                                    
 
 
-
-
-
-
-
-
-
+               A             B                                   C
+                                                                                                                                       
+                                                                                                                           
 
-SKALA 1:500 (för A3)
 N
-0      10      20 m     10
 Takplan
-
-[Tabell 281-1](handlingar.tabeller/281-1.csv)
-
-| 23-12-22<br>A B C<br>A<br>TAK<br>MILJÖRUM<br>GLASTAK SEDUMTAK E<br><br>YTA D    <br>FÖR<br>SOLCELLER ERALYKSLEDEMLYK <br>T A K T A K INOM ARENATAK<br>SPO R T H ALL LAN T E RNIN STRECKAT<br>ANNAN PLACERING BEHÖVER<br>UTREDAS I SENARE SKEDE<br><br><br>SEDUMTAK<br>  <br>  <br>TAK-FOTBOLLSLÄKTARE   <br>  <br>  <br>  <br>  <br>  <br> <br><br><br><br>A B C<br>   <br>  <br>        |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |   <br>  <br>  <br>  <br>  <br>   |  |  |  |  |
-|  | <br> |  | <br> | <br> |  |
-|  |  <br> |  |  |  |  |
-|  | <br> |  |  |  |  |
-|  | <br> <br>  |  |  <br> |  |  |
 
 <!-- sida 282 -->
 
@@ -16164,7 +16291,7 @@ P-DRIFT P-DRIFT
 
 DRIFTSFORDON
 
-PLAN SKALA 1:400 (A3)
+PLAN SKALA 1:400(A3)
 4
 JAKTSAL
 INFART
@@ -16234,7 +16361,7 @@ TRAILER
 B
 TRAILER
 B
-2 ST TURNÉBUSSAR
+2ST TURNÉBUSSAR
 TV-BUSS/OB
 BUSS
 INFART
@@ -16244,7 +16371,7 @@ P-DRIFT P-DRIFT
 UTFART
 JAKTSAL
 YTA FÖR CONTAINERS
-PLAN SKALA 1:400 (A3)
+PLAN SKALA 1:400(A3)
 
 <!-- sida 336 -->
 
@@ -16300,7 +16427,7 @@ UTFART
 JAKTSAL
 INHÄGNAD
 MÖJLIG BRANDUPPSTÄLLNING
-PLAN SKALA 1:400 (A3)
+PLAN SKALA 1:400(A3)
 FÖR
 LAG
 OCH
@@ -16329,7 +16456,7 @@ Bilden till höger redovisar körspår för 24 m fordon.
 
 7
 
-PLAN SKALA 1:500 (A3)
+PLAN SKALA 1:500(A3)
 
 <!-- sida 338 -->
 
@@ -16355,7 +16482,7 @@ RHP   RHP
 
 P-DRIFT P-DRIFT
 
-PLAN SKALA 1:400 (A3)
+PLAN SKALA 1:400(A3)
 8
 TRAILERS
 RÄDDNINGSTJÄNST
@@ -20295,7 +20422,7 @@ som avstår, beslutar att ärendet ska avgöras i dag.
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 465-1](handlingar.tabeller/465-1.csv)
+[Tabell 465-466-1](handlingar.tabeller/465-466-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -20325,37 +20452,7 @@ Justerare                         Expedierat/bestyrkt
 | Kalle Påsse Sundvall | (M) | Alla |  |  |  | X |  |
 | Henrik Arnesson | (C) | Alla |  | X |  |  |  |
 | Marie Wadström | (KD) | Alla |  |  | X |  |  |
-
-<!-- sida 466 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          7 (11)
-Kommunfullmäktige
-Datum
-2021-04-13
-
-Ordföranden prövar sedan Peter Söderbergs (M) m.fl. återremissyrkande mot att
-ärendet ska avgöras i dag, och finner att kommunfullmäktige beslutar att ärendet ska
-avgöras i dag.
-
-Omröstning begärs och verkställs.
-Ordföranden redovisar följande propositionsordning som kommunfullmäktige
-
-godkänner:
-Ja-röst innebär att ärendet ska avgöras i dag.
-Nej-röst innebär att ärendet ska återremitteras enligt Peter Söderbergs (M) m.fl.
-återremissyrkande.
-
-Omröstningsresultat
-
-Ordföranden finner att kommunfullmäktige, med 45 ja-röster mot 11 nej-röster och 5
-som avstår, beslutar att ärendet ska avgöras i dag.
-
-Justerare                         Expedierat/bestyrkt
-
-[Tabell 466-1](handlingar.tabeller/466-1.csv)
-
 | Monica Neptun | (L) | Alla |  | X |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Stephan Philipson | (M) | Alla |  | X |  |  |  |
 | Elisabeth Lyckevall | (S) | Alla | G ert Svensson | X |  |  |  |
 | Roger Krantz | (SD) | Alla |  | X |  |  |  |
@@ -20392,27 +20489,40 @@ Justerare                         Expedierat/bestyrkt
 | Anders Ekström | (M) | Alla |  | X |  |  |  |
 | SUMMA: |  |  |  | 48 | 9 | 4 | 0 |
 
-[Tabell 466-2](handlingar.tabeller/466-2.csv)
+<!-- sida 466 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          7 (11)
+Kommunfullmäktige
+Datum
+2021-04-13
+
+Ordföranden prövar sedan Peter Söderbergs (M) m.fl. återremissyrkande mot att
+ärendet ska avgöras i dag, och finner att kommunfullmäktige beslutar att ärendet ska
+avgöras i dag.
+
+Omröstning begärs och verkställs.
+Ordföranden redovisar följande propositionsordning som kommunfullmäktige
+
+godkänner:
+Ja-röst innebär att ärendet ska avgöras i dag.
+Nej-röst innebär att ärendet ska återremitteras enligt Peter Söderbergs (M) m.fl.
+återremissyrkande.
+
+Omröstningsresultat
+
+Ordföranden finner att kommunfullmäktige, med 45 ja-röster mot 11 nej-röster och 5
+som avstår, beslutar att ärendet ska avgöras i dag.
+
+Justerare                         Expedierat/bestyrkt
+
+[Tabell 466-467-1](handlingar.tabeller/466-467-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Lisa Andersson | (M) | Aslla |  | X |  |  |  |
 | Eva Borg | (S) | Alla |  | X |  |  |  |
 | Carita Boulwén | (SD) | Alla |  | X |  |  |  |
-
-<!-- sida 467 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          8 (11)
-Kommunfullmäktige
-Datum
-2021-04-13
-
-Justerare                         Expedierat/bestyrkt
-
-[Tabell 467-1](handlingar.tabeller/467-1.csv)
-
 | Fredrik Hansson | (C) | Alla |  | X |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Andreas Johansson | (M) | Alla |  |  |  | X |  |
 | Ulrika Landergren | (L) | Alla |  | X |  |  |  |
 | Christian Johansson | (M) | Alla |  | X |  |  |  |
@@ -20472,6 +20582,15 @@ Justerare                         Expedierat/bestyrkt
 | Anders Ekström | (M) | Alla |  | X |  |  |  |
 | SUMMA: |  |  |  | 45 | 11 | 5 | 0 |
 
+<!-- sida 467 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          8 (11)
+Kommunfullmäktige
+Datum
+2021-04-13
+
+Justerare                         Expedierat/bestyrkt
+
 <!-- sida 468 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          9 (11)
@@ -20495,7 +20614,7 @@ som avstår, beslutar enligt kommunstyrelsens förslag.
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 468-1](handlingar.tabeller/468-1.csv)
+[Tabell 468-469-1](handlingar.tabeller/468-469-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -20542,6 +20661,25 @@ Justerare                         Expedierat/bestyrkt
 | Axel Storckenfeldt | (M) | Alla |  | X |  |  |  |
 | Sara Heikkinen Breitholtz | (S) | Alla | B ritt Tönnberg | X |  |  |  |
 | Peter Wesley | (KD) | Alla |  |  | X |  |  |
+| Peter Söderberg | (M) | Alla |  |  | X |  |  |
+| Kenth Wallin | (SD) | Alla |  | X |  |  |  |
+| Kristina Rasmussen | (V) | Alla |  |  |  | X |  |
+| Franklin Eck | (M) | Alla |  |  | X |  |  |
+| Elin Hysén | (L) | Alla |  | X |  |  |  |
+| Rickard Wäst | (S) | Alla |  | X |  |  |  |
+| Heinrich Kaufmann | (C) | Alla |  | X |  |  |  |
+| Per-Axel Carlsson | (M) | Alla |  | X |  |  |  |
+| Tobias Eriksson | (SD) | Alla |  | X |  |  |  |
+| Berit Bergström | (M) | Alla |  | X |  |  |  |
+| Maj-Britt Rane-Andersson | (S) | Alla |  | X |  |  |  |
+| Karin Green | (C) | Alla |  |  | X |  |  |
+| Ann-Helene Reimertz | (M) | Alla |  |  | X |  |  |
+| Madelene Höök | (L) | Alla |  | X |  |  |  |
+| Thord Brynielsson | (SD) | Alla | S tefan Vilumsons | X |  |  |  |
+| Per Stenberg | (M) | Alla |  | X |  |  |  |
+| Ulrika Högstrand | (KD) | Alla |  |  | X |  |  |
+| Anders Ekström | (M) | Alla |  | X |  |  |  |
+| SUMMA: |  |  |  | 45 | 12 | 4 | 0 |
 
 <!-- sida 469 -->
 
@@ -20566,30 +20704,7 @@ Ordföranden finner att kommunfullmäktige, med 31 ja-röster mot 16 nej-röster
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 469-1](handlingar.tabeller/469-1.csv)
-
-| Peter Söderberg | (M) | Alla |  |  | X |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Kenth Wallin | (SD) | Alla |  | X |  |  |  |
-| Kristina Rasmussen | (V) | Alla |  |  |  | X |  |
-| Franklin Eck | (M) | Alla |  |  | X |  |  |
-| Elin Hysén | (L) | Alla |  | X |  |  |  |
-| Rickard Wäst | (S) | Alla |  | X |  |  |  |
-| Heinrich Kaufmann | (C) | Alla |  | X |  |  |  |
-| Per-Axel Carlsson | (M) | Alla |  | X |  |  |  |
-| Tobias Eriksson | (SD) | Alla |  | X |  |  |  |
-| Berit Bergström | (M) | Alla |  | X |  |  |  |
-| Maj-Britt Rane-Andersson | (S) | Alla |  | X |  |  |  |
-| Karin Green | (C) | Alla |  |  | X |  |  |
-| Ann-Helene Reimertz | (M) | Alla |  |  | X |  |  |
-| Madelene Höök | (L) | Alla |  | X |  |  |  |
-| Thord Brynielsson | (SD) | Alla | S tefan Vilumsons | X |  |  |  |
-| Per Stenberg | (M) | Alla |  | X |  |  |  |
-| Ulrika Högstrand | (KD) | Alla |  |  | X |  |  |
-| Anders Ekström | (M) | Alla |  | X |  |  |  |
-| SUMMA: |  |  |  | 45 | 12 | 4 | 0 |
-
-[Tabell 469-2](handlingar.tabeller/469-2.csv)
+[Tabell 469-470-1](handlingar.tabeller/469-470-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -20614,24 +20729,7 @@ Justerare                         Expedierat/bestyrkt
 | Bengt Alderin | (C) | Alla |  | X |  |  |  |
 | Maria Rasmussen | (V) | Alla |  |  | X |  |  |
 | Filip Berndtsson | (M) | Alla |  | X |  |  |  |
-
-<!-- sida 470 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          11 (11)
-Kommunfullmäktige
-Datum
-2021-04-13
-
-Beslutet skickas till
-
-Samtliga nämnder
-
-Justerare                         Expedierat/bestyrkt
-
-[Tabell 470-1](handlingar.tabeller/470-1.csv)
-
 | Lars Eriksson | (S) | Alla |  |  | X |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Susanne Andersson | (SD) | Alla |  |  |  | X |  |
 | Kalle Påsse Sundvall | (M) | Alla |  |  |  | X |  |
 | Henrik Arnesson | (C) | Alla |  | X |  |  |  |
@@ -20672,6 +20770,19 @@ Justerare                         Expedierat/bestyrkt
 | Ulrika Högstrand | (KD) | Alla |  | X |  |  |  |
 | Anders Ekström | (M) | Alla |  | X |  |  |  |
 | SUMMA: |  |  |  | 31 | 16 | 14 | 0 |
+
+<!-- sida 470 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          11 (11)
+Kommunfullmäktige
+Datum
+2021-04-13
+
+Beslutet skickas till
+
+Samtliga nämnder
+
+Justerare                         Expedierat/bestyrkt
 
 <!-- sida 471 -->
 

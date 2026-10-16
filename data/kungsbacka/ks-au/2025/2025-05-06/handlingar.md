@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.39e904a19684f673c12eb1d/17461794278
 sha256: 28bfe7ebb6a6bc69bc622c358d2c02b97ebc661b4b0e80a5843806d3e17bbc86
 bytes: 21521226
 sidor: 140
-hamtad: 2026-10-09T10:15:49+00:00
-konverterad: 2026-10-09T10:20:32+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T08:10:20+00:00
+konverterad: 2026-10-16T08:14:42+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ok, ocr, ok, ok, ok, ok, ok]
-tal_obekraftade: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 46, 49, 53, 56, 57, 59, 60, 61, 63, 64, 65, 66, 67, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 81, 83, 85, 87, 88, 89, 90, 91, 92, 93, 96, 98, 99, 102, 103, 104, 105, 106, 108, 109, 110, 111, 112, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 135, 136]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, tabell-osaker, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok]
+tal_obekraftade: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 27, 46, 49, 53, 56, 57, 59, 60, 61, 63, 64, 65, 66, 67, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 81, 83, 85, 87, 88, 89, 90, 91, 92, 93, 96, 98, 99, 102, 103, 104, 105, 106, 108, 109, 110, 111, 112, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 135, 136]
 figurer: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 23, 24, 49, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 84, 85, 86, 90, 92, 93, 94, 95, 96, 98, 102, 103, 104, 105, 106, 107, 111, 112, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 127, 128, 129, 130, 131, 132, 134, 135, 136, 138, 139, 140]
 tolkade: []
 ---
@@ -55,28 +55,25 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 2. | Svar på motion från Stefan<br>Jägnert (SD) om ökat språkkrav<br>i Kungsbacka kommun | 2024-00133 | Förslag till beslut i kommunfullmäktige<br>1B<br>Kommunfullmäktige anser motionen besvarad, i den<br>del som avser att höja det befintliga språkkravet från<br>nivå A2 till B1 för alla anställningar inom<br>förvaltningarna Gymnasium & Arbetsmarknad,<br>Förskola & Grundskola, Vård & Omsorg samt<br>Individ & Familjeomsorg, med hänvisning till att<br>kommunfullmäktige beslutade att höja språkkravet<br>från nivå A2 till B1 vid sammanträdet den 13<br>augusti 2024.<br>Kommunfullmäktige anser motionen besvarad, i den<br>del som avser att ta fram en ny bedömningsmatris<br>för både muntlig och skriftlig<br>kommunikationsförmåga enligt GERS-B1, med<br>hänvisning till att HR på Kommunstyrelsens<br>förvaltning uppdaterat bedömningsmatrisen enligt<br>GERS-B1.<br>Kommunfullmäktige anser motionen besvarad, i den<br>del som avser att genomföra en grundlig utvärdering<br>och redogörelse av språkkravens påverkan på<br>verksamheterna, med hänvisning till att en sådan<br>utvärdering redan har genomförts och<br>återrapporterats till kommunfullmäktige den 13<br>augusti 2024 samt att det redan finns etablerade<br>rutiner för årlig uppföljning av språkkravets<br>påverkan på berörda verksamheter. |
 | 3. | Utdelning ur Arvid och Hildur<br>Anderssons donationsfond 2025<br>(Gymnasium & Arbetsmarknad) | 2025-00314 | Förslag till beslut i kommunstyrelsen<br>2B<br>Kommunstyrelsen beslutar om utdelning av 35 000<br>kronor till sökanden som uppfyller kriterierna<br>uppställda i Arvid och Hildur Anderssons fond,<br>enligt förslag från nämnden för Gymnasium &<br>Arbetsmarknad. |
 | 4. | Årsredovisning 2024 för<br>Samordningsförbundet i<br>Halland | 2025-00099 | Förslag till beslut i kommunfullmäktige<br>3B<br>Kommunfullmäktige beviljar styrelsen för<br>Samordningsförbundet i Halland ansvarsfrihet för<br>verksamhetsåret 2024. |
+| 5. | Årsredovisning 2024 för Eksta<br>Bostads AB och Tempohus<br>Kungsbacka AB | 2025-00097 | Förslag till beslut i kommunfullmäktige<br>4B<br>Kommunfullmäktige noterar årsredovisning 2024<br>inklusive revisionsberättelser och<br>lekmannarevisorernas granskningsrapporter för<br>Eksta Bostads AB och Tempohus Kungsbacka AB<br>till protokollet. |
+| 6. | Information om arbetet med<br>innovation och förnyelse<br>(årshjul)<br>08:50-09:35<br>Anneli Skoglund<br>Ivan Stipic<br>Märta Lycken<br>Julia Tryggvadottir Tollesson<br>Maria Rosenberg<br>Paul Dexell | 2025-00020 | - |
+| 7. | Information om mikromobilitet<br>09:50-10:05<br>Anders Lund<br>Agneta Nordström<br>Peter Gustavsson | 2025-00333 | - |
+| 8. | Information om nationell- och<br>regional infrastrukturplan<br>10:10-10:40<br>Anders Lund<br>Agneta Nordström<br>Peter Gustavsson | 2025-00334 | -<br>5B |
+| 9. | Information om arbetet med<br>markanvisning kvarteret Ejdern<br>10:45-11:15<br>Fortesa Bytyqi<br>Mikaela Ropel<br>Johan Gerremo | 2023-00651 | - |
+| 10. | Information från ledamöter och<br>förvaltning | 2025-00025 | - |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 5. | Årsredovisning 2024 för Eksta<br>Bostads AB och Tempohus<br>Kungsbacka AB | 2025-00097 | Förslag till beslut i kommunfullmäktige<br>4B<br>Kommunfullmäktige noterar årsredovisning 2024<br>inklusive revisionsberättelser och<br>lekmannarevisorernas granskningsrapporter för<br>Eksta Bostads AB och Tempohus Kungsbacka AB<br>till protokollet. |
-| 6. | Information om arbetet med<br>innovation och förnyelse<br>(årshjul)<br>08:50-09:35<br>Anneli Skoglund<br>Ivan Stipic<br>Märta Lycken<br>Julia Tryggvadottir Tollesson<br>Maria Rosenberg<br>Paul Dexell | 2025-00020 | - |
-| 7. | Information om mikromobilitet<br>09:50-10:05<br>Anders Lund<br>Agneta Nordström<br>Peter Gustavsson | 2025-00333 | - |
-| 8. | Information om nationell- och<br>regional infrastrukturplan<br>10:10-10:40<br>Anders Lund<br>Agneta Nordström<br>Peter Gustavsson | 2025-00334 | -<br>5B |
 
 <!-- sida 4 -->
 
@@ -86,13 +83,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 9. | Information om arbetet med<br>markanvisning kvarteret Ejdern<br>10:45-11:15<br>Fortesa Bytyqi<br>Mikaela Ropel<br>Johan Gerremo | 2023-00651 | - |
-| 10. | Information från ledamöter och<br>förvaltning | 2025-00025 | - |
 
 <!-- sida 5 -->
 
@@ -5112,33 +5102,15 @@ Sammandrag             5  år
 
 av verksamheten och nyckeltal
 
-2024  2023  2022   2021   2020
-Resultaträkning
-
-Balansräkning
-
-Fastigheter
-Lägenhetsyta, kvm     205 155 203 002 203 002 202 433 199 438
-Lokalyta, kvm          92 861 93 170 93 170 84 094 84 094
-
-Finansiering
-
-Lönsamhet
-Direktavkastning ( % ) 5,57% 5,83% 4,90% 4,66%   4,24%
-Avkastning på eget kapital ( % ) 7,33% 10,91% 11,37% 11,64% 23,40%
-
-Ekonomi
-Medelhyra lägenheter ( kr / kvm ) 1 384 1 321 1 235 1 211 1 167
-Medelhyra lokaler ( kr / kvm ) 1 629 1 519 1 342 1 356 1 368
-Driftkostnader ( kr / kvm ) - 480 - 433 - 400 - 406 - 395
-
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2024 41
 Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 [Tabell 92-1](handlingar.tabeller/92-1.csv)
 
-| Hyresintäkter | 440 736 | 417 160 | 374 664 | 362 485 | 353 694 |
+|  | 2024 | 2023 | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- |
+| Resultaträkning |  |  |  |  |  |
+| Hyresintäkter | 440 736 | 417 160 | 374 664 | 362 485 | 353 694 |
 | Övriga intäkter i rörelsen | 42 913 | 41 710 | 36 966 | 35 835 | 35 332 |
 | Driftskostnader | -171 567 | -153 474 | -139 608 | -139 143 | -133 432 |
 | Underhållskostnader | -59 534 | -43 247 | -52 908 | -53 976 | -63 399 |
@@ -5151,11 +5123,8 @@ Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 | Jämförelsestörande poster | 0 | 0 | 0 | 0 | 66 551 |
 | Bokslutsdispositioner | -1 824 | -1 357 | 1 981 | -756 | -1 637 |
 | Resultat före skatt | 61 136 | 84 451 | 80 378 | 75 255 | 117 026 |
-
-[Tabell 92-2](handlingar.tabeller/92-2.csv)
-
+| Balansräkning |  |  |  |  |  |
 | Materiella anläggningstillgångar | 4 384 393 | 4 363 632 | 4 324 950 | 4 225 045 | 4 020 246 |
-| --- | --- | --- | --- | --- | --- |
 | Finansiella anläggningstillgångar | 126 026 | 116 143 | 116 111 | 119 565 | 116 182 |
 | Omsättningstillgångar | 124 935 | 156 277 | 175 314 | 226 139 | 298 516 |
 | Eget kapital | 857 163 | 809 822 | 738 802 | 675 480 | 617 221 |
@@ -5164,19 +5133,26 @@ Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 | Låneskuld | 3 591 957 | 3 598 802 | 3 672 712 | 3 700 222 | 3 614 459 |
 | Rörelseskulder | 89 076 | 135 679 | 123 922 | 117 863 | 132 637 |
 | Balansomslutning | 4 635 354 | 4 636 052 | 4 616 375 | 4 570 750 | 4 434 943 |
-
-[Tabell 92-3](handlingar.tabeller/92-3.csv)
-
+| Fastigheter |  |  |  |  |  |
+| Lägenhetsyta, kvm | 205 155 | 203 002 | 203 002 | 202 433 | 199 438 |
+| Lokalyta, kvm | 92 861 | 93 170 | 93 170 | 84 094 | 84 094 |
+| Finansiering |  |  |  |  |  |
 | Soliditet ( % ) | 18,67% | 17,61% | 16,12% | 14,93% | 14,06% |
-| --- | --- | --- | --- | --- | --- |
 | Justerad soliditet ( % ) | 41,77% | 40,99% | 41,88% | 41,34% | 36,04% |
 | Genomsnittlig låneränta ( % ) | 2,33% | 2,08% | 1,29% | 1,03% | 1,13% |
 | Kassaflöde, exkl investeringar | 164 257 | 183 340 | 165 498 | 159 439 | 130 416 |
+| Lönsamhet |  |  |  |  |  |
+| Direktavkastning ( % ) | 5,57% | 5,83% | 4,90% | 4,66% | 4,24% |
+| Avkastning på eget kapital ( % ) | 7,33% | 10,91% | 11,37% | 11,64% | 23,40% |
+| Ekonomi |  |  |  |  |  |
+| Medelhyra lägenheter ( kr / kvm ) | 1 384 | 1 321 | 1 235 | 1 211 | 1 167 |
+| Medelhyra lokaler ( kr / kvm ) | 1 629 | 1 519 | 1 342 | 1 356 | 1 368 |
 
-[Tabell 92-4](handlingar.tabeller/92-4.csv)
+[Tabell 92-2](handlingar.tabeller/92-2.csv)
 
-| Underhållskostnader ( kr / kvm ) | -200 | -146 | -182 | -189 | -223 |
+| Driftkostnader ( kr / kvm ) | - 480 | - 433 | - 400 | - 406 | - 395 |
 | --- | --- | --- | --- | --- | --- |
+| Underhållskostnader ( kr / kvm ) | -200 | -146 | -182 | -189 | -223 |
 | Driftsöverskott exkl underhåll ( kr / kvm ) | 1026 | 1008 | 911 | 886 | 878 |
 | Driftöverskott ( kr / kvm ) | 825 | 862 | 730 | 697 | 655 |
 
@@ -5403,16 +5379,6 @@ förändring           av  det    egna     kapitalet
 
 koncern
 
-" Aktieägar- " Annat eget kapital
-Aktiekapital                  Totalt
-tillskott " inkl årets resultat "
-
-moderbolag
-
-Aktieägar- Balanserat Årets
-Aktiekapital Reservfond                   Totalt
-tillskott resultat resultat
-
 Aktiekapitalet omfattar 50.000 aktier om 1.000:-. Samtliga innehas av Kungsbacka kommun.
 Aktieägartillskottet är ovillkorat.
 
@@ -5421,20 +5387,22 @@ Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 [Tabell 97-1](handlingar.tabeller/97-1.csv)
 
-| Ingående balans 2023-01-01 | 50 000 000 | 100 000 000 | 597 959 276 | 747 959 276 |
+|  | Aktiekapital | " Aktieägartillskott " | " Annat eget kapital inkl årets resultat " | Totalt |
 | --- | --- | --- | --- | --- |
+| Ingående balans 2023-01-01 | 50 000 000 | 100 000 000 | 597 959 276 | 747 959 276 |
 | Utdelning till ägaren |  |  | -1 230 000 | -1 230 000 |
 | Årets resultat |  |  | 72 470 364 | 72 470 364 |
 | Utgående balans 2023-12-31 | 50 000 000 | 100 000 000 | 669 199 640 | 819 199 640 |
 | Ingående balans 2024-01-01 | 50 000 000 | 100 000 000 | 669 199 640 | 819 199 640 |
 | Utdelning till ägaren |  |  | -1 740 000 | -1 740 000 |
 | Årets resultat |  |  | 50 650 367 | 50 650 367 |
-| Utgående balans 2024-12-31 | 50 000 000 | 100 000 000 | 718 110 006 | 868 110 006 |
+| Utgående balans 2024-12-31 moderbolag | 50 000 000 | 100 000 000 | 718 110 006 | 868 110 006 |
 
 [Tabell 97-2](handlingar.tabeller/97-2.csv)
 
-| Ingående balans 2023-01-01 | 50 000 000 | 40 957 762 | 100 000 000 | 483 942 680 | 63 901 401 | 738 801 843 |
+|  | Aktiekapital | Reservfond | Aktieägartillskott | Balanserat resultat | Årets resultat | Totalt |
 | --- | --- | --- | --- | --- | --- | --- |
+| Ingående balans 2023-01-01 | 50 000 000 | 40 957 762 | 100 000 000 | 483 942 680 | 63 901 401 | 738 801 843 |
 | Överföring av resultat |  |  |  | 63 901 401 | -63 901 401 | 0 |
 | Utdelning till ägaren |  |  |  | -1 230 000 |  | -1 230 000 |
 | Årets resultat |  |  |  |  | 72 250 327 | 72 250 327 |
@@ -5531,53 +5499,58 @@ not 2 - specifikation av hyresintäkter
 
 KONCERN        MODERBOLAG
 2024     2023    2024    2023
-Bostäder                        256 685 211 244 234 727 249 328 875 237 265 035
-Lokaler                         184 581 950 172 565 288 184 581 950 172 565 288
-
-Garage, p-platser                9 660 046 9 548 793 9 660 046 9 548 793
-Kabel-TV-avgifter                 601 055 764 295  601 055 764 295
-Summa hyresintäkter             451 528 262 427 113 103 444 171 926 420 143 411
-
-Hyresbortfall garage, p-platser  -1 369 143 -1 391 768 -1 369 143 -1 391 768
-
-Hyresbortfall bostäder            -114 376 -48 309 -114 376 -48 309
-Hyresrabatter bostäder            -82 943  -4 510  -82 943  -4 510
-Hyresbortfall lokaler             -785 057 -958 060 -785 057 -958 060
-Hyresrabatter lokaler             -1 151 756 -517 205 -1 151 756 -517 205
-Summa hyresbortfall och rabatter -3 503 275 -2 919 852 -3 503 275 -2 919 852
-
-Summa hyror                    448 024 987 424 193 251 440 668 651 417 223 559
-Hyresjustering enl avtal med KBA kommun 67 057 -63 901 67 057 -63 901
-
-not 3 - övriga förvaltningsintäkter
 
 KONCERN        MODERBOLAG
 2024     2023    2024   2023
-Värmeleveranser                 20 449 623 18 532 114 20 449 623 18 532 114
-Övriga intäkter                  13 067 431 17 214 204 13 846 905 16 515 032
 
-El-avgifter                      8 656 800 6 713 244 8 616 447 6 662 758
-Summa övriga förvaltningsintäkter 42 173 854 42 459 562 42 912 975 41 709 904
 I övriga intäkter 2023 finns ett mottaget elstöd på 5,2 milj.
 
 not 4 - Driftskostnader
 
 KONCERN        MODERBOLAG
 2024     2023    2024   2023
-Direkta driftskostnader         120 950 844 106 839 395 119 367 194 105 104 138
-Personalkostnader fastighetsdrift 17 465 074 16 036 268 17 465 074 16 036 268
 
-Övriga driftskostnader           1 929 641 1 795 223 1 810 612 1 724 262
-Personalkostnader förvaltning och styrelse 21 080 791 20 963 795 21 080 791 20 963 795
-Lokalkostnader                    384 946 386 325  384 946 386 325
-Kontorskostnader                 3 948 829 3 191 283 3 948 829 3 191 283
-Administrativa kostnader förvaltning 7 509 230 6 915 955 7 509 230 6 067 756
-
-Summa driftskostnader           173 269 355 156 128 244 171 566 676 153 473 827
 I administrativa kostnader ingår även kostnader för avbrutna projekt.
 
 48
 Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
+
+[Tabell 99-1](handlingar.tabeller/99-1.csv)
+
+| Bostäder | 256 685 211 | 244 234 727 | 249 328 875 | 237 265 035 |
+| --- | --- | --- | --- | --- |
+| Lokaler | 184 581 950 | 172 565 288 | 184 581 950 | 172 565 288 |
+| Garage, p-platser | 9 660 046 | 9 548 793 | 9 660 046 | 9 548 793 |
+| Kabel-TV-avgifter | 601 055 | 764 295 | 601 055 | 764 295 |
+| Summa hyresintäkter | 451 528 262 | 427 113 103 | 444 171 926 | 420 143 411 |
+| Hyresbortfall garage, p-platser | -1 369 143 | -1 391 768 | -1 369 143 | -1 391 768 |
+| Hyresbortfall bostäder | -114 376 | -48 309 | -114 376 | -48 309 |
+| Hyresrabatter bostäder | -82 943 | -4 510 | -82 943 | -4 510 |
+| Hyresbortfall lokaler | -785 057 | -958 060 | -785 057 | -958 060 |
+| Hyresrabatter lokaler | -1 151 756 | -517 205 | -1 151 756 | -517 205 |
+| Summa hyresbortfall och rabatter | -3 503 275 | -2 919 852 | -3 503 275 | -2 919 852 |
+| Summa hyror | 448 024 987 | 424 193 251 | 440 668 651 | 417 223 559 |
+| Hyresjustering enl avtal med KBA kommun not 3 - övriga förvaltningsintäkter | 67 057 | -63 901 | 67 057 | -63 901 |
+
+[Tabell 99-2](handlingar.tabeller/99-2.csv)
+
+| Värmeleveranser | 20 449 623 | 18 532 114 | 20 449 623 | 18 532 114 |
+| --- | --- | --- | --- | --- |
+| Övriga intäkter | 13 067 431 | 17 214 204 | 13 846 905 | 16 515 032 |
+| El-avgifter | 8 656 800 | 6 713 244 | 8 616 447 | 6 662 758 |
+| Summa övriga förvaltningsintäkter | 42 173 854 | 42 459 562 | 42 912 975 | 41 709 904 |
+
+[Tabell 99-3](handlingar.tabeller/99-3.csv)
+
+| Direkta driftskostnader | 120 950 844 | 106 839 395 | 119 367 194 | 105 104 138 |
+| --- | --- | --- | --- | --- |
+| Personalkostnader fastighetsdrift | 17 465 074 | 16 036 268 | 17 465 074 | 16 036 268 |
+| Övriga driftskostnader | 1 929 641 | 1 795 223 | 1 810 612 | 1 724 262 |
+| Personalkostnader förvaltning och styrelse | 21 080 791 | 20 963 795 | 21 080 791 | 20 963 795 |
+| Lokalkostnader | 384 946 | 386 325 | 384 946 | 386 325 |
+| Kontorskostnader | 3 948 829 | 3 191 283 | 3 948 829 | 3 191 283 |
+| Administrativa kostnader förvaltning | 7 509 230 | 6 915 955 | 7 509 230 | 6 067 756 |
+| Summa driftskostnader | 173 269 355 | 156 128 244 | 171 566 676 | 153 473 827 |
 
 <!-- sida 100 -->
 
@@ -5587,12 +5560,7 @@ not 5 - underhållskostnader
 
 KONCERN        MODERBOLAG
 2024     2023    2024   2023
-Löpande underhåll                5 632 275 8 802 614 5 487 758 8 505 495
-Planerat underhåll               54 872 817 35 684 173 54 046 405 34 741 018
 
-Summa underhållskostnader       60 505 092 44 486 787 59 534 163 43 246 513
-
-not 6 - Fastighetsskatt
 KONCERN        MODERBOLAG
 
 2024     2023    2024   2023
@@ -5610,18 +5578,28 @@ not 8 - av- och nedskrivningar
 KONCERN        MODERBOLAG
 
 2024     2023    2024   2023
-Byggnader                        92 212 094 89 544 648 89 027 853 85 010 283
-Värmeanläggningar                5 732 737 6 504 578 5 732 737 6 504 578
-Markanläggningar                 2 542 200 2 429 766 2 541 149 2 429 405
-Byggnadsinventarier               1 118 963 1 062 224 1 118 963 1 062 224
-
-Markinventarier                   59 558   20 229   59 558 20 229
-Inventarier                      2 921 052 2 515 943 2 817 220 2 505 699
-Nedskrivning                         0       0        0      0
-Summa av- och nedskrivningar    104 586 604 102 077 388 101 297 480 97 532 418
 
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2024 49
 Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
+
+[Tabell 100-1](handlingar.tabeller/100-1.csv)
+
+| Löpande underhåll | 5 632 275 | 8 802 614 | 5 487 758 | 8 505 495 |
+| --- | --- | --- | --- | --- |
+| Planerat underhåll | 54 872 817 | 35 684 173 | 54 046 405 | 34 741 018 |
+| Summa underhållskostnader not 6 - Fastighetsskatt | 60 505 092 | 44 486 787 | 59 534 163 | 43 246 513 |
+
+[Tabell 100-2](handlingar.tabeller/100-2.csv)
+
+| Byggnader | 92 212 094 | 89 544 648 | 89 027 853 | 85 010 283 |
+| --- | --- | --- | --- | --- |
+| Värmeanläggningar | 5 732 737 | 6 504 578 | 5 732 737 | 6 504 578 |
+| Markanläggningar | 2 542 200 | 2 429 766 | 2 541 149 | 2 429 405 |
+| Byggnadsinventarier | 1 118 963 | 1 062 224 | 1 118 963 | 1 062 224 |
+| Markinventarier | 59 558 | 20 229 | 59 558 | 20 229 |
+| Inventarier | 2 921 052 | 2 515 943 | 2 817 220 | 2 505 699 |
+| Nedskrivning | 0 | 0 | 0 | 0 |
+| Summa av- och nedskrivningar | 104 586 604 | 102 077 388 | 101 297 480 | 97 532 418 |
 
 <!-- sida 101 -->
 
@@ -5630,43 +5608,10 @@ NOTER
 not 9 - personal
 
 KONCERN        MODERBOLAG
-
-Fördelning                                        Kvinnor   Män
-
-```osaker-tabell
-Styrelse (ordinarie ledamöten)                     42,9%   57,1%
-Vd och ledningsgrupp                               33,3%   66,7%
-Administration                                     68,0%   32,0%
-
-Fastighetsdrift                                    19,0%   81,0%
-
- Löner och andra ersättningar      2024     2023    2024   2023
-```
-
-Styrelse och VD                  1 754 526 1 669 794 1 754 526 1 669 794
-Övriga                           24 560 117 23 533 617 24 560 117 23 533 617
-
-Summa                           26 314 643 25 203 411 26 314 643 25 203 411
-Sociala avgifter enligt lag och avtal 8 243 008 7 962 452 8 243 008 7 962 452
-
-Pensionskostnader till VD och styrelse 370 224 354 858 370 224 354 858
-Pensionskostnader till övriga anställda 2 146 589 1 934 301 2 146 589 1 934 301
-Summa                            10 759 821 10 251 611 10 759 821 10 251 611
-
-not 10 - ersättning till revisionsföretag
+Medeltal anställda                2024     2023    2024   2023
 
 KONCERN        MODERBOLAG
-
-```osaker-tabell
-                                   2024     2023    2024   2023
-Ernst & Young AB Revision         339 617 229 742  283 367 183 581
-Ernst & Young AB Konsulttjänster     0    126 960     0   126 960
-
-Kungsbacka kommun, revision       20 000   20 000   15 000 15 000
-Summa                             359 617 376 702  298 367 325 541
-```
-
-not 11 - resultat från finansiella investeringar
+2024     2023    2024   2023
 
 KONCERN        MODERBOLAG
 2024     2023    2024   2023
@@ -5677,13 +5622,41 @@ Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 [Tabell 101-1](handlingar.tabeller/101-1.csv)
 
-| Medeltal anställda | 2024 | 2023 | 2024 | 2023 |
-| --- | --- | --- | --- | --- |
 | Administration | 20,81 | 21,26 | 20,81 | 21,26 |
+| --- | --- | --- | --- | --- |
 | Fastighetsdrift | 28,65 | 27,64 | 28,65 | 27,64 |
 | Summa antal anställda | 49,46 | 48,90 | 49,46 | 48,90 |
 
 [Tabell 101-2](handlingar.tabeller/101-2.csv)
+
+| Fördelning | Kvinnor | Män |
+| --- | --- | --- |
+| Styrelse (ordinarie ledamöten) | 42,9% | 57,1% |
+| Vd och ledningsgrupp | 33,3% | 66,7% |
+| Administration | 68,0% | 32,0% |
+| Fastighetsdrift | 19,0% | 81,0% |
+
+[Tabell 101-3](handlingar.tabeller/101-3.csv)
+
+| Löner och andra ersättningar | 2024 | 2023 | 2024 | 2023 |
+| --- | --- | --- | --- | --- |
+| Styrelse och VD | 1 754 526 | 1 669 794 | 1 754 526 | 1 669 794 |
+| Övriga | 24 560 117 | 23 533 617 | 24 560 117 | 23 533 617 |
+| Summa | 26 314 643 | 25 203 411 | 26 314 643 | 25 203 411 |
+| Sociala avgifter enligt lag och avtal | 8 243 008 | 7 962 452 | 8 243 008 | 7 962 452 |
+| Pensionskostnader till VD och styrelse | 370 224 | 354 858 | 370 224 | 354 858 |
+| Pensionskostnader till övriga anställda | 2 146 589 | 1 934 301 | 2 146 589 | 1 934 301 |
+| Summa not 10 - ersättning till revisionsföretag | 10 759 821 | 10 251 611 | 10 759 821 | 10 251 611 |
+
+[Tabell 101-4](handlingar.tabeller/101-4.csv)
+
+| Ernst & Young AB Revision | 339 617 | 229 742 | 283 367 | 183 581 |
+| --- | --- | --- | --- | --- |
+| Ernst & Young AB Konsulttjänster | 0 | 126 960 | 0 | 126 960 |
+| Kungsbacka kommun, revision | 20 000 | 20 000 | 15 000 | 15 000 |
+| Summa not 11 - resultat från finansiella investeringar | 359 617 | 376 702 | 298 367 | 325 541 |
+
+[Tabell 101-5](handlingar.tabeller/101-5.csv)
 
 | fordringar som är anläggningstillgångar | 0 | 0 | 0 | 0 |
 | --- | --- | --- | --- | --- |
@@ -5699,8 +5672,7 @@ not 12 - skatt
 
 De huvudsakliga komponenterna när det gäller räkenskapsårets skattekostnader är följande:
 KONCERN        MODERBOLAG
-
-Skatteeffekt av:
+Redovisad skatt i resultaträkningen 2024   2023     2024   2023
 
 Bolaget redovisar uppskjuten skatteskuld hänförlig till temporär skillnad mellan bokföringsmässiga och skattemässiga
 värden på byggnader, samtidigt redovisar bolaget motsvarande uppskjuten skattefordran på grund av ej utnyttjade
@@ -5713,9 +5685,8 @@ Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 [Tabell 102-1](handlingar.tabeller/102-1.csv)
 
-| Redovisad skatt i resultaträkningen | 2024 | 2023 | 2024 | 2023 |
-| --- | --- | --- | --- | --- |
 | Aktuell skatt | 8 332 787 | 11 924 517 | 7 957 088 | 11 932 377 |
+| --- | --- | --- | --- | --- |
 | Justering av aktuell skatt för tidigare år | -17 999 | -3 993 084 | -17 999 | -3 993 084 |
 | Förändring uppskjuten skatt avseende temporära skillnader | 4 115 584 | 4 261 654 | 4 115 584 | 4 261 654 |
 | Summa redovisad skatt | 12 430 372 | 12 193 087 | 12 054 673 | 12 200 947 |
@@ -5726,11 +5697,8 @@ Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 | --- | --- | --- | --- | --- |
 | Redovisat resultat före skatt | 63 080 739 | 84 663 452 | 61 135 582 | 84 451 275 |
 | Skatt på redovisat resultat med gällande skattesats | 12 994 632 | 17 440 671 | 12 593 930 | 17 396 963 |
-
-[Tabell 102-3](handlingar.tabeller/102-3.csv)
-
+| Skatteeffekt av: |  |  |  |  |
 | Ej skattepliktiga intäkter som ingår i resultatet | -10 992 | -11 848 | -9 967 | -11 848 |
-| --- | --- | --- | --- | --- |
 | Ej avdragsgilla kostnader | 54 734 | 42 135 | 54 605 | 42 038 |
 | Ej avdragsgilla räntor | 2 588 841 | 0 | 2 588 841 | 0 |
 | Kostnader som ska dras av men som inte ingår | -4 012 629 | -666 433 | -4 012 629 | -666 433 |
@@ -5748,6 +5716,7 @@ NOTER
 not 13 - byggnader och mark
 
 KONCERN         MODERBOLAG
+Byggnader                        2024    2023     2024    2023
 
 Utgående bokfört värde        3 801 927 450 3 755 993 325 3 703 264 710 3 654 146 344
 
@@ -5755,15 +5724,15 @@ Utgående bokfört värde        3 801 927 450 3 755 993 325 3 703 264 710 3 654
 Värderingen visar på värden enligt följande: 7 257 791 000 7 125 761 000 7 136 667 000 7 025 652 000
 
 KONCERN         MODERBOLAG
+Mark                             2024    2023     2024    2023
 
 52
 Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 [Tabell 103-1](handlingar.tabeller/103-1.csv)
 
-| Byggnader | 2024 | 2023 | 2024 | 2023 |
-| --- | --- | --- | --- | --- |
 | Ingående ackumulerade anskaffningsvärden | 4 832 364 190 | 4 745 446 307 | 4 719 801 041 | 4 634 690 230 |
+| --- | --- | --- | --- | --- |
 | Nyanskaffning under året | 0 | 3 292 162 | 0 | 0 |
 | Omklassificering | -3 379 405 | 33 043 392 | -3 379 405 | 33 043 392 |
 | Försäljning / Utrangering under året | -6 347 415 | -3 683 240 | -6 347 415 | -2 198 150 |
@@ -5777,9 +5746,8 @@ Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 [Tabell 103-2](handlingar.tabeller/103-2.csv)
 
-| Mark | 2024 | 2023 | 2024 | 2023 |
-| --- | --- | --- | --- | --- |
 | Ingående ackumulerade anskaffningsvärden | 305 881 330 | 300 637 931 | 299 556 253 | 295 251 017 |
+| --- | --- | --- | --- | --- |
 | Nyanskaffning under året | 3 762 499 | 2 338 163 | 3 762 499 | 0 |
 | Försäljning / Utrangering under året | 0 | -1 400 000 | 0 | 0 |
 | Överfört från pågående nyanläggningar | 4 038 500 | 4 305 236 | 4 038 500 | 4 305 236 |
@@ -5793,43 +5761,42 @@ not 14 - värmeanläggningar
 
 KONCERN         MODERBOLAG
 2024    2023     2024    2023
-Ingående ackumulerade anskaffningsvärden 226 811 594 253 810 955 226 811 594 253 810 955
-Nyanskaffning under året            0       0        0       0
-
-Omklassificering                3 379 405 -33 043 392 3 379 405 -33 043 392
-Försäljning/Utrangering under året -965 906 0    -965 906    0
-Överfört från pågående nyanläggningar 818 364 6 044 031 818 364 6 044 031
-Utgående anskaffningsvärden   230 043 457 226 811 594 230 043 457 226 811 594
-
-Ingående ackumulerade avskrivningar -65 774 643 -67 531 315 -65 774 643 -67 531 315
-Omklassificering                -1 119 132 8 261 250 -1 119 132 8 261 250
-Försäljning/Utrangering under året 623 819        623 819
-Årets avskrivning               -5 732 737 -6 504 578 -5 732 737 -6 504 578
-Utgående ackumulerade avskrivningar -72 002 693 -65 774 643 -72 002 693 -65 774 643
-
-Utgående bokfört värde        158 040 764 161 036 951 158 040 764 161 036 951
-
-not 15 - byggnadsinventarier
 
 KONCERN         MODERBOLAG
 2024    2023     2024    2023
-Ingående ackumulerade anskaffningsvärden 22 461 851 22 805 503 22 461 851 22 805 503
-Nyanskaffning under året            0    207 044     0    207 044
-
-Försäljning / Utrangering under året -432 689 -782 617 -432 689 -782 617
-Överfört från pågående nyanläggningar 4 316 943 231 921 4 316 943 231 921
-Utgående anskaffningsvärden    26 346 105 22 461 851 26 346 105 22 461 851
-
-Ingående ackumulerade avskrivningar -11 023 561 -10 724 461 -11 023 561 -10 724 461
-Försäljning / Utrangering under året 432 689 763 124 432 689 763 124
-
-Årets avskrivning               -1 118 963 -1 062 224 -1 118 963 -1 062 224
-Utgående ackumulerade avskrivningar -11 709 835 -11 023 561 -11 709 835 -11 023 561
-
-Utgående bokfört värde         14 636 270 11 438 290 14 636 270 11 438 290
 
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2024 53
 Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
+
+[Tabell 104-1](handlingar.tabeller/104-1.csv)
+
+| Ingående ackumulerade anskaffningsvärden | 226 811 594 | 253 810 955 | 226 811 594 | 253 810 955 |
+| --- | --- | --- | --- | --- |
+| Nyanskaffning under året | 0 | 0 | 0 | 0 |
+| Omklassificering | 3 379 405 | -33 043 392 | 3 379 405 | -33 043 392 |
+| Försäljning/Utrangering under året | -965 906 | 0 | -965 906 | 0 |
+| Överfört från pågående nyanläggningar | 818 364 | 6 044 031 | 818 364 | 6 044 031 |
+| Utgående anskaffningsvärden | 230 043 457 | 226 811 594 | 230 043 457 | 226 811 594 |
+| Ingående ackumulerade avskrivningar | -65 774 643 | -67 531 315 | -65 774 643 | -67 531 315 |
+| Omklassificering | -1 119 132 | 8 261 250 | -1 119 132 | 8 261 250 |
+| Försäljning/Utrangering under året | 623 819 |  | 623 819 |  |
+| Årets avskrivning | -5 732 737 | -6 504 578 | -5 732 737 | -6 504 578 |
+| Utgående ackumulerade avskrivningar | -72 002 693 | -65 774 643 | -72 002 693 | -65 774 643 |
+| Utgående bokfört värde not 15 - byggnadsinventarier | 158 040 764 | 161 036 951 | 158 040 764 | 161 036 951 |
+
+[Tabell 104-2](handlingar.tabeller/104-2.csv)
+
+| Ingående ackumulerade anskaffningsvärden | 22 461 851 | 22 805 503 | 22 461 851 | 22 805 503 |
+| --- | --- | --- | --- | --- |
+| Nyanskaffning under året | 0 | 207 044 | 0 | 207 044 |
+| Försäljning / Utrangering under året | -432 689 | -782 617 | -432 689 | -782 617 |
+| Överfört från pågående nyanläggningar | 4 316 943 | 231 921 | 4 316 943 | 231 921 |
+| Utgående anskaffningsvärden | 26 346 105 | 22 461 851 | 26 346 105 | 22 461 851 |
+| Ingående ackumulerade avskrivningar | -11 023 561 | -10 724 461 | -11 023 561 | -10 724 461 |
+| Försäljning / Utrangering under året | 432 689 | 763 124 | 432 689 | 763 124 |
+| Årets avskrivning | -1 118 963 | -1 062 224 | -1 118 963 | -1 062 224 |
+| Utgående ackumulerade avskrivningar | -11 709 835 | -11 023 561 | -11 709 835 | -11 023 561 |
+| Utgående bokfört värde | 14 636 270 | 11 438 290 | 14 636 270 | 11 438 290 |
 
 <!-- sida 105 -->
 
@@ -5839,36 +5806,36 @@ not 16 - markanläggningar
 
 KONCERN         MODERBOLAG
 2024    2023     2024    2023
-Ingående ackumulerade anskaffningsvärden 122 802 677 120 696 264 122 784 619 120 678 206
-Försäljning / Utrangering under året 0  -525 000     0    -525 000
-
-Överfört från pågående nyanläggningar 10 336 878 2 631 413 10 254 087 2 631 413
-Utgående anskaffningsvärden    133 139 555 122 802 677 133 038 706 122 784 619
-
-Ingående ackumulerade avskrivningar -24 800 668 -22 567 777 -24 799 553 -22 567 023
-Försäljning / Utrangering under året 0   196 875     0    196 875
-Årets avskrivning              -2 542 200 -2 429 766 -2 541 149 -2 429 405
-Utgående ackumulerade avskrivningar -27 342 868 -24 800 668 -27 340 702 -24 799 553
-
-Utgående bokfört värde        105 796 687 98 002 008 105 698 004 97 985 066
-
-not 17 - markinventarier
 
 KONCERN         MODERBOLAG
 2024    2023     2024    2023
 
-Ingående ackumulerade anskaffningsvärden 1 142 647 0 1 142 647 0
-Överfört från pågående nyanläggningar 97 010 1 142 647 97 010 1 142 647
-Utgående ackumulerade anskaffningsvärden 1 239 657 1 142 647 1 239 657 1 142 647
-
-Ingående ackumulerade avskrivningar -20 229 0     -20 229    0
-Årets avskrivning                -59 558 -20 229  -59 558 -20 229
-Utgående ackumulerade avskrivningar -79 787 -20 229 -79 787 -20 229
-
-Utgående bokfört värde          1 159 870 1 122 418 1 159 870 1 122 418
-
 54
 Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
+
+[Tabell 105-1](handlingar.tabeller/105-1.csv)
+
+| Ingående ackumulerade anskaffningsvärden | 122 802 677 | 120 696 264 | 122 784 619 | 120 678 206 |
+| --- | --- | --- | --- | --- |
+| Försäljning / Utrangering under året | 0 | -525 000 | 0 | -525 000 |
+| Överfört från pågående nyanläggningar | 10 336 878 | 2 631 413 | 10 254 087 | 2 631 413 |
+| Utgående anskaffningsvärden | 133 139 555 | 122 802 677 | 133 038 706 | 122 784 619 |
+| Ingående ackumulerade avskrivningar | -24 800 668 | -22 567 777 | -24 799 553 | -22 567 023 |
+| Försäljning / Utrangering under året | 0 | 196 875 | 0 | 196 875 |
+| Årets avskrivning | -2 542 200 | -2 429 766 | -2 541 149 | -2 429 405 |
+| Utgående ackumulerade avskrivningar | -27 342 868 | -24 800 668 | -27 340 702 | -24 799 553 |
+| Utgående bokfört värde not 17 - markinventarier | 105 796 687 | 98 002 008 | 105 698 004 | 97 985 066 |
+
+[Tabell 105-2](handlingar.tabeller/105-2.csv)
+
+| Ingående ackumulerade anskaffningsvärden | 1 142 647 | 0 | 1 142 647 | 0 |
+| --- | --- | --- | --- | --- |
+| Överfört från pågående nyanläggningar | 97 010 | 1 142 647 | 97 010 | 1 142 647 |
+| Utgående ackumulerade anskaffningsvärden | 1 239 657 | 1 142 647 | 1 239 657 | 1 142 647 |
+| Ingående ackumulerade avskrivningar | -20 229 | 0 | -20 229 | 0 |
+| Årets avskrivning | -59 558 | -20 229 | -59 558 | -20 229 |
+| Utgående ackumulerade avskrivningar | -79 787 | -20 229 | -79 787 | -20 229 |
+| Utgående bokfört värde | 1 159 870 | 1 122 418 | 1 159 870 | 1 122 418 |
 
 <!-- sida 106 -->
 
@@ -5878,33 +5845,35 @@ not 18 - inventarier
 
 KONCERN         MODERBOLAG
 2024    2023     2024    2023
-Ingående ackumulerade anskaffningsvärden 28 035 746 23 917 754 27 505 816 23 905 321
-Nyanskaffningar under året      2 591 967 4 439 249 2 591 967 3 921 752
-
-Omklassificering                 452 857    0     452 857    0
-Försäljning / Utrangering under året -880 058 -321 257 -880 058 -321 257
-Utgående ackumulerade anskaffningsvärden 30 200 512 28 035 746 29 670 582 27 505 816
-
-Ingående ackumulerade avskrivningar -19 771 054 -17 570 804 -19 750 329 -17 560 323
-Årets avskrivning               -2 921 052 -2 515 943 -2 817 220 -2 505 699
-Omklassificering                -452 858    0    -452 858    0
-Försäljning / Utrangering under året 727 290 315 693 727 290 315 693
-
-Utgående ackumulerade avskrivningar -22 417 674 -19 771 054 -22 293 117 -19 750 329
-Utgående bokfört värde         7 782 838 8 264 692 7 377 465 7 755 487
-
-not 19 - pågående nyanläggningar
 
 KONCERN         MODERBOLAG
 2024    2023     2024    2023
-Ingående ackumulerade anskaffningsvärden 131 611 485 66 133 806 130 591 236 66 015 766
-Årets investeringar            132 385 977 134 098 496 116 550 050 133 196 287
-Överfört under året           -160 282 259 -68 620 817 -160 282 259 -68 620 817
-
-Utgående bokfört värde         103 715 203 131 611 485 86 859 027 130 591 236
 
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2024 55
 Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
+
+[Tabell 106-1](handlingar.tabeller/106-1.csv)
+
+| Ingående ackumulerade anskaffningsvärden | 28 035 746 | 23 917 754 | 27 505 816 | 23 905 321 |
+| --- | --- | --- | --- | --- |
+| Nyanskaffningar under året | 2 591 967 | 4 439 249 | 2 591 967 | 3 921 752 |
+| Omklassificering | 452 857 | 0 | 452 857 | 0 |
+| Försäljning / Utrangering under året | -880 058 | -321 257 | -880 058 | -321 257 |
+| Utgående ackumulerade anskaffningsvärden | 30 200 512 | 28 035 746 | 29 670 582 | 27 505 816 |
+| Ingående ackumulerade avskrivningar | -19 771 054 | -17 570 804 | -19 750 329 | -17 560 323 |
+| Årets avskrivning | -2 921 052 | -2 515 943 | -2 817 220 | -2 505 699 |
+| Omklassificering | -452 858 | 0 | -452 858 | 0 |
+| Försäljning / Utrangering under året | 727 290 | 315 693 | 727 290 | 315 693 |
+| Utgående ackumulerade avskrivningar | -22 417 674 | -19 771 054 | -22 293 117 | -19 750 329 |
+| Utgående bokfört värde not 19 - pågående nyanläggningar | 7 782 838 | 8 264 692 | 7 377 465 | 7 755 487 |
+
+[Tabell 106-2](handlingar.tabeller/106-2.csv)
+
+| Ingående ackumulerade anskaffningsvärden | 131 611 485 | 66 133 806 | 130 591 236 | 66 015 766 |
+| --- | --- | --- | --- | --- |
+| Årets investeringar | 132 385 977 | 134 098 496 | 116 550 050 | 133 196 287 |
+| Överfört under året | -160 282 259 | -68 620 817 | -160 282 259 | -68 620 817 |
+| Utgående bokfört värde | 103 715 203 | 131 611 485 | 86 859 027 | 130 591 236 |
 
 <!-- sida 107 -->
 
@@ -5921,48 +5890,45 @@ not 21 - långfristiga värdepappersinnehav
 
 KONCERN         MODERBOLAG
 2024    2023     2024    2023
-Aktier i Swedbank                113 425 113 425  113 425  113 425
-Aktier i SABO Byggnadsförsäkrings AB 30 000 30 000 30 000 30 000
-
-Insatskapital HBV                40 000  40 000   40 000  40 000
-Vindkraftsandelar O2             817 400 817 400  817 400 817 400
-Summa                           1 000 825 1 000 825 1 000 825 1 000 825
-
-not 22 - långfristiga fodringar
-
-KONCERN         MODERBOLAG
-
-```osaker-tabell
-                                  2024    2023     2024    2023
-Lån till dotterbolaget              0       0   25 000 000 15 000 000
-Deposition HBV                   24 797  141 860  24 797  141 860
-```
-
-Summa                            24 797  141 860 25 024 797 15 141 860
-
-not 23 - förutbetalda kostnader och upplupna intäkter
 
 KONCERN         MODERBOLAG
 2024    2023     2024    2023
-Försäkringar                    1 697 273 1 685 769 1 667 465 1 623 891
 
-```osaker-tabell
-Parkeringsersättning             164 817    0     164 817    0
-
-Kungsbacka kommun                816 045 474 382  599 474 292 370
-Dataprogram och licenser        453 806  182 686  453 806 182 686
-Telefoni och datakommunikation   296 432 497 368  296 432 497 368
-Fastighetstjänster               149 901    0     149 901    0
-Samfällighetsavgifter            212 962    0     212 962    0
-
-Bilinköp                        1 098 900   0    1 098 900   0
-```
-
-Övrigt                           711 118 1 034 529 841 786 907 331
-Summa                           5 601 254 3 874 734 5 485 543 3 503 646
+KONCERN         MODERBOLAG
+2024    2023     2024    2023
 
 56
 Transaktion 09222115557540214944 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
+
+[Tabell 107-1](handlingar.tabeller/107-1.csv)
+
+| Aktier i Swedbank | 113 425 | 113 425 | 113 425 | 113 425 |
+| --- | --- | --- | --- | --- |
+| Aktier i SABO Byggnadsförsäkrings AB | 30 000 | 30 000 | 30 000 | 30 000 |
+| Insatskapital HBV | 40 000 | 40 000 | 40 000 | 40 000 |
+| Vindkraftsandelar O2 | 817 400 | 817 400 | 817 400 | 817 400 |
+| Summa not 22 - långfristiga fodringar | 1 000 825 | 1 000 825 | 1 000 825 | 1 000 825 |
+
+[Tabell 107-2](handlingar.tabeller/107-2.csv)
+
+| Lån till dotterbolaget | 0 | 0 | 25 000 000 | 15 000 000 |
+| --- | --- | --- | --- | --- |
+| Deposition HBV | 24 797 | 141 860 | 24 797 | 141 860 |
+| Summa not 23 - förutbetalda kostnader och upplupna intäkter | 24 797 | 141 860 | 25 024 797 | 15 141 860 |
+
+[Tabell 107-3](handlingar.tabeller/107-3.csv)
+
+| Försäkringar | 1 697 273 | 1 685 769 | 1 667 465 | 1 623 891 |
+| --- | --- | --- | --- | --- |
+| Parkeringsersättning | 164 817 | 0 | 164 817 | 0 |
+| Kungsbacka kommun | 816 045 | 474 382 | 599 474 | 292 370 |
+| Dataprogram och licenser | 453 806 | 182 686 | 453 806 | 182 686 |
+| Telefoni och datakommunikation | 296 432 | 497 368 | 296 432 | 497 368 |
+| Fastighetstjänster | 149 901 | 0 | 149 901 | 0 |
+| Samfällighetsavgifter | 212 962 | 0 | 212 962 | 0 |
+| Bilinköp | 1 098 900 | 0 | 1 098 900 | 0 |
+| Övrigt | 711 118 | 1 034 529 | 841 786 | 907 331 |
+| Summa | 5 601 254 | 3 874 734 | 5 485 543 | 3 503 646 |
 
 <!-- sida 108 -->
 

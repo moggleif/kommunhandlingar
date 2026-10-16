@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.25533da21997c87c7443e6ff/1758870337
 sha256: bc3571af8c649cbdcffd669882bdd5a4388c48153234cadc0ff985a7325818e7
 bytes: 20676472
 sidor: 131
-hamtad: 2026-10-09T10:54:39+00:00
-konverterad: 2026-10-09T10:57:51+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T08:47:44+00:00
+konverterad: 2026-10-16T08:50:35+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr]
-tal_obekraftade: [8, 10, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 37, 40, 41, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 67, 70, 73, 74, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 99, 104, 107, 109, 111, 112, 118, 119, 120, 121, 122, 123, 124, 127, 128, 129, 130, 131]
+tal_obekraftade: [8, 10, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 37, 40, 41, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 67, 70, 73, 74, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 99, 100, 101, 102, 103, 104, 105, 106, 107, 109, 111, 112, 118, 119, 120, 121, 122, 123, 124, 127, 128, 129, 130, 131]
 figurer: [69, 100, 101, 102, 103, 104, 105, 106, 118, 119, 121, 122, 123, 124]
 tolkade: []
 ---
@@ -55,13 +55,22 @@ KUNGSBACKA KOMMUN
 
 2(5)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 2. | Bevakningsavtal –<br>Belysningsanläggning Särö vid väg<br>955, del av, rivning och byggnation<br>av ny belysning | KS-2025-00540 | Förslag till beslut<br>Kommunfullmäktige godkänner<br>medfinansiering av belysningsanläggning<br>längs del av väg 955 i Särö.<br>Kommunfullmäktige godkänner att<br>medfinansieringen finansieras av<br>kommunens centrala finansverksamhet,<br>vilket innebär att 3,2 miljoner kronor<br>kommer belasta årets resultat.<br>Kommunfullmäktige beslutar att årets<br>budget och kostnader omfördelas från<br>nämnden för Teknik till kommunens<br>centrala finansverksamhet med sammantaget<br>3,2 miljoner kronor.<br>Kommunfullmäktige ger nämnden för<br>Teknik i uppdrag att träffa bevakningsavtal<br>för belysningsanläggning i Särö längs del av<br>väg 955. |
 | 3. | Uppstart av projekt i lokalplan -<br>Åsaskolan –<br>verksamhetsanpassning för att<br>uppfylla myndighetskrav | KS-2025-00598 | Förslag till beslut<br>Kommunstyrelsen godkänner uppstart av<br>projekt Åsaskolan - verksamhetsanpassning<br>för att uppfylla myndighetskrav.<br>Kommunstyrelsen godkänner att<br>finansiering sker genom att<br>investeringsmedel på 8,3 miljoner kronor<br>respektive 530 000 kronor i driftmedel<br>omfördelas från löpnummer 1202<br>Oförutsedda behov år 2026. |
 | 4. | Begäran om planbesked för Släps-<br>Kullen 2:40 | KS-2025-00444 | Förslag till beslut<br>Kommunstyrelsen lämnar besked att<br>kommunen inte avser att pröva den begärda<br>åtgärden genom planläggning inom Släps-<br>Kullen 2:40, i Kullavik. |
+| 5. | Genomförande av detaljplan för<br>bostäder, verksamheter och<br>restaurang inom Skällared 3:55<br>med flera i Gottskär, Kungsbacka<br>kommun | KS-2025-00306 | Förslag till beslut<br>Kommunfullmäktige godkänner<br>exploateringsavtal avseende genomförande<br>av detaljplan för bostäder, verksamheter och<br>restaurang inom Skällared 3:55 med flera i<br>Gottskär, Kungsbacka kommun, mellan<br>kommunen och Gottskärs Havsbad AB,<br>undertecknat av bolaget 2025-09-25.<br>Kommunfullmäktige godkänner<br>överenskommelse om fastighetsreglering<br>mellan kommunen och Gottskärs Havsbad<br>AB, undertecknat av bolaget 2025-09-25.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive<br>ersättare, utses att för kommunens räkning<br>underteckna avtalen, samt övriga<br>nödvändiga handlingar för avtalens<br>genomförande. |
+| 6. | Remittering av motion från Per<br>Gunnarsson (S) om uppförande av<br>minnesmärke för att hedra<br>pandemins vardagshjältar | KS-2025-00597 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Kultur & Fritid<br>för beredning. |
+| 7. | Remittering av motion från Carita<br>Boulwén (SD) m.fl. om inrättande<br>av ”Jourhavande förälder”, ett<br>alternativ till familjehemsplacering | KS-2025-00604 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för nämnden för<br>Individ & Familjeomsorg för beredning. |
+| 8. | Remittering av motion från Mats<br>Ståhlberg (KB) om att låta<br>invånarna bli en del av lösningen<br>mot invasiva arter | KS-2025-00627 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Teknik för<br>beredning. |
+| 9. | Remittering av motion från Mats<br>Ståhlberg (KB) om anläggande av<br>hundrastgård i Kolla | KS-2025-00630 | Förslag till beslut<br>Kommunfullmäktige remitterar motionen till<br>nämnden för Teknik för vidare beredning. |
+| 10. | Avstämning och information -<br>Hållbart boende, etablering<br>(årshjul)<br>08:50-09:20<br>Lovisa Eld<br>Märta Lycken<br>Patrik Hellberg<br>Christer Kilersjö<br>Mats Söderström<br>Presidiet i nämnden för gymnasium<br>och arbetsmarknad | KS-2025-00023 | Förslag till beslut |
+| 11. | Avstämning om planprogram för<br>Åsaberg<br>09:25-09:50<br>Stina Wikström<br>Ida Lennartsson<br>Emma Johansson | KS-2003-00165 | Förslag till beslut |
+| 12. | Avstämning och information -<br>Startplan 2026, status och prognos<br>pågående projekt (från årshjul)<br>10:05-11:00<br>Lovisa Eld<br>Ida Lennartsson<br>Johan Gerremo<br>Sofia Wiman<br>Byggnadsnämndens arbetsutskott | KS-2025-00018 | Förslag till beslut |
+| 13. | Information från ledamöter och<br>förvaltning | KS-2025-00025 |  |
 
 <!-- sida 3 -->
 
@@ -69,30 +78,11 @@ KUNGSBACKA KOMMUN
 
 3(5)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 5. | Genomförande av detaljplan för<br>bostäder, verksamheter och<br>restaurang inom Skällared 3:55<br>med flera i Gottskär, Kungsbacka<br>kommun | KS-2025-00306 | Förslag till beslut<br>Kommunfullmäktige godkänner<br>exploateringsavtal avseende genomförande<br>av detaljplan för bostäder, verksamheter och<br>restaurang inom Skällared 3:55 med flera i<br>Gottskär, Kungsbacka kommun, mellan<br>kommunen och Gottskärs Havsbad AB,<br>undertecknat av bolaget 2025-09-25.<br>Kommunfullmäktige godkänner<br>överenskommelse om fastighetsreglering<br>mellan kommunen och Gottskärs Havsbad<br>AB, undertecknat av bolaget 2025-09-25.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive<br>ersättare, utses att för kommunens räkning<br>underteckna avtalen, samt övriga<br>nödvändiga handlingar för avtalens<br>genomförande. |
-| 6. | Remittering av motion från Per<br>Gunnarsson (S) om uppförande av<br>minnesmärke för att hedra<br>pandemins vardagshjältar | KS-2025-00597 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Kultur & Fritid<br>för beredning. |
-| 7. | Remittering av motion från Carita<br>Boulwén (SD) m.fl. om inrättande<br>av ”Jourhavande förälder”, ett<br>alternativ till familjehemsplacering | KS-2025-00604 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för nämnden för<br>Individ & Familjeomsorg för beredning. |
-| 8. | Remittering av motion från Mats<br>Ståhlberg (KB) om att låta<br>invånarna bli en del av lösningen<br>mot invasiva arter | KS-2025-00627 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Teknik för<br>beredning. |
-| 9. | Remittering av motion från Mats<br>Ståhlberg (KB) om anläggande av<br>hundrastgård i Kolla | KS-2025-00630 | Förslag till beslut<br>Kommunfullmäktige remitterar motionen till<br>nämnden för Teknik för vidare beredning. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA KOMMUN
 
 4(5)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 10. | Avstämning och information -<br>Hållbart boende, etablering<br>(årshjul)<br>08:50-09:20<br>Lovisa Eld<br>Märta Lycken<br>Patrik Hellberg<br>Christer Kilersjö<br>Mats Söderström<br>Presidiet i nämnden för gymnasium<br>och arbetsmarknad | KS-2025-00023 | Förslag till beslut |
-| 11. | Avstämning om planprogram för<br>Åsaberg<br>09:25-09:50<br>Stina Wikström<br>Ida Lennartsson<br>Emma Johansson | KS-2003-00165 | Förslag till beslut |
-| 12. | Avstämning och information -<br>Startplan 2026, status och prognos<br>pågående projekt (från årshjul)<br>10:05-11:00<br>Lovisa Eld<br>Ida Lennartsson<br>Johan Gerremo<br>Sofia Wiman<br>Byggnadsnämndens arbetsutskott | KS-2025-00018 | Förslag till beslut |
-| 13. | Information från ledamöter och<br>förvaltning | KS-2025-00025 |  |
 
 <!-- sida 5 -->
 

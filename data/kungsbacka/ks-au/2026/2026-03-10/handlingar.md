@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6cf878e819c986b5ee7e3b1d/1772801136
 sha256: cee44bad12441635d111226bc754b017f11d8e507964e656b2996833ac81e9c3
 bytes: 6036294
 sidor: 65
-hamtad: 2026-10-09T11:53:12+00:00
-konverterad: 2026-10-09T11:53:51+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T09:41:07+00:00
+konverterad: 2026-10-16T09:41:43+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
@@ -1583,7 +1583,7 @@ Förkortningar: PP = Pendelparkering, KM = Kvartersmark, AP = Allmän plats
 | Hammerö | KUNGSBACKA 5:4, AP |
 | Fors | FORS 1:337, KM |
 
-[Tabell 40-2](handlingar.tabeller/40-2.csv)
+[Tabell 40-41-2](handlingar.tabeller/40-41-2.csv)
 
 | Ellevio |  |
 | --- | --- |
@@ -1602,15 +1602,7 @@ Förkortningar: PP = Pendelparkering, KM = Kvartersmark, AP = Allmän plats
 | Särö centrumväg, Särö centrum | NÖTEGÅNG 1:91, KM |
 | Snipens PP | SPÅRHAGA 1:5, AP |
 | Bolshedens PP | BOLSHEDEN 1:2, AP |
-
-<!-- sida 41 -->
-
-24
-
-[Tabell 41-1](handlingar.tabeller/41-1.csv)
-
 |  |  |
-| --- | --- |
 | Vallda | Anläggnings ID |
 | Smarholmsvägen | BUERA 1:11, KM |
 | Motionsvägen | VALLDA 45:2, KM |
@@ -1631,6 +1623,10 @@ Förkortningar: PP = Pendelparkering, KM = Kvartersmark, AP = Allmän plats
 | Frillesås | Anläggnings ID |
 | Frillesås PP, Frillesåsv | FRILLESÅS-RYA 2:1, AP |
 | Frillesås PP, Almedalsv | ALMEDAL 1,5, AP |
+
+<!-- sida 41 -->
+
+24
 
 <!-- sida 42 -->
 

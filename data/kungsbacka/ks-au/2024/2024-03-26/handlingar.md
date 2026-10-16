@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.18dce30518e5f9bec471bdb/17110964386
 sha256: 013b81daceb6eb40c31a19f18c0e34db6a9d8b8a4159ee1908720d70e5666b75
 bytes: 9857324
 sidor: 83
-hamtad: 2026-10-09T08:44:09+00:00
-konverterad: 2026-10-09T08:44:47+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T06:35:54+00:00
+konverterad: 2026-10-16T06:36:29+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -217,8 +217,8 @@ Resultatbudget samt plan 2025-2026, GR (tkr).
 | --- | --- | --- | --- |
 |  | Budget 2024 | Plan 2025 | Plan 2026 |
 | Verksamhetens intäkter | 440 201 | 451 206 | 460 681 |
-| varav årsavgifter avsedda för GR:s verksamhet | 50 570 | 51 208 | 51 862 |
-| varav årsavgifter transfererade till andra regionala organisationer | 27 223 | 27 270 | 27 322 |
+| varav årsavgifter avsedda för GR:s verksamhet | 50570 | 51208 | 51862 |
+| varav årsavgifter transfererade till andra regionala organisationer | 27223 | 27270 | 27322 |
 | Verksamhetens kostnader | -441 666 | -449 065 | -458 446 |
 | Avskrivningar | -3 735 | -4 141 | -4 135 |
 | Verksamhetens nettokostnader | -5 200 | -2 000 | -1 900 |
@@ -283,7 +283,7 @@ samt plan 2025-2026 (tkr).              samt förslag 2025-2026 (tkr).
 | II. Fordringar | 51 000 | 91 381 | 93 300 |
 | III. Kortfristiga placeringar | - | - | - |
 | IV. Kassa & Bank | 274 000 | 279 959 | 285 838 |
-| S:A TILLGÅNGAR | 400 164 | 440 425 | 444 879 |
+| S:A TILLGÅNGAR | 400164 | 440425 | 444879 |
 |  |  |  |  |
 | EGET KAPITAL, AVSÄTTNINGAR & SKULDER |  |  |  |
 | A. Eget kapital | 58 824 | 59 324 | 59 824 |
@@ -297,7 +297,7 @@ samt plan 2025-2026 (tkr).              samt förslag 2025-2026 (tkr).
 | I. Långfristiga skulder | - | - | - |
 | II. Kortfristiga skulder | 341 340 | 381 101 | 385 055 |
 |  |  |  |  |
-| S:A EGET KAPITAL, AVSÄTTNINGAR<br>& SKULDER | 400 164 | 440 425 | 444 879 |
+| S:A EGET KAPITAL, AVSÄTTNINGAR<br>& SKULDER | 400164 | 440425 | 444879 |
 |  |  |  |  |
 | Soliditet | 14,7% | 13,5% | 13,4% |
 | Likviditet (kassalikv) | 106,8% | 107,3% | 108,4% |
@@ -517,7 +517,7 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 
 §§ socialtjänstlagen, SoL
 
-[Tabell 14-1](handlingar.tabeller/14-1.csv)
+[Tabell 14-16-1](handlingar.tabeller/14-16-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
@@ -533,16 +533,6 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 | 2023-06-12 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, den enskilde har tackat nej till<br>erbjudande 2023-11-30. Svårt att få kontakt med<br>familjen vilket dragit ut på tiden. |
 | 2022-03-16 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Tackat nej till 4 erbjudanden, 2022-09-15, 2022-11-29,<br>2023-05-17 och 2023-11-20. |
 | 2022-12-31 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Avbrott i verkställighet, tackat nej till 2 erbjudanden<br>2023-06-20 och 2023-12-22, eftersom boendet inte<br>ligger i centrala Kungsbacka. |
-
-<!-- sida 15 -->
-
-KUNGSBACKA  KOMMUN
-4 (7)
-
-[Tabell 15-1](handlingar.tabeller/15-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2023-04-03 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Tackat nej till 1 erbjudande, 2023-09-27, eftersom<br>boendet inte ligger i centrala Kungsbacka. |
 | 2023-09-01 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Fått erbjudande 2023-11-23, men ännu inte svarat på<br>erbjudandet då inflyttningsdatumet är oklart pga<br>ombyggnation. |
 | 2023-09-04 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Saknas plats. |
@@ -557,18 +547,6 @@ KUNGSBACKA  KOMMUN
 | 2023-01-11 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
 | 2023-02-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
 | 2023-04-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. Individen<br>har blivit erbjuden flera uppstartsmöten men avbokat. |
-
-<!-- sida 16 -->
-
-KUNGSBACKA  KOMMUN
-5 (7)
-
-Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
-
-[Tabell 16-1](handlingar.tabeller/16-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2023-04-17 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde är föräldraledig. |
 | 2023-04-27 | 9 § 10 LSS, daglig<br>verksamhet | Tackat nej till 5 erbjudanden om uppstart, önskar<br>avvakta pga rädsla för smittspridning. |
 | 2023-05-03 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Arbetsmiljöproblem relaterade<br>till den enskilde. |
@@ -580,22 +558,24 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2023-09-20 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde har tackat nej till uppstart, missnöjd med<br>insatsens utformning. |
 | 2023-10-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 
-[Tabell 16-2](handlingar.tabeller/16-2.csv)
+<!-- sida 15 -->
+
+KUNGSBACKA  KOMMUN
+4 (7)
+
+<!-- sida 16 -->
+
+KUNGSBACKA  KOMMUN
+5 (7)
+
+Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
+
+[Tabell 16-18-1](handlingar.tabeller/16-18-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
 | 2023-05-23 | 4 kap 1 § SoL, avlösning i<br>hemmet | Avbrott i verkställighet, har<br>tacka nej till uppstart, tveksam<br>till beviljad insats. | Avslutad, 2023-11-30,<br>tackat nej till insats. |
 | 2023-05-23 | 4 kap 1 § SoL, avlösning i<br>hemmet | Avbrott i verkställighet, har<br>tacka nej till uppstart, tveksam<br>till beviljad insats. | Avslutad, 2023-11-01,<br>tackat nej till insats. |
-
-<!-- sida 17 -->
-
-KUNGSBACKA  KOMMUN
-6 (7)
-
-[Tabell 17-1](handlingar.tabeller/17-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2023-05-23 | 4 kap 1 § SoL, avlösning i<br>hemmet | Avbrott i verkställighet, har<br>tacka nej till uppstart, tveksam<br>till beviljad insats. | Avslutad, 2023-11-01,<br>tackat nej till insats. |
 | 2023-06-16 | 4 kap 1 § SoL, boendestöd | Den enskilde är i behov av lång<br>introduktion. 1 insats av 2<br>verkställd 2023-06-26. | Verkställt, 2023-11-21. |
 | 2023-07-13 | 4 kap 1 § SoL, boendestöd | 2 av 3 insatser är verkställda.<br>Den enskilde har tackat nej. | Verkställt, 2023-10-20. |
@@ -607,6 +587,20 @@ KUNGSBACKA  KOMMUN
 | 2023-06-28 | 9 § 4 LSS, kontaktperson | Personalbrist på grund av<br>nystartad verksamhet. | Verkställt, 2023-10-11. |
 | 2022-08-16 | 9 § 5 LSS, avlösarservice i<br>hemmet | Tackat nej till 2 erbjudanden,<br>2023-03-30, 2023-06-21.<br>Medverkar inte till<br>verkställighet, verksamheten får<br>inte kontakt. | Avslutat, 2023-12-05. |
 | 2022-10-12 | 9 § 5 LSS, avlösarservice i<br>hemmet | Tackat nej till erbjudande 2023-<br>04-05, tveksam till beviljad<br>insats. | Avslutat, 2023-10-05. |
+| 2023-01-11 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, tackat<br>nej till erbjudande 2023-06-19,<br>tveksam till beviljad insats. | Verkställt, 2023-11-30. |
+| 2023-02-08 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, har<br>specifika önskemål. | Verkställt, 2023-11-11. |
+| 2023-06-14 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet<br>personalbrist på grund av<br>nystartad verksamhet. | Verkställt, 2023-11-11. |
+| 2022-10-06 | 9 § 6 Korttidsvistelse i<br>form av korttidshem | Tackat nej till 3 erbjudanden,<br>2022-11-23, 2023-05-13. Och<br>2023-10-13, tveksam till<br>beviljad insats. | Verkställt, 2024-01-03. |
+| 2020-07-08 | 9 § 9 LSS, bostad för<br>vuxna | Tackat nej till 6 erbjudanden,<br>2020-12-18, 2021-10-18, 2022-<br>05-25, 2022-11-10, 2023-04-14,<br>2023-09-13. | Avslutat, 2024-01-04. |
+| 2022-07-09 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Verkställt, 2023-10-10. |
+| 2022-11-01 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Verkställt, 2023-10-17. |
+| 2022-11-05 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. | Verkställt, 2024-01-09. |
+| 2023-03-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Verkställt, 2023-10-31. |
+
+<!-- sida 17 -->
+
+KUNGSBACKA  KOMMUN
+6 (7)
 
 <!-- sida 18 -->
 
@@ -618,20 +612,6 @@ Inom vuxenenheten och familjehemsenheten finns inga ej verkställda beslut under
 Ivan Stipić                   Emelie Sandberg
 
 Förvaltningschef              Biträdande förvaltningschef
-
-[Tabell 18-1](handlingar.tabeller/18-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
-| 2023-01-11 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, tackat<br>nej till erbjudande 2023-06-19,<br>tveksam till beviljad insats. | Verkställt, 2023-11-30. |
-| 2023-02-08 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, har<br>specifika önskemål. | Verkställt, 2023-11-11. |
-| 2023-06-14 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet<br>personalbrist på grund av<br>nystartad verksamhet. | Verkställt, 2023-11-11. |
-| 2022-10-06 | 9 § 6 Korttidsvistelse i<br>form av korttidshem | Tackat nej till 3 erbjudanden,<br>2022-11-23, 2023-05-13. Och<br>2023-10-13, tveksam till<br>beviljad insats. | Verkställt, 2024-01-03. |
-| 2020-07-08 | 9 § 9 LSS, bostad för<br>vuxna | Tackat nej till 6 erbjudanden,<br>2020-12-18, 2021-10-18, 2022-<br>05-25, 2022-11-10, 2023-04-14,<br>2023-09-13. | Avslutat, 2024-01-04. |
-| 2022-07-09 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Verkställt, 2023-10-10. |
-| 2022-11-01 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Verkställt, 2023-10-17. |
-| 2022-11-05 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. | Verkställt, 2024-01-09. |
-| 2023-03-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. | Verkställt, 2023-10-31. |
 
 <!-- sida 19 -->
 
@@ -754,7 +734,7 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 2023-08-29 | Särskilt boende | Återtag 2023-11-28 |
 | 2023-09-08 | Särskilt boende | Återtag 2023-12-19 |
 
-[Tabell 21-3](handlingar.tabeller/21-3.csv)
+[Tabell 21-22-3](handlingar.tabeller/21-22-3.csv)
 
 | Beslutsdatum | Insats | Datum för verkställighet, avslut |
 | --- | --- | --- |
@@ -776,19 +756,7 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 2023-06-27 | Särskilt boende | 2023-11-29 |
 | 2023-06-27 | Särskilt boende | Avliden |
 | 2023-06-26 | Växelvård | 2023-10-24 |
-
-<!-- sida 22 -->
-
-KUNGSBACKA  KOMMUN
-3 (3)
-
-Arian Faily                   Pia Berglund
-Förvaltningschef              Verksamhetschef Myndighet & Förebyggande
-
-[Tabell 22-1](handlingar.tabeller/22-1.csv)
-
 | 2023-06-28 | Särskilt boende | 2023-11-27 |
-| --- | --- | --- |
 | 2023-06-29 | Särskilt boende | 2023-12-04 |
 | 2023-07-05 | Särskilt boende | 2023-10-22 |
 | 2023-07-18 | Särskilt boende | 2023-10-25 |
@@ -802,6 +770,14 @@ Förvaltningschef              Verksamhetschef Myndighet & Förebyggande
 | 2023-08-30 | Särskilt boende | 2023-12-09 |
 | 2023-09-06 | Särskilt boende | 2023-12-27 |
 | 2023-09-26 | Särskilt boende | 2023-12-28 |
+
+<!-- sida 22 -->
+
+KUNGSBACKA  KOMMUN
+3 (3)
+
+Arian Faily                   Pia Berglund
+Förvaltningschef              Verksamhetschef Myndighet & Förebyggande
 
 <!-- sida 23 -->
 

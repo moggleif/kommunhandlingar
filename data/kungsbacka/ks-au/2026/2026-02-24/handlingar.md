@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4c720df819c6b1741e4d1a3b/1771855197
 sha256: 2985e3516bf8dd35e863c29b4e85febdc66308256ae6316a9bb1fb079baf0f7f
 bytes: 15700371
 sidor: 201
-hamtad: 2026-10-09T11:45:28+00:00
-konverterad: 2026-10-09T11:47:10+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T09:34:17+00:00
+konverterad: 2026-10-16T09:35:48+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok]
@@ -72,26 +72,23 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
+[Tabell 3-5-1](handlingar.tabeller/3-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 8. | Beslut om genomförande av<br>detaljprojektering av allmän<br>plats och allmänna VA-<br>anläggningar inom detaljplan för<br>verksamheter inom Frillesås-Rya<br>3:77 m.fl. och godkännande av<br>bevakningsavtal | KS-2020-00049 | Förslag till beslut i kommunstyrelsen<br>7B<br>Kommunstyrelsen godkänner att detalj-<br>projektering av allmän plats och allmänna VA-<br>anläggningar inom detaljplan för verksamheter<br>inom Frillesås-Rya 3:77 m.fl. genomförs innan<br>detaljplanen får laga kraft.<br>Kommunstyrelsen godkänner bevakningsavtal<br>avseende väg 905, Rya verksamhetsområde,<br>cirkulationsplats.<br>Kommunstyrelsen ger kommundirektören i<br>uppdrag att genomföra detaljprojektering av<br>allmän plats och allmänna VA-anläggningar<br>inom detaljplan för verksamheter inom<br>Frillesås-Rya 3:77 m.fl. innan detaljplanen får<br>laga kraft.<br>Kommunstyrelsen utser kommunstyrelsens<br>ordförande och kommundirektören, eller deras<br>respektive ersättare, att för kommunens räkning<br>underteckna bevakningsavtal. |
 | 9. | Revidering av projektbeställning<br>samt överlämnande för att<br>upprätta detaljplan för bostäder,<br>centrum, utbildningslokaler och<br>parkering inom del av<br>fastigheterna Voxlöv 4:9 och del<br>av Hede 9:26 (Norra Voxlöv) | KS-2021-01109 | Förslag till beslut i kommunstyrelsen<br>8B<br>Kommunstyrelsen godkänner reviderad<br>projektbeställning för detaljplan för bostäder,<br>centrum, utbildningslokaler och parkering inom<br>del av fastigheterna Voxlöv 4:9 och del av<br>Hede 9:26, daterad 2026-02-04.<br>Kommunstyrelsen överlämnar till<br>byggnadsnämnden att upprätta förslag till<br>detaljplan för bostäder, centrum,<br>utbildningslokaler och parkering inom del av<br>fastigheterna Voxlöv 4:9 och del av Hede 9:26 i<br>enlighet med reviderad projektbeställning,<br>daterad 2026-02-04. |
+| 10. | Avstämning om Startplan<br>planprojekt/Samhällsbyggnads-<br>plan (från årshjul)<br>08:50-09:35<br>Sofia Wiman<br>Ida Lennartsson<br>Johan Gerremo | KS-2026-00018 | Förslag till beslut<br>9B<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 11. | Information från tekniska<br>nämndens presidium om fysiska<br>hinder i stadsmiljön<br>09:45-10:25<br>Monica Neptun<br>Erik Lindqvist<br>Ulrika Granfors<br>EmirHalalkic<br>Johan Arvidsson | KS-2026-00132 | Förslag till beslut<br>10B<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 12. | Dialog med Hallandstrafiken om<br>pågående förstudie inför<br>trafikupphandling Kungsbacka<br>10:30-11:30<br>Andreas Almquist<br>Gustav Sandqvist<br>Stina Alexandersson<br>Agneta Nordström<br>Peter Gustavsson | KS-2026-00067 | Förslag till beslut<br>11B<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 13. | Avstämning<br>Lokaliseringsutredning ÅVC<br>Syd<br>11:35-11:55<br>Maria Malone<br>Ida Lennartsson<br>Johan Gerremo | KS-2025-00941 | Förslag till beslut<br>12B<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 14. | Information ledamöter och<br>förvaltning | KS-2025-00975 | Förslag till beslut<br>13B<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
 
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 10. | Avstämning om Startplan<br>planprojekt/Samhällsbyggnads-<br>plan (från årshjul)<br>08:50-09:35<br>Sofia Wiman<br>Ida Lennartsson<br>Johan Gerremo | KS-2026-00018 | Förslag till beslut<br>9B<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 11. | Information från tekniska<br>nämndens presidium om fysiska<br>hinder i stadsmiljön<br>09:45-10:25<br>Monica Neptun<br>Erik Lindqvist<br>Ulrika Granfors<br>EmirHalalkic<br>Johan Arvidsson | KS-2026-00132 | Förslag till beslut<br>10B<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 12. | Dialog med Hallandstrafiken om<br>pågående förstudie inför<br>trafikupphandling Kungsbacka<br>10:30-11:30<br>Andreas Almquist<br>Gustav Sandqvist<br>Stina Alexandersson<br>Agneta Nordström<br>Peter Gustavsson | KS-2026-00067 | Förslag till beslut<br>11B<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
 
 <!-- sida 5 -->
 
@@ -101,13 +98,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Therese Tanner
 ordförande                        sekreterare
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 13. | Avstämning<br>Lokaliseringsutredning ÅVC<br>Syd<br>11:35-11:55<br>Maria Malone<br>Ida Lennartsson<br>Johan Gerremo | KS-2025-00941 | Förslag till beslut<br>12B<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 14. | Information ledamöter och<br>förvaltning | KS-2025-00975 | Förslag till beslut<br>13B<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
 
 <!-- sida 6 -->
 

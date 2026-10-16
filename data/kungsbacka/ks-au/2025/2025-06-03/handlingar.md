@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.bbad0dc197168355755c5db/17486174142
 sha256: 9cfe3f44adc4e701e73949be692e525aca91fffbfa0438e02fd5aaf3f9278c0a
 bytes: 105283822
 sidor: 255
-hamtad: 2026-10-09T10:22:22+00:00
-konverterad: 2026-10-09T10:25:42+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T08:16:41+00:00
+konverterad: 2026-10-16T08:20:29+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
-tal_obekraftade: [74, 76, 80, 81, 82, 83, 84, 86, 87, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 181, 254, 255]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
+tal_obekraftade: [74, 76, 80, 81, 82, 83, 84, 86, 87, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 181, 230, 254, 255]
 figurer: [8, 15, 16, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 32, 33, 35, 36, 37, 39, 42, 43, 44, 50, 55, 57, 59, 60, 61, 62, 63, 64, 65, 71, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 97, 118, 119, 133, 134, 138, 147, 152, 154, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 176, 177, 178, 179, 185, 191, 193, 194, 195, 197, 198, 199, 201, 206, 212, 215, 220, 222, 224, 228, 230, 231, 233, 234, 236, 237, 238, 239]
 tolkade: []
 ---
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -66,22 +66,19 @@ KUNGSBACKA  KOMMUN
 | 5. | Ansökan om verksamhetsstöd -<br>Ung Företagsamhet 2025/2026 -<br>2027/2028 | 2024-00855 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen beviljar ny finansieringsperiod<br>för Ung Företagsamhet Halland, med 299 632<br>kronor per år för läsåren 2025/2026, 2026/2027 och<br>2027/2028. |
 | 6. | Svar på Länsstyrelsen i<br>Hallands remiss av förslag till<br>bildande av Fälareds<br>naturreservat i Kungsbacka<br>kommun | 2025-00298 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande daterat, 2025-05-14<br>och översänder som sitt svar till Länsstyrelsen i<br>Hallands län |
 | 7. | Begäran om planbesked för<br>Kyvik 3:147 | 2025-00249 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplaneläggning för att pröva<br>lämpligheten av att anpassa byggrätten inom Kyvik<br>3:147.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för planändring med<br>syftet att anpassa byggrätten inom Kyvik 3:147 i<br>Kullavik. |
+| 8. | Lokaliseringsutredning ny isyta<br>för träning | 2022-00920 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner lokaliseringsutredning<br>för ny isyta för träning, daterad 2025-05-14.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för ishall inom del av Skårby 12:1 i<br>Kungsbacka. |
+| 9. | Svar på motion från Roger<br>Larsson (KB) om kostnadsfri<br>utdelning av broddar till<br>invånare som är 65 år eller äldre | 2024-00851 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att åtgärden bedöms ha begränsad<br>påverkan på antal fallolyckor. |
+| 10. | Information om ny lagstiftning<br>för stärkt skydd för vissa<br>förtroendevalda<br>08:30-09:00<br>Jonas Lebrand<br>Jesper Edlind<br>Sofia Jonsson | 2025-00405 | - |
+| 11. | Information om aktuellt<br>kommunikationsarbete (från<br>årshjul)<br>09:05-09:50<br>Annika Jardin<br>Ida Jost<br>Victoria Forsberg<br>Sofie Pettersson | 2025-00051 | - |
+| 12. | Dialog med regionstyrelsens<br>arbetsutskott i Region Halland<br>10:00-11:30<br>Regionstyrelsens arbetsutskott<br>Regiondirektör<br>Regional utvecklingsdirektör<br>Hälso- och sjukvårdsdirektör | 2025-00055 | - |
+| 13. | Information om Stiftelsen<br>Tjolöholm<br>11:35-12:00<br>Christina Hermansson<br>Linnéa Princis<br>Sofia Jonsson | 2025-00098 | - |
+| 14. | Information från ledamöter och<br>förvaltning | 2025-00025 | - |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Lokaliseringsutredning ny isyta<br>för träning | 2022-00920 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner lokaliseringsutredning<br>för ny isyta för träning, daterad 2025-05-14.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för ishall inom del av Skårby 12:1 i<br>Kungsbacka. |
-| 9. | Svar på motion från Roger<br>Larsson (KB) om kostnadsfri<br>utdelning av broddar till<br>invånare som är 65 år eller äldre | 2024-00851 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att åtgärden bedöms ha begränsad<br>påverkan på antal fallolyckor. |
-| 10. | Information om ny lagstiftning<br>för stärkt skydd för vissa<br>förtroendevalda<br>08:30-09:00<br>Jonas Lebrand<br>Jesper Edlind<br>Sofia Jonsson | 2025-00405 | - |
-| 11. | Information om aktuellt<br>kommunikationsarbete (från<br>årshjul)<br>09:05-09:50<br>Annika Jardin<br>Ida Jost<br>Victoria Forsberg<br>Sofie Pettersson | 2025-00051 | - |
-| 12. | Dialog med regionstyrelsens<br>arbetsutskott i Region Halland<br>10:00-11:30<br>Regionstyrelsens arbetsutskott<br>Regiondirektör<br>Regional utvecklingsdirektör<br>Hälso- och sjukvårdsdirektör | 2025-00055 | - |
 
 <!-- sida 4 -->
 
@@ -91,13 +88,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 13. | Information om Stiftelsen<br>Tjolöholm<br>11:35-12:00<br>Christina Hermansson<br>Linnéa Princis<br>Sofia Jonsson | 2025-00098 | - |
-| 14. | Information från ledamöter och<br>förvaltning | 2025-00025 | - |
 
 <!-- sida 5 -->
 
@@ -9138,9 +9128,9 @@ Flexibel användning av Arenatorget
 Exteriöra perspektiv Vpläartms aa tut phpä nfögra s, tmreöetet sidprloattts,. Parkering Sfoäosdotnrugcskbse,t monaatfdees tmivaarl.knader, Fågelpost morgonterrass Cykelbana Huvudentré Mindre konserter, evenemang.
 Lek, dagvatten, rekreation. Vinteraktiviteter.
 Träningsbåna
-5 min
-5 min
-5 min
+5min
+5min
+5min
 Otoilclp hot imf m uga nil kv a tai n onsdn l eeu r t sntinadg Editat lonygt tm teodrg c seonmtru smtår i Nmfra aåm tnugt r i fd oas clds h äs b kor ioma l r o o g m isk rå det
 Situaionsplan 1:200 (A1) “KRONA” 3/12
 Situationsplan över föreslagen arena. Semrén &
@@ -9815,7 +9805,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7D110C9AB7A7C5277536B23924B731BCED379644EB
 Transaktionsidentitet: 20A61BDDED5E38925CD982A8652FF26C6407D92719
 
-[Tabell 245-1](handlingar.tabeller/245-1.csv)
+[Tabell 245-246-1](handlingar.tabeller/245-246-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -9826,6 +9816,10 @@ Transaktionsidentitet: 20A61BDDED5E38925CD982A8652FF26C6407D92719
 | Astrid Börjesson (S) |  |  | X |
 | Eva Tingström (S) |  |  | X |
 | Per Hoel (SD) |  | X |  |
+| Göran Ottosson (SD) |  | X |  |
+| Bengt Alderin (C) | X |  |  |
+| Ulrika Högstrand (KD) | X |  |  |
+| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 246 -->
 
@@ -9843,14 +9837,6 @@ Kommunstyrelsen
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7D110C9AB7A7C5277536B23924B731BCED379644EB
 Transaktionsidentitet: 20A61BDDED5E38925CD982A8652FF26C6407D92719
-
-[Tabell 246-1](handlingar.tabeller/246-1.csv)
-
-| Göran Ottosson (SD) |  | X |  |
-| --- | --- | --- | --- |
-| Bengt Alderin (C) | X |  |  |
-| Ulrika Högstrand (KD) | X |  |  |
-| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 247 -->
 

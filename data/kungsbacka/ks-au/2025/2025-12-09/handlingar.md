@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.7afd6e1d19ae7d4de8b1d70/17648426823
 sha256: c9516b97af17ac4639930467196f2a567dfe59a991eb7682e721dc6d3dfc5962
 bytes: 39783867
 sidor: 291
-hamtad: 2026-10-09T11:30:40+00:00
-konverterad: 2026-10-09T11:37:00+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T09:20:53+00:00
+konverterad: 2026-10-16T09:26:19+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ej-konverterad, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ocr, ok, ocr, ok, ocr, ok, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ocr, ok, ocr, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, tabell-osaker, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ej-konverterad, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ocr, ok, ocr, ok, ocr, ok, ocr]
 tal_obekraftade: [9, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 94, 98, 100, 108, 129, 137, 141, 163, 176, 185, 192, 196, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 231, 235, 260, 261, 262, 267, 268, 269, 271, 278, 281, 285, 287, 289, 291]
 figurer: [110, 119, 120, 128, 136, 138, 139, 140, 153, 160, 167, 170, 172, 173, 215, 216, 218, 219, 220, 221, 227, 228, 229, 230, 232, 237, 238, 239, 242, 243, 244, 245, 246, 247]
 tolkade: []
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -67,21 +67,20 @@ KUNGSBACKA  KOMMUN
 | 7. | Svar på remiss från Mölndals<br>stad av Reviderad dagvatten-<br>strategi för Mölndals stad | KS-2025-00786 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat<br>2025-11-04, och översänder det som sitt svar till<br>Mölndals stad. |
 | 8. | Uppstart av projekt i lokalplan<br>Boende med särskild service<br>(BmSS) | KS-2025-00830 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner uppstart av projekt<br>Boende med särskild service.<br>Kommunstyrelsen godkänner att finansiering<br>sker genom att ianspråkta investeringsmedel 800<br>000 kronor år 2026, engångsdrift 400 000 kronor<br>år 2026 samt driftskostnad 1 800 000 kronor år<br>2027 från löpnummer 1202 Oförutsedda behov. |
 | 9. | Begäran om planbesked för del<br>av Össlöv S:3 | KS-2025-00585 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>inte avser att pröva den begärda åtgärden genom<br>planläggning inom del av Össlöv 2:3 och del av<br>Össlöv s:3. |
+| 10. | Vinnare Hållbarhetspris 2025 | KS-2025-00645 |  |
+| 11. | Priser och utmärkelser i<br>Kungsbacka kommun<br>08:40-08:55<br>Annika Jardin | KS-2024-00605 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beslutar att<br>Hållbarhetspriset, Lära för livet-priset och<br>Arkitekturpriset ska avvecklas. Styrdokumenten<br>som reglerar dessa priser upphör samtidigt att<br>gälla.<br>Leva livet-priset och Självständigt liv inte längre<br>ska delas ut i kommunfullmäktige utan överlåtas<br>till nämnden för Vård & Omsorg respektive<br>nämnden för Individ & Familjeomsorg.<br>Nämnderna beslutar framöver om prisernas<br>framtid och utformning samt om de<br>styrdokument som reglerar priserna. |
+| 12. | Avstämning Kungsbacka Arena<br>09:00-09:30<br>Sven-Erik Bergström<br>Lena Melvinsdotter<br>Marie Persson<br>Harald Tjelle<br>Alexander Arvidsson<br>Peter Johansson<br>Pia Eklund<br>Anna Rehnberg<br>Ing-Britt Blomberg<br>Julia Tryggvadottir Tollesson | KS-2020-00547 | Förslag till beslut<br>Informationen noteras till protokollet. |
+| 13. | Avstämning markanvisning<br>Gjutaren och Liljan<br>09:35-09:55<br>Fortesa Bytyqi<br>Johan Gerremo | KS-2019-00547 | Förslag till beslut<br>Informationen noteras till protokollet. |
+| 14. | Information - Hållbart boende<br>(årshjul)<br>10:10-10:40 (teams)<br>Märta Lycken<br>Patrik Hellberg<br>Christer Kilersjö<br>Johan Burman<br>Lovisa Eld<br>Presidiet i nämnden för<br>Gymnasium och Arbetsmarknad | KS-2025-00023 | Förslag till beslut<br>Informationen noteras till protokollet. |
+| 15. | Avstämning utbyggnadsplan för<br>Kungsbacka<br>10:45-11:15<br>Linnea Rönnquist<br>Ulrika Granfors<br>Catarina Sundberg<br>Mathias Pedersen<br>Johan Gerremo<br>Lovisa Eld | KS-2024-00698 | Förslag till beslut<br>Informationen noteras till protokollet. |
+| 16. | Dialog underlag kommunbudget<br>2027<br>11:20-11:50<br>Anders Johansson<br>Christina Hermansson | KS-2025-00785 | Förslag till beslut<br>Informationen noteras till protokollet. |
+| 17. | Information från ledamöter och<br>förvaltning | KS-2025-00025 | Förslag till beslut<br>Informationen noteras till protokollet. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 10. | Vinnare Hållbarhetspris 2025 | KS-2025-00645 |  |
-| 11. | Priser och utmärkelser i<br>Kungsbacka kommun<br>08:40-08:55<br>Annika Jardin | KS-2024-00605 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beslutar att<br>Hållbarhetspriset, Lära för livet-priset och<br>Arkitekturpriset ska avvecklas. Styrdokumenten<br>som reglerar dessa priser upphör samtidigt att<br>gälla.<br>Leva livet-priset och Självständigt liv inte längre<br>ska delas ut i kommunfullmäktige utan överlåtas<br>till nämnden för Vård & Omsorg respektive<br>nämnden för Individ & Familjeomsorg.<br>Nämnderna beslutar framöver om prisernas<br>framtid och utformning samt om de<br>styrdokument som reglerar priserna. |
-| 12. | Avstämning Kungsbacka Arena<br>09:00-09:30<br>Sven-Erik Bergström<br>Lena Melvinsdotter<br>Marie Persson<br>Harald Tjelle<br>Alexander Arvidsson<br>Peter Johansson<br>Pia Eklund<br>Anna Rehnberg<br>Ing-Britt Blomberg<br>Julia Tryggvadottir Tollesson | KS-2020-00547 | Förslag till beslut<br>Informationen noteras till protokollet. |
-| 13. | Avstämning markanvisning<br>Gjutaren och Liljan<br>09:35-09:55<br>Fortesa Bytyqi<br>Johan Gerremo | KS-2019-00547 | Förslag till beslut<br>Informationen noteras till protokollet. |
 
 <!-- sida 4 -->
 
@@ -92,15 +91,6 @@ KUNGSBACKA  KOMMUN
 Lisa Andersson                    Therese Tanner
 
 ordförande                        sekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 14. | Information - Hållbart boende<br>(årshjul)<br>10:10-10:40 (teams)<br>Märta Lycken<br>Patrik Hellberg<br>Christer Kilersjö<br>Johan Burman<br>Lovisa Eld<br>Presidiet i nämnden för<br>Gymnasium och Arbetsmarknad | KS-2025-00023 | Förslag till beslut<br>Informationen noteras till protokollet. |
-| 15. | Avstämning utbyggnadsplan för<br>Kungsbacka<br>10:45-11:15<br>Linnea Rönnquist<br>Ulrika Granfors<br>Catarina Sundberg<br>Mathias Pedersen<br>Johan Gerremo<br>Lovisa Eld | KS-2024-00698 | Förslag till beslut<br>Informationen noteras till protokollet. |
-| 16. | Dialog underlag kommunbudget<br>2027<br>11:20-11:50<br>Anders Johansson<br>Christina Hermansson | KS-2025-00785 | Förslag till beslut<br>Informationen noteras till protokollet. |
-| 17. | Information från ledamöter och<br>förvaltning | KS-2025-00025 | Förslag till beslut<br>Informationen noteras till protokollet. |
 
 <!-- sida 5 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3632c6c019a1532ee4783df9/1761825665
 sha256: c5ab823af661d6c37446e4c43cd725ce0be21c2a43dce2f1c0e49eff5d3672e5
 bytes: 69743125
 sidor: 398
-hamtad: 2026-10-09T11:04:09+00:00
-konverterad: 2026-10-09T11:11:59+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T08:56:31+00:00
+konverterad: 2026-10-16T09:03:45+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, tabell-osaker, tabell-osaker, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, tabell-osaker, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
@@ -56,7 +56,7 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-5-1](handlingar.tabeller/2-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -64,6 +64,16 @@ KUNGSBACKA  KOMMUN
 | 4. | Redovisning av icke<br>färdigberedda motioner<br>(2, 2025) | KS-2025-00050 | Förslag till beslut<br>Kommunfullmäktige noterar redovisningen av<br>icke färdigberedda motioner till och med<br>2025-10-10. |
 | 5. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för bostäder inom<br>Frillesås-Rya 2:35 m.fl.<br>(tidigare Handelsträdgården) | KS-2020-00686 | Förslag till beslut<br>Kommunstyrelsen godkänner<br>projektbeställning för detaljplan för bostäder<br>inom Frillesås-Rya 2:35, 2:127 och Frillesås-<br>Rya 2:11 i Frillesås, daterad 2025-05-19.<br>Kommunstyrelsen överlämnar till<br>byggnadsnämnden att upprätta förslag till<br>detaljplan för bostäder inom Frillesås-Rya 2:35,<br>2:127 och Frillesås-Rya 2:11 i Frillesås. |
 | 6. | Antagande av detaljplan för<br>bostäder, verksamheter och<br>restaurang inom Skällared 3:55<br>m fl i Gottskär | KS-2025-00320 | Förslag till beslut<br>Kommunfullmäktige antar detaljplan för<br>bostäder, verksamheter och restaurang inom<br>Skällared 3:55 m fl. i Onsala, upprättad 2025-<br>08-12. |
+| 7. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för busshållplats<br>Gottskär, bussvändslinga och<br>del av Gottskärsvägen i<br>Gottskär | KS-2021-00486 | Förslag till beslut<br>Kommunstyrelsen godkänner<br>projektbeställning för detaljplan för<br>busshållplats Gottskär, bussvändslinga och del<br>av Gottskärsvägen i Gottskär, daterad<br>2025-10-15.<br>Kommunstyrelsen överlämnar till<br>byggnadsnämnden att upprätta förslag till<br>detaljplan för busshållplats Gottskär,<br>bussvändslinga och del av Gottskärsvägen i<br>Gottskär. |
+| 8. | Revidering av<br>avfallsföreskrifter | KS-2025-00705 | Förslag till beslut<br>Kommunfullmäktige antar Lokala<br>avfallsföreskrifter daterade 2025-09-24, att ingå<br>i Kungsbacka kommuns renhållningsordning,<br>antagen av kommunfullmäktige 2016-12-06,<br>§ 198<br>Lokala avfallsföreskrifter gäller från den 1<br>januari 2026.<br>Lokala avfallsföreskrifter beslutade av<br>kommunfullmäktige 2024-02-06, § 13 upphör<br>samtidigt att gälla. |
+| 9. | Remittering av motion från<br>Christer Perfjell (KB) om att<br>behålla lokala VA-lösningar till<br>dess att kommunen säkrat<br>långsiktig VA-försörjning | KS-2025-00670 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Teknik för<br>beredning. |
+| 10. | Remittering av motion från<br>Magdalena Sundqvist (S) om<br>ökad insyn i kommunalt<br>aktiebolag och kommunal<br>stiftelse | KS-2025-00672 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till kommunstyrelsens förvaltning för<br>beredning. |
+| 11. | Information -organisation<br>Brottsförebyggande arbete<br>08:50-09:35<br>Karl Persson<br>Rickard Vidlund<br>Jenny Sjöström, kommunpolis | KS-2025-00555 | Förslag till beslut |
+| 12. | Information- Säkerhet och<br>beredskap (från årshjul)<br>09:50-10:35<br>Jesper Edlind | KS-2025-00054 | Förslag till beslut |
+| 13. | Avstämning - Framtidens<br>avloppsreningsverk<br>10:40-11:20<br>Ulrika Granfors<br>Joakim Ekberg | KS-2022-00679 | Förslag till beslut |
+| 14. | Avstämning om markanvisning<br>kvarteret Ejdern<br>11:25-12:00<br>Fortesa Bytyqi<br>Johan Gerremo<br>Mikaela Ropel | KS-2023-00651 | Förslag till beslut |
+| 15. | Information om fördjupad<br>översiktsplan (FÖP) för<br>Kungsbacka stad<br>13:00-13:30<br>Andrea Ericsson<br>Anders Lund | KS-2020-00313 | Förslag till beslut |
+| 16. | Information från ledamöter och<br>förvaltning | KS-2025-00025 | Förslag till beslut |
 
 <!-- sida 3 -->
 
@@ -71,30 +81,11 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 7. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för busshållplats<br>Gottskär, bussvändslinga och<br>del av Gottskärsvägen i<br>Gottskär | KS-2021-00486 | Förslag till beslut<br>Kommunstyrelsen godkänner<br>projektbeställning för detaljplan för<br>busshållplats Gottskär, bussvändslinga och del<br>av Gottskärsvägen i Gottskär, daterad<br>2025-10-15.<br>Kommunstyrelsen överlämnar till<br>byggnadsnämnden att upprätta förslag till<br>detaljplan för busshållplats Gottskär,<br>bussvändslinga och del av Gottskärsvägen i<br>Gottskär. |
-| 8. | Revidering av<br>avfallsföreskrifter | KS-2025-00705 | Förslag till beslut<br>Kommunfullmäktige antar Lokala<br>avfallsföreskrifter daterade 2025-09-24, att ingå<br>i Kungsbacka kommuns renhållningsordning,<br>antagen av kommunfullmäktige 2016-12-06,<br>§ 198<br>Lokala avfallsföreskrifter gäller från den 1<br>januari 2026.<br>Lokala avfallsföreskrifter beslutade av<br>kommunfullmäktige 2024-02-06, § 13 upphör<br>samtidigt att gälla. |
-| 9. | Remittering av motion från<br>Christer Perfjell (KB) om att<br>behålla lokala VA-lösningar till<br>dess att kommunen säkrat<br>långsiktig VA-försörjning | KS-2025-00670 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Teknik för<br>beredning. |
-| 10. | Remittering av motion från<br>Magdalena Sundqvist (S) om<br>ökad insyn i kommunalt<br>aktiebolag och kommunal<br>stiftelse | KS-2025-00672 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till kommunstyrelsens förvaltning för<br>beredning. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | Information -organisation<br>Brottsförebyggande arbete<br>08:50-09:35<br>Karl Persson<br>Rickard Vidlund<br>Jenny Sjöström, kommunpolis | KS-2025-00555 | Förslag till beslut |
-| 12. | Information- Säkerhet och<br>beredskap (från årshjul)<br>09:50-10:35<br>Jesper Edlind | KS-2025-00054 | Förslag till beslut |
-| 13. | Avstämning - Framtidens<br>avloppsreningsverk<br>10:40-11:20<br>Ulrika Granfors<br>Joakim Ekberg | KS-2022-00679 | Förslag till beslut |
-| 14. | Avstämning om markanvisning<br>kvarteret Ejdern<br>11:25-12:00<br>Fortesa Bytyqi<br>Johan Gerremo<br>Mikaela Ropel | KS-2023-00651 | Förslag till beslut |
-| 15. | Information om fördjupad<br>översiktsplan (FÖP) för<br>Kungsbacka stad<br>13:00-13:30<br>Andrea Ericsson<br>Anders Lund | KS-2020-00313 | Förslag till beslut |
 
 <!-- sida 5 -->
 
@@ -104,12 +95,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Therese Tanner
 ordförande                        sekreterare
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 16. | Information från ledamöter och<br>förvaltning | KS-2025-00025 | Förslag till beslut |
 
 <!-- sida 6 -->
 
@@ -3213,7 +3198,7 @@ Delegering av beslutanderätt Kommunstyrelsen
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 9 (23)
 
-[Tabell 74-1](handlingar.tabeller/74-1.csv)
+[Tabell 74-75-1](handlingar.tabeller/74-75-1.csv)
 
 |  |  |  | Kommunjurist<br>Verksamhetschef inom sitt ansvarsområde<br>Avseende arkivmyndighet:<br>Arkivarie<br>Specialist informationsförvaltning<br>Kommunjurist<br>Avseende visselblåsarfunktionen:<br>Utsedda behöriga personer |  |
 | --- | --- | --- | --- | --- |
@@ -3221,21 +3206,17 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 9 (23)
 | 2.1.6 | OSL 6 kap 1 a § | Avgift ska betalas helt eller delvis innan avskriften<br>eller kopia av allmän handling lämnas ut. | Registrator<br>Arkivarie<br>Specialist informationsförvaltning<br>Verksamhetschef administration |  |
 | 2.1.7 | FL 45 § | Avvisa för sent inkommet överklagande. | Kommunsekreterare<br>Kommunjurist |  |
 | 2.1.8 | Reglementet | Kommunen lämnar inget yttrande föranledd av remiss<br>från annan part. | Kommundirektör<br>Biträdande kommundirekör<br>Samhällsbyggnadschef<br>Verksamhetschef administration<br>Kommunsekreterare<br>Utredare | Efter samråd med kommunstyrelsens<br>ordförande. |
-
-<!-- sida 75 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 10 (23)
-
-[Tabell 75-1](handlingar.tabeller/75-1.csv)
-
 |  |  |  | Registrator |  |
-| --- | --- | --- | --- | --- |
 | 2.1.9 | Gemensamt<br>reglemente för<br>kommunstyrelsen<br>och övriga nämnder | Utse ombud att föra kommunens talan i mål och<br>ärenden vid rättegång eller förrättning inför domstol<br>och andra myndigheter, med rätt att sätta annan i sitt<br>ställe. | Kommundirektör<br>Biträdande kommundirekör<br>Samhällsbyggnadschef<br>Kommunjurist | Undantag när det på grund av lag eller<br>kommunfullmäktiges beslut ankommer på<br>annan att företräda kommunen. |
 | 2.1.10 | GDPR, artikel 37 | Utnämna dataskyddsombud för kommunstyrelsen | Verksamhetschef administration |  |
 | 2.1.11 | GDPR artikel 15-21,<br>23 och<br>dataskyddslagen 5<br>kap 1-3 §§ | Helt eller delvis avslå framställan om begäran av<br>utövande av registrerads rättigheter. | Kommundirektör<br>Biträdande kommundirekör<br>Samhällsbyggnadschef<br>Verksamhetschef administration<br>Registrator<br>Kommunjurist<br>Kommunsekreterare<br>Verksamhetschef inom sitt ansvarsområde<br>Avseende arkivmyndighet:<br>Arkivarie<br>Specialist informationsförvaltning<br>Verksamhetschef administration<br>Kommunjurist |  |
 | 2.1.12 | Riktlinjer för<br>personuppgifts-<br>behandling, GDPR<br>artikel 28 | Ge fullmakt att underteckna<br>personuppgiftsbiträdesavtal för digital tjänst eller<br>system som ska användas gemensamt med en eller<br>flera andra nämnder. | Kommundirektör<br>Biträdande kommundirekör<br>Samhällsbyggnadschef<br>Verksamhetschefer | Fullmakt får ges till tjänsteperson som ska<br>vara systemägare för tjänsten eller<br>systemet. |
 | 2.1.13 | Riktlinjer för<br>personuppgifts-<br>behandling, GDPR<br>artikel 28 | Ingå personuppgiftsbiträdesavtal för<br>kommungemensamma digitala tjänster och system. | Kommundirektör<br>Biträdande kommundirektör | Avser kommungemensamma tjänster och<br>system som används av kommunens<br>samtliga nämnder.<br>Kommungemensamma system som<br>stödjer kommungemensamma<br>stödprocesser som utförs av Service eller<br>kommunstyrelsen enligt reglemente<br>omfattas inte. |
 | 2.1.14 | GDPR artikel 30 | Fastställa kommunstyrelsens register över<br>personuppgiftsbehandlingar. | Dataskyddskontakt<br>Verksamhetschef administration |  |
+
+<!-- sida 75 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 10 (23)
 
 <!-- sida 76 -->
 

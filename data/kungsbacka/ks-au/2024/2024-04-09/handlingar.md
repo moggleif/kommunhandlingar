@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.18dce30518e5f9bec472eb82/1712558504
 sha256: 5bc8bfa19bf8515c5969d0c7281c5109bc4060a7177f91b087ad733774694a85
 bytes: 186291405
 sidor: 278
-hamtad: 2026-10-09T08:44:47+00:00
-konverterad: 2026-10-09T08:50:19+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T06:36:29+00:00
+konverterad: 2026-10-16T06:42:54+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tom, ok, tom, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ej-konverterad, ok, ok, ocr, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok]
-tal_obekraftade: [31, 46, 56, 73, 74, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 165, 166, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 195, 196, 197, 198, 199, 207, 208, 209, 210, 211, 212, 213, 217, 220, 225, 232, 233, 234, 273]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tom, ok, tom, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ej-konverterad, ok, ok, ocr, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok]
+tal_obekraftade: [31, 46, 56, 73, 74, 144, 145, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 165, 166, 167, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 194, 195, 196, 197, 198, 199, 207, 208, 209, 210, 211, 212, 213, 217, 220, 225, 232, 233, 234, 273]
 figurer: [31, 67, 68, 69, 74, 85, 86, 87, 94, 101, 194, 195, 196, 197, 198, 199, 221, 225, 232, 233, 251, 252, 253, 254, 255, 256, 259, 265, 269, 270, 278]
 tolkade: []
 ---
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(7)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-6-1](handlingar.tabeller/2-6-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -67,6 +67,18 @@ KUNGSBACKA  KOMMUN
 | 7. | Svar på motion från Roger<br>Larsson (KB) om<br>uppställningsplats för husbilar | 2023-00511 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till andra platser inom Kungsbacka stad<br>har bättre förutsättningar för tillskapandet av<br>uppställningsplatser för husbilar. |
 | 8. | Redovisning av utredning av<br>möjligheterna att skapa fler<br>uppställningsplatser för husbilar<br>och husvagnar i Kungsbacka<br>stad | 2022-00236 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar utredning av<br>möjligheterna att skapa fler uppställningsplatser för<br>husbilar och husvagnar i Kungsbacka stad, och<br>förklarar uppdraget som lämnades av<br>kommunfullmäktige den 8 februari 2022, för<br>avslutat.<br>Kommunfullmäktige ger nämnden för Teknik i<br>uppdrag att fortsätta arbetet med att skapa<br>uppställningsplatser för husbilar och husvagnar inom<br>fastigheten Inlagsby 1:1 i Kungsbacka stad. |
 | 9. | Riktlinjer för<br>informationssäkerhet 2023-<br>2026 | 2023-00670 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Riktlinjer för<br>informationssäkerhet, daterade 2024-02-21. |
+| 10. | Ombudgeteringar och<br>resultatfonder 2023<br>Klockan 09:00-09:45<br>Ing-Britt Blomberg<br>Christina Hermansson | 2024-00167 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige minskar resultatfonderna med<br>en total summa av 76 190 000 kronor.<br>Kommunfullmäktige utökar nämndernas ramar med<br>13 162 000 kronor. Finansiering sker från<br>kommunfullmäktiges anslag för oförutsedda medel<br>med 10 000 000 kronor samt 3 162 000 kronor från<br>kommunstyrelsens anslag för oförutsedda medel.<br>Kommunfullmäktige godkänner ombudgetering<br>samt omplanering av investeringar och<br>exploateringar från 2023 till år 2024 med<br>437 829 000 kronor med en total investerings- och<br>exploateringsvolym på 1 444 730 000 kronor för<br>2024.<br>Kommunfullmäktige godkänner ombudgetering av<br>investeringar från 2023 och till år 2025 med 500 000<br>kronor.<br>Investeringsvolymen finansieras inom ramen för<br>kommunfullmäktiges beslut med begränsningen om<br>att den totala låneskulden inte överstiger<br>totalbeloppet om 2 066,5 miljoner kronor år 2024,<br>(Kommunbudget 2024, antagen av<br>kommunfullmäktige 2023-06-14, § 73). |
+| 11. | Godkännande av<br>avsiktsförklaring mellan<br>Kungsbacka kommun och<br>Trafikverket gällande<br>utbyggnad av Västkustbanan till<br>fyrspår | 2023-00527 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner avsiktsförklaringen<br>med Trafikverket angående förutsättningar för<br>fortsatt samverkan kring utbyggnad av<br>Västkustbanan till fyrspår, daterad 2024-03-12.<br>Kommunstyrelsens ordförande eller hennes ersättare<br>utses att för kommunens räkning underteckna<br>avsiktsförklaringen. |
+| 12. | Förvärv av fastigheten Varla 1:5 | 2024-00185 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott godkänner<br>köpeavtal för fastigheten Varla 1:5, undertecknat av<br>säljaren 2024-03-04, för en total köpeskilling om<br>7 500 000 kronor.<br>Finansiering sker via Samhällsbyggnadskontorets<br>budget för markinköp.<br>Kommunstyrelsens arbetsutskott utser<br>kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>att för kommunens räkning underteckna<br>köpekontraktet samt övriga nödvändiga handlingar<br>för ärendets genomförande. |
+| 13. | Godkännande av tilläggsavtal<br>till avtal om marköverlåtelse<br>och genomförande avseende<br>fastigheten Kolla 5:151 i Kolla<br>Parkstad | 2019-00398 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner tilläggsavtal till avtal<br>om marköverlåtelse och genomförande mellan<br>kommunen och Maxemal Fastigheter Kolla 2 AB,<br>undertecknat av bolaget 2024-03-08.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>och andra i ärendet nödvändiga handlingar. |
+| 14. | Godkännande av ny inriktning<br>för detaljplaneuppdrag samt<br>överlämnande för att upprätta<br>detaljplan för bostäder inom<br>fastigheten Skårby 2:3 | 2019-00413 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner ny inriktning för<br>detaljplaneuppdraget för Skårby 2:3 med blandad<br>småhusbebyggelse, flerbostadshus, panncentral och<br>utredning av behov av kommunal service samt att<br>tidigare inriktning med endast radhus och villor<br>utgår.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att fortsätta planläggningen av fastigheten Skårby<br>2:3 med ny inriktning. |
+| 15. | Godkännande av förslag till<br>markanvisningsavtal avseende<br>del av Skårby 2:3 i Anneberg | 2021-00907 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsens godkänner förslag till<br>markanvisningsavtal avseende del av Skårby 2:3,<br>mellan kommunen och Eksta Bostads AB,<br>undertecknat av bolaget 2024-03-24.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>och andra i ärendet nödvändiga handlingar.<br>Kommunstyrelsen upphäver tidigare beslut om att<br>förbereda försäljning av småhustomter inom<br>fastigheten Skårby 2:3 via mäklare, som lämnades<br>av kommunstyrelsen 2019-09-24, § 231. |
+| 16. | Överföring av direktanvisning<br>av mark inom fastigheten<br>Skårby 12:1 i Björkris | 2021-00985 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner överföring av<br>direktanvisning av mark inom fastigheten Skårby<br>12:1 från Jemmett AB till Jemmett Björkris AB. |
+| 17. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för bostäder inom<br>Skörvalla 1:116 | 2020-00171 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för bostäder inom Skörvalla 1:116 i Särö,<br>daterad 2024-03-18.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att fortsätta arbetet med att upprätta förslag till<br>detaljplan för bostäder inom Skörvalla 1:116 i Särö,<br>i enlighet med godkänd projektbeställning |
+| 18. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplaner inom Malevik 1:41,<br>Bångsbo 1:30 m .fl. och Vallda<br>17:17 m. fl. | 2024-00210 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>Projekt småplaner - Malevik 1:41, Bångsbo 1:30<br>m.fl. och Vallda 17:17 m.fl.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplaner enligt<br>projektbeställning samt beslutade planbesked. |
+| 19. | Begäran om planbesked för Åsa<br>5:101 och 5:161 | 2023-00868 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av flerbostadshus inom Åsa 5:101 och<br>5:161 i Åsa. Exploateringens omfattning, så som<br>antalet lägenheter ska utredas under<br>detaljplanearbetet.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för bostäder inom Åsa 5:101 och 5:161. |
+| 20. | Antagande av Lokala<br>ordningsföreskrifter för<br>torghandel | 2022-00696 | Förslag till beslut i kommunfullmullmäktige<br>Kommunfullmäktige antar Lokala<br>ordningsföreskrifter för torghandel, daterade 2024-<br>03-08.<br>Lokala ordningsföreskrifter för torghandel, antagna<br>av kommunfullmäktige 2016-06-16, § 106, upphör<br>samtidigt att gälla. |
+| 21. | Information om arbetet med<br>Regional plan inför remiss<br>Klockan 10:00-10:45<br>Raquel Sandblad<br>Anders Lund<br>Region Halland<br>Ann Mårtensson, projektledare<br>Erik Hansson, projektledare | 2023-00051 | - |
 
 <!-- sida 3 -->
 
@@ -74,26 +86,11 @@ KUNGSBACKA  KOMMUN
 
 3(7)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 10. | Ombudgeteringar och<br>resultatfonder 2023<br>Klockan 09:00-09:45<br>Ing-Britt Blomberg<br>Christina Hermansson | 2024-00167 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige minskar resultatfonderna med<br>en total summa av 76 190 000 kronor.<br>Kommunfullmäktige utökar nämndernas ramar med<br>13 162 000 kronor. Finansiering sker från<br>kommunfullmäktiges anslag för oförutsedda medel<br>med 10 000 000 kronor samt 3 162 000 kronor från<br>kommunstyrelsens anslag för oförutsedda medel.<br>Kommunfullmäktige godkänner ombudgetering<br>samt omplanering av investeringar och<br>exploateringar från 2023 till år 2024 med<br>437 829 000 kronor med en total investerings- och<br>exploateringsvolym på 1 444 730 000 kronor för<br>2024.<br>Kommunfullmäktige godkänner ombudgetering av<br>investeringar från 2023 och till år 2025 med 500 000<br>kronor.<br>Investeringsvolymen finansieras inom ramen för<br>kommunfullmäktiges beslut med begränsningen om<br>att den totala låneskulden inte överstiger<br>totalbeloppet om 2 066,5 miljoner kronor år 2024,<br>(Kommunbudget 2024, antagen av<br>kommunfullmäktige 2023-06-14, § 73). |
-| 11. | Godkännande av<br>avsiktsförklaring mellan<br>Kungsbacka kommun och<br>Trafikverket gällande<br>utbyggnad av Västkustbanan till<br>fyrspår | 2023-00527 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner avsiktsförklaringen<br>med Trafikverket angående förutsättningar för<br>fortsatt samverkan kring utbyggnad av<br>Västkustbanan till fyrspår, daterad 2024-03-12.<br>Kommunstyrelsens ordförande eller hennes ersättare<br>utses att för kommunens räkning underteckna<br>avsiktsförklaringen. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(7)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 12. | Förvärv av fastigheten Varla 1:5 | 2024-00185 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott godkänner<br>köpeavtal för fastigheten Varla 1:5, undertecknat av<br>säljaren 2024-03-04, för en total köpeskilling om<br>7 500 000 kronor.<br>Finansiering sker via Samhällsbyggnadskontorets<br>budget för markinköp.<br>Kommunstyrelsens arbetsutskott utser<br>kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>att för kommunens räkning underteckna<br>köpekontraktet samt övriga nödvändiga handlingar<br>för ärendets genomförande. |
-| 13. | Godkännande av tilläggsavtal<br>till avtal om marköverlåtelse<br>och genomförande avseende<br>fastigheten Kolla 5:151 i Kolla<br>Parkstad | 2019-00398 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner tilläggsavtal till avtal<br>om marköverlåtelse och genomförande mellan<br>kommunen och Maxemal Fastigheter Kolla 2 AB,<br>undertecknat av bolaget 2024-03-08.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>och andra i ärendet nödvändiga handlingar. |
-| 14. | Godkännande av ny inriktning<br>för detaljplaneuppdrag samt<br>överlämnande för att upprätta<br>detaljplan för bostäder inom<br>fastigheten Skårby 2:3 | 2019-00413 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner ny inriktning för<br>detaljplaneuppdraget för Skårby 2:3 med blandad<br>småhusbebyggelse, flerbostadshus, panncentral och<br>utredning av behov av kommunal service samt att<br>tidigare inriktning med endast radhus och villor<br>utgår.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att fortsätta planläggningen av fastigheten Skårby<br>2:3 med ny inriktning. |
 
 <!-- sida 5 -->
 
@@ -101,28 +98,11 @@ KUNGSBACKA  KOMMUN
 
 5(7)
 
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 15. | Godkännande av förslag till<br>markanvisningsavtal avseende<br>del av Skårby 2:3 i Anneberg | 2021-00907 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsens godkänner förslag till<br>markanvisningsavtal avseende del av Skårby 2:3,<br>mellan kommunen och Eksta Bostads AB,<br>undertecknat av bolaget 2024-03-24.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>och andra i ärendet nödvändiga handlingar.<br>Kommunstyrelsen upphäver tidigare beslut om att<br>förbereda försäljning av småhustomter inom<br>fastigheten Skårby 2:3 via mäklare, som lämnades<br>av kommunstyrelsen 2019-09-24, § 231. |
-| 16. | Överföring av direktanvisning<br>av mark inom fastigheten<br>Skårby 12:1 i Björkris | 2021-00985 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner överföring av<br>direktanvisning av mark inom fastigheten Skårby<br>12:1 från Jemmett AB till Jemmett Björkris AB. |
-| 17. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för bostäder inom<br>Skörvalla 1:116 | 2020-00171 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för bostäder inom Skörvalla 1:116 i Särö,<br>daterad 2024-03-18.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att fortsätta arbetet med att upprätta förslag till<br>detaljplan för bostäder inom Skörvalla 1:116 i Särö,<br>i enlighet med godkänd projektbeställning |
-| 18. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplaner inom Malevik 1:41,<br>Bångsbo 1:30 m .fl. och Vallda<br>17:17 m. fl. | 2024-00210 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>Projekt småplaner - Malevik 1:41, Bångsbo 1:30<br>m.fl. och Vallda 17:17 m.fl.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplaner enligt<br>projektbeställning samt beslutade planbesked. |
-
 <!-- sida 6 -->
 
 KUNGSBACKA  KOMMUN
 
 6(7)
-
-[Tabell 6-1](handlingar.tabeller/6-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 19. | Begäran om planbesked för Åsa<br>5:101 och 5:161 | 2023-00868 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av flerbostadshus inom Åsa 5:101 och<br>5:161 i Åsa. Exploateringens omfattning, så som<br>antalet lägenheter ska utredas under<br>detaljplanearbetet.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för bostäder inom Åsa 5:101 och 5:161. |
-| 20. | Antagande av Lokala<br>ordningsföreskrifter för<br>torghandel | 2022-00696 | Förslag till beslut i kommunfullmullmäktige<br>Kommunfullmäktige antar Lokala<br>ordningsföreskrifter för torghandel, daterade 2024-<br>03-08.<br>Lokala ordningsföreskrifter för torghandel, antagna<br>av kommunfullmäktige 2016-06-16, § 106, upphör<br>samtidigt att gälla. |
-| 21. | Information om arbetet med<br>Regional plan inför remiss<br>Klockan 10:00-10:45<br>Raquel Sandblad<br>Anders Lund<br>Region Halland<br>Ann Mårtensson, projektledare<br>Erik Hansson, projektledare | 2023-00051 | - |
 
 <!-- sida 7 -->
 
@@ -4015,14 +3995,15 @@ Exploateringsinvesteringar och
 omsättningstillgångar -   104 500      221 963
         SUMMA            1 006 901     491 824      61 373
                                        437 829        500
-
-Ombudget förslag:                        2024        2025
-Totalt förslag från nämnderna          491 824      61 373
-
-Förslag till kommunfullmäktige         437 829        500
-
-Förändring gentemot nämndernas förslag  -53 995     -60 873
 ```
+
+[Tabell 106-1](handlingar.tabeller/106-1.csv)
+
+| Ombudget förslag: | 2024 | 2025 |
+| --- | --- | --- |
+| Totalt förslag från nämnderna | 491 824 | 61 373 |
+| Förslag till kommunfullmäktige | 437 829 | 500 |
+| Förändring gentemot nämndernas förslag | -53 995 | -60 873 |
 
 <!-- sida 107 -->
 
@@ -4105,41 +4086,33 @@ har Gymnasium & Arbetsmarknad och Kultur & Fritid nått taket för resultatfonde
 
 Nämndernas redovisade ombudgeteringar och resultatfonder
 
-[Tabell 108-1](handlingar.tabeller/108-1.csv)
+[Tabell 108-111-1](handlingar.tabeller/108-111-1.csv)
 
 | Nämnd/Styrelse | Noteringar |
 | --- | --- |
 | Individ & Familjeomsorg | Nämnden redovisar ett underskott om -14 877 000 kronor. Nämnden<br>föreslår att underskottet finansieras av nämndens resultatfond. Nämnden<br>fortsätter att arbeta för en hållbar socialtjänst med ekonomi i balans. Den<br>negativa budgetavvikelsen är ett resultat av ökade volymer och ökat<br>behov inom flertalet av nämndens verksamheter.<br>Kommunstyrelsens förvaltning föreslår att nämndens begäran beviljas,<br>vilket innebär att resultatfonden minskas med -14 877 000 kronor. |
 | Förskola & Grundskola | Nämnden redovisar ett underskott om -44 350 000 kronor. Nämnden<br>föreslår att -6 632 000 kronor av underskottet inte regleras mot<br>nämndens resultatfond då dessa beror på ökade volymer samt att |
+|  | resterande underskott på -37 718 000 kronor regleras mot nämndens<br>resultatfond.<br>Kommunstyrelsens förvaltning föreslår att hela underskottet tas av<br>nämndens resultatfond då ekonomistyrprinciperna inte medger att<br>underskott skrivs av för ökade volymer. |
+| Gymnasium &<br>Arbetsmarknad | Nämnden redovisar ett överskott om 13 255 000 kronor. Under 2023<br>fick nämnden för Gymnasium & Arbetsmarknad 500 000 kronor för att<br>främja välmående och motverka psykisk ohälsa, ett projekt som pågår<br>under läsåret 2023/2024. Nämnden har därför upprättat ett förslag om<br>ombudgetering av 250 000 kr. Resterande 13 005 000 kronor föreslås<br>återredovisas då nämnden når taket för resultatfondens tillåtna storlek.<br>Kommunstyrelsens förvaltning föreslår att nämndens begäran avslås<br>med hänvisning till kommunstyrelsens beslut 2023, §109. Beslutet<br>innebär att medlen kan endast användas under innevarande år.<br>Nämndens resultatfond justeras ner till maximal avsättning, vilket<br>innebär en minskning med 4 849 000 kronor. |
+| Vård & Omsorg | Vård & Omsorg redovisar ett överskott om 12 519 000 kronor. Nämnden<br>föreslår att 5 897 000 kronor förs till resultatfonden samt att 6 622 000<br>kronor återredovisas. Överskottet förklaras huvudsakligen av att<br>förvaltningen de senaste åren arbetat långsiktigt med att få en budget i<br>balans och därigenom skapa utrymme till de utmaningar som bland<br>annat en ökad andel äldre kommer att medföra de närmaste åren.<br>Kommunstyrelsens förvaltning föreslår att nämndens begäran beviljas,<br>vilket innebär att 5 897 000 kronor förs till resultatfonden. |
+| Byggnadsnämnden | Byggnadsnämnden redovisar ett överskott om 1 870 000 kronor.<br>Nämnden föreslår att 827 000 kronor avseende kartutvecklingsprojektet<br>ombudgeteras, att 6 000 kronor avseende internränta återredovisas samt<br>att resterande överskott om 1 037 000 kronor tillförs resultatfonden.<br>Kommunstyrelsens förvaltning föreslår att 827 000 kronor ombudgeteras<br>avseende kartutvecklingsprojektet samt att nämndens begäran om att<br>överföra 1 037 000 kronor till resultatfonden godkänns. |
+| Miljö & Hälsoskydd | Nämnden redovisar ett överskott om 333 000 kronor. Nämnden föreslår<br>att 200 000 kronor som avser planerade utbildningar som inte<br>genomförts under året ombudgeteras samt att resterande 133 000 kronor<br>återredovisas. |
+|  | Kommunstyrelsens förvaltning föreslår att nämndens begäran avslås.<br>Den 1 januari 2020 slogs resultatfonderna ihop för Byggnadsnämnden<br>och nämnden för Miljö- & Hälsoskydd. Under en övergångsperiod har<br>nämnden för Miljö- & Hälsoskydd beviljats ombudgetering av överskott<br>trots att detta avviker från Kungsbacka kommuns ekonomistyrprinciper.<br>Nämnden har sedan 2020 genererat överskott mot budget, till 2024 får<br>utbildningsinsatser göras inom redan beslutad budgetram. |
+| Kultur & Fritid | Nämnden redovisar ett överskott om 583 000 kronor. Överskottet<br>återredovisas då nämndens resultatfond redan uppgår till maximal<br>avsättning. Nämndens resultatfond justeras ner till maximal avsättning,<br>vilket innebär en minskning med 515 000 kronor. |
+| Teknik skatt | Nämnden för Teknik redovisar ett underskott om -4 754 000 kronor.<br>Underskottet beror främst på högre kostnader på flera<br>verksamhetsområden som färdtjänst, snöröjning och vinterväghållning<br>samt drift och skötsel av anläggningar och fordon. Nämnden föreslår att<br>underskottet finansieras ur nämndens resultatfond.<br>Kommunstyrelsens förvaltning föreslår att underskottet i sin helhet om<br>-4 754 000 kronor regleras gentemot nämndens resultatfond. |
+| Service | Nämnden visar ett totalt underskott om -20 976 000 kronor.<br>Av det totala underskottet redovisar Service fastighet ett underskott om<br>-10 452 000 kronor och Service drift resterande -10 524 000 kronor.<br>Gällande Service fastighet föreslår nämnden att kostnader på totalt<br>-15 032 000 kronor återredovisas beroende på att merparten utgörs av<br>engångskostnader tillhörande lokalplanen på grund av nedlagda<br>lokalprojekt, främst Fjärås fritidscenter och Tingbergsskolans kök, men<br>också rivning av Kyrkskolan och att Skårbyskolan försenats. Nämnden<br>föreslår även en ombudgetering på totalt 7 835 000 kronor för pågående<br>projekt i lokalplanen. Resterande underskott ifrån driften på 3 255 000<br>kronor föreslås täckas av resultatfonden.<br>Nämnden föreslår vidare att resterande underskott om -10 524 000<br>kronor för Service drift täcks av resultatfonden.<br>Kommunstyrelsens förvaltning föreslår att nämndens förslag för<br>fastighetsverksamheten beviljas, 7 835 000 kronor ombudgeteras för<br>pågående projekt, -3 255 000 kronor tas i anspråk av resultatfonden och<br>att nämnden återredovisar -15 032 000 kronor. Kommunstyrelsens<br>förvaltning föreslår också att nämndens begäran för Service drift |
+|  | beviljas, vilket innebär att nämnden tar 10 524 000 kronor i anspråk från<br>resultatfonden.<br>Kommunstyrelsens förvaltning föreslår att nämnden sammantaget<br>beviljas ta i anspråk 13 779 000 kronor av Service resultatfond. |
+| Finansförvaltning övrigt | Kommunstyrelsens lokalplan redovisar ett överskott om 112 200 000<br>kronor. Här ingår överskott för centralt budgeterade hyresmedel för nya<br>lokaler i lokalplanen.<br>Kommunstyrelsens förvaltning föreslår att allt återredovisas förutom<br>4 500 000 kronor som ombudgeteras till kommande engångskostnader<br>för Arenan i lokalplanen. |
 
 <!-- sida 109 -->
 
 KUNGSBACKA  KOMMUN
 3 (9)
 
-[Tabell 109-1](handlingar.tabeller/109-1.csv)
-
-| Nämnd/Styrelse | Noteringar |
-| --- | --- |
-|  | resterande underskott på -37 718 000 kronor regleras mot nämndens<br>resultatfond.<br>Kommunstyrelsens förvaltning föreslår att hela underskottet tas av<br>nämndens resultatfond då ekonomistyrprinciperna inte medger att<br>underskott skrivs av för ökade volymer. |
-| Gymnasium &<br>Arbetsmarknad | Nämnden redovisar ett överskott om 13 255 000 kronor. Under 2023<br>fick nämnden för Gymnasium & Arbetsmarknad 500 000 kronor för att<br>främja välmående och motverka psykisk ohälsa, ett projekt som pågår<br>under läsåret 2023/2024. Nämnden har därför upprättat ett förslag om<br>ombudgetering av 250 000 kr. Resterande 13 005 000 kronor föreslås<br>återredovisas då nämnden når taket för resultatfondens tillåtna storlek.<br>Kommunstyrelsens förvaltning föreslår att nämndens begäran avslås<br>med hänvisning till kommunstyrelsens beslut 2023, §109. Beslutet<br>innebär att medlen kan endast användas under innevarande år.<br>Nämndens resultatfond justeras ner till maximal avsättning, vilket<br>innebär en minskning med 4 849 000 kronor. |
-| Vård & Omsorg | Vård & Omsorg redovisar ett överskott om 12 519 000 kronor. Nämnden<br>föreslår att 5 897 000 kronor förs till resultatfonden samt att 6 622 000<br>kronor återredovisas. Överskottet förklaras huvudsakligen av att<br>förvaltningen de senaste åren arbetat långsiktigt med att få en budget i<br>balans och därigenom skapa utrymme till de utmaningar som bland<br>annat en ökad andel äldre kommer att medföra de närmaste åren.<br>Kommunstyrelsens förvaltning föreslår att nämndens begäran beviljas,<br>vilket innebär att 5 897 000 kronor förs till resultatfonden. |
-| Byggnadsnämnden | Byggnadsnämnden redovisar ett överskott om 1 870 000 kronor.<br>Nämnden föreslår att 827 000 kronor avseende kartutvecklingsprojektet<br>ombudgeteras, att 6 000 kronor avseende internränta återredovisas samt<br>att resterande överskott om 1 037 000 kronor tillförs resultatfonden.<br>Kommunstyrelsens förvaltning föreslår att 827 000 kronor ombudgeteras<br>avseende kartutvecklingsprojektet samt att nämndens begäran om att<br>överföra 1 037 000 kronor till resultatfonden godkänns. |
-| Miljö & Hälsoskydd | Nämnden redovisar ett överskott om 333 000 kronor. Nämnden föreslår<br>att 200 000 kronor som avser planerade utbildningar som inte<br>genomförts under året ombudgeteras samt att resterande 133 000 kronor<br>återredovisas. |
-
 <!-- sida 110 -->
 
 KUNGSBACKA  KOMMUN
 4 (9)
-
-[Tabell 110-1](handlingar.tabeller/110-1.csv)
-
-| Nämnd/Styrelse | Noteringar |
-| --- | --- |
-|  | Kommunstyrelsens förvaltning föreslår att nämndens begäran avslås.<br>Den 1 januari 2020 slogs resultatfonderna ihop för Byggnadsnämnden<br>och nämnden för Miljö- & Hälsoskydd. Under en övergångsperiod har<br>nämnden för Miljö- & Hälsoskydd beviljats ombudgetering av överskott<br>trots att detta avviker från Kungsbacka kommuns ekonomistyrprinciper.<br>Nämnden har sedan 2020 genererat överskott mot budget, till 2024 får<br>utbildningsinsatser göras inom redan beslutad budgetram. |
-| Kultur & Fritid | Nämnden redovisar ett överskott om 583 000 kronor. Överskottet<br>återredovisas då nämndens resultatfond redan uppgår till maximal<br>avsättning. Nämndens resultatfond justeras ner till maximal avsättning,<br>vilket innebär en minskning med 515 000 kronor. |
-| Teknik skatt | Nämnden för Teknik redovisar ett underskott om -4 754 000 kronor.<br>Underskottet beror främst på högre kostnader på flera<br>verksamhetsområden som färdtjänst, snöröjning och vinterväghållning<br>samt drift och skötsel av anläggningar och fordon. Nämnden föreslår att<br>underskottet finansieras ur nämndens resultatfond.<br>Kommunstyrelsens förvaltning föreslår att underskottet i sin helhet om<br>-4 754 000 kronor regleras gentemot nämndens resultatfond. |
-| Service | Nämnden visar ett totalt underskott om -20 976 000 kronor.<br>Av det totala underskottet redovisar Service fastighet ett underskott om<br>-10 452 000 kronor och Service drift resterande -10 524 000 kronor.<br>Gällande Service fastighet föreslår nämnden att kostnader på totalt<br>-15 032 000 kronor återredovisas beroende på att merparten utgörs av<br>engångskostnader tillhörande lokalplanen på grund av nedlagda<br>lokalprojekt, främst Fjärås fritidscenter och Tingbergsskolans kök, men<br>också rivning av Kyrkskolan och att Skårbyskolan försenats. Nämnden<br>föreslår även en ombudgetering på totalt 7 835 000 kronor för pågående<br>projekt i lokalplanen. Resterande underskott ifrån driften på 3 255 000<br>kronor föreslås täckas av resultatfonden.<br>Nämnden föreslår vidare att resterande underskott om -10 524 000<br>kronor för Service drift täcks av resultatfonden.<br>Kommunstyrelsens förvaltning föreslår att nämndens förslag för<br>fastighetsverksamheten beviljas, 7 835 000 kronor ombudgeteras för<br>pågående projekt, -3 255 000 kronor tas i anspråk av resultatfonden och<br>att nämnden återredovisar -15 032 000 kronor. Kommunstyrelsens<br>förvaltning föreslår också att nämndens begäran för Service drift |
 
 <!-- sida 111 -->
 
@@ -4147,33 +4120,6 @@ KUNGSBACKA  KOMMUN
 5 (9)
 
 Resultatfonder
-
-Nämnd/Styrelse             IB 2023   Bokslut Nämndens Förslag Förslag UB
-
-```osaker-tabell
-Belopp i tusentals kronor            2023   begäran           2023
-10 Kommunfullmäktige             0     1 459     0       0        0
-11 Kommunstyrelsen               0     2 041     0       0        0
-15 Kommunrevision                0      274      0       0        0
-19 Valnämnden                    0      774      0       0        0
-20 Gymnasium & Arbetsmarknad* 79 046  13 255     0    -4 849   74 197
-30 Kultur & Fritid*           31 591    583      0     -515    31 076
-```
-
-40 Förskola & Grundskola      161 290 -44 350 -37 718 -44 350 116 940
-
-```osaker-tabell
-50 Teknik Skatt                9 094  -4 754  -4 754  -4 754   4 340
-71 Miljö & Hälsoskydd            0      333      0       0        0
-73 Byggnadsnämnden             1 549   1 870   1 037   1 037   2 586
-81 Individ & Familjeomsorg    37 512  -14 877 -14 877 -14 877  22 635
-85 Vård & Omsorg              102 359 12 519   5 897   5 897  108 256
-60 Service                    35 452  -10 524 -10 524 -10 524  24 928
-63 Service Fastigheter        79 191  -10 452 -3 255  -3 255   75 936
-Finans                        11 266  264 677    0       0     11 266
-```
-
-Totalt                       548 349 212 828 -64 194 -76 190  472 159
 
 \* Gymnasium & Arbetsmarknad samt Kultur & Fritid når taket för resultatfondens storlek 2023 som justerats.
 
@@ -4184,10 +4130,24 @@ resultatfonder 2024 till 472 159 000 kronor.
 
 [Tabell 111-1](handlingar.tabeller/111-1.csv)
 
-| Nämnd/Styrelse | Noteringar |
-| --- | --- |
-|  | beviljas, vilket innebär att nämnden tar 10 524 000 kronor i anspråk från<br>resultatfonden.<br>Kommunstyrelsens förvaltning föreslår att nämnden sammantaget<br>beviljas ta i anspråk 13 779 000 kronor av Service resultatfond. |
-| Finansförvaltning övrigt | Kommunstyrelsens lokalplan redovisar ett överskott om 112 200 000<br>kronor. Här ingår överskott för centralt budgeterade hyresmedel för nya<br>lokaler i lokalplanen.<br>Kommunstyrelsens förvaltning föreslår att allt återredovisas förutom<br>4 500 000 kronor som ombudgeteras till kommande engångskostnader<br>för Arenan i lokalplanen. |
+| Nämnd/Styrelse<br>Belopp i tusentals kronor | IB 2023 | Bokslut<br>2023 | Nämndens<br>begäran | Förslag | Förslag UB<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| 10 Kommunfullmäktige | 0 | 1 459 | 0 | 0 | 0 |
+| 11 Kommunstyrelsen | 0 | 2 041 | 0 | 0 | 0 |
+| 15 Kommunrevision | 0 | 274 | 0 | 0 | 0 |
+| 19 Valnämnden | 0 | 774 | 0 | 0 | 0 |
+| 20 Gymnasium & Arbetsmarknad\* | 79 046 | 13 255 | 0 | -4 849 | 74 197 |
+| 30 Kultur & Fritid\* | 31 591 | 583 | 0 | -515 | 31 076 |
+| 40 Förskola & Grundskola | 161 290 | -44 350 | -37 718 | -44 350 | 116 940 |
+| 50 Teknik Skatt | 9 094 | -4 754 | -4 754 | -4 754 | 4 340 |
+| 71 Miljö & Hälsoskydd | 0 | 333 | 0 | 0 | 0 |
+| 73 Byggnadsnämnden | 1 549 | 1 870 | 1 037 | 1 037 | 2 586 |
+| 81 Individ & Familjeomsorg | 37 512 | -14 877 | -14 877 | -14 877 | 22 635 |
+| 85 Vård & Omsorg | 102 359 | 12 519 | 5 897 | 5 897 | 108 256 |
+| 60 Service | 35 452 | -10 524 | -10 524 | -10 524 | 24 928 |
+| 63 Service Fastigheter | 79 191 | -10 452 | -3 255 | -3 255 | 75 936 |
+| Finans | 11 266 | 264 677 | 0 | 0 | 11 266 |
+| Totalt | 548 349 | 212 828 | -64 194 | -76 190 | 472 159 |
 
 <!-- sida 112 -->
 
@@ -4356,46 +4316,37 @@ Löpande investeringar
 Typ 1
 Belopp i Tkr
 
-Nämndernas Nämndernas Förändring
-förslag till förslag till gentemot
-Budget ombudget ombudget nämndernas
-2024    2024     2025   förslag 2024
-
-FG     Förskola o Grundskola  15 000
-K&F    Kultur & Fritid        6 700
-GV     Gymnasium & Arbetsmarknad 6 340
-
-IF     Individ och Familjeomsorg 2 651
-MB     Bygg & Miljö            255
-SE     Service                27 485
-
-```osaker-tabell
-VO     Vård & Omsorg          5 500      97                -97
-TE-skatt Teknik Skatt         31 000    -729               729
-       SUMMA                  94 931    -632       0       632
-```
-
 Löpande investeringar ombudgeteras ej enligt gällande ekonomistryrprinciper
+
+[Tabell 117-1](handlingar.tabeller/117-1.csv)
+
+|  | Budget<br>2024 | Nämndernas<br>förslag till<br>ombudget<br>2024 | Nämndernas<br>förslag till<br>ombudget<br>2025 | Förändring<br>gentemot<br>nämndernas<br>förslag 2024 |
+| --- | --- | --- | --- | --- |
+| FG Förskola o Grundskola | 15 000 |  |  |  |
+| K&F Kultur & Fritid | 6 700 |  |  |  |
+| GV Gymnasium & Arbetsmarknad | 6 340 |  |  |  |
+| IF Individ och Familjeomsorg | 2 651 |  |  |  |
+| MB Bygg & Miljö | 255 |  |  |  |
+| SE Service | 27 485 |  |  |  |
+| VO Vård & Omsorg | 5 500 | 97 |  | -97 |
+| TE-skatt Teknik Skatt | 31 000 | -729 |  | 729 |
+| SUMMA | 94 931 | -632 | 0 | 632 |
 
 <!-- sida 118 -->
 
-Förändring
-gentemot Summa ny Summa ny
-nämndernas budget  budget
-förslag 2025 2024   2025
+[Tabell 118-1](handlingar.tabeller/118-1.csv)
 
-```osaker-tabell
-     15 000      0
-      6 700      0
-      6 340      0
-
-      2 651      0
-       255       0
-     27 485      0
-      5 500      0
-     31 000      0
-0    94 931      0
-```
+| Förändring<br>gentemot<br>nämndernas<br>förslag 2025 | Summa ny<br>budget<br>2024 | Summa ny<br>budget<br>2025 |
+| --- | --- | --- |
+|  | 15 000 | 0 |
+|  | 6 700 | 0 |
+|  | 6 340 | 0 |
+|  | 2 651 | 0 |
+|  | 255 | 0 |
+|  | 27 485 | 0 |
+|  | 5 500 | 0 |
+|  | 31 000 | 0 |
+| 0 | 94 931 | 0 |
 
 <!-- sida 119 -->
 
@@ -5148,28 +5099,20 @@ Kvarstår i årets budget 2024    50 000
 Lokaler
 
 Belopp i Tkr
-Lokaltyp          Budget N ämndernas
-2024  förslag till
-ombudget
-2024
-KS Finans
-8931 Lokalplansbudget pågående projekt
-
-SE Fastigheter
 
 [Tabell 139-1](handlingar.tabeller/139-1.csv)
 
-| Löpnr 1406 Duvehed omlastningsstation | 12 000 | 22 810 |
+| Lokaltyp | Budget 2024 | N ämndernas förslag till ombudget 2024 |
 | --- | --- | --- |
+| KS Finans |  |  |
+| 8931 Lokalplansbudget pågående projekt |  |  |
+| Löpnr 1406 Duvehed omlastningsstation | 12 000 | 22 810 |
 | Löpnr 1506 Ombyggnad ”hemkök” på förskolor | 2 000 | 2 000 |
 | Löpnr 131 Arenan inkl skyddsrum | 0 | 31 820 |
 | Enligt KF budgetram 2024 | 279 484 |  |
 | Summa KS Finans | 293 484 | 56 630 |
-
-[Tabell 139-2](handlingar.tabeller/139-2.csv)
-
+| SE Fastigheter |  |  |
 | 8967 Klockaregårdens förskola |  | -4 176 |
-| --- | --- | --- |
 | 4920 Äpplegårdens fsk bygg 207 |  | -2 971 |
 | 4914 Skårby förskola |  | -2 361 |
 | 8979 Anneberg bygg vob bmss fsk |  | -1 450 |
@@ -5255,14 +5198,14 @@ Exploateringar
 
 OMPLANERING
 Belopp i Tkr
-Budget   Förslag till Summa Ny
-2024 omplanering 2024 budget 2024
 
-```osaker-tabell
-Inkomster    -345 769     345 769          0
-Utgifter      241 269     -123 806    117 463
-             -104 500     221 963     117 463
-```
+[Tabell 141-1](handlingar.tabeller/141-1.csv)
+
+|  | Budget<br>2024 | Förslag till<br>omplanering 2024 | Summa Ny<br>budget 2024 |
+| --- | --- | --- | --- |
+| Inkomster | -345 769 | 345 769 | 0 |
+| Utgifter | 241 269 | -123 806 | 117 463 |
+|  | -104 500 | 221 963 | 117 463 |
 
 <!-- sida 142 -->
 

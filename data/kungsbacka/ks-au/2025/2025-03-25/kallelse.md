@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.187cc124195b269152a1bbab/1742551173
 sha256: 4aa3947d85d3c3dbe75d0b7aac60c2ef9f5fd10f1c871211c81e4b01ebf05473
 bytes: 217530
 sidor: 5
-hamtad: 2026-10-09T08:23:24+00:00
-konverterad: 2026-10-09T08:23:30+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-16T06:13:56+00:00
+konverterad: 2026-10-16T06:14:03+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]
@@ -73,7 +73,7 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
+[Tabell 3-4-1](kallelse.tabeller/3-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -81,6 +81,11 @@ KUNGSBACKA  KOMMUN
 | 10. | Uppdrag att ta fram styrande<br>dokument för parkeringsavlösen | 2024-00697 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram ändamålsenliga styrande dokument för<br>parkeringsavlösen. |
 | 11. | Bostadsförsörjningsplan för<br>Kungsbacka kommun 2025–<br>2029 | 2023-00143 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Bostadsförsörjningsplan<br>för Kungsbacka kommun 2025–2029, daterad 2025-<br>03-04.<br>Kungsbackas Bostadsförsörjningsprogram 2019–<br>2025 med utblick mot 2030, antagen av<br>kommunfullmäktige 2020-05-05, § 46, upphör<br>samtidigt att gälla. |
 | 12. | Avstämning av Startplan<br>planprojekt<br>08:50-09:35<br>Ida Lennartsson<br>Sofia Wiman<br>Byggnadsnämndens<br>arbetsutskott<br>Thure Sandén<br>Heinrich Kaufmann<br>Lars Eriksson<br>Daniel Hognert<br>Stefan Vilumsons | 2025-00018 |  |
+| 13. | Information om Regional<br>utvecklingsplan för<br>Storstadsregionen<br>10:00-10:45<br>Göteborgsregionens<br>kommunalförbund<br>Gitte Caos<br>Maria Sigroth<br>Therese Tanner | 2025-00231 |  |
+| 14. | Information om arbetet med<br>initiativet om ett<br>utvecklingscenter för innovation<br>och utveckling av näringslivet i<br>Kungsbacka<br>10:50-11:10<br>Anneli Skoglund<br>Lovisa Eld | 2024-00464 |  |
+| 15. | Information om statistik och<br>uppföljning av detaljplaner<br>11:15-11:45<br>Ida Lennartsson | 2025-00230 |  |
+| 16. | Avstämning inför samråd om<br>Regional fysisk plan Halland<br>2050<br>13.15-14.00<br>Andrea Ericsson<br>Anders Lund | 2024-00869 |  |
+| 17. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |
 
 <!-- sida 4 -->
 
@@ -90,16 +95,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 13. | Information om Regional<br>utvecklingsplan för<br>Storstadsregionen<br>10:00-10:45<br>Göteborgsregionens<br>kommunalförbund<br>Gitte Caos<br>Maria Sigroth<br>Therese Tanner | 2025-00231 |  |
-| 14. | Information om arbetet med<br>initiativet om ett<br>utvecklingscenter för innovation<br>och utveckling av näringslivet i<br>Kungsbacka<br>10:50-11:10<br>Anneli Skoglund<br>Lovisa Eld | 2024-00464 |  |
-| 15. | Information om statistik och<br>uppföljning av detaljplaner<br>11:15-11:45<br>Ida Lennartsson | 2025-00230 |  |
-| 16. | Avstämning inför samråd om<br>Regional fysisk plan Halland<br>2050<br>13.15-14.00<br>Andrea Ericsson<br>Anders Lund | 2024-00869 |  |
-| 17. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |
 
 <!-- sida 5 -->
 

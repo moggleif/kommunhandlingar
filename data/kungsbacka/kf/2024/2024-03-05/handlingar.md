@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5db42dbd18df2afdfe2c36d/17095387722
 sha256: 3d3891d7e7bb97670c9dec5749139b61ce02c5034d0685ef6a142db8590517b4
 bytes: 30695835
 sidor: 230
-hamtad: 2026-10-12T23:21:19+00:00
-konverterad: 2026-10-12T23:23:50+00:00
-pipeline: kommunhandlingar 0.8.7 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T10:40:43+00:00
+konverterad: 2026-10-16T10:42:52+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok]
@@ -7606,12 +7606,11 @@ FLERÅRSÖVERSIKT
 
 Beloppen i flerårsöversikten är angivna i tusental kronor om inte annat anges.
 
-2201-2212  2101-2112 2001-2012  1901-1912
-
 [Tabell 162-1](handlingar.tabeller/162-1.csv)
 
-| Nettoomsättning | 3 885 | 3 859 | 3 486 | 4 119 |
+|  | 2201-2212 | 2101-2112 | 2001-2012 | 1901-1912 |
 | --- | --- | --- | --- | --- |
+| Nettoomsättning | 3 885 | 3 859 | 3 486 | 4 119 |
 | Resultat efter finansiella poster | -566 | -99 | -15 | -469 |
 | Soliditet % | -79 | -46 | -112 | -110 |
 
@@ -7621,11 +7620,6 @@ Vallda TK                                                       3(7)
 849400-2259
 
 RESULTATRÄKNING                       1
-
-2022-01-01 2021-01-01
-2022-12-31 2021-12-31
-
-Rörelseintäkter, lagerförändringar m.m.
 
 Rörelsekostnader
 Råvaror och förnödenheter                          -450 251  -298 156
@@ -7640,8 +7634,10 @@ Finansiella poster
 
 [Tabell 163-1](handlingar.tabeller/163-1.csv)
 
-| Nettoomsättning | 3 884 666 | 3 858 757 |
+|  | 2022-01-01 2022-12-31 | 2021-01-01 2021-12-31 |
 | --- | --- | --- |
+| Rörelseintäkter, lagerförändringar m.m. |  |  |
+| Nettoomsättning | 3 884 666 | 3 858 757 |
 | Övriga rörelseintäkter | 15 468 | 46 410 |
 | Summa rörelseintäkter, lagerförändringar m.m. | 3 900 134 | 3 905 167 |
 
@@ -7883,14 +7879,16 @@ Kortfristiga skulder
 2940 Uppl soc avg                   -77 279,00   -6 998,00  -84 277,00
 2943 Upplupen löneskatt             -16 758,33     13,33    -16 745,00
 2990 Övr upplupna kostn/förutb     -208 492,00  167 492,00  -41 000,00
-S:a kortfristiga skulder           -580 159,55  47 702,55   -532 457,00
 ```
 
-S:A EGET KAPITAL, AVSÄTTN OCH SKULDER -882 179,04 638 262,33 -243 916,71
-
-Beräknat resultat                      0,00         0,00        0,00
-
 BL Bokslut 2022.1.103           2023-06-28                   1(1)
+
+[Tabell 168-1](handlingar.tabeller/168-1.csv)
+
+| S:a kortfristiga skulder | -580 159,55 | 47 702,55 | -532 457,00 |
+| --- | --- | --- | --- |
+| S:A EGET KAPITAL, AVSÄTTN OCH SKULDER | -882 179,04 | 638 262,33 | -243 916,71 |
+| Beräknat resultat | 0,00 | 0,00 | 0,00 |
 
 <!-- sida 169 -->
 
@@ -8034,17 +8032,16 @@ Finansiella och andra intäkter och kostnader
 8421 Räntekost leverantörss            0,00      -2 582,96   -2 582,96
 ```
 
-S:a finansiella och andra intäkter och kostnader -40 981,28 -19 932,65 -60 913,93
-
-RESULTAT FÖRE BOKSLUTSDISPOSITIONER -98 947,89 -466 611,89  -565 559,78
-
-RESULTAT FÖRE SKATT                 -98 947,89 -466 611,89  -565 559,78
-
-ÅRETS RESULTAT                      -98 947,89 -466 611,89  -565 559,78
-
-Beräknat resultat                      0,00         0,00        0,00
-
 BL Bokslut 2022.1.103           2023-06-28                   2(2)
+
+[Tabell 170-1](handlingar.tabeller/170-1.csv)
+
+| S:a finansiella och andra intäkter och kostnader | -40 981,28 | -19 932,65 | -60 913,93 |
+| --- | --- | --- | --- |
+| RESULTAT FÖRE BOKSLUTSDISPOSITIONER | -98 947,89 | -466 611,89 | -565 559,78 |
+| RESULTAT FÖRE SKATT | -98 947,89 | -466 611,89 | -565 559,78 |
+| ÅRETS RESULTAT | -98 947,89 | -466 611,89 | -565 559,78 |
+| Beräknat resultat | 0,00 | 0,00 | 0,00 |
 
 <!-- sida 171 -->
 
@@ -8114,16 +8111,15 @@ FLERÅRSÖVERSIKT
 
 Beloppen i flerårsöversikten är angivna i tusental kronor om inte annat anges.
 
-2201-2212  2101-2112 2001-2012  1901-1912
-
 FÖRÄNDRINGAR I EGET KAPITAL
 
 Bolagets resultat och ställning framgår av efterföljande resultat-och balansräkning med noter.
 
 [Tabell 173-1](handlingar.tabeller/173-1.csv)
 
-| Nettoomsättning | 390 | 390 | 380 | 370 |
+|  | 2201-2212 | 2101-2112 | 2001-2012 | 1901-1912 |
 | --- | --- | --- | --- | --- |
+| Nettoomsättning | 390 | 390 | 380 | 370 |
 | Resultat efter finansiella poster | -59 | 10 | 6 |  |
 | Balansomslutning | 5 388 | 5 397 | 5 388 | 5 386 |
 
@@ -8153,15 +8149,12 @@ Vallda Tennishall Ek Förening                                   3(6)
 
 RESULTATRÄKNING                       1
 
-2022-01-01 2021-01-01
-2022-12-31 2021-12-31
-
-Rörelseintäkter, lagerförändringar m.m.
-
 [Tabell 174-1](handlingar.tabeller/174-1.csv)
 
-| Nettoomsättning | 390 000 | 390 000 |
+|  | 2022-01-01 2022-12-31 | 2021-01-01 2021-12-31 |
 | --- | --- | --- |
+| Rörelseintäkter, lagerförändringar m.m. |  |  |
+| Nettoomsättning | 390 000 | 390 000 |
 | Summa rörelseintäkter, lagerförändringar m.m. | 390 000 | 390 000 |
 | Rörelsekostnader |  |  |
 | Övriga externa kostnader | -1 580 | -1 200 |
@@ -8328,13 +8321,15 @@ Kortfristiga skulder
 2810 Kortf skuld                    -19 278,30  19 278,30       0,00
 2890 Vallda Tennisklubb           1 824 022,29  243 000,00 2 067 022,29
 2990 Övr upplupna kostn/förutb         0,00     -69 382,55  -69 382,55
-S:a kortfristiga skulder          1 804 743,99  192 895,75 1 997 639,74
-
-S:A EGET KAPITAL, AVSÄTTN OCH SKULDER -3 573 420,00 252 011,54 -3 321 408,46
-
-Beräknat resultat                      0,00         0,00        0,00
 
 BL Bokslut 2022.1.103           2023-06-28                   1(1)
+
+[Tabell 178-1](handlingar.tabeller/178-1.csv)
+
+| S:a kortfristiga skulder | 1 804 743,99 | 192 895,75 | 1 997 639,74 |
+| --- | --- | --- | --- |
+| S:A EGET KAPITAL, AVSÄTTN OCH SKULDER | -3 573 420,00 | 252 011,54 | -3 321 408,46 |
+| Beräknat resultat | 0,00 | 0,00 | 0,00 |
 
 <!-- sida 179 -->
 
@@ -8376,19 +8371,17 @@ RESULTAT FÖRE FINANSIELLA POSTER   133 592,00    2 822,00   136 414,00
 
 Finansiella och andra intäkter och kostnader
 8400 Räntekostnader                -123 124,61  -72 405,18  -195 529,79
-S:a finansiella och andra intäkter och kostnader -123 124,61 -72 405,18 -195 529,79
-
-```osaker-tabell
-RESULTAT FÖRE BOKSLUTSDISPOSITIONER 10 467,39   -69 583,18  -59 115,79
-
-RESULTAT FÖRE SKATT                 10 467,39   -69 583,18  -59 115,79
-
-ÅRETS RESULTAT                      10 467,39   -69 583,18  -59 115,79
-
-Beräknat resultat                      0,00         0,00        0,00
-```
 
 BL Bokslut 2022.1.103           2023-06-28                   1(1)
+
+[Tabell 179-1](handlingar.tabeller/179-1.csv)
+
+| S:a finansiella och andra intäkter och kostnader | -123 124,61 | -72 405,18 | -195 529,79 |
+| --- | --- | --- | --- |
+| RESULTAT FÖRE BOKSLUTSDISPOSITIONER | 10 467,39 | -69 583,18 | -59 115,79 |
+| RESULTAT FÖRE SKATT | 10 467,39 | -69 583,18 | -59 115,79 |
+| ÅRETS RESULTAT | 10 467,39 | -69 583,18 | -59 115,79 |
+| Beräknat resultat | 0,00 | 0,00 | 0,00 |
 
 <!-- sida 180 -->
 

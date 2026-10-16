@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.bbad0dc197168355755c565/17486173910
 sha256: aabac211ea197f1c225a078f2cef9677548d5a7e4fe090fe86f2f3fa3ba1e194
 bytes: 215043
 sidor: 4
-hamtad: 2026-10-09T08:24:05+00:00
-konverterad: 2026-10-09T08:24:12+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-16T06:14:43+00:00
+konverterad: 2026-10-16T06:14:49+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -66,22 +66,19 @@ KUNGSBACKA  KOMMUN
 | 5. | Ansökan om verksamhetsstöd -<br>Ung Företagsamhet 2025/2026 -<br>2027/2028 | 2024-00855 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen beviljar ny finansieringsperiod<br>för Ung Företagsamhet Halland, med 299 632<br>kronor per år för läsåren 2025/2026, 2026/2027 och<br>2027/2028. |
 | 6. | Svar på Länsstyrelsen i<br>Hallands remiss av förslag till<br>bildande av Fälareds<br>naturreservat i Kungsbacka<br>kommun | 2025-00298 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande daterat, 2025-05-14<br>och översänder som sitt svar till Länsstyrelsen i<br>Hallands län |
 | 7. | Begäran om planbesked för<br>Kyvik 3:147 | 2025-00249 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplaneläggning för att pröva<br>lämpligheten av att anpassa byggrätten inom Kyvik<br>3:147.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för planändring med<br>syftet att anpassa byggrätten inom Kyvik 3:147 i<br>Kullavik. |
+| 8. | Lokaliseringsutredning ny isyta<br>för träning | 2022-00920 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner lokaliseringsutredning<br>för ny isyta för träning, daterad 2025-05-14.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för ishall inom del av Skårby 12:1 i<br>Kungsbacka. |
+| 9. | Svar på motion från Roger<br>Larsson (KB) om kostnadsfri<br>utdelning av broddar till<br>invånare som är 65 år eller äldre | 2024-00851 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att åtgärden bedöms ha begränsad<br>påverkan på antal fallolyckor. |
+| 10. | Information om ny lagstiftning<br>för stärkt skydd för vissa<br>förtroendevalda<br>08:30-09:00<br>Jonas Lebrand<br>Jesper Edlind<br>Sofia Jonsson | 2025-00405 | - |
+| 11. | Information om aktuellt<br>kommunikationsarbete (från<br>årshjul)<br>09:05-09:50<br>Annika Jardin<br>Ida Jost<br>Victoria Forsberg<br>Sofie Pettersson | 2025-00051 | - |
+| 12. | Dialog med regionstyrelsens<br>arbetsutskott i Region Halland<br>10:00-11:30<br>Regionstyrelsens arbetsutskott<br>Regiondirektör<br>Regional utvecklingsdirektör<br>Hälso- och sjukvårdsdirektör | 2025-00055 | - |
+| 13. | Information om Stiftelsen<br>Tjolöholm<br>11:35-12:00<br>Christina Hermansson<br>Linnéa Princis<br>Sofia Jonsson | 2025-00098 | - |
+| 14. | Information från ledamöter och<br>förvaltning | 2025-00025 | - |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Lokaliseringsutredning ny isyta<br>för träning | 2022-00920 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner lokaliseringsutredning<br>för ny isyta för träning, daterad 2025-05-14.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för ishall inom del av Skårby 12:1 i<br>Kungsbacka. |
-| 9. | Svar på motion från Roger<br>Larsson (KB) om kostnadsfri<br>utdelning av broddar till<br>invånare som är 65 år eller äldre | 2024-00851 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att åtgärden bedöms ha begränsad<br>påverkan på antal fallolyckor. |
-| 10. | Information om ny lagstiftning<br>för stärkt skydd för vissa<br>förtroendevalda<br>08:30-09:00<br>Jonas Lebrand<br>Jesper Edlind<br>Sofia Jonsson | 2025-00405 | - |
-| 11. | Information om aktuellt<br>kommunikationsarbete (från<br>årshjul)<br>09:05-09:50<br>Annika Jardin<br>Ida Jost<br>Victoria Forsberg<br>Sofie Pettersson | 2025-00051 | - |
-| 12. | Dialog med regionstyrelsens<br>arbetsutskott i Region Halland<br>10:00-11:30<br>Regionstyrelsens arbetsutskott<br>Regiondirektör<br>Regional utvecklingsdirektör<br>Hälso- och sjukvårdsdirektör | 2025-00055 | - |
 
 <!-- sida 4 -->
 
@@ -91,10 +88,3 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 13. | Information om Stiftelsen<br>Tjolöholm<br>11:35-12:00<br>Christina Hermansson<br>Linnéa Princis<br>Sofia Jonsson | 2025-00098 | - |
-| 14. | Information från ledamöter och<br>förvaltning | 2025-00025 | - |

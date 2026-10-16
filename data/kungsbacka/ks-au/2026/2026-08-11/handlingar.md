@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5dad318c19fb16abb679e602/1785997287
 sha256: d525c95a426c825c946a85d4fb9ee1f82917a2cc2f260e88ad5b31eb0b996273
 bytes: 19599751
 sidor: 316
-hamtad: 2026-10-09T12:26:52+00:00
-konverterad: 2026-10-09T12:29:51+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T10:12:43+00:00
+konverterad: 2026-10-16T10:15:16+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ej-konverterad, ej-konverterad, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -835,42 +835,42 @@ allmän platsmark, 2025-11-01
 Typ av upplåtelse    Nytt förslag? Kungsbacka kommun Mölndals kommun Varbergs kommun Falkenbergs Halmstad kommun Anteckningar
 kommun
 Zon 1 Mölndals centrum - Zon 2 Mölndals stad
-Mobil matvagn eller foodtruck 500 kr/månad 500 kr/månad         Högsäsong 13 407 kr 1 5 0 0 kr/månad 4 3 5 k r o n o r /dag S e ö v e r v i l l k o r e n f ö r
-750 kr/månad ink el 3 0 0 k r / 1 - 3 d a g a r Lågsäsong 6 704 kr 2 0 0 0 k r/månad ink el 1 7 4 3 k r o n o r / v e cka f o o d t r u c k s s a m t p l a t s e r
-300 kr/1-3 dagar Elkostnad 500 kr/månad    Helår 20 111 kr 1 2 000 kr/år 5 2 2 9 k r o n or/kalendermånad
-450 kr/1-3 dagar ink el                    E l k o s t n a d t i l l k o m m e r 1 6 0 0 0 k r / å r i n k e l E l k o stnad tillkommer
+Mobil matvagn eller foodtruck 500 kr/månad 500 kr/månad         Högsäsong 13 407 kr 1 50 0 kr/månad 435 k r o n o r /dag S e ö v e r v i l l k o r e n f ö r
+750 kr/månad ink el 300 k r / 1 - 3 d a g a r Lågsäsong 6 704 kr 2 0 0 0 k r/månad ink el 1 7 43 k r o n o r / v e cka f o o d t r u c k s s a m t p l a t s e r
+300 kr/1-3 dagar Elkostnad 500 kr/månad    Helår 20 111 kr 12 000 kr/år 5 229 k r o n or/kalendermånad
+450 kr/1-3 dagar ink el                    E l k o s t n a d t i l l k o m m e r 16 000 k r / å r i n k e l E l k o stnad tillkommer
 Matvagn eller foodtruck, fast plats per år 3800 kr/3 lpm plats/år 3800 kr/3 m plats/år Food truck/matvagn får ställas upp på anvisade platser, mellan Avser Lindens torg
 El tillkommer med faktisk vilka det är tillåtet att alternera, i mån av plats. Särskilda villkor
 kostnad, elmätare (avser Lindens för food truck/matvagn gäller. Elanslutning och förbrukning
 torg att ta med i text i taxan) ingår ej. Zon 1 & 2: 19 781 kr/fordon/år
-Försäljningskiosker, bodar, popupcontainers 10 000 kr/år 10 000 kr/år Högsäsong 3 352 kr/månad 1 5 0 0 kr/månad 4 3 5 k r o n o r /dag
-Lågsäsong 2 235 kr/månad 16 2 000 kr/månad ink el 1 7 4 3 k r o n o r / v e cka
-759 kr/år 12 000 kr//år 5 2 2 9 k r o n or/kalendermånad
+Försäljningskiosker, bodar, popupcontainers 10 000 kr/år 10 000 kr/år Högsäsong 3 352 kr/månad 1 500 kr/månad 435 k r o n o r /dag
+Lågsäsong 2 235 kr/månad 16 2 000 kr/månad ink el 1 7 43 k r o n o r / v e cka
+759 kr/år 12 000 kr//år 5 22 9 k r o n or/kalendermånad
 16 000 kr/år ink el Elkostnad tillkommer
-Uteservering         250 kr/m²/år 250 kr/m²/år Z o n 1 : 1 / 4 - 3 0 / 9 8 8 k r / m ² / m ån 1 /10-31/3 45 kr/m²/mån. Zon Högsäsong (1 april - 30 sept) 80 kr/m²/månad juni-aug Högsäsong (1 april–30 Höjdes 2005 till
+Uteservering         250 kr/m²/år 250 kr/m²/år Z o n 1 : 1 / 4 - 3 0 / 9 88 k r / m ² / m ån 1 /10-31/3 45 kr/m²/mån. Zon Högsäsong (1 april - 30 sept) 80 kr/m²/månad juni-aug Högsäsong (1 april–30 Höjdes 2005 till
 Stakethyra 200 kr/m Stakethyra 500 kr/m 2: 1/4 - 30/9 51 kr/m²/mån,1/10-31/3 25kr/m²/mån 67 kr/m²/månad Lågsäsong (1 (september - maj september) 118 kr/m²/månad. n uvarande avgift
 okt - 31 mars) 34 avgiftsfria) Lågsäsong (1 oktober- 31 mars)
 kr/m²/månad (avgifter 60 kr/m²/månad
 för verksamhet utan
 serveringstillstånd)
-Uthyrningsverksamhet, kajaker, surfbrädor mm, från 500 kr/år 500 kr/år Friskvårdsaktivitet 0 kr. 2 0 0 kr/plats/dag 93 kronor/m²/månad
+Uthyrningsverksamhet, kajaker, surfbrädor mm, från 500 kr/år 500 kr/år Friskvårdsaktivitet 0 kr. 2 00 kr/plats/dag 93 kronor/m²/månad
 container eller bod                                             62 kr/m²/månad minimiavgift 500 kr
-Tillfällig försäljning 300 kr/tillfälle 1-3 dagar 3 0 0 k r / t i l l f ä l l e 1 - 3 d a g a r Z o n 1 : m a x 1 5 m ² - 2 5 3 6 0 / å r m i n s t a b elopp 634 kr - per ytterligare 5 1-3 dagar 467 kr/dag 5 0 0 kr/månad 436 kronor/dag
-500 kr/månad 5 0 0 k r / m å n a d m ² 6 3 3 8 k r / å r Z o n 2 : 1 7 7 5 3 k r / å r 6 3 4 k r m i n s t a belopp - per 1 676 kr per månad 1 145 kronor/kalendermånad
+Tillfällig försäljning 300 kr/tillfälle 1-3 dagar 3 0 0 k r / t i l l f ä l l e 1- 3 d a g a r Z o n 1 : m a x 15 m ² - 25 3 60/ å r m i n s t a b elopp 634 kr - per ytterligare 5 1-3 dagar 467 kr/dag 5 0 0 kr/månad 436 kronor/dag
+500 kr/månad 500 k r / m å n a d m ² 6 3 38 k r / å r Z o n 2 : 1 7 753 k r / å r 634 k r m i n s t a belopp - per 1 676 kr per månad 1 145 kronor/kalendermånad
 ytterligare 4438 kr/år
 Julgransförsäljning  500 kr/plats/år 500 kr/plats Zon 1 & 2: 634 kr/vecka 874 kr/plats/vecka 500 kr/plats/vecka 977 kr/plats/vecka
 Trottoarpratare      0 kr/år    1000 kr/kalenderår Zon 1: 1902 kr/ m²/år Zon 2: 1330 kr/m²/år 874 kr/kalenderår 150 kr/skylt/månad 1200 0 kronor Polistillstånd krävs.
 kr/skylt/år
-Butiksexponering, skyltvaror utanför butik 0 kr/år 500 kr/år Max 1,5 m djup -Zon 1: 1902 kr/ m²/år, Zon 2: 1330 kr/m²/år - Varuställ 508 kr/kvm/år 5 0 k r / m ² / m ånad 0 k r Okej 75 cm från fasad
+Butiksexponering, skyltvaror utanför butik 0 kr/år 500 kr/år Max 1,5 m djup -Zon 1: 1902 kr/ m²/år, Zon 2: 1330 kr/m²/år - Varuställ 508 kr/kvm/år 50 k r / m ²/ m ånad 0 k r Okej 75 cm från fasad
 Max 1 m² - Zon 1: 381 kr/st/år, Zon 2: 254 kr/st/år Minsta avgift 874 kr/år 500 kr/m²/år utan tillstånd
-Byggetablering - upplag, bod och byggställning 25 kr/m²/påbörjad månad 20 kr/m²/påbörjad månad, Zon 1: 761 kr/m²/år (minst 1 m²) Zon 2: 506 kr/m²/år (minst 1 34 kr/m² och månad 2 5 k r / m ² / p å b ö r j a d m å n a d 3 1 kronor/m²/månad. Vid
+Byggetablering - upplag, bod och byggställning 25 kr/m²/påbörjad månad 20 kr/m²/påbörjad månad, Zon 1: 761 kr/m²/år (minst 1 m²) Zon 2: 506 kr/m²/år (minst 1 34 kr/m² och månad 2 5 k r / m ²/ p å b ö r j a d m å n a d 31 kronor/m²/månad. Vid
 Minimiavgift 500 kr minimiavgift 500 kr m²)          inom p-förbudszon a n v ä n d n i n g a v p a r k e r i n g s y ta
 12 kr/m²/månad utanför p-44 kr/m²/månad
 förbudszon
 Minigolf, boule, varpa och liknande uthyrningsverksamheter 2 kr/m²/år. 2 kr/m²/år. Minimiavgift 1000
 Minimiavgift 500 kr kr
 Övriga upplåtelser   10 kr/m²/år 10 kr/m²/år
-Containeruppställning 200 kr/st/påbörjad vecka 2 0 0 k r / s t / p å b ö r j a d v e c ka G e n e r e l l t k o r t a r e t i d - Zon 1: 16484 kr/år Zon 2: 11412 kr/år, 874 kr/påbörjad vecka 30 kr/m²/vecka (60 kr/dag 84 kronor/dag Inte bra med generellt
+Containeruppställning 200 kr/st/påbörjad vecka 2 00 k r / s t / p å b ö r j a d v e c ka G e n e r e l l t k o r t a r e t i d - Zon 1: 16484 kr/år Zon 2: 11412 kr/år, 874 kr/påbörjad vecka 30 kr/m²/vecka (60 kr/dag 84 kronor/dag Inte bra med generellt
 8000 kr/kalenderår    Bestämd plats längre tid Zon 1: 445 kr/plats/v, Zon 2: 317 uträknat) tillstånd
 kr/plats/v
 
@@ -886,8 +886,8 @@ Skylift och mobilkran (och bygghiss) 20 kr/m²/påbörjad månad, 20 kr/m²/mån
 minimiavgift 500 kr 500 kr                 månad     inom p-förbudszon  300 kr/dag 1-3 dagar
 12 kr/m²/påbörjad månad
 utanför p-förbudszon
-Direkt avgränsade ytor för försäljning - serveringstält och 500 kr/månad 5 0 0 k r / m å n a d 13 kr/m²/dag minsta avgift 19 kr/m²/dag Avgift för foodtruck kan
-liknande, försäljning vid olika typer av tillställningar, 300 kr/13 dagar 3 0 0 k r / 1 3 d a g a r 8 7 4 k r /evenemang tillämpas annars 20
+Direkt avgränsade ytor för försäljning - serveringstält och 500 kr/månad 500 k r / m å n a d 13 kr/m²/dag minsta avgift 19 kr/m²/dag Avgift för foodtruck kan
+liknande, försäljning vid olika typer av tillställningar, 300 kr/13 dagar 3 0 0 k r / 1 3 d a g a r 87 4 k r /evenemang tillämpas annars 20
 konserter med mm Radera                                                                      kr/m²/månad beroende
 på yta
 Paketbox, paketutlämningsskåp 5 000 kr/skåp eller box/år 500 kr/skåp/år 11 173 kr/skåp/år    MEX 5000 kr/box/år

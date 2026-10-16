@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.2d7be631193ded8edc5abcd3/1735903471
 sha256: 95623350e62fc42cee6ce200b10c9c1e890b6f14d4e5bb8a4aa891e174f747c3
 bytes: 310158060
 sidor: 261
-hamtad: 2026-10-09T09:45:09+00:00
-konverterad: 2026-10-09T09:54:30+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T07:38:11+00:00
+konverterad: 2026-10-16T07:48:38+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok]
 tal_obekraftade: [38, 40, 43, 44, 47, 48, 50, 51, 65, 66, 67, 68, 69, 70, 71, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235]
 figurer: [43, 44, 104, 127, 128, 130, 132, 181, 213, 236, 240, 248, 249, 252, 253, 259]
 tolkade: []
@@ -59,7 +59,7 @@ KUNGSBACKA  KOMMUN
 
 2(6)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -70,6 +70,15 @@ KUNGSBACKA  KOMMUN
 | 10. | Remittering av motion från<br>Roger Larsson (KB) om<br>kostnadsfri utdelning av<br>broddar till invånare som är 65<br>år eller äldre | 2024-00851 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Vård & Omsorg och<br>nämnden för Kultur & Fritid för beredning. |
 | 11. | Remittering av motion från<br>Roger Larsson (KB) om<br>yttranderätt för ersättare vid<br>kommunfullmäktiges<br>sammanträden | 2024-00853 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till kommunstyrelsens förvaltning för<br>beredning. |
 | 12. | Återrapportering av uppdrag att<br>genomföra reflektion och<br>dialoger om klädsel på<br>arbetsplatsen | 2019-00052 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av de<br>genomförda dialogerna om klädkoder och förklarar<br>uppdraget, som lämnades av kommunstyrelsen 26<br>november 2019, § 273, för avslutat. |
+| 13. | Förändring avseende projekt i<br>lokalplan Kv Liljan skola och<br>idrottssal | 2024-00724 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner att omfattningen på<br>projektet Kvarteret Liljan skola reduceras till 350<br>elever från tidigare planerade 525 elever.<br>Kommunstyrelsen godkänner den totala<br>investeringsbudgeten om 200 miljoner kronor. |
+| 14. | Säkerhetsskyddsavtal vid<br>totalförsvarsplanering | 2023-00864 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner säkerhetsskyddsavtal<br>avseende totalförsvarsplaneringen mellan<br>kommunen och Försvarsmakten, daterat 2024-11-07.<br>Säkerhetsskyddschefen utses att för kommunens<br>räkning underteckna avtalet. |
+| 15. | Plan för Kungsbacka kommuns<br>folk-, skol- och<br>gymnasiebibliotek 2025-2030 | 2024-00745 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar plan för Kungsbacka<br>kommuns folk-, skol och gymnasiebibliotek 2025–<br>2030, daterad 2024-12-09.<br>Biblioteksplan för Kungsbacka kommuns folk- och<br>skolbibliotek 2021–2024, antagen av<br>kommunfullmäktige 13 april 2021, § 68, upphör<br>samtidigt att gälla. |
+| 16. | Avslut av uppdrag om<br>avsiktsförklaring gällande<br>tågstation i Frillesås | 2021-01004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen konstaterar att frågan om en<br>framtida station i Frillesås hanterats i<br>Planeringsstrategi för översiktsplanen antagen av<br>kommunfullmäktige 2024-06-13, § 157, och<br>förklarar därmed uppdraget som lämnades av<br>kommunstyrelsen, 2021-11-23, § 293, att ta fram ett<br>underlag för en avsiktsförklaring gällande en<br>tågstation i Frillesås, för avslutat. |
+| 17. | Upphandling av<br>driftentreprenad Kungsbacka<br>arena | 2024-00744 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott godkänner<br>upphandlingsdokumentet Driftentreprenad för<br>uthyrning av kommersiella lokaler i Kungsbacka<br>arena 2024-12-05. |
+| 18. | Begäran om planbesked för Åsa<br>5:161 och Åsa 5:101 | 2024-00663 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Åsa 5:161 och 5:101 i Åsa. |
+| 19. | Markanvisningsavtal avseende<br>del av Gjutaren 1 och del av<br>Kungsbacka 2:2 | 2019-00547 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner<br>markanvisningsavtal avseende del av Gjutaren 1 och<br>del av Kungsbacka 2:2 mellan kommunen och<br>Riksbyggen ekonomisk förening, undertecknat av<br>bolaget 2024-12-10.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna<br>avtalen och övriga nödvändiga handlingar för<br>avtalens genomförande. |
+| 20. | Principavtal avseende detaljplan<br>för Varla 2:412 | 2024-00842 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner principavtal avseende<br>detaljplan för Varla 2:412 i Kungsbacka,<br>undertecknat av Hede Fashion Outlet AB.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna<br>avtalet. |
+| 21. | Tillägg till exploateringsavtal<br>avseende detaljplan för bostäder<br>och förskola inom fastigheten<br>Må 3:13 i Fjärås<br>08:35-08:45<br>Susanne Calming | 2018-00703 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner tillägg till<br>exploateringsavtal mellan kommunen och Derome<br>Bostad AB, genom vilket andelen hyresrätter i<br>planområde Må 3:13 sänks från cirka 33 procent till<br>cirka 23 procent, undertecknat av bolaget 2024-11-<br>19.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>och andra i ärendet nödvändiga handlingar. |
 
 <!-- sida 3 -->
 
@@ -77,30 +86,11 @@ KUNGSBACKA  KOMMUN
 
 3(6)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 13. | Förändring avseende projekt i<br>lokalplan Kv Liljan skola och<br>idrottssal | 2024-00724 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner att omfattningen på<br>projektet Kvarteret Liljan skola reduceras till 350<br>elever från tidigare planerade 525 elever.<br>Kommunstyrelsen godkänner den totala<br>investeringsbudgeten om 200 miljoner kronor. |
-| 14. | Säkerhetsskyddsavtal vid<br>totalförsvarsplanering | 2023-00864 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner säkerhetsskyddsavtal<br>avseende totalförsvarsplaneringen mellan<br>kommunen och Försvarsmakten, daterat 2024-11-07.<br>Säkerhetsskyddschefen utses att för kommunens<br>räkning underteckna avtalet. |
-| 15. | Plan för Kungsbacka kommuns<br>folk-, skol- och<br>gymnasiebibliotek 2025-2030 | 2024-00745 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar plan för Kungsbacka<br>kommuns folk-, skol och gymnasiebibliotek 2025–<br>2030, daterad 2024-12-09.<br>Biblioteksplan för Kungsbacka kommuns folk- och<br>skolbibliotek 2021–2024, antagen av<br>kommunfullmäktige 13 april 2021, § 68, upphör<br>samtidigt att gälla. |
-| 16. | Avslut av uppdrag om<br>avsiktsförklaring gällande<br>tågstation i Frillesås | 2021-01004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen konstaterar att frågan om en<br>framtida station i Frillesås hanterats i<br>Planeringsstrategi för översiktsplanen antagen av<br>kommunfullmäktige 2024-06-13, § 157, och<br>förklarar därmed uppdraget som lämnades av<br>kommunstyrelsen, 2021-11-23, § 293, att ta fram ett<br>underlag för en avsiktsförklaring gällande en<br>tågstation i Frillesås, för avslutat. |
-| 17. | Upphandling av<br>driftentreprenad Kungsbacka<br>arena | 2024-00744 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott godkänner<br>upphandlingsdokumentet Driftentreprenad för<br>uthyrning av kommersiella lokaler i Kungsbacka<br>arena 2024-12-05. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(6)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 18. | Begäran om planbesked för Åsa<br>5:161 och Åsa 5:101 | 2024-00663 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Åsa 5:161 och 5:101 i Åsa. |
-| 19. | Markanvisningsavtal avseende<br>del av Gjutaren 1 och del av<br>Kungsbacka 2:2 | 2019-00547 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner<br>markanvisningsavtal avseende del av Gjutaren 1 och<br>del av Kungsbacka 2:2 mellan kommunen och<br>Riksbyggen ekonomisk förening, undertecknat av<br>bolaget 2024-12-10.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna<br>avtalen och övriga nödvändiga handlingar för<br>avtalens genomförande. |
-| 20. | Principavtal avseende detaljplan<br>för Varla 2:412 | 2024-00842 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner principavtal avseende<br>detaljplan för Varla 2:412 i Kungsbacka,<br>undertecknat av Hede Fashion Outlet AB.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna<br>avtalet. |
-| 21. | Tillägg till exploateringsavtal<br>avseende detaljplan för bostäder<br>och förskola inom fastigheten<br>Må 3:13 i Fjärås<br>08:35-08:45<br>Susanne Calming | 2018-00703 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner tillägg till<br>exploateringsavtal mellan kommunen och Derome<br>Bostad AB, genom vilket andelen hyresrätter i<br>planområde Må 3:13 sänks från cirka 33 procent till<br>cirka 23 procent, undertecknat av bolaget 2024-11-<br>19.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>och andra i ärendet nödvändiga handlingar. |
 
 <!-- sida 5 -->
 
@@ -2159,7 +2149,7 @@ beslutar bifalla kommunstyrelsens arbetsutskotts förslag.
 
 Expedierat/bestyrkt
 
-[Tabell 56-1](handlingar.tabeller/56-1.csv)
+[Tabell 56-57-1](handlingar.tabeller/56-57-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -2172,6 +2162,12 @@ Expedierat/bestyrkt
 | Kristina Karlsson (C) | X |  |  |
 | Ulrika Landergren (L) | X |  |  |
 | Niklas Mattsson (KD) |  | X |  |
+| Magdalena Sundqvist (S) | X |  |  |
+| Johan Tolinsson (S) | X |  |  |
+| Stefan Vilumsons (SD) |  | X |  |
+| Maria Gathendahl (M) | X |  |  |
+| Maria Rasmussen (V) | X |  |  |
+| Hans Forsberg (M) | X |  |  |
 
 <!-- sida 57 -->
 
@@ -2184,16 +2180,6 @@ Beslutet skickas till
 Kommunledningskontoret
 
 Expedierat/bestyrkt
-
-[Tabell 57-1](handlingar.tabeller/57-1.csv)
-
-| Magdalena Sundqvist (S) | X |  |  |
-| --- | --- | --- | --- |
-| Johan Tolinsson (S) | X |  |  |
-| Stefan Vilumsons (SD) |  | X |  |
-| Maria Gathendahl (M) | X |  |  |
-| Maria Rasmussen (V) | X |  |  |
-| Hans Forsberg (M) | X |  |  |
 
 <!-- sida 58 -->
 
@@ -2277,7 +2263,7 @@ som avstår, beslutar enligt kommunstyrelsens arbetsutskotts förslag.
 
 Expedierat/bestyrkt
 
-[Tabell 59-1](handlingar.tabeller/59-1.csv)
+[Tabell 59-60-1](handlingar.tabeller/59-60-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -2290,6 +2276,12 @@ Expedierat/bestyrkt
 | Kristina Karlsson (C) |  | X |  |
 | Ulrika Landergren (L) | X |  |  |
 | Niklas Mattsson (KD) | X |  |  |
+| Eva Borg (S) |  | X |  |
+| Johan Tolinsson (S) |  | X |  |
+| Carita Boulwén (SD) |  |  | X |
+| Susanne Andersson (SD) |  |  | X |
+| Maria Losman (MP) |  | X |  |
+| Hans Forsberg (M) | X |  |  |
 
 <!-- sida 60 -->
 
@@ -2309,16 +2301,6 @@ Beslutet skickas till
 Kommunledningskontoret: kommundirektör
 
 Expedierat/bestyrkt
-
-[Tabell 60-1](handlingar.tabeller/60-1.csv)
-
-| Eva Borg (S) |  | X |  |
-| --- | --- | --- | --- |
-| Johan Tolinsson (S) |  | X |  |
-| Carita Boulwén (SD) |  |  | X |
-| Susanne Andersson (SD) |  |  | X |
-| Maria Losman (MP) |  | X |  |
-| Hans Forsberg (M) | X |  |  |
 
 <!-- sida 61 -->
 
@@ -5122,7 +5104,7 @@ som avstår, beslutar att ärendet ska avgöras i dag.
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 118-1](handlingar.tabeller/118-1.csv)
+[Tabell 118-119-1](handlingar.tabeller/118-119-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -5152,37 +5134,7 @@ Justerare                         Expedierat/bestyrkt
 | Kalle Påsse Sundvall | (M) | Alla |  |  |  | X |  |
 | Henrik Arnesson | (C) | Alla |  | X |  |  |  |
 | Marie Wadström | (KD) | Alla |  |  | X |  |  |
-
-<!-- sida 119 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          7 (11)
-Kommunfullmäktige
-Datum
-2021-04-13
-
-Ordföranden prövar sedan Peter Söderbergs (M) m.fl. återremissyrkande mot att
-ärendet ska avgöras i dag, och finner att kommunfullmäktige beslutar att ärendet ska
-avgöras i dag.
-
-Omröstning begärs och verkställs.
-Ordföranden redovisar följande propositionsordning som kommunfullmäktige
-
-godkänner:
-Ja-röst innebär att ärendet ska avgöras i dag.
-Nej-röst innebär att ärendet ska återremitteras enligt Peter Söderbergs (M) m.fl.
-återremissyrkande.
-
-Omröstningsresultat
-
-Ordföranden finner att kommunfullmäktige, med 45 ja-röster mot 11 nej-röster och 5
-som avstår, beslutar att ärendet ska avgöras i dag.
-
-Justerare                         Expedierat/bestyrkt
-
-[Tabell 119-1](handlingar.tabeller/119-1.csv)
-
 | Monica Neptun | (L) | Alla |  | X |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Stephan Philipson | (M) | Alla |  | X |  |  |  |
 | Elisabeth Lyckevall | (S) | Alla | G ert Svensson | X |  |  |  |
 | Roger Krantz | (SD) | Alla |  | X |  |  |  |
@@ -5219,27 +5171,40 @@ Justerare                         Expedierat/bestyrkt
 | Anders Ekström | (M) | Alla |  | X |  |  |  |
 | SUMMA: |  |  |  | 48 | 9 | 4 | 0 |
 
-[Tabell 119-2](handlingar.tabeller/119-2.csv)
+<!-- sida 119 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          7 (11)
+Kommunfullmäktige
+Datum
+2021-04-13
+
+Ordföranden prövar sedan Peter Söderbergs (M) m.fl. återremissyrkande mot att
+ärendet ska avgöras i dag, och finner att kommunfullmäktige beslutar att ärendet ska
+avgöras i dag.
+
+Omröstning begärs och verkställs.
+Ordföranden redovisar följande propositionsordning som kommunfullmäktige
+
+godkänner:
+Ja-röst innebär att ärendet ska avgöras i dag.
+Nej-röst innebär att ärendet ska återremitteras enligt Peter Söderbergs (M) m.fl.
+återremissyrkande.
+
+Omröstningsresultat
+
+Ordföranden finner att kommunfullmäktige, med 45 ja-röster mot 11 nej-röster och 5
+som avstår, beslutar att ärendet ska avgöras i dag.
+
+Justerare                         Expedierat/bestyrkt
+
+[Tabell 119-120-1](handlingar.tabeller/119-120-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Lisa Andersson | (M) | Aslla |  | X |  |  |  |
 | Eva Borg | (S) | Alla |  | X |  |  |  |
 | Carita Boulwén | (SD) | Alla |  | X |  |  |  |
-
-<!-- sida 120 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          8 (11)
-Kommunfullmäktige
-Datum
-2021-04-13
-
-Justerare                         Expedierat/bestyrkt
-
-[Tabell 120-1](handlingar.tabeller/120-1.csv)
-
 | Fredrik Hansson | (C) | Alla |  | X |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Andreas Johansson | (M) | Alla |  |  |  | X |  |
 | Ulrika Landergren | (L) | Alla |  | X |  |  |  |
 | Christian Johansson | (M) | Alla |  | X |  |  |  |
@@ -5299,6 +5264,15 @@ Justerare                         Expedierat/bestyrkt
 | Anders Ekström | (M) | Alla |  | X |  |  |  |
 | SUMMA: |  |  |  | 45 | 11 | 5 | 0 |
 
+<!-- sida 120 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          8 (11)
+Kommunfullmäktige
+Datum
+2021-04-13
+
+Justerare                         Expedierat/bestyrkt
+
 <!-- sida 121 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          9 (11)
@@ -5322,7 +5296,7 @@ som avstår, beslutar enligt kommunstyrelsens förslag.
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 121-1](handlingar.tabeller/121-1.csv)
+[Tabell 121-122-1](handlingar.tabeller/121-122-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -5369,6 +5343,25 @@ Justerare                         Expedierat/bestyrkt
 | Axel Storckenfeldt | (M) | Alla |  | X |  |  |  |
 | Sara Heikkinen Breitholtz | (S) | Alla | B ritt Tönnberg | X |  |  |  |
 | Peter Wesley | (KD) | Alla |  |  | X |  |  |
+| Peter Söderberg | (M) | Alla |  |  | X |  |  |
+| Kenth Wallin | (SD) | Alla |  | X |  |  |  |
+| Kristina Rasmussen | (V) | Alla |  |  |  | X |  |
+| Franklin Eck | (M) | Alla |  |  | X |  |  |
+| Elin Hysén | (L) | Alla |  | X |  |  |  |
+| Rickard Wäst | (S) | Alla |  | X |  |  |  |
+| Heinrich Kaufmann | (C) | Alla |  | X |  |  |  |
+| Per-Axel Carlsson | (M) | Alla |  | X |  |  |  |
+| Tobias Eriksson | (SD) | Alla |  | X |  |  |  |
+| Berit Bergström | (M) | Alla |  | X |  |  |  |
+| Maj-Britt Rane-Andersson | (S) | Alla |  | X |  |  |  |
+| Karin Green | (C) | Alla |  |  | X |  |  |
+| Ann-Helene Reimertz | (M) | Alla |  |  | X |  |  |
+| Madelene Höök | (L) | Alla |  | X |  |  |  |
+| Thord Brynielsson | (SD) | Alla | S tefan Vilumsons | X |  |  |  |
+| Per Stenberg | (M) | Alla |  | X |  |  |  |
+| Ulrika Högstrand | (KD) | Alla |  |  | X |  |  |
+| Anders Ekström | (M) | Alla |  | X |  |  |  |
+| SUMMA: |  |  |  | 45 | 12 | 4 | 0 |
 
 <!-- sida 122 -->
 
@@ -5393,30 +5386,7 @@ Ordföranden finner att kommunfullmäktige, med 31 ja-röster mot 16 nej-röster
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 122-1](handlingar.tabeller/122-1.csv)
-
-| Peter Söderberg | (M) | Alla |  |  | X |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Kenth Wallin | (SD) | Alla |  | X |  |  |  |
-| Kristina Rasmussen | (V) | Alla |  |  |  | X |  |
-| Franklin Eck | (M) | Alla |  |  | X |  |  |
-| Elin Hysén | (L) | Alla |  | X |  |  |  |
-| Rickard Wäst | (S) | Alla |  | X |  |  |  |
-| Heinrich Kaufmann | (C) | Alla |  | X |  |  |  |
-| Per-Axel Carlsson | (M) | Alla |  | X |  |  |  |
-| Tobias Eriksson | (SD) | Alla |  | X |  |  |  |
-| Berit Bergström | (M) | Alla |  | X |  |  |  |
-| Maj-Britt Rane-Andersson | (S) | Alla |  | X |  |  |  |
-| Karin Green | (C) | Alla |  |  | X |  |  |
-| Ann-Helene Reimertz | (M) | Alla |  |  | X |  |  |
-| Madelene Höök | (L) | Alla |  | X |  |  |  |
-| Thord Brynielsson | (SD) | Alla | S tefan Vilumsons | X |  |  |  |
-| Per Stenberg | (M) | Alla |  | X |  |  |  |
-| Ulrika Högstrand | (KD) | Alla |  |  | X |  |  |
-| Anders Ekström | (M) | Alla |  | X |  |  |  |
-| SUMMA: |  |  |  | 45 | 12 | 4 | 0 |
-
-[Tabell 122-2](handlingar.tabeller/122-2.csv)
+[Tabell 122-123-1](handlingar.tabeller/122-123-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -5441,24 +5411,7 @@ Justerare                         Expedierat/bestyrkt
 | Bengt Alderin | (C) | Alla |  | X |  |  |  |
 | Maria Rasmussen | (V) | Alla |  |  | X |  |  |
 | Filip Berndtsson | (M) | Alla |  | X |  |  |  |
-
-<!-- sida 123 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          11 (11)
-Kommunfullmäktige
-Datum
-2021-04-13
-
-Beslutet skickas till
-
-Samtliga nämnder
-
-Justerare                         Expedierat/bestyrkt
-
-[Tabell 123-1](handlingar.tabeller/123-1.csv)
-
 | Lars Eriksson | (S) | Alla |  |  | X |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Susanne Andersson | (SD) | Alla |  |  |  | X |  |
 | Kalle Påsse Sundvall | (M) | Alla |  |  |  | X |  |
 | Henrik Arnesson | (C) | Alla |  | X |  |  |  |
@@ -5499,6 +5452,19 @@ Justerare                         Expedierat/bestyrkt
 | Ulrika Högstrand | (KD) | Alla |  | X |  |  |  |
 | Anders Ekström | (M) | Alla |  | X |  |  |  |
 | SUMMA: |  |  |  | 31 | 16 | 14 | 0 |
+
+<!-- sida 123 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          11 (11)
+Kommunfullmäktige
+Datum
+2021-04-13
+
+Beslutet skickas till
+
+Samtliga nämnder
+
+Justerare                         Expedierat/bestyrkt
 
 <!-- sida 124 -->
 
@@ -5767,23 +5733,6 @@ BOSTAD 6
 FÖRRÅD
 
 Ärendenummer: #163409 | Datum: 2024-10-02 21:45                                                                                                          Bilaga 1 sida 1 av 1
-
-[Tabell 130-1](handlingar.tabeller/130-1.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
 
 <!-- sida 131 -->
 
@@ -11717,15 +11666,6 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024    3
 Nedan uppgifter avser en jämförelse av medianlönen mellan samtliga kommuner i Sverige och
 Kungsbacka kommun.
 
-2021             2022             2023                2024
-Kungsbacka Riket\* Kungsbacka Riket\* Kungsbacka Riket\* Kungsbacka
-
-```osaker-tabell
-32 132  30 350   32 770   31 000   34 100   32 215   35 600
-33 000  31 000   33 550   31 500   35 000   32 600   36 400
-868     650      780      500      900      385      800
-```
-
 \*Riket =Alla kommuner i Sverige
 
 Löneläget inom respektive förvaltning skiljer sig åt. Kommunstyrelsens förvaltning följt av
@@ -11747,6 +11687,15 @@ befattningar och mellan män och kvinnor som har likvärdiga befattningar. Ett k
 behöver ske på olika nivåer för att lönenivåerna ska vara könsneutrala.
 
 Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024    4
+
+[Tabell 245-1](handlingar.tabeller/245-1.csv)
+
+| 2021 |  | 2022 |  | 2023 |  | 2024 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Kungsbacka | Riket\* | Kungsbacka | Riket\* | Kungsbacka | Riket\* | Kungsbacka |
+| 32 132 | 30 350 | 32 770 | 31 000 | 34 100 | 32 215 | 35 600 |
+| 33 000 | 31 000 | 33 550 | 31 500 | 35 000 | 32 600 | 36 400 |
+| 868 | 650 | 780 | 500 | 900 | 385 | 800 |
 
 <!-- sida 246 -->
 
@@ -12209,22 +12158,6 @@ har 100 % av männens löner finns det inga löneskillnader mellan könen. Om pr
 100 % har kvinnor lägre löner än män, och om procenttalet är över 100 % har kvinnor högre
 medianlön än män.
 
-```osaker-tabell
-BAS     2017     2019     2021     2022     2023     2024
-A       104%     105%     105%     100%     103%     102%
-
-B       92%      95%      98%      97%      102%     101%
-C       99%      99%      102%     97%      101%     101%
-D       97%      98%      98%      99%      97%      97%
-E       100%     99%      100%     99%      100%     101%
-F       97%      97%      98%      100%     99%      98%
-
-G       100%     102%     102%     100%     102%     102%
-H       99%      103%     101%     101%     100%     99%
-I       96%      96%      98%      98%      100%     102%
-J       98%      97%      98%      99%      96%      98%
-```
-
 (Från BI, Daterad: 241030)
 Det finns 22 kvinnodominerade befattningar med 6 eller fler medarbetare där medianlönen är minst
 5 % lägre än medianlönen i BAS-intervallet.
@@ -12239,6 +12172,21 @@ med låg medianlön i förhållande till medianlönen i BAS-intervallet.
 Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   13
 
 [Tabell 254-1](handlingar.tabeller/254-1.csv)
+
+| BAS | 2017 | 2019 | 2021 | 2022 | 2023 | 2024 |
+| --- | --- | --- | --- | --- | --- | --- |
+| A | 104% | 105% | 105% | 100% | 103% | 102% |
+| B | 92% | 95% | 98% | 97% | 102% | 101% |
+| C | 99% | 99% | 102% | 97% | 101% | 101% |
+| D | 97% | 98% | 98% | 99% | 97% | 97% |
+| E | 100% | 99% | 100% | 99% | 100% | 101% |
+| F | 97% | 97% | 98% | 100% | 99% | 98% |
+| G | 100% | 102% | 102% | 100% | 102% | 102% |
+| H | 99% | 103% | 101% | 101% | 100% | 99% |
+| I | 96% | 96% | 98% | 98% | 100% | 102% |
+| J | 98% | 97% | 98% | 99% | 96% | 98% |
+
+[Tabell 254-255-2](handlingar.tabeller/254-255-2.csv)
 
 | BAS Befattning Antal anställningar En befattnings medianlön i jämförelse<br>med BAS-intervallets medianlön,<br>procentuell skillnad. |  |  |  |
 | --- | --- | --- | --- |
@@ -12258,6 +12206,12 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   13
 | J | Enhetschef | 96 | 94% |
 | F | Arkivarie | 6 | 94% |
 | B | Vårdbiträde | 153 | 94% |
+| C | Dagbarnvårdare | 7 | 95% |
+| G | Socialsekreterare LVU/LVM | 57 | 95% |
+| E | Rekryterare | 8 | 95% |
+| F | Studie och yrkesvägledare | 22 | 95% |
+| C | Personlig assistent | 93 | 95% |
+| C | Barnskötare | 281 | 95% |
 
 <!-- sida 255 -->
 
@@ -12275,17 +12229,7 @@ befattning. För de flesta av de större befattningarna är lönespridningen god
 
 Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   14
 
-[Tabell 255-1](handlingar.tabeller/255-1.csv)
-
-| C | Dagbarnvårdare | 7 | 95% |
-| --- | --- | --- | --- |
-| G | Socialsekreterare LVU/LVM | 57 | 95% |
-| E | Rekryterare | 8 | 95% |
-| F | Studie och yrkesvägledare | 22 | 95% |
-| C | Personlig assistent | 93 | 95% |
-| C | Barnskötare | 281 | 95% |
-
-[Tabell 255-2](handlingar.tabeller/255-2.csv)
+[Tabell 255-256-1](handlingar.tabeller/255-256-1.csv)
 
 | Befattning Antal Medianlön Medianlön Lönespännvidd<br>anställningar kvinnor män |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -12314,20 +12258,16 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   14
 | Administratör | 70 | 34 295 | 31 725 | 17% |
 | Biträde | 62 | 24 200 | 25 000 | 19% |
 | Lärare Kulturskolan | 60 | 35 600 | 36 100 | 14% |
-
-<!-- sida 256 -->
-
-Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   15
-
-[Tabell 256-1](handlingar.tabeller/256-1.csv)
-
 | Specialpedagog | 59 | 47 475 | 47 700 | 11% |
-| --- | --- | --- | --- | --- |
 | Utvecklare | 58 | 44 200 | 42 600 | 28% |
 | Fastighetstekniker | 57 | 30 800 | 31 400 | 11% |
 | Socialsekr LVU/LVM | 57 | 43 500 | 40 050 | 23% |
 | Lärare yrkesämnen | 51 | 44 000 | 43 850 | 27% |
 | Utvecklingsledare | 51 | 49 950 | 51 500 | 17% |
+
+<!-- sida 256 -->
+
+Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   15
 
 <!-- sida 257 -->
 
@@ -12415,27 +12355,24 @@ kvinnor hade högre medianlön än män i de övriga sju intervallen.
 
 Grön färg = män har högre medianlön.
 
-BAS  Antal Kvinnors Antal Männens 2020   2021   2022   2023   2024
-kvinnor medianlön män medianlön
-
-```osaker-tabell
-A    140   26 450  71     25 900  1 225 kr 1 301 kr 800 kr 800 kr 550 kr
-B    535   28 000  144    27 703  -1 200 kr -545 kr -250 kr 600 kr 297 kr
-
-C    1 729 31 001  333    30 800  -425 kr 500 kr 626 kr 200 kr 201 kr
-D    138   34 200  109    35 300  -650 kr -470 kr -660 kr -900 kr -1 100 kr
-E    173   37 300  83     37 000  -100 kr 150 kr 605 kr 200 kr 300 kr
-F    1 595 40 000  339    41 000  -900 kr -860 kr -698 kr -500 kr -1 000 kr
-
-G    522   45 875  198    44 800  550 kr 725 kr 775 kr 800 kr 1 075 kr
-H    101   51 300  40     51 675  1 400 kr 675 kr 625 kr 25 kr -375 kr
-I    67    54 000  32     52 900  -1 700 kr -950 kr -550 kr 100 kr 1 100 kr
-J    172   56 450  30     57 450  -1 900 kr -1 300 kr -2 000 kr -2 000 kr -1 000 kr
-```
-
 (Från BI, Daterad: 241030)
 
 Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   17
+
+[Tabell 258-1](handlingar.tabeller/258-1.csv)
+
+| BAS | Antal<br>kvinnor | Kvinnors<br>medianlön | Antal<br>män | Männens<br>medianlön | 2020 | 2021 | 2022 | 2023 | 2024 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| A | 140 | 26 450 | 71 | 25 900 | 1 225 kr | 1 301 kr | 800 kr | 800 kr | 550 kr |
+| B | 535 | 28 000 | 144 | 27 703 | -1 200 kr | -545 kr | -250 kr | 600 kr | 297 kr |
+| C | 1 729 | 31 001 | 333 | 30 800 | -425 kr | 500 kr | 626 kr | 200 kr | 201 kr |
+| D | 138 | 34 200 | 109 | 35 300 | -650 kr | -470 kr | -660 kr | -900 kr | -1 100 kr |
+| E | 173 | 37 300 | 83 | 37 000 | -100 kr | 150 kr | 605 kr | 200 kr | 300 kr |
+| F | 1 595 | 40 000 | 339 | 41 000 | -900 kr | -860 kr | -698 kr | -500 kr | -1 000 kr |
+| G | 522 | 45 875 | 198 | 44 800 | 550 kr | 725 kr | 775 kr | 800 kr | 1 075 kr |
+| H | 101 | 51 300 | 40 | 51 675 | 1 400 kr | 675 kr | 625 kr | 25 kr | -375 kr |
+| I | 67 | 54 000 | 32 | 52 900 | -1 700 kr | -950 kr | -550 kr | 100 kr | 1 100 kr |
+| J | 172 | 56 450 | 30 | 57 450 | -1 900 kr | -1 300 kr | -2 000 kr | -2 000 kr | -1 000 kr |
 
 <!-- sida 259 -->
 

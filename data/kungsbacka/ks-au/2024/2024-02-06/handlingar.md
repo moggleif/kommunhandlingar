@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.7b9d1ad18d54c082d594c8/170688412133
 sha256: 6238ffd89f4bdfa141e7c5256afb7d9c780b486f6fa3c6555fb025a7f87c9570
 bytes: 78583367
 sidor: 186
-hamtad: 2026-10-09T08:35:44+00:00
-konverterad: 2026-10-09T08:38:59+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T06:27:10+00:00
+konverterad: 2026-10-16T06:30:39+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok]
-tal_obekraftade: [7, 67, 68, 92, 93, 94, 95, 96, 97, 98, 107, 108, 109, 110, 111, 112, 113, 114, 122, 127, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 180, 181, 182, 183, 184, 185]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok]
+tal_obekraftade: [7, 67, 68, 92, 93, 94, 95, 96, 97, 98, 107, 108, 109, 110, 111, 112, 113, 114, 122, 127, 140, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 180, 181, 182, 183, 184, 185]
 figurer: [7, 62, 92, 93, 94, 95, 96, 97, 98, 107, 108, 109, 110, 111, 112, 113, 114, 122, 133, 134, 150, 151, 152, 153, 154, 155, 156, 157, 158, 174, 175, 176, 177, 178, 186]
 tolkade: []
 ---
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-3-1](handlingar.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -65,6 +65,11 @@ KUNGSBACKA  KOMMUN
 | 5. | Svar på Socialdepartementets<br>remiss över promemorian Ett<br>förtydligat brottsförebyggande<br>ansvar för socialnämnden | 2023-00808 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-01-<br>26, och översänder det som sitt svar till<br>Socialdepartementet. |
 | 6. | Godkännande av<br>investeringsmedel till och<br>uppstart av projekt i lokalplan<br>Administrativa lokaler<br>samlokalisering | 2023-00842 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner att projekt<br>Administrativa lokaler samlokalisering läggs till i<br>Lokalplan 2024-2028 som ingår som en del av<br>kommunbudget 2024.<br>Kommunfullmäktige godkänner att<br>investeringsvolym om 44,4 miljoner kronor som<br>ingår i kommunbudget 2024, används för projekt<br>Administrativa lokaler samlokalisering.<br>Förslag till beslut i kommunstyrelsen under<br>förutsättning av kommunfullmäktiges beslut ovan<br>Kommunstyrelsen godkänner uppstart av projekt<br>Administrativa lokaler samlokalisering. |
 | 7. | Svar på motion från Magdalena<br>Sundqvist (S) om att återuppta<br>nationaldagsfirandet i<br>Kungsbacka | 2023-00439 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att Kungsbacka kommun även<br>fortsättningsvis kommer att ansvara för<br>genomförande av nationaldagsfirande. |
+| 8. | Svar på motion från Johan<br>Tolinsson (S) om att utreda<br>förutsättningarna för en<br>Ledardag | 2021-01156 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till de befintliga samverkanforum för<br>samspel mellan förtroendevalda och kommunens<br>chefer som redan är etablerade. |
+| 9. | Samråd för fördjupad<br>översiktsplan för Kungsbacka<br>stad (FÖP) | 2020-00313 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att samråda om Fördjupad översiktsplan för<br>Kungsbacka stad, daterad 2024-01-25. |
+| 10. | Planbesked för Bukärr 2:28 | 2023-00699 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom del av Bukärr 2:28 i Särö. |
+| 11. | Planbesked för Lyngås 3:8 | 2023-00640 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Lyngås 3:8 i Onsala. |
+| 12. | Planbesked för Kläppa 1:4 | 2023-00698 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att utreda förutsättningarna för bostäder inom<br>Kläppa 1:4 genom att inkludera fastigheten i ett<br>planprogram för ett större område i anslutning till<br>Åsa station.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att inkludera Kläppa 1:4 i en projektbeställning för<br>upprättande av planprogram för Åsa station i Åsa. |
 
 <!-- sida 3 -->
 
@@ -72,23 +77,13 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Svar på motion från Johan<br>Tolinsson (S) om att utreda<br>förutsättningarna för en<br>Ledardag | 2021-01156 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till de befintliga samverkanforum för<br>samspel mellan förtroendevalda och kommunens<br>chefer som redan är etablerade. |
-| 9. | Samråd för fördjupad<br>översiktsplan för Kungsbacka<br>stad (FÖP) | 2020-00313 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att samråda om Fördjupad översiktsplan för<br>Kungsbacka stad, daterad 2024-01-25. |
-| 10. | Planbesked för Bukärr 2:28 | 2023-00699 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom del av Bukärr 2:28 i Särö. |
-| 11. | Planbesked för Lyngås 3:8 | 2023-00640 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Lyngås 3:8 i Onsala. |
-| 12. | Planbesked för Kläppa 1:4 | 2023-00698 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att utreda förutsättningarna för bostäder inom<br>Kläppa 1:4 genom att inkludera fastigheten i ett<br>planprogram för ett större område i anslutning till<br>Åsa station.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att inkludera Kläppa 1:4 i en projektbeställning för<br>upprättande av planprogram för Åsa station i Åsa. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
 
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
+[Tabell 4-5-1](handlingar.tabeller/4-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -96,6 +91,7 @@ KUNGSBACKA  KOMMUN
 | 14. | Information om arbetet med<br>skredriskområdet i Anneberg<br>Klockan 09:00-09:20<br>Christian Carlsson<br>Lena Salomonsson | 2023-00463 | - |
 | 15. | Information om hur<br>Kungsbacka påverkas av den<br>tredje cykeln i<br>översvämningsdirektivet<br>Klockan 09:25-09:45<br>Christian Carlsson<br>Lena Salomonsson | 2018-00686 | - |
 | 16. | Information om hållbart boende<br>(från årshjul)<br>Klockan 10:00-10:30<br>Lovisa Eld<br>Ivan Stipic<br>Patrik Hellberg<br>Mats Söderström<br>Johan Burman<br>Christer Kilersjö | 2024-00023 | - |
+| 17. | Information från ledamöter och<br>förvaltning | 2024-00025 | - |
 
 <!-- sida 5 -->
 
@@ -105,12 +101,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 17. | Information från ledamöter och<br>förvaltning | 2024-00025 | - |
 
 <!-- sida 6 -->
 
@@ -1615,7 +1605,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 9 (20)
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 10 (20)
 
-[Tabell 42-1](handlingar.tabeller/42-1.csv)
+[Tabell 42-43-1](handlingar.tabeller/42-43-1.csv)
 
 |  | 2.2 Ekonomi och inköp |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1627,15 +1617,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 10 (20)
 | 2.2.1 d) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Beslut om ändring och tillägg av kontrakt. | Kdir | X<br>Villkor: Samma<br>delegat som i 2.2.1 a) |  |
 | 2.2.1 e) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Beslut om uppsägning eller hävning av avtal. | Kdir | X<br>Villkor: Samma<br>delegat som i 2.2.1 a) |  |
 | 2.2.2 | KS beslut om<br>nämndbudget och<br>Kungsbacka<br>styrmodell | Förvaltningsbudget med fördelning på verksamhetsnivå. | Kdir |  |  |
-
-<!-- sida 43 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 11 (20)
-
-[Tabell 43-1](handlingar.tabeller/43-1.csv)
-
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.2.3 | Attestreglementet | Utse beslutsattestanter och ersättare för<br>kommunstyrelsens förvaltning. | Kdir |  | Anmäls till KS en gång per år. |
 | 2.2.4 | Reglementet<br>Finanspolicyn | Ta upp lån inom den maximala beloppsgräns<br>kommunfullmäktige årligen fastställer i<br>kommunbudgeten. | Kdir | X |  |
 | 2.2.5 | Reglementet<br>Finanspolicyn | Placering av kommunens medel. | Kdir | X |  |
@@ -1644,11 +1626,15 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 11 (20)
 | 2.2.8 | Reglementet | Årligen bevilja föreningsbidrag, maximalt två<br>prisbasbelopp per år, till Hallands arkivförbund | Kdir | X |  |
 | 2.2.9 | Reglementet | Årligen besluta om bidrag upp till ett belopp om fyra<br>prisbasbelopp per år, till Nyföretagarcentrum Halland. | Kdir | X |  |
 
+<!-- sida 43 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 11 (20)
+
 <!-- sida 44 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 12 (20)
 
-[Tabell 44-1](handlingar.tabeller/44-1.csv)
+[Tabell 44-45-1](handlingar.tabeller/44-45-1.csv)
 
 |  | 2.3 Personal<br>Kommunövergripande personalärenden |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1661,18 +1647,14 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 12 (20)
 | 2.3.6 | LAS | Anställning av<br>kommundirektör. | KS |  | Au bereder ärendet |
 | 2.3.7 | Lönestruktur,<br>arbetsrättslig<br>reglering | Lönesättning (vid nyanställning) och beslut i övriga<br>personalärenden för kommundirektör. | Ks ordf |  |  |
 | 2.3.8 | LAS | Anställning av förvaltningschef hos nämnd. | Au |  | Kommundirektören bereder<br>ärendet. |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
+| 2.3.9 | LAS | Anställning av förvaltningschef hos nämnd på<br>tidsbegränsat förordnande samt beslut om<br>ställföreträdande förvaltningschef hos nämnd. | Kdir |  |  |
+| 2.3.10 | Reglementet | Lönesättning av förvaltningschef hos nämnd (vid<br>nyanställning). | Kdir |  | Information till Au i samband med<br>lönesättning. |
+| 2.3.11 | Arbetsrättslig<br>reglering | Övriga personalärenden rörande förvaltningschef hos<br>nämnd | Kdir |  | Beslut om avsked för fc föregås<br>av samråd med Au.<br>Vid beslut om bisyssla för fc ska<br>information till Au ske. |
 
 <!-- sida 45 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 13 (20)
-
-[Tabell 45-1](handlingar.tabeller/45-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
-| 2.3.9 | LAS | Anställning av förvaltningschef hos nämnd på<br>tidsbegränsat förordnande samt beslut om<br>ställföreträdande förvaltningschef hos nämnd. | Kdir |  |  |
-| 2.3.10 | Reglementet | Lönesättning av förvaltningschef hos nämnd (vid<br>nyanställning). | Kdir |  | Information till Au i samband med<br>lönesättning. |
-| 2.3.11 | Arbetsrättslig<br>reglering | Övriga personalärenden rörande förvaltningschef hos<br>nämnd | Kdir |  | Beslut om avsked för fc föregås<br>av samråd med Au.<br>Vid beslut om bisyssla för fc ska<br>information till Au ske. |
 
 <!-- sida 46 -->
 
@@ -1680,7 +1662,7 @@ Kommunstyrelsens   egna personalärenden
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 14 (20)
 
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
+[Tabell 46-47-1](handlingar.tabeller/46-47-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -1688,15 +1670,6 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 14 (20)
 | 2.3.12 | LAS, kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader avseende chefer för respektive<br>kontor inom kommunstyrelsens förvaltning. | Kdir |  | Samråd med<br>Au innan anställning.<br>Tidsbegränsad anställning<br>kortare än 6 månader är<br>verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor. |
 | 2.3.13 | LAS, kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader för verksamhetschefer och direkt<br>underställd personal inom kommunstyrelsens<br>förvaltning. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till kontorschefer<br>för samhälls-<br>byggnadskontoret<br>resp. kommun-<br>ledningskontoret. | Tidsbegränsad anställning<br>kortare än 6 månader är<br>verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor.<br>Vidaredelegeringen gäller för<br>anställning av personal inom sitt<br>respektive ansvarsområde. |
 | 2.3.14 | LAS, kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader för övrig personal inom<br>kommunstyrelsens förvaltning. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till verksamhets-<br>chefer. | Tidsbegränsad anställning kortare<br>än 6 månader är verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor.<br>Vidaredelegeringen gäller för<br>anställning av personal inom sitt<br>respektive ansvarsområde. |
-
-<!-- sida 47 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (20)
-
-[Tabell 47-1](handlingar.tabeller/47-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.3.15 | Arbetsrättslig<br>reglering | Beslut i övriga personalärenden rörande chefer vid<br>respektive kontor inom kommunstyrelsens förvaltning. | Kdir |  |  |
 |  |  | Avveckla |  |  |  |
 | 2.3.16 | LAS § 7 | Uppsägning av personliga skäl. | Kdir | X | I samråd med HR på förvaltningen<br>och förhandlingschef. |
@@ -1707,6 +1680,10 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (20)
 | 2.3.20 | LOA 7 c §<br>AB 8 § | Förbud mot bisyssla | Kdir | X | I samråd med HR på förvaltningen<br>i enlighet med ”Regler för bisyssla<br>i Kungsbacka kommun”. |
 | 2.3.21 | AB § 10 mom 1-3 | Avstängning | Kdir | X | I samråd med HR på<br>förvaltningen. |
 | 2.3.22 | AB § 11 | Disciplinåtgärd – skriftlig varning | Kdir | X | I samråd med HR på<br>förvaltningen. |
+
+<!-- sida 47 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (20)
 
 <!-- sida 48 -->
 
@@ -1733,7 +1710,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 16 (20)
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (20)
 
-[Tabell 49-1](handlingar.tabeller/49-1.csv)
+[Tabell 49-50-1](handlingar.tabeller/49-50-1.csv)
 
 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1747,21 +1724,16 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (20)
 | 2.4.11<br>15 | Reglementet | Förvärv av fastighet eller del av fastighet, genom köp,<br>byte, gåva, fastighetsreglering eller liknande åtgärd, upp<br>till 2 miljoner kr. | Kdir | X | Villkor:<br>Vidaredelegering upp till 2<br>miljoner kronor får ske till VC och<br>upp till 250 000 kronor till annan<br>anställd.<br>Se bestämmelserna punkt 1.5. |
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
 | 2.4.12<br>16 | Reglementet | Uppdrag om förberedelse för överlåtelse av kommunens<br>fasta egendom (fastighet eller del av fastighet). | Au |  |  |
-
-<!-- sida 50 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 18 (20)
-
-[Tabell 50-1](handlingar.tabeller/50-1.csv)
-
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | 2.4.13<br>17 | Reglementet | Överlåtelse av kommunens fasta egendom, (fastighet<br>eller del av fastighet) genom köp, byte, gåva,<br>fastighetsreglering eller liknande åtgärd, upp till 10<br>miljoner kr. | Au |  |  |
 | 2.4.14<br>18 | Reglementet | Överlåtelse av kommunens fasta egendom (fastighet<br>eller del av fastighet) genom köp, byte, gåva,<br>fastighetsreglering eller liknande åtgärd, upp till 2<br>miljoner kr. | Kdir | X | Villkor:<br>Vidaredelegering upp till 2<br>miljoner kronor får ske till VC och<br>upp till 250 000 kronor till annan<br>anställd.<br>Se bestämmelserna punkt 1.5. |
 | 2.4.15<br>19 | Reglementet | Utredning för lokalisering av verksamhet. | Au |  |  |
 | 2.4.16<br>20 | Reglementet | Avtal om parkeringsköp och parkeringsavlösen. | Kdir | X | Se bestämmelserna punkt 1.5. |
 | 2.4.17<br>21 | Reglementet | Förvärv av fast egendom som försäljs på exekutiv- eller<br>offentlig auktion där kommunen har intecknad fordran<br>eller är intecknad för lån med kommunal borgen. | Kdir | X | Samråd Au inför auktion. Se<br>bestämmelserna punkt 1.5 |
 | 2.4.18<br>22 | Reglementet | Nedsättning, dödning, sammanföring och relaxation av<br>inteckningar samt utbyte av pantbrev liksom andra<br>därmed jämförliga åtgärder. | Kdir | X | Se bestämmelserna punkt 1.5 |
+
+<!-- sida 50 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 18 (20)
 
 <!-- sida 51 -->
 
@@ -2481,12 +2453,11 @@ FLERÅRSÖVERSIKT
 
 Beloppen i flerårsöversikten är angivna i tusental kronor om inte annat anges.
 
-2201-2212  2101-2112 2001-2012  1901-1912
-
 [Tabell 70-1](handlingar.tabeller/70-1.csv)
 
-| Nettoomsättning | 3 885 | 3 859 | 3 486 | 4 119 |
+|  | 2201-2212 | 2101-2112 | 2001-2012 | 1901-1912 |
 | --- | --- | --- | --- | --- |
+| Nettoomsättning | 3 885 | 3 859 | 3 486 | 4 119 |
 | Resultat efter finansiella poster | -566 | -99 | -15 | -469 |
 | Soliditet % | -79 | -46 | -112 | -110 |
 
@@ -2496,11 +2467,6 @@ Vallda TK                                                       3(7)
 849400-2259
 
 RESULTATRÄKNING                       1
-
-2022-01-01 2021-01-01
-2022-12-31 2021-12-31
-
-Rörelseintäkter, lagerförändringar m.m.
 
 Rörelsekostnader
 Råvaror och förnödenheter                          -450 251  -298 156
@@ -2515,8 +2481,10 @@ Finansiella poster
 
 [Tabell 71-1](handlingar.tabeller/71-1.csv)
 
-| Nettoomsättning | 3 884 666 | 3 858 757 |
+|  | 2022-01-01 2022-12-31 | 2021-01-01 2021-12-31 |
 | --- | --- | --- |
+| Rörelseintäkter, lagerförändringar m.m. |  |  |
+| Nettoomsättning | 3 884 666 | 3 858 757 |
 | Övriga rörelseintäkter | 15 468 | 46 410 |
 | Summa rörelseintäkter, lagerförändringar m.m. | 3 900 134 | 3 905 167 |
 
@@ -2578,12 +2546,6 @@ Kassa och bank
 Vallda TK                                                       5(7)
 849400-2259
 
-2022-12-31 2021-12-31
-
-EGET KAPITAL OCH SKULDER
-
-Eget kapital
-
 Långfristiga skulder
 Övriga skulder till kreditinstitut    6           1 525 000  1 550 000
 Övriga skulder                                    2 067 022  1 824 022
@@ -2594,8 +2556,11 @@ Kortfristiga skulder
 
 [Tabell 73-1](handlingar.tabeller/73-1.csv)
 
-| Eget kapital vid räkenskapsårets början | -1 247 980 | -1 149 032 |
+|  | 2022-12-31 | 2021-12-31 |
 | --- | --- | --- |
+| EGET KAPITAL OCH SKULDER |  |  |
+| Eget kapital |  |  |
+| Eget kapital vid räkenskapsårets början | -1 247 980 | -1 149 032 |
 | Årets resultat | -565 560 | -98 948 |
 | Eget kapital vid räkenskapsårets slut | -1 813 540 | -1 247 980 |
 
@@ -2627,11 +2592,7 @@ Medelantalet anställda                                5         5
 
 Not 3   Inventarier verktyg och installationer   2022-12-31 2021-12-31
 
-Förändringar av avskrivningar
-
 Not 4   Grusbanor på annans mark                 2022-12-31 2021-12-31
-
-Förändringar av avskrivningar
 
 [Tabell 74-1](handlingar.tabeller/74-1.csv)
 
@@ -2639,25 +2600,19 @@ Förändringar av avskrivningar
 | --- | --- | --- |
 | Utgående anskaffningsvärden | 120 538 | 120 538 |
 | Ingående avskrivningar | -107 938 | -95 338 |
-
-[Tabell 74-2](handlingar.tabeller/74-2.csv)
-
+| Förändringar av avskrivningar |  |  |
 | Årets avskrivningar | -12 600 | -12 600 |
-| --- | --- | --- |
 | Utgående avskrivningar | -120 538 | -107 938 |
 | Redovisat värde | 0 | 12 600 |
 
-[Tabell 74-3](handlingar.tabeller/74-3.csv)
+[Tabell 74-2](handlingar.tabeller/74-2.csv)
 
 | Ingående anskaffningsvärden | 2 117 767 | 2 117 767 |
 | --- | --- | --- |
 | Utgående anskaffningsvärden | 2 117 767 | 2 117 767 |
 | Ingående avskrivningar | -735 738 | -629 849 |
-
-[Tabell 74-4](handlingar.tabeller/74-4.csv)
-
+| Förändringar av avskrivningar |  |  |
 | Årets avskrivningar | -105 889 | -105 889 |
-| --- | --- | --- |
 | Utgående avskrivningar | -841 627 | -735 738 |
 | Redovisat värde | 1 276 140 | 1 382 029 |
 
@@ -2668,8 +2623,6 @@ Vallda TK                                                       7(7)
 
 Not 5   Byggnader på annans mark, klubbstuga och 2022-12-31 2021-12-31
 omklädningsrum mm
-
-Förändringar av avskrivningar
 
 Totalt nedlagda ekonomiska medel avseende byggnation av klubbstuga och omklädningsrum uppgår till 2 318 298,
 avgår bidrag från Arvsfonden 2 181 000 kr.
@@ -2706,11 +2659,8 @@ Revisor
 | --- | --- | --- |
 | Utgående anskaffningsvärden | 137 298 | 137 298 |
 | Ingående avskrivningar | -32 946 | -27 455 |
-
-[Tabell 75-2](handlingar.tabeller/75-2.csv)
-
+| Förändringar av avskrivningar |  |  |
 | Årets avskrivningar | -5 491 | -5 491 |
-| --- | --- | --- |
 | Utgående avskrivningar | -38 437 | -32 946 |
 | Redovisat värde | 98 861 | 104 352 |
 
@@ -2776,14 +2726,16 @@ Kortfristiga skulder
 2940 Uppl soc avg                   -77 279,00   -6 998,00  -84 277,00
 2943 Upplupen löneskatt             -16 758,33     13,33    -16 745,00
 2990 Övr upplupna kostn/förutb     -208 492,00  167 492,00  -41 000,00
-S:a kortfristiga skulder           -580 159,55  47 702,55   -532 457,00
 ```
 
-S:A EGET KAPITAL, AVSÄTTN OCH SKULDER -882 179,04 638 262,33 -243 916,71
-
-Beräknat resultat                      0,00         0,00        0,00
-
 BL Bokslut 2022.1.103           2023-06-28                   1(1)
+
+[Tabell 76-1](handlingar.tabeller/76-1.csv)
+
+| S:a kortfristiga skulder | -580 159,55 | 47 702,55 | -532 457,00 |
+| --- | --- | --- | --- |
+| S:A EGET KAPITAL, AVSÄTTN OCH SKULDER | -882 179,04 | 638 262,33 | -243 916,71 |
+| Beräknat resultat | 0,00 | 0,00 | 0,00 |
 
 <!-- sida 77 -->
 
@@ -2927,17 +2879,16 @@ Finansiella och andra intäkter och kostnader
 8421 Räntekost leverantörss            0,00      -2 582,96   -2 582,96
 ```
 
-S:a finansiella och andra intäkter och kostnader -40 981,28 -19 932,65 -60 913,93
-
-RESULTAT FÖRE BOKSLUTSDISPOSITIONER -98 947,89 -466 611,89  -565 559,78
-
-RESULTAT FÖRE SKATT                 -98 947,89 -466 611,89  -565 559,78
-
-ÅRETS RESULTAT                      -98 947,89 -466 611,89  -565 559,78
-
-Beräknat resultat                      0,00         0,00        0,00
-
 BL Bokslut 2022.1.103           2023-06-28                   2(2)
+
+[Tabell 78-1](handlingar.tabeller/78-1.csv)
+
+| S:a finansiella och andra intäkter och kostnader | -40 981,28 | -19 932,65 | -60 913,93 |
+| --- | --- | --- | --- |
+| RESULTAT FÖRE BOKSLUTSDISPOSITIONER | -98 947,89 | -466 611,89 | -565 559,78 |
+| RESULTAT FÖRE SKATT | -98 947,89 | -466 611,89 | -565 559,78 |
+| ÅRETS RESULTAT | -98 947,89 | -466 611,89 | -565 559,78 |
+| Beräknat resultat | 0,00 | 0,00 | 0,00 |
 
 <!-- sida 79 -->
 
@@ -3007,41 +2958,36 @@ FLERÅRSÖVERSIKT
 
 Beloppen i flerårsöversikten är angivna i tusental kronor om inte annat anges.
 
-2201-2212  2101-2112 2001-2012  1901-1912
-
 FÖRÄNDRINGAR I EGET KAPITAL
-
-Medlems-   Balanserat   Årets      Totalt
-insatser  resultat   resultat
-Belopp vid årets ingång        680 900   -283 203    10 467   408 164
-Resultatdisposition enligt föreningsstämman:
-
-```osaker-tabell
-Balanseras i ny räkning                   10 467    -10 467       0
-Årets resultat                                      -59 116    -59 116
-Belopp vid årets utgång        680 900   -272 736   -59 116   349 048
-```
-
-RESULTATDISPOSITION
-
-Medel att disponera:
-
-Balanserat resultat           -272 736
-Årets resultat                 -59 116
-Summa                         -331 852
-
-Förslag till disposition:
-Balanseras i ny räkning       -331 852
-Summa                         -331 852
 
 Bolagets resultat och ställning framgår av efterföljande resultat-och balansräkning med noter.
 
 [Tabell 81-1](handlingar.tabeller/81-1.csv)
 
-| Nettoomsättning | 390 | 390 | 380 | 370 |
+|  | 2201-2212 | 2101-2112 | 2001-2012 | 1901-1912 |
 | --- | --- | --- | --- | --- |
+| Nettoomsättning | 390 | 390 | 380 | 370 |
 | Resultat efter finansiella poster | -59 | 10 | 6 |  |
 | Balansomslutning | 5 388 | 5 397 | 5 388 | 5 386 |
+
+[Tabell 81-2](handlingar.tabeller/81-2.csv)
+
+|  | Medlems- | Balanserat | Årets | Totalt |
+| --- | --- | --- | --- | --- |
+|  | insatser | resultat | resultat |  |
+| Belopp vid årets ingång | 680 900 | -283 203 | 10 467 | 408 164 |
+| Resultatdisposition enligt föreningsstämman: |  |  |  |  |
+| Balanseras i ny räkning |  | 10 467 | -10 467 | 0 |
+| Årets resultat |  |  | -59 116 | -59 116 |
+| Belopp vid årets utgång | 680 900 | -272 736 | -59 116 | 349 048 |
+| RESULTATDISPOSITION |  |  |  |  |
+| Medel att disponera: |  |  |  |  |
+| Balanserat resultat | -272 736 |  |  |  |
+| Årets resultat | -59 116 |  |  |  |
+| Summa | -331 852 |  |  |  |
+| Förslag till disposition: |  |  |  |  |
+| Balanseras i ny räkning | -331 852 |  |  |  |
+| Summa | -331 852 |  |  |  |
 
 <!-- sida 82 -->
 
@@ -3050,29 +2996,20 @@ Vallda Tennishall Ek Förening                                   3(6)
 
 RESULTATRÄKNING                       1
 
-2022-01-01 2021-01-01
-2022-12-31 2021-12-31
-
-Rörelseintäkter, lagerförändringar m.m.
-Nettoomsättning                                    390 000    390 000
-Summa rörelseintäkter, lagerförändringar m.m.      390 000   390 000
-
-Rörelsekostnader
-
-Finansiella poster
-
 [Tabell 82-1](handlingar.tabeller/82-1.csv)
 
-| Övriga externa kostnader | -1 580 | -1 200 |
+|  | 2022-01-01 2022-12-31 | 2021-01-01 2021-12-31 |
 | --- | --- | --- |
+| Rörelseintäkter, lagerförändringar m.m. |  |  |
+| Nettoomsättning | 390 000 | 390 000 |
+| Summa rörelseintäkter, lagerförändringar m.m. | 390 000 | 390 000 |
+| Rörelsekostnader |  |  |
+| Övriga externa kostnader | -1 580 | -1 200 |
 | Avskrivningar av materiella anläggningstillgångar | -252 006 | -255 208 |
 | Summa rörelsekostnader | -253 586 | -256 408 |
 | Rörelseresultat | 136 414 | 133 592 |
-
-[Tabell 82-2](handlingar.tabeller/82-2.csv)
-
+| Finansiella poster |  |  |
 | Räntekostnader och liknande resultatposter | -195 530 | -123 125 |
-| --- | --- | --- |
 | Summa finansiella poster | -195 530 | -123 125 |
 | Resultat efter finansiella poster | -59 116 | 10 467 |
 | Resultat före skatt | -59 116 | 10 467 |
@@ -3122,30 +3059,22 @@ EGET KAPITAL OCH SKULDER
 
 Eget kapital
 Bundet eget kapital
-Medlemsinsatser                                    680 900    680 900
-Summa bundet eget kapital                          680 900    680 900
-
-Fritt eget kapital
-
-Långfristiga skulder
-Övriga skulder till kreditinstitut                4 970 000  4 970 000
-
-Summa långfristiga skulder                        4 970 000 4 970 000
-
-Kortfristiga skulder
 
 [Tabell 84-1](handlingar.tabeller/84-1.csv)
 
-| Balanserat resultat | -272 736 | -283 203 |
+| Medlemsinsatser | 680 900 | 680 900 |
 | --- | --- | --- |
+| Summa bundet eget kapital | 680 900 | 680 900 |
+| Fritt eget kapital |  |  |
+| Balanserat resultat | -272 736 | -283 203 |
 | Årets resultat | -59 116 | 10 467 |
 | Summa fritt eget kapital | -331 852 | -272 736 |
 | Summa eget kapital | 349 048 | 408 164 |
-
-[Tabell 84-2](handlingar.tabeller/84-2.csv)
-
+| Långfristiga skulder |  |  |
+| Övriga skulder till kreditinstitut | 4 970 000 | 4 970 000 |
+| Summa långfristiga skulder | 4 970 000 | 4 970 000 |
+| Kortfristiga skulder |  |  |
 | Övriga skulder | 0 | 19 278 |
-| --- | --- | --- |
 | Upplupna kostnader och förutbetalda intäkter | 69 383 | 0 |
 | Summa kortfristiga skulder | 69 383 | 19 278 |
 | SUMMA EGET KAPITAL OCH SKULDER | 5 388 431 | 5 397 442 |
@@ -3163,8 +3092,6 @@ Enligt BFNAR 2016:10
 Årsredovisningen har upprättats enligt årsredovisningslagen och BFNAR 2016:10 Årsredovisning i mindre företag (K2).
 
 Not 2   Byggnader och mark                       2022-12-31 2021-12-31
-
-Förändringar av avskrivningar
 
 Not 3   Rapport om årsredovisning
 
@@ -3194,11 +3121,8 @@ Revisor
 | --- | --- | --- |
 | Utgående anskaffningsvärden | 8 141 095 | 8 141 095 |
 | Ingående avskrivningar | -4 567 675 | -4 312 467 |
-
-[Tabell 85-2](handlingar.tabeller/85-2.csv)
-
+| Förändringar av avskrivningar |  |  |
 | Årets avskrivningar | -252 006 | -255 208 |
-| --- | --- | --- |
 | Utgående avskrivningar | -4 819 681 | -4 567 675 |
 | Redovisat värde | 3 321 414 | 3 573 420 |
 
@@ -3244,13 +3168,15 @@ Kortfristiga skulder
 2810 Kortf skuld                    -19 278,30  19 278,30       0,00
 2890 Vallda Tennisklubb           1 824 022,29  243 000,00 2 067 022,29
 2990 Övr upplupna kostn/förutb         0,00     -69 382,55  -69 382,55
-S:a kortfristiga skulder          1 804 743,99  192 895,75 1 997 639,74
-
-S:A EGET KAPITAL, AVSÄTTN OCH SKULDER -3 573 420,00 252 011,54 -3 321 408,46
-
-Beräknat resultat                      0,00         0,00        0,00
 
 BL Bokslut 2022.1.103           2023-06-28                   1(1)
+
+[Tabell 86-1](handlingar.tabeller/86-1.csv)
+
+| S:a kortfristiga skulder | 1 804 743,99 | 192 895,75 | 1 997 639,74 |
+| --- | --- | --- | --- |
+| S:A EGET KAPITAL, AVSÄTTN OCH SKULDER | -3 573 420,00 | 252 011,54 | -3 321 408,46 |
+| Beräknat resultat | 0,00 | 0,00 | 0,00 |
 
 <!-- sida 87 -->
 
@@ -3292,19 +3218,17 @@ RESULTAT FÖRE FINANSIELLA POSTER   133 592,00    2 822,00   136 414,00
 
 Finansiella och andra intäkter och kostnader
 8400 Räntekostnader                -123 124,61  -72 405,18  -195 529,79
-S:a finansiella och andra intäkter och kostnader -123 124,61 -72 405,18 -195 529,79
-
-```osaker-tabell
-RESULTAT FÖRE BOKSLUTSDISPOSITIONER 10 467,39   -69 583,18  -59 115,79
-
-RESULTAT FÖRE SKATT                 10 467,39   -69 583,18  -59 115,79
-
-ÅRETS RESULTAT                      10 467,39   -69 583,18  -59 115,79
-
-Beräknat resultat                      0,00         0,00        0,00
-```
 
 BL Bokslut 2022.1.103           2023-06-28                   1(1)
+
+[Tabell 87-1](handlingar.tabeller/87-1.csv)
+
+| S:a finansiella och andra intäkter och kostnader | -123 124,61 | -72 405,18 | -195 529,79 |
+| --- | --- | --- | --- |
+| RESULTAT FÖRE BOKSLUTSDISPOSITIONER | 10 467,39 | -69 583,18 | -59 115,79 |
+| RESULTAT FÖRE SKATT | 10 467,39 | -69 583,18 | -59 115,79 |
+| ÅRETS RESULTAT | 10 467,39 | -69 583,18 | -59 115,79 |
+| Beräknat resultat | 0,00 | 0,00 | 0,00 |
 
 <!-- sida 88 -->
 

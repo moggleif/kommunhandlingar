@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.44c56de518fa42b4f1d12ec8/1717407855
 sha256: f3e98f6b600a58798a417518f762f3341b8955063933fe7c32e57534982fb8c9
 bytes: 247763
 sidor: 5
-hamtad: 2026-10-09T08:21:11+00:00
-konverterad: 2026-10-09T08:21:17+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-16T06:11:30+00:00
+konverterad: 2026-10-16T06:11:37+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]
@@ -56,29 +56,24 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-3-1](kallelse.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 3. | Information om arbetet med att<br>ta fram en ny styrmodell<br>10:05-11:05<br>Christina Hermansson<br>Lena Thorell<br>Lina Lundgren<br>Katarina Öryd, Byggnads- och<br>miljöförvaltningen | 2023-00672 | - |
 | 4. | Ansökan om stöd för ökat<br>småhusbyggande och<br>omvandlingar från lokaler till<br>bostäder | 2024-00328 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen ger kommundirektören delegation<br>att ansöka om bidrag enligt Boverkets<br>bidragsutlysning om stöd till kommuner för ökat<br>småhusbyggande och omvandlingsåtgärder, med rätt<br>att vidaredelegera. |
 | 5. | Sammanträdesdagar 2025 för<br>kommunfullmäktige,<br>kommunstyrelsen och<br>kommunstyrelsens arbetsutskott | 2024-00362 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott sammanträder<br>följande datum år 2025: 7, 14 och 28 januari; 4 och<br>25 februari; 4, 11 och 25 mars; 8 och 29 april; 6, 13<br>och 20 maj; 3 och 10 juni; 12 och 19 augusti; 2, 9,<br>16 och 30 september; 7 och 14 oktober; 4, 11 och 18<br>november; 2 och 9 december<br>Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen sammanträder följande datum år<br>2025: 21 januari, 18 februari, 18 mars, 22 april, 27<br>maj, 17 juni, 26 augusti, 23 september, 21 oktober,<br>25 november och 16 december<br>Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige sammanträder följande datum<br>år 2025: 4 februari, 4 mars, 8 april, 6 maj<br>12 juni (heldag), 12 augusti, 9 september, 7 oktober<br>4 november, 11 december |
+| 6. | Återrapportering av uppdrag om<br>att utvärdera införande av<br>språkkrav vid anställning inom<br>skolan samt vård och omsorg i<br>Kungsbacka kommun | 2020-00618 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar genomförd utvärdering<br>och förklarar uppdrag som lämnades av<br>kommunfullmäktige 2022-03-08, § 34, för avslutat.<br>Kommunfullmäktige beslutar att försöksperiodens<br>språkkrav blir permanent och övergår till ordinarie<br>verksamhet i berörda nämnder med förvaltningar. |
+| 7. | Delegeringsförteckning för<br>kommunstyrelsen | 2024-00327 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar delegeringsförteckning för<br>kommunstyrelsen, daterad 2024-05-13.<br>Delegeringsförteckningen för kommunstyrelsen,<br>antagen av kommunstyrelsen 2024-02-20 § 45,<br>upphör samtidigt att gälla |
+| 8. | Svar på Hallandstrafikens<br>remiss av Kollektivtrafikplan<br>2025 med utblick 2026-2027 | 2024-00256 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande daterat 2024-05-07,<br>och skickar det som sitt svar till Hallandstrafiken. |
+| 9. | Svar på motion från Maria<br>Losman (MP) om den politiska<br>organisationen i Kungsbacka | 2024-00156 | Kommunstyrelsens förvaltning överlämnar svaret på<br>motionen utan eget ställningstagande. |
+| 10. | Svar på motion från Magdalena<br>Sundqvist (S) om att utreda<br>möjligheten att införa<br>medborgarförslag | 2024-00104 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning att till det arbete som i dag sker i<br>kommunens verksamheter ger bättre förutsättningar<br>för medskapande med invånarna. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(5)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 6. | Återrapportering av uppdrag om<br>att utvärdera införande av<br>språkkrav vid anställning inom<br>skolan samt vård och omsorg i<br>Kungsbacka kommun | 2020-00618 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige noterar genomförd utvärdering<br>och förklarar uppdrag som lämnades av<br>kommunfullmäktige 2022-03-08, § 34, för avslutat.<br>Kommunfullmäktige beslutar att försöksperiodens<br>språkkrav blir permanent och övergår till ordinarie<br>verksamhet i berörda nämnder med förvaltningar. |
-| 7. | Delegeringsförteckning för<br>kommunstyrelsen | 2024-00327 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar delegeringsförteckning för<br>kommunstyrelsen, daterad 2024-05-13.<br>Delegeringsförteckningen för kommunstyrelsen,<br>antagen av kommunstyrelsen 2024-02-20 § 45,<br>upphör samtidigt att gälla |
-| 8. | Svar på Hallandstrafikens<br>remiss av Kollektivtrafikplan<br>2025 med utblick 2026-2027 | 2024-00256 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande daterat 2024-05-07,<br>och skickar det som sitt svar till Hallandstrafiken. |
-| 9. | Svar på motion från Maria<br>Losman (MP) om den politiska<br>organisationen i Kungsbacka | 2024-00156 | Kommunstyrelsens förvaltning överlämnar svaret på<br>motionen utan eget ställningstagande. |
-| 10. | Svar på motion från Magdalena<br>Sundqvist (S) om att utreda<br>möjligheten att införa<br>medborgarförslag | 2024-00104 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning att till det arbete som i dag sker i<br>kommunens verksamheter ger bättre förutsättningar<br>för medskapande med invånarna. |
 
 <!-- sida 4 -->
 

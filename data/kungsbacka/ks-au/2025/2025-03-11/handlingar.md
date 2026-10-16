@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7a4c0a9a19545e45a4bb1e12/1741194432
 sha256: d16fa6a9589c684d3d18a730ebd9f7267920eb9131df7f98772046b98f0c9cdf
 bytes: 6066227
 sidor: 107
-hamtad: 2026-10-09T09:57:57+00:00
-konverterad: 2026-10-09T09:58:19+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T07:52:10+00:00
+konverterad: 2026-10-16T07:52:34+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2524,7 +2524,7 @@ som avstår och 1 frånvarande, beslutar enligt kommunstyrelsens förslag.
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 57-1](handlingar.tabeller/57-1.csv)
+[Tabell 57-58-1](handlingar.tabeller/57-58-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2563,23 +2563,7 @@ Justerare                         Expedierat/bestyrkt
 | Anders Eriksson | (C) | Alla |  |  | X |  |  |
 | Hravn Forsne | (M) | Alla |  | X |  |  |  |
 | Kent Stenhammar | (S) | Alla | A nders Törnberg |  | X |  |  |
-
-<!-- sida 58 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           4 (1)
-Kommunfullmäktige
-Datum
-2020-06-16
-
-Beslutet skickas till
-Samtliga nämnder och bolag, Service: lönecenter, arvodesberedningen
-
-Justerare                         Expedierat/bestyrkt
-
-[Tabell 58-1](handlingar.tabeller/58-1.csv)
-
 | Jan Eric Knutas | (L) | Alla |  |  | X |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Clas Rosander | (MP) | A lla | E lisabeth Sahlsten | X |  |  |  |
 | Charlotte Wallenstein | (M) | Alla |  | X |  |  |  |
 | Bengt Fransson | (SD) | Alla |  |  | X |  |  |
@@ -2606,6 +2590,18 @@ Justerare                         Expedierat/bestyrkt
 | Per Stenberg | (M) | Alla |  |  | X |  |  |
 | Ulrika Högstrand | (KD) | Alla |  |  |  | X |  |
 | SUMMA: |  |  |  | 19 | 40 | 1 | 1 |
+
+<!-- sida 58 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           4 (1)
+Kommunfullmäktige
+Datum
+2020-06-16
+
+Beslutet skickas till
+Samtliga nämnder och bolag, Service: lönecenter, arvodesberedningen
+
+Justerare                         Expedierat/bestyrkt
 
 <!-- sida 59 -->
 
@@ -4397,8 +4393,8 @@ Resultatbudget; detalj 2025, ram 2026 och plan 2027 GR (tkr).
 | --- | --- | --- | --- |
 |  | Detalj 2025 | Ram 2026 | Plan 2027 |
 | Verksamhetens intäkter | 440 114 | 456 336 | 467 546 |
-| varav årsavgifter avsedda för GR:s verksamhet | 51 157 | 51 617 | 51 862 |
-| varav årsavgifter transfererade till andra regionala organisationer | 27 366 | 27 305 | 27 322 |
+| varav årsavgifter avsedda för GR:s verksamhet | 51157 | 51617 | 51862 |
+| varav årsavgifter transfererade till andra regionala organisationer | 27366 | 27305 | 27322 |
 | Verksamhetens kostnader | -442 720 | -454 199 | -465 554 |
 | Avskrivningar | -4 244 | -4 137 | -4 092 |
 | Verksamhetens nettokostnader | -6 850 | -2 000 | -2 100 |
@@ -4462,7 +4458,7 @@ Balansbudget; detalj 2025, ram 2026 och plan 2027 (tkr). samt preliminär årsav
 | II. Fordringar | 89 637 | 92 941 | 95 224 |
 | III. Kortfristiga placeringar | - | - | - |
 | IV. Kassa & Bank | 273 078 | 283 142 | 290 098 |
-| S:A TILLGÅNGAR | 431 036 | 442 370 | 447 700 |
+| S:A TILLGÅNGAR | 431036 | 442370 | 447700 |
 |  |  |  |  |
 | EGET KAPITAL, AVSÄTTNINGAR & SKULDER |  |  |  |
 | A. Eget kapital | 61 519 | 62 019 | 62 319 |
@@ -4476,7 +4472,7 @@ Balansbudget; detalj 2025, ram 2026 och plan 2027 (tkr). samt preliminär årsav
 | I. Långfristiga skulder | - | - | - |
 | II. Kortfristiga skulder | 369 517 | 380 351 | 385 381 |
 |  |  |  |  |
-| S:A EGET KAPITAL, AVSÄTTNINGAR<br>& SKULDER | 431 036 | 442 370 | 447 700 |
+| S:A EGET KAPITAL, AVSÄTTNINGAR<br>& SKULDER | 431036 | 442370 | 447700 |
 |  |  |  |  |
 | Soliditet | 14,3% | 14,0% | 13,9% |
 | Likviditet (kassalikv) | 108,1% | 109,1% | 110,1% |

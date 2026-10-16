@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.2f18dd4b18ecb6094452afd/17129253429
 sha256: 200ab0d8a0cac1c8ca0e127576f9313c226c0d00b86175f9ba8b07e6fbe6f56f
 bytes: 5101620
 sidor: 77
-hamtad: 2026-10-09T08:50:19+00:00
-konverterad: 2026-10-09T08:50:41+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T06:42:54+00:00
+konverterad: 2026-10-16T06:43:15+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [13, 14, 15]
 figurer: [15, 44, 77]
 tolkade: []
@@ -2111,23 +2111,31 @@ välmående och motverka psykisk ohälsa. Totalt har sju ansökningar om medel i
 kommunstyrelsen uppgående till 6 200 000 kronor.
 
 Nämnd            Område           Begärt belopp, kronor Beviljat belopp, kronor
-Vård & Omsorg                                      900 000
-
-Kultur & Fritid                                    1 200 000
-
-Kultur & Fritid                                    500 000
-
-Individ & Familjeomsorg                            1 000 000
-
-Individ & Familjeomsorg
-
-Gymnasium &
-Arbetsmarknad
-
-Förskola & Grundskola
-
-SUMMA                                              3 600 000
-
+Vård & Omsorg    Möta äldre som besväras av 900 000 900 000
+ofrivillig ensamhet
+Kultur & Fritid  Friskvårds- &    1 200 000        1 200 000
+Aktivitetsgruppens satsning
+för att nå fler barn och unga
+Kultur & Fritid  Tillsammansgruppen – 500 000      500 000
+ungdomar från 13 år med
+NPF-diagnos erbjuds
+mötesplats och
+engagerande aktiviteter
+Individ & Familjeomsorg Utökade aktiviteter på 1 000 000 1 000 000
+boenden med särskild
+service, BmSS
+Individ & Familjeomsorg Aktiviteter inom daglig 1 000 000
+verksamhet för att främja
+välmående och motverka
+psykisk ohälsa
+Gymnasium &      Främja välmående och 600 000
+Arbetsmarknad    motverka psykisk ohälsa på
+kommunala gymnasieskolor
+Förskola & Grundskola Aktiviteter för ökad fysisk 1 000 000
+aktivitet, uppsökande
+verksamhet och
+fritidsaktiviteter
+SUMMA                             6 200 000        3 600 000
 Kommunstyrelsens förvaltning har i sin beredning inte värderat nämndens ansökan om medel i
 förhållande till övriga ansökningar. De förslag till beslut som förvaltningen lämnar bygger enbart på
 principen om när de inkommit. Det ska med andra ord inte ses på annat sätt än att kommunstyrelsen
@@ -2138,18 +2146,6 @@ budgetmedel uppgående till 5 000 000 kronor.
 Malin Aronsson                     Anders Johansson
 
 Kommundirektör                     Biträdande kommundirektör
-
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
-
-| Möta äldre som besväras av<br>ofrivillig ensamhet | 900 000 |
-| --- | --- |
-| Friskvårds- &<br>Aktivitetsgruppens satsning<br>för att nå fler barn och unga | 1 200 000 |
-| Tillsammansgruppen –<br>ungdomar från 13 år med<br>NPF-diagnos erbjuds<br>mötesplats och<br>engagerande aktiviteter | 500 000 |
-| Utökade aktiviteter på<br>boenden med särskild<br>service, BmSS | 1 000 000 |
-| Aktiviteter inom daglig<br>verksamhet för att främja<br>välmående och motverka<br>psykisk ohälsa | 1 000 000 |
-| Främja välmående och<br>motverka psykisk ohälsa på<br>kommunala gymnasieskolor | 600 000 |
-| Aktiviteter för ökad fysisk<br>aktivitet, uppsökande<br>verksamhet och<br>fritidsaktiviteter | 1 000 000 |
-|  | 6 200 000 |
 
 <!-- sida 54 -->
 
@@ -2309,22 +2305,31 @@ välmående och motverka psykisk ohälsa. Totalt har sju ansökningar om medel i
 kommunstyrelsen uppgående till 6 200 000 kronor.
 
 Nämnd            Område           Begärt belopp, kronor Beviljat belopp, kronor
-Vård & Omsorg                                      900 000
-
-Kultur & Fritid                                    1 200 000
-
-Kultur & Fritid                                    500 000
-
-Individ & Familjeomsorg                            1 000 000
-
-Individ & Familjeomsorg
-
-Gymnasium &
-Arbetsmarknad
-
-Förskola & Grundskola
-
-SUMMA                                              3 600 000
+Vård & Omsorg    Möta äldre som besväras av 900 000 900 000
+ofrivillig ensamhet
+Kultur & Fritid  Friskvårds- &    1 200 000        1 200 000
+Aktivitetsgruppens satsning
+för att nå fler barn och unga
+Kultur & Fritid  Tillsammansgruppen – 500 000      500 000
+ungdomar från 13 år med
+NPF-diagnos erbjuds
+mötesplats och
+engagerande aktiviteter
+Individ & Familjeomsorg Utökade aktiviteter på 1 000 000 1 000 000
+boenden med särskild
+service, BmSS
+Individ & Familjeomsorg Aktiviteter inom daglig 1 000 000
+verksamhet för att främja
+välmående och motverka
+psykisk ohälsa
+Gymnasium &      Främja välmående och 600 000
+Arbetsmarknad    motverka psykisk ohälsa på
+kommunala gymnasieskolor
+Förskola & Grundskola Aktiviteter för ökad fysisk 1 000 000
+aktivitet, uppsökande
+verksamhet och
+fritidsaktiviteter
+SUMMA                             6 200 000        3 600 000
 
 Kommunstyrelsens förvaltning har i sin beredning inte värderat nämndens ansökan om medel i
 förhållande till övriga ansökningar. De förslag till beslut som förvaltningen lämnar bygger enbart på
@@ -2335,18 +2340,6 @@ budgetmedel uppgående till 5 000 000 kronor.
 Malin Aronsson                     Anders Johansson
 
 Kommundirektör                     Biträdande kommundirektör
-
-[Tabell 57-1](handlingar.tabeller/57-1.csv)
-
-| Möta äldre som besväras av<br>ofrivillig ensamhet | 900 000 |
-| --- | --- |
-| Friskvårds- &<br>Aktivitetsgruppens satsning<br>för att nå fler barn och unga | 1 200 000 |
-| Tillsammansgruppen –<br>ungdomar från 13 år med<br>NPF-diagnos erbjuds<br>mötesplats och<br>engagerande aktiviteter | 500 000 |
-| Utökade aktiviteter på<br>boenden med särskild<br>service, BmSS | 1 000 000 |
-| Aktiviteter inom daglig<br>verksamhet för att främja<br>välmående och motverka<br>psykisk ohälsa | 1 000 000 |
-| Främja välmående och<br>motverka psykisk ohälsa på<br>kommunala gymnasieskolor | 600 000 |
-| Aktiviteter för ökad fysisk<br>aktivitet, uppsökande<br>verksamhet och<br>fritidsaktiviteter | 1 000 000 |
-|  | 6 200 000 |
 
 <!-- sida 58 -->
 
@@ -2567,23 +2560,31 @@ välmående och motverka psykisk ohälsa. Totalt har sju ansökningar om medel i
 kommunstyrelsen uppgående till 6 200 000 kronor.
 
 Nämnd            Område           Begärt belopp, kronor Beviljat belopp, kronor
-Vård & Omsorg                                      900 000
-
-Kultur & Fritid                                    1 200 000
-
-Kultur & Fritid                                    500 000
-
-Individ & Familjeomsorg                            1 000 000
-
-Individ & Familjeomsorg
-
-Gymnasium &
-Arbetsmarknad
-
-Förskola & Grundskola
-
-SUMMA                                              3 600 000
-
+Vård & Omsorg    Möta äldre som besväras av 900 000 900 000
+ofrivillig ensamhet
+Kultur & Fritid  Friskvårds- &    1 200 000        1 200 000
+Aktivitetsgruppens satsning
+för att nå fler barn och unga
+Kultur & Fritid  Tillsammansgruppen – 500 000      500 000
+ungdomar från 13 år med
+NPF-diagnos erbjuds
+mötesplats och
+engagerande aktiviteter
+Individ & Familjeomsorg Utökade aktiviteter på 1 000 000 1 000 000
+boenden med särskild
+service, BmSS
+Individ & Familjeomsorg Aktiviteter inom daglig 1 000 000
+verksamhet för att främja
+välmående och motverka
+psykisk ohälsa
+Gymnasium &      Främja välmående och 600 000
+Arbetsmarknad    motverka psykisk ohälsa på
+kommunala gymnasieskolor
+Förskola & Grundskola Aktiviteter för ökad fysisk 1 000 000
+aktivitet, uppsökande
+verksamhet och
+fritidsaktiviteter
+SUMMA                             6 200 000        3 600 000
 Kommunstyrelsens förvaltning har i sin beredning inte värderat nämndens ansökan om medel i
 förhållande till övriga ansökningar. De förslag till beslut som förvaltningen lämnar bygger enbart på
 principen om när de inkommit. Det ska med andra ord inte ses på annat sätt än att kommunstyrelsen
@@ -2593,18 +2594,6 @@ budgetmedel uppgående till 5 000 000 kronor.
 Malin Aronsson                     Anders Johansson
 
 Kommundirektör                     Biträdande kommundirektör
-
-[Tabell 63-1](handlingar.tabeller/63-1.csv)
-
-| Möta äldre som besväras av<br>ofrivillig ensamhet | 900 000 |
-| --- | --- |
-| Friskvårds- &<br>Aktivitetsgruppens satsning<br>för att nå fler barn och unga | 1 200 000 |
-| Tillsammansgruppen –<br>ungdomar från 13 år med<br>NPF-diagnos erbjuds<br>mötesplats och<br>engagerande aktiviteter | 500 000 |
-| Utökade aktiviteter på<br>boenden med särskild<br>service, BmSS | 1 000 000 |
-| Aktiviteter inom daglig<br>verksamhet för att främja<br>välmående och motverka<br>psykisk ohälsa | 1 000 000 |
-| Främja välmående och<br>motverka psykisk ohälsa på<br>kommunala gymnasieskolor | 600 000 |
-| Aktiviteter för ökad fysisk<br>aktivitet, uppsökande<br>verksamhet och<br>fritidsaktiviteter | 1 000 000 |
-|  | 6 200 000 |
 
 <!-- sida 64 -->
 

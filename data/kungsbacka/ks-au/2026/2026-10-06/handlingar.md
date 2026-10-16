@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5570446d1a0fb8db42898572/1791362553
 sha256: 477339704e37bdea51fd4548a43ba209a79d598606e3542a9d35333c7fe2d804
 bytes: 46156764
 sidor: 327
-hamtad: 2026-10-12T23:06:40+00:00
-konverterad: 2026-10-12T23:12:22+00:00
-pipeline: kommunhandlingar 0.8.7 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T10:26:55+00:00
+konverterad: 2026-10-16T10:31:52+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ocr, tom, tom, tom, tom, tom, tom, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, tom, ocr, ej-konverterad, ocr, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok]
@@ -949,17 +949,16 @@ långsiktig hållbarhet.
 
 Här får du en snabb överblick över kommunens ekonomiska utveckling under tio år.
 
-2020 2021 2022 2023 2024 2025 2026 2027 2028  2029
-Skatt
-
 \* Jämförelsetalen för 2019 är justerade med anledning av övergång till RKR R2 under 2020. Åren dessförinnan bygger på tidigare gällande redovisningsprincip.
 
 10 Kommunbudget 2027 och plan 2028–2029
 
 [Tabell 28-1](handlingar.tabeller/28-1.csv)
 
-| Kommunal skattesats Kungs- backa procent | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,18 | 21,18 | 21,18 | 21,18 |
+|  | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Skatt |  |  |  |  |  |  |  |  |  |  |
+| Kommunal skattesats Kungs- backa procent | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,18 | 21,18 | 21,18 | 21,18 |
 | Invånare |  |  |  |  |  |  |  |  |  |  |
 | Antal invånare 31 december | 84 930 | 85 301 | 85 801 | 85 653 | 85 792 | 86 332 | 86 424 | 86 730 | 86 936 | 87 102 |
 | Födda | 763 | 778 | 742 | 702 | 696 | 662 | 656 | 650 | 665 | 677 |
@@ -2896,10 +2895,8 @@ Kommunbudget 2027
 
 [Tabell 64-1](handlingar.tabeller/64-1.csv)
 
-| Belopp i miljoner kronor | Bokslut | Budget | Budget | Plan | Plan |
+| Belopp i miljoner kronor | Bokslut 2025 | Budget 2026 inkl ombudget | Budget 2027 | Plan 2028 | Plan 2029 |
 | --- | --- | --- | --- | --- | --- |
-|  | 2025 | 2026 | 2027 | 2028 | 2029 |
-|  |  | inkl ombudget |  |  |  |
 | Avskrivningar | -513 | -540 | -449 | -488 | -526 |
 | Verksamhetens nettokostnader | -5 690 | -6 213 | -6 394 | -6 581 | -6 834 |
 | Skatteintäkter | 6 111 | 6 362 | 6 514 | 6 797 | 7 081 |
@@ -2939,10 +2936,8 @@ Kommunbudget 2027 och plan 2028–2029 47
 
 [Tabell 65-1](handlingar.tabeller/65-1.csv)
 
-| Belopp i miljoner kronor | Bokslut | Budget | Budget | Plan | Plan |
+| Belopp i miljoner kronor | Bokslut 2025 | Budget 2026 inkl ombudget | Budget 2027 | Plan 2028 | Plan 2029 |
 | --- | --- | --- | --- | --- | --- |
-|  | 2025 | 2026 | 2027 | 2028 | 2029 |
-|  |  | inkl ombudget |  |  |  |
 | Kassaflöde från den löpande verksamheten |  |  |  |  |  |
 | Årets Resultat | 604 | 320 | 364 | 446 | 444 |
 | Justering för ej likviditetspåverkande poster | 579 | 540 | 449 | 488 | 526 |
@@ -2992,10 +2987,8 @@ enligt RKR R7 i 2024.
 
 [Tabell 66-1](handlingar.tabeller/66-1.csv)
 
-| Belopp i miljoner kronor | Bokslut | Budget | Budget | Plan | Plan |
+| Belopp i miljoner kronor | Bokslut 2025 | Budget 2026 inkl ombudget | Budget 2027 | Plan 2028 | Plan 2029 |
 | --- | --- | --- | --- | --- | --- |
-|  | 2025 | 2026 | 2027 | 2028 | 2029 |
-|  |  | inkl ombudget |  |  |  |
 | TILLGÅNGAR |  |  |  |  |  |
 | Immateriella tillgångar | 0 | 0 | 0 | 0 | 0 |
 | Materiella anläggningstillgångar |  |  |  |  |  |
@@ -3625,9 +3618,8 @@ Kommunbudget 2027 och plan 2028–2029 61
 
 [Tabell 79-1](handlingar.tabeller/79-1.csv)
 
-| Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- |
+| Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- 2031 |
 | --- | --- | --- | --- | --- |
-|  |  |  |  | 2031 |
 | KS/Samhällsbyggnad | 500 | 500 | 500 | 1 000 |
 | Markköp | 40 000 | 40 000 | 40 000 | 80 000 |
 | Lokalplan | 754 630 | 630 919 | 381 657 | 890 864 |
@@ -3636,9 +3628,8 @@ Kommunbudget 2027 och plan 2028–2029 61
 
 [Tabell 79-2](handlingar.tabeller/79-2.csv)
 
-| Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- |
+| Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- 2031 |
 | --- | --- | --- | --- | --- |
-|  |  |  |  | 2031 |
 | Löpande | 6 500 | 6 500 | 6 500 | 13 000 |
 | Reinvesteringar | 5 500 | 4 800 | 8 000 | 9 900 |
 | Övriga investeringar | 26 000 | 5 000 | 5 000 | 18 000 |
@@ -3658,12 +3649,6 @@ Löpande investeringar, Summa   2 500     2 500     2 500    5 000
 Vård & Omsorg
 
 Service
-Investeringar, belopp i tusen kronor Budget 2027 Plan 2028 Plan 2029 Plan 2030-
-2031
-Löpande                       14 400    15 200    27 800    38 900
-Övriga                         13 200    9 200    12 800    28 100
-
-Lokaler & reinvesteringar
 
 Teknik, skattefinansierat
 
@@ -3684,17 +3669,20 @@ Summa                         947 972   678 360  535 390   815 350
 
 [Tabell 80-1](handlingar.tabeller/80-1.csv)
 
-| Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- |
+| Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- 2031 |
 | --- | --- | --- | --- | --- |
-|  |  |  |  | 2031 |
 | Löpande investeringar | 6 000 | 6 000 | 6 000 | 13 000 |
 | Övriga investeringar | 2 650 | 2 700 | 2 750 | 5 600 |
 | Summa | 8 650 | 8 700 | 8 750 | 18 600 |
 
 [Tabell 80-2](handlingar.tabeller/80-2.csv)
 
-| Löpande |  |  |  | 1 000 |
+| Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- 2031 |
 | --- | --- | --- | --- | --- |
+| Löpande | 14 400 | 15 200 | 27 800 | 38 900 |
+| Övriga | 13 200 | 9 200 | 12 800 | 28 100 |
+| Lokaler & reinvesteringar |  |  |  |  |
+| Löpande |  |  |  | 1 000 |
 | Verksamhetsanpassningar | 7 000 | 5 000 | 5 000 | 10 000 |
 | Reinvesteringar | 102 200 | 92 500 | 177 600 | 690 400 |
 | Ombudget från 2025 reinvesteringar | 7 000 |  |  |  |
@@ -3704,9 +3692,8 @@ Summa                         947 972   678 360  535 390   815 350
 
 [Tabell 80-3](handlingar.tabeller/80-3.csv)
 
-| Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- |
+| Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- 2031 |
 | --- | --- | --- | --- | --- |
-|  |  |  |  | 2031 |
 | Löpande | 10 000 | 9 900 | 10 000 | 20 000 |
 | Reinvesteringar | 30 000 | 39 950 | 39 250 | 84 400 |
 | Övriga investeringar | 80 000 | 70 150 | 70 750 | 135 600 |
@@ -3743,20 +3730,12 @@ Kommunbudget 2027 och plan 2028–2029 63
 | Inbetalningar | -398 552 | -320 638 | -315 141 | -319 801 | -371 745 |
 | Utbetalningar | 234 471 | 393 626 | 370 626 | 330 389 | 278 021 |
 | Summa kassaflöde | -164 081 | 72 988 | 55 485 | 10 588 | -93 724 |
-
-[Tabell 81-2](handlingar.tabeller/81-2.csv)
-
 | Utgifter anläggningstillgång Bostäder | 65 638 | 188 356 | 155 971 | 164 439 | 241 721 |
-| --- | --- | --- | --- | --- | --- |
 | Utgifter anläggningstillgång Verksamheter | 68 808 | 47 900 | 49 080 | 47 000 | 15 000 |
 | Utgifter anläggningstillgång Övriga projekt | 6 200 | 44 780 | 92 775 | 90 050 | 0 |
 | Utgifter mark - Inv | 17 230 | 31 650 | 45 150 | 10 900 | 8 300 |
 | Summa balansräkning | 157 876 | 312 686 | 342 976 | 312 389 | 265 021 |
-
-[Tabell 81-3](handlingar.tabeller/81-3.csv)
-
 | Kostnader Bostäder drift | 8 850 | 13 150 | 16 650 | 12 000 | 10 000 |
-| --- | --- | --- | --- | --- | --- |
 | Kostnader Verksamheter drift | 10 560 | 2 640 | 0 | 0 | 0 |
 | Kostnader Övriga projekt drift | 50 900 | 56 200 | 6 000 | 3 000 | 3 000 |
 | Kostnader mark - Drift | 6 285 | 8 950 | 5 000 | 3 000 | 0 |

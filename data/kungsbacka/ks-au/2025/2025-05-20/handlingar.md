@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.68abbcdf196d3cd895e1255b/1747395300
 sha256: eedaa1ee0abb41010c04f63871a71823f22adde6188459228106b5c15de8e829
 bytes: 14733305
 sidor: 123
-hamtad: 2026-10-09T10:21:45+00:00
-konverterad: 2026-10-09T10:22:22+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T08:16:00+00:00
+konverterad: 2026-10-16T08:16:41+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ocr, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ocr, ocr]
 tal_obekraftade: [62, 63, 122, 123]
 figurer: [10, 21, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 75, 76, 77, 78, 83, 84, 85, 86, 87, 88, 89, 90]
 tolkade: []
@@ -58,26 +58,23 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 5. | Avvikelse från bestämmelser<br>om arbetstidens förläggning<br>inom Bostäder med särskild<br>service (BMSS) | 2025-00354 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen beviljar avvikelse från regler om<br>maxlängden på 20 timmar för ett arbetspass till 24<br>timmar inom bostad med särskild service (BmSS),<br>för situationer då brukare ska genomföra resor som<br>semester eller inom sitt arbete.<br>Beslutet gäller under perioden 1 juli 2025–31 januari<br>2026. |
 | 6. | Taxa för sotning och rengöring<br>samt frister för sotning och<br>rengöring 2026 | 2025-00268 | Förslag till beslut i kommunfullmäktige<br>1. Kommunfullmäktige antar Taxa för sotning och<br>rengöring, i enlighet med bilaga 1, med stöd av 3<br>kap. 6 § lag om skydd mot olyckor<br>2. Kommunfullmäktige antar Frister sotning och<br>rengöring, i enlighet med bilaga 2, med stöd av 3<br>kap. 1 § förordning om skydd mot olyckor<br>4. Taxan enligt beslutspunkt 1 gäller från och med<br>den 1 januari 2027 för Kungsbacka kommun, med<br>den justering som sker enligt beslutspunkt 8.<br>6. Fristerna enligt beslutspunkt 2 gäller från och med<br>den 1 september 2026 för Kungsbacka kommun.<br>7. Taxans basår är 2024.<br>8. Räddningstjänstförbundet Storgöteborg ska för<br>varje avgiftsår justera taxan i beslutspunkt 1 enligt<br>följande. Taxan revideras årligen enligt<br>Sotningsindex den 1 april 2025 och 1 april 2026.<br>Från och med den 1 januari 2027 ska taxan justeras i<br>enlighet med Prisindex för Kommunal Verksamhet<br>(PKV), som meddelas av Sveriges Kommuner och<br>Regioner. Vid justeringen tillämpas det PKV som<br>SKR årligen publicerar i februari, i samband med<br>cirkuläret som omfattar budgetförutsättningar och<br>skatteprognos. Taxan beräknas enligt PKV för två år<br>före det år som taxebeloppet ska gälla. Justeringen<br>görs med PKV enligt det cirkulär som publiceras<br>året före det år taxebeloppet ska gälla. |
+| 7. | Taxa för prövning och tillsyn<br>enligt alkohollagen, lag om<br>tobak och liknande produkter,<br>lag om handel med vissa<br>receptfria läkemedel och lag om<br>tobaksfria nikotinprodukter | 2025-00375 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar taxa för prövning och<br>tillsyn enligt alkohollagen, lag om tobak och<br>liknande produkter, lag om handel med vissa<br>receptfria läkemedel och lag om tobaksfria<br>nikotinprodukter, daterad 2025-04-30.<br>Taxan gäller från och med den 1 juli 2025.<br>Taxa för prövning och tillsyn enligt alkohollagen,<br>lag om tobak och liknande produkter, lag om handel<br>med receptfria läkemedel samt lag om tobaksfria<br>nikotinprodukter antagen av kommunfullmäktige<br>2023-06-14 § 76, upphör att gälla samtidigt som ny<br>taxa träder i kraft.<br>Kommunfullmäktige ger nämnden för Miljö &<br>Hälsoskydd möjlighet att årligen justera<br>avgiftsbeloppen i taxan i enlighet med taxans<br>bestämmelser § 5, Indexjustering. |
+| 8. | Remittering av motion från<br>Elisabeth Sahlsten (MP) m.fl.<br>om vattenbesparande åtgärder | 2025-00357 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Teknik och Eksta Bostads<br>AB för beredning. |
+| 9. | Avstämning om detaljplan för<br>park- och hamnverksamhet<br>inom del av Kungsbacka 4:6<br>och 4:6<br>10:15-10:45<br>Magnus Björned<br>Ida Lennartsson<br>Lena Melvinsdotter<br>Johan Gerremo<br>Adam Hagsjö, Teknik | 2021-01179 |  |
+| 10. | Avstämning om detaljplan för<br>bostäder inom Hammerö 13:7<br>m.fl<br>10:55-11:25<br>Magnus Björned<br>Ida Lennartsson<br>Fortesa Bytyqi,<br>Johan Gerremo<br>Mathias Pedersen, Teknik | 2023-00275 |  |
+| 11. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 7. | Taxa för prövning och tillsyn<br>enligt alkohollagen, lag om<br>tobak och liknande produkter,<br>lag om handel med vissa<br>receptfria läkemedel och lag om<br>tobaksfria nikotinprodukter | 2025-00375 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar taxa för prövning och<br>tillsyn enligt alkohollagen, lag om tobak och<br>liknande produkter, lag om handel med vissa<br>receptfria läkemedel och lag om tobaksfria<br>nikotinprodukter, daterad 2025-04-30.<br>Taxan gäller från och med den 1 juli 2025.<br>Taxa för prövning och tillsyn enligt alkohollagen,<br>lag om tobak och liknande produkter, lag om handel<br>med receptfria läkemedel samt lag om tobaksfria<br>nikotinprodukter antagen av kommunfullmäktige<br>2023-06-14 § 76, upphör att gälla samtidigt som ny<br>taxa träder i kraft.<br>Kommunfullmäktige ger nämnden för Miljö &<br>Hälsoskydd möjlighet att årligen justera<br>avgiftsbeloppen i taxan i enlighet med taxans<br>bestämmelser § 5, Indexjustering. |
-| 8. | Remittering av motion från<br>Elisabeth Sahlsten (MP) m.fl.<br>om vattenbesparande åtgärder | 2025-00357 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Teknik och Eksta Bostads<br>AB för beredning. |
-| 9. | Avstämning om detaljplan för<br>park- och hamnverksamhet<br>inom del av Kungsbacka 4:6<br>och 4:6<br>10:15-10:45<br>Magnus Björned<br>Ida Lennartsson<br>Lena Melvinsdotter<br>Johan Gerremo<br>Adam Hagsjö, Teknik | 2021-01179 |  |
 
 <!-- sida 4 -->
 
@@ -87,13 +84,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 10. | Avstämning om detaljplan för<br>bostäder inom Hammerö 13:7<br>m.fl<br>10:55-11:25<br>Magnus Björned<br>Ida Lennartsson<br>Fortesa Bytyqi,<br>Johan Gerremo<br>Mathias Pedersen, Teknik | 2023-00275 |  |
-| 11. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |
 
 <!-- sida 5 -->
 
@@ -370,23 +360,11 @@ bedömningen av arbetet med mål och direktiv gör vi i samband med delårsboksl
 
 Resultat, prognos
 
-Budget
-Prognos
-Miljoner kronor              2021  2022 2023  2024 2025 inkl.
-2025
-ombudget
-Årets resultat, prognos       464   753  231   286     261   642
-Avgår jämförelsestörande poster: 301 -184 52   -75      0   -180
-0
-\- varav resultat från exploateringsverksamhet -25 -184 40 23 -202
-Strukturellt resultat/prognos1 494  569  276   211     261   462
-Resultatets andel av skatter & statsbidrag
-Årets resultat (%)            8,4  13,1   3,8  4,6     4,0  10,0
-Strukturellt resultat (%)     9,0   9,8   4,7  3,4     4,0   7,2
 1\) Årets resultat exklusive jämförelsestörande poster
 Prognosen är att årets resultat blir 642 miljoner kronor. Det är 356 miljoner kronor mer än resultatet
 förra året. Det prognostiserade resultatet motsvarar tio procent av skatteintäkter och statsbidrag,
 jämfört med 4,6 procent förra året. Kommunen har inte med resultatet från
+
 exploateringsverksamheten i budgeten eftersom det är osäkert när i tiden det kommer. I
 Kommunbudget 2025 finns dock en upplysning om ett förväntat exploateringsresultat på 210
 miljoner kronor. Efter ombudgetering blir beloppet 189 miljoner kronor.
@@ -403,6 +381,18 @@ Skatter, statsbidrag och nettokostnadsutveckling
 Kungsbacka kommun         Apriluppföljning 2025                 4
 
 [Tabell 13-1](handlingar.tabeller/13-1.csv)
+
+| Miljoner kronor | 2021 | 2022 | 2023 | 2024 | Budget<br>2025 inkl.<br>ombudget | Prognos<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Årets resultat, prognos | 464 | 753 | 231 | 286 | 261 | 642 |
+| Avgår jämförelsestörande poster: | 301 | -184 | 52 | -75 | 0 | -180 |
+| - varav resultat från exploateringsverksamhet | -25 | -184 | 40 | 23 | 0 | -202 |
+| Strukturellt resultat/prognos1 | 494 | 569 | 276 | 211 | 261 | 462 |
+| Resultatets andel av skatter & statsbidrag |  |  |  |  |  |  |
+| Årets resultat (%) | 8,4 | 13,1 | 3,8 | 4,6 | 4,0 | 10,0 |
+| Strukturellt resultat (%) | 9,0 | 9,8 | 4,7 | 3,4 | 4,0 | 7,2 |
+
+[Tabell 13-2](handlingar.tabeller/13-2.csv)
 
 | Procent | 2021 | 2022 | 2023 | 2024 | Budget<br>2025 | Prognos<br>2025 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2167,18 +2157,22 @@ Deltagare: Julia Wilholm, Therese Åberg
 
 DEFINITIONER FÖR RISKVÄRDERING
 
-Riskmatris:
+FaktorSannolikhet    FaktorKonsekvens     Riskmatris:
 5 10 15 20 25
-4 8 12 16 20
-3 6 9 12 15
-2 4 6 8 10
-1 2 3 4 5
-
+1  Osannolik (1 gång/10 år) Ofarlig/försumbar
+1                    4 8 12 16 20
+(Övergående)
+2  Mindre troligt (1 gång/år)            3 6 9 12 15
+Ganska vanligt (Flera ggr/ 2 Lindrig (Utan sjukvård) 2 4 6 8 10
+3  år)                  Kännbar (Kan behöva 1 2 3 4 5
+3
+sjukvård)
+4  Vanligt (1 gång/månad)
+Mycket vanligt (1 4  Allvarlig (Sjukskrivning)
+5  gång/vecka)      5   Katastrofal (Död, men för liv)
 RISKBEDÖMNING - FÖRÄNDRING I VERKSAMHETEN (INGA FÖRVALDA FRÅGOR) - AVANCERAD
 RISKVÄRDERINGSMODELL
-
 Länkat dokument: Arbetsmiljöverket vägledning
-
 Beskrivning av eller instruktioner för mallen: Riskbedömning vid förändring i verksamheten
 Förändringar i verksamheten kan vara exempelvis personalförändringar, nya arbetstider och arbetsmetoder,
 andra organisationsförändringar, om- och nybyggnation samt ny maskinell utrustning. När en ändring planeras i
@@ -2188,7 +2182,6 @@ göras både på grupp- och individnivå. Den ska omfatta såväl fysiska som so
 Glöm inte att även lyfta friskfaktorer som förändringen kan leda till.
 Tänk på att medarbetare och skyddsombud och elevskyddsombud ska ges möjlighet att medverka när
 riskbedömning och handlingsplan görs.
-
 Använd checklistan så här:
 1\. I första avsnittet preciserar ni vad förändringen består av, när den ska genomföras och vilka medarbetare eller
 grupper av medarbetare som berörs.
@@ -2205,20 +2198,6 @@ och datum för när åtgärden ska vara genomförd.
 
 2/4
 2025-198
-
-[Tabell 65-1](handlingar.tabeller/65-1.csv)
-
-| Faktor | Sannolikhet | Faktor | Konsekvens |
-| --- | --- | --- | --- |
-| 1 | Osannolik (1 gång/10 år) | 1 | Ofarlig/försumbar<br>(Övergående) |
-| 2 | Mindre troligt (1 gång/år) |  |  |
-|  |  | 2 | Lindrig (Utan sjukvård) |
-| 3 | Ganska vanligt (Flera ggr/<br>år) |  |  |
-|  |  | 3 | Kännbar (Kan behöva<br>sjukvård) |
-| 4 | Vanligt (1 gång/månad) |  |  |
-|  |  | 4 | Allvarlig (Sjukskrivning) |
-| 5 | Mycket vanligt (1<br>gång/vecka) |  |  |
-|  |  | 5 | Katastrofal (Död, men för liv) |
 
 <!-- sida 66 -->
 
@@ -3037,38 +3016,46 @@ taxa.
 
 Diarienummer: 2025/76
 
-2\.
-2.1
+2\. Rengöring                                            Kronor   Kronor
+exklusive moms inklusive moms
+2.1 Inställelseavgift
+För rengöring uttas en inställelseavgift per person och tillfälle.
+240     300,00
+Avgift för flera utförare får endast uttas om förutsättningarna är sådana att objektet
+kräver detta. Avgiften kompenserar även för förbrukningsmateriel.
+2.2 Timersättning – ordinarie arbetstid
+För rengöring av imkanaler uttas ersättning för faktisk tidsåtgång per person och timme.
+Ordinarie arbetstid är helgfria vardagar mellan kl. 06:00 och 17:00. Tidsåtgången räknas 480 per 600,00 per
+från ankomst tills arbetet slutförts i lokalen.      timme    timme
+Ersättning för flera utförare får endast uttas om förutsättningarna är sådana att objektet
+kräver detta. Observera att specificerad tidrapport ska lämnas.
+2.3 Timersättning – utom ordinarie arbetstid
+Ersättning för flera utförare får endast uttas om förutsättningarna är sådana att objektet
+kräver detta. Observera att specificerad tidrapport ska lämnas.
+A  Timersättning – kl. 17:01 – 22:00
+För rengöring av imkanaler utom ordinarie arbetstid (helgfria vardagar kl. 17:01 – 22:00), 527 per 658,75 per
+uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills arbetet timme timme
+slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme.
+B Timersättning – kl. 22:01 – 06:00
+För rengöring av imkanaler utom ordinarie arbetstid (helgfria vardagar kl. 22:01 – 06:00), 579 per 723,75 per
+uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills arbetet timme timme
+slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme.
+C Timersättning – lördagar och helgdagar
 
-2.2
-
-2.3
-
-A
-
-B
-
-C
-
-2.4
-
-2.5
-
-3
-
-[Tabell 84-1](handlingar.tabeller/84-1.csv)
-
-| Rengöring | Kronor<br>exklusive moms | Kronor<br>inklusive moms |
-| --- | --- | --- |
-| Inställelseavgift<br>För rengöring uttas en inställelseavgift per person och tillfälle.<br>Avgift för flera utförare får endast uttas om förutsättningarna är sådana att objektet<br>kräver detta. Avgiften kompenserar även för förbrukningsmateriel. | 240 | 300,00 |
-| Timersättning – ordinarie arbetstid<br>För rengöring av imkanaler uttas ersättning för faktisk tidsåtgång per person och timme.<br>Ordinarie arbetstid är helgfria vardagar mellan kl. 06:00 och 17:00. Tidsåtgången räknas<br>från ankomst tills arbetet slutförts i lokalen.<br>Ersättning för flera utförare får endast uttas om förutsättningarna är sådana att objektet<br>kräver detta. Observera att specificerad tidrapport ska lämnas. | 480 per<br>timme | 600,00 per<br>timme |
-| Timersättning – utom ordinarie arbetstid<br>Ersättning för flera utförare får endast uttas om förutsättningarna är sådana att objektet<br>kräver detta. Observera att specificerad tidrapport ska lämnas. |  |  |
-| Timersättning – kl. 17:01 – 22:00<br>För rengöring av imkanaler utom ordinarie arbetstid (helgfria vardagar kl. 17:01 – 22:00),<br>uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills arbetet<br>slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme. | 527 per<br>timme | 658,75 per<br>timme |
-| Timersättning – kl. 22:01 – 06:00<br>För rengöring av imkanaler utom ordinarie arbetstid (helgfria vardagar kl. 22:01 – 06:00),<br>uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills arbetet<br>slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme. | 579 per<br>timme | 723,75 per<br>timme |
-| Timersättning – lördagar och helgdagar<br>För rengöring av imkanaler utom ordinarie arbetstid (lördagar och helgdagar oavsett<br>klockslag), uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills<br>arbetet slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme. | 708 per<br>timme | 885,00 per<br>timme |
-| Avgift för ej tillträde<br>Då rengöringen inte kunnat utföras på grund av att det inte getts tillträde till fastigheten<br>enligt avisering och särskilda skäl för detta inte förelegat, uttas en inställelseavgift per<br>person och tillfälle för det aviserade besöket. | 240 | 300,00 |
-| Avgift för ombokning<br>Då fastighetsägaren eller nyttjanderättshavaren ombokat senare än 48 helgfria timmar<br>före aviserat besök, uttas en grundavgift. | 240 | 300,00 |
-| Basår och årlig justering av taxan<br>Taxans basår är 2024. Taxan revideras årligen från och med den 1 januari 2027 enlighet med<br>aktuellt prisindex för kommunal verksamhet (PKV). |  |  |
+För rengöring av imkanaler utom ordinarie arbetstid (lördagar och helgdagar oavsett 708 per 885,00 per
+klockslag), uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills timme timme
+arbetet slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme.
+2.4 Avgift för ej tillträde
+Då rengöringen inte kunnat utföras på grund av att det inte getts tillträde till fastigheten
+240     300,00
+enligt avisering och särskilda skäl för detta inte förelegat, uttas en inställelseavgift per
+person och tillfälle för det aviserade besöket.
+2.5 Avgift för ombokning
+Då fastighetsägaren eller nyttjanderättshavaren ombokat senare än 48 helgfria timmar 240 300,00
+före aviserat besök, uttas en grundavgift.
+3  Basår och årlig justering av taxan
+Taxans basår är 2024. Taxan revideras årligen från och med den 1 januari 2027 enlighet med
+aktuellt prisindex för kommunal verksamhet (PKV).
 
 <!-- sida 85 -->
 
@@ -3214,39 +3201,50 @@ enligt denna taxa.
 
 Dnr A0318/20
 
-2\.
+2\. Rengöring                                            Kronor   Kronor
+exklusive moms inklusive moms
+2.1 Inställelseavgift
+För rengöring uttas en inställelseavgift per person och tillfälle.
+240     300,00
+Avgift för flera utförare får endast uttas om förutsättningarna är sådana att objektet
+kräver detta. Avgiften kompenserar även för förbrukningsmateriel.
+2.2 Timersättning – ordinarie arbetstid
+För rengöring av imkanaler uttas ersättning för faktisk tidsåtgång per person och timme.
+Ordinarie arbetstid är helgfria vardagar mellan kl. 06:00 och 17:00. Tidsåtgången räknas 480/ 600,00/
+från ankomst tills arbetet slutförts i lokalen.      timme    timme
+Ersättning för flera utförare får endast uttas om förutsättningarna är sådana att objektet
+kräver detta. Observera att specificerad tidrapport ska lämnas.
+2.3 Timersättning – utom ordinarie arbetstid
+Ersättning för flera utförare får endast uttas om förutsättningarna är sådana att objektet
+kräver detta. Observera att specificerad tidrapport ska lämnas.
+A  Timersättning – kl. 17:01 – 22:00
 
-2.1
+För rengöring av imkanaler utom ordinarie arbetstid (helgfria vardagar kl. 17:01 – 22:00), 527/ 658,75/
+uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills arbetet timme timme
+slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme.
+B Timersättning – kl. 22:01 – 06:00
+För rengöring av imkanaler utom ordinarie arbetstid (helgfria vardagar kl. 22:01 – 06:00), 579/ 723,75/
+uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills arbetet timme timme
+slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme.
+C Timersättning – lördagar och helgdagar
+För rengöring av imkanaler utom ordinarie arbetstid (lördagar och helgdagar oavsett 708/ 885,00/
+klockslag), uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills timme timme
+arbetet slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme.
 
-2.2
-
-2.3
-
-A
-
-B
-
-C
-
-2.4
-
-2.5
-
-3
-
-[Tabell 88-1](handlingar.tabeller/88-1.csv)
-
-| Rengöring | Kronor<br>exklusive moms | Kronor<br>inklusive moms |
-| --- | --- | --- |
-| Inställelseavgift<br>För rengöring uttas en inställelseavgift per person och tillfälle.<br>Avgift för flera utförare får endast uttas om förutsättningarna är sådana att objektet<br>kräver detta. Avgiften kompenserar även för förbrukningsmateriel. | 240 | 300,00 |
-| Timersättning – ordinarie arbetstid<br>För rengöring av imkanaler uttas ersättning för faktisk tidsåtgång per person och timme.<br>Ordinarie arbetstid är helgfria vardagar mellan kl. 06:00 och 17:00. Tidsåtgången räknas<br>från ankomst tills arbetet slutförts i lokalen.<br>Ersättning för flera utförare får endast uttas om förutsättningarna är sådana att objektet<br>kräver detta. Observera att specificerad tidrapport ska lämnas. | 480/<br>timme | 600,00/<br>timme |
-| Timersättning – utom ordinarie arbetstid<br>Ersättning för flera utförare får endast uttas om förutsättningarna är sådana att objektet<br>kräver detta. Observera att specificerad tidrapport ska lämnas. |  |  |
-| Timersättning – kl. 17:01 – 22:00<br>För rengöring av imkanaler utom ordinarie arbetstid (helgfria vardagar kl. 17:01 – 22:00),<br>uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills arbetet<br>slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme. | 527/<br>timme | 658,75/<br>timme |
-| Timersättning – kl. 22:01 – 06:00<br>För rengöring av imkanaler utom ordinarie arbetstid (helgfria vardagar kl. 22:01 – 06:00),<br>uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills arbetet<br>slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme. | 579/<br>timme | 723,75/<br>timme |
-| Timersättning – lördagar och helgdagar<br>För rengöring av imkanaler utom ordinarie arbetstid (lördagar och helgdagar oavsett<br>klockslag), uttas ersättning per person och timme. Tidsåtgången räknas från ankomst tills<br>arbetet slutförts i lokalen. Varje påbörjad halvtimme räknas som hel halvtimme. | 708/<br>timme | 885,00/<br>timme |
-| Avgift för ej tillträde<br>Då rengöringen inte kunnat utföras pga att det inte getts tillträde till fastigheten enligt<br>avisering och särskilda skäl för detta inte förelegat, uttas en inställelseavgift per person<br>och tillfälle för det aviserade besöket. | 240 | 300,00 |
-| Avgift för ombokning<br>Då fastighetsägaren eller nyttjanderättshavaren ombokat senare än 48 helgfria timmar<br>före aviserat besök, uttas en grundavgift. | 240 | 300,00 |
-| Basår och årlig justering av taxan<br>Taxans basår är 2019. Taxan revideras årligen från och med år 2020 i enlighet med aktuellt<br>sotningsindex, som överenskommits mellan Sveriges Skorstensfejarmästares Riksförbund och<br>Sveriges Kommuner och Regioner. Räddningstjänstförbundet Storgöteborg ska från och med<br>ikraftträdandet år 2022 årligen justera taxan i enlighet med det nationella Sotningsindex<br>(Cirkulär 2002:83) som meddelas av Sveriges Kommuner och Regioner. |  |  |
+2.4 Avgift för ej tillträde
+Då rengöringen inte kunnat utföras pga att det inte getts tillträde till fastigheten enligt
+240     300,00
+avisering och särskilda skäl för detta inte förelegat, uttas en inställelseavgift per person
+och tillfälle för det aviserade besöket.
+2.5 Avgift för ombokning
+Då fastighetsägaren eller nyttjanderättshavaren ombokat senare än 48 helgfria timmar 240 300,00
+före aviserat besök, uttas en grundavgift.
+3  Basår och årlig justering av taxan
+Taxans basår är 2019. Taxan revideras årligen från och med år 2020 i enlighet med aktuellt
+sotningsindex, som överenskommits mellan Sveriges Skorstensfejarmästares Riksförbund och
+Sveriges Kommuner och Regioner. Räddningstjänstförbundet Storgöteborg ska från och med
+ikraftträdandet år 2022 årligen justera taxan i enlighet med det nationella Sotningsindex
+(Cirkulär 2002:83) som meddelas av Sveriges Kommuner och Regioner.
 
 <!-- sida 89 -->
 

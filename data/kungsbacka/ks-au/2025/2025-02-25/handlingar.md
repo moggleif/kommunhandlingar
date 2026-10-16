@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.1db334b719504a0b18aeba96/1740124548
 sha256: 133d081914e683fa9ad9f9c80b0170b273cd97f6ce0733e9844dbbff17707724
 bytes: 18659434
 sidor: 121
-hamtad: 2026-10-09T09:56:41+00:00
-konverterad: 2026-10-09T09:57:15+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T07:50:45+00:00
+konverterad: 2026-10-16T07:51:23+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [34, 73]
 figurer: [21, 51, 52, 59, 97, 98, 99, 100, 101, 103, 105, 106, 107, 108, 109, 110, 111, 112]
 tolkade: []
@@ -59,27 +59,25 @@ KUNGSBACKA  KOMMUN
 
 2 (4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 5. | Svar på Göteborgs stads remiss<br>av samrådsförslag för ändring<br>av översiktsplan för Göteborgs<br>stad | 2025-00075 | Förslag till beslut i kommunstyrelsen<br>4B<br>Kommunstyrelsen antar yttrande, daterat 2025-01-28,<br>och översänder det som sitt svar till Göteborgs stad. |
 | 6. | Svar på Varbergs kommuns<br>remiss av samrådsförslag för<br>ny översiktsplan för Varbergs<br>kommun | 2024-00840 | Förslag till beslut i kommunstyrelsen<br>5B<br>Kommunstyrelsen antar yttrande, daterat 2025-02-03,<br>och översänder det som sitt svar till Varbergs<br>kommun. |
 | 7. | Fördelning av medel avsatta<br>för arbete med civil beredskap<br>2025 | 2024-00828 | Förslag till beslut i kommunstyrelsen<br>6B<br>Kommunstyrelsen omfördelar 3 000 000 kronor från<br>centrala finansverksamheten för 2025 till nämnden<br>för Service.<br>Kommunstyrelsen omfördelar 1 500 000 kronor från<br>centrala finansverksamheten för 2025 till nämnden<br>för Teknik.<br>Kommunstyrelsen omfördelar 1 100 000 kronor från<br>centrala finansverksamheten för 2025 till nämnden<br>för Förskola & Grundskola.<br>Kommunstyrelsen omfördelar 250 000 kronor från<br>centrala finansverksamheten för 2025 till nämnden<br>för Gymnasium & Arbetsmarknad.<br>Kommunstyrelsen omfördelar 250 000 kronor från<br>centrala finansverksamheten för 2025 till<br>byggnadsnämnden.<br>Kommunstyrelsen omfördelar 550 000 kronor från<br>centrala finansverksamheten för 2025 till nämnden<br>för Kultur & Fritid.<br>Kommunstyrelsen omfördelar 2 100 000 kronor från<br>centrala finansverksamheten för 2025 till nämnden<br>för Vård & Omsorg.<br>Kommunstyrelsen omfördelar 250 000 kronor från<br>centrala finansverksamheten för 2025 till nämnden<br>för Individ & Familjeomsorg.<br>Kommunstyrelsen omfördelar 1 000 000 kronor från<br>centrala finansverksamheten för 2025 till<br>kommunstyrelsen. |
+| 8. | Begäran om planbesked för<br>Mossen 3:2 (Ebbagården) | 2024-00820 | Förslag till beslut i kommunstyrelsen<br>7B<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Mossen 3:2 skifte 1 och 5 i<br>Onsala. |
+| 9. | Information om arbetet med<br>Kungsbacka Arena –<br>lägesavstämning delprojekt<br>08.50–09.35<br>Sven-Erik Bergström<br>Lena Melvinsdotter<br>Magnus Björned<br>Ing-Britt Blomberg<br>Marie Cullberg<br>Peter Johansson, Service<br>Pia Eklund, Service<br>Harald Tjelle, Kultur & Fritid<br>Marie Persson, Kultur & Fritid<br>Jonas Jonsson, Skanska | 2020-00547 |  |
+| 10. | Avstämning om lokalplanering<br>(från årshjul)<br>09.50–10.35<br>Ing-Britt Blomberg<br>Lovisa Eld<br>Maria Rosenberg, Service<br>Christina Wenander, Service<br>Markus Mentzer, Service<br>Semir Robovic, Service<br>Mats Söderström, Service<br>Julia Tryggvadottir Tollesson,<br>Service | 2025-00024 |  |
+| 11. | Information om arbetet med<br>Kungsbackas<br>Bostadsförsörjningsplan<br>10.40–11.10<br>Anders Lund<br>Lovisa Eld | 2023-00143 |  |
+| 12. | Information om arbetet med<br>markanvisning kvarteret Ejdern<br>11.15–11.45<br>Fortesa Bytyqi<br>Johan Gerremo<br>Mikaela Ropel | 2023-00651 |  |
+| 13. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3 (4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Begäran om planbesked för<br>Mossen 3:2 (Ebbagården) | 2024-00820 | Förslag till beslut i kommunstyrelsen<br>7B<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Mossen 3:2 skifte 1 och 5 i<br>Onsala. |
-| 9. | Information om arbetet med<br>Kungsbacka Arena –<br>lägesavstämning delprojekt<br>08.50–09.35<br>Sven-Erik Bergström<br>Lena Melvinsdotter<br>Magnus Björned<br>Ing-Britt Blomberg<br>Marie Cullberg<br>Peter Johansson, Service<br>Pia Eklund, Service<br>Harald Tjelle, Kultur & Fritid<br>Marie Persson, Kultur & Fritid<br>Jonas Jonsson, Skanska | 2020-00547 |  |
-| 10. | Avstämning om lokalplanering<br>(från årshjul)<br>09.50–10.35<br>Ing-Britt Blomberg<br>Lovisa Eld<br>Maria Rosenberg, Service<br>Christina Wenander, Service<br>Markus Mentzer, Service<br>Semir Robovic, Service<br>Mats Söderström, Service<br>Julia Tryggvadottir Tollesson,<br>Service | 2025-00024 |  |
 
 <!-- sida 4 -->
 
@@ -89,14 +87,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | Information om arbetet med<br>Kungsbackas<br>Bostadsförsörjningsplan<br>10.40–11.10<br>Anders Lund<br>Lovisa Eld | 2023-00143 |  |
-| 12. | Information om arbetet med<br>markanvisning kvarteret Ejdern<br>11.15–11.45<br>Fortesa Bytyqi<br>Johan Gerremo<br>Mikaela Ropel | 2023-00651 |  |
-| 13. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |
 
 <!-- sida 5 -->
 
@@ -157,23 +147,38 @@ KUNGSBACKA  KOMMUN
 2 (2)
 
 Nämnd            Område           Begärt belopp, kronor Beviljat belopp, kronor
-Teknik                                                       500 000
+Teknik           Ett grönt spadtag för      500 000          500 000
+gemenskap
 
-Individ &                                                   1 000 000
-Familjeomsorg
+Individ &        Fortsatt arbete med ökat  1 000 000        1 000 000
+Familjeomsorg    psykiskt mående på
+boenden med särskild
+service, aktiviteter på
+korttidsboende med
+mera
 
-Kultur & Fritid                                             1 000 000
+Kultur & Fritid  Stärkt                    1 000 000        1 000 000
+brottsförebyggande
+arbete
 
-Kultur & Fritid                                              500 000
+Kultur & Fritid  Ökat utbud av aktiviteter  500 000          500 000
+för äldre på särskilda
+boenden
+Gymnasium &      Fortsatt arbete med        500 000          500 000
+Arbetsmarknad    välmående och hälsa
+bland elever på de
+kommunala
 
-Gymnasium &                                                  500 000
-Arbetsmarknad
+gymnasieskolorna
+Vård & Omsorg    Ökat utbud av aktiviteter  500 000
+på särskilda boenden
 
-Vård & Omsorg
+Förskola & Grundskola Insatser som främjar att 1 000 000
+barn och unga rör sig
+mer på och i anslutning
+till skoltid
 
-Förskola & Grundskola
-
-SUMMA                                                       3 500 000
+SUMMA                                      5 000 000        3 500 000
 
 Kommunstyrelsens förvaltning har i sin beredning inte värderat nämndernas ansökan om medel i
 
@@ -182,18 +187,6 @@ om när de inkommit.
 
 Anders Johansson                   Christina Hermansson
 Tillförordnad kommundirektör       Ekonomichef
-
-[Tabell 6-1](handlingar.tabeller/6-1.csv)
-
-| Ett grönt spadtag för<br>gemenskap | 500 000 |
-| --- | --- |
-| Fortsatt arbete med ökat<br>psykiskt mående på<br>boenden med särskild<br>service, aktiviteter på<br>korttidsboende med<br>mera | 1 000 000 |
-| Stärkt<br>brottsförebyggande<br>arbete | 1 000 000 |
-| Ökat utbud av aktiviteter<br>för äldre på särskilda<br>boenden | 500 000 |
-| Fortsatt arbete med<br>välmående och hälsa<br>bland elever på de<br>kommunala<br>gymnasieskolorna | 500 000 |
-| Ökat utbud av aktiviteter<br>på särskilda boenden | 500 000 |
-| Insatser som främjar att<br>barn och unga rör sig<br>mer på och i anslutning<br>till skoltid | 1 000 000 |
-|  | 5 000 000 |
 
 <!-- sida 7 -->
 
@@ -362,35 +355,37 @@ sammanlagt till 5 000 000 kronor.
 
 Nämnd            Område           Begärt belopp, kronor Beviljat belopp, kronor
 
-Teknik                                                       500 000
+Teknik           Ett grönt spadtag för      500 000          500 000
+gemenskap
 
-Individ &                                                   1 000 000
-Familjeomsorg
+Individ &        Fortsatt arbete med ökat  1 000 000        1 000 000
+Familjeomsorg    psykiskt mående på
+boenden med särskild
+service, aktiviteter på
+korttidsboende med
+mera
 
-Kultur & Fritid                                             1 000 000
+Kultur & Fritid  Stärkt                    1 000 000        1 000 000
+brottsförebyggande
+arbete
+Kultur & Fritid  Ökat utbud av aktiviteter  500 000          500 000
+för äldre på särskilda
+boenden
 
-Kultur & Fritid                                              500 000
+Gymnasium &      Fortsatt arbete med        500 000          500 000
+Arbetsmarknad    välmående och hälsa
+bland elever på de
+kommunala
+gymnasieskolorna
 
-Gymnasium &                                                  500 000
-Arbetsmarknad
+Vård & Omsorg    Ökat utbud av aktiviteter  500 000
+på särskilda boenden
+Förskola & Grundskola Insatser som främjar att 1 000 000
 
-Vård & Omsorg
-
-Förskola & Grundskola
-
-SUMMA                                                       3 500 000
-
-[Tabell 11-1](handlingar.tabeller/11-1.csv)
-
-| Ett grönt spadtag för<br>gemenskap | 500 000 |
-| --- | --- |
-| Fortsatt arbete med ökat<br>psykiskt mående på<br>boenden med särskild<br>service, aktiviteter på<br>korttidsboende med<br>mera | 1 000 000 |
-| Stärkt<br>brottsförebyggande<br>arbete | 1 000 000 |
-| Ökat utbud av aktiviteter<br>för äldre på särskilda<br>boenden | 500 000 |
-| Fortsatt arbete med<br>välmående och hälsa<br>bland elever på de<br>kommunala<br>gymnasieskolorna | 500 000 |
-| Ökat utbud av aktiviteter<br>på särskilda boenden | 500 000 |
-| Insatser som främjar att<br>barn och unga rör sig<br>mer på och i anslutning<br>till skoltid | 1 000 000 |
-|  | 5 000 000 |
+barn och unga rör sig
+mer på och i anslutning
+till skoltid
+SUMMA                                      5 000 000        3 500 000
 
 <!-- sida 12 -->
 
@@ -657,33 +652,20 @@ Kostnader i samband med aktivitetsdag
 
 Kungsbacka kommun            Rapportmall                        4
 
-[Tabell 19-1](handlingar.tabeller/19-1.csv)
+[Tabell 19-20-1](handlingar.tabeller/19-20-1.csv)
 
 | Budget Schablon | Kostnad |
 | --- | --- |
 | Personal:<br>Processtöd<br>Organiserade<br>rastaktiviteter/samverk<br>an föreningsliv | 750 000kr |
+| Processtöd Mötesplats<br>idrott |  |
+| Studiebesök<br>Västerstrandsskolan,<br>Karlstad | 15 000kr |
+| Material<br>Rastaktiviteter | 155 000kr |
+| Mötesplatsidrott | 40 000kr |
+| Samverkan<br>föreningsliv<br>gemensamma<br>aktiviteter lov PEP<br>dag | 40 000kr |
+| Totalt | 1 000 000kr |
 
 <!-- sida 20 -->
 
-Processtöd Mötesplats
-idrott
-
-Studiebesök         15 000kr
-Västerstrandsskolan,
-Karlstad
-
-Material
-Rastaktiviteter     155 000kr
-
-Mötesplatsidrott    40 000kr
-
-Samverkan           40 000kr
-föreningsliv
-gemensamma
-aktiviteter lov PEP
-dag
-
-Totalt              1 000 000kr
 Personalkostnad
 
 Pauline Brink 60 % 510 783 kr
@@ -4877,13 +4859,25 @@ enligt kommunstyrelsens arbetsutskotts förslag.
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 116-1](handlingar.tabeller/116-1.csv)
+[Tabell 116-117-1](handlingar.tabeller/116-117-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
 | Thure Sandén (M) | X |  |  |
 | Kalle Påsse Sundvall (M) | X |  |  |
 | Marianne Pleijel (M) | X |  |  |
+| Peter Söderberg (M) |  | X |  |
+| Maria Gathendahl (M) | X |  |  |
+| Fredrik Hansson (C) | X |  |  |
+| Kristina Karlsson (C) | X |  |  |
+| Monica Neptun (L) |  | X |  |
+| Niklas Mattsson (KD) | X |  |  |
+| Eva Borg (S) | X |  |  |
+| Johan Tolinsson (S) | X |  |  |
+| Carita Boulwén (SD) |  | X |  |
+| Susanne Andersson (SD) |  | X |  |
+| Maria Losman (MP) |  | X |  |
+| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 117 -->
 
@@ -4899,22 +4893,6 @@ Beslutet skickas till
 Sökanden
 
 Justerare                         Expedierat/bestyrkt
-
-[Tabell 117-1](handlingar.tabeller/117-1.csv)
-
-| Peter Söderberg (M) |  | X |  |
-| --- | --- | --- | --- |
-| Maria Gathendahl (M) | X |  |  |
-| Fredrik Hansson (C) | X |  |  |
-| Kristina Karlsson (C) | X |  |  |
-| Monica Neptun (L) |  | X |  |
-| Niklas Mattsson (KD) | X |  |  |
-| Eva Borg (S) | X |  |  |
-| Johan Tolinsson (S) | X |  |  |
-| Carita Boulwén (SD) |  | X |  |
-| Susanne Andersson (SD) |  | X |  |
-| Maria Losman (MP) |  | X |  |
-| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 118 -->
 

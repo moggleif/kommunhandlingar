@@ -1,0 +1,227 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,Inköp,,,,
+Processgrupp:,Inköp,,,,
+Process:,Hantera upphandling över direktupphandlingsgräns,,,,
+Processnummer:,2.5.1.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Förbereda och
+initiera
+upphandlingsärende","Inköpsgrundande handling t.ex.
+anskaffningsbeslut,
+investeringsbeslut","Ciceron
+avtalsdiarium",Digitalt,Bevaras,"I de fall särskilt beslut från nämnd tas,
+diarieförs detta och expedieras till Service
+Inköp, Upphandling. I andra fall avgör
+volymerna om upphandling ska
+genomföras."
+Annonsera,Annons i databas,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+,Anbudsförfrågan,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Innehåller administrativa föreskrifter.
+Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+,Infordran/inbjudan,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+,Kravspecifikation,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+,Avtalsvillkor,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+,"Lista
+upphandlingsdokumentshämtare","Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+"Genomföra
+upphandling","Frågor från anbudsgivare och svar,
+under annonseringstiden","Ciceron
+avtalsdiarium",Digitalt,Bevaras,"När frågorna blir av betydelse för
+upphandlingen går det ut ett
+förtydligande, meddelande till alla"
+"Genomföra
+upphandling",,,,,"anbudsgivare. Administreras i Tendsign,
+överförs till Ciceron avtalsdiarium efter
+avslutat ärende"
+,Ansökningsinbjudan,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Specifikt för urvalsselektiv eller
+förhandlad upphandling. Administreras i
+Tendsign, överförs till Ciceron
+avtalsdiarium efter avslutat ärende"
+,"Ansökningar om att få inkomma
+med anbud, valda","Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Specifikt för urvalsselektiv eller
+förhandlad upphandling. Administreras i
+Tendsign, överförs till Ciceron
+avtalsdiarium efter avslutat ärende"
+,"Ansökningar om att få inkomma
+med anbud, ej valda/ej korrekt
+inlämnande","Ciceron
+avtalsdiarium",Digitalt,"Gallras 4 år efter
+avslutad
+upphandling","Specifikt för urvalsselektiv eller
+förhandlad upphandling. Administreras i
+Tendsign, överförs till Ciceron
+avtalsdiarium efter avslutat ärende"
+,Meddelande till anbudsgivare,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Specifikt för urvalsselektiv eller
+förhandlad upphandling. Administreras i
+Tendsign, överförs till Ciceron
+avtalsdiarium efter avslutat ärende"
+,"Rapport över kvalificering av
+anbudsansökningar","Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Specifikt för urvalsselektiv eller
+förhandlad upphandling. Administreras i
+Tendsign, överförs till Ciceron
+avtalsdiarium efter avslutat ärende"
+"Anbudspröva och
+utvärdera",Fullmakt,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+,Anbudssammanställning,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+,"Anbud, antagna","Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Inklusive specifikationer, bilagor etc.
+Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+"Anbudspröva och
+utvärdera","Anbud, ej antagna","Ciceron
+avtalsdiarium",Digitalt,"Gallras 4 år efter
+avslutad
+upphandling","Inklusive specifikationer, bilagor etc.
+Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+,Öppningsprotokoll,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Anbudsöppning, ansökan. Administreras i
+Tendsign, överförs till Ciceron
+avtalsdiarium efter avslutat ärende"
+,"Korrespondens med anbudsgivare,
+av betydelse","Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+,"Korrespondens med anbudsgivare,
+av ringa eller tillfällig betydelse",Outlook,Digitalt,"Gallras vid
+inaktualitet",
+,"Skatte- och registerkontroll av
+anbudsgivare",Tendsign,Digitalt,"Gallras vid avslutat
+ärende","Inbyggd funktionalitet i systemet, en
+aktivitet i att kvalificera leverantören."
+,"Kreditupplysning, kontroll av
+anbudsgivare",Tendsign,Digitalt,"Gallras vid avslutat
+ärende","Inbyggd funktionalitet i systemet, en
+aktivitet i att kvalificera leverantören."
+,Referenstagningar och svar,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+,"Protokoll från förhandlingar med
+anbudsgivare","Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+,"Dokument från intervjuer, prover,
+tester, inspelad presentation","Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+,Lottningsprotokoll,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+,Upphandlingsprotokoll,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+"Anbudspröva och
+utvärdera","Begäran om förklaring av anbud
+med svar","Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Exempelvis förklaring vid onormalt lågt
+anbud. Bevaras som en del av
+anbudshandlingar (frågor och svar).
+Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+Avbryta upphandling,Beslut om att avbryta upphandling,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+"Besluta och teckna
+avtal",Tilldelningsbeslut,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Kvitto på utsänt tilldelningsbeslut,
+avbrytandebeslut registreras i
+upphandlingssystemets logg.
+Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+,Avtal/kontrakt inklusive bilagor,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Exempelvis ramavtal, objektsavtal,
+entreprenadavtal, tjänstekoncessionsavtal
+och avtal för externa utförare.
+Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende."
+,Resultat- och analysrapport,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+Efterannonsera,"Efterannonsering - annons efter
+avslutad upphandling till EUT/TED","Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+"Följa upp och
+förvalta avtal",Förändring av avtal,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Inklusive motivering till förändring
+/tjänsteskrivelse. Kan även vara
+tilläggsavtal, prisjustering. Administreras
+i Tendsign, överförs till Ciceron
+avtalsdiarium efter avslutat ärende"
+,"Annonsering av förändring av beslut
+enligt 17 kap. 16 § LOU","Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+,Överlåtelse av avtal,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+"Följa upp och
+förvalta avtal",Korrespondens med leverantör,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"I korrespondens av betydelse ingår
+exempelvis mötesprotokoll, varsling om
+brist, handlingsplaner för avhjälpande av
+fel, reklamation. Administreras i
+Tendsign, överförs till Ciceron
+avtalsdiarium efter avslutat ärende"
+,Anmodan om rättelse,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Anmodan kan även innehålla meddelande
+om vite eller annan påföljd. Administreras
+i Tendsign, överförs till Ciceron
+avtalsdiarium efter avslutat ärende"
+,Vitesfakturaunderlag,"Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+,"Hävning av avtal/kontrakt
+(hävningsmeddelande)","Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"
+,"Överenskommelser om upphörande
+av avtal/förlikningar","Ciceron
+avtalsdiarium",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdiarium efter avslutat
+ärende"

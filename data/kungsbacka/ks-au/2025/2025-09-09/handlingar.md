@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.3ee0fded199371ed40ca01e/17575934081
 sha256: 326600122fc4d2e8a5a50ab1c05e8c4197b4894b5ac5e2b0ae4005dac1e0af76
 bytes: 31043599
 sidor: 208
-hamtad: 2026-10-09T10:52:55+00:00
-konverterad: 2026-10-09T10:53:43+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-16T08:45:50+00:00
+konverterad: 2026-10-16T08:46:49+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [65, 66, 69, 70, 71, 72, 73, 74, 75, 76, 82, 85, 86, 90, 110, 122, 125, 140, 142, 146, 147, 159, 162, 163, 164, 165, 167, 169, 170, 171, 172, 173, 174, 175, 177, 178, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 193, 202]
 tolkade: []
@@ -55,12 +55,21 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-5-1](handlingar.tabeller/2-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 2. | Taxa för brandskyddskontroll<br>2026-2031 | 2025-00504 | Förslag till beslut i kommunfullmäktige<br>1. Kommunfullmäktige antar taxa i enlighet med<br>bilaga 1.<br>2. Kommunfullmäktige antar taxebestämmelserna i<br>enlighet med bilaga 2.<br>4. Kommunfullmäktige beslutar att taxan enligt<br>beslutspunkt 1 gäller från och med den 1 januari<br>2026 till och med den 31 december 2031 för<br>Kungsbacka kommun med den justering som sker<br>enligt beslutspunkt 5.<br>5. Kommunfullmäktige beslutar att<br>Räddningstjänstförbundet Storgöteborg för varje<br>avgiftsår ska årligen justera taxorna enligt<br>beslutspunkt 1 enligt Sveriges kommuner och<br>regioners (SKR) Prisindex för kommunal<br>verksamhet (PKV). Vid justeringen tillämpas det<br>PKV som SKR årligen publicerar i februari, i<br>samband med cirkuläret som omfattar<br>budgetförutsättningar och skatteprognos. Taxan<br>beräknas enligt PKV för två år före det år som<br>taxebeloppet ska gälla. Justeringen görs med PKV<br>enligt det cirkulär som publiceras året före det år<br>taxebeloppet ska gälla. |
 | 3. | Taxa för bredband 2026 | 2025-00434 | Förslag till beslut<br>Kommunfullmäktige antar bredbandstaxa 2026,<br>daterad 2025-05-07.<br>Taxan träder i kraft den 1 januari 2026.<br>Bredbandstaxa 2025, antagen av<br>kommunfullmäktige 2024-06-13, § 99, upphör<br>samtidigt att gälla. |
+| 4. | Taxa för parkeringsavgifter och<br>felparkeringsavgifter | 2025-00506 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Taxa för<br>parkeringsavgifter och felparkeringsavgifter, daterad<br>2025-06-02.<br>Taxan gäller från och med den 1 januari 2026.<br>Avgifter för parkering- timtaxor, boendekort och<br>nyttokort, antagna av kommunfullmäktige 2024-02-<br>06, § 12, upphör att gälla samtidigt som ny taxa<br>träder i kraft.<br>Kommunfullmäktige förklarar uppdraget om att ta<br>fram ett samlat taxedokument, som lämnades till<br>nämnden för Teknik 2024-02-06 § 12, för avslutat. |
+| 5. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för bostäder med<br>mera inom Hammerö 13:7 m.fl.<br>i Kungsbacka | 2023-00275 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för bostäder med mera inom Hammerö<br>13:7 m.fl. i Kungsbacka, daterad 2025-08-13.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan för bostäder med<br>mera inom Hammerö 13:7 m.fl. i Kungsbacka. |
+| 6. | Inriktningsbeslut inför<br>upprättande av detaljplan och<br>markanvisningstävling för<br>kvarteret Ejdern | 2023-00651 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen beslutar att samråd över förslag<br>till detaljplan för kvarteret Ejdern genomförs innan<br>markanvisningstävling för kvarteret Ejdern<br>genomförs.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för bostäder och centrumverksamheter<br>inom Ejdern 8, Kungsbacka 2:13 m.fl. i<br>Kungsbacka. |
+| 7. | Information om arbetet med att<br>planlägga Hedeleden<br>08:50-09:10<br>Sofia Wiman<br>Ida Lennartsson<br>John Borlid<br>Byggnadsnämndens<br>arbetsutskott | 2019-00837 |  |
+| 8. | Avstämning om arrende för<br>Åsagrillen på Åsa 4:118<br>09:15-09:35<br>Johan Gerremo<br>Mia Vollmer | 2025-00497 |  |
+| 9. | Avstämning om lokalplanering<br>(från årshjul)<br>09:50-10:35<br>Lovisa Eld<br>Maria Rosenberg<br>Ing-Britt Blomberg<br>Julia Tryggvadottir Tollesson<br>Christina Wenander<br>Mats Söderström<br>Jenny Törn | 2025-00024 |  |
+| 10. | Information om Regional<br>utvecklingsplan för<br>Storstadsregionen<br>10:40-11:00<br>Sven Erik Bergström<br>Anders Lund | 2025-00231 |  |
+| 11. | Dialog om budget 2026 för<br>kommunstyrelsen<br>11:00-11:30<br>Jessica Dahlgren<br>Christina Hermansson<br>Anders Johansson<br>Lovisa Eld | 2024-00708 |  |
+| 12. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |
 
 <!-- sida 3 -->
 
@@ -68,28 +77,11 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 4. | Taxa för parkeringsavgifter och<br>felparkeringsavgifter | 2025-00506 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Taxa för<br>parkeringsavgifter och felparkeringsavgifter, daterad<br>2025-06-02.<br>Taxan gäller från och med den 1 januari 2026.<br>Avgifter för parkering- timtaxor, boendekort och<br>nyttokort, antagna av kommunfullmäktige 2024-02-<br>06, § 12, upphör att gälla samtidigt som ny taxa<br>träder i kraft.<br>Kommunfullmäktige förklarar uppdraget om att ta<br>fram ett samlat taxedokument, som lämnades till<br>nämnden för Teknik 2024-02-06 § 12, för avslutat. |
-| 5. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för bostäder med<br>mera inom Hammerö 13:7 m.fl.<br>i Kungsbacka | 2023-00275 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för bostäder med mera inom Hammerö<br>13:7 m.fl. i Kungsbacka, daterad 2025-08-13.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan för bostäder med<br>mera inom Hammerö 13:7 m.fl. i Kungsbacka. |
-| 6. | Inriktningsbeslut inför<br>upprättande av detaljplan och<br>markanvisningstävling för<br>kvarteret Ejdern | 2023-00651 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen beslutar att samråd över förslag<br>till detaljplan för kvarteret Ejdern genomförs innan<br>markanvisningstävling för kvarteret Ejdern<br>genomförs.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för bostäder och centrumverksamheter<br>inom Ejdern 8, Kungsbacka 2:13 m.fl. i<br>Kungsbacka. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 7. | Information om arbetet med att<br>planlägga Hedeleden<br>08:50-09:10<br>Sofia Wiman<br>Ida Lennartsson<br>John Borlid<br>Byggnadsnämndens<br>arbetsutskott | 2019-00837 |  |
-| 8. | Avstämning om arrende för<br>Åsagrillen på Åsa 4:118<br>09:15-09:35<br>Johan Gerremo<br>Mia Vollmer | 2025-00497 |  |
-| 9. | Avstämning om lokalplanering<br>(från årshjul)<br>09:50-10:35<br>Lovisa Eld<br>Maria Rosenberg<br>Ing-Britt Blomberg<br>Julia Tryggvadottir Tollesson<br>Christina Wenander<br>Mats Söderström<br>Jenny Törn | 2025-00024 |  |
-| 10. | Information om Regional<br>utvecklingsplan för<br>Storstadsregionen<br>10:40-11:00<br>Sven Erik Bergström<br>Anders Lund | 2025-00231 |  |
 
 <!-- sida 5 -->
 
@@ -99,13 +91,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Therese Tanner
 ordförande                        kommunsekreterare
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | Dialog om budget 2026 för<br>kommunstyrelsen<br>11:00-11:30<br>Jessica Dahlgren<br>Christina Hermansson<br>Anders Johansson<br>Lovisa Eld | 2024-00708 |  |
-| 12. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |
 
 <!-- sida 6 -->
 
@@ -607,7 +592,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 3B8B296F0459A33C401A8F42225F61D80ECF02E4EF
 Transaktionsidentitet: C559B96C499F418CD88F6CF293537893AFED199430
 
-[Tabell 15-1](handlingar.tabeller/15-1.csv)
+[Tabell 15-16-1](handlingar.tabeller/15-16-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -618,6 +603,14 @@ Transaktionsidentitet: C559B96C499F418CD88F6CF293537893AFED199430
 | Thure Sandén (M) | X |  |  |
 | Magdalena Sundqvist (S) |  | X |  |
 | Johan Tolinsson (S) |  | X |  |
+| Stefan Jägnert (SD) |  | X |  |
+| Stefan Vilumsons (SD) |  | X |  |
+| Fredrik Hansson (C) | X |  |  |
+| Monica Neptun (L) | X |  |  |
+| Fredrik Kollberg (KD) | X |  |  |
+| Patrik Jervne Henestam (V) |  | X |  |
+| Maria Losman (MP) |  | X |  |
+| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 16 -->
 
@@ -642,18 +635,6 @@ Samtliga nämnder, Kommunstyrelsens förvaltning: kansliet, HR
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 3B8B296F0459A33C401A8F42225F61D80ECF02E4EF
 Transaktionsidentitet: C559B96C499F418CD88F6CF293537893AFED199430
-
-[Tabell 16-1](handlingar.tabeller/16-1.csv)
-
-| Stefan Jägnert (SD) |  | X |  |
-| --- | --- | --- | --- |
-| Stefan Vilumsons (SD) |  | X |  |
-| Fredrik Hansson (C) | X |  |  |
-| Monica Neptun (L) | X |  |  |
-| Fredrik Kollberg (KD) | X |  |  |
-| Patrik Jervne Henestam (V) |  | X |  |
-| Maria Losman (MP) |  | X |  |
-| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 17 -->
 
@@ -3006,41 +2987,44 @@ För Stenungsund, Tjörn och Lilla Edets kommuner gäller taxan från 1 septembe
 För utförande av föreskriven brandskyddskontroll enligt 3 kap. 4 § lag om skydd
 mot olyckor (2003:778) utgår ersättning enligt denna taxa.
 
-1
+1   Objekt i småhus
+Kronor   Kronor
+exklusive inklusive
+moms     moms
 
-1.1
+1.1 Grundavgift för inställelse
+Inställelse för utförande av brandskyddskontroll.     316      395
 
-1.2
+1.2 Avgift för kontroll av eldstad med tillhörande rökkanal
+947     1184
+1.3 Avgift för kontroll av ytterligare eldstad
+463      579
 
-1.3
+1.4 Avgift för ombokning
+Då fastighetsägaren eller nyttjanderättshavaren ombokat senare än 48 helgfria
+316      395
+timmar före aviserat besök, uttas en grundavgift.
+1.5 Avgift för beställning av icke aviserad kontroll
+För kontroll av anläggning som inte varit i bruk eller inte kontrollerats, utgår
+631      789
+ersättning utöver ordinarie pris.
+1.6 Avgift för ej tillträde
+Då kontrollen inte kunnat utföras pga. att det inte getts tillträde till fastigheten
+enligt avisering och särskilda skäl för detta inte förelegat, utgår ersättning för det 316 395
+aviserade besöket med en grundavgift.
 
-1.4
+2   Övriga objekt
 
-1.5
+2.1 Kontrollavgift
+Kontrollavgift utgår med pris (timersättning) som anges i 3.3.
 
-1.6
+2.2 Avgift för ej tillträde
+Då kontrollen inte kunnat utföras pga. att det inte getts tillträde till fastigheten
+enligt avisering och särskilda skäl för detta inte förelegat, utgår ersättning för det 947 1184
 
-2
-
-2.1
-
-2.2
+aviserade besöket.
 
 1 (2)
-
-[Tabell 69-1](handlingar.tabeller/69-1.csv)
-
-| Objekt i småhus | Kronor<br>exklusive<br>moms | Kronor<br>inklusive<br>moms |
-| --- | --- | --- |
-| Grundavgift för inställelse<br>Inställelse för utförande av brandskyddskontroll. | 316 | 395 |
-| Avgift för kontroll av eldstad med tillhörande rökkanal | 947 | 1184 |
-| Avgift för kontroll av ytterligare eldstad | 463 | 579 |
-| Avgift för ombokning<br>Då fastighetsägaren eller nyttjanderättshavaren ombokat senare än 48 helgfria<br>timmar före aviserat besök, uttas en grundavgift. | 316 | 395 |
-| Avgift för beställning av icke aviserad kontroll<br>För kontroll av anläggning som inte varit i bruk eller inte kontrollerats, utgår<br>ersättning utöver ordinarie pris. | 631 | 789 |
-| Avgift för ej tillträde<br>Då kontrollen inte kunnat utföras pga. att det inte getts tillträde till fastigheten<br>enligt avisering och särskilda skäl för detta inte förelegat, utgår ersättning för det<br>aviserade besöket med en grundavgift. | 316 | 395 |
-| Övriga objekt |  |  |
-| Kontrollavgift<br>Kontrollavgift utgår med pris (timersättning) som anges i 3.3. |  |  |
-| Avgift för ej tillträde<br>Då kontrollen inte kunnat utföras pga. att det inte getts tillträde till fastigheten<br>enligt avisering och särskilda skäl för detta inte förelegat, utgår ersättning för det<br>aviserade besöket. | 947 | 1184 |
 
 <!-- sida 70 -->
 
@@ -3327,19 +3311,19 @@ Lönerevision 2025 i procent                    3,4
 Pålägg för sociala avgifter, pensioner m.m. i procent 40
 
 Antal kontroller eldstad, 45 min + 15 min    15 543
-Genomsnittlig arbetstid per kontroll (h)     1 ,00
+Genomsnittlig arbetstid per kontroll (h)     1,00
 Arbetstid                                    15 543
 Ytterligare eldstad, 22 min                   3 021
-Genomsnittlig arbetstid per kontroll (h)     0 ,37
+Genomsnittlig arbetstid per kontroll (h)     0,37
 Arbetstid                                     1 108
 Antal kontroller eldstad, 90 min              1 128
-Genomsnittlig arbetstid per kontroll (h)     1 ,50
+Genomsnittlig arbetstid per kontroll (h)     1,50
 Arbetstid                                     1 692
 Storpannor                                     120
-Genomsnittlig arbetstid per kontroll (h)     1 ,00
+Genomsnittlig arbetstid per kontroll (h)     1,00
 Arbetstid                                      120
 Antal kontroller imkanaler, 120 min           2 357
-Genomsnittlig arbetstid per kontroll (h)     2 ,00
+Genomsnittlig arbetstid per kontroll (h)     2,00
 Arbetstid                                     4 714
 Totalt antal kontroller                      22 169
 Totalt antal timmar (h)                      23 177
@@ -3372,7 +3356,7 @@ OH 1 - OH för planering och ledning
 Belopp i kronor för planering och ledning som ska taxefinaniseras 6 576 932
 Antal timmar                                 23 177
 
-Kostnad per timme för planering och ledning  2 84
+Kostnad per timme för planering och ledning  284
 
 OH 2 - OH för avdelningens centrala funktion
 
@@ -3414,8 +3398,11 @@ Kostnad per timme för avdelningens ledningsadministration (kr) 20
 
 MO-pålägg
 
-Brandskyddskontrollen             Årskostnad
-tkr     tkr
+Kostnad för materiel m.m (tkr)                2 383
+Personalkostnader (tkr)                       9 038
+MO-pålägg i % av personalkostnad               26
+Personalkostnad per timme för BSK samt planering och ledning (kr) 788
+Kostnad för BSK material m.m (kr)              208
 
 OH 3 - RSGs gemensamma ledning samt stödfunktioner
 
@@ -3425,16 +3412,12 @@ Centralt OH i procent         18,6
 
 [Tabell 79-1](handlingar.tabeller/79-1.csv)
 
-| Personalkostnader | 9 038 |  |
+| Brandskyddskontrollen | Årskostnad<br>tkr | tkr |
 | --- | --- | --- |
+| Personalkostnader | 9 038 |  |
 | Verksamhetskostnader | 1 291 | 1 291 |
 | Kapitaltjänstkostnader | 1 092 | 1 092 |
 | Summa kostnader | 11 421 | 2 383 |
-| Kostnad för materiel m.m (tkr) |  | 2 383 |
-| Personalkostnader (tkr) |  | 9 038 |
-| MO-pålägg i % av personalkostnad |  | 26 |
-| Personalkostnad per timme för BSK samt planering och ledning (kr) |  | 788 |
-| Kostnad för BSK material m.m (kr) |  | 208 |
 
 <!-- sida 80 -->
 
@@ -4038,11 +4021,13 @@ Kungsbacka kommun             Bredbandstaxa 2026                7 (9)
 | Option Extra effektuttag UPS 230VAC,<br>10A, Drifttid minst 2tim | 350W | 10 000 kr | 450 kr |
 | Option Extra UPS 230VAC, 10A, 2 tim<br>(Drifttid minst 4tim) | 350W | 10 000 kr | 450 kr |
 
-[Tabell 93-4](handlingar.tabeller/93-4.csv)
+[Tabell 93-94-4](handlingar.tabeller/93-94-4.csv)
 
 | Tjänst | Månadsavgift |
 | --- | --- |
 | Månadsavgift svartfiber / kapacitet över 10 Mbit | 2 000 kr |
+| Månadsavgift kapacitet under 10 Mbit | 500 kr |
+| Tillägg Servicenivå SN 2 per förbindelse<br>(+60% på Grundavgiften) | 1 200 kr |
 
 <!-- sida 94 -->
 
@@ -4077,12 +4062,6 @@ Kungsbacka kommun             Bredbandstaxa 2026                8 (9)
 
 [Tabell 94-1](handlingar.tabeller/94-1.csv)
 
-| Månadsavgift kapacitet under 10 Mbit | 500 kr |
-| --- | --- |
-| Tillägg Servicenivå SN 2 per förbindelse<br>(+60% på Grundavgiften) | 1 200 kr |
-
-[Tabell 94-2](handlingar.tabeller/94-2.csv)
-
 | Beskrivning | Engångsavgift\* |
 | --- | --- |
 | Fiberanslutning till villa vid byggnation av ett område i tätort | 20 000 kr |
@@ -4090,7 +4069,7 @@ Kungsbacka kommun             Bredbandstaxa 2026                8 (9)
 | Efteranslutning av villa i redan utbyggt område | 29 900 kr |
 | Enskild villa och övriga fiberanslutningar | Offert |
 
-[Tabell 94-3](handlingar.tabeller/94-3.csv)
+[Tabell 94-2](handlingar.tabeller/94-2.csv)
 
 | Servicenivå | Pris |
 | --- | --- |

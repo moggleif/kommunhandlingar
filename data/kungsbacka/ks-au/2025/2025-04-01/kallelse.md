@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.101af520195b23fbe32e15fa/1743157122
 sha256: 242087fb78d8972553d95629f86cce975bba210f69ac1f6e9c63a0b6e712c8ca
 bytes: 220383
 sidor: 4
-hamtad: 2026-10-09T08:23:30+00:00
-konverterad: 2026-10-09T08:23:36+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-16T06:14:03+00:00
+konverterad: 2026-10-16T06:14:09+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
@@ -55,7 +55,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -63,21 +63,18 @@ KUNGSBACKA  KOMMUN
 | 3. | Antagande av<br>informationshanteringsplan för<br>kommungemensamma<br>ledningsprocesser | 2024-00786 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar Informationshanteringsplan<br>för kommungemensamma ledningsprocesser, daterad<br>2024-12-17.<br>Informationshanteringsplan för kommungemensamma<br>ledningsprocesser, antagen av kommunstyrelsen 2023-<br>01-10, § 15, upphör samtidigt att gälla. |
 | 4. | Antagande av<br>informationshanteringsplan för<br>kommungemensamma<br>stödprocesser | 2024-00787 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar Informationshanteringsplan<br>för kommungemensamma stödprocesser, daterad 2024-<br>12-17.<br>Informationshanteringsplan för kommungemensamma<br>stödprocesser, antagen av kommunstyrelsen 2023-05-<br>30, § 108, upphör samtidigt att gälla. |
 | 5. | Godkännande av<br>exploateringsavtal med<br>Transportcentrum i Kungsbacka<br>AB och Balder i Kungsbacka AB<br>samt överenskommelse om<br>fastighetsbildning med<br>Transportcentrum i Kungsbacka<br>AB och Kungsbacka<br>Lastbilcentral Fastighets AB<br>avseende detaljplan för<br>verksamheter i Klovsten inom<br>fastigheterna Ysby 1:12 m.fl., i<br>Kungsbacka stad | 2017-00510 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner exploateringsavtal<br>avseende detaljplan för verksamheter i Klovsten inom<br>fastigheterna Ysby 1:2 m.fl. i Kungsbacka stad,<br>Kungsbacka kommun, mellan kommunen och<br>Transportcentrum i Kungsbacka AB samt mellan<br>kommunen och Balder i Kungsbacka AB,<br>undertecknade av bolagen 2025-03-13.<br>Kommunfullmäktige godkänner överenskommelse om<br>fastighetsbildning mellan kommunen och<br>Transportcentrum i Kungsbacka AB samt Kungsbacka<br>Lastbilcentral Fastighets AB, undertecknad av bolagen<br>2025-03-13.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalen<br>samt övriga nödvändiga handlingar för avtalens<br>genomförande. |
+| 6. | Antagande av detaljplan för<br>verksamheter i Klovsten inom<br>fastigheterna Ysby 1:12 m.fl. i<br>Kungsbacka stad | 2025-00192 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar detaljplan för verksamheter<br>i Klovsten inom Ysby 1:12 m.fl. i Kungsbacka stad,<br>Kungsbacka kommun, upprättad 2025-01-21. |
+| 7. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplaner för del av detaljplan<br>S21A för Malevik 1:39,<br>detaljplan S53 för Släps-Högås<br>1:25 m.fl. samt del av detaljplan<br>K35 och T16 inom Spoven 1 | 2025-00143 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>Startpaket småplaner 2025 – Del av detaljplan S21A<br>för Malevik 1:39, Detaljplan S53 för Släps-Högås 1:25<br>m.fl. samt del av detaljplan K35 och T16 inom Spoven<br>1.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan enligt<br>projektbeställning. |
+| 8. | Information om planbesked 2024<br>och samhällsbyggnadskontorets<br>arbete med planbesked, tidiga<br>förfrågningar och förhandsbesked<br>inom utvecklingsort<br>09:20-09:50<br>Stina Wikström<br>Ida Lennartsson<br>Byggnadsnämndens arbetsutskott<br>Thure Sandén<br>Heinrich Kaufmann<br>Lars Eriksson<br>Daniel Hognert<br>Stefan Vilumsons | 2025-00043 |  |
+| 9. | Information om arbetet med<br>markanvisning kvarteret Ejdern<br>10:05-10:35<br>Fortesa Bytyqi<br>Mikaela Ropel<br>Johan Gerremo | 2023-00651 |  |
+| 10. | Information från Hållbart boende<br>- läget inom Individ &<br>Familjeomsorg (årshjul)<br>10:40-11:10<br>Lovisa Eld<br>Ivan Stipic<br>Patrik Hellberg<br>Mats Söderström<br>Christer Kilersjö (Eksta)<br>Presidium Individ &<br>Familjeomsorg<br>Tommy Rydfeldt<br>Marianne Pleijel<br>Maj-Britt Rane-Andersson | 2025-00023 |  |
+| 11. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 6. | Antagande av detaljplan för<br>verksamheter i Klovsten inom<br>fastigheterna Ysby 1:12 m.fl. i<br>Kungsbacka stad | 2025-00192 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar detaljplan för verksamheter<br>i Klovsten inom Ysby 1:12 m.fl. i Kungsbacka stad,<br>Kungsbacka kommun, upprättad 2025-01-21. |
-| 7. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplaner för del av detaljplan<br>S21A för Malevik 1:39,<br>detaljplan S53 för Släps-Högås<br>1:25 m.fl. samt del av detaljplan<br>K35 och T16 inom Spoven 1 | 2025-00143 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>Startpaket småplaner 2025 – Del av detaljplan S21A<br>för Malevik 1:39, Detaljplan S53 för Släps-Högås 1:25<br>m.fl. samt del av detaljplan K35 och T16 inom Spoven<br>1.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan enligt<br>projektbeställning. |
-| 8. | Information om planbesked 2024<br>och samhällsbyggnadskontorets<br>arbete med planbesked, tidiga<br>förfrågningar och förhandsbesked<br>inom utvecklingsort<br>09:20-09:50<br>Stina Wikström<br>Ida Lennartsson<br>Byggnadsnämndens arbetsutskott<br>Thure Sandén<br>Heinrich Kaufmann<br>Lars Eriksson<br>Daniel Hognert<br>Stefan Vilumsons | 2025-00043 |  |
-| 9. | Information om arbetet med<br>markanvisning kvarteret Ejdern<br>10:05-10:35<br>Fortesa Bytyqi<br>Mikaela Ropel<br>Johan Gerremo | 2023-00651 |  |
 
 <!-- sida 4 -->
 
@@ -87,10 +84,3 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 10. | Information från Hållbart boende<br>- läget inom Individ &<br>Familjeomsorg (årshjul)<br>10:40-11:10<br>Lovisa Eld<br>Ivan Stipic<br>Patrik Hellberg<br>Mats Söderström<br>Christer Kilersjö (Eksta)<br>Presidium Individ &<br>Familjeomsorg<br>Tommy Rydfeldt<br>Marianne Pleijel<br>Maj-Britt Rane-Andersson | 2025-00023 |  |
-| 11. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |

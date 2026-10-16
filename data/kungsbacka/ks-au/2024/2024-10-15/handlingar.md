@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.458b81071927093b1521ec0b/1728562690
 sha256: fc23d5c96db5186b876108c2367342176e3e7685051a08afa8181e4905fddad5
 bytes: 11857571
 sidor: 76
-hamtad: 2026-10-09T09:26:54+00:00
-konverterad: 2026-10-09T09:27:16+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-16T07:19:44+00:00
+konverterad: 2026-10-16T07:20:07+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
+tal_obekraftade: [68]
 figurer: [42, 44, 52, 53, 54, 56, 57, 58, 59, 61, 62, 63, 64, 65, 66, 68]
 tolkade: []
 ---
@@ -2548,7 +2548,7 @@ N
 KKKKKKKKKuuuuuuuuunnnnnnnnngggggggggsssssssssbbbbbbbbbaaaaaaaaaccccccccckkkkkkkkkaaaaaaaaa MMMMMMMMMyyyyyyyyyrrrrrrrrraaaaaaaaa 333333333:::::::::111111111888888888 (((((((((111111111)))))))))
 KKKKKKKKKuuuuuuuuunnnnnnnnngggggggggsssssssssbbbbbbbbbaaaaaaaaaccccccccckkkkkkkkkaaaaaaaaa MMMMMMMMMyyyyyyyyyrrrrrrrrraaaaaaaaa 333333333:::::::::111111111888888888 (((((((((222222222)))))))))
 
-KKKKKKKKKuuuuuuuuunnnnnnnnngggggggggsssssssssbbbbbbbbbaaaaaaaaacccccccccKKKKKKKKK kkkkkkkkkuuuuuuuu aaaa u aaaaannnnnnnn n MMMMMMMMMggggggggg yyyyssss yyyyssssy s rrrrbbbb rrrrbbbbr b aaaaaaaaaaaaaaaaaa cccc 3333cccc 3333 c 3kkkk ::::kkkk :::: k :11111111aaaa 1aaaaa 88888888 8 MMMMMMMM M (((((((((44444444yyyy 4yyyyy ))))))))rrrr )rrrrraaaaaaaaa 333333333:::::::::111111111888888888 (((((((((333333333)))))))))
+KKKKKKKKKuuuuuuuuunnnnnnnnngggggggggsssssssssbbbbbbbbbaaaaaaaaacccccccccKKKKKKKKK kkkkkkkkkuuuuuuuu aaaa u aaaaannnnnnnn n MMMMMMMMMggggggggg yyyyssss yyyyssssy s rrrrbbbb rrrrbbbbr b aaaaaaaaaaaaaaaaaa cccc 3333cccc 3333 c 3kkkk ::::kkkk :::: k :11111111aaaa 1aaaaa 88888888 8 MMMMMMMMM (((((((((44444444yyyy 4yyyyy ))))))))rrrr )rrrrraaaaaaaaa 333333333:::::::::111111111888888888 (((((((((333333333)))))))))
 
 KKKKKKKKKuuuuuuuuunnnnnnnnngggggggggsssssssssbbbbbbbbbaaaaaaaaaccccccccckkkkkkkkkaaaaaaaaa MMMMMMMMMyyyyyyyyyrrrrrrrrraaaaaaaaa 333333333:::::::::111111111888888888 (((((((((555555555)))))))))
 
