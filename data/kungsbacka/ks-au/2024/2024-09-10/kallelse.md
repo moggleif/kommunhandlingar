@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2c0e0b6e191975d7155e49e/17255447543
 sha256: 66d834d202da99a8e83472e349e0b4209fbb3a5f8da055a5dca424cb59803037
 bytes: 227996
 sidor: 5
-hamtad: 2026-10-09T08:21:41+00:00
-konverterad: 2026-10-09T08:21:48+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-16T06:12:03+00:00
+konverterad: 2026-10-16T06:12:10+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]
@@ -58,29 +58,24 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-3-1](kallelse.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 5. | Omfördelning av budgetmedel<br>för medfinansiering av statlig<br>infrastruktur | 2024-00476 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige beslutar att kostnaderna som har<br>uppstått med anledning av avtalen för GC-vägen längs<br>(väg 970) Anneberg, GC-vägen längs (väg 934)<br>Vallbyvägen och Gåsevadsholmsvägen (väg 932), GC-<br>vägen längs (väg 956), Kyrkobydalavägen Säröleden<br>samt GC-vägen längs (väg 939) Torkeltorpsvägen-<br>Hanhals kyrkväg, som tidigare har ingåtts för<br>medfinansiering till statlig infrastruktur finansieras av<br>kommunens centrala finansverksamhet, vilket innebär<br>att 61 miljoner kronor kommer belasta årets resultat.<br>Kommunfullmäktige beslutar att den årliga budgeten<br>och kostnaden omfördelas från nämnden för Teknik till<br>kommunens centrala finansverksamhet med<br>sammantaget 1,5 miljoner kronor för de<br>medfinansieringsavtal som sedan tidigare fördelas<br>under 25 år, vilka är GC-vägen längs (väg 970)<br>Anneberg, GC-vägen längs (väg 934) Vallbyvägen och<br>Gåsevadsholmsvägen (väg 932) (samt för<br>avskrivningar och internränta om 1,7 miljoner kronor<br>vardera åren 2024 och 2025 för de båda<br>medfinansieringsavtal som skrivs av direkt, vilka är<br>GC-vägen längs (väg 956), Kyrkobydalavägen<br>Säröleden samt GC-vägen längs (väg 939)<br>Torkeltorpsvägen-Hanhals kyrkväg. |
 | 6. | Svar på Göteborgsregionens<br>remiss av Avrop förstärkt<br>satsning Trimning och<br>effektivisering i stråk | 2024-00437 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-07-30,<br>och översänder det som sitt svar till<br>Göteborgsregionen. |
 | 7. | Svar på<br>Arbetsmarknadsdepartementets<br>remiss av betänkandet<br>Genomförande av<br>lönetransparensdirektivet (SOU<br>2024:40) | 2024-00439 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande daterat 2024-08-21<br>och översänder det som sitt svar till<br>Arbetsmarknadsdepartementet. |
+| 8. | Svar på motion från Ermin<br>Skoric (S) m.fl. om<br>medarbetarundersökning för<br>Vård & Omsorg samt Individ &<br>Familjeomsorg utifrån de fem<br>övergripande arbetsmiljömålen | 2023-00729 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att nämnden för Individ & Omsorg samt<br>nämnden för Vård & Omsorg redan genomför<br>medarbetarundersökningar samt kompletterande<br>undersökningsmetoder kopplade till det systematiska<br>arbetsmiljöarbetet utifrån de fem övergripande<br>arbetsmiljömålen som är beslutade av<br>kommunfullmäktige. |
+| 9. | Försäljning av Duvehed 2:53 -<br>Letf | 2021-01055 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott godkänner köpeavtal<br>mellan kommunen och Letf Miljö AB, genom vilket<br>kommunen överlåter fastigheten Duvehed 2:53, mot en<br>köpeskilling på 6 665 960 kronor, undertecknat av<br>bolaget 2024-08-22.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>och övriga i ärendet nödvändiga handlingar. |
+| 10. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för bostäder inom<br>Vallda-Backa 1:6 | 2019-00047 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för bostäder inom Vallda-Backa 1:6 i<br>Vallda, daterad 2024-08-21.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan för bostäder inom<br>Vallda-Backa 1:6 i Vallda.<br>Kommunstyrelsen upphäver tidigare beslut från den 15<br>januari 2019, § 17, om att ta fram ett planprogram för<br>Vallda-Backa 1:6 i Vallda. |
+| 11. | Begäran om planbesked för<br>Kungsbacka 5:3 | 2024-00319 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Kungsbacka 5:3 i Kungsbacka stad. |
+| 12. | Begäran om planbesked<br>Hammerö 7:19 och Kungsbacka<br>5:2 | 2024-00307 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Hammerö 7:19 och Kungsbacka<br>5:2 i Kungsbacka stad. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(5)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Svar på motion från Ermin<br>Skoric (S) m.fl. om<br>medarbetarundersökning för<br>Vård & Omsorg samt Individ &<br>Familjeomsorg utifrån de fem<br>övergripande arbetsmiljömålen | 2023-00729 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att nämnden för Individ & Omsorg samt<br>nämnden för Vård & Omsorg redan genomför<br>medarbetarundersökningar samt kompletterande<br>undersökningsmetoder kopplade till det systematiska<br>arbetsmiljöarbetet utifrån de fem övergripande<br>arbetsmiljömålen som är beslutade av<br>kommunfullmäktige. |
-| 9. | Försäljning av Duvehed 2:53 -<br>Letf | 2021-01055 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott godkänner köpeavtal<br>mellan kommunen och Letf Miljö AB, genom vilket<br>kommunen överlåter fastigheten Duvehed 2:53, mot en<br>köpeskilling på 6 665 960 kronor, undertecknat av<br>bolaget 2024-08-22.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>och övriga i ärendet nödvändiga handlingar. |
-| 10. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för bostäder inom<br>Vallda-Backa 1:6 | 2019-00047 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för bostäder inom Vallda-Backa 1:6 i<br>Vallda, daterad 2024-08-21.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan för bostäder inom<br>Vallda-Backa 1:6 i Vallda.<br>Kommunstyrelsen upphäver tidigare beslut från den 15<br>januari 2019, § 17, om att ta fram ett planprogram för<br>Vallda-Backa 1:6 i Vallda. |
-| 11. | Begäran om planbesked för<br>Kungsbacka 5:3 | 2024-00319 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Kungsbacka 5:3 i Kungsbacka stad. |
-| 12. | Begäran om planbesked<br>Hammerö 7:19 och Kungsbacka<br>5:2 | 2024-00307 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Hammerö 7:19 och Kungsbacka<br>5:2 i Kungsbacka stad. |
 
 <!-- sida 4 -->
 

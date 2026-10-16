@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7cc6bcd119873771c95930a8/1754639233
 sha256: fa6d3989a36e4b565216a3ef62be50810b400cca7a2ea8fcb66bb75fa226624c
 bytes: 170865
 sidor: 4
-hamtad: 2026-10-09T08:24:18+00:00
-konverterad: 2026-10-09T08:24:23+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-16T06:14:56+00:00
+konverterad: 2026-10-16T06:15:02+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
@@ -74,7 +74,7 @@ KUNGSBACKA  KOMMUN
 
 3(4)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
+[Tabell 3-4-1](kallelse.tabeller/3-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -83,6 +83,8 @@ KUNGSBACKA  KOMMUN
 | 12. | Begäran om planbesked för<br>Särö 1:57 och 1:307 | 2025-00388 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Särö 1:57 och Särö 1:307, i Särö. |
 | 13. | Planprogram Åsa station | 2024-00218 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning<br>gällande Planprogram för Åsa station i Åsa, daterad<br>2025-06-11. |
 | 14. | Information om arbetet med<br>hållbarhet (från årshjul)<br>09:00-09:45<br>Mårten Västerdal<br>Anders Lund | 2025-00022 |  |
+| 15. | Information om<br>brottsförebyggande arbete<br>10:00-10:20<br>Karl Persson<br>Rickard Vidlund | 2025-00555 |  |
+| 16. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |
 
 <!-- sida 4 -->
 
@@ -92,10 +94,3 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 15. | Information om<br>brottsförebyggande arbete<br>10:00-10:20<br>Karl Persson<br>Rickard Vidlund | 2025-00555 |  |
-| 16. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |

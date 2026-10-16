@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.687e3942192fee121352cb6b/1731079107
 sha256: 864fc3fbc07db9faf9dd667ab466a975a5dfc37b77e63f2846746121efd494f6
 bytes: 266223770
 sidor: 444
-hamtad: 2026-10-09T09:29:19+00:00
-konverterad: 2026-10-09T09:38:40+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T07:21:49+00:00
+konverterad: 2026-10-16T07:30:54+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad]
-tal_obekraftade: [25, 161, 162, 259, 268, 360, 367, 368, 369, 370, 371, 373, 374, 375, 379, 380, 381, 410, 411, 412, 423, 432, 433, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444]
-figurer: [17, 25, 37, 38, 40, 88, 91, 100, 102, 106, 107, 108, 109, 110, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 163, 164, 166, 167, 168, 169, 170, 171, 172, 176, 177, 179, 180, 181, 182, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 218, 219, 220, 222, 224, 225, 227, 228, 229, 230, 231, 232, 233, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 251, 252, 257, 258, 259, 266, 268, 269, 270, 271, 272, 274, 275, 276, 277, 278, 279, 281, 282, 322, 323, 329, 333, 334, 335, 336, 337, 339, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 377, 379, 380, 381, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 415, 416, 417, 419, 420, 421, 422, 426, 444]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad]
+tal_obekraftade: [25, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 168, 169, 170, 172, 259, 268, 334, 349, 360, 367, 368, 369, 370, 371, 373, 374, 375, 379, 380, 381, 410, 411, 412, 423, 432, 433, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444]
+figurer: [17, 25, 37, 38, 40, 88, 91, 100, 102, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 163, 164, 166, 167, 168, 169, 170, 171, 172, 176, 177, 179, 180, 181, 182, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 218, 219, 220, 222, 224, 225, 227, 228, 229, 230, 231, 232, 233, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 251, 252, 257, 258, 259, 266, 268, 269, 270, 271, 272, 274, 275, 276, 277, 278, 279, 281, 282, 322, 323, 329, 333, 334, 335, 336, 337, 339, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 377, 379, 380, 381, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 415, 416, 417, 419, 420, 421, 422, 426, 444]
 tolkade: []
 ---
 
@@ -55,13 +55,32 @@ KUNGSBACKA  KOMMUN
 
 2(8)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-8-1](handlingar.tabeller/2-8-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 1. | Förnyelse av styrmodell | 2023-00672 | Förslag till beslut i kommunstyrelsen under<br>1B<br>förutsättning av kommunfullmäktiges beslut<br>Kommunstyrelsen förklarar uppdraget om att ta fram<br>förslag till ny styrmodell, som lämnades av<br>kommunstyrelsen 2023-11-28, § 249, för avslutat.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram förslag på uppdaterad instruktion till<br>kommundirektören.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att uppdatera riktlinjerna Styrande dokument,<br>kommunfullmäktige 2023-10-10, § 156. |
 | 2. | Svar på Finansdepartementets<br>remiss av Enklare att överblicka<br>riktade statsbidrag -<br>Statskontorets förslag till en<br>samlad informationsportal<br>(Statskontoret 2024:9) | 2024-00616 | Förslag till beslut i kommunstyrelsen<br>2B<br>Kommunstyrelsen antar yttrande, daterat 2024-10-<br>01, och översänder det som sitt svar till<br>Finansdepartementet. |
 | 3. | Särskild avgränsad<br>statistikverksamhet och<br>komplettering av<br>kommunstyrelsens reglemente | 2024-00645 | Förslag till beslut i kommunfullmäktige<br>3B<br>Kommunfullmäktige utser kommunstyrelsen till<br>ansvarig för den särskilt avgränsade<br>statistikverksamheten med uppgifter som omfattas<br>av sekretess enligt 24 kap. 8 § offentlighets- och<br>sekretesslagen (2009:400).<br>Kommunfullmäktige beslutar att kommunstyrelsens<br>reglemente § 16 Kommunstyrelsens ansvar för egna<br>verksamheter, ska kompletteras med ny punkt 10<br>med följande innehåll:<br>statistik och samhällsanalys samt att det finns en<br>särskild avgränsad statistikverksamhet för<br>framställning av denna.<br>Förslag till beslut i kommunstyrelsen, under<br>4B<br>förutsättning av kommunfullmäktiges beslut ovan<br>Kommunstyrelsen beslutar att den särskilda<br>avgränsade statistikverksamheten med uppgifter som<br>omfattas av sekretess enligt 24 kap. 8 §<br>offentlighets- och sekretesslagen (2009:400), ska<br>organiseras inom enheten Statistik, Styrning &<br>Ekonomi på Kommunstyrelsens förvaltning samt ska<br>bestå av befattningarna analytiker, controller,<br>projektledare och enhetens chef. |
+| 4. | Rapport från nämnden för<br>Individ & Familjeomsorg av ej<br>verkställda beslut enligt<br>socialtjänstlagen, SoL, och<br>lagen om stöd och service till<br>vissa funktionshindrade, LSS,<br>andra kvartalet 2024 | 2024-00655 | Förslag till beslut i kommunfullmäktige<br>5B<br>Kommunfullmäktige noterar rapport från nämnden<br>för Individ & Familjeomsorg enligt 16 kap 6 f §<br>socialtjänstlagen och 28 f § lagen om stöd och<br>service till vissa funktionshindrade till protokollet. |
+| 5. | Rapport från nämnden för Vård<br>& Omsorg av ej verkställda<br>beslut enligt socialtjänstlagen,<br>SoL, andra kvartalet 2024 | 2024-00654 | Förslag till beslut i kommunfullmäktige<br>6B<br>Kommunfullmäktige noterar rapport från nämnden<br>för Vård & Omsorg, enligt 16 kap 6 f §<br>socialtjänstlagen, till protokollet. |
+| 6. | Redovisning av icke<br>färdigberedda motioner<br>(2, 2024) | 2024-00050 | Förslag till beslut i kommunfullmäktige<br>7B<br>Kommunfullmäktige noterar redovisningen av icke<br>färdigberedda motioner till och med 2024-10-11 till<br>protokollet. |
+| 7. | Kungsbacka Arena<br>genomförandefrågor; förstudie,<br>lokalprogram, uthyrning och<br>driftentreprenad, arenanamn | 2020-00547 | Förslag till beslut i kommunstyrelsen<br>8B<br>Kommunstyrelsen godkänner Förstudierapport<br>Kungsbacka Arena Fas 1, daterad 2024-08-08, med<br>projektanpassningar enligt alternativ C och att A-<br>hallen fortsättningsvis projekteras med arenarum<br>som är slutet mot omgivningen.<br>Kommunstyrelsen godkänner att nämnden för<br>Service får ta i anspråk ytterligare sex miljoner<br>kronor ur investeringsanslag för Arenan löpnummer<br>131, lokalplan 2023, för fas 1.<br>Kommunstyrelsen godkänner uthyrningsstrategi<br>Måldokument uthyrning kommersiella lokaler i<br>Kungsbacka Arena, daterad 2024-06-26.<br>Kommunstyrelsen godkänner att nämnden för<br>Service träffar överenskommelser beträffande hyra<br>av lokaler i arenan till ankarkunder enligt<br>Måldokument uthyrning kommersiella lokaler i<br>Kungsbacka Arena, som förberedelse för<br>upphandling av driftentreprenad för uthyrning av<br>kommersiella lokaler i Kungsbacka Arena.<br>Forts. på nästa sida |
+| 7. | Kungsbacka Arena<br>genomförandefrågor; förstudie,<br>lokalprogram, uthyrning och<br>driftentreprenad, arenanamn | 2020-00547 | Förslag till beslut i kommunstyrelsen<br>9B<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att genomföra upphandling av driftentreprenad<br>beträffande uthyrning av kommersiella ytor i<br>Kungsbacka Arena enligt Måldokument uthyrning<br>kommersiella lokaler i Kungsbacka Arena.<br>Kommunstyrelsen delegerar till kommundirektören<br>rätten att fatta beslut om:<br>− upphandlingsdokument (UD),<br>− annonsering av upphandlingen,<br>− tilldela kontrakt samt<br>− underteckna kontrakt efter att avtalsspärren löpt ut<br>Kommunstyrelsen ger kommundirektören rätt att<br>vidaredelegera beslutsrätt till samhällsbyggnadschef<br>för beslut om:<br>− upphandlingsdokument (UD)<br>− och till samhällsbyggnadschef samt till<br>upphandlingschef för beslut om<br>− annonsering av upphandlingen,<br>− tilldela kontrakt samt<br>− underteckna kontrakt efter att avtalsspärren löpt ut<br>Kommunstyrelsen beslutar att arenanamnet ska vara<br>Kungsbacka Arena. |
+| 8. | Ersättning av befintlig<br>konstgräsplan - Kungsbacka<br>sportfält | 2024-00685 | Förslag till beslut i kommunstyrelsen<br>10B<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att tillse att ny konstgräsplan inom Kungsbacka<br>sportfält projekteras och anläggs.<br>Kommunstyrelsen finansierar investering av<br>konstgräsplan från 2024 års exploateringsbudget<br>Kungsbacka Arena, huvudprojekt 8101 och övriga<br>kostnader som engångsdrift inom<br>exploateringsbudget Kungsbacka Arena,<br>huvudprojekt 8101. |
+| 9. | Antagande av<br>Trafikförsörjningsprogram för<br>särskild kollektivtrafik 2025 | 2024-00478 | Förslag till beslut i kommunfullmäktige<br>11B<br>Kommunfullmäktige antar<br>Trafikförsörjningsprogrammet för särskild<br>kollektivtrafik 2025, daterat 2024-06-19.<br>Trafikförsörjningsprogram för särskilda<br>persontransporter - Färdtjänst och riksfärdtjänst,<br>antaget av kommunfullmäktige 2023-05-09, § 62,<br>upphör samtidigt att gälla.<br>Kommunfullmäktige ger nämnden för Teknik i<br>12B<br>uppdrag att säkerställa den fortsatta hanteringen så<br>att det efterföljande Trafikförsörjningsprogrammet<br>ligger i fas med Hallandstrafikens<br>Trafikförsörjningsprogram. |
+| 10. | Planbesked för Alafors 4:12 | 2024-00504 | Förslag till beslut i kommunstyrelsen<br>13B<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att pröva bostäder genom en detaljplan för del<br>av Alafors 4:12 skifte 23 i Anneberg.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för del av Alafors 4:12 skifte 23 i<br>Anneberg. |
+| 11. | Planbesked för del av Spårhaga<br>2:3 och 2:139 | 2024-00503 | Förslag till beslut i kommunstyrelsen<br>14B<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av bostäder inom del av Spårhaga 2:3,<br>skifte 1, och Spårhaga 2:139, skifte 6, i Kullavik.<br>Möjlig exploatering, såsom antal lägenheter och<br>våningsantal, ska utredas under detaljplanearbetet.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för bostäder inom del av Spårhaga 2:3 och<br>Spårhaga 2:139 i Kullavik.<br>Kommunstyrelsen upphäver tidigare beslut från den<br>18 augusti 2015, § 173, om uppdrag att utreda<br>förutsättningarna för en aktiv bostadsplanering inom<br>Spårhaga 1:139, skifte 6. |
+| 12. | Försäljning av Duvehed 2:14,<br>del av - Scandi Gruppen | 2021-01052 | Förslag till beslut i kommunstyrelsen<br>15B<br>Kommunstyrelsen godkänner köpeavtal mellan<br>kommunen och EFM Fastighets AB, genom vilket<br>kommunen överlåter fastigheten del av Duvehed<br>2:14, mot en köpeskilling på 12 040 000 kronor,<br>undertecknat av bolaget 2024-10-28.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>och övriga i ärendet nödvändiga handlingar |
+| 13. | Avsiktsförklaring avseende del<br>av kv Samariten | 2024-00673 | Förslag till beslut i kommunstyrelsen<br>16B<br>Kommunstyrelsen godkänner avsiktsförklaringen<br>mellan kommunen och Magnus Månsson Fastighets<br>AB, undertecknad av bolaget 2024-10-23.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna<br>avsiktsförklaringen. |
+| 14. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för bostäder inom Må<br>3:15 m.fl. | 2021-00532 | Förslag till beslut i kommunstyrelsen<br>17B<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för bostäder inom Må 3:15 i Fjärås,<br>daterad 2024-10-14.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att fortsätta arbetet med att upprätta förslag till<br>detaljplan för bostäder inom Må 3:15 i Fjärås, i<br>enlighet med projektbeställningen. |
+| 15. | Avstämning om lokalplanering<br>(från årshjul)<br>08:50-09:35<br>Maria Rosenberg<br>Lovisa Eld<br>Ing-Britt Blomberg<br>Julia Tryggvadottir Tollesson,<br>Christina Wenander<br>Markus Mentzer<br>Semir Robovic<br>Mats Söderström | 2024-00024 | - |
+| 16. | Dialog med nämnden för<br>Tekniks arbetsutskott (TNAU)<br>om aktuella frågor<br>09:50-10:20<br>Ulrika Granfors<br>Christina Hermansson<br>Nämnden för Teknik<br>arbetsutskott | 2024-00715 | - |
+| 17. | Avstämning med Teknik om<br>utredning av digitala<br>informationsskyltar längs med<br>E6:an<br>10:25-10:45<br>Nämnden för Teknik presidium:<br>Monica Neptun<br>Erik Lindqvist<br>Ulrika Granfors<br>Annika Jardin | 2022-00695 | - |
+| 18. | Avstämning om<br>parkeringsavlösen inom<br>parkeringsområde centrum<br>10:50-11:10<br>Johan Gerremo<br>Lovisa Eld | 2024-00697 | - |
+| 19. | Information parkeringstal i avtal<br>med Riksbyggen inom inom kv<br>Gjutaren och Liljan<br>11:15:11:35<br>Fortesa Bytyqi<br>Johan Gerremo<br>Byggnadsnämndens<br>arbetsutskott | 2019-00547 | - |
+| 20. | Information från ledamöter och<br>förvaltning | 2024-00025 | - |
+| 21. | Dialog med KSAU Mölndals<br>stad<br>13:00-16:00<br>Se separat agenda | 2024-00716 | - |
 
 <!-- sida 3 -->
 
@@ -69,27 +88,11 @@ KUNGSBACKA  KOMMUN
 
 3(8)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 4. | Rapport från nämnden för<br>Individ & Familjeomsorg av ej<br>verkställda beslut enligt<br>socialtjänstlagen, SoL, och<br>lagen om stöd och service till<br>vissa funktionshindrade, LSS,<br>andra kvartalet 2024 | 2024-00655 | Förslag till beslut i kommunfullmäktige<br>5B<br>Kommunfullmäktige noterar rapport från nämnden<br>för Individ & Familjeomsorg enligt 16 kap 6 f §<br>socialtjänstlagen och 28 f § lagen om stöd och<br>service till vissa funktionshindrade till protokollet. |
-| 5. | Rapport från nämnden för Vård<br>& Omsorg av ej verkställda<br>beslut enligt socialtjänstlagen,<br>SoL, andra kvartalet 2024 | 2024-00654 | Förslag till beslut i kommunfullmäktige<br>6B<br>Kommunfullmäktige noterar rapport från nämnden<br>för Vård & Omsorg, enligt 16 kap 6 f §<br>socialtjänstlagen, till protokollet. |
-| 6. | Redovisning av icke<br>färdigberedda motioner<br>(2, 2024) | 2024-00050 | Förslag till beslut i kommunfullmäktige<br>7B<br>Kommunfullmäktige noterar redovisningen av icke<br>färdigberedda motioner till och med 2024-10-11 till<br>protokollet. |
-| 7. | Kungsbacka Arena<br>genomförandefrågor; förstudie,<br>lokalprogram, uthyrning och<br>driftentreprenad, arenanamn | 2020-00547 | Förslag till beslut i kommunstyrelsen<br>8B<br>Kommunstyrelsen godkänner Förstudierapport<br>Kungsbacka Arena Fas 1, daterad 2024-08-08, med<br>projektanpassningar enligt alternativ C och att A-<br>hallen fortsättningsvis projekteras med arenarum<br>som är slutet mot omgivningen.<br>Kommunstyrelsen godkänner att nämnden för<br>Service får ta i anspråk ytterligare sex miljoner<br>kronor ur investeringsanslag för Arenan löpnummer<br>131, lokalplan 2023, för fas 1.<br>Kommunstyrelsen godkänner uthyrningsstrategi<br>Måldokument uthyrning kommersiella lokaler i<br>Kungsbacka Arena, daterad 2024-06-26.<br>Kommunstyrelsen godkänner att nämnden för<br>Service träffar överenskommelser beträffande hyra<br>av lokaler i arenan till ankarkunder enligt<br>Måldokument uthyrning kommersiella lokaler i<br>Kungsbacka Arena, som förberedelse för<br>upphandling av driftentreprenad för uthyrning av<br>kommersiella lokaler i Kungsbacka Arena.<br>Forts. på nästa sida |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(8)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 7. | Kungsbacka Arena<br>genomförandefrågor; förstudie,<br>lokalprogram, uthyrning och<br>driftentreprenad, arenanamn | 2020-00547 | Förslag till beslut i kommunstyrelsen<br>9B<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att genomföra upphandling av driftentreprenad<br>beträffande uthyrning av kommersiella ytor i<br>Kungsbacka Arena enligt Måldokument uthyrning<br>kommersiella lokaler i Kungsbacka Arena.<br>Kommunstyrelsen delegerar till kommundirektören<br>rätten att fatta beslut om:<br>− upphandlingsdokument (UD),<br>− annonsering av upphandlingen,<br>− tilldela kontrakt samt<br>− underteckna kontrakt efter att avtalsspärren löpt ut<br>Kommunstyrelsen ger kommundirektören rätt att<br>vidaredelegera beslutsrätt till samhällsbyggnadschef<br>för beslut om:<br>− upphandlingsdokument (UD)<br>− och till samhällsbyggnadschef samt till<br>upphandlingschef för beslut om<br>− annonsering av upphandlingen,<br>− tilldela kontrakt samt<br>− underteckna kontrakt efter att avtalsspärren löpt ut<br>Kommunstyrelsen beslutar att arenanamnet ska vara<br>Kungsbacka Arena. |
-| 8. | Ersättning av befintlig<br>konstgräsplan - Kungsbacka<br>sportfält | 2024-00685 | Förslag till beslut i kommunstyrelsen<br>10B<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att tillse att ny konstgräsplan inom Kungsbacka<br>sportfält projekteras och anläggs.<br>Kommunstyrelsen finansierar investering av<br>konstgräsplan från 2024 års exploateringsbudget<br>Kungsbacka Arena, huvudprojekt 8101 och övriga<br>kostnader som engångsdrift inom<br>exploateringsbudget Kungsbacka Arena,<br>huvudprojekt 8101. |
 
 <!-- sida 5 -->
 
@@ -97,42 +100,17 @@ KUNGSBACKA  KOMMUN
 
 5(8)
 
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 9. | Antagande av<br>Trafikförsörjningsprogram för<br>särskild kollektivtrafik 2025 | 2024-00478 | Förslag till beslut i kommunfullmäktige<br>11B<br>Kommunfullmäktige antar<br>Trafikförsörjningsprogrammet för särskild<br>kollektivtrafik 2025, daterat 2024-06-19.<br>Trafikförsörjningsprogram för särskilda<br>persontransporter - Färdtjänst och riksfärdtjänst,<br>antaget av kommunfullmäktige 2023-05-09, § 62,<br>upphör samtidigt att gälla.<br>Kommunfullmäktige ger nämnden för Teknik i<br>12B<br>uppdrag att säkerställa den fortsatta hanteringen så<br>att det efterföljande Trafikförsörjningsprogrammet<br>ligger i fas med Hallandstrafikens<br>Trafikförsörjningsprogram. |
-| 10. | Planbesked för Alafors 4:12 | 2024-00504 | Förslag till beslut i kommunstyrelsen<br>13B<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att pröva bostäder genom en detaljplan för del<br>av Alafors 4:12 skifte 23 i Anneberg.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för del av Alafors 4:12 skifte 23 i<br>Anneberg. |
-| 11. | Planbesked för del av Spårhaga<br>2:3 och 2:139 | 2024-00503 | Förslag till beslut i kommunstyrelsen<br>14B<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av bostäder inom del av Spårhaga 2:3,<br>skifte 1, och Spårhaga 2:139, skifte 6, i Kullavik.<br>Möjlig exploatering, såsom antal lägenheter och<br>våningsantal, ska utredas under detaljplanearbetet.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för bostäder inom del av Spårhaga 2:3 och<br>Spårhaga 2:139 i Kullavik.<br>Kommunstyrelsen upphäver tidigare beslut från den<br>18 augusti 2015, § 173, om uppdrag att utreda<br>förutsättningarna för en aktiv bostadsplanering inom<br>Spårhaga 1:139, skifte 6. |
-
 <!-- sida 6 -->
 
 KUNGSBACKA  KOMMUN
 
 6(8)
 
-[Tabell 6-1](handlingar.tabeller/6-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 12. | Försäljning av Duvehed 2:14,<br>del av - Scandi Gruppen | 2021-01052 | Förslag till beslut i kommunstyrelsen<br>15B<br>Kommunstyrelsen godkänner köpeavtal mellan<br>kommunen och EFM Fastighets AB, genom vilket<br>kommunen överlåter fastigheten del av Duvehed<br>2:14, mot en köpeskilling på 12 040 000 kronor,<br>undertecknat av bolaget 2024-10-28.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>och övriga i ärendet nödvändiga handlingar |
-| 13. | Avsiktsförklaring avseende del<br>av kv Samariten | 2024-00673 | Förslag till beslut i kommunstyrelsen<br>16B<br>Kommunstyrelsen godkänner avsiktsförklaringen<br>mellan kommunen och Magnus Månsson Fastighets<br>AB, undertecknad av bolaget 2024-10-23.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna<br>avsiktsförklaringen. |
-| 14. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för bostäder inom Må<br>3:15 m.fl. | 2021-00532 | Förslag till beslut i kommunstyrelsen<br>17B<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för bostäder inom Må 3:15 i Fjärås,<br>daterad 2024-10-14.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att fortsätta arbetet med att upprätta förslag till<br>detaljplan för bostäder inom Må 3:15 i Fjärås, i<br>enlighet med projektbeställningen. |
-| 15. | Avstämning om lokalplanering<br>(från årshjul)<br>08:50-09:35<br>Maria Rosenberg<br>Lovisa Eld<br>Ing-Britt Blomberg<br>Julia Tryggvadottir Tollesson,<br>Christina Wenander<br>Markus Mentzer<br>Semir Robovic<br>Mats Söderström | 2024-00024 | - |
-
 <!-- sida 7 -->
 
 KUNGSBACKA  KOMMUN
 
 7(8)
-
-[Tabell 7-1](handlingar.tabeller/7-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 16. | Dialog med nämnden för<br>Tekniks arbetsutskott (TNAU)<br>om aktuella frågor<br>09:50-10:20<br>Ulrika Granfors<br>Christina Hermansson<br>Nämnden för Teknik<br>arbetsutskott | 2024-00715 | - |
-| 17. | Avstämning med Teknik om<br>utredning av digitala<br>informationsskyltar längs med<br>E6:an<br>10:25-10:45<br>Nämnden för Teknik presidium:<br>Monica Neptun<br>Erik Lindqvist<br>Ulrika Granfors<br>Annika Jardin | 2022-00695 | - |
-| 18. | Avstämning om<br>parkeringsavlösen inom<br>parkeringsområde centrum<br>10:50-11:10<br>Johan Gerremo<br>Lovisa Eld | 2024-00697 | - |
 
 <!-- sida 8 -->
 
@@ -142,14 +120,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 8-1](handlingar.tabeller/8-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 19. | Information parkeringstal i avtal<br>med Riksbyggen inom inom kv<br>Gjutaren och Liljan<br>11:15:11:35<br>Fortesa Bytyqi<br>Johan Gerremo<br>Byggnadsnämndens<br>arbetsutskott | 2019-00547 | - |
-| 20. | Information från ledamöter och<br>förvaltning | 2024-00025 | - |
-| 21. | Dialog med KSAU Mölndals<br>stad<br>13:00-16:00<br>Se separat agenda | 2024-00716 | - |
 
 <!-- sida 9 -->
 
@@ -1341,7 +1311,7 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 
 §§ socialtjänstlagen, SoL
 
-[Tabell 44-1](handlingar.tabeller/44-1.csv)
+[Tabell 44-47-1](handlingar.tabeller/44-47-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
@@ -1356,16 +1326,6 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 | 2024-02-29 | 9 § 8 LSS, boende barn och<br>ungdomar | Saknar plats. Blivit erbjuden köpt plats under<br>väntetiden vilket de tackat nej till. Erbjuden annan<br>insats under väntetiden. |
 | 2022-03-16 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Tackat nej till 5 erbjudanden, 2022-09-15, 2022-11-29,<br>2023-05-17, 2023-11-20 och 2023-12-05, eftersom<br>boendet inte är tillräckligt centralt och pga målgruppen. |
 | 2022-12-31 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Avbrott i verkställighet, tackat nej till 3 erbjudanden<br>2023-06-20, 2023-12-22 och 2024-05-24, eftersom<br>boendet inte ligger i centrala Kungsbacka. |
-
-<!-- sida 45 -->
-
-KUNGSBACKA  KOMMUN
-4 (8)
-
-[Tabell 45-1](handlingar.tabeller/45-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2023-04-03 | 9 § 9 LSS, bostad för vuxna | Tackat nej till 2 erbjudande, 2023-09-27, och 2024-03-<br>14 på Nya Hede men boendet är inte tillräckligt<br>centralt. |
 | 2023-09-04 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Saknar plats. Blivit erbjuden köpt plats 2024-03-22<br>men tackat nej, inte intresserade av köpt plats. |
 | 2023-10-20 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Den enskilde har tackat nej till erbjudande 2024-03-22. |
@@ -1379,16 +1339,6 @@ KUNGSBACKA  KOMMUN
 | 2022-02-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, har specifika önskemål om<br>verksamhet, är i behov av lång planering, tackat nej till<br>befintlig verksamhet. Tackat nej till 2 erbjudanden<br>2023-02-14 och 2023-10-02. |
 | 2022-12-31 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2023-01-11 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet, blivit erbjuden 3 olika DV-grupper. |
-
-<!-- sida 46 -->
-
-KUNGSBACKA  KOMMUN
-5 (8)
-
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2023-02-13 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet, pga hälsoskäl. |
 | 2023-04-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde har varit<br>föräldraledig. Tackat nej till erbjudande 2024-01-17. |
 | 2023-05-03 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Arbetsmiljöproblem relaterade<br>till den enskilde. Planering för återgång till DV<br>inplanerat. |
@@ -1402,6 +1352,21 @@ KUNGSBACKA  KOMMUN
 | 2024-01-29 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2024-02-09 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde tackat nej till<br>erbjudande 2024-02-09. Vill inte avsluta insatsen utan<br>pausa på obestämd tid. |
 | 2024-03-15 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, praktikplatsen har avslutat<br>platsen. Den enskilde vill avvakta uppstart till hösten. |
+| 2024-03-25 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, praktikplatsen har avslutat<br>platsen. Erbjudande 2024-04-03, pga hälsotillstånd. |
+| 2024-03-26 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
+| 2024-04-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
+| 2024-04-26 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. Pga hälsotillstånd. |
+| 2024-05-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
+
+<!-- sida 45 -->
+
+KUNGSBACKA  KOMMUN
+4 (8)
+
+<!-- sida 46 -->
+
+KUNGSBACKA  KOMMUN
+5 (8)
 
 <!-- sida 47 -->
 
@@ -1410,17 +1375,7 @@ KUNGSBACKA  KOMMUN
 
 Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
 
-[Tabell 47-1](handlingar.tabeller/47-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
-| 2024-03-25 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, praktikplatsen har avslutat<br>platsen. Erbjudande 2024-04-03, pga hälsotillstånd. |
-| 2024-03-26 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
-| 2024-04-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
-| 2024-04-26 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. Pga hälsotillstånd. |
-| 2024-05-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
-
-[Tabell 47-2](handlingar.tabeller/47-2.csv)
+[Tabell 47-49-1](handlingar.tabeller/47-49-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
@@ -1428,16 +1383,6 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2023-07-26 | 4 kap 1 § SoL, boendestöd | Avbrott i verkställighet, en av<br>två insatser är verkställda. Den<br>enskilde har tackat nej. | Verkställt, 2024-04-12 |
 | 2023-11-29 | 4 kap 1 § SoL, boendestöd | Den enskilde är i behov av lång<br>introduktion, 2 insatser av 5 är<br>verkställda 2024-01-23 och<br>2024-03-21. | Verkställt, 2024-06-13 |
 | 2023-12-12 | 4 kap 1 § SoL, boendestöd | Den enskilde har tackat nej, 1<br>insats av 3 är verkställd 2024-<br>01-05. | Avslutat, 2024-04-29 |
-
-<!-- sida 48 -->
-
-KUNGSBACKA  KOMMUN
-7 (8)
-
-[Tabell 48-1](handlingar.tabeller/48-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2024-03-01 | 4 kap 1 § SoL, boendestöd | Den enskilde har svårt att ta<br>emot personal och har tackat nej<br>till vissa insatser. | Verkställt, 2024-08-09 |
 | 2023-11-08 | 9 § 3 LSS, ledsagarservice | Avbrott i verkställighet, den<br>enskilde har tackat nej till<br>erbjudande 2024-01-23. | Avslutat, 2024-04-12 |
 | 2023-12-11 | 9 § 3 LSS, ledsagarservice | Avbrott i verkställighet, den<br>enskilde har specifika önskemål. | Verkställt, 2024-06-05 |
@@ -1446,6 +1391,15 @@ KUNGSBACKA  KOMMUN
 | 2023-11-10 | 9 § 5 LSS, avlösarservice i<br>hemmet | Den enskilde har specifika<br>önskemål, önskar<br>samrekrytering med<br>lägerverksamhet. | Verkställt, 2024-04-09 |
 | 2023-11-14 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, den<br>enskilde har specifika önskemål,<br>önskar en PAN-anställning. | Avslutat, 2024-08-21 |
 | 2023-09-01 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Fått erbjudande 2023-11-23,<br>2024-03-05, tackat ja till<br>erbjudande med inflyttning i<br>augusti 2024. | Verkställt, 2024-08-12 |
+| 2023-09-08 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Fått erbjudande 2023-11-24,<br>2024-03-13, tackat ja till<br>erbjudande med inflyttning i<br>augusti 2024. | Verkställt, 2024-08-12 |
+| 2023-10-11 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Fått erbjudande 2023-11-23,<br>2024-03-05, tackat ja till<br>erbjudande med inflyttning i<br>augusti 2024. | Verkställt, 2024-08-12 |
+| 2023-11-27 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. 2024-04-11 tackat<br>ja till erbjudande med<br>inflyttning i augusti 2024. | Verkställt, 2024-08-12 |
+| 2023-09-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. | Verkställt, 2024-06-17 |
+
+<!-- sida 48 -->
+
+KUNGSBACKA  KOMMUN
+7 (8)
 
 <!-- sida 49 -->
 
@@ -1456,15 +1410,6 @@ Inom vuxenenheten och familjehemsenheten finns inga ej verkställda beslut under
 
 Ivan Stipić                   Renate Rondolph
 Förvaltningschef              Verksamhetschef
-
-[Tabell 49-1](handlingar.tabeller/49-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
-| 2023-09-08 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Fått erbjudande 2023-11-24,<br>2024-03-13, tackat ja till<br>erbjudande med inflyttning i<br>augusti 2024. | Verkställt, 2024-08-12 |
-| 2023-10-11 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Fått erbjudande 2023-11-23,<br>2024-03-05, tackat ja till<br>erbjudande med inflyttning i<br>augusti 2024. | Verkställt, 2024-08-12 |
-| 2023-11-27 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. 2024-04-11 tackat<br>ja till erbjudande med<br>inflyttning i augusti 2024. | Verkställt, 2024-08-12 |
-| 2023-09-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. | Verkställt, 2024-06-17 |
 
 <!-- sida 50 -->
 
@@ -4157,88 +4102,163 @@ nossnåM
 &
 nérmeS
 ©
-Kungsbacka Arena - Förstudie -
-Alternativ
-E
-D
+Kungsbacka Arena - Förstudie - 23-12-22
+Legend
+Kommunalt
+Kommersiellt
+Delat
+HUVUDENTRÉ VIP/RESTAURANG
+PUBLIK OCH SPORT ENTRÉ
+VIP VINDFÅNG                                     TRAPPHUS
+RESTAURANG
+FOAJÉ                                                    PASSAGE
+UNDERCENTRAL
+INFODISK/DRIFT
+EL-RUM
+KOMMERSIELL    STÄD      RWC
+BACK OF HOUSE
+KIOSK
+SKYDDSRUM/REHABGYM    OMKL. A1
+OMKL. A2
+SKYDDSRUM/FÖRRÅD
+OMKL. A1                                FRD ANTIDOPING OMKL. C/ HANDBOLL PROD. OFFICE ARTISTLOGE
+SKYDDSRUM/FORRÅD FOTBOLL                                                                    ENTRÉ -ARTIST/ELITIDROTT OMKL. D OMKL. B /ENSEMBLELOGE /ENS O EM M B K L L E . E LOGE /ARB P E R T E S S R S U R M U M M EDIA TRAPPHUS MÖ A V M C T IL E K E R S R D U R E I M A U D / M . / PERS / O PA N U A S LRUM
+ENTRÉ -MEDIA/FÖRENINGAR
+SPELARBÄNK MED TAK
+SKALA 1:500 (för A3)
+0      10      20 m      6
+EGASSAP
+PASSAGE/MIXED ZONE TRAPPHUS
+PASSAGE
+PASSAGE/SPELARTUNNEL
+&-DNAH TTÄVTLLOB              &-DNAH TTÄVTLLOB
+FRD FOTBOLL FROSTFRITT
+DRF LLOBTOFTILE
+FRD NIU
+LLOBDNAHTILE
+DRF
+LOKAL/CAFÉ
+VÄNTRUM
+EGASSAP
+HISS HISS STORKÖK
+WC  WC
+TICKET RIP
+FRD FRD HANDBOLL HANDBOLL
+FRD FRD HANDBOLL HANDBOLL                                       FRD ARENAMATERIAL TVÄTT AR O T M IS K T L L . O B G / E /B S O T R O D L A O R CH
+RWC MASSAGE HISS M L E Ä D K IC AR IN E S / K M M A Ö TC TE H- HISS RUM
+EGASSAP
+ENTRÉ DRIFT KOMMERS
+MÖTESRUM
+KIOSK
+GYM
+OMKL. E  OMKL. E /ENSEMBLELOGE /ENSEMBLELOGE /ENS O E M M K B L L . E D LOGE /ENS O EM M B K L L E . E LOGE
+PASSAGE
+TROP
+MILJÖRUM
+SCHAKT
+200 sittplatser
+PASSAGE
+CAFÉ                                                 OMKL.         GO K D O S M M M O E T R T S AK
+TICKET                  WC RIP
+ENTRÉ -BoH/ARENA
+OMKL. A1
+OMKL. A2
+OMKL. A1                                                MILJÖRUM
+OMKL. C    OMKL. D/ CREW ROOM OMKL. D/ CREW ROOM
+FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT F F R R D O F S O T T F B R O IT L T L FRD FOTBOLL FROSTFRITT SPR. TANK SPR. RUM FRD FOTBOLL FROSTFRITT 200 m3 - 20m x 4 m x 2,5m (LxBxH)
+FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT ENTRÉ -BORTASUP.
+ENTRÉ -DRIFT FOTBOLLSPLAN
+MURLIV
+YTSAMMANSTÄLLNING
+50/50
+Frostfritt
+Kommersiell
+Kommunal
+FRAMTIDA MÖJLIG BYGGRÄTT
+TRAPPHUS                                                 PAUSRUM KONTOR
+OMKL. FRD FRYS KYL FETT- UTSLUTNING
+RWC PASSAGE
+CAFÉKÖK                                                WC STÄD
+OMKL.                                                                                TELERUM
+PASSAGEFRD/SOP
+RWC
+VILRUM RWC/D
+FRD
+/KOPI
+LASTKAJ
+LYFTBORD
+BOH-PLAN,
+UTBREDNING &
+ENTRÉ FORRÅD                                                                                              UTSEENDE ENLIGT L.
+OCH SKYDDSRUM              RWC/D   RWC/D
+EL-TRUCK
+ENTRÉ FORRÅD OCH SKYDDSRUM
+FRD HANDBOLL                                                                   OMKL. OMKL. RWC/D DRIFT DRIFT RWC/D RWC/D
+DRIFT RWC ENTRÉ FORRÅD OCH SKYDDSRUM
+ENTRÉ IDROTTSPARK
+LLOBDNAHTILE
+DRF
+FRAMTIDA MÖJLIG BYGGRÄTT
+CAFÉ
+ENTRÉ
+ENTRÉ GYM & LOKALER
+OMKL                           SCEN 2       SCEN1
+SPELARTUNNEL
+/ ENTRÉ
+FOTBOLL
+TROP
+FRD NIU
+Extra målställning
+SPELARBÄNK MED TAK
+DRF LLOBTOFTILE DRF LLOBTOFTILE DRF LLOBTOFTILE
+VINDFÅNG
+SKÄRMTAK                                                                             SKÄRMTAK
+STAKET
+SÄKERHETSGRÄNS
+GNÅFDNIV
+LLEISREMMOK
+ÉRTNE
+SKÄRMTAK
+KATMRÄKS
+KATMRÄKS
+A             B                                   C
+Alternativ      A
+HKP-PLATS HKP-PLATS
+E                                                                                                                              E
+
+D                                                                                                                              D           
+
 
  
-
-
+ 
 
-
-
-
-
-
-
-
-
-
-
-
+                                                                                                                                           
+ 
+                                                                                                                                            
+ 
+      
+
+      
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+                                                                                                                                           
 
-
-
-
-
-
+                                                                                                                                                
+                                                                                                                                                   
 
-
-
-
-
-
-
-
-
+                                                                                                                                               
+                                                                                                                                        
+    
+                                                                                                                                           
+                                                                                                                                    
+                                                                                                                                    
 
-
-
-
-
-
-
-
+               A             B                                   C
+                                                                                                                             
+                                                                                                                           
 
-SKALA 1:500 (för A3)
 N
-0      10      20 m      6
 Plan 1-Entréplan
-
-[Tabell 111-1](handlingar.tabeller/111-1.csv)
-
-| YTSAMMANSTÄLLNING<br>50/50<br>Frostfritt<br>23-12-22<br>Kommersiell<br>Kommunal<br>A B C<br>FRAMTIDA MÖJLIG BYGGRÄTT<br>Legend FRAMTIDA MÖJLIG BYGGRÄTT A<br>Kommunalt<br>Kommersiellt<br>Delat<br>HKP-PLATS HKP-PLATS<br>HUVUDENTRÉ VIP/RESTAURANG CAFÉ<br>PUBLIK OCH SPORT ENTRÉ ENTRÉ<br>MILJÖRUM<br>VIP VINDFÅNG TRAPPHUS HISS HISS STORKÖK SCHAKT MURLIV TRAPPHUS PAUSRUM KONTOR VINDFÅNG E<br>200 sittplatser<br>PASSAGE<br>RESTAURANG CAFÉ OMKL. GO K D O S M M M O E T R T S AK OMKL. FRD FRYS KYL FETT- UTSLUTNING<br>RWC PASSAGE<br>FOAJÉ PASSAGE LOKAL/CAFÉ ENTRÉ DRIFT KOMMERS TICKET WC RIP CAFÉKÖK WC STÄD ENTRÉ GYM & LOKALER SKÄRMTAK<br>OMKL. TELERUM GNÅFDNIV<br>UNDERCENTRAL MÖTESRUM PASSAGEFRD/SOP<br>INFODISK/DRIFT RWC<br>EL-RUM<br>VILRUM RWC/D<br>FRD <br>/KOPI<br>LLEISREMMOK<br>WC WC LASTKAJ<br>KOMMERSIELL STÄD RWC TICKET RIP ÉRTNE D    <br>LYFTBORD <br>BACK OF HOUSE ENTRÉ -BoH/ARENA OMKL SCEN 2 SCEN1<br>KIOSK KIOSK BOH-PLAN, KATMRÄKS<br>UTBREDNING &<br>ENTRÉ FORRÅD UTSEENDE ENLIGT L.<br>OCH SKYDDSRUM RWC/D RWC/D<br>SKYDDSRUM/REHABGYM OMKL. A1 OMKL. A1 LLOBDNAHTILE<br>EGASSAP EGASSAP EGASSAP <br>OMKL. A2 OMKL. A2 DRF<br>LLOBDNAHTILE GYM FRD NIU <br>FRD FRD<br>HANDBOLL HANDBOLL<br>EL-TRUCK<br>SKYDDSRUM/FÖRRÅD DRF ENTRÉ FORRÅD OCH SKYDDSRUM<br>OMKL. A1 FRD ANTIDOPING OMKL. C/ HANDBOLL PROD. OFFICE ARTISTLOGE &-DNAH TTÄVTLLOB &-DNAH TTÄVTLLOB DRF LLOBTOFTILE VÄNTRUM FRD FRD HANDBOLL HANDBOLL FRD ARENAMATERIAL TVÄTT AR O T M IS K T L L . O B G / E /B S O T R O D L A O R CH OMKL. A1 MILJÖRUM FRD HANDBOLL OMKL. OMKL. RWC/D DRIFT DRIFT RWC/D RWC/D DRF LLOBTOFTILE DRF LLOBTOFTILE DRF LLOBTOFTILE KATMRÄKS<br>SKYDDSRUM/FORRÅD FOTBOLL ENTRÉ -ARTIST/ELITIDROTT PASSAGE/MIXED ZONE RWC MASSAGE<br>OMKL. D OMKL. B /ENSEMBLELOGE /ENS O EM M B K L L E . E LOGE /ARB P E R T E S S R S U R M U M M EDIA TRAPPHUS MÖ A V M C T IL E K E R S R D U R E I M A U D / M . / PERS / O PA N U A S LRUM TRAPPHUS FRD NIU HISS M L E Ä D K IC AR IN E S / K M M A Ö TC TE H- HISS RUM OMKL. E OMKL. E /ENSEMBLELOGE /ENSEMBLELOGE /ENS O E M M K B L L . E D LOGE /ENS O EM M B K L L E . E LOGE OMKL. C OMKL. D/ CREW ROOM OMKL. D/ CREW ROOM DRIFT RWC ENTRÉ FORRÅD OCH SKYDDSRUM<br>ENTRÉ -MEDIA/FÖRENINGAR PASSAGE PASSAGE SKÄRMTAK SKÄRMTAK<br>PASSAGE/SPELARTUNNEL<br>FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT F F R R D O F S O T T F B R O IT L T L FRD FOTBOLL FROSTFRITT SPR. TANK SPR. RUM FRD FOTBOLL FROSTFRITT 200 m3 - 20m x 4 m x 2,5m (LxBxH) ENTRÉ IDROTTSPARK Extra målställning      <br>  <br>FRD FOTBOLL FROSTFRITT FRD NIU FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT FRD FOTBOLL FROSTFRITT   <br>ENTRÉ -BORTASUP. SPELARTUNNEL STAKET   <br>/ ENTRÉ<br>FOTBOLL   <br>SPELARBÄNK MED TAK SPELARBÄNK MED TAK   <br>TROP ENTRÉ -DRIFT FOTBOLLSPLAN TROP SÄKERHETSGRÄNS     <br><br><br><br>A B C<br>    <br>  <br>        |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |    |  |  |  |
-|  |  | <br><br> |  <br> <br>  |  |
-|  |   <br>  <br>  <br>   |  |  |  |
-|  |  <br> |  |  |  |
-|  | <br> |  |  |  |
-|  | <br> <br>  |  |  |  <br> |
 
 <!-- sida 112 -->
 
@@ -4248,88 +4268,118 @@ nossnåM
 &
 nérmeS
 ©
-Kungsbacka Arena - Förstudie -
-Alternativ
-E
-D
-
- 
-
+Kungsbacka Arena - Förstudie - 23-12-22
+Legend
+Kommunalt
+Kommersiellt
+Delat
+TRAPPHUS
+WC         SERVERING                           WC UNI
+FRD HANDBOLL
+SPORTHALL    GALLERI
+PASSAGE FRD FÖRENINGAR RWC
+RWC WC   WC    KIOSK        SERVERING             TRAPPHUS KIOSK RWC
+SKALA 1:500 (för A3)
+0      10      20 m      7
+MURSDRÅVKUJS
+YTSAMMANSTÄLLNING
+50/50
+Kommersiell
+Kommunal
+TRAPPHUS SCHAKT                                               HISS
+ÖPPET NED             HISS WC        RWC KIOSK                  KIOSK RWC SCHAKT
+HC HC
+SCHAKT
+20p                              20p
+ÖPPET
+NED
+KIOSK
+115p
+HC
+KIOSK
+HAND-& BOLLTVÄTT                                                       SCHAKT HC HC
+FRD INNEBANDY   BØTTEKOTT FRD SPORTHALL
+SCHAKT RWC KIOSK SCHAKT TRAPPHUS HISS             HISS  KIOSK
+HC                                                                   B 10 O 0 R P T L A A S T U S P E P R ORT CA. HC
+20 PL M. BORD, MEDIA
+p911
+p781
+p911
+115p
+115p       307+4p        307+4p      115p
+20p                              20p
+p911
+p8+481
+p911
+LESGNÄTS
+LEBIXELF
+210p      197+8p    210p
+METSYSSGNINGGÄLKRÖM
+MÖRKLÄGGNINGSSYSTEM
+MÖRKLÄGGNINGSSYSTEM
+METSYSSGNINGGÄLKRÖM
+A             B                                   C
+Alternativ      A
+E                                                                                                                              E
+
+D                                                                                                                              D           
+
+                         E P V O S F E P O Ö N - N R U T P S
 
 
-
+                                                                                                                                           
 
 
-
+                                                                                                                                        
 
 
 
 
 
-
-
+SON
+                               FÖR 
+E
+P
+V
+O
+E
+P
+N
+-U
+T
+P
+S
+
+
+   
+
+   
+  
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+                                                                                                                                         
+                                                                                                                                                
+                                                                                                                                                
 
-
-
-
+                                                                                                                                                
+                                                                                                                                               
 
-
-
-
-
-
-
-
-
+                                                                                                                                               
+                                                                                                                                        
+  
+                                                                                                                                               
+                                                                                                                                    
+                                                                                                                                    
 
 
-
-
-
-
-
-
-
+               A             B                                   C
+                                                                                                                                        
+                                                                                                                           
 
-SKALA 1:500 (för A3)
 N
-0      10      20 m      7
 Plan 2
-
-[Tabell 112-1](handlingar.tabeller/112-1.csv)
-
-| YTSAMMANSTÄLLNING<br>50/50<br>Kommersiell<br>23-12-22<br>Kommunal<br>A B C<br>Legend A<br>Kommunalt<br>Kommersiellt<br>Delat<br>TRAPPHUS TRAPPHUS SCHAKT HISS MÖRKLÄGGNINGSSYSTEM<br>WC SERVERING WC UNI ÖPPET NED HISS WC RWC KIOSK KIOSK RWC SCHAKT E<br>FRD HANDBOLL<br>HC HC<br>SCHAKT<br>20p 20p<br>ÖPPET<br>KIOSK<br>NED METSYSSGNINGGÄLKRÖM<br>115p 115p 210p 197+8p 210p<br>p911 p911 <br>METSYSSGNINGGÄLKRÖM D    <br><br>SPORTHALL GALLERI HC p781 p8+481<br>SON<br>FÖR<br>POP-UP<br>EVENTS<br><br>p911 p911<br><br>115p 307+4p 307+4p 115p<br>KIOSK SON<br>20p 20p FÖR POP-UP<br>EVENTS<br>HAND-&<br>BOLLTVÄTT SCHAKT<br>HC HC<br>PASSAGE<br>FRD FÖRENINGAR RWC MURSDRÅVKUJS FRD INNEBANDY BØTTEKOTT FRD SPORTHALL<br>RWC WC WC KIOSK SERVERING TRAPPHUS KIOSK RWC SCHAKT RWC KIOSK SCHAKT TRAPPHUS HISS HISS KIOSK<br>LESGNÄTS<br>MÖRKLÄGGNINGSSYSTEM<br>LEBIXELF<br>HC B 10 O 0 R P T L A A S T U S P E P R ORT CA. HC   <br>20 PL M. BORD, MEDIA   <br>  <br>  <br>  <br>  <br>  <br>  <br> <br><br><br><br>A B C<br>   <br>  <br>        |  |  |
-| --- | --- | --- |
-|  | <br><br>  <br>  <br>   |  |
-|  |   <br>  <br>  <br>  <br>   |  |
-|  |  <br> |  |
-|  | <br> |  |
-|  | <br> <br>  |  <br> |
 
 <!-- sida 113 -->
 
@@ -4339,89 +4389,111 @@ nossnåM
 &
 nérmeS
 ©
-Kungsbacka Arena - Förstudie -
-Alternativ
-E
-D
+Kungsbacka Arena - Förstudie - 23-12-22
+Legend
+Kommunalt
+Kommersiellt
+Delat
+SCHAKT                                  KONTOR         / F K R O D PISCHAKT
+MÖTESRUM MÖTESRUM MÖTESRUM TELEFONRUM TELEFONRUM TELEFONRUM TELEFONRUM
+MINI-STÄD
+BOKNINGSBAR LOKAL
+/CO-WORK /VIP-LOGE
+TEKNIK-ARENA
+HC
+TEKNIK/LJUD/LJUS
+MINI-STÄD
+LÄKTARE SPORTHALL HC GALLERI        YTOR FÖRENINGSLIV M PR IN E S 10 S P E L V A T T . N SE E R D E F Ö PÅ R L S Ä K K R T IV A A R N E D N E KAMERA KO /M M Ö M T E E NTKO /M M Ö M T E E NTS / P M EA Ö K T E E R KON / T M R Ö O T LL E RUM FR / D E L K R A U N M SLI ENTRÉ PENTRY
+HK ARANÄS 7-10p
+SEMINARIERUM/FOTBOLLS-VIP                                        GREENROOM/
+TEKNIK-OMKL, GYM, M.M.    BOKN / IN C G O S -W BA O R R K LOKAL SPE / A S K A E M R T / A M L ÖTEKO SE N K T R O E R T / A K R A I N A S T LI K H O K N T A O RA R N /K Ä A S N 4 S p LI K / K K O I A F N N T 2 S O p L R I K / Ö K O A v N r N . T 3 S O p L R I MÖTESR 5 U 0 M p FÖRENING RWC/D ARBE M TS A R T U S M AL P / RESS PENTRY/FOTBOLLS VIP KAMERA YTOR FÖRENINGSLIV/ PAUSRUM
+SKALA 1:500 (för A3)
+0      10      20 m      8
+.TNEMMOK .TNEMMOK
+YTSAMMANSTÄLLNING
+50/50
+Kommersiell
+Kommunal
+HISS TRAPPHUS HISS
+RWC/D
+MÖRKLÄGGNINGSSYSTEM
+BOKNINGSBAR LOKAL
+/CO-WORK
+/VIP-LOGE
+BOKNINGSBAR LOKAL
+/CO-WORK /VIP-LOGE
+BOKNINGSBAR LOKAL /CO-WORK
+/VIP-LOGE
+ÖPPET
+NED
+ÖPPET
+NED  / B K O O K N N T I R N O G L S L B L A J R U L D O /L K J A U L S
+ÖPPET
+NED
+BOKNINGSBAR LOKAL /CO-WORK
+/VIP-LOGE
+BOKNINGSBAR LOKAL
+/CO-WORK /VIP-LOGE
+BOKNINGSBAR LOKAL /CO-WORK /VIP-LOGE
+BOKNINGSBAR LOKAL /CO-WORK /VIP-LOGE
+MÖRKLÄGGNINGSSYSTEM
+RWC/D                     KA F N RD SLI         KA F N RD SLI
+SCHAKT
+TRAPPHUS HISS      KON /S T A R M O T L A LR L UM M / Ö S T A E M S T R A U L M HISS /PENTRY /TV-STUDIO FRD KANSLI TF TF TF TF KA F N RD SLI
+METSYSSGNINGGÄLKRÖM
+A             B                                   C
+Alternativ      A
+TAKFÖNSTER
+E                                                                                                                              E
+
+D                                                                                                                              D           
+
 
  
 
 
 
-
-
-
-
+                                                                                                                                           
+ 
+                                                                                                                                        
 
 
-
-
-
+  
 
 
 
-
-
+ 
 
 
-
-
-
-
+   
 
 
 
-
-
-
-
-
-
+     
 
 
-
-
-
+                                                     HÖJ-OCH SÄNKBART PARTI I KAMERARUM                                                 
+                                                     ÖPPNINGSBARA PARTIER VID ÖVRIGA MEDIAFUNKTIONER                                           
 
-
+                                                                                                                                                
 
-
-
-
+                                                                                                                                                
+                                                                                                                                               
 
-
-
-
-
-
-
-
-
+                                                                                                                                               
+                                                                                                                                        
+  
+ 
+                                                                                                                                           
+                                                                                                                                    
+                                                                                                                                    
 
-
-
-
-
-
-
-
+               A             B                                   C
+                                                                                                                                        
+                                                                                                                           
 
-SKALA 1:500 (för A3)
 N
-0      10      20 m      8
 Plan 3
-
-[Tabell 113-1](handlingar.tabeller/113-1.csv)
-
-| YTSAMMANSTÄLLNING<br>50/50<br>Kommersiell<br>23-12-22<br>Kommunal<br>A B C<br>Legend A<br>Kommunalt<br>Kommersiellt<br>Delat<br>TAKFÖNSTER<br>SCHAKT KONTOR / F K R O D PISCHAKT HISS TRAPPHUS HISS E<br>MÖTESRUM MÖTESRUM MÖTESRUM TELEFONRUM TELEFONRUM TELEFONRUM TELEFONRUM<br>RWC/D<br>MINI-STÄD<br>MÖRKLÄGGNINGSSYSTEM<br>METSYSSGNINGGÄLKRÖM<br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE<br>BOKNINGSBAR LOKAL<br>/CO-WORK /VIP-LOGE <br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE D    <br>BOKNINGSBAR LOKAL <br>/CO-WORK<br>/VIP-LOGE<br>TEKNIK-ARENA ÖPPET ÖPPET ÖPPET<br>HC NED NED / B K O O K N N T I R N O G L S L B L A J R U L D O /L K J A U L S NED<br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE<br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE<br><br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE<br><br>BOKNINGSBAR LOKAL<br>/CO-WORK<br>/VIP-LOGE<br>TEKNIK/LJUD/LJUS<br>MINI-STÄD MÖRKLÄGGNINGSSYSTEM<br>LÄKTARE SPORTHALL HC GALLERI YTOR FÖRENINGSLIV M PR IN E S 10 S P E L V A T T . N SE E R D E F Ö PÅ R L S Ä K K R T IV A A R N E D N E KAMERA KO /M M Ö M T E E NTKO /M M Ö M T E E NTS / P M EA Ö K T E E R KON / T M R Ö O T LL E RUM FR / D E L K R A U N M SLI ENTRÉ PENTRY RWC/D KA F N RD SLI KA F N RD SLI<br>HK ARANÄS 7-10p<br>SEMINARIERUM/FOTBOLLS-VIP GREENROOM/ SCHAKT<br>TEKNIK-OMKL, GYM, M.M. BOKN / IN C G O S -W BA O R R K LOKAL SPE / A S K A E M R T / A M L ÖTEKO SE N K T R O E R T / A K R A I N A S T LI K H O K N T A O RA R N /K Ä A S N 4 S p LI K / K K O I A F N N T 2 S O p L R I K / Ö K O A v N r N . T 3 S O p L R I MÖTESR 5 U 0 M p FÖRENING RWC/D ARBE M TS A R T U S M AL P / RESS PENTRY/FOTBOLLS VIP KAMERA YTOR FÖRENINGSLIV/ PAUSRUM .TNEMMOK .TNEMMOK TRAPPHUS HISS KON /S T A R M O T L A LR L UM M / Ö S T A E M S T R A U L M HISS /PENTRY /TV-STUDIO FRD KANSLI TF TF TF TF KA F N RD SLI<br>HÖJ-OCH SÄNKBART PARTI I KAMERARUM   <br>ÖPPNINGSBARA PARTIER VID ÖVRIGA MEDIAFUNKTIONER   <br>  <br>  <br>  <br>  <br>  <br>  <br> <br><br><br><br>A B C<br>   <br>  <br>        |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | <br><br>  <br>  <br>   |  |  |  |  |
-|  |  | <br> |  <br>  |  |  |
-|  |  |  |   |  |  |
-|  | <br> |  |  | <br> | <br> |
-|  |  <br> |  |  |  |  |
-|  | <br> |  |  |  |  |
-|  | <br> <br>  |  |  |  <br> |  |
 
 <!-- sida 114 -->
 
@@ -4431,19 +4503,45 @@ nossnåM
 &
 nérmeS
 ©
-Kungsbacka Arena - Förstudie -
-Alternativ
-E
-D
+Kungsbacka Arena - Förstudie - 23-12-22
+Legend
+Kommunalt
+Kommersiellt
+Delat
+SKALA 1:500 (för A3)
+0      10      20 m      9
+LLAHTROPS/ANERA-KINKET
+YTSAMMANSTÄLLNING
+50/50
+ÖPPET
+NED
+ÖPPET
+NED
+GÅNGBRYGGA
+ÖPPET
+NED
+TRAPPHUS                                                      TRAPPHUS
+AGGYRBGNÅG             AGGYRBGNÅG AGGYRBGNÅG
+LANTERNIN
+JUMBOTRON
+GÅNGBRYGGA GÅNGBRYGGA
+SKÄRMTAK FOTBOLLSLÄKTARE
+ERALYKSLEDEMLYK
+A             B                                   C
+Alternativ      A
+E                                                                                                                              E
+
+D                                                                                                                              D           
+
 
  
-
-
+                                                                                                  ANNAN PLACERING BEHÖVER
+                                                                                                   UTREDAS I SENARE SKEDE
 
-
+                                                                                                                                           
 
 
-
+                                                                                                                                        
 
 
 
@@ -4461,7 +4559,7 @@ D
 
 
 
-
+                                                  GÅNGBRYGGA
 
 
 
@@ -4471,49 +4569,28 @@ D
 
 
 
+                                                                                                                                         
 
-
-
+                                                                                                                                               
 
-
-
-
-
-
+                                                                                                                                                 
+                                                                                                                                                
+                                                                                                                                               
 
-
-
-
-
-
-
-
-
+                                                                                                                                               
+                                                                                                                                        
+  
+ 
+                                                                                                                                           
+                                                                                                                                    
+                                                                                                                                    
 
-
-
-
-
-
-
-
+               A             B                                   C
+                                                                                                                                        
+                                                                                                                           
 
-SKALA 1:500 (för A3)
 N
-0      10      20 m      9
 Plan 4
-
-[Tabell 114-1](handlingar.tabeller/114-1.csv)
-
-| YTSAMMANSTÄLLNING<br>50/50<br>23-12-22<br>A B C<br>Legend A<br>Kommunalt<br>Kommersiellt<br>Delat<br>E<br>LANTERNIN<br><br>NED<br>ÖPPET D    <br>LLAHTROPS/ANERA-KINKET <br>JUMBOTRON<br>ERALYKSLEDEMLYK<br>NED ÖPPET<br>ÖPPET GÅNGBRYGGA<br>NED<br>AGGYRBGNÅG AGGYRBGNÅG AGGYRBGNÅG<br>ANNAN PLACERING BEHÖVER<br>UTREDAS I SENARE SKEDE<br><br><br>GÅNGBRYGGA GÅNGBRYGGA GÅNGBRYGGA<br>TRAPPHUS TRAPPHUS<br>  <br>  <br>SKÄRMTAK FOTBOLLSLÄKTARE   <br>  <br>  <br>  <br>  <br>  <br> <br><br><br><br>A B C<br>   <br>  <br>        |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  | <br>   |  |
-|  |   <br>  <br>  <br>  <br>  <br>  <br>   |  |
-|  |  <br> |  |
-|  | <br> |  |
-|  | <br> <br>  |  <br> |
 
 <!-- sida 115 -->
 
@@ -4523,19 +4600,47 @@ nossnåM
 &
 nérmeS
 ©
-Kungsbacka Arena - Förstudie -
-Alternativ
+Kungsbacka Arena - Förstudie - 23-12-22
+TAK
+MILJÖRUM
+GLASTAK
+SPO
+T
+R
+A
+T
+K
+H ALL       LAN
+T
+T
+A
 E
-D
+K
+RNIN
+YTA
+FÖR
+SOLCELLER
+INOM
+STRECKAT
+ARENATAK
+SEDUMTAK
+TAK-FOTBOLLSLÄKTARE
+SKALA 1:500 (för A3)
+0      10      20 m     10
+ERALYKSLEDEMLYK
+A             B                                   C
+Alternativ      A
+E                                                  SEDUMTAK                                                                    E
+
+D                                                                                                                              D           
+
 
  
-
-
-
-
+                                                                                                  ANNAN PLACERING BEHÖVER
+                                                                                                   UTREDAS I SENARE SKEDE                
 
 
-
+                                                                                                                                        
 
 
 
@@ -4563,52 +4668,32 @@ D
 
 
 
+                                                                                                                                         
 
-
-
+                                                                                                                                               
 
-
+                                                                                                                                                
 
-
-
-
+                                                                                                                                                
+                                                                                                                                               
 
-
-
-
-
-
-
-
+                                                                                                                                               
+                                                                                                                                        
+  
+ 
+                                                                                                                                            
+ 
+
+
+                                                                                                                                    
 
 
-
-
-
-
-
-
-
+               A             B                                   C
+                                                                                                                                       
+                                                                                                                           
 
-SKALA 1:500 (för A3)
 N
-0      10      20 m     10
 Takplan
-
-[Tabell 115-1](handlingar.tabeller/115-1.csv)
-
-| 23-12-22<br>A B C<br>A<br>TAK<br>MILJÖRUM<br>GLASTAK SEDUMTAK E<br><br>YTA D    <br>FÖR<br>SOLCELLER ERALYKSLEDEMLYK <br>T A K T A K INOM ARENATAK<br>SPO R T H ALL LAN T E RNIN STRECKAT<br>ANNAN PLACERING BEHÖVER<br>UTREDAS I SENARE SKEDE<br><br><br>SEDUMTAK<br>  <br>  <br>TAK-FOTBOLLSLÄKTARE   <br>  <br>  <br>  <br>  <br>  <br> <br><br><br><br>A B C<br>   <br>  <br>        |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |   <br>  <br>  <br>  <br>  <br>   |  |  |  |  |
-|  | <br> |  | <br> | <br> |  |
-|  |  <br> |  |  |  |  |
-|  | <br> |  |  |  |  |
-|  | <br> <br>  |  |  <br> |  |  |
 
 <!-- sida 116 -->
 
@@ -8993,7 +9078,7 @@ P-DRIFT P-DRIFT
 
 DRIFTSFORDON
 
-PLAN SKALA 1:400 (A3)
+PLAN SKALA 1:400(A3)
 4
 JAKTSAL
 INFART
@@ -9063,7 +9148,7 @@ TRAILER
 B
 TRAILER
 B
-2 ST TURNÉBUSSAR
+2ST TURNÉBUSSAR
 TV-BUSS/OB
 BUSS
 INFART
@@ -9073,7 +9158,7 @@ P-DRIFT P-DRIFT
 UTFART
 JAKTSAL
 YTA FÖR CONTAINERS
-PLAN SKALA 1:400 (A3)
+PLAN SKALA 1:400(A3)
 
 <!-- sida 170 -->
 
@@ -9129,7 +9214,7 @@ UTFART
 JAKTSAL
 INHÄGNAD
 MÖJLIG BRANDUPPSTÄLLNING
-PLAN SKALA 1:400 (A3)
+PLAN SKALA 1:400(A3)
 FÖR
 LAG
 OCH
@@ -9158,7 +9243,7 @@ Bilden till höger redovisar körspår för 24 m fordon.
 
 7
 
-PLAN SKALA 1:500 (A3)
+PLAN SKALA 1:500(A3)
 
 <!-- sida 172 -->
 
@@ -9184,7 +9269,7 @@ RHP   RHP
 
 P-DRIFT P-DRIFT
 
-PLAN SKALA 1:400 (A3)
+PLAN SKALA 1:400(A3)
 8
 TRAILERS
 RÄDDNINGSTJÄNST
@@ -13186,7 +13271,7 @@ som avstår, beslutar att ärendet ska avgöras i dag.
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 300-1](handlingar.tabeller/300-1.csv)
+[Tabell 300-301-1](handlingar.tabeller/300-301-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -13216,37 +13301,7 @@ Justerare                         Expedierat/bestyrkt
 | Kalle Påsse Sundvall | (M) | Alla |  |  |  | X |  |
 | Henrik Arnesson | (C) | Alla |  | X |  |  |  |
 | Marie Wadström | (KD) | Alla |  |  | X |  |  |
-
-<!-- sida 301 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          7 (11)
-Kommunfullmäktige
-Datum
-2021-04-13
-
-Ordföranden prövar sedan Peter Söderbergs (M) m.fl. återremissyrkande mot att
-ärendet ska avgöras i dag, och finner att kommunfullmäktige beslutar att ärendet ska
-avgöras i dag.
-
-Omröstning begärs och verkställs.
-Ordföranden redovisar följande propositionsordning som kommunfullmäktige
-
-godkänner:
-Ja-röst innebär att ärendet ska avgöras i dag.
-Nej-röst innebär att ärendet ska återremitteras enligt Peter Söderbergs (M) m.fl.
-återremissyrkande.
-
-Omröstningsresultat
-
-Ordföranden finner att kommunfullmäktige, med 45 ja-röster mot 11 nej-röster och 5
-som avstår, beslutar att ärendet ska avgöras i dag.
-
-Justerare                         Expedierat/bestyrkt
-
-[Tabell 301-1](handlingar.tabeller/301-1.csv)
-
 | Monica Neptun | (L) | Alla |  | X |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Stephan Philipson | (M) | Alla |  | X |  |  |  |
 | Elisabeth Lyckevall | (S) | Alla | G ert Svensson | X |  |  |  |
 | Roger Krantz | (SD) | Alla |  | X |  |  |  |
@@ -13283,27 +13338,40 @@ Justerare                         Expedierat/bestyrkt
 | Anders Ekström | (M) | Alla |  | X |  |  |  |
 | SUMMA: |  |  |  | 48 | 9 | 4 | 0 |
 
-[Tabell 301-2](handlingar.tabeller/301-2.csv)
+<!-- sida 301 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          7 (11)
+Kommunfullmäktige
+Datum
+2021-04-13
+
+Ordföranden prövar sedan Peter Söderbergs (M) m.fl. återremissyrkande mot att
+ärendet ska avgöras i dag, och finner att kommunfullmäktige beslutar att ärendet ska
+avgöras i dag.
+
+Omröstning begärs och verkställs.
+Ordföranden redovisar följande propositionsordning som kommunfullmäktige
+
+godkänner:
+Ja-röst innebär att ärendet ska avgöras i dag.
+Nej-röst innebär att ärendet ska återremitteras enligt Peter Söderbergs (M) m.fl.
+återremissyrkande.
+
+Omröstningsresultat
+
+Ordföranden finner att kommunfullmäktige, med 45 ja-röster mot 11 nej-röster och 5
+som avstår, beslutar att ärendet ska avgöras i dag.
+
+Justerare                         Expedierat/bestyrkt
+
+[Tabell 301-302-1](handlingar.tabeller/301-302-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Lisa Andersson | (M) | Aslla |  | X |  |  |  |
 | Eva Borg | (S) | Alla |  | X |  |  |  |
 | Carita Boulwén | (SD) | Alla |  | X |  |  |  |
-
-<!-- sida 302 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          8 (11)
-Kommunfullmäktige
-Datum
-2021-04-13
-
-Justerare                         Expedierat/bestyrkt
-
-[Tabell 302-1](handlingar.tabeller/302-1.csv)
-
 | Fredrik Hansson | (C) | Alla |  | X |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Andreas Johansson | (M) | Alla |  |  |  | X |  |
 | Ulrika Landergren | (L) | Alla |  | X |  |  |  |
 | Christian Johansson | (M) | Alla |  | X |  |  |  |
@@ -13363,6 +13431,15 @@ Justerare                         Expedierat/bestyrkt
 | Anders Ekström | (M) | Alla |  | X |  |  |  |
 | SUMMA: |  |  |  | 45 | 11 | 5 | 0 |
 
+<!-- sida 302 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          8 (11)
+Kommunfullmäktige
+Datum
+2021-04-13
+
+Justerare                         Expedierat/bestyrkt
+
 <!-- sida 303 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          9 (11)
@@ -13386,7 +13463,7 @@ som avstår, beslutar enligt kommunstyrelsens förslag.
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 303-1](handlingar.tabeller/303-1.csv)
+[Tabell 303-304-1](handlingar.tabeller/303-304-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -13433,6 +13510,25 @@ Justerare                         Expedierat/bestyrkt
 | Axel Storckenfeldt | (M) | Alla |  | X |  |  |  |
 | Sara Heikkinen Breitholtz | (S) | Alla | B ritt Tönnberg | X |  |  |  |
 | Peter Wesley | (KD) | Alla |  |  | X |  |  |
+| Peter Söderberg | (M) | Alla |  |  | X |  |  |
+| Kenth Wallin | (SD) | Alla |  | X |  |  |  |
+| Kristina Rasmussen | (V) | Alla |  |  |  | X |  |
+| Franklin Eck | (M) | Alla |  |  | X |  |  |
+| Elin Hysén | (L) | Alla |  | X |  |  |  |
+| Rickard Wäst | (S) | Alla |  | X |  |  |  |
+| Heinrich Kaufmann | (C) | Alla |  | X |  |  |  |
+| Per-Axel Carlsson | (M) | Alla |  | X |  |  |  |
+| Tobias Eriksson | (SD) | Alla |  | X |  |  |  |
+| Berit Bergström | (M) | Alla |  | X |  |  |  |
+| Maj-Britt Rane-Andersson | (S) | Alla |  | X |  |  |  |
+| Karin Green | (C) | Alla |  |  | X |  |  |
+| Ann-Helene Reimertz | (M) | Alla |  |  | X |  |  |
+| Madelene Höök | (L) | Alla |  | X |  |  |  |
+| Thord Brynielsson | (SD) | Alla | S tefan Vilumsons | X |  |  |  |
+| Per Stenberg | (M) | Alla |  | X |  |  |  |
+| Ulrika Högstrand | (KD) | Alla |  |  | X |  |  |
+| Anders Ekström | (M) | Alla |  | X |  |  |  |
+| SUMMA: |  |  |  | 45 | 12 | 4 | 0 |
 
 <!-- sida 304 -->
 
@@ -13457,30 +13553,7 @@ Ordföranden finner att kommunfullmäktige, med 31 ja-röster mot 16 nej-röster
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 304-1](handlingar.tabeller/304-1.csv)
-
-| Peter Söderberg | (M) | Alla |  |  | X |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Kenth Wallin | (SD) | Alla |  | X |  |  |  |
-| Kristina Rasmussen | (V) | Alla |  |  |  | X |  |
-| Franklin Eck | (M) | Alla |  |  | X |  |  |
-| Elin Hysén | (L) | Alla |  | X |  |  |  |
-| Rickard Wäst | (S) | Alla |  | X |  |  |  |
-| Heinrich Kaufmann | (C) | Alla |  | X |  |  |  |
-| Per-Axel Carlsson | (M) | Alla |  | X |  |  |  |
-| Tobias Eriksson | (SD) | Alla |  | X |  |  |  |
-| Berit Bergström | (M) | Alla |  | X |  |  |  |
-| Maj-Britt Rane-Andersson | (S) | Alla |  | X |  |  |  |
-| Karin Green | (C) | Alla |  |  | X |  |  |
-| Ann-Helene Reimertz | (M) | Alla |  |  | X |  |  |
-| Madelene Höök | (L) | Alla |  | X |  |  |  |
-| Thord Brynielsson | (SD) | Alla | S tefan Vilumsons | X |  |  |  |
-| Per Stenberg | (M) | Alla |  | X |  |  |  |
-| Ulrika Högstrand | (KD) | Alla |  |  | X |  |  |
-| Anders Ekström | (M) | Alla |  | X |  |  |  |
-| SUMMA: |  |  |  | 45 | 12 | 4 | 0 |
-
-[Tabell 304-2](handlingar.tabeller/304-2.csv)
+[Tabell 304-305-1](handlingar.tabeller/304-305-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -13505,24 +13578,7 @@ Justerare                         Expedierat/bestyrkt
 | Bengt Alderin | (C) | Alla |  | X |  |  |  |
 | Maria Rasmussen | (V) | Alla |  |  | X |  |  |
 | Filip Berndtsson | (M) | Alla |  | X |  |  |  |
-
-<!-- sida 305 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          11 (11)
-Kommunfullmäktige
-Datum
-2021-04-13
-
-Beslutet skickas till
-
-Samtliga nämnder
-
-Justerare                         Expedierat/bestyrkt
-
-[Tabell 305-1](handlingar.tabeller/305-1.csv)
-
 | Lars Eriksson | (S) | Alla |  |  | X |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Susanne Andersson | (SD) | Alla |  |  |  | X |  |
 | Kalle Påsse Sundvall | (M) | Alla |  |  |  | X |  |
 | Henrik Arnesson | (C) | Alla |  | X |  |  |  |
@@ -13563,6 +13619,19 @@ Justerare                         Expedierat/bestyrkt
 | Ulrika Högstrand | (KD) | Alla |  | X |  |  |  |
 | Anders Ekström | (M) | Alla |  | X |  |  |  |
 | SUMMA: |  |  |  | 31 | 16 | 14 | 0 |
+
+<!-- sida 305 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          11 (11)
+Kommunfullmäktige
+Datum
+2021-04-13
+
+Beslutet skickas till
+
+Samtliga nämnder
+
+Justerare                         Expedierat/bestyrkt
 
 <!-- sida 306 -->
 

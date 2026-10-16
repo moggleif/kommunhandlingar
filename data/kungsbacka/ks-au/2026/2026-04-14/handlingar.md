@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.673b6e6519d7224d2e8f6a1/17758032012
 sha256: 2795afdfc5375758f11d62d77cdeb6bb6f590f5277226da60b858b175ab97059
 bytes: 17849907
 sidor: 210
-hamtad: 2026-10-09T12:00:05+00:00
-konverterad: 2026-10-09T12:06:27+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T09:48:01+00:00
+konverterad: 2026-10-16T09:53:54+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad]
-tal_obekraftade: [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 110, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 141, 144, 145, 165, 167, 168, 170, 173, 175, 176, 177, 178, 179, 180, 184, 186, 192, 193, 195, 208, 209, 210]
+tal_obekraftade: [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 110, 118, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 144, 145, 165, 167, 168, 170, 173, 175, 176, 177, 178, 179, 180, 184, 186, 192, 193, 195, 208, 209, 210]
 figurer: [125, 140, 189]
 tolkade: []
 ---
@@ -57,7 +57,7 @@ KUNGSBACKA KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-3-1](handlingar.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -65,22 +65,17 @@ KUNGSBACKA KOMMUN
 | 5. | Svar på motion från Elisabeth<br>Sahlsten (MP) om mera grön<br>och blå mat i Kungsbacka<br>kommun | KS-2025-00809 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionens yrkande<br>1-3 med hänvisning till att kommunen redan<br>arbetar med en omställning mot en högre andel<br>vegetariska och andra proteiner som minskar<br>matens negativa klimat- och miljöpåverkan<br>samt att måltidsverksamheten utöver det<br>behöver ta hänsyn till flera faktorer vid<br>planering av skolmåltider, såsom<br>näringsriktighet, matglädje, acceptans för olika<br>livsmedel och möjligheten att erbjuda varierade<br>måltider.<br>Kommunfullmäktige avslår motionens sista<br>yrkande med hänvisning till att samma<br>förhållningssätt som för måltidsverksamhetens<br>inköp bör gälla för övriga inköp av mat vid<br>catering, fika och möten, i syfte att säkerställa<br>en enhetlig, effektiv och långsiktigt hållbar<br>styrning av kommunens livsmedelsinköp. |
 | 6. | Svar på motion från Magdalena<br>Sundqvist (S) om utbildning<br>kring våld i nära relation och<br>mäns våld mot kvinnor | KS-2024-00731 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad<br>med hänvisning till att kommunen redan<br>erbjuder utbildningar för alla anställda, med<br>tillhörande stödmaterial som lyfts i<br>utvecklingssamtal och vid hälsosamtal, för att<br>identifiera och stödja anställda som är utsatta<br>för olika typer av våld. |
 | 7. | Svar på Region Hallands remiss<br>av Regionalt serviceprogram | KS-2026-00142 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrandet daterat<br>2026-04-02 och översänder det till Region<br>Halland. |
+| 8. | Avstämning och information<br>från Säkerhet och beredskap om<br>uppföljning av pågående arbete<br>08:45-09:30<br>Magnus Fogelblad | KS-2026-00054 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 9. | Information strategisk<br>samhällsutveckling om<br>hållbarhetsarbetet förflyttningar<br>inom mandatperioderna<br>09:45-10:25<br>Margit de Boer<br>Sven-Erik Bergström<br>Anders Lund | KS-2026-00244 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 10. | Information- Lägesrapport<br>kommunstyrelsens förvaltnings<br>arbete med budgetdirektivet<br>innovation & förnyelse<br>10:30-11:15<br>Anneli Skoglund<br>Ulrika Granfors<br>Stigert Pettersson | KS-2026-00020 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 11. | Information kring process om<br>avtal mellan Stiftelsen<br>Tjolöholm och Kungsbacka<br>kommun<br>11:20-11:50<br>Linnea Princis<br>Sofia Jonsson<br>Christina Hermansson | KS-2025-00589 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 12. | Information ledamöter och<br>förvaltning | KS-2025-00975 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA KOMMUN
 
 3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Avstämning och information<br>från Säkerhet och beredskap om<br>uppföljning av pågående arbete<br>08:45-09:30<br>Magnus Fogelblad | KS-2026-00054 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 9. | Information strategisk<br>samhällsutveckling om<br>hållbarhetsarbetet förflyttningar<br>inom mandatperioderna<br>09:45-10:25<br>Margit de Boer<br>Sven-Erik Bergström<br>Anders Lund | KS-2026-00244 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 10. | Information- Lägesrapport<br>kommunstyrelsens förvaltnings<br>arbete med budgetdirektivet<br>innovation & förnyelse<br>10:30-11:15<br>Anneli Skoglund<br>Ulrika Granfors<br>Stigert Pettersson | KS-2026-00020 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 11. | Information kring process om<br>avtal mellan Stiftelsen<br>Tjolöholm och Kungsbacka<br>kommun<br>11:20-11:50<br>Linnea Princis<br>Sofia Jonsson<br>Christina Hermansson | KS-2025-00589 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 12. | Information ledamöter och<br>förvaltning | KS-2025-00975 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
 
 <!-- sida 4 -->
 
@@ -10581,7 +10576,7 @@ Nationell strategi för hållbar regional utveckling  i hela
 landet 2021–2035
 
 I Nationell strategi för hållbar regional utveckling i hela landet 2021–
-2035 identifierar regeringen likvärdiga möjligheter till boende, arbete,
+2035identifierar regeringen likvärdiga möjligheter till boende, arbete,
 
 och välfärd i hela landet som ett av fyra strategiska områden. God
 tillgång till kommersiell och offentlig service är en av de utpekade
@@ -10853,7 +10848,7 @@ kontantuttag.
 
 Tillväxtverkets (2024) rapport Tillgänglighet till grundläggande
 
-kommersiell service 2024 bedömer det svårt att avgöra huruvida
+kommersiell service 2024bedömer det svårt att avgöra huruvida
 obemannade butiker kommer slå igenom i större skala över hela
 
 landet. Det konstateras dock att obemannade butiker utgör ett

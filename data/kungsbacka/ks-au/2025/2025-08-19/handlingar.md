@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4bee25ed198bb8c7cee5107/17555088586
 sha256: 98d3f66cfc31d341c3ec1cc5876adba962368568eafeb2b7653ea83fd79adc1e
 bytes: 36143338
 sidor: 125
-hamtad: 2026-10-09T10:36:42+00:00
-konverterad: 2026-10-09T10:37:43+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T08:32:12+00:00
+konverterad: 2026-10-16T08:33:23+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad]
@@ -4525,7 +4525,7 @@ Sk.omr 9 (avd.
 
 64 (78)
 
-[Tabell 113-1](handlingar.tabeller/113-1.csv)
+[Tabell 113-114-1](handlingar.tabeller/113-114-1.csv)
 
 | Skötselåtgärd | När | Skötselområde | Prioritet | Finansiering |
 | --- | --- | --- | --- | --- |
@@ -4537,18 +4537,13 @@ Sk.omr 9 (avd.
 | Nyanläggning av<br>leder | Inom 15 år | Sk.omr. 10, 11<br>och 13. Se<br>karta i kap. 7.8. | 3 | Vårdanslaget eller<br>stiftelsen |
 | Underhåll av bänkar<br>och bänkbord | Inom 10 år | Hela<br>reservatet, se<br>karta i kap. 7.8. | 2 | Vårdanslaget eller<br>stiftelsen |
 | Röjning vid<br>utsiktsplatser | Inom 5 år | Sk.omr. 1 (avd.<br>147-148).<br>Sk.omr 7 (avd.<br>42 och 79).<br>Sk.omr. 9 (avd.<br>111).<br>Sk.omr. 11<br>(avd. 179, 228).<br>Vid behov<br>ytterligare ytor. | 1 | Vårdanslaget eller<br>stiftelsen |
+| Utveckling av<br>övernattningsplatser | Första ytan<br>inom 10 år | Sk.omr. 7 (avd.<br>2-6).<br>Sk.omr. 11<br>(avd. 216 samt<br>avd. 172-174). | 2 | Vårdanslaget eller<br>stiftelsen |
+| Uppsättning av<br>reservatsskyltar | Inom 5 år | Hela reservatet | 1 | Vårdanslaget |
+| Uppsättning av<br>informationsskyltar<br>om kulturmiljöer | Inom 15 år | Hela reservatet | 3 | Länsstyrelsens<br>kulturmiljöfunktion,<br>vårdanslaget eller<br>stiftelsen. |
 
 <!-- sida 114 -->
 
 65 (78)
-
-[Tabell 114-1](handlingar.tabeller/114-1.csv)
-
-| Skötselåtgärd | När | Skötselområde | Prioritet | Finansiering |
-| --- | --- | --- | --- | --- |
-| Utveckling av<br>övernattningsplatser | Första ytan<br>inom 10 år | Sk.omr. 7 (avd.<br>2-6).<br>Sk.omr. 11<br>(avd. 216 samt<br>avd. 172-174). | 2 | Vårdanslaget eller<br>stiftelsen |
-| Uppsättning av<br>reservatsskyltar | Inom 5 år | Hela reservatet | 1 | Vårdanslaget |
-| Uppsättning av<br>informationsskyltar<br>om kulturmiljöer | Inom 15 år | Hela reservatet | 3 | Länsstyrelsens<br>kulturmiljöfunktion,<br>vårdanslaget eller<br>stiftelsen. |
 
 <!-- sida 115 -->
 

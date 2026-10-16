@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.4114947f194a0301afeac560/1738331125
 sha256: 1666c165a8f4fe1bccf530ffc3f5f261c6288e759f29b002ec5d83d14963a901
 bytes: 8611488
 sidor: 353
-hamtad: 2026-10-09T09:55:49+00:00
-konverterad: 2026-10-09T09:56:41+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T07:49:58+00:00
+konverterad: 2026-10-16T07:50:45+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tom, tom, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [6]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tom, tom, tom, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [6, 172, 294, 313]
 figurer: [6, 51, 95, 96, 268, 269, 273, 274, 275, 276, 277, 281, 282, 288, 289, 294, 297, 300, 308, 310, 311, 312, 313, 314, 315]
 tolkade: []
 ---
@@ -57,25 +57,23 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 4. | Godkännande av projekt och<br>finansiering av gång- och<br>cykelväg Södra<br>Rågelundsvägen -<br>Lurendalsvägen | 2024-00854 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner<br>medfinansieringsavtal med Trafikverket Gång- och<br>cykelväg längs väg 845 genom Frillesås, Södra<br>Rågelundsvägen-Lurendalsvägen, Kungsbacka<br>kommun, daterat 2024-11-21.<br>Kommunfullmäktige ger kommunstyrelsens<br>ordförande och kommundirektören, eller vid förfall<br>för dessa deras respektive ställföreträdare, i uppdrag<br>att underteckna medfinansieringsavtalet.<br>Kommunfullmäktige omfördelar 15,5 miljoner<br>kronor ur kommunens centrala finansverksamhet till<br>nämnden för Teknik i prisnivå juni 2024 jämte<br>eventuell uppräkning för kostnadsutveckling enligt<br>Trafikverkets index för väginvesteringar.<br>Kommunfullmäktige omfördelar 3,1 miljoner<br>kronor, till en projektspecifik riskreserv, ur<br>kommunens centrala finansverksamhet till nämnden<br>för Teknik i prisnivå juni 2024 jämte eventuell<br>uppräkning för kostnadsutveckling enligt<br>Trafikverkets index för väginvesteringar.<br>Kommunfullmäktige uppdrar åt nämnden för Teknik<br>att genomföra projektet inom ramen för<br>medfinansieringsavtalet samt inom tilldelade medel<br>för projektet och riskreserv.<br>Kommunfullmäktige beslutar att enligt kommunens<br>ekonomistyrprinciper ska 18,6 miljoner kronor<br>kostnadsföras direkt under år 2025 och belasta detta<br>års resultat. |
+| 5. | Högsta priser för Kungsbacka<br>badhus och Fjärås simhall | 2024-00881 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fastställer maximala priser för<br>allmänhet, skolor och föreningar i Kungsbacka<br>badhus och Fjärås simhall som koncessionshavaren<br>får ta ut samt övriga villkor som ska gälla för<br>driftoperatörens verksamhet i anläggningarna för<br>perioden från 2026-07-01 till 2033-06-30 enligt<br>dokumentet Villkor priser, Bilaga 3, Högsta pris<br>Kungsbacka badhus och Fjärås simhall tiden 2026-<br>07-01–2033-06-30, daterad 2025-01-08.<br>Kommunfullmäktige ger nämnden för Kultur &<br>Fritid möjlighet att årligen justera priserna i Villkor<br>priser, Bilaga 3, Högsta priser Kungsbacka badhus<br>och Fjärås simhall tiden 2026-07-01–2033-06-30,<br>daterad 2025-01-08 i enlighet med villkorsbilagans<br>punkt 5.2 om indexreglering. |
+| 6. | Information om preliminärt<br>sifferbokslut 2024 för<br>Kungsbacka kommun<br>08:55-09:15<br>Christina Hermansson | 2025-00086 |  |
+| 7. | Information från Hållbart<br>boende (från årshjul)<br>09:20-09:50<br>Lovisa Eld<br>Ivan Stipic<br>Patrik Hellberg<br>Mats Söderström<br>Johan Burman<br>Christer Kilersjö | 2025-00023 |  |
+| 8. | Information om<br>gestaltningsförslag Kungsbacka<br>Arena<br>10:00-11:00<br>Lena Melvinsdotter<br>Sven-Erik Bergström<br>Hanna Vilhelmsson, Byggnads-<br>och miljöförvaltningen<br>Peter Johansson, Service<br>Jonas Jonsson, Skanska<br>Karin Backlund, Semrén &<br>Månsson<br>Susanne Kovács, Semrén &<br>Månsson<br>Byggnadsnämndens<br>arbetsutskott | 2020-00547 |  |
+| 9. | Information om fördjupad<br>översiktsplan för Kungsbacka<br>stad (FÖP)<br>11:15-11:45<br>Andrea Ericsson<br>Anders Lund | 2020-00313 |  |
+| 10. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 5. | Högsta priser för Kungsbacka<br>badhus och Fjärås simhall | 2024-00881 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fastställer maximala priser för<br>allmänhet, skolor och föreningar i Kungsbacka<br>badhus och Fjärås simhall som koncessionshavaren<br>får ta ut samt övriga villkor som ska gälla för<br>driftoperatörens verksamhet i anläggningarna för<br>perioden från 2026-07-01 till 2033-06-30 enligt<br>dokumentet Villkor priser, Bilaga 3, Högsta pris<br>Kungsbacka badhus och Fjärås simhall tiden 2026-<br>07-01–2033-06-30, daterad 2025-01-08.<br>Kommunfullmäktige ger nämnden för Kultur &<br>Fritid möjlighet att årligen justera priserna i Villkor<br>priser, Bilaga 3, Högsta priser Kungsbacka badhus<br>och Fjärås simhall tiden 2026-07-01–2033-06-30,<br>daterad 2025-01-08 i enlighet med villkorsbilagans<br>punkt 5.2 om indexreglering. |
-| 6. | Information om preliminärt<br>sifferbokslut 2024 för<br>Kungsbacka kommun<br>08:55-09:15<br>Christina Hermansson | 2025-00086 |  |
-| 7. | Information från Hållbart<br>boende (från årshjul)<br>09:20-09:50<br>Lovisa Eld<br>Ivan Stipic<br>Patrik Hellberg<br>Mats Söderström<br>Johan Burman<br>Christer Kilersjö | 2025-00023 |  |
 
 <!-- sida 4 -->
 
@@ -85,14 +83,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Information om<br>gestaltningsförslag Kungsbacka<br>Arena<br>10:00-11:00<br>Lena Melvinsdotter<br>Sven-Erik Bergström<br>Hanna Vilhelmsson, Byggnads-<br>och miljöförvaltningen<br>Peter Johansson, Service<br>Jonas Jonsson, Skanska<br>Karin Backlund, Semrén &<br>Månsson<br>Susanne Kovács, Semrén &<br>Månsson<br>Byggnadsnämndens<br>arbetsutskott | 2020-00547 |  |
-| 9. | Information om fördjupad<br>översiktsplan för Kungsbacka<br>stad (FÖP)<br>11:15-11:45<br>Andrea Ericsson<br>Anders Lund | 2020-00313 |  |
-| 10. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |
 
 <!-- sida 5 -->
 
@@ -907,18 +897,6 @@ anges i månader
 \* Vi valde att sluta med dessa mätningar 2024 då resultatet inte gett värde för verksamheterna.
 5.3 Prestationsmått
 
-Namn                           Utfall  Utfall Utfall  Utfall  Utfall
-
-```osaker-tabell
-                                2020    2021  2022    2023    2024
-Upprättade detaljplaner            10      11      12       9      10
-
-Antal företagsärenden i tillståndslotsen 32 46     50      60      46
-Planlagda bostäder                336     662     381     386     248
-
-Automatiserade processer           10      11       3       7       7
-```
-
 Ledtid planbesked till projektstart, anges i
 5,35     24      24      31      32
 månader
@@ -945,6 +923,15 @@ uppföljningen 2025.
 \* Ännu ej publicerad
 
 17
+
+[Tabell 22-1](handlingar.tabeller/22-1.csv)
+
+| Namn | Utfall 2020 | Utfall 2021 | Utfall 2022 | Utfall 2023 | Utfall 2024 |
+| --- | --- | --- | --- | --- | --- |
+| Upprättade detaljplaner | 10 | 11 | 12 | 9 | 10 |
+| Antal företagsärenden i tillståndslotsen | 32 | 46 | 50 | 60 | 46 |
+| Planlagda bostäder | 336 | 662 | 381 | 386 | 248 |
+| Automatiserade processer | 10 | 11 | 3 | 7 | 7 |
 
 <!-- sida 23 -->
 
@@ -8440,16 +8427,6 @@ notk
 2
 2.F, 2.G F-gasförordning EU 517/2014 2.F, 2.G F-gasförordning EU 2024/573
 
-[Tabell 172-1](handlingar.tabeller/172-1.csv)
-
-|  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-
 <!-- sida 173 -->
 
 NATURVÅRDSVERKET
@@ -15416,7 +15393,7 @@ Tabell 3
 
 2020
 
-[Tabell 324-1](handlingar.tabeller/324-1.csv)
+[Tabell 324-325-1](handlingar.tabeller/324-325-1.csv)
 
 | 1 | Högsta avgiftsuttag 2020-01-01 – 2026-06-301. Se dock Punkt<br>1.5.2 om indexreglering, samt punkt1.5.4. ” … Dock ska<br>förutvarande avgifter gälla i båda anläggningarna tills det nya<br>badhuset tas i bruk.” | 1 |
 | --- | --- | --- |
@@ -15433,13 +15410,7 @@ Tabell 3
 | 1.5 | Villkor för avgifterna | 5. |
 | 1.5.1 | Avgifterna ska tas ut av operatör och får inte överstiga nivåerna<br>i denna villkorsbilaga. Operatör får underskrida dessa belopp,<br>samt erbjuda ytterligare rabatter. | 5.1 |
 | 1.5.2 | Avgifterna indexregleras årligen med höjningar motsvarande<br>KPI/AKI. Detta sker för<br>första gången 2022-01-01. | 5.2 |
-
-<!-- sida 325 -->
-
-[Tabell 325-1](handlingar.tabeller/325-1.csv)
-
 | 1.5.3 | 3.Avgifterna gäller från 2020-01-01 till och med 2026-06-30.<br>Dock ska förutvarande avgifter gälla i båda anläggningarna tills<br>det nya badhuset tas i bruk. | 5.3 |
-| --- | --- | --- |
 | 2. | Övriga villkor för badhusverksamheten | 6 |
 | 2.1 | Klippkort och årskort för Kungsbacka badhus gäller även i Fjärås<br>simhall. | 6.1 |
 | 2.2 | Årskort och klippkort skall gälla ett år från och med<br>inköpsdatum och vara personliga. | 6.2 |
@@ -15449,6 +15420,8 @@ Tabell 3
 |  |  |  |
 |  |  |  |
 |  |  |  |
+
+<!-- sida 325 -->
 
 <!-- sida 326 -->
 
@@ -15528,11 +15501,11 @@ kr   procent
 
 må-to fram till kl 14
 barn 0-2 år                                   -      -
-barn 3-11 år (i betalande vuxens sällskap)    4 0     4 6  6    1 5
-Ungdom 12-17 år                               6 0     6 9  9    1 6
-Motionssim vuxna (ej familjedelen eller relax) Vuxen. 6 0 6 9 9 1 6
+barn 3-11 år (i betalande vuxens sällskap)    40      46   6    15
+Ungdom 12-17 år                               60      69   9    16
+Motionssim vuxna (ej familjedelen eller relax) Vuxen. 60 69 9   16
 Motionssim.
-Vuxna, hela anläggningen förutom relax Vuxen. 8 0     9 7 17    2 1
+Vuxna, hela anläggningen förutom relax Vuxen. 80      97  17    21
 
 Motionssim och
 familjebad.
@@ -15540,56 +15513,59 @@ familjebad.
 All övrig tid
 barn 0-2 år                                   -      -
 
-barn 3-11 år (i betalande vuxens sällskap)    5 0     5 7  7    1 4
-Ungdom 12-17 år                               7 0     8 2 12    1 7
-Motionssim vuxna (ej familjedelen eller relax) Vuxen. 7 0 8 2 12 1 7
+barn 3-11 år (i betalande vuxens sällskap)    50      57   7    14
+Ungdom 12-17 år                               70      82  12    17
+Motionssim vuxna (ej familjedelen eller relax) Vuxen. 70 82 12  17
 Motionssim.
-Vuxna, hela anläggningen förutom relax Vuxen. 110    128  18    1 6
+Vuxna, hela anläggningen förutom relax Vuxen. 110    128  18    16
 
 Motionssim och
 familjebad.
 
 All tid, grupp
-Grupp (1 v + 2 barn)                         190     220  30    1 6
-tillkommande barn/ungdomar per person         3 0     3 5  5    1 6
-
-Grupp (2 v + 2 barn)                         290     335  45    1 5
-tillkommande barn/ungdomar per person         3 0     3 5  5    1 5
 
 All tid, 12-kort
-barn 3-11 år (i betalande vuxens sällskap)   500     572  72    1 4
-Ungdom 12-17 år                              700     817 117    1 7
-Motionssim vuxna (ej familjedelen eller relax) Vuxen. 700 817 117 1 7
+barn 3-11 år (i betalande vuxens sällskap)   500     572  72    14
+Ungdom 12-17 år                              700     817 117    17
+Motionssim vuxna (ej familjedelen eller relax) Vuxen. 700 817 117 17
 Motionssim.
 
-Vuxna, hela anläggningen förutom relax Vuxen. 1 100 1 276 176   1 6
+Vuxna, hela anläggningen förutom relax Vuxen. 1 100 1 276 176   16
 Motionssim och
 familjebad.
 
 All tid, årskort
-barn 3-11 år (i betalande vuxens sällskap)   900    1 041 141   1 6
-Ungdom 12-17 år                             1 400   1 613 213   1 5
+barn 3-11 år (i betalande vuxens sällskap)   900    1 041 141   16
+Ungdom 12-17 år                             1 400   1 613 213   15
 
-Motionssim vuxna (ej familjedelen eller relax) Vuxen. 1 700 1 960 260 1 5
+Motionssim vuxna (ej familjedelen eller relax) Vuxen. 1 700 1 960 260 15
 Motionssim.
-Vuxna, hela anläggningen förutom relax Vuxen. 2 400 2 772 372   1 6
+Vuxna, hela anläggningen förutom relax Vuxen. 2 400 2 772 372   16
 Motionssim och
 familjebad.
 
+[Tabell 328-1](handlingar.tabeller/328-1.csv)
+
+| Grupp (1 v + 2 barn) | 190 | 220 | 30 | 16 |
+| --- | --- | --- | --- | --- |
+| tillkommande barn/ungdomar per person | 30 | 35 | 5 | 16 |
+| Grupp (2 v + 2 barn) | 290 | 335 | 45 | 15 |
+| tillkommande barn/ungdomar per person | 30 | 35 | 5 | 15 |
+
 <!-- sida 329 -->
 
-Tilläggsårskort barn 3-11 år i samma familj, från 300 347 47    1 6
-
-barn eller ungdom nummer tre
-Tilläggsårskort ungdom 12-17 år i samma familj, 600  694  94    1 6
-från barn eller ungdom nummer tre
-
-All tid, relax (inkl. bad)
-Entré                                        160     184  24    1 5
-12-kort                                     1 600   1 838 238   1 5
 Årskort                        (Tas bort)   2 900
 
-Simskoleavgift                               130     150  20    1 5
+Simskoleavgift                               130     150  20    15
+
+[Tabell 329-1](handlingar.tabeller/329-1.csv)
+
+| Tilläggsårskort barn 3-11 år i samma familj, från barn eller ungdom nummer tre | 300 | 347 | 47 | 16 |
+| --- | --- | --- | --- | --- |
+| Tilläggsårskort ungdom 12-17 år i samma familj, från barn eller ungdom nummer tre | 600 | 694 | 94 | 16 |
+| All tid, relax (inkl. bad) |  |  |  |  |
+| Entré | 160 | 184 | 24 | 15 |
+| 12-kort | 1 600 | 1 838 | 238 | 15 |
 
 <!-- sida 330 -->
 
@@ -16054,7 +16030,7 @@ badhuset tas i bruk till och med 2026-06-30.
 
 Expedierat/bestyrkt
 
-[Tabell 345-1](handlingar.tabeller/345-1.csv)
+[Tabell 345-346-1](handlingar.tabeller/345-346-1.csv)
 
 | Kungsbacka<br>Badhus | må-to fram till<br>kl. 14 | all tid/<br>all övrig<br>tid | all tid |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -16067,6 +16043,8 @@ Expedierat/bestyrkt
 | Grupp (1 v + 2 barn,<br>tillkommande barn/ungdomar<br>30 kr/person) |  | 190 |  |  |  |  |  |
 | Grupp (2 v + 2 barn,<br>tillkommande barn/ungdomar<br>30 kr/person) |  | 290 |  |  |  |  |  |
 | Tilläggsårskort barn 3–11 år i<br>samma familj, från barn eller<br>ungdom nr tre |  |  |  | 300 |  |  |  |
+| Tilläggsårskort ungdom<br>12–17 år i samma familj, från<br>barn eller ungdom nr tre |  |  |  | 600 |  |  |  |
+|  |  |  |  |  | 160 | 1 600 | 2 900 |
 
 <!-- sida 346 -->
 
@@ -16087,12 +16065,6 @@ Expedierat/bestyrkt
 
 [Tabell 346-1](handlingar.tabeller/346-1.csv)
 
-| Tilläggsårskort ungdom<br>12–17 år i samma familj, från<br>barn eller ungdom nr tre |  |  |  | 600 |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | 160 | 1 600 | 2 900 |
-
-[Tabell 346-2](handlingar.tabeller/346-2.csv)
-
 | Fjärås Simhall |  |  |  |
 | --- | --- | --- | --- |
 | Målgrupp | Entré | 12-kort | Årskort |
@@ -16105,12 +16077,24 @@ Expedierat/bestyrkt
 | Tilläggsårskort barn 3–11 år i samma familj,<br>från barn eller ungdom nr tre |  |  | 200 |
 | Tilläggsårskort ungdom 12–17 år i samma<br>familj, från barn eller ungdom nr tre |  |  | 400 |
 
-[Tabell 346-3](handlingar.tabeller/346-3.csv)
+[Tabell 346-347-2](handlingar.tabeller/346-347-2.csv)
 
 | Skolbad | 30 kr/deltagare/tillfälle |
 | --- | --- |
 | Simskoleverksamhet för skolelever | 70 kr/deltagare/tillfälle |
 | Föreningar |  |
+| Tävlings-/ tränings-/motionsbassäng | 10kr/25m-bana/timma |
+| Undervisningsbassänger,<br>gruppverksamhet | 10 kr/delt. + 200kr/grupp, max 12 pers. (ej övrigt<br>entrépris) |
+| Tävlingar, banhyra | 10kr/25m-bana/timma |
+| Tävlingar, timpris i 25m-bassäng om<br>delar av anläggningen kan vara öppen | 300 kr/timma |
+| Tävlingar, timpris i 50m-bassäng om<br>delar av anläggningen kan vara öppen,<br>bl.a. minst en 25m-bassäng | 500 kr/timma |
+| Tävlingar, timpris om hela anläggningen<br>måste vara stängd | 800 kr/timma |
+| Årskort för föreningsmedlemmar upp<br>t.o.m. 17 år | 1 400 kr för de som tränar 4 ggr/vecka eller mer,<br>900 kr för de som tränar mindre än 4ggr/vecka |
+| Föreningsmedlemmar från 18 år | Betalar inträde på vanligt sätt |
+| Kommersiella priser |  |
+| Hyra halva 50m-bassängen | 700 kr/timme + ordinarie entrépris |
+| Hyra hel undervisningsbassäng | 1 200 kr + ordinarie entrépris |
+| Övrig kommersiell hyra för bassänger<br>sätts av driftsoperatören |  |
 
 <!-- sida 347 -->
 
@@ -16128,22 +16112,6 @@ Ersättning enligt priser för skolbad/simskoleverksamhet för skolelever
 utgår då driftoperatör eller förening utför den specifika aktiviteten.
 
 Expedierat/bestyrkt
-
-[Tabell 347-1](handlingar.tabeller/347-1.csv)
-
-| Tävlings-/ tränings-/motionsbassäng | 10kr/25m-bana/timma |
-| --- | --- |
-| Undervisningsbassänger,<br>gruppverksamhet | 10 kr/delt. + 200kr/grupp, max 12 pers. (ej övrigt<br>entrépris) |
-| Tävlingar, banhyra | 10kr/25m-bana/timma |
-| Tävlingar, timpris i 25m-bassäng om<br>delar av anläggningen kan vara öppen | 300 kr/timma |
-| Tävlingar, timpris i 50m-bassäng om<br>delar av anläggningen kan vara öppen,<br>bl.a. minst en 25m-bassäng | 500 kr/timma |
-| Tävlingar, timpris om hela anläggningen<br>måste vara stängd | 800 kr/timma |
-| Årskort för föreningsmedlemmar upp<br>t.o.m. 17 år | 1 400 kr för de som tränar 4 ggr/vecka eller mer,<br>900 kr för de som tränar mindre än 4ggr/vecka |
-| Föreningsmedlemmar från 18 år | Betalar inträde på vanligt sätt |
-| Kommersiella priser |  |
-| Hyra halva 50m-bassängen | 700 kr/timme + ordinarie entrépris |
-| Hyra hel undervisningsbassäng | 1 200 kr + ordinarie entrépris |
-| Övrig kommersiell hyra för bassänger<br>sätts av driftsoperatören |  |
 
 <!-- sida 348 -->
 
@@ -16375,7 +16343,7 @@ beslutar bifalla kommunstyrelsens förslag.
 
 Expedierat/bestyrkt
 
-[Tabell 352-1](handlingar.tabeller/352-1.csv)
+[Tabell 352-353-1](handlingar.tabeller/352-353-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -16409,25 +16377,7 @@ Expedierat/bestyrkt
 | Monica Neptun | ( L ) | A l la |  | X |  |  |  |
 | Stephan Philipson | ( M ) | A ll a | L a r s Thelén | X |  |  |  |
 | Elisabeth Lyckevall | (S ) | A ll a |  |  | X |  |  |
-
-<!-- sida 353 -->
-
-KUNGSBACKA KOMMUN               PROTOKOLLSUTDRAG
-
-Kommunfullmäktige               Datum
-2019-06-11
-
-Beslutet skickas till
-
-Nämnden för Kultur & Fritid, Kommunledningskontoret: Ekonomi, Service:
-upphandling
-
-Expedierat/bestyrkt
-
-[Tabell 353-1](handlingar.tabeller/353-1.csv)
-
 | Roger Krantz | ( S D ) | A l la |  | X |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Thure Sandén | (M ) | A ll a |  | X |  |  |  |
 | Anders Eriksson | ( C ) | A ll a |  | X |  |  |  |
 | Hravn Forsne | ( M ) | A ll a |  | X |  |  |  |
@@ -16459,3 +16409,17 @@ Expedierat/bestyrkt
 | Per Stenberg | (M ) | A ll a | A n n ika Carlsson | X |  |  |  |
 | Ulrika Högstrand | ( K D ) | A l la |  | X |  |  |  |
 | SUMMA: |  |  |  | 47 | 14 | 0 | 0 |
+
+<!-- sida 353 -->
+
+KUNGSBACKA KOMMUN               PROTOKOLLSUTDRAG
+
+Kommunfullmäktige               Datum
+2019-06-11
+
+Beslutet skickas till
+
+Nämnden för Kultur & Fritid, Kommunledningskontoret: Ekonomi, Service:
+upphandling
+
+Expedierat/bestyrkt

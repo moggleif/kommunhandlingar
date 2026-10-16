@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7607344a19d24be2a5e1fa27/1774530019
 sha256: a3692afab8961b25ddfc5e1d6d54822ecbe1dd022dd9f9b7433b2d410e456726
 bytes: 224806
 sidor: 5
-hamtad: 2026-10-09T08:26:17+00:00
-konverterad: 2026-10-09T08:26:23+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-16T06:17:07+00:00
+konverterad: 2026-10-16T06:17:13+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]
@@ -55,7 +55,7 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-5-1](kallelse.tabeller/2-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -66,6 +66,15 @@ KUNGSBACKA  KOMMUN
 | 6. | Antagande av policy och<br>riktlinjer för<br>inköpsverksamheten i<br>Kungsbacka kommun | KS-2026-00163 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Policy för inköp,<br>Riktlinjer för inköp och Riktlinjer för<br>direktupphandling, daterade 2026-02-06.<br>Policy för inköp och Riktlinjer för inköp, antagna av<br>kommunfullfullmäktige 2021-03-09 § 30, samt<br>Riktlinjer för direktupphandling, antagen av<br>kommunfullmäktige 2022-10-18 § 160, upphör<br>samtidigt att gälla. |
 | 7. | Svar på länsstyrelsen i Hallands<br>remiss av regional<br>handlingsplan för elektrifiering | KS-2025-00944 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-03-04,<br>och översänder det som sitt svar till Länsstyrelsen i<br>Hallands län. |
 | 8. | Svar på Varbergs kommuns<br>remiss av fördjupad<br>översiktsplan för Väröbacka | KS-2026-00149 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-03-02,<br>och översänder det som sitt svar till Varbergs<br>kommun. |
+| 9. | Förlängning av principavtal och<br>markanvisning med Doxa<br>Anneberg AB, detaljplan för<br>utveckling av Annebergs<br>centrum | KS-2019-00257 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner begäran från Doxa<br>Anneberg AB, innebärande att gällande principavtal<br>och markanvisning avseende ny detaljplan för<br>Annebergs centrum, förlängs med två år till 26 maj<br>2028, på i övrigt oförändrade avtalsvillkor. |
+| 10. | Godkännande av förslag till<br>exploateringsavtal och<br>överenskommelse om<br>fastighetsreglering avseende<br>detaljplan för verksamheter och<br>bostäder inom Åsa<br>5:156 och 5:14 m.fl. i Åsa | KS-2026-00064 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner exploateringsavtal<br>avseende detaljplan för verksamheter och bostäder<br>inom Åsa 5:156 och Åsa 5:14 m.fl., mellan<br>kommunen å ena sidan och West Sörvik AB samt<br>Sörviksvägen 7 Åsa AB, å andra sidan, undertecknat<br>av bolagen 2026-02-27.<br>Kommunstyrelsen godkänner överenskommelse om<br>fastighetsreglering mellan kommunen och<br>Sörviksvägen 7 Åsa AB undertecknat av bolaget<br>2026-02-27, genom vilken mark för<br>parkeringsändamål ska överföras från kommunens<br>fastighet till bolagets fastighet, mot en ersättning på<br>529 000 kronor.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalen<br>samt övriga nödvändiga handlingar för avtalens<br>genomförande. |
+| 11. | Begäran om planbesked för del<br>av Kolla 5:2 | KS-2026-00097 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av handel och verksamheter inom del<br>av Kolla 5:2, i Kungsbacka.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för handel och verksamheter inom del av<br>Kolla 5:2, i Kungsbacka. |
+| 12. | Avstämning och information<br>om startplan<br>09:15-10:00<br>Ida Lennartsson<br>Johan Gerremo<br>Sofia Wiman<br>Thure Sandén (BNAU)<br>Heinrich Kaufmann (BNAU)<br>Lars Eriksson (BNAU)<br>Daniel Hognert (BNAU)<br>Stefan Vilumsons (BNAU) | KS-2026-00018 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 13. | Information om<br>Samhällsbyggnadskontorets<br>arbete med planbesked, tidiga<br>förfrågningar och förhands-<br>besked inom utvecklingsort<br>10:15-10:45<br>Stina Wikström<br>Ida Lennartsson | KS-2026-00043 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 14. | Information markförläggning av<br>kraftledning Klovsten-Gräskärr<br>– Ellevio<br>10:50-11:20<br>Lena Melvinsdotter<br>Johan Gerremo | KS-2019-00488 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 15. | Avstämning kring utredning av<br>premie till jägare för fällda<br>vildsvin<br>11:25-11:45<br>Mårten Västerdal<br>Anders Lund | KS-2025-00881 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 16. | Information om status i projekt<br>Naturum<br>11:45-12:00<br>Maria Rosenberg<br>Julia Tryggvadottir Tollesson | KS-2025-00714 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 17. | Information ledamöter och<br>förvaltning | KS-2025-00975 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
 
 <!-- sida 3 -->
 
@@ -73,28 +82,11 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 9. | Förlängning av principavtal och<br>markanvisning med Doxa<br>Anneberg AB, detaljplan för<br>utveckling av Annebergs<br>centrum | KS-2019-00257 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner begäran från Doxa<br>Anneberg AB, innebärande att gällande principavtal<br>och markanvisning avseende ny detaljplan för<br>Annebergs centrum, förlängs med två år till 26 maj<br>2028, på i övrigt oförändrade avtalsvillkor. |
-| 10. | Godkännande av förslag till<br>exploateringsavtal och<br>överenskommelse om<br>fastighetsreglering avseende<br>detaljplan för verksamheter och<br>bostäder inom Åsa<br>5:156 och 5:14 m.fl. i Åsa | KS-2026-00064 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner exploateringsavtal<br>avseende detaljplan för verksamheter och bostäder<br>inom Åsa 5:156 och Åsa 5:14 m.fl., mellan<br>kommunen å ena sidan och West Sörvik AB samt<br>Sörviksvägen 7 Åsa AB, å andra sidan, undertecknat<br>av bolagen 2026-02-27.<br>Kommunstyrelsen godkänner överenskommelse om<br>fastighetsreglering mellan kommunen och<br>Sörviksvägen 7 Åsa AB undertecknat av bolaget<br>2026-02-27, genom vilken mark för<br>parkeringsändamål ska överföras från kommunens<br>fastighet till bolagets fastighet, mot en ersättning på<br>529 000 kronor.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalen<br>samt övriga nödvändiga handlingar för avtalens<br>genomförande. |
-| 11. | Begäran om planbesked för del<br>av Kolla 5:2 | KS-2026-00097 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av handel och verksamheter inom del<br>av Kolla 5:2, i Kungsbacka.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för handel och verksamheter inom del av<br>Kolla 5:2, i Kungsbacka. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 12. | Avstämning och information<br>om startplan<br>09:15-10:00<br>Ida Lennartsson<br>Johan Gerremo<br>Sofia Wiman<br>Thure Sandén (BNAU)<br>Heinrich Kaufmann (BNAU)<br>Lars Eriksson (BNAU)<br>Daniel Hognert (BNAU)<br>Stefan Vilumsons (BNAU) | KS-2026-00018 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 13. | Information om<br>Samhällsbyggnadskontorets<br>arbete med planbesked, tidiga<br>förfrågningar och förhands-<br>besked inom utvecklingsort<br>10:15-10:45<br>Stina Wikström<br>Ida Lennartsson | KS-2026-00043 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 14. | Information markförläggning av<br>kraftledning Klovsten-Gräskärr<br>– Ellevio<br>10:50-11:20<br>Lena Melvinsdotter<br>Johan Gerremo | KS-2019-00488 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 15. | Avstämning kring utredning av<br>premie till jägare för fällda<br>vildsvin<br>11:25-11:45<br>Mårten Västerdal<br>Anders Lund | KS-2025-00881 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
 
 <!-- sida 5 -->
 
@@ -104,10 +96,3 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Therese Tanner
 ordförande                        sekreterare
-
-[Tabell 5-1](kallelse.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 16. | Information om status i projekt<br>Naturum<br>11:45-12:00<br>Maria Rosenberg<br>Julia Tryggvadottir Tollesson | KS-2025-00714 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 17. | Information ledamöter och<br>förvaltning | KS-2025-00975 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |

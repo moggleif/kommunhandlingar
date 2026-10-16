@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.ca22f6f192bd236cc2706c6/17302132479
 sha256: 2c08f90e8660bde2c921f21ab532930c3be3113dcc03a8377018c1e403493424
 bytes: 29519998
 sidor: 183
-hamtad: 2026-10-09T09:27:16+00:00
-konverterad: 2026-10-09T09:29:19+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T07:20:07+00:00
+konverterad: 2026-10-16T07:21:49+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ok, ocr, ok, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ok, ocr, ok, ocr]
 tal_obekraftade: [7, 75, 149, 150, 151, 152, 153, 154, 155, 157, 158, 159, 160, 161, 162, 163, 175, 177, 179, 181, 183]
 figurer: [7, 29, 36, 42, 43, 44, 52, 66, 75, 119, 120]
 tolkade: []
@@ -56,7 +56,7 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-5-1](handlingar.tabeller/2-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -64,17 +64,6 @@ KUNGSBACKA  KOMMUN
 | 4. | Taxa 2025 för Naturum Fjärås<br>Bräcka och Äskhult | 2024-00624 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Taxa för Naturum Fjärås<br>Bräcka och Äskhult, daterad 2024-08-12.<br>Kommunfullmäktige beslutar att taxan får justeras i<br>enlighet med taxans bestämmelse §§ 5-6 om årlig<br>indexjustering och delegation.<br>Taxan träder i kraft den 1 januari 2025.<br>Tidigare taxa för Naturum Fjärås Bräcka och<br>Äskhults by upphör samtidigt att gälla. |
 | 5. | Taxa för avfall 2025 | 2024-00300 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Avfallstaxa 2025, daterad<br>2024-09-26<br>Taxan träder i kraft den 1 januari 2025.<br>Avfallstaxa 2024 antagen av kommunfullmäktige<br>2023-12-14, § 194 upphör samtidigt att gälla.<br>Kommunfullmäktige noterar återredovisningen<br>gällande auktorisationssystem och maxtaxa för<br>fastighetsnära insamling av bygg- och<br>rivningsavfall. |
 | 6. | Ansökan om deltagande i<br>SKR:s projekt om utvecklad<br>budgetprocess | 2024-00703 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen ansöker om deltagande i SKR:s<br>projekt om utvecklad budgetprocess under perioden<br>2025/2026. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(5)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 7. | Uppstart av projekt i lokalplan<br>Signeshus löpnr 816 | 2024-00700 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner uppstart av Signeshus<br>vård-och omsorgsboende. |
 | 8. | Uppstart av projekt i lokalplan<br>Åsaberg Bostäder med särskild<br>service löpnr 515 | 2024-00699 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner uppstart av projekt<br>Åsaberg BmSS. |
 | 9. | Delegering om att utse<br>tillförordnad kommundirektör | 2024-00651 | Kommunstyrelsens förvaltning överlämnar ärendet<br>utan eget ställningstagande. |
@@ -83,21 +72,25 @@ KUNGSBACKA  KOMMUN
 | 12. | Remittering av motion från<br>Magdalena Sundqvist (S) m.fl.<br>om att inrätta en årlig<br>minnesdag för Förintelsens<br>offer i samband med den<br>internationella minnesdagen | 2024-00620 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Kultur & Fritid för<br>beredning. |
 | 13. | Remittering av motion från<br>Johan Tolinsson (S) m.fl. om<br>ökat samarbete för barn och<br>elevers hälsa | 2024-00595 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Kultur & Fritid, nämnden<br>för Förskola & Grundskola, nämnden för<br>Gymnasium & Arbetsmarknad och nämnden för<br>Individ & Familjeomsorg för beredning. |
 | 14. | Remittering av motion från<br>Shabnam Zamani (S) om att<br>utforma ett långsiktigt och<br>strategiskt folkhälsoprogram | 2024-00648 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Kultur & Fritid för<br>beredning. |
+| 15. | Remittering av motion från<br>Shabnam Zamani (S) om att<br>utreda införandet av avgiftsfri<br>skolfrukost i Kungsbacka<br>kommuns gymnasieskolor | 2024-00668 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Gymnasium &<br>Arbetsmarknad för beredning. |
+| 16. | Information om aktuella<br>kommunikationsfrågor (från<br>årshjul)<br>08:45-09:25<br>Annika Jardin<br>Matilda Alsterberg<br>Emma Bruhn<br>Sofie Pettersson | 2024-00393 | - |
+| 17. | Information om arbetet med<br>Kungsbacka Arena<br>09:30-09:45<br>Sven Erik Bergström<br>Semir Robovic<br>Ing-Britt Blomberg | 2020-00547 | - |
+| 18. | Dialog med länsstyrelsen om<br>kommun-, fördelning och EKB-<br>andelstal 2025<br>10:00-10:40<br>Patrik Hellberg, Gymnasium &<br>Arbetsmarknad<br>Länsstyrelsen i Hallands län:<br>Lovisa Ljungberg, vikarierande<br>länsråd<br>Thijs den Teuling,<br>integrationssamordnare | 2024-00705 | - |
+| 19. | Avstämning om förändring<br>avseende projekt i lokalplan Kv<br>Liljan skola och idrottssal<br>10:45-11:05<br>Maria Rosenberg<br>Jenny Törn<br>Julia Tryggvadottir Tollesson | 2024-00724 | - |
+| 20. | Information om arbetet med<br>fördjupad översiktsplan för<br>Kungsbacka stad (FÖP)<br>11:10 - 11:40<br>Andrea Ericsson<br>Anders Lund<br>Christian Carlsson<br>Mårten Västerdal<br>Peter Gustavsson | 2020-00313 | - |
+| 21. | Information från ledamöter och<br>förvaltning | 2024-00025 | - |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(5)
 
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 15. | Remittering av motion från<br>Shabnam Zamani (S) om att<br>utreda införandet av avgiftsfri<br>skolfrukost i Kungsbacka<br>kommuns gymnasieskolor | 2024-00668 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Gymnasium &<br>Arbetsmarknad för beredning. |
-| 16. | Information om aktuella<br>kommunikationsfrågor (från<br>årshjul)<br>08:45-09:25<br>Annika Jardin<br>Matilda Alsterberg<br>Emma Bruhn<br>Sofie Pettersson | 2024-00393 | - |
-| 17. | Information om arbetet med<br>Kungsbacka Arena<br>09:30-09:45<br>Sven Erik Bergström<br>Semir Robovic<br>Ing-Britt Blomberg | 2020-00547 | - |
-| 18. | Dialog med länsstyrelsen om<br>kommun-, fördelning och EKB-<br>andelstal 2025<br>10:00-10:40<br>Patrik Hellberg, Gymnasium &<br>Arbetsmarknad<br>Länsstyrelsen i Hallands län:<br>Lovisa Ljungberg, vikarierande<br>länsråd<br>Thijs den Teuling,<br>integrationssamordnare | 2024-00705 | - |
 
 <!-- sida 5 -->
 
@@ -107,14 +100,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 19. | Avstämning om förändring<br>avseende projekt i lokalplan Kv<br>Liljan skola och idrottssal<br>10:45-11:05<br>Maria Rosenberg<br>Jenny Törn<br>Julia Tryggvadottir Tollesson | 2024-00724 | - |
-| 20. | Information om arbetet med<br>fördjupad översiktsplan för<br>Kungsbacka stad (FÖP)<br>11:10 - 11:40<br>Andrea Ericsson<br>Anders Lund<br>Christian Carlsson<br>Mårten Västerdal<br>Peter Gustavsson | 2020-00313 | - |
-| 21. | Information från ledamöter och<br>förvaltning | 2024-00025 | - |
 
 <!-- sida 6 -->
 
@@ -857,8 +842,6 @@ arbetsgivarvarumärket kommer att växlas upp och bidra till en tydligare bild a
 kommun.
 8.2 Personalmått
 
-Nyckeltal                     Utfall 2021 Utfall 2022  Utfall 2023
-
 8.3 Arbetsmiljö
 Medarbetare som trivs på arbetet är våra bästa ambassadörer för verksamheten. För att våra medarbetare ska må
 bra på arbetet är vårt systematiska arbetsmiljöarbete grunden. Fokus ligger och kommer fortsatt ligga på
@@ -881,8 +864,9 @@ Arbetet med målet kommer ske inom ramen för de samtal som förs mellan chef oc
 
 [Tabell 22-1](handlingar.tabeller/22-1.csv)
 
-| Andel heltid | 100 % | 100 % | 100 % |
+| Nyckeltal | Utfall 2021 | Utfall 2022 | Utfall 2023 |
 | --- | --- | --- | --- |
+| Andel heltid | 100 % | 100 % | 100 % |
 | Sjukfrånvaro Totalt | 2 % | 2,5 % | 2,6 % |
 | Sjukfrånvaro Kvinnor | 2,6 % | 3 % | 3,3 % |
 | Sjukfrånvaro Män | 0,4 % | 1,1 % | 0,8 % |
@@ -1538,24 +1522,28 @@ kulturskolans verksamhet kunna utvecklas inom musik, dans, konst, film och teate
 
 3\. Avgiftsbelopp/taxetabeller
 
-2024
-Terminsavgifter             (gällande sedan 2015) 2025
-Terminsavgift. Grundavgift
-ämne/instrument samt ”kulår”.    950 kr          1 140 kr
-Fördjupningslinje               1 900 kr         2 280 kr
-Orkester, kör och musiklek-ämnen 475 kr          570 kr
-
-2024
-Övriga avgifter             (gällande sedan 2015) 2025
-Kortkurs, 10 veckor              700 kr          840 kr
-Kortkurs, 5 veckor               400 kr          480 kr
-
-Småbarnsrytmik, (drop in)        500 kr            0 kr
-Drop in-aktivitet/öppen verksamhet 100 kr          0 kr
-Lovverksamhet                     0 kr             0 kr
-Instrumentlån                     0 kr             0 kr
-
 Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
+
+[Tabell 37-1](handlingar.tabeller/37-1.csv)
+
+|  | 2024 |  |
+| --- | --- | --- |
+| Terminsavgifter | (gällande sedan 2015) | 2025 |
+| Terminsavgift. Grundavgift<br>ämne/instrument samt ”kulår”. | 950 kr | 1 140 kr |
+| Fördjupningslinje | 1 900 kr | 2 280 kr |
+| Orkester, kör och musiklek-ämnen | 475 kr | 570 kr |
+
+[Tabell 37-2](handlingar.tabeller/37-2.csv)
+
+|  | 2024 |  |
+| --- | --- | --- |
+| Övriga avgifter | (gällande sedan 2015) | 2025 |
+| Kortkurs, 10 veckor | 700 kr | 840 kr |
+| Kortkurs, 5 veckor | 400 kr | 480 kr |
+| Småbarnsrytmik, (drop in) | 500 kr | 0 kr |
+| Drop in-aktivitet/öppen verksamhet | 100 kr | 0 kr |
+| Lovverksamhet | 0 kr | 0 kr |
+| Instrumentlån | 0 kr | 0 kr |
 
 <!-- sida 38 -->
 
@@ -4093,7 +4081,7 @@ särskilda avgifter i enlighet med grunderna för denna avfallstaxa och de grund
 Uppdateringar mellan Avfallstaxa 2024 (Avfallstaxa Kommunfullmäktige 14 december 2023 § 194, KS 2023-
 00300 gällande från 1 januari 2024) och Avfallstaxa 2025
 
-[Tabell 102-1](handlingar.tabeller/102-1.csv)
+[Tabell 102-109-1](handlingar.tabeller/102-109-1.csv)
 
 | Avsnitt | Kommentar | Uppdaterat enligt följande |
 | --- | --- | --- |
@@ -4102,76 +4090,48 @@ Uppdateringar mellan Avfallstaxa 2024 (Avfallstaxa Kommunfullmäktige 14 decembe
 | 2.<br>Beräknings<br>grunder | Skriva att även<br>hämtning av<br>förpackningsavfall<br>omfattas av en maxtaxa | Följande text:<br>Avgifter för fastighetsnära hämtning av bygg- och rivningsavfall samt returpapper<br>begränsas av maxtaxa.<br>Byts till:<br>Avgifter för fastighetsnära hämtning av bygg- och rivningsavfall,<br>förpackningsavfall samt returpapper begränsas av maxtaxa. |
 | 3<br>Mervärdess<br>katt | Skriva ut<br>procenttecknet. | Följande text:<br>Avgifter i taxan är angivna i kronor inklusive 25 % moms.<br>Byts till:<br>Avgifter i taxan är angivna i kronor inklusive 25 procent moms. |
 | 4.1 Allmän<br>Information | Ta bort information om<br>antal ÅVC besök<br>eftersom det står redan i<br>avsnitt 4.6 samt lägga<br>till information om att | Följande text:<br>I abonnemangsavgiften ingår följande:<br>• 15 besök på återvinningscentral per år för privatpersoner och 15 besök per år<br>för |
-
-<!-- sida 103 -->
-
-[Tabell 103-1](handlingar.tabeller/103-1.csv)
-
 |  | kärl ägs och distribueras<br>av kommunen och<br>kommunens<br>entreprenörer. | verksamheter med avfallsabonnemang.<br>• Påsar och påshållare för matavfall.<br>• Upp till två meters gångavstånd till hämtfordon för avfallskärl.<br>• I avgiften för slamtömning ingår slangdragning upp till 20 meter.<br>Byts till:<br>I abonnemangsavgiften ingår följande:<br>• Besök på återvinningscentraler enligt avsnitt 4.6<br>• Påsar och påshållare för matavfall.<br>• Upp till två meters gångavstånd till hämtfordon för avfallskärl.<br>• I avgiften för slamtömning ingår slangdragning upp till 20 meter.<br>• Kärl ägs och distribueras av renhållaren eller renhållarens utförare. |
-| --- | --- | --- |
 | 4.3.3.1<br>Gångavstånd till<br>kärl | Ändra till rätt veckor för<br>den nya<br>trädgårdsavfallssäsonge<br>n i tabellen för<br>gångavstånd vid<br>hämtning av<br>trädgårdsavfall | Följande text:<br>Trädgårdsavfall (vecka 14-45)<br>Byts till:<br>Trädgårdsavfall (vecka 12-47) |
 | 4.3.3.4<br>Hämtning av<br>komposterbart<br>trädgårdsavfall i<br>kärl | Förlänga<br>trädgårdsavfallssäsonge<br>n med 4 veckor dvs två<br>extra tömningar. | Uppdatering |
 | 4.3.3.5<br>Hämtning av<br>komposterbart<br>trädgårds- och<br>parkavfall i<br>container | Förtydliggöra i rubriken<br>att den fraktionen<br>inkluderar även ris och<br>grenar. | Följande rubriksnamn:<br>Hämtning av komposterbart trädgårds- och parkavfall i container<br>Byts till:<br>Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris och grenar) i<br>container |
-
-<!-- sida 104 -->
-
-[Tabell 104-1](handlingar.tabeller/104-1.csv)
-
 | 4.3.3.7<br>Hämtning av<br>grovavfall | Lägga till att det går att<br>lämna även det som går<br>att återanvända samt<br>lägga till<br>storleksbegränsningar.<br>Uppdatera<br>rubriksnamnet för att<br>inkludera återbruk | Följande rubriksnamn:<br>Hämtning av grovavfall<br>Byts till:<br>Hämtning av grovavfall och återbruk |
-| --- | --- | --- |
 |  |  | Följande text:<br>Renhållarens utförare hämtar avfallet i anslutning till väg vid fastighetsgräns,<br>inom 6 arbetsdagar efter beställning.<br>Uppdaterats till:<br>Renhållarens utförare hämtar avfallet och produkter till återbruk i anslutning till<br>väg vid fastighetsgräns, inom 6 arbetsdagar efter beställning. Varje kolli får väga<br>maximalt 30 kilo och inte ha en volym större än 1 kubikmeter. Längder får vara<br>maximalt 1,2 meter. Kollin ska märkas med respektive fraktion. Produkter till<br>återbruk ska vara hela och rena. Mer information om vad som får lämnas finns<br>på kommunens hemsida |
 |  |  | Följande text i tabellen:<br>Grovavfall, mindre än 1 kubikmeter<br>Grovavfall mindre än 1 kubikmeter<br>Byts till:<br>Grovavfall och återbruk utöver 1 kubikmeter, per extra kubikmeter<br>Grovavfall och återbruk, mindre än 1 kubikmeter |
 | 4.4.2.1 | Ta bort grundavgiften för<br>varmkompost eftersom<br>abonnemanget saknas |  |
 | 4.3.3.8<br>Extra tömningar | Uppdatera perioden när<br>extra tömning av<br>trädgårdsavfall kan<br>beställas i enlighet med<br>den nya förlängda<br>trädgårdsavfallssäsonge<br>n. | Följande text:<br>Fastighetsinnehavare kan beställa extra tömning av brännbart restavfall och<br>matavfall, samt för trädgårdsavfall i kärl under perioden vecka 15–45.<br>Byts till:<br>Fastighetsinnehavare kan beställa extra tömning av brännbart restavfall och<br>matavfall, samt för trädgårdsavfall i kärl under perioden vecka 12–47 |
 | 4.4.4.1<br>Gångavstånd till<br>kärl | Uppdatera perioden i tabellen<br>i enlighet med den nya | Följande text:<br>Trädgårdsavfall (vecka 14–45) |
-
-<!-- sida 105 -->
-
-[Tabell 105-1](handlingar.tabeller/105-1.csv)
-
 |  | förlängda<br>trädgårdsavfallssäsongen. | Byts till:<br>Trädgårdsavfall (vecka 12–47) |
-| --- | --- | --- |
 | 4.4.4.4<br>Hämtning av<br>komposterbart<br>trädgårdsavfall i<br>kärl | Förlänga<br>trädgårdsavfallssäsongen<br>med 4 veckor dvs två extra<br>tömningar. | Följande text:<br>Trädgårdsavfall (vecka 14–45)<br>Byts till:<br>Trädgårdsavfall (vecka 12–47) |
 | 4.4.4.5<br>Hämtning av<br>komposterbart<br>trädgårds- och<br>parkavfall i<br>container | Förtydliggöra i rubriken att<br>den fraktionen inkluderar även<br>ris och grenar. | Följande rubriksnamn:<br>Hämtning av komposterbart trädgårds- och parkavfall i container<br>Byts till:<br>Hämtning av komposterbart trädgårds- och parkavfall (inklusive ris och grenar) i<br>container |
 | 4.4.4.7<br>Hämtning av<br>grovavfall | Lägga till att det går att lämna<br>även det som går att<br>återanvända samt lägga till<br>storleksbegränsningar.<br>Uppdatera rubriksnamnet för<br>att inkludera återbruk. | Följande rubriksnamn:<br>Hämtning av grovavfall<br>Byts till:<br>Hämtning av grovavfall och återbruk |
 |  |  | Följande text:<br>Renhållarens utförare hämtar avfallet i anslutning till väg vid fastighetsgräns, inom 6<br>arbetsdagar efter beställning.<br>Uppdaterats till:<br>Renhållarens utförare hämtar avfallet och produkter till återbruk i anslutning till väg vid<br>fastighetsgräns, inom 6 arbetsdagar efter beställning. Varje kolli får väga maximalt 30<br>kilo och inte ha en volym större än 1 kubikmeter. Längder får vara maximalt 1,2 meter. |
-
-<!-- sida 106 -->
-
-[Tabell 106-1](handlingar.tabeller/106-1.csv)
-
 |  |  | Kollin ska märkas med respektive fraktion. Produkter till återbruk ska vara hela och<br>rena. Mer information om vad som får lämnas finns på kommunens hemsida |
-| --- | --- | --- |
 |  |  | Följande text i tabellen:<br>Grovavfall, mindre än 1 kubikmeter<br>Grovavfall mindre än 1 kubikmeter<br>Byts till:<br>Grovavfall och återbruk utöver 1 kubikmeter, per extra kubikmeter<br>Grovavfall och återbruk, mindre än 1 kubikmeter |
 | 4.4.4.8<br>Extra tömningar | Lägga till att även extra<br>tömning av trädgårdsavfall<br>kan beställas i enlighet med<br>den nya förlängda<br>trädgårdsavfallssäsongen.<br>Förtydliggöra att extra säck<br>begränsas till brännbart<br>restavfall. Tjänsten är likadan<br>för verksamheter som för<br>privatpersoner. | Följande text:<br>”, men det går inte att beställa extra tömning av trädgårdsavfall.”<br>Ersätts med:<br>”…, samt för trädgårdsavfall i kärl under perioden vecka 12–47”<br>Samt ”brännbart restavfall” läggs i följande mening:<br>Fastighetsinnehavare kan också beställa hämtning av extra säck brännbart<br>restavfall vid sidan av kärlet i samband med tömning av kärl. |
 | 4.4.5<br>Avfall från<br>detaljhandel,<br>restauranger och<br>storkök | Ny rubrik | Följande läggs till tillsammans med avgiftstabell för nya tjänster:<br>Hämtning av kommunalt avfall (enligt tabell nedan) från detaljhandel, restauranger<br>eller storkök kan beställas av valfri entreprenör som har avtal med kommunen.<br>Tjänsten inkluderar hämtning av livsmedelsavfall, ABP-avfall kategori 3, d.v.s.<br>livsmedelsavfall som omfattas av lagstiftningen om animaliska biprodukter. Hämtning<br>sker i enlighet med entreprenörens instruktioner. Hyra av insamlingskärl eller<br>container regleras mellan avfallslämnare och godkänd entreprenör.<br>Avgifterna nedan är högsta tillåtna priser som godkända entreprenörer får<br>debitera avfallslämnare. |
-
-<!-- sida 107 -->
-
-[Tabell 107-1](handlingar.tabeller/107-1.csv)
-
 |  |  | Nya tjänster som erbjuds:<br>-Fast livsmedelsavfall (ABP-avfall kategori 3), separat utsorterat i 140l-kärl<br>eller annan typ av behållare<br>-Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat i container<br>-Flytande livsmedelsavfall i sluten behållare (ABP-avfall, kategori 3)<br>-Livsmedelsavfall i form av ätlig olja eller liknande flytande ätligt fett<br>-Övrigt kommunalt avfall. Exempelvis kasserade produkter, textilavfall eller<br>avfall som uppkommit i verksamhetens personalutrymmen eller<br>serveringsverksamhet\*<br>\* Mat- och brännbart restavfall hämtas i regel av renhållarens ordinarie<br>utförare. Sådant avfall får endast hämtas av annan entreprenör efter<br>godkännande från kommunens avfallsorganisation. |
-| --- | --- | --- |
 | 4.6.1<br>Privatpersoner | Förenkla texten om ÅVC-<br>besök. | Följande text:<br>I avfallsabonnemanget ingår besök på återvinningscentralerna. Alla vuxna<br>folkbokförda i kommunen har 15 besök per person och år. Från det 16:e<br>besöket tas en avgift per besök ut enligt tabell nedan. Inpassering sker<br>med körkort. Personer som inte har körkort kan ansöka om att få ett ÅVC-<br>kort i stället. Även privatpersoner som är folkbokförda i annan kommun<br>men äger ett fritidshus med avfallsabonnemang i Kungsbacka har rätt till 15<br>besök per abonnemang och år och får ett ÅVC-kort till detta. Det är också<br>möjligt att betala enstaka besök på någon av kommunens<br>återvinningscentraler.<br>Byts till:<br>Alla vuxna folkbokförda i kommunen har 15 besök per person och år. Från det 16:e<br>besöket tas en avgift per besök ut enligt tabell nedan. Privatpersoner med<br>avfallsabonnemang för fritidshus i Kungsbacka kommun har rätt till 15 besök per |
-
-<!-- sida 108 -->
-
-[Tabell 108-1](handlingar.tabeller/108-1.csv)
-
 |  |  | abonnemang och år. Inpassering sker med körkort. Personer som inte har körkort kan<br>ansöka om att få ett ÅVC-kort i stället. Det är också möjligt att betala enstaka besök<br>på någon av kommunens återvinningscentraler. |
-| --- | --- | --- |
 | 4.6.1<br>Privatpersoner | Utelämna information om vilka<br>avfallstyper kan lämnas av på<br>ÅVC utan att besöket<br>registreras. Det kommer vi<br>publicera på hemsidan. | Följande text stryks:<br>Privatpersoner som bara ska lämna återbruk, förpackningar (av plast,<br>papper, metall, glas), tidningar, returpapper, elektronik, lysrör och ljuskällor,<br>enstaka vitvaror, kyl och frys, batterier, bilbatterier eller fett från hushåll kan<br>göra det utan att besöket registreras. Kontakta då personalen så öppnar de<br>bommen, |
 | 4.6.1<br>Privatpersoner | Ändra från<br>renhållningsabonnemang till<br>avfallsabonnemang i tabellen. | Följande text:<br>Mottagningsavgift för besök ej kopplade till renhållningsabonnemang,<br>Byts till:<br>Mottagningsavgift för besök ej kopplade till avfallsabonnemang. |
 | 4.6.1<br>Privatpersoner | Ta bort information om<br>extrakort. Det är inte längre<br>möjligt längre. | Följande text:<br>För ett extra eller förlorat ÅVC-kort<br>Byts till:<br>Förlorat ÅVC-kort |
 | 4.6.2<br>Verksamheter | Lägg till information om hur<br>inpasseringen sker | Följande läggs till:<br>Inpassering för verksamheter sker med ÅVC-kort. |
+| 4.8 Avgift för att<br>återfå tappade<br>föremål i<br>behållare på<br>återvinningsstatio<br>n | Ny rubrik | Följande läggs till:<br>4.8 8 Avgift för att återfå tappade föremål i behållare på återvinningsstation<br>Övrig service kan innefatta åtgärder för att återfå värdeföremål som tappats i en<br>insamlingsbehållare. Efter överenskommelse om åtgärd tas avgift ut till<br>självkostnadspris för följande:<br>• transportera bort behållare och ställa ut en ersättningsbehållare<br>• tömma ut material från behållare, genomsöka och iordningställa.<br>• uttryckning under jourtid som görs av annan än kommunens egen<br>jourverksamhet |
+| 4.8 Särskilda<br>avgifter | Rubriken byter nummer till 4.9 |  |
+
+<!-- sida 103 -->
+
+<!-- sida 104 -->
+
+<!-- sida 105 -->
+
+<!-- sida 106 -->
+
+<!-- sida 107 -->
+
+<!-- sida 108 -->
 
 <!-- sida 109 -->
-
-[Tabell 109-1](handlingar.tabeller/109-1.csv)
-
-| 4.8 Avgift för att<br>återfå tappade<br>föremål i<br>behållare på<br>återvinningsstatio<br>n | Ny rubrik | Följande läggs till:<br>4.8 8 Avgift för att återfå tappade föremål i behållare på återvinningsstation<br>Övrig service kan innefatta åtgärder för att återfå värdeföremål som tappats i en<br>insamlingsbehållare. Efter överenskommelse om åtgärd tas avgift ut till<br>självkostnadspris för följande:<br>• transportera bort behållare och ställa ut en ersättningsbehållare<br>• tömma ut material från behållare, genomsöka och iordningställa.<br>• uttryckning under jourtid som görs av annan än kommunens egen<br>jourverksamhet |
-| --- | --- | --- |
-| 4.8 Särskilda<br>avgifter | Rubriken byter nummer till 4.9 |  |
 
 <!-- sida 110 -->
 

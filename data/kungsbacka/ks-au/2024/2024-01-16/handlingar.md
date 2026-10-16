@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.28dcea0d18cf3c913c85f20e/1705069889
 sha256: c7a02837d6784f074a4f911797f5edb37d6f3c912abedb7a14002ada04997276
 bytes: 37700814
 sidor: 161
-hamtad: 2026-10-09T08:32:30+00:00
-konverterad: 2026-10-09T08:35:15+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T06:24:07+00:00
+konverterad: 2026-10-16T06:26:44+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -5326,46 +5326,32 @@ respektive återvinningscentral.
 
 Ku ngsbacka kommun            Lokala avfallsföreskrifter       24 (34)
 
-[Tabell 137-1](handlingar.tabeller/137-1.csv)
+[Tabell 137-140-1](handlingar.tabeller/137-140-1.csv)
 
 | Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
 | --- | --- | --- | --- |
 | Annat avfall än avfall<br>under kommunalt ansvar. | Detta avfall ska<br>hanteras separat från<br>avfall under<br>kommunalt ansvar<br>enligt 15 kap. 20 §<br>miljöbalken. | Fraktionerna ska<br>förvaras och<br>transporteras skilt från<br>varandra och annat<br>avfall. Ska emballeras<br>efter mottagarens<br>villkor. | Kontakta lämplig<br>entreprenör. |
 | Bygg- och rivningsavfall<br>som inte producerats i en<br>yrkesmässig verksamhet | Detta avfall ska<br>sorteras ut och<br>hanteras separat från<br>kommunalt avfall och<br>avfall under<br>kommunalt ansvar<br>enligt 15 kap. 20 §<br>miljöbalken. Avfallet<br>ska utöver<br>utsortering av farligt<br>avfall samt<br>elektronikavfall<br>sorteras i minst<br>följande fraktioner:<br>trä, mineral (som<br>består av betong,<br>tegel, klinker,<br>keramik eller sten),<br>metall, glas, plast<br>och gips. | För vissa fraktioner<br>ställs specifika krav på<br>emballering, till<br>exempel för asbest (se<br>nedan). | Avfallet lämnas<br>utsorterat på<br>återvinningscentral<br>eller hämtas<br>fastighetsnära av<br>entreprenör som<br>ingått avtal kring<br>hämtning av bygg-<br>och rivningsavfall<br>med kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
 | Bygg- och rivningsavfall i<br>form av schaktmassor som<br>lyder under kommunalt<br>ansvar |  |  | Hämtas<br>fastighetsnära av<br>entreprenör som<br>ingått avtal kring<br>hämtning av bygg-<br>och rivningsavfall<br>med kommunen. |
+| Farligt avfall | Följande produkter<br>eller ämnen utgör<br>exempel på vad som<br>ska hanteras som<br>farligt avfall:<br>• Färg<br>• Lösningsmedel<br>• Kemikalier<br>• Ljuskällor<br>• Bensin och diesel<br>• Bekämpningsmedel<br>• Avfall som<br>innehåller<br>kvicksilver | Ska vara emballerat<br>och tydligt märkt med<br>uppgift om innehåll.<br>Olika typer av farligt<br>avfall får inte blandas<br>eller spädas ut med:<br>(1) andra slag av farligt<br>avfall,<br>(2) annat avfall eller<br>(3) andra ämnen eller<br>material. | Farligt avfall lämnas<br>på<br>återvinningscentral.<br>Hämtning av farligt<br>avfall från fastighet<br>kan beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa. Farligt<br>avfall som inte faller<br>under kommunalt<br>ansvar hanteras ej<br>av kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
+| Asbest | Asbest utgör farligt<br>avfall. | Förpackas väl i kraftig<br>plast (minst 0,2 mm).<br>Avfallet ska vara<br>emballerat så att det är<br>dammtätt.<br>Asbest som är<br>emballerat i sopsäckar<br>tas inte emot. | Asbest från<br>privatpersoner<br>lämnas på<br>återvinningscentral<br>som tar emot den<br>typen av avfall. |
+| Spillolja | Spillolja utgör farligt<br>avfall. Spillolja ska<br>sorteras ut och<br>hanteras separat från<br>annat farligt avfall.<br>Spillolja som är<br>isolerolja ska hållas<br>åtskild från andra<br>isoleroljor och andra<br>spilloljor till dess att<br>halten av PCB-<br>produkter i isoleroljan<br>har fastställts.<br>Den som hanterar<br>spillolja ska se till att<br>spilloljan inte blandas<br>med spilloljor med<br>andra egenskaper<br>eller med andra typer<br>av avfall eller ämnen<br>på ett sätt som: | Ska vara emballerat i<br>oljebeständig<br>förpackning och tydligt<br>märkt med uppgift om<br>innehåll. | Spillolja i konsument-<br>förpackning lämnas<br>av privatpersoner på<br>återvinningscentral. |
+|  | Hindrar (1)<br>regenerering av<br>spilloljan, eller<br>(2) annan material-<br>återvinning som ger<br>likvärdiga eller bättre<br>miljöeffekter än<br>regenerering. |  |  |
+| Grovavfall | Grovavfall som utgör<br>kommunalt avfall<br>under kommunalt<br>ansvar och som på<br>grund av avfallets<br>egenskaper behöver<br>hanteras separat från<br>annat kommunalt<br>avfall och avfall<br>under kommunalt<br>ansvar.<br>Avfallet ska sorteras<br>enligt gällande<br>sorterings-<br>instruktioner på ÅVC. | Grovavfall som hämtas<br>av renhållarens<br>utförare ska i den mån<br>det är möjligt buntas<br>eller förpackas i<br>lämpligt emballage.<br>Längder ska vara<br>maximalt 1,2 meter<br>med en största volym<br>av 1 kubikmeter och<br>med en vikt av högst<br>30 kilogram/kolli.<br>Sortering ska ske<br>enligt kommunens<br>instruktioner.<br>Emballaget ska<br>märkas med<br>”grovavfall” och<br>respektive fraktion. | Grovavfall lämnas på<br>återvinningscentral.<br>På<br>återvinningscentralen<br>ska avfallet sorteras<br>och lämnas enligt<br>instruktioner på plats.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Annan transportör<br>godtas enligt 15a§. |
+| Restavfall<br>(Sorterat brännbart kärl-<br>och säckavfall som faller<br>under kommunalt ansvar) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | Ska emballeras i<br>lämpligt material så att<br>avfallet inte kan<br>spridas eller damma<br>vid tömning. | Hämtning sker enligt<br>bilaga 2. |
+| Komposterbart<br>trädgårdsavfall<br>(Till komposterbart<br>trädgårdsavfall räknas<br>växtavfall som<br>uppkommer vid normal<br>trädgårdsskötsel däremot<br>inte fällda träd eller avfall<br>som uppstår vid större<br>anläggningsarbeten i en<br>trädgård.) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | På återvinnings-<br>centralen ska avfallet<br>lämnas enligt<br>instruktioner på plats. | Komposterbart<br>trädgårdsavfall<br>lämnas på<br>återvinningscentral.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Hämtning av<br>komposterbart<br>trädgårdsavfall sker<br>separat från<br>hämtning av annat<br>grovavfall.<br>För abonnemang<br>med hämtning av<br>komposterbart<br>trädgårdsavfall i kärl,<br>ska avfallet läggas<br>löst i kärlet och inte<br>packas så hårt att<br>tömningen försvåras.<br>Annan transportör<br>godtas enligt 15a§<br>Trädgårdsavfall från<br>den egna fastigheten<br>får komposteras på<br>fastigheten.<br>Särskilda regler<br>gäller för avfall som<br>innehåller invasiva<br>växter. |
 
 <!-- sida 138 -->
 
 Ku ngsbacka kommun            Lokala avfallsföreskrifter       25 (34)
 
-[Tabell 138-1](handlingar.tabeller/138-1.csv)
-
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
-| --- | --- | --- | --- |
-| Farligt avfall | Följande produkter<br>eller ämnen utgör<br>exempel på vad som<br>ska hanteras som<br>farligt avfall:<br>• Färg<br>• Lösningsmedel<br>• Kemikalier<br>• Ljuskällor<br>• Bensin och diesel<br>• Bekämpningsmedel<br>• Avfall som<br>innehåller<br>kvicksilver | Ska vara emballerat<br>och tydligt märkt med<br>uppgift om innehåll.<br>Olika typer av farligt<br>avfall får inte blandas<br>eller spädas ut med:<br>(1) andra slag av farligt<br>avfall,<br>(2) annat avfall eller<br>(3) andra ämnen eller<br>material. | Farligt avfall lämnas<br>på<br>återvinningscentral.<br>Hämtning av farligt<br>avfall från fastighet<br>kan beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa. Farligt<br>avfall som inte faller<br>under kommunalt<br>ansvar hanteras ej<br>av kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
-| Asbest | Asbest utgör farligt<br>avfall. | Förpackas väl i kraftig<br>plast (minst 0,2 mm).<br>Avfallet ska vara<br>emballerat så att det är<br>dammtätt.<br>Asbest som är<br>emballerat i sopsäckar<br>tas inte emot. | Asbest från<br>privatpersoner<br>lämnas på<br>återvinningscentral<br>som tar emot den<br>typen av avfall. |
-| Spillolja | Spillolja utgör farligt<br>avfall. Spillolja ska<br>sorteras ut och<br>hanteras separat från<br>annat farligt avfall.<br>Spillolja som är<br>isolerolja ska hållas<br>åtskild från andra<br>isoleroljor och andra<br>spilloljor till dess att<br>halten av PCB-<br>produkter i isoleroljan<br>har fastställts.<br>Den som hanterar<br>spillolja ska se till att<br>spilloljan inte blandas<br>med spilloljor med<br>andra egenskaper<br>eller med andra typer<br>av avfall eller ämnen<br>på ett sätt som: | Ska vara emballerat i<br>oljebeständig<br>förpackning och tydligt<br>märkt med uppgift om<br>innehåll. | Spillolja i konsument-<br>förpackning lämnas<br>av privatpersoner på<br>återvinningscentral. |
-
 <!-- sida 139 -->
 
 Ku ngsbacka kommun            Lokala avfallsföreskrifter       26 (34)
 
-[Tabell 139-1](handlingar.tabeller/139-1.csv)
-
-|  | Hindrar (1)<br>regenerering av<br>spilloljan, eller<br>(2) annan material-<br>återvinning som ger<br>likvärdiga eller bättre<br>miljöeffekter än<br>regenerering. |  |  |
-| --- | --- | --- | --- |
-| Grovavfall | Grovavfall som utgör<br>kommunalt avfall<br>under kommunalt<br>ansvar och som på<br>grund av avfallets<br>egenskaper behöver<br>hanteras separat från<br>annat kommunalt<br>avfall och avfall<br>under kommunalt<br>ansvar.<br>Avfallet ska sorteras<br>enligt gällande<br>sorterings-<br>instruktioner på ÅVC. | Grovavfall som hämtas<br>av renhållarens<br>utförare ska i den mån<br>det är möjligt buntas<br>eller förpackas i<br>lämpligt emballage.<br>Längder ska vara<br>maximalt 1,2 meter<br>med en största volym<br>av 1 kubikmeter och<br>med en vikt av högst<br>30 kilogram/kolli.<br>Sortering ska ske<br>enligt kommunens<br>instruktioner.<br>Emballaget ska<br>märkas med<br>”grovavfall” och<br>respektive fraktion. | Grovavfall lämnas på<br>återvinningscentral.<br>På<br>återvinningscentralen<br>ska avfallet sorteras<br>och lämnas enligt<br>instruktioner på plats.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Annan transportör<br>godtas enligt 15a§. |
-| Restavfall<br>(Sorterat brännbart kärl-<br>och säckavfall som faller<br>under kommunalt ansvar) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | Ska emballeras i<br>lämpligt material så att<br>avfallet inte kan<br>spridas eller damma<br>vid tömning. | Hämtning sker enligt<br>bilaga 2. |
-
 <!-- sida 140 -->
 
 Ku ngsbacka kommun            Lokala avfallsföreskrifter       27 (34)
-
-[Tabell 140-1](handlingar.tabeller/140-1.csv)
-
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
-| --- | --- | --- | --- |
-| Komposterbart<br>trädgårdsavfall<br>(Till komposterbart<br>trädgårdsavfall räknas<br>växtavfall som<br>uppkommer vid normal<br>trädgårdsskötsel däremot<br>inte fällda träd eller avfall<br>som uppstår vid större<br>anläggningsarbeten i en<br>trädgård.) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | På återvinnings-<br>centralen ska avfallet<br>lämnas enligt<br>instruktioner på plats. | Komposterbart<br>trädgårdsavfall<br>lämnas på<br>återvinningscentral.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Hämtning av<br>komposterbart<br>trädgårdsavfall sker<br>separat från<br>hämtning av annat<br>grovavfall.<br>För abonnemang<br>med hämtning av<br>komposterbart<br>trädgårdsavfall i kärl,<br>ska avfallet läggas<br>löst i kärlet och inte<br>packas så hårt att<br>tömningen försvåras.<br>Annan transportör<br>godtas enligt 15a§<br>Trädgårdsavfall från<br>den egna fastigheten<br>får komposteras på<br>fastigheten.<br>Särskilda regler<br>gäller för avfall som<br>innehåller invasiva<br>växter. |
 
 <!-- sida 141 -->
 
@@ -5394,7 +5380,7 @@ Ku ngsbacka kommun            Lokala avfallsföreskrifter       29 (34)
 
 Ku ngsbacka kommun            Lokala avfallsföreskrifter       30 (34)
 
-[Tabell 143-1](handlingar.tabeller/143-1.csv)
+[Tabell 143-144-1](handlingar.tabeller/143-144-1.csv)
 
 | Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
 | --- | --- | --- | --- |
@@ -5402,18 +5388,14 @@ Ku ngsbacka kommun            Lokala avfallsföreskrifter       30 (34)
 | Stickande och skärande<br>avfall under kommunalt<br>ansvar (från hushåll eller<br>uppkommet genom<br>egenvård) |  | Kanyler ska läggas i<br>speciell behållare som<br>tillhandahålls av<br>kommunen via<br>exempelvis apotek.<br>Annat stickande och<br>skärande avfall i<br>mindre volymer ska<br>paketeras väl. | Ska lämnas till<br>apotek som<br>kommunen har avtal<br>med eller på<br>återvinningscentral.<br>Hämtning av fulla<br>behållare från<br>fastighet kan<br>beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa.<br>Välpaketerat<br>stickande och<br>skärande avfall i<br>mindre volymer ska<br>läggas i behållare för<br>brännbart restavfall.<br>Annan transportör<br>godtas enligt 15a§ |
 | Förpackningar | I enlighet med<br>definitionen av<br>förpackning i<br>förordningen<br>(2018:1462) om<br>producentansvar för<br>förpackningar | Lämnas lösa i de<br>behållare/ kärl som<br>tillhandahålls/anvisas | Se sorteringskrav i<br>13a§<br>Annan transportör<br>godtas enligt 15a§ |
 | Returpapper | I enlighet med<br>definitionen av<br>returpapper i<br>avfallsförordningen<br>(2020:614) | Lämnas löst i de<br>behållare/kärl som<br>tillhandahålls/anvisas. | Ska lämnas i de<br>insamlingssystem<br>som tillhandahålls av<br>kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
+| Kasserade bilbatterier | I enlighet med<br>definitionen av<br>batteri i<br>batteriförordningen<br>(2008:834) | Ställs upp på ett sätt<br>som förhindrar att<br>batterisyra/innehåll<br>rinner ut. | Ska lämnas i de<br>insamlingssystem<br>som tillhandahålls av<br>kommunen eller<br>producent.<br>Tas ej emot från<br>verksamheter. |
+| Kasserade bärbara<br>batterier<br>Om kasserade produkter<br>innehåller lösa bärbara<br>batterier ska dessa<br>plockas ur. Är de bärbara<br>batterierna inbyggda i<br>produkten hanteras den<br>som avfall från<br>el-utrustning. | I enlighet med<br>definitionen av<br>bärbart batteri i<br>batteriförordningen<br>(2008:834) |  | Ska lämnas i de<br>insamlingssystem<br>som tillhandahålls av<br>kommunen eller<br>producent.<br>För verksamheter<br>gäller särskilda<br>regler. |
+| Konsumentelavfall/elavfall | Skrymmande<br>konsumentelavfall/el<br>avfall ska sorteras ut<br>och hållas skilt från<br>annat grovavfall.<br>Smått<br>konsumentelavfall/ela<br>vfall ska sorteras ut<br>och hållas skilt från<br>kärl- och säckavfall. |  | Konsumentelavfall<br>lämnas vid<br>återvinningscentral<br>eller till en producent.<br>På<br>återvinningscentralen<br>ska avfallet lämnas<br>enligt instruktioner på<br>plats. Hämtning av<br>skrymmande<br>konsumentelavfall<br>kan beställas med<br>tjänster för grovavfall<br>enligt kommunens<br>avfallstaxa.<br>För verksamheter<br>gäller särskilda<br>regler.<br>Se övriga<br>bestämmelser<br>kring transport i<br>15a§. |
+| Läkemedel | I enlighet med<br>definitionen av<br>läkemedel i<br>förordningen<br>(2009:1031) om<br>producentansvar för<br>läkemedel. | Ska lämnas i<br>behållare/ påse som<br>tillhandahålls av<br>apoteket. | Lämnas till apotek. |
 
 <!-- sida 144 -->
 
 Ku ngsbacka kommun            Lokala avfallsföreskrifter       31 (34)
-
-[Tabell 144-1](handlingar.tabeller/144-1.csv)
-
-| Kasserade bilbatterier | I enlighet med<br>definitionen av<br>batteri i<br>batteriförordningen<br>(2008:834) | Ställs upp på ett sätt<br>som förhindrar att<br>batterisyra/innehåll<br>rinner ut. | Ska lämnas i de<br>insamlingssystem<br>som tillhandahålls av<br>kommunen eller<br>producent.<br>Tas ej emot från<br>verksamheter. |
-| --- | --- | --- | --- |
-| Kasserade bärbara<br>batterier<br>Om kasserade produkter<br>innehåller lösa bärbara<br>batterier ska dessa<br>plockas ur. Är de bärbara<br>batterierna inbyggda i<br>produkten hanteras den<br>som avfall från<br>el-utrustning. | I enlighet med<br>definitionen av<br>bärbart batteri i<br>batteriförordningen<br>(2008:834) |  | Ska lämnas i de<br>insamlingssystem<br>som tillhandahålls av<br>kommunen eller<br>producent.<br>För verksamheter<br>gäller särskilda<br>regler. |
-| Konsumentelavfall/elavfall | Skrymmande<br>konsumentelavfall/el<br>avfall ska sorteras ut<br>och hållas skilt från<br>annat grovavfall.<br>Smått<br>konsumentelavfall/ela<br>vfall ska sorteras ut<br>och hållas skilt från<br>kärl- och säckavfall. |  | Konsumentelavfall<br>lämnas vid<br>återvinningscentral<br>eller till en producent.<br>På<br>återvinningscentralen<br>ska avfallet lämnas<br>enligt instruktioner på<br>plats. Hämtning av<br>skrymmande<br>konsumentelavfall<br>kan beställas med<br>tjänster för grovavfall<br>enligt kommunens<br>avfallstaxa.<br>För verksamheter<br>gäller särskilda<br>regler.<br>Se övriga<br>bestämmelser<br>kring transport i<br>15a§. |
-| Läkemedel | I enlighet med<br>definitionen av<br>läkemedel i<br>förordningen<br>(2009:1031) om<br>producentansvar för<br>läkemedel. | Ska lämnas i<br>behållare/ påse som<br>tillhandahålls av<br>apoteket. | Lämnas till apotek. |
 
 <!-- sida 145 -->
 
@@ -5490,61 +5472,41 @@ Ku ngsbacka kommun            Lokala avfallsföreskrifter       34 (34)
 
 Bilaga 1 Sammanställning av korrigeringar gjorda efter utställningstiden
 
-[Tabell 148-1](handlingar.tabeller/148-1.csv)
+[Tabell 148-153-1](handlingar.tabeller/148-153-1.csv)
 
 | Paragraf | Kommentar | Uppdaterat enligt följande |
 | --- | --- | --- |
 | 2§ punkt 1. d | Lägg till parkavfall och<br>uppdatera i enlighet<br>med Avfall Sveriges<br>mall. (A&Å) | Följande text:<br>Med trädgårdsavfall avses sådant biologiskt nedbrytbart trädgårdsavfall i enlighet<br>med definitionen i 1 kap. 5 § 1 punkten avfallsförordningen (2020:614) som<br>uppstår vid normalt nyttjande av trädgård vid bostadshus och sådant avfall från<br>andra källor som är kommunalt avfall i enlighet med 15 kap. 3 § miljöbalken.<br>Byts till:<br>Med trädgårdsavfall avses sådant biologiskt nedbrytbart trädgårds- och<br>parkavfall i enlighet med definitionen i 1 kap. 5 § 1 punkten avfallsförordningen<br>(2020:614) som uppstår i trädgård vid bostadshus och sådant avfall från andra<br>källor som är kommunalt avfall i enlighet med 15 kap. 3 § miljöbalken. |
 | 2§ (punkt 10) | Se över definitionen<br>av yrkesmässig<br>verksamhet.<br>Det kan vara bra att<br>”lätta” på definitionen.<br>Det blir svårigheter för<br>tillsynsmyndigheten<br>om Kungsbacka<br>kommun definierar<br>yrkesmässig<br>verksamhet ”striktare”<br>än exempelvis | Följande korrigering görs:<br>10. Yrkesmässig verksamhet innebär att tjänster utförs mot betalning och i<br>kommersiellt syfte. Undantaget är skolor och ideella föreningar som utför en<br>tjänst för att samla in pengar till ett visst ändamål, exempelvis klassresa eller<br>idrottsevenemang.<br>Byts till:<br>”10. Så länge inte annat framgår i gällande lagstiftning innebär med yrkesmässig<br>verksamhet i dessa föreskrifter att någon regelbundet utför tjänster mot betalning.<br>Tillfälliga arbeten och kortare uppdrag av obetydlig omfattning räknas här inte som<br>yrkesmässig verksamhet. Till yrkesmässig verksamhet räknas inte heller skolor eller |
-
-<!-- sida 149 -->
-
-[Tabell 149-1](handlingar.tabeller/149-1.csv)
-
 |  | Naturvårdsverket,<br>polismyndigheten eller<br>skatteverket.<br>Naturvårdsverkets<br>utredning kring<br>behovet av tydligare<br>definition skall vara<br>klar 17/10. Vi behöver<br>innan dess bestämma<br>hur vi definierar en<br>yrkesmässig<br>verksamhet i<br>Kungsbacka.<br>(A&Å, avstämt med<br>MH) | ideella föreningar som utför en tjänst för att samla in pengar till ett visst ändamål,<br>exempelvis klassresa eller idrottsevenemang. |
-| --- | --- | --- |
 | 11–13§ | Vård & Omsorg kan<br>se en viss påverkan<br>av beviljad<br>biståndsinsats utifrån<br>insatser till personer i<br>kvarboende som inte<br>själva kan hantera<br>separering av sitt<br>matavfall. Vidare finns<br>det personer med<br>kognitiva<br>funktionsnedsättningar<br>som ex<br>demenssjukdom som<br>bor i ordinärt boende<br>och hanterar sina | Inga förändringar föreslås baserat på Vård & Omsorgs yttrande. A&Å har kikat<br>närmare på kommentar kring VO´s yttrande i internt möte. Möjlighet att söka<br>dispens finns i föreslagna föreskrifter. |
-
-<!-- sida 150 -->
-
-[Tabell 150-1](handlingar.tabeller/150-1.csv)
-
 |  | sopor själva och här<br>ser Vård & Omsorg en<br>risk för felsortering. I<br>övrigt så har Vård &<br>Omsorg inga<br>synpunkter på<br>förslaget. |  |
-| --- | --- | --- |
 | 13c§ | I 13c§ bör vi förtydliga att<br>ytterligare föreskrifter om<br>hantering av invasiva arter<br>återfinns i bilaga 1. (Möte<br>A&Å, MH) | Rödmarkerat byts till fet text nedan:<br>13c§ Avfall i form av invasiva växter ska sorteras ut och hållas skiljt från annat avfall<br>och sorteras ut från annat biologiskt avfall samt hanteras i enlighet med<br>sorteringsanvisningarna till avfallsföreskrifterna.<br>Byts till:<br>13c§ Avfall i form av invasiva växter ska sorteras ut och hållas skiljt från annat avfall<br>och sorteras ut från annat biologiskt avfall samt hanteras i enlighet med<br>sorteringsanvisningarna i bilaga 1. |
 | 15§ | 15§ bör uppdateras enligt<br>Avfall Sveriges mall | Rödmarkerat läggs till:<br>15 § Avfall under kommunalt ansvar ska lämnas till och transporteras bort av<br>renhållaren eller renhållarens utförare, om inte annat sägs i dessa föreskrifter och<br>dess bilaga 1. |
 | 15§ | Vi kan inte ha formuleringen<br>i föreskrifterna utan att<br>auktorisera företag för<br>hämtning av farligt avfall<br>från verksamheter. Avstämt<br>med Avfall Sverige. (A&Å) | Nedan stryks i 15a<br>15a§ Grovavfall, bioavfall i form av trädgårds- och parkavfall, farligt avfall, bygg-<br>och rivningsavfall som inte har uppstått i en yrkesmässig verksamhet samt<br>annat avfall under kommunalt ansvar som markerats i bilaga 1, får lämnas till<br>annan än renhållaren eller renhållarens utförare, för borttransport till den eller de<br>platser i kommunen där kommunen tar emot sådant avfall. Yrkesmässiga<br>utförare får dock endast anlitas av yrkesmässig verksamhet för avfall som<br>uppstått i den egna verksamheten. Farligt avfall från yrkesmässig verksamhet |
-
-<!-- sida 151 -->
-
-[Tabell 151-1](handlingar.tabeller/151-1.csv)
-
 |  |  | tas inte emot på kommunens återvinningscentraler men får lämnas till annan<br>aktör med tillstånd för hantering av den typen av avfall.<br>Enligt 5 kap. 18 § avfallsförordningen (2020:614) ska yrkesmässig verksamhet som<br>lämnar avfallet till någon annan än kommunen eller de som kommunen anlitat,<br>kontrollera att den som tar emot avfallet har gjort de anmälningar eller har de tillstånd<br>som krävs för hanteringen. Vid yrkesmässig transport av farligt avfall inklusive elavfall,<br>ska även upprättas transportdokument och utföras den anteckning och rapportering<br>som krävs enligt 6 kap. avfallsförordningen. |
-| --- | --- | --- |
 | 22§ | Det finns ingen information<br>om att kärlen skall vara i<br>tömbart skick likt i<br>avfallsfoldern och i taxan.<br>Kungsbacka Direkt föreslår<br>att vi kompletterar med<br>detta i 22§. | Fetmarkerad text läggs till i 22§:<br>22§ Behållare får inte fyllas mer än att den kan stängas. Den får inte heller<br>vara så tung att det blir uppenbara svårigheter att flytta den eller att<br>arbetsmiljökrav inte kan tillgodoses. Behållare bör vara fri från snö och is<br>och avfallet ska gå att tömma utan svårigheter, det vill säga att avfallet<br>inte är fastfruset eller intorkat i kärlet vid hämtningstillfället. |
 | 23§ | Vi bör lägga till information<br>om hur kärl i miljörum skall<br>placeras inför tömning.<br>Förtydligande i 23§ föreslås.<br>Text att hämta finns i Avfall<br>Sveriges handbok för<br>avfallsutrymmen. (K&K,<br>A&Å) | Fetmarkerad text läggs till i 23§<br>23§ För en- och tvåfamiljsfastigheter gäller att behållaren senast kl. 06.00<br>på hämtningsdagens morgon ska vara uppställd vid hämtningsplatsen med<br>draghandtaget vänt utåt mot bilvägen. Kärl i miljörum ska placeras så att<br>draghandtaget utan svårighet kan nås från gången. Detta så att<br>hämtning underlättas och hantering med den utrustning som används i<br>kommunens renhållningssystem kan ske. Behållare ska kunna flyttas utan<br>svårighet. Anordningar såsom kedja, snöre eller rep ska kunna avlägsnas<br>utan svårighet. |
 | 31§ | Vi bör ha bättre möjligheter<br>att säkerställa en god<br>arbetsmiljö och en säker<br>hämtning av avfall. Hela 24§ | 31§ Renhållaren eller renhållarens utförare har rätt att inte utföra ordinarie<br>hämtning om föreskrifterna i 13§, 16§, 21§ 2 st., 22§, 24§ 1–3 st., 6 st. och<br>8 och 9 st. samt 28§ inte följs. |
-
-<!-- sida 152 -->
-
-[Tabell 152-1](handlingar.tabeller/152-1.csv)
-
 |  | bör ingå under skrivelse i<br>31§. | Byts till:<br>31§ Renhållaren eller renhållarens utförare har rätt att inte utföra ordinarie<br>hämtning om föreskrifterna i 13§, 16§, 21§ 2 st., 22§, 24§ samt 28§ inte<br>följs. |
-| --- | --- | --- |
 | 31b§ | 31b§ bör bytas till 31a§ för<br>att vi skall vara konsekventa<br>i dokumentet. (A&Å) | 31b§ är bytt till 33a§ |
 | 32§ | Lägg till att även 31a<br>(tidigare 31b§) gäller för<br>verksamheter. (A&Å) | Paragrafhänvisning i 32b uppdaterad till 13-31a§§. |
 | 32§ | 32§ bör uppdateras<br>enligt Avfall Sveriges<br>mall. | Avfall under kommunalt ansvar från verksamheter ska hållas skilt från annat<br>avfall än avfall under kommunalt ansvar. För avfall under kommunalt ansvar<br>från verksamheter gäller 13–31 §§ om ej annat anges i dessa föreskrifter.<br>Byts till:<br>Utöver vad som föreskrivs i 13-31a§§ ska verksamheter hålla avfall under<br>kommunalt ansvar åtskilt från annat avfall. |
 | 32§ | Tillägg i form av 32a§<br>bör göras för att<br>matcha 24a§ i Avfall<br>Sveriges mall. 8a§ i<br>mallen är 13a§ i<br>Kungsbackas<br>föreskrifter så detta<br>måste ändras i ny<br>paragraf 32a§ | Följande läggs till efter 32§:<br>32a§ Verksamheter som har avfallshantering som är samlokaliserad med<br>hushåll och som har anmält att verksamheten vill ha kommunal insamling av<br>förpackningsavfall eller skrymmande<br>förpackningsavfall ska sortera ut förpackningsavfallet i enligt 13a§ och<br>lämna det till ett insamlingssystem som kommunen eller den som<br>renhållaren eller renhållarens utförare tillhandahåller. |
-
-<!-- sida 153 -->
-
-[Tabell 153-1](handlingar.tabeller/153-1.csv)
-
 |  |  | För plastflaskor och metallburkar som är avsedda för ett retursystem gäller i<br>stället att sådana alltid ska lämnas till retursystemet i enlighet med 13a§.<br>Bestämmelsen i 13a§ om att utsorterat läkemedelsavfall och förpackningar<br>innehållande läkemedelsavfall ska lämnas till apotek, gäller endast hushåll.<br>Närmare föreskrifter om sortering återfinns i bilaga 1. |
-| --- | --- | --- |
 | 33a§ | 33a§ bör bytas till 33§ och<br>33b bör bytas till 33a§ om vi<br>skall vara konsekventa i<br>dokumentet. (A&Å) | Paragrafnummer har uppdaterats. |
 | 33§ + 33a§ (Innan<br>ändring 33a+b§) | Vi har nu “Regler för<br>oljeavskiljare kopplade till<br>kommunalt spillvattennät”<br>som kan vara bra att lyfta i<br>föreskrifterna.<br>Det är dock bra om vi håller<br>det på en övergripande nivå<br>om regler ändras. A&Å har<br>stämt av med<br>Avloppsrening.<br>Avloppsrening önskar lägga<br>till följande i 33b§: Utöver<br>gällande lagstiftning ska<br>lokala regler för annat avfall<br>än avfall under kommunalt<br>ansvar från verksamheter<br>följas. | Fetmarkerad text läggs till i 33a§ (tidigare 33b§)<br>33a§ För den som driver en yrkesmässig verksamhet och har oljeavskiljare eller<br>annan vattenreningsanläggning avsedd för spillvatten kopplat till kommunens<br>spillvattennät ska resultat av utförda kontroller, tömningar och besiktningar lämnas på<br>begäran till nämnden för Teknik. Nämnden för Teknik ska ges möjlighet att yttra sig<br>vid nyinstallation och vid förändringar av verksamheten som rör funktionen av<br>oljeavskiljaren eller annan vattenreningsanläggning avsedd för spillvatten.<br>Utöver gällande lagstiftning ska lokala regler för annat avfall än avfall under<br>kommunalt ansvar från verksamheter följas. |
 | 36§ | Synpunkter från MH<br>inkomna under utställning:<br>”Under mötet tas synpunkt<br>upp om att det i nuvarande<br>formulering i 36 § | 36§ uppdateras till följande:<br>36§ Komposterbart trädgårdsavfall från fastigheten får komposteras på fastigheten<br>utan särskild anmälan. Trädgårdsavfall som innehåller invasiva växter ska<br>hanteras i enlighet med 13c§. |
+
+<!-- sida 149 -->
+
+<!-- sida 150 -->
+
+<!-- sida 151 -->
+
+<!-- sida 152 -->
+
+<!-- sida 153 -->
 
 <!-- sida 154 -->
 
@@ -5585,7 +5547,7 @@ Första meningen i 36
 
 <!-- sida 155 -->
 
-[Tabell 155-1](handlingar.tabeller/155-1.csv)
+[Tabell 155-157-1](handlingar.tabeller/155-157-1.csv)
 
 |  | trädgårdsavfall från<br>fastigheten får<br>komposteras på<br>fastigheten utan<br>särskild anmälan.”<br>Utöver detta så har vi inga<br>synpunkter på de tilltänkta<br>avfallsföreskrifterna. |  |
 | --- | --- | --- |
@@ -5593,24 +5555,16 @@ Första meningen i 36
 | 46§ (ny) | Rubrik angående<br>insamling av<br>förpackningsavfall från<br>samlokaliserade<br>varsamheter saknas.<br>Lägg till enligt mall<br>och uppdatera<br>paragrafhänvisningar.<br>Förslag: Minst 1<br>månad före det att<br>man önskar starta<br>insamlingen måste<br>man ansöka. (A&Å) | Ny rubrik och 46§ tillagd:<br>Anmälan avseende insamling<br>av förpackningsavfall för<br>samlokaliserade verksamheter<br>46 § En verksamhet i en fastighet som har fastighetsnära insamling av<br>förpackningsavfall och som har en avfallshantering som är samlokaliserad<br>med hushållens ska anmäla till kommunen att den<br>vill ha kommunal insamling senast en (1) månad innan insamlingen ska påbörjas. |
 | Förstasidan | Lägg till trevlig bild på<br>förstasidan likt i Göteborgs<br>föreskrifter. (A&Å) | Tillagt |
 | Innehållsförteckning | Det blir enklare att hitta i<br>dokumentet om man har en | Tillagt |
-
-<!-- sida 156 -->
-
-[Tabell 156-1](handlingar.tabeller/156-1.csv)
-
 |  | innehållsförteckning. Se<br>Göteborgs stads föreskrifter<br>tex. (A&Å) |  |
-| --- | --- | --- |
 | Rubrik ”Andra<br>undantag” | Paragrafnummer saknas.<br>(A&Å) | ”47§” läggs till framför Andra undantag. |
 | Bilaga 1<br>Komposterbart<br>trädgårdsavfall | Lägg till i bilaga 1 info om<br>möjlighet till att kompostera<br>trädgårdsavfall på egen<br>fastighet. Just nu står det<br>bara att man får åka till<br>ÅVC. (Kommentar från möte<br>A&Å och MH 19/6) | Tillägg i bilaga 1 under komposterbart trädgårdsavfall: Trädgårdsavfall från den<br>egna fastigheten får komposteras på fastigheten. Särskilda regler gäller för<br>avfall som innehåller invasiva växter. |
 | Bilaga 1<br>Komposterbart<br>trädgårdsavfall | 1. Förtydliga i tabellen vad<br>som avses samt ta bort<br>att det bara gäller avfall<br>från småhus.<br>2. I krav på emballering och<br>instruktion för<br>hämtning/lämning finns<br>en upprepning. Stryk ena<br>stycket.<br>3. Förtydliga instruktion för<br>hämtning/lämning. Ta<br>bort att det endast gäller<br>avfall från hushåll.<br>(A&Å) | 1. Under ” Typ av avfall som ska sorteras ut och hållas skiljt från annat avfall” byts:<br>(Till trädgårdsavfall räknas komposterbart och växtavfall som uppkommer vid normal<br>trädgårdsskötsel i småhus, däremot inte fällda träd eller avfall som uppstår vid större<br>anläggningsarbeten i en trädgård.)<br>till:<br>(Till komposterbart trädgårdsavfall räknas växtavfall som uppkommer vid normal<br>trädgårdsskötsel, däremot inte fällda träd eller avfall som uppstår vid större<br>anläggningsarbeten i en trädgård.)<br>2. Följande stryks från ”krav på emballering med mera”:<br>För alternativ med abonnemang med hämtning av trädgårdsavfall i kärl, ska avfallet<br>läggas löst i kärlet och inte packas så hårt att tömningen försvåras.<br>3. Under ”Instruktion för hämtning/lämning” byts:<br>Trädgårdsavfall från hushållen lämnas på återvinningscentral.<br>Hämtning från fastighet kan beställas separat enligt kommunens avfallstaxa. |
+|  |  | Hämtning av trädgårdsavfall sker separat från hämtning av annat grovavfall.<br>För abonnemang med hämtning av trädgårdsavfall i kärl, ska avfallet läggas löst i<br>kärlet och inte packas så hårt att tömningen försvåras.<br>Annan transportör godtas enligt 15a§<br>Trädgårdsavfall från den egna fastigheten får komposteras på fastigheten. Särskilda<br>regler gäller för avfall som innehåller invasiva växter.<br>till:<br>Komposterbart trädgårdsavfall lämnas på återvinningscentral.<br>Hämtning från fastighet kan beställas separat enligt kommunens avfallstaxa.<br>Hämtning av komposterbart trädgårdsavfall sker separat från hämtning av annat<br>grovavfall.<br>För abonnemang med hämtning av komposterbart trädgårdsavfall i kärl, ska avfallet<br>läggas löst i kärlet och inte packas så hårt att tömningen försvåras.<br>Annan transportör godtas enligt 15a§<br>Trädgårdsavfall från den egna fastigheten får komposteras på fastigheten. Särskilda<br>regler gäller för avfall som innehåller invasiva växter. |
+| Bilaga 1<br>Trädgårdsavfall i<br>form av grövre ris<br>och grenar (ny<br>fraktion i bilaga 1) | Ny fraktion bör läggas till i<br>bilaga 1 för att visa att vi<br>kan ge dispens för annan<br>hantering av visst material.<br>Det handlar om ris och<br>grenas där man i vissa fall<br>skulle kunna få dispens mot<br>eldningsförbudet. | Bilaga 1 har kompletterats med ”ny” fraktion:<br>”Trädgårdsavfall i form av grövre ris och grenar”<br>I bilagan framgår nu hur detta material skall hanteras samt vilka alternativ för<br>hämtning/lämning som finns. |
+
+<!-- sida 156 -->
 
 <!-- sida 157 -->
-
-[Tabell 157-1](handlingar.tabeller/157-1.csv)
-
-|  |  | Hämtning av trädgårdsavfall sker separat från hämtning av annat grovavfall.<br>För abonnemang med hämtning av trädgårdsavfall i kärl, ska avfallet läggas löst i<br>kärlet och inte packas så hårt att tömningen försvåras.<br>Annan transportör godtas enligt 15a§<br>Trädgårdsavfall från den egna fastigheten får komposteras på fastigheten. Särskilda<br>regler gäller för avfall som innehåller invasiva växter.<br>till:<br>Komposterbart trädgårdsavfall lämnas på återvinningscentral.<br>Hämtning från fastighet kan beställas separat enligt kommunens avfallstaxa.<br>Hämtning av komposterbart trädgårdsavfall sker separat från hämtning av annat<br>grovavfall.<br>För abonnemang med hämtning av komposterbart trädgårdsavfall i kärl, ska avfallet<br>läggas löst i kärlet och inte packas så hårt att tömningen försvåras.<br>Annan transportör godtas enligt 15a§<br>Trädgårdsavfall från den egna fastigheten får komposteras på fastigheten. Särskilda<br>regler gäller för avfall som innehåller invasiva växter. |
-| --- | --- | --- |
-| Bilaga 1<br>Trädgårdsavfall i<br>form av grövre ris<br>och grenar (ny<br>fraktion i bilaga 1) | Ny fraktion bör läggas till i<br>bilaga 1 för att visa att vi<br>kan ge dispens för annan<br>hantering av visst material.<br>Det handlar om ris och<br>grenas där man i vissa fall<br>skulle kunna få dispens mot<br>eldningsförbudet. | Bilaga 1 har kompletterats med ”ny” fraktion:<br>”Trädgårdsavfall i form av grövre ris och grenar”<br>I bilagan framgår nu hur detta material skall hanteras samt vilka alternativ för<br>hämtning/lämning som finns. |
 
 <!-- sida 158 -->
 

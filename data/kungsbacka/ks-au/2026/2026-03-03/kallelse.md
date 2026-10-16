@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3fcba5dd19c985df70620d35/1772190275
 sha256: eb52ce27272de9198b909cfb41533d41d89d0554a11d3ab8d518a8d7085c128f
 bytes: 225461
 sidor: 6
-hamtad: 2026-10-09T08:25:59+00:00
-konverterad: 2026-10-09T08:26:04+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-16T06:16:47+00:00
+konverterad: 2026-10-16T06:16:53+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok]
@@ -74,12 +74,21 @@ KUNGSBACKA  KOMMUN
 
 3 (6)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
+[Tabell 3-5-1](kallelse.tabeller/3-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 9. | Svar på motion från Elisabeth<br>Sahlsten (MP) m.fl. om<br>åtgärder för minskad<br>dricksvattenförbrukning och<br>pilotprojekt för hållbar<br>bostadsbebyggelse i<br>Forsbergen | 2025-00357 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad, i de<br>delar som avser att uppmuntra enskilda<br>fastighetsägare och byggentreprenörer att installera<br>vattenbesparande utrustning, erbjuda rådgivning och<br>tips till de fastighetsägare som vill installera<br>vattenbesparande system och cirkulerande system för<br>till exempel regnvatten och gråvatten samt<br>uppmuntra innovativ teknik för att använda<br>regnvatten och återcirkulerat gråvatten, med<br>hänvisning till det arbete som redan pågår för att<br>minska vattenförbrukningen hos hushåll och företag.<br>Kommunfullmäktige anser motionen besvarad, i den<br>del som avser att ge Eksta Bostads AB i uppdrag att<br>skissa på ett pilotsystem med hållbar<br>bostadsbebyggelse förslagsvis i Forsbergen, med<br>hänvisning till att Ekstas ägardirektiv redan anger att<br>bolaget ska ha en tydlig energi- och miljöprofil och<br>bygga med höga krav inom energi- och<br>miljöområdet.<br>Kommunfullmäktige anser motionen besvarad, i den<br>del som avser att utreda hur källsortering av<br>avloppsvatten kan testas i en pilotanläggning, med<br>hänvisning till att en eventuell utredning om<br>pilotprojekt för källsorterande avlopp kan ses som en<br>del av nämnden för Tekniks ordinarie uppdrag och att<br>nämnden själv behöver besluta om prioritering och<br>fördelning av resurser för att genomföra en sådan<br>utredning. |
 | 10. | Begäran om planbesked för<br>Särö 1:320 | 2025-00931 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av ett garage inom Särö 1:320, i Särö.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>ändring av detaljplan inom Särö 1:320 i Särö. |
+| 11. | Begäran om planbesked Varla<br>6:19 | 2025-00907 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av kontor och verksamheter inom Varla<br>6:19, i Kungsbacka.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för kontor och verksamheter inom Varla<br>6:19, i Kungsbacka. |
+| 12. | Information om arbetet med<br>Kungsbacka Arena<br>08.50–09.20<br>Sven-Erik Bergström, SBK<br>Lena Melvinsdotter, SBK<br>Ing-Britt Blomberg, KLK<br>Peter Johansson, SE<br>Maria Rosenberg, SE<br>Julia Tryggvadottir Tollesson,<br>SE<br>Pia Eklund, SE<br>Alexander Arvidsson, SE<br>Marie Persson, KFT<br>Harald Tjelle, KFT<br>Julia Ryding Wikberg, KFT<br>Emir Halalkic, TE | 2020-00547 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 13. | Avstämning om inriktning för<br>etableringar inom Klovsten<br>09.25–09.40<br>Simon Vedlund<br>Elinor Filipsson | 2026-00128 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 14. | Information inför<br>projektansökan om<br>kompensationssystem för<br>minskad näringstillförsel i<br>Kungsbackaåns<br>avrinningsområde<br>09.45–09.55<br>Mårten Västerdal<br>Anders Lund | 2026-00129 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 15. | Avstämning planprogram för<br>Åsa station<br>11.15–11.45<br>Stina Wikström<br>Ida Lennartsson | 2024-00218 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 16. | Avstämning avsiktsförklaring<br>avseende del av kv. Samariten<br>11.45–12.00<br>Johan Gerremo | 2024-00673 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 17. | Information om organisering<br>av datadriven organisation<br>13.00–13.30<br>Anders Johansson | 2026-00130 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 18. | Information om<br>valfrihetssystem enligt LOV<br>13.35-13.50<br>Anders Johansson | 2025-00962 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 19. | Information ledamöter och<br>förvaltning | 2025-00975 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
 
 <!-- sida 4 -->
 
@@ -87,30 +96,11 @@ KUNGSBACKA  KOMMUN
 
 4 (6)
 
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | Begäran om planbesked Varla<br>6:19 | 2025-00907 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av kontor och verksamheter inom Varla<br>6:19, i Kungsbacka.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för kontor och verksamheter inom Varla<br>6:19, i Kungsbacka. |
-| 12. | Information om arbetet med<br>Kungsbacka Arena<br>08.50–09.20<br>Sven-Erik Bergström, SBK<br>Lena Melvinsdotter, SBK<br>Ing-Britt Blomberg, KLK<br>Peter Johansson, SE<br>Maria Rosenberg, SE<br>Julia Tryggvadottir Tollesson,<br>SE<br>Pia Eklund, SE<br>Alexander Arvidsson, SE<br>Marie Persson, KFT<br>Harald Tjelle, KFT<br>Julia Ryding Wikberg, KFT<br>Emir Halalkic, TE | 2020-00547 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 13. | Avstämning om inriktning för<br>etableringar inom Klovsten<br>09.25–09.40<br>Simon Vedlund<br>Elinor Filipsson | 2026-00128 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-
 <!-- sida 5 -->
 
 KUNGSBACKA  KOMMUN
 
 5 (6)
-
-[Tabell 5-1](kallelse.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 14. | Information inför<br>projektansökan om<br>kompensationssystem för<br>minskad näringstillförsel i<br>Kungsbackaåns<br>avrinningsområde<br>09.45–09.55<br>Mårten Västerdal<br>Anders Lund | 2026-00129 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 15. | Avstämning planprogram för<br>Åsa station<br>11.15–11.45<br>Stina Wikström<br>Ida Lennartsson | 2024-00218 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 16. | Avstämning avsiktsförklaring<br>avseende del av kv. Samariten<br>11.45–12.00<br>Johan Gerremo | 2024-00673 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 17. | Information om organisering<br>av datadriven organisation<br>13.00–13.30<br>Anders Johansson | 2026-00130 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 18. | Information om<br>valfrihetssystem enligt LOV<br>13.35-13.50<br>Anders Johansson | 2025-00962 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 19. | Information ledamöter och<br>förvaltning | 2025-00975 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
 
 <!-- sida 6 -->
 

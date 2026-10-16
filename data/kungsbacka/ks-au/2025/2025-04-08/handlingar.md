@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.2a9cb4ab195dc3282fcd9f6a/1743779281
 sha256: 4525adc164c04e1fbd4b6d60edc4efb4e8885b91d681458990f45d649b43eab1
 bytes: 70591783
 sidor: 359
-hamtad: 2026-10-09T10:11:33+00:00
-konverterad: 2026-10-09T10:15:35+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T08:05:49+00:00
+konverterad: 2026-10-16T08:10:02+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok]
-tal_obekraftade: [9, 13, 35, 36, 51, 64, 72, 78, 95, 96, 103, 113, 118, 122, 123, 139, 147, 149, 156, 160, 161, 173, 175, 179, 194, 195, 196, 197, 198, 199, 200, 201, 202, 209, 211, 212, 219, 220, 221, 222, 227, 251, 252, 255, 256, 262, 264, 269, 270, 271, 272, 273, 274, 275, 282, 283, 284, 285, 286, 287, 288, 289, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 343, 344, 345, 346, 347, 348, 357, 358]
+tal_obekraftade: [9, 13, 35, 36, 51, 64, 72, 78, 89, 95, 96, 103, 113, 118, 122, 123, 139, 147, 149, 156, 160, 161, 173, 175, 179, 194, 195, 196, 197, 198, 199, 200, 201, 202, 209, 211, 212, 219, 220, 221, 222, 227, 251, 252, 255, 256, 262, 264, 269, 270, 271, 272, 273, 274, 275, 276, 277, 282, 283, 284, 285, 286, 287, 288, 289, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 343, 344, 345, 346, 347, 348, 357, 358]
 figurer: [9, 10, 12, 17, 38, 41, 58, 73, 77, 78, 84, 85, 90, 91, 92, 93, 97, 98, 101, 104, 106, 107, 114, 115, 117, 118, 121, 124, 125, 128, 129, 131, 132, 133, 134, 135, 136, 140, 141, 142, 143, 144, 146, 150, 153, 154, 155, 156, 157, 158, 161, 162, 163, 173, 182, 189, 191, 192, 194, 196, 197, 198, 199, 200, 201, 204, 205, 207, 208, 209, 213, 215, 217, 218, 220, 221, 222, 223, 225, 227, 230, 266, 267, 268, 269, 270, 272, 273, 274, 275, 276, 277, 282, 284, 285, 286, 287, 288, 290, 294, 297, 300, 303, 304, 305, 306, 307, 308, 309, 310, 311, 313, 321, 324, 330, 332, 337, 338, 339, 340, 341, 343, 344, 345, 346, 347, 348, 353, 354, 355, 357, 359]
 tolkade: []
 ---
@@ -58,7 +58,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -68,20 +68,19 @@ KUNGSBACKA  KOMMUN
 | 8. | Begäran om planbesked för<br>Bukärr 3:86 | 2024-00874 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Bukärr 3:86, i Särö. |
 | 9. | Begäran om planbesked för del<br>av Bångsbo 4:1 | 2025-00061 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom del av Bångsbo 4:1 i Kullavik. |
 | 10. | Begäran om planbesked för<br>Hede 1:53 | 2024-00878 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av skola inom Hede 1:53 i Kungsbacka<br>stad.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>ny detaljplan för Hede 1:53 i Kungsbacka stad. |
+| 11. | Begäran om planbesked för Åsa<br>5:197 och 5:70 | 2024-00876 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>möjligheten att utveckla befintlig verksamhet inom<br>Åsa 5:197 och 5:70, i Åsa. Möjlig exploatering,<br>såsom placering av byggnader och våningsantal, ska<br>utredas under detaljplanearbetet.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för folkhögskola med internat inom Åsa<br>5:197 och 5:70, i Åsa. |
+| 12. | Avstämning om lokalplanering<br>(från årshjul)<br>08:50-09:35<br>Lovisa Eld<br>Maria Rosenberg<br>Ing-Britt Blomberg<br>Julia Tryggvadottir Tollesson<br>Christina Wenander<br>Markus Mentzer<br>Mats Söderström | 2025-00024 |  |
+| 13. | Information om arbetet med<br>Onsalavägen 940<br>10:00-10:30<br>Agneta Nordström<br>Peter Gustavsson<br>Anders Lund<br>Trafikverket<br>Jörgen Einarsson, Regional<br>direktör<br>Lydia Lehtonen, projektledare<br>investering | 2025-00262 |  |
+| 14. | Information om handläggning<br>av ärende om försäljning av<br>laddinfrastruktur<br>10:40-11:00<br>Agneta Nordström<br>Johan Gerremo | 2025-00126 |  |
+| 15. | Avstämning inför beslut om<br>projektbeställning för DP<br>bostäder inom Tölö 8:26<br>11:05-11:25<br>Maria Malone<br>Ida Lennartsson<br>Susanne Calming<br>Johan Gerremo | 2021-00656 |  |
+| 16. | Information om parkering i<br>Björkris etapp 2<br>11:30-11:50<br>Johan Gerremo<br>Susanne Calming<br>Byggnadsnämndens<br>arbetsutskott<br>Thure Sandén<br>Heinrich Kaufmann<br>Lars Eriksson<br>Daniel Hognert<br>Stefan Vilumsons | 2018-00716 |  |
+| 17. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | Begäran om planbesked för Åsa<br>5:197 och 5:70 | 2024-00876 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>möjligheten att utveckla befintlig verksamhet inom<br>Åsa 5:197 och 5:70, i Åsa. Möjlig exploatering,<br>såsom placering av byggnader och våningsantal, ska<br>utredas under detaljplanearbetet.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för folkhögskola med internat inom Åsa<br>5:197 och 5:70, i Åsa. |
-| 12. | Avstämning om lokalplanering<br>(från årshjul)<br>08:50-09:35<br>Lovisa Eld<br>Maria Rosenberg<br>Ing-Britt Blomberg<br>Julia Tryggvadottir Tollesson<br>Christina Wenander<br>Markus Mentzer<br>Mats Söderström | 2025-00024 |  |
-| 13. | Information om arbetet med<br>Onsalavägen 940<br>10:00-10:30<br>Agneta Nordström<br>Peter Gustavsson<br>Anders Lund<br>Trafikverket<br>Jörgen Einarsson, Regional<br>direktör<br>Lydia Lehtonen, projektledare<br>investering | 2025-00262 |  |
 
 <!-- sida 4 -->
 
@@ -91,15 +90,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 14. | Information om handläggning<br>av ärende om försäljning av<br>laddinfrastruktur<br>10:40-11:00<br>Agneta Nordström<br>Johan Gerremo | 2025-00126 |  |
-| 15. | Avstämning inför beslut om<br>projektbeställning för DP<br>bostäder inom Tölö 8:26<br>11:05-11:25<br>Maria Malone<br>Ida Lennartsson<br>Susanne Calming<br>Johan Gerremo | 2021-00656 |  |
-| 16. | Information om parkering i<br>Björkris etapp 2<br>11:30-11:50<br>Johan Gerremo<br>Susanne Calming<br>Byggnadsnämndens<br>arbetsutskott<br>Thure Sandén<br>Heinrich Kaufmann<br>Lars Eriksson<br>Daniel Hognert<br>Stefan Vilumsons | 2018-00716 |  |
-| 17. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |
 
 <!-- sida 5 -->
 
@@ -1892,7 +1882,7 @@ tabellen nedan.
 
 Antagandehandling                                          35 (41)
 
-[Tabell 44-1](handlingar.tabeller/44-1.csv)
+[Tabell 44-46-1](handlingar.tabeller/44-46-1.csv)
 
 | Miljöaspekt | Bedömning av<br>konsekvenser –<br>planförslag | Kommentar |
 | --- | --- | --- |
@@ -1901,17 +1891,6 @@ Antagandehandling                                          35 (41)
 | Buller från trafik och<br>verksamheter | Obetydliga till | Planförslaget och utvecklingen av reningsverket och värmeverket bedöms ge<br>en i stort sett oförändrad situation ur bullersynpunkt. Planförslaget förväntas<br>därför innebära obetydliga till små negativa konsekvenser på buller från trafik<br>och verksamheter. |
 |  | små negativa<br>konsekvenser |  |
 | Luftmiljö | Obetydliga<br>konsekvenser | Planförslaget förväntas innebära ett visst utsläpp av rökgaser vid<br>reningsverket men även något minskat utsläpp till luft vad avser t.ex.<br>koldioxid och kväveoxid pga. förändringar i transportarbetet. Förändringarna<br>vid reningsverket förväntas innebära en i stort sett oförändrad situation ur<br>luktsynpunkt. Miljökvalitetsnormerna för de aktuella parametrarna riskeras ej<br>överskridas. Sammantaget sker obetydliga konsekvenser på luftmiljön. |
-
-<!-- sida 45 -->
-
-Detaljplan för Kungsbacka 6:27 och Hammargård 1:7   Datum: 2025-02-11
-
-Antagandehandling                                          36 (41)
-
-[Tabell 45-1](handlingar.tabeller/45-1.csv)
-
-| Miljöaspekt | Bedömning av<br>konsekvenser –<br>planförslag | Kommentar |
-| --- | --- | --- |
 | Risk och sårbarhet<br>Transporter av farligt<br>gods | Små negativa<br>konsekvenser | Den totala risknivån i planområdet gällande farligt gods bedöms som<br>godtagbar till följd av planförslaget förutsatt att utbyggnader sker i enlighet<br>med Länsstyrelsens rekommenderade skyddsåtgärder. Konsekvenserna<br>bedöms som små negativa. |
 | Risker inom verksamheter | Små positiva<br>konsekvenser | Identifierade risker för befintliga verksamheter finns oavsett en utbyggnad<br>eller ej och hanteras inom verksamheternas säkerhets-arbete. En viss ökad<br>riskbild kopplat till verksamheternas produktion kan uppstå under byggtiden<br>vid en utbyggnad och även risker kring utformning av verksamheterna, men<br>dessa kan undvikas genom aktivt riskhanteringsarbete i planeringsprocesser.<br>En utökning av verksamheter bidrar till att konsekvenserna av riskerna blir<br>större då fler personer blir anslutna till systemen och därmed drabbas vid en<br>olycka. Samtidigt finns det risker om man inte kan säkerställa försörjning till<br>invånare. Planförslaget medför därmed små konsekvenser i både positiv och<br>negativ riktning. |
 |  | Små negativa<br>konsekvenser |  |
@@ -1920,6 +1899,17 @@ Antagandehandling                                          36 (41)
 |  | Små negativa<br>konsekvenser |  |
 | Naturmiljö och friluftsliv<br>Naturmiljö | Små negativa till | Sammantaget bedöms konsekvenserna för naturmiljön lokalt inom<br>planområdet som små negativa om man håller sig inom exploaterade ytor<br>men som medelstora negativa om anslutande kuperad naturmark tas i<br>anspråk, vilka då främst bedöms uppstå under inledande markarbeten.<br>Översiktligt bedöms planerad utökning av reningsverkets kapacitet och<br>fortsatt drift av kraftverket medföra små till medelstora positiva konsekvenser<br>för naturmiljö och då främst till följd av minskade kväveutsläpp till<br>Kungsbackafjorden vilket är tydligt positivt för fjordens naturtyper och arter. |
 |  | Medelstora<br>negativa<br>konsekvenser |  |
+| Friluftsliv | Obetydliga<br>konsekvenser | Planförslaget bedöms inte påverka några rekreationsvärden eller försvåra<br>möjligheterna till rekreation i anslutande höjdområde, varför konsekvenser<br>för friluftsliv bedöms som obetydliga till små negativa. |
+| Övriga miljöfrågor<br>Markförhållanden | Obetydliga<br>konsekvenser | Planförslaget innebär en något förändrad markanvändning samt uppförande<br>av nya byggnader, vilket innebär en del markarbeten i form av schaktning,<br>sprängarbeten och grundläggning eller blocknedfall. Under förutsättning att<br>arbetena genomförs med erforderliga säkerhetskrav bedöms detaljplanen ge<br>obetydliga konsekvenser för planområdets geotekniska förhållanden |
+| Föroreningar | Små positiva<br>konsekvenser | Inom planområdet finns inget saneringsbehov avseende påträffade halter i<br>jord då samtliga resultat understiger MKM för nuvarande och planerad<br>markanvändning. Dialog krävs med tillsynsmyndigheten om de höga<br>metallhalterna i grundvattnet och eventuellt behov av ytterligare utredningar<br>och åtgärder. Planförslaget medför att befintliga föroreningar inom<br>planområdet åtgärdas vid planerade utbyggnader och att dialog förs om<br>föroreningar i grundvattnet. Planförslaget medför små positiva konsekvenser<br>för föroreningssituationen i området. |
+| Kulturmiljö | Obetydliga till | Inom planområdet finns två kulturhistoriska fynd som är helt<br>undersökta utan någon antikvarisk bedömning enligt<br>Riksantikvarieämbetet. Dessa påverkas ej av planförslaget. Norr om<br>planområdet finns en möjlig fornlämning i form av en fornborg. Vid<br>omfattande sprängningsarbeten kan en arkeologisk utredning krävas<br>för denna. I övrigt förväntas planförslaget ej påverka övriga fynd kring<br>planområdet. |
+|  | Små negativa<br>konsekvenser |  |
+
+<!-- sida 45 -->
+
+Detaljplan för Kungsbacka 6:27 och Hammargård 1:7   Datum: 2025-02-11
+
+Antagandehandling                                          36 (41)
 
 <!-- sida 46 -->
 
@@ -1948,16 +1938,6 @@ Enligt kartläggning av luftföroreningssituationen i Kungsbacka 2015 konstatera
 alla tre miljökvalitetsnormerna för kvävedioxid underskreds inom hela tätorten med
 
 Antagandehandling                                          37 (41)
-
-[Tabell 46-1](handlingar.tabeller/46-1.csv)
-
-| Miljöaspekt | Bedömning av<br>konsekvenser –<br>planförslag | Kommentar |
-| --- | --- | --- |
-| Friluftsliv | Obetydliga<br>konsekvenser | Planförslaget bedöms inte påverka några rekreationsvärden eller försvåra<br>möjligheterna till rekreation i anslutande höjdområde, varför konsekvenser<br>för friluftsliv bedöms som obetydliga till små negativa. |
-| Övriga miljöfrågor<br>Markförhållanden | Obetydliga<br>konsekvenser | Planförslaget innebär en något förändrad markanvändning samt uppförande<br>av nya byggnader, vilket innebär en del markarbeten i form av schaktning,<br>sprängarbeten och grundläggning eller blocknedfall. Under förutsättning att<br>arbetena genomförs med erforderliga säkerhetskrav bedöms detaljplanen ge<br>obetydliga konsekvenser för planområdets geotekniska förhållanden |
-| Föroreningar | Små positiva<br>konsekvenser | Inom planområdet finns inget saneringsbehov avseende påträffade halter i<br>jord då samtliga resultat understiger MKM för nuvarande och planerad<br>markanvändning. Dialog krävs med tillsynsmyndigheten om de höga<br>metallhalterna i grundvattnet och eventuellt behov av ytterligare utredningar<br>och åtgärder. Planförslaget medför att befintliga föroreningar inom<br>planområdet åtgärdas vid planerade utbyggnader och att dialog förs om<br>föroreningar i grundvattnet. Planförslaget medför små positiva konsekvenser<br>för föroreningssituationen i området. |
-| Kulturmiljö | Obetydliga till | Inom planområdet finns två kulturhistoriska fynd som är helt<br>undersökta utan någon antikvarisk bedömning enligt<br>Riksantikvarieämbetet. Dessa påverkas ej av planförslaget. Norr om<br>planområdet finns en möjlig fornlämning i form av en fornborg. Vid<br>omfattande sprängningsarbeten kan en arkeologisk utredning krävas<br>för denna. I övrigt förväntas planförslaget ej påverka övriga fynd kring<br>planområdet. |
-|  | Små negativa<br>konsekvenser |  |
 
 <!-- sida 47 -->
 
@@ -6700,7 +6680,7 @@ Tabell 15.1. Sammanfattning av konsekvensbedömningen.
 
 n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | Sida 88 av 95
 
-[Tabell 164-1](handlingar.tabeller/164-1.csv)
+[Tabell 164-165-1](handlingar.tabeller/164-165-1.csv)
 
 | Miljöaspekt | Bedömning av<br>konsekvenser –<br>planförslag | Kommentar |
 | --- | --- | --- |
@@ -6713,19 +6693,6 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 | Risker inom<br>verksamheter | Små positiva<br>konsekvenser | Identifierade risker för befintliga verksamheter finns oavsett en<br>utbyggnad eller ej och hanteras inom verksamheternas säkerhets-<br>arbete. En viss ökad riskbild kopplat till verksamheternas produktion<br>kan uppstå under byggtiden vid en utbyggnad och även risker kring<br>utformning av verksamheterna, men dessa kan undvikas genom aktivt<br>riskhanteringsarbete i planeringsprocesser.<br>En utökning av verksamheter bidrar till att konsekvenserna av riskerna<br>blir större då fler personer blir anslutna till systemen och därmed<br>drabbas vid en olycka. Samtidigt finns det risker om man inte kan<br>säkerställa försörjning till invånare. Planförslaget medför därmed små<br>konsekvenser i både positiv och negativ riktning. |
 |  | Små negativa<br>konsekvenser |  |
 | Vattenförhållanden | Små positiva<br>konsekvenser | Planförslaget bedöms inte medföra några större förändringar gällande<br>såväl dagvattenhantering, översvämningsrisk och påverkan på<br>miljökvalitetsnormer (MKN), med undantag för att viss ökad rening av<br>dagvatten uppnås om föreslagna åtgärder genomförs. Planförslaget<br>innebär små positiva till obetydliga konsekvenser på vattenmiljön.<br>Detaljplanen möjliggör för att en utökning av reningsverkets kapacitet<br>och fortsatt drift av värmeverket. Dessa konsekvenser hanteras inom<br>ramen för tillståndsprocesserna för dessa. Översiktligt bedöms en<br>utökning av reningsverket medföra små till medelstora positivta<br>konsekvenser för vattenmiljön till följd av minskade utsläpp till<br>recipienterna jämfört med nuvarande tillstånd. Status för MKN för<br>Kungsbackaåns nedre del och Inre Kungsbackafjorden bedöms inte<br>försämras och möjligheten att uppnå god status äventyras inte. |
-
-<!-- sida 165 -->
-
-Miljökonsekvensbeskrivning
-till detaljplan för fastigheterna Kungsbacka 6:27 och Hammargård 1:7
-Uppdragsnr.: 108 12 18 Version: 3
-
-n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | Sida 89 av 95
-
-[Tabell 165-1](handlingar.tabeller/165-1.csv)
-
-| Miljöaspekt | Bedömning av<br>konsekvenser –<br>planförslag | Kommentar |
-| --- | --- | --- |
 | Skyddade områden<br>och<br>skyddsbestämmelse<br>r | Obetydliga<br>konsekvenser | Planen bedöms inte påverka riksintresset Västkustbanan, förutsatt att<br>lämpliga skyddsåtgärder genomförs. Konsekvenserna bedöms som<br>små till obetydliga.<br>Planförslaget medför något minskad dagvattenpåverkan på Kungs-<br>backaån och Kungsbackafjorden, varvid påverkan på växt- och djurlivet<br>i dessa skyddade områden bedöms som obetydligt.<br>Erhållet tillstånd för reningsverkets medför minskade närsaltsutsläpp<br>vilket bedöms bidra till förbättrade förutsättningarna för både<br>Kungsbackaåns och Kungsbackafjordens växt- och djurliv genom<br>minskad kvävetillförsel. Påverkan på de skyddade områdena bedöms<br>som små till medelstora positiva. |
 |  | Små negativa<br>konsekvenser |  |
 | Naturmiljö och<br>friluftsliv<br>Naturmiljö | Små negativa till | Sammantaget bedöms konsekvenserna för naturmiljön lokalt inom<br>planområdet som små negativa om man håller sig inom exploaterade<br>ytor men som medelstora negativa om anslutande kuperad naturmark<br>tas i anspråk, vilka då främst bedöms uppstå under inledande<br>markarbeten.<br>Översiktligt bedöms planerad utökning av reningsverkets kapacitet och<br>fortsatt drift av kraftverket medföra små till medelstora positiva<br>konsekvenser för naturmiljö och då främst till följd av minskade<br>kväveutsläpp till Kungsbackafjorden vilket är tydligt positivt för fjordens<br>naturtyper och arter. |
@@ -6735,6 +6702,14 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 | Föroreningar | Små positiva<br>konsekvenser | Inom planområdet finns inget saneringsbehov avseende påträffade<br>halter i jord då samtliga resultat understiger MKM för nuvarande och<br>planerad markanvändning. Dialog krävs med tillsynsmyndigheten om<br>de höga metallhalterna i grundvattnet och eventuellt behov av<br>ytterligare utredningar och åtgärder. Planförslaget medför att befintliga<br>föroreningar inom planområdet åtgärdas vid planerade utbyggnader och<br>att dialog förs om föroreningar i grundvattnet. Planförslaget medför små<br>positiva konsekvenser för föroreningssituationen i området. |
 | Kulturmiljö | Obetydliga till | Inom planområdet finns två kulturhistoriska fynd som är helt undersökta<br>utan någon antikvarisk bedömning enligt Riksantikvarieämbetet. Dessa<br>påverkas ej av planförslaget. Norr om planområdet finns en möjlig<br>fornlämning i form av en fornborg. Vid omfattande sprängningsarbeten<br>kan en arkeologisk utredning krävas för denna. I övrigt förväntas<br>planförslaget ej påverka övriga fynd kring planområdet. |
 |  | Små negativa<br>konsekvenser |  |
+
+<!-- sida 165 -->
+
+Miljökonsekvensbeskrivning
+till detaljplan för fastigheterna Kungsbacka 6:27 och Hammargård 1:7
+Uppdragsnr.: 108 12 18 Version: 3
+
+n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | Sida 89 av 95
 
 <!-- sida 166 -->
 
@@ -6777,7 +6752,7 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 | 7 | Ingen övergödning | 15 | God bebyggd miljö |
 | 8 | Levande sjöar och vattendrag | 16 | Ett rikt växt- och djurliv |
 
-[Tabell 166-2](handlingar.tabeller/166-2.csv)
+[Tabell 166-167-2](handlingar.tabeller/166-167-2.csv)
 
 | Nr | Miljökvalitetsmål | Påverkan | Detaljplanens inverkan på miljökvalitetsmålen |
 | --- | --- | --- | --- |
@@ -6785,6 +6760,12 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 | 2 | Frisk luft | + | Utbyggnad enligt planförslaget och verksamheternas tillståndsansökningar<br>förväntas förutom minskade utsläpp till luft vad gäller koldioxid och kväveoxid<br>pga. förändringar i transportarbetet även medföra ett visst utsläpp av rökgaser<br>vid en framtida förändrad slamhantering. Miljökvalitetsnormer för luft förväntas<br>dock fortsatt kunna klaras med stor marginal. Sammantaget förväntas<br>planförslaget innebära viss påverkan på miljökvalitetsmålet i positiv riktning. |
 | 4 | Giftfri miljö | + | Planförslaget bedöms medföra att befintliga föroreningar inom planområdet<br>åtgärdas i samband med planerade utbyggnader och att dialog förs angående<br>de höga metallhalterna i grundvattnet, varför detta bedöms medföra små positiva<br>konsekvenser för föroreningssituationen i området. Detta kan innebära viss<br>positiv påverkan på miljökvalitetsmålet. |
 | 7 | Ingen<br>övergödning | + | Planförslaget bedöms inte medföra några större förändringar gällande såväl<br>dagvattenhantering, översvämningsrisk och påverkan på miljökvalitetsnormer,<br>med undantag för att viss ökad rening av dagvatten kan uppnås om föreslagna<br>åtgärder genomförs. Planförslaget förväntas på lokal nivå ge en viss positiv<br>inverkan på miljömålet. |
+|  |  |  | Erhållet tillstånd för utökning av reningsverket minskar utsläppen av närsalter<br>jämfört med nuvarande situation till recipienterna. Särskilt minskade<br>kväveutsläpp bedöms bidra till att förbättra övergödningssituationen i fjorden<br>vilket kan bromsa produktionen av fintrådiga alger i fjordens grundområden,<br>vilket i sin tur kan gynna fjordens växt- och djurliv. Möjligheterna till att uppnå<br>god ekologisk och kemisk status i Kungsbackaån och Inre Kungsbackafjorden<br>förbättras. Detta påverkar miljömålet i positiv riktning |
+| 8 | Levande sjöar<br>och vattendrag | + | Planförslaget bedöms inte påverka Kungsbackaåns växt- och djurliv eller<br>vattenkvalitet utan viss ökad dagvattenrening sker inom planområdet.<br>Erhållet tillstånd för utökning av reningsverket minskar utsläppen av närsalter<br>vilket är positivt för Kungsbackaåns vattenkvalitet och växt- och djurliv.<br>Miljömålet bedöms påverkas i positiv riktning. |
+| 9 | Grundvatten av<br>god kvalitet | + | Grundvattnet i området rinner mot recipienten Kungsbackaån, vilken mynnar ut i<br>Kungsbackafjorden. Grundvatten i området visar delvis på höga till mycket höga<br>metallhalter. Dialog med tillsynsmyndigheten krävs gällande ytterligare<br>utredningar och åtgärder som ska genomföras i samband med utbyggnad. Detta<br>kan innebära positiv påverkan på miljökvalitetsmålet. |
+| 10 | Hav i balans samt<br>levande kust och<br>skärgård | - | Den slutgiltiga recipienten Inre Kungsbackafjorden, hyser mycket höga natur-<br>och friluftsvärden och omfattas av ett flertal skyddsbestämmelser. Planförslaget<br>förväntas inte medföra något större påverkan på slutrecipienten genom<br>dagvattenutsläpp då planförslaget medför en viss ökad rening av den<br>begränsade mängd dagvatten som planområdet ger upphov till.<br>Planerad utökning av reningsverket innebär minskade närsaltsutsläpp till<br>Kungsbackaån och Kungsbackafjorden. Främst minskad kvävetillförsel till<br>Kungsbackafjordens inre del kan motverka ökad produktion av fintrådiga alger<br>och de negativa följdeffekter denna får på fjordens naturtyper och arter genom<br>övertäckning, syrebrist och svavelvätebildning. Detta påverkar miljömålet i<br>positiv riktning. |
+| 15 | God bebyggd<br>miljö | + | Planområdet kommer att fortsätta användas för industriverksamheter av det<br>befintliga värmeverket och avloppsreningsverket. Att ta fram en ny detaljplan för<br>området för att möjliggöra utbyggnad av befintliga verksamheter gör att området<br>kan fortsätta nyttjas och nya områden behöver ej tas i anspråk för dessa<br>samhällsviktiga verksamheter. Planförslaget förväntas därför innebära positiv<br>påverkan på miljökvalitetsmålet. |
+| 16 | Ett rikt växt- och<br>djurliv | -/+ | Planförslagets påverkan på naturmiljön och områdets växt- och djurliv bedöms<br>som liten.<br>Erhållet tillstånd för reningsverket bedöms dock bidra till att förbättra närsalts<br>situationen i recipienterna vilket gynnar deras naturtyper och växt- och djurliv. |
 
 <!-- sida 167 -->
 
@@ -6793,17 +6774,6 @@ till detaljplan för fastigheterna Kungsbacka 6:27 och Hammargård 1:7
 Uppdragsnr.: 108 12 18 Version: 3
 
 n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | Sida 91 av 95
-
-[Tabell 167-1](handlingar.tabeller/167-1.csv)
-
-| Nr | Miljökvalitetsmål | Påverkan | Detaljplanens inverkan på miljökvalitetsmålen |
-| --- | --- | --- | --- |
-|  |  |  | Erhållet tillstånd för utökning av reningsverket minskar utsläppen av närsalter<br>jämfört med nuvarande situation till recipienterna. Särskilt minskade<br>kväveutsläpp bedöms bidra till att förbättra övergödningssituationen i fjorden<br>vilket kan bromsa produktionen av fintrådiga alger i fjordens grundområden,<br>vilket i sin tur kan gynna fjordens växt- och djurliv. Möjligheterna till att uppnå<br>god ekologisk och kemisk status i Kungsbackaån och Inre Kungsbackafjorden<br>förbättras. Detta påverkar miljömålet i positiv riktning |
-| 8 | Levande sjöar<br>och vattendrag | + | Planförslaget bedöms inte påverka Kungsbackaåns växt- och djurliv eller<br>vattenkvalitet utan viss ökad dagvattenrening sker inom planområdet.<br>Erhållet tillstånd för utökning av reningsverket minskar utsläppen av närsalter<br>vilket är positivt för Kungsbackaåns vattenkvalitet och växt- och djurliv.<br>Miljömålet bedöms påverkas i positiv riktning. |
-| 9 | Grundvatten av<br>god kvalitet | + | Grundvattnet i området rinner mot recipienten Kungsbackaån, vilken mynnar ut i<br>Kungsbackafjorden. Grundvatten i området visar delvis på höga till mycket höga<br>metallhalter. Dialog med tillsynsmyndigheten krävs gällande ytterligare<br>utredningar och åtgärder som ska genomföras i samband med utbyggnad. Detta<br>kan innebära positiv påverkan på miljökvalitetsmålet. |
-| 10 | Hav i balans samt<br>levande kust och<br>skärgård | - | Den slutgiltiga recipienten Inre Kungsbackafjorden, hyser mycket höga natur-<br>och friluftsvärden och omfattas av ett flertal skyddsbestämmelser. Planförslaget<br>förväntas inte medföra något större påverkan på slutrecipienten genom<br>dagvattenutsläpp då planförslaget medför en viss ökad rening av den<br>begränsade mängd dagvatten som planområdet ger upphov till.<br>Planerad utökning av reningsverket innebär minskade närsaltsutsläpp till<br>Kungsbackaån och Kungsbackafjorden. Främst minskad kvävetillförsel till<br>Kungsbackafjordens inre del kan motverka ökad produktion av fintrådiga alger<br>och de negativa följdeffekter denna får på fjordens naturtyper och arter genom<br>övertäckning, syrebrist och svavelvätebildning. Detta påverkar miljömålet i<br>positiv riktning. |
-| 15 | God bebyggd<br>miljö | + | Planområdet kommer att fortsätta användas för industriverksamheter av det<br>befintliga värmeverket och avloppsreningsverket. Att ta fram en ny detaljplan för<br>området för att möjliggöra utbyggnad av befintliga verksamheter gör att området<br>kan fortsätta nyttjas och nya områden behöver ej tas i anspråk för dessa<br>samhällsviktiga verksamheter. Planförslaget förväntas därför innebära positiv<br>påverkan på miljökvalitetsmålet. |
-| 16 | Ett rikt växt- och<br>djurliv | -/+ | Planförslagets påverkan på naturmiljön och områdets växt- och djurliv bedöms<br>som liten.<br>Erhållet tillstånd för reningsverket bedöms dock bidra till att förbättra närsalts<br>situationen i recipienterna vilket gynnar deras naturtyper och växt- och djurliv. |
 
 <!-- sida 168 -->
 

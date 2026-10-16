@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.6ca4719418f37aab5d51482d/1715496579
 sha256: d1a604a2c5fa76a6d56922de7aff02c5099786847b1721735b7d9dab0f3c9ea4
 bytes: 76145138
 sidor: 672
-hamtad: 2026-10-09T08:53:44+00:00
-konverterad: 2026-10-09T08:57:00+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T06:45:53+00:00
+konverterad: 2026-10-16T06:49:12+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 338, 396, 560, 591]
-figurer: [19, 39, 47, 51, 63, 71, 73, 77, 86, 87, 94, 115, 150, 151, 155, 156, 167, 169, 179, 180, 182, 183, 185, 186, 188, 193, 194, 196, 197, 204, 205, 206, 207, 209, 210, 211, 212, 220, 224, 225, 226, 230, 231, 232, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 283, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 321, 333, 336, 337, 338, 346, 350, 351, 352, 353, 354, 355, 357, 362, 363, 364, 365, 366, 368, 373, 374, 376, 378, 381, 385, 386, 388, 389, 390, 391, 392, 393, 397, 402, 411, 427, 429, 447, 451, 456, 459, 460, 461, 464, 465, 475, 488, 491, 492, 493, 497, 498, 499, 500, 517, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 540, 542, 543, 546, 547, 552, 557, 560, 564, 565, 567, 569, 570, 571, 572, 573, 574, 575, 577, 578, 579, 580, 581, 582, 583, 590, 591, 610, 611, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 634, 639, 644, 653]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 336, 337, 338, 380, 385, 386, 387, 388, 389, 390, 391, 392, 396, 492, 493, 560, 591]
+figurer: [19, 39, 47, 51, 63, 71, 73, 77, 86, 87, 94, 115, 150, 151, 155, 156, 167, 169, 179, 180, 182, 183, 185, 186, 188, 193, 194, 196, 197, 204, 205, 206, 207, 209, 210, 211, 212, 220, 224, 225, 226, 230, 231, 232, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 283, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 321, 333, 336, 337, 338, 346, 350, 351, 352, 353, 354, 355, 357, 362, 363, 364, 365, 366, 368, 373, 374, 376, 378, 381, 385, 386, 388, 389, 390, 391, 392, 393, 402, 411, 427, 429, 447, 451, 456, 459, 460, 461, 464, 465, 475, 488, 491, 492, 493, 497, 498, 499, 500, 517, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 540, 542, 543, 546, 547, 552, 557, 560, 564, 565, 567, 569, 570, 571, 572, 573, 574, 575, 577, 578, 579, 580, 581, 582, 583, 590, 591, 610, 611, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 634, 639, 644, 653]
 tolkade: []
 ---
 
@@ -56,12 +56,26 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-5-1](handlingar.tabeller/2-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 3. | Godkännande av projekt<br>Framtidens avloppsrening i<br>Kungsbacka | 2024-00265 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner förslaget på<br>inriktningsbeslut för genomförande av Framtidens<br>avloppsrening, FAR, vid Hammargårds<br>avloppsreningsverk och projekt Framtidens<br>avloppsrening, FAR, samt ger nämnden för Teknik i<br>uppdrag att genomföra projektet.<br>Kommunfullmäktige utser nämnden för Teknik till<br>ansvarig för<br>- att leda, samordna och genomföra projekt<br>Framtidens avloppsrening, FAR, enligt Förslag<br>till projektbeskrivning Framtidens avloppsrening<br>2024-04-05 med utredningsunderlag, med rätt<br>för nämnden för Teknik att genomföra<br>nödvändiga anpassningar av projektet som inte<br>är av principiell beskaffenhet eller annars av<br>större vikt,<br>- projektbudget för Framtidens avloppsrening,<br>FAR, enligt beslutad investeringsbudget och<br>kommunens ekonomistyrprinciper för<br>investeringar,<br>- att genomföra fas 1 av projektet, projektering av<br>systemhandling och andra utredningar som krävs<br>för att komma fram till en riktkostnad inför Fas 2<br>samt<br>- att genomföra byggnation Framtidens<br>avloppsrening, FAR, i Fas 2 och 3 av projektet<br>om riktkostnaden överensstämmer med beslutad<br>investeringsbudget och de ekonomiska ramar<br>som anges i Förslag till projektbeskrivning<br>Framtidens avloppsrening 2024-04-05. |
 | 4. | Kommunbudget 2025 | 2023-00686 | Förslag till beslut i kommunfullmäktige<br>Underlag delas ut senare |
+| 5. | Förstärkt uppsiktsplikt över de<br>kommunala bolagens<br>verksamhet 2023 | 2024-00288 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bedömer att kommunens helägda<br>bolag Eksta Bostads AB inklusive dotterbolag<br>Tempohus Kungsbacka AB under 2023 har bedrivit<br>en verksamhet som varit förenlig med fastställt<br>kommunalt ändamål samt utförts inom ramen för de<br>kommunala befogenheterna. |
+| 6. | Riktlinjer för en<br>exploatörsdriven<br>detaljplaneprocess | 2022-00553 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner riktlinjer för<br>exploatörsdriven planprocess i Kungsbacka, april<br>2024 |
+| 7. | Svar på Räddningstjänsten<br>Storgöteborgs remiss av<br>Handlingsprogram 2024 enligt<br>lag (2003:778) om skydd mot<br>olyckor (LSO) | 2024-00231 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-04-<br>15, och översänder som svar till Räddningstjänsten<br>Storgöteborg. |
+| 8. | Svar på Marks kommuns remiss<br>av riktlinjer för<br>bostadsförsörjning för Marks<br>kommun | 2024-00234 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-04-<br>23, och översänder det som sitt svar till Marks<br>kommun. |
+| 9. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för Skola inom Åsa<br>5:246 och Åsa 4:142 | 2022-00087 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för skola inom Åsa 5:246 och Åsa 4:142,<br>daterad 2024-03-20.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan för skola inom Åsa<br>5:246 och Åsa 4:142 i Åsa.<br>Kommunstyrelsen upphäver tidigare beslut från<br>2022-05-30, §118, om godkännande av<br>projektbeställning samt överlämnande till<br>byggnadsnämnden för att upprätta detaljplan för<br>skola inom Åsa 5:246 i Åsa. |
+| 10. | Begäran om planbesked Mossen<br>3:15, Södra Ebbagården | 2024-00118 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom del av Mossen 3:15, skifte 2, i<br>Onsala. |
+| 11. | Fastställande av VA-<br>verksamhetsområde 2023 | 2024-00278 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fastställer nya<br>verksamhetsområden i enlighet med kartbilaga 1-22,<br>daterad 2024-02-29. |
+| 12. | Taxa för bredband 2025 | 2024-00299 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar bredbandstaxa 2025,<br>daterad 2024-02-02.<br>Taxan träder i kraft den 1 januari 2025.<br>Bredbandstaxa 2024, antagen av<br>kommunfullmäktige 2023-11-07 §170 upphör<br>samtidigt att gälla. |
+| 13. | Information om genomförande<br>av EU-valet<br>Klockan 08:40-08:55<br>Kristina Gudmundson<br>Sofia Jonsson | 2024-00324 | - |
+| 14. | Riktlinjer - Studiebesök för<br>förtroendevalda politiker i<br>kommunens verksamheter<br>Klockan 09:00-09:15<br>Andrea Egerlundh<br>Sofia Jonsson | 2024-00071 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Riktlinjer - Studiebesök<br>för förtroendevalda i kommunens verksamheter,<br>daterade 2024-04-12. |
+| 15. | Information om uppföljning och<br>prognos april 2024 för<br>Kungsbacka kommun<br>Klockan 09:20-09:35<br>Maria Warg<br>Christina Hermansson | 2024-00326 | - |
+| 16. | Information om arbetet med<br>innovation och förnyelse<br>Klockan 09:45-10:30<br>Anneli Skoglund<br>Lotta Nord<br>Helena Borgström<br>Katarina Öryd | 2024-00020 | - |
+| 17. | Dialog med regionstyrelsens<br>arbetsutskott i Region Halland<br>Klockan 10:30-12:00<br>Regionstyrelsens arbetsutskott<br>Krister Björkegren,<br>regiondirektör | 2024-00325 | - |
+| 18. | Information från ledamöter och<br>förvaltning | 2024-00025 | - |
 
 <!-- sida 3 -->
 
@@ -69,31 +83,11 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 5. | Förstärkt uppsiktsplikt över de<br>kommunala bolagens<br>verksamhet 2023 | 2024-00288 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen bedömer att kommunens helägda<br>bolag Eksta Bostads AB inklusive dotterbolag<br>Tempohus Kungsbacka AB under 2023 har bedrivit<br>en verksamhet som varit förenlig med fastställt<br>kommunalt ändamål samt utförts inom ramen för de<br>kommunala befogenheterna. |
-| 6. | Riktlinjer för en<br>exploatörsdriven<br>detaljplaneprocess | 2022-00553 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner riktlinjer för<br>exploatörsdriven planprocess i Kungsbacka, april<br>2024 |
-| 7. | Svar på Räddningstjänsten<br>Storgöteborgs remiss av<br>Handlingsprogram 2024 enligt<br>lag (2003:778) om skydd mot<br>olyckor (LSO) | 2024-00231 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-04-<br>15, och översänder som svar till Räddningstjänsten<br>Storgöteborg. |
-| 8. | Svar på Marks kommuns remiss<br>av riktlinjer för<br>bostadsförsörjning för Marks<br>kommun | 2024-00234 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-04-<br>23, och översänder det som sitt svar till Marks<br>kommun. |
-| 9. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för Skola inom Åsa<br>5:246 och Åsa 4:142 | 2022-00087 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för skola inom Åsa 5:246 och Åsa 4:142,<br>daterad 2024-03-20.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan för skola inom Åsa<br>5:246 och Åsa 4:142 i Åsa.<br>Kommunstyrelsen upphäver tidigare beslut från<br>2022-05-30, §118, om godkännande av<br>projektbeställning samt överlämnande till<br>byggnadsnämnden för att upprätta detaljplan för<br>skola inom Åsa 5:246 i Åsa. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 10. | Begäran om planbesked Mossen<br>3:15, Södra Ebbagården | 2024-00118 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom del av Mossen 3:15, skifte 2, i<br>Onsala. |
-| 11. | Fastställande av VA-<br>verksamhetsområde 2023 | 2024-00278 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fastställer nya<br>verksamhetsområden i enlighet med kartbilaga 1-22,<br>daterad 2024-02-29. |
-| 12. | Taxa för bredband 2025 | 2024-00299 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar bredbandstaxa 2025,<br>daterad 2024-02-02.<br>Taxan träder i kraft den 1 januari 2025.<br>Bredbandstaxa 2024, antagen av<br>kommunfullmäktige 2023-11-07 §170 upphör<br>samtidigt att gälla. |
-| 13. | Information om genomförande<br>av EU-valet<br>Klockan 08:40-08:55<br>Kristina Gudmundson<br>Sofia Jonsson | 2024-00324 | - |
-| 14. | Riktlinjer - Studiebesök för<br>förtroendevalda politiker i<br>kommunens verksamheter<br>Klockan 09:00-09:15<br>Andrea Egerlundh<br>Sofia Jonsson | 2024-00071 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Riktlinjer - Studiebesök<br>för förtroendevalda i kommunens verksamheter,<br>daterade 2024-04-12. |
 
 <!-- sida 5 -->
 
@@ -103,15 +97,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 15. | Information om uppföljning och<br>prognos april 2024 för<br>Kungsbacka kommun<br>Klockan 09:20-09:35<br>Maria Warg<br>Christina Hermansson | 2024-00326 | - |
-| 16. | Information om arbetet med<br>innovation och förnyelse<br>Klockan 09:45-10:30<br>Anneli Skoglund<br>Lotta Nord<br>Helena Borgström<br>Katarina Öryd | 2024-00020 | - |
-| 17. | Dialog med regionstyrelsens<br>arbetsutskott i Region Halland<br>Klockan 10:30-12:00<br>Regionstyrelsens arbetsutskott<br>Krister Björkegren,<br>regiondirektör | 2024-00325 | - |
-| 18. | Information från ledamöter och<br>förvaltning | 2024-00025 | - |
 
 <!-- sida 6 -->
 
@@ -4690,18 +4675,23 @@ värden i tabell 5 nedan.
 Förstudierapport 1                          Kungsbacka kommun
 
 Ysby      Lerkil
-m
-Ledningsrätt                                9 000
-3 000
+kr/m            m         m
 
-12 000
-6 000 000
-m2
-Markkostnad                                10 000
-10 000 000
+```osaker-tabell
+Ledningsrätt     500 överföring   4 000     9 000
+                     utlopp       5 900     3 000
 
-Markberedning                             15 000,0
-3 300 000
+                     total m      9 900    12 000
+```
+
+kr         4 950 000 6 000 000
+kr/m2           m2        m2
+Markkostnad     1000              19 000   10 000
+kr        19 000 000 10 000 000
+
+Kr/m3
+Markberedning    220            45 000,0  15 000,0
+kr         9 900 000 3 300 000
 Tabell 5
 
 Så här tidigt i projektet är det mycket svårt att beräkna vad en investering kan kosta.
@@ -4735,21 +4725,6 @@ ledingsrättskostnaderna kan ses som erfarenhetskostnader, kostnader för
 markberedning har erhållits från Norconsult.
 
 14
-
-[Tabell 107-1](handlingar.tabeller/107-1.csv)
-
-| kr/m |  | m |
-| --- | --- | --- |
-| 500 | överföring | 4 000 |
-|  | utlopp | 5 900 |
-|  | total m | 9 900 |
-|  | kr | 4 950 000 |
-| kr/m2 |  | m2 |
-| 1000 |  | 19 000 |
-|  | kr | 19 000 000 |
-| Kr/m3 |  |  |
-| 220 |  | 45 000,0 |
-|  | kr | 9 900 000 |
 
 <!-- sida 108 -->
 
@@ -11664,13 +11639,6 @@ Visionsbild Hammargårds  ARV
 
 |  |  |
 | --- | --- |
-|  |  |
-|  |  |
-
-[Tabell 294-2](handlingar.tabeller/294-2.csv)
-
-|  |  |
-| --- | --- |
 | (adress borttagen),<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>(e-post borttagen) |  |
 |  |  |
 |  |  |
@@ -11858,10 +11826,14 @@ KEMTANK  70 m3
 
 KEMTANK  25 m3
 
+BET ÄNDRINGEN AVSER        DATUM  SIGN
+
+\-
 INLOPPSHALL
 SANDFILTERRUM
-
+GRANSKNINGSHANDLING
 A
+N
 
 VENTILATIONSRUM
 DOSERBYGGNAD
@@ -11869,41 +11841,25 @@ DOSERBYGGNAD
 A
 ELRUM
 
+ORIENTERINGSFIGUR
+
 PLANVY
 
 BASSÄNG  TILLHÖRANDE SANDFILTER
+2592303   V. DAHLLÖF   J. CARLBAUM
 
+2024-02-02 K. HÅKANSSON
+
+HAMMARGÅRD  ARV
 SKALA 1:200
-
+LAYOUTRITNING
+INLOPPSBYGGNAD
 0   2     5        10        15        20
-METER
+METER                                                                                                                                    PLAN & SEKTION               FAS   0
 A1
 
 P-40-0-101            -
 1:200
-
-[Tabell 298-1](handlingar.tabeller/298-1.csv)
-
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-
-[Tabell 298-2](handlingar.tabeller/298-2.csv)
-
-| BET | ÄNDRINGEN AVSER | DATUM | SIGN |
-| --- | --- | --- | --- |
-| - |  |  |  |
-| GRANSKNINGSHANDLING |  |  |  |
-| N<br>ORIENTERINGSFIGUR |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-| 2592303 V. DAH |  | LLÖF J. CARLBAUM |  |
-| 2024-02-02 K. HÅK |  | ANSSON |  |
-| HAMMARGÅRD ARV<br>LAYOUTRITNING<br>INLOPPSBYGGNAD<br>PLAN & SEKTION FAS 0 |  |  |  |
 
 <!-- sida 299 -->
 
@@ -11918,9 +11874,13 @@ NTS
 B
 BETONG/SFG, SE SEKTION
 
+BET ÄNDRINGEN AVSER        DATUM  SIGN
 SANDFÅNG 1
+\-
 
-A                                                                                                                                           A
+GRANSKNINGSHANDLING
+
+A                                                                                                                                           A                                                                                                          N
 
 SANDFÅNG 2
 
@@ -11929,31 +11889,24 @@ SEKTION    B-B
 RENSGALLER-
 NÖDBRÄDD
 KANALER                                                    B
+ORIENTERINGSFIGUR
 
 PLANVY
 
-SKALA 1:100
+2592303   O. HELD      J. CARLBAUM
 
+2024-02-02 K. HÅKANSSON
+
+HAMMARGÅRD  ARV
+SKALA 1:100
+LAYOUTRITNING
+RENSGALLER- & SANDFÅNGSBASSÄNG
 0   1   2          5                   10
-METER
+METER                                                                                                                                    PLAN & SEKTION               FAS   0
 A1
 
 P-40-0-102            -
 1:100
-
-[Tabell 299-1](handlingar.tabeller/299-1.csv)
-
-| BET | ÄNDRINGEN AVSER |  | DATUM | SIGN |
-| --- | --- | --- | --- | --- |
-| - |  |  |  |  |
-| GRANSKNINGSHANDLING |  |  |  |  |
-| N<br>ORIENTERINGSFIGUR |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-| 2592303 O. H |  | ELD J. CARLBAUM |  |  |
-| 2024-02-02 K. H |  | ÅKANSSON |  |  |
-| HAMMARGÅRD ARV<br>LAYOUTRITNING<br>RENSGALLER- & SANDFÅNGSBASSÄNG<br>PLAN & SEKTION FAS 0 |  |  |  |  |
 
 <!-- sida 300 -->
 
@@ -11964,52 +11917,47 @@ SEKTION   A-A
 
 SEKTION   B-B
 
+BET ÄNDRINGEN AVSER        DATUM  SIGN
+
+\-
+
+GRANSKNINGSHANDLING
+
+N
+
+ORIENTERINGSFIGUR
+
 PLANVY
+2592303   O. HELD      J. CARLBAUM
+2024-02-02 K. HÅKANSSON
 
+HAMMARGÅRD  ARV
 SKALA 1:100
-
+LAYOUTRITNING
+FÖRSEDIMENTERINGSBASSÄNG
 0   1   2          5                   10
-METER
+METER                                                                                                                                    PLAN & SEKTION               FAS   0
 A1
 
 P-40-0-103            -
 1:100
 
-[Tabell 300-1](handlingar.tabeller/300-1.csv)
-
-| BET | ÄNDRINGEN AVSER |  | DATUM | SIGN |
-| --- | --- | --- | --- | --- |
-| - |  |  |  |  |
-| GRANSKNINGSHANDLING |  |  |  |  |
-| N<br>ORIENTERINGSFIGUR |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-| 2592303 O. H |  | ELD J. CARLBAUM |  |  |
-| 2024-02-02 K. H |  | ÅKANSSON |  |  |
-| HAMMARGÅRD ARV<br>LAYOUTRITNING<br>FÖRSEDIMENTERINGSBASSÄNG<br>PLAN & SEKTION FAS 0 |  |  |  |  |
-
 <!-- sida 301 -->
 
-[Tabell 301-1](handlingar.tabeller/301-1.csv)
+[Tabell 301-302-1](handlingar.tabeller/301-302-1.csv)
 
 |  |  |
 | --- | --- |
 |  |  |
 | (adress borttagen),<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>(e-post borttagen) |  |
+|  |  |
+|  |  |
+| (adress borttagen),<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>(e-post borttagen) |  |
+|  |  |
 |  |  |
 |  |  |
 
 <!-- sida 302 -->
-
-[Tabell 302-1](handlingar.tabeller/302-1.csv)
-
-|  |  |
-| --- | --- |
-| (adress borttagen),<br>591 32 Motala, SWEDEN<br>Tel. 0141-21 51 11<br>(e-post borttagen) |  |
-|  |  |
-|  |  |
-|  |  |
 
 <!-- sida 303 -->
 
@@ -12055,34 +12003,32 @@ SLAMHANTERINGSBYGGNAD
 
 PYROLYSBYGGNAD
 
+BET ÄNDRINGEN AVSER        DATUM  SIGN
+
+HAMMARGÅRD        ARV
+
+GRANSKNINGSHANDLING
+
 CONTAINER-
 BYGGNAD
 
 FRAMTIDA
 PYROLYSBYGGNAD
 
-SKALA  1:500
+2592303   OSHE         JOCA
 
-0   5   10     20                      50
-METER
+2023-12-22 C. JENSEN
+
+HAMMARGÅRD  ARV
+SKALA  1:500
+ÖVERSIKTSLAYOUT
+
+0   5   10     20                      50                                                                                            PYROLYS
+METER                                                                                                                                SITUATIONSPLAN               FAS   0
 A1
 
 P-00-0-002             -
 1:500
-
-[Tabell 305-1](handlingar.tabeller/305-1.csv)
-
-| BET | ÄNDRINGEN AVSER |  |  | DATUM | SIGN |
-| --- | --- | --- | --- | --- | --- |
-| HAMMARGÅRD ARV |  |  |  |  |  |
-| GRANSKNINGSHANDLING |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| 2592303 |  | OSHE | JOCA |  |  |
-| 2023-12-22 |  | C. JENSEN |  |  |  |
-| HAMMARGÅRD ARV<br>ÖVERSIKTSLAYOUT<br>PYROLYS<br>SITUATIONSPLAN FAS 0 |  |  |  |  |  |
 
 <!-- sida 306 -->
 
@@ -12100,65 +12046,59 @@ TORRSLAMSILO
 
 PORTAR
 
+A  SEKTIONSMARKERING      2024-01-08 OSHE
+A  ÄNDRING AV TEXTRUTAN   2024-01-08 OSHE
+BET ÄNDRINGEN AVSER        DATUM  SIGN
 MOTTAGNINGSFICKA
+\-
+
+GRANSKNINGSHANDLING
 
 C                                       PLANVY
 
-SKALA 1:200
+2592303   OSHE         JOCA
 
+2023-12-22 C. JENSEN
+
+HAMMARGÅRD  ARV
+SKALA 1:200
+LAYOUTRITNING
+PYROLYS
 0   2     5        10        15        20
-METER
+METER                                                                                                                                    PLANVY                       FAS   0
 A1
 
 P-40-1-104            A
 1:200
 
-[Tabell 306-1](handlingar.tabeller/306-1.csv)
-
-| A | SEKTIONSMARKERING |  |  | 2024-01-08 | OSHE |
-| --- | --- | --- | --- | --- | --- |
-| A | ÄNDRING AV TEXTRUTAN |  |  | 2024-01-08 | OSHE |
-| BET | ÄNDRINGEN AVSER |  |  | DATUM | SIGN |
-| - |  |  |  |  |  |
-| GRANSKNINGSHANDLING |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| 2592303 |  | OSHE | JOCA |  |  |
-| 2023-12-22 |  | C. JENSEN |  |  |  |
-| HAMMARGÅRD ARV<br>LAYOUTRITNING<br>PYROLYS<br>PLANVY FAS 0 |  |  |  |  |  |
-
 <!-- sida 307 -->
 
 SLAMFICKA
 
+A  ÄNDRING AV TEXTRUTAN   2024-01-08 OSHE
+A  TILLÄGG AV SKALLINJAL  2024-01-08 OSHE
+BET ÄNDRINGEN AVSER        DATUM  SIGN
+
+\-
+
+GRANSKNINGSHANDLING
+
 PLANVY  B-B
 
-SKALA 1:100
+2592303   OSHE         JOCA
 
+2023-12-22 C. JENSEN
+
+HAMMARGÅRD  ARV
+SKALA 1:100
+LAYOUTRITNING
+PYROLYS
 0   1   2          5                   10
-METER
+METER                                                                                                                                    PLANVY B-B                   FAS   0
 A1
 
 P-40-1-105            A
 1:100
-
-[Tabell 307-1](handlingar.tabeller/307-1.csv)
-
-| A | ÄNDRING AV TEXTRUTAN |  |  | 2024-01-08 | OSHE |
-| --- | --- | --- | --- | --- | --- |
-| A | TILLÄGG AV SKALLINJAL |  |  | 2024-01-08 | OSHE |
-| BET | ÄNDRINGEN AVSER |  |  | DATUM | SIGN |
-| - |  |  |  |  |  |
-| GRANSKNINGSHANDLING |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| 2592303 |  | OSHE | JOCA |  |  |
-| 2023-12-22 |  | C. JENSEN |  |  |  |
-| HAMMARGÅRD ARV<br>LAYOUTRITNING<br>PYROLYS<br>PLANVY B-B FAS 0 |  |  |  |  |  |
 
 <!-- sida 308 -->
 
@@ -12168,43 +12108,30 @@ SLAMFICKA
 POLYMERBEREDARE
 
 B                                                                                                                                                                      B
+A  TILLÄGG AV HÄNVISNING  2024-01-08 OSHE
+A  ÄNDRING AV TEXTRUTAN   2024-01-08 OSHE
+BET ÄNDRINGEN AVSER        DATUM  SIGN
+
+\-
+
+GRANSKNINGSHANDLING
 
 SEKTION C-C
 
-SKALA 1:100
+2592303   OSHE         JOCA
 
+2023-12-22 C. JENSEN
+
+HAMMARGÅRD  ARV
+SKALA 1:100
+LAYOUTRITNING
+PYROLYS
 0   1   2          5                   10
-METER
+METER                                                                                                                                    SEKTION C-C                  FAS   0
 A1
 
 P-40-2-103            A
 1:100
-
-[Tabell 308-1](handlingar.tabeller/308-1.csv)
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-[Tabell 308-2](handlingar.tabeller/308-2.csv)
-
-| A | TILLÄGG AV HÄNVISNING |  |  | 2024-01-08 | OSHE |
-| --- | --- | --- | --- | --- | --- |
-| A<br>BET | ÄNDRING AV TEXTRUTAN<br>ÄNDRINGEN AVSER |  |  | 2024-01-08<br>DATUM | OSHE<br>SIGN |
-| - |  |  |  |  |  |
-| GRANSKNINGSHANDLING |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| 2592303 |  | OSHE | JOCA |  |  |
-| 2023-12-22 |  | C. JENSEN |  |  |  |
-| HAMMARGÅRD ARV<br>LAYOUTRITNING<br>PYROLYS<br>SEKTION C-C FAS 0 |  |  |  |  |  |
 
 <!-- sida 309 -->
 
@@ -13377,40 +13304,21 @@ VY
 HÄNVISNINGAR:
 SE RITNING P-40-1-101 FÖR PLANVY.
 LÄNGDSEKTION       A-A
+BET ÄNDRINGEN AVSER        DATUM  SIGN
+HAMMARGÅRD        ARV
+GRANSKNINGSHANDLING
 MARKNIVÅ
-
+2592303   OSHE         JOCA
 TVÄRSEKTION      B-B
-
+2023-12-22 C. JENSEN
+HAMMARGÅRD  ARV
+LAYOUTRITNING
+LÄKEMEDELSRENING
 SKALA  1:100
-
+SEKTION A-A & B-B            FAS   0
 0   1   2           5                  10                                                                                                           A1
-
 METER                                                                                                                                                   P-40-2-101            -
 1:100
-
-[Tabell 337-1](handlingar.tabeller/337-1.csv)
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-[Tabell 337-2](handlingar.tabeller/337-2.csv)
-
-| BET | ÄNDRINGEN AVSER |  |  | DATUM | SIGN |
-| --- | --- | --- | --- | --- | --- |
-| HAMMARGÅRD ARV |  |  |  |  |  |
-| GRANSKNINGSHANDLING |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| 2592303 |  | OSHE | JOCA |  |  |
-| 2023-12-22 |  | C. JENSEN |  |  |  |
-| HAMMARGÅRD ARV<br>LAYOUTRITNING<br>LÄKEMEDELSRENING<br>SEKTION A-A & B-B FAS 0 |  |  |  |  |  |
 
 <!-- sida 338 -->
 
@@ -14651,25 +14559,6 @@ optimering av reningsverket i sin helhet
 9  Fas 3
 Åtgärder och anpassning efter slutbesiktning
 
-[Tabell 373-1](handlingar.tabeller/373-1.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
 <!-- sida 374 -->
 
 Hammargårds                        avloppsreningsverk
@@ -15571,34 +15460,57 @@ Varav undvikna emissioner                  -1 412 -1 352 -2 262 -2 970 -1 861 -1
 
 Komponentfördelning processval Hammargård 2024-03-22
 Omkostnader utfördelat på resp. disciplin Arvode 1,095
-Alternativ  Tidiga Arbeten Vattenrening Övriga byggnader/åtgärder Rötning Pyrolys Rötning + Pyrolys Slamalternativ 0 Slamalternativ 0+ Läkemedel Mellifiq Läkemedel ELVA/Envidan Våtmark
-SEK   %      SEK  %   SEK  %   SEK %   SEK  %   SEK %   SEK %   SEK %    SEK %   SEK   %
-
-Kostnad inkl arvode 9 44 399 781 kr 8 7 816 701 kr 385 792 461 kr 496 780 180 kr 764 240 390 kr 7 8 430 470 kr 228 511 224 kr 195 229 716 kr 259 629 185 kr 39 423 154 kr
-Rivning utom investering 32 056 864 kr
-
-Tidkritiska Arbeten Hittills 7 000 000 kr
-Fas 0       17 000 000 kr
-Projektering (Fas 1) (5%) 47 219 989 kr 4 390 835 kr 19 289 623 kr 24 839 009 kr 3 8 212 019 kr 3 921 524 kr 11 425 561 kr 9 761 486 kr 12 981 459 kr 1 971 158 kr
-Index (2,5% årligen) 74 173 117 kr 5 945 312 kr 46 627 223 kr 58 192 461 kr 118 542 656 kr 11 525 247 kr 27 102 756 kr 33 997 206 kr 46 523 094 kr 1 814 993 kr
-Fullgörandeförsäkring 2 860 000 kr 2 60 000 kr 1 066 000 kr 1 339 000 kr 2 119 000 kr 104 000 kr 650 000 kr 598 000 kr 780 000 kr 130 000 kr
-Byggherrekostnader (2%) 21 373 058 kr 1 968 257 kr 9 055 506 kr 11 623 013 kr 1 8 462 281 kr 1 879 625 kr 5 353 791 kr 4 791 728 kr 6 398 275 kr 866 786 kr
-Aktiva val, Hållbarhet (2%) 21 315 858 kr 1 963 057 kr 9 034 186 kr 11 596 233 kr 1 8 419 901 kr 1 877 545 kr 5 340 791 kr 4 779 768 kr 6 382 675 kr 864 186 kr
-Risk minus Möjlighet från lista (ca 10%) 114 950 000 kr 3 1 500 000 kr 29 400 000 kr 55 500 000 kr 8 3 200 000 kr 5 200 000 kr 8 800 000 kr 29 700 000 kr 36 950 000 kr 4 500 000 kr
-Fas 3                8 000 000 kr
-Total Investering   1 234 291 803 kr 1 33 844 161 kr 500 264 999 kr 659 869 896 kr 1 043 196 248 kr 102 938 410 kr 287 184 123 kr 278 857 905 kr 369 644 687 kr 49 570 276 kr
-Avrundat            1 234 000 000 kr 1 34 000 000 kr 500 000 000 kr 660 000 000 kr 1 043 000 000 kr 103 000 000 kr 287 000 000 kr 279 000 000 kr 370 000 000 kr 50 000 000 kr
 
 [Tabell 397-1](handlingar.tabeller/397-1.csv)
 
-| Betongkonstruktioner | 198 077 779 | 21% | 0 | 0% | 46 194 642 | 12% | 36 581 935 | 7% | 53 443 323 | 7% | 5 168 400 | 7% | 32 173 032 | 14% | 29 612 994 | 15% | 51 006 681 | 20% | 0 | 0% |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Stomme/Tak | 96 801 637 | 10% | 39 306 030 | 45% | 49 165 697 | 13% | 62 917 388 | 13% | 76 922 589 | 10% | 19 381 500 | 25% | 29 339 715 | 13% | 18 067 434 | 9% | 30 764 901 | 12% | 0 | 0% |
-| VS | 15 012 083 | 2% | 9 996 579 | 11% | 14 285 587 | 4% | 25 063 523 | 5% | 39 349 109 | 5% | 1 162 890 | 1% | 14 285 587 | 6% | 7 093 758 | 4% | 7 093 758 | 3% | 0 | 0% |
-| Vent | 31 657 812 | 3% | 8 501 649 | 10% | 18 551 649 | 5% | 26 743 795 | 5% | 45 295 444 | 6% | 2 325 780 | 3% | 18 551 649 | 8% | 8 867 237 | 5% | 8 867 237 | 3% | 0 | 0% |
-| El, styr & regler | 120 423 475 | 13% | 22 086 186 | 25% | 58 144 500 | 15% | 77 526 000 | 16% | 135 670 500 | 18% | 7 752 600 | 10% | 58 144 500 | 25% | 28 426 200 | 15% | 34 886 700 | 13% | 0 | 0% |
-| Process & Maskin | 239 521 060 | 25% | 0 | 0% | 183 551 372 | 48% | 253 700 253 | 51% | 383 413 124 | 50% | 29 718 300 | 38% | 60 117 728 | 26% | 86 898 583 | 45% | 107 605 302 | 41% | 3 945 154 | 10% |
-| Mark | 242 905 935 | 26% | 7 926 257 | 9% | 15 899 014 | 4% | 14 247 285 | 3% | 30 146 299 | 4% | 12 921 000 | 16% | 15 899 014 | 7% | 16 263 510 | 8% | 19 404 605 | 7% | 35 478 000 | 90% |
+| Alternativ | Tidiga Arbeten |  | Vattenrening |  | Övriga byggnader/åtgärder |  | Rötning |  | Pyrolys |  | Rötning + Pyrolys |  | Slamalternativ 0 |  | Slamalternativ 0+ |  | Läkemedel Mellifiq |  | Läkemedel ELVA/Envidan |  | Våtmark |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | SEK | % | SEK | % | SEK | % | SEK | % | SEK | % | SEK | % | SEK | % | SEK | % | SEK | % | SEK | % |
+| Betongkonstruktioner |  |  | 198 077 779 | 21% | 0 | 0% | 46 194 642 | 12% | 36 581 935 | 7% | 53 443 323 | 7% | 5 168 400 | 7% | 32 173 032 | 14% | 29 612 994 | 15% | 51 006 681 | 20% | 0 | 0% |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Stomme/Tak |  |  | 96 801 637 | 10% | 39 306 030 | 45% | 49 165 697 | 13% | 62 917 388 | 13% | 76 922 589 | 10% | 19 381 500 | 25% | 29 339 715 | 13% | 18 067 434 | 9% | 30 764 901 | 12% | 0 | 0% |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| VS |  |  | 15 012 083 | 2% | 9 996 579 | 11% | 14 285 587 | 4% | 25 063 523 | 5% | 39 349 109 | 5% | 1 162 890 | 1% | 14 285 587 | 6% | 7 093 758 | 4% | 7 093 758 | 3% | 0 | 0% |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Vent |  |  | 31 657 812 | 3% | 8 501 649 | 10% | 18 551 649 | 5% | 26 743 795 | 5% | 45 295 444 | 6% | 2 325 780 | 3% | 18 551 649 | 8% | 8 867 237 | 5% | 8 867 237 | 3% | 0 | 0% |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| El, styr & regler |  |  | 120 423 475 | 13% | 22 086 186 | 25% | 58 144 500 | 15% | 77 526 000 | 16% | 135 670 500 | 18% | 7 752 600 | 10% | 58 144 500 | 25% | 28 426 200 | 15% | 34 886 700 | 13% | 0 | 0% |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Process & Maskin |  |  | 239 521 060 | 25% | 0 | 0% | 183 551 372 | 48% | 253 700 253 | 51% | 383 413 124 | 50% | 29 718 300 | 38% | 60 117 728 | 26% | 86 898 583 | 45% | 107 605 302 | 41% | 3 945 154 | 10% |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Mark |  |  | 242 905 935 | 26% | 7 926 257 | 9% | 15 899 014 | 4% | 14 247 285 | 3% | 30 146 299 | 4% | 12 921 000 | 16% | 15 899 014 | 7% | 16 263 510 | 8% | 19 404 605 | 7% | 35 478 000 | 90% |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Kostnad inkl arvode |  |  | 944 399 781 kr |  | 87 816 701 kr |  | 385 792 461 kr |  | 496 780 180 kr |  | 764 240 390 kr |  | 78 430 470 kr |  | 228 511 224 kr |  | 195 229 716 kr |  | 259 629 185 kr |  | 39 423 154 kr |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rivning utom investering | 32 056 864 kr |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Tidkritiska Arbeten Hittills | 7 000 000 kr |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fas 0 | 17 000 000 kr |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Projektering (Fas 1) (5%) |  |  | 47 219 989 kr |  | 4 390 835 kr |  | 19 289 623 kr |  | 24 839 009 kr |  | 38 212 019 kr |  | 3 921 524 kr |  | 11 425 561 kr |  | 9 761 486 kr |  | 12 981 459 kr |  | 1 971 158 kr |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Index (2,5% årligen) |  |  | 74 173 117 kr |  | 5 945 312 kr |  | 46 627 223 kr |  | 58 192 461 kr |  | 118 542 656 kr |  | 11 525 247 kr |  | 27 102 756 kr |  | 33 997 206 kr |  | 46 523 094 kr |  | 1 814 993 kr |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fullgörandeförsäkring |  |  | 2 860 000 kr |  | 260 000 kr |  | 1 066 000 kr |  | 1 339 000 kr |  | 2 119 000 kr |  | 104 000 kr |  | 650 000 kr |  | 598 000 kr |  | 780 000 kr |  | 130 000 kr |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Byggherrekostnader (2%) |  |  | 21 373 058 kr |  | 1 968 257 kr |  | 9 055 506 kr |  | 11 623 013 kr |  | 18 462 281 kr |  | 1 879 625 kr |  | 5 353 791 kr |  | 4 791 728 kr |  | 6 398 275 kr |  | 866 786 kr |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Aktiva val, Hållbarhet (2%) |  |  | 21 315 858 kr |  | 1 963 057 kr |  | 9 034 186 kr |  | 11 596 233 kr |  | 18 419 901 kr |  | 1 877 545 kr |  | 5 340 791 kr |  | 4 779 768 kr |  | 6 382 675 kr |  | 864 186 kr |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Risk minus Möjlighet från lista (ca 10%) |  |  | 114 950 000 kr |  | 31 500 000 kr |  | 29 400 000 kr |  | 55 500 000 kr |  | 83 200 000 kr |  | 5 200 000 kr |  | 8 800 000 kr |  | 29 700 000 kr |  | 36 950 000 kr |  | 4 500 000 kr |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fas 3 |  |  | 8 000 000 kr |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Total Investering |  |  | 1 234 291 803 kr |  | 133 844 161 kr |  | 500 264 999 kr |  | 659 869 896 kr |  | 1 043 196 248 kr |  | 102 938 410 kr |  | 287 184 123 kr |  | 278 857 905 kr |  | 369 644 687 kr |  | 49 570 276 kr |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Avrundat |  |  | 1 234 000 000 kr |  | 134 000 000 kr |  | 500 000 000 kr |  | 660 000 000 kr |  | 1 043 000 000 kr |  | 103 000 000 kr |  | 287 000 000 kr |  | 279 000 000 kr |  | 370 000 000 kr |  | 50 000 000 kr |  |
 
 <!-- sida 398 -->
 
@@ -19318,7 +19230,7 @@ Tabell 6. Risker som RSG bedömt att det finns utrymme att hantera bättre.
 
 34 (70)
 
-[Tabell 480-1](handlingar.tabeller/480-1.csv)
+[Tabell 480-481-1](handlingar.tabeller/480-481-1.csv)
 
 | Risk | Vad behöver RSG förbättra? |
 | --- | --- |
@@ -19331,22 +19243,17 @@ Tabell 6. Risker som RSG bedömt att det finns utrymme att hantera bättre.
 | Brand i bostad | RSG behöver fortsätta arbetet med att förebygga bostadsbränder hos riskutsatta<br>människor och områden. RSG behöver också fortsätta vidta åtgärder för att minska<br>risken för allvarliga konsekvenser i bostadshus där utrymning kan behöva ske via<br>räddningstjänsten stegutrustning. |
 | Brand i skola och<br>förskola | Det finns områden inom förbundet med högre sannolikhet för skolbrand och RSG<br>behöver fortsätta med förebyggande åtgärder riktade mot dessa områden. |
 | Brand i komplex<br>byggnation | RSG behöver ha uppdaterade metoder och teknik för att klara dessa typer av bränder. |
+| Brand i skog och<br>mark | I och med den förändrade riskbilden kopplat till skogsbränder i framtiden behöver<br>RSG på sikt utveckla förmågan att förebygga och minska konsekvenserna vid dessa<br>typer av bränder. |
+| Brand i fartyg | Brand i fartyg inklusive kryssningsfartyg är en händelse som sker sällan men det är<br>viktigt att kompetens inom området säkerställs eftersom en brand kan få omfattande<br>konsekvenser. |
+| Olycka med farliga<br>ämnen | RSG har en hög förmåga, men samtidigt är risken för att denna typ av olycka ska ske<br>stor. Därför behöver det övervägas ytterligare åtgärdsalternativ för att kunna minska<br>konsekvenserna vid en olycka. |
+| Naturolycka | Västkusten är ett utsatt område och kommer bli alltmer utsatt i och med klimat-<br>förändringar. RSG behöver därför bredda sin kompetens inom ras och skred samt<br>utreda om ytterligare åtgärdsalternativ behövs för att minska konsekvenserna vid<br>översvämning. |
+| Avsiktliga händelser | RSG:s arbete med avsiktliga bränder har gett effekt, men samtidigt ökar oroligheterna<br>i världen och i vårt område. RSG behöver därför fortsätta utveckla sin förmåga att<br>förebygga samt minska konsekvenserna vid avsiktliga händelser. |
 
 <!-- sida 481 -->
 
 Handlingsprogram enligt LSO 2024
 
 35 (70)
-
-[Tabell 481-1](handlingar.tabeller/481-1.csv)
-
-| Risk | Vad behöver RSG förbättra? |
-| --- | --- |
-| Brand i skog och<br>mark | I och med den förändrade riskbilden kopplat till skogsbränder i framtiden behöver<br>RSG på sikt utveckla förmågan att förebygga och minska konsekvenserna vid dessa<br>typer av bränder. |
-| Brand i fartyg | Brand i fartyg inklusive kryssningsfartyg är en händelse som sker sällan men det är<br>viktigt att kompetens inom området säkerställs eftersom en brand kan få omfattande<br>konsekvenser. |
-| Olycka med farliga<br>ämnen | RSG har en hög förmåga, men samtidigt är risken för att denna typ av olycka ska ske<br>stor. Därför behöver det övervägas ytterligare åtgärdsalternativ för att kunna minska<br>konsekvenserna vid en olycka. |
-| Naturolycka | Västkusten är ett utsatt område och kommer bli alltmer utsatt i och med klimat-<br>förändringar. RSG behöver därför bredda sin kompetens inom ras och skred samt<br>utreda om ytterligare åtgärdsalternativ behövs för att minska konsekvenserna vid<br>översvämning. |
-| Avsiktliga händelser | RSG:s arbete med avsiktliga bränder har gett effekt, men samtidigt ökar oroligheterna<br>i världen och i vårt område. RSG behöver därför fortsätta utveckla sin förmåga att<br>förebygga samt minska konsekvenserna vid avsiktliga händelser. |
 
 <!-- sida 482 -->
 
@@ -23731,13 +23638,25 @@ enligt kommunstyrelsens arbetsutskotts förslag.
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 593-1](handlingar.tabeller/593-1.csv)
+[Tabell 593-594-1](handlingar.tabeller/593-594-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
 | Thure Sandén (M) | X |  |  |
 | Kalle Påsse Sundvall (M) | X |  |  |
 | Marianne Pleijel (M) | X |  |  |
+| Peter Söderberg (M) |  | X |  |
+| Maria Gathendahl (M) | X |  |  |
+| Fredrik Hansson (C) | X |  |  |
+| Kristina Karlsson (C) | X |  |  |
+| Monica Neptun (L) |  | X |  |
+| Niklas Mattsson (KD) | X |  |  |
+| Eva Borg (S) | X |  |  |
+| Johan Tolinsson (S) | X |  |  |
+| Carita Boulwén (SD) |  | X |  |
+| Susanne Andersson (SD) |  | X |  |
+| Maria Losman (MP) |  | X |  |
+| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 594 -->
 
@@ -23753,22 +23672,6 @@ Beslutet skickas till
 Sökanden
 
 Justerare                         Expedierat/bestyrkt
-
-[Tabell 594-1](handlingar.tabeller/594-1.csv)
-
-| Peter Söderberg (M) |  | X |  |
-| --- | --- | --- | --- |
-| Maria Gathendahl (M) | X |  |  |
-| Fredrik Hansson (C) | X |  |  |
-| Kristina Karlsson (C) | X |  |  |
-| Monica Neptun (L) |  | X |  |
-| Niklas Mattsson (KD) | X |  |  |
-| Eva Borg (S) | X |  |  |
-| Johan Tolinsson (S) | X |  |  |
-| Carita Boulwén (SD) |  | X |  |
-| Susanne Andersson (SD) |  | X |  |
-| Maria Losman (MP) |  | X |  |
-| Lisa Andersson (M) | X |  |  |
 
 <!-- sida 595 -->
 
@@ -25706,12 +25609,17 @@ Kungsbacka kommun             Bredbandstaxa 2024               7 (10)
 | Dimensionering utrustning/stativplats | 42U | 10 000 kr | 6 900 kr |
 | UPS 230VAC, 10A A-B kraft, med driftid<br>24 tim | 2000W | 2 500 kr | El/kyla faktisk förbrukning<br>per månad |
 
-[Tabell 656-4](handlingar.tabeller/656-4.csv)
+[Tabell 656-657-4](handlingar.tabeller/656-657-4.csv)
 
 | MeetMe C | Antal | Engångsavgift | Månadsavgift |
 | --- | --- | --- | --- |
 | Dimensionering utrustning/stativplats | 42U | 10 000 kr | 5 800 kr |
 | UPS 230VAC, 10A A-B kraft, med driftid<br>4 tim | 2000W | 2 500 kr | El/kyla faktisk<br>förbrukning per månad |
+| Områdesnod - Rack - Mellan | Antal | Engångsavgift | Månadsavgift |
+| Dimensionering utrustning/stativplats | 40U | 5 000 kr | 2 475 kr |
+| 230VAC, 10A A-B kraft | 2000W | - kr | 1 460 kr |
+| UPS 230VAC, 10A, Drifttid minst 2tim | 2000W | 10 000 kr | 2 565 kr |
+| Option extra UPS 230VAC, 10A, 2 tim<br>(Drifttid minst 4tim) | 2000W | 10 000 kr | 2 565 kr |
 
 <!-- sida 657 -->
 
@@ -25724,15 +25632,6 @@ Kungsbacka kommun             Bredbandstaxa 2024               8 (10)
 
 [Tabell 657-1](handlingar.tabeller/657-1.csv)
 
-| Områdesnod - Rack - Mellan | Antal | Engångsavgift | Månadsavgift |
-| --- | --- | --- | --- |
-| Dimensionering utrustning/stativplats | 40U | 5 000 kr | 2 475 kr |
-| 230VAC, 10A A-B kraft | 2000W | - kr | 1 460 kr |
-| UPS 230VAC, 10A, Drifttid minst 2tim | 2000W | 10 000 kr | 2 565 kr |
-| Option extra UPS 230VAC, 10A, 2 tim<br>(Drifttid minst 4tim) | 2000W | 10 000 kr | 2 565 kr |
-
-[Tabell 657-2](handlingar.tabeller/657-2.csv)
-
 | Områdesnod - Mellan | Antal | Engångsavgift | Månadsavgift |
 | --- | --- | --- | --- |
 | Dimensionering utrustning/stativplats | 12U | 5 000 kr | 1 750 kr |
@@ -25742,7 +25641,7 @@ Kungsbacka kommun             Bredbandstaxa 2024               8 (10)
 | Option Extra effektuttag UPS 230VAC,<br>10A, Drifttid minst 2tim | 350W | 10 000 kr | 450 kr |
 | Option extra UPS 230VAC, 10A, 2 tim<br>(Drifttid minst 4tim) | 350W | 10 000 kr | 450 kr |
 
-[Tabell 657-3](handlingar.tabeller/657-3.csv)
+[Tabell 657-2](handlingar.tabeller/657-2.csv)
 
 | Områdesnod - Liten | Antal | Engångsavgift | Månadsavgift |
 | --- | --- | --- | --- |

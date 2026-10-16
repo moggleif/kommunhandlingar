@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.13dfabc419e219f93c27304f/1779119338
 sha256: 121b95e29e8bd2339fe593f599050caac66fc1d9906960db5223a5cd7e70c4fe
 bytes: 4265517
 sidor: 48
-hamtad: 2026-10-09T12:12:20+00:00
-konverterad: 2026-10-09T12:12:30+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-16T09:59:09+00:00
+konverterad: 2026-10-16T09:59:22+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: [6, 17, 21, 22, 23, 24, 28, 41, 42, 43, 44, 46, 48]
+figurer: [6, 17, 21, 23, 24, 28, 41, 42, 43, 44, 46, 48]
 tolkade: []
 ---
 
@@ -264,21 +264,9 @@ bedömningen av arbetet med mål och direktiv gör vi i samband med delårsboksl
 
 Resultat, prognos
 
-Budget
-Prognos
-Miljoner kronor              2022  2023 2024  2025 2026 inkl.
-2026
-ombudget
-Årets resultat, prognos       753   231  286   604     320   508
-Avgår jämförelsestörande poster: -184 52 -75   -57      0   -142
-0
-\- varav resultat från exploateringsverksamhet -184 40 23 46  -145
-¹ Strukturellt resultat/prognos 569 276  211   548     320   366
-Resultatets andel av skatter & statsbidrag
-Årets resultat (%)            13,1  3,8   4,6  9,5     4,8   7,7
-Strukturellt resultat (%)     9,8   4,7   3,4  8,6     4,8   5,5
 ¹Årets resultat exklusive jämförelsestörande poster
 Prognosen är att årets resultat blir 508 miljoner kronor. Det är 96 miljoner kronor lägre än resultatet
+
 förra året. Det prognostiserade resultatet motsvarar 7,7 procent av skatteintäkter och statsbidrag,
 jämfört med 9,5 procent förra året. Kommunen har inte med resultatet från
 exploateringsverksamheten i budgeten eftersom det är osäkert när i tiden det kommer. I
@@ -299,6 +287,18 @@ långsammare än ökningen av nettokostnaderna.
 Kungsbacka kommun         Apriluppföljning 2026                 4
 
 [Tabell 9-1](handlingar.tabeller/9-1.csv)
+
+| Miljoner kronor | 2022 | 2023 | 2024 | 2025 | Budget<br>2026 inkl.<br>ombudget | Prognos<br>2026 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Årets resultat, prognos | 753 | 231 | 286 | 604 | 320 | 508 |
+| Avgår jämförelsestörande poster: | -184 | 52 | -75 | -57 | 0 | -142 |
+| - varav resultat från exploateringsverksamhet | -184 | 40 | 23 | 46 | 0 | -145 |
+| ¹ Strukturellt resultat/prognos | 569 | 276 | 211 | 548 | 320 | 366 |
+| Resultatets andel av skatter & statsbidrag |  |  |  |  |  |  |
+| Årets resultat (%) | 13,1 | 3,8 | 4,6 | 9,5 | 4,8 | 7,7 |
+| Strukturellt resultat (%) | 9,8 | 4,7 | 3,4 | 8,6 | 4,8 | 5,5 |
+
+[Tabell 9-2](handlingar.tabeller/9-2.csv)
 
 | Procent | 2022 | 2023 | 2024 | 2025 | Budget<br>2026 | Prognos<br>2026 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -555,7 +555,7 @@ Kungsbacka kommun         Apriluppföljning 2026                 9
 | Jämförelsestörande poster | -57 | 0 | -142 | -142 |
 | Strukturellt resultat | 548 | 320 | 366 | 46 |
 
-[Tabell 14-2](handlingar.tabeller/14-2.csv)
+[Tabell 14-15-2](handlingar.tabeller/14-15-2.csv)
 
 | Miljoner kronor | Resultatfond<br>2026 | Bokslut 2025 | Budget 2026 | Prognos<br>2026 | Prognos-<br>avvikelse | Avvikelse<br>% |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -571,6 +571,17 @@ Kungsbacka kommun         Apriluppföljning 2026                 9
 | SE Fastigheter | 110,0 | -0,1 | -26,4 | -23,7 | 2,7 | 10,4 |
 | Miljö & Hälsoskydd | 0 | -0,9 | -1,1 | -1,0 | 0,1 | 9,3 |
 | Byggnadsnämnden | 7,2 | -38,7 | -40,3 | -40,9 | -0,6 | -1,5 |
+| Individ & Familjeomsorg | 9,8 | -836,2 | -882,3 | -882,3 | 0,0 | 0,0 |
+| Vård & Omsorg | 153,3 | -1 185,7 | -1 278,5 | -1 289,0 | -10,4 | -0,8 |
+| Skattefinansierade<br>nämnder | 584,3 | -5 878,2 | -6 229,7 | -6 215,3 | 14,4 | 0,2 |
+| Kungsbacka<br>Bredbandsnät |  | 0,0 | 0,0 | -4,9 | -4,9 | - |
+| Vatten & Avlopp |  | 0,0 | 0,0 | 3,0 | 3,0 | - |
+| Avfall & Återvinning |  | 0,0 | 0,0 | 0,1 | 0,1 | - |
+| Avgiftsfinansierade<br>verksamheter |  | 0,0 | 0,0 | -1,9 | -1,9 | - |
+| Summa nämnder |  | -5 878,2 | -6 229,7 | -6 217,1 | 12,6 | 0,2 |
+| ¹ Finansverksamheten | 11,3 | 143,6 | 16,6 | 178,9 | 162,4 | - |
+| Justering interna poster<br>med mera | - | 558,1 | 525,3 | 616,3 | 91,0 | - |
+| Verksamhetens<br>nettokostnader | 595,6 | -5 176,5 | -5 687,8 | -5 421,9 | 266 | - |
 
 <!-- sida 15 -->
 
@@ -612,21 +623,6 @@ Teknik prognostiserar ett underskott på cirka åtta miljoner kronor. Det beror 
 kostnader för vinterväghållning. Den avgiftsfinansierade verksamheten redovisar sammantaget ett
 
 Kungsbacka kommun         Apriluppföljning 2026                10
-
-[Tabell 15-1](handlingar.tabeller/15-1.csv)
-
-| Individ & Familjeomsorg | 9,8 | -836,2 | -882,3 | -882,3 | 0,0 | 0,0 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Vård & Omsorg | 153,3 | -1 185,7 | -1 278,5 | -1 289,0 | -10,4 | -0,8 |
-| Skattefinansierade<br>nämnder | 584,3 | -5 878,2 | -6 229,7 | -6 215,3 | 14,4 | 0,2 |
-| Kungsbacka<br>Bredbandsnät |  | 0,0 | 0,0 | -4,9 | -4,9 | - |
-| Vatten & Avlopp |  | 0,0 | 0,0 | 3,0 | 3,0 | - |
-| Avfall & Återvinning |  | 0,0 | 0,0 | 0,1 | 0,1 | - |
-| Avgiftsfinansierade<br>verksamheter |  | 0,0 | 0,0 | -1,9 | -1,9 | - |
-| Summa nämnder |  | -5 878,2 | -6 229,7 | -6 217,1 | 12,6 | 0,2 |
-| ¹ Finansverksamheten | 11,3 | 143,6 | 16,6 | 178,9 | 162,4 | - |
-| Justering interna poster<br>med mera | - | 558,1 | 525,3 | 616,3 | 91,0 | - |
-| Verksamhetens<br>nettokostnader | 595,6 | -5 176,5 | -5 687,8 | -5 421,9 | 266 | - |
 
 <!-- sida 16 -->
 
@@ -911,52 +907,70 @@ Stenungsunds kommun              31 352 259 32 355 531 33 423 264 34 492 808
 Lilla Edets kommun               14 318 330 14 776 517 15 264 142 15 752 594
 Summa                           655 655 747 676 636 731 698 965 743 721 332 647
 Infasningsavgifte fasas ut i etapper från och med 2028 -25 % -50 %
-Infasningsavgifter               2026   2027  2028  2029
-Tjörns kommun                    3 521 449 3 634 135 2 815 546 1 937 096
-Stenungsunds kommun              8 904 189 9 189 123 7 119 273 4 898 060
-Lilla Edets kommun               4 060 547 4 190 485 3 246 578 2 233 646
-Summa                            16 486 185 17 013 743 13 181 397 9 068 801
-Medlemsavgift för räddningstjänst + Infasningsavgift 2026 2027 2028 2029
-Göteborgs kommun                421 910 410 435 411 543 449 780 124 464 173 088
-Mölndals kommun                  39 501 562 40 765 612 42 110 877 43 458 425
-Kungsbacka kommun                58 444 476 60 314 699 62 305 084 64 298 847
-Partille kommun                  22 230 932 22 942 322 23 699 418 24 457 800
-Härryda kommun                   26 951 514 27 813 962 28 731 823 29 651 242
-Lerums kommun                    28 565 351 29 479 442 30 452 264 31 426 736
-Tjörns kommun                    15 902 362 16 411 238 16 014 293 15 558 202
-Stenungsunds kommun              40 256 448 41 544 654 40 542 537 39 390 868
-Lilla Edets kommun               18 378 877 18 967 001 18 510 719 17 986 240
-Summa                           672 141 932 693 650 474 712 147 140 730 401 448
+
 Forts nästa sida
+
+[Tabell 22-1](handlingar.tabeller/22-1.csv)
+
+| Infasningsavgifter | 2026 | 2027 | 2028 | 2029 |
+| --- | --- | --- | --- | --- |
+| Tjörns kommun | 3 521 449 | 3 634 135 | 2 815 546 | 1 937 096 |
+| Stenungsunds kommun | 8 904 189 | 9 189 123 | 7 119 273 | 4 898 060 |
+| Lilla Edets kommun | 4 060 547 | 4 190 485 | 3 246 578 | 2 233 646 |
+| Summa | 16 486 185 | 17 013 743 | 13 181 397 | 9 068 801 |
+
+[Tabell 22-2](handlingar.tabeller/22-2.csv)
+
+| Medlemsavgift för räddningstjänst + Infasningsavgift | 2026 | 2027 | 2028 | 2029 |
+| --- | --- | --- | --- | --- |
+| Göteborgs kommun | 421 910 410 | 435 411 543 | 449 780 124 | 464 173 088 |
+| Mölndals kommun | 39 501 562 | 40 765 612 | 42 110 877 | 43 458 425 |
+| Kungsbacka kommun | 58 444 476 | 60 314 699 | 62 305 084 | 64 298 847 |
+| Partille kommun | 22 230 932 | 22 942 322 | 23 699 418 | 24 457 800 |
+| Härryda kommun | 26 951 514 | 27 813 962 | 28 731 823 | 29 651 242 |
+| Lerums kommun | 28 565 351 | 29 479 442 | 30 452 264 | 31 426 736 |
+| Tjörns kommun | 15 902 362 | 16 411 238 | 16 014 293 | 15 558 202 |
+| Stenungsunds kommun | 40 256 448 | 41 544 654 | 40 542 537 | 39 390 868 |
+| Lilla Edets kommun | 18 378 877 | 18 967 001 | 18 510 719 | 17 986 240 |
+| Summa | 672 141 932 | 693 650 474 | 712 147 140 | 730 401 448 |
 
 <!-- sida 23 -->
 
 3(3)
 
 Bilaga sida 2 - Medlemskommunernas avgifter, kronor exkl moms
-Medlemsavgift för pensionskostnader\* 2026 2027 2028 2029
-Göteborgs kommun                 58 175 000 57 600 000 68 478 000 75 388 000
-Mölndals kommun                  5 451 000 5 397 000 6 417 000 7 064 000
-Kungsbacka kommun                8 055 000 7 975 000 9 482 000 10 438 000
-Partille kommun                  3 065 000 3 034 000 3 607 000 3 971 000
-Härryda kommun                   3 716 000 3 679 000 4 374 000 4 815 000
-Lerums kommun                    3 942 000 3 903 000 4 640 000 5 108 000
-Tjörns kommun                    1 709 000 1 692 000 2 011 000 2 214 000
-Stenungsunds kommun              4 321 000 4 279 000 5 087 000 5 600 000
-Lilla Edets kommun               1 971 000 1 951 000 2 320 000 2 554 000
-Summa                            90 405 000 89 510 000 106 416 000 117 152 000
+
 \*2027-2029 enligt KPA Prognos 2025-12-04 inkl avsättning för SAP-R
-Summa medlemsavgifter inkl infasningsavgifter och pensionkostnader 2026 2027 2028 2029
-Göteborgs kommun                480 085 410 493 011 543 518 258 124 539 561 088
-Mölndals kommun                  44 952 562 46 162 612 48 527 877 50 522 425
-Kungsbacka kommun                66 499 476 68 289 699 71 787 084 74 736 847
-Partille kommun                  25 295 932 25 976 322 27 306 418 28 428 800
-Härryda kommun                   30 667 514 31 492 962 33 105 823 34 466 242
-Lerums kommun                    32 507 351 33 382 442 35 092 264 36 534 736
-Tjörns kommun                    17 611 362 18 103 238 18 025 293 17 772 202
-Stenungsunds kommun              44 577 448 45 823 654 45 629 537 44 990 868
-Lilla Edets kommun               20 349 877 20 918 001 20 830 719 20 540 240
-Summa                           762 546 932 783 160 474 818 563 140 847 553 448
+
+[Tabell 23-1](handlingar.tabeller/23-1.csv)
+
+| Medlemsavgift för pensionskostnader\* | 2026 | 2027 | 2028 | 2029 |
+| --- | --- | --- | --- | --- |
+| Göteborgs kommun | 58 175 000 | 57 600 000 | 68 478 000 | 75 388 000 |
+| Mölndals kommun | 5 451 000 | 5 397 000 | 6 417 000 | 7 064 000 |
+| Kungsbacka kommun | 8 055 000 | 7 975 000 | 9 482 000 | 10 438 000 |
+| Partille kommun | 3 065 000 | 3 034 000 | 3 607 000 | 3 971 000 |
+| Härryda kommun | 3 716 000 | 3 679 000 | 4 374 000 | 4 815 000 |
+| Lerums kommun | 3 942 000 | 3 903 000 | 4 640 000 | 5 108 000 |
+| Tjörns kommun | 1 709 000 | 1 692 000 | 2 011 000 | 2 214 000 |
+| Stenungsunds kommun | 4 321 000 | 4 279 000 | 5 087 000 | 5 600 000 |
+| Lilla Edets kommun | 1 971 000 | 1 951 000 | 2 320 000 | 2 554 000 |
+| Summa | 90 405 000 | 89 510 000 | 106 416 000 | 117 152 000 |
+
+[Tabell 23-2](handlingar.tabeller/23-2.csv)
+
+| Summa medlemsavgifter inkl infasningsavgifter och pensionkostnader | 2026 | 2027 | 2028 | 2029 |
+| --- | --- | --- | --- | --- |
+| Göteborgs kommun | 480 085 410 | 493 011 543 | 518 258 124 | 539 561 088 |
+| Mölndals kommun | 44 952 562 | 46 162 612 | 48 527 877 | 50 522 425 |
+| Kungsbacka kommun | 66 499 476 | 68 289 699 | 71 787 084 | 74 736 847 |
+| Partille kommun | 25 295 932 | 25 976 322 | 27 306 418 | 28 428 800 |
+| Härryda kommun | 30 667 514 | 31 492 962 | 33 105 823 | 34 466 242 |
+| Lerums kommun | 32 507 351 | 33 382 442 | 35 092 264 | 36 534 736 |
+| Tjörns kommun | 17 611 362 | 18 103 238 | 18 025 293 | 17 772 202 |
+| Stenungsunds kommun | 44 577 448 | 45 823 654 | 45 629 537 | 44 990 868 |
+| Lilla Edets kommun | 20 349 877 | 20 918 001 | 20 830 719 | 20 540 240 |
+| Summa | 762 546 932 | 783 160 474 | 818 563 140 | 847 553 448 |
 
 <!-- sida 24 -->
 
@@ -1602,13 +1616,6 @@ kommunerna Tjörn, Stenungsund och Lilla Edet, vilket speglas i statistiken.
 Personalstatistik
 Uppgifter per 31/12
 
-2025  2024  2023   2022  2021
-Arbetad tid
-Antal årsarbetare\*            812   798   797   725   722
-Antal anställda per december
-
-Anställda per december inkl. RIB
-
 \*Beräkning enligt SKR:s definition. Med årsarbetare menas summan av de anställdas sysselsättningsgrader,
 t.ex. 100 % sysselsättningsgrad motsvarar 1,0 årsarbetare och 75 procent 0,75.
 
@@ -1618,8 +1625,12 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                            14(19)
 
 [Tabell 37-1](handlingar.tabeller/37-1.csv)
 
-| Totalt antal anställda (inkl timanställda) | 820 | 802 | 804 | 737 | 733 |
+|  | 2025 | 2024 | 2023 | 2022 | 2021 |
 | --- | --- | --- | --- | --- | --- |
+| Arbetad tid |  |  |  |  |  |
+| Antal årsarbetare\* | 812 | 798 | 797 | 725 | 722 |
+| Antal anställda per december |  |  |  |  |  |
+| Totalt antal anställda (inkl timanställda) | 820 | 802 | 804 | 737 | 733 |
 | varav tillsvidareanställda | 779 | 772 | 767 | 695 | 703 |
 | varav tidsbegränsade anställda (exkl tim) | 34 | 27 | 32 | 31 | 21 |
 | varav timanställda | 7 | 3 | 5 | 11 | 9 |
@@ -1630,11 +1641,8 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                            14(19)
 | varav anställda, män | 678 | 662 | 669 | 605 | 611 |
 | varav kvinnor i procent | 17 | 17 | 16 | 17 | 17 |
 | varav män i procent | 83 | 83 | 84 | 83 | 83 |
-
-[Tabell 37-2](handlingar.tabeller/37-2.csv)
-
+| Anställda per december inkl. RIB |  |  |  |  |  |
 | Antal anställda (inkl timanställda) | 820 | 802 | 804 | 737 | 733 |
-| --- | --- | --- | --- | --- | --- |
 | Antal beredskapsanställda (RIB) | 206 | 216 | 208 | 148 | 148 |
 | Totalt | 1026 | 1018 | 1012 | 885 | 881 |
 | Ej anställda | 247 | 226 | 223 | 171 | 164 |
@@ -1651,7 +1659,7 @@ Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 7.1 Preliminär Resultatbudget 2027 och 2028 - 2029
 Miljontal kronor           2025   2027  2028  2029
 Verksamhetens intäkter
-Medlemsavgifter Göteborg 4 76,7 493,0 518,3 539,6
+Medlemsavgifter Göteborg 476,7 493,0 518,3 539,6
 Medlemsavgifter Mölndal 44,6    46,1 48,5  50,5
 Medlemsavgifter Kungsbacka 66,0 68,3 71,8  74,7
 Medlemsavgifter Partille 25,1   26,0 27,3  28,4
@@ -1677,9 +1685,9 @@ Entreprenad- och konsultkostnader - 41,4 - 53,0 - 47,4 - 49,3
 Personalkostnader     - 656,7 - 711,7 - 742,4 - 774,8
 varav lön och soc avg - 571,6 - 630,7 - 655,9 - 682,1
 varav pensionskostnader - 85,1 - 81,0 - 86,5 - 92,7
-Övriga verksamhetskostnader - 1 43,0 - 149,9 - 154,5 - 159,4
+Övriga verksamhetskostnader - 143,0 - 149,9 - 154,5 - 159,4
 S:a kostnader         - 841,1 - 914,6 - 944,3 - 983,5
-Avskrivningar         - 4 4,5 - 49,3 - 49,3 - 49,3
+Avskrivningar         - 44,5  - 49,3 - 49,3 - 49,3
 varav Färjenäs utbildning- och övningsanläggning - 2,5 - 2,5 - 2,5 - 2,5
 varav säkerhetsinvesteringar - 1,5 - 1,5 - 1,5 - 1,5
 Verksamhetens nettokostnader 25,5 - 8,4 3,0 - 1,5
@@ -1688,9 +1696,9 @@ Generella statsbidrag och utjämning - -     -
 Verksamhetens resultat     25,5  - 8,4  3,0 - 1,5
 Finansiella intäkter    6,6    13,0  13,0  13,0
 
-Finansiella kostnader - 2 0,5 - 8 ,6 - 20,0 - 24,6
+Finansiella kostnader - 20,5  - 8,6 - 20,0 - 24,6
 varav pensionskostnader - 20,4 - 8,5 - 19,9 - 24,5
-Resultat efter finansiella poster 11,6 - 4,0 - 4,0 - 1 3,1
+Resultat efter finansiella poster 11,6 - 4,0 - 4,0 - 13,1
 
 Underskott att hantera                     9,1
 ÅRETS RESULTAT             11,6  - 4,0 - 4,0 - 4,0
@@ -1739,56 +1747,74 @@ Stenungsunds kommun              31 352 259 32 355 531 33 423 264 34 492 808
 Lilla Edets kommun               14 318 330 14 776 517 15 264 142 15 752 594
 Summa                            655 655 747 676 636 731 698 965 743 721 332 647
 Infasningsavgifte fasas ut i etapper från och med 2028 -25 % -50 %
-Infasningsavgifter               2026   2027  2028  2029
-Tjörns kommun                     3 521 449 3 634 135 3 724 080 1 921 625
-Stenungsunds kommun               8 904 189 9 189 123 9 416 554 4 858 942
-Lilla Edets kommun                4 060 547 4 190 485 4 294 199 2 215 807
-Summa                            16 486 185 17 013 743 13 076 125 8 996 374
-Medlemsavgift för räddningstjänst + Infasningsavgift 2026 2027 2028 2029
-Göteborgs kommun                 421 910 410 435 411 543 449 780 124 464 173 088
-Mölndals kommun                  39 501 562 40 765 612 42 110 877 43 458 425
-Kungsbacka kommun                58 444 476 60 314 699 62 305 084 64 298 847
-Partille kommun                  22 230 932 22 942 322 23 699 418 24 457 800
-Härryda kommun                   26 951 514 27 813 962 28 731 823 29 651 242
-Lerums kommun                    28 565 351 29 479 442 30 452 264 31 426 736
-Tjörns kommun                    15 902 362 16 411 238 16 922 827 15 542 732
-Stenungsunds kommun              40 256 448 41 544 654 42 839 818 39 351 750
-Lilla Edets kommun               18 378 877 18 967 001 19 558 341 17 968 401
-Summa                            672 141 932 693 650 474 716 400 576 730 329 021
+
 Fortsättning nästa sida
 
 RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                            16(19)
+
+[Tabell 39-1](handlingar.tabeller/39-1.csv)
+
+| Infasningsavgifter | 2026 | 2027 | 2028 | 2029 |
+| --- | --- | --- | --- | --- |
+| Tjörns kommun | 3 521 449 | 3 634 135 | 3 724 080 | 1 921 625 |
+| Stenungsunds kommun | 8 904 189 | 9 189 123 | 9 416 554 | 4 858 942 |
+| Lilla Edets kommun | 4 060 547 | 4 190 485 | 4 294 199 | 2 215 807 |
+| Summa | 16 486 185 | 17 013 743 | 13 076 125 | 8 996 374 |
+
+[Tabell 39-2](handlingar.tabeller/39-2.csv)
+
+| Medlemsavgift för räddningstjänst + Infasningsavgift | 2026 | 2027 | 2028 | 2029 |
+| --- | --- | --- | --- | --- |
+| Göteborgs kommun | 421 910 410 | 435 411 543 | 449 780 124 | 464 173 088 |
+| Mölndals kommun | 39 501 562 | 40 765 612 | 42 110 877 | 43 458 425 |
+| Kungsbacka kommun | 58 444 476 | 60 314 699 | 62 305 084 | 64 298 847 |
+| Partille kommun | 22 230 932 | 22 942 322 | 23 699 418 | 24 457 800 |
+| Härryda kommun | 26 951 514 | 27 813 962 | 28 731 823 | 29 651 242 |
+| Lerums kommun | 28 565 351 | 29 479 442 | 30 452 264 | 31 426 736 |
+| Tjörns kommun | 15 902 362 | 16 411 238 | 16 922 827 | 15 542 732 |
+| Stenungsunds kommun | 40 256 448 | 41 544 654 | 42 839 818 | 39 351 750 |
+| Lilla Edets kommun | 18 378 877 | 18 967 001 | 19 558 341 | 17 968 401 |
+| Summa | 672 141 932 | 693 650 474 | 716 400 576 | 730 329 021 |
 
 <!-- sida 40 -->
 
 Budgetunderlag verksamhetsåret 2027 plan 2028 - 2029
 
 Bilaga sida 2 - Medlemskommunernas avgifter, kronor exkl moms
-Medlemsavgift för pensionskostnader\* 2026 2027 2028 2029
-Göteborgs kommun                 58 175 000 57 600 000 68 478 000 75 388 000
-Mölndals kommun                   5 451 000 5 397 000 6 417 000 7 064 000
-Kungsbacka kommun                 8 055 000 7 975 000 9 482 000 10 438 000
-Partille kommun                   3 065 000 3 034 000 3 607 000 3 971 000
-Härryda kommun                    3 716 000 3 679 000 4 374 000 4 815 000
-Lerums kommun                     5 942 000 3 903 000 4 640 000 5 108 000
-Tjörns kommun                     1 709 000 1 692 000 2 011 000 2 214 000
-Stenungsunds kommun               4 321 000 4 279 000 5 087 000 5 600 000
-Lilla Edets kommun                1 971 000 1 951 000 2 320 000 2 554 000
-Summa                            92 405 000 89 510 000 106 416 000 117 152 000
+
 \*2027-2029 enligt KPA Prognos 2025-12-04 inkl avsättning för SAP-R
-Summa medlemsavgifter inkl infasningsavgifter och pensionkostnader 2025 2026 2027 2028
-Göteborgs kommun                 480 085 410 493 011 543 518 258 124 539 561 088
-Mölndals kommun                  44 952 562 46 162 612 48 527 877 50 522 425
-Kungsbacka kommun                66 499 476 68 289 699 71 787 084 74 736 847
-Partille kommun                  25 295 932 25 976 322 27 306 418 28 428 800
-Härryda kommun                   30 667 514 31 492 962 33 105 823 34 466 242
-Lerums kommun                    34 507 351 33 382 442 35 092 264 36 534 736
-Tjörns kommun                    17 611 362 18 103 238 18 933 827 17 756 732
-Stenungsunds kommun              44 577 448 45 823 654 47 926 818 44 951 750
-Lilla Edets kommun               20 349 877 20 918 001 21 878 341 20 522 401
-Summa                            764 546 932 783 160 474 822 816 576 847 481 021
 
 RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                            17(19)
+
+[Tabell 40-1](handlingar.tabeller/40-1.csv)
+
+| Medlemsavgift för pensionskostnader\* | 2026 | 2027 | 2028 | 2029 |
+| --- | --- | --- | --- | --- |
+| Göteborgs kommun | 58 175 000 | 57 600 000 | 68 478 000 | 75 388 000 |
+| Mölndals kommun | 5 451 000 | 5 397 000 | 6 417 000 | 7 064 000 |
+| Kungsbacka kommun | 8 055 000 | 7 975 000 | 9 482 000 | 10 438 000 |
+| Partille kommun | 3 065 000 | 3 034 000 | 3 607 000 | 3 971 000 |
+| Härryda kommun | 3 716 000 | 3 679 000 | 4 374 000 | 4 815 000 |
+| Lerums kommun | 5 942 000 | 3 903 000 | 4 640 000 | 5 108 000 |
+| Tjörns kommun | 1 709 000 | 1 692 000 | 2 011 000 | 2 214 000 |
+| Stenungsunds kommun | 4 321 000 | 4 279 000 | 5 087 000 | 5 600 000 |
+| Lilla Edets kommun | 1 971 000 | 1 951 000 | 2 320 000 | 2 554 000 |
+| Summa | 92 405 000 | 89 510 000 | 106 416 000 | 117 152 000 |
+
+[Tabell 40-2](handlingar.tabeller/40-2.csv)
+
+| Summa medlemsavgifter inkl infasningsavgifter och pensionkostnader | 2025 | 2026 | 2027 | 2028 |
+| --- | --- | --- | --- | --- |
+| Göteborgs kommun | 480 085 410 | 493 011 543 | 518 258 124 | 539 561 088 |
+| Mölndals kommun | 44 952 562 | 46 162 612 | 48 527 877 | 50 522 425 |
+| Kungsbacka kommun | 66 499 476 | 68 289 699 | 71 787 084 | 74 736 847 |
+| Partille kommun | 25 295 932 | 25 976 322 | 27 306 418 | 28 428 800 |
+| Härryda kommun | 30 667 514 | 31 492 962 | 33 105 823 | 34 466 242 |
+| Lerums kommun | 34 507 351 | 33 382 442 | 35 092 264 | 36 534 736 |
+| Tjörns kommun | 17 611 362 | 18 103 238 | 18 933 827 | 17 756 732 |
+| Stenungsunds kommun | 44 577 448 | 45 823 654 | 47 926 818 | 44 951 750 |
+| Lilla Edets kommun | 20 349 877 | 20 918 001 | 21 878 341 | 20 522 401 |
+| Summa | 764 546 932 | 783 160 474 | 822 816 576 | 847 481 021 |
 
 <!-- sida 41 -->
 

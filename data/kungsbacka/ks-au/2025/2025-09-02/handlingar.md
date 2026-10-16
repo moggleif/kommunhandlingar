@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.3ae5986a198e623c951e2afd/1756734208
 sha256: df98a1d61f026279d7863770ab0a763e59cb3627c77a9ba14dcc7bcd82cf6564
 bytes: 139660412
 sidor: 368
-hamtad: 2026-10-09T10:37:43+00:00
-konverterad: 2026-10-09T10:52:55+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T08:33:23+00:00
+konverterad: 2026-10-16T08:45:49+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok]
-tal_obekraftade: [7, 10, 12, 13, 14, 15, 16, 17, 18, 20, 21, 50, 51, 52, 53, 54, 55, 56, 62, 63, 64, 65, 66, 69, 70, 78, 79, 81, 82, 83, 84, 85, 86, 87, 92, 94, 95, 96, 97, 98, 107, 108, 109, 121, 144, 162, 163, 164, 179, 226, 227, 261, 264, 265, 266, 267, 293, 298, 307, 308, 322, 334, 335, 359, 360, 361, 362, 363, 364, 365, 366, 367]
+tal_obekraftade: [7, 10, 12, 13, 14, 15, 16, 17, 18, 20, 21, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 62, 63, 64, 65, 66, 69, 70, 78, 79, 81, 82, 83, 84, 85, 86, 87, 92, 94, 95, 96, 97, 98, 107, 108, 109, 117, 121, 144, 162, 163, 164, 179, 226, 227, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 293, 298, 307, 308, 322, 332, 334, 335, 346, 347, 348, 349, 350, 351, 352, 353, 359, 360, 361, 362, 363, 364, 365, 366, 367]
 figurer: [12, 13, 15, 16, 17, 18, 19, 27, 34, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 54, 56, 57, 81, 82, 84, 85, 86, 87, 109, 110, 113, 114, 117, 118, 119, 120, 125, 126, 127, 128, 130, 132, 133, 135, 136, 137, 141, 142, 162, 163, 198, 201, 207, 212, 220, 223, 227, 253, 254, 256, 257, 258, 259, 260, 262, 263, 264, 266, 267, 268, 269, 272, 273, 274, 276, 277, 279, 280, 281, 307, 308, 329, 330, 331, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 367, 368]
 tolkade: []
 ---
@@ -55,7 +55,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -65,22 +65,20 @@ KUNGSBACKA  KOMMUN
 | 5. | Svar på motion från Roger<br>Larsson (KB) om att inrätta av<br>ett kommunalt pensionärsråd | 2024-00850 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att kommunen redan har etablerade<br>forum, verktyg och mötesplatser för dialog,<br>samverkan och medskapande med kommunens<br>seniorer och pensionärer. |
 | 6. | Svar på motion från Ermin<br>Skoric (S) m.fl. om att utreda<br>och presentera ett förslag på hur<br>ett pensionärs- och seniorråd<br>ska inrättas i Kungsbacka | 2024-00863 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad med<br>hänvisning till att kommunen redan har etablerade<br>forum, verktyg och mötesplatser för dialog,<br>samverkan och medskapande med kommunens<br>seniorer och pensionärer. |
 | 7. | Remittering av motion från<br>Carita Boulwén (SD) om<br>införande av blocktider inom<br>hemtjänsten | 2025-00563 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Vård & Omsorg för<br>beredning. |
+| 8. | Begäran om planbesked för<br>Vallda 9:30 | 2025-00465 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Vallda 9:30 i Vallda. |
+| 9. | Begäran om planbesked för<br>Spårhaga 1:3 | 2025-00464 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av bostäder inom Spårhaga 1:3 m.fl. i<br>Kullavik.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>ny detaljplan för Spårhaga 1:3 m.fl. i Kullavik. |
+| 10. | Begäran om planbesked för<br>Släps-Kullen 2:40 | 2025-00444 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Släps-Kullen 2:40, i Kullavik. |
+| 11. | Avstämning om markanvisning<br>för bostäder Björkris 3, Skårby<br>12:1<br>08:50-09:20<br>Johan Gerremo<br>Ida Lennartsson | 2021-00985 |  |
+| 12. | Information om överklagande<br>av Länsstyrelsen i Hallands läns<br>beslut om att upphäva lokal<br>ordningsföreskrift i Kungsbacka<br>kommun<br>09:25-09:45<br>Patrik Johansson | 2025-00581 |  |
+| 13. | Information om arbetet med<br>Quality Mark för stadskärnan<br>10:00-11:00<br>Elinor Filipsson<br>Jessica Blume<br>Marlene Hassel, konsult<br>Pia Sandin, konsult | 2025-00571 |  |
+| 14. | Information och dialog om<br>innovation verksamhetssystem<br>11:05-11:50<br>Anneli Skoglund<br>Iwona Carlsson<br>Arian Faily, Vård & Omsorg<br>Annika Sommar, Vård &<br>Omsorg<br>Julia Tryggvadottir Tollesson,<br>Service<br>Presidium Vård & Omsorg<br>Hravn Forsne (M)<br>Monica Neptun (L)<br>Ermin Škorić (S) | 2025-00572 |  |
+| 15. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Begäran om planbesked för<br>Vallda 9:30 | 2025-00465 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Vallda 9:30 i Vallda. |
-| 9. | Begäran om planbesked för<br>Spårhaga 1:3 | 2025-00464 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av bostäder inom Spårhaga 1:3 m.fl. i<br>Kullavik.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>ny detaljplan för Spårhaga 1:3 m.fl. i Kullavik. |
-| 10. | Begäran om planbesked för<br>Släps-Kullen 2:40 | 2025-00444 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Släps-Kullen 2:40, i Kullavik. |
-| 11. | Avstämning om markanvisning<br>för bostäder Björkris 3, Skårby<br>12:1<br>08:50-09:20<br>Johan Gerremo<br>Ida Lennartsson | 2021-00985 |  |
-| 12. | Information om överklagande<br>av Länsstyrelsen i Hallands läns<br>beslut om att upphäva lokal<br>ordningsföreskrift i Kungsbacka<br>kommun<br>09:25-09:45<br>Patrik Johansson | 2025-00581 |  |
 
 <!-- sida 4 -->
 
@@ -90,14 +88,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 13. | Information om arbetet med<br>Quality Mark för stadskärnan<br>10:00-11:00<br>Elinor Filipsson<br>Jessica Blume<br>Marlene Hassel, konsult<br>Pia Sandin, konsult | 2025-00571 |  |
-| 14. | Information och dialog om<br>innovation verksamhetssystem<br>11:05-11:50<br>Anneli Skoglund<br>Iwona Carlsson<br>Arian Faily, Vård & Omsorg<br>Annika Sommar, Vård &<br>Omsorg<br>Julia Tryggvadottir Tollesson,<br>Service<br>Presidium Vård & Omsorg<br>Hravn Forsne (M)<br>Monica Neptun (L)<br>Ermin Škorić (S) | 2025-00572 |  |
-| 15. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |
 
 <!-- sida 5 -->
 
@@ -1870,16 +1860,6 @@ SNEGNINÅVSTEHMASKREV
 004:1
 NOITAVELEPICNIRP
 
-[Tabell 43-1](handlingar.tabeller/43-1.csv)
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
 <!-- sida 44 -->
 
 5202 nossnåM & nérmeS ©
@@ -2073,8 +2053,7 @@ BBAA CCDD
 1
 RETEM5
 1
-005:1
-ALAKS
+005:1ALAKS
 däts/dårröf/CW/CWR
 murknäL
 B llaH
@@ -4776,7 +4755,7 @@ som avstår, beslutar att ärendet ska avgöras i dag.
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 99-1](handlingar.tabeller/99-1.csv)
+[Tabell 99-100-1](handlingar.tabeller/99-100-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -4806,37 +4785,7 @@ Justerare                         Expedierat/bestyrkt
 | Kalle Påsse Sundvall | (M) | Alla |  |  |  | X |  |
 | Henrik Arnesson | (C) | Alla |  | X |  |  |  |
 | Marie Wadström | (KD) | Alla |  |  | X |  |  |
-
-<!-- sida 100 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          7 (11)
-Kommunfullmäktige
-Datum
-2021-04-13
-
-Ordföranden prövar sedan Peter Söderbergs (M) m.fl. återremissyrkande mot att
-ärendet ska avgöras i dag, och finner att kommunfullmäktige beslutar att ärendet ska
-avgöras i dag.
-
-Omröstning begärs och verkställs.
-Ordföranden redovisar följande propositionsordning som kommunfullmäktige
-
-godkänner:
-Ja-röst innebär att ärendet ska avgöras i dag.
-Nej-röst innebär att ärendet ska återremitteras enligt Peter Söderbergs (M) m.fl.
-återremissyrkande.
-
-Omröstningsresultat
-
-Ordföranden finner att kommunfullmäktige, med 45 ja-röster mot 11 nej-röster och 5
-som avstår, beslutar att ärendet ska avgöras i dag.
-
-Justerare                         Expedierat/bestyrkt
-
-[Tabell 100-1](handlingar.tabeller/100-1.csv)
-
 | Monica Neptun | (L) | Alla |  | X |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Stephan Philipson | (M) | Alla |  | X |  |  |  |
 | Elisabeth Lyckevall | (S) | Alla | Gert Svensson | X |  |  |  |
 | Roger Krantz | (SD) | Alla |  | X |  |  |  |
@@ -4873,27 +4822,40 @@ Justerare                         Expedierat/bestyrkt
 | Anders Ekström | (M) | Alla |  | X |  |  |  |
 | SUMMA: |  |  |  | 48 | 9 | 4 | 0 |
 
-[Tabell 100-2](handlingar.tabeller/100-2.csv)
+<!-- sida 100 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          7 (11)
+Kommunfullmäktige
+Datum
+2021-04-13
+
+Ordföranden prövar sedan Peter Söderbergs (M) m.fl. återremissyrkande mot att
+ärendet ska avgöras i dag, och finner att kommunfullmäktige beslutar att ärendet ska
+avgöras i dag.
+
+Omröstning begärs och verkställs.
+Ordföranden redovisar följande propositionsordning som kommunfullmäktige
+
+godkänner:
+Ja-röst innebär att ärendet ska avgöras i dag.
+Nej-röst innebär att ärendet ska återremitteras enligt Peter Söderbergs (M) m.fl.
+återremissyrkande.
+
+Omröstningsresultat
+
+Ordföranden finner att kommunfullmäktige, med 45 ja-röster mot 11 nej-röster och 5
+som avstår, beslutar att ärendet ska avgöras i dag.
+
+Justerare                         Expedierat/bestyrkt
+
+[Tabell 100-101-1](handlingar.tabeller/100-101-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Lisa Andersson | (M) | Alla |  | X |  |  |  |
 | Eva Borg | (S) | Alla |  | X |  |  |  |
 | Carita Boulwén | (SD) | Alla |  | X |  |  |  |
-
-<!-- sida 101 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          8 (11)
-Kommunfullmäktige
-Datum
-2021-04-13
-
-Justerare                         Expedierat/bestyrkt
-
-[Tabell 101-1](handlingar.tabeller/101-1.csv)
-
 | Fredrik Hansson | (C) | Alla |  | X |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Andreas Johansson | (M) | Alla |  |  |  | X |  |
 | Ulrika Landergren | (L) | Alla |  | X |  |  |  |
 | Christian Johansson | (M) | Alla |  | X |  |  |  |
@@ -4953,6 +4915,15 @@ Justerare                         Expedierat/bestyrkt
 | Anders Ekström | (M) | Alla |  | X |  |  |  |
 | SUMMA: |  |  |  | 45 | 11 | 5 | 0 |
 
+<!-- sida 101 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          8 (11)
+Kommunfullmäktige
+Datum
+2021-04-13
+
+Justerare                         Expedierat/bestyrkt
+
 <!-- sida 102 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          9 (11)
@@ -4976,7 +4947,7 @@ som avstår, beslutar enligt kommunstyrelsens förslag.
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 102-1](handlingar.tabeller/102-1.csv)
+[Tabell 102-103-1](handlingar.tabeller/102-103-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -5023,6 +4994,25 @@ Justerare                         Expedierat/bestyrkt
 | Axel Storckenfeldt | (M) | Alla |  | X |  |  |  |
 | Sara Heikkinen Breitholtz | (S) | Alla | Britt Tönnberg | X |  |  |  |
 | Peter Wesley | (KD) | Alla |  |  | X |  |  |
+| Peter Söderberg | (M) | Alla |  |  | X |  |  |
+| Kenth Wallin | (SD) | Alla |  | X |  |  |  |
+| Kristina Rasmussen | (V) | Alla |  |  |  | X |  |
+| Franklin Eck | (M) | Alla |  |  | X |  |  |
+| Elin Hysén | (L) | Alla |  | X |  |  |  |
+| Rickard Wäst | (S) | Alla |  | X |  |  |  |
+| Heinrich Kaufmann | (C) | Alla |  | X |  |  |  |
+| Per-Axel Carlsson | (M) | Alla |  | X |  |  |  |
+| Tobias Eriksson | (SD) | Alla |  | X |  |  |  |
+| Berit Bergström | (M) | Alla |  | X |  |  |  |
+| Maj-Britt Rane-Andersson | (S) | Alla |  | X |  |  |  |
+| Karin Green | (C) | Alla |  |  | X |  |  |
+| Ann-Helene Reimertz | (M) | Alla |  |  | X |  |  |
+| Madelene Höök | (L) | Alla |  | X |  |  |  |
+| Thord Brynielsson | (SD) | Alla | Stefan Vilumsons | X |  |  |  |
+| Per Stenberg | (M) | Alla |  | X |  |  |  |
+| Ulrika Högstrand | (KD) | Alla |  |  | X |  |  |
+| Anders Ekström | (M) | Alla |  | X |  |  |  |
+| SUMMA: |  |  |  | 45 | 12 | 4 | 0 |
 
 <!-- sida 103 -->
 
@@ -5047,30 +5037,7 @@ Ordföranden finner att kommunfullmäktige, med 31 ja-röster mot 16 nej-röster
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 103-1](handlingar.tabeller/103-1.csv)
-
-| Peter Söderberg | (M) | Alla |  |  | X |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Kenth Wallin | (SD) | Alla |  | X |  |  |  |
-| Kristina Rasmussen | (V) | Alla |  |  |  | X |  |
-| Franklin Eck | (M) | Alla |  |  | X |  |  |
-| Elin Hysén | (L) | Alla |  | X |  |  |  |
-| Rickard Wäst | (S) | Alla |  | X |  |  |  |
-| Heinrich Kaufmann | (C) | Alla |  | X |  |  |  |
-| Per-Axel Carlsson | (M) | Alla |  | X |  |  |  |
-| Tobias Eriksson | (SD) | Alla |  | X |  |  |  |
-| Berit Bergström | (M) | Alla |  | X |  |  |  |
-| Maj-Britt Rane-Andersson | (S) | Alla |  | X |  |  |  |
-| Karin Green | (C) | Alla |  |  | X |  |  |
-| Ann-Helene Reimertz | (M) | Alla |  |  | X |  |  |
-| Madelene Höök | (L) | Alla |  | X |  |  |  |
-| Thord Brynielsson | (SD) | Alla | Stefan Vilumsons | X |  |  |  |
-| Per Stenberg | (M) | Alla |  | X |  |  |  |
-| Ulrika Högstrand | (KD) | Alla |  |  | X |  |  |
-| Anders Ekström | (M) | Alla |  | X |  |  |  |
-| SUMMA: |  |  |  | 45 | 12 | 4 | 0 |
-
-[Tabell 103-2](handlingar.tabeller/103-2.csv)
+[Tabell 103-104-1](handlingar.tabeller/103-104-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -5095,24 +5062,7 @@ Justerare                         Expedierat/bestyrkt
 | Bengt Alderin | (C) | Alla |  | X |  |  |  |
 | Maria Rasmussen | (V) | Alla |  |  | X |  |  |
 | Filip Berndtsson | (M) | Alla |  | X |  |  |  |
-
-<!-- sida 104 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          11 (11)
-Kommunfullmäktige
-Datum
-2021-04-13
-
-Beslutet skickas till
-
-Samtliga nämnder
-
-Justerare                         Expedierat/bestyrkt
-
-[Tabell 104-1](handlingar.tabeller/104-1.csv)
-
 | Lars Eriksson | (S) | Alla |  |  | X |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Susanne Andersson | (SD) | Alla |  |  |  | X |  |
 | Kalle Påsse Sundvall | (M) | Alla |  |  |  | X |  |
 | Henrik Arnesson | (C) | Alla |  | X |  |  |  |
@@ -5153,6 +5103,19 @@ Justerare                         Expedierat/bestyrkt
 | Ulrika Högstrand | (KD) | Alla |  | X |  |  |  |
 | Anders Ekström | (M) | Alla |  | X |  |  |  |
 | SUMMA: |  |  |  | 31 | 16 | 14 | 0 |
+
+<!-- sida 104 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          11 (11)
+Kommunfullmäktige
+Datum
+2021-04-13
+
+Beslutet skickas till
+
+Samtliga nämnder
+
+Justerare                         Expedierat/bestyrkt
 
 <!-- sida 105 -->
 

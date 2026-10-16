@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.79dd6618f7759b3395ad1/1715954449225
 sha256: 89141073d3d85de090fb0debac67dcae8796d6cfc34be2f282037b2d3595c0d3
 bytes: 41166154
 sidor: 97
-hamtad: 2026-10-09T08:57:00+00:00
-konverterad: 2026-10-09T08:58:34+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T06:49:12+00:00
+konverterad: 2026-10-16T06:50:49+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90]
 figurer: [26, 43, 44, 48, 50, 71, 72, 73, 74, 91]
 tolkade: []
@@ -1418,28 +1418,6 @@ föreslagna gränsvärdena för flerbostadshus (grupp 1) och övriga byggnader
 • Övriga byggnader – en minskning med 30 kg CO e/m2 BTA, cirka 7 %.
 2
 
-Byggnadstyp Nuvarande för- Uppdate- Metodik, värde för
-slag på gräns- rade gräns- byggnadstypen från
-värde       värde (kg referensvärdesrappor-
-(kg CO e/m2 CO e/m2   ten avrundat till närm-
-2        2
-BTA)        BTA)      raste femtal
-Flerbostadshus 375      365       Medianen
-Kontor      385         385
-
-Utbildning, ex- 380     380
-klusive förskola
-
-Förskolor   330         330
-
-Småhus      180         180       75-percentilen
-
-Specialbostäder 385     385       Medianen
-Övriga byggnader 460    430       75-percentilen för den
-byggnadstypen med
-högst värde för 75-per-
-centilen
-
 Tabell 2. Beskrivning av föreslagna gränsvärden och en beräkning av hur värdena skulle juste-
 ras om man väljer att uppdatera gränsvärdena med anledning av de uppdaterade referensvär-
 dena (blå färg). Tabellen beskriver även metodik för att ta fram respektive förslag på gränsvär-
@@ -1450,6 +1428,18 @@ Boverket har analyserat ovanstående förändringar och ser inte att den nya kun
 skapen ger upphov till att ändra de föreslagna nivåerna för gränsvärden. Den
 principiella metoden att sätta gränsvärdenivåer som beskrivs i Boverkets rap-
 port frångås dock något.
+
+[Tabell 36-1](handlingar.tabeller/36-1.csv)
+
+| Byggnadstyp | Nuvarande för-<br>slag på gräns-<br>värde<br>(kg CO e/m2<br>2<br>BTA) | Uppdate-<br>rade gräns-<br>värde (kg<br>CO e/m2<br>2<br>BTA) | Metodik, värde för<br>byggnadstypen från<br>referensvärdesrappor-<br>ten avrundat till närm-<br>raste femtal |
+| --- | --- | --- | --- |
+| Flerbostadshus | 375 | 365 | Medianen |
+| Kontor | 385 | 385 |  |
+| Utbildning, ex-<br>klusive förskola | 380 | 380 |  |
+| Förskolor | 330 | 330 |  |
+| Småhus | 180 | 180 | 75-percentilen |
+| Specialbostäder | 385 | 385 | Medianen |
+| Övriga byggnader | 460 | 430 | 75-percentilen för den<br>byggnadstypen med<br>högst värde för 75-per-<br>centilen |
 
 <!-- sida 37 -->
 
@@ -2592,12 +2582,6 @@ ca 3 mkr och medför ytterligare ansträngning för RSG:s ekonomi.
 Personalstatistik
 
 Uppgifter per 31/12
-2023  2022   2021  2020  2019
-Arbetad tid
-Antal årsarbetare\*         797   725   722   728   716
-Antal anställda per december
-
-Anställda per december inkl. RIB
 
 \*Beräkning enligt SKR:s definition. Med årsarbetare menas summan av de anställdas sysselsättningsgrader,
 t.ex. 100 % sysselsättningsgrad motsvarar 1,0 årsarbetare och 75 procent 0,75.
@@ -2608,8 +2592,12 @@ RÄDDNINGSTJÄNSTFÖRBUNDETSTORGÖTEBORG                             19(29)
 
 [Tabell 62-1](handlingar.tabeller/62-1.csv)
 
-| Totalt antal anställda (inkl timanställda) | 804 | 737 | 733 | 739 | 736 |
+|  | 2023 | 2022 | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- |
+| Arbetad tid |  |  |  |  |  |
+| Antal årsarbetare\* | 797 | 725 | 722 | 728 | 716 |
+| Antal anställda per december |  |  |  |  |  |
+| Totalt antal anställda (inkl timanställda) | 804 | 737 | 733 | 739 | 736 |
 | varav tillsvidareanställda | 767 | 695 | 703 | 701 | 686 |
 | varav tidsbegränsade anställda (exkl tim) | 32 | 31 | 21 | 25 | 29 |
 | varav timanställda | 5 | 11 | 9 | 9 | 18 |
@@ -2620,11 +2608,8 @@ RÄDDNINGSTJÄNSTFÖRBUNDETSTORGÖTEBORG                             19(29)
 | varav anställda, män | 669 | 605 | 611 | 621 | 610 |
 | varav kvinnor i procent | 16 | 17 | 17 | 16 | 14 |
 | varav män i procent | 84 | 83 | 83 | 84 | 86 |
-
-[Tabell 62-2](handlingar.tabeller/62-2.csv)
-
+| Anställda per december inkl. RIB |  |  |  |  |  |
 | Antal anställda (inkl timanställda) | 804 | 737 | 733 | 739 | 736 |
-| --- | --- | --- | --- | --- | --- |
 | Antal beredskapsanställda (RIB) | 208 | 148 | 148 | 145 | 157 |
 | Totalt | 1012 | 885 | 881 | 884 | 893 |
 | Ej anställda | 223 | 171 | 164 | 191 | 179 |
@@ -2986,68 +2971,88 @@ Lilla Edets kommun                 2,18% 2,18% 2,18%  2,18%
 100,00% 100,00% 100,00% 100,00%
 2024   2025  2026  2027
 Uppräkningsindex för räddningstjänst 2,90% 6,50% 2,30% 3,30%
-preliminär uppräkning enligt äskad uppräkning för 2024 enl underlag prel PKV prel PKV
-Medlemsavgift för räddningstjänst 2024  2025  2026  2027
-Göteborgs kommun                 394 241 000 419 866 665 429 523 598 443 697 877
-Mölndals kommun                  36 910 683 39 309 877 40 214 005 41 541 067
-Kungsbacka kommun                54 612 176 58 161 967 59 499 693 61 463 183
-Partille kommun                  20 772 729 22 122 956 22 631 784 23 378 633
-Härryda kommun                   25 184 142 26 821 111 27 437 997 28 343 451
-Lerums kommun                    26 691 841 28 426 811 29 080 627 30 040 288
-Tjörns kommun                    11 568 958 12 320 940 12 604 322 13 020 265
-Stenungsunds kommun              29 296 139 31 200 388 31 917 997 32 971 291
-Lilla Edets kommun               13 379 316 14 248 972 14 576 698 15 057 729
-Summa                            612 656 984 652 479 688 667 486 721 689 513 783
-Infasningsavgifter               2024   2025  2026  2027
-Tjörns kommun                    3 290 508 3 504 391 3 584 992 3 703 297
-Stenungsunds kommun              8 320 241 8 861 057 9 064 861 9 364 001
-Lilla Edets kommun               3 794 252 4 040 878 4 133 819 4 270 235
-Summa                            15 405 001 16 406 326 16 783 672 17 337 533
-Medlemsavgift för räddningstjänst + Infasningsavgift 2024 2025 2026 2027
-Göteborgs kommun                 394 241 000 419 866 665 429 523 598 443 697 877
-Mölndals kommun                  36 910 683 39 309 877 40 214 005 41 541 067
-Kungsbacka kommun                54 612 176 58 161 967 59 499 693 61 463 183
-Partille kommun                  20 772 729 22 122 956 22 631 784 23 378 633
-Härryda kommun                   25 184 142 26 821 111 27 437 997 28 343 451
-Lerums kommun                    26 691 841 28 426 811 29 080 627 30 040 288
-Tjörns kommun                    14 859 466 15 825 331 16 189 314 16 723 561
-Stenungsunds kommun              37 616 380 40 061 445 40 982 858 42 335 292
-Lilla Edets kommun               17 173 568 18 289 850 18 710 516 19 327 964
-Summa                            628 061 985 668 886 014 684 270 392 706 851 315
 
 RÄDDNINGSTJÄNSTFÖRBUNDETSTORGÖTEBORG                             26(29)
+
+[Tabell 69-1](handlingar.tabeller/69-1.csv)
+
+| preliminär uppräkning enligt äskad uppräkning för 2024 Medlemsavgift för räddningstjänst | 2024 | enl underlag 2025 | prel PKV 2026 | prel PKV 2027 |
+| --- | --- | --- | --- | --- |
+| Göteborgs kommun | 394 241 000 | 419 866 665 | 429 523 598 | 443 697 877 |
+| Mölndals kommun | 36 910 683 | 39 309 877 | 40 214 005 | 41 541 067 |
+| Kungsbacka kommun | 54 612 176 | 58 161 967 | 59 499 693 | 61 463 183 |
+| Partille kommun | 20 772 729 | 22 122 956 | 22 631 784 | 23 378 633 |
+| Härryda kommun | 25 184 142 | 26 821 111 | 27 437 997 | 28 343 451 |
+| Lerums kommun | 26 691 841 | 28 426 811 | 29 080 627 | 30 040 288 |
+| Tjörns kommun | 11 568 958 | 12 320 940 | 12 604 322 | 13 020 265 |
+| Stenungsunds kommun | 29 296 139 | 31 200 388 | 31 917 997 | 32 971 291 |
+| Lilla Edets kommun | 13 379 316 | 14 248 972 | 14 576 698 | 15 057 729 |
+| Summa | 612 656 984 | 652 479 688 | 667 486 721 | 689 513 783 |
+
+[Tabell 69-2](handlingar.tabeller/69-2.csv)
+
+| Infasningsavgifter | 2024 | 2025 | 2026 | 2027 |
+| --- | --- | --- | --- | --- |
+| Tjörns kommun | 3 290 508 | 3 504 391 | 3 584 992 | 3 703 297 |
+| Stenungsunds kommun | 8 320 241 | 8 861 057 | 9 064 861 | 9 364 001 |
+| Lilla Edets kommun | 3 794 252 | 4 040 878 | 4 133 819 | 4 270 235 |
+| Summa | 15 405 001 | 16 406 326 | 16 783 672 | 17 337 533 |
+
+[Tabell 69-3](handlingar.tabeller/69-3.csv)
+
+| Medlemsavgift för räddningstjänst + Infasningsavgift | 2024 | 2025 | 2026 | 2027 |
+| --- | --- | --- | --- | --- |
+| Göteborgs kommun | 394 241 000 | 419 866 665 | 429 523 598 | 443 697 877 |
+| Mölndals kommun | 36 910 683 | 39 309 877 | 40 214 005 | 41 541 067 |
+| Kungsbacka kommun | 54 612 176 | 58 161 967 | 59 499 693 | 61 463 183 |
+| Partille kommun | 20 772 729 | 22 122 956 | 22 631 784 | 23 378 633 |
+| Härryda kommun | 25 184 142 | 26 821 111 | 27 437 997 | 28 343 451 |
+| Lerums kommun | 26 691 841 | 28 426 811 | 29 080 627 | 30 040 288 |
+| Tjörns kommun | 14 859 466 | 15 825 331 | 16 189 314 | 16 723 561 |
+| Stenungsunds kommun | 37 616 380 | 40 061 445 | 40 982 858 | 42 335 292 |
+| Lilla Edets kommun | 17 173 568 | 18 289 850 | 18 710 516 | 19 327 964 |
+| Summa | 628 061 985 | 668 886 014 | 684 270 392 | 706 851 315 |
 
 <!-- sida 70 -->
 
 Budgetunderlag verksamhetsåret 2025 plan 2026-2027
 
 Bilaga sida 2 - Medlemskommunernas avgifter, kronor exkl moms
-Medlemsavgift för pensionskostnader\* 2024 2025 2026 2027
-Göteborgs kommun                 138 553 000 92 176 000 78 363 000 80 449 000
-Mölndals kommun                  12 983 000 8 637 000 7 343 000 7 539 000
-Kungsbacka kommun                19 184 000 12 763 000 10 850 000 11 139 000
-Partille kommun                  7 299 000 4 856 000 4 128 000 4 238 000
-Härryda kommun                   8 849 000 5 887 000 5 005 000 5 138 000
-Lerums kommun                    9 388 000 6 245 000 5 309 000 5 451 000
-Tjörns kommun                    4 069 000 2 707 000 2 302 000 2 363 000
-Stenungsunds kommun              10 292 000 6 847 000 5 821 000 5 976 000
-Lilla Edets kommun               4 694 000 3 123 000 2 655 000 2 725 000
-Summa                            215 311 000 143 241 000 121 776 000 125 018 000
+
 \* 2025-2027 enligt KPA Prognos 2023-12-12 inkl avsättning för SAP-R
 2024: Enligt KPA prognos 2022-12-05, den tidpunkt då både RSG och fd SBRF fanns att tillgå.
-Summa medlemsavgifter inkl infasningsavgifter och pensionkostnader 2024 2025 2026 2027
-Göteborgs kommun                 532 794 000 512 042 665 507 886 598 524 146 877
-Mölndals kommun                  49 893 683 47 946 877 47 557 005 49 080 067
-Kungsbacka kommun                73 796 176 70 924 967 70 349 693 72 602 183
-Partille kommun                  28 071 729 26 978 956 26 759 784 27 616 633
-Härryda kommun                   34 033 142 32 708 111 32 442 997 33 481 451
-Lerums kommun                    36 079 841 34 671 811 34 389 627 35 491 288
-Tjörns kommun                    18 928 466 18 532 331 18 491 314 19 086 561
-Stenungsunds kommun              47 908 380 46 908 445 46 803 858 48 311 292
-Lilla Edets kommun               21 867 568 21 412 850 21 365 516 22 052 964
-Summa                            843 372 985 812 127 014 806 046 392 831 869 315
 
 RÄDDNINGSTJÄNSTFÖRBUNDETSTORGÖTEBORG                             27(29)
+
+[Tabell 70-1](handlingar.tabeller/70-1.csv)
+
+| Medlemsavgift för pensionskostnader\* | 2024 | 2025 | 2026 | 2027 |
+| --- | --- | --- | --- | --- |
+| Göteborgs kommun | 138 553 000 | 92 176 000 | 78 363 000 | 80 449 000 |
+| Mölndals kommun | 12 983 000 | 8 637 000 | 7 343 000 | 7 539 000 |
+| Kungsbacka kommun | 19 184 000 | 12 763 000 | 10 850 000 | 11 139 000 |
+| Partille kommun | 7 299 000 | 4 856 000 | 4 128 000 | 4 238 000 |
+| Härryda kommun | 8 849 000 | 5 887 000 | 5 005 000 | 5 138 000 |
+| Lerums kommun | 9 388 000 | 6 245 000 | 5 309 000 | 5 451 000 |
+| Tjörns kommun | 4 069 000 | 2 707 000 | 2 302 000 | 2 363 000 |
+| Stenungsunds kommun | 10 292 000 | 6 847 000 | 5 821 000 | 5 976 000 |
+| Lilla Edets kommun | 4 694 000 | 3 123 000 | 2 655 000 | 2 725 000 |
+| Summa | 215 311 000 | 143 241 000 | 121 776 000 | 125 018 000 |
+
+[Tabell 70-2](handlingar.tabeller/70-2.csv)
+
+| Summa medlemsavgifter inkl infasningsavgifter och pensionkostnader | 2024 | 2025 | 2026 | 2027 |
+| --- | --- | --- | --- | --- |
+| Göteborgs kommun | 532 794 000 | 512 042 665 | 507 886 598 | 524 146 877 |
+| Mölndals kommun | 49 893 683 | 47 946 877 | 47 557 005 | 49 080 067 |
+| Kungsbacka kommun | 73 796 176 | 70 924 967 | 70 349 693 | 72 602 183 |
+| Partille kommun | 28 071 729 | 26 978 956 | 26 759 784 | 27 616 633 |
+| Härryda kommun | 34 033 142 | 32 708 111 | 32 442 997 | 33 481 451 |
+| Lerums kommun | 36 079 841 | 34 671 811 | 34 389 627 | 35 491 288 |
+| Tjörns kommun | 18 928 466 | 18 532 331 | 18 491 314 | 19 086 561 |
+| Stenungsunds kommun | 47 908 380 | 46 908 445 | 46 803 858 | 48 311 292 |
+| Lilla Edets kommun | 21 867 568 | 21 412 850 | 21 365 516 | 22 052 964 |
+| Summa | 843 372 985 | 812 127 014 | 806 046 392 | 831 869 315 |
 
 <!-- sida 71 -->
 
@@ -4243,9 +4248,6 @@ Beskrivning av ärendet
 
 Det prognosticerade resultatet för kommunstyrelsen ger en positiv budgetavvikelse på 9,1 miljoner
 kronor. Nedan kommenteras respektive delområde inom kommunstyrelsens förvaltning.
-Helårsprognos Årsbudget Prognosticerad Bokslut
-2024      2024   budgetavvikelse 2023
-2024
 
 Politik
 Ingen förväntad avvikelse under året.
@@ -4275,8 +4277,9 @@ innovation. Under uppstartsåret förväntas ett totalt överskott på 5 miljone
 
 [Tabell 96-1](handlingar.tabeller/96-1.csv)
 
-| Kommunstyrelsen | -10,4 | -10,4 | 0,0 | 10,1 |
+|  | Helårsprognos 2024 | Årsbudget 2024 | Prognosticerad budgetavvikelse 2024 | Bokslut 2023 |
 | --- | --- | --- | --- | --- |
+| Kommunstyrelsen | -10,4 | -10,4 | 0,0 | 10,1 |
 | Kommungemensamt | -134 | -138,8 | 4,8 | -144,4 |
 | Kommunstyrelsens förvaltning | -11,2 | -11,9 | 0,7 | -10,5 |
 | Kommunledningskontoret | -78,3 | -78,3 | 0,0 | -75,2 |

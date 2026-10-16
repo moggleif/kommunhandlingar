@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.63e7dd7019bfe963d534dc3e/1769679530
 sha256: a3282993970c1e12ecc70aec5a956778d670f60894c4c3d8090a5f2b0d38e6cf
 bytes: 6198562
 sidor: 197
-hamtad: 2026-10-09T11:44:54+00:00
-konverterad: 2026-10-09T11:45:28+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T09:33:45+00:00
+konverterad: 2026-10-16T09:34:17+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok]
-tal_obekraftade: [172]
+tal_obekraftade: [21, 28, 35, 172]
 figurer: [10, 11, 15, 21, 24, 25, 26, 27, 28, 29, 30, 31, 35, 38, 39, 40, 41, 42, 43, 76, 102, 103, 106, 107, 116, 117, 118, 160]
 tolkade: []
 ---
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -66,21 +66,19 @@ KUNGSBACKA  KOMMUN
 | 6. | Svar på remiss av översiktsplan<br>för Varbergs kommun | KS-2025-00981 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat<br>2026-01-23, och översänder det som sitt svar till<br>Varbergs kommun. |
 | 7. | Svar på motion från Per<br>Gunnarsson (S) om<br>minnesmärke för att hedra<br>pandemins vardagshjältar | KS-2025-00597 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att minnesmärken är en nationell<br>angelägenhet och att konst i det offentliga<br>rummet ska väljas på andra grunder än de som<br>motionären argumenterar för. |
 | 8. | Markanvisningstävling för<br>småhus inom kvarteret Gjutaren<br>och Liljan | KS-2019-00547 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner inbjudan till<br>Markanvisningstävling för småhus inom<br>kvarteret Gjutaren och Liljan, daterat<br>2025-12-19.<br>Kommunstyrelsen ger kommundirektören i<br>uppdrag att genomföra markanvisningstävling i<br>enlighet med inbjudan. |
+| 9. | Markanvisningstävling inom<br>detaljplan för Aranäs etapp 4,<br>fastigheten Inlagsgärde 2 | KS-2025-00970 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner Inbjudan till<br>Markanvisningstävling för Aranäs etapp 4,<br>fastigheten Inlagsgärde 2, daterat 2025-12-19.<br>Kommunstyrelsen ger kommundirektören i<br>uppdrag att genomföra markanvisningstävling i<br>enlighet med Inbjudan till Markanvisnings-<br>tävlingen. |
+| 10. | Årsredovisning 2025 för<br>kommunstyrelsen<br>08:50-09:10<br>Anders Johansson<br>Lovisa Eld | KS-2025-00570 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner årsredovisning<br>2025, daterad 2026-01-22. |
+| 11. | Information årsredovisning<br>2025 för Kungsbacka kommun<br>09:15-09:35<br>Christina Hermansson<br>Somayeh Jamshidi | KS-2026-00083 | Förslag till beslut<br>Informationen antecknas till protokollet. |
+| 12. | Muntlig information avtal<br>mellan stiftelsen Tjolöholm och<br>Kungsbacka kommun<br>10:00-10:30<br>Christina Hermansson<br>Sofia Jonsson<br>Linnea Princis<br>Lena Salomonsson<br>Berit Bergström<br>Jonas Strand | KS-2025-00589 | Förslag till beslut<br>Informationen antecknas till protokollet. |
+| 13. | Information inför Hallands-<br>trafikens kommande<br>upphandling av buss<br>10:35-11:00<br>Agneta Nordström<br>Peter Gustavsson<br>Anders Lund | KS-2026-00067 | Förslag till beslut<br>Informationen antecknas till protokollet. |
+| 14. | Avstämning rörande incident<br>Miljödata<br>11:05-11:25<br>Jesper Edlind<br>Johan Benjaminsson<br>Linnea Princis | KS-2025-00594 | Förslag till beslut<br>Informationen antecknas till protokollet. |
+| 15. | Information ledamöter och<br>förvaltning | KS-2025-00975 | Förslag till beslut<br>Informationen antecknas till protokollet. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 9. | Markanvisningstävling inom<br>detaljplan för Aranäs etapp 4,<br>fastigheten Inlagsgärde 2 | KS-2025-00970 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner Inbjudan till<br>Markanvisningstävling för Aranäs etapp 4,<br>fastigheten Inlagsgärde 2, daterat 2025-12-19.<br>Kommunstyrelsen ger kommundirektören i<br>uppdrag att genomföra markanvisningstävling i<br>enlighet med Inbjudan till Markanvisnings-<br>tävlingen. |
-| 10. | Årsredovisning 2025 för<br>kommunstyrelsen<br>08:50-09:10<br>Anders Johansson<br>Lovisa Eld | KS-2025-00570 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner årsredovisning<br>2025, daterad 2026-01-22. |
-| 11. | Information årsredovisning<br>2025 för Kungsbacka kommun<br>09:15-09:35<br>Christina Hermansson<br>Somayeh Jamshidi | KS-2026-00083 | Förslag till beslut<br>Informationen antecknas till protokollet. |
-| 12. | Muntlig information avtal<br>mellan stiftelsen Tjolöholm och<br>Kungsbacka kommun<br>10:00-10:30<br>Christina Hermansson<br>Sofia Jonsson<br>Linnea Princis<br>Lena Salomonsson<br>Berit Bergström<br>Jonas Strand | KS-2025-00589 | Förslag till beslut<br>Informationen antecknas till protokollet. |
 
 <!-- sida 4 -->
 
@@ -90,14 +88,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Therese Tanner
 ordförande                        sekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 13. | Information inför Hallands-<br>trafikens kommande<br>upphandling av buss<br>10:35-11:00<br>Agneta Nordström<br>Peter Gustavsson<br>Anders Lund | KS-2026-00067 | Förslag till beslut<br>Informationen antecknas till protokollet. |
-| 14. | Avstämning rörande incident<br>Miljödata<br>11:05-11:25<br>Jesper Edlind<br>Johan Benjaminsson<br>Linnea Princis | KS-2025-00594 | Förslag till beslut<br>Informationen antecknas till protokollet. |
-| 15. | Information ledamöter och<br>förvaltning | KS-2025-00975 | Förslag till beslut<br>Informationen antecknas till protokollet. |
 
 <!-- sida 5 -->
 
@@ -808,21 +798,16 @@ anges. Ändringarna anges kursiverade. I sista kolumnen följer korta kommentare
 
 8 (13)
 
-[Tabell 18-1](handlingar.tabeller/18-1.csv)
+[Tabell 18-19-1](handlingar.tabeller/18-19-1.csv)
 
 | Nu gällande<br>förbundsordning | Förslag till ny<br>förbundsordning | Kommentarer till<br>föreslagna ändringar |
 | --- | --- | --- |
 | 2 § Medlemmar<br>Medlemskommunerna<br>som ingår i<br>kommunalförbundet är<br>Göteborg, Mölndal,<br>Kungsbacka, Härryda,<br>Partille, Lerum, Lilla Edet,<br>Tjörn och Stenungsund. | 2 § Medlemmar<br>Medlemskommunerna<br>som ingår i<br>kommunalförbundet är<br>Göteborg, Mölndal,<br>Kungsbacka, Härryda,<br>Partille, Lerum, Lilla Edet,<br>Tjörn och Stenungsund,<br>Kungälv och Ale | Kommunerna Kungälv och<br>Ale har ansökt om<br>medlemskap i<br>räddningstjänstförbundet. |
+| 5 § Förbundsfullmäktige<br>Förbundets högsta<br>beslutande organ är<br>förbundsfullmäktige med<br>33 ledamöter och 33<br>ersättare. Uppdraget som<br>ordförande i<br>förbundsfullmäktige<br>innehas av ledamot från<br>annan medlemskommun<br>än Göteborg. Uppdraget<br>som första och andra vice<br>ordförande innehas av<br>ledamot från Göteborgs<br>kommun.<br>Medlemskommunerna<br>utser antal ledamöter och<br>ersättare enligt nedan.<br>Göteborg ska utse 17<br>ledamöter och 17<br>ersättare.<br>Mölndal ska utse 2<br>ledamöter och 2 ersättare.<br>Kungsbacka ska utse 2<br>ledamöter och 2 ersättare.<br>Härryda ska utse 2<br>ledamöter och 2 ersättare.<br>Partille ska utse 2<br>ledamöter och 2 ersättare.<br>Lerum ska utse 2<br>ledamöter och 2 ersättare.<br>Lilla Edet ska utse 2<br>ledamöter och 2 ersättare.<br>Tjörn ska utse 2 ledamöter<br>och 2 ersättare.<br>Stenungsund ska utse 2<br>ledamöter och 2 ersättare. | 5 § Förbundsfullmäktige<br>Förbundets högsta<br>beslutande organ är<br>förbundsfullmäktige med<br>21 ledamöter och 21<br>ersättare. Uppdraget som<br>ordförande i<br>förbundsfullmäktige<br>innehas av ledamot från<br>annan medlemskommun<br>än Göteborg. Uppdraget<br>som första och andra vice<br>ordförande innehas av<br>ledamot från Göteborgs<br>kommun.<br>Medlemskommunerna<br>utser antal ledamöter och<br>ersättare enligt nedan.<br>Göteborg ska utse 11<br>ledamöter och 11<br>ersättare.<br>Mölndal ska utse 1<br>ledamot och 1 ersättare.<br>Kungsbacka ska utse 1<br>ledamot och 1 ersättare.<br>Härryda ska utse 1 ledamot<br>och 1 ersättare.<br>Partille ska utse 1 ledamot<br>och 1 ersättare.<br>Lerum ska utse 1 ledamot<br>och 1 ersättare.<br>Lilla Edet ska utse 1<br>ledamot och 1 ersättare.<br>Tjörn ska utse 1 ledamot<br>och 1 ersättare.<br>Stenungsund ska utse 1<br>ledamot och 1 ersättare.<br>Kungälv ska utse 1 ledamot<br>och 1 ersättare. | Antalet ledamöter<br>utsedda av Göteborgs<br>kommun är det antal som<br>utses av övriga<br>medlemskommuner<br>tillsammans plus 1<br>ledamot och 1 ersättare.<br>Antalet ledamöter i<br>förbundsfullmäktige blir<br>därmed 21 ordinarie<br>ledamöter och lika många<br>ersättare. |
 
 <!-- sida 19 -->
 
 9 (13)
-
-[Tabell 19-1](handlingar.tabeller/19-1.csv)
-
-| Nu gällande<br>förbundsordning | Förslag till ny<br>förbundsordning | Kommentarer till<br>föreslagna ändringar |
-| --- | --- | --- |
-| 5 § Förbundsfullmäktige<br>Förbundets högsta<br>beslutande organ är<br>förbundsfullmäktige med<br>33 ledamöter och 33<br>ersättare. Uppdraget som<br>ordförande i<br>förbundsfullmäktige<br>innehas av ledamot från<br>annan medlemskommun<br>än Göteborg. Uppdraget<br>som första och andra vice<br>ordförande innehas av<br>ledamot från Göteborgs<br>kommun.<br>Medlemskommunerna<br>utser antal ledamöter och<br>ersättare enligt nedan.<br>Göteborg ska utse 17<br>ledamöter och 17<br>ersättare.<br>Mölndal ska utse 2<br>ledamöter och 2 ersättare.<br>Kungsbacka ska utse 2<br>ledamöter och 2 ersättare.<br>Härryda ska utse 2<br>ledamöter och 2 ersättare.<br>Partille ska utse 2<br>ledamöter och 2 ersättare.<br>Lerum ska utse 2<br>ledamöter och 2 ersättare.<br>Lilla Edet ska utse 2<br>ledamöter och 2 ersättare.<br>Tjörn ska utse 2 ledamöter<br>och 2 ersättare.<br>Stenungsund ska utse 2<br>ledamöter och 2 ersättare. | 5 § Förbundsfullmäktige<br>Förbundets högsta<br>beslutande organ är<br>förbundsfullmäktige med<br>21 ledamöter och 21<br>ersättare. Uppdraget som<br>ordförande i<br>förbundsfullmäktige<br>innehas av ledamot från<br>annan medlemskommun<br>än Göteborg. Uppdraget<br>som första och andra vice<br>ordförande innehas av<br>ledamot från Göteborgs<br>kommun.<br>Medlemskommunerna<br>utser antal ledamöter och<br>ersättare enligt nedan.<br>Göteborg ska utse 11<br>ledamöter och 11<br>ersättare.<br>Mölndal ska utse 1<br>ledamot och 1 ersättare.<br>Kungsbacka ska utse 1<br>ledamot och 1 ersättare.<br>Härryda ska utse 1 ledamot<br>och 1 ersättare.<br>Partille ska utse 1 ledamot<br>och 1 ersättare.<br>Lerum ska utse 1 ledamot<br>och 1 ersättare.<br>Lilla Edet ska utse 1<br>ledamot och 1 ersättare.<br>Tjörn ska utse 1 ledamot<br>och 1 ersättare.<br>Stenungsund ska utse 1<br>ledamot och 1 ersättare.<br>Kungälv ska utse 1 ledamot<br>och 1 ersättare. | Antalet ledamöter<br>utsedda av Göteborgs<br>kommun är det antal som<br>utses av övriga<br>medlemskommuner<br>tillsammans plus 1<br>ledamot och 1 ersättare.<br>Antalet ledamöter i<br>förbundsfullmäktige blir<br>därmed 21 ordinarie<br>ledamöter och lika många<br>ersättare. |
 
 <!-- sida 20 -->
 
@@ -8851,17 +8836,6 @@ Kommunstyrelsen                                  Kungsbacka kommun
 
 5.3 Prestationsmått
 
-Namn                         Utfall  Utfall  Utfall Utfall  Utfall
-
-```osaker-tabell
-                             2021    2022    2023    2024    2025
-Upprättade detaljplaner        11      12      9      10      11
-Antal företagsärenden i företagslotsen 46 50  60      46      38
-
-Planlagda bostäder            662     381     386     248    940
-Automatiserade processer       11      3       7       7       8
-```
-
 Ledtid planbesked till projektstart, anges
 24      24     31      32      14
 i månader
@@ -8877,6 +8851,15 @@ Sysselsatt dagbefolkning, 15–74 år 28 167 28 494 28 586 28 426 \*
 \* Ännu ej publicerad
 
 19
+
+[Tabell 190-1](handlingar.tabeller/190-1.csv)
+
+| Namn | Utfall 2021 | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- | --- |
+| Upprättade detaljplaner | 11 | 12 | 9 | 10 | 11 |
+| Antal företagsärenden i företagslotsen | 46 | 50 | 60 | 46 | 38 |
+| Planlagda bostäder | 662 | 381 | 386 | 248 | 940 |
+| Automatiserade processer | 11 | 3 | 7 | 7 | 8 |
 
 <!-- sida 191 -->
 

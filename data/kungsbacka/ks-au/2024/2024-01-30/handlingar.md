@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.2fd3b05518d2a878e47da4e/17062808892
 sha256: 4c52d316a0f97164d45fed1f8fec912b75e13de65161e6fb7d11ba2ba06dbca3
 bytes: 6793799
 sidor: 120
-hamtad: 2026-10-09T08:35:15+00:00
-konverterad: 2026-10-09T08:35:44+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T06:26:44+00:00
+konverterad: 2026-10-16T06:27:10+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
 tal_obekraftade: [36, 37, 120]
 figurer: [48, 55, 68]
 tolkade: []
@@ -2628,29 +2628,28 @@ totalt 3,6 miljoner kronor.
 Nämnd            Område                Begärt belopp,  Beviljat belopp,
 kronor           kronor
 
-Vård & Omsorg                                                900 000
+Vård & Omsorg    Möta äldre som             900 000          900 000
+besväras av ofrivillig
+ensamhet
 
-Kultur & Fritid
+Kultur & Fritid  Friskvårds- &             1 200 000
+Aktivitetsgruppens
+satsning för att nå fler
+barn och unga
+Kultur & Fritid  Tillsammansgruppen –       500 000
 
-Kultur & Fritid
-
-Individ &
+ungdomar från 13 år
+med NPF-diagnos
+erbjuds mötesplats och
+engagerande aktiviteter
+Individ &                                  1 000 000
 Familjeomsorg
 
-SUMMA                                                        900 000
+SUMMA                                      3 600 000         900 000
 
 Malin Aronsson                     Anders Johansson
 
 Kommundirektör                     Biträdande kommundirektör
-
-[Tabell 57-1](handlingar.tabeller/57-1.csv)
-
-| Möta äldre som<br>besväras av ofrivillig<br>ensamhet | 900 000 |
-| --- | --- |
-| Friskvårds- &<br>Aktivitetsgruppens<br>satsning för att nå fler<br>barn och unga | 1 200 000 |
-| Tillsammansgruppen –<br>ungdomar från 13 år<br>med NPF-diagnos<br>erbjuds mötesplats och<br>engagerande aktiviteter | 500 000 |
-|  | 1 000 000 |
-|  | 3 600 000 |
 
 <!-- sida 58 -->
 
@@ -3011,7 +3010,7 @@ Bilaga 2
 
 Kungsbacka kommun Medel till att främja välmående och motverka psykisk ohälsa 7
 
-[Tabell 66-1](handlingar.tabeller/66-1.csv)
+[Tabell 66-67-1](handlingar.tabeller/66-67-1.csv)
 
 | Aktivitet | För vem | Kostnad |
 | --- | --- | --- |
@@ -3022,18 +3021,7 @@ Kungsbacka kommun Medel till att främja välmående och motverka psykisk ohäls
 | Trubadur på enhet | 6 tillfällen | 18000 |
 | Middag på enhet | Alla | 75000 |
 | Nyårsmiddag x2 | Alla | 30000 |
-
-<!-- sida 67 -->
-
-Bilaga 3
-Middag på ett boende
-
-Kungsbacka kommun Medel till att främja välmående och motverka psykisk ohälsa 8
-
-[Tabell 67-1](handlingar.tabeller/67-1.csv)
-
 | Tipspromenader | Alla | 5000 |
-| --- | --- | --- |
 | Samarbete med VO-<br>rörelse/träning på enhet | Alla | 150000 |
 | Personalkostnader för<br>ledsagning och planering | Alla | 100000 |
 | Träffpunkt med VO -äldre | Pension | 1000 |
@@ -3043,6 +3031,13 @@ Kungsbacka kommun Medel till att främja välmående och motverka psykisk ohäls
 | Side by side cykel | Alla | 150000 |
 |  | Total kostnad: | 934000 |
 |  |  |  |
+
+<!-- sida 67 -->
+
+Bilaga 3
+Middag på ett boende
+
+Kungsbacka kommun Medel till att främja välmående och motverka psykisk ohälsa 8
 
 <!-- sida 68 -->
 

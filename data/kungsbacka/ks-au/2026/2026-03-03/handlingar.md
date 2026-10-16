@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.3fcba5dd19c985df70620d4f/1772190296
 sha256: a323ba9c7e7693d038a5e939c532373336c14ada0a7ed880f400a4b3f57bab05
 bytes: 58140455
 sidor: 493
-hamtad: 2026-10-09T11:47:10+00:00
-konverterad: 2026-10-09T11:53:12+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T09:35:48+00:00
+konverterad: 2026-10-16T09:41:07+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ej-konverterad, ocr, ocr]
-tal_obekraftade: [10, 13, 15, 16, 17, 21, 25, 28, 30, 33, 34, 35, 36, 38, 39, 40, 41, 59, 60, 61, 62, 63, 65, 66, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 86, 92, 95, 103, 104, 106, 107, 110, 111, 120, 127, 130, 131, 132, 133, 138, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 179, 185, 357, 459, 475, 476, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 491, 492, 493]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, tabell-osaker, ok, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, tabell-osaker, ocr, ocr, ocr, ocr, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ej-konverterad, ocr, ocr]
+tal_obekraftade: [10, 13, 15, 16, 17, 21, 25, 28, 30, 33, 34, 35, 36, 38, 39, 40, 41, 59, 60, 61, 62, 63, 65, 66, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 86, 92, 95, 103, 104, 106, 107, 110, 111, 120, 127, 130, 131, 132, 133, 138, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 179, 185, 319, 331, 357, 459, 475, 476, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 491, 492, 493]
 figurer: [14, 20, 44, 45, 48, 50, 58, 119, 170, 171, 173, 174, 175, 176, 186, 279, 449, 450, 451, 468]
 tolkade: []
 ---
@@ -74,12 +74,21 @@ KUNGSBACKA  KOMMUN
 
 3 (6)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
+[Tabell 3-5-1](handlingar.tabeller/3-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 9. | Svar på motion från Elisabeth<br>Sahlsten (MP) m.fl. om<br>åtgärder för minskad<br>dricksvattenförbrukning och<br>pilotprojekt för hållbar<br>bostadsbebyggelse i<br>Forsbergen | 2025-00357 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad, i de<br>delar som avser att uppmuntra enskilda<br>fastighetsägare och byggentreprenörer att installera<br>vattenbesparande utrustning, erbjuda rådgivning och<br>tips till de fastighetsägare som vill installera<br>vattenbesparande system och cirkulerande system för<br>till exempel regnvatten och gråvatten samt<br>uppmuntra innovativ teknik för att använda<br>regnvatten och återcirkulerat gråvatten, med<br>hänvisning till det arbete som redan pågår för att<br>minska vattenförbrukningen hos hushåll och företag.<br>Kommunfullmäktige anser motionen besvarad, i den<br>del som avser att ge Eksta Bostads AB i uppdrag att<br>skissa på ett pilotsystem med hållbar<br>bostadsbebyggelse förslagsvis i Forsbergen, med<br>hänvisning till att Ekstas ägardirektiv redan anger att<br>bolaget ska ha en tydlig energi- och miljöprofil och<br>bygga med höga krav inom energi- och<br>miljöområdet.<br>Kommunfullmäktige anser motionen besvarad, i den<br>del som avser att utreda hur källsortering av<br>avloppsvatten kan testas i en pilotanläggning, med<br>hänvisning till att en eventuell utredning om<br>pilotprojekt för källsorterande avlopp kan ses som en<br>del av nämnden för Tekniks ordinarie uppdrag och att<br>nämnden själv behöver besluta om prioritering och<br>fördelning av resurser för att genomföra en sådan<br>utredning. |
 | 10. | Begäran om planbesked för<br>Särö 1:320 | 2025-00931 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av ett garage inom Särö 1:320, i Särö.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>ändring av detaljplan inom Särö 1:320 i Särö. |
+| 11. | Begäran om planbesked Varla<br>6:19 | 2025-00907 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av kontor och verksamheter inom Varla<br>6:19, i Kungsbacka.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för kontor och verksamheter inom Varla<br>6:19, i Kungsbacka. |
+| 12. | Information om arbetet med<br>Kungsbacka Arena<br>08.50–09.20<br>Sven-Erik Bergström, SBK<br>Lena Melvinsdotter, SBK<br>Ing-Britt Blomberg, KLK<br>Peter Johansson, SE<br>Maria Rosenberg, SE<br>Julia Tryggvadottir Tollesson,<br>SE<br>Pia Eklund, SE<br>Alexander Arvidsson, SE<br>Marie Persson, KFT<br>Harald Tjelle, KFT<br>Julia Ryding Wikberg, KFT<br>Emir Halalkic, TE | 2020-00547 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 13. | Avstämning om inriktning för<br>etableringar inom Klovsten<br>09.25–09.40<br>Simon Vedlund<br>Elinor Filipsson | 2026-00128 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 14. | Information inför<br>projektansökan om<br>kompensationssystem för<br>minskad näringstillförsel i<br>Kungsbackaåns<br>avrinningsområde<br>09.45–09.55<br>Mårten Västerdal<br>Anders Lund | 2026-00129 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 15. | Avstämning planprogram för<br>Åsa station<br>11.15–11.45<br>Stina Wikström<br>Ida Lennartsson | 2024-00218 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 16. | Avstämning avsiktsförklaring<br>avseende del av kv. Samariten<br>11.45–12.00<br>Johan Gerremo | 2024-00673 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 17. | Information om organisering<br>av datadriven organisation<br>13.00–13.30<br>Anders Johansson | 2026-00130 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 18. | Information om<br>valfrihetssystem enligt LOV<br>13.35-13.50<br>Anders Johansson | 2025-00962 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 19. | Information ledamöter och<br>förvaltning | 2025-00975 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
 
 <!-- sida 4 -->
 
@@ -87,30 +96,11 @@ KUNGSBACKA  KOMMUN
 
 4 (6)
 
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | Begäran om planbesked Varla<br>6:19 | 2025-00907 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av kontor och verksamheter inom Varla<br>6:19, i Kungsbacka.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för kontor och verksamheter inom Varla<br>6:19, i Kungsbacka. |
-| 12. | Information om arbetet med<br>Kungsbacka Arena<br>08.50–09.20<br>Sven-Erik Bergström, SBK<br>Lena Melvinsdotter, SBK<br>Ing-Britt Blomberg, KLK<br>Peter Johansson, SE<br>Maria Rosenberg, SE<br>Julia Tryggvadottir Tollesson,<br>SE<br>Pia Eklund, SE<br>Alexander Arvidsson, SE<br>Marie Persson, KFT<br>Harald Tjelle, KFT<br>Julia Ryding Wikberg, KFT<br>Emir Halalkic, TE | 2020-00547 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 13. | Avstämning om inriktning för<br>etableringar inom Klovsten<br>09.25–09.40<br>Simon Vedlund<br>Elinor Filipsson | 2026-00128 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-
 <!-- sida 5 -->
 
 KUNGSBACKA  KOMMUN
 
 5 (6)
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 14. | Information inför<br>projektansökan om<br>kompensationssystem för<br>minskad näringstillförsel i<br>Kungsbackaåns<br>avrinningsområde<br>09.45–09.55<br>Mårten Västerdal<br>Anders Lund | 2026-00129 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 15. | Avstämning planprogram för<br>Åsa station<br>11.15–11.45<br>Stina Wikström<br>Ida Lennartsson | 2024-00218 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 16. | Avstämning avsiktsförklaring<br>avseende del av kv. Samariten<br>11.45–12.00<br>Johan Gerremo | 2024-00673 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 17. | Information om organisering<br>av datadriven organisation<br>13.00–13.30<br>Anders Johansson | 2026-00130 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 18. | Information om<br>valfrihetssystem enligt LOV<br>13.35-13.50<br>Anders Johansson | 2025-00962 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 19. | Information ledamöter och<br>förvaltning | 2025-00975 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
 
 <!-- sida 6 -->
 
@@ -849,18 +839,15 @@ hushållning och ekonomisk ställning.
 
 FÖRVALTNINGSBERÄTTELSE
 
-Kommunen                                2021 2022  2023  2024  2025
-
-anläggningstillgångar (mnkr)
-
 ¹ Nettoinvesteringar koncern och nettoinvesteringar per invånare exklusive finansiell leasing 2024 har rättats.
 
 Kungsbacka kommuns årsredovisning 2025 13
 
 [Tabell 22-1](handlingar.tabeller/22-1.csv)
 
-| Antal invånare | 85 301 | 85 801 | 85 653 | 85 792 | 86 332 |
+| Kommunen | 2021 | 2022 | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- | --- | --- |
+| Antal invånare | 85 301 | 85 801 | 85 653 | 85 792 | 86 332 |
 | Kommunal skattesats (%) | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 |
 | Verksamhetens intäkter (mnkr) | 1 184 | 1 471 | 1 367 | 1 402 | 1 480 |
 | Verksamhetens kostnader (mnkr) | 5 802 | 5 956 | 6 526 | 6 610 | 6 656 |
@@ -869,19 +856,15 @@ Kungsbacka kommuns årsredovisning 2025 13
 | Årets resultat (mnkr) | 464 | 753 | 231 | 286 | 604 |
 | Årets resultat per invånare (kronor) | 5 441 | 8 775 | 2 692 | 3 328 | 6 996 |
 | Nettoinvesteringar (mnkr) | 745 | 1 299 | 956 | 766 | 748 |
-| Nettoinvesteringar exklusive finansiell leasing samt finansiella | 623 | 809 | 928 | 765 | 747 |
-
-[Tabell 22-2](handlingar.tabeller/22-2.csv)
-
+| Nettoinvesteringar exklusive finansiell leasing samt finansiella anläggningstillgångar (mnkr) | 623 | 809 | 928 | 765 | 747 |
 | 1Nettoinvesteringar per invånare exklusive finansiell leasing (kronor) | 7 304 | 9 424 | 10 834 | 8 915 | 8 658 |
-| --- | --- | --- | --- | --- | --- |
 | Soliditet inklusive totala pensionsförpliktelser (%) | 35,5 | 35,4 | 35,9 | 37,4 | 41,3 |
 | Självfinaniseringsgrad, exklusive finansiell leasing (%) | 133 | 142 | 67 | 92 | 138 |
 | Lån i banker och kreditinstitut (mnkr) | 1 450 | 1 300 | 1 200 | 1 200 | 1 050 |
 | Låneskuld kronor per invånare | 16 999 | 15 151 | 14 010 | 13 987 | 12 162 |
 | Antal anställda | 6 654 | 6 791 | 6 733 | 6 594 | 6 621 |
 
-[Tabell 22-3](handlingar.tabeller/22-3.csv)
+[Tabell 22-2](handlingar.tabeller/22-2.csv)
 
 | Kommunala koncernen | 2021 | 2022 | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- | --- | --- |
@@ -3367,15 +3350,7 @@ hälsofrämjande insatser och ett systematiskt arbetsmil-
 jöarbete i hela organisationen. Detta arbete bidrar till en
 ökad hållbarhet i personalförsörjningen.
 
-Kommun (Förvaltningarna) 2023 2024  2025
-Sjukfrånvaro i procent av ordinarie 7,2 7,3 7,0
-arbetstid (%)
-
 60 dagar eller mer (%)
-
-Bolag (Förvaltningarna) 2023  2024  2025
-Sjukfrånvaro i procent av ordinarie 4,8 7,5 4,8
-arbetstid (%)
 
 60 dagar eller mer (%)
 
@@ -3383,8 +3358,10 @@ Kungsbacka kommuns årsredovisning 2025 55
 
 [Tabell 64-1](handlingar.tabeller/64-1.csv)
 
-| Sjukfrånvaro kvinnor (%) | 7,8 | 7,9 | 7,3 |
+| Kommun (Förvaltningarna) | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- |
+| Sjukfrånvaro i procent av ordinarie arbetstid (%) | 7,2 | 7,3 | 7,0 |
+| Sjukfrånvaro kvinnor (%) | 7,8 | 7,9 | 7,3 |
 | Sjukfrånvaro män (%) | 4,7 | 4,8 | 4,0 |
 | Ålder –29 (%) | 7,5 | 6,9 | 7,0 |
 | Ålder 30–49 (%) | 6,2 | 6,3 | 6,0 |
@@ -3393,8 +3370,10 @@ Kungsbacka kommuns årsredovisning 2025 55
 
 [Tabell 64-2](handlingar.tabeller/64-2.csv)
 
-| Sjukfrånvaro kvinnor (%) | 5,3 | 8,6 | 6,1 |
+| Bolag (Förvaltningarna) | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- |
+| Sjukfrånvaro i procent av ordinarie arbetstid (%) | 4,8 | 7,5 | 4,8 |
+| Sjukfrånvaro kvinnor (%) | 5,3 | 8,6 | 6,1 |
 | Sjukfrånvaro män (%) | 4,5 | 6,6 | 3,5 |
 | Ålder -29 (%) | 2,2 | 0,5 | 0,7 |
 | Ålder 30-49 (%) | 6,7 | 8,5 | 4,6 |
@@ -6378,31 +6357,17 @@ av tabellen justerar vi för interna poster för att kunna härleda beloppen til
 resultaträkningens rad för verksamhetens nettokostnader. Mer om hur de olika finansiella
 rapporterna hänger ihop framgår av särskilt avsnitt. För mer ingående analyser av nämnderna
 hänvisar vi till nämndernas egna årsredovisningar som är tillgängliga på kommunens webbplats.
-Nämnd            Budget        Bokslut 2025          Bokslut 2024
-2025
-Netto-             Netto-                   Netto-
-Belopp i mnkr    anslag Intäkter Kostnader kostnader Avvikelse Intäkter Kostnader kostnader
 
-nämnder
-
-nämnder
-Summa nämnder    -6 021,6 2 850,2 -8 728,4 -5 878,2 143,4 2 743,6 -8 495,5 -5 751,9
-
-Finans (9\*)        -38,0 70,2   73,4 143,6  181,6 44,0  -53,7  -9,7
-
-1 Justering Interna poster 556,5 -1 440,8 1 998,9 558,1 1,6 -1 385,5 1 939,0 553,5
-avskrivningar med mera
-1 Verksamhetens intäkter -5 503,1 1 479,6 -6 656,1 -5 176,5 326,6 1 402,1 -6 610,2 -5 208,1
-och kostnader i Resultat-
-räkningen
 ¹ Justering interna poster avskrivningar m.m. och verksamhetens kostnader och nettokostnader 2024 har rättats.
 
 74 Kungsbacka kommuns årsredovisning 2025
 
 [Tabell 83-1](handlingar.tabeller/83-1.csv)
 
-| Kommunfullmäktige | -4,9 | 0,0 | -4,7 | -4,7 | 0,2 | 0,0 | -4,1 | -4,1 |
+| Nämnd | Budget 2025 | Bokslut 2025 |  |  |  | Bokslut 2024 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Belopp i mnkr | Nettoanslag | Intäkter | Kostnader | Nettokostnader | Avvikelse | Intäkter | Kostnader | Nettokostnader |
+| Kommunfullmäktige | -4,9 | 0,0 | -4,7 | -4,7 | 0,2 | 0,0 | -4,1 | -4,1 |
 | Kommunstyrelsen | -292,3 | 48,8 | -324,6 | -275,8 | 16,5 | 41,7 | -307,4 | -265,7 |
 | Kommunrevision | -3,6 | 0,0 | -3,3 | -3,3 | 0,3 | 0,0 | -3,2 | -3,1 |
 | Valnämnden | -0,4 | 0,0 | -0,3 | -0,3 | 0,0 | 2,5 | -4,1 | -1,6 |
@@ -6416,15 +6381,15 @@ räkningen
 | Byggnadsförvaltningen | -40,4 | 52,2 | -90,9 | -38,7 | 1,7 | 50,2 | -85,3 | -35,1 |
 | Individ & Familjeomsorg | -827,1 | 73,5 | -909,7 | -836,2 | -9,1 | 79,8 | -876,1 | -796,3 |
 | Vård & Omsorg | -1 211,8 | 256,1 | -1 441,9 | -1 185,7 | 26,1 | 197,4 | -1 337,7 | -1 140,3 |
-| Summa Skattefinansierade | -6 021,6 | 2 445,1 | -8 323,3 | -5 878,2 | 143,4 | 2 367,7 | -8 116,8 | -5 749,1 |
-
-[Tabell 83-2](handlingar.tabeller/83-2.csv)
-
+| Summa Skattefinansierade nämnder | -6 021,6 | 2 445,1 | -8 323,3 | -5 878,2 | 143,4 | 2 367,7 | -8 116,8 | -5 749,1 |
 | 51 Kungsbacka Bredbandsnät | 0,0 | 42,3 | -42,3 | 0,0 | 0,0 | 39,8 | -39,8 | 0,0 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 52 Teknik Vatten & Avlopp | 0,0 | 240,7 | -240,7 | 0,0 | 0,0 | 220,9 | -220,9 | 0,0 |
 | 53 Avfall & Återvinning | 0,0 | 122,1 | -122,1 | 0,0 | 0,0 | 115,2 | -118,0 | -2,7 |
-| Summa Avgiftsfinansierade | 0,0 | 405,2 | -405,2 | 0,0 | 0,0 | 375,9 | -378,7 | -2,7 |
+| Summa Avgiftsfinansierade nämnder | 0,0 | 405,2 | -405,2 | 0,0 | 0,0 | 375,9 | -378,7 | -2,7 |
+| Summa nämnder | -6 021,6 | 2 850,2 | -8 728,4 | -5 878,2 | 143,4 | 2 743,6 | -8 495,5 | -5 751,9 |
+| Finans (9\*) | -38,0 | 70,2 | 73,4 | 143,6 | 181,6 | 44,0 | -53,7 | -9,7 |
+| 1 Justering Interna poster avskrivningar med mera | 556,5 | -1 440,8 | 1 998,9 | 558,1 | 1,6 | -1 385,5 | 1 939,0 | 553,5 |
+| 1 Verksamhetens intäkter och kostnader i Resultat- räkningen | -5 503,1 | 1 479,6 | -6 656,1 | -5 176,5 | 326,6 | 1 402,1 | -6 610,2 | -5 208,1 |
 
 <!-- sida 84 -->
 
@@ -6654,49 +6619,38 @@ arbetar Kungsbacka Bredbandsnät mer proaktivt i nya
 områden, vilket kräver ökat försäljningsfokus och en
 utvecklad affärsmodell då bredbandsanslutningar sker på
 frivillig basis och inte genom lagkrav.
-Kungsbacka Bokslut Budget Bokslut Avvikelse
-bredband   2024  2025 2025   2025
-(belopp i mnkr)
 
 Pågående större investeringar
 Följande tabell visar några av de pågående projekten i kommunen
 med en beslutad totalbudget över 30 miljoner kronor.
 
-Projekt            Utfall totalt Budget 2025 Bokslut Avvikelse
-(belopp i mnkr)  tom december          2025     2025
-2025
-
-uppdim. etapp 2
-Vallda boende med särskild -39,6 -23,1 -19,9     3,2
-service
-
-GBG-KBA
-Ölmevallaskolan        -1,4      -     -1,4     -1,4
-
 Kungsbacka kommuns årsredovisning 2025 79
 
 [Tabell 88-1](handlingar.tabeller/88-1.csv)
 
-| Inkomster | 4,8 | 1,5 | 5,0 | 3,6 |
+| Kungsbacka | Bokslut | Budget | Bokslut | Avvikelse |
 | --- | --- | --- | --- | --- |
+| bredband | 2024 | 2025 | 2025 | 2025 |
+| (belopp i mnkr) |  |  |  |  |
+| Inkomster | 4,8 | 1,5 | 5,0 | 3,6 |
 | Utgifter | -39,9 | -27,0 | -22,4 | 4,6 |
 | Netto | -35,1 | -25,5 | -17,4 | 8,2 |
 
 [Tabell 88-2](handlingar.tabeller/88-2.csv)
 
-| Framtidens reningsverk | -160,4 | -197,8 | -160,2 | 37,6 |
+| Projekt (belopp i mnkr) | Utfall totalt tom december 2025 | Budget 2025 | Bokslut 2025 | Avvikelse 2025 |
 | --- | --- | --- | --- | --- |
+| Framtidens reningsverk | -160,4 | -197,8 | -160,2 | 37,6 |
 | Klockaregårdens förskola | -91,4 | -4,2 | -7,0 | -2,8 |
 | Stockalids förskola | -70,2 | -10,0 | -8,4 | 1,6 |
 | VA-utbyggnad Hagryd-Dala | -60,7 | -23,0 | -31,5 | -8,5 |
-| Fjärås vattenverk Hammerö | -40,0 | -45,0 | -37,8 | 7,2 |
-
-[Tabell 88-3](handlingar.tabeller/88-3.csv)
-
+| Fjärås vattenverk Hammerö uppdim. etapp 2 | -40,0 | -45,0 | -37,8 | 7,2 |
+| Vallda boende med särskild service | -39,6 | -23,1 | -19,9 | 3,2 |
 | Voxlöv/Björkris | -30,0 | -35,0 | -24,7 | 10,3 |
-| --- | --- | --- | --- | --- |
 | Kungsbacka Arena | -26,6 | -124,8 | -9,6 | 115,1 |
 | Åtgärder reservvatten | -8,8 | -13,9 | -3,5 | 10,4 |
+| GBG-KBA |  |  |  |  |
+| Ölmevallaskolan | -1,4 | - | -1,4 | -1,4 |
 
 <!-- sida 89 -->
 
@@ -14545,7 +14499,7 @@ Tabell 1 Samverkansområden och luftvårdsförbund.
 
 74
 
-[Tabell 259-1](handlingar.tabeller/259-1.csv)
+[Tabell 259-260-1](handlingar.tabeller/259-260-1.csv)
 
 |  | Län | Samverkansområde<br>för kontroll av MKN<br>luft | Luftvårdsförbund<br>med avseende på<br>politisk styrning,<br>företagsmedlemmar<br>och övervakning i<br>regional bakgrund\* | Kommentar |
 | --- | --- | --- | --- | --- |
@@ -14562,6 +14516,16 @@ Tabell 1 Samverkansområden och luftvårdsförbund.
 | M | Skåne | Skånes<br>luftvårdsförbund | Skånes<br>luftvårdsförbund | - |
 | N | Halland | Nej | Nej | Kungsbacka kommun ingår i<br>Göteborgsregionens<br>luftvårdsförbund |
 | O | Västra<br>Götaland | Luftvårdsförbundet i<br>Göteborgsregionen | Luftvårdsförbundet i<br>Göteborgsregionen | Två samverkansområden och<br>luftvårdsförbund i länet |
+|  |  | Luftvårdsförbundet för<br>Västra Sverige (Luft i<br>Väst) | Luftvårdsförbundet<br>för Västra Sverige<br>(Luft i Väst) |  |
+| S | Värmland | Nej | Värmlands<br>luftvårdsförbund | Samarbete med Örebro län om<br>objektiv skattning |
+| T | Örebro | Nej | Nej | Samarbete med Värmlands län om<br>objektiv skattning (ej Örebro<br>kommun) |
+| U | Västmanland | Nej | Västmanlands<br>luftvårdsförbund | Kommunerna samarbetar kring<br>objektiv skattning och modellering<br>(ej Sala kommun, men Heby<br>kommun C-län ingår). |
+| W | Dalarna | Dalarnas<br>luftvårdsförbund | Dalarnas<br>luftvårdsförbund | - |
+| X | Gävleborg | Östra Sveriges<br>luftvårdsförbund<br>(ÖSLVF) | Östra Sveriges<br>luftvårdsförbund<br>(ÖSLVF) | Nordanstig ingår inte i<br>luftvårdsförbundet |
+| Y | Västernorrland | Samverkan för<br>luftövervakning i<br>Västernorrland | Nej | - |
+| Z | Jämtland | Nej | Nej | - |
+| AC | Västerbotten | Nej | Nej | Diskussioner pågår om att bilda<br>luftvårdsförbund med BD län |
+| BD | Norrbotten | Nej | Nej | Diskussioner pågår om att bilda<br>luftvårdsförbund med AC län |
 
 <!-- sida 260 -->
 
@@ -14583,21 +14547,6 @@ kommunerna. Vid den nätverksträff32 som hölls i november 2024 samt i en enkä
 länsstyrelser, luftvårdsförbund och i samverkansområden samt konsulter på området.
 
 75
-
-[Tabell 260-1](handlingar.tabeller/260-1.csv)
-
-|  | Län | Samverkansområde<br>för kontroll av MKN<br>luft | Luftvårdsförbund<br>med avseende på<br>politisk styrning,<br>företagsmedlemmar<br>och övervakning i<br>regional bakgrund\* | Kommentar |
-| --- | --- | --- | --- | --- |
-|  |  | Luftvårdsförbundet för<br>Västra Sverige (Luft i<br>Väst) | Luftvårdsförbundet<br>för Västra Sverige<br>(Luft i Väst) |  |
-| S | Värmland | Nej | Värmlands<br>luftvårdsförbund | Samarbete med Örebro län om<br>objektiv skattning |
-| T | Örebro | Nej | Nej | Samarbete med Värmlands län om<br>objektiv skattning (ej Örebro<br>kommun) |
-| U | Västmanland | Nej | Västmanlands<br>luftvårdsförbund | Kommunerna samarbetar kring<br>objektiv skattning och modellering<br>(ej Sala kommun, men Heby<br>kommun C-län ingår). |
-| W | Dalarna | Dalarnas<br>luftvårdsförbund | Dalarnas<br>luftvårdsförbund | - |
-| X | Gävleborg | Östra Sveriges<br>luftvårdsförbund<br>(ÖSLVF) | Östra Sveriges<br>luftvårdsförbund<br>(ÖSLVF) | Nordanstig ingår inte i<br>luftvårdsförbundet |
-| Y | Västernorrland | Samverkan för<br>luftövervakning i<br>Västernorrland | Nej | - |
-| Z | Jämtland | Nej | Nej | - |
-| AC | Västerbotten | Nej | Nej | Diskussioner pågår om att bilda<br>luftvårdsförbund med BD län |
-| BD | Norrbotten | Nej | Nej | Diskussioner pågår om att bilda<br>luftvårdsförbund med AC län |
 
 <!-- sida 261 -->
 
@@ -15514,7 +15463,7 @@ som gäller idag och de nya utvärderingströsklarna enligt direktivet.
 
 92
 
-[Tabell 277-1](handlingar.tabeller/277-1.csv)
+[Tabell 277-278-1](handlingar.tabeller/277-278-1.csv)
 
 | Förorening | Befintliga nedre<br>utvärderingströsklar<br>(NUT) | Befintliga övre<br>utvärderingströsklar<br>(ÖUT) | Nya<br>utvärderingströsklar |
 | --- | --- | --- | --- |
@@ -15525,6 +15474,12 @@ som gäller idag och de nya utvärderingströsklarna enligt direktivet.
 | CO | 5 mg/m3 (8-<br>timmarsmedel) | 7 mg/m3 (8-<br>timmarsmedel) | 4 mg/m3 (≤3 dygn) |
 | Bensen | 2 µg/m3 (årsmedel) | 3,5 µg/m3 (årsmedel) | 1,7 µg/m3 (årsmedel) |
 | Bly | 0,25 µg/m3 (årsmedel) | 0,35 µg/m3 (årsmedel) | 0,25 µg/m3 (årsmedel) |
+| Arsenik | 2,4 ng/m3 (årsmedel) | 3,6 ng/m3 (årsmedel) | 3,0 ng/m3 (årsmedel) |
+| Kadmium | 2 ng/m3 (årsmedel) | 3 ng/m3 (årsmedel) | 2,5 ng/m3 (årsmedel) |
+| Nickel | 10 ng/m3 (årsmedel) | 14 ng/m3 (årsmedel) | 10 ng/m3 (årsmedel) |
+| Bens(a)pyren | 0,4 ng/m3 (årsmedel) | 0,6 ng/m3 (årsmedel) | 0,30 ng/m3 (årsmedel) |
+| Ozon | - | - | 100 µg/m3 (högsta 8-<br>timmarsmedel ≤3 dygn) |
+| NO<br>x | 19,5 µg/m3 (årsmedel)\*\* | 24 µg/m3 (årsmedel)\*\* | 19,5 µg/m3<br>(årsmedel)\*\* |
 
 <!-- sida 278 -->
 
@@ -15561,17 +15516,6 @@ med dagens nedre utvärderingströskel på 0,4 ng/m3, men ligger alltså på en 
 rekommenderar.
 
 93
-
-[Tabell 278-1](handlingar.tabeller/278-1.csv)
-
-| Förorening | Befintliga nedre<br>utvärderingströsklar<br>(NUT) | Befintliga övre<br>utvärderingströsklar<br>(ÖUT) | Nya<br>utvärderingströsklar |
-| --- | --- | --- | --- |
-| Arsenik | 2,4 ng/m3 (årsmedel) | 3,6 ng/m3 (årsmedel) | 3,0 ng/m3 (årsmedel) |
-| Kadmium | 2 ng/m3 (årsmedel) | 3 ng/m3 (årsmedel) | 2,5 ng/m3 (årsmedel) |
-| Nickel | 10 ng/m3 (årsmedel) | 14 ng/m3 (årsmedel) | 10 ng/m3 (årsmedel) |
-| Bens(a)pyren | 0,4 ng/m3 (årsmedel) | 0,6 ng/m3 (årsmedel) | 0,30 ng/m3 (årsmedel) |
-| Ozon | - | - | 100 µg/m3 (högsta 8-<br>timmarsmedel ≤3 dygn) |
-| NO<br>x | 19,5 µg/m3 (årsmedel)\*\* | 24 µg/m3 (årsmedel)\*\* | 19,5 µg/m3<br>(årsmedel)\*\* |
 
 <!-- sida 279 -->
 
@@ -17107,7 +17051,7 @@ bakgrund
 | SE2 | 1 232 906 | 2 | 4 | 6 |
 | SE3 | 0a | 1 | 1 | 1 |
 
-[Tabell 306-2](handlingar.tabeller/306-2.csv)
+[Tabell 306-307-2](handlingar.tabeller/306-307-2.csv)
 
 | Nuts 2-region | Totalt antal<br>invånare i<br>tätorter med<br>över 100 000<br>invånare | Direktivets<br>krav på antal<br>stationer för<br>AEIb | Antal befintliga<br>mätstationer i<br>urban<br>bakgrund för<br>PM2,5 | Antal befintliga<br>mätstationer i<br>urban<br>bakgrund för<br>kvävedioxid |
 | --- | --- | --- | --- | --- |
@@ -17117,6 +17061,8 @@ bakgrund
 | SE22 | 455 345 | 1 | 2 | 4 |
 | SE23 | 674 529 | 1 | 1 | 2 |
 | SE31 | 0a | 1 | 0 | 1 |
+| SE32 | 0a | 1 | 0 | 0 |
+| SE33 | 0a | 1 | 1 | 0 |
 
 <!-- sida 307 -->
 
@@ -17159,13 +17105,6 @@ exponering inom den nationella miljöövervakningen så att detta kan kompletter
 långsiktigt utan att antalet mätplatser ökar.
 
 122
-
-[Tabell 307-1](handlingar.tabeller/307-1.csv)
-
-| Nuts 2-region | Totalt antal<br>invånare i<br>tätorter med<br>över 100 000<br>invånare | Direktivets<br>krav på antal<br>stationer för<br>AEIb | Antal befintliga<br>mätstationer i<br>urban<br>bakgrund för<br>PM2,5 | Antal befintliga<br>mätstationer i<br>urban<br>bakgrund för<br>kvävedioxid |
-| --- | --- | --- | --- | --- |
-| SE32 | 0a | 1 | 0 | 0 |
-| SE33 | 0a | 1 | 1 | 0 |
 
 <!-- sida 308 -->
 
@@ -24287,12 +24226,24 @@ anslag 1:2 Miljöövervakning m.m. för år 2026 och 2027
 
 253
 
-[Tabell 438-1](handlingar.tabeller/438-1.csv)
+[Tabell 438-439-1](handlingar.tabeller/438-439-1.csv)
 
 | År | Aktivitet/förslag | Uppskattad<br>kostnad (kronor) |
 | --- | --- | --- |
 | 2026 |  |  |
 |  | Kostnad för Nationell modellering och SIMAIR<br>(förslag i avsnitt 3.4.4 och 3.9.4) | 4 600 000 |
+|  | Framtagande av luftkvalitetsindex och information om<br>effekter på hälsa och växtlighet – uppdrag<br>(förslag i avsnitt 3.10) | 450 000 |
+|  | Mätningar Ultrafina partiklar (UFP) och sot (BC)<br>(förslag i avsnitt 3.4.7) | 425 000 |
+|  | Omstrukturering av stationsnät för mätningar av ozon<br>och PM2,5 (genomsnittlig exponering)<br>(förslag i avsnitt 3.4.7) | 500 000 |
+|  | Nya mätningar för olika luftföroreningar<br>(förslag i avsnitt 3.4.7) | 1 100 000 |
+|  | Inrättande av urban superstation<br>(förslag i delredovisningen, avsnitt 4.1) | 3 000 000 |
+|  | Totalt år 2026 | 10 075 000 |
+| 2027 |  |  |
+|  | Kostnad för Nationell modellering och SIMAIR<br>(förslag i avsnitt 3.4.4 och 3.9.4) | 4 600 000 |
+|  | Kompletterande mätningar vid halter under<br>utvärderingströskeln<br>(förslag i avsnitt 3.4.7) | 1 000 000 |
+|  | Nya mätningar/ Inköp av mättjänster, (både vid<br>superstationer och övriga)<br>(förslag i avsnitt 3.4.7) | 2 100 000 |
+|  | Mätningar vid urban superstation<br>(förslag i delredovisningen, avsnitt 4.1) | 3 650 000\* |
+|  | Totalt år 2027 | 11 350 000 |
 
 <!-- sida 439 -->
 
@@ -24311,23 +24262,6 @@ och mätplatser. Sett över de senaste 13 åren har den nationella luftövervakn
 ökat med i genomsnitt ungefär fem procent per år, med större ökningar inför nya
 
 254
-
-[Tabell 439-1](handlingar.tabeller/439-1.csv)
-
-| År | Aktivitet/förslag | Uppskattad<br>kostnad (kronor) |
-| --- | --- | --- |
-|  | Framtagande av luftkvalitetsindex och information om<br>effekter på hälsa och växtlighet – uppdrag<br>(förslag i avsnitt 3.10) | 450 000 |
-|  | Mätningar Ultrafina partiklar (UFP) och sot (BC)<br>(förslag i avsnitt 3.4.7) | 425 000 |
-|  | Omstrukturering av stationsnät för mätningar av ozon<br>och PM2,5 (genomsnittlig exponering)<br>(förslag i avsnitt 3.4.7) | 500 000 |
-|  | Nya mätningar för olika luftföroreningar<br>(förslag i avsnitt 3.4.7) | 1 100 000 |
-|  | Inrättande av urban superstation<br>(förslag i delredovisningen, avsnitt 4.1) | 3 000 000 |
-|  | Totalt år 2026 | 10 075 000 |
-| 2027 |  |  |
-|  | Kostnad för Nationell modellering och SIMAIR<br>(förslag i avsnitt 3.4.4 och 3.9.4) | 4 600 000 |
-|  | Kompletterande mätningar vid halter under<br>utvärderingströskeln<br>(förslag i avsnitt 3.4.7) | 1 000 000 |
-|  | Nya mätningar/ Inköp av mättjänster, (både vid<br>superstationer och övriga)<br>(förslag i avsnitt 3.4.7) | 2 100 000 |
-|  | Mätningar vid urban superstation<br>(förslag i delredovisningen, avsnitt 4.1) | 3 650 000\* |
-|  | Totalt år 2027 | 11 350 000 |
 
 <!-- sida 440 -->
 
@@ -25027,7 +24961,7 @@ NATURVÅRDSVERKET
 
 271
 
-[Tabell 456-1](handlingar.tabeller/456-1.csv)
+[Tabell 456-457-1](handlingar.tabeller/456-457-1.csv)
 
 | Förslag till ny<br>luftkvalitets-<br>förordning | Luftkvalitets-<br>förordningen | Ändring (med redaktionella ändringar avses<br>mindre språkliga ändringar och hänvisningar) |
 | --- | --- | --- |
@@ -25063,17 +24997,6 @@ NATURVÅRDSVERKET
 | 49 | Delredovisning | Redaktionella ändringar |
 | 50 | 33 | Se avsnitt 3.9.1 |
 | 51 | 34 | Se avsnitt 3.9.2 |
-
-<!-- sida 457 -->
-
-NATURVÅRDSVERKET
-
-272
-
-[Tabell 457-1](handlingar.tabeller/457-1.csv)
-
-| Förslag till ny<br>luftkvalitets-<br>förordning | Luftkvalitets-<br>förordningen | Ändring (med redaktionella ändringar avses<br>mindre språkliga ändringar och hänvisningar) |
-| --- | --- | --- |
 | 52 | 35 | Ingen förändring |
 | 53 | Regeringens<br>förslag 36 § | Ingen förändring |
 | 54 | 37 | Se avsnitt 3.9.3 |
@@ -25103,6 +25026,12 @@ NATURVÅRDSVERKET
 | Bilaga 2 | Bilaga 2 | Se avsnitt 3.6.3 |
 | Bilaga 3 | 33 | Se avsnitt 3.9.1 |
 | Bilaga 4 | 33 | Se avsnitt 3.9.1 |
+
+<!-- sida 457 -->
+
+NATURVÅRDSVERKET
+
+272
 
 <!-- sida 458 -->
 

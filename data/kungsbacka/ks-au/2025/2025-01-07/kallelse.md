@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2d7be631193ded8edc5abc99/1735903348
 sha256: 4fae76b8a6694c7f80e133f96b6c9d53351624393aeb6f108db4f80c1131aacc
 bytes: 220931
 sidor: 6
-hamtad: 2026-10-09T08:22:41+00:00
-konverterad: 2026-10-09T08:22:47+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-16T06:13:11+00:00
+konverterad: 2026-10-16T06:13:18+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok]
@@ -59,7 +59,7 @@ KUNGSBACKA  KOMMUN
 
 2(6)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -70,6 +70,15 @@ KUNGSBACKA  KOMMUN
 | 10. | Remittering av motion från<br>Roger Larsson (KB) om<br>kostnadsfri utdelning av<br>broddar till invånare som är 65<br>år eller äldre | 2024-00851 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Vård & Omsorg och<br>nämnden för Kultur & Fritid för beredning. |
 | 11. | Remittering av motion från<br>Roger Larsson (KB) om<br>yttranderätt för ersättare vid<br>kommunfullmäktiges<br>sammanträden | 2024-00853 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till kommunstyrelsens förvaltning för<br>beredning. |
 | 12. | Återrapportering av uppdrag att<br>genomföra reflektion och<br>dialoger om klädsel på<br>arbetsplatsen | 2019-00052 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen noterar redovisningen av de<br>genomförda dialogerna om klädkoder och förklarar<br>uppdraget, som lämnades av kommunstyrelsen 26<br>november 2019, § 273, för avslutat. |
+| 13. | Förändring avseende projekt i<br>lokalplan Kv Liljan skola och<br>idrottssal | 2024-00724 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner att omfattningen på<br>projektet Kvarteret Liljan skola reduceras till 350<br>elever från tidigare planerade 525 elever.<br>Kommunstyrelsen godkänner den totala<br>investeringsbudgeten om 200 miljoner kronor. |
+| 14. | Säkerhetsskyddsavtal vid<br>totalförsvarsplanering | 2023-00864 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner säkerhetsskyddsavtal<br>avseende totalförsvarsplaneringen mellan<br>kommunen och Försvarsmakten, daterat 2024-11-07.<br>Säkerhetsskyddschefen utses att för kommunens<br>räkning underteckna avtalet. |
+| 15. | Plan för Kungsbacka kommuns<br>folk-, skol- och<br>gymnasiebibliotek 2025-2030 | 2024-00745 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar plan för Kungsbacka<br>kommuns folk-, skol och gymnasiebibliotek 2025–<br>2030, daterad 2024-12-09.<br>Biblioteksplan för Kungsbacka kommuns folk- och<br>skolbibliotek 2021–2024, antagen av<br>kommunfullmäktige 13 april 2021, § 68, upphör<br>samtidigt att gälla. |
+| 16. | Avslut av uppdrag om<br>avsiktsförklaring gällande<br>tågstation i Frillesås | 2021-01004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen konstaterar att frågan om en<br>framtida station i Frillesås hanterats i<br>Planeringsstrategi för översiktsplanen antagen av<br>kommunfullmäktige 2024-06-13, § 157, och<br>förklarar därmed uppdraget som lämnades av<br>kommunstyrelsen, 2021-11-23, § 293, att ta fram ett<br>underlag för en avsiktsförklaring gällande en<br>tågstation i Frillesås, för avslutat. |
+| 17. | Upphandling av<br>driftentreprenad Kungsbacka<br>arena | 2024-00744 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott godkänner<br>upphandlingsdokumentet Driftentreprenad för<br>uthyrning av kommersiella lokaler i Kungsbacka<br>arena 2024-12-05. |
+| 18. | Begäran om planbesked för Åsa<br>5:161 och Åsa 5:101 | 2024-00663 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Åsa 5:161 och 5:101 i Åsa. |
+| 19. | Markanvisningsavtal avseende<br>del av Gjutaren 1 och del av<br>Kungsbacka 2:2 | 2019-00547 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner<br>markanvisningsavtal avseende del av Gjutaren 1 och<br>del av Kungsbacka 2:2 mellan kommunen och<br>Riksbyggen ekonomisk förening, undertecknat av<br>bolaget 2024-12-10.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna<br>avtalen och övriga nödvändiga handlingar för<br>avtalens genomförande. |
+| 20. | Principavtal avseende detaljplan<br>för Varla 2:412 | 2024-00842 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner principavtal avseende<br>detaljplan för Varla 2:412 i Kungsbacka,<br>undertecknat av Hede Fashion Outlet AB.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna<br>avtalet. |
+| 21. | Tillägg till exploateringsavtal<br>avseende detaljplan för bostäder<br>och förskola inom fastigheten<br>Må 3:13 i Fjärås<br>08:35-08:45<br>Susanne Calming | 2018-00703 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner tillägg till<br>exploateringsavtal mellan kommunen och Derome<br>Bostad AB, genom vilket andelen hyresrätter i<br>planområde Må 3:13 sänks från cirka 33 procent till<br>cirka 23 procent, undertecknat av bolaget 2024-11-<br>19.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>och andra i ärendet nödvändiga handlingar. |
 
 <!-- sida 3 -->
 
@@ -77,30 +86,11 @@ KUNGSBACKA  KOMMUN
 
 3(6)
 
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 13. | Förändring avseende projekt i<br>lokalplan Kv Liljan skola och<br>idrottssal | 2024-00724 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner att omfattningen på<br>projektet Kvarteret Liljan skola reduceras till 350<br>elever från tidigare planerade 525 elever.<br>Kommunstyrelsen godkänner den totala<br>investeringsbudgeten om 200 miljoner kronor. |
-| 14. | Säkerhetsskyddsavtal vid<br>totalförsvarsplanering | 2023-00864 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner säkerhetsskyddsavtal<br>avseende totalförsvarsplaneringen mellan<br>kommunen och Försvarsmakten, daterat 2024-11-07.<br>Säkerhetsskyddschefen utses att för kommunens<br>räkning underteckna avtalet. |
-| 15. | Plan för Kungsbacka kommuns<br>folk-, skol- och<br>gymnasiebibliotek 2025-2030 | 2024-00745 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar plan för Kungsbacka<br>kommuns folk-, skol och gymnasiebibliotek 2025–<br>2030, daterad 2024-12-09.<br>Biblioteksplan för Kungsbacka kommuns folk- och<br>skolbibliotek 2021–2024, antagen av<br>kommunfullmäktige 13 april 2021, § 68, upphör<br>samtidigt att gälla. |
-| 16. | Avslut av uppdrag om<br>avsiktsförklaring gällande<br>tågstation i Frillesås | 2021-01004 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen konstaterar att frågan om en<br>framtida station i Frillesås hanterats i<br>Planeringsstrategi för översiktsplanen antagen av<br>kommunfullmäktige 2024-06-13, § 157, och<br>förklarar därmed uppdraget som lämnades av<br>kommunstyrelsen, 2021-11-23, § 293, att ta fram ett<br>underlag för en avsiktsförklaring gällande en<br>tågstation i Frillesås, för avslutat. |
-| 17. | Upphandling av<br>driftentreprenad Kungsbacka<br>arena | 2024-00744 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott godkänner<br>upphandlingsdokumentet Driftentreprenad för<br>uthyrning av kommersiella lokaler i Kungsbacka<br>arena 2024-12-05. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(6)
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 18. | Begäran om planbesked för Åsa<br>5:161 och Åsa 5:101 | 2024-00663 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Åsa 5:161 och 5:101 i Åsa. |
-| 19. | Markanvisningsavtal avseende<br>del av Gjutaren 1 och del av<br>Kungsbacka 2:2 | 2019-00547 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige godkänner<br>markanvisningsavtal avseende del av Gjutaren 1 och<br>del av Kungsbacka 2:2 mellan kommunen och<br>Riksbyggen ekonomisk förening, undertecknat av<br>bolaget 2024-12-10.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna<br>avtalen och övriga nödvändiga handlingar för<br>avtalens genomförande. |
-| 20. | Principavtal avseende detaljplan<br>för Varla 2:412 | 2024-00842 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner principavtal avseende<br>detaljplan för Varla 2:412 i Kungsbacka,<br>undertecknat av Hede Fashion Outlet AB.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna<br>avtalet. |
-| 21. | Tillägg till exploateringsavtal<br>avseende detaljplan för bostäder<br>och förskola inom fastigheten<br>Må 3:13 i Fjärås<br>08:35-08:45<br>Susanne Calming | 2018-00703 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner tillägg till<br>exploateringsavtal mellan kommunen och Derome<br>Bostad AB, genom vilket andelen hyresrätter i<br>planområde Må 3:13 sänks från cirka 33 procent till<br>cirka 23 procent, undertecknat av bolaget 2024-11-<br>19.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>och andra i ärendet nödvändiga handlingar. |
 
 <!-- sida 5 -->
 

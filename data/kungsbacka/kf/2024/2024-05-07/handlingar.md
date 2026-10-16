@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.b7a004018f378e8f2892/1714629265576/
 sha256: 676760bc66796086a1b33c20322a4ed5012d03aa24e309b2b977cb356a45e4ff
 bytes: 20938657
 sidor: 210
-hamtad: 2026-10-12T23:25:20+00:00
-konverterad: 2026-10-12T23:26:18+00:00
-pipeline: kommunhandlingar 0.8.7 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T10:44:10+00:00
+konverterad: 2026-10-16T10:45:05+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tom, ok, tom, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tom, ok, tom, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
 tal_obekraftade: [9, 10, 11, 13, 19, 169, 188, 201, 209, 210]
 figurer: [79, 80, 81, 90, 97, 155, 161, 165, 166, 174, 210]
 tolkade: []
@@ -4290,14 +4290,15 @@ Exploateringsinvesteringar och
 omsättningstillgångar -   104 500      221 963
         SUMMA            1 006 901     491 824      61 373
                                        437 829        500
-
-Ombudget förslag:                        2024        2025
-Totalt förslag från nämnderna          491 824      61 373
-
-Förslag till kommunfullmäktige         437 829        500
-
-Förändring gentemot nämndernas förslag  -53 995     -60 873
 ```
+
+[Tabell 114-1](handlingar.tabeller/114-1.csv)
+
+| Ombudget förslag: | 2024 | 2025 |
+| --- | --- | --- |
+| Totalt förslag från nämnderna | 491 824 | 61 373 |
+| Förslag till kommunfullmäktige | 437 829 | 500 |
+| Förändring gentemot nämndernas förslag | -53 995 | -60 873 |
 
 <!-- sida 115 -->
 
@@ -5114,17 +5115,14 @@ Kvarstår i årets budget 2024    50 000
 Lokaler
 
 Belopp i Tkr
-Lokaltyp          Budget N ämndernas
-2024  förslag till
-ombudget
-2024
-KS Finans
-8931 Lokalplansbudget pågående projekt
 
 [Tabell 138-1](handlingar.tabeller/138-1.csv)
 
-| Löpnr 1406 Duvehed omlastningsstation | 12 000 | 22 810 |
+| Lokaltyp | Budget 2024 | N ämndernas förslag till ombudget 2024 |
 | --- | --- | --- |
+| KS Finans |  |  |
+| 8931 Lokalplansbudget pågående projekt |  |  |
+| Löpnr 1406 Duvehed omlastningsstation | 12 000 | 22 810 |
 | Löpnr 1506 Ombyggnad ”hemkök” på förskolor | 2 000 | 2 000 |
 | Löpnr 131 Arenan inkl skyddsrum | 0 | 31 820 |
 | Enligt KF budgetram 2024 | 279 484 |  |
@@ -5245,10 +5243,14 @@ Exploateringsinvesteringar och
 omsättningstillgångar - 104 500 221 963                117 463  -
 SUMMA       1 006 901 491 824 61 373 - 53 995 - 60 873 1 444 730 500
 437 829   500               1 444 730
-Ombudget förslag:           2024    2025 2024-2025
-Totalt förslag från nämnderna 491 824 61 373 553 197
-Förslag till kommunfullmäktige 437 829 500 438 329
-Förändring gentemot nämndernas förslag -53 995 -60 873 -114 868
+
+[Tabell 141-1](handlingar.tabeller/141-1.csv)
+
+| Ombudget förslag: | 2024 | 2025 | 2024-2025 |
+| --- | --- | --- | --- |
+| Totalt förslag från nämnderna | 491 824 | 61 373 | 553 197 |
+| Förslag till kommunfullmäktige | 437 829 | 500 | 438 329 |
+| Förändring gentemot nämndernas förslag | -53 995 | -60 873 | -114 868 |
 
 <!-- sida 142 -->
 

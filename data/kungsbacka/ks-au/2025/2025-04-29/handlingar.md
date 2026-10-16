@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.2418b4721966b632cb82bc2/17455737086
 sha256: 4dd37c3a7ac0671b14e0cfb5eea421a308b3a74ba170c1d8474a648fa145567f
 bytes: 4153732
 sidor: 61
-hamtad: 2026-10-09T10:15:35+00:00
-konverterad: 2026-10-09T10:15:49+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T08:10:02+00:00
+konverterad: 2026-10-16T08:10:20+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [18, 19]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [18, 19, 45, 47, 48]
 figurer: [23, 30, 31, 33, 35, 36, 38, 42, 55, 56]
 tolkade: []
 ---
@@ -831,18 +831,22 @@ Deltagare: Julia Wilholm, Therese Åberg, Diana Brovall
 
 DEFINITIONER FÖR RISKVÄRDERING
 
-Riskmatris:
+FaktorSannolikhet    FaktorKonsekvens     Riskmatris:
 5 10 15 20 25
-4 8 12 16 20
-3 6 9 12 15
-2 4 6 8 10
-1 2 3 4 5
-
+1  Osannolik (1 gång/10 år) Ofarlig/försumbar
+1                    4 8 12 16 20
+(Övergående)
+2  Mindre troligt (1 gång/år)            3 6 9 12 15
+Ganska vanligt (Flera ggr/ 2 Lindrig (Utan sjukvård) 2 4 6 8 10
+3  år)                  Kännbar (Kan behöva 1 2 3 4 5
+3
+sjukvård)
+4  Vanligt (1 gång/månad)
+Mycket vanligt (1 4  Allvarlig (Sjukskrivning)
+5  gång/vecka)      5   Katastrofal (Död, men för liv)
 RISKBEDÖMNING - FÖRÄNDRING I VERKSAMHETEN (INGA FÖRVALDA FRÅGOR) - AVANCERAD
 RISKVÄRDERINGSMODELL
-
 Länkat dokument: Arbetsmiljöverket vägledning
-
 Beskrivning av eller instruktioner för mallen: Riskbedömning vid förändring i verksamheten
 Förändringar i verksamheten kan vara exempelvis personalförändringar, nya arbetstider och arbetsmetoder,
 andra organisationsförändringar, om- och nybyggnation samt ny maskinell utrustning. När en ändring planeras i
@@ -852,7 +856,6 @@ göras både på grupp- och individnivå. Den ska omfatta såväl fysiska som so
 Glöm inte att även lyfta friskfaktorer som förändringen kan leda till.
 Tänk på att medarbetare och skyddsombud och elevskyddsombud ska ges möjlighet att medverka när
 riskbedömning och handlingsplan görs.
-
 Använd checklistan så här:
 1\. I första avsnittet preciserar ni vad förändringen består av, när den ska genomföras och vilka medarbetare eller
 grupper av medarbetare som berörs.
@@ -869,20 +872,6 @@ och datum för när åtgärden ska vara genomförd.
 
 2/4
 2025-109
-
-[Tabell 21-1](handlingar.tabeller/21-1.csv)
-
-| Faktor | Sannolikhet | Faktor | Konsekvens |
-| --- | --- | --- | --- |
-| 1 | Osannolik (1 gång/10 år) | 1 | Ofarlig/försumbar<br>(Övergående) |
-| 2 | Mindre troligt (1 gång/år) |  |  |
-|  |  | 2 | Lindrig (Utan sjukvård) |
-| 3 | Ganska vanligt (Flera ggr/<br>år) |  |  |
-|  |  | 3 | Kännbar (Kan behöva<br>sjukvård) |
-| 4 | Vanligt (1 gång/månad) |  |  |
-|  |  | 4 | Allvarlig (Sjukskrivning) |
-| 5 | Mycket vanligt (1<br>gång/vecka) |  |  |
-|  |  | 5 | Katastrofal (Död, men för liv) |
 
 <!-- sida 22 -->
 
@@ -1162,20 +1151,23 @@ Deltagare: Ingela Lindroth Nord, Henrik Andersson, Therese Åberg
 
 DEFINITIONER FÖR RISKVÄRDERING
 
-Riskmatris:
+FaktorSannolikhet    FaktorKonsekvens     Riskmatris:
 5 10 15 20 25
-4 8 12 16 20
-3 6 9 12 15
-2 4 6 8 10
-1 2 3 4 5
-
+1  Osannolik (1 gång/10 år) Ofarlig/försumbar
+1                    4 8 12 16 20
+(Övergående)
+2  Mindre troligt (1 gång/år)            3 6 9 12 15
+Ganska vanligt (Flera ggr/ 2 Lindrig (Utan sjukvård) 2 4 6 8 10
+3  år)                  Kännbar (Kan behöva 1 2 3 4 5
+3
+sjukvård)
+4  Vanligt (1 gång/månad)
+Mycket vanligt (1 4  Allvarlig (Sjukskrivning)
+5  gång/vecka)      5   Katastrofal (Död, men för liv)
 RISKBEDÖMNING - FÖRÄNDRING I VERKSAMHETEN (INGA FÖRVALDA FRÅGOR) - AVANCERAD
 RISKVÄRDERINGSMODELL
-
 Länkat dokument: Arbetsmiljöverket vägledning
-
 Beskrivning av eller instruktioner för mallen: Riskbedömning vid förändring i verksamheten
-
 Förändringar i verksamheten kan vara exempelvis personalförändringar, nya arbetstider och arbetsmetoder,
 andra organisationsförändringar, om- och nybyggnation samt ny maskinell utrustning. När en ändring planeras i
 verksamheten ska förändringen riskbedömas innan den kan genomföras. Det innebär att ni bedömer vilka risker
@@ -1184,7 +1176,6 @@ göras både på grupp- och individnivå. Den ska omfatta såväl fysiska som so
 Glöm inte att även lyfta friskfaktorer som förändringen kan leda till.
 Tänk på att medarbetare och skyddsombud och elevskyddsombud ska ges möjlighet att medverka när
 riskbedömning och handlingsplan görs.
-
 Använd checklistan så här:
 
 1\. I första avsnittet preciserar ni vad förändringen består av, när den ska genomföras och vilka medarbetare eller
@@ -1202,20 +1193,6 @@ och datum för när åtgärden ska vara genomförd.
 
 1/3
 2025-110
-
-[Tabell 28-1](handlingar.tabeller/28-1.csv)
-
-| Faktor | Sannolikhet | Faktor | Konsekvens |
-| --- | --- | --- | --- |
-| 1 | Osannolik (1 gång/10 år) | 1 | Ofarlig/försumbar<br>(Övergående) |
-| 2 | Mindre troligt (1 gång/år) |  |  |
-|  |  | 2 | Lindrig (Utan sjukvård) |
-| 3 | Ganska vanligt (Flera ggr/<br>år) |  |  |
-|  |  | 3 | Kännbar (Kan behöva<br>sjukvård) |
-| 4 | Vanligt (1 gång/månad) |  |  |
-|  |  | 4 | Allvarlig (Sjukskrivning) |
-| 5 | Mycket vanligt (1<br>gång/vecka) |  |  |
-|  |  | 5 | Katastrofal (Död, men för liv) |
 
 <!-- sida 29 -->
 
@@ -1584,7 +1561,7 @@ Innehåll
 
 6.1  Personal - statistik och utveckling ...................................................... 14
 
-7\. B ILAGOR ......................................................................................1 5
+7\. B ILAGOR ......................................................................................15
 
 7.1  Preliminär Resultatbudget 2026 och 2027-2028 ............................... 15
 7.2  Preliminär medlemsavgift per kommun 2026-2028 .......................... 16
@@ -1889,7 +1866,7 @@ kraftsamling för ett antal myndigheter och aktörer, med syfte att förhindra a
 •
 explosiva varor används i kriminella syften.
 Det civila försvarets uppbyggnad och höjd beredskap har i hög grad påverkan
-på4 .R5S G,A sormbe btlsamndi lajnönparto ubtflöerm upaptdikra g åt MSB inom planering och utbildning.
+på4.R5S G,A sormbe btlsamndi lajnönparto ubtflöerm upaptdikra g åt MSB inom planering och utbildning.
 Inom RSG har det genom åren förekommit ett antal olyckor och händelser som hade
 kunnat få mycket allvarliga konsekvenser. Några av händelserna utgörs av kemolyckor,
 oljeutsläpp, brinnande gasbuss i kollektivtrafik, ett flertal industribränder, brand i
@@ -1906,7 +1883,7 @@ utryckande verksamheten, ställs höga krav på kvalitet och säkerhet. RSG har 
 fokuserat på att anpassa utrustning och material även för de senast anslutna områdena,
 för att ha en enhetlig nivå inom förbundet. Fortsatt är behovet stort för att nå
 tillfredsställande nivåer och med detta följer behov av investeringar i allt från Renare
-Arbetspla4ts.6 ( RAOPm) tivllä frolrddsolnäsgfleottt a n mm.
+Arbetspla4ts.6( RAOPm) tivllä frolrddsolnäsgfleottt a n mm.
 
 Flertalet insatser behövs för att skapa en robusthet som ger RSG en förmåga att
 förebygga, motstå och kunna hantera störningar och kriser. Detta innebär att vi ska
@@ -1995,7 +1972,7 @@ Varje tiondels procent motsvarar för RSG ca 0,7 mkr, då lönekostnaderna uppg�
 
 Förväntningen inför kommande år är att löneökningarna kommer att ligga på ungefär
 samma nivå. RSG inväntar utvecklingen och ”märket” för att sedan bedöma vilket
-utrymme5 b.u2d geLtoenk amlferdåggero or ch vad som är ekonomiskt genomförbart.
+utrymme5b.u2d geLtoenk amlferdåggero or ch vad som är ekonomiskt genomförbart.
 
 Förbundet hyr samtliga lokaler av medlemskommunerna förutom Färjenäs (Göteborg
 Hyror
@@ -2209,7 +2186,7 @@ egna kapitalet. Avsättning till resultatutjämningsreserv har inte varit aktuel
 Underskotten i resultatet år 2023 och 2024, har medfört motsvarande minskning av
 det egna kapitalet och enligt kommunallagen ska det egna kapitalet återställas inom tre
 år från att underskotten uppstår. Detta innebär att RSG behöver återställa dessa senast
-2026 och6 2.012 7.P ersonal - statistik och utveckling
+2026 och6 2.0127.P ersonal - statistik och utveckling
 
 RSG:s budget för personalkostnader utgör ca 75 % av den totala kostnadsmassan och
 förändringar i personalvolymen har därför stor påverkan på RSG:s ekonomi.
@@ -2219,12 +2196,6 @@ kommunerna Tjörn, Stenungsund och Lilla Edet, vilket speglas i statistiken.
 Personalstatistik
 
 Uppgifter per 31/12
-2024  2023   2022  2021   2020
-Arbetad tid
-Antal årsarbetare\*         798    797   725    722   728
-Antal anställda per december
-
-Anställda per december inkl. RIB
 
 \*Beräkning enligt SKR:s definition. Med årsarbetare menas summan av de anställdas sysselsättningsgrader,
 t.ex. 100 % sysselsättningsgrad motsvarar 1,0 årsarbetare och 75 procent 0,75.
@@ -2234,8 +2205,12 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                            14(19)
 
 [Tabell 51-1](handlingar.tabeller/51-1.csv)
 
-| Totalt antal anställda (inkl timanställda) | 802 | 804 | 737 | 733 | 739 |
+|  | 2024 | 2023 | 2022 | 2021 | 2020 |
 | --- | --- | --- | --- | --- | --- |
+| Arbetad tid |  |  |  |  |  |
+| Antal årsarbetare\* | 798 | 797 | 725 | 722 | 728 |
+| Antal anställda per december |  |  |  |  |  |
+| Totalt antal anställda (inkl timanställda) | 802 | 804 | 737 | 733 | 739 |
 | varav tillsvidareanställda | 772 | 767 | 695 | 703 | 701 |
 | varav tidsbegränsade anställda (exkl tim) | 27 | 32 | 31 | 21 | 25 |
 | varav timanställda | 3 | 5 | 11 | 9 | 9 |
@@ -2246,11 +2221,8 @@ RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                            14(19)
 | varav anställda, män | 662 | 669 | 605 | 611 | 621 |
 | varav kvinnor i procent | 17 | 16 | 17 | 17 | 16 |
 | varav män i procent | 83 | 84 | 83 | 83 | 84 |
-
-[Tabell 51-2](handlingar.tabeller/51-2.csv)
-
+| Anställda per december inkl. RIB |  |  |  |  |  |
 | Antal anställda (inkl timanställda) | 802 | 804 | 737 | 733 | 739 |
-| --- | --- | --- | --- | --- | --- |
 | Antal beredskapsanställda (RIB) | 216 | 208 | 148 | 148 | 145 |
 | Totalt | 1018 | 1012 | 885 | 881 | 884 |
 | Ej anställda | 226 | 223 | 171 | 164 | 191 |
@@ -2268,7 +2240,7 @@ Budgetunderlag verksamhetsåret 2026 plan 2027-2028
 Miljontal kronor         2024    2026  2027  2028
 
 Verksamhetens intäkter
-Medlemsavgifter Göteborg 4 45,3 480,1 499,8 519,1
+Medlemsavgifter Göteborg 445,3 480,1 499,8 519,1
 Medlemsavgifter Mölndal 41,7   45,0  46,8   48,6
 Medlemsavgifter Kungsbacka 61,7 66,5 69,2   71,9
 
@@ -2298,28 +2270,28 @@ Entreprenad- och konsultkostnader - 43,0 - 37,0 - 38,2 - 38,6
 Personalkostnader     - 584,0 - 683,7 - 712,7 - 739,9
 varav lön och soc avg - 568,0 - 600,9 - 628,0 - 651,4
 varav pensionskostnader - 16,0 - 82,8 - 84,7 - 88,5
-Övriga verksamhetskostnader - 1 38,9 - 143,7 - 147,3 - 148,7
+Övriga verksamhetskostnader - 138,9 - 143,7 - 147,3 - 148,7
 S:a kostnader         - 765,9 - 864,4 - 898,2 - 927,1
-Avskrivningar         - 4 0,8 - 4 4,3 - 4 4,3 - 4 4,3
+Avskrivningar         - 40,8 - 44,3 - 44,3 - 44,3
 varav Färjenäs utbildning- och övningsanläggning - 1,5 - 2,5 - 2,5 - 2,5
 varav säkerhetsinvesteringar - 1,0 - 1,5 - 1,5 - 1,5
-Verksamhetens nettokostnader 42,1 - 1 ,2 - 0 ,0 3 ,0
-Verksamhetens resultat   42,1  - 1 ,2 - 0 ,0 3 ,0
-Finansiella intäkter   1 2,2   1 3,0 1 3,0  1 3,0
-Finansiella kostnader - 5 7,7 - 7,7 - 1 5,4 - 2 0,0
+Verksamhetens nettokostnader 42,1 - 1,2 - 0,0 3,0
+Verksamhetens resultat   42,1  - 1,2 - 0,0   3,0
+Finansiella intäkter   12,2    13,0  13,0   13,0
+Finansiella kostnader - 57,7 -  7,7 - 15,4 - 20,0
 varav pensionskostnader - 57,6 - 7,6 - 15,3 - 19,9
 
-Resultat efter finansiella poster - 3,4 4 ,1 - 2 ,4 - 4 ,0
+Resultat efter finansiella poster - 3,4 4,1 - 2,4 - 4,0
 
-RESULTAT                - 3,4    4 ,1 - 2 ,4 - 4 ,0
+RESULTAT                - 3,4    4,1 - 2,4 - 4,0
 Resultat att återställa
-2023                         -  8 ,1
-2024                               -  1 ,6
-ÅRETS RESULTAT                 - 4 ,0 - 4 ,0
+2023                         -  8,1
+2024                               -  1,6
+ÅRETS RESULTAT                 - 4,0 - 4,0
 Eget kapital, nyttjas enligt beslut;
-Färjenäs utbildning- och övningsanläggning 2 ,5 2 ,5 2 ,5
-Säkerhetsinvesteringar          1 ,5  1 ,5  1 ,5
-JUSTERAT RESULTAT                0 ,0 - 0 ,0 - 0 ,0
+Färjenäs utbildning- och övningsanläggning 2,5 2,5 2,5
+Säkerhetsinvesteringar          1,5   1,5   1,5
+JUSTERAT RESULTAT                0,0 - 0,0 - 0,0
 
 RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                            15(19)
 
@@ -2347,68 +2319,88 @@ Lilla Edets kommun                 2,18% 2,18% 2,18%  2,18%
 100,00% 100,00% 100,00% 100,00%
 2025   2026  2027  2028
 Uppräkningsindex för räddningstjänst 3,70% 3,20% 3,20% 3,20%
-År 2026-2027 enligt Prisindex för kommunal verksamhet (PKV) exkl PO-pålägg, 2024-12-12 enl underlag prel PKV prel PKV
-Medlemsavgift för räddningstjänst 2025  2026  2027  2028
-Göteborgs kommun                408 827 917 421 910 410 435 411 543 449 344 713
-Mölndals kommun                  38 276 707 39 501 562 40 765 612 42 070 111
-Kungsbacka kommun                56 632 244 58 444 476 60 314 699 62 244 769
-Partille kommun                  21 541 601 22 230 932 22 942 322 23 676 476
-Härryda kommun                   26 115 808 26 951 514 27 813 962 28 704 009
-Lerums kommun                    27 679 604 28 565 351 29 479 443 30 422 785
-Tjörns kommun                    11 997 009 12 380 913 12 777 103 13 185 970
-Stenungsunds kommun              30 380 096 31 352 259 32 355 531 33 390 908
-Lilla Edets kommun               13 874 351 14 318 330 14 776 517 15 249 365
-Summa                           635 325 337 655 655 748 676 636 732 698 289 107
-Infasningsavgifter               2025   2026  2027  2028
-Tjörns kommun                    3 412 257 3 521 449 3 634 136 2 812 821
-Stenungsunds kommun              8 628 090 8 904 189 9 189 123 7 112 381
-Lilla Edets kommun               3 934 639 4 060 547 4 190 485 3 243 435
-Summa                            15 974 986 16 486 186 17 013 743 13 168 637
-Medlemsavgift för räddningstjänst + Infasningsavgift 2025 2026 2027 2028
-Göteborgs kommun                408 827 917 421 910 410 435 411 543 449 344 713
-Mölndals kommun                  38 276 707 39 501 562 40 765 612 42 070 111
-Kungsbacka kommun                56 632 244 58 444 476 60 314 699 62 244 769
-Partille kommun                  21 541 601 22 230 932 22 942 322 23 676 476
-Härryda kommun                   26 115 808 26 951 514 27 813 962 28 704 009
-Lerums kommun                    27 679 604 28 565 351 29 479 443 30 422 785
-Tjörns kommun                    15 409 266 15 902 363 16 411 238 15 998 791
-Stenungsunds kommun              39 008 186 40 256 448 41 544 654 40 503 290
-Lilla Edets kommun               17 808 990 18 378 878 18 967 002 18 492 801
-Summa                           651 300 323 672 141 933 693 650 475 711 457 745
 
 RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                            16(19)
+
+[Tabell 53-1](handlingar.tabeller/53-1.csv)
+
+| År 2026-2027 enligt Prisindex för kommunal verksamhet (PKV) exkl PO-pålägg, 2024-12-12 Medlemsavgift för räddningstjänst | 2025 | enl underlag 2026 | prel PKV 2027 | prel PKV 2028 |
+| --- | --- | --- | --- | --- |
+| Göteborgs kommun | 408 827 917 | 421 910 410 | 435 411 543 | 449 344 713 |
+| Mölndals kommun | 38 276 707 | 39 501 562 | 40 765 612 | 42 070 111 |
+| Kungsbacka kommun | 56 632 244 | 58 444 476 | 60 314 699 | 62 244 769 |
+| Partille kommun | 21 541 601 | 22 230 932 | 22 942 322 | 23 676 476 |
+| Härryda kommun | 26 115 808 | 26 951 514 | 27 813 962 | 28 704 009 |
+| Lerums kommun | 27 679 604 | 28 565 351 | 29 479 443 | 30 422 785 |
+| Tjörns kommun | 11 997 009 | 12 380 913 | 12 777 103 | 13 185 970 |
+| Stenungsunds kommun | 30 380 096 | 31 352 259 | 32 355 531 | 33 390 908 |
+| Lilla Edets kommun | 13 874 351 | 14 318 330 | 14 776 517 | 15 249 365 |
+| Summa | 635 325 337 | 655 655 748 | 676 636 732 | 698 289 107 |
+
+[Tabell 53-2](handlingar.tabeller/53-2.csv)
+
+| Infasningsavgifter | 2025 | 2026 | 2027 | 2028 |
+| --- | --- | --- | --- | --- |
+| Tjörns kommun | 3 412 257 | 3 521 449 | 3 634 136 | 2 812 821 |
+| Stenungsunds kommun | 8 628 090 | 8 904 189 | 9 189 123 | 7 112 381 |
+| Lilla Edets kommun | 3 934 639 | 4 060 547 | 4 190 485 | 3 243 435 |
+| Summa | 15 974 986 | 16 486 186 | 17 013 743 | 13 168 637 |
+
+[Tabell 53-3](handlingar.tabeller/53-3.csv)
+
+| Medlemsavgift för räddningstjänst + Infasningsavgift | 2025 | 2026 | 2027 | 2028 |
+| --- | --- | --- | --- | --- |
+| Göteborgs kommun | 408 827 917 | 421 910 410 | 435 411 543 | 449 344 713 |
+| Mölndals kommun | 38 276 707 | 39 501 562 | 40 765 612 | 42 070 111 |
+| Kungsbacka kommun | 56 632 244 | 58 444 476 | 60 314 699 | 62 244 769 |
+| Partille kommun | 21 541 601 | 22 230 932 | 22 942 322 | 23 676 476 |
+| Härryda kommun | 26 115 808 | 26 951 514 | 27 813 962 | 28 704 009 |
+| Lerums kommun | 27 679 604 | 28 565 351 | 29 479 443 | 30 422 785 |
+| Tjörns kommun | 15 409 266 | 15 902 363 | 16 411 238 | 15 998 791 |
+| Stenungsunds kommun | 39 008 186 | 40 256 448 | 41 544 654 | 40 503 290 |
+| Lilla Edets kommun | 17 808 990 | 18 378 878 | 18 967 002 | 18 492 801 |
+| Summa | 651 300 323 | 672 141 933 | 693 650 475 | 711 457 745 |
 
 <!-- sida 54 -->
 
 Budgetunderlag verksamhetsåret 2026 plan 2027-2028
 
 Bilaga sida 2 - Medlemskommunernas avgifter, kronor exkl moms
-Medlemsavgift för pensionskostnader\* 2025 2026 2027 2028
-Göteborgs kommun                 75 200 000 58 175 000 64 340 000 69 790 000
-Mölndals kommun                  7 047 000 5 451 000 6 029 000 6 540 000
-Kungsbacka kommun                10 412 000 8 055 000 8 909 000 9 663 000
-Partille kommun                  3 962 000 3 065 000 3 389 000 3 677 000
-Härryda kommun                   4 803 000 3 716 000 4 109 000 4 457 000
-Lerums kommun                    5 095 000 3 942 000 4 359 000 4 729 000
-Tjörns kommun                    2 209 000 1 709 000 1 890 000 2 050 000
-Stenungsunds kommun              5 586 000 4 321 000 4 779 000 5 184 000
-Lilla Edets kommun               2 548 000 1 971 000 2 180 000 2 364 000
-Summa                           116 862 000 90 405 000 99 984 000 108 454 000
+
 \* 2025 enligt KPA Prognos 2024-08-20 och
 2026-2027 enligt KPA Prognos 2024-12-09 inkl avsättning för SAP-R
-Summa medlemsavgifter inkl infasningsavgifter och pensionkostnader 2025 2026 2027 2028
-Göteborgs kommun                484 027 917 480 085 410 499 751 543 519 134 713
-Mölndals kommun                  45 323 707 44 952 562 46 794 612 48 610 111
-Kungsbacka kommun                67 044 244 66 499 476 69 223 699 71 907 769
-Partille kommun                  25 503 601 25 295 932 26 331 322 27 353 476
-Härryda kommun                   30 918 808 30 667 514 31 922 962 33 161 009
-Lerums kommun                    32 774 604 32 507 351 33 838 443 35 151 785
-Tjörns kommun                    17 618 266 17 611 363 18 301 238 18 048 791
-Stenungsunds kommun              44 594 186 44 577 448 46 323 654 45 687 290
-Lilla Edets kommun               20 356 990 20 349 878 21 147 002 20 856 801
-Summa                           768 162 323 762 546 933 793 634 475 819 911 745
 
 RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG                            17(19)
+
+[Tabell 54-1](handlingar.tabeller/54-1.csv)
+
+| Medlemsavgift för pensionskostnader\* | 2025 | 2026 | 2027 | 2028 |
+| --- | --- | --- | --- | --- |
+| Göteborgs kommun | 75 200 000 | 58 175 000 | 64 340 000 | 69 790 000 |
+| Mölndals kommun | 7 047 000 | 5 451 000 | 6 029 000 | 6 540 000 |
+| Kungsbacka kommun | 10 412 000 | 8 055 000 | 8 909 000 | 9 663 000 |
+| Partille kommun | 3 962 000 | 3 065 000 | 3 389 000 | 3 677 000 |
+| Härryda kommun | 4 803 000 | 3 716 000 | 4 109 000 | 4 457 000 |
+| Lerums kommun | 5 095 000 | 3 942 000 | 4 359 000 | 4 729 000 |
+| Tjörns kommun | 2 209 000 | 1 709 000 | 1 890 000 | 2 050 000 |
+| Stenungsunds kommun | 5 586 000 | 4 321 000 | 4 779 000 | 5 184 000 |
+| Lilla Edets kommun | 2 548 000 | 1 971 000 | 2 180 000 | 2 364 000 |
+| Summa | 116 862 000 | 90 405 000 | 99 984 000 | 108 454 000 |
+
+[Tabell 54-2](handlingar.tabeller/54-2.csv)
+
+| Summa medlemsavgifter inkl infasningsavgifter och pensionkostnader | 2025 | 2026 | 2027 | 2028 |
+| --- | --- | --- | --- | --- |
+| Göteborgs kommun | 484 027 917 | 480 085 410 | 499 751 543 | 519 134 713 |
+| Mölndals kommun | 45 323 707 | 44 952 562 | 46 794 612 | 48 610 111 |
+| Kungsbacka kommun | 67 044 244 | 66 499 476 | 69 223 699 | 71 907 769 |
+| Partille kommun | 25 503 601 | 25 295 932 | 26 331 322 | 27 353 476 |
+| Härryda kommun | 30 918 808 | 30 667 514 | 31 922 962 | 33 161 009 |
+| Lerums kommun | 32 774 604 | 32 507 351 | 33 838 443 | 35 151 785 |
+| Tjörns kommun | 17 618 266 | 17 611 363 | 18 301 238 | 18 048 791 |
+| Stenungsunds kommun | 44 594 186 | 44 577 448 | 46 323 654 | 45 687 290 |
+| Lilla Edets kommun | 20 356 990 | 20 349 878 | 21 147 002 | 20 856 801 |
+| Summa | 768 162 323 | 762 546 933 | 793 634 475 | 819 911 745 |
 
 <!-- sida 55 -->
 

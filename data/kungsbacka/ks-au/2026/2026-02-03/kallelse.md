@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.63e7dd7019bfe963d534dc3d/1769679521
 sha256: 6eb703c3a35f35789c9949f5b6539c39589c2ff0acdc47455ecc30731edc938e
 bytes: 220542
 sidor: 4
-hamtad: 2026-10-09T08:25:47+00:00
-konverterad: 2026-10-09T08:25:53+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-16T06:16:34+00:00
+konverterad: 2026-10-16T06:16:40+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -66,21 +66,19 @@ KUNGSBACKA  KOMMUN
 | 6. | Svar på remiss av översiktsplan<br>för Varbergs kommun | KS-2025-00981 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat<br>2026-01-23, och översänder det som sitt svar till<br>Varbergs kommun. |
 | 7. | Svar på motion från Per<br>Gunnarsson (S) om<br>minnesmärke för att hedra<br>pandemins vardagshjältar | KS-2025-00597 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att minnesmärken är en nationell<br>angelägenhet och att konst i det offentliga<br>rummet ska väljas på andra grunder än de som<br>motionären argumenterar för. |
 | 8. | Markanvisningstävling för<br>småhus inom kvarteret Gjutaren<br>och Liljan | KS-2019-00547 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner inbjudan till<br>Markanvisningstävling för småhus inom<br>kvarteret Gjutaren och Liljan, daterat<br>2025-12-19.<br>Kommunstyrelsen ger kommundirektören i<br>uppdrag att genomföra markanvisningstävling i<br>enlighet med inbjudan. |
+| 9. | Markanvisningstävling inom<br>detaljplan för Aranäs etapp 4,<br>fastigheten Inlagsgärde 2 | KS-2025-00970 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner Inbjudan till<br>Markanvisningstävling för Aranäs etapp 4,<br>fastigheten Inlagsgärde 2, daterat 2025-12-19.<br>Kommunstyrelsen ger kommundirektören i<br>uppdrag att genomföra markanvisningstävling i<br>enlighet med Inbjudan till Markanvisnings-<br>tävlingen. |
+| 10. | Årsredovisning 2025 för<br>kommunstyrelsen<br>08:50-09:10<br>Anders Johansson<br>Lovisa Eld | KS-2025-00570 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner årsredovisning<br>2025, daterad 2026-01-22. |
+| 11. | Information årsredovisning<br>2025 för Kungsbacka kommun<br>09:15-09:35<br>Christina Hermansson<br>Somayeh Jamshidi | KS-2026-00083 | Förslag till beslut<br>Informationen antecknas till protokollet. |
+| 12. | Muntlig information avtal<br>mellan stiftelsen Tjolöholm och<br>Kungsbacka kommun<br>10:00-10:30<br>Christina Hermansson<br>Sofia Jonsson<br>Linnea Princis<br>Lena Salomonsson<br>Berit Bergström<br>Jonas Strand | KS-2025-00589 | Förslag till beslut<br>Informationen antecknas till protokollet. |
+| 13. | Information inför Hallands-<br>trafikens kommande<br>upphandling av buss<br>10:35-11:00<br>Agneta Nordström<br>Peter Gustavsson<br>Anders Lund | KS-2026-00067 | Förslag till beslut<br>Informationen antecknas till protokollet. |
+| 14. | Avstämning rörande incident<br>Miljödata<br>11:05-11:25<br>Jesper Edlind<br>Johan Benjaminsson<br>Linnea Princis | KS-2025-00594 | Förslag till beslut<br>Informationen antecknas till protokollet. |
+| 15. | Information ledamöter och<br>förvaltning | KS-2025-00975 | Förslag till beslut<br>Informationen antecknas till protokollet. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 9. | Markanvisningstävling inom<br>detaljplan för Aranäs etapp 4,<br>fastigheten Inlagsgärde 2 | KS-2025-00970 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner Inbjudan till<br>Markanvisningstävling för Aranäs etapp 4,<br>fastigheten Inlagsgärde 2, daterat 2025-12-19.<br>Kommunstyrelsen ger kommundirektören i<br>uppdrag att genomföra markanvisningstävling i<br>enlighet med Inbjudan till Markanvisnings-<br>tävlingen. |
-| 10. | Årsredovisning 2025 för<br>kommunstyrelsen<br>08:50-09:10<br>Anders Johansson<br>Lovisa Eld | KS-2025-00570 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner årsredovisning<br>2025, daterad 2026-01-22. |
-| 11. | Information årsredovisning<br>2025 för Kungsbacka kommun<br>09:15-09:35<br>Christina Hermansson<br>Somayeh Jamshidi | KS-2026-00083 | Förslag till beslut<br>Informationen antecknas till protokollet. |
-| 12. | Muntlig information avtal<br>mellan stiftelsen Tjolöholm och<br>Kungsbacka kommun<br>10:00-10:30<br>Christina Hermansson<br>Sofia Jonsson<br>Linnea Princis<br>Lena Salomonsson<br>Berit Bergström<br>Jonas Strand | KS-2025-00589 | Förslag till beslut<br>Informationen antecknas till protokollet. |
 
 <!-- sida 4 -->
 
@@ -90,11 +88,3 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Therese Tanner
 ordförande                        sekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 13. | Information inför Hallands-<br>trafikens kommande<br>upphandling av buss<br>10:35-11:00<br>Agneta Nordström<br>Peter Gustavsson<br>Anders Lund | KS-2026-00067 | Förslag till beslut<br>Informationen antecknas till protokollet. |
-| 14. | Avstämning rörande incident<br>Miljödata<br>11:05-11:25<br>Jesper Edlind<br>Johan Benjaminsson<br>Linnea Princis | KS-2025-00594 | Förslag till beslut<br>Informationen antecknas till protokollet. |
-| 15. | Information ledamöter och<br>förvaltning | KS-2025-00975 | Förslag till beslut<br>Informationen antecknas till protokollet. |

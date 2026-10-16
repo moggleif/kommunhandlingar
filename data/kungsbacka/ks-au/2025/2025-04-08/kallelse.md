@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2a9cb4ab195dc3282fcd9f21/1743779260
 sha256: 740dec4136f45cbe552c40e67c715c6e8135726519ead0d6019a9f8005830693
 bytes: 221095
 sidor: 4
-hamtad: 2026-10-09T08:23:36+00:00
-konverterad: 2026-10-09T08:23:42+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-16T06:14:09+00:00
+konverterad: 2026-10-16T06:14:16+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
@@ -58,7 +58,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -68,20 +68,19 @@ KUNGSBACKA  KOMMUN
 | 8. | Begäran om planbesked för<br>Bukärr 3:86 | 2024-00874 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Bukärr 3:86, i Särö. |
 | 9. | Begäran om planbesked för del<br>av Bångsbo 4:1 | 2025-00061 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom del av Bångsbo 4:1 i Kullavik. |
 | 10. | Begäran om planbesked för<br>Hede 1:53 | 2024-00878 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av skola inom Hede 1:53 i Kungsbacka<br>stad.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>ny detaljplan för Hede 1:53 i Kungsbacka stad. |
+| 11. | Begäran om planbesked för Åsa<br>5:197 och 5:70 | 2024-00876 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>möjligheten att utveckla befintlig verksamhet inom<br>Åsa 5:197 och 5:70, i Åsa. Möjlig exploatering,<br>såsom placering av byggnader och våningsantal, ska<br>utredas under detaljplanearbetet.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för folkhögskola med internat inom Åsa<br>5:197 och 5:70, i Åsa. |
+| 12. | Avstämning om lokalplanering<br>(från årshjul)<br>08:50-09:35<br>Lovisa Eld<br>Maria Rosenberg<br>Ing-Britt Blomberg<br>Julia Tryggvadottir Tollesson<br>Christina Wenander<br>Markus Mentzer<br>Mats Söderström | 2025-00024 |  |
+| 13. | Information om arbetet med<br>Onsalavägen 940<br>10:00-10:30<br>Agneta Nordström<br>Peter Gustavsson<br>Anders Lund<br>Trafikverket<br>Jörgen Einarsson, Regional<br>direktör<br>Lydia Lehtonen, projektledare<br>investering | 2025-00262 |  |
+| 14. | Information om handläggning<br>av ärende om försäljning av<br>laddinfrastruktur<br>10:40-11:00<br>Agneta Nordström<br>Johan Gerremo | 2025-00126 |  |
+| 15. | Avstämning inför beslut om<br>projektbeställning för DP<br>bostäder inom Tölö 8:26<br>11:05-11:25<br>Maria Malone<br>Ida Lennartsson<br>Susanne Calming<br>Johan Gerremo | 2021-00656 |  |
+| 16. | Information om parkering i<br>Björkris etapp 2<br>11:30-11:50<br>Johan Gerremo<br>Susanne Calming<br>Byggnadsnämndens<br>arbetsutskott<br>Thure Sandén<br>Heinrich Kaufmann<br>Lars Eriksson<br>Daniel Hognert<br>Stefan Vilumsons | 2018-00716 |  |
+| 17. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | Begäran om planbesked för Åsa<br>5:197 och 5:70 | 2024-00876 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>möjligheten att utveckla befintlig verksamhet inom<br>Åsa 5:197 och 5:70, i Åsa. Möjlig exploatering,<br>såsom placering av byggnader och våningsantal, ska<br>utredas under detaljplanearbetet.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för folkhögskola med internat inom Åsa<br>5:197 och 5:70, i Åsa. |
-| 12. | Avstämning om lokalplanering<br>(från årshjul)<br>08:50-09:35<br>Lovisa Eld<br>Maria Rosenberg<br>Ing-Britt Blomberg<br>Julia Tryggvadottir Tollesson<br>Christina Wenander<br>Markus Mentzer<br>Mats Söderström | 2025-00024 |  |
-| 13. | Information om arbetet med<br>Onsalavägen 940<br>10:00-10:30<br>Agneta Nordström<br>Peter Gustavsson<br>Anders Lund<br>Trafikverket<br>Jörgen Einarsson, Regional<br>direktör<br>Lydia Lehtonen, projektledare<br>investering | 2025-00262 |  |
 
 <!-- sida 4 -->
 
@@ -91,12 +90,3 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 14. | Information om handläggning<br>av ärende om försäljning av<br>laddinfrastruktur<br>10:40-11:00<br>Agneta Nordström<br>Johan Gerremo | 2025-00126 |  |
-| 15. | Avstämning inför beslut om<br>projektbeställning för DP<br>bostäder inom Tölö 8:26<br>11:05-11:25<br>Maria Malone<br>Ida Lennartsson<br>Susanne Calming<br>Johan Gerremo | 2021-00656 |  |
-| 16. | Information om parkering i<br>Björkris etapp 2<br>11:30-11:50<br>Johan Gerremo<br>Susanne Calming<br>Byggnadsnämndens<br>arbetsutskott<br>Thure Sandén<br>Heinrich Kaufmann<br>Lars Eriksson<br>Daniel Hognert<br>Stefan Vilumsons | 2018-00716 |  |
-| 17. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |

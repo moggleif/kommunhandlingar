@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.6582e5c2191974ffda72ced/17250060834
 sha256: 44576421f94282b9b0df7a358f248a2152f0ab9244b0e17ef294c936fe69444d
 bytes: 45270366
 sidor: 420
-hamtad: 2026-10-09T09:04:48+00:00
-konverterad: 2026-10-09T09:07:17+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T06:57:06+00:00
+konverterad: 2026-10-16T06:59:29+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ej-konverterad, ok, ok, ej-konverterad, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, tom, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok]
-tal_obekraftade: [76, 77, 78, 79, 80, 81, 83, 86, 87, 88, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 102, 104, 106, 107, 110, 111, 112, 113, 114, 115, 116, 141, 142, 143, 176, 177, 178, 383, 417, 418, 419]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ej-konverterad, ok, ok, ej-konverterad, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, tom, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok]
+tal_obekraftade: [76, 77, 78, 79, 80, 81, 83, 86, 87, 88, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 102, 104, 105, 106, 107, 110, 111, 112, 113, 114, 115, 116, 141, 142, 143, 176, 177, 178, 239, 241, 243, 244, 245, 246, 248, 249, 251, 254, 255, 298, 299, 300, 304, 306, 307, 342, 383, 417, 418, 419]
 figurer: [5, 8, 10, 11, 12, 13, 16, 18, 20, 21, 23, 26, 34, 38, 40, 41, 42, 43, 45, 46, 49, 53, 54, 58, 59, 60, 62, 64, 65, 66, 71, 72, 73, 74, 75, 81, 106, 107, 110, 111, 112, 117, 124, 125, 126, 127, 128, 129, 130, 132, 136, 137, 138, 139, 141, 142, 144, 149, 150, 151, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 178, 182, 183, 184, 185, 186, 187, 188, 189, 191, 194, 195, 196, 197, 204, 211, 215, 234, 240, 241, 242, 244, 245, 247, 248, 249, 250, 251, 252, 253, 254, 255, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 269, 270, 271, 272, 274, 275, 276, 277, 279, 280, 281, 282, 283, 284, 285, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 313, 323, 340, 383, 420]
 tolkade: []
 ---
@@ -2962,17 +2962,17 @@ Hävd av strandängen
 2.2.1.4  Vattenförsörjning
 2\. 2. 2                                                    7
 Hävd av hällmarksljungheden
-2.2 . 3                                                    8
+2.2. 3                                                     8
 Hävd av skogen
-2.2 . 4                                                    8
+2.2. 4                                                     8
 Hävd av odlad mark och ängsmark
 2\. 2. 5                                                    8
 Fornminnen och fornminnesområden
-2.2 . 6                                                    8
+2.2. 6                                                     8
 Reningsverk
-2.2 . 7                                                    8
+2.2. 7                                                     8
 Småbåtshamn
-2.2 . 8                                                    8
+2.2. 8                                                     8
 Golfbana
 2\. 2. 9                                                    9
 Luf tle dni ng
@@ -3460,7 +3460,7 @@ na genom bete eller slåtter.
 
 2.2      Principer för disposition av mark och vatten samt åt­
 gärder av allmän karaktär
-2.2 .1    Hävd_av strandän�en
+2.2.1     Hävd_av strandän�en
 
 2.2.1.1   Bete
 Årligt bete ska �ke med nötkreatur, får och/eller häs­
@@ -3484,7 +3484,7 @@ Stängsel underhålls kontinuerligt.
 Erforderliga anordningar för djurens vattenförsörjning
 ordnas i den mån det  saknas och befintliga sådana
 underhålls kontinuerligt.
-2.2 .2   �ä�d_a� hällmarkslJungheden
+2.2.2    �ä�d_a� hällmarkslJungheden
 Röjning av lövsly och i viss utsträckning en ska ut­
 föras i den mån de negativt inverkar på landskapets
 öppenhet och allmänhetens framkomlighet. Tillväxten är
@@ -4037,7 +4037,7 @@ tavla snarast.  Betnjng •
 1 d Öppen ängsmark           Uppsättning av stängsel
 och stättor snarast.
 Betning av hela området
-fr o m 1 981. Lätt röjning
+fr o m 1981. Lätt röjning
 av en snarast.
 1 e Öppen ängsmark            Rensning av diken snarast.
 
@@ -4184,7 +4184,7 @@ sas så att besökare kommer att stå i höjd med träd­
 kronorna. Utförandet av tornet kan vara av enklare
 slag. Underhålles kontinuerligt.
 
-3.2 . 9    Informationstavlor
+3.2. 9     Informationstavlor
 
 Placering av informationstavlor och fågelskyddstav­
 lor framgår av karta. En större informationstavla
@@ -11399,24 +11399,6 @@ mellan 19–25 år som har bott på samma adress mer än tio år är 45 procent 
 Det är att jämföra med Mölndals stad som har näst högst om 33 procent och Göteborgs stad som
 har lägst om 19 procent. Detta är ett sätt att titta på ungas möjligheter att flytta till en egen bostad.
 
-Andel av totalt som
-har bott på samma Falkenberg Varberg Kungsbacka Göteborg Mölndal Halmstad
-folkbokföringsadress
-
-```osaker-tabell
- <1 år       29      27       20       37      27      38
-
-1–2 år       17      17       11       19      14      19
-
-2–3 år       10       8        7       9       9       10
-
-3–5 år        8       8        7       8       8       7
-
-5–10 år       7       8       10       7       9       6
-
->10 år       29      32       45       19      33      20
-```
-
 Figur 89 - Andel av personer mellan 19–25 år efter hur länge de har haft samma folkbokföringsadress i Kungsbacka jämfört med
 närliggande kommuner. Källa: SCB, bearbetat av Kungsbacka kommun
 Det är främst inom Onsala, Vallda och Släp som ungdomar tenderar att bo kvar, i dessa områden
@@ -11428,29 +11410,21 @@ Antal in- och utflyttningar per år för åldersgruppen 20-29 år
 Inflyttningar Utflyttningar Flyttningsöverskott
 20-29 år
 
+[Tabell 300-1](handlingar.tabeller/300-1.csv)
+
+| Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | Falkenberg | Varberg | Kungsbacka | Göteborg | Mölndal | Halmstad |
+| --- | --- | --- | --- | --- | --- | --- |
+| <1 år | 29 | 27 | 20 | 37 | 27 | 38 |
+| 1–2 år | 17 | 17 | 11 | 19 | 14 | 19 |
+| 2–3 år | 10 | 8 | 7 | 9 | 9 | 10 |
+| 3–5 år | 8 | 8 | 7 | 8 | 8 | 7 |
+| 5–10 år | 7 | 8 | 10 | 7 | 9 | 6 |
+| >10 år | 29 | 32 | 45 | 19 | 33 | 20 |
+
 <!-- sida 301 -->
 
 än tio år. I Kungsbacka stad har störst andel av ungdomarna bott mindre än ett år på samma
 adress.
-
-Andel av totalt som
-KUNGSBACKA                   ÅSA
-har bott på samma  SLÄP VALLDA ONSALA FJÄRÅS GÄLLINGE ÄLVSÅKER KOMMUN
-STAD                      FRILLESÅS
-folkbokföringsadress
-
-```osaker-tabell
- <1 år      31    12  12   12    17    18    20     20    20
- 1–2 år     16    5    8    6    13    8     16     11    11
- 2–3 år     10    5    3    4    7     5      7     7      7
-
- 3–5 år     8     8    6    7    8     6      6     10     7
-
-5–10 år     10    11   7   11    10    11     6     9     10
-
- >10 år     24    59  64   61    46    51    45     44    45
- Total     100   100  100  100  100   100    100   100    100
-```
 
 Figur 90 - Andel av personer mellan 19–25 år efter hur länge de har haft samma folkbokföringsadress i Kungsbackas olika
 planeringsområde. Källa: SCB, bearbetat av Kungsbacka kommun
@@ -11458,6 +11432,18 @@ I Västra Götalands län rapporterar i princip 2/3-delar att det är underskott
 ungdomar och 1/3-del svarar att det är balans.
 
 68
+
+[Tabell 301-1](handlingar.tabeller/301-1.csv)
+
+| Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | KUNGSBACKA<br>STAD | SLÄP | VALLDA | ONSALA | FJÄRÅS | ÅSA<br>FRILLESÅS | GÄLLINGE | ÄLVSÅKER | KOMMUN |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <1 år | 31 | 12 | 12 | 12 | 17 | 18 | 20 | 20 | 20 |
+| 1–2 år | 16 | 5 | 8 | 6 | 13 | 8 | 16 | 11 | 11 |
+| 2–3 år | 10 | 5 | 3 | 4 | 7 | 5 | 7 | 7 | 7 |
+| 3–5 år | 8 | 8 | 6 | 7 | 8 | 6 | 6 | 10 | 7 |
+| 5–10 år | 10 | 11 | 7 | 11 | 10 | 11 | 6 | 9 | 10 |
+| >10 år | 24 | 59 | 64 | 61 | 46 | 51 | 45 | 44 | 45 |
+| Total | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |
 
 <!-- sida 302 -->
 
@@ -14934,7 +14920,7 @@ nämnden för Service:
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 393-1](handlingar.tabeller/393-1.csv)
+[Tabell 393-395-1](handlingar.tabeller/393-395-1.csv)
 
 | Beskrivning | Inkom | Tillhör<br>ärende | Ärendemening |
 | --- | --- | --- | --- |
@@ -14944,6 +14930,19 @@ Justerare                         Expedierat/bestyrkt
 | (Nämnden för Kultur & Fritid)<br>Lokalbehov 2024-2028,<br>Utblicksår 2029-2033 | 2022-10-24 | 2022-00277 | Kultur & Fritid<br>Lokalbehov<br>2024-2028 |
 | (Nämnden för Förskola &<br>Grundskola) (Beslut § 137)<br>Trafiksäkerhet Ölmevallaskolan | 2022-10-25 | 2022-00278 | Trafiksäkerhet<br>Ölmevallaskolan |
 | (Kommunfullmäktige)<br>(Beslut § 167)<br>Svar på motion från Maria<br>Losman (MP) om havet, skolmat<br>och näringslivsutveckling i<br>Kungsbacka. | 2022-10-27 | 2022-00282 | Kommunfullmäktige -<br>Svar på motion från<br>Maria Losman (MP)<br>om havet, skolmat och<br>näringslivsutveckling i<br>Kungsbacka |
+| (Kommunledningskontoret)<br>(Tjänsteskrivelse)<br>Svar på motion från Maria<br>Losman (MP) om havet,<br>skolmat och<br>näringslivsutveckling i<br>Kungsbacka | 2022-10-27 | 2022-00282 | Kommunfullmäktige -<br>Svar på motion från<br>Maria Losman (MP)<br>om havet, skolmat och<br>näringslivsutveckling i<br>Kungsbacka |
+| (Kommunstyrelsen)<br>(Beslut § 234)<br>Uppstart av projekt i lokalplan<br>Fjärås Må förskola | 2022-10-27 | 2022-00283 | Uppstart av projekt i<br>lokalplan Fjärås Må<br>förskola |
+| (Kommunledningskontoret)<br>(Tjänsteskrivelse)<br>Uppstart av projekt i lokalplan<br>Fjärås Må förskola | 2022-10-27 | 2022-00283 | Uppstart av projekt i<br>lokalplan Fjärås Må<br>förskola |
+| Kommunbudget 2023 lokalplan<br>för perioden 2023-2027 s. 44-51 | 2022-10-27 | 2022-00283 | Uppstart av projekt i<br>lokalplan Fjärås Må<br>förskola |
+| (Kommunfullmäktige)<br>(Beslut § 160) Uppdaterade<br>riktlinjer för direktupphandling | 2022-10-27 | 2022-00038 | Uppdaterade riktlinjer<br>för direktupphandling |
+| (Kommunledningskontoret)<br>(Tjänsteskrivelse)<br>Uppdaterade riktlinjer för<br>direktupphandling | 2022-10-27 | 2022-00038 | Uppdaterade riktlinjer<br>för direktupphandling |
+| Riktlinjer för direktupphandling<br>Beslutade av<br>Kommunfullmäktige<br>2022-10-18, § 160 | 2022-10-27 | 2022-00038 | Uppdaterade riktlinjer<br>för direktupphandling |
+| (Kommunfullmäktige)<br>(Beslut § 178) Delårsrapport<br>2022 för Kungsbacka kommun | 2022-11-16 | 2022-00293 | Delårsrapport 2022<br>för Kungsbacka<br>kommun |
+| Kommunledningskontorets<br>Tjänsteskrivelse -<br>Delårsrapport 2022 för<br>Kungsbacka kommun | 2022-11-16 | 2022-00293 | Delårsrapport 2022<br>för Kungsbacka<br>kommun |
+| Delårsbokslut Kungsbacka<br>kommun 2022 | 2022-11-16 | 2022-00293 | Delårsrapport 2022<br>för Kungsbacka<br>kommun |
+| (Kommunfullmäktige)<br>(Beslut § 179)<br>Fastställande av skattesats och<br>kommunbudget 2023,<br>plan 2024–2025 med anledning<br>av valår | 2022-11-16 | 2022-00294 | Fastställande av<br>skattesats och<br>kommunbudget 2023,<br>plan 2024–2025 med<br>anledning av valår |
+| (Kommunledningskontorets<br>Tjänsteskrivelse)<br>Fastställande av skattesats och<br>kommunbudget för 2023 med<br>anledning av valår | 2022-11-16 | 2022-00294 | Fastställande av<br>skattesats och<br>kommunbudget 2023,<br>plan 2024–2025 med<br>anledning av valår |
+| Kommunbudget 2023, plan<br>2024-2025 | 2022-11-16 | 2022-00294 | Fastställande av<br>skattesats och<br>kommunbudget 2023,<br>plan 2024–2025 med<br>anledning av valår |
 
 <!-- sida 394 -->
 
@@ -14953,19 +14952,6 @@ Datum
 2022-11-24
 
 Justerare                         Expedierat/bestyrkt
-
-[Tabell 394-1](handlingar.tabeller/394-1.csv)
-
-| (Kommunledningskontoret)<br>(Tjänsteskrivelse)<br>Svar på motion från Maria<br>Losman (MP) om havet,<br>skolmat och<br>näringslivsutveckling i<br>Kungsbacka | 2022-10-27 | 2022-00282 | Kommunfullmäktige -<br>Svar på motion från<br>Maria Losman (MP)<br>om havet, skolmat och<br>näringslivsutveckling i<br>Kungsbacka |
-| --- | --- | --- | --- |
-| (Kommunstyrelsen)<br>(Beslut § 234)<br>Uppstart av projekt i lokalplan<br>Fjärås Må förskola | 2022-10-27 | 2022-00283 | Uppstart av projekt i<br>lokalplan Fjärås Må<br>förskola |
-| (Kommunledningskontoret)<br>(Tjänsteskrivelse)<br>Uppstart av projekt i lokalplan<br>Fjärås Må förskola | 2022-10-27 | 2022-00283 | Uppstart av projekt i<br>lokalplan Fjärås Må<br>förskola |
-| Kommunbudget 2023 lokalplan<br>för perioden 2023-2027 s. 44-51 | 2022-10-27 | 2022-00283 | Uppstart av projekt i<br>lokalplan Fjärås Må<br>förskola |
-| (Kommunfullmäktige)<br>(Beslut § 160) Uppdaterade<br>riktlinjer för direktupphandling | 2022-10-27 | 2022-00038 | Uppdaterade riktlinjer<br>för direktupphandling |
-| (Kommunledningskontoret)<br>(Tjänsteskrivelse)<br>Uppdaterade riktlinjer för<br>direktupphandling | 2022-10-27 | 2022-00038 | Uppdaterade riktlinjer<br>för direktupphandling |
-| Riktlinjer för direktupphandling<br>Beslutade av<br>Kommunfullmäktige<br>2022-10-18, § 160 | 2022-10-27 | 2022-00038 | Uppdaterade riktlinjer<br>för direktupphandling |
-| (Kommunfullmäktige)<br>(Beslut § 178) Delårsrapport<br>2022 för Kungsbacka kommun | 2022-11-16 | 2022-00293 | Delårsrapport 2022<br>för Kungsbacka<br>kommun |
-| Kommunledningskontorets<br>Tjänsteskrivelse -<br>Delårsrapport 2022 för<br>Kungsbacka kommun | 2022-11-16 | 2022-00293 | Delårsrapport 2022<br>för Kungsbacka<br>kommun |
 
 <!-- sida 395 -->
 
@@ -14983,14 +14969,6 @@ redovisningen av inkomna skrivelser november 2022 till protokollet, och finner a
 nämnden för Service bifaller det.
 
 Justerare                         Expedierat/bestyrkt
-
-[Tabell 395-1](handlingar.tabeller/395-1.csv)
-
-| Delårsbokslut Kungsbacka<br>kommun 2022 | 2022-11-16 | 2022-00293 | Delårsrapport 2022<br>för Kungsbacka<br>kommun |
-| --- | --- | --- | --- |
-| (Kommunfullmäktige)<br>(Beslut § 179)<br>Fastställande av skattesats och<br>kommunbudget 2023,<br>plan 2024–2025 med anledning<br>av valår | 2022-11-16 | 2022-00294 | Fastställande av<br>skattesats och<br>kommunbudget 2023,<br>plan 2024–2025 med<br>anledning av valår |
-| (Kommunledningskontorets<br>Tjänsteskrivelse)<br>Fastställande av skattesats och<br>kommunbudget för 2023 med<br>anledning av valår | 2022-11-16 | 2022-00294 | Fastställande av<br>skattesats och<br>kommunbudget 2023,<br>plan 2024–2025 med<br>anledning av valår |
-| Kommunbudget 2023, plan<br>2024-2025 | 2022-11-16 | 2022-00294 | Fastställande av<br>skattesats och<br>kommunbudget 2023,<br>plan 2024–2025 med<br>anledning av valår |
 
 <!-- sida 396 -->
 
@@ -15421,7 +15399,7 @@ Följande beslut är fattade med stöd av nämnden för Service delegeringsfört
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 406-1](handlingar.tabeller/406-1.csv)
+[Tabell 406-409-1](handlingar.tabeller/406-409-1.csv)
 
 | Beslutsdatum | Ärende/ärendegrupp<br>enligt delegationslistan | Beslut, insats samt<br>ev. omfattning | Beslutsfattare |
 | --- | --- | --- | --- |
@@ -15429,6 +15407,28 @@ Justerare                         Expedierat/bestyrkt
 | 2022-10-01 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Vikariat<br>Måltidsbiträde | Marita Belstad |
 | 2022-10-01 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Kock | Madeleine<br>Nilsson |
 | 2022-10-01 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>IT-tekniker | Hanna Olsson |
+| 2022-10-01 | 2.3.1<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Vikariat<br>Verksamhetschef | Annika Malm |
+| 2022-10-01 | 2.3.1<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Vikariat<br>Biträdande förvaltningschef | Annika Malm |
+| 2022-10-01 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>IT-tekniker specialist | Eva Sjöqvist |
+| 2022-10-01 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Projektledare bygg | Peter Gulin |
+| 2022-10-01 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Kock | Madeleine<br>Nilsson |
+| 2022-10-01 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>IT-tekniker specialist | Eva Sjöqvist |
+| 2022-10-03 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Vikariat<br>Vikarieplanerare | Sonja Svensson |
+| 2022-10-03 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Måltidsbiträde | Lisa Widing |
+| 2022-10-04 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Måltidsbiträde | Ann Andersson |
+| 2022-10-05 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>IT-tekniker | Hanna Olsson |
+| 2022-10-10 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Vikariat<br>Fastighetstekniker | Tobias<br>Siemonsen |
+| 2022-10-10 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>IT-tekniker specialist | Eva Sjöqvist |
+| 2022-10-10 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Administrativ förvaltare | Martin<br>Funkerud |
+| 2022-10-10 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Fastighetstekniker | Thomas<br>Nilsson |
+| 2022-10-10 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Måltidsbiträde | Lisa Widing |
+| 2022-10-10 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Särskild visstidsanställning<br>Lokalvårdare | Jenny Erixon |
+| 2022-10-10 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Utvecklare IT | Eva Sjöqvist |
+| 2022-10-10 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Särskild visstidsanställning<br>Lokalvårdare | Jenny Erixon |
+| 2022-10-13 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Vikariat<br>Måltidsbiträde | Jessica<br>Carlsson |
+| 2022-10-17 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Särskild visstidsanställning<br>Enhetschef | Mats<br>Söderström |
+| 2022-10-31 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Måltidsbiträde | Susan<br>Börjesson |
+| 2022-11-25 | Nämnden för Service beslut<br>2022-11-24 § 107 | Fördelning av<br>arbetsmiljöuppgifter från<br>nämnd till tillförordnad<br>förvaltningschef | Nämnden för<br>Service genom<br>Fredrik<br>Hansson |
 
 <!-- sida 407 -->
 
@@ -15439,18 +15439,6 @@ Datum
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 407-1](handlingar.tabeller/407-1.csv)
-
-| 2022-10-01 | 2.3.1<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Vikariat<br>Verksamhetschef | Annika Malm |
-| --- | --- | --- | --- |
-| 2022-10-01 | 2.3.1<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Vikariat<br>Biträdande förvaltningschef | Annika Malm |
-| 2022-10-01 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>IT-tekniker specialist | Eva Sjöqvist |
-| 2022-10-01 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Projektledare bygg | Peter Gulin |
-| 2022-10-01 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Kock | Madeleine<br>Nilsson |
-| 2022-10-01 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>IT-tekniker specialist | Eva Sjöqvist |
-| 2022-10-03 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Vikariat<br>Vikarieplanerare | Sonja Svensson |
-| 2022-10-03 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Måltidsbiträde | Lisa Widing |
-
 <!-- sida 408 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          11 (19)
@@ -15459,18 +15447,6 @@ Datum
 2022-12-20
 
 Justerare                         Expedierat/bestyrkt
-
-[Tabell 408-1](handlingar.tabeller/408-1.csv)
-
-| 2022-10-04 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Måltidsbiträde | Ann Andersson |
-| --- | --- | --- | --- |
-| 2022-10-05 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>IT-tekniker | Hanna Olsson |
-| 2022-10-10 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Vikariat<br>Fastighetstekniker | Tobias<br>Siemonsen |
-| 2022-10-10 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>IT-tekniker specialist | Eva Sjöqvist |
-| 2022-10-10 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Administrativ förvaltare | Martin<br>Funkerud |
-| 2022-10-10 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Fastighetstekniker | Thomas<br>Nilsson |
-| 2022-10-10 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Måltidsbiträde | Lisa Widing |
-| 2022-10-10 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Särskild visstidsanställning<br>Lokalvårdare | Jenny Erixon |
 
 <!-- sida 409 -->
 
@@ -15488,16 +15464,6 @@ Ordförande Fredrik Hansson (C) finner att det finns ett förslag till beslut, d
 säga förvaltningen för Service förslag, och att nämnden för Service bifaller det.
 
 Justerare                         Expedierat/bestyrkt
-
-[Tabell 409-1](handlingar.tabeller/409-1.csv)
-
-| 2022-10-10 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Utvecklare IT | Eva Sjöqvist |
-| --- | --- | --- | --- |
-| 2022-10-10 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Särskild visstidsanställning<br>Lokalvårdare | Jenny Erixon |
-| 2022-10-13 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Vikariat<br>Måltidsbiträde | Jessica<br>Carlsson |
-| 2022-10-17 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Särskild visstidsanställning<br>Enhetschef | Mats<br>Söderström |
-| 2022-10-31 | 2.3.2<br>LAS, AB §§ 3-5<br>kollektivavtal,<br>lönepolicy mm | Tillsvidareanställning<br>Måltidsbiträde | Susan<br>Börjesson |
-| 2022-11-25 | Nämnden för Service beslut<br>2022-11-24 § 107 | Fördelning av<br>arbetsmiljöuppgifter från<br>nämnd till tillförordnad<br>förvaltningschef | Nämnden för<br>Service genom<br>Fredrik<br>Hansson |
 
 <!-- sida 410 -->
 
@@ -15541,7 +15507,7 @@ Datum
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 411-1](handlingar.tabeller/411-1.csv)
+[Tabell 411-415-1](handlingar.tabeller/411-415-1.csv)
 
 | (Kommunstyrelsen)<br>(Beslut § 256)<br>Omfördelning av budget i<br>lokalplan Samlokalisering daglig<br>verksamhet Kyrkskolan | 2022-11-25 | 2022-00323 | Omfördelning av<br>budget i lokalplan<br>Samlokalisering<br>daglig verksamhet<br>Kyrkskolan |
 | --- | --- | --- | --- |
@@ -15554,6 +15520,33 @@ Justerare                         Expedierat/bestyrkt
 | (Nämnden för Vård & Omsorg)<br>(Beslut § 122)<br>Lokalbehovsplan 2024–2028 | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
 | Vård & Omsorg Tjänsteskrivelse<br>om Lokalbehovsplan 2024-2028 | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
 | (Vård & Omsorg)<br>Lokalbehovsplan 2024-2028 | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Avveckling verksamhetslokal<br>Hemsjukvård Ekhaga | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Ersättande verksamhetslokal<br>Hemsjukvård Ekhaga | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga:<br>Rapport Ekhaga 2022-09-23 | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Avveckling total tömning<br>av inventarier Signeshus | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Avveckling av Ekhaga<br>vård- och omsorgsboende | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Kapacitetsutredning<br>reservkraft | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Utbildningslokal<br>Kompetenscentrum | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Trygghetsskapande teknik | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Kapacitetsutredning skugga<br>utomhus vård- och<br>omsorgsboende | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behov av modernisering<br>av Signeshus vård- och<br>omsorgsboende i samband med<br>Signeshus 20 års renovering av<br>fastigheten | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Nödvatten vård- och<br>omsorgsboende | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Laddstolpar Gnejsvägen 51,<br>Kolla | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Laddstolpar Vickan vård- och<br>omsorgsboende | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Laddstolpar Sandlyckans vård-<br>och omsorgsboende | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Laddstolpar Kolla vård- och<br>omsorgsboende | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Kapacitetsutredning komfortkyla<br>vård och omsorgsboende | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Kapacitetsutredning status<br>fastigheter avsedda för vård och<br>omsorgsboende | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Kapacitetsutredning hörslingor<br>vård och omsorgsboende | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Kapacitetsutredning förvaring av<br>utomhusmöbler | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Behov av ersättande<br>verksamhetslokaler för<br>Borgmästaregatan | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Ersättande lokal inför flytt av<br>arkivet på Borgmästaregatan | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Avveckling av verksamhetslokal<br>Borgmästaregatan | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Avveckling inför flytt av arkivet<br>på Borgmästaregatan | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Lokalbehovsplan avtal | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
+| (Teknik) (E-post)<br>Gång- och cykelplan 2023-2027 | 2022-12-07 | 2022-00321 | Gång och cykelplan<br>2023-2027 |
+| (Nämnden för Teknik)<br>(Beslut § 121)<br>Gång och cykelplan 2023-2027 | 2022-12-07 | 2022-00321 | Gång och cykelplan<br>2023-2027 |
+| Gång- och cykelplan 2023-2027<br>(Beslutad version) | 2022-12-07 | 2022-00321 | Gång och cykelplan<br>2023-2027 |
 
 <!-- sida 412 -->
 
@@ -15564,18 +15557,6 @@ Datum
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 412-1](handlingar.tabeller/412-1.csv)
-
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Avveckling verksamhetslokal<br>Hemsjukvård Ekhaga | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-| --- | --- | --- | --- |
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Ersättande verksamhetslokal<br>Hemsjukvård Ekhaga | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga:<br>Rapport Ekhaga 2022-09-23 | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Avveckling total tömning<br>av inventarier Signeshus | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Avveckling av Ekhaga<br>vård- och omsorgsboende | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Kapacitetsutredning<br>reservkraft | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Utbildningslokal<br>Kompetenscentrum | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Trygghetsskapande teknik | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-
 <!-- sida 413 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          16 (19)
@@ -15585,17 +15566,6 @@ Datum
 
 Justerare                         Expedierat/bestyrkt
 
-[Tabell 413-1](handlingar.tabeller/413-1.csv)
-
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Kapacitetsutredning skugga<br>utomhus vård- och<br>omsorgsboende | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-| --- | --- | --- | --- |
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behov av modernisering<br>av Signeshus vård- och<br>omsorgsboende i samband med<br>Signeshus 20 års renovering av<br>fastigheten | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Nödvatten vård- och<br>omsorgsboende | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Laddstolpar Gnejsvägen 51,<br>Kolla | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Laddstolpar Vickan vård- och<br>omsorgsboende | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Laddstolpar Sandlyckans vård-<br>och omsorgsboende | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Laddstolpar Kolla vård- och<br>omsorgsboende | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-
 <!-- sida 414 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          17 (19)
@@ -15604,17 +15574,6 @@ Datum
 2022-12-20
 
 Justerare                         Expedierat/bestyrkt
-
-[Tabell 414-1](handlingar.tabeller/414-1.csv)
-
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Kapacitetsutredning komfortkyla<br>vård och omsorgsboende | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-| --- | --- | --- | --- |
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Kapacitetsutredning status<br>fastigheter avsedda för vård och<br>omsorgsboende | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Kapacitetsutredning hörslingor<br>vård och omsorgsboende | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Kapacitetsutredning förvaring av<br>utomhusmöbler | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Behov av ersättande<br>verksamhetslokaler för<br>Borgmästaregatan | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Ersättande lokal inför flytt av<br>arkivet på Borgmästaregatan | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Avveckling av verksamhetslokal<br>Borgmästaregatan | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
 
 <!-- sida 415 -->
 
@@ -15634,15 +15593,6 @@ redovisningen av inkomna skrivelser december 2022 till protokollet, och finner a
 nämnden för Service bifaller det.
 
 Justerare                         Expedierat/bestyrkt
-
-[Tabell 415-1](handlingar.tabeller/415-1.csv)
-
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Behovsbeskrivning<br>Avveckling inför flytt av arkivet<br>på Borgmästaregatan | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-| --- | --- | --- | --- |
-| (Vård & Omsorg)<br>Lokalbehovsplan 2024–2028<br>Bilaga: Lokalbehovsplan avtal | 2022-11-29 | 2022-00326 | Vård & Omsorg<br>Lokalbehovsplan<br>2024–2028 |
-| (Teknik) (E-post)<br>Gång- och cykelplan 2023-2027 | 2022-12-07 | 2022-00321 | Gång och cykelplan<br>2023-2027 |
-| (Nämnden för Teknik)<br>(Beslut § 121)<br>Gång och cykelplan 2023-2027 | 2022-12-07 | 2022-00321 | Gång och cykelplan<br>2023-2027 |
-| Gång- och cykelplan 2023-2027<br>(Beslutad version) | 2022-12-07 | 2022-00321 | Gång och cykelplan<br>2023-2027 |
 
 <!-- sida 416 -->
 

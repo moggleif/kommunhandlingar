@@ -1,0 +1,128 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,Ekonomi,,,,
+Processgrupp:,Redovisning,,,,
+Process:,Fakturera kunder,,,,
+Processnummer:,2.4.1.1,,,,
+Aktivitet,Handling,"Förvarin
+g",Format,"Bevara/Gallr
+a",Anmärkning
+Fakturera kunder,"Fakturafiler från
+verksamhetssystem till
+Raindance",Se anm.,Digital,7 år,"Avser textfil. Arkiveras hos respektive förvaltning i
+sju år."
+,Manuell kundfaktura,Se anm,Digitalt,7 år,"Raindance: Manuella kundfakturor registreras i
+Kundreskontraportalen (KRP)"
+,Krediteringar,Se anm.,"Se
+anmärknin
+g",7 år,"Raindance: Kreditering i KRP görs digitalt i systemet
+av respektive förvaltning. KLK Styrning & Ekonomi
+reglerar kreditfaktura mot debetfaktura.
+Future: Teknik skickar attesterat krediteringsunderlag
+till KLK Styrning & Ekonomi. Skickas underlaget
+digitalt arkiveras originalet hos förvaltningen.
+Future: Annulleringar registreras enbart i systemet."
+,Fakturerade kundfakturor,Se anm.,Digitalt,7 år,"Raindance: I systemet, samt på
+P:\DFiles\Utskriftslev_RD
+Future: I systemet, samt på P:\EDP Future
+Filer\Fakturafil"
+,Kundreskontrajournal,Se anm.,Digitalt,Bevaras,"Samarbetsrum Alla Ekonomi\Revision
+År 1995–2005 på CD.
+Kungsbacka kommun\KSF Ekonomi KLK -
+Dokument\Kundteamet\Avstämning\Bokslut\åååå"
+"Motta Inbetalningar
+från kundfakturor","BG-Max ISO20022 fil
+med inbetalningar
+kundfakturor",Se anm.,Digitalt,7 år,"Inbetalningsfiler från bankgiro och autogiro sparas
+för:
+Raindance: P:\DFiles\Bg\Old Raindance BG:
+P:\DFiles\Inbetalningar\BG Inbetalningar
+Raindance AG:
+P:\DFiles\Inbetalningar\AG_Inbetalningar
+Future: P:\EDP Future Filer\BGFiler\Inlästa och
+P:\EDP Future Filer\AGFiler\BG autogiro\Inlästa"
+,"Sammanställning samt
+fellista BG-Max
+ISO20022 inbetalningar
+kundfakturor",Se anm.,"Se
+anmärknin
+g",7 år,"Raindance: Arkiveras digitalt i systemet
+Future: Bokföringsunderlagen arkiveras i papper med
+kassaverifikationerna Future: Bokföringsunderlagen
+arkiveras digitalt C:\ Kungsbacka kommun\KSF
+Ekonomi KLK -
+Dokument\Kundteamet\Inbetalningar\åååå\mm\ååmm
+dd"
+,Inbetalningsjournal,Se anm.,Digitalt,7 år,"Raindance: Arkiveras i systemet. Går inte att
+exportera
+Future: P:\EDP Future filer\BGFiler"
+"Hantera utbetalning
+från Kundreskontran
+Raindance","Utbetalningsfil till
+Swedbank",Se anm.,Digitalt,7 år,"Kundutbetalningar BG (Företag):
+P:\Dfiles\Utbetalningar\KR\BG\Arkiv
+Kundutbetalningar SUS (Privatpersoner):
+P:\Dfiles\Utbetalningar\KR\SUS\Arkiv"
+,Utbetalningsjournal,Se anm.,Digitalt,7 år,I systemet. Går inte att exportera
+,"Återredovisade
+kundutbetalningar BG",Se anm.,Digitalt,7 år,"Fil från Swedbank.
+P:\Dfiles\Utbetalningar\KR\BG\Kvittens\Arkiv"
+,"Avvisade
+kundutbetalningar BG",Se anm.,Digitalt,2 år,"Fil från Swedbank.
+P:\Dfiles\Utbetalningar\KR\BG\Kvittens\Arkiv"
+,"Avvisade
+kundutbetalningar SUS",Se anm.,Papper,7 år,"Besked om avvisade kundutbetalningar kommer i
+Internetbanken som ett elektroniskt dokument. Bokas
+och sparas tillsammans med kassaverifikationer."
+"Hantera utbetalning
+från Future","Utbetalningsfil till
+Swedbank",Se anm,Digitalt,7 år,"P:\EDP Future Filer\UT BGC\TEIS P:\EDP Future
+Filer\Utbetalningar\SUS\Arkiv"
+"Hantera
+kravhantering",Betalningspåminnelser,Se anm.,Digitalt,2 år,"Raindance:
+P:\DFiles\Arkiv\KR\Betalningspåminnelser
+Raindance: I systemet. Går inte att exportera
+Future: P:\EDP Future Filer\Kravfil och lista på
+utskrivna krav under P:\EDP Future
+Filer\ARKIV\Påminnelser Future: P:\EDP Future
+Filer\Kravfil\Parajett\Arkiv"
+,Inkassokrav,Se anm.,Digitalt,7 år,"Raindance: P:\DFiles\Arkiv\KR\Inkassokrav
+Raindance:
+P:\DFiles\Inkassobolag\Intrum\Inkassokrav
+Future: P:\EDP Future Filer\ARKIV\Inkassokrav
+Future: P:\EDP Future Filer\Kravfil\Intrum\Arkiv"
+,"Betalningsföreläggande
+betalda","Närarkiv
+Vägmästaren",Papper,7 år,"Betalning registreras i KRP och när hela skulden är
+betald sätts alla underlag i pärmen
+“Betalningsföreläggande betalda”."
+,"Avskrivningar,
+kundfakturor","Närarkiv,
+Vägmästaren",Papper,7 år,"Avskrivning utförs i Raindance och Future. Fordran
+skrivs av i bokföringen och skulden registreras hos
+efterbevakningsföretaget.
+Vid avskrivning gentemot gäldenär registreras fordran
+inte hos efterbevakningsföretaget."
+Hantera autogiro,"Medgivande/avanmälning
+ar från BGC","Närarkiv,
+Vägmästaren",Papper,"Gallras vid
+inaktualitet","Ansökning/avanmälan inkommer via Internetbanken,
+Autogiro Online eller via blankett. Ansökningarna
+som sker digitalt skrivs ut och arkiveras i närarkiv.
+Ansökningarna som sker digitalt spara ner under
+respektive BG-nummer:"
+,,,,,"KSF Ekonomi KLK -
+Dokument\Kundteamet\AUTOGIRO\Medgivanden\åå
+åå"
+Hantera E-faktura,"Anmälan/avanmälan e-
+faktura kundreskontran",Se anm.,Digitalt,"Gallras vid
+inaktualitet7 år","Anmälan/avanmälan läses in digitalt i Raindance och
+Future.
+Inlästa filer sparas ner:
+Raindance: P:\DFiles\Efaktura\Inlast
+Future: P:\EDP Future Filer\Efaktura\Arkiv"
+"Hantera
+amorteringsplan","Amorteringsplaner för
+kundfakturor i Raindance
+och Future","Närarkiv,
+Vägmästaren",Papper,"Gallras vid
+inaktualitet",Amorteringsavtal arkiveras i närarkivet

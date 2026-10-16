@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.38cb5fd51900fdb3cb747/1718257375717
 sha256: 9750e4c2b6a8414fbb361c633e07bfc5dce08f43e8d22161e71bcc720b85d43f
 bytes: 91502614
 sidor: 532
-hamtad: 2026-10-12T23:26:18+00:00
-konverterad: 2026-10-12T23:32:57+00:00
-pipeline: kommunhandlingar 0.8.7 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T10:45:05+00:00
+konverterad: 2026-10-16T10:51:38+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
-tal_obekraftade: [126, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 327, 330, 333, 335, 337, 338, 339, 340, 341, 343, 344, 345, 346, 347, 348, 349, 351, 352, 353, 355, 356, 357, 359, 361, 362, 363, 364, 365, 366, 367, 370, 372, 376, 377, 378, 379, 380, 382, 383, 384, 385, 386, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 406, 407, 531, 532]
-figurer: [28, 36, 40, 52, 60, 62, 66, 75, 76, 98, 101, 106, 109, 111, 112, 114, 115, 116, 117, 120, 125, 129, 130, 132, 133, 135, 136, 137, 138, 140, 141, 143, 144, 145, 146, 153, 154, 155, 156, 163, 165, 166, 168, 171, 172, 174, 175, 186, 191, 192, 194, 214, 215, 223, 233, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 307, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 358, 359, 360, 363, 364, 366, 367, 368, 369, 370, 372, 377, 378, 379, 380, 381, 385, 386, 388, 389, 390, 391, 392, 393, 394, 395, 396, 398, 399, 400, 401, 402, 403, 405, 406, 407, 409, 417, 426, 429, 431, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 481, 486, 491, 500, 517]
+kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
+tal_obekraftade: [83, 126, 129, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 314, 315, 327, 330, 333, 335, 337, 338, 339, 340, 341, 343, 344, 345, 346, 347, 348, 349, 351, 352, 353, 355, 356, 357, 359, 361, 362, 363, 364, 365, 366, 367, 370, 372, 376, 377, 378, 379, 380, 382, 383, 384, 385, 386, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 406, 407, 531, 532]
+figurer: [28, 36, 40, 52, 60, 62, 66, 75, 76, 98, 101, 106, 109, 111, 112, 114, 115, 116, 117, 120, 125, 129, 130, 132, 133, 137, 138, 140, 141, 143, 144, 145, 146, 153, 154, 155, 156, 163, 165, 166, 168, 171, 172, 174, 175, 186, 191, 192, 194, 214, 215, 223, 233, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 307, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 358, 359, 360, 363, 364, 366, 367, 368, 369, 370, 372, 377, 378, 379, 380, 381, 385, 386, 388, 389, 390, 391, 392, 393, 394, 395, 396, 398, 399, 400, 401, 402, 403, 405, 406, 407, 409, 417, 426, 429, 431, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 481, 486, 491, 500, 517]
 tolkade: []
 ---
 
@@ -4539,15 +4539,14 @@ stiftelsens huvudman.
 
 Här får du en snabb överblick över kommunens ekonomiska utveckling under tio år.
 
-2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027
-Skatt
-
 \* Jämförelsetalen för 2019 är justerade med anledning av övergång till RKR R2 under 2020. Åren dessförinnan bygger på tidigare gällande redovisningsprincip.
 
 [Tabell 102-1](handlingar.tabeller/102-1.csv)
 
-| Kommunal skattesats % | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 |
+|  | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Skatt |  |  |  |  |  |  |  |  |  |  |  |
+| Kommunal skattesats % | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 |
 | Invånare |  |  |  |  |  |  |  |  |  |  |  |
 | Antal invånare 31/12 | 81 986 | 83 348 | 84 395 | 84 930 | 85 301 | 85 801 | 85 653 | 86 179 | 87 139 | 87 552 | 88 226 |
 | Födda | 731 | 822 | 805 | 763 | 778 | 742 | 702 | 687 | 684 | 726 | 736 |
@@ -5848,29 +5847,23 @@ som tas bort 2025
 Kommunrevisionen uppräkning 100 100 100 100
 Summa övriga tillägg 2025-2027 38 000 30 630 29 000
 utöver 2,5 procent, ingår i ram
-Kommunfullmäktige arvoden, 530 530 530 530
-ingår i ram
-Främja välmående motverka 5 000 5 000 5 000 5 000
-psykisk ohälsa, ingår i ram och
-kvarstår under planperioden
-Kommungemensam digitalise- 10 000 10 000 10 000 10 000
-ring fortsatt utveckling, ingår
-i ram
-Kommungemensamt för innova- 10 000 10 000 10 000 10 000
-tion, ingår i ram
-Summa kvarstående övriga till- 50 982 49 032 49 032 49 032
-lägg från 2024 som ingår i ram
+
 Kommunbudget 2025 och plan 2026–2027 37
+
+[Tabell 130-1](handlingar.tabeller/130-1.csv)
+
+| Kommunfullmäktige arvoden, ingår i ram | 530 | 530 | 530 | 530 |
+| --- | --- | --- | --- | --- |
+| Främja välmående motverka psykisk ohälsa, ingår i ram och kvarstår under planperioden | 5 000 | 5 000 | 5 000 | 5 000 |
+| Kommungemensam digitalise- ring fortsatt utveckling, ingår i ram | 10 000 | 10 000 | 10 000 | 10 000 |
+| Kommungemensamt för innova- tion, ingår i ram | 10 000 | 10 000 | 10 000 | 10 000 |
+| Summa kvarstående övriga till- lägg från 2024 som ingår i ram | 50 982 | 49 032 | 49 032 | 49 032 |
 
 <!-- sida 131 -->
 
 KUNGSBACKAS FÖRUTSÄTTNINGAR
 
 Nämndernas driftramar 2025–2026
-Nämnder, belopp i Tusen kronor, Tkr Priser, löner Volymer Övriga tillägg Ram- Ram 2025, Ram 2026,
-3,0 procent - 2025  2025 justeringar inkl. kapital- inkl. kapital-
-2025                   t o m kostnad, kostnad,
-2024-04-30 internt övrigt internt övrigt
 
 Ramjusteringar är bland annat gjorda till nämnderna för nya och förändrade lokalhyror och lokalvård under hösten 2023 till och med 2024­04­30,
 samt fullmäktiges beslut om att ramjustera från Kommunstyrelsen till finansverksamheten för Räddningstjänstens pensioner (10 898 tusen kronor).
@@ -5895,8 +5888,9 @@ samhet
 
 [Tabell 131-1](handlingar.tabeller/131-1.csv)
 
-| Kommunfullmäktige | 134 | 75 |  |  | 4 887 | 5 020 |
+| Nämnder, belopp i Tusen kronor, Tkr | Priser, löner 3,0 procent - 2025 | Volymer 2025 | Övriga tillägg 2025 | Ramjusteringar t o m 2024-04-30 | Ram 2025, inkl. kapitalkostnad, internt övrigt | Ram 2026, inkl. kapitalkostnad, internt övrigt |
 | --- | --- | --- | --- | --- | --- | --- |
+| Kommunfullmäktige | 134 | 75 |  |  | 4 887 | 5 020 |
 | Kommunrevision | 104 | 25 |  |  | 3 591 | 3 699 |
 | Valnämnden | 59 | -1 645 |  | 19 | 389 | 2 019 |
 | Kommunstyrelsen | 8 529 | 601 | -1 000 | -10 101 | 283 353 | 292 087 |
@@ -6067,55 +6061,35 @@ tillgångar å ena sidan och skulder och eget kapital å andra sidan är alltid 
 
 Resultaträkning
 
-Belopp i miljoner kronor  Bokslut Budget Budget Plan Plan
-2023 2024  2025  2026  2027
-inkl ombudget
-
-Avskrivningar               -478  -510  -566 -600  -640
-Verksamhetens nettokostnader -5 637 -5 909 -6 120 -6 253 -6 447
-
-Nyckeltal
-
-SKR cirkulär 24:27
-
-Resultat tillkommer vid försäljning av exploate- 62,0 301 210 200 423
-ringsmark samt exploateringsersättningar
-
 42 Kommunbudget 2025 och plan 2026–2027
 
 [Tabell 135-1](handlingar.tabeller/135-1.csv)
 
-| Skatteintäkter | 5 718 | 5 865 | 6 128 | 6 380 | 6 636 |
+| Belopp i miljoner kronor | Bokslut 2023 | Budget 2024 inkl ombudget | Budget 2025 | Plan 2026 | Plan 2027 |
 | --- | --- | --- | --- | --- | --- |
+| Avskrivningar | -478 | -510 | -566 | -600 | -640 |
+| Verksamhetens nettokostnader | -5 637 | -5 909 | -6 120 | -6 253 | -6 447 |
+| Skatteintäkter | 5 718 | 5 865 | 6 128 | 6 380 | 6 636 |
 | Generella statsbidrag | 319 | 264 | 311 | 334 | 306 |
 | Verksamhetens resultat | 400 | 220 | 319 | 461 | 496 |
-
-[Tabell 135-2](handlingar.tabeller/135-2.csv)
-
 | Finansiella intäkter | 23 | 16 | 21 | 20 | 20 |
-| --- | --- | --- | --- | --- | --- |
 | Finansiella kostnader | -192 | -222 | -139 | -142 | -203 |
 | Resultat efter finansiella poster | 231 | 14 | 200 | 338 | 313 |
-
-[Tabell 135-3](handlingar.tabeller/135-3.csv)
-
 | Årets resultat | 231 | 14 | 200 | 338 | 313 |
-| --- | --- | --- | --- | --- | --- |
 | Pensionsförpliktelser intjänade före 1998 | 22 | 25 | -39 | -62 | -57 |
 | Årets resultat enligt blandmodellen | 253 | 39 | 161 | 276 | 256 |
 | Samtliga realisationsvinster | -8 |  |  |  |  |
 | Årets resultat efter balanskravsjusteringar | 245 | 39 | 161 | 276 | 256 |
 | Balanskravsresultat | 245 | 39 | 161 | 276 | 256 |
-
-[Tabell 135-4](handlingar.tabeller/135-4.csv)
-
+| Nyckeltal |  |  |  |  |  |
 | Nettokostnadsutveckling | 14,2% | 4,8% | 3,6% | 2,2% | 3,1% |
-| --- | --- | --- | --- | --- | --- |
 | Ökning av skatter och statsbidrag | 4,4% | 1,5% | 5,0% | 4,3% | 3,4% |
 | Årets resultat andel av skatteintäkter, statsbidrag | 3,8% | 0,2% | 3,1% | 5,0% | 4,5% |
 | Nettokostnadernas andel av skatter, statsbidrag | 93% | 96% | 95% | 93% | 93% |
 | Finansnettots andel av skatter, statsbidrag | 2,8% | 3,4% | 1,8% | 1,8% | 2,6% |
 | Summa använda skattemedel | 96% | 100% | 97% | 95% | 95% |
+| SKR cirkulär 24:27 |  |  |  |  |  |
+| Resultat tillkommer vid försäljning av exploate- ringsmark samt exploateringsersättningar | 62,0 | 301 | 210 | 200 | 423 |
 
 <!-- sida 136 -->
 
@@ -6123,66 +6097,48 @@ FINANSIELLA RAPPORTER
 
 Kassaflödesanalys
 
-Belopp i miljoner kronor   Bokslut Budget Budget Plan Plan
-2023  2024  2025  2026 2027
-inkl ombudget
-
-Kassaflöde från den löpande verksamheten
-
-Kassaflöde från den löpande verksamheten
-Summa kassaflöde från den löpande verksamheten 954 1 068 976 1 070 1 320
-
-Investeringsverksamheten
-Investering i materiella anläggningstillgångar -1 011 -541 -330 -564 -1169
-­Varav investering finansiell leasing
-
-Finansieringsverksamheten
-Amortering av lån kreditinstitut -100
-Nyupptagna lån finansiell leasing 28
-Amortering av skulder för finansiell leasing -78
-Nyupptagna lån kreditinstitut       350   200  950   1300
-Omsatta lån
-
-Amortering av skuld
-
-Nyckeltal
-Egenfinansiering av investeringar årsvis 67% 57% 75% 55% 53%
-
-Egenfinansiering av investeringar 2023-2027          59%
-Investeringarnas andel av skatter och statsbidrag 16% 23% 19% 29% 35%
-
 Kommunbudget 2025 och plan 2026–2027 43
 
 [Tabell 136-1](handlingar.tabeller/136-1.csv)
 
-| Årets Resultat | 231 | 14 | 200 | 338 | 313 |
+| Belopp i miljoner kronor | Bokslut 2023 | Budget 2024 inkl ombudget | Budget 2025 | Plan 2026 | Plan 2027 |
 | --- | --- | --- | --- | --- | --- |
+| Kassaflöde från den löpande verksamheten |  |  |  |  |  |
+| Årets Resultat | 231 | 14 | 200 | 338 | 313 |
 | Avskrivningar |  | 510 | 566 | 600 | 640 |
 | Övriga ej likvidpåverkande poster | 822 | 243 | -0,5 | -69 | -55 |
 | Övriga likvidpåverkande poster | -91 |  |  |  |  |
 | Poster som redovisas i annan sektion | -8 |  |  |  |  |
 | Investeringsintäkter, exploateringsersättningar, investeringsbidrag |  | 301 | 210 | 200 | 423 |
-
-[Tabell 136-2](handlingar.tabeller/136-2.csv)
-
+| Kassaflöde från den löpande verksamheten |  |  |  |  |  |
+| Summa kassaflöde från den löpande verksamheten | 954 | 1 068 | 976 | 1 070 | 1 320 |
+| Investeringsverksamheten |  |  |  |  |  |
+| Investering i materiella anläggningstillgångar | -1 011 | -541 | -330 | -564 | -1169 |
+| ­Varav investering finansiell leasing |  |  |  |  |  |
 | Löpande investeringar |  | -95 | -45 | -43 | -46 |
-| --- | --- | --- | --- | --- | --- |
 | Övriga investeringar |  | -163 | -123 | -124 | -123 |
 | Exploateringsverksamheten |  | -117 | -221 | -351 | -351 |
 | Avgiftsfinansierade investeringar |  | -528 | -585 | -972 | -919 |
 | Investeringar | 8 |  |  |  |  |
 | Investering i finansiella anläggningstillgångar | -8 |  |  |  |  |
 | Kassaflöde från investeringsverksamheten | -1 011 | -1 445 | -1 303 | -2 054 | -2 607 |
-
-[Tabell 136-3](handlingar.tabeller/136-3.csv)
-
+| Finansieringsverksamheten |  |  |  |  |  |
+| Amortering av lån kreditinstitut | -100 |  |  |  |  |
+| Nyupptagna lån finansiell leasing | 28 |  |  |  |  |
+| Amortering av skulder för finansiell leasing | -78 |  |  |  |  |
+| Nyupptagna lån kreditinstitut |  | 350 | 200 | 950 | 1300 |
+| Omsatta lån |  |  |  |  |  |
+| Amortering av skuld |  |  |  |  |  |
 | Förändring av övriga långfristiga skulder | -1 |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Kassaflöde från finansieringsverksamheten | -151 | 350 | 200 | 950 | 1 300 |
 | Utbetalning av bidrag statlig infrastruktur | -10 |  |  |  |  |
 | Årets kassaflöde | -135 | -27 | -127 | -34 | 13 |
 | Likvida medel vid årets början | 426 | 291 | 264 | 137 | 103 |
 | Likvida medel vid årets slut | 291 | 264 | 137 | 103 | 116 |
+| Nyckeltal |  |  |  |  |  |
+| Egenfinansiering av investeringar årsvis | 67% | 57% | 75% | 55% | 53% |
+| Egenfinansiering av investeringar 2023-2027 |  |  |  |  | 59% |
+| Investeringarnas andel av skatter och statsbidrag | 16% | 23% | 19% | 29% | 35% |
 
 <!-- sida 137 -->
 
@@ -6739,9 +6695,8 @@ nämnd.
 
 [Tabell 147-1](handlingar.tabeller/147-1.csv)
 
-| Investeringar totalt, Tusen kronor (Tkr) | Budget 2025 | Plan 2026 | Plan 2027 | Plan 2028 | Plan 2029 | Plan 2025– |
+| Investeringar totalt, Tusen kronor (Tkr) | Budget 2025 | Plan 2026 | Plan 2027 | Plan 2028 | Plan 2029 | Plan 2025– 2029 |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  | 2029 |
 | Löpande investeringar | 45 295 | 42 995 | 45 595 | 45 595 | 43 058 | 222 538 |
 | Lokalinvesteringar SE | 77 850 | 94 600 | 71 050 | 55 000 | 90 000 | 388 500 |
 | Lokalplan | 251 800 | 469 391 | 1 098 260 | 772 354 | 524 928 | 3 116 733 |
@@ -6785,9 +6740,8 @@ Kommunbudget 2025 och plan 2026–2027 55
 
 [Tabell 148-1](handlingar.tabeller/148-1.csv)
 
-| Investeringar, belopp i tusen kronor | Budget 2025 | Plan 2026 | Plan 2027 | Plan 2028- |
+| Investeringar, belopp i tusen kronor | Budget 2025 | Plan 2026 | Plan 2027 | Plan 2028- 2029 |
 | --- | --- | --- | --- | --- |
-|  |  |  |  | 2029 |
 | KS/Samhällsbyggnad | 1 300 | 1 300 | 1 300 | 2 600 |
 | Markköp | 40 000 | 40 000 | 40 000 | 80 000 |
 | Lokalplan | 251 800 | 469 391 | 1 098 260 | 1 297 282 |
@@ -6795,9 +6749,8 @@ Kommunbudget 2025 och plan 2026–2027 55
 
 [Tabell 148-2](handlingar.tabeller/148-2.csv)
 
-| Investeringar, belopp i tusen kronor | Budget 2025 | Plan 2026 | Plan 2027 | Plan 2028- |
+| Investeringar, belopp i tusen kronor | Budget 2025 | Plan 2026 | Plan 2027 | Plan 2028- 2029 |
 | --- | --- | --- | --- | --- |
-|  |  |  |  | 2029 |
 | Löpande | 6 700 | 3 900 | 6 500 | 13 000 |
 | Reinvesteringar | 4 200 | 7 000 | 4 200 | 8 800 |
 | Övriga investeringar | 5 000 | 5 000 | 7 000 | 14 000 |
@@ -6816,12 +6769,6 @@ Löpande investeringar, Summa   2 500     2 500     2 500    5 000
 Vård & Omsorg
 
 Service
-Investeringar, belopp i tusen kronor Budget 2025 Plan 2026 Plan 2027 Plan 2028-
-2029
-Löpande
-Övriga                         8 000     2 000    2 000     7 000
-
-Lokaler & reinvesteringar
 
 Teknik, skattefinansierat
 
@@ -6831,25 +6778,27 @@ Avgiftsfinansierad verksamhet
 
 [Tabell 149-1](handlingar.tabeller/149-1.csv)
 
-| Investeringar, belopp i tusen kronor | Budget 2025 | Plan 2026 | Plan 2027 | Plan 2028- |
+| Investeringar, belopp i tusen kronor | Budget 2025 | Plan 2026 | Plan 2027 | Plan 2028- 2029 |
 | --- | --- | --- | --- | --- |
-|  |  |  |  | 2029 |
 | Löpande investeringar | 5 500 | 6 000 | 6 000 | 12 000 |
 | Övriga investeringar | 2 550 | 2 600 | 2 650 | 5 450 |
 | Summa | 8 050 | 8 600 | 8 650 | 17 450 |
 
 [Tabell 149-2](handlingar.tabeller/149-2.csv)
 
-| Verksamhetsanpassningar | 5 000 | 5 000 | 5 000 | 10 000 |
+| Investeringar, belopp i tusen kronor | Budget 2025 | Plan 2026 | Plan 2027 | Plan 2028- 2029 |
 | --- | --- | --- | --- | --- |
+| Löpande |  |  |  |  |
+| Övriga | 8 000 | 2 000 | 2 000 | 7 000 |
+| Lokaler & reinvesteringar |  |  |  |  |
+| Verksamhetsanpassningar | 5 000 | 5 000 | 5 000 | 10 000 |
 | Reinvesteringar | 72 850 | 89 600 | 66 050 | 135 000 |
 | Summa | 85 850 | 96 600 | 73 050 | 152 000 |
 
 [Tabell 149-3](handlingar.tabeller/149-3.csv)
 
-| Investeringar, belopp i tusen kronor | Budget 2025 | Plan 2026 | Plan 2027 | Plan 2028- |
+| Investeringar, belopp i tusen kronor | Budget 2025 | Plan 2026 | Plan 2027 | Plan 2028- 2029 |
 | --- | --- | --- | --- | --- |
-|  |  |  |  | 2029 |
 | Löpande | 9 000 | 9 000 | 9 000 | 15 463 |
 | Reinvesteringar | 25 000 | 30 000 | 30 000 | 60 816 |
 | Övriga investeringar | 36 000 | 36 000 | 36 000 | 87 021 |
@@ -6857,9 +6806,8 @@ Avgiftsfinansierad verksamhet
 
 [Tabell 149-4](handlingar.tabeller/149-4.csv)
 
-| Investeringar, belopp i tusen kronor | Budget 2025 | Plan 2026 | Plan 2027 | Plan 2028- |
+| Investeringar, belopp i tusen kronor | Budget 2025 | Plan 2026 | Plan 2027 | Plan 2028- 2029 |
 | --- | --- | --- | --- | --- |
-|  |  |  |  | 2029 |
 | Kungsbacka bredband | 22 000 | 22 000 | 22 000 | 37 400 |
 | Avfall & Återvinning | 14 750 | 118 000 | 25 000 | 113 000 |
 | Vatten & Avlopp | 547 830 | 831 650 | 871 850 | 1 096 450 |
@@ -6896,20 +6844,12 @@ Kommunbudget 2025 och plan 2026–2027 57
 | Inbetalningar | -267 | -266 | -440 | -557 | -282 |
 | Utbetalningar | 277 | 418 | 367 | 361 | 207 |
 | Summa kassaflöde | 10 | 152 | -72 | -196 | -75 |
-
-[Tabell 150-2](handlingar.tabeller/150-2.csv)
-
 | Utgifter anläggningstillgång Bostäder | 56 | 167 | 222 | 309 | 163 |
-| --- | --- | --- | --- | --- | --- |
 | Utgifter anläggningstillgång Verksamheter | 45 | 64 | 47 | 34 | 33 |
 | Utgifter anläggningstillgång Övriga projekt | 76 | 87 | 50 | 0 | 0 |
 | Utgifter mark - Inv (OT) | 43 | 33 | 31 | 18 | 11 |
 | Summa balansräkning | 221 | 351 | 351 | 361 | 206 |
-
-[Tabell 150-3](handlingar.tabeller/150-3.csv)
-
 | Kostnader Bostäder drift | 0 | 26 | 11 | 0 | 1 |
-| --- | --- | --- | --- | --- | --- |
 | Kostnader Verksamheter drift | 11 | 0 | 0 | 0 | 0 |
 | Kostnader Övriga projekt drift | 45 | 40 | 0 | 0 | 0 |
 | Kostnader mark - Drift | 0 | 1 | 6 | 0 | 0 |
@@ -16936,9 +16876,6 @@ Sammandrag             5  år
 
 av verksamheten och nyckeltal
 
-2023  2022  2021  2020    2019
-Resultaträkning
-
 Balansräkning
 
 Fastigheter
@@ -16964,8 +16901,10 @@ Transaktion 09222115557513091449 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 [Tabell 366-1](handlingar.tabeller/366-1.csv)
 
-| Hyresintäkter | 417 160 | 374 664 | 362 485 | 353 694 | 346 507 |
+|  | 2023 | 2022 | 2021 | 2020 | 2019 |
 | --- | --- | --- | --- | --- | --- |
+| Resultaträkning |  |  |  |  |  |
+| Hyresintäkter | 417 160 | 374 664 | 362 485 | 353 694 | 346 507 |
 | Övriga intäkter i rörelsen | 41 710 | 36 966 | 35 835 | 35 332 | 35 965 |
 | Driftskostnader | -153 474 | -139 608 | -139 143 | -133 432 | -131 078 |
 | Underhållskostnader | -43 247 | -52 908 | -53 976 | -63 399 | -56 286 |
@@ -17229,14 +17168,6 @@ förändring           av  det    egna     kapitalet
 
 koncern
 
-" Aktieägar- " Annat eget kapital
-Aktiekapital                  Totalt
-tillskott " inkl årets resultat "
-
-Aktieägar- Balanserat Årets
-Aktiekapital Reservfond                  Totalt
-tillskott resultat resultat
-
 Aktiekapitalet omfattar 50.000 aktier om 1.000:-. Samtliga innehas av Kungsbacka kommun.
 Aktieägartillskottet är ovillkorat.
 
@@ -17245,8 +17176,9 @@ Transaktion 09222115557513091449 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 [Tabell 371-1](handlingar.tabeller/371-1.csv)
 
-| Ingående balans 2022-01-01 | 50 000 000 | 100 000 000 | 535 754 382 | 685 754 382 |
+|  | Aktiekapital | " Aktieägartillskott " | " Annat eget kapital inkl årets resultat " | Totalt |
 | --- | --- | --- | --- | --- |
+| Ingående balans 2022-01-01 | 50 000 000 | 100 000 000 | 535 754 382 | 685 754 382 |
 | Erhållet aktieägartillskott |  |  |  | 0 |
 | Förändring av eget kapital vid fusion av dotterbolag |  |  | 4 288 | 4 288 |
 | Utdelning till ägaren |  |  | -580 000 | -580 000 |
@@ -17261,8 +17193,9 @@ Transaktion 09222115557513091449 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 [Tabell 371-2](handlingar.tabeller/371-2.csv)
 
-| Ingående balans 2022-01-01 | 50 000 000 | 40 957 762 | 100 000 000 | 425 798 402 | 58 724 278 | 675 480 442 |
+|  | Aktiekapital | Reservfond | Aktieägartillskott | Balanserat resultat | Årets resultat | Totalt |
 | --- | --- | --- | --- | --- | --- | --- |
+| Ingående balans 2022-01-01 | 50 000 000 | 40 957 762 | 100 000 000 | 425 798 402 | 58 724 278 | 675 480 442 |
 | Överföring av resultat |  |  |  | 58 724 278 | -58 724 278 | 0 |
 | Utdelning till ägaren |  |  |  | -580 000 |  | -580 000 |
 | Årets resultat |  |  |  |  | 63 901 401 | 63 901 401 |
@@ -17465,30 +17398,7 @@ NOTER
 not 9 - personal
 
 KONCERN        MODERBOLAG
-
-Fördelning                                        Kvinnor   Män
-
-```osaker-tabell
-Styrelse (ordinarie ledamöten)                     43 %     57 %
-Vd och ledningsgrupp                               33 %     67 %
-Administration                                     79,5 %  20,5 %
-
-Fastighetsdrift                                     14 %    86 %
-
- Löner och andra ersättningar      2023     2022    2023   2022
-```
-
-Styrelse och VD                  1 669 794 1 610 338 1 669 794 1 610 338
-Övriga                           23 533 617 21 358 941 23 533 617 21 358 941
-
-Summa                            25 203 411 22 969 279 25 203 411 22 969 279
-Sociala avgifter enligt lag och avtal 7 962 452 7 210 557 7 962 452 7 210 557
-
-Pensionskostnader till VD och styrelse 354 858 306 680 354 858 306 680
-Pensionskostnader till övriga anställda 1 934 301 1 922 331 1 934 301 1 922 331
-Summa                            10 251 611 9 439 568 10 251 611 9 439 568
-
-not 10 - ersättning till revisionsföretag
+Medeltal anställda                2023     2022    2023   2022
 
 KONCERN        MODERBOLAG
 2023     2022    2023   2022
@@ -17502,13 +17412,33 @@ Transaktion 09222115557513091449 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 [Tabell 375-1](handlingar.tabeller/375-1.csv)
 
-| Medeltal anställda | 2023 | 2022 | 2023 | 2022 |
-| --- | --- | --- | --- | --- |
 | Administration | 21,26 | 20,50 | 21,26 | 20,50 |
+| --- | --- | --- | --- | --- |
 | Fastighetsdrift | 27,64 | 28,75 | 27,64 | 28,75 |
 | Summa antal anställda | 48,90 | 49,25 | 48,90 | 49,25 |
 
 [Tabell 375-2](handlingar.tabeller/375-2.csv)
+
+| Fördelning | Kvinnor | Män |
+| --- | --- | --- |
+| Styrelse (ordinarie ledamöten) | 43 % | 57 % |
+| Vd och ledningsgrupp | 33 % | 67 % |
+| Administration | 79,5 % | 20,5 % |
+| Fastighetsdrift | 14 % | 86 % |
+
+[Tabell 375-3](handlingar.tabeller/375-3.csv)
+
+| Löner och andra ersättningar | 2023 | 2022 | 2023 | 2022 |
+| --- | --- | --- | --- | --- |
+| Styrelse och VD | 1 669 794 | 1 610 338 | 1 669 794 | 1 610 338 |
+| Övriga | 23 533 617 | 21 358 941 | 23 533 617 | 21 358 941 |
+| Summa | 25 203 411 | 22 969 279 | 25 203 411 | 22 969 279 |
+| Sociala avgifter enligt lag och avtal | 7 962 452 | 7 210 557 | 7 962 452 | 7 210 557 |
+| Pensionskostnader till VD och styrelse | 354 858 | 306 680 | 354 858 | 306 680 |
+| Pensionskostnader till övriga anställda | 1 934 301 | 1 922 331 | 1 934 301 | 1 922 331 |
+| Summa not 10 - ersättning till revisionsföretag | 10 251 611 | 9 439 568 | 10 251 611 | 9 439 568 |
+
+[Tabell 375-4](handlingar.tabeller/375-4.csv)
 
 | Ernst & Young AB Revision | 229 742 | 306 948 | 183 581 | 256 948 |
 | --- | --- | --- | --- | --- |
@@ -17516,7 +17446,7 @@ Transaktion 09222115557513091449 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 | Kungsbacka kommun, revision | 20 000 | 29 163 | 15 000 | 23 850 |
 | Summa not 11 - resultat från finansiella investeringar | 376 702 | 414 976 | 325 541 | 359 663 |
 
-[Tabell 375-3](handlingar.tabeller/375-3.csv)
+[Tabell 375-5](handlingar.tabeller/375-5.csv)
 
 | fordringar som är anläggningstillgångar | 0 | 0 | 0 | 0 |
 | --- | --- | --- | --- | --- |
@@ -17532,6 +17462,7 @@ not 12 - skatt
 
 De huvudsakliga komponenterna när det gäller räkenskapsårets skattekostnader är följande:
 KONCERN        MODERBOLAG
+Redovisad skatt i resultaträkningen 2023   2022     2023   2022
 
 Bolaget redovisar uppskjuten skatteskuld hänförlig till temporär skillnad mellan bokföringsmässiga och skattemässiga
 värden på byggnader, samtidigt redovisar bolaget motsvarande uppskjuten skattefordran på grund av ej utnyttjade
@@ -17544,14 +17475,17 @@ Transaktion 09222115557513091449 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 [Tabell 376-1](handlingar.tabeller/376-1.csv)
 
-| Redovisad skatt i resultaträkningen | 2023 | 2022 | 2023 | 2022 |
-| --- | --- | --- | --- | --- |
 | Aktuell skatt | 11 924 517 | 10 572 660 | 11 932 377 | 10 980 706 |
+| --- | --- | --- | --- | --- |
 | Justering av aktuell skatt för tidigare år | -3 993 084 | 0 | -3 993 084 | 0 |
 | Justering investeringsavdrag på inventarier | 0 | -239 614 | 0 | -239 614 |
 | Förändring uppskjuten skatt avseende temporära skillnader | 4 261 654 | 5 735 479 | 4 261 654 | 5 735 479 |
 | Summa redovisad skatt | 12 193 087 | 16 068 525 | 12 200 947 | 16 476 571 |
+
+[Tabell 376-2](handlingar.tabeller/376-2.csv)
+
 | Avstämning av effektiv skatt | 2023 | 2022 | 2023 | 2022 |
+| --- | --- | --- | --- | --- |
 | Redovisat resultat före skatt | 84 663 452 | 78 849 130 | 84 451 275 | 80 377 972 |
 | Skatt på redovisat resultat med gällande skattesats | 17 440 671 | 16 242 921 | 17 396 963 | 16 557 862 |
 | Skatteeffekt av: |  |  |  |  |
@@ -17574,20 +17508,21 @@ NOTER
 not 13 - byggnader och mark
 
 KONCERN         MODERBOLAG
+Byggnader                        2023    2022     2023    2022
 
 2023    2022     2023    2022
 Värderingen visar på värden enligt följande: 7 125 761 000 7 541 452 000 7 025 652 000 7 420 672 000
 
 KONCERN         MODERBOLAG
+Mark                             2023    2022     2023    2022
 
 52
 Transaktion 09222115557513091449 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 [Tabell 377-1](handlingar.tabeller/377-1.csv)
 
-| Byggnader | 2023 | 2022 | 2023 | 2022 |
-| --- | --- | --- | --- | --- |
 | Ingående ackumulerade anskaffningsvärden | 4 745 446 307 | 4 412 348 447 | 4 634 690 230 | 4 299 971 320 |
+| --- | --- | --- | --- | --- |
 | Nyanskaffning under året | 3 292 162 | 0 | 0 | 0 |
 | Omklassificering | 33 043 392 | 0 | 33 043 392 | 0 |
 | Försäljning / Utrangering under året | -3 683 240 | -2 692 664 | -2 198 150 | -1 071 614 |
@@ -17603,9 +17538,8 @@ Transaktion 09222115557513091449 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 [Tabell 377-2](handlingar.tabeller/377-2.csv)
 
-| Mark | 2023 | 2022 | 2023 | 2022 |
-| --- | --- | --- | --- | --- |
 | Ingående ackumulerade anskaffningsvärden | 300 637 931 | 278 598 696 | 295 251 017 | 268 320 689 |
+| --- | --- | --- | --- | --- |
 | Nyanskaffning under året | 2 338 163 | 2 435 | 0 | 3 542 628 |
 | Försäljning / Utrangering under året | -1 400 000 | -1 350 900 | 0 | 0 |
 | Överfört från pågående nyanläggningar | 4 305 236 | 23 387 700 | 4 305 236 | 23 387 700 |

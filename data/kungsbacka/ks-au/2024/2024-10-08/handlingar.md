@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.4df3e2dd19250eca9472b7de/1728052389
 sha256: b79b3566d35f515c58585b89b813584eb644d5cc14d0c8696697dcd3b4f90e74
 bytes: 36008688
 sidor: 159
-hamtad: 2026-10-09T09:25:43+00:00
-konverterad: 2026-10-09T09:26:54+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T07:18:27+00:00
+konverterad: 2026-10-16T07:19:44+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [7, 8, 9, 10, 11, 106, 126, 127, 128]
-figurer: [7, 9, 10, 11, 18, 19, 20, 23, 24, 25, 26, 27, 28, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 42, 43, 44, 51, 53, 55, 56, 58, 60, 61, 63, 65, 66, 72, 106]
+figurer: [7, 9, 10, 11, 18, 19, 20, 23, 24, 25, 26, 27, 28, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 42, 43, 44, 58, 106]
 tolkade: []
 ---
 
@@ -1381,24 +1381,6 @@ kommunens ekonomi utgår vi ifrån fyra finansiella perspektiv: resultat, kapaci
 2.3.1 Resultat och kapacitet
 Årets resultat
 
-Utfall Utfall
-Prognos   till   till
-Årets resultat, miljoner kronor 2020 2021 2022 2023
-2024 augusti augusti
-
-```osaker-tabell
-                                                       2023  2024
-Kommunkoncern             512  530  822   291      -    291   245
-Kommunen                  415  464  756   231    144    230   209
-
-Strukturellt resultat*    369  494  572   276    153    220   219
-Resultatets andel av skatter & 7,9 8,4 13,1 3,8   2,3   5,8   5,4
-```
-
-statsbidrag %
-
-Strukturellt resultats andel av 7,1 9,0 9,9 4,6   2,5   5,5   5,6
-skatter & statsbidrag %
 \*) Exklusive jämförelsestörande poster
 
 Koncernens resultat för perioden till och med den 31 augusti var 245 miljoner kronor, varav
@@ -1419,16 +1401,23 @@ Kommunens prognos innebär en positiv budgetavvikelse med 130 miljoner kronor vi
 beror på ökade generella statsbidrag och lägre kostnader för nya verksamhetslokaler än det vi har
 planerat för.
 
-Prognos
-Skatter & generella statsbidrag, procent 2021 2022 2023
-2024
-
 Kungsbacka kommun          Delårsbokslut 2024                   5
 
 [Tabell 51-1](handlingar.tabeller/51-1.csv)
 
-| Årlig förändring skatter & statsbidrag | 5,4 | 5,0 | 4,4 | 2,5 |
+| Årets resultat, miljoner kronor | 2020 | 2021 | 2022 | 2023 | Prognos<br>2024 | Utfall<br>till<br>augusti<br>2023 | Utfall<br>till<br>augusti<br>2024 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Kommunkoncern | 512 | 530 | 822 | 291 | - | 291 | 245 |
+| Kommunen | 415 | 464 | 756 | 231 | 144 | 230 | 209 |
+| Strukturellt resultat\* | 369 | 494 | 572 | 276 | 153 | 220 | 219 |
+| Resultatets andel av skatter &<br>statsbidrag % | 7,9 | 8,4 | 13,1 | 3,8 | 2,3 | 5,8 | 5,4 |
+| Strukturellt resultats andel av<br>skatter & statsbidrag % | 7,1 | 9,0 | 9,9 | 4,6 | 2,5 | 5,5 | 5,6 |
+
+[Tabell 51-2](handlingar.tabeller/51-2.csv)
+
+| Skatter & generella statsbidrag, procent | 2021 | 2022 | 2023 | Prognos<br>2024 |
 | --- | --- | --- | --- | --- |
+| Årlig förändring skatter & statsbidrag | 5,4 | 5,0 | 4,4 | 2,5 |
 | Årlig förändring nettokostnader | 5,1 | -1,4 | 14,2 | 4,1 |
 | Årlig förändring nettokostnader löpande verksamhet | 3,4 | 3,7 | 9,2 | 4,7 |
 | Årlig förändring nettokostnader inkl. finansiella poster | 4,8 | -0,3 | 15,4 | 4,1 |
@@ -1491,12 +1480,6 @@ Kungsbacka kommun          Delårsbokslut 2024                   6
 
 <!-- sida 53 -->
 
-Prognos Augusti
-Låneskuld, miljoner kronor    2020  2021  2022  2023
-2024   2024
-Låneskuld till banker och kreditinstitut 1 550 1 450 1 300 1 200 1 300 1 200
-Genomsnittlig upplåningsränta (%) 0,55 0,54 0,71 1,30   1,57   1,35
-
 Prognosen för 2024 visar att kommunen kommer behöva låna 100 miljoner kronor under hösten.
 Det skulle innebära att låneskulden är 1,3 miljarder kronor vid årsskiftet.
 Kommunens genomsnittliga upplåningsränta fortsätter öka med anledning av de höjda
@@ -1506,12 +1489,6 @@ genomsnittsränta att öka ytterligare, eftersom nuvarande räntenivåer är hö
 
 2.3.3 Risk och kontroll
 Soliditet
-
-Augusti
-Kommunen, procent                   2020 2021 2022  2023
-2024
-Soliditet inklusive hela pensionsåtagandet 33,3 35,5 35,4 35,9 37,3
-Soliditet enligt blandmodellen       49,0 49,6 46,5 46,8    48,6
 
 Soliditeten anger hur stor del av kommunens tillgångar som är finansierade med eget kapital.
 Kommunen har stärkt soliditeten något senaste åren trots höga investeringsnivåer. I slutet av
@@ -1529,9 +1506,6 @@ tillsammans kommer använda 50 miljoner kronor mindre än budget. Som motvikt ha
 nämnder, Förskola & Grundskola och Service, som tillsammans kommer överskrida budgeten med
 
 34 miljoner kronor.
-Prognos
-Miljoner kronor                    2020 2021  2022 2023
-2024
 
 I prognosen räknar vi med att årets resultat blir 144 miljoner kronor, vilket är 130 miljoner kronor
 högre än budget. Större delen av plusresultatet finns på finans, varav skatteintäkter och
@@ -1542,8 +1516,23 @@ Kungsbacka kommun          Delårsbokslut 2024                   7
 
 [Tabell 53-1](handlingar.tabeller/53-1.csv)
 
-| Avvikelse nämnder | 141 | 157 | 105 | -53 | 15 |
+| Låneskuld, miljoner kronor | 2020 | 2021 | 2022 | 2023 | Prognos<br>2024 | Augusti<br>2024 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Låneskuld till banker och kreditinstitut | 1 550 | 1 450 | 1 300 | 1 200 | 1 300 | 1 200 |
+| Genomsnittlig upplåningsränta (%) | 0,55 | 0,54 | 0,71 | 1,30 | 1,57 | 1,35 |
+
+[Tabell 53-2](handlingar.tabeller/53-2.csv)
+
+| Kommunen, procent | 2020 | 2021 | 2022 | 2023 | Augusti<br>2024 |
 | --- | --- | --- | --- | --- | --- |
+| Soliditet inklusive hela pensionsåtagandet | 33,3 | 35,5 | 35,4 | 35,9 | 37,3 |
+| Soliditet enligt blandmodellen | 49,0 | 49,6 | 46,5 | 46,8 | 48,6 |
+
+[Tabell 53-3](handlingar.tabeller/53-3.csv)
+
+| Miljoner kronor | 2020 | 2021 | 2022 | 2023 | Prognos<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Avvikelse nämnder | 141 | 157 | 105 | -53 | 15 |
 | Avvikelse nämnder/verksamhetens kostnader (%) | 2,5 | 2,7 | 1,8 | -0,8 | 0,2 |
 | Avvikelse årets resultat | 205 | 412 | 552 | 99 | 144 |
 
@@ -1646,28 +1635,22 @@ Kommunen samarbetar alltmer med externa parter för att ta sig an samhällsutman
 på att tillsammans sätta in insatser i områden med problem, exempelvis insatsen kring
 Skårbyskolan.
 
-Indikator                           2021  2022  2023  2024 Målsättning
-2024
-Bäst att leva, Kungsbackas placering i ranking av 3 - \* - \* -\* < 20
-Sveriges kommuner (tidningen Fokus)
-Antal påbörjade bostäder            216   848   165  141    Öka
-Antal färdigställda bostäder        430   363   319  109    Öka
-
 Kungsbacka kommun          Delårsbokslut 2024                   9
+
+[Tabell 55-56-1](handlingar.tabeller/55-56-1.csv)
+
+| Indikator | 2021 | 2022 | 2023 | 2024 | Målsättning<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Bäst att leva, Kungsbackas placering i ranking av<br>Sveriges kommuner (tidningen Fokus) | 3 | - \* | - \* | -\* | < 20 |
+| Antal påbörjade bostäder | 216 | 848 | 165 | 141 | Öka |
+| Antal färdigställda bostäder | 430 | 363 | 319 | 109 | Öka |
+| Anmälda brott mot brottsbalken per invånare,<br>antal/100 000 invånare (BRÅ) | 5 321 | 5 691 | 6 475 | \*\*\* | Minska |
+| Brukarbedömning hemtjänst äldreomsorg, helhetssyn<br>(Kolada) | - \*\* | 90 % | 91 % | \*\*\* | Öka |
+| Brukarbedömning särskilt boende äldreomsorg,<br>helhetssyn (Kolada) | - \*\* | 74 % | 76 % | \*\*\* | Öka |
+| Brukarbedömning individ- och familjeomsorg, totalt –<br>helhetssyn (Kolada) | - \*\* | 88 % | - \*\* | \*\*\* | Öka |
 
 <!-- sida 56 -->
 
-Indikator                           2021  2022  2023  2024 Målsättning
-2024
-Anmälda brott mot brottsbalken per invånare, 5 321 5 691 6 475 \*\*\* Minska
-antal/100 000 invånare (BRÅ)
-Brukarbedömning hemtjänst äldreomsorg, helhetssyn - \*\* 90 % 91 % \*\*\* Öka
-(Kolada)
-
-Brukarbedömning särskilt boende äldreomsorg, - \*\* 74 % 76 % \*\*\* Öka
-helhetssyn (Kolada)
-Brukarbedömning individ- och familjeomsorg, totalt – - \*\* 88 % - \*\* \*\*\* Öka
-helhetssyn (Kolada)
 \*) Rankingen hade ett uppehåll under 2022 och analysmodellen gjordes om 2023. Därav blir resultatet inte jämförbart med tidigare år.
 \*\*) Brukarbedömning har inte gjorts det här året.
 \*\*\*) Ännu ej publicerad
@@ -1888,25 +1871,6 @@ närma sig målet. Utveckling av samverkan mellan utbildningsanordnare, arbetsgi
 Kompetenscentrum har varit en framgångsfaktor. Feriejobb och UF-företagande har gett ungdomar
 praktisk erfarenhet och ökat deras entreprenöriella kompetenser.
 
-Målsättning
-Indikator                           2021  2022 2023  2024
-2024
-Insikt, SKR:s servicemätning av kommunernas 66 70 67  \*     Öka
-myndighetsutövning till företag. Nöjd kund-index utifrån
-sammanvägt betygsindex 0–100, för hur företag i
-kommunen bedömer Kungsbacka kommuns
-myndighetsutövning, vilken är en viktig del av
-företagsklimatet.
-Svenskt näringslivs attitydundersökning av kommuners 3,5 3,4 3,4 3,8 Öka
-företagsklimat. Medelvärde utifrån skala 1–6, där företag
-bedömer företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal     27 384 28 485 \*   \*     Öka
-Andel av sysselsatt dagbefolkning inom 5,1 % 4,9 % \*  \*     5,0 %
-Göteborgsregionen
-
-Företagsamhet, andel av invånare 16 - 74 år 18 % 18 % \* \*   Öka
-Antal nystartade företag per 1 000 invånare 16 - 64 år 13,8 12,8 \* \* Öka
-(etableringsfrekvens)
 \*) Ännu ej publicerad.
 
 2.4.4 Mål: I Kungsbacka utvecklas vi hela livet
@@ -1932,6 +1896,17 @@ förstärka kopplingen mellan yrkesprogram och högskoleförberedande program oc
 Kungsbacka kommun          Delårsbokslut 2024                  14
 
 [Tabell 60-1](handlingar.tabeller/60-1.csv)
+
+| Indikator | 2021 | 2022 | 2023 | 2024 | Målsättning<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Insikt, SKR:s servicemätning av kommunernas<br>myndighetsutövning till företag. Nöjd kund-index utifrån<br>sammanvägt betygsindex 0–100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilken är en viktig del av<br>företagsklimatet. | 66 | 70 | 67 | \* | Öka |
+| Svenskt näringslivs attitydundersökning av kommuners<br>företagsklimat. Medelvärde utifrån skala 1–6, där företag<br>bedömer företagsklimatet i Kungsbacka kommun. | 3,5 | 3,4 | 3,4 | 3,8 | Öka |
+| Sysselsatt dagbefolkning, antal | 27 384 | 28 485 | \* | \* | Öka |
+| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 5,1 % | 4,9 % | \* | \* | 5,0 % |
+| Företagsamhet, andel av invånare 16 - 74 år | 18 % | 18 % | \* | \* | Öka |
+| Antal nystartade företag per 1 000 invånare 16 - 64 år<br>(etableringsfrekvens) | 13,8 | 12,8 | \* | \* | Öka |
+
+[Tabell 60-2](handlingar.tabeller/60-2.csv)
 
 | Fokusområden Trend |  |
 | --- | --- |
@@ -1972,29 +1947,21 @@ självförsörjning. Dessa grupper är personer med begränsade kunskaper i sven
 
 som varit flera år i Sverige samt personer med psykisk ohälsa.
 
-Målsättning
-Indikator                           2021 2022  2023 2024
-2024
-Genomsnittligt meritvärde för grundskolans årskurs 9. 239 237 237 \* Öka
-Meritvärdet utgörs av summan av de 17 bästa betygen
-i elevens slutbetyg och kan max vara 340. (Kolada)
-Genomsnittlig betygspoäng för gymnasiets 14,2 14,5 14,3 \*   Öka
-avgångselevers betygspoäng som kan vara max 20.
-(Kolada)
-Självkänsla och framtidstro för gymnasieelever år 2, 7,8 \*\* \*\* \*\* Öka
-index med skala 0–10 enligt Skolinspektionens
-skolenkät.
-Arbetslöshet 16–24 år i kommunen, procent (Kolada) 2,6 1,7 1,7 \* Minska
-
-Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 414 376 325 \*
-
-Andel vuxna personer som inte återkommer till 67 69 73 \*    Öka
-försörjningsstöd inom ett år efter avslutat
-försörjningsstöd, procent (Kolada)
 \*) Ännu ej publicerad
 \*\*) Frågan finns inte längre med i skolenkäten
 
 Kungsbacka kommun          Delårsbokslut 2024                  15
+
+[Tabell 61-1](handlingar.tabeller/61-1.csv)
+
+| Indikator | 2021 | 2022 | 2023 | 2024 | Målsättning<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Genomsnittligt meritvärde för grundskolans årskurs 9.<br>Meritvärdet utgörs av summan av de 17 bästa betygen<br>i elevens slutbetyg och kan max vara 340. (Kolada) | 239 | 237 | 237 | \* | Öka |
+| Genomsnittlig betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara max 20.<br>(Kolada) | 14,2 | 14,5 | 14,3 | \* | Öka |
+| Självkänsla och framtidstro för gymnasieelever år 2,<br>index med skala 0–10 enligt Skolinspektionens<br>skolenkät. | 7,8 | \*\* | \*\* | \*\* | Öka |
+| Arbetslöshet 16–24 år i kommunen, procent (Kolada) | 2,6 | 1,7 | 1,7 | \* | Minska |
+| Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) | 414 | 376 | 325 | \* |  |
+| Andel vuxna personer som inte återkommer till<br>försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd, procent (Kolada) | 67 | 69 | 73 | \* | Öka |
 
 <!-- sida 62 -->
 
@@ -2078,17 +2045,6 @@ inom organisationer i arbetsvillkor, arbetsmiljö och utvecklingsmöjligheter. J
 kommun har ökat senaste fyra åren och är nu på samma nivå som index totalt för kommuner men
 också organisationer i övrigt.
 
-Målsättning
-Indikator                        2021  2022  2023 2024
-2024
-Hållbart medarbetarengagemang, ett index för 78 78 76 \*    Öka
-medarbetarnas samlade uppfattning om områdena
-motivation, ledarskap och styrning, skala 1–100
-enligt Medarbetarenkäten.
-Jämställdhetsindex, Jämix. Antal poäng av max 180. 103 114 122 \* Öka
-Jämix beräknas utifrån nio nyckeltal med skala 1–20
-och visar hur jämställda arbetsvillkor, arbetsmiljö och
-anställningsvillkor är i organisationen
 \*) Ännu ej publicerad
 
 2.4.6 Direktiv: Innovation och omställning till nya arbetssätt
@@ -2108,6 +2064,13 @@ digitalisering. Vi har pekat ut riktning och fokus för arbetet och vi har ident
 frågor. Arbetet med att skapa förutsättningar för ett långsiktigt omställningsarbete pågår och
 
 Kungsbacka kommun          Delårsbokslut 2024                  17
+
+[Tabell 63-1](handlingar.tabeller/63-1.csv)
+
+| Indikator | 2021 | 2022 | 2023 | 2024 | Målsättning<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Hållbart medarbetarengagemang, ett index för<br>medarbetarnas samlade uppfattning om områdena<br>motivation, ledarskap och styrning, skala 1–100<br>enligt Medarbetarenkäten. | 78 | 78 | 76 | \* | Öka |
+| Jämställdhetsindex, Jämix. Antal poäng av max 180.<br>Jämix beräknas utifrån nio nyckeltal med skala 1–20<br>och visar hur jämställda arbetsvillkor, arbetsmiljö och<br>anställningsvillkor är i organisationen | 103 | 114 | 122 | \* | Öka |
 
 <!-- sida 64 -->
 
@@ -2189,12 +2152,6 @@ vågar, något som är en viktig del både för att sprida till fler och för at
 har det varit ett stort intresse från omvärlden och Kungsbacka har delat med sig erfarenheter av
 arbetet på seminarier, studiebesök och genom kontakter från andra kommuner.
 
-Målsättning
-Indikator                         2023  2024
-2024
-Andel innovationsprojekt som drivits under året \*\* - \* Öka
-Andel av bruttokostnaden som avsätts för - \*     Öka
-verksamhetsutveckling och innovation \*\*
 \*) Följs upp i årsbokslutet
 
 2.5 God ekonomisk hushållning och ekonomisk ställning
@@ -2223,6 +2180,13 @@ blir bedömningen att kommunen har en god ekonomisk hushållning.
 
 Kungsbacka kommun          Delårsbokslut 2024                  19
 
+[Tabell 65-1](handlingar.tabeller/65-1.csv)
+
+| Indikator | 2023 | 2024 | Målsättning<br>2024 |
+| --- | --- | --- | --- |
+| Andel innovationsprojekt som drivits under året \*\* | - | \* | Öka |
+| Andel av bruttokostnaden som avsätts för<br>verksamhetsutveckling och innovation \*\* | - | \* | Öka |
+
 <!-- sida 66 -->
 
 På området ekonomi är både självfinansieringsgrad och soliditet på godtagbar nivå.
@@ -2237,19 +2201,8 @@ att det kommunala bolaget Eksta når upp till de finansiella ägardirektiven, me
 bolaget har svårt att öka soliditeten samtidigt med kraven på omfattande nybyggnation.
 Kassaflöde, självfinansiering av investeringar (procent)
 
-2024                            Genomsnitt
-2022    2023
-prognos              (70 procent över en femårsperiod)
-142      67       66                                   99
-
 Soliditet i koncernen (procent)
 
-Genomsnitt
-2024
-2022    2023           (Sista årets soliditet ska vara högre än genomsnittet
-(augusti)
-för perioden 2021–2023
-29,3     32,3     33,6                                 29,6
 På området politisk inriktning visar prognosen vid utvärderingen att vi är på god väg att nå de fem
 kommunövergripande målen.
 
@@ -2273,12 +2226,32 @@ Kungsbacka kommun          Delårsbokslut 2024                  20
 
 [Tabell 66-1](handlingar.tabeller/66-1.csv)
 
+| 2022 | 2023 | 2024<br>prognos | Genomsnitt<br>(70 procent över en femårsperiod) |
+| --- | --- | --- | --- |
+| 142 | 67 | 66 | 99 |
+
+[Tabell 66-2](handlingar.tabeller/66-2.csv)
+
+| 2022 | 2023 | 2024<br>(augusti) | Genomsnitt<br>(Sista årets soliditet ska vara högre än genomsnittet<br>för perioden 2021–2023 |
+| --- | --- | --- | --- |
+| 29,3 | 32,3 | 33,6 | 29,6 |
+
+[Tabell 66-67-3](handlingar.tabeller/66-67-3.csv)
+
 | Prognos<br>Balanskravsutredning, miljoner kronor 2023<br>2024 |  |  |
 | --- | --- | --- |
 | Årets resultat enligt resultaträkningen (fullfondsmodellen) | 231 | 144 |
 | Pensionsförpliktelser före 1998 | 22 | 30 |
 | Årets resultat enligt blandmodellen | 253 | 174 |
 | - Samtliga realisationsvinster | -8 | - |
+| +Realisationsvinster enligt undantagsmöjlighet | - | - |
+| +Realisationsförluster enligt undantagsmöjlighet | - | - |
+| -/+Orealiserade vinster och förluster i värdepapper | - | - |
+| +/-Återföring av orealiserade vinster & förluster i värdepapper | - | - |
+| =Årets resultat efter balanskravsjusteringar | 245 | 174 |
+| -Reservering av medel till resultatutjämningsreserv | - | - |
+| +Användning av medel från resultatutjämningsreserv | - | - |
+| =Balanskravsresultat | 245 | 174 |
 
 <!-- sida 67 -->
 
@@ -2297,43 +2270,21 @@ lägst sjukfrånvaro. Personalomsättningen har minskat med en procentenhet till
 för föregående år. Antal medarbetare per enhetschef fortsätter minska och ligger nu på 20,9
 procent.
 
-Namn                                   Utfall januari-juni Utfall januari-juni
-
-```osaker-tabell
-                                       2023         2024
-Anställda totalt                       6 709        6 618
-Anställda andel kvinnor                79,0 %       78,9 %
-Antal medarbetare per enhetschef       21,1         20,9
-
-Andel heltid                           83,8 %       84,8 %
-Personalomsättning                     5,4 %        4,4 %
-
-Sjukfrånvaro totalt                    7,2 %        7,3 %
-```
-
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller mer 38,7 % 39,3 %
-
-Sjukfrånvaro, anställda i åldrarna 29 år eller yngre 7,5 % 7, 0 %
-
 Kungsbacka kommun          Delårsbokslut 2024                  21
 
 [Tabell 67-1](handlingar.tabeller/67-1.csv)
 
-| Prognos<br>Balanskravsutredning, miljoner kronor 2023<br>2024 |  |  |
+| Namn | Utfall januari-juni<br>2023 | Utfall januari-juni<br>2024 |
 | --- | --- | --- |
-| +Realisationsvinster enligt undantagsmöjlighet | - | - |
-| +Realisationsförluster enligt undantagsmöjlighet | - | - |
-| -/+Orealiserade vinster och förluster i värdepapper | - | - |
-| +/-Återföring av orealiserade vinster & förluster i värdepapper | - | - |
-| =Årets resultat efter balanskravsjusteringar | 245 | 174 |
-| -Reservering av medel till resultatutjämningsreserv | - | - |
-| +Användning av medel från resultatutjämningsreserv | - | - |
-| =Balanskravsresultat | 245 | 174 |
-
-[Tabell 67-2](handlingar.tabeller/67-2.csv)
-
+| Anställda totalt | 6 709 | 6 618 |
+| Anställda andel kvinnor | 79,0 % | 78,9 % |
+| Antal medarbetare per enhetschef | 21,1 | 20,9 |
+| Andel heltid | 83,8 % | 84,8 % |
+| Personalomsättning | 5,4 % | 4,4 % |
+| Sjukfrånvaro totalt | 7,2 % | 7,3 % |
+| Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller mer | 38,7 % | 39,3 % |
+| Sjukfrånvaro, anställda i åldrarna 29 år eller yngre | 7,5 % | 7, 0 % |
 | Sjukfrånvaro, anställda i åldrarna 30–49 år | 6,2 % | 6,1 % |
-| --- | --- | --- |
 | Sjukfrånvaro, anställda i åldrarna 50 år eller äldre | 8,2 % | 8,7 % |
 | Sjukfrånvaro kvinnor | 7,9 % | 8,0 % |
 | Sjukfrånvaro män | 4,6 % | 4,9 % |
@@ -2493,53 +2444,6 @@ Kungsbacka kommun          Delårsbokslut 2024                  25
 
 4.1 Driftredovisning
 
-Miljoner kronor    Delår  Delår Bokslut  Budget Prognos Prognos Avvikelse
-
-```osaker-tabell
-                   2023   2024    2023     2024    2024 avvikelse procent
-Kommunfullmäktige   -3,7   -2,6    -5,2     -4,7   -4,7      0       0
-Kommunstyrelse     -196,2 -180,7 -285,7   -285,3  -271,1   14,2     5,0
-
-Kommunrevision      -1,7   -1,8    -3,1     -3,5   -3,5      0       0
-Valnämnden          -0,2   -1,4    0,3      -2,0   -1,7     0,3     15,0
-
-Gymnasium &        -393,2 -405,5 -590,0   -626,9  -618,8    8,1     1,3
-```
-
-Arbetsmarknad
-Kultur & Fritid    -182,6 -198,7 -269,0   -288,4  -290,6   -2,2     -0,8
-
-Förskola & Grundskola -1 474,2 -1 503,8 -2 213,4 -2 276,6 -2 296,0 -19,4 -0,9
-
-```osaker-tabell
-Teknik skatt       -157,4 -167,9 -227,1   -246,4  -245,4    1,0     0,4
-
-Service*           -57,5  -43,7   -98,9    -71,0   -85,9  -14,9   -21,0**
-Miljö & Hälsoskydd  -0,7   -0,6    -1,0     -1,0   -0,9     0,1     10,0
-
-Byggnadsnämnd      -27,3  -25,4   -38,7    -39,1   -39,1     0       0
-Individ & Familjeomsorg -510,0 -541,7 -764,9 -790,6 -790,6   0       0
-```
-
-Vård & Omsorg      -710,9 -746,6 -1 070,3 -1 159,7 -1 131,7 28,0    2,4
-Summa            -3 715,6 -3 820,4 -5 567,0 -5 795,2 -5 780,0 15,2  0,3
-Skattefinansierade
-nämnder
-Exploatering        17,1   -0,5    51,1     -4,3   26,5    30,8
-
-Finansförvaltning, övriga -51,2 -89,4 -253,6 -276,3 -295,0 -18,7    -6,8
-verksamhetskostnader
-exklusive skatteintäkter
-och finansnetto
-Eliminering/ Justering 73,4 164,1 131,9    166,3  182,2    15,9
-poster som ej är
-hänförbara till
-verksamhetens intäkter
-och kostnader i
-resultaträkningen
-Verksamhetens intäkter -3 676,3 -3 746,2 -5 637,6 -5 909,5 -5 866,3 43,2 0,7
-och kostnader enligt
-resultaträkningen
 \* Jämförelsetalen för 2023 är justerade med anledning av övergång till finansiell leasing för hyror.
 \*\* Service har en budgetavvikelse som i relation till totala budgetomsättningen motsvarar 0,2 procent
 
@@ -2548,6 +2452,29 @@ Kommunens skattefinansierade verksamheter prognostiserar tillsammans ett översk
 miljoner kronor, vilket motsvarar 0,3 procent av tilldelad budgetram.
 
 Kungsbacka kommun          Delårsbokslut 2024                  26
+
+[Tabell 72-1](handlingar.tabeller/72-1.csv)
+
+| Miljoner kronor | Delår<br>2023 | Delår<br>2024 | Bokslut<br>2023 | Budget<br>2024 | Prognos<br>2024 | Prognos<br>avvikelse | Avvikelse<br>procent |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Kommunfullmäktige | -3,7 | -2,6 | -5,2 | -4,7 | -4,7 | 0 | 0 |
+| Kommunstyrelse | -196,2 | -180,7 | -285,7 | -285,3 | -271,1 | 14,2 | 5,0 |
+| Kommunrevision | -1,7 | -1,8 | -3,1 | -3,5 | -3,5 | 0 | 0 |
+| Valnämnden | -0,2 | -1,4 | 0,3 | -2,0 | -1,7 | 0,3 | 15,0 |
+| Gymnasium &<br>Arbetsmarknad | -393,2 | -405,5 | -590,0 | -626,9 | -618,8 | 8,1 | 1,3 |
+| Kultur & Fritid | -182,6 | -198,7 | -269,0 | -288,4 | -290,6 | -2,2 | -0,8 |
+| Förskola & Grundskola | -1 474,2 | -1 503,8 | -2 213,4 | -2 276,6 | -2 296,0 | -19,4 | -0,9 |
+| Teknik skatt | -157,4 | -167,9 | -227,1 | -246,4 | -245,4 | 1,0 | 0,4 |
+| Service\* | -57,5 | -43,7 | -98,9 | -71,0 | -85,9 | -14,9 | -21,0\*\* |
+| Miljö & Hälsoskydd | -0,7 | -0,6 | -1,0 | -1,0 | -0,9 | 0,1 | 10,0 |
+| Byggnadsnämnd | -27,3 | -25,4 | -38,7 | -39,1 | -39,1 | 0 | 0 |
+| Individ & Familjeomsorg | -510,0 | -541,7 | -764,9 | -790,6 | -790,6 | 0 | 0 |
+| Vård & Omsorg | -710,9 | -746,6 | -1 070,3 | -1 159,7 | -1 131,7 | 28,0 | 2,4 |
+| Summa<br>Skattefinansierade<br>nämnder | -3 715,6 | -3 820,4 | -5 567,0 | -5 795,2 | -5 780,0 | 15,2 | 0,3 |
+| Exploatering | 17,1 | -0,5 | 51,1 | -4,3 | 26,5 | 30,8 |  |
+| Finansförvaltning, övriga<br>verksamhetskostnader<br>exklusive skatteintäkter<br>och finansnetto | -51,2 | -89,4 | -253,6 | -276,3 | -295,0 | -18,7 | -6,8 |
+| Eliminering/ Justering<br>poster som ej är<br>hänförbara till<br>verksamhetens intäkter<br>och kostnader i<br>resultaträkningen | 73,4 | 164,1 | 131,9 | 166,3 | 182,2 | 15,9 |  |
+| Verksamhetens intäkter<br>och kostnader enligt<br>resultaträkningen | -3 676,3 | -3 746,2 | -5 637,6 | -5 909,5 | -5 866,3 | 43,2 | 0,7 |
 
 <!-- sida 73 -->
 
@@ -2640,55 +2567,36 @@ Prognosen visar att bruttoinvesteringarna i Kungsbacka kommun exklusive finansie
 bruttoinvesteringarna för respektive nämnd. Om man räknar med årets investeringsinkomster på
 80 miljoner kronor innebär det nettoinvesteringar på 891 miljoner kronor.
 
-Miljoner kronor    Delår   Delår Budget  Prognos  Prognos Avvikelse
-2023   2024   2024      2024  avvikelse procent
-Gymnasium &          1,4    0,9    4,6       4,6      0,0       0
-Arbetsmarknad
-
-exploatering
-(anläggningstillgångar)\*
-
-(Anläggningstillgångar)
-Summa skattefinansierad 333,8 257,0 874,6  551,6    323,1     36,9
-verksamhet
-
 Kungsbacka kommun          Delårsbokslut 2024                  28
 
-[Tabell 74-1](handlingar.tabeller/74-1.csv)
+[Tabell 74-75-1](handlingar.tabeller/74-75-1.csv)
 
-| Kultur & Fritid | 16,4 | 8,3 | 26,2 | 13,8 | 12,4 | 47,3 |
+| Miljoner kronor | Delår<br>2023 | Delår<br>2024 | Budget<br>2024 | Prognos<br>2024 | Prognos<br>avvikelse | Avvikelse<br>procent |
 | --- | --- | --- | --- | --- | --- | --- |
+| Gymnasium &<br>Arbetsmarknad | 1,4 | 0,9 | 4,6 | 4,6 | 0,0 | 0 |
+| Kultur & Fritid | 16,4 | 8,3 | 26,2 | 13,8 | 12,4 | 47,3 |
 | Förskola & Grundskola | 5,2 | 5,0 | 15,0 | 15,0 | 0,0 | 0 |
 | Teknik Skatt | 105,0 | 39,4 | 130,2 | 92,7 | 37,5 | 28,8 |
-| -varav Teknik Skatt | 12,4 | 13,3 | 39,4 | 23,5 | 15,9 | 40,4 |
-
-[Tabell 74-2](handlingar.tabeller/74-2.csv)
-
+| -varav Teknik Skatt<br>exploatering<br>(anläggningstillgångar)\* | 12,4 | 13,3 | 39,4 | 23,5 | 15,9 | 40,4 |
 | Service | 202,4 | 138,9 | 420,7 | 301,0 | 119,6 | 28,4 |
-| --- | --- | --- | --- | --- | --- | --- |
 | -varav finansiell leasing | 11,4 | 0,3 | 0,0 | 2,8 | -2,8 |  |
 | Byggnadsnämnden | 0,1 | 0,1 | 0,1 | 0,1 | 0 | 0,0 |
 | Individ & Familjeomsorg | 0,4 | 0,2 | 2,7 | 2,0 | 0,7 | 25,9 |
 | Vård & Omsorg | 2,0 | 1,8 | 19,0 | 10,5 | 8,5 | 44,7 |
 | Finansiering lokalplan | 0,0 | 0,0 | 158,8 | 23,3 | 135,5 | 85,3 |
-| Exploateringsverksamhet\* | 0,8 | 62,4 | 97,5 | 88,6 | 8,9 | 9,1 |
-
-[Tabell 74-3](handlingar.tabeller/74-3.csv)
-
+| Exploateringsverksamhet\*<br>(Anläggningstillgångar) | 0,8 | 62,4 | 97,5 | 88,6 | 8,9 | 9,1 |
+| Summa skattefinansierad<br>verksamhet | 333,8 | 257,0 | 874,6 | 551,6 | 323,1 | 36,9 |
 | Vatten & Avlopp | 190,6 | 201,9 | 591,6 | 389,2 | 202,5 | 34,2 |
-| --- | --- | --- | --- | --- | --- | --- |
 | Avfall & Återvinning | 0,8 | 1,1 | 37,5 | 4,0 | 33,5 | 89,3 |
 | Kungsbacka Bredbandsnät | 24,8 | 26,8 | 23,3 | 29,4 | -6,1 | -26,2 |
+| Summa avgiftsfinansierad<br>verksamhet | 216,2 | 229,9 | 652,5 | 422,6 | 229,9 | 35,2 |
+| Summa investeringar | 550,2 | 486,9 | 1 527,1 | 974,1 | 551,7 | 36,1 |
+| varav finansiell leasing | 11,4 | 0,3 | 0,0 | 2,8 | -2,8 |  |
+| varav gåvor | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 |  |
+| Summa investeringar<br>exklusive finansiell leasing<br>och gåvor | 538,7 | 486,7 | 1 527,1 | 971,3 | 555,7 | 36,4 |
 
 <!-- sida 75 -->
 
-Miljoner kronor    Delår   Delår Budget  Prognos  Prognos Avvikelse
-2023   2024   2024      2024  avvikelse procent
-Summa avgiftsfinansierad 216,2 229,9 652,5 422,6    229,9     35,2
-verksamhet
-
-exklusive finansiell leasing
-och gåvor
 \*Se beskrivning av exploateringsverksamheten på sid 30-31
 
 Investeringar i skattefinansierad verksamhet
@@ -2722,46 +2630,21 @@ något i tiden.
 
 Vatten och avlopp
 
-Miljoner kronor            Delår   Delår  Budget  Prognos Avvikelse
-
-```osaker-tabell
-                            2023   2024     2024     2024
-Utgifter                   -190,6 -201,9   -591,6   -389,1    196
-Inkomster                   20,9   26,7    125,5     70,5    -48,5
-Nettoinvesteringar         -169,7 -175,2   -466,1   -318,6   147,5
-```
-
 Kungsbacka kommun          Delårsbokslut 2024                  29
 
 [Tabell 75-1](handlingar.tabeller/75-1.csv)
 
-| Summa investeringar | 550,2 | 486,9 | 1 527,1 | 974,1 | 551,7 | 36,1 |
-| --- | --- | --- | --- | --- | --- | --- |
-| varav finansiell leasing | 11,4 | 0,3 | 0,0 | 2,8 | -2,8 |  |
-| varav gåvor | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 |  |
-| Summa investeringar | 538,7 | 486,7 | 1 527,1 | 971,3 | 555,7 | 36,4 |
+| Miljoner kronor | Delår<br>2023 | Delår<br>2024 | Budget<br>2024 | Prognos<br>2024 | Avvikelse |
+| --- | --- | --- | --- | --- | --- |
+| Utgifter | -190,6 | -201,9 | -591,6 | -389,1 | 196 |
+| Inkomster | 20,9 | 26,7 | 125,5 | 70,5 | -48,5 |
+| Nettoinvesteringar | -169,7 | -175,2 | -466,1 | -318,6 | 147,5 |
 
 <!-- sida 76 -->
 
 Återvinning och avfall
-Miljoner kronor            Delår   Delår  Budget  Prognos Avvikelse
-
-```osaker-tabell
-                            2023   2024     2024     2024
-Utgifter                     0,8    -1,1   -37,5      -4,0    33,5
-Inkomster                     0      0        0        0        0
-Nettoinvesteringar           0,8    -1,1   -37,5      -4,0    33,5
-```
 
 Bredband
-Miljoner kronor            Delår   Delår  Budget  Prognos Avvikelse
-
-```osaker-tabell
-                            2023   2024     2024     2024
-Utgifter                   -24,8   -26,8   -23,3     -29,4    -6,1
-Inkomster                     2     3,3     -1,2      5,0      6,2
-Nettoinvesteringar         -22,8   -23,5   -24,5     -24,4     0,1
-```
 
 Pågående större investeringar
 
@@ -2795,6 +2678,22 @@ första kvarteren i kvarteret Valand, Väster om ån, blev klara 2022, men under
 Kungsbacka kommun          Delårsbokslut 2024                  30
 
 [Tabell 76-1](handlingar.tabeller/76-1.csv)
+
+| Miljoner kronor | Delår<br>2023 | Delår<br>2024 | Budget<br>2024 | Prognos<br>2024 | Avvikelse |
+| --- | --- | --- | --- | --- | --- |
+| Utgifter | 0,8 | -1,1 | -37,5 | -4,0 | 33,5 |
+| Inkomster | 0 | 0 | 0 | 0 | 0 |
+| Nettoinvesteringar | 0,8 | -1,1 | -37,5 | -4,0 | 33,5 |
+
+[Tabell 76-2](handlingar.tabeller/76-2.csv)
+
+| Miljoner kronor | Delår<br>2023 | Delår<br>2024 | Budget<br>2024 | Prognos<br>2024 | Avvikelse |
+| --- | --- | --- | --- | --- | --- |
+| Utgifter | -24,8 | -26,8 | -23,3 | -29,4 | -6,1 |
+| Inkomster | 2 | 3,3 | -1,2 | 5,0 | 6,2 |
+| Nettoinvesteringar | -22,8 | -23,5 | -24,5 | -24,4 | 0,1 |
+
+[Tabell 76-3](handlingar.tabeller/76-3.csv)
 
 | Ack utfall<br>Prognos för Budget för<br>Miljoner kronor totalt tom Prognos 2024 Avvikelse<br>projekt projekt<br>aug 2024 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |

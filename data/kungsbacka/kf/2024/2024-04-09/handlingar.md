@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.2bd99fa118e5fb3b33b330c8/1712576621
 sha256: 1cc5610bd0ac3a1771e390f1f8b979b944873c65bb5ac668e30ceef55fc9da4a
 bytes: 23135313
 sidor: 319
-hamtad: 2026-10-12T23:23:50+00:00
-konverterad: 2026-10-12T23:25:20+00:00
-pipeline: kommunhandlingar 0.8.7 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T10:42:52+00:00
+konverterad: 2026-10-16T10:44:10+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [45, 51, 62, 63, 64, 65, 66, 80, 81, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 109, 147, 148, 149, 151, 215, 216, 238, 240, 311, 312, 313]
+tal_obekraftade: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 32, 33, 45, 51, 62, 63, 64, 65, 66, 80, 81, 90, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 109, 129, 130, 147, 148, 149, 151, 215, 216, 238, 240, 273, 274, 311, 312, 313]
 figurer: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 40, 43, 44, 45, 48, 49, 56, 57, 59, 62, 63, 64, 66, 67, 70, 71, 74, 75, 76, 79, 81, 88, 89, 90, 92, 93, 97, 98, 99, 100, 101, 102, 103, 104, 105, 108, 110, 113, 115, 196, 197, 202, 238, 239, 240, 241, 286, 287]
 tolkade: []
 ---
@@ -5214,17 +5214,15 @@ av tabellen justerar vi för interna poster för att kunna härleda beloppen til
 resultaträkningens rad för verksamhetens nettokostnader. Mer om hur de olika finansiella
 rapporterna hänger ihop framgår av särskilt avsnitt. För mer ingående analyser av nämnderna
 hänvisar vi till nämndernas egna årsredovisningar som är tillgängliga på kommunens webbplats.
-Nämnd            Budget        Bokslut 2023          Bokslut 2022
-2023
-Netto-             Netto-                   Netto-
-Belopp i mnkr    anslag Intäkter Kostnader kostnader Avvikelse Intäkter Kostnader kostnader
 
 68 Kungsbacka kommuns årsredovisning 2023
 
 [Tabell 106-1](handlingar.tabeller/106-1.csv)
 
-| Kommunfullmäktige | -6,7 | 0,0 | -5,2 | -5,2 | 1,5 | 0,0 | -3,5 | -3,5 |
+| Nämnd | Budget 2023 | Bokslut 2023 |  |  |  | Bokslut 2022 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Belopp i mnkr | Nettoanslag | Intäkter | Kostnader | Nettokostnader | Avvikelse | Intäkter | Kostnader | Nettokostnader |
+| Kommunfullmäktige | -6,7 | 0,0 | -5,2 | -5,2 | 1,5 | 0,0 | -3,5 | -3,5 |
 | Kommunstyrelsen | -287,7 | 30,0 | -315,7 | -285,7 | 2,0 | 28,2 | -282,1 | -253,9 |
 | Kommunrevision | -3,3 | 0,3 | -3,3 | -3,1 | 0,3 | 0,0 | -3,1 | -3,1 |
 | Valnämnden | -1,0 | 0,0 | -0,3 | -0,3 | 0,8 | 2,3 | -3,7 | -1,4 |

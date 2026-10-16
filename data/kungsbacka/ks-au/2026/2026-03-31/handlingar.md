@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.7607344a19d24be2a5e1ffb6/1774531066
 sha256: 4403e9224b26a4d2b9af1415f0889948e3b4950704e0b59df7f8d6fc5ff1ecdb
 bytes: 19233767
 sidor: 386
-hamtad: 2026-10-09T11:56:02+00:00
-konverterad: 2026-10-09T12:00:05+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T09:43:59+00:00
+konverterad: 2026-10-16T09:48:01+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad]
 tal_obekraftade: [24, 25, 26, 27, 42, 43, 44, 45, 46, 48, 82, 106, 107, 209, 210, 221, 277, 278, 288, 289, 298, 299, 300, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 377, 378, 383, 384, 385, 386]
 figurer: [33, 69, 70, 84, 90, 103, 132, 212, 214, 216, 218, 219, 220, 222, 223, 224, 226, 227, 228, 230, 231, 232, 233, 234, 236, 237, 238, 240, 241, 242, 243, 244, 245, 246, 248, 249, 250, 251, 252, 254, 255, 256, 258, 260, 262, 263, 264, 266, 268, 269, 270, 272, 273, 274, 275, 276, 279, 280, 281, 282, 283, 284, 285, 286, 290, 292, 293, 294, 295, 296, 302, 304, 306, 308, 310, 312, 315, 379, 381, 382]
 tolkade: []
@@ -55,7 +55,7 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-5-1](handlingar.tabeller/2-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -66,6 +66,15 @@ KUNGSBACKA  KOMMUN
 | 6. | Antagande av policy och<br>riktlinjer för<br>inköpsverksamheten i<br>Kungsbacka kommun | KS-2026-00163 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Policy för inköp,<br>Riktlinjer för inköp och Riktlinjer för<br>direktupphandling, daterade 2026-02-06.<br>Policy för inköp och Riktlinjer för inköp, antagna av<br>kommunfullfullmäktige 2021-03-09 § 30, samt<br>Riktlinjer för direktupphandling, antagen av<br>kommunfullmäktige 2022-10-18 § 160, upphör<br>samtidigt att gälla. |
 | 7. | Svar på länsstyrelsen i Hallands<br>remiss av regional<br>handlingsplan för elektrifiering | KS-2025-00944 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-03-04,<br>och översänder det som sitt svar till Länsstyrelsen i<br>Hallands län. |
 | 8. | Svar på Varbergs kommuns<br>remiss av fördjupad<br>översiktsplan för Väröbacka | KS-2026-00149 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2026-03-02,<br>och översänder det som sitt svar till Varbergs<br>kommun. |
+| 9. | Förlängning av principavtal och<br>markanvisning med Doxa<br>Anneberg AB, detaljplan för<br>utveckling av Annebergs<br>centrum | KS-2019-00257 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner begäran från Doxa<br>Anneberg AB, innebärande att gällande principavtal<br>och markanvisning avseende ny detaljplan för<br>Annebergs centrum, förlängs med två år till 26 maj<br>2028, på i övrigt oförändrade avtalsvillkor. |
+| 10. | Godkännande av förslag till<br>exploateringsavtal och<br>överenskommelse om<br>fastighetsreglering avseende<br>detaljplan för verksamheter och<br>bostäder inom Åsa<br>5:156 och 5:14 m.fl. i Åsa | KS-2026-00064 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner exploateringsavtal<br>avseende detaljplan för verksamheter och bostäder<br>inom Åsa 5:156 och Åsa 5:14 m.fl., mellan<br>kommunen å ena sidan och West Sörvik AB samt<br>Sörviksvägen 7 Åsa AB, å andra sidan, undertecknat<br>av bolagen 2026-02-27.<br>Kommunstyrelsen godkänner överenskommelse om<br>fastighetsreglering mellan kommunen och<br>Sörviksvägen 7 Åsa AB undertecknat av bolaget<br>2026-02-27, genom vilken mark för<br>parkeringsändamål ska överföras från kommunens<br>fastighet till bolagets fastighet, mot en ersättning på<br>529 000 kronor.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalen<br>samt övriga nödvändiga handlingar för avtalens<br>genomförande. |
+| 11. | Begäran om planbesked för del<br>av Kolla 5:2 | KS-2026-00097 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av handel och verksamheter inom del<br>av Kolla 5:2, i Kungsbacka.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för handel och verksamheter inom del av<br>Kolla 5:2, i Kungsbacka. |
+| 12. | Avstämning och information<br>om startplan<br>09:15-10:00<br>Ida Lennartsson<br>Johan Gerremo<br>Sofia Wiman<br>Thure Sandén (BNAU)<br>Heinrich Kaufmann (BNAU)<br>Lars Eriksson (BNAU)<br>Daniel Hognert (BNAU)<br>Stefan Vilumsons (BNAU) | KS-2026-00018 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 13. | Information om<br>Samhällsbyggnadskontorets<br>arbete med planbesked, tidiga<br>förfrågningar och förhands-<br>besked inom utvecklingsort<br>10:15-10:45<br>Stina Wikström<br>Ida Lennartsson | KS-2026-00043 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 14. | Information markförläggning av<br>kraftledning Klovsten-Gräskärr<br>– Ellevio<br>10:50-11:20<br>Lena Melvinsdotter<br>Johan Gerremo | KS-2019-00488 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 15. | Avstämning kring utredning av<br>premie till jägare för fällda<br>vildsvin<br>11:25-11:45<br>Mårten Västerdal<br>Anders Lund | KS-2025-00881 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 16. | Information om status i projekt<br>Naturum<br>11:45-12:00<br>Maria Rosenberg<br>Julia Tryggvadottir Tollesson | KS-2025-00714 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 17. | Information ledamöter och<br>förvaltning | KS-2025-00975 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
 
 <!-- sida 3 -->
 
@@ -73,28 +82,11 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 9. | Förlängning av principavtal och<br>markanvisning med Doxa<br>Anneberg AB, detaljplan för<br>utveckling av Annebergs<br>centrum | KS-2019-00257 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner begäran från Doxa<br>Anneberg AB, innebärande att gällande principavtal<br>och markanvisning avseende ny detaljplan för<br>Annebergs centrum, förlängs med två år till 26 maj<br>2028, på i övrigt oförändrade avtalsvillkor. |
-| 10. | Godkännande av förslag till<br>exploateringsavtal och<br>överenskommelse om<br>fastighetsreglering avseende<br>detaljplan för verksamheter och<br>bostäder inom Åsa<br>5:156 och 5:14 m.fl. i Åsa | KS-2026-00064 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner exploateringsavtal<br>avseende detaljplan för verksamheter och bostäder<br>inom Åsa 5:156 och Åsa 5:14 m.fl., mellan<br>kommunen å ena sidan och West Sörvik AB samt<br>Sörviksvägen 7 Åsa AB, å andra sidan, undertecknat<br>av bolagen 2026-02-27.<br>Kommunstyrelsen godkänner överenskommelse om<br>fastighetsreglering mellan kommunen och<br>Sörviksvägen 7 Åsa AB undertecknat av bolaget<br>2026-02-27, genom vilken mark för<br>parkeringsändamål ska överföras från kommunens<br>fastighet till bolagets fastighet, mot en ersättning på<br>529 000 kronor.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalen<br>samt övriga nödvändiga handlingar för avtalens<br>genomförande. |
-| 11. | Begäran om planbesked för del<br>av Kolla 5:2 | KS-2026-00097 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>avser att inleda en detaljplanläggning för att pröva<br>lämpligheten av handel och verksamheter inom del<br>av Kolla 5:2, i Kungsbacka.<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram en projektbeställning för upprättande av<br>detaljplan för handel och verksamheter inom del av<br>Kolla 5:2, i Kungsbacka. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 12. | Avstämning och information<br>om startplan<br>09:15-10:00<br>Ida Lennartsson<br>Johan Gerremo<br>Sofia Wiman<br>Thure Sandén (BNAU)<br>Heinrich Kaufmann (BNAU)<br>Lars Eriksson (BNAU)<br>Daniel Hognert (BNAU)<br>Stefan Vilumsons (BNAU) | KS-2026-00018 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 13. | Information om<br>Samhällsbyggnadskontorets<br>arbete med planbesked, tidiga<br>förfrågningar och förhands-<br>besked inom utvecklingsort<br>10:15-10:45<br>Stina Wikström<br>Ida Lennartsson | KS-2026-00043 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 14. | Information markförläggning av<br>kraftledning Klovsten-Gräskärr<br>– Ellevio<br>10:50-11:20<br>Lena Melvinsdotter<br>Johan Gerremo | KS-2019-00488 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 15. | Avstämning kring utredning av<br>premie till jägare för fällda<br>vildsvin<br>11:25-11:45<br>Mårten Västerdal<br>Anders Lund | KS-2025-00881 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
 
 <!-- sida 5 -->
 
@@ -104,13 +96,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Therese Tanner
 ordförande                        sekreterare
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 16. | Information om status i projekt<br>Naturum<br>11:45-12:00<br>Maria Rosenberg<br>Julia Tryggvadottir Tollesson | KS-2025-00714 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 17. | Information ledamöter och<br>förvaltning | KS-2025-00975 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
 
 <!-- sida 6 -->
 
@@ -397,11 +382,6 @@ KUNGSBACKA  KOMMUN
 
 Resultatfonder
 
-Nämnd/Styrelse Belopp i UB 2025 Bokslut Nämndens Förslag Förslag IB 2026
-tusentals kronor         2025     begäran
-
-Arbetsmarknad
-
 Nämndernas inlämnade förslag innebär en ökning av resultatfonderna med 66 059 000 kronor. Efter
 genomgång föreslås ökningen bli 88 162 000 kronor. Nämndernas ingående resultatfonder 2025 uppgår
 till 507 399 000 kronor. Efter förslag till resultathantering uppgår nämndernas totala resultatfonder
@@ -412,22 +392,17 @@ I samband med bokslutet för 2025 finns pågående projekt som fortsätter 2026.
 omfördela dessa från anslaget för oförutsett, som finns avsatt med olika belopp hos kommunstyrelsen
 och kommunfullmäktige.
 
-Belopp i tusentals Nämndernas Förslag till
-kronor               begäran kommunfullmäktige
-
 [Tabell 12-1](handlingar.tabeller/12-1.csv)
 
-| Kommunfullmäktige | 0 | 207 | 0 | 0 | 0 |
+| Nämnd/Styrelse Belopp i tusentals kronor | UB 2025 | Bokslut 2025 | Nämndens begäran | Förslag | Förslag IB 2026 |
 | --- | --- | --- | --- | --- | --- |
+| Kommunfullmäktige | 0 | 207 | 0 | 0 | 0 |
 | Kommunstyrelsen | 0 | 16 523 | 0 | 0 | 0 |
 | Kommunrevision | 0 | 294 | 0 | 0 | 0 |
 | Valnämnden | 0 | 41 | 0 | 0 | 0 |
 | Gymnasium & | 77 300 | 1 800 | 300 | 300 | 77 600 |
-
-[Tabell 12-2](handlingar.tabeller/12-2.csv)
-
+| Arbetsmarknad |  |  |  |  |  |
 | Kultur & Fritid | 29 615 | 1 494 | 201 | 201 | 29 816 |
-| --- | --- | --- | --- | --- | --- |
 | Förskola & Grundskola | 125 705 | 19 408 | 19 408 | 19 047 | 144 752 |
 | Teknik Skatt | 4 528 | 5 977 | 5 977 | 460 | 4 988 |
 | Miljö & Hälsoskydd | 0 | 108 | 0 | 0 | 0 |
@@ -439,10 +414,11 @@ kronor               begäran kommunfullmäktige
 | Finans | 11 266 | 200 239 | 0 | 0 | 11 266 |
 | Totalt | 507 399 | 343 645 | 66 059 | 88 162 | 595 561 |
 
-[Tabell 12-3](handlingar.tabeller/12-3.csv)
+[Tabell 12-2](handlingar.tabeller/12-2.csv)
 
-| Service | 48 847 | 18 357 |
+| Belopp i tusentals kronor | Nämndernas begäran | Förslag till kommunfullmäktige |
 | --- | --- | --- |
+| Service | 48 847 | 18 357 |
 | Kultur & Fritid | 640 | 0 |
 | KS lokalplan | 1 260 | 1 260 |
 | Summa | 50 747 | 19 617 |
@@ -589,14 +565,18 @@ Löpande årliga investeringar 68 855 4 500 - - 4 500   68 855  -
 Övriga och reinvesteringar 156 600 100 146 - 4 000 3 500 260 246 - 4 000
 Lokaler           199 580 210 403    - - 117 580 37 000 292 403 37 000
 Avgiftsfinansierad verksamhet 918 650 38 123 - - 37 622 37 622 919 151 37 622
-Delsumma     1 343 685 353 172 - 4 000 - 156 202 74 622 1 540 655 7 0 622
+Delsumma     1 343 685 353 172 - 4 000 - 156 202 74 622 1 540 655 70 622
 Exploateringsinvesteringar och
 omsättningstillgångar 128 362 - 37 469 -    -         90 893  -
-SUMMA       1 472 047 315 703 - 4 000 - 156 202 74 622 1 631 548 7 0 622
+SUMMA       1 472 047 315 703 - 4 000 - 156 202 74 622 1 631 548 70 622
 Ombudget förslag:          2026    2027 2026-2027
-Totalt förslag från nämnderna 315 703 -4 000 311 703
-Förslag till kommunfullmäktige 159 501 70 622 230 123
-Förändring gentemot nämndernas förslag -156 202 74 622 -81 580
+
+[Tabell 16-1](handlingar.tabeller/16-1.csv)
+
+| Totalt förslag från nämnderna | 315 703 | -4 000 | 311 703 |
+| --- | --- | --- | --- |
+| Förslag till kommunfullmäktige | 159 501 | 70 622 | 230 123 |
+| Förändring gentemot nämndernas förslag | -156 202 | 74 622 | -81 580 |
 
 <!-- sida 17 -->
 
@@ -612,14 +592,18 @@ Löpande årliga investeringar 68 855 4 500 - - 4 500   68 855  -
 Övriga och reinvesteringar 156 600 100 146 - 4 000 3 500 260 246 - 4 000
 Lokaler           199 580 210 403    - - 117 580 37 000 292 403 37 000
 Avgiftsfinansierad verksamhet 918 650 38 123 - - 37 622 37 622 919 151 37 622
-Delsumma     1 343 685 353 172 - 4 000 - 156 202 74 622 1 540 655 7 0 622
+Delsumma     1 343 685 353 172 - 4 000 - 156 202 74 622 1 540 655 70 622
 Exploateringsinvesteringar och
 omsättningstillgångar 128 362 - 37 469                90 893  -
-SUMMA       1 472 047 315 703 - 4 000 - 156 202 74 622 1 631 548 7 0 622
+SUMMA       1 472 047 315 703 - 4 000 - 156 202 74 622 1 631 548 70 622
 Ombudget förslag:          2025    2026 2025-2026
-Totalt förslag från nämnderna 315 703 -4 000 311 703
-Förslag till kommunfullmäktige 159 501 70 622 230 123
-Förändring gentemot nämndernas förslag -156 202 74 622 -81 580
+
+[Tabell 17-1](handlingar.tabeller/17-1.csv)
+
+| Totalt förslag från nämnderna | 315 703 | -4 000 | 311 703 |
+| --- | --- | --- | --- |
+| Förslag till kommunfullmäktige | 159 501 | 70 622 | 230 123 |
+| Förändring gentemot nämndernas förslag | -156 202 | 74 622 | -81 580 |
 
 <!-- sida 18 -->
 
@@ -648,24 +632,19 @@ Löpande investeringar ombudgeteras ej enligt gällande ekonomistryrprinciper
 
 <!-- sida 19 -->
 
-Förändring
-gentemot Summa ny  Förslag
-nämndernas budget förändring ny
-förslag 2027 2026 budget 2027
+[Tabell 19-1](handlingar.tabeller/19-1.csv)
 
-```osaker-tabell
-     15 000       0
-      3 900       0
-
-      7 150       0
-      2 500       0
-       255        0
-     24 400       0
-      6 000       0
-
-      9 650       0
-0    68 855       0
-```
+| Förändring<br>gentemot<br>nämndernas<br>förslag 2027 | Summa ny<br>budget<br>2026 | Förslag<br>förändring ny<br>budget 2027 |
+| --- | --- | --- |
+|  | 15 000 | 0 |
+|  | 3 900 | 0 |
+|  | 7 150 | 0 |
+|  | 2 500 | 0 |
+|  | 255 | 0 |
+|  | 24 400 | 0 |
+|  | 6 000 | 0 |
+|  | 9 650 | 0 |
+| 0 | 68 855 | 0 |
 
 <!-- sida 20 -->
 
@@ -735,18 +714,18 @@ Nämndernas
 förslag till
 Budget   ombudget
 2026       2026
-Summa BM                          2 650
 
-Kultur & Fritid
-KF budgetram 2026                12 000     19 748
-Summa Kultur & Fritid            12 000     19 748
+[Tabell 21-1](handlingar.tabeller/21-1.csv)
 
-KS Finans
-KF budgetram 2026                60 500
-
-Summa KS Finans                  60 500
-
-SUMMA                            156 600   100 146
+| Summa BM | 2 650 |  |
+| --- | --- | --- |
+| Kultur & Fritid |  |  |
+| KF budgetram 2026 | 12 000 | 19 748 |
+| Summa Kultur & Fritid | 12 000 | 19 748 |
+| KS Finans |  |  |
+| KF budgetram 2026 | 60 500 |  |
+| Summa KS Finans | 60 500 |  |
+| SUMMA | 156 600 | 100 146 |
 
 <!-- sida 22 -->
 
@@ -1010,14 +989,14 @@ ombudget nämndernas nämndernas 2026 budget 2027
 Exploateringar
 OMPLANERING
 Belopp i Tkr
-Budget   Förslag till Summa Ny
-2026 omplanering 2026 budget 2026
 
-```osaker-tabell
-Inkomster         0           0            0
-Utgifter      128 362      -37 469     90 893
-              128 362      -37 469     90 893
-```
+[Tabell 32-1](handlingar.tabeller/32-1.csv)
+
+|  | Budget<br>2026 | Förslag till<br>omplanering 2026 | Summa Ny<br>budget 2026 |
+| --- | --- | --- | --- |
+| Inkomster | 0 | 0 | 0 |
+| Utgifter | 128 362 | -37 469 | 90 893 |
+|  | 128 362 | -37 469 | 90 893 |
 
 <!-- sida 33 -->
 

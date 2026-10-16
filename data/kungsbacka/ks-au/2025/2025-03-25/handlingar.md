@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.187cc124195b269152a1bbfd/1742551188
 sha256: d0b7399b541c2518380db23d0dbbf82d808474373bdcbc4e8236f3cb8e5257b8
 bytes: 45935508
 sidor: 295
-hamtad: 2026-10-09T09:58:19+00:00
-konverterad: 2026-10-09T10:00:08+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T07:52:34+00:00
+konverterad: 2026-10-16T07:54:29+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [111, 117, 148, 149, 150, 151, 156, 157, 158, 159, 160, 161]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [111, 117, 144, 148, 149, 150, 151, 152, 156, 157, 158, 159, 160, 161, 188, 190, 192, 193, 194, 195, 197, 198, 200, 203, 204, 247, 248, 249, 253, 255, 256]
 figurer: [74, 111, 135, 136, 137, 138, 139, 152, 167, 171, 183, 189, 190, 191, 193, 194, 196, 197, 198, 199, 200, 201, 202, 203, 204, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 218, 219, 220, 221, 223, 224, 225, 226, 228, 229, 230, 231, 232, 233, 234, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 262, 272]
 tolkade: []
 ---
@@ -73,7 +73,7 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
+[Tabell 3-4-1](handlingar.tabeller/3-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -81,6 +81,11 @@ KUNGSBACKA  KOMMUN
 | 10. | Uppdrag att ta fram styrande<br>dokument för parkeringsavlösen | 2024-00697 | Förslag till beslut i kommunstyrelsen<br>9B<br>Kommunstyrelsen ger kommundirektören i uppdrag<br>att ta fram ändamålsenliga styrande dokument för<br>parkeringsavlösen. |
 | 11. | Bostadsförsörjningsplan för<br>Kungsbacka kommun 2025–<br>2029 | 2023-00143 | Förslag till beslut i kommunfullmäktige<br>10B<br>Kommunfullmäktige antar Bostadsförsörjningsplan<br>för Kungsbacka kommun 2025–2029, daterad 2025-<br>03-04.<br>Kungsbackas Bostadsförsörjningsprogram 2019–<br>2025 med utblick mot 2030, antagen av<br>kommunfullmäktige 2020-05-05, § 46, upphör<br>samtidigt att gälla. |
 | 12. | Avstämning av Startplan<br>planprojekt<br>08:50-09:35<br>Ida Lennartsson<br>Sofia Wiman<br>Byggnadsnämndens<br>arbetsutskott<br>Thure Sandén<br>Heinrich Kaufmann<br>Lars Eriksson<br>Daniel Hognert<br>Stefan Vilumsons | 2025-00018 |  |
+| 13. | Information om Regional<br>utvecklingsplan för<br>Storstadsregionen<br>10:00-10:45<br>Göteborgsregionens<br>kommunalförbund<br>Gitte Caos<br>Maria Sigroth<br>Therese Tanner | 2025-00231 |  |
+| 14. | Information om arbetet med<br>initiativet om ett<br>utvecklingscenter för innovation<br>och utveckling av näringslivet i<br>Kungsbacka<br>10:50-11:10<br>Anneli Skoglund<br>Lovisa Eld | 2024-00464 |  |
+| 15. | Information om statistik och<br>uppföljning av detaljplaner<br>11:15-11:45<br>Ida Lennartsson | 2025-00230 |  |
+| 16. | Avstämning inför samråd om<br>Regional fysisk plan Halland<br>2050<br>13.15-14.00<br>Andrea Ericsson<br>Anders Lund | 2024-00869 |  |
+| 17. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |
 
 <!-- sida 4 -->
 
@@ -90,16 +95,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 13. | Information om Regional<br>utvecklingsplan för<br>Storstadsregionen<br>10:00-10:45<br>Göteborgsregionens<br>kommunalförbund<br>Gitte Caos<br>Maria Sigroth<br>Therese Tanner | 2025-00231 |  |
-| 14. | Information om arbetet med<br>initiativet om ett<br>utvecklingscenter för innovation<br>och utveckling av näringslivet i<br>Kungsbacka<br>10:50-11:10<br>Anneli Skoglund<br>Lovisa Eld | 2024-00464 |  |
-| 15. | Information om statistik och<br>uppföljning av detaljplaner<br>11:15-11:45<br>Ida Lennartsson | 2025-00230 |  |
-| 16. | Avstämning inför samråd om<br>Regional fysisk plan Halland<br>2050<br>13.15-14.00<br>Andrea Ericsson<br>Anders Lund | 2024-00869 |  |
-| 17. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |
 
 <!-- sida 5 -->
 
@@ -4264,7 +4259,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7A68450FE1D012D031B316EED1F081534B8C7935DD
 Transaktionsidentitet: 6A67DB0FCE455564C0FD887AF6116A5A52481A7A1B
 
-[Tabell 98-1](handlingar.tabeller/98-1.csv)
+[Tabell 98-99-1](handlingar.tabeller/98-99-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -4273,6 +4268,12 @@ Transaktionsidentitet: 6A67DB0FCE455564C0FD887AF6116A5A52481A7A1B
 | Annika Carlsson (M) | X |  |  |
 | Barbro Hjelström (M) | X |  |  |
 | Astrid Börjesson (S) |  | X |  |
+| Eva Tingström (S) |  | X |  |
+| Per Hoel (SD) | X |  |  |
+| Göran Ottosson (SD) | X |  |  |
+| Bengt Alderin (C) | X |  |  |
+| Carry Kvarntun (M) | X |  |  |
+| Hravn Forsne (M), ordförande | X |  |  |
 
 <!-- sida 99 -->
 
@@ -4303,16 +4304,6 @@ Transaktionsidentitet: 7A68450FE1D012D031B316EED1F081534B8C7935DD
 Transaktionsidentitet: 6A67DB0FCE455564C0FD887AF6116A5A52481A7A1B
 
 [Tabell 99-1](handlingar.tabeller/99-1.csv)
-
-| Eva Tingström (S) |  | X |  |
-| --- | --- | --- | --- |
-| Per Hoel (SD) | X |  |  |
-| Göran Ottosson (SD) | X |  |  |
-| Bengt Alderin (C) | X |  |  |
-| Carry Kvarntun (M) | X |  |  |
-| Hravn Forsne (M), ordförande | X |  |  |
-
-[Tabell 99-2](handlingar.tabeller/99-2.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -5241,7 +5232,7 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 
 §§ socialtjänstlagen, SoL
 
-[Tabell 121-1](handlingar.tabeller/121-1.csv)
+[Tabell 121-124-1](handlingar.tabeller/121-124-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
@@ -5257,16 +5248,6 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 | 2023-11-22 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Den enskilde är i behov av extern placering. |
 | 2024-02-01 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. Flertalet kontaktförsök har gjorts,<br>verksamheten pausar insatsen i avvaktan på svar om<br>fortsatt inskolning. |
 | 2024-04-07 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Den enskilde medverkar inte till verkställighet, den<br>enskilde är tveksam till insatsen. |
-
-<!-- sida 122 -->
-
-KUNGSBACKA  KOMMUN
-4 (9)
-
-[Tabell 122-1](handlingar.tabeller/122-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2024-04-19 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Den enskilde medverkar inte till verkställighet, den<br>enskilde är tveksam till insatsen. |
 | 2022-03-16 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Tackat nej till 5 erbjudanden, 2022-09-15, 2022-11-29,<br>2023-05-17, 2023-11-20 och 2023-12-05. Tackat ja till<br>erbjudande med inflyttning 2025-02-01. |
 | 2022-12-31 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Avbrott i verkställighet, tackat nej till 3 erbjudanden<br>2023-06-20, 2023-12-22, 2024-05-24 eftersom boendet<br>inte ligger i centrala Kungsbacka. Tackat nej till<br>erbjudande 2024-09-02 trots centralt boende, det är inte<br>läge med flytt just nu. |
@@ -5279,16 +5260,6 @@ KUNGSBACKA  KOMMUN
 | 2024-10-02 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. |
 | 2024-10-17 | 9 § 9 LSS, bostad för vuxna<br>i form av servicebostad | Saknar plats. |
 | 2021-10-29 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. Svårt att få<br>kontakt med den enskilde. Den enskilde har andra<br>insatser vilket gör att DV inte är aktuellt just nu.<br>Ärendet är pausat i väntan på förändrad situation. |
-
-<!-- sida 123 -->
-
-KUNGSBACKA  KOMMUN
-5 (9)
-
-[Tabell 123-1](handlingar.tabeller/123-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2022-02-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, har specifika önskemål om<br>verksamhet, är i behov av lång planering, tackat nej till<br>befintlig verksamhet. Tackat nej till 2 erbjudanden<br>2023-02-14 och 2023-10-02. Planering för uppstart<br>pågår. |
 | 2022-12-31 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. Insatsen är<br>pausad. |
 | 2023-01-11 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet, blivit erbjuden 3 olika DV-grupper.<br>Den enskilde avbokar möten för uppstart. |
@@ -5301,6 +5272,17 @@ KUNGSBACKA  KOMMUN
 | 2024-02-09 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde tackat nej till<br>erbjudande 2024-02-09. Vill inte avsluta insatsen utan<br>pausa på obestämd tid. |
 | 2024-04-26 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde vill starta upp<br>insatsen och väntar på uppstartsmöte. |
 | 2024-06-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
+| 2024-08-19 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet, vill avvakta med insatsen. |
+
+<!-- sida 122 -->
+
+KUNGSBACKA  KOMMUN
+4 (9)
+
+<!-- sida 123 -->
+
+KUNGSBACKA  KOMMUN
+5 (9)
 
 <!-- sida 124 -->
 
@@ -5309,13 +5291,7 @@ KUNGSBACKA  KOMMUN
 
 Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
 
-[Tabell 124-1](handlingar.tabeller/124-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
-| 2024-08-19 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den enskilde medverkar inte<br>till verkställighet, vill avvakta med insatsen. |
-
-[Tabell 124-2](handlingar.tabeller/124-2.csv)
+[Tabell 124-127-1](handlingar.tabeller/124-127-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
@@ -5325,16 +5301,6 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2024-06-24 | 4 kap 1 § SoL, boendestöd | Insatsen är delvis verkställd<br>2024-08-23. Den enskilde vill<br>avvakta med den andra insatsen.<br>Tackade nej till uppstart 2024-<br>09-25. | Verkställt, 2024-11-05 |
 | 2024-09-10 | 4 kap 1 § SoL, boendestöd | Den enskilde är i behov av lång<br>introduktion. | Verkställt, 2025-01-15 |
 | 2024-09-30 | 4 kap 1 § SoL, boendestöd | Den enskilde är i behov av lång<br>introduktion. Tackade nej till<br>erbjudande 2024-11-19 och i<br>december 2024. | Verkställt, 2025-01-14 |
-
-<!-- sida 125 -->
-
-KUNGSBACKA  KOMMUN
-7 (9)
-
-[Tabell 125-1](handlingar.tabeller/125-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2024-04-19 | 9 § 3 LSS, ledsagarservice | Avbrott i verkställighet, velat<br>avvakta med insatsen. Den<br>enskilde har specifika önskemål,<br>tackat nej till erbjudande 2024-<br>09-27. | Verkställt, 2024-11-29 |
 | 2024-06-13 | 9 § 4 LSS, kontaktperson | Rekryteringssvårigheter.<br>Verksamheten fick många<br>beslut inför sommaren och har<br>inte hunnit rekrytera ny<br>personal. | Verkställt, 2024-11-12 |
 | 2024-06-17 | 9 § 4 LSS, kontaktperson | Den enskilde har tackat nej till<br>erbjudande 2024-09-25. Ny<br>rekrytering pågår. | Verkställt, 2024-11-05 |
@@ -5344,16 +5310,6 @@ KUNGSBACKA  KOMMUN
 | 2024-05-16 | 9 § 5 LSS, avlösarservice i<br>hemmet | Den enskilde vill avvakta med<br>insatsen, planerad uppstart till<br>hösten. | Verkställt, 2024-10-20 |
 | 2024-05-16 | 9 § 5 LSS, avlösarservice i<br>hemmet | Den enskilde vill avvakta med<br>insatsen, planerad uppstart till<br>hösten. | Verkställt, 2024-10-20 |
 | 2024-01-08 | 9 § 6 LSS, korttidsvistelse<br>i form av läger | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. Svårigheter att få<br>kontakt med familjen. | Verkställt, 2024-12-10 |
-
-<!-- sida 126 -->
-
-KUNGSBACKA  KOMMUN
-8 (9)
-
-[Tabell 126-1](handlingar.tabeller/126-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
 | 2024-02-29 | 9 § 8 LSS, boende barn<br>och ungdomar | Saknar plats. Blivit erbjuden<br>köpt plats under väntetiden<br>vilket de tackat nej till.<br>Erbjuden annan insats under<br>väntetiden. | Verkställt, 2024-11-01 |
 | 2024-02-08 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. Tackat ja till<br>erbjudande med inflyttning<br>under november. | Verkställt, 2024-11-01 |
 | 2024-03-13 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknar plats. Den enskilde har<br>tackat nej till erbjudande<br>september 2024. | Avslutat, 2024-12-13 |
@@ -5362,6 +5318,20 @@ KUNGSBACKA  KOMMUN
 | 2024-06-27 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>servicebostad | Saknar plats. | Verkställt, 2025-01-15 |
 | 2021-11-23 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet,<br>medverkar inte till<br>verkställighet. Den enskilde<br>svarar inte på telefon eller mail. | Avslutat, 2024-12-18 |
 | 2023-04-17 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde har varit föräldraledig.<br>Tackat nej till erbjudande 2024-<br>01-17. | Avslutat, 2024-12-06 |
+| 2023-10-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, tackat<br>nej till 5 erbjudanden 2023-12-<br>11, 2024-02-21, 2024-03-12,<br>2024-04-10 och 2024-05-07.<br>Den enskilde vill avvakta då hen<br>befinner sig på annan ort. Den<br>enskilde avbokar möten. | Avslutat, 2025-01-20 |
+| 2024-04-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. | Verkställt, 2024-12-10 |
+| 2024-07-11 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde medverkar inte till<br>verkställighet, pga<br>hälsotillstånd. | Verkställt, 2025-01-13 |
+| 2024-04-10 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till<br>verkställighet. | Avslutat, 2024-12-06 |
+
+<!-- sida 125 -->
+
+KUNGSBACKA  KOMMUN
+7 (9)
+
+<!-- sida 126 -->
+
+KUNGSBACKA  KOMMUN
+8 (9)
 
 <!-- sida 127 -->
 
@@ -5373,15 +5343,6 @@ Inom vuxenenheten och familjehemsenheten finns inga ej verkställda beslut under
 Ivan Stipić                   Renate Rondolph
 
 Förvaltningschef              Verksamhetschef
-
-[Tabell 127-1](handlingar.tabeller/127-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
-| 2023-10-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, tackat<br>nej till 5 erbjudanden 2023-12-<br>11, 2024-02-21, 2024-03-12,<br>2024-04-10 och 2024-05-07.<br>Den enskilde vill avvakta då hen<br>befinner sig på annan ort. Den<br>enskilde avbokar möten. | Avslutat, 2025-01-20 |
-| 2024-04-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den<br>enskilde medverkar inte till<br>verkställighet. | Verkställt, 2024-12-10 |
-| 2024-07-11 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde medverkar inte till<br>verkställighet, pga<br>hälsotillstånd. | Verkställt, 2025-01-13 |
-| 2024-04-10 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde medverkar inte till<br>verkställighet. | Avslutat, 2024-12-06 |
 
 <!-- sida 128 -->
 
@@ -5501,25 +5462,14 @@ Gynnande beslut som avbrutits och ej verkställts inom tre månader.
 | 2024-09-25 | Särskilt boende | Platsbrist (U) |
 | 2024-09-30 | Särskilt boende | Platsbrist |
 
-[Tabell 130-2](handlingar.tabeller/130-2.csv)
+[Tabell 130-132-2](handlingar.tabeller/130-132-2.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
 | 2024-09-02 | Särskilt boende | Erbjuden, tackat nej.<br>Återtag 2024-12-12 |
 | 2024-07-05 | Särskilt boende | Avliden (U) |
 | 2024-07-17 | Särskilt boende | Avliden |
-
-<!-- sida 131 -->
-
-KUNGSBACKA  KOMMUN
-3 (4)
-
-Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts eller avslutats
-
-[Tabell 131-1](handlingar.tabeller/131-1.csv)
-
 | Beslutsdatum | Insats | Datum för verkställighet, avslut |
-| --- | --- | --- |
 | 2024-05-02 | Särskilt boende | Verkställd 2024-12-03 |
 | 2024-05-13 | Särskilt boende | Verkställd 2024-11-16 |
 | 2024-05-16 | Särskilt boende | Verkställd 2024-12-30 |
@@ -5554,6 +5504,17 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 2024-09-02 | Särskilt boende | Verkställd 2024-12-14 |
 | 2024-09-04 | Särskilt boende | Verkställd 2024-12-12 |
 | 2024-09-05 | Särskilt boende | Verkställd 2024-12-12 |
+| 2024-09-18 | Särskilt boende | Verkställd 2024-12-20 |
+| 2024-05-20 | Växelvård | Verkställd 2024-10-01 |
+| 2024-06-24 | Växelvård | Verkställd 2024-10-10 |
+| 2024-06-27 | Växelvård | Verkställd 2024-10-24 |
+
+<!-- sida 131 -->
+
+KUNGSBACKA  KOMMUN
+3 (4)
+
+Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts eller avslutats
 
 <!-- sida 132 -->
 
@@ -5562,14 +5523,6 @@ KUNGSBACKA  KOMMUN
 
 Arian Faily                   Ann-Helen Svensson
 Förvaltningschef              Verksamhetschef
-
-[Tabell 132-1](handlingar.tabeller/132-1.csv)
-
-| 2024-09-18 | Särskilt boende | Verkställd 2024-12-20 |
-| --- | --- | --- |
-| 2024-05-20 | Växelvård | Verkställd 2024-10-01 |
-| 2024-06-24 | Växelvård | Verkställd 2024-10-10 |
-| 2024-06-27 | Växelvård | Verkställd 2024-10-24 |
 
 <!-- sida 133 -->
 
@@ -10256,24 +10209,6 @@ mellan 19–25 år som har bott på samma adress mer än tio år är 45 procent 
 Det är att jämföra med Mölndals stad som har näst högst om 33 procent och Göteborgs stad som
 har lägst om 19 procent. Detta är ett sätt att titta på ungas möjligheter att flytta till en egen bostad.
 
-Andel av totalt som
-har bott på samma Falkenberg Varberg Kungsbacka Göteborg Mölndal Halmstad
-folkbokföringsadress
-
-```osaker-tabell
- <1 år       29      27       20       37      27      38
-
-1–2 år       17      17       11       19      14      19
-
-2–3 år       10       8        7       9       9       10
-
-3–5 år        8       8        7       8       8       7
-
-5–10 år       7       8       10       7       9       6
-
->10 år       29      32       45       19      33      20
-```
-
 Figur 89 - Andel av personer mellan 19–25 år efter hur länge de har haft samma folkbokföringsadress i Kungsbacka jämfört med
 närliggande kommuner. Källa: SCB, bearbetat av Kungsbacka kommun
 Det är främst inom Onsala, Vallda och Släp som ungdomar tenderar att bo kvar, i dessa områden
@@ -10285,29 +10220,21 @@ Antal in- och utflyttningar per år för åldersgruppen 20-29 år
 Inflyttningar Utflyttningar Flyttningsöverskott
 20-29 år
 
+[Tabell 249-1](handlingar.tabeller/249-1.csv)
+
+| Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | Falkenberg | Varberg | Kungsbacka | Göteborg | Mölndal | Halmstad |
+| --- | --- | --- | --- | --- | --- | --- |
+| <1 år | 29 | 27 | 20 | 37 | 27 | 38 |
+| 1–2 år | 17 | 17 | 11 | 19 | 14 | 19 |
+| 2–3 år | 10 | 8 | 7 | 9 | 9 | 10 |
+| 3–5 år | 8 | 8 | 7 | 8 | 8 | 7 |
+| 5–10 år | 7 | 8 | 10 | 7 | 9 | 6 |
+| >10 år | 29 | 32 | 45 | 19 | 33 | 20 |
+
 <!-- sida 250 -->
 
 än tio år. I Kungsbacka stad har störst andel av ungdomarna bott mindre än ett år på samma
 adress.
-
-Andel av totalt som
-KUNGSBACKA                   ÅSA
-har bott på samma  SLÄP VALLDA ONSALA FJÄRÅS GÄLLINGE ÄLVSÅKER KOMMUN
-STAD                      FRILLESÅS
-folkbokföringsadress
-
-```osaker-tabell
- <1 år      31    12  12   12    17    18    20     20    20
- 1–2 år     16    5    8    6    13    8     16     11    11
- 2–3 år     10    5    3    4    7     5      7     7      7
-
- 3–5 år     8     8    6    7    8     6      6     10     7
-
-5–10 år     10    11   7   11    10    11     6     9     10
-
- >10 år     24    59  64   61    46    51    45     44    45
- Total     100   100  100  100  100   100    100   100    100
-```
 
 Figur 90 - Andel av personer mellan 19–25 år efter hur länge de har haft samma folkbokföringsadress i Kungsbackas olika
 planeringsområde. Källa: SCB, bearbetat av Kungsbacka kommun
@@ -10315,6 +10242,18 @@ I Västra Götalands län rapporterar i princip 2/3-delar att det är underskott
 ungdomar och 1/3-del svarar att det är balans.
 
 68
+
+[Tabell 250-1](handlingar.tabeller/250-1.csv)
+
+| Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | KUNGSBACKA<br>STAD | SLÄP | VALLDA | ONSALA | FJÄRÅS | ÅSA<br>FRILLESÅS | GÄLLINGE | ÄLVSÅKER | KOMMUN |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <1 år | 31 | 12 | 12 | 12 | 17 | 18 | 20 | 20 | 20 |
+| 1–2 år | 16 | 5 | 8 | 6 | 13 | 8 | 16 | 11 | 11 |
+| 2–3 år | 10 | 5 | 3 | 4 | 7 | 5 | 7 | 7 | 7 |
+| 3–5 år | 8 | 8 | 6 | 7 | 8 | 6 | 6 | 10 | 7 |
+| 5–10 år | 10 | 11 | 7 | 11 | 10 | 11 | 6 | 9 | 10 |
+| >10 år | 24 | 59 | 64 | 61 | 46 | 51 | 45 | 44 | 45 |
+| Total | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |
 
 <!-- sida 251 -->
 

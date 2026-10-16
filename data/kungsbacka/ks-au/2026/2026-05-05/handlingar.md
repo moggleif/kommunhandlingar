@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3487527419ddc981c034c4b2/1777875194
 sha256: ea35ee551b44eaa7c9d5edda19dd43f0131bd2fb2023b5b21f39010050c3fe47
 bytes: 31430770
 sidor: 82
-hamtad: 2026-10-09T12:07:04+00:00
-konverterad: 2026-10-09T12:10:09+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T09:54:40+00:00
+konverterad: 2026-10-16T09:57:22+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr]
@@ -106,7 +106,7 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
+[Tabell 3-4-1](handlingar.tabeller/3-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -114,22 +114,17 @@ KUNGSBACKA  KOMMUN
 | 6. | Begäran om, planbesked<br>Älskogsbräcka 1:2 | KS-2026-00153 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen<br>inte avser att pröva den begärda åtgärden genom<br>planläggning inom Älskogsbräcka 1:2 i Onsala. |
 | 7. | Avstämning kring uppdrag att<br>planlägga Hedeleden<br>08:45-09:15<br>Sofia Wiman<br>John Borlid<br>Ida Lennartsson<br>Johan Gerremo<br>Byggnadsnämndens AU<br>Thure Sandén<br>Heinrich Kauffman<br>Lars Eriksson<br>Daniel Hognert<br>Stefan Vilumsons | KS-2019-00837 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
 | 8. | Information om införande av<br>valfrihetssystem enligt LOV<br>inom vård- och omsorgsboende<br>09:20-09:45<br>Andrea Egerlundh | KS-2025-00962 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 9. | Avstämning kommunala inspel<br>till "strategiska vägval för<br>storregional kollektivtrafik"<br>10:00-10:10<br>Agneta Nordström<br>Peter Gustafsson<br>Anders Lund | KS-2026-00186 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 10. | Information om Trafikverkets<br>ombyggnation av mittplattform<br>Kungsbacka station<br>10:10-10:25<br>Agneta Nordström<br>Peter Gustafsson<br>Anders Lund | KS-2026-00339 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 11. | Avstämning Hallandstrafikens<br>förstudie inför kommande<br>upphandling av buss<br>10:25-10:30<br>Agneta Nordström<br>Peter Gustafsson<br>Anders Lund | KS-2026-00067 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 12. | Information från HR- nyckeltal<br>och systematiskt<br>arbetsmiljöarbete (från årshjul)<br>10:35-11:20<br>Jesper Edlind<br>Leif Söderhagen | KS-2026-00019 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 13. | Information ledamöter och<br>förvaltning | KS-2025-00975 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
 
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 9. | Avstämning kommunala inspel<br>till "strategiska vägval för<br>storregional kollektivtrafik"<br>10:00-10:10<br>Agneta Nordström<br>Peter Gustafsson<br>Anders Lund | KS-2026-00186 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 10. | Information om Trafikverkets<br>ombyggnation av mittplattform<br>Kungsbacka station<br>10:10-10:25<br>Agneta Nordström<br>Peter Gustafsson<br>Anders Lund | KS-2026-00339 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 11. | Avstämning Hallandstrafikens<br>förstudie inför kommande<br>upphandling av buss<br>10:25-10:30<br>Agneta Nordström<br>Peter Gustafsson<br>Anders Lund | KS-2026-00067 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 12. | Information från HR- nyckeltal<br>och systematiskt<br>arbetsmiljöarbete (från årshjul)<br>10:35-11:20<br>Jesper Edlind<br>Leif Söderhagen | KS-2026-00019 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 13. | Information ledamöter och<br>förvaltning | KS-2025-00975 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
 
 <!-- sida 5 -->
 

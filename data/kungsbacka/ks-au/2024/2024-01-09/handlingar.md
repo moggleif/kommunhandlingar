@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.227417af18c8af9fa1e1efad/1704372893
 sha256: 0b8cd2d042fdfbacc2cc19293f91de7bfa4be71a38a401287cb8411f6ee9c46c
 bytes: 141101129
 sidor: 287
-hamtad: 2026-10-09T08:27:40+00:00
-konverterad: 2026-10-09T08:32:30+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T06:18:44+00:00
+konverterad: 2026-10-16T06:24:07+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ok]
 tal_obekraftade: [107, 109, 111, 116, 130, 140, 141, 158, 242, 243, 244, 245, 246, 247, 248, 249, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286]
 figurer: [88, 90, 92, 104, 116, 126, 130, 173, 193, 242, 243, 244, 245, 246, 247, 248, 249, 287]
 tolkade: []
@@ -58,12 +58,26 @@ KUNGSBACKA  KOMMUN
 
 2(6)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-6-1](handlingar.tabeller/2-6-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 5. | Delegeringsförteckning för<br>kommunstyrelsen | 2023-00461 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar delegeringsförteckning för<br>kommunstyrelsen, daterad 2023-12-18.<br>Delegeringsförteckningen för kommunstyrelsen,<br>antagen av kommunstyrelsen 2023-09-26 § 198<br>upphör samtidigt att gälla. |
 | 6. | Nya avgifter för parkering-<br>timtaxor, boendekort och<br>nyttokort | 2023-00754 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige fastställer parkeringsavgifter i<br>Kungsbacka kommun:<br>- Taxa A för parkering 7 kronor per timme<br>- Taxa B för parkering 6 kronor per timme<br>- Taxa C för parkering 5 kronor per timme<br>- Taxa D för parkering 3 kronor per timme<br>- Taxa E för parkering 8 kronor per timme<br>- Dygnsbiljetter avskaffas på parkeringsplatser<br>inom Kungsbacka stad.<br>- Månadsbiljett avskaffas från och med 2024-04-08<br>- Boendeparkering 300 kronor per månad för<br>områdena: Björkris, Tingberget, Kolla och<br>Hammerö/Hålabäck<br>- Boendeparkering 350 kronor per månad för<br>områdena: Signeskulle, Centrum, Västra<br>Villastaden och Östra Villastaden<br>- Nyttokort 3000 kronor per år respektive 375<br>kronor per månad.<br>Kommunfullmäktige fastställer avgifter för<br>felparkering i Kungsbacka kommun:<br>- Överskriden tid, ej betalt 300 kronor per tillfälle<br>- Förbud att parkera 450 kronor per tillfälle<br>- Förbud att stanna 800 kronor per tillfälle<br>- Parkering för rörelsehindrad, PRH 800 kronor per<br>tillfälle<br>Nya taxor och avgifter för parkering och<br>felparkering ska gälla från och med 2024-04-08.<br>Kommunfullmäktiges beslut om taxa 2019-11-05<br>§165 upphör att gälla samtidigt som ny taxa träder i<br>kraft.<br>Kommunfullmäktige ger nämnden för Teknik i<br>uppdrag att arbeta fram ett samlat taxedokument för<br>parkerings- och felparkeringsavgifter inför år 2025. |
+| 7. | Remittering av motion från<br>Ermin Skoric (S) m.fl. om<br>medarbetarundersökning för<br>Vård & Omsorg samt Individ &<br>Familjeomsorg utifrån de fem<br>övergripande arbetsmiljömålen | 2023-00729 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Vård & Omsorg och<br>nämnden för Individ & Familjeomsorg för<br>beredning. |
+| 8. | Remittering av motion från<br>Ermin Skoric (S) m.fl. om att<br>utveckla lokala<br>värdighetsgarantier inom<br>äldreomsorgen | 2023-00811 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Vård & Omsorg för<br>beredning. |
+| 9. | Svar på motion från Viking<br>Bengtsson (V) m.fl. om att<br>ändra tidsbegränsningen för<br>hyreskontrakt för nyanlända<br>barnfamiljer | 2023-00135 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionens första<br>yrkande om att nyanlända barnfamiljer ska få stanna<br>minst fyra år i samma boende med hänvisning till<br>dels att två-årsregeln är en förutsättning för att<br>utflyttning från de temporära boendena sker i en<br>rimlig takt, dels arbetsmarknadsperspektivet, som<br>innebär en förväntan att alla invånare ska ta ansvar<br>för sina egna liv och bli självförsörjande genom<br>studier och arbete.<br>Kommunfullmäktige bifaller motionens andra<br>yrkande om att nyanlända barn inte ska ryckas upp<br>mitt i terminen utan det sker under sommarlovet<br>med hänvisning till barnkonventionen.<br>Kommunfullmäktige ger nämnden för Gymnasium<br>& Arbetsmarknad i uppdrag att tillsammans med<br>kommunstyrelsen utreda hur kontraktet för<br>nyanlända barnfamiljer som omfattas av två-<br>årsregeln kan förlängas till läsårsslut om<br>hyreskontraktet går ut mitt i terminen. |
+| 10. | Svar på motion från Maria<br>Losman (MP) m. fl. om att<br>ändra tidsbegränsningen för<br>hyreskontrakt för nyanlända | 2023-00118 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionens med<br>hänvisning till dels att två-årsregeln är en<br>förutsättning för att utflyttning från de temporära<br>boendena sker i en rimlig takt, dels<br>arbetsmarknadsperspektivet, som innebär en<br>förväntan att alla invånare ska ta ansvar för sina<br>egna liv och bli självförsörjande genom studier och<br>arbete. |
+| 11. | Svar på motion från motion från<br>Maj-Britt Rane Andersson (S)<br>m.fl. om att utreda möjligheten<br>att införa fria arbetsskor,<br>alternativt skobidrag, till<br>personal inom omsorgen i<br>Kungsbacka | 2023-00434 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att det skulle innebära omotiverat<br>stora kostnader och omkostnader att införa fria<br>arbetsskor för personal inom omsorgen samt att det<br>inte finns några formella krav på att arbetsgivaren<br>ska tillhandahålla arbetsskor för personal inom<br>omsorg. |
+| 12. | Strategi för krisberedskap och<br>civilt försvar | 2023-00807 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar strategi för krisberedskap<br>och civilt försvar, 2023-2026, daterad 2023-12-14.<br>Riktlinjer för krisberedskap och civilt försvar,<br>antagen av kommunfullmäktige 2019-12-10, § 190,<br>och Säkerhets- och beredskapspolicy, antagen av<br>kommunfullmäktige 2019-12-10 § 189, upphör<br>samtidigt att gälla. |
+| 13. | Reglemente för<br>krisledningsnämnden | 2023-00664 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar reglemente för<br>krisledningsnämnden daterat 2023-10-13.<br>Reglemente för krisledningsnämnden antaget av<br>kommunfullmäktige den 10 december 2019, § 188,<br>upphör samtidigt att gälla. |
+| 14. | Svar på kommunrevisionens<br>granskning av<br>informationssäkerhet | 2023-00730 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2023-12-<br>13, och översänder det som sitt svar till<br>kommunrevisionen. |
+| 15. | Förändring av projekt och<br>omfördelning av budget i<br>lokalplan Björkris boende med<br>särskild service (löpnr 504) | 2023-00659 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner att planerad inhyrning<br>av Björkris boende med särskild service (BMSS)<br>löpnummer 504 ersätts med byggnation i egen regi i<br>Åsaberg.<br>Kommunstyrelsen godkänner att investeringsmedel<br>omfördelas från Björkris BMSS till nytt projekt<br>Åsaberg BMSS och att omfördelningen högst<br>uppgår till 1,5 miljoner kr. |
+| 16. | Godkännande av<br>exploateringsavtal avseende<br>detaljplan för verksamheter<br>inom Varla 6:17 m.fl. i<br>Kungsbacka stad | 2020-00911 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner förslag till<br>exploateringsavtal avseende detaljplan för<br>verksamheter inom Varla 6:18 m.fl. i Kungsbacka,<br>mellan kommunen och Kommanditbolaget Mattsons<br>Fastigheter Nr 3, undertecknat av bolaget 2023-12-<br>15.<br>Kommunstyrelsen godkänner förslag till<br>exploateringsavtal avseende detaljplan för<br>verksamheter inom Varla 6:18 m.fl. i Kungsbacka,<br>mellan kommunen och FHDY Fastigheter i<br>Kungsbacka Kommanditbolag, undertecknat av<br>bolaget 2023-12-18.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna<br>avtalen samt övriga nödvändiga handlingar för<br>avtalens genomförande. |
+| 17. | Information arbetet med<br>uppdatering av Kungsbackas<br>Bostadsförsörjningsprogram<br>Klockan 08:50-09:10<br>Margit de Boer<br>Lena Salomonsson | 2023-00143 | - |
+| 18. | Information om planbesked,<br>arbetssätt och summering av<br>2023<br>Klockan 09:15-09:45<br>Stina Wikström<br>Ida Lennartsson | 2024-00042 | - |
+| 19. | Information från lokalgruppen<br>(från årshjul)<br>Klockan 10:00-11:00<br>Maria Rosenberg<br>Lovisa Eld<br>Ing-Britt Blomberg<br>Julia Tryggvadottir Tollesson<br>Christina Wenander<br>Markus Mentzer<br>Semir Robovic<br>Mats Söderström | 2024-00024 | - |
+| 20. | Information från ledamöter och<br>förvaltning | 2024-00025 | - |
 
 <!-- sida 3 -->
 
@@ -71,43 +85,17 @@ KUNGSBACKA  KOMMUN
 
 3(6)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 7. | Remittering av motion från<br>Ermin Skoric (S) m.fl. om<br>medarbetarundersökning för<br>Vård & Omsorg samt Individ &<br>Familjeomsorg utifrån de fem<br>övergripande arbetsmiljömålen | 2023-00729 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Vård & Omsorg och<br>nämnden för Individ & Familjeomsorg för<br>beredning. |
-| 8. | Remittering av motion från<br>Ermin Skoric (S) m.fl. om att<br>utveckla lokala<br>värdighetsgarantier inom<br>äldreomsorgen | 2023-00811 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Vård & Omsorg för<br>beredning. |
-| 9. | Svar på motion från Viking<br>Bengtsson (V) m.fl. om att<br>ändra tidsbegränsningen för<br>hyreskontrakt för nyanlända<br>barnfamiljer | 2023-00135 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionens första<br>yrkande om att nyanlända barnfamiljer ska få stanna<br>minst fyra år i samma boende med hänvisning till<br>dels att två-årsregeln är en förutsättning för att<br>utflyttning från de temporära boendena sker i en<br>rimlig takt, dels arbetsmarknadsperspektivet, som<br>innebär en förväntan att alla invånare ska ta ansvar<br>för sina egna liv och bli självförsörjande genom<br>studier och arbete.<br>Kommunfullmäktige bifaller motionens andra<br>yrkande om att nyanlända barn inte ska ryckas upp<br>mitt i terminen utan det sker under sommarlovet<br>med hänvisning till barnkonventionen.<br>Kommunfullmäktige ger nämnden för Gymnasium<br>& Arbetsmarknad i uppdrag att tillsammans med<br>kommunstyrelsen utreda hur kontraktet för<br>nyanlända barnfamiljer som omfattas av två-<br>årsregeln kan förlängas till läsårsslut om<br>hyreskontraktet går ut mitt i terminen. |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(6)
 
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 10. | Svar på motion från Maria<br>Losman (MP) m. fl. om att<br>ändra tidsbegränsningen för<br>hyreskontrakt för nyanlända | 2023-00118 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionens med<br>hänvisning till dels att två-årsregeln är en<br>förutsättning för att utflyttning från de temporära<br>boendena sker i en rimlig takt, dels<br>arbetsmarknadsperspektivet, som innebär en<br>förväntan att alla invånare ska ta ansvar för sina<br>egna liv och bli självförsörjande genom studier och<br>arbete. |
-| 11. | Svar på motion från motion från<br>Maj-Britt Rane Andersson (S)<br>m.fl. om att utreda möjligheten<br>att införa fria arbetsskor,<br>alternativt skobidrag, till<br>personal inom omsorgen i<br>Kungsbacka | 2023-00434 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionen med<br>hänvisning till att det skulle innebära omotiverat<br>stora kostnader och omkostnader att införa fria<br>arbetsskor för personal inom omsorgen samt att det<br>inte finns några formella krav på att arbetsgivaren<br>ska tillhandahålla arbetsskor för personal inom<br>omsorg. |
-| 12. | Strategi för krisberedskap och<br>civilt försvar | 2023-00807 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar strategi för krisberedskap<br>och civilt försvar, 2023-2026, daterad 2023-12-14.<br>Riktlinjer för krisberedskap och civilt försvar,<br>antagen av kommunfullmäktige 2019-12-10, § 190,<br>och Säkerhets- och beredskapspolicy, antagen av<br>kommunfullmäktige 2019-12-10 § 189, upphör<br>samtidigt att gälla. |
-| 13. | Reglemente för<br>krisledningsnämnden | 2023-00664 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar reglemente för<br>krisledningsnämnden daterat 2023-10-13.<br>Reglemente för krisledningsnämnden antaget av<br>kommunfullmäktige den 10 december 2019, § 188,<br>upphör samtidigt att gälla. |
-| 14. | Svar på kommunrevisionens<br>granskning av<br>informationssäkerhet | 2023-00730 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2023-12-<br>13, och översänder det som sitt svar till<br>kommunrevisionen. |
-
 <!-- sida 5 -->
 
 KUNGSBACKA  KOMMUN
 
 5(6)
-
-[Tabell 5-1](handlingar.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 15. | Förändring av projekt och<br>omfördelning av budget i<br>lokalplan Björkris boende med<br>särskild service (löpnr 504) | 2023-00659 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner att planerad inhyrning<br>av Björkris boende med särskild service (BMSS)<br>löpnummer 504 ersätts med byggnation i egen regi i<br>Åsaberg.<br>Kommunstyrelsen godkänner att investeringsmedel<br>omfördelas från Björkris BMSS till nytt projekt<br>Åsaberg BMSS och att omfördelningen högst<br>uppgår till 1,5 miljoner kr. |
-| 16. | Godkännande av<br>exploateringsavtal avseende<br>detaljplan för verksamheter<br>inom Varla 6:17 m.fl. i<br>Kungsbacka stad | 2020-00911 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner förslag till<br>exploateringsavtal avseende detaljplan för<br>verksamheter inom Varla 6:18 m.fl. i Kungsbacka,<br>mellan kommunen och Kommanditbolaget Mattsons<br>Fastigheter Nr 3, undertecknat av bolaget 2023-12-<br>15.<br>Kommunstyrelsen godkänner förslag till<br>exploateringsavtal avseende detaljplan för<br>verksamheter inom Varla 6:18 m.fl. i Kungsbacka,<br>mellan kommunen och FHDY Fastigheter i<br>Kungsbacka Kommanditbolag, undertecknat av<br>bolaget 2023-12-18.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna<br>avtalen samt övriga nödvändiga handlingar för<br>avtalens genomförande. |
-| 17. | Information arbetet med<br>uppdatering av Kungsbackas<br>Bostadsförsörjningsprogram<br>Klockan 08:50-09:10<br>Margit de Boer<br>Lena Salomonsson | 2023-00143 | - |
 
 <!-- sida 6 -->
 
@@ -117,14 +105,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 6-1](handlingar.tabeller/6-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 18. | Information om planbesked,<br>arbetssätt och summering av<br>2023<br>Klockan 09:15-09:45<br>Stina Wikström<br>Ida Lennartsson | 2024-00042 | - |
-| 19. | Information från lokalgruppen<br>(från årshjul)<br>Klockan 10:00-11:00<br>Maria Rosenberg<br>Lovisa Eld<br>Ing-Britt Blomberg<br>Julia Tryggvadottir Tollesson<br>Christina Wenander<br>Markus Mentzer<br>Semir Robovic<br>Mats Söderström | 2024-00024 | - |
-| 20. | Information från ledamöter och<br>förvaltning | 2024-00025 | - |
 
 <!-- sida 7 -->
 
@@ -423,24 +403,24 @@ Nämndernas ansökningar hittills avseende 2024 uppgår till ett 2,6 miljoner kr
 Nämnd            Område                Begärt belopp,  Beviljat belopp,
 kronor           kronor
 
-Vård & Omsorg                                                900 000
+Vård & Omsorg    Möta äldre som             900 000          900 000
+besväras av ofrivillig
+ensamhet
 
-Kultur & Fritid
+Kultur & Fritid  Friskvårds- &             1 200 000
+Aktivitetsgruppens
+satsning för att nå fler
+barn och unga
+Kultur & Fritid  Tillsammansgruppen –       500 000
+ungdomar från 13 år
 
-Kultur & Fritid
-
-SUMMA                                                        900 000
+med NPF-diagnos
+erbjuds mötesplats och
+engagerande aktiviteter
+SUMMA                                      2 600 000         900 000
 
 Malin Aronsson                     Anders Johansson
 Kommundirektör                     Biträdande kommundirektör
-
-[Tabell 14-1](handlingar.tabeller/14-1.csv)
-
-| Möta äldre som<br>besväras av ofrivillig<br>ensamhet | 900 000 |
-| --- | --- |
-| Friskvårds- &<br>Aktivitetsgruppens<br>satsning för att nå fler<br>barn och unga | 1 200 000 |
-| Tillsammansgruppen –<br>ungdomar från 13 år<br>med NPF-diagnos<br>erbjuds mötesplats och<br>engagerande aktiviteter | 500 000 |
-|  | 2 600 000 |
 
 <!-- sida 15 -->
 
@@ -598,24 +578,24 @@ totalt 2,6 miljoner kronor.
 Nämnd            Område                Begärt belopp,  Beviljat belopp,
 kronor           kronor
 
-Vård & Omsorg                                                900 000
+Vård & Omsorg    Möta äldre som             900 000          900 000
+besväras av ofrivillig
+ensamhet
 
-Kultur & Fritid
+Kultur & Fritid  Friskvårds- &             1 200 000
+Aktivitetsgruppens
+satsning för att nå fler
+barn och unga
+Kultur & Fritid  Tillsammansgruppen –       500 000
 
-Kultur & Fritid
-
-SUMMA                                                        900 000
+ungdomar från 13 år
+med NPF-diagnos
+erbjuds mötesplats och
+engagerande aktiviteter
+SUMMA                                      2 600 000         900 000
 
 Malin Aronsson                     Anders Johansson
 Kommundirektör                     Biträdande kommundirektör
-
-[Tabell 19-1](handlingar.tabeller/19-1.csv)
-
-| Möta äldre som<br>besväras av ofrivillig<br>ensamhet | 900 000 |
-| --- | --- |
-| Friskvårds- &<br>Aktivitetsgruppens<br>satsning för att nå fler<br>barn och unga | 1 200 000 |
-| Tillsammansgruppen –<br>ungdomar från 13 år<br>med NPF-diagnos<br>erbjuds mötesplats och<br>engagerande aktiviteter | 500 000 |
-|  | 2 600 000 |
 
 <!-- sida 20 -->
 
@@ -1758,7 +1738,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 9 (20)
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 10 (20)
 
-[Tabell 48-1](handlingar.tabeller/48-1.csv)
+[Tabell 48-49-1](handlingar.tabeller/48-49-1.csv)
 
 |  | 2.2 Ekonomi och inköp |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1770,15 +1750,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 10 (20)
 | 2.2.1 d) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Beslut om ändring och tillägg av kontrakt. | Kdir | X<br>Villkor: Samma<br>delegat som i 2.2.1 a) |  |
 | 2.2.1 e) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Beslut om uppsägning eller hävning av avtal. | Kdir | X<br>Villkor: Samma<br>delegat som i 2.2.1 a) |  |
 | 2.2.2 | KS beslut om<br>nämndbudget och<br>Kungsbacka<br>styrmodell | Förvaltningsbudget med fördelning på verksamhetsnivå. | Kdir |  |  |
-
-<!-- sida 49 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 11 (20)
-
-[Tabell 49-1](handlingar.tabeller/49-1.csv)
-
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.2.3 | Attestreglementet | Utse beslutsattestanter och ersättare för<br>kommunstyrelsens förvaltning. | Kdir |  | Anmäls till KS en gång per år. |
 | 2.2.4 | Reglementet<br>Finanspolicyn | Ta upp lån inom den maximala beloppsgräns<br>kommunfullmäktige årligen fastställer i<br>kommunbudgeten. | Kdir | X |  |
 | 2.2.5 | Reglementet<br>Finanspolicyn | Placering av kommunens medel. | Kdir | X |  |
@@ -1787,11 +1759,15 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 11 (20)
 | 2.2.8 | Reglementet | Årligen bevilja föreningsbidrag, maximalt två<br>prisbasbelopp per år, till Hallands arkivförbund | Kdir | X |  |
 | 2.2.9 | Reglementet | Årligen besluta om bidrag upp till ett belopp om fyra<br>prisbasbelopp per år, till Nyföretagarcentrum Halland. | Kdir | X |  |
 
+<!-- sida 49 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 11 (20)
+
 <!-- sida 50 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 12 (20)
 
-[Tabell 50-1](handlingar.tabeller/50-1.csv)
+[Tabell 50-51-1](handlingar.tabeller/50-51-1.csv)
 
 |  | 2.3 Personal<br>Kommunövergripande personalärenden |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1804,18 +1780,14 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 12 (20)
 | 2.3.6 | LAS | Anställning av<br>kommundirektör. | KS |  | Au bereder ärendet |
 | 2.3.7 | Lönestruktur,<br>arbetsrättslig<br>reglering | Lönesättning (vid nyanställning) och beslut i övriga<br>personalärenden för kommundirektör. | Ks ordf |  |  |
 | 2.3.8 | LAS | Anställning av förvaltningschef hos nämnd. | Au |  | Kommundirektören bereder<br>ärendet. |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
+| 2.3.9 | LAS | Anställning av förvaltningschef hos nämnd på<br>tidsbegränsat förordnande samt beslut om<br>ställföreträdande förvaltningschef hos nämnd. | Kdir |  |  |
+| 2.3.10 | Reglementet | Lönesättning av förvaltningschef hos nämnd (vid<br>nyanställning). | Kdir |  | Information till Au i samband med<br>lönesättning. |
+| 2.3.11 | Arbetsrättslig<br>reglering | Övriga personalärenden rörande förvaltningschef hos<br>nämnd | Kdir |  | Beslut om avsked för fc föregås<br>av samråd med Au.<br>Vid beslut om bisyssla för fc ska<br>information till Au ske. |
 
 <!-- sida 51 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 13 (20)
-
-[Tabell 51-1](handlingar.tabeller/51-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
-| 2.3.9 | LAS | Anställning av förvaltningschef hos nämnd på<br>tidsbegränsat förordnande samt beslut om<br>ställföreträdande förvaltningschef hos nämnd. | Kdir |  |  |
-| 2.3.10 | Reglementet | Lönesättning av förvaltningschef hos nämnd (vid<br>nyanställning). | Kdir |  | Information till Au i samband med<br>lönesättning. |
-| 2.3.11 | Arbetsrättslig<br>reglering | Övriga personalärenden rörande förvaltningschef hos<br>nämnd | Kdir |  | Beslut om avsked för fc föregås<br>av samråd med Au.<br>Vid beslut om bisyssla för fc ska<br>information till Au ske. |
 
 <!-- sida 52 -->
 
@@ -1823,7 +1795,7 @@ Kommunstyrelsens   egna personalärenden
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 14 (20)
 
-[Tabell 52-1](handlingar.tabeller/52-1.csv)
+[Tabell 52-53-1](handlingar.tabeller/52-53-1.csv)
 
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
 | --- | --- | --- | --- | --- | --- |
@@ -1831,15 +1803,6 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 14 (20)
 | 2.3.12 | LAS, kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader avseende chefer för respektive<br>kontor inom kommunstyrelsens förvaltning. | Kdir |  | Samråd med<br>Au innan anställning.<br>Tidsbegränsad anställning<br>kortare än 6 månader är<br>verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor. |
 | 2.3.13 | LAS, kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader för verksamhetschefer och direkt<br>underställd personal inom kommunstyrelsens<br>förvaltning. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till kontorschefer<br>för stadsbyggnads-<br>kontoret<br>samhällsbyggnads-<br>kontoret resp.<br>kommunlednings-<br>kontoret. | Tidsbegränsad anställning<br>kortare än 6 månader är<br>verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor.<br>Vidaredelegeringen gäller för<br>anställning av personal inom sitt<br>respektive ansvarsområde. |
 | 2.3.14 | LAS, kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader för övrig personal inom<br>kommunstyrelsens förvaltning. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till verksamhets-<br>chefer. | Tidsbegränsad anställning kortare<br>än 6 månader är verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor.<br>Vidaredelegeringen gäller för<br>anställning av personal inom sitt<br>respektive ansvarsområde. |
-
-<!-- sida 53 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (20)
-
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.3.15 | Arbetsrättslig<br>reglering | Beslut i övriga personalärenden rörande chefer vid<br>respektive kontor inom kommunstyrelsens förvaltning. | Kdir |  |  |
 |  |  | Avveckla |  |  |  |
 | 2.3.16 | LAS § 7 | Uppsägning av personliga skäl. | Kdir | X | I samråd med HR på förvaltningen<br>och förhandlingschef. |
@@ -1851,11 +1814,15 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (20)
 | 2.3.21 | AB § 10 mom 1-3 | Avstängning | Kdir | X | I samråd med HR på<br>förvaltningen. |
 | 2.3.22 | AB § 11 | Disciplinåtgärd – skriftlig varning | Kdir | X | I samråd med HR på<br>förvaltningen. |
 
+<!-- sida 53 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (20)
+
 <!-- sida 54 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 16 (20)
 
-[Tabell 54-1](handlingar.tabeller/54-1.csv)
+[Tabell 54-56-1](handlingar.tabeller/54-56-1.csv)
 
 |  | 2.4 Verksamhet<br>Mark och exploatering |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1867,15 +1834,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 16 (20)
 | 2.4.5 | Reglementet | Uppsägning, överlåtelse eller medgivande till<br>vidareöverlåtelse av arrendeavtal. | Kdir | X | Se bestämmelserna punkt 1.5 |
 | 2.4.6 | Reglementet | Servitutsavtal, markavtal och avtal för ledningsrätter<br>samt vägrätt avseende upplåtelse på kommunens mark,<br>upp till 2 miljoner kr. | Kdir | X | Villkor:<br>Vidaredelegering upp till 2<br>miljoner kronor får ske till VC och<br>upp till 250 000 kronor till annan<br>anställd.<br>Se bestämmelserna punkt 1.5 |
 | 2.4.7 | Reglementet | Tillförsäkra kommunen nyttjanderätter (t.ex. arrende,<br>servitut, tomträtt) för kommunens förvaltningar upp till<br>250 000 kr. | Kdir | X | Se bestämmelserna punkt 1.5 |
-
-<!-- sida 55 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (20)
-
-[Tabell 55-1](handlingar.tabeller/55-1.csv)
-
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.4.8 | Reglementet | Upplåtelse av allmän plats för särskilda ändamål | Kdir | X | Nämnden för Teknik handlägger<br>yttranden om tillstånd enligt OL 3<br>kap 2 §. |
 | 2.4.9 | Reglementet | Yttrande avseende tillstånd för högspänningsledningar<br>för nätkoncession och liknande. (Gäller inkommen<br>framställan från den beslutande myndigheten). | Au |  |  |
 | 2.4.10 | Reglementet | Förvärv av fastighet eller del av fastighet, genom köp,<br>byte, gåva, fastighetsreglering eller liknande åtgärd, upp<br>till 10 miljoner kr. | Au |  | Se bestämmelserna punkt 1.5 |
@@ -1884,15 +1843,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (20)
 | 2.4.13 | Reglementet | Överlåtelse av kommunens fasta egendom, (fastighet<br>eller del av fastighet) genom köp, byte, gåva,<br>fastighetsreglering eller liknande åtgärd, upp till 10<br>miljoner kr. | Au |  |  |
 | 2.4.14 | Reglementet | Överlåtelse av kommunens fasta egendom (fastighet<br>eller del av fastighet) genom köp, byte, gåva,<br>fastighetsreglering eller liknande åtgärd, upp till 2<br>miljoner kr. | Kdir | X | Villkor:<br>Vidaredelegering upp till 2<br>miljoner kronor får ske till VC och<br>upp till 250 000 kronor till annan<br>anställd.<br>Se bestämmelserna punkt 1.5. |
 | 2.4.15 | Reglementet | Utredning för lokalisering av verksamhet. | Au |  |  |
-
-<!-- sida 56 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 18 (20)
-
-[Tabell 56-1](handlingar.tabeller/56-1.csv)
-
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.4.16 | Reglementet | Avtal om parkeringsköp och parkeringsavlösen. | Kdir | X | Se bestämmelserna punkt 1.5. |
 | 2.4.17 | Reglementet | Förvärv av fast egendom som försäljs på exekutiv- eller<br>offentlig auktion där kommunen har intecknad fordran<br>eller är intecknad för lån med kommunal borgen. | Kdir | X | Samråd Au inför auktion. Se<br>bestämmelserna punkt 1.5 |
 | 2.4.18 | Reglementet | Nedsättning, dödning, sammanföring och relaxation av<br>inteckningar samt utbyte av pantbrev liksom andra<br>därmed jämförliga åtgärder. | Kdir | X | Se bestämmelserna punkt 1.5 |
@@ -1902,6 +1853,14 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 18 (20)
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
+
+<!-- sida 55 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (20)
+
+<!-- sida 56 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 18 (20)
 
 <!-- sida 57 -->
 
@@ -2233,7 +2192,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 9 (19)
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 10 (19)
 
-[Tabell 68-1](handlingar.tabeller/68-1.csv)
+[Tabell 68-69-1](handlingar.tabeller/68-69-1.csv)
 
 |  | 2.2 Ekonomi och inköp |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2245,15 +2204,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 10 (19)
 | 2.2.1 d) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Beslut om ändring och tillägg av kontrakt. | Kdir | X<br>Villkor: Samma<br>delegat som i 2.2.1 a) |  |
 | 2.2.1 e) | LOU, Policy för<br>inköp<br>Riktlinjer för inköp | Beslut om uppsägning eller hävning av avtal. | Kdir | X<br>Villkor: Samma<br>delegat som i 2.2.1 a) |  |
 | 2.2.2 | KS beslut om<br>nämndbudget och<br>Kungsbacka<br>styrmodell | Förvaltningsbudget med fördelning på verksamhetsnivå. | Kdir |  |  |
-
-<!-- sida 69 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 11 (19)
-
-[Tabell 69-1](handlingar.tabeller/69-1.csv)
-
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.2.3 | Attestreglementet | Utse beslutsattestanter och ersättare för<br>kommunstyrelsens förvaltning. | Kdir |  | Anmäls till KS en gång per år. |
 | 2.2.4 | Reglementet<br>Finanspolicyn | Ta upp lån inom den maximala beloppsgräns<br>kommunfullmäktige årligen fastställer i<br>kommunbudgeten. | Kdir | X |  |
 | 2.2.5 | Reglementet<br>Finanspolicyn | Placering av kommunens medel. | Kdir | X |  |
@@ -2262,11 +2213,15 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 11 (19)
 | 2.2.8 | Reglementet | Årligen bevilja föreningsbidrag, maximalt två<br>prisbasbelopp per år, till Hallands arkivförbund | Kdir | X |  |
 | 2.2.9 | Reglementet | Årligen besluta om bidrag upp till ett belopp om fyra<br>prisbasbelopp per år, till Nyföretagarcentrum Halland. | Kdir | X |  |
 
+<!-- sida 69 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 11 (19)
+
 <!-- sida 70 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 12 (19)
 
-[Tabell 70-1](handlingar.tabeller/70-1.csv)
+[Tabell 70-71-1](handlingar.tabeller/70-71-1.csv)
 
 |  | 2.3 Personal<br>Kommunövergripande personalärenden |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2279,24 +2234,20 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 12 (19)
 | 2.3.6 | LAS | Anställning av<br>kommundirektör. | KS |  | Au bereder ärendet |
 | 2.3.7 | Lönestruktur,<br>arbetsrättslig<br>reglering | Lönesättning (vid nyanställning) och beslut i övriga<br>personalärenden för kommundirektör. | Ks ordf |  |  |
 | 2.3.8 | LAS | Anställning av förvaltningschef hos nämnd. | Au |  | Kommundirektören bereder<br>ärendet. |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
+| 2.3.9 | LAS | Anställning av förvaltningschef hos nämnd på<br>tidsbegränsat förordnande samt beslut om<br>ställföreträdande förvaltningschef hos nämnd. | Kdir |  |  |
+| 2.3.10 | Reglementet | Lönesättning av förvaltningschef hos nämnd (vid<br>nyanställning). | Kdir |  | Information till Au i samband med<br>lönesättning. |
+| 2.3.11 | Arbetsrättslig<br>reglering | Övriga personalärenden rörande förvaltningschef hos<br>nämnd | Kdir |  | Beslut om avsked för fc föregås<br>av samråd med Au.<br>Vid beslut om bisyssla för fc ska<br>information till Au ske. |
 
 <!-- sida 71 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 13 (19)
 
-[Tabell 71-1](handlingar.tabeller/71-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
-| 2.3.9 | LAS | Anställning av förvaltningschef hos nämnd på<br>tidsbegränsat förordnande samt beslut om<br>ställföreträdande förvaltningschef hos nämnd. | Kdir |  |  |
-| 2.3.10 | Reglementet | Lönesättning av förvaltningschef hos nämnd (vid<br>nyanställning). | Kdir |  | Information till Au i samband med<br>lönesättning. |
-| 2.3.11 | Arbetsrättslig<br>reglering | Övriga personalärenden rörande förvaltningschef hos<br>nämnd | Kdir |  | Beslut om avsked för fc föregås<br>av samråd med Au.<br>Vid beslut om bisyssla för fc ska<br>information till Au ske. |
-
 <!-- sida 72 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 14 (19)
 
-[Tabell 72-1](handlingar.tabeller/72-1.csv)
+[Tabell 72-73-1](handlingar.tabeller/72-73-1.csv)
 
 |  | Kommunstyrelsens egna personalärenden |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2305,15 +2256,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 14 (19)
 | 2.3.12 | LAS, kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader avseende chefer för respektive<br>kontor inom kommunstyrelsens förvaltning. | Kdir |  | Samråd med<br>Au innan anställning.<br>Tidsbegränsad anställning<br>kortare än 6 månader är<br>verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor. |
 | 2.3.13 | LAS, kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader för verksamhetschefer och direkt<br>underställd personal inom kommunstyrelsens<br>förvaltning. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till kontorschefer<br>för stadsbyggnads-<br>kontoret resp.<br>kommunlednings-<br>kontoret. | Tidsbegränsad anställning<br>kortare än 6 månader är<br>verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor.<br>Vidaredelegeringen gäller för<br>anställning av personal inom sitt<br>respektive ansvarsområde. |
 | 2.3.14 | LAS, kollektivavtal,<br>lönestruktur m.m. | Tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader för övrig personal inom<br>kommunstyrelsens förvaltning. | Kdir | X<br>Villkor:<br>Vidaredelegering får<br>ske till verksamhets-<br>chefer. | Tidsbegränsad anställning kortare<br>än 6 månader är verkställighet.<br>Innefattar lönesättning och<br>samtliga övriga anställningsvillkor.<br>Vidaredelegeringen gäller för<br>anställning av personal inom sitt<br>respektive ansvarsområde. |
-
-<!-- sida 73 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (19)
-
-[Tabell 73-1](handlingar.tabeller/73-1.csv)
-
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.3.15 | Arbetsrättslig<br>reglering | Beslut i övriga personalärenden rörande chefer vid<br>respektive kontor inom kommunstyrelsens förvaltning. | Kdir |  |  |
 |  |  | Avveckla |  |  |  |
 | 2.3.16 | LAS § 7 | Uppsägning av personliga skäl. | Kdir | X | I samråd med HR på förvaltningen<br>och förhandlingschef. |
@@ -2325,11 +2268,15 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (19)
 | 2.3.21 | AB § 10 mom 1-3 | Avstängning | Kdir | X | I samråd med HR på<br>förvaltningen. |
 | 2.3.22 | AB § 11 | Disciplinåtgärd – skriftlig varning | Kdir | X | I samråd med HR på<br>förvaltningen. |
 
+<!-- sida 73 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 15 (19)
+
 <!-- sida 74 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 16 (19)
 
-[Tabell 74-1](handlingar.tabeller/74-1.csv)
+[Tabell 74-76-1](handlingar.tabeller/74-76-1.csv)
 
 |  | 2.4 Verksamhet<br>Mark och exploatering |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2341,15 +2288,7 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 16 (19)
 | 2.4.5 | Reglementet | Uppsägning, överlåtelse eller medgivande till<br>vidareöverlåtelse av arrendeavtal. | Kdir | X | Se bestämmelserna punkt 1.5 |
 | 2.4.6 | Reglementet | Servitutsavtal, markavtal och avtal för ledningsrätter<br>samt vägrätt avseende upplåtelse på kommunens mark,<br>upp till 2 miljoner kr. | Kdir | X | Villkor:<br>Vidaredelegering upp till 2<br>miljoner kronor får ske till VC och<br>upp till 250 000 kronor till annan<br>anställd.<br>Se bestämmelserna punkt 1.5 |
 | 2.4.7 | Reglementet | Tillförsäkra kommunen nyttjanderätter (t.ex. arrende,<br>servitut, tomträtt) för kommunens förvaltningar upp till<br>250 000 kr. | Kdir | X | Se bestämmelserna punkt 1.5 |
-
-<!-- sida 75 -->
-
-Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (19)
-
-[Tabell 75-1](handlingar.tabeller/75-1.csv)
-
 | Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
 | 2.4.8 | Reglementet | Upplåtelse av allmän plats för särskilda ändamål | Kdir | X | Nämnden för Teknik handlägger<br>yttranden om tillstånd enligt OL 3<br>kap 2 §. |
 | 2.4.9 | Reglementet | Yttrande avseende tillstånd för högspänningsledningar<br>för nätkoncession och liknande. (Gäller inkommen<br>framställan från den beslutande myndigheten). | Au |  |  |
 | 2.4.10 | Reglementet | Förvärv av fastighet eller del av fastighet, genom köp,<br>byte, gåva, fastighetsreglering eller liknande åtgärd, upp<br>till 10 miljoner kr. | Au |  | Se bestämmelserna punkt 1.5 |
@@ -2358,18 +2297,18 @@ Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (19)
 | 2.4.13 | Reglementet | Överlåtelse av kommunens fasta egendom, (fastighet<br>eller del av fastighet) genom köp, byte, gåva,<br>fastighetsreglering eller liknande åtgärd, upp till 10<br>miljoner kr. | Au |  |  |
 | 2.4.14 | Reglementet | Överlåtelse av kommunens fasta egendom (fastighet<br>eller del av fastighet) genom köp, byte, gåva,<br>fastighetsreglering eller liknande åtgärd, upp till 2<br>miljoner kr. | Kdir | X | Villkor:<br>Vidaredelegering upp till 2<br>miljoner kronor får ske till VC och<br>upp till 250 000 kronor till annan<br>anställd.<br>Se bestämmelserna punkt 1.5. |
 | 2.4.15 | Reglementet | Utredning för lokalisering av verksamhet. | Au |  |  |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
+| 2.4.16 | Reglementet | Avtal om parkeringsköp och parkeringsavlösen. | Kdir | X | Se bestämmelserna punkt 1.5. |
+| 2.4.17 | Reglementet | Förvärv av fast egendom som försäljs på exekutiv- eller<br>offentlig auktion där kommunen har intecknad fordran<br>eller är intecknad för lån med kommunal borgen. | Kdir | X | Samråd Au inför auktion. Se<br>bestämmelserna punkt 1.5 |
+| 2.4.18 | Reglementet | Nedsättning, dödning, sammanföring och relaxation av<br>inteckningar samt utbyte av pantbrev liksom andra<br>därmed jämförliga åtgärder. | Kdir | X | Se bestämmelserna punkt 1.5 |
+
+<!-- sida 75 -->
+
+Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 17 (19)
 
 <!-- sida 76 -->
 
 Kungsbacka kommun       Delegering av beslutanderätt Kommunstyrelsen 18 (19)
-
-[Tabell 76-1](handlingar.tabeller/76-1.csv)
-
-| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Med rätt att<br>vidaredelegera | Anmärkning/villkor |
-| --- | --- | --- | --- | --- | --- |
-| 2.4.16 | Reglementet | Avtal om parkeringsköp och parkeringsavlösen. | Kdir | X | Se bestämmelserna punkt 1.5. |
-| 2.4.17 | Reglementet | Förvärv av fast egendom som försäljs på exekutiv- eller<br>offentlig auktion där kommunen har intecknad fordran<br>eller är intecknad för lån med kommunal borgen. | Kdir | X | Samråd Au inför auktion. Se<br>bestämmelserna punkt 1.5 |
-| 2.4.18 | Reglementet | Nedsättning, dödning, sammanföring och relaxation av<br>inteckningar samt utbyte av pantbrev liksom andra<br>därmed jämförliga åtgärder. | Kdir | X | Se bestämmelserna punkt 1.5 |
 
 <!-- sida 77 -->
 
@@ -3199,7 +3138,7 @@ kontraproposition i huvudomröstningen.
 
 Expedierat/bestyrkt
 
-[Tabell 100-1](handlingar.tabeller/100-1.csv)
+[Tabell 100-101-1](handlingar.tabeller/100-101-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3227,30 +3166,7 @@ Expedierat/bestyrkt
 | Filip Berndtsson | ( M ) | A ll a |  |  | X |  |  |
 | Lars Eriksson | (S ) | A ll a |  | X |  |  |  |
 | Susanne Andersson | ( S D ) | A l la |  |  |  | X |  |
-
-<!-- sida 101 -->
-
-KUNGSBACKA KOMMUN               PROTOKOLLSUTDRAG
-
-Kommunfullmäktige               Datum
-2019-11-05
-
-Ordföranden redovisar sedan följande propositionsordning för
-huvudomröstningen som kommunfullmäktige godkänner:
-
-Ja-röst innebär bifall till kommunstyrelsens förslag.
-Nej-röst innebär bifall till Britt Tönnbergs (S) m.fl. yrkande.
-
-Omröstningsresultat
-Ordföranden finner att kommunfullmäktige, med 46 ja-röster mot 13 nej-röster
-och 2 som avstår, beslutar bifalla kommunstyrelsens förslag.
-
-Expedierat/bestyrkt
-
-[Tabell 101-1](handlingar.tabeller/101-1.csv)
-
 | Kalle Påsse Sundvall | ( M ) | A ll a |  |  |  | X |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | Henrik Arnesson | ( C ) | A ll a |  |  |  | X |  |
 | Marie Wadström | ( K D ) | A l la |  |  |  | X |  |
 | Monica Neptun | ( L ) | A l la |  |  |  | X |  |
@@ -3289,6 +3205,25 @@ Expedierat/bestyrkt
 | Ulrika Högstrand | ( K D ) | A l la |  |  |  | X |  |
 | SUMMA: |  |  |  | 14 | 9 | 38 | 0 |
 
+<!-- sida 101 -->
+
+KUNGSBACKA KOMMUN               PROTOKOLLSUTDRAG
+
+Kommunfullmäktige               Datum
+2019-11-05
+
+Ordföranden redovisar sedan följande propositionsordning för
+huvudomröstningen som kommunfullmäktige godkänner:
+
+Ja-röst innebär bifall till kommunstyrelsens förslag.
+Nej-röst innebär bifall till Britt Tönnbergs (S) m.fl. yrkande.
+
+Omröstningsresultat
+Ordföranden finner att kommunfullmäktige, med 46 ja-röster mot 13 nej-röster
+och 2 som avstår, beslutar bifalla kommunstyrelsens förslag.
+
+Expedierat/bestyrkt
+
 <!-- sida 102 -->
 
 KUNGSBACKA KOMMUN               PROTOKOLLSUTDRAG
@@ -3298,7 +3233,7 @@ Kommunfullmäktige               Datum
 
 Expedierat/bestyrkt
 
-[Tabell 102-1](handlingar.tabeller/102-1.csv)
+[Tabell 102-103-1](handlingar.tabeller/102-103-1.csv)
 
 | Ledamöter | Parti | Kret | Ersättare | Ja | Nej | Avst | Frånv |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3355,6 +3290,15 @@ Expedierat/bestyrkt
 | Heinrich Kaufmann | (C ) | A ll a |  | X |  |  |  |
 | Gunilla Apler | ( M ) | A ll a |  | X |  |  |  |
 | Tobias Eriksson | ( S D ) | A l la |  | X |  |  |  |
+| Berit Bergström | (M ) | A ll a |  | X |  |  |  |
+| Maj-Britt Rane-Andersson | (S ) | A ll a |  |  | X |  |  |
+| Karin Green | ( C ) | A ll a |  | X |  |  |  |
+| Ann-Helene Reimertz | ( M ) | A ll a |  | X |  |  |  |
+| Madelene Höök | ( L ) | A l la |  | X |  |  |  |
+| Thord Brynielsson | ( S D ) | A l la | L a rs Gallon | X |  |  |  |
+| Per Stenberg | ( M ) | A ll a |  | X |  |  |  |
+| Ulrika Högstrand | ( K D ) | A l la |  | X |  |  |  |
+| SUMMA: |  |  |  | 46 | 13 | 2 | 0 |
 
 <!-- sida 103 -->
 
@@ -3367,19 +3311,6 @@ Beslutet skickas till
 Nämnden för Teknik, kommunledningskontoret: ekonomi
 
 Expedierat/bestyrkt
-
-[Tabell 103-1](handlingar.tabeller/103-1.csv)
-
-| Berit Bergström | (M ) | A ll a |  | X |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Maj-Britt Rane-Andersson | (S ) | A ll a |  |  | X |  |  |
-| Karin Green | ( C ) | A ll a |  | X |  |  |  |
-| Ann-Helene Reimertz | ( M ) | A ll a |  | X |  |  |  |
-| Madelene Höök | ( L ) | A l la |  | X |  |  |  |
-| Thord Brynielsson | ( S D ) | A l la | L a rs Gallon | X |  |  |  |
-| Per Stenberg | ( M ) | A ll a |  | X |  |  |  |
-| Ulrika Högstrand | ( K D ) | A l la |  | X |  |  |  |
-| SUMMA: |  |  |  | 46 | 13 | 2 | 0 |
 
 <!-- sida 104 -->
 

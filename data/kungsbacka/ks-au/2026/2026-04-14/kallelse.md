@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.673b6e6519d7224d2e8f61e/17758030452
 sha256: bc575dd13f9f06e54db64578106b8e08db8dfff7ecc98c947be7acc7bf71ba11
 bytes: 213418
 sidor: 4
-hamtad: 2026-10-09T08:26:23+00:00
-konverterad: 2026-10-09T08:26:29+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-16T06:17:13+00:00
+konverterad: 2026-10-16T06:17:19+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-3-1](kallelse.tabeller/2-3-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -65,22 +65,17 @@ KUNGSBACKA  KOMMUN
 | 5. | Svar på motion från Elisabeth<br>Sahlsten (MP) om mera grön<br>och blå mat i Kungsbacka<br>kommun | KS-2025-00809 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige avslår motionens yrkande<br>1-3 med hänvisning till att kommunen redan<br>arbetar med en omställning mot en högre andel<br>vegetariska och andra proteiner som minskar<br>matens negativa klimat- och miljöpåverkan<br>samt att måltidsverksamheten utöver det<br>behöver ta hänsyn till flera faktorer vid<br>planering av skolmåltider, såsom<br>näringsriktighet, matglädje, acceptans för olika<br>livsmedel och möjligheten att erbjuda varierade<br>måltider.<br>Kommunfullmäktige avslår motionens sista<br>yrkande med hänvisning till att samma<br>förhållningssätt som för måltidsverksamhetens<br>inköp bör gälla för övriga inköp av mat vid<br>catering, fika och möten, i syfte att säkerställa<br>en enhetlig, effektiv och långsiktigt hållbar<br>styrning av kommunens livsmedelsinköp. |
 | 6. | Svar på motion från Magdalena<br>Sundqvist (S) om utbildning<br>kring våld i nära relation och<br>mäns våld mot kvinnor | KS-2024-00731 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige anser motionen besvarad<br>med hänvisning till att kommunen redan<br>erbjuder utbildningar för alla anställda, med<br>tillhörande stödmaterial som lyfts i<br>utvecklingssamtal och vid hälsosamtal, för att<br>identifiera och stödja anställda som är utsatta<br>för olika typer av våld. |
 | 7. | Svar på Region Hallands remiss<br>av Regionalt serviceprogram | KS-2026-00142 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrandet daterat<br>2026-04-02 och översänder det till Region<br>Halland. |
+| 8. | Avstämning och information<br>från Säkerhet och beredskap om<br>uppföljning av pågående arbete<br>08:45-09:30<br>Magnus Fogelblad | KS-2026-00054 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 9. | Information strategisk<br>samhällsutveckling om<br>hållbarhetsarbetet förflyttningar<br>inom mandatperioderna<br>09:45-10:25<br>Margit de Boer<br>Sven-Erik Bergström<br>Anders Lund | KS-2026-00244 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 10. | Information- Lägesrapport<br>kommunstyrelsens förvaltnings<br>arbete med budgetdirektivet<br>innovation & förnyelse<br>10:30-11:15<br>Anneli Skoglund<br>Ulrika Granfors<br>Stigert Pettersson | KS-2026-00020 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 11. | Information kring process om<br>avtal mellan Stiftelsen<br>Tjolöholm och Kungsbacka<br>kommun<br>11:20-11:50<br>Linnea Princis<br>Sofia Jonsson<br>Christina Hermansson | KS-2025-00589 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
+| 12. | Information ledamöter och<br>förvaltning | KS-2025-00975 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Avstämning och information<br>från Säkerhet och beredskap om<br>uppföljning av pågående arbete<br>08:45-09:30<br>Magnus Fogelblad | KS-2026-00054 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 9. | Information strategisk<br>samhällsutveckling om<br>hållbarhetsarbetet förflyttningar<br>inom mandatperioderna<br>09:45-10:25<br>Margit de Boer<br>Sven-Erik Bergström<br>Anders Lund | KS-2026-00244 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 10. | Information- Lägesrapport<br>kommunstyrelsens förvaltnings<br>arbete med budgetdirektivet<br>innovation & förnyelse<br>10:30-11:15<br>Anneli Skoglund<br>Ulrika Granfors<br>Stigert Pettersson | KS-2026-00020 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 11. | Information kring process om<br>avtal mellan Stiftelsen<br>Tjolöholm och Kungsbacka<br>kommun<br>11:20-11:50<br>Linnea Princis<br>Sofia Jonsson<br>Christina Hermansson | KS-2025-00589 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
-| 12. | Information ledamöter och<br>förvaltning | KS-2025-00975 | Förslag till beslut<br>Kommunstyrelsens arbetsutskott noterar<br>informationen till protokollet. |
 
 <!-- sida 4 -->
 

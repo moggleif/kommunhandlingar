@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.ca22f6f192bd236cc2706c5/17302132369
 sha256: b838a6c99d3ea0d2ee8666564892b96f9e41953a882673cb2deefeb83693469b
 bytes: 246665
 sidor: 5
-hamtad: 2026-10-09T08:22:11+00:00
-konverterad: 2026-10-09T08:22:17+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-16T06:12:36+00:00
+konverterad: 2026-10-16T06:12:44+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]
@@ -56,7 +56,7 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-5-1](kallelse.tabeller/2-5-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -64,17 +64,6 @@ KUNGSBACKA  KOMMUN
 | 4. | Taxa 2025 för Naturum Fjärås<br>Bräcka och Äskhult | 2024-00624 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Taxa för Naturum Fjärås<br>Bräcka och Äskhult, daterad 2024-08-12.<br>Kommunfullmäktige beslutar att taxan får justeras i<br>enlighet med taxans bestämmelse §§ 5-6 om årlig<br>indexjustering och delegation.<br>Taxan träder i kraft den 1 januari 2025.<br>Tidigare taxa för Naturum Fjärås Bräcka och<br>Äskhults by upphör samtidigt att gälla. |
 | 5. | Taxa för avfall 2025 | 2024-00300 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Avfallstaxa 2025, daterad<br>2024-09-26<br>Taxan träder i kraft den 1 januari 2025.<br>Avfallstaxa 2024 antagen av kommunfullmäktige<br>2023-12-14, § 194 upphör samtidigt att gälla.<br>Kommunfullmäktige noterar återredovisningen<br>gällande auktorisationssystem och maxtaxa för<br>fastighetsnära insamling av bygg- och<br>rivningsavfall. |
 | 6. | Ansökan om deltagande i<br>SKR:s projekt om utvecklad<br>budgetprocess | 2024-00703 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen ansöker om deltagande i SKR:s<br>projekt om utvecklad budgetprocess under perioden<br>2025/2026. |
-
-<!-- sida 3 -->
-
-KUNGSBACKA  KOMMUN
-
-3(5)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
 | 7. | Uppstart av projekt i lokalplan<br>Signeshus löpnr 816 | 2024-00700 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner uppstart av Signeshus<br>vård-och omsorgsboende. |
 | 8. | Uppstart av projekt i lokalplan<br>Åsaberg Bostäder med särskild<br>service löpnr 515 | 2024-00699 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner uppstart av projekt<br>Åsaberg BmSS. |
 | 9. | Delegering om att utse<br>tillförordnad kommundirektör | 2024-00651 | Kommunstyrelsens förvaltning överlämnar ärendet<br>utan eget ställningstagande. |
@@ -83,21 +72,25 @@ KUNGSBACKA  KOMMUN
 | 12. | Remittering av motion från<br>Magdalena Sundqvist (S) m.fl.<br>om att inrätta en årlig<br>minnesdag för Förintelsens<br>offer i samband med den<br>internationella minnesdagen | 2024-00620 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Kultur & Fritid för<br>beredning. |
 | 13. | Remittering av motion från<br>Johan Tolinsson (S) m.fl. om<br>ökat samarbete för barn och<br>elevers hälsa | 2024-00595 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Kultur & Fritid, nämnden<br>för Förskola & Grundskola, nämnden för<br>Gymnasium & Arbetsmarknad och nämnden för<br>Individ & Familjeomsorg för beredning. |
 | 14. | Remittering av motion från<br>Shabnam Zamani (S) om att<br>utforma ett långsiktigt och<br>strategiskt folkhälsoprogram | 2024-00648 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Kultur & Fritid för<br>beredning. |
+| 15. | Remittering av motion från<br>Shabnam Zamani (S) om att<br>utreda införandet av avgiftsfri<br>skolfrukost i Kungsbacka<br>kommuns gymnasieskolor | 2024-00668 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Gymnasium &<br>Arbetsmarknad för beredning. |
+| 16. | Information om aktuella<br>kommunikationsfrågor (från<br>årshjul)<br>08:45-09:25<br>Annika Jardin<br>Matilda Alsterberg<br>Emma Bruhn<br>Sofie Pettersson | 2024-00393 | - |
+| 17. | Information om arbetet med<br>Kungsbacka Arena<br>09:30-09:45<br>Sven Erik Bergström<br>Semir Robovic<br>Ing-Britt Blomberg | 2020-00547 | - |
+| 18. | Dialog med länsstyrelsen om<br>kommun-, fördelning och EKB-<br>andelstal 2025<br>10:00-10:40<br>Patrik Hellberg, Gymnasium &<br>Arbetsmarknad<br>Länsstyrelsen i Hallands län:<br>Lovisa Ljungberg, vikarierande<br>länsråd<br>Thijs den Teuling,<br>integrationssamordnare | 2024-00705 | - |
+| 19. | Avstämning om förändring<br>avseende projekt i lokalplan Kv<br>Liljan skola och idrottssal<br>10:45-11:05<br>Maria Rosenberg<br>Jenny Törn<br>Julia Tryggvadottir Tollesson | 2024-00724 | - |
+| 20. | Information om arbetet med<br>fördjupad översiktsplan för<br>Kungsbacka stad (FÖP)<br>11:10 - 11:40<br>Andrea Ericsson<br>Anders Lund<br>Christian Carlsson<br>Mårten Västerdal<br>Peter Gustavsson | 2020-00313 | - |
+| 21. | Information från ledamöter och<br>förvaltning | 2024-00025 | - |
+
+<!-- sida 3 -->
+
+KUNGSBACKA  KOMMUN
+
+3(5)
 
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 15. | Remittering av motion från<br>Shabnam Zamani (S) om att<br>utreda införandet av avgiftsfri<br>skolfrukost i Kungsbacka<br>kommuns gymnasieskolor | 2024-00668 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott remitterar<br>motionen till nämnden för Gymnasium &<br>Arbetsmarknad för beredning. |
-| 16. | Information om aktuella<br>kommunikationsfrågor (från<br>årshjul)<br>08:45-09:25<br>Annika Jardin<br>Matilda Alsterberg<br>Emma Bruhn<br>Sofie Pettersson | 2024-00393 | - |
-| 17. | Information om arbetet med<br>Kungsbacka Arena<br>09:30-09:45<br>Sven Erik Bergström<br>Semir Robovic<br>Ing-Britt Blomberg | 2020-00547 | - |
-| 18. | Dialog med länsstyrelsen om<br>kommun-, fördelning och EKB-<br>andelstal 2025<br>10:00-10:40<br>Patrik Hellberg, Gymnasium &<br>Arbetsmarknad<br>Länsstyrelsen i Hallands län:<br>Lovisa Ljungberg, vikarierande<br>länsråd<br>Thijs den Teuling,<br>integrationssamordnare | 2024-00705 | - |
 
 <!-- sida 5 -->
 
@@ -107,11 +100,3 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 5-1](kallelse.tabeller/5-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 19. | Avstämning om förändring<br>avseende projekt i lokalplan Kv<br>Liljan skola och idrottssal<br>10:45-11:05<br>Maria Rosenberg<br>Jenny Törn<br>Julia Tryggvadottir Tollesson | 2024-00724 | - |
-| 20. | Information om arbetet med<br>fördjupad översiktsplan för<br>Kungsbacka stad (FÖP)<br>11:10 - 11:40<br>Andrea Ericsson<br>Anders Lund<br>Christian Carlsson<br>Mårten Västerdal<br>Peter Gustavsson | 2020-00313 | - |
-| 21. | Information från ledamöter och<br>förvaltning | 2024-00025 | - |

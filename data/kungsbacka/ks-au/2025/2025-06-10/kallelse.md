@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2334a47b19733ebe4fc653f1/1749123892
 sha256: 3820740c573ce60dbafd8b8f4b675e5020b1f70f4b7eff8e29038e282772a7b9
 bytes: 256248
 sidor: 4
-hamtad: 2026-10-09T08:24:12+00:00
-konverterad: 2026-10-09T08:24:18+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-16T06:14:49+00:00
+konverterad: 2026-10-16T06:14:56+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
@@ -59,7 +59,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -68,21 +68,21 @@ KUNGSBACKA  KOMMUN
 | 7. | Huvudmannaskap för<br>genomförande av projekt<br>gällande avhjälpande av<br>föroreningsskador på<br>fastigheten Samariten 11 i<br>Kungsbacka kommun | 2025-00353 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen beslutar att Kungsbacka kommun<br>åtar sig huvudmannaskapet för att genomföra<br>utredningsfasen i projektet avseende<br>föroreningsskador på fastigheten Samariten 11 i<br>Kungsbacka kommun.<br>Kommunstyrelsen accepterar de villkor<br>Länsstyrelsen i Hallands län har ställt för utbetalning<br>av medel för undersökningar vid nedlagd kemtvätt<br>på fastigheten Samariten 11 i Kungsbacka kommun. |
 | 8. | Information om uppdragslista<br>(från årshjul)<br>08:30-08:35<br>Andres Johansson<br>Lovisa Eld | 2025-00017 |  |
 | 9. | Information om näringsliv (från<br>årshjul)<br>08:40-09:25<br>Elinor Filipsson<br>Johan Gerremo<br>Simon Vedlund | 2025-00021 |  |
+| 10. | Information om Åsa 3:339<br>09:30-09:45<br>Björn Vikström<br>Mikaela Ropel<br>Ida Lennartsson<br>Johan Gerremo | 2022-00527 |  |
+| 11. | Information om arbetet med<br>planprogram Åsa station<br>10:00-10:20<br>Stina Wikström<br>Ida Lennartsson<br>Johan Gerremo | 2024-00218 |  |
+| 12. | Information om arbetet med<br>markanvisning kvarteret Ejdern<br>10:25-10:55<br>Fortesta Bytyqi<br>Mikaela Ropel<br>Johan Gerremo | 2023-00651 |  |
+| 13. | Information om arbetet med<br>säkerhet och robusta lokaler<br>11:00-12:00<br>Jonas Lebrand<br>Joel Ledsgård<br>Dennis Salenborn<br>Henric Alike<br>Jesper Edlind<br>Veronica Norell | 2025-00054 |  |
+| 14. | Information om arbetet med<br>Energiplan för Kungsbacka<br>kommun<br>13:00-13:25<br>Mårten Västerdal<br>Anders Lund | 2024-00202 |  |
+| 15. | Information om arbetet med<br>fördjupad översiktsplan för<br>Kungsbacka stad - återkoppling<br>efter granskning<br>13:30-13:45<br>Andrea Ericsson<br>Anders Lund | 2024-00785 |  |
+| 16. | Information om intern kontroll<br>2026 för Kungsbacka kommun<br>13:50-14:20<br>Lotta Gradén<br>Christina Hermansson | 2025-00335 |  |
+| 17. | Information om<br>Handelsutredning<br>14:25-14:55<br>Elinor Filipsson | 2025-00429 |  |
+| 18. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 10. | Information om Åsa 3:339<br>09:30-09:45<br>Björn Vikström<br>Mikaela Ropel<br>Ida Lennartsson<br>Johan Gerremo | 2022-00527 |  |
-| 11. | Information om arbetet med<br>planprogram Åsa station<br>10:00-10:20<br>Stina Wikström<br>Ida Lennartsson<br>Johan Gerremo | 2024-00218 |  |
-| 12. | Information om arbetet med<br>markanvisning kvarteret Ejdern<br>10:25-10:55<br>Fortesta Bytyqi<br>Mikaela Ropel<br>Johan Gerremo | 2023-00651 |  |
-| 13. | Information om arbetet med<br>säkerhet och robusta lokaler<br>11:00-12:00<br>Jonas Lebrand<br>Joel Ledsgård<br>Dennis Salenborn<br>Henric Alike<br>Jesper Edlind<br>Veronica Norell | 2025-00054 |  |
 
 <!-- sida 4 -->
 
@@ -92,13 +92,3 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 14. | Information om arbetet med<br>Energiplan för Kungsbacka<br>kommun<br>13:00-13:25<br>Mårten Västerdal<br>Anders Lund | 2024-00202 |  |
-| 15. | Information om arbetet med<br>fördjupad översiktsplan för<br>Kungsbacka stad - återkoppling<br>efter granskning<br>13:30-13:45<br>Andrea Ericsson<br>Anders Lund | 2024-00785 |  |
-| 16. | Information om intern kontroll<br>2026 för Kungsbacka kommun<br>13:50-14:20<br>Lotta Gradén<br>Christina Hermansson | 2025-00335 |  |
-| 17. | Information om<br>Handelsutredning<br>14:25-14:55<br>Elinor Filipsson | 2025-00429 |  |
-| 18. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |

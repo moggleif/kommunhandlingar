@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.5a53603d190a25d80872b0b4/1723037347
 sha256: ae68e46a3463a0aa573cda5b004f28a344bcda8e2946e09caaf7b8980f7a0cda
 bytes: 21118321
 sidor: 175
-hamtad: 2026-10-09T09:02:27+00:00
-konverterad: 2026-10-09T09:03:25+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-10-16T06:54:53+00:00
+konverterad: 2026-10-16T06:55:56+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: []
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok]
+tal_obekraftade: [166]
 figurer: [7, 151, 156, 158, 160, 164, 166, 167, 169, 170, 172, 173, 174, 175]
 tolkade: []
 ---
@@ -1255,7 +1255,7 @@ Kommerskollegium.
 
 5
 
-[Tabell 33-1](handlingar.tabeller/33-1.csv)
+[Tabell 33-34-1](handlingar.tabeller/33-34-1.csv)
 
 | Art | Undantag från<br>förbuden | Geografisk<br>omfattning<br>av<br>regleringen | Hanteringsåtgärder/<br>utrotningsåtgärder |
 | --- | --- | --- | --- |
@@ -1264,20 +1264,16 @@ Kommerskollegium.
 | Jättesliden<br>(parkslide,<br>jätteslide och<br>hybridslide) | Ägare eller<br>innehavare av<br>särskild rätt till<br>fastighet<br>undantas från<br>skyldigheten att<br>utrota befintliga<br>bestånd.<br>Åtgärder för<br>utrotning eller<br>spridningsbegrä<br>nsning ska dock<br>vidtas avseende<br>bestånd som<br>visar tecken på<br>eller riskerar att<br>sprida sig. | Hela landet | Hanteringsåtgärder |
 | Vresros | - | Hela landet | Hanteringsåtgärder |
 | Kaukasiskt<br>fetblad | Växter som<br>används eller<br>ska användas på<br>sedum- eller<br>vegetationstak<br>som har<br>uppförts innan<br>eller högst tre år<br>efter arten togs<br>upp på den | Hela landet | Utrotningsåtgärder |
-
-<!-- sida 34 -->
-
-6
-
-[Tabell 34-1](handlingar.tabeller/34-1.csv)
-
 |  | nationella<br>förteckningen<br>ska inte<br>omfattas av<br>förbuden. |  |  |
-| --- | --- | --- | --- |
 | Sibiriskt<br>fetblad | Växter som<br>används eller<br>ska användas på<br>sedum- eller<br>vegetationstak<br>som har<br>uppförts innan<br>eller högst tre år<br>efter arten togs<br>upp på den<br>nationella<br>förteckningen<br>ska inte<br>omfattas av<br>förbuden. | Hela landet | Utrotningsåtgärder |
 | Strandkotula | - | Hela landet | Utrotningsåtgärder |
 | Spärroxbär | Undantag från<br>förbudet mot<br>införsel i landet. | Gotlands och<br>Kalmar län | Hanteringsåtgärder |
 | Kanadensiskt<br>gullris<br>Höstgullris | - | Hela landet | Hanteringsåtgärder |
 | Mink | Djur som<br>används eller<br>ska användas<br>för<br>pälsdjursuppföd<br>ning omfattas<br>inte av<br>förbuden.<br>Djur som hålls i<br>djurparker<br>omfattas inte av<br>förbuden. | Hela landet | Utrotningsåtgärder |
+
+<!-- sida 34 -->
+
+6
 
 <!-- sida 35 -->
 
@@ -3461,7 +3457,7 @@ Tabell 10. Åtgärdskostnader för utrotning enligt EU-reglering
 
 48
 
-[Tabell 76-1](handlingar.tabeller/76-1.csv)
+[Tabell 76-77-1](handlingar.tabeller/76-77-1.csv)
 
 | Art | Omfattning av åtgärd | Åtgärdskostnad |
 | --- | --- | --- |
@@ -3476,6 +3472,10 @@ Tabell 10. Åtgärdskostnader för utrotning enligt EU-reglering
 | Spärroxbär | Upprepande åtgärder under<br>5årsperiod | 850 miljoner kr, nuvärde<br>(2020 års nivå) |
 | Kanadensiskt gullris:<br>infrastrukturmiljöer | Engångsåtgärd\* | 6,7–12,8 miljoner kr |
 | Kanadensiskt gullris: övriga<br>naturtyper | Engångsåtgärd\* | 4–10 miljoner kr |
+| Höstgullris | - | - |
+| Mink: hela landet | Engångsåtgärd\* | 0,2–1,6 miljarder kr |
+| Mink: alla öar i havsvatten | Engångsåtgärd\* | 23,2 miljoner kr |
+| Mink: alla öar i fågelskydd | Engångsåtgärd\* | 0,39 miljoner kr |
 
 <!-- sida 77 -->
 
@@ -3526,14 +3526,6 @@ således länsstyrelserna större rådighet i frågan, men den kommer samtidigt
 innebära ett utökat tillsynsansvar. För kommunerna som ansvarar för
 
 49
-
-[Tabell 77-1](handlingar.tabeller/77-1.csv)
-
-| Höstgullris | - | - |
-| --- | --- | --- |
-| Mink: hela landet | Engångsåtgärd\* | 0,2–1,6 miljarder kr |
-| Mink: alla öar i havsvatten | Engångsåtgärd\* | 23,2 miljoner kr |
-| Mink: alla öar i fågelskydd | Engångsåtgärd\* | 0,39 miljoner kr |
 
 <!-- sida 78 -->
 
@@ -3815,7 +3807,7 @@ förslagens förenlighet med SPS-avtalet.
 
 Översikt föreslagen reglering (tabell)
 
-[Tabell 86-1](handlingar.tabeller/86-1.csv)
+[Tabell 86-87-1](handlingar.tabeller/86-87-1.csv)
 
 | Art | Hur arten ska<br>hanteras | Undantag från förbuden i 7 a § |
 | --- | --- | --- |
@@ -3827,15 +3819,7 @@ förslagens förenlighet med SPS-avtalet.
 | vattenpest<br>(Elodea canadensis) | hanteringsåtgärder | Privata fastighetsägare med befintliga<br>bestånd i öppna vattensystem. |
 | amerikansk hummer<br>(Homarus americanus) | utrotningsåtgärder | Amerikansk hummer som importeras<br>eller förs in till landet av den som har<br>tillstånd av Havs- och vattenmyndigheten<br>omfattas inte av förbuden i 7a § punkt 1,<br>2 och 7. Detta gäller i första införselled. |
 | marmorkarp<br>(Hypophthalmichthys nobilis) | utrotningsåtgärder |  |
-
-<!-- sida 87 -->
-
-7/53
-
-[Tabell 87-1](handlingar.tabeller/87-1.csv)
-
 | prickig dvärgmal<br>(Ictalurus punctatus) | utrotningsåtgärder |  |
-| --- | --- | --- |
 | Väderfiskar, Misgurnus spp.<br>(Misgurnus amamianus)<br>(Misgurnus anguillicaudatus)<br>(Misgurnus bipartitus)<br>(Misgurnus buphoensis)<br>(Misgurnus chipisaniensis)<br>(Misgurnus fossilis)<br>(Misgurnus dabryanus)<br>(Misgurnus mohoity)<br>(Misgurnus multimaculatus)<br>(Misgurnus nahangensis)<br>(Misgurnus nikolskyi)<br>(Misgurnus tonkinensis) | utrotningsåtgärder |  |
 | svartmunnad smörbult<br>(Neogobius melanostomus) | hanteringsåtgärder |  |
 | sjögull<br>(Nymphoides peltata) | hanteringsåtgärder | Privata fastighetsägare med befintliga<br>bestånd i öppna vattensystem. |
@@ -3844,6 +3828,10 @@ förslagens förenlighet med SPS-avtalet.
 | bighead goby<br>(Ponticola kessleri) | utrotningsåtgärder |  |
 | apelsinläpp<br>(Rapana venosa) | utrotningsåtgärder |  |
 | kinesisk dammussla<br>(Sinanodonta woodiana) | utrotningsåtgärder |  |
+
+<!-- sida 87 -->
+
+7/53
 
 <!-- sida 88 -->
 
@@ -7590,9 +7578,9 @@ Flexibel användning av Arenatorget
 Exteriöra perspektiv Vpläartms aa tut phpä nfögra s, tmreöetet sidprloattts,. Parkering Sfoäosdotnrugcskbse,t monaatfdees tmivaarl.knader, Fågelpost morgonterrass Cykelbana Huvudentré Mindre konserter, evenemang.
 Lek, dagvatten, rekreation. Vinteraktiviteter.
 Träningsbåna
-5 min
-5 min
-5 min
+5min
+5min
+5min
 Otoilclp hot imf m uga nil kv a tai n onsdn l eeu r t sntinadg Editat lonygt tm teodrg c seonmtru smtår i Nmfra aåm tnugt r i fd oas clds h äs b kor ioma l r o o g m isk rå det
 Situaionsplan 1:200 (A1) “KRONA” 3/12
 Situationsplan över föreslagen arena. Semrén &

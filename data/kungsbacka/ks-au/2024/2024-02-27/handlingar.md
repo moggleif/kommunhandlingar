@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.366666ef18d873f2cac26800/1708433157
 sha256: 195fc7b6b455a867ddeda1b6398a9adccc78673d40880d625ec03879996c9bd9
 bytes: 17401214
 sidor: 141
-hamtad: 2026-10-09T08:38:59+00:00
-konverterad: 2026-10-09T08:39:38+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T06:30:39+00:00
+konverterad: 2026-10-16T06:31:18+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok]
@@ -58,7 +58,7 @@ KUNGSBACKA  KOMMUN
 
 2(4)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -67,21 +67,18 @@ KUNGSBACKA  KOMMUN
 | 7. | Remittering av motion från<br>Stefan Jägnert (SD) om ökat<br>språkkrav i Kungsbacka<br>kommun | 2024-00133 | Förslag till beslut i kommunstyrelsens arbetsutskott<br>Kommunstyrelsens arbetsutskott remitterar motionen<br>till nämnden för Vård & Omsorg, nämnden för<br>Individ & Familjeomsorg, nämnden för Förskola &<br>Grundskola, nämnden för Gymnasium &<br>Arbetsmarknad samt nämnden för Service för<br>beredning. |
 | 8. | Avstämning om Gottskärs<br>hamn<br>Klockan 08:45-09:10<br>Johan Gerremo<br>Fortesa Bytyqi | 2019-00058 | - |
 | 9. | Information om utredning av<br>möjligheterna att skapa fler<br>uppställningsplatser för<br>husbilar och husvagnar i<br>Kungsbacka stad<br>Klockan 09:15-09:40<br>Johan Gerremo<br>Emir Halalkic, förvaltningen<br>för Teknik | 2022-00236 | - |
+| 10. | Information om<br>granskningsförslag för<br>detaljplan för utveckling av<br>Annebergs centrum<br>Klockan 09:55-10:15<br>Maria Malone<br>Susanne Calming<br>Christian Carlsson<br>Ida Lennartsson<br>Johan Gerremo<br>Anders Lund<br>Byggnadsnämndens<br>arbetsutskott | 2024-00163 | - |
+| 11. | Information om begäran om<br>planbesked för Vallda 20:3,<br>Bröndome 1:2 och del av<br>Vallda 20:59<br>Klockan 10:20-10:35<br>Stina Wikström<br>Ida Lennartsson | 2023-00809 | - |
+| 12. | Information om HR-frågor:<br>Nyckeltal – så blev det 2023<br>samt planen framåt<br>(från årshjul)<br>Klockan 10:40-11:10<br>Jesper Edlind | 2024-00019 | - |
+| 13. | Information om arbetet med att<br>ta fram en ny styrmodell<br>Klockan 11:15-11:45<br>Christina Hermansson | 2023-00672 | - |
+| 14. | Information om lönesättning av<br>förvaltningschefer<br>Klockan 11:50-12:00<br>Malin Aronsson | 2024-00067 | - |
+| 15. | Information från ledamöter och<br>förvaltning | 2024-00025 | - |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3(4)
-
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 10. | Information om<br>granskningsförslag för<br>detaljplan för utveckling av<br>Annebergs centrum<br>Klockan 09:55-10:15<br>Maria Malone<br>Susanne Calming<br>Christian Carlsson<br>Ida Lennartsson<br>Johan Gerremo<br>Anders Lund<br>Byggnadsnämndens<br>arbetsutskott | 2024-00163 | - |
-| 11. | Information om begäran om<br>planbesked för Vallda 20:3,<br>Bröndome 1:2 och del av<br>Vallda 20:59<br>Klockan 10:20-10:35<br>Stina Wikström<br>Ida Lennartsson | 2023-00809 | - |
-| 12. | Information om HR-frågor:<br>Nyckeltal – så blev det 2023<br>samt planen framåt<br>(från årshjul)<br>Klockan 10:40-11:10<br>Jesper Edlind | 2024-00019 | - |
-| 13. | Information om arbetet med att<br>ta fram en ny styrmodell<br>Klockan 11:15-11:45<br>Christina Hermansson | 2023-00672 | - |
 
 <!-- sida 4 -->
 
@@ -91,13 +88,6 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 14. | Information om lönesättning av<br>förvaltningschefer<br>Klockan 11:50-12:00<br>Malin Aronsson | 2024-00067 | - |
-| 15. | Information från ledamöter och<br>förvaltning | 2024-00025 | - |
 
 <!-- sida 5 -->
 

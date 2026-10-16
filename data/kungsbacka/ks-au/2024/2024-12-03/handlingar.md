@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.329f2e9b19368002a6f19943/1732891450
 sha256: 6ff870cba8aab7d77be6dd1aae89fa13e3a3307139a97dcb172882ae85ae5e71
 bytes: 147408302
 sidor: 341
-hamtad: 2026-10-09T09:40:36+00:00
-konverterad: 2026-10-09T09:44:58+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T07:33:01+00:00
+konverterad: 2026-10-16T07:37:55+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok]
-tal_obekraftade: [277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 296, 299, 300, 301, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 339]
+tal_obekraftade: [162, 183, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 296, 299, 300, 301, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 339]
 figurer: [14, 48, 49, 87, 88, 135, 140, 146, 156, 159, 160, 161, 162, 165, 167, 168, 169, 170, 171, 172, 173, 174, 178, 186, 187, 188, 203, 212, 220, 253, 268, 331, 332, 333, 335, 339]
 tolkade: []
 ---
@@ -57,7 +57,7 @@ KUNGSBACKA  KOMMUN
 
 2(5)
 
-[Tabell 2-1](handlingar.tabeller/2-1.csv)
+[Tabell 2-4-1](handlingar.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
@@ -65,6 +65,14 @@ KUNGSBACKA  KOMMUN
 | 5. | Svar på Göteborgsregionens<br>remiss av Västra<br>Götalandsregionens<br>trafikförsörjningsprogram 2026-<br>2029 - Västra Götalands<br>kollektivtrafikstrategi | 2024-00755 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2024-11-07<br>och översänder det som sitt svar till<br>Göteborgsregionen. |
 | 6. | Taxa 2025 för Kungsbacka Teater<br>och Konsertsalen Snäckan | 2024-00623 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Taxa för Kungsbacka<br>Teater och konsertsalen Snäckan, daterad 2024-09-<br>27.<br>Kommunfullmäktige beslutar att taxan får justeras i<br>enlighet med taxans bestämmelse §§ 5-6 om årlig<br>indexjustering och delegation. Taxan träder i kraft<br>den 1 januari 2025.<br>Taxor och avgifter för uthyrning av lokaler på<br>Kungsbacka Teater och kulturhuset Fyren, antagna<br>av kommunfullmäktige 2018-09-11, § 130, upphör<br>samtidigt att gälla. |
 | 7. | Taxa 2025 för Kungsbacka<br>Konsthall | 2024-00621 | Förslag till beslut i kommunfullmäktige<br>Kommunfullmäktige antar Taxa för Kungsbacka<br>konsthall, daterad 2024-09-24.<br>Kommunfullmäktige beslutar att taxan får justeras i<br>enlighet med taxans bestämmelse §§ 5-6 om årlig<br>indexjustering och delegation.<br>Taxan träder i kraft den 1 januari 2025.<br>Tidigare taxedokument för Konsthallen i<br>Kungsbacka upphör samtidigt att gälla. |
+| 8. | Godkännande av förslag till<br>köpeavtal avseende del av Skårby<br>2:3 i Anneberg | 2021-00907 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner köpeavtal mellan<br>kommunen och Tempohus Kungsbacka AB, genom<br>vilket kommunen överlåter en del av fastigheten<br>Skårby 2:3 mot en köpeskilling av 20 000 000<br>kronor, undertecknat av bolaget 2024-11-13.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>och andra i ärendet nödvändiga handlingar. |
+| 9. | Förlängning av principavtal med<br>KB Stejla Anneberg, detaljplan<br>för utveckling av Annebergs<br>centrum | 2019-00257 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner begäran från KB Stejla<br>Anneberg, innebärande att gällande principavtal<br>avseende ny detaljplan för Annebergs centrum,<br>förlängs med två år till 31 december 2026, på i<br>övrigt oförändrade avtalsvillkor |
+| 10. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för bostäder inom Åsa<br>4:146 och Åsa 4:152 | 2021-00109 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för bostäder inom Åsa 4:146 och 4:152 i<br>Åsa, daterad 2024-11-08.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan för bostäder inom<br>Åsa 4:146 och 4:152 i Åsa. |
+| 11. | Avstämning om hållbart boende<br>(från årshjul)<br>08:50-09:20<br>Lovisa Eld<br>Ivan Stipic<br>Patrik Hellberg<br>Christer Kilersjö<br>Mats Söderström | 2024-00023 | - |
+| 12. | Information om vindkraft i<br>Kungsbacka<br>09:25-09:45<br>Johan Gerremo<br>Lovisa Eld | 2024-00720 | - |
+| 13. | Avstämning av Startplan<br>planprojekt<br>(Samhällsbyggnadsplan)<br>10:00-10:45<br>Lovisa Eld<br>Ida Lennartsson<br>Sofia Wiman<br>Byggnadsnämndens arbetsutskott | 2024-00018 | - |
+| 14. | Information om arbetet med<br>Kungsbacka Arena<br>10:50-11:30<br>Sven-Erik Bergström<br>Lena Melvinsdotter<br>Magnus Björned<br>Byggnadsnämndens arbetsutskott | 2020-00547 | - |
+| 15. | Information om arbetet med<br>detaljplan för bostäder inom<br>Hammerö 13:7 mfl<br>11:35-11:55<br>Magnus Björned<br>Ida Lennartsson<br>Ulrika Granfors | 2023-00275 | - |
 
 <!-- sida 3 -->
 
@@ -72,29 +80,11 @@ KUNGSBACKA  KOMMUN
 
 3(5)
 
-[Tabell 3-1](handlingar.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Godkännande av förslag till<br>köpeavtal avseende del av Skårby<br>2:3 i Anneberg | 2021-00907 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner köpeavtal mellan<br>kommunen och Tempohus Kungsbacka AB, genom<br>vilket kommunen överlåter en del av fastigheten<br>Skårby 2:3 mot en köpeskilling av 20 000 000<br>kronor, undertecknat av bolaget 2024-11-13.<br>Kommunstyrelsens ordförande och<br>kommundirektören, eller deras respektive ersättare,<br>utses att för kommunens räkning underteckna avtalet<br>och andra i ärendet nödvändiga handlingar. |
-| 9. | Förlängning av principavtal med<br>KB Stejla Anneberg, detaljplan<br>för utveckling av Annebergs<br>centrum | 2019-00257 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner begäran från KB Stejla<br>Anneberg, innebärande att gällande principavtal<br>avseende ny detaljplan för Annebergs centrum,<br>förlängs med två år till 31 december 2026, på i<br>övrigt oförändrade avtalsvillkor |
-| 10. | Godkännande av<br>projektbeställning samt<br>överlämnande för att upprätta<br>detaljplan för bostäder inom Åsa<br>4:146 och Åsa 4:152 | 2021-00109 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen godkänner projektbeställning för<br>detaljplan för bostäder inom Åsa 4:146 och 4:152 i<br>Åsa, daterad 2024-11-08.<br>Kommunstyrelsen överlämnar till byggnadsnämnden<br>att upprätta förslag till detaljplan för bostäder inom<br>Åsa 4:146 och 4:152 i Åsa. |
-| 11. | Avstämning om hållbart boende<br>(från årshjul)<br>08:50-09:20<br>Lovisa Eld<br>Ivan Stipic<br>Patrik Hellberg<br>Christer Kilersjö<br>Mats Söderström | 2024-00023 | - |
-
 <!-- sida 4 -->
 
 KUNGSBACKA  KOMMUN
 
 4(5)
-
-[Tabell 4-1](handlingar.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 12. | Information om vindkraft i<br>Kungsbacka<br>09:25-09:45<br>Johan Gerremo<br>Lovisa Eld | 2024-00720 | - |
-| 13. | Avstämning av Startplan<br>planprojekt<br>(Samhällsbyggnadsplan)<br>10:00-10:45<br>Lovisa Eld<br>Ida Lennartsson<br>Sofia Wiman<br>Byggnadsnämndens arbetsutskott | 2024-00018 | - |
-| 14. | Information om arbetet med<br>Kungsbacka Arena<br>10:50-11:30<br>Sven-Erik Bergström<br>Lena Melvinsdotter<br>Magnus Björned<br>Byggnadsnämndens arbetsutskott | 2020-00547 | - |
-| 15. | Information om arbetet med<br>detaljplan för bostäder inom<br>Hammerö 13:7 mfl<br>11:35-11:55<br>Magnus Björned<br>Ida Lennartsson<br>Ulrika Granfors | 2023-00275 | - |
 
 <!-- sida 5 -->
 
@@ -560,7 +550,7 @@ Kungsbacka kommun              Styrande dokument               8 (28)
 
 Kungsbacka kommun              Styrande dokument               9 (28)
 
-[Tabell 17-1](handlingar.tabeller/17-1.csv)
+[Tabell 17-18-1](handlingar.tabeller/17-18-1.csv)
 
 | Egenskap | Kriterier |
 | --- | --- |
@@ -570,19 +560,15 @@ Kungsbacka kommun              Styrande dokument               9 (28)
 | Fluorerade växthusgaser<br>(F-gaser) | Kigalitillägget om fluorkolväten (HFC) i den<br>internationell konventionen Montrealprotokollet |
 | Hormonstörande | Ämnen som uppfyller kriterierna för att<br>klassificeras som hormonstörande för<br>människors hälsa eller miljön i kategori 1 enligt<br>CLP-förordningen (EG) nr 1272/2008, eller<br>(ED HH 1, EUH380: Kan orsaka hormonstörningar<br>hos människor)<br>(ED ENV 1, EUH430: Kan orsaka<br>hormonstörningar i miljön)<br>Ämnen som identifierats som hormonstörande<br>för hälsa eller miljö inom någon av följande EU-<br>förordningar: Reach-förordningen (EG) nr<br>1907/2006, Biocidförordningen (EG) nr 528/2012<br>eller Växtskyddsmedelsförordningen (EG) nr<br>1107/2009 |
 | Kraftigt<br>allergiframkallande | Ämnen som uppfyller kriterierna för att<br>klassificeras som luftvägssensibiliserande i<br>kategori 1 eller hudsensibiliserande i kategori<br>1A enligt CLP-förordningen (EG) nr 1272/2008<br>(Resp. Sens 1, H334: Kan orsaka allergi- eller<br>astmasymtom eller andningssvårigheter vid<br>inandning)<br>(Skin Sens. 1A, H317: Kan orsaka allergisk<br>hudreaktion) |
-
-<!-- sida 18 -->
-
-Kungsbacka kommun              Styrande dokument               10 (28)
-
-[Tabell 18-1](handlingar.tabeller/18-1.csv)
-
 | Ozonnedbrytande | Ämnen som uppfyller kriterierna för att<br>klassificeras som farligt för ozonskiktet i<br>kategori 1 enligt CLP-förordningen (EG) nr<br>1272/2008<br>(Ozone 1, H420: Skadar folkhälsan och miljön<br>genom att förstöra ozonet i övre delen av<br>atmosfären) |
-| --- | --- |
 | PBT/vPvB | Ämnen som uppfyller kriterierna för att<br>klassificeras som långlivade, bioackumulerande<br>och toxiska eller mycket långlivade och mycket<br>bioackumulerande enligt CLP-förordningen<br>(EG) nr 1272/2008, eller<br>(PBT, EUH440: Ackumuleras i miljön och i<br>levande organismer, inbegripet människor)<br>(vPvB, EUH441: Ackumuleras kraftigt i miljön och<br>i levande organismer, inbegripet människor)<br>Ämnen som uppfyller kriterierna i Bilaga Xlll,<br>Reach-förordningen (EG) nr 1907/2006, eller<br>uppfyller kriterierna i Bilaga D,<br>Stockholmskonventionen |
 | PMT/vPvM | Ämnen som uppfyller kriterierna för att<br>klassificeras som långlivade, mobila och toxiska<br>eller mycket långlivade och mycket mobila enligt<br>CLP-förordningen (EG) nr 1272/2008<br>(PMT, EUH450: Långlivat ämne som kan förorena<br>vattenkällor)<br>(vPvB, EUH451: Mycket långlivat ämne som kan<br>förorena vattenkällor) |
 | Särskilt farliga metaller<br>(Cd, Hg, Pb) | Kadmium, kvicksilver, bly och dess föreningar<br>omfattas av definitionen särskilt farliga ämnen i<br>Sveriges miljökvalitetsmål Giftfri miljö. |
 | PFAS, Särskilt persistenta<br>ämnen | PFAS (per- och polyfluorerade alkylsubstanser)<br>har jämförbar allvarlighetsgrad med särskilt farliga<br>ämnen på grund av deras extrema persistens och<br>bör av försiktighetsskäl behandlas som särskilt<br>farliga ämnen enligt Sveriges miljökvalitetsmål<br>Giftfri miljö.<br>PFAS definieras som fluorerade ämnen som<br>innehåller minst en helt fluorerad metyl- eller<br>metylenkolatom (utan någon H/Cl/Br/I-atom fäst<br>vid den), det vill säga med några få undantag, alla<br>ämnen med minst en perfluorerad metylgrupp (–<br>CF3) eller en perfluorerad metylengrupp (–CF2–).<br>(OECD, 2021) |
+
+<!-- sida 18 -->
+
+Kungsbacka kommun              Styrande dokument               10 (28)
 
 <!-- sida 19 -->
 
@@ -652,7 +638,7 @@ I Kungsbacka kommun ska prioriterade riskminskningsämnen undvikas så långt de
 
 Kungsbacka kommun              Styrande dokument               12 (28)
 
-[Tabell 20-1](handlingar.tabeller/20-1.csv)
+[Tabell 20-21-1](handlingar.tabeller/20-21-1.csv)
 
 | Egenskap | Kriterier |
 | --- | --- |
@@ -663,6 +649,8 @@ Kungsbacka kommun              Styrande dokument               12 (28)
 | Mycket hög akut giftighet | Ämnen som uppfyller kriterierna för att klassificeras<br>som akuttoxiskt i kategori 1 eller 2 enligt CLP-<br>förordningen (EG) nr 1272/2008, eller<br>(Acute Tox. 1 eller 2, H300: Dödligt vid förtäring)<br>(Acute Tox. 1 eller 2, H310: Dödligt vid hudkontakt)<br>(Acute Tox. 1 eller 2, H330: Dödligt vid inandning)<br>Ämnen som uppfyller kriterierna för att klassificeras<br>som specifikt organtoxiskt - enstaka exponering i<br>kategori 1 enligt CLP-förordningen (EG) nr 1272/2008<br>(STOT SE 1, H370: Orsakar organskador) |
 | Potentiella PBT/vPvB | Ämnen som uppfyller screening-kriterierna för<br>PBT/vPvB-identifiering enligt Bilaga XIII, Reach-<br>förordningen (EG) nr 1907/2006, eller är under<br>utvärdering för PBT/vPvB i någon regulatorisk<br>expertgrupp. |
 | Potentiellt<br>hormonstörande | Ämnen som uppfyller kriterierna för att klassificeras<br>som hormonstörande för människors hälsa eller miljön i<br>kategori 2 enligt CLP-förordningen (EG) nr 1272/2008,<br>eller<br>(ED HH 2, EUH381: Misstänks orsaka hormonstörningar<br>hos människor)<br>(ED ENV 2, EUH431: Misstänks orsaka hormonstörningar i<br>miljön)<br>Ämnen som är under utvärdering för hormonstörning<br>(hälsa eller miljön) i någon regulatorisk expertgrupp. |
+| Reproduktionsstörande | Ämnen som uppfyller kriterierna för att klassificeras<br>som reproduktionstoxiskt i kategori 2 eller<br>tilläggskategori för effekter på eller via amning enligt<br>CLP-förordningen (EG) nr 1272/2008<br>(Repr. 2, H361: Misstänks kunna skada fertiliteten eller det<br>ofödda barnet)<br>(Lact. H362: Kan skada spädbarn som ammas) |
+| Specifikt organskadande<br>efter upprepad<br>exponering | Ämnen som uppfyller kriterierna för att klassificeras<br>som specifikt organtoxiskt - upprepad exponering i<br>kategori 1 enligt CLP-förordningen (EG) nr 1272/2008<br>(STOT RE 1, H372: Orsakar organskador genom lång eller<br>upprepad exponering) |
 
 <!-- sida 21 -->
 
@@ -708,12 +696,6 @@ av farliga kemikalier, behöver även gravida och kvinnor i fertil ålder ses so
 prioriterade grupper. Inom flera verksamheter är personalen till övervägande del
 
 Kungsbacka kommun              Styrande dokument               13 (28)
-
-[Tabell 21-1](handlingar.tabeller/21-1.csv)
-
-| Reproduktionsstörande | Ämnen som uppfyller kriterierna för att klassificeras<br>som reproduktionstoxiskt i kategori 2 eller<br>tilläggskategori för effekter på eller via amning enligt<br>CLP-förordningen (EG) nr 1272/2008<br>(Repr. 2, H361: Misstänks kunna skada fertiliteten eller det<br>ofödda barnet)<br>(Lact. H362: Kan skada spädbarn som ammas) |
-| --- | --- |
-| Specifikt organskadande<br>efter upprepad<br>exponering | Ämnen som uppfyller kriterierna för att klassificeras<br>som specifikt organtoxiskt - upprepad exponering i<br>kategori 1 enligt CLP-förordningen (EG) nr 1272/2008<br>(STOT RE 1, H372: Orsakar organskador genom lång eller<br>upprepad exponering) |
 
 <!-- sida 22 -->
 
@@ -2225,25 +2207,24 @@ listan
 Detta kan i dagsläget vara allergiframkallande ämnen. Kandidatförteckningen förklaras
 närmare i nästa avsnitt om SVHC-ämnen.
 
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
+[Tabell 53-55-1](handlingar.tabeller/53-55-1.csv)
 
 | Egenskap | Kriterier |
 | --- | --- |
 | Cancerframkallande | Ämnen som uppfyller kriterierna för att klassificeras<br>som cancerframkallande i kategori 1A eller 1B enligt<br>CLP-förordningen (EG) nr 1272/2008<br>(Carc. 1A/1B, H350: Kan orsaka cancer) |
 | Mutagent | Ämnen som uppfyller kriterierna för att klassificeras<br>som könscellsmutagent i kategori 1A eller 1B enligt<br>CLP-förordningen CLP-förordningen (EG) nr<br>1272/2008<br>(Muta. 1A/1B, H340: Kan orsaka genetiska defekter) |
-
-<!-- sida 54 -->
-
-[Tabell 54-1](handlingar.tabeller/54-1.csv)
-
 | Reproduktionsstörande | Ämnen som uppfyller kriterierna för att klassificeras<br>som reproduktionstoxiskt i kategori 1A eller 1B<br>enligt CLP-förordningen<br>(Repr. 1A/1B, H360: Kan skada fertiliteten eller det<br>ofödda barnet) |
-| --- | --- |
 | Fluorerade växthusgaser (F-<br>gaser) | Kigalitillägget om fluorkolväten (HFC) i den<br>internationell konventionen Montrealprotokollet |
 | Hormonstörande | Ämnen som uppfyller kriterierna för att klassificeras<br>som hormonstörande för människors hälsa eller<br>miljön i kategori 1 enligt CLP-förordningen (EG) nr<br>1272/2008, eller<br>(ED HH 1, EUH380: Kan orsaka hormonstörningar<br>hos människor)<br>(ED ENV 1, EUH430: Kan orsaka hormonstörningar i<br>miljön)<br>Ämnen som identifierats som hormonstörande för<br>hälsa eller miljö inom någon av följande EU-<br>förordningar: Reach-förordningen (EG) nr<br>1907/2006, Biocidförordningen (EG) nr 528/2012<br>eller Växtskyddsmedelsförordningen (EG) nr<br>1107/2009 |
 | Kraftigt allergiframkallande | Ämnen som uppfyller kriterierna för att klassificeras<br>som luftvägssensibiliserande i kategori 1 eller<br>hudsensibiliserande i kategori 1A enligt CLP-<br>förordningen (EG) nr 1272/2008<br>(Resp. Sens 1, H334: Kan orsaka allergi- eller<br>astmasymtom eller andningssvårigheter vid<br>inandning)<br>(Skin Sens. 1A, H317: Kan orsaka allergisk<br>hudreaktion) |
 | Ozonnedbrytande | Ämnen som uppfyller kriterierna för att klassificeras<br>som farligt för ozonskiktet i kategori 1 enligt CLP-<br>förordningen (EG) nr 1272/2008<br>(Ozone 1, H420: Skadar folkhälsan och miljön genom<br>att förstöra ozonet i övre delen av atmosfären) |
 | PBT/vPvB | Ämnen som uppfyller kriterierna för att klassificeras<br>som långlivade, bioackumulerande och toxiska eller<br>mycket långlivade och mycket bioackumulerande<br>enligt CLP-förordningen (EG) nr 1272/2008, eller<br>(PBT, EUH440: Ackumuleras i miljön och i levande<br>organismer, inbegripet människor)<br>(vPvB, EUH441: Ackumuleras kraftigt i miljön och i<br>levande organismer, inbegripet människor)<br>Ämnen som uppfyller kriterierna i Bilaga Xlll, Reach-<br>förordningen (EG) nr 1907/2006, eller uppfyller<br>kriterierna i Bilaga D, Stockholmskonventionen |
 | PMT/vPvM | Ämnen som uppfyller kriterierna för att klassificeras<br>som långlivade, mobila och toxiska eller mycket |
+|  | långlivade och mycket mobila enligt CLP-<br>förordningen (EG) nr 1272/2008<br>(PMT, EUH450: Långlivat ämne som kan förorena<br>vattenkällor)<br>(vPvB, EUH451: Mycket långlivat ämne som kan<br>förorena vattenkällor) |
+| Särskilt farliga metaller (Cd,<br>Hg, Pb) | Kadmium, kvicksilver, bly och dess föreningar<br>omfattas av definitionen särskilt farliga ämnen i<br>Sveriges miljökvalitetsmål Giftfri miljö. |
+| PFAS, Särskilt persistenta<br>ämnen | PFAS (per- och polyfluorerade alkylsubstanser) har<br>jämförbar allvarlighetsgrad med särskilt farliga<br>ämnen på grund av deras extrema persistens och bör<br>av försiktighetsskäl behandlas som särskilt farliga<br>ämnen enligt Sveriges miljökvalitetsmål Giftfri miljö.<br>PFAS definieras som fluorerade ämnen som<br>innehåller minst en helt fluorerad metyl- eller<br>metylenkolatom (utan någon H/Cl/Br/I-atom fäst<br>vid den), det vill säga med några få undantag, alla<br>ämnen med minst en perfluorerad metylgrupp (–<br>CF3) eller en perfluorerad metylengrupp (–CF2–).<br>(OECD, 2021) |
+
+<!-- sida 54 -->
 
 <!-- sida 55 -->
 
@@ -2273,13 +2254,6 @@ SVHC-ämnen, Substances of Very High Concern, är ”ämnen som inger mycket sto
 betänkligheter” i Europas kemikalielagstiftning Reach. De är utfasningsämnen, och ska
 
 därmed fasas ut från kommunens verksamheter. Dessa ämnen är upptagna på
-
-[Tabell 55-1](handlingar.tabeller/55-1.csv)
-
-|  | långlivade och mycket mobila enligt CLP-<br>förordningen (EG) nr 1272/2008<br>(PMT, EUH450: Långlivat ämne som kan förorena<br>vattenkällor)<br>(vPvB, EUH451: Mycket långlivat ämne som kan<br>förorena vattenkällor) |
-| --- | --- |
-| Särskilt farliga metaller (Cd,<br>Hg, Pb) | Kadmium, kvicksilver, bly och dess föreningar<br>omfattas av definitionen särskilt farliga ämnen i<br>Sveriges miljökvalitetsmål Giftfri miljö. |
-| PFAS, Särskilt persistenta<br>ämnen | PFAS (per- och polyfluorerade alkylsubstanser) har<br>jämförbar allvarlighetsgrad med särskilt farliga<br>ämnen på grund av deras extrema persistens och bör<br>av försiktighetsskäl behandlas som särskilt farliga<br>ämnen enligt Sveriges miljökvalitetsmål Giftfri miljö.<br>PFAS definieras som fluorerade ämnen som<br>innehåller minst en helt fluorerad metyl- eller<br>metylenkolatom (utan någon H/Cl/Br/I-atom fäst<br>vid den), det vill säga med några få undantag, alla<br>ämnen med minst en perfluorerad metylgrupp (–<br>CF3) eller en perfluorerad metylengrupp (–CF2–).<br>(OECD, 2021) |
 
 <!-- sida 56 -->
 
@@ -2411,24 +2385,23 @@ bilaga XIII
 
 Ämnen som räknas som prioriterade riskminskningsämnen är:
 
-[Tabell 58-1](handlingar.tabeller/58-1.csv)
+[Tabell 58-60-1](handlingar.tabeller/58-60-1.csv)
 
 | Egenskap | Kriterier |
 | --- | --- |
 | Allergiframkallande | Ämnen som uppfyller kriterierna för att klassificeras<br>som hudsensibiliserande i kategori 1 eller 1B enligt CLP-<br>förordningen (EG) nr 1272/2008<br>(Skin Sens. 1/1B, H317: Kan orsaka allergisk<br>hudreaktion, EUH208: Kan orsaka en allergisk reaktion) |
 | Cancerframkallande | Ämnen som uppfyller kriterierna för att klassificeras<br>som cancerframkallade i kategori 2 enligt CLP-<br>förordningen (EG) nr 1272/2008<br>(Carc. 2, H351: Misstänks kunna orsaka cancer) |
 | Miljöfarliga<br>långtidseffekter | Ämnen som uppfyller kriterierna för att klassificeras<br>som farlig för vattenmiljön i kategori kronisk 1 eller 4<br>enligt CLP-förordningen (EG) nr 1272/2008 |
-
-<!-- sida 59 -->
-
-[Tabell 59-1](handlingar.tabeller/59-1.csv)
-
 |  | (Aquatic chronic 1, H410: Mycket giftigt för<br>vattenlevande organismer med långtidseffekter)<br>(Aquatic chronic 4, H413: Kan ge skadliga<br>långtidseffekter för vattenlevande organismer) |
-| --- | --- |
 | Mutagent | Ämnen som uppfyller kriterierna för att klassificeras<br>som könscellsmutagent i kategori 2 enligt CLP-<br>förordningen (EG) nr 1272/2008<br>(Muta. 2, H341: Misstänks kunna orsaka genetiska<br>defekter) |
 | Mycket hög akut giftighet | Ämnen som uppfyller kriterierna för att klassificeras<br>som akuttoxiskt i kategori 1 eller 2 enligt CLP-<br>förordningen (EG) nr 1272/2008, eller<br>(Acute Tox. 1 eller 2, H300: Dödligt vid förtäring)<br>(Acute Tox. 1 eller 2, H310: Dödligt vid hudkontakt)<br>(Acute Tox. 1 eller 2, H330: Dödligt vid inandning)<br>Ämnen som uppfyller kriterierna för att klassificeras<br>som specifikt organtoxiskt - enstaka exponering i<br>kategori 1 enligt CLP-förordningen (EG) nr 1272/2008<br>(STOT SE 1, H370: Orsakar organskador) |
 | Potentiella PBT/vPvB | Ämnen som uppfyller screening-kriterierna för<br>PBT/vPvB-identifiering enligt Bilaga XIII, Reach-<br>förordningen (EG) nr 1907/2006, eller är under<br>utvärdering för PBT/vPvB i någon regulatorisk<br>expertgrupp. |
 | Potentiellt<br>hormonstörande | Ämnen som uppfyller kriterierna för att klassificeras<br>som hormonstörande för människors hälsa eller miljön i<br>kategori 2 enligt CLP-förordningen (EG) nr 1272/2008,<br>eller<br>(ED HH 2, EUH381: Misstänks orsaka hormonstörningar<br>hos människor)<br>(ED ENV 2, EUH431: Misstänks orsaka<br>hormonstörningar i miljön) |
+|  | Ämnen som är under utvärdering för hormonstörning<br>(hälsa eller miljön) i någon regulatorisk expertgrupp. |
+| Reproduktionsstörande | Ämnen som uppfyller kriterierna för att klassificeras<br>som reproduktionstoxiskt i kategori 2 eller<br>tilläggskategori för effekter på eller via amning enligt<br>CLP-förordningen (EG) nr 1272/2008<br>(Repr. 2, H361: Misstänks kunna skada fertiliteten eller<br>det ofödda barnet)<br>(Lact. H362: Kan skada spädbarn som ammas) |
+| Specifikt organskadande<br>efter upprepad<br>exponering | Ämnen som uppfyller kriterierna för att klassificeras<br>som specifikt organtoxiskt - upprepad exponering i<br>kategori 1 enligt CLP-förordningen (EG) nr 1272/2008<br>(STOT RE 1, H372: Orsakar organskador genom lång<br>eller upprepad exponering) |
+
+<!-- sida 59 -->
 
 <!-- sida 60 -->
 
@@ -2459,13 +2432,6 @@ konsekvenser.
 
 Våra barn tillbringar ofta en stor del av sin vakna tid på förskolan, skolan och fritidshem.
 Förskolor är platser där man hittar högre halter av en rad skadliga ämnen jämfört med
-
-[Tabell 60-1](handlingar.tabeller/60-1.csv)
-
-|  | Ämnen som är under utvärdering för hormonstörning<br>(hälsa eller miljön) i någon regulatorisk expertgrupp. |
-| --- | --- |
-| Reproduktionsstörande | Ämnen som uppfyller kriterierna för att klassificeras<br>som reproduktionstoxiskt i kategori 2 eller<br>tilläggskategori för effekter på eller via amning enligt<br>CLP-förordningen (EG) nr 1272/2008<br>(Repr. 2, H361: Misstänks kunna skada fertiliteten eller<br>det ofödda barnet)<br>(Lact. H362: Kan skada spädbarn som ammas) |
-| Specifikt organskadande<br>efter upprepad<br>exponering | Ämnen som uppfyller kriterierna för att klassificeras<br>som specifikt organtoxiskt - upprepad exponering i<br>kategori 1 enligt CLP-förordningen (EG) nr 1272/2008<br>(STOT RE 1, H372: Orsakar organskador genom lång<br>eller upprepad exponering) |
 
 <!-- sida 61 -->
 
@@ -7024,16 +6990,6 @@ Under  programperioden    kommer    en ny reviderad målbild  för              
 
 tågtrafik att tas fram.
 
-[Tabell 168-1](handlingar.tabeller/168-1.csv)
-
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
 <!-- sida 169 -->
 
 14
@@ -8628,7 +8584,7 @@ till nuvarande trafikförsörjningsprogram
 
 Hållbarhetsintegrering och bedömning                          Sida 4
 
-[Tabell 206-1](handlingar.tabeller/206-1.csv)
+[Tabell 206-207-1](handlingar.tabeller/206-207-1.csv)
 
 | Hushållning<br>med natur-<br>resurser | + | Genom ökade ambitioner kring marknadsandel och hållbart<br>resande samt borttaget mål om ökat antal resor finns potential<br>till resurseffektivitet. Även genom fortsatt elektrifiering av<br>kollektivtrafiken, eftersom elen är mer energieffektiv som<br>drivmedel. Det positiva bidraget förutsätter dock minskad<br>biltrafik och totalt resande. Användning av elbatterier i<br>kollektivtrafiken är mer resurseffektiv, men produktionen av<br>elbatterier är förknippad med utmaningar. |
 | --- | --- | --- |
@@ -8639,16 +8595,12 @@ Hållbarhetsintegrering och bedömning                          Sida 4
 | Delaktighet | + | Involvering av barn och unga i processen för framtagandet.<br>Delaktighet finns med som prioriterad åtgärd. |
 | Fysisk<br>aktivitet | + | Ökade ambitioner kring hållbart resande (gång, cykel och<br>kollektivtrafik) och integrering mellan cykel och kollektivtrafik<br>genom tydligare kopplingar till Strategisk plan för ökad cykling. |
 | Trafik-<br>säkerhet | + | Utveckla samverkan kring trafiksäkerhet samt VGR:s/<br>Västtrafiks egna arbete kring trafiksäkerhet. |
+| God<br>ekonomisk<br>hushållning<br>(resurseffekt<br>ivitet) | + | Programmet beskriver vidareutvecklat arbete kring FOI för ökad<br>resurseffektivitet, arbete med smarta och nya lösningar som<br>kompletterar kollektivtrafiken. |
+| Långsiktig<br>ekonomi i<br>balans | + | Ingen stor ambitionsökning mer än på marginalen. Återhållsamt<br>program i sin grund. Remissförslaget lägger större fokus på<br>balansen mellan intäkter och kostnader. Detta för att<br>möjliggöra framtida satsningar på kollektivtrafiken men också<br>för att få ut mer måluppfyllnad och nytta för investerade medel. |
 
 <!-- sida 207 -->
 
 Hållbarhetsintegrering och bedömning                          Sida 5
-
-[Tabell 207-1](handlingar.tabeller/207-1.csv)
-
-| God<br>ekonomisk<br>hushållning<br>(resurseffekt<br>ivitet) | + | Programmet beskriver vidareutvecklat arbete kring FOI för ökad<br>resurseffektivitet, arbete med smarta och nya lösningar som<br>kompletterar kollektivtrafiken. |
-| --- | --- | --- |
-| Långsiktig<br>ekonomi i<br>balans | + | Ingen stor ambitionsökning mer än på marginalen. Återhållsamt<br>program i sin grund. Remissförslaget lägger större fokus på<br>balansen mellan intäkter och kostnader. Detta för att<br>möjliggöra framtida satsningar på kollektivtrafiken men också<br>för att få ut mer måluppfyllnad och nytta för investerade medel. |
 
 <!-- sida 208 -->
 

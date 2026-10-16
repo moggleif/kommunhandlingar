@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1db334b719504a0b18aeba95/1740124540
 sha256: 59da6d89ad06d5af919ecf46ebe2e2985ce7747169627e2ebbb017b95f96d18b
 bytes: 238786
 sidor: 4
-hamtad: 2026-10-09T08:23:05+00:00
-konverterad: 2026-10-09T08:23:12+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-16T06:13:37+00:00
+konverterad: 2026-10-16T06:13:44+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok]
@@ -59,27 +59,25 @@ KUNGSBACKA  KOMMUN
 
 2 (4)
 
-[Tabell 2-1](kallelse.tabeller/2-1.csv)
+[Tabell 2-4-1](kallelse.tabeller/2-4-1.csv)
 
 |  | Ärende | Beteckning | Förslag |
 | --- | --- | --- | --- |
 | 5. | Svar på Göteborgs stads remiss<br>av samrådsförslag för ändring<br>av översiktsplan för Göteborgs<br>stad | 2025-00075 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-01-28,<br>och översänder det som sitt svar till Göteborgs stad. |
 | 6. | Svar på Varbergs kommuns<br>remiss av samrådsförslag för<br>ny översiktsplan för Varbergs<br>kommun | 2024-00840 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen antar yttrande, daterat 2025-02-03,<br>och översänder det som sitt svar till Varbergs<br>kommun. |
 | 7. | Fördelning av medel avsatta<br>för arbete med civil beredskap<br>2025 | 2024-00828 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen omfördelar 3 000 000 kronor från<br>centrala finansverksamheten för 2025 till nämnden<br>för Service.<br>Kommunstyrelsen omfördelar 1 500 000 kronor från<br>centrala finansverksamheten för 2025 till nämnden<br>för Teknik.<br>Kommunstyrelsen omfördelar 1 100 000 kronor från<br>centrala finansverksamheten för 2025 till nämnden<br>för Förskola & Grundskola.<br>Kommunstyrelsen omfördelar 250 000 kronor från<br>centrala finansverksamheten för 2025 till nämnden<br>för Gymnasium & Arbetsmarknad.<br>Kommunstyrelsen omfördelar 250 000 kronor från<br>centrala finansverksamheten för 2025 till<br>byggnadsnämnden.<br>Kommunstyrelsen omfördelar 550 000 kronor från<br>centrala finansverksamheten för 2025 till nämnden<br>för Kultur & Fritid.<br>Kommunstyrelsen omfördelar 2 100 000 kronor från<br>centrala finansverksamheten för 2025 till nämnden<br>för Vård & Omsorg.<br>Kommunstyrelsen omfördelar 250 000 kronor från<br>centrala finansverksamheten för 2025 till nämnden<br>för Individ & Familjeomsorg.<br>Kommunstyrelsen omfördelar 1 000 000 kronor från<br>centrala finansverksamheten för 2025 till<br>kommunstyrelsen. |
+| 8. | Begäran om planbesked för<br>Mossen 3:2 (Ebbagården) | 2024-00820 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Mossen 3:2 skifte 1 och 5 i<br>Onsala. |
+| 9. | Information om arbetet med<br>Kungsbacka Arena –<br>lägesavstämning delprojekt<br>08.50–09.35<br>Sven-Erik Bergström<br>Lena Melvinsdotter<br>Magnus Björned<br>Ing-Britt Blomberg<br>Marie Cullberg<br>Peter Johansson, Service<br>Pia Eklund, Service<br>Harald Tjelle, Kultur & Fritid<br>Marie Persson, Kultur & Fritid<br>Jonas Jonsson, Skanska | 2020-00547 |  |
+| 10. | Avstämning om lokalplanering<br>(från årshjul)<br>09.50–10.35<br>Ing-Britt Blomberg<br>Lovisa Eld<br>Maria Rosenberg, Service<br>Christina Wenander, Service<br>Markus Mentzer, Service<br>Semir Robovic, Service<br>Mats Söderström, Service<br>Julia Tryggvadottir Tollesson,<br>Service | 2025-00024 |  |
+| 11. | Information om arbetet med<br>Kungsbackas<br>Bostadsförsörjningsplan<br>10.40–11.10<br>Anders Lund<br>Lovisa Eld | 2023-00143 |  |
+| 12. | Information om arbetet med<br>markanvisning kvarteret Ejdern<br>11.15–11.45<br>Fortesa Bytyqi<br>Johan Gerremo<br>Mikaela Ropel | 2023-00651 |  |
+| 13. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |
 
 <!-- sida 3 -->
 
 KUNGSBACKA  KOMMUN
 
 3 (4)
-
-[Tabell 3-1](kallelse.tabeller/3-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 8. | Begäran om planbesked för<br>Mossen 3:2 (Ebbagården) | 2024-00820 | Förslag till beslut i kommunstyrelsen<br>Kommunstyrelsen lämnar besked att kommunen inte<br>avser att pröva den begärda åtgärden genom<br>planläggning inom Mossen 3:2 skifte 1 och 5 i<br>Onsala. |
-| 9. | Information om arbetet med<br>Kungsbacka Arena –<br>lägesavstämning delprojekt<br>08.50–09.35<br>Sven-Erik Bergström<br>Lena Melvinsdotter<br>Magnus Björned<br>Ing-Britt Blomberg<br>Marie Cullberg<br>Peter Johansson, Service<br>Pia Eklund, Service<br>Harald Tjelle, Kultur & Fritid<br>Marie Persson, Kultur & Fritid<br>Jonas Jonsson, Skanska | 2020-00547 |  |
-| 10. | Avstämning om lokalplanering<br>(från årshjul)<br>09.50–10.35<br>Ing-Britt Blomberg<br>Lovisa Eld<br>Maria Rosenberg, Service<br>Christina Wenander, Service<br>Markus Mentzer, Service<br>Semir Robovic, Service<br>Mats Söderström, Service<br>Julia Tryggvadottir Tollesson,<br>Service | 2025-00024 |  |
 
 <!-- sida 4 -->
 
@@ -89,11 +87,3 @@ KUNGSBACKA  KOMMUN
 
 Lisa Andersson                    Andrea Egerlundh
 ordförande                        kommunsekreterare
-
-[Tabell 4-1](kallelse.tabeller/4-1.csv)
-
-|  | Ärende | Beteckning | Förslag |
-| --- | --- | --- | --- |
-| 11. | Information om arbetet med<br>Kungsbackas<br>Bostadsförsörjningsplan<br>10.40–11.10<br>Anders Lund<br>Lovisa Eld | 2023-00143 |  |
-| 12. | Information om arbetet med<br>markanvisning kvarteret Ejdern<br>11.15–11.45<br>Fortesa Bytyqi<br>Johan Gerremo<br>Mikaela Ropel | 2023-00651 |  |
-| 13. | Information från ledamöter och<br>förvaltning | 2025-00025 |  |

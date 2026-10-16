@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.3e23932418fe7cfbe7d6388/17179546418
 sha256: 98ab1c6ae726d4305d9cb6bb4473a78213343b5d4c8c47c25fb4d510abcb70d0
 bytes: 86338874
 sidor: 231
-hamtad: 2026-10-09T08:59:24+00:00
-konverterad: 2026-10-09T09:02:27+00:00
-pipeline: kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-16T06:51:35+00:00
+konverterad: 2026-10-16T06:54:53+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok]
 tal_obekraftade: [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 50, 51, 209, 210, 219, 220, 221, 222, 223, 224, 225, 226]
 figurer: [29, 31, 37, 57, 58, 80, 91, 100, 127, 129, 130, 132, 133, 135, 136, 137, 138, 141, 142, 143, 149, 158, 159, 167, 168, 172, 174, 184, 186, 187, 188, 198, 199, 210, 219, 220, 221, 222, 223, 224, 225, 226]
 tolkade: []
@@ -217,7 +217,7 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 
 §§ socialtjänstlagen, SoL
 
-[Tabell 7-1](handlingar.tabeller/7-1.csv)
+[Tabell 7-10-1](handlingar.tabeller/7-10-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
 | --- | --- | --- |
@@ -232,16 +232,6 @@ och service till vissa funktionshindrade, LSS, samt enligt 4 kap 1 § och rappor
 | 2022-12-16 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, tackat nej till 4 erbjudanden,<br>2022-12-16, 2023-04-25, 2023-06-14, 2023-08-22.<br>Familjen vill komma med eget förslag på avlösare och<br>tar då kontakt med förvaltningen. |
 | 2023-06-12 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, den enskilde har tackat nej till<br>erbjudande 2023-11-30 och 2024-01-26. Den enskilde<br>har blivit beviljad annan insats, vill avsluta<br>ledsagarservice när en ny insats kommit igång. |
 | 2023-11-10 | 9 § 5 LSS, avlösarservice i<br>hemmet | Den enskilde har specifika önskemål, önskar<br>samrekrytering med lägerverksamhet. |
-
-<!-- sida 8 -->
-
-KUNGSBACKA  KOMMUN
-4 (7)
-
-[Tabell 8-1](handlingar.tabeller/8-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2023-11-14 | 9 § 5 LSS, avlösarservice i<br>hemmet | Avbrott i verkställighet, d§en enskilde har specifika<br>önskemål, önskar en PAN-anställning. |
 | 2023-12-08 | 9 § 5 LSS, avlösarservice i<br>hemmet | Tackat nej till erbjudande 2024-01-18, den enskilde har<br>ansökt om ny insats. |
 | 2023-11-22 | 9 § 6 LSS, korttidsvistelse i<br>form av läger | Den enskilde är i behov av extern placering. |
@@ -255,16 +245,6 @@ KUNGSBACKA  KOMMUN
 | 2023-11-27 | 9 § 9 LSS, bostad för vuxna<br>i form av gruppbostad | Saknar plats. 2024-04-11 tackat ja till erbjudande med<br>inflyttning i augusti 2024. |
 | 2021-10-29 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2021-11-23 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, medverkar inte till<br>verkställighet. Den enskilde svarar inte på telefon eller<br>mail. |
-
-<!-- sida 9 -->
-
-KUNGSBACKA  KOMMUN
-5 (7)
-
-[Tabell 9-1](handlingar.tabeller/9-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
 | 2022-02-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, har specifika önskemål om<br>verksamhet, är i behov av lång planering, tackat nej till<br>befintlig verksamhet. Tackat nej till 2 erbjudanden<br>2023-02-14 och 2023-10-02. |
 | 2022-12-31 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2023-01-11 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet, blivit erbjuden 3 olika DV-grupper. |
@@ -278,6 +258,17 @@ KUNGSBACKA  KOMMUN
 | 2023-10-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, tackat nej till 4 erbjudanden<br>2023-12-11, 2024-02-21, 2024-03-12 och 2024-04-10.<br>Den enskilde vill avvakta då hen befinner sig på annan<br>ort. |
 | 2023-10-16 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga hälsotillstånd. |
 | 2023-10-20 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
+| 2023-12-18 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
+
+<!-- sida 8 -->
+
+KUNGSBACKA  KOMMUN
+4 (7)
+
+<!-- sida 9 -->
+
+KUNGSBACKA  KOMMUN
+5 (7)
 
 <!-- sida 10 -->
 
@@ -286,13 +277,7 @@ KUNGSBACKA  KOMMUN
 
 Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
 
-[Tabell 10-1](handlingar.tabeller/10-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej verkställts |
-| --- | --- | --- |
-| 2023-12-18 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, den enskilde medverkar inte<br>till verkställighet. |
-
-[Tabell 10-2](handlingar.tabeller/10-2.csv)
+[Tabell 10-11-1](handlingar.tabeller/10-11-1.csv)
 
 | Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
 | --- | --- | --- | --- |
@@ -304,6 +289,8 @@ Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts 
 | 2023-09-07 | 9 § 9 LSS, bostad för<br>vuxna i form av<br>gruppbostad | Saknas plats. Den enskilde är<br>inlagd och samverkan pågår<br>mellan region och kommun. | Verkställt, 2024-04-02 |
 | 2023-04-04 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet, pga<br>hälsotillstånd. Individen har<br>blivit erbjuden flera<br>uppstartsmöten men avbokat. | Verkställt, 2024-02-05 |
 | 2023-04-27 | 9 § 10 LSS, daglig<br>verksamhet | Tackat nej till 5 erbjudanden om<br>uppstart, önskar avvakta pga<br>rädsla för smittspridning. | Verkställt, 2024-02-06 |
+| 2023-09-18 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde har flyttat till annan<br>kommun, vill pröva daglig<br>verksamhet på den nya orten<br>innan hen beslutar om återflytt<br>eller inte. | Avslutat, 2024-01-12 |
+| 2023-09-20 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde har tackat nej till<br>uppstart, missnöjd med<br>insatsens utformning. | Avslutat, 2023-11-20 |
 
 <!-- sida 11 -->
 
@@ -315,13 +302,6 @@ Inom vuxenenheten och familjehemsenheten finns inga ej verkställda beslut under
 Ivan Stipić                   Renate Rondolph
 
 Förvaltningschef              Verksamhetschef
-
-[Tabell 11-1](handlingar.tabeller/11-1.csv)
-
-| Beslutsdatum | Insats | Skäl till att beslutet ej<br>verkställts | Datum för<br>verkställighet/avslut |
-| --- | --- | --- | --- |
-| 2023-09-18 | 9 § 10 LSS, daglig<br>verksamhet | Avbrott i verkställighet. Den<br>enskilde har flyttat till annan<br>kommun, vill pröva daglig<br>verksamhet på den nya orten<br>innan hen beslutar om återflytt<br>eller inte. | Avslutat, 2024-01-12 |
-| 2023-09-20 | 9 § 10 LSS, daglig<br>verksamhet | Den enskilde har tackat nej till<br>uppstart, missnöjd med<br>insatsens utformning. | Avslutat, 2023-11-20 |
 
 <!-- sida 12 -->
 
@@ -442,7 +422,7 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 |  |  |  |
 |  |  |  |
 
-[Tabell 14-3](handlingar.tabeller/14-3.csv)
+[Tabell 14-15-3](handlingar.tabeller/14-15-3.csv)
 
 | Beslutsdatum | Insats | Datum för verkställighet, avslut |
 | --- | --- | --- |
@@ -460,19 +440,7 @@ Beslut som tidigare har rapporterats som ej verkställts och som nu verkställts
 | 2023-10-02 | Särskilt boende | Verkställd 2024-03-11 |
 | 2023-10-04 | Särskilt boende | Verkställd 2024-02-05 |
 | 2023-10-05 | Särskilt boende | Återtag 2024-01-23 (Tackat nej till<br>erbjudande). |
-
-<!-- sida 15 -->
-
-KUNGSBACKA  KOMMUN
-3 (3)
-
-Arian Faily                   Pia Berglund
-Förvaltningschef              Verksamhetschef Myndighet & Förebyggande
-
-[Tabell 15-1](handlingar.tabeller/15-1.csv)
-
 | 2023-10-12 | Särskilt boende | Återtag 2024-03-11 (tackat nej till ett<br>erbjudande) |
-| --- | --- | --- |
 | 2023-10-12 | Särskilt boende | Återtag 2024-03-01 (tackat nej till ett<br>erbjudande) |
 | 2023-10-17 | Särskilt boende | Verkställd 2024-01-25 |
 | 2023-10-20 | Särskilt boende | Verkställd 2024-02-14 |
@@ -489,6 +457,14 @@ Förvaltningschef              Verksamhetschef Myndighet & Förebyggande
 | 2023-10-26 | Växelvård | Verkställd 2024-03-05 |
 | 2023-11-28 | Växelvård | Verkställd 2024-03-12 |
 | 2023-11-28 | Växelvård | Verkställd 2024-03-25 |
+
+<!-- sida 15 -->
+
+KUNGSBACKA  KOMMUN
+3 (3)
+
+Arian Faily                   Pia Berglund
+Förvaltningschef              Verksamhetschef Myndighet & Förebyggande
 
 <!-- sida 16 -->
 
@@ -2104,18 +2080,22 @@ medföljer assistansanvändare vid resor eller annan utflyttad verksamhet.
 
 DEFINITIONER FÖR RISKVÄRDERING
 
-Riskmatris:
+FaktorSannolikhet    FaktorKonsekvens     Riskmatris:
 5 10 15 20 25
-4 8 12 16 20
-3 6 9 12 15
-2 4 6 8 10
-1 2 3 4 5
-
+1  Osannolik (1 gång/10 år) Ofarlig/försumbar
+1                    4 8 12 16 20
+(Övergående)
+2  Mindre troligt (1 gång/år)            3 6 9 12 15
+Ganska vanligt (Flera ggr/ 2 Lindrig (Utan sjukvård) 2 4 6 8 10
+3  år)                  Kännbar (Kan behöva 1 2 3 4 5
+3
+sjukvård)
+4  Vanligt (1 gång/månad)
+Mycket vanligt (1 4  Allvarlig (Sjukskrivning)
+5  gång/vecka)      5   Katastrofal (Död, men för liv)
 RISKBEDÖMNING - FÖRÄNDRING I VERKSAMHETEN (INGA FÖRVALDA FRÅGOR) - AVANCERAD
 RISKVÄRDERINGSMODELL
-
 Länkat dokument: Arbetsmiljöverket vägledning
-
 Beskrivning av eller instruktioner för mallen: Riskbedömning vid förändring i verksamheten
 Förändringar i verksamheten kan vara exempelvis personalförändringar, nya arbetstider och arbetsmetoder,
 andra organisationsförändringar, om- och nybyggnation samt ny maskinell utrustning. När en ändring planeras i
@@ -2125,7 +2105,6 @@ göras både på grupp- och individnivå. Den ska omfatta såväl fysiska som so
 Glöm inte att även lyfta friskfaktorer som förändringen kan leda till.
 Tänk på att medarbetare och skyddsombud och elevskyddsombud ska ges möjlighet att medverka när
 riskbedömning och handlingsplan görs.
-
 Använd checklistan så här:
 1\. I första avsnittet preciserar ni vad förändringen består av, när den ska genomföras och vilka medarbetare eller
 grupper av medarbetare som berörs.
@@ -2142,20 +2121,6 @@ och datum för när åtgärden ska vara genomförd.
 
 2/4
 2024-748
-
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
-
-| Faktor | Sannolikhet | Faktor | Konsekvens |
-| --- | --- | --- | --- |
-| 1 | Osannolik (1 gång/10 år) | 1 | Ofarlig/försumbar<br>(Övergående) |
-| 2 | Mindre troligt (1 gång/år) |  |  |
-|  |  | 2 | Lindrig (Utan sjukvård) |
-| 3 | Ganska vanligt (Flera ggr/<br>år) |  |  |
-|  |  | 3 | Kännbar (Kan behöva<br>sjukvård) |
-| 4 | Vanligt (1 gång/månad) |  |  |
-|  |  | 4 | Allvarlig (Sjukskrivning) |
-| 5 | Mycket vanligt (1<br>gång/vecka) |  |  |
-|  |  | 5 | Katastrofal (Död, men för liv) |
 
 <!-- sida 54 -->
 
@@ -2230,18 +2195,22 @@ Deltagare:
 
 DEFINITIONER FÖR RISKVÄRDERING
 
-Riskmatris:
+FaktorSannolikhet    FaktorKonsekvens     Riskmatris:
 5 10 15 20 25
-4 8 12 16 20
-3 6 9 12 15
-2 4 6 8 10
-1 2 3 4 5
-
+1  Osannolik (1 gång/10 år) Ofarlig/försumbar
+1                    4 8 12 16 20
+(Övergående)
+2  Mindre troligt (1 gång/år)            3 6 9 12 15
+Ganska vanligt (Flera ggr/ 2 Lindrig (Utan sjukvård) 2 4 6 8 10
+3  år)                  Kännbar (Kan behöva 1 2 3 4 5
+3
+sjukvård)
+4  Vanligt (1 gång/månad)
+Mycket vanligt (1 4  Allvarlig (Sjukskrivning)
+5  gång/vecka)      5   Katastrofal (Död, men för liv)
 RISKBEDÖMNING - FÖRÄNDRING I VERKSAMHETEN (INGA FÖRVALDA FRÅGOR) - AVANCERAD
 RISKVÄRDERINGSMODELL
-
 Länkat dokument: Arbetsmiljöverket vägledning
-
 Beskrivning av eller instruktioner för mallen: Riskbedömning vid förändring i verksamheten
 Förändringar i verksamheten kan vara exempelvis personalförändringar, nya arbetstider och arbetsmetoder,
 andra organisationsförändringar, om- och nybyggnation samt ny maskinell utrustning. När en ändring planeras i
@@ -2251,7 +2220,6 @@ göras både på grupp- och individnivå. Den ska omfatta såväl fysiska som so
 Glöm inte att även lyfta friskfaktorer som förändringen kan leda till.
 Tänk på att medarbetare och skyddsombud och elevskyddsombud ska ges möjlighet att medverka när
 riskbedömning och handlingsplan görs.
-
 Använd checklistan så här:
 1\. I första avsnittet preciserar ni vad förändringen består av, när den ska genomföras och vilka medarbetare eller
 grupper av medarbetare som berörs.
@@ -2268,20 +2236,6 @@ och datum för när åtgärden ska vara genomförd.
 
 1/3
 2024-709
-
-[Tabell 56-1](handlingar.tabeller/56-1.csv)
-
-| Faktor | Sannolikhet | Faktor | Konsekvens |
-| --- | --- | --- | --- |
-| 1 | Osannolik (1 gång/10 år) | 1 | Ofarlig/försumbar<br>(Övergående) |
-| 2 | Mindre troligt (1 gång/år) |  |  |
-|  |  | 2 | Lindrig (Utan sjukvård) |
-| 3 | Ganska vanligt (Flera ggr/<br>år) |  |  |
-|  |  | 3 | Kännbar (Kan behöva<br>sjukvård) |
-| 4 | Vanligt (1 gång/månad) |  |  |
-|  |  | 4 | Allvarlig (Sjukskrivning) |
-| 5 | Mycket vanligt (1<br>gång/vecka) |  |  |
-|  |  | 5 | Katastrofal (Död, men för liv) |
 
 <!-- sida 57 -->
 
