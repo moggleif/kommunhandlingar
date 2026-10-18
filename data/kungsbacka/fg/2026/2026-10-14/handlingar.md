@@ -5,21 +5,21 @@ datum: 2026-10-14
 lopnr: null
 typ: handlingar
 namn: null
-kallnyckel: sitevision:18.19326c8b1a1302ccbfb1bd2c
-tidigare_kallnycklar: []
+kallnyckel: sitevision:18.664df97b1a13049acff65236
+tidigare_kallnycklar: [sitevision:18.19326c8b1a1302ccbfb1bd2c]
 arenden: null
-kalla_url: https://kungsbacka.se/download/18.19326c8b1a1302ccbfb1bd2c/1791884549183/F%C3%B6rskola%20&%20Grundskola%20n%C3%A4mnd%20handlingar%202026-10-14.pdf
-sha256: a0c0e476331803a405b4136f484e2af5db3359fff877fc174edbdb834c63da9b
-bytes: 7593767
+kalla_url: https://kungsbacka.se/download/18.664df97b1a13049acff65236/1792139376675/F%C3%B6rskola%20&%20Grundskola%20n%C3%A4mnd%20handlingar%202026-10-14%20(2).pdf
+sha256: 0da9d213091a6764da27a70a81beb9c36248733683a5aadaad4cca7c0408b2da
+bytes: 5390863
 sidor: 133
-hamtad: 2026-10-14T07:16:59+00:00
-konverterad: 2026-10-14T07:17:22+00:00
+hamtad: 2026-10-18T06:03:27+00:00
+konverterad: 2026-10-18T06:04:09+00:00
 pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
-kvalitet: ocr
+kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [20]
-figurer: [14, 20, 40, 41, 42, 43, 44, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 68, 71, 72, 73, 74, 94, 102, 104, 106, 108, 112, 119, 121, 122, 123, 124]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [9, 20, 27, 39, 62, 67, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 103, 105, 107, 109, 119]
+figurer: [14, 20, 40, 41, 42, 43, 44, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 68, 71, 72, 73, 74, 94, 98, 100, 102, 104, 106, 108, 112, 119, 121, 122, 123, 124]
 tolkade: []
 ---
 
@@ -93,7 +93,7 @@ Sammanträdesprotokoll
 Datum
 2026-04-15
 
-Samverkansgruppen    Förskola & Grundskola
+Samverkansgruppen   Förskola & Grundskola
 
 Närvarande:    Arbetsgivarrepresentanter
 Eva Eriksson, verksamhetschef skola
@@ -102,10 +102,10 @@ Helena Hellman, personalchef
 Ullrika Vildbaek, utvecklingsledare
 
 Arbetstagarrepresentanter:
+
 Sveriges Lärare - Johan Bergström
 Sveriges lärare – Ronnie Ripgården
 Sveriges lärare – Annika Aronsson
-
 Vårdförbundet - Anne Melin
 Akademikerförbundet SSR – Sofia Kareliusson
 Sveriges Skolledare – Ulrika Jansson
@@ -119,7 +119,7 @@ Psykologförbundet,
 Plats och tid: Vägmästare Lagan, 2026- 04-15 kl. 10:00 – 12:00
 
 1 (5)
-Förskola & Grundskola                                     Kungsbacka kommun
+Förskola & Grundskola                                   Kungsbacka kommun
 434 81 Kungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
@@ -128,17 +128,18 @@ www.kungsbacka.se
 
 <!-- sida 5 -->
 
-KUNGSBACKA  KOMMUN
+KUNGSBACKA KOMMUN
+
 2 (5)
 
 §1 Verksamhetssamverkan - Förskola
 
 Verksamhetschef Förskola informerar om löpande frågor i verksamheten, i enlighet med MBL19§:
+\- Redovisar resultatet av pulsmätningar (Winningtemp) i rektorsgruppen
 
-\-  Redovisar resultatet av pulsmätningar (Winningtemp) i rektorsgruppen
-\-  Rektorerna har haft en gemensam insats i att stärka kunskap kring att göra orsaksanalys, de har
+\- Rektorerna har haft en gemensam insats i att stärka kunskap kring att göra orsaksanalys, de har
 haft föreläsning och workshop. Arbetet kommer fortsätta under hösten 2026.
-\-  Tjänsteplaneringsprocessen fortlöper och kommer samverkas innan den färdigställs
+\- Tjänsteplaneringsprocessen fortlöper och kommer samverkas innan den färdigställs
 
 Sveriges lärare – Hur fördelar arbetsgivaren 50/50 förskollärare och barnskötare
 
@@ -147,86 +148,84 @@ vi kan möta det politiska målet på varje förskola.
 
 §2 Förvaltningssamverkan – Förvaltningsgemensamma funktioner
 
-\-  Föregående mötesprotokoll 2026-03-11
+\- Föregående mötesprotokoll 2026-03-11
 
 Ärenden från arbetsutskott och nämnd
-\-  Ansökan från Montessori skola har tagits tillbaka
+\- Ansökan från Montessori skola har tagits tillbaka
+\- Lokalresursplan med tillhörande tidsplaner löper på enligt plan
+\- Klagomål synpunkter som har sammanställts – Företrädesvis handlar det om rätten till stöd och
 
-\-  Lokalresursplan med tillhörande tidsplaner löper på enligt plan
-\-  Klagomål synpunkter som har sammanställts – Företrädesvis handlar det om rätten till stöd och
 kränkningsanmälningar
-\-  Arbetsgivaren ser över åtgärdsplaner och vilka ytterligare insatser som behöver göras.
-\-  Barn och elevhälsans arbete följs upp – Verksamhetsmått, och hur arbetar vi kring tillgängliga
+\- Arbetsgivaren ser över åtgärdsplaner och vilka ytterligare insatser som behöver göras.
+\- Barn och elevhälsans arbete följs upp – Verksamhetsmått, och hur arbetar vi kring tillgängliga
 lärmiljöer
-\-  Återkoppling om arbetet med UP2 – Arbetsgivaren ser tydliga effekter på det arbetet som sker
-
+\- Återkoppling om arbetet med UP2 – Arbetsgivaren ser tydliga effekter på det arbetet som sker
 kring skolfrånvaro, både rapportering och åtgärder, och riktar sitt tack till alla inblandade från
 fackliga företrädare
-\-  En arbetsgrupp tar fram tydligare stöd med frågeställningar som kan användas vid tidig
+\- En arbetsgrupp tar fram tydligare stöd med frågeställningar som kan användas vid tidig
 skolfrånvaro
-\-  Skolinspektionens ärenden – Syftet är att vi ska efterfölja lag och förordning
-\-  Barn och elevombudsärenden – Elevpeng fördelning
-\-  Revidering av plan för ANDTS efter stängning av Kapareskolan.
 
-\-  Vi kommer också att se över hundsök och hoppas det finns på plats inom rimlig tid.
+\- Skolinspektionens ärenden – Syftet är att vi ska efterfölja lag och förordning
+\- Barn och elevombudsärenden – Elevpeng fördelning
+\- Revidering av plan för ANDTS efter stängning av Kapareskolan.
+\- Vi kommer också att se över hundsök och hoppas det finns på plats inom rimlig tid.
 
 <!-- sida 6 -->
 
-KUNGSBACKA  KOMMUN
+KUNGSBACKA KOMMUN
+
 3 (5)
 
 §3 Förvaltningscentral organisation
 
-\-  Bakgrundskontroller
-
+\- Bakgrundskontroller
 Arbetsgivaren önskar delaktighet från fackliga parter i arbetet att ta fram en rutin på
 förvaltningen för hantering av bakgrundskontroller vid rekrytering.
 
 Beslut: Arbetsgivaren bjuder in FSG gruppen till dialogmöte om fortsatt arbete.
 
-\-  Utreda behov av riktlinje kring anställning av närstående
+\- Utreda behov av riktlinje kring anställning av närstående
 Arbetsgivaren kommer att utreda om det finns behov av en riktlinje kring anställning av
 närstående på samma arbetsplats. HR-avdelningen har påbörjat arbetet genom att undersöka
-hur andra förvaltningar i kommunen samt andra kommuner hanterar frågan. Arbetsgivaren
 
+hur andra förvaltningar i kommunen samt andra kommuner hanterar frågan. Arbetsgivaren
 önskar delaktighet från fackliga parter i arbetet.
 
 Sveriges skolledare ställer sig positiva till en riktlinje.
 
 Beslut: Arbetsgivaren bjuder in fackliga företrädare för delaktighet i arbetet.
 
-\-  Utreda behov av riktlinje kring gåvor från vårdnadshavare
+\- Utreda behov av riktlinje kring gåvor från vårdnadshavare
 Arbetsgivaren kommer att utreda behov av riktlinje kring gåvor från vårdnadshavare och
-
 önskar delaktighet från fackliga parter i arbetet.
 
 Beslut: Arbetsgivaren bjuder in fackliga företrädare för delaktighet i arbetet.
 
 §4 Arbetstagarorganisation
-\-  Sveriges lärare: De har fått till sig av medlemmar att alla inte kan se sin bedömning utifrån
 
+\- Sveriges lärare: De har fått till sig av medlemmar att alla inte kan se sin bedömning utifrån
 medarbetarsamtal i Winlas.
 
 Beslut: Arbetsgivaren kommer att kommunicera det i chefsbrev, där de också kommer få en
 manual som beskriver hur man synliggör bedömningen i Winlas.
 
-\-  Prao – Hantering av praoelever utifrån sekretess och vilka uppgifter som ingår som handledare.
+\- Prao – Hantering av praoelever utifrån sekretess och vilka uppgifter som ingår som handledare.
 Arbetsgivare tackar för informationen och kommer att se över de strukturer och information
 som kommuniceras till de arbetsplatser som tar emot prao-elever.
 
 <!-- sida 7 -->
 
-KUNGSBACKA  KOMMUN
+KUNGSBACKA KOMMUN
+
 4 (5)
 
 Gällande reflektioner kring sekretess från förbundets medlemmar så förtydligar arbetsgivaren
-
 att samtal kring information som omfattas av sekretess inte ska föras i personalutrymmen eller
 liknande.
 
 Beslut: Arbetsgivaren kommer att delge den informationen med praosamordnare.
 
-\-  Sveriges lärare vill ha med följande till protokollet enligt deras formulering
+\- Sveriges lärare vill ha med följande till protokollet enligt deras formulering
 Karriärtjänster (förstelärare) - Vill att ag nyttjar hela stadsbidraget för karriärtjänster. Vid
 senaste rekvireringen nyttjades endast ca 79%.
 Lärarlönelyft (fördelningsmodell) - Nuvarande modell innebär att tillgängliga lärarlönelyft
@@ -241,28 +240,29 @@ kommer leda till att vi ökar nyttjandegraden.
 Fördelningsmodellen som används för lärarlönelyftet är beslutat av ledningsgruppen,
 arbetsgivaren kommer fortsätta använda sig av den tills nytt beslut fattas.
 
-\-  Sveriges Skolledares punkt om rektorers resultat i Winningtemp hänvisas till CSG av
+\- Sveriges Skolledares punkt om rektorers resultat i Winningtemp hänvisas till CSG av
 förvaltningschef, som också tackar för det gedigna underlaget Sveriges skolledare presenterar.
 
 §5 Verksamhetssamverkan – Skola
+
 Verksamhetschef Skola informerar om löpande frågor i verksamheten, i enlighet med MBL19§:
 
-\-  Redovisar resultatet av pulsmätningar (Winningtemp) i rektorsgruppen
+\- Redovisar resultatet av pulsmätningar (Winningtemp) i rektorsgruppen
 
-\-  Nyrekrytering koordinator till barn och elevhälsan är tillsatt – Jenny Dufvenberg
+\- Nyrekrytering koordinator till barn och elevhälsan är tillsatt – Jenny Dufvenberg
 
-\-  Tre av fyra skolcoacher i samverkan är anställda
+\- Tre av fyra skolcoacher i samverkan är anställda
 
-\-  Katarina Fred på HR & Kommunikation avslutar sin anställning i förvaltningen 2026-05-31,
+\- Katarina Fred på HR & Kommunikation avslutar sin anställning i förvaltningen 2026-05-31,
 och börjar sin nya tjänst som förändringsledare på KLK
 
 <!-- sida 8 -->
 
-KUNGSBACKA  KOMMUN
+KUNGSBACKA KOMMUN
+
 5 (5)
 
-\-  Arbetsgivaren informerar om hur arbetet fortlöper med Ölmevallaskolan och Liljans skola med
-
+\- Arbetsgivaren informerar om hur arbetet fortlöper med Ölmevallaskolan och Liljans skola med
 start aug 2028.
 
 Övriga frågor.
@@ -281,7 +281,88 @@ visuell presentation av de elektroniska underskrifterna på en separat sida sist
 
 <!-- sida 9 -->
 
-’skrivs ut’ till ett nytt PDF
+Kungsbacka
+
+SignPort&e
+
+Elektroniska underskrifter
+
+Det här dokumentet har skrivits under elektroniskt av en eller flera personer
+
+Alla elektroniska underskrifter listas i signaturpanelen. I exempelvis Adobe Acrobat Reader listas de i signaturpanelen till
+vänster. De tio första underskrifterna listas även på den här sidan.
+
+Detta dokument med sina elektroniska underskrifter gäller som självständig handling och uppfyller krav på avancerade
+
+elektroniska underskrifter enligt eIDAS.
+
+Varje underskrift kan valideras med en PDF-läsare med stöd för signaturvalidering eller med SignPorts valideringstjänst.
+Andra valideringstjänster kan användas förutsatt att dessa uppfyller de tekniska kraven enligt internationella standarder.
+
+Om dokumentet skrivs ut på papper, eller om dokumentet skrivs ut' till ett nytt PDF-dokument, följer de elektroniska
+underskrifterna inte med. Endast det elektroniskt underskrivna originaldokumentet går att validera.
+
+Underskrift 1
+
+Namn: Ulrika Jansson
+
+Identifieringsmetod: Freja elD+
+
+Organisation: Skolledarna
+
+Befattning: Ordförande
+
+Datum och tid: 2026-05-12 21:42:52 GMT+02:00
+Transaktions-ID: 066b883f8cd04ccebbecf2368ec4aaf7
+
+Underskrift 3
+
+Namn: Ronnie Ripgården
+
+Identifieringsmetod: Mobilt BankID
+
+Datum och tid: 2026-05-13 14:04:24 GMT+02:00
+Transaktions-ID: 10aec02459854b2eadef85e192d449bc
+
+Underskrift 5
+
+Namn: Sofia Kareliusson
+
+Identifieringsmetod: BankID
+
+Organisation: Akademikerförbundet SSR
+
+Datum och tid: 2026-05-18 08:40:34 GMT+02:00
+Transaktions-ID: 3262428fb8f24236a57a8af5ef1426f8
+
+Underskrift 2
+
+Namn: Eva Eriksson
+
+Identifieringsmetod: Mobilt BankID
+
+Datum och tid: 2026-05-13 10:13:11 GMT+02:00
+Transaktions-ID: 87afecf79bea45148490bd5f24eb267f
+
+Underskrift 4
+
+Namn: Anne Melin
+
+Identifieringsmetod: BankID
+
+Organisation: För och grundskola
+
+Datum och tid: 2026-05-18 07:43:15 GMT+02:00
+Transaktions-ID: 22ae14525da34de1bd68eb987f99bd20
+
+Underskrift 6
+
+Namn: BEATRICE SANDGREN
+
+Identifieringsmetod: BankID
+
+Datum och tid: 2026-05-22 07:46:44 GMT+02:00
+Transaktions-ID: 1085ae38c89f4dbfb63dc65adefbo2b3
 
 <!-- sida 10 -->
 
@@ -333,7 +414,7 @@ Förskola & Grundskolas kränkningsärenden för perioden januari-juni 2026,
 Likabehandling och diskriminering
 
 Förslag till beslut
-Nämnden för Förskola & Grundskola noterar informationen till protokollet.
+Nämnden för Förskola &Grundskola noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 Under perioden har det anmälts 1 327 ärenden totalt. Inom förskolan är det totalt 69 anmälda ärenden,
@@ -344,26 +425,24 @@ förskoleklass samt årskurs 9.
 
 Merparten av ärendena rör händelser som sker på rast och lektionstid samt fritidstid. 68,5 procent av
 ärenden rör pojkar som har utsatts och i 31,5 procent av ärendena är det flickor som har utsatts. Drygt
-
-48 procent av anmälda ärenden rör händelser som innefattar exempelvis slag, spark, fasthållning,
+48 procent av anmälda ärenden rör händelser som innefattar exempelvisslag, spark, fasthållning,
 beröring, förstörelse av egendom.
 
 Antalet anmälda ärende skiljer sig kraftigt mellan skolorna. Under perioden har skolor med flest
-anmälda ärenden mellan 123 - 136 ärenden. De skolor som har minst antal anmälda ärenden ligger
-mellan 5 - 13 ärenden.
+anmälda ärenden mellan 123 -136 ärenden. De skolor som har minst antal anmälda ärenden ligger
+mellan 5 -13 ärenden.
 
 Beslutsunderlag
-
-FG Myndighet & Stöds tjänsteskrivelse 2026-09-10. Förskola & Grundskolas kränkningsärenden för
+FG Myndighet & Stödstjänsteskrivelse 2026-09-10. Förskola & Grundskolas kränkningsärenden för
 perioden januari-juni 2026, Likabehandling och diskriminering.
+
 Rapport 2026-09-10. Förskolor och grundskolors kränkningsärenden för perioden januari – juni 2026,
 Likabehandling och diskriminering
 
 Stigert Pettersson
-
 Skolchef
-1 (1)
-FG Myndighet & Stöd                                       Kungsbacka kommun
+1(1)
+FG Myndighet & Stöd                                     Kungsbacka kommun
 434 81 Kungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
@@ -385,13 +464,13 @@ Inledning
 Huvudmannens ansvar för att hantera kränkningar som sker på förskolor och skolor regleras
 
 i skollagen 6 kapitlet. Den 1 augusti 2026 ikraftträdde en ny reglering kring kränkningar
-genom en ny proposition – Tid för undervisningsuppdraget, 2025/26:196.
+genom en ny proposition –Tid för undervisningsuppdraget, 2025/26:196.
 
 Den nya regleringen innebär att fokus har flyttats från att anmäla och dokumentera till att
 aktivt uppmärksamma och motverka kränkande behandling och se till att det finns en trygg
 
 skolmiljö. Att aktivt uppmärksamma innebär att vara uppmärksam på signaler som indikerar
-att en elev är ensam eller utsatt. Ett sådant ansvar innefattar att personalen
+att en elev är ensam eller utsatt. Ett sådant ansvarinnefattaratt personalen
 uppmärksammar om det finns konflikter i elevgruppen.
 
 Personalen ska även uppmärksamma om det finns en jargong eller språkbruk i elevgruppen
@@ -402,7 +481,7 @@ och agera för att sådan hanteras. Det innebär att ta ställning till vilka å
 vidtas när ett barn eller en elev anser sig utsatt för någon form av kränkande behandling i
 
 samband med verksamheten och vidta sådana åtgärder.
-Lagändringen innebär således en skärpning av personalens ansvar, eftersom det bland annat
+Lagändringen innebär således en skärpning av personalens ansvar,eftersom det bland annat
 
 förtydligats att det även innefattar att aktivt uppmärksamma kränkande behandling. Detta
 ska gälla oavsett om det är en händelse som rektor ska informeras om eller inte. Det ska
@@ -411,13 +490,13 @@ alltså även gälla enstaka handlingar som kan betraktas som mindre allvarliga 
 plats.
 Personalen ska inte länge vara skyldig att anmäla utan i stället vara skyldig att informera
 
-rektor om kränkande behandling som bedöms vara allvarlig eller upprepad. Om det är
-trakasserier alternativt sexuella trakasserier eller vuxen som har kränkt barn eller elev ska
-detta alltid informeras om till rektor. Efter rektor fått informationen från personalen ska
+rektor om kränkande behandlingsom bedöms vara allvarligeller upprepad. Om det är
+trakasserier alternativt sexuella trakasseriereller vuxen som har kränkt barn eller elev ska
+detta alltid informeras om till rektor.Efter rektor fått informationen från personalen ska
 
-rektor anmäla kränkningen till huvudmannen och starta utredning.
+rektor anmälakränkningen till huvudmannen och startautredning.
 
-Denna rapport rör vårterminen 2026, vilket innebär att rapporten baseras på den tidigare
+Denna rapport rör vårterminen 2026, vilketinnebär att rapporten baseras på den tidigare
 regleringen.
 
 <!-- sida 13 -->
@@ -428,46 +507,46 @@ Diarienummer
 FG-2026-00487
 Förskola och Grundskolas arbete med kränkningar
 
-Under perioden har det anmälts 1 327 ärenden totalt. Inom förskolan är det totalt 69
+Under perioden har det anmälts1 327ärenden totalt. Inom förskolan är dettotalt 69
 
-anmälda ärenden, inom anpassad grundskolan är det 13 ärenden och 1 245 ärenden inom
-grundskolan. Det är flest ärenden i årskurs 4 till 6, det vill säga på mellanstadiet. Fortsatt är
-det minst antal ärenden i förskoleklass och i årskurs 9.
+anmälda ärenden,inomanpassad grundskolan är det 13 ärendenoch 1 245ärenden inom
+grundskolan. Det är flest ärenden i årskurs 4till 6, det vill säga på mellanstadiet.Fortsatt är
+det minst antal ärenden i förskoleklass och iårskurs 9.
 
-Antal anmälningar januari - juni 2025
-grundskola och anpassad grundskola
+Antal anmälningar januari -juni 2025
+grundskolaoch anpassad grundskola
 Januari     Februari     Mars       April     Maj        Juni
 126          149         164       184        181       53
 
-Antalet anmälningar januari - juni
+Antalet anmälningar januari -juni
 2025 förskolan
 Januari     Februari     Mars       April     Maj        Juni
 3           6           9          8          5         4
 
-Antal anmälningar januari - juni 2026
-grundskola och anpassad grundskola
+Antal anmälningar januari -juni 2026
+grundskolaoch anpassad grundskola
 Januari     Februari     Mars       April     Maj        Juni
 
 210          240         317       187        189       112
 
-Antalet anmälningar januari - juni
-2026 förskolan
+Antalet anmälningar januari -juni
+2026förskolan
 Januari     Februari     Mars       April     Maj        Juni
 15           9           15         8         12        11
 
 Fördelat på skolor:
 
-Antalet anmälda ärende skiljer sig kraftigt mellan skolorna likt föregående år. Under
+Antalet anmälda ärende skiljer sig kraftigt mellan skolornalikt föregående år. Under
 
-perioden har Åsaskolan, Kollaskolan och Toråsskolan flest anmälda ärenden (136 - 123
-ärenden). Anpassad Grundskola, Furulid och Älvsåkerskolan har minst anmälda ärenden (13-
+perioden har Åsaskolan, Kollaskolan och Toråsskolan flest anmälda ärenden (136-123
+ärenden). Anpassad Grundskola, Furulid och Älvsåkerskolan har minst anmäldaärenden (13-
 5 ärenden).
 
-Antalet elever på skolorna skiljer sig åt. Om man i stället tittar på anmälningsfrekvensen så
+Antalet elever på skolorna skiljer sig åt. Om man i ställettittar på anmälningsfrekvensen så
 har Gullregnsskolan en frekvens på 50 procent under perioden. Att jämföra med
 Älvsåkerskolan som har 1,47 procents anmälningsfrekvens.
 
-Under samma period 2025 låg anmälningsfrekvensen mellan 24% - 3.65%.
+Under samma period 2025 låg anmälningsfrekvensen mellan 24% -3.65%.
 
 <!-- sida 14 -->
 
@@ -476,13 +555,13 @@ Datum
 Diarienummer
 FG-2026-00487
 
-Fördelning per skola januari – juni 2025
+Fördelning per skola januari –juni 2025
 
-Fördelning per skola januari – juni 2026
+Fördelning per skola januari –juni 2026
 
 Fördelat på kön:
 
-68,5 procent av ärenden rör pojkar som har utsatts och i 31,5 procent av ärendena är det
+68,5procent av ärenden rör pojkar som har utsatts och i 31,5procent avärendenaär det
 flickor som har utsatts.
 
 Plats där kränkning sker:
@@ -493,25 +572,25 @@ Datum
 2026-09-10
 Diarienummer
 FG-2026-00487
-Merparten av ärendena rör händelser som sker på rast och lektionstid samt fritidstid.
+Merpartenav ärendenarör händelser som sker på rast och lektionstid samt fritidstid.
 
-Händelser som skett utanför skoltid och som har bäring in i verksamheten är 4,5 procent av
+Händelser som skett utanför skoltidoch som har bäring in i verksamheten är 4,5 procent av
 
-det totala antal ärenden som rapporterats.
+dettotala antal ärenden som rapporterats.
 
 Typ av handling:
 
-Fysiskt (ex slag, spark, fasthållning, beröring, förstörelse av egendom) är drygt 48 procent av
+Fysiskt (ex slag, spark, fasthållning, beröring, förstörelse av egendom) är drygt 48procent av
 
 totala ärenden.
 
-Icke verbal/fysisk åtbörd (ex uteslutning, gester, miner eller blickar) är ungefär sex procent
+Icke verbal/fysisk åtbörd (ex uteslutning, gester, miner eller blickar) är ungefär sexprocent
 av totala antal ärenden.
 
 Skrift/Bild (ex meddelanden och bilder på papper eller i sociala medier) är ungefär fyra
 procent av totala antal ärenden.
 
-Verbalt (ex glåpord, överdrifter, ironi, hot) är drygt 39 procent av totala antalet ärenden.
+Verbalt (ex glåpord, överdrifter, ironi, hot) är drygt 39procent av totala antalet ärenden.
 
 Uppföljning
 
@@ -534,9 +613,9 @@ för att höja kunskapsnivån och för att fortsätta säkra upp likvärdigheten
 Besöken sker efter inbjudan från rektor alternativt på initiativ från huvudmannen utifrån
 brister som identifierats.
 
-När det gäller bedömningen av ärenden i verksamheterna är det under perioden åtta
+När det gäller bedömningen av ärendeni verksamheternaär det under periodenåtta
 
-procent av ärendena som ännu inte är bedömda. Detta kan jämföras med föregående period
+procent av ärendenasom ännu inte är bedömda. Detta kanjämförasmed föregående period
 då motsvarande siffra var 16 procent.
 
 Analys och reflektion
@@ -550,52 +629,52 @@ Datum
 2026-09-10
 Diarienummer
 FG-2026-00487
-mer än fördubblats (30 ärenden till 69 ärenden). Detta tyder på att personalen i
+mer än fördubblats(30 ärenden till 69 ärenden). Detta tyder på att personalen i
 verksamheten har blivit bättre på att upptäcka och hantera händelser som sker. Ökningen
 
-ses som positivt kopplat till den nya regleringen som innebär att personalen har ett stort
+ses sompositivt kopplat till den nya regleringen som innebär att personalen har ett stort
 ansvar i att aktivt upptäcka och motverka kränkande behandling.
 
 En annan bidragande orsak till att det har blivit fler ärenden under detta år kan vara att
 medvetenheten har ökat då Myndighet och stöd haft riktade insatser till många av våra
 verksamheter. Därtill har verksamhetscheferna börjat följa förskolorna samt grundskolornas
 
-siffror, vilket också kan påverka. Vikten av att se varje enskild händelse och kunna förstå
-den, är avgörande för att kunna utveckla verksamheternas förebyggande och främjande
+siffror, vilket också kan påverka. Vikten av att se varjeenskildhändelseoch kunna förstå
+den,är avgörande för att kunna utveckla verksamheternas förebyggande och främjande
 arbete för att förhindra att liknande situation uppstår. Huvudmannen har ansvar att se till
 
-att det inom varje verksamhet genomförs aktiva åtgärder mot kränkande behandling.
+att detinom varje verksamhet genomförs aktiva åtgärdermot kränkande behandling.
 
 Dock är det fortsatt en stor variation mellan verksamheterna i antalet ärenden. När
 Myndighet och Stöd genomfört en insats på en skola visar uppföljningar att antalet ärenden
 ökar. Analysen av det landar i att verksamheterna behöver en kontinuerlig dialog för att
 hålla arbetet med kränkningar levande.
 
-Vid föregående uppföljning förekom det flera fall av att det tog lång tid för ärendena att bli
+Vid föregående uppföljningförekom det flera fall av att det tog lång tid för ärendena att bli
 
-bedömda. Efter flera insatser kring detta kan vi nu se att det har blivit bättre. Vid denna
-uppföljning är det åtta procent av ärenden som ännu inte bedömts, att jämföra med de 16
+bedömda. Efter flera insatser kring detta kan vi nu se att det harblivit bättre. Vid denna
+uppföljning är det åttaprocent av ärendensom ännuinte bedömts, att jämföra med de 16
 procenten som var vid förra uppföljningen.
 
 Fortsatt arbete/nästa steg
 
-Som beskrevs inledningsvis har det skett en regeländring på området som trädde i kraft 1
-augusti 2026. Undertecknade har gjort en första information till rektorer och medarbetare
+Som beskrevs inledningsvis har det skett en regeländring på området som trädde i kraft1
+augusti 2026. Undertecknadehar gjort en första information till rektorer och medarbetare
 
 som gick ut i rektorsbrev och medarbetarbrev innan sommarlovet. Nu pågår ett fördjupande
-arbete i de förändringar som skett och vad de medför för verksamheterna i deras dagliga
+arbete i deförändringar som skett och vad de medför för verksamheterna i deras dagliga
 arbete. Implementering av ny reglering kommer att ske genom dels på skolförbättringsmöte
 med rektorer, dels genom elevhälsans professionsmöte.
 
-Parallellt med det görs nödvändiga ändringar i systemet som används för att anmäla och
+Parallellt med det görsnödvändiga ändringar i systemetsom används för att anmäla och
 
-utreda kränkningar för att det ska vara följsamt till den nya regleringen och ge rättvisa
-underlag så att huvudmannen ska kunna ta ansvar.
+utreda kränkningarför att det skavara följsamt till den nya regleringen och ge rättvisa
+underlag såatt huvudmannen ska kunna ta ansvar.
 
 Riktade insatser till förskolor och grundskolor utifrån dokumenterade avvikelser och behov.
 
-Enheternas Plan mot kränkande behandling – kommer att följas upp genom stickprov utifrån
-nya skyldigheter kopplat till ny reglering.
+Enheternas Plan mot kränkande behandling –kommer att följas upp genom stickprovutifrån
+nya skyldigheterkopplattill ny reglering.
 
 Bevakning och uppföljning av ärenden kommer fortsätta, likt tidigare.
 
@@ -670,12 +749,11 @@ Riksdagens Ombudsmän (JO) Begäran om yttrande Dnr 7537-2026
 
 Förslag till beslut
 
-Nämnden översänder yttrande 2026-09-14, till JO- Riksdagens ombudsmän.
+Nämnden översänder yttrande 2026-09-14, till JO-Riksdagens ombudsmän.
 
 Sammanfattning av ärendet
 
 JO har begärt att Nämnden för Förskola & Grundskola ska yttra sig över anmälan gjord den 1 april
-
 2026, gällande handläggningen av begäran om att få ta del av bland annat en elevakt.
 
 Förskola & Grundskola konstaterar att det mejl som inkom den 1 april 2026 inte innehåller någon
@@ -683,23 +761,23 @@ begäran om utfående av handlingar. Dock har det inkommit en begäran den 10 ma
 expedierats den 21 maj. Därtill har det inkommit en kompletterande begäran den 21 maj som har
 expedierats den 2 juni.
 
-Övriga frågor som har lyfts har kommenterats i yttrandet.
+Övriga frågor som har lyftshar kommenterats i yttrandet.
 
 Beslutsunderlag
-
 Tjänsteskrivelse, 2026-09-14. Riksdagens Ombudsmän (JO) Begäran om yttrande Dnr 7537-2026.
 Yttrande, 2026-09-14.
 Begäran om yttrande, 2026-06-05.
+
 Bilaga begäran om yttrande, 2026-05-22.
 
 Beslutet skickas till
-
 JO
 
-Stigert Pettersson                 Frida Byrsten
-Förvaltningschef                   Verksamhetschef Myndighet & Stöd
+Stigert Pettersson                Frida Byrsten
 
-1 (1)
+Förvaltningschef                  Verksamhetschef Myndighet & Stöd
+
+1(1)
 Kungsbacka kommun
 434 81 Kungsbacka
 Besöksadress
@@ -751,7 +829,7 @@ det viktigt att myndigheten snarast hör av sig till JO.
 Information om personuppgiftsbehandlingen hos JO finns på JO:s webbplats under
 http://www.jo.se/sv/Om-JO/Behandling-av-personuppgifter/.
 
-Riksdagens ombudsmän <:Postadress: Box 16327, 103 26 Stockholm Besöksadress: Västra Trädgårdsgatan 4 A
+Riksdagens ombudsmän =: Postadress: Box 16327, 103 26 Stockholm Besöksadress: Västra Trädgårdsgatan 4 A
 Telefon: 08-786 51 00 Texttelefon: 020-600 600 E-post: justitieombudsmannen(Qjo.se
 
 <!-- sida 21 -->
@@ -814,28 +892,27 @@ FG-2025-00614
 Initiativärende Susanne Andersson (SD) Seniorer som rastvärdar
 
 Förslag till beslut i Nämnden för Förskola & Grundskola
-
-Nämnden för Förskola & Grundskola godkänner redovisningen och förklarar uppdraget att utreda
+Nämnden för Förskola &Grundskola godkänner redovisningen och förklarar uppdraget att utreda
 möjligheten att införa seniorer som rastvärdar i kommunens skolor slutfört.
 
 Sammanfattning av ärendet
 
-Nämnden för Förskola & Grundskola gav den 11 juni 2026 förvaltningen i uppdrag att utreda
+Nämnden för Förskola &Grundskola gav den 11 juni 2026 förvaltningen i uppdrag att utreda
 möjligheten att införa seniorer som rastvärdar i kommunens skolor. I initiativet som ligger till grund
-för utredningen föreslogs också att ett pilotprojekt ska startas.
+för utredningen föreslogsockså att ett pilotprojektska startas.
 
 Utredningen bygger på omvärldsbevakning och intervjuer med Ulricehamns, Nässjö och Vadstena
 kommuner samt dialog med en lokal frivilligorganisation. Erfarenheterna visar att seniorer kan bidra
 som ett uppskattat extra vuxenstöd och samtidigt få möjlighet till ett meningsfullt ideellt engagemang.
-
 Kommunernas arbetssätt skiljer sig dock åt när det gäller bland annat projektledning, rekrytering,
+
 introduktion, försäkring, identifikation och samordning. Eftersom flera av de undersökta modellerna
 nyligen har startats går det ännu inte att dra säkra slutsatser om långsiktiga effekter på trygghet, trivsel
 och studiero.
 
 Förvaltningen bedömer att samverkan med seniora volontärer bör utgå från varje skolas lokala behov
 och förutsättningar. Rektor tar då ställning till om samverkan med volontärer är relevant och om
-skolan har möjlighet att ta emot volontärer. Enheten har ansvar för den praktiska hanteringen,
+skolan har möjlighet att ta emot volontärer. Enheten har ansvarför den praktiska hanteringen,
 samordningen och uppföljningen. Kostnader och arbetsinsatser behöver hanteras inom skolans
 befintliga resurser.
 
@@ -848,7 +925,7 @@ försäkring, passerkort, riskbedömning och uppföljning.
 
 Stödmaterialet kan användas även vid andra former av samverkan med volontärer och inte enbart vid
 samverkan med seniorer som rastvärdar. I arbetet kan förvaltningen föra fortsatt dialog med en
-1 (5)
+1(5)
 Kungsbacka kommun
 434 81 Kungsbacka
 Besöksadress
@@ -859,14 +936,15 @@ www.kungsbacka.se
 <!-- sida 23 -->
 
 KUNGSBACKA  KOMMUN
+
 2 (5)
 
 frivilligorganisation om möjliga former för samverkan. Om en skola därefter väljer att pröva
 arbetssättet bör skolan följa upp sina erfarenheter lokalt.
 
 Beslutsunderlag
-Förvaltningen för Förskola & Grundskolas tjänsteskrivelse, 2026-09-16.
 
+Förvaltningen för Förskola & Grundskolas tjänsteskrivelse, 2026-09-16.
 Nämnden för Förskola & Grundskolas protokollsutdrag § 69, 2026-06-11.
 Nämnden för Förskola & Grundskolas protokollsutdrag § 107, 2025-10-15.
 Initiativärende från Susanne Andersson (SD), 2025-10-09.
@@ -895,7 +973,6 @@ Nedan redogörs för möjligheterna men även vad som i praktiken bedöms som en
 olika perspektiv.
 
 Erfarenhet från andra kommuner
-
 Förvaltningen har intervjuat företrädare för Ulricehamns, Nässjö och Vadstena kommuner, som har
 infört eller prövat liknande modeller. Förvaltningen har även samtalat med GoKungsbacka, en lokal
 frivilligorganisation som sedan 2022 har arbetat med sociala sammanhang för seniorer och tidigare har
@@ -906,11 +983,11 @@ modellerna.
 <!-- sida 24 -->
 
 KUNGSBACKA  KOMMUN
+
 3 (5)
 
 De intervjuade kommunerna beskriver flera gemensamma utgångspunkter. Seniorerna deltar ideellt
 och har inget anställningsförhållande. Rekrytering sker bland annat genom pensionärsföreningar,
-
 lokalpress eller frivilligorganisationer. Seniorerna väljer normalt själva omfattningen av sitt
 engagemang, ofta en eller två dagar per vecka. Som uppskattning kan lunch eller fika erbjudas de
 dagar seniorerna deltar.
@@ -927,11 +1004,11 @@ Organiseringen skiljer sig mellan kommunerna. I Nässjö driver seniorerna i hö
 själva, medan Ulricehamn och Vadstena har projektledning som hanterar rekrytering, introduktion och
 utbildning. Även lösningarna för försäkring, identifikation, passerkort och kontakten mellan skolan
 och seniorerna varierar. Kommunerna har dock hittat lösningar på detta. Nässjö har arbetat med
-
 modellen sedan 2023, medan Ulricehamn och Vadstena startade sina projekt hösten 2025. Underlaget
 ger därför inte stöd för säkra slutsatser om långsiktiga effekter på trygghet, trivsel eller studiero.
 
 Möjlig samverkan med frivilligorganisation
+
 GoKungsbacka har i tidigare samarbeten med andra kunnat bistå med delar av rekryterings- och
 samordningsprocessen, exempelvis hantering av utdrag ur belastningsregistret, försäkring och id-
 brickor samt viss introduktion och utbildning. Organisationen har i samtalet betonat betydelsen av en
@@ -955,13 +1032,13 @@ lokal samverkan med fackliga är viktig innan genomförande.
 <!-- sida 25 -->
 
 KUNGSBACKA  KOMMUN
+
 4 (5)
 
 Rollfördelning och ansvar behöver förankras både hos volontärer och skolans personal i förväg och
 löpande.
 
 Förutsättningar för ett lokalt genomförande
-
 Om en rektor bedömer att seniora volontärer kan bidra till skolans arbete behöver uppdraget
 organiseras utifrån skolans lokala behov och förutsättningar. Följande delar behöver vara ordnade
 innan en senior börjar sitt uppdrag:
@@ -976,14 +1053,13 @@ belastningsregistret enligt gällande regler
 • introduktion till skolans lokala rutiner, ordningsregler, säkerhetsföreskrifter, utrymningsvägar och
 förväntat bemötande av elever
 • en utsedd kontaktperson och former för daglig samordning, återkoppling och uppföljning
-
 • information till berörd personal, elever och vårdnadshavare.
 
 Senioren behöver följa skolans regler och rutiner, samverka med skolans personal, respektera
 uppdragets gränser och bemöta elever utifrån skolans förhållningssätt och skollagen. Eventuell
 ytterligare utbildning kan anpassas till uppdraget och skolans behov.
-
 Ansvar och organisation
+
 Rektor ansvarar för skolans inre organisation och behöver inför ett lokalt genomförande bedöma om
 skolan har förutsättningar att ta emot och stödja seniora volontärer och i vilken mån detta kan bidra till
 trygghet, trivsel och studiero. Det finns flera olika sätt att arbeta med trygghets- och trivselfrågor på en
@@ -1002,11 +1078,11 @@ prioriteringar.
 <!-- sida 26 -->
 
 KUNGSBACKA  KOMMUN
+
 5 (5)
 
 Ett annat alternativ är att inrätta en central samordningsfunktion för rekrytering, introduktion och
 praktiska frågor. En sådan funktion ryms inte inom befintliga resurser utan skulle innebära att andra
-
 uppdrag behöver prioriteras ned. Förvaltningen bedömer inte att detta är nödvändigt för möjligheten att
 samverka med volontärer. Förvaltningen kan dock ta fram stöd i form av rutin/checklista/mallar som
 underlättar för enheter i hur de går till väga och även dialog med frivilligorganisation kring eventuellt
@@ -1023,7 +1099,6 @@ gäller och praktiskt vilka olika insatser och steg som ska vidtas.
 
 Omvärldsbevakningen visar att seniorer kan fungera som ett uppskattat extra vuxenstöd i skolan och
 att modellen kan skapa värde både för elever och deltagande seniorer. Underlaget bygger dock
-
 huvudsakligen på kommunernas erfarenheter kortsiktigt.
 
 I initiativet föreslås att en pilot startas upp. Förvaltningen förordar inte ett centralt organiserat
@@ -1036,16 +1111,16 @@ uppfyllda vid samverkan med volontärer och kunna användas för olika typer av 
 enbart för seniorer som rastvärdar i trygghetsskapande syfte. I detta arbete kan en ytterligare kontakt
 tas med frivilligorganisation kring eventuellt samarbete.
 
-Stigert Pettersson                      Helena Hellman
+Stigert Pettersson                     Helena Hellman
+Förvaltningschef                       Personalchef
 
-Förvaltningschef                        Personalchef
+Ullrika Vildbaek                       Pauline Brink
 
-Ullrika Vildbaek                        Pauline Brink
-Utvecklingsledare                       Utvecklare
+Utvecklingsledare                      Utvecklare
 
 <!-- sida 27 -->
 
-2025-10-09
+(cid:884)(cid:882)(cid:884)(cid:887)(cid:486)(cid:883)(cid:882)(cid:486)(cid:882)(cid:891)
 
 Initiativärende till Nämnden För- och grundskola
 
@@ -1055,32 +1130,31 @@ Förslag om att se över möjligheten att engagera seniorer som rastvärdar i
 Kungsbackas skolor.
 
 Flera skolor, bland annat i Mjölby, Vadstena och Myråsskolan i Borås har
-
 infört ett nytt arbetssätt för att öka tryggheten under skoldagen. Där får
 seniorer möjlighet att som volontärer hjälpa till som rastvärdar och vara ett
 extra stöd för både elever och personal. Erfarenheterna från dessa projekt är
 mycket positiva. Eleverna känner sig tryggare och trivs bättre, samtidigt som
-de äldre får en meningsfull uppgift och chans att bidra till samhället. Detta
 
+de äldre får en meningsfull uppgift och chans att bidra till samhället. Detta
 visar att man med enkla medel kan stärka skolmiljön och samtidigt föra
 samman unga och äldre.
 
 Vi föreslår att förvaltningen utreder möjligheten att pröva en liknande
-
 modell i våra skolor.
+
 Ett pilotprojekt kan startas på en eller flera skolor där intresserade seniorer
 engageras som rastvärdar under skolans raster.
 
 Rekrytering kan ske i samarbete med pensionärsföreningar eller
-
 frivilligorganisationer i kommunen. Förvaltningen kan därefter utvärdera
+
 pilotprojektet med fokus på trygghet, trivsel och studiero.
 
 Mot bakgrund av ovanstående yrkar Sverigedemokraterna :
 
 -Att förvaltningen För- och grundskola utreder förutsättningarna för att starta
-
 ett pilotprojekt där seniorer deltar som volontärer och engageras som
+
 rastvärdar på en eller flera grundskolor i kommunen.
 
 Susanne Andersson (SD)
@@ -1280,7 +1354,6 @@ för ökad vuxennärvaro som kan bidra till trygghet och socialt stöd för elev
 Genom ett anställningsförhållande ges rektor också möjlighet att säkerställa
 kontinuitet för verksamheten och att rekryteringen görs enligt gällande lagstiftning.
 Förvaltningens bedömning utifrån dessa förutsättningar är att inte starta ett
-
 pilotprojekt för att pröva en modell med seniorer som rastvärdar.
 
 Förslag till beslut under sammanträdet
@@ -1399,11 +1472,9 @@ FG-2026-00527
 Rapportering olycksfall och tillbud, januari-juni 2026
 
 Förslag till beslut i nämnden för Förskola & Grundskola
-
 Informationen noteras till protokollet.
 
 Sammanfattning av ärendet
-
 Rapporteringen av anmälda olycksfall och tillbud avser perioden 2026-01-01 – 2026-06-30 och är en
 del av det systematiska arbetsmiljöarbetet i enlighet med gällande arbetsmiljölagstiftning. Syftet med
 att anmäla händelser är att få syn på risker i arbetsmiljön för att kunna jobba förebyggande och åtgärda
@@ -1416,20 +1487,19 @@ och följs sedan upp. Att anmäla olycksfall och tillbud bidrar till att säkers
 
 Beslutsunderlag
 
-Förskola & Grundskolas tjänsteskrivelse, 2026-09-14. Rapportering olycksfall och tillbud, januari-juni
+Förskola & Grundskolastjänsteskrivelse, 2026-09-14. Rapportering olycksfall och tillbud,januari-juni
 2026
 Rapport anmälda olycksfall och tillbud Förskola & Grundskola 2026-01-01 – 2026-06-30
 
-Stigert Pettersson                 Ullrika Vildbaek
+Stigert Pettersson                Ullrika Vildbaek
+Förvaltningschef                  Utvecklingsledare HR
 
-Förvaltningschef                   Utvecklingsledare HR
-
-1 (1)
-FG HR & Kommunikation                                     Kungsbacka kommun
+1(1)
+FG HR & Kommunikation                                   Kungsbacka kommun
 434 81 Kungsbacka
 Helena Hellman
-(mobilnummer borttaget)                                                  Besöksadress
-Personalchef förvaltning                                 Stadshuset, Storgatan 37
+(mobilnummer borttaget)                                                Besöksadress
+Personalchef förvaltning                               Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
@@ -1463,7 +1533,7 @@ Innehåll
 1.3  Anmälda händelser – skadeorsak/risk 2026 och 2025 ................................................ 6
 1.4  Anmälda händelser – plats 2026 och 2025 .................................................................. 7
 2  Händelsetyper per verksamhet                       9
-2.1  Sammanfattning förskola ............................................................................................. 9
+2.1  Sammanfattning förskola .............................................................................................9
 Anmälda tillbud och olycksfall i förskolan över tid: januari – juni. ..................... 10
 Förskola anmälda händelser januari - juni 2026 ................................................... 10
 2.2  Sammanfattning skolverksamhet, fritidshem och förskoleklass ................................. 13
@@ -1489,7 +1559,6 @@ grundskola inkluderats i grundskolans diagram, med hänvisning till det begräns
 antalet anmälningar. Denna statistik redovisas dock separat under egen rubrik för
 transparens. På motsvarande sätt har statistik för fritidshem och förskoleklass
 integrerats i grundskolans sammanställning, då dessa verksamheter är svåra att
-
 särskilja i den övergripande statistiken.
 
 2
@@ -1506,21 +1575,21 @@ Förvaltningen har vidtagit flera åtgärder för att stärka rektorers och enhe
 förmåga att hantera händelser kopplade till medarbetarnas arbetsmiljö. Detta
 inkluderar:
 
-•  Stödmaterial för chefer och medarbetare, avsett att användas på
+(cid:120) Stödmaterial för chefer och medarbetare, avsett att användas på
 arbetsplatsträffar (APT) och andra forum.
-•  Kunskapshöjande insatser för rektorer och enhetschefer, med fokus på
+(cid:120) Kunskapshöjande insatser för rektorer och enhetschefer, med fokus på
 användningen av det digitala systemet (IA) utifrån deras arbetsmiljöansvar.
 
-•  Individuellt stöd från HR, där varje rektor erbjuds nära vägledning i
+(cid:120) Individuellt stöd från HR, där varje rektor erbjuds nära vägledning i
 systematiken kring händelsehantering – från registrering och åtgärder till
 uppföljning för att säkerställa att insatserna ger önskad effekt.
 
 De genomförda åtgärderna har visat positiva effekter för både medarbetare och
 chefer genom:
-•  Förbättrad precision i beskrivningar av händelser.
+(cid:120) Förbättrad precision i beskrivningar av händelser.
 
-•  Ökad användning av systemet på enhetsnivå.
-•  Stärkta analysprocesser, vilket bidrar till högre kvalitet i verksamheten.
+(cid:120) Ökad användning av systemet på enhetsnivå.
+(cid:120) Stärkta analysprocesser, vilket bidrar till högre kvalitet i verksamheten.
 
 Förvaltningen fortsätter att följa upp och utveckla arbetet för att ytterligare stärka det
 systematiska arbetsmiljöarbetet.
@@ -1967,30 +2036,30 @@ Utifrån den samlade analysen är flera delar i pågående insatser fortsatt vik
 systematiska arbetsmiljöarbetet och att säkerställa säkra och hållbara arbetsplatser för
 vuxna, barn och elever.
 
-•  Alla elever och all personal har rätt till en skolmiljö där utbildningen präglas
+(cid:120) Alla elever och all personal har rätt till en skolmiljö där utbildningen präglas
 av trygghet och undervisningen av studiero. Under höstterminen 2026
 kommer förvaltningens stödfunktioner att erbjuda digitala möten för all
 skolpersonal, syftet är att alla som arbetar i skolan ska få information om
 lagstiftning kring trygghet och studiero och disciplinära (Skollagen 5 Kap)
 åtgärder och brottsförebyggande säkerhetsarbete (Skollagen 6 Kap).
 
-•  Fortsatta kunskapshöjande insatser kring syfte med att anmäla händelser och
+(cid:120) Fortsatta kunskapshöjande insatser kring syfte med att anmäla händelser och
 hur de ska anmälas och hanteras. Insatserna genomförs dels genom HRs nära
 stöd till rektorer vid behov, dels genom riktade insatser för hela
 rektorsgruppen i samband med deras gemensamma möten.
 
-•  Förvaltningsgemensam analys av olycksfall och tillbud (Arbetsmiljölagen)
+(cid:120) Förvaltningsgemensam analys av olycksfall och tillbud (Arbetsmiljölagen)
 samt kränkningsanmälningar (Skollagen). Syftet är att undersöka samband
 och/eller avvikelser för anmälningar som inkommer ur båda perspektiven, där
 vi kan kvalitetssäkra information så insatser bättre möter behovet för varje
 specifik händelse.
 
-•  Arbeta förebyggande för att upplevelsen av hög arbetsbelastning minskar.
-•  Schemaplanering i systemverktyg Medvind
+(cid:120) Arbeta förebyggande för att upplevelsen av hög arbetsbelastning minskar.
+(cid:120) Schemaplanering i systemverktyg Medvind
 
-•  Möjlighet till flextid för medarbetare i både förskolan och fritidshemmet.
+(cid:120) Möjlighet till flextid för medarbetare i både förskolan och fritidshemmet.
 
-•  Kompetensutveckling arbetstidslagstiftning som skyddslagstiftning.
+(cid:120) Kompetensutveckling arbetstidslagstiftning som skyddslagstiftning.
 
 26
 
@@ -2006,41 +2075,40 @@ FG-2026-00516
 Utredning skolorganisering Fjärås- och Gällingeområdet
 
 Förslag till beslut
-
-Nämnden för Förskola & Grundskola beslutar att förändra skolorganisationen i Fjärås- och
+Nämnden för Förskola & Grundskola beslutar att förändra skolorganisationen i Fjärås-och
 Gällingeområdet så att Gällingeskolan och Fjärås Bräckaskolan organiseras som F-6 skolor och
+
 Smedingeskolan som en 7-9 skola.
 
 Sammanfattning av ärendet
 Nämnden för Förskola & Grundskola gav förvaltningen i uppdrag att utreda framtida skolorganisering
-i Fjärås- och Gällingeområdet. Utredningen har analyserat förutsättningarna och konsekvenserna av att
+i Fjärås-och Gällingeområdet. Utredningen har analyserat förutsättningarna och konsekvenserna av att
 förändra nuvarande organisation med två F-5 skolor och en 6-9 skola till två F-6 skolor och en 7-9
 skola.
 
-Befolknings- och elevprognosen visar ett relativt stabilt elevunderlag under de närmaste åren, följt av
-en gradvis minskning mot slutet av prognosperioden. Förändringen av skolorganisationen utgör
+Befolknings-och elevprognosen visar ett relativt stabilt elevunderlag under de närmaste åren, följt av
+en gradvisminskning mot slutet av prognosperioden. Förändringen av skolorganisationen utgör
 därmed en strukturomvandling där organisationen anpassas till den prognostiserade
 volymutvecklingen och befintlig skolkapacitet nyttjas utifrån förändrade behov.
 
 Utredningen visar att det samlade elevunderlaget kan inrymmas inom områdets befintliga
 skolkapacitet under prognosperioden. Den föreslagna förändringen kan huvudsakligen genomföras
-
 inom befintligt lokalbestånd, men kräver vissa lokalanpassningar på Gällingeskolan samt fortsatt
 samnyttjande av lokaler på andra skolor.
 
 För Smedingeskolan innebär förändringen ett lägre elevantal och kapacitetsutnyttjande. För eleverna
 innebär förändringen att de går kvar på Gällingeskolan respektive Fjärås Bräckaskolan under hela
 mellanstadiet och byter till Smedingeskolan inför årskurs 7 i stället för inför årskurs 6. Viss
+
 undervisning behöver även fortsättningsvis genomföras vid annan skola.
 
 Förvaltningens samlade bedömning är att konsekvenserna av förändringen är möjliga att hantera och
 föreslår därför att Gällingeskolan och Fjärås Bräckaskolan organiseras som F-6 skolor och
 Smedingeskolan som en 7-9 skola.
 
-Förändring av skolorganisationen är lämplig att genomföra till läsårsstart 2028/2029.
-
-1 (2)
-FG Förvaltningen för Förskola och Grundskola              Kungsbacka kommun
+Förändring avskolorganisationen är lämplig att genomföra till läsårsstart 2028/2029.
+1(2)
+FG Förvaltningen för Förskola och Grundskola            Kungsbacka kommun
 434 81 Kungsbacka
 Anna Flinck
 Besöksadress
@@ -2051,20 +2119,21 @@ www.kungsbacka.se
 <!-- sida 64 -->
 
 KUNGSBACKA  KOMMUN
+
 2 (2)
 
 Beslutsunderlag
-
 Tjänsteskrivelse, 2026-09-21, Utredning skolorganisering i Fjärås - Gällingeområdet.
+
 2026-09-21 Rapport utredning skolorganisering Fjärås_Gällinge
 
 Beslutet skickas till
 
 Förvaltningen för Service
 
-Stigert Pettersson                      Anna Flinck
-Förvaltningschef                        Utvecklingsledare
-Förskola & Grundskola                   Förskola & Grundskola
+Stigert Pettersson                     Anna Flinck
+Förvaltningschef                       Utvecklingsledare
+Förskola & Grundskola                  Förskola & Grundskola
 
 <!-- sida 65 -->
 
@@ -2147,21 +2216,21 @@ vägs mot förutsättningarna för en sammanhållen skolgång under mellanstadie
 att skolorganisationen förändras till två F-6 skolor och en 7-9 skola.
 
 Huvudsakliga slutsatser:
-  Föreslagen organisation: Två F-6 skolor och en 7-9 skola.
+(cid:194) Föreslagen organisation: Två F-6 skolor och en 7-9 skola.
 
-  Elevperspektiv: Eleverna går kvar på sin ordinarie skola under hela
+(cid:194) Elevperspektiv: Eleverna går kvar på sin ordinarie skola under hela
 mellanstadiet och byter skola inför årskurs 7. Viss undervisning
 behöver genomföras vid annan skola.
-  Lokaler: Förändringen kan huvudsakligen genomföras inom befintligt
+(cid:194) Lokaler: Förändringen kan huvudsakligen genomföras inom befintligt
 lokalbestånd. Lokalanpassning krävs på Gällingeskolan.
 
-  Ekonomi och organisation: Förändringen innebär ökade kostnader för
+(cid:194) Ekonomi och organisation: Förändringen innebär ökade kostnader för
 lokalanpassning, förändrade transporter och lägre
 kapacitetsutnyttjande på Smedingeskolan.
 
-  Rekommendation: Förvaltningen rekommenderar att
+(cid:194) Rekommendation: Förvaltningen rekommenderar att
 skolorganisationen förändras till två F-6 skolor och en 7-9 skola.
-  Förändring av skolorganisationen är lämplig att genomföra till
+(cid:194) Förändring av skolorganisationen är lämplig att genomföra till
 läsårsstart 2028/2029.
 
 Kungsbacka kommun Utredning skolorganisering Fjärås- och Gällingeområdet 3
@@ -2304,9 +2373,9 @@ Den planerade bostadsutvecklingen i Fjärås och Gällinge bedöms vara begräns
 Utbyggnaden förväntas därför inte påverka behovet av utbildningsplatser i någon större omfattning utöver
 vad som redan beaktas i kommunens befolkningsprognos.
 
-Diagrammet visar prognostiserat utfall utifrån befolkningsprognos 2026-2035 i Fjärås- Gällingeområdet. Beräkningen
+Diagrammet visar prognostiserat utfall utifrån befolkningsprognos 2026-2035i Fjärås-Gällingeområdet. Beräkningen
 utgår från faktiskt elevantal våren 2026, eftersom fastställt elevantal för hösten 2026 ännu inte finns tillgängligt för
-uppdatering i systemstödet.
+uppdateringi systemstödet.
 
 2.3 Förutsättningar för en F-6 organisation
 
@@ -2324,22 +2393,22 @@ hemklassrum motsvara den organisation som skolan ska kunna inrymma.
 
 Skolans kapacitet kan dock inte bedömas enbart utifrån antalet hemklassrum. Lokalerna behöver även ge
 förutsättningar för att genomföra undervisningen i enlighet med läroplan, kursplaner och timplan. För ämnen
-som slöjd, hem- och konsumentkunskap, idrott och hälsa, musik och bild behöver det finnas tillgång till
+som slöjd, hem-och konsumentkunskap, idrott och hälsa, musik och bild behöver det finnas tillgång till
 lokaler och utrustning som möjliggör undervisningens praktiska moment.
 
 Även skolans gemensamma funktioner, exempelvis fritidshem, skolbibliotek, elevhälsa, måltidslokaler samt
-personal- och administrativa lokaler, behöver ha tillräcklig kapacitet. Lokalernas tekniska förutsättningar,
+personal-och administrativa lokaler, behöver ha tillräcklig kapacitet. Lokalernas tekniska förutsättningar,
 bland annat ventilation, påverkar också hur många personer som kan vistas i respektive undervisningslokal.
-
 En skolas kapacitet behöver därmed bedömas samlat utifrån antal och storlek på hemklassrum,
+
 undervisningens lokalbehov, gemensamma funktioner samt lokalernas tekniska kapacitet.
 
-Kungsbacka kommun Utredning skolorganisering Fjärås- och Gällingeområdet 7
+Kungsbacka kommun Utredning skolorganisering Fjärås-och Gällingeområdet 7
 
 <!-- sida 72 -->
 
 2.4 Nuvarande skolorganisation
-Fjärås- och Gällingeområdet har idag en skolorganisation som består av två F-5 skolor och en 6-9 skola.
+Fjärås-och Gällingeområdet har idag en skolorganisation som består av två F-5 skolor och en 6-9 skola.
 Gällingeskolan och Fjärås Bräckaskolan bedriver verksamhet för årskurserna F-5, medan Smedingeskolan
 tar emot elever i årskurs 6-9.
 
@@ -2351,7 +2420,7 @@ nuvarande förutsättningar som grund för den fortsatta analysen.
 Gällingeskolan
 
 Gällingeskolan är idag organiserad som en F-5 skola och har en dimensionerad kapacitet om cirka 150
-elever. Läsåret 2026/2027 har skolan 143 elever, vilket innebär ett högt kapacitetsutnyttjande.
+elever. Läsåret 2026/2027 harskolan 143elever,vilket innebär ett högt kapacitetsutnyttjande.
 
 Prognosen visar att elevantalet successivt minskar under prognosperioden och från omkring år 2030
 understiger det prognostiserade elevantalet skolans dimensionerande kapacitet.
@@ -2360,28 +2429,28 @@ Gällingeskolans lokalmässiga förutsättningar motsvarar i huvudsak en enparal
 Skolan har begränsade möjligheter till fysisk utbyggnad på befintlig tomt. Möjligheten att förändra skolans
 organisation är därför i huvudsak beroende av hur befintliga lokaler kan användas och disponeras.
 
-Gällingeskolan har idag lokaler för bland annat slöjd och en mindre idrottssal. Skolan saknar egen
+Gällingeskolan har idag lokaler för bland annat slöjd ochenmindre idrottssal. Skolan saknar egen
 musiklokal och undervisningen i musik för årskurs 4-5 genomförs vid Fjärås Bräckaskolan.
 
-Diagrammet visar prognostiserat utfall utifrån befolkningsprognos 2026-2035 för Gällingeskolan F-5. Beräkningen
+Diagrammet visar prognostiserat utfall utifrån befolkningsprognos 2026-2035för GällingeskolanF-5. Beräkningen
 utgår från faktiskt elevantal våren 2026, eftersom fastställt elevantal för hösten 2026 ännu inte finns tillgängligt för
-uppdatering i systemstödet.
+uppdateringi systemstödet.
 Fjärås Bräckaskolan
 
 Fjärås Bräckaskolan är områdets största grundskola och är idag organiserad som en F-5 skola. Skolans
-dimensionerade kapacitet uppgår till cirka 700 elever. Läsåret 2026/2027 har skolan 527 elever. Skolan
-byggdes utifrån Kungsbacka kommuns koncept för utbildningslokaler 2021 och avpassades för en F-5
+dimensionerade kapacitet uppgår till cirka 700 elever. Läsåret 2026/2027 har skolan 527elever.Skolan
+byggdes utifrån Kungsbacka kommuns koncept för utbildningslokaler 2021 och avpassadesför en F-5
 organisation.
 
 Skolan har 26 ordinarie hemklassrum. Därutöver finns ytterligare lokaler som vid behov kan användas som
 hemklassrum. Vid en förändrad organisation behöver lokalbehovet bedömas utifrån elevkullarnas storlek och
 antalet klasser i respektive årskurs.
 
-Kungsbacka kommun Utredning skolorganisering Fjärås- och Gällingeområdet 8
+Kungsbacka kommun Utredning skolorganisering Fjärås-och Gällingeområdet 8
 
 <!-- sida 73 -->
 
-En fullt fyrparallellig F-6 organisation omfattar 28 klasser och överstiger därmed antalet ordinarie
+En fullt fyrparallellig F-6organisation omfattar 28 klasser och överstiger därmed antalet ordinarie
 hemklassrum. Det finns dock möjlighet att använda ytterligare lokaler som hemklassrum. Hur många klasser
 som sammantaget kan inrymmas behöver bedömas utifrån dessa lokalers lämplighet för undervisning och
 skolans behov av lokaler för övriga funktioner.
@@ -2392,19 +2461,19 @@ I anslutning till skolans huvudbyggnad finns den kommunala byggnaden Hus C, som 
 nuvarande lokalbestånd. Byggnaden innehåller fyra klassrum och kan, under förutsättning att den inte
 används för annan verksamhet, ge möjlighet att utöka antalet tillgängliga undervisningslokaler.
 
-Elevprognosen visar ett svagt minskat elevunderlag under prognosperioden. Behovet av att ta Hus C i
-anspråk vid en F-6 organisation bedöms därför utifrån det prognostiserade antalet elever och det antal klasser
+Elevprognosen visar ett svagt minskatelevunderlag under prognosperioden. Behovet av att ta Hus C i
+anspråk vid en F-6organisation bedöms därför utifrån det prognostiserade antalet elever och det antal klasser
 som behöver organiseras över tid. Utifrån gällande elevprognos bedöms Hus C inte behöva tas i anspråk för
-att genomföra den föreslagna F-6 organisationen under prognosperioden.
+att genomföra den föreslagna F-6organisationen under prognosperioden.
 
-Diagrammet visar prognostiserat utfall utifrån befolkningsprognos 2026-2035 för Fjärås Bräckaskolan F-5.
+Diagrammet visar prognostiserat utfall utifrån befolkningsprognos 2026-2035för Fjärås Bräckaskolan F-5.
 Beräkningen utgår från faktiskt elevantal våren 2026, eftersom fastställt elevantal för hösten 2026 ännu inte finns
-tillgängligt för uppdatering i systemstödet.
+tillgängligt föruppdateringi systemstödet.
 
 Smedingeskolan
 Smedingeskolan är idag organiserad som en 6-9 skola och har en dimensionerad kapacitet om cirka 450
 
-elever. Läsåret 2026/2027 har skolan ett elevantal på 366 elever.
+elever. Läsåret 2026/2027 har skolan ett elevantal på 366elever.
 Skolan har lokaler anpassade för undervisning i årskurs 6-9 och tillgång till ämnesspecifika
 undervisningsmiljöer för bland annat naturorienterande och praktisk-estetiska ämnen.
 
@@ -2414,7 +2483,7 @@ perioden. Utifrån nuvarande organisation har skolan kapacitet för det prognost
 Vid en förändring till en 7-9 organisation minskar antalet årskurser från fyra till tre. En treparallellig 7-9
 organisation omfattar därmed nio klasser och motsvarar cirka 270 elever.
 
-Kungsbacka kommun Utredning skolorganisering Fjärås- och Gällingeområdet 9
+Kungsbacka kommun Utredning skolorganisering Fjärås-och Gällingeområdet 9
 
 <!-- sida 74 -->
 
@@ -2423,30 +2492,30 @@ utgår från faktiskt elevantal våren 2026, eftersom fastställt elevantal för
 uppdatering i systemstödet.
 2.5 Samlad bedömning av kapacitet och elevprognoser
 
-Elevprognoserna visar att det samlade elevunderlaget i Fjärås- och Gällingeområdet kan inrymmas inom
+Elevprognoserna visar att det samlade elevunderlaget i Fjärås-och Gällingeområdet kan inrymmas inom
 områdets befintliga skolkapacitet under prognosperioden. Förutsättningarna för en förändrad
 skolorganisation skiljer sig dock mellan de tre skolorna.
 
 Gällingeskolan har i nuläget ett högt kapacitetsutnyttjande och begränsade möjligheter till fysisk utbyggnad.
-Elevprognosen visar samtidigt ett successivt minskande elevantal, vilket på sikt skapar ett visst utrymme för
+Elevprognosen visar samtidigt ett successivt minskande elevantal, vilketpå sikt skapar ett visst utrymme för
 en förändrad organisation. Förutsättningarna för att inrymma årskurs 6 är främst beroende av hur skolans
 befintliga lokaler kan disponeras och hur undervisningen i de olika ämnena kan organiseras.
 Fjärås Bräckaskolan har en kapacitetsmarginal i förhållande till det prognostiserade elevantalet. En fullt
-fyrparallellig F-6 organisation omfattar fler klasser än skolans 26 ordinarie hemklassrum, men det finns
+fyrparallellig F-6organisation omfattar fler klasser än skolans 26 ordinarie hemklassrum, men det finns
 
 ytterligare lokaler som kan användas som hemklassrum. Elevprognosen visar samtidigt ett minskande
 elevunderlag, vilket innebär att behovet inte bedöms motsvara en fullt fyrparallellig organisation i samtliga
-årskurser under prognosperioden. Utifrån gällande prognos bedöms den föreslagna F-6 organisationen därför
+årskurser under prognosperioden. Utifrån gällande prognos bedöms den föreslagna F-6organisationen därför
 kunna inrymmas utan att Hus C tas i anspråk.
 För Smedingeskolan innebär en förändring från 6-9 till 7-9 att en årskurs flyttas från skolan. Det minskar det
 ordinarie elevantalet och frigör kapacitet i såväl hemklassrum som ämnesspecifika undervisningslokaler. Det
 skapar samtidigt förutsättningar för att vissa ämnen eller funktioner även fortsättningsvis kan samordnas
-
 mellan skolorna om detta bedöms vara nödvändigt.
+
 Den fortsatta analysen behöver utgå från respektive skolas lokalmässiga och organisatoriska förutsättningar
 och hur dessa påverkas av de två organisatoriska inriktningar som utredningen omfattar.
 
-Kungsbacka kommun Utredning skolorganisering Fjärås- och Gällingeområdet 10
+Kungsbacka kommun Utredning skolorganisering Fjärås-och Gällingeområdet 10
 
 <!-- sida 75 -->
 
@@ -2659,8 +2728,8 @@ av undervisningen kan genomföras på skolan, men vissa delar behöver samordnas
 Skolans lokal för hem- och konsumentkunskap är inte fullt utrustad för undervisningen i årskurs 6 och delar
 av undervisningen behöver därför genomföras på Smedingeskolan. För idrott och hälsa finns en risk att delar
 av undervisningen kan behöva genomföras i Smedingeskolans idrottshall på grund av Fjärås Bräckaskolans
-
 idrottssals storlek.
+
 Undervisningen i moderna språk för årskurs 6 samordnas idag på Smedingeskolan för elever från
 Gällingeskolan och Fjärås Bräckaskolan. Vid en förändrad organisation föreslås undervisningen fortsätta
 samordnas på samma vis antingen på Fjärås Bräckaskolan eller Smedingeskolan. Elever i årskurs 6 från
@@ -2925,8 +2994,8 @@ Gällingeskolans elever. Moderna språk kan samordnas på
 Fjärås Bräckaskolan eller
 Smedingeskolan.
 Lokaler – Gällingeskolan Befintlig organisation ryms Slöjdsalen behöver byggas om till
-inom nuvarande lokaler. hemklassrum med funktioner för
 
+inom nuvarande lokaler. hemklassrum med funktioner för
 bildundervisning. Slöjd för årskurs
 3-6 behöver genomföras vid annan
 skola.
@@ -3050,8 +3119,8 @@ Gällingeskolan respektive Fjärås Bräckaskolan under hela mellanstadiet och b
 Smedingeskolan inför årskurs 7 i stället för inför årskurs 6. Viss undervisning
 behöver även fortsättningsvis genomföras vid annan skola.
 Förvaltningens samlade bedömning är att konsekvenserna av förändringen är möjliga
-
 att hantera och föreslår därför att Gällingeskolan och Fjärås Bräckaskolan
+
 organiseras som F-6 skolor och Smedingeskolan som en 7-9 skola.
 Förändring av skolorganisationen är lämplig att genomföra till läsårsstart 2028/2029.
 
@@ -3093,16 +3162,16 @@ FG-2026-00508
 Lokalbehov 2028-2032, utblicksår 2033-2037
 
 Förslag till beslut
+
 Nämnden för Förskola & Grundskola beslutar:
+\- att godkänna Lokalbehov 2028-2032 för Nämnden för Förskola & Grundskola,
 
-\-  att godkänna Lokalbehov 2028-2032 för Nämnden för Förskola & Grundskola,
-\-  att godkänna behovsbeskrivningarna enligt bilaga 1-3 som underlag för fortsatt beredning i
-
+\- att godkänna behovsbeskrivningarna enligt bilaga 1-3 som underlag för fortsatt beredning i
 kommunens lokalplaneringsprocess.
 
 Sammanfattning av ärendet
 
-Varje år beslutar nämnden för Förskola & Grundskola om sina lokalbehov samt lämnar in
+Varje år beslutar nämndenför Förskola & Grundskola om sina lokalbehov samt lämnar in
 behovsbeskrivningar för nästkommande planperiod 2028-2032. För att få en bättre framförhållning och
 en bättre planeringstid har utblicksår för 2033-2037 lagts till i lokalbehovsprocessen. För utblicksåren
 krävs inga behovsbeskrivningar utan enbart en grov bedömning.
@@ -3112,94 +3181,77 @@ lokalplan som utgör del av kommunens flerårsbudget.
 Lokalbehoven bereds och omsätts i olika lösningsalternativ som utgår från kommunens lokalpolicy:
 "Kommunen ska genom aktiv lokalförsörjning tillhandahålla och bibehålla ändamålsenliga och
 kostnadseffektiva lokaler över tiden".
-
-Lokalplanen kan visa behov av kommande byggnationer av för- och grundskolor samt anpassningar
+Lokalplanen kan visa behov av kommande byggnationer av för-och grundskolor samt anpassningar
 eller minskade behov av befintliga lokaler i Kungsbacka kommun. Orsaken kan vara
-befolkningsökning, minskande barn/elevunderlag, expansion av nya områden samt underhåll och
+
+befolkningsökning, minskande barn/elevunderlag,expansion av nya områden samt underhåll och
 anpassningar i syfte att förlänga livslängden och vara lokaleffektiva i våra befintliga lokaler.
 
 Beslutsunderlag
 Tjänsteskrivelse, 2026-09-11, Lokalbehov 2028-2032, utblicksår 2033-2037.
 
 Lokalbehov 2028-2032, Nämnden för Förskola & Grundskola.
-
 Bilaga 1: Behovsbeskrivning Onsala förskolor. Lokalplan 2028-2032
-Bilaga 2: Behovsbeskrivning Onsala skolor. Lokalplan 2028-2032
 
+Bilaga 2: Behovsbeskrivning Onsala skolor. Lokalplan 2028-2032
 Bilaga 3: Behovsbeskrivning Strukturomvandling Fjärås Gällinge skolor. Lokalplan 2028-2032
 
-1 (2)
+1(2)
 Kungsbacka kommun
 434 81 Kungsbacka
 Stigert Pettersson
-0300-834829                                                   Besöksadress
-Förvaltningschef                                         Stadshuset, Storgatan 37
+0300-834829                                                 Besöksadress
+Förvaltningschef                                       Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
 <!-- sida 90 -->
 
 KUNGSBACKA  KOMMUN
+
 2 (2)
 
 Beslutet skickas till
+
 Förvaltningen för Service
 
-Stigert Pettersson                 Anna Flinck
-Förvaltningschef                   Utvecklingsledare
-Förskola & Grundskola              Förskola & Grundskola
+Stigert Pettersson                Anna Flinck
+Förvaltningschef                  Utvecklingsledare
+Förskola & Grundskola             Förskola & Grundskola
 
 <!-- sida 91 -->
 
-Lokalbehov 2028-2032                        Kungsbacka kommun
+Lokalbehov 2028-2032 Kungsbacka kommun
 
-Lokalbehov           2028-2032
+Lokalbehov 2028-2032
 
-Nämnden      för  Förskola    &  Grundskola
+Nämnden för Förskola & Grundskola
 
-www.kungsbacka.se
+Kungsbacka www.kungsbacka.se
 
-Lokalbehov 2028-2032                                          0
+Lokalbehov 2028-2032 0
 
 <!-- sida 92 -->
 
-Nämnden för Förskola & Grundskola              Kungsbacka kommun
-
-Innehållsförteckning
-
-1 Allmänt om kommunens övergripande lokalplanering.............................................................2
-2 Lokalbehov 2028-2032 utblicksår 2033-2037..............................................................................4
-3 Nämndens lokalbehov..................................................................................................................6
-
-3.1 Utbildningslokaler inriktning grundskolor................................................................................................................6
-3.2 Utbildningslokaler inriktning förskolor.....................................................................................................................8
-Bilagor
-Bilaga 1: Behovsbeskrivning Onsala förskolor. Lokalplan 2028-2032
-
-Bilaga 2: Behovsbeskrivning Onsala skolor. Lokalplan 2028-2032
-Bilaga 3: Behovsbeskrivning Strukturomvandling Fjärås Gällinge skolor. Lokalplan 2028-2032
-
-Lokalbehov 2028-2032                                          1
-
 <!-- sida 93 -->
 
-Nämnden för Förskola & Grundskola              Kungsbacka kommun
+Nämnden för Förskola & Grundskola Kungsbacka kommun
 
-1 Allmänt   om   kommunens      övergripande
-
+1 Allmänt om kommunens övergripande
 lokalplanering
 
 Anvisning
 
 Varje nämnd ska besluta om sina lokalbehov och lämna in behovsbeskrivningar för planperioden
 2028-2032 med fokus på år 2032. Nämnden behöver även besluta om lokalbehov för utblicksåren
-
 2033-2037 men här krävs inga behovsbeskrivningar. Anledningen är att det ska finnas praktisk
 möjlighet att förverkliga behovet (tex tid för lokalisering, detaljplan, bygglov och byggnation).
+
 Nämnderna ska beskriva vilka strategiska utgångspunkter, lagstiftning och övriga faktorer som
 påverkar lokalbehovet år 2032 inom respektive lokaltyp.
 
 Lokalbehoven specificeras därefter i tabeller under aktuell lokaltyp i avsnitt 3.1.X.
+
 Beskrivning och motivering görs dels genom att fylla i tabellerna och dels genom att fylla i
 behovsbeskrivningar. Notera att det ska vara en behovsbeskrivning per uttalat behov,
 behovsbeskrivningarna ska bifogas i PDF format.
@@ -3211,11 +3263,12 @@ Kommunstyrelsens förvaltning.
 Kungsbacka kommun är en attraktiv kommun, geografiskt placerad i en av Sveriges starkaste
 tillväxt- och arbetsmarknadsregioner. Antalet invånare förändras årligen och kommunen behöver
 anpassa sina lokaler för att möta behovet utifrån befolkningsförändringarna.
+
 När vi planerar samhället och bygger nytt ska det göras på långsiktigt, smart och hållbart sätt enligt
 kommunens översiktsplan. För att växa smart behöver nybyggnation fokuseras till stationsorterna
-
 Kungsbacka stad, Anneberg och Åsa. På så sätt stärker vi möjligheterna att samutnyttja lokaler, ytor
 och trafikstråk mer effektivt än om vi sprider ut ny bebyggelse.
+
 Kommunen har en omfattande verksamhet som bedrivs i olika lokaler. Dessutom förmedlar
 kommunen olika slags boenden för grupper i samhället som har svårt att få bostad på vanligt sätt
 eller som fått biståndsbeslut. Det kan handla om boenden för äldre, personer med
@@ -3230,19 +3283,21 @@ Kommunens lokalstyrgrupp sammanställer behoven till en lokalbehovsplan som bear
 till en lokalplan. Den ska vara möjlig att genomföra ekonomiskt, tidsmässigt och fysiskt.
 Lokalplanen är en del av kommunens flerårsbudget. Det är kommunfullmäktige som beslutar om
 lokalplanen.
+
 Lokalbehoven bereds och omsätts i olika lösningsalternativ. Kommunen ska genom aktiv
 lokalförsörjning tillhandahålla och bibehålla ändamålsenliga och kostnadseffektiva lokaler över
 tiden.
 
 Lokalförsörjningsprocessen
+
 Vi handlägger samtliga lokalbehov enligt den så kallade lokalförsörjningsprocessen som inleds med
 en lokalplaneringsfas. Det gör vi för en enhetlig och tydlig hantering. Handläggningen av
 
-Lokalbehov 2028-2032                                          2
+Lokalbehov 2028-2032 2
 
 <!-- sida 94 -->
 
-Nämnden för Förskola & Grundskola              Kungsbacka kommun
+Nämnden för Förskola & Grundskola Kungsbacka kommun
 
 lokalbehov ska vara gemensam för kommunens samtliga nämnder och vi ska använda processen för
 behov som innebär behov av investeringar i egna lokaler och genom inhyrda lokaler. I
@@ -3251,11 +3306,18 @@ målet med lokalförsörjningen är att nå en god ekonomisk hushållning med lo
 därmed möjligöra frigörelse av resurser till kommunens kärnverksamheter. Det leder i
 förlängningen till ett effektivt lokalutnyttjande och lägre kostnader totalt sett för hela kommunen.
 
+Lokalplanering Genomförande
+
+» EE prsoarne) 2535) mn |
+
+Behovsfas
+
 Innan arbetet med lokalförsörjning börjar tittar man först på vilka behov som finns. Man använder
 till exempel befolkningsprognoser för att se vilket behov som finns. Dessa behov startar sedan
 processen för lokalförsörjning.
 
 Behovsbeskrivning
+
 För att lokalbehoven på bästa sätt ska kunna beredas behöver dessa beskrivas och motiveras för att
 beslutsunderlaget för nämnderna, lokalgruppen och budgetberedningen ska bli så fullständig som
 möjligt. En fullständig behovsbeskrivning gör det möjligt för Lokalgruppen att finna lämplig
@@ -3265,6 +3327,7 @@ Lokalansvariga på förvaltningarna har dialog med kommunens övergripande lokal
 Service lokalförsörjning (kontaktansvariga) om behovsbeskrivningarna innan de går till beslut i
 nämnderna. Skälet är att behovsbeskrivningarna ska bli korrekt ifyllda och att kompletteringar inte
 ska behöva ske efter nämndbeslut.
+
 Nämndens ansvar
 
 Nämnderna beskriver behoven i behovsbeskrivningarna uttryckt i form av volymmått tex antal barn
@@ -3272,6 +3335,7 @@ eller antal boendeplatser eller verksamhetsfunktioner med utgångspunkt i kommun
 beslutade gemensamma befolkningsprognos som finns i Kommunbudget 2027.
 
 Beredning av lokalbehov
+
 Lokalstyrgruppen bearbetar och bedömer kostnader utifrån nyckeltal framtagna av förvaltningen för
 Service med hänsyn till investeringsutgifter och driftskostnader. Vi tar fram lokalplanen utifrån ett
 planerings- och genomförandeperspektiv. Alla lokalbehov prioriteras gemensamt mellan
@@ -3285,24 +3349,25 @@ kommunbudgeten som Kommunfullmäktige årligen fattar beslut om. Kommunens lokal
 stämmer av lösningsalternativen med förvaltningarnas lokalansvariga under budgetprocessen.
 
 Lokalhyra
+
 Nya hyror för lokalinvesteringar samt inhyrda boenden budgeteras centralt. Nämnden erhåller
 ramhöjning för del av hyra när lokalen är klar att tas i bruk. Nämnderna får ramtilldelning
 motsvarande 80 procent av lokalhyran. Resterande 20 procent finansieras inom respektive nämnds
 ram.
 
-Lokalbehov 2028-2032                                          3
+Lokalbehov 2028-2032 3
 
 <!-- sida 95 -->
 
-Nämnden för Förskola & Grundskola              Kungsbacka kommun
+Nämnden för Förskola & Grundskola Kungsbacka kommun
 
-2 Lokalbehov     2028-2032     utblicksår  2033-2037
+2 Lokalbehov 2028-2032 utblicksår 2033-2037
 
-Lokalbehov 2028-2032                                          4
+Lokalbehov 2028-2032 4
 
 <!-- sida 96 -->
 
-Nämnden för Förskola & Grundskola              Kungsbacka kommun
+Nämnden för Förskola & Grundskola Kungsbacka kommun
 
 Anvisning
 
@@ -3311,6 +3376,7 @@ Varje nämnd ska besluta om sina lokalbehov och lämna in behovsbeskrivningar f�
 2033-2037 men för utblicksåren krävs inga behovsbeskrivningar. Anledningen är att det ska
 finnas praktisk möjlighet att förverkliga behovet (tex tid för lokalisering, detaljplan, bygglov och
 byggnation).
+
 Behovsbeskrivning för åren 2028-2032
 
 Nämnden ska beskriva lokalbehoven enligt anvisningarna. Till varje lokalbehov ska nämnden
@@ -3320,19 +3386,22 @@ Kommunbudget /Lokalplan.
 
 Nämnden ska beskriva och motivera varje lokalbehov så att beslutsunderlaget till lokalgruppen
 och budgetberedningen ska bli så fullständig som möjligt:
-  Ange effekter för verksamheten ur relevanta perspektiv; ekonomi, personal och
+
+e Ange effekter för verksamheten ur relevanta perspektiv; ekonomi, personal och
 verksamhetens intressenter.
-  Ange också konsekvenser i de fall lokalbehovet ej kommer kunna lösas i tid eller uteblir.
-  Ange volymmått, som exempelvis antal elever eller boendeplatser, för att lokalbehoven
+
+e Ange också konsekvenser i de fall lokalbehovet ej kommer kunna lösas i tid eller uteblir.
+
+« Ange volymmått, som exempelvis antal elever eller boendeplatser, för att lokalbehoven
 ska kunna kostnadsbedömas.
 
 Innan nämnden tar beslut ska förvaltningen diskutera lokalbehoven med Service lokalförsörjning.
 Behovsbeskrivningarna sparas som pdf och läggs därefter in som bilagor i Stratsys.
-
 Samutnyttja lokaler
-Det är av yttersta vikt att se över om det är möjligt att samutnyttja kommunens
 
+Det är av yttersta vikt att se över om det är möjligt att samutnyttja kommunens
 lokaler/lokalfunktioner.
+
 Verksamhetsanpassningar
 
 Hyresgästrelaterade förändringar bekostas av hyresgästen i form av ökad internhyra. Det kan vara
@@ -3341,6 +3410,7 @@ vill göra. Verksamhetsanpassningar kan vara ett resultat av hyresgästens vilja
 hyresgästens verksamhet från myndigheter, branschorganisationer etc. Även förtida underhåll
 eller standardhöjning av en byggnadsdel som ännu inte är föremål för underhållsåtgärd räknas
 som hyresgästrelaterad förändring.
+
 Större åtgärder finansieras av investeringsmedel. Service Fastighet ombesörjer och bekostar dessa
 samt omvandlar investeringen till ett hyrestillägg.
 
@@ -3349,6 +3419,7 @@ hyresgästen som ett engångsbelopp som belastar driftbudgeten. Enskilda nämnde
 egna medel för lokalinvesteringar.
 
 Lokalgruppens ansvar
+
 Efter det att nämnderna lämnar in sina lokalbehov ansvarar lokalgruppen för att sammanställa
 samtliga nämndernas behov. Därefter tar SE Lokalförsörjning fram kostnadsbedömningar.
 Kostnadsbedömningen omfattar i allmänhet projektledning, byggnation, infrastruktur,
@@ -3356,22 +3427,23 @@ markarbeten samt inredning och utrustning.
 
 Nämndens beslutade lokalplan inklusive bilagor ska lämnas in senast måndagen den 26
 oktober 2026 och skickas till förvaltningen för Service och Kommunstyrelsens förvaltning.
+
 Vid frågor kring behovsbeskrivning kontakta lokalplanerare Christina Wenander.
 
-Vid frågor kring investeringsredovisning kontakta Anna Hamrin.
-Lokalbehov 2028-2032                                          5
+re o . . . . . .
+Y7d frånxar lringa iniractarinaaoradarxriaoninda lrantal+ta A Anna TIlamrin
+VY IU 11USUVL DIS IV COLI IL SUL CUV VIJILLIS INVIILUIALU £ III I IUI III
+
+Lokalbehov 2028-2032 5
 
 <!-- sida 97 -->
 
-Nämnden för Förskola & Grundskola              Kungsbacka kommun
-
-3 Nämndens      lokalbehov
-
+Nämnden för Förskola & Grundskola Kungsbacka kommun
+3 Nämndens lokalbehov
 Anvisning
 
 Nämndens lokalbehov specificeras under den aktuella lokaltypen. Om någon nämnd har någon
 annan lokaltyp än de som syns i rapporten, kan ytterligare lokaltyper väljas genom att
-
 enhetsanpassa rapporten. För support med enhetsanpassningar ta hjälp av lokal
 Stratsyssamordnare i egna förvaltningen.
 
@@ -3400,28 +3472,31 @@ med begränsad nyproduktion och låg omsättning av bostäder kan efterfrågan p
 medan behovet kan vara större i områden med nybyggnation och inflyttning. En långsiktigt hållbar
 lokalförsörjning förutsätter därför att skolornas kapacitet och lokaler kontinuerligt anpassas utifrån
 förändringar i befolkningsutveckling och efterfrågan.
+
 Behovet av skollokaler styrs inte enbart av antalet elever. Lokaler och utemiljöer behöver även ge
 förutsättningar för att bedriva undervisning enligt skollagens och läroplanens krav samt uppfylla
-
 krav som följer av bland annat arbetsmiljölagstiftning och byggregler. Lokalernas kapacitet,
 funktion, tillgänglighet, arbetsmiljö och utemiljö är därför faktorer som behöver beaktas vid
 planering och utveckling av grundskolor.
+
 För att skapa enhetliga och ändamålsenliga utbildningsmiljöer finns ett antal kommunala styrande
 dokument som ligger till grund för planeringen av kommunens utbildningslokaler. Dessa omfattar
 bland annat Koncept för utbildningslokaler 1.6, Koncept för utemiljö, Koncept för kök och matsal,
 Koncept för idrottshallar samt Strategi för försörjning av utbildningsplatser. Under 2025 antog
 nämnden för Förskola & Grundskola även en lokalresursplan som beskriver hur förskolor och
 skolor långsiktigt ska anpassas utifrån den demografiska utvecklingen och som utgör ett underlag
-
 för prioriteringar och beslut inom kommunens lokalförsörjning.
+
 Förvaltningen följer löpande befolkningsprognoser, elevutveckling, efterfrågan på skolplatser och
 planerad bostadsutbyggnad. Detta utgör tillsammans med lagkrav och kommunens styrande
 
-Lokalbehov 2028-2032                                          6
+Lokalbehov 2028-2032 6
 
 <!-- sida 98 -->
 
-Nämnden för Förskola & Grundskola              Kungsbacka kommun
+Nämnden för Förskola & Grundskola
+
+Kungsbacka kommun
 
 principer underlag för att bedöma hur många grundskoleplatser som behövs, var de behöver finnas
 och hur skolorganisationen behöver utvecklas över tid.
@@ -3434,53 +3509,53 @@ Nämndens lokalbehov för grundskolor uttrycks i antal elever. Lokalbehoven avse
 2032\. År 2027 avser redan beslutad lokalplan, året finns med i tabellen som information. Nya
 behov för 2027 kan inte tas upp här.
 
+Löp | Beskrivning Budget | Plan Plan Plan Plan Plan
+nr 2027 2028 2029 2030 2031 2032
+336 | Ölmevallaskolan 500
+350 | Utflytt Åsa Gårdsskolan -300
+338 | Kvarteret Liljan skola 350
+339 | Kvarteret Liljan idrottssal x
+a
+351 | Tingbergsskolan avveckling lokal och flytt -320
+345 | Tingbergsskolan avveckling lokal och flytt -100
+362 | Skolgård skola Skårby 1-4 200
+359 | Anpassad grundskola x
+363 | Anpassad grundskola utökat behov 50
+364 | Åsa omställning åk 4-9 Xx
+Utflytt Björkris skola 1-4 (F-3) till Skårbyskolan -150
+Onsala skolor -300
+Strukturomvandling Fjärås Gällinge skolor x
+
 3.1.2 Utblicksår 2033-2037
+
 Anvisning
 
 Nämndens lokalbehov för grundskolor uttrycks i antalet elever. Lokalbehoven avser utblicksåren
-2033–2037.
 
-Lokalbehov 2028-2032                                          7
+2033-2037.
 
-[Tabell 98-1](handlingar.tabeller/98-1.csv)
+SE Bes Plan 2033 | Plan 2034 | Plan 2035 | Plan 2036 | Plan 2037
+Nybyggnation skola Skårby 1-4 200
+Hede/Tölö skola och x
 
-| Löp<br>nr | Beskrivning | Budget<br>2027 | Plan<br>2028 | Plan<br>2029 | Plan<br>2030 | Plan<br>2031 | Plan<br>2032 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 336 | Ölmevallaskolan |  | 500 |  |  |  |  |
-| 350 | Utflytt Åsa Gårdsskolan |  | -300 |  |  |  |  |
-| 338 | Kvarteret Liljan skola |  | 350 |  |  |  |  |
-| 339<br>a | Kvarteret Liljan idrottssal |  | x |  |  |  |  |
-| 351 | Tingbergsskolan avveckling lokal och flytt |  | -320 |  |  |  |  |
-| 345 | Tingbergsskolan avveckling lokal och flytt |  | -100 |  |  |  |  |
-| 362 | Skolgård skola Skårby 1-4 |  | 200 |  |  |  |  |
-| 359 | Anpassad grundskola | x |  |  |  |  |  |
-| 363 | Anpassad grundskola utökat behov |  | 50 |  |  |  |  |
-| 364 | Åsa omställning åk 4-9 |  |  | x |  |  |  |
-|  | Utflytt Björkris skola 1-4 (F-3) till Skårbyskolan |  | -150 |  |  |  |  |
-|  | Onsala skolor |  |  |  |  | -300 |  |
-|  | Strukturomvandling Fjärås Gällinge skolor |  | x |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
+idrottsfunktion
 
-[Tabell 98-99-2](handlingar.tabeller/98-99-2.csv)
-
-| Löp<br>nr | Beskrivning | Plan 2033 | Plan 2034 | Plan 2035 | Plan 2036 | Plan 2037 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Nybyggnation skola Skårby 1-4 |  |  | 200 |  |  |
-|  | Hede/Tölö skola och<br>idrottsfunktion |  |  |  |  | x |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
+Lokalbehov 2028-2032
 
 <!-- sida 99 -->
 
-Nämnden för Förskola & Grundskola              Kungsbacka kommun
+Nämnden för Förskola & Grundskola Kungsbacka kommun
+
+Löp | Beskrivning
+nr
+
+Plan 2033 Plan 2034 Plan 2035 Plan 2036 Plan 2037
 
 3.2 Utbildningslokaler inriktning förskolor
 
 Anvisning
 
 Här beskriver nämnden behoven av förskolor i syfte att ge läsaren kännedom om vilka principer
-
 och lagkrav som är styrande och påverkar behoven.
 
 Nämnden för Förskola & Grundskola ansvarar för att det finns ett tillräckligt antal förskolor och
@@ -3492,14 +3567,15 @@ fördelning av förskoleplatser som gör det möjligt att möta efterfrågan.
 Planeringen av kommunens förskolor utgår från ett antal grundläggande principer. Förskoleplatser
 ska dimensioneras utifrån efterfrågan, befolkningsutveckling och förändringar i bostadsbeståndet.
 Som planeringsförutsättning används att efterfrågan på förskoleplatser i genomsnitt uppgår till cirka
-85–89 procent av antalet barn i åldrarna 1–5 år. Andelen varierar mellan olika områden beroende på
+85-89 procent av antalet barn i åldrarna 1—5 år. Andelen varierar mellan olika områden beroende på
 bland annat bostadsutveckling och utbudet av fristående verksamheter.
+
 Behovet av förskoleplatser varierar över tid och mellan olika delar av kommunen. I områden med
 begränsad nyproduktion och låg omsättning av bostäder kan efterfrågan minska, medan behovet kan
 vara större i områden med nybyggnation och inflyttning. En långsiktigt hållbar lokalförsörjning
 förutsätter därför att förskolornas kapacitet och lokaler kontinuerligt anpassas utifrån förändringar i
-
 befolkningsutveckling och efterfrågan.
+
 Behovet av förskolelokaler styrs inte enbart av antalet barn och efterfrågan på platser. Lokaler och
 utemiljöer behöver även ge förutsättningar för en ändamålsenlig verksamhet och uppfylla krav som
 följer av bland annat skollagstiftning, arbetsmiljölagstiftning och byggregler. Lokalernas kapacitet,
@@ -3519,126 +3595,112 @@ förskoleplatser och planerad bostadsutbyggnad. Detta utgör tillsammans med lag
 kommunens styrande principer underlag för att bedöma hur många förskoleplatser som behövs, var
 de behöver finnas och hur förskoleorganisationen behöver utvecklas över tid.
 
-Lokalbehov 2028-2032                                          8
+Lokalbehov 2028-2032 8
 
 <!-- sida 100 -->
 
-Nämnden för Förskola & Grundskola              Kungsbacka kommun
+Nämnden för Förskola & Grundskola Kungsbacka kommun
 
 3.2.1 Lokalbehov förskolor
-
 Anvisning
-
 Nämndens lokalbehov för förskolor uttrycks i antal barn. Lokalbehoven avser åren 2028-2032. År
+
 2027 avser redan beslutad lokalplan, året finns med i tabellen som information. Nya behov för
 2027 kan inte tas upp här.
 
-3.2.2 Utblicksår 2033-2037
+Löp | Beskrivning Budget | Plan Plan Plan Plan Plan
+nr 2027 2028 2029 2030 2031 2032
+227 | Gräskärrs förskola 150
+236 Åsa Gårds förskola 150
+348 | Åsa förskola avveckling paviljong -80
+349 | Åsa förskola avveckling paviljong -40
+361 | Förskoleplatser Björkris 90
+Onsala förskolor x x x x x
 
+3.2.2 Utblicksår 2033-2037
 Tabell
+
 Anvisning
 
 Nämndens lokalbehov för förskolor uttrycks i antalet barn. Lokalbehoven avser utblicksåren
-2033–2037.
+2033-2037.
 
-Lokalbehov 2028-2032                                          9
+Löp | Beskrivning
+nr
 
-[Tabell 100-1](handlingar.tabeller/100-1.csv)
+Plan 2033 Plan 2034 Plan 2035 Plan 2036 Plan 2037
 
-| Löp<br>nr | Beskrivning | Budget<br>2027 | Plan<br>2028 | Plan<br>2029 | Plan<br>2030 | Plan<br>2031 | Plan<br>2032 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 227 | Gräskärrs förskola |  |  |  |  | 150 |  |
-| 236<br>b | Åsa Gårds förskola |  |  | 150 |  |  |  |
-| 348 | Åsa förskola avveckling paviljong |  |  | -80 |  |  |  |
-| 349 | Åsa förskola avveckling paviljong |  |  |  | -40 |  |  |
-| 361 | Förskoleplatser Björkris |  |  | 90 |  |  |  |
-|  | Onsala förskolor | x | x | x | x | x |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
+Förskola Hede/Tölö 120
 
-[Tabell 100-2](handlingar.tabeller/100-2.csv)
+Förskola Fjärås (Äppelgårdens
 
-| Löp<br>nr | Beskrivning | Plan 2033 | Plan 2034 | Plan 2035 | Plan 2036 | Plan 2037 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Förskola Hede/Tölö | 120 |  |  |  |  |
-|  | Förskola Fjärås (Äppelgårdens<br>förskola) |  |  |  |  | 120 |
-|  | Förskola Åsa |  |  | 120 |  |  |
-|  | Förskola Frillesås |  |  | 120 |  |  |
-|  | Förskola Anneberg/Älvsåker |  |  |  |  | 120 |
+förskola) 120
+
+Förskola Åsa 120
+
+Förskola Frillesås 120
+
+Förskola Anneberg/Älvsåker 120
+
+Lokalbehov 2028-2032 9
 
 <!-- sida 101 -->
 
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04 www.kungsbacka.se
+32-50-2102
+,0.2
+,0006BUK
 MALL FÖR BEHOVSBESKRIVNING
-För hantering av Lokalbehov inför Lokalplan 2028-2032
-
+För hantering avLokalbehov inför Lokalplan2028-2032
 Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att justeras)
 2026-09-11       Onsala förskolor
-
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
 Anna Flinck              (e-post borttagen)  0300-835318
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
 Anna Flinck              (e-post borttagen)  0300-835318
-
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 I Onsalaområdet finns idag åtta kommunala förskolor, varav tre i Presseområdet, två i Iseråsområdet och
 tre i Fjordområdet. Den samlade kapaciteten överstiger det prognostiserade behovet av kommunala
 förskoleplatser. Samtidigt har flera av förskolebyggnaderna behov av upprustning och modernisering för
 att långsiktigt kunna erbjuda ändamålsenliga utbildningsmiljöer.
-
 De befintliga förskolorna har olika förutsättningar vad gäller storlek, lokalernas ändamålsenlighet,
 byggnadernas tekniska status, utemiljö och möjlighet till framtida utveckling. Två verksamheter bedrivs
 i inhyrda lokaler.
 Förvaltningen för Förskola & Grundskola utreder därför den långsiktiga förskoleorganisationen i Onsala.
 Inriktningen är att anpassa den samlade kapaciteten till det långsiktiga behovet och skapa en långsiktigt
 hållbar förskolestruktur. Beroende på utredningens resultat kan befintliga förskolor behöva byggas om
-
 eller byggas till samtidigt som kapacitet vid andra enheter förändras.
 Planeringen behöver även beakta den pågående utredningen av skolorganisationen i Onsala. En
 förändrad skolorganisation kan frigöra kommunala lokaler eller innebära att lokaler får en förändrad
 användning, vilket kan påverka förutsättningarna för den framtida förskoleorganisationen.
-
 Den fortsatta planeringen genomförs i samarbete med Förvaltningen för Service. Resultatet av
 utredningen och efterföljande beslut om framtida förskoleorganisation utgör en förutsättning för den
 fortsatta planeringen inom detta behov.
-
 VARFÖR BEHÖVER  NÅGOT  GÖRAS, VAD HAR FÖRANLETT BEHOVET?
 Den samlade kapaciteten i Onsalaområdets kommunala förskolor överstiger det långsiktiga behovet.
 Samtidigt har flera av de befintliga förskolebyggnaderna behov av upprustning och modernisering. Det
 finns därför behov av att anpassa förskoleorganisationen och den totala lokalkapaciteten till det framtida
 behovet innan större investeringar genomförs i befintliga förskolor.
-
 En förändrad struktur kan innebära att kapacitet successivt förändras vid vissa enheter samtidigt som
-andra befintliga förskolor utvecklas genom om- eller tillbyggnad. Förskoleplatser kan därmed över tid
+andra befintliga förskolor utvecklas genom om-eller tillbyggnad. Förskoleplatser kan därmed över tid
 omfördelas mellan enheter utifrån det långsiktiga behovet och respektive förskolas förutsättningar.
 När beslut om framtida förskoleorganisation har fattats behöver kvarvarande förskolors lokaler och
-
 utemiljöer utvecklas utifrån respektive byggnads förutsättningar. Åtgärderna behöver säkerställa
 ändamålsenliga utbildningsmiljöer och en långsiktigt hållbar användning av kommunens
 förskolelokaler.
-
-2102
-,0.2
-,0006B
-5 3 0 2 - -
-Kungsbacka kommun
-U    Ekonomi
-K
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04 www.kungsbacka.se
 
 <!-- sida 102 -->
 
 KUNGSBACKA  KOMMUN
 
-2 (4)
+2(4)
 
 Diagrammet visar prognostiserat utfall utifrån befolkningsprognos 2026-2035. Beräkningen utgår från faktiskt barnantal
 våren 2026, då beläggningen i förskolorna är som högst.
@@ -3665,8 +3727,8 @@ lokaler än vad verksamheten långsiktigt bedöms behöva.
 Samtidigt riskerar nödvändiga åtgärder i befintliga förskolor att fördröjas. Befintliga brister i lokaler och
 utbildningsmiljöer kan därmed kvarstå och behovet av underhåll och reinvesteringar öka.
 Utan en långsiktig inriktning finns även risk för att investeringar genomförs i byggnader som senare inte
-
 behövs i förskoleorganisationen.
+
 VAD FÅR NY LOKALFUNKTION FÖR KONSEKVENS  PÅ NUVARANDE  VERKSAMHET?
 
 Konsekvenserna för nuvarande verksamhet är beroende av vilket beslut som fattas om den framtida
@@ -3703,23 +3765,23 @@ sommaren kan förekomma. Utemiljöer kan nyttjas av allmänheten utanför verksa
 SAMBAND
 Behovet har ett direkt samband med:
 
-• Befolkningsutvecklingen och efterfrågan på kommunala förskoleplatser i Onsalaområdet.
+(cid:120) Befolkningsutvecklingen och efterfrågan på kommunala förskoleplatser i Onsalaområdet.
 
-• Kapaciteten och beläggningen i befintliga förskolor.
-• Förskolornas ändamålsenlighet och organisatoriska förutsättningar.
+(cid:120) Kapaciteten och beläggningen i befintliga förskolor.
+(cid:120) Förskolornas ändamålsenlighet och organisatoriska förutsättningar.
 
-• Fastigheternas tekniska status och framtida behov av investeringar och reinvesteringar.
-• Möjligheten att genom om- och tillbyggnad utveckla befintliga förskolor.
+(cid:120) Fastigheternas tekniska status och framtida behov av investeringar och reinvesteringar.
+(cid:120) Möjligheten att genom om- och tillbyggnad utveckla befintliga förskolor.
 
-• Möjligheten att på sikt lämna inhyrda lokaler.
-• Beslut om framtida skolorganisation i Onsala och de förändringar i kommunens samlade
+(cid:120) Möjligheten att på sikt lämna inhyrda lokaler.
+(cid:120) Beslut om framtida skolorganisation i Onsala och de förändringar i kommunens samlade
 lokalanvändning som kan följa av detta.
 
 SAMORDNINGSBEHOV
 Genomförandet behöver samordnas med beslutet om den framtida förskoleorganisationen i Onsala.
 Beslutet behöver ligga till grund för vilka förskolor och fastigheter som ska utvecklas långsiktigt och
-
 vilka investeringar och reinvesteringar som ska prioriteras.
+
 Den fortsatta planeringen behöver därefter samordnas mellan Förvaltningen för Förskola & Grundskola
 och Förvaltningen för Service. Åtgärder vid respektive förskola behöver planeras utifrån
 kapacitetsbehov, verksamhetens behov, byggnadernas tekniska förutsättningar och möjligheten att
@@ -3750,12 +3812,19 @@ KUNGSBACKA  KOMMUN
 
 <!-- sida 105 -->
 
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04 www.kungsbacka.se
+32-50-2102
+,0.2
+,0006BUK
 MALL FÖR BEHOVSBESKRIVNING
-För hantering av Lokalbehov inför Lokalplan 2028-2032
-
+För hantering avLokalbehov inför Lokalplan2028-2032
 Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att justeras)
 2026-09-11       Onsala skolor
-
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
 Anna Flinck              (e-post borttagen)  0300-835318
@@ -3763,7 +3832,6 @@ Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
 Anna Flinck              (e-post borttagen)  0300-835318
 VERKSAMHETSBESKRIVNING   AV NULÄGET
-
 I Onsalaområdet finns idag fyra kommunala grundskolor: tre skolor för årskurs F-6 och en skola för årskurs 7-9.
 Den samlade kapaciteten överstiger det prognostiserade behovet av kommunala grundskoleplatser samtidigt som
 flera av skolbyggnaderna har behov av upprustning och modernisering för att långsiktigt kunna erbjuda
@@ -3775,14 +3843,12 @@ Utredningen har genomförts i samarbete med Förvaltningen för Service och omfa
 kapacitet som befintliga byggnaders förutsättningar och framtida utvecklingsbehov. Resultatet av utredningen och
 efterföljande beslut om framtida skolorganisation utgör en förutsättning för den fortsatta planeringen inom detta
 behov.
-
 VARFÖR BEHÖVER  NÅGOT  GÖRAS, VAD HAR FÖRANLETT BEHOVET?
-
 Den samlade kapaciteten i Onsalaområdets kommunala grundskolor överstiger det långsiktiga behovet. Samtidigt
 har flera av de befintliga skolbyggnaderna behov av upprustning och modernisering. Det finns därför behov av att
 anpassa skolorganisationen och den totala lokalkapaciteten till det framtida elevunderlaget innan större
 investeringar genomförs i befintliga skolor.
-Enligt aktuell befolknings- och elevprognos finns möjlighet att minska den samlade kapaciteten med cirka 300
+Enligt aktuell befolknings-och elevprognos finns möjlighet att minska den samlade kapaciteten med cirka 300
 elevplatser. Inriktningen är en framtida skolorganisation med en samlad kapacitet om cirka 1 500 elevplatser för
 årskurs F-9, blivande 1-10. Detta motsvarar i huvudsak en sexparallellig organisation och ger möjlighet att
 dimensionera lokalerna utifrån det långsiktiga behovet.
@@ -3790,26 +3856,14 @@ När beslut om framtida skolorganisation har fattats behöver kvarvarande skolor
 utifrån respektive byggnads förutsättningar. Åtgärderna behöver säkerställa ändamålsenliga lärmiljöer och en
 långsiktigt hållbar användning av kommunens skollokaler.
 
-2102
-,0.2
-,0006B
-5 3 0 2 - -
-Kungsbacka kommun
-U    Ekonomi
-K
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04 www.kungsbacka.se
-
 <!-- sida 106 -->
 
 KUNGSBACKA  KOMMUN
 
-2 (4)
+2(4)
 
 Diagrammet visar prognostiserat utfall utifrån befolkningsprognos 2026-2035. Beräkningen utgår från faktiskt elevantal våren 2026,
-eftersom faktiskt elevantal för hösten 2026 ännu inte finns tillgängligt för uppdatering i systemstödet.
+eftersom faktiskt elevantal för hösten 2026 ännu inte finns tillgängligt för uppdateringi systemstödet.
 VAD ÄR DEN FÖRVÄNTANDE  NYTTAN?
 En anpassning av skolorganisationen och efterföljande utveckling av kvarvarande skolor skapar förutsättningar
 för att kapaciteten bättre motsvarar det långsiktiga elevunderlaget i Onsala.
@@ -3828,7 +3882,7 @@ bedöms behöva.
 Samtidigt riskerar nödvändiga åtgärder i de skolor som ska användas långsiktigt att fördröjas. Befintliga brister i
 lokaler och lärmiljöer kan därmed kvarstå och behovet av underhåll och reinvesteringar öka.
 
-Utan en långsiktig inriktning finns även risk för att investeringar genomförs i byggnader som senare inte behövs i
+Utanen långsiktig inriktning finns även risk för att investeringar genomförs i byggnader som senare inte behövs i
 skolorganisationen.
 
 VAD FÅR NY LOKALFUNKTION FÖR KONSEKVENS  PÅ NUVARANDE  VERKSAMHET?
@@ -3865,9 +3919,9 @@ idrottshallar och andra gemensamma funktioner, kan även nyttjas utanför skolti
 
 SAMBAND
 Behovet har ett direkt samband med:
-• Beslut om framtida skolorganisation i Onsala
+(cid:120) Beslut om framtida skolorganisation i Onsala
 
-• Beslut om en ny fullstor idrottshall vid Fjordskolan 2029.
+(cid:120) Beslut om en ny fullstor idrottshall vid Fjordskolan 2029.
 
 SAMORDNINGSBEHOV
 Genomförandet behöver samordnas med beslutet om den framtida skolorganisationen i Onsala. Beslutet behöver
@@ -3899,24 +3953,29 @@ KUNGSBACKA  KOMMUN
 
 <!-- sida 109 -->
 
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04 www.kungsbacka.se
+32-50-2102
+,0.2
+,0006BUK
 MALL FÖR BEHOVSBESKRIVNING
-För hantering av Lokalbehov inför Lokalplan 2028-2032
-
+För hantering avLokalbehov inför Lokalplan2028-2032
 Datum            Namn på funktionsbehovet (Max 30 tecken, namnet kan komma att justeras)
 2026-09-11       Strukturomvandling Fjärås Gällinge skolor
-
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
 Anna Flinck              (e-post borttagen)  0300-835318
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
 Anna Flinck              (e-post borttagen)  0300-835318
-
 VERKSAMHETSBESKRIVNING   AV NULÄGET
-Skolorganisationen i Fjärås- och Gällingeområdet består idag av Gällingeskolan och Fjärås
+Skolorganisationen i Fjärås-och Gällingeområdet består idag av Gällingeskolan och Fjärås
 Bräckaskolan, som är organiserade som F-5 skolor, samt Smedingeskolan, som är organiserad som en 6-
 9 skola. Eleverna byter därmed till Smedingeskolan inför årskurs 6.
-
 En utredning har genomförts av förutsättningarna för en förändrad skolorganisation där Gällingeskolan
 och Fjärås Bräckaskolan organiseras som F-6 skolor och Smedingeskolan som en 7-9 skola. I en sådan
 organisation skulle eleverna få sin huvudsakliga undervisning på respektive F-6 skola till och med
@@ -3924,41 +3983,24 @@ organisation skulle eleverna få sin huvudsakliga undervisning på respektive F-
 För att möjliggöra en F-6 organisation på Gällingeskolan behöver nuvarande slöjdsal ställas om till ett
 hemklassrum med tillhörande grupprum och funktioner för bildundervisning. Slöjdundervisningen från
 årskurs 3 behöver då genomföras vid annan skola och för årskurs 6 behöver även delar av
-
 undervisningen i andra ämnen samordnas mellan skolorna.
 På Fjärås Bräckaskolan bedöms årskurs 6, utifrån nuvarande elevprognos, kunna inrymmas inom
 befintliga lokaler. Vid en förändrad organisation skulle Smedingeskolans lokaler fortsatt användas för
 delar av undervisningen i årskurs 6.
-
 VARFÖR BEHÖVER  NÅGOT  GÖRAS, VAD HAR FÖRANLETT BEHOVET?
 En förändrad skolorganisation med två F-6 skolor och en 7-9 skola har utretts. En sådan förändring
-
 innebär att Gällingeskolan behöver kunna inrymma ytterligare en årskurs. Skolan har begränsade
 möjligheter till fysisk utbyggnad och behovet behöver därför lösas genom en förändrad användning av
 befintliga lokaler.
 Nuvarande slöjdsal föreslås byggas om till ett hemklassrum med tillhörande grupprum och funktioner
 för bildundervisning. Åtgärden skulle skapa de lokalmässiga förutsättningarna för att bedriva en F-6
 organisation på Gällingeskolan.
-
-Behovet innebär inte en ökning av det samlade antalet utbildningsplatser i Fjärås- och Gällingeområdet,
+Behovet innebär inte en ökning av det samlade antalet utbildningsplatser i Fjärås-och Gällingeområdet,
 utan en förändrad fördelning av elever och undervisningsfunktioner mellan skolorna.
-
 VAD ÄR DEN FÖRVÄNTANDE  NYTTAN?
 Den förväntade nyttan är att möjliggöra en förändrad skolorganisation där eleverna går kvar på
 Gällingeskolan respektive Fjärås Bräckaskolan till och med årskurs 6 och byter till Smedingeskolan
 inför årskurs 7.
-
-2102
-,0.2
-,0006B
-5 3 0 2 - -
-Kungsbacka kommun
-U    Ekonomi
-K
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04 www.kungsbacka.se
 
 <!-- sida 110 -->
 
@@ -4167,50 +4209,49 @@ huvudmannanivå samt de utvecklingsområden som skolorna har identifierat i samb
 genomförandet av bedömningsstöden.
 Resultaten visar att 92 procent av eleverna nådde minst lägsta godtagbara nivå i läsutveckling och 85
 procent av eleverna i skrivutveckling. I bedömningsstödet i taluppfattning nådde 77 procent av
-
 eleverna minst lägsta godtagbara nivå. Resultaten i läsutveckling är i nivå med föregående år medan
 resultaten i skrivutveckling är något lägre än föregående år (88 %). Resultaten i taluppfattning visar en
-mindre ökning jämfört med 2025 (74 %).
+
+mindre ökning jämfört med 2025(74 %).
 Cirka fyra procent av eleverna genomförde bedömningsstöden för läsutveckling och skrivutveckling
 inom ämnet svenska som andraspråk. För denna elevgrupp är andelen elever som når lägsta godtagbara
 nivå lägre än för elever som genomför bedömningsstöden i svenska, i läsutveckling 71 procent och i
 skrivutveckling 68 procent.
 
 Resultaten visar även skillnader mellan flickor och pojkar. I läsutveckling är andelen pojkar (10 %)
-som inte når lägsta godtagbara nivå högre än andelen flickor (4 %), likaså i skrivutveckling (pojkar
-18 %, flickor 10 %). I taluppfattning är skillnaderna mellan könen det motsatta, fler flickor (26 %) än
-pojkar (20 %) når inte lägsta godtagbara nivå i bedömningsstödet.
-
+som inte når lägsta godtagbara nivå högre än andelen flickor(4 %), likaså i skrivutveckling (pojkar
+18 %, flickor 10 %). I taluppfattning är skillnaderna mellan könen det motsatta, fler flickor(26 %)än
+pojkar (20 %)når inte lägsta godtagbara nivå i bedömningsstödet.
 I skolornas redovisningar återkommer flera gemensamma utvecklingsområden. Inom läsutveckling
-lyfts främst läsförståelse, men också elevernas förmåga att avkoda ord och meningar samt att använda
+lyfts främstläsförståelse, men också elevernas förmåga att avkoda ord och meningar samt att använda
 strategier för att korrigera sin egen läsning. Inom skrivutveckling återkommer främst skrivande av
 meningar med stor bokstav och punkt, att koppla ihop bokstavsljud till rätt bokstav och att skriva med
 
-1 (2)
-FG Myndighet & Stöd                                       Kungsbacka kommun
+1(2)
+FG Myndighet & Stöd                                     Kungsbacka kommun
 434 81 Kungsbacka
 Lars Sundbom
-0300-835240                                                   Besöksadress
-Utvecklare                                               Stadshuset, Storgatan 37
+0300-835240                                                 Besöksadress
+Utvecklare                                             Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
 <!-- sida 116 -->
 
 KUNGSBACKA  KOMMUN
+
 2 (2)
 
 mellanrum mellan orden. Inom taluppfattning lyfts särskilt förståelse för likhetstecknets innebörd men
-
 också att förstå tallinje, att dela upp tal i mindre delar och att göra beräkningar med subtraktion.
 
 Beslutsunderlag
-Förskola & Grundskolas tjänsteskrivelse, Uppföljning bedömningsstöd i matematik, svenska och
 
+Förskola & Grundskolas tjänsteskrivelse, Uppföljning bedömningsstöd i matematik, svenska och
 svenska som andraspråk i årskurs 1, 2026-09-07
 
-Stigert Petterson             Susanne Lyckevall
-Förvaltningschef              Enhetschef Barn- och elevhälsa
+Stigert Petterson            Susanne Lyckevall
+Förvaltningschef             Enhetschef Barn- och elevhälsa
 
 <!-- sida 117 -->
 
@@ -4236,8 +4277,8 @@ Innehåll
 1  Redovisningen innehåll ..................................................................................... 3
 
 2  Läsa, skriva, räkna – en garanti för tidiga stödinsatser ...................................... 3
-3  Vad mäts i bedömningsstöd i åk 1 (25/26)? ...................................................... 4
 
+3  Vad mäts i bedömningsstöd i åk 1 (25/26)? ...................................................... 4
 4  Tidsperiod för genomförande vårterminen 2026 ................................................ 5
 
 5  Resultat bedömningsstöd i åk 1, 2026 .............................................................. 5
@@ -4281,11 +4322,11 @@ Elevers kunskapsutveckling ska följas och främjas systematiskt i förskoleklas
 stöd för en likvärdig bedömning ska nationella material användas. Det är obligatoriskt att
 genomföra:
 
-•  kartläggningsmaterialen Hitta språket och Hitta matematiken på höstterminen i
+(cid:120) kartläggningsmaterialen Hitta språket och Hitta matematiken på höstterminen i
 förskoleklass
 
-•  bedömningsstöden Fånga språket och Fånga matematiken på höst- och vårtermin i åk 1
-•  nationella prov på vårterminen i åk 3
+(cid:120) bedömningsstöden Fånga språket och Fånga matematiken på höst- och vårtermin i åk 1
+(cid:120) nationella prov på vårterminen i åk 3
 
 Bedömningsstöden i åk 1 är reviderade av Skolverket inför läsåret 2026/27. De har då också fått
 beteckningen Fånga språket respektive Fånga matematiken. För vårterminen 2026, som denna
@@ -4384,7 +4425,6 @@ följande.
 1\. 77 procent av eleverna i åk 1 når upp till lägsta godtagbara nivå i taluppfattning
 
 2\. 92 procent av eleverna i åk 1 når upp till lägsta godtagbara nivå i läsutveckling
-
 3\. 85 procent av eleverna i åk 1 når upp till lägsta godtagbara nivå i skrivutveckling
 
 Kungsbacka kommun Rapportering av uppföljning av bedömningsstöd i matematik, 5
@@ -4417,7 +4457,7 @@ Rapportering till nämnd enligt årshjul
 
 5.2 Skillnader mellan elever som läser svenska respektive svenska som
 andraspråk
-Sammanlagt har 778 elever genomfört bedömningsstöd i läsutveckling och skrivutveckling. 31 av
+Sammanlagt har 778 elever genomfört bedömningsstöd iläsutveckling och skrivutveckling. 31 av
 dessa, 4 procent, läser enligt kursplanen för svenska som andraspråk.
 
 1\. 92 procent av eleverna som läser svenska i åk 1 når upp till lägsta godtagbara nivå i
@@ -4433,13 +4473,13 @@ godtagbara nivå i skrivutveckling
 
 6  Identifierade utvecklingsområden    2026
 
-Speciallärare/specialpedagoger som skickat in resultatet till utvecklarna har uppmanats ange vilka
+Speciallärare/specialpedagoger som skickat in resultatet till utvecklarna har uppmanats angevilka
 områden som de har identifierat som utvecklingsområden på gruppnivå. Här nedan anges det
 mest förekommande utvecklingsområdet inom respektive område.
-I läsutveckling har 70 procent av skolorna angett: Eleven visar förståelse för innehållet vid egen
+I läsutveckling har 70 procent av skolorna angett:Eleven visar förståelse för innehållet vid egen
 läsning genom att kommentera och återge något av det lästa.
 
-I skrivutveckling har 82 procent av skolorna angett: Eleven bildar oftast meningar men markerar
+I skrivutveckling har 82 procent av skolorna angett:Eleven bildar oftast meningar men markerar
 dem inte med stor bokstav och punkt mer än sporadiskt.
 
 I taluppfattning har 82 procent av skolorna angett: Elevens förståelse för likhetstecknets betydelse.
@@ -4453,17 +4493,17 @@ Rapportering till nämnd enligt årshjul
 
 7  Resultat bedömningsstöd    i åk 1, vårterminerna  2023-2026
 
-Under fyra läsår, 22/23 till 25/26, har resultatet av bedömningsstöd i årskurs 1 samlats in vilket ger
+Under fyra läsår, 22/23 till 25/26, har resultatet av bedömningsstöd i årskurs 1 samlats invilket ger
 en möjlighet att följa utvecklingen. Här följer en översikt över hur resultatet har sett ut över tid i de
-tre områdena. Observera att nedanstående två diagram visar samma resultat, med skillnaden att
+tre områdena. Observera att nedanståendetvå diagram visar samma resultat, med skillnaden att
 y-axeln har zoomats in i det högra för att synliggöra skillnaderna tydligare.
-Taluppfattning, läsutveckling och skrivutveckling
+Taluppfattning, läsutvecklingoch skrivutveckling
 
-Andel elever i åk 1 som når upp till lägsta godtagbara nivå i taluppfattning
+Andel elever i åk 1 som når upp till lägsta godtagbara nivå italuppfattning
 2023     2024     2025      2026
 89 %     80 %     74 %      77 %
 
-Andel elever i åk 1 som når upp till lägsta godtagbara nivå i läsutveckling
+Andel elever i åk 1 somnår upp till lägsta godtagbara nivå i läsutveckling
 
 2023     2024     2025      2026
 94 %     91 %     92 %      92 %

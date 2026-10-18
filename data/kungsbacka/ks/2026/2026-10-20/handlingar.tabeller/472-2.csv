@@ -1,9 +1,11 @@
-Kapacitet (Ethernet),12 mån,24 mån,>24mån
-Månadsavgift - 10 Mbit/s full-duplex,2 250 kr,1 750 kr,Offert
-Månadsavgift - 100 Mbit/s /s full-duplex,3 250 kr,2 750 kr,Offert
-Månadsavgift - 1 Gbit/s full-duplex,4 250 kr,3 750 kr,Offert
-Månadsavgift – 10 Gbit/s full-duplex,Offert,Offert,Offert
-"Övriga
-kapacitetstjänster/Ethernettjänster/
-Radiolänk",Offert,Offert,Offert
-Redundans 60% månadskostnad,60%,60%,60%
+Områdesnod - Mellan,Antal,Engångsavgift,Månadsavgift
+Dimensionering utrustning/stativplats,12U,5 000 kr,1 750 kr
+"230VAC, 10A A-B kraft",350W,- kr,250 kr
+"UPS 230VAC, 10A, Drifttid minst 2
+timmar",350W,10 000 kr,450 kr
+"Option Extra effektuttag 230VAC, utan
+UPS",350W,- kr,250 kr
+"Option Extra effektuttag UPS 230VAC,
+10A, Drifttid minst 2 timmar",350W,10 000 kr,450 kr
+"Option extra UPS 230VAC, 10A, 2
+timmar (drifttid minst 4 timmar)",350W,10 000 kr,450 kr

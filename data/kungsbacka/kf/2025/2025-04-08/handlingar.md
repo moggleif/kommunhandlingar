@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.2a9cb4ab195dc3282fcd1ee5/1743755587
 sha256: d4a843a6bcb4e66df9caada6776089647990365216420e35945257d03daedc43
 bytes: 39044717
 sidor: 252
-hamtad: 2026-10-12T23:47:46+00:00
-konverterad: 2026-10-12T23:49:32+00:00
-pipeline: kommunhandlingar 0.8.7 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-18T06:24:00+00:00
+konverterad: 2026-10-18T06:25:26+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok]
-tal_obekraftade: [165, 169, 173, 177, 180, 184, 187, 205, 243, 244, 247]
+tal_obekraftade: [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 28, 29, 145, 146, 165, 167, 169, 173, 177, 180, 184, 187, 205, 243, 244, 247]
 figurer: [6, 22, 23, 30, 57, 58, 61, 62, 67, 70, 72, 75, 76, 77, 79, 80, 84, 86, 87, 90, 92, 94, 96, 103, 104, 107, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 123, 128, 130, 222, 223, 230, 243, 244, 251]
 tolkade: []
 ---
@@ -4350,14 +4350,14 @@ förluster från försäljning av tillgångar om försäljningen reserv, enligt 
 
 Balanskravsutredning, miljoner kronor                   2023  2024
 Årets resultat enligt resultaträkningen (fullfondmodellen) 231 286
-Pensionsförpliktelser intjänade före 1998               +22    +25
 
 50 Kungsbacka kommuns årsredovisning 2024
 
 [Tabell 101-1](handlingar.tabeller/101-1.csv)
 
-| Årets resultat enligt blandmodellen | 253 | 311 |
+| Pensionsförpliktelser intjänade före 1998 | +22 | +25 |
 | --- | --- | --- |
+| Årets resultat enligt blandmodellen | 253 | 311 |
 | - Samtliga realisationsvinster | -8 | -1 |
 | + Realisationsvinster enligt undantagsmöjlighet | - |  |
 | + Realisationsförluster enligt undantagsmöjlighet | - |  |
@@ -5264,16 +5264,15 @@ uppräkning         78,4  77,9 78,4  77,9
 har fastställts av kommunfullmäktige. Ingående värde för 2023 års resultat-
 fonder har justerats då angivet värde motsvarade UB istället för IB.. Ändring av försäkrings-
 tekniska grunder
+Övrig post          7,3  16,3  7,3  16,3
+Förändring av särskild löne-
+skatt               4,4  4,9   4,4  4,9
+Summa ansvarsförbindelse för
+pensioner intjänade före 1998
+inklusive särskild löneskatt 1 197,1 1 228,7 1 197,1 1 228,7
+Summa hela pensionsåtagandet 1 946,3 2 202,2 1 946,3 2 202,2
+Aktualiseringsgrad 95%   95%  95%   95%
 Kungsbacka kommuns årsredovisning 2024 65
-
-[Tabell 116-1](handlingar.tabeller/116-1.csv)
-
-| Övrig post | 7,3 | 16,3 | 7,3 | 16,3 |
-| --- | --- | --- | --- | --- |
-| Förändring av särskild löne- skatt | 4,4 | 4,9 | 4,4 | 4,9 |
-| Summa ansvarsförbindelse för pensioner intjänade före 1998 inklusive särskild löneskatt | 1 197,1 | 1 228,7 | 1 197,1 | 1 228,7 |
-| Summa hela pensionsåtagandet | 1 946,3 | 2 202,2 | 1 946,3 | 2 202,2 |
-| Aktualiseringsgrad | 95% | 95% | 95% | 95% |
 
 <!-- sida 117 -->
 
@@ -5612,17 +5611,15 @@ av tabellen justerar vi för interna poster för att kunna härleda beloppen til
 resultaträkningens rad för verksamhetens nettokostnader. Mer om hur de olika finansiella
 rapporterna hänger ihop framgår av särskilt avsnitt. För mer ingående analyser av nämnderna
 hänvisar vi till nämndernas egna årsredovisningar som är tillgängliga på kommunens webbplats.
-Nämnd            Budget        Bokslut 2024          Bokslut 2023
-2024
-Netto-             Netto-                   Netto-
-Belopp i mnkr    anslag Intäkter Kostnader kostnader Avvikelse Intäkter Kostnader kostnader
 
 70 Kungsbacka kommuns årsredovisning 2024
 
 [Tabell 121-1](handlingar.tabeller/121-1.csv)
 
-| Kommunfullmäktige | -4,7 | 0,0 | -4,1 | -4,1 | 0,6 | 0,0 | -5,2 | -5,2 |
+| Nämnd | Budget 2024 | Bokslut 2024 |  |  |  | Bokslut 2023 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Belopp i mnkr | Nettoanslag | Intäkter | Kostnader | Nettokostnader | Avvikelse | Intäkter | Kostnader | Nettokostnader |
+| Kommunfullmäktige | -4,7 | 0,0 | -4,1 | -4,1 | 0,6 | 0,0 | -5,2 | -5,2 |
 | Kommunstyrelsen | -285,3 | 41,7 | -307,4 | -265,7 | 19,6 | 30,0 | -315,7 | -285,7 |
 | Kommunrevision | -3,5 | 0,0 | -3,2 | -3,1 | 0,3 | 0,3 | -3,3 | -3,1 |
 | Valnämnden | -2,0 | 2,5 | -4,1 | -1,6 | 0,3 | 0,0 | -0,3 | -0,3 |
@@ -5749,9 +5746,8 @@ Kungsbacka kommuns årsredovisning 2024 73
 
 [Tabell 124-1](handlingar.tabeller/124-1.csv)
 
-| Nämnd | Investeringar | Budget 2024 | Avvikelse | Avvikelse i |
+| Nämnd (belopp i miljoner kronor) | Investeringar 2024 | Budget 2024 | Avvikelse | Avvikelse i procent |
 | --- | --- | --- | --- | --- |
-| (belopp i miljoner kronor) | 2024 |  |  | procent |
 | Gymnasium & Arbetsmarknad | 4,4 | 4,4 | 0,0 | 0,5% |
 | Kultur & Fritid | 12,1 | 26,2 | 14,0 | 53,7% |
 | Förskola & Grundskola | 13,0 | 15,0 | 2,0 | 13,5% |
@@ -5854,30 +5850,28 @@ befintliga anläggningar och köp av nya kärl. Den positiva
 avvikelsen beror på att vi inte har använt den del av
 budgeten som var avsatt för en återvinningscentral,
 eftersom detaljplanen är överklagad.
-Avfall & Åter- Bokslut Budget Bokslut Avvikelse
 
 Pågående större investeringar
 
 Följande tabell visar några av de pågående projekten i kommunen
 med en beslutad totalbudget över 30 miljoner kronor.
-Projekt            Utfall totalt Budget 2024 Bokslut Avvikelse
-(belopp i mnkr)  tom december          2024     2024
-2024
 
 Kungsbacka kommuns årsredovisning 2024 75
 
 [Tabell 126-1](handlingar.tabeller/126-1.csv)
 
-| vinning (belopp i mnkr) | 2023 | 2024 | 2024 | 2024 |
+| Avfall & Åter- | Bokslut | Budget | Bokslut | Avvikelse |
 | --- | --- | --- | --- | --- |
+| vinning (belopp i mnkr) | 2023 | 2024 | 2024 | 2024 |
 | Inkomster | 0,0 | 0,0 | 0,0 | 0,0 |
 | Utgifter | -2,7 | -37,5 | -2,0 | 35,6 |
 | Netto | -2,7 | -37,5 | -2,0 | 35,6 |
 
 [Tabell 126-2](handlingar.tabeller/126-2.csv)
 
-| VA-sanering Hanhals etapp 1 | -74,8 | -44,3 | -23,9 | 20,4 |
+| Projekt (belopp i mnkr) | Utfall totalt tom december 2024 | Budget 2024 | Bokslut 2024 | Avvikelse 2024 |
 | --- | --- | --- | --- | --- |
+| VA-sanering Hanhals etapp 1 | -74,8 | -44,3 | -23,9 | 20,4 |
 | Framtidens reningsverk | -61,4 | -50,0 | -41,3 | 8,7 |
 | Ölmanäs Reningsverk | -106,0 | -53,3 | -59,3 | -6,0 |
 | VA-utbyggnad Släps-Högås | -4,1 | -2,2 | -0,9 | 1,3 |

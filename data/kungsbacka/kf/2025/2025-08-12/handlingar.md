@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.5a783478198736c426b7442a/1754565408
 sha256: 8ff045dc4fad23d67315275f7076c1a903a10522d59c56a291fa52e52c734449
 bytes: 104446377
 sidor: 314
-hamtad: 2026-10-13T00:10:37+00:00
-konverterad: 2026-10-13T00:14:04+00:00
-pipeline: kommunhandlingar 0.8.7 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-18T06:41:18+00:00
+konverterad: 2026-10-18T06:44:16+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok]
-tal_obekraftade: [20, 24, 28, 32, 38, 43, 48, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 223, 235, 254, 294, 295, 308, 311]
+tal_obekraftade: [20, 24, 28, 32, 38, 43, 48, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 223, 235, 254, 294, 295, 308, 311]
 figurer: [82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 139, 140, 141, 142, 147, 148, 149, 150, 151, 152, 153, 154, 171, 193, 194, 223]
 tolkade: []
 ---
@@ -2733,8 +2733,6 @@ Not 6 Inventarier, verktyg och installationer
 
 Not 7 P#g#ende nyanl"ggningar och f!rskott avseende materiella anl"ggningstillg#ngar
 
-2024-12-31  2023-12-31
-
 Se ven not 1 redovisnings- och v rderingsprinciper. V rdet i balansr kningen p! anl ggningar finansierade
 med offentliga bidrag avr knas l"pande mot erh!llna bidrag och v rdet i balansr kningen r d rf"r 444 tkr !r
 2024\.
@@ -2760,8 +2758,9 @@ Fingerprint: ad47c3a73bbfd3e6c9576324adc038724d7b83323722597b0227e4f991a759154bf
 
 [Tabell 69-2](handlingar.tabeller/69-2.csv)
 
-| Ing!ende anskaffningsv rden | 1 003 | 77 |
+|  | 2024-12-31 | 2023-12-31 |
 | --- | --- | --- |
+| Ing!ende anskaffningsv rden | 1 003 | 77 |
 | Ink"p | 2 995 | 926 |
 | Omklassificeringar | -3 128 | 0 |
 | Utg#ende ackumulerade anskaffningsv"rden | 870 | 1 003 |
@@ -2769,9 +2768,8 @@ Fingerprint: ad47c3a73bbfd3e6c9576324adc038724d7b83323722597b0227e4f991a759154bf
 
 [Tabell 69-3](handlingar.tabeller/69-3.csv)
 
-|  | Stiftelse | Balanserat | rets | Totalt |
+|  | Stiftelse kapital | Balanserat resultat | rets resultat | Totalt |
 | --- | --- | --- | --- | --- |
-|  | kapital | resultat | resultat |  |
 | Belopp vid |  |  |  |  |
 | r kenskaps!rets b"rjan | 10 500 | 1 308 | 25 390 | 37 198 |
 | &verf"ring av f"reg!ende !rs resultat |  | 25 390 | -25 390 | 0 |
@@ -2784,10 +2782,6 @@ Stiftelsen Tjol"holm                                         9 (10)
 Org.nr 849400-4578
 
 Not 9 Mottagna ej anv"nda bidrag
-Varav avr knat
-Offentliga mot p!g!ende
-fastighetsbidra nyanl ggninga
-g        r &vriga bidrag Summa
 
 Den dag som framg!r av min elektroniska underskrift
 
@@ -2812,8 +2806,9 @@ Fingerprint: ad47c3a73bbfd3e6c9576324adc038724d7b83323722597b0227e4f991a759154bf
 
 [Tabell 70-1](handlingar.tabeller/70-1.csv)
 
-| Vid !rets b"rjan | 8 221 | -559 | 0 | 7 662 |
+|  | Offentliga fastighetsbidra g | Varav avr knat mot p!g!ende nyanl ggninga r | &vriga bidrag | Summa |
 | --- | --- | --- | --- | --- |
+| Vid !rets b"rjan | 8 221 | -559 | 0 | 7 662 |
 | Under !ret erh!llna bidrag | 5 799 |  |  | 5 799 |
 | Bidrag som redovisas som avg!ende post fr!n anskaffningsv rdet p! anl ggningstillg!ngar |  | 559 |  | 559 |
 | Bidrag avr knade i resultatr kningen | -8 630 |  |  | -8 630 |

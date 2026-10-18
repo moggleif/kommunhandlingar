@@ -1,0 +1,16 @@
+Material,"𝝉 [kPa]
+𝒇𝒖𝒌","∅′ [°]
+𝒌",𝒄′[kPa],𝛄[kN/m3]
+Fyllning,-,36,"0,1𝒄
+𝒖",19
+Torrskorpelera,20,30,"0,1𝒄
+𝒖",18
+Lera 1,"10+1,2*z där z=0
+vid nivå 0",30,"0,1𝒄
+𝒖",16
+Gyttja,"16+1,2*z där z=0
+vid nivå -5",30,"0,1𝒄
+𝒖",14
+Lera 2,"16 + 1,2*z där z=
+0 vid nivå -10",30,"0,1𝒄
+𝒖",16
