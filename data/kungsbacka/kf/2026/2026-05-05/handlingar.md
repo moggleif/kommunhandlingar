@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2aa120519d9a515cfbe7ad0/17774703310
 sha256: 610d70688db761a36c6d618d46f852220323e285394af4a208c7a772a5c89254
 bytes: 14442892
 sidor: 332
-hamtad: 2026-10-13T00:36:36+00:00
-konverterad: 2026-10-13T00:37:49+00:00
-pipeline: kommunhandlingar 0.8.7 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-18T07:01:44+00:00
+konverterad: 2026-10-18T07:02:39+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1656,9 +1656,6 @@ KUNGSBACKA  KOMMUN
 
 Resultatfonder
 
-Nämnd/Styrelse Belopp i UB 2025 Bokslut Nämndens Förslag Förslag IB 2026
-tusentals kronor         2025     begäran
-
 Nämndernas inlämnade förslag innebär en ökning av resultatfonderna med 66 059 000 kronor. Efter
 genomgång föreslås ökningen bli 88 162 000 kronor. Nämndernas ingående resultatfonder 2025 uppgår
 till 507 399 000 kronor. Efter förslag till resultathantering uppgår nämndernas totala resultatfonder
@@ -1669,13 +1666,11 @@ I samband med bokslutet för 2025 finns pågående projekt som fortsätter 2026.
 omfördela dessa från anslaget för oförutsett, som finns avsatt med olika belopp hos kommunstyrelsen
 och kommunfullmäktige.
 
-Belopp i tusentals Nämndernas Förslag till
-kronor               begäran kommunfullmäktige
-
 [Tabell 48-1](handlingar.tabeller/48-1.csv)
 
-| Kommunfullmäktige | 0 | 207 | 0 | 0 | 0 |
+| Nämnd/Styrelse Belopp i tusentals kronor | UB 2025 | Bokslut 2025 | Nämndens begäran | Förslag | Förslag IB 2026 |
 | --- | --- | --- | --- | --- | --- |
+| Kommunfullmäktige | 0 | 207 | 0 | 0 | 0 |
 | Kommunstyrelsen | 0 | 16 523 | 0 | 0 | 0 |
 | Kommunrevision | 0 | 294 | 0 | 0 | 0 |
 | Valnämnden | 0 | 41 | 0 | 0 | 0 |
@@ -1695,8 +1690,9 @@ kronor               begäran kommunfullmäktige
 
 [Tabell 48-2](handlingar.tabeller/48-2.csv)
 
-| Service | 48 847 | 18 357 |
+| Belopp i tusentals kronor | Nämndernas begäran | Förslag till kommunfullmäktige |
 | --- | --- | --- |
+| Service | 48 847 | 18 357 |
 | Kultur & Fritid | 640 | 0 |
 | KS lokalplan | 1 260 | 1 260 |
 | Summa | 50 747 | 19 617 |

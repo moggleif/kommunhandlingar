@@ -5,21 +5,21 @@ datum: 2026-10-20
 lopnr: null
 typ: handlingar
 namn: null
-kallnyckel: sitevision:18.19326c8b1a1302ccbfb578fc
-tidigare_kallnycklar: []
+kallnyckel: sitevision:18.4ad251561a1303bcbb575398
+tidigare_kallnycklar: [sitevision:18.19326c8b1a1302ccbfb578fc]
 arenden: null
-kalla_url: https://kungsbacka.se/download/18.19326c8b1a1302ccbfb578fc/1792042855971/Kommunstyrelsen%20handlingar%202026-10-20.pdf
-sha256: 5d3f36fee105890b31d257bc9753a77240cac8519b52414229659ede66d34be6
-bytes: 149385975
-sidor: 833
-hamtad: 2026-10-15T06:00:08+00:00
-konverterad: 2026-10-15T06:09:56+00:00
+kalla_url: https://kungsbacka.se/download/18.4ad251561a1303bcbb575398/1792151996991/Kommunstyrelsen%20handlingar%202026-10-20.pdf
+sha256: ede5123a5476f407acb02963ccf65b0a5a711894fb1dada0f18ff25724218f85
+bytes: 149961031
+sidor: 845
+hamtad: 2026-10-18T06:09:27+00:00
+konverterad: 2026-10-18T06:16:32+00:00
 pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ocr, ocr, tom, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ocr, tom, tom, tom, tom, tom, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [56, 83, 84, 85, 86, 87, 88, 89, 92, 93, 94, 95, 96, 97, 98, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 179, 180, 181, 182, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 228, 229, 230, 231, 232, 233, 234, 236, 237, 245, 246, 247, 248, 249, 251, 252, 262, 263, 264, 265, 266, 330, 331, 432, 433, 434, 435, 693, 696, 697, 801]
-figurer: [17, 19, 20, 22, 23, 24, 27, 28, 32, 33, 38, 39, 41, 42, 43, 83, 84, 85, 86, 87, 88, 89, 92, 93, 94, 95, 96, 97, 98, 132, 170, 171, 189, 190, 191, 192, 193, 194, 195, 197, 198, 199, 200, 202, 211, 220, 221, 222, 223, 224, 226, 232, 235, 236, 237, 244, 245, 246, 247, 248, 249, 251, 252, 253, 260, 262, 263, 264, 265, 267, 268, 270, 330, 331, 401, 426, 427, 428, 432, 433, 434, 435, 449, 454, 457, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 632, 659, 663, 665, 667, 669, 670, 674, 675, 676, 677, 678, 679, 680, 684, 689, 693, 696, 697, 699, 703, 706, 707, 708, 710, 711, 712, 713, 722, 800, 801]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ocr, ocr, tom, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ocr, tom, tom, tom, tom, tom, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+tal_obekraftade: [56, 83, 84, 85, 86, 87, 88, 89, 92, 93, 94, 95, 96, 97, 98, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 179, 180, 181, 182, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 228, 229, 230, 231, 232, 233, 234, 236, 237, 245, 246, 247, 248, 249, 251, 252, 262, 263, 264, 265, 266, 338, 339, 444, 445, 446, 447, 705, 708, 709, 813]
+figurer: [17, 19, 20, 22, 23, 24, 27, 28, 32, 33, 38, 39, 41, 42, 43, 83, 84, 85, 86, 87, 88, 89, 92, 93, 94, 95, 96, 97, 98, 132, 170, 171, 189, 190, 191, 192, 193, 194, 195, 197, 198, 199, 200, 202, 211, 220, 221, 222, 223, 224, 226, 232, 235, 236, 237, 244, 245, 246, 247, 248, 249, 251, 252, 253, 260, 262, 263, 264, 265, 267, 268, 270, 338, 339, 413, 438, 439, 440, 444, 445, 446, 447, 461, 466, 469, 632, 633, 634, 635, 636, 637, 638, 639, 640, 641, 642, 643, 644, 671, 675, 677, 679, 681, 682, 686, 687, 688, 689, 690, 691, 692, 696, 701, 705, 708, 709, 711, 715, 718, 719, 720, 722, 723, 724, 725, 734, 812, 813]
 tolkade: []
 ---
 
@@ -11904,6 +11904,84 @@ Kungsbacka kommun
 
 <!-- sida 282 -->
 
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
+Kommunstyrelsens arbetsutskott
+Datum
+2026-10-13
+
+§ 311                      Dnr KS-2026-00522
+Svar på Klimat- och näringslivsdepartementets remiss av "Vägen mot
+utfasning – Styrmedel för ett fossilfritt samhälle"
+
+Förslag till beslut i kommunstyrelsen
+Kommunstyrelsen antar yttrande, daterat 2026-09-19, inklusive följande tillägg
+under rubriken ”Drivmedelsskatter”:
+
+Kungsbacka kommun avstyrker utredningens förslag om höjd energiskatt på bensin
+och diesel. Förslaget riskerar att öka kostnaderna för hushåll, företag och kommunala
+verksamheter. I en kommun med omfattande arbetspendling och stora
+landsbygdsområden är bilen fortsatt en nödvändighet för många. Klimat-
+omställningen behöver ske genom kostnadseffektiva styrmedel som underlättar
+omställningen utan att ytterligare fördyra vardagen för invånare och företag.
+Yttrandet översänds till Klimat- och näringslivsdepartementet.
+
+Sammanfattning av ärendet
+Klimat- och näringslivsdepartementet har skickat betänkandet Vägen mot utfasning –
+Styrmedel för ett fossilfritt samhälle på remiss till Kungsbacka kommun.
+
+Betänkandet innehåller förslag till styrmedel för att successivt fasa ut fossila
+bränslen, med särskilt fokus på vägtransporter och arbetsmaskiner. Förslagen
+omfattar bland annat skärpt reduktionsplikt och höjd drivmedelsskatt, åtgärder för
+ökad elektrifiering, fortsatta klimatpremier för tunga fordon och arbetsmaskiner samt
+förändrade regler för miljözoner. Betänkandet innehåller även förslag om trygg
+drivmedelsförsörjning och åtgärder för att öka acceptansen för omställningen.
+
+Beslutsunderlag
+Kommunstyrelsens förvaltnings tjänsteskrivelse, 2026-09-21
+Förslag till yttrande, 2026-09-19
+Nämnden för Service, 2026-09-15, § 76
+Nämnden för Service yttrande, 2026-08-10
+Betänkandet Vägen till utfasning – Styrmedel för ett fossilfritt samhälle (SOU
+2026:33)
+
+Förslag till beslut på sammanträdet
+Lisa Andersson (M), Fredrik Kollberg (KD), Emanuel Forsell (M), Stefan Jägnert
+
+(SD) yrkar på följande tillägg till yttrandet under rubriken ”Drivmedelsskatter”:
+Kungsbacka kommun avstyrker utredningens förslag om höjd energiskatt på bensin
+och diesel. Förslaget riskerar att öka kostnaderna för hushåll, företag och kommunala
+verksamheter. I en kommun med omfattande arbetspendling och stora
+landsbygdsområden är bilen fortsatt en nödvändighet för många. Klimat-
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: 51BE220D4D62016F82ECAB247994A373144C8AE0EA
+Transaktionsidentitet: D943E854D44EB26D8FD0434BD3813F5F34161D2B0C
+
+<!-- sida 283 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (2)
+Kommunstyrelsens arbetsutskott
+Datum
+2026-10-13
+
+omställningen behöver ske genom kostnadseffektiva styrmedel som underlättar
+omställningen utan att ytterligare fördyra vardagen för invånare och företag.
+
+Beslutsgång
+
+Ordförande Lisa Andersson (M) finner att det finns ett förslag till beslut, det vill säga
+kommunstyrelsens förvaltnings förslag, och att kommunstyrelsens arbetsutskott
+bifaller det.
+Därefter frågar ordförande om Lisa Anderssons m.fl. tilläggsyrkande kan antas och
+
+finner att så sker.
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: 51BE220D4D62016F82ECAB247994A373144C8AE0EA
+Transaktionsidentitet: D943E854D44EB26D8FD0434BD3813F5F34161D2B0C
+
+<!-- sida 284 -->
+
 TJÄNSTESKRIVELSE
 
 Datum
@@ -11956,7 +12034,7 @@ Samhällsplanerare                                        Stadshuset, Storgatan 
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 283 -->
+<!-- sida 285 -->
 
 KUNGSBACKA  KOMMUN
 2 (2)
@@ -11980,7 +12058,7 @@ Rickard Vidlund                    Lovisa Eld
 
 Kommundirektör                     Samhällsbyggnadschef
 
-<!-- sida 284 -->
+<!-- sida 286 -->
 
 YTTRANDE
 Kommunstyrelsen
@@ -12037,7 +12115,7 @@ Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 285 -->
+<!-- sida 287 -->
 
 KUNGSBACKA  KOMMUN
 2 (3)
@@ -12087,7 +12165,7 @@ Kommunens egen omställning och försörjningsberedskap
 Kungsbacka kommun ser positivt på inriktningen mot ökad elektrifiering av fordon och arbetsmaskiner
 samt fortsatt användning av förnybara drivmedel under omställningen. För kommunens egen
 
-<!-- sida 286 -->
+<!-- sida 288 -->
 
 KUNGSBACKA  KOMMUN
 3 (3)
@@ -12111,7 +12189,7 @@ inte är tekniskt eller beredskapsmässigt möjlig behöver det finnas ändamål
 
 Kungsbacka kommun
 
-<!-- sida 287 -->
+<!-- sida 289 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
 Nämnden för Service
@@ -12166,7 +12244,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: F5E2A8F74F943B19EB18672E72A98F2E36C1503008
 Transaktionsidentitet: 337FAA176BE592630091608B32F6F9B07F0439C0D7
 
-<!-- sida 288 -->
+<!-- sida 290 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (2)
 Nämnden för Service
@@ -12184,7 +12262,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: F5E2A8F74F943B19EB18672E72A98F2E36C1503008
 Transaktionsidentitet: 337FAA176BE592630091608B32F6F9B07F0439C0D7
 
-<!-- sida 289 -->
+<!-- sida 291 -->
 
 YTTRANDE
 Nämnden för Service
@@ -12240,7 +12318,7 @@ Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 290 -->
+<!-- sida 292 -->
 
 KUNGSBACKA  KOMMUN
 2 (2)
@@ -12277,7 +12355,86 @@ lagringskapacitet, alternativa drivmedel och leveransmöjligheter under störda
 förhållanden. Reservkraftslösningarna bör så långt som möjligt utformas så att
 beroendet av en enskild försörjningskedja minskar.
 
-<!-- sida 291 -->
+<!-- sida 293 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
+Kommunstyrelsens arbetsutskott
+Datum
+2026-10-13
+
+§ 312                      Dnr KS-2026-00500
+Svar på Socialdepartementets remiss av utredningen Behovsstyrd vård
+(SOU 2026:38)
+
+Förslag till beslut i kommunstyrelsen
+Kommunstyrelsen antar yttrande daterat 2026-09-21 och översänder det som sitt svar
+till Socialdepartementet.
+
+Sammanfattning av ärendet
+Kungsbacka kommun har fått möjlighet att lämna synpunkter på Social-
+departementets utredning av Behovsstyrd vård.
+
+Utredningen innehåller förslag som syftar till att utveckla den nationella vårdgarantin
+och stärka kontinuiteten inom den specialiserade hälso- och sjukvården. Utredningen
+föreslår bland annat kortare tidsgränser och att fler delar av vårdprocessen ska
+omfattas av vårdgarantin.
+Dagens besöksgaranti inom den specialiserade vården föreslås ersättas med en
+
+garanti om medicinsk bedömning. En patient ska få en medicinsk bedömning inom
+30 dagar och beslutad planerad vård inom 60 dagar. Vårdgarantin föreslås även
+omfatta fler åtgärder, exempelvis undersökningar, utredande åtgärder och vissa
+återbesök. För remisser föreslås en tidsfrist för hantering samt en informationsgaranti
+som innebär att patienten ska få information om remissen och om när en medicinsk
+bedömning kan förväntas.
+För barn- och ungdomspsykiatrin (BUP) föreslås en särskild lagstadgad vårdgaranti.
+
+Den innebär 30 dagar till medicinsk bedömning och därefter 30 dagar till beslutad
+planerad vård.
+Utredningen föreslår också att regionernas ansvar för att planera och organisera
+vården så att vårdgarantin kan uppfyllas förtydligas. Socialstyrelsen föreslås få en
+central roll i den nationella uppföljningen av vårdgarantin, och Inspektionen för vård
+och omsorg (IVO) föreslås få utökade möjligheter att ingripa när vissa skyldigheter
+
+kopplade till vårdgarantin inte följs.
+För att stärka kontinuiteten inom den specialiserade vården föreslås att patientens
+behov och önskemål ska beaktas vid valet av fast vårdkontakt.
+
+Betänkandet behandlar därutöver patienters möjligheter att välja utförare av sluten
+vård, formerna för digital vård samt nationella principer för ersättningar och
+patientavgifter.
+
+Beslutsunderlag
+
+Kommunstyrelsens förvaltnings tjänsteskrivelse, 2026-09-21
+Yttrande, 2026-09-21
+Nämnden för Vård & Omsorg, 2026-09-17, § 140
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: 51BE220D4D62016F82ECAB247994A373144C8AE0EA
+Transaktionsidentitet: D943E854D44EB26D8FD0434BD3813F5F34161D2B0C
+
+<!-- sida 294 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (2)
+Kommunstyrelsens arbetsutskott
+Datum
+2026-10-13
+
+Nämnden för Vård & Omsorgs yttrande, 2026-08-11
+Förvaltningen för Vård & Omsorgs tjänsteskrivelse, 2026-08-10
+Utredningen Behovsstyrd vård SOU 2026:38
+
+Beslutsgång
+
+Ordförande Lisa Andersson (M) finner att det finns ett förslag till beslut, det vill säga
+kommunstyrelsens förvaltnings förslag, och att kommunstyrelsens arbetsutskott
+bifaller det.
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: 51BE220D4D62016F82ECAB247994A373144C8AE0EA
+Transaktionsidentitet: D943E854D44EB26D8FD0434BD3813F5F34161D2B0C
+
+<!-- sida 295 -->
 
 TJÄNSTESKRIVELSE
 
@@ -12329,7 +12486,7 @@ Utredare                                                 Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 292 -->
+<!-- sida 296 -->
 
 KUNGSBACKA  KOMMUN
 2 (5)
@@ -12374,7 +12531,7 @@ Nämnden vill även uppmärksamma att ökad patientrörlighet mellan regioner ka
 informationsöverföring och samordning mellan vårdgivare och huvudmän för att säkerställa en
 sammanhållen och patientsäker vård.
 
-<!-- sida 293 -->
+<!-- sida 297 -->
 
 KUNGSBACKA  KOMMUN
 3 (5)
@@ -12424,7 +12581,7 @@ Utredningen lämnar dock inga nya konkreta förslag om hur tillgången till exem
 sjuksköterskor och psykologer ska öka, utan hänvisar huvudsakligen till redan pågående initiativ och
 arbeten inom området.
 
-<!-- sida 294 -->
+<!-- sida 298 -->
 
 KUNGSBACKA  KOMMUN
 4 (5)
@@ -12472,7 +12629,7 @@ effektiviseringar. Utredningen föreslår därför inte någon permanent ekonomi
 regionerna med anledning av förslagen. Däremot föreslås en tillfällig finansiering för införandet under
 perioden 2027-2029.
 
-<!-- sida 295 -->
+<!-- sida 299 -->
 
 KUNGSBACKA  KOMMUN
 5 (5)
@@ -12504,7 +12661,7 @@ semesterperioder.
 Rickard Vidlund               Anders Johansson
 Kommundirektör                Biträdande kommundirektör
 
-<!-- sida 296 -->
+<!-- sida 300 -->
 
 YTTRANDE
 Kommunstyrelsen
@@ -12559,7 +12716,7 @@ Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 297 -->
+<!-- sida 301 -->
 
 KUNGSBACKA  KOMMUN
 2 (3)
@@ -12609,7 +12766,7 @@ personer som samtidigt får kommunala vård- och omsorgsinsatser.
 När det gäller distanskontakter vill Kungsbacka kommun särskilt uppmärksamma situationen för
 personer som behöver stöd från kommunal vård och omsorg för att kunna genomföra en digital
 
-<!-- sida 298 -->
+<!-- sida 302 -->
 
 KUNGSBACKA  KOMMUN
 3 (3)
@@ -12633,7 +12790,7 @@ kommuner och regioner behöver beaktas tydligare i den fortsatta beredningen av 
 
 Kungsbacka kommun
 
-<!-- sida 299 -->
+<!-- sida 303 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
 Nämnden för Vård & Omsorg
@@ -12688,7 +12845,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: F03586A101947D6FDD2D9F857CD5F06547A4B6E920
 Transaktionsidentitet: 57F3DDF65927AF7DE114B2AEFC0F5BCD992A1BF974
 
-<!-- sida 300 -->
+<!-- sida 304 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (2)
 Nämnden för Vård & Omsorg
@@ -12707,7 +12864,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: F03586A101947D6FDD2D9F857CD5F06547A4B6E920
 Transaktionsidentitet: 57F3DDF65927AF7DE114B2AEFC0F5BCD992A1BF974
 
-<!-- sida 301 -->
+<!-- sida 305 -->
 
 YTTRANDE
 Nämnden för Vård & Omsorg
@@ -12758,7 +12915,7 @@ Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 302 -->
+<!-- sida 306 -->
 
 KUNGSBACKA  KOMMUN
 2 (5)
@@ -12800,7 +12957,7 @@ snabbare vårdförlopp och mindre stress och oro för patient. I förlängningen
 av akutvård, oplanerad slutenvård och onödiga undersökningar minska. Detta bedöms kunna ha en
 indirekt positiv effekt för kommunal hälso- och sjukvård.
 
-<!-- sida 303 -->
+<!-- sida 307 -->
 
 KUNGSBACKA  KOMMUN
 3 (5)
@@ -12837,7 +12994,7 @@ uppdrag att följa upp efterlevnaden av den nya vårdgarantin via patientregistr
 Omsorg anser att det är positivt att en utomstående part har det övergripande uppföljningsansvaret och
 att uppföljningen integreras i ett redan etablerat register.
 
-<!-- sida 304 -->
+<!-- sida 308 -->
 
 KUNGSBACKA  KOMMUN
 4 (5)
@@ -12875,7 +13032,7 @@ och omsorgsanalys i uppdrag att följa upp hur befolkningens tillgång till fast
 specialiserade vården ser ut då det är av vikt att patientperspektivet belyses kopplat till förslagna
 förändringar.
 
-<!-- sida 305 -->
+<!-- sida 309 -->
 
 KUNGSBACKA  KOMMUN
 5 (5)
@@ -12905,7 +13062,7 @@ förutsättningar inom kommunal verksamhet. Nämnden bedömer därför att ansva
 huvudmän, tekniska lösningar samt frågor om informationssäkerhet och dataskydd behöver tydliggöras
 i det fortsatta arbetet.
 
-<!-- sida 306 -->
+<!-- sida 310 -->
 
 TJÄNSTESKRIVELSE
 
@@ -12955,7 +13112,7 @@ Utvecklingsledare                                        Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 307 -->
+<!-- sida 311 -->
 
 KUNGSBACKA  KOMMUN
 2 (2)
@@ -12975,7 +13132,89 @@ Kommunstyrelsen
 Arian Faily                        Marie Christiansson
 Förvaltningschef                   Enhetschef Ledning & Styrning
 
-<!-- sida 308 -->
+<!-- sida 312 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
+Kommunstyrelsens arbetsutskott
+Datum
+2026-10-13
+
+§ 313                      Dnr KS-2026-00511
+Svar på Justitiedepartementets remiss av nya nätbrott och andra
+åtgärder för genomförandet av direktivet om bekämpning av våld mot
+kvinnor och våld i nära relationer
+
+Förslag till beslut i kommunstyrelsen
+Kommunstyrelsen antar yttrande daterat 2026-09-18 och översänder det som sitt svar
+till Justitiedepartementet.
+
+Sammanfattning av ärendet
+Kungsbacka kommun har fått möjlighet att lämna synpunkter på utredningen Nya
+nätbrott och andra åtgärder för genomförandet av direktivet om bekämpning av våld
+mot kvinnor och våld i nära relationer (SOU 2026:34).
+
+Utredningen har haft i uppdrag att analysera införande av och komma med förslag på
+hur EU:s direktiv om bekämpning av våld mot kvinnor och våld i nära relationer kan
+införlivas i svensk lagstiftning. Direktivet trädde i kraft i juni 2024 och ska vara
+genomfört i nationell lagstiftning senast den 14 juni 2027.
+
+Syftet med utredningen har varit att bedöma vilka förändringar som krävs för att
+Sverige ska uppfylla kraven i direktivet och tagit fram de lagförslag och andra
+åtgärder som bedömts nödvändiga för att genomföra direktivet. Bedömningen är att
+Sverige redan i stor utsträckning lever upp till direktivets krav. Där det har
+identifierats brister föreslås ändringar i lag eller andra åtgärder.
+Förslagen innebär bland annat ett förstärkt straffrättsligt skydd genom nya och
+
+utvidgade brott, särskilt avseende våld och kränkningar i digitala miljöer. Nya brott
+föreslås för bland annat olaga övervakning, nättrakasserier, olaga
+identitetsexponering och könsbaserat näthat. Straffansvaret föreslås även utvidgas
+när det gäller bland annat spridning av falskt eller manipulerat intimt material och
+kvinnlig könsstympning.
+Utredningen föreslår även en ny lag som ska göra det möjligt att förelägga
+leverantörer av digitala tjänster att avlägsna eller göra visst brottsligt innehåll på
+
+internet oåtkomligt. Därutöver lämnas förslag som rör skydd och stöd till brottsoffer,
+förebyggande och kunskapshöjande arbete samt datainsamling och
+myndighetssamverkan. Utredningen föreslår också att ett nytt brott, grov olaga
+förföljelse, införs och att regleringen av olaga förföljelse utvidgas.
+
+Beslutsunderlag
+
+Kommunstyrelsens förvaltnings tjänsteskrivelse, 2029-09-18
+Yttrande, 2026-09-18
+Nämnden för Individ & Familjeomsorg, 2026-09-17, § 98
+Nämnden för Individ & Familjeomsorgs yttrande, 2026-08-19
+Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2026-08-19
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: 51BE220D4D62016F82ECAB247994A373144C8AE0EA
+Transaktionsidentitet: D943E854D44EB26D8FD0434BD3813F5F34161D2B0C
+
+<!-- sida 313 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (2)
+Kommunstyrelsens arbetsutskott
+Datum
+2026-10-13
+
+Nämnden för Kultur & Fritid, 2026-08-26, § 91
+Nämnden för Kultur & Fritids yttrande, 2026-08-11
+Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2026-08-11
+Nya nätbrott och andra åtgärder för genomförandet av direktivet om bekämpning av
+våld mot kvinnor och våld i nära relationer, SOU 2026:34 (volym 1)
+Nya nätbrott och andra åtgärder för genomförandet av direktivet om bekämpning av
+våld mot kvinnor och våld i nära relationer, SOU 2026:34 (volym 2)
+
+Beslutsgång
+Ordförande Lisa Andersson (M) finner att det finns ett förslag till beslut, det vill säga
+kommunstyrelsens förvaltnings förslag, och att kommunstyrelsens arbetsutskott
+bifaller det.
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: 51BE220D4D62016F82ECAB247994A373144C8AE0EA
+Transaktionsidentitet: D943E854D44EB26D8FD0434BD3813F5F34161D2B0C
+
+<!-- sida 314 -->
 
 TJÄNSTESKRIVELSE
 
@@ -13029,7 +13268,7 @@ Utredare                                                 Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 309 -->
+<!-- sida 315 -->
 
 KUNGSBACKA  KOMMUN
 2 (3)
@@ -13079,7 +13318,7 @@ Bland annat föreslås en ny lag som gör det möjligt att kräva att visst brot
 avlägsnas eller görs oåtkomligt. Förslagen omfattar även förbättrad information till brottsoffer och
 förstärkta skyddsåtgärder.
 
-<!-- sida 310 -->
+<!-- sida 316 -->
 
 KUNGSBACKA  KOMMUN
 3 (3)
@@ -13111,7 +13350,7 @@ Kommunstyrelsens förvaltning delar nämndernas bedömning och har inget övrigt
 Rickard Vidlund               Lovisa Eld
 Kommundirektör                Samhällsbyggnadschef
 
-<!-- sida 311 -->
+<!-- sida 317 -->
 
 YTTRANDE
 Kommunstyrelsen
@@ -13159,7 +13398,7 @@ Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 312 -->
+<!-- sida 318 -->
 
 YTTRANDE
 Nämnden för Individ & Familjeomsorg
@@ -13187,7 +13426,7 @@ Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 313 -->
+<!-- sida 319 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
 Nämnden för Individ & Familjeomsorg
@@ -13245,7 +13484,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: BEB98E72DBBE3564A0EE9861935381C7D046325305
 Transaktionsidentitet: 5B82852D70BDEDBD7E7F2D425EC799496F5FC4F459
 
-<!-- sida 314 -->
+<!-- sida 320 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (2)
 Nämnden för Individ & Familjeomsorg
@@ -13259,7 +13498,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: BEB98E72DBBE3564A0EE9861935381C7D046325305
 Transaktionsidentitet: 5B82852D70BDEDBD7E7F2D425EC799496F5FC4F459
 
-<!-- sida 315 -->
+<!-- sida 321 -->
 
 TJÄNSTESKRIVELSE
 
@@ -13310,7 +13549,7 @@ Utvecklingsledare                                        Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 316 -->
+<!-- sida 322 -->
 
 KUNGSBACKA  KOMMUN
 2 (2)
@@ -13319,7 +13558,7 @@ Göran Hjertstrand             Torun Ljungman
 
 Förvaltningschef              Utvecklingsledare
 
-<!-- sida 317 -->
+<!-- sida 323 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (1)
 Nämnden för Kultur & Fritid
@@ -13368,7 +13607,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 5B23A1A97F480CE6A5493FFB2EAE4579883D46661F
 Transaktionsidentitet: A29D00AE621F3B5863A7378F9B0435DC85BBD5AB24
 
-<!-- sida 318 -->
+<!-- sida 324 -->
 
 YTTRANDE
 Nämnden för Kultur & Fritid
@@ -13425,7 +13664,7 @@ Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 319 -->
+<!-- sida 325 -->
 
 KUNGSBACKA  KOMMUN
 2 (3)
@@ -13473,14 +13712,14 @@ Mot denna bakgrund instämmer nämnden i utredningens huvudsakliga bedömningar 
 den föreslagna inriktningen att stärka skyddet för brottsoffer och utveckla samhällets arbete mot våld,
 såväl i fysiska som digitala miljöer.
 
-<!-- sida 320 -->
+<!-- sida 326 -->
 
 KUNGSBACKA  KOMMUN
 3 (3)
 
 Nämnden för Kultur & Fritid
 
-<!-- sida 321 -->
+<!-- sida 327 -->
 
 TJÄNSTESKRIVELSE
 
@@ -13530,7 +13769,77 @@ Utvecklingsledare                                        Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 322 -->
+<!-- sida 328 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
+Kommunstyrelsens arbetsutskott
+Datum
+2026-10-13
+
+§ 314                      Dnr KS-2026-00578
+Svar på Utbildningsdepartementets remiss av betänkandet
+Förutsättningar för en likvärdig och språkutvecklande förskola (SOU
+2026:37)
+
+Förslag till beslut i kommunstyrelsen
+Kommunstyrelsen antar yttrande, daterat 2026-09-24, och översänder det som sitt
+svar till Utbildningsdepartementet.
+
+Sammanfattning av ärendet
+Kungsbacka kommun har fått möjlighet att yttra sig över Utbildningsdepartementets
+remiss av betänkandet Förutsättningar för en likvärdig och språkutvecklande förskola
+(SOU 2026:37).
+
+Utredningen har bland annat haft i uppdrag att lämna förslag som syftar till att alla
+förskolor i Sverige ska ges likvärdiga förutsättningar att erbjuda barnen en utbildning
+av god kvalitet.
+
+Bland utredningens förslag återfinns bland annat regleringar av barngrupper och
+personaltäthet, utökad avgiftsfri förskola samt obligatorisk språkbedömning av
+treåringar.
+
+Beslutsunderlag
+
+Kommunstyrelsens förvaltnings tjänsteskrivelse, 2026-09-24
+Yttrande, 2026-09-24
+Nämnden för Förskola & Grundskola 2026-09-16, § 88
+Nämnden för Förskola & Grundskolas yttrande, 2026-09-16
+Betänkandet Förutsättningar för en likvärdig och språkutvecklande förskola (SOU
+2026:37)
+
+Förslag till beslut på sammanträdet
+Stefan Jägnert (SD) yrkar bifall till eget förslag till yttrande daterat 2026-10-13.
+
+Emanuel Forsell (M), Lisa Andersson (M) och Fredrik Hansson (C) yrkar bifall till
+Nämnden för Förskola & Grundskolas yttrande daterat 2026-09-24.
+Fredrik Kollberg (KD) yrkar bifall till eget förslag till yttrande daterat 2026-10-13.
+
+Magdalena Sundqvist (S) yrkar bifall till kommunstyrelsens förvaltnings förslag.
+
+Beslutsgång
+
+Ordförande Lisa Andersson (M) finner att det finns fyra förslag till beslut, det vill
+säga Emanuel Forsells m.fl, kommunstyrelsens förvaltnings, Stefan Jägnerts och
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: 51BE220D4D62016F82ECAB247994A373144C8AE0EA
+Transaktionsidentitet: D943E854D44EB26D8FD0434BD3813F5F34161D2B0C
+
+<!-- sida 329 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (2)
+Kommunstyrelsens arbetsutskott
+Datum
+2026-10-13
+
+Fredrik Kollbergs. Ordföranden ställer förslagen mot varandra, och finner att
+kommunstyrelsens arbetsutskott beslutar enligt Emanuel Forsells m.fl. förslag.
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: 51BE220D4D62016F82ECAB247994A373144C8AE0EA
+Transaktionsidentitet: D943E854D44EB26D8FD0434BD3813F5F34161D2B0C
+
+<!-- sida 330 -->
 
 TJÄNSTESKRIVELSE
 
@@ -13577,7 +13886,7 @@ Kommunsekreterare                                        Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 323 -->
+<!-- sida 331 -->
 
 KUNGSBACKA  KOMMUN
 2 (3)
@@ -13625,7 +13934,7 @@ timmar per vecka. Utredningen hänvisar till rapporter som visar att dagens 15 t
 skapar de praktiska förutsättningarna som behövs för att ha en hög närvaro och hög närvaro är i sin tur
 ett sätt att stärka barnens språkutveckling.
 
-<!-- sida 324 -->
+<!-- sida 332 -->
 
 KUNGSBACKA  KOMMUN
 3 (3)
@@ -13655,7 +13964,7 @@ Rickard Vidlund                    Lovisa Eld
 
 Kommundirektör                     Samhällsbyggnadschef
 
-<!-- sida 325 -->
+<!-- sida 333 -->
 
 YTTRANDE
 Kommunstyrelsen
@@ -13712,7 +14021,7 @@ Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 326 -->
+<!-- sida 334 -->
 
 KUNGSBACKA  KOMMUN
 2 (3)
@@ -13758,12 +14067,12 @@ administration.
 
 Kungsbacka kommun
 
-<!-- sida 327 -->
+<!-- sida 335 -->
 
 KUNGSBACKA  KOMMUN
 3 (3)
 
-<!-- sida 328 -->
+<!-- sida 336 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           3 (4)
 Nämnden för Förskola & Grundskola
@@ -13821,7 +14130,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: F3CC6142BE66BEB0EA6AAF64506215C6C0DAD95035
 Transaktionsidentitet: 1A49D8CE3A23C4DF4C3855DDEE16C44FAC43CBED75
 
-<!-- sida 329 -->
+<!-- sida 337 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           4 (4)
 Nämnden för Förskola & Grundskola
@@ -13846,7 +14155,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: F3CC6142BE66BEB0EA6AAF64506215C6C0DAD95035
 Transaktionsidentitet: 1A49D8CE3A23C4DF4C3855DDEE16C44FAC43CBED75
 
-<!-- sida 330 -->
+<!-- sida 338 -->
 
 Yttrande över Utbildningsdepartementets remiss: Förutsättningar för en likvärdig
 och språkutvecklande förskola (SOU 2026:37)
@@ -13894,7 +14203,7 @@ Språkkrav och språkutvecklande arbetssätt
 Kommunen tillstyrker förslagen som syftar till att stärka barns språkutveckling. Det är
 positivt att utredningen tydliggör förskolans roll i att ge alla barn goda kunskaper i
 
-<!-- sida 331 -->
+<!-- sida 339 -->
 
 svenska. Kommunen ser särskilt positivt på att språkkraven kopplas till kvalitet och
 likvärdighet i undervisningen.
@@ -13918,7 +14227,7 @@ förutsättningar att genomföra dem.
 
 Kungsbacka kommun
 
-<!-- sida 332 -->
+<!-- sida 340 -->
 
 Yttrande över Utbildningsdepartementets    remiss:
 Förutsättningar för en likvärdig och spraåkutvecklande
@@ -13970,7 +14279,7 @@ Kommunen   vill samtidigt framhålla att en reglering av personaltätheten
 
 kan innebära ökade personalresurser och därmed ökade kostnader.
 
-<!-- sida 333 -->
+<!-- sida 341 -->
 
 Kungsbacka kommun   bedömer att flera av förslagen innebär betydande
 organisatoriska och ekonomiska konsekvenser för huvudmännen. För att
@@ -14015,7 +14324,7 @@ barnens utveckling och välmående.
 
 Kungsbacka kommun
 
-<!-- sida 334 -->
+<!-- sida 342 -->
 
 Yttrande på Utbildningsdepartementets remiss av betänkandet:
 
@@ -14065,7 +14374,7 @@ de ökade personalkostnaderna.
 
 8.9 Förslag om förskolepersonalens språkkunskaper
 
-<!-- sida 335 -->
+<!-- sida 343 -->
 
 Kungsbacka kommun tillstyrker tydliga nationella krav på kunskaper i svenska för personal
 som arbetar i barngrupp. Kraven behöver omfatta både ordinarie personal och vikarier och
@@ -14121,7 +14430,7 @@ Kommunen anser därutöver att förskola med språkutvecklande insatser ska kunn
 obligatorisk för barn som inte exponeras tillräckligt för svenska i hemmiljön och till följd av
 detta uppvisar påtagliga brister i sin svenska språkutveckling. En sådan reglering behöver
 
-<!-- sida 336 -->
+<!-- sida 344 -->
 
 bygga på tydliga och förutsebara regler, utgå från en individuell bedömning och säkerställa
 att barnets behov tillgodoses.
@@ -14165,7 +14474,78 @@ och de lokala kommunernas faktiska kostnader.
 
 Kungsbacka kommun
 
-<!-- sida 337 -->
+<!-- sida 345 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
+Kommunstyrelsens arbetsutskott
+Datum
+2026-10-13
+
+§ 315                      Dnr KS-2026-00553
+Svar på Klimat- och näringslivsdepartementets remiss av promemorian
+Ett nytt system för miljösanktionsavgifter
+
+Förslag till beslut i kommunstyrelsen
+Kommunstyrelsen antar yttrande daterat 2026-09-17 som sitt svar på Klimat- och
+näringslivsdepartementets remiss av promemorian Ett nytt system för miljö-
+sanktionsavgifter och översänder som sitt svar till Klimat- och
+näringslivsdepartementet.
+
+Sammanfattning av ärendet
+Kungsbacka kommun har fått möjlighet att yttra sig över Klimat- och
+näringslivsdepartementets översänt promemoria avseende ett nytt system för
+miljösanktionsavgifter. I promemorian redovisas förslag till förändringar i det
+svenska systemet för miljösanktionsavgifter. Förslaget syftar till att tillgodose EU-
+
+rättsliga krav på administrativa ekonomiska sanktioner och samtidigt säkerställa att
+det finns ett sammanhållet och ändamålsenligt nationellt system för
+miljösanktionsavgifter.
+Utöver de nuvarande beloppsbestämda avgifterna, som i förslaget benämns fasta
+miljösanktionsavgifter, föreslås en ny typ av miljösanktionsavgift, benämnd rörlig
+miljösanktionsavgift. Storleken på en rörlig miljösanktionsavgift ska bestämmas i det
+enskilda fallet, baserat på omständigheter kring överträdelsen och inom ett angivet
+
+beloppsspann. Det föreslås också att miljösanktionsavgifter införs för överträdelser
+av EU-förordningen om minskade metanutsläpp, EU-förordningen om f-gaser, EU-
+förordningen om ozonnedbrytande ämnen och EU-förordningen om ekodesign.
+Därutöver föreslås en särskild sanktion om återföring av vinst för överträdelser av
+EU-förordningen om minskade metanutsläpp. Förslagen innefattar även att
+nuvarande bestämmelser i 30 kap. miljöbalken samt förordningen om
+miljösanktionsavgifter upphävs och ersätts av ett nytt kapitel och en ny förordning.
+
+Beslutsunderlag
+
+Kommunstyrelsens förvaltnings tjänsteskrivelse, 2026-09-17
+Yttrande över promemorian: Ett nytt system för miljösanktionsavgifter, 2026-09-17
+Yttrande över Klimat- och näringslivsdepartementets remiss om promemorian: Ett
+nytt system för miljösanktionsavgifter, Nämnden för Miljö & Hälsoskydd,
+2026-08-27
+Bygg- och miljöförvaltningens tjänsteskrivelse, 2026-08-31
+Klimat- och näringslivsdepartementets promemoria Ett nytt system för
+
+miljösanktionsavgifter KN2026/01561
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: 51BE220D4D62016F82ECAB247994A373144C8AE0EA
+Transaktionsidentitet: D943E854D44EB26D8FD0434BD3813F5F34161D2B0C
+
+<!-- sida 346 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (2)
+Kommunstyrelsens arbetsutskott
+Datum
+2026-10-13
+
+Beslutsgång
+Ordförande Lisa Andersson (M) finner att det finns ett förslag till beslut, det vill säga
+kommunstyrelsens förvaltnings förslag, och att kommunstyrelsens arbetsutskott
+bifaller det.
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: 51BE220D4D62016F82ECAB247994A373144C8AE0EA
+Transaktionsidentitet: D943E854D44EB26D8FD0434BD3813F5F34161D2B0C
+
+<!-- sida 347 -->
 
 TJÄNSTESKRIVELSE
 
@@ -14219,7 +14599,7 @@ Kommunekolog                                             Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 338 -->
+<!-- sida 348 -->
 
 KUNGSBACKA  KOMMUN
 2 (3)
@@ -14266,7 +14646,7 @@ fluorerade växthusgaser.
 Kommunstyrelsens förvaltning delar de bedömningar som redovisas i nämnden för Miljö &
 Hälsoskydds yttrande och har inget ytterligare att tillföra.
 
-<!-- sida 339 -->
+<!-- sida 349 -->
 
 KUNGSBACKA  KOMMUN
 3 (3)
@@ -14275,7 +14655,7 @@ Rickard Vidlund               Lovisa Eld
 
 Kommundirektör                Samhällsbyggnadschef
 
-<!-- sida 340 -->
+<!-- sida 350 -->
 
 YTTRANDE
 Kommunstyrelsen
@@ -14333,7 +14713,7 @@ Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 341 -->
+<!-- sida 351 -->
 
 KUNGSBACKA  KOMMUN
 2 (2)
@@ -14346,7 +14726,7 @@ av regelverket för fluorerade växthusgaser.
 
 Kungsbacka kommun
 
-<!-- sida 342 -->
+<!-- sida 352 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
 Nämnden för Miljö & Hälsoskydd
@@ -14403,7 +14783,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: C55CCD2BE9923329F6DDC31BD5A32A59C8C9F08442
 Transaktionsidentitet: C113BEBD58D7C38D9F913B87660361FAC878FC8B3F
 
-<!-- sida 343 -->
+<!-- sida 353 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (2)
 Nämnden för Miljö & Hälsoskydd
@@ -14421,7 +14801,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: C55CCD2BE9923329F6DDC31BD5A32A59C8C9F08442
 Transaktionsidentitet: C113BEBD58D7C38D9F913B87660361FAC878FC8B3F
 
-<!-- sida 344 -->
+<!-- sida 354 -->
 
 Bygg- och miljöförvaltningen   YTTRANDE
 Kungsbacka kommun
@@ -14478,7 +14858,7 @@ långtgående krav på att administrativa sanktioner ska kunna anpassas efter
 Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
 Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
-<!-- sida 345 -->
+<!-- sida 355 -->
 
 KUNGSBACKA KOMMUN
 2 (3)
@@ -14536,7 +14916,7 @@ omfattande utredningsinsats, även om kommunen inte fattar det slutliga beslutet
 avgiftens storlek. Nämnden anser därför att promemorians bedömning av
 konsekvenserna för kommunerna bör utvecklas. Det bör särskilt klargöras vilken
 
-<!-- sida 346 -->
+<!-- sida 356 -->
 
 KUNGSBACKA KOMMUN
 3 (3)
@@ -14592,7 +14972,7 @@ omfattas av miljösanktionsavgift tillfälligt saknar en tillämplig sanktionsbe
 Nämnden för Miljö- & Hälsoskydd
 Kungsbacka kommun
 
-<!-- sida 347 -->
+<!-- sida 357 -->
 
 Bygg- och miljöförvaltningen   TJÄNSTESKRIVELSE
 Kungsbacka kommun
@@ -14649,7 +15029,7 @@ allvar, varaktighet och konsekvenser samt den ansvariges ekonomiska förhålland
 Kungsbacka kommun, (adress borttagen), 434 81 Kungsbacka
 Telefon 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
-<!-- sida 348 -->
+<!-- sida 358 -->
 
 KUNGSBACKA KOMMUN
 2 (3)
@@ -14706,7 +15086,7 @@ informationsförsörjning, nationell vägledning samt samordningen med reglering
 om fluorerade växthusgaser bör beaktas i den fortsatta beredningen. Förvaltningen
 föreslår därför att nämnden antar bifogat yttrande
 
-<!-- sida 349 -->
+<!-- sida 359 -->
 
 KUNGSBACKA KOMMUN
 3 (3)
@@ -14727,7 +15107,62 @@ Kommunstyrelsen
 Kasra Hassirian
 Förvaltningsjurist
 
-<!-- sida 350 -->
+<!-- sida 360 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (1)
+Kommunstyrelsens arbetsutskott
+Datum
+2026-10-13
+
+§ 316                      Dnr KS-2026-00478
+Svar på Klimat- och näringslivsdepartementets remiss: Att säga ja!
+Kommunernas förutsättningar att ta emot stora företagsetableringar
+och företagsexpansioner (SOU 2026:32)
+
+Förslag till beslut i kommunstyrelsen
+Kommunstyrelsen antar yttrande, daterat 2026-09-09, och översänder det till Klimat-
+och näringslivsdepartementet.
+
+Sammanfattning av ärendet
+Kungsbacka kommun fått möjlighet att yttra sig över delbetänkandet Att säga ja!
+Kommunernas förutsättningar att ta emot stora företagsetableringar och
+företagsexpansioner (SOU 2026:32). Utredningen analyserar kommunernas
+förutsättningar att attrahera och ta emot större företagsetableringar och expansioner
+som bidrar till Sveriges konkurrenskraft, tillväxt och klimatomställning. Särskilt
+
+belyses de utmaningar som kommuner möter i form av behov av bostäder,
+verksamhetsmark, transportinfrastruktur, kompetensförsörjning och kommunal
+service samt de ekonomiska risker som kan uppstå när investeringar behöver
+genomföras i förväg. Utredningen lämnar förslag om bland annat statlig rådgivning,
+ekonomisk riskavlastning och infrastruktursatsningar för att stärka kommunernas
+möjligheter att möta ett ökat etableringstryck.
+Betänkandet behandlar följande:
+
+• Statlig rådgivningsfunktion
+
+• Allmän ekonomisk riskavlastning
+• Bostadsbyggande
+
+• Investeringar i transportinfrastruktur
+• Kompetensförsörjning
+
+Beslutsunderlag
+Kommunstyrelsens förvaltnings tjänsteskrivelse, 2026-09-09
+Yttrande, 2026-09-09
+Att säga ja! Kommunernas förutsättningar att ta emot stora företagsetableringar och
+företagsexpansioner, SOU 2026:32
+
+Beslutsgång
+Ordförande Lisa Andersson (M) finner att det finns ett förslag till beslut, det vill säga
+kommunstyrelsens förvaltnings förslag, och att kommunstyrelsens arbetsutskott
+
+bifaller det.
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: 51BE220D4D62016F82ECAB247994A373144C8AE0EA
+Transaktionsidentitet: D943E854D44EB26D8FD0434BD3813F5F34161D2B0C
+
+<!-- sida 361 -->
 
 TJÄNSTESKRIVELSE
 
@@ -14780,7 +15215,7 @@ Utvecklare                                               Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 351 -->
+<!-- sida 362 -->
 
 KUNGSBACKA  KOMMUN
 2 (2)
@@ -14806,7 +15241,7 @@ större etableringar lokaliseras där förutsättningarna är bäst och resurser
 Rickard Vidlund               Lovisa Eld
 Kommundirektör                Samhällsbyggnadschef
 
-<!-- sida 352 -->
+<!-- sida 363 -->
 
 YTTRANDE
 Kommunstyrelsen
@@ -14864,7 +15299,7 @@ Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 353 -->
+<!-- sida 364 -->
 
 KUNGSBACKA  KOMMUN
 2 (4)
@@ -14911,7 +15346,7 @@ Riskbilden är inte begränsad till mindre kommuner eller industrikommuner. Äve
 med stark befolkningstillväxt behöver genomföra omfattande investeringar i infrastruktur,
 markberedskap och kommunal service för att möjliggöra nya etableringar och företagsexpansioner.
 
-<!-- sida 354 -->
+<!-- sida 365 -->
 
 KUNGSBACKA  KOMMUN
 3 (4)
@@ -14959,7 +15394,7 @@ Kommunen välkomnar särskilt utredningens förslag om att Trafikverket ska anal
 staten tar ansvar för fördyringar efter ingångna medfinansierings- och förskotteringsavtal, om
 fördyringen inte uppenbart beror på motpartens agerande.
 
-<!-- sida 355 -->
+<!-- sida 366 -->
 
 KUNGSBACKA  KOMMUN
 4 (4)
@@ -14992,7 +15427,43 @@ Det är särskilt viktigt att staten möjliggör snabba och regionalt samordnade
 
 Kungsbacka kommun
 
-<!-- sida 356 -->
+<!-- sida 367 -->
+
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (1)
+Kommunstyrelsens arbetsutskott
+Datum
+2026-10-13
+
+§ 317                      Dnr KS-2026-00706
+Svar på Varbergs kommuns remiss av detaljplan del av Löftabro 1:2
+
+Förslag till beslut i kommunstyrelsen
+
+Kommunstyrelsen antar yttrandet över Varbergs kommuns granskning av detaljplan
+för del av Löftabro 1:2, daterat 2026-09-30.
+
+Sammanfattning av ärendet
+Varbergs kommun har skickat ett förslag till detaljplan för del av Löftabro 1:2 på
+granskning. Planområdet ligger i Löftaskog/Stråvalla nära kommungränsen och
+Frillesås. Förslaget möjliggör 24 villor längs Löftabrovägen. Det omfattar även
+hantering av dagvatten och ett grönstråk mellan bebyggelsen och Löftaån.
+
+Beslutsunderlag
+Kommunstyrelsens förvaltnings tjänsteskrivelse, 2026-09-30
+Yttrande, 2026-09-30
+Varbergs kommuns planbeskrivning och samrådsredogörelse, 2026-08-19
+
+Beslutsgång
+Ordförande Lisa Andersson (M) finner att det finns ett förslag till beslut, det vill säga
+kommunstyrelsens förvaltnings förslag, och att kommunstyrelsens arbetsutskott
+
+bifaller det.
+
+Det här dokumentet är digitalt signerat
+Transaktionsidentitet: 51BE220D4D62016F82ECAB247994A373144C8AE0EA
+Transaktionsidentitet: D943E854D44EB26D8FD0434BD3813F5F34161D2B0C
+
+<!-- sida 368 -->
 
 TJÄNSTESKRIVELSE
 
@@ -15046,7 +15517,7 @@ Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 357 -->
+<!-- sida 369 -->
 
 YTTRANDE
 Kommunstyrelsen
@@ -15092,7 +15563,7 @@ Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 358 -->
+<!-- sida 370 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
 Kommunstyrelsens arbetsutskott
@@ -15152,7 +15623,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7B50ABB8AD5483BDF838EE29D611A5FA7475AA0A44
 Transaktionsidentitet: A816210CB2F043E12D434BDE46172096A243145AB9
 
-<!-- sida 359 -->
+<!-- sida 371 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (2)
 Kommunstyrelsens arbetsutskott
@@ -15184,7 +15655,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7B50ABB8AD5483BDF838EE29D611A5FA7475AA0A44
 Transaktionsidentitet: A816210CB2F043E12D434BDE46172096A243145AB9
 
-<!-- sida 360 -->
+<!-- sida 372 -->
 
 TJÄNSTESKRIVELSE
 
@@ -15234,7 +15705,7 @@ Specialist kvalitet & internkontroll                     Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 361 -->
+<!-- sida 373 -->
 
 KUNGSBACKA  KOMMUN
 2 (4)
@@ -15283,7 +15754,7 @@ avfallshantering. Verksamheter och företag med eget abonnemang berörs inte av 
 förpackningsinsamling med start 2027. Kommunen har upphandlat entreprenör för avfallshanteringen
 2027 och det innebär ett fortsatt samarbete med befintlig entreprenör också för den nya avtalsperioden.
 
-<!-- sida 362 -->
+<!-- sida 374 -->
 
 KUNGSBACKA  KOMMUN
 3 (4)
@@ -15332,7 +15803,7 @@ Standardutbudet för förpackningsinsamlingen innebär ingen extra kostnad för 
 innebär det nya systemet med närsortering att abonnenterna enklare kan sortera och därmed påverka
 volymer i de olika avfallskärlen. Den rörliga kostnaden blir lägst för den med lite restavfall och
 
-<!-- sida 363 -->
+<!-- sida 375 -->
 
 KUNGSBACKA  KOMMUN
 4 (4)
@@ -15375,7 +15846,7 @@ Rickard Vidlund                    Anders Johansson
 
 Kommundirektör                     Biträdande kommundirektör
 
-<!-- sida 364 -->
+<!-- sida 376 -->
 
 Avfallstaxa
 
@@ -15392,7 +15863,7 @@ www.kungsbacka.se
 
 Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
-<!-- sida 365 -->
+<!-- sida 377 -->
 
 Kungsbacka växer och utvecklas. Fler väljer att bo, leva och verka här,
 samtidigt som kraven på en hållbar användning av våra resurser ökar. Nya
@@ -15425,7 +15896,7 @@ generationer.
 
 Kungsbacka kommun                Avfallstaxa                   2 (40)
 
-<!-- sida 366 -->
+<!-- sida 378 -->
 
 Innehåll
 
@@ -15483,7 +15954,7 @@ Innehåll
 
 Kungsbacka kommun                Avfallstaxa                   3 (40)
 
-<!-- sida 367 -->
+<!-- sida 379 -->
 
 5.4.1 Framdragning av kärl ............................................................................................ 17
 5.4.2 Extra tömningar ..................................................................................................... 17
@@ -15541,7 +16012,7 @@ Kungsbacka kommun                Avfallstaxa                   3 (40)
 
 Kungsbacka kommun                Avfallstaxa                   4 (40)
 
-<!-- sida 368 -->
+<!-- sida 380 -->
 
 7.2 Hämtavgifter helår för container och komprimatorcontainer ........................................ 30
 7.2.1 Restavfall ............................................................................................................... 30
@@ -15587,7 +16058,7 @@ Kungsbacka kommun                Avfallstaxa                   4 (40)
 
 Kungsbacka kommun                Avfallstaxa                   5 (40)
 
-<!-- sida 369 -->
+<!-- sida 381 -->
 
 1\. Inledande bestämmelser
 
@@ -15645,7 +16116,7 @@ som gäller för avfallshantering.
 
 Kungsbacka kommun                Avfallstaxa                   6 (40)
 
-<!-- sida 370 -->
+<!-- sida 382 -->
 
 Det är fastighetsinnehavaren som är ytterst ansvarig för att kraven i både
 kommunens avfallstaxa och avfallsföreskrifter följs.
@@ -15703,7 +16174,7 @@ ansöka om en gemensam hämtplats för avfallshantering. Den gemensamma
 
 Kungsbacka kommun                Avfallstaxa                   7 (40)
 
-<!-- sida 371 -->
+<!-- sida 383 -->
 
 hämtplatsen ska uppfylla kraven i kommunens avfallsföreskrifter och anvisningar vid
 ansökan. Ansökan görs till nämnden för Teknik.
@@ -15722,7 +16193,7 @@ anskaffas av fastighetsinnehavaren. Se kapitel 6.
 
 Kungsbacka kommun                Avfallstaxa                   8 (40)
 
-[Tabell 371-1](handlingar.tabeller/371-1.csv)
+[Tabell 383-1](handlingar.tabeller/383-1.csv)
 
 | Avfallsslag | Volym liter |
 | --- | --- |
@@ -15732,7 +16203,7 @@ Kungsbacka kommun                Avfallstaxa                   8 (40)
 | Ofärgade och färgade glasförpackningar i tvåfackskärl | 240 uppdelat 50/50% |
 | Metallförpackningar | 20 |
 
-[Tabell 371-2](handlingar.tabeller/371-2.csv)
+[Tabell 383-2](handlingar.tabeller/383-2.csv)
 
 | Avfallsslag | Volym liter |
 | --- | --- |
@@ -15748,7 +16219,7 @@ Kungsbacka kommun                Avfallstaxa                   8 (40)
 | Container | Upp till 6 |
 | Container | 6,1–10 |
 
-<!-- sida 372 -->
+<!-- sida 384 -->
 
 Nedan kärlstorlekar är valbara för verksamheter. Se separata rader för container.
 
@@ -15794,7 +16265,7 @@ Avläsningsmånad är oktober.
 
 Kungsbacka kommun                Avfallstaxa                   9 (40)
 
-[Tabell 372-1](handlingar.tabeller/372-1.csv)
+[Tabell 384-1](handlingar.tabeller/384-1.csv)
 
 | Avfallsslag | Volym liter |
 | --- | --- |
@@ -15804,7 +16275,7 @@ Kungsbacka kommun                Avfallstaxa                   9 (40)
 | Container | Upp till 6 |
 | Container | 6,1–10 |
 
-<!-- sida 373 -->
+<!-- sida 385 -->
 
 1.8 Delegering
 Nämnden för Teknik ansvarar för taxans tillämpning och för att fatta beslut i enskilda
@@ -15818,7 +16289,7 @@ filtermaterial, latrin och fett avser samtliga kundgrupper.
 
 Kungsbacka kommun                Avfallstaxa                   10 (40)
 
-<!-- sida 374 -->
+<!-- sida 386 -->
 
 2\. Beräkningsgrunder
 
@@ -15862,7 +16333,7 @@ miljöbalken.
 
 Kungsbacka kommun                Avfallstaxa                   11 (40)
 
-<!-- sida 375 -->
+<!-- sida 387 -->
 
 3\. Mervärdesskatt
 
@@ -15871,7 +16342,7 @@ angivna i kronor inklusive moms.
 
 Kungsbacka kommun                Avfallstaxa                   12 (40)
 
-<!-- sida 376 -->
+<!-- sida 388 -->
 
 4\. Grundavgift
 
@@ -15894,20 +16365,20 @@ för Teknik tolkningsföreträde.
 
 Kungsbacka kommun                Avfallstaxa                   13 (40)
 
-[Tabell 376-1](handlingar.tabeller/376-1.csv)
+[Tabell 388-1](handlingar.tabeller/388-1.csv)
 
 | Typ av hushåll | Kronor/år |
 | --- | --- |
 | En- och tvåbostadshus, småhus | 1 645 |
 | Säsongsboende delår, fritidshus | 860 |
 
-[Tabell 376-2](handlingar.tabeller/376-2.csv)
+[Tabell 388-2](handlingar.tabeller/388-2.csv)
 
 | Typ av hushåll | Kronor/år |
 | --- | --- |
 | Flerbostadshus, per lägenhet eller bostad | 250 |
 
-[Tabell 376-3](handlingar.tabeller/376-3.csv)
+[Tabell 388-3](handlingar.tabeller/388-3.csv)
 
 | Behållare för insamling av restavfall | Kronor/år |
 | --- | --- |
@@ -15916,7 +16387,7 @@ Kungsbacka kommun                Avfallstaxa                   13 (40)
 | Kärl, komprimatorcontainer, container, delår | 860 |
 | Krantömda markbehållare, delår | 1 250 |
 
-<!-- sida 377 -->
+<!-- sida 389 -->
 
 5\. Taxetabeller och avgifter för en- och tvåbostadshus
 
@@ -15937,7 +16408,7 @@ Hämtas i tvådelade kärl och separat metallbehållare. Avgiften anges i kronor
 
 Kungsbacka kommun                Avfallstaxa                   14 (40)
 
-[Tabell 377-1](handlingar.tabeller/377-1.csv)
+[Tabell 389-1](handlingar.tabeller/389-1.csv)
 
 | Kärlvolym liter | Kronor/år |  |
 | --- | --- | --- |
@@ -15946,14 +16417,14 @@ Kungsbacka kommun                Avfallstaxa                   14 (40)
 | 190 | 970 | 1 935 |
 | 370 | Erbjuds ej | 4 115 |
 
-[Tabell 377-2](handlingar.tabeller/377-2.csv)
+[Tabell 389-2](handlingar.tabeller/389-2.csv)
 
 | Kärlvolym liter | Kronor/år |  |
 | --- | --- | --- |
 |  | Var fjärde vecka\* | Varannan vecka |
 | 140 | Valbar, avgiftsfri | Ingår |
 
-[Tabell 377-3](handlingar.tabeller/377-3.csv)
+[Tabell 389-3](handlingar.tabeller/389-3.csv)
 
 | Förpacknings-<br>avfall | Volym<br>liter | Var åttonde<br>vecka | Var fjärde<br>vecka | Varannan<br>vecka | Varje vecka |
 | --- | --- | --- | --- | --- | --- |
@@ -15961,7 +16432,7 @@ Kungsbacka kommun                Avfallstaxa                   14 (40)
 | Ofärgat glas/<br>Färgat glas | 240 | Ingår | 350 | 950 | Erbjuds ej |
 | Metall | 20 | Ingår | 350 | 950 | Erbjuds ej |
 
-<!-- sida 378 -->
+<!-- sida 390 -->
 
 5.2 Hämtavgifter delår
 Gäller för fritidshus med säsongsboende. Hämtperioden är vecka 19 till 38.
@@ -15978,7 +16449,7 @@ delår.
 
 Kungsbacka kommun                Avfallstaxa                   15 (40)
 
-[Tabell 378-1](handlingar.tabeller/378-1.csv)
+[Tabell 390-1](handlingar.tabeller/390-1.csv)
 
 | Kärlvolym liter | Kronor/delår |  |
 | --- | --- | --- |
@@ -15987,14 +16458,14 @@ Kungsbacka kommun                Avfallstaxa                   15 (40)
 | 190 | 430 | 1 070 |
 | 370 | Erbjuds ej | 2 280 |
 
-[Tabell 378-2](handlingar.tabeller/378-2.csv)
+[Tabell 390-2](handlingar.tabeller/390-2.csv)
 
 | Kärlvolym liter | Kronor/delår |  |
 | --- | --- | --- |
 |  | Var fjärde vecka\* | Varannan vecka |
 | 140 | Valbar, avgiftsfri | Ingår |
 
-[Tabell 378-3](handlingar.tabeller/378-3.csv)
+[Tabell 390-3](handlingar.tabeller/390-3.csv)
 
 | Förpacknings-<br>avfall | Volym<br>liter | Var åttonde<br>vecka | Var fjärde<br>vecka | Varannan<br>vecka | Varje<br>vecka |
 | --- | --- | --- | --- | --- | --- |
@@ -16002,7 +16473,7 @@ Kungsbacka kommun                Avfallstaxa                   15 (40)
 | Ofärgat glas/<br>Färgat glas | 240 | Ingår | 175 | 475 | Erbjuds ej |
 | Metall | 20 | Ingår | 175 | 475 | Erbjuds ej |
 
-<!-- sida 379 -->
+<!-- sida 391 -->
 
 5.3 Återvinningscentraler
 I grundavgiften ingår 20 besök per år för varje folkbokförd vuxen i kommunen.
@@ -16013,7 +16484,7 @@ till 20 besök per abonnemang och år.
 
 Kungsbacka kommun                Avfallstaxa                   16 (40)
 
-[Tabell 379-1](handlingar.tabeller/379-1.csv)
+[Tabell 391-1](handlingar.tabeller/391-1.csv)
 
 | Tjänst | Kronor/besök |
 | --- | --- |
@@ -16023,7 +16494,7 @@ Kungsbacka kommun                Avfallstaxa                   16 (40)
 | Ersättning av förlorat återvinningskort | 175 |
 | Återvinningskort för dödsbodelägare, 20 besök | 0 |
 
-<!-- sida 380 -->
+<!-- sida 392 -->
 
 5.4 Tilläggstjänster
 
@@ -16044,7 +16515,7 @@ Vid byte av kärl används i första hand begagnade, rengjorda, kärl.
 
 Kungsbacka kommun                Avfallstaxa                   17 (40)
 
-[Tabell 380-1](handlingar.tabeller/380-1.csv)
+[Tabell 392-1](handlingar.tabeller/392-1.csv)
 
 | Avstånd i meter | Kronor/kärl och tillfälle |
 | --- | --- |
@@ -16052,7 +16523,7 @@ Kungsbacka kommun                Avfallstaxa                   17 (40)
 | 10,1–20 | 35 |
 | 20,1–50 | 70 |
 
-[Tabell 380-2](handlingar.tabeller/380-2.csv)
+[Tabell 392-2](handlingar.tabeller/392-2.csv)
 
 | Avstånd i meter | Kronor/kärl och tillfälle |
 | --- | --- |
@@ -16060,21 +16531,21 @@ Kungsbacka kommun                Avfallstaxa                   17 (40)
 | 10,1–20 | Erbjuds ej |
 | 20,1–50 | Erbjuds ej |
 
-[Tabell 380-3](handlingar.tabeller/380-3.csv)
+[Tabell 392-3](handlingar.tabeller/392-3.csv)
 
 | Tjänst | Kronor/behållare och tillfälle |
 | --- | --- |
 | Extra tömning kärl | 465 |
 | Extra säck i samband med ordinarie tömning<br>av kärl | 465 |
 
-[Tabell 380-4](handlingar.tabeller/380-4.csv)
+[Tabell 392-4](handlingar.tabeller/392-4.csv)
 
 | Tjänst | Kronor/behållare och tillfälle |
 | --- | --- |
 | Byte till större kärl eller kärl av samma storlek | 500 |
 | Byte till mindre kärl | 400 |
 
-<!-- sida 381 -->
+<!-- sida 393 -->
 
 5.4.4 Varmkompostering av matavfall
 För att kunna kompostera matavfall på fastigheten måste fastighetsinnehavaren
@@ -16099,33 +16570,33 @@ helgfria vardagar.
 
 Kungsbacka kommun                Avfallstaxa                   18 (40)
 
-[Tabell 381-1](handlingar.tabeller/381-1.csv)
+[Tabell 393-1](handlingar.tabeller/393-1.csv)
 
 | Tjänst | Kronor/år |
 | --- | --- |
 | Varmkompostering | 0 |
 
-[Tabell 381-2](handlingar.tabeller/381-2.csv)
+[Tabell 393-2](handlingar.tabeller/393-2.csv)
 
 | Kärlvolym liter | Kronor/år |
 | --- | --- |
 | 140 | 1 000 |
 
-[Tabell 381-3](handlingar.tabeller/381-3.csv)
+[Tabell 393-3](handlingar.tabeller/393-3.csv)
 
 | Kärlvolym liter | Kronor/kärl och år |
 | --- | --- |
 | 240 (nytecknas ej) | 1 800 |
 | 370 | 1 900 |
 
-[Tabell 381-4](handlingar.tabeller/381-4.csv)
+[Tabell 393-4](handlingar.tabeller/393-4.csv)
 
 | Containervolym | Fast avgift kronor/container | Hyra/dygn |
 | --- | --- | --- |
 | 10 kbm | 4 000 | 100 |
 | 20 kbm | 6 000 | 150 |
 
-<!-- sida 382 -->
+<!-- sida 394 -->
 
 5.4.8 Fastighetsnära hämtning av grovavfall och hämtning av återbruk
 Produkter till återbruk ska vara hela och rena. Varje kolli får som störst ha en volym
@@ -16145,27 +16616,27 @@ i anslutning till väg vid fastighetsgränsen.
 
 Kungsbacka kommun                Avfallstaxa                   19 (40)
 
-[Tabell 382-1](handlingar.tabeller/382-1.csv)
+[Tabell 394-1](handlingar.tabeller/394-1.csv)
 
 | Tjänst | Kronor/kolli |
 | --- | --- |
 | Grovavfall och återbruk | 1 570 |
 | Grovavfall och återbruk, tillkommande kollin | 415 |
 
-[Tabell 382-2](handlingar.tabeller/382-2.csv)
+[Tabell 394-2](handlingar.tabeller/394-2.csv)
 
 | Tjänst | Kronor/tillfälle |
 | --- | --- |
 | Miljöbox | 0 |
 
-[Tabell 382-3](handlingar.tabeller/382-3.csv)
+[Tabell 394-3](handlingar.tabeller/394-3.csv)
 
 | Tjänst | Kronor/kolli |
 | --- | --- |
 | Elavfall (vitvaror) | 1 700 |
 | Elavfall (vitvaror), tillkommande kollin | 415 |
 
-<!-- sida 383 -->
+<!-- sida 395 -->
 
 5.5 Fastighetsnära insamling av bygg- och rivningsavfall
 Tjänsten gäller bygg- och rivningsavfall från privatpersoners egna renoveringar, till
@@ -16184,7 +16655,7 @@ per kubikmeter och eventuell analysavgift tillkommer.
 
 Kungsbacka kommun                Avfallstaxa                   20 (40)
 
-[Tabell 383-1](handlingar.tabeller/383-1.csv)
+[Tabell 395-1](handlingar.tabeller/395-1.csv)
 
 | Tjänst | Maxtaxa kronor/tillfälle |
 | --- | --- |
@@ -16192,7 +16663,7 @@ Kungsbacka kommun                Avfallstaxa                   20 (40)
 | Stor container (19–35 kbm) eller schaktflak (9 kbm) | 5 991 |
 | Dygnshyra från och med dag åtta | 100 |
 
-[Tabell 383-2](handlingar.tabeller/383-2.csv)
+[Tabell 395-2](handlingar.tabeller/395-2.csv)
 
 | Tjänst | Maxtaxa kronor/tillfälle |
 | --- | --- |
@@ -16200,7 +16671,7 @@ Kungsbacka kommun                Avfallstaxa                   20 (40)
 |  | Pris/säck |
 | Köp av storsäck | 235 |
 
-<!-- sida 384 -->
+<!-- sida 396 -->
 
 5.5.3 Behandlingsavgift
 
@@ -16216,7 +16687,7 @@ entreprenören innan beställning om analys behövs.
 
 Kungsbacka kommun                Avfallstaxa                   21 (40)
 
-[Tabell 384-1](handlingar.tabeller/384-1.csv)
+[Tabell 396-1](handlingar.tabeller/396-1.csv)
 
 | Material | Maxtaxa kronor/ton<br>(hämtning i<br>container) | Maxtaxa kronor/<br>kubikmeter (hämtning<br>i storsäck) |
 | --- | --- | --- |
@@ -16229,14 +16700,14 @@ Kungsbacka kommun                Avfallstaxa                   21 (40)
 | Osorterat/sammansatt bygg- och<br>rivningsavfall \* | 2 568 | 2 054 |
 | Övriga typer av sorterat bygg- och<br>rivningsavfall \*\* | 7 704 | 2 054 |
 
-[Tabell 384-2](handlingar.tabeller/384-2.csv)
+[Tabell 396-2](handlingar.tabeller/396-2.csv)
 
 | Avgift | Maxtaxa/tillfälle |
 | --- | --- |
 | Felsortering container | 4 931 |
 | Felsortering storsäck | 1 541 |
 
-<!-- sida 385 -->
+<!-- sida 397 -->
 
 6\. Taxetabeller och avgifter för flerbostadshus  och
 samfälligheter
@@ -16259,7 +16730,7 @@ Avgiften anges i kronor per år.
 
 Kungsbacka kommun                Avfallstaxa                   22 (40)
 
-[Tabell 385-1](handlingar.tabeller/385-1.csv)
+[Tabell 397-1](handlingar.tabeller/397-1.csv)
 
 | Kärlvolym liter | Kronor/år |  |  |
 | --- | --- | --- | --- |
@@ -16269,7 +16740,7 @@ Kungsbacka kommun                Avfallstaxa                   22 (40)
 | 370 | 23 030 | 9 600 | 3 370 |
 | 660 | 39 000 | 17 000 | 5 390 |
 
-[Tabell 385-2](handlingar.tabeller/385-2.csv)
+[Tabell 397-2](handlingar.tabeller/397-2.csv)
 
 | Förpacknings-<br>avfall | Kärlstorlek<br>upp till liter | Var fjärde<br>vecka | Varannan<br>vecka | Varje<br>vecka | Två<br>gånger per<br>vecka |
 | --- | --- | --- | --- | --- | --- |
@@ -16279,7 +16750,7 @@ Kungsbacka kommun                Avfallstaxa                   22 (40)
 | Färgat glas | 370 | Ingår | 650 | 1 950 | Erbjuds ej |
 | Metall | 370 | Ingår | 650 | 1 950 | Erbjuds ej |
 
-<!-- sida 386 -->
+<!-- sida 398 -->
 
 6.2 Hämtavgifter helår för container och komprimatorcontainer
 
@@ -16303,7 +16774,7 @@ underjordsbehållare, kräver att även matavfall samlas in i krantömd markbeh�
 
 Kungsbacka kommun                Avfallstaxa                   23 (40)
 
-[Tabell 386-1](handlingar.tabeller/386-1.csv)
+[Tabell 398-1](handlingar.tabeller/398-1.csv)
 
 | Containervolym | Kronor/år |  |
 | --- | --- | --- |
@@ -16311,7 +16782,7 @@ Kungsbacka kommun                Avfallstaxa                   23 (40)
 | Upp till 6 kbm | 85 000 | 42 500 |
 | 6,1–10 kbm | 127 500 | 63 750 |
 
-[Tabell 386-2](handlingar.tabeller/386-2.csv)
+[Tabell 398-2](handlingar.tabeller/398-2.csv)
 
 | Volym<br>komprimatorcontainer | Kronor/år |  |
 | --- | --- | --- |
@@ -16319,7 +16790,7 @@ Kungsbacka kommun                Avfallstaxa                   23 (40)
 | Upp till 6 kbm | 110 225 | 55 110 |
 | 6,1–8 kbm | 165 335 | 82 670 |
 
-[Tabell 386-3](handlingar.tabeller/386-3.csv)
+[Tabell 398-3](handlingar.tabeller/398-3.csv)
 
 | Behållarvolym | Kronor/år |  |
 | --- | --- | --- |
@@ -16327,14 +16798,14 @@ Kungsbacka kommun                Avfallstaxa                   23 (40)
 | Upp till 4 kbm | 68 000 | 34 000 |
 | 4,1–6 kbm | 102 000 | 51 000 |
 
-[Tabell 386-4](handlingar.tabeller/386-4.csv)
+[Tabell 398-4](handlingar.tabeller/398-4.csv)
 
 | Behållarvolym | Kronor/år |  |
 | --- | --- | --- |
 |  | Varje vecka | Varannan vecka |
 | Upp till 2 kbm | 34 000 | 17 000 |
 
-<!-- sida 387 -->
+<!-- sida 399 -->
 
 6.3.3 Förpackningsavfall
 Avgiften anges i kronor per helår.
@@ -16348,7 +16819,7 @@ till 20 besök per abonnemang och år.
 
 Kungsbacka kommun                Avfallstaxa                   24 (40)
 
-[Tabell 387-1](handlingar.tabeller/387-1.csv)
+[Tabell 399-1](handlingar.tabeller/399-1.csv)
 
 | Förpacknings-<br>avfall | Behållar-<br>storlek upp<br>till | Var fjärde<br>vecka | Varannan<br>vecka | Varje<br>vecka | Två gånger<br>per vecka |
 | --- | --- | --- | --- | --- | --- |
@@ -16358,7 +16829,7 @@ Kungsbacka kommun                Avfallstaxa                   24 (40)
 | Färgat glas | 3 kbm | Ingår | 8 125 | 24 375 | Erbjuds ej |
 | Metall | 6 kbm | Ingår | 8 125 | 24 375 | Erbjuds ej |
 
-[Tabell 387-2](handlingar.tabeller/387-2.csv)
+[Tabell 399-2](handlingar.tabeller/399-2.csv)
 
 | Tjänst | Kronor/besök |
 | --- | --- |
@@ -16368,7 +16839,7 @@ Kungsbacka kommun                Avfallstaxa                   24 (40)
 | Ersättning av förlorat återvinningskort | 175 |
 | Återvinningskort för dödsbodelägare, 20 besök | 0 |
 
-<!-- sida 388 -->
+<!-- sida 400 -->
 
 6.5 Tilläggstjänster
 
@@ -16389,7 +16860,7 @@ Vid byte av kärl används i första hand begagnade, rengjorda, kärl.
 
 Kungsbacka kommun                Avfallstaxa                   25 (40)
 
-[Tabell 388-1](handlingar.tabeller/388-1.csv)
+[Tabell 400-1](handlingar.tabeller/400-1.csv)
 
 | Avstånd i meter | Kronor/kärl och tillfälle |
 | --- | --- |
@@ -16397,7 +16868,7 @@ Kungsbacka kommun                Avfallstaxa                   25 (40)
 | 10,1–20 | 35 |
 | 20,1–50 | 70 |
 
-[Tabell 388-2](handlingar.tabeller/388-2.csv)
+[Tabell 400-2](handlingar.tabeller/400-2.csv)
 
 | Avstånd i meter | Kronor/kärl och tillfälle |
 | --- | --- |
@@ -16405,7 +16876,7 @@ Kungsbacka kommun                Avfallstaxa                   25 (40)
 | 10,1–20 | Erbjuds ej |
 | 20,1–50 | Erbjuds ej |
 
-[Tabell 388-3](handlingar.tabeller/388-3.csv)
+[Tabell 400-3](handlingar.tabeller/400-3.csv)
 
 | Tjänst | Kronor/behållare och<br>tillfälle |
 | --- | --- |
@@ -16415,14 +16886,14 @@ Kungsbacka kommun                Avfallstaxa                   25 (40)
 | Extra tömning krantömda markbehållare | 2 000 |
 | Extra säck i samband med ordinarie tömning av<br>kärl | 465 |
 
-[Tabell 388-4](handlingar.tabeller/388-4.csv)
+[Tabell 400-4](handlingar.tabeller/400-4.csv)
 
 | Tjänst | Kronor/behållare och<br>tillfälle |
 | --- | --- |
 | Byte till större kärl eller kärl av samma storlek | 500 |
 | Byte till mindre kärl | 400 |
 
-<!-- sida 389 -->
+<!-- sida 401 -->
 
 6.5.4 Varmkompostering av matavfall
 För att kunna kompostera matavfall på fastigheten måste fastighetsinnehavaren
@@ -16446,33 +16917,33 @@ helgfria vardagar.
 
 Kungsbacka kommun                Avfallstaxa                   26 (40)
 
-[Tabell 389-1](handlingar.tabeller/389-1.csv)
+[Tabell 401-1](handlingar.tabeller/401-1.csv)
 
 | Tjänst | Kronor/år |
 | --- | --- |
 | Varmkompostering | 0 |
 
-[Tabell 389-2](handlingar.tabeller/389-2.csv)
+[Tabell 401-2](handlingar.tabeller/401-2.csv)
 
 | Kärlvolym liter | Kronor/år |
 | --- | --- |
 | 140 | 1 000 |
 
-[Tabell 389-3](handlingar.tabeller/389-3.csv)
+[Tabell 401-3](handlingar.tabeller/401-3.csv)
 
 | Kärlvolym liter | Kronor/kärl och år |
 | --- | --- |
 | 240 (nytecknas ej) | 1 800 |
 | 370 | 1 900 |
 
-[Tabell 389-4](handlingar.tabeller/389-4.csv)
+[Tabell 401-4](handlingar.tabeller/401-4.csv)
 
 | Containervolym | Fast avgift kronor/container | Hyra/dygn |
 | --- | --- | --- |
 | 10 kbm | 4 000 | 100 |
 | 20 kbm | 6 000 | 150 |
 
-<!-- sida 390 -->
+<!-- sida 402 -->
 
 6.5.8 Fastighetsnära hämtning av grovavfall och hämtning av återbruk
 Produkter till återbruk ska vara hela och rena. Varje kolli får som störst ha en volym
@@ -16496,27 +16967,27 @@ avfallsentreprenör.
 
 Kungsbacka kommun                Avfallstaxa                   27 (40)
 
-[Tabell 390-1](handlingar.tabeller/390-1.csv)
+[Tabell 402-1](handlingar.tabeller/402-1.csv)
 
 | Tjänst | Kronor/kolli |
 | --- | --- |
 | Grovavfall och återbruk | 1 570 |
 | Grovavfall och återbruk, tillkommande kollin | 415 |
 
-[Tabell 390-2](handlingar.tabeller/390-2.csv)
+[Tabell 402-2](handlingar.tabeller/402-2.csv)
 
 | Tjänst | Kronor/tillfälle |
 | --- | --- |
 | Miljöbox | 0 |
 
-[Tabell 390-3](handlingar.tabeller/390-3.csv)
+[Tabell 402-3](handlingar.tabeller/402-3.csv)
 
 | Tjänst | Kronor/kolli |
 | --- | --- |
 | Elavfall (vitvaror) | 1 700 |
 | Elavfall (vitvaror), tillkommande kollin | 415 |
 
-[Tabell 390-4](handlingar.tabeller/390-4.csv)
+[Tabell 402-4](handlingar.tabeller/402-4.csv)
 
 | Kärlvolym liter | Maxtaxa<br>kronor/hämtning |
 | --- | --- |
@@ -16524,7 +16995,7 @@ Kungsbacka kommun                Avfallstaxa                   27 (40)
 | 190–370 | 87 |
 | 660 | 154 |
 
-<!-- sida 391 -->
+<!-- sida 403 -->
 
 6.6 Fastighetsnära insamling av bygg- och rivningsavfall
 Tjänsten gäller bygg- och rivningsavfall från privatpersoners egna renoveringar, till
@@ -16542,7 +17013,7 @@ per kubikmeter och eventuell analysavgift tillkommer.
 
 Kungsbacka kommun                Avfallstaxa                   28 (40)
 
-[Tabell 391-1](handlingar.tabeller/391-1.csv)
+[Tabell 403-1](handlingar.tabeller/403-1.csv)
 
 | Tjänst | Maxtaxa kronor/tillfälle |
 | --- | --- |
@@ -16550,7 +17021,7 @@ Kungsbacka kommun                Avfallstaxa                   28 (40)
 | Stor container (19–35 kbm) eller schaktflak (9 kbm) | 5 991 |
 | Dygnshyra från och med dag åtta | 100 |
 
-[Tabell 391-2](handlingar.tabeller/391-2.csv)
+[Tabell 403-2](handlingar.tabeller/403-2.csv)
 
 | Tjänst | Maxtaxa kronor/tillfälle |
 | --- | --- |
@@ -16558,7 +17029,7 @@ Kungsbacka kommun                Avfallstaxa                   28 (40)
 |  | Pris/säck |
 | Köp av storsäck | 235 |
 
-<!-- sida 392 -->
+<!-- sida 404 -->
 
 6.6.3 Behandlingsavgift
 
@@ -16575,7 +17046,7 @@ entreprenören innan beställning om analys behövs.
 
 Kungsbacka kommun                Avfallstaxa                   29 (40)
 
-[Tabell 392-1](handlingar.tabeller/392-1.csv)
+[Tabell 404-1](handlingar.tabeller/404-1.csv)
 
 | Material | Maxtaxa kronor/ton<br>(hämtning<br>i container) | Maxtaxa kronor/<br>kubikmeter<br>(hämtning i<br>storsäck) |
 | --- | --- | --- |
@@ -16588,14 +17059,14 @@ Kungsbacka kommun                Avfallstaxa                   29 (40)
 | Osorterat/sammansatt bygg- och<br>rivningsavfall \* | 2 568 | 2 054 |
 | Övriga typer av sorterat bygg-<br>och rivningsavfall \*\* | 7704 | 2054 |
 
-[Tabell 392-2](handlingar.tabeller/392-2.csv)
+[Tabell 404-2](handlingar.tabeller/404-2.csv)
 
 | Avgift | Maxtaxa/tillfälle |
 | --- | --- |
 | Felsortering container | 4 931 |
 | Felsortering storsäck | 1 541 |
 
-<!-- sida 393 -->
+<!-- sida 405 -->
 
 7\. Taxetabeller och avgifter för verksamheter
 
@@ -16617,7 +17088,7 @@ varannan vecka.
 
 Kungsbacka kommun                Avfallstaxa                   30 (40)
 
-[Tabell 393-1](handlingar.tabeller/393-1.csv)
+[Tabell 405-1](handlingar.tabeller/405-1.csv)
 
 | Kärlvolym<br>liter | Kronor/år |  |  |
 | --- | --- | --- | --- |
@@ -16627,7 +17098,7 @@ Kungsbacka kommun                Avfallstaxa                   30 (40)
 | 370 | 23 030 | 9 600 | 3 370 |
 | 660 | 39 000 | 17 000 | 5 390 |
 
-[Tabell 393-2](handlingar.tabeller/393-2.csv)
+[Tabell 405-2](handlingar.tabeller/405-2.csv)
 
 | Containervolym | Kronor/år |  |
 | --- | --- | --- |
@@ -16635,7 +17106,7 @@ Kungsbacka kommun                Avfallstaxa                   30 (40)
 | Upp till 6 kbm | 85 000 | 42 500 |
 | 6,1–10 kbm | 127 500 | 63 750 |
 
-[Tabell 393-3](handlingar.tabeller/393-3.csv)
+[Tabell 405-3](handlingar.tabeller/405-3.csv)
 
 | Volym<br>komprimatorcontainer | Kronor/år |  |
 | --- | --- | --- |
@@ -16643,7 +17114,7 @@ Kungsbacka kommun                Avfallstaxa                   30 (40)
 | Upp till 6 kbm | 110 225 | 55 110 |
 | 6,1–8 kbm | 165 335 | 82 670 |
 
-<!-- sida 394 -->
+<!-- sida 406 -->
 
 7.2.2 Matavfall i kärl
 Hämtning av matavfall är avgiftsfri i samma hämtningsintervall som
@@ -16667,7 +17138,7 @@ Hämtperioden är vecka 19 till 38.
 
 Kungsbacka kommun                Avfallstaxa                   31 (40)
 
-[Tabell 394-1](handlingar.tabeller/394-1.csv)
+[Tabell 406-1](handlingar.tabeller/406-1.csv)
 
 | Behållarvolym | Kronor/år |  |
 | --- | --- | --- |
@@ -16675,14 +17146,14 @@ Kungsbacka kommun                Avfallstaxa                   31 (40)
 | Upp till 4 kbm | 68 000 | 34 000 |
 | 4,1–6 kbm | 102 000 | 51 000 |
 
-[Tabell 394-2](handlingar.tabeller/394-2.csv)
+[Tabell 406-2](handlingar.tabeller/406-2.csv)
 
 | Behållarvolym | Kronor/år |  |
 | --- | --- | --- |
 |  | Varje vecka | Varannan vecka |
 | Upp till 2 kbm | 34 000 | 17 000 |
 
-[Tabell 394-3](handlingar.tabeller/394-3.csv)
+[Tabell 406-3](handlingar.tabeller/406-3.csv)
 
 | Kärlvolym<br>liter | Kronor/delår |  |  |
 | --- | --- | --- | --- |
@@ -16692,7 +17163,7 @@ Kungsbacka kommun                Avfallstaxa                   31 (40)
 | 370 | 6 330 | 3 165 | 1 110 |
 | 660 | 10 160 | 5 080 | 1 780 |
 
-<!-- sida 395 -->
+<!-- sida 407 -->
 
 7.4.2 Matavfall
 Hämtning av matavfall är avgiftsfri i samma hämtningsintervall som
@@ -16714,7 +17185,7 @@ alternativ som extra tömning.
 
 Kungsbacka kommun                Avfallstaxa                   32 (40)
 
-[Tabell 395-1](handlingar.tabeller/395-1.csv)
+[Tabell 407-1](handlingar.tabeller/407-1.csv)
 
 | Containervolym | Kronor/delår |  |
 | --- | --- | --- |
@@ -16722,7 +17193,7 @@ Kungsbacka kommun                Avfallstaxa                   32 (40)
 | Upp till 6 kbm | 85 000 | 42 500 |
 | 6,1–10 kbm | 127 500 | 63 750 |
 
-[Tabell 395-2](handlingar.tabeller/395-2.csv)
+[Tabell 407-2](handlingar.tabeller/407-2.csv)
 
 | Volym<br>komprimatorcontainer | Kronor/delår |  |
 | --- | --- | --- |
@@ -16730,7 +17201,7 @@ Kungsbacka kommun                Avfallstaxa                   32 (40)
 | Upp till 6 kbm | 48 030 | 23 585 |
 | 6,1–8 kbm | 64 030 | 31 585 |
 
-<!-- sida 396 -->
+<!-- sida 408 -->
 
 7.6 Hämtavgifter delår för krantömda markbehållare
 Insamling av restavfall i krantömda markbehållare kräver att även matavfall samlas
@@ -16747,7 +17218,7 @@ I grundavgiften för verksamheter med avfallsabonnemang ingår 20 besök per år
 
 Kungsbacka kommun                Avfallstaxa                   33 (40)
 
-[Tabell 396-1](handlingar.tabeller/396-1.csv)
+[Tabell 408-1](handlingar.tabeller/408-1.csv)
 
 | Behållarvolym | Kronor/delår |  |
 | --- | --- | --- |
@@ -16755,14 +17226,14 @@ Kungsbacka kommun                Avfallstaxa                   33 (40)
 | Upp till 4 kbm | 34 000 | 17 000 |
 | 4,1–6 kbm | 51 000 | 25 500 |
 
-[Tabell 396-2](handlingar.tabeller/396-2.csv)
+[Tabell 408-2](handlingar.tabeller/408-2.csv)
 
 | Behållarvolym | Kronor/delår |  |
 | --- | --- | --- |
 |  | Varje vecka | Varannan vecka |
 | Upp till 2 kbm | 17 000 | 8 500 |
 
-[Tabell 396-3](handlingar.tabeller/396-3.csv)
+[Tabell 408-3](handlingar.tabeller/408-3.csv)
 
 | Tjänst | Kronor/besök |
 | --- | --- |
@@ -16773,7 +17244,7 @@ Kungsbacka kommun                Avfallstaxa                   33 (40)
 | Tjänst | Kronor/kort |
 | Ersättning av förlorat återvinningskort | 175 |
 
-<!-- sida 397 -->
+<!-- sida 409 -->
 
 7.8 Avgift för behållare vid tillfälliga evenemang och tillställningar
 
@@ -16792,7 +17263,7 @@ vid beställning. Utkörning och hemtagning sker endast helgfria vardagar.
 
 Kungsbacka kommun                Avfallstaxa                   34 (40)
 
-[Tabell 397-1](handlingar.tabeller/397-1.csv)
+[Tabell 409-1](handlingar.tabeller/409-1.csv)
 
 | Behållare | Kronor |
 | --- | --- |
@@ -16800,7 +17271,7 @@ Kungsbacka kommun                Avfallstaxa                   34 (40)
 | Ett 370 liter restavfall och ett 140 liter matavfallskärl | 2 500 |
 | Ett extra 140 liter matavfallskärl | Ingår |
 
-[Tabell 397-2](handlingar.tabeller/397-2.csv)
+[Tabell 409-2](handlingar.tabeller/409-2.csv)
 
 | Behållare | Avgift<br>kronor/container | Hyra/dygn |
 | --- | --- | --- |
@@ -16809,7 +17280,7 @@ Kungsbacka kommun                Avfallstaxa                   34 (40)
 |  | Kronor/kärl |  |
 | Extra 140 liter matavfallskärl | Ingår |  |
 
-<!-- sida 398 -->
+<!-- sida 410 -->
 
 7.9 Tilläggstjänster
 
@@ -16828,7 +17299,7 @@ Vid byte av kärl används i första hand begagnade, rengjorda, kärl.
 
 Kungsbacka kommun                Avfallstaxa                   35 (40)
 
-[Tabell 398-1](handlingar.tabeller/398-1.csv)
+[Tabell 410-1](handlingar.tabeller/410-1.csv)
 
 | Avstånd i meter | Kronor/kärl och tillfälle |
 | --- | --- |
@@ -16836,7 +17307,7 @@ Kungsbacka kommun                Avfallstaxa                   35 (40)
 | 10,1–20 | 35 |
 | 20,1–50 | 70 |
 
-[Tabell 398-2](handlingar.tabeller/398-2.csv)
+[Tabell 410-2](handlingar.tabeller/410-2.csv)
 
 | Avstånd i meter | Kronor/kärl och tillfälle |
 | --- | --- |
@@ -16844,7 +17315,7 @@ Kungsbacka kommun                Avfallstaxa                   35 (40)
 | 10,1–20 | Erbjuds ej |
 | 20,1–50 | Erbjuds ej |
 
-[Tabell 398-3](handlingar.tabeller/398-3.csv)
+[Tabell 410-3](handlingar.tabeller/410-3.csv)
 
 | Tjänst | Kronor/behållare och<br>tillfälle |
 | --- | --- |
@@ -16854,14 +17325,14 @@ Kungsbacka kommun                Avfallstaxa                   35 (40)
 | Extra tömning krantömda markbehållare | 2 000 |
 | Extra säck i samband med ordinarie tömning av kärl | 465 |
 
-[Tabell 398-4](handlingar.tabeller/398-4.csv)
+[Tabell 410-4](handlingar.tabeller/410-4.csv)
 
 | Tjänst | Kronor/behållare och<br>tillfälle |
 | --- | --- |
 | Byte till större kärl eller kärl av samma storlek | 500 |
 | Byte till mindre kärl | 400 |
 
-<!-- sida 399 -->
+<!-- sida 411 -->
 
 7.9.4 Varmkompostering av matavfall
 För att kunna kompostera matavfall på fastigheten måste fastighetsinnehavaren
@@ -16885,33 +17356,33 @@ helgfria vardagar.
 
 Kungsbacka kommun                Avfallstaxa                   36 (40)
 
-[Tabell 399-1](handlingar.tabeller/399-1.csv)
+[Tabell 411-1](handlingar.tabeller/411-1.csv)
 
 | Tjänst | Kronor/år |
 | --- | --- |
 | Varmkompostering | 0 |
 
-[Tabell 399-2](handlingar.tabeller/399-2.csv)
+[Tabell 411-2](handlingar.tabeller/411-2.csv)
 
 | Kärlvolym liter | Kronor/år |
 | --- | --- |
 | 140 | 1000 |
 
-[Tabell 399-3](handlingar.tabeller/399-3.csv)
+[Tabell 411-3](handlingar.tabeller/411-3.csv)
 
 | Kärlvolym liter | Kronor/kärl och år |
 | --- | --- |
 | 240 (nytecknas ej) | 1 800 |
 | 370 | 1 900 |
 
-[Tabell 399-4](handlingar.tabeller/399-4.csv)
+[Tabell 411-4](handlingar.tabeller/411-4.csv)
 
 | Containervolym | Fast avgift<br>kronor/container | Hyra/dygn |
 | --- | --- | --- |
 | 10 kbm | 4 000 | 100 |
 | 20 kbm | 6 000 | 150 |
 
-<!-- sida 400 -->
+<!-- sida 412 -->
 
 7.9.8 Fastighetsnära hämtning av grovavfall och hämtning av återbruk
 Produkter till återbruk ska vara hela och rena. Varje kolli får som störst ha en
@@ -16921,14 +17392,14 @@ vid fastighetsgränsen.
 
 Kungsbacka kommun                Avfallstaxa                   37 (40)
 
-[Tabell 400-1](handlingar.tabeller/400-1.csv)
+[Tabell 412-1](handlingar.tabeller/412-1.csv)
 
 | Tjänst | Kronor/kolli |
 | --- | --- |
 | Grovavfall och återbruk | 1 570 |
 | Grovavfall och återbruk, tillkommande kollin | 415 |
 
-<!-- sida 401 -->
+<!-- sida 413 -->
 
 8\. Avgifter för hämtning av slam,  filtermaterial, latrin
 och fett
@@ -16966,7 +17437,7 @@ Tömningsavgift per toalett tillkommer.
 
 Kungsbacka kommun                Avfallstaxa                   38 (40)
 
-[Tabell 401-1](handlingar.tabeller/401-1.csv)
+[Tabell 413-1](handlingar.tabeller/413-1.csv)
 
 | Tjänst | Kronor/tillfälle |
 | --- | --- |
@@ -16974,7 +17445,7 @@ Kungsbacka kommun                Avfallstaxa                   38 (40)
 | Tjänst | Kronor/toalett |
 | Tömning inklusive spolning och påfyllning av<br>desinfektionsmedel | 300 |
 
-<!-- sida 402 -->
+<!-- sida 414 -->
 
 8.3 Hämtning av latrin
 Behållare som kommunen tillhandahåller ska användas. I tjänsten ingår utkörning av
@@ -16993,13 +17464,13 @@ eller vad som framkommer vid utredning av arbetsmiljö.
 
 Kungsbacka kommun                Avfallstaxa                   39 (40)
 
-[Tabell 402-1](handlingar.tabeller/402-1.csv)
+[Tabell 414-1](handlingar.tabeller/414-1.csv)
 
 | Tjänst | Kronor/behållare |
 | --- | --- |
 | Budad hämtning inklusive nytt latrinkärl | 2 200 |
 
-[Tabell 402-2](handlingar.tabeller/402-2.csv)
+[Tabell 414-2](handlingar.tabeller/414-2.csv)
 
 | Tjänst | Kronor/tillfälle |
 | --- | --- |
@@ -17008,7 +17479,7 @@ Kungsbacka kommun                Avfallstaxa                   39 (40)
 | Hämtning av BDT-filter (bad-, disk- och tvättvatten), till<br>exempel torv | 5 615 |
 | Hämtning av filtermaterial vid överenskommen<br>upphämtningsplats, i upp till fyra säckar, max 15 kg per<br>säck. | 6 255 |
 
-[Tabell 402-3](handlingar.tabeller/402-3.csv)
+[Tabell 414-3](handlingar.tabeller/414-3.csv)
 
 | Tjänst | Kronor/5 meter |
 | --- | --- |
@@ -17018,7 +17489,7 @@ Kungsbacka kommun                Avfallstaxa                   39 (40)
 | Tjänst | Kronor/påbörjad<br>timme |
 | Extra personal vid dubbelbemanning på grund av<br>arbetsmiljöskäl\* | 1 000 |
 
-<!-- sida 403 -->
+<!-- sida 415 -->
 
 9\. Övergångsbestämmelser
 
@@ -17036,7 +17507,7 @@ www.kungsbacka.se
 
 Kungsbacka kommun                Avfallstaxa                   40 (40)
 
-<!-- sida 404 -->
+<!-- sida 416 -->
 
 TJÄNSTESKRIVELSE
 
@@ -17090,7 +17561,7 @@ Enhetschef                                               Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 405 -->
+<!-- sida 417 -->
 
 KUNGSBACKA  KOMMUN
 2 (5)
@@ -17135,7 +17606,7 @@ glas- och metallförpackningar med tömning var fjärde vecka. Standardutbudet f
 förpackningsinsamlingen innebär ingen extra kostnad för invånaren. Extratjänster så som exempelvis
 extra tömningar av kärl kommer att kunna erbjudas, mot en avgift.
 
-<!-- sida 406 -->
+<!-- sida 418 -->
 
 KUNGSBACKA  KOMMUN
 3 (5)
@@ -17184,7 +17655,7 @@ flerbostadshus bidrar med till grundavgifterna fortsatt kommer att vara för lå
 rättvis fördelning mellan hushåll i flerbostadshus och hushåll i småhus, men att strukturen sedan finns,
 för att korrigera detta över ett antal år. Förslaget innebär alltså en stegvis omfördelning av
 
-<!-- sida 407 -->
+<!-- sida 419 -->
 
 KUNGSBACKA  KOMMUN
 4 (5)
@@ -17233,7 +17704,7 @@ Kommunen har tjänster som utförs och debiteras av entreprenörer som kommunen 
 För dessa tjänster fastställer kommunen den högsta avgiften som får debiteras av entreprenören, en så
 kallad maxtaxa.
 
-<!-- sida 408 -->
+<!-- sida 420 -->
 
 KUNGSBACKA  KOMMUN
 5 (5)
@@ -17265,7 +17736,7 @@ fastighetsnära insamlingen av förpackningar.
 Ulrika Granfors               Susanne Edgren
 Förvaltningschef              Tf Verksamhetschef
 
-<!-- sida 409 -->
+<!-- sida 421 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
 Nämnden för Teknik
@@ -17322,7 +17793,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 24847974610F77F42A635DA871BD45DF3F7CF57D13
 Transaktionsidentitet: 1B6E8C630F37B12D97E1D84B023595CEB75CB16F1C
 
-<!-- sida 410 -->
+<!-- sida 422 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (2)
 Nämnden för Teknik
@@ -17340,7 +17811,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 24847974610F77F42A635DA871BD45DF3F7CF57D13
 Transaktionsidentitet: 1B6E8C630F37B12D97E1D84B023595CEB75CB16F1C
 
-<!-- sida 411 -->
+<!-- sida 423 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
 Kommunstyrelsens arbetsutskott
@@ -17395,7 +17866,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7B50ABB8AD5483BDF838EE29D611A5FA7475AA0A44
 Transaktionsidentitet: A816210CB2F043E12D434BDE46172096A243145AB9
 
-<!-- sida 412 -->
+<!-- sida 424 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (2)
 Kommunstyrelsens arbetsutskott
@@ -17417,7 +17888,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7B50ABB8AD5483BDF838EE29D611A5FA7475AA0A44
 Transaktionsidentitet: A816210CB2F043E12D434BDE46172096A243145AB9
 
-<!-- sida 413 -->
+<!-- sida 425 -->
 
 TJÄNSTESKRIVELSE
 
@@ -17473,7 +17944,7 @@ Specialist kvalitet & internkontroll                     Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 414 -->
+<!-- sida 426 -->
 
 KUNGSBACKA  KOMMUN
 2 (5)
@@ -17520,7 +17991,7 @@ perioden oktober 2024 till oktober 2025 visar inget ökat kostnadsläge för mar
 Enligt tidigare beslut om att följa entreprenadindex föreslår nämnden för Teknik oförändrad
 anläggningsavgift för 2027.
 
-<!-- sida 415 -->
+<!-- sida 427 -->
 
 KUNGSBACKA  KOMMUN
 3 (5)
@@ -17569,7 +18040,7 @@ för år 2026 en avgiftsnivå i mittenskiktet.
 Beslut om VA-taxan fattas vanligtvis för ett år i taget vilket också innebär att underlag och
 simuleringar som ligger till grund för föreslagna avgiftsnivåer uppdateras och omprövas årligen.
 
-<!-- sida 416 -->
+<!-- sida 428 -->
 
 KUNGSBACKA  KOMMUN
 4 (5)
@@ -17619,7 +18090,7 @@ i sig är helt lagenligt. Det kan utan lagändring vara svårt att väga upp und
 
 1 Klimat och näringslivsdepartementet KN2025/00833
 
-<!-- sida 417 -->
+<!-- sida 429 -->
 
 KUNGSBACKA  KOMMUN
 5 (5)
@@ -17638,7 +18109,7 @@ Rickard Vidlund                    Anders Johansson
 
 Kommundirektör                     Biträdande kommundirektör
 
-<!-- sida 418 -->
+<!-- sida 430 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (3)
 Nämnden för Teknik
@@ -17697,7 +18168,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 1E69C22682F51141E896A8AF89DDCECC79B1F10A35
 Transaktionsidentitet: 51EC369D3ABB2FE2EBB6C164D7485722E3A268ED3A
 
-<!-- sida 419 -->
+<!-- sida 431 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (3)
 Nämnden för Teknik
@@ -17753,7 +18224,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 1E69C22682F51141E896A8AF89DDCECC79B1F10A35
 Transaktionsidentitet: 51EC369D3ABB2FE2EBB6C164D7485722E3A268ED3A
 
-<!-- sida 420 -->
+<!-- sida 432 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           3 (3)
 Nämnden för Teknik
@@ -17768,7 +18239,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 1E69C22682F51141E896A8AF89DDCECC79B1F10A35
 Transaktionsidentitet: 51EC369D3ABB2FE2EBB6C164D7485722E3A268ED3A
 
-[Tabell 420-1](handlingar.tabeller/420-1.csv)
+[Tabell 432-1](handlingar.tabeller/432-1.csv)
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
@@ -17782,7 +18253,7 @@ Transaktionsidentitet: 51EC369D3ABB2FE2EBB6C164D7485722E3A268ED3A
 | Tobias Eriksson (SD) | X |  |  |
 | Anders Eriksson (C) | X |  |  |
 
-<!-- sida 421 -->
+<!-- sida 433 -->
 
 TJÄNSTESKRIVELSE
 
@@ -17837,7 +18308,7 @@ Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 422 -->
+<!-- sida 434 -->
 
 KUNGSBACKA  KOMMUN
 2 (10)
@@ -17883,7 +18354,7 @@ I takt med att Kungsbacka växer behöver VA-verksamheten också växa. Områden
 VA enligt kommunens VA-utbyggnadsplan kräver investeringar. De större investeringarna som sker är
 bland annat den utbyggnad som genomförs utifrån beslutad VA-utbyggnadsplan men även den
 
-<!-- sida 423 -->
+<!-- sida 435 -->
 
 KUNGSBACKA  KOMMUN
 3 (10)
@@ -17929,7 +18400,7 @@ Entreprenadindex, för perioden oktober 2024 till oktober 2025 visar inget ökat
 markarbeten och rörmaterial. Tidigare beslut om att följa index medför att anläggningsavgiften
 föreslås förbli oförändrad 2027 jämfört med 2026.
 
-<!-- sida 424 -->
+<!-- sida 436 -->
 
 KUNGSBACKA  KOMMUN
 4 (10)
@@ -17978,7 +18449,7 @@ Verksamhetens behov av omfattande investeringar i Hammargårds avloppsreningsver
 enligt VA-utbyggnadsplanen samt ett ökande förnyelsebehov av ledningsnäten medför ett behov av
 ökade intäkter för att möta de ökade kostnaderna.
 
-<!-- sida 425 -->
+<!-- sida 437 -->
 
 KUNGSBACKA  KOMMUN
 5 (10)
@@ -18014,7 +18485,7 @@ taxan idag är 11 680 kr/år eller ca 1000 kr/månad. Kostnaden är något under
 generellt i Sverige. Se figur med alla svenska kommuner där den högsta respektive lägsta avgiften för
 2026, samt avgiften för ett antal närliggande har markerats.
 
-<!-- sida 426 -->
+<!-- sida 438 -->
 
 KUNGSBACKA  KOMMUN
 6 (10)
@@ -18036,7 +18507,7 @@ för Hammargård beräknas vara förbrukad efter 2027.
 Figuren är baserad på beslutad investeringsbudget för 2026 och tillhörande investeringsplan för de
 följande åren.
 
-<!-- sida 427 -->
+<!-- sida 439 -->
 
 KUNGSBACKA  KOMMUN
 7 (10)
@@ -18066,7 +18537,7 @@ Fall 3 enligt Bilaga A, avgiftshöjning som är något mer följsam till verklig
 Ett annat sätt än att ha en helt jämn avgiftshöjning än 11,2% per år i 10 år, är att ha en lite kraftigare
 höjning de närmaste åren för att därefter dämpa den något i slutet av 10-årsperioden.
 
-<!-- sida 428 -->
+<!-- sida 440 -->
 
 KUNGSBACKA  KOMMUN
 8 (10)
@@ -18093,7 +18564,7 @@ med stora osäkerheter. Mycket kan hända på 10 år och vi kan varje år framö
 och balansperiod utifrån hur omvärlden ser ut då. Det är t o m väldigt viktigt att vi varje år gör denna
 typ av analys för att ge goda beslutsunderlag avseende risknivå.
 
-<!-- sida 429 -->
+<!-- sida 441 -->
 
 KUNGSBACKA  KOMMUN
 9 (10)
@@ -18143,7 +18614,7 @@ och balansperiod utifrån hur omvärlden ser ut då. Eftersom Kommunfullmäktige
 taxebeslut är detta beslut i år inte ett beslut som ska gälla i 10 år. Nämnden och Kommunfullmäktige
 har möjlighet att varje år att fatta nya taxebeslut om det skulle vara så att faktorer i omvärlden ger vid
 
-<!-- sida 430 -->
+<!-- sida 442 -->
 
 KUNGSBACKA  KOMMUN
 10 (10)
@@ -18170,7 +18641,7 @@ Ulrika Granfors
 
 Förvaltningschef
 
-<!-- sida 431 -->
+<!-- sida 443 -->
 
 Bilaga A till VA-taxa
 
@@ -18205,7 +18676,7 @@ fallet med skattefinansiering redovisas här, fall 5.
 
 1
 
-<!-- sida 432 -->
+<!-- sida 444 -->
 
 Bilaga A till VA-taxa
 
@@ -18308,7 +18779,7 @@ Fall 1b balans uppnås ej ränta +1%
 2036   11,2
 ```
 
-<!-- sida 433 -->
+<!-- sida 445 -->
 
 Bilaga A till VA-taxa
 
@@ -18406,7 +18877,7 @@ Fall 2 balans uppnås ej 10år
 2036     10
 ```
 
-<!-- sida 434 -->
+<!-- sida 446 -->
 
 Bilaga A till VA-taxa
 
@@ -18573,7 +19044,7 @@ t
 0
 0
 
-<!-- sida 435 -->
+<!-- sida 447 -->
 
 Bilaga A till VA-taxa
 
@@ -18671,7 +19142,7 @@ Balans år 3
 2036      3
 ```
 
-<!-- sida 436 -->
+<!-- sida 448 -->
 
 Vatten          och      avlopp
 
@@ -18691,7 +19162,7 @@ Kungsbacka kommun, 434 81 Kungsbacka
 www.kungsbacka.se33
 Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
-<!-- sida 437 -->
+<!-- sida 449 -->
 
 1\. Inledning
 Denna taxa gäller avgifter för Kungsbacka kommuns allmänna vatten- och
@@ -18744,7 +19215,7 @@ evenemang såsom en idrottstävling eller en cirkus, eller liknande.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        2 (15)
 
-<!-- sida 438 -->
+<!-- sida 450 -->
 
 2\. Allmänt
 § 1
@@ -18792,7 +19263,7 @@ uppställningsplats Kyrkogård
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        3 (15)
 
-<!-- sida 439 -->
+<!-- sida 451 -->
 
 Obebyggd fastighet: fastighet som enligt detaljplan är avsedd för bebyggande, men
 inte ännu bebyggts.
@@ -18842,14 +19313,14 @@ V, vattenförsörjning             Ja              Ja
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        4 (15)
 
-[Tabell 439-1](handlingar.tabeller/439-1.csv)
+[Tabell 451-1](handlingar.tabeller/451-1.csv)
 
 | S, spillvattenavlopp | Ja | Ja |
 | --- | --- | --- |
 | Df, dag- och dränvattenavlopp från fastighet | Ja | Ja |
 | Dg, dagvattenavlopp från allmän platsmark | Ja | Ja |
 
-<!-- sida 440 -->
+<!-- sida 452 -->
 
 4.2
 
@@ -18911,7 +19382,7 @@ ut, reduceras avgift enligt 5.1 a) och b) med delen Df, eftersom servisledning o
 lagts eller upprättats.
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        5 (15)
 
-<!-- sida 441 -->
+<!-- sida 453 -->
 
 5.2
 
@@ -18961,7 +19432,7 @@ tillkommande Tomtyta som kommer från fastighet för vilken Tomtyteavgift inte
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        6 (15)
 
-<!-- sida 442 -->
+<!-- sida 454 -->
 
 tidigare ska anses ha betalats. Vid beräkning av avgift för tillkommande Tomtyta ska
 begränsningsregeln i 5.3 iakttas.
@@ -19018,7 +19489,7 @@ och resterande Tomtyteavgift förfaller till betalning.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        7 (15)
 
-<!-- sida 443 -->
+<!-- sida 455 -->
 
 Utestående belopp löper med ränta enligt 5 § räntelagen (1975:635) från den dagen
 anståndet beviljades tills anståndet upphör. För tid därefter utgår dröjsmålsränta
@@ -19057,7 +19528,7 @@ enligt 5.1 a), b) och e), jämför 5.3 andra stycket.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        8 (15)
 
-[Tabell 443-1](handlingar.tabeller/443-1.csv)
+[Tabell 455-1](handlingar.tabeller/455-1.csv)
 
 |  |  | Bostadsfastighet |  | Annan fastighet |
 | --- | --- | --- | --- | --- |
@@ -19067,7 +19538,7 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        8 (15)
 | Bostadsenhetsavgift | 5.1 d) | 0% | - |  |
 | Avgift för Dagvatten utan att<br>förbindelsepunkt upprättas | 5.1 e) | 100% | 6.1 d) | 100% |
 
-<!-- sida 444 -->
+<!-- sida 456 -->
 
 7.2
 
@@ -19114,20 +19585,20 @@ Sedan avgiftsskyldighet inträtt, ska avgift betalas inom tid som anges i räkni
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        9 (15)
 
-[Tabell 444-1](handlingar.tabeller/444-1.csv)
+[Tabell 456-1](handlingar.tabeller/456-1.csv)
 
 |  |  | Bostadsfastighet |  | Annan fastighet |
 | --- | --- | --- | --- | --- |
 | Tomtyteavgift | 5.1 c) | \*) | 6.1 c) | 30% |
 | Bostadsenhetsavgift | 5.1 d) | 100% | - |  |
 
-[Tabell 444-2](handlingar.tabeller/444-2.csv)
+[Tabell 456-2](handlingar.tabeller/456-2.csv)
 
 |  | Utan moms | Med moms |
 | --- | --- | --- |
 | En avgift per m2 Allmän platsmark för bortledning<br>av dagvatten | om 22,66 kr | om 28,84 kr |
 
-<!-- sida 445 -->
+<!-- sida 457 -->
 
 11.2
 
@@ -19181,7 +19652,7 @@ servisledningens ålder och skick.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        10 (15)
 
-<!-- sida 446 -->
+<!-- sida 458 -->
 
 § 13
 
@@ -19231,7 +19702,7 @@ antas den förbrukade vattenmängden uppgå till 50 m³ per Bostadsenhet.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        11 (15)
 
-<!-- sida 447 -->
+<!-- sida 459 -->
 
 14.4
 
@@ -19276,13 +19747,13 @@ Avgiften gäller vattenkiosken ”Varla stockar/ Tölö tvärled”.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        12 (15)
 
-[Tabell 447-1](handlingar.tabeller/447-1.csv)
+[Tabell 459-1](handlingar.tabeller/459-1.csv)
 
 | b) | En avgift per m³ hämtat dricksvatten | 26,40 kr |
 | --- | --- | --- |
 | c) | En avgift per m³ hämtat å-vatten\* | 5 kr |
 
-<!-- sida 448 -->
+<!-- sida 460 -->
 
 § 15
 
@@ -19319,7 +19790,7 @@ En Grundavgift per år 14.1 a) 480 kr 480 kr
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        13 (15)
 
-<!-- sida 449 -->
+<!-- sida 461 -->
 
 § 18
 
@@ -19373,7 +19844,7 @@ betalningen skulle skett.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        14 (15)
 
-<!-- sida 450 -->
+<!-- sida 462 -->
 
 Om huvudmannen har beslutat att mätaravläsning inte ska ske inför varje
 debitering, får mellanliggande debiteringar ske efter uppskattad förbrukning.
@@ -19414,7 +19885,7 @@ och tolkning av denna taxa prövas av mark- och miljödomstolen enligt 53 § lag
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        15 (15)
 
-<!-- sida 451 -->
+<!-- sida 463 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (1)
 Kommunstyrelsens arbetsutskott
@@ -19470,7 +19941,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7B50ABB8AD5483BDF838EE29D611A5FA7475AA0A44
 Transaktionsidentitet: A816210CB2F043E12D434BDE46172096A243145AB9
 
-<!-- sida 452 -->
+<!-- sida 464 -->
 
 TJÄNSTESKRIVELSE
 
@@ -19523,7 +19994,7 @@ Specialist kvalitet & internkontroll                     Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 453 -->
+<!-- sida 465 -->
 
 KUNGSBACKA  KOMMUN
 2 (3)
@@ -19571,7 +20042,7 @@ Förslaget till ändringar i taxan för 2027 är en del i handlingsplanen.
 
 1 Riktlinjer för Kungsbacka bredbandsnät, Nämnden för Teknik 2018-12-12, §136
 
-<!-- sida 454 -->
+<!-- sida 466 -->
 
 KUNGSBACKA  KOMMUN
 3 (3)
@@ -19604,7 +20075,7 @@ förändringarna i prisbasbeloppet som beskrivs i taxans bestämmelse 3.8 KPI-ju
 Rickard Vidlund                    Anders Johansson
 Kommundirektör                     Biträdande kommundirektör
 
-<!-- sida 455 -->
+<!-- sida 467 -->
 
 Bredbandstaxa                        2027
 
@@ -19620,7 +20091,7 @@ Kungsbacka kommun, 434 81 Kungsbacka
 
 Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
-<!-- sida 456 -->
+<!-- sida 468 -->
 
 1\. Om Kungsbacka    Bredbandsnät
 Kungsbacka bredbandsnät har sedan 2010 på uppdrag av Kommunfullmäktige
@@ -19672,7 +20143,7 @@ brett tjänsteutbud och lägre priser.
 
 Kungsbacka kommun             Bredbandstaxa 2027               2 (10)
 
-<!-- sida 457 -->
+<!-- sida 469 -->
 
 3\.       Tjänster och  avgifter
 
@@ -19691,7 +20162,7 @@ perioder som planeras årsvis.
 
 Kungsbacka kommun             Bredbandstaxa 2027               3 (10)
 
-[Tabell 457-458-1](handlingar.tabeller/457-458-1.csv)
+[Tabell 469-470-1](handlingar.tabeller/469-470-1.csv)
 
 | Anslutningsavgift | Engångsavgift\* |
 | --- | --- |
@@ -19704,7 +20175,7 @@ Kungsbacka kommun             Bredbandstaxa 2027               3 (10)
 | Svartfiber | Offert\*\* |
 | Kapacitet | Offert\*\* |
 
-<!-- sida 458 -->
+<!-- sida 470 -->
 
 \*Priser angivna inklusive moms.
 
@@ -19737,21 +20208,21 @@ Fiberpar
 
 Kungsbacka kommun             Bredbandstaxa 2027               4 (10)
 
-[Tabell 458-1](handlingar.tabeller/458-1.csv)
+[Tabell 470-1](handlingar.tabeller/470-1.csv)
 
 |  | 12 mån | 24 mån | >24 mån |
 | --- | --- | --- | --- |
 | Månadsavgift upp till 500m | 1 800 kr | 1 650 kr | Offert |
 | Månadsavgift, påbörjade<br>ytterligare 500m | 480 kr | 440 kr | Offert |
 
-[Tabell 458-2](handlingar.tabeller/458-2.csv)
+[Tabell 470-2](handlingar.tabeller/470-2.csv)
 
 |  | 12 mån | 24 mån | >24 mån |
 | --- | --- | --- | --- |
 | Månadsavgift upp till 500m | 2 880 kr | 2 640 kr | Offert |
 | Månadsavgift, påbörjade<br>ytterligare 500m | 600 kr | 550 kr | Offert |
 
-<!-- sida 459 -->
+<!-- sida 471 -->
 
 3.3      Kapacitet (Ethernet)
 Kapacitetstjänster debiteras en anslutningsavgift (engångsavgift) i samband med
@@ -19774,7 +20245,7 @@ Villkor för inplacering enligt Cesar2 version 3.1.
 
 Kungsbacka kommun             Bredbandstaxa 2027               5 (10)
 
-[Tabell 459-1](handlingar.tabeller/459-1.csv)
+[Tabell 471-1](handlingar.tabeller/471-1.csv)
 
 |  | 12 mån | 24 mån | >24 mån |
 | --- | --- | --- | --- |
@@ -19784,32 +20255,32 @@ Kungsbacka kommun             Bredbandstaxa 2027               5 (10)
 | Månadsavgift – 10 Gbit/s full-duplex | Offert | Offert | Offert |
 | Övriga kapacitetstjänster/Ethernettjänster/<br>Radiolänk | Offert | Offert | Offert |
 
-[Tabell 459-2](handlingar.tabeller/459-2.csv)
+[Tabell 471-2](handlingar.tabeller/471-2.csv)
 
 | MeetMe A | Antal | Engångsavgift | Månadsavgift |
 | --- | --- | --- | --- |
 | Dimensionering utrustning/stativplats | 42U | 10 000 kr | 8 000 kr |
 | UPS 230VAC, 10A A-B kraft, med<br>drifttid 24 timmar | 2000W | 2 500 kr | El/kyla faktisk<br>förbrukning per månad |
 
-[Tabell 459-3](handlingar.tabeller/459-3.csv)
+[Tabell 471-3](handlingar.tabeller/471-3.csv)
 
 | MeetMe B | Antal | Engångsavgift | Månadsavgift |
 | --- | --- | --- | --- |
 | Dimensionering utrustning/stativplats | 42U | 10 000 kr | 6 900 kr |
 | UPS 230VAC, 10A A-B kraft, med drifttid<br>24 timmar | 2000W | 2 500 kr | El/kyla faktisk<br>förbrukning per månad |
 
-[Tabell 459-4](handlingar.tabeller/459-4.csv)
+[Tabell 471-4](handlingar.tabeller/471-4.csv)
 
 | MeetMe C | Antal | Engångsavgift | Månadsavgift |
 | --- | --- | --- | --- |
 | Dimensionering utrustning/stativplats | 42U | 10 000 kr | 5 800 kr |
 | UPS 230VAC, 10A A-B kraft, med drifttid<br>4 timmar | 2000W | 2 500 kr | El/kyla faktisk<br>förbrukning per månad |
 
-<!-- sida 460 -->
+<!-- sida 472 -->
 
 Kungsbacka kommun             Bredbandstaxa 2027               6 (10)
 
-[Tabell 460-1](handlingar.tabeller/460-1.csv)
+[Tabell 472-1](handlingar.tabeller/472-1.csv)
 
 | Områdesnod – Rack - Mellan | Antal | Engångsavgift | Månadsavgift |  |
 | --- | --- | --- | --- | --- |
@@ -19818,7 +20289,7 @@ Kungsbacka kommun             Bredbandstaxa 2027               6 (10)
 | UPS 230VAC, 10A, Drifttid minst 2<br>timmar | 2000W | 10 000 kr | 2 565 kr |  |
 | Option extra UPS 230VAC, 10A, 2<br>timmar (drifttid minst 4timmar) | 2000W | 10 000 kr |  | 2 565 kr |
 
-[Tabell 460-2](handlingar.tabeller/460-2.csv)
+[Tabell 472-2](handlingar.tabeller/472-2.csv)
 
 | Områdesnod - Mellan | Antal | Engångsavgift | Månadsavgift |
 | --- | --- | --- | --- |
@@ -19829,7 +20300,7 @@ Kungsbacka kommun             Bredbandstaxa 2027               6 (10)
 | Option Extra effektuttag UPS 230VAC,<br>10A, Drifttid minst 2 timmar | 350W | 10 000 kr | 450 kr |
 | Option extra UPS 230VAC, 10A, 2<br>timmar (drifttid minst 4 timmar) | 350W | 10 000 kr | 450 kr |
 
-[Tabell 460-3](handlingar.tabeller/460-3.csv)
+[Tabell 472-3](handlingar.tabeller/472-3.csv)
 
 | Områdesnod - Liten | Antal | Engångsavgift | Månadsavgift |
 | --- | --- | --- | --- |
@@ -19840,7 +20311,7 @@ Kungsbacka kommun             Bredbandstaxa 2027               6 (10)
 | Option Extra effektuttag UPS 230VAC,<br>10A, Drifttid minst 2 timmar | 350W | 10 000 kr | 450 kr |
 | Option Extra UPS 230VAC, 10A, 2<br>timmar (drifttid minst 4 timmar) | 350W | 10 000 kr | 450 kr |
 
-<!-- sida 461 -->
+<!-- sida 473 -->
 
 3.5      Servicevillkor & servicenivåer
 Nedanstående servicenivåer gäller för tjänster och produkter specificerad i
@@ -19884,7 +20355,7 @@ vid tillfället har avtal som totalt omsätter respektive belopp i tabellen neda
 
 Kungsbacka kommun             Bredbandstaxa 2027               7 (10)
 
-[Tabell 461-1](handlingar.tabeller/461-1.csv)
+[Tabell 473-1](handlingar.tabeller/473-1.csv)
 
 | Befintlig omsättning per månad | Rabatt på ny offert |
 | --- | --- |
@@ -19892,7 +20363,7 @@ Kungsbacka kommun             Bredbandstaxa 2027               7 (10)
 | > 40 000 kr | 10% |
 | > 80 000 kr | 20% |
 
-<!-- sida 462 -->
+<!-- sida 474 -->
 
 3.7      Övriga arbeten
 Avgift för fibertekniker som debiteras slutkund vid exempelvis åtgärd av skada på
@@ -19927,13 +20398,13 @@ resterande prisjustering under 2028.
 
 Kungsbacka kommun             Bredbandstaxa 2027               8 (10)
 
-[Tabell 462-1](handlingar.tabeller/462-1.csv)
+[Tabell 474-1](handlingar.tabeller/474-1.csv)
 
 | Arbete | Pris \* | Förklaring |
 | --- | --- | --- |
 | Fibertekniker | 800 kr | Per påbörjad timme. Helgfri vardag<br>kl.08-16 |
 
-<!-- sida 463 -->
+<!-- sida 475 -->
 
 Bilaga 1. Begreppsordlista
 
@@ -19989,7 +20460,7 @@ teknikplattformen” mellan nätägaren (Kungsbacka bredbandsnät),
 
 Kungsbacka kommun             Bredbandstaxa 2027               9 (10)
 
-<!-- sida 464 -->
+<!-- sida 476 -->
 
 tjänsteleverantörerna som levererar internet, TV, telefoni eller andra digitala tjänster
 och slutkunderna i form av hushåll och företag som köper tjänsterna.
@@ -20016,7 +20487,7 @@ utrustning + drift + tjänsteleverantörer.
 
 Kungsbacka kommun             Bredbandstaxa 2027              10 (10)
 
-<!-- sida 465 -->
+<!-- sida 477 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
 Nämnden för Teknik
@@ -20072,7 +20543,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 24847974610F77F42A635DA871BD45DF3F7CF57D13
 Transaktionsidentitet: 1B6E8C630F37B12D97E1D84B023595CEB75CB16F1C
 
-<!-- sida 466 -->
+<!-- sida 478 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (2)
 Nämnden för Teknik
@@ -20099,7 +20570,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 24847974610F77F42A635DA871BD45DF3F7CF57D13
 Transaktionsidentitet: 1B6E8C630F37B12D97E1D84B023595CEB75CB16F1C
 
-<!-- sida 467 -->
+<!-- sida 479 -->
 
 TJÄNSTESKRIVELSE
 
@@ -20153,7 +20624,7 @@ Nämndsekreterare                                         Stadshuset, Storgatan 
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 468 -->
+<!-- sida 480 -->
 
 KUNGSBACKA  KOMMUN
 2 (10)
@@ -20201,7 +20672,7 @@ kommunikationsoperatör. Kungsbacka Bredbandsnät levererar således inga egna t
 vare det öppna nätet uppnås full konkurrens mellan de olika leverantörerna vilket gynnar medborgare
 och företag genom ett brett tjänsteutbud och lägre priser.
 
-<!-- sida 469 -->
+<!-- sida 481 -->
 
 KUNGSBACKA  KOMMUN
 3 (10)
@@ -20249,7 +20720,7 @@ Kungsbacka Bredbandsnät har arbetat och fortsätter arbeta med att både minska
 intäkterna för att verksamheten ska vara i balans mellan intäkter och kostnader. De åtgärder som
 bedöms ha störst effekt är:
 
-<!-- sida 470 -->
+<!-- sida 482 -->
 
 KUNGSBACKA  KOMMUN
 4 (10)
@@ -20295,7 +20766,7 @@ budget i balans och den höjning som föreslås i denna skrivelse är en del i d
 Föreslagna förändringar till taxa 2027
 1\. Lämna pris på offert ändras från 36 till 24 månader för svartfiber och kapacitet
 
-<!-- sida 471 -->
+<!-- sida 483 -->
 
 KUNGSBACKA  KOMMUN
 5 (10)
@@ -20342,7 +20813,7 @@ månader samt att förvaltningens förslag är att nedanstående produkt- och pr
 kommunal och extern verksamhet. Produkt- och prislistan är inte förändrad för företag mellan 2026
 och 2027.
 
-<!-- sida 472 -->
+<!-- sida 484 -->
 
 KUNGSBACKA  KOMMUN
 6 (10)
@@ -20354,7 +20825,7 @@ tjänsten ”redundans” införs i taxan samt att förvaltningens förslag är 
 prislista även gäller för kommunal verksamhet. Produkt- och prislistan är inte förändrad för företag
 mellan 2026 och 2027.
 
-[Tabell 472-1](handlingar.tabeller/472-1.csv)
+[Tabell 484-1](handlingar.tabeller/484-1.csv)
 
 | Svartfiber |  |  |  |
 | --- | --- | --- | --- |
@@ -20365,7 +20836,7 @@ mellan 2026 och 2027.
 | Månadsavgift upp till 500m | 1 800 kr | 1 650 kr | Offert |
 | Månadsavgift, påbörjade ytterligare<br>500m | 480 kr | 440 kr |  |
 
-[Tabell 472-2](handlingar.tabeller/472-2.csv)
+[Tabell 484-2](handlingar.tabeller/484-2.csv)
 
 | Kapacitet (Ethernet) | 12 mån | 24 mån | >24mån |
 | --- | --- | --- | --- |
@@ -20376,7 +20847,7 @@ mellan 2026 och 2027.
 | Övriga<br>kapacitetstjänster/Ethernettjänster/<br>Radiolänk | Offert | Offert | Offert |
 | Redundans 60% månadskostnad | 60% | 60% | 60% |
 
-<!-- sida 473 -->
+<!-- sida 485 -->
 
 KUNGSBACKA  KOMMUN
 7 (10)
@@ -20404,7 +20875,7 @@ förslag;
 
 1\. Alternativ 1; En stegvis förändring från 2027 med fullständig justering 2028
 
-[Tabell 473-1](handlingar.tabeller/473-1.csv)
+[Tabell 485-1](handlingar.tabeller/485-1.csv)
 
 | Förskola & Grundskola | 2 227 908 kr | - kr | 2 227 908 kr |
 | --- | --- | --- | --- |
@@ -20416,7 +20887,7 @@ förslag;
 | Teknik (fr a VA) | 2 329 320 kr | 652 800 kr | 2 982 120 kr |
 | Vård & Omsorg | 632 628 kr | - kr | 632 628 kr |
 
-<!-- sida 474 -->
+<!-- sida 486 -->
 
 KUNGSBACKA  KOMMUN
 8 (10)
@@ -20444,7 +20915,7 @@ av förändringar i produkter och priser.
 •  Förändringen består både av de nya produkter som presenterats för nollalternativet och
 justerade priser
 
-[Tabell 474-1](handlingar.tabeller/474-1.csv)
+[Tabell 486-1](handlingar.tabeller/486-1.csv)
 
 | Förskola & Grundskola | 2 227 908 kr | 378 480 kr | 2 606 388 kr |
 | --- | --- | --- | --- |
@@ -20456,7 +20927,7 @@ justerade priser
 | Vård & Omsorg | 632 628 kr | 89 436 kr | 722 064 kr |
 | Kommunledningskontoret | 58 860 kr | 15 714 kr | 74 574 kr |
 
-<!-- sida 475 -->
+<!-- sida 487 -->
 
 KUNGSBACKA  KOMMUN
 9 (10)
@@ -20482,7 +20953,7 @@ av förändringar i produkter och priser.
 •  Förändringen består av nya produkter och justerade priser
 •  En full förändring i pris och produktutbud till 2027
 
-[Tabell 475-1](handlingar.tabeller/475-1.csv)
+[Tabell 487-1](handlingar.tabeller/487-1.csv)
 
 | Förskola & Grundskola | 2 227 908 kr | 756 960 kr | 2 984 868 kr |
 | --- | --- | --- | --- |
@@ -20494,7 +20965,7 @@ av förändringar i produkter och priser.
 | Vård & Omsorg | 632 628 kr | 178 872 kr | 811 500 kr |
 | Kommunledningskontoret | 58 860 kr | 31 428 kr | 90 288 kr |
 
-<!-- sida 476 -->
+<!-- sida 488 -->
 
 KUNGSBACKA  KOMMUN
 10 (10)
@@ -20514,7 +20985,7 @@ Ulrika Granfors                    Susanne Edgren
 
 Förvaltningschef, Teknik           Tf Verksamhetschef VAB & P&B, Teknik
 
-<!-- sida 477 -->
+<!-- sida 489 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
 Kommunstyrelsens arbetsutskott
@@ -20573,7 +21044,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7B50ABB8AD5483BDF838EE29D611A5FA7475AA0A44
 Transaktionsidentitet: A816210CB2F043E12D434BDE46172096A243145AB9
 
-<!-- sida 478 -->
+<!-- sida 490 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (2)
 Kommunstyrelsens arbetsutskott
@@ -20604,7 +21075,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7B50ABB8AD5483BDF838EE29D611A5FA7475AA0A44
 Transaktionsidentitet: A816210CB2F043E12D434BDE46172096A243145AB9
 
-<!-- sida 479 -->
+<!-- sida 491 -->
 
 TJÄNSTESKRIVELSE
 
@@ -20659,7 +21130,7 @@ Specialist kvalitet & internkontroll                     Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 480 -->
+<!-- sida 492 -->
 
 KUNGSBACKA  KOMMUN
 2 (3)
@@ -20709,7 +21180,7 @@ schablontider har setts över och för flertalet poster med fast avgift har den 
 
 justeras något nedåt. I övrigt är det timdebitering enligt beslutad timavgift, som föreslås oförändrad.
 
-<!-- sida 481 -->
+<!-- sida 493 -->
 
 KUNGSBACKA  KOMMUN
 3 (3)
@@ -20754,7 +21225,7 @@ användas för annan debiterbar prövning eller tillsyn.
 Rickard Vidlund                    Anders Johansson
 Kommundirektör                     Biträdande kommundirektör
 
-<!-- sida 482 -->
+<!-- sida 494 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (3)
 Nämnden för Miljö & Hälsoskydd
@@ -20812,7 +21283,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 30A361B4DF97BBC25B42E5891222577287B99FC5F4
 Transaktionsidentitet: 1BED63DBB81F3289921DF118976DB7714F31FC7418
 
-<!-- sida 483 -->
+<!-- sida 495 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (3)
 Nämnden för Miljö & Hälsoskydd
@@ -20870,7 +21341,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 30A361B4DF97BBC25B42E5891222577287B99FC5F4
 Transaktionsidentitet: 1BED63DBB81F3289921DF118976DB7714F31FC7418
 
-<!-- sida 484 -->
+<!-- sida 496 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           3 (3)
 Nämnden för Miljö & Hälsoskydd
@@ -20889,7 +21360,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 30A361B4DF97BBC25B42E5891222577287B99FC5F4
 Transaktionsidentitet: 1BED63DBB81F3289921DF118976DB7714F31FC7418
 
-<!-- sida 485 -->
+<!-- sida 497 -->
 
 TJÄNSTESKRIVELSE
 
@@ -20942,7 +21413,7 @@ Nämndsekreterare                                         Stadshuset, Storgatan 
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 486 -->
+<!-- sida 498 -->
 
 KUNGSBACKA  KOMMUN
 2 (7)
@@ -20988,7 +21459,7 @@ Beslutet skickas till
 Kommunfullmäktige
 Byggnadsnämnden
 
-<!-- sida 487 -->
+<!-- sida 499 -->
 
 KUNGSBACKA  KOMMUN
 3 (7)
@@ -21037,7 +21508,7 @@ tillsynen på dessa verksamheter. Beloppen verksamheterna debiteras årligen bed
 oförändrad, cirka 1,2 miljoner kronor. Den ekonomiska konsekvensen av förändringen bedöms därför
 vara liten.
 
-<!-- sida 488 -->
+<!-- sida 500 -->
 
 KUNGSBACKA  KOMMUN
 4 (7)
@@ -21086,7 +21557,7 @@ Nämnden för Miljö & Hälsoskydd föreslår kommunfullmäktige att fortsatt de
 
 Miljö & Hälsoskydd att årligen justera avgiftsbeloppen enligt PKV som publiceras av SKR.
 
-<!-- sida 489 -->
+<!-- sida 501 -->
 
 KUNGSBACKA  KOMMUN
 5 (7)
@@ -21108,7 +21579,7 @@ Taxebestämmelser:
 
 •  Basår för uppräkning 2026 i 6 §
 
-[Tabell 489-1](handlingar.tabeller/489-1.csv)
+[Tabell 501-1](handlingar.tabeller/501-1.csv)
 
 | Kommun | Timtaxa Miljöbalken 2026<br>(kr/tim) |
 | --- | --- |
@@ -21128,7 +21599,7 @@ Taxebestämmelser:
 | Kungsbacka | 1391 |
 | Halmstad | 1513 |
 
-<!-- sida 490 -->
+<!-- sida 502 -->
 
 KUNGSBACKA  KOMMUN
 6 (7)
@@ -21178,7 +21649,7 @@ skyldighet att lämna avfall till kommunen.
 
 •  Lagstöd finns inte längre med i taxebilaga 1.
 
-<!-- sida 491 -->
+<!-- sida 503 -->
 
 KUNGSBACKA  KOMMUN
 7 (7)
@@ -21205,7 +21676,7 @@ Katarina Öryd                 Tina Carlson
 
 Förvaltningschef              Verksamhetschef
 
-<!-- sida 492 -->
+<!-- sida 504 -->
 
 Taxa        för    prövning              och
 
@@ -21231,7 +21702,7 @@ www.kungsbacka.se
 
 Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
-<!-- sida 493 -->
+<!-- sida 505 -->
 
 Innehåll
 
@@ -21276,7 +21747,7 @@ Avsnitt 4 - Taxebilaga 3: Timavgifter för tillsyn inom miljöbalkens område (e
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     2 (49)
 
-<!-- sida 494 -->
+<!-- sida 506 -->
 
 Avsnitt 1 - Taxebestämmelser
 
@@ -21334,7 +21805,7 @@ inom miljöbalkens tillämpningsområde, överklagas.
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     3 (49)
 
-<!-- sida 495 -->
+<!-- sida 507 -->
 
 4 §
 Beslut om avgift eller beslut om nedsättning eller efterskänkning av avgift enligt
@@ -21392,7 +21863,7 @@ ordinarie timtaxan.
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     4 (49)
 
-<!-- sida 496 -->
+<!-- sida 508 -->
 
 1.4 Avgifter för ansökningar om tillstånd, dispens eller undantag
 10 §
@@ -21451,7 +21922,7 @@ taxebilaga 1.
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     5 (49)
 
-<!-- sida 497 -->
+<!-- sida 509 -->
 
 Avgift med anledning av handläggning av anmälan ska betalas för varje
 avgiftsbelagt ärende som anmälan avser. Om en anmälan omfattar flera
@@ -21508,7 +21979,7 @@ verksamhetsgrupp har en rubrik. Endast en avgift inom varje verksamhetsgrupp ska
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     6 (49)
 
-<!-- sida 498 -->
+<!-- sida 510 -->
 
 ingå i beräkningen av tillsynsavgiften. Det avgiften ska motsvara den högsta
 avgiften som verksamheten omfattas av inom verksamhetsgruppen.
@@ -21563,7 +22034,7 @@ offentliggjorts.
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     7 (49)
 
-<!-- sida 499 -->
+<!-- sida 511 -->
 
 När verksamhetens årliga tillsynsavgift enligt bilaga 2 är lägre än tilläggsavgiften,
 ska tilläggsavgiften endast tas ut med ett belopp som motsvarar den årliga
@@ -21620,7 +22091,7 @@ eller vidta åtgärd som föranleder avgiften. Avgift för tillsyn över miljös
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     8 (49)
 
-<!-- sida 500 -->
+<!-- sida 512 -->
 
 kap. miljöbalken ska betalas av den som enligt 10 kap. miljöbalken är ansvarig för
 avhjälpande eller kostnader.
@@ -21678,7 +22149,7 @@ ska ske inom tid som anges i beslutet om avgift eller i faktura.
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     9 (49)
 
-<!-- sida 501 -->
+<!-- sida 513 -->
 
 1.11.3 Verkställighetsfrågor och överklagande
 36 §
@@ -21706,7 +22177,7 @@ undantag eller anmälningar som kommit in till kommunen före denna dag.
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     10 (49)
 
-<!-- sida 502 -->
+<!-- sida 514 -->
 
 Avsnitt 2 - Taxebilaga 1: Avgifter för prövning och
 tillsyn inom miljöbalkens  område
@@ -21719,7 +22190,7 @@ taxebilaga 3.
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     11 (49)
 
-[Tabell 502-505-1](handlingar.tabeller/502-505-1.csv)
+[Tabell 514-517-1](handlingar.tabeller/514-517-1.csv)
 
 | MILJÖBALKEN (1998:808) |  |  |  |
 | --- | --- | --- | --- |
@@ -21813,19 +22284,19 @@ Kungsbacka kommun            Taxa för prövning och tillsyn     11 (49)
 |  | ÄRENDEN ENLIGT 26 KAP MILJÖBALKEN |  |  |
 | 70 | Utförande av tillsyn avseende stängselgenombrott, om länsstyrelsen har överlåtit<br>uppgiften att utöva tillsyn. | Timavgift |  |
 
-<!-- sida 503 -->
+<!-- sida 515 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     12 (49)
 
-<!-- sida 504 -->
+<!-- sida 516 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     13 (49)
 
-<!-- sida 505 -->
+<!-- sida 517 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     14 (49)
 
-<!-- sida 506 -->
+<!-- sida 518 -->
 
 2.2 Strålskyddslag
 
@@ -21839,35 +22310,35 @@ skyltning
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     15 (49)
 
-[Tabell 506-1](handlingar.tabeller/506-1.csv)
+[Tabell 518-1](handlingar.tabeller/518-1.csv)
 
 | STRÅLSKYDDSLAG (2018:396)<br>STRÅLSÄKERHETSMYNDIGHETENS FÖRESKRIFTER OM KOSMETISKA SOLARIER OCH ARTIFICIELLA<br>SOLNINGSANLÄGGNINGAR (SSMFS 2025:1) |  |  |  |
 | --- | --- | --- | --- |
 | Radnr | Beskrivning | Avgiftstyp | Avgift |
 | 1 | Handläggning och andra åtgärder med anledning av ansökan om tillstånd,<br>anmälan och tillsyn enligt strålskyddslagen. | Timavgift |  |
 
-[Tabell 506-2](handlingar.tabeller/506-2.csv)
+[Tabell 518-2](handlingar.tabeller/518-2.csv)
 
 | LAG (2014:799) OM SPRÄNGÄMNESPREKURSORER |  |  |  |
 | --- | --- | --- | --- |
 | Radnr | Beskrivning | Avgiftstyp | Avgift |
 | 1 | För tillsyn enligt lagen om sprängämnesprekursorer. | Timavgift |  |
 
-[Tabell 506-3](handlingar.tabeller/506-3.csv)
+[Tabell 518-3](handlingar.tabeller/518-3.csv)
 
 | LAG (1998:814) MED SÄRSKILDA BESTÄMMELSER OM GATURENHÅLLNING OCH SKYLTNING |  |  |  |
 | --- | --- | --- | --- |
 | Radnr | Beskrivning | Avgiftstyp | Avgift |
 | 1 | För tillsyn enligt lag om gaturenhållning och skyltning. | Timavgift |  |
 
-[Tabell 506-4](handlingar.tabeller/506-4.csv)
+[Tabell 518-4](handlingar.tabeller/518-4.csv)
 
 | LAG (1980:424) OM ÅTGÄRDER MOT FÖRORENING FRÅN FARTYG |  |  |  |
 | --- | --- | --- | --- |
 | Radnr | Beskrivning | Avgiftstyp | Avgift |
 | 1 | För tillsyn enligt lag om åtgärder mot förorening från fartyg | Timavgift |  |
 
-<!-- sida 507 -->
+<!-- sida 519 -->
 
 Avsnitt 3 - Taxebilaga  2: Fasta årliga avgifter för tillsyn
 inom  miljöbalkens  område   (förskott)
@@ -21886,7 +22357,7 @@ tillkommer ett generellt tillägg med 20 timmar.
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     16 (49)
 
-[Tabell 507-537-1](handlingar.tabeller/507-537-1.csv)
+[Tabell 519-549-1](handlingar.tabeller/519-549-1.csv)
 
 | Taxekod | Prövn.-<br>nivå | Timmar | Beskrivning |
 | --- | --- | --- | --- |
@@ -22357,127 +22828,127 @@ Kungsbacka kommun            Taxa för prövning och tillsyn     16 (49)
 | 38 § FMH,<br>punkt 3.03 | H | 3 | För fritidsverksamheter är tillsynstiden 3 timmar. |
 | 38a § FMH | H | 3 | För kyltorn är tillsynstiden 3 timmar |
 
-<!-- sida 508 -->
+<!-- sida 520 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     17 (49)
 
-<!-- sida 509 -->
+<!-- sida 521 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     18 (49)
 
-<!-- sida 510 -->
+<!-- sida 522 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     19 (49)
 
-<!-- sida 511 -->
+<!-- sida 523 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     20 (49)
 
-<!-- sida 512 -->
+<!-- sida 524 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     21 (49)
 
-<!-- sida 513 -->
+<!-- sida 525 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     22 (49)
 
-<!-- sida 514 -->
+<!-- sida 526 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     23 (49)
 
-<!-- sida 515 -->
+<!-- sida 527 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     24 (49)
 
-<!-- sida 516 -->
+<!-- sida 528 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     25 (49)
 
-<!-- sida 517 -->
+<!-- sida 529 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     26 (49)
 
-<!-- sida 518 -->
+<!-- sida 530 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     27 (49)
 
-<!-- sida 519 -->
+<!-- sida 531 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     28 (49)
 
-<!-- sida 520 -->
+<!-- sida 532 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     29 (49)
 
-<!-- sida 521 -->
+<!-- sida 533 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     30 (49)
 
-<!-- sida 522 -->
+<!-- sida 534 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     31 (49)
 
-<!-- sida 523 -->
+<!-- sida 535 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     32 (49)
 
-<!-- sida 524 -->
+<!-- sida 536 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     33 (49)
 
-<!-- sida 525 -->
+<!-- sida 537 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     34 (49)
 
-<!-- sida 526 -->
+<!-- sida 538 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     35 (49)
 
-<!-- sida 527 -->
+<!-- sida 539 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     36 (49)
 
-<!-- sida 528 -->
+<!-- sida 540 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     37 (49)
 
-<!-- sida 529 -->
+<!-- sida 541 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     38 (49)
 
-<!-- sida 530 -->
+<!-- sida 542 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     39 (49)
 
-<!-- sida 531 -->
+<!-- sida 543 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     40 (49)
 
-<!-- sida 532 -->
+<!-- sida 544 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     41 (49)
 
-<!-- sida 533 -->
+<!-- sida 545 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     42 (49)
 
-<!-- sida 534 -->
+<!-- sida 546 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     43 (49)
 
-<!-- sida 535 -->
+<!-- sida 547 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     44 (49)
 
-<!-- sida 536 -->
+<!-- sida 548 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     45 (49)
 
-<!-- sida 537 -->
+<!-- sida 549 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     46 (49)
 
-<!-- sida 538 -->
+<!-- sida 550 -->
 
 Avsnitt 4 - Taxebilaga  3: Timavgifter för tillsyn inom
 miljöbalkens  område   (efterskott)
@@ -22489,7 +22960,7 @@ betalas i efterskott efter utförd tillsyn.
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     47 (49)
 
-[Tabell 538-540-1](handlingar.tabeller/538-540-1.csv)
+[Tabell 550-552-1](handlingar.tabeller/550-552-1.csv)
 
 | Bransch | Verksamhet | Taxekod | Prövn.-<br>nivå | Avgift |
 | --- | --- | --- | --- | --- |
@@ -22552,15 +23023,15 @@ Kungsbacka kommun            Taxa för prövning och tillsyn     47 (49)
 | EJ ANMÄLNINGSPLIKTIGA<br>HÄLSOSKYDDSVERKSAMHETER | Lokaler för yrkesmässig<br>hygienisk behandling | 45 § FMH, punkt 6 | UH | Timavgift |
 | EJ ANMÄLNINGSPLIKTIGA<br>HÄLSOSKYDDSVERKSAMHETER | Lokaler för förvaring av<br>djur | 45 § FMH, punkt 7 | UH | Timavgift |
 
-<!-- sida 539 -->
+<!-- sida 551 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     48 (49)
 
-<!-- sida 540 -->
+<!-- sida 552 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     49 (49)
 
-<!-- sida 541 -->
+<!-- sida 553 -->
 
 Taxa        för    prövning              och
 
@@ -22601,7 +23072,7 @@ www.kungsbacka.se
 
 Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
-<!-- sida 542 -->
+<!-- sida 554 -->
 
 Innehåll
 
@@ -22646,7 +23117,7 @@ Avsnitt 4 - Taxebilaga 3: Timavgifter för tillsyn inom miljöbalkens område (e
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     2 (69)
 
-<!-- sida 543 -->
+<!-- sida 555 -->
 
 Avsnitt 1 - Taxebestämmelser
 
@@ -22703,7 +23174,7 @@ utredning.
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     3 (69)
 
-<!-- sida 544 -->
+<!-- sida 556 -->
 
 2\. Handläggning som föranleds av att beslut av nämnd enligt miljöbalken,
 bestämmelser meddelade med stöd av miljöbalken eller EU-bestämmelser
@@ -22761,7 +23232,7 @@ kontakter med parter, samråd med experter och myndigheter, inspektioner,
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     4 (69)
 
-<!-- sida 545 -->
+<!-- sida 557 -->
 
 revisioner, besiktningar, provtagningar och kontroller, restid, diarieföring,
 expediering, beredning i övrigt av ärendet samt föredragning och beslut i ärendet.
@@ -22818,7 +23289,7 @@ områdesskydd.
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     5 (69)
 
-<!-- sida 546 -->
+<!-- sida 558 -->
 
 15 §
 Utöver avgift för prövning av ansökan om tillstånd, dispens eller undantag, kan avgift
@@ -22877,7 +23348,7 @@ verksamhet och hälsoskydd (H).
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     6 (69)
 
-<!-- sida 547 -->
+<!-- sida 559 -->
 
 20 §
 Med regelbunden tillsyn avses planerad tillsyn över sådana verksamheter eller
@@ -22932,7 +23403,7 @@ ifrån vad som anges i tillståndsbeslutet i fråga om produktionsvolym eller li
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     7 (69)
 
-<!-- sida 548 -->
+<!-- sida 560 -->
 
 1.7 Avgifter i särskilda fall
 
@@ -22988,7 +23459,7 @@ villkor enligt 24 kap. 5 § miljöbalken.
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     8 (69)
 
-<!-- sida 549 -->
+<!-- sida 561 -->
 
 Fast årlig avgift omfattar kalenderår och ska betalas i förskott. Sådan avgift ska
 betalas från och med det kalenderår som följer efter att det att beslut om tillstånd till
@@ -23046,7 +23517,7 @@ i övrigt anges i taxebilaga 1.
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     9 (69)
 
-<!-- sida 550 -->
+<!-- sida 562 -->
 
 1.11 Gemensamma bestämmelser
 
@@ -23090,7 +23561,7 @@ undantag eller anmälningar som kommit in till kommunen före denna dag.
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     10 (69)
 
-<!-- sida 551 -->
+<!-- sida 563 -->
 
 Avsnitt 2 - Taxebilaga 1: Avgifter för prövning och
 tillsyn inom miljöbalkens  område
@@ -23106,7 +23577,7 @@ komplexitet och tidsåtgång.
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     11 (69)
 
-[Tabell 551-1](handlingar.tabeller/551-1.csv)
+[Tabell 563-1](handlingar.tabeller/563-1.csv)
 
 | Avgiftsnivå | Timmar |
 | --- | --- |
@@ -23117,7 +23588,7 @@ Kungsbacka kommun            Taxa för prövning och tillsyn     11 (69)
 | Avgiftsnivå 5 | 10 tim |
 | Avgiftsnivå 6 | timavgift |
 
-[Tabell 551-564-2](handlingar.tabeller/551-564-2.csv)
+[Tabell 563-576-2](handlingar.tabeller/563-576-2.csv)
 
 | MILJÖBALKEN (1998:808) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -23266,59 +23737,59 @@ Kungsbacka kommun            Taxa för prövning och tillsyn     11 (69)
 |  | ÄRENDEN ENLIGT 26 KAP<br>MILJÖBALKEN |  |  |  |  |  |
 | 70 | Utförande av tillsyn<br>avseende<br>stängselgenombrott, om<br>länsstyrelsen har överlåtit<br>uppgiften att utöva tillsyn. | Timavgift |  | Stängselgenombrott om<br>länsstyrelsen har överlåtit<br>uppgiften att utöva tillsyn. | Timavgift |  |
 
-<!-- sida 552 -->
+<!-- sida 564 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     12 (69)
 
-<!-- sida 553 -->
+<!-- sida 565 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     13 (69)
 
-<!-- sida 554 -->
+<!-- sida 566 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     14 (69)
 
-<!-- sida 555 -->
+<!-- sida 567 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     15 (69)
 
-<!-- sida 556 -->
+<!-- sida 568 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     16 (69)
 
-<!-- sida 557 -->
+<!-- sida 569 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     17 (69)
 
-<!-- sida 558 -->
+<!-- sida 570 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     18 (69)
 
-<!-- sida 559 -->
+<!-- sida 571 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     19 (69)
 
-<!-- sida 560 -->
+<!-- sida 572 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     20 (69)
 
-<!-- sida 561 -->
+<!-- sida 573 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     21 (69)
 
-<!-- sida 562 -->
+<!-- sida 574 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     22 (69)
 
-<!-- sida 563 -->
+<!-- sida 575 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     23 (69)
 
-<!-- sida 564 -->
+<!-- sida 576 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     24 (69)
 
-<!-- sida 565 -->
+<!-- sida 577 -->
 
 2.2 Strålskyddslag
 
@@ -23331,35 +23802,35 @@ skyltning
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     25 (69)
 
-[Tabell 565-1](handlingar.tabeller/565-1.csv)
+[Tabell 577-1](handlingar.tabeller/577-1.csv)
 
 | STRÅLSKYDDSLAG (2018:396)<br>STRÅLSÄKERHETSMYNDIGHETENS FÖRESKRIFTER OM KOSMETISKA SOLARIER OCH ARTIFICIELLA<br>SOLNINGSANLÄGGNINGAR (SSMFS 2012:5 2025:1) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Rad<br>nr | Beskrivning | Avgifts-<br>typ | Avgift | Beskrivning | Avgiftstyp | Avgift |
 | 1 | Handläggning och andra<br>åtgärder med anledning av<br>ansökan om tillstånd,<br>anmälan och tillsyn enligt<br>strålskyddslagen. | Timavgift |  | Handläggning och andra<br>åtgärder med anledning av<br>ansökan om tillstånd,<br>anmälan och tillsyn enligt<br>strålskyddslagen. | Timavgift |  |
 
-[Tabell 565-2](handlingar.tabeller/565-2.csv)
+[Tabell 577-2](handlingar.tabeller/577-2.csv)
 
 | LAG (2014:799) OM SPRÄNGÄMNESPREKURSORER |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Rad<br>nr | Beskrivning | Avgifts-<br>typ | Avgift | Beskrivning | Avgiftstyp | Avgift |
 | 1 | För tillsyn enligt lagen om<br>sprängämnesprekursorer. | Timavgift |  | För tillsyn enligt lagen om<br>sprängämnesprekursorer. | Timavgift |  |
 
-[Tabell 565-3](handlingar.tabeller/565-3.csv)
+[Tabell 577-3](handlingar.tabeller/577-3.csv)
 
 | LAG (1998:814) MED SÄRSKILDA BESTÄMMELSER OM GATURENHÅLLNING OCH SKYLTNING |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Rad<br>nr | Beskrivning | Avgifts-<br>typ | Avgift | Beskrivning | Avgiftstyp | Avgift |
 | 1 | För tillsyn enligt lag om<br>gaturenhållning och<br>skyltning. | Timavgift |  | För tillsyn enligt lag om<br>gaturenhållning och<br>skyltning. | Timavgift |  |
 
-[Tabell 565-4](handlingar.tabeller/565-4.csv)
+[Tabell 577-4](handlingar.tabeller/577-4.csv)
 
 | LAG (1980:424) OM ÅTGÄRDER MOT FÖRORENING FRÅN FARTYG |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Rad<br>nr | Beskrivning | Avgifts-<br>typ | Avgift | Beskrivning | Avgiftstyp | Avgift |
 | 1 | För tillsyn enligt lag om<br>åtgärder mot förorening från<br>fartyg | Timavgift |  | För tillsyn enligt lag om<br>åtgärder mot förorening från<br>fartyg | Timavgift |  |
 
-<!-- sida 566 -->
+<!-- sida 578 -->
 
 Avsnitt 3 - Taxebilaga  2: Fasta årliga avgifter för tillsyn
 inom  miljöbalkens  område   (förskott)
@@ -23378,7 +23849,7 @@ tillkommer ett generellt tillägg med 16 20 timmar.
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     26 (69)
 
-[Tabell 566-1](handlingar.tabeller/566-1.csv)
+[Tabell 578-1](handlingar.tabeller/578-1.csv)
 
 | Taxekod | Prövn.-<br>nivå | Timmar | Beskrivning |
 | --- | --- | --- | --- |
@@ -23399,7 +23870,7 @@ Kungsbacka kommun            Taxa för prövning och tillsyn     26 (69)
 | 10.11.01 | B | 18 | 1. För en verksamhet som är tillståndspliktig enligt 4 kap.<br>2 § miljöprövningsförordningen är tillsynstiden 18 timmar<br>om tillståndet gäller för mer än 200 000 ton. |
 | 10.11.02 | B | 18 | 2. För en verksamhet som är tillståndspliktig enligt 4 kap.<br>2 § miljöprövningsförordningen är tillsynstiden 18 timmar<br>om tillståndet gäller för mer än 50 000 ton men högst 200<br>000 ton. |
 
-<!-- sida 567 -->
+<!-- sida 579 -->
 
 3\. För en verksamhet som är tillståndspliktig enligt 4 kap.
 2 § miljöprövningsförordningen är tillsynstiden 9 timmar
@@ -23470,11 +23941,11 @@ För en verksamhet som är tillståndspliktig enligt 4 kap. 8
 § miljöprövningsförordningen är tillsynstiden 30 timmar.
 Kungsbacka kommun            Taxa för prövning och tillsyn     27 (69)
 
-<!-- sida 568 -->
+<!-- sida 580 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     28 (69)
 
-[Tabell 568-588-1](handlingar.tabeller/568-588-1.csv)
+[Tabell 580-600-1](handlingar.tabeller/580-600-1.csv)
 
 | 11.20.01 | B | 13 | 1. För en verksamhet som är tillståndspliktig enligt 4 kap.<br>9 § miljöprövningsförordningen är tillsynstiden 13 timmar<br>för utvinning i vattenområde. |
 | --- | --- | --- | --- |
@@ -23766,87 +24237,87 @@ Kungsbacka kommun            Taxa för prövning och tillsyn     28 (69)
 | 28.10-i.02 | B | 30 | 2. För en verksamhet som är tillståndspliktig enligt 16<br>kap. 1 § miljöprövningsförordningen är tillsynstiden 30<br>timmar om utsläpp av process- och sköljvatten är större<br>än 1 000 kubikmeter men högst 10 000 kubikmeter per<br>kalenderår. IUV-tillägg tillämpas. |
 | 28.10-i.03 | B | 13 | 3. För en verksamhet som är tillståndspliktig enligt 16<br>kap. 1 § miljöprövningsförordningen är tillsynstiden 13<br>timmar om utsläpp av process- och sköljvatten är större<br>än 100 kubikmeter men högst 1 000 kubikmeter per<br>kalenderår. IUV-tillägg tillämpas. |
 
-<!-- sida 569 -->
+<!-- sida 581 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     29 (69)
 
-<!-- sida 570 -->
+<!-- sida 582 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     30 (69)
 
-<!-- sida 571 -->
+<!-- sida 583 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     31 (69)
 
-<!-- sida 572 -->
+<!-- sida 584 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     32 (69)
 
-<!-- sida 573 -->
+<!-- sida 585 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     33 (69)
 
-<!-- sida 574 -->
+<!-- sida 586 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     34 (69)
 
-<!-- sida 575 -->
+<!-- sida 587 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     35 (69)
 
-<!-- sida 576 -->
+<!-- sida 588 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     36 (69)
 
-<!-- sida 577 -->
+<!-- sida 589 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     37 (69)
 
-<!-- sida 578 -->
+<!-- sida 590 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     38 (69)
 
-<!-- sida 579 -->
+<!-- sida 591 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     39 (69)
 
-<!-- sida 580 -->
+<!-- sida 592 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     40 (69)
 
-<!-- sida 581 -->
+<!-- sida 593 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     41 (69)
 
-<!-- sida 582 -->
+<!-- sida 594 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     42 (69)
 
-<!-- sida 583 -->
+<!-- sida 595 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     43 (69)
 
-<!-- sida 584 -->
+<!-- sida 596 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     44 (69)
 
-<!-- sida 585 -->
+<!-- sida 597 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     45 (69)
 
-<!-- sida 586 -->
+<!-- sida 598 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     46 (69)
 
-<!-- sida 587 -->
+<!-- sida 599 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     47 (69)
 
-<!-- sida 588 -->
+<!-- sida 600 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     48 (69)
 
-<!-- sida 589 -->
+<!-- sida 601 -->
 
 4\. För en verksamhet som är tillståndspliktig enligt 16
 kap. 1 § miljöprövningsförordningen är tillsynstiden 6
@@ -23909,11 +24380,11 @@ uppsamling och filter för flussrök med en förbrukning av
 högst 100 ton zink per kalenderår.
 Kungsbacka kommun            Taxa för prövning och tillsyn     49 (69)
 
-<!-- sida 590 -->
+<!-- sida 602 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     50 (69)
 
-[Tabell 590-1](handlingar.tabeller/590-1.csv)
+[Tabell 602-1](handlingar.tabeller/602-1.csv)
 
 | 28.50.05 | B | 30 | 5. För en verksamhet som är tillståndspliktig enligt 16<br>kap. 6 § miljöprövningsförordningen (verksamhetskod<br>28.50) är tillsynstiden 30 timmar för varmförzinkning utan<br>uppsamling och filter för flussrök med en förbrukning av<br>mer än 10 000 ton zink per kalenderår. |
 | --- | --- | --- | --- |
@@ -23928,7 +24399,7 @@ Kungsbacka kommun            Taxa för prövning och tillsyn     50 (69)
 | 28.71 | C | 6 | För en verksamhet som är anmälningspliktig enligt 16<br>kap. 7 § miljöprövningsförordningen är tillsynstiden 6<br>timmar. |
 | 28.80 | B | 30 | För en verksamhet som är tillståndspliktig enligt 16 kap. 8<br>§ miljöprövningsförordningen är tillsynstiden 30 timmar. |
 
-<!-- sida 591 -->
+<!-- sida 603 -->
 
 För en verksamhet som är anmälningspliktig enligt 16
 28.90     C        18 12 kap. 9 § miljöprövningsförordningen är tillsynstiden 18 12
@@ -23987,7 +24458,7 @@ kap. 3 § miljöprövningsförordningen är tillsynstiden 184
 fordon som uppgår till mer än 3,5 ton.
 Kungsbacka kommun            Taxa för prövning och tillsyn     51 (69)
 
-<!-- sida 592 -->
+<!-- sida 604 -->
 
 5\. För en verksamhet som är tillståndspliktig enligt 18
 kap. 3 § miljöprövningsförordningen är tillsynstiden 64
@@ -24048,7 +24519,7 @@ timmar om förbrukningen uppgår till mer än 500 ton per
 kalenderår. IUV-tillägg tillämpas.
 Kungsbacka kommun            Taxa för prövning och tillsyn     52 (69)
 
-<!-- sida 593 -->
+<!-- sida 605 -->
 
 2\. För en verksamhet som är tillståndspliktig enligt 19
 kap. 2 § miljöprövningsförordningen är tillsynstiden 90
@@ -24112,11 +24583,11 @@ För en verksamhet som är anmälningspliktig enligt 20
 timmar.
 Kungsbacka kommun            Taxa för prövning och tillsyn     53 (69)
 
-<!-- sida 594 -->
+<!-- sida 606 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     54 (69)
 
-[Tabell 594-1](handlingar.tabeller/594-1.csv)
+[Tabell 606-1](handlingar.tabeller/606-1.csv)
 
 | 39.80 | B | 30 | För en verksamhet som är tillståndspliktig enligt 20 kap. 3<br>§ miljöprövningsförordningen är tillsynstiden 30 timmar. |
 | --- | --- | --- | --- |
@@ -24138,7 +24609,7 @@ Kungsbacka kommun            Taxa för prövning och tillsyn     54 (69)
 | 40.50-i.01 | B | 30 | 1. För en verksamhet som är tillståndspliktig enligt 21<br>kap. 9 § miljöprövningsförordningen är tillsynstiden 30<br>timmar för gasturbinanläggningar. IUV-tillägg tillämpas. |
 | 40.50-i.02 | B | 137 | 2. För en verksamhet som är tillståndspliktig enligt 21<br>kap. 9 § miljöprövningsförordningen är tillsynstiden 137<br>timmar för andra anläggningar än som avses i 1 med en<br>total installerad tillförd effekt av mer än 200 megawatt<br>men högst 300 megawatt. IUV-tillägg tillämpas. |
 
-<!-- sida 595 -->
+<!-- sida 607 -->
 
 3\. För en verksamhet som är tillståndspliktig enligt 21
 kap. 9 § miljöprövningsförordningen är tillsynstiden 64
@@ -24201,11 +24672,11 @@ För en verksamhet som är anmälningspliktig enligt 23
 timmar.
 Kungsbacka kommun            Taxa för prövning och tillsyn     55 (69)
 
-<!-- sida 596 -->
+<!-- sida 608 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     56 (69)
 
-[Tabell 596-1](handlingar.tabeller/596-1.csv)
+[Tabell 608-1](handlingar.tabeller/608-1.csv)
 
 | 50.20 | C | 9 | För en verksamhet som är anmälningspliktig enligt 23<br>kap. 2 § miljöprövningsförordningen är tillsynstiden 9<br>timmar. |
 | --- | --- | --- | --- |
@@ -24226,7 +24697,7 @@ Kungsbacka kommun            Taxa för prövning och tillsyn     56 (69)
 | 63.50 | C | 9 | För en verksamhet som är anmälningspliktig enligt 24<br>kap. 5 § miljöprövningsförordningen är tillsynstiden 9<br>timmar. |
 |  |  |  | VERKSAMHETSGRUPP LABORATORIER |
 
-<!-- sida 597 -->
+<!-- sida 609 -->
 
 För en verksamhet som är anmälningspliktig enligt 25
 73.10     C        18   kap. 1 § miljöprövningsförordningen är tillsynstiden 18
@@ -24292,7 +24763,7 @@ i.01
 000 ton per kalenderår. IUV-tillägg tillämpas.
 Kungsbacka kommun            Taxa för prövning och tillsyn     57 (69)
 
-<!-- sida 598 -->
+<!-- sida 610 -->
 
 2\. För en verksamhet som är tillståndspliktig enligt 29
 90.180-i .02            kap. 5 eller 6 § miljöprövningsförordningen är tillsynstiden
@@ -24372,7 +24843,7 @@ timmar.
 Verksamhetsgrupp Deponering
 Kungsbacka kommun            Taxa för prövning och tillsyn     58 (69)
 
-<!-- sida 599 -->
+<!-- sida 611 -->
 
 För en verksamhet som är tillståndspliktig enligt 29 kap.
 90.271    B        13   18 § miljöprövningsförordningen är tillsynstiden 13
@@ -24438,11 +24909,11 @@ För en verksamhet som är anmälningspliktig enligt 29
 timmar.
 Kungsbacka kommun            Taxa för prövning och tillsyn     59 (69)
 
-<!-- sida 600 -->
+<!-- sida 612 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     60 (69)
 
-[Tabell 600-1](handlingar.tabeller/600-1.csv)
+[Tabell 612-1](handlingar.tabeller/612-1.csv)
 
 |  |  |  | Verksamhetsgrupp Återvinning av farligt avfall som<br>uppkommit i egen verksamhet |
 | --- | --- | --- | --- |
@@ -24464,7 +24935,7 @@ Kungsbacka kommun            Taxa för prövning och tillsyn     60 (69)
 |  |  |  | Verksamhetsgrupp Uppgrävda massor |
 | 90.361 | B | 13 | För en verksamhet som är tillståndspliktig enligt 29 kap.<br>36 § miljöprövningsförordningen är tillsynstiden 13<br>timmar. |
 
-<!-- sida 601 -->
+<!-- sida 613 -->
 
 För en verksamhet som är anmälningspliktig enligt 29
 90.370    C        9    kap. 37 § miljöprövningsförordningen är tillsynstiden 9
@@ -24527,11 +24998,11 @@ timmar om den tillförda avfallsmängden är mer än 1 000
 ton men högst 10 000 ton per kalenderår.
 Kungsbacka kommun            Taxa för prövning och tillsyn     61 (69)
 
-<!-- sida 602 -->
+<!-- sida 614 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     62 (69)
 
-[Tabell 602-603-1](handlingar.tabeller/602-603-1.csv)
+[Tabell 614-615-1](handlingar.tabeller/614-615-1.csv)
 
 | 90.119.04 | B | 13 | 4. För en verksamhet som är tillståndspliktig enligt 29<br>kap. 45 § miljöprövningsförordningen är tillsynstiden 13<br>timmar om den tillförda avfallsmängden inte omfattas av<br>någon av 1-3. |
 | --- | --- | --- | --- |
@@ -24568,11 +25039,11 @@ Kungsbacka kommun            Taxa för prövning och tillsyn     62 (69)
 | 90.520 | C | 9 | För en verksamhet som är anmälningspliktig enligt 29<br>kap. 64 § miljöprövningsförordningen är tillsynstiden 9<br>timmar. |
 |  |  |  | Verksamhetsgrupp Andra verksamheter med återvinning<br>eller bortskaffande |
 
-<!-- sida 603 -->
+<!-- sida 615 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     63 (69)
 
-<!-- sida 604 -->
+<!-- sida 616 -->
 
 1\. För en verksamhet som är tillståndspliktig enligt 29
 90.405-i.01
@@ -24641,11 +25112,11 @@ timmar om den tillförda avfallsmängden är mer än 5 000
 ton men högst 25 000 ton per kalenderår.
 Kungsbacka kommun            Taxa för prövning och tillsyn     64 (69)
 
-<!-- sida 605 -->
+<!-- sida 617 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     65 (69)
 
-[Tabell 605-606-1](handlingar.tabeller/605-606-1.csv)
+[Tabell 617-618-1](handlingar.tabeller/617-618-1.csv)
 
 | 90.440.03 | A | 30 | 3. För en verksamhet som är tillståndspliktig enligt 29<br>kap. 71 § miljöprövningsförordningen är tillsynstiden 30<br>timmar om den tillförda avfallsmängden inte omfattas av 1<br>eller 2. |
 | --- | --- | --- | --- |
@@ -24679,11 +25150,11 @@ Kungsbacka kommun            Taxa för prövning och tillsyn     65 (69)
 |  |  |  | Verksamhetsgrupp Idrottsanläggningar, camping, bad<br>m.m. |
 | 45 § FMH,<br>punkt 5.01 | UH | 6 | För idrottsanläggningar (sporthallar, gym m.m.),<br>camping, bad (strandbad) m.m. är tillsynstiden 3<br>timmar. |
 
-<!-- sida 606 -->
+<!-- sida 618 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     66 (69)
 
-<!-- sida 607 -->
+<!-- sida 619 -->
 
 Avsnitt 4 - Taxebilaga  3: Timavgifter för tillsyn inom
 miljöbalkens  område   (efterskott)
@@ -24695,7 +25166,7 @@ betalas i efterskott efter utförd tillsyn.
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     67 (69)
 
-[Tabell 607-608-1](handlingar.tabeller/607-608-1.csv)
+[Tabell 619-620-1](handlingar.tabeller/619-620-1.csv)
 
 | Bransch | Verksamhet | Taxekod | Prövn.-<br>nivå | Avgift |
 | --- | --- | --- | --- | --- |
@@ -24753,11 +25224,11 @@ Kungsbacka kommun            Taxa för prövning och tillsyn     67 (69)
 |  | Lagring som en del av att<br>samla in avfall | 90.7000 | U | Timavgift |
 |  | Lagring av blandat bygg-<br>och rivningsavfall,<br>lättfraktion och stoft | 90.3510 | U | Timavgift |
 
-<!-- sida 608 -->
+<!-- sida 620 -->
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     68 (69)
 
-<!-- sida 609 -->
+<!-- sida 621 -->
 
 SKJUTFÄLT, SKJUTBANOR OCH
 92.20000     U     Timavgift
@@ -24790,7 +25261,7 @@ HÄLSOSKYDDSVERKSAMHETER djur
 
 Kungsbacka kommun            Taxa för prövning och tillsyn     69 (69)
 
-<!-- sida 610 -->
+<!-- sida 622 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (1)
 Kommunstyrelsens arbetsutskott
@@ -24837,7 +25308,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7B50ABB8AD5483BDF838EE29D611A5FA7475AA0A44
 Transaktionsidentitet: A816210CB2F043E12D434BDE46172096A243145AB9
 
-<!-- sida 611 -->
+<!-- sida 623 -->
 
 TJÄNSTESKRIVELSE
 
@@ -24887,7 +25358,7 @@ Samhällsplanerare                                        Stadshuset, Storgatan 
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 612 -->
+<!-- sida 624 -->
 
 KUNGSBACKA  KOMMUN
 2 (2)
@@ -24921,7 +25392,7 @@ dagvattenavledning även om det generellt inte finns en förbindelsepunkt.
 Rickar Vidlund                     Lovisa Eld
 Kommundirektör                     Samhällsbyggnadschef
 
-<!-- sida 613 -->
+<!-- sida 625 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (1)
 Nämnden för Teknik
@@ -24971,7 +25442,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: E4AEDFE92802C920155EA32AB2A51246FADECFA648
 Transaktionsidentitet: 6DC031ABD1AA4CE4E5C013067F60567AF875C27C1A
 
-<!-- sida 614 -->
+<!-- sida 626 -->
 
 TJÄNSTESKRIVELSE
 
@@ -25013,7 +25484,7 @@ Telefon 0300-83 40 00
 Projektledare, Planering VA
 www.kungsbacka.se
 
-<!-- sida 615 -->
+<!-- sida 627 -->
 
 KUNGSBACKA  KOMMUN
 2 (6)
@@ -25061,7 +25532,7 @@ spillvatten betalar cirka 230 000 – 410 000kr (VA-taxa 2026); och en fastighet
 ansluter till enbart dagvatten betalar cirka 100 000 – 185 000 kr (VA-taxa 2026).
 Kostnaden varierar med fastighetens tomtyta.
 
-<!-- sida 616 -->
+<!-- sida 628 -->
 
 KUNGSBACKA  KOMMUN
 3 (6)
@@ -25110,7 +25581,7 @@ bilaga 5.
 Gårdskullavägen, enligt bilaga 6.
 •  Verksamhetsområde för dagvatten fastighet för Vallda - Björkbacken, enligt bilaga 7.
 
-<!-- sida 617 -->
+<!-- sida 629 -->
 
 KUNGSBACKA  KOMMUN
 4 (6)
@@ -25153,7 +25624,7 @@ Verksamhetsområde för Dagvatten fastighet
 
 SLÄPS-KULLEN 1:331
 
-<!-- sida 618 -->
+<!-- sida 630 -->
 
 KUNGSBACKA  KOMMUN
 5 (6)
@@ -25200,7 +25671,7 @@ Verksamhetsområde för Dagvatten fastighet & Dagvatten gata fastighet
 
 LEDET 2:47, 2:48, 2:58 & 2:60
 
-<!-- sida 619 -->
+<!-- sida 631 -->
 
 KUNGSBACKA  KOMMUN
 6 (6)
@@ -25230,7 +25701,7 @@ Catarina Sundberg                  Ulrika Granfors
 
 Verksamhetschef, Vatten och Avfall Förvaltningschef
 
-<!-- sida 620 -->
+<!-- sida 632 -->
 
 Bilagor 1 – 13 VA-Verksamhetsområde 2025, 2026-05-07 TE-2026-00267
 
@@ -25250,7 +25721,7 @@ därefter brukningsavgifter enligt gällande VA-taxa.
 
 Bilaga 1. Bolsheden – Bolshedens industriväg
 
-<!-- sida 621 -->
+<!-- sida 633 -->
 
 Bilagor 1 – 13 VA-Verksamhetsområde 2025, 2026-05-07 TE-2026-00267
 
@@ -25273,7 +25744,7 @@ brukningsavgifter enligt gällande VA-taxa.
 
 Bilaga 2. Kullavik - Sjöstigen
 
-<!-- sida 622 -->
+<!-- sida 634 -->
 
 Bilagor 1 – 13 VA-Verksamhetsområde 2025, 2026-05-07 TE-2026-00267
 
@@ -25297,7 +25768,7 @@ brukningsavgifter enligt gällande VA-taxa.
 
 Bilaga 3. Kullavik – Kullaviks tennisväg
 
-<!-- sida 623 -->
+<!-- sida 635 -->
 
 Bilagor 1 – 13 VA-Verksamhetsområde 2025, 2026-05-07 TE-2026-00267
 
@@ -25318,7 +25789,7 @@ brukningsavgifter enligt gällande VA-taxa.
 
 Bilaga 4. Lerberg – Martins Haralds Backe
 
-<!-- sida 624 -->
+<!-- sida 636 -->
 
 Bilagor 1 – 13 VA-Verksamhetsområde 2025, 2026-05-07 TE-2026-00267
 
@@ -25337,7 +25808,7 @@ VA-taxa.
 
 Bilaga 5. Särö - Västra Särövägen
 
-<!-- sida 625 -->
+<!-- sida 637 -->
 
 Bilagor 1 – 13 VA-Verksamhetsområde 2025, 2026-05-07 TE-2026-00267
 
@@ -25359,7 +25830,7 @@ brukningsavgifter enligt gällande VA-taxa.
 
 Bilaga 6. Kungsbacka - Gårdskullavägen
 
-<!-- sida 626 -->
+<!-- sida 638 -->
 
 Bilagor 1 – 13 VA-Verksamhetsområde 2025, 2026-05-07 TE-2026-00267
 
@@ -25383,7 +25854,7 @@ brukningsavgifter enligt gällande VA-taxa.
 
 Bilaga 7. Vallda - Björkbacken
 
-<!-- sida 627 -->
+<!-- sida 639 -->
 
 Bilagor 1 – 13 VA-Verksamhetsområde 2025, 2026-05-07 TE-2026-00267
 
@@ -25402,7 +25873,7 @@ gällande VA-taxa.
 
 Bilaga 8. Lerkil - Hjärtekullevägen
 
-<!-- sida 628 -->
+<!-- sida 640 -->
 
 Bilagor 1 – 13 VA-Verksamhetsområde 2025, 2026-05-07 TE-2026-00267
 
@@ -25418,7 +25889,7 @@ gällande VA-taxa.
 
 Bilaga 9. Lerkil - Lillarösvägen
 
-<!-- sida 629 -->
+<!-- sida 641 -->
 
 Bilagor 1 – 13 VA-Verksamhetsområde 2025, 2026-05-07 TE-2026-00267
 
@@ -25440,7 +25911,7 @@ brukningsavgifter enligt gällande VA-taxa.
 
 Bilaga 10. Halla - Krokvägen
 
-<!-- sida 630 -->
+<!-- sida 642 -->
 
 Bilagor 1 – 13 VA-Verksamhetsområde 2025, 2026-05-07 TE-2026-00267
 
@@ -25462,7 +25933,7 @@ brukningsavgifter enligt gällande VA-taxa.
 
 Bilaga 11. Ledet – Ledets väg
 
-<!-- sida 631 -->
+<!-- sida 643 -->
 
 Bilagor 1 – 13 VA-Verksamhetsområde 2025, 2026-05-07 TE-2026-00267
 
@@ -25485,7 +25956,7 @@ brukningsavgifter enligt gällande VA-taxa.
 
 Bilaga 12. Åsa - Sörviksvägen
 
-<!-- sida 632 -->
+<!-- sida 644 -->
 
 Bilagor 1 – 13 VA-Verksamhetsområde 2025, 2026-05-07 TE-2026-00267
 
@@ -25508,7 +25979,7 @@ den bebyggs. Fastighetsägarna betalar brukningsavgifter enligt gällande VA-tax
 
 Bilaga 13. Frillesås - Frillesås tennisväg
 
-<!-- sida 633 -->
+<!-- sida 645 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
 Kommunstyrelsens arbetsutskott
@@ -25562,7 +26033,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7B50ABB8AD5483BDF838EE29D611A5FA7475AA0A44
 Transaktionsidentitet: A816210CB2F043E12D434BDE46172096A243145AB9
 
-<!-- sida 634 -->
+<!-- sida 646 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (2)
 Kommunstyrelsens arbetsutskott
@@ -25578,7 +26049,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 7B50ABB8AD5483BDF838EE29D611A5FA7475AA0A44
 Transaktionsidentitet: A816210CB2F043E12D434BDE46172096A243145AB9
 
-<!-- sida 635 -->
+<!-- sida 647 -->
 
 TJÄNSTESKRIVELSE
 
@@ -25628,7 +26099,7 @@ Verksamhetschef                                          Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 636 -->
+<!-- sida 648 -->
 
 KUNGSBACKA  KOMMUN
 2 (3)
@@ -25674,7 +26145,7 @@ om kostnad och andra krav som behöver tillgodoses för att kunna nyttja parkeri
 snabbar en beslutad taxa på processen och underlättar hanteringen vid upprättande av avtal om
 parkeringsköp i samband med en ansökan om bygglov.
 
-<!-- sida 637 -->
+<!-- sida 649 -->
 
 KUNGSBACKA  KOMMUN
 3 (3)
@@ -25723,7 +26194,7 @@ Rickard Vidlund               Lovisa Eld
 
 Kommundirektör                Samhällsbyggnadschef
 
-<!-- sida 638 -->
+<!-- sida 650 -->
 
 26-08-14, underlag till KF 3 nov 2026
 
@@ -25740,7 +26211,7 @@ www.kungsbacka.se
 
 Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
-<!-- sida 639 -->
+<!-- sida 651 -->
 
 Innehåll
 
@@ -25757,7 +26228,7 @@ Innehåll
 
 Kungsbacka kommun             Parkeringsköp - taxa              2 (3)
 
-<!-- sida 640 -->
+<!-- sida 652 -->
 
 1  Inledning
 
@@ -25806,13 +26277,13 @@ förändringen av gällande prisbasbelopp.
 
 Kungsbacka kommun             Parkeringsköp - taxa              3 (3)
 
-[Tabell 640-1](handlingar.tabeller/640-1.csv)
+[Tabell 652-1](handlingar.tabeller/652-1.csv)
 
 | Typ av upplåtelse | Avgift | Kommentar |
 | --- | --- | --- |
 | Parkeringsköp | 250 000 kronor/parkeringsplats\* | Avgiften för parkeringsköp innefattar inte<br>parkeringsavgift vid bostadsinnehavares<br>brukande, utan ska erläggas enligt vid var<br>tid gällande taxa. Det samma gäller för<br>nyttjande av laddplats. |
 
-<!-- sida 641 -->
+<!-- sida 653 -->
 
 26-08-14, underlag till KF 3 nov 2026
 
@@ -25831,7 +26302,7 @@ www.kungsbacka.se
 
 Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
-<!-- sida 642 -->
+<!-- sida 654 -->
 
 Innehåll
 
@@ -25850,7 +26321,7 @@ Innehåll
 
 Kungsbacka kommun          Parkeringsköp – riktlinjer och regler 2 (4)
 
-<!-- sida 643 -->
+<!-- sida 655 -->
 
 1  Riktlinjer för parkeringsköp
 
@@ -25907,7 +26378,7 @@ bestämda utan ska vara samutnyttjade.
 
 Kungsbacka kommun          Parkeringsköp – riktlinjer och regler 3 (4)
 
-<!-- sida 644 -->
+<!-- sida 656 -->
 
 Övriga villkor för avtal om parkeringsköp framgår av punkt 2.2 – 2.6
 
@@ -25952,7 +26423,7 @@ tydligt framgår att det finns ett avtal om parkeringsköp som följer fastighet
 
 Kungsbacka kommun          Parkeringsköp – riktlinjer och regler 4 (4)
 
-<!-- sida 645 -->
+<!-- sida 657 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
 Kommunstyrelsens arbetsutskott
@@ -26011,7 +26482,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 9D295D90CF7CB50C99CA6649B1E96211D553E29D1F
 Transaktionsidentitet: 4BFF0F813D6508971C2C2BB3ECE53004E5FEB71A2F
 
-<!-- sida 646 -->
+<!-- sida 658 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (2)
 Kommunstyrelsens arbetsutskott
@@ -26063,7 +26534,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 9D295D90CF7CB50C99CA6649B1E96211D553E29D1F
 Transaktionsidentitet: 4BFF0F813D6508971C2C2BB3ECE53004E5FEB71A2F
 
-<!-- sida 647 -->
+<!-- sida 659 -->
 
 TJÄNSTESKRIVELSE
 
@@ -26116,7 +26587,7 @@ Specialist ekonomi                                       Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 648 -->
+<!-- sida 660 -->
 
 KUNGSBACKA  KOMMUN
 2 (4)
@@ -26162,7 +26633,7 @@ Beslutet skickas till
 
 Samtliga nämnder, Eksta Bostads AB och Stiftelsen Tjolöholm
 
-<!-- sida 649 -->
+<!-- sida 661 -->
 
 KUNGSBACKA  KOMMUN
 3 (4)
@@ -26212,7 +26683,7 @@ Hammargårds nya reningsverk för att koppla på fler hushåll, men också för 
 
 Kungsbackafjorden. Vi kommer ha ökat fokus på återbruk av inventarier för att verka för ett cirkulärt
 
-<!-- sida 650 -->
+<!-- sida 662 -->
 
 KUNGSBACKA  KOMMUN
 4 (4)
@@ -26229,7 +26700,7 @@ Rickard Vidlund                    Anders Johansson
 
 Kommundirektör                     Biträdande kommundirektör
 
-<!-- sida 651 -->
+<!-- sida 663 -->
 
 TJÄNSTESKRIVELSE
 
@@ -26283,7 +26754,7 @@ Specialist ekonomi                                       Stadshuset, Storgatan 3
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 652 -->
+<!-- sida 664 -->
 
 KUNGSBACKA  KOMMUN
 2 (4)
@@ -26331,7 +26802,7 @@ balansräkning, nämndernas ramar, investeringar, exploateringar, lokalplan samt
 Budgetramarna till nämnderna är uppräknade varje år med 3,0 procent för åren 2027, 2028 och 2029
 för att möta kommande pris- och löneökningar. Budgeten omfattar också budgetmedel för att möta
 
-<!-- sida 653 -->
+<!-- sida 665 -->
 
 KUNGSBACKA  KOMMUN
 3 (4)
@@ -26381,7 +26852,7 @@ Under 2027 uppgår resultatets andel av skatter och statsbidrag till 5,3 procent
 beräknas resultatets andel bli 6,2 respektive 6,0 procent av skatter och statsbidrag. Låneskulden vid
 årsskiftet 2025/2026 var 1 050 miljoner kronor och ökar under planperioden till 2 450 miljoner kronor.
 
-<!-- sida 654 -->
+<!-- sida 666 -->
 
 KUNGSBACKA  KOMMUN
 4 (4)
@@ -26390,7 +26861,7 @@ Rickard Vidlund                    Anders Johansson
 
 Kommundirektör                     Biträdande kommundirektör
 
-<!-- sida 655 -->
+<!-- sida 667 -->
 
 Kommunbudget                                 2027
 
@@ -26398,7 +26869,7 @@ och        plan          2028–2029
 
 Antagen av kommunfullmäktige 2026-06-09
 
-<!-- sida 656 -->
+<!-- sida 668 -->
 
 Den här budgeten har kommunfullmäktige beslutat om i juni 2026. Dokumentet innehåller
 övergripande mål med fokusområden och direktiv för verksamheten, samt mål för god ekonomisk
@@ -26412,7 +26883,7 @@ skattesats, taxor och avgifter samt eventuella lån.
 
 Foto i dokumentet av Kungsbacka kommun om inte annat anges.
 
-<!-- sida 657 -->
+<!-- sida 669 -->
 
 Innehåll
 
@@ -26451,7 +26922,7 @@ Exploateringar . . . . . . . . . . . . . . . . . . . . . . . . . 63
 
 Kommunbudget 2027 och plan 2028–2029 3
 
-<!-- sida 658 -->
+<!-- sida 670 -->
 
 ALLIANSENS SKRIVELSE
 
@@ -26509,7 +26980,7 @@ framtidstro framför utanförskap. Föreningsliv, idrott, kultur och för krimin
 sammanhang och meningsfull fritid för barn och unga. skymundan, dessa vill vi stödja för att få en bra uppväxt.
 4 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 659 -->
+<!-- sida 671 -->
 
 ALLIANSENS SKRIVELSE
 
@@ -26554,7 +27025,7 @@ moderaterna       centerpartiet      liberalerna   kristdemokraterna
 
 Kommunbudget 2027 och plan 2028–2029 5
 
-<!-- sida 660 -->
+<!-- sida 672 -->
 
 ORGANISATIONEN
 
@@ -26615,7 +27086,7 @@ Attendo Hemtjänst
 Annas Omsorg
 6 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 661 -->
+<!-- sida 673 -->
 
 ORGANISATIONEN
 
@@ -26677,7 +27148,7 @@ bidrag till fristående grundskolor och har rätt till insyn i och hälsoskydd, 
 deras verksamhet.
 Kommunbudget 2027 och plan 2028–2029 7
 
-<!-- sida 662 -->
+<!-- sida 674 -->
 
 ORGANISATIONEN
 
@@ -26734,7 +27205,7 @@ hemsjuk vård, dagomsorg, uppsökande verksamhet, internationellt.
 anhörigstöd, bostadsanpassning samt hjälpmedel.
 8 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 663 -->
+<!-- sida 675 -->
 
 ORGANISATIONEN
 
@@ -26749,7 +27220,7 @@ en trygg placering för investerare samt fungera som ett
 kunskapscentrum inom kommunal finansförvaltning och
 långsiktig hållbarhet.
 
-<!-- sida 664 -->
+<!-- sida 676 -->
 
 Översikt    över   verksamhetens         utveckling
 
@@ -26759,7 +27230,7 @@ Här får du en snabb överblick över kommunens ekonomiska utveckling under tio
 
 10 Kommunbudget 2027 och plan 2028–2029
 
-[Tabell 664-1](handlingar.tabeller/664-1.csv)
+[Tabell 676-1](handlingar.tabeller/676-1.csv)
 
 |  | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 | 2028 | 2029 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -26794,11 +27265,11 @@ Här får du en snabb överblick över kommunens ekonomiska utveckling under tio
 | Borgensåtagande, miljoner kronor | 3 412 | 3 502 | 3 493 | 3 484 | 3 476 | 3 473 | 3 468 | 3 468 | 3 468 | 3 468 |
 | Borgensåtagande, kronor per invånare | 40 174 | 41 049 | 40 710 | 40 676 | 40 517 | 40 228 | 40 128 | 39 986 | 39 891 | 39 815 |
 
-<!-- sida 665 -->
+<!-- sida 677 -->
 
 Kommunbudget 2027 och plan 2028–2029 11
 
-<!-- sida 666 -->
+<!-- sida 678 -->
 
 OMVÄRLDSANALYS
 
@@ -26855,7 +27326,7 @@ Efter en minskning 2023 har befolkningen ökat igen från vinterhalvåret. För 
 och med 2024, men i en lägre takt än tidigare. Under 2025 och en högre risk för skyfall och översvämningar, men även
 12 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 667 -->
+<!-- sida 679 -->
 
 OMVÄRLDSANALYS
 
@@ -26891,7 +27362,7 @@ energiresurser och bidrar till en ökad efterfrågan på el,
 ning inom andra områden.
 Kommunbudget 2027 och plan 2028–2029 13
 
-<!-- sida 668 -->
+<!-- sida 680 -->
 
 OMVÄRLDSANALYS
 
@@ -26951,7 +27422,7 @@ som vid årsskiftet var 1,2 miljarder kronor, har lyfts in i
 balansräkningen som en avsättning.
 14 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 669 -->
+<!-- sida 681 -->
 
 OMVÄRLDSANALYS
 
@@ -26989,7 +27460,7 @@ Summa intäkter 6 619 6 858 7 159 7 413
 
 Kommunbudget 2027 och plan 2028–2029 15
 
-[Tabell 669-1](handlingar.tabeller/669-1.csv)
+[Tabell 681-1](handlingar.tabeller/681-1.csv)
 
 | Belopp i miljoner | Budget | Plan | Plan | Plan |
 | --- | --- | --- | --- | --- |
@@ -26998,7 +27469,7 @@ Kommunbudget 2027 och plan 2028–2029 15
 | Skatteintäkter tillbaka på tvåprocentsmålet är pensionskostnaderna sedan | 6 362 | 6 514 | 6 797 | 7 081 |
 | Inkomstutjämning | -161 | -96 | -68 | -60 |
 
-<!-- sida 670 -->
+<!-- sida 682 -->
 
 SÅ STYRS KUNGSBACKA
 
@@ -27043,7 +27514,7 @@ der kronor) ränta (procent) (miljoner kronor)
 
 16 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 671 -->
+<!-- sida 683 -->
 
 SÅ STYRS KUNGSBACKA
 
@@ -27102,7 +27573,7 @@ med våra gemensamma resurser. Som Ett Kungsbacka är mål och ambitioner för k
 helheten större än summan av delarna, och vi tar oss an
 Kommunbudget 2027 och plan 2028–2029 17
 
-<!-- sida 672 -->
+<!-- sida 684 -->
 
 SÅ STYRS KUNGSBACKA
 
@@ -27162,7 +27633,7 @@ i kärnverksamheten eller som förnyelseinsatser i form av alla i kommunen.
 tillfälliga arbeten med hjälp av projekt och uppdrag.
 18 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 673 -->
+<!-- sida 685 -->
 
 VISION & MÅL
 
@@ -27215,7 +27686,7 @@ turister och besökare till hela kommunen. vill, vågar och kan.
 
 Kommunbudget 2027 och plan 2028–2029 19
 
-<!-- sida 674 -->
+<!-- sida 686 -->
 
 MÅL OCH DIREKTIV
 
@@ -27227,7 +27698,7 @@ utvecklingsområdena som visionen lyfter fram, samt de beskriver vad verksamhete
 
 20 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 675 -->
+<!-- sida 687 -->
 
 MÅL OCH DIREKTIV
 
@@ -27256,7 +27727,7 @@ h elhetssyn (Kolada)
 
 Kommunbudget 2027 och plan 2028–2029 21
 
-<!-- sida 676 -->
+<!-- sida 688 -->
 
 MÅL OCH DIREKTIV
 
@@ -27296,7 +27767,7 @@ och cykel 3 2017–2021. Det äret cykeln tar slut uppdateras med det slutgiltig
 
 22 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 677 -->
+<!-- sida 689 -->
 
 MÅL OCH DIREKTIV
 
@@ -27326,7 +27797,7 @@ företagande (Källa: Småföretagarnas riksförbund)
 
 Kommunbudget 2027 och plan 2028–2029 23
 
-<!-- sida 678 -->
+<!-- sida 690 -->
 
 MÅL OCH DIREKTIV
 
@@ -27350,7 +27821,7 @@ Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Källa: Kolada) 325 306 \* Minska
 
 24 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 679 -->
+<!-- sida 691 -->
 
 MÅL OCH DIREKTIV
 
@@ -27381,7 +27852,7 @@ skala 1–100 enligt Medarbetarenkäten
 
 Kommunbudget 2027 och plan 2028–2029 25
 
-<!-- sida 680 -->
+<!-- sida 692 -->
 
 MÅL OCH DIREKTIV
 
@@ -27412,7 +27883,7 @@ framtidens välfärd.
 
 26 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 681 -->
+<!-- sida 693 -->
 
 MÅL OCH DIREKTIV
 
@@ -27460,7 +27931,7 @@ medarbetare som arbetar på obekväma tider och i alla kommunens verksamheter.
 
 Kommunbudget 2027 och plan 2028–2029 27
 
-<!-- sida 682 -->
+<!-- sida 694 -->
 
 MÅL OCH DIREKTIV
 
@@ -27511,7 +27982,7 @@ Uppdraget ska återrapporteras med konkreta resultat under 2028.
 
 28 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 683 -->
+<!-- sida 695 -->
 
 GOD EKONOMISK HUSHÅLLNING
 
@@ -27566,7 +28037,7 @@ vara lika eller högre än den genomsnittliga
 soliditeten för femårsperioden, 2025–2029.
 Kommunbudget 2027 och plan 2028–2029 29
 
-<!-- sida 684 -->
+<!-- sida 696 -->
 
 GOD EKONOMISK HUSHÅLLNING
 
@@ -27589,7 +28060,7 @@ senaste år som mätningen gjordes.
 
 30 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 685 -->
+<!-- sida 697 -->
 
 EKONOMISTYRPRINCIPER
 
@@ -27650,7 +28121,7 @@ fullmäktige. Detsamma gäller årsbokslutet efter den 31 Vi följer upp och ana
 december som vi redovisar till fullmäktige. Resultatet återkopplar man till ansvarig nämnd.
 Kommunbudget 2027 och plan 2028–2029 31
 
-<!-- sida 686 -->
+<!-- sida 698 -->
 
 EKONOMISTYRPRINCIPER
 
@@ -27709,7 +28180,7 @@ nämnden tydligt beskriva och motivera utifrån kriterierna enheter som ingår i
 1–4 nedan beroende på orsak till avvikelsen.
 32 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 687 -->
+<!-- sida 699 -->
 
 EKONOMISTYRPRINCIPER
 
@@ -27768,7 +28239,7 @@ går med över­ eller underskott och hanterar detta inom
 nämndens budgetram. Nämnden kan även under året
 Kommunbudget 2027 och plan 2028–2029 33
 
-<!-- sida 688 -->
+<!-- sida 700 -->
 
 EKONOMISTYRPRINCIPER
 
@@ -27829,7 +28300,7 @@ möjlighet att omplanera exploateringsprojekten över tid om längre tidsperiod 
 tidsförskjutningar i projekten sker. accepteras om VA­huvudmannen har en upprättad plan för
 34 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 689 -->
+<!-- sida 701 -->
 
 EKONOMISTYRPRINCIPER
 
@@ -27885,7 +28356,7 @@ innebär att kommunen kan välja mellan att redovisa hela
 
 Kommunbudget 2027 och plan 2028–2029 35
 
-<!-- sida 690 -->
+<!-- sida 702 -->
 
 KUNGSBACKAS FÖRUTSÄTTNINGAR
 
@@ -27940,7 +28411,7 @@ därför ner för att göra prognosen mer träffsäker och
 anpassas
 36 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 691 -->
+<!-- sida 703 -->
 
 KUNGSBACKAS FÖRUTSÄTTNINGAR
 
@@ -27998,7 +28469,7 @@ service oberoende av skattekraft och kostnader som inte
 går att påverka. Utjämningssystemet gäller lagstadgad
 Kommunbudget 2027 och plan 2028–2029 37
 
-<!-- sida 692 -->
+<!-- sida 704 -->
 
 KUNGSBACKAS FÖRUTSÄTTNINGAR
 
@@ -28054,7 +28525,7 @@ statistiken samlas i en kommungemensam databas, Kolada.
 
 38 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 693 -->
+<!-- sida 705 -->
 
 10,0
 8,0                                    8,0
@@ -28114,7 +28585,7 @@ Diagram: Om stapeln är över nollstrecket är det en indikation på högt kostn
 motsvarande sätt visar resultat under noll på lägre kostnadsläge på grund av lägre ambitionsnivå och/eller hög effektivitet.
 Kommunbudget 2027 och plan 2028–2029 39
 
-<!-- sida 694 -->
+<!-- sida 706 -->
 
 KÖUvNrGigSaB AtiCllKäAgSg FÖRUTSÄTTNINGAR
 
@@ -28128,7 +28599,7 @@ Summa kvarstående övriga tillägg från 2025 som ingår i ram 75 032 47 032 47
 
 40 Kommunbudget 2027 och plan 2028–2029
 
-[Tabell 694-1](handlingar.tabeller/694-1.csv)
+[Tabell 706-1](handlingar.tabeller/706-1.csv)
 
 | Tillägg tusen kronor, Tkr | Plan 2027 | Plan 2028 | Plan 2029 |
 | --- | --- | --- | --- |
@@ -28143,7 +28614,7 @@ Summa kvarstående övriga tillägg från 2025 som ingår i ram 75 032 47 032 47
 | Kultur & Fritid, Särskild satsning på social samvaro för att minska ensamheten hos ungdomar och äldre | 5 000 | 5 000 | 5 000 |
 | Summa övriga tillägg 2026–2028 | 93 000 | 93 000 | 93 000 |
 
-[Tabell 694-2](handlingar.tabeller/694-2.csv)
+[Tabell 706-2](handlingar.tabeller/706-2.csv)
 
 | Tillägg tusen kronor, Tkr | Plan 2027 | Plan 2028 | Plan 2029 |
 | --- | --- | --- | --- |
@@ -28156,7 +28627,7 @@ Summa kvarstående övriga tillägg från 2025 som ingår i ram 75 032 47 032 47
 | Kommunfullmäktige politikerutbildning ny mandatperiod | 2 250 |  |  |
 | Summa kvarstående övriga tillägg 2026–2028 som ingår i ram | 78 250 | 76 000 | 76 000 |
 
-[Tabell 694-3](handlingar.tabeller/694-3.csv)
+[Tabell 706-3](handlingar.tabeller/706-3.csv)
 
 | Tillägg tusen kronor, Tkr | Plan 2027 | Plan 2028 | Plan 2029 |
 | --- | --- | --- | --- |
@@ -28167,7 +28638,7 @@ Summa kvarstående övriga tillägg från 2025 som ingår i ram 75 032 47 032 47
 | Vård & Omsorg, ingår i ram | 5 000 | 5 000 | 5 000 |
 | Ersättning ökade måltidspriser upp till 7,2 procent för FG, GA, VO, IF, (mellanskillnad mellan 3,9 procent upp till 7,2 procent), ingår i ram | 3 706 | 3 706 | 3 706 |
 
-[Tabell 694-4](handlingar.tabeller/694-4.csv)
+[Tabell 706-4](handlingar.tabeller/706-4.csv)
 
 | Ersättning ökade måltidspriser 0,5 procent för FG, GA, VO, IF, (totalt 3 procent 5 978 tkr), ingår i ram | 996 | 996 | 996 |
 | --- | --- | --- | --- |
@@ -28182,7 +28653,7 @@ Summa kvarstående övriga tillägg från 2025 som ingår i ram 75 032 47 032 47
 | Friskvårdsaktiviteter enligt nytt direktiv från 2025–2027 | 3 000 |  |  |
 | Förändrade redovisningsregler för Teknik, från investering till driftkostnad från och med 2025 som kvarstår i ramen | 4 000 | 4 000 | 4 000 |
 
-<!-- sida 695 -->
+<!-- sida 707 -->
 
 KUNGSBACKAS FÖRUTSÄTTNINGAR
 
@@ -28210,7 +28681,7 @@ samhet
 
 Kommunbudget 2027 och plan 2028–2029 41
 
-[Tabell 695-1](handlingar.tabeller/695-1.csv)
+[Tabell 707-1](handlingar.tabeller/707-1.csv)
 
 | Nämnder, belopp i Tusen kronor, Tkr | Priser, löner 3,0 procent 2027 | Volymer 2027 | Övriga tillägg 2027 | Ramjustering inkl ombudget t o m 2026-04-30 | Ram 2027, inkl. kapitalkostnad, internt övrigt | Ram 2028, inkl. kapitalkostnad, internt övrigt |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -28238,7 +28709,7 @@ Kommunbudget 2027 och plan 2028–2029 41
 | Nya lokalhyror och avskrivningar |  |  |  | 6 641 | 42 425 | 28 576 |
 | Summa ekonomiska ramar 2027–2028 | 179 977 | 23 523 | 93 000 | 0 | 6 394 489 | 6 580 930 |
 
-<!-- sida 696 -->
+<!-- sida 708 -->
 
 Skulder
 Låneskuldens utveckling
@@ -28327,7 +28798,7 @@ prognosen för bland annat prisbasbeloppet påtagligt vilket
 medförde ökade kostnader för kommande år.
 42 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 697 -->
+<!-- sida 709 -->
 
 Pensionskostnader
 
@@ -28376,7 +28847,7 @@ Foto: Mikael Stenberg
 
 Kommunbudget 2027 och plan 2028–2029 43
 
-<!-- sida 698 -->
+<!-- sida 710 -->
 
 Finansiell         analys
 
@@ -28429,7 +28900,7 @@ i procent
 
 44 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 699 -->
+<!-- sida 711 -->
 
 Finansiell analys
 
@@ -28437,7 +28908,7 @@ Foto: Mikael Stenberg
 
 Kommunbudget 2027 och plan 2028–2029 45
 
-<!-- sida 700 -->
+<!-- sida 712 -->
 
 FINANSIELLA RAPPORTER
 
@@ -28454,7 +28925,7 @@ Kommunbudget 2027
 
 46 Kommunbudget 2027 och plan 2028–2029
 
-[Tabell 700-1](handlingar.tabeller/700-1.csv)
+[Tabell 712-1](handlingar.tabeller/712-1.csv)
 
 | Belopp i miljoner kronor | Bokslut 2025 | Budget 2026 inkl ombudget | Budget 2027 | Plan 2028 | Plan 2029 |
 | --- | --- | --- | --- | --- | --- |
@@ -28487,7 +28958,7 @@ Kommunbudget 2027
 | SKR cirkulär 25:21 |  |  |  |  |  |
 | Resultat tillkommer vid försäljning av exploateringsmark samt exploateringsersättningar prognos våren 2026 till |  | 181 | 322 | 240 | 287 |
 
-<!-- sida 701 -->
+<!-- sida 713 -->
 
 FINANSIELLA RAPPORTER
 
@@ -28495,7 +28966,7 @@ Kassaflödesanalys
 
 Kommunbudget 2027 och plan 2028–2029 47
 
-[Tabell 701-1](handlingar.tabeller/701-1.csv)
+[Tabell 713-1](handlingar.tabeller/713-1.csv)
 
 | Belopp i miljoner kronor | Bokslut 2025 | Budget 2026 inkl ombudget | Budget 2027 | Plan 2028 | Plan 2029 |
 | --- | --- | --- | --- | --- | --- |
@@ -28535,7 +29006,7 @@ Kommunbudget 2027 och plan 2028–2029 47
 | Egenfinansiering av investeringar årsvis | 138% | 59% | 53% | 74% | 107% |
 | Investeringarnas andel av skatter och statsbidrag | 12% | 23% | 25% | 19% | 15% |
 
-<!-- sida 702 -->
+<!-- sida 714 -->
 
 FINANSIELLA RAPPORTER
 
@@ -28546,7 +29017,7 @@ Balansräkning
 enligt RKR R7 i 2024.
 48 Kommunbudget 2027 och plan 2028–2029
 
-[Tabell 702-1](handlingar.tabeller/702-1.csv)
+[Tabell 714-1](handlingar.tabeller/714-1.csv)
 
 | Belopp i miljoner kronor | Bokslut 2025 | Budget 2026 inkl ombudget | Budget 2027 | Plan 2028 | Plan 2029 |
 | --- | --- | --- | --- | --- | --- |
@@ -28588,7 +29059,7 @@ enligt RKR R7 i 2024.
 | Summa eget kapital, avsättningar och skulder | 11 766 | 12 361 | 13 392 | 14 094 | 14 513 |
 | Soliditet | 41,3% | 41,9% | 41,4% | 42,5% | 44,3% |
 
-<!-- sida 703 -->
+<!-- sida 715 -->
 
 INVESTERING OCH EXPLOATERING
 
@@ -28644,7 +29115,7 @@ Behov     Insamling Förstudie Projektering Genomför- Avslut
 Behovsfas
 Kommunbudget 2027 och plan 2028–2029 49
 
-<!-- sida 704 -->
+<!-- sida 716 -->
 
 INVESTERING OCH EXPLOATERING
 
@@ -28701,7 +29172,7 @@ budget för möbler, växter och AV­utrustning (audiovisuell)
 för de förändrade lokalbehoven. Kommunfullmäktiges
 50 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 705 -->
+<!-- sida 717 -->
 
 INVESTERING OCH EXPLOATERING
 
@@ -28727,13 +29198,13 @@ samt social hållbarhet.
 
 Kommunbudget 2027 och plan 2028–2029 51
 
-<!-- sida 706 -->
+<!-- sida 718 -->
 
 INVESTERING OCH EXPLOATERING
 
 52 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 707 -->
+<!-- sida 719 -->
 
 INVESTERING OCH EXPLOATERING
 
@@ -28781,7 +29252,7 @@ föreningsverksamhet.
 
 Kommunbudget 2027 och plan 2028–2029 53
 
-<!-- sida 708 -->
+<!-- sida 720 -->
 
 INVESTERING OCH EXPLOATERING
 
@@ -28819,7 +29290,7 @@ Utblick Nybyggnation skola Skårby F-3
 
 54 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 709 -->
+<!-- sida 721 -->
 
 INVESTERING OCH EXPLOATERING
 
@@ -28901,7 +29372,7 @@ När vi byggt färdigt Åsa grundskola kommer vi kunna använda
 delar av lokalerna på Åsa Gårdsskola till annan verksamhet.
 Kommunbudget 2027 och plan 2028–2029 55
 
-<!-- sida 710 -->
+<!-- sida 722 -->
 
 INVESTERING OCH EXPLOATERING
 
@@ -28939,7 +29410,7 @@ Boende med tolv platser för att verkställa biståndsbeslut.
 
 56 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 711 -->
+<!-- sida 723 -->
 
 INVESTERING OCH EXPLOATERING
 
@@ -28973,7 +29444,7 @@ med andra administrativa verksamheter i en ny lokal
 
 Kommunbudget 2027 och plan 2028–2029 57
 
-<!-- sida 712 -->
+<!-- sida 724 -->
 
 INVESTERING OCH EXPLOATERING
 
@@ -29022,7 +29493,7 @@ Hyresgästanpassning av inhyrd lokal i Kullavik.
 
 58 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 713 -->
+<!-- sida 725 -->
 
 INVESTERING OCH EXPLOATERING
 
@@ -29075,7 +29546,7 @@ lokaler.
 
 Kommunbudget 2027 och plan 2028–2029 59
 
-<!-- sida 714 -->
+<!-- sida 726 -->
 
 INVESTERING OCH EXPLOATERING
 
@@ -29104,7 +29575,7 @@ kronor (Tkr)      2026 inkl. omb. 2027                           2031
 
 60 Kommunbudget 2027 och plan 2028–2029
 
-[Tabell 714-1](handlingar.tabeller/714-1.csv)
+[Tabell 726-1](handlingar.tabeller/726-1.csv)
 
 | Löpande investeringar | 68 855 | 72 355 | 61 805 | 62 505 | 75 205 | 70 205 | 65 505 | 335 225 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -29119,7 +29590,7 @@ kronor (Tkr)      2026 inkl. omb. 2027                           2031
 | Kommunjustering totalt |  |  | -402 700 | -446 300 | -463 000 | -533 300 | -497 000 | -2 342 300 |
 | Summa investeringar inkl exploateringar och lokaler | 1 472 047 | 1 631 548 | 1 844 634 | 1 497 969 | 1 193 877 | 1 252 449 | 1 159 586 | 6 948 515 |
 
-<!-- sida 715 -->
+<!-- sida 727 -->
 
 INVESTERING OCH EXPLOATERING
 
@@ -29149,7 +29620,7 @@ Summa                           255       255       255       510
 
 Kommunbudget 2027 och plan 2028–2029 61
 
-[Tabell 715-1](handlingar.tabeller/715-1.csv)
+[Tabell 727-1](handlingar.tabeller/727-1.csv)
 
 | Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- 2031 |
 | --- | --- | --- | --- | --- |
@@ -29159,7 +29630,7 @@ Kommunbudget 2027 och plan 2028–2029 61
 | Tillägg Civil beredskap | 20 000 | 20 000 |  |  |
 | Summa | 815 130 | 691 419 | 422 157 | 971 864 |
 
-[Tabell 715-2](handlingar.tabeller/715-2.csv)
+[Tabell 727-2](handlingar.tabeller/727-2.csv)
 
 | Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- 2031 |
 | --- | --- | --- | --- | --- |
@@ -29170,7 +29641,7 @@ Kommunbudget 2027 och plan 2028–2029 61
 | Avdrag övriga investeringar | -5 000 |  |  |  |
 | Summa | 29 000 | 16 300 | 19 500 | 40 900 |
 
-<!-- sida 716 -->
+<!-- sida 728 -->
 
 INVESTERING OCH EXPLOATERING
 
@@ -29200,7 +29671,7 @@ Summa                         947 972   678 360  535 390   815 350
 
 62 Kommunbudget 2027 och plan 2028–2029
 
-[Tabell 716-1](handlingar.tabeller/716-1.csv)
+[Tabell 728-1](handlingar.tabeller/728-1.csv)
 
 | Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- 2031 |
 | --- | --- | --- | --- | --- |
@@ -29208,7 +29679,7 @@ Summa                         947 972   678 360  535 390   815 350
 | Övriga investeringar | 2 650 | 2 700 | 2 750 | 5 600 |
 | Summa | 8 650 | 8 700 | 8 750 | 18 600 |
 
-[Tabell 716-2](handlingar.tabeller/716-2.csv)
+[Tabell 728-2](handlingar.tabeller/728-2.csv)
 
 | Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- 2031 |
 | --- | --- | --- | --- | --- |
@@ -29223,7 +29694,7 @@ Summa                         947 972   678 360  535 390   815 350
 | Avdrag reinvesteringar | -10 000 | -10 000 | -20 000 |  |
 | Summa | 163 800 | 111 900 | 203 200 | 768 400 |
 
-[Tabell 716-3](handlingar.tabeller/716-3.csv)
+[Tabell 728-3](handlingar.tabeller/728-3.csv)
 
 | Investeringar, belopp i tusen kronor | Budget 2027 | Plan 2028 | Plan 2029 | Plan 2030- 2031 |
 | --- | --- | --- | --- | --- |
@@ -29233,7 +29704,7 @@ Summa                         947 972   678 360  535 390   815 350
 | Avdrag övriga investeringar | -20 000 | -20 000 | -20 000 | -40 000 |
 | Summa | 100 000 | 100 000 | 100 000 | 200 000 |
 
-<!-- sida 717 -->
+<!-- sida 729 -->
 
 INVESTERING OCH EXPLOATERING
 
@@ -29255,7 +29726,7 @@ Exploateringsplan 2027–2031
 
 Kommunbudget 2027 och plan 2028–2029 63
 
-[Tabell 717-1](handlingar.tabeller/717-1.csv)
+[Tabell 729-1](handlingar.tabeller/729-1.csv)
 
 | Belopp i, | Plan | Plan | Plan | Plan | Plan |
 | --- | --- | --- | --- | --- | --- |
@@ -29276,7 +29747,7 @@ Kommunbudget 2027 och plan 2028–2029 63
 | Gatukostnadsersättning/Investeringsbidrag | -65 706 | -184 396 | -154 991 | -163 801 | -185 745 |
 | Summa exploateringsresultat | -321 957 | -239 698 | -287 491 | -301 801 | -358 745 |
 
-<!-- sida 718 -->
+<!-- sida 730 -->
 
 INVESTERING OCH EXPLOATERING
 
@@ -29338,7 +29809,7 @@ det första flerbostadskvarteret till andra halvan av 2026. kvarter klara i omr�
 ytterligare ett bostadskvarter.
 64 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 719 -->
+<!-- sida 731 -->
 
 INVESTERING OCH EXPLOATERING
 
@@ -29403,7 +29874,7 @@ Nu pågår ytterligare en detaljplan för cirka 150 bostäder i kommunen, som ä
 både småhus och flerbostadshus på den omkringliggande arbeten. Hela projektet beräknas vara klart 2028–2029.
 Kommunbudget 2027 och plan 2028–2029 65
 
-<!-- sida 720 -->
+<!-- sida 732 -->
 
 KOMMUNFULLMÄKTIGES BESLUT
 
@@ -29454,7 +29925,7 @@ Transaktionsidentitet: B1939A27B93459E413E8D2E4334A9EFE2A43B7E313
 
 66 Kommunbudget 2027 och plan 2028–2029
 
-<!-- sida 721 -->
+<!-- sida 733 -->
 
 KOMMUNFULLMÄKTIGES BESLUT
 
@@ -29507,7 +29978,7 @@ Transaktionsidentitet: E0C126CD6EF1CF3EB97E40FA0A0743F217A51E5026
 Transaktionsidentitet: B1939A27B93459E413E8D2E4334A9EFE2A43B7E313
 Kommunbudget 2027 och plan 2028–2029 67
 
-<!-- sida 722 -->
+<!-- sida 734 -->
 
 Kungsbacka kommunfullmäktige beslutade i juni 2026 om kommunbudgeten för
 2027\. Det här dokumentet innehåller våra övergripande mål med fokusområden
@@ -29520,7 +29991,7 @@ Kungsbacka kommun
 (e-post borttagen)
 kungsbacka.se
 
-<!-- sida 723 -->
+<!-- sida 735 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (7)
 Kommunfullmäktige
@@ -29580,7 +30051,7 @@ Transaktionsidentitet: 2FBB416CE931B889D7CE012EBACD97338D62D0A73B
 Transaktionsidentitet: E0C126CD6EF1CF3EB97E40FA0A0743F217A51E5026
 Transaktionsidentitet: B1939A27B93459E413E8D2E4334A9EFE2A43B7E313
 
-<!-- sida 724 -->
+<!-- sida 736 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (7)
 Kommunfullmäktige
@@ -29640,7 +30111,7 @@ Transaktionsidentitet: 2FBB416CE931B889D7CE012EBACD97338D62D0A73B
 Transaktionsidentitet: E0C126CD6EF1CF3EB97E40FA0A0743F217A51E5026
 Transaktionsidentitet: B1939A27B93459E413E8D2E4334A9EFE2A43B7E313
 
-<!-- sida 725 -->
+<!-- sida 737 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           3 (7)
 Kommunfullmäktige
@@ -29701,7 +30172,7 @@ Transaktionsidentitet: 2FBB416CE931B889D7CE012EBACD97338D62D0A73B
 Transaktionsidentitet: E0C126CD6EF1CF3EB97E40FA0A0743F217A51E5026
 Transaktionsidentitet: B1939A27B93459E413E8D2E4334A9EFE2A43B7E313
 
-<!-- sida 726 -->
+<!-- sida 738 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           4 (7)
 Kommunfullmäktige
@@ -29762,7 +30233,7 @@ Transaktionsidentitet: 2FBB416CE931B889D7CE012EBACD97338D62D0A73B
 Transaktionsidentitet: E0C126CD6EF1CF3EB97E40FA0A0743F217A51E5026
 Transaktionsidentitet: B1939A27B93459E413E8D2E4334A9EFE2A43B7E313
 
-<!-- sida 727 -->
+<!-- sida 739 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           5 (7)
 Kommunfullmäktige
@@ -29828,7 +30299,7 @@ Transaktionsidentitet: 2FBB416CE931B889D7CE012EBACD97338D62D0A73B
 Transaktionsidentitet: E0C126CD6EF1CF3EB97E40FA0A0743F217A51E5026
 Transaktionsidentitet: B1939A27B93459E413E8D2E4334A9EFE2A43B7E313
 
-<!-- sida 728 -->
+<!-- sida 740 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           6 (7)
 Kommunfullmäktige
@@ -29891,7 +30362,7 @@ Transaktionsidentitet: 2FBB416CE931B889D7CE012EBACD97338D62D0A73B
 Transaktionsidentitet: E0C126CD6EF1CF3EB97E40FA0A0743F217A51E5026
 Transaktionsidentitet: B1939A27B93459E413E8D2E4334A9EFE2A43B7E313
 
-<!-- sida 729 -->
+<!-- sida 741 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           7 (7)
 Kommunfullmäktige
@@ -29939,7 +30410,7 @@ Transaktionsidentitet: 2FBB416CE931B889D7CE012EBACD97338D62D0A73B
 Transaktionsidentitet: E0C126CD6EF1CF3EB97E40FA0A0743F217A51E5026
 Transaktionsidentitet: B1939A27B93459E413E8D2E4334A9EFE2A43B7E313
 
-<!-- sida 730 -->
+<!-- sida 742 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (3)
 Kommunstyrelsens arbetsutskott
@@ -29998,7 +30469,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 9D295D90CF7CB50C99CA6649B1E96211D553E29D1F
 Transaktionsidentitet: 4BFF0F813D6508971C2C2BB3ECE53004E5FEB71A2F
 
-<!-- sida 731 -->
+<!-- sida 743 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (3)
 Kommunstyrelsens arbetsutskott
@@ -30055,7 +30526,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 9D295D90CF7CB50C99CA6649B1E96211D553E29D1F
 Transaktionsidentitet: 4BFF0F813D6508971C2C2BB3ECE53004E5FEB71A2F
 
-<!-- sida 732 -->
+<!-- sida 744 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           3 (3)
 Kommunstyrelsens arbetsutskott
@@ -30072,7 +30543,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 9D295D90CF7CB50C99CA6649B1E96211D553E29D1F
 Transaktionsidentitet: 4BFF0F813D6508971C2C2BB3ECE53004E5FEB71A2F
 
-<!-- sida 733 -->
+<!-- sida 745 -->
 
 TJÄNSTESKRIVELSE
 
@@ -30128,7 +30599,7 @@ Förhandlingschef                                       Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 734 -->
+<!-- sida 746 -->
 
 KUNGSBACKA  KOMMUN
 2 (7)
@@ -30178,7 +30649,7 @@ kommuner, regioner och kommunalförbund. Regelverken har successivt anpassats ti
 förutsättningar och till de pensions- och omställningsavtal som gäller för anställda inom den
 kommunala sektorn.
 
-<!-- sida 735 -->
+<!-- sida 747 -->
 
 KUNGSBACKA  KOMMUN
 3 (7)
@@ -30229,7 +30700,7 @@ en eventuell beskrivning av förhållandet till Kungsbacka kommuns lokala skrivn
 
 25/OPF 22. Förslag ges till respektive förändring.
 
-<!-- sida 736 -->
+<!-- sida 748 -->
 
 KUNGSBACKA  KOMMUN
 4 (7)
@@ -30277,7 +30748,7 @@ bestämmelser om omställningsstöd,
 pension och familjeskydd för
 förtroendevalda (OPF-KR 26).
 
-<!-- sida 737 -->
+<!-- sida 749 -->
 
 KUNGSBACKA  KOMMUN
 5 (7)
@@ -30327,7 +30798,7 @@ motsvarande en tolftedel av prisbasbeloppet. Samordning sker enligt kontantprinc
 förtroendevald arbetar utan eller med låg ersättning kan pensionsmyndigheten minska stödet utifrån
 en skäligt beräknad inkomst.
 
-<!-- sida 738 -->
+<!-- sida 750 -->
 
 KUNGSBACKA  KOMMUN
 6 (7)
@@ -30344,13 +30815,13 @@ av OPF-KR justerades beloppet årligen genom indexering, men denna rutin har av
 administrativa skäl tagits bort.
 −  En möjlighet till kortare utbetalningstid av pensionsbehållningen om minst 10 år har införts.
 
-[Tabell 738-1](handlingar.tabeller/738-1.csv)
+[Tabell 750-1](handlingar.tabeller/750-1.csv)
 
 | SKR:s OPF-KR 25 Kungsbackas OPF-KR 25 SKR:s OPF-KR 26 |  |  |
 | --- | --- | --- |
 | Omställningsersättningarna<br>enligt §§ 4 och 5 ska<br>samordnas/minskas med andra<br>förvärvsinkomster om inte<br>annat anges.<br>Det första årets utbetalning av<br>ekonomiskt omställningsstöd<br>samordnas inte med<br>förvärvsinkomster.<br>De två följande åren undantas<br>årligen ett prisbasbelopp från<br>samordning | Omställningsersättningarna<br>enligt §§ 4 och 5 ska<br>samordnas/minskas med andra<br>förvärvsinkomster om inte annat<br>anges.<br>Ekonomiskt och förlängt<br>ekonomiskt omställningsstöd<br>ska samordnas/minskas med<br>förvärvsinkomster under hela<br>utbetalningstiden.<br>Samordning ska ske månadsvis.<br>All annan inkomst än<br>kapitalinkomst är att betrakta<br>som förvärvsinkomst.<br>Årligen undantas ett<br>prisbasbelopp från samordning. | Ekonomiskt omställningsstöd och<br>förlängt ekonomiskt<br>omställningsstöd enligt §§ 4 och 5<br>ska samordnas med<br>förvärvsinkomster och/eller andra<br>inkomster som ersätter<br>förvärvsinkomster under hela<br>utbetalningstiden.<br>Samtliga inkomster, med undantag<br>för kapitalinkomster, ska anses<br>utgöra förvärvsinkomster.<br>Av administrativa skäl får från<br>samordningen undantas ett fribelopp<br>som per månad motsvarar en<br>tolftedel av samma års<br>prisbasbelopp.<br>Om en förtroendevald utför arbete<br>utan ersättning eller mot låg<br>ersättning, eller erhåller annan<br>ersättning än förvärvsinkomst enligt<br>första stycket, får den lokala<br>pensionsmyndigheten besluta att<br>minska omställningsstödet med ett<br>uppskattat inkomstbelopp som<br>motsvarar den inkomst som bedöms<br>skälig. |
 
-<!-- sida 739 -->
+<!-- sida 751 -->
 
 KUNGSBACKA  KOMMUN
 7 (7)
@@ -30393,7 +30864,7 @@ omställningsfonden som anordnare.
 Rickard Vidlund                    Anders Johansson
 Kommundirektör                     Biträdande kommundirektör
 
-<!-- sida 740 -->
+<!-- sida 752 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (3)
 Arvodesberedningen
@@ -30451,7 +30922,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 6CB756B1F2CDC5411016CDED8D20F1AA4238E5F92E
 Transaktionsidentitet: A06B17575D253E9D9A6F2B96FD730D299A9855960B
 
-<!-- sida 741 -->
+<!-- sida 753 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           2 (3)
 Arvodesberedningen
@@ -30509,7 +30980,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 6CB756B1F2CDC5411016CDED8D20F1AA4238E5F92E
 Transaktionsidentitet: A06B17575D253E9D9A6F2B96FD730D299A9855960B
 
-<!-- sida 742 -->
+<!-- sida 754 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           3 (3)
 Arvodesberedningen
@@ -30537,7 +31008,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 6CB756B1F2CDC5411016CDED8D20F1AA4238E5F92E
 Transaktionsidentitet: A06B17575D253E9D9A6F2B96FD730D299A9855960B
 
-<!-- sida 743 -->
+<!-- sida 755 -->
 
 Kungsbacka          kommuns          lokal
 
@@ -30561,7 +31032,7 @@ www.kungsbacka.se
 
 Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
-<!-- sida 744 -->
+<!-- sida 756 -->
 
 Innehåll
 Kungsbacka kommuns lokal bestämmelser om omställnings-stöd, pension och familjeskydd för förtroendevalda
@@ -30615,7 +31086,7 @@ Familjeskydd vid förtroendevalds dödsfall ....................................
 
 Kungsbacka kommun              Styrande dokument               2 (13)
 
-<!-- sida 745 -->
+<!-- sida 757 -->
 
 Allmänt om bestämmelserna
 Ett förtroendeuppdrag utgör en viktig del av den demokratiska strukturen och medför
@@ -30669,7 +31140,7 @@ OPF-KR 26 indelas i fyra kapitel:
 
 Kungsbacka kommun              Styrande dokument               3 (13)
 
-<!-- sida 746 -->
+<!-- sida 758 -->
 
 Kapitel 1
 
@@ -30722,7 +31193,7 @@ har lämnat sina politiska uppdrag.
 
 Kungsbacka kommun              Styrande dokument               4 (13)
 
-<!-- sida 747 -->
+<!-- sida 759 -->
 
 § 3 Aktiva omställningsinsatser
 Möjlighet till aktiva omställningsinsatser har förtroendevald som innehaft ett eller
@@ -30780,7 +31251,7 @@ förtroendevalde inte har tagit del av omställningsstöd hos den tidigare
 
 Kungsbacka kommun              Styrande dokument               5 (13)
 
-<!-- sida 748 -->
+<!-- sida 760 -->
 
 uppdragsgivaren. Tillgodoräkningen bör samfinansieras av den tidigare
 uppdragsgivaren.
@@ -30836,7 +31307,7 @@ beloppet återbetalas.
 
 Kungsbacka kommun              Styrande dokument               6 (13)
 
-<!-- sida 749 -->
+<!-- sida 761 -->
 
 Pensionsmyndigheten kan – om särskilda skäl föreligger –besluta att helt eller delvis
 avstå från återkrav.
@@ -30891,7 +31362,7 @@ begränsas till högst 30 inkomstbasbelopp.
 
 Kungsbacka kommun              Styrande dokument               7 (13)
 
-<!-- sida 750 -->
+<!-- sida 762 -->
 
 Den pensionsgrundande inkomsten utgörs av den förtroendevaldes årsarvode,
 sammanträdesersättningar samt andra i det pensionsgrundande uppdraget
@@ -30948,7 +31419,7 @@ hos respektive kommun.
 
 Kungsbacka kommun              Styrande dokument               8 (13)
 
-<!-- sida 751 -->
+<!-- sida 763 -->
 
 Pensionsbehållningen räknas upp årligen (indexeras) med förändringen av
 inkomstbasbeloppet.
@@ -31005,7 +31476,7 @@ av heltid, med sammanlagt minst 40 procent av en heltid, och som får rätt till
 
 Kungsbacka kommun              Styrande dokument               9 (13)
 
-<!-- sida 752 -->
+<!-- sida 764 -->
 
 eller aktivitetsersättning enligt SFB och som en följd härav med stöd av 4 kap. 6 §
 kommunallagen avgår från sitt uppdrag före mandatperiodens utgång.
@@ -31058,7 +31529,7 @@ före utbetalning av förmånen börjar.
 
 Kungsbacka kommun              Styrande dokument               10 (13)
 
-<!-- sida 753 -->
+<!-- sida 765 -->
 
 § 12 Vissa inskränkningar i rätten till pensionsförmån
 Angående påföljd i pensionsförmånshänseende för den som uppsåtligen framkallat
@@ -31115,7 +31586,7 @@ a) under tid då han eller hon uppfyller förutsättningarna enligt § 1,
 
 Kungsbacka kommun              Styrande dokument               11 (13)
 
-<!-- sida 754 -->
+<!-- sida 766 -->
 
 b) under tid då han eller hon får sjukpension enligt Pensionsbestämmelser §
 10,
@@ -31171,7 +31642,7 @@ fostran i adoptionssyfte.
 
 Kungsbacka kommun              Styrande dokument               12 (13)
 
-<!-- sida 755 -->
+<!-- sida 767 -->
 
 § 7 Beräkning och utbetalning av familjeskydd till efterlevande barn
 Ett efterlevande barn, med rätt till familjeskydd enligt ovan, har, från och med
@@ -31225,7 +31696,7 @@ första stycket FAL.
 
 Kungsbacka kommun              Styrande dokument               13 (13)
 
-<!-- sida 756 -->
+<!-- sida 768 -->
 
 Kungsbacka          kommuns          lokal
 
@@ -31249,7 +31720,7 @@ www.kungsbacka.se
 
 Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
-<!-- sida 757 -->
+<!-- sida 769 -->
 
 Innehåll
 Kapitel 1 ........................................................................................................................................... 4
@@ -31303,7 +31774,7 @@ Familjeskydd vid förtroendevalds dödsfall ....................................
 
 Kungsbacka kommun              Styrande dokument               2 (16)
 
-<!-- sida 758 -->
+<!-- sida 770 -->
 
 Allmänt om bestämmelserna
 Ett förtroendeuppdrag utgör en viktig del av den demokratiska strukturen och medför
@@ -31357,7 +31828,7 @@ OPF-KR 26 indelas i fyra kapitel:
 
 Kungsbacka kommun              Styrande dokument               3 (16)
 
-<!-- sida 759 -->
+<!-- sida 771 -->
 
 Gult = Kungsbackas lokala skrivning från OPF-KR 25
 Blått = SKRs nya skrivningar, framför allt med nytt sakinnehåll innehåll
@@ -31384,7 +31855,7 @@ kapitel 2 - Bestämmelser om omställningsstöd för förtroendevalda.
 
 Kungsbacka kommun              Styrande dokument               4 (16)
 
-<!-- sida 760 -->
+<!-- sida 772 -->
 
 Kapitel 2
 
@@ -31442,7 +31913,7 @@ ta ställning till lämpliga aktiva omställningsinsatser samt vilken kostnadsra
 
 Kungsbacka kommun              Styrande dokument               5 (16)
 
-<!-- sida 761 -->
+<!-- sida 773 -->
 
 ska gälla. De åtgärder som erbjuds kan exempelvis, som på arbetsmarknaden i
 övrigt, bestå av rådgivningsinsatser och kompletterande utbildning.
@@ -31499,7 +31970,7 @@ Förlängt ekonomiskt omställningsstöd kan utges för ett år i taget och som 
 
 Kungsbacka kommun              Styrande dokument               6 (16)
 
-<!-- sida 762 -->
+<!-- sida 774 -->
 
 och med kalendermånaden innan den förtroendevalde uppnått motsvarande 32 a §
 LAS angiven ålder.
@@ -31555,7 +32026,7 @@ som pensionsmyndigheten utfärdar.
 
 Kungsbacka kommun              Styrande dokument               7 (16)
 
-<!-- sida 763 -->
+<!-- sida 775 -->
 
 Ansökan om omställningsstöd enligt §§ 3–5 ska göras i nära anslutning till att den
 förtroendevalde lämnar/minskar sitt (sina) uppdrag.
@@ -31568,7 +32039,7 @@ pensionsmyndigheten tagit emot sådan ansökan.
 
 Kungsbacka kommun              Styrande dokument               8 (16)
 
-<!-- sida 764 -->
+<!-- sida 776 -->
 
 Kapitel 3
 
@@ -31625,7 +32096,7 @@ inkomst enligt § 4.
 
 Kungsbacka kommun              Styrande dokument               9 (16)
 
-<!-- sida 765 -->
+<!-- sida 777 -->
 
 Pensionsavgiften är 6 procent på den pensionsgrundande inkomsten upp till och
 med 7,5 inkomstbasbelopp.
@@ -31683,7 +32154,7 @@ av pensionsbehållningen, välja utbetalning under kortare tid, dock som lägst 
 
 Kungsbacka kommun              Styrande dokument               10 (16)
 
-<!-- sida 766 -->
+<!-- sida 778 -->
 
 Utbetalning får tidigast påbörjas från den tidpunkt då den förtroendevalde enligt 58
 kap. 1§ Socialförsäkringsbalken (2010:110) har rätt att ta ut allmän pension, minus
@@ -31740,7 +32211,7 @@ gäller för utbetalning av månadsersättning enligt AGS-KL.
 
 Kungsbacka kommun              Styrande dokument               11 (16)
 
-<!-- sida 767 -->
+<!-- sida 779 -->
 
 Förtroendevald som befrias/frånträder sitt uppdrag p g a sjukdom har rätt till
 efterskydd under 270 kalenderdagar. Efterskyddet innebär att rätt till sjukpension
@@ -31798,14 +32269,14 @@ skyldigheter pensionsmyndigheten fastställt förverkar rätten till förmåner 
 
 Kungsbacka kommun              Styrande dokument               12 (16)
 
-<!-- sida 768 -->
+<!-- sida 780 -->
 
 inte genom att senare fullgöra skyldigheten återfå rätten till förverkat belopp mer än
 sex månader tillbaka. Pensionsmyndigheten kan dock medge undantag.
 
 Kungsbacka kommun              Styrande dokument               13 (16)
 
-<!-- sida 769 -->
+<!-- sida 781 -->
 
 Kapitel 4
 
@@ -31862,7 +32333,7 @@ med den ogifte förtroendevalde vid hans eller hennes död, och
 
 Kungsbacka kommun              Styrande dokument               14 (16)
 
-<!-- sida 770 -->
+<!-- sida 782 -->
 
 a) som tidigare varit gift eller registrerad partner med den förtroendevalde,
 eller
@@ -31915,7 +32386,7 @@ månadsvis och i lika stora delar.
 
 Kungsbacka kommun              Styrande dokument               15 (16)
 
-<!-- sida 771 -->
+<!-- sida 783 -->
 
 § 8 Utbetalning av förmåner
 Familjeskyddet betalas ut till den förtroendevaldes efterlevande månadsvis, senast
@@ -31946,7 +32417,7 @@ första stycket FAL.
 
 Kungsbacka kommun              Styrande dokument               16 (16)
 
-<!-- sida 772 -->
+<!-- sida 784 -->
 
 Tillämpningsanvisning
 
@@ -31992,7 +32463,7 @@ tillhanda senast sex månader efter att det politiska uppdraget har upphört.
 
 Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
 
-<!-- sida 773 -->
+<!-- sida 785 -->
 
 •  Ansökan om förlängt ekonomiskt omställningsstöd ska vara pensionshandläggare tillhanda senast tre
 månader innan ekonomiskt omställningsstöd upphör. Ansökan görs för ett år i taget.
@@ -32040,7 +32511,7 @@ som ansökan om efterlevandeskydd.
 
 [Dokumen tets titel]         Sida 2 av 3
 
-<!-- sida 774 -->
+<!-- sida 786 -->
 
 Familjepension – Kapitel 4
 
@@ -32059,7 +32530,7 @@ kungsbacka.se
 
 [Dokumen tets titel]         Sida 3 av 3
 
-<!-- sida 775 -->
+<!-- sida 787 -->
 
 2025-12-19
 
@@ -32115,7 +32586,7 @@ OPF-KR 26 indelas i fyra kapitel:
 
 •  Ekonomiskt omställningsstöd
 
-<!-- sida 776 -->
+<!-- sida 788 -->
 
 •  Förlängt ekonomiskt omställningsstöd
 
@@ -32133,7 +32604,7 @@ OPF-KR 26 indelas i fyra kapitel:
 
 •  Familjeskydd till efterlevande barn
 
-<!-- sida 777 -->
+<!-- sida 789 -->
 
 Kapitel 1
 
@@ -32151,7 +32622,7 @@ Den förtroendevalde är skyldig att följa de ändringar av och de tillägg til
 bestämmelser som kommunen, regionen eller kommunalförbundet från tid till
 annan beslutar.
 
-<!-- sida 778 -->
+<!-- sida 790 -->
 
 Kapitel 2
 
@@ -32205,7 +32676,7 @@ angiven ålder när den förtroendevalde lämnar sitt (sina) uppdrag.
 Respektive kommun, region och kommunalförbund har att utifrån den
 förtroendevaldes individuella förutsättningar ta ställning till lämpliga aktiva
 
-<!-- sida 779 -->
+<!-- sida 791 -->
 
 omställningsinsatser samt vilken kostnadsram som ska gälla. De åtgärder som
 erbjuds kan exempelvis, som på arbetsmarknaden i övrigt, bestå av
@@ -32258,7 +32729,7 @@ före uppdrag hos nuvarande uppdragsgivare. Den förtroendevalde ansvarar för
 att, i samband med ansökan och redovisning, skriftligen begära tillgodoräkning
 samt styrka tidigare uppdrag. För att tillgodoräkning ska medges krävs att den
 
-<!-- sida 780 -->
+<!-- sida 792 -->
 
 förtroendevalde inte har tagit del av omställningsstöd hos den tidigare
 uppdragsgivaren. Tillgodoräkningen bör samfinansieras av den tidigare
@@ -32314,7 +32785,7 @@ omställningsinsatser, ekonomiskt omställningsstöd eller förlängt ekonomiskt
 omställningsstöd till följd av oriktiga uppgifter, underlåtenhet att fullgöra
 anmälningsskyldighet eller annan omständighet, eller om den förtroendevalde
 
-<!-- sida 781 -->
+<!-- sida 793 -->
 
 skäligen borde ha insett att utbetalningen var felaktig, ska det felaktigt utbetalda
 beloppet återbetalas. Pensionsmyndigheten kan – om särskilda skäl föreligger –
@@ -32336,7 +32807,7 @@ Om rätt till ekonomiskt eller förlängt ekonomiskt omställningsstöd förelig
 bör den förtroendevalde få sådant omställningsstöd utbetalat inom tre månader
 efter det att pensionsmyndigheten tagit emot sådan ansökan.
 
-<!-- sida 782 -->
+<!-- sida 794 -->
 
 Kapitel 3
 
@@ -32387,7 +32858,7 @@ sammanträdesersättningar samt andra i det pensionsgrundande uppdraget
 För förtroendevald med uppdrag på heltid eller betydande del av heltid,
 motsvarande sammanlagt minst 40 procent av en heltid, som under ledighet till
 
-<!-- sida 783 -->
+<!-- sida 795 -->
 
 följd av sjukdom, olycksfall, arbetsskada eller föräldraledighet fått avdrag från
 sitt arvode, ska den pensionsgrundande inkomsten räknas om (höjas) med vad
@@ -32443,7 +32914,7 @@ utbetalas inte.
 Pensionsavgiften för ett kalenderår avsätts senast den 31 mars följande år till en
 pensionsbehållning hos respektive kommun, region eller kommunalförbund, där
 
-<!-- sida 784 -->
+<!-- sida 796 -->
 
 den förtroendevalde har innehaft uppdrag. Med pensionsbehållning avses
 summan av de årliga pensionsavgifter som intjänats hos respektive kommun,
@@ -32497,7 +32968,7 @@ Förtroendevald är skyldig att lämna de uppgifter som pensionsmyndigheten
 
 begär för att kunna fastställa rätten till och beräkna avsättning till
 
-<!-- sida 785 -->
+<!-- sida 797 -->
 
 pensionsbehållning. Lämnas inte sådana uppgifter kan pensionsmyndigheten
 besluta att avsättningen ska minskas i skälig omfattning.
@@ -32549,7 +33020,7 @@ tillträder en anställning eller annat uppdrag förenat med pensionsrätt.
 
 Pensionsmyndigheten kan i särskilt fall fatta beslut om förlängd efterskyddstid.
 
-<!-- sida 786 -->
+<!-- sida 798 -->
 
 § 11 Efterlevandeskydd
 
@@ -32603,14 +33074,14 @@ uppgifter som pensionsmyndigheten begär för att fastställa rätten till
 
 sjukpension och efterlevandeskydd. Förtroendevald eller efterlevande som inte
 
-<!-- sida 787 -->
+<!-- sida 799 -->
 
 fullgör de skyldigheter pensionsmyndigheten fastställt förverkar rätten till
 förmåner och kan inte genom att senare fullgöra skyldigheten återfå rätten till
 förverkat belopp mer än sex månader tillbaka. Pensionsmyndigheten kan dock
 medge undantag.
 
-<!-- sida 788 -->
+<!-- sida 800 -->
 
 Kapitel 4
 
@@ -32665,7 +33136,7 @@ den förtroendevalde hade fler än ett uppdrag som var och en innebär att den
 
 avlidne uppfyller dessa villkor.
 
-<!-- sida 789 -->
+<!-- sida 801 -->
 
 § 4 Familjeskydd till efterlevande vuxen
 
@@ -32719,7 +33190,7 @@ samma år, rätt till en månatlig förmån motsvarande 0,5 inkomstbasbelopp del
 med tolv. Förmånen ska därefter årligen räknas upp med förändringen av
 prisbasbeloppet.
 
-<!-- sida 790 -->
+<!-- sida 802 -->
 
 Det sammanlagda månatliga förmånsvärdet av familjeskydd till efterlevandes
 samtliga barn kan dock aldrig överstiga värdet av 1,5 inkomstbasbelopp det år
@@ -32775,7 +33246,7 @@ familjeskydd med anledning av att han eller hon uppsåtligen har framkallat den
 förtroendevaldes död. Omständigheterna ska vara sådana som anges i 12 kap. 8
 § första stycket FAL.
 
-<!-- sida 791 -->
+<!-- sida 803 -->
 
 2025-12-19                     1 (4)
 
@@ -32833,7 +33304,7 @@ Sveriges Kommuner och Regioner
 Post: 118 82 Stockholm Besök: Hornsgatan 20
 Tfn: 08-452 70 00 Org nr: 222000-0315
 
-<!-- sida 792 -->
+<!-- sida 804 -->
 
 20                                                         2 (4)
 2025-12-19
@@ -32888,7 +33359,7 @@ också införts. Detta för att pensionsbehållningen inte ska glömmas bort.
 Sambobegreppet förtydligas med hänvisning till sambolagen i § 11,
 efterlevandeskydd.
 
-<!-- sida 793 -->
+<!-- sida 805 -->
 
 20                                                         3 (4)
 2025-12-19
@@ -32932,7 +33403,7 @@ Jeanette Hedberg
 
 Victoria Bergner
 
-<!-- sida 794 -->
+<!-- sida 806 -->
 
 20                                                         4 (4)
 2025-12-19
@@ -32942,7 +33413,7 @@ Bilaga 1 - OPF-KR 26
 Bilaga 2 - Kommentar till OPF-KR 26
 Bilaga 3 - Delningstal OPF-KR 26
 
-<!-- sida 795 -->
+<!-- sida 807 -->
 
 Delningstal OPF-KR 26
 
@@ -32998,7 +33469,7 @@ Uttagsålder Delningstal Delningstal
 6301      20,9889       22,2486
 ```
 
-<!-- sida 796 -->
+<!-- sida 808 -->
 
 ```osaker-tabell
 6302      20,9397       22,2104
@@ -33056,7 +33527,7 @@ Uttagsålder Delningstal Delningstal
 6700      18,6456       20,5493
 ```
 
-<!-- sida 797 -->
+<!-- sida 809 -->
 
 ```osaker-tabell
 6701      18,5952       20,5158
@@ -33114,7 +33585,7 @@ Uttagsålder Delningstal Delningstal
 7011      16,2651        19,126
 ```
 
-<!-- sida 798 -->
+<!-- sida 810 -->
 
 ```osaker-tabell
 7100      16,2144       19,0996
@@ -33172,7 +33643,7 @@ Uttagsålder Delningstal Delningstal
 7410      13,8894       18,0873
 ```
 
-<!-- sida 799 -->
+<!-- sida 811 -->
 
 ```osaker-tabell
 7411      13,8392       18,0699
@@ -33230,7 +33701,7 @@ Uttagsålder Delningstal Delningstal
 7809      11,5714        17,478
 ```
 
-<!-- sida 800 -->
+<!-- sida 812 -->
 
 ```osaker-tabell
 7810      11,5232       17,4694
@@ -33259,7 +33730,7 @@ dödlighet och inkomster. Vid skattning av dödlighetsparametrar har också en a
 tillämpats, så kallad ekonomisk dödlighet, vilken beaktar skillnader i dödlighet för anställda
 i olika inkomstskikt.
 
-<!-- sida 801 -->
+<!-- sida 813 -->
 
 19520
 
@@ -33280,19 +33751,19 @@ as 107 61,5 20,5 89 32 1,5 LÖ 0.8 OB
 b+1065 0206 | 0206 | 0334 | Os8 | 062 | 0575 | 0587 | 0552
 c 0.148 | 0151 | 0145 | 0138 | 0134 | 0133 | 0121 | 0130
 
-<!-- sida 802 -->
+<!-- sida 814 -->
 
-<!-- sida 803 -->
+<!-- sida 815 -->
 
-<!-- sida 804 -->
+<!-- sida 816 -->
 
-<!-- sida 805 -->
+<!-- sida 817 -->
 
-<!-- sida 806 -->
+<!-- sida 818 -->
 
-<!-- sida 807 -->
+<!-- sida 819 -->
 
-<!-- sida 808 -->
+<!-- sida 820 -->
 
 2025-12-19
 
@@ -33329,7 +33800,7 @@ Definitioner och förklaringar i OPF-KR 26
 
 1
 
-[Tabell 808-810-1](handlingar.tabeller/808-810-1.csv)
+[Tabell 820-822-1](handlingar.tabeller/820-822-1.csv)
 
 | Förtroendevald som avses i 4 kap.<br>1 § kommunallagen (2017:725) | ”Med förtroendevalda avses i denna lag<br>ledamöter och ersättare i fullmäktige,<br>nämnder och fullmäktigeberedningar, de som<br>fullgör förtroendeuppdrag som anges i 2 §<br>första stycket samt revisorer.<br>Med förtroendevalda avses också ledamöter<br>och ersättare i den beslutande församlingen,<br>förbundsstyrelsen eller någon annan nämnd,<br>de beslutande församlingarnas beredningar<br>samt revisorer i ett kommunalförbund.” |
 | --- | --- |
@@ -33341,13 +33812,13 @@ Definitioner och förklaringar i OPF-KR 26
 | Pensionsgrundande inkomst | Den förtroendevaldes årsarvoden,<br>sammanträdesersättningar samt andra i det<br>pensionsgrundande uppdraget (uppdragen)<br>utgivna kontanta ersättningar. |
 | Mandatperiod | En mandatperiod är den period den<br>förtroendevalde har sitt uppdrag. I Sverige<br>utgör en politisk mandatperiod oftast fyra år<br>och mandatperioden för kommunfullmäktige<br>löper mellan valen från och med den 15<br>oktober valåret (kap 5 § 9 första stycket<br>kommunallagen). |
 
-<!-- sida 809 -->
+<!-- sida 821 -->
 
 2025-12-19
 
 2
 
-<!-- sida 810 -->
+<!-- sida 822 -->
 
 2025-12-19
 
@@ -33377,7 +33848,7 @@ uppdragsgivare.
 
 3
 
-<!-- sida 811 -->
+<!-- sida 823 -->
 
 2025-12-19
 
@@ -33433,7 +33904,7 @@ samt förlängt ekonomiskt omställningsstöd. Omställningsstöden ska samordna
 
 4
 
-<!-- sida 812 -->
+<!-- sida 824 -->
 
 2025-12-19
 
@@ -33489,7 +33960,7 @@ föreligger, fortsätter de äldre bestämmelserna att gälla (t.ex. PBF § 1 mo
 
 5
 
-<!-- sida 813 -->
+<!-- sida 825 -->
 
 2025-12-19
 
@@ -33541,7 +34012,7 @@ PBF § 2 mom. 3.
 
 6
 
-<!-- sida 814 -->
+<!-- sida 826 -->
 
 2025-12-19
 
@@ -33573,7 +34044,7 @@ beslutar.
 
 7
 
-<!-- sida 815 -->
+<!-- sida 827 -->
 
 2025-12-19
 
@@ -33628,7 +34099,7 @@ omställningsarbetet i syfte att så snart som möjligt erhålla en ny försörj
 
 8
 
-<!-- sida 816 -->
+<!-- sida 828 -->
 
 2025-12-19
 
@@ -33683,7 +34154,7 @@ att ett beslut om att inte bevilja ansvarsfrihet normalt omfattar samtliga ledam
 
 9
 
-<!-- sida 817 -->
+<!-- sida 829 -->
 
 2025-12-19
 
@@ -33735,7 +34206,7 @@ kommun, region eller kommunalförbund.
 
 10
 
-<!-- sida 818 -->
+<!-- sida 830 -->
 
 2025-12-19
 
@@ -33790,7 +34261,7 @@ sådana fall justeras i motsvarande omfattning. Pensionsmyndigheten kan således
 
 11
 
-<!-- sida 819 -->
+<!-- sida 831 -->
 
 2025-12-19
 
@@ -33840,7 +34311,7 @@ förtroendevalda.
 
 12
 
-<!-- sida 820 -->
+<!-- sida 832 -->
 
 2025-12-19
 
@@ -33895,7 +34366,7 @@ förtroendevalde uppnått motsvarande 32 a § LAS angiven ålder .
 
 13
 
-<!-- sida 821 -->
+<!-- sida 833 -->
 
 2025-12-19
 
@@ -33948,7 +34419,7 @@ begär för att kunna fastställa rätten till och beräkna aktiva omställnings
 
 14
 
-<!-- sida 822 -->
+<!-- sida 834 -->
 
 2025-12-19
 
@@ -33991,7 +34462,7 @@ månader efter det att pensionsmyndigheten tagit emot sådan ansökan.
 
 15
 
-<!-- sida 823 -->
+<!-- sida 835 -->
 
 2025-12-19
 
@@ -34040,7 +34511,7 @@ pensionsbehållningen.
 
 16
 
-<!-- sida 824 -->
+<!-- sida 836 -->
 
 2025-12-19
 
@@ -34094,7 +34565,7 @@ pensionsgrundande inkomsten som överstiger 7,5 inkomstbasbelopp, intill dess de
 
 17
 
-<!-- sida 825 -->
+<!-- sida 837 -->
 
 2025-12-19
 
@@ -34146,7 +34617,7 @@ förhållande till inkomstbortfallet tidsbegränsas till att omfatta enbart mand
 
 18
 
-<!-- sida 826 -->
+<!-- sida 838 -->
 
 2025-12-19
 
@@ -34202,7 +34673,7 @@ utbetalas. Utbetalningstidpunkt av avgiftsbestämd pensionsbehållning kommer p�
 
 19
 
-<!-- sida 827 -->
+<!-- sida 839 -->
 
 2025-12-19
 
@@ -34256,7 +34727,7 @@ inkomstbasbeloppet året innan utbetalning av förmånen börjar.
 
 20
 
-<!-- sida 828 -->
+<!-- sida 840 -->
 
 2025-12-19
 
@@ -34310,7 +34781,7 @@ halva årsarvodet.
 
 21
 
-<!-- sida 829 -->
+<!-- sida 841 -->
 
 2025-12-19
 
@@ -34365,7 +34836,7 @@ lika mellan dessa barn.
 
 22
 
-<!-- sida 830 -->
+<!-- sida 842 -->
 
 2025-12-19
 
@@ -34410,7 +34881,7 @@ tillbaka. Pensionsmyndigheten kan dock medge undantag.
 
 23
 
-<!-- sida 831 -->
+<!-- sida 843 -->
 
 2025-12-19
 
@@ -34463,7 +34934,7 @@ uppfyller dessa villkor.
 
 24
 
-<!-- sida 832 -->
+<!-- sida 844 -->
 
 2025-12-19
 
@@ -34515,7 +34986,7 @@ Förmånen ska därefter årligen räknas upp med förändringen av prisbasbelop
 
 25
 
-<!-- sida 833 -->
+<!-- sida 845 -->
 
 2025-12-19
 

@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.41f565c319a154a5a5e80119/1761808298
 sha256: a56aed0cec50153195d3b1519458b40cf76d65f97c0ebdd2289125e0c7af763a
 bytes: 122922074
 sidor: 265
-hamtad: 2026-10-13T00:18:14+00:00
-konverterad: 2026-10-13T00:22:25+00:00
-pipeline: kommunhandlingar 0.8.7 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-18T06:47:24+00:00
+konverterad: 2026-10-18T06:50:54+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 118, 119, 120, 121, 122, 123, 124, 125, 242, 258]
-figurer: [14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 28, 29, 30, 33, 36, 37, 39, 40, 41, 74, 75, 76, 77, 78, 79, 80, 81, 193, 264, 265]
+figurer: [14, 16, 17, 19, 20, 21, 22, 23, 24, 25, 26, 28, 29, 30, 33, 36, 37, 39, 40, 41, 74, 75, 76, 77, 78, 79, 80, 81, 193, 264, 265]
 tolkade: []
 ---
 
@@ -615,12 +615,6 @@ kommunens ekonomi utgår vi ifrån fyra finansiella perspektiv: resultat, kapaci
 2.3.1 Resultat och kapacitet
 Årets resultat
 
-Utfall Utfall
-Prognos   till  till
-Årets resultat, miljoner kronor 2021 2022 2023 2024
-2025 augusti augusti
-2024  2025
-
 \*) Exklusive jämförelsestörande poster
 
 Kommunens ekonomiska resultat för perioden är 458 miljoner kronor, vilket är betydligt högre än
@@ -646,8 +640,9 @@ Kungsbacka kommun          Delårsbokslut 2025                   5
 
 [Tabell 18-1](handlingar.tabeller/18-1.csv)
 
-| Kommunen | 464 | 756 | 231 | 286 | 477 | 209 | 458 |
+| Årets resultat, miljoner kronor | 2021 | 2022 | 2023 | 2024 | Prognos 2025 | Utfall till augusti 2024 | Utfall till augusti 2025 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Kommunen | 464 | 756 | 231 | 286 | 477 | 209 | 458 |
 | Strukturellt resultat\* | 494 | 572 | 276 | 211 | 454 | 219 | 442 |
 | Resultatets andel av skatter & statsbidrag % | 8,4 | 13,1 | 3,8 | 4,6 | 7,5 | 5,4 | 10,8 |
 | Strukturellt resultats andel av skatter & statsbidrag % | 9,0 | 9,8 | 4,7 | 3,4 | 7,1 | 5,6 | 10,4 |

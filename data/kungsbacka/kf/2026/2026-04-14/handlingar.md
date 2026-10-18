@@ -12,13 +12,13 @@ kalla_url: https://kungsbacka.se/download/18.1186ed0a19d72571a4153d84/1776089863
 sha256: 5b47ebc9f8d1b154b01d272730342627c96902cdfedc7e8dcad20070a2ac2c24
 bytes: 18004575
 sidor: 348
-hamtad: 2026-10-13T00:35:20+00:00
-konverterad: 2026-10-13T00:36:36+00:00
-pipeline: kommunhandlingar 0.8.7 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-18T07:00:46+00:00
+konverterad: 2026-10-18T07:01:44+00:00
+pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok]
-tal_obekraftade: [36, 298, 299, 338, 347]
+tal_obekraftade: [23, 24, 36, 134, 135, 195, 196, 197, 298, 299, 338, 347]
 figurer: [7, 25, 26, 37, 40, 41, 42, 46, 51, 54, 56, 59, 60, 61, 62, 64, 70, 71, 74, 76, 78, 80, 82, 84, 91, 92, 94, 100, 101, 102, 103, 104, 105, 106, 107, 108, 111, 116, 118, 150, 168, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 199, 205, 210, 216, 288, 318, 322, 325, 327, 338]
 tolkade: []
 ---
@@ -1795,8 +1795,6 @@ framöver på grund av olika faktorer. Att befolknings-
 
 FÖRVALTNINGSBERÄTTELSE
 
-Kommunen                                2021 2022  2023  2024  2025
-
 ¹ Nettoinvesteringar koncern och nettoinvesteringar per invånare exklusive finansiell leasing 2021 och 2024 har rättats.
 ² Årets resultat koncern 2022 har rättats
 
@@ -1804,8 +1802,9 @@ Kungsbacka kommuns årsredovisning 2025 13
 
 [Tabell 48-1](handlingar.tabeller/48-1.csv)
 
-| Antal invånare | 85 301 | 85 801 | 85 653 | 85 792 | 86 332 |
+| Kommunen | 2021 | 2022 | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- | --- | --- |
+| Antal invånare | 85 301 | 85 801 | 85 653 | 85 792 | 86 332 |
 | Kommunal skattesats (%) | 21,33 | 21,33 | 21,33 | 21,33 | 21,33 |
 | Verksamhetens intäkter (mnkr) | 1 184 | 1 471 | 1 367 | 1 402 | 1 480 |
 | Verksamhetens kostnader (mnkr) | 5 802 | 5 956 | 6 526 | 6 610 | 6 656 |
@@ -4790,10 +4789,6 @@ därav resultatreserv -   -    -     - Ränte- och basbelopps-
 Resultatfonder redovisat värde          uppräkning         77,9  41,1 77,9  41,1
 vid årets början   548,4 472,2 548,4 472,2 Ändring av försäkrings tekniska
 Resultatfonder förändring -76,2 35,2 -76,2 35,2 grunder     0,0  0,0   0,0  0,0
-Övrig post         16,3  3,9  16,3  3,9
-Förändring av särskild löneskatt 4,9 -7,3 4,9 -7,3
-Summa ansvarsförbindelse för
-pensioner intjänade före 1998
 Övriga upplysningar
 Kungsbacka kommun redovisar pensionsåtagandet enligt fullfonderings modellen
 vilket innebär att hela pensionsåtagandet lyfts in i balansräkningen. Förfa-
@@ -4805,8 +4800,10 @@ Kungsbacka kommuns årsredovisning 2025 69
 
 [Tabell 104-1](handlingar.tabeller/104-1.csv)
 
-| inklusive särskild löneskatt | 1 228,7 | 1 191,2 | 1 228,7 | 1 191,2 |
+| Övrig post | 16,3 | 3,9 | 16,3 | 3,9 |
 | --- | --- | --- | --- | --- |
+| Förändring av särskild löneskatt | 4,9 | -7,3 | 4,9 | -7,3 |
+| Summa ansvarsförbindelse för pensioner intjänade före 1998 inklusive särskild löneskatt | 1 228,7 | 1 191,2 | 1 228,7 | 1 191,2 |
 | Summa hela pensionsåtagandet | 2 202,1 | 2 183,7 | 2 202,1 | 2 183,7 |
 | Aktualiseringsgrad | 95% | 95% | 95% | 95% |
 
@@ -4835,11 +4832,6 @@ Ianspråktagna avsättningar -0,4 -0,4 -0,4 -0,4
 Redovisat värde vid årets
 Förändring av nuvärdet 0,0 0,0 0,0   0,0 början            13,2 12,2  13,2 12,2
 Utgående avsättning för 163,8 145,9 163,8 145,9
-Nya avsättningar    0,0  0,0   0,0  0,0
-återställande av deponi
-Barnamossen
-Återförda avsättningar Avslut 0,0 -12,2 0,0 -12,2
-Förändring avsättning -0,9 0,0 -0,9 0,0
 2Avsättning för återställning
 Utgående avsättning Frillesås
 för deponi Svinholmen
@@ -4872,13 +4864,6 @@ Utgående avsättning för 19,0 18,2 19,0 18,2 GC-väg
 Summa avsättning för
 Redovisat värde vid årets
 återställning av deponier 261,8 241,1 261,8 241,1
-början              0,0  19,4  0,0 19,4
-Nya avsättningar   31,4  0,0  31,4  0,0
-Avsättningar för bidrag till
-Ianspråktagna avsättningar -10,9 -18,8 -10,9 -18,8
-statlig infrastruktur
-(avtal med Trafikverket)
-Förändring avsättning -1,1 -0,2 -1,1 -0,2
 4Avsättning GC-väg Anneberg
 Utgående avsättning Fjärås
 Redovisat värde vid årets
@@ -4889,13 +4874,35 @@ Frillesås
 Förändring avsättning -1,3 -0,2 -1,3 -0,2
 Utgående avsättning GC-väg              Redovisat värde vid årets 0,0 0,0 0,0 0,0
 Anneberg            18,2 18,0  18,2 18,0 början
-Nya avsättningar    0,0  18,6  0,0 18,6
-Ianspråktagna avsättningar 0,0 -0,5 0,0 -0,5
-Återförda avsättningar Avslut 0,0 0,0 0,0 0,0
-Förändring avsättning 0,0 -1,5 0,0  -1,5
-Utgående Avsättning GC-väg 0,0 16,6 0,0 16,6
 845 Frillesås
 70 Kungsbacka kommuns årsredovisning 2025
+
+[Tabell 105-1](handlingar.tabeller/105-1.csv)
+
+| Nya avsättningar återställande av deponi | 0,0 | 0,0 | 0,0 | 0,0 |
+| --- | --- | --- | --- | --- |
+| Barnamossen |  |  |  |  |
+| Återförda avsättningar Avslut | 0,0 | -12,2 | 0,0 | -12,2 |
+| Förändring avsättning | -0,9 | 0,0 | -0,9 | 0,0 |
+
+[Tabell 105-2](handlingar.tabeller/105-2.csv)
+
+| början | 0,0 | 19,4 | 0,0 | 19,4 |
+| --- | --- | --- | --- | --- |
+| Nya avsättningar | 31,4 | 0,0 | 31,4 | 0,0 |
+| Avsättningar för bidrag till |  |  |  |  |
+| Ianspråktagna avsättningar statlig infrastruktur | -10,9 | -18,8 | -10,9 | -18,8 |
+| (avtal med Trafikverket) |  |  |  |  |
+| Förändring avsättning | -1,1 | -0,2 | -1,1 | -0,2 |
+
+[Tabell 105-3](handlingar.tabeller/105-3.csv)
+
+| Nya avsättningar | 0,0 | 18,6 | 0,0 | 18,6 |
+| --- | --- | --- | --- | --- |
+| Ianspråktagna avsättningar | 0,0 | -0,5 | 0,0 | -0,5 |
+| Återförda avsättningar Avslut | 0,0 | 0,0 | 0,0 | 0,0 |
+| Förändring avsättning | 0,0 | -1,5 | 0,0 | -1,5 |
+| Utgående Avsättning GC-väg | 0,0 | 16,6 | 0,0 | 16,6 |
 
 <!-- sida 106 -->
 
@@ -5148,10 +5155,6 @@ av tabellen justerar vi för interna poster för att kunna härleda beloppen til
 resultaträkningens rad för verksamhetens nettokostnader. Mer om hur de olika finansiella
 rapporterna hänger ihop framgår av särskilt avsnitt. För mer ingående analyser av nämnderna
 hänvisar vi till nämndernas egna årsredovisningar som är tillgängliga på kommunens webbplats.
-Nämnd            Budget        Bokslut 2025          Bokslut 2024
-2025
-Netto-             Netto-                   Netto-
-Belopp i mnkr    anslag Intäkter Kostnader kostnader Avvikelse Intäkter Kostnader kostnader
 
 ¹ Justering interna poster avskrivningar m.m. och verksamhetens kostnader och nettokostnader 2024 har rättats.
 
@@ -5159,8 +5162,10 @@ Belopp i mnkr    anslag Intäkter Kostnader kostnader Avvikelse Intäkter Kostna
 
 [Tabell 109-1](handlingar.tabeller/109-1.csv)
 
-| Kommunfullmäktige | -4,9 | 0,0 | -4,7 | -4,7 | 0,2 | 0,0 | -4,1 | -4,1 |
+| Nämnd | Budget 2025 | Bokslut 2025 |  |  |  | Bokslut 2024 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Belopp i mnkr | Nettoanslag | Intäkter | Kostnader | Nettokostnader | Avvikelse | Intäkter | Kostnader | Nettokostnader |
+| Kommunfullmäktige | -4,9 | 0,0 | -4,7 | -4,7 | 0,2 | 0,0 | -4,1 | -4,1 |
 | Kommunstyrelsen | -292,3 | 48,8 | -324,6 | -275,8 | 16,5 | 41,7 | -307,4 | -265,7 |
 | Kommunrevision | -3,6 | 0,0 | -3,3 | -3,3 | 0,3 | 0,0 | -3,2 | -3,1 |
 | Valnämnden | -0,4 | 0,0 | -0,3 | -0,3 | 0,0 | 2,5 | -4,1 | -1,6 |
@@ -5180,11 +5185,7 @@ Belopp i mnkr    anslag Intäkter Kostnader kostnader Avvikelse Intäkter Kostna
 | 53 Avfall & Återvinning | 0,0 | 122,1 | -122,1 | 0,0 | 0,0 | 115,2 | -118,0 | -2,7 |
 | Summa Avgiftsfinansierade nämnder | 0,0 | 405,2 | -405,2 | 0,0 | 0,0 | 375,9 | -378,7 | -2,7 |
 | Summa nämnder | -6 021,6 | 2 850,2 | -8 728,4 | -5 878,2 | 143,4 | 2 743,6 | -8 495,5 | -5 751,9 |
-
-[Tabell 109-2](handlingar.tabeller/109-2.csv)
-
 | Finans (9\*) | -38,0 | 70,2 | 73,4 | 143,6 | 181,6 | 44,0 | -53,7 | -9,7 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 Justering Interna poster avskrivningar med mera | 556,5 | -1 440,8 | 1 998,9 | 558,1 | 1,6 | -1 385,5 | 1 939,0 | 553,5 |
 | 1 Verksamhetens intäkter och kostnader i Resultat- räkningen | -5 503,1 | 1 479,6 | -6 656,1 | -5 176,5 | 326,6 | 1 402,1 | -6 610,2 | -5 208,1 |
 
@@ -5290,9 +5291,8 @@ Kungsbacka kommuns årsredovisning 2025 77
 
 [Tabell 112-1](handlingar.tabeller/112-1.csv)
 
-| Nämnd | Investeringar | Budget 2025 | Avvikelse | Avvikelse i |
+| Nämnd (belopp i miljoner kronor) | Investeringar 2025 | Budget 2025 | Avvikelse | Avvikelse i procent |
 | --- | --- | --- | --- | --- |
-| (belopp i miljoner kronor) | 2025 |  |  | procent |
 | Gymnasium & Arbetsmarknad | 5,1 | 5,1 | 0,0 | 0,7% |
 | Kultur & Fritid | 12,6 | 30,7 | 18,1 | 59,0% |
 | Förskola & Grundskola | 10,9 | 15,0 | 4,1 | 27,6% |
@@ -5307,11 +5307,7 @@ Kungsbacka kommuns årsredovisning 2025 77
 | Finans | 0,0 | -16,4 | -16,4 | 100,0% |
 | Exploateringsverksamhet \* (Anläggningstillgångar) | 7,2 | 55,8 | 48,6 | 87,1% |
 | Summa skattefinansierad verksamhet | 294,6 | 701,1 | 406,5 | 58,0% |
-
-[Tabell 112-2](handlingar.tabeller/112-2.csv)
-
 | Teknik Vatten & Avlopp | 517,5 | 618,5 | 101,0 | 16,3% |
-| --- | --- | --- | --- | --- |
 | Avfall & Återvinning | 0,9 | 14,8 | 13,9 | 94,1% |
 | Kungsbacka Bredbandsnät | 22,4 | 27,0 | 4,6 | 17,1% |
 | Summa avgiftsfinansierad verksamhet | 540,7 | 660,3 | 119,5 | 18,1% |
@@ -5422,22 +5418,18 @@ arbetar Kungsbacka Bredbandsnät mer proaktivt i nya
 områden, vilket kräver ökat försäljningsfokus och en
 utvecklad affärsmodell då bredbandsanslutningar sker på
 frivillig basis och inte genom lagkrav.
-Kungsbacka Bokslut Budget Bokslut Avvikelse
 
 Pågående större investeringar
 Följande tabell visar några av de pågående projekten i kommunen
 med en beslutad totalbudget över 30 miljoner kronor.
 
-Projekt            Utfall totalt Budget 2025 Bokslut Avvikelse
-(belopp i mnkr)  tom december          2025     2025
-2025
-
 Kungsbacka kommuns årsredovisning 2025 79
 
 [Tabell 114-1](handlingar.tabeller/114-1.csv)
 
-| bredband | 2024 | 2025 | 2025 | 2025 |
+| Kungsbacka | Bokslut | Budget | Bokslut | Avvikelse |
 | --- | --- | --- | --- | --- |
+| bredband | 2024 | 2025 | 2025 | 2025 |
 | (belopp i mnkr) |  |  |  |  |
 | Inkomster | 4,8 | 1,5 | 5,0 | 3,6 |
 | Utgifter | -39,9 | -27,0 | -22,4 | 4,6 |
@@ -5445,8 +5437,9 @@ Kungsbacka kommuns årsredovisning 2025 79
 
 [Tabell 114-2](handlingar.tabeller/114-2.csv)
 
-| Framtidens reningsverk | -160,4 | -197,8 | -160,2 | 37,6 |
+| Projekt (belopp i mnkr) | Utfall totalt tom december 2025 | Budget 2025 | Bokslut 2025 | Avvikelse 2025 |
 | --- | --- | --- | --- | --- |
+| Framtidens reningsverk | -160,4 | -197,8 | -160,2 | 37,6 |
 | Klockaregårdens förskola | -91,4 | -4,2 | -7,0 | -2,8 |
 | Stockalids förskola | -70,2 | -10,0 | -8,4 | 1,6 |
 | VA-utbyggnad Hagryd-Dala | -60,7 | -23,0 | -31,5 | -8,5 |
