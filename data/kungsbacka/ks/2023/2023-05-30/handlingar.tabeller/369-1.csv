@@ -1,0 +1,25 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,Information och marknadsföring,,,,
+Processgrupp:,Informationsförsörjning,,,,
+Process:,Publicera på extern webb,,,,
+Processnummer:,2.9.2.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Vägleda publicering
+på extern webbplats",Korrespondens,Outlook,Digitalt,Vid inaktualitet,
+,Instruktion,Samarbetsrum,Digitalt,Vid inaktualitet,"Avser exempelvis dokumentet redigering av
+startsidan på Kungsbacka.se. Uppdateras
+kontinuerligt."
+"Publicera på
+kommunens externa
+webbplats","Nyheter på extern
+webbplats",Episerver,Digitalt,Se anmärkning,"Systemförvaltaren ansvarar för att enstaka
+ögonblicksbilder tas och bevaras en gång om året i
+samråd med kommunarkivet."
+,"Artikelsidor på
+extern webbplats",Episerver,Digitalt,Se anmärkning,"Systemförvaltaren ansvarar för att enstaka
+ögonblicksbilder tas och bevaras en gång om året i
+samråd med kommunarkivet."
+,"Bilder på extern
+webbplats",Episerver,Digitalt,Vid inaktualitet,"Avser bilder i Episerver. För bevarande av bilder se
+2.9.0.1 ”Organisera information och
+marknadsföring”."

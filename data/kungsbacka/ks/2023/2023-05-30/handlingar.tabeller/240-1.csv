@@ -1,0 +1,36 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,Inköp,,,,
+Processgrupp:,Inköp,,,,
+Process:,Hantera direktupphandling,,,,
+Processnummer:,2.5.1.2,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Förbereda och
+initiera
+upphandlingsärende","Förfrågan/
+behovsspecifikation/offert",Se anmärkning,Digitalt,Se anmärkning,"Om handlingen ingår i direktupphandlingar
+med ett värde under 100 000 kr: förvaras i
+samarbetsrum och gallras vid avtalets
+utgång."
+,"Underlag för beräkning
+av inköpsbelopp",Se anmärkning,Digitalt,Se anmärkning,"Om handlingen ingår i direktupphandlingar
+med ett värde mellan 100 000 och
+direktupphandlingsgräns, med
+avtalshandling undertecknad av båda
+parter: registreras i Ciceron avtalsdiarium
+och
+bevaras.
+Om handlingen ingår i direktupphandlingar
+med ett värde mellan 100 000 och
+direktupphandlingsgräns, utan
+avtalshandling undertecknad av båda
+parter: registreras i Proceedo och gallras
+efter 7 år."
+"Genomföra
+direktupphandling","Inbjudan
+direktupphandling",Se anmärkning,Digitalt,Se anmärkning,"Om handlingen ingår i direktupphandlingar
+med ett värde mellan 100 000 och
+direktupphandlingsgräns, med
+avtalshandling undertecknad av båda
+parter: registreras i Ciceron avtalsdiarium
+och
+bevaras."

@@ -1,0 +1,9 @@
+Agency: EEA,,,2025,2026,2027,TOTAL
+,,,,,,
+Title 1: Staff expenditure,Commitments,(1a),"0,180","0,367","0,375","0,922"
+,Payments,(2a),"0,180","0,367","0,375","0,922"
+Title 2: Infrastructure,Commitments,(1b),,,,
+,Payments,(2b),,,,
+Title 3: Operational expenditure,Commitments,(1c),"0,095","0,065","0,065","0,225"
+,Payments,(2c),"0,095","0,065","0,065","0,225"
+TOTAL appropriations,Commitments,=1a+1b +1c,"0,275","0,432","0,440","1,147"

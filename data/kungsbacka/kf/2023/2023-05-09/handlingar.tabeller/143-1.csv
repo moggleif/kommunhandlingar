@@ -1,0 +1,22 @@
+Scenario,Beskrivning,Åtgärd/effekt
+JA,BAS2040,"Åtgärder som det är beslutats att genomföras till
+2040"
+UA0,Värö,Modellen körs utan Värö station
+UA1,Last mile – Lokalt,"Förbättrad tillgänglighet till kollektivtrafik lokalt
+och minskad restid för kollektivtrafik in mot
+stationer."
+UA2,Last Mile – Regionalt,"Förbättrad tillgänglighet till kollektivtrafik
+lokalt, minskad restid för kollektivtrafik samt
+ökat turtäthet för busstrafik med sämre
+turtäthet än kvartstrafik."
+UA3,Vändstation Kungsbacka,"Förändringar för buss enligt UA2 och minskad
+restid för tåg på sträckan Mölndal-Kungsbacka."
+UA4,"Fyrspår mellan Mölndal och
+Kungsbacka-Hede","Förändringar för buss enligt UA2 och minskad
+restid tåg på sträckan Mölndal-Kungsbacka.
+Kapaciteten mellan Mölndal och Kungsbacka-
+Hede fördubblas"
+UA5,Förändrat resebeteende,"Inkluderar omfattande mobilitets- och
+parkeringsåtgärder"
+UA6,Stationsnära bebyggelse,"All befolkningsökning 2014–2040 antas ske runt
+järnvägsstationerna"

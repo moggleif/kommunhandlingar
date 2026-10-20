@@ -1,0 +1,19 @@
+B Taxetabeller för fysisk planering,,
+B 1,Förklaring av benämningar som används i formelberäkningar,
+,mPBB = milliprisbasbelopp,"Prisbasbeloppet fastställs årligen av regeringen.
+Milliprisbasbelopp = en tusendels prisbasbelopp."
+,OF = Objektsfaktor,"Summan av BTA + OPA
+Sätts enligt tabell B2 t.o.m. 10 000 m².
+Därutöver höjs OF med 1 per 1 000 m².
+(Exempel: OF 10 000 m² = 101,
+11 000 m² = 102)"
+,PF = Planfaktor,"Grundas på vilken sorts planarbete det handlar
+om.
+Olika fasta värden för olika sorters planarbete"
+,N = Justeringsfaktor,"Justeringsfaktorn är 0,6 för planavgifter."
+,BTA = Bruttoarea,Sammanlagda ytan av våningsplanen
+,OPA = Öppenarea,"Area under tak som är gjord för vistelse eller
+förvaring och som omsluts helt eller delvis av
+öppna sidor."
+,BYA = Byggnadsarea,"Area som byggnaden tar upp på marken inklusive
+utstickande byggnadsdelar tex. balkong."

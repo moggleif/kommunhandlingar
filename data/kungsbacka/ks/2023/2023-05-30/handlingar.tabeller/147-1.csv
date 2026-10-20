@@ -1,0 +1,26 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,Informationsförvaltning,,,,
+Processgrupp:,Registratur,,,,
+Process:,Hantera och registrera inkommande handlingar,,,,
+Processnummer:,2.1.2.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Hantera och
+registrera inkomna
+handlingar","Handlingar av ringa
+och tillfällig
+betydelse",Outlook,Digitalt,Vid inaktualitet,"Inkommer oftast till Outlook men kan inkomma
+analogt och kan förvaras på andra platser än
+Outlook."
+,"Korrespondens av
+betydelse",Diarium,Digitalt,Bevaras,"Analoga handlingar skannas in till diariet och kan
+därefter gallras om handlingarna i elektroniskt
+format kan uppvisas utan märkbar
+informationsförlust."
+,Postlista,Diarium,Digital,Vid inaktualitet,"Sammanställning över handlingar i diariet. Kan
+plockas ut vid behov via funktion i diariet."
+Hantera postöppning,"Fullmakt för
+postöppning",Pärm,Papper,Se anm.,"Avser äldre fullmakter för postöppning i
+pappersformat. Medgivande ingår från och med
+2018 i det digitala anställningsavtalet. Äldre
+medgivanden i pappersformat kan gallras vid
+anställningens upphörande."
