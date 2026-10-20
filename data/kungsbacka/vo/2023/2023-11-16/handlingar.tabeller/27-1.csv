@@ -1,0 +1,24 @@
+Verksamhetstyp,Kärnverksamhet,,,,
+Verksamhetsområde,Vård och omsorg,,,,
+Processgrupp,Hantera inrapporterade händelser och anmälningar,,,,
+Process,"Hantera klagomål, beröm, förslag till förbättringar och övriga synpunkter",,,,
+Processnummer,6.1.1.4,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Ta emot synpunkt,Inkommen synpunkt,Ciceron,Digital,Bevaras,"Om synpunkten rör en
+verksamhet, enhet eller ett
+generellt påstående så
+diarieförs den i Vård &
+Omsorgs diarium.
+Om synpunkten rör en enskild
+som har insatser enligt
+socialtjänstlagen så
+dokumenteras den i personakt.
+Om synpunkten rör en enskild
+som är inskriven i den
+kommunala hälso- och
+sjukvården och påverkar
+patientens vård och
+behandling eller rehabilitering
+så dokumenteras den i
+patientens journal."
+Lämna svar på synpunkt,Svar på synpunkt,Ciceron,Digital,Bevaras,

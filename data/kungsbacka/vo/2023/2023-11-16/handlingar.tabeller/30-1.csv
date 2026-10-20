@@ -1,0 +1,14 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Hantera inrapporterade händelser och anmälningar,,,,
+Process:,Rapportera händelser till Läkemedelsverket,,,,
+Processnummer:,6.1.2.5,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Rapportera,"Anmälan om negativa händelser och
+tillbud med medicintekniska
+produkter",Ciceron,Digital,Bevaras,
+,"Rapportering av misstänkta
+biverkningar av läkemedel",Ciceron,Digital,Bevaras,
+Avsluta,"Brev om avslut gällande rapport om
+olycka/tillbud med medicinteknisk
+produkt",Ciceron,Digital,Bevaras,

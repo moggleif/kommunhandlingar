@@ -1,0 +1,11 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,Informationsförvaltning,,,,
+Processgrupp:,Registratur,,,,
+Process:,Hantera och registrera ärenden,,,,
+Processnummer:,2.1.2.2,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Hantera ärenden,Diariekort,Närarkiv,Analog,Bevaras,"Syftar på ärendelista som sammanställer
+handlingarna i ett ärende. Placeras i akten."
+,Ärendekort,Diarium,Digitalt,Bevaras,
+,Handlingskort,Diarium,Digitalt,Se anm.,"Gallring av handlingskortet styrs utifrån
+handlingens gallringsfrist."

@@ -1,0 +1,47 @@
+"Handläggningskostnaden per timme är 1 262 kr.
+Taxa för tillsyn enligt Lag (2010:1011) om brandfarliga och explosiva varor",,,,
+Ärendetyp tillsyn,,Verksamhetstyp,"Tidsuppskattning
+debiterbar tid
+(timmar)",Avgift (kr)
+1,"Enkel hantering brandfarlig
+och explosiv vara","Skola, restaurang,
+evenemang,
+byggarbetsplats,
+stenspräckare,
+dagsprängare utan
+egen förvaring,
+fyrverkeriförsäljning",3,3 786
+2,"Mindre hantering brandfarlig
+och explosiv vara","Obemannad
+bensinstation,
+handel,
+försäljning
+ammunition,
+förvaring explosiv
+vara ≤ 500 kg",5,6 310
+3,"Måttlig hantering brandfarlig
+vara","Bemannad
+bensinstation,
+verkstad, lager",7,8 834
+4,"Omfattande hantering
+brandfarlig och explosiv vara","Industri,
+förvaring explosiv
+vara> 500kg",8,10 096
+5,"Mycket omfattande hantering
+brandfarlig vara","Mycket stor industri,
+raffinaderi",12,15 144
+6,"Tillsyn av enskilda
+förhållanden",-,5,6 310
+7,"Tillsynsbesök utebliven
+närvaro",-,1,1 262
+8,"Provtagning och undersökning
+av prov",-,-,"Timdebitering
+enligt gällande
+handläggnings-"
+,,,,"kostnad per
+timme"
+9,Övrigt,-,-,"Timdebitering
+enligt gällande
+handläggnings-
+kostnad per
+timme"

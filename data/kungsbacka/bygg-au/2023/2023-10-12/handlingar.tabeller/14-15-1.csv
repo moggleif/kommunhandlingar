@@ -1,0 +1,84 @@
+"A 2 Bygglov och teknisk kontroll för byggnader som inte är en- eller tvåbostadshus eller
+komplementbyggnader",,,
+Ärendetyp,,,Avgift
+A 2.1,"Nybyggnad 0-100 kvm (BTA+OPA), med tekniskt samråd
+Till exempel kontor, industri, handel, skola, flerbostadhus.
+I kostnaden ingår även tillhörande komplementåtgärder samt
+murar förutsatt att de ingår i samma ansökan.",Planenligt,21 250 kr
+A 2.2,,Liten avvikelse,26 250 kr
+A 2.3,,Utanför planlagt område,32 500 kr
+A 2.4,"Nybyggnad 0-100 kvm (BTA+OPA), utan tekniskt samråd
+Till exempel sophus, cykelrum, förråd, carport, sjöbod.",Planenligt,13 750 kr
+A 2.5,,Liten avvikelse,18 750 kr
+A 2.6,,Utanför planlagt område,25 000 kr
+A 2.7,"Nybyggnad 101-1000 kvm (BTA+OPA)
+Till exempel kontor, industri, handel, skola, flerbostadhus.
+I kostnaden ingår även tillhörande komplementåtgärder samt
+murar förutsatt att de ingår i samma ansökan.",Planenligt,47 500 kr
+A 2.8,,Liten avvikelse,60 000 kr
+A 2.9,,Utanför planlagt område,66 250 kr
+A 2.10,"Nybyggnad 1001-5000 kvm (BTA+OPA)
+Till exempel kontor, industri, handel, skola, flerbostadhus.
+I kostnaden ingår även tillhörande komplementåtgärder samt
+murar förutsatt att de ingår i samma ansökan.",Planenligt,81 250 kr
+A 2.11,,Liten avvikelse,93 750 kr
+A 2.12,,Utanför planlagt område,100 000 kr
+A 2.13,"Nybyggnad ≥ 5001 kvm (BTA+OPA)
+Till exempel kontor, industri, handel, skola, flerbostadhus.
+I kostnaden ingår även tilhörande komplementåtgärder samt
+murar förutsatt att de ingår i samma ansökan.",Planenligt,98 750 kr
+A 2.14,,Liten avvikelse,111 250 kr
+A 2.15,,Utanför planlagt område,117 500 kr
+A 2.16,"Nybyggnad av enkla, oisolerade byggnader, utan tekniskt
+samråd
+Till exempel lagertält och lagerlokaler.",Planenligt,21 250 kr
+A 2.17,,Liten avvikelse,22 500 kr
+A 2.18,,Utanför planlagt område,28 750 kr
+A 2.19,"Tillbyggnad 0-100 kvm (BTA+OPA), med tekniskt samråd
+Till exempel tillbyggnader av kontor, industri, handel, skola
+flerbostadshus. Åtgärder som kräver en kontrollansvarig.",Planenligt,17 500 kr
+A 2.20,,Liten avvikelse,22 500 kr
+A 2.21,,Utanför planlagt område,22 500 kr
+A 2.22,"Tillbyggnad 0-100 kvm (BTA+OPA), utan tekniskt samråd
+Till exempel tillbyggnader av kontor, industri, handel, skola
+flerbostadshus.",Planenligt,11 250 kr
+A 2.23,,Liten avvikelse,16 250 kr
+A 2.24,,Utanför planlagt område,16 250 kr
+A 2.25,"Tillbyggnad 101-1000 kvm (BTA+OPA)
+Till exempel tillbyggnader av kontor, industri, handel, skola
+flerbostadshus. Åtgärder som kräver en kontrollansvarig.",Planenligt,42 500 kr
+A 2.26,,Liten avvikelse,55 000 kr
+A 2.27,,Utanför planlagt område,55 000 kr
+A 2.28,"Tillbyggnad ≥ 1001 (BTA+OPA)
+Till exempel tillbyggnader av kontor, industri, handel, skola
+flerbostadshus. Åtgärder som kräver en kontrollansvarig.",Planenligt,70 000 kr
+A 2.29,,Liten avvikelse,82 500 kr
+A 2.30,,Utanför planlagt område,82 500 kr
+A 2.31,"Utvändig ändring, med tekniskt samråd
+Till exempel där fasadändringen påverkar den bärande
+konstruktionen.",Planenligt,16 250 kr
+A 2.32,,Liten avvikelse,21 250 kr
+A 2.33,"Utvändig ändring, utan tekniskt samråd
+Till exempel mindre fasadändring som insättning av fönster
+och dörr, samt byte av fasadmaterial.",Planenligt,10 000 kr
+A 2.34,,Liten avvikelse,15 000 kr
+A 2.35,"All övrig ändring, med tekniskt samråd
+Ändrad användning av byggnadens användningssätt från till
+exempel kontor, frisör, verkstad till exempelvis restaurang,
+bostad eller hunddagis där kontrollansvarig krävs.",Planenligt,41 250 kr
+A 2.36,,Liten avvikelse,46 250 kr
+A 2.37,,Utanför planlagt område,46 250 kr
+A 2.38,"All övrig ändring, utan tekniskt samråd
+Ändrad användning av byggnadens användningssätt från till
+exempel kontor, frisör, verkstad till exempelvis restaurang,
+bostad eller hunddagis.",Planenligt,21 250 kr
+A 2.39,,Liten avvikelse,26 250 kr
+A 2.40,,Utanför planlagt område,26 250 kr
+A 2.41,"Nybyggnad av enklare karaktär 101-1000 kvm
+(BTA+OPA), med tekniskt samråd
+Till exempel oisolerat ridhus eller maskinhall.",Planenligt,31 250 kr
+A 2.42,,Liten avvikelse,36 250 kr
+A 2.43,,Utanför planlagt område,42 500 kr
+A 2.44,Inglasning av balkong flerbostadshus,,5 625 kr
+A 2.45,"Ytterligare en inglasning av balkong på samma fastighet i
+ansökningar som omfattar inglasning av flera balkonger",,1 250 kr

@@ -1,0 +1,52 @@
+"Handläggningskostnaden per timme är 1 262 kr.
+Taxa tillståndsprövning enligt Lag (2010:1011) om brandfarliga och explosiva varor",,,,
+Ärendetyp tillstånd,,Verksamhetstyp,"Tidsuppskattning
+debiterbar tid",Avgift (kr)
+1,"Redaktionell ändring av
+tillstånd",-,1,1 262
+2,"Tillfällig och tidsbegränsad
+förlängning av gammalt
+tillstånd under
+handläggningstid av nytt
+tillstånd",-,1,1 262
+3,"Mindre ändring i befintligt
+tillstånd under pågående
+tillståndsperiod",-,2,2 524
+4,"Enkel hantering brandfarlig
+och explosiv vara","Skola, restaurang,
+evenemang, byggarbetsplats
+stenspräckare, dagsprängare
+utan egen förvaring,
+fyrverkeriförsäljning",5,6 310
+5,"Mindre hantering
+brandfarlig och explosiv
+vara","Obemannad bensinstation,
+handel,
+försäljning ammunition,
+förvaring explosiv vara
+≤ 500 kg",7,8 834
+6,"Måttlig hantering
+brandfarlig vara","Bemannad bensinstation,
+verkstad, lager",9,11 358
+7,"Omfattande hantering
+brandfarlig och explosiv
+vara","Industri,
+förvaring explosiv vara
+> 500kg",12,15 144
+8,"Mycket omfattande
+hantering brandfarlig vara","Mycket stor industri,
+raffinaderi",30,37 860
+9,"Godkännande av
+föreståndare explosiv vara",-,"2,5",3 155
+9a,"Godkännande av deltagare
+explosiv vara, 1–5 personer",-,1,1 262
+9b,"Godkännande av deltagare
+explosiv vara, 6–10
+personer",-,2,2 524
+9c,"Godkännande av deltagare
+explosiv vara, 11 personer
+eller fler",-,3,3 786
+10,Avvisning tillstånd,-,2,2 524
+11,Avslag tillstånd,-,3,3 786
+12,"Platsbesök/avsyning
+utebliven närvaro",-,1,1 262

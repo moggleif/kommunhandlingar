@@ -1,0 +1,39 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+Processgrupp:,Insatser för äldre och personer med funktionsnedsättning,,,,
+Process:,Hantera ansvarsfördelning och ersättning mellan kommuner i fråga om stöd och hjälp,,,,
+Processnummer:,6.5.1.2,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Utreda,Utredning,Combine,Digital,"5 år (5, 15, 25
+bevaras)","Utredning som beslutande
+kommun behöver för att
+kunna pröva den enskildes
+behov av stöd och hjälp."
+Besluta,Beslut,Combine,Digital,"5 år (5, 15, 25
+bevaras)","Exempel på beslut: Beslut
+om särskilt boende för person
+som är bosatt i annan
+kommun. Beslut om
+hemtjänst och/eller
+trygghetslarm för personer
+som ska vistas i annan
+kommun."
+Hantera underlag,Underlag,Combine,Digital,"5 år (5, 15, 25
+bevaras)","Exempel på underlag: Taxor
+och avgifter från
+bosättningskommunen och
+fakturaadress."
+Fakturera kund,Kundfakturaunderlag,Närarkiv,Papper,7 år,"Kundfaktura från
+Kungsbacka kommun till
+annan kommun.
+Manuella kundfakturor
+registreras i kundreskontran i
+Raindance."
+,Kreditering av kundfaktura,Närarkiv,Papper,7 år,
+"Betala
+leverantörsfaktura",Leverantörsfaktura,Proceedo,Digital,7 år,"Leverantörsfaktura från
+annan kommun till
+Kungsbacka kommun."
+"Betala
+leverantörsfaktura",Manuell utbetalning,Se anmärkning,Papper,7 år,"Manuella utbetalningar
+registreras i Raindance och"

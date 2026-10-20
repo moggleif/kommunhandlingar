@@ -1,0 +1,33 @@
+Verksamhetstyp:,Samhällsbyggnad,,,,
+Verksamhetsområde,Hantera tekniska frågor,,,,
+Processgrupp:,Vatten och avlopp,,,,
+Process:,Driva avloppsnät,,,,
+Processnummer:,8.2.1.6,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Underhålla
+pumpstationer","Tillsynsrutin för
+pumpstationer",VA-banken,Digitalt,Vid inaktualitet,
+,Driftdata,System Exo 4,Digitalt,Vid inaktualitet,Kopia i pärm i driftrummet.
+,"Tillsynsrutin LTA-
+stationer",Samarbetsrum,Digitalt,Vid inaktualitet,
+,Bräddregistrering,Samarbetsrum,Digitalt,Vid inaktualitet,
+,Nederbördsmätningar,SCADA,Digitalt,Bevaras,
+Underhålla rörnät,"Besiktningsprotokoll,
+anslutningsbesiktning",P:,Digitalt,Bevaras,Kopplas till VA-banken.
+,"Dokumentation från
+undersökning av
+felkoppling",VA-banken,Digitalt,Bevaras,
+,Film,P:,Digitalt,Vid inaktualitet,Kopplas till VA-banken.
+,Filmprotokoll,P:,Digitalt,Bevaras,Kopplas till VA-banken.
+,Register brunnar,VA-banken,Digitalt,Bevaras,
+,Spolplan,Samarbetsrum,Digitalt,Vid inaktualitet,Kommer att föras över till VA-banken.
+,Arbetsorder,KomMa,Digitalt,Vid inaktulitet,
+"Utreda
+översvämning","Anmälan från
+fastighetsägare vid
+översvämning",Ciceron,Digitalt,Bevaras,"Skadeståndsanspråk gällande översvämning hanteras
+enligt Informationshanteringsplan för
+ledningsprocesser 1.1.3.5"
+,Intervjuformulär,Ciceron,Digitalt,Bevaras,
+,Incidentrapport,Ciceron,Digitalt,Bevaras,
+,Utredning,Ciceron,Digitalt,Bevaras,

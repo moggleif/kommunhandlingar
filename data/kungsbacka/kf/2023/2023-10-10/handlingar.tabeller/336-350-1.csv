@@ -1,0 +1,560 @@
+"Verksamhets-
+kod","Prövn. -
+nivå",Timmar,Beskrivning
+,,,VERKSAMHETSGRUPP JORDBRUK
+,,,Verksamhetsgrupp Djurhållning
+"(1.10-i) och
+1.11",B,9,"För en verksamhet som är tillståndspliktig enligt 2 kap. 1 eller 2
+§ miljöprövningsförordningen är tillsynstiden 9 timmar. För så
+kallade industriutsläppsverksamheter (IUV, markerade med ""-i""
+efter koden) så tillkommer ett generellt tillägg med 20 timmar."
+1.20,C,9,"För en verksamhet som är anmälningspliktig enligt 2 kap. 3 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+,,,"Uppodling av annan mark än jordbruksmark för
+jordbruksproduktion"
+1.30,C,9,"För en verksamhet som är anmälningspliktig enligt 2 kap. 4 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+,,,"VERKSAMHETSGRUPP FISKODLING OCH ÖVERVINTRING
+AV FISK"
+5.10,B,9,"För en verksamhet som är tillståndspliktig enligt 3 kap. 1 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+5.20,C,6,"För en verksamhet som är anmälningspliktig enligt 3 kap. 2 §
+miljöprövningsförordningen är tillsynstiden 6 timmar."
+,,,"VERKSAMHETSGRUPP UTVINNING, BRYTNING OCH
+BEARBETNING AV TORV,
+OLJA, GAS, KOL, MALM, MINERAL, BERG, NATURGRUS
+OCH ANNAT"
+,,,"Verksamhetsgrupp Berg, naturgrus och andra jordarter"
+10.10,B,9,"För en verksamhet som är tillståndspliktig enligt 4 kap. 1 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+10.11.01,B,18,"1. För en verksamhet som är tillståndspliktig enligt 4 kap. 2 §
+miljöprövningsförordningen är tillsynstiden 18 timmar om
+tillståndet gäller för mer än 200 000 ton."
+10.11.02,B,18,"2. För en verksamhet som är tillståndspliktig enligt 4 kap. 2 §
+miljöprövningsförordningen är tillsynstiden 18 timmar om
+tillståndet gäller för mer än 50 000 ton men högst 200 000 ton."
+10.11.03,B,9,"3. För en verksamhet som är tillståndspliktig enligt 4 kap. 2 §
+miljöprövningsförordningen är tillsynstiden 9 timmar om
+tillståndet gäller för mer än 10 000 ton men högst 50 000 ton."
+10.11.04,B,9,"4. För en verksamhet som är tillståndspliktig enligt 4 kap. 2 §
+miljöprövningsförordningen är tillsynstiden 9 timmar, om
+tillståndet gäller för mer än 5 000 ton men högst 10 000 ton."
+10.11.05,B,6,"5. För en verksamhet som är tillståndspliktig enligt 4 kap. 2 §
+miljöprövningsförordningen är tillsynstiden 6 timmar om
+tillståndet gäller för mer än 1 000 ton men högst 5 000 ton."
+10.11.06,B,6,"6. För en verksamhet som är tillståndspliktig enligt 4 kap. 2 §
+miljöprövningsförordningen är tillsynstiden 6 timmar om
+tillståndet inte omfattas av någon av 1–5."
+10.20.01,B,9,"1. För en verksamhet som är tillståndspliktig enligt 4 kap. 3 §
+miljöprövningsförordningen är tillsynstiden 9 timmar för täkt av
+torv."
+10.20.02,B,18,"2. För en verksamhet som är tillståndspliktig enligt 4 kap. 3 §
+miljöprövningsförordningen är tillsynstiden 18 timmar för annan
+täkt än som avses i 1, om tillståndet gäller för mer än 200 000
+ton."
+10.20.03,B,18,"3. För en verksamhet som är tillståndspliktig enligt 4 kap. 3 §
+miljöprövningsförordningen är tillsynstiden 18 timmar för annan
+täkt än som avses i 1, om tillståndet gäller för mer än 50 000 ton
+men högst 200 000 ton."
+10.20.04,B,9,"4. För en verksamhet som är tillståndspliktig enligt 4 kap. 3 §
+miljöprövningsförordningen är tillsynstiden 9 timmar för annan
+täkt än som avses i 1, om tillståndet gäller för mer än 10 000 ton
+men högst 50 000 ton."
+10.20.05,B,9,"5. För en verksamhet som är tillståndspliktig enligt 4 kap. 3 §
+miljöprövningsförordningen är tillsynstiden 9 timmar för annan
+täkt än som avses i 1, om tillståndet gäller för mer än 5 000 ton
+men högst 10 000 ton."
+10.20.06,B,6,"6. För en verksamhet som är tillståndspliktig enligt 4 kap. 3 §
+miljöprövningsförordningen är tillsynstiden 6 timmar för annan
+täkt än som avses i 1, om tillståndet gäller för mer än 1 000 ton
+men högst
+5 000 ton."
+10.20.07,B,6,"7. För en verksamhet som är tillståndspliktig enligt 4 kap. 3 §
+miljöprövningsförordningen är tillsynstiden 6 timmar för annan
+täkt än som avses i 1, om tillståndet inte omfattas av någon av
+1–6."
+10.30,C,9,"För en verksamhet som är anmälningspliktig enligt 4 kap. 4 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+10.40,C,6,"För en verksamhet som är anmälningspliktig enligt 4 kap. 5 §
+miljöprövningsförordningen är tillsynstiden 6 timmar."
+10.50,C,9,"För en verksamhet som är anmälningspliktig enligt 4 kap. 6 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+10.60,C,9,"För en verksamhet som är anmälningspliktig enligt 4 kap. 7 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+,,,"Verksamhetsgrupp Råpetroleum, naturgas och kol"
+11.10,A,30,"För en verksamhet som är tillståndspliktig enligt 4 kap. 8 §
+miljöprövningsförordningen är tillsynstiden 30 timmar."
+11.20.01,B,13,"1. För en verksamhet som är tillståndspliktig enligt 4 kap. 9 §
+miljöprövningsförordningen är tillsynstiden 13 timmar för
+utvinning i vattenområde."
+11.20.02,B,13,"2. För en verksamhet som är tillståndspliktig enligt 4 kap. 9 §
+miljöprövningsförordningen är tillsynstiden 13 timmar för
+utvinning på land."
+11.30,C,9,"För en verksamhet som är anmälningspliktig enligt 4 kap. 10 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+,,,Verksamhetsgrupp Malm och mineral
+13.10.01,A,90,"1. För en verksamhet som är tillståndspliktig enligt 4 kap. 11 §
+miljöprövningsförordningen är tillsynstiden 90 timmar om
+verksamheten avser järnmalm."
+13.10.02,A,90,"2. För en verksamhet som är tillståndspliktig enligt 4 kap. 11 §
+miljöprövningsförordningen är tillsynstiden 90 timmar om
+verksamheten avser kol inom de områden som anges i 4 kap. 5
+§ miljöbalken."
+13.10.03,A,64,"3. För en verksamhet som är tillståndspliktig enligt 4 kap. 11 §
+miljöprövningsförordningen är tillsynstiden 64 timmar om
+verksamheten avser kol inom de områden som anges i 4 kap. 5
+§ miljöbalken."
+13.10.04,A,227,"4. För en verksamhet som är tillståndspliktig enligt 4 kap. 11 §
+miljöprövningsförordningen är tillsynstiden 227 timmar om
+verksamheten avser uran- eller toriummalm."
+13.10.05,A,184,"5. För en verksamhet som är tillståndspliktig enligt 4 kap. 11 §
+miljöprövningsförordningen är tillsynstiden 184 timmar, om
+verksamheten inte omfattas av någon av 1–4."
+13.20-i.01,A,90,"1. För en verksamhet som är tillståndspliktig enligt 4 kap. 12 §
+miljöprövningsförordningen är tillsynstiden 90 timmar om
+verksamheten avser järnmalm. För så kallade
+industriutsläppsverksamheter (IUV, markerade med ""-i"" efter
+koden) så tillkommer ett generellt tillägg med 20 timmar."
+13.20-i.02,A,184,"2. För en verksamhet som är tillståndspliktig enligt 4 kap. 12 §
+miljöprövningsförordningen är tillsynstiden 184 timmar om
+verksamheten inte omfattas av 1. För så kallade
+industriutsläppsverksamheter (IUV, markerade med ""-i"" efter
+koden) så tillkommer ett generellt tillägg med 20 timmar."
+13.30,B,90,"För en verksamhet som är tillståndspliktig enligt 4 kap. 13 §
+miljöprövningsförordningen är tillsynstiden 90 timmar."
+13.40.01,A,90,"1. För en verksamhet som är tillståndspliktig enligt 4 kap. 14 §
+miljöprövningsförordningen är tillsynstiden 90 timmar om
+verksamheten avser järnmalm."
+13.40.02,A,64,"2. För en verksamhet som är tillståndspliktig enligt 4 kap. 14 §
+miljöprövningsförordningen är tillsynstiden 64 timmar om
+verksamheten avser kol."
+13.40.03,A,227,"3. För en verksamhet som är tillståndspliktig enligt 4 kap. 14 §
+miljöprövningsförordningen är tillsynstiden 227 timmar om
+verksamheten avser uran- eller toriummalm."
+13.40.04,A,184,"4. För en verksamhet som är tillståndspliktig enligt 4 kap. 14 §
+miljöprövningsförordningen är tillsynstiden 184 timmar om
+verksamheten inte omfattas av 1–3."
+13.50.01,B,227,"1. För en verksamhet som är tillståndspliktig enligt 4 kap. 15 §
+miljöprövningsförordningen är tillsynstiden 227 timmar om
+verksamheten avser uran- eller toriummalm."
+13.50.02,B,64,"2. För en verksamhet som är tillståndspliktig enligt 4 kap. 15 §
+miljöprövningsförordningen är tillsynstiden 64 timmar om
+verksamheten inte omfattas av 1."
+13.60,B,64,"För en verksamhet som är tillståndspliktig enligt 4 kap. 16 §
+miljöprövningsförordningen är tillsynstiden 64 timmar."
+,,,Verksamhetsgrupp Annan utvinningsindustri
+13.70,C,6,"För en verksamhet som är anmälningspliktig enligt 4 kap. 17 §
+miljöprövningsförordningen är tillsynstiden 6 timmar."
+,,,VERKSAMHETSGRUPP LIVSMEDEL OCH FODER
+,,,Verksamhetsgrupp Slakterier
+15.10-i.01,B,90,"1. För en verksamhet som är tillståndspliktig enligt 5 kap. 1 §
+miljöprövningsförordningen är tillsynstiden 90 timmar för
+produktion baserad på slaktvikt som omfattar mer än 50 000 ton
+per kalenderår. För så kallade industriutsläppsverksamheter
+(IUV, markerade med ""-i"" efter koden) så tillkommer ett generellt
+tillägg med 20 timmar."
+15.10-i.02,B,30,"2. För en verksamhet som är tillståndspliktig enligt 5 kap. 1 §
+miljöprövningsförordningen är tillsynstiden 30 timmar för
+produktion som inte omfattas av 1. För så kallade
+industriutsläppsverksamheter (IUV, markerade med ""-i"" efter
+koden) så tillkommer ett generellt tillägg med 20 timmar."
+15.20,B,30,"För en verksamhet som är tillståndspliktig enligt 5 kap. 2 §
+miljöprövningsförordningen är tillsynstiden 30 timmar."
+15.30,C,9,"För en verksamhet som är anmälningspliktig enligt 5 kap. 3 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+15.3001,U,6,"För verksamheter under anmälningspliktig nivå är tillsynstiden 6
+timmar."
+,,,Verksamhetsgrupp Livsmedel av animaliska råvaror
+"15.40-i.01,
+15.45.01",B,90,"1. För en verksamhet som är tillståndspliktig enligt 5 kap. 4 eller
+5 § miljöprövningsförordningen är tillsynstiden 90 timmar om
+verksamheten avser bearbetning av animaliska biprodukter. För
+så kallade industriutsläppsverksamheter (IUV, markerade med
+""-i"" efter koden) så tillkommer ett generellt tillägg med 20
+timmar."
+"15.40-i.02,
+15.45.02",B,30,"2. För en verksamhet som är tillståndspliktig enligt 5 kap. 4 eller
+5 § miljöprövningsförordningen är tillsynstiden 30 timmar om
+verksamheten avser rökning. För så kallade
+industriutsläppsverksamheter (IUV, markerade med ""-i"" efter
+koden) så tillkommer ett generellt tillägg med 20 timmar."
+"15.40-i.03,
+15.45.03",B,64,"3. För en verksamhet som är tillståndspliktig enligt 5 kap. 4 eller
+5 § miljöprövningsförordningen är tillsynstiden 64 timmar om
+verksamheten inte omfattas av 1 eller 2. För så kallade
+industriutsläppsverksamheter (IUV, markerade med ""-i"" efter
+koden) så tillkommer ett generellt tillägg med 20 timmar."
+15.50,C,18,"För en verksamhet som är anmälningspliktig enligt 5 kap. 6 §
+miljöprövningsförordningen är tillsynstiden 18 timmar."
+15.5002,U,6,"För verksamheter under anmälningspliktig nivå är tillsynstiden 6
+timmar."
+,,,Verksamhetsgrupp Rökeri
+15.80,C,9,"För en verksamhet som är anmälningspliktig enligt 5 kap. 7 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+,,,Verksamhetsgrupp Livsmedel av vegetabiliska råvaror
+"15.90-i.01,
+15.95.01",B,64,"1. För en verksamhet som är tillståndspliktig enligt 5 kap. 8 eller
+9 § miljöprövningsförordningen är tillsynstiden 64 timmar om
+verksamheten avser anläggning för tillverkning av stärkelse,
+stärkelsederivat eller socker. För så kallade
+industriutsläppsverksamheter (IUV, markerade med ""-i"" efter
+koden) så tillkommer ett generellt tillägg med 20 timmar."
+"15.90-i.02,
+15.95.02",B,30,"2. För en verksamhet som är tillståndspliktig enligt 5 kap. 8 eller
+9 § miljöprövningsförordningen är tillsynstiden 30 timmar om
+verksamheten avser rostning av kaffe. För så kallade
+industriutsläppsverksamheter (IUV, markerade med ""-i"" efter
+koden) så tillkommer ett generellt tillägg med 20 timmar."
+"15.90-i.03,
+15.95.03",B,64,"3. För en verksamhet som är tillståndspliktig enligt 5 kap. 8 eller
+9 § miljöprövningsförordningen är tillsynstiden 64 timmar om
+verksamheten avser anläggning för framställning av livsmedel
+med beredning och behandling med en produktion av mer än 50
+000 ton per kalenderår och inte omfattas av 1 eller 2. För så
+kallade industriutsläppsverksamheter (IUV, markerade med ""-i""
+efter koden) så tillkommer ett generellt tillägg med 20 timmar."
+"15.90-i.04,
+15.95.04",B,30,"4. För en verksamhet som är tillståndspliktig enligt 5 kap. 8 eller
+9 § miljöprövningsförordningen är tillsynstiden 30 timmar om
+verksamheten inte omfattas av någon av 1–3. För så kallade
+industriutsläppsverksamheter (IUV, markerade med ""-i"" efter
+koden) så tillkommer ett generellt tillägg med 20 timmar."
+15.101,C,18,"För en verksamhet som är anmälningspliktig enligt 5 kap. 10 §
+miljöprövningsförordningen är tillsynstiden 18 timmar."
+,,,Verksamhetsgrupp Kvarnprodukter
+15.125,C,18,"För en verksamhet som är anmälningspliktig enligt 5 kap. 11 §
+miljöprövningsförordningen är tillsynstiden 18 timmar."
+,,,Verksamhetsgrupp Livsmedel av kombinerade råvaror
+"15.131-i.01,
+15.141.01",B,64,"1. För en verksamhet som är tillståndspliktig enligt 5 kap. 12
+eller 13 § miljöprövningsförordningen är tillsynstiden 64 timmar
+med en produktion av mer än 10 000 ton per kalenderår. För så
+kallade industriutsläppsverksamheter (IUV, markerade med ""-i""
+efter koden) så tillkommer ett generellt tillägg med 20 timmar."
+"15.131-i.02,
+15.141.02",B,30,"2. För en verksamhet som är tillståndspliktig enligt 5 kap. 12
+eller 13 § miljöprövningsförordningen är tillsynstiden 30 timmar
+om verksamheten inte omfattas av 1. För så kallade
+industriutsläppsverksamheter (IUV, markerade med ""-i"" efter
+koden) så tillkommer ett generellt tillägg med 20 timmar."
+15.151,C,18,"För en verksamhet som är anmälningspliktig enligt 5 kap. 14 §
+miljöprövningsförordningen är tillsynstiden 18 timmar."
+,,,Verksamhetsgrupp Mjölkprodukter
+15.170-i,B,30,"För en verksamhet som är tillståndspliktig enligt 5 kap. 15 §
+miljöprövningsförordningen är tillsynstiden 30 timmar. För så
+kallade industriutsläppsverksamheter (IUV, markerade med ""-i""
+efter koden) så tillkommer ett generellt tillägg med 20 timmar."
+15.180,C,18,"För en verksamhet som är anmälningspliktig enligt 5 kap. 16 §
+miljöprövningsförordningen är tillsynstiden 18 timmar."
+,,,Verksamhetsgrupp Annan livsmedelstillverkning
+"15.185-i.01 och
+15.190.01",B,90,"1. För en verksamhet som är tillståndspliktig enligt 5 kap. 17
+eller 18 § miljöprövningsförordningen är tillsynstiden 90 timmar
+om verksamheten avser framställning eller raffinering av
+vegetabiliska eller animaliska oljor eller fetter med en produktion
+av mer än 100 000 ton per kalenderår. För så kallade
+industriutsläppsverksamheter (IUV, markerade med ""-i"" efter
+koden) så tillkommer ett generellt tillägg med 20 timmar."
+"15.185-i.02 och
+15.190.02",B,64,"2. För en verksamhet som är tillståndspliktig enligt 5 kap. 17
+eller 18 § miljöprövningsförordningen är tillsynstiden 64 timmar
+om verksamheten avser framställning eller raffinering av
+vegetabiliska eller animaliska oljor eller fetter med en produktion
+av mer än 50 000 ton men högst 100 000 ton per kalenderår.
+För så kallade industriutsläppsverksamheter (IUV, markerade
+med ""-i"" efter koden) så tillkommer ett generellt tillägg med 20
+timmar."
+"15.185-i.03 och
+15.190.03",B,30,"3. För en verksamhet som är tillståndspliktig enligt 5 kap. 17
+eller 18 § miljöprövningsförordningen är 3. tillsynstiden 30
+timmar om verksamheten avser framställning eller raffinering av
+vegetabiliska eller animaliska oljor eller fetter med en produktion
+av högst 50 000 ton per kalenderår. För så kallade
+industriutsläppsverksamheter (IUV, markerade med ""-i"" efter
+koden) så tillkommer ett generellt tillägg med 20 timmar."
+"15.185-i.04 och
+15.190.04",B,30,"4. För en verksamhet som är tillståndspliktig enligt 5 kap. 17
+eller 18 § miljöprövningsförordningen är tillsynstiden 30 timmar
+för annan verksamhet som inte omfattas av någon av 1–3. För
+så kallade industriutsläppsverksamheter (IUV, markerade med
+""-i"" efter koden) så tillkommer ett generellt tillägg med 20
+timmar."
+15.200,C,9,"För en verksamhet som är anmälningspliktig enligt 5 kap. 19 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+15.210,B,30,"För en verksamhet som är tillståndspliktig enligt 5 kap. 20 §
+miljöprövningsförordningen är tillsynstiden 30 timmar."
+15.220,C,6,"För en verksamhet som är anmälningspliktig enligt 5 kap. 21 §
+miljöprövningsförordningen är tillsynstiden 6 timmar."
+15.230,B,64,"För en verksamhet som är tillståndspliktig enligt 5 kap. 22 §
+miljöprövningsförordningen är tillsynstiden 64 timmar."
+15.240,C,9,"För en verksamhet som är anmälningspliktig enligt 5 kap. 23 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+15.250.01,B,13,"1. För en verksamhet som är tillståndspliktig enligt 5 kap. 24 §
+miljöprövningsförordningen är tillsynstiden 13 timmar för
+framställning av malt."
+15.250.02,B,64,"2. För en verksamhet som är tillståndspliktig enligt 5 kap. 24 §
+miljöprövningsförordningen är tillsynstiden 64 timmar för
+framställning av mer än 20 000 ton läskedryck eller maltdryck
+per kalenderår."
+15.250.03,B,30,"3. För en verksamhet som är tillståndspliktig enligt 5 kap. 24 §
+miljöprövningsförordningen är tillsynstiden 30 timmar för
+framställning av mer än 10 000 ton men högst 20 000 ton
+läskedryck eller maltdryck per kalenderår."
+15.260,C,9,"För en verksamhet som är anmälningspliktig enligt 5 kap. 25 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+15.270.01,B,90,"1. För en verksamhet som är tillståndspliktig enligt 5 kap. 26 §
+miljöprövningsförordningen är tillsynstiden 90 timmar för
+anläggning för tillverkning av jäst."
+15.270.02,B,47,"2. För en verksamhet som är tillståndspliktig enligt 5 kap. 26 §
+miljöprövningsförordningen är tillsynstiden 47 timmar för
+anläggning för tillverkning av startkulturer av mikroorganismer."
+15.280,C,9,"För en verksamhet som är anmälningspliktig enligt 5 kap. 27 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+15.310,C,6,"För en verksamhet som är anmälningspliktig enligt 5 kap. 28 §
+miljöprövningsförordningen är tillsynstiden 6 timmar."
+,,,"Verksamhetsgrupp Foder av animaliska och vegetabiliska
+råvaror"
+"15.330-i.01,
+15.350-i.01 och
+15.370-i.01",B,90,"1. För en verksamhet som är tillståndspliktig enligt 5 kap. 29, 31
+eller 33 § miljöprövningsförordningen är tillsynstiden 90 timmar
+för anläggning för bearbetning av animaliska biprodukter med
+en produktion baserad på mer än 10 000 ton råvara per
+kalenderår. För så kallade industriutsläppsverksamheter (IUV,
+markerade med ""-i"" efter koden) så tillkommer ett generellt
+tillägg med 20 timmar."
+"15.330-i.02,
+15.350-i.02 och
+15.370-i.02",B,30,"2. För en verksamhet som är tillståndspliktig enligt 5 kap. 29, 31
+eller 33 § miljöprövningsförordningen är tillsynstiden 30 timmar
+för anläggning som inte omfattas av 1. För så kallade
+industriutsläppsverksamheter (IUV, markerade med ""-i"" efter
+koden) så tillkommer ett generellt tillägg med 20 timmar."
+15.340,C,9,"För en verksamhet som är anmälningspliktig enligt 5 kap. 30 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+15.360,C,9,"För en verksamhet som är anmälningspliktig enligt 5 kap. 32 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+,,,VERKSAMHETSGRUPP TEXTILVAROR
+17.10-i,B,90,"För en verksamhet som är tillståndspliktig enligt 6 kap. 1 §
+miljöprövningsförordningen är tillsynstiden 90 timmar. För så
+kallade industriutsläppsverksamheter (IUV, markerade med ""-i""
+efter koden) så tillkommer ett generellt tillägg med 20 timmar."
+17.20.01,B,64,"1. För en verksamhet som är tillståndspliktig enligt 6 kap. 2 §
+miljöprövningsförordningen är tillsynstiden 64 timmar för
+anläggning för hantering av mer än 1 000 ton men högst 2 500
+ton textilfibrer eller textilier per kalenderår."
+17.20.02,B,30,"2. För en verksamhet som är tillståndspliktig enligt 6 kap. 2 §
+miljöprövningsförordningen är tillsynstiden 30 timmar för
+anläggning som inte omfattas av 1."
+17.30,C,9,"För en verksamhet som är anmälningspliktig enligt 6 kap. 3 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+,,,"VERKSAMHETSGRUPP PÄLS, SKINN OCH LÄDER"
+18.10-i,B,90,"För en verksamhet som är tillståndspliktig enligt 7 kap. 1 §
+miljöprövningsförordningen är tillsynstiden 90 timmar. För så
+kallade industriutsläppsverksamheter (IUV, markerade med ""-i""
+efter koden) så tillkommer ett generellt tillägg med 20 timmar."
+18.20.01,B,90,"1. För en verksamhet som är tillståndspliktig enligt 7 kap. 2 §
+miljöprövningsförordningen är tillsynstiden 90 timmar om
+verksamheten avser garvning av mer än 1 000 ton produkter per
+kalenderår."
+18.20.02,B,90,"2. För en verksamhet som är tillståndspliktig enligt 7 kap. 2 §
+miljöprövningsförordningen är tillsynstiden 90 timmar om
+verksamheten avser garvning av högst 1 000 ton produkter per
+kalenderår."
+18.20.03,B,90,"3. För en verksamhet som är tillståndspliktig enligt 7 kap. 2 §
+miljöprövningsförordningen är tillsynstiden 90 timmar om
+verksamheten avser annan beredning av hudar och skinn än
+garvning."
+18.30,C,9,"För en verksamhet som är anmälningspliktig enligt 7 kap. 3 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+,,,VERKSAMHETSGRUPP TRÄVAROR
+20.05-i,B,64,"För en verksamhet som är tillståndspliktig enligt 8 kap. 1 §
+miljöprövningsförordningen är tillsynstiden 64 timmar. För så
+kallade industriutsläppsverksamheter (IUV, markerade med ""-i""
+efter koden) så tillkommer ett generellt tillägg med 20 timmar."
+20.10,C,18,"För en verksamhet som är anmälningspliktig enligt 8 kap. 2 §
+miljöprövningsförordningen är tillsynstiden 18 timmar."
+20.20.01,B,64,"1. För en verksamhet som är tillståndspliktig enligt 8 kap. 3 §
+miljöprövningsförordningen är tillsynstiden 64 timmar för
+produktion som omfattar mer än 200 000 kubikmeter per
+kalenderår."
+20.20.02,B,30,"2. För en verksamhet som är tillståndspliktig enligt 8 kap. 3 §
+miljöprövningsförordningen är tillsynstiden 30 timmar för
+produktion som inte omfattas av 1."
+20.30,C,18,"För en verksamhet som är anmälningspliktig enligt 8 kap. 4 §
+miljöprövningsförordningen är tillsynstiden 18 timmar."
+20.40,C,18,"För en verksamhet som är anmälningspliktig enligt 8 kap. 5 §
+miljöprövningsförordningen är tillsynstiden 18 timmar."
+20.50-i.01,B,137,"1. För en verksamhet som är tillståndspliktig enligt 8 kap. 6 §
+miljöprövningsförordningen är tillsynstiden 137 timmar för
+produktion som omfattar mer än 20 000 ton per kalenderår. För
+så kallade industriutsläppsverksamheter (IUV, markerade med
+""-i"" efter koden) så tillkommer ett generellt tillägg med 20
+timmar."
+20.50-i.02,B,64,"2. För en verksamhet som är tillståndspliktig enligt 8 kap. 6 §
+miljöprövningsförordningen är tillsynstiden 64 timmar för
+produktion som inte omfattas av 1. För så kallade
+industriutsläppsverksamheter (IUV, markerade med ""-i"" efter
+koden) så tillkommer ett generellt tillägg med 20 timmar."
+20.60,C,18,"För en verksamhet som är anmälningspliktig enligt 8 kap. 7 §
+miljöprövningsförordningen är tillsynstiden 18 timmar."
+20.70,B,13,"För en verksamhet som är tillståndspliktig enligt 8 kap. 8 §
+miljöprövningsförordningen är tillsynstiden 13 timmar."
+20.80,C,9,"För en verksamhet som är anmälningspliktig enligt 8 kap. 9 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+20.90,C,6,"För en verksamhet som är anmälningspliktig enligt 8 kap. 10 §
+miljöprövningsförordningen är tillsynstiden 6 timmar."
+20.91,C,9,"För en verksamhet som är anmälningspliktig enligt 8 kap. 11 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+,,,"VERKSAMHETSGRUPP MASSA, PAPPER OCH
+PAPPERSVAROR"
+21.10-i.01,A,306,"1. För en verksamhet som är tillståndspliktig enligt 9 kap. 1 §
+miljöprövningsförordningen är tillsynstiden 306 timmar för
+anläggning för en produktion av mer än 300 000 ton sulfat- eller
+sulfitmassa per kalenderår om verksamheten har blekeri. För så
+kallade industriutsläppsverksamheter (IUV, markerade med ""-i""
+efter koden) så tillkommer ett generellt tillägg med 20 timmar."
+21.10-i.02,A,227,"2. För en verksamhet som är tillståndspliktig enligt 9 kap. 1 §
+miljöprövningsförordningen är tillsynstiden 227 timmar för en
+produktion av högst 300 000 ton sulfat- eller sulfitmassa om
+verksamheten har blekeri. För så kallade
+industriutsläppsverksamheter (IUV, markerade med ""-i"" efter
+koden) så tillkommer ett generellt tillägg med 20 timmar."
+21.10-i.03,A,184,"3. För en verksamhet som är tillståndspliktig enligt 9 kap. 1 §
+miljöprövningsförordningen är tillsynstiden 184 timmar för en
+produktion av sulfat- eller sulfitmassa om verksamheten inte har
+blekeri. För så kallade industriutsläppsverksamheter (IUV,
+markerade med ""-i"" efter koden) så tillkommer ett generellt
+tillägg med 20 timmar."
+21.10-i.04,A,137,"4. För en verksamhet som är tillståndspliktig enligt 9 kap. 1 §
+miljöprövningsförordningen är tillsynstiden 137 timmar om
+verksamheten avser framställning av halvkemisk massa. För så
+kallade industriutsläppsverksamheter (IUV, markerade med ""-i""
+efter koden) så tillkommer ett generellt tillägg med 20 timmar."
+21.10-i.05,A,137,"5. För en verksamhet som är tillståndspliktig enligt 9 kap. 1 §
+miljöprövningsförordningen är tillsynstiden 137 timmar för annan
+anläggning än de som avses i 1–4 med en produktion av mer än
+200 000 ton per kalenderår. För så kallade
+industriutsläppsverksamheter (IUV, markerade med ""-i"" efter
+koden) så tillkommer ett generellt tillägg med 20 timmar."
+21.10-i.06,A,90,"6. För en verksamhet som är tillståndspliktig enligt 9 kap. 1 §
+miljöprövningsförordningen är tillsynstiden 90 timmar för
+anläggning som inte omfattas av någon av 1–5. För så kallade
+industriutsläppsverksamheter (IUV, markerade med ""-i"" efter
+koden) så tillkommer ett generellt tillägg med 20 timmar."
+21.30-i.01,A,90,"1. För en verksamhet som är tillståndspliktig enligt 9 kap. 2 §
+miljöprövningsförordningen är tillsynstiden 90 timmar för
+framställning av mer än 10 000 ton per kalenderår. För så
+kallade industriutsläppsverksamheter (IUV, markerade med ""-i""
+efter koden) så tillkommer ett generellt tillägg med 20 timmar."
+21.30-i.02,A,47,"2. För en verksamhet som är tillståndspliktig enligt 9 kap. 2 §
+miljöprövningsförordningen är tillsynstiden 47 timmar för
+framställning som inte omfattas av 1. För så kallade
+industriutsläppsverksamheter (IUV, markerade med ""-i"" efter
+koden) så tillkommer ett generellt tillägg med 20 timmar."
+21.40,B,47,"För en verksamhet som är tillståndspliktig enligt 9 kap. 3 §
+miljöprövningsförordningen är tillsynstiden 47 timmar."
+,,,"VERKSAMHETSGRUPP FOTOGRAFISK OCH GRAFISK
+PRODUKTION"
+22.10,C,18,"För en verksamhet som är anmälningspliktig enligt 10 kap. 1 §
+miljöprövningsförordningen är tillsynstiden 18 timmar."
+22.20,C,9,"För en verksamhet som är anmälningspliktig enligt 10 kap. 2 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+22.30,B,30,"För en verksamhet som är tillståndspliktig enligt 10 kap. 3 §
+miljöprövningsförordningen är tillsynstiden 30 timmar."
+22.40,C,9,"För en verksamhet som är anmälningspliktig enligt 10 kap. 4 §
+miljöprövningsförordningen är tillsynstiden 9 timmar."
+,,,"VERKSAMHETSGRUPP STENKOLSPRODUKTER,
+RAFFINERADE PETROLEUMPRODUKTER OCH
+KÄRNBRÄNSLE"
+23.05.01,A,137,"1. För en verksamhet som är tillståndspliktig enligt 11 kap. 1 §
+miljöprövningsförordningen är tillsynstiden 137 timmar för en
+anläggning med en total installerad effekt om mer än 200
+megawatt."
+23.05.02,A,64,"2. För en verksamhet som är tillståndspliktig enligt 11 kap. 1 §
+miljöprövningsförordningen är tillsynstiden 64 timmar för en
+anläggning med en total installerad effekt om mer än 100
+megawatt men högst 200 megawatt."
+23.05.03,A,30,"3. För en verksamhet som är tillståndspliktig enligt 11 kap. 1 §
+miljöprövningsförordningen är tillsynstiden 30 timmar för en
+anläggning med en total installerad effekt om mer än 10
+megawatt men högst 100 megawatt."
+23.05.04,A,13,"4. För en verksamhet som är tillståndspliktig enligt 11 kap. 1 §
+miljöprövningsförordningen är tillsynstiden 13 timmar för en
+anläggning med en total installerad effekt om högst 10
+megawatt."
+23.10-i,A,90,"För en verksamhet som är tillståndspliktig enligt 11 kap. 2 §
+miljöprövningsförordningen är tillsynstiden 90 timmar. För så
+kallade industriutsläppsverksamheter (IUV, markerade med ""-i""
+efter koden) så tillkommer ett generellt tillägg med 20 timmar."
+23.11-i.01,A,90,"1. För en verksamhet som är tillståndspliktig enligt 11 kap. 3 §
+miljöprövningsförordningen är tillsynstiden 90 timmar om
+verksamheten avser överföring till vätskeformigt bränsle. För så
+kallade industriutsläppsverksamheter (IUV, markerade med ""-i""
+efter koden) så tillkommer ett generellt tillägg med 20 timmar."
+23.11-i.02,A,64,"2. För en verksamhet som är tillståndspliktig enligt 11 kap. 3 §
+miljöprövningsförordningen är tillsynstiden 64 timmar om
+verksamheten avser överföring till gasbränsle för en produktion
+av mer än 150 000 kubikmeter gas per kalenderår i anläggning
+med en installerad effekt av mer än 100 megawatt. För så
+kallade industriutsläppsverksamheter (IUV, markerade med ""-i""
+efter koden) så tillkommer ett generellt tillägg med 20 timmar."
+23.11-i.03,A,30,"3. För en verksamhet som är tillståndspliktig enligt 11 kap. 3 §
+miljöprövningsförordningen är tillsynstiden 30 timmar om
+verksamheten avser överföring till gasbränsle för en produktion
+av mer än 150 000 kubikmeter gas per kalenderår i anläggning
+med en installerad effekt av mer än 10 megawatt men högst 100
+megawatt. För så kallade industriutsläppsverksamheter (IUV,
+markerade med ""-i"" efter koden) så tillkommer ett generellt
+tillägg med 20 timmar."
+23.11-i.04,A,13,"4. För en verksamhet som är tillståndspliktig enligt 11 kap. 3 §
+miljöprövningsförordningen är tillsynstiden 13 timmar om
+verksamheten avser överföring till gasbränsle för en produktion
+av mer än 150 000 kubikmeter gas per kalenderår i anläggning
+med en installerad effekt av högst 10 megawatt. För så kallade
+industriutsläppsverksamheter (IUV, markerade med ""-i"" efter
+koden) så tillkommer ett generellt tillägg med 20 timmar."
+23.12-i,A,184,"För en verksamhet som är tillståndspliktig enligt 11 kap.4 §
+miljöprövningsförordningen är tillsynstiden 184 timmar. För så
+kallade industriutsläppsverksamheter (IUV, markerade med ""-i""
+efter koden) så tillkommer ett generellt tillägg med 20 timmar."
+23.13,A,90,"För en verksamhet som är tillståndspliktig enligt 11 kap. 5 §
+miljöprövningsförordningen är tillsynstiden 90 timmar."
+23.20,B,90,"För en verksamhet som är tillståndspliktig enligt 11 kap. 6 §
+miljöprövningsförordningen är tillsynstiden 90 timmar."
+23.30-i,A,306,"För en verksamhet som är tillståndspliktig enligt 11 kap. 7 §
+miljöprövningsförordningen är tillsynstiden 306 timmar. För så
+kallade industriutsläppsverksamheter (IUV, markerade med ""-i""
+efter koden) så tillkommer ett generellt tillägg med 20 timmar."
+"23.40 och
+23.50",A,90,"För en verksamhet som är tillståndspliktig enligt 11 kap. 8 eller 9
+§ miljöprövningsförordningen är tillsynstiden 90 timmar."
+,,,VERKSAMHETSGRUPP KEMISKA PRODUKTER
+,,,Verksamhetsgrupp Organiska kemikalier
+"24.01-i.01,
+24.02-i.01,
+24.03-i.01,
+24.04-i.01,
+24.05-i.01,
+24.06-i.01,
+24.07-i.01,
+24.08-i.01,
+24.09-i.01,
+24.10-i.01,
+24.11-i.01,
+24.12-i.01,
+24.13-i.01,
+24.14-i.01,
+24.15-i.01,
+24.16-i.01,
+24.17-i.01,
+24.18-i.01,
+24.19-i.01,
+24.20-i.01,
+24.21-i.01 och
+24.22-i.01",A/B,137,"1. För en verksamhet som är tillståndspliktig enligt någon av 12
+kap. 1–22 § miljöprövningsförordningen är tillsynstiden 137
+timmar för anläggning med en produktionsmängd på mer än 20
+000 ton per kalenderår. För så kallade
+industriutsläppsverksamheter (IUV, markerade med ""-i"" efter
+koden) så tillkommer ett generellt tillägg med 20 timmar."
