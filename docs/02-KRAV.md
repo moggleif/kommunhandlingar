@@ -1081,13 +1081,13 @@ och [Lokalbehov](03-ARKITEKTUR.md#lokalbehov).
 - **Så** är steget märkt tolkat, med en streckad ram kring ikonen.
 - **Givet** sidan
 - **När** besökaren väljer ett urval
-- **Så** visas bara de behov som står i det senaste årets lokalbehov
+- **Så** visas bara de behov som står i nämndens senaste lokalbehov
   eller som nått den valda fasen. Utan JavaScript står alla.
 - **Givet** en lokalbehovsfil med ett organ som inte står i kommunfilen,
   ett år som inte är fyra siffror, en okänd fas, en prioritet utan värde,
   en lokalplan utan löpnummer, ett tomt behov eller en tom text, en källa
   som inte är en sida i ett av kommunens organs dokument i poolen, en
-  text som inte står på källans sidor, samma steg två gånger ur samma
+  text eller ett värde som inte står på källans sidor, samma steg två gånger ur samma
   källa, eller en lokalbehovsfil utan kommunfil
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med filen, raden och felet.

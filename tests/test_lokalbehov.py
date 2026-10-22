@@ -92,6 +92,7 @@ class TestLasning(unittest.TestCase):
             (rad.replace("bun/", "kun/"), "inget organs dokument"),
             (rad.replace("sida-1", "sida-2"), "texten står inte"),
             (rad.replace("#sida-1", ""), "ingen sida"),
+            (rad.replace(",1412,", ",1413,", 1), "värdet står inte"),
             (rad + rad, "rad 3: steget står redan"),
         ]:
             self.assertIn(fel, self.stoppas(andrad))
@@ -129,12 +130,12 @@ class TestSidan(unittest.TestCase):
         self.assertIn("<h3>Idrottshall</h3>", kort)
         self.assertIn("Senast: utfört 2025", kort)
         self.assertIn("<q>1412 Idrottshall</q>", kort)
-        self.assertIn("<small>tolkad</small>", kort)
+        self.assertIn("Senast: utfört 2025 <small>tolkad</small>", kort)
 
     def test_urvalet_och_sammandraget(self):
         html = self.sida()
         self.assertIn('data-slag="lokalbehov prioritet lokalplan utfort"', html)
-        self.assertIn('data-urval="aktiv">I lokalbehov 2025', html)
+        self.assertIn('data-urval="aktiv">I lokalbehov 2024', html)
         self.assertIn("<dt>i lokalplanen</dt><dd>1</dd>", html)
         self.assertIn("<script>", html)
 

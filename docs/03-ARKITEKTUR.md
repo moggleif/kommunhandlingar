@@ -1664,9 +1664,9 @@ En kommun med en fil `lokalbehov/<kommun>.csv` får en sida
   | -------- | --------------------------------------------------------------- |
   | `organ`  | Organet som äger behovet, med id ur kommunfilen.                |
   | `behov`  | Behovets namn på sidan, detsamma i alla steg.                   |
-  | `ar`     | Året steget hör till: lokalbehovets, budgetens eller beslutets. |
+  | `ar`     | Året beslutet eller rapporten kom: för en budget beslutsåret, inte budgetåret. |
   | `fas`    | `lokalbehov`, `prioritet`, `lokalplan`, `startbeslut`, `pagar` eller `utfort`. |
-  | `varde`  | Prioriteten (en siffra eller källans ord, krävs), lokalplanens löpnummer (krävs), eller tomt eller ett kort värde ur källan. |
+  | `varde`  | Prioriteten (en siffra eller källans ord, krävs), lokalplanens löpnummer (krävs), eller tomt eller ett kort värde. Står på källans sidor. |
   | `text`   | Källans ord, ordagrant, som visar steget.                       |
   | `kalla`  | Sidan i poolen, `<organ>/<år>/<datum>/<namn>.md#sida-N` eller `#sida-N-M`, ur vilket organs dokument som helst. |
   | `tolkad` | Tomt, eller `ja` när kopplingen till behovet är agentens bedömning. |
@@ -1678,8 +1678,12 @@ En kommun med en fil `lokalbehov/<kommun>.csv` får en sida
   servicenämndens redovisning. Var de finns i en kommun står i
   `docs/kallor/<kommun>.md`.
 - **Kontrollen** (`webbplats/lokalbehov.py`) stoppar bygget med raden
-  enligt K36. Texten prövas mot källans sidor som målfilens
+  enligt K36. Texten och värdet prövas mot källans sidor som målfilens
   (`mal.jamforbar`), med källans organ i stället för behovets.
+- **Ett förslag är inget beslut.** Nämndens lokalbehov och prioriteringar
+  tas ur protokollet, eller ur handlingarna när protokollet visar att
+  förslaget bifölls, som för målen (ADR-0045). Ett förslag inför ett möte
+  vars protokoll inte finns i poolen står inte med.
 - **Sidan** (`webbplats/lokalbehovsida.py`, `lokalbehovkort.py`,
   `fasikon.py`) följer målsidan: en hopfälld del om metoden, antalet behov
   som nått varje fas, ett urval, en tidslinje med en rad per behov och en
@@ -1687,5 +1691,5 @@ En kommun med en fil `lokalbehov/<kommun>.csv` får en sida
   remsa och historik. Varje fas har en egen form; en prioritet bär sin
   siffra eller första bokstaven i källans ord. Stilen är `mal.css` och
   `lokalbehov.css`, och skriptet är målsidans `mal.js`, som läser
-  `data-slag` (faserna behovet nått) och `data-aktiv` (i det senaste årets
+  `data-slag` (faserna behovet nått) och `data-aktiv` (i nämndens senaste
   lokalbehov).

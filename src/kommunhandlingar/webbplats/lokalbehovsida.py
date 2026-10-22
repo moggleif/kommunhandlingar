@@ -24,15 +24,15 @@ ADR = (
 )
 INLEDNING = (
     "<p>Nämndens lokalbehov år för år: när de står i nämndens lokalbehov, "
-    "hur de prioriteras, om de kommer in i kommunbudgetens lokalplan, får "
+    "hur de prioriteras, om de kommer in i kommunens lokalplan, får "
     "startbeslut och blir utförda. Varje ikon länkar till sidan i dokumentet "
     "som visar steget.</p>"
 )
 METOD = (
     "<p>Stegen är lästa ur poolens dokument, från vilket organ som helst: "
-    "nämndens egna, kommunfullmäktiges budget, kommunstyrelsens beslut och "
-    "servicenämndens redovisning. Varje steg har en text som står på "
-    "källans sida, och bygget prövar det.</p>"
+    "nämndens egna, budgeten, besluten om att starta projekt och "
+    "redovisningen från det organ som bygger. Varje steg har en text som "
+    "står på källans sida, och bygget prövar det.</p>"
     "<p>Ett behov har ett namn på sidan även när källorna kallar det olika. "
     "Där källan inte själv säger att det gäller behovet är kopplingen en "
     "bedömning och ikonen har en streckad ram. Ett år utan ikon betyder att "
@@ -49,7 +49,8 @@ def lokalbehovsida(mall: Mall, kommun: Kommun, stegen: list[Steg]) -> str:
     organ = stegen[0].organ
     sidans = adress(kommun, organ)
     namn = next(o.namn[0] for o in kommun.organ if o.id == organ)
-    behoven = per_behov(stegen)
+    senaste = max(s.ar for s in stegen if s.fas == "lokalbehov")
+    behoven = per_behov(stegen, senaste)
     ar = range(min(s.ar for s in stegen), max(s.ar for s in stegen) + 1)
     lankar = [
         (f"{rot(sidans)}{kommun.id}.html", kommun.namn),
@@ -62,7 +63,7 @@ def lokalbehovsida(mall: Mall, kommun: Kommun, stegen: list[Steg]) -> str:
         + f"<details><summary>Om sidan</summary>{METOD}<p>Hur och varför står i "
         f'<a href="{escape(mall.repo + ADR)}">ADR-0057</a>.</p></details>'
         + sammandrag(behoven)
-        + urval(ar[-1])
+        + urval(senaste)
         + tidslinje(behoven, ar, kommun)
         + korten(behoven, ar, kommun)
         + f"<script>{SKRIPT.read_text(encoding='utf-8')}</script>"
@@ -71,9 +72,14 @@ def lokalbehovsida(mall: Mall, kommun: Kommun, stegen: list[Steg]) -> str:
 
 
 # Behoven i den ordning de först står, med stegen i år- och fasordning.
-def per_behov(stegen: list[Steg]) -> list[Behov]:
+def per_behov(stegen: list[Steg], senaste: int) -> list[Behov]:
     namn = dict.fromkeys(s.behov for s in sorted(stegen, key=lambda s: s.ar))
-    return [(n, sorted((s for s in stegen if s.behov == n), key=ordning)) for n in namn]
+    return [samla(n, [s for s in stegen if s.behov == n], senaste) for n in namn]
+
+
+def samla(namn: str, stegen: list[Steg], senaste: int) -> Behov:
+    aktiv = any(s.ar == senaste and s.fas == "lokalbehov" for s in stegen)
+    return namn, sorted(stegen, key=ordning), aktiv
 
 
 def ordning(steg: Steg) -> tuple[int, int]:
@@ -82,7 +88,7 @@ def ordning(steg: Steg) -> tuple[int, int]:
 
 def sammandrag(behoven: list[Behov]) -> str:
     siffror = "".join(
-        f"<div><dt>{betyder}</dt><dd>{sum(nadd(s, fas) for _, s in behoven)}</dd></div>"
+        f"<div><dt>{betyder}</dt><dd>{sum(nadd(b[1], fas) for b in behoven)}</dd></div>"
         for fas, (_, betyder) in FASER.items()
     )
     return (
@@ -118,11 +124,11 @@ def tidslinje(behoven: list[Behov], ar: range, kommun: Kommun) -> str:
 
 
 def rad(nr: int, behov: Behov, ar: range, kommun: Kommun) -> str:
-    namn, stegen = behov
+    namn, stegen, _ = behov
     finns = {s.ar for s in stegen}
     celler = "".join(cell(stegen, a, finns, kommun) for a in ar)
     return (
-        f'<tr {egenskaper(nr, stegen, ar)}><th scope="row">'
+        f'<tr {egenskaper(nr, behov)}><th scope="row">'
         f'<a href="#behov-{nr}">{escape(namn)}</a></th>{celler}</tr>'
     )
 

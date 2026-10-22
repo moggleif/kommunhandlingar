@@ -260,7 +260,10 @@ har hittills bara Gymnasium & Arbetsmarknad, 2023–2026 (kontrollerat
 - **Nämndens lokalbehov** för de kommande fem åren beslutas i oktober,
   med behovsbeskrivningarna som bilagor i handlingarna och en
   prioritering i protokollet, ibland efter ett yrkande. Handlingarna
-  2023 är inte hämtade, så det året syns bara genom senare hänvisningar.
+  2023 är inte hämtade och protokollen från oktober och november 2023
+  saknas i poolen, så det året syns bara genom senare hänvisningar.
+  Lokalbehov 2028–2032 är ett förslag till mötet 2026-10-22 och står med
+  när protokollet finns i poolen.
 - **Lokalplanen** står i kommunbudgeten som fullmäktige beslutar i juni,
   med ett löpnummer per projekt (1412–1415 för GA 2026). Samma tabell
   återges i kommunstyrelsens handlingar.

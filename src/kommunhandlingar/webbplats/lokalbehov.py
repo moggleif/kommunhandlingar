@@ -79,8 +79,10 @@ def tolka(rad: list[str], organ: set[str], sidtext: Sidtext) -> Steg:
 def kontrollera_kalla(steg: Steg, organ: set[str], sidtext: Sidtext) -> None:
     if steg.kallans_organ not in organ:
         raise ValueError(f"källan {steg.kalla!r} är inget organs dokument")
-    if jamforbar(steg.text) not in sidtext(steg.kalla, steg.kallans_organ):
-        raise ValueError(f"texten står inte på {steg.kalla}")
+    sidan = sidtext(steg.kalla, steg.kallans_organ)
+    for falt, varde in (("texten", steg.text), ("värdet", steg.varde)):
+        if jamforbar(varde) not in sidan:
+            raise ValueError(f"{falt} står inte på {steg.kalla}")
 
 
 # En prioritet har ett värde, en siffra eller källans ord, och en

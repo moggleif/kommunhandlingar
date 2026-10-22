@@ -25,7 +25,7 @@ def organsida(mall: Mall, kommun: Kommun, rad: Organrad, dokument: list[dict]) -
     adress = f"{kommun.id}/{rad.id}.html"
     innehall = (
         stig([(f"{rot(adress)}{kommun.id}.html", kommun.namn)])
-        + malank(mall, kommun, rad.id)
+        + overtidlankar(mall, kommun, rad.id)
     ) + (
         "".join(f"<h2>{escape(a)}</h2>{''.join(m)}" for a, m in ar.items())
         or "<p>Inget hämtat än.</p>"
@@ -34,7 +34,7 @@ def organsida(mall: Mall, kommun: Kommun, rad: Organrad, dokument: list[dict]) -
 
 
 # Länkarna till organets sidor över tid, de som har rader.
-def malank(mall: Mall, kommun: Kommun, organ: str) -> str:
+def overtidlankar(mall: Mall, kommun: Kommun, organ: str) -> str:
     sidor = [
         (mall.malen, "mal-och-direktiv", "Mål och direktiv över tid"),
         (mall.lokalbehov, "lokalbehov", "Lokalbehov över tid"),

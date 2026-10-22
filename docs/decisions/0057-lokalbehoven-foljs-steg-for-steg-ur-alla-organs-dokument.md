@@ -16,7 +16,7 @@ startbeslut i kommunstyrelsen och byggs av servicenämnden
 ([#186](https://github.com/moggleif/kommunhandlingar/issues/186)). Ingen
 handling följer upp förra årets prioriteringar. En genomgång av GA:s
 lokalbehov 2023–2026 visade att två behov med prioritet 3 försvann ur
-listorna utan beslut, och att det ena av dem ändå byggdes som en mindre
+listorna utan att någon handling säger varför, och att det ena av dem ändå byggdes som en mindre
 anpassning hos servicenämnden. Det syntes bara i servicenämndens bokslut.
 
 Webbplatsen ska visa varje behov över tid, med en källa för varje steg,
@@ -55,9 +55,11 @@ steg rymmer steg som inte följer budgetåret.
   `lokalbehov`, `prioritet`, `lokalplan`, `startbeslut`, `pagar` och
   `utfort`. `organ` är nämnden som äger behovet; `kalla` får vara ett
   dokument från vilket av kommunens organ som helst.
-* **Texten är källans** och prövas mot källans sidor på samma sätt som
-  målfilen (ADR-0044). En prioritet måste ha ett värde och en lokalplan
-  ett löpnummer.
+* **Texten och värdet är källans** och prövas mot källans sidor på samma
+  sätt som målfilen (ADR-0044). En prioritet måste ha ett värde och en
+  lokalplan ett löpnummer. Som för målen går protokollet före
+  handlingarna (ADR-0045): ett förslag inför ett möte står inte med förrän
+  protokollet finns.
 * **Ett behov har ett namn** på sidan, valt av agenten, även när källorna
   kallar det olika. När källan inte själv säger att steget gäller
   behovet står `tolkad = ja`, och ikonen får en streckad ram.
@@ -132,6 +134,6 @@ gjort och det som är på gång, och flera källor säger att arbete pågår
 utan att något beslut eller bokslut finns, som servicenämndens
 månadsvisa redovisning av projekten och nämndens delårsrapport.
 
-En prioritet som är ett ord, som "aktualiserat" när nämnden 2025 tog
+En prioritet som är ett ord, som "aktualiserade" när nämnden 2025 tog
 med Kompetenscentrum och Marios gata utöver de nya prioriteringarna,
 visas med första bokstaven i ikonen och hela ordet i pekrutan.

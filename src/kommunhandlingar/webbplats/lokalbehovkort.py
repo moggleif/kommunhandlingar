@@ -13,7 +13,8 @@ from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.fasikon import FASER, ikon
 from kommunhandlingar.webbplats.lokalbehov import Steg
 
-Behov = tuple[str, list[Steg]]
+# Namnet, stegen och om behovet står i nämndens senaste lokalbehov.
+Behov = tuple[str, list[Steg], bool]
 
 
 def korten(behoven: list[Behov], ar: range, kommun: Kommun) -> str:
@@ -25,17 +26,18 @@ def korten(behoven: list[Behov], ar: range, kommun: Kommun) -> str:
 
 
 def kort(nr: int, behov: Behov, ar: range, kommun: Kommun) -> str:
-    namn, stegen = behov
+    namn, stegen, _ = behov
     borjan, slut = stegen[0].ar, stegen[-1].ar
     aren = str(borjan) if borjan == slut else f"{borjan}–{slut}"
-    senaste = max(stegen, key=lambda s: (s.ar, list(FASER).index(s.fas)))
+    senaste = stegen[-1]
     poster = "".join(post(s, kommun) for s in reversed(stegen))
     antal = f"{len(stegen)} steg"
     return (
-        f'<article id="behov-{nr}" {egenskaper(nr, stegen, ar)}>'
+        f'<article id="behov-{nr}" {egenskaper(nr, behov)}>'
         f'<p class="markor"><span>{aren}</span></p><h3>{escape(namn)}</h3>'
         f"<p>Senast: {FASER[senaste.fas][1]} {senaste.ar}"
-        f"{f' ({escape(senaste.varde)})' if senaste.varde else ''}</p>"
+        f"{f' ({escape(senaste.varde)})' if senaste.varde else ''}"
+        f"{' <small>tolkad</small>' if senaste.tolkad else ''}</p>"
         f"{remsa(stegen, ar, kommun)}"
         f"<details><summary>Hela historiken, {antal}</summary>"
         f"<ol>{poster}</ol></details></article>"
@@ -58,10 +60,9 @@ def arets(stegen: list[Steg], ar: int, kommun: Kommun) -> str:
     return "".join(ikon(s, *kalla(s.kalla, kommun)) for s in stegen if s.ar == ar)
 
 
-# Egenskaperna för målsidans skript: `slag` är faserna behovet nått och
-# `aktiv` att det står i nämndens lokalbehov det senaste året.
-def egenskaper(nr: int, stegen: list[Steg], ar: range) -> str:
-    aktiv = any(s.ar == ar[-1] and s.fas == "lokalbehov" for s in stegen)
+# Egenskaperna för målsidans skript: `slag` är faserna behovet nått.
+def egenskaper(nr: int, behov: Behov) -> str:
+    _, stegen, aktiv = behov
     faser = " ".join(dict.fromkeys(s.fas for s in stegen))
     return (
         f'data-mal="{nr}" data-slag="{faser}" data-aktiv="{"ja" if aktiv else "nej"}"'

@@ -7,30 +7,36 @@ Varje ikon är en länk till källans sida.
 
 from html import escape
 
+from kommunhandlingar.webbplats import lokalbehov
 from kommunhandlingar.webbplats.lokalbehov import Steg
 
 DRAG = 'fill="none" stroke="currentColor" stroke-width="1.5"'
-FASER = {
-    "lokalbehov": (f'<circle cx="8" cy="8" r="6" {DRAG}/>', "i nämndens lokalbehov"),
-    "prioritet": ('<circle cx="8" cy="8" r="7" fill="currentColor"/>', "prioriterat"),
-    "lokalplan": (
-        f'<rect x="2" y="2" width="12" height="12" {DRAG}/>',
-        "i lokalplanen",
-    ),
-    "startbeslut": ('<path d="M4 2.5v11l9-5.5z" fill="currentColor"/>', "startbeslut"),
-    "pagar": (
-        f'<path d="M8 1.5l6.5 6.5-6.5 6.5-6.5-6.5z" {DRAG}/>'
-        '<path d="M8 1.5v13l-6.5-6.5z" fill="currentColor"/>',
-        "på gång",
-    ),
-    "utfort": (
-        '<rect x="1.5" y="1.5" width="13" height="13" rx="3" fill="currentColor"/>'
-        '<path d="M4.5 8.5l2.5 2.5 4.5-5" fill="none" stroke="#fff" stroke-width="2"/>',
-        "utfört",
-    ),
-}
+# Ikonen och namnet för varje fas i lokalbehov.FASER, i samma ordning.
+FASER = dict(
+    zip(
+        lokalbehov.FASER,
+        [
+            (f'<circle cx="8" cy="8" r="6" {DRAG}/>', "i nämndens lokalbehov"),
+            ('<circle cx="8" cy="8" r="7" fill="currentColor"/>', "prioriterat"),
+            (f'<rect x="2" y="2" width="12" height="12" {DRAG}/>', "i lokalplanen"),
+            ('<path d="M4 2.5v11l9-5.5z" fill="currentColor"/>', "startbeslut"),
+            (
+                f'<path d="M8 1.5l6.5 6.5-6.5 6.5-6.5-6.5z" {DRAG}/>'
+                '<path d="M8 1.5v13l-6.5-6.5z" fill="currentColor"/>',
+                "på gång",
+            ),
+            (
+                '<rect x="1.5" y="1.5" width="13" height="13" rx="3" '
+                'fill="currentColor"/><path d="M4.5 8.5l2.5 2.5 4.5-5" '
+                'fill="none" stroke="#fff" stroke-width="2"/>',
+                "utfört",
+            ),
+        ],
+        strict=True,
+    )
+)
 
-PRIORITET = " med siffran, eller första bokstaven i källans ord (A för aktualiserat)"
+PRIORITET = " med siffran, eller första bokstaven i källans ord"
 
 
 def ikon(steg: Steg, lank: str, kalla: str) -> str:
