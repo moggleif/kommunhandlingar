@@ -1,8 +1,9 @@
-"""Krav: K36 och K37 i docs/02-KRAV.md, ADR-0057 och ADR-0058.
-Test: tests/test_lokalbehov.py, tests/test_initiativ.py.
+"""Krav: K36, K37 och K38 i docs/02-KRAV.md, ADR-0057, ADR-0058 och ADR-0059.
+Test: tests/test_lokalbehov.py, tests/test_initiativ.py,
+tests/test_handlingsplaner.py.
 
-Slagen av spår över tid: vad som skiljer lokalbehoven och
-initiativärendena åt. Allt annat är gemensamt (`spar.py`, `sparsida.py`).
+Slagen av spår över tid: vad som skiljer lokalbehoven, initiativärendena
+och handlingsplanerna åt. Allt annat är gemensamt (`spar.py`, `sparsida.py`).
 """
 
 from kommunhandlingar.webbplats.spar import Slag
@@ -105,4 +106,51 @@ INITIATIV = Slag(
     avsandare="vackt",
 )
 
-SLAGEN = (LOKALBEHOV, INITIATIV)
+HANDLINGSPLANER = Slag(
+    id="handlingsplaner",
+    kolumn="plan",
+    rubrik="Handlingsplaner",
+    sak="Plan",
+    saker="Planerna",
+    antal="planer",
+    faser={
+        "uppdrag": (CIRKEL, "förslag, uppdrag eller arbete"),
+        "yttrande": (f'<path d="M2 2.5h12v8H7.5L4 14v-3.5H2z" {DRAG}/>', "yttrande"),
+        "plan": (
+            f'<path d="M3.5 1.5h6l3 3v10h-9z" {DRAG}/>'
+            '<path d="M5.5 7.5h5M5.5 10h5" stroke="currentColor"/>',
+            "själva planen",
+        ),
+        "antagen": (FYLLD + BOCK, "antagen eller framtagen"),
+        "uppfoljning": (RUTER, "uppföljning"),
+        "revidering": (f'<path d="M3 2h10L3 14h10z" {DRAG}/>', "revidering"),
+        "avslutad": (KLART, "avslutad"),
+    },
+    inledning=(
+        "<p>Nämndens handlingsplaner år för år: vem som föreslog dem, när de "
+        "antogs, hur de följdes upp och reviderades och när de avslutades. "
+        "Varje ikon länkar till sidan i dokumentet som visar steget, och "
+        "finns själva planen i poolen länkar kortet till den.</p>"
+    ),
+    metod=(
+        "<p>En plan står med när den har ett eget steg i nämndens protokoll "
+        "eller handlingar: ett uppdrag, ett beslut, ett yttrande, en "
+        "återrapport eller en uppföljning. Nämndens egna planer står med, och "
+        "kommunens planer där nämnden har ett eget steg. Planer som bara nämns "
+        "och den interna kontrollplanen står inte med. Avsändaren står när "
+        "planen kommer ur en motion eller ett initiativ, som källan skriver "
+        "den. Varje steg har en text som står på källans sida, och bygget "
+        "prövar det.</p>"
+        "<p>En plan har ett namn på sidan även när källorna kallar den olika. "
+        "Där källan inte själv säger att det gäller planen är kopplingen en "
+        "bedömning och ikonen har en streckad ram. Ett år utan ikon betyder "
+        "att inget steg står i poolen det året, inte att inget hände; poolen "
+        "saknar en del protokoll. Sidan visar vad som står var och värderar "
+        "inte planerna.</p>"
+    ),
+    adr="0059-handlingsplanerna-foljs-som-initiativen.md",
+    avsandare="uppdrag",
+    planen="plan",
+)
+
+SLAGEN = (LOKALBEHOV, INITIATIV, HANDLINGSPLANER)

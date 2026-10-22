@@ -70,6 +70,7 @@ krav eller ett test. Det betyder:
 | Nämndernas uppföljningar av målen i protokollen | `uppfoljningar/<kommun>.csv`       |
 | En kommuns lokalbehov steg för steg över tid    | `lokalbehov/<kommun>.csv`          |
 | Nämndernas initiativärenden steg för steg       | `initiativ/<kommun>.csv`           |
+| Nämndernas handlingsplaner steg för steg        | `handlingsplaner/<kommun>.csv`     |
 | Hämtningens User-Agent och intervall per värd   | `hamtning.toml`                    |
 | Front matter-schemat och tabellernas format     | `docs/03-ARKITEKTUR.md`            |
 | Ett dokuments härkomst och kvalitet (värdena)   | front matter i dokumentets `.md`   |

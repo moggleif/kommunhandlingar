@@ -211,14 +211,15 @@ src/kommunhandlingar/
   konvertering/    pdf → md: sidans väg, text, tabeller och kvalitet
   facit/           konverteringen mätt mot facit för ett urval (K20)
   webbplats/       startsidan, statussidorna, organens och dokumentens sidor,
-                   kalendern, målen, lokalbehoven, initiativärendena och
-                   avvikelserna
+                   kalendern, målen, lokalbehoven, initiativärendena,
+                   handlingsplanerna och avvikelserna
 kommuner/<kommun>.toml
 kalender/<kommun>.csv  sammanträdena i kalendern, skrivna för hand (K22)
 mal/<kommun>.csv       nämndernas mål och direktiv, skrivna för hand (K26)
 uppfoljningar/<kommun>.csv  nämndernas uppföljningar av målen i protokollen (K28)
 lokalbehov/<kommun>.csv  nämndernas lokalbehov steg för steg, skrivna för hand (K36)
 initiativ/<kommun>.csv   nämndernas initiativärenden steg för steg, skrivna för hand (K37)
+handlingsplaner/<kommun>.csv  nämndernas handlingsplaner steg för steg, skrivna för hand (K38)
 hamtning.toml
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>[-<sista sida>]-<nr>.csv
@@ -1367,7 +1368,10 @@ varje push till `main`, för hand och när ett issue med etiketten
   (`<kommun>/<organ>/lokalbehov.html`, [Lokalbehov](#lokalbehov)), en
   sida om initiativärendena för varje organ med rader i kommunens
   initiativfil (`<kommun>/<organ>/initiativ.html`,
-  [Initiativärenden](#initiativärenden)),
+  [Initiativärenden](#initiativärenden)), en sida om handlingsplanerna
+  för varje organ med rader i kommunens fil med handlingsplaner
+  (`<kommun>/<organ>/handlingsplaner.html`,
+  [Handlingsplaner](#handlingsplaner)),
   och en sida med avvikelserna
   i källan (`avvikelser.html`, se nedan). Sidmallen,
   menyn och stilen står i `webbplats/mall.py`. Varje sida har samma meny – startsidan, kommunerna
@@ -1762,3 +1766,34 @@ skillnaderna:
   räknar ärendena per fas och per avsändare och har ett urval per
   avsändare. I `data-slag` står avsändaren som `av-<avsändaren>`, med
   små bokstäver och bindestreck.
+
+## Handlingsplaner
+
+Hur och varför står i
+[ADR-0059](decisions/0059-handlingsplanerna-foljs-som-initiativen.md).
+En kommun med en fil `handlingsplaner/<kommun>.csv` får en sida
+`<kommun>/<organ>/handlingsplaner.html` för varje organ med rader i
+filen (K38), länkad från organets sida bredvid initiativärendena.
+Filen, kontrollen och sidan är initiativärendenas
+([Initiativärenden](#initiativärenden)), med de här skillnaderna:
+
+- **Kolumnen** `plan`: planens namn på sidan, detsamma i alla steg.
+- **Vilka planer:** en plan står med när den har ett eget steg i
+  organets protokoll eller handlingar – ett uppdrag, ett beslut, ett
+  yttrande, en återrapport eller en uppföljning. Organets egna planer
+  står med, och kommunens planer där organet har ett eget steg. Planer
+  som bara nämns, den interna kontrollplanen och planer för enskilda
+  elever står inte med.
+- **Faserna** är `uppdrag` (ett förslag, en motion, ett uppdrag eller ett
+  arbete som pågår), `yttrande` (organet yttrar sig över planen eller en
+  motion om den), `plan` (sidan där själva planen står), `antagen`
+  (beslutad, godkänd eller framtagen), `uppfoljning`, `revidering` och
+  `avslutad`.
+- **Värdet** är frivilligt. I `antagen` säger det vem som antog planen
+  när källan säger det. I `uppdrag` är det avsändaren när planen kommer ur
+  en motion eller ett initiativ, med partiets förkortning; en plan utan
+  avsändare får ingen. Sidan räknar och väljer per avsändare som för
+  initiativärendena.
+- **Kortet** länkar till själva planen, källan i steget `plan`, när den
+  finns i poolen. Historiken med källorna står hopfälld under "Läs mer",
+  på alla sidor om spår över tid.

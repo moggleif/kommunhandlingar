@@ -1,13 +1,14 @@
-"""Krav: K36 och K37 i docs/02-KRAV.md, ADR-0057 och ADR-0058.
-Test: tests/test_lokalbehov.py, tests/test_initiativ.py.
+"""Krav: K36, K37 och K38 i docs/02-KRAV.md, ADR-0057, ADR-0058 och ADR-0059.
+Test: tests/test_lokalbehov.py, tests/test_initiativ.py,
+tests/test_handlingsplaner.py.
 
 Läser en spårfil, `<slag>/<kommun>.csv`: en rad per steg en sak tar över
-tid – ett lokalbehov, ett initiativärende – med en sida i ett dokument i
-poolen som källa. Källan får vara vilket organs dokument som helst. Vad
+tid – ett lokalbehov, ett initiativärende, en handlingsplan – med en sida
+i ett dokument i poolen som källa. Källan får vara vilket organs dokument som helst. Vad
 som skiljer slagen åt – kolumnens namn, faserna, värdena och sidans text –
 står i `sparslag.py`. Bygget stoppas med raden när den inte går ihop med
 kommunfilen och poolen (docs/03-ARKITEKTUR.md#lokalbehov och
-#initiativärenden).
+#initiativärenden och #handlingsplaner).
 """
 
 import csv
@@ -39,8 +40,10 @@ class Slag:
     siffra: str = ""
     # Fasen vars senaste år ger urvalet "I <rubrik> <år>".
     aktuell: str = ""
-    # Fasen vars värde säger vem som står bakom saken.
+    # Fasen vars värde, när det finns, säger vem som står bakom saken.
     avsandare: str = ""
+    # Fasen vars källa är själva saken, som kortet länkar till.
+    planen: str = ""
 
     @property
     def kolumner(self) -> list[str]:

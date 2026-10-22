@@ -1,8 +1,10 @@
-"""Krav: K36 och K37 i docs/02-KRAV.md, ADR-0057 och ADR-0058.
-Test: tests/test_lokalbehov.py, tests/test_initiativ.py.
+"""Krav: K36, K37 och K38 i docs/02-KRAV.md, ADR-0057, ADR-0058 och ADR-0059.
+Test: tests/test_lokalbehov.py, tests/test_initiativ.py,
+tests/test_handlingsplaner.py.
 
 Ett kort per sak, under tidslinjen, som målkorten: åren, vem som står
-bakom, det senaste steget, en remsa med årens ikoner och hela historiken
+bakom, det senaste steget, en länk till själva saken när den finns i
+poolen, en remsa med årens ikoner och, under "Läs mer", hela historiken
 med källans text och en länk till källans sida. Här står också det
 tidslinjen och korten delar: årets ikoner, egenskaperna för urvalet och
 länken till en källa, som kan vara vilket organs dokument som helst.
@@ -52,9 +54,18 @@ def kort(vy: Vy, nr: int, sak: Sak) -> str:
         f"<p>Senast: {vy.slag.faser[senaste.fas][1]} {senaste.ar}"
         f"{f' ({escape(senaste.varde)})' if senaste.varde else ''}"
         f"{' <small>tolkad</small>' if senaste.tolkad else ''}</p>"
-        f"{remsa(vy, stegen)}"
-        f"<details><summary>Hela historiken, {len(stegen)} steg</summary>"
+        f"{planen(vy, stegen)}{remsa(vy, stegen)}"
+        f"<details><summary>Läs mer: historiken och källorna, {len(stegen)} steg"
+        "</summary>"
         f"<ol>{poster}</ol></details></article>"
+    )
+
+
+def planen(vy: Vy, stegen: list[Steg]) -> str:
+    kallorna = [kalla(s.kalla, vy.kommun) for s in stegen if s.fas == vy.slag.planen]
+    return "".join(
+        f'<p>Planen: <a href="{escape(adress)}">{escape(text)}</a></p>'
+        for adress, text in kallorna
     )
 
 
@@ -63,7 +74,9 @@ def avsandare(slag: Slag, stegen: list[Steg]) -> str:
 
 
 def avsandarna(slag: Slag, stegen: list[Steg]) -> list[str]:
-    return list(dict.fromkeys(s.varde for s in stegen if s.fas == slag.avsandare))
+    return list(
+        dict.fromkeys(s.varde for s in stegen if s.fas == slag.avsandare and s.varde)
+    )
 
 
 def remsa(vy: Vy, stegen: list[Steg]) -> str:

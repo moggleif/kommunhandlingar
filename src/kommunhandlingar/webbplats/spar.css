@@ -1,13 +1,14 @@
-/* Krav: K36 och K37 i docs/02-KRAV.md, ADR-0057 och ADR-0058. Faserna som
-   ikoner på sidorna om spår över tid; resten av stilen är målsidans (mal.css). */
+/* Krav: K36, K37 och K38 i docs/02-KRAV.md, ADR-0057, ADR-0058 och
+   ADR-0059. Faserna som ikoner på sidorna om spår över tid; resten av
+   stilen är målsidans (mal.css). */
 .fas { display: inline-block; line-height: 0; padding: 0.1em; margin: 0 1px;
        color: var(--accent); border: 1px solid transparent; border-radius: 0.3em;
        position: relative; }
 a.fas:hover, a.fas:focus { border-color: currentColor; }
 .fas.tolkad { border: 1px dashed currentColor; }
-.fas.startbeslut, .fas.pagar, .fas.beredning { color: #8a5a00; }
-.fas.utfort, .fas.bifall, .fas.genomfort { color: #1a6b2a; }
+.fas.startbeslut, .fas.pagar, .fas.beredning, .fas.revidering { color: #8a5a00; }
+.fas.utfort, .fas.bifall, .fas.genomfort, .fas.antagen, .fas.avslutad { color: #1a6b2a; }
 .fas.avslag { color: #b00020; }
-.fas.besvarat { color: #555; }
+.fas.besvarat, .fas.yttrande { color: #555; }
 .malkort .remsa li { min-height: 2.9rem; }
 table.tidslinje col.rubrik { width: 18rem; }
