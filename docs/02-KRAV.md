@@ -1174,3 +1174,32 @@ och [Initiativärenden](03-ARKITEKTUR.md#initiativärenden).
   eller något annat som stoppar en lokalbehovsfil
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med filen, raden och felet.
+
+## K38 — Nämndens handlingsplaner steg för steg
+
+Hur och varför står i
+[ADR-0059](decisions/0059-handlingsplanerna-foljs-som-initiativen.md)
+och [Handlingsplaner](03-ARKITEKTUR.md#handlingsplaner).
+
+- **Givet** en kommun med en fil med handlingsplaner, där varje rad är
+  ett steg en handlingsplan i ett organ tar – förslag eller uppdrag,
+  yttrande, själva planen, antagen, uppföljning eller revidering – med år, en text och en sida i ett dokument i poolen som
+  källa
+- **När** webbplatsen byggs
+- **Så** har varje organ med rader en sida om sina handlingsplaner,
+  länkad från organets sida.
+- **Givet** sidan om ett organs handlingsplaner
+- **När** den visas
+- **Så** står varje plan på en rad i en tidslinje med en kolumn per år och
+  på ett kort, som för initiativärendena (K37), med avsändaren när planen
+  kommer ur en motion eller ett initiativ och ingen avsändare annars.
+- **Givet** en plan vars text står i poolen
+- **När** kortet visas
+- **Så** länkar kortet till sidan där planen står.
+- **Givet** ett kort på en sida om spår över tid
+- **När** det visas
+- **Så** står historiken med källorna hopfälld under "Läs mer".
+- **Givet** en fil med handlingsplaner med en okänd fas, en tom plan eller
+  något annat som stoppar en initiativfil
+- **När** webbplatsen byggs
+- **Så** stoppas bygget med filen, raden och felet.
