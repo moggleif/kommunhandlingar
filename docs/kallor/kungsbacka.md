@@ -280,6 +280,34 @@ poolen):
 - **Protokollens** paragrafer om årsredovisningen, delårsrapporten och
   uppföljningen per april står i `uppfoljningar/kungsbacka.csv`.
 
+### Nämndernas lokalbehov
+
+Lokalbehovsfilen (K36,
+[ADR-0057](../decisions/0057-lokalbehoven-foljs-steg-for-steg-ur-alla-organs-dokument.md))
+har hittills bara Gymnasium & Arbetsmarknad, 2023–2026 (kontrollerat
+2026-10-22 i poolen). Stegen står i fyra organs dokument:
+
+- **Nämndens lokalbehov** för de kommande fem åren beslutas i oktober,
+  med behovsbeskrivningarna som bilagor i handlingarna och en
+  prioritering i protokollet, ibland efter ett yrkande. Handlingarna
+  2023 är inte hämtade och protokollen från oktober och november 2023
+  saknas i poolen, så det året syns bara genom senare hänvisningar.
+  Lokalbehov 2028–2032 är ett förslag till mötet 2026-10-22 och står med
+  när protokollet finns i poolen.
+- **Lokalplanen** står i kommunbudgeten som fullmäktige beslutar i juni,
+  med ett löpnummer per projekt (1412–1415 för GA 2026). Samma tabell
+  återges i kommunstyrelsens handlingar.
+- **Startbeslutet** fattar kommunstyrelsen som "Uppstart av projekt i
+  lokalplan".
+- **Det som är på gång och utfört** står i servicenämndens protokoll och
+  bokslut, under servicenämndens egna projektnamn och projektnummer, som
+  inte är lokalplanens löpnummer. Kopplingen till nämndens behov är då en
+  bedömning (`tolkad = ja`). Nämndens delårsrapport och årsredovisning
+  nämner ibland arbete som pågår.
+
+Nämnden får ingen återrapport om förra årets lokalbehov; ett behov som
+inte står med ett år syns som ett spår som tar slut.
+
 ### Dokumentens innehåll
 
 - **Handlingarna är oftast en sammanslagen PDF per möte.** Ärendena

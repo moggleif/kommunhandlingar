@@ -211,11 +211,12 @@ src/kommunhandlingar/
   konvertering/    pdf → md: sidans väg, text, tabeller och kvalitet
   facit/           konverteringen mätt mot facit för ett urval (K20)
   webbplats/       startsidan, statussidorna, organens och dokumentens sidor,
-                   kalendern, målen och avvikelserna
+                   kalendern, målen, lokalbehoven och avvikelserna
 kommuner/<kommun>.toml
 kalender/<kommun>.csv  sammanträdena i kalendern, skrivna för hand (K22)
 mal/<kommun>.csv       nämndernas mål och direktiv, skrivna för hand (K26)
 uppfoljningar/<kommun>.csv  nämndernas uppföljningar av målen i protokollen (K28)
+lokalbehov/<kommun>.csv  nämndernas lokalbehov steg för steg, skrivna för hand (K36)
 hamtning.toml
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>[-<sista sida>]-<nr>.csv
@@ -1359,7 +1360,10 @@ varje push till `main`, för hand och när ett issue med etiketten
   [Kalendern](#kalendern)), och en sida om målen och direktiven för
   varje organ med rader i kommunens målfil
   (`<kommun>/<organ>/mal-och-direktiv.html`,
-  [Mål och direktiv](#mål-och-direktiv)), och en sida med avvikelserna
+  [Mål och direktiv](#mål-och-direktiv)), en sida om lokalbehoven för
+  varje organ med rader i kommunens lokalbehovsfil
+  (`<kommun>/<organ>/lokalbehov.html`, [Lokalbehov](#lokalbehov)),
+  och en sida med avvikelserna
   i källan (`avvikelser.html`, se nedan). Sidmallen,
   menyn och stilen står i `webbplats/mall.py`. Varje sida har samma meny – startsidan, kommunerna
   i bokstavsordning efter id och avvikelserna – och en sidfot som länkar till repot och
@@ -1664,3 +1668,49 @@ målfilen, med en rad per paragraf i ett protokoll:
   tabellens år, från första till sista år med mål. Ett år utan protokoll
   med text från organet i poolen (inte `ej-hamtad` eller
   `ej-konverterad`) står som –.
+
+## Lokalbehov
+
+Hur och varför står i
+[ADR-0057](decisions/0057-lokalbehoven-foljs-steg-for-steg-ur-alla-organs-dokument.md).
+En kommun med en fil `lokalbehov/<kommun>.csv` får en sida
+`<kommun>/<organ>/lokalbehov.html` för varje organ med rader i filen
+(K36), länkad från organets sida bredvid målsidan.
+
+- **Filen** har samma format som målfilen: CSV med radslut LF, UTF-8 utan
+  BOM och rubrikerna på första raden. En rad per steg och källa, i
+  behovens och årens ordning:
+
+  | Kolumn   | Betyder                                                         |
+  | -------- | --------------------------------------------------------------- |
+  | `organ`  | Organet som äger behovet, med id ur kommunfilen.                |
+  | `behov`  | Behovets namn på sidan, detsamma i alla steg.                   |
+  | `ar`     | Året beslutet eller rapporten kom: för en budget beslutsåret, inte budgetåret. |
+  | `fas`    | `lokalbehov`, `prioritet`, `lokalplan`, `startbeslut`, `pagar` eller `utfort`. |
+  | `varde`  | Prioriteten (en siffra eller källans ord, krävs), lokalplanens löpnummer (krävs), eller tomt eller ett kort värde. Står på källans sidor. |
+  | `text`   | Källans ord, ordagrant, som visar steget.                       |
+  | `kalla`  | Sidan i poolen, `<organ>/<år>/<datum>/<namn>.md#sida-N` eller `#sida-N-M`, ur vilket organs dokument som helst. |
+  | `tolkad` | Tomt, eller `ja` när kopplingen till behovet är agentens bedömning. |
+
+- **Källorna** läses av AI-agenten. Nämndens lokalbehov och prioriteringar
+  står i nämndens protokoll och handlingar, lokalplanen i
+  kommunfullmäktiges budget, startbeslutet i kommunstyrelsens protokoll och
+  att något är på gång eller utfört i nämndens egna rapporter eller
+  servicenämndens redovisning. Var de finns i en kommun står i
+  `docs/kallor/<kommun>.md`.
+- **Kontrollen** (`webbplats/lokalbehov.py`) stoppar bygget med raden
+  enligt K36. Texten och värdet prövas mot källans sidor som målfilens
+  (`mal.provbar`), med källans organ i stället för behovets.
+- **Ett förslag är inget beslut.** Nämndens lokalbehov och prioriteringar
+  tas ur protokollet, eller ur handlingarna när protokollet visar att
+  förslaget bifölls, som för målen (ADR-0045). Ett förslag inför ett möte
+  vars protokoll inte finns i poolen står inte med.
+- **Sidan** (`webbplats/lokalbehovsida.py`, `lokalbehovkort.py`,
+  `fasikon.py`) följer målsidan: en hopfälld del om metoden, antalet behov
+  som nått varje fas, ett urval, en tidslinje med en rad per behov och en
+  kolumn per år, med mandatperioderna ovanför, och ett kort per behov med
+  remsa och historik. Varje fas har en egen form; en prioritet bär sin
+  siffra eller första bokstaven i källans ord. Stilen är `mal.css` och
+  `lokalbehov.css`, och skriptet är målsidans `mal.js`, som läser
+  `data-slag` (faserna behovet nått) och `data-aktiv` (i nämndens senaste
+  lokalbehov).
