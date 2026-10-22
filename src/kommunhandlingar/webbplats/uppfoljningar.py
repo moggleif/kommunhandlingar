@@ -13,7 +13,7 @@ from pathlib import Path
 
 from kommunhandlingar.fel import Datafel
 from kommunhandlingar.konfiguration import Kommun
-from kommunhandlingar.webbplats.mal import Sidtext, jamforbar, sidlasare
+from kommunhandlingar.webbplats.mal import Sidtext, sidlasare, star_pa
 
 KOLUMNER = ["organ", "datum", "paragraf", "slag", "rubrik", "kalla"]
 SLAG = ("uppföljning", "dragning")
@@ -75,5 +75,5 @@ def tolka(rad: list[str], organ: set[str], sidtext: Sidtext) -> Uppfoljning:
 def kontrollera_kalla(upp: Uppfoljning, sidtext: Sidtext) -> None:
     if not upp.kalla.startswith(f"{upp.organ}/{upp.ar}/{upp.datum}/protokoll"):
         raise ValueError(f"källan {upp.kalla!r} är inte mötets protokoll")
-    if jamforbar(upp.rubrik) not in sidtext(upp.kalla, upp.organ):
+    if not star_pa(upp.rubrik, sidtext(upp.kalla, upp.organ)):
         raise ValueError(f"rubriken står inte på {upp.kalla}")

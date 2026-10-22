@@ -17,8 +17,8 @@ from tests.test_webbplats import REPO, TID, exempelby, protokoll
 # Trygga miljöer 2022 och 2025 byter rubrik till Läsfrämjande 2026; direktivet
 # Läsfrämjande står 2024 och 2025.
 GRUPPER = RADER + (
-    f"fsn,2026,nämndmål,Läsfrämjande,,,,,{BUDGET}#sida-2,Trygga miljöer,ja\n"
-    f"fsn,2022,nämndmål,Trygga miljöer,,,,,{BUDGET}#sida-1-2,,\n"
+    f"fsn,2026,nämndmål,Läsfrämjande,,,,,{BUDGET}#sida-2,Trygga miljöer,ja,\n"
+    f"fsn,2022,nämndmål,Trygga miljöer,,,,,{BUDGET}#sida-1-2,,,\n"
 )
 UPPFOLJDA = [
     Uppfoljning("fsn", "2024-05-02", "5", "uppföljning", "Trygga miljöer", BUDGET),
@@ -128,14 +128,14 @@ class TestTidslinjen(unittest.TestCase):
 
     def test_dokument_fran_ar_fore_malen(self):
         self.assertIn(
-            "Poolen har dokument från organet sedan 2020, men inga av nämndens mål "
+            "Poolen har dokument från organet sedan 2020, men inga av organets mål "
             "före 2022.",
             sida((2020, 2024)),
         )
         self.assertNotIn("Poolen har dokument", sida())
 
     def test_spar_med_bada_slagen(self):
-        rader = GRUPPER + f"fsn,2027,direktiv,Trygga miljöer,,,,,{BUDGET}#sida-1,,\n"
+        rader = GRUPPER + f"fsn,2027,direktiv,Trygga miljöer,,,,,{BUDGET}#sida-1,,,\n"
         with pool(rader) as malen:
             html = malsida(
                 Mall([exempelby()], REPO, TID), exempelby(), malen, protokoll(2022)
@@ -196,7 +196,7 @@ class TestKorten(unittest.TestCase):
                 Mall([exempelby()], REPO, TID), exempelby(), malen, protokoll(2024)
             )
         self.assertNotIn('data-urval="direktiv"', bara)
-        self.assertIn('kort.querySelector("details").open = true', html)
+        self.assertIn('kort.querySelector(":scope > details").open = true', html)
 
 
 class TestSammandraget(unittest.TestCase):

@@ -19,27 +19,27 @@ class TestGrupper(unittest.TestCase):
         return str(fel.exception)
 
     def test_grupp_och_tolkad_lases(self):
-        rad = f"fsn,2023,nämndmål,Läsfrämjande,,,,,{BUDGET}#sida-2,Trygga miljöer,ja\n"
+        rad = f"fsn,2023,nämndmål,Läsfrämjande,,,,,{BUDGET}#sida-2,Trygga miljöer,ja,\n"
         with pool(RADER + rad) as malen:
             self.assertEqual(malen[3].spar, malen[0].spar)
             self.assertNotEqual(malen[3].spar, malen[1].spar)
 
     def test_grupp_som_inte_ar_en_rubrik(self):
-        rad = f"fsn,2023,nämndmål,Läsfrämjande,,,,,{BUDGET}#sida-2,Trygga,\n"
+        rad = f"fsn,2023,nämndmål,Läsfrämjande,,,,,{BUDGET}#sida-2,Trygga,,\n"
         self.assertIn("'Trygga' är ingen rubrik", self.stoppas(RADER + rad))
 
     def test_tolkad_utan_grupp_eller_med_annat_varde(self):
-        rad = f"fsn,2023,nämndmål,Läsfrämjande,,,,,{BUDGET}#sida-2,,ja\n"
+        rad = f"fsn,2023,nämndmål,Läsfrämjande,,,,,{BUDGET}#sida-2,,ja,\n"
         self.assertIn("tolkad", self.stoppas(RADER + rad))
         rad = rad.replace(",,ja", ",Trygga miljöer,nej")
         self.assertIn("'nej'", self.stoppas(RADER + rad))
 
     def test_samma_rubrik_med_tva_grupper(self):
-        rad = f"fsn,2023,direktiv,Läsfrämjande,,,,,{BUDGET}#sida-1-2,Trygga miljöer,\n"
+        rad = f"fsn,2023,direktiv,Läsfrämjande,,,,,{BUDGET}#sida-1-2,Trygga miljöer,,\n"
         self.assertIn("rad 5: rubriken har en annan grupp", self.stoppas(RADER + rad))
 
     def test_uppfoljning_och_bedomning(self):
-        rad = f"fsn,2024,direktiv,Läsfrämjande,,{{}},{BUDGET}#sida-2,,\n"
+        rad = f"fsn,2024,direktiv,Läsfrämjande,,{{}},{BUDGET}#sida-2,,,\n"
         for falt, fel in [
             ("Status,,", "statusen 'Status'"),
             (",,delvis", "bedömningen 'delvis'"),
@@ -50,7 +50,7 @@ class TestGrupper(unittest.TestCase):
             self.assertIn(fel, self.stoppas(rad.format(falt)))
 
     def test_tva_rubriker_i_samma_spar_samma_ar(self):
-        rad = f"fsn,2025,direktiv,Läsfrämjande,,,,,{BUDGET}#sida-2,Trygga miljöer,ja\n"
+        rad = f"fsn,2025,direktiv,Läsfrämjande,,,,,{BUDGET}#sida-2,Trygga miljöer,ja,\n"
         self.assertIn(
             "två rubriker i samma spår",
             self.stoppas(RADER.split("\n", 2)[0] + "\n" + rad),
@@ -58,16 +58,16 @@ class TestGrupper(unittest.TestCase):
 
     def test_grupp_som_sjalv_star_i_en_grupp(self):
         rader = (
-            f"fsn,2025,nämndmål,Trygga miljöer,,,,,{BUDGET}#sida-1,Läsfrämjande,\n"
-            f"fsn,2024,direktiv,Läsfrämjande,,,,,{BUDGET}#sida-2,Status,\n"
-            f"fsn,2023,direktiv,Status,,,,,{BUDGET}#sida-2,,\n"
+            f"fsn,2025,nämndmål,Trygga miljöer,,,,,{BUDGET}#sida-1,Läsfrämjande,,\n"
+            f"fsn,2024,direktiv,Läsfrämjande,,,,,{BUDGET}#sida-2,Status,,\n"
+            f"fsn,2023,direktiv,Status,,,,,{BUDGET}#sida-2,,,\n"
         )
         self.assertIn("'Läsfrämjande' är ingen rubrik", self.stoppas(rader))
-        rad = f"fsn,2025,nämndmål,Trygga miljöer,,,,,{BUDGET}#sida-1,Trygga miljöer,\n"
+        rad = f"fsn,2025,nämndmål,Trygga miljöer,,,,,{BUDGET}#sida-1,Trygga miljöer,,\n"
         self.assertIn("'Trygga miljöer' är ingen rubrik", self.stoppas(rad))
 
     def test_protokollet_gar_fore_handlingarna(self):
-        rad = f"fsn,2025,nämndmål,Trygga miljöer,,,,,{HANDLINGAR}#sida-1,,\n"
+        rad = f"fsn,2025,nämndmål,Trygga miljöer,,,,,{HANDLINGAR}#sida-1,,,\n"
         self.assertIn("bara protokollets rad", self.stoppas(RADER + rad))
         rad = rad.replace("2025", "2026")
         with pool(RADER + rad) as malen:
@@ -76,8 +76,8 @@ class TestGrupper(unittest.TestCase):
 
 class TestGruppsidan(unittest.TestCase):
     RADER = RADER + (
-        f"fsn,2026,nämndmål,Läsfrämjande,,,,,{BUDGET}#sida-2,Trygga miljöer,ja\n"
-        f"fsn,2022,nämndmål,Trygga miljöer,,,,,{BUDGET}#sida-1-2,,\n"
+        f"fsn,2026,nämndmål,Läsfrämjande,,,,,{BUDGET}#sida-2,Trygga miljöer,ja,\n"
+        f"fsn,2022,nämndmål,Trygga miljöer,,,,,{BUDGET}#sida-1-2,,,\n"
     )
 
     def sida(self) -> str:
