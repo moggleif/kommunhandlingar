@@ -5,19 +5,19 @@ datum: 2025-12-10
 lopnr: null
 typ: protokoll
 namn: null
-kallnyckel: sitevision:18.5b6668f719be3cbb90a1091e
-tidigare_kallnycklar: []
+kallnyckel: sitevision:18.33df50461a157e1b9001d6b
+tidigare_kallnycklar: [sitevision:18.5b6668f719be3cbb90a1091e]
 arenden: null
-kalla_url: https://kungsbacka.se/download/18.5b6668f719be3cbb90a1091e/1769091364185/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202025-12-10,%20%C2%A7%C2%A7%20159-184.pdf
-sha256: 8b26a46b7ca040c48c12484fa8bb0fa26a5fa417e0e0ae0ff9acfd5d03e6d7e8
-bytes: 501327
-sidor: 39
-hamtad: 2026-10-14T09:59:46+00:00
-konverterad: 2026-10-14T09:59:53+00:00
+kalla_url: https://kungsbacka.se/download/18.33df50461a157e1b9001d6b/1792480862527/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202025-12-10,%20%C2%A7%C2%A7%20159-184.pdf
+sha256: c1ad35e314be7c599005b2c12f0a819892691ff67e8cd5c8650a48eb7049f272
+bytes: 434082
+sidor: 37
+hamtad: 2026-10-22T06:14:24+00:00
+konverterad: 2026-10-22T06:14:33+00:00
 pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
@@ -554,12 +554,22 @@ om vård av unga, LVU, samt 8 kap. 7 § lagen om placering av barn i skyddat boe
 inom Nämnden för Individ & Familjeomsorgs ansvarsområde under tidsperioden
 
 2026-01-01 till och med 2026-12-31:
+Enhetschef Lotta Lavebäck
 
-Detta beslut ersätter Nämnden för Individ & Familjeomsorgs beslut § 163
-2024-12-13.
+Förste socialsekreterarna Annika Bengtsson, Anna Bergman, Simone Skovbye, Anki
+Sun, Annika Winberg, Jasmina Kaseba, Jeanette Lindgren och Monica Ohlsson
+Socialsekreterarna Alexandra Talavanic, Annelie Jakobsson, Anneli Ulfson, Carl
+Davidsson, Cassandra Hansson, Claes Nilsson, Emma Nord, Emma Stranne, Henrik
+Nilsson, Jacob Johanen, Johan Bergqvist, Josefine Öberg, Karin Eriksson, Kia
+Wingård, Malena Sköld, Malin Bryngelhed Marie Carlsson, Martin Karlsson, Mikael
+
+Andersson, Minna Holmelind, Nadia Antoine Janebring, Nahid (Zahra Fathinezhad)
+Fard, Pia Björklund, Petra Godhe, Sara Wallin, Sofia Behrnadsson, Sofia Cedegren,
+Sofia Wilde, Sofie Ask, Ann-Sofie Fyrberg och Angelica Svan
+Detta beslut ersätter Nämnden för Individ & Familjeomsorgs beslut § 163 2024-12-
+13\.
 
 Sammanfattning av ärendet
-
 Kommunal samverkan enligt 9 kap. 37 § kommunallag (2017:735) gör det möjligt
 för en kommun att uppdra åt en anställd i den samverkande kommunen att besluta på
 kommunens vägnar i en viss grupp av ärenden.
@@ -569,9 +579,9 @@ om placering av barn i skyddat boende kan inte delegeras. Däremot kan särskild
 tjänstepersoner förordnas av nämnden att fatta sådana beslut. Delegation att fatta
 beslut innebär att ett beslut fattas av innehavaren av viss befattning medan
 förordnande att fatta ett beslut är personligt.
+
 Kungsbacka kommun och Göteborgs Stad, Socialförvaltningen Centrum, har ingått
 samverkansavtal avseende socialjour. Socialjouren vid Socialförvaltningen Centrum
-
 åtar sig därmed att för Kungsbacka kommuns räkning tillhandahålla socialtjänstjour
 med stöd av bland annat LVU samt lagen om placering av barn i skyddat boende
 under den jourtid som framgår av avtalet. Det finns därför ett behov av att ge
@@ -1476,81 +1486,6 @@ Transaktionsidentitet: 8DBFA2E02AC791F4B63D2242255A167E5286C133ED
 
 <!-- sida 33 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          33 (37)
-Nämnden för Individ & Familjeomsorg
-Datum
-2025-12-10
-
-§ 181                      Dnr IF-2024-00012
-Redovisning av domar och beslut
-
-Beslut
-
-Nämnden för Individ & Familjeomsorg noterar redovisningen av inkomna domar och
-beslut till protokollet.
-
-Sammanfattning av ärendet
-Redovisning för perioden 2025-11-01 – 2025-11-30.
-
-Kammarrätten i Göteborg, KR
-
-Dom meddelad i mål nr. 5450-25, daterad 2025-11-04, saken; den enskilde har
-överklagat förvaltningsrättens dom gällande beredande av vård av unga.
-Kammarrätten avslår överklagandet.
-Beslut meddelat i mål nr. 5996-25, daterad 2025-11-14, saken; den enskilde har
-överklagat förvaltningsrättens beslut gällande avvisat, offentligt biträde; fråga om
-
-prövningstillstånd m.m. Kammarrätten avvisar yrkandet om verkställighet av
-utbetalning samt avslår yrkandet om offentligt biträde. Kammarrätten meddelar inte
-prövningstillstånd i målet i övrigt. Förvaltningsrättens avgörande står därför fast.
-
-Förvaltningsrätten i Göteborg, FR
-Dom meddelad i mål nr. 10458-25, daterad 2025-11-04, saken; den enskilde har
-
-överklagat nämndens beslut gällande åtgärd enligt 6 kap. 13 a § föräldrabalken, FB.
-Förvaltningsrätten avslår överklagandet.
-Beslut meddelat i mål nr. 11878-25, daterad 2025-11-11, saken; den enskilde har
-överklagat nämndens beslut gällande daglig verksamhet enligt lagen (1993:387) om
-stöd och service till vissa funktionshindrade, LSS. Förvaltningsrätten avvisar
-överklagandet.
-
-Dom meddelad i mål nr. 10013-25, daterad 2025-11-13, saken; den enskilde har
-överklagat nämndens beslut gällande daglig verksamhet enligt lagen (1993:387) om
-stöd och service till vissa funktionshindrade, LSS. Förvaltningsrätten avslår
-överklagandet.
-
-Kommunfullmäktige, KF
-
-KF 2025-11-04, § 218 Delårsrapport 2025 för Kungsbacka kommun
-KF 2025-11-04, § 220 Rapport från nämnden för Individ & Familjeomsorg av ej
-verkställda beslut enligt socialtjänstlagen (SoL) och lagen om stöd och service till
-
-vissa funktionshindrade (LSS) andra kvartalet 2025
-
-Det här dokumentet är digitalt signerat
-Transaktionsidentitet: B158C2CD041280786F8161E79236FE65AE1AA801E6
-Transaktionsidentitet: 8DBFA2E02AC791F4B63D2242255A167E5286C133ED
-
-<!-- sida 34 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          34 (37)
-Nämnden för Individ & Familjeomsorg
-Datum
-2025-12-10
-
-Beslutsunderlag
-Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2025-11-26
-
-Beslutsgång
-Ordförande Tommy Rydfeldt (L) prövar om nämnden kan notera redovisningen av
-inkomna domar och beslut till protokollet, och finner att nämnden bifaller det.
-
-Det här dokumentet är digitalt signerat
-Transaktionsidentitet: B158C2CD041280786F8161E79236FE65AE1AA801E6
-Transaktionsidentitet: 8DBFA2E02AC791F4B63D2242255A167E5286C133ED
-
-<!-- sida 35 -->
-
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          35 (37)
 Nämnden för Individ & Familjeomsorg
 Datum
@@ -1597,7 +1532,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: B158C2CD041280786F8161E79236FE65AE1AA801E6
 Transaktionsidentitet: 8DBFA2E02AC791F4B63D2242255A167E5286C133ED
 
-<!-- sida 36 -->
+<!-- sida 34 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          36 (37)
 Nämnden för Individ & Familjeomsorg
@@ -1614,7 +1549,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: B158C2CD041280786F8161E79236FE65AE1AA801E6
 Transaktionsidentitet: 8DBFA2E02AC791F4B63D2242255A167E5286C133ED
 
-<!-- sida 37 -->
+<!-- sida 35 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          37 (37)
 Nämnden för Individ & Familjeomsorg
@@ -1654,7 +1589,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: B158C2CD041280786F8161E79236FE65AE1AA801E6
 Transaktionsidentitet: 8DBFA2E02AC791F4B63D2242255A167E5286C133ED
 
-<!-- sida 38 -->
+<!-- sida 36 -->
 
 Undertecknat    av följande personer
 
@@ -1670,7 +1605,7 @@ Underskriftstjänst:     twoday Underskriftstjänst
 
 © twoday
 
-<!-- sida 39 -->
+<!-- sida 37 -->
 
 Dokumentet   är signerat av Ciceron DoÄ
 

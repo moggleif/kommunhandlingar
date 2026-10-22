@@ -5,19 +5,19 @@ datum: 2026-02-19
 lopnr: null
 typ: protokoll
 namn: null
-kallnyckel: sitevision:18.420f32a619c71138a003f9dc
-tidigare_kallnycklar: []
+kallnyckel: sitevision:18.33df50461a157e1b9001882
+tidigare_kallnycklar: [sitevision:18.420f32a619c71138a003f9dc]
 arenden: null
-kalla_url: https://kungsbacka.se/download/18.420f32a619c71138a003f9dc/1771601782628/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202026-02-19,%20%C2%A7%C2%A7%201-11,%2014-22.pdf
-sha256: 4989c52603f3e80406d8e08f9bdab39357b702833431181abfd2587878e8c41c
-bytes: 437380
-sidor: 43
-hamtad: 2026-10-14T09:59:53+00:00
-konverterad: 2026-10-14T10:00:01+00:00
+kalla_url: https://kungsbacka.se/download/18.33df50461a157e1b9001882/1792480030358/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202026-02-19,%20%C2%A7%C2%A7%201-11,%2014-22.pdf
+sha256: 0b3a2493fcde8a60d5cf0341db7684bf86f41cde4814c8e4887a14ffbb39210a
+bytes: 399741
+sidor: 40
+hamtad: 2026-10-22T06:14:33+00:00
+konverterad: 2026-10-22T06:14:39+00:00
 pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
@@ -1255,153 +1255,6 @@ Transaktionsidentitet: 6EB1429C6D5C25AB43D66B925CBD99C1DB37A0F63A
 
 <!-- sida 30 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          30 (41)
-Nämnden för Individ & Familjeomsorg
-Datum
-2026-02-19
-
-§ 20                       Dnr IF-2024-00012
-Redovisning av domar och beslut
-
-Beslut
-
-Nämnden för Individ & Familjeomsorg noterar redovisningen av inkomna domar och
-beslut till protokollet.
-
-Sammanfattning av ärendet
-Redovisning för perioden 2025-12-01 – 2026-01-31.
-
-Högsta Förvaltningsdomstolen
-Beslut meddelat i mål nr. 7029-25, daterad 2026-01-23, saken; den enskilde har
-överklagat Kammarrätten i Göteborgs beslut gällande avvisad talan; fråga om
-prövningstillstånd. Högsta förvaltningsdomstolen avslår yrkandet om förordnande av
-offentligt biträde. Högsta förvaltningsdomstolen meddelar inte prövningstillstånd.
-Kammarrättens avgörande står därmed fast.
-
-Kammarrätten i Göteborg, KR
-
-Beslut meddelat i mål nr. 7924-25, daterad 2026-01-28, saken; den enskilde har
-överklagat förvaltningsrättens beslut gällande bistånd; fråga om prövningstillstånd.
-Kammarrätten meddelar inte prövningstillstånd. Förvaltningsrättens avgörande står
-därför fast.
-Förvaltningsrätten i Göteborg, FR
-
-Beslut meddelat i mål nr. 8283-25, daterad 2025-12-03, saken; den enskilde har
-överklagat nämndens beslut gällande personlig assistans enligt lagen (1993:387) om
-stöd och service till vissa funktionshindrade, LSS. Förvaltningsrätten upphäver det
-överklagade beslutet och visar målet åter till nämnden för fortsatt handläggning.
-
-Beslut meddelat i mål nr. 12421-25, daterad 2025-12-08, saken; den enskilde har
-överklagat nämndens beslut gällande personlig assistans enligt lagen (1993:387) om
-stöd och service till vissa funktionshindrade, LSS. Förvaltningsrätten beslutar att den
-enskilde har rätt till insatsen personlig assistans. Beslutet gäller till dess
-förvaltningsrätten avgör målet slutligt eller förordnar på annat sätt.
-Dom meddelad i mål nr. 6695-25, daterad 2025-12-17, saken; den enskilde har
-
-överklagat nämndens beslut gällande personlig assistans enligt lagen (1993:387) om
-stöd och service till vissa funktionshindrade, LSS. Förvaltningsrätten avslår
-överklagandet.
-Dom meddelad i mål nr. 9400-25, daterad 2025-12-17, saken; den enskilde har
-överklagat nämndens beslut gällande ledsagarservice enligt lagen (1993:387) om
-stöd och service till vissa funktionshindrade, LSS. Förvaltningsrätten avslår
-överklagandet.
-
-Det här dokumentet är digitalt signerat
-Transaktionsidentitet: 9432EA30623FF754605D21AFF15CCBEC66E0A8D01E
-Transaktionsidentitet: 6EB1429C6D5C25AB43D66B925CBD99C1DB37A0F63A
-
-<!-- sida 31 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          31 (41)
-Nämnden för Individ & Familjeomsorg
-Datum
-2026-02-19
-
-Dom meddelad i mål nr. 9398-25, daterad 2025-12-17, saken; den enskilde har
-överklagat nämndens beslut gällande korttidsvistelse enligt lagen (1993:387) om stöd
-och service till vissa funktionshindrade, LSS. Förvaltningsrätten avslår
-överklagandet.
-Dom meddelad i mål nr. 9205-25, daterad 2026-01-22, saken; den enskilde har
-
-överklagat nämndens beslut gällande personkrets enligt lagen (1993:387) om stöd
-och service till vissa funktionshindrade, LSS. Förvaltningsrätten bifaller
-överklagandet och målet visas åter till nämnden för Individ & Familjeomsorg i
-Kungsbacka kommun för fortsatt handläggning.
-Dom meddelad i mål nr. 10135-25, daterad 2026-01-27, saken; den enskilde har
-överklagat nämndens beslut gällande korttidsvistelse enligt lagen (1993:387) om stöd
-och service till vissa funktionshindrade, LSS. Förvaltningsrätten avslår
-
-överklagandet.
-Dom meddelad i mål nr. 10901-25, daterad 2026-01-20, saken; den enskilde har
-överklagat nämndens beslut gällande avlösarservice enligt lagen (1993:387) om stöd
-och service till vissa funktionshindrade, LSS. Förvaltningsrätten avslår
-överklagandet.
-
-Beslut meddelat i mål nr. 11855-25, daterad 2026-01-26, saken; den enskilde har
-överklagat nämndens beslut gällande avlösarservice enligt lagen (1993:387) om stöd
-och service till vissa funktionshindrade, LSS. Förvaltningsrätten skriver av målet.
-
-Dom meddelad i mål nr. 10405-25, daterad 2026-01-23, saken; Inspektionen för vård
-och omsorg har ansökt om särskild avgift enligt socialtjänstlagen (2025:400).
-Förvaltningsrätten avslår ansökan.
-Inspektionen för vård och omsorg, IVO
-
-Dnr IF- IF-2025-00250. Inspektionen för vård och omsorg, dnr 3.5.1-29980/2024-16,
-avslutar ärendet gällande tillsyn av rättssäkerheten i kommunernas
-myndighetsutövning för barn och unga. IVO bedömer att kommunen i sin
-återredovisning samt begärd komplettering redogjort för åtgärder som ger
-förutsättningar för att komma till rätta med de brister som IVO har påtalat.
-
-Kommunfullmäktige, KF
-KF 2025-12-11 § 238 Redovisning av icke färdigberedda motioner (2, 2025)
-
-KF 2025-12-11 § 240 Koncernbudget 2026
-Kommunstyrelsen, KS
-
-KS 2025-11-25 § 226 Lönestruktur 2026
-KS 2025-11-25 § 225 Revidering av regler för fakturering och kravhantering
-
-KS 2025-11-25 § 228 Initiativ från Maria Losman (MP) om svar på förfrågan från
-nationella samordnaren för arbetet med frivillig återvandring
-KS 2025-12-16 § 260 Begäran om medel för att främja välmående och motverka
-
-psykisk ohälsa – Individ & Familjeomsorg
-Det här dokumentet är digitalt signerat
-Transaktionsidentitet: 9432EA30623FF754605D21AFF15CCBEC66E0A8D01E
-Transaktionsidentitet: 6EB1429C6D5C25AB43D66B925CBD99C1DB37A0F63A
-
-<!-- sida 32 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          32 (41)
-Nämnden för Individ & Familjeomsorg
-Datum
-2026-02-19
-
-KS 2025-12-16 § 261 Godkännande av anvisningar för fördelning av medel för
-Trygg uppväxt
-KS 2025-12-16 § 262 Undertecknande av handlingar och beslut för stiftelser
-
-KS 2025-12-16 § 267 Uppstart av projekt i lokalplan Boende med särskild service
-(BmSS)
-
-Nämnden för Teknik, TE
-NT 2025-12-17 § 139 Tillämpningsregler för särskild kollektivtrafik, färdtjänst 2026
-
-Beslutsunderlag
-
-Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2026-01-29
-
-Beslutsgång
-
-Ordförande Tommy Rydfeldt (L) prövar om nämnden kan notera redovisningen av
-inkomna domar och beslut till protokollet, och finner att nämnden bifaller det.
-
-Det här dokumentet är digitalt signerat
-Transaktionsidentitet: 9432EA30623FF754605D21AFF15CCBEC66E0A8D01E
-Transaktionsidentitet: 6EB1429C6D5C25AB43D66B925CBD99C1DB37A0F63A
-
-<!-- sida 33 -->
-
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          33 (41)
 Nämnden för Individ & Familjeomsorg
 Datum
@@ -1450,7 +1303,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 9432EA30623FF754605D21AFF15CCBEC66E0A8D01E
 Transaktionsidentitet: 6EB1429C6D5C25AB43D66B925CBD99C1DB37A0F63A
 
-<!-- sida 34 -->
+<!-- sida 31 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          34 (41)
 Nämnden för Individ & Familjeomsorg
@@ -1485,7 +1338,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 9432EA30623FF754605D21AFF15CCBEC66E0A8D01E
 Transaktionsidentitet: 6EB1429C6D5C25AB43D66B925CBD99C1DB37A0F63A
 
-<!-- sida 35 -->
+<!-- sida 32 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          35 (41)
 Nämnden för Individ & Familjeomsorg
@@ -1504,7 +1357,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 9432EA30623FF754605D21AFF15CCBEC66E0A8D01E
 Transaktionsidentitet: 6EB1429C6D5C25AB43D66B925CBD99C1DB37A0F63A
 
-<!-- sida 36 -->
+<!-- sida 33 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          36 (41)
 Nämnden för Individ & Familjeomsorg
@@ -1523,7 +1376,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 9432EA30623FF754605D21AFF15CCBEC66E0A8D01E
 Transaktionsidentitet: 6EB1429C6D5C25AB43D66B925CBD99C1DB37A0F63A
 
-<!-- sida 37 -->
+<!-- sida 34 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          37 (41)
 Nämnden för Individ & Familjeomsorg
@@ -1543,7 +1396,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 9432EA30623FF754605D21AFF15CCBEC66E0A8D01E
 Transaktionsidentitet: 6EB1429C6D5C25AB43D66B925CBD99C1DB37A0F63A
 
-<!-- sida 38 -->
+<!-- sida 35 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          38 (41)
 Nämnden för Individ & Familjeomsorg
@@ -1563,7 +1416,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 9432EA30623FF754605D21AFF15CCBEC66E0A8D01E
 Transaktionsidentitet: 6EB1429C6D5C25AB43D66B925CBD99C1DB37A0F63A
 
-<!-- sida 39 -->
+<!-- sida 36 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          39 (41)
 Nämnden för Individ & Familjeomsorg
@@ -1583,7 +1436,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 9432EA30623FF754605D21AFF15CCBEC66E0A8D01E
 Transaktionsidentitet: 6EB1429C6D5C25AB43D66B925CBD99C1DB37A0F63A
 
-<!-- sida 40 -->
+<!-- sida 37 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          40 (41)
 Nämnden för Individ & Familjeomsorg
@@ -1602,7 +1455,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 9432EA30623FF754605D21AFF15CCBEC66E0A8D01E
 Transaktionsidentitet: 6EB1429C6D5C25AB43D66B925CBD99C1DB37A0F63A
 
-<!-- sida 41 -->
+<!-- sida 38 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          41 (41)
 Nämnden för Individ & Familjeomsorg
@@ -1621,7 +1474,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 9432EA30623FF754605D21AFF15CCBEC66E0A8D01E
 Transaktionsidentitet: 6EB1429C6D5C25AB43D66B925CBD99C1DB37A0F63A
 
-<!-- sida 42 -->
+<!-- sida 39 -->
 
 Undertecknat    av följande personer
 
@@ -1637,7 +1490,7 @@ Underskriftstjänst:    twoday Underskriftstjänst
 
 © twoday
 
-<!-- sida 43 -->
+<!-- sida 40 -->
 
 Dokumentet   är signerat av Ciceron DoÄ
 

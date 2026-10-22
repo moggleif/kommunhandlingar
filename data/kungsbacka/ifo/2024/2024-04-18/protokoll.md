@@ -5,19 +5,19 @@ datum: 2024-04-18
 lopnr: null
 typ: protokoll
 namn: null
-kallnyckel: sitevision:18.2b49f86518ecb777ac81ed6b
-tidigare_kallnycklar: []
+kallnyckel: sitevision:18.33df50461a157e1b9002328
+tidigare_kallnycklar: [sitevision:18.2b49f86518ecb777ac81ed6b]
 arenden: null
-kalla_url: https://kungsbacka.se/download/18.2b49f86518ecb777ac81ed6b/1713790863252/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202024-04-18,%20%C2%A7%C2%A7%2044-59.pdf
-sha256: 127336d0b0591bbba36e660b93880f33ed4efa820dcc7373308722722fdf3b10
-bytes: 218795
-sidor: 25
-hamtad: 2026-10-14T09:57:20+00:00
-konverterad: 2026-10-14T09:57:27+00:00
+kalla_url: https://kungsbacka.se/download/18.33df50461a157e1b9002328/1792481861977/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202024-04-18,%20%C2%A7%C2%A7%2044-59.pdf
+sha256: 7746cbeff0d83ed1dab0c870125f9b096e7a55d2dfff36a1851e27991ec22f85
+bytes: 212115
+sidor: 23
+hamtad: 2026-10-22T06:12:36+00:00
+konverterad: 2026-10-22T06:12:42+00:00
 pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
@@ -841,110 +841,6 @@ Expedierat/bestyrkt
 
 <!-- sida 22 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          22 (25)
-Nämnden för Individ & Familjeomsorg
-Datum
-2024-04-18
-
-§57                        Dnr IF-2024-00012
-Redovisning av domar och beslut
-
-Beslut
-
-Nämnden för Individ & Familjeomsorg noterar redovisningen av inkomna domar och
-beslut till protokollet.
-
-Sammanfattning av ärendet
-Redovisning för perioden 2024-03-01 – 2024-03-31.
-
-Kammarrätten i Göteborg, KR
-Beslut meddelat i mål nr. 546-24, daterad 2024-03-05, saken; individen har
-överklagat förvaltningsrättens dom gällande personlig assistans, interimistiskt
-yrkande; fråga om prövningstillstånd. Kammarrätten meddelar inte
-prövningstillstånd. Förvaltningsrättens avgörande står därmed fast.
-
-Beslut meddelat i mål nr. 7712-23, daterad 2024-03-26, saken; individen har
-överklagat nämndens beslut gällande rätt att ta del av allmän handling.
-Kammarrätten upphäver det överklagande beslutet och visar målet åter till nämnden
-för ny prövning.
-
-Förvaltningsrätten i Göteborg, FR
-Dom meddelad i mål nr. 1370-24, daterad 2024-03-06, saken; individen har
-överklagat nämndens beslut gällande kontaktperson enligt lagen (1993:387) om stöd
-
-och service till vissa funktionshindrade, LSS. Förvaltningsrätten avslår individens
-överklagande.
-Dom meddelad i mål nr. 662-24, daterad 2024-03-12, saken; individen har
-överklagat nämndens beslut gällande personlig assistans enligt lagen (1993:387) om
-stöd och service till vissa funktionshindrade, LSS. Förvaltningsrätten ändrar det
-överklagade beslutet på så sätt att individen har rätt till ytterligare personlig assistans.
-
-Dom meddelad i mål nr. 1137-24, daterad 2024-03-12, saken; individen har
-överklagat nämndens beslut gällande särskilt boende enligt lagen (1993:387) om stöd
-och service till vissa funktionshindrade, LSS. Förvaltningsrätten avslår individens
-överklagande.
-
-Integritetsskyddsmyndigheten, IMY
-Dnr IF-2023-00367. Integritetsskyddsmyndigheten, dnr IMY-2023-16706, vidtar för
-närvarande inga åtgärder med anledning av anmälan.
-
-Dnr IF-2023-00349. Integritetsskyddsmyndigheten, dnr IMY-2023-16383, vidtar för
-närvarande inga åtgärder med anledning av anmälan.
-
-Expedierat/bestyrkt
-
-<!-- sida 23 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          23 (25)
-Nämnden för Individ & Familjeomsorg
-Datum
-2024-04-18
-
-Arbetsmiljöverket
-Dnr IF-2024-00036. Arbetsmiljöverket, 2024/005260, avslutar ärendet.
-Arbetsmiljöverket bedömer, efter inspektion, att nämnden uppfyller gällande
-arbetsmiljökrav.
-
-Socialstyrelsen
-
-Dnr IF-2024-00072. Beslut om beviljande av habiliteringsersättning.
-
-Boverket
-
-Dnr 2022-00060. Beslut om statligt bidrag för kommunala hyresgarantier.
-
-Inspektionen för vård och omsorg, IVO
-
-Dnr IF-2023-00291. Inspektionen för vård och omsorg, IVO, dnr. 3.3.1-38871/2022-
-5, avslutar ärendet. IVO bedömer mot bakgrund av de redovisade omständigheterna i
-ärendet att det inte finns skäl att ansöka om utdömande av särskild avgift hos
-förvaltningsrätten.
-
-Kommunfullmäktige, KF
-KF § 33 Antagande av riktlinjer för hantering av personuppgifter.
-
-KF § 34 Återrapportering på uppdrag att ta fram styrdokument för innovation och
-förnyelse
-
-Kommunstyrelsen, KS
-
-KS § 74 Godkännande av uppföljningsrapport av intern kontroll 2023 för
-Kungsbacka kommun
-
-Nämnden för Service
-SE § 24 Inköpsrapport 2023
-
-Beslutsunderlag
-Förvaltningens tjänsteskrivelse, 2024-04-03
-
-Beslutsgång
-Ordförande Tommy Rydfeldt (L) prövar om nämnden kan notera redovisningen av
-inkomna domar och beslut till protokollet, och finner att nämnden bifaller det.
-
-Expedierat/bestyrkt
-
-<!-- sida 24 -->
-
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          24 (25)
 Nämnden för Individ & Familjeomsorg
 Datum
@@ -994,7 +890,7 @@ det.
 
 Expedierat/bestyrkt
 
-<!-- sida 25 -->
+<!-- sida 23 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          25 (25)
 Nämnden för Individ & Familjeomsorg

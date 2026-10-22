@@ -1,0 +1,11 @@
+A 10,"Tidsuppskattning
+Rivningslov och teknisk kontroll för åtgärder som kräver rivningslov",,,,,,,,,,,
+Ärendetyp,,Start av ärende,Lovprövning,"Expediering
+och kungörelse","Tekniskt
+samråd",Startbesked,"Arbets-
+platsbesök",Slutsamråd,Slutbesked,"Avslut av
+ärende",Summa tid,Avgift
+A 10.1,"Åtgärd som kräver rivningslov, med tekniskt samråd","0,5",4,"0,5","2,5",1,1,1,1,1,"12,5",15 625 kr
+A 10.2,"Åtgärd som kräver rivningslov, utan tekniskt samråd","0,5",4,"0,5",0,"1,5",0,0,1,1,"8,5",10 625 kr
+A 10.3,"Åtgärd avseende komplementbyggnad som kräver rivningslov, utan
+tekniskt samråd","0,5",2,"0,5",0,1,0,0,1,"0,5","5,5",6 875 kr

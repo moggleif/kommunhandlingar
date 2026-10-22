@@ -5,19 +5,19 @@ datum: 2026-09-17
 lopnr: null
 typ: handlingar
 namn: null
-kallnyckel: sitevision:18.77fd706f1a08662c7eab2742
-tidigare_kallnycklar: []
+kallnyckel: sitevision:18.33df50461a157e1b90019a9
+tidigare_kallnycklar: [sitevision:18.77fd706f1a08662c7eab2742]
 arenden: null
-kalla_url: https://kungsbacka.se/download/18.77fd706f1a08662c7eab2742/1789379545144/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20handlingar%202026-09-17.pdf
-sha256: 87cee984c4e89508e6a67178f4b267a380660f6afd5be65d42bd2c8ae191a6d6
-bytes: 3644356
-sidor: 125
-hamtad: 2026-10-14T10:16:04+00:00
-konverterad: 2026-10-14T10:16:27+00:00
+kalla_url: https://kungsbacka.se/download/18.33df50461a157e1b90019a9/1792480218799/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20handlingar%202026-09-17.pdf
+sha256: 699f395e7c6c350437d9c8c55e475f1cb60ccfd225796c7cc29349ba7cd39549
+bytes: 3541223
+sidor: 123
+hamtad: 2026-10-22T06:18:27+00:00
+konverterad: 2026-10-22T06:18:57+00:00
 pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
@@ -4690,108 +4690,6 @@ TJÄNSTESKRIVELSE
 Datum
 2026-08-24
 Diarienummer
-IF-2024-00012
-
-Redovisning av domar och beslut, september 2026
-
-Förslag till beslut
-
-Nämnden för Individ & Familjeomsorg noterar redovisningen av inkomna domar och beslut till
-protokollet.
-
-Sammanfattning av ärendet
-
-Redovisning för perioden 2026-06-01 – 2026-08-31.
-
-Högsta Förvaltningsdomstolen
-
-Beslut meddelat i mål nr. 1165-26, daterad 2026-06-26, saken; den enskilde har överklagat
-Kammarrättens beslut gällande stöd och service till vissa funktionshindrade; fråga om
-prövningstillstånd. Högsta förvaltningsdomstolen meddelar inte prövningstillstånd. Kammarrättens
-avgörande står därmed fast.
-
-Kammarrätten KR
-
-Beslut meddelat i mål nr. 1194-26, daterad 2026-06-02, saken; den enskilde har överklagat
-Förvaltningsrätten i Göteborgs dom gällande personlig assistans; fråga om prövningstillstånd.
-Kammarrätten meddelar inte prövningstillstånd. Förvaltningsrättens avgörande står därför fast.
-Dom meddelad i mål nr. 2689-26, daterad 2026-08-13, saken; den enskilde har överklagat nämndens
-beslut gällande rätt att ta del av allmän handling. Kammarrätten avslår överklagandet.
-
-Förvaltningsrätten i Göteborg, FR
-Beslut meddelat i mål nr. 6824-26, daterad 2026-06-02, saken; den enskilde har överklagat nämndens
-beslut gällande personlig assistans enligt lagen (1993:387) om stöd och service till vissa
-funktionshindrade, LSS; nu fråga om interimistiskt förordnande. Förvaltningsrätten förordnar
-interimistiskt att den enskilde har rätt till personlig assistans till dess förvaltningsrätten avgör målet
-slutligt eller förordnar på annat sätt.
-
-Dom meddelad i mål nr. 5381-26, daterad 2026-06-15, saken; den enskilde har överklagat nämndens
-beslut gällande avlösarservice och korttidsvistelse enligt socialtjänstlagen (2025:400).
-Förvaltningsrätten avslår överklagandet.
-
-1 (2)
-Kungsbacka kommun
-434 81 Kungsbacka
-Josefine Jönsson
-0300-838345                                                   Besöksadress
-Nämndsekreterare                                         Stadshuset, Storgatan 37
-Telefon 0300-83 40 00
-www.kungsbacka.se
-
-<!-- sida 122 -->
-
-KUNGSBACKA  KOMMUN
-2 (2)
-
-Dom meddelad i mål nr. 2809-26, daterad 2026-06-16, saken; den enskilde har överklagat nämndens
-beslut gällande personlig assistans enligt lagen (1993:387) om stöd och service till vissa
-
-funktionshindrade, LSS. Förvaltningsrätten avslår överklagandet.
-Beslut meddelat i mål nr. 9705-26, daterad 2026-08-07, saken; den enskilde har överklagat nämndens
-beslut gällande stöd och service till vissa funktionshindrade; nu fråga om interimistiskt förordnande.
-Förvaltningsrätten avslår yrkandet om interimistiskt förordnande.
-
-Dom meddelad i mål nr. 8322-26, daterad 2026-08-21, saken; den enskilde har överklagat nämndens
-beslut gällande insats enligt socialtjänstlagen (2025:400). Förvaltningsrätten upphäver det överklagade
-beslutet och visar målet åter till Nämnden för individ- och familjeomsorg i Kungsbacka kommun för
-fortsatt handläggning.
-
-Beslut meddelat i mål nr. 10172-26, daterad 2026-08-26, saken; den enskilde har överklagat nämndens
-beslut gällande kontaktperson enligt lagen (1993:387) om stöd och service till vissa funktionshindrade,
-LSS. Förvaltningsrätten avslår yrkandet om interimistiskt förordnande.
-
-Kommunfullmäktige, KF
-KF 2026-06-09 § 105 Kommunbudget 2027, plan 2028-2029
-
-KF 2026-06-09 § 106 Uppföljning och prognos april 2026 för Kungsbacka kommun
-
-KF 2026-06-09 § 109 Redovisning av icke färdigberedda motioner (1, 2026)
-KF 2026-06-09 § 110 Sammanträdesdagar 2027 för kommunfullmäktige
-
-KF 2026-08-11 § 144 Rapport från nämnden för Individ & Familjeomsorg av ej verkställda beslut
-enligt socialtjänstlagen, SoL, och lagen om stöd och service till vissa funktionshindrade, LSS, första
-kvartalet 2026
-KF 2026-08-11 § 147 Svar på motion från Carita Boulwén (SD) m.fl. om inrättande av ”Jourhavande
-förälder”, ett alternativ till familjehemsplacering
-
-KF 2026-08-11 § 159 Entledigande och fyllnadsval för uppdrag som ledamot i nämnden för Individ &
-Familjeomsorg
-
-Beslutsunderlag
-
-Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2026-08-24
-
-Göran Hjertstrand
-
-Förvaltningschef
-
-<!-- sida 123 -->
-
-TJÄNSTESKRIVELSE
-
-Datum
-2026-08-24
-Diarienummer
 IF-2023-00005
 
 Redovisning av synpunkter och klagomål, september 2026
@@ -4838,7 +4736,7 @@ Nämndsekreterare                                         Stadshuset, Storgatan 
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 124 -->
+<!-- sida 122 -->
 
 KUNGSBACKA  KOMMUN
 2 (2)
@@ -4868,7 +4766,7 @@ Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2026-08-24
 Göran Hjertstrand
 Förvaltningschef
 
-<!-- sida 125 -->
+<!-- sida 123 -->
 
 TJÄNSTESKRIVELSE
 

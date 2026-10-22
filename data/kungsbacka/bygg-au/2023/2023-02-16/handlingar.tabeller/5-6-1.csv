@@ -1,0 +1,30 @@
+Kriterier,Ja,Nej
+"Personuppgiftsbehandlingen innebär utvärdering eller poängtilldelning, inklusive profilering och
+förutsägelse av beteende.",☐,☒
+"Personuppgiftsbehandlingen innebär automatiserat beslutsfattande med juridisk, ekonomisk
+eller annan betydande effekt för den registrerade.",☐,☒
+"Personuppgiftsbehandlingen innebär att systematisk övervakning används för att observera,
+övervaka eller kontrollera den registrerade.",☐,☒
+"Behandling av extra skyddsvärda personuppgifter eller känsliga personuppgifter
+Kommentar: Det rör sig här om uppgift om misstänkt lagöverträdelse och vid anmälan kan det komma
+in uppgifter som berör någons privata sfär och som handlar om någons sociala förhållanden då det är
+möjligt att bifoga bilagor så som bilder och i fritext göra en beskrivning.
+Den som anmäler behöver e-identifiera sig, men kan välja att vara anonym. Personnummer förekommer
+vid inloggning med e-identifiering. e-identifiering med skyddad identitet är inte möjlig. En text om att det
+inte är möjligt att e-identifiera sig vid skyddad identitet rekommenderas.",☒,☐
+"Personuppgiftsbehandlingen sker i stor skala avseende antalet berörda personer i registret,
+volymen av data som behandlas, varaktighet för behandlingsaktiviteten och/eller den geografiska
+omfattningen av behandlingsaktiviteten.",☐,☒
+"Personuppgiftsbehandlingen omfattar uppgifter om utsatta personer, t ex barn, anställda,
+asylsökande, äldre, patienter
+Kommentar: Anmälaren kan skicka in bilder och lägga in fritext och det kan komma in bilder och
+information om den som utsätts för tillsyn och familjemedlemmar så som barn.",☒,☐
+"Personuppgiftsbehandlingen sker med hjälp av innovativ användning eller tillämpning av
+tekniska eller organisatoriska lösningar, exempelvis Internet of things och bodies (IoT och IoB)",☐,☒
+"Personuppgiftsbehandlingen innebär att personuppgifter från två eller flera behandlingar
+kombineras på ett sätt som avviker från vad de registrerade rimligen kunnat förvänta sig.",☐,☒
+"Kommentar: Personuppgifter från två eller flera behandlingar kan komma att ske om det är nödvändigt
+för utredningen.",,
+"Behandlingen innebär att personuppgifter behandlas i syfte att hindra registrerade från att få
+tillgång till en tjänst eller ingå ett avtal",☐,☒
+Dataöverföring sker till länder utanför EU/EES (tredjeland).,☐,☒
