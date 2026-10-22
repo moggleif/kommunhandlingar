@@ -104,8 +104,8 @@ class TestLasning(unittest.TestCase):
 
 
 class TestSidan(unittest.TestCase):
-    def sida(self) -> str:
-        with lasta() as stegen:
+    def sida(self, rader: str = RADER) -> str:
+        with lasta(rader) as stegen:
             return lokalbehovsida(Mall([exempelby()], REPO, TID), exempelby(), stegen)
 
     def test_ett_behov_per_rad_och_ett_ar_per_kolumn(self):
@@ -138,6 +138,15 @@ class TestSidan(unittest.TestCase):
         self.assertIn('data-urval="aktiv">I lokalbehov 2024', html)
         self.assertIn("<dt>i lokalplanen</dt><dd>1</dd>", html)
         self.assertIn("<script>", html)
+
+    def test_ett_forslag_syns_men_ar_inget_lokalbehov(self):
+        forslag = f"fsn,Gymnastiksal,2025,forslag,,Större matsal,{BUDGET}#sida-1,\n"
+        html = self.sida(RADER + forslag)
+        rad = html.split('<tr data-mal="2"')[1].split("</tr>")[0]
+        self.assertIn('data-slag="forslag" data-aktiv="nej"', rad)
+        self.assertIn('class="fas forslag"', rad)
+        self.assertIn('data-urval="forslag">Föreslaget till nämnden', html)
+        self.assertIn('data-urval="aktiv">I lokalbehov 2024', html)
 
     def test_kallan_namnger_organet_och_sidorna(self):
         adress, text = kalla(f"{ANDRAS}#sida-1-2", exempelby())

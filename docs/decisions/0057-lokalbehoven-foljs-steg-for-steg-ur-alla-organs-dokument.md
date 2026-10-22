@@ -52,14 +52,14 @@ steg rymmer steg som inte följer budgetåret.
 
 * **Filen** är `lokalbehov/<kommun>.csv` med kolumnerna `organ`, `behov`,
   `ar`, `fas`, `varde`, `text`, `kalla` och `tolkad`. Faserna är
-  `lokalbehov`, `prioritet`, `lokalplan`, `startbeslut`, `pagar` och
+  `forslag`, `lokalbehov`, `prioritet`, `lokalplan`, `startbeslut`, `pagar` och
   `utfort`. `organ` är nämnden som äger behovet; `kalla` får vara ett
   dokument från vilket av kommunens organ som helst.
 * **Texten och värdet är källans** och prövas mot källans sidor på samma
   sätt som målfilen (ADR-0044). En prioritet måste ha ett värde och en
   lokalplan ett löpnummer. Som för målen går protokollet före
-  handlingarna (ADR-0045): ett förslag inför ett möte står inte med förrän
-  protokollet finns.
+  handlingarna (ADR-0045): ett förslag inför ett möte är fasen `forslag`
+  tills protokollet visar beslutet.
 * **Ett behov har ett namn** på sidan, valt av agenten, även när källorna
   kallar det olika. När källan inte själv säger att steget gäller
   behovet står `tolkad = ja`, och ikonen får en streckad ram.
@@ -133,6 +133,11 @@ och sammandraget.
 gjort och det som är på gång, och flera källor säger att arbete pågår
 utan att något beslut eller bokslut finns, som servicenämndens
 månadsvisa redovisning av projekten och nämndens delårsrapport.
+
+`forslag` kom till efter granskningen, som visade att förslaget till
+mötet 2026-10-22 stod som nämndens lokalbehov fast protokollet inte fanns.
+Projektägaren ville ändå se dagens lokalbehov på sidan, så förslaget fick
+en egen fas i stället för att vänta.
 
 En prioritet som är ett ord, som "aktualiserade" när nämnden 2025 tog
 med Kompetenscentrum och Marios gata utöver de nya prioriteringarna,
