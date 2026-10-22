@@ -51,16 +51,15 @@ METOD = (
     "lucka i poolen, inte ett år utan mål.</p>"
 )
 FOKUS = (
-    "<p>Kommunfullmäktiges mål har fokusområden, som står under sitt mål i "
-    "tidslinjen och i målets kort. Uppföljningarna bedömer fokusområdena med "
-    "färg: grön är i mål eller nära målet, gul på väg mot målet och röd långt "
-    "kvar till målet. Färgen följer inte med in i texten, så den är avläst ur "
-    "PDF:en på källans sida och visas som ikonen för uppnått, delvis eller ej. "
-    "Ett mål har en status där källan säger sin samlade bedömning av målet "
-    "och meningen står i texten; i årsredovisningarna har konverteringen "
-    "ibland blandat ihop två spalter, och då står den bedömningen inte med. "
-    "Budgeten och uppföljningen kan skriva ett fokusområde på olika sätt "
-    "samma år, och då har det en rad för varje.</p>"
+    "<p>Ett mål med fokusområden har dem under sig i tidslinjen och i sitt "
+    "kort. En uppföljning kan bedöma med färg i stället för ord. Färgen "
+    "följer inte med in i texten, så den är avläst ur PDF:en på källans "
+    "sida, visas som ikonen för uppnått, delvis eller ej och är märkt "
+    "som avläst ur färgen. Hur källan använder färgerna står i "
+    "beskrivningen av kommunens källor. En rad har en status bara där "
+    "källans bedömning står i texten. Budgeten och uppföljningen kan "
+    "skriva ett fokusområde på olika sätt samma år, och då har det en rad "
+    "för varje.</p>"
 )
 
 

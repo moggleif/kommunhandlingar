@@ -264,9 +264,12 @@ poolen):
   fokusområden var. Budgeten (KF juni) sätter målen i versaler och
   fokusområdena i punktlistor, och har direktiven till alla nämnder.
 - **Bedömningen står i färg.** Årsredovisningen (KF april) och
-  delårsrapporten (KF november) visar varje fokusområde i grönt, gult
-  eller rött med en trendpil i en tabell. Pilen kommer med i texten,
-  färgen gör det inte. Målens samlade bedömning är en mening i löptexten,
+  delårsrapporten (KF november) visar varje fokusområde i grönt ("I mål
+  eller nära målet"), gult ("På väg mot målet") eller rött ("Långt kvar
+  till målet") med en trendpil i en tabell. Pilen kommer med i texten,
+  färgen gör det inte. Målfilen skriver grönt som `uppnatt`, gult som
+  `delvis` och rött som `ej` (ADR-0056); inget fokusområde 2023–2025 är
+  rött. Målens samlade bedömning är en mening i löptexten,
   som konverteringen ofta blandar med den andra spalten.
 - **Budgeten och uppföljningen skriver ibland samma fokusområde olika**,
   till exempel "god vård och omsorg" i budgeten och "god omsorg" i

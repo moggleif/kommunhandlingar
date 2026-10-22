@@ -16,6 +16,7 @@ STILAR = [
     ("", "currentColor"),
     ('stroke-dasharray="6 4"', "#fff"),
     ('stroke-dasharray="1 3"', "currentColor"),
+    ('stroke-dasharray="8 3 2 3"', "#fff"),
 ]
 
 Serie = tuple[str, list[int | None]]

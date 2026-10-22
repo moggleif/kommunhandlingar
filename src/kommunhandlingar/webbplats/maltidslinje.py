@@ -4,7 +4,7 @@ Test: tests/test_malkort.py och tests/test_fokusomraden.py.
 Tidslinjen på sidan om ett organs mål och direktiv: en rad per rubrik i
 varje spår, grupperad på slag, med ett kommunmåls fokusområden under det,
 och en kolumn per år. Ett år med rubriken
-är en del av ett band med årets status. Sist kommer nämndens uppföljningar
+är en del av ett band med årets status. Sist kommer protokollens uppföljningar
 och dragningar om målen ur protokollen, med ett streck för år utan
 protokoll med text.
 """
@@ -124,7 +124,7 @@ def namnden_rad(uppfoljda: list[Uppfoljning], protokollar: set[int], ar: range) 
         return ""
     celler = "".join(i_namnden(uppfoljda, a, a in protokollar) for a in ar)
     return (
-        '<tbody class="namnden"><tr><th scope="row">Nämnden om målen'
+        '<tbody class="namnden"><tr><th scope="row">Protokollen om målen'
         f"{forklaring()}</th>{celler}</tr></tbody>"
     )
 

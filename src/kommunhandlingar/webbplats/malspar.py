@@ -47,7 +47,8 @@ def egenskaper(nr: int, malen: list[Mal], ar: range) -> str:
     )
 
 
-# Ett fokusområde visas under sitt huvudmål, inte för sig.
+# Ett fokusområde visas under huvudmålets spår, som kontrollen kräver är
+# ett kommunmål utan grupp, och inte för sig.
 def fristaende(spar: list[list[Mal]]) -> list[tuple[int, list[Mal]]]:
     return [(nr, malen) for nr, malen in enumerate(spar) if not malen[-1].huvudmal]
 

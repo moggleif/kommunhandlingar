@@ -67,9 +67,12 @@ och kontroller som nämndens sida.
   utan grupp i filen, och samma rubrik har alltid samma huvudmål.
 * **Färgen är bedömningen.** AI-agenten läser färgen per fokusområde ur
   PDF:en på källans sida, och skriver bedömningen utan status. Kortets
-  historik säger "enligt färgen i källan", och sidans metodtext förklarar
-  färgerna och att de inte står i texten. Ett mål får en status bara där
-  källans samlade bedömning står sammanhängande i texten.
+  historik säger "enligt färgen i källan", och sidans metodtext säger att
+  färgen inte står i texten. Vad färgerna betyder hos en kommun står i
+  `docs/kallor/<kommun>.md`, inte i koden; i Kungsbacka blir grönt ("I mål
+  eller nära målet") `uppnatt`, gult `delvis` och rött `ej`. En rad med
+  bedömning men utan status är alltid avläst ur färgen. Ett mål får en
+  status bara där källans samlade bedömning står sammanhängande i texten.
 * **Under sitt mål.** I tidslinjen står fokusområdena direkt under sitt
   kommunmål, indragna och märkta för skärmläsare. Varje fokusområde har
   ett eget kort inuti målets kort, så att grupperingen av omdöpta
@@ -92,6 +95,9 @@ och kontroller som nämndens sida.
   som nämndens.
 * Good, eftersom en bedömning som bara står i färg syns, och är märkt
   som avläst ur färgen.
+* Bad, eftersom grönt också omfattar "nära målet" men visas som
+  uppnått; märkningen "enligt färgen i källan" och källans sida visar
+  det.
 * Bad, eftersom färgen inte går att pröva i bygget. Den som vill
   kontrollera en bedömning får öppna PDF:en.
 * Bad, eftersom målens egen status ofta saknas: årsredovisningens

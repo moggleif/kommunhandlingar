@@ -72,8 +72,8 @@ def pool(rader: str = RADER):
         yield mal.las(fil, exempelby(), data)
 
 
-def sida() -> str:
-    with pool() as malen:
+def sida(rader: str = RADER) -> str:
+    with pool(rader) as malen:
         mall = Mall([exempelby()], REPO, TID)
         return malsida(mall, exempelby(), malen, protokoll(2024, 2025))
 
@@ -103,7 +103,7 @@ class TestLasning(unittest.TestCase):
 
     def test_huvudmal_som_inte_star_pa_sidan(self):
         rad = f"fsn,2024,fokusområde,Civil beredskap,,,,,{BUDGET}#sida-2,,,{MALET}\n"
-        self.assertIn("huvudmalen står inte", self.stoppas(rad))
+        self.assertIn("huvudmålet står inte", self.stoppas(rad))
 
     def test_huvudmal_som_inte_ar_ett_kommunmal(self):
         rad = (
@@ -168,6 +168,12 @@ class TestSidan(unittest.TestCase):
             self.assertIn(f'<th scope="col">{rubrik}</th>', html)
         self.assertNotIn('<th scope="col">Nämndmål</th>', html)
         self.assertIn("<dt>fokusområden</dt><dd>2</dd>", html)
+
+    def test_fyra_slag_har_var_sin_linje(self):
+        rad = f"fsn,2025,nämndmål,Civil beredskap,,,,,{BUDGET}#sida-2,,,\n"
+        graf = sida(RADER + rad).split('<svg class="graf"')[1].split("</svg>")[0]
+        self.assertEqual(graf.count("<polyline"), 4)
+        self.assertIn('stroke-dasharray="8 3 2 3"', graf)
 
     def test_om_sidan_forklarar_fargen(self):
         self.assertIn("Färgen följer inte med in i texten", sida())

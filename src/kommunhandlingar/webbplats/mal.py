@@ -22,6 +22,12 @@ KOLUMNER = [
 ]
 # Ett fokusområde hör till ett kommunmål och visas under det (ADR-0056).
 SLAG = ("nämndmål", "kommunmål", "fokusområde", "direktiv")
+FALTEN = (
+    ("rubrik", "rubriken"),
+    ("formulering", "formuleringen"),
+    ("status", "statusen"),
+    ("huvudmal", "huvudmålet"),
+)
 # Ett dokument ligger på <organ>/<år>/<datum>/<namn>.md (ADR-0003). Ett
 # mål som fortsätter på nästa sida har sidorna, till exempel `#sida-14-15`.
 KALLA = re.compile(
@@ -113,9 +119,9 @@ def tolka(rad: list[str], organ: set[str], sidtext: Sidtext) -> Mal:
     if (mal.slag == "fokusområde") != bool(mal.huvudmal):
         raise ValueError("ett fokusområde, och bara det, har ett huvudmål")
     sida = sidtext(mal.kalla, mal.organ)
-    for falt in ("rubrik", "formulering", "status", "huvudmal"):
+    for falt, namn in FALTEN:
         if not star_pa(getattr(mal, falt), sida):
-            raise ValueError(f"{falt}en står inte på {mal.kalla}")
+            raise ValueError(f"{namn} står inte på {mal.kalla}")
     return mal
 
 

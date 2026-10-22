@@ -1583,15 +1583,15 @@ filen (K26), länkad från organets sida.
     (`webbplats/malgraf.py`) med en linje per slag, skilda med streckning
     och punktform. Under dem står en hopfälld tabell med antal per slag,
     uppföljningsdokument i målfilen och spår med en bedömning, och, med en
-    uppföljningsfil, uppföljningar och dragningar i nämnden
+    uppföljningsfil, uppföljningar och dragningar i protokollen
     ([Uppföljningar i nämnden](#uppföljningar-i-nämnden)). Varje spår
     räknas en gång per år. Ett år utan rader står som – och bryter
     linjen.
   - **Urvalet**: knappar för alla, de som gäller det senaste året,
     varje slag som finns och de som bytt rubrik.
   - **Tidslinjen** (`webbplats/maltidslinje.py`): en teckenförklaring och
-    en tabell med en rad per rubrik i varje spår, nämndmålen och
-    direktiven i var sin grupp, spåren ordnade efter första år, slag och
+    en tabell med en rad per rubrik i varje spår, varje slag i sin
+    grupp, spåren ordnade efter första år, slag och
     rubrik, och en kolumn per år. Ovanför åren står mandatperioderna
     (`webbplats/mandatperiod.py`): valet hålls vart fjärde år i alla
     kommuner, så en period är de fyra åren efter ett valår, räknat från
@@ -1607,7 +1607,7 @@ filen (K26), länkad från organets sida.
     formulering har en markering med formuleringen i pekrutan; samma
     jämförelse som när bygget prövar källan, utan versaler. Ett slagbyte
     med samma rubrik ger ingen ny rad. Rubriken länkar till kortet. Med en
-    uppföljningsfil står sist nämndens uppföljningar och dragningar om
+    uppföljningsfil står sist protokollens uppföljningar och dragningar om
     målen, en markering per paragraf, och ett streck för år utan protokoll
     med text. Ett spår som varit både nämndmål och direktiv står under sitt
     senaste slag, med det andra slaget vid de rubriker som hade det. Ett

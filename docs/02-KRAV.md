@@ -903,7 +903,7 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
   formuleringar inom samma år markeras inte.
 - **Givet** en kommun med en fil över nämndernas uppföljningar (K28)
 - **När** tidslinjen visas
-- **Så** har den sist en rad med nämndens uppföljningar och dragningar om
+- **Så** har den sist en rad med protokollens uppföljningar och dragningar om
   målen, en markering per paragraf på mötets år, och ett streck för år
   utan protokoll med text.
 - **Givet** målen
