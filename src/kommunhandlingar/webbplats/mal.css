@@ -1,5 +1,5 @@
-/* Krav: K29 i docs/02-KRAV.md, ADR-0050 och ADR-0051. Stilen för sidan om ett organs
-   mål och direktiv: sammandraget, tidslinjen och korten. */
+/* Krav: K29 och K35 i docs/02-KRAV.md, ADR-0050, ADR-0051 och ADR-0056. Stilen för
+   sidan om ett organs mål och direktiv: sammandraget, tidslinjen och korten. */
 :root { --accent: #1d5d73; --band: #e3eef2; --yta: #f5f6f8;
             --linje: #d9dde5; --dampad: #5b6475; }
 [hidden] { display: none !important; }
@@ -54,6 +54,9 @@ table.tidslinje td .status { position: relative; }
 table.tidslinje tr[data-mal]:hover { background: var(--yta); }
 table.tidslinje th[scope="row"]:has(.byte) { padding-left: 0.9rem; position: relative; }
 .byte { position: absolute; left: 0; color: var(--accent); }
+table.tidslinje th.fokus { padding-left: 1.2rem; font-size: 0.85rem; }
+table.tidslinje th.fokus:has(.byte) { padding-left: 2.1rem; }
+th.fokus .byte { left: 1.2rem; }
 .byten { display: flex; flex-wrap: wrap; gap: 0.25rem 1.5rem; margin-top: 0;
          color: var(--dampad); }
 .ny-formulering { display: inline-block; width: 0.5rem; height: 0.5rem;
@@ -71,7 +74,11 @@ td .ny-formulering { position: absolute; top: 50%; left: 14%; margin-top: -0.25r
                    display: flex; flex-direction: column; gap: 0.5rem; min-width: 0; }
 .malkort article:target { border-color: var(--accent); box-shadow: 0 0 0 2px var(--band); }
 .malkort article[data-aktiv="nej"] { background: var(--yta); }
-.malkort h3, .malkort p, .malkort blockquote { margin: 0; }
+.malkort h3, .malkort h4, .malkort p, .malkort blockquote { margin: 0; }
+.malkort article:has(.fokusomraden) { grid-column: 1 / -1; }
+.fokusomraden { display: grid; gap: 0.75rem; margin-top: 0.5rem;
+                grid-template-columns: repeat(auto-fill, minmax(min(100%, 18rem), 1fr)); }
+.fokusomraden h4 { grid-column: 1 / -1; font-size: 0.9rem; color: var(--dampad); }
 .markor span { font-size: 0.75rem; padding: 0.05rem 0.5rem; border-radius: 999px;
                background: var(--band); color: var(--accent); }
 .tidigare { font-size: 0.85rem; color: var(--dampad); }

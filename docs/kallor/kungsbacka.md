@@ -250,6 +250,36 @@ i handlingarna. Formen 2013–2026 (kontrollerat 2026-10-13 i poolen):
   transformationsplanen (handlingarna 2021-06-23) nämner direktivet
   Digital mognad och står i målfilen som `rapport`.
 
+### Kommunfullmäktiges mål och direktiv
+
+Fullmäktiges egen sida (K35,
+[ADR-0056](../decisions/0056-kommunfullmaktiges-mal-med-fokusomraden-och-farg.md))
+läser målen ur fullmäktiges handlingar (kontrollerat 2026-10-22 i
+poolen):
+
+- **Kommunstyrelsen har inga egna mål.** Revisionen skriver i granskningen
+  av årsredovisningarna 2024 och 2025 att styrelsen arbetar direkt med
+  fullmäktiges mål (KF 2025-04-08 och 2026-04-14, Bilaga 4).
+- **Fem kommunövergripande mål** gäller 2022–2027, med två till fyra
+  fokusområden var. Budgeten (KF juni) sätter målen i versaler och
+  fokusområdena i punktlistor, och har direktiven till alla nämnder.
+- **Bedömningen står i färg.** Årsredovisningen (KF april) och
+  delårsrapporten (KF november) visar varje fokusområde i grönt ("I mål
+  eller nära målet"), gult ("På väg mot målet") eller rött ("Långt kvar
+  till målet") med en trendpil i en tabell. Pilen kommer med i texten,
+  färgen gör det inte. Målfilen skriver grönt som `uppnatt`, gult som
+  `delvis` och rött som `ej` (ADR-0056); inget fokusområde 2023–2025 är
+  rött. Målens samlade bedömning är en mening i löptexten,
+  som konverteringen ofta blandar med den andra spalten.
+- **Budgeten och uppföljningen skriver ibland samma fokusområde olika**,
+  till exempel "god vård och omsorg" i budgeten och "god omsorg" i
+  uppföljningen.
+- **Årsredovisningen 2022 och delårsrapporten 2023** (KF 2023-04-04 och
+  2023-11-07) finns som text i poolen, men PDF:erna bara i webbarkivet,
+  så deras fokusområden står inte med än.
+- **Protokollens** paragrafer om årsredovisningen, delårsrapporten och
+  uppföljningen per april står i `uppfoljningar/kungsbacka.csv`.
+
 ### Nämndernas lokalbehov
 
 Lokalbehovsfilen (K36,

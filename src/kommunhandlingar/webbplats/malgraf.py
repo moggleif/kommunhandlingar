@@ -1,4 +1,5 @@
-"""Krav: K27 i docs/02-KRAV.md, ADR-0045. Test: tests/test_malgrupper.py.
+"""Krav: K27 och K35 i docs/02-KRAV.md, ADR-0045 och ADR-0056.
+Test: tests/test_malgrupper.py.
 
 En linjegraf i SVG, utan skript: år längs x-axeln, antal längs y-axeln
 och en linje per serie. Serierna skiljs med streckning och punktform, inte
@@ -11,7 +12,12 @@ from itertools import groupby
 BREDD, HOJD = 640, 260
 VANSTER, HOGER, TOPP, BOTTEN = 40, 16, 36, 30
 # Linjens streckning och punktens fyllning per serie, i seriernas ordning.
-STILAR = [("", "currentColor"), ('stroke-dasharray="6 4"', "#fff")]
+STILAR = [
+    ("", "currentColor"),
+    ('stroke-dasharray="6 4"', "#fff"),
+    ('stroke-dasharray="1 3"', "currentColor"),
+    ('stroke-dasharray="8 3 2 3"', "#fff"),
+]
 
 Serie = tuple[str, list[int | None]]
 

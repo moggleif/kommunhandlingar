@@ -787,8 +787,8 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
 - **När** sidan visas
 - **Så** står alla mål och direktiv, utan urval.
 - **Givet** en målfil med ett organ som inte står i kommunfilen, ett år
-  som inte är fyra siffror, ett slag som varken är `nämndmål` eller
-  `direktiv`, en källa som inte är en sida i ett av organets dokument i
+  som inte är fyra siffror, ett slag som inte är `nämndmål`, `kommunmål`,
+  `fokusområde` eller `direktiv` (K35), en källa som inte är en sida i ett av organets dokument i
   poolen, en rubrik, formulering eller status som inte står på källans
   sidor, samma mål två gånger ur samma källa, eller en målfil utan
   kommunfil
@@ -826,7 +826,8 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
   status på en rad som inte är en uppföljning, en uppföljning utan
   bedömning, `tolkad` som inte är tomt eller `ja` i en grupp, en grupp
   som inte är en rubrik i filen eller som själv står i en grupp, en rubrik
-  med två olika grupper, eller två rubriker i samma spår samma år
+  med två olika grupper, eller två rubriker i samma spår samma år i
+  samma dokument (K35)
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med raden i felet.
 - **Givet** sidan om målen
@@ -902,7 +903,7 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
   formuleringar inom samma år markeras inte.
 - **Givet** en kommun med en fil över nämndernas uppföljningar (K28)
 - **När** tidslinjen visas
-- **Så** har den sist en rad med nämndens uppföljningar och dragningar om
+- **Så** har den sist en rad med protokollens uppföljningar och dragningar om
   målen, en markering per paragraf på mötets år, och ett streck för år
   utan protokoll med text.
 - **Givet** målen
@@ -1050,6 +1051,52 @@ Hur och varför står i
   stängs, eller som får eller tappar en etikett
 - **När** det har hänt
 - **Så** byggs webbplatsen om.
+
+## K35 — Kommunfullmäktiges mål med fokusområden
+
+Issue: [#183](https://github.com/moggleif/kommunhandlingar/issues/183).
+Bygger på K26–K29. Hur och varför står i
+[ADR-0056](decisions/0056-kommunfullmaktiges-mal-med-fokusomraden-och-farg.md)
+och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
+
+- **Givet** en målfil med kommunmål, fokusområden med sitt kommunmål som
+  huvudmål, och direktiv för kommunfullmäktige
+- **När** webbplatsen byggs
+- **Så** har kommunfullmäktige en sida om sina mål och direktiv, byggd som
+  en nämnds (K26–K29).
+- **Givet** ett fokusområde
+- **När** sidan visas
+- **Så** står det i tidslinjen direkt under sitt kommunmål, indraget och
+  märkt som fokusområde för skärmläsare, och har ett eget kort inuti
+  kommunmålets kort.
+- **Givet** en uppföljning som bedömer ett fokusområde med färg, där
+  målfilen har bedömningen men ingen status
+- **När** sidan visas
+- **Så** visas bedömningen som ikon, och historiken säger att den är
+  läst ur färgen i källan. Sidans metodtext säger att färgen inte följer
+  med in i texten.
+- **Givet** budgeten och uppföljningen samma år, som skriver samma
+  fokusområde på olika sätt
+- **När** sidan visas
+- **Så** har det en rad i tidslinjen för varje rubrik, och räknas en gång
+  i antalet per år.
+- **Givet** sidan
+- **När** antalet per år visas
+- **Så** finns en kolumn och en linje för varje slag som finns i filen
+  för organet, och en knapp i urvalet för vart och ett.
+- **Givet** källans text i en tabell, med pilar, avstavning över en
+  radbrytning (`-<br>`), mjukt bindestreck eller versaler i hela texten
+- **När** bygget prövar att texten står på sidan
+- **Så** räknas inte radbrytningarna, pilarna, avstavningen eller
+  tankstrecken, och en text i versaler i källan godtar raden oavsett
+  versaler. Annars räknas versalerna.
+- **Givet** ett fokusområde utan huvudmål, ett huvudmål på en rad som
+  inte är ett fokusområde, ett huvudmål som inte står på källans sida
+  eller inte är ett kommunmål utan grupp i filen, samma rubrik med två
+  olika huvudmål, eller två rubriker i samma spår samma år i samma
+  dokument
+- **När** webbplatsen byggs
+- **Så** stoppas bygget med raden i felet.
 
 ## K36 — Nämndens lokalbehov steg för steg
 

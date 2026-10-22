@@ -14,7 +14,7 @@ from pathlib import Path
 
 from kommunhandlingar.fel import Datafel
 from kommunhandlingar.konfiguration import Kommun
-from kommunhandlingar.webbplats.mal import Sidtext, jamforbar, sidlasare
+from kommunhandlingar.webbplats.mal import Sidtext, provbar, sidlasare
 
 KOLUMNER = ["organ", "behov", "ar", "fas", "varde", "text", "kalla", "tolkad"]
 FASER = ("lokalbehov", "prioritet", "lokalplan", "startbeslut", "pagar", "utfort")
@@ -81,7 +81,7 @@ def kontrollera_kalla(steg: Steg, organ: set[str], sidtext: Sidtext) -> None:
         raise ValueError(f"källan {steg.kalla!r} är inget organs dokument")
     sidan = sidtext(steg.kalla, steg.kallans_organ)
     for falt, varde in (("texten", steg.text), ("värdet", steg.varde)):
-        if jamforbar(varde) not in sidan:
+        if provbar(varde) not in sidan:
             raise ValueError(f"{falt} står inte på {steg.kalla}")
 
 

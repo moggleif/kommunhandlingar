@@ -1,9 +1,11 @@
-"""Krav: K29 i docs/02-KRAV.md, ADR-0050. Test: tests/test_malkort.py.
+"""Krav: K29 och K35 i docs/02-KRAV.md, ADR-0050 och ADR-0056.
+Test: tests/test_malkort.py och tests/test_fokusomraden.py.
 
 Ett kort per spår på sidan om ett organs mål och direktiv, de som gäller
-det senaste året först. Kortet har slaget, åren, den senaste rubriken och
-de tidigare, den senaste formuleringen, en remsa med ett fält per år och
-en hopfälld historik med varje rad, dess status och källa.
+det senaste året först, och ett kommunmåls fokusområden i dess kort.
+Kortet har slaget, åren, den senaste rubriken och de tidigare, den senaste
+formuleringen, en remsa med ett fält per år och en hopfälld historik med
+varje rad, dess status och källa.
 """
 
 from html import escape
@@ -13,19 +15,35 @@ from kommunhandlingar.webbplats.malspar import (
     arets,
     egenskaper,
     forsta,
+    fristaende,
     rubriken,
     slagen,
+    under,
 )
-from kommunhandlingar.webbplats.statusikon import ikon
+from kommunhandlingar.webbplats.statusikon import IKONER, ikon
 
 
 def korten(spar: list[list[Mal]], ar: range, luckor: set[int]) -> str:
-    ordnade = sorted(enumerate(spar), key=lambda e: (-e[1][-1].ar, -e[1][0].ar, e[0]))
+    def med_fokus(nr: int, malen: list[Mal]) -> str:
+        inre = "".join(kort(n, m, ar, luckor) for n, m in ordnade(under(spar, malen)))
+        if not inre:
+            return kort(nr, malen, ar, luckor)
+        fokus = f'<div class="fokusomraden"><h4>Fokusområden</h4>{inre}</div>'
+        return (
+            kort(nr, malen, ar, luckor).removesuffix("</article>")
+            + fokus
+            + "</article>"
+        )
+
     return (
         '<h2 id="malen">Målen</h2><div class="malkort">'
-        + "".join(kort(nr, malen, ar, luckor) for nr, malen in ordnade)
+        + "".join(med_fokus(nr, malen) for nr, malen in ordnade(fristaende(spar)))
         + "</div>"
     )
+
+
+def ordnade(spar: list[tuple[int, list[Mal]]]) -> list[tuple[int, list[Mal]]]:
+    return sorted(spar, key=lambda e: (-e[1][-1].ar, -e[1][0].ar, e[0]))
 
 
 def kort(nr: int, malen: list[Mal], ar: range, luckor: set[int]) -> str:
@@ -92,12 +110,19 @@ def post(mal: Mal) -> str:
     if mal.formulering:
         delar.append(f"<q>{escape(mal.formulering)}</q>")
     if mal.uppfoljning:
-        text = escape(mal.status) or "ingen bedömning i källan"
+        text = escape(mal.status) or utan_status(mal.bedomning)
         prognos = " (prognos)" if mal.prognos else ""
         delar.append(
             f"Status: {ikon(mal.bedomning, mal.status, mal.prognos)} {text}{prognos}"
         )
     return "<br>".join([*delar, f"Källa: {kallank(mal.kalla)}"])
+
+
+# En bedömning utan status är läst ur färgen på källans sida (ADR-0056).
+def utan_status(bedomning: str) -> str:
+    if bedomning == "ingen":
+        return IKONER["ingen"][1]
+    return f"{IKONER[bedomning][1]}, enligt färgen i källan"
 
 
 # Sidan ligger i organets katalog, bredvid årens kataloger, och länken går

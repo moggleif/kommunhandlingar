@@ -1,8 +1,10 @@
-"""Krav: K29 i docs/02-KRAV.md, ADR-0050 och ADR-0051. Test: tests/test_malkort.py.
+"""Krav: K29 och K35 i docs/02-KRAV.md, ADR-0050, ADR-0051 och ADR-0056.
+Test: tests/test_malkort.py och tests/test_fokusomraden.py.
 
 Tidslinjen på sidan om ett organs mål och direktiv: en rad per rubrik i
-varje spår, grupperad på slag, och en kolumn per år. Ett år med rubriken
-är en del av ett band med årets status. Sist kommer nämndens uppföljningar
+varje spår, grupperad på slag, med ett kommunmåls fokusområden under det,
+och en kolumn per år. Ett år med rubriken
+är en del av ett band med årets status. Sist kommer protokollens uppföljningar
 och dragningar om målen ur protokollen, med ett streck för år utan
 protokoll med text.
 """
@@ -10,7 +12,7 @@ protokoll med text.
 from html import escape
 
 from kommunhandlingar.webbplats.mal import SLAG, Mal, jamforbar
-from kommunhandlingar.webbplats.malspar import arets, egenskaper
+from kommunhandlingar.webbplats.malspar import arets, egenskaper, fristaende, under
 from kommunhandlingar.webbplats.mandatperiod import kolumner, rubriker
 from kommunhandlingar.webbplats.statusikon import teckenforklaring
 from kommunhandlingar.webbplats.uppfoljningar import Uppfoljning
@@ -48,7 +50,9 @@ def arskolumn(ar: int, lucka: bool, med_mal: bool) -> str:
 
 def slagets(slag: str, spar: list[list[Mal]], ar: range) -> str:
     spar_rader = "".join(
-        rader(nr, malen, ar) for nr, malen in enumerate(spar) if malen[-1].slag == slag
+        rader(nr, malen, ar) + "".join(rader(n, m, ar) for n, m in under(spar, malen))
+        for nr, malen in fristaende(spar)
+        if malen[-1].slag == slag
     )
     if not spar_rader:
         return ""
@@ -74,12 +78,14 @@ def per_rubrik(malen: list[Mal]) -> list[list[Mal]]:
 def rubrikcell(nr: int, malen: list[Mal], mal: Mal) -> str:
     lank = f'<a href="#mal-{nr}">{escape(mal.rubrik)}</a>'
     tolkad = " <small>tolkad</small>" * (mal.tolkad == "ja")
+    klass = ' class="fokus"' * bool(mal.huvudmal)
+    fokus = '<span class="dold">Fokusområde: </span>' * bool(mal.huvudmal)
     slag = f" <small>{mal.slag}</small>" * (mal.slag != malen[-1].slag)
     byte = (
         '<span class="byte" aria-hidden="true">↳</span>'
         f'<span class="dold">Ny rubrik {mal.ar}: </span>'
     ) * (mal is not malen[0])
-    return f'<th scope="row">{byte}{lank}{tolkad}{slag}</th>'
+    return f'<th scope="row"{klass}>{fokus}{byte}{lank}{tolkad}{slag}</th>'
 
 
 def cell(malen: list[Mal], ar: int) -> str:
@@ -118,7 +124,7 @@ def namnden_rad(uppfoljda: list[Uppfoljning], protokollar: set[int], ar: range) 
         return ""
     celler = "".join(i_namnden(uppfoljda, a, a in protokollar) for a in ar)
     return (
-        '<tbody class="namnden"><tr><th scope="row">Nämnden om målen'
+        '<tbody class="namnden"><tr><th scope="row">Protokollen om målen'
         f"{forklaring()}</th>{celler}</tr></tbody>"
     )
 
