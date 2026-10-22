@@ -5,19 +5,19 @@ datum: 2026-06-18
 lopnr: null
 typ: protokoll
 namn: null
-kallnyckel: sitevision:18.604293d519ed466b616393aa
-tidigare_kallnycklar: []
+kallnyckel: sitevision:18.33df50461a157e1b90019a8
+tidigare_kallnycklar: [sitevision:18.604293d519ed466b616393aa]
 arenden: null
-kalla_url: https://kungsbacka.se/download/18.604293d519ed466b616393aa/1782111370544/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202026-06-18,%20%C2%A7%C2%A7%2082-96.pdf
-sha256: 4f8921531e0d47946f81e2eaab2b3b5296d7b85085072eb91681fc5361514089
-bytes: 345645
-sidor: 22
-hamtad: 2026-10-14T10:00:36+00:00
-konverterad: 2026-10-14T10:00:43+00:00
+kalla_url: https://kungsbacka.se/download/18.33df50461a157e1b90019a8/1792480197032/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202026-06-18,%20%C2%A7%C2%A7%2082-96.pdf
+sha256: cb8a787a35d5d8bdcd909bd2422f3b63ce1856220dcbc9c362533f298f6df39c
+bytes: 317599
+sidor: 21
+hamtad: 2026-10-22T06:15:12+00:00
+konverterad: 2026-10-22T06:15:20+00:00
 pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
@@ -763,58 +763,6 @@ Transaktionsidentitet: 3D85474128AF2210D9EE84EEC12DEB724BE4FB9731
 
 <!-- sida 17 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          17 (20)
-Nämnden för Individ & Familjeomsorg
-Datum
-2026-06-18
-
-§ 93                       Dnr IF-2024-00012
-Redovisning av domar och beslut
-
-Beslut
-
-Nämnden för Individ & Familjeomsorg noterar redovisningen av inkomna domar och
-beslut till protokollet.
-
-Sammanfattning av ärendet
-Redovisning för perioden 2026-05-01 – 2026-05-31.
-
-Förvaltningsrätten i Göteborg, FR
-
-Beslut meddelat i mål nr. 5267-26, daterad 2026-04-29, saken; den enskilde har
-överklagat nämndens beslut gällande särskilt boende enligt socialtjänstlagen
-(2025:400). Förvaltningsrätten avslår yrkandet om att den enskilde interimistiskt ska
-beviljas insatsen särskilt boende.
-
-Kommunfullmäktige, KF
-
-KF 2026-05-05 § 74 Rapport från nämnden för Individ & Familjeomsorg av ej
-verkställda beslut enligt socialtjänstlagen, SoL, och lagen om stöd och service till
-vissa funktionshindrade, LSS, fjärde kvartalet 2025
-KF 2026-05-05 § 76 Ombudgeteringar och resultatfonder 2025
-
-KF 2026-05-05 § 77 Omfördelning av statsbidrag 2025 avseende stöd till kommuner
-i omställningen till en långsiktigt hållbar, mer förebyggande och kunskapsbaserad
-socialtjänst
-
-KF 2026-05-05 § 80 Antagande av policy och riktlinjer för inköpsverksamheten i
-Kungsbacka kommun
-
-Beslutsunderlag
-
-Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2026-06-02
-
-Beslutsgång
-
-Ordförande Tommy Rydfeldt (L) prövar om nämnden kan notera redovisningen av
-inkomna domar och beslut till protokollet, och finner att nämnden bifaller det.
-
-Det här dokumentet är digitalt signerat
-Transaktionsidentitet: B04B7BD1E35A9B5A501DCB5987BA0018933B970B09
-Transaktionsidentitet: 3D85474128AF2210D9EE84EEC12DEB724BE4FB9731
-
-<!-- sida 18 -->
-
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          18 (20)
 Nämnden för Individ & Familjeomsorg
 Datum
@@ -860,7 +808,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: B04B7BD1E35A9B5A501DCB5987BA0018933B970B09
 Transaktionsidentitet: 3D85474128AF2210D9EE84EEC12DEB724BE4FB9731
 
-<!-- sida 19 -->
+<!-- sida 18 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          19 (20)
 Nämnden för Individ & Familjeomsorg
@@ -903,7 +851,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: B04B7BD1E35A9B5A501DCB5987BA0018933B970B09
 Transaktionsidentitet: 3D85474128AF2210D9EE84EEC12DEB724BE4FB9731
 
-<!-- sida 20 -->
+<!-- sida 19 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          20 (20)
 Nämnden för Individ & Familjeomsorg
@@ -935,7 +883,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: B04B7BD1E35A9B5A501DCB5987BA0018933B970B09
 Transaktionsidentitet: 3D85474128AF2210D9EE84EEC12DEB724BE4FB9731
 
-<!-- sida 21 -->
+<!-- sida 20 -->
 
 Undertecknat    av följande personer
 
@@ -951,7 +899,7 @@ Underskriftstjänst:     twoday Underskriftstjänst
 
 © twoday
 
-<!-- sida 22 -->
+<!-- sida 21 -->
 
 Dokumentet   är signerat av Ciceron DoÄ
 

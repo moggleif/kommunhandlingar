@@ -5,19 +5,19 @@ datum: 2025-10-16
 lopnr: null
 typ: protokoll
 namn: null
-kallnyckel: sitevision:18.2e03992c199c92193a1d59d5
-tidigare_kallnycklar: []
+kallnyckel: sitevision:18.33df50461a157e1b9001d55
+tidigare_kallnycklar: [sitevision:18.2e03992c199c92193a1d59d5]
 arenden: null
-kalla_url: https://kungsbacka.se/download/18.2e03992c199c92193a1d59d5/1760690539667/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202025-10-16,%20%C2%A7%C2%A7%20125-142.pdf
-sha256: 3154467aec08e4911498d633bdf26c2cfc916a16a1c88565b0360c8744e32f97
-bytes: 491285
-sidor: 31
-hamtad: 2026-10-14T09:59:33+00:00
-konverterad: 2026-10-14T09:59:39+00:00
+kalla_url: https://kungsbacka.se/download/18.33df50461a157e1b9001d55/1792480844340/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202025-10-16,%20%C2%A7%C2%A7%20125-142.pdf
+sha256: a6a2250e52051c59af7079ce56280f10dfd1c08ead35f80b00b48c3e26c8946e
+bytes: 456892
+sidor: 30
+hamtad: 2026-10-22T06:14:11+00:00
+konverterad: 2026-10-22T06:14:17+00:00
 pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
@@ -1174,58 +1174,6 @@ Transaktionsidentitet: 4141A567B7D953FDAC9847FC85AFB651AD501AFE40
 
 <!-- sida 27 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          27 (29)
-Nämnden för Individ & Familjeomsorg
-Datum
-2025-10-16
-
-§ 140                      Dnr IF-2024-00012
-Redovisning av domar och beslut
-
-Beslut
-
-Nämnden för Individ & Familjeomsorg noterar redovisningen av inkomna domar och
-beslut till protokollet.
-
-Sammanfattning av ärendet
-Redovisning för perioden 2025-09-01 – 2025-09-30.
-
-Förvaltningsrätten i Göteborg, FR
-Beslut meddelat i mål nr. 10458-25, daterad 2025-09-05, saken; den enskilde har
-överklagat nämndens beslut gällande åtgärd enligt 6 kap 13 a § föräldrabalken, FB;
-nu fråga om inhibition. Förvaltningsrätten beslutar att nämndens beslut om
-avlösarservice i hemmet utan vårdnadshavaren samtycke inte ska gälla i avvaktan på
-att målet avgörs slutligt eller rätten beslutar om annat (inhibition).
-
-Inspektionen för vård och omsorg, IVO
-Dnr IF-2025-00258. Inspektionen för vård och omsorg, dnr 3.1.2 - 15886/2025,
-avskriver ärendet för vidare handläggning då anmälan är felaktig då den inte har
-gjorts av berörd nämnd eller av en behörig person som utsetts av nämnden att göra
-lex Sarah-anmälan.
-
-Kommunfullmäktige, KF
-KF 2025-09-09, § 175 Rapport från nämnden för Individ & Familjeomsorg av ej
-verkställda beslut enligt socialtjänstlagen, SoL, och lagen om stöd och service till
-vissa funktionshindrade, LSS, första kvartalet 2025
-
-KF 2025-09-09, § 181 Svar på motion från Johan Tolinsson (S) m.fl. om ökat
-samarbete för barn och elevers hälsa
-
-Beslutsunderlag
-
-Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2025-10-01
-
-Beslutsgång
-
-Ordförande Tommy Rydfeldt (L) prövar om nämnden kan notera redovisningen av
-inkomna domar och beslut till protokollet, och finner att nämnden bifaller det.
-
-Det här dokumentet är digitalt signerat
-Transaktionsidentitet: 3C1413C5B99E013185BF7C3FC861CF4F707B9A3C1B
-Transaktionsidentitet: 4141A567B7D953FDAC9847FC85AFB651AD501AFE40
-
-<!-- sida 28 -->
-
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          28 (29)
 Nämnden för Individ & Familjeomsorg
 Datum
@@ -1272,7 +1220,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 3C1413C5B99E013185BF7C3FC861CF4F707B9A3C1B
 Transaktionsidentitet: 4141A567B7D953FDAC9847FC85AFB651AD501AFE40
 
-<!-- sida 29 -->
+<!-- sida 28 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          29 (29)
 Nämnden för Individ & Familjeomsorg
@@ -1289,7 +1237,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 3C1413C5B99E013185BF7C3FC861CF4F707B9A3C1B
 Transaktionsidentitet: 4141A567B7D953FDAC9847FC85AFB651AD501AFE40
 
-<!-- sida 30 -->
+<!-- sida 29 -->
 
 Undertecknat    av följande personer
 
@@ -1305,7 +1253,7 @@ Underskriftstjänst:     twoday Underskriftstjänst
 
 © twoday
 
-<!-- sida 31 -->
+<!-- sida 30 -->
 
 Dokumentet   är signerat av Ciceron DoÄ
 

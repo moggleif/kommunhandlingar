@@ -1,0 +1,11 @@
+Övrig Last,"Last som de mindre viktiga funktionerna och utrustning är
+inkopplade på. (Oprioriterad last)"
+Viktig Last:,"Last som kritiska funktioner och utrustning är inkopplade på.
+Försörjs efter ca 15 sekunder när reservkraften har startat.
+(Prioriterad last)"
+Mycket Viktig Last:,"Boendets mest kritiska last. Detta är inkopplat på system och
+utrustning som inte tolererar avbrott. Oftast så finns vanligtvis
+an anslutning till avbrottsfri kraft (UPS).
+(Avbrottsfri last)"
+Max last:,"Högsta förekommande last vid normal drift. Anläggningen
+drivs då helt från det allmänna distributionsnätet."

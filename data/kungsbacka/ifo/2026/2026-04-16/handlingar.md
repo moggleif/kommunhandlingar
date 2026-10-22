@@ -5,19 +5,19 @@ datum: 2026-04-16
 lopnr: null
 typ: handlingar
 namn: null
-kallnyckel: sitevision:18.673b6e6519d7224d2e858b91
-tidigare_kallnycklar: []
+kallnyckel: sitevision:18.33df50461a157e1b900193b
+tidigare_kallnycklar: [sitevision:18.673b6e6519d7224d2e858b91]
 arenden: null
-kalla_url: https://kungsbacka.se/download/18.673b6e6519d7224d2e858b91/1776105800359/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20handlingar%202026-04-16.pdf
-sha256: 71f4b8e103fcaf791de37734189cb2980236a89762b096581351678eb48f29de
-bytes: 2009951
-sidor: 101
-hamtad: 2026-10-14T10:14:45+00:00
-konverterad: 2026-10-14T10:14:56+00:00
+kalla_url: https://kungsbacka.se/download/18.33df50461a157e1b900193b/1792480119275/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20handlingar%202026-04-16.pdf
+sha256: ccb1d0dc3a7a75a94a56e866492d5f60b1075810d6acbd99e45b2020a2850322
+bytes: 1892965
+sidor: 99
+hamtad: 2026-10-22T06:16:27+00:00
+konverterad: 2026-10-22T06:16:43+00:00
 pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
@@ -2105,71 +2105,6 @@ TJÄNSTESKRIVELSE
 Datum
 2026-03-31
 Diarienummer
-IF-2024-00012
-
-Redovisning av domar och beslut, april 2026
-
-Förslag till beslut
-Nämnden för Individ & Familjeomsorg noterar redovisningen av inkomna domar och beslut till
-
-protokollet.
-
-Sammanfattning av ärendet
-
-Redovisning för perioden 2026-03-01 – 2026-03-31.
-
-Förvaltningsrätten i Göteborg, FR
-
-Beslut meddelat i mål nr. 2395-26, daterad 2026-03-10, saken; den enskilde har önskemål om byte av
-offentligt biträde gällande ärende om omedelbart omhändertagande enligt lagen (1990:52) med
-särskilda bestämmelser om vård av unga. Förvaltningsrätten beslutar om byte av offentligt biträde.
-Dom meddelad i mål nr. 11306-25, daterad 2026-03-11, saken; den enskilde har överklagat nämndens
-beslut gällande bostad med särskild service enligt lagen (1993:387) om stöd och service till vissa
-
-funktionshindrade, LSS. Förvaltningsrätten avslår överklagandet.
-
-Kommunfullmäktige, KF
-KF 2026-03-03 § 27 Rapport från nämnden för Individ & Familjeomsorg av ej verkställda beslut enligt
-socialtjänstlagen, SoL, och lagen om stöd och service till vissa funktionshindrade, LSS, tredje kvartalet
-2025
-
-KF 2026-03-03 § 29 Revidering av riktlinjer och regler för förmåner till förtroendevalda
-
-Kommunstyrelsen, KS
-
-KS 2026-03-17 § 58 Intern kontroll 2025 för Kungsbacka kommun
-KS 2026-03-17 § 59 Utdelning ur Arvid och Hildur Anderssons donationsfond 2025 (Individ &
-Familjeomsorg)
-
-1 (2)
-Kungsbacka kommun
-434 81 Kungsbacka
-Josefine Jönsson
-0300-838345                                                   Besöksadress
-Nämndsekreterare                                         Stadshuset, Storgatan 37
-Telefon 0300-83 40 00
-www.kungsbacka.se
-
-<!-- sida 99 -->
-
-KUNGSBACKA  KOMMUN
-2 (2)
-
-Beslutsunderlag
-
-Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2026-03-31
-
-Göran Hjertstrand
-
-Förvaltningschef
-
-<!-- sida 100 -->
-
-TJÄNSTESKRIVELSE
-
-Datum
-2026-03-31
-Diarienummer
 IF-2023-00005
 
 Redovisning av synpunkter och klagomål, april 2026
@@ -2214,7 +2149,7 @@ Nämndsekreterare                                         Stadshuset, Storgatan 
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 101 -->
+<!-- sida 99 -->
 
 TJÄNSTESKRIVELSE
 

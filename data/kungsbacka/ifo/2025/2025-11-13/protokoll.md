@@ -5,19 +5,19 @@ datum: 2025-11-13
 lopnr: null
 typ: protokoll
 namn: null
-kallnyckel: sitevision:18.7573952919a7bcb3bbe10680
-tidigare_kallnycklar: []
+kallnyckel: sitevision:18.33df50461a157e1b9001d6a
+tidigare_kallnycklar: [sitevision:18.7573952919a7bcb3bbe10680]
 arenden: null
-kalla_url: https://kungsbacka.se/download/18.7573952919a7bcb3bbe10680/1763107819483/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202025-11-13,%20%C2%A7%C2%A7%20143-158.pdf
-sha256: 3a061cecc8d1fc79e2bc351d4001d20034b34bfb909085f0ea957ec295ea288e
-bytes: 400710
-sidor: 29
-hamtad: 2026-10-14T09:59:39+00:00
-konverterad: 2026-10-14T09:59:46+00:00
+kalla_url: https://kungsbacka.se/download/18.33df50461a157e1b9001d6a/1792480853489/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202025-11-13,%20%C2%A7%C2%A7%20143-158.pdf
+sha256: e773936a0d642d1e0a761d1c8b9ce511b1f5386e7409dbc8a80b87a325a32c95
+bytes: 362227
+sidor: 27
+hamtad: 2026-10-22T06:14:17+00:00
+konverterad: 2026-10-22T06:14:24+00:00
 pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
@@ -983,92 +983,6 @@ Transaktionsidentitet: A10D99972BAEE8E6ABD556325A44A31CEED0DE4646
 
 <!-- sida 23 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          23 (27)
-Nämnden för Individ & Familjeomsorg
-Datum
-2025-11-13
-
-§ 155                      Dnr IF-2024-00012
-Redovisning av domar och beslut
-
-Beslut
-
-Nämnden för Individ & Familjeomsorg noterar redovisningen av inkomna domar och
-beslut till protokollet.
-
-Sammanfattning av ärendet
-Redovisning för perioden 2025-10-01 – 2025-10-31.
-
-Förvaltningsrätten i Göteborg, FR
-Dom meddelad i mål nr. 10592-25, daterad 2025-10-01, saken; nämnden har ansökt
-om beredande av vård enligt lagen (1988:870) om vård av missbrukare i vissa fall,
-LVM. Förvaltningsrätten beslutar att den enskilde ska beredas vård med stöd av 4 §
-LVM. Domen gäller omedelbart i denna del.
-
-Beslut meddelat i mål nr. 11167-25, daterad 2025-10-10, saken; den enskilde har
-överklagat nämndens skrivelse gällande handläggning; nu fråga om överklagbarhet.
-Förvaltningsrätten avvisar talan och skriver av yrkandet om att förvaltningsrätten ska
-förordna offentligt biträde.
-
-Beslut meddelat i mål nr. 11855-25, daterad 2025-10-13, saken; den enskilde har
-överklagat nämndens beslut gällande avlösarservice enligt lagen (1993:387) om stöd
-och service till vissa funktionshindrade (LSS); nu fråga om interimistiskt
-förordnande. Förvaltningsrätten förordnar interimistiskt att den enskilde har rätt till
-avlösarservice enligt 9 § 5 LSS i avvaktan på att målet avgörs slutligt eller rätten
-beslutar om annat.
-
-Dom meddelad i mål nr. 10619-25, daterad 2025-10-13, saken; nämnden har ansökt
-om beredande av vård enligt lagen (1990:52) med särskilda bestämmelser om vård
-av unga, LVU. Förvaltningsrätten beslutar att den enskilde ska beredas vård med
-stöd av 1 § andra stycket och 3 § LVU. Domen gäller omedelbart i denna del.
-Dom meddelad i mål nr. 6197-25, daterad 2025-10-21, saken; den enskilde har
-överklagat nämndens beslut gällande bistånd i form av särskilt boende enligt
-
-socialtjänstlagen (2001:453), SoL. Förvaltningsrätten avslår överklagandet.
-
-Inspektionen för vård och omsorg, IVO
-
-Dnr IF-2025-00098. Inspektionen för vård och omsorg, dnr 3.3.1-03824/2024-9,
-avslutar ärendet. IVO ansöker inte om särskild avgift då tiden för att ansöka har
-passerat. Särskild avgift får endast dömas ut om förvaltningsrätten delgett kommunen
-ansökan inom två år från tidpunkten för det gynnande beslutet alternativt avbrott i
-verkställigheten (28 e § lag (1993:387) om stöd och service till vissa
-funktionshindrade).
-
-Det här dokumentet är digitalt signerat
-Transaktionsidentitet: 35BF1FB34B05934F850832F60BE9897DDB633CF518
-Transaktionsidentitet: A10D99972BAEE8E6ABD556325A44A31CEED0DE4646
-
-<!-- sida 24 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          24 (27)
-Nämnden för Individ & Familjeomsorg
-Datum
-2025-11-13
-
-Dnr IF-2025-00306. Inspektionen för vård och omsorg, dnr 3.8.4-27804/2025, avslår
-nämndens ansökan enligt 29 kap 11 § socialtjänstlagen (2025:400), SoL, om
-överflyttning av ärende till annan kommun.
-
-Kommunfullmäktige, KF
-
-KF 2025-10-07, § 195 Revidering av OPF-KL 18 (OPF-KR 22 Kungsbacka) till
-OPF-KR 25 - Bestämmelser om omställningsstöd, pension och familjeskydd för
-förtroendevalda
-
-Beslutsunderlag
-Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2025-10-28
-
-Beslutsgång
-Ordförande Tommy Rydfeldt (L) prövar om nämnden kan notera redovisningen av
-inkomna domar och beslut till protokollet, och finner att nämnden bifaller det.
-
-Det här dokumentet är digitalt signerat
-Transaktionsidentitet: 35BF1FB34B05934F850832F60BE9897DDB633CF518
-Transaktionsidentitet: A10D99972BAEE8E6ABD556325A44A31CEED0DE4646
-
-<!-- sida 25 -->
-
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          25 (27)
 Nämnden för Individ & Familjeomsorg
 Datum
@@ -1102,7 +1016,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 35BF1FB34B05934F850832F60BE9897DDB633CF518
 Transaktionsidentitet: A10D99972BAEE8E6ABD556325A44A31CEED0DE4646
 
-<!-- sida 26 -->
+<!-- sida 24 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          26 (27)
 Nämnden för Individ & Familjeomsorg
@@ -1137,7 +1051,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 35BF1FB34B05934F850832F60BE9897DDB633CF518
 Transaktionsidentitet: A10D99972BAEE8E6ABD556325A44A31CEED0DE4646
 
-<!-- sida 27 -->
+<!-- sida 25 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          27 (27)
 Nämnden för Individ & Familjeomsorg
@@ -1169,7 +1083,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 35BF1FB34B05934F850832F60BE9897DDB633CF518
 Transaktionsidentitet: A10D99972BAEE8E6ABD556325A44A31CEED0DE4646
 
-<!-- sida 28 -->
+<!-- sida 26 -->
 
 Undertecknat    av följande personer
 
@@ -1185,7 +1099,7 @@ Underskriftstjänst:     twoday Underskriftstjänst
 
 © twoday
 
-<!-- sida 29 -->
+<!-- sida 27 -->
 
 Dokumentet   är signerat av Ciceron DoÄ
 

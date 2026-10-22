@@ -1,0 +1,87 @@
+Risk,"Konsekvens, beskriv i
+ord samt ange siffra
+(1–4)",Sannolikhet (1–4),"Åtgärd, inklusive ansvarig för
+genomförande"
+"Obehörig åtkomst till e-
+tjänsten genom stöld av
+extern användares
+e-legitimation",1. Försumbar,"1. Ytterst liten
+sannolikhet att
+skadan kommer
+att inträffa under
+behandlingens tid
+då det inte finns
+möjlighet att se
+tillsynsärenden
+under Mina sidor",
+"Obehörig åtkomst till e-
+tjänsten genom stöld av
+anställds e-legitimation
+och/eller inloggnings-
+uppgifter","2. Måttlig, eftersom det
+endast går att se anmälan
+men inte göra ändringar
+i anmälan, eftersom det
+automatiskt redan är
+inlämnat och registrerat i
+ärendehanteringssystemet
+ByggR","1. Ytterst liten
+sannolikhet att
+skadan kommer att
+inträffa under
+behandlingen","Uppföljning av att behörighetsrutiner
+följs
+Ansvarig för genomförande:
+Tjänsteutvecklare"
+"Obehörig åtkomst till e-
+tjänsten genom fel tilldelad
+behörighet",1. Försumbar,"2. Kommer sannolikt
+att inträffa någon
+gång","Uppföljning av att behörighetsrutiner
+följs
+Ansvarig för genomförande:
+Tjänsteutvecklare"
+"Obehörig åtkomst till e-
+tjänsten genom missbruk
+av egen behörighet",1. Försumbar,"1. Inträffar mycket
+sällan","Uppföljning av att behörighetsrutiner
+följs
+Ansvarig för genomförande:
+Tjänsteutvecklare"
+"Obehörig ändring genom
+stöld av extern användares
+e-legitimation",1. Försumbar,"1. Ytterst liten
+sannolikhet att
+skadan kommer
+att inträffa under
+behandlingens tid
+då det inte finns
+möjlighet att se
+tillsynsärenden
+under Mina sidor",
+"Obehörig ändring av
+användare med behörighet
+att göra ändringar i
+inskickade ärenden",1. Försumbar,"2. Skadan kommer
+sannolikt inträffa
+någon gång.","Uppföljning och utbildning kring
+behörigheter i verksamhetssystemet
+ByggR
+Ansvarig för genomförande:
+Tjänsteutvecklare"
+"Förlust av uppgift vid
+brand eller stöld av server","3. Betydande, men beror
+på hur stor förlusten blir","1. Inträffar mycket
+sällan","Uppföljning av krav på leverantören
+angående säkerhet.
+Ansvarig för genomförande:
+Tjänsteutvecklare plattform"
+"Otillgängliga uppgifter vid
+t.ex. avbrott","1. Försumbar, men är
+beroende på omfattning av
+t.ex. avbrott","1. Inträffar mycket
+sällan","Informationsinsatser angående
+eventuella planerade och oplanerade
+driftstopp.
+Ansvarig för genomförande:
+Tjänsteutvecklare plattform"

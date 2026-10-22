@@ -5,19 +5,19 @@ datum: 2026-03-19
 lopnr: null
 typ: handlingar
 namn: null
-kallnyckel: sitevision:18.5deddcf719cc8cfc836d71de
-tidigare_kallnycklar: []
+kallnyckel: sitevision:18.33df50461a157e1b90018e9
+tidigare_kallnycklar: [sitevision:18.5deddcf719cc8cfc836d71de]
 arenden: null
-kalla_url: https://kungsbacka.se/download/18.5deddcf719cc8cfc836d71de/1773657189159/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20handlingar%202026-03-19.pdf
-sha256: 6a78f8be9588d4dab41fd1539380e8ee743a76c99db31358cf7642fbf1b0ae32
-bytes: 2672662
-sidor: 84
-hamtad: 2026-10-14T10:14:34+00:00
-konverterad: 2026-10-14T10:14:45+00:00
+kalla_url: https://kungsbacka.se/download/18.33df50461a157e1b90018e9/1792480094876/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20handlingar%202026-03-19.pdf
+sha256: 553c7a46e0456a635372a070e2aa9800e5a3d4dfadd15cb765cf94aa7b2c4529
+bytes: 2555435
+sidor: 82
+hamtad: 2026-10-22T06:16:09+00:00
+konverterad: 2026-10-22T06:16:27+00:00
 pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [1, 10, 11, 12, 16, 18, 19]
 tolkade: []
@@ -3065,68 +3065,6 @@ TJÄNSTESKRIVELSE
 Datum
 2026-03-02
 Diarienummer
-IF-2024-00012
-
-Redovisning av domar och beslut, mars 2026
-
-Förslag till beslut
-Nämnden för Individ & Familjeomsorg noterar redovisningen av inkomna domar och beslut till
-
-protokollet.
-
-Sammanfattning av ärendet
-
-Redovisning för perioden 2026-02-01 – 2026-02-28.
-
-Förvaltningsrätten i Göteborg, FR
-
-Dom meddelad i mål nr. 13746-25, daterad 2026-02-27, saken; den enskilde har överklagat nämndens
-beslut gällande personlig assistans enligt lagen (1993:387) om stöd och service till vissa
-funktionshindrade, LSS. Förvaltningsrätten avslår överklagandet.
-Dom meddelad i mål nr. 13974-25, daterad 2026-02-27, saken; den enskilde har överklagat nämndens
-beslut gällande insats enligt socialtjänstlagen (2025:400), SoL. Förvaltningsrätten avslår
-
-överklagandet.
-Dom meddelad i mål nr. 15275-25, daterad 2026-02-27, saken; den enskilde har överklagat nämndens
-beslut gällande bistånd enligt socialtjänstlagen (2025:400), SoL. Förvaltningsrätten avslår yrkandet om
-muntlig förhandling. Förvaltningsrätten avslår överklagandet.
-
-Kommunstyrelsen, KS
-
-KS 2026-02-17 § 28 Lönekartläggning 2025 och handlingsplan 2026
-
-KS 2026-02-17 § 32 Begäran om medel för trygg uppväxt – Koordinator för att möjliggöra tidiga
-insatser, motverka normbrytande beteende, hjälp till självhjälp och stärkt stöd till familjehem och
-jourfamiljer (Individ & Familjeomsorg)
-
-1 (2)
-Kungsbacka kommun
-434 81 Kungsbacka
-Josefine Jönsson
-0300-838345                                                   Besöksadress
-Nämndsekreterare                                         Stadshuset, Storgatan 37
-Telefon 0300-83 40 00
-www.kungsbacka.se
-
-<!-- sida 82 -->
-
-KUNGSBACKA  KOMMUN
-2 (2)
-
-Beslutsunderlag
-
-Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2026-03-02
-
-Göran Hjertstrand
-Förvaltningschef
-
-<!-- sida 83 -->
-
-TJÄNSTESKRIVELSE
-
-Datum
-2026-03-02
-Diarienummer
 IF-2023-00005
 
 Redovisning av synpunkter och klagomål, mars 2026
@@ -3167,7 +3105,7 @@ Nämndsekreterare                                         Stadshuset, Storgatan 
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 84 -->
+<!-- sida 82 -->
 
 TJÄNSTESKRIVELSE
 

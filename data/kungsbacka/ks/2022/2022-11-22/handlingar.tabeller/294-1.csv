@@ -1,0 +1,19 @@
+A 16,"Tidsuppskattning
+Utstakning och lägeskontroll",,,,,,,
+Ärendetyp,,,Start av ärende,"Utredning och
+beräkning",Mätning,"Avslut av
+ärende",Summa tid,Avgift
+A 16.1,"Utstakning av huvudbyggnad samt komplementbyggnad vid
+sammatillfälle (vid utstakning av flera likartade byggnader inom
+samma uppdrag och exploateringsområde reduceras avgiften med
+30%). Moms tillkommer.",Grovutstakning,"0,5",1,3,"0,5",5,6 250 kr
+A 16.2,,Finutstakning,"0,5",1,5,"0,5",7,8 750 kr
+A 16.3,,Grov- och finutstakning,"0,5",1,8,"0,5",10,12 500 kr
+A 16.4,Utstakning av enbart komplementbyggnad. Moms tillkommer.,Grovutstakning,"0,5","0,5",2,0,3,3 750 kr
+A 16.5,,Finutstakning,"0,5","0,5",3,0,4,5 000 kr
+A 16.6,Utstakning av avstånd till gräns vid tillbyggnad. Moms tillkommer.,,"0,5",0,"2,5","0,5","3,5",4 375 kr
+A 16.7,"Lägeskontroll (vid lägeskontroll av flera likartade byggnader inom
+samma uppdrag och exploateringsområde reduceras avgiften med
+30%). Moms tillkommer.",,0,0,3,"0,5","3,5",4 375 kr
+A 16.8,B-fix (byggfix). Moms tillkommer.,,0,0,1,"0,5","1,5",1 875 kr
+A 16.9,Godkännande av sakkunnig för utstakning i egen regi,,"1,5",0,0,0,"1,5",1 875 kr
