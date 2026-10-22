@@ -73,7 +73,7 @@ INITIATIV = Slag(
     saker="Ärendena",
     faser={
         "vackt": (CIRKEL, "väckt"),
-        "beredning": (f'<path d="M3 2h10L3 14h10z" {DRAG}/>', "beredning eller svar"),
+        "beredning": (f'<path d="M3 2h10L3 14h10z" {DRAG}/>', "beredning"),
         "bifall": (FYLLD + BOCK, "bifall"),
         "avslag": (FYLLD + KRYSS, "avslag"),
         "besvarat": (f'<path d="M2 2.5h12v8H7.5L4 14v-3.5H2z" {DRAG}/>', "besvarat"),
