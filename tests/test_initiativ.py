@@ -114,7 +114,7 @@ class TestSidan(unittest.TestCase):
         self.assertIn('data-urval="av-alliansen">Alliansen</button>', html)
         self.assertIn('data-urval="bifall">Bifall</button>', html)
         self.assertNotIn('data-urval="senaste"', html)
-        self.assertIn("<h3>Per avsändare</h3>", html)
+        self.assertIn("<h3>Ärenden per avsändare</h3>", html)
         self.assertIn("<dt>S</dt><dd>1</dd>", html)
         self.assertIn("<dt>bifall</dt><dd>1</dd>", html)
 
@@ -137,8 +137,8 @@ class TestBygg(unittest.TestCase):
         bygg(rot, ut, REPO, TID)
         sidan = ut / "exempelby" / "fsn" / "initiativ.html"
         self.assertIn("Initiativärenden – ", sidan.read_text())
-        organet = (ut / "exempelby" / "fsn.html").read_text()
-        self.assertIn('href="fsn/initiativ.html">Initiativärenden över tid', organet)
+        lank = 'href="fsn/initiativ.html">Initiativärenden över tid'
+        self.assertIn(lank, (ut / "exempelby" / "fsn.html").read_text())
         self.assertFalse((ut / "exempelby" / "fsn" / "lokalbehov.html").exists())
 
 

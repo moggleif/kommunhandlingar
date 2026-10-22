@@ -1,4 +1,4 @@
-"""Krav: K18, K26 och K36 i docs/02-KRAV.md, ADR-0023.
+"""Krav: K18, K26, K36 och K37 i docs/02-KRAV.md, ADR-0023.
 Test: tests/test_webbplats_dokument.py, tests/test_mal.py, tests/test_lokalbehov.py,
 tests/test_initiativ.py."""
 

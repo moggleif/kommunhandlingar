@@ -64,13 +64,13 @@ def sparsida(mall: Mall, vy: Vy, stegen: list[Steg]) -> str:
 # Sakerna i den ordning de först står, med stegen i år- och fasordning.
 def per_sak(slag: Slag, stegen: list[Steg]) -> list[Sak]:
     namn = dict.fromkeys(s.namn for s in sorted(stegen, key=lambda s: s.ar))
-    senaste = max((s.ar for s in stegen if s.fas == slag.aktuell), default=None)
+    senaste = senaste_ar(slag, stegen)
     return [samla(slag, [s for s in stegen if s.namn == n], senaste) for n in namn]
 
 
 def samla(slag: Slag, stegen: list[Steg], senaste: int | None) -> Sak:
     fas = list(slag.faser)
-    stegen = sorted(stegen, key=lambda s: (s.ar, fas.index(s.fas)))
+    stegen = sorted(stegen, key=lambda s: ordning(s, fas))
     markor = [markor_for(v) for v in avsandarna(slag, stegen)]
     if any(s.ar == senaste and s.fas == slag.aktuell for s in stegen):
         markor.append("senaste")
@@ -81,15 +81,34 @@ def markor_for(avsandare: str) -> str:
     return "av-" + re.sub(r"\W+", "-", avsandare.lower()).strip("-")
 
 
+def senaste_ar(slag: Slag, stegen: list[Steg]) -> int | None:
+    return max((s.ar for s in stegen if s.fas == slag.aktuell), default=None)
+
+
+# Inom ett år kommer den första fasen först och sedan källornas datum, så
+# att en återrapport i oktober står före ett beslut i november.
+def ordning(steg: Steg, faser: list[str]) -> tuple[int, bool, str, int]:
+    datum = steg.kalla.split("/")[2]
+    return steg.ar, steg.fas != faser[0], datum, faser.index(steg.fas)
+
+
 def sammandrag(slag: Slag, sakerna: list[Sak]) -> str:
     per_fas = [
         (betyder, sum(any(s.fas == fas for s in sak[1]) for sak in sakerna))
         for fas, (_, betyder) in slag.faser.items()
     ]
-    rutor = ruta("Per fas", per_fas, "som någon gång nått fasen")
+    rutor = ruta(
+        f"{slag.antal.capitalize()} per fas",
+        per_fas,
+        f"{slag.antal} som någon gång nått fasen",
+    )
     if slag.avsandare:
         vem = Counter(v for sak in sakerna for v in avsandarna(slag, sak[1]))
-        rutor += ruta("Per avsändare", sorted(vem.items()), "per avsändare")
+        rutor += ruta(
+            f"{slag.antal.capitalize()} per avsändare",
+            sorted(vem.items()),
+            f"{slag.antal} per avsändare",
+        )
     return f'<div class="sammandrag">{rutor}</div>'
 
 
@@ -104,8 +123,7 @@ def ruta(rubrik: str, siffror: list[tuple[str, int]], forklaring: str) -> str:
 # Knapparna visas av målsidans skript; utan det står allt.
 def urval(slag: Slag, stegen: list[Steg]) -> str:
     val = [("alla", "Alla")]
-    if slag.aktuell:
-        senaste = max(s.ar for s in stegen if s.fas == slag.aktuell)
+    if senaste := senaste_ar(slag, stegen):
         val.append(("senaste", f"I {slag.rubrik.lower()} {senaste}"))
     val += [(fas, betyder.capitalize()) for fas, (_, betyder) in slag.faser.items()][1:]
     val += [(markor_for(v), v) for v in sorted(avsandarna(slag, stegen))]

@@ -139,6 +139,14 @@ class TestSidan(unittest.TestCase):
         self.assertIn('data-slag="lokalbehov prioritet lokalplan utfort senaste"', html)
         self.assertIn('data-urval="senaste">I lokalbehov 2024', html)
         self.assertIn("<dt>i lokalplanen</dt><dd>1</dd>", html)
+        self.assertIn("<h3>Behov per fas</h3>", html)
+
+    def test_utan_steg_i_namndens_lokalbehov_inget_urval_for_senaste_aret(self):
+        with lasta() as stegen:
+            utan = [s for s in stegen if s.fas != "lokalbehov"]
+            vy = Vy.over(LOKALBEHOV, exempelby(), utan)
+            html = sparsida(Mall([exempelby()], REPO, TID), vy, utan)
+        self.assertNotIn('data-urval="senaste"', html)
         self.assertIn("<script>", html)
 
     def test_kallan_namnger_organet_och_sidorna(self):

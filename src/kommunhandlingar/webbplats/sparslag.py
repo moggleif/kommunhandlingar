@@ -22,6 +22,7 @@ LOKALBEHOV = Slag(
     rubrik="Lokalbehov",
     sak="Behov",
     saker="Behoven",
+    antal="behov",
     faser={
         "lokalbehov": (CIRKEL, "i nämndens lokalbehov"),
         "prioritet": (FYLLD, "prioriterat"),
@@ -71,6 +72,7 @@ INITIATIV = Slag(
     rubrik="Initiativärenden",
     sak="Ärende",
     saker="Ärendena",
+    antal="ärenden",
     faser={
         "vackt": (CIRKEL, "väckt"),
         "beredning": (f'<path d="M3 2h10L3 14h10z" {DRAG}/>', "beredning"),

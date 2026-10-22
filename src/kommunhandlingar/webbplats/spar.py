@@ -27,6 +27,7 @@ class Slag:
     rubrik: str
     sak: str
     saker: str
+    antal: str
     # Fasens ikon och vad den betyder, i fasernas ordning.
     faser: dict[str, tuple[str, str]]
     inledning: str

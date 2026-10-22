@@ -1752,6 +1752,12 @@ skillnaderna:
   (till exempel fyra partier uppräknade med namn). Den prövas mot
   källans sida som andra värden. Ledamöternas namn står inte i filen;
   de står i källan ett klick bort.
+- **Ordningen** inom ett år är den första fasen först och sedan
+  källornas datum, så att en återrapport står före ett senare beslut
+  samma år. Det gäller också lokalbehoven.
+- **Ett beslut** tas ur protokollet; ur handlingarna bara när protokollet
+  inte finns i poolen än, och källan byts när det kommer, som för
+  lokalbehoven.
 - **Sidan** visar avsändaren bredvid ärendets namn och på kortet,
   räknar ärendena per fas och per avsändare och har ett urval per
   avsändare. I `data-slag` står avsändaren som `av-<avsändaren>`, med

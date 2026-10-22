@@ -67,7 +67,8 @@ värden utan någon ny kolumn.
 ### Consequences
 
 * Good, eftersom en tredje sida av samma slag bara är en ny post i
-  `sparslag.py`, en CSV och en text i dokumentationen.
+  `sparslag.py`, en CSV, färger för nya faser i `spar.css` och en text i
+  dokumentationen.
 * Good, eftersom avsändaren går att kontrollera med ett klick och sidan
   kan visa vilka partier som väcker initiativ och hur det går.
 * Neutral, eftersom lokalbehovssidans adresser till korten byter namn
@@ -130,6 +131,10 @@ att inte gissa.
 Under genomgången visade det sig att flera möten har protokollet i flera
 filer, och att några initiativ bara står i den andra filen. En sökning
 som bara läser `protokoll.md` missar dem.
+
+Ett initiativ som bygger på ett tidigare, som Alliansens yrkande
+2021-11-10 efter utredningen av initiativet från mars samma år, har eget
+diarienummer och står som ett eget ärende.
 
 Ett protokoll (2024-06-12) har en beslutstext som säger att
 förvaltningen får i uppdrag att utreda, medan beslutsgången och
