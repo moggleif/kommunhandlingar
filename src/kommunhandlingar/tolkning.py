@@ -1,4 +1,5 @@
-"""Krav: K15 i docs/02-KRAV.md, ADR-0017. Test: tests/test_figurer.py.
+"""Krav: K15 och K34 i docs/02-KRAV.md, ADR-0017 och ADR-0055.
+Test: tests/test_figurer.py.
 
 Verktygen för den som tolkar figurerna (docs/03-ARKITEKTUR.md#tolkade-figurer):
 
@@ -8,7 +9,8 @@ Verktygen för den som tolkar figurerna (docs/03-ARKITEKTUR.md#tolkade-figurer):
   dokumentets original, i delar som i steg 2 (ADR-0049), prövar att sha256
   stämmer med front matter och sparar de otolkade figursidorna som PNG i
   katalogen. PDF:en raderas.
-  Ett dokument utan otolkade sidor hämtas inte.
+  Ett dokument utan otolkade sidor hämtas inte. Med `--sidor 3,5` sparas
+  de sidorna i stället, för granskningen (K34).
 """
 
 import argparse
@@ -44,9 +46,12 @@ def arbetslista(data: Path) -> list[str]:
     return rader
 
 
-def rendera(md: Path, katalog: Path, klient: Klient) -> list[Path]:
+def rendera(
+    md: Path, katalog: Path, klient: Klient, sidor: list[int] | None = None
+) -> list[Path]:
     falt = frontmatter.las(md.read_text(encoding="utf-8"))
-    if not otolkade(falt):
+    sidor = sidor or otolkade(falt)
+    if not sidor:
         return []
     katalog.mkdir(parents=True, exist_ok=True)
     with tempfile.TemporaryDirectory() as tillfallig:
@@ -56,7 +61,7 @@ def rendera(md: Path, katalog: Path, klient: Klient) -> list[Path]:
         if frontmatter.varde_av(hamtat.sha256) != falt["sha256"]:
             raise AndratOriginal(f"{md}: originalet har ändrats sedan konverteringen")
         with pdfium.PdfDocument(pdf) as dokument:
-            return [spara(dokument, nr, katalog) for nr in otolkade(falt)]
+            return [spara(dokument, nr, katalog) for nr in sidor]
 
 
 def spara(dokument: pdfium.PdfDocument, nr: int, katalog: Path) -> Path:
@@ -77,7 +82,12 @@ def argument() -> argparse.Namespace:
     rendering = kommandon.add_parser("rendera")
     rendering.add_argument("md", type=Path)
     rendering.add_argument("katalog", type=Path)
+    rendering.add_argument("--sidor", type=sidlista)
     return tolk.parse_args()
+
+
+def sidlista(text: str) -> list[int]:
+    return [int(nr) for nr in text.split(",")]
 
 
 def main(arg: argparse.Namespace) -> None:
@@ -86,7 +96,7 @@ def main(arg: argparse.Namespace) -> None:
             print(rad)
         return
     try:
-        for png in rendera(arg.md, arg.katalog, klient_for(arg.md)):
+        for png in rendera(arg.md, arg.katalog, klient_for(arg.md), arg.sidor):
             print(png)
     except (AndratOriginal, Hamtfel) as fel:
         sys.exit(f"Stoppad: {fel}")

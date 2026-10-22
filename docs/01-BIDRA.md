@@ -119,6 +119,12 @@ Sidor med figurer tolkas för hand av en Claude-session, i omgångar, enligt
 `.claude/skills/tolka-figurer/SKILL.md` (K15, ADR-0017). Kommandona och
 formatet står under "Tolkade figurer" i [03-ARKITEKTUR.md](03-ARKITEKTUR.md).
 
+## Granskningen
+
+Dokument granskas för hand mot originalet enligt
+`.claude/skills/granska-dokument/SKILL.md` (K34, ADR-0055). Reglerna står
+under "Granskade dokument" i [03-ARKITEKTUR.md](03-ARKITEKTUR.md).
+
 ## Undantag
 
 - Rader per funktion: `# undantag: <skäl>` på `def`-raden. En fil har

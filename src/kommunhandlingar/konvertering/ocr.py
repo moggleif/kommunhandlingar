@@ -6,10 +6,15 @@ Tesseracts säkerhet för de ord den känt igen; under tröskeln, eller utan
 ord, är sidan `ej-konverterad`. Det är den också när Tesseract fallerar
 eller inte blir klar på fem minuter. Saknas Tesseract eller modellen
 stoppas körningen innan något dokument läses (`kontrollera`).
+
+Två fel som Tesseract gör i protokollen rättas i texten (K34, ADR-0055):
+`§` intill en siffra läses som `$`, och en innehållsförtecknings
+punktutfyllnad blir punkter och bokstäver fram till sidnumret.
 """
 
 import csv
 import os
+import re
 import subprocess
 import sys
 import tempfile
@@ -25,6 +30,8 @@ DPI = 300
 SPRAK = "swe"
 TROSKEL = 70
 TIDSGRANS = 300
+PARAGRAF = re.compile(r"\$+(?= ?\d)|(?<=\d )\$+|(?<=\d)\$+")
+UTFYLLNAD = re.compile(r"[ \t]*\.\.[a-zåäö.,>\s-]*?(\d+)[ \t]*$", re.MULTILINE)
 
 
 def las(rendering: pdfium.PdfPage) -> str | None:
@@ -38,7 +45,17 @@ def las(rendering: pdfium.PdfPage) -> str | None:
         sakerhet = medelsakerhet(ut.with_suffix(".tsv").read_text(encoding="utf-8"))
         if sakerhet is None or sakerhet < TROSKEL:
             return None
-        return ut.with_suffix(".txt").read_text(encoding="utf-8").strip()
+        return rensa(ut.with_suffix(".txt").read_text(encoding="utf-8").strip())
+
+
+def rensa(text: str) -> str:
+    text = PARAGRAF.sub(lambda m: "§" * len(m[0]), text)
+    return UTFYLLNAD.sub(utfyllnad, text)
+
+
+def utfyllnad(traff: re.Match) -> str:
+    # Tre punkter är en ellips i löptext; utfyllnaden har minst fyra i rad.
+    return f" .... {traff[1]}" if "...." in traff[0] else traff[0]
 
 
 def tesseract(bild: Path, ut: Path) -> bool:
