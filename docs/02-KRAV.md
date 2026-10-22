@@ -242,7 +242,8 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 - **Givet** att en källnyckel redan finns i poolen som ett dokuments
   `kallnyckel`, med samma `kalla_url` som upptäckten anger och utan
   kvalitet `ej-hamtad`, och, när kommunfilen har `omkonvertera = true`,
-  med den version av poolen som körs i `pipeline`
+  med den version av poolen som körs i `pipeline` eller ett datum i
+  `granskad` (K34)
 - **När** en ny körning startas
 - **Så** hämtas filen inte, och dokumentets `.md` lämnas orörd.
 
@@ -267,8 +268,9 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
   `.md` på samma sökväg.
 
 - **Givet** en kommunfil med `omkonvertera = true`, ett fullständigt
-  dokument vars `pipeline` har en annan version av poolen än den som
-  körs, och en kandidat med samma källnyckel och samma `kalla_url`
+  dokument som inte är granskat (K34) och vars `pipeline` har en annan
+  version av poolen än den som körs, och en kandidat med samma
+  källnyckel och samma `kalla_url`
 - **När** körningen når kandidaten
 - **Så** hämtas filen och konverteras om. Är sha256 densamma skrivs
   dokumentet om på samma sökväg med den nya versionens text, tabeller och
@@ -1051,6 +1053,51 @@ Hur och varför står i
   stängs, eller som får eller tappar en etikett
 - **När** det har hänt
 - **Så** byggs webbplatsen om.
+
+## K34 — Dokument granskas för hand, och granskningen står kvar
+
+Issue: [#193](https://github.com/moggleif/kommunhandlingar/issues/193).
+Hur och varför står i
+[ADR-0055](decisions/0055-granskade-dokument-konverteras-inte-om.md) och
+[Granskade dokument](03-ARKITEKTUR.md#granskade-dokument).
+
+- **Givet** ett dokument som jämförts sida för sida med originalet och
+  rättats för hand
+- **När** granskningen är klar
+- **Så** har dokumentet datumet i `granskad`, och det som fortfarande är
+  osäkert står på sidan där det gäller. Ett dokument som inte är granskat
+  har `granskad: null`.
+- **Givet** en sida i `tal_obekraftade`, till exempel en som lästs med
+  OCR eller inte gick att konvertera, vars tal har jämförts med
+  originalet och rättats
+- **När** dokumentet märks granskat
+- **Så** får sidan lämna `tal_obekraftade`. En sida vars tal inte gick
+  att bekräfta står kvar där.
+- **Givet** en sida som är `tabell-osaker`, där varje tabell har
+  jämförts med originalet och skrivits som CSV
+- **När** dokumentet märks granskat
+- **Så** blir sidan `ok`, och dokumentets kvalitet följer sidorna som
+  vanligt (K6).
+- **Givet** ett granskat dokument och en kommunfil med
+  `omkonvertera = true`
+- **När** körningen når en kandidat för dokumentet med ett original med
+  samma sha256, under samma eller en ny adress eller källnyckel
+- **Så** konverteras det inte om, och texten, tabellerna och
+  granskningen står kvar; bara en ny adress och en ny källnyckel skrivs
+  in, och den gamla nyckeln står i `tidigare_kallnycklar` (K9).
+- **Givet** ett granskat dokument vars original har ändrats
+- **När** körningen hämtar det
+- **Så** blir det en ny version enligt K9, med `granskad: null`.
+- **Givet** en OCR-sida där `§` intill en siffra lästs som `$`, eller
+  där en innehållsförtecknings punktutfyllnad blivit punkter och
+  bokstäver fram till sidnumret
+- **När** sidan konverteras
+- **Så** står `§` i texten, och utfyllnaden blir fyra punkter före
+  sidnumret.
+- **Givet** ett `granskad` som inte är ett datum, eller ett dokument med
+  kvalitet `ej-hamtad` som är granskat
+- **När** datakontrollen körs
+- **Så** faller den.
 
 ## K35 — Kommunfullmäktiges mål med fokusområden
 

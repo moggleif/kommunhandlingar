@@ -41,6 +41,7 @@ kvalitet_per_sida: {per_sida}
 tal_obekraftade: {tal}
 figurer: null
 tolkade: null
+granskad: null
 ---
 
 {text}"""

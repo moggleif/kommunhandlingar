@@ -1,6 +1,6 @@
-"""Krav: K4, K6, K8, K9, K16, K23 och K30 i docs/02-KRAV.md, ADR-0003,
-ADR-0004, ADR-0018, ADR-0019, ADR-0039 och ADR-0048. Test: tests/test_hamta.py,
-tests/test_omkonvertering.py och tests/test_plattformar.py.
+"""Krav: K4, K6, K8, K9, K16, K23, K30 och K34 i docs/02-KRAV.md, ADR-0003,
+ADR-0004, ADR-0018, ADR-0019, ADR-0039, ADR-0048 och ADR-0055. Test i tests/:
+test_hamta.py, test_omkonvertering.py, test_plattformar.py och test_granskning.py.
 
 Steg 2 för en kandidat: hoppa över det som redan finns, annars hämta,
 konvertera och skriv. Ett misslyckat försök skriver aldrig över en
@@ -8,7 +8,8 @@ fullständig `.md`. En kandidat ur ett arkiv fyller bara luckor, så att en
 äldre kopia aldrig ersätter ett dokument i poolen; har sammanträdet typen
 från en annan plattform står den med högst kvalitet kvar. Med omkonverteringen
 påslagen räknas ett dokument från en annan version av poolen inte som
-befintligt. Skrivningen avbryts aldrig av tidsgränsen (K11).
+befintligt, utom när det är granskat för hand. Skrivningen avbryts aldrig av
+tidsgränsen (K11).
 """
 
 import tempfile
@@ -94,7 +95,7 @@ def samma_kalla(falt: dict[str, str], kandidat: Kandidat) -> bool:
 
 
 def aktuell(steg: Steg2, falt: dict[str, str]) -> bool:
-    if not steg.omkonvertera:
+    if not steg.omkonvertera or falt["granskad"] != "null":
         return True
     return falt["pipeline"].split(" / ")[0] == steg.version
 
@@ -147,10 +148,7 @@ def hamtad_fil(
     steg: Steg2, dokument: Dokument, hamtat: original.Original, hamtad: datetime
 ) -> str:
     gammal = dokument.befintlig
-    samma_fil = gammal is not None and (gammal["kallnyckel"], gammal["sha256"]) == (
-        dokument.kandidat.kallnyckel,
-        frontmatter.varde_av(hamtat.sha256),
-    )
+    samma_fil = samma_original(gammal, dokument.kandidat, hamtat.sha256)
     if samma_fil and aktuell(steg, gammal):
         return ny_adress(steg, dokument)
     resultat = (
@@ -170,6 +168,13 @@ def hamtad_fil(
     return "konverterad om" if samma_fil else "konverterad"
 
 
+def samma_original(gammal: dict | None, kandidat: Kandidat, sha256) -> bool:
+    """Ett granskat dokument behåller sin text också under en ny källnyckel."""
+    if gammal is None or gammal["sha256"] != frontmatter.varde_av(sha256):
+        return False
+    return gammal["kallnyckel"] == kandidat.kallnyckel or gammal["granskad"] != "null"
+
+
 def kvalitetsfalt(steg: Steg2, resultat: Resultat) -> dict:
     return {
         "sidor": len(resultat.sidor) if resultat.sidor else None,
@@ -184,7 +189,9 @@ def kvalitetsfalt(steg: Steg2, resultat: Resultat) -> dict:
 
 
 def ny_adress(steg: Steg2, dokument: Dokument) -> str:
-    andra_falt(steg, dokument.sokvag, {"kalla_url": dokument.kandidat.kalla_url()})
+    k = dokument.kandidat
+    nya = {"kallnyckel": k.kallnyckel, "tidigare_kallnycklar": tidigare(dokument)}
+    andra_falt(steg, dokument.sokvag, nya | {"kalla_url": k.kalla_url()})
     return "ny adress, samma innehåll"
 
 

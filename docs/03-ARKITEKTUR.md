@@ -69,6 +69,8 @@ Hur och varför står i
   [Konvertering och kvalitet](#konvertering-och-kvalitet)), så med
   flaggan påslagen konverteras hela poolen om under de närmaste
   nätterna. PDF:en sparas inte mellan körningarna; den hämtas igen.
+  Ett granskat dokument konverteras inte om
+  ([Granskade dokument](#granskade-dokument)).
 - **Det som en gång tagits in tas inte bort** (K12,
   [ADR-0007](decisions/0007-poolen-ar-en-ogonblicksbild.md)). Ett
   dokument står kvar när det försvinner ur källan, och historiken på
@@ -143,7 +145,9 @@ Datakontrollerna, i körningen och i CI
 - Inga temporära filer finns under `data/`.
 - Front matter hänger ihop: `ej-hamtad` har ett `fel` och inga
   originalfält, `sidor` stämmer med `kvalitet_per_sida`, och varje sida
-  som är `ocr` eller `ej-konverterad` står i `tal_obekraftade`.
+  som är `ocr` eller `ej-konverterad` står i `tal_obekraftade`, utom i
+  ett granskat dokument, och `granskad` är `null` eller ett datum
+  ([Granskade dokument](#granskade-dokument)).
 - Figurerna och tolkningarna hänger ihop, och varje tal i en tolkad CSV
   står i sidans text, enligt [Tolkade figurer](#tolkade-figurer).
 - Ingen text eller tabell har personuppgifter som maskningen skulle ta
@@ -562,6 +566,7 @@ kvalitet_per_sida: [ok, ok, ocr, tabell-osaker, …]
 tal_obekraftade: [3]
 figurer: [5, 9]
 tolkade: [5]
+granskad: null
 ---
 ```
 
@@ -594,6 +599,7 @@ inom hakparenteser på samma rad, som i exemplet.
 | `tal_obekraftade`      | Sidor vars tal inte är bekräftade (nedan); `[]` när alla är det. | `ej-hamtad`, eller filen gick inte att öppna |
 | `figurer`              | Sidor som kan ha en figur ([Figurer](#figurer)); `[]` när inga. | `ej-hamtad`, filen gick inte att öppna, eller dokumentet konverterades före version 0.3.0 |
 | `tolkade`              | Sidor som har tolkats ([Tolkade figurer](#tolkade-figurer)); `[]` när inga. | när `figurer` är `null` |
+| `granskad`             | Dagen dokumentet granskades för hand, `ÅÅÅÅ-MM-DD` ([Granskade dokument](#granskade-dokument)). | dokumentet inte är granskat, och alltid för `ej-hamtad` |
 
 `kvalitet` och `fel` är tillsammans dokumentets status (K6). När kvalitet
 är `ej-hamtad` finns inget original, och härkomsten är källänken,
@@ -666,7 +672,19 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
   inga tabeller;
   hela sidans text är OCR-text, och den läses för sammanhangets skull,
   inte som data. Talen i OCR-texten står omärkta i texten; att de inte är
-  bekräftade syns bara i `tal_obekraftade`.
+  bekräftade syns bara i `tal_obekraftade`. Två fel som Tesseract gör
+  i protokollen rättas i OCR-texten
+  ([ADR-0055](decisions/0055-granskade-dokument-konverteras-inte-om.md)):
+  ett eller flera `$` som står intill en siffra, med högst ett mellanslag
+  emellan, blir lika många `§` (`$ 159` blir `§ 159`, `1-2 $$` blir
+  `1-2 §§`), och på en rad som slutar med ett sidnummer blir
+  punktutfyllnaden fyra punkter före numret
+  (`dagordning..........sssssorss 3` blir `dagordning .... 3`).
+  Utfyllnaden är minst fyra punkter i rad, med punkter och gemena
+  bokstäver utan mellanslag framför när de börjar med två punkter
+  (`..ssss.....`), följda av bara gemena bokstäver, mellanslag och `.,>-`
+  fram till numret på samma rad. Tre punkter är en ellips och står kvar,
+  också tidigare på en rad med utfyllnad.
 - **`tal_obekraftade`** listar, med sidnummer från 1, varje sida vars tal
   inte är bekräftade: varje sida som är `ocr`, varje sida som är
   `ej-konverterad`, eftersom talen på den inte är lästa, och varje sida
@@ -1340,6 +1358,40 @@ figur tolkas i efterhand, för hand, av en Claude-session, enligt
   tabellkatalogen som vanligt, också när bara källnyckeln har bytts
   (K9); tolkningarna försvinner då, och sidorna hamnar i arbetslistan
   igen.
+
+## Granskade dokument
+
+Hur och varför står i
+[ADR-0055](decisions/0055-granskade-dokument-konverteras-inte-om.md). Ett
+dokument granskas för hand, av en Claude-session eller en människa,
+enligt `.claude/skills/granska-dokument/SKILL.md`.
+
+- **Sidorna** renderas med
+  `python -m kommunhandlingar.tolkning rendera <md> <katalog> --sidor 1,2,3`,
+  som hämtar och prövar originalet som för figurerna.
+- **Rättningen** görs i dokumentets `.md` och tabellkatalog: texten
+  rättas efter originalet, en osäker tabell skrivs som CSV enligt
+  [Tabeller](#tabeller) när den går att läsa säkert, och figurerna tolkas
+  enligt [Tolkade figurer](#tolkade-figurer). På en sida som lästs med
+  OCR rättas texten där den står; en sådan sida får inga CSV:er.
+- **Det som är osäkert** efter granskningen står på sidan, efter sidans
+  text och före en tolkning, som en rad som börjar med
+  `> **Granskning:**` följd av vad som är osäkert. Markdowns escapning
+  gör att ingen rad ur källan börjar med `>`.
+- **Märkningen:** `granskad` får dagens datum. En sida som är `ocr` eller
+  `ej-konverterad`, eller som står där av något annat skäl, och vars tal
+  jämförts med originalet tas bort ur `tal_obekraftade`. En sida som är `tabell-osaker` där varje tabell
+  skrivits som CSV blir `ok`, och `kvalitet` räknas om från sidorna enligt
+  [Konvertering och kvalitet](#konvertering-och-kvalitet). Övriga sidor
+  behåller sin kvalitet; den säger hur texten lästes.
+- **Omkonverteringen** hoppar över ett granskat dokument: det räknas som
+  aktuellt oavsett version. Kommer det under en ny adress eller en ny
+  källnyckel med samma sha256 skrivs bara adressen och nyckeln in, och en
+  gammal nyckel flyttas till `tidigare_kallnycklar` (K9). Ett original med en annan sha256 blir
+  en ny version (K9) med `granskad: null`, och granskningen får göras om.
+- **Datakontrollen** prövar att `granskad` är `null` eller ett datum, att
+  den är `null` för `ej-hamtad`, och prövar inte att ett granskat
+  dokuments `ocr`- och `ej-konverterad`-sidor står i `tal_obekraftade`.
 
 ## Webbplatsen
 

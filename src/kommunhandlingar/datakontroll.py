@@ -1,5 +1,5 @@
-"""Krav: K11, K15 och K17 i docs/02-KRAV.md, ADR-0006, ADR-0017 och ADR-0022.
-Test: tests/test_datakontroll.py.
+"""Krav: K11, K15, K17 och K34 i docs/02-KRAV.md, ADR-0006, ADR-0017, ADR-0022
+och ADR-0055. Test: tests/test_datakontroll.py och tests/test_granskning.py.
 
 `python -m kommunhandlingar.datakontroll <data>` prövar varje fil under
 `data/` mot schemat i docs/03-ARKITEKTUR.md: front matter, sökvägen,
@@ -22,6 +22,8 @@ ALLTID = ("kommun", "organ", "datum", "typ", "kallnyckel", "kalla_url")
 ALLTID += ("tidigare_kallnycklar", "hamtad", "pipeline", "kvalitet")
 EJ_HAMTAD_NULL = ("sha256", "bytes", "sidor", "konverterad")
 EJ_HAMTAD_NULL += ("kvalitet_per_sida", "tal_obekraftade", "figurer", "tolkade")
+EJ_HAMTAD_NULL += ("granskad",)
+DATUM = re.compile(r"\d{4}-\d{2}-\d{2}")
 OBEKRAFTADE = {"ocr", "ej-konverterad"}
 
 
@@ -76,8 +78,9 @@ def vardefel(falt: dict[str, str]) -> list[str]:
         fel.append(f"okänd kvalitet {falt['kvalitet']!r}")
     sidor = frontmatter.lista(falt["kvalitet_per_sida"])
     fel += [f"okänd sidkvalitet {s!r}" for s in sidor if s not in SIDKVALITETER]
-    if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", falt["datum"]):
-        fel.append(f"datum {falt['datum']!r} är inte ÅÅÅÅ-MM-DD")
+    for namn in ("datum", "granskad"):
+        if falt[namn] != "null" and not DATUM.fullmatch(falt[namn]):
+            fel.append(f"{namn} {falt[namn]!r} är inte ÅÅÅÅ-MM-DD")
     return fel
 
 
@@ -102,6 +105,8 @@ def statusfel(falt: dict[str, str]) -> list[str]:
     sidor = frontmatter.lista(falt["kvalitet_per_sida"])
     if falt["sidor"] not in ("null", str(len(sidor))):
         return ["sidor stämmer inte med kvalitet_per_sida"]
+    if falt["granskad"] != "null":
+        return []  # granskningen tar själv bort de sidor vars tal den bekräftat
     obekraftade = set(frontmatter.lista(falt["tal_obekraftade"]))
     return [
         f"sidan {nr} är {s} men står inte i tal_obekraftade"

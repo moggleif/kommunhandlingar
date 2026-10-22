@@ -43,9 +43,9 @@ Regler för det här repot, utöver MADR:
 | 0014 | [Markdown-texten har en kommentar per sida, uppställningen kvar och de säkra tabellerna efter sidans text](0014-markdown-texten-och-steg-2.md) | accepted (0021 lägger till escapning) |
 | 0015 | [Nattkörningen checkar in på en egen gren, och datat når `main` genom en PR med samma kontroller som all annan ändring](0015-nattkorningen-pa-egen-gren-och-pr.md) | accepted (0052 låter körningen öppna och merga PR:en själv) |
 | 0016 | [Tabeller utan lodräta linjer läses ur textlagrets ord och blir CSV bara när talen står i linje](0016-tabeller-utan-lodrata-linjer.md) | accepted (0028 delar tabeller med linjer och flera tal i en cell; 0030 fäller en ombruten etikett; 0035 tar med avsnittsrubriker och årtal; 0040 läser rubriker i kolumnens fack) |
-| 0017 | [Sidor med figurer märks vid konverteringen och tolkas i efterhand av en Claude-session](0017-figurer-marks-och-tolkas-i-efterhand.md) | accepted |
+| 0017 | [Sidor med figurer märks vid konverteringen och tolkas i efterhand av en Claude-session](0017-figurer-marks-och-tolkas-i-efterhand.md) | accepted (0055 behåller tolkningarna i granskade dokument) |
 | 0018 | [Wayback hämtas sist i nattkörningen, nyast först, och fyller bara luckor](0018-wayback-sist-nyast-forst-och-bara-luckor.md) | accepted (0027 slår på arkivet per organ) |
-| 0019 | [Ett dokument från en annan version av poolen hämtas igen och konverteras om, efter alla andra kandidater](0019-omkonvertering-efter-poolens-version.md) | accepted |
+| 0019 | [Ett dokument från en annan version av poolen hämtas igen och konverteras om, efter alla andra kandidater](0019-omkonvertering-efter-poolens-version.md) | accepted (0055 undantar granskade dokument) |
 | 0020 | [Luckorna räknas fram ur poolen på statussidan och lagras inte](0020-luckor-raknas-fram-lagras-inte.md) | accepted |
 | 0021 | [Poolens text escapas vid konverteringen så att den är riktig Markdown, och CI kör Markdown-lint](0021-texten-ar-riktig-markdown.md) | accepted |
 | 0022 | [Personnummer, mobilnummer, e-post och gatuadresser maskas vid konverteringen; namn står kvar](0022-personuppgifter-maskas-vid-konverteringen.md) | accepted |
@@ -78,6 +78,7 @@ Regler för det här repot, utöver MADR:
 | 0052 | [Nattkörningen öppnar sin PR med en egen token och mergas automatiskt när kontrollerna gått igenom](0052-nattkorningen-mergar-sin-pr-sjalv.md) | accepted |
 | 0053 | [Tidigare sammanträden läses ur poolens mappar och skrivs i kalenderfilen, och listan döljer dem bakom en knapp](0053-tidigare-sammantraden-las-ur-poolens-mappar.md) | accepted |
 | 0054 | [Webbplatsen visar avvikelserna i källan ur de öppna issuen, hämtade när den byggs](0054-avvikelserna-pa-webbplatsen-ur-issuen.md) | accepted |
+| 0055 | [Ett dokument som granskats för hand märks med datumet i `granskad` och konverteras inte om, och två OCR-fel rättas i konverteringen](0055-granskade-dokument-konverteras-inte-om.md) | accepted |
 | 0056 | [Kommunfullmäktiges mål står på en egen målsida, med fokusområdena under sina mål och färgen i källan som bedömning](0056-kommunfullmaktiges-mal-med-fokusomraden-och-farg.md) | accepted |
 | 0057 | [Lokalbehoven följs steg för steg ur alla organs dokument, i en CSV per kommun, och visas som målsidan](0057-lokalbehoven-foljs-steg-for-steg-ur-alla-organs-dokument.md) | proposed |
 | 0058 | [Initiativärendena följs steg för steg som lokalbehoven, med samma kod och avsändaren som värde](0058-initiativarenden-foljs-som-lokalbehoven.md) | proposed |

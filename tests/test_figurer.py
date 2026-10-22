@@ -114,6 +114,12 @@ class TestVerktygen(unittest.TestCase):
         self.assertEqual(png, self.rot / "17.png")
         self.assertGreater(png.stat().st_size, 0)
 
+    def test_valda_sidor_renderas_for_granskningen(self):
+        klient = Klient()
+        klient.filer["u1"] = "sidor.pdf"
+        pngar = rendera(self.md, self.rot, klient, [1, 3])
+        self.assertEqual(pngar, [self.rot / "1.png", self.rot / "3.png"])
+
     def test_dokument_utan_otolkade_sidor_hamtas_inte(self):
         self.skriv(figurer="null", tolkade="null")
         klient = Klient()
