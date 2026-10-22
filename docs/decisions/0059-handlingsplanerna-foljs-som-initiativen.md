@@ -47,13 +47,14 @@ ett steg med en text som prövas mot källan som alla andra.
 
 * **Vilka planer:** en plan står med när den har ett eget steg i
   organets protokoll eller handlingar. Organets egna planer står med,
-  och kommunens planer där organet yttrar sig eller får ett uppdrag.
+  och kommunens planer där organet har ett eget steg.
   Planer som bara nämns, den interna kontrollplanen och planer för
   enskilda elever står inte med.
 * **Filen** är `handlingsplaner/<kommun>.csv` med initiativfilens
   kolumner, men `plan` i stället för `arende`. Faserna är `uppdrag`,
-  `yttrande`, `plan`, `antagen`, `uppfoljning`, `revidering` och
-  `avslutad`.
+  `yttrande`, `plan`, `antagen`, `uppfoljning` och `revidering`. En
+  fas för en avslutad plan väntar tills en källa säger att en plan
+  avslutats.
 * **Själva planen** är steget `plan`, med en text ur planen. Kortet
   länkar till den.
 * **Avsändaren** är värdet i `uppdrag` när planen kommer ur en motion

@@ -1787,8 +1787,9 @@ Filen, kontrollen och sidan är initiativärendenas
 - **Faserna** är `uppdrag` (ett förslag, en motion, ett uppdrag eller ett
   arbete som pågår), `yttrande` (organet yttrar sig över planen eller en
   motion om den), `plan` (sidan där själva planen står), `antagen`
-  (beslutad, godkänd eller framtagen), `uppfoljning`, `revidering` och
-  `avslutad`.
+  (beslutad, godkänd eller framtagen), `uppfoljning` och `revidering`.
+  Ett steg som återkommer i ett senare dokument, som en årsredovisning
+  efter delårsrapporten, är `uppfoljning`.
 - **Värdet** är frivilligt. I `antagen` säger det vem som antog planen
   när källan säger det. I `uppdrag` är det avsändaren när planen kommer ur
   en motion eller ett initiativ, med partiets förkortning; en plan utan

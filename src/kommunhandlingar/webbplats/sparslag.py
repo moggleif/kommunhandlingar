@@ -124,11 +124,10 @@ HANDLINGSPLANER = Slag(
         "antagen": (FYLLD + BOCK, "antagen eller framtagen"),
         "uppfoljning": (RUTER, "uppföljning"),
         "revidering": (f'<path d="M3 2h10L3 14h10z" {DRAG}/>', "revidering"),
-        "avslutad": (KLART, "avslutad"),
     },
     inledning=(
         "<p>Nämndens handlingsplaner år för år: vem som föreslog dem, när de "
-        "antogs, hur de följdes upp och reviderades och när de avslutades. "
+        "antogs och hur de följdes upp och reviderades. "
         "Varje ikon länkar till sidan i dokumentet som visar steget, och "
         "finns själva planen i poolen länkar kortet till den.</p>"
     ),
@@ -136,8 +135,9 @@ HANDLINGSPLANER = Slag(
         "<p>En plan står med när den har ett eget steg i nämndens protokoll "
         "eller handlingar: ett uppdrag, ett beslut, ett yttrande, en "
         "återrapport eller en uppföljning. Nämndens egna planer står med, och "
-        "kommunens planer där nämnden har ett eget steg. Planer som bara nämns "
-        "och den interna kontrollplanen står inte med. Avsändaren står när "
+        "kommunens planer där nämnden har ett eget steg. Planer som bara nämns, "
+        "den interna kontrollplanen och planer för enskilda elever står inte "
+        "med. Avsändaren står när "
         "planen kommer ur en motion eller ett initiativ, som källan skriver "
         "den. Varje steg har en text som står på källans sida, och bygget "
         "prövar det.</p>"

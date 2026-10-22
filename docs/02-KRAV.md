@@ -1183,8 +1183,7 @@ och [Handlingsplaner](03-ARKITEKTUR.md#handlingsplaner).
 
 - **Givet** en kommun med en fil med handlingsplaner, där varje rad är
   ett steg en handlingsplan i ett organ tar – förslag eller uppdrag,
-  yttrande, själva planen, antagen, uppföljning, revidering eller
-  avslutad – med år, en text och en sida i ett dokument i poolen som
+  yttrande, själva planen, antagen, uppföljning eller revidering – med år, en text och en sida i ett dokument i poolen som
   källa
 - **När** webbplatsen byggs
 - **Så** har varje organ med rader en sida om sina handlingsplaner,
