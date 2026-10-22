@@ -1495,7 +1495,9 @@ En kommun med en fil `kalender/<kommun>.csv` får sidan
 Hur och varför står i
 [ADR-0044](decisions/0044-namndens-mal-och-direktiv-las-ur-dokumenten-och-skrivs-for-hand.md)
 och, för grupperna, protokollet, ikonerna och antalet (K27),
-[ADR-0045](decisions/0045-omdopta-mal-grupperas-protokollet-gar-fore-och-status-blir-ikoner.md).
+[ADR-0045](decisions/0045-omdopta-mal-grupperas-protokollet-gar-fore-och-status-blir-ikoner.md),
+och för kommunfullmäktiges mål med fokusområden (K35)
+[ADR-0056](decisions/0056-kommunfullmaktiges-mal-med-fokusomraden-och-farg.md).
 En kommun med en fil `mal/<kommun>.csv` får en sida
 `<kommun>/<organ>/mal-och-direktiv.html` för varje organ med rader i
 filen (K26), länkad från organets sida.
@@ -1509,7 +1511,7 @@ filen (K26), länkad från organets sida.
   | ------------- | ---------------------------------------------------------- |
   | `organ`       | Organets id i kommunfilen.                                 |
   | `ar`          | Året målet gäller: budgetåret, eller året som följs upp.   |
-  | `slag`        | `nämndmål` eller `direktiv`.                               |
+  | `slag`        | `nämndmål`, `kommunmål`, `fokusområde` eller `direktiv`. |
   | `rubrik`      | Målets rubrik ordagrant, utan numrering.                   |
   | `formulering` | Nämndens formulering ordagrant, eller tomt.                |
   | `status`      | Statusen ordagrant ur en uppföljning, eller tomt.          |
@@ -1518,6 +1520,7 @@ filen (K26), länkad från organets sida.
   | `kalla`       | Sidan i poolen, `<organ>/<år>/<datum>/<namn>.md#sida-N`, eller sidorna, `#sida-N-M`. |
   | `grupp`       | Tomt, eller en rubrik i filen som målet följs under när det bytt rubrik. |
   | `tolkad`      | Tomt, eller `ja` när platsen i gruppen är en bedömning.    |
+  | `huvudmal`    | Kommunmålets rubrik för ett fokusområde, annars tomt.      |
 
 - **Källorna** läses av AI-agenten: nämndbudgetarna för målen och
   formuleringarna, delårsrapporterna och årsredovisningarna för statusen.
@@ -1526,7 +1529,11 @@ filen (K26), länkad från organets sida.
   möte gäller protokollet, och bara protokollets rad står med. Rubrik,
   formulering och status ur samma rad står på
   källans sidor; fortsätter målet på nästa sida är källan båda sidorna,
-  och står de längre isär blir det två rader.
+  och står de längre isär blir det två rader. Kommunfullmäktiges
+  uppföljningar bedömer fokusområdena med färg (grön, gul, röd), som inte
+  följer med in i texten; AI-agenten läser färgen ur PDF:en på källans
+  sida och skriver bedömningen utan status. Ett kommunmål har en status
+  bara där källans samlade bedömning står sammanhängande i texten.
 - **Kontrollen** (`webbplats/mal.py`) stoppar bygget med raden om
   rubrikerna inte är kolumnerna ovan, organet inte står i kommunfilen,
   året inte är fyra siffror, slaget är något annat, källan inte är en
@@ -1537,13 +1544,21 @@ filen (K26), länkad från organets sida.
   stoppas också om uppföljningen eller bedömningen är okänd, en rad utan
   uppföljning har en bedömning eller status, en uppföljning saknar
   bedömning, `tolkad` är något annat än tomt eller `ja` i en grupp, samma
-  rubrik har två olika grupper, två rubriker står i samma spår samma år,
-  en grupp inte är en rubrik i filen utan egen grupp, eller samma spår
+  rubrik har två olika grupper eller huvudmål, två rubriker står i samma
+  spår samma år i samma dokument (budgeten och uppföljningen får skriva
+  samma mål olika), ett fokusområde saknar huvudmål eller en annan rad
+  har ett, huvudmålet inte står på sidorna eller inte är ett kommunmål
+  utan grupp i filen, en grupp inte är en rubrik i filen utan egen
+  grupp, eller samma spår
   samma år står ur både protokollet och ett annat dokument från samma
   möte. Texten jämförs efter
   att radbrytningar och upprepade mellanslag gjorts till ett mellanslag,
   punkter (`-`, `•`, `*`) först i en rad strukits och Markdown-escapningen
-  tagits bort; versalerna räknas. En målfil utan kommunfil stoppar också
+  tagits bort. Sedan räknas inte blanksteg, `<br>`, avstavning över en
+  radbrytning (`-<br>`), mjukt bindestreck, tankstreck, pilar och privata
+  tecken ur symbolfonter, som står mitt i texten i årsredovisningens
+  tabeller. Versalerna räknas, utom när källan sätter hela texten i
+  versaler. En målfil utan kommunfil stoppar också
   bygget.
 - **Samma rubrik** är samma organ, slag och rubrik utan hänsyn till
   versaler; rubriken visas som den först står. **Ett spår** är samma organ
@@ -1563,17 +1578,17 @@ filen (K26), länkad från organets sida.
   poolen dokument från organet före det första året med mål säger sidan
   det. Sidan har fyra delar:
   - **Antalet per år** (`webbplats/malstatistik.py`): det senaste årets
-    antal nämndmål och direktiv, och uppföljningar och dragningar i
-    nämnden, bredvid en linjegraf i SVG (`webbplats/malgraf.py`) med en
-    linje för nämndmål och en för direktiv, skilda med streckning och
-    punktform. Under dem står en hopfälld tabell med antal nämndmål,
-    direktiv, uppföljningsdokument i målfilen och rubriker med en
-    bedömning, och, med en uppföljningsfil, uppföljningar och dragningar i
-    nämnden ([Uppföljningar i nämnden](#uppföljningar-i-nämnden)). Varje
-    rubrik räknas en gång per år. Ett år utan rader står som – och bryter
+    antal per slag som finns för organet, och uppföljningar och
+    dragningar i nämnden, bredvid en linjegraf i SVG
+    (`webbplats/malgraf.py`) med en linje per slag, skilda med streckning
+    och punktform. Under dem står en hopfälld tabell med antal per slag,
+    uppföljningsdokument i målfilen och spår med en bedömning, och, med en
+    uppföljningsfil, uppföljningar och dragningar i nämnden
+    ([Uppföljningar i nämnden](#uppföljningar-i-nämnden)). Varje spår
+    räknas en gång per år. Ett år utan rader står som – och bryter
     linjen.
   - **Urvalet**: knappar för alla, de som gäller det senaste året,
-    nämndmål och direktiv (bara de slag som finns) och de som bytt rubrik.
+    varje slag som finns och de som bytt rubrik.
   - **Tidslinjen** (`webbplats/maltidslinje.py`): en teckenförklaring och
     en tabell med en rad per rubrik i varje spår, nämndmålen och
     direktiven i var sin grupp, spåren ordnade efter första år, slag och
@@ -1595,7 +1610,9 @@ filen (K26), länkad från organets sida.
     uppföljningsfil står sist nämndens uppföljningar och dragningar om
     målen, en markering per paragraf, och ett streck för år utan protokoll
     med text. Ett spår som varit både nämndmål och direktiv står under sitt
-    senaste slag, med det andra slaget vid de rubriker som hade det.
+    senaste slag, med det andra slaget vid de rubriker som hade det. Ett
+    fokusområde står direkt under sitt kommunmål, indraget och märkt
+    "Fokusområde:" för skärmläsare.
   - **Korten** (`webbplats/malkort.py`): ett kort per spår, de som gäller
     det senaste året först, sedan efter sista och första år. Kortet har
     slaget, åren, den senaste rubriken, de tidigare rubrikerna med ordet
@@ -1604,12 +1621,16 @@ filen (K26), länkad från organets sida.
     varje rad, nyast först: år, rubrik, formulering, status som ikon och
     text för en uppföljning, och källan som länk till sidan i dokumentet.
     Ett spår med båda slagen har båda på kortet och slaget på varje rad.
+    En bedömning utan status står som "enligt färgen i källan".
+    Fokusområdenas kort står inuti sitt kommunmåls kort, som då tar hela
+    bredden.
   Det tidslinjen och korten delar, som årets status, spårets rubrik och
   slag och radens data-attribut för urvalet, står i
   `webbplats/malspar.py`. Stilen står i `webbplats/mal.css`.
 - **Skriptet** (`webbplats/mal.js`) står i sidan. Det visar urvalet och
   döljer det som inte valts, i tidslinjen och bland korten, och öppnar
-  historiken på kortet när ett mål väljs i tidslinjen. Utan skriptet
+  historiken på kortet när ett mål väljs i tidslinjen. Ett kommunmåls kort
+  visas när ett av dess fokusområden visas. Utan skriptet
   visas allt och urvalet är dolt.
 
 ### Uppföljningar i nämnden
