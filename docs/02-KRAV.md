@@ -269,7 +269,8 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 
 - **Givet** en kommunfil med `omkonvertera = true`, ett fullständigt
   dokument som inte är granskat (K34) och vars `pipeline` har en annan
-  version av poolen än den som körs, och en kandidat med samma källnyckel och samma `kalla_url`
+  version av poolen än den som körs, och en kandidat med samma
+  källnyckel och samma `kalla_url`
 - **När** körningen når kandidaten
 - **Så** hämtas filen och konverteras om. Är sha256 densamma skrivs
   dokumentet om på samma sökväg med den nya versionens text, tabeller och
@@ -1066,8 +1067,9 @@ Hur och varför står i
 - **Så** har dokumentet datumet i `granskad`, och det som fortfarande är
   osäkert står på sidan där det gäller. Ett dokument som inte är granskat
   har `granskad: null`.
-- **Givet** en sida som lästs med OCR eller inte gick att konvertera,
-  vars tal har jämförts med originalet och rättats
+- **Givet** en sida i `tal_obekraftade`, till exempel en som lästs med
+  OCR eller inte gick att konvertera, vars tal har jämförts med
+  originalet och rättats
 - **När** dokumentet märks granskat
 - **Så** får sidan lämna `tal_obekraftade`. En sida vars tal inte gick
   att bekräfta står kvar där.
@@ -1078,10 +1080,11 @@ Hur och varför står i
   vanligt (K6).
 - **Givet** ett granskat dokument och en kommunfil med
   `omkonvertera = true`
-- **När** körningen når dokumentets kandidat med samma källnyckel och
-  ett original med samma sha256, under samma eller en ny adress
+- **När** körningen når en kandidat för dokumentet med ett original med
+  samma sha256, under samma eller en ny adress eller källnyckel
 - **Så** konverteras det inte om, och texten, tabellerna och
-  granskningen står kvar; bara en ny adress skrivs in.
+  granskningen står kvar; bara en ny adress och en ny källnyckel skrivs
+  in, och den gamla nyckeln står i `tidigare_kallnycklar` (K9).
 - **Givet** ett granskat dokument vars original har ändrats
 - **När** körningen hämtar det
 - **Så** blir det en ny version enligt K9, med `granskad: null`.

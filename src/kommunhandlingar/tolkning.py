@@ -87,7 +87,10 @@ def argument() -> argparse.Namespace:
 
 
 def sidlista(text: str) -> list[int]:
-    return [int(nr) for nr in text.split(",")]
+    sidor = [int(nr) for nr in text.split(",")]
+    if min(sidor) < 1:
+        raise argparse.ArgumentTypeError("sidorna räknas från 1")
+    return sidor
 
 
 def main(arg: argparse.Namespace) -> None:

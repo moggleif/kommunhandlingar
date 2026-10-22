@@ -106,7 +106,7 @@ def statusfel(falt: dict[str, str]) -> list[str]:
     if falt["sidor"] not in ("null", str(len(sidor))):
         return ["sidor stämmer inte med kvalitet_per_sida"]
     if falt["granskad"] != "null":
-        return []  # talen på en granskad sida är jämförda med originalet
+        return []  # granskningen tar själv bort de sidor vars tal den bekräftat
     obekraftade = set(frontmatter.lista(falt["tal_obekraftade"]))
     return [
         f"sidan {nr} är {s} men står inte i tal_obekraftade"

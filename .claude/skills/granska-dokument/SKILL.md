@@ -33,15 +33,15 @@ och formaten under "Tabeller" och "Tolkade figurer".
    - **Figurerna** tolkas enligt `.claude/skills/tolka-figurer/SKILL.md`.
    - **Det som ändå är osäkert** skrivs sist på sidan, före en tolkning,
      som `> **Granskning:** <vad som är osäkert>`. Gissa aldrig ett tal.
-5. Märk dokumentet: `granskad: <dagens datum>`; ta bort de `ocr`- och
-   `ej-konverterad`-sidor vars tal du bekräftat ur `tal_obekraftade`; gör
+5. Märk dokumentet: `granskad: <dagens datum>`; ta bort de sidor vars tal
+   du bekräftat ur `tal_obekraftade`; gör
    de `tabell-osaker`-sidor där varje tabell blivit CSV till `ok` och
    räkna om `kvalitet` från sidorna.
 6. Radera bilderna. Kör `python -m kommunhandlingar.datakontroll data`
    och Markdown-lint på de ändrade filerna, och rätta det som faller.
 7. Committa bara filer under `data/`, öppna en PR med vilka dokument som
    granskats och vad som var osäkert, och merga den när "Ren kod och
-   tester" är grön (projektägaren 2026-10-22).
+   tester" är grön (ADR-0055).
 
 Hittas ett fel i kommunens källa, till exempel fel datum eller fel
 organ, blir det ett issue enligt "Avvikelser i källan" i

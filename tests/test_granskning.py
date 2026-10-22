@@ -39,6 +39,17 @@ class TestOmkonverteringen(Steg2Fall):
             text.replace("kalla_url: u1", "kalla_url: u3"),
         )
 
+    def test_granskat_dokument_under_ny_kallnyckel_behaller_rattningen(self):
+        text = self.granskat()
+        self.klient.filer["u2"] = "sidor.pdf"
+        self.assertEqual(self.kor(kandidat("s:2", "u2")), ["ny adress, samma innehåll"])
+        falt = self.falt()
+        self.assertEqual(
+            (falt["kallnyckel"], falt["tidigare_kallnycklar"]), ("s:2", "[s:1]")
+        )
+        self.assertIn("Rättad för hand.", self.md().read_text(encoding="utf-8"))
+        self.assertNotEqual(self.md().read_text(encoding="utf-8"), text)
+
     def test_nytt_original_blir_en_ny_version_utan_granskning(self):
         self.granskat()
         self.klient.filer["u2"] = "begransad.pdf"
@@ -87,3 +98,13 @@ class TestOcrTexten(unittest.TestCase):
         rad = "Hon sa.... och sedan gick hon"
         self.assertEqual(rensa(rad), rad)
         self.assertEqual(rensa("men... sedan 5"), "men... sedan 5")
+
+    def test_utfyllnaden_slutar_pa_samma_rad(self):
+        for text in ("och så vidare....\nsida 12", "Text slutar här....\n\n12"):
+            self.assertEqual(rensa(text), text)
+
+    def test_en_ellips_tidigare_pa_raden_star_kvar(self):
+        self.assertEqual(
+            rensa("Beslut om ... och fortsatt arbete .....sss 7"),
+            "Beslut om ... och fortsatt arbete .... 7",
+        )

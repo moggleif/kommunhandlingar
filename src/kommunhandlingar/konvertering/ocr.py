@@ -31,7 +31,11 @@ SPRAK = "swe"
 TROSKEL = 70
 TIDSGRANS = 300
 PARAGRAF = re.compile(r"\$+(?= ?\d)|(?<=\d )\$+|(?<=\d)\$+")
-UTFYLLNAD = re.compile(r"[ \t]*\.\.[a-zåäö.,>\s-]*?(\d+)[ \t]*$", re.MULTILINE)
+# Punkterna kan börja med brus utan mellanslag (`..ssss.....`); efter dem
+# står bara brus fram till sidnumret, på samma rad.
+UTFYLLNAD = re.compile(
+    r"[ \t]*(?:\.\.[a-zåäö.]*?)?\.{4}[a-zåäö., >-]*?(\d+)[ \t]*$", re.MULTILINE
+)
 
 
 def las(rendering: pdfium.PdfPage) -> str | None:
@@ -50,12 +54,7 @@ def las(rendering: pdfium.PdfPage) -> str | None:
 
 def rensa(text: str) -> str:
     text = PARAGRAF.sub(lambda m: "§" * len(m[0]), text)
-    return UTFYLLNAD.sub(utfyllnad, text)
-
-
-def utfyllnad(traff: re.Match) -> str:
-    # Tre punkter är en ellips i löptext; utfyllnaden har minst fyra i rad.
-    return f" .... {traff[1]}" if "...." in traff[0] else traff[0]
+    return UTFYLLNAD.sub(r" .... \1", text)
 
 
 def tesseract(bild: Path, ut: Path) -> bool:

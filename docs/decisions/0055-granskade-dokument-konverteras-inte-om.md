@@ -54,16 +54,21 @@ av OCR, och en tabell som läses fel på ett sätt som bara går igen en gång
 
 * `granskad` är dagen för granskningen, annars `null`.
 * Ett granskat dokument räknas som aktuellt oavsett vilken version av
-  poolen som konverterade det. Ett nytt original (en annan sha256) blir
+  poolen som konverterade det, också under en ny adress eller en ny
+  källnyckel med samma sha256. Ett nytt original (en annan sha256) blir
   en ny version (K9) utan granskning.
-* En `ocr`- eller `ej-konverterad`-sida vars tal jämförts med originalet
-  får lämna `tal_obekraftade`; en `tabell-osaker`-sida där varje tabell
+* En sida i `tal_obekraftade` vars tal jämförts med originalet får
+  lämna listan; en `tabell-osaker`-sida där varje tabell
   skrivits som CSV blir `ok`. Det som fortfarande är osäkert skrivs ut
   på sidan, och dokumentet märks ändå granskat (projektägaren
   2026-10-22).
 * De två OCR-fel som går igen i protokollen, `$` för `§` och
   innehållsförteckningens punktutfyllnad, rättas i konverteringen
   (version 0.9.0) innan granskningen börjar.
+* En PR som bara har granskade dokument under `data/` mergas av den som
+  granskat, när "Ren kod och tester" gått igenom, utan kontrollpunkten i
+  fas 7 (projektägaren 2026-10-22). Den liknar nattkörningens PR
+  (ADR-0052): den ändrar bara data, och diffen är granskningen.
 
 ### Consequences
 
