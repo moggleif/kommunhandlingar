@@ -1,7 +1,9 @@
-"""Krav: K29 i docs/02-KRAV.md, ADR-0050. Test: tests/test_malkort.py.
+"""Krav: K29 och K35 i docs/02-KRAV.md, ADR-0050 och ADR-0056.
+Test: tests/test_malkort.py och tests/test_fokusomraden.py.
 
 Det tidslinjen och korten båda behöver veta om ett spår: dess rubriker,
-slag och egenskaper för urvalet, och vad som visas för ett år.
+slag och egenskaper för urvalet, vad som visas för ett år, och vilka
+fokusområden som står under ett kommunmål.
 """
 
 from kommunhandlingar.webbplats.mal import SLAG, Mal
@@ -43,3 +45,18 @@ def egenskaper(nr: int, malen: list[Mal], ar: range) -> str:
         f'data-mal="{nr}" data-slag="{" ".join(slagen(malen))}" '
         f'data-aktiv="{aktiv}" data-bytt="{bytt}"'
     )
+
+
+# Ett fokusområde visas under huvudmålets spår, som kontrollen kräver är
+# ett kommunmål utan grupp, och inte för sig.
+def fristaende(spar: list[list[Mal]]) -> list[tuple[int, list[Mal]]]:
+    return [(nr, malen) for nr, malen in enumerate(spar) if not malen[-1].huvudmal]
+
+
+def under(spar: list[list[Mal]], mal: list[Mal]) -> list[tuple[int, list[Mal]]]:
+    nyckel = mal[-1].spar
+    return [
+        (nr, malen)
+        for nr, malen in enumerate(spar)
+        if (malen[-1].organ, malen[-1].huvudmal.casefold()) == nyckel
+    ]
