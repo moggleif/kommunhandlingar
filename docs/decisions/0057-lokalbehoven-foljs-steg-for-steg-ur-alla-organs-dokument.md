@@ -52,14 +52,14 @@ steg rymmer steg som inte följer budgetåret.
 
 * **Filen** är `lokalbehov/<kommun>.csv` med kolumnerna `organ`, `behov`,
   `ar`, `fas`, `varde`, `text`, `kalla` och `tolkad`. Faserna är
-  `forslag`, `lokalbehov`, `prioritet`, `lokalplan`, `startbeslut`, `pagar` och
+  `lokalbehov`, `prioritet`, `lokalplan`, `startbeslut`, `pagar` och
   `utfort`. `organ` är nämnden som äger behovet; `kalla` får vara ett
   dokument från vilket av kommunens organ som helst.
 * **Texten och värdet är källans** och prövas mot källans sidor på samma
   sätt som målfilen (ADR-0044). En prioritet måste ha ett värde och en
   lokalplan ett löpnummer. Som för målen går protokollet före
-  handlingarna (ADR-0045): ett förslag inför ett möte är fasen `forslag`
-  tills protokollet visar beslutet.
+  handlingarna (ADR-0045). Ett förslag står med först när beslutet är
+  känt, och källan byts mot protokollet när det finns i poolen.
 * **Ett behov har ett namn** på sidan, valt av agenten, även när källorna
   kallar det olika. När källan inte själv säger att steget gäller
   behovet står `tolkad = ja`, och ikonen får en streckad ram.
@@ -134,10 +134,10 @@ gjort och det som är på gång, och flera källor säger att arbete pågår
 utan att något beslut eller bokslut finns, som servicenämndens
 månadsvisa redovisning av projekten och nämndens delårsrapport.
 
-`forslag` kom till efter granskningen, som visade att förslaget till
-mötet 2026-10-22 stod som nämndens lokalbehov fast protokollet inte fanns.
-Projektägaren ville ändå se dagens lokalbehov på sidan, så förslaget fick
-en egen fas i stället för att vänta.
+Lokalbehov 2028–2032 godkändes på nämndens möte 2026-10-22, enligt
+projektägaren som följde mötet. Protokollet fanns inte i poolen än, så
+stegen har handlingarna som källa tills protokollet kommer. En egen fas
+för förslag prövades och togs bort samma dag när beslutet var känt.
 
 En prioritet som är ett ord, som "aktualiserade" när nämnden 2025 tog
 med Kompetenscentrum och Marios gata utöver de nya prioriteringarna,

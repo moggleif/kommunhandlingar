@@ -105,11 +105,7 @@ def nadd(stegen: list[Steg], fas: str) -> bool:
 # Knapparna visas av målsidans skript; utan det står allt.
 def urval(sista: int) -> str:
     val = [("alla", "Alla"), ("aktiv", f"I lokalbehov {sista}")]
-    val += [
-        (fas, betyder.capitalize())
-        for fas, (_, betyder) in FASER.items()
-        if fas != "lokalbehov"
-    ]
+    val += [(fas, betyder.capitalize()) for fas, (_, betyder) in FASER.items()][1:]
     knappar = "".join(
         f'<button type="button" data-urval="{v}">{text}</button>' for v, text in val
     )

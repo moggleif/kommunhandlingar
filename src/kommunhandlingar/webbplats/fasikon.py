@@ -16,11 +16,6 @@ FASER = dict(
     zip(
         lokalbehov.FASER,
         [
-            (
-                '<circle cx="8" cy="8" r="6" fill="none" stroke="currentColor" '
-                'stroke-width="1.5" stroke-dasharray="2 2"/>',
-                "föreslaget till nämnden",
-            ),
             (f'<circle cx="8" cy="8" r="6" {DRAG}/>', "i nämndens lokalbehov"),
             ('<circle cx="8" cy="8" r="7" fill="currentColor"/>', "prioriterat"),
             (f'<rect x="2" y="2" width="12" height="12" {DRAG}/>', "i lokalplanen"),
