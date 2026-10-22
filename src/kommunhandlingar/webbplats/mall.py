@@ -1,4 +1,4 @@
-"""Krav: K14, K18, K26, K27, K28 och K36 i docs/02-KRAV.md.
+"""Krav: K14, K18, K26, K27, K28, K36 och K37 i docs/02-KRAV.md.
 Test: tests/test_webbplats.py."""
 
 from dataclasses import dataclass, field
@@ -7,8 +7,8 @@ from html import escape
 
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats import avvikelser
-from kommunhandlingar.webbplats.lokalbehov import Steg
 from kommunhandlingar.webbplats.mal import Mal
+from kommunhandlingar.webbplats.spar import Steg
 from kommunhandlingar.webbplats.uppfoljningar import Uppfoljning
 
 STIL = """
@@ -45,7 +45,8 @@ class Mall:
     kalendrar: frozenset[str] = frozenset()
     malen: dict[str, list[Mal]] = field(default_factory=dict)
     uppfoljningar: dict[str, list[Uppfoljning]] = field(default_factory=dict)
-    lokalbehov: dict[str, list[Steg]] = field(default_factory=dict)
+    # Stegen per spårslag och kommun, som `spar["lokalbehov"]["kungsbacka"]`.
+    spar: dict[str, dict[str, list[Steg]]] = field(default_factory=dict)
 
 
 def rot(adress: str) -> str:

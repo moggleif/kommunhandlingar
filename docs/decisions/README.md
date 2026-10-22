@@ -80,3 +80,4 @@ Regler för det här repot, utöver MADR:
 | 0054 | [Webbplatsen visar avvikelserna i källan ur de öppna issuen, hämtade när den byggs](0054-avvikelserna-pa-webbplatsen-ur-issuen.md) | accepted |
 | 0056 | [Kommunfullmäktiges mål står på en egen målsida, med fokusområdena under sina mål och färgen i källan som bedömning](0056-kommunfullmaktiges-mal-med-fokusomraden-och-farg.md) | accepted |
 | 0057 | [Lokalbehoven följs steg för steg ur alla organs dokument, i en CSV per kommun, och visas som målsidan](0057-lokalbehoven-foljs-steg-for-steg-ur-alla-organs-dokument.md) | proposed |
+| 0058 | [Initiativärendena följs steg för steg som lokalbehoven, med samma kod och avsändaren som värde](0058-initiativarenden-foljs-som-lokalbehoven.md) | proposed |

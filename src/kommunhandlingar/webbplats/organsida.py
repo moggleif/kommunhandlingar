@@ -1,5 +1,6 @@
 """Krav: K18, K26 och K36 i docs/02-KRAV.md, ADR-0023.
-Test: tests/test_webbplats_dokument.py, tests/test_mal.py, tests/test_lokalbehov.py."""
+Test: tests/test_webbplats_dokument.py, tests/test_mal.py, tests/test_lokalbehov.py,
+tests/test_initiativ.py."""
 
 from collections import defaultdict
 from html import escape
@@ -10,6 +11,7 @@ from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.luckor import motesnamn
 from kommunhandlingar.webbplats.mall import Mall, lank, rot, sida, stig
 from kommunhandlingar.webbplats.rakning import Organrad
+from kommunhandlingar.webbplats.sparslag import SLAGEN
 
 Mote = tuple[str, str]
 
@@ -35,10 +37,8 @@ def organsida(mall: Mall, kommun: Kommun, rad: Organrad, dokument: list[dict]) -
 
 # Länkarna till organets sidor över tid, de som har rader.
 def overtidlankar(mall: Mall, kommun: Kommun, organ: str) -> str:
-    sidor = [
-        (mall.malen, "mal-och-direktiv", "Mål och direktiv över tid"),
-        (mall.lokalbehov, "lokalbehov", "Lokalbehov över tid"),
-    ]
+    sidor = [(mall.malen, "mal-och-direktiv", "Mål och direktiv över tid")]
+    sidor += [(mall.spar.get(s.id, {}), s.id, f"{s.rubrik} över tid") for s in SLAGEN]
     lankar = [
         f'<a href="{organ}/{fil}.html">{text}</a>'
         for rader, fil, text in sidor

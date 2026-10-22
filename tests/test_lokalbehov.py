@@ -1,5 +1,5 @@
 """Krav: K36 i docs/02-KRAV.md, ADR-0057. Kod: src/kommunhandlingar/webbplats/
-lokalbehov.py, lokalbehovsida.py, lokalbehovkort.py, fasikon.py, organsida.py
+spar.py, sparslag.py, sparsida.py, sparkort.py, sparikon.py, organsida.py
 och bygg.py."""
 
 import shutil
@@ -10,11 +10,12 @@ from pathlib import Path
 
 from kommunhandlingar.fel import Datafel
 from kommunhandlingar.konfiguration import las as las_kommun
-from kommunhandlingar.webbplats import lokalbehov
+from kommunhandlingar.webbplats import spar
 from kommunhandlingar.webbplats.bygg import bygg
-from kommunhandlingar.webbplats.lokalbehovkort import kalla
-from kommunhandlingar.webbplats.lokalbehovsida import lokalbehovsida
 from kommunhandlingar.webbplats.mall import Mall
+from kommunhandlingar.webbplats.sparkort import Vy, kalla
+from kommunhandlingar.webbplats.sparsida import sparsida
+from kommunhandlingar.webbplats.sparslag import LOKALBEHOV
 from tests.test_mal import BUDGET, ROT
 from tests.test_webbplats import FIXTURER, REPO, TID, dokument, exempelby
 
@@ -63,7 +64,7 @@ def lasta(rader: str = RADER, rubrik: str = RUBRIK):
         fil, data = Path(tmp) / "exempelby.csv", Path(tmp) / "data"
         fil.write_text(rubrik + rader, encoding="utf-8")
         skriv_pool(data)
-        yield lokalbehov.las(fil, exempelby(), data)
+        yield spar.las(fil, exempelby(), data, LOKALBEHOV)
 
 
 class TestLasning(unittest.TestCase):
@@ -85,7 +86,7 @@ class TestLasning(unittest.TestCase):
             (rad.replace(",2025,", ",25,"), "'25'"),
             (rad.replace("fsn,", "kun,", 1), "'kun'"),
             (rad.replace(",lokalplan,", ",beslut,"), "'beslut'"),
-            (rad.replace(",1412,", ",ett,", 1), "löpnumret"),
+            (rad.replace(",1412,", ",ett,", 1), "inte ett löpnummer"),
             (rad.replace(",Idrottshall,", ",,", 1), "tomma"),
             (rad.replace("1412 Idrottshall,", ",", 1), "tomma"),
             (rad.replace(",\n", ",kanske\n"), "'kanske'"),
@@ -99,14 +100,15 @@ class TestLasning(unittest.TestCase):
         prioritet = (
             f"fsn,Idrottshall,2024,prioritet,,1. Ny idrottshall,{BUDGET}#sida-2,\n"
         )
-        self.assertIn("prioriteten", self.stoppas(prioritet))
+        self.assertIn("inte en prioritet", self.stoppas(prioritet))
         self.assertIn("rubrikerna", self.stoppas(RADER, "organ,behov\n"))
 
 
 class TestSidan(unittest.TestCase):
     def sida(self) -> str:
         with lasta() as stegen:
-            return lokalbehovsida(Mall([exempelby()], REPO, TID), exempelby(), stegen)
+            vy = Vy.over(LOKALBEHOV, exempelby(), stegen)
+            return sparsida(Mall([exempelby()], REPO, TID), vy, stegen)
 
     def test_ett_behov_per_rad_och_ett_ar_per_kolumn(self):
         html = self.sida()
@@ -126,7 +128,7 @@ class TestSidan(unittest.TestCase):
 
     def test_kortet_har_historiken_med_text_och_kalla(self):
         html = self.sida()
-        kort = html.split('<article id="behov-0"')[1].split("</article>")[0]
+        kort = html.split('<article id="sak-0"')[1].split("</article>")[0]
         self.assertIn("<h3>Idrottshall</h3>", kort)
         self.assertIn("Senast: utfört 2025", kort)
         self.assertIn("<q>1412 Idrottshall</q>", kort)
@@ -134,8 +136,8 @@ class TestSidan(unittest.TestCase):
 
     def test_urvalet_och_sammandraget(self):
         html = self.sida()
-        self.assertIn('data-slag="lokalbehov prioritet lokalplan utfort"', html)
-        self.assertIn('data-urval="aktiv">I lokalbehov 2024', html)
+        self.assertIn('data-slag="lokalbehov prioritet lokalplan utfort senaste"', html)
+        self.assertIn('data-urval="senaste">I lokalbehov 2024', html)
         self.assertIn("<dt>i lokalplanen</dt><dd>1</dd>", html)
         self.assertIn("<script>", html)
 
@@ -179,6 +181,6 @@ class TestKungsbacka(unittest.TestCase):
     def test_filen_gar_ihop_med_kommunfilen_och_poolen(self):
         kungsbacka = las_kommun(ROT / "kommuner" / "kungsbacka.toml")
         fil = ROT / "lokalbehov" / "kungsbacka.csv"
-        stegen = lokalbehov.las(fil, kungsbacka, ROT / "data" / "kungsbacka")
+        stegen = spar.las(fil, kungsbacka, ROT / "data" / "kungsbacka", LOKALBEHOV)
         self.assertEqual({s.organ for s in stegen}, {"ga"})
         self.assertEqual(fil.read_bytes().count(b"\r"), 0)
