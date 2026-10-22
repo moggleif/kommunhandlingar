@@ -211,12 +211,14 @@ src/kommunhandlingar/
   konvertering/    pdf → md: sidans väg, text, tabeller och kvalitet
   facit/           konverteringen mätt mot facit för ett urval (K20)
   webbplats/       startsidan, statussidorna, organens och dokumentens sidor,
-                   kalendern, målen, lokalbehoven och avvikelserna
+                   kalendern, målen, lokalbehoven, initiativärendena och
+                   avvikelserna
 kommuner/<kommun>.toml
 kalender/<kommun>.csv  sammanträdena i kalendern, skrivna för hand (K22)
 mal/<kommun>.csv       nämndernas mål och direktiv, skrivna för hand (K26)
 uppfoljningar/<kommun>.csv  nämndernas uppföljningar av målen i protokollen (K28)
 lokalbehov/<kommun>.csv  nämndernas lokalbehov steg för steg, skrivna för hand (K36)
+initiativ/<kommun>.csv   nämndernas initiativärenden steg för steg, skrivna för hand (K37)
 hamtning.toml
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>[-<sista sida>]-<nr>.csv
@@ -1362,7 +1364,10 @@ varje push till `main`, för hand och när ett issue med etiketten
   (`<kommun>/<organ>/mal-och-direktiv.html`,
   [Mål och direktiv](#mål-och-direktiv)), en sida om lokalbehoven för
   varje organ med rader i kommunens lokalbehovsfil
-  (`<kommun>/<organ>/lokalbehov.html`, [Lokalbehov](#lokalbehov)),
+  (`<kommun>/<organ>/lokalbehov.html`, [Lokalbehov](#lokalbehov)), en
+  sida om initiativärendena för varje organ med rader i kommunens
+  initiativfil (`<kommun>/<organ>/initiativ.html`,
+  [Initiativärenden](#initiativärenden)),
   och en sida med avvikelserna
   i källan (`avvikelser.html`, se nedan). Sidmallen,
   menyn och stilen står i `webbplats/mall.py`. Varje sida har samma meny – startsidan, kommunerna
@@ -1698,7 +1703,7 @@ En kommun med en fil `lokalbehov/<kommun>.csv` får en sida
   att något är på gång eller utfört i nämndens egna rapporter eller
   servicenämndens redovisning. Var de finns i en kommun står i
   `docs/kallor/<kommun>.md`.
-- **Kontrollen** (`webbplats/lokalbehov.py`) stoppar bygget med raden
+- **Kontrollen** (`webbplats/spar.py`) stoppar bygget med raden
   enligt K36. Texten och värdet prövas mot källans sidor som målfilens
   (`mal.provbar`), med källans organ i stället för behovets.
 - **Ett förslag är inget beslut.** Nämndens lokalbehov och prioriteringar
@@ -1707,12 +1712,53 @@ En kommun med en fil `lokalbehov/<kommun>.csv` får en sida
   nämnden beslutat enligt förslaget innan protokollet finns i poolen, står
   steget med handlingarna som källa, och källan byts mot protokollet när
   det kommer.
-- **Sidan** (`webbplats/lokalbehovsida.py`, `lokalbehovkort.py`,
-  `fasikon.py`) följer målsidan: en hopfälld del om metoden, antalet behov
+- **Sidan** (`webbplats/sparsida.py`, `sparkort.py`, `sparikon.py`)
+  följer målsidan: en hopfälld del om metoden, antalet behov
   som nått varje fas, ett urval, en tidslinje med en rad per behov och en
   kolumn per år, med mandatperioderna ovanför, och ett kort per behov med
   remsa och historik. Varje fas har en egen form; en prioritet bär sin
   siffra eller första bokstaven i källans ord. Stilen är `mal.css` och
-  `lokalbehov.css`, och skriptet är målsidans `mal.js`, som läser
-  `data-slag` (faserna behovet nått) och `data-aktiv` (i nämndens senaste
-  lokalbehov).
+  `spar.css`, och skriptet är målsidans `mal.js`, som läser `data-slag`:
+  faserna behovet nått och `senaste` när det står i nämndens senaste
+  lokalbehov.
+- **Delat med initiativärendena** (ADR-0058): läsningen, kontrollen och
+  sidan är gemensamma för spår över tid. Det som skiljer lokalbehoven
+  från [initiativärendena](#initiativärenden) – kolumnens namn, faserna
+  med ikoner, värdenas form och sidans text – står i
+  `webbplats/sparslag.py`.
+
+## Initiativärenden
+
+Hur och varför står i
+[ADR-0058](decisions/0058-initiativarenden-foljs-som-lokalbehoven.md).
+En kommun med en fil `initiativ/<kommun>.csv` får en sida
+`<kommun>/<organ>/initiativ.html` för varje organ med rader i filen
+(K37), länkad från organets sida bredvid lokalbehoven. Filen, kontrollen
+och sidan är lokalbehovens ([Lokalbehov](#lokalbehov)), med de här
+skillnaderna:
+
+- **Kolumnen** `arende` i stället för `behov`: initiativärendets namn på
+  sidan, detsamma i alla steg.
+- **Faserna** är `vackt`, `beredning` (remitterat, bordlagt eller
+  återremitterat), `bifall`, `avslag`, `besvarat`, `uppfoljning`
+  (återrapport, information eller ett annat organs beslut efter
+  nämndens) och `genomfort`. En nämnd som både avslår och ger ett eget
+  uppdrag i samma beslut står som `avslag`; uppdraget syns i texten.
+- **Året** är året steget togs enligt källan, också när källan är
+  senare, som ett initiativ som väcktes i december och behandlades i
+  januari.
+- **Avsändaren** är värdet i steget `vackt` och krävs: partiets
+  förkortning eller `Alliansen` när källan skriver så, annars källans ord
+  (till exempel fyra partier uppräknade med namn). Den prövas mot
+  källans sida som andra värden. Ledamöternas namn står inte i filen;
+  de står i källan ett klick bort.
+- **Ordningen** inom ett år är den första fasen först och sedan
+  källornas datum, så att en återrapport står före ett senare beslut
+  samma år. Det gäller också lokalbehoven.
+- **Ett beslut** tas ur protokollet; ur handlingarna bara när protokollet
+  inte finns i poolen än, och källan byts när det kommer, som för
+  lokalbehoven.
+- **Sidan** visar avsändaren bredvid ärendets namn och på kortet,
+  räknar ärendena per fas och per avsändare och har ett urval per
+  avsändare. I `data-slag` står avsändaren som `av-<avsändaren>`, med
+  små bokstäver och bindestreck.

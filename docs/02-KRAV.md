@@ -1138,3 +1138,39 @@ och [Lokalbehov](03-ARKITEKTUR.md#lokalbehov).
   källa, eller en lokalbehovsfil utan kommunfil
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med filen, raden och felet.
+
+## K37 — Nämndens initiativärenden steg för steg
+
+Issue: [#191](https://github.com/moggleif/kommunhandlingar/issues/191).
+Hur och varför står i
+[ADR-0058](decisions/0058-initiativarenden-foljs-som-lokalbehoven.md)
+och [Initiativärenden](03-ARKITEKTUR.md#initiativärenden).
+
+- **Givet** en kommun med en initiativfil, där varje rad är ett steg
+  ett initiativärende i ett organ tar – väckt, beredning, bifall, avslag,
+  besvarat, uppföljning eller genomfört – med år, en text och en sida i
+  ett dokument i poolen som källa
+- **När** webbplatsen byggs
+- **Så** har varje organ med rader en sida om sina initiativärenden,
+  länkad från organets sida.
+- **Givet** sidan om ett organs initiativärenden
+- **När** den visas
+- **Så** står varje ärende på en rad i en tidslinje med en kolumn per år,
+  med avsändaren bredvid namnet och ikoner med olika form som visar årets
+  steg och länkar till källans sida, och på ett kort med avsändaren, en
+  remsa år för år och hela historiken med källans text.
+- **Givet** ett steg vars källa är ett annat organs dokument, eller vars
+  koppling till ärendet är en bedömning
+- **När** sidan visas
+- **Så** länkar steget till det organets dokument, och ett tolkat steg
+  har en streckad ram kring ikonen, som för lokalbehoven (K36).
+- **Givet** sidan
+- **När** besökaren väljer ett urval
+- **Så** visas bara de ärenden som nått den valda fasen eller som har den
+  valda avsändaren, och sammandraget räknar ärendena per fas och per
+  avsändare. Utan JavaScript står alla.
+- **Givet** en initiativfil med ett steg `vackt` utan avsändare, en
+  avsändare som inte står på källans sida, en okänd fas, ett tomt ärende
+  eller något annat som stoppar en lokalbehovsfil
+- **När** webbplatsen byggs
+- **Så** stoppas bygget med filen, raden och felet.

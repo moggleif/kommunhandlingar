@@ -308,6 +308,29 @@ har hittills bara Gymnasium & Arbetsmarknad, 2023–2026 (kontrollerat
 Nämnden får ingen återrapport om förra årets lokalbehov; ett behov som
 inte står med ett år syns som ett spår som tar slut.
 
+### Nämndernas initiativärenden
+
+Initiativfilen (K37,
+[ADR-0058](../decisions/0058-initiativarenden-foljs-som-lokalbehoven.md))
+har hittills bara Gymnasium & Arbetsmarknad, 2021–2026 (kontrollerat
+2026-10-22 i poolen):
+
+- **Initiativen** väcks på sammanträdet, ofta som en ny punkt på
+  ärendelistan, och står som egna paragrafer i protokollet med
+  "Initiativärende" eller "Initiativ" i rubriken. Nämnden remitterar dem
+  oftast till förvaltningen och beslutar på ett senare möte.
+- **Avsändaren** står i rubriken som en partiförkortning, som `(S)`, eller
+  i texten som Alliansen eller med partiernas namn.
+- **Protokollen ligger ibland i flera filer** för samma möte, med
+  paragrafernas nummer i filnamnet (`protokoll-…-14-17-26.md`). Ett
+  initiativ kan stå i den andra filen.
+- **Det som följer** står i nämndens protokoll och handlingar, och ibland
+  i kommunstyrelsens protokoll när nämnden ber om pengar ur en central
+  pott.
+- **Luckor:** nämndens protokoll från april till december 2023 och mötet
+  2025-03-27 saknas i poolen, liksom det mesta före 2021. Initiativ som
+  väcktes då syns bara genom senare protokoll, eller inte alls.
+
 ### Dokumentens innehåll
 
 - **Handlingarna är oftast en sammanslagen PDF per möte.** Ärendena
