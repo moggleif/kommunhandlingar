@@ -1686,7 +1686,7 @@ En kommun med en fil `lokalbehov/<kommun>.csv` får en sida
   | `organ`  | Organet som äger behovet, med id ur kommunfilen.                |
   | `behov`  | Behovets namn på sidan, detsamma i alla steg.                   |
   | `ar`     | Året beslutet eller rapporten kom: för en budget beslutsåret, inte budgetåret. |
-  | `fas`    | `forslag`, `lokalbehov`, `prioritet`, `lokalplan`, `startbeslut`, `pagar` eller `utfort`. |
+  | `fas`    | `lokalbehov`, `prioritet`, `lokalplan`, `startbeslut`, `pagar` eller `utfort`. |
   | `varde`  | Prioriteten (en siffra eller källans ord, krävs), lokalplanens löpnummer (krävs), eller tomt eller ett kort värde. Står på källans sidor. |
   | `text`   | Källans ord, ordagrant, som visar steget.                       |
   | `kalla`  | Sidan i poolen, `<organ>/<år>/<datum>/<namn>.md#sida-N` eller `#sida-N-M`, ur vilket organs dokument som helst. |
@@ -1703,10 +1703,10 @@ En kommun med en fil `lokalbehov/<kommun>.csv` får en sida
   (`mal.provbar`), med källans organ i stället för behovets.
 - **Ett förslag är inget beslut.** Nämndens lokalbehov och prioriteringar
   tas ur protokollet, eller ur handlingarna när protokollet visar att
-  förslaget bifölls, som för målen (ADR-0045). Ett förslag inför ett möte
-  vars protokoll inte finns i poolen står som fasen `forslag`, med en
-  egen ikon, och räknas inte som nämndens lokalbehov i urvalet. När
-  protokollet finns läggs steget `lokalbehov` till; förslaget står kvar.
+  förslaget bifölls, som för målen (ADR-0045). När projektägaren vet att
+  nämnden beslutat enligt förslaget innan protokollet finns i poolen, står
+  steget med handlingarna som källa, och källan byts mot protokollet när
+  det kommer.
 - **Sidan** (`webbplats/lokalbehovsida.py`, `lokalbehovkort.py`,
   `fasikon.py`) följer målsidan: en hopfälld del om metoden, antalet behov
   som nått varje fas, ett urval, en tidslinje med en rad per behov och en
