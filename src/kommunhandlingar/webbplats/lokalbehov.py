@@ -17,7 +17,10 @@ from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.mal import Sidtext, provbar, sidlasare
 
 KOLUMNER = ["organ", "behov", "ar", "fas", "varde", "text", "kalla", "tolkad"]
-FASER = ("lokalbehov", "prioritet", "lokalplan", "startbeslut", "pagar", "utfort")
+FASER = (
+    *("forslag", "lokalbehov", "prioritet"),
+    *("lokalplan", "startbeslut", "pagar", "utfort"),
+)
 
 
 @dataclass(frozen=True)

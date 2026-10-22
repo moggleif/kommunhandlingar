@@ -1106,9 +1106,10 @@ Hur och varför står i
 och [Lokalbehov](03-ARKITEKTUR.md#lokalbehov).
 
 - **Givet** en kommun med en lokalbehovsfil, där varje rad är ett steg
-  ett av ett organs lokalbehov tar – i nämndens lokalbehov, prioriterat,
-  i kommunbudgetens lokalplan, startbeslut, på gång eller utfört – med
-  år, en text och en sida i ett dokument i poolen som källa
+  ett av ett organs lokalbehov tar – föreslaget till nämnden, i nämndens
+  lokalbehov, prioriterat, i kommunbudgetens lokalplan, startbeslut, på
+  gång eller utfört – med år, en text och en sida i ett dokument i poolen
+  som källa
 - **När** webbplatsen byggs
 - **Så** har varje organ med rader en sida om sina lokalbehov, länkad
   från organets sida.
@@ -1126,6 +1127,10 @@ och [Lokalbehov](03-ARKITEKTUR.md#lokalbehov).
   källan inte själv säger att det gäller behovet
 - **När** sidan visas
 - **Så** är steget märkt tolkat, med en streckad ram kring ikonen.
+- **Givet** ett förslag till nämnden vars protokoll inte finns i poolen
+- **När** sidan visas
+- **Så** står förslaget med en egen ikon, och behovet räknas inte som
+  ett av nämndens lokalbehov förrän protokollet visar beslutet.
 - **Givet** sidan
 - **När** besökaren väljer ett urval
 - **Så** visas bara de behov som står i nämndens senaste lokalbehov
