@@ -21,6 +21,7 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ok, o
 tal_obekraftade: [9, 10, 13, 15, 39]
 figurer: [30, 34, 35]
 tolkade: []
+granskad: null
 ---
 
 <!-- sida 1 -->

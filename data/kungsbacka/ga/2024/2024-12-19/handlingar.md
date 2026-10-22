@@ -21,6 +21,7 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osake
 tal_obekraftade: [221, 222, 223, 224, 225, 226, 232]
 figurer: [9, 18, 20, 22, 23, 44, 50, 66, 78, 79, 80, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 97, 98, 99, 100, 155, 221, 222, 223, 224, 225, 226, 227]
 tolkade: []
+granskad: null
 ---
 
 <!-- sida 1 -->

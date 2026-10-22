@@ -21,6 +21,7 @@ kvalitet_per_sida: [ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, o
 tal_obekraftade: []
 figurer: [62, 63, 65, 67, 92, 94]
 tolkade: []
+granskad: null
 ---
 
 <!-- sida 1 -->

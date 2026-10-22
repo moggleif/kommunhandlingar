@@ -21,6 +21,7 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, 
 tal_obekraftade: [7, 75, 149, 150, 151, 152, 153, 154, 155, 157, 158, 159, 160, 161, 162, 163, 175, 177, 179, 181, 183]
 figurer: [7, 29, 36, 42, 43, 44, 52, 66, 75, 119, 120]
 tolkade: []
+granskad: null
 ---
 
 <!-- sida 1 -->

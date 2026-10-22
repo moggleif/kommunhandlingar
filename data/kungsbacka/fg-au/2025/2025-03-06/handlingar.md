@@ -21,6 +21,7 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konve
 tal_obekraftade: [14, 72]
 figurer: [13, 20, 33, 34, 48, 56, 63, 64, 65, 67, 68, 160, 229]
 tolkade: []
+granskad: null
 ---
 
 <!-- sida 1 -->
