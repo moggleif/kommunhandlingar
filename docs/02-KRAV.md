@@ -1050,3 +1050,44 @@ Hur och varför står i
   stängs, eller som får eller tappar en etikett
 - **När** det har hänt
 - **Så** byggs webbplatsen om.
+
+## K36 — Nämndens lokalbehov steg för steg
+
+Issue: [#186](https://github.com/moggleif/kommunhandlingar/issues/186).
+Hur och varför står i
+[ADR-0057](decisions/0057-lokalbehoven-foljs-steg-for-steg-ur-alla-organs-dokument.md)
+och [Lokalbehov](03-ARKITEKTUR.md#lokalbehov).
+
+- **Givet** en kommun med en lokalbehovsfil, där varje rad är ett steg
+  ett av ett organs lokalbehov tar – i nämndens lokalbehov, prioriterat,
+  i kommunbudgetens lokalplan, startbeslut, på gång eller utfört – med
+  år, en text och en sida i ett dokument i poolen som källa
+- **När** webbplatsen byggs
+- **Så** har varje organ med rader en sida om sina lokalbehov, länkad
+  från organets sida.
+- **Givet** sidan om ett organs lokalbehov
+- **När** den visas
+- **Så** står varje behov på en rad i en tidslinje med en kolumn per år,
+  där ikoner med olika form visar årets steg och länkar till källans
+  sida, och på ett kort med en remsa år för år och hela historiken med
+  källans text.
+- **Givet** ett steg vars källa är ett annat organs dokument, som
+  kommunfullmäktiges budget eller servicenämndens bokslut
+- **När** sidan visas
+- **Så** länkar steget till det organets dokument och namnger organet.
+- **Givet** ett steg vars koppling till behovet är en bedömning, där
+  källan inte själv säger att det gäller behovet
+- **När** sidan visas
+- **Så** är steget märkt tolkat, med en streckad ram kring ikonen.
+- **Givet** sidan
+- **När** besökaren väljer ett urval
+- **Så** visas bara de behov som står i det senaste årets lokalbehov
+  eller som nått den valda fasen. Utan JavaScript står alla.
+- **Givet** en lokalbehovsfil med ett organ som inte står i kommunfilen,
+  ett år som inte är fyra siffror, en okänd fas, en prioritet utan värde,
+  en lokalplan utan löpnummer, ett tomt behov eller en tom text, en källa
+  som inte är en sida i ett av kommunens organs dokument i poolen, en
+  text som inte står på källans sidor, samma steg två gånger ur samma
+  källa, eller en lokalbehovsfil utan kommunfil
+- **När** webbplatsen byggs
+- **Så** stoppas bygget med filen, raden och felet.

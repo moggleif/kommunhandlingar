@@ -1,5 +1,5 @@
-"""Krav: K18 och K26 i docs/02-KRAV.md, ADR-0023.
-Test: tests/test_webbplats_dokument.py, tests/test_mal.py."""
+"""Krav: K18, K26 och K36 i docs/02-KRAV.md, ADR-0023.
+Test: tests/test_webbplats_dokument.py, tests/test_mal.py, tests/test_lokalbehov.py."""
 
 from collections import defaultdict
 from html import escape
@@ -33,11 +33,18 @@ def organsida(mall: Mall, kommun: Kommun, rad: Organrad, dokument: list[dict]) -
     return sida(mall, adress, rad.namn, innehall)
 
 
+# Länkarna till organets sidor över tid, de som har rader.
 def malank(mall: Mall, kommun: Kommun, organ: str) -> str:
-    if not any(m.organ == organ for m in mall.malen.get(kommun.id, [])):
-        return ""
-    lank = f'<a href="{organ}/mal-och-direktiv.html">Mål och direktiv över tid</a>'
-    return f"<p>{lank}</p>"
+    sidor = [
+        (mall.malen, "mal-och-direktiv", "Mål och direktiv över tid"),
+        (mall.lokalbehov, "lokalbehov", "Lokalbehov över tid"),
+    ]
+    lankar = [
+        f'<a href="{organ}/{fil}.html">{text}</a>'
+        for rader, fil, text in sidor
+        if any(r.organ == organ for r in rader.get(kommun.id, []))
+    ]
+    return f"<p>{' · '.join(lankar)}</p>" if lankar else ""
 
 
 # Det första sammanträdet en dag har inget löpnummer, nästa har 2 (ADR-0003).

@@ -1,0 +1,11 @@
+/* Krav: K36 i docs/02-KRAV.md, ADR-0057. Faserna som ikoner på sidan om ett
+   organs lokalbehov; resten av stilen är målsidans (mal.css). */
+.fas { display: inline-block; line-height: 0; padding: 0.1em; margin: 0 1px;
+       color: var(--accent); border: 1px solid transparent; border-radius: 0.3em;
+       position: relative; }
+a.fas:hover, a.fas:focus { border-color: currentColor; }
+.fas.tolkad { border: 1px dashed currentColor; }
+.fas.startbeslut, .fas.pagar { color: #8a5a00; }
+.fas.utfort { color: #1a6b2a; }
+.malkort .remsa li { min-height: 2.9rem; }
+table.tidslinje col.rubrik { width: 18rem; }

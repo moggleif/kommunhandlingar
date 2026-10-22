@@ -250,6 +250,31 @@ i handlingarna. Formen 2013–2026 (kontrollerat 2026-10-13 i poolen):
   transformationsplanen (handlingarna 2021-06-23) nämner direktivet
   Digital mognad och står i målfilen som `rapport`.
 
+### Nämndernas lokalbehov
+
+Lokalbehovsfilen (K36,
+[ADR-0057](../decisions/0057-lokalbehoven-foljs-steg-for-steg-ur-alla-organs-dokument.md))
+har hittills bara Gymnasium & Arbetsmarknad, 2023–2026 (kontrollerat
+2026-10-22 i poolen). Stegen står i fyra organs dokument:
+
+- **Nämndens lokalbehov** för de kommande fem åren beslutas i oktober,
+  med behovsbeskrivningarna som bilagor i handlingarna och en
+  prioritering i protokollet, ibland efter ett yrkande. Handlingarna
+  2023 är inte hämtade, så det året syns bara genom senare hänvisningar.
+- **Lokalplanen** står i kommunbudgeten som fullmäktige beslutar i juni,
+  med ett löpnummer per projekt (1412–1415 för GA 2026). Samma tabell
+  återges i kommunstyrelsens handlingar.
+- **Startbeslutet** fattar kommunstyrelsen som "Uppstart av projekt i
+  lokalplan".
+- **Det som är på gång och utfört** står i servicenämndens protokoll och
+  bokslut, under servicenämndens egna projektnamn och projektnummer, som
+  inte är lokalplanens löpnummer. Kopplingen till nämndens behov är då en
+  bedömning (`tolkad = ja`). Nämndens delårsrapport och årsredovisning
+  nämner ibland arbete som pågår.
+
+Nämnden får ingen återrapport om förra årets lokalbehov; ett behov som
+inte står med ett år syns som ett spår som tar slut.
+
 ### Dokumentens innehåll
 
 - **Handlingarna är oftast en sammanslagen PDF per möte.** Ärendena
