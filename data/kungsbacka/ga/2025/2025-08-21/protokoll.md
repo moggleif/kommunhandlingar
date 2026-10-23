@@ -21,21 +21,28 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2025-08-21
 
-Plats och tid för Elof Lindälvs gymnasium Sal A 67 Klockan 17.00-18.45
-sammanträde
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium Sal A 67
+
+Klockan 17.00-18.45
 Paus 18.00-18.10
 
-Beslutande    Ledamöter                     Tjänstgörande ersättare
+Beslutande
+
+Ledamöter
 Axel Storckenfeldt (M), Ordförande
 Helena Nyborg (KD), 1:e vice ordförande
 Shabnam Zamani (S), 2:e vice ordförande
@@ -48,29 +55,50 @@ Karin Green (C)
 Jan Eric Knutas (L)
 Sebastian Lindberg (V)
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M)          Patrik Hellberg, förvaltningschef
-Pontus Jensen (S)             Johan Ronner, ekonomichef
-Osama Mohamad Mesto (C)       Andréas Mårtensson, kvalitet- och
-Christian Düring (KD)         utvecklingschef
-Cindia Escalante Mattsson,
-gymnasiechef
-Cecilia Fossan, biträdande
-gymnasiechef
+Tjänstgörande ersättare
+
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M)
+Pontus Jensen (S)
+Osama Mohamad Mesto (C)
+Christian Düring (KD)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Johan Ronner, ekonomichef
+Andréas Mårtensson, kvalitet- och utvecklingschef
+Cindia Escalante Mattsson, gymnasiechef
+Cecilia Fossan, biträdande gymnasiechef
 Karin Zetterman, verksamhetschef
 Frida Svärd, rektor § 89
 
-Personalföreträdare           Övriga
+Personalföreträdare
 Frida Hagelin, Sveriges lärare
 Cajsa Fridén, Sveriges ledare
 
-Plats och tid för justering Digital justering,
+Övriga
 
-Sekreterare   Karin Möglebust               Paragrafer §§ 88-96
+Plats och tid för justering
 
-Ordförande    Axel Storckenfeldt (M)
+Digital justering,
 
-Protokolljusterare May-Louise Flyrin (S)
+Sekreterare
+
+Karin Möglebust
+
+Paragrafer
+
+§§ 88-96
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+May-Louise Flyrin (S)
 
 <!-- sida 2 -->
 
@@ -154,10 +182,8 @@ vuxenutbildningen gällande verksamhetsår 2024.
 Nämnden för Gymnasium och Arbetsmarknad godkänner att fokusområden för
 vuxenutbildningen under 2025 är:
 1\. Översyn av det systematiska kvalitetsarbetet
-
 a. Säkerställande av styrkedjan, från huvudman till elev
 b. Implementering av ramavtal och uppföljning av leverans
-
 c. Fortsatt arbete utifrån Skolinspektionens rapport, i syfte att kvalitetssäkra både den
 generella och den individuella studie och yrkesvägledningen inom komvux
 2\. Fokus matematik – I syfte att vända den nedåtgående betygstrenden
@@ -166,7 +192,6 @@ generella och den individuella studie och yrkesvägledningen inom komvux
 
 Sammanfattning av ärendet
 Vuxenutbildningen har ett brett uppdrag som spänner över många målgrupper. Det är
-
 karriärväxlare, personer som behöver läsa in eller läsa upp betyg för högre studier
 och nyanlända vuxna som behöver lära sig svenska.
 Verksamhetsåret 2024 har präglats av en god arbetsmarknad, men också en oro hos
@@ -184,7 +209,6 @@ med det sker många större förändringar som påverkar Vuxenutbildningen. Blan
 annat beslut om planering och dimensionering samt införandet av Gy25. På lokal
 nivå kräver det ett ständigt utvecklingsarbete och utifrån det är det dags att uppdatera
 det systematiska kvalitetsarbetet så även det anpassas efter hastigheten inom
-
 komvux.
 Ett fortsatt arbete är sfi och gruppen nyanlända inom framför allt studieväg 1, med
 kort eller ingen tidigare skolbakgrund, som har en snårigare väg för att ta sig igenom
@@ -199,7 +223,6 @@ KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          5 (12)
 Nämnden för Gymnasium & Arbetsmarknad
 Datum
 2025-08-21
-
 hela sfi. Ett område att fokusera på är även matematiken, på gymnasial nivå, som
 visar på en kraftigt nedåtgående trend.
 
@@ -259,7 +282,6 @@ Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2025-08-08
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan notera informationen till protokollet och finner att nämnden
-
 bifaller det.
 
 Beslutet skickas till
@@ -288,7 +310,6 @@ Sammanfattning av ärendet
 
 Andréas Mårtensson, chef för kvalitet- och utveckling redogör för ärendet.
 De preliminära betygsresultaten visar på att betygen är tillbaka på ungefär samma
-
 nivå som de låg på innan pandemin.
 De genomsnittliga betygsnivåerna för avgångselever låg på 14,4 för de
 högskoleförberedande programmen, 14,0 för de nationella programmen och 13,0 på
@@ -297,7 +318,6 @@ yrkesprogrammen.
 Andelen procent elever med examen var för avgångseleverna 92,0 för
 högskoleförberedande, 91,1 nationella program och 89,4 för yrkesprogram.
 Andelen procent elever med behörighet till högskola och universitet var 92,0 för
-
 högskoleförberedande, 76,4 på de nationella programmen och 43,2 på yrkesprogram.
 Sommarskola erbjöds elever i åk 1 och 2. 194 elever var inskrivna. 165 elever blev
 betygssatta varav 118 elever fick betyg E eller högre.
@@ -340,7 +360,6 @@ Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2025-08-11
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan godkänna återrapporteringen gällande synpunkter, klagomål och
-
 händelserapportering kvartal 2, 2025 och finner att nämnden bifaller det.
 
 Det här dokumentet är digitalt signerat
@@ -473,7 +492,6 @@ Sammanfattning av ärendet
 
 Förvaltningschef Patrik Hellberg redogör för ärendet.
 Grundskolan har haft sommarskola för att öka behörigheten till gymnasiet. Flertal
-
 nior som läst upp sina betyg och fått behörighet att söka gymnasiet har blivit antagna
 som reserver.
 Elisabeth Grimhusen, HR- och kommunikationschef är sjukskriven 6 veckor. Under
@@ -495,7 +513,6 @@ totalförsvar och skolattacker
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan noterar informationen till protokollet och finner att nämnden
-
 bifaller det.
 
 Det här dokumentet är digitalt signerat

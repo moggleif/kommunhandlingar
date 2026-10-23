@@ -21,63 +21,91 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, 
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2025-04-24
 
-Plats och tid för Elof Lindälvs gymnasium sal A 67 Klockan 17.00-20.45
-sammanträde
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium sal A 67
+
+Klockan 17.00-20.45
+
 Paus 18.30-18.50
 
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Pontus Jensen (S) ersätter Shabnam
-Helena Nyborg (KD), 1:e vice ordförande Zamani (S)
-Jenny Nilsson (M)             Maria Svärd Wänt (M) ersätter
-May-Louise Flyrin (S)         Morgan Johansson (M)
-Marcus Lindälv (SD)           Hans Ädel (SD) ersätter Tina Hald
-Karin Green (C)               (SD)
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
+Jenny Nilsson (M)
+May-Louise Flyrin (S)
+Marcus Lindälv (SD)
+Karin Green (C)
 Jan Eric Knutas (L)
 Sebastian Lindberg (V)
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M)          Patrik Hellberg, förvaltningschef
-Pontus Jensen (S)             Johan Ronner, ekonomichef
-Hans Ädel (SD)                Andréas Mårtensson, kvalitet- och
-Osama Mohamad Mesto (C)       utvecklingschef §§ 42–47
-Christian Düring (KD)         Elisabeth Grimhusen, HR- och
-kommunikationschef
-Cindia Escalante Mattsson,
-gymnasiechef
+Tjänstgörande ersättare
+Pontus Jensen (S) ersätter Shabnam Zamani (S)
+Maria Svärd Wänt (M) ersätter Morgan Johansson (M)
+Hans Ädel (SD) ersätter Tina Hald (SD)
+
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M)
+Pontus Jensen (S)
+Hans Ädel (SD)
+Osama Mohamad Mesto (C)
+Christian Düring (KD)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Johan Ronner, ekonomichef
+Andréas Mårtensson, kvalitet- och utvecklingschef §§ 42–47
+Elisabeth Grimhusen, HR- och kommunikationschef
+Cindia Escalante Mattsson, gymnasiechef
 Karin Zetterman, verksamhetschef
 Alexandra Cameron, utvecklare
-Dan Sadé, rektor skolenhet 4
-Aranäsgymnasiet, § 45
+Dan Sadé, rektor skolenhet 4 Aranäsgymnasiet, § 45
 Adam Greveby, praktikant § 46
-
-Pernilla Börjesson, enhetschef
-Myndighet, § 47
-Anette Skårvik, enhetschef
-Arbetsmarknad, § 47
-Kristina Rosengren, enhetschef
-Etablering, § 47
+Pernilla Börjesson, enhetschef Myndighet, § 47
+Anette Skårvik, enhetschef Arbetsmarknad, § 47
+Kristina Rosengren, enhetschef Etablering, § 47
 Karin Möglebust, utvecklingsledare
 
-Personalföreträdare           Övriga
+Personalföreträdare
 Frida Hagelin, Sveriges Lärare
 
-Plats och tid för justering Digital justering
+Övriga
 
-Sekreterare   Karin Möglebust               Paragrafer § 43–58
+Plats och tid för justering
 
-Ordförande    Axel Storckenfeldt (M)
+Digital justering
 
-Protokolljusterare Karin Green (C)
+Sekreterare
+
+Karin Möglebust
+
+Paragrafer
+
+§ 43–58
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Karin Green (C)
 
 <!-- sida 2 -->
 
@@ -345,7 +373,6 @@ medarbetarengagemang) visa på något sämre siffor i år jämfört med förra �
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan notera informationen till protokollet och finner att nämnden
-
 bifaller det.
 
 Det här dokumentet är digitalt signerat
@@ -368,7 +395,6 @@ Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 Nämnden har beslutat om två extra uppföljningar per år gällande ekonomi- och
-
 måluppföljning. Johan Ronner, ekonomichef redogör för ärendet.
 
 Förvaltningen redovisar i mars en prognos på helåret på ca 2,8 miljoner kronor.
@@ -620,7 +646,6 @@ Ett syfte med överenskommelsen är att inom ramen för arbetet är utveckla
 samarbetet mellan den idéburna sektorn och Kungsbacka kommun och på det sättet
 bidra till den allmänna samhällsnyttan, samt utveckla metoder och innovativa
 lösningar för målgruppen som står utanför arbetsmarknaden. Överenskommelsen
-
 gäller från 2025-05-01 till och med 2025-12-31.
 
 Beslutsgång
@@ -659,7 +684,6 @@ i det låga antalet nomineringar. Flera år har kännetecknats av få inkomna
 nomineringar, vilket begränsar prisets genomslag och relevans. Mellan åren 2018–
 2024 var antalet nomineringar lågt och den högsta antalet nomineringar var fem år
 2022\. Det finns en negativ trend över tid och år 2024 var det endast två nominerade
-
 vilket även var fallet 2021. Det har varit svårt att uppmärksamma priset samtidigt
 som det medfört stor arbetsbörda för de som är ansvariga för priset. En överföring av
 priset till nämnden skulle öka arbetsbördan ytterligare. Nomineringsperioden
@@ -667,7 +691,6 @@ sammanfaller också med Årets medarbetare, vilket kan resultera i att Lära fö
 priset får minskad uppmärksamhet.
 Nämnden anser vidare att Lära för livet-priset ligger nära Årets medarbetare-priset
 och att de nominerade ofta passar bättre inom den kategorin. En samordning av
-
 nomineringar och utdelningar skulle minska det administrativa arbetet och skapa en
 mer överskådlig och sammanhållen process för medarbetare och invånare. Dessutom
 har det varit svårt att skapa uppmärksamhet för detta mindre pris, i jämförelse med
@@ -677,7 +700,6 @@ behålla.
 
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) finner att det finns ett förslag till beslut,
-
 nämligen förvaltningens förslag och frågar om nämnden för Gymnasium &
 Arbetsmarknad kan besluta enligt förslag och finner att nämnden bifaller det.
 
@@ -718,7 +740,6 @@ Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2025-04-07
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan godkänna återrapportering av synpunkter, klagomål och
-
 händelserapportering för kvartal 1, 2025 och finner att nämnden bifaller det.
 
 Det här dokumentet är digitalt signerat
@@ -748,7 +769,6 @@ ordförande och tjänstepersoner i enlighet med nämndens delegeringsförtecknin
 Dessa beslut ska redovisas till nämnden. Redovisningen innebär inte att nämnden
 omprövar eller fastställer delegeringsbesluten. Däremot får nämnden återta lämnad
 delegering eller föregripa ett beslut i ett enskild ärende av den som fått
-
 beslutanderätten genom att själva ta över ärendet och fatta beslut.
 Under perioden 2025-03-01 till 2025-03-31 har fem anställningar gjorts. Se bifogad
 lista

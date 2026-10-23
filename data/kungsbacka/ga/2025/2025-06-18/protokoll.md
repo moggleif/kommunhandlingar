@@ -21,25 +21,31 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, 
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2025-06-18
 
-Plats och tid för Elof Lindälvs gymnasium Sal A 67 Klockan 17.00-21.00
-sammanträde
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium Sal A 67
+
+Klockan 17.00-21.00
 Paus 18.10-18.30
 
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande från Osama Mesto (C) ersätter Axel
-punkt 3, 17:10                Storckenfeldt (M) p.1-2
-Helena Nyborg (KD), 1:e vice ordförande Anna Thomander (S) ersätter
-Shabnam Zamani (S), 2:e vice ordförande Sebastian Lindberg (V)
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande från punkt 3, 17:10
+Helena Nyborg (KD), 1:e vice ordförande
+Shabnam Zamani (S), 2:e vice ordförande
 Jenny Nilsson (M)
 Morgan Johansson (M)
 May-Louise Flyrin (S)
@@ -47,35 +53,52 @@ Tina Hald (SD)
 Karin Green (C)
 Jan Eric Knutas (L)
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Anna Thomander (S)            Patrik Hellberg, förvaltningschef
-Osama Mohamad Mesto (C)       Johan Ronner, ekonomichef
-Andréas Mårtensson, kvalitet- och
-utvecklingschef
-Elisabeth Grimhusen, HR- och
-kommunikationschef
-Cindia Escalante Mattsson,
-gymnasiechef
-Martin Håkansson, förvaltningsjurist
-förvaltningen för Individ &
-Familjeomsorg § 75
+Tjänstgörande ersättare
+Osama Mesto (C) ersätter Axel Storckenfeldt (M) p.1-2
+Anna Thomander (S) ersätter Sebastian Lindberg (V)
 
+Övriga närvarande
+
+Ersättare
+Anna Thomander (S)
+Osama Mohamad Mesto (C)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Johan Ronner, ekonomichef
+Andréas Mårtensson, kvalitet- och utvecklingschef
+Elisabeth Grimhusen, HR- och kommunikationschef
+Cindia Escalante Mattsson, gymnasiechef
+Martin Håkansson, förvaltningsjurist förvaltningen för Individ & Familjeomsorg § 75
 Alexandra Cameron, utvecklare § 76
 Erika Erngard, utvecklare § 77
-Lisa Jönsson, rektor enhet 4 Elof
-Lindälvs gymnasium § 78
+Lisa Jönsson, rektor enhet 4 Elof Lindälvs gymnasium § 78
 Linnea Söderman, HR-generalist § 79
-Personalföreträdare           Övriga
+
+Personalföreträdare
 Cajsa Fridén, Sveriges skolledare
 
-Plats och tid för justering Digital justering,
+Övriga
 
-Sekreterare   Karin Möglebust                       §§ 74-87
+Plats och tid för justering
+
+Digital justering,
+
+Sekreterare
+
+Karin Möglebust
+
 Paragrafer
 
-Ordförande    Axel Storckenfeldt (M)
+§§ 74-87
 
-Protokolljusterare Jenny Nilsson (M)
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Jenny Nilsson (M)
 
 <!-- sida 2 -->
 
@@ -416,7 +439,6 @@ modell av finansiering som bygger på samverkan och partnerskap.
 Överenskommelsen mellan nämnden för Gymnasium & Arbetsmarknad, nämnden
 för Individ & Familjeomsorg och Göteborgs Stadsmission syftar till att motverka
 hemlöshet i Kungsbacka kommun. I partnerskapet testas och utforskas en
-
 implementering av två olika modeller; Bostad först som riktar sig främst till individer
 i social hemlöshet samt Bobyrån, för främst individer i strukturell hemlöshet.
 
@@ -527,7 +549,6 @@ Delegeringslista beslut enligt socialtjänstlagen 2025-5-01 till 2025-05-31
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan notera informationen till protokollet och finner att nämnden
-
 bifaller det.
 
 Det här dokumentet är digitalt signerat
