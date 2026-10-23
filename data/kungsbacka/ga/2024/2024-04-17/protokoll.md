@@ -21,23 +21,31 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, 
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2024-04-17
 
-Plats och tid för Elof Lindälvs gymnasium Sal A 67 Klockan 17:00-20:32
-sammanträde
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium Sal A 67
+
+Klockan 17:00-20:32
+
 Paus 18:35-18:55
 
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Mikael Bokerud (KD) ersätter Tina
-Helena Nyborg (KD), 1:e vice ordförande Hald (SD)
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
 Shabnam Zamani (S), 2:e vice ordförande
 Jenny Nilsson (M)
 Morgan Johansson (M)
@@ -47,34 +55,39 @@ Karin Green (C)
 Jan Eric Knutas (L)
 Sebastian Lindberg (V)
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M)          Patrik Hellberg, förvaltningschef
-Pia Grapenstrand Kvarntun (M) Johan Ronner, ekonomichef
-Osama Mohamad Mesto (C)       Andréas Mårtensson, kvalitets- och
-Mikael Bokerud (KD)           utvecklingschef
-Elisabeth Grimhusen, HR- och
-kommunikationschef
-Karin Zetterman, verksamhetschef
-Kompetenscentrum
-Cindia Escalante Mattsson,
-gymnasiechef
-Pernilla Börjesson, enhetschef för
+Tjänstgörande ersättare
+Mikael Bokerud (KD) ersätter Tina Hald (SD)
 
-myndighet § 42
-Kristina Rosengren, enhetschef för
-etablering § 42
-Camilla Udin, samordnare enheten för
-arbetsmarknad § 42
-Thomas Fager, Arbetsförmedlingen §
-42
-Hanna Carlström, utvecklingsledare §
-43
+Övriga närvarande
 
-Personalföreträdare           Övriga
-Frida Hagelin, Sverige lärare Magdalena Sundqvist (S)
-kommunalråd
+Ersättare
+Maria Svärd Wänt (M)
+Pia Grapenstrand Kvarntun (M)
+Osama Mohamad Mesto (C)
+Mikael Bokerud (KD)
 
-Plats och tid för justering Digital justering,
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Johan Ronner, ekonomichef
+Andréas Mårtensson, kvalitets- och utvecklingschef
+Elisabeth Grimhusen, HR- och kommunikationschef
+Karin Zetterman, verksamhetschef Kompetenscentrum
+Cindia Escalante Mattsson, gymnasiechef
+Pernilla Börjesson, enhetschef för myndighet § 42
+Kristina Rosengren, enhetschef för etablering § 42
+Camilla Udin, samordnare enheten för arbetsmarknad § 42
+Thomas Fager, Arbetsförmedlingen § 42
+Hanna Carlström, utvecklingsledare § 43
+
+Personalföreträdare
+Frida Hagelin, Sverige lärare
+
+Övriga
+Magdalena Sundqvist (S) kommunalråd
+
+Plats och tid för justering
+
+Digital justering,
 
 <!-- sida 2 -->
 
@@ -83,11 +96,21 @@ Nämnden för Gymnasium & Arbetsmarknad
 Datum
 2024-04-17
 
-Sekreterare   Karin Möglebust               Paragrafer § 41-57
+Sekreterare
 
-Ordförande    Axel Storckenfeldt (M)
+Karin Möglebust
 
-Protokolljusterare May-Louise Flyrin (S)
+Paragrafer
+
+§ 41-57
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+May-Louise Flyrin (S)
 
 <!-- sida 3 -->
 
@@ -221,7 +244,6 @@ riskanalyser, egenkontroller m.m
 Tomas Fager från Arbetsförmedlingen i Varberg informerar om hur man arbetar
 tillsammans med Kompetenscentrum och med kommuninvånarna i Kungsbacka för
 att stödja dessa till arbete inom ramen för den lokala överenskommelsen som finns
-
 mellan Arbetsförmedlingen och Kompetenscentrum.
 
 Beslutsunderlag
@@ -268,7 +290,6 @@ Nämnden kommer att få regelbunden uppdatering om hur arbetet fortgår.
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan notera informationen till protokollet och finner att nämnden
-
 bifaller det.
 
 Expedierat/bestyrkt
@@ -306,7 +327,6 @@ lägre än förra året. Medarbetare som slutat på egen begäran ligger på 7,1
 interna rörligheten är på 6%.
 HME- mäter medarbetarengagemanget inom tre de tre områdena ledarskap,
 motivation och styrning. Både inom område motivation och ledarskap har
-
 förvaltningen höga siffror. Inom område styrning har förvaltningen tappat något.
 Totalt är förvaltningens HME siffror något högre än Kungsbacka som helhet.
 
@@ -412,7 +432,6 @@ Initiativ Feriejobb, 2023-12-11
 
 Förslag till beslut på sammanträdet
 Karin Green (C) lägger ett tilläggsyrkande om att förvaltningen ska undersöka om
-
 möjligheten för elever som inte haft feriearbete i åk 1 ska kunna söka feriearbete i åk
 2\.
 
@@ -424,7 +443,6 @@ det.
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan bifalla Karin Greens (C) tilläggsyrkande att förvaltningen ska
 undersöka om ungdomar som inte haft feriearbete i årskurs 1 kan söka feriearbete i
-
 årskurs 2 och finner att nämnden bifaller det.
 
 Expedierat/bestyrkt
@@ -608,14 +626,12 @@ att komma in på gymnasieskolorna och skriva kontrakt med elevråden för att s�
 dessa dyrgripar med tillbehör, är hög.
 Oavsett vad man tycker om hur viktig en studentmössa ”borde” vara så är den
 uppenbarligen mycket viktig för en ungdom som tar studenten. Den har för en del
-
 varit så viktig att eleven i fråga tar dyra lån för att kunna köpa och i vissa fall inte
 klarat av att betala lånet efteråt. Just problematiken om kostnad för studentmössa har
 uppmärksammats i flera kommuner och av flera huvudmän. I Umeå har man skrivit
 in barnperspektivet i riktlinjer för försörjningsstöd och då givit möjlighet till stöd för
 studentmössa bland andra sällankostnader.
 Ledningen på Tumba gymnasium, utanför Stockholm, har löst situationen genom att
-
 göra en direktupphandling av studentmössor för samtliga elever som tar studenten.
 De har kravspecificerat genom att beskriva att det ska vara en vid, klassisk
 studentmössa med broderat namn samt programsten. De har valt att ha med Tumba
@@ -685,7 +701,6 @@ föreslår nu att en ny verksamhetschef utses. Verksamhetschefsuppdraget för de
 psykologiska insatserna flyttas inte i och med detta förslag.
 Magnus Sandberg föreslås att av nämnden utses som verksamhetschef för
 medicinska delen av elevhälsan. Magnus bedöms vara lämplig för uppdraget utifrån
-
 sin utbildning, erfarenhet och personliga egenskaper. Magnus har en flerårig
 erfarenhet av arbete inom olika delar av hälso- och sjukvården och har närmast varit
 anställd i tre år som Medicinsk Ledningsanvarig Sjuksköterska (MLA) inom
@@ -702,7 +717,6 @@ och sjukvårdsverksamhet ska det finnas en verksamhetschef som ansvarar för att
 vården bedrivs i enlighet med hälso- och sjukvårdslagen.
 I 4 kap. 1 § hälso- och sjukvårdsförordningen anges att en verksamhetschef ska
 säkerställa att patientens behov av trygghet, kontinuitet, samordning och säkerhet i
-
 vården tillgodoses.
 Verksamhetschefen kan, och måste i vissa fall, mot bakgrund av sin kompetens
 uppdra åt annan att fullgöra enskilda ledningsuppgifter. Verksamhetschefen har dock
@@ -725,7 +739,6 @@ Verksamhetschefens ansvar ska omfatta följande områden:
 
 Systematiskt kvalitetsarbete
 • känna till de författningar, styrdokument och vetenskapliga rön för hälso- och
-
 sjukvårdsväsendet respektive utbildningsväsendet som berör medicinsk elevhälsa
 • ansvara för att upprätta ett förslag till ledningssystem enligt SOSFS 2011:9 för
 verksamheten som nämnden beslutar om
@@ -749,7 +762,6 @@ Löpande verksamhet
 • ansvara för den löpande verksamheten inom sitt område och se till att den fungerar
 på ett tillfredsställande sätt
 • se till att den medicinska insatsen tillgodoser kraven på hög patientsäkerhet och god
-
 vård
 • ansvara för att det finns de direktiv, instruktioner och rutiner som den löpande
 verksamheten kräver
@@ -758,7 +770,6 @@ verksamheten kräver
 säkerställer att patienten kan få del av information av sådant innehåll och i sådan
 omfattning som föreskrivs enligt relevanta bestämmelser i patientlagen
 • ansvara för att den medicinska elevhälsan har de lokaler, den utrustning och de
-
 resurser som behövs för att god vård ska kunna ges
 • ansvara för att inköp av tjänster, produkter, försörjnings- och informationssystem
 sker i enlighet med gällande rätt och kommunens riktlinjer
@@ -794,7 +805,6 @@ framkommer vidta åtgärder som krävs för att säkra verksamhetens kvalitet
 
 Personal
 • säkerställa att verksamhetens personal känner till och arbetar i enlighet med
-
 processerna och rutinerna i ledningssystemet
 • säkerställa att det finns skolläkare och skolsköterskor i den omfattning som
 tillgodoser behovet
@@ -890,7 +900,6 @@ avvaktas. Besluten ska redovisas till nämnden för Gymnasium & Arbetsmarknad.
 Redovisningen innebär inte att nämnden omprövar eller fastställer
 delegeringsbesluten. Däremot får nämnden för Gymnasium & Arbetsmarknad återta
 lämnad delegering eller föregripa ett beslut i ett enskilt ärende av den som fått
-
 beslutanderätten genom att själv ta över ärendet och fatta beslut.
 Följande ordförandebeslut anmäls till nämnden:
 
@@ -1055,14 +1064,12 @@ Sammanfattning av ärendet
 
 Strejkvarslet för Kommunal är avblåst sedan 16.30, 2024-04-17.
 Information kring metoden Bostad först. Bostad först är en välforskad och
-
 evidensbaserad metod för att hjälpa personer med sociala svårigheter att kunna hitta
 stabilitet i livet. Då boende är centralt, är det med boendefrågan man börjar för att
 sedan kunna bygga vidare för att kunna nå ett så självständigt liv som möjligt.
 Förvaltningen för Gymnasium & Arbetsmarknad och förvaltningen för Individ &
 Familjeomsorg har under de senaste tre månaderna haft flera workshops med
 Stadsmissionen där man undersökt förutsättningar för att införa Bostad först som
-
 metod i Kungsbacka.
 För förvaltningen för Gymnasium & Arbetsmarknad skulle det innebär att arbeta
 med den strukturella bostadslösheten i en omfattning av två lägenheter. Önskemål är

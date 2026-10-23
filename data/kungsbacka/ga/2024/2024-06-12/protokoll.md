@@ -21,25 +21,33 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, 
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2024-06-12
 
-Plats och tid för Elof Lindälvs gymnasium Sal A 67 Klockan 17:00-20:25
-sammanträde
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium Sal A 67
+
+Klockan 17:00-20:25
+
 Paus 18:30-18:55
 
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Maria Svärd Wänt (M) ersätter
-Helena Nyborg (KD), 1:e vice ordförande Hampus Jägnert (SD)
-Shabnam Zamani (S), 2:e vice ordförande Pontus Jensen (S) ersätter Sebastian
-Jenny Nilsson (M)             Lindberg (V) från kl 18:30
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
+Shabnam Zamani (S), 2:e vice ordförande
+Jenny Nilsson (M)
 Morgan Johansson (M)
 May-Louise Flyrin (S)
 Tina Hald (SD)
@@ -47,29 +55,51 @@ Karin Green (C)
 Jan Eric Knutas (L)
 Sebastian Lindberg (V) 17:00-18:30
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M)          Patrik Hellberg, förvaltningschef
-Pia Grapenstrand Kvarntun (M) Andréas Mårtensson, kvalitets- och
-Pontus Jensen (S)             utvecklingschef
-Anna Thomander (S)            Elisabeth Grimhusen HR- och
-Osama Mohamad Mesto (C)       kommunikationschef
-Hanna Carlström, utvecklingsledare
-§§ 72 samt 75–76
-Jacob Leuhovius, utvecklare Kultur &
-Fritid § 72
-Frida Svärd, rektor vuxnas lärande §
-73
+Tjänstgörande ersättare
+Maria Svärd Wänt (M) ersätter Hampus Jägnert (SD)
+Pontus Jensen (S) ersätter Sebastian Lindberg (V) från kl 18:30
 
-Personalföreträdare           Övriga
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M)
+Pia Grapenstrand Kvarntun (M)
+Pontus Jensen (S)
+Anna Thomander (S)
+Osama Mohamad Mesto (C)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Andréas Mårtensson, kvalitets- och utvecklingschef
+Elisabeth Grimhusen HR- och kommunikationschef
+Hanna Carlström, utvecklingsledare §§ 72 samt 75–76
+Jacob Leuhovius, utvecklare Kultur & Fritid § 72
+Frida Svärd, rektor vuxnas lärande § 73
+
+Personalföreträdare
 Frida Hagelin, Sveriges Lärare
 
-Plats och tid för justering Digital justering
+Övriga
 
-Sekreterare   Karin Möglebust               Paragrafer § 71-86
+Plats och tid för justering
 
-Ordförande    Axel Storckenfeldt (M)
+Digital justering
 
-Protokolljusterare Karin Green (C)
+Sekreterare
+
+Karin Möglebust
+
+Paragrafer
+
+§ 71-86
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Karin Green (C)
 
 <!-- sida 2 -->
 
@@ -335,7 +365,6 @@ och Omsorg”. I initiativärendet betonas Gymnasium & Arbetsmarknads avgörande
 roll i att förbereda individer för att möta behoven inom vården genom program som
 Vård & Omsorg. För att uppmuntra eleverna att stanna kvar i kommunen framhävs
 att de behöver erbjudas långsiktiga karriärmöjligheter. I initiativärendet föreslås att
-
 utforska möjligheten att erbjuda eleverna tillsvidareanställning inom kommunen efter
 avslutad utbildning.
 Med anledning av initiativärendet har förvaltningen varit i kontakt med förvaltningen
@@ -349,7 +378,6 @@ Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2024-05-21
 Förslag till beslut på sammanträdet
 Helena Nyborg (KD) yrkar på avslag på initiativet. Morgan Johansson (M) yrkar
 också på avslag. Jan Eric Knutas (L) yrkar avslag. Maria Svärd Wänt (M) yrkar
-
 avslag.
 Shabnam Zamani (S) yrkar bifall till förvaltningens förslag. Anna Thomander (S)
 stödjer Shabnam Zamani (S) yrkande.
@@ -428,7 +456,6 @@ programstrukturer, programändamål, examensmål, yrkesutgångar och yrkespaket.
 inom ovan samtliga områden och skolformer senast den 30 juni 2030. Förvaltningen
 kommer genomföra riskbedömningar med de fackliga organisationerna och dessa
 påbörjas innan semestern. Införandet av Gy-25 och dess effekter följs upp i det
-
 ordinarie systematiska kvalitetsarbetet under en specifik rubrik fram tills
 övergångsreglerna försvinner under 2030. Under 2026 kommer förberedelsearbetet
 och det första läsåret med ämnesbetyg att utvärderas.
@@ -494,7 +521,6 @@ i Kungsbacka kommun 2023-10-18, § 120. Genom beslutet pausades
 naturvetenskapsprogrammet vid Elof Lindälvs gymnasium och teknikprogrammet
 vid Aranäsgymnasiet. Detta i syfte att koncentrera programmen till en skola vardera
 och minska konkurrensen mellan huvudmannens utbildningar. Arbetet med
-
 profilering av skolorna har även det visat på behovet av att koncentrera
 utbildningarna till en skola vardera. Nämnden har nu att fastställa en permanent
 organisering av programutbud vid respektive skola. En barnrättslig analys visar att
@@ -552,7 +578,6 @@ för Gymnasium & Arbetsmarknad för beredning. Förvaltningen bedömer att
 införande av tolkavgift vid handläggning av ärenden strider mot rätten till tolk i
 förvaltningslagen och står i strid med kommunallagens förbud mot avgift för tjänst
 som kommunen är skyldig att tillhandahålla. Förvaltningen bedömer även att avgift
-
 för tolktjänst som inte bedöms vara handläggning enligt förvaltningslagen är
 olämplig då en sådan avgift riskerar att motverka att enskilda kontaktar
 verksamheterna vid behov av stöd eller kommunikation samt att verksamheten inte
@@ -702,7 +727,6 @@ modell av finansiering som bygger på samverkan och partnerskap.
 Överenskommelsen mellan nämnden för Gymnasium & Arbetsmarknad och
 Erikshjälpen Second hand syftar till att erbjuda insatser för personer som ska etablera
 sig på arbetsmarknaden, i form av arbetsmarknadsintroduktion som består av olika
-
 arbetsmoment i ett verkligt sammanhang och miljö.
 
 Beslutsunderlag

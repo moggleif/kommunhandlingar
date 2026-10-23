@@ -21,58 +21,88 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2024-02-21
 
-Plats och tid för Elof Lindälvs gymnasium Sal A 67 Klockan 17:00
-sammanträde
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Osama Mesto (C ) ersätter Karin
-Helena Nyborg (KD), 1:e vice ordförande Green (C)
-Shabnam Zamani (S), 2:e vice ordförande Maria Svärd Wänt (M) ersätter Jan
-Jenny Nilsson (M)             Eric Knutas (L)
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium Sal A 67
+
+Klockan 17:00
+
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
+Shabnam Zamani (S), 2:e vice ordförande
+Jenny Nilsson (M)
 Morgan Johansson (M)
 May-Louise Flyrin (S)
-
 Hampus Jägnert (SD)
 Tina Hald (SD)
 Sebastian Lindberg (V)
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M)          Patrik Hellberg, förvaltningschef
-Pia Grapenstrand Kvarntun (M) Johan Ronner, ekonomichef
-Henry Nellström (S)           Andréas Mårtensson, kvalitet- och
-Osama Mohamad Mesto (C)       utvecklingschef
-Mikael Bokerud (KD)           Elisabeth Grimhusen, HR- och
-kommunikationschef
 
-Cindia Escalante Mattsson,
-gymnasiechef
+Tjänstgörande ersättare
+Osama Mesto (C ) ersätter Karin Green (C)
+Maria Svärd Wänt (M) ersätter Jan Eric Knutas (L)
+
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M)
+Pia Grapenstrand Kvarntun (M)
+Henry Nellström (S)
+Osama Mohamad Mesto (C)
+Mikael Bokerud (KD)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Johan Ronner, ekonomichef
+Andréas Mårtensson, kvalitet- och utvecklingschef
+Elisabeth Grimhusen, HR- och kommunikationschef
+Cindia Escalante Mattsson, gymnasiechef
 Karin Möglebust, utvecklingsledare
-EvaLotta Magnusson, gymnasielärare
-§ 17
+EvaLotta Magnusson, gymnasielärare § 17
 Ulf Dohn, gymnasielärare § 17
 Camilla Sjögren, kommunikatör § 18
 Erika Erngard, lokalsamordnare § 18
 Frida Svärd, rektor § 19
 
-Personalföreträdare           Övriga
-Frida Hagelin, Sveriges Lärare, ej § 19 Cecilia Fossan, biträdande
-gymnasiechef §17
+Personalföreträdare
+Frida Hagelin, Sveriges Lärare, ej § 19
 
-Plats och tid för justering Direkt justering digital,
+Övriga
+Cecilia Fossan, biträdande gymnasiechef §17
 
-Sekreterare   Karin Möglebust               Paragrafer § 23
+Plats och tid för justering
 
-Ordförande    Axel Storckenfeldt (M)
+Direkt justering digital,
 
-Protokolljusterare Shabnam Zamani (S)
+Sekreterare
+
+Karin Möglebust
+
+Paragrafer
+
+§ 23
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Shabnam Zamani (S)
 
 <!-- sida 2 -->
 
