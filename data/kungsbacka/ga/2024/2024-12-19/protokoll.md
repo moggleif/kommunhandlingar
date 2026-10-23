@@ -21,25 +21,33 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, 
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2024-12-19
 
-Plats och tid för Elof Lindälvs gymnasium Sal A 67 Klockan 17:00-20:20
-sammanträde
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium Sal A 67
+
+Klockan 17:00-20:20
+
 Paus 18:50-19:10
 
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Pontus Jensen (S) ersätter May-Louise
-Helena Nyborg (KD), 1:e vice ordförande Flyrin (S)
-Shabnam Zamani (S), 2:e vice ordförande Osama Mohamad Mesto (C) ersätter
-Jenny Nilsson (M)             Karin Green (C)
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
+Shabnam Zamani (S), 2:e vice ordförande
+Jenny Nilsson (M)
 Morgan Johansson (M)
 Karin Green (C) från § 160 18:00
 May-Louise Flyrin (S) från § 161 17:15
@@ -48,31 +56,54 @@ Tina Hald (SD)
 Jan Eric Knutas (L)
 Sebastian Lindberg (V)
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M)          Patrik Hellberg, förvaltningschef
-Pontus Jensen (S)             Johan Ronner, ekonomichef
-Anna Thomander (S)            Andréas Mårtensson, kvalitet- och
-Osama Mohamad Mesto (C)       utvecklingschef
-Mikael Bokerud (KD)           Cindia Escalante Mattsson,
-gymnasiechef
-Elisabeth Grimhusen, HR- och
-kommunikationschef
+Tjänstgörande ersättare
+Pontus Jensen (S) ersätter May-Louise Flyrin (S)
+Osama Mohamad Mesto (C) ersätter Karin Green (C)
+
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M)
+Pontus Jensen (S)
+Anna Thomander (S)
+Osama Mohamad Mesto (C)
+Mikael Bokerud (KD)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Johan Ronner, ekonomichef
+Andréas Mårtensson, kvalitet- och utvecklingschef
+Cindia Escalante Mattsson, gymnasiechef
+Elisabeth Grimhusen, HR- och kommunikationschef
 Karin Zetterman, verksamhetschef
 Angela Lyrhagen § 159
-
 Hanna Tengelin §§ 160-161
 Lisa Jönsson §§160-161
 Cajsa Oldhagen Fridén §160
 
-Personalföreträdare           Övriga
+Personalföreträdare
 
-Plats och tid för justering Digital justering,
+Övriga
 
-Sekreterare   Karin Möglebust               Paragrafer § 158-178
+Plats och tid för justering
 
-Ordförande    Axel Storckenfeldt (M)
+Digital justering,
 
-Protokolljusterare Sebastian Lindberg (V)
+Sekreterare
+
+Karin Möglebust
+
+Paragrafer
+
+§ 158-178
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Sebastian Lindberg (V)
 
 <!-- sida 2 -->
 
@@ -202,7 +233,6 @@ Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 Angela Lyrhagen, enhetschef för vägledning föredrar ärendet. Det kommunala
-
 aktivitetsansvaret- KAA innebär att en hemkommun ska hålla sig informerad om hur
 ungdomar mellan 16-20 år håller sig sysselsatta när de inte har avslutat sin
 gymnasieutbildning, anpassad gymnasium eller motsvarande utbildning på ex
@@ -210,7 +240,6 @@ folkhögskola. Hemkommunen ska erbjuda berörda ungdomar lämpliga individuella
 åtgärder som i första hand ska försöka få ungdomarna till att återuppta sina studier.
 En del ungdomar åker utomlands eller hittar egna arbeten på timmar eller tillsvidare.
 Under året som gått så ser man att målgruppen har ökat, det är mer komplexa behov
-
 som kräver nytänkande för att möta de unga. Man jobbar också på att hitta bra
 aktiviteter för de ungdomar som är mellan 16-18 år och som kan ha svårigheter att
 hitta praktikplats.
@@ -220,7 +249,6 @@ att det är ett kommungemensamt ansvar.
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan notera informationen till protokollet och finner att nämnden
-
 bifaller det.
 
 Det här dokumentet är digitalt signerat
@@ -251,7 +279,6 @@ de olika nivåerna för att motsvara skollagens krav.
 I huvudmannens uppföljning av systematiskt kvalitetsarbete för Gymnasieskolan och
 Gymnasiesärskolan/Anpassad gymnasieskola återfinns en beskrivning av de
 processer som möjliggör för huvudmannen att kunna ha ett systematiskt
-
 kvalitetsarbete. Det finns också en beskrivning av resultat samt analyser och vilka
 förbättringsområden som identifierats.
 
@@ -299,7 +326,6 @@ Sammanfattning av ärendet
 
 Rektor Hannah Tengelin och rektor Lisa Jönsson föredrar ärendet.
 Nämnden har ett mål att stärka kopplingen mellan skola och arbetsliv. Alla program
-
 inom gymnasiet arbetar på något sätt att närma sig arbetslivet. Bland annat jobbar
 skolan med den generella vägledningen tillsammans med studie- och
 yrkesvägledningen. När det gäller yrkesprogrammen så arbetar man tillsammans med
@@ -307,7 +333,6 @@ branschen. Ytterligare arbete för att öka kopplingen mellan skola och arbetsli
 blanda annat att ytterligare utveckla APL och collegeplattformarna.
 På de högskoleförberedande som arbetar man med att utveckla autentiska projekt i
 samarbete med arbetslivet. Studiebesök och gästföreläsare bjuds in efter önskemål av
-
 eleverna. Man har också yrkesdagar- och mässor.
 Skolorna arbetar aktivt med att hitta ytterligare nya vägar och möjligheter för att
 koppla än mer koppla arbetslivet till skolan.
@@ -354,7 +379,6 @@ specialistundersköterska.
 
 Potentiella effekter
 Programmet skulle bidra till att möta det ökande behovet av
-
 specialistundersköterskor inom vård och omsorg i kommunen, regionen och privata
 vårdgivare.
 Genom att utbilda specialistundersköterskor med specifik kompetens inom områden
@@ -573,7 +597,6 @@ inventarier som har en varaktighet under flera år. Följande kriterier gäller;
 ekonomisk livslängd på tre år eller mer, sammanlagt anskaffningsvärde överstiger 50
 tkr och/eller att anskaffningens delar är ett led i en större investering. Gymnasium &
 Arbetsmarknad investerar ingenting i våra lokaler utan det görs av Service
-
 fastigheter.
 När en anskaffning uppfyller dessa kriterier så ska den redovisas som en
 anläggningstillgång och värdet ska skrivas av. Avskrivning tillsammans med
@@ -684,7 +707,6 @@ gymnasieskolor. Bidraget ska baseras på budget för kommande budgetår och dela
 upp i ett grundbelopp och ett tilläggsbelopp.
 
 Grundbeloppet avser ersättning för undervisning, lärverktyg, elevhälsa, måltider,
-
 administration (schablon 3 %), mervärdesskatt (schablon 6 %) och lokalkostnader.
 Tilläggsbeloppet är sökbart och avser ersättning för extraordinära stödåtgärder för
 elever som har ett omfattande behov av särskilt stöd eller ska erbjudas
@@ -692,7 +714,6 @@ modersmålsundervisning eller studiehandledning. Hemkommunen är inte skyldig at
 betala tilläggsbelopp för en elev i behov av särskilt stöd, om betydande
 organisatoriska eller ekonomiska svårigheter uppstår för kommunen. Beslut om
 eventuella tilläggsbelopp fattas löpande då ansökningarna har inkommit till
-
 kommunen.
 Grundbeloppen baseras på kommunens egen budget för de gymnasieprogram och
 inriktningar som bedrivs i egen regi. För de gymnasieprogram som inte finns i egen
@@ -700,7 +721,6 @@ regi men som bedrivs inom Göteborgsregionen (GR) utbetalas detta belopp. För d
 gymnasieprogram som varken finns i egen regi eller inom GR utbetalas belopp enligt
 riksprislistan för 2025. Fristående gymnasieskolor som har program med lokal
 inriktning kommer att ersättas motsvarande en nationell inriktning på programmet
-
 med undantag för hantverksprogrammet. I de fall den lokala inriktningen för
 hantverksprogrammet finns inom GR används detta belopp i första hand och för
 övriga inriktningar så utbetalas belopp enligt riksprislistan 2025. Eftersom
@@ -709,7 +729,6 @@ fristående gymnasieskolor att kompletteras så snart som möjligt.
 Enligt gymnasieförordningen (2010:2039) 14 kap 10 § ska en kommun som lämnar
 bidrag för en elev i en fristående skola kunna redovisa hur bidraget har beräknats, för
 den enskilda huvudmannen. Av redovisningen ska beloppen för lokalkostnader,
-
 administration och mervärdesskatt framgå. Om det inte finns särskilda skäl, ska
 redovisningen även innehålla belopp för övriga kostnadsslag var för sig.
 Förvaltningen för Gymnasium & Arbetsmarknads budget- och
@@ -725,13 +744,11 @@ KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          18 (26)
 Nämnden för Gymnasium & Arbetsmarknad
 Datum
 2024-12-19
-
 det inte möjlighet att redovisa hur bidraget har beräknats för varje kostnadsslag för
 sig. Ett minimikrav i gymnasieförordningen är att kunna urskilja beloppen för
 lokalkostnader, administration och mervärdesskatt.
 Förvaltningen för Gymnasium & Arbetsmarknad anser att det endast finns möjlighet
 att redovisa beloppen enligt lokalkostnader, administration och mervärdesskatt samt
-
 övrigt grundbelopp och därmed uppfylla minimikraven för redovisning enligt
 bidragsreglerna.
 
@@ -774,7 +791,6 @@ GR:s utbildningschefsnätverk.
 Efter politisk beredning i antagningsnämnden och därefter i förbundsstyrelsen har ett
 fel upptäckts i prislistan vilket behöver rättas.
 Felet gäller ersättning för nationellt godkänd idrottsutbildning (NIU) för lag. Priset
-
 har räknats upp från ett felaktigt gammalt värde och ska istället vara 17 100 kr/år
 vilket framgår av uppdaterad prislista daterad 2024-11-15.
 Uppdaterad prislista börjar gälla per den 1 januari 2025.
@@ -836,7 +852,6 @@ modell av finansiering som bygger på samverkan och partnerskap.
 Överenskommelsen mellan nämnden för Gymnasium och Arbetsmarknad och
 Göteborgs Stadsmission syftar till att erbjuda insatser för personer som ska etablera
 sig på arbetsmarknaden, i form av arbetsmarknadsintroduktion som består av olika
-
 arbetsmoment i ett verkligt sammanhang och miljö.
 
 Beslutsunderlag
@@ -881,7 +896,6 @@ modell av finansiering som bygger på samverkan och partnerskap.
 Överenskommelsen mellan nämnden för Gymnasium och Arbetsmarknad och
 Erikshjälpen Second hand syftar till att erbjuda insatser för personer som ska etablera
 sig på arbetsmarknaden, i form av arbetsmarknadsintroduktion som består av olika
-
 arbetsmoment i ett verkligt sammanhang och miljö.
 
 Beslutsunderlag

@@ -21,47 +21,78 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2025-01-16
 
-Plats och tid för Elof Lindälvs Gymnasium A 67 Klockan 17:00-18:02
-sammanträde
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Osama Mohamad Mesto (C) ersätter
-Helena Nyborg (KD), 1:e vice ordförande Karin Green (C) fram till § 5.
+Plats och tid för sammanträde
+
+Elof Lindälvs Gymnasium A 67
+
+Klockan 17:00-18:02
+
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
 Shabnam Zamani (S), 2:e vice ordförande
 Jenny Nilsson (M)
 Morgan Johansson (M)
 Karin Green (C) från kl 17:41
-
 May-Louise Flyrin (S)
 Marcus Lindälv (SD)
 Tina Hald (SD)
 Jan Eric Knutas (L)
 Sebastian Lindberg (V)
-Övriga närvarande Ersättare                 Tjänstepersoner
-Pia Grapenstrand Kvarntun (M) Patrik Hellberg, förvaltningschef
-Pontus Jensen (S)             Karin Möglebust, utvecklingsledare
+
+Tjänstgörande ersättare
+Osama Mohamad Mesto (C) ersätter Karin Green (C) fram till § 5.
+
+Övriga närvarande
+
+Ersättare
+Pia Grapenstrand Kvarntun (M)
+Pontus Jensen (S)
 Hans Ädel (SD)
 Osama Mohamad Mesto (C)
 
-Personalföreträdare           Övriga
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Karin Möglebust, utvecklingsledare
+
+Personalföreträdare
 Frida Hagelin, Sveriges Lärare
 
-Plats och tid för justering Digital justering,
+Övriga
 
-Sekreterare   Karin Möglebust               Paragrafer § 1-10
+Plats och tid för justering
 
-Ordförande    Axel Storckenfeldt (M)
+Digital justering,
 
-Protokolljusterare Jenny Nilsson (M)
+Sekreterare
+
+Karin Möglebust
+
+Paragrafer
+
+§ 1-10
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Jenny Nilsson (M)
 
 <!-- sida 2 -->
 
@@ -171,7 +202,6 @@ investeringar i elevhälsa och skolverksamhet är grundpelare på vilka det rät
 samhällsbygget vilar. Varje krona investerad i dessa grundpelare är en krona
 investerad i vår framtid och i varje individs oberoende samt frigörelse. Nedan följer
 de tillägg som vi anser är av avgörande vikt för att Kungsbacka kommun ska stå
-
 robusta inför en osäker och svår framtid. Det är nödvändigt att social och ekologisk
 hållbarhet värderas på samma nivå som den ekonomiska hållbarheten.
 Möjligheter som behöver stärkas:
@@ -259,7 +289,6 @@ hälso och sjukvård skall (måste) ha ett aktuellt ledningssystem och revidera 
 behov/ändringar. Systemet skall fastställa principer för ledning av verksamheten
 samt identifiera processer som berörs och beskriva det systematiska kvalitetsarbetet.
 Redovisning av patientsäkerhetsarbetet sker årligen genom
-
 patientsäkerhetsberättelsen som fastställs av nämnden i mars varje år.
 Ledningssystemet är reviderat och motsvarar de krav som ställs på ledningssystemet.
 
@@ -309,7 +338,6 @@ Vid nämnden sammanträde 2024-12-19 lade Alliansen fram ett initiativärende §
 ”Utredning av specialistundersköteskeutbildning”. Ärendet remitterades till
 förvaltningen för vidare beredning om en utredning av frågan är en möjlighet.
 Förvaltningen gör bedömningen att även om initiativet har sina utmaningar så bör det
-
 utredas vidare.
 
 Beslutsunderlag
@@ -363,7 +391,6 @@ fungera som en motivation för andra elever att sträva efter högre akademiska
 prestationer. Historiskt sett har liknande system funnits i svenska läroverk, där
 utmärkelser som "Maxima cum laude" gavs till de mest framstående studenterna.
 Genom att återinföra ett sådant system hoppas Kungsbacka att vända eventuella
-
 negativa inställningar till studier och uppmuntra en kultur där akademisk excellens
 värderas högt.
 
@@ -450,7 +477,6 @@ att själva ta över ärendet och fatta beslut.
 
 Under perioden har ett beslut om anställning gjorts.
 904 beslut har tagits enligt 4 kap 1-2, 4 §§ samt 11 kap 1 § socialtjänstlagen. På
-
 grund av nytt verksamhetssystem går ej en adekvat lista att bifogas.
 
 Beslutsunderlag

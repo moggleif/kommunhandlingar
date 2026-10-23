@@ -21,58 +21,87 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2025-02-20
 
-Plats och tid för Elof Lindälvs gymnasium sal A 67 Klockan 17:00-20.03
-sammanträde
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Pontus Jensen (S) ersätter Sebastian
-Helena Nyborg (KD), 1:e vice ordförande Lindberg (V)
-Shabnam Zamani (S), 2:e vice ordförande Osama Mesto (C) ersätter Karin
-Jenny Nilsson (M)             Green (C)
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium sal A 67
+
+Klockan 17:00-20.03
+
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
+Shabnam Zamani (S), 2:e vice ordförande
+Jenny Nilsson (M)
 Morgan Johansson (M)
 May-Louise Flyrin (S)
-
 Tina Hald (SD)
 Marcus Lindälv (SD)
 Jan Eric Knutas (L)
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M)          Patrik Hellberg, förvaltningschef
-Pia Grapenstrand Kvarntun (M) Johan Ronner, ekonomichef
-Pontus Jensen (S)             Andréas Mårtensson, kvalitet- och
-Hans Ädel (SD)                utvecklingschef
-Osama Mohamad Mesto (C)       Elisabeth Grimhusen, HR- och
-kommunikationschef
+
+Tjänstgörande ersättare
+Pontus Jensen (S) ersätter Sebastian Lindberg (V)
+Osama Mesto (C) ersätter Karin Green (C)
+
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M)
+Pia Grapenstrand Kvarntun (M)
+Pontus Jensen (S)
+Hans Ädel (SD)
+Osama Mohamad Mesto (C)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Johan Ronner, ekonomichef
+Andréas Mårtensson, kvalitet- och utvecklingschef
+Elisabeth Grimhusen, HR- och kommunikationschef
 Karin Zetterman, verksamhetschef
-
 Karin Möglebust, utvecklingsledare
-Mats Söderström, verksamhetschef,
-förvaltningen för Service § 12
-Maria Rosenberg, verksamhetschef
-förvaltningen för Service § 12
-Magnus Sandberg, verksamhetschef
-EMI §§13-14
-Cecilia Fossan, biträdande
-gymnasiechef § 15
+Mats Söderström, verksamhetschef, förvaltningen för Service § 12
+Maria Rosenberg, verksamhetschef förvaltningen för Service § 12
+Magnus Sandberg, verksamhetschef EMI §§13-14
+Cecilia Fossan, biträdande gymnasiechef § 15
 
-Personalföreträdare           Övriga
-Frida Hagelin, Sveriges Lärare "[Skriv övriga här]"
+Personalföreträdare
+Frida Hagelin, Sveriges Lärare
 
-Plats och tid för justering Digital justering,
+Övriga
+"[Skriv övriga här]"
 
-Sekreterare   Karin Möglebust               Paragrafer § 16-18
+Plats och tid för justering
 
-Ordförande    Axel Storckenfeldt (M)
+Digital justering,
 
-Protokolljusterare May-Louise Flyrin (S)
+Sekreterare
+
+Karin Möglebust
+
+Paragrafer
+
+§ 16-18
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+May-Louise Flyrin (S)
 
 <!-- sida 2 -->
 
@@ -120,7 +149,6 @@ Gymnasieverksamheten är den enda verksamheten som redovisar underskott för år
 tjänster och lägre driftkostnader.
 Gymnasieverksamheten redovisar ett underskott på 12,5 mkr. Underskottet
 förekommer både inom de centrala ansvarsområdena, där köp och sälj av utbildning
-
 redovisas, samt inom skolenheterna på våra kommunala skolor.
 Vuxenutbildningen redovisar ett överskott på 2,4 mkr, vilket främst beror på
 betydligt lägre kostnader för köp av gymnasial utbildning.
@@ -130,7 +158,6 @@ ersättningarna från Migrationsverket varit högre än kostnaderna för mottaga
 Ekonomiskt bistånd redovisar ett överskott på 10,6 mkr. Detta beror på att kostnaden
 för utbetalt ekonomiskt bistånd varit lägre än budgeterat. Jämfört med åren 2020-
 2023 har vi under 2024 haft färre ärenden, vilket inneburit lägre kostnader för
-
 ekonomiskt bistånd.
 
 Beslutsunderlag
@@ -219,7 +246,6 @@ enligt de ekonomiska styrprinciperna ansvarar nämnderna för att den interna
 kontrollen är tillräcklig. Nämnderna ska årligen identifiera och analysera väsentliga
 risker i den egna verksamheten och utifrån riskanalysen upprätta en internkontroll
 plan. Resultatet av årets arbete ska sammanställas i en internkontrollrapport som ska
-
 beslutas av nämnden.
 Nämnden för Gymnasium & Arbetsmarknad antog internkontrollplanen 2024 i
 november 2023 och granskningar har genomförts inom förvaltningen under 2024 i

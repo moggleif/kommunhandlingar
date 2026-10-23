@@ -21,25 +21,31 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2024-12-19
 
-Plats och tid för                           Klockan 17:00-20.20
-sammanträde
+Plats och tid för sammanträde
+
+Klockan 17:00-20.20
+
 Paus 18:50-19:10
 
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Pontus Jensen (S) ersätter May-Louise
-Helena Nyborg (KD), 1:e vice ordförande Flyrin (S)
-Shabnam Zamani (S), 2:e vice ordförande Osama Mohamad Mesto (C) ersätter
-Jenny Nilsson (M)             Karin Green (C)
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
+Shabnam Zamani (S), 2:e vice ordförande
+Jenny Nilsson (M)
 Morgan Johansson (M)
 Karin Green (C) från punkt 4 18:00
 May-Louise Flyrin från punkt 3 17:15
@@ -48,31 +54,54 @@ Tina Hald (SD)
 Jan Eric Knutas (L)
 Sebastian Lindberg (V)
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M)          Patrik Hellberg, förvaltningschef
-Pontus Jensen (S)             Johan Ronner, ekonomichef
-Anna Thomander (S)            Andréas Mårtensson, kvalitet- och
-Osama Mohamad Mesto (C)       utvecklingschef
-Mikael Bokerud (KD)           Cindia Escalante Mattsson,
-gymnasiechef
-Elisabeth Grimhusen, HR- och
-kommunikationschef
+Tjänstgörande ersättare
+Pontus Jensen (S) ersätter May-Louise Flyrin (S)
+Osama Mohamad Mesto (C) ersätter Karin Green (C)
+
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M)
+Pontus Jensen (S)
+Anna Thomander (S)
+Osama Mohamad Mesto (C)
+Mikael Bokerud (KD)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Johan Ronner, ekonomichef
+Andréas Mårtensson, kvalitet- och utvecklingschef
+Cindia Escalante Mattsson, gymnasiechef
+Elisabeth Grimhusen, HR- och kommunikationschef
 Karin Zetterman, verksamhetschef
 Angela Lyrhagen § 159
-
 Hanna Tengelin §§ 160-161
 Lisa Jönsson §§160-161
 Cajsa Oldhagen Fridén §160
 
-Personalföreträdare           Övriga
+Personalföreträdare
 
-Plats och tid för justering Direkt digital justering,
+Övriga
 
-Sekreterare   Karin Möglebust               Paragrafer § 172
+Plats och tid för justering
 
-Ordförande    Axel Storckenfeldt
+Direkt digital justering,
 
-Protokolljusterare Sebastian Lindberg (V)
+Sekreterare
+
+Karin Möglebust
+
+Paragrafer
+
+§ 172
+
+Ordförande
+
+Axel Storckenfeldt
+
+Protokolljusterare
+
+Sebastian Lindberg (V)
 
 <!-- sida 2 -->
 

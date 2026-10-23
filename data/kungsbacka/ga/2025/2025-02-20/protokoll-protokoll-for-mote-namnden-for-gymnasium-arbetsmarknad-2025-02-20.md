@@ -21,59 +21,88 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, 
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2025-02-20
 
-Plats och tid för Elof Lindälvs gymnasium Sal A 67 Klockan 17.00- 20.03
-sammanträde
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium Sal A 67
+
+Klockan 17.00- 20.03
+
 Paus 18.25-18.40
 
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Pontus Jensen (S) ersätter Sebastian
-Helena Nyborg (KD), 1:e vice ordförande Lindberg (V)
-Shabnam Zamani (S), 2:e vice ordförande Osama Mesto (C) ersätter Karin
-Jenny Nilsson (M)             Green (C)
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
+Shabnam Zamani (S), 2:e vice ordförande
+Jenny Nilsson (M)
 Morgan Johansson (M)
 May-Louise Flyrin (S)
 Marcus Lindälv (SD)
 Tina Hald (SD)
 Jan Eric Knutas (L)
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M)          Patrik Hellberg, förvaltningschef
-Pia Grapenstrand Kvarntun (M) Johan Ronner, ekonomichef
-Pontus Jensen (S)             Andréas Mårtensson, kvalitet- och
-Hans Ädel (SD)                utvecklingschef
-Osama Mohamad Mesto (C)       Elisabeth Grimhusen, HR- och
-kommunikationschef
+Tjänstgörande ersättare
+Pontus Jensen (S) ersätter Sebastian Lindberg (V)
+Osama Mesto (C) ersätter Karin Green (C)
+
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M)
+Pia Grapenstrand Kvarntun (M)
+Pontus Jensen (S)
+Hans Ädel (SD)
+Osama Mohamad Mesto (C)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Johan Ronner, ekonomichef
+Andréas Mårtensson, kvalitet- och utvecklingschef
+Elisabeth Grimhusen, HR- och kommunikationschef
 Karin Zetterman, verksamhetschef
 Karin Möglebust, utvecklingsledare
-Mats Söderström, verksamhetschef,
-förvaltningen för Service § 12
-Maria Rosenberg, verksamhetschef
-förvaltningen för Service § 12
-Magnus Sandberg, verksamhetschef
-EMI §§13-14
-Cecilia Fossan, biträdande
-gymnasiechef § 15
+Mats Söderström, verksamhetschef, förvaltningen för Service § 12
+Maria Rosenberg, verksamhetschef förvaltningen för Service § 12
+Magnus Sandberg, verksamhetschef EMI §§13-14
+Cecilia Fossan, biträdande gymnasiechef § 15
 
-Personalföreträdare           Övriga
+Personalföreträdare
 Frida Hagelin, Sveriges lärare
 
-Plats och tid för justering Digital justering,
+Övriga
 
-Sekreterare   Karin Möglebust               Paragrafer § 11-26
+Plats och tid för justering
 
-Ordförande    Axel Storckenfeldt (M)
+Digital justering,
 
-Protokolljusterare May-Louise Flyrin (S)
+Sekreterare
+
+Karin Möglebust
+
+Paragrafer
+
+§ 11-26
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+May-Louise Flyrin (S)
 
 <!-- sida 2 -->
 
@@ -94,10 +123,9 @@ Information från förvaltningen för Service ..................................
 Patientsäkerhetsberättelse - elevhälsa ........................................................ 6
 
 § 14 Dnr GA-2024-00222
-
 Ledningssystem för hälso- och sjukvård inom elevhälsan .......................... 8
-§ 15 Dnr GA-2024-00229
 
+§ 15 Dnr GA-2024-00229
 Sammanställning kränkningar juni-dec 2024 ............................................. 9
 
 § 16 Dnr GA-2023-00111
@@ -224,21 +252,17 @@ Beslut
 
 Nämnden för Gymnasium & Arbetsmarknad fastställer Patientsäkerhetsberättelsen
 för de medicinska
-
 och psykologiska insatserna inom elevhälsan 2024.
 
 Sammanfattning av ärendet
 Nämnden för Gymnasium & Arbetsmarknad är vårdgivare för den medicinska delen
 av elevhälsan och
-
 ska årligen upprätta en patientsäkerhetsberättelse. Denna beskriver det systematiska
 patientsäkerhetsarbetet som skett under föregående år. Patientsäkerhetsarbetet
 omfattar bland annat
-
 uppföljning av avvikelser, redovisning av kvalitetsarbete/utbildning och hur
 samverkan med andra aktörer/vårdgivare sker utifrån patientsäkerhetsperspektiv.
 Identifierade mål från föregående år skall redovisas. Det skall gå att följa de
-
 fastställda principerna i ledningssystemet i patientsäkerhetsberättelsen att de
 efterföljs och att arbetet sker systematiskt.
 Under 2024 har arbetet med implementering och fastställande av
@@ -303,7 +327,6 @@ hälso och sjukvård skall (måste) ha ett aktuellt ledningssystem och revidera 
 behov/ändringar. Systemet skall fastställa principer för ledning av verksamheten
 samt identifiera processer som berörs och beskriva det systematiska kvalitetsarbetet.
 Redovisning av patientsäkerhetsarbetet sker årligen genom
-
 patientsäkerhetsberättelsen som fastställs av nämnden i mars varje år.
 Ledningssystemet är reviderat och motsvarar de krav som ställs på ledningssystemet.
 
@@ -434,7 +457,6 @@ skoltid. Motionärerna menar att kulturell allemansrätt på skoltid skulle inne
 alla barn och elever i förskola, grundskola och gymnasium skulle erbjudas ett
 basutbud av kulturupplevelser, vilket skulle säkerställa en valfrihet för alla barn och
 elever att välja minst en kulturupplevelse per år. Målet är enligt motionärerna att öka
-
 likvärdigheten och valfriheten för Kungsbackas barn och unga att ta del av
 kommunens kulturutbud.
 
@@ -486,7 +508,6 @@ Andersson (S) har inkommit med en motion om ökat samarbete för barn och elever
 hälsa. Motionärerna menar att samarbeten över förvaltningsgränserna med konkreta
 och genomförbara insatser behövs för att förebygga gängrelaterad kriminalitet,
 motverka psykisk ohälsa och skapa en bra fritid för barn och elever. I förlängningen
-
 ska insatserna även kunna ha påverkan på elevers utveckling och måluppfyllelse.
 Med hänvisning till detta vill motionärerna att nämnderna för Kultur & Fritid,
 Förskola & Grundskola, Gymnasium & Arbetsmarknad och Individ &
@@ -507,7 +528,6 @@ Motion från Johan Tolinson (S) m.fl. om Ökat samarbete för barn och elevers h
 
 Förslag till beslut på sammanträdet
 2:e vice ordförande Shabnam Zamani (S) yrkar på att föreslå kommunfullmäktige att
-
 bifalla motionen. May-Louise Flyrin (S) och Pontus Jensen (S) bifaller Shabnam
 Zamanis (S) förslag.
 
@@ -556,7 +576,6 @@ forskning visar att barn som har regelbundna frukostvanor har förbättrad kogni
 förmåga, minne, uppmärksamhet och exekutiva funktioner. Vidare framhålls att
 Världshälsoorganisationen (WHO) uppmärksammat att barn som upprätthåller
 hälsosamma frukostvanor har bättre fysiologisk utveckling och lägre risk att drabbas
-
 av kroniska sjukdomar. Med hänvisning till att varannan svensk gymnasieelev inte
 äter frukost menar motionären att en satsning på avgiftsfria skolfrukostar sannolikt
 skulle medföra mångdubbel allmän, och ekonomisk, samhällsnytta i förhållande till
@@ -621,7 +640,6 @@ drogförsäljning och gängrelaterade hotbilder.
 Med åtgärder syftas också på det viktiga proaktiva arbetet med psykisk ohälsa och
 annat dåligt mående.
 MSB, CVE (Center mot våldsbeakande extremism), Polisen och Skolverket har
-
 gemensamt utgivit skriften:
 VÄGLEDNING
 
@@ -629,12 +647,10 @@ Våldshandlingar med stora konsekvenser i skolan
 
 En vägledning för skolledning och säkerhetsansvariga
 Denna utkom 2023 och innehåller många bra idéer för planering och utförande av
-
 säkerhetshöjande åtgärder.
 
 Yrkande: Med anledning av detta yrkar Sverigedemokraterna Kungsbacka att
 förvaltningen för Gymnasium & Arbetsmarknad utför en säkerhetsöversyn för att
-
 identifiera eventuella förbättringsåtgärder som kan utföras på kort och lång sikt.
 
 Förslag till beslut på sammanträdet
@@ -790,7 +806,6 @@ Sammanfattning av ärendet
 
 Förvaltningschef Patrik Hellberg informerar om följande:
 \* Ny personalföreträdare för Sveriges skolledare kommer att vara med från och med
-
 nästa nämndssammanträde. Cajsa Fridén
 \* Dom har inkommit gällande riktlinjen för politiska besök i gymnasieskolan.
 
