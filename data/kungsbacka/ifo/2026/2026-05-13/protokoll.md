@@ -5,16 +5,16 @@ datum: 2026-05-13
 lopnr: null
 typ: protokoll
 namn: null
-kallnyckel: sitevision:18.13dfabc419e219f93c21e03
-tidigare_kallnycklar: []
+kallnyckel: sitevision:18.33df50461a157e1b9001953
+tidigare_kallnycklar: [sitevision:18.13dfabc419e219f93c21e03]
 arenden: null
-kalla_url: https://kungsbacka.se/download/18.13dfabc419e219f93c21e03/1778687645459/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202026-05-13,%20%C2%A7%2072.pdf
+kalla_url: https://kungsbacka.se/download/18.33df50461a157e1b9001953/1792480158918/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202026-05-13,%20%C2%A7%2072.pdf
 sha256: ce30bf37f910f6e6ffc37560484cf803633c2f93d712efb133a546dbf89634e2
 bytes: 166329
 sidor: 6
-hamtad: 2026-10-14T10:00:22+00:00
-konverterad: 2026-10-14T10:00:26+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-23T06:10:26+00:00
+konverterad: 2026-10-23T06:10:29+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok]

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6900ef2d1932979363732f/173156986992
 sha256: 73af56f2568806f165cab5e91ccae213f9a7f5c2daf112e73be8d7ecca42012d
 bytes: 32855428
 sidor: 289
-hamtad: 2026-10-14T06:31:17+00:00
-konverterad: 2026-10-14T06:33:16+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T06:34:38+00:00
+konverterad: 2026-10-23T06:37:04+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -9883,13 +9883,13 @@ Vuxenutbildningen), Emma Persson (utbildningschef Visible Care), Sanna
 Andersson (Studie-och yrkesvägledare Aranäsgymnasiet), Ammie Karlsson (elev
 årskurs I Aranäsgymnasiet), Elsa Olsson (elev årskurs 1 Aranäsgymnasiet)
 
-\$1 Ordförande Jan Eric Knutas öppnar mötet.
+§1 Ordförande Jan Eric Knutas öppnar mötet.
 Presentationsrunda.
-\$2 Val av sekreterare och justerare
+§2 Val av sekreterare och justerare
 
 Malin Edefors väljs till sekreterare, Sanna Andersson justerare
 
-\$3 Föregående protokoll
+§3 Föregående protokoll
 Dan Sadé ger återkoppling på matersättning som nu har höjts från 30
 till 40 kronor/dag.
 Lokalfrågan: Ordförande återkopplar från gårdagens nämndmöte
@@ -9915,7 +9915,7 @@ www.aranasgymnasiet.kungsbacka.se
 
 <!-- sida 249 -->
 
-\$4
+§4
 
 KUNGSBACKA KOMMUN -:
 
@@ -9964,7 +9964,7 @@ gammal utrustning som inte stämmer med hur det är i vården idag. Elsa
 
 <!-- sida 250 -->
 
-\$5
+§5
 
 KUNGSBACKA KOMMUN
 
@@ -10070,7 +10070,7 @@ APL
 
 88
 
-\$9
+§9
 
 810
 
@@ -10609,7 +10609,7 @@ Hannah Tengelin (personnummer borttaget)
 KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (26)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2024-10-23
-\$ 126 Dnr GA-2024-00036
+§ 126 Dnr GA-2024-00036
 
 Politiska ungdomsförbund i gymnasieskolan
 
@@ -10796,7 +10796,7 @@ demokratiska beslutsprocesser i samhälls- och arbetslivet är det viktigt att e
 het att ta del av politisk opinionsbildning. Ett delmoment i arbetet kan vara att bjuda in politiska partier till
 skolan. Genom att skolan exempelvis anordnar en debatt eller en utfrågning av företrädare för olika politiska
 partier kan flera viktiga demokratiska principer belysas för eleverna, bl.a. principen om fri åsiktsbildning som
-anges i 1 kap. 1 \$ första stycket RF (Utbildningsutskottets betänkande (2017/18:UbU6) Politisk information i
+anges i 1 kap. 1 § första stycket RF (Utbildningsutskottets betänkande (2017/18:UbU6) Politisk information i
 skolan.
 
 Det har länge funnits en besvärande osäkerhet rörande hur skolorna ska gå till väga när det gäller att bjuda
@@ -10944,7 +10944,7 @@ tal skolledningar har sett det som nödvändigt att avstå från att bjuda in f�
 skolan.
 
 Enligt alla tre Styckena i Paragrafen är det således rektorn som har beslutanderätten. Att det enligt bestäm-
-melsen är rektorn Som får bjuda in Politiska partier hindrar inte rektorn från att enligt 2 kap. 10 \$ skollagen
+melsen är rektorn Som får bjuda in Politiska partier hindrar inte rektorn från att enligt 2 kap. 10 § skollagen
 delegera uppgiften till andra inom skolenheten.
 
 kan besluta i ett enskilt fall i fråga om vilka partier som ska bjudas in eftersom det följer direkt av skollagen
@@ -11073,7 +11073,7 @@ urval, därför kan skolan inte ta emot enstaka politiska partier som vill göra
 
 besök.
 
-Källor: I kapitlet 5 a \$ och 2 kapitlet 10 \$ skollagen.
+Källor: I kapitlet 5 a \$ och 2 kapitlet 10 § skollagen.
 
 Vad är ett objektivt urval av partier?
 
@@ -11105,7 +11105,7 @@ att skolan inte väljer urvalskriterier för att undvika ett visst politiskt par
 
 så strider mot objektivitetsprincipen.
 
-Källor: 1 kapitlet 9 \$ regeringsformen, 1 kapitlet 5 a \$ skollagen samt proposition
+Källor: 1 kapitlet 9 § regeringsformen, 1 kapitlet 5 a \$ skollagen samt proposition
 2017/18:17 Politisk information i skolan, sidorna 28-29.
 
 Behöver andra politiska partier än de som har bjudits in ges möjlighet att
@@ -11130,7 +11130,7 @@ ordningen och arbetsmiljön för både elever och personal blir god när skolan 
 
 in politiska partier.
 
-Källor: 1 kapitlet 4-5 a och 10 \$\$, 5 kapitlet 3-4 \$\$ skollagen samt proposition
+Källor: 1 kapitlet 4-5 a och 10 §§, 5 kapitlet 3-4 §§ skollagen samt proposition
 2017/18:17 Politisk information i skolan, sidorna 8 och 14-15.
 
 Har partier rätt att komma oinbjudna till en skola?
@@ -11180,7 +11180,7 @@ antalet inbjudna partier om urvalet är objektivt. Men skolan kan alltid välja 
 
 avstå från arrangemanget.
 
-Källor: I kapitlet 9 \$ och 2 kapitlet I \$ regeringsformen, 1 kapitlet 5 a \$ skollagen
+Källor: I kapitlet 9 § och 2 kapitlet I \$ regeringsformen, 1 kapitlet 5 a \$ skollagen
 samt proposition 2017/18:17 Politisk information i skolan, sidorna 15-16.
 
 Kan elevkårer utifrån eget urval bjuda in politiska partier i skolans lokaler
@@ -11193,8 +11193,8 @@ objektivitetsprincipen genom att låta eleverna bestämma urvalet och bjuda in
 
 politiska partier i skolans lokaler under skoltid.
 
-Källor: I kapitlet 9 \$ regeringsformen samt 1 kapitlet 5 a \$ och 2 kapitlet 8 och 9-
-10 \$\$ skollagen.
+Källor: I kapitlet 9 § regeringsformen samt 1 kapitlet 5 a \$ och 2 kapitlet 8 och 9-
+10 §§ skollagen.
 
 Är det rektorn som beslutar vilka politiska partier som ska bjudas in om en
 extern organisation har bokat skolans lokaler för ett arrangemang utanför
@@ -11213,7 +11213,7 @@ häne:lhananss ebabsarbat oalraalar ack anovarlanevar i ekalfranar/nalitiok infa
 
 som ska bjudas in.
 
-Källor: 1 kapitlet 3 och 5 a \$\$, 2 kapitlet 9-10 \$\$ skollagen samt proposition
+Källor: 1 kapitlet 3 och 5 a \$\$, 2 kapitlet 9-10 §§ skollagen samt proposition
 2017/18:17 Politisk information i skolan, sidan 16.
 
 Lärarens befogenheter och skyldigheter
@@ -11225,7 +11225,7 @@ politiker. Det är om politikern säger saker som är brottsliga. Exempel på de
 
 förtal, förolämpning och hets mot folkgrupp.
 
-Källor: 2 kapitlet 23 \$ regeringsformen, 5 kapitlet 1-4 \$\$ och 16 kapitlet 8 \$
+Källor: 2 kapitlet 23 § regeringsformen, 5 kapitlet 1-4 §§ och 16 kapitlet 8 §
 brottsbalken samt proposition 2017/18:17 Politisk information i skolan, sidorna
 16-17.
 
@@ -11266,7 +11266,7 @@ hitne:/hananuw skalvarket sa/ranlar-ach-ansvar/ansvar-i-skaolfranar/nalitisk-inf
 
 eller det demokratiska styret.
 
-Källor: 2 kapitlet I \$ regeringsformen, I kapitlet 4-5 a och 10 \$\$ skollagen samt
+Källor: 2 kapitlet I \$ regeringsformen, I kapitlet 4-5 a och 10 §§ skollagen samt
 Proposition 2017/18:17 Politisk information i Skolan, sidorna I 6-17.
 
 Om skolans ansvar vid upplevd kränkande behandling eller trakasserier
@@ -11280,7 +11280,7 @@ det även för inbjudna politiker?
 förhålla sig till skollagens bestämmelser om att främja mänskliga rättigheter och
 aktivt motverka alla former av kränkande behandling.
 
-Källor: 2 kapitlet I \$ regeringsformen, I kapitlet 5 \$ skollagen och proposition
+Källor: 2 kapitlet I \$ regeringsformen, I kapitlet 5 § skollagen och proposition
 2017/18:17 Politisk information i skolan, sidan 17.
 
 utbildningen ska 8es möjlighet att ta del av information också från dessa
@@ -11450,7 +11450,7 @@ demokratiuppdraget.
 
 Skolans demokratiuppdrag
 
-Det allmänna ska, enligt regeringsformens 1 kap. 2 \$, verka för att demokratiska idéer
+Det allmänna ska, enligt regeringsformens 1 kap. 2 §, verka för att demokratiska idéer
 blir vägledande inom samhällets alla områden. Skolan har därför ett betydelsefullt
 demokratiskt uppdrag, vilket återspeglas i skolans styrdokument. Skollagen (2010:800)
 slår fast att utbildningen ska förmedla och förankra respekt för de mänskliga
@@ -11535,7 +11535,7 @@ värdegrund.
 Rektorn fattar beslut
 
 Det är rektor som fattar beslutet om politiska partier ska bjudas in till skolan. Beslutet
-kan även i enlighet med 2 kap. 10 \$ skollagen (2010:800) fattas av någon annan efter
+kan även i enlighet med 2 kap. 10 § skollagen (2010:800) fattas av någon annan efter
 delegation. Det finns inget krav på att beslutet ska vara skriftligt. Det kan ändå vara
 lämpligt med ett skriftligt beslut då det skapar tydlighet i förhållande till politiska
 partier, skolans personal och eleverna. Ett skriftligt beslut underlättar också kommande
@@ -11548,17 +11548,17 @@ Politiska partier i skolan - vad gäller? 4
 En skola är inte en allmän plats
 
 Det är viktigt i sammanhanget att komma ihåg att en skola inte är en allmän plats.
-Rätten till yttrandefrihet, i enlighet med 2 kap. 1 \$ regeringsformen, innebär inte en
+Rätten till yttrandefrihet, i enlighet med 2 kap. 1 § regeringsformen, innebär inte en
 rättighet för politiska partier att få tillträde till en skola (se t.ex. JO:s ämbetsberättelse
 2008/09 s. 396 och JK:s beslut den 24 april 2008, dnr 8527-07-22). Samma sak gäller
-för rätten som garanteras i 1 kap. \$ 2 tryckfrihetsförordningen gällande spridandet av
+för rätten som garanteras i 1 kap. § 2 tryckfrihetsförordningen gällande spridandet av
 skrifter.? Skolor kan välja om de vill bjuda in politiska partier eller inte, och det är
 rektor som fattar beslutet om det ska ske och i så fall på vilket sätt.
 
 Begränsning utifrån objektivitetsprincipen
 
 När skolan tar ställning till om politiska partier ska få tillträde till skolan måste
-skolledningen beakta bestämmelsen i 1 kap. 9 \$ regeringsformen som säger att
+skolledningen beakta bestämmelsen i 1 kap. 9 § regeringsformen som säger att
 myndigheter i sin verksamhet ska beakta allas likhet inför lagen samt iaktta saklighet
 och opartiskhet. En begränsning av antalet partier som inbjuds till skolan ska med
 utgångspunkt i detta göras på objektiv grund, den så kallade objektivitetsprincipen.
@@ -11592,11 +11592,11 @@ objektivt. Det innebär inte att varje uppfattning från alla partier måste red
 Läraren kan utifrån planeringen för undervisningen exempelvis välja att lyfta fram alla
 partiers uppfattningar i endast en viss fråga.
 
-12 kap. 1 \$ regeringsformen finns bestämmelser om grundläggande fri- och rättigheter. Där sägs bland annat
+12 kap. 1 § regeringsformen finns bestämmelser om grundläggande fri- och rättigheter. Där sägs bland annat
 att varje medborgare är gentemot det allmänna tillförsäkrad yttrandefrihet: frihet att i tal, skrift eller bild eller
 på annat sätt meddela upplysningar samt uttrycka tankar, åsikter och känslor.
 
-311 kap. 2 \$ tryckfrihetsförordningen finns bestämmelser om att en myndighet inte på grund av en skrifts
+311 kap. 2 § tryckfrihetsförordningen finns bestämmelser om att en myndighet inte på grund av en skrifts
 innehåll får hindra dess spridning bland allmänheten genom åtgärd som saknar stöd i tryckfrihetsförordningen.
 " Med vald församling i en eller flera kommuner avses såväl kommunfullmäktige som landstings- och
 regionfullmäktige.
@@ -11638,12 +11638,12 @@ Skolans ansvar
 Om en företrädare för ett politiskt parti, som bjudits in till skolan för att informera om
 partiets politik, gör brottsliga uttalanden har lärare och annan skolpersonal både rätt och
 skyldighet att avbryta företrädaren. Exempel på yttrandefrihetsbrott som lyfts fram i
-regeringsformen är förtal, förolämpning och hets mot folkgrupp (2 kap. 23 \$
+regeringsformen är förtal, förolämpning och hets mot folkgrupp (2 kap. 23 §
 regeringsformen).
 
 Det är dock viktigt att komma ihåg att partiföreträdare inte omfattas av skollagens
 reglering om att alla som verkar inom utbildningen ska främja mänskliga rättigheter och
-aktivt motverka alla former av kränkande behandling (1 kap. 5 \$). Detta innebär att
+aktivt motverka alla former av kränkande behandling (1 kap. 5 §). Detta innebär att
 partiföreträdaren inte får avbrytas så länge som uttalandena inte är brottsliga. Om
 uttalanden görs som är diskriminerande eller kränkande är det viktigt att dessa inte står
 oemotsagda. Läraren kan exempelvis bjuda in en annan deltagare att i en replik bemöta

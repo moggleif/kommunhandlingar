@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6f631f6d18ecb8df34014465/1713507974
 sha256: 7dd9d4a0356d2e04c4338052ef85c6c5b3719fdd2aff05524d863a2dad03080e
 bytes: 289290
 sidor: 5
-hamtad: 2026-10-14T08:36:55+00:00
-konverterad: 2026-10-14T08:37:03+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T09:08:11+00:00
+konverterad: 2026-10-23T09:08:20+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ocr, ok, ok]
@@ -109,7 +109,7 @@ KUNGSBACKA KOMMUN
 3(5)
 
 Ärende Beteckning Förslag
-01-17, \$ 10
+01-17, § 10
 Nämnden för Teknik förklarar paragrafen
 omedelbart justerad.
 Fastighetsnära insamling av TE-2023- Nämnden för Teknik beslutar om att komplettera
@@ -125,7 +125,7 @@ Maria Nämnden för Teknik översänder Avfallstaxan till
 Samuelsson, kommunfullmäktige för att fastställas.
 17:55 — 18:00 | Avfallstaxan för 2024 beslutad av
 
-kommunfullmäktige 14 december 2023 \$ 194, KS
+kommunfullmäktige 14 december 2023 § 194, KS
 2023-00300 upphör samtidigt att gälla.
 
 Nämnden för Teknik förklarar paragrafen

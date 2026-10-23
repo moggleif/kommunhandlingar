@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.708627c5190a253b1da40632/1724048879
 sha256: 72d203fed0c73dd21acd24c49beb5266e11a094444d68fb00aa67d41574f76d6
 bytes: 10374383
 sidor: 152
-hamtad: 2026-10-14T06:52:30+00:00
-konverterad: 2026-10-14T06:53:08+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T07:00:29+00:00
+konverterad: 2026-10-23T07:01:13+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -5924,11 +5924,11 @@ Dnr Aho
 
 Fä dn dnr SSE
 
-Utdrag ur protokoll (\$ 318) från förbundsstyrelsens
+Utdrag ur protokoll (§ 318) från förbundsstyrelsens
 sammanträde måndagen den 11 december 2006,
 Nolhaga slott, Alingsås kommun
 
-\$ 318 Förslag till överenskommelse kring skolkort | Dnr: 06-223.719
+§ 318 Förslag till överenskommelse kring skolkort | Dnr: 06-223.719
 för elever vid Svenska balettskolan boende i |
 Göteborgsregionen
 
@@ -5986,7 +5986,7 @@ Bakgrund
 För närvarande går 3 elever från Kungsbacka vid Svenska balettskolan i Göteborg.
 
 Svenska balettskolans utbildning är en sådan särskild utbildning som regleras i en
-speciell förordning, SFS 1999:250, och som avses i Skollagens 4 kap. 3 och 8 \$\$.
+speciell förordning, SFS 1999:250, och som avses i Skollagens 4 kap. 3 och 8 §§.
 
 Kungsbacka
 

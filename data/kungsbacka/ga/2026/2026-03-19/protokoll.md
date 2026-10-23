@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.37d6657d19d0493bcf1251ae/1774007423
 sha256: 53f2b93f8978575d86564b8ec40e0563f3dca7425d18665421388fbc6412580d
 bytes: 999013
 sidor: 8
-hamtad: 2026-10-14T06:20:49+00:00
-konverterad: 2026-10-14T06:21:02+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T06:22:21+00:00
+konverterad: 2026-10-23T06:22:38+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -114,16 +114,16 @@ gymnasiechef
 
 Alexandra Cameron, utvecklare
 Sabina Svahn, enhetschef
-Göteborgsregionen \$ 33
+Göteborgsregionen § 33
 
-Eva Tingström, arbetslagsledare \$ 36
+Eva Tingström, arbetslagsledare § 36
 Annika Areskog Ronnstedt,
-arbetslagsledare \$ 36
+arbetslagsledare § 36
 
 Oscar Skytt Gustafsson,
-säkerhetssamordnare \$\$ 37—38
+säkerhetssamordnare §§ 37—38
 
-\$\$ 39-41
+§§ 39-41
 
 Paragrafer
 
@@ -135,7 +135,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (6)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 
 2026-03-19
-\$ 39 Dnr GA-2026-00014
+§ 39 Dnr GA-2026-00014
 Samverkansavtal för gymnasieskola i Göteborgsregionen 2027/2028-
 2030/2031
 Beslut
@@ -179,7 +179,7 @@ Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2026-03-02
 Remissanvisning av förslag till samverkansavtal, 2026-01-15
 
 Presentation: Samverkansavtal för gymnasieskolan 27/28—-30/31, 2026-01-15
-Protokollsutdrag Göteborgsregionen Antagningsnämnden 2026-01-14 \$ 1
+Protokollsutdrag Göteborgsregionen Antagningsnämnden 2026-01-14 § 1
 Samverkansavtal för gymnasieskola i Göteborgsregionen, 2026-01-09
 
 Följebrev Samverkansavtal för gymnasieskolan i Göteborgsregionen, 2026-01-09
@@ -220,7 +220,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (6)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-03-19
 
-\$ 40 Dnr GA-2026-00015
+§ 40 Dnr GA-2026-00015
 
 Samverkansavtal för anpassad gymnasieskola i Göteborgsregionen
 2027/2028-2030/2031
@@ -248,7 +248,7 @@ gymnasieskola respektive yrkesutbildningar för vuxna, 2026-01-15
 Presentation: Samverkansavtal för anpassade gymnasieskolan 27/28-30/31, 2026-01-
 15
 
-Protokollsutdrag Göteborgsregionen Antagningsnämnden, 2026-01-14 \$ 2
+Protokollsutdrag Göteborgsregionen Antagningsnämnden, 2026-01-14 § 2
 
 Följebrev Samverkansavtal för anpassade gymnasieskolan i Göteborgsregionen
 (GR), 2026-01-09
@@ -280,7 +280,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (6)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-03-19
 
-\$ 41 Dnr GA-2026-00016
+§ 41 Dnr GA-2026-00016
 
 Samverkansavtal om yrkesutbildningar för vuxna i Göteborgsregionen
 för avtalsperiod 2027-2030
@@ -305,7 +305,7 @@ Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2026-03-02
 Remissanvisning av förslag till samverkansavtal, 2026-01-15
 
 Presentation: Samverkansavtal om yrkesutbildningar för vuxna, 2026-01-15
-Protokollsutdrag Göteborgsregionen (GR) Antagningsnämnd, 2026-01-14 \$ 3
+Protokollsutdrag Göteborgsregionen (GR) Antagningsnämnd, 2026-01-14 § 3
 Samverkansavtal om yrkesutbildningar för vuxna i Göteborgsregionen, 2026-01-09
 Följebrev Samverkansavtal om yrkesutbildningar för vuxna, 2026-01-09
 

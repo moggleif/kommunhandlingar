@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5025299019e4ad5ed2c975d/17794527084
 sha256: a0ddd4a936b2b8b3a521bc46213660d42a917c98def382ab2484b451e4ab8450
 bytes: 242489
 sidor: 5
-hamtad: 2026-10-14T06:50:18+00:00
-konverterad: 2026-10-14T06:50:24+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T06:57:45+00:00
+konverterad: 2026-10-23T06:57:53+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr]
@@ -123,7 +123,7 @@ Nämnden för Förskola & Grundskola Datum
 
 Innehåll
 
-\$52 Dnr FG-2026-00231
+§52 Dnr FG-2026-00231
 Uppföljning och prognos Per aPpril.sssmmssssssssssssrrrrrrrrereserrrrrrrrrerererrrrrrrrrrrn nn 3
 
 Det här dokumentet är digitalt signerat
@@ -138,7 +138,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (3)
 Nämnden för Förskola & Grundskola Datum
 2026-05-20
 
-\$ 52 Dnr FG-2026-00231
+§ 52 Dnr FG-2026-00231
 Uppföljning och prognos per april
 
 Beslut

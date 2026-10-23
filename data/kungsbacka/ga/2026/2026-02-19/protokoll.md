@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1732df19c6caeeab1c40c1/177184328930
 sha256: 1658966f065c86d752c3ed93b8a95319c83150c847bea29f43867f538336fca6
 bytes: 453710
 sidor: 8
-hamtad: 2026-10-14T06:19:57+00:00
-konverterad: 2026-10-14T06:20:11+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T06:21:09+00:00
+konverterad: 2026-10-23T06:21:27+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -55,7 +55,7 @@ Ledamöter
 Axel Storckenfeldt (M), Ordförande
 Helena Nyborg (KD), 1:e vice ordförande
 Shabnam Zamani (S), 2:e vice ordförande,
-\$\$ 17 —31
+§§ 17 —31
 
 Jenny Nilsson (M)
 
@@ -72,7 +72,7 @@ Sebastian Lindberg (V)
 Ersättare
 
 Pia Grapenstrand Kvarntun (M)
-Pontus Jensen (S) \$\$ 17 - 31
+Pontus Jensen (S) §§ 17 - 31
 Anna Thomander (S)
 
 Personalföreträdare
@@ -96,7 +96,7 @@ Klockan 17:00- 20.50, paus 18:25-
 Tjänstgörande ersättare
 
 Pontus Jensen (S) ersätter Shabnam
-Zamani (S) \$\$ 13 — 16
+Zamani (S) §§ 13 — 16
 
 Osama Mohamad Mesto (C) ersätter
 Karin Green (C)
@@ -125,14 +125,14 @@ gymnasiechef
 Alexandra Cameron, utvecklare
 Adam Greveby, utvecklare
 
-Dan Sadé, rektor \$ 14
+Dan Sadé, rektor § 14
 
 Magnus Sandberg, Verksamhetschef
-EMI \$\$ 15-16
+EMI §§ 15-16
 
-Pernilla Börjesson, enhetschef \$ 19
+Pernilla Börjesson, enhetschef § 19
 
-\$\$ 20-22
+§§ 20-22
 
 Paragrafer
 
@@ -144,7 +144,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (6)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-\$ 20 Dnr GA-2023-00161
+§ 20 Dnr GA-2023-00161
 Årsredovisning 2025
 
 Beslut
@@ -198,7 +198,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (6)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-\$ 21 Dnr GA-2026-00017
+§ 21 Dnr GA-2026-00017
 Ombudgetering och resultatfond 2025
 
 Beslut
@@ -248,7 +248,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (6)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-\$ 22 Dnr GA-2024-00193
+§ 22 Dnr GA-2024-00193
 Uppföljning Intern kontrollplan 2025
 
 Beslut

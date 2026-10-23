@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2b8a29c818ecba375e913d1e/1713531349
 sha256: ad8a95adb634a217fa3515277fb16042343b58ed224e6f09c2c7f754f462cbc3
 bytes: 31102782
 sidor: 402
-hamtad: 2026-10-14T08:41:13+00:00
-konverterad: 2026-10-14T08:43:34+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T09:12:46+00:00
+konverterad: 2026-10-23T09:15:43+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok]
@@ -12034,7 +12034,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 13 (26)
 Sammanträdesdatum
 2007-11-08
-\$ 165 KS06-00157/51
+§ 165 KS06-00157/51
 
 Organisation av färdtjänsten från 2009-01-01
 
@@ -12069,15 +12069,15 @@ Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2007-08-14
 
-Kommunstyrelsens arbetsutskott 2007-08-14, \$ 20 - Ärendet återremitteras för
+Kommunstyrelsens arbetsutskott 2007-08-14, § 20 - Ärendet återremitteras för
 samråd och information med kommunala handikapprådet.
 
-Kommunala handikapprådet 2007-09-24, \$ 20
+Kommunala handikapprådet 2007-09-24, § 20
 
 Kommunstyrelsens förvaltning, reviderad skrivelse 2007-10-03
-Kommunstyrelsens arbetsutskott 2007-10-09, \$ 311
+Kommunstyrelsens arbetsutskott 2007-10-09, § 311
 
-Kommunstyrelsen 2007-10-17, \$ 201
+Kommunstyrelsen 2007-10-17, § 201
 
 Anföranden
 
@@ -12100,7 +12100,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 14 (26)
 Sammanträdesdatum
 2007-11-08
-\$ 165 forts KS06-00157/51
+§ 165 forts KS06-00157/51
 
 Yrkanden
 
@@ -12163,7 +12163,7 @@ Expedierat/bestyrkt
 KUNGSBACKA KOMMUN
 Kommunfullmäktige
 
-\$ 165 forts
+§ 165 forts
 
 Omröstningsbilaga A
 
@@ -12266,7 +12266,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 16 (26)
 Sammanträdesdatum
 2007-11-08
-\$ 165 forts KS06-00157/51
+§ 165 forts KS06-00157/51
 
 Beslutsexpediering
 KSF; CE
@@ -12284,7 +12284,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 10 (52)
 Sammanträdesdatum
 2010-04-13
-\$ 63 KS09-00123/50
+§ 63 KS09-00123/50
 
 Uppföljning och utvärdering av införandet av Beställnings-
 central för färdtjänstresor och övriga transporter med taxi
@@ -12302,7 +12302,7 @@ av Beställningscentral för färdtjänstresor och övriga transporter med taxi 
 specialfordon” besvarar de frågor som väckts i revisionsrapporten ”Granskning av
 färdtjänstupphandling”, daterad 2010-01-27.
 
-Kommunfullmäktige konstaterar att den av fullmäktige 2009-10-13, \$ 164, antagna
+Kommunfullmäktige konstaterar att den av fullmäktige 2009-10-13, § 164, antagna
 upphandlingspolicyn med tillämpningsanvisningar innehåller anvisningar som upp-
 fyller revisionsrapportens rekommendationer för upphandling.
 
@@ -12312,7 +12312,7 @@ samordnare vid nämndövergripande upphandlingar.
 Rapportens förslag till ansvarsfördelning och åtgärder ska införas och gälla för
 färdtjänst och övriga transporter med taxi och specialfordon.
 
-Färdtjänsttaxan, fastställd av KF 2008-10-14, \$ 164, ändras enligt rapportens förslag
+Färdtjänsttaxan, fastställd av KF 2008-10-14, § 164, ändras enligt rapportens förslag
 så att egenavgifterna för resor i taxezon 2 sänks till 31 kronor för vuxna och 16
 kronor för ungdom samt att egenavgifterna för färdtjänst ska justeras upp med
 samma index som kollektivtrafikresorna.
@@ -12321,7 +12321,7 @@ Kommunstyrelsen får i uppdrag att införa resegaranti för resenärer i Kungsba
 samma sätt som i övriga Halland. Reglerna för resegaranti förs in i tillämpningsregler
 för särskild kollektivtrafik — kommunal färdtjänst i Kungsbacka kommun.
 
-1 \$, 4:e stycket samt 1 \$, 5:e stycket, 6 och 7 strecksatserna i reglementet för
+1 §, 4:e stycket samt 1 §, 5:e stycket, 6 och 7 strecksatserna i reglementet för
 nämnden för Teknik ersätts med följande:
 
 oe Nämnden för Teknik handlägger frågor om färdtjänst när det gäller enskilds
@@ -12386,17 +12386,17 @@ Förslag lämnas även på revisionsrapportens rekommendationer.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2010-03-02, \$ 80
+Kommunstyrelsens arbetsutskott 2010-03-02, § 80
 Förvaltningen för Handikappomsorg, skrivelse 2010-03-08
-Nämnden för Tekniks arbetsutskott 2010-03-09, \$ 19
+Nämnden för Tekniks arbetsutskott 2010-03-09, § 19
 Nämnden för Äldreomsorgs arbetsutskott 2010-03- 11, \$I5
-Kommunstyrelsen 2010-03-16, \$ 66
+Kommunstyrelsen 2010-03-16, § 66
 
-Nämnden för Service 2010-03-17, \$ 29
+Nämnden för Service 2010-03-17, § 29
 
-Nämnden för Teknik 2010-03-25, \$ 21
+Nämnden för Teknik 2010-03-25, § 21
 
-Nämnden för Äldreomsorg 2010-03-25, \$ 21
+Nämnden för Äldreomsorg 2010-03-25, § 21
 
 forts
 
@@ -12412,7 +12412,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 12 (52)
 Sammanträdesdatum
 2010-04-13
-\$ 63 forts KS09-00123/50
+§ 63 forts KS09-00123/50
 
 Information
 Carl-Axel Ambring, IMA Marknadsutveckling, informerar om kundundersökning av
@@ -12484,7 +12484,7 @@ till ett års förlängning till 2015-06-30.
 Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2013-05-23
-Kommunstyrelsens arbetsutskott, 2013-06-04, \$ 211
+Kommunstyrelsens arbetsutskott, 2013-06-04, § 211
 
 Yrkande
 
@@ -12619,7 +12619,7 @@ taxibolag i Kungsbacka som var upphandlade av kommunen. Beställningar av resor
 gjordes av resenärerna direkt till taxi. Det gjordes i princip ingen samordning av
 resorna.
 
-Kommunfullmäktige beslutade 2007-11-08 (kf \$165) att från och med 1 januari 2009
+Kommunfullmäktige beslutade 2007-11-08 (kf §165) att från och med 1 januari 2009
 samordna anropsstyrda resor med taxi i en beställningscentral. Alla resor som
 
 Kungsbacka
@@ -12822,7 +12822,7 @@ ansvaret
 Det är inte bara färdtjänstresorna som samordnas. Alla kommunens anropsstyrda
 resor beställs via beställningscentralen och utförandet samordnas i samma taxibilar.
 
-Enligt den nya kollektivtrafiklagen \$ 12 (Prop 2009/10:200) är det möjligt för en
+Enligt den nya kollektivtrafiklagen § 12 (Prop 2009/10:200) är det möjligt för en
 kommun att efter överenskommelse låta kollektivtrafikmyndigheten upphandla
 persontransport- och samordningstjänster för transporter som kommunen ska
 tillgodose. Bedömningen är att kommunen fortsatt kan uppdra åt Region Halland att
@@ -12875,7 +12875,7 @@ KUNGSBACKA KOMMUN
 Kommunstyrelsen SAMMANTRÄDESPROTOKOLL 34 (46)
 Datum
 2013-11-19
-\$ 266 KS13-00293/50
+§ 266 KS13-00293/50
 
 Upphandling av transporter för färdtjänst
 
@@ -12888,7 +12888,7 @@ transporter med taxi och specialfordon.
 
 Sammanfattning
 
-Kommunstyrelsen beslutade 2013-06-18, \$ 156, att nuvarande organisation för
+Kommunstyrelsen beslutade 2013-06-18, § 156, att nuvarande organisation för
 färdtjänst ska fortsätta. Kungsbackas behov av transporter för färdtjänst och övrig
 anropsstyrd trafik är idag upphandlade av Hallandstrafiken. Nuvarande avtal löper ut
 2015-06-30. En ny upphandling med avtalsstart 2015-07-01 ska påbörjas.
@@ -12898,9 +12898,9 @@ Hallands upphandling.
 
 Beslutsunderlag
 
-Kommunstyrelsen, 2013-06-18, \$ 156
+Kommunstyrelsen, 2013-06-18, § 156
 Kommunstyrelsens förvaltning, skrivelse 2013-10-29
-Kommunstyrelsens arbetsutskott, 2013-11-12, \$ 350
+Kommunstyrelsens arbetsutskott, 2013-11-12, § 350
 
 Yrkande
 
@@ -12998,7 +12998,7 @@ samordnas för att uppnå största möjliga effekt av samplanering mellan olika 
 
 Enligt den nya kollektivtrafiklagstiftningen har en kommun möjlighet att lämna över
 ansvaret för upphandling av transporter som kommunen behöver till sin
-kollektivtrafikmyndighet (Lag (2010:1065) om kollektivtrafik 2 kap, \$ 12).
+kollektivtrafikmyndighet (Lag (2010:1065) om kollektivtrafik 2 kap, § 12).
 
 Kommunen överlämnar till Region Halland att inkludera Kungsbackas behov av
 transporter med taxi och specialfordon för färdtjänst, skolskjuts med taxi m £l
@@ -15629,10 +15629,10 @@ Verkstadsgatan;
 
 beslutade den 27 mars 2024.
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 \$ andra stycket 16 och 17
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 § andra stycket 16 och 17
 och 3 3 första stycket trafikförordningen (1998:1276) följande.
 
-1 \$ Med avvikelse från Kungsbacka kommuns lokala trafikföreskrifter (1384
+1 § Med avvikelse från Kungsbacka kommuns lokala trafikföreskrifter (1384
 2019:00075) om förbud att parkera i Inlags verksamhetsområde får fordon parkeras
 på västra sidan av Verkstadsgatan enligt rödmarkerad sträcka på kartbild. Tillåtelsen
 ger inte rätt att parkera där det är förbjudet att stanna eller parkera enligt
@@ -15642,7 +15642,7 @@ trafikförordningen (1998:1276).
 avgift betalas eller högst I tumme i följd mot användande av parkeringsskiva eller
 
 motsvarande.
-3 \$ Avgiften i 2 \$ är enligt taxa D enligt bestämmelserna om avgifter för parkering i
+3 § Avgiften i 2 § är enligt taxa D enligt bestämmelserna om avgifter för parkering i
 
 Kungsbacka kommuns lokala trafikföreskrifter (1384 2019:00038) om
 parkeringsavgifter i Kungsbacka.
@@ -15675,21 +15675,21 @@ Kungsbacka kommuns lokala trafikföreskrifter om parkering på
 Verkstadsgatan;
 beslutade den 27 mars 2024.
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 \$ andra stycket 16 och 17
-och 3 \$ första stycket trafikförordningen (1998:1276) följande.
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 § andra stycket 16 och 17
+och 3 § första stycket trafikförordningen (1998:1276) följande.
 
-1 \$ Med avvikelse från Kungsbacka kommuns lokala trafikföreskrifter (1384
+1 § Med avvikelse från Kungsbacka kommuns lokala trafikföreskrifter (1384
 2019:00075) om förbud att parkera i Inlags verksamhetsområde får fordon parkeras
 på västra sidan av Verkstadsgatan enligt rödmarkerad sträcka på kartbild. Tillåtelsen
 ger inte rätt att parkera där det är förbjudet att stanna eller parkera enligt
 trafikförordningen (1998:1276).
 
-2 \$ Vardagar mellan klockan 8 och 22 gäller dock tillåtelsen att parkera i 1 \$ mot att
+2 § Vardagar mellan klockan 8 och 22 gäller dock tillåtelsen att parkera i 1 § mot att
 avgift betalas eller högst I timme i följd mot användande av parkeringsskiva eller
 
 motsvarande.
 
-3 \$ Avgiften i 2 \$ är enligt taxa D enligt bestämmelserna om avgifter för parkering i
+3 § Avgiften i 2 § är enligt taxa D enligt bestämmelserna om avgifter för parkering i
 Kungsbacka kommuns lokala trafikföreskrifter (1384 2019:00038) om
 
 W 8 ÅA
@@ -15719,8 +15719,8 @@ Hantverksgatan;
 
 beslutade den 27 mars 2024.
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 \$ andra stycket 16 och 17
-och 3 \$ första stycket trafikförordningen (1998:1276) följande.
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 § andra stycket 16 och 17
+och 3 § första stycket trafikförordningen (1998:1276) följande.
 
 1 3 Med avvikelse från Kungsbacka kommuns lokala trafikföreskrifter (1384
 2019:00075) om förbud att parkera i Inlags verksamhetsområde får fordon parkeras
@@ -15728,12 +15728,12 @@ på norra sidan av Lilla Hantverksgatan enligt röd markering på kartbild. Till
 ger inte rätt att parkera där det är förbjudet att stanna eller parkera enligt
 trafikförordningen (1998:1276).
 
-2 8 Vardagar mellan klockan 8 och 22 gäller dock tillåtelsen att parkera i 1 \$ mot att
+2 8 Vardagar mellan klockan 8 och 22 gäller dock tillåtelsen att parkera i 1 § mot att
 avgift betalas eller högst 1 timme i följd mot användande av parkeringsskiva eller
 
 motsvarande.
 
-3 Avgiften i 2 \$ är enligt taxa D enligt bestämmelserna om avgifter för parkering i
+3 Avgiften i 2 § är enligt taxa D enligt bestämmelserna om avgifter för parkering i
 Kungsbacka kommuns lokala trafikföreskrifter (1384 2019:00038) om
 parkeringsavgifter i Kungsbacka.
 
@@ -15780,21 +15780,21 @@ Verkstadsgatan;
 
 beslutade den 27 mars 2024.
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 \$ andra stycket 16 och 17
-och 3 \$ första stycket trafikförordningen (1998:1276) följande.
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 § andra stycket 16 och 17
+och 3 § första stycket trafikförordningen (1998:1276) följande.
 
-1 \$ Med avvikelse från Kungsbacka kommuns lokala trafikföreskrifter (1384
+1 § Med avvikelse från Kungsbacka kommuns lokala trafikföreskrifter (1384
 2019:00075) om förbud att parkera i Inlags verksamhetsområde får fordon parkeras
 på Verkstadsgatan enligt rödmarkerad yta på kartbild. Tillåtelsen ger inte rätt att
 parkera där det är förbjudet att stanna eller parkera enligt trafikförordningen
 (1998:1276).
 
-2 \$ Vardagar mellan klockan 8 och 22 gäller dock tillåtelsen att parkera i I \$ mot att
+2 § Vardagar mellan klockan 8 och 22 gäller dock tillåtelsen att parkera i I \$ mot att
 avgift betalas eller högst 1 timme i följd mot användande av parkeringsskiva eller
 
 motsvarande.
 
-3 \$ Avgiften i 2 \$ är enligt taxa D enligt bestämmelserna om avgifter för parkering i
+3 § Avgiften i 2 § är enligt taxa D enligt bestämmelserna om avgifter för parkering i
 Kungsbacka kommuns lokala trafikföreskrifter (1384 2019:00038) om
 parkeringsavgifter i Kungsbacka.
 
@@ -15902,8 +15902,8 @@ Resecentrum;
 
 beslutade den 27 mars 2024.
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 \$ andra stycket 16 och 17
-och 3 \$ första stycket trafikförordningen (1998:1276) följande.
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 § andra stycket 16 och 17
+och 3 § första stycket trafikförordningen (1998:1276) följande.
 
 På rödmarkerad parkering söder om Resecentrum enligt kartbild får fordon parkeras
 
@@ -16030,26 +16030,26 @@ parkeringsavgifter i Kungsbacka kommun;
 
 beslutade den 27 mars 2024.
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. I \$ andra stycket 17 och 3 \$
+Kungsbacka kommun föreskriver med stöd av 10 kap. I \$ andra stycket 17 och 3 §
 första stycket trafikförordningen (1998:1276) följande.
 
 Föreskrifter om ändring i Kungsbacka kommuns lokala trafikföreskrifter 1384
 2019:00038 om parkeringsavgifter i Kungsbacka kommun beslutade den 1 april 2019
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 3 andra stycket 17 och 3 \$
-första stycket trafikförordningen (1998:1276) att 2, 3, 4, 5 och 6 \$ i kommunens
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 3 andra stycket 17 och 3 §
+första stycket trafikförordningen (1998:1276) att 2, 3, 4, 5 och 6 § i kommunens
 lokala trafikföreskrifter 1384 2019:00038 om parkeringsavgifter i Kungsbacka
 kommun ska ha följande lydelse.
 
 23 Taxa A. Avgiften är 7 kr per timme
 
-3 \$ Taxa B. Avgiften är 6 kr per timme
+3 § Taxa B. Avgiften är 6 kr per timme
 
 4 & Taxa C. Avgiften är 5 kr per timme
 
-5 \$ Taxa D. Avgiften är 3 kr per timme
+5 § Taxa D. Avgiften är 3 kr per timme
 
-6 \$ Taxa E. Avgiften är 8 kr per timme
+6 § Taxa E. Avgiften är 8 kr per timme
 
 Denna författning träder i kraft den 8 april 2024.
 

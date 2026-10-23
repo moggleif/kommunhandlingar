@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.52f0a12a19e103e1053be7d7/1779106840
 sha256: c9d1fc9348ffb494ab04cef0a07560c125aa2a63397b804267ada826230061c5
 bytes: 13254418
 sidor: 244
-hamtad: 2026-10-14T06:43:41+00:00
-konverterad: 2026-10-14T06:44:45+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T06:49:51+00:00
+konverterad: 2026-10-23T06:51:03+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2870,7 +2870,7 @@ ersättningen till fristående gymnasieskolor för 2026.
 
 Upplysning
 Beslut fattat med stöd av delegering. Gymnasium & Arbetsmarknad delegeringsförteckning: punkt
-2.1.1, 2025-12-18, \$ 152.
+2.1.1, 2025-12-18, § 152.
 
 Sammanfattning av ärendet
 
@@ -3013,16 +3013,16 @@ Koordinator), Pernilla Kallepruun (lärare Aranäsgymnasiet), Vanja Winroth Lohm
 (Enhetschef kommunikation och kompetensförsörjning VO), Jan Eric Knutas (L,
 förtroendevald, ordförande), Malin Edefors (lärare Aranäsgymnasiet)
 
-\$1 Mötets öppnande
+§1 Mötets öppnande
 Ordförande Jan Eric Knutas välkomnar och inleder mötet.
 Presentationsrunda.
 
-\$2 Val av sekreterare och justerare:
+§2 Val av sekreterare och justerare:
 
 Sekretere: Malin Edefors
 Justerare: Emilia Löfberg
 
-\$3 Föregående protokoll
+§3 Föregående protokoll
 
 Dan Sadé återkopplar. Matersättningsfrågan är ständigt en aktuell
 kopplat till ökade matkostnader i samhället.
@@ -3058,7 +3058,7 @@ www.aranasgymnasiet.kungsbacka.se
 
 <!-- sida 84 -->
 
-\$4
+§4
 
 KUNGSBACKA KOMMUN
 
@@ -3120,7 +3120,7 @@ Lärlingsprogrammet, Lindälvs gymnasium:
 
 <!-- sida 85 -->
 
-\$5
+§5
 
 86
 
@@ -3201,15 +3201,15 @@ med Äldreomsorgslyftet för IF-personal. Det finns generellt ett ökat
 intresse för utbildning till stödassistent. Språkombudsutbildning startar
 till hösten.
 
-\$7 APL
+§7 APL
 Alla vill hitta en lösning! Se tidigare punkter.
 Dubbelt så många elever behöver få sjukvårdsplatser till hösten i GR.
 Det är ett problem för praktikplatsen.se att lösa.
-\$8 Arbetsmarknadsläget
+§8 Arbetsmarknadsläget
 Ingen representant.
-\$9 Övriga frågor
+§9 Övriga frågor
 Inga övriga frågor
-\$10 Nästa möte
+§10 Nästa möte
 Onsdag 14 oktober 13.00 Lindälvs gymnasium
 \$l1 Mötet avslutas
 Ordförande avslutar mötet
@@ -4079,16 +4079,16 @@ Koordinator), Pernilla Kallepruun (lärare Aranäsgymnasiet), Vanja Winroth Lohm
 (Enhetschef kommunikation och kompetensförsörjning VO), Jan Eric Knutas (L,
 förtroendevald, ordförande), Malin Edefors (lärare Aranäsgymnasiet)
 
-\$1 Mötets öppnande
+§1 Mötets öppnande
 Ordförande Jan Eric Knutas välkomnar och inleder mötet.
 Presentationsrunda.
 
-\$2 Val av sekreterare och justerare:
+§2 Val av sekreterare och justerare:
 
 Sekretere: Malin Edefors
 Justerare: Emilia Löfberg
 
-\$3 Föregående protokoll
+§3 Föregående protokoll
 
 Dan Sadé återkopplar. Matersättningsfrågan är ständigt en aktuell
 kopplat till ökade matkostnader i samhället.
@@ -4124,7 +4124,7 @@ www.aranasgymnasiet.kungsbacka.se
 
 <!-- sida 109 -->
 
-\$4
+§4
 
 KUNGSBACKA KOMMUN
 
@@ -4186,7 +4186,7 @@ Lärlingsprogrammet, Lindälvs gymnasium:
 
 <!-- sida 110 -->
 
-\$5
+§5
 
 86
 
@@ -4267,15 +4267,15 @@ med Äldreomsorgslyftet för IF-personal. Det finns generellt ett ökat
 intresse för utbildning till stödassistent. Språkombudsutbildning startar
 till hösten.
 
-\$7 APL
+§7 APL
 Alla vill hitta en lösning! Se tidigare punkter.
 Dubbelt så många elever behöver få sjukvårdsplatser till hösten i GR.
 Det är ett problem för praktikplatsen.se att lösa.
-\$8 Arbetsmarknadsläget
+§8 Arbetsmarknadsläget
 Ingen representant.
-\$9 Övriga frågor
+§9 Övriga frågor
 Inga övriga frågor
-\$10 Nästa möte
+§10 Nästa möte
 Onsdag 14 oktober 13.00 Lindälvs gymnasium
 \$l1 Mötet avslutas
 Ordförande avslutar mötet

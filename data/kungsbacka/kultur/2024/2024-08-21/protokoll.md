@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.50ef5810191784a92d952c8/17246804306
 sha256: bb19a3e59f63dc088dd7a03ad0d6e31dbbe4356d5ae73e9872c4720d2b210a4d
 bytes: 1116637
 sidor: 10
-hamtad: 2026-10-14T10:18:24+00:00
-konverterad: 2026-10-14T10:18:43+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T10:46:21+00:00
+konverterad: 2026-10-23T10:46:46+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -35,11 +35,11 @@ Plats och tid för Ågrenska Klockan 08:30-16:45
 sammanträde
 Beslutande Ledamöter Tjänstgörande ersättare
 Annika Hedman (C), Ordförande Bo Barknertz (M) för Maria
-Ulrika Jörgensen (M) Gathendahl (M) \$ 80, 84-85
+Ulrika Jörgensen (M) Gathendahl (M) § 80, 84-85
 Charlotte Wallenstein (M) Birgitta Gustafsson (L) för Lena
-Per Gunnarsson (S) Hasslöf Gustafsson (C) \$ 80-85
+Per Gunnarsson (S) Hasslöf Gustafsson (C) § 80-85
 Birgitta Tingdal (S) Gert Svensson (S) för Jon
-Torbjörn Andersson (SD) Thorbjörnson \$ 85
+Torbjörn Andersson (SD) Thorbjörnson § 85
 Mats Dahl (SD)
 Helene Engstrand (KD)
 Jon Thorbjörnson (V)
@@ -64,7 +64,7 @@ Annika Rönnblom, Ågrenska
 
 Plats och tid för justering Digitalt. 2024-08-26
 
-Sekreterare Erik Norinder Paragrafer \$ 80-85
+Sekreterare Erik Norinder Paragrafer § 80-85
 
 Ordförande Annika Hedman (C)
 
@@ -78,7 +78,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (9)
 Nämnden för Kultur & Fritid Datum
 2024-08-21
 
-\$ 80 Dnr KFT-2024-00221
+§ 80 Dnr KFT-2024-00221
 Taxor och avgifter Kultur & Fritid
 
 Beslut
@@ -112,7 +112,7 @@ Sammanfattning av ärendet
 Den publika verksamhet inom nämnden för Kultur & Fritids ansvarsområde
 
 finansieras dels av offentliga medel dels av avgifter som tas ut med stöd i
-Bibliotekslagen (2013:801) 9 \$ samt Kommunallagen (2017:900), 2 kap. 5 - 6 \$\$ -
+Bibliotekslagen (2013:801) 9 § samt Kommunallagen (2017:900), 2 kap. 5 - 6 §§ -
 allmänna kompetensen.
 
 Avgifterna har senast uppdaterats (årtal för ikraftträdande):
@@ -203,7 +203,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (9)
 Nämnden för Kultur & Fritid Datum
 2024-08-21
 
-\$ 81 Dnr KFT-2024-00220
+§ 81 Dnr KFT-2024-00220
 Information till nämnd: Kulturbarometern
 
 Beslut
@@ -235,7 +235,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (9)
 Nämnden för Kultur & Fritid Datum
 2024-08-21
 
-\$ 82 Dnr KFT-2024-00218
+§ 82 Dnr KFT-2024-00218
 Anmälan av delegeringsbeslut aug 2024
 
 Beslut
@@ -274,7 +274,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7 (9)
 Nämnden för Kultur & Fritid Datum
 2024-08-21
 
-\$ 83 Dnr KFT-2024-00219
+§ 83 Dnr KFT-2024-00219
 Redovisning av inkomna handlingar augusti 2024
 
 Beslut
@@ -307,7 +307,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 89)
 Nämnden för Kultur & Fritid Datum
 2024-08-21
 
-\$ 84 Dnr KFT-2024-00223
+§ 84 Dnr KFT-2024-00223
 Planeringsdag 2024: Målbild 2030
 
 Beslut
@@ -317,7 +317,7 @@ Nämnden noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Nämnden informeras om hur förvaltningen omsätter Målbild 2030, som arbetades
-fram hösten 2023 (KFT 2023 \$ 81). Nämnden ges också en omvärldsbevakning,
+fram hösten 2023 (KFT 2023 § 81). Nämnden ges också en omvärldsbevakning,
 både vad gäller Kungsbacka och världen i stort. Efterföljande gruppdiskussioner
 hålls kring eventuell uppdatering av målbilden.
 
@@ -352,7 +352,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (9)
 Nämnden för Kultur & Fritid Datum
 2024-08-21
 
-\$85 Dnr KFT-2024-00224
+§85 Dnr KFT-2024-00224
 Planeringsdag 2024: Stöd till föreningar
 
 Beslut
@@ -361,7 +361,7 @@ Nämnden noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-Nämnden gav 2024-02-21 \$ 18 förvaltningen i uppdrag att presentera förslag på
+Nämnden gav 2024-02-21 § 18 förvaltningen i uppdrag att presentera förslag på
 förnyat bidragssystem. Under planeringsdagen ges nämnden en statusuppdatering på
 arbetet med efterföljande gruppdiskussioner.
 

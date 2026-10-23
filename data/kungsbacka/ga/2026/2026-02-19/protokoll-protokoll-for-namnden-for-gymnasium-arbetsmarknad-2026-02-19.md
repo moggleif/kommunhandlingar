@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6cf878e819c986b5ee72c8c/17720931949
 sha256: 770f5eb64bf65403b57a937aeabfaf19d370d9151bc2cac3fac03a090336fc85
 bytes: 1685211
 sidor: 26
-hamtad: 2026-10-14T06:20:11+00:00
-konverterad: 2026-10-14T06:20:49+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T06:21:27+00:00
+konverterad: 2026-10-23T06:22:21+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -55,7 +55,7 @@ Ledamöter
 Axel Storckenfeldt (M), Ordförande
 Helena Nyborg (KD), 1:e vice ordförande
 Shabnam Zamani (S), 2:e vice ordförande
-\$\$17—-31
+§§17—-31
 
 Jenny Nilsson (M)
 
@@ -72,7 +72,7 @@ Sebastian Lindberg (V)
 Ersättare
 
 Pia Grapenstrand Kvarntun (M)
-Pontus Jensen (S) \$\$17—-31
+Pontus Jensen (S) §§17—-31
 Anna Thomander (S)
 
 Personalföreträdare
@@ -96,7 +96,7 @@ Klockan 17:00-20:50, paus 18:25
 Tjänstgörande ersättare
 
 Pontus Jensen (S) ersätter Shabnam
-Zamani (S) \$\$13—16
+Zamani (S) §§13—16
 
 Osama Mohamed Mesto (C) ersätter
 Karin Green (C)
@@ -125,14 +125,14 @@ gymnasiechef
 Alexandra Cameron, utvecklare
 Adam Greveby, utvecklare
 
-Dan Sadé, rektor \$ 14
+Dan Sadé, rektor § 14
 
 Magnus Sandberg, Verksamhetschef
-EMI \$\$ 15-16
+EMI §§ 15-16
 
-Pernilla Börjesson, enhetschef \$ 19
+Pernilla Börjesson, enhetschef § 19
 
-\$\$ 13-31
+§§ 13-31
 
 Paragrafer
 
@@ -145,7 +145,7 @@ Nämnden för Gymnasium & Arbetsmarknad Datum
 
 8 28
 
-\$ 29
+§ 29
 
 8 30
 
@@ -153,11 +153,11 @@ Nämnden för Gymnasium & Arbetsmarknad Datum
 
 2026-02-19
 Dnr GA-2026-00026
-Återrapportering av delegeringsbeslut (2026) .............ssssssrssssssssssrsrererssnnn 21
+Återrapportering av delegeringsbeslut (2026) .... 21
 Dnr GA-2026-00024
-Återrapportering av program- och verksamhetsråd (2026) ....................... 22
+Återrapportering av program- och verksamhetsråd (2026) .... 22
 Dnr GA-2026-00003
-Inkomna skrivelser till ledamöter och ersättare i nämnden (2026)............ 23
+Inkomna skrivelser till ledamöter och ersättare i nämnden (2026) .... 23
 Dnr GA-2026-00002
 Förvaltningschef informerar (2026) ...sssssssersreserssrrersrerrsrnresnrrennrerrrrrrnnr nan 24
 
@@ -175,7 +175,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (24)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-\$ 13 Dnr GA-2026-00004
+§ 13 Dnr GA-2026-00004
 Förändring av ärendelista samt val av justerare (2026)
 
 Beslut
@@ -201,7 +201,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (24)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-\$ 14 Dnr GA-2025-00092
+§ 14 Dnr GA-2025-00092
 Verksamhetsinformation
 
 Beslut
@@ -232,7 +232,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (24)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-\$ 15 Dnr GA-2026-00018
+§ 15 Dnr GA-2026-00018
 Patientsäkerhetsberättelse - elevhälsa 2025
 
 Beslut
@@ -325,7 +325,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 8 (24)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-\$ 16 Dnr GA-2026-00020
+§ 16 Dnr GA-2026-00020
 God och nära vård årsrapport 2025
 
 Beslut
@@ -372,7 +372,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (24)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-\$ 17 Dnr GA-2026-00019
+§ 17 Dnr GA-2026-00019
 Sammanställning kränkningar augusti-dec 2025
 
 Beslut
@@ -417,7 +417,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 10 (24)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-\$ 18 Dnr GA-2024-00088
+§ 18 Dnr GA-2024-00088
 Bostad först
 
 Beslut
@@ -468,7 +468,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 11 (24)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-\$ 19 Dnr GA-2026-00032
+§ 19 Dnr GA-2026-00032
 Revidering av riktlinjer ekonomiskt bistånd 2026
 
 Beslut
@@ -524,7 +524,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 12 (24)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 
 2026-02-19
-\$ 20 Dnr GA-2023-00161
+§ 20 Dnr GA-2023-00161
 Budget 2025
 Beslut
 
@@ -542,7 +542,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 13 (24)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-\$ 21 Dnr GA-2026-00017
+§ 21 Dnr GA-2026-00017
 Ombudgetering och resultatfond 2025
 
 Beslut
@@ -561,7 +561,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 14 (24)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-\$ 22 Dnr GA-2024-00193
+§ 22 Dnr GA-2024-00193
 Intern kontrollplan 2025
 
 Beslut
@@ -579,7 +579,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 15 (24)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-\$ 23 Dnr GA-2025-00069
+§ 23 Dnr GA-2025-00069
 Kvartalsuppföljning av arbetsmarknadsprocessen 2025
 
 Beslut
@@ -619,7 +619,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 16 (24)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-\$ 24 Dnr GA-2025-00188
+§ 24 Dnr GA-2025-00188
 
 Beredning av motion - Mera grön och blå mat i Kungsbacka kommun
 (KS-2025-00809)
@@ -632,7 +632,7 @@ gymnasieskolor och i Kungsbacka kommun.
 
 Sammanfattning av ärendet
 
-Kommunstyrelsens arbetsutskott (\$343/25) har för yttrande översänt en av Elisabeth
+Kommunstyrelsens arbetsutskott (§343/25) har för yttrande översänt en av Elisabeth
 Sahlsten (MP), Karin Färnlöf Clarin (MP), Maria Losman (MP) och Clas
 
 Rosander (MP) motion om ”Mera grön och blå mat i Kungsbacka!”. Motionärerna
@@ -663,9 +663,9 @@ genomföra i nuläget.
 Beslutsunderlag
 
 Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2026-01-15
-Kommunfullmäktige 2025-11-04 \$ 226
+Kommunfullmäktige 2025-11-04 § 226
 
-Kommunstyrelsens arbetsutskott 2025-11-18 \$ 343
+Kommunstyrelsens arbetsutskott 2025-11-18 § 343
 
 Motion från Elisabeth Sahlsten (MP) m.fl. 2025-10-29
 
@@ -703,7 +703,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 18 (24)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-\$25 Dnr GA-2026-00034
+§25 Dnr GA-2026-00034
 FG/GA stämningsansökan Gotit Skolplatsen
 
 Beslut
@@ -762,7 +762,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 19 (24)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-\$ 26 Dnr GA-2026-00028
+§ 26 Dnr GA-2026-00028
 Nya samverkansavtal GR
 
 Beslut
@@ -814,7 +814,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 20 (24)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-\$ 27 Dnr GA-2026-00030
+§ 27 Dnr GA-2026-00030
 Revidering av delegeringsförteckning (2026)
 
 Beslut
@@ -831,8 +831,8 @@ under avsnitt Dödsbo.
 Under avsnitt Dödsbo har nya beslut avseende begravningshjälp, utgifter samt
 återbetalning lagts till.
 
-Ett förtydligande har gjort under punkt 2.6.23 där beslut kan fattas enligt 12 kap 1 \$
-SoL i form av ekonomiskt bistånd till vandrarhem eller enligt 11 kap 1 \$ SoL i form
+Ett förtydligande har gjort under punkt 2.6.23 där beslut kan fattas enligt 12 kap 1 §
+SoL i form av ekonomiskt bistånd till vandrarhem eller enligt 11 kap 1 § SoL i form
 av TAK.
 
 Tillägg har gjort för resor/umgängesresor till utlandet, beslut om skäligt rådrum
@@ -861,7 +861,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 21 (24)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-\$ 28 Dnr GA-2026-00026
+§ 28 Dnr GA-2026-00026
 Återrapportering av delegeringsbeslut (2026)
 
 Beslut
@@ -915,7 +915,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 22 (24)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-\$ 29 Dnr GA-2026-00024
+§ 29 Dnr GA-2026-00024
 Återrapportering av program- och verksamhetsråd (2026)
 
 Beslut
@@ -951,7 +951,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 23 (24)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-\$ 30 Dnr GA-2026-00003
+§ 30 Dnr GA-2026-00003
 Inkomna skrivelser till ledamöter och ersättare i nämnden (2026)
 
 Beslut
@@ -979,7 +979,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 24 (24)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-\$ 31 Dnr GA-2026-00002
+§ 31 Dnr GA-2026-00002
 Förvaltningschef informerar (2026)
 
 Beslut

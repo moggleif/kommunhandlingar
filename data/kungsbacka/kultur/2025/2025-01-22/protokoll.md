@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4114947f194a0301afe2d8ed/1737978570
 sha256: a9b10ea976aced932b1e432e4bc8a3baf0431f87e257f8a3b0736afe75ccfdb7
 bytes: 2879171
 sidor: 16
-hamtad: 2026-10-14T10:19:40+00:00
-konverterad: 2026-10-14T10:20:21+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T10:47:59+00:00
+konverterad: 2026-10-23T10:48:58+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -103,7 +103,7 @@ Elinor Filipsson, näringslivschef
 Nina Magnusson, platsvarumärkes-
 och kommunikationschef
 
-Paragrafer \$ 1-12
+Paragrafer § 1-12
 
 <!-- sida 2 -->
 
@@ -114,7 +114,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (15)
 Nämnden för Kultur & Fritid Datum
 2025-01-22
 
-\$1 Dnr KFT-2024-00329
+§1 Dnr KFT-2024-00329
 Information till nämnd: näringsliv och kultur
 
 Beslut
@@ -145,7 +145,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (15)
 Nämnden för Kultur & Fritid Datum
 2025-01-22
 
-\$2 Dnr KFT-2025-00002
+§2 Dnr KFT-2025-00002
 Information till nämnd: förvaltningsbudget
 
 Beslut
@@ -176,7 +176,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (15)
 Nämnden för Kultur & Fritid Datum
 2025-01-22
 
-\$3 Dnr KFT-2025-00003
+§3 Dnr KFT-2025-00003
 Investeringsplan 2026-2035
 
 Beslut
@@ -266,7 +266,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7 (15)
 Nämnden för Kultur & Fritid Datum
 2025-01-22
 
-\$4 Dnr KFT-2024-00362
+§4 Dnr KFT-2024-00362
 Underlag till kommunbudget 2026
 
 Beslut
@@ -314,7 +314,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 8 (15)
 Nämnden för Kultur & Fritid Datum
 2025-01-22
 
-\$5 Dnr KFT-2025-00010
+§5 Dnr KFT-2025-00010
 Slutförande av projekt Löftaleden
 
 Beslut
@@ -369,7 +369,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (15)
 Nämnden för Kultur & Fritid Datum
 2025-01-22
 
-\$6 Dnr KFT-2024-00328
+§6 Dnr KFT-2024-00328
 Information till nämnd: Platsvarumärket
 
 Beslut
@@ -401,7 +401,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 10 (15)
 Nämnden för Kultur & Fritid Datum
 2025-01-22
 
-\$ 7 Dnr KFT-2025-00004
+§ 7 Dnr KFT-2025-00004
 Handlingsplan BRÅ
 
 Beslut
@@ -445,7 +445,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 11 (15)
 Nämnden för Kultur & Fritid Datum
 2025-01-22
 
-\$8 Dnr KFT-2025-000053
+§8 Dnr KFT-2025-000053
 Årsredovisning God och Nära vård
 
 Beslut
@@ -481,7 +481,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 12 (15)
 Nämnden för Kultur & Fritid Datum
 2025-01-22
 
-\$9 Dnr KFT-20235-00006
+§9 Dnr KFT-20235-00006
 Överlämnande av arbetsuppgifter till nämndsekreterare
 
 Beslut
@@ -524,7 +524,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 13 (15)
 Nämnden för Kultur & Fritid Datum
 2025-01-22
 
-\$ 10 Dnr KFT-202535-00007
+§ 10 Dnr KFT-202535-00007
 Anmälan av delegeringsbeslut jan 2025
 
 Beslut
@@ -561,7 +561,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 14 (15)
 Nämnden för Kultur & Fritid Datum
 2025-01-22
 
-\$ 11 Dnr KFT-2025-00008
+§ 11 Dnr KFT-2025-00008
 Redovisning av inkomna handlingar jan 2025
 
 Beslut
@@ -591,7 +591,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 15 (15)
 Nämnden för Kultur & Fritid Datum
 2025-01-22
 
-\$ 12 Dnr KFT-20235-00009
+§ 12 Dnr KFT-20235-00009
 Förvaltningschefen informerar
 
 Beslut

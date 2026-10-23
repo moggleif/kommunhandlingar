@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.33d6d97191e4f00c90c83cf/17266602304
 sha256: 3c160c1e2eaf33841dc05be28396ff93eb588a12b3b52753ca0ab0bb5237d87d
 bytes: 500256
 sidor: 59
-hamtad: 2026-10-14T08:07:16+00:00
-konverterad: 2026-10-14T08:07:25+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T08:36:04+00:00
+konverterad: 2026-10-23T08:36:14+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -89,16 +89,16 @@ Peter Sebestyén, enhetschef
 Ida Lennartsson, verksamhetschef,
 kommunstyrelsens förvaltning
 Camilla Cangren,
-bygglovshandläggare \$\$ 256-259
+bygglovshandläggare §§ 256-259
 Catrin Johansson,
-bygglovshandläggare \$\$ 256-259
+bygglovshandläggare §§ 256-259
 Hanna Vilhelmsson,
-bygglovshandläggare \$\$ 256-261
-Christina Nordberg, controller \$ 273
-Annika Nally, HR-specialist \$ 273
+bygglovshandläggare §§ 256-261
+Christina Nordberg, controller § 273
+Annika Nally, HR-specialist § 273
 Amanda Toresson, nämndsekreterare
 
-\$\$ 256-273
+§§ 256-273
 
 Paragrafer
 

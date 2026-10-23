@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6484dcbe1a01d8509de1085/17872057962
 sha256: be69b77172a322ecb857dbe15cd4c81cd539abbf49d8bd28784ba2fe06234fb3
 bytes: 1257005
 sidor: 20
-hamtad: 2026-10-14T07:21:22+00:00
-konverterad: 2026-10-14T07:21:50+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T07:34:34+00:00
+konverterad: 2026-10-23T07:35:13+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -84,15 +84,15 @@ Tjänstgörande ersättare
 
 Tjänstepersoner
 
-Frida Byrsten, verksamhetschef \$\$ 73,
+Frida Byrsten, verksamhetschef §§ 73,
 74, 75
 
-Annelie Sackelius, utvecklare, \$ 76
+Annelie Sackelius, utvecklare, § 76
 Anna Sörensen, utvecklingsledare \$
 80
 
 Karin Steneros Einvall,
-utvecklingsledare \$ 80
+utvecklingsledare § 80
 
 Maria Eriksson, biträdande
 förvaltningschef
@@ -102,7 +102,7 @@ Lars Sundbom, utvecklare
 
 Övriga
 
-Paragrafer \$\$ 71-80
+Paragrafer §§ 71-80
 
 <!-- sida 2 -->
 
@@ -111,44 +111,44 @@ Förskola & Grundskola arbetsutskott Datum
 2026-08-13
 
 Innehåll
-\$ 71 Dnr FG-2026-00014
+§ 71 Dnr FG-2026-00014
 
-Fastställande av dagordning och val av juSterafe..............ssssssorsssororerrsssssnnn 3
-\$ 72 Dnr FG-2026-00277
+Fastställande av dagordning och val av juSterafe .... 3
+§ 72 Dnr FG-2026-00277
 
-Uttag ur resultatfond, skolcoacher i SamVerkal..............sssssrssersssorerrrrrssssnnr 4
-\$ 73 Dnr FG-2026-00292
+Uttag ur resultatfond, skolcoacher i SamVerkal .... 4
+§ 73 Dnr FG-2026-00292
 
 Ansökan om fullgörande av skolplikten på annat sätt, skollagen 24 kap 23
 
 SF 5
-\$ 74 Dnr FG-2025-00530
+§ 74 Dnr FG-2025-00530
 
 Kvalitetsgranskning Särö skola 6-9- Skolinspektionen SI 2025:5873.
 
 Redovisning av åtgärdert. ..ssmssssrersrssrrresererresererersrrrresernrrrsrrrrerrrrrrerrrr rr rr rna 7
-\$ 75 Dnr FG-2026-00367
+§ 75 Dnr FG-2026-00367
 
 Slutlig granskning likvärdig SKOIa sssssssssssersrsrsrrrrrssrrrersrrrnressrrnrrerrrrrrrrrrrr erna 9
-\$ 76 Dnr FG-2026-00385
+§ 76 Dnr FG-2026-00385
 
-Information om satsningen samverkan skola - arbetsliv ........................... 11
-\$ 77 Dnr FG-2026-00439
+Information om satsningen samverkan skola - arbetsliv .... 11
+§ 77 Dnr FG-2026-00439
 
 Sammanträdestider 2027 omnisssessssssrrressrrrrrsererersrrrrererrrrrrrrrr reser nr ers rr rr r nerna 13
-\$ 78 Dnr FG-2026-00015
+§ 78 Dnr FG-2026-00015
 
 Pågående Skolinspektions- och Barn och elevombudsärenden, inklusive
 
 ärenden som utreds inom Förskola & Grundskolas klagomålshantering
 
 2020 oeorrrreseeserreererssrreerrresrererrreerrrerr seen n rese rese rer reser ere esse ren r Rs ere nr n ren n ren nen 15
-\$ 79 Dnr FG-2026-00459
+§ 79 Dnr FG-2026-00459
 
 Initiativ för distansundervisning i egen fe2l..s..ssssssseerssrrrrrrrssererrrrrrrrsrnnrn rs 16
-\$ 80 Dnr FG-2026-00016
+§ 80 Dnr FG-2026-00016
 
-Information - Förskola & Grundskola arbetsutskott och nämnd :............... 18
+Information - Förskola & Grundskola arbetsutskott och nämnd : .... 18
 
 2 (18)
 
@@ -164,7 +164,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (18)
 Förskola & Grundskola arbetsutskott Datum
 2026-08-13
 
-\$ 71 Dnr FG-2026-00014
+§ 71 Dnr FG-2026-00014
 Fastställande av dagordning och val av justerare
 
 Beslut
@@ -193,7 +193,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (18)
 Förskola & Grundskola arbetsutskott Datum
 2026-08-13
 
-\$\$ 72 Dnr FG-2026-00277
+§§ 72 Dnr FG-2026-00277
 Uttag ur resultatfond, skolcoacher i samverkan
 
 Förslag till beslut
@@ -249,13 +249,13 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (18)
 
 Förskola & Grundskola arbetsutskott Datum
 2026-08-13
-\$ 73 Dnr FG-2026-00292
+§ 73 Dnr FG-2026-00292
 Ansökan om fullgörande av skolplikten på annat sätt, skollagen 24 kap
 238
 Beslut
 
 Ansökan om fullgörande av skolplikt på annat sätt för eleverna beviljas inte, då
-kriterierna enligt 24 kap. 23 \$ skollagen inte bedöms vara uppfyllda.
+kriterierna enligt 24 kap. 23 § skollagen inte bedöms vara uppfyllda.
 
 Sammanfattning av ärendet
 
@@ -263,7 +263,7 @@ Vårdnadshavarna till de två eleverna har ansökt om att fullgöra skolplikt p�
 genom skolgång på Svenska Skola Marbella under perioden 1 september 2026 till 19
 december 2026.
 
-I 24 kap. 23 \$ skollagen finns bestämmelser om att fullgöra skolplikten på annat sätt
+I 24 kap. 23 § skollagen finns bestämmelser om att fullgöra skolplikten på annat sätt
 än vad som anges i skollagen. Medgivande ska lämnas om verksamheten framstår
 som ett fullgott alternativ till den utbildning som annars står barnet till buds enligt
 föreskrifter i skollagen, behovet av insyn i verksamheten kan tillgodoses, och det
@@ -329,7 +329,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7018)
 Förskola & Grundskola arbetsutskott Datum
 2026-08-13
 
-\$ 74 Dnr FG-2025-00530
+§ 74 Dnr FG-2025-00530
 
 Kvalitetsgranskning Särö skola 6-9- Skolinspektionen SI 2025:5873.
 Redovisning av åtgärder.
@@ -403,7 +403,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (18)
 Förskola & Grundskola arbetsutskott Datum
 2026-08-13
 
-\$ 75 Dnr FG-2026-00367
+§ 75 Dnr FG-2026-00367
 Slutlig granskning likvärdig skola
 
 Förslag till beslut
@@ -485,7 +485,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 11 (18)
 Förskola & Grundskola arbetsutskott Datum
 2026-08-13
 
-\$ 76 Dnr FG-2026-00385
+§ 76 Dnr FG-2026-00385
 Information om satsningen samverkan skola - arbetsliv
 
 Förslag till beslut
@@ -563,7 +563,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 13 (18)
 Förskola & Grundskola arbetsutskott Datum
 2026-08-13
 
-\$ 77 Dnr FG-2026-00439
+§ 77 Dnr FG-2026-00439
 Sammanträdestider 2027
 
 Förslag till beslut
@@ -635,7 +635,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 15 (18)
 Förskola & Grundskola arbetsutskott Datum
 2026-08-13
 
-\$ 78 Dnr FG-2026-00015
+§ 78 Dnr FG-2026-00015
 
 Pågående Skolinspektions- och Barn och elevombudsärenden,
 inklusive ärenden som utreds inom Förskola & Grundskolas
@@ -671,7 +671,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 16 (18)
 Förskola & Grundskola arbetsutskott Datum
 2026-08-13
 
-\$ 79 Dnr FG-2026-00459
+§ 79 Dnr FG-2026-00459
 Initiativ för distansundervisning i egen regi
 
 Förslag till beslut
@@ -752,7 +752,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 18 (18)
 Förskola & Grundskola arbetsutskott Datum
 2026-08-13
 
-\$ 80 Dnr FG-2026-00016
+§ 80 Dnr FG-2026-00016
 Information - Förskola & Grundskola arbetsutskott och nämnd
 
 Förslag till beslut

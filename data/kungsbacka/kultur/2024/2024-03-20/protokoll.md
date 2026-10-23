@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2ab7772d18e5f864a3916484/1711795484
 sha256: 7bd0b9785445f36c194a70f0a155a773808f15af79dd1b6c77e9bb21ef2c3856
 bytes: 5888190
 sidor: 30
-hamtad: 2026-10-14T10:16:37+00:00
-konverterad: 2026-10-14T10:17:51+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T10:43:55+00:00
+konverterad: 2026-10-23T10:45:40+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -35,9 +35,9 @@ Plats och tid för naturum Fjärås Bräcka Klockan 17:00-20:37
 sammanträde
 Beslutande Ledamöter Tjänstgörande ersättare
 Annika Hedman (C), Ordförande Bo Barknertz (M) för Annika
-Maria Gathendahl (M), 1:e vice ordförande Hamberg (M) \$ 26-47
+Maria Gathendahl (M), 1:e vice ordförande Hamberg (M) § 26-47
 Ulrika Jörgensen (M) Gert Svensson (S) för Per Gunnarsson
-Charlotte Wallenstein (M) (S) \$ 26-47
+Charlotte Wallenstein (M) (S) § 26-47
 Birgitta Tingdal (S)
 Torbjörn Andersson (SD)
 Mats Dahl (SD)
@@ -63,7 +63,7 @@ Hanhals IF
 Per Österdahl, Hanhals IF
 
 Plats och tid för justering Digitalt 2024-03-27,
-Sekreterare Erik Norinder Paragrafer. \$ 20-47
+Sekreterare Erik Norinder Paragrafer. § 20-47
 
 Ordförande Annika Hedman
 
@@ -76,20 +76,20 @@ Protokolljusterare Ulrika Jörgensen
 KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL
 Nämnden för Kultur & Fritid Datum
 2024-03-20
-Information till nämnd: förändring av turistinformation........................... 22
-\$42 Dnr KFT-2024-00075
+Information till nämnd: förändring av turistinformation .... 22
+§42 Dnr KFT-2024-00075
 Information till nämnd: återrapportering av Socialdemokraternas initiativ
-kring Kungsbackas hiStOria..............ssesssersssereorrrsrsrrsesssnrrrrrnrrssrsrnnrrrrrrrrsrrnrn 23
-\$43 Dnr KFT-2024-00076
+kring Kungsbackas hiStOria .... 23
+§43 Dnr KFT-2024-00076
 Anmälan av delegeringsbeslut mars 2024 =mnmmssssssssrrrerrrsrrrserrrnnrrrrrrrrrrr nns 24
-\$44 Dnr KFT-2024-00077
+§44 Dnr KFT-2024-00077
 Redovisning av inkomna handlingar mars 2024... ssssssssssrrrrsssrersesnrrrrennre 25
-\$45 Dnr KFT-2024-00083
+§45 Dnr KFT-2024-00083
 Initiativ från Alliansen: Uppdrag för framtagande av fördelningsprinciper
-för bokning av Kungsbacka kommuns idrottsanläggningar ...................... 26
-\$46 Dnr KFT-2024-00092
-Initiativ från SD: avstängd hälsocertifiering för Hanhals IF ..................... 27
-\$47 Dnr KFT-2024-00078
+för bokning av Kungsbacka kommuns idrottsanläggningar .... 26
+§46 Dnr KFT-2024-00092
+Initiativ från SD: avstängd hälsocertifiering för Hanhals IF .... 27
+§47 Dnr KFT-2024-00078
 Förvaltningschefen informerar mars 2024 =mosssssssssssssssrrrrrrrssrssserrnrnrrrrsrrnrn 28
 
 3 (28)
@@ -103,7 +103,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-\$ 26 Dnr KFT-2024-00060
+§ 26 Dnr KFT-2024-00060
 Information till nämnd: naturum Fjärås Bräcka
 
 Beslut
@@ -130,7 +130,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-\$ 27 Dnr KFT-2024-00081
+§ 27 Dnr KFT-2024-00081
 Information till nämnd: Hanhals IF
 
 Beslut
@@ -140,7 +140,7 @@ Nämnden för Kultur & Fritid noterar informationen till protokollet.
 Sammanfattning av ärendet
 
 Johanna Kullenberg, ordförande Hanhals IF, och Per Österdahl, Hanhals IF
-presenterar handlingsplan för nämnden efter beslut \$ 24, fattat 2024-02-21.
+presenterar handlingsplan för nämnden efter beslut § 24, fattat 2024-02-21.
 
 Beslutsunderlag
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2024-03-13
@@ -158,7 +158,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (28)
 
 Nämnden för Kultur & Fritid Datum
 2024-03-20
-\$ 28 Dnr KFT-2024-00030
+§ 28 Dnr KFT-2024-00030
 Begäran om yttrande - Betänkande från Narkotikautredningen (KS 2024-
 00081\)
 Beslut
@@ -239,7 +239,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 8 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-\$ 29 Dnr KFT-2024-00061
+§ 29 Dnr KFT-2024-00061
 Information till nämnd: kulturföreningar och studieförbund
 
 Beslut
@@ -271,7 +271,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-\$ 30 Dnr KFT-2024-00062
+§ 30 Dnr KFT-2024-00062
 Information till nämnd: dataskyddsombudets rapport
 
 Beslut
@@ -298,7 +298,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 10 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-\$ 31 Dnr KFT-2024-00063
+§ 31 Dnr KFT-2024-00063
 Information till nämnd: Cykelpilotprojektet
 
 Beslut
@@ -328,7 +328,7 @@ Expedierat/bestyrkt
 KUNGSBACKA KOMMUN
 Nämnden för Kultur & Fritid
 
-\$ 32
+§ 32
 
 SAMMANTRÄDESPROTOKOLL
 
@@ -492,7 +492,7 @@ kommunfullmäktiges ordförande.
 Beslutsunderlag
 
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2024-03-12
-Riktlinjer för priset Kungsbackas mästare KF \$ 115, 2021-09-07
+Riktlinjer för priset Kungsbackas mästare KF § 115, 2021-09-07
 
 Beslutsgång
 
@@ -512,7 +512,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 13 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-\$ 33 Dnr KFT-2024-00064
+§ 33 Dnr KFT-2024-00064
 Årets eldsjäl
 
 Beslut
@@ -546,7 +546,7 @@ betydelsefullt arbete inom nämnden för Kultur & Fritids ansvarsområde.
 Beslutsunderlag
 
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2024-03-12
-Riktlinjer för priset Årets eldsjäl KF \$ 115, 2021-09-07
+Riktlinjer för priset Årets eldsjäl KF § 115, 2021-09-07
 
 Beslutsgång
 
@@ -564,7 +564,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 14 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-\$ 34 Dnr KFT-2024-00068
+§ 34 Dnr KFT-2024-00068
 Årets förening
 
 Beslut
@@ -604,7 +604,7 @@ jämställdhet- och värdegrundsarbete.
 Beslutsunderlag
 
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2024-03-12
-Riktlinjer för priset Årets förening KF \$ 115, 2021-09-07
+Riktlinjer för priset Årets förening KF § 115, 2021-09-07
 
 Beslutsgång
 
@@ -631,7 +631,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 16 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-\$ 35 Dnr KFT-2024-00065
+§ 35 Dnr KFT-2024-00065
 Årets förnyare
 
 Beslut
@@ -668,7 +668,7 @@ framkant när det gäller kreativa idéer och haft modet att prova nya uppslag.
 Beslutsunderlag
 
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2024-03-12
-Riktlinjer för priset Årets förnyare KF \$ 115, 2021-09-07
+Riktlinjer för priset Årets förnyare KF § 115, 2021-09-07
 
 Beslutsgång
 
@@ -687,7 +687,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 17 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-\$ 36 Dnr KFT-2024-00069
+§ 36 Dnr KFT-2024-00069
 Kulturpriset 2023
 
 Beslut
@@ -726,7 +726,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 18 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-\$ 37 Dnr KFT-2024-00070
+§ 37 Dnr KFT-2024-00070
 Ledarstipendium 2024
 
 Beslut
@@ -759,7 +759,7 @@ fritidssysselsättning för ungdomar i kommunen.
 Beslutsunderlag
 
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2024-03-12
-Riktlinjer för Ledarstipendium KF \$ 115, 2021-09-07
+Riktlinjer för Ledarstipendium KF § 115, 2021-09-07
 
 Beslutsgång
 
@@ -777,7 +777,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 19 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-\$ 38 Dnr KFT-2024-00072
+§ 38 Dnr KFT-2024-00072
 Idrottsstipendium 2024
 
 Beslut
@@ -796,7 +796,7 @@ och född eller bosatt i Kungsbacka kommun.
 Beslutsunderlag
 
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2024-03-12
-Riktlinjer för Idrottsstipendium KF \$ 115, 2021-09-07
+Riktlinjer för Idrottsstipendium KF § 115, 2021-09-07
 
 Beslutsgång
 
@@ -815,7 +815,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 20 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-\$ 39 Dnr KFT-2024-00073
+§ 39 Dnr KFT-2024-00073
 Kulturstipendium 2024
 
 Beslut
@@ -870,7 +870,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 21 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-\$ 40 Dnr KFT-2023-00380
+§ 40 Dnr KFT-2023-00380
 Initiativärende (SD) kring Bostället i Frillesås
 
 Beslut
@@ -916,7 +916,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 22 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-\$ 41 Dnr KFT-2024-00074
+§ 41 Dnr KFT-2024-00074
 Information till nämnd: förändring av turistinformation
 
 Beslut
@@ -981,7 +981,7 @@ vara besvarat.
 Beslutsunderlag
 
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2024-03-12
-Protokollsutdrag 2023-06-21 \$ 59 Initiativärende - uppdatera Kungsbackas
+Protokollsutdrag 2023-06-21 § 59 Initiativärende - uppdatera Kungsbackas
 historiebild
 
 Beslutsgång
@@ -1032,7 +1032,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 25 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-\$ 44 Dnr KFT-2024-00077
+§ 44 Dnr KFT-2024-00077
 Redovisning av inkomna handlingar mars 2024
 
 Beslut
@@ -1062,7 +1062,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 26 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-\$45 Dnr KFT-2024-00083
+§45 Dnr KFT-2024-00083
 
 Initiativ från Alliansen: Uppdrag för framtagande av
 fördelningsprinciper för bokning av Kungsbacka kommuns
@@ -1117,7 +1117,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 27 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-\$ 46 Dnr KFT-2024-00092
+§ 46 Dnr KFT-2024-00092
 Initiativ från SD: avstängd hälsocertifiering för Hanhals IF
 
 Beslut
@@ -1153,7 +1153,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 28 (28)
 Nämnden för Kultur & Fritid Datum
 2024-03-20
 
-\$ 47 Dnr KFT-2024-00078
+§ 47 Dnr KFT-2024-00078
 Förvaltningschefen informerar mars 2024
 
 Beslut

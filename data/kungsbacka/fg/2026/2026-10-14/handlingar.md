@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.664df97b1a13049acff65236/1792139376
 sha256: 0da9d213091a6764da27a70a81beb9c36248733683a5aadaad4cca7c0408b2da
 bytes: 5390863
 sidor: 133
-hamtad: 2026-10-18T06:03:27+00:00
-konverterad: 2026-10-18T06:04:09+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T07:29:42+00:00
+konverterad: 2026-10-23T07:30:34+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -798,7 +798,7 @@ Att besvara en remiss från JO
 
 Riksdagens ombudsmän (JO) utövar tillsyn över tillämpningen av lagar och andra
 författningar i offentlig verksamhet. Tillsynen omfattar såväl domstolar och andra
-myndigheter som de anställda befattningshavarna. Enligt 13 kap. 6 \$ andra stycket
+myndigheter som de anställda befattningshavarna. Enligt 13 kap. 6 § andra stycket
 regeringsformen är de som står under JO:s tillsyn skyldiga att lämna de
 upplysningar och yttranden som JO begär.
 

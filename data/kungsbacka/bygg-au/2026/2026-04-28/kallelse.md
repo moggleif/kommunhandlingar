@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2aa120519d9a515cfb5dd5c/17768440390
 sha256: ea0db6e5440285d17793db9759647423de53f301c971ecb1b728159cb2a18a88
 bytes: 189548
 sidor: 5
-hamtad: 2026-10-14T08:15:42+00:00
-konverterad: 2026-10-14T08:15:48+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-10-23T08:44:34+00:00
+konverterad: 2026-10-23T08:44:40+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok]

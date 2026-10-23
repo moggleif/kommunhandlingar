@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.47292b5718f0fcfefe53fa3/17141479672
 sha256: b9f81bb35a6f7d1a77d87ccbb28bd02bc353ece686dfd58fcf8bc601ff163b45
 bytes: 1619232
 sidor: 12
-hamtad: 2026-10-14T10:17:51+00:00
-konverterad: 2026-10-14T10:18:14+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T10:45:40+00:00
+konverterad: 2026-10-23T10:46:12+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -104,7 +104,7 @@ Jacob Leuchovius, utvecklare
 
 Marie Yckert, kommunrevisor
 
-Paragrafer \$ 48-56
+Paragrafer § 48-56
 
 <!-- sida 2 -->
 
@@ -114,32 +114,32 @@ Nämnden för Kultur & Fritid Datum
 
 Innehåll
 
-\$48 Dnr KFT-2024-00110
-Information till nämnd: KOmmUNrIeViSiONeN .....ssseessrrrssrrrrssrrrrrrrrrerrrerrrrrrrra 3
+§48 Dnr KFT-2024-00110
+Information till nämnd: KOmmUNrIeViSiONeN .... 3
 
-\$49 Dnr KFT-2024-00111
+§49 Dnr KFT-2024-00111
 Information till nämnd: Uppdrag till förvaltningen att vidareutveckla
-Kultur & Fritids bidragsSYyStell.........ssssssssssssrrrrerrrererrrsrnrrrrrrrrrrrrrrrrrrrrrrrrr ra 4
+Kultur & Fritids bidragsSYyStell .... 4
 
-\$ 50 Dnr KFT-2024-00109
-Förändring av turistinfOrmatiOl............sssssssrrsressrrsrsrsssrrrrrrsrnrerssrnrrererrrrrrnna 5
+§ 50 Dnr KFT-2024-00109
+Förändring av turistinfOrmatiOl .... 5
 
-\$ 51 Dnr KFT-2024-00112
-Information till nämnd: Hallands kulturstrategi ............sssssesssssrssersssererrssnne 6
+§ 51 Dnr KFT-2024-00112
+Information till nämnd: Hallands kulturstrategi .... 6
 
-\$52 Dnr KFT-2024-00113
+§52 Dnr KFT-2024-00113
 Information till nämnd: Ungdomsenkäten LUPP s.ssmmsssssssrrssrrsssrrrrrrrrserrrs 7
 
-\$53 Dnr KFT-2024-00114
-Information till nämnd: Förvaltningens arbete med målbild 2030 .............. 8
+§53 Dnr KFT-2024-00114
+Information till nämnd: Förvaltningens arbete med målbild 2030 .... 8
 
-\$ 54 Dnr KFT-2024-00115
+§ 54 Dnr KFT-2024-00115
 Anmälan av delegeringsbeslut april 2024 =mssmmmssssssressssrrrrrrssrrrressrrrrersrrrrsrs 9
 
-\$55 Dnr KFT-2024-00116
+§55 Dnr KFT-2024-00116
 Redovisning av inkomna handlingar april 2024 s.ssmmmssssssssssereressrrrresnrrerena 10
 
-\$56 Dnr KFT-2024-00117
+§56 Dnr KFT-2024-00117
 Förvaltningschefen informerar april 2024. ssmmssserrsssssrrrrrsrerrrrssrrrrerrrrrrera 11
 
 Det här dokumentet är digitalt signerat
@@ -154,7 +154,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (11)
 Nämnden för Kultur & Fritid Datum
 2024-04-24
 
-\$ 48 Dnr KFT-2024-00110
+§ 48 Dnr KFT-2024-00110
 Information till nämnd: Kommunrevisionen
 
 Beslut
@@ -185,7 +185,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (11)
 Nämnden för Kultur & Fritid Datum
 2024-04-24
 
-\$ 49 Dnr KFT-2024-00111
+§ 49 Dnr KFT-2024-00111
 
 Information till nämnd: Uppdrag till förvaltningen att vidareutveckla
 Kultur & Fritids bidragssystem
@@ -219,7 +219,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (11)
 Nämnden för Kultur & Fritid Datum
 2024-04-24
 
-\$ 50 Dnr KFT-2024-00109
+§ 50 Dnr KFT-2024-00109
 Förändring av turistinformation
 
 Beslut
@@ -252,7 +252,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (11)
 Nämnden för Kultur & Fritid Datum
 2024-04-24
 
-\$ 51 Dnr KFT-2024-00112
+§ 51 Dnr KFT-2024-00112
 Information till nämnd: Hallands kulturstrategi
 
 Beslut
@@ -285,7 +285,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7 (11)
 Nämnden för Kultur & Fritid Datum
 2024-04-24
 
-\$ 52 Dnr KFT-2024-00113
+§ 52 Dnr KFT-2024-00113
 Information till nämnd: Ungdomsenkäten LUPP
 
 Beslut
@@ -349,7 +349,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (11)
 Nämnden för Kultur & Fritid Datum
 2024-04-24
 
-\$ 54 Dnr KFT-2024-00115
+§ 54 Dnr KFT-2024-00115
 Anmälan av delegeringsbeslut april 2024
 
 Beslut
@@ -389,7 +389,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 10 (11)
 Nämnden för Kultur & Fritid Datum
 2024-04-24
 
-\$ 55 Dnr KFT-2024-00116
+§ 55 Dnr KFT-2024-00116
 Redovisning av inkomna handlingar april 2024
 
 Beslut
@@ -422,7 +422,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 11 (11)
 Nämnden för Kultur & Fritid Datum
 2024-04-24
 
-\$ 56 Dnr KFT-2024-00117
+§ 56 Dnr KFT-2024-00117
 Förvaltningschefen informerar april 2024
 
 Beslut

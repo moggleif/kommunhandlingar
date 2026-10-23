@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1b24984919d24cef920312b3/1774615420
 sha256: 913ccc7a7cff4559005e276b1a64361185a6b6046031b86d96ff7a6732da24c3
 bytes: 6266111
 sidor: 35
-hamtad: 2026-10-14T09:37:27+00:00
-konverterad: 2026-10-14T09:38:20+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T10:18:34+00:00
+konverterad: 2026-10-23T10:19:50+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -40,7 +40,7 @@ Lokala trafikföreskrifter - Håkullavägen
 
 Förslag till beslut i arbetsutskottet för Teknik
 
-Nämnden för Tekniks arbetsutskott beslutar, med stöd av 10 kap. 1 \$ trafikförordningen (1998:1276),
+Nämnden för Tekniks arbetsutskott beslutar, med stöd av 10 kap. 1 § trafikförordningen (1998:1276),
 att anta Kungsbacka kommuns lokala trafikföreskrift med diarienummer 1384 2026-00067 om förbud
 att stanna och parkera på Håkullavägen.
 
@@ -122,7 +122,7 @@ parkera på Håkullavägen;
 
 beslutade den 30 mars 2026.
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 \$ andra stycket 16 och 3 \$
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 § andra stycket 16 och 3 §
 första stycket trafikförordningen (1998:1276) följande.
 
 På båda sidorna av rödmarkerad sträcka på Håkullavägen enligt kartbild får fordon
@@ -357,7 +357,7 @@ handläggning i aktuell del.
 
 Hastighetsbegränsning utanför tättbebyggt område
 
-Enligt de generella varsamhetsreglerna i 3 kap. 14-15 \$\$
+Enligt de generella varsamhetsreglerna i 3 kap. 14-15 §§
 trafikförordningen, ska ett fordons hastighet anpassas till vad
 trafiksäkerheten kräver. Det innebär att den lämpliga hastigheten
 ofta är lägre än den som anges på vägmärken. Hänsyn ska även tas
@@ -420,7 +420,7 @@ för alla trafikanter. För att undvika trafikolyckor ska en trafikant
 iaktta den omsorg och varsamhet som krävs med hänsyn till om-
 ständigheterna.
 
-I 3 kap. 14 \$ TraF. finns det bestämmelser om hastighet. Ett fordons
+I 3 kap. 14 § TraF. finns det bestämmelser om hastighet. Ett fordons
 hastighet ska anpassas till vad trafiksäkerheten kräver. Hänsyn ska
 tas till väg-, terräng-, väderleks- och siktförhållandena, fordonets
 skick och belastning samt trafikförhållandena i övrigt. Hastigheten
@@ -429,7 +429,7 @@ och kan stanna på den del av den framförvarande vägen eller terr-
 ängen som han eller hon kan överblicka och framför varje hinder
 som går att förutse.
 
-Enligt 3 kap. 15 \$ 11 TraF. ska en förare av fordon hålla en med hän-
+Enligt 3 kap. 15 § 11 TraF. ska en förare av fordon hålla en med hän-
 syn till omständigheterna tillräckligt låg hastighet när fordonet
 närmar sig barn som uppehåller sig på eller vid vägen.
 
@@ -438,7 +438,7 @@ lokala trafikföreskrifter som gäller begränsning till lägre hastighet än
 som följer av 3 kap. 17 8 tredje stycket om det är motiverat av hänsyn
 till trafiksäkerheten, framkomligheten eller miljön.
 
-Enligt 10 kap. 3 \$ TraF beslutar länsstyrelsen om föreskrifter
+Enligt 10 kap. 3 § TraF beslutar länsstyrelsen om föreskrifter
 gällande lägre hasighet än bashastighet (d.v.s. utanför tättbebyggt
 område) och kommunen beslutar om föreskrifter om färdhastighet
 på vägar inom tättbebyggt område.
@@ -525,7 +525,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (2)
 
 Nämnden för Tekniks arbetsutskott Datum
 2023-08-28
-\$ 50 Dnr 2023-00431
+§ 50 Dnr 2023-00431
 Lokal trafikföreskrift - Hastighetsbegränsning på Gåsevadholmsvägen,
 Fjärås
 Beslut
@@ -927,7 +927,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 102)
 Nämnden för Tekniks arbetsutskott Datum
 2026-03-02
 
-\$9 Dnr TE-2025-00817
+§9 Dnr TE-2025-00817
 Ansökan om sänkt hastighetsbegränsning Gåsevadholmsvägen
 
 Beslut
@@ -966,7 +966,7 @@ Förvaltningen för Tekniks tjänsteskrivelse, 2026-02-25
 Yttrande från Polismyndigheten, 2025-12-19
 
 Yttrande från Trafikverket, 2026-01-21
-Beslut-202300431-TE-\$ 50
+Beslut-202300431-TE-§ 50
 
 Ansökan nr1-3
 
@@ -1046,7 +1046,7 @@ Gåsevadholmsvägen;
 
 beslutade den 18 mars 2026.
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. I \$ andra stycket 14 och 3 \$
+Kungsbacka kommun föreskriver med stöd av 10 kap. I \$ andra stycket 14 och 3 §
 
 första stycket trafikförordningen (1998:1276) följande.
 
@@ -1435,7 +1435,7 @@ Trafikverkets överklagan av Kungsbacka kommuns lokala trafikföreskrift 1384 20
 
 Lokal trafikföreskrift Gåsevadsholmsvägen 1384 2026:00068
 
-Beslut från nämnden för Tekniks arbetsutskott 2026-03-02 \$ 9
+Beslut från nämnden för Tekniks arbetsutskott 2026-03-02 § 9
 
 Trafikverkets yttrande i ärende TE-2025-00817, daterat 2026-01-21
 
@@ -1444,7 +1444,7 @@ e yttrande från Trafikverket TRV 2023/57904, daterat 2023-05-26
 oe Kungsbacka kommuns fråga till Trafikverket gällande justerad hastighetsbegränsning, daterad
 2023-03-26
 e Förvaltningen för Tekniks tjänsteskrivelse, 2023-07-10
-e Beslut från nämnden för Tekniks arbetsutskott 2023-08-28 \$ 50
+e Beslut från nämnden för Tekniks arbetsutskott 2023-08-28 § 50
 oe Beslut från Länsstyrelsen om avslag på hastighetsförändring, 2024-08-23
 
 1 (2)
