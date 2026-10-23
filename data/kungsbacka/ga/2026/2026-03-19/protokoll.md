@@ -15,13 +15,13 @@ sidor: 8
 hamtad: 2026-10-23T06:22:21+00:00
 konverterad: 2026-10-23T06:22:38+00:00
 pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
-kvalitet: delvis
+kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr]
-tal_obekraftade: [1, 2, 3, 4, 5, 6, 7, 8]
+kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
+tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
@@ -29,115 +29,109 @@ granskad: null
 KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
 
-Plats och tid för
-sammanträde
-
-Beslutande
-
-Övriga närvarande
-
-Plats och tid för justering
-
-Sekreterare
-
-Ordförande
-
-Protokolljusterare
-
+SAMMANTRÄDESPROTOKOLL
 Datum
-
 2026-03-19
+
+Kungsbacka
+
+Plats och tid för sammanträde
 
 Elof Lindälvs gymnasium, sal A67
 
-Ledamöter
+Klockan 17:00- 20.10, paus 18.35-19.00,
 
+Beslutande
+
+Ledamöter
 Axel Storckenfeldt (M), Ordförande
 Helena Nyborg (KD), 1:e vice ordförande
 Shabnam Zamani (S), 2:e vice ordförande
 Morgan Johansson (M)
-
 May-Louise Flyrin (S)
-
 Hans Ädel (SD)
-
 Tina Hald (SD)
-
 Karin Green (C)
-
 Jan Eric Knutas (L)
 
-Ersättare
+Tjänstgörande ersättare
+Maria Svärd Wänt (M) ersätter Jenny Nilsson (M)
+Pontus Jensen (S) ersätter Sebastian Lindberg (V)
 
+Övriga närvarande
+
+Ersättare
 Emilia Åhfelt (SD)
 Osama Mohamad Mesto (C)
-Christian Däring (KD)
+Christian Düring (KD)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Elisabeth Grimhusen, HR- och kommunikationschef
+Frida Svärd, verksamhetschef
+Cindia Escalante Mattsson, gymnasiechef
+Cecilia Fossan, biträdande gymnasiechef
+Alexandra Cameron, utvecklare
+Sabina Svahn, enhetschef Göteborgsregionen § 33
+Eva Tingström, arbetslagsledare § 36
+Annika Areskog Ronnstedt, arbetslagsledare § 36
+Oscar Skytt Gustafsson, säkerhetssamordnare §§ 37–38
 
 Personalföreträdare
 Cajsa Friden, Sveriges skolledare
 Erik Hirmas, Sveriges lärare
 
+Plats och tid för justering
+
 digitalt
+
+Sekreterare
+
 Alexandra Cameron
-
-Axel Storckenfeldt (M)
-
-Karin Green (C)
-
-SAMMANTRÄDESPROTOKOLL
-
-Kungsbacka
-
-Klockan 17:00- 20.10, paus 18.35-
-19.00,
-
-Tjänstgörande ersättare
-
-Maria Svärd Wänt (M) ersätter Jenny
-Nilsson (M)
-
-Pontus Jensen (S) ersätter Sebastian
-Lindberg (V)
-
-Tjänstepersoner
-
-Patrik Hellberg, förvaltningschef
-Elisabeth Grimhusen, HR- och
-kommunikationschef
-
-Frida Svärd, verksamhetschef
-Cindia Escalante Mattsson,
-gymnasiechef
-
-Cecilia Fossan, biträdande
-gymnasiechef
-
-Alexandra Cameron, utvecklare
-Sabina Svahn, enhetschef
-Göteborgsregionen § 33
-
-Eva Tingström, arbetslagsledare § 36
-Annika Areskog Ronnstedt,
-arbetslagsledare § 36
-
-Oscar Skytt Gustafsson,
-säkerhetssamordnare §§ 37—38
-
-§§ 39-41
 
 Paragrafer
 
+§§ 39–41
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Karin Green (C)
+
 <!-- sida 2 -->
+
+KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 2 (6)
+Nämnden för Gymnasium & Arbetsmarknad Datum
+2026-03-19
+
+Innehåll
+
+§ 39 Dnr GA-2026-00014
+Samverkansavtal för gymnasieskola i Göteborgsregionen 2027/2028–2030/2031 .... 3
+
+§ 40 Dnr GA-2026-00015
+Samverkansavtal för anpassad gymnasieskola i Göteborgsregionen 2027/2028–2030/2031 .... 5
+
+§ 41 Dnr GA-2026-00016
+Samverkansavtal om yrkesutbildningar för vuxna i Göteborgsregionen för avtalsperiod 2027-2030 .... 6
+
+Det här dokumentet är digitalt signerat
+
+Transaktionsidentitet: C73BE0AA08690693EB41FB3059B78B368538FD7A13
+Transaktionsidentitet: 30D430C49E8A7D32165E5B729063709E650A2257B8
 
 <!-- sida 3 -->
 
 KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (6)
 Nämnden för Gymnasium & Arbetsmarknad Datum
-
 2026-03-19
+
 § 39 Dnr GA-2026-00014
-Samverkansavtal för gymnasieskola i Göteborgsregionen 2027/2028-
-2030/2031
+Samverkansavtal för gymnasieskola i Göteborgsregionen 2027/2028–2030/2031
+
 Beslut
 
 Nämnden för Gymnasium & Arbetsmarknaden antar remissvaret daterad 2026-03-02
@@ -151,16 +145,13 @@ Nämnden för Gymnasium & Arbetsmarknad ställer sig i huvudsak positiv till
 förslaget om nya samverkansavtal. Den regionala samverkan inom
 gymnasieutbildning är en viktig förutsättning för:
 
-\+ Ett brett och likvärdigt utbildningsutbud
-\+ Effektiv resursanvändning
-
-\+ Stabil dimensionering över tid
-
-\+ Stärkt kompetensförsörjning i regionen
+\* Ett brett och likvärdigt utbildningsutbud
+\* Effektiv resursanvändning
+\* Stabil dimensionering över tid
+\* Stärkt kompetensförsörjning i regionen
 
 Samverkansmodellen inom GR har under lång tid skapat förutsägbarhet för både
 elever, huvudmän och arbetsmarknadens parter. Kungsbacka kommun ser fortsatt
-
 regional samverkan som en strategiskt avgörande fråga.
 
 Nämnden för Gymnasium & Arbetsmarknad ser att arbetsmarknadens behov
@@ -170,24 +161,21 @@ dimensioneringsuppdrag.
 
 Mot denna bakgrund bör möjligheten att ingå sekundäravtal kunna prövas när det
 stärker den regionala nyttan och bidrar till en bättre matchning mellan utbildning och
-
 arbetsmarknad.
 
 Beslutsunderlag
 
 Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2026-03-02
 Remissanvisning av förslag till samverkansavtal, 2026-01-15
-
-Presentation: Samverkansavtal för gymnasieskolan 27/28—-30/31, 2026-01-15
+Presentation: Samverkansavtal för gymnasieskolan 27/28–30/31, 2026-01-15
 Protokollsutdrag Göteborgsregionen Antagningsnämnden 2026-01-14 § 1
 Samverkansavtal för gymnasieskola i Göteborgsregionen, 2026-01-09
-
 Följebrev Samverkansavtal för gymnasieskolan i Göteborgsregionen, 2026-01-09
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: C73BEOAA08690693EB41FB3059B78B368538FD7A13
-Transaktionsidentitet: 30D430C 49E8A7D32165E5B729063709E650A2257B8
+Transaktionsidentitet: C73BE0AA08690693EB41FB3059B78B368538FD7A13
+Transaktionsidentitet: 30D430C49E8A7D32165E5B729063709E650A2257B8
 
 <!-- sida 4 -->
 
@@ -211,8 +199,8 @@ Göteborgsregionen
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: C73BEOAA08690693EB41FB3059B78B368538FD7A13
-Transaktionsidentitet: 30D430C 49E8A7D32165E5B729063709E650A2257B8
+Transaktionsidentitet: C73BE0AA08690693EB41FB3059B78B368538FD7A13
+Transaktionsidentitet: 30D430C49E8A7D32165E5B729063709E650A2257B8
 
 <!-- sida 5 -->
 
@@ -221,9 +209,8 @@ Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-03-19
 
 § 40 Dnr GA-2026-00015
-
 Samverkansavtal för anpassad gymnasieskola i Göteborgsregionen
-2027/2028-2030/2031
+2027/2028–2030/2031
 
 Beslut
 
@@ -244,17 +231,11 @@ Beslutsunderlag
 Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2026-03-02
 Remissansvisning av förslag till samverkansavtal för gymnasieskola, anpassad
 gymnasieskola respektive yrkesutbildningar för vuxna, 2026-01-15
-
-Presentation: Samverkansavtal för anpassade gymnasieskolan 27/28-30/31, 2026-01-
-15
-
+Presentation: Samverkansavtal för anpassade gymnasieskolan 27/28–30/31, 2026-01-15
 Protokollsutdrag Göteborgsregionen Antagningsnämnden, 2026-01-14 § 2
-
 Följebrev Samverkansavtal för anpassade gymnasieskolan i Göteborgsregionen
 (GR), 2026-01-09
-
-Samverkansavtal för anpassade gymnasieskolan i Göteborgsregionen (GR), 2026-01-
-09
+Samverkansavtal för anpassade gymnasieskolan i Göteborgsregionen (GR), 2026-01-09
 
 Beslutsgång
 
@@ -271,8 +252,8 @@ Göteborgsregionen
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: C73BEOAA08690693EB41FB3059B78B368538FD7A13
-Transaktionsidentitet: 30D430C 49E8A7D32165E5B729063709E650A2257B8
+Transaktionsidentitet: C73BE0AA08690693EB41FB3059B78B368538FD7A13
+Transaktionsidentitet: 30D430C49E8A7D32165E5B729063709E650A2257B8
 
 <!-- sida 6 -->
 
@@ -281,7 +262,6 @@ Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-03-19
 
 § 41 Dnr GA-2026-00016
-
 Samverkansavtal om yrkesutbildningar för vuxna i Göteborgsregionen
 för avtalsperiod 2027-2030
 
@@ -303,7 +283,6 @@ Beslutsunderlag
 
 Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2026-03-02
 Remissanvisning av förslag till samverkansavtal, 2026-01-15
-
 Presentation: Samverkansavtal om yrkesutbildningar för vuxna, 2026-01-15
 Protokollsutdrag Göteborgsregionen (GR) Antagningsnämnd, 2026-01-14 § 3
 Samverkansavtal om yrkesutbildningar för vuxna i Göteborgsregionen, 2026-01-09
@@ -324,33 +303,28 @@ Göteborgsregionen
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: C73BEOAA08690693EB41FB3059B78B368538FD7A13
-Transaktionsidentitet: 30D430C 49E8A7D32165E5B729063709E650A2257B8
+Transaktionsidentitet: C73BE0AA08690693EB41FB3059B78B368538FD7A13
+Transaktionsidentitet: 30D430C49E8A7D32165E5B729063709E650A2257B8
 
 <!-- sida 7 -->
 
 Undertecknat av följande personer
 
 KARIN GREEN
-Datum:
-Transaktionsidentitet:
+
+Datum: 2026-03-19 20:12:56
+
+Transaktionsidentitet: C73BE0AA08690693EB41FB3059B78B368538FD7A13
 
 Axel E V L Storckenfeldt
-Datum:
 
-Transaktionsidentitet:
+Datum: 2026-03-19 20:15:22
 
-Underskriftstjänst:
+Transaktionsidentitet: 30D430C49E8A7D32165E5B729063709E650A2257B8
 
-2026-03-19 20:12:56
-C73BEOAA08690693EB41FB3059B78B368538FD7A13
+Underskriftstjänst: twoday Underskriftstjänst
 
-2026-03-19 20:15:22
-30D430C49E8A7D32165E5B729063709E650A2257B8
-
-twoday Underskriftstjänst
-
-O& twoday
+© twoday
 
 <!-- sida 8 -->
 
@@ -358,6 +332,8 @@ Dokumentet är signerat av Ciceron DoÄ
 
 Organisation
 
-Organisation: — Kungsbacka kommun
+Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post: gymnasiumocharbetsmarknadQkungsbacka.se
+E-post: (e-post borttagen)
+
+© twoday
