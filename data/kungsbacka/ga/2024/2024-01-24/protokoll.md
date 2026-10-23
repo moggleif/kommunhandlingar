@@ -21,54 +21,86 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2024-01-24
 
-Plats och tid för Elof Lindälvs gymnasium, Sal A67 Klockan 17:00-19.40
-sammanträde
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium, Sal A67
+
+Klockan 17:00-19.40
+
 Paus kl. 18.30-18.50
 
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Henry Nellström (S) ersätter Shabnam
-Helena Nyborg (KD), 1:e vice ordförande Zamani (S)
-Jenny Nilsson (M)             Anna Thomander (S) ersätter
-May-Louise Flyrin (S)         Sebastian Lindberg (V)
-Hampus Jägnert (SD)           Maria Svärd Wänt ersätter Morgan
-Tina Hald (SD)                Johansson (M)
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
+Jenny Nilsson (M)
+May-Louise Flyrin (S)
+Hampus Jägnert (SD)
+Tina Hald (SD)
 Karin Green (C)
 Jan Eric Knutas (L)
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M)          Patrik Hellberg, förvaltningschef
-Pia Grapenstrand Kvarntun (M) Andréas Mårtensson, kvalitets- och
-Henry Nellström (S)           utvecklingschef
-Anna Thomander (S)            Johan Ronner, ekonomichef
-Osama Mohamad Mesto (C)       Karin Zetterman, verksamhetschef
-Mikael Bokerud (KD)           Kompetenscentrum
-Cindia Escalante-Mattsson,
-gymnasiechef
-Frida Svärd, enhetschef Vuxnas
-lärande §§ 2-3
-Cecilia Fossan, biträdande
-gymnasiechef
+Tjänstgörande ersättare
+Henry Nellström (S) ersätter Shabnam Zamani (S)
+Anna Thomander (S) ersätter Sebastian Lindberg (V)
+Maria Svärd Wänt ersätter Morgan Johansson (M)
 
-Personalföreträdare           Övriga
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M)
+Pia Grapenstrand Kvarntun (M)
+Henry Nellström (S)
+Anna Thomander (S)
+Osama Mohamad Mesto (C)
+Mikael Bokerud (KD)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Andréas Mårtensson, kvalitets- och utvecklingschef
+Johan Ronner, ekonomichef
+Karin Zetterman, verksamhetschef Kompetenscentrum
+Cindia Escalante-Mattsson, gymnasiechef
+Frida Svärd, enhetschef Vuxnas lärande §§ 2-3
+Cecilia Fossan, biträdande gymnasiechef
+
+Personalföreträdare
 Erik Hirmas, Sverige lärare, ej §2
 
-Plats och tid för justering Digital justering
+Övriga
 
-Sekreterare   Andréas Mårtensson            Paragrafer § 6-7
+Plats och tid för justering
 
-Ordförande    Axel Storckenfeldt (M)
+Digital justering
 
-Protokolljusterare Helena Nyborg (KD)
+Sekreterare
+
+Andréas Mårtensson
+
+Paragrafer
+
+§ 6-7
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Helena Nyborg (KD)
 
 <!-- sida 2 -->
 
@@ -124,7 +156,6 @@ en god elevhälsa, som har kapacitet att tidigt identifiera symtom på ohälsa. 
 fordrar ett kontinuerligt, individanpassat, förebyggande arbete.
 Utmaningar som måste mötas: Problematisk skolfrånvaro Ett ökat antal elever är
 ogiltigt frånvarande från skolan. Ogiltig frånvaro är ofta relaterad till psykisk ohälsa,
-
 kränkande behandling eller neuropsykiatriskt funktionshinder, och i vissa fall
 bristande motivation. Alltså fråga om orsaker som eleven inte kan bemästra, på egen
 hand, för att ta sig till skolan. Det behövs, ur skolans synvinkel, individanpassade
@@ -132,7 +163,6 @@ insatser. En sådan kan vara att skolan erbjuder “ett mindre sammanhang” dä
 på egna villkor, ges möjlighet att ta “ett steg i taget” tillbaka till den ordinarie,
 lärande skolmiljön.
 Förändringar som måste göras: Pilotprojekt mellanmål Mätta magar på varierad och
-
 näringsriktig kost har stor, positiv påverkan på inlärningsförmågan. Därför erbjuder
 många arbetsplatser bl a färsk frukt till sin personal under arbetsdagen. Något
 liknande är sällsynt i skolmiljön. I en tid då skolschemat förändras, och blir längre, är
@@ -160,7 +190,6 @@ Arbetsmarknad kan godkänna underlaget till kommunbudget 2025, plan 2026-2027
 och finner att nämnden bifaller det.
 
 Ordförande Axel Storckenfeldt (M) ställer förslag om bifall till tilläggsyrkandet mot
-
 avslag till tilläggsyrkanden emot varandra och finner att nämnden avslår
 tilläggsyrkandet.
 
@@ -194,7 +223,6 @@ rasism och stärka demokratiska värden.
 
 Motionärerna föreslår att kommunfullmäktige ska ge berörda nämnder i uppdrag att
 utreda hur elevresor till Förintelsens minnesplatser kan planeras och utföras för
-
 grundskoleelever och gymnasieelever i Kungsbacka. Detta ska enligt motionärerna
 genomföras i projektform under en lämplig tidsperiod för att därefter utvärderas.
 
@@ -211,7 +239,6 @@ antisemitism, rasism och stärka demokratiska värden finns tydligt i skolans
 grunduppdrag.
 
 För en enskild skolenhet är kostnaden för elevresor så betydande att det sannolikt
-
 inte kan finansieras inom befintlig budget.
 
 Beslutsunderlag

@@ -21,25 +21,32 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2024-03-20
 
-Plats och tid för Elof Lindälvs gymnasium Sal A 67 Klockan 17:00-19:30
-sammanträde
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium Sal A 67
+
+Klockan 17:00-19:30
+
 Paus 18:23-18:45
 
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Mikael Bokerud (KD) ersätter Helena
-Helena Nyborg (KD), 1:e vice ordförande, Nyborg (KD) under punkt 1-2.
-från kl 17:09                 Osama Mesto (C) ersätter Shabnam
-Jenny Nilsson (M)             Zamani (S)
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande, från kl 17:09
+Jenny Nilsson (M)
 Morgan Johansson (M)
 May-Louise Flyrin (S)
 Hampus Jägnert (SD)
@@ -48,28 +55,51 @@ Karin Green (C)
 Jan Eric Knutas (L)
 Sebastian Lindberg (V)
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M)          Patrik Hellberg, förvaltningschef
-Pia Grapenstrand Kvarntun (M) Andréas Mårtensson, kvalitet- och
-Osama Mohamad Mesto (C)       utvecklingschef
-Mikael Bokerud (KD)           Karin Zetterman, verksamhetschef
-Daniel Litfeldt, utvecklingsledare
-§§32–33
+Tjänstgörande ersättare
+Mikael Bokerud (KD) ersätter Helena Nyborg (KD) under punkt 1-2.
+Osama Mesto (C) ersätter Shabnam Zamani (S)
+
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M)
+Pia Grapenstrand Kvarntun (M)
+Osama Mohamad Mesto (C)
+Mikael Bokerud (KD)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Andréas Mårtensson, kvalitet- och utvecklingschef
+Karin Zetterman, verksamhetschef
+Daniel Litfeldt, utvecklingsledare §§32–33
 Andreas Logg, utvecklare § 32
-Cecilia Fossan, biträdande
-gymnasiechef § 34
+Cecilia Fossan, biträdande gymnasiechef § 34
 
-Personalföreträdare           Övriga
-Frida Hagelin, Sveriges Lärare Hanna Carlström, utvecklingsledare
+Personalföreträdare
+Frida Hagelin, Sveriges Lärare
 
-Plats och tid för justering Digital justering,
+Övriga
+Hanna Carlström, utvecklingsledare
 
-Sekreterare   Karin Möglebust                       § 30-40
+Plats och tid för justering
+
+Digital justering,
+
+Sekreterare
+
+Karin Möglebust
+
 Paragrafer
 
-Ordförande    Axel Storckenfeldt
+§ 30-40
 
-Protokolljusterare Jenny Nilsson (M)
+Ordförande
+
+Axel Storckenfeldt
+
+Protokolljusterare
+
+Jenny Nilsson (M)
 
 <!-- sida 2 -->
 
@@ -223,7 +253,6 @@ och som hade sikte på dessa års arbete och satsning på digitalisering. Många
 områden som sågs som utvecklingsområden i planen är idag implementerade.
 Under 2023 har fokus blivit på innovation och AI, områden som har utvecklats i en
 hastighet som inte kunde förutses för bara några år sedan. Alla nämnder och
-
 förvaltningar har fått i uppdrag att växla upp tempot i innovationsarbetet.
 Att jobba med digitalisering är en naturlig del av arbetet idag, och om vi vill
 synliggöra digitala framgångar markerar vi dessa i vårt innovationsarbete. Därför är
@@ -306,7 +335,6 @@ Nämnden för Gymnasium & Arbetsmarknad samt nämnden för Individ &
 Familjeomsorg och Eksta Bostad AB har uppmanats att avge yttrande över remissen.
 De förslag i promemorian som skulle kunna påverka verksamheten för nämnden för
 Gymnasium & Arbetsmarknad är att det ska vara obligatoriskt för kommuner att
-
 under vissa förutsättningar tillhandahålla hyresgarantier till barnfamiljer. Syftet är att
 underlätta för barnfamiljer som saknar egen bostad ska kunna få tillgång till ett
 adekvat boende.
@@ -503,7 +531,6 @@ Förvaltningsrätten gällande upprättande av riktlinje av politiska besök i s
 ärendet har blivit överklagat. Förvaltningen har i uppdrag att lämna ett yttrande i
 ärendet parallellt med att förvaltningen tar fram den riktlinjen som det beslutades om
 under föregående sammanträde. Nämnden utryckte ingen vilja att ompröva beslutet
-
 eller invänta Förvaltningsrättens dom i ärendet.
 
 Beslutsgång

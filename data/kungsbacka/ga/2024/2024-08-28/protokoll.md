@@ -21,55 +21,84 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, 
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2024-08-28
 
-Plats och tid för                           Klockan 17:00-20:05
-sammanträde
+Plats och tid för sammanträde
+
+Klockan 17:00-20:05
+
 Elof Lindälvs gymnasium Sal A 67
 
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Pontus Jensen (S) ersätter Shabnam
-Helena Nyborg (KD), 1:e vice ordförande Zamani (S)
-Jenny Nilsson (M)             Maria Svärd Wänt (M) ersätter Karin
-Morgan Johansson (M)          Green (C)
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
+Jenny Nilsson (M)
+Morgan Johansson (M)
 May-Louise Flyrin (S)
 Marcus Lindälv (SD)
 Tina Hald (SD)
 Jan Eric Knutas (L)
 Sebastian Lindberg (V)
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M)          Patrik Hellberg, förvaltningschef
-Pia Grapenstrand Kvarntun (M) Cindia Escalante Mattsson,
-Pontus Jensen (S)             gymnasiechef
-Anna Thomander (S)            Johan Ronner, ekonomichef ej § 88
-Osama Mohamad Mesto (C) från § 88 Andréas Mårtensson, kvalitets- och
-utvecklingschef, ej § 88
-Elisabeth Grimhusen HR- och
-kommunikationschef, ej § 88
-Karin Zetterman, verksamhetschef, ej
-§ 88
+Tjänstgörande ersättare
+Pontus Jensen (S) ersätter Shabnam Zamani (S)
+Maria Svärd Wänt (M) ersätter Karin Green (C)
+
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M)
+Pia Grapenstrand Kvarntun (M)
+Pontus Jensen (S)
+Anna Thomander (S)
+Osama Mohamad Mesto (C) från § 88
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Cindia Escalante Mattsson, gymnasiechef
+Johan Ronner, ekonomichef ej § 88
+Andréas Mårtensson, kvalitets- och utvecklingschef, ej § 88
+Elisabeth Grimhusen HR- och kommunikationschef, ej § 88
+Karin Zetterman, verksamhetschef, ej § 88
 Camilla Sjögren, kommunikatör, § 89
 Johan Laasonen, rektor § 90
-
 Ruth Walton, lärare § 90
-Personalföreträdare           Övriga
 
-Plats och tid för justering Digital justering ,
+Personalföreträdare
 
-Sekreterare   Karin Möglebust               Paragrafer § 87-106
+Övriga
 
-Ordförande    Axel Storckenfeldt (M)
+Plats och tid för justering
 
-Protokolljusterare Sebastian Lindberg (V)
+Digital justering ,
+
+Sekreterare
+
+Karin Möglebust
+
+Paragrafer
+
+§ 87-106
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Sebastian Lindberg (V)
 
 <!-- sida 2 -->
 
@@ -274,7 +303,6 @@ policyer, undervisningsmetoder, utvecklingsplanen samt diplomprogrammet
 granskats.
 Femårsutvärderingsprocessen innehåller inte enbart feedback från IB-inspektörerna
 utan även från elever, föräldrar och lärare för att säkerställa att programmet möter
-
 behoven hos alla involverade i utbildningen.
 Femårsutvärderingen/inspektionen identifierade inga brister eller anmärkningar.
 
@@ -390,7 +418,6 @@ gymnasieskolor att göra upphandling av studentmössor. I initiativärendet ange
 kostnaderna för studenten och dess firande de senaste decennierna har skapat ett
 högre ekonomiskt tryck på studenter och deras familjer och att en studentmössa idag
 kostar mellan 2000 och 3000 kronor. Vidare anges att vid Tumba gymnasium har
-
 ledningen genomfört en direktupphandling av studentmössor och därmed fått ner
 kostnaden till mellan 350 och 400 kronor.
 
@@ -409,7 +436,6 @@ avslag. Axel Storckenfeldt (M) yrkar på avslag av initiativärendet.
 
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) finner att det finns två förslag till beslut,
-
 förvaltningens förslag på avslag av initiativärendet med stöd av Morgan Johansson
 (M) mfl samt Pontus Jensen (S) mfl yrkande på bifall av initiativärendet.
 Ordförande Axel Storckenfeldt (M) ställer förslagen emot varandra och finner att
@@ -620,7 +646,6 @@ beslutats i kommunbudgeten för 2025.
 På eftermiddagen arbetade nämnden i workshops kring ekonomi,
 kompetensförsörjning/matching och hur man ska ta sig an utmaningen 125/75.
 Förvaltningen kommer att utifrån måldagen presentera ett utkast till budget 2025 till
-
 nämndens sammanträde i september. Beslut om nämndsbudget tas på nämndens
 möte i oktober.
 
@@ -877,7 +902,6 @@ Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2024-08-19
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan notera informationen till protokollet och finner att nämnden
-
 bifaller det.
 
 Det här dokumentet är digitalt signerat

@@ -21,21 +21,29 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, 
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2024-10-23
 
-Plats och tid för Elof Lindälvs gymnasium Sal A67 Klockan 17:00-20.50
-sammanträde
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium Sal A67
+
+Klockan 17:00-20.50
+
 Paus 18:20-18:45
 
-Beslutande    Ledamöter                     Tjänstgörande ersättare
+Beslutande
+
+Ledamöter
 Axel Storckenfeldt (M), Ordförande
 Helena Nyborg (KD), 1:e vice ordförande
 Shabnam Zamani (S), 2:e vice ordförande
@@ -48,36 +56,53 @@ Karin Green (C)
 Jan Eric Knutas (L)
 Sebastian Lindberg (V)
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M)          Patrik Hellberg, förvaltningschef
-Anna Thomander (S)            Johan Ronner, ekonomichef
-Hans Ädel (SD)                Andréas Mårtensson, kvalitet- och
-Osama Mohamad Mesto (C)       utvecklingschef
-Mikael Bokerud (KD)           Elisabeth Grimhusen, HR- och
-kommunikationschef
-Karin Zetterman, verksamhetschef
-Kompetenscentrum
-Cindia Escalante Mattsson,
-gymnasiechef
+Tjänstgörande ersättare
 
-Anette Skårvik, enhetschef
-arbetsmarknadsenheten § 123
-Hanna Carlström, utvecklingsledare
-§§ 124-126
-Cecilia Fossan, biträdande
-gymnasiechef §§ 127-128
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M)
+Anna Thomander (S)
+Hans Ädel (SD)
+Osama Mohamad Mesto (C)
+Mikael Bokerud (KD)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Johan Ronner, ekonomichef
+Andréas Mårtensson, kvalitet- och utvecklingschef
+Elisabeth Grimhusen, HR- och kommunikationschef
+Karin Zetterman, verksamhetschef Kompetenscentrum
+Cindia Escalante Mattsson, gymnasiechef
+Anette Skårvik, enhetschef arbetsmarknadsenheten § 123
+Hanna Carlström, utvecklingsledare §§ 124-126
+Cecilia Fossan, biträdande gymnasiechef §§ 127-128
 Erika Erngard, utvecklare § 129
 
-Personalföreträdare           Övriga
+Personalföreträdare
 Frida Hagelin, Sveriges Lärare
 
-Plats och tid för justering Digital justering,
+Övriga
 
-Sekreterare   Karin Möglebust               Paragrafer § 121-140
+Plats och tid för justering
 
-Ordförande    Axel Storckenfeldt (M)
+Digital justering,
 
-Protokolljusterare Marcus Lindälv (SD)
+Sekreterare
+
+Karin Möglebust
+
+Paragrafer
+
+§ 121-140
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Marcus Lindälv (SD)
 
 <!-- sida 2 -->
 
@@ -375,7 +400,6 @@ för Gymnasium & Arbetsmarknad nu tar fram är ett komplement till det arbete so
 redan görs på gymnasieskolorna och som regleras av skollagen. Riktlinjen syftar till
 att ytterligare förbereda gymnasieungdomarna för att delta i demokratiska
 beslutsprocesser och stärka deras förmåga och tilltro till möjligheterna att påverka
-
 samhällsutvecklingen.
 
 Beslutsunderlag
@@ -548,7 +572,6 @@ Datum
 3\. TE-programmet
 omarbeta förvaltningens förslag till Lokalbehov 2026–2030 med utblicksår 2031-
 2035 samt att nämnden ger ordföranden rätt att godkänna skrivelsen innan den
-
 skickas som nämndens svar till kommunstyrelsen.
 
 Helena Nyborg (KD) yrkar på att även Facelift ska finnas med på prioriteringslistan,
@@ -632,7 +655,6 @@ KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          15 (26)
 Nämnden för Gymnasium & Arbetsmarknad
 Datum
 2024-10-23
-
 omfördelningar under året och hålla nämnden informerad om dessa genom
 delårsrapporter och bokslut och finner att nämnden bifaller detta.
 
@@ -662,7 +684,6 @@ Sammanfattning av ärendet
 
 Elisabets Grimhusen, HR- och kommunikationschef föredrar ärendet.
 Två gånger om året från nämnden en uppdatering kring personalläget inom
-
 förvaltningen.
 Fokus på våren är sjukfrånvaro, medarbetarengagemang, hur man mår och hur man
 har det.
@@ -709,7 +730,6 @@ arbete inom till exempel fritids- och friskvårdssektorn, äldreomsorg och förs
 Genom att öppna programmet på Elof Lindälvs gymnasium bidrar vi till att möta
 behovet av framtida arbetskraft inom vård och omsorg. Programmet passar elever
 som vill arbeta med människor i olika åldrar och situationer och bidrar till att stärka
-
 möjligheterna till sysselsättning för elever med en intellektuell funktionsnedsättning.
 Nationella program inom den anpassade gymnasieskolan erbjuds på Elof
 Lindälvsgymnasium och läsåret 2024/2025 har vi 38 antal elever. Förslaget innebär
@@ -717,7 +737,6 @@ att erbjuda programmet för hälsa, vård och omsorg som en lärlingsutbildning 
 initialt starta med två platser, med möjlighet att utöka vid behov. Utifrån
 elevunderlaget på anpassad grundskola i Kungsbacka ser vi ett behov av fler platser
 på den anpassade gymnasieskolans nationella program fram till 2027. Det nya
-
 programmet kan möta detta behov.
 Programmet för hälsa, vård och omsorg erbjuds idag på flera skolor i
 Göteborgsregionen, bland annat i Göteborg.
@@ -806,7 +825,6 @@ digitaliseringschef, har beslutat att införa en Business Intelligence-lösning 
 hantering av särskilt skyddsvärd data. Business Intelligence, som ofta förkortas BI, är
 ett beslutsstöd som möjliggör att analysera data och presentera information.
 BI-lösningen gör det möjligt att skapa dynamiska och kvalitetssäkrade rapporter av
-
 statistik från olika verksamhetssystem. Användningen av BI är en viktig pusselbit för
 att förvaltningen ska kunna bli en datadriven organisation. Den nya lösningen bygger
 på en lokalt installerad miljö vilket innebär att lösningen uppfyller kommunens
@@ -814,7 +832,6 @@ tekniska säkerhetskrav samt krav kopplade till dataskydd.
 Förvaltningen kommer att ta hjälp av Analytics-teamet för att skapa rapporter i den
 nya lösningen. Analytics-teamet består av olika specialister inom Kommunstyrelsens
 förvaltning. Vissa medlemmar i teamet utgörs av externa konsulter. För att
-
 konsulterna ska få arbeta med information i förvaltningens databaser och
 verksamhetssystem krävs att de tecknar en sekretesserinran med Kungsbacka
 kommun.
@@ -822,7 +839,6 @@ Nämnden för Gymnasium & Arbetsmarknad föreslås fatta ett beslut om att ge
 konsulter som tecknat sekretesserinran med Kungsbacka kommun tillgång till
 information i databaser och verksamhetssystem inom förvaltningen. Tillgången
 begränsas till sådan data som erfordras för att skapa underlag och rapporter som
-
 efterfrågas och beställs av förvaltningen.
 Nämnden för Gymnasium & Arbetsmarknad har tidigare fattat ett beslut om
 sekretesserinran för BI-projekt. Det tidigare fattade beslutet innefattar skrivningar
@@ -884,7 +900,6 @@ skolutveckling i Kungsbacka kommun inom förskola, grundskola, gymnasium och
 vuxenutbildning. Priset delas ut av kommunfullmäktige vid sammanträde i
 november.
 2024 har ett antal förslag lämnats in som rör Gymnasium & Arbetsmarknads
-
 ansvarsområde. Efter redovisning och dialog i presidieberedning offentliggörs
 pristagare i samband med utdelning av priset i kommunfullmäktige.
 

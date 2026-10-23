@@ -21,21 +21,28 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2026-04-16
 
-Plats och tid för Elof Lindälvs gymnasium, sal A67 Klockan 17.00-19.55
-sammanträde
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium, sal A67
+
+Klockan 17.00-19.55
 Paus 18.30-18.45
 
-Beslutande    Ledamöter
+Beslutande
+
+Ledamöter
 Axel Storckenfeldt (M), Ordförande
 Helena Nyborg (KD), 1:e vice ordförande
 Shabnam Zamani (S), 2:e vice ordförande
@@ -48,31 +55,50 @@ Karin Green (C)
 Jan Eric Knutas (L)
 Sebastian Lindberg (V)
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M)          Patrik Hellberg, förvaltningschef
-Pontus Jensen (S)             Johan Ronner, ekonomichef
-Emilia Åhfelt (SD)            Andreas Mårtensson, kvalitet- och
-Osama Mohamad Mesto (C)       utvecklingschef
-Christian Düring (KD)         Frida Svärd, verksamhetschef
-Cindia Escalante Mattson,
-gymnasiechef §§ 48-49
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M)
+Pontus Jensen (S)
+Emilia Åhfelt (SD)
+Osama Mohamad Mesto (C)
+Christian Düring (KD)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Johan Ronner, ekonomichef
+Andreas Mårtensson, kvalitet- och utvecklingschef
+Frida Svärd, verksamhetschef
+Cindia Escalante Mattson, gymnasiechef §§ 48-49
 Adam Greveby, utvecklare
 Karin Möglebust, utvecklingsledare
 Marie Andersson, rektor
-
 Camilla Udin, samordnare
 Pernilla Börjesson, enhetschef
 Kristina Rosengren, enhetschef
+
 Personalföreträdare
 Frida Hagelin, Sveriges lärare
 
-Plats och tid för justering Digital justering
+Plats och tid för justering
 
-Sekreterare   Adam Greveby                  Paragrafer §§ 48-58
+Digital justering
 
-Ordförande    Axel Storckenfeldt (M)
+Sekreterare
 
-Protokolljusterare Jan Eric Knutas (L)
+Adam Greveby
+
+Paragrafer
+
+§§ 48-58
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Jan Eric Knutas (L)
 
 <!-- sida 2 -->
 
@@ -193,7 +219,6 @@ Beslutsgång
 
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan noterar informationen till protokollet och finner att nämnden
-
 bifaller.
 
 Det här dokumentet är digitalt signerat
@@ -237,7 +262,6 @@ Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan godkänna Kvalitetsberättelse SOSFS 2025 och finner att
 nämnden
-
 bifaller.
 
 Det här dokumentet är digitalt signerat
@@ -269,7 +293,6 @@ Vidare har fem synpunkter inkommit till förvaltningens diarium. Dessa är diari
 och omhändertagna enligt rutin, dvs ansvarig chef har svarat.
 Tre händelserapporter har inkommit till kommunens övergripande
 händelserapporteringssystem, DF Respons. Ett ärende rör försörjningsstöd övriga rör
-
 korttidstillsyn LSS.
 
 Beslutsunderlag
@@ -347,7 +370,6 @@ prognostiseras gå med underskott. Detta underskott är i huvudsak relaterat til
 behovet av anpassningar till ett minskat elevantal under de senaste åren.
 Vuxenutbildningen prognostiserar ett överskott, vilket delvis förklaras av att
 förvaltningen fått rätt i ersättningsfrågor avseende år 2025. Överskottet beror även på
-
 att vuxenutbildningen vid Elof Lindälv beräknas vända tidigare underskott till ett
 positivt resultat.
 Etableringsverksamheten förväntas också redovisa ett överskott. Detta beror främst
@@ -446,7 +468,6 @@ Däremot får nämnden återta lämnad delegering eller föregripa i ett beslut 
 ärende av den som fått beslutanderätten genom att själva ta över ärendet och fatta
 beslut.
 Under perioden 2026-03-01 till 2026-03-31 har beslut enligt
-
 delegeringsförteckningen gällande insatser enligt socialtjänstlagen (SoL) fattats. Se
 bifogad lista.
 Under perioden 2026-03-01 till 2026-03-31 har sju anställningar gjorts. Se bifogad
@@ -535,7 +556,6 @@ Beslutsgång
 
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan noterar informationen till protokollet och finner att nämnden
-
 bifaller.
 
 Det här dokumentet är digitalt signerat
@@ -567,7 +587,6 @@ paket mot RL (restaurang och- livsmedel) från och med hösten 2026.
 Förvaltningschef informerade även om gemensam digital socialtjänstmottagning i
 Kungsbacka där en konsult är med och stöttar som tidigare arbetat med detta i
 Jönköping. Förhoppningen är att sänka tröskeln genom att söka och få hjälp digitalt,
-
 detta ska slutredovisas i maj eller juni.
 Det informerades även om att aktivitetskravet närmar sig och träder i kraft 1e juli
 2026 med målet att bryta bidragsberoende, minska utanförskap och stärka vägen till

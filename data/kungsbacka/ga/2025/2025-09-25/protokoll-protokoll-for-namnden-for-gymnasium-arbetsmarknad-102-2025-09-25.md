@@ -21,63 +21,74 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2025-09-25
 
-Plats och tid för                           Klockan 17:00
-sammanträde
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Maria Svärd Wänt (M) ersätter Jenny
-Helena Nyborg (KD), 1:e vice ordförande Nilsson (M)
-Shabnam Zamani (S), 2:e vice ordförande Osama Mesto (C) ersätter Karin
-Morgan Johansson (M)          Green (C) under punkt 1 och 2
+Plats och tid för sammanträde
+
+Klockan 17:00
+
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
+Shabnam Zamani (S), 2:e vice ordförande
+Morgan Johansson (M)
 May-Louise Flyrin (S)
 Hans Ädel (SD)
-
 Tina Hald (SD)
 Karin Green (C)
 Jan Eric Knutas (L)
 Sebastian Lindberg (V)
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M)          Patrik Hellberg, förvaltningschef
-Pontus Jensen (S)             Johan Ronner, ekonomichef
-Emilia Åhfelt (SD)            Andréas Mårtensson, kvalitets- och
-Osama Mohamad Mesto (C)       verksamhetschef
-Karin Zetterman, verksamhetschef
-Cindia Escalante Mattsson,
 
-gymnasiechef
+Tjänstgörande ersättare
+Maria Svärd Wänt (M) ersätter Jenny Nilsson (M)
+Osama Mesto (C) ersätter Karin Green (C) under punkt 1 och 2
+
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M)
+Pontus Jensen (S)
+Emilia Åhfelt (SD)
+Osama Mohamad Mesto (C)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Johan Ronner, ekonomichef
+Andréas Mårtensson, kvalitets- och verksamhetschef
+Karin Zetterman, verksamhetschef
+Cindia Escalante Mattsson, gymnasiechef
 Angela Lyrhagen, enhetschef § 98
-Christian Alm, studie och
-yrkesvägledare § 98
-Catharina Thorell, koordinator
-Erasmus § 100
+Christian Alm, studie och yrkesvägledare § 98
+Catharina Thorell, koordinator Erasmus § 100
 Åsa Ardfelt, utvecklingsledare § 100
 
-Personalföreträdare           Övriga
-Erik Hirmas, Sveriges lärare  Ida Andersson, Naturprogrammet §
-100
-Camille Muller, Naturprogrammet §
-100
-Elessa Sopasakis, Naturprogrammet §
-100
-Nellie Boyagi, Försäljning och
-serviceprogrammet § 100
-Klara Ekdahl, Försäljning och
-serviceprogrammet § 100
-Aima Öhman Ruttink, Restaurang och
-livsmedelsprogrammets § 100
-Emma Ackeborn, Barn och
-fritidsprogrammet § 100
+Personalföreträdare
+Erik Hirmas, Sveriges lärare
 
-Plats och tid för justering Digital,
+Övriga
+Ida Andersson, Naturprogrammet § 100
+Camille Muller, Naturprogrammet § 100
+Elessa Sopasakis, Naturprogrammet § 100
+Nellie Boyagi, Försäljning och serviceprogrammet § 100
+Klara Ekdahl, Försäljning och serviceprogrammet § 100
+Aima Öhman Ruttink, Restaurang och livsmedelsprogrammets § 100
+Emma Ackeborn, Barn och fritidsprogrammet § 100
+
+Plats och tid för justering
+
+Digital,
 
 <!-- sida 2 -->
 
@@ -86,12 +97,21 @@ Nämnden för Gymnasium & Arbetsmarknad
 Datum
 2025-09-25
 
-Sekreterare   Karin Möglebust                       § 102
+Sekreterare
+
+Karin Möglebust
+
 Paragrafer
 
-Ordförande    Axel Storckenfeldt (M)
+§ 102
 
-Protokolljusterare Hans Ädel (SD)
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Hans Ädel (SD)
 
 <!-- sida 3 -->
 
@@ -141,7 +161,6 @@ studerande inom gymnasial utbildning samt ett förändrat arbetssätt inom SFI. 
 förändringar har lett till högre kostnader.
 Etableringsverksamheten förväntas gå med överskott, främst tack vare att
 ersättningarna från Migrationsverket beräknas överstiga kostnaderna för
-
 mottagandet.
 Ekonomiskt bistånd prognostiserar också ett överskott, även om utbetalningarna har
 börjat öka jämfört med 2024.

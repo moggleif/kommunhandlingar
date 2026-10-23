@@ -21,21 +21,28 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, 
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2026-08-27
 
-Plats och tid för Gottskär Hotell & Konferens Klockan 17.00-20.00
-sammanträde
+Plats och tid för sammanträde
+
+Gottskär Hotell & Konferens
+
+Klockan 17.00-20.00
 Paus 18.30-18.45
 
-Beslutande    Ledamöter
+Beslutande
+
+Ledamöter
 Axel Storckenfeldt (M), Ordförande
 Helena Nyborg (KD), 1:e vice ordförande
 Shabnam Zamani (S), 2:e vice ordförande
@@ -48,37 +55,50 @@ Karin Green (C)
 Charlotta Lundström (L)
 Sebastian Lindberg (V)
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Henrik Brattström (M)         Patrik Hellberg, förvaltningschef
-Pontus Jensen (S)             Andreas Mårtensson, kvalitet- och
-Osama Mohamad Mesto (C)       utvecklingschef
-Christian Düring (KD)         Frids Svärd, verksamhetschef
-Elisabeth Grimhusen, HR &
-kommunikationschef
-Cindia Escalante Mattsson,
-gymnasiechef
-Cecilia Fossan, biträdande
-gymnasiechef
+Övriga närvarande
 
+Ersättare
+Henrik Brattström (M)
+Pontus Jensen (S)
+Osama Mohamad Mesto (C)
+Christian Düring (KD)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Andreas Mårtensson, kvalitet- och utvecklingschef
+Frids Svärd, verksamhetschef
+Elisabeth Grimhusen, HR & kommunikationschef
+Cindia Escalante Mattsson, gymnasiechef
+Cecilia Fossan, biträdande gymnasiechef
 Johan Ronner, ekonomichef
 Hanna Tengelin, rektor § 91
 Cajsa Fridén, rektor § 91
 Elinor Filipsson, näringslivschef § 92
-Lovisa Eld, samhällsbyggnadschef
-§92
-Hanna Carlström, utvecklingsledare §
-94
+Lovisa Eld, samhällsbyggnadschef §92
+Hanna Carlström, utvecklingsledare § 94
 
 Personalföreträdare
 Frida Hagelin, Sveriges lärare
 
-Plats och tid för justering Digital justering
+Plats och tid för justering
 
-Sekreterare   Adam Greveby                          §§ 90-104
+Digital justering
+
+Sekreterare
+
+Adam Greveby
+
 Paragrafer
-Ordförande    Axel Storckenfeldt (M)
 
-Protokolljusterare May-Louise Flyrin (S)
+§§ 90-104
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+May-Louise Flyrin (S)
 
 <!-- sida 2 -->
 
@@ -202,7 +222,6 @@ gymnasieexamen på 95,4 procent. Resultaten kopplas till ett systematiskt
 kvalitetsarbete med kontinuerlig analys, uppföljning, målsättning och utvärdering.
 Underlaget hämtas bland annat från GR-enkäter, pulsmätningar och intervjuer.
 Programmets kvalitetsarbete fokuserar på att utveckla undervisningen, öka elevernas
-
 kontakter med det omgivande samhället samt stärka det tidiga upptäckandet av
 elevers behov. Programmet arbetar även aktivt med samverkan med universitet,
 högskolor och arbetslivet, i linje med GY25 och nämndens mål om en starkare
@@ -269,7 +288,6 @@ bemötande, service och handläggning. Där betonas kravet på ett skärpt
 serviceuppdrag för hela organisationen för att förbättra tillgänglighet, tydlighet i
 kommunikation, förutsägbarhet i handläggning och att ge ett bra bemötande. Alla
 verksamheter i Kungsbacka kommun ska arbeta med en väg in för att invånare och
-
 företag ska slippa bollas runt. Kommunstyrelsen gav kommundirektören i uppdrag
 att säkerställa ett antal punkter där planer ska redovisas i det tredje kvartalet 2026.
 
@@ -488,7 +506,6 @@ Kvartalsrapport, Arbetsmarknadsprocessen 2026, kvartal 2.
 
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden kan godkänna
-
 kvartalsuppföljningen arbetsmarknadsprocessen och finner att nämnden bifaller.
 
 Det här dokumentet är digitalt signerat
@@ -521,7 +538,6 @@ underkända betyg har ökat, samt inom sfi där avbrotten fortsatt är höga. Re
 visar även skillnader mellan kvinnor och män som behöver följas upp inom det
 fortsatta kvalitetsarbetet.
 Sammantaget bedöms verksamheten hålla god kvalitet, med fortsatt behov av riktade
-
 insatser för att stärka måluppfyllelse och genomströmning inom identifierade
 utvecklingsområden.
 

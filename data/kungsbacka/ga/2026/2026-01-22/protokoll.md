@@ -21,43 +21,55 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, 
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2026-01-22
 
-Plats och tid för Elof Lindälvs gymnasium, sal A67 Kl. 17.00-20.30, paus 18.50-19.05
-sammanträde
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Pontus Jensen (S) ersätter Shabnam
-Helena Nyborg (KD), 1:e vice ordförande Zamani (S)
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium, sal A67
+
+Kl. 17.00-20.30, paus 18.50-19.05
+
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
 Jenny Nilsson (M)
 Morgan Johansson (M)
 May-Louise Flyrin (S)
 Hans Ädel (SD)
-
 Tina Hald (SD)
 Karin Green (C)
 Jan Eric Knutas (L)
 Sebastian Lindberg (V)
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M) §§ 3 - 12 Patrik Hellberg, förvaltningschef
-Christian Düring (KD)         Johan Ronner, ekonomichef
-Andreas Mårtensson, kvalitet- och
-utvecklingschef §§ 3–12
-Elisabeth Grimhusen, HR- och
 
-kommunikationschef
+Tjänstgörande ersättare
+Pontus Jensen (S) ersätter Shabnam Zamani (S)
+
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M) §§ 3 - 12
+Christian Düring (KD)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Johan Ronner, ekonomichef
+Andreas Mårtensson, kvalitet- och utvecklingschef §§ 3–12
+Elisabeth Grimhusen, HR- och kommunikationschef
 Karin Zetterman, verksamhetschef
-Cindia Escalante Mattson,
-gymnasiechef
-Cecilia Fossan, biträdande
-gymnasiechef
+Cindia Escalante Mattson, gymnasiechef
+Cecilia Fossan, biträdande gymnasiechef
 Alexandra Cameron, utvecklare
 Karin Möglebust, utvecklingsledare
 Anna Petrini, rektor
@@ -66,13 +78,25 @@ Personalföreträdare
 Lisa Jönsson, Sveriges skolledare
 Frida Hagelin, Sveriges lärare
 
-Plats och tid för justering Digital justering
+Plats och tid för justering
 
-Sekreterare   Alexandra Cameron                     §§ 1-12
+Digital justering
+
+Sekreterare
+
+Alexandra Cameron
+
 Paragrafer
-Ordförande    Axel Storckenfeldt (M)
 
-Protokolljusterare May-Louise Flyrin (S)
+§§ 1-12
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+May-Louise Flyrin (S)
 
 <!-- sida 2 -->
 
@@ -342,7 +366,6 @@ kommunbudgeten 2, står Socialdemokraterna bakom. Vi anser dock att en del av
 möjligheterna som anges behöver stärkas, utmaningar behöver mötas med större
 kraft och fler och andra förändringar behöver göras än vad som angivits.
 Nedan följer de tillägg som vi anser är av avgörande vikt för att Kungsbacka
-
 kommun ska stå robusta inför en osäker och svår framtid. Det är nödvändigt att
 social och ekologisk hållbarhet värderas på samma nivå som den ekonomiska
 hållbarheten. Det är viktigt att ha en budgetpolitik som bygger på solidariska värden
@@ -360,7 +383,6 @@ Utmaningar som måste mötas: Problematisk skolfrånvaro
 Ett ökat antal elever är ogiltigt frånvarande från skolan. Ogiltig frånvaro är ofta
 relaterad till psykisk ohälsa, kränkande behandling eller neuropsykiatriskt
 funktionshinder, och i vissa fall bristande motivation. Alltså fråga om orsaker som
-
 eleven inte kan bemästra, på egen hand, för att ta sig till skolan. Det behövs, ur
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: F988F2E50F5E4FF5C4F0F0D46B41E3F776C22D473F
@@ -372,7 +394,6 @@ KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          9 (17)
 Nämnden för Gymnasium & Arbetsmarknad
 Datum
 2026-01-22
-
 skolans synvinkel, individanpassade insatser. En sådan kan vara att skolan erbjuder
 “ett mindre sammanhang” där eleven, på egna villkor, ges möjlighet att ta “ett steg i
 taget” tillbaka till den ordinarie, lärande skolmiljön. Socialdemokraterna vill se
@@ -500,7 +521,6 @@ initiativärendet föreslås förvaltningen undersöka möjligheterna att, i ett
 antal klasser, genomföra senarelagd, daglig skolstart där eleverna börjar skolan
 tidigast klockan 09.00. I uppdraget ingick även att utvärdera en sådan senarelagd
 skolstart i samråd med akademisk institution. I initiativärendet hänvisas till forskning
-
 som tyder på att en senarelagd skolstart kan leda till mer sömn och bättre generellt
 mående bland unga människor.
 
@@ -515,7 +535,6 @@ skolstart. Detta i kombination med att eleverna har individuella scheman gör de
 svårt att genomföra ett test i ett begränsat antal klasser. Gymnasieskolorna har olika
 schemablock för samläsning av individuella val, programfördjupningar, språk och
 NIU (Nationell idrottsutbildning). Att göra ändringar för några få klasser skulle
-
 innebära att många scheman med olika individuella val påverkas, vilket i sin tur
 skulle påverka hela strukturen och riskera att drabba elever som läser kurser
 tillsammans med elever från andra program.
@@ -684,7 +703,6 @@ aktivitetskravet innebär att kommuner blir skyldig att erbjuda aktiviteter för
 uppbär försörjningsstöd. Kungsbacka kommun redan arbetar på det sättet.
 Arbetsförmedlingen presenterade aktuell statistik och informerar att de har en ny
 organisering från 1 mars 2026. Förändringen innebär färre ärenden per handläggare
-
 och ett större fokus på långtidsarbetslösa.
 
 Beslutsgång

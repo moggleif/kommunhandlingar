@@ -21,56 +21,88 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, 
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2024-11-20
 
-Plats och tid för Elof Lindälvs gymnasium Sal A 67 Klockan 17:00-21:32
-sammanträde
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium Sal A 67
+
+Klockan 17:00-21:32
+
 Paus 19:00-19:15 samt 20:20-20:40
 
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Pontus Jensen (S) ersätter May-Louise
-Helena Nyborg (KD), 1:e vice ordförande Flyrin (S)
-Shabnam Zamani (S), 2:e vice ordförande Osama Mohamad Mesto (C) ersätter
-Jenny Nilsson (M)             Karin Green (C)
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
+Shabnam Zamani (S), 2:e vice ordförande
+Jenny Nilsson (M)
 Morgan Johansson (M)
 Marcus Lindälv (SD)
 Tina Hald (SD)
 Jan Eric Knutas (L)
 Sebastian Lindberg (V)
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M)          Patrik Hellberg, förvaltningschef
-Pia Grapenstrand Kvarntun (M) Johan Ronner, ekonomichef
-Pontus Jensen (S)             Andréas Mårtensson, kvalitets- och
-Anna Thomander (S)            utvecklingschef
-Hans Ädel (SD)                Elisabeth Grimhusen, HR- och
-Osama Mohamad Mesto (C)       kommunikationschef
-Karin Zetterman, verksamhetschef
-Cindia Escalante Mattsson,
-gymnasiechef
-Karin Möglebust, utvecklingsledare
-Pernilla Börjesson, enhetschef
-myndighet § 142
+Tjänstgörande ersättare
+Pontus Jensen (S) ersätter May-Louise Flyrin (S)
+Osama Mohamad Mesto (C) ersätter Karin Green (C)
 
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M)
+Pia Grapenstrand Kvarntun (M)
+Pontus Jensen (S)
+Anna Thomander (S)
+Hans Ädel (SD)
+Osama Mohamad Mesto (C)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Johan Ronner, ekonomichef
+Andréas Mårtensson, kvalitets- och utvecklingschef
+Elisabeth Grimhusen, HR- och kommunikationschef
+Karin Zetterman, verksamhetschef
+Cindia Escalante Mattsson, gymnasiechef
+Karin Möglebust, utvecklingsledare
+Pernilla Börjesson, enhetschef myndighet § 142
 Anette Skårvik § 142
-Personalföreträdare           Övriga
+
+Personalföreträdare
 Frida Hagelin, Sveriges lärare
 
-Plats och tid för justering Digital justering,
+Övriga
 
-Sekreterare   Karin Möglebust               Paragrafer § 141-157
+Plats och tid för justering
 
-Ordförande    Axel Storckenfeldt (M)
+Digital justering,
 
-Protokolljusterare Jan Eric Knutas (L)
+Sekreterare
+
+Karin Möglebust
+
+Paragrafer
+
+§ 141-157
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Jan Eric Knutas (L)
 
 <!-- sida 2 -->
 
@@ -235,14 +267,12 @@ Biblioteksplanen ska med bibliotekslagen, skollagen (2010:800) och lagen om
 Förenta nationernas konvention om barnets rättigheter (SFS 2018:1197) ge stöd och
 fungera som styrdokument och ramverk åt de kommunala biblioteksverksamheternas
 utveckling och riktning under åren 2025-2030. Berörda nämnder i Kungsbacka
-
 kommun är Kultur & Fritid (ansvar folkbiblioteken), Gymnasium & Arbetsmarknad
 (ansvar gymnasiebiblioteken) och För & Grundskola (ansvar skolbiblioteken).
 Nämnderna har tagit fram ett förslag till ny kommunövergripande biblioteksplan för
 folk-, skol-, och gymnasiebiblioteken för åren 2025-2030.
 Utifrån biblioteksplanen ska förvaltningarna för Kultur & Fritid, Gymnasium &
 Arbetsmarknad och För & Grundskola ta fram handlingsplaner med konkreta mål för
-
 hur denna övergripande biblioteksplan ska uppnås.
 
 Beslutsunderlag
@@ -323,7 +353,6 @@ påbörjat ett arbete för att främja välmående och motverka psykisk ohälsa 
 elever på Kungsbackas kommunala gymnasieskolor. En projektledare har
 tillsammans med processgrupp tagit fram en metod som testades mot olika personal-
 och elevgrupper under våren 2024. Utvärderingar från detta arbete uppvisar att det
-
 finns en hög efterfrågan och behov hos elever av fortsatt utbildning inom psykisk
 hälsa.
 För att starta en utveckling av detta arbete har processledaren under hösten 2024
@@ -331,14 +360,12 @@ startat en välmåendegrupp på skolorna. Gruppen består av olika professioner 
 elevhälsan, trygghetsteam, förstelärare inom välmående och pedagoger med
 erfarenhet och kompetens inom området. Syftet med gruppen är att den ska vara en
 stark enhet som kan bidra till att stötta det främjande arbetet i organisationen på
-
 enhetsnivå. Gruppens primära syfte är att stödja, främja och utveckla arbete som
 berör elevens psykiska hälsa.
 Under våren 2025 kommer välmåendegruppen gå ut i fyra olika program och pröva
 ett nytt sätt att schemalägga mentorstid som då ska tillhandahållas för att
 implementera psykisk hälsa på schemat för eleven. Under hösten 2025 är tanken att
 flera program implementerar arbetssättet och processledare och välmåendegruppen
-
 fortsatt finns med som en viktig stöttande funktion.
 På så sätt förtydligas det en röd tråd i hur vi långsiktigt arbetar med elevens
 välmående och hälsa i kommunen. Arbetet följer eleven hela vägen från för- grund-
@@ -370,7 +397,6 @@ Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan godkänna ansökan om medel på 500 000 kr för att främja
 välmående och motverka psykisk ohälsa bland elever på Kungsbackas kommunala
 gymnasieskolor genom att förlänga projektledare på 40% och finner att nämnden
-
 bifaller det.
 
 Beslutet skickas till
@@ -421,7 +447,6 @@ Lindälvsgymnasiet. Programmet erbjuds som lärlingsutbildning och startar med t
 platser, med möjlighet till utökning vid behov. Detta innebär en utökning av platser
 inom den anpassade gymnasieskolan.
 Bifogad tabell visar antagningsorganisationen för läsåret 2025–2026, jämte
-
 organisationen för det innevarande läsåret 2024–2025 samt antalet antagna elever per
 program.
 
@@ -584,7 +609,6 @@ KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          15 (27)
 Nämnden för Gymnasium & Arbetsmarknad
 Datum
 2024-11-20
-
 ansvar för regionalt tillväxtarbete i länet och andra regionala organ, tillfälle att yttra
 sig. Även nämnderna har fått möjlighet att yttra sig över bostadsförsörjningsplanen.
 Förvaltningen har tagit fram ett förslag till yttrande över bostadsförsörjningsplanen.
@@ -649,7 +673,6 @@ berörda nämnder och bostadsbolag för att främja en god social sammanhållnin
 ser dock svårigheter kring att implementera insats 3.3 ”Vi ska ge förtur till Ekstas
 Hyresrätter till vissa våldsutsatta”.
 Vi delar problemformuleringen kring svårigheterna med att lämna en våldsutövande
-
 partner. I ett akut läge finns möjlighet för den våldsutsatta att få boende samma natt.
 Bostadsförsörjningsplanen beskriver insatsen som ett komplement till den särskilda
 bostadsförsörjning, som inte är till för att lösa en akut situation. Socialtjänsten har
@@ -772,7 +795,6 @@ Denna hedersutnämning blir ett kvitto på elevens ansträngning och en första 
 på deras CV.
 Som kuriosa kan nämnas att motsvarande system tidigare funnits vid svenska
 läroverk och kallades då distinktionsbetyg. ”Distinktionsbetyg, så kallades fordom
-
 äfven sådana vid bedömandet af kunskapsprof afgifna vitsord, som utgöra
 förstärkningar af hufvudbetygen” (Källa: Nordisk familjebok 1907). Den mest
 prestigefyllda utmärkelsen var ”Maxima cum laude” (med högsta beröm). Med
@@ -888,7 +910,6 @@ separata priser för alla utbildningar där Göteborg är huvudman, se parentese
 Anledningen till förslaget är att inte öka den interkommunala ersättningen mellan de
 övriga kommunerna. Den nyligen genomförda upphandlingen i Göteborg
 tillsammans med ökade priser inom egen regi har lett till en högre prisbild för
-
 utbildningar som ligger under Arbetsmarknad och vuxenutbildning. För övriga
 kommuner förslås 2024 års priser vara oförändrade.
 
@@ -896,20 +917,16 @@ a. för grundläggande kurser tillämpas ett enhetspris på 55 (62) kronor per p
 Enhetspriset gäller för undervisning som ges både genom klassrumsundervisning och
 genom flexibel undervisning,
 b. för teoretiska gymnasiala kurser tillämpas ett enhetspris på 55 (56) kronor per
-
 poäng. Enhetspriset gäller för undervisning som ges både genom
 klassrumsundervisning och genom flexibel undervisning,
 c. för grundläggande och gymnasiala distanskurser tillämpas ett enhetspris på 36 (38)
 kronor per poäng,
-
 d. för gymnasiala yrkeskurser och sammanhållna yrkesutbildningar som inte regleras
 inom samverkansavtal kring vuxnas lärande i Göteborgsregionen tillämpas bilaterala
 förhandlingar mellan berörda kommuner,
 e. för elever inom Komvux som anpassad utbildning tillämpas bilaterala
-
 förhandlingar mellan berörda kommuner,
 f. för utbildning på vardagar i svenska för invandrare tillämpas ersättning enligt
-
 följande:
 Studieväg 1: 60 (73) kronor per timme
 
@@ -1112,7 +1129,6 @@ Sammanfattning av ärendet
 
 Förvaltningschefen tackar för bra möte.
 Ordförande Axel Storckenfeldt (M) passar också på att tacka för ett bra möte med
-
 goda dialoger tillsammans med Sveriges Lärare som ägde rum tidigare i veckan.
 
 Beslutsgång

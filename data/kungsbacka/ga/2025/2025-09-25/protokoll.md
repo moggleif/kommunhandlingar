@@ -21,25 +21,32 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, 
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2025-09-25
 
-Plats och tid för Elof Lindälvs gymnasium Sal A 67 Klockan 17:00-21:15
-sammanträde
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium Sal A 67
+
+Klockan 17:00-21:15
 Paus 18.20-18.35
 
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Maria Svärd Wänt (M) ersätter Jenny
-Helena Nyborg (KD), 1:e vice ordförande Nilsson (M)
-Shabnam Zamani (S), 2:e vice ordförande Osama Mesto (C) ersätter Karin
-Morgan Johansson (M)          Green (C) punkt 1 och 2
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
+Shabnam Zamani (S), 2:e vice ordförande
+Morgan Johansson (M)
 May-Louise Flyrin (S)
 Hans Ädel (SD)
 Tina Hald (SD)
@@ -47,37 +54,40 @@ Karin Green (C) från punkt 3.
 Jan Eric Knutas (L)
 Sebastian Lindberg (V)
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M)          Patrik Hellberg, förvaltningschef
-Pontus Jensen (S)             Johan Ronner, ekonomichef
-Emilia Åhfelt (SD)            Andréas Mårtensson, kvalitets- och
-Osama Mohamad Mesto (C)       verksamhetschef
+Tjänstgörande ersättare
+Maria Svärd Wänt (M) ersätter Jenny Nilsson (M)
+Osama Mesto (C) ersätter Karin Green (C) punkt 1 och 2
+
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M)
+Pontus Jensen (S)
+Emilia Åhfelt (SD)
+Osama Mohamad Mesto (C)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Johan Ronner, ekonomichef
+Andréas Mårtensson, kvalitets- och verksamhetschef
 Karin Zetterman, verksamhetschef
-Cindia Escalante Mattsson,
-gymnasiechef
+Cindia Escalante Mattsson, gymnasiechef
 Angela Lyrhagen, enhetschef § 98
-Christian Alm, studie och
-yrkesvägledare § 98
-Catharina Thorell, koordinator
-Erasmus § 100
+Christian Alm, studie och yrkesvägledare § 98
+Catharina Thorell, koordinator Erasmus § 100
 Åsa Ardfelt, utvecklingsledare § 100
 
-Personalföreträdare           Övriga
-Erik Hirmas, Sveriges Lärare  Ida Andersson, Naturprogrammet §
-100
-Camille Muller, Naturprogrammet §
-100
-Elessa Sopasakis, Naturprogrammet §
-100
-Nellie Boyagi, Försäljning och
-serviceprogrammet § 100
-Klara Ekdahl, Försäljning och
-serviceprogrammet § 100
-Aima Öhman Ruttink, Restaurang och
+Personalföreträdare
+Erik Hirmas, Sveriges Lärare
 
-livsmedelsprogrammets § 100
-Emma Ackeborn, Barn och
-fritidsprogrammet § 100
+Övriga
+Ida Andersson, Naturprogrammet § 100
+Camille Muller, Naturprogrammet § 100
+Elessa Sopasakis, Naturprogrammet § 100
+Nellie Boyagi, Försäljning och serviceprogrammet § 100
+Klara Ekdahl, Försäljning och serviceprogrammet § 100
+Aima Öhman Ruttink, Restaurang och livsmedelsprogrammets § 100
+Emma Ackeborn, Barn och fritidsprogrammet § 100
 
 <!-- sida 2 -->
 
@@ -86,13 +96,25 @@ Nämnden för Gymnasium & Arbetsmarknad
 Datum
 2025-09-25
 
-Plats och tid för justering Digital,
+Plats och tid för justering
 
-Sekreterare   Karin Möglebust               Paragrafer §§ 97-113
+Digital,
 
-Ordförande    Axel Storckenfeldt (M)
+Sekreterare
 
-Protokolljusterare Hans Ädel (SD)
+Karin Möglebust
+
+Paragrafer
+
+§§ 97-113
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Hans Ädel (SD)
 
 <!-- sida 3 -->
 
@@ -227,7 +249,6 @@ till person.
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar nämnden för Gymnasium &
 Arbetsmarknad om nämnden kan notera informationen till protokollet och finner att
-
 nämnden bifaller det.
 
 Det här dokumentet är digitalt signerat
@@ -260,7 +281,6 @@ det kommunala aktivitetsansvaret ges möjlighet att söka och erhålla dessa job
 
 Nämnden för Gymnasium & Arbetsmarknad beslutade vid sitt sammanträde den 27
 mars 2025 (§ 37) att remittera ärendet till förvaltningen för beredning. Förvaltningen
-
 för Gymnasium & Arbetsmarknad bedömer att ungdomar inom KAA får stöd med
 individuella insatser och praktik utifrån behov, och vill få i uppdrag att utreda hela
 feriejobbsuppdraget med avsikt att utveckla och förbättra det som förvaltningen kan
@@ -313,7 +333,6 @@ Erasmus. De har varit i Spanien, Lanzarote, Gran Canaria och Zanzibar. Alla var
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan notera informationen till protokollet och finner att nämnden
-
 bifaller det.
 
 Det här dokumentet är digitalt signerat
@@ -594,7 +613,6 @@ längre på kvällarna och somnar senare.
 I rapporten är REKOMMENDATIONEN att elever från årskurs sju och uppåt helst
 inte bör börja skolan tidigare än kl 09.00.
 Förslag till beslut: Nämnden för Gymnasium och Arbetsmarknad ger förvaltningen i
-
 uppdrag att presentera underlag för följande:
 \- Undersöka möjligheterna att, i ett begränsat antal klasser, genomföra senarelagd,
 daglig skolstart enligt ovan och
@@ -798,7 +816,6 @@ först.
 behandlas vidare av förvaltningen och tas upp på ett nämndsmöte framöver.
 
 \- Förvaltningen har jobbat med att omvandla metodiken YAM (suicidprevention) till
-
 en för gymnasieskolan mer anpassad metodik. I nästa steg ser förvaltningen en mer
 individuell satsning och den kommer att genomföras under 2026. För det fortsatt
 arbetet kommer förvaltningen söka pengar ur den fond på 5 mkr per år som
@@ -807,7 +824,6 @@ tillskapats för hälsofrämjande insatser.
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan notera informationen till protokollet och finner att nämnden
-
 bifaller det.
 
 Det här dokumentet är digitalt signerat

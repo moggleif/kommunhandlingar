@@ -21,25 +21,33 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, 
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2024-05-15
 
-Plats och tid för Elof Lindälvs gymnasium Sal A67 Klockan 17:00-20:10
-sammanträde
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium Sal A67
+
+Klockan 17:00-20:10
+
 Paus 18:30-18:50
 
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Maria Svärd Wänt (M) ersätter Jenny
-Helena Nyborg (KD), 1:e vice ordförande Nilsson (M)
-Shabnam Zamani (S), 2:e vice ordförande Pontus Jensen (S) ersatte Hampus
-Morgan Johansson (M)          Jägnert (SD) från kl 18:45
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
+Shabnam Zamani (S), 2:e vice ordförande
+Morgan Johansson (M)
 May-Louise Flyrin (S)
 Hampus Jägnert (SD)- tom kl 18:45
 Tina Hald (SD)
@@ -47,30 +55,53 @@ Karin Green (C)
 Jan Eric Knutas (L)
 Sebastian Lindberg (V)
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M)          Patrik Hellberg, förvaltningschef
-Pontus Jensen (S)             Johan Ronner, ekonomichef
-Anna Thomander (S)            Cindia Escalante Mattson,
-Osama Mohamad Mesto (C)       gymnasiechef
+Tjänstgörande ersättare
+Maria Svärd Wänt (M) ersätter Jenny Nilsson (M)
+Pontus Jensen (S) ersatte Hampus Jägnert (SD) från kl 18:45
+
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M)
+Pontus Jensen (S)
+Anna Thomander (S)
+Osama Mohamad Mesto (C)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Johan Ronner, ekonomichef
+Cindia Escalante Mattson, gymnasiechef
 Karin Zetterman, verksamhetschef
 Katrin Löfqvist, utredare
 Camilla Udin, samordnare § 61
-Josefine Meijenborg,
-praktiksamordnare § 61
-Eva Kjellgren, praktiksamordnare §
-61
+Josefine Meijenborg, praktiksamordnare § 61
+Eva Kjellgren, praktiksamordnare § 61
 
-Personalföreträdare           Övriga
-Erik Hirmas, Sveriges Lärare  Stefan Friberg, förtroendevald revisor
-§ 60
+Personalföreträdare
+Erik Hirmas, Sveriges Lärare
 
-Plats och tid för justering Digital justering
+Övriga
+Stefan Friberg, förtroendevald revisor § 60
 
-Sekreterare   Karin Möglebust               Paragrafer § 58-70
+Plats och tid för justering
 
-Ordförande    Axel Storckenfeldt (M)
+Digital justering
 
-Protokolljusterare Tina Hald (SD)
+Sekreterare
+
+Karin Möglebust
+
+Paragrafer
+
+§ 58-70
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Tina Hald (SD)
 
 <!-- sida 2 -->
 
@@ -234,7 +265,6 @@ kompetenshöjande insats med utökat stöd för personer som står längre ifrå
 arbetsmarknaden. Man arbetar med förvaltningen för Service och förvaltningen för
 Vård & Omsorg för att få praktikplatser inom kommunen med gott resultat.
 Helhetslyftet är ett EU-projekt som varit gång sedan i maj förra året. Det vänder sig
-
 till tredjelandsmedborgare för att förbereda dem för att kunna komma ut på
 arbetsmarknaden. Projektet är treårigt och pågår till 2025. Kungsbacka kommun
 arbetar intensivt med projektet med goda resultat.
@@ -262,7 +292,6 @@ Beslut
 
 Nämnden för Gymnasium & Arbetsmarknad godkänner redovisad
 antagningsorganisation för
-
 gymnasieskolorna läsåret 2024/2025.
 
 Sammanfattning av ärendet
@@ -315,7 +344,6 @@ Ekonomin för Gymnasium & Arbetsmarknad under perioden januari till april
 ekonomin, framför allt kring elevantal i gymnasieverksamheten och kostnaderna
 kring boende i form tak över huvudet och tomhyror.
 När det gäller elevantalet i gymnasieverksamheten finns det några gymnasieprogram
-
 som arbetar med att anpassa organisationen till antalet elever. Detta arbete kommer
 fortgå under året.
 Vuxenutbildningen prognostiserar ett överskott. Detta beror främst på färre
@@ -445,7 +473,6 @@ tillfälliga boendelösningar har ökat. Bristen på bostäder är en stor utman
 kommunen och som medför flera olika konsekvenser och risk för dyra lösningar.
 Den lokala överenskommelsen med Arbetsförmedlingen, som blev klar hösten 2023,
 är framgångsrik så här långt, då det finns en samsyn om snabbaste vägen till
-
 egenförsörjning. Siffrorna inom SFI så visar de att det är lägre antal avbrott och antal
 godkända betyg ökar.
 
@@ -488,7 +515,6 @@ hälso- och sjukvård, 2024-01-16
 
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) finner att det finns ett förslag till beslut,
-
 nämligen förvaltningens förslag. Ordförande Axel Storckenfeldt (M) frågar om
 nämnden för Gymnasium & Arbetsmarknad kan anta det beslutet och finner att
 nämnden bifaller det.
@@ -532,7 +558,6 @@ arbetsmarknadsenheten. Inga frågeställningar att ta med till nämnden denna g�
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan notera informationen till protokollet och finner att nämnden
-
 bifaller det.
 
 Det här dokumentet är digitalt signerat
@@ -580,7 +605,6 @@ privata aktörer 2024-2027
 11\. Program för mål, uppföljning och insyn i verksamhet utförd av privata aktörer
 2024-2027
 12\. Godkännande av policy och riktlinjer för finansverksamhet samt regler för
-
 fakturering och kravhantering
 13\. Regler för fakturering och kravhantering
 
@@ -615,7 +639,6 @@ Datum
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan noterar informationen till protokollet och finner att nämnden
-
 bifaller det.
 
 Det här dokumentet är digitalt signerat

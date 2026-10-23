@@ -21,55 +21,86 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, 
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2024-01-24
 
-Plats och tid för Elof Lindälvs gymnasium, Sal A67 Klockan 17:00-19.40
-sammanträde
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium, Sal A67
+
+Klockan 17:00-19.40
+
 Paus kl. 18.30-18.50
 
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Henry Nellström (S) ersätter Shabnam
-Helena Nyborg (KD), 1:e vice ordförande Zamani (S)
-Jenny Nilsson (M)             Anna Thomander (S) ersätter
-May-Louise Flyrin (S)         Sebastian Lindberg (V)
-Hampus Jägnert (SD)           Maria Svärd Wänt ersätter Morgan
-Tina Hald (SD)                Johansson (M)
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
+Jenny Nilsson (M)
+May-Louise Flyrin (S)
+Hampus Jägnert (SD)
+Tina Hald (SD)
 Karin Green (C)
 Jan Eric Knutas (L)
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M)          Patrik Hellberg, förvaltningschef
-Pia Grapenstrand Kvarntun (M) Andréas Mårtensson, kvalitets- och
-Henry Nellström (S)           utvecklingschef
-Anna Thomander (S)            Johan Ronner, ekonomichef
-Osama Mohamad Mesto (C)       Karin Zetterman, verksamhetschef
-Mikael Bokerud (KD)           Kompetenscentrum
-Cindia Escalante-Mattsson,
-gymnasiechef
-Frida Svärd, enhetschef Vuxnas
-lärande §§ 2-3
-Cecilia Fossan, biträdande
-gymnasiechef, § 4
+Tjänstgörande ersättare
+Henry Nellström (S) ersätter Shabnam Zamani (S)
+Anna Thomander (S) ersätter Sebastian Lindberg (V)
+Maria Svärd Wänt ersätter Morgan Johansson (M)
 
-Personalföreträdare           Övriga
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M)
+Pia Grapenstrand Kvarntun (M)
+Henry Nellström (S)
+Anna Thomander (S)
+Osama Mohamad Mesto (C)
+Mikael Bokerud (KD)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Andréas Mårtensson, kvalitets- och utvecklingschef
+Johan Ronner, ekonomichef
+Karin Zetterman, verksamhetschef Kompetenscentrum
+Cindia Escalante-Mattsson, gymnasiechef
+Frida Svärd, enhetschef Vuxnas lärande §§ 2-3
+Cecilia Fossan, biträdande gymnasiechef, § 4
+
+Personalföreträdare
 Erik Hirmas, Sveriges lärare, ej §2
 
-Plats och tid för justering Digital justering
+Övriga
 
-Sekreterare   Andréas Mårtensson                    § 1-15
+Plats och tid för justering
+
+Digital justering
+
+Sekreterare
+
+Andréas Mårtensson
+
 Paragrafer
 
-Ordförande    Axel Storckenfeldt (M)
+§ 1-15
 
-Protokolljusterare Helena Nyborg (KD)
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Helena Nyborg (KD)
 
 <!-- sida 2 -->
 
@@ -125,7 +156,6 @@ Inkomna skrivelser till ledamöter och ersättare i nämnden ...................
 Återrapportering av program- och verksamhetsråd till nämnden .............. 18
 
 § 15 Dnr GA-2024-00007
-
 Förvaltningschef informerar .................................................................... 19
 
 Expedierat/bestyrkt
@@ -261,7 +291,6 @@ Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2023-12-27
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan notera informationen till protokollet och finner att nämnden
-
 bifaller det.
 
 Expedierat/bestyrkt
@@ -294,7 +323,6 @@ rivningskontrakt. Byggnaden kommer att rivas under sommaren 2024
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan notera informationen till protokollet och finner att nämnden
-
 bifaller det.
 
 Expedierat/bestyrkt
@@ -369,7 +397,6 @@ behovsbeskrivning avseende Fordon- och transportprogrammets lokaler vid Marios
 gata. I denna beskrivs nuläge och behov om anpassning av lokalerna samt förväntad
 nytta och konsekvensen vid utebliven anpassning. I och med nämndens godkännande
 av Lokalbehov 2025-2029 ingår nu behovet av anpassningar av lokaler vid Marios
-
 gata i kommunens övergripande lokalplaneringsprocess.
 
 Med hänvisning till ovan är förvaltningens bedömning att punkterna i förslag till
@@ -416,7 +443,7 @@ Expedierat/bestyrkt
 
 | Ledamot/tjänstgörande ersättare | Ja-röst | Nej-röst | Avstår från att rösta |
 | --- | --- | --- | --- |
-| Helena Nyborg (KD), vice<br>ordförande | X |  |  |
+| Helena Nyborg (KD), vice ordförande | X |  |  |
 | Jenny Nilsson (M) | X |  |  |
 | May-Louise Flyrin (S) |  | X |  |
 | Hampus Jägnert (SD) | X |  |  |
@@ -446,7 +473,6 @@ Sammanfattning av ärendet
 
 Verksamhetschef Karin Zetterman föredrar ärendet.
 Den generella bilden har under 2023 varit att arbetsmarknaden fortfarande är god
-
 såväl i landet som i Kungsbacka, både lågkonjunktur och det osäkra läget i
 omvärlden till trots. Arbetsmarknaden har stått emot lågkonjunkturen.
 Arbetslösheten ligger fortfarande på låga nivåer även om vi i slutet av året har kunnat
@@ -570,7 +596,6 @@ Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2024-01-03
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan godkänna redovisningen gällande delegeringsbeslut under
-
 perioden 2023-11-01 till 2023-12-31 och finner att nämnden bifaller det.
 
 Expedierat/bestyrkt
