@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.15db10fd192bd566b87a4a4d/1730447551
 sha256: 4f14eda0e64bd40924f51058a8acb9c1059fa112b7ce3c938c60e3c837599b3f
 bytes: 1083551
 sidor: 7
-hamtad: 2026-10-14T09:29:36+00:00
-konverterad: 2026-10-14T09:29:44+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T10:09:34+00:00
+konverterad: 2026-10-23T10:09:40+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ocr, ok, ok, ok]
@@ -124,8 +124,8 @@ station;
 
 beslutade den 3 juni 2024.
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 \$ andra stycket 16 och 17
-och 3 \$ första stycket trafikförordningen (1998:1276) följande.
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 § andra stycket 16 och 17
+och 3 § första stycket trafikförordningen (1998:1276) följande.
 
 Inom rödmarkerad yta på parkeringsanläggningen öster om Hede station enligt
 

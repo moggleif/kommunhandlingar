@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5b0e44671961df388b27f8e4/1744873104
 sha256: 2ffc7ae3f913ab60caa336a838d5973e80c27a7d191504339d0ec631da77ff54
 bytes: 5790730
 sidor: 120
-hamtad: 2026-10-14T06:34:46+00:00
-konverterad: 2026-10-14T06:35:15+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T06:38:53+00:00
+konverterad: 2026-10-23T06:39:26+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3896,7 +3896,7 @@ Aranäsgymnasiet, Elvira Jönsson och Emilia Löfberg åk 1-elever Aranäsgymnas
 82
 83
 
-\$4
+§4
 
 Ordförande öppnar mötet.
 

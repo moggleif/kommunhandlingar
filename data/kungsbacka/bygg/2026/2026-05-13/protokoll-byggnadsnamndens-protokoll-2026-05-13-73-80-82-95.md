@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1c3413919e1001c0e6d006d/17791731633
 sha256: 06f09c389c1f2a704f8f138b157a36978113453166f892ff2476ff225aba41db
 bytes: 398180
 sidor: 29
-hamtad: 2026-10-14T07:45:41+00:00
-konverterad: 2026-10-14T07:45:50+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T08:02:33+00:00
+konverterad: 2026-10-23T08:02:43+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -52,20 +52,20 @@ Gunnar Riksén (KD) Thinh Bui-Ljungqvist, senior
 Bo Johansson (MP) bygglovshandläggare
 Christina Nordberg, controller
 
-\$\$ 73-82
+§§ 73-82
 
-Johanna Gille, HR-specialist \$\$ 73-76
+Johanna Gille, HR-specialist §§ 73-76
 Ida Lennartsson, verksamhetschef
 Johanna Vinterhav, planarkitekt
 
-\$\$ 79-83
+§§ 79-83
 
 Sofie Axelsson, nämndsekreterare
 
 Plats och tid för justering Digital justering
 
-Sekreterare Sofie Axelsson Paragrafer \$\$ 73-80, 82-95
-\$ 81 omedelbart justerad,
+Sekreterare Sofie Axelsson Paragrafer §§ 73-80, 82-95
+§ 81 omedelbart justerad,
 se separat protokoll
 
 Ordförande Thure Sandén (M)

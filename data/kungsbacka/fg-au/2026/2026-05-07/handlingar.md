@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1587654f19ddca7e89d7c423/1777959573
 sha256: 7ec563aa305bbd0f8e69043e232099b83d7fb9081aa4c19a9734b0640e21395d
 bytes: 7050812
 sidor: 121
-hamtad: 2026-10-14T07:37:01+00:00
-konverterad: 2026-10-14T07:40:37+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T07:51:37+00:00
+konverterad: 2026-10-23T07:57:07+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -1906,7 +1906,7 @@ Handläggningen av dess ärenden utgår från riktlinjen.
 Skolval enligt skollagen (2010:800)
 
 Tillämpliga bestämmelser
-9 Kap. 15 \$ Skollagen (2010:800) gällande förskoleklass
+9 Kap. 15 § Skollagen (2010:800) gällande förskoleklass
 
 En elev ska placeras vid den av kommunens skolenheter där elevens
 vårdnadshavare önskar att eleven ska gå. Om den önskade placeringen skulle
@@ -1916,7 +1916,7 @@ Kommunen får annars frångå elevens vårdnadshavares önskemål endast om den
 önskade placeringen skulle medföra att betydande organisatoriska eller ekonomiska
 svårigheter uppstår för kommunen.
 
-10 Kap. 30 \$ Skollagen (2010:800) gällande grundskola
+10 Kap. 30 § Skollagen (2010:800) gällande grundskola
 
 En elev ska placeras vid den av kommunens skolenheter där elevens
 vårdnadshavare önskar att eleven ska gå. Om den önskade placeringen skulle
@@ -2659,7 +2659,7 @@ som gäller längre tid kan fattas.
 
 Rätt till skolskjuts
 
-Rätten till skolskjuts regleras huvudsakligen i Skollagen (9 kap. 8\$15b-15d, 10 kap.
+Rätten till skolskjuts regleras huvudsakligen i Skollagen (9 kap. 8§15b-15d, 10 kap.
 8 32-33, 11 kap. 831-32).
 
 Vårdnadshavare kan välja vilken skola deras barn ska gå på. Enligt skollagen
@@ -3173,7 +3173,7 @@ som gäller längre tid kan fattas.
 
 Rätt till skolskjuts
 
-Rätten till skolskjuts regleras huvudsakligen i Skollagen (9 kap. 8\$15b-15d, 10 kap.
+Rätten till skolskjuts regleras huvudsakligen i Skollagen (9 kap. 8§15b-15d, 10 kap.
 8 32-33, 11 kap. 831-32).
 
 Vårdnadshavare kan välja vilken skola deras barn ska gå på. Enligt skollagen
@@ -3795,7 +3795,7 @@ initierades utifrån den återkoppling som framkom i samband med tillsynen.
 SKOLINSPEKTIONEN Sida 3 (13)
 
 Efter beslutet har rektor systematiskt intensifierat arbetet med att säkerställa att samtliga
-medarbetare har kännedom om och efterlever anmälningsskyldigheten enligt 6 kap. 10 \$
+medarbetare har kännedom om och efterlever anmälningsskyldigheten enligt 6 kap. 10 §
 skollagen.
 
 a) Vad som har gjorts och hur det har gjorts
@@ -4006,7 +4006,7 @@ samtliga lärare och övrig skolpersonal om skollagens bestämmelser och
 Skolverkets allmänna råd om extra anpassningar. Huvudmannen ska
 dokumentera skriftligt när och hur informationen har förmedlats.
 Huvudmannen ska skicka in dokumentationen till Skolinspektionen med
-redovisningen av de vidtagna åtgärderna. (2 kap. 34 a \$ och 3 kap. 5 \$
+redovisningen av de vidtagna åtgärderna. (2 kap. 34 a \$ och 3 kap. 5 §
 skollagen samt Skolverkets allmänna råd, SKOLFSF 2022:334, s. 2-3).
 
 2\. Se till att elever som bedömts vara i behov av extra anpassningar ges
@@ -4267,7 +4267,7 @@ Beslut
 
 Föreläggande
 
-Skolinspektionen förelägger med stöd av 26 kap. 10 \$ skollagen (2010:800)
+Skolinspektionen förelägger med stöd av 26 kap. 10 § skollagen (2010:800)
 Kungsbacka att senast den 8 maj 2026 ha vidtagit nedan angivna åtgärder
 avseende brister rörande anmälan om kränkande behandling samt extra
 anpassningar. De vidtagna åtgärderna ska senast samma dag skriftligen
@@ -4276,7 +4276,7 @@ redovisas till Skolinspektionen.
 Om Kungsbacka kommun inte följer detta föreläggande kan mer ingripande
 sanktioner komma att aktualiseras.
 
-Beslutet om föreläggande gäller omedelbart enligt 26 kap. 10 \$ tredje
+Beslutet om föreläggande gäller omedelbart enligt 26 kap. 10 § tredje
 stycket skollagen. Beslutet om föreläggande får enligt 28 kap. 2 och 18 88
 skollagen inte överklagas.
 
@@ -4290,7 +4290,7 @@ anmälan till rektorn. Huvudmannen eller den som huvudmannen
 utser ska dokumentera när informationen har lämnats och på vilket
 sätt den har getts. Huvudmannen ska skicka in dokumentationen
 till Skolinspektionen med redovisningen av de vidtagna åtgärderna
-(2 kap. 34a 8 och 6 kap. 10 \$ skollagen).
+(2 kap. 34a 8 och 6 kap. 10 § skollagen).
 
 2\. Se till att personalen som får kännedom om att elev har ansett sig
 ha blivit utsatt för kränkande behandling i samband med
@@ -4300,7 +4300,7 @@ dokumentera hur många sådana anmälningar som har kommit in
 och som har anmälts till huvudmannen fram till och med 30 april
 2026\. Huvudmannen ska skicka in dokumentationen till
 Skolinspektionen med redovisningen av de vidtagna åtgärderna (6
-kap. 5 och 10 \$\$ skollagen).
+kap. 5 och 10 §§ skollagen).
 
 Skolinspektionen, Box 23069, 104 35 Stockholm. Telefon: 08-586 080 00
 www.skolinspektionen.se
@@ -4317,7 +4317,7 @@ och Skolverkets allmänna råd om extra anpassningar.
 Huvudmannen ska dokumentera skriftligt när och hur
 informationen har förmedlats. Huvudmannen ska skicka in
 dokumentationen till Skolinspektionen med redovisningen av de
-vidtagna åtgärderna. (2 kap. 34 a \$ och 3 kap. 5 \$ skollagen samt
+vidtagna åtgärderna. (2 kap. 34 a \$ och 3 kap. 5 § skollagen samt
 Skolverkets allmänna råd, SKOLFSF 2022:334, s. 2-3).
 
 2\. Se till att elever som bedömts vara i behov av extra anpassningar
@@ -4325,7 +4325,7 @@ ges de extra anpassningar som skolans personal har bedömt att
 eleverna är i behov av. För perioden den 9 februari till den 8 maj
 2026 ska rektorn redovisa: vilka behov som eleverna som riskerar
 att inte nå minst betyget E har, vilka elever som har behov av extra
-anpassningar samt vilka anpassningar som de har fått. (3 kap. 5 \$
+anpassningar samt vilka anpassningar som de har fått. (3 kap. 5 §
 skollagen).
 
 Avstående från ingripande
@@ -4381,9 +4381,9 @@ Skolinspektionen sin bedömning i det här fallet.
 Huvudmannen ansvarar för att utbildningen genomförs i enlighet med
 bestämmelserna i skollagen, föreskrifter som har meddelats med stöd av
 skollagen och de bestämmelser för utbildningen som kan finnas i andra
-författningar (2 kap. 8 \$ skollagen). Vidare ska huvudmannen se till att
+författningar (2 kap. 8 § skollagen). Vidare ska huvudmannen se till att
 nödvändiga åtgärder vidtas om det framkommer att det finns brister i
-verksamheten (4 kap. 7 \$ skollagen).
+verksamheten (4 kap. 7 § skollagen).
 
 Föreläggande
 Agerande vid och anmälning om kränkande behandling
@@ -4434,7 +4434,7 @@ Rättslig reglering
 
 Var och en som verkar inom utbildningen ska främja de mänskliga
 rättigheterna och aktivt motverka alla former av kränkande behandling. (1
-kap. 5 \$ skollagen)
+kap. 5 § skollagen)
 
 Huvudmannen ska se till att all personal i den verksamhet som
 huvudmannen har ansvar för enligt denna lag har nödvändiga insikter i de
@@ -4452,7 +4452,7 @@ skollagen).
 
 Huvudmannen ansvarar för att personalen fullgör de skyldigheter som
 anges i detta kapitel, när den handlar i tjänsten eller inom ramen för
-uppdraget. (6 kap. 5 \$ skollagen)
+uppdraget. (6 kap. 5 § skollagen)
 
 En lärare eller annan personal som får kännedom om att ett barn eller en
 elev anser sig ha blivit utsatt för kränkande behandling i samband med
@@ -4467,7 +4467,7 @@ kränkande behandling i samband med verksamheten är skyldig att anmäla
 detta till huvudmannen. Huvudmannen är skyldig att skyndsamt utreda
 omständigheterna kring de uppgivna kränkningarna och i förekommande
 fall vidta de åtgärder som skäligen kan krävas för att förhindra kränkande
-behandling i framtiden. (6 kap. 10 \$ skollagen)
+behandling i framtiden. (6 kap. 10 § skollagen)
 
 Av förarbetena till skollagen framgår bland annat att skyldigheten att
 utreda gäller så fort det kommit till skolans kännedom att det förekommit
@@ -4596,9 +4596,9 @@ resultatet på ett nationellt prov eller uppgifter från lärare, övrig
 skolpersonal, en elev eller en elevs vårdnadshavare eller på annat sätt
 framkommer att det kan befaras att en elev inte kommer att uppfylla de
 betygskriterier eller kriterier för bedömning av kunskaper som minst ska
-uppfyllas, och inte annat följer av 7 \$, ska eleven skyndsamt ges stöd i form
+uppfyllas, och inte annat följer av 7 §, ska eleven skyndsamt ges stöd i form
 av extra anpassningar inom ramen för den ordinarie undervisningen. (3
-kap. 5 \$ skollagen).
+kap. 5 § skollagen).
 
 Om det inom ramen för undervisningen, genom användning av ett
 nationellt kartläggningsmaterial eller ett nationellt bedömningsstöd,
@@ -4607,9 +4607,9 @@ skolpersonal, en elev eller en elevs vårdnadshavare eller på annat sätt
 framkommer att det kan befaras att en elev inte kommer att uppfylla de
 betygskriterier eller kriterier för bedömning av kunskaper som minst ska
 uppfyllas, trots att stöd har getts i form av extra anpassningar inom ramen
-för den ordinarie undervisningen enligt 5 \$, ska detta anmälas till rektorn.
+för den ordinarie undervisningen enligt 5 §, ska detta anmälas till rektorn.
 Detsamma gäller om det finns särskilda skäl att anta att sådana
-anpassningar inte skulle vara tillräckliga. (3 kap. 7 \$ skollagen).
+anpassningar inte skulle vara tillräckliga. (3 kap. 7 § skollagen).
 
 Av förarbetena till 3 kap. 5 8 skollagen framgår bland annat att stöd i form
 av extra anpassningar är till exempel att hjälpa en elev med att planera och
@@ -4691,7 +4691,7 @@ Val av ingripande
 
 Skolinspektionen får förelägga en huvudman som står under dess tillsyn att
 fullgöra sina skyldigheter, om verksamheten inte uppfyller de krav som
-följer av de föreskrifter som gäller för verksamheten (26 kap. 10 \$
+följer av de föreskrifter som gäller för verksamheten (26 kap. 10 §
 skollagen).
 
 Kungsbacka kommuns verksamhet vid Särö skola 6-9 uppfyller inte
@@ -4763,14 +4763,14 @@ andra ämnen.
 Rättslig reglering
 
 Den totala undervisningstiden för varje elev i grundskolan ska vara minst 6
-890 timmar (10 kap. 5 \$ skollagen).
+890 timmar (10 kap. 5 § skollagen).
 
 Av skolförordningen framgår att huvudmannen får besluta om ytterligare
 undervisningstid utöver den garanterade undervisningstiden.
 Huvudmannen beslutar efter förslag av rektorn om fördelning mellan
 årskurserna av undervisningstiden. Av bilaga 1 till förordningen framgår
 bestämmelser om fördelning av den garanterade undervisningstiden
-(timplan) (9 kap. 3-4 \$\$ samt bilaga 1 skolförordningen 2011:185).
+(timplan) (9 kap. 3-4 §§ samt bilaga 1 skolförordningen 2011:185).
 
 <!-- sida 103 -->
 
@@ -4854,9 +4854,9 @@ framgå. Av programmet ska det också framgå när åtgärderna ska följas upp
 och utvärderas och vem som är ansvarig för uppföljningen respektive
 utvärderingen. Eleven och elevens vårdnadshavare ska ges möjlighet att
 delta när ett åtgärdsprogram utarbetas. Åtgärdsprogrammet beslutas av
-rektorn. Om en utredning enligt 7 \$ visar att eleven inte behöver särskilt
+rektorn. Om en utredning enligt 7 § visar att eleven inte behöver särskilt
 stöd, ska rektorn eller den som rektorn har överlåtit beslutanderätten till i
-stället besluta att ett åtgärdsprogram inte ska utarbetas. (3 kap. 9 \$
+stället besluta att ett åtgärdsprogram inte ska utarbetas. (3 kap. 9 §
 skollagen).
 
 Skolinspektionens bedömning
@@ -4927,14 +4927,14 @@ med på.
 SKOLINSPEKTIONEN Sida 14 (14)
 
 Rättslig reglering
-För varje ämne ska en kursplan gälla. (10 kap. 8 \$ skollagen)
+För varje ämne ska en kursplan gälla. (10 kap. 8 § skollagen)
 
-För grundskolan gäller en läroplan enligt 1 kap. 11 \$ första stycket
+För grundskolan gäller en läroplan enligt 1 kap. 11 § första stycket
 skollagen. Läroplanen finns i förordningen (SKOLFS 2010:37) om läroplan
-för grundskolan, förskoleklassen och fritidshemmet. Av 3 \$ samma
+för grundskolan, förskoleklassen och fritidshemmet. Av 3 § samma
 förordning framgår att kursplaner för grundskolans ämnen ingår i
 läroplanen och att kursplanerna kompletteras av kriterier för bedömning
-av kunskaper och betygskriterier. (9 kap. 1 \$ skolförordningen)
+av kunskaper och betygskriterier. (9 kap. 1 § skolförordningen)
 
 Av kursplanen i ämnet svenska som andraspråk framgår ämnets centrala
 innehåll (Läroplan för grundskolan, Lgr 22, 5. Kursplaner)
@@ -4987,7 +4987,7 @@ Särövägen 339. Huvudmannen har sedan tidigare ett beslut gällande ansökan o
 förskoleverksamhet daterat 02-06-02 som omfattar 15—16 barn. Ansökan gäller en utökning från 16 till
 20 barn.
 
-Enligt skollagen kap 2 \$ 5 ska kommunen godkänna enskilda som vill bedriva förskoleverksamhet om
+Enligt skollagen kap 2 § 5 ska kommunen godkänna enskilda som vill bedriva förskoleverksamhet om
 den enskilde bedöms besitta insikt, har ekonomiska förutsättningar och i övrigt har förutsättningar att
 följa de föreskrifter som gäller för utbildningen. Den enskilde ska även bedömas lämplig. Utbildningen
 ska inte heller innebära påtagliga negativa följder på lång sikt för kommunens förskoleverksamhet.
@@ -5063,7 +5063,7 @@ förskoleverksamheten.
 Förvaltningen bedömer att en permanent utökning till 20 barn kan godkännas.
 
 Rättslig reglering
-Enligt 2 kap. 5 \$ skollagen ska godkännande lämnas om den enskilde:
+Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 
 1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
@@ -5077,7 +5077,7 @@ KUNGSBACKA KOMMUN
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
-I fråga om en juridisk person krävs att samtliga som anges i 2 kap. 5 a \$ 1-4 bedöms lämpliga. Vid
+I fråga om en juridisk person krävs att samtliga som anges i 2 kap. 5 a § 1-4 bedöms lämpliga. Vid
 lämplighetsbedömningen ska viljan och förmågan att fullgöra sina skyldigheter mot det allmänna,
 laglydnad i övrigt och andra omständigheter av betydelse beaktas.
 
@@ -5228,7 +5228,7 @@ Förskolekooperativet Myrstacken i Åsa Ekonomisk förening har inkommit med en 
 utökning av barnantal på förskolan Myrstacken, Kumlabacken 9. Huvudmannen har sedan 2024-05-15
 ett beslut som omfattar 21 barn i sin verksamhet. Ansökan gäller en utökning från 21 till 22 barn.
 
-Enligt skollagen kap 2 \$ 5 ska kommunen godkänna enskilda som vill bedriva förskoleverksamhet om
+Enligt skollagen kap 2 § 5 ska kommunen godkänna enskilda som vill bedriva förskoleverksamhet om
 den enskilde bedöms besitta insikt, har ekonomiska förutsättningar och i övrigt har förutsättningar att
 följa de föreskrifter som gäller för utbildningen. Den enskilde ska även bedömas lämplig. Utbildningen
 ska inte heller innebära påtagliga negativa följder på lång sikt för kommunens förskoleverksamhet.
@@ -5302,7 +5302,7 @@ förskoleverksamheten.
 Förvaltningen bedömer att en permanent utökning till 22 barn kan godkännas.
 
 Rättslig reglering
-Enligt 2 kap. 5 \$ skollagen ska godkännande lämnas om den enskilde:
+Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 
 1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
@@ -5316,7 +5316,7 @@ KUNGSBACKA KOMMUN
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
-I fråga om en juridisk person krävs att samtliga som anges i 2 kap. 5 a \$ 1-4 bedöms lämpliga. Vid
+I fråga om en juridisk person krävs att samtliga som anges i 2 kap. 5 a § 1-4 bedöms lämpliga. Vid
 lämplighetsbedömningen ska viljan och förmågan att fullgöra sina skyldigheter mot det allmänna,
 laglydnad i övrigt och andra omständigheter av betydelse beaktas.
 

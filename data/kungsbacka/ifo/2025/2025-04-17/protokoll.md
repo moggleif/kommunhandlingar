@@ -5,19 +5,19 @@ datum: 2025-04-17
 lopnr: null
 typ: protokoll
 namn: null
-kallnyckel: sitevision:18.bf4d0b1965b8a126d1c61d
-tidigare_kallnycklar: []
+kallnyckel: sitevision:18.33df50461a157e1b9001cec
+tidigare_kallnycklar: [sitevision:18.bf4d0b1965b8a126d1c61d]
 arenden: null
-kalla_url: https://kungsbacka.se/download/18.bf4d0b1965b8a126d1c61d/1745419059872/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202025-04-17,%20%C2%A7%C2%A7%2038-52.pdf
-sha256: f77fb3f0600e541037faa0feeba091c58e1ce88bdf20fb9397b5c736aa92abd2
-bytes: 359038
-sidor: 24
-hamtad: 2026-10-14T09:58:41+00:00
-konverterad: 2026-10-14T09:58:48+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kalla_url: https://kungsbacka.se/download/18.33df50461a157e1b9001cec/1792480781391/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202025-04-17,%20%C2%A7%C2%A7%2038-52.pdf
+sha256: 8ceef846a84caff30c52aadc514afb098c798e6dd8a8e1c9b649af8814ab416c
+bytes: 323307
+sidor: 22
+hamtad: 2026-10-23T06:09:09+00:00
+konverterad: 2026-10-23T06:09:15+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
@@ -796,90 +796,6 @@ Transaktionsidentitet: E2FAD2FE9F2F7625054C7DD6288157880B54F98E2A
 
 <!-- sida 19 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          19 (22)
-Nämnden för Individ & Familjeomsorg
-Datum
-2025-04-17
-
-§ 50                       Dnr IF-2024-00012
-Redovisning av domar och beslut
-
-Beslut
-
-Nämnden för Individ & Familjeomsorg noterar redovisningen av inkomna domar och
-beslut till protokollet
-
-Sammanfattning av ärendet
-Redovisning för perioden 2025-03-01 – 2025-03-31.
-
-Kammarrätten i Göteborg, KR
-Beslut meddelat i mål nr. 8115-24, daterad 2025-03-19, saken; individen har
-överklagat Förvaltningsrättens dom gällande personlig assistans; fråga om
-prövningstillstånd. Kammarrätten meddelar inte prövningstillstånd.
-Förvaltningsrättens avgörande står därmed fast.
-
-Förvaltningsrätten i Göteborg, FR
-
-Dom meddelad i mål nr. 12826-24, daterad 2025-03-17, saken; laglighetsprövning
-enligt kommunallagen, överklagan av kommunfullmäktiges beslut gällande
-införande av tolkavgift. Förvaltningsrätten upphäver det överklagade beslutet.
-Dom meddelad i mål nr. 11076-24, daterad 2025-03-27, saken; den enskilde har
-överklagat nämndens beslut om radering och rättelse av personuppgifter m.m.
-Förvaltningsrätten avslår överklagandet.
-
-Dom meddelad i mål nr. 12617-24, daterad 2025-03-27, saken; den enskilde har
-överklagat nämndens beslut gällande avvisning av för sent inkommit överklagande.
-Förvaltningsrätten avslår överklagandet.
-
-Inspektionen för vård och omsorg, IVO
-Dnr IF-2024-00312. Inspektionen för vård och omsorg, IVO, dnr 3.3.1-31500/2023-
-5, avslutar ärendet. IVO bedömer mot bakgrund av de redovisade omständigheterna i
-ärendet att det inte finns skäl att ansöka om utdömande av särskild avgift hos
-
-förvaltningsrätten.
-
-Dnr IF-2024-00244. Inspektionen för vård och omsorg, IVO, dnr 3.3.1-31500/2023-
-5, avslutar ärendet och kommer inte att vidta några ytterligare åtgärder. IVO
-bedömer att huvudmannen, efter komplettering, har fullgjort sin utrednings- och
-anmälningsskyldighet i enlighet med 24 e-f §§ lagen (1993:387) om stöd och service
-till vissa funktionshindrade, LSS.
-
-Det här dokumentet är digitalt signerat
-Transaktionsidentitet: D37C6CB15F55CE75AFEE4FB2D01CFD65FE9883356A
-Transaktionsidentitet: E2FAD2FE9F2F7625054C7DD6288157880B54F98E2A
-
-<!-- sida 20 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          20 (22)
-Nämnden för Individ & Familjeomsorg
-Datum
-2025-04-17
-
-Boverket
-Dnr 2022-00060. Beslut om statligt bidrag för kommunala hyresgarantier.
-
-Kommunfullmäktige, KF
-KF 2025 § 33 Fastställande av koncernbudget 2025
-
-Kommunstyrelsen, KS
-
-KS 2025 § 54 Uppföljning av intern kontroll 2024 för Kungsbacka kommun
-
-Beslutsunderlag
-
-Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2025-04-02
-
-Beslutsgång
-
-Ordförande Tommy Rydfeldt (L) prövar om nämnden kan notera redovisningen av
-inkomna domar och beslut till protokollet, och finner att nämnden bifaller det.
-
-Det här dokumentet är digitalt signerat
-Transaktionsidentitet: D37C6CB15F55CE75AFEE4FB2D01CFD65FE9883356A
-Transaktionsidentitet: E2FAD2FE9F2F7625054C7DD6288157880B54F98E2A
-
-<!-- sida 21 -->
-
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          21 (22)
 Nämnden för Individ & Familjeomsorg
 Datum
@@ -931,7 +847,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: D37C6CB15F55CE75AFEE4FB2D01CFD65FE9883356A
 Transaktionsidentitet: E2FAD2FE9F2F7625054C7DD6288157880B54F98E2A
 
-<!-- sida 22 -->
+<!-- sida 20 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          22 (22)
 Nämnden för Individ & Familjeomsorg
@@ -970,7 +886,7 @@ Det här dokumentet är digitalt signerat
 Transaktionsidentitet: D37C6CB15F55CE75AFEE4FB2D01CFD65FE9883356A
 Transaktionsidentitet: E2FAD2FE9F2F7625054C7DD6288157880B54F98E2A
 
-<!-- sida 23 -->
+<!-- sida 21 -->
 
 Undertecknat    av följande personer
 
@@ -986,7 +902,7 @@ Underskriftstjänst:     Visma Underskriftstjänst
 
 © Visma
 
-<!-- sida 24 -->
+<!-- sida 22 -->
 
 Dokumentet   är signerat av Ciceron DoÄ
 

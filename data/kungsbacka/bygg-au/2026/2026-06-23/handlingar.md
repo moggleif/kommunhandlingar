@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.657a7c4219ed4412bae162/178167906958
 sha256: 1693b50ea8b7e4a36510555bdb84829edf995efb9bbd639beee5a3629071ca36
 bytes: 23827090
 sidor: 123
-hamtad: 2026-10-14T08:24:16+00:00
-konverterad: 2026-10-14T08:26:13+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T08:54:02+00:00
+konverterad: 2026-10-23T08:56:34+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -6546,7 +6546,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (3)
 Kommunstyrelsen Datum
 2026-05-26
 
-\$ 128 Dnr KS-2024-00261
+§ 128 Dnr KS-2024-00261
 
 Godkännande av projektbeställning samt överlämnande för att upprätta
 detaljplan för bostäder och service inom del av Vallda 20:3 m fl
@@ -6645,11 +6645,11 @@ Processbeskrivning för exploatörsdriven planprocess i Kungsbacka kommun.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2026-05-12, \$ 185
+Kommunstyrelsens arbetsutskott 2026-05-12, § 185
 Kommunstyrelsens förvaltnings tjänsteskrivelse, 2026-04-22
 Projektbeställning, 2026-04-22
 
-Kommunstyrelsen 2024-03-19, \$ 76
+Kommunstyrelsen 2024-03-19, § 76
 
 Översiktskarta
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1722ec5a1900ff6cbab106e/17183629925
 sha256: ea03bf23deece70a621415a7d09de028991241c144f41963804cf880383d7e99
 bytes: 79332559
 sidor: 442
-hamtad: 2026-10-14T08:43:39+00:00
-konverterad: 2026-10-14T08:49:04+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T09:15:47+00:00
+konverterad: 2026-10-23T09:22:34+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker]
@@ -3772,18 +3772,18 @@ Bakgrund
 
 Länsstyrelsen har den 24 oktober 2023 fått in en begäran från BERNIIIIIIN om att Länsstyrelsen ska pröva
 om området Västra Hagen i Kungsbacka kommun omfattas av kommunalt ansvar enligt lagen om allmänna
-vattentjänster avseende vattentjänsten dagvatten. I lagen (2006:412) om allmänna vattentjänster anges i 6 \$
+vattentjänster avseende vattentjänsten dagvatten. I lagen (2006:412) om allmänna vattentjänster anges i 6 §
 sammanfattningsvis att om det med hänsyn till skyddet för människors hälsa eller miljön behöver ordnas
 vattenförsörjning eller avlopp i ett större sammanhang så är det kommunalt ansvar att ordna detta. Det är med
-stöd av 51 \$ som Länsstyrelsen utövar tillsynen över att kommunen fullgör denna skyldighet.
+stöd av 51 § som Länsstyrelsen utövar tillsynen över att kommunen fullgör denna skyldighet.
 
 Nedan lyder Förvaltningen för Tekniks svar på Länsstyrelsens 16 frågor kring Kungsbacka kommuns syn på
-ansvarsfrågan enligt 6 \$ lagen om allmänna vattentjänster i Västra Hagen.
+ansvarsfrågan enligt 6 § lagen om allmänna vattentjänster i Västra Hagen.
 
 Sammanfattning
 
 Nämnden för Teknik får härmed yttra sig enligt Länsstyrelsens i Hallands län, Länsstyrelsen, begäran
-2024-02-27 och lämna Tekniks syn på ansvarsfrågan enligt 6 \$ lagen om allmänna vattentjänster (LAV).
+2024-02-27 och lämna Tekniks syn på ansvarsfrågan enligt 6 § lagen om allmänna vattentjänster (LAV).
 
 Nämnden för Tekniks bedömning är att:
 

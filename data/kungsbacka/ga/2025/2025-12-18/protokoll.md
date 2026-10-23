@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.58e850c319b35598f861b2b/17661556999
 sha256: fd271f96ef2c7db3d4d3ddf6d8142e9b79c9ecc2bf41f041d8f5aeb9fe5ed1f1
 bytes: 347421
 sidor: 7
-hamtad: 2026-10-14T06:19:08+00:00
-konverterad: 2026-10-14T06:19:16+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T06:19:53+00:00
+konverterad: 2026-10-23T06:20:05+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr]
@@ -118,14 +118,14 @@ Alexandra Cameron, utvecklare
 Camilla Pålsson, verksamhetschef \$
 145
 
-Anna Danielsson, jurist \$ 145
-Maria Åsberg, rektor \$ 146
+Anna Danielsson, jurist § 145
+Maria Åsberg, rektor § 146
 
-Marie Andersson, rektor \$ 147
-Hannah Tengelin, rektor \$ 147
-Angela Lyrhagen, enhetschef \$ 148
+Marie Andersson, rektor § 147
+Hannah Tengelin, rektor § 147
+Angela Lyrhagen, enhetschef § 148
 
-\$ 144 - 161
+§ 144 - 161
 
 Paragrafer
 
@@ -137,7 +137,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (5)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-12-18
 
-\$ 155 Dnr GA-2020-00182
+§ 155 Dnr GA-2020-00182
 IOP Erikshjälpen
 
 Beslut
@@ -187,7 +187,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (5)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-12-18
 
-\$ 156 Dnr GA-2025-00049
+§ 156 Dnr GA-2025-00049
 IOP Onsala församling
 
 Beslut

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.77ab358719eb489f94770f2/17812491716
 sha256: dcac61800a7a6efcb73d249b556dc971a7dc1abee192b0cd26734762e24c9647
 bytes: 2209253
 sidor: 18
-hamtad: 2026-10-14T10:23:06+00:00
-konverterad: 2026-10-14T10:23:35+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T10:52:03+00:00
+konverterad: 2026-10-23T10:52:40+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -35,9 +35,9 @@ Plats och tid för Nordhallands hembygdsmuseum Klockan 17:00 — 20:16
 sammanträde
 Beslutande Ledamöter Tjänstgörande ersättare
 Annika Hedman (C), Ordförande Birgitta Gustafsson (L) för Markus
-Maria Gathendahl (M), 1:e vice ordförande Räden (V) \$\$ 71-72
+Maria Gathendahl (M), 1:e vice ordförande Räden (V) §§ 71-72
 Ulrika Jörgensen (M) Alireza Sherzad (S) för Magnus Calén
-Charlotte Wallenstein (M) (S) \$\$ 71-84
+Charlotte Wallenstein (M) (S) §§ 71-84
 Annika Hamberg (M)
 Birgitta Tingdal (S)
 Torbjörn Andersson (SD)
@@ -63,7 +63,7 @@ hembygdsförening
 Ingun Adolfsson, Nordhallands
 hembygdsförening
 Plats och tid för justering — Digitalt, 2026-06-12
-Sekreterare Erik Norinder Paragrafer \$\$ 71-84
+Sekreterare Erik Norinder Paragrafer §§ 71-84
 
 Ordförande Annika Hedman (C)
 
@@ -79,7 +79,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (18)
 Nämnden för Kultur & Fritid Dalin
 2026-06-10
 
-\$ 71 Dnr KFT-2026-00153
+§ 71 Dnr KFT-2026-00153
 Anmälan av jäv
 
 Beslut
@@ -108,7 +108,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (18)
 Nämnden för Kultur & Fritid Dalin
 2026-06-10
 
-\$ 72 Dnr KFT-2026-00143
+§ 72 Dnr KFT-2026-00143
 
 Information till nämnd: Nordhallands hembygdsmuseum berättar om
 sin verksamhet
@@ -141,7 +141,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (18)
 Nämnden för Kultur & Fritid Dalin
 2026-06-10
 
-\$ 73 Dnr KFT-2026-00148
+§ 73 Dnr KFT-2026-00148
 Informationshanteringsplan för nämnden för Kultur & Fritid 2026
 
 Beslut
@@ -154,7 +154,7 @@ därmed att gälla.
 
 Sammanfattning av ärendet
 
-I Kungsbacka kommuns riktlinjer för informationsförvaltning (KS 10 januari 2023 \$
+I Kungsbacka kommuns riktlinjer för informationsförvaltning (KS 10 januari 2023 §
 16\) framgår att varje myndighet ska ha en klassificeringsstruktur,
 informationshanteringsplan och informationsbeskrivning. Dessa utgör tillsammans
 myndighetens informationsredovisning.
@@ -216,7 +216,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 8 (18)
 Nämnden för Kultur & Fritid Dalin
 2026-06-10
 
-\$ 74 Dnr KFT-2026-00145
+§ 74 Dnr KFT-2026-00145
 
 Information till nämnd: uppdatering kring förvaltningens arbete med
 social hållbarhet
@@ -249,7 +249,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (18)
 Nämnden för Kultur & Fritid Dalin
 2026-06-10
 
-\$ 75 Dnr KFT-2026-00146
+§ 75 Dnr KFT-2026-00146
 Information till nämnd: uppdatering inför sommaren
 
 Beslut
@@ -280,7 +280,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 10 (18)
 Nämnden för Kultur & Fritid Dalin
 2026-06-10
 
-\$ 76 Dnr KFT-2026-00149
+§ 76 Dnr KFT-2026-00149
 Information till nämnd: de taktiska grupperna i Främjande Fyran
 
 Beslut
@@ -311,7 +311,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 11 (18)
 
 Nämnden för Kultur & Fritid Dalin
 2026-06-10
-\$ 77 Dnr KFT-2026-00161
+§ 77 Dnr KFT-2026-00161
 Initiativ från Alliansen - Processer vid större investeringar i offentlig
 konst
 Beslut
@@ -358,7 +358,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 12 (18)
 Nämnden för Kultur & Fritid Dalin
 2026-06-10
 
-\$ 78 Dnr KFT-2026-00166
+§ 78 Dnr KFT-2026-00166
 
 Initiativ från Sverigedemokraterna - Stärkt stöd till lokala
 kulturföreningar och svensk kulturtradition
@@ -407,7 +407,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 13 (18)
 Nämnden för Kultur & Fritid Dalin
 2026-06-10
 
-\$ 79 Dnr KFT-2026-00167
+§ 79 Dnr KFT-2026-00167
 
 Initiativ från Sverigedemokraterna - Förbättrad belysning
 och trygghet vid motionsspår och idrottsanläggningar
@@ -456,7 +456,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 14 (18)
 Nämnden för Kultur & Fritid Dalin
 2026-06-10
 
-\$ 80 Dnr KFT-2026-00162
+§ 80 Dnr KFT-2026-00162
 
 Initiativ från Socialdemokraterna - Lyft ftrtam Kungsbackas
 handelshistoria
@@ -509,7 +509,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 15 (18)
 Nämnden för Kultur & Fritid Dalin
 2026-06-10
 
-\$ 81 Dnr KFT-2026-00150
+§ 81 Dnr KFT-2026-00150
 Anmälan av delegeringsbeslut juni 2026
 
 Beslut
@@ -548,7 +548,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 16 (18)
 Nämnden för Kultur & Fritid Dalin
 2026-06-10
 
-\$ 82 Dnr KFT-2026-00151
+§ 82 Dnr KFT-2026-00151
 Redovisning av inkomna skrivelser
 
 Beslut
@@ -580,7 +580,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 17 (18)
 Nämnden för Kultur & Fritid Dalin
 2026-06-10
 
-\$ 83 Dnr KFT-2026-00157
+§ 83 Dnr KFT-2026-00157
 Information till nämnd: planeringsdag 2026
 
 Beslut
@@ -610,7 +610,7 @@ Transaktionsidentitet: 7D18D79C8D33BA78DA7162186F0D072A2CA38CBD2A
 KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 18 (18)
 Nämnden för Kultur & Fritid Dalin
 
-\$ 84
+§ 84
 
 2026-06-10
 

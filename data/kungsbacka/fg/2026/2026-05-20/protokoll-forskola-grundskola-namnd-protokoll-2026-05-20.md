@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5025299019e4ad5ed2c975e/17794527084
 sha256: 7fe3adb6d9ca229c671a10c214a869678cc503385ba8f8840d5044e8ccbd0f20
 bytes: 1350624
 sidor: 21
-hamtad: 2026-10-14T06:50:24+00:00
-konverterad: 2026-10-14T06:50:56+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T06:57:53+00:00
+konverterad: 2026-10-23T06:58:35+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -70,7 +70,7 @@ Susanne Andersson (SD)
 
 Peter Lundin (C)
 
-Jenny Thorbjörnsson (KD) \$\$ 48-56, 59-62
+Jenny Thorbjörnsson (KD) §§ 48-56, 59-62
 
 Jan-Christer Jansson (V)
 
@@ -103,20 +103,20 @@ Marie-Louise Alfvegren (M) ersätter
 Paul Blomdahl (M)
 
 Marie Wadström (KD) ersätter Jenny
-Thorbjörnsson (KD) \$\$ 57-58
+Thorbjörnsson (KD) §§ 57-58
 
 Tjänstepersoner
 
 Karin Steneros Einvall,
-utvecklingsledare \$ 51
+utvecklingsledare § 51
 
-Gustav Sjöström, ekonomichef \$ 52
-Frida Byrsten, verksamhetschef \$\$ 53,
+Gustav Sjöström, ekonomichef § 52
+Frida Byrsten, verksamhetschef §§ 53,
 54, 55, 56, 57
 
-Fredrik Ajell, utvecklare \$ 54
+Fredrik Ajell, utvecklare § 54
 
-Per Ivarsson, utvecklare \$ 62
+Per Ivarsson, utvecklare § 62
 
 Maria Eriksson, biträdande
 förvaltningschef
@@ -125,7 +125,7 @@ Lars Sundbom, utvecklare
 
 Övriga
 
-\$\$ 48-62
+§§ 48-62
 
 Paragrafer
 
@@ -136,56 +136,56 @@ Nämnden för Förskola & Grundskola Datum
 2026-05-20
 
 Innehåll
-\$48 Dnr FG-2026-00014
+§48 Dnr FG-2026-00014
 
-Fastställande av dagordning och val av justerare.............sssssossssorerersoreresnnns 4
-\$49 Dnr FG-2026-00017
+Fastställande av dagordning och val av justerare .... 4
+§49 Dnr FG-2026-00017
 
-Förvaltningscentral samverkansprotokoll 2026 .........ssssssssssrsrsrssssrrrrrrsssrsnnr 5
-\$ 50 Dnr FG-2026-00042
+Förvaltningscentral samverkansprotokoll 2026 .... 5
+§ 50 Dnr FG-2026-00042
 
-Redovisning av inkomna skrivelser till nämnd 2026 s.......sssssssssssererrrrsrsssnne 6
-\$ 51 Dnr FG-2026-00182
+Redovisning av inkomna skrivelser till nämnd 2026 s .... 6
+§ 51 Dnr FG-2026-00182
 
 Resultat vårdnadshavareenkät förskola 2026 ..ssssesssssersrsrssrersssereressnrrrernrrs 7
-\$ 52 Dnr FG-2026-00231
+§ 52 Dnr FG-2026-00231
 
 Uppföljning och prognos Per aPpril..sssssssssssrrssssrersrsrrerersrrrreserrrnrssrrnrerrrrnr er nn 8
-\$ 53 Dnr FG-2026-00274
+§ 53 Dnr FG-2026-00274
 
-Användande av resultatfond, två-lärarsyStelm...............ssssssersrsrserersrserrrsrnrnn 9
-\$ 54 Dnr FG-2026-00249
+Användande av resultatfond, två-lärarsyStelm .... 9
+§ 54 Dnr FG-2026-00249
 
-Årsrapport dataskydd & informationssäkerhet 2025-2026 ....................... 11
-\$ 55 Dnr FG-2026-00269
+Årsrapport dataskydd & informationssäkerhet 2025-2026 .... 11
+§ 55 Dnr FG-2026-00269
 
 Revidering av Kungsbacka kommuns riktlinje för skolval och skolplacering
 
-i förskoleklass och grundSkOla...........ssssesssessrersrsererersrrrrrssrrrrerrrrrerrrrrrrrnr ra 12
-\$ 56 Dnr FG-2026-00273
+i förskoleklass och grundSkOla .... 12
+§ 56 Dnr FG-2026-00273
 
-Skolval och skolplacering, redovisning enligt nämndens årshjul.............. 13
-\$ 57 Dnr FG-2026-00260
+Skolval och skolplacering, redovisning enligt nämndens årshjul .... 13
+§ 57 Dnr FG-2026-00260
 
-Revidering av regler för SKOIsKjUtS ...........sssessersrrsrrerrsserrrrrrreereserrrrrrrerrrnnt 14
-\$ 58 Dnr FG-2026-00130
+Revidering av regler för SKOIsKjUtS .... 14
+§ 58 Dnr FG-2026-00130
 
 Ansökan från Särö pastorat gällande permanent utökning av barnantal på
 
-förskolan PrästkragZenh.......sssesssesesesersrrrrreeressrrrrrrreersrrrrrrrrrrrrrrrrrrrrrrrrr rn rn rna 15
-\$ 59 Dnr FG-2026-00232
+förskolan PrästkragZenh .... 15
+§ 59 Dnr FG-2026-00232
 
 Ansökan från Förskolekooperativet Myrstacken i Åsa Ekonomisk förening
 
-gällande permanent utökning av barnantal på förskolan Myrstacken........ 16
-\$60 Dnr FG-2026-00323
+gällande permanent utökning av barnantal på förskolan Myrstacken .... 16
+§60 Dnr FG-2026-00323
 
 Entledigande och fyllnadsval till arbetsutskottet för Förskola & grundskola.
 
 isereseeesrerssrersreresrrrerer ere reser rss r reser r ers ser RR ERS RR R REK RSKR RNE K KRK RADER RR RR KRK RR er rr e rn 17
-\$ 61 Dnr FG-2026-00018
+§ 61 Dnr FG-2026-00018
 
-Delegeringsbeslut antagna av nämnden 2026.........ssssssersrsssrrrsrssrerersrrrrernn 18
+Delegeringsbeslut antagna av nämnden 2026 .... 18
 
 2 (19)
 
@@ -200,8 +200,8 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (19)
 Nämnden för Förskola & Grundskola Datum
 2026-05-20
 
-\$62 Dnr FG-2026-00016
-Information - Förskola & Grundskola arbetsutskott och nämnd ............... 19
+§62 Dnr FG-2026-00016
+Information - Förskola & Grundskola arbetsutskott och nämnd .... 19
 
 Det här dokumentet är digitalt signerat
 
@@ -215,7 +215,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (19)
 Nämnden för Förskola & Grundskola Datum
 2026-05-20
 
-\$ 48 Dnr FG-2026-00014
+§ 48 Dnr FG-2026-00014
 Fastställande av dagordning och val av justerare
 
 Beslut
@@ -243,7 +243,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (19)
 Nämnden för Förskola & Grundskola Datum
 2026-05-20
 
-\$ 49 Dnr FG-2026-00017
+§ 49 Dnr FG-2026-00017
 Förvaltningscentral samverkansprotokoll 2026
 
 Beslut
@@ -280,7 +280,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (19)
 Nämnden för Förskola & Grundskola Datum
 2026-05-20
 
-\$ 50 Dnr FG-2026-00042
+§ 50 Dnr FG-2026-00042
 Redovisning av inkomna skrivelser till nämnd 2026
 
 Beslut
@@ -309,7 +309,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7.19)
 Nämnden för Förskola & Grundskola Datum
 2026-05-20
 
-\$ 51 Dnr FG-2026-00182
+§ 51 Dnr FG-2026-00182
 Resultat vårdnadshavareenkät förskola 2026
 
 Beslut
@@ -360,7 +360,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 819)
 Nämnden för Förskola & Grundskola Datum
 2026-05-20
 
-\$ 52 Dnr FG-2026-00231
+§ 52 Dnr FG-2026-00231
 Uppföljning och prognos per april
 
 Beslut
@@ -383,7 +383,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (19)
 Nämnden för Förskola & Grundskola Datum
 2026-05-20
 
-\$ 53 Dnr FG-2026-00274
+§ 53 Dnr FG-2026-00274
 Användande av resultatfond, två-lärarsystem
 
 Beslut
@@ -461,7 +461,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 11 (19)
 Nämnden för Förskola & Grundskola Datum
 2026-05-20
 
-\$ 54 Dnr FG-2026-00249
+§ 54 Dnr FG-2026-00249
 Årsrapport dataskydd & informationssäkerhet 2025-2026
 
 Beslut
@@ -513,7 +513,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 12 (19)
 Nämnden för Förskola & Grundskola Datum
 2026-05-20
 
-\$ 55 Dnr FG-2026-00269
+§ 55 Dnr FG-2026-00269
 
 Revidering av Kungsbacka kommuns riktlinje för skolval och
 skolplacering i förskoleklass och grundskola
@@ -570,7 +570,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 13 (19)
 Nämnden för Förskola & Grundskola Datum
 2026-05-20
 
-\$ 56 Dnr FG-2026-00273
+§ 56 Dnr FG-2026-00273
 Skolval och skolplacering, redovisning enligt nämndens årshjul
 
 Beslut
@@ -612,7 +612,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 14 (19)
 Nämnden för Förskola & Grundskola Datum
 2026-05-20
 
-\$ 57 Dnr FG-2026-00260
+§ 57 Dnr FG-2026-00260
 Revidering av regler för skolskjuts
 
 Beslut
@@ -663,7 +663,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 15 (19)
 Nämnden för Förskola & Grundskola Datum
 2026-05-20
 
-\$ 58 Dnr FG-2026-00130
+§ 58 Dnr FG-2026-00130
 
 Ansökan från Särö pastorat gällande permanent utökning av barnantal
 på förskolan Prästkragen
@@ -685,7 +685,7 @@ Prästkragen, Särövägen 339. Huvudmannen har sedan tidigare ett beslut gälla
 ansökan om bidrag för förskoleverksamhet daterat 02-06-02 som omfattar 15—16
 barn. Ansökan gäller en utökning från 16 till 20 barn.
 
-Enligt skollagen kap 2 \$ 5 ska kommunen godkänna enskilda som vill bedriva
+Enligt skollagen kap 2 § 5 ska kommunen godkänna enskilda som vill bedriva
 förskoleverksamhet om den enskilde bedöms besitta insikt, har ekonomiska
 förutsättningar och i övrigt har förutsättningar att följa de föreskrifter som gäller för
 utbildningen. Den enskilde ska även bedömas lämplig. Utbildningen ska inte heller
@@ -724,7 +724,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 16 (19)
 Nämnden för Förskola & Grundskola Datum
 2026-05-20
 
-\$ 59 Dnr FG-2026-00232
+§ 59 Dnr FG-2026-00232
 
 Ansökan från Förskolekooperativet Myrstacken i Åsa Ekonomisk
 förening gällande permanent utökning av barnantal på förskolan
@@ -743,7 +743,7 @@ ansökan om utökning av barnantal på förskolan Myrstacken, Kumlabacken 9.
 Huvudmannen har sedan 2024-05-15 ett beslut som omfattar 21 barn i sin
 verksamhet. Ansökan gäller en utökning från 21 till 22 barn.
 
-Enligt skollagen kap 2 \$ 5 ska kommunen godkänna enskilda som vill bedriva
+Enligt skollagen kap 2 § 5 ska kommunen godkänna enskilda som vill bedriva
 förskoleverksamhet om den enskilde bedöms besitta insikt, har ekonomiska
 förutsättningar och i övrigt har förutsättningar att följa de föreskrifter som gäller för
 utbildningen. Den enskilde ska även bedömas lämplig. Utbildningen ska inte heller
@@ -778,7 +778,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 17 (19)
 
 Nämnden för Förskola & Grundskola Datum
 2026-05-20
-\$ 60 Dnr FG-2026-00323
+§ 60 Dnr FG-2026-00323
 Entledigande och fyllnadsval till arbetsutskottet för Förskola &
 Grundskola
 Beslut
@@ -818,7 +818,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 18 (19)
 Nämnden för Förskola & Grundskola Datum
 2026-05-20
 
-\$ 61 Dnr FG-2026-00018
+§ 61 Dnr FG-2026-00018
 Delegeringsbeslut antagna av nämnden 2026
 
 Beslut
@@ -858,7 +858,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 19 (19)
 Nämnden för Förskola & Grundskola Datum
 2026-05-20
 
-\$ 62 Dnr FG-2026-00016
+§ 62 Dnr FG-2026-00016
 Information - Förskola & Grundskola arbetsutskott och nämnd
 
 Beslut

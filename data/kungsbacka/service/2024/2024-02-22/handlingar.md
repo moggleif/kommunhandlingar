@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.69662c5a18d8755e108223ca/1708355712
 sha256: 1228da53a5350bc4f8522a56fa4a1eb6c3f3edf05c8c807e78d4f1cbf5acc32c
 bytes: 6856726
 sidor: 111
-hamtad: 2026-10-14T09:45:44+00:00
-konverterad: 2026-10-14T09:46:56+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T10:27:02+00:00
+konverterad: 2026-10-23T10:28:41+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ej-konverterad, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok]
@@ -5371,14 +5371,14 @@ Sammanställning av delegeringsbeslut februari 2024
 
 Sammanfattning
 
-Beslut fattade med stöd av nämnden för Service delegeringsförteckning 2023-10-19 \$ 104 under
+Beslut fattade med stöd av nämnden för Service delegeringsförteckning 2023-10-19 § 104 under
 perioden 2023-11-24 till 2024-02-13,
 
 Ärende/ärendegrupp Beslut, insats samt | Beslutsfattare Beslutsdatum | Dnr
 enligt delegationslistan | ev. omfattning
 2.1.2a Utlämnande av Julia Tryggvadottir 2023-11-24 SE-2023-00397
-OSL 6 kap 3-6 \$\$ allmän handling med | Tollesson
-OSL 5 kap 5 \$ förbehåll eller att inte | FC
+OSL 6 kap 3-6 §§ allmän handling med | Tollesson
+OSL 5 kap 5 § förbehåll eller att inte | FC
 
 lämna ut en allmän
 
@@ -5388,8 +5388,8 @@ Beslut om
 
 sekretessmarkering.
 2.1.2a Utlämnande av Julia Tryggvadottir 2023-11-24 SE-2023-00392
-OSL 6 kap 3-6 \$\$ allmän handling med | Tollesson
-OSL 5 kap 5 \$ förbehåll eller att inte | FC
+OSL 6 kap 3-6 §§ allmän handling med | Tollesson
+OSL 5 kap 5 § förbehåll eller att inte | FC
 
 lämna ut en allmän
 
@@ -5399,7 +5399,7 @@ Beslut om
 
 sekretessmarkering.
 2.3.2 Tillsvidareanställning | Martin Funkerud 2023-12-01
-LAS, AB \$\$ 3-5 Administrativ EC Fastighet
+LAS, AB §§ 3-5 Administrativ EC Fastighet
 kollektivavtal, förvaltare
 lönepolicy mm
 

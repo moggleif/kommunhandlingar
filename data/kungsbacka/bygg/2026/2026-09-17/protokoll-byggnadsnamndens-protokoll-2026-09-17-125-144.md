@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6a370aed1a0ad9793db9faa4/1789992956
 sha256: fffe964c520850d3985261b63a756415d2f28d42912403ad8cf1df11f10b7dc5
 bytes: 400731
 sidor: 36
-hamtad: 2026-10-14T07:46:13+00:00
-konverterad: 2026-10-14T07:46:24+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T08:03:03+00:00
+konverterad: 2026-10-23T08:03:14+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -34,10 +34,10 @@ Kungsbacka
 Plats och tid för Gåsevadholm, Storgatan 37 Klockan 13.03—16.27
 sammanträde
 Beslutande Ledamöter Tjänstgörande ersättare
-Thure Sandén (M), Ordförande \$\$ 125-144 Gunnar Riksén (KD) ersätter Thure
-Heinrich Kaufmann (C), ordförande Sandén (M) \$\$ 120-124
-\$\$ 120-124, 1:e vice ordförande Kenth Wallin (SD) ersätter Dick
-\$\$ 125-144 Andersson (M)
+Thure Sandén (M), Ordförande §§ 125-144 Gunnar Riksén (KD) ersätter Thure
+Heinrich Kaufmann (C), ordförande Sandén (M) §§ 120-124
+§§ 120-124, 1:e vice ordförande Kenth Wallin (SD) ersätter Dick
+§§ 125-144 Andersson (M)
 Daniel Hognert (M)
 Marianne Wallengren (M)
 Lars Eriksson (S)
@@ -45,37 +45,37 @@ Britt Tönnberg (S)
 Stefan Vilumsons (SD)
 Fredrik Kollberg (KD)
 Övriga närvarande Ersättare Tjänstepersoner
-Gunnar Riksén (KD) \$\$ 125-144 Katarina Öryd, förvaltningschef
+Gunnar Riksén (KD) §§ 125-144 Katarina Öryd, förvaltningschef
 Bo Johansson (MP) Hanna Ståhl, verksamhetschef
 
-Tina Carlson, verksamhetschef \$ 130
+Tina Carlson, verksamhetschef § 130
 Ida Lennartsson, verksamhetschef
 Kasra Hassirian, förvaltningsjurist
 
-\$\$ 120-129
+§§ 120-129
 
 Peter Sebestyén, samordnare
 
-\$\$ 120-129
+§§ 120-129
 
 Thinh Bui-Ljungqvist, senior
-bygglovshandläggare \$\$ 120-128,
+bygglovshandläggare §§ 120-128,
 131-144
 
 André Nilsson, senior
-bygglovshandläggare \$\$ 120-128
+bygglovshandläggare §§ 120-128
 Christina Nordberg, controller
-Johanna Gille, HR-specialist \$ 131
+Johanna Gille, HR-specialist § 131
 Gustav Bernhardsson, kommunikatör
-Nahren Dawid, utvecklare \$\$ 131-144
-Andreas Rydholm, kartingenjör \$ 126
-Lisett Tranefalk, kartingenjör \$ 126
-Björn Vikström, planarkitekt \$ 129,
-\$\$ 134-139
+Nahren Dawid, utvecklare §§ 131-144
+Andreas Rydholm, kartingenjör § 126
+Lisett Tranefalk, kartingenjör § 126
+Björn Vikström, planarkitekt § 129,
+§§ 134-139
 
 Stina Wikström, planarkitekt
 
-\$\$ 134-139
+§§ 134-139
 
 Sofie Axelsson, nämndsekreterare
 

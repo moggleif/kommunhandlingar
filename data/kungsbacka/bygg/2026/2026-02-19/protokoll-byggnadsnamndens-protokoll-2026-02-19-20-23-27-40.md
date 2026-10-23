@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4c720df819c6b1741e4ea19f/1771918347
 sha256: c2e8c088569833193d53baaabfc04839d183899bbdc5857dc068a84acded1b9d
 bytes: 368069
 sidor: 28
-hamtad: 2026-10-14T07:45:07+00:00
-konverterad: 2026-10-14T07:45:17+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T08:02:03+00:00
+konverterad: 2026-10-23T08:02:12+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -48,7 +48,7 @@ Fredrik Kollberg (KD)
 Mårten Carlquist (M) Katarina Öryd, förvaltningschef
 Anders Bergstedt (M) Hanna Ståhl, verksamhetschef
 Kenth Wallin (SD) Kasra Hassirian, förvaltningsjurist
-Richard Hansson (C) \$\$ 20-30
+Richard Hansson (C) §§ 20-30
 Gunnar Riksén (KD) Peter Sebestyén, enhetschef
 Bo Johansson (MP) Karl Boström, enhetschef
 Thinh Bui-Ljungqvist, senior
@@ -56,22 +56,22 @@ bygglovshandläggare
 André Nilsson, senior
 bygglovshandläggare
 Christina Nordberg, controller
-\$\$ 24-26
+§§ 24-26
 
-Johanna Gille, HR-specialist \$ 24
+Johanna Gille, HR-specialist § 24
 Veronica Löfqvist, dataskyddskontakt
 88 20-23
 
 Gustav Bernhardsson, kommunikatör
 Ida Lennartsson, verksamhetschef
-Emma Johansson, planarkitekt \$ 28
+Emma Johansson, planarkitekt § 28
 Sofie Axelsson, nämndsekreterare
 
 Plats och tid för justering — Digital justering
 
-Sekreterare Sofie Axelsson Paragrafer \$\$ 20-23, 27-40
+Sekreterare Sofie Axelsson Paragrafer §§ 20-23, 27-40
 
-\$\$ 24-26 omedelbart
+§§ 24-26 omedelbart
 justerade, se separat
 protokoll
 

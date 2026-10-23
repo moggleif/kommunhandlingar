@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.28dcea0d18cf3c913c8e2afd/1705306805
 sha256: 79ece01825c9de055ca3b48260a4309aaa560a35e1754c505d3c23c504b5af77
 bytes: 3176840
 sidor: 42
-hamtad: 2026-10-14T09:45:19+00:00
-konverterad: 2026-10-14T09:45:44+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T10:26:36+00:00
+konverterad: 2026-10-23T10:27:02+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ok, ok, ok]
@@ -1621,23 +1621,23 @@ SE-2024-00002
 
 Kungsbacka
 
-Beslut fattade med stöd av nämnden för Service delegeringsförteckning 2023-10-19 \$ 104 under
+Beslut fattade med stöd av nämnden för Service delegeringsförteckning 2023-10-19 § 104 under
 perioden 2023-11-01 till 2024-01-10,
 
 Ärende/ärendegrupp Beslut, insats samt | Beslutsfattare Beslutsdatum | Dnr
 enligt delegationslistan |ev. omfattning
 2:32 Tillsvidareanställning | Carina Gustafsson 2023-11-01
-LAS, AB \$\$ 3-5 Kock EC Måltid
+LAS, AB §§ 3-5 Kock EC Måltid
 kollektivavtal,
 lönepolicy mm
 2:32 Projektanställning Lizette Andersson 2023-11-06
-LAS, AB \$\$ 3-5 Projektledare EC
+LAS, AB §§ 3-5 Projektledare EC
 kollektivavtal, Personalförsörjning
 lönepolicy mm
 23 Disciplinpåföljd Ann Cathrine Roxhage 2023-11-16
-AB \$ 11 skriftlig varning VC Lokalvård
+AB § 11 skriftlig varning VC Lokalvård
 2:30 Tillsvidareanställning | Madeleine Nilsson 2023-11-30
-LAS, AB \$\$ 3-5 Kock EC Måltid
+LAS, AB §§ 3-5 Kock EC Måltid
 kollektivavtal,
 lönepolicy mm
 I 2) Kungsbacka kommun

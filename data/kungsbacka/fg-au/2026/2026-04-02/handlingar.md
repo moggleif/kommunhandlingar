@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1b24984919d24cef920956fb/1774935112
 sha256: 406aae961040ea9389f61a144b4bc1b520f1b9dffed889cd138b124827084cc4
 bytes: 18008096
 sidor: 125
-hamtad: 2026-10-14T07:35:53+00:00
-konverterad: 2026-10-14T07:37:01+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T07:50:09+00:00
+konverterad: 2026-10-23T07:51:37+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -948,7 +948,7 @@ KUNGSBACKA KOMMUN
 
 För utbildningen ska det finnas lokaler och utrustning som behövs för att syftet med utbildningen ska kunna uppfyllas.
 
-Huvudmannen ska se till att barnen erbjuds en god miljö (2 kap. 35 \$ och 8 kap. 8 \$ skollagen). 10 (18)
+Huvudmannen ska se till att barnen erbjuds en god miljö (2 kap. 35 § och 8 kap. 8 § skollagen). 10 (18)
 
 Förskolan ska erbjuda barnen en god miljö. Miljön ska vara tillgänglig för alla barn och inspirera dem att samspela och att
 utforska omvärlden samt stödja barnens utveckling, lärande, lek och kommunikation. Barnen ska kunna växla mellan olika

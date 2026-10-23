@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.63c8c56619d9a5b19c1b9444/1777271100
 sha256: 2ac52bfac7e78fe09cf1756f2541b82fe5ff8c6f2d45fbed6fcdf496fdc5c768
 bytes: 903598
 sidor: 14
-hamtad: 2026-10-14T06:49:59+00:00
-konverterad: 2026-10-14T06:50:18+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T06:57:15+00:00
+konverterad: 2026-10-23T06:57:45+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -82,14 +82,14 @@ Emanuel Forsell (M)
 Sofia Hansen (M)
 
 Karolina Reinhold, utvecklingsledare
-\$ 41
+§ 41
 
-Susanne Lyckevall, enhetschef \$ 42
-Frida Åkerström, specialpedagog \$ 42
+Susanne Lyckevall, enhetschef § 42
+Frida Åkerström, specialpedagog § 42
 Christina Andersson, specialpedagog
-\$ 42
+§ 42
 
-Frida Byrsten, verksamhetschef \$ 43
+Frida Byrsten, verksamhetschef § 43
 Tove Bender, utredare
 
 Bertil Ljungblad, utvecklingsledare
@@ -100,11 +100,11 @@ Lena Benedetto, verksamhetschef \$
 47
 
 Kerstin Fredberg,
-kommunikationsspecialist \$ 47
+kommunikationsspecialist § 47
 
 Övriga
 
-Paragrafer \$\$ 39-47
+Paragrafer §§ 39-47
 
 <!-- sida 2 -->
 
@@ -114,32 +114,32 @@ Nämnden för Förskola & Grundskola Datum
 
 Innehåll
 
-\$39 Dnr FG-2026-00014
-Fastställande av dagordning och val av juSterafe..............ssssssorsssororerrsssssnnn 3
+§39 Dnr FG-2026-00014
+Fastställande av dagordning och val av juSterafe .... 3
 
-\$40 Dnr FG-2026-00042
-Redovisning av inkomna skrivelser till nämnd 2026 s....ssssssserseserererssrererrnt 4
+§40 Dnr FG-2026-00042
+Redovisning av inkomna skrivelser till nämnd 2026 s .... 4
 
-\$41 Dnr FG-2026-00178
-Främja närvaro och förebygga frånvaro, uppföljning I .................sseessere >. 5
+§41 Dnr FG-2026-00178
+Främja närvaro och förebygga frånvaro, uppföljning I .... 5
 
-\$42 Dnr FG-2026-00087
+§42 Dnr FG-2026-00087
 Uppföljning Barn- och elevhälsoarbete I..eosmmmsssssssrrrrrsrrssrsrrrrrrrreerrrnrrrrrr rens 6
 
-\$43 Dnr FG-2026-00153
-Sammanställning tillsyn och kvalitetsgranskningar....................sssessesresn 7
+§43 Dnr FG-2026-00153
+Sammanställning tillsyn och kvalitetsgranskningar .... 7
 
-\$44 Dnr FG-2026-00086
-Anmälningsärenden, klagomål och synpunkter .............sssssesssrrssrersrrrrsrrrsnre 8
+§44 Dnr FG-2026-00086
+Anmälningsärenden, klagomål och synpunkter .... 8
 
-\$45 Dnr FG-2026-00151
+§45 Dnr FG-2026-00151
 Initiativ alliansen styrning digitala läromedel ssssmmsssssssrrssrrrssrrrsrrrssrrrerrr nns 9
 
-\$46 Dnr FG-2026-00018
-Delegeringsbeslut antagna av nämnden 2026..........sssssersressrerrrrsrererserrrennn 11
+§46 Dnr FG-2026-00018
+Delegeringsbeslut antagna av nämnden 2026 .... 11
 
-\$47 Dnr FG-2026-00016
-Information - Förskola & Grundskola arbetsutskott och nämnd :............... 12
+§47 Dnr FG-2026-00016
+Information - Förskola & Grundskola arbetsutskott och nämnd : .... 12
 
 Det här dokumentet är digitalt signerat
 
@@ -153,7 +153,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (12)
 Nämnden för Förskola & Grundskola Datum
 2026-04-22
 
-\$ 39 Dnr FG-2026-00014
+§ 39 Dnr FG-2026-00014
 Fastställande av dagordning och val av justerare
 
 Beslut
@@ -179,7 +179,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (12)
 Nämnden för Förskola & Grundskola Datum
 2026-04-22
 
-\$ 40 Dnr FG-2026-00042
+§ 40 Dnr FG-2026-00042
 Redovisning av inkomna skrivelser till nämnd 2026
 
 Beslut
@@ -207,7 +207,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (12)
 Nämnden för Förskola & Grundskola Datum
 2026-04-22
 
-\$ 41 Dnr FG-2026-00178
+§ 41 Dnr FG-2026-00178
 Främja närvaro och förebygga frånvaro, uppföljning 1
 
 Beslut
@@ -246,7 +246,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (12)
 Nämnden för Förskola & Grundskola Datum
 2026-04-22
 
-\$ 42 Dnr FG-2026-00087
+§ 42 Dnr FG-2026-00087
 Uppföljning Barn- och elevhälsoarbete 1
 
 Beslut
@@ -303,7 +303,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7 (12)
 Nämnden för Förskola & Grundskola Datum
 2026-04-22
 
-\$ 43 Dnr FG-2026-00153
+§ 43 Dnr FG-2026-00153
 Sammanställning tillsyn och kvalitetsgranskningar
 
 Beslut
@@ -340,7 +340,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 8 (12)
 Nämnden för Förskola & Grundskola Datum
 2026-04-22
 
-\$ 44 Dnr FG-2026-00086
+§ 44 Dnr FG-2026-00086
 Anmälningsärenden, klagomål och synpunkter
 
 Beslut
@@ -401,7 +401,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (12)
 Nämnden för Förskola & Grundskola Datum
 2026-04-22
 
-\$ 45 Dnr FG-2026-00151
+§ 45 Dnr FG-2026-00151
 Initiativ alliansen styrning digitala läromedel
 
 Beslut
@@ -509,7 +509,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 11 (12)
 Nämnden för Förskola & Grundskola Datum
 2026-04-22
 
-\$ 46 Dnr FG-2026-00018
+§ 46 Dnr FG-2026-00018
 Delegeringsbeslut antagna av nämnden 2026
 
 Beslut
@@ -548,7 +548,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 12 (12)
 Nämnden för Förskola & Grundskola Datum
 2026-04-22
 
-\$ 47 Dnr FG-2026-00016
+§ 47 Dnr FG-2026-00016
 Information - Förskola & Grundskola arbetsutskott och nämnd
 
 Beslut

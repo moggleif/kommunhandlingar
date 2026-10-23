@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5b0e44671961df388b2836a3/1744890452
 sha256: a6db71419b86d966160d3dca46f968970e18320b3e4dd89a5f11d7b0a0700beb
 bytes: 4579475
 sidor: 38
-hamtad: 2026-10-14T07:51:36+00:00
-konverterad: 2026-10-14T07:52:00+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T08:08:29+00:00
+konverterad: 2026-10-23T08:08:57+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -177,7 +177,7 @@ på den enskilde att bedöma om sammanhållen bebyggelse föreligger.
 Beskrivning av ärendet
 
 Begreppet sammanhållen bebyggelse får betydelse i samband med detaljplane-kravet, plan- och
-bygglagen (2010:900) 4 kap. 2\$ 4 samt vid undantagen från kraven på bygglov för
+bygglagen (2010:900) 4 kap. 2§ 4 samt vid undantagen från kraven på bygglov för
 kompletteringsåtgärder på en- och tvåbostadshus, 9 kap. 68.
 
 Förvaltningen för Plan & Bygg gav hösten 2017 ett uppdrag till advokatfirman Glimstedt att utreda
@@ -292,7 +292,7 @@ Ovan redovisade riktlinjer är inte juridiskt bindande utan endast vägledande. 
 på den enskilde att bedöma om sammanhållen bebyggelse föreligger.
 
 Beslutsunderlag
-Byggnadsnämndens arbetsutskott 2020-02-26, \$ 45, förslag: Byggnadsnämnden antar
+Byggnadsnämndens arbetsutskott 2020-02-26, § 45, förslag: Byggnadsnämnden antar
 arbetsutskottets förslag till Riktlinjer för tolkning av begreppet sammanhållen bebyggelse, enligt
 
 nedan:

@@ -5,19 +5,19 @@ datum: 2024-02-22
 lopnr: null
 typ: protokoll
 namn: null
-kallnyckel: sitevision:18.740037a718d876d2ccf2df37
-tidigare_kallnycklar: []
+kallnyckel: sitevision:18.33df50461a157e1b9002326
+tidigare_kallnycklar: [sitevision:18.740037a718d876d2ccf2df37]
 arenden: null
-kalla_url: https://kungsbacka.se/download/18.740037a718d876d2ccf2df37/1708715235392/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202024-02-22,%20%C2%A7%C2%A7%201-24.pdf
-sha256: 00b7bcae927dc162474cfa644443aa29547da3cbdfd53d4a1cb625f68e14f030
-bytes: 619848
-sidor: 41
-hamtad: 2026-10-14T09:57:11+00:00
-konverterad: 2026-10-14T09:57:15+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kalla_url: https://kungsbacka.se/download/18.33df50461a157e1b9002326/1792481844633/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202024-02-22,%20%C2%A7%C2%A7%201-24.pdf
+sha256: be5e0a3c5259ae6b48c299754de29ee5446fa2befe602801a74fcafdf4986bf2
+bytes: 373376
+sidor: 36
+hamtad: 2026-10-23T06:08:01+00:00
+konverterad: 2026-10-23T06:08:05+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
@@ -39,19 +39,19 @@ Marianne Pleijel (M), 1:e vice ordförande Elisabeth Svensson (SD)
 Maj-Britt Rane-Andersson (S), 2:e vice
 ordförande
 Lars Blom (M)
-Fredrika Albertsson (M)
 
+Fredrika Albertsson (M)
 Åsa Andersson (S)
 Tina Hald (SD)
 Bengt Asplund (C)
 Annika Ulfsdotter (KD)
 Ingegärd Salmose (MP)
+
 Övriga närvarande Ersättare                 Tjänstepersoner
 Lars Sundbom (M)              Ivan Stipic, förvaltningschef
 Conny Loftander (S)           Emelie Sandberg, biträdande
 Ethel Bergström (S)           förvaltningschef
 My Clingston (KD)             Josefine Jönsson, nämndsekreterare
-
 Diana Brovall, verksamhetschef
 Gunilla Edmundsson,
 verksamhetschef
@@ -64,8 +64,8 @@ Ulrika Ström, MAR, Vård & Omsorg,
 Lotta Kjellner, MAS, Vård &
 Omsorg, § 2
 Katarina Persson,
-redovisningsekonom, § 3
 
+redovisningsekonom, § 3
 Mehdi Razavi, enhetschef, § 4
 Helena Nilsson, SAS, §§ 4, 7-8
 Torun Ljungman, utvecklingsledare,
@@ -78,22 +78,22 @@ Gabriella Ekfeldt Nyhlén, praktikant
 
 <!-- sida 2 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          2 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          2 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
 
 Plats och tid för justering Digital justering
 
-Sekreterare   Josefine Jönsson                      § 1-24
-Paragrafer
+Sekreterare   Josefine Jönsson              Paragrafer § 1-24
+
 Ordförande    Tommy Rydfeldt (L)
 
 Protokolljusterare Marianne Pleijel (M)
 
 <!-- sida 3 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          3 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          3 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -101,101 +101,102 @@ Datum
 Innehåll
 
 § 1 Dnr IF-2020-00101
-Attention Kungsbacka ............................................................................... 5
+Attention Kungsbacka................................................................................... 5
 
 § 2 Dnr IF-2024-00047
-Patientsäkerhetsberättelse 2023 ................................................................. 6
+Patientsäkerhetsberättelse 2023 .................................................................... 6
 
 § 3 Dnr IF-2023-00256
-Ansökan om Föreningsbidrag - 2024 ......................................................... 7
+Ansökan om Föreningsbidrag - 2024............................................................ 7
 
 § 4 Dnr IF-2024-00011
-Prövning av barnets bästa - digital tillsyn .................................................. 8
+Prövning av barnets bästa - digital tillsyn ..................................................... 8
 
 § 5 Dnr IF-2023-00354
 Nämnden för Individ & Familjeomsorgs svar på Motion - Sex timmars
-arbetsdag inom omsorgen .......................................................................... 9
+arbetsdag inom omsorgen ............................................................................. 9
 
 § 6 Dnr IF-2020-00345
 Information om Socialstyrelsens rapport om personligt ombud till personer
-med psykiska funktionsnedsättningar ...................................................... 11
+med psykiska funktionsnedsättningar ......................................................... 11
 
 § 7 Dnr IF-2024-00007
-Kvalitetsberättelsen 2023 ........................................................................ 12
+Kvalitetsberättelsen 2023 ............................................................................ 12
 
 § 8 Dnr IF-2024-00010
 Information om lex Sarah samt redovisning av rapporter, utredningar och
-beslut ...................................................................................................... 13
+beslut ........................................................................................................... 13
 
 § 9 Dnr IF-2022-00266
-Årsuppföljning internkontroll 2023 ......................................................... 17
+Årsuppföljning internkontroll 2023 ............................................................ 17
 
 § 10 Dnr IF-2023-00017
-Årsredovisning 2023 ............................................................................... 18
+Årsredovisning 2023 ................................................................................... 18
 
 § 11 Dnr IF-2024-00038
-Ombudgeteringar och resultatfonder 2023 ............................................... 20
+Ombudgeteringar och resultatfonder 2023 ................................................. 20
 
 § 12 Dnr IF-2023-00372
+
 Svar över granskning av kompetensförsörjning Nämnden för Individ &
+Familjeomsorg ............................................................................................ 21
 
-Familjeomsorg ........................................................................................ 21
 § 13 Dnr IF-2024-00046
-
-Årsrapport systematiskt arbetsmiljöarbete ............................................... 23
+Årsrapport systematiskt arbetsmiljöarbete.................................................. 23
 
 § 14 Dnr IF-2023-00275
-Årsrapport God och nära vård och omsorg .............................................. 24
+Årsrapport God och nära vård och omsorg ................................................. 24
 
 Expedierat/bestyrkt
 
 <!-- sida 4 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          4 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          4 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
 
 § 15 Dnr IF-2023-00371
 Initiativärende Sverigedemokraterna - Bjuda in Knas Hemma till ett
-nämndmöte ............................................................................................. 25
+nämndmöte.................................................................................................. 25
 
 § 16 Dnr IF-2024-00048
 Initiativärende (M), (L), (KD), (C), (S) - Ansökan till kommunstyrelsen om
 bidrag till hälsofrämjande åtgärder till Individ och Familj inom daglig
-verksamhet .............................................................................................. 26
+verksamhet .................................................................................................. 26
 
 § 17 Dnr IF-2023-00020
 Redovisning av ej verkställda gynnande beslut enligt socialtjänstlagen,
 SoL, och lagen om stöd och service till vissa funktionshindrade, LSS, 2023
-................................................................................................................ 27
+.................................................................................................................... 27
 
 § 18 Dnr IF-2023-00100
-Månadsuppföljning till nämnd ................................................................. 28
+Månadsuppföljning till nämnd .................................................................... 28
 
 § 19 Dnr IF-2023-00001
-Information från förvaltningen ................................................................ 29
+Information från förvaltningen ................................................................... 29
 
 § 20 Dnr IF-2023-00002
-Anmälan av ordförandebeslut .................................................................. 30
+Anmälan av ordförandebeslut ..................................................................... 30
 
 § 21 Dnr IF-2023-00003
-Anmälan av delegeringsbeslut ................................................................. 31
+Anmälan av delegeringsbeslut .................................................................... 31
 
 § 22 Dnr IF-2024-00012
-Redovisning av domar och beslut ............................................................ 35
+Redovisning av domar och beslut ......... Fel! Bokmärket är inte definierat.
 
 § 23 Dnr IF-2023-00005
-Redovisning av synpunkter och klagomål ................................................ 38
+
+Redovisning av synpunkter och klagomål .................................................. 35
 
 § 24 Dnr IF-2023-00006
-Redovisning av skrivelser och meddelanden ............................................ 39
+Redovisning av skrivelser och meddelanden .............................................. 36
 
 Expedierat/bestyrkt
 
 <!-- sida 5 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          5 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          5 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -204,11 +205,9 @@ Datum
 Attention Kungsbacka
 
 Beslut
-
 Nämnden för Individ & Familjeomsorg noterar informationen till protokollet.
 
 Sammanfattning av ärendet
-
 Ordförande Tommy Rydfeldt (L) hälsar Sara Petersson Niklasson, vice ordförande
 Attention Kungsbacka, välkommen till nämndens sammanträde för att informera om
 sin förening och verksamhet.
@@ -218,8 +217,8 @@ funktionsnedsättning, NPF, ska bli bemötta med respekt och få det stöd de be
 skolan, på arbetsmarknaden och på fritiden. De arbetar också för att anhöriga ska få
 ökat inflytande och avlastning. De har ett flertal medlemsaktiviteter och alla arbetar
 ideellt.
-Ordförande tackar å nämndens vägnar för deltagandet och förvaltningschef Ivan
 
+Ordförande tackar å nämndens vägnar för deltagandet och förvaltningschef Ivan
 Stipic tackar för det viktiga arbetet som föreningen gör.
 
 Beslutsgång
@@ -231,7 +230,7 @@ Expedierat/bestyrkt
 
 <!-- sida 6 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          6 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          6 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -240,11 +239,9 @@ Datum
 Patientsäkerhetsberättelse 2023
 
 Beslut
-
 Nämnden för Individ & Familjeomsorg noterar informationen till protokollet.
 
 Sammanfattning av ärendet
-
 Enligt patientsäkerhetslagen ska vårdgivaren varje år upprätta en
 patientsäkerhetsberättelse. Syftet med patientsäkerhetsberättelsen är att öppet och
 tydligt redovisa strategier, mål och resultat av arbetet med att förbättra
@@ -265,7 +262,7 @@ Expedierat/bestyrkt
 
 <!-- sida 7 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          7 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          7 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -274,7 +271,6 @@ Datum
 Ansökan om Föreningsbidrag - 2024
 
 Beslut
-
 Nämnden för Individ & Familjeomsorg fördelar resterande medel 2024 års
 föreningsbidrag, inom området socialt arbete, till FK-Länken Kungsbacka, med
 137 500 kr.
@@ -287,24 +283,22 @@ och utgör komplettment till verksamheterna inom nämndens ansvarsområde.
 Bidraget är i första hand ett verksamhetsstöd, och syftet är att inspirera till förnyelse
 och utveckling samt utveckla samarbetsformer mellan offentliga och frivilliga
 insatser, och uppmuntrar samverkan och nätverksarbete.
-Eftersom FK-Länkens kompletterande ansökan, inte i tillräcklig utsträckning
 
+Eftersom FK-Länkens kompletterande ansökan, inte i tillräcklig utsträckning
 beskriver vad föreningen gör inom sin sociala verksamhet, utan fokus är på planerade
 reparation, driftkostnader och tillbyggen på verksamhetens lokaler, insatser som inte
 i sin helhet, uppfyller bidragets syfte.
 Bedömningen är att det saknas förutsättningar, att bevilja sökt beloppet till KF-
 Länken, och förslaget är att då istället beviljat föreningen ett reducerat belopp med
-50 %.
 
+50 %.
 Senast inför nästa ansökningsperiod, 2025, ska föreningarna återrapportera hur
 medlen använts.
 
 Beslutsunderlag
-
 Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2024-02-09
 
 Beslutsgång
-
 Ordförande Tommy Rydfeldt (L) prövar om nämnden kan besluta om fördelning av
 resterande medel 2024 års föreningsbidrag, inom området socialt arbete, till FK-
 Länken Kungsbacka, med 137 500 kr, och finner att nämnden bifaller det.
@@ -317,7 +311,7 @@ Expedierat/bestyrkt
 
 <!-- sida 8 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          8 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          8 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -326,7 +320,6 @@ Datum
 Prövning av barnets bästa - digital tillsyn
 
 Beslut
-
 Nämnden för Individ & Familjeomsorg godkänner utförd prövning av barnets bästa
 avseende digital tillsyn och beslutar att digital tillsyn fortsatt används men med en
 ny, säkrare teknisk lösning än den som nyttjas idag.
@@ -336,8 +329,8 @@ Då de barn och ungdomar som berörs av prövningen har omfattande behov av båd
 aktiva hjälpinsatser och tillsyn hela eller delar av dygnet behöver en planering ske
 avseende hur de hjälpbehoven bäst kan tillgodoses. Vad gäller tillsynsbehoven
 tillgodoses de idag med en kombination av fysisk tillsyn och tillsyn via en så kallad
-Babywatch.
 
+Babywatch.
 Förvaltningen för Individ & Familjeomsorg arbetar nu i frågan om att kunna tillämpa
 en säkrare lösning av digital tillsyn utifrån dataskyddsförordningens regler. En del av
 det arbetet är att pröva hur en säkrare lösning av digital tillsyn, med en kamera
@@ -351,8 +344,8 @@ Digital tillsyn gällande bostad med särskild service för barn och ungdomar en
 
 Beslutsgång
 Ordförande Tommy Rydfeldt (L) prövar om nämnden kan godkänna utförd prövning
-av barnets bästa avseende digital tillsyn och besluta att digital tillsyn fortsatt används
 
+av barnets bästa avseende digital tillsyn och besluta att digital tillsyn fortsatt används
 men med en ny, säkrare teknisk lösning än den som nyttjas idag, och finner att
 nämnden bifaller det.
 
@@ -360,7 +353,7 @@ Expedierat/bestyrkt
 
 <!-- sida 9 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          9 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          9 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -379,16 +372,16 @@ aktuell åtgärd i en situation med en accelererande kompetens- och arbetskrafts
 Sammanfattning av ärendet
 Maj-Britt Rane Andersson (S) och Ermin Skoric (S) har 2023-09-04 inkommit med
 en motion om att utreda sex timmars arbetsdag inom omsorgen. För att möta
-utmaningar inom välfärden vill motionärerna att nämnderna för Vård & Omsorg och
 
+utmaningar inom välfärden vill motionärerna att nämnderna för Vård & Omsorg och
 Individ & Familjeomsorg ska få i uppdrag att identifiera och påbörja en
 pilotverksamhet om sex timmars arbetsdag med bibehållen heltidslön. Motionärerna
 vill också att pilotperioden ska utvärderas av nämnderna och att slutsatserna utifrån
 dokumenterade effekter på arbetsmiljörelaterade faktorer såsom stress, sömn,
 sjukfrånvaro och andra relaterade faktorer ska återrapporteras till
 kommunfullmäktige.
-Kommunstyrelsens arbetsutskott har remitterat motionen till nämnden för Individ &
 
+Kommunstyrelsens arbetsutskott har remitterat motionen till nämnden för Individ &
 Familjeomsorg och nämnden för Vård & Omsorg för beredning.
 
 Beslutsunderlag
@@ -406,8 +399,8 @@ Ordförande Tommy Rydfeldt (L) yrkar på avslag på motionen.
 
 Beslutsgång
 Ordförande Tommy Rydfeldt (L) finner att det finns två förslag till beslut, det vill
-säga hans eget avslagsyrkande och Maj-Britt Rane Anderssons (S) bifallsyrkande.
 
+säga hans eget avslagsyrkande och Maj-Britt Rane Anderssons (S) bifallsyrkande.
 Ordförande prövar förslagen och finner att nämnden avslår motionen.
 
 Omröstning begärs och verkställs.
@@ -416,7 +409,7 @@ Expedierat/bestyrkt
 
 <!-- sida 10 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          10 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          10 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -453,7 +446,7 @@ Expedierat/bestyrkt
 
 <!-- sida 11 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          11 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          11 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -475,8 +468,8 @@ att ge förvaltningen i uppdrag att genom samverkan med extern part utveckla och
 driva personligt ombud i Kungsbacka. Bakgrunden var att nämnden 2020-09-17 §
 117 beslutade att den frivilliga insatsen personligt ombud inte längre skulle erbjudas
 från och med 2021-01-01.
-I initiativärendet beskrivs att målgruppen för personligt ombud lätt faller mellan
 
+I initiativärendet beskrivs att målgruppen för personligt ombud lätt faller mellan
 stolarna och inte alltid har förmågan att ta och upprätthålla kontakten mellan olika
 instanser som behövs för att upprätthålla en god livskvalitet. Möjligheter att utveckla
 och effektivisera konceptet uppfattades kunna ske genom att uppdra till extern
@@ -509,7 +502,7 @@ Expedierat/bestyrkt
 
 <!-- sida 12 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          12 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          12 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -518,7 +511,6 @@ Datum
 Kvalitetsberättelsen 2023
 
 Beslut
-
 Nämnden för Individ & Familjeomsorg godkänner den sammanhållna
 kvalitetsberättelsen 2023.
 
@@ -533,12 +525,10 @@ systematiskt kvalitetsarbete inom de sex områden för god kvalitet som tagits f
 Socialstyrelsen och Sveriges kommuner och regioner, SKR.
 
 Beslutsunderlag
-
 Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2024-02-06
 Kvalitetsberättelse 2023
 
 Beslutsgång
-
 Ordförande Tommy Rydfeldt (L) prövar om nämnden kan godkänna den
 sammanhållna kvalitetsberättelsen 2023, och finner att nämnden bifaller det.
 
@@ -546,7 +536,7 @@ Expedierat/bestyrkt
 
 <!-- sida 13 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          13 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          13 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -566,6 +556,7 @@ beslutar om händelsen utgjort ett missförhållande eller en påtaglig risk fö
 missförhållanden mot delegation. Allvarliga missförhållanden eller påtagliga risker
 för allvarliga missförhållanden anmäler SAS till Inspektionen för vård och omsorg
 (IVO). I och med att SAS fattar beslut mot delegation ska nämnden få kännedom om
+
 samtliga beslut som fattats av SAS enligt lex Sarah.
 
 Antal händelser som har rapporterats enligt lex Sarah
@@ -582,6 +573,7 @@ konsekvenser/påtaglig risk för konsekvenser för den enskilde.
 2023-301 – Rapport gällande begäran om insats enligt LSS som missas att fördelas
 till socialsekreterare. Utredningen konstaterar en risk i verksamheten utifrån
 nuvarande arbetssätt. Det inträffade innebar inga konsekvenser/påtaglig risk för
+
 konsekvenser för den enskilde.
 
 2023-274 – Rapport gällande att brukare tidigarelägger inflyttning till bostad med
@@ -600,7 +592,7 @@ Expedierat/bestyrkt
 
 <!-- sida 14 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          14 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          14 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -619,7 +611,6 @@ verksamheten, således inget missförhållande.
 
 2023-329 – Rapport gällande att det går fyra månader mellan inkommen ansökan till
 fördelning till socialsekreterare för utredning. Utredningen konstaterar en risk i
-
 verksamheten utifrån hantering av inkomna ansökningar. Det inträffade innebar inga
 konsekvenser/påtaglig risk för konsekvenser för den enskilde.
 
@@ -636,7 +627,6 @@ misstag stängt lägenhetsdörren samt satt fast bromsen på rullstolen. Det int
 innebar inga konsekvenser/påtaglig risk för konsekvenser för den enskilde.
 
 2023-377 – Rapport gällande att personal ger ett ej ordinerat läkemedel till brukare
-
 samt saknar delegation gällande aktuellt läkemedel. Utreds av medicinskt ansvarig
 sjuksköterska (MAS) avseende vårdskada/risk för vårdskada och ej enligt lex Sarah.
 
@@ -652,13 +642,14 @@ oprofessionellt gentemot klient. Utredningen kan konstatera att socialsekreterar
 privata kontakter med en klient vilket inte är inte förenligt med rollen som
 socialsekreterare och bedöms vara ytterst olämpligt. Utredare ser allvarligt på det
 inträffade då det gav konsekvenser för klienten som inte kan uteslutas bero på
+
 agerandet.
 
 Expedierat/bestyrkt
 
 <!-- sida 15 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          15 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          15 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -677,7 +668,6 @@ bedöms hade kunnat förhindrats om tillsyn utförts enligt rekommendation.
 
 2023-328 – Rapport gällande att brukare i bostad med särskild service skadar sig
 med föremål. Utredningen konstaterar en brist i verksamheten då det ej säkerställdes
-
 vad som fanns i ett låst skåp i samband med att man tog bort låset som bedömdes
 vara en tvångs- och begränsningsåtgärd. Det saknades även uppdaterad
 genomförandeplan och rutinbeskrivning utifrån detta. Det inträffade gav upphov till
@@ -693,8 +683,8 @@ genomförandeplan hur personalen ska arbeta för att stärka hens känsla av try
 
 2023-346 – Rapport gällande brukare som under korttidsvistelse kan öppna
 verksamhetens bildörr och ta sig ut innan bilen stannat helt. Orsak till händelsen
-bedöms bero på att personal frångår gällande rutiner. Det inträffade fick inga
 
+bedöms bero på att personal frångår gällande rutiner. Det inträffade fick inga
 konsekvenser för den enskilde men bedömningen görs att det förelåg en påtaglig risk
 för ett missförhållande då brukaren kunnat öppna dörren och ta sig ut under färd.
 
@@ -714,7 +704,7 @@ Expedierat/bestyrkt
 
 <!-- sida 16 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          16 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          16 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -731,7 +721,7 @@ Expedierat/bestyrkt
 
 <!-- sida 17 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          17 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          17 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -740,7 +730,6 @@ Datum
 Årsuppföljning internkontroll 2023
 
 Beslut
-
 Nämnden för Individ & Familjeomsorg godkänner uppföljningsrapporten av
 internkontroll 2023.
 
@@ -771,14 +760,13 @@ Ordförande Tommy Rydfeldt (L) prövar om nämnden kan godkänna
 uppföljningsrapporten av internkontroll 2023, och finner att nämnden bifaller det.
 
 Beslutet skickas till
-
 Kommunstyrelsen
 
 Expedierat/bestyrkt
 
 <!-- sida 18 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          18 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          18 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -787,11 +775,9 @@ Datum
 Årsredovisning 2023
 
 Beslut
-
 Nämnden för Individ & Familjeomsorg godkänner upprättad årsredovisning 2023.
 
 Sammanfattning av ärendet
-
 Kommunen är enligt lag skyldig att upprätta årsbokslut och årsredovisning.
 Årsredovisningens syfte är att ge kommuninvånarna, fullmäktige och andra
 intressenter relevant information.
@@ -818,9 +804,9 @@ exempel är att verksamheterna inom Bostad med särskild service minskade antale
 övertidstimmar med 28 % jämfört med 2022 och minskningen är en trend som har
 hållit i sig från april och året ut.
 Inom Myndighet, stöd och behandling har placeringskostnaderna varit mycket höga
+
 på enheten för Barn- och Unga under året. Däremot har verksamhetsområdet sett god
 effekt av arbetet med att öka antalet boendeplatser i egen regi inom
-
 Funktionsstödsområdet. Funktionsstödsenheten redovisar för första gången en budget
 i balans.
 Det har varit ett ekonomiskt utmanande år för verksamhetsområdet Stöd i hemmet
@@ -837,7 +823,7 @@ Expedierat/bestyrkt
 
 <!-- sida 19 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          19 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          19 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -852,13 +838,14 @@ Ordförande Tommy Rydfeldt (L) prövar om nämnden kan godkänna upprättad
 
 Beslutet skickas till
 Kommunstyrelsen
+
 Kommunledningskontoret, Styrning & Ekonomi
 
 Expedierat/bestyrkt
 
 <!-- sida 20 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          20 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          20 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -867,7 +854,6 @@ Datum
 Ombudgeteringar och resultatfonder 2023
 
 Beslut
-
 Nämnden för Individ och Familjeomsorg godkänner förslag till ombudgetering och
 resultatfonder 2023.
 
@@ -879,9 +865,9 @@ Individ och Familjeomsorg visar ett underskott om 14,8 miljoner kronor gentemot
 budgeten, vilket innebär en budgetavvikelse på 2 %.
 Nämnden fortsätter att arbeta för en hållbar socialtjänst med ekonomi i balans. Den
 negativa budgetavvikelsen är ett resultat av ökade volymer och ökat behov inom
+
 flertalet av nämndens verksamheter. Viss volymökning, särskilt inom
 myndighetsutövning, är svåra att prognosticera och viss är inte av stadigvarande
-
 karaktär. Utvecklingen i samhället däremot visar att problematik hos barn och unga
 ökar vilket får konsekvenser på placeringar. Denna samhällstrend arbetar vi för att
 bryta tillsammans med andra aktörer, men detta är ett långsiktigt arbete som kommer
@@ -894,12 +880,10 @@ Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2024-02-01
 Bilaga Resultatdisponering 2023
 
 Beslutsgång
-
 Ordförande Tommy Rydfeldt (L) prövar om nämnden kan godkänna förslag till
 ombudgetering och resultatfonder 2023, och finner att nämnden bifaller det.
 
 Beslutet skickas till
-
 Kommunstyrelsen
 Kommunledningskontoret, Styrning & Ekonomi
 
@@ -907,7 +891,7 @@ Expedierat/bestyrkt
 
 <!-- sida 21 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          21 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          21 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -929,8 +913,8 @@ På uppdrag av kommunrevisionen i Kungsbacka kommun har EY granskat
 kommunens arbete med kompetensförsörjning. Syftet med granskningen har varit att
 bedöma om kommunstyrelsen, nämnden för Vård & Omsorg och nämnden för
 Individ & Familjeomsorg säkerställt ett ändamålsenligt kompetensförsörjningsarbete.
-Revisionsrapporten färdigställdes i december 2023 och revisionen har utifrån
 
+Revisionsrapporten färdigställdes i december 2023 och revisionen har utifrån
 granskningen lämnat följande rekommendationer till Nämnden för Individ &
 Familjeomsorg:
 \* Fortsätta arbetet med att se över möjligheter för kombinationstjänster över
@@ -946,8 +930,8 @@ nämnden med återkoppling av åtgärderna senast i november 2024.
 
 Förslag till beslut på sammanträdet
 Ordförande Tommy Rydfeldt (L) yrkar att svaret antas avseende granskning av
-kompetensförsörjning till kommunrevisionen, daterad 2024-01-16, med tillägget att
 
+kompetensförsörjning till kommunrevisionen, daterad 2024-01-16, med tillägget att
 förvaltningen återkopplar åtgärderna till nämnden senast november 2024.
 
 Beslutsgång
@@ -960,7 +944,7 @@ Expedierat/bestyrkt
 
 <!-- sida 22 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          22 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          22 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -972,7 +956,7 @@ Expedierat/bestyrkt
 
 <!-- sida 23 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          23 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          23 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -981,7 +965,6 @@ Datum
 Årsrapport systematiskt arbetsmiljöarbete
 
 Beslut
-
 Nämnden för Individ & Familjeomsorg godkänner uppföljningen av systematisk
 arbetsmiljöarbete 2023.
 
@@ -1002,7 +985,7 @@ Expedierat/bestyrkt
 
 <!-- sida 24 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          24 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          24 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -1011,7 +994,6 @@ Datum
 Årsrapport God och nära vård och omsorg
 
 Beslut
-
 Nämnden för Individ & Familjeomsorg godkänner årsrapport för God och Nära Vård
 och Omsorg 2023.
 
@@ -1021,8 +1003,8 @@ sker inom hälso- och sjukvården. Omställningen är tänkt att göra skillnad 
 Sveriges invånare och hjälpa oss att klara välfärdens utmaningar. Mer vård ska ges i
 öppna vårdformer och i hemmet, samtidigt som digitala vårdformer och stöd till
 egenvård ska öka. Målet är en personcentrerad, sammanhållen, samskapad samt
-hälsofrämjande och proaktiv vård och omsorg.
 
+hälsofrämjande och proaktiv vård och omsorg.
 I Kungsbacka kommun finns en förvaltningsövergripande samverkansgrupp som
 arbetar med omställningen. De involverade förvaltningarna är Individ &
 Familjeomsorg, Förskola & Grundskola, Gymnasium & Arbetsmarknad samt Vård &
@@ -1040,7 +1022,7 @@ Expedierat/bestyrkt
 
 <!-- sida 25 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          25 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          25 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -1072,8 +1054,8 @@ Organisationen arbetar för att förbättra förhållandena för barn och ungdom
 erfarenhet av placeringar. De arbetar för att påverka, utbilda och sprida kunskap om
 barn och ungdomar med erfarenhet av placeringar. Deras främsta mål är att skapa en
 förändring i samhället och förbättra villkoren för dessa barn och ungdomar.
-Presidiet och förvaltningen föreslår nämnden att föreningen bjuds in till ett
 
+Presidiet och förvaltningen föreslår nämnden att föreningen bjuds in till ett
 kommande sammanträde för att informera nämnden om sin verksamhet.
 
 Beslutsunderlag
@@ -1095,7 +1077,7 @@ Expedierat/bestyrkt
 
 <!-- sida 26 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          26 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          26 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -1149,7 +1131,7 @@ Expedierat/bestyrkt
 
 <!-- sida 27 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          27 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          27 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -1168,8 +1150,8 @@ Sammanfattning av ärendet
 En rapportskyldighet av ej verkställda gynnande beslut infördes i socialtjänstlagen
 den 11 juli 2006. Från den 1 juli 2008 skall även ej verkställda gynnande beslut om
 insatser enligt lag om stöd och service till vissa funktionshindrade rapporteras.
-Nämnden ska även rapportera om en insats har avbrutits och inte verkställts på nytt
 
+Nämnden ska även rapportera om en insats har avbrutits och inte verkställts på nytt
 inom tre månader. Rapportering skall ske till Inspektionen för vård och omsorg, IVO.
 Nämnden, kommunfullmäktige och de förtroendevalda revisorerna ska informeras i
 samband med rapporteringen till IVO. Rapporteringen sker på individnivå varje
@@ -1182,18 +1164,19 @@ Beslutsgång
 Ordförande Tommy Rydfeldt (L) prövar om nämnden kan godkänna redovisning av
 ej verkställda gynnande beslut enligt socialtjänstlagen, SoL, och enligt lag om stöd
 och service till vissa funktionshindrade, LSS, för kvartal 4 2023, och finner att
+
 nämnden bifaller det.
 
 Beslutet skickas till
-Kommunstyrelsen
 
+Kommunstyrelsen
 Kommunrevisionen
 
 Expedierat/bestyrkt
 
 <!-- sida 28 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          28 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          28 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -1202,11 +1185,9 @@ Datum
 Månadsuppföljning till nämnd
 
 Beslut
-
 Nämnden för Individ & Familjeomsorg noterar informationen till protokollet.
 
 Sammanfattning av ärendet
-
 Förvaltningen kommer månatligen rapportera olika nyckeltal till nämnden. Detta
 sker genom en månadsuppföljning utifrån det ekonomiska läget, personalnyckeltal,
 sjukfrånvaron och orosanmälningar för att nämnden ska kunna följa dessa över tid.
@@ -1219,7 +1200,7 @@ Expedierat/bestyrkt
 
 <!-- sida 29 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          29 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          29 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -1233,7 +1214,7 @@ Expedierat/bestyrkt
 
 <!-- sida 30 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          30 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          30 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -1242,7 +1223,6 @@ Datum
 Anmälan av ordförandebeslut
 
 Beslut
-
 Nämnden för Individ & Familjeomsorg godkänner redovisningen av anmälda
 ordförandebeslut för perioden 2023-12-01 – 2024-01-31.
 
@@ -1252,8 +1232,8 @@ för ärenden som gäller deltagande i aktivitet inom Sverige för ordförande, 
 ordförande, ledamot och ersättare i nämnden. Besluten ska redovisas till nämnden för
 Individ & Familjeomsorg. Redovisningen innebär inte att nämnden omprövar eller
 fastställer delegeringsbesluten. Däremot får nämnden för Individ & Familjeomsorg
-återta lämnad delegering eller föregripa ett beslut i ett enskilt ärende av den som fått
 
+återta lämnad delegering eller föregripa ett beslut i ett enskilt ärende av den som fått
 beslutanderätten genom att själv ta över ärendet och fatta beslut.
 Följande ordförandebeslut anmäls till nämnden:
 
@@ -1276,7 +1256,7 @@ Expedierat/bestyrkt
 
 <!-- sida 31 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          31 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          31 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -1285,7 +1265,6 @@ Datum
 Anmälan av delegeringsbeslut
 
 Beslut
-
 Nämnden för Individ & Familjeomsorg godkänner redovisningen av
 delegeringsbeslut fattade under perioden 2023-12-01 – 2024-01-31.
 
@@ -1295,8 +1274,8 @@ ordförande och tjänstemän i enlighet med nämndens delegeringsordning. Dessa
 beslut ska redovisas till nämnden. Redovisningen innebär inte att nämnden omprövar
 eller fastställer delegeringsbesluten. Däremot får nämnden återta lämnad delegering
 eller föregripa ett beslut i ett enskilt ärende av den som fått beslutanderätten genom
-att själv ta över ärendet och fatta beslut.
 
+att själv ta över ärendet och fatta beslut.
 Följande delegeringsbeslut anmäls till nämnden.
 
 Utskottet för Individ & Familjeomsorg
@@ -1305,9 +1284,9 @@ december 2023 och 10, 17 och 31 januari 2024.
 
 Delegationsrapport enligt listor (Individ & Familjeomsorgen och
 funktionsstödsenheten)
+
 För perioden 2023-12-01 – 2024-01-31. Beslut enligt socialtjänstlagen (2001:453),
 SoL; lagen (1990:52) med särskilda bestämmelser om vård av unga, LVU; lagen
-
 (1988:870) om vård av missbrukare i vissa fall, LVM; föräldrabalken (1949:381) FB;
 lagen (1993:387) om stöd och service till vissa funktionshindrade, LSS; och övriga
 beslut.
@@ -1330,7 +1309,7 @@ Expedierat/bestyrkt
 
 <!-- sida 32 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          32 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          32 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -1339,8 +1318,8 @@ Dnr IF-2023-00023. Placeringsavtal – Heldygnsplacering, Finjagården,
 Vuxenenheten.
 Dnr IF-2023-00023. Placeringsavtal – Korttidsboende för personer med
 funktionsnedsättning, Göteborgs kyrkliga Stadsmission Bistånd & Entreprenad AB,
-Vuxenenheten.
 
+Vuxenenheten.
 Dnr IF-2023-00023. Placeringsavtal – Skyddat boende, Vuxenenheten.
 
 Dnr IF-2023-00023. Placeringsavtal – Korttidsboende för personer med
@@ -1351,8 +1330,8 @@ funktionsnedsättning, Göteborgs stadsmission Ingseredsstiftelsen, Vuxenenheten
 Dnr IF-2023-00024. Placeringsavtal – IHF, Intensiv Hemmabaserad
 Familjebehandling, Humana AB, Barn- och Ungdomsenheten
 Dnr IF-2023-00024. Placeringsavtal – HVB, Humana Vintergatan AB, Barn- och
-Ungdomsenheten
 
+Ungdomsenheten
 Dnr IF-2023-00024. Placeringsavtal – HVB, Segesholm behandlingshem, Barn- och
 Ungdomsenheten
 
@@ -1363,8 +1342,8 @@ Ungdomsenheten
 
 Dnr IF-2023-00024. Placeringsavtal – Stödboende, Positivum AB, Barn- och
 Ungdomsenheten
-Dnr IF-2023-00024. Placeringsavtal – HVB, Alpklyftan AB, Barn- och
 
+Dnr IF-2023-00024. Placeringsavtal – HVB, Alpklyftan AB, Barn- och
 Ungdomsenheten
 Dnr IF-2023-00024. Placeringsavtal – HVB, Gryning vård, Barn- och
 Ungdomsenheten
@@ -1390,7 +1369,7 @@ Expedierat/bestyrkt
 
 <!-- sida 33 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          33 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          33 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -1422,8 +1401,8 @@ Socialförvaltningen Centrum, Göteborgs Stad.
 
 Övrigt
 Dnr IF-2023-00352. Yttrande till kammarrätten gällande överklagan av beslut
-gällande begäran om allmän handling.
 
+gällande begäran om allmän handling.
 Dnr IF-2023-00356. Fördelning av arbetsmiljöuppgift.
 
 Dnr IF-2023-00357. Fördelning av arbetsmiljöuppgift.
@@ -1440,15 +1419,15 @@ Dnr IF-2022-00011. Förvaltningschefens vidaredelegering - december 2023.
 
 Dnr IF-2023-00349. Anmälan av personuppgiftsincident, Integritetsskydds
 myndigheten, IMY.
-Dnr IF-2023-00367. Anmälan av personuppgiftsincident, Integritetsskydds
 
+Dnr IF-2023-00367. Anmälan av personuppgiftsincident, Integritetsskydds
 myndigheten, IMY.
 
 Expedierat/bestyrkt
 
 <!-- sida 34 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          34 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          34 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -1463,143 +1442,15 @@ Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2024-01-22
 
 Beslutsgång
 Ordförande Tommy Rydfeldt (L) prövar om nämnden kan godkänna redovisningen
-av delegeringsbeslut fattade under perioden 2023-12-01 – 2024-01-31, och finner att
 
+av delegeringsbeslut fattade under perioden 2023-12-01 – 2024-01-31, och finner att
 nämnden bifaller det.
 
 Expedierat/bestyrkt
 
 <!-- sida 35 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          35 (39)
-Nämnden för Individ & Familjeomsorg
-Datum
-2024-02-22
-
-§ 22                       Dnr IF-2024-00012
-Redovisning av domar och beslut
-
-Beslut
-
-Nämnden för Individ & Familjeomsorg noterar redovisningen av inkomna domar och
-beslut till protokollet.
-
-Sammanfattning av ärendet
-Redovisning för perioden 2023-12-01 – 2024-01-31.
-
-Kammarrätten i Göteborg, KR
-Beslut meddelat i mål nr. 7405-23, daterad 2024-01-30, saken; nämnden har
-överklagat förvaltningsrättens dom gällande personlig assistans; fråga om
-prövningstillstånd. Kammarrätten meddelar inte prövningstillstånd.
-Förvaltningsrättens avgörande står därför fast.
-
-Förvaltningsrätten i Göteborg, FR
-
-Dom meddelad i mål nr. 12314-23, daterad 2023-11-29, saken; individen har
-överklagat nämndens beslut gällande bistånd enligt socialtjänstlagen (2001:453),
-SoL. Förvaltningsrätten avslår överklagandet.
-Dom meddelad i mål nr. 6110-23, daterad 2023-12-12, saken; individen har
-överklagat nämndens beslut gällande korttidsvistelse utanför det egna hemmet enligt
-lagen om stöd och service till vissa funktionshindrade, LSS. Förvaltningsrätten avslår
-
-överklagandet.
-Dom meddelad i mål nr. 12209-23, daterad 2023-12-12, saken; individen har
-överklagat nämndens beslut gällande bostad med särskild service för vuxna enligt
-lagen (1993:387) om stöd och service till vissa funktionshindrade, LSS.
-Förvaltningsrätten avslår överklagandet.
-
-Dom meddelad i mål nr. 2953-23, daterad 2023-12-20, saken; individen har
-överklagat nämndens beslut gällande personlig assistans enligt lagen (1993:387) om
-stöd och service till vissa funktionshindrade, LSS. Förvaltningsrätten avslår
-överklagandet. Förvaltningsrättens interimistiska beslut upphör därmed att gälla.
-
-Dom meddelad i mål nr. 11977-23, daterad 2023-12-19, saken; individen har
-överklagat nämndens beslut gällande bistånd enligt socialtjänstlagen (2001:453),
-SoL. Förvaltningsrätten avslår överklagandet.
-Dom meddelad i mål nr. 3492-23, daterad 2023-12-20, saken; individen har
-överklagat nämndens beslut gällande personlig assistans enligt lagen (1993:387) om
-stöd och service till vissa funktionshindrade, LSS. Förvaltningsrätten avslår
-
-överklagandet
-
-Expedierat/bestyrkt
-
-<!-- sida 36 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          36 (39)
-Nämnden för Individ & Familjeomsorg
-Datum
-2024-02-22
-
-Dom meddelad i mål nr. 13633-23, daterad 2024-01-10, saken; individen har
-överklagat nämndens beslut gällande bistånd enligt socialtjänstlagen (2001:453),
-SoL. Förvaltningsrätten avslår överklagandet.
-Beslut meddelat i mål nr. 662-24, daterad 2024-01-22, saken; individen har
-överklagat nämndens beslut gällande personlig assistans enligt lagen om stöd och
-
-service till vissa funktionshindrade, LSS; nu fråga om interimistiskt förordnande.
-Förvaltningsrätten avslår yrkandet om interimistiskt förordnande.
-
-Integritetsskyddsmyndigheten, IMY
-
-Dnr IF IF-2023-00323. Integritetsskyddsmyndigheten, dnr IMY-2023-15478, vidtar
-för närvarande inga åtgärder med anledning av anmälan.
-Dnr IF IF-2023-00314. Integritetsskyddsmyndigheten, dnr IMY-2023-15267, vidtar
-för närvarande inga åtgärder med anledning av anmälan.
-
-Inspektionen för vård och omsorg, IVO
-
-Dnr IF-2023-00058. Inspektionen för vård och omsorg, IVO, dnr 3.5.1-00613/2023-
-18, gällande tillsyn av bostad med särskild service. IVO har konstaterat brister i
-individuellt utformad omvårdnad, trygghet och förutsägbarhet. IVO begär med stöd
-av 26 c lagen (1993:387) som stöd och service till vissa funktionshindrade, LSS, att
-nämnden redovisar sin inställning till de brister som IVO konstaterat.
-
-Kommunfullmäktige, KF
-KF § 189 Rapport från nämnden för Individ & Familjeomsorg av ej verkställda
-beslut enligt socialtjänstlagen, SoL, och lagen om stöd och service till vissa
-funktionshindrade, LSS, andra kvartalet 2023
-
-KF § 191 Redovisning av icke färdigberedda motioner (2, 2023)
-KF § 200 Anmälan av motion från Ermin Škori? (S) m.fl. om
-medarbetarundersökning för Vård & Omsorg samt Individ & Familjeomsorg utifrån
-de fem övergripande arbetsmiljömålen
-
-Kommunstyrelsen, KS
-
-KS § 7 Fastställande av lönestruktur 2024 samt information om lönekartläggning
-2023
-KS § 8 Remittering av motion från Ermin Škoric (S) m.fl. om
-medarbetarundersökning för Vård & Omsorg samt Individ & Familjeomsorg utifrån
-de fem övergripande arbetsmiljömålen
-
-KS § 13 Avvikelse från nya bestämmelser om arbetstidens förläggning inom
-personlig assistans
-
-KS § 16 Förändring av projekt och omfördelning av budget i lokalplan Björkris
-boende med särskild service (löpnr 504)
-
-Expedierat/bestyrkt
-
-<!-- sida 37 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          37 (39)
-Nämnden för Individ & Familjeomsorg
-Datum
-2024-02-22
-
-Beslutsunderlag
-Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2024-01-22
-
-Beslutsgång
-Ordförande Tommy Rydfeldt (L) prövar om nämnden kan notera redovisningen av
-inkomna domar och beslut till protokollet, och finner att nämnden bifaller det.
-
-Expedierat/bestyrkt
-
-<!-- sida 38 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          38 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          35 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -1608,7 +1459,6 @@ Datum
 Redovisning av synpunkter och klagomål
 
 Beslut
-
 Nämnden för Individ & Familjeomsorg noterar redovisningen av inkomna
 synpunkter och klagomål till protokollet.
 
@@ -1633,8 +1483,8 @@ besvara.
 
 Dnr IF-2023-00386. Inkommen anonym synpunkt rörande handläggningen på
 Familjehemsenheten.
-Dnr IF-2023-00390. Inkommen synpunkt rörande handläggningen på
 
+Dnr IF-2023-00390. Inkommen synpunkt rörande handläggningen på
 Familjehemsenheten.
 Dnr IF-2024-00023. Inkommit klagomål från anhörig rörande handläggning på
 Funktionsstödsenheten. Ansvarig enhetschef har besvarat klaganden
@@ -1649,9 +1499,9 @@ det.
 
 Expedierat/bestyrkt
 
-<!-- sida 39 -->
+<!-- sida 36 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          39 (39)
+KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          36 (36)
 Nämnden för Individ & Familjeomsorg
 Datum
 2024-02-22
@@ -1660,7 +1510,6 @@ Datum
 Redovisning av skrivelser och meddelanden
 
 Beslut
-
 Nämnden för Individ & Familjeomsorg noterar redovisningen av inkomna skrivelser
 och meddelanden till protokollet.
 
@@ -1674,8 +1523,8 @@ Insatser inom området psykisk hälsa och suicidprevention 2024
 
 Dnr IF- 2024-00005. Samordningsförbundet i Halland – Styrelseprotokoll 2023-12-
 15 och
-2024-01-26.
 
+2024-01-26.
 Dnr IF-2024-00026. Socialstyrelsen – Statsbidrag till kommunernas arbete med att
 stärka socialtjänstens och hälso- och sjukvårdens beredskap.
 
@@ -1697,31 +1546,3 @@ Nämnden för Individ & Familjeomsorg noterar redovisningen av inkomna skrivelse
 och meddelanden till protokollet.
 
 Expedierat/bestyrkt
-
-<!-- sida 40 -->
-
-Undertecknat    av följande personer
-
-TOMMY RYDFELDT
-Datum:                  2024-02-23 15:53:18
-Transaktionsidentitet:  7AC3306778AF913319713A7A3488228E8759514FBF
-
-JANE MARIANNE PLEIJEL
-Datum:                  2024-02-23 17:32:48
-Transaktionsidentitet:  D23DFEEA0D95B6795ECE27AA0A6E10509DA0F3A850
-
-Underskriftstjänst:     Visma Underskriftstjänst
-
-© Visma
-
-<!-- sida 41 -->
-
-Dokumentet   är signerat av Ciceron DoÄ
-
-Organisation
-
-Organisation: Kungsbacka kommun
-Organisationsnr: 212000-1256
-E-post:   (e-post borttagen)
-
-© Visma Consulting

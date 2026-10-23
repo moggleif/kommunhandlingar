@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.46db326b19c4795e0085ada9/1770984948
 sha256: 59f893d75e95968ccceb9a128f6afe117af926942e4b315c2386d99bd3f5b3ba
 bytes: 20095436
 sidor: 500
-hamtad: 2026-10-14T06:39:31+00:00
-konverterad: 2026-10-14T06:40:55+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T06:44:29+00:00
+konverterad: 2026-10-23T06:46:18+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
@@ -19012,13 +19012,13 @@ Kallepruun (GA), Emma Person (Visible Education), Sanna Andersson (GA), Frida Sv
 Elisabeth Kjellbom (GA), Kristina Westrup (IF), Julia Wilholm, (IF), Moa Plenk åk 3-elev på
 Aranäsgymnasiet, Nomi Elfström och Ida Mattbo åk 1-elever på Aranäsgymnasiet.
 
-\$1 Mötets öppnas av ordförande Jan Erik Knutas och tillsammans med rektor Dan
+§1 Mötets öppnas av ordförande Jan Erik Knutas och tillsammans med rektor Dan
 
 Sadé hälsas alla välkomna till dagens möte på Aranäsgymnasiet.
 
 Presentationsrunda.
-\$2 Val av sekreterare, Sanna Andersson och justerare, Frida Svärd.
-\$3 Föregående protokoll gås igenom.
+§2 Val av sekreterare, Sanna Andersson och justerare, Frida Svärd.
+§3 Föregående protokoll gås igenom.
 
 I föregående protokoll fanns återkoppling på att matersättningen nu ökat till 40 kronor och är
 numera samma ersättning till alla elever inom gymnasieskolan samt frågan om lokalplanen.
@@ -19049,7 +19049,7 @@ www.aranasgymnasiet.kungsbacka.se
 
 KUNGSBACKA KOMMUN
 
-\$4 Elevernas frågor: Kvarliggande fråga från föregående möte är att
+§4 Elevernas frågor: Kvarliggande fråga från föregående möte är att
 matersättningen är på 40 kr. Allt är dyrt och eleverna tycker inte det räcker till en hel måltid.
 Ulrika Borgvall ställer frågan vad det kostar att äta i matsalen i skolan? Dan Sadé menar att det
 är en relevant fråga. Men vet inte hur mycket en elevs måltid beräknas till. Nämnden ökade upp
@@ -19070,7 +19070,7 @@ dilemmat att vara två elever på en och samma handledare. Då det blir mindre a
 
 perioden när två elever ska dela på uppgifterna.
 
-\$5 Aktuellt från näringslivet
+§5 Aktuellt från näringslivet
 
 Staffan Boethius (IF) betonar att inom IF finns ett stort behov av nya medarbetare. Nu och
 framåt. Det sker en utökning av verksamheten inom IF, minst ett gruppboende som öppnar upp
@@ -19097,7 +19097,7 @@ Staffan Boethius (IF) betonar att det finns två utbildningsvägar för att kunn
 
 Barn och Fritidsprogrammet och Vård och omsorgsprogrammet.
 
-\$6 Aktuellt från skolan
+§6 Aktuellt från skolan
 
 Ulrika Borgvall berättar att Aranäsgymnasiet fortsätter med Zanzibar-projektet, till våren
 kommer det åka fem elever från VO och tre elever från BF. De är i full gång att marknadsföra
@@ -19144,20 +19144,20 @@ sittgympa eller andra aktiviteter för att få känna på hur det är på riklig
 
 fältstudier.
 
-\$7 APL. Frågan har lyfts tidigare i mötet.
+§7 APL. Frågan har lyfts tidigare i mötet.
 
-\$8 Arbetsmarknadsläget. Alla medverkande på mötet är överens om att
+§8 Arbetsmarknadsläget. Alla medverkande på mötet är överens om att
 arbetsmarknadsläget ser fortsatt positivt ut inom vård och omsorg. Hur får vi i
 kontakt med AF. Frida Svärd ser om hon kan få kontakt med AF genom
 upparbetade samverkanskanaler.
 
-\$9 Övriga frågor: Inga övriga frågor.
+§9 Övriga frågor: Inga övriga frågor.
 
-\$10 Nästa möte: bokas till 1 april 2026 13.00-14.15 på Nygatan 10A Visible
+§10 Nästa möte: bokas till 1 april 2026 13.00-14.15 på Nygatan 10A Visible
 
 Education.
 
-\$11 Mötet avslutas
+§11 Mötet avslutas
 
 Sekreterare: ÅA /
 

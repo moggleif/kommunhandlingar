@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.120e6b95196c7fa447f2b3f2/1747311904
 sha256: f9cc7bf5fa123b8e042b771c4ee5d1c8a11faf3cf583b211fb344e8cd7cf3e74
 bytes: 1575322
 sidor: 15
-hamtad: 2026-10-14T10:20:38+00:00
-konverterad: 2026-10-14T10:21:04+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T10:49:13+00:00
+konverterad: 2026-10-23T10:49:45+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -59,8 +59,8 @@ Maria Gathendahl (M), 1:e vice ordförande Wallenstein (M)
 Ulrika Jörgensen (M) Bengt Adolfsson (M) för Helene
 Annika Hamberg (M) Engstrand (KD)
 Per Gunnarsson (S) Stefan Jägnert (SD) för Torbjörn
-Birgitta Tingdal (S) Andersson (SD) \$ 59 p.g.a jäv
-Torbjörn Andersson (SD), deltar inte i \$ 59
+Birgitta Tingdal (S) Andersson (SD) § 59 p.g.a jäv
+Torbjörn Andersson (SD), deltar inte i § 59
 p.g.a jäv
 Mats Dahl (SD)
 Markus Räden (V)
@@ -84,7 +84,7 @@ Annika Hamberg (M)
 Susan Pour, enhetschef
 Lena Engberg, enhetschef
 
-\$ 54-63
+§ 54-63
 
 Paragrafer
 
@@ -96,7 +96,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (13)
 Nämnden för Kultur & Fritid Datum
 2025-05-14
 
-\$ 54 Dnr KFT-2025-00105
+§ 54 Dnr KFT-2025-00105
 Information till nämnd: uppdatering Biblioteken i Kungsbacka
 
 Beslut
@@ -129,7 +129,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (13)
 Nämnden för Kultur & Fritid Datum
 2025-05-14
 
-\$55 Dnr KFT-2025-00104
+§55 Dnr KFT-2025-00104
 Uppföljning per april
 
 Beslut
@@ -171,7 +171,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (13)
 
 Nämnden för Kultur & Fritid Datum
 2025-05-14
-\$ 56 Dnr KFT-2025-00068
+§ 56 Dnr KFT-2025-00068
 Kungsbacka stad 2050 - Granskning av fördjupad översiktsplan 4 mars
 \- 31 maj 2025
 Beslut
@@ -196,7 +196,7 @@ Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2025-05-07
 Kungsbacka stad 2050 - Granskning av fördjupad översiktsplan, 2025-03-04
 Alliansens ändringsyrkande, 2025-05-14
 
-Reservation \$ 56 Socialdemokraterna, 2025-05-14
+Reservation § 56 Socialdemokraterna, 2025-05-14
 
 Förslag till beslut på sammanträdet
 
@@ -244,7 +244,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7 (13)
 Nämnden för Kultur & Fritid Datum
 2025-05-14
 
-\$ 57 Dnr KFT-2025-00115
+§ 57 Dnr KFT-2025-00115
 
 Granskningsutskick Detaljplan för blandad stadsbebyggelse inom
 sydöstra centrum i Kungsbacka stad. Sista svarsdag 2025-05-30
@@ -290,7 +290,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 8 (13)
 Nämnden för Kultur & Fritid Datum
 2025-05-14
 
-\$ 58 Dnr KFT-2025-00106
+§ 58 Dnr KFT-2025-00106
 Information till nämnd: de taktiska grupperna i Främjande Fyran
 
 Beslut
@@ -322,7 +322,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (13)
 Nämnden för Kultur & Fritid Datum
 2025-05-14
 
-\$ 59 Dnr KFT-2025-00107
+§ 59 Dnr KFT-2025-00107
 Inriktning stöd
 
 Beslut
@@ -361,7 +361,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 10 (13)
 Nämnden för Kultur & Fritid Datum
 2025-05-14
 
-\$ 60 Dnr KFT-2025-00108
+§ 60 Dnr KFT-2025-00108
 Information till nämnd: återrapportering av nytt stöd till föreningar
 
 Beslut
@@ -392,7 +392,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 11 (13)
 Nämnden för Kultur & Fritid Datum
 2025-05-14
 
-\$ 61 Dnr KFT-2025-00109
+§ 61 Dnr KFT-2025-00109
 Anmälan av delegeringsbeslut maj 2025
 
 Beslut
@@ -432,7 +432,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 12 (13)
 Nämnden för Kultur & Fritid Datum
 2025-05-14
 
-\$ 62 Dnr KFT-2025-00110
+§ 62 Dnr KFT-2025-00110
 Redovisning av inkomna skrivelser maj 2025
 
 Beslut
@@ -461,7 +461,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 13 (13)
 Nämnden för Kultur & Fritid Datum
 2025-05-14
 
-\$ 63 Dnr KFT-2025-00111
+§ 63 Dnr KFT-2025-00111
 Förvaltningschefen informerar
 
 Beslut

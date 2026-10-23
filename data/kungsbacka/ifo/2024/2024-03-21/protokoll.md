@@ -5,19 +5,19 @@ datum: 2024-03-21
 lopnr: null
 typ: protokoll
 namn: null
-kallnyckel: sitevision:18.18dce30518e5f9bec478f5b
-tidigare_kallnycklar: []
+kallnyckel: sitevision:18.33df50461a157e1b9002327
+tidigare_kallnycklar: [sitevision:18.18dce30518e5f9bec478f5b]
 arenden: null
-kalla_url: https://kungsbacka.se/download/18.18dce30518e5f9bec478f5b/1711376962880/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202024-03-21,%20%C2%A7%C2%A7%2028-41.pdf
-sha256: 75326adc58eeea4fdc607bf44e90f0369e555146e6944ae70996af4ae8d0903a
-bytes: 248270
-sidor: 23
-hamtad: 2026-10-14T09:57:15+00:00
-konverterad: 2026-10-14T09:57:20+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kalla_url: https://kungsbacka.se/download/18.33df50461a157e1b9002327/1792481853249/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20protokoll%202024-03-21,%20%C2%A7%C2%A7%2028-41.pdf
+sha256: 22d1d6c34db50e811f71ced49a744e603bd393ac306fa6f9d7aa0d8d9b793b81
+bytes: 218873
+sidor: 21
+hamtad: 2026-10-23T06:08:05+00:00
+konverterad: 2026-10-23T06:08:12+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
@@ -762,109 +762,6 @@ Expedierat/bestyrkt
 
 <!-- sida 19 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          19 (23)
-Nämnden för Individ & Familjeomsorg
-Datum
-2024-03-21
-
-§ 39                       Dnr IF-2024-00012
-Redovisning av domar och beslut
-
-Beslut
-
-Nämnden för Individ & Familjeomsorg noterar redovisningen av inkomna domar och
-beslut till protokollet.
-
-Sammanfattning av ärendet
-Redovisning för perioden 2024-02-01 – 2024-02-29.
-
-Kammarrätten i Göteborg, KR
-Beslut meddelat i mål nr. 4436-23, daterad 2024-02-01, saken; individen har
-överklagat förvaltningsrättens dom gällande personlig assistans; fråga om
-prövningstillstånd. Kammarrätten meddelar prövningstillstånd.
-
-Förvaltningsrätten i Göteborg, FR
-Dom meddelad i mål nr. 11582-23, daterad 2024-02-05, saken; individen har
-överklagat Försäkringskassan beslut gällande assistansersättning enligt
-socialförsäkringsbalken, SFB. Förvaltningsrätten avslår yrkandet om återförvisning.
-
-Dom meddelad i mål nr. 367-24, daterad 2024-02-06, saken; Inspektionen för vård
-och omsorg, IVO, har ansökt om särskild avgift enligt socialtjänstlagen (2001:453),
-SoL. Förvaltningsrätten bifaller ansökan och beslutar att Kungsbacka kommun ska
-betala en särskild avgift till staten.
-
-Beslut meddelat i mål nr. 1431-24, daterad 2024-02-08, saken; individen har
-överklagat nämndens beslut gällande personlig assistans enligt lagen (1993:387) om
-stöd och service till vissa funktionshindrade, LSS; nu fråga om interimistiskt
-förordnande. Förvaltningsrätten beslutar att individen har rätt till insatsen personlig
-assistans till dess att målet avgörs slutligt eller rätten beslutar på annat sätt.
-Beslut meddelat i mål nr. 1918-24, daterad 2024-02-26, saken; individen har
-överklagat nämndens beslut gällande stöd och service till vissa funktionshindrade;
-fråga om interimistiskt beslut. Förvaltningsrätten avslår yrkandet om interimistiskt
-
-beslut.
-
-Inspektionen för vård och omsorg, IVO
-
-Dnr IF-2021-00291. Inspektionen för vård och omsorg, IVO, dnr 3.3.1-05505/2021-
-15, gällande tillsyn av ej verkställt beslut. IVO avslutar ärendet. IVO bedömer mot
-bakgrund av de redovisade omständigheterna i ärendet att det inte finns skäl att
-ansöka om utdömande av särskild avgift hos förvaltningsrätten.
-
-Expedierat/bestyrkt
-
-<!-- sida 20 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          20 (23)
-Nämnden för Individ & Familjeomsorg
-Datum
-2024-03-21
-
-Kommunfullmäktige, KF
-KF § 5 Rapport från nämnden för Individ & Familjeomsorg av ej verkställda beslut
-enligt socialtjänstlagen, SoL, och lagen om stöd och service till vissa
-
-funktionshindrade, LSS, tredje kvartalet 2023
-
-KF § 7 Regelverk avseende valmöjligheter för arbete efter pensionsåldern
-
-KF § 8 Antagande av riktlinjer för personalföreträdares deltagande vid nämnd
-
-KF § 10 Strategi för krisberedskap och civilt försvar
-
-KF § 11 Reglemente för krisledningsnämnden
-
-KF § 17 Svar på motion från Maj-Britt Rane Andersson (S) m.fl. om att utreda
-möjligheten att införa fria arbetsskor, alternativt skobidrag, till personal inom
-omsorgen i Kungsbacka
-
-Kommunstyrelsen, KS
-
-KS § 43 Utdelning ur Arvid och Hildur Anderssons donationsfond 2023 (Individ &
-Familjeomsorg)
-KS § 44 Begäran om medel för att främja välmående och motverka psykisk ohälsa -
-Individ & Familjeomsorg
-
-Nämnden för Teknik
-§ 9 Tillämpningsregler särskild kollektivtrafik – Färdtjänst
-
-§ 33 Tillämpningsregler särskild kollektivtrafik – Färdtjänst
-
-Nämnden för Vård & Omsorg
-§ 16 Patientsäkerhetsberättelse 2023 – Nämnden för Vård & Omsorg
-
-Beslutsunderlag
-Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2024-03-07
-
-Beslutsgång
-
-Ordförande Tommy Rydfeldt (L) prövar om nämnden kan notera redovisningen av
-inkomna domar och beslut till protokollet, och finner att nämnden bifaller det.
-
-Expedierat/bestyrkt
-
-<!-- sida 21 -->
-
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          21 (23)
 Nämnden för Individ & Familjeomsorg
 Datum
@@ -909,7 +806,7 @@ det.
 
 Expedierat/bestyrkt
 
-<!-- sida 22 -->
+<!-- sida 20 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          22 (23)
 Nämnden för Individ & Familjeomsorg
@@ -948,7 +845,7 @@ det.
 
 Expedierat/bestyrkt
 
-<!-- sida 23 -->
+<!-- sida 21 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          23 (23)
 Nämnden för Individ & Familjeomsorg

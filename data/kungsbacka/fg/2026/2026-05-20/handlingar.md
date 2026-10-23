@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1c3413919e1001c0e6be5ea/17791028853
 sha256: 332df88529c080618c29581ce787e8cd24a3b571f9891896bf729884a94701cd
 bytes: 6563751
 sidor: 120
-hamtad: 2026-10-14T07:08:48+00:00
-konverterad: 2026-10-14T07:12:28+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T07:18:06+00:00
+konverterad: 2026-10-23T07:23:33+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -1054,7 +1054,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (1)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-07
 
-\$ 50 Dnr FG-2026-00182
+§ 50 Dnr FG-2026-00182
 Resultat vårdnadshavareenkät förskola 2026
 
 Förslag till beslut
@@ -1440,7 +1440,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (1)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-07
 
-\$ 51 Dnr FG-2026-00231
+§ 51 Dnr FG-2026-00231
 Uppföljning och prognos per april
 
 Förslag till beslut
@@ -1828,7 +1828,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 101)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-07
 
-\$ 52 Dnr FG-2026-00274
+§ 52 Dnr FG-2026-00274
 Användande av resultatfond, två-lärarsystem
 
 Förslag till beslut
@@ -2215,7 +2215,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 101)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-07
 
-\$ 53 Dnr FG-2026-00249
+§ 53 Dnr FG-2026-00249
 Årsrapport dataskydd & informationssäkerhet 2025-2026
 
 Förslag till beslut
@@ -2386,7 +2386,7 @@ Handläggningen av dess ärenden utgår från riktlinjen.
 Skolval enligt skollagen (2010:800)
 
 Tillämpliga bestämmelser
-9 Kap. 15 \$ Skollagen (2010:800) gällande förskoleklass
+9 Kap. 15 § Skollagen (2010:800) gällande förskoleklass
 
 En elev ska placeras vid den av kommunens skolenheter där elevens
 vårdnadshavare önskar att eleven ska gå. Om den önskade placeringen skulle
@@ -2396,7 +2396,7 @@ Kommunen får annars frångå elevens vårdnadshavares önskemål endast om den
 önskade placeringen skulle medföra att betydande organisatoriska eller ekonomiska
 svårigheter uppstår för kommunen.
 
-10 Kap. 30 \$ Skollagen (2010:800) gällande grundskola
+10 Kap. 30 § Skollagen (2010:800) gällande grundskola
 
 En elev ska placeras vid den av kommunens skolenheter där elevens
 vårdnadshavare önskar att eleven ska gå. Om den önskade placeringen skulle
@@ -2798,7 +2798,7 @@ Handläggningen av dess ärenden utgår från riktlinjen.
 Skolval enligt skollagen (2010:800)
 
 Tillämpliga bestämmelser
-9 Kap. 15 \$ Skollagen (2010:800) gällande förskoleklass
+9 Kap. 15 § Skollagen (2010:800) gällande förskoleklass
 
 En elev ska placeras vid den av kommunens skolenheter där elevens
 vårdnadshavare önskar att eleven ska gå. Om den önskade placeringen skulle
@@ -2808,7 +2808,7 @@ Kommunen får annars frångå elevens vårdnadshavares önskemål endast om den
 önskade placeringen skulle medföra att betydande organisatoriska eller ekonomiska
 svårigheter uppstår för kommunen.
 
-10 Kap. 30 \$ Skollagen (2010:800) gällande grundskola
+10 Kap. 30 § Skollagen (2010:800) gällande grundskola
 
 En elev ska placeras vid den av kommunens skolenheter där elevens
 vårdnadshavare önskar att eleven ska gå. Om den önskade placeringen skulle
@@ -3163,7 +3163,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (1)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-07
 
-\$ 54 Dnr FG-2026-00269
+§ 54 Dnr FG-2026-00269
 
 Revidering av Kungsbacka kommuns riktlinje för skolval och
 skolplacering i förskoleklass och grundskola
@@ -3430,7 +3430,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (1)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-07
 
-\$ 55 Dnr FG-2026-00273
+§ 55 Dnr FG-2026-00273
 Skolval och skolplacering, redovisning enligt nämndens årshjul
 
 Förslag till beslut
@@ -3649,7 +3649,7 @@ som gäller längre tid kan fattas.
 
 Rätt till skolskjuts
 
-Rätten till skolskjuts regleras huvudsakligen i Skollagen (9 kap. 8\$15b-15d, 10 kap.
+Rätten till skolskjuts regleras huvudsakligen i Skollagen (9 kap. 8§15b-15d, 10 kap.
 8 32-33, 11 kap. 831-32).
 
 Vårdnadshavare kan välja vilken skola deras barn ska gå på. Enligt skollagen
@@ -4163,7 +4163,7 @@ som gäller längre tid kan fattas.
 
 Rätt till skolskjuts
 
-Rätten till skolskjuts regleras huvudsakligen i Skollagen (9 kap. 8\$15b-15d, 10 kap.
+Rätten till skolskjuts regleras huvudsakligen i Skollagen (9 kap. 8§15b-15d, 10 kap.
 8 32-33, 11 kap. 831-32).
 
 Vårdnadshavare kan välja vilken skola deras barn ska gå på. Enligt skollagen
@@ -4618,7 +4618,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (1)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-07
 
-\$ 56 Dnr FG-2026-00260
+§ 56 Dnr FG-2026-00260
 Revidering av regler för skolskjuts
 
 Förslag till beslut
@@ -4685,7 +4685,7 @@ Särövägen 339. Huvudmannen har sedan tidigare ett beslut gällande ansökan o
 förskoleverksamhet daterat 02-06-02 som omfattar 15—16 barn. Ansökan gäller en utökning från 16 till
 20 barn.
 
-Enligt skollagen kap 2 \$ 5 ska kommunen godkänna enskilda som vill bedriva förskoleverksamhet om
+Enligt skollagen kap 2 § 5 ska kommunen godkänna enskilda som vill bedriva förskoleverksamhet om
 den enskilde bedöms besitta insikt, har ekonomiska förutsättningar och i övrigt har förutsättningar att
 följa de föreskrifter som gäller för utbildningen. Den enskilde ska även bedömas lämplig. Utbildningen
 ska inte heller innebära påtagliga negativa följder på lång sikt för kommunens förskoleverksamhet.
@@ -4761,7 +4761,7 @@ förskoleverksamheten.
 Förvaltningen bedömer att en permanent utökning till 20 barn kan godkännas.
 
 Rättslig reglering
-Enligt 2 kap. 5 \$ skollagen ska godkännande lämnas om den enskilde:
+Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 
 1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
@@ -4775,7 +4775,7 @@ KUNGSBACKA KOMMUN
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
-I fråga om en juridisk person krävs att samtliga som anges i 2 kap. 5 a \$ 1-4 bedöms lämpliga. Vid
+I fråga om en juridisk person krävs att samtliga som anges i 2 kap. 5 a § 1-4 bedöms lämpliga. Vid
 lämplighetsbedömningen ska viljan och förmågan att fullgöra sina skyldigheter mot det allmänna,
 laglydnad i övrigt och andra omständigheter av betydelse beaktas.
 
@@ -4906,7 +4906,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (1)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-07
 
-\$ 58 Dnr FG-2026-00130
+§ 58 Dnr FG-2026-00130
 
 Ansökan från Särö pastorat gällande permanent utökning av barnantal
 på förskolan Prästkragen
@@ -4924,7 +4924,7 @@ Prästkragen, Särövägen 339. Huvudmannen har sedan tidigare ett beslut gälla
 ansökan om bidrag för förskoleverksamhet daterat 02-06-02 som omfattar 15—16
 barn. Ansökan gäller en utökning från 16 till 20 barn.
 
-Enligt skollagen kap 2 \$ 5 ska kommunen godkänna enskilda som vill bedriva
+Enligt skollagen kap 2 § 5 ska kommunen godkänna enskilda som vill bedriva
 förskoleverksamhet om den enskilde bedöms besitta insikt, har ekonomiska
 förutsättningar och i övrigt har förutsättningar att följa de föreskrifter som gäller för
 utbildningen. Den enskilde ska även bedömas lämplig. Utbildningen ska inte heller
@@ -4982,7 +4982,7 @@ Förskolekooperativet Myrstacken i Åsa Ekonomisk förening har inkommit med en 
 utökning av barnantal på förskolan Myrstacken, Kumlabacken 9. Huvudmannen har sedan 2024-05-15
 ett beslut som omfattar 21 barn i sin verksamhet. Ansökan gäller en utökning från 21 till 22 barn.
 
-Enligt skollagen kap 2 \$ 5 ska kommunen godkänna enskilda som vill bedriva förskoleverksamhet om
+Enligt skollagen kap 2 § 5 ska kommunen godkänna enskilda som vill bedriva förskoleverksamhet om
 den enskilde bedöms besitta insikt, har ekonomiska förutsättningar och i övrigt har förutsättningar att
 följa de föreskrifter som gäller för utbildningen. Den enskilde ska även bedömas lämplig. Utbildningen
 ska inte heller innebära påtagliga negativa följder på lång sikt för kommunens förskoleverksamhet.
@@ -5056,7 +5056,7 @@ förskoleverksamheten.
 Förvaltningen bedömer att en permanent utökning till 22 barn kan godkännas.
 
 Rättslig reglering
-Enligt 2 kap. 5 \$ skollagen ska godkännande lämnas om den enskilde:
+Enligt 2 kap. 5 § skollagen ska godkännande lämnas om den enskilde:
 
 1\. genom erfarenhet eller på annat sätt har förvärvat insikt i de föreskrifter som gäller för
 verksamheten,
@@ -5070,7 +5070,7 @@ KUNGSBACKA KOMMUN
 har förutsättningar att följa de föreskrifter som gäller för utbildningen. Vidare krävs att den enskilde i
 övrigt bedöms lämplig.
 
-I fråga om en juridisk person krävs att samtliga som anges i 2 kap. 5 a \$ 1-4 bedöms lämpliga. Vid
+I fråga om en juridisk person krävs att samtliga som anges i 2 kap. 5 a § 1-4 bedöms lämpliga. Vid
 lämplighetsbedömningen ska viljan och förmågan att fullgöra sina skyldigheter mot det allmänna,
 laglydnad i övrigt och andra omständigheter av betydelse beaktas.
 
@@ -5088,7 +5088,7 @@ Förvaltningschef Utredare Myndighet & Stöd
 KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL
 Nämnden för Förskola & Grundskola Datum
 2024-05-15
-\$ 51 Dnr FG-2024-00258
+§ 51 Dnr FG-2024-00258
 
 Ansökan från Förskolekooperativet Myrstacken i Åsa Ekonomisk
 förening om permanent utökning av barnantal
@@ -5106,7 +5106,7 @@ ansökan om utökning av barnantal på förskolan Myrstacken, Kumlabacken 9.
 Förskolan har funnits sedan 1988 och har i dagsläget ett tillstånd från 1999 som
 omfattar 19 barn. Ansökan omfattar en utökning med 2 barn till 21 barn.
 
-Enligt skollagen kap 2 \$ 5 ska kommunen godkänna enskilda som vill bedriva
+Enligt skollagen kap 2 § 5 ska kommunen godkänna enskilda som vill bedriva
 förskoleverksamhet om den enskilde bedöms besitta insikt, har ekonomiska
 förutsättningar och i övrigt har förutsättningar att följa de föreskrifter som gäller för
 utbildningen. Den enskilde ska även bedömas lämplig. Utbildningen ska inte heller
@@ -5259,7 +5259,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (1)
 Förskola & Grundskola arbetsutskott Datum
 2026-05-07
 
-\$ 59 Dnr FG-2026-00232
+§ 59 Dnr FG-2026-00232
 
 Ansökan från Förskolekooperativet Myrstacken i Åsa Ekonomisk
 förening gällande permanent utökning av barnantal på förskolan
@@ -5278,7 +5278,7 @@ ansökan om utökning av barnantal på förskolan Myrstacken, Kumlabacken 9.
 Huvudmannen har sedan 2024-05-15 ett beslut som omfattar 21 barn i sin
 verksamhet. Ansökan gäller en utökning från 21 till 22 barn.
 
-Enligt skollagen kap 2 \$ 5 ska kommunen godkänna enskilda som vill bedriva
+Enligt skollagen kap 2 § 5 ska kommunen godkänna enskilda som vill bedriva
 förskoleverksamhet om den enskilde bedöms besitta insikt, har ekonomiska
 förutsättningar och i övrigt har förutsättningar att följa de föreskrifter som gäller för
 utbildningen. Den enskilde ska även bedömas lämplig. Utbildningen ska inte heller

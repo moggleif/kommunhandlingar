@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.19326c8b1a1302ccbfb7b783/1792140041
 sha256: c2b3d9bfd73480c292030bc0e32fb49bb6d86ff90a7dad0f1289bd93622a6c4f
 bytes: 63956656
 sidor: 656
-hamtad: 2026-10-18T06:04:10+00:00
-konverterad: 2026-10-18T06:09:27+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T08:26:37+00:00
+konverterad: 2026-10-23T08:34:09+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ej-konverterad, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -29114,7 +29114,7 @@ Miljö- och byggnadsnämnden i Mörbylånga kommun beslutade den 23 mars
 2017 att anta en detaljplan för fastigheten Mörbylånga 11:54 samt del av
 fastigheten 11:27, Norra Viken, i kommunen.
 
-Länsstyrelsen i Kalmar län fattade den 14 juli 2017, med stöd av 11 kap. 11 \$
+Länsstyrelsen i Kalmar län fattade den 14 juli 2017, med stöd av 11 kap. 11 §
 plan- och bygglagen (2010:900), det beslut som framgår av bilagan.
 
 Miljö- och byggnadsnämnden i Mörbylånga kommun har överklagat
@@ -29182,7 +29182,7 @@ Skälen för regeringens beslut
 Länsstyrelsen ska upphäva en kommuns beslut att anta, ändra eller upphäva
 en detaljplan bl.a. om en bebyggelse blir olämplig med hänsyn till
 människors hälsa eller säkerhet eller till risken för olyckor, översvämning
-eller erosion (11 kap. 10 \$ andra stycket 5 och 11 \$ plan- och bygglagen).
+eller erosion (11 kap. 10 § andra stycket 5 och 11 § plan- och bygglagen).
 
 Av handlingarna i ärendet framgår att det område som den aktuella
 detaljplanen avser har en förhöjd risk för översvämning. Vidare framgår att
@@ -29208,7 +29208,7 @@ möta risken för översvämning.
 
 Regeringen finner med hänsyn till vad som ovan har anförts, och mot
 bakgrund av vad Boverket och MSB har framfört, att länsstyrelsen har haft
-fog för att med stöd av 11 kap. 11 \$ plan och bygglagen upphäva miljö- och
+fog för att med stöd av 11 kap. 11 § plan och bygglagen upphäva miljö- och
 byggnadsnämndens beslut om att anta detaljplanen.
 
 <!-- sida 625 -->
@@ -29246,15 +29246,15 @@ detaljplan för Mörbylånga 11:54 samt del av 11:27, Norra Viken i Mörbylånga
 kommun
 
 Länsstyrelsens beslut
-Länsstyrelsen beslutar med stöd av 11 kap. 11 \$ plan- och bygglagen (2010:900 PBL) att
+Länsstyrelsen beslutar med stöd av 11 kap. 11 § plan- och bygglagen (2010:900 PBL) att
 
 upphäva miljö- och byggnadsnämndens beslut att anta detaljplan för Mörbylånga 11:54 samt
 del av 11:27, Norra Viken i Mörbylånga kommun därför att genomförandet av planen strider
-mot bestämmelserna i 11 kap. 10 \$ punkt 5 plan- och bygglagen (2010:900 PBL).
+mot bestämmelserna i 11 kap. 10 § punkt 5 plan- och bygglagen (2010:900 PBL).
 
 Överprövat beslut
 
-Det överprövade beslutet är miljö- och byggnadsnämndens beslut (\$ 37), den 23 mars 2017 att
+Det överprövade beslutet är miljö- och byggnadsnämndens beslut (§ 37), den 23 mars 2017 att
 anta detaljplan för Mörbylånga 11:54 samt del av 11:27, Norra Viken i Mörbylånga kommun.
 Syftet med detaljplanen är att möjliggöra en utveckling av Mörbylånga tätort. Utvecklingen ska
 ske så att utbudet av boendeformer varieras.
@@ -29292,7 +29292,7 @@ Länsstyrelsen BESLUT 2 (2)
 Kalmar län 2017-07-14 404-2686-17
 
 Länsstyrelsen anser därför att det finns skäl att anta att bebyggelsen bli olämplig med hänsyn
-till hälsa och säkerhet och upphäver därför detaljplanen enligt 11 kap. 10 \$ PBL (2010:900).
+till hälsa och säkerhet och upphäver därför detaljplanen enligt 11 kap. 10 § PBL (2010:900).
 
 Deltagande
 Beslutet har fattats av landshövding Thomas Carlzon efter föredragning av planhandläggare
@@ -29399,7 +29399,7 @@ Kommun fullmäktige i Kristianstads kommun beslutade den 20 september
 kommunen.
 
 Länsstyrelsen i Skåne län beslutade den 14 december 2017, med stöd av
-11 kap. 11 \$ plan- och bygglagen (2010:900), förkortad PBL, att upphäva
+11 kap. 11 § plan- och bygglagen (2010:900), förkortad PBL, att upphäva
 kommunens beslut, se bilaga 2.
 
 Kristianstads kommun har överklagat länsstyrelsens beslut och anfört i
@@ -29455,7 +29455,7 @@ beslutet.
 Länsstyrelsen ska upphäva en kommuns beslut att anta, ändra eller upphäva
 en detaljplan bl.a. om en bebyggelse blir olämplig med hänsyn till
 människors hälsa eller säkerhet eller till risken för olyckor, översvämning
-eller erosion (11 kap. 10 \$ andra stycket 5 och 11 kap. 11 \$ PBL).
+eller erosion (11 kap. 10 § andra stycket 5 och 11 kap. 11 § PBL).
 
 Av handlingarna i ärendet framgår att området som den aktuella detaljplanen
 avser har en förhöjd risk för översvämning. Vidare framgår att kommunen
@@ -29478,7 +29478,7 @@ möta risken för översvämning.
 
 Regeringen finner med hänsyn till vad som ovan angivits, och mot bakgrund
 av vad Boverket och MSB har anfört, att länsstyrelsen har haft fog för att
-med stöd av 11 kap. 11 \$ PBL upphäva kommunfullmäktiges beslut att anta
+med stöd av 11 kap. 11 § PBL upphäva kommunfullmäktiges beslut att anta
 detaljplanen. Vad kommunen, Walter Larsson och Bengt Åkesson hat
 anfört, om bl.a. ställningstaganden i andra ärenden, föranleder ingen annan
 bedömning. Överklagandena bör därför avslås.
@@ -29547,7 +29547,7 @@ Yngsjö 3:154 utmed Björkstigen i Åhus, Kristianstads kommun
 Länsstyrelsens beslut
 
 Länsstyrelsen upphäver i enlighet med 11 kap 118 plan- och bygglagen (PBL
-2010:900) kommunens beslut, den 20 september 2017 \$ 189, att anta detaljplan för
+2010:900) kommunens beslut, den 20 september 2017 § 189, att anta detaljplan för
 Yngsjö 3:36 och Yngsjö 3:154 utmed Björkstigen i Åhus, Kristianstads kommun.
 
 Redogörelse för ärendet
@@ -29928,7 +29928,7 @@ dagvattenlösningen ej säkerställa en god dagvattenhantering.
 
 Länsstyrelsen bedömning är att marken inte är lämplig för bebyggelse gällande
 översvämning så som detaljplanen är utformad då den inte säkerställer en god
-hantering av dagvatten enligt 2 kap 5 \$& PBL.
+hantering av dagvatten enligt 2 kap 5 §& PBL.
 
 Extremnederbörd
 
@@ -29970,7 +29970,7 @@ etc.
 
 Länsstyrelsen bedömning är att marken inte är lämplig för bebyggelse gällande
 översvämning så som detaljplanen är utformad då den inte säkerställer en god
-hantering av extremnederbörd enligt 2 kap 5 \$ PBL.
+hantering av extremnederbörd enligt 2 kap 5 § PBL.
 
 Hälsa och säkerhet
 Då den skyddande sandbanken kan förväntas erodera bort i framtiden blir

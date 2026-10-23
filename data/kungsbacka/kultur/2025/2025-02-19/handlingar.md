@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6725411a194d849cc4be1583/1739444896
 sha256: 717bec89a9600a0ee046c4a24e842b09ea1f045b3981b6cd6d81b7f3ab1129c1
 bytes: 11254890
 sidor: 161
-hamtad: 2026-10-14T10:34:25+00:00
-konverterad: 2026-10-14T10:35:06+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T11:04:29+00:00
+konverterad: 2026-10-23T11:05:18+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -5495,14 +5495,14 @@ s i L CJ j Xx AA
 
 H id Vr VV / j
 
-\$ 17 - AH 7” i / / 2
+§ 17 - AH 7” i / / 2
 
 Korrigering i bestämmelse för Kungsbacka kommuns
 kulturpris
 
 Beslut
 
-Ändra formuleringen i bestämmelserna \$ 9 att sista ansökningsdag ska vara
+Ändra formuleringen i bestämmelserna § 9 att sista ansökningsdag ska vara
 ”nämnden tillhanda senast 1 mars”.
 
 Nämnden godkänner den begränsade revideringen av bestämmelserna, som
@@ -5519,7 +5519,7 @@ nämnden för 2008 års pristagare till 10 tkr i stället för tidigare 6 tkr. O
 som lägsta belopp kan fortfara att gälla vid flera pris.
 
 Under senare år har det mer och mer framstått att datumet 1 februari för sista dag för
-inlämnande av förslag enligt \$ 5 i stadgarna är lite för tidigt satt på året. För att på
+inlämnande av förslag enligt § 5 i stadgarna är lite för tidigt satt på året. För att på
 bästa sätt hinna informera och marknadsföra priset bör ett något senare datum för
 sista förslagsdag bli gällande.
 
@@ -5535,7 +5535,7 @@ Förvaltningschef Elisabeth Lax redogör för ärendet.
 Förslag till beslut
 
 Nämnden för Kultur & Turism föreslås besluta att ändra formuleringen i
-bestämmelsernas \$ 5 innebärande att sista inlämningsdag av förslag till kommunens
+bestämmelsernas § 5 innebärande att sista inlämningsdag av förslag till kommunens
 kulturpris ska vara den 1 mars.
 
 Justerare, ) | Expedierat/bestyrkt
@@ -5847,7 +5847,7 @@ KUNGSBACKA KOMMUN
 Nämnden för Kultur & Turism SAMMANTRÄDESPROTOKOLL 10 (20)
 Sammanträdesdatum
 2007-09-25
-\$78 Kt97-00305/
+§78 Kt97-00305/
 
 Inrättande av Kulturstipendier för ungdom
 
@@ -5905,7 +5905,7 @@ Sammanträdesdatum
 
 2007-09-25
 
-\$ 78 forts
+§ 78 forts
 
 Beslutsunderlag
 

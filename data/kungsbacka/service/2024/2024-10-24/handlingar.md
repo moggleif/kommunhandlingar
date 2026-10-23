@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1e6538661929de083d25504/17292431829
 sha256: b7e8f5479addb05d5eda756e1bfea6d66649f3f8bcf452f46ffeb04eceba11f2
 bytes: 1062148
 sidor: 15
-hamtad: 2026-10-14T09:48:42+00:00
-konverterad: 2026-10-14T09:48:48+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T10:30:46+00:00
+konverterad: 2026-10-23T10:30:52+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok]
@@ -496,14 +496,14 @@ Sammanfattning
 
 Kungsbacka
 
-Beslut fattade med stöd av nämnden för Service delegeringsförteckning 2024-06-19 \$ 61 under
+Beslut fattade med stöd av nämnden för Service delegeringsförteckning 2024-06-19 § 61 under
 
 perioden 2024-09-16 till 2024-10-09
 
 Ärende/ärendegrupp Beslut, insats samt Beslutsfattare IBeslutsdatum | Dnr
 enligt delegationslistan | ev. omfattning
 2.3.8
-AB \$ 10 mom. 1-3 Avstängning Christina Carlsson 0924-08-23
+AB § 10 mom. 1-3 Avstängning Christina Carlsson 0924-08-23
 Tf VC
 2.1.10 Julia
 Dataskyddsförordningen |Hantering av Tryggvadottir 2024-09-11 —  |SE 2024-00388
@@ -516,7 +516,7 @@ Hantering av digitala tjänster och
 personuppgifter, system
 Riktlinjer,
 Kommunfullmäktige
-2024 -03 -05 \$ 33
+2024 -03 -05 § 33
 2.1.10 Julia
 Dataskyddsförordningen |Hantering av Tryggvadottir  b024-09-25 — |SE 2024-00319
 GDPR, artikel 33 och 34 personuppgiftsincident To lesson

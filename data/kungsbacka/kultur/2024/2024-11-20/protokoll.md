@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4d9a7d041932991fe6062e64/1732263642
 sha256: af8835404691a9cbd829bc344a23d3293d3d4a327c3b9776e3e43b0d76373468
 bytes: 3251962
 sidor: 15
-hamtad: 2026-10-14T10:18:52+00:00
-konverterad: 2026-10-14T10:19:37+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T10:46:56+00:00
+konverterad: 2026-10-23T10:47:57+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -98,7 +98,7 @@ Klockan 17:00-20:13
 Tjänstgörande ersättare
 
 Bo Barknertz (M) för Ulrika
-Jörgensen (M) \$115
+Jörgensen (M) §115
 
 Tjänstepersoner
 
@@ -124,7 +124,7 @@ kommunrevisionen
 
 Rebecka Rask, Ernst & Young
 
-\$ 112-123
+§ 112-123
 
 Paragrafer
 
@@ -135,46 +135,46 @@ Nämnden för Kultur & Fritid Datum
 2024-11-20
 
 Innehåll
-\$ 112 Dnr KFT-2024-00334
+§ 112 Dnr KFT-2024-00334
 
-Information till nämnd: dialog med revisionen .........sssssrssrrrsrsrrersrsnrrrsrsrnr nn 3
-\$ 113 Dnr KFT-2024-00326
+Information till nämnd: dialog med revisionen .... 3
+§ 113 Dnr KFT-2024-00326
 
-Information till nämnd: BRÅ, lägesbild..........ssssssesrsrseserersrsrsrseserererereren erna 4
-\$ 114 Dnr KFT-2024-00336
+Information till nämnd: BRÅ, lägesbild .... 4
+§ 114 Dnr KFT-2024-00336
 
-Initiativ från Alliansen: Stärkt Brottsförebyggande arbete.......................... 5
-\$ 115 Dnr KFT-2024-00321
+Initiativ från Alliansen: Stärkt Brottsförebyggande arbete .... 5
+§ 115 Dnr KFT-2024-00321
 
 Initiativ från Alliansen: söka finansiering för ökade aktiviteter för äldre på
 
 [070153 8 06 [5 a VR 6
-\$ 116 Dnr KFT-2024-00083
+§ 116 Dnr KFT-2024-00083
 
 Initiativ från Alliansen: Uppdrag för framtagande av fördelningsprinciper
 
-för bokning av Kungsbacka kommuns idrottsanläggningar ........................ 7
-\$ 117 Dnr KFT-2024-00294
+för bokning av Kungsbacka kommuns idrottsanläggningar .... 7
+§ 117 Dnr KFT-2024-00294
 
 Remiss - Kungsbacka kommuns Bostadsförsörjningsplan 2025-2029 sista
 
 svarsdag 2024-12-14 sinsssssessssssssrrrereesserrrrrrrererererrnrrrrrrrrrrrrnrnrrr rer rrrrrrnnnn rn rr nan 8
-\$ 118 Dnr KFT-2024-00306
+§ 118 Dnr KFT-2024-00306
 
-Information till nämnd: vidareutveckling av stöd till föreningar............... 10
-\$ 119 Dnr KFT-2024-00325
+Information till nämnd: vidareutveckling av stöd till föreningar .... 10
+§ 119 Dnr KFT-2024-00325
 
 Intern kontrollplan 2025 =mosssssssssserersrssrererserrrersrrrrerssrrrrsrrrrrrs rr rr rer rr nr rr rna 11
-\$ 120 Dnr KFT-2024-00331
+§ 120 Dnr KFT-2024-00331
 
 Redovisning av inkomna handlingar nov 2024 = msnsmsssesesssrrrrssssrersesnrrrrrnnrn 12
-\$ 121 Dnr KFT-2024-00332
+§ 121 Dnr KFT-2024-00332
 
 Anmälan av ordförandebeslUt.......ssssserssssrrrssrrrrsrrrrrerrrrerrrrrrrrrrrrrrrrrrr rr nero 2 a 13
-\$ 122 Dnr KFT-2024-00330
+§ 122 Dnr KFT-2024-00330
 
 Anmälan av delegationsbeslut nov 2024... ..ssmmrssssrrsrssssrrrrrsrrrrrsssrnrsssrrrrerrnrt 14
-\$ 123 Dnr KFT-2024-00333
+§ 123 Dnr KFT-2024-00333
 
 Förvaltningschefen infOrmerals...ssseeserrssrrsserrrrrrrrrrerrrrnrrnrnrrrrrrrrrnrrrrrr ere ann 15
 
@@ -192,7 +192,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (15)
 Nämnden för Kultur & Fritid Datum
 2024-11-20
 
-\$ 112 Dnr KFT-2024-00334
+§ 112 Dnr KFT-2024-00334
 Information till nämnd: dialog med revisionen
 
 Beslut
@@ -223,7 +223,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (15)
 Nämnden för Kultur & Fritid Datum
 2024-11-20
 
-\$ 113 Dnr KFT-2024-00326
+§ 113 Dnr KFT-2024-00326
 Information till nämnd: BRÅ, lägesbild
 
 Beslut
@@ -262,7 +262,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (15)
 Nämnden för Kultur & Fritid Datum
 2024-11-20
 
-\$ 114 Dnr KFT-2024-00336
+§ 114 Dnr KFT-2024-00336
 Initiativ från Alliansen: Stärkt Brottsförebyggande arbete
 
 Beslut
@@ -318,7 +318,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (15)
 Nämnden för Kultur & Fritid Datum
 2024-11-20
 
-\$ 115 Dnr KFT-2024-00321
+§ 115 Dnr KFT-2024-00321
 
 Initiativ från Alliansen: söka finansiering för ökade aktiviteter för äldre
 på boenden
@@ -337,12 +337,12 @@ sammanträdet 2024-10-23 att ge i uppdrag åt förvaltningen att söka finansier
 initiativet.
 
 Då medel ur kommunstyrelsens satsning enbart kan sökas av nämnder ersätter detta
-beslut tidigare beslut (Nämnden för Kultur & Fritid 2024-10-23 \$ 102).
+beslut tidigare beslut (Nämnden för Kultur & Fritid 2024-10-23 § 102).
 
 Beslutsunderlag
 
 Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2024-11-13
-Protokollsutdrag 2024-10-23 \$ 102 Initiativ från Alliansen: söka finansiering för
+Protokollsutdrag 2024-10-23 § 102 Initiativ från Alliansen: söka finansiering för
 
 ökade aktiviteter för äldre på boenden
 Initiativ från Alliansen, 2024-10-23
@@ -371,7 +371,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7 (15)
 Nämnden för Kultur & Fritid Datum
 2024-11-20
 
-\$ 116 Dnr KFT-2024-00083
+§ 116 Dnr KFT-2024-00083
 
 Initiativ från Alliansen: Uppdrag för framtagande av
 fördelningsprinciper för bokning av Kungsbacka kommuns
@@ -425,7 +425,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 8 (15)
 Nämnden för Kultur & Fritid Datum
 2024-11-20
 
-\$ 117 Dnr KFT-2024-00294
+§ 117 Dnr KFT-2024-00294
 
 Remiss - Kungsbacka kommuns Bostadsförsörjningsplan 2025-2029
 sista svarsdag 2024-12-14
@@ -455,13 +455,13 @@ Förvaltningen för Kultur & Fritids tjänsteskrivelse, 2024-11-13
 
 Yttrande Kultur & Fritid, 2024-11-13
 
-Kommunstyrelsens arbetsutskott 2024-09-03, \$ 232.
+Kommunstyrelsens arbetsutskott 2024-09-03, § 232.
 
 Kommunstyrelsens förvaltnings tjänsteskrivelse, 2024-08-14.
 Bostadsförsörjningsplan för Kungsbacka kommun 2025-2029 Del 1: Plan.
 Bostadsförsörjningsplan för Kungsbacka kommun 2025-2029 Del 2: Bilagor.
 Kungsbackas bostadsförsörjningsprogram 2019-2025 — med utblick mot 2030,
-antaget av kommunfullmäktige 2020-05-05, \$ 46.
+antaget av kommunfullmäktige 2020-05-05, § 46.
 
 Förslag till beslut på sammanträdet
 
@@ -514,7 +514,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 10 (15)
 Nämnden för Kultur & Fritid Datum
 2024-11-20
 
-\$ 118 Dnr KFT-2024-00306
+§ 118 Dnr KFT-2024-00306
 Information till nämnd: vidareutveckling av stöd till föreningar
 
 Beslut
@@ -544,7 +544,7 @@ Transaktionsidentitet: B7F83A50C4D67CC49320DCC3B39695A06F2E3CE229
 KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL
 Nämnden för Kultur & Fritid Datum
 2024-11-20
-\$ 119 Dnr KFT-2024-00325
+§ 119 Dnr KFT-2024-00325
 
 Intern kontrollplan 2025
 
@@ -591,7 +591,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 12 (15)
 Nämnden för Kultur & Fritid Datum
 2024-11-20
 
-\$ 120 Dnr KFT-2024-00331
+§ 120 Dnr KFT-2024-00331
 Redovisning av inkomna handlingar nov 2024
 
 Beslut
@@ -621,7 +621,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 13 (15)
 Nämnden för Kultur & Fritid Datum
 2024-11-20
 
-\$ 121 Dnr KFT-2024-00332
+§ 121 Dnr KFT-2024-00332
 Anmälan av ordförandebeslut
 
 Beslut
@@ -676,7 +676,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 14 (15)
 Nämnden för Kultur & Fritid Datum
 2024-11-20
 
-\$ 122 Dnr KFT-2024-00330
+§ 122 Dnr KFT-2024-00330
 Anmälan av delegationsbeslut nov 2024
 
 Beslut
@@ -715,7 +715,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 15 (15)
 Nämnden för Kultur & Fritid Datum
 2024-11-20
 
-\$ 123 Dnr KFT-2024-00333
+§ 123 Dnr KFT-2024-00333
 Förvaltningschefen informerar
 
 Beslut

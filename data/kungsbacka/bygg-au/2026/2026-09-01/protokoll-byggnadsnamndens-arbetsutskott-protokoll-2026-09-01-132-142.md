@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5376419c1a06a03405c9133/17885041348
 sha256: 3ee1e7a48637577a538435b171a7c072303414cb1f0a03649dff20c142118feb
 bytes: 582331
 sidor: 28
-hamtad: 2026-10-14T08:11:33+00:00
-konverterad: 2026-10-14T08:11:46+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T08:40:37+00:00
+konverterad: 2026-10-23T08:40:51+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -35,10 +35,10 @@ Plats och tid för Kommunfullmäktigesalen, Storgatan 37 Klockan 13.00—15.29
 sammanträde
 Beslutande Ledamöter Tjänstgörande ersättare
 
-Thure Sandén (M), Ordförande \$\$ 132-142
+Thure Sandén (M), Ordförande §§ 132-142
 Heinrich Kaufmann (C), ordförande
 
-\$\$ 126-131, vice ordförande \$\$ 132-142
+§§ 126-131, vice ordförande §§ 132-142
 Daniel Hognert (M)
 
 Lars Eriksson (S)
@@ -49,7 +49,7 @@ Stefan Vilumsons (SD)
 Katarina Öryd, förvaltningschef
 Hanna Ståhl, verksamhetschef
 Kasra Hassirian, förvaltningsjurist
-\$\$ 126-134
+§§ 126-134
 Karl Boström, enhetschef
 Peter Sebestyén, samordnare
 Thinh Bui-Ljungqvist, senior
@@ -57,15 +57,15 @@ bygglovshandläggare
 André Nilsson, senior
 bygglovshandläggare
 Ida Lennartsson, verksamhetschef
-Nahren Dawid, utvecklare \$\$ 132-142
+Nahren Dawid, utvecklare §§ 132-142
 Stina Wikström, planarkitekt
-\$\$ 135-140
+§§ 135-140
 Sofie Axelsson, nämndsekreterare
 
 Plats och tid för justering — Digital justering
 
-Sekreterare Sofie Axelsson Paragrafer. \$\$ 132-142
-\$\$ 126-131, se separat
+Sekreterare Sofie Axelsson Paragrafer. §§ 132-142
+§§ 126-131, se separat
 protokoll
 
 Ordförande Thure Sandén (M)

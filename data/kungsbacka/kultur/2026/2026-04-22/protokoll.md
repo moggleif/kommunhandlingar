@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.38e68eb519dd3ac48d82d0e/17773814874
 sha256: 26dd268955bc33c5d0551a117d2a84b0d7e7f2d5602978a5e163574564ad8011
 bytes: 1431861
 sidor: 13
-hamtad: 2026-10-14T10:22:22+00:00
-konverterad: 2026-10-14T10:22:44+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T10:51:08+00:00
+konverterad: 2026-10-23T10:51:35+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -82,7 +82,7 @@ Malin Svarfvar, enhetschef
 Annica Sommar, utvecklingschef
 Vård & Omsorg
 
-Paragrafer \$\$ 47-57
+Paragrafer §§ 47-57
 
 <!-- sida 2 -->
 
@@ -92,7 +92,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-\$ 47 Dnr KFT-2026-00107
+§ 47 Dnr KFT-2026-00107
 Anmälan av jäv
 
 Beslut
@@ -121,7 +121,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 4 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-\$ 48 Dnr KFT-2026-00116
+§ 48 Dnr KFT-2026-00116
 Information till nämnd: mötesplats Protonen
 
 Beslut
@@ -152,7 +152,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-\$49 Dnr KFT-2026-00100
+§49 Dnr KFT-2026-00100
 
 Information till nämnd: uppdatering Kungsbacka Arena och
 Kungsbacka Teater
@@ -185,7 +185,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-\$ 50 Dnr KFT-2026-00097
+§ 50 Dnr KFT-2026-00097
 Information till nämnd: ökade aktiviteter på boenden
 
 Beslut
@@ -218,7 +218,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-\$ 51 Dnr KFT-2026-00106
+§ 51 Dnr KFT-2026-00106
 Information till nämnd: uppdatering Kulturskolan
 
 Beslut
@@ -249,7 +249,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 8 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-\$ 52 Dnr KFT-2026-00112
+§ 52 Dnr KFT-2026-00112
 Begäran att få behålla budgetmedel för uppsagda lokaler
 
 Beslut
@@ -300,7 +300,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-\$ 53 Dnr KFT-2026-00108
+§ 53 Dnr KFT-2026-00108
 Information till nämnd: Armlängds avstånd
 
 Beslut
@@ -331,7 +331,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 10 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-\$ 54 Dnr KFT-2026-00098
+§ 54 Dnr KFT-2026-00098
 Information till nämnd: uppföljning målbild 2030
 
 Beslut
@@ -362,7 +362,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 11 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-\$ 55 Dnr KFT-2026-00109
+§ 55 Dnr KFT-2026-00109
 Anmälan av delegeringsbeslut april 2026
 
 Beslut
@@ -406,7 +406,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 12 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-\$ 56 Dnr KFT-2026-00110
+§ 56 Dnr KFT-2026-00110
 Redovisning av inkomna skrivelser april 2026
 
 Beslut
@@ -438,7 +438,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 13 (13)
 Nämnden för Kultur & Fritid Dalin
 2026-04-22
 
-\$ 57 Dnr KFT-2026-00111
+§ 57 Dnr KFT-2026-00111
 Förvaltningschefen informerar april 2026
 
 Beslut

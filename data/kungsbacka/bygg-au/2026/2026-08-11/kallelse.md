@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5dad318c19fb16abb678cb60/1785928488
 sha256: 45daea122d2a5353e0d373b5c3533023c633b73e3b52b4da946c156c71e14992
 bytes: 158648
 sidor: 3
-hamtad: 2026-10-14T08:16:08+00:00
-konverterad: 2026-10-14T08:16:16+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T08:44:58+00:00
+konverterad: 2026-10-23T08:45:08+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr]
@@ -98,7 +98,7 @@ grund av att beslutet har tagit mer än 10
 veckor. Kostnaden blir därför 0 kronor.
 Avgiften är fastställd i taxan för
 byggnadsnämndens verksamhet, beslutad i
-kommunfullmäktige 2023-12-14 \$ 196.
+kommunfullmäktige 2023-12-14 § 196.
 LUNNA 1:35 - Förhandsbesked | BN-2026- Förslag till beslut 5
 för nybyggnad av ett 000150 Byggnadsnämndens arbetsutskott lämnar min
 enbostadshus negativt förhandsbesked för ett enbostadshus
@@ -109,7 +109,7 @@ grund av att beslutet har tagit mer än 10
 veckor. Kostnaden blir därför 0 kr. Avgiften
 är fastställd i taxan för byggnadsnämndens
 verksamhet, beslutad i kommunfullmäktige
-2023-12-14 \$ 196.
+2023-12-14 § 196.
 ÖLMANÄS 2:49 - BN-2026- Förslag till beslut 5
 Förhandsbesked för nybyggnad |000630 Byggnadsnämndens arbetsutskott lämnar min
 av enbostadshus negativt förhandsbesked för nybyggnad av
@@ -117,7 +117,7 @@ on ett enbostadshus på fastigheten.
 tentor byeglovshandläggare Avgiften för beslutet är 22 400 kronor.
 Avgiften är fastställd i taxan för
 byggnadsnämndens verksamhet, beslutad i
-kommunfullmäktige 2023-12-14 \$ 196.
+kommunfullmäktige 2023-12-14 § 196.
 
 <!-- sida 3 -->
 

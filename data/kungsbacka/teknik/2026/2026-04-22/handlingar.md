@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.63c8c56619d9a5b19c1f1/1776411562726
 sha256: 47156ef1a802f841000bd84c39b8ccc166ab8fa1c708a46d2116969a74192dd9
 bytes: 5951631
 sidor: 52
-hamtad: 2026-10-14T09:17:47+00:00
-konverterad: 2026-10-14T09:18:09+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-23T09:58:07+00:00
+konverterad: 2026-10-23T09:58:36+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
@@ -290,7 +290,7 @@ Teknik fastställd typ, till 500 kr/m och säsong från och med säsongen 2005.
 
 Ärendeberedning
 Kommunstyrelsens förvaltning, skrivelse 2005-05-1 1.
-Kommunstyrelsens arbetsutskott 2005-05-17, \$ 228.
+Kommunstyrelsens arbetsutskott 2005-05-17, § 228.
 
 Kommunstyrelsen 2005-05-25, 8 124.
 
@@ -899,7 +899,7 @@ Kungsbacka kommun        Lokala ordningsföreskrifter för torghandel 5 (5)
 <!-- sida 23 -->
 
 lv KUNGSBACKA Datum 1996-11-14 Beteckning 2.
-KOMMUNS KF \$\$ 205/96
+KOMMUNS KF §§ 205/96
 FÖRFATTNINGSSAMLING
 
 Grunder för torghandelsavgifter i Kungsbacka

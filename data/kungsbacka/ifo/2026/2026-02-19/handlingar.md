@@ -5,19 +5,19 @@ datum: 2026-02-19
 lopnr: null
 typ: handlingar
 namn: null
-kallnyckel: sitevision:18.46db326b19c4795e008b5e4e
-tidigare_kallnycklar: []
+kallnyckel: sitevision:18.33df50461a157e1b9001881
+tidigare_kallnycklar: [sitevision:18.46db326b19c4795e008b5e4e]
 arenden: null
-kalla_url: https://kungsbacka.se/download/18.46db326b19c4795e008b5e4e/1771240415516/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20handlingar%202026-02-19.pdf
-sha256: d36da162c8b1ab576ea152f6d0fa187b95b61f5eca56845580dff6ad94a06e6e
-bytes: 6176415
-sidor: 178
-hamtad: 2026-10-14T10:14:00+00:00
-konverterad: 2026-10-14T10:14:34+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+kalla_url: https://kungsbacka.se/download/18.33df50461a157e1b9001881/1792480022053/N%C3%A4mnden%20f%C3%B6r%20Individ%20&%20Familjeomsorg%20handlingar%202026-02-19.pdf
+sha256: 82388dbd3d8978d089a56569450080bdcb3708a4694b9422d19e6a94b161bf59
+bytes: 5960817
+sidor: 174
+hamtad: 2026-10-23T06:10:45+00:00
+konverterad: 2026-10-23T06:11:32+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [15, 16, 17, 18, 155]
 figurer: [15, 16, 17, 18, 30, 35, 36, 37, 50, 51, 54, 55, 58, 59, 60, 61, 62, 63, 64, 65, 94, 100]
 tolkade: []
@@ -7188,193 +7188,6 @@ TJÄNSTESKRIVELSE
 Datum
 2026-01-29
 Diarienummer
-IF-2024-00012
-
-Redovisning av domar och beslut, februari 2026
-
-Förslag till beslut
-Nämnden för Individ & Familjeomsorg noterar redovisningen av inkomna domar och beslut till
-
-protokollet.
-
-Sammanfattning av ärendet
-
-Redovisning för perioden 2025-12-01 – 2026-01-31.
-
-Högsta Förvaltningsdomstolen
-
-Beslut meddelat i mål nr. 7029-25, daterad 2026-01-23, saken; den enskilde har överklagat
-Kammarrätten i Göteborgs beslut gällande avvisad talan; fråga om prövningstillstånd. Högsta
-förvaltningsdomstolen avslår yrkandet om förordnande av offentligt biträde. Högsta
-förvaltningsdomstolen meddelar inte prövningstillstånd. Kammarrättens avgörande står därmed fast.
-
-Kammarrätten i Göteborg, KR
-Beslut meddelat i mål nr. 7924-25, daterad 2026-01-28, saken; den enskilde har överklagat
-förvaltningsrättens beslut gällande bistånd; fråga om prövningstillstånd. Kammarrätten meddelar inte
-prövningstillstånd. Förvaltningsrättens avgörande står därför fast.
-
-Förvaltningsrätten i Göteborg, FR
-Beslut meddelat i mål nr. 8283-25, daterad 2025-12-03, saken; den enskilde har överklagat nämndens
-beslut gällande personlig assistans enligt lagen (1993:387) om stöd och service till vissa
-
-funktionshindrade, LSS. Förvaltningsrätten upphäver det överklagade beslutet och visar målet åter till
-nämnden för fortsatt handläggning.
-Beslut meddelat i mål nr. 12421-25, daterad 2025-12-08, saken; den enskilde har överklagat nämndens
-beslut gällande personlig assistans enligt lagen (1993:387) om stöd och service till vissa
-funktionshindrade, LSS. Förvaltningsrätten beslutar att den enskilde har rätt till insatsen personlig
-assistans. Beslutet gäller till dess förvaltningsrätten avgör målet slutligt eller förordnar på annat sätt.
-
-1 (3)
-Kungsbacka kommun
-434 81 Kungsbacka
-Josefine Jönsson
-0300-838345                                                   Besöksadress
-Nämndsekreterare                                         Stadshuset, Storgatan 37
-Telefon 0300-83 40 00
-www.kungsbacka.se
-
-<!-- sida 174 -->
-
-KUNGSBACKA  KOMMUN
-2 (3)
-
-Dom meddelad i mål nr. 6695-25, daterad 2025-12-17, saken; den enskilde har överklagat nämndens
-beslut gällande personlig assistans enligt lagen (1993:387) om stöd och service till vissa
-
-funktionshindrade, LSS. Förvaltningsrätten avslår överklagandet.
-Dom meddelad i mål nr. 9400-25, daterad 2025-12-17, saken; den enskilde har överklagat nämndens
-beslut gällande ledsagarservice enligt lagen (1993:387) om stöd och service till vissa
-funktionshindrade, LSS. Förvaltningsrätten avslår överklagandet.
-
-Dom meddelad i mål nr. 9398-25, daterad 2025-12-17, saken; den enskilde har överklagat nämndens
-beslut gällande korttidsvistelse enligt lagen (1993:387) om stöd och service till vissa
-funktionshindrade, LSS. Förvaltningsrätten avslår överklagandet.
-
-Dom meddelad i mål nr. 9205-25, daterad 2026-01-22, saken; den enskilde har överklagat nämndens
-beslut gällande personkrets enligt lagen (1993:387) om stöd och service till vissa funktionshindrade,
-LSS. Förvaltningsrätten bifaller överklagandet och målet visas åter till nämnden för Individ &
-Familjeomsorg i Kungsbacka kommun för fortsatt handläggning.
-Dom meddelad i mål nr. 10135-25, daterad 2026-01-27, saken; den enskilde har överklagat nämndens
-beslut gällande korttidsvistelse enligt lagen (1993:387) om stöd och service till vissa
-funktionshindrade, LSS. Förvaltningsrätten avslår överklagandet.
-
-Dom meddelad i mål nr. 10901-25, daterad 2026-01-20, saken; den enskilde har överklagat nämndens
-beslut gällande avlösarservice enligt lagen (1993:387) om stöd och service till vissa funktionshindrade,
-LSS. Förvaltningsrätten avslår överklagandet.
-
-Beslut meddelat i mål nr. 11855-25, daterad 2026-01-26, saken; den enskilde har överklagat nämndens
-beslut gällande avlösarservice enligt lagen (1993:387) om stöd och service till vissa funktionshindrade,
-LSS. Förvaltningsrätten skriver av målet.
-Dom meddelad i mål nr. 10405-25, daterad 2026-01-23, saken; Inspektionen för vård och omsorg har
-ansökt om särskild avgift enligt socialtjänstlagen (2025:400). Förvaltningsrätten avslår ansökan.
-
-Inspektionen för vård och omsorg, IVO
-Dnr IF- IF-2025-00250. Inspektionen för vård och omsorg, dnr 3.5.1-29980/2024-16, avslutar ärendet
-gällande tillsyn av rättssäkerheten i kommunernas myndighetsutövning för barn och unga. IVO
-
-bedömer att kommunen i sin återredovisning samt begärd komplettering redogjort för åtgärder som ger
-förutsättningar för att komma till rätta med de brister som IVO har påtalat.
-
-Kommunfullmäktige, KF
-
-KF 2025-12-11 § 238 Redovisning av icke färdigberedda motioner (2, 2025)
-
-<!-- sida 175 -->
-
-KUNGSBACKA  KOMMUN
-3 (3)
-
-KF 2025-12-11 § 240 Koncernbudget 2026
-
-Kommunstyrelsen, KS
-KS 2025-11-25 § 226 Lönestruktur 2026
-
-KS 2025-11-25 § 225 Revidering av regler för fakturering och kravhantering
-KS 2025-11-25 § 228 Initiativ från Maria Losman (MP) om svar på förfrågan från nationella
-samordnaren för arbetet med frivillig återvandring
-
-KS 2025-12-16 § 260 Begäran om medel för att främja välmående och motverka psykisk ohälsa –
-Individ & Familjeomsorg
-KS 2025-12-16 § 261 Godkännande av anvisningar för fördelning av medel för Trygg uppväxt
-
-KS 2025-12-16 § 262 Undertecknande av handlingar och beslut för stiftelser
-
-KS 2025-12-16 § 267 Uppstart av projekt i lokalplan Boende med särskild service (BmSS)
-
-Nämnden för Teknik, TE
-NT 2025-12-17 § 139 Tillämpningsregler för särskild kollektivtrafik, färdtjänst 2026
-
-Beslutsunderlag
-Förvaltningen för Individ & Familjeomsorgs tjänsteskrivelse, 2026-01-29
-
-Märta Lycken
-
-Tf förvaltningschef
-
-<!-- sida 176 -->
-
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (1)
-Kommunstyrelsen
-Datum
-2025-12-16
-
-§ 260                      Dnr KS-2025-00782
-Begäran om medel för att främja välmående och motverka psykisk
-ohälsa – Individ & Familjeomsorg
-
-Beslut
-Kommunstyrelsen bifaller begäran och omfördelar 1 000 000 kronor från centrala
-finansverksamheten för 2026 till nämnden för Individ & Familjeomsorg.
-
-Sammanfattning av ärendet
-Kommunfullmäktige har avsatt särskilda medel i kommunbudget 2026, plan
-2027–2028 för att främja välmående och motverka psykisk ohälsa. Beslutet grundar
-sig i den satsning som kommunfullmäktige beslutade om i Kommunbudget 2023 om
-att fem miljoner kronor skulle reserveras för detta ändamål varje år under perioden
-2023–2027.
-
-Nämnden för Individ & Familjeomsorg har den 20 oktober kommit in med en
-begäran om att få ta del av 1 000 000 kronor av dessa medel för att fortsätta arbeta
-med hälsofrämjande åtgärder samt för att stärka den psykiska hälsan. Tidigare
-beviljade medel har bland annat använts till aktiviteter på boenden. Nämnden har
-också fått pengar för att köpa olika redskap för fysisk aktivitet. Dessa
-satsningsområden är nu en del i nämndens ordinarie verksamhet och finansieras av
-nämndens budget.
-
-Nämnden vill nu utöka målgruppen för att motverka isolering och främja hälsa för
-användare inom personlig assistans och deltagare i den socialpsykiatriska
-sysselsättningsverksamheten.
-
-Nämndernas ansökningar hittills för 2026 uppgår sammanlagt till 1 500 000 kronor.
-
-Beslutsunderlag
-
-Kommunstyrelsens arbetsutskott 2025-12-02, § 350
-Kommunledningskontorets tjänsteskrivelse, 2025-11-11
-Nämnden för Individ & Familjeomsorg 2025-10-16, § 133
-Initiativärende från M, L, C och KD, 2025-09-02
-
-Beslutsgång
-
-Ordförande Lisa Andersson (M) finner att det finns ett förslag till beslut, det vill säga
-kommunstyrelsens arbetsutskotts förslag, och att kommunstyrelsen bifaller det.
-
-Beslutet skickas till
-
-Nämnden för Individ & Familjeomsorg, Kommunstyrelsens förvaltning: Styrning &
-Ekonomi
-
-Det här dokumentet är digitalt signerat
-Transaktionsidentitet: 347A1B9DF07F88B025B9631CCEA76852DD1F15350E
-Transaktionsidentitet: 4925FBFE37A690F4323E8FD312D985A628914C8F13
-
-<!-- sida 177 -->
-
-TJÄNSTESKRIVELSE
-
-Datum
-2026-01-29
-Diarienummer
 IF-2023-00005
 
 Redovisning av synpunkter och klagomål, februari 2026
@@ -7418,7 +7231,7 @@ Nämndsekreterare                                         Stadshuset, Storgatan 
 Telefon 0300-83 40 00
 www.kungsbacka.se
 
-<!-- sida 178 -->
+<!-- sida 174 -->
 
 TJÄNSTESKRIVELSE
 
