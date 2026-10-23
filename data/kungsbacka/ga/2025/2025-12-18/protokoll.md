@@ -15,13 +15,13 @@ sidor: 7
 hamtad: 2026-10-23T06:19:53+00:00
 konverterad: 2026-10-23T06:20:05+00:00
 pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
-kvalitet: delvis
+kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr]
-tal_obekraftade: [1, 2, 3, 4, 5, 6, 7]
+kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr]
+tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
@@ -29,107 +29,100 @@ granskad: null
 KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
 
-Plats och tid för
-sammanträde
-
-Beslutande
-
-Övriga närvarande
-
-Plats och tid för justering
-
-Sekreterare
-
-Ordförande
-
-Protokolljusterare
-
+SAMMANTRÄDESPROTOKOLL
 Datum
-
 2025-12-18
+
+Kungsbacka
+
+Plats och tid för sammanträde
 
 Elof Lindälvs gymnasium, sal A67
 
-Ledamöter
+Klockan 17:00-21:00, paus 19:30-19:50
 
+Beslutande
+
+Ledamöter
 Axel Storckenfeldt (M), Ordförande
 Helena Nyborg (KD), 1:e vice ordförande
 Shabnam Zamani (S), 2:e vice ordförande
 Jenny Nilsson (M)
-
 Morgan Johansson (M)
-
 May-Louise Flyrin (S)
-
 Hans Ädel (SD)
-
 Karin Green (C)
-
 Jan Eric Knutas (L)
-
 Sebastian Lindberg (V)
 
-Ersättare
+Tjänstgörande ersättare
+Emilia Åhfelt (SD) ersätter Tina Hald (SD)
 
+Övriga närvarande
+
+Ersättare
 Maria Svärd Wänt (M)
 Anna Thomander (S)
 Emilia Åhfelt (SD)
-
 Osama Mohamad Mesto (C)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Johan Ronner, ekonomichef
+Andréas Mårtensson, kvalitet- och utvecklingschef
+Cindia Escalante Mattsson, gymnasiechef
+Karin Zetterman, verksamhetschef
+Cecilia Fossan, biträdande gymnasiechef
+Alexandra Cameron, utvecklare
+Camilla Pålsson, verksamhetschef § 145
+Anna Danielsson, jurist § 145
+Maria Åsberg, rektor § 146
+Marie Andersson, rektor § 147
+Hannah Tengelin, rektor § 147
+Angela Lyrhagen, enhetschef § 148
 
 Personalföreträdare
 Cajsa Friden, Sveriges skolledare
 Frida Hagelin, Sveriges lärare
 
+Plats och tid för justering
+
 digitalt
+
+Sekreterare
+
 Alexandra Cameron
-
-Axel Storckenfeldt
-
-Morgan Johansson (M)
-
-SAMMANTRÄDESPROTOKOLL
-
-Kungsbacka
-
-Klockan 17:00-21:00, paus 19:30-
-19:50
-
-Tjänstgörande ersättare
-
-Emilia Åhfelt (SD) ersätter Tina Hald
-(SD)
-
-Tjänstepersoner
-
-Patrik Hellberg, förvaltningschef
-Johan Ronner, ekonomichef
-Andréas Mårtensson, kvalitet- och
-utvecklingschef
-
-Cindia Escalante Mattsson,
-gymnasiechef
-
-Karin Zetterman, verksamhetschef
-Cecilia Fossan, biträdande
-gymnasiechef
-
-Alexandra Cameron, utvecklare
-Camilla Pålsson, verksamhetschef \$
-145
-
-Anna Danielsson, jurist § 145
-Maria Åsberg, rektor § 146
-
-Marie Andersson, rektor § 147
-Hannah Tengelin, rektor § 147
-Angela Lyrhagen, enhetschef § 148
-
-§ 144 - 161
 
 Paragrafer
 
+§ 144 - 161
+
+Ordförande
+
+Axel Storckenfeldt
+
+Protokolljusterare
+
+Morgan Johansson (M)
+
 <!-- sida 2 -->
+
+KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 2 (5)
+Nämnden för Gymnasium & Arbetsmarknad Datum
+2025-12-18
+
+Innehåll
+
+§ 155 Dnr GA-2020-00182
+IOP Erikshjälpen .... 3
+
+§ 156 Dnr GA-2025-00049
+IOP Onsala församling .... 4
+
+Det här dokumentet är digitalt signerat
+
+Transaktionsidentitet: ACEDDF9E97613672AE32869A0F9821664ED038AB2B
+Transaktionsidentitet: CB727A09521415A1B6221D088E81A442738469C4B1
 
 <!-- sida 3 -->
 
@@ -216,7 +209,6 @@ Ett syfte med överenskommelsen är att inom ramen för arbetet är utveckla
 samarbetet mellan den idéburna sektorn och Kungsbacka kommun och på det sättet
 bidra till den allmänna samhällsnyttan, samt utveckla metoder och innovativa
 lösningar för målgruppen som står utanför arbetsmarknaden. Överenskommelsen
-
 gäller från 2026-01-01 till och med 2026-12-31.
 
 Beslutsunderlag
@@ -227,7 +219,6 @@ Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan besluta att förlänga överenskommelse om idéburet offentligt
 partnerskap (IOP) med Onsala församling med start 2026-01-01 till 2026-12-31 och
-
 finner att nämnden bifaller det.
 
 Det här dokumentet är digitalt signerat
@@ -259,14 +250,16 @@ Axel E V L Storckenfeldt
 Datum: 2025-12-18 21:24:29
 
 Transaktionsidentitet: ACEDDF9E97613672AE32869A0F9821664ED038AB2B
+
 Morgan Johansson
 
 Datum: 2025-12-18 21:25:26
 
 Transaktionsidentitet: CB727A09521415A1B6221D088E81A442738469C4B1
+
 Underskriftstjänst: twoday Underskriftstjänst
 
-O& twoday
+© twoday
 
 <!-- sida 7 -->
 
@@ -274,6 +267,8 @@ Dokumentet är signerat av Ciceron DoÄ
 
 Organisation
 
-Organisation: — Kungsbacka kommun
+Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post: gymnasiumocharbetsmarknadQkungsbacka.se
+E-post: (e-post borttagen)
+
+© twoday

@@ -15,13 +15,13 @@ sidor: 26
 hamtad: 2026-10-23T06:21:27+00:00
 konverterad: 2026-10-23T06:22:21+00:00
 pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
-kvalitet: delvis
+kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
-tal_obekraftade: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
+kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
+tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
@@ -29,143 +29,161 @@ granskad: null
 KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
 
-Plats och tid för
-sammanträde
-
-Beslutande
-
-Övriga närvarande
-
-Plats och tid för justering
-
-Sekreterare
-
-Ordförande
-
-Protokolljusterare
-
+SAMMANTRÄDESPROTOKOLL
 Datum
-
 2026-02-19
+
+Kungsbacka
+
+Plats och tid för sammanträde
 
 Elof Lindälvs Gymnasium, sal A67
 
-Ledamöter
+Klockan 17:00-20:50, paus 18:25 18:50 och 20:10-20:20
 
+Beslutande
+
+Ledamöter
 Axel Storckenfeldt (M), Ordförande
 Helena Nyborg (KD), 1:e vice ordförande
-Shabnam Zamani (S), 2:e vice ordförande
-§§17—-31
-
+Shabnam Zamani (S), 2:e vice ordförande §§17–31
 Jenny Nilsson (M)
-
 Morgan Johansson (M)
-
 May-Louise Flyrin (S)
-
 Hans Ädel (SD)
-
 Jan Eric Knutas (L)
-
 Sebastian Lindberg (V)
 
-Ersättare
+Tjänstgörande ersättare
+Pontus Jensen (S) ersätter Shabnam Zamani (S) §§13–16
+Osama Mohamed Mesto (C) ersätter Karin Green (C)
+Emilia Åhfelt (SD) ersätter Tina Hald (SD)
 
+Övriga närvarande
+
+Ersättare
 Pia Grapenstrand Kvarntun (M)
-Pontus Jensen (S) §§17—-31
+Pontus Jensen (S) §§17–31
 Anna Thomander (S)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Johan Ronner, ekonomichef
+Andréas Mårtensson, kvalitet- och utvecklingschef
+Elisabeth Grimhusen, HR- och kommunikationschef
+Cindia Escalante Mattsson, gymnasiechef
+Karin Zetterman, verksamhetschef
+Frida Svärd, t.f. verksamhetschef
+Cecilia Fossan, biträdande gymnasiechef
+Alexandra Cameron, utvecklare
+Adam Greveby, utvecklare
+Dan Sadé, rektor § 14
+Magnus Sandberg, Verksamhetschef EMI §§ 15–16
+Pernilla Börjesson, enhetschef § 19
 
 Personalföreträdare
 Cajsa Fridén, Sveriges skolledare
 Frida Hagelin, Sveriges lärare
 
+Plats och tid för justering
+
 Digitalt
+
+Sekreterare
+
 Alexandra Cameron
-
-Axel Storckenfeldt (M)
-
-Hans Ädel (SD)
-
-SAMMANTRÄDESPROTOKOLL
-
-Kungsbacka
-
-Klockan 17:00-20:50, paus 18:25
-18:50 och 20:10-20:20
-
-Tjänstgörande ersättare
-
-Pontus Jensen (S) ersätter Shabnam
-Zamani (S) §§13—16
-
-Osama Mohamed Mesto (C) ersätter
-Karin Green (C)
-
-Emilia Åhfelt (SD) ersätter Tina Hald
-(SD)
-
-Tjänstepersoner
-
-Patrik Hellberg, förvaltningschef
-Johan Ronner, ekonomichef
-Andréas Mårtensson, kvalitet- och
-utvecklingschef
-
-Elisabeth Grimhusen, HR- och
-kommunikationschef
-
-Cindia Escalante Mattsson,
-gymnasiechef
-
-Karin Zetterman, verksamhetschef
-Frida Svärd, t.f. verksamhetschef
-Cecilia Fossan, biträdande
-gymnasiechef
-
-Alexandra Cameron, utvecklare
-Adam Greveby, utvecklare
-
-Dan Sadé, rektor § 14
-
-Magnus Sandberg, Verksamhetschef
-EMI §§ 15-16
-
-Pernilla Börjesson, enhetschef § 19
-
-§§ 13-31
 
 Paragrafer
 
+§§ 13-31
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Hans Ädel (SD)
+
 <!-- sida 2 -->
 
-<!-- sida 3 -->
-
-KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 2 (24)
 Nämnden för Gymnasium & Arbetsmarknad Datum
-
-8 28
-
-§ 29
-
-8 30
-
-8 31
-
 2026-02-19
-Dnr GA-2026-00026
-Återrapportering av delegeringsbeslut (2026) .... 21
-Dnr GA-2026-00024
-Återrapportering av program- och verksamhetsråd (2026) .... 22
-Dnr GA-2026-00003
-Inkomna skrivelser till ledamöter och ersättare i nämnden (2026) .... 23
-Dnr GA-2026-00002
-Förvaltningschef informerar (2026) ...sssssssersreserssrrersrerrsrnresnrrennrerrrrrrnnr nan 24
 
-3 (24)
+Innehåll
+
+§ 13 Dnr GA-2026-00004
+Förändring av ärendelista samt val av justerare (2026) .... 4
+
+§ 14 Dnr GA-2025-00092
+Verksamhetsinformation .... 5
+
+§ 15 Dnr GA-2026-00018
+Patientsäkerhetsberättelse - elevhälsa 2025 .... 6
+
+§ 16 Dnr GA-2026-00020
+God och nära vård årsrapport 2025 .... 8
+
+§ 17 Dnr GA-2026-00019
+Sammanställning kränkningar augusti-dec 2025 .... 9
+
+§ 18 Dnr GA-2024-00088
+Bostad först .... 10
+
+§ 19 Dnr GA-2026-00032
+Revidering av riktlinjer ekonomiskt bistånd 2026 .... 11
+
+§ 20 Dnr GA-2023-00161
+Budget 2025 .... 12
+
+§ 21 Dnr GA-2026-00017
+Ombudgetering och resultatfond 2025 .... 13
+
+§ 22 Dnr GA-2024-00193
+Intern kontrollplan 2025 .... 14
+
+§ 23 Dnr GA-2025-00069
+Kvartalsuppföljning av arbetsmarknadsprocessen 2025 .... 15
+
+§ 24 Dnr GA-2025-00188
+Beredning av motion - Mera grön och blå mat i Kungsbacka kommun (KS-2025-00809) .... 16
+
+§ 25 Dnr GA-2026-00034
+FG/GA stämningsansökan Gotit Skolplatsen .... 18
+
+§ 26 Dnr GA-2026-00028
+Nya samverkansavtal GR .... 19
+
+§ 27 Dnr GA-2026-00030
+Revidering av delegeringsförteckning (2026) .... 20
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
+Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
+
+<!-- sida 3 -->
+
+KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (24)
+Nämnden för Gymnasium & Arbetsmarknad Datum
+2026-02-19
+
+§ 28 Dnr GA-2026-00026
+Återrapportering av delegeringsbeslut (2026) .... 21
+
+§ 29 Dnr GA-2026-00024
+Återrapportering av program- och verksamhetsråd (2026) .... 22
+
+§ 30 Dnr GA-2026-00003
+Inkomna skrivelser till ledamöter och ersättare i nämnden (2026) .... 23
+
+§ 31 Dnr GA-2026-00002
+Förvaltningschef informerar (2026) .... 24
+
+Det här dokumentet är digitalt signerat
+
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 4 -->
@@ -191,7 +209,7 @@ och finner att nämnden bifaller det.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 5 -->
@@ -223,7 +241,7 @@ bifaller det.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 6 -->
@@ -279,7 +297,7 @@ allt för elevers bästa och patientsäkerheten.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 7 -->
@@ -316,7 +334,7 @@ psykologiska insats
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 8 -->
@@ -363,7 +381,7 @@ Cecilia Fossan, Biträdande gymnasiechef
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 9 -->
@@ -408,7 +426,7 @@ Cecilia Fossan, Biträdande gymnasiechef
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 10 -->
@@ -459,7 +477,7 @@ Enhetschef för myndighet, Kompetenscentrum
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 11 -->
@@ -515,7 +533,7 @@ Enhetschef för myndighet, Kompetenscentrum
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 12 -->
@@ -532,7 +550,7 @@ Paragrafen direktjusterad, se separat protokoll.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 13 -->
@@ -551,7 +569,7 @@ Paragrafen direktjusterad, se separat protokoll.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 14 -->
@@ -570,7 +588,7 @@ Paragrafen direktjusterad, se separat protokoll.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 15 -->
@@ -610,7 +628,7 @@ kvartal 4, 2025 och finner att nämnden bifaller det.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 16 -->
@@ -620,7 +638,6 @@ Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
 § 24 Dnr GA-2025-00188
-
 Beredning av motion - Mera grön och blå mat i Kungsbacka kommun
 (KS-2025-00809)
 
@@ -634,7 +651,6 @@ Sammanfattning av ärendet
 
 Kommunstyrelsens arbetsutskott (§343/25) har för yttrande översänt en av Elisabeth
 Sahlsten (MP), Karin Färnlöf Clarin (MP), Maria Losman (MP) och Clas
-
 Rosander (MP) motion om ”Mera grön och blå mat i Kungsbacka!”. Motionärerna
 beskriver hur den nationella folkhälsan hotas av ohälsosamma matvanor och hur
 bättre matvanor kan motverka och förebygga sjukdomar. Motionärerna refererar
@@ -664,14 +680,12 @@ Beslutsunderlag
 
 Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2026-01-15
 Kommunfullmäktige 2025-11-04 § 226
-
 Kommunstyrelsens arbetsutskott 2025-11-18 § 343
-
 Motion från Elisabeth Sahlsten (MP) m.fl. 2025-10-29
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 17 -->
@@ -685,7 +699,6 @@ Beslutsgång
 
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan föreslå till Kommunfullmäktige att avslå motionen och finner att
-
 nämnden bifaller.
 
 Beslutet skickas till
@@ -694,7 +707,7 @@ Kommunstyrelsen
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 18 -->
@@ -703,7 +716,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 18 (24)
 Nämnden för Gymnasium & Arbetsmarknad Datum
 2026-02-19
 
-§25 Dnr GA-2026-00034
+§ 25 Dnr GA-2026-00034
 FG/GA stämningsansökan Gotit Skolplatsen
 
 Beslut
@@ -738,11 +751,8 @@ Beslutsunderlag
 
 Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2026-02-12
 Ansökan om stämning
-
 Ansökan
-
 Fullmakt GA - Lindahl
-
 Förlikningsavtal
 
 Beslutsgång
@@ -753,7 +763,7 @@ bifaller.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 19 -->
@@ -805,7 +815,7 @@ remissvar och finner att nämnden bifaller det.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 20 -->
@@ -852,7 +862,7 @@ att nämnden bifaller.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 21 -->
@@ -891,11 +901,9 @@ Beslutsunderlag
 
 Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2026-02-09
 Delegeringslista beslut enligt socialtjänstlagen, 2026-02-02
-
 Delegeringslista anställningar, 2026-02-02
-
-Delegeringsbeslut — överenskommelse om avslut av anställning, 2026-01-27
-Delegeringsbeslut — svar Skolinspektionen, 2025-01-15
+Delegeringsbeslut – överenskommelse om avslut av anställning, 2026-01-27
+Delegeringsbeslut – svar Skolinspektionen, 2025-01-15
 
 Beslutsgång
 
@@ -905,7 +913,7 @@ perioden 2026-01-01 till 2026-01-31 och finner att nämnden bifaller.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 22 -->
@@ -941,7 +949,7 @@ bifaller.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 23 -->
@@ -969,7 +977,7 @@ bifaller det.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 24 -->
@@ -1001,12 +1009,11 @@ Beslutsgång
 
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan notera informationen till protokollet och finner att nämnden
-
 bifaller.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356DS5AB3FD6ED028915
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
 <!-- sida 25 -->
@@ -1014,25 +1021,20 @@ Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 Undertecknat av följande personer
 
 HANS ÄDEL
-Datum:
-Transaktionsidentitet:
+
+Datum: 2026-02-24 17:40:45
+
+Transaktionsidentitet: 65515AB9C10622E2B1D6DD7356D5AB3FD6ED028915
 
 Axel E V L Storckenfeldt
-Datum:
 
-Transaktionsidentitet:
+Datum: 2026-02-24 22:04:26
 
-Underskriftstjänst:
+Transaktionsidentitet: 221CCE43B26CEA6B93567C801FAC183471D0500BF1
 
-2026-02-24 17:40:45
-65515AB9C10622E2B1D6DD7356DSAB3FD6ED028915
+Underskriftstjänst: twoday Underskriftstjänst
 
-2026-02-24 22:04:26
-221CCE43B26CEA6B93567C801FAC183471D0500BF1
-
-twoday Underskriftstjänst
-
-O& twoday
+© twoday
 
 <!-- sida 26 -->
 
@@ -1040,6 +1042,8 @@ Dokumentet är signerat av Ciceron DoÄ
 
 Organisation
 
-Organisation: — Kungsbacka kommun
+Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post: gymnasiumocharbetsmarknadQkungsbacka.se
+E-post: (e-post borttagen)
+
+© twoday

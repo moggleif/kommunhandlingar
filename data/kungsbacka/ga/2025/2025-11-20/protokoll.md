@@ -15,13 +15,13 @@ sidor: 22
 hamtad: 2026-10-23T06:19:05+00:00
 konverterad: 2026-10-23T06:19:53+00:00
 pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
-kvalitet: delvis
+kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
-tal_obekraftade: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
+kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
+tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
@@ -29,107 +29,137 @@ granskad: null
 KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
 
-Plats och tid för
-sammanträde
-
-Beslutande
-
-Övriga närvarande
-
-Plats och tid för justering
-
-Sekreterare
-
-Ordförande
-
-Protokolljusterare
-
+SAMMANTRÄDESPROTOKOLL
 Datum
-
 2025-11-20
+
+Kungsbacka
+
+Plats och tid för sammanträde
 
 Elof Lindälvs gymnasium, sal A67
 
-Ledamöter
+Klockan 17:00-20:40, paus 19:20-19:42
 
+Beslutande
+
+Ledamöter
 Axel Storckenfeldt (M), Ordförande
 Helena Nyborg (KD), 1:e vice ordförande
 Jenny Nilsson (M)
-
 Morgan Johansson (M)
-
 May-Louise Flyrin (S)
-
 Hans Ädel (SD)
-
 Tina Hald (SD)
-
 Karin Green (C)
-
 Jan Eric Knutas (L)
-
 Sebastian Lindberg (V)
 
+Tjänstgörande ersättare
+Pontus Jensen (S) ersätter Shabnam Zamani (S)
+
+Övriga närvarande
+
 Ersättare
-
 Maria Svärd Wänt (M)
-
 Anna Thomander (S)
-
 Emilia Åhfelt (SD)
+Osama Mohamad Mesto (C) §§ 131–143
+Christian Düring (KD)
 
-Osama Mohamad Mesto (C) §§ 131-143
-Christian Däring (KD)
+Tjänstepersoner
+Patrik Hellberg, Förvaltningschef
+Johan Ronner, ekonomichef
+Andréas Mårtensson, kvalité- och utvecklingschef
+Elisabeth Grimhusen, HR- och Kommunikationschef
+Cindia Escalante Mattsson, gymnasiechef
+Karin Zetterman, verksamhetschef
+Cecilia Fossan, biträdande gymnasiechef
+Alexandra Cameron, utvecklare
+Stina Petersson, rektor § 130
+Tobias Ramstedt, Förvaltningschef Utbildnings och Arbetsmarknadsförvaltningen Varberg
 
 Personalföreträdare
 Cajsa Friden, Sveriges skolledare
 Frida Hagelin, Sveriges lärare
 
+Plats och tid för justering
+
 digitalt
+
+Sekreterare
+
 Alexandra Cameron
-Axel Storckenfeldt
-
-Sebastian Lindberg (V)
-
-SAMMANTRÄDESPROTOKOLL
-
-Kungsbacka
-
-Klockan 17:00-20:40, paus 19:20-
-19:42
-
-Tjänstgörande ersättare
-Pontus Jensen (S) ersätter Shabnam
-Zamani (S)
-
-Tjänstepersoner
-
-Patrik Hellberg, Förvaltningschef
-Johan Ronner, ekonomichef
-Andréas Mårtensson, kvalité- och
-utvecklingschef
-
-Elisabeth Grimhusen, HR- och
-Kommunikationschef
-
-Cindia Escalante Mattsson,
-gymnasiechef
-
-Karin Zetterman, verksamhetschef
-Cecilia Fossan, biträdande
-gymnasiechef
-
-Alexandra Cameron, utvecklare
-Stina Petersson, rektor § 130
-Tobias Ramstedt, Förvaltningschef
-Utbildnings och
-Arbetsmarknadsförvaltningen Varberg
-
-§§ 129-143
 
 Paragrafer
 
+§§ 129-143
+
+Ordförande
+
+Axel Storckenfeldt
+
+Protokolljusterare
+
+Sebastian Lindberg (V)
+
 <!-- sida 2 -->
+
+KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 2 (20)
+Nämnden för Gymnasium & Arbetsmarknad Datum
+2025-11-20
+
+Innehåll
+
+§ 129 Dnr GA-2024-00224
+Förändring av ärendelista samt val av justerare (2025) .... 4
+
+§ 130 Dnr GA-2025-00092
+Verksamhetsinformation .... 5
+
+§ 131 Dnr GA-2025-00165
+Förstudie samverkan Varberg/Kungsbacka, Fordon- och transportprogrammet .... 6
+
+§ 132 Dnr GA-2025-00064
+Information - Ekonomi och måluppföljning 2025 .... 7
+
+§ 133 Dnr GA-2025-00159
+Intern kontrollplan 2026 .... 8
+
+§ 134 Dnr GA-2025-00069
+Kvartalsuppföljning av arbetsmarknadsprocessen 2025 .... 9
+
+§ 135 Dnr GA-2025-00126
+God och nära vård och omsorg, delårsrapport 2025 .... 10
+
+§ 136 Dnr GA-2025-00166
+Ansökan Trygg Uppväxt 2026 .... 12
+
+§ 137 Dnr GA-2025-00158
+Kapten Menns Fond .... 13
+
+§ 138 Dnr GA-2025-00153
+Interkommunal ersättning 2026 för gymnasieskola och anpassad gymnasieskola .... 14
+
+§ 139 Dnr GA-2025-00154
+Interkommunal ersättning vuxenutbildning 2026 .... 15
+
+§ 140 Dnr GA-2024-00226
+Återrapportering av program- och verksamhetsråd (2025) .... 17
+
+§ 141 Dnr GA-2024-00225
+Återrapportering av delegeringsbeslut (2025) .... 18
+
+§ 142 Dnr GA-2024-00227
+Inkomna skrivelser till ledamöter och ersättare i nämnden (2025) .... 19
+
+§ 143 Dnr GA-2024-00228
+Förvaltningschef informerar (2025) .... 20
+
+Det här dokumentet är digitalt signerat
+
+Transaktionsidentitet: 1A3D23911828191E187A8B94F4CE30DE633DADED18
+Transaktionsidentitet: 5F4DF10CC0C6F7B60B3CA616CE90F8ED992CB31C55
 
 <!-- sida 3 -->
 
@@ -140,7 +170,7 @@ Nämnden för Gymnasium & Arbetsmarknad Datum
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: 1A3D23911828191E187A8B94F4CE30DE633DADED18
-Transaktionsidentitet: SF4DF10CCOC6F7B60B3CA616CE90F8ED992CB31C55
+Transaktionsidentitet: 5F4DF10CC0C6F7B60B3CA616CE90F8ED992CB31C55
 
 <!-- sida 4 -->
 
@@ -166,7 +196,7 @@ justerare och finner att nämnden bifaller det.
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: 1A3D23911828191E187A8B94F4CE30DE633DADED18
-Transaktionsidentitet: SF4DF10CCOC6F7B60B3CA616CE90F8ED992CB31C55
+Transaktionsidentitet: 5F4DF10CC0C6F7B60B3CA616CE90F8ED992CB31C55
 
 <!-- sida 5 -->
 
@@ -195,17 +225,18 @@ bifaller det.
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: 1A3D23911828191E187A8B94F4CE30DE633DADED18
-Transaktionsidentitet: SF4DF10CCOC6F7B60B3CA616CE90F8ED992CB31C55
+Transaktionsidentitet: 5F4DF10CC0C6F7B60B3CA616CE90F8ED992CB31C55
 
 <!-- sida 6 -->
 
 KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (20)
 Nämnden för Gymnasium & Arbetsmarknad Datum
-
 2025-11-20
+
 § 131 Dnr GA-2025-00165
 Förstudie samverkan Varberg/Kungsbacka, Fordon- och
 transportprogrammet
+
 Beslut
 
 Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
@@ -215,20 +246,18 @@ Sammanfattning av ärendet
 Tobias Ramstedt, Förvaltningschef på Utbildnings och Arbetsmarknadsförvaltningen
 i Varberg och Patrik Hellberg, Förvaltningschef på Gymnasium & Arbetsmarknad
 presenterar ett förslag till samverkan mellan kommunerna avseende Fordon- och
-
 transportprogrammet.
 
 Beslutsgång
 
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan noterar informationen till protokollet och finner att nämnden
-
 bifaller det.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: 1A3D23911828191E187A8B94F4CES30DE633DADED18
-Transaktionsidentitet: SF4DF10CCOC6F7B60B3CA616CE90F8ED992CB31C55
+Transaktionsidentitet: 1A3D23911828191E187A8B94F4CE30DE633DADED18
+Transaktionsidentitet: 5F4DF10CC0C6F7B60B3CA616CE90F8ED992CB31C55
 
 <!-- sida 7 -->
 
@@ -262,7 +291,7 @@ bifaller det.
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: 1A3D23911828191E187A8B94F4CE30DE633DADED18
-Transaktionsidentitet: SF4DF10CCOC6F7B60B3CA616CE90F8ED992CB31C55
+Transaktionsidentitet: 5F4DF10CC0C6F7B60B3CA616CE90F8ED992CB31C55
 
 <!-- sida 8 -->
 
@@ -304,7 +333,7 @@ bifaller det.
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: 1A3D23911828191E187A8B94F4CE30DE633DADED18
-Transaktionsidentitet: SF4DF10CCOC6F7B60B3CA616CE90F8ED992CB31C55
+Transaktionsidentitet: 5F4DF10CC0C6F7B60B3CA616CE90F8ED992CB31C55
 
 <!-- sida 9 -->
 
@@ -344,7 +373,7 @@ kvartal 3 och finner att nämnden bifaller det.
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: 1A3D23911828191E187A8B94F4CE30DE633DADED18
-Transaktionsidentitet: SF4DF10CCOC6F7B60B3CA616CE90F8ED992CB31C55
+Transaktionsidentitet: 5F4DF10CC0C6F7B60B3CA616CE90F8ED992CB31C55
 
 <!-- sida 10 -->
 
@@ -394,7 +423,7 @@ God och Nära Vård och omsrog Delår 2025
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: 1A3D23911828191E187A8B94F4CE30DE633DADED18
-Transaktionsidentitet: SF4DF10CCOC6F7B60B3CA616CE90F8ED992CB31C55
+Transaktionsidentitet: 5F4DF10CC0C6F7B60B3CA616CE90F8ED992CB31C55
 
 <!-- sida 11 -->
 
@@ -407,13 +436,12 @@ Beslutsgång
 
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan godkänna delårsrapport God och nära vård och omsorg 2025 och
-
 finner att nämnden bifaller det.
 
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: 1A3D23911828191E187A8B94F4CE30DE633DADED18
-Transaktionsidentitet: SF4DF10CCOC6F7B60B3CA616CE90F8ED992CB31C55
+Transaktionsidentitet: 5F4DF10CC0C6F7B60B3CA616CE90F8ED992CB31C55
 
 <!-- sida 12 -->
 
@@ -462,7 +490,7 @@ Kommunstyrelsen
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: 1A3D23911828191E187A8B94F4CE30DE633DADED18
-Transaktionsidentitet: SF4DF10CCOC6F7B60B3CA616CE90F8ED992CB31C55
+Transaktionsidentitet: 5F4DF10CC0C6F7B60B3CA616CE90F8ED992CB31C55
 
 <!-- sida 13 -->
 
@@ -515,7 +543,7 @@ Kommunfullmäktige
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: 1A3D23911828191E187A8B94F4CE30DE633DADED18
-Transaktionsidentitet: SF4DF10CCOC6F7B60B3CA616CE90F8ED992CB31C55
+Transaktionsidentitet: 5F4DF10CC0C6F7B60B3CA616CE90F8ED992CB31C55
 
 <!-- sida 14 -->
 
@@ -524,7 +552,6 @@ Nämnden för Gymnasium & Arbetsmarknad Datum
 2025-11-20
 
 § 138 Dnr GA-2025-00153
-
 Interkommunal ersättning 2026 för gymnasieskola och anpassad
 gymnasieskola
 
@@ -543,7 +570,7 @@ förslag. Arbetet har i grunden byggt på de principer som fastställdes i
 samverkansavtalet 2023/2024-2026/2027.
 
 Förslaget har sin utgångspunkt i bokslut 2024 med två års indexuppräkning, totalt
-3,246 "N.
+3,246 %.
 
 GR:s gymnasieekonomnätverk har arbetat fram förslag till prislista under våren 2024
 och underlaget är också avstämt med GR:s utbildningschefsnätverk
@@ -551,21 +578,15 @@ och underlaget är också avstämt med GR:s utbildningschefsnätverk
 Beslutsunderlag
 
 Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2025-10-22
-Beslut 202500202 — GRFS §69
-
+Beslut 202500202 – GRFS §69
 Antagningsnämndens tjänsteskrivelse, 2025-06-24
-
 Bilaga 1 Göteborgsregionens modell för IKE inom gymnasieskola och anpassad
 gymnasieskola 2026
-
 Bilaga 2 Prislista 2026 gällande IKE inom gymnasieskola och anpassad
 gymnasieskola
-
 Bilaga 3 Beräkning av index för prislista 2026
-
 Bilaga 4 Rapport Interkommunal ersättning inom gymnasieskolan och anpassad
 gymnasieskolan 2026
-
 Bilaga 5 Jämförelse prislista 2025 och 2026
 
 Beslutsgång
@@ -577,7 +598,7 @@ anpassad gymnasieskola 2026 och finner att nämnden bifaller det.
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: 1A3D23911828191E187A8B94F4CE30DE633DADED18
-Transaktionsidentitet: SF4DF10CCOC6F7B60B3CA616CE90F8ED992CB31C55
+Transaktionsidentitet: 5F4DF10CC0C6F7B60B3CA616CE90F8ED992CB31C55
 
 <!-- sida 15 -->
 
@@ -601,7 +622,7 @@ utgår och avser utbildning på grundläggande nivå, utbildning på gymnasial n
 komvux som anpassad utbildning samt utbildning i svenska för invandrare.
 
 I förslaget har tagits hänsyn till önskemålet om en gemensam prislista i regionen
-vilket har resulterat i ökning av priset på utbildning i svenska för invandrare —
+vilket har resulterat i ökning av priset på utbildning i svenska för invandrare –
 studieväg 1 och 2. En översyn har även gjorts av det faktiska utfallet i Göteborg samt
 indexreglering.
 
@@ -631,7 +652,7 @@ förhandlingar mellan berörda kommuner.
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: 1A3D23911828191E187A8B94F4CE30DE633DADED18
-Transaktionsidentitet: SF4DF10CCOC6F7B60B3CA616CE90F8ED992CB31C55
+Transaktionsidentitet: 5F4DF10CC0C6F7B60B3CA616CE90F8ED992CB31C55
 
 <!-- sida 16 -->
 
@@ -648,7 +669,6 @@ Beslutsunderlag
 
 Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2025-10-22
 Göteborgsregionens tjänsteskrivelse, 2025-06-24
-
 Göteborgsregionens kommunalförbunds protokollsutdrag 28§
 Göteborgsregionens prislista för interkommunal vuxenutbildning år 2026
 
@@ -661,7 +681,7 @@ vuxenutbildning och finner att nämnden bifaller det.
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: 1A3D23911828191E187A8B94F4CE30DE633DADED18
-Transaktionsidentitet: SF4DF10CCOC6F7B60B3CA616CE90F8ED992CB31C55
+Transaktionsidentitet: 5F4DF10CC0C6F7B60B3CA616CE90F8ED992CB31C55
 
 <!-- sida 17 -->
 
@@ -697,7 +717,7 @@ bifaller det.
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: 1A3D23911828191E187A8B94F4CE30DE633DADED18
-Transaktionsidentitet: SF4DF10CCOC6F7B60B3CA616CE90F8ED992CB31C55
+Transaktionsidentitet: 5F4DF10CC0C6F7B60B3CA616CE90F8ED992CB31C55
 
 <!-- sida 18 -->
 
@@ -743,7 +763,7 @@ Arbetsmarknad kan godkänna återrapporteringen av delegeringsbeslut för period
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: 1A3D23911828191E187A8B94F4CE30DE633DADED18
-Transaktionsidentitet: SF4DF10CCOC6F7B60B3CA616CE90F8ED992CB31C55
+Transaktionsidentitet: 5F4DF10CC0C6F7B60B3CA616CE90F8ED992CB31C55
 
 <!-- sida 19 -->
 
@@ -800,7 +820,7 @@ bifaller det.
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: 1A3D23911828191E187A8B94F4CE30DE633DADED18
-Transaktionsidentitet: SF4DF10CCOC6F7B60B3CA616CE90F8ED992CB31C55
+Transaktionsidentitet: 5F4DF10CC0C6F7B60B3CA616CE90F8ED992CB31C55
 
 <!-- sida 20 -->
 
@@ -817,13 +837,14 @@ Beslut
 Nämnden för Gymnasium & Arbetsmarknad noterar informationen till protokollet.
 
 Sammanfattning av ärendet
+
 Förvaltningschef Patrik Hellberg föredrar ärendet:
 
 1\. Dagab ska etablera nytt logistikcenter i Kungsbacka. Hur kan förvaltningen jobba i
 takt med Dagab? Koppla det till gymnasieskolor, jobbspåret och vuxenutbildning.
 
 2\. Öppet Hus på gymnasieskolorna - 1274 besökare på Lindälv och över 1300
-besökare på Aranäs vilket är en ökning på 200-300 personer per skola.
+besökare på Aranäs vilket är en ökning på 200–300 personer per skola.
 
 3\. Nämndens verksamhetsbesök torsdag 25/11. Nämnden kommer att besöka
 Kompetenscentrum och båda gymnasieskolor, förvaltningen ser fram emot det.
@@ -832,13 +853,12 @@ Beslutsgång
 
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan notera informationen till protokollet och finner att nämnden
-
 bifaller det.
 
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: 1A3D23911828191E187A8B94F4CE30DE633DADED18
-Transaktionsidentitet: SF4DF10CCOC6F7B60B3CA616CE90F8ED992CB31C55
+Transaktionsidentitet: 5F4DF10CC0C6F7B60B3CA616CE90F8ED992CB31C55
 
 <!-- sida 21 -->
 
@@ -846,24 +866,19 @@ Undertecknat av följande personer
 
 Axel E V L Storckenfeldt
 
-Datum:
-Transaktionsidentitet:
+Datum: 2025-12-01 12:52:57
+
+Transaktionsidentitet: 1A3D23911828191E187A8B94F4CE30DE633DADED18
 
 A SEBASTIAN S LINDBERG
-Datum:
-Transaktionsidentitet:
 
-Underskriftstjänst:
+Datum: 2025-12-02 18:11:02
 
-2025-12-01 12:52:57
-1A3D23911828191E187A8B94F4CE30DE633DADED18
+Transaktionsidentitet: 5F4DF10CC0C6F7B60B3CA616CE90F8ED992CB31C55
 
-2025-12-02 18:11:02
-SF4DF10CCOC6F7B60B3CA616CE90F8ED992CB31C55
+Underskriftstjänst: twoday Underskriftstjänst
 
-twoday Underskriftstjänst
-
-O& twoday
+© twoday
 
 <!-- sida 22 -->
 
@@ -871,6 +886,8 @@ Dokumentet är signerat av Ciceron DoÄ
 
 Organisation
 
-Organisation: — Kungsbacka kommun
+Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post: gymnasiumocharbetsmarknadQkungsbacka.se
+E-post: (e-post borttagen)
+
+© twoday

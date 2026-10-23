@@ -15,28 +15,37 @@ sidor: 27
 hamtad: 2026-10-23T06:20:05+00:00
 konverterad: 2026-10-23T06:21:06+00:00
 pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
-kvalitet: delvis
+kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
-tal_obekraftade: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]
+kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
+tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL
-Nämnden för Gymnasium & Arbetsmarknad Datum
+KUNGSBACKA KOMMUN
+Nämnden för Gymnasium & Arbetsmarknad
 
+SAMMANTRÄDESPROTOKOLL
+Datum
 2025-12-18
+
 Kungsbacka
-Plats och tid för Elof Lindälvs gymnasium, sal A67 Klockan 17:00-21:00, paus 19:30-
-sammanträde
-19:50
-Beslutande Ledamöter Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Emilia Åhfeld (SD) ersätter Tina Hald
-Helena Nyborg (KD), 1:e vice ordförande (SD)
+
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium, sal A67
+
+Klockan 17:00-21:00, paus 19:30-19:50
+
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
 Shabnam Zamani (S), 2:e vice ordförande
 Jenny Nilsson (M)
 Morgan Johansson (M)
@@ -45,60 +54,136 @@ Hans Ädel (SD)
 Karin Green (C)
 Jan Eric Knutas (L)
 Sebastian Lindberg (V)
-Övriga närvarande Ersättare Tjänstepersoner
-Maria Svärd Wänt (M) Patrik Hellberg, förvaltningschef
-Anna Thomander (S) Johan Ronner, ekonomichef
-Osama Mohamad Mesto (C) Andréas Mårtensson, kvalitet- och
-utvecklingschef
-Cindia Escalante Mattsson,
-gymnasiechef
+
+Tjänstgörande ersättare
+Emilia Åhfeld (SD) ersätter Tina Hald (SD)
+
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M)
+Anna Thomander (S)
+Osama Mohamad Mesto (C)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Johan Ronner, ekonomichef
+Andréas Mårtensson, kvalitet- och utvecklingschef
+Cindia Escalante Mattsson, gymnasiechef
 Karin Zetterman, verksamhetschef
-Cecilia Fossan, biträdande
-gymnasiechef
+Cecilia Fossan, biträdande gymnasiechef
 Alexandra Cameron, utvecklare
-Camilla Pålsson, verksamhetschef \$
-145
+Camilla Pålsson, verksamhetschef § 145
 Anna Danielsson, jurist § 145
 Maria Åsberg, rektor § 146
 Marie Andersson, rektor § 147
 Hannah Tengelin, rektor § 147
 Angela Lyrhagen, enhetschef § 148
-Personalföreträdare
 
+Personalföreträdare
 Cajsa Friden, Sveriges skolledare
 Frida Hagelin, Sveriges lärare
 
-Plats och tid för justering Digital justering
+Plats och tid för justering
 
-Sekreterare Alexandra Cameron Paragrafer §§ 144-161
+Digital justering
 
-Ordförande Axel Storckenfeldt (M)
+Sekreterare
 
-Protokolljusterare Morgan Johansson (M)
+Alexandra Cameron
+
+Paragrafer
+
+§§ 144-161
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Morgan Johansson (M)
 
 <!-- sida 2 -->
+
+KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 2 (25)
+Nämnden för Gymnasium & Arbetsmarknad Datum
+2025-12-18
+
+Innehåll
+
+§ 144 Dnr GA-2024-00224
+Förändring av ärendelista samt val av justerare (2025) .... 4
+
+§ 145 Dnr GA-2025-00185
+Information - Inköp och upphandling .... 5
+
+§ 146 Dnr GA-2025-00092
+Verksamhetsinformation .... 6
+
+§ 147 Dnr GA-2025-00178
+Uppföljning av systematiskt kvalitetsarbete gymnasieskolan och anpassad
+gymnasieskola 2024/2025 .... 7
+
+§ 148 Dnr GA-2025-00183
+Uppföljning av det kommunala aktivitetsansvaret- KAA 2025 .... 8
+
+§ 149 Dnr GA-2024-00223
+Budget 2026 .... 9
+
+§ 150 Dnr GA-2025-00182
+Investeringsplan 2027-2036 .... 10
+
+§ 151 Dnr GA-2025-00179
+Inackorderingsbidrag 2026 .... 11
+
+§ 152 Dnr GA-2025-00180
+Ersättning friskolor 2026 .... 12
+
+§ 153 Dnr GA-2025-00128
+Beredning av motion - Avskaffa religiöst motiverad specialkost i förskola
+och skola (KS-2025-00457) .... 13
+
+§ 154 Dnr GA-2025-00165
+Förstudie samverkan Varberg/Kungsbacka, Fordon- och
+transportprogrammet .... 17
+
+§ 155 Dnr GA-2020-00182
+IOP Erikshjälpen .... 19
+
+§ 156 Dnr GA-2025-00049
+IOP Onsala församling .... 20
+
+§ 157 Dnr GA-2025-00176
+IOP Skyddsvärnet i Göteborg .... 21
+
+§ 158 Dnr GA-2024-00226
+
+Det här dokumentet är digitalt signerat
+
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
+Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 3 -->
 
 KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (25)
 Nämnden för Gymnasium & Arbetsmarknad Datum
-
 2025-12-18
 
 Återrapportering av program- och verksamhetsråd (2025) .... 22
+
 § 159 Dnr GA-2024-00225
-
 Återrapportering av delegeringsbeslut (2025) .... 23
+
 § 160 Dnr GA-2024-00227
-
 Inkomna skrivelser till ledamöter och ersättare i nämnden (2025) .... 24
-§ 161 Dnr GA-2024-00228
 
-Förvaltningschef informerar (2025) ..ssssssssssrsserssrsersrerrsrnresnrrerrsrrrrr rn rn nn 25
+§ 161 Dnr GA-2024-00228
+Förvaltningschef informerar (2025) .... 25
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C0O6AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 4 -->
@@ -124,7 +209,7 @@ justerare och finner att nämnden bifaller det.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C0O6AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 5 -->
@@ -145,7 +230,7 @@ Sammanfattning av ärendet
 
 Camilla Pålsson, verksamhetschef inköp och Anna Danielsson, jurist inköp från
 Serviceförvaltningen i Kungsbacka kommun genomför en utbildning kopplat till
-inköp- och upphandlingsprocessen — Leva Avtal.
+inköp- och upphandlingsprocessen – Leva Avtal.
 
 Utöver inköpsprocessen går man igenom delar såsom korruption, välfärdsbrott mm.
 Syftet med utbildningarna är att stärka nämnderna i sitt ansvar kopplat till
@@ -159,7 +244,7 @@ bifaller det.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C0O6AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 6 -->
@@ -188,7 +273,7 @@ bifaller det.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C0O6AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 7 -->
@@ -221,7 +306,7 @@ bifaller det.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C06AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 8 -->
@@ -269,7 +354,7 @@ bifaller det.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C0O6AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 9 -->
@@ -295,7 +380,7 @@ innovation samlats på budgeten centralt.
 Förvaltningen har också fått besked från Service att avskrivningar på fastigheterna
 ska justerar utifrån felaktiga avskrivningstider vilket innebär en hyressänkning på
 7,2mkr. Detta är bara ett engångsbelopp under 2026, och ska användas för satsningar
-för bland annat inköp av nytt läromedel inför GY2S5.
+för bland annat inköp av nytt läromedel inför GY25.
 
 Förvaltningen har ökade krav på kompetens ute i verksamheten, och ska anställa en
 projektledare och en kravanalytiker (på viss procent).
@@ -308,7 +393,7 @@ bifaller det.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C0O6AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 10 -->
@@ -352,7 +437,7 @@ investeringsbudgeten att justeras enligt kommunens beslutade generella uppräkni
 för de senaste fem åren.
 
 Nämndens behov av löpande investeringar beräknas uppgå till 7 150 tkr per år för
-åren 2027-2036.
+åren 2027–2036.
 
 Beslutsunderlag
 
@@ -361,12 +446,12 @@ Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2025-12-01
 Beslutsgång
 
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
-Arbetsmarknad kan godkänna investeringsplanen för löpande investeringar 2027—
+Arbetsmarknad kan godkänna investeringsplanen för löpande investeringar 2027–
 2036 och finner att nämnden bifaller det.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C0O6AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 11 -->
@@ -387,7 +472,7 @@ Sammanfattning av ärendet
 
 Kommunens skyldighet att lämna stöd till elever i gymnasieskolan, gymnasial
 vuxenutbildning eller påbyggnadsutbildning, som behöver inackordering till följd av
-skollagen, regleras i skollagen (2010:800) 15 kap. 32 3. Lägsta beloppet, om stöd ges
+skollagen, regleras i skollagen (2010:800) 15 kap. 32 §. Lägsta beloppet, om stöd ges
 kontant, är 1/30 av basbeloppet enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken och
 regleras årligen.
 
@@ -406,7 +491,7 @@ fastställa inackorderingstillägg för läsåret 2026 till 1970 kronor/månad i
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C0O6AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 12 -->
@@ -443,7 +528,7 @@ gymnasieskolor för 2026 och finner att nämnden bifaller det.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C0O6AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 13 -->
@@ -504,7 +589,7 @@ allergier eller överkänslighet, vilka naturligtvis fortsatt ska hanteras med s
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C0O6AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 14 -->
@@ -536,11 +621,9 @@ en tydlig rättslig grund.
 Beslutsunderlag
 
 Moderaternas yrkande 2025-12-18
-
 Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2025-11-28
 Protokollutdrag, kommunstyrelsens arbetsutskott 2025-08-12 § 212
 Protokollutdrag, kommunfullmäktige 2025-06-16 § 133
-
 Sverigedemokraternas motion, Avskaffa religiöst motiverad specialkost i förskola
 och skola, 2025-05-25
 
@@ -566,7 +649,7 @@ dagar då fläsk eller nötkött serveras. För det fåtal elever som inte äter
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C0O6AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 15 -->
@@ -581,7 +664,6 @@ för denna kostpreferens. På så sätt säkerställs att alla barn och elever f
 näringsriktig måltid.
 
 Genom att införa ett fullgott vegetariskt alternativ skapas en inkluderande
-
 måltidsverksamhet som kan möta olika preferenser samtidigt som
 måltidsverksamheten kan bedrivas på ett hållbart och ekonomiskt ansvarsfullt sätt.
 
@@ -609,28 +691,23 @@ finner att nämnden bifaller det.
 
 Omröstningsresultat
 
-Ledamot Ersättare Nej | Avstår
-Axel Storckenfeldt (M)
-Helena Nyborg (KD)
-Shabnam Zamani (S)
-Jenny Nilsson (M)
-Morgan Johansson (M)
-May-Louise Flyrin (S)
-Hans Ädel (SD)
-
-Tina Hald (SD Emilia Åhfelt (SD)
-Karin Green (C)
-Jan Eric Knutas (L)
-
-Sebastian Lindberg (V)
-
-Pil] IPsles] JP4letis
-
-Kol kelle
+| Ledamot | Ersättare | Ja | Nej | Avstår |
+| --- | --- | --- | --- | --- |
+| Axel Storckenfeldt (M) | | X | | |
+| Helena Nyborg (KD) | | X | | |
+| Shabnam Zamani (S) | | | X | |
+| Jenny Nilsson (M) | | X | | |
+| Morgan Johansson (M) | | X | | |
+| May-Louise Flyrin (S) | | | X | |
+| Hans Ädel (SD) | | X | | |
+| Tina Hald (SD | Emilia Åhfelt (SD) | X | | |
+| Karin Green (C) | | | X | |
+| Jan Eric Knutas (L) | | | X | |
+| Sebastian Lindberg (V) | | | X | |
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C0O6AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 16 -->
@@ -655,7 +732,7 @@ Kommunstyrelsen
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C0O6AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 17 -->
@@ -714,7 +791,7 @@ inriktningar ökar varför en stärkt samverkan mellan Varberg och Kungsbacka sk
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C0O6AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 18 -->
@@ -768,7 +845,7 @@ kommunerna och finner att nämnden bifaller det.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C0O6AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 19 -->
@@ -785,7 +862,7 @@ Paragrafen är direktjusterad, se separat protokoll.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C0O6AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 20 -->
@@ -804,7 +881,7 @@ Paragrafen är direktjusterad, se separat protokoll.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C0O6AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 21 -->
@@ -853,7 +930,7 @@ nämnden bifaller det.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C0O6AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 22 -->
@@ -877,10 +954,10 @@ verksamhetsråd för Anpassad gymnasieskola.
 
 Träffade både gymnasieskolor. Två fantastiska klasser. Roligt att få träffa eleverna
 och de anställda. Pratade mycket om att de ska gå på anpassad grundskola F-6 går på
-Kolla fram till gymnasiet, i stället för Valla skola från 7—9. Blir en svårare övergång
+Kolla fram till gymnasiet, i stället för Valla skola från 7–9. Blir en svårare övergång
 till gymnasiet.
 
-Karin Green (C) redogör för mötet med programråd — Ledarskap och hälsa (Barn och
+Karin Green (C) redogör för mötet med programråd – Ledarskap och hälsa (Barn och
 Fritid).
 
 Pratade om skillnaden mellan lärling och nationella program.
@@ -902,7 +979,7 @@ bifaller det.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C0O6AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 23 -->
@@ -948,7 +1025,7 @@ Arbetsmarknad kan godkänna återrapporteringen av delegeringsbeslut för period
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C0O6AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 24 -->
@@ -976,7 +1053,7 @@ bifaller det.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C06AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 25 -->
@@ -1030,7 +1107,7 @@ bifaller det.
 
 Det här dokumentet är digitalt signerat
 
-Transaktionsidentitet: OBB3A640A8D7BCFA91790208CC9FAD52887C0O6AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
 
 <!-- sida 26 -->
@@ -1041,15 +1118,17 @@ Axel E V L Storckenfeldt
 
 Datum: 2025-12-19 14:15:23
 
-Transaktionsidentitet: OB83A640A8D7BCFA91790208CC9FAD52887C06AF2D
+Transaktionsidentitet: 0B83A640A8D7BCFA91790208CC9FAD52887C06AF2D
+
 Morgan Johansson
 
 Datum: 2025-12-19 15:17:38
 
 Transaktionsidentitet: E426ACAD627CC71A0047E8D75BE517FDC2A256BE41
+
 Underskriftstjänst: twoday Underskriftstjänst
 
-O& twoday
+© twoday
 
 <!-- sida 27 -->
 
@@ -1057,6 +1136,8 @@ Dokumentet är signerat av Ciceron DoÄ
 
 Organisation
 
-Organisation: — Kungsbacka kommun
+Organisation: Kungsbacka kommun
 Organisationsnr: 212000-1256
-E-post: gymnasiumocharbetsmarknadQkungsbacka.se
+E-post: (e-post borttagen)
+
+© twoday
