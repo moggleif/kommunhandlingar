@@ -21,23 +21,31 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, 
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2024-09-26
 
-Plats och tid för Elof Lindälvs gymnasium Sal A67 Klockan 17:00-19:36
-sammanträde
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium Sal A67
+
+Klockan 17:00-19:36
+
 Paus 18:20-18:35
 
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Maria Svärd Wänt (M) ersätter Karin
-Helena Nyborg (KD), 1:e vice ordförande Green (C) §§ 107-109
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
 Shabnam Zamani (S), 2:e vice ordförande
 Jenny Nilsson (M)
 Karin Green (C) Från § 109
@@ -48,27 +56,47 @@ Tina Hald (SD)
 Jan Eric Knutas (L)
 Sebastian Lindberg (V)
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M)          Karin Zetterman, tjf verksamhetschef
-Pontus Jensen (S)             Johan Ronner, ekonomichef
-Anna Thomander (S)            Andréas Mårtensson, kvalitet- och
-utvecklingschef
-Elisabeth Grimhusen, HR- och
-kommunikationschef
+Tjänstgörande ersättare
+Maria Svärd Wänt (M) ersätter Karin Green (C) §§ 107-109
+
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M)
+Pontus Jensen (S)
+Anna Thomander (S)
+
+Tjänstepersoner
+Karin Zetterman, tjf verksamhetschef
+Johan Ronner, ekonomichef
+Andréas Mårtensson, kvalitet- och utvecklingschef
+Elisabeth Grimhusen, HR- och kommunikationschef
 Åsa Ardfelt, utvecklingsledare
-Cecilia Fossan, biträdande
-gymnasiechef § 109
+Cecilia Fossan, biträdande gymnasiechef § 109
 
-Personalföreträdare           Övriga
+Personalföreträdare
 
-Plats och tid för justering Digital justering
+Övriga
 
-Sekreterare   Karin Möglebust                       § 107-120
+Plats och tid för justering
+
+Digital justering
+
+Sekreterare
+
+Karin Möglebust
+
 Paragrafer
 
-Ordförande    Axel Storckenfeldt (M)
+§ 107-120
 
-Protokolljusterare Morgan Johansson (M)
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Morgan Johansson (M)
 
 <!-- sida 2 -->
 
@@ -250,7 +278,6 @@ arbetssätt stämmer överens.
 Utveckla och implementera förbättrade rutiner för egenkontroll i syfte att motverka
 risken för felaktiga avslag, otillräckliga utredningar och felaktigt nekande av tolk.
 Utveckla ett systematiskt förbättringsarbete och lärande utifrån klagomål,
-
 tillsynsbeslut och domar.
 Förvaltningen ska återrapportera till nämnden för Gymnasium & Arbetsmarknad de
 åtgärder som vidtas vid nämndens sammanträde 2024-11-20 med delrapport vid
@@ -292,7 +319,6 @@ KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          8 (19)
 Nämnden för Gymnasium & Arbetsmarknad
 Datum
 2024-09-26
-
 ger rekommendation kring samt att en handlingsplan upprättas med återrapportering i
 sin helhet vid nämnden sammanträde 2024-11-20 och delrapport vid nämndens
 sammanträde 2024-10-23 och finner att nämnden bifaller det.
@@ -381,7 +407,6 @@ subventionerad kost. Övriga verksamheter uppfyller inte Skatteverkets regler kr
 fri eller subventionerad kost.
 Förslag till beslut innebär att priset för pedagogisk lunch för anpassad gymnasieskola
 och LSS uppgår till 20 kr per portion och priset för pedagogisk frukost och
-
 mellanmål uppgår till 10 kr per portion.
 
 Beslutsunderlag
@@ -475,7 +500,6 @@ ger en vinst både utifrån effektivitet och säkerhet när en akt ska sammanst�
 utlämnande till enskild. Förvaltningen för Individ & Familjeomsorg genomförde
 denna förändring under 2023 och då de har ansvar att stödja oss i arkivering av akter
 i verksamhetssystemet Combine är detta ett led att förenkla hanteringen både för dem
-
 och för förvaltningen för Gymnasium & Arbetsmarknad.
 Viva är det nya verksamhetssystem som ska användas på tre enheter inom
 Kompetenscentrum, etableringsenheten, enheten för myndighet samt
@@ -493,7 +517,6 @@ Det som är upprättat i verksamhetssystemet ska arkiveras via överföring frå
 verksamhetssystem till e-arkiv och inte skrivas ut i pappersform. Det gäller även
 samtliga handlingar som ska bevaras för alltid, dvs personer födda den 5:e, 15:e och
 25:e i varje månad, placerade barn, faderskap/föräldraskap och adoptioner. Inom
-
 verksamheten på Kompetenscentrum innefattar detta ensamkommande flyktingbarn
 som har placerats.
 
@@ -601,7 +624,6 @@ eller föregripa ett beslut i ett enskilt ärende av den som fått beslutanderä
 att själva ta över ärendet och fatta beslut.
 
 Under perioden 2024-08-01 till 2024-08-31 har beslut om anställning fattats enligt
-
 bifogad lista. Vidare har beslut enligt 4 kap §§ 1-2 socialtjänstlagen samt 11 kap § 1
 socialtjänstlagen tagits under perioden 2024-08-01 till 2024-08-31.
 

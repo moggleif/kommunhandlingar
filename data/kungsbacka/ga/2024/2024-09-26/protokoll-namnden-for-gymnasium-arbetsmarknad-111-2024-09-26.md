@@ -21,49 +21,79 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2024-09-26
 
-Plats och tid för Elof Lindälvsgymnasium sal A67 Klockan 17:00- 19:36
-sammanträde
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Maria Svärd Wänt (M) ersätter Karin
-Helena Nyborg (KD), 1:e vice ordförande Green (C) §§107–108
+Plats och tid för sammanträde
+
+Elof Lindälvsgymnasium sal A67
+
+Klockan 17:00- 19:36
+
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
 Shabnam Zamani (S), 2:e vice ordförande
 Jenny Nilsson (M)
 Karin Green (M) från § 109
 Morgan Johansson (M)
-
 May-Louise Flyrin (S)
 Marcus Lindälv (SD)
 Tina Hald (SD)
 Jan Eric Knutas (L)
 Sebastian Lindberg (V)
-Övriga närvarande Ersättare                 Tjänstepersoner
-Maria Svärd Wänt (M)          Karin Zetterman, tjf förvaltningschef
-Pontus Jensen (S)             Andréas Mårtensson, kvalitet- och
-Anna Thomander (S)            utvecklingschef
-Johan Ronner, ekonomichef
 
-Elisabeth Grimhusen, HR- och
-kommunikationschef
-Personalföreträdare           Övriga
+Tjänstgörande ersättare
+Maria Svärd Wänt (M) ersätter Karin Green (C) §§107–108
+
+Övriga närvarande
+
+Ersättare
+Maria Svärd Wänt (M)
+Pontus Jensen (S)
+Anna Thomander (S)
+
+Tjänstepersoner
+Karin Zetterman, tjf förvaltningschef
+Andréas Mårtensson, kvalitet- och utvecklingschef
+Johan Ronner, ekonomichef
+Elisabeth Grimhusen, HR- och kommunikationschef
+
+Personalföreträdare
+
+Övriga
 Åsa Ardfelt, utvecklingsledare
 
-Plats och tid för justering Digital justering,
+Plats och tid för justering
 
-Sekreterare   Karin Möglebust               Paragrafer § 111
+Digital justering,
 
-Ordförande    Axel Storckenfeldt (M)
+Sekreterare
 
-Protokolljusterare Morgan Johansson (M)
+Karin Möglebust
+
+Paragrafer
+
+§ 111
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Morgan Johansson (M)
 
 <!-- sida 2 -->
 
@@ -106,7 +136,6 @@ underskott medan övriga verksamheter prognostiserar överskott.
 Ekonomin för Gymnasium & Arbetsmarknad under perioden januari till augusti 2024
 har varit fortsatt stabil inom de flesta verksamheter. Det finns utmaningar i
 ekonomin, framför allt kring elevantal i gymnasieverksamheten och kostnaderna
-
 kring boende i etableringsverksamheten.
 När det gäller elevantalet i gymnasieverksamheten finns det några gymnasieprogram
 som arbetar med att anpassa organisationen till antalet elever. Detta arbete kommer
@@ -117,14 +146,12 @@ studerande inom gymnasial utbildning, vilket innebär en lägre kostnad för kö
 utbildning från upphandlade utbildningssamordnare.
 Etableringsverksamheten prognostiserar ett överskott. Det beror på överskott för
 mottagande enligt massflyktsdirektivet Här har ersättningarna från Migrationsverket
-
 varit högre än de kostnader vi har haft för mottagandet. De nya reglerna som kommit
 för massflyktsdirektivet kommer innebära betydligt minskade ersättningar för denna
 målgrupp framöver.
 Ekonomiskt bistånd prognostiserar ett överskott. Vid jämförelse med åren 2019–
 2023 har det hittills under år 2024 varit färre ärenden vilket inneburit en lägre
 kostnad för utbetalt ekonomiskt bistånd. Ännu syns inte några effekter till följd av
-
 det höga kostnadsläget i samhället.
 Förvaltningens arbete med de mål och direktiv som är satta visar på framsteg,
 framförallt har ett stort arbete lagts på att ta fram en ny organisation för
