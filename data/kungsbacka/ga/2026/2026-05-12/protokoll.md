@@ -21,24 +21,30 @@ kvalitet_per_sida: [ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2026-05-12
 
-Plats och tid för Vägmästaren, Lagan        Klockan 17.00-21.05
-sammanträde
+Plats och tid för sammanträde
+
+Vägmästaren, Lagan
+
+Klockan 17.00-21.05
 Paus 18.10-18.30 & 19.50-19.55
 
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Christian Düring (KD)
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
 Shabnam Zamani (S), 2:e vice ordförande
-Osama Mohamad Mesto (C)
 Jenny Nilsson (M)
 Morgan Johansson (M)
 May-Louise Flyrin (S)
@@ -46,36 +52,53 @@ Hans Ädel (SD)
 Tina Hald (SD)
 Karin Green (C)
 Sebastian Lindberg (V)
-Övriga närvarande Ersättare                 Tjänstepersoner
-Pontus Jensen (S)             Patrik Hellberg, förvaltningschef
-Emilia Åhfelt (SD)            Johan Ronner, ekonomichef
-Henrik Brattström (M)         Andreas Mårtensson, kvalitet- och
-utvecklingschef §§ 59–64
-Frida Svärd, verksamhetschef
-Cindia Escalante Mattson,
-gymnasiechef
-Elisabeth Grimhusen, HR &
-kommunikationschef
-Cecilia Fossan, biträdande
-gymnasiechef
-Adam Greveby, utvecklare
 
-Karin Möglebust, utvecklingsledare
-§§ 60–63
-Christina Palmquist, tillförordnad
-rektor § 61
+Tjänstgörande ersättare
+Christian Düring (KD)
+Osama Mohamad Mesto (C)
+
+Övriga närvarande
+
+Ersättare
+Pontus Jensen (S)
+Emilia Åhfelt (SD)
+Henrik Brattström (M)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Johan Ronner, ekonomichef
+Andreas Mårtensson, kvalitet- och utvecklingschef §§ 59–64
+Frida Svärd, verksamhetschef
+Cindia Escalante Mattson, gymnasiechef
+Elisabeth Grimhusen, HR & kommunikationschef
+Cecilia Fossan, biträdande gymnasiechef
+Adam Greveby, utvecklare
+Karin Möglebust, utvecklingsledare §§ 60–63
+Christina Palmquist, tillförordnad rektor § 61
+
 Personalföreträdare
 Frida Hagelin, Sveriges lärare
 Cajsa Fridén, Sveriges skolledare
 
-Plats och tid för justering Digital justering
+Plats och tid för justering
 
-Sekreterare   Adam Greveby                          § 64
+Digital justering
+
+Sekreterare
+
+Adam Greveby
+
 Paragrafer
 
-Ordförande    Axel Storckenfeldt (M)
+§ 64
 
-Protokolljusterare Sebastian Lindberg (V) justerare.
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Sebastian Lindberg (V) justerare.
 
 <!-- sida 2 -->
 
@@ -117,10 +140,11 @@ Ekonomin för Gymnasium & Arbetsmarknad under perioden januari–april 2026 har
 varit fortsatt stabil inom de flesta verksamheter. Samtidigt finns vissa utmaningar,
 framför allt kopplade till elevantalet inom gymnasieverksamheten samt planeringen
 av antalet bostäder inom etableringen.
-När det gäller gymnasieverksamheten pågår ett arbete med att anpassa
 
+När det gäller gymnasieverksamheten pågår ett arbete med att anpassa
 organisationen till ett minskat elevantal. Detta anpassningsarbete kommer att
 fortsätta under resten av året.
+
 Vuxenutbildningen prognostiserar ett överskott, vilket förklaras av att förvaltningen
 fått rätt i ersättningsfrågor avseende år 2025.
 

@@ -21,64 +21,88 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, 
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2025-10-16
 
-Plats och tid för Elof Lindälvs gymnasium, sal A67 Klockan 17:00-20:45, paus 18:40-
-sammanträde
-19:04, ajournering 20:19-20:23
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Maria Svärd Wänt (M) ersätter Tina
-Helena Nyborg (KD), 1:e vice ordförande Hald (SD)
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium, sal A67
+
+Klockan 17:00-20:45, paus 18:40-19:04, ajournering 20:19-20:23
+
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
 Shabnam Zamani (S), 2:e vice ordförande
 Jenny Nilsson (M)
 Morgan Johansson (M)
-
 May-Louise Flyrin (S)
 Hans Ädel (SD)
 Karin Green (C)
 Jan Eric Knutas (L)
 Sebastian Lindberg (V)
-Övriga närvarande Ersättare                 Tjänstepersoner
-Pontus Jensen (S)             Patrik Hellberg, Förvaltningschef
-Osama Mohamad Mesto (C) §§ 114 – 118 Johan Ronner, ekonomichef
-Emilia Åhfelt (SD) §§ 116 - 128 Andreas Mårtensson, kvalité- och
-utvecklingschef
 
-Cindia Escalante Mattsson,
-gymnasiechef
+Tjänstgörande ersättare
+Maria Svärd Wänt (M) ersätter Tina Hald (SD)
+
+Övriga närvarande
+
+Ersättare
+Pontus Jensen (S)
+Osama Mohamad Mesto (C) §§ 114 – 118
+Emilia Åhfelt (SD) §§ 116 - 128
+
+Tjänstepersoner
+Patrik Hellberg, Förvaltningschef
+Johan Ronner, ekonomichef
+Andreas Mårtensson, kvalité- och utvecklingschef
+Cindia Escalante Mattsson, gymnasiechef
 Karin Zetterman, verksamhetschef
-Cecilia Fossan, biträdande
-gymnasiechef
+Cecilia Fossan, biträdande gymnasiechef
 Karin Möglebust, utvecklingsledare
 Alexandra Cameron, utvecklare
 Hannah Tengelin, rektor § 115
-Johan Laasonen, rektor §§ 115 och
-117
+Johan Laasonen, rektor §§ 115 och 117
 Anette Skårvik, enhetschef § 116
-Jacob Hillhammar, arbetslagsledare §
-117
-
+Jacob Hillhammar, arbetslagsledare § 117
 Erika Erngard, utvecklare § 120
-Personalföreträdare           Övriga
+
+Personalföreträdare
 Lisa Jönsson, Sveriges skolledare, ej § 119
 Frida Hagelin, Sveriges lärare
 
-Plats och tid för justering digitalt
+Övriga
 
-Sekreterare   Alexandra Cameron                     §§ 114-128
+Plats och tid för justering
+
+digitalt
+
+Sekreterare
+
+Alexandra Cameron
+
 Paragrafer
 
-Ordförande    Axel Storckenfeldt (M)
+§§ 114-128
 
-Protokolljusterare Karin Green (C)
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Karin Green (C)
 
 <!-- sida 2 -->
 
@@ -230,7 +254,6 @@ av sina val. 33% fick tips från sina föräldrar, 30% genom skolan och övriga 
 kommunens hemsida och kompisar.
 
 Översyn av nytt verksamhetssystem pågår och dialog förs med leverantör för att
-
 möta uppdragets behov nu och framåt.
 Hantering av feriejobben kommer hanteras manuellt även 2026.
 
@@ -375,7 +398,6 @@ KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL          10 (24)
 Nämnden för Gymnasium & Arbetsmarknad
 Datum
 2025-10-16
-
 därigenom sänka kostnaderna? Går det att samordna resurser på ett effektivare sätt?
 Kan vi arbeta mer aktivt med att marknadsföra programmet för att öka antalet
 sökande?
@@ -409,7 +431,6 @@ Beslutsgång
 Ordförande Axel Storckenfeldt (M) finner att det finns två förslag till beslut gällande
 attsats två, det vill säga förvaltningens förslag och ordförande Axel Storckenfeldts
 (M) förslag med omformulering av beslutet i attsats två till att erbjuda övriga
-
 program med utbud enligt underlaget för läsåret 2026/2027.
 
 Ordförande ställer förslagen emot varandra och finner att Ordförande Axel
@@ -428,14 +449,12 @@ Datum
 2025-10-16
 
 Ordförande finner att det finns det finns två förslag till beslut gällande attsats ett, det
-
 vill säga förvaltningens förslag och Sebastian Lindbergs (V) förslag.
 
 Ordförande ställer förslagen emot varandra och finner att förvaltningens förslag
 vinner bifall.
 
 Omröstning begärs och verkställs. Ordförande Axel Storckenfeldt (M) utser
-
 förvaltningens förslag till ja och Vänsterpartiets förslag till nej.
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan godkänna övriga program som erbjuds på gymnasieskolorna med
@@ -465,7 +484,7 @@ Transaktionsidentitet: 1A5F41EDF318E904837B4093B06E83666DC4FD6102
 | Morgan Johansson (M) |  | X |  |  |
 | May-Louise Flyrin (S) |  |  | X |  |
 | Hans Ädel (SD) |  | X |  |  |
-| Tina Hald (SD | Maria Svärd<br>Wänt (M) | X |  |  |
+| Tina Hald (SD | Maria Svärd Wänt (M) | X |  |  |
 | Karin Green (C) |  | X |  |  |
 | Jan Eric Knutas (L) |  | X |  |  |
 | Sebastian Lindberg (V) |  |  | X |  |
@@ -550,7 +569,6 @@ ytterligare prioriterade områden:
 
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) finner att det finns ett förslag till beslut,
-
 förvaltningens förslag med tilläggsyrkandet från ordförande Axel Storckenfeldt (M).
 Ordförande frågar om nämnden för Gymnasium & Arbetsmarknad kan godkänna
 Lokalbehov 2027-2031 med utblicksår 2032-2036 med tilläggsyrkandet och finner
@@ -601,7 +619,6 @@ med delårsrapport och bokslut.
 Reservation
 2:e vice ordförande Shabnam Zamani (S) och May-Louise Flyrin (S) vill reservera
 sig till yrkande under budget avseende demokratifond med följande text till
-
 protokollet.
 
 Socialdemokraterna reserverar sig till yrkandet då förslaget kom under sittande möte.
@@ -633,7 +650,6 @@ samverka kring.
 
 Sammanfattning av ärendet
 Kommunfullmäktige beslutade 2025-06-16 att fastställa kommunövergripande mål
-
 som utgångspunkt för nämndens arbete med verksamhetsplanering och nämndbudget
 2026\.
 
@@ -647,7 +663,6 @@ I Nämndbudget 2026 ingår bland annat.
 • Investeringsbudget
 
 Enligt Kungsbacka kommuns styrmodell ska nämnder och styrelser i arbetet med
-
 nämndbudget fatta beslut om verksamhetsplan och ramfördelning. Till ärendet
 bifogas nämndbudget 2026.
 
@@ -703,7 +718,6 @@ Flyrin (S) yrkar avslag till demokratifond.
 
 Jan Eric Knutas (L), Maria Svärd Wänt (M), Morgan Johansson (M), Hans Ädel
 (SD), Karin Green (C) och 1:e vice ordförande Helena Nyborg (KD) yrkar bifall till
-
 demokratifond.
 
 Beslutsgång
@@ -714,7 +728,6 @@ till "Hälsofrämjande och fysisk aktiv livsstil" och finner att nämnden bifall
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan godkänna Axel Storckenfeldt (M) m.fl. förslag om
 nämndsbudget 2026 med införande av demokratifond och finner att nämnden bifaller
-
 det.
 Det här dokumentet är digitalt signerat
 Transaktionsidentitet: 34922070AFFE95F94C39814CCA1A64FD08993DB316
@@ -756,7 +769,7 @@ Transaktionsidentitet: 1A5F41EDF318E904837B4093B06E83666DC4FD6102
 | Morgan Johansson (M) |  | X |  |  |
 | May-Louise Flyrin (S) |  |  | X |  |
 | Hans Ädel (SD) |  | X |  |  |
-| Tina Hald (SD | Maria Svärd<br>Wänt (M) | X |  |  |
+| Tina Hald (SD | Maria Svärd Wänt (M) | X |  |  |
 | Karin Green (C) |  | X |  |  |
 | Jan Eric Knutas (L) |  | X |  |  |
 | Sebastian Lindberg (V) |  |  | X |  |
@@ -782,7 +795,6 @@ individanpassat.
 • Ge förvaltningschefen i uppdrag att ta fram en ansökan om 500 000kr för
 praktikinsatser på anpassad gymnasieskola. Ansökan ska syfta till att öka antalet
 elever som erbjuds praktik, höja kvalitén på praktikupplevelsen och stärka
-
 samverkan mellan skola och arbetsliv.
 • Att delegera till förvaltningschefen att för nämndens räkning lämna in sagda
 ansökningar till Kommunstyrelsen.
@@ -834,7 +846,6 @@ behov kan individutskottets beslut om ändring av sin tidsplan.
 
 Nämnden sammanträdestider 2026 kl. 17.00. Elof Lindälvs gymnasium Sal A 67
 22 januari, 19 februari, 19 mars, 16 april, 12 maj (tisdag), 11 juni, 27 augusti, 17
-
 september, 22 oktober, 19 november, 17 december.
 Individutskottets sammanträdestider 2026 kl. 14.00
 
@@ -988,7 +999,6 @@ Sammanfattning av ärendet
 
 1\. Månadsrapport september, Werket
 2\. Sammanställning av svar KFs direktiv- innovation och omställning till nya
-
 arbetssätt
 3\. Protokollsutdrag gällande Kungsbacka Arena
 
@@ -1028,7 +1038,6 @@ målgruppen.
 Förvaltningen har fattat beslut att låsa skalskyddet på skolorna. Syftet med låsningen
 är att hålla obehöriga utanför skolorna och bidra till säkerhetskulturen. Beslutet har
 samverkats på LSG och samtidigt har dialog förts med andra berörda förvaltningar
-
 som också vistas och utnyttjar skolans lokaler. Införandet av låsningen är inte
 bestämt än, men troligtvis på plats i börjar av 2026.
 

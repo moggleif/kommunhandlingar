@@ -21,60 +21,76 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, 
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2026-06-11
 
-Plats och tid för Elof Lindälvs gymnasium, sal A67 Klockan 17.00-20.48
-sammanträde
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium, sal A67
+
+Klockan 17.00-20.48
 Paus 18.15-18.35 & 20.00-20.10
 
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Pontus Jensen (S) ersätter Shabnam
-Helena Nyborg (KD), 1:e vice ordförande Zamani (S)
-Morgan Johansson (M)          Henrik Brattström (M) ersätter Jenny
-Tina Hald (SD)                Nilsson (M)
-Karin Green (C)               Anna Thomander (S) ersätter May-
-Sebastian Lindberg (V)        Louise Flyrin (S)
-Charlotta Lundström (L) §§ 76-89 Emilia Åhfelt (SD) ersätter Hans Ädel
-(SD)
-Osama Mesto (C) ersätter Charlotta
-Lundström (M) § 75
+Beslutande
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Osama Mohamad Mesto (C) §§ 76-89 Patrik Hellberg, förvaltningschef
-Christian Düring (KD)         Andreas Mårtensson, kvalitet- och
-utvecklingschef
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
+Morgan Johansson (M)
+Tina Hald (SD)
+Karin Green (C)
+Sebastian Lindberg (V)
+Charlotta Lundström (L) §§ 76-89
+
+Tjänstgörande ersättare
+Pontus Jensen (S) ersätter Shabnam Zamani (S)
+Henrik Brattström (M) ersätter Jenny Nilsson (M)
+Anna Thomander (S) ersätter May-Louise Flyrin (S)
+Emilia Åhfelt (SD) ersätter Hans Ädel (SD)
+Osama Mesto (C) ersätter Charlotta Lundström (M) § 75
+
+Övriga närvarande
+
+Ersättare
+Osama Mohamad Mesto (C) §§ 76-89
+Christian Düring (KD)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Andreas Mårtensson, kvalitet- och utvecklingschef
 Frids Svärd, verksamhetschef
-Elisabeth Grimhusen, HR &
-kommunikationschef
-Cindia Escalante Mattsson,
-gymnasiechef
-Cecilia Fossan, biträdande
-gymnasiechef
+Elisabeth Grimhusen, HR & kommunikationschef
+Cindia Escalante Mattsson, gymnasiechef
+Cecilia Fossan, biträdande gymnasiechef
 Johan Ronner, ekonomichef
 Ingvar Henriksson, revisor § 76
 Stefan Friberg, revisor § 76
-
 Kristina Lindberg, revisor § 76
 Hans Åke Fryklund, revisor § 76
 Johanna Friberg, enhetschef § 77
-Hanna Carlström, utvecklingsledare §
-78
+Hanna Carlström, utvecklingsledare § 78
 Linnea Söderman, HR-generalist § 79
 Johanna Larsson, utvecklare § 80
 
-Personalföreträdare           Övriga
-Frida Hagelin, Sveriges lärare Fanny Nilsson, verksamhetsrevisor
-Cajsa Fridén, Sveriges skolledare Ernst & Young § 76
+Personalföreträdare
+Frida Hagelin, Sveriges lärare
+Cajsa Fridén, Sveriges skolledare
 
-Plats och tid för justering Digital justering
+Övriga
+Fanny Nilsson, verksamhetsrevisor Ernst & Young § 76
+
+Plats och tid för justering
+
+Digital justering
 
 <!-- sida 2 -->
 
@@ -83,11 +99,21 @@ Nämnden för Gymnasium & Arbetsmarknad
 Datum
 2026-06-11
 
-Sekreterare   Adam Greveby                  Paragrafer §§ 75-89
+Sekreterare
 
-Ordförande    Axel Storckenfeldt (M)
+Adam Greveby
 
-Protokolljusterare Morgan Johansson (M)
+Paragrafer
+
+§§ 75-89
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Morgan Johansson (M)
 
 <!-- sida 3 -->
 
@@ -210,7 +236,6 @@ och behovet av att anpassa verksamheten och ekonomin därefter, där målet är 
 genom profilering och ett anpassat utbud attrahera elever och motverka flytt till
 Göteborg. Vidare berördes Kungsbackas unika arbetsmarknadsprocess samt
 anpassningen av yrkesprogram utifrån söktryck, med ett övergripande mål att hitta
-
 lösningar för varje individ.
 
 Gällande uppföljning av informationspunkter i protokollen förklarades att dessa ofta
@@ -265,7 +290,6 @@ administration till att vara en möjliggörare.
 Genom införandet av flera digitala lösningar har den manuella hanteringen minskat
 avsevärt. Bland åtgärderna nämndes e-arkivering av betyg, användning av ekopost
 för välkomstbrev samt digital signering av betygskataloger. Dessa förbättringar har
-
 resulterat i kortare ledtider, ökad kvalitet och spårbarhet, samt en snabbare och mer
 tillgänglig service som frigjort tid i verksamheten. Avslutningsvis presenterades även
 planerna för det fortsatta arbetet.
@@ -304,7 +328,6 @@ analysen genomföra insatser i syfte att utveckla utbildningen. Den nya struktur
 utgår från det nationella kvalitetssystemet och inkluderar nämndens mål på ett tydligt
 sätt. Strukturen har utvecklats i dialog med huvudmannens representanter, rektorer,
 lärare och andra verksamma inom gymnasieskolan och den anpassade
-
 gymnasieskolan. Dialog och gemensamt lärande är centralt i den nya strukturen som
 utgörs av två teman:
 \* Trygghet och stöd: Uppföljning av trygghet, studiero samt om eleverna får det stöd
@@ -411,7 +434,6 @@ lokalförsörjning där samutnyttjande och effektiv användning av befintliga lo
 prioriteras före nyanskaffning av lokaler.
 För gymnasieverksamheten [JL1]visar befolkningsprognoserna på en tydligt
 minskande grupp 16–19-åringar över tid, med förändringar på programnivå som
-
 påverkar behovet av anpassade lärmiljöer och speciallokaler. Förvaltningen bedömer
 att den övergripande elevvolymen kan hanteras inom befintligt lokalbestånd (bortsett
 från Fordon- och transportprogrammet), men att vissa verksamhetsanpassningar och
@@ -425,7 +447,6 @@ Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2026-05-19
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan noterar informationen till protokollet och finner att nämnden
-
 bifaller.
 
 Beslutet skickas till
@@ -458,7 +479,6 @@ kommunerna i Halland, Arbetsförmedlingen, Försäkringskassan och Region Hallan
 enligt lag (2003:1210) om finansiell samordning av rehabiliteringsinsatser
 (FINSAM). Syftet är att stärka samverkan mellan parterna och erbjuda samordnade
 rehabiliterande insatser för individer som behöver stöd för att närma sig arbete eller
-
 studier.
 Sedan 2013 har Samordningsförbundet finansierat individsamverkansteam i Halland,
 där även Kungsbacka kommun ingått. Verksamheten har visat goda resultat genom
@@ -682,7 +702,6 @@ Däremot får nämnden återta lämnad delegering eller föregripa i ett beslut 
 ärende av den som fått beslutanderätten genom att själva ta över ärendet och fatta
 beslut.
 Under perioden 2026-05-01 till 2026-05-31 har beslut enligt
-
 delegeringsförteckningen gällande insatser enligt socialtjänstlagen (SoL) fattats. Se
 bifogad lista.
 Under perioden 2026-05-01 till 2026-05-31 har fem anställning gjorts. Se bifogad
@@ -773,7 +792,6 @@ Protokoll FSG GA 2026-06-02
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan noterar informationen till protokollet och finner att nämnden
-
 bifaller.
 
 Det här dokumentet är digitalt signerat

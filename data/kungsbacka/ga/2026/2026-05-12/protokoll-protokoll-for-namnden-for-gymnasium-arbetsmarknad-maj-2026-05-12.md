@@ -21,61 +21,84 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, 
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2026-05-12
 
-Plats och tid för Vägmästaren, Lagan        Klockan 17.00-21.05
-sammanträde
+Plats och tid för sammanträde
+
+Vägmästaren, Lagan
+
+Klockan 17.00-21.05
 Paus 18.10-18.30 & 19.50-19.55
 
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Christian Düring (KD) ersätter Helena
-Shabnam Zamani (S), 2:e vice ordförande Nyborg (KD)
-Jenny Nilsson (M)             Osama Mohamed Mesto (C) ersätter
-Morgan Johansson (M)          Charlotta Lundström (L)
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Shabnam Zamani (S), 2:e vice ordförande
+Jenny Nilsson (M)
+Morgan Johansson (M)
 May-Louise Flyrin (S)
 Hans Ädel (SD)
 Tina Hald (SD)
 Karin Green (C)
 Sebastian Lindberg (V)
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Pontus Jensen (S)             Patrik Hellberg, förvaltningschef
-Emilia Åhfelt (SD)            Johan Ronner, ekonomichef
-Henrik Brattström (M)         Andreas Mårtensson, kvalitet- och
-utvecklingschef §§ 59–64
-Frida Svärd, verksamhetschef
-Cindia Escalante Mattson,
+Tjänstgörande ersättare
+Christian Düring (KD) ersätter Helena Nyborg (KD)
+Osama Mohamed Mesto (C) ersätter Charlotta Lundström (L)
 
-gymnasiechef
-Elisabeth Grimhusen, HR &
-kommunikationschef
-Cecilia Fossan, biträdande
-gymnasiechef
+Övriga närvarande
+
+Ersättare
+Pontus Jensen (S)
+Emilia Åhfelt (SD)
+Henrik Brattström (M)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Johan Ronner, ekonomichef
+Andreas Mårtensson, kvalitet- och utvecklingschef §§ 59–64
+Frida Svärd, verksamhetschef
+Cindia Escalante Mattson, gymnasiechef
+Elisabeth Grimhusen, HR & kommunikationschef
+Cecilia Fossan, biträdande gymnasiechef
 Adam Greveby, utvecklare
-Karin Möglebust, utvecklingsledare
-§§ 60–63
-Christina Palmquist, tillförordnad
-rektor § 61
+Karin Möglebust, utvecklingsledare §§ 60–63
+Christina Palmquist, tillförordnad rektor § 61
 
 Personalföreträdare
 Frida Hagelin, Sveriges lärare
 Cajsa Fridén, Sveriges skolledare
 
-Plats och tid för justering Digital justering
+Plats och tid för justering
 
-Sekreterare   Adam Greveby                          §§ 59-74
+Digital justering
+
+Sekreterare
+
+Adam Greveby
+
 Paragrafer
-Ordförande    Axel Storckenfeldt (M)
 
-Protokolljusterare Sebastian Lindberg (V) justerare.
+§§ 59-74
+
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Sebastian Lindberg (V) justerare.
 
 <!-- sida 2 -->
 
@@ -194,7 +217,6 @@ Arbetsmarknad
 
 Beslut
 Nämnden för Gymnasium & Arbetsmarknad utser Charlotta Lundström (L) som
-
 ledamot i Gymnasium & Arbetsmarknads individutskott.
 
 Sammanfattning av ärendet
@@ -261,7 +283,6 @@ Beslutsgång
 
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan notera informationen till protokollet och finner att nämnden
-
 bifaller det.
 
 Det här dokumentet är digitalt signerat
@@ -442,7 +463,6 @@ och har möjlighet att komplettera sina studier för att nå gymnasieexamen.
 Förslaget avser att nyttja befintliga lokaler och kompetens från
 Restaurangprogrammet för att erbjuda en yrkesintroduktion inom restaurang.
 Utbildningen bedöms vara resurseffektiv då stora delar genomförs som APL samt att
-
 utbildningen ska finansieras inom den befintliga ekonomiska ramen. Satsningen
 syftar till att möta arbetsmarknadens behov av arbetskraft inom restaurangbranschen
 samt skapa en väg till arbete för elever som står långt från arbetsmarknaden.
@@ -455,7 +475,6 @@ Beslutsgång
 
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan notera informationen till protokollet och finner att nämnden
-
 bifaller det.
 
 Det här dokumentet är digitalt signerat
@@ -486,7 +505,6 @@ kommunen vid systematiska brister i tillämpningen av aktivitetskravet.
 Lagändringarna som rör sanktionsavgift för kommunerna föreslås träda i kraft den 1
 juli 2027.
 Regeringen föreslår bland annat att ansvarig nämnd ska vara skyldig att
-
 tillhandahålla aktiviteter och att aktivitetskravet ska gälla enskilda som har fått
 försörjningsstöd under minst tre sammanhängande månader. Aktiviteterna ska bidra
 till att öka den enskildes förmåga att ta ett arbete, öka den enskildes språkliga
@@ -501,7 +519,6 @@ Beslutsgång
 
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan notera informationen till protokollet och finner att nämnden
-
 bifaller det.
 
 Det här dokumentet är digitalt signerat
@@ -520,7 +537,6 @@ Kvartalsuppföljning arbetsmarknadsprocessen 2026
 
 Beslut
 Nämnden för Gymnasium & Arbetsmarknad godkänner kvartalsuppföljningen av
-
 arbetsmarknadsprocessen för kvartal 1, 2026.
 
 Sammanfattning av ärendet
@@ -533,7 +549,6 @@ Processen följer antalet person som får stöd inom ramen för
 arbetsmarknadsprocessen. Statistik som
 följs upp är bland annat antal personer som är i behöv av försörjningsstöd, tak över
 huvudet eller som
-
 är inne i etableringsprocessen.
 
 Beslutsunderlag
@@ -626,7 +641,6 @@ Däremot får nämnden återta lämnad delegering eller föregripa i ett beslut 
 ärende av den som fått beslutanderätten genom att själva ta över ärendet och fatta
 beslut.
 Under perioden 2026-04-01 till 2026-04-30 har beslut enligt
-
 delegeringsförteckningen gällande insatser enligt socialtjänstlagen (SoL) fattats. Se
 bifogad lista.
 Under perioden 2026-04-01 till 2026-04-30 har en anställning gjorts. Se bifogad
@@ -677,7 +691,6 @@ på att backa.
 Hans Ädel diskuterade också det sjunkande betyget i matematik och fick veta att
 lärarna har hittat innovativa sätt att göra undervisningen mer relevant för elevernas
 framtida arbetsliv. Eleverna har till exempel fått skapa ett "hitte-på" företag och
-
 räkna på kostnaderna.
 
 Hans Ädel undersökte också hur man kan öka tjejernas intresse för
@@ -750,7 +763,6 @@ Beslutsgång
 
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan notera informationen till protokollet och finner att nämnden
-
 bifaller det.
 
 Det här dokumentet är digitalt signerat

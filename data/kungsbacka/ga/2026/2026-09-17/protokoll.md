@@ -21,58 +21,84 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, 
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2026-09-17
 
-Plats och tid för Elof Lindälvs gymnasium, sal A67 Klockan 17:00-20.55
-sammanträde
+Plats och tid för sammanträde
+
+Elof Lindälvs gymnasium, sal A67
+
+Klockan 17:00-20.55
 Paus 18.10-18.30
 
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Emilia Åhfelt (SD) ersätter Hans Ädel
-Helena Nyborg (KD), 1:e vice ordförande (SD)
-Jenny Nilsson (M)             Pontus Jensen (S) ersätter Shabnam
-Morgan Johansson (M)          Zamani (S)
-May-Louise Flyrin (S)         Christian Düring (KD) ersätter Tina
-Tina Hald (SD) §§ 107-120     Hald §§ 105-106
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
+Jenny Nilsson (M)
+Morgan Johansson (M)
+May-Louise Flyrin (S)
+Tina Hald (SD) §§ 107-120
 Karin Green (C)
 Charlotta Lundström (L)
 Sebastian Lindberg (V)
 
-Övriga närvarande Ersättare                 Tjänstepersoner
-Henrik Brattström (M)         Patrik Hellberg, förvaltningschef
-Osama Mohamad Mesto (C)       Andreas Mårtensson, kvalitet- och
-Christian Düring (KD) §§ 107-120 utvecklingschef
+Tjänstgörande ersättare
+Emilia Åhfelt (SD) ersätter Hans Ädel (SD)
+Pontus Jensen (S) ersätter Shabnam Zamani (S)
+Christian Düring (KD) ersätter Tina Hald §§ 105-106
+
+Övriga närvarande
+
+Ersättare
+Henrik Brattström (M)
+Osama Mohamad Mesto (C)
+Christian Düring (KD) §§ 107-120
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Andreas Mårtensson, kvalitet- och utvecklingschef
 Frids Svärd, verksamhetschef
-Elisabeth Grimhusen, HR &
-kommunikationschef
-Cindia Escalante Mattsson,
-gymnasiechef
+Elisabeth Grimhusen, HR & kommunikationschef
+Cindia Escalante Mattsson, gymnasiechef
 Johan Ronner, ekonomichef
 Johanna Larsson, utvecklare § 106
 Pernilla Börjesson, enhetschef § 107
-Axel Frisch, lärare allmänna ämnen §
+Axel Frisch, lärare allmänna ämnen § 108
 
-108
 Personalföreträdare
 Erik Hirmas, Sveriges lärare
 Cajsa Fridén, Sveriges skolledare
 
-Plats och tid för justering Digital justering
+Plats och tid för justering
 
-Sekreterare   Adam Greveby                          §§ 105-120
+Digital justering
+
+Sekreterare
+
+Adam Greveby
+
 Paragrafer
 
-Ordförande    Axel Storckenfeldt (M)
+§§ 105-120
 
-Protokolljusterare Emilia Åhfelt (SD)
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Emilia Åhfelt (SD)
 
 <!-- sida 2 -->
 
@@ -211,7 +237,6 @@ Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2026-08-31
 Beslutsgång
 Ordförande Axel Storckenfeldt (M) frågar om nämnden för Gymnasium &
 Arbetsmarknad kan notera informationen till protokollet och finner att nämnden
-
 bifaller.
 
 Det här dokumentet är digitalt signerat
@@ -244,7 +269,6 @@ placering. Dödsbohandläggningen omfattar bland annat ekonomiskt bistånd till
 begravningskostnader, dödsboanmälan och provisorisk dödsboförvaltning.
 Vidare informeras om tillfälligt boende, där 25 hushåll för närvarande omfattas,
 varav de flesta är familjer. Totalt rör det sig om 37 vuxna och 85 barn. En
-
 boendekoordinator stöttar hushållen i bostadssökandet och har kontakt med privata
 hyresvärdar.
 Inom ekonomiskt bistånd informeras om försörjningsstöd, livsföring i övrigt samt de
@@ -327,7 +351,6 @@ augusti 2026 varit stabil i de flesta verksamheter. Samtidigt finns ekonomiska
 utmaningar, främst inom gymnasieverksamheten, där verksamheten behöver
 anpassas till det minskade elevantalet under de senaste åren.
 Etableringsverksamheten prognostiserar ett överskott. Överskottet beror främst på att
-
 ersättningarna från Migrationsverket bedöms överstiga kostnaderna för mottagandet.
 Det finns för närvarande inget behov av ytterligare lokaler, och antalet boenden
 planeras att minska från och med hösten. Dessa faktorer bidrar sammantaget till den
@@ -377,7 +400,6 @@ förslag till Nämndbudget 2027.
 
 Efter måldagen har förvaltningen arbetet vidare med förslag till nämndbudget och en
 uppdatering om hur långt arbetet framskridit ges nämnden vid sammanträdet 17
-
 september 2026
 
 Nämnden för Gymnasium & Arbetsmarknad fattar beslut om Nämndbudget vid sitt
@@ -493,7 +515,6 @@ Förvaltningen för Gymnasium & Arbetsmarknads tjänsteskrivelse, 2026-08-27
 Beslutsgång
 Ordföranden Axel Storckenfeldt (M) frågar nämnden för Gymnasium &
 Arbetsmarknad om informationen kan noteras till protokollet samt om redovisning
-
 och uppföljning av anmälningar om kännedom om kränkande behandling ska göras
 en gång i halvåret, utöver den månadsvisa återrapporteringen av delegationsbeslut,
 och finner att nämnden bifaller.
@@ -526,7 +547,6 @@ kommunen vid systematiska brister i tillämpningen av aktivitetskravet.
 Lagändringarna som rör sanktionsavgift för kommunerna föreslås träda i kraft den 1
 juli 2027.
 Regeringen föreslår bland annat att ansvarig nämnd ska vara skyldig att
-
 tillhandahålla aktiviteter och att aktivitetskravet ska gälla enskilda som har fått
 försörjningsstöd under minst tre sammanhängande månader. Aktiviteterna ska bidra
 till att öka den enskildes förmåga att ta ett arbete, öka den enskildes språkliga
@@ -571,7 +591,6 @@ Av föregående anledning har en informationsberättelse upprättats för Gymnas
 Arbetsmarknads nämnden. Informationsberättelsen beskriver myndighetens bildande,
 verksamhet, historik och organisation. Även lagar och regler som styr verksamheten
 finns beskrivna. Det finns information om nämndens reglemente,
-
 klassificeringsstruktur, informationshanteringsplan, sökväg till myndighetens arkiv
 samt förvaltningens huvudsakliga system och digitala verktyg. Slutligen presenteras
 hur Offentlighets- och sekretesslagen påverkar handlingarna som hanteras samt
@@ -615,7 +634,6 @@ nedan.
 
 Nämndens sammanträdestider 2027 kl. 17.00. Elof Lindälvs gymnasium Sal A67
 14 & 21 januari, 11 februari, 18 mars, 15 april, 13 maj, 10 juni, 26 augusti, 16
-
 september, 21 oktober, 18 november, 16 december.
 Individutskottets sammanträdestider 2027 kl. 14.00
 

@@ -21,61 +21,83 @@ kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, 
 tal_obekraftade: []
 figurer: []
 tolkade: []
-granskad: null
+granskad: 2026-10-23
 ---
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN
 Nämnden för Gymnasium & Arbetsmarknad
+
+SAMMANTRÄDESPROTOKOLL
 Datum
 2026-03-19
 
-Plats och tid för Elof Lindälvs gymnasium, sal A67 Klockan 17.00- 20.10, paus 18.35-
-sammanträde
-19.00,
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Axel Storckenfeldt (M), Ordförande Maria Svärd Wänt (M) ersätter Jenny
-Helena Nyborg (KD), 1:e vice ordförande Nilsson
-Shabnam Zamani (S), 2:e vice ordförande Pontus Jensen (S) ersätter Sebastian
-Morgan Johansson (M)          Lindberg (V)
-May-Louise Flyrin (S)
+Plats och tid för sammanträde
 
+Elof Lindälvs gymnasium, sal A67
+
+Klockan 17.00- 20.10, paus 18.35-19.00,
+
+Beslutande
+
+Ledamöter
+Axel Storckenfeldt (M), Ordförande
+Helena Nyborg (KD), 1:e vice ordförande
+Shabnam Zamani (S), 2:e vice ordförande
+Morgan Johansson (M)
+May-Louise Flyrin (S)
 Hans Ädel (SD)
 Tina Hald (SD)
 Karin Green (C)
 Jan Eric Knutas (L)
-Övriga närvarande Ersättare                 Tjänstepersoner
-Emilia Åhfelt (SD)            Patrik Hellberg, förvaltningschef
-Osama Mohamad Mesto (C)       Elisabeth Grimhusen, HR- och
-Christian Düring (KD)         kommunikationschef
-Frida Svärd, verksamhetschef
-Cindia Escalante Mattsson,
 
-gymnasiechef
-Cecilia Fossan, biträdande
-gymnasiechef
+Tjänstgörande ersättare
+Maria Svärd Wänt (M) ersätter Jenny Nilsson
+Pontus Jensen (S) ersätter Sebastian Lindberg (V)
+
+Övriga närvarande
+
+Ersättare
+Emilia Åhfelt (SD)
+Osama Mohamad Mesto (C)
+Christian Düring (KD)
+
+Tjänstepersoner
+Patrik Hellberg, förvaltningschef
+Elisabeth Grimhusen, HR- och kommunikationschef
+Frida Svärd, verksamhetschef
+Cindia Escalante Mattsson, gymnasiechef
+Cecilia Fossan, biträdande gymnasiechef
 Alexandra Cameron, utvecklare
-Sabina Svahn, enhetschef
-Göteborgsregionen § 33
+Sabina Svahn, enhetschef Göteborgsregionen § 33
 Eva Tingström, arbetslagsledare § 36
-Annika Areskog Ronnstedt,
-arbetslagsledare § 36
-Oscar Skytt Gustafsson,
-säkerhetssamordnare §§ 37–38
+Annika Areskog Ronnstedt, arbetslagsledare § 36
+Oscar Skytt Gustafsson, säkerhetssamordnare §§ 37–38
 
 Personalföreträdare
 Cajsa Friden, Sveriges skolledare
 Erik Hirmas, Sveriges lärare
 
-Plats och tid för justering digitalt,
+Plats och tid för justering
 
-Sekreterare   Alexandra Cameron                     §§ 32–47
+digitalt,
+
+Sekreterare
+
+Alexandra Cameron
+
 Paragrafer
 
-Ordförande    Axel Storckenfeldt (M)
+§§ 32–47
 
-Protokolljusterare Karin Green (C)
+Ordförande
+
+Axel Storckenfeldt (M)
+
+Protokolljusterare
+
+Karin Green (C)
 
 <!-- sida 2 -->
 
@@ -385,7 +407,6 @@ varje nämnd säkerställa att dess verksamhet kan fortsätta fungera även vid
 störningar. För Gymnasium och Arbetsmarknad innebär detta att planering,
 prioriteringar och eventuella investeringar måste göras med beredskap i åtanke. Vissa
 delar kan lösas gemensamt inom kommunen, men varje nämnd är ytterst ansvarig för
-
 sin egen robusthet.
 Kommunfullmäktige har utifrån ovan gett samtliga nämnder i uppdrag att planera
 och investera i civil beredskap utifrån sina respektive behov.
@@ -425,7 +446,6 @@ Sammanfattning av ärendet
 
 Säkerhetsarbete på Kungsbacka kommuns gymnasieskolor
 I december 2024 startade vi en säkerhetsgrupp på gymnasiet med uppdrag att se över
-
 skolans samlade säkerhetsarbete. Uppdraget omfattade såväl yttre säkerhet som inre
 trygghet. En av de frågor som identifierades för särskild utredning var låsning av
 gymnasieskolorna.
@@ -433,7 +453,6 @@ Kort därefter inträffade händelsen vid Campus Risbergska i Örebro, vilket me
 att arbetet intensifierades och i högre grad kom att fokusera på den yttre säkerheten.
 
 Den 1 juli 2025 infördes ett kapitel om säkerhet i skollagen. Säkerhetsgruppen har
-
 under hösten jobbat med anpassningar för att vi ska leva upp till kraven om säkerhet i
 skollagen.
 
@@ -585,7 +604,6 @@ fattade den tredje februari 2026 beslut om avveckling av priset.
 Lära för livet-priset avvecklas eftersom priset under senaste åren inte lyckats väcka
 intresse och generera nomineringar. Detta har avspeglats i de låga antalet
 nomineringar som inkommit under de senaste nomineringsperioderna. Sett till
-
 perioden 2018–2024 var antalet nomineringar generellt lågt och var på sin höjd fem
 år 2022 men föll till två år 2024. Det har varit svårt att få uppmärksamhet för priset
 och arbetsbördan för ansvarig personal var stor samtidigt som priset liknar redan
@@ -635,7 +653,6 @@ Däremot får nämnden återta lämnad delegering eller föregripa i ett beslut 
 ärende av den som fått beslutanderätten genom att själva ta över ärendet och fatta
 beslut.
 Under perioden 2026-02-01 till 2026-02-28 har beslut enligt
-
 delegeringsförteckningen gällande insatser enligt socialtjänstlagen (SoL) fattats. Se
 bifogad lista.
 Under perioden 2026-02-01 till 2026-02-28 har fyra anställning gjorts. Se bifogad
