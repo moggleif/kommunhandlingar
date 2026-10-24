@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.28dcea0d18cf3c913c85f20e/1705069889
 sha256: c7a02837d6784f074a4f911797f5edb37d6f3c912abedb7a14002ada04997276
 bytes: 37700814
 sidor: 161
-hamtad: 2026-10-16T06:24:07+00:00
-konverterad: 2026-10-16T06:26:44+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T10:40:39+00:00
+konverterad: 2026-10-24T10:42:38+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -237,7 +237,7 @@ rr NK
 
 Beslut
 
-Länsstyrelsen i Hallands län beslutar med stöd av 7 kap. 4 \$ miljöbalken (MB) att
+Länsstyrelsen i Hallands län beslutar med stöd av 7 kap. 4 § miljöbalken (MB) att
 förklara det område som avgränsas av blå heldragen linje på ovanstående karta som
 naturreservat, med syfte, skäl och föreskrifter enligt nedan.
 
@@ -319,7 +319,7 @@ träd med höga bevarandevärden.
 
 Föreskrifter
 
-A. Med stöd av 7 kap. 5 \$ MB, om inskränkningar i rätten att använda mark- och
+A. Med stöd av 7 kap. 5 § MB, om inskränkningar i rätten att använda mark- och
 vattenområden inom reservat, är det utöver vad som annars gäller förbjudet att inom
 området:
 
@@ -335,7 +335,7 @@ dika, dimma, dikesrensa eller utföra annan åtgärd som kan påverka områdets
 
 hydrologi. Med Länsstyrelsen tillstånd är det dock tillåtet att underhålla dike
 
-enligt bestämmelserna i 11 kap. 17 \$ miljöbalken under förutsättning att diket är
+enligt bestämmelserna i 11 kap. 17 § miljöbalken under förutsättning att diket är
 
 lagligt anlagt,
 
@@ -448,7 +448,7 @@ LÄNSSTYRELSEN Förslag till beslut 6 (12)
 
 2023-10-13 511-2413-16
 
-B. För att tillgodose syftet med reservatet förpliktigas med stöd av 7 kap. 6 \$ MB ägare
+B. För att tillgodose syftet med reservatet förpliktigas med stöd av 7 kap. 6 § MB ägare
 och innehavare av särskild rätt till fastigheten att tåla åtgärder inom området enligt
 
 följande:
@@ -479,7 +479,7 @@ långsiktig överlevnad i länet samt
 undersökningar och dokumentation av friluftsliv, mark, vatten samt växt-,
 svamp- och djurliv.
 
-C. Med stöd av 7 kap. 30 \$ MB, om rätten att färdas och vistas i reservat är det
+C. Med stöd av 7 kap. 30 § MB, om rätten att färdas och vistas i reservat är det
 utöver vad som annars gäller förbjudet att:
 
 I.
@@ -541,7 +541,7 @@ C-föreskrifterna gäller för allmänheten. Föreskrifterna riktar sig även ti
 och andra med särskild rätt till fastigheten då dessa utövar aktivitet som inte är knutet
 till dessa rättigheter.
 
-Länsstyrelsen vill upplysa om att föreskrifterna enligt 7 kap. 30 \$ miljöbalken (C-
+Länsstyrelsen vill upplysa om att föreskrifterna enligt 7 kap. 30 § miljöbalken (C-
 föreskrifterna) träder i kraft tre veckor efter beslutet publiceras oavsett om beslutet
 överklagas.
 
@@ -562,7 +562,7 @@ Länsstyrelsen erinrar även om att andra lagar, förordningar och föreskrifter
 reservatsföreskrifterna gäller för området. Av särskild betydelse för syftet med
 reservatet, eller som ett komplement till föreskrifterna är bland andra:
 
-16 \$ lag (2007:1150) om tillsyn över hundar och katter
+16 § lag (2007:1150) om tillsyn över hundar och katter
 
 <!-- sida 14 -->
 
@@ -575,7 +575,7 @@ hindras från att springa lösa i marker där det finns vilt. Under den övriga 
 skall hundar hållas under sådan tillsyn att de hindras från att driva eller förfölja vilt,
 när de inte används vid jakt.
 
-2 kap. 1, 6-8 \$\$ kulturmiljölagen (1988:950), fornlämningar
+2 kap. 1, 6-8 §§ kulturmiljölagen (1988:950), fornlämningar
 
 De fornlämningar som återfinns inom reservatet är skyddade enligt lag. Det är
 förbjudet att utan tillstånd rubba, ta bort, gräva ut, täcka över eller genom
@@ -590,14 +590,14 @@ allmänhetens friluftsliv samt att bevara goda livsvillkor på land och i vatten
 och växtlivet. Åtgärder som kan skada eller motverka syftet med strandskyddet är
 förbjudna.
 
-4-9 \$\$ artskyddsförordningen (2007:845), fridlysta arter
+4-9 §§ artskyddsförordningen (2007:845), fridlysta arter
 
 Många arter är fridlysta. Det innebär att djuren och växterna inte får skadas eller
 störas, och i många fall även att fortplantningsområden och viloplatser är skyddade.
 Alla fåglar, groddjur, kräldjur, fladdermöss samt orkidéer är fridlysta, och dessutom
 ett urval av andra organismer.
 
-12 kap. 6\$ miljöbalken
+12 kap. 6§ miljöbalken
 
 För verksamheter och åtgärder som kan ändra naturmiljön väsentligt krävs samråd
 med Länsstyrelsen, i de fall verksamheten eller åtgärden inte omfattas av
@@ -754,7 +754,7 @@ och ”Hav i balans och levande kust och skärgård”.
 Beslutets förenlighet med riksintressen, planer och områdesbestämmelser
 
 Särö Nordanskog är angivet som riksintresse för naturvård, friluftsliv och kultur-
-miljövård (MB 3 kap.6 \$), samt rörligt friluftsliv (MB 4 kap. 2\$). Reservatsbeslutet
+miljövård (MB 3 kap.6 §), samt rörligt friluftsliv (MB 4 kap. 2§). Reservatsbeslutet
 är förenligt med hushållningsbestämmelserna i 3 och 4 kap. MB.
 
 Reservatsområdet ingår i den kommunala byggnadsplanen för Särön (S88, 1983) där
@@ -773,7 +773,7 @@ lämplig användning av mark- och vattenresurser samt med den för området gäl
 
 Intresseprövning
 
-Länsstyrelsen anser, vid en intresseprövning enligt 7 kap. 25 \$ miljöbalken, att
+Länsstyrelsen anser, vid en intresseprövning enligt 7 kap. 25 § miljöbalken, att
 avgränsningen av området, reservatets omfång och föreskrifternas utformning i detta
 beslut innebär en rimlig balans mellan de värden som skall skyddas och det intrång
 detta innebär för enskilds rätt att använda mark och vatten.

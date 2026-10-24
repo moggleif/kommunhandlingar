@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.77ab358719eb489f947b9c/178115919200
 sha256: d446ebcb288fc71223ceaa413bf6612a7069b2e7bc92b0dcbf27e5df5acb0c80
 bytes: 283689611
 sidor: 689
-hamtad: 2026-10-15T10:40:26+00:00
-konverterad: 2026-10-15T10:49:58+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T09:59:49+00:00
+konverterad: 2026-10-24T10:07:07+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ej-konverterad, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -3527,7 +3527,7 @@ Bakgrund och syfte
 Dotterbolag (WK Norra Åsa AB, 559404-4686) till Bolaget har den 31 mars
 2022 inkommit till samhällsbyggnadskontoret med en begäran om planbesked
 för fastigheten Åsa 3:339. Byggnadsnämndens arbetsutskott beslutade den 1
-december 2023 \$318 att ge samhällsbyggnadskontoret i uppdrag att upprätta
+december 2023 §318 att ge samhällsbyggnadskontoret i uppdrag att upprätta
 förslag till detaljplan för bostäder och verksamheter inom Åsa 3:339,
 Detaljplanen.
 
@@ -3539,8 +3539,8 @@ Kläppavägen, ska istället ingå i planområdet, Detaljplanen, för att skapa 
 ändamålsenlig planering.
 
 Reviderad projektbeställning för Detaljplanen, godkändes av Kommunstyrelsen
-den 25 november 2025 \$233 och nytt beslut om planuppdrag har fattats av
-Byggnadsnämndens arbetsutskott den 15 december 2025 \$ 259, att upprätta
+den 25 november 2025 §233 och nytt beslut om planuppdrag har fattats av
+Byggnadsnämndens arbetsutskott den 15 december 2025 § 259, att upprätta
 förslag till detaljplan för bostäder och verksamheter inom Åsa 3:339 och del av
 Åsa 5:246 i Åsa, Detaljplanen.
 
@@ -3822,7 +3822,7 @@ Uppdrag, politiska beslut, syfte, m.m.
 
 Bolaget har den 31 mars 2022 inkommit till samhällsbyggnadskontoret med en
 begäran om planbesked för fastigheten Åsa 3:339. Byggnadsnämndens
-arbetsutskott beslutade den I december 2023 \$318 att ge
+arbetsutskott beslutade den I december 2023 §318 att ge
 samhällsbyggnadskontoret i uppdrag att upprätta förslag till detaljplan för
 bostäder och verksamheter inom Åsa 3:339, Detaljplanen.
 
@@ -3834,8 +3834,8 @@ ingå i planområdet för Detaljplanen, för att skapa en mer ändamålsenlig
 planering.
 
 Reviderad projektbeställning för Detaljplanen, godkändes av Kommunstyrelsen
-den 25 november 2025 \$233 och nytt beslut om planuppdrag har fattats av
-Byggnadsnämndens arbetsutskott den 15 december 2025 \$ 259, att upprätta
+den 25 november 2025 §233 och nytt beslut om planuppdrag har fattats av
+Byggnadsnämndens arbetsutskott den 15 december 2025 § 259, att upprätta
 förslag till detaljplan för bostäder och verksamheter inom Åsa 3:339 och del av
 Åsa 5:246 i Åsa, Detaljplanen.
 
@@ -4885,7 +4885,7 @@ A. - BAKGRUND OCH FÖRUTSÄTTNINGAR
 
 1.1 Samhällsbyggnadskontoret har fått i uppdrag att upprätta förslag till ”Detaljplan för
 bostäder inom Skörvalla 1:116 i Särö, Kungsbacka kommun”, nedan kallad
-Detaljplanen, genom beslut i Byggnadsnämndens arbetsutskott 2024-05-23 \$ 137.
+Detaljplanen, genom beslut i Byggnadsnämndens arbetsutskott 2024-05-23 § 137.
 
 1.2 Kommunen har tagit fram förslag till Detaljplan. Förslaget har varit utställt för samråd
 mellan 2026-08-21 och 2025-09-30. Granskning genomfördes mellan 2026-02-17 och
@@ -5155,7 +5155,7 @@ skyltning ska underlätta framkomligheten.
 11.1 - Dagvattenhantering inom Exploateringsområdet ska utföras som ett enskilt
 dagvattensystem där Exploatören ansvarar för projektering, funktion, drift och
 underhåll av anläggningarna. Särskilda bestämmelser om dagvattendamm inom allmän
-platsmark (PARK) framgår av \$ 15.1.
+platsmark (PARK) framgår av § 15.1.
 
 11.2 — Exploatören är skyldig att vidta erforderliga åtgärder för avledning av vatten från
 Exploateringsområdet så att skada eller olägenhet inte uppstår på angränsande
@@ -5177,7 +5177,7 @@ renas i enlighet med de principer, tekniska lösningar och den dimensionerande
 kapacitet som redovisas i den till Detaljplanen hörande dagvattenutredningen samt
 med beaktande av de förutsättningar och bedömningar som kan komma att
 aktualiseras i samband med bygglov, marklov eller andra erforderliga tillstånd och
-beslut. Bestämmelser om utförande av dagvattendamm framgår av \$ 15.1.
+beslut. Bestämmelser om utförande av dagvattendamm framgår av § 15.1.
 
 Sign.
 

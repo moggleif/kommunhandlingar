@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.29e29ba018df2c6344728d60/1710401473
 sha256: 6b3b2d7f63b6a23003f78e021bc4f431ca1210b42957bf6f2b087e8e2b3b6491
 bytes: 125157393
 sidor: 506
-hamtad: 2026-10-15T07:24:42+00:00
-konverterad: 2026-10-15T07:30:33+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T07:39:18+00:00
+konverterad: 2026-10-24T07:43:34+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
@@ -7614,7 +7614,7 @@ KUNGSBACKA KOMMUN
 Kommunstyrelsen SAMMANTRÄDESPROTOKOLL 14 (43)
 Sammanträdesdatum
 2011-03-15
-\$ 52 KS11-00068/21
+§ 52 KS11-00068/21
 
 Förfrågan om planändring till bostadsändamål inom del av
 fastigheterna Varla 12:18 och Varla 12:20
@@ -7642,7 +7642,7 @@ garageändamål till att även gälla för bostadsändamål.
 Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2011-02-09
-Kommunstyrelsens arbetsutskott 2011-02-22, \$ 65
+Kommunstyrelsens arbetsutskott 2011-02-22, § 65
 
 Yrkanden
 Ulrika Landergren (FP) och Fredrik Hansson (C) yrkar bifall till förslaget.
@@ -7852,13 +7852,13 @@ Uppdrag, politiska beslut och tidigare tecknade avtal
 
 Samhällsbyggnadskontoret har fått i uppdrag att upprätta ” Detaljplan för bostäder och
 utbildningslokaler inom del av Tölö 6:4 m.fl. ”, Detaljplanen, genom beslut i
-Byggnadsnämndens arbetsutskott, 2021-15-06 \$ 174.
+Byggnadsnämndens arbetsutskott, 2021-15-06 § 174.
 
 Kommunen har tagit fram förslag till Detaljplan. Förslaget har varit utställt för samråd
 under andra kvartalet 2022. Granskning genomfördes under andra kvartalet 2023.
 
-Ett Föravtal (KS 2019-09-24, \$ 232), Föravtalet, och ett Principavtal (KS 2022-06-21
-\$156), Principavtalet, har tecknats mellan parterna. Föravtalet och Principavtalet
+Ett Föravtal (KS 2019-09-24, § 232), Föravtalet, och ett Principavtal (KS 2022-06-21
+§156), Principavtalet, har tecknats mellan parterna. Föravtalet och Principavtalet
 föreskriver att ett Exploateringsavtal, Avtalet, ska upprättas och godkännas av
 Kommunstyrelsen innan Detaljplanen kan antas av Byggnadsnämnden.
 
@@ -8458,7 +8458,7 @@ detta om fastighetsreglering i enlighet med punkt 5.1. Handling upprättad enlig
 
 11018\)
 
-kap. 36 \$ mervärdesskattelagen (2023:200), ML, enligt punkt 20 lämnas av
+kap. 36 § mervärdesskattelagen (2023:200), ML, enligt punkt 20 lämnas av
 Exploatören till Kommunen i samband med Kommunens övertagande av
 anläggningarna.
 
@@ -8618,7 +8618,7 @@ Mervärdesskatt
 
 Den del av Exploatörens kostnader för iordningsställande av allmänna anläggningar
 inom Exploateringsområdet som utgör mervärdesskatt som erlagts till Skatteverket
-enligt mervärdesskattelagens (2023:200), ML, regler i 5 kap. 32 \$ om uttagsbeskattning
+enligt mervärdesskattelagens (2023:200), ML, regler i 5 kap. 32 § om uttagsbeskattning
 för egen regi-byggnation ska Kommunen ersätta Exploatören för, under förutsättning
 att Kommunen erhåller ersättning enligt Lag (2005:807) om ersättning för viss
 mervärdesskatt för kommuner, regioner, kommunalförbund och samordningsförbund,
@@ -8629,12 +8629,12 @@ anläggningskostnader.
 
 Exploatören ska i samband med äganderättsövergången av allmän plats, se punkt 5,
 inklusive sådan som Exploatören utfört på mark som disponeras med nyttjanderätt
-enligt punkt 7.2, överlämna en handling med stöd av 13 kap. 36 \$ ML. Kommunen har
+enligt punkt 7.2, överlämna en handling med stöd av 13 kap. 36 § ML. Kommunen har
 med stöd av denna handling rätt att begära ersättning enligt LEMK från Skatteverket
 för mervärdesskatt motsvarande den mervärdesskatt som upptas på handlingen.
 Exploatören har därför enligt detta Avtal rätt att erhålla ersättning från Kommunen
 motsvarande det belopp Kommunen erhållit från Skatteverket. Kommunen åtar sig att
-snarast möjligt, efter erhållen handling upprättad enligt 13 kap. 36 \$ ML eller
+snarast möjligt, efter erhållen handling upprättad enligt 13 kap. 36 § ML eller
 likvärdigt, begära ersättning enligt LEMK av sådan skatt från Skatteverket och senast
 30 dagar efter det att Skatteverket utbetalat mervärdesskatten oavkortat utbetala belopp
 motsvarande denna mervärdesskatt till Exploatören. Om Kommunen inte skulle erhålla
@@ -9079,7 +9079,7 @@ Kommunen och Bolaget kallas gemensamt nedan Parterna.
 
 1.1 Samhällsbyggnadskontoret har fått i uppdrag att upprätta ” Detaljplan för
 bostäder och utbildningslokaler inom del av Tölö 6:4 m.fl.”, Detaljplanen,
-genom beslut i Byggnadsnämndens arbetsutskott, 2021-05-06, \$174.
+genom beslut i Byggnadsnämndens arbetsutskott, 2021-05-06, §174.
 
 1.2 — För att klargöra förutsättningarna för planläggningen tecknas detta principavtal,
 Avtalet, mellan Parterna och som ska godkänns av kommunstyrelsen. Avtalet
@@ -9399,7 +9399,7 @@ Kommunstyrelsen Datum
 
 2022-06-21
 
-\$ 156 Dnr 2022-00419
+§ 156 Dnr 2022-00419
 
 Principavtal med JM AB avseende detaljplan för bostäder inom
 fastigheten Tölö m.fl. i Kungsbacka
@@ -9431,7 +9431,7 @@ Beslutsunderlag
 Kommunstyrelsens arbetsutskott 2022-06-07, 223
 Samhällsbyggnadskontorets tjänsteskrivelse, 2022-05-16
 Principavtal, undertecknat av JM AB 2022-05-13
-Byggnadsnämndens arbetsutskott, 2021-05-06 \$ 174
+Byggnadsnämndens arbetsutskott, 2021-05-06 § 174
 
 Förslag till beslut på sammanträdet
 

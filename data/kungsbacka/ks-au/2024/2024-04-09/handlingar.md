@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.18dce30518e5f9bec472eb82/1712558504
 sha256: 5bc8bfa19bf8515c5969d0c7281c5109bc4060a7177f91b087ad733774694a85
 bytes: 186291405
 sidor: 278
-hamtad: 2026-10-16T06:36:29+00:00
-konverterad: 2026-10-16T06:42:54+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T10:50:52+00:00
+konverterad: 2026-10-24T10:55:54+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tom, ok, tom, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ej-konverterad, ok, ok, ocr, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok]
@@ -6273,7 +6273,7 @@ klientmedelskonto skall träffas med anledning av i detta avtal intaget villkor.
 8 19 Äganderättens Äganderätten till fastigheten och lösöre (som kvarlämnas enligt överenskommelse mellan
 övergång parterna) övergår till köparen först sedan köpeskillingen i sin helhet erlagts.
 
-8 20 Överlämnande av Sedan köpeskilling betalats enligt de i 1 \$ angivna villkoren, ska säljaren till köparen
+8 20 Överlämnande av Sedan köpeskilling betalats enligt de i 1 § angivna villkoren, ska säljaren till köparen
 handlingar samt nycklar överlämna bevittnat kvitterat köpebrev avseende fastigheten och övriga handlingar som
 
 behövs för att köparen ska få lagfart. Säljaren ska även till köparen överlämna de nycklar
@@ -6885,11 +6885,11 @@ tighet, Kolla 5:151.
 
 Enligt Avtalet förbinder sig Bolaget att bebygga Kolla 5:151 i enlighet med Avtalet
 och villkoren i bygglov för nybyggnad av kontor och gym, som beslutades den 3 no-
-vember 2022 (BNAu 2022-11-03, \$498).
+vember 2022 (BNAu 2022-11-03, §498).
 
 Bolaget har önskat göra ändringar i tidigare beviljat bygglov och har därför lämnat in
 en ny ansökan som godkändes genom beslut den 1 februari 2024 (BNAu 2024-02-
-01, \$25).
+01, §25).
 
 Med anledning av det nya bygglovet måste villkor i Avtalet, punkt 4 och 11 justeras.
 
@@ -6916,7 +6916,7 @@ Bolaget har fått ett nytt bygglov för nybyggnad av kontor och gym inom Kolla
 
 Parterna är överens om att punkt 11 i Avtalet ska ändras på så vis att Bolaget förbin-
 der sig att bebygga fastigheten enligt Avtalet och enligt villkoren i det nya bygglovet
-(BNAu 2024-02-01, \$25).
+(BNAu 2024-02-01, §25).
 
 Villkoren i Avtalet, punkt 11, angående uppförande av kontorsbyggnad gäller i övrigt
 utan ändring.
@@ -7919,7 +7919,7 @@ Kommunstyrelsen Datum
 
 2023-03-21
 
-\$ 66 Dnr 2019-00398
+§ 66 Dnr 2019-00398
 
 Godkännande av avtal om marköverlåtelse och genomförande
 avseende del av fastigheten Kolla 5:149 i Kolla Parkstad
@@ -7962,16 +7962,16 @@ i tid.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2023-03-07, \$ 72
+Kommunstyrelsens arbetsutskott 2023-03-07, § 72
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2023-02-20
 
 Avtal om marköverlåtelse och genomförande, undertecknat av Maxemal Fastigheter
 Kolla 2 AB, 2023-02-20
 
-Byggnadsnämndens arbetsutskott 2022-11-03, \$ 498
+Byggnadsnämndens arbetsutskott 2022-11-03, § 498
 
-Kommunstyrelsens arbetsutskott 2021-04-13, \$ 152
+Kommunstyrelsens arbetsutskott 2021-04-13, § 152
 
 Markanvisningsavtal, undertecknat 2019-07-18
 
@@ -9717,7 +9717,7 @@ Kommunstyrelsen Datum
 
 2020-01-21
 
-\$4 Dnr 2019-00667
+§4 Dnr 2019-00667
 Ansökan om planbesked för Skörvalla 1:116
 
 Beslut
@@ -9764,7 +9764,7 @@ Kommunstyrelsen har i augusti 2016 lämnat avslag på en ansökan om planbesked
 inom fastigheten Skörvalla 1:116. Den ansökan liknade den som nu är aktuell.
 
 Beslutsunderlag
-Kommunstyrelsens arbetsutskott 2019-12-10, \$ 415
+Kommunstyrelsens arbetsutskott 2019-12-10, § 415
 
 Justerare
 

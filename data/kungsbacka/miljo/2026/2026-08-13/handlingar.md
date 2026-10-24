@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.41c94aae19faa7ae4b6dc55c/1786107453
 sha256: d77adb482e2f375dd7a80b6e010a6285d49f007635a79e467631e8b62c99f759
 bytes: 722687
 sidor: 14
-hamtad: 2026-10-14T11:04:42+00:00
-konverterad: 2026-10-14T11:05:03+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T06:33:45+00:00
+konverterad: 2026-10-24T06:34:08+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok]
@@ -124,12 +124,12 @@ Kommunfullmäktige beslutar att handläggningskostnad per timme sätts till I 41
 
 Kommunfullmäktige ger nämnden för Miljö & Hälsoskydd i uppdrag att årligen justera
 avgiftsbeloppen enligt Prisindex för kommunal verksamhet (PKV) publicerad av Sveriges kommuner
-och regioner (SKR), i enlighet med taxans bestämmelser 6 \$. Utgångspunkten för indexjusteringen är
+och regioner (SKR), i enlighet med taxans bestämmelser 6 §. Utgångspunkten för indexjusteringen är
 oktober år 2026.
 
 Taxa för prövning och tillsyn inom miljöbalkens och strålskyddslagens område, lagen om
 sprängämnesprekursorer, lagen om gaturenhållning och skyltning samt lagen om åtgärder mot
-förorening från fartyg antagen av kommunfullmäktige 2023-12-14 \$ 195, upphör att gälla samtidigt
+förorening från fartyg antagen av kommunfullmäktige 2023-12-14 § 195, upphör att gälla samtidigt
 som ny taxa träder i kraft.
 
 Sammanfattning av ärendet
@@ -185,8 +185,8 @@ Bygg- och miljöförvaltningens tjänsteskrivelse, 2026-07-17
 
 ”Taxa för prövning och tillsyn inom miljöbalkens och strålskyddslagens område, lagen om
 sprängämnes prekursorer, lagen om gaturenhållning och skyltning samt lagen om åtgärder mot
-förorening från fartyg”, Kommunfullmäktige 14 december 2023 \$ 195, KS 2023-00330 Senaste
-indexjustering 2024 inför 2025 NMH 2024-11-07 \$ 143 Dnr 2024-05959
+förorening från fartyg”, Kommunfullmäktige 14 december 2023 § 195, KS 2023-00330 Senaste
+indexjustering 2024 inför 2025 NMH 2024-11-07 § 143 Dnr 2024-05959
 
 ”Taxa för prövning och tillsyn inom miljöbalkens och strålskyddslagens område, lagen om
 sprängämnes prekursorer, lagen om gaturenhållning och skyltning samt lagen om åtgärder mot
@@ -227,9 +227,9 @@ gemensam praxis och ökad samsyn inom länet när det gäller taxa för prövnin
 miljöbalkens område samt beräkning av timtaxa.
 
 Nämnden för Miljö & Hälsoskydd föreslår att paragrafnumren i taxebestämmelserna ändras så att de
-överensstämmer med SKR:s vägledning, det har gjorts ett förtydligande om lagtext i 1 \$, det är nytt
-basår för uppräkning i 6 \$, tillkommande formulering ”Vissa av ovan nämnda arbetsmoment beräknas
-utifrån en normalt förekommande tidsåtgång” i 8 \$ samt nytt stycke ”Övergångsbestämmelser” i
+överensstämmer med SKR:s vägledning, det har gjorts ett förtydligande om lagtext i 1 §, det är nytt
+basår för uppräkning i 6 §, tillkommande formulering ”Vissa av ovan nämnda arbetsmoment beräknas
+utifrån en normalt förekommande tidsåtgång” i 8 § samt nytt stycke ”Övergångsbestämmelser” i
 enlighet med kommunens mall för taxa.
 
 Nämnden för Miljö & Hälsoskydd föreslår att det för prövning inom avlopp, värmepumpar och tillsyn
@@ -284,7 +284,7 @@ och byggverksamhet. Handläggningskostnaden har beräknats utifrån verksamheten
 enligt beräkningsmall och stödmaterial från SKR.
 
 Nuvarande handläggningskostnad är 1391 kronor per timme. Grundberäkningen är från 2022 (KF 18
-oktober 2022 \$ 158, Dnr 2022-00514) och började gälla 1 januari 2023. Beloppet var då 1 250 kronor
+oktober 2022 § 158, Dnr 2022-00514) och började gälla 1 januari 2023. Beloppet var då 1 250 kronor
 per timme och har indexjusterats inför 2024 och 2025. Inför 2026 valde NMH att avstå från att
 indexjustera beloppet. Om nämnden hade valt att indexjustera hade beloppet 2026 varit
 
@@ -340,7 +340,7 @@ Taxebestämmelser:
 e Samma paragrafnummer som SKR:s vägledning och MSV Hallands taxemodell
 
 e Förtydligande om lagtext i I \$
-e Basår för uppräkning 2026 i 6 \$
+e Basår för uppräkning 2026 i 6 §
 
 <!-- sida 8 -->
 
@@ -350,7 +350,7 @@ KUNGSBACKA KOMMUN
 6 (7)
 
 Tillkommande formulering ”Vissa av ovan nämnda arbetsmoment beräknas utifrån en normalt
-förekommande tidsåtgång” i 8 \$
+förekommande tidsåtgång” i 8 §
 
 Nytt stycke ”Övergångsbestämmelser” i enlighet med kommunens mall för taxa.
 

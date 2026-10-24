@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5d477a49196b39710ab4f999/1747050261
 sha256: 6ac0d01e0758dff5c6b1c4f2a20b8bed5002869556ce2bf7aedbb9f23e6292fc
 bytes: 26228288
 sidor: 384
-hamtad: 2026-10-15T06:25:07+00:00
-konverterad: 2026-10-15T06:26:52+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T06:52:55+00:00
+konverterad: 2026-10-24T06:54:12+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -871,7 +871,7 @@ Sammanträdesdatum
 
 2012-08-14
 
-\$ 168 KS10-002157/00
+§ 168 KS10-002157/00
 
 Slutrapport och förslag till fortsatt arbete med Invånardialog
 samt upphörande av arbetsordning för Kommunala
@@ -886,9 +886,9 @@ Kommunstyrelsen får i uppdrag att under 2012 inarbeta projektet Invånardialog 
 Kungsbacka kommuns styrmodell.
 
 Arbetsordning för Kommunala handikapprådet — KHR — i Kungsbacka, antagen av
-KF \$ 146/2001, upphör härmed att gälla.
+KF § 146/2001, upphör härmed att gälla.
 
-Arbetsordning för Pensionärsrådet i Kungsbacka, antagen av KF \$ 10/1989, upphör
+Arbetsordning för Pensionärsrådet i Kungsbacka, antagen av KF § 10/1989, upphör
 härmed att gälla.
 
 Nämnden för Aldreomsorg och nämnden för Funktionsstöd får i uppdrag att, minst
@@ -911,7 +911,7 @@ Slutrapport Invånardialog i Kungsbacka, daterad juni 2012, godkänns och
 
 Sammanfattning
 
-Kommunstyrelsen beslutade 2010-12-14, \$ 269, att Kommunala Handikapprådet och
+Kommunstyrelsen beslutade 2010-12-14, § 269, att Kommunala Handikapprådet och
 Kommunala pensionärsrådet skulle ersättas med pilotprojektet Medborgardialog,
 (senare ersatt med Invånardialog). Förslag till nytt arbetssätt/organisation skulle
 återrapporteras senast juni 2012.
@@ -937,7 +937,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 25 (54)
 Sammanträdesdatum
 2012-08-14
-\$ 168 KS10-00215/00
+§ 168 KS10-00215/00
 
 Projektet har, som övergripande syfte, fokuserat på att skapa ökad transparens och
 engagemang för de gemensamma frågorna i kommunen bland invånarna och på att
@@ -961,9 +961,9 @@ Beslutsunderlag
 Skrivelse från styrgruppsledaren för projektet 2012-06-07, med slutrapport och
 handbok för invånardialog.
 
-Kommunstyrelsens arbetsutskott 2012-06-12, \$ 223
+Kommunstyrelsens arbetsutskott 2012-06-12, § 223
 
-Kommunstyrelsen 2012-06-19, \$ 149
+Kommunstyrelsen 2012-06-19, § 149
 
 Anförande
 
@@ -1002,7 +1002,7 @@ Sammanträdesdatum
 
 2012-08-14
 
-\$ 168 KS10-002157/00
+§ 168 KS10-002157/00
 
 Slutrapport och förslag till fortsatt arbete med Invånardialog
 samt upphörande av arbetsordning för Kommunala
@@ -1017,9 +1017,9 @@ Kommunstyrelsen får i uppdrag att under 2012 inarbeta projektet Invånardialog 
 Kungsbacka kommuns styrmodell.
 
 Arbetsordning för Kommunala handikapprådet — KHR — i Kungsbacka, antagen av
-KF \$ 146/2001, upphör härmed att gälla.
+KF § 146/2001, upphör härmed att gälla.
 
-Arbetsordning för Pensionärsrådet i Kungsbacka, antagen av KF \$ 10/1989, upphör
+Arbetsordning för Pensionärsrådet i Kungsbacka, antagen av KF § 10/1989, upphör
 härmed att gälla.
 
 Nämnden för Aldreomsorg och nämnden för Funktionsstöd får i uppdrag att, minst
@@ -1042,7 +1042,7 @@ Slutrapport Invånardialog i Kungsbacka, daterad juni 2012, godkänns och
 
 Sammanfattning
 
-Kommunstyrelsen beslutade 2010-12-14, \$ 269, att Kommunala Handikapprådet och
+Kommunstyrelsen beslutade 2010-12-14, § 269, att Kommunala Handikapprådet och
 Kommunala pensionärsrådet skulle ersättas med pilotprojektet Medborgardialog,
 (senare ersatt med Invånardialog). Förslag till nytt arbetssätt/organisation skulle
 återrapporteras senast juni 2012.
@@ -1068,7 +1068,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 25 (54)
 Sammanträdesdatum
 2012-08-14
-\$ 168 KS10-00215/00
+§ 168 KS10-00215/00
 
 Projektet har, som övergripande syfte, fokuserat på att skapa ökad transparens och
 engagemang för de gemensamma frågorna i kommunen bland invånarna och på att
@@ -1092,9 +1092,9 @@ Beslutsunderlag
 Skrivelse från styrgruppsledaren för projektet 2012-06-07, med slutrapport och
 handbok för invånardialog.
 
-Kommunstyrelsens arbetsutskott 2012-06-12, \$ 223
+Kommunstyrelsens arbetsutskott 2012-06-12, § 223
 
-Kommunstyrelsen 2012-06-19, \$ 149
+Kommunstyrelsen 2012-06-19, § 149
 
 Anförande
 
@@ -1133,7 +1133,7 @@ Sammanträdesdatum
 
 2012-08-14
 
-\$ 168 KS10-002157/00
+§ 168 KS10-002157/00
 
 Slutrapport och förslag till fortsatt arbete med Invånardialog
 samt upphörande av arbetsordning för Kommunala
@@ -1148,9 +1148,9 @@ Kommunstyrelsen får i uppdrag att under 2012 inarbeta projektet Invånardialog 
 Kungsbacka kommuns styrmodell.
 
 Arbetsordning för Kommunala handikapprådet — KHR — i Kungsbacka, antagen av
-KF \$ 146/2001, upphör härmed att gälla.
+KF § 146/2001, upphör härmed att gälla.
 
-Arbetsordning för Pensionärsrådet i Kungsbacka, antagen av KF \$ 10/1989, upphör
+Arbetsordning för Pensionärsrådet i Kungsbacka, antagen av KF § 10/1989, upphör
 härmed att gälla.
 
 Nämnden för Aldreomsorg och nämnden för Funktionsstöd får i uppdrag att, minst
@@ -1173,7 +1173,7 @@ Slutrapport Invånardialog i Kungsbacka, daterad juni 2012, godkänns och
 
 Sammanfattning
 
-Kommunstyrelsen beslutade 2010-12-14, \$ 269, att Kommunala Handikapprådet och
+Kommunstyrelsen beslutade 2010-12-14, § 269, att Kommunala Handikapprådet och
 Kommunala pensionärsrådet skulle ersättas med pilotprojektet Medborgardialog,
 (senare ersatt med Invånardialog). Förslag till nytt arbetssätt/organisation skulle
 återrapporteras senast juni 2012.
@@ -1199,7 +1199,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 25 (54)
 Sammanträdesdatum
 2012-08-14
-\$ 168 KS10-00215/00
+§ 168 KS10-00215/00
 
 Projektet har, som övergripande syfte, fokuserat på att skapa ökad transparens och
 engagemang för de gemensamma frågorna i kommunen bland invånarna och på att
@@ -1223,9 +1223,9 @@ Beslutsunderlag
 Skrivelse från styrgruppsledaren för projektet 2012-06-07, med slutrapport och
 handbok för invånardialog.
 
-Kommunstyrelsens arbetsutskott 2012-06-12, \$ 223
+Kommunstyrelsens arbetsutskott 2012-06-12, § 223
 
-Kommunstyrelsen 2012-06-19, \$ 149
+Kommunstyrelsen 2012-06-19, § 149
 
 Anförande
 
@@ -1264,7 +1264,7 @@ Sammanträdesdatum
 
 2012-08-14
 
-\$ 168 KS10-002157/00
+§ 168 KS10-002157/00
 
 Slutrapport och förslag till fortsatt arbete med Invånardialog
 samt upphörande av arbetsordning för Kommunala
@@ -1279,9 +1279,9 @@ Kommunstyrelsen får i uppdrag att under 2012 inarbeta projektet Invånardialog 
 Kungsbacka kommuns styrmodell.
 
 Arbetsordning för Kommunala handikapprådet — KHR — i Kungsbacka, antagen av
-KF \$ 146/2001, upphör härmed att gälla.
+KF § 146/2001, upphör härmed att gälla.
 
-Arbetsordning för Pensionärsrådet i Kungsbacka, antagen av KF \$ 10/1989, upphör
+Arbetsordning för Pensionärsrådet i Kungsbacka, antagen av KF § 10/1989, upphör
 härmed att gälla.
 
 Nämnden för Aldreomsorg och nämnden för Funktionsstöd får i uppdrag att, minst
@@ -1304,7 +1304,7 @@ Slutrapport Invånardialog i Kungsbacka, daterad juni 2012, godkänns och
 
 Sammanfattning
 
-Kommunstyrelsen beslutade 2010-12-14, \$ 269, att Kommunala Handikapprådet och
+Kommunstyrelsen beslutade 2010-12-14, § 269, att Kommunala Handikapprådet och
 Kommunala pensionärsrådet skulle ersättas med pilotprojektet Medborgardialog,
 (senare ersatt med Invånardialog). Förslag till nytt arbetssätt/organisation skulle
 återrapporteras senast juni 2012.
@@ -1330,7 +1330,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 25 (54)
 Sammanträdesdatum
 2012-08-14
-\$ 168 KS10-00215/00
+§ 168 KS10-00215/00
 
 Projektet har, som övergripande syfte, fokuserat på att skapa ökad transparens och
 engagemang för de gemensamma frågorna i kommunen bland invånarna och på att
@@ -1354,9 +1354,9 @@ Beslutsunderlag
 Skrivelse från styrgruppsledaren för projektet 2012-06-07, med slutrapport och
 handbok för invånardialog.
 
-Kommunstyrelsens arbetsutskott 2012-06-12, \$ 223
+Kommunstyrelsens arbetsutskott 2012-06-12, § 223
 
-Kommunstyrelsen 2012-06-19, \$ 149
+Kommunstyrelsen 2012-06-19, § 149
 
 Anförande
 

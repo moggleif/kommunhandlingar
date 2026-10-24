@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1abb884718c8ab9a9f73e7b8/1705474508
 sha256: 9e2d45b2086c80a1c8fbcdc143dd95f235a952a247f40bcbcd3e0244d0b676b6
 bytes: 163597772
 sidor: 589
-hamtad: 2026-10-15T07:07:49+00:00
-konverterad: 2026-10-15T07:17:35+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T07:27:22+00:00
+konverterad: 2026-10-24T07:34:28+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
@@ -3854,7 +3854,7 @@ Kommunstyrelsen Datum
 
 2021-02-23
 
-\$ 49 Dnr 2020-00720
+§ 49 Dnr 2020-00720
 
 Godkännande av arrendeavtal för padeltennisbana på fastigheten Fors
 1:3 i
@@ -3896,7 +3896,7 @@ Forsgårdens golfklubb. Denna överenskommelse är bifogad till arrendeavtalet.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2021-02-09, \$ 78
+Kommunstyrelsens arbetsutskott 2021-02-09, § 78
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2021-02-02
 
@@ -5920,7 +5920,7 @@ Kommunen har tagit fram förslag till Detaljplan. Förslaget har varit utställt
 mellan 2021-08-24 och 2021-09-30. Granskning genomfördes mellan 2022-11-29 och
 2022-12-20.
 
-Ett Principavtal (KS 2021-01-19, \$12), Principavtalet, har tecknats mellan
+Ett Principavtal (KS 2021-01-19, §12), Principavtalet, har tecknats mellan
 Kommunen och Exploatören. Principavtalet föreskriver att ett Exploateringsavtal,
 Avtalet, ska upprättas innan Detaljplanen kan antas av Byggnadsnämnden.
 
@@ -6633,7 +6633,7 @@ detaljplan för del av västra Varla verksamhetsområde, Detaljplanen.
 mellan 2021-08-24 och 2021-09-30. Granskning genomfördes mellan 2022-11-29 och
 2022-12-20.
 
-1.3 — EttPrincipavtal (KS 2021-01-19, \$12), Principavtalet, har tecknats mellan
+1.3 — EttPrincipavtal (KS 2021-01-19, §12), Principavtalet, har tecknats mellan
 Kommunen och Exploatören. Principavtalet föreskriver att ett Exploateringsavtal,
 Avtalet, ska upprättas innan Detaljplanen kan antas av Byggnadsnämnden.
 
@@ -9366,7 +9366,7 @@ rr NK
 
 Beslut
 
-Länsstyrelsen i Hallands län beslutar med stöd av 7 kap. 4 \$ miljöbalken (MB) att
+Länsstyrelsen i Hallands län beslutar med stöd av 7 kap. 4 § miljöbalken (MB) att
 förklara det område som avgränsas av blå heldragen linje på ovanstående karta som
 naturreservat, med syfte, skäl och föreskrifter enligt nedan.
 
@@ -9448,7 +9448,7 @@ träd med höga bevarandevärden.
 
 Föreskrifter
 
-A. Med stöd av 7 kap. 5 \$ MB, om inskränkningar i rätten att använda mark- och
+A. Med stöd av 7 kap. 5 § MB, om inskränkningar i rätten att använda mark- och
 vattenområden inom reservat, är det utöver vad som annars gäller förbjudet att inom
 området:
 
@@ -9464,7 +9464,7 @@ dika, dimma, dikesrensa eller utföra annan åtgärd som kan påverka områdets
 
 hydrologi. Med Länsstyrelsen tillstånd är det dock tillåtet att underhålla dike
 
-enligt bestämmelserna i 11 kap. 17 \$ miljöbalken under förutsättning att diket är
+enligt bestämmelserna i 11 kap. 17 § miljöbalken under förutsättning att diket är
 
 lagligt anlagt,
 
@@ -9577,7 +9577,7 @@ LÄNSSTYRELSEN Förslag till beslut 6 (12)
 
 2023-10-13 511-2413-16
 
-B. För att tillgodose syftet med reservatet förpliktigas med stöd av 7 kap. 6 \$ MB ägare
+B. För att tillgodose syftet med reservatet förpliktigas med stöd av 7 kap. 6 § MB ägare
 och innehavare av särskild rätt till fastigheten att tåla åtgärder inom området enligt
 
 följande:
@@ -9608,7 +9608,7 @@ långsiktig överlevnad i länet samt
 undersökningar och dokumentation av friluftsliv, mark, vatten samt växt-,
 svamp- och djurliv.
 
-C. Med stöd av 7 kap. 30 \$ MB, om rätten att färdas och vistas i reservat är det
+C. Med stöd av 7 kap. 30 § MB, om rätten att färdas och vistas i reservat är det
 utöver vad som annars gäller förbjudet att:
 
 I.
@@ -9670,7 +9670,7 @@ C-föreskrifterna gäller för allmänheten. Föreskrifterna riktar sig även ti
 och andra med särskild rätt till fastigheten då dessa utövar aktivitet som inte är knutet
 till dessa rättigheter.
 
-Länsstyrelsen vill upplysa om att föreskrifterna enligt 7 kap. 30 \$ miljöbalken (C-
+Länsstyrelsen vill upplysa om att föreskrifterna enligt 7 kap. 30 § miljöbalken (C-
 föreskrifterna) träder i kraft tre veckor efter beslutet publiceras oavsett om beslutet
 överklagas.
 
@@ -9691,7 +9691,7 @@ Länsstyrelsen erinrar även om att andra lagar, förordningar och föreskrifter
 reservatsföreskrifterna gäller för området. Av särskild betydelse för syftet med
 reservatet, eller som ett komplement till föreskrifterna är bland andra:
 
-16 \$ lag (2007:1150) om tillsyn över hundar och katter
+16 § lag (2007:1150) om tillsyn över hundar och katter
 
 <!-- sida 239 -->
 
@@ -9704,7 +9704,7 @@ hindras från att springa lösa i marker där det finns vilt. Under den övriga 
 skall hundar hållas under sådan tillsyn att de hindras från att driva eller förfölja vilt,
 när de inte används vid jakt.
 
-2 kap. 1, 6-8 \$\$ kulturmiljölagen (1988:950), fornlämningar
+2 kap. 1, 6-8 §§ kulturmiljölagen (1988:950), fornlämningar
 
 De fornlämningar som återfinns inom reservatet är skyddade enligt lag. Det är
 förbjudet att utan tillstånd rubba, ta bort, gräva ut, täcka över eller genom
@@ -9719,14 +9719,14 @@ allmänhetens friluftsliv samt att bevara goda livsvillkor på land och i vatten
 och växtlivet. Åtgärder som kan skada eller motverka syftet med strandskyddet är
 förbjudna.
 
-4-9 \$\$ artskyddsförordningen (2007:845), fridlysta arter
+4-9 §§ artskyddsförordningen (2007:845), fridlysta arter
 
 Många arter är fridlysta. Det innebär att djuren och växterna inte får skadas eller
 störas, och i många fall även att fortplantningsområden och viloplatser är skyddade.
 Alla fåglar, groddjur, kräldjur, fladdermöss samt orkidéer är fridlysta, och dessutom
 ett urval av andra organismer.
 
-12 kap. 6\$ miljöbalken
+12 kap. 6§ miljöbalken
 
 För verksamheter och åtgärder som kan ändra naturmiljön väsentligt krävs samråd
 med Länsstyrelsen, i de fall verksamheten eller åtgärden inte omfattas av
@@ -9883,7 +9883,7 @@ och ”Hav i balans och levande kust och skärgård”.
 Beslutets förenlighet med riksintressen, planer och områdesbestämmelser
 
 Särö Nordanskog är angivet som riksintresse för naturvård, friluftsliv och kultur-
-miljövård (MB 3 kap.6 \$), samt rörligt friluftsliv (MB 4 kap. 2\$). Reservatsbeslutet
+miljövård (MB 3 kap.6 §), samt rörligt friluftsliv (MB 4 kap. 2§). Reservatsbeslutet
 är förenligt med hushållningsbestämmelserna i 3 och 4 kap. MB.
 
 Reservatsområdet ingår i den kommunala byggnadsplanen för Särön (S88, 1983) där
@@ -9902,7 +9902,7 @@ lämplig användning av mark- och vattenresurser samt med den för området gäl
 
 Intresseprövning
 
-Länsstyrelsen anser, vid en intresseprövning enligt 7 kap. 25 \$ miljöbalken, att
+Länsstyrelsen anser, vid en intresseprövning enligt 7 kap. 25 § miljöbalken, att
 avgränsningen av området, reservatets omfång och föreskrifternas utformning i detta
 beslut innebär en rimlig balans mellan de värden som skall skyddas och det intrång
 detta innebär för enskilds rätt att använda mark och vatten.
@@ -13592,7 +13592,7 @@ Justerare
 
 Stadshuset 2023-09-1
 
-\$ 28-34
+§ 28-34
 
 <!-- sida 337 -->
 
@@ -13602,7 +13602,7 @@ Sammanträdesdatum
 
 Styrelsesammanträde 2023-09-06
 
-\$29
+§29
 Stadgeändring
 
 Beslut
@@ -13610,7 +13610,7 @@ Beslut
 Förslag på ändring av stiftelsens stadgar skickas till kommunfullmäktige för godkännande.
 
 Sammanfattning
-Tjolöholms stadgar behöver ändras då de uppenbart inte kan följas. Ändringen gäller \$3, sista stycket, som
+Tjolöholms stadgar behöver ändras då de uppenbart inte kan följas. Ändringen gäller §3, sista stycket, som
 
 lyder:
 
@@ -13717,23 +13717,23 @@ uniForm KUB301 v 1.0, 2005-11-25
 
 Stadgar för Stiftelsen Tjolöholm
 
-Godkända av kommunfullmäktige i Kungsbacka 1996-10-10, KF \$ 187/96 samt
+Godkända av kommunfullmäktige i Kungsbacka 1996-10-10, KF § 187/96 samt
 permutation genom Kammarkollegiets beslut 1997-12-22, dnr 430-6320-97 med
 omprövningsbeslut 1998-02-03, dnr 438-454-98 (lagakraftvunna genom regeringens
 beslut 1998-09-03, Ku98/216/Ka).
 
 Beslut om ändring 2007-08-28. Ändring godkänd av kommunfullmäktige i
-Kungsbacka 2007-06-14, \$ 109 samt permutation genom Kammarkollegiets beslut
+Kungsbacka 2007-06-14, § 109 samt permutation genom Kammarkollegiets beslut
 2007-12-03, dnr 430-18971-07
 
-\$1
+§1
 
 Stiftelsen, vars benämning (firma) är Stiftelsen Tjolöholm, har till ändamål att äga
 och förvalta Tjolöholms egendom i Kungsbacka kommun och där utveckla för
 Västsverige värdefulla verksamheter inom kulturområdet och för turismen och
 friluftslivet.
 
-\$2
+§2
 
 Stiftelsens huvudman är Kungsbacka kommun.
 
@@ -13744,7 +13744,7 @@ Huvudman för stiftelsen skall tillskjuta för stiftelsens verksamhet erforderli
 
 Stiftelsekapitalet uppgår till 10,5 miljoner kronor, varav Kungsbacka kommun har
 tillskjutit 8,5 miljoner kronor och Västkuststiftelsen 2 miljoner kronor. Kapitalet
-skall användas för förvärv av egendom enligt \$ 1.
+skall användas för förvärv av egendom enligt § 1.
 
 1 (3)
 
@@ -13786,7 +13786,7 @@ Styrelsen ska ha lägst fem och högst nio ordinarie ledamöter med lägst fem o
 sju suppleanter.
 
 Styrelsen utses av kommunfullmäktige i Kungsbacka kommun för en tid av fyra år
-och mandattiden skall sammanfalla med den tid, som anges i 6 kap 12 \$
+och mandattiden skall sammanfalla med den tid, som anges i 6 kap 12 §
 kommunallagen. Kommunfullmäktige bestämmer i vilken ordning utsedda
 suppleanter inträder i tjänstgöring vid förfall för ordinarie ledamöter.
 
@@ -13808,7 +13808,7 @@ sammanträde.
 
 Kallelse till sammanträde skall utgå minst tio dagar före sammanträdet.
 
-\$8
+§8
 Stiftelsens firma tecknas, förutom av styrelsen, av den eller de personer inom eller
 utom styrelsen, som styrelsen därtill utser.
 
@@ -13926,7 +13926,7 @@ Göran/ Löfgren
 Kommunstyrelsens KommundErektör
 \> ordförande
 
-F\$ 14/9)
+F§ 14/9)
 
 <!-- sida 345 -->
 
@@ -18444,18 +18444,18 @@ parkeringsavgifter i Kungsbacka kommun;
 
 beslutade den 8 maj 2023.
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 \$ andra stycket 17 och 3 \$
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 § andra stycket 17 och 3 §
 första stycket trafikförordningen (1998:1276) följande.
 
 Föreskrifter om ändring i Kungsbacka kommuns lokala trafikföreskrifter 1384
 2019:00038 om parkeringsavgifter i Kungsbacka kommun beslutade den 1 april 2019
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 \$ andra stycket 17 och 3 \$
-första stycket trafikförordningen (1998:1276) att 6 \$ i kommunens lokala
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 § andra stycket 17 och 3 §
+första stycket trafikförordningen (1998:1276) att 6 § i kommunens lokala
 trafikföreskrifter 1384 2019:00038 om parkeringsavgifter i Kungsbacka kommun ska
 ha följande lydelse.
 
-6 \$ Taxa E. Avgiften är 8 kr per timme
+6 § Taxa E. Avgiften är 8 kr per timme
 
 Denna författning träder i kraft den 10 maj 2023.
 

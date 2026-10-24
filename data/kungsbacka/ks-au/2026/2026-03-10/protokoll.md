@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5deddcf719cc8cfc83675258/1773300595
 sha256: 398f8a4a50f96d1faaccda409665b407ad766d30889cce869c12368ea87b2ff3
 bytes: 2539776
 sidor: 13
-hamtad: 2026-10-16T06:07:38+00:00
-konverterad: 2026-10-16T06:08:20+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T10:25:32+00:00
+konverterad: 2026-10-24T10:26:06+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -69,46 +69,46 @@ Anders Johansson, biträdande kommundirektör
 
 Lovisa Eld, samhällsbyggnadschef
 
-Andrea Ericsson, samhällsplanerare, \$ 95
+Andrea Ericsson, samhällsplanerare, § 95
 
-Stina Wikström, planarkitekt, \$ 95
+Stina Wikström, planarkitekt, § 95
 
-Anders Lund, verksamhetschef samhällsbyggnadskontoret, \$ 95
-Jenny Sjöström, kommunpolis, \$ 96
+Anders Lund, verksamhetschef samhällsbyggnadskontoret, § 95
+Jenny Sjöström, kommunpolis, § 96
 
-Johanna Hennix, polischef, \$ 96
+Johanna Hennix, polischef, § 96
 
-Kristina Isaksson, ledningsstöd polisen, \$ 96
+Kristina Isaksson, ledningsstöd polisen, § 96
 
-Peter Carnebratt, områdeschef räddningstjänsten, \$ 96
-Karl Persson, förvaltningschef, \$ 96
+Peter Carnebratt, områdeschef räddningstjänsten, § 96
+Karl Persson, förvaltningschef, § 96
 
-Eleonore Abaji, samordnare BRÅ, \$ 96
+Eleonore Abaji, samordnare BRÅ, § 96
 
-Cecilia Ljungkvist Holm, utvecklingsledare, \$ 96
-Magnus Fogelblad, säkerhets- och beredskapschef, \$ 96
-Linnéa Rönnquist, utvecklingsledare, \$ 97
+Cecilia Ljungkvist Holm, utvecklingsledare, § 96
+Magnus Fogelblad, säkerhets- och beredskapschef, § 96
+Linnéa Rönnquist, utvecklingsledare, § 97
 
-Anna-Karin Ljungman, planarkitekt, \$ 97
+Anna-Karin Ljungman, planarkitekt, § 97
 
 Kungsbacka
 
-Johan Gerremo, verksamhetschef samhällsbyggnadskontoret, \$\$ 97-98
+Johan Gerremo, verksamhetschef samhällsbyggnadskontoret, §§ 97-98
 
-Ida Lennartsson, verksamhetschef samhällsbyggnadskontoret, \$ 98
-Elinor Filipsson, näringslivschef, \$ 98
+Ida Lennartsson, verksamhetschef samhällsbyggnadskontoret, § 98
+Elinor Filipsson, näringslivschef, § 98
 
-Simon Vedlund, näringslivsutv. \$ 98
+Simon Vedlund, näringslivsutv. § 98
 
-Johanna Vinterhav, planarkitekt, \$ 98
+Johanna Vinterhav, planarkitekt, § 98
 
-Fortesa Bytyqi, exploateringsingenjör, \$ 98
+Fortesa Bytyqi, exploateringsingenjör, § 98
 
-Annika Jardin, kommunikationschef, \$ 98
+Annika Jardin, kommunikationschef, § 98
 
 Digital justering
 
-Therese Tanner Paragrafer \$\$ 92-99
+Therese Tanner Paragrafer §§ 92-99
 
 Lisa Andersson
 
@@ -121,34 +121,34 @@ Kommunstyrelsens arbetsutskott Datum
 2026-03-10
 
 Innehåll
-\$92 Dnr KS-2025-00126
+§92 Dnr KS-2025-00126
 
 Försäljning av laddningsstationer inom nämnden för Tekniks verksamhet. 3
-\$93 Dnr KS-2024-00673
+§93 Dnr KS-2024-00673
 
-Avsiktsförklaring avseende del av kv Samaritenh..............sssssorsrerssssrerssrrres 5
-\$ 94 Dnr KS-2025-00604
+Avsiktsförklaring avseende del av kv Samaritenh .... 5
+§ 94 Dnr KS-2025-00604
 
 Svar på motion från Carita Boulwén (SD) m.fl. om inrättande av
 
-”Jourhavande förälder”, ett alternativ till familjehemsplacering................. 6
-\$95 Dnr KS-2026-00185
+”Jourhavande förälder”, ett alternativ till familjehemsplacering .... 6
+§95 Dnr KS-2026-00185
 
-Information om ny Onsalaväg och påverkan på bebyggelseutveckling....... 7
-\$96 Dnr KS-2026-00057
+Information om ny Onsalaväg och påverkan på bebyggelseutveckling .... 7
+§96 Dnr KS-2026-00057
 
-Samverkansmöte brottsförebyggande arbete, BRÅ .......ssssssssssrsrsrsrsesererenen 8
-\$97 Dnr KS-2024-00698
+Samverkansmöte brottsförebyggande arbete, BRÅ .... 8
+§97 Dnr KS-2024-00698
 
-Avstämning utbyggnadsplan för Kungsbacka ...............sssserssrseresrssssrsrrrrnnen 9
-\$98 Dnr KS-2020-00131
+Avstämning utbyggnadsplan för Kungsbacka .... 9
+§98 Dnr KS-2020-00131
 
 Avstämning detaljplan för verksamheter inom del av Frillesås-Rya 3:77,
 
 58.8 054 10
-\$99 Dnr KS-2025-00975
+§99 Dnr KS-2025-00975
 
-Information ledamöter och förvaltNiNg ........ssssssesererrrrrrrrsrsrsrnrrrrrsrrrrrnnrr rea 11
+Information ledamöter och förvaltNiNg .... 11
 
 2 (11)
 
@@ -163,7 +163,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 3 (11)
 
 Kommunstyrelsens arbetsutskott Datum
 2026-03-10
-\$ 92 Dnr KS-2025-00126
+§ 92 Dnr KS-2025-00126
 Försäljning av laddningsstationer inom nämnden för Tekniks
 verksamhet
 
@@ -203,7 +203,7 @@ andra hand bör finnas en möjlighet att i avveckla laddningsstationer.
 Beslutsunderlag
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2026-02-24
-Nämnden för Teknik 2025-01-22, \$ 5
+Nämnden för Teknik 2025-01-22, § 5
 
 Förvaltningen för Tekniks tjänsteskrivelse, 2024-12-20
 Publik laddinfrastruktur i Kungsbacka kommun, 2024-12-20
@@ -237,7 +237,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 5 (11)
 Kommunstyrelsens arbetsutskott Datum
 2026-03-10
 
-\$ 93 Dnr KS-2024-00673
+§ 93 Dnr KS-2024-00673
 Avsiktsförklaring avseende del av kv Samariten
 
 Förslag till beslut i kommunstyrelsen
@@ -295,7 +295,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (11)
 Kommunstyrelsens arbetsutskott Datum
 2026-03-10
 
-\$ 94 Dnr KS-2025-00604
+§ 94 Dnr KS-2025-00604
 
 Svar på motion från Carita Boulwén (SD) m.fl. om inrättande av
 ”Jourhavande förälder”, ett alternativ till familjehemsplacering
@@ -328,12 +328,12 @@ Beslutsunderlag
 
 Kommunstyrelsens förvaltnings tjänsteskrivelse, 2025-02-02
 
-Nämnden för Individ & Familjeomsorg, 2025-12-10 \$ 164
+Nämnden för Individ & Familjeomsorg, 2025-12-10 § 164
 
 Förvaltningen för Individ & Familjeomsorg tjänsteskrivelse, 2025-11-26
-Kommunstyrelsens arbetsutskott 2025-09-30 \$ 274
+Kommunstyrelsens arbetsutskott 2025-09-30 § 274
 
-Kommunfullmäktige 2025-09-09 \$ 183
+Kommunfullmäktige 2025-09-09 § 183
 
 Motion från Carita Boulwén (SD) m.fl. om inrättande av ”Jourhavande förälder”, ett
 alternativ till familjehemsplacering, 2025-09-01
@@ -360,7 +360,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 7 (11)
 Kommunstyrelsens arbetsutskott Datum
 2026-03-10
 
-\$95 Dnr KS-2026-00185
+§95 Dnr KS-2026-00185
 Information om ny Onsalaväg och påverkan på bebyggelseutveckling
 
 Beslut
@@ -389,7 +389,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 8 (11)
 Kommunstyrelsens arbetsutskott Datum
 2026-03-10
 
-\$ 96 Dnr KS-2026-00057
+§ 96 Dnr KS-2026-00057
 Samverkansmöte brottsförebyggande arbete, BRÅ
 
 Beslut
@@ -420,7 +420,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (11)
 Kommunstyrelsens arbetsutskott Datum
 2026-03-10
 
-\$ 97 Dnr KS-2024-00698
+§ 97 Dnr KS-2024-00698
 Avstämning utbyggnadsplan för Kungsbacka
 
 Beslut
@@ -448,7 +448,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 10 (11)
 
 Kommunstyrelsens arbetsutskott Datum
 2026-03-10
-\$ 98 Dnr KS-2020-00131
+§ 98 Dnr KS-2020-00131
 Avstämning detaljplan för verksamheter inom del av Frillesås-Rya 3:77,
 m.fl.
 Beslut
@@ -478,7 +478,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 11 (11)
 Kommunstyrelsens arbetsutskott Datum
 2026-03-10
 
-\$ 99 Dnr KS-2025-00975
+§ 99 Dnr KS-2025-00975
 Information ledamöter och förvaltning
 
 Beslut

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.63e7dd7019bfe963d53589c4/1769704442
 sha256: 1fb2a59f0918300b5b8d0ad979e21af11b87c516acbf65ce715a8d233e9746ca
 bytes: 3357743
 sidor: 45
-hamtad: 2026-10-14T11:02:48+00:00
-konverterad: 2026-10-14T11:04:25+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T06:31:53+00:00
+konverterad: 2026-10-24T06:33:30+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -778,7 +778,7 @@ att kommunen säkrat långsiktig VA-försörjning
 Förslag till beslut i kommunfullmäktige
 
 Nämnden för Miljö & Hälsoskydd föreslår att kommunfullmäktige avslår motionen med hänvisning
-till \$ 6 Lagen om allmänna vattentjänster och fattade beslut av kommunfullmäktige om planerad
+till § 6 Lagen om allmänna vattentjänster och fattade beslut av kommunfullmäktige om planerad
 utbyggnad av kommunalt vatten och avlopp samt framförda synpunkter.
 
 Sammanfattning av ärendet
@@ -800,8 +800,8 @@ tillåta att lokala VA-lösningar används fram till dess att frågan utretts.
 Beslutsunderlag
 
 Bygg- och miljöförvaltningens tjänsteskrivelse, 2026-01-21
-Protokollsutdrag Kommunstyrelsens arbetsutskott 2025-11-04 \$ 312
-Protokollsutdrag Kommunfullmäktige 2025-10-07 \$ 207
+Protokollsutdrag Kommunstyrelsens arbetsutskott 2025-11-04 § 312
+Protokollsutdrag Kommunfullmäktige 2025-10-07 § 207
 
 Motion från Christer Perfjell (KB) 2025-10-07
 
@@ -866,7 +866,7 @@ för de ca 40 områdena har gjorts.
 
 De mest betydelsefulla faktorerna för ordningsföljd är prioriteringspoäng för Behov och för
 Sambhällsutveckling. Prioriteringspoäng för Behov speglar i stor utsträckning det som Lagen om
-allmänna vattentjänster \$ 6 kräver för att VA-utbyggnad ska ske. Prioriteringspoäng för
+allmänna vattentjänster § 6 kräver för att VA-utbyggnad ska ske. Prioriteringspoäng för
 Samhällsutveckling speglar i vilka områden kommunen utifrån samhällsbyggnad bör prioritera VA-
 utbyggnad. Förutom dessa prioriteringspoäng har påverkansfaktorerna sociala faktorer, möjlighet till
 avtalsanslutning, kritiskt miljö- eller hälsoläge, angränsande nya detaljplaner, tekniska aspekter och
@@ -950,7 +950,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (1)
 Kommunstyrelsens arbetsutskott Datum
 2025-11-04
 
-\$ 312 Dnr KS-2025-00670
+§ 312 Dnr KS-2025-00670
 
 Remittering av motion från Christer Perfjell (KB) om att behålla lokala
 VA-lösningar till dess att kommunen säkrat långsiktig VA-försörjning
@@ -1007,7 +1007,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 101)
 Kommunfullmäktige Datum
 2025-10-07
 
-\$ 207 Dnr KS-2025-00670
+§ 207 Dnr KS-2025-00670
 
 Anmälan av motion från Christer Perfjell (KB) om att behålla lokala
 VA-lösningar till dess att kommunen säkrat långsiktig VA-försörjning
@@ -1454,7 +1454,7 @@ Yttrande från nämnden för Miljö & Hälsoskydd, daterat 2026-01-26
 
 Förslag till revidering av lokala ordningsföreskrifter jämte bilagor
 
-Protokollsutdrag från Nämnden för Teknik 2025-12-17, \$ 141, avseende begäran om yttrande
+Protokollsutdrag från Nämnden för Teknik 2025-12-17, § 141, avseende begäran om yttrande
 
 Beslutet skickas till
 Nämnden för Teknik, Kungsbacka kommun
@@ -1949,7 +1949,7 @@ Nämnden för Miljö & Hälsoskydd noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-Byggnadsnämnden beslutade 2026-01-22 \$ 7 att godkänna underlag till kommunbudget 2027, plan
+Byggnadsnämnden beslutade 2026-01-22 § 7 att godkänna underlag till kommunbudget 2027, plan
 2028-2029 med ändringar enligt nämnden för Miljö & Hälsoskydds yttrande.
 
 Enligt kommunens budgetprocess ska varje nämnd besluta om underlag till kommunbudget 2027, plan
@@ -1969,7 +1969,7 @@ helhetsansvar för den nämndbudget som omfattar den gemensamma bygg- och miljö
 Beslutsunderlag
 
 Bygg- och miljöförvaltningens tjänsteskrivelse, 2026-01-26
-Byggnadsnämnden, 2026-01-22 \$ 7
+Byggnadsnämnden, 2026-01-22 § 7
 
 Katarina Öryd Christina Nordberg
 Förvaltningschef Controller förvaltning
@@ -1992,7 +1992,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (2)
 Byggnadsnämnden Datum
 2026-01-22
 
-\$ 7 Dnr BN-2025-00259
+§ 7 Dnr BN-2025-00259
 Underlag till kommunbudget 2027, plan 2028-2029
 
 Beslut
@@ -2035,7 +2035,7 @@ Beslutsunderlag
 
 Bygg- och miljöförvaltningens tjänsteskrivelse, 2026-01-16
 
-Protokollsutdrag nämnden för Miljö & Hälsoskydd 2026-01-15 \$ 4
+Protokollsutdrag nämnden för Miljö & Hälsoskydd 2026-01-15 § 4
 
 Ändringsyrkande nämnden för Miljö & Hälsoskydd (M, KD, C, 1), 2026-01-14
 Yttrande inför byggnadsnämndens beslut om underlag till kommunbudget 2027, plan
@@ -2105,7 +2105,7 @@ Nämnden för Miljö & Hälsoskydd noterar informationen till protokollet.
 
 Sammanfattning av ärendet
 
-Byggnadsnämnden beslutade 2026-01-22 \$ 8 att godkänna investeringsplan för löpande investeringar
+Byggnadsnämnden beslutade 2026-01-22 § 8 att godkänna investeringsplan för löpande investeringar
 2027-2036.
 
 Enligt Kungsbacka kommuns styrmodell ska nämnder och styrelser varje år fatta beslut om en
@@ -2122,7 +2122,7 @@ miljöförvaltningen.
 Beslutsunderlag
 
 Bygg- och miljöförvaltningens tjänsteskrivelse, 2026-01-26
-Byggnadsnämnden 2026-01-22 \$ 8
+Byggnadsnämnden 2026-01-22 § 8
 
 Katarina Öryd Christina Nordberg
 Förvaltningschef Controller förvaltning
@@ -2143,7 +2143,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (1)
 Byggnadsnämnden Datum
 2026-01-22
 
-\$8 Dnr BN-2025-00260
+§8 Dnr BN-2025-00260
 Investeringsplan för 2027-2036
 
 Beslut
@@ -2166,7 +2166,7 @@ för samtliga avdelningar inom Bygg- och miljöförvaltningen.
 
 Beslutsunderlag
 
-Byggnadsnämndens arbetsutskott 2025-12-15 \$ 256
+Byggnadsnämndens arbetsutskott 2025-12-15 § 256
 Bygg- och miljöförvaltningens tjänsteskrivelse, 2025-12-02
 
 Beslutsgång

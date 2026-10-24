@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.33d6d97191e4f00c90c8a98/17266613739
 sha256: b445137a352d0c771dffff2bd603f93599a6ec0d3fee931d9595ec98414f2181
 bytes: 76037184
 sidor: 630
-hamtad: 2026-10-15T07:49:55+00:00
-konverterad: 2026-10-15T07:55:29+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T07:57:17+00:00
+konverterad: 2026-10-24T08:01:06+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, tom, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
@@ -9626,7 +9626,7 @@ a) Med Es betecknat område får användas endast för
 1 mom Med punktprickning betecknad mark får icke bebyggas.
 
 \| |
-3 \$ — SÄRSKILDA FÖRESKRIFTER ANGÅENDE OMRÅDEN FÖR LEDNINGAR
+3 § — SÄRSKILDA FÖRESKRIFTER ANGÅENDE OMRÅDEN FÖR LEDNINGAR
 1 mom På med u betecknad mark får. icke vidtos anordningar sem
 
 hindrar framdragande eller underhåll av underjordiska
@@ -9639,17 +9639,17 @@ LUK a RER
 
 oa RER Re ne
 
-4\$
+4§
 
 1 mom
 
 2 mom
 
-'5\$ |
+'5§ |
 
 t 1 mom
 
-6\$
+6§
 
 1 mon
 
@@ -9657,7 +9657,7 @@ t 1 mom
 
 CL
 
-7\$
+7§
 
 1 mom
 
@@ -9724,7 +9724,7 @@ antal, där terrängen så medgiver, källare inredas.
 
 <!-- sida 238 -->
 
-8 \$ — BYGGNADS HÖJD
+8 § — BYGGNADS HÖJD
 
 I mom På med I eller I k betecknat område får byggnad icke
 uppföras till större höjd än respektive 3,5 och 6,0 m.
@@ -9736,7 +9736,7 @@ uppföras till högst den höjd i meter som siffron anger.
 .
 tg
 
-9 \$ ANTAL LÄGENHETER
+9 § ANTAL LÄGENHETER
 
 1 mom | På med 3 eller F betecknat område får huvudbyggnad
 
@@ -9745,7 +9745,7 @@ byggnad får bostad icke inredas.
 
 \-
 
-10 \$  UTFARTSFÖRBUD
+10 §  UTFARTSFÖRBUD
 
 1 mom Utfart må icke anordnas över områdesgräns som jämväl
 betecknats med ofyllda cirklar.
@@ -9761,7 +9761,7 @@ Henrik Folkenberg
 Arkitekt SAR
 
 Tillhör kommunfullmäktiges i Kungsbacka
-beslut den 11.10. 1 enligt \$ 165 och
+beslut den 11.10. 1 enligt § 165 och
 
 samyanläggningsd
 11\.
@@ -14340,7 +14340,7 @@ fågelskyddsområden, 1 februari - 31 juli för fågelskyddsom-
 råden där särskilda skäl motiverar utökad tid och 15 maj -
 10 juli för sälskyddsområden.
 
-Med stöd av 10 och 14 \$\$ naturvårdslagen beslutar länsstyrel-
+Med stöd av 10 och 14 §§ naturvårdslagen beslutar länsstyrel-
 gen att tiden för tillträdesförbudet till skydd för fågel-
 livet ändras till den 1 april —- 15 juli för följande områden:
 

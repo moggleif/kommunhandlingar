@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.515f200f1a0adad2ac422f5/17896266011
 sha256: 0c352865240ea4188a3c3c8d31937e8fb11fb643cc929dc92e69ab4b20cc8a5a
 bytes: 26102022
 sidor: 328
-hamtad: 2026-10-15T10:51:59+00:00
-konverterad: 2026-10-15T10:54:13+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T10:08:33+00:00
+konverterad: 2026-10-24T10:10:08+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1898,7 +1898,7 @@ Meddelande om ändrade föreskrifter
 
 e Länsstyrelsen Västra Götalands län godtar inte Stiftelsen
 Tjolöholms ändring av stiftelsens föreskrifter på så sätt att
-det läggs till en ny 3 \$ med följande lydelse:
+det läggs till en ny 3 § med följande lydelse:
 
 ”Kommunfullmäktige i Kungsbacka kommun ska ta
 ställning till beslut i verksamheten som är av principiell
@@ -1911,7 +1911,7 @@ konsekvensnumreras.
 e Länsstyrelsen godtar följande ändringar av Stiftelsen
 Tjolöholms stadgar:
 
-3 \$ första meningen ändras på nedan vis:
+3 § första meningen ändras på nedan vis:
 
 Tidigare lydelse:
 
@@ -1923,7 +1923,7 @@ Ny lydelse:
 ”Huvudman för stiftelsen skall tillskjuta årligt bidrag för
 stiftelsens verksamhet.”
 
-9 \$ ändras på nedan vis:
+9 § ändras på nedan vis:
 
 Tidigare lydelse:
 
@@ -2014,7 +2014,7 @@ revisionsberättelse till Länsstyrelsen senast den 30 juni.
 Ansvarsfrihet för styrelsens förvaltning prövas av
 huvudmannen.”
 
-11 \$ ändras på nedan vis:
+11 § ändras på nedan vis:
 
 Tidigare lydelse:
 
@@ -2054,7 +2054,7 @@ Stiftelsen Tjolöholm (Stiftelsen) bildades 1991. I stadgarna finns ett
 avseende stiftelsens ändamål, om huvudmannen godkänner (12 8 i
 Stiftelsens stadgar).
 
-En underrättelse om tillstånd att få lägga till 3 \$ i föreskrifterna för
+En underrättelse om tillstånd att få lägga till 3 § i föreskrifterna för
 Stiftelsen och konsekvensnumrera stadgarna samt att ändra det som
 tidigare var 3, 9, 10, 1188 har kommit in till Länsstyrelsen.
 
@@ -2071,11 +2071,11 @@ stiftelselagen trädde i kraft) och bedöms ha ett giltigt
 Det är följaktligen möjligt för Stiftelsen att ändra, upphäva eller i
 särskilt fall åsidosätta en föreskrift som inte avser ändamålet. Det är
 däremot inte möjligt för Stiftelsen att göra ett tillägg till
-föreskrifterna. Tillägget av en ny 3 \$, med efterföljande
+föreskrifterna. Tillägget av en ny 3 §, med efterföljande
 konsekvensnumrering av övriga paragrafer, kan därför inte godtas.
 
 Länsstyrelsen bedömer att de beslutade ändringarna i övrigt av 3, 9,
-10, 11 \$\$ kan godtas.
+10, 11 §§ kan godtas.
 
 Bestämmelser som beslutet grundas på
 
@@ -2107,7 +2107,7 @@ Stiftelselagen (1994:1220)
 
 1\. när en föreskrift i stiftelseförordnandet har ändrats eller
 upphävts enligt bestämmelserna i 6 kap. eller med stöd av en
-sådan bestämmelse som avses i 10 \$ lagen (1994:1221) om
+sådan bestämmelse som avses i 10 § lagen (1994:1221) om
 införande av stiftelselagen (1994:1220),
 
 [...] (10 kap. 3 8).
@@ -3923,7 +3923,7 @@ KUNGSBACKA KOMMUN
 Kommunstyrelsen SAMMANTRÄDESPROTOKOLL 11 (37)
 Datum
 2014-03-18
-\$ 47 KS/2011:197
+§ 47 KS/2011:197
 
 Planbesked Ölmanäs 6:80, Åsa
 
@@ -3944,10 +3944,10 @@ Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2014-02-12
 
-Kommunstyrelsens arbetsutskott, 2014-02-25, \$ 56; ärendet bordläggs till nästa
+Kommunstyrelsens arbetsutskott, 2014-02-25, § 56; ärendet bordläggs till nästa
 sammanträde
 
-Kommunstyrelsens arbetsutskott, 2013-03-04, \$ 70
+Kommunstyrelsens arbetsutskott, 2013-03-04, § 70
 
 Proposition
 
@@ -8421,7 +8421,7 @@ Avgift för nukleär icke-spridning: kärnämneskontroll
 
 Förslag på justerad avgiftsnivå
 
-SSM föreslår att avgifterna enligt 13 \$ höjs med 14 procent inför 2027 och ytterligare en
+SSM föreslår att avgifterna enligt 13 § höjs med 14 procent inför 2027 och ytterligare en
 höjning med 14 procent inför 2028. Utöver det ser SSM behov av en mindre höjning med
 cirka 5 procent från och med 2029 så att myndigheten når en balans mellan intäkter och
 kostnader.
@@ -8429,7 +8429,7 @@ kostnader.
 ä
 
 SSM föreslår även att begreppet ”tillsyn som utövas” ersätts av ”verksamhet som bedrivs”
-i förordningstexten till 13 \$ första stycket. Förordningstexten är i nuläget begränsad till
+i förordningstexten till 13 § första stycket. Förordningstexten är i nuläget begränsad till
 tillsyn som utövas av SSM enligt de internationella överenskommelserna i syfte att
 förhindra spridning av kärnvapen. Bestämmelsen är meddelad med stöd av lagen (1984:3)
 om kärnteknisk verksamhet (kärntekniklagen). SSM utför uppgifter som inte är direkta
@@ -8438,7 +8438,7 @@ området nukleär icke-spridning enligt kärntekniklagen.
 
 Konsekvensanalys
 
-I avgiftskollektivet i 13 \$ ingår den som har tillstånd till kärnteknisk verksamhet. Det
+I avgiftskollektivet i 13 § ingår den som har tillstånd till kärnteknisk verksamhet. Det
 omfattar bland annat kärnkraftverk, bränslefabriken, mellanlagringsanläggningarna och
 övriga kärntekniska anläggningar. Den föreslagna avgiftshöjningen är förhållandevis liten
 i kronor för de enskilda tillståndshavarna. Förslaget på justerad avgiftsnivå beror i
@@ -8451,7 +8451,7 @@ kärnämnesinnehavare kommer därmed bli tydligare.
 
 Höjningen bedöms inte slå oproportionerligt hårt mot vissa aktörer eller påverka
 konkurrensen eftersom samtliga aktörerna på marknaden får samma avgiftsjustering.
-Enligt 13 \$ kommer nya aktörer enbart att omfattas av avgiften efter att man har fått sitt
+Enligt 13 § kommer nya aktörer enbart att omfattas av avgiften efter att man har fått sitt
 KTL-tillstånd beviljat.
 
 Den föreslagna höjningen av kärnämneskontrollavgifter innebär en 14 procent högre
@@ -8464,11 +8464,11 @@ avgift avgift 2027 anläggningar per ökning 2027 per kvartal
 Ringhals (138 3) 270 000 308 000 2 14240 76 000
 OKG (138 3) 270 000 308 000 il 14240 38 000
 FKA (138 3) 270 000 308 000 3 14240 114 000
-Clab (13\$ 4) 265 000 302 000 il 14240 37 000
+Clab (13§ 4) 265 000 302 000 il 14240 37 000
 WSE (138 1) 512 000 584 000 il 14240 72 000
 Studsvik (138 5 13 000 14 800 il 14240 1800
 och 138 6) 10 000 11 400 I 14240 1400
-Chalmers (13\$ 10 000 11 400 id 14240 1400
+Chalmers (13§ 10 000 11 400 id 14240 1400
 6\)
 SVAFO (138 5 13 000 14 800 1 14240 1800
 och 138 6) 10 000 11 400 1 14240 1400
@@ -8527,10 +8527,10 @@ Avgift för tillståndsprövning av ansökningar om tillstånd i 5 a 8
 
 Förslag på justerad avgiftsnivå
 
-SSM föreslår höjning med cirka 14 procent för 5 a \$ 4-22 från och med 2027. För 2028
-föreslås en avgiftsjustering på ytterligare 12 procent för 5 a \$ 1-22 och för 2029 samt 2030
+SSM föreslår höjning med cirka 14 procent för 5 a § 4-22 från och med 2027. För 2028
+föreslås en avgiftsjustering på ytterligare 12 procent för 5 a § 1-22 och för 2029 samt 2030
 ytterligare justering om 3 procent för respektive år. Myndigheten föreslår även en
-justering av inbördes avgiftsnivåer för tillståndspliktig laser i 5 a \$ 1-3.
+justering av inbördes avgiftsnivåer för tillståndspliktig laser i 5 a § 1-3.
 
 Konsekvensanalys
 
@@ -8568,7 +8568,7 @@ giltighetstid = giltighetstid + giltighetstid
 Sår- 5år- Sår-
 förnyelse förnyelse förnyelse
 2027 2028 2029
-Tandvård En 5a\$ 5 11b\$ 1500 kronor 3 000 kronor 3 500 kronor
+Tandvård En 5a§ 5 11b§ 1500 kronor 3 000 kronor 3 500 kronor
 röntgen- per 5 år eller = per 5 år eller = per 5 år eller
 utrustning i 300 kronor 600 kronor 700 kronor
 en per år under = perårunder = per år under
@@ -8588,7 +8588,7 @@ Anmälningspliktig verksamhet
 
 Förslag på justerad avgiftsnivå
 Myndigheten föreslår en justering med cirka 10 procent, det vill säga en avgift på 2 040
-kronor i 16 \$, 4 080 kronor i 17 \$ och 38 590 kronor i 18 \$.
+kronor i 16 §, 4 080 kronor i 17 § och 38 590 kronor i 18 §.
 
 Då myndigheten har tagit fram en ny föreskrift om anmälningsplikt för estetiska
 behandlingar som förväntas träda i kraft under 2026 behöver avgiftsförordningen
@@ -8608,14 +8608,14 @@ Dokumentnr: 26-806
 
 Konsekvensanalys
 
-Avgifterna för anmälningspliktig verksamhet i 16 \$, 17 \$ samt 18 \$ behöver justeras på
+Avgifterna för anmälningspliktig verksamhet i 16 §, 17 § samt 18 § behöver justeras på
 grund av ökade gemensamma kostnader på myndigheten i enlighet med tidigare justerad
 timtaxa?. Avgiften för anmälningsplikt ska täcka handläggning, tillsyn samt andra åtgärder
 kopplade till anmälningsplikt. Myndigheten har redan effektiviserat hanteringen av
 anmälningar genom att utveckla en webbaserad tjänst för snabb och effektiv elektronisk
 anmälan. Även om e-tjänsten fortsätter att utvecklas bedöms det inte.
 
-SSM har föreslagit att 16 \$ kompletteras med ny punkt 13, anmälningspliktig
+SSM har föreslagit att 16 § kompletteras med ny punkt 13, anmälningspliktig
 
 verksamhet med behandlingar med icke-joniserande strålning. SSM har bedömt att den
 ekonomiska konsekvensen för mindre verksamheter inom estetiska behandlingar skulle
@@ -8635,7 +8635,7 @@ många utövare önskar. Att en stor andel av verksamhetsutövarna utför sin an
 är viktigt och SSM har därför föreslaget ett ändrat ekonomiskt mål från full
 kostnadstäckning till upp till full kostnadstäckning.
 
-Föreslagen nivåhöjning med cirka 1020 till 2 040 kronor för 16 \$ är avvägd för att justera i
+Föreslagen nivåhöjning med cirka 1020 till 2 040 kronor för 16 § är avvägd för att justera i
 enlighet med de generella kostnadsökningarna utan att syftet motverkas med att införa ny
 punkt 13 med behandlingar med icke-joniserande strålning.
 
@@ -8647,7 +8647,7 @@ och stora aktörer samt olika geografiska områden inom samma bransch inte berä
 påverkas.
 
 Föreslagen höjning bedöms vara förhållandevis liten i kronor räknat för
-verksamhetsutövarna inom 16 \$ och bedöms inte innebära ökad risk för att
+verksamhetsutövarna inom 16 § och bedöms inte innebära ökad risk för att
 verksamhetsutövare inte anmäler.. För verksamheter med arbetsställen med högre nivå av
 radon har avgiften haft en positiv effekt, man har vidtagit åtgärder för att sänka
 radonhalten.
@@ -8749,8 +8749,8 @@ dock begränsas på olika sätt, bland annat genom att föreslå ett maximalt be
 tilläggsfakturering och i god tid informera tillståndshavaren om en eventuell kommande
 tilläggsfakturering.
 
-Ytterligare ett alternativ är att uppdatera 9 \$ med mer differentierat avgiftsuttag kopplat
-till de olika kategorierna av kärntekniska anläggningar som beskrivs i 3 \$. Genom att dela
+Ytterligare ett alternativ är att uppdatera 9 § med mer differentierat avgiftsuttag kopplat
+till de olika kategorierna av kärntekniska anläggningar som beskrivs i 3 §. Genom att dela
 upp avgiftsnivåerna kan anläggningar i kategori loch 3 (som tillverkning och
 mellanlagring av kärnbränsle) skiljas från verksamheter av annan karaktär. En sådan
 ändring kan motiveras både utifrån strålsäkerhetssynpunkt. En nackdel med ett sådant

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.347aca1d19d8aefb0402806b/1776325537
 sha256: 205ec8a15a387ce5f5df236598aabc1fe43d7048b215d0f0c2f20c3167d013a5
 bytes: 276822424
 sidor: 683
-hamtad: 2026-10-15T10:14:58+00:00
-konverterad: 2026-10-15T10:24:37+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T09:41:21+00:00
+konverterad: 2026-10-24T09:48:46+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tom, tom, tom, tom, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
@@ -907,7 +907,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (2)
 Kommunstyrelsen Datum
 2024-11-26
 
-\$ 262 Dnr KS-2024-00673
+§ 262 Dnr KS-2024-00673
 Avsiktsförklaring avseende del av kv Samariten
 
 Beslut
@@ -941,7 +941,7 @@ området, som möjliggör projektet, tas fram och får laga kraft.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2024-11-12, \$ 330
+Kommunstyrelsens arbetsutskott 2024-11-12, § 330
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2024-10-08
 
@@ -1721,7 +1721,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 12)
 Kommunstyrelsen Datum
 2024-04-23
 
-\$ 111 Dnr KS-2021-00907
+§ 111 Dnr KS-2021-00907
 
 Godkännande av förslag till markanvisningsavtal avseende del av
 Skårby 2:3 i Anneberg
@@ -1740,7 +1740,7 @@ nödvändiga handlingar.
 
 Kommunstyrelsen upphäver tidigare beslut om att förbereda försäljning av
 småhustomter inom fastigheten Skårby 2:3 via mäklare, som lämnades av
-kommunstyrelsen 2019-09-24, \$ 231.
+kommunstyrelsen 2019-09-24, § 231.
 
 Sammanfattning av ärendet
 
@@ -1785,12 +1785,12 @@ Kommunstyrelsen Datum
 2024-04-23
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2024-04-09, \$ 122
+Kommunstyrelsens arbetsutskott 2024-04-09, § 122
 Samhällsbyggnadskontorets tjänsteskrivelse, 2024-03-20
 Markanvisningsavtal, undertecknat av Eksta Bostads AB, 2024-03-24
 
-Kommunstyrelsen 2019-09-24, \$ 231
-Kommunstyrelsen 2019-05-28, \$ 133
+Kommunstyrelsen 2019-09-24, § 231
+Kommunstyrelsen 2019-05-28, § 133
 Översiktskarta
 
 Förslag till beslut på sammanträdet
@@ -2189,7 +2189,7 @@ BAKGRUND OCH FÖRUTSÄTTNINGAR
 Uppdrag, politiska beslut m.m.
 
 Kommunstyrelsen godkände planprogram för utveckling av Annebergs centrum
-2016-02-23 \$28 samt gav byggnadsnämnden i uppdrag att upprätta förslag till
+2016-02-23 §28 samt gav byggnadsnämnden i uppdrag att upprätta förslag till
 detaljplan för utbyggnad av Annebergs centrum, Detaljplanen, i enlighet med
 godkänt planprogram daterat juni 2015.
 
@@ -2884,7 +2884,7 @@ Kungsbacka kommun, Samhällsbyggnadskontoret, planavdelning, nedan kallad
 Planavdelningen.
 
 Detaljplaneprocessen utgår ifrån beslut i Byggnadsnämndens arbetsutskott
-2016-12-20 \$ 551.
+2016-12-20 § 551.
 
 Följande utförs av Planavdelningen i samråd med Beställaren
 
@@ -3190,7 +3190,7 @@ Kommunstyrelsen Datum
 
 2020-05-26
 
-\$ 116 Dnr 2017-00207
+§ 116 Dnr 2017-00207
 
 Markanvisning i Annebergs centrum för del av Alafors 2:16 och Alafors
 3:3
@@ -3225,7 +3225,7 @@ avseende del av Alafors 2:16 och Alafors 3:3.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2020-05-12, \$ 144
+Kommunstyrelsens arbetsutskott 2020-05-12, § 144
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2020-04-09
 
@@ -5962,7 +5962,7 @@ fastighetsbildningsbeslut enligt punkt 6 vunnit laga kraft.
 
 Ersättningen inbetalas på Kommunens bankgirokonto nummer 426-4610, märk
 inbetalningen med ansvar 9904 och Åsa 5:156. Om betalning sker därefter
-betalas ränta enligt 6 \$ räntelagen från sista betalningsdag tills betalning sker.
+betalas ränta enligt 6 § räntelagen från sista betalningsdag tills betalning sker.
 
 Lantmäteriförrättning
 

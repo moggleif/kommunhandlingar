@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.41c94aae19faa7ae4b6dc51f/1786107446
 sha256: f3d34ee2d64f792e5b48eca0cee01566b9240bd9426382dcc4ef0ad6af7a8e97
 bytes: 304446
 sidor: 4
-hamtad: 2026-10-14T10:56:34+00:00
-konverterad: 2026-10-14T10:56:46+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T06:26:06+00:00
+konverterad: 2026-10-24T06:26:19+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr]
@@ -107,7 +107,7 @@ Kommunfullmäktige ger nämnden för Miljö
 avgiftsbeloppen enligt Prisindex för
 kommunal verksamhet (PKV) publicerad av
 Sveriges kommuner och regioner (SKR), i
-enlighet med taxans bestämmelser 6 \$.
+enlighet med taxans bestämmelser 6 §.
 Utgångspunkten för indexjusteringen är
 oktober år 2026.
 
@@ -117,7 +117,7 @@ lagen om sprängämnesprekursorer, lagen om
 gaturenhållning och skyltning samt lagen
 om åtgärder mot förorening från fartyg
 antagen av kommunfullmäktige 2023-12-14
-\$ 195, upphör att gälla samtidigt som ny
+§ 195, upphör att gälla samtidigt som ny
 taxa träder i kraft.
 
 <!-- sida 3 -->
@@ -142,7 +142,7 @@ fotbolls-VM 2026.
 Föredragande: Georges Chayeb, Nämnden för Miljö & Hälsoskydd förklarar
 alkoholhandläggare - j .
 uppdraget som lämnades av nämnden för
-Miljö & Hälsoskydd, 2026-04-16, \$ 53, för
+Miljö & Hälsoskydd, 2026-04-16, § 53, för
 avslutat.
 Återrapportering av uppdrag att | MH-2026- = |Förslag till beslut 30
 redovisa en handlingsplan för = |02708 Nämnden för Miljö & min
@@ -152,7 +152,7 @@ Servicelyftet.
 mr Sand: osefin Nämnden för Miljö & Hälsoskydd förklarar
 ahlbäck, projektledare - m .
 uppdraget som lämnades av nämnden för
-Miljö & Hälsoskydd 2026-05-07 \$ 71, för
+Miljö & Hälsoskydd 2026-05-07 § 71, för
 avslutat.
 Anmälan av ordförandebeslut - | MH-2026- Förslag till beslut 2
 Ansökan om tillfällig ändring 1830 Nämnden för Miljö & Hälsoskydd min

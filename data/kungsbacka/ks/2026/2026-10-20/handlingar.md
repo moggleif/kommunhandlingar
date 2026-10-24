@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4ad251561a1303bcbb575398/1792151996
 sha256: ede5123a5476f407acb02963ccf65b0a5a711894fb1dada0f18ff25724218f85
 bytes: 149961031
 sidor: 845
-hamtad: 2026-10-18T06:09:27+00:00
-konverterad: 2026-10-18T06:16:32+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T10:10:08+00:00
+konverterad: 2026-10-24T10:17:39+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ocr, ocr, tom, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ocr, tom, tom, tom, tom, tom, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2347,7 +2347,7 @@ KS-2023-00737)
 
 Vi begär härmed att beslutet omprövas.
 
-Enligt 2 kap. 3 \$ kommunallagen ska kommunen behandla sina medlemmar lika,
+Enligt 2 kap. 3 § kommunallagen ska kommunen behandla sina medlemmar lika,
 om det inte finns sakliga skäl för något annat. I detta sammanhang vill vi
 uppmärksamma kommunen på att en annan förening i Kungsbacka kommun, i en
 jämförbar situation, tidigare beviljats betydande ekonomisk lättnad genom att 1
@@ -4884,7 +4884,7 @@ Uppdrag, politiska beslut m.m.
 
 Samhällsbyggnadskontoret har fått i uppdrag att upprätta förslag till ”Detaljplan för
 bostäder inom Må 3:15 i Fjärås”, Detaljplanen, genom beslut i Byggnadsnämndens
-arbetsutskott 2024-12-16 \$ 346.
+arbetsutskott 2024-12-16 § 346.
 
 Kommunen har tagit fram förslag till Detaljplan. Förslaget har varit utställt för samråd
 mellan 2026-03-03 och 2026-03-24. Granskning genomfördes mellan 2026-05-26 och
@@ -6647,7 +6647,7 @@ Perigeum avser att utveckla är markerat med röd linje. Gränsen mellan Skanska
 Perigeums respektive projektområden kan komma att förändras.
 
 Ett Principavtal har tecknats mellan Kommunen och Skanska, Principavtalet (KS
-2021-01-19, \$11). Principavtalet föreskriver att ett Exploateringsavtal, Avtalet, ska
+2021-01-19, §11). Principavtalet föreskriver att ett Exploateringsavtal, Avtalet, ska
 upprättas innan Detaljplanen kan antas av Byggnadsnämnden.
 
 Exploateringsområde
@@ -7908,7 +7908,7 @@ befullmäktigar härmed NN underteckna
 Plankostnadsavtal och Principavtal avseende detaljplan för bostäder inom fastigheterna
 Kungsbacka Nötegång 2:207 och 2:75 i Kungsbacka kommun.
 
-2020-10- 1\$
+2020-10- 1§
 
 Skanska Mark och Exploatering Nya Hem AB
 
@@ -7919,7 +7919,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (1)
 Kommunstyrelsen Datum
 2021-01-19
 
-\$ 11 Dnr 2020-00944
+§ 11 Dnr 2020-00944
 
 Godkännande av principavtal för detaljplan för bostäder inom
 fastigheten Nötegång 2:207 m.fl. i Särö
@@ -7959,7 +7959,7 @@ under detaljplaneprocessen
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2021-01-05, \$ 18
+Kommunstyrelsens arbetsutskott 2021-01-05, § 18
 Samhällsbyggnadskontorets tjänsteskrivelse, 2020-11-18
 Principavtal, undertecknat av Skanska Nya Hem AB 2020-11-28
 Karta över detaljplaneområdet och översiktskarta
@@ -8579,7 +8579,7 @@ Med vänlig hälsning
 Linda Hel le”
 Administratör
 Bilagor:
-BN 2018-01-11 \$ 7
+BN 2018-01-11 § 7
 Samhällsbyggnadskontoret Kungsbacka kommun
 Planavdelningen 434 81 Kungsbacka
 Linda Helgesson Besöksadress
@@ -8668,7 +8668,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 14 (70)
 Byggnadsnämnden Datum
 2018-01-11
 
-\$ 7, forts
+§ 7, forts
 
 Området som ansökan gäller ligger utanför detaljplanerat område men i anslutning
 till både planerad och oplanerad bostadsbebyggelse. Platsen ligger längs med
@@ -8729,7 +8729,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 15 (70)
 Byggnadsnämnden Datum
 2018-01-11
 
-\$ 7, forts
+§ 7, forts
 
 4\. En trafikutredning behöver tas fram och bekostas av den sökande i samband
 med planläggning. Denna ska belysa effekterna av en ökad trafikbelastning
@@ -8747,7 +8747,7 @@ liggande områden, vilket ska beaktas särskilt i en dagvattenutredning.
 
 Beslutsunderlag
 
-Byggnadsnämndens arbetsutskott 2017-12-20, \$ 491, Förslag: Byggnadsnämnden
+Byggnadsnämndens arbetsutskott 2017-12-20, § 491, Förslag: Byggnadsnämnden
 lämnar positivt planbesked. Uppdrar åt förvaltningen att upprätta förslag till
 detaljplan för Skörvalla 1:49, 1:50, I:51 och 1:61 och genomföra samråd och
 granskning. Syftet med detaljplanen är att pröva möjlig bostadsbebyggelse inom

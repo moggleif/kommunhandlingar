@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.69ba44111969f9e42704c14f/1746688230
 sha256: 253e5793805bac8278af1a01cb8337e50c2308b1e19cac4ebf170fa2307a5ca6
 bytes: 16741418
 sidor: 52
-hamtad: 2026-10-14T10:36:27+00:00
-konverterad: 2026-10-14T10:39:02+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T06:03:30+00:00
+konverterad: 2026-10-24T06:05:59+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -768,7 +768,7 @@ Detaljplan för blandad stadsbebyggelse inom sydöstra centrum etapp 1
 
 Genomförande
 
-Byggnadsnämnden beslöt den 2022-03-17 \$90 att genomföra samråd för detaljplaneförslaget.
+Byggnadsnämnden beslöt den 2022-03-17 §90 att genomföra samråd för detaljplaneförslaget.
 Detaljplaneförslaget har varit utställt för samråd i Stadshuset i Kungsbacka och på biblioteket Fyren i
 Kungsbacka under tiden 17 maj till 28 juni 2022.
 
@@ -814,7 +814,7 @@ Statliga och regionala myndigheter
 
 1\. Länsstyrelsen
 
-Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap 10 \$ PBL och nu kända
+Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap 10 § PBL och nu kända
 förhållanden att ett antagande av en detaljplan enligt förslaget kan komma att prövas.
 
 Motiv för bedömningen
@@ -1007,7 +1007,7 @@ Kommentar: Planbeskrivningen har uppdaterats med information om dessa tomtindeln
 
 FÖRTYDLIGANDE OM GENOMFÖRANDETIDEN
 
-Lantmäteriet lyfter i sitt yttrande att enligt PBL 4 kap. 22 \$ avser genomförandetiden vid planändring
+Lantmäteriet lyfter i sitt yttrande att enligt PBL 4 kap. 22 § avser genomförandetiden vid planändring
 endast de frågor som ändras och att det borde framgå både av skrivningen på plankartan och även
 tydliggöras av skrivningar i planbeskrivningen att genomförandetiden endast avser dessa frågor.
 
@@ -1296,7 +1296,7 @@ Kommunala förvaltningar och nämnder
 
 Nämnden för Teknik instämmer i planförslaget vad gäller blandad bebyggelse, parkeringshus i
 utkanterna av området, parker, stråk och möjlighet att bredda Varbergsvägen. Nämnden för teknik
-instämmer med BN:s förslag 27/3 2022 \$ 90 gällande korsningsutformning mellan Lantmannagatan
+instämmer med BN:s förslag 27/3 2022 § 90 gällande korsningsutformning mellan Lantmannagatan
 och Hantverksgatan/Skolgatan. I samrådsförslaget finns en rondell där det föreslås en kraftig kurva/
 böj vid infarten till rondellen från Lantmannagatan, vi ser gärna att nytt förslag tas fram till nästa skede
 med en rakare sträckning av Lantmannagatan.
@@ -1697,7 +1697,7 @@ i det kommande planeringsskedet.
 Upplysning
 
 Beslut fattat med stöd av delegering. Nämnden för Kultur & Fritids delegeringsförteckning: punkt
-3.1.12, 2021-04-21, \$ 19
+3.1.12, 2021-04-21, § 19
 
 Sammanfattning
 
@@ -2102,7 +2102,7 @@ Upplysning
 
 Beslut fattade med stöd av delegering. Nämnden för Kultur & Fritids delegeringsförteckning: 2025-04-
 
-23 \$ 52.
+23 § 52.
 
 Sammanfattning av ärendet
 
@@ -2187,7 +2187,7 @@ KFT-2025- 2025-04- Region Halland Hallands biblioteksplan 2026-2029 på
 
 00103 24 remiss
 
-KFT-2025- 2025-04- Kommunledningskontoret Protokollsutdrag 2025-04-22 KS \$ 73
+KFT-2025- 2025-04- Kommunledningskontoret Protokollsutdrag 2025-04-22 KS § 73
 
 00102 24 Antagande av
 
@@ -2209,7 +2209,7 @@ www.kungsbacka.se
 
 KUNGSBACKA KOMMUN
 
-KFT-2025- 2025-04- Kommunledningskontoret Protokollsutdrag 2025-04-22 KS \$ 72
+KFT-2025- 2025-04- Kommunledningskontoret Protokollsutdrag 2025-04-22 KS § 72
 
 00101 24 Antagande av
 informationshanteringsplan för

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.99ff57618df2ddb19d38366/17107777120
 sha256: b4dadf45e03cae9c15ec71e56426abfc45c473b7215544f08149b256e9bff0f9
 bytes: 7670549
 sidor: 93
-hamtad: 2026-10-15T06:11:36+00:00
-konverterad: 2026-10-15T06:12:11+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T06:42:49+00:00
+konverterad: 2026-10-24T06:43:13+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2540,7 +2540,7 @@ omsorgs- och servicetjänster inom samtliga områden i kommunen. Startdatum är 
 Upplysning
 
 Beslut fattat med stöd av delegering. Nämnden för Vård & Omsorg delegeringsförteckning: punkt
-4.10, 2023-10-19, \$ 126.
+4.10, 2023-10-19, § 126.
 
 Sammanfattning
 
@@ -2551,7 +2551,7 @@ Med anledning av SKRs pågående arbete för att motverka välfärdsbrott och ot
 kommuner, har förvaltningen genomfört en utökad bakgrundskontroll på nyckelpersoner hos utföraren.
 I bakgrundskontrollen framkom ingen information som utgör hinder för certifiering.
 
-Förvaltningen genomförde förhandlingsmöte enligt MBL \$38, den 15 februari 2024. Vid
+Förvaltningen genomförde förhandlingsmöte enligt MBL §38, den 15 februari 2024. Vid
 förhandlingen framkom inga hinder för certifiering.
 
 Förvaltningen har granskat handlingarna som inkommit i enlighet med förfrågningsunderlaget och
@@ -2564,7 +2564,7 @@ Underlag till beslutet är
 \- Förfrågningsunderlaget
 
 \- Ansökan med bilagor, i enlighet med förfrågningsunderlaget
-\- Förhandlingsprotokoll enligt MBL \$38
+\- Förhandlingsprotokoll enligt MBL §38
 
 1 2)
 Kungsbacka kommun
@@ -2607,7 +2607,7 @@ PROTOKOLL
 
 Kungsbacka
 
-FÖRHANDLINGSPROTOKOLL enligt MBL \$38, gällande entreprenör inom kundvalet i
+FÖRHANDLINGSPROTOKOLL enligt MBL §38, gällande entreprenör inom kundvalet i
 
 Vård och Omsorg i Kungsbacka kommun
 
@@ -2636,7 +2636,7 @@ Ingela Linderoth Nord, Kommunal
 
 Ärende: Förhandling ny hemtjänstutförare
 
-\$ I Förhandling har påkallats av Kungsbacka kommun enligt MBL \$38 med anledning av ny potentiell
+\$ I Förhandling har påkallats av Kungsbacka kommun enligt MBL §38 med anledning av ny potentiell
 
 entreprenör inom kundvalet i Vård och Omsorg i Kungsbacka kommun
 
@@ -2682,19 +2682,19 @@ förklarar att de kommer bygga upp och dimensionera företaget efterhand som de 
 
 kunder.
 
-\$ 6 Kommunal frågar om tid för dokumentation samt arbetsplatsträffar. Arbetsgivaren tar med sig frågorna
+§ 6 Kommunal frågar om tid för dokumentation samt arbetsplatsträffar. Arbetsgivaren tar med sig frågorna
 och ska återkomma med detaljer.
 
 8 7 Vision frågar om hantering nattetid och arbetsgivaren bekräftar att det är kommunens nattpatrull som
 täcker det behovet.
 
-\$ 8 Ledarna ställer en fråga kring följsamhet till arbetstidsregler och arbetsgivaren hänvisar till allas
+§ 8 Ledarna ställer en fråga kring följsamhet till arbetstidsregler och arbetsgivaren hänvisar till allas
 skyldighet att följa gällande lagstiftning.
 
-\$ 9 Arbetstagarparterna förklarar sig eniga med arbetsgivaren och har inget att invända mot att företaget
+§ 9 Arbetstagarparterna förklarar sig eniga med arbetsgivaren och har inget att invända mot att företaget
 godkänns som utförare av hemtjänstinsatser i Kungsbacka kommun.
 
-\$ 10 Förhandlingen förklarades avslutad vid dagens datum.
+§ 10 Förhandlingen förklarades avslutad vid dagens datum.
 
 Justeras 2024-02-15
 

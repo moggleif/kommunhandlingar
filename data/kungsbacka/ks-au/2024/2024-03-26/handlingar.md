@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.18dce30518e5f9bec471bdb/17110964386
 sha256: 013b81daceb6eb40c31a19f18c0e34db6a9d8b8a4159ee1908720d70e5666b75
 bytes: 9857324
 sidor: 83
-hamtad: 2026-10-16T06:35:54+00:00
-konverterad: 2026-10-16T06:36:29+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T10:50:21+00:00
+konverterad: 2026-10-24T10:50:52+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2212,7 +2212,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL
 Kommunfullmäktige Datum
 2022-10-18
 
-Kommunstyrelsens arbetsutskott 2022-09-13, \$ 291
+Kommunstyrelsens arbetsutskott 2022-09-13, § 291
 Samhällsbyggnadskontorets tjänsteskrivelse, 2022-08-24
 Plankarta upprättad december 2021, reviderad augusti 2022
 Planbeskrivning upprättad december 2021, reviderad augusti 2022
@@ -2231,7 +2231,7 @@ Länsstyrelsens granskningsyttrande 2021-09-15
 
 Översiktskarta
 
-Kommunstyrelsen 2016-11-15, \$ 229
+Kommunstyrelsen 2016-11-15, § 229
 
 Förslag till beslut på sammanträdet
 
@@ -2656,7 +2656,7 @@ ommunstyrelsen 2016-11-15
 
 Kungsbacka
 
-\$ 229
+§ 229
 
 Utveckling av Rya verksamhetsområde i Frillesås
 KS/2016:135 7.1.2
@@ -2691,7 +2691,7 @@ den nya delen av Rya har en potential på uppemot 250.000 kvm.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott, 2016-11-08, \$ 287
+Kommunstyrelsens arbetsutskott, 2016-11-08, § 287
 Kommunledningskontorets tjänsteskrivelse, 2016-10-19
 
 Expedierat/bestyrkt
