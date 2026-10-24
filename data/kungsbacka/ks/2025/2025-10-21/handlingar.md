@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.311aaa10199f64f29ee3b02b/1760940413
 sha256: 97e79aa074dd0202f397a97b29d42fa51d6961eb312182b2aefbfd9fa01caf4d
 bytes: 230813884
 sidor: 409
-hamtad: 2026-10-15T09:34:06+00:00
-konverterad: 2026-10-15T09:43:04+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T09:11:43+00:00
+konverterad: 2026-10-24T09:18:31+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2395,7 +2395,7 @@ arrendestället.
 Detta avtal är upprättat i två (2) exemplar varav parterna tagit var sitt.
 
 För Kungsbacka kommun För Kungsbacka Tennisklubb
-Datum: 2025- == Datum: 2025- O\$8- 20
+Datum: 2025- == Datum: 2025- O§8- 20
 Namnteckning Namnteckning
 Namnförtydligande Namnförtydligande
 
@@ -3251,7 +3251,7 @@ praktiken inte går att bebygga. Detta är absurt och en helt orimlig situation 
 principen om proportionalitet!
 
 Vi ber nu att kommunen såvitt gäller Släps-Kullen 2:40 rättar felet/missen som blev i
-detaljplanen \$79 och gör en ny detaljplan för denna fastighet så att vi kan använda och
+detaljplanen §79 och gör en ny detaljplan för denna fastighet så att vi kan använda och
 bebygga tomten i enlighet med fastighetsändamålet. Den byggrätt som finns för Tomten
 måste placeras så att byggrätten och reglerna om minsta avstånd till tomtgräns samspelar och
 gör det möjligt att placera en byggnad på Tomten. Vidare bör byggrätten också vara lagom
@@ -3274,12 +3274,12 @@ Lennart Kurlberg Ulla-Britt Lindgren rn Lindgren
 Bilagor :
 1\. Utdrag ur fastighetsregistret för fastigheten Släps-Kullen 2:40
 
-2\. Kartbild hämtad från plankarta \$79, Fastighetsgränsen för Släps-Kullen
+2\. Kartbild hämtad från plankarta §79, Fastighetsgränsen för Släps-Kullen
 2:40/Tomten är inritad med röd kantlinje.
 
 3\. Områdeskarta (Lantmäteriets fastighetskarta)
 
-4\. Plankarta \$79
+4\. Plankarta §79
 
 <!-- sida 78 -->
 
@@ -3436,7 +3436,7 @@ Ett registerutdrag med standardinformation redovisar inte det fullständiga inne
 
 Bilaga 2 till ansökan om rättelse av detaljplan
 
-Kartbilden nedan är ett urklipp från plankarta \$79. Fastighetsgränsen för Släps-Kullen 2:40/Tomten
+Kartbilden nedan är ett urklipp från plankarta §79. Fastighetsgränsen för Släps-Kullen 2:40/Tomten
 är inritad med röd kantlinje.
 
 <!-- sida 82 -->
@@ -3683,14 +3683,14 @@ Uppdrag, politiska beslut m.m.
 
 Samhällsbyggnadskontoret har fått i uppdrag att upprätta ny ”Detaljplan för sjukhus
 inom Tölöberg 2 och Tölö 1:17 i Kungsbacka stad”, Detaljplanen, genom beslut i
-Byggnadsnämndens arbetsutskott, 2022-06-23, \$332.
+Byggnadsnämndens arbetsutskott, 2022-06-23, §332.
 
 Kommunen har tagit fram förslag till Detaljplan. Förslaget har varit utställt för samråd
 mellan 2024-08-27 och 2024-09-24. Granskning genomfördes mellan 2025-05-13 och
 2025-06-10.
 
 Ett Principavtal, Principavtalet, har tecknats mellan Kommunen och Regionen (KS
-2023-01-10, \$19). Principavtalet föreskriver att ett Exploateringsavtal, Avtalet, ska
+2023-01-10, §19). Principavtalet föreskriver att ett Exploateringsavtal, Avtalet, ska
 upprättas innan Detaljplanen kan antas av Byggnadsnämnden.
 
 Exploateringsområde
@@ -4706,7 +4706,7 @@ Kommunen och Regionen kallas gemensamt nedan Parterna.
 
 1.1 Samhällsbyggnadskontoret har fått i uppdrag att upprätta ny ”Detaljplan för
 sjukhus inom Tölöberg 2 och Tölö 1:17 i Kungsbacka stad”, Detaljplanen,
-genom beslut i Byggnadsnämndens arbetsutskott, 2022-06-23, \$332.
+genom beslut i Byggnadsnämndens arbetsutskott, 2022-06-23, §332.
 
 1.2 — Regionen har inkommit till samhällsbyggnadskontoret med en begäran om
 planbesked för att utöka byggrätten inom fastigheterna Tölöberg 2 och Tölö 1:17
@@ -4997,7 +4997,7 @@ Kommunstyrelsen Datum
 
 2023-01-10
 
-\$19 Dnr 2022-00765
+§19 Dnr 2022-00765
 Principavtal avseende detaljplan för Tölöberg 2 och Tölö 1:17
 
 Beslut
@@ -5031,9 +5031,9 @@ tillskapande av allmän plats.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2022-12-06, \$ 397
+Kommunstyrelsens arbetsutskott 2022-12-06, § 397
 Samhällsbyggnadskontorets tjänsteskrivelse, 2022-11-15
-Byggnadsnämndens arbetsutskott 2022-06-23, \$ 332
+Byggnadsnämndens arbetsutskott 2022-06-23, § 332
 Principavtal med Region Halland, undertecknat 2022-11-09
 
 Beslutsgång
@@ -5217,7 +5217,7 @@ Uppdrag, politiska beslut m.m.
 
 Samhällsbyggnadskontoret har fått i uppdrag att upprätta ny ”Detaljplan för
 bostäder inom Lerberg 16:40 m.fl. i Anneberg”, Detaljplanen, genom beslut i
-Byggnadsnämndens arbetsutskott, 2024-06-20, \$171.
+Byggnadsnämndens arbetsutskott, 2024-06-20, §171.
 
 Exploatörerna har inkommit till samhällsbyggnadskontoret med en begäran om
 planbesked för att genom ny detaljplan genom att pröva möjligheten för bostäder
@@ -11653,7 +11653,7 @@ framkomligheten. I övrigt bedöms inte Skällared ga:2 att påverkas av detaljp
 
 Exploatören ansvarar för att nya fastigheter eller anläggningar får andel i
 gemensamhetsanläggningen Skällared GA:2 antingen genom tecknande av
-överenskommelse om andelstal enligt 43 \$ anläggningslagen, genom omprövning av
+överenskommelse om andelstal enligt 43 § anläggningslagen, genom omprövning av
 anläggningen eller genom anslutning i annan förrättning.
 
 Exploatören ansvarar för att ansökan om lantmäteriförrättning (anläggningsförrättning)
@@ -12931,7 +12931,7 @@ kraft.
 
 Ersättningen inbetalas på Kommunens bankgirokonto nummer 426-4610, märk
 
-inbetalningen med Skällared 4:1. Om betalning sker därefter betalas ränta enligt 6 \$
+inbetalningen med Skällared 4:1. Om betalning sker därefter betalas ränta enligt 6 §
 räntelagen från sista betalningsdag tills betalning sker.
 
 204\)

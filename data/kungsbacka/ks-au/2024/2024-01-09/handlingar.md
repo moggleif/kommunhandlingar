@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.227417af18c8af9fa1e1efad/1704372893
 sha256: 0b8cd2d042fdfbacc2cc19293f91de7bfa4be71a38a401287cb8411f6ee9c46c
 bytes: 141101129
 sidor: 287
-hamtad: 2026-10-16T06:18:44+00:00
-konverterad: 2026-10-16T06:24:07+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T10:36:14+00:00
+konverterad: 2026-10-24T10:40:39+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ok]
@@ -3425,18 +3425,18 @@ parkeringsavgifter i Kungsbacka kommun;
 
 beslutade den 8 maj 2023.
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 \$ andra stycket 17 och 3 \$
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 § andra stycket 17 och 3 §
 första stycket trafikförordningen (1998:1276) följande.
 
 Föreskrifter om ändring i Kungsbacka kommuns lokala trafikföreskrifter 1384
 2019:00038 om parkeringsavgifter i Kungsbacka kommun beslutade den 1 april 2019
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 3 andra stycket 17 och 3 \$
-första stycket trafikförordningen (1998:1276) att 6 \$ i kommunens lokala
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 3 andra stycket 17 och 3 §
+första stycket trafikförordningen (1998:1276) att 6 § i kommunens lokala
 trafikföreskrifter 1384 2019:00038 om parkeringsavgifter i Kungsbacka kommun ska
 ha följande lydelse.
 
-6 \$ Taxa E. Avgiften är 8 kr per timme
+6 § Taxa E. Avgiften är 8 kr per timme
 
 Denna författning träder i kraft den 10 maj 2023.
 
@@ -10079,7 +10079,7 @@ detaljplan för del av västra Varla verksamhetsområde, Detaljplanen.
 mellan 2021-08-24 och 2021-09-30. Granskning genomfördes mellan 2022-11-29 och
 2022-12-20.
 
-1.3 Ett Principavtal (KS 2021-01-19, \$12), Principavtalet, har tecknats mellan
+1.3 Ett Principavtal (KS 2021-01-19, §12), Principavtalet, har tecknats mellan
 Kommunen och Exploatören. Principavtalet föreskriver att ett Exploateringsavtal,
 Avtalet, ska upprättas innan Detaljplanen kan antas av Byggnadsnämnden.
 
@@ -10792,7 +10792,7 @@ detaljplan för del av västra Varla verksamhetsområde, Detaljplanen.
 mellan 2021-08-24 och 2021-09-30. Granskning genomfördes mellan 2022-11-29 och
 2022-12-20.
 
-1.3 — EttPrincipavtal (KS 2021-01-19, \$12), Principavtalet, har tecknats mellan
+1.3 — EttPrincipavtal (KS 2021-01-19, §12), Principavtalet, har tecknats mellan
 Kommunen och Exploatören. Principavtalet föreskriver att ett Exploateringsavtal,
 Avtalet, ska upprättas innan Detaljplanen kan antas av Byggnadsnämnden.
 

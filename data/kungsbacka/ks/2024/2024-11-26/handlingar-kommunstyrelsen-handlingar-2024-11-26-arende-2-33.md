@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1932ec3d19329b835ff59a7a/1732175237
 sha256: 9262dad02b3de84e7e66ff28dc41b16fb7a7a8b3c13ddc8b0b695e42c1c3102b
 bytes: 89165901
 sidor: 398
-hamtad: 2026-10-15T08:14:30+00:00
-konverterad: 2026-10-15T08:18:49+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T08:14:37+00:00
+konverterad: 2026-10-24T08:17:32+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -5086,7 +5086,7 @@ KUNGSBACKA KOMMUN
 Byggnadsnämndens arbetsutskott SAMMANTRÄDESPROTOKOLL 23 (86)
 Datum
 2016-09-20
-BNAU \$ 376 Dnr 2015-P019
+BNAU § 376 Dnr 2015-P019
 
 Kommunstyrelsens begäran om planläggning inom
 fastigheten Må 3:15 m.fl.
@@ -5120,7 +5120,7 @@ särskilt boende (gruppboende och/eller äldreboende och/eller trygghetsboende) 
 eventuell lämplig offentlig service (t.ex. förskola) i samklang med övrig
 planläggning för bostäder och förskola på fastigheten Må 3:13 i Fjärås.
 
-Kommunstyrelsen beslutade 2015-02-24 \$ 37 att hemställa hos byggnadsnämnden att
+Kommunstyrelsen beslutade 2015-02-24 § 37 att hemställa hos byggnadsnämnden att
 utarbeta förslag till detaljplan för särskilt boende samt eventuell lämplig offentlig
 service inom fastigheten Må 3:15 i Fjärås i enlighet med förfrågan från Fastighets
 AB Mönster, daterad 2014-12-09.
@@ -5153,7 +5153,7 @@ Datum
 BNAU 3 376, forts
 
 Den befintliga bebyggelsen är gles, med villor. Planprogrammet för bostäder inom
-Må 3:13, m.fl. i Fjärås, KS 2015-02-24, \$ 35 som ser Fjärås samhälle i sin helhet,
+Må 3:13, m.fl. i Fjärås, KS 2015-02-24, § 35 som ser Fjärås samhälle i sin helhet,
 talar också för en gles bebyggelse på Måvägen.
 
 Förvaltning för Plan & Bygg har kommit fram till att den lämpligaste användningen
@@ -5164,7 +5164,7 @@ Området är inte detaljplanelagt.
 Beslutsunderlag
 Tjänsteskrivelse 2016-09-01
 
-Kommunstyrelsens protokoll 2015-02-24 \$ 37.
+Kommunstyrelsens protokoll 2015-02-24 § 37.
 
 Beslutet skickas till
 Förvaltningen för Plan & Bygg, planavdelningen
@@ -5377,7 +5377,7 @@ direkt norr om pågående planområde Må 3:13 för boende och förskola. Föres
 byggnation ligger i anslutning till befintlig bebyggelse i Fjärås. Området är inte
 detaljplanelagt.
 
-Kommunstyrelsen tog 2013-05-21 KS \$112 beslut att avslå förfrågan om
+Kommunstyrelsen tog 2013-05-21 KS §112 beslut att avslå förfrågan om
 planläggning för bostadsbebyggelse på samma fastighet. Bedömningen var att det
 inte fanns utrymme i dagsläget för fler bostadsområden i Fjärås tätort utifrån
 styrdokumentet ”Mål för bostadsbyggande 2010-2015” och pågående planering.
@@ -5470,7 +5470,7 @@ KUNGSBACKA KOMMUN
 Kommunstyrelsens arbetsutskott SAMMANTRÄDESPROTOKOLL 7 (13)
 Datum
 2013-10-22
-\$ 313 KS13-00205/21
+§ 313 KS13-00205/21
 
 Förfrågan om utveckling av Må 3:15 — lokaliseringsbeslut
 
@@ -5501,7 +5501,7 @@ KUNGSBACKA KOMMUN
 Kommunstyrelsen SAMMANTRÄDESPROTOKOLL
 Datum
 2013-11-19
-\$ 246 KS13-00205/21
+§ 246 KS13-00205/21
 
 Förfrågan om utveckling av Må 3:15 — lokaliseringsbeslut
 
@@ -5522,7 +5522,7 @@ bedöms byggnation kunna ske genom bygglov via byggnadsnämnden.
 Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2013-09-30
-Kommunstyrelsens arbetsutskott, 2013-10-22, \$ 313
+Kommunstyrelsens arbetsutskott, 2013-10-22, § 313
 
 Proposition
 

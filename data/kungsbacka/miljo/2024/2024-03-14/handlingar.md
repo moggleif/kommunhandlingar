@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.29e29ba018df2c6344723b75/1710250453
 sha256: 18d3050ed26f0186c97e1f04bc5550e0960f7cfd230555f74a5d85dc659f85e1
 bytes: 11476043
 sidor: 123
-hamtad: 2026-10-14T10:57:13+00:00
-konverterad: 2026-10-14T10:58:15+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T06:26:45+00:00
+konverterad: 2026-10-24T06:27:42+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -290,7 +290,7 @@ KUNGSBACKA KOMMUN
 Nämnden för Miljö & Hälsoskydd SAMMANTRÄDESPROTOKOLL 11 (33)
 Datum
 2016-12-12
-\$ 190 3010/16-00
+§ 190 3010/16-00
 
 Strategi för utvecklingsarbete
 
@@ -835,7 +835,7 @@ KUNGSBACKA KOMMUN
 Miljö & Hälsoskydd SAMMANTRÄDESPROTOKOLL 11 (75)
 Datum
 2016-11-17
-\$ 145 2916/16-00-1
+§ 145 2916/16-00-1
 
 Strategi för nyckeltal
 
@@ -1871,7 +1871,7 @@ Nämnden för Miljö & Hälsoskydd SAMMANTRÄDESPROTOKOLL 17 (30)
 Datum
 2015-06-25
 201G
-\$ 73 1782/105-35
+§ 73 1782/105-35
 
 Tidsbegränsning vid förbud av bristfälliga enskilda
 avloppsanläggningar
@@ -1939,7 +1939,7 @@ Datum
 3 j—
 20K7
 
-\$ 73 forts 1782/105-35
+§ 73 forts 1782/105-35
 
 Beslutsunderlag
 Förvaltningens yttrande daterat 2015-06-17.
@@ -1957,7 +1957,7 @@ KUNGSBACKA KOMMUN
 Nämnden för Miljö & Hälsoskydd SAMMANTRÄDESPROTOKOLL 6 (22)
 Datum
 2014-08-28
-\$ 98 1157/14-35
+§ 98 1157/14-35
 
 Revidering av avloppsstrategi för Kungsbacka kommun
 
@@ -1971,7 +1971,7 @@ upphäver nämnden sin tidigare policy om slutna tankar.
 
 Sammanfattning
 
-Nämnden för Miljö & Hälsoskydd fattade den 25 februari 2010 beslut (NMH \$ 39)
+Nämnden för Miljö & Hälsoskydd fattade den 25 februari 2010 beslut (NMH § 39)
 om en ny strategi för små avloppsanläggningar. Därefter har mindre revideringar och
 tillägg gjorts till strategin.
 
@@ -2154,7 +2154,7 @@ KUNGSBACKA KOMMUN
 Nämnden för Miljö & Hälsoskydd SAMMANTRÄDESPROTOKOLL 8 (20)
 Datum
 2013-11-28
-\$ 137 3877/13-35
+§ 137 3877/13-35
 
 Enhetliga regler för avloppsföreningars dispensansökningar
 
@@ -2218,7 +2218,7 @@ KUNGSBACKA KOMMUN
 Nämnden för Miljö & Hälsoskydd SAMMANTRÄDESPROTOKOLL 9 (20)
 Datum
 2013-11-28
-\$ 137 forts 3877/13-35
+§ 137 forts 3877/13-35
 
 Omröstning begärs
 
@@ -2535,7 +2535,7 @@ Sammanträdesdatum
 
 2007-05-24
 
-\$ 59 2134/06-44
+§ 59 2134/06-44
 
 Policy för prövning av hästärenden
 
@@ -2606,7 +2606,7 @@ KUNGSBACKA KOMMUN
 Nämnden för Miljö & Hälsoskydd SAMMANTRÄDESPROTOKOLL 10 (31)
 Sammanträdesdatum
 2007-05-24
-\$ 59 forts. 2134/06-44
+§ 59 forts. 2134/06-44
 
 Skyddsavstånden skall betraktas som riktvärden och en prövning av lämpligt
 skyddsavstånd skall göras i varje enskilt fall.
@@ -2624,7 +2624,7 @@ Detta kan också ses som ett slags minimiavstånd som inte bör understigas i
 nyetableringssituationen, även om det av omständigheterna i det enskilda fallet finns
 skäl för att frångå ovanstående riktvärden.
 
-Med olägenhet för människors hälsa avses i Miljöbalken 9 kap 3\$ en störning som
+Med olägenhet för människors hälsa avses i Miljöbalken 9 kap 3§ en störning som
 enligt medicinsk eller hygienisk bedömning kan påverka hälsan menligt och som inte
 är ringa eller helt tillfällig.
 
@@ -2669,7 +2669,7 @@ KUNGSBACKA KOMMUN
 Nämnden för Miljö & Hälsoskydd SAMMANTRÄDESPROTOKOLL 11 (31)
 Sammanträdesdatum
 2007-05-24
-\$ 59 forts. 2134/06-44
+§ 59 forts. 2134/06-44
 
 Centerns uppfattning är därför att en hästpolicy måste leva upp till
 fullmäktiges beslut.
@@ -2726,7 +2726,7 @@ KUNGSBACKA KOMMUN
 Nämnden för Miljö & Hälsoskydd SAMMANTRÄDESPROTOKOLL 12 (31)
 Sammanträdesdatum
 2007-05-24
-\$ 59 forts. 2134/06-44
+§ 59 forts. 2134/06-44
 
 Miljöaspekt: För att minimera näringsläckage ut till vattendrag och havet skall all
 mark vara bevuxen så stor del av året som möjligt, och definitivt på sommaren

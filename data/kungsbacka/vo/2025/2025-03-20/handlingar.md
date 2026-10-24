@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.33ee11921959c11f9ef315aa/1742217930
 sha256: fcfe910dec9082ddc585d3d99943c29f73cfb595e731ee98bdb992fbe194133d
 bytes: 31427364
 sidor: 180
-hamtad: 2026-10-15T06:20:19+00:00
-konverterad: 2026-10-15T06:24:23+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T06:49:33+00:00
+konverterad: 2026-10-24T06:52:27+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -4821,7 +4821,7 @@ och dessa inte varit av oväsentlig betydelse vid valet av utförare.
 e Utföraren (VD:n eller annan med ledande ställning) enligt laga kraft vunnen dom dömts för
 ekonomiska brott eller belagts med näringsförbud.
 
-e Avtalet har varit föremål för en ändring som inte är tillåten enligt 17 kap. 9-14 \$8 LOU.
+e Avtalet har varit föremål för en ändring som inte är tillåten enligt 17 kap. 9-14 §8 LOU.
 
 Domstol eller myndighet fastställer att avtalet ingåtts i strid med upphandlingslagstiftningen.
 

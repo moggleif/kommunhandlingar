@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2f66052419afce94c17194bc/1765442358
 sha256: b300f6d21c0578f62568c01a23fda64d75b72a8229f98cedf09021846426f4df
 bytes: 102246330
 sidor: 665
-hamtad: 2026-10-15T09:56:45+00:00
-konverterad: 2026-10-15T10:05:58+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T09:28:21+00:00
+konverterad: 2026-10-24T09:34:50+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ok, ocr, ok, ocr, ocr, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ej-konverterad, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, tom, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -499,11 +499,11 @@ Skriftväxling 2025-05-09 —-2025-11-11
 
 Svar på mejl inkomna 6 — 9 november, 2025-11-11
 
-Skrivelse med komplettering till begäran om normprövning enligt RF 11 kap. 14 \$, 2025-11-09
+Skrivelse med komplettering till begäran om normprövning enligt RF 11 kap. 14 §, 2025-11-09
 
 Skrivelse om avgränsning och skyltning av privat mark — och , 2025-11-07
 
-Begäran om normprövning enligt RF 11 kap. 4 \$ innan beslut. 2025-11-06
+Begäran om normprövning enligt RF 11 kap. 4 § innan beslut. 2025-11-06
 
 Begäran om redovisning av lagstöd enligt förvaltningslagen, 2025-11-06
 
@@ -533,7 +533,7 @@ Skrivelse om handlingar samt komplettering, 2025-10-22
 
 Svar på mejl inkommet 21 oktober, 2025-10-22
 
-Begäran om beslut med anledning av dröjsmål, FL 12 \$, 2025-10-21
+Begäran om beslut med anledning av dröjsmål, FL 12 §, 2025-10-21
 
 Följebrev till skrivelse — ”Tllusionen av parkmark”, inkommen 2025-10-02
 
@@ -595,11 +595,11 @@ Begäran om ogiltigförklaring av detaljplanebestämmelse, a m. fl. 2025-05-09
 
 Kommunstyrelsens beslut 2019-02-19—2022-03-22
 
-Begäran om inlösen av , KS 2022-03-22, \$ 63
+Begäran om inlösen av , KS 2022-03-22, § 63
 
-Förfrågan om planbesked , KS 2019-12-17 \$ 326
+Förfrågan om planbesked , KS 2019-12-17 § 326
 
-Förfrågan om planbesked , KS 2019-02-19, \$ 41
+Förfrågan om planbesked , KS 2019-02-19, § 41
 
 Beslutet skickas till
 
@@ -615,7 +615,7 @@ andra fastigheterna ingår i samfälligheten Åsa GA:8 som förvaltas av Åsa sa
 framgår av Lantmäteriets register. I övrigt ingår fastigheterna inte i någon genomförd gemensam
 förvaltning.
 
-En ändring skedde i detaljplanen (antagen av kommunfullmäktige den 14 september 1995, \$ 125, med
+En ändring skedde i detaljplanen (antagen av kommunfullmäktige den 14 september 1995, § 125, med
 laga kraft den 25 april 1996) där det tydliggjordes hur byggnation får ske inom fastigheter med
 bestämmelse kvartersmark. Övriga delar av detaljplanen berördes inte av ändringen.
 
@@ -796,7 +796,7 @@ planbestämmelse inte skulle tillämpas så skulle således en annan markanvänd
 vara möjlig än det som har beslutats i enlighet med en demokratisk process.
 
 Ett sådant beslut hade varit lagvidrigt. Beslutet skulle också, genom uppenbar brist
-på lagstöd, kunna anses utgöra ett straffbart tjänstefel enligt 20 kap.1 \$ brottsbalken.
+på lagstöd, kunna anses utgöra ett straffbart tjänstefel enligt 20 kap.1 § brottsbalken.
 
 En planbestämmelse kan alltså inte ogiltigförklaras.
 
@@ -830,7 +830,7 @@ var fråga om förvaltningsbeslut, se prop. 1985/86:1 s. 87-93. Efter viss korri
 förslaget godtog även Lagrådet detta resonemang. Detaljplanering innefattar således
 inte utfärdande av normbeslut eller generella föreskrifter. Det innebär också att det
 saknas möjlighet till lagprövning eller normprövning av kommunernas planbeslut i
-enlighet med 11 kap. 14 \$ RF eller 12 kap. 10 & RF då planbesluten alltså inte utgör
+enlighet med 11 kap. 14 § RF eller 12 kap. 10 & RF då planbesluten alltså inte utgör
 föreskrifter i grundlagens mening. Se vidare i prop. 1973:90 s. 209 om skillnaden
 mellan normbeslut och förvaltningsbeslut.
 
@@ -857,7 +857,7 @@ sökande i en lantmäteriförrättning, men som sagt, inget som ”tvingar” ko
 att göra detta.
 
 Frågan är då om planen är så inaktuell att den av det skälet bör ändras. Enligt
-12 kap. 2 \$ PBL ska en byggnadsnämnd uppmärksamt följa den allmänna
+12 kap. 2 § PBL ska en byggnadsnämnd uppmärksamt följa den allmänna
 
 utvecklingen inom kommunen och dess närmaste omgivning samt ta de initiativ som
 behövs i frågor om planläggning, byggande och fastighetsbildning. Kommunen har
@@ -1636,17 +1636,17 @@ att ”det finns ett dokument som reglerar det”,
 
 dels förvaltningsutlåtande, promemoria eller motsvarande till kommunstyrelsen i frågan.
 
-Kommunen avvisar begäran att beslutet ska innehålla en normprövning enligt 11 kap. 14 \$
+Kommunen avvisar begäran att beslutet ska innehålla en normprövning enligt 11 kap. 14 §
 regeringsformen, där kommunen prövar om den aktuella planbestämmelsen och dess tillämpning står i
-överensstämmelse med 2 kap. 15 \$ RF och legalitetsprincipen.
+överensstämmelse med 2 kap. 15 § RF och legalitetsprincipen.
 
 Begäran
 
 har begärt ett formellt beslut i enlighet med förvaltningslagen avseende begäran om
 att ta del av den dokumentation som utgör lagstöd för tillämpningen av planbestämmelsen om
-parkmark inom detaljplan Ö22 samt att det då även ska göras en normprövning enligt 11 kap. 14 \$
+parkmark inom detaljplan Ö22 samt att det då även ska göras en normprövning enligt 11 kap. 14 §
 regeringsformen, där kommunen prövar om den aktuella planbestämmelsen och dess tillämpning står i
-överensstämmelse med 2 kap. 15 \$ RF och legalitetsprincipen.
+överensstämmelse med 2 kap. 15 § RF och legalitetsprincipen.
 
 Hans begäran, som det får förstås av skriftväxling mellan honom och kommunstyrelsens förvaltning,
 avser handling eller handlingar som skulle visa vilket lagstöd kommunen har för att tillämpa
@@ -4492,7 +4492,7 @@ största höjden, byggnadsnämnden likväl obetaget att, där så
 prövas lämpligt, för uthus eller annan gårdsbyggnad medgiva
 mindre avstånd, dock ej under 3 meter.
 
-\$ 6.
+§ 6.
 
 åntal byggnader å tomtplats.
 
@@ -4538,7 +4538,7 @@ Taklutning.
 
 Tak över oinredd vind får givas en lutning mot horisontal-
 planet av högst 30?.
-\$ 10,
+§ 10,
 
 Tönster till. bonings- och arbetsrum.
 
@@ -4852,7 +4852,7 @@ kommer. samhällets behov av mark för bl.a. allmänt ändamål,
 
 handelsärhkmål samt för industri att tillgodoses."
 
-Jämlikt 90 \$ byggnadsstadgan den 20 november 1931 har
+Jämlikt 90 § byggnadsstadgan den 20 november 1931 har
 förslaget hållits för granskning tillgängligt i orten under
 viss, numera förfluten tid, varom även samtliga markägare,.
 
@@ -5445,7 +5445,7 @@ kommer samhällets behov ev mark för bl.a. allmänt ändamål,
 
 handel särhmål samt för industri att tillgodoses."
 
-Jämlikt 90 \$ byggnadsstadgan den 20 november 1931 har
+Jämlikt 90 § byggnadsstadgan den 20 november 1931 har
 förslaget hållits för granskning tillgängligt i orten under
 viss, numera förfluten tid, varom även samtliga markägare,
 vilkas rätt berördes av förslaget, kommunalfullmäktige och
@@ -5512,7 +5512,7 @@ avgivit yttranden i ärendet. '
 
 Vidare har länsarkitekten hemställt om förordnande
 enligt 113 > byggnadslagen med avseende å fastigheterna
-Ormanås 670 samt Åsa 14, 3\$, 321, 376 52 55 och stt, Den
+Ormanås 670 samt Åsa 14, 3§, 321, 376 52 55 och stt, Den
 mark som avsågs med förordnandet hade angivits till läge och
 gränser å en till ärendet hörande karta.
 
@@ -5534,7 +5534,7 @@ inkomma med yttrande i ärendet.
 
 Något dylikt yttrande har icke hit inkommit.
 
-Länsstyrelsen finner, med stöd av 107 \$ byggnadslagen,
+Länsstyrelsen finner, med stöd av 107 § byggnadslagen,
 
 skäligt fastställa ifrågavarande byg.nadsplan för Åsa stations-
 
@@ -5569,7 +5569,7 @@ med åtecknad beskrivning tillställas nämnda myndigheter,
 
 Därest sakäg re, som i ärendet framställt yrkande, vilket
 helt eller delvis lämnats utan bifall, icke åtnöjes med denna
-resolution, äger han jämlikt 150 \$ byggnadslagen att däruti
+resolution, äger han jämlikt 150 § byggnadslagen att däruti
 hos Kungl. Maj:t i underdånighet söka ändring Keno besvär, vilka
 
 vid "ventre < telare Pfxrlner kols 4111 Kungl. Kommit kerdpves
@@ -5619,7 +5619,7 @@ prövning sedan nytt planförsleg framlagts för det område &
 tills vidare icke ingår 1 planen. :
 
 Beträffande de av samtliga klagandens framförde yrkan-
-dena i fråga om det av länsstyrelsen enligt 113 \$ byggnads-
+dena i fråga om det av länsstyrelsen enligt 113 § byggnads-
 lagen meddelade förordnandet om skyldighet för klagandena
 att utan ersättning upplåta vissa på karta närmare angivna
 mearkområden av fastigheterna Åsa 54, 321 och 56 anser sty-
@@ -5748,7 +5748,7 @@ problemet.
 
 Det är viktigt att tydliggöra att rådighetsinskränkningar som inte grundar sig på tillfälliga
 förhållanden, och som varar över längre tid, utgör en form av expropriativt ingrepp. Enligt
-Regeringsformen 2 kap. 15 \$ och Expropriationslagen 4 kap. 3 a \$ ska sådan inskränkning
+Regeringsformen 2 kap. 15 § och Expropriationslagen 4 kap. 3 a \$ ska sådan inskränkning
 ersättas. Att kommunen systematiskt förnekar förekomsten av en sådan inskränkning — trots att
 planbestämmelsen effektivt blockerat normalt bruk av fastigheten under decennier — innebär
 ett allvarligt avsteg från grundläggande rättsprinciper.
@@ -5849,7 +5849,7 @@ rättsprinciper och förvaltningspraxis.
 2\. Regeringens grundlagsutredning bekräftar min tolkning
 
 Den 3 juli 2025 tillkännagav Justitiedepartementet att regeringen tillsatt en grundlagsutredning i
-syfte att stärka skyddet för äganderätten i 2 kap. 15 \$ Regeringsformen. Utredningen ska särskilt
+syfte att stärka skyddet för äganderätten i 2 kap. 15 § Regeringsformen. Utredningen ska särskilt
 undersöka fall där kommunen genom planläggning eller brukshinder inskränker användningen
 av privat egendom utan ersättning — alltså exakt den typ av situation som mitt ärende handlar
 om.
@@ -6140,7 +6140,7 @@ rättsprinciper och förvaltningspraxis.
 2\. Regeringens grundlagsutredning bekräftar min tolkning
 
 Den 3 juli 2025 tillkännagav Justitiedepartementet att regeringen tillsatt en grundlagsutredning i
-syfte att stärka skyddet för äganderätten i 2 kap. 15 \$ Regeringsformen. Utredningen ska särskilt
+syfte att stärka skyddet för äganderätten i 2 kap. 15 § Regeringsformen. Utredningen ska särskilt
 undersöka fall där kommunen genom planläggning eller brukshinder inskränker användningen
 av privat egendom utan ersättning — alltså exakt den typ av situation som mitt ärende handlar
 om.
@@ -6441,7 +6441,7 @@ dessa principer. Detta är särskilt anmärkningsvärt med tanke på att planen 
 över 70 år gammal, såvitt jag kan konstatera saknar dokumenterat
 genomförande och används för att inskränka min äganderätt utan
 kompensation, vilket i sådant fall strider mot Regeringsformens 2 kap. 15 8
-och Expropriationslagens 4 kap. \$3 a.
+och Expropriationslagens 4 kap. §3 a.
 
 Viktigt att notera är att marken troligen aldrig kommer att bli föremål för en
 
@@ -6556,7 +6556,7 @@ genomförts enligt Anläggningslagen eller Fastighetsbildningslagen. För att ko
 att detta är sant ber jag er ta kontakt med Lantmäterimyndigheten som ansvarar för ett
 sådant genomförande för att bekräfta ovanstående.
 
-Kommunens agerande utgör ett allvarligt brott mot Regeringsformens 2 kap. 15 \$
+Kommunens agerande utgör ett allvarligt brott mot Regeringsformens 2 kap. 15 §
 (skydd för äganderätten), artikel 1 i första tilläggsprotokollet till Europakonventionen
 samt Expropriationslagens 4 kap. 3 a \$. Det strider även mot legalitets-,
 proportionalitets- och objektivitetsprinciperna enligt Förvaltningslagen (2017:900).
@@ -6597,8 +6597,8 @@ plan.
 Jag vill samtidigt upplysa er om att strandskyddet inom mina fastigheter är upphävt
 och således inte kan anses som ett hinder eller särskilt skäl att onödiggöra att den nu
 över 70 år gamla och inaktuella planbestämmelsen ogiltigförklaras. Detta förändrar
-helt dynamiken kring kommunens motiveringar i besluten (t.ex. KS 2019-02-19, \$ 41
-och KS 2019-12-19, \$ 326), där ni hänvisar till strandskyddsreglerna i MB som ett
+helt dynamiken kring kommunens motiveringar i besluten (t.ex. KS 2019-02-19, § 41
+och KS 2019-12-19, § 326), där ni hänvisar till strandskyddsreglerna i MB som ett
 hinder för planändring. Jag vill dock vara tydlig med att jag aldrig varit intresserad av
 
 <!-- sida 176 -->
@@ -6645,7 +6645,7 @@ har utgått), argumenterar jag för att bestämmelsen inte längre är relevant 
 kunna användas som grund för att exempelvis neka bygglov eller hindra markägaren
 från rätten till pågående användning.
 
-4\. Proportionalitetsprincipen och 2 kap. 15 \$ Regeringsformen innebär
+4\. Proportionalitetsprincipen och 2 kap. 15 § Regeringsformen innebär
 att det måste finnas rimlig balans mellan det allmännas intresse och den enskildes
 rättigheter. En planbestämmelse som i praktiken bara ligger kvar ”på pappret” som en
 s.k. spökplan, men hindrar markägaren från att använda sin mark strider mot detta.
@@ -6657,7 +6657,7 @@ Rättsliga åtgärder vid fortsatt passivitet
 Om kommunen inte vidtar åtgärder för att ogiltigförklara planbestämmelsen och att ge
 mig möjlighet att exploatera marken, förbehåller jag mig rätten att:
 
-« Begära ersättning enligt 2 kap. 15 \$ Regeringsformen och 4 kap. 3 a \$
+« Begära ersättning enligt 2 kap. 15 § Regeringsformen och 4 kap. 3 a \$
 Expropriationslagen.
 
 « Kräva skadestånd enligt skadeståndslagen, inklusive utkrävande av personligt
@@ -6746,21 +6746,21 @@ Kommunstyrelsen Dätin
 Sammanfattning av ärendet
 
 Fastighetsägaren till har den 10 januari 2022 begärt att kommunen ska lösa
-in del av fastigheten enligt PBL 14 kap 14 \$ p. 2 samt expropriationslagen
-(1972:719), ExpiL, 4 kap 1-2 \$\$. Fastighetsägaren har begärt att kommunen ska fatta
+in del av fastigheten enligt PBL 14 kap 14 § p. 2 samt expropriationslagen
+(1972:719), ExpiL, 4 kap 1-2 §§. Fastighetsägaren har begärt att kommunen ska fatta
 beslut om inlösen, som även ska vara möjligt att överklaga till mark- och
 miljödomstol.
 
 Fastighetsägaren har till stöd för sin begäran lämnat in ett värdeutlåtande daterat
 december 2021 där fastighetsdelen värderas till 5 500 000 kronor.
 
-PBL 14 kap 4 \$ innebär att en kommun är skyldig att på fastighetsägarens begäran
+PBL 14 kap 4 § innebär att en kommun är skyldig att på fastighetsägarens begäran
 lösa in mark eller annat utrymme som enligt detaljplanen ska användas för
 
 1\. en allmän plats som kommunen ska vara huvudman för, eller
 2\. annat än enskilt byggande
 
-ExpriL 4 kap 1-2 \$\$ innebär bland annat att löseskillingen ska bestämmas på
+ExpriL 4 kap 1-2 §§ innebär bland annat att löseskillingen ska bestämmas på
 grundval av det marknadsvärde som fastigheten skulle ha haft om inverkan av
 byggnadsplan inte hade förekommit samt att ytterligare löseskilling ska betalas med
 25 procent av detta värde.
@@ -6769,7 +6769,7 @@ Beslutsunderlag
 
 Skrivelse från sökanden till kommunstyrelsen, 2022-03-17
 
-Kommunstyrelsens arbetsutskott 2022-03-08, \$ 93
+Kommunstyrelsens arbetsutskott 2022-03-08, § 93
 
 Yttrande från sökanden över förslag till beslut i kommunstyrelsen, 2022-03-07
 Samhällsbyggnadskontorets tjänsteskrivelse, 2022-02-17
@@ -8261,7 +8261,7 @@ Det finns idag en situation som i många kommuner leder till osäkerhet, rättsf
 konflikt mellan lagtext och praxis. Detta är välkänt bland jurister men sällan tillämpat i
 praktiken, trots att bestämmelsen är helt tydlig:
 
-RF 12 kap. 10 \$— skyldigheten att vägra verkställa uppenbart olagliga beslut.
+RF 12 kap. 10 §— skyldigheten att vägra verkställa uppenbart olagliga beslut.
 Detta är inte en valmöjlighet. Det är en lagstadgad skyldighet och rättsstatens sista
 självreglerande skyddsmekanism.
 
@@ -8331,7 +8331,7 @@ avsett.
 
 En möjlighet att bli föredöme för rättsstatlig integritet
 
-Om du väljer att fullt ut stå på grundlagens sida och tillämpa RF 12 kap. 10 \$ som
+Om du väljer att fullt ut stå på grundlagens sida och tillämpa RF 12 kap. 10 § som
 lagstiftaren avsett, kan du bli den som återställer en princip som många anser gått förlorad:
 ett självreglerande tjänstemannaansvar byggt på juridisk integritet och civilkurage.
 
@@ -8348,7 +8348,7 @@ det är tänkt.
 
 <!-- sida 219 -->
 
-Är du villig att lyfta detta internt och överväga att tillämpa RF 12 kap. 10 \$ i detta ärende
+Är du villig att lyfta detta internt och överväga att tillämpa RF 12 kap. 10 § i detta ärende
 om du (som jag) bedömer att kommunens tidigare ställningstaganden saknar lagstöd?
 
 Det skulle inte bara lösa mitt eget ärende — det skulle vara ett viktigt steg för
@@ -15344,7 +15344,7 @@ Kommunen och Bolaget kallas gemensamt nedan för Parterna.
 Kommunen antog en ny detaljplan för kvarteret Banken 2019-06-11 (KS/2019:341
 385), vilken vann laga kraft 2019-07-15. I samband med detaljplanens antagande
 godkändes även ett tillhörande exploateringsavtal avseende fastigheten Banken 13,
-tecknat mellan Parterna (KS/2019:220 \$84)
+tecknat mellan Parterna (KS/2019:220 §84)
 
 Detaljplanen syftar till att bevara kulturhistoriskt värdefulla byggnader och miljöer
 samtidigt som förutsättningar för en utveckling av kvarteret med bostäder samt
@@ -15681,7 +15681,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 30 (51)
 
 Kommunfullmäktige Datum
 2019-06-11
-\$ 84
+§ 84
 Exploateringsavtal avseende kvarteret Banken för Dan Stenlund
 Fastigheter
 
@@ -15715,8 +15715,8 @@ rätten till ersättning till följd av varsamhets- och skyddsbestämmelser är 
 
 Beslutsunderlag
 
-Kommunstyrelsen 2019-05-28, \$ 158
-Kommunstyrelsens arbetsutskott 2019-05-14, \$ 169
+Kommunstyrelsen 2019-05-28, § 158
+Kommunstyrelsens arbetsutskott 2019-05-14, § 169
 Samhällsbyggnadskontorets tjänsteskrivelse, 2019-04-16
 
 Exploateringsavtal för Banken 13
@@ -15752,7 +15752,7 @@ KS/2019:341 Kungsbacka
 LAGAKRAFTBEVIS
 
 Detaljplan för centrumutveckling och bostäder i kvarteret Banken i Kungsbacka stad har antagits
-av kommunfullmäktige 2019-06-11 \$85.
+av kommunfullmäktige 2019-06-11 §85.
 
 Detaljplanen KP132 har vunnit laga kraft 2019-07-15 enligt 13:e kapitlet plan- och bygglagen.
 

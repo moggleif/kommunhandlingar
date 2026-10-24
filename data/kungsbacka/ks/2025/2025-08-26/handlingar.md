@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3ed5df63198cae4d8001ca6/17557561150
 sha256: 571b817d95c973cbdfb60c52fca76352fbca9c17f0b1c2a7f897122f1513845d
 bytes: 276797708
 sidor: 387
-hamtad: 2026-10-15T09:13:43+00:00
-konverterad: 2026-10-15T09:24:01+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T08:56:35+00:00
+konverterad: 2026-10-24T09:04:32+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
@@ -3951,7 +3951,7 @@ har träffats följande
 
 RAMAVTAL
 
-\$1 BAKGRUND
+§1 BAKGRUND
 
 Kommunen är lagfaren ägare till fastigheterna Kolla 5:5, 5:6, 5:7 och 1:20, Aranäs är
 lagfaren ägare till fastigheten Kolla 3:64, JM är lagfaren ägare till fastigheten Kolla 5:13
@@ -4048,7 +4048,7 @@ Kommunen, Aranäs, JM och Eksta hanterar var för sig och tar ansvar för de eve
 skatteeffekter som kan uppstå vid genomförande av marköverföringarna enligt
 Överenskommelsen och Överenskommelse Kollaskolan.
 
-\$3 BYGGNATION
+§3 BYGGNATION
 
 Exploatörerna, förutom Eksta, och av Kommunen utsedda exploatörer för hyresrätterna
 skall inom Exploateringsområdet bygga ca 1100 bostäder för bostadsrätt,
@@ -4112,10 +4112,10 @@ omfattning och följd som behövs för att färdigställa området enligt tidpla
 området skall fungera för boende, verksamheter och besökare inom
 Exploateringsområdet.
 
-\$7 GEMENSAMT ANSVAR
+§7 GEMENSAMT ANSVAR
 
 Exploatörerna har ett gemensamt ansvar för att allmänna anläggningar m.m. byggs ut
-enligt \$\$ 4 och 6. Det gemensamma ansvaret innebär en förpliktelse för Exploatörerna
+enligt §§ 4 och 6. Det gemensamma ansvaret innebär en förpliktelse för Exploatörerna
 att bekosta sin respektive andel av allmänna anläggningar m.m. enligt
 Exploateringsavtalen i takt med utbyggnaden av Exploateringsområdet, detta oaktat om
 man själv bygger på sina respektive kvarter.
@@ -4154,7 +4154,7 @@ Om Kommunen inte kunnat anvisa hyresgäster till respektive kvarter inom tre må
 efter att broschyr med nödvändiga villkor föreligger för respektive kvarter äger
 exploatören för hyresrätterna rätt att själv utse hyresgäster.
 
-\$9 PARKERING
+§9 PARKERING
 
 För Exploateringsområdet gäller parkeringsnorm för bostäder och hantering av parkering
 vid bygglovsprövning enligt Planbeskrivningen till Detaljplanen, bilaga 6,
@@ -4216,7 +4216,7 @@ från försäljning av boendekort och parkeringsavgifter samt ta alla kostnader 
 underhåll och reinvesteringar.
 
 \- Kostnaden för anläggandet av de ytor som upplåtes med boendekort ingår i Allmänna
-anläggningar m.m. enligt \$ 4 och regleras i Exploateringsavtalen. Exploatörerna av
+anläggningar m.m. enligt § 4 och regleras i Exploateringsavtalen. Exploatörerna av
 hyresrätter skall dock bidra med en gatukostnadsersättning uppgående till 150 kronor per
 m2 BTA byggrätt för hyresrätt.
 
@@ -4251,7 +4251,7 @@ bostadskvarteren med hyresrätter. Exploatörerna skall efter behov bekosta övr
 utläggning av tomrör. Projektering och utläggning av tomrör skall så långt det är möjligt
 samordnas mellan samtliga exploatörer som är verksamma inom Exploateringsområdet
 
-\$ 11 AVFALLSHANTERING
+§ 11 AVFALLSHANTERING
 
 Bostäder skall utrustas för hushållsnära källsortering.
 
@@ -4263,7 +4263,7 @@ m.m.
 För övrigt gäller Kommuns Renhållningsordning beslutad av kommunfullmäktige i
 september 2004.
 
-\$ 12 ENERGIEFFEKTIVA HUS
+§ 12 ENERGIEFFEKTIVA HUS
 
 I planbeskrivningen står att målsättningen är att bygga så energisnåla hus som möjligt.
 Ett av Kungsbacka kommuns miljömål är att alla nybyggda bostäder inom planlagt
@@ -4313,7 +4313,7 @@ Exploatörerna har var och en inte, utan Kommunens skriftliga medgivande, rätt 
 
 Exploatörerna har var och en heller inte, utan Kommunens skriftliga medgivande, rätt att
 överlåta del av respektive Exploatörs exploateringsfastighet definierad enligt
-Överenskommelsen \$ 2.1 respektive Överenskommelse Kollaskolan \$ 2.1 på annan part.
+Överenskommelsen § 2.1 respektive Överenskommelse Kollaskolan § 2.1 på annan part.
 Medgivande krävs dock inte vid överlåtelse med syfte att skapa bostadsrätter,
 äganderätter för egnahem eller ägarlägenheter.
 
@@ -4323,7 +4323,7 @@ förpliktigad att förbinda den nya parten att följa i detta Ramavtal tillämpl
 och rättigheter gentemot Kommunen och Exploatörerna.
 
 Kommunen har, utan Exploatörernas skriftliga medgivande, rätt att överlåta hela eller del
-av Kommunfastigheten, definierad enligt Överenskommelsen \$ 2.1. Kommunen har
+av Kommunfastigheten, definierad enligt Överenskommelsen § 2.1. Kommunen har
 dock skyldighet att hålla Exploatörerna informerade om planerade överlåtelser innan
 formella beslut har fattats. Vid en överlåtelse av hela eller del av Kommunfastigheten
 står Kommunen kvar som part i detta Ramavtal. Kommunen är också förpliktigad att
@@ -4332,7 +4332,7 @@ gentemot Kommunen och Exploatörerna.
 
 Kungsbacka kommun, såsom ägare till Exploatörsfastigheten har inte, utan Aranäs, JM:s
 och Ekstas skriftliga medgivande, rätt att överlåta hela Exploatörsfastigheten definierad
-enligt Överenskommelsen \$ 2.1. Aranäs, JM och Eksta skall dock ge sitt skriftliga
+enligt Överenskommelsen § 2.1. Aranäs, JM och Eksta skall dock ge sitt skriftliga
 medgivande till överlåtelsen om inte synnerliga skäl finns att åberopa mot den nya
 parten. Vid en överlåtelse av hela Exploatörsfastigheten träder den nya parten in i detta
 Ramavtal istället för Kungsbacka kommun och övertar samtliga de skyldigheter och
@@ -4340,7 +4340,7 @@ rättigheter som Exploatören har enligt detta Ramavtal.
 
 Kungsbacka kommun, såsom ägare till Exploatörsfastigheten, har, utan Aranäs, JM:s och
 Ekstas skriftliga medgivande, rätt att överlåta del av Exploatörsfastigheten definierad
-enligt Överenskommelsen \$ 2.1. Kungsbacka kommun har dock skyldighet att hålla
+enligt Överenskommelsen § 2.1. Kungsbacka kommun har dock skyldighet att hålla
 Aranäs, JM och Eksta informerade om planerade överlåtelser innan formella beslut har
 fattats. Vid en överlåtelse av del av Exploatörsfastigheten står Kungsbacka kommun
 kvar som part i detta Ramavtal. Kungsbacka kommun är också förpliktigad att förbinda
@@ -4360,14 +4360,14 @@ Ramavtal Kommunen, JM, Aranäs, Exploatören, Eksta
 För det rätta fullgörandet av Aranäs skyldigheter enligt detta Ramavtal går Aranäs KB
 (organisationsnummer 969622-1440) i borgen såsom för egen skuld.
 
-\$ 17 nedan skall äga tillämpning på denna borgensförbindelse
+§ 17 nedan skall äga tillämpning på denna borgensförbindelse
 
 8 17 TVISTELÖSNING
 
 Tvist i anledning av detta Ramavtal skall avgöras genom skiljedom enligt
 Skiljedomsregler för Stockholms Handelskammares Skiljedomsinstitut
 
-\$ 18 GILTIGHET
+§ 18 GILTIGHET
 
 Detta Ramavtal är giltigt under förutsättning av
 
@@ -4418,7 +4418,7 @@ Kungsbacka den ä/ 2010
 
 U
 
-Borgensförbindelse enligt \$ 16 bekräftas härmed
+Borgensförbindelse enligt § 16 bekräftas härmed
 
 Kungsbacka som ovan
 

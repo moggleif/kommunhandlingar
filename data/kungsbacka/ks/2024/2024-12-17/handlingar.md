@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2eac78ea193953fe2805ee18/1733995582
 sha256: 1157adc986408bf1cb59c9ac9a04b556bc81eb667aeed5c20a8e4129a289e02f
 bytes: 193217824
 sidor: 528
-hamtad: 2026-10-15T08:18:49+00:00
-konverterad: 2026-10-15T08:26:34+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-24T08:17:32+00:00
+konverterad: 2026-10-24T08:23:20+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3741,7 +3741,7 @@ Kommunstyrelsen Datum
 
 2020-01-21
 
-\$9 Dnr 2019-00771
+§9 Dnr 2019-00771
 Principavtal för detaljplan för utveckling av Annebergs centrum
 
 Beslut
@@ -3779,7 +3779,7 @@ godkännas innan detaljplanen antas.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2020-01-13, \$ 19
+Kommunstyrelsens arbetsutskott 2020-01-13, § 19
 Samhällsbyggnadskontorets tjänsteskrivelse, 2019-12-16
 Principavtal, undertecknat av SW fastigheter KB 2019-12-09
 
@@ -15670,7 +15670,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 20 (38)
 Datum
 2014-05-06
-\$ 60 KS/2014:159
+§ 60 KS/2014:159
 
 Justerare
 
@@ -15698,9 +15698,9 @@ Beslutsunderlag
 Mål för bostadsbyggande 2014-2020 - Förslag kommunstyrelsens arbetsutskott,
 2014-04-08
 
-Kommunstyrelsens arbetsutskott, 2014-04-08, \$ 131
+Kommunstyrelsens arbetsutskott, 2014-04-08, § 131
 
-Kommunstyrelsen, 2014-04-15, \$ 104
+Kommunstyrelsen, 2014-04-15, § 104
 
 Anförande
 
@@ -15733,7 +15733,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 21 (38)
 Datum
 2014-05-06
-\$ 60 fortsätter KS/2014:159
+§ 60 fortsätter KS/2014:159
 
 Fredrik Hansson (C), Per Ödman (M), Larry Söder (KD), Stephan Philipsson (KB),
 Niklas Mattsson (KD), Inge Sundberg (MM), Ulf Persson (C), Peter Söderberg (M) och
@@ -15791,7 +15791,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 22 (38)
 Datum
 2014-05-06
-\$ 60 fortsätter KS/2014:159
+§ 60 fortsätter KS/2014:159
 
 Justerare
 
@@ -15850,7 +15850,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 23 (38)
 Datum
 2014-05-06
-\$ 60 fortsätter KS/2014:159
+§ 60 fortsätter KS/2014:159
 Voteringslista nr. 1
 Kungsbacka kommunfullmäktiges sammanträde den 6 maj 2014 klockan 22:13:28.
 
@@ -15917,7 +15917,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 24 (38)
 Datum
 2014-05-06
-\$ 60 fortsätter KS/2014:159
+§ 60 fortsätter KS/2014:159
 Emma Vildstrand (MP) Vk X
 Harri Lötjönen (MP) | Ök X
 Lars-Anders Lundberg (MP) | Ök X
@@ -15939,7 +15939,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 25 (38)
 Datum
 2014-05-06
-\$ 60 fortsätter KS/2014:159
+§ 60 fortsätter KS/2014:159
 Voteringslista nr. 2
 Kungsbacka kommunfullmäktiges sammanträde den 6 maj 2014 klockan 22:14:35.
 
@@ -16007,7 +16007,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 26 (38)
 Datum
 2014-05-06
-\$ 60 fortsätter KS/2014:159
+§ 60 fortsätter KS/2014:159
 Harri Lötjönen (MP) | Ök Xx
 Lars-Anders Lundberg (MP) | Ök X
 Conny Jexler (-) Vk Xx
@@ -16160,7 +16160,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 25 (55)
 Sammanträdesdatum
 2012-04-10
-\$ 89 KS08-00179/20
+§ 89 KS08-00179/20
 
 Antagande av Översiktsplan för vindkraft, tillägg till
 Kungsbacka översiktsplan
@@ -16170,7 +16170,7 @@ Beslut
 Föreliggande förslag, daterat januari 2012, till Översiktsplan för vindkraft, tillägg till
 Kungsbacka översiktsplan 2006 antas.
 
-Riktlinjer för etablering av vindkraftverk i Kungsbacka beslutade 1997-12-11 \$ 215
+Riktlinjer för etablering av vindkraftverk i Kungsbacka beslutade 1997-12-11 § 215
 upphävs.
 
 Kommunstyrelsen får i uppdrag att ta fram tillämpningar och anvisningar för
@@ -16206,8 +16206,8 @@ Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2012-01-16
 Kommunstyrelsens arbetsutskott 2012-01-24, 8 31 — Avstämning
-Kommunstyrelsens arbetsutskott 2012-03-13, \$ 72
-Kommunstyrelsen 2012-03-20, \$ 74
+Kommunstyrelsens arbetsutskott 2012-03-13, § 72
+Kommunstyrelsen 2012-03-20, § 74
 
 Paragrafen fortsätter
 
@@ -16221,7 +16221,7 @@ Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 26 (55)
 Sammanträdesdatum
 2012-04-10
 
-\$ 89 fortsättning KS08-00179/20
+§ 89 fortsättning KS08-00179/20
 
 Anförande
 
@@ -16420,7 +16420,7 @@ Sida 1 av1
 
 <!-- sida 366 -->
 
-KF \$ 89/12
+KF § 89/12
 
 fa t å
 
