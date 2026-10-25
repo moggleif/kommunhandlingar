@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.101af520195b23fbe32e160f/1743157162
 sha256: 8a8b775b5727689f5a4ea2e8f60007a7cf73006e73728abf92480387650d9609
 bytes: 213590772
 sidor: 799
-hamtad: 2026-10-16T07:54:29+00:00
-konverterad: 2026-10-16T08:05:49+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T07:18:47+00:00
+konverterad: 2026-10-25T07:30:00+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -10596,7 +10596,7 @@ mellan 2019-11-21 och 2019-12-21. Granskning genomfördes mellan 2020-11-03 och
 
 2020-12-03.
 
-Ett Samarbetsavtal (KS 2017-10-17, \$239), Samarbetsavtalet, har tecknats mellan
+Ett Samarbetsavtal (KS 2017-10-17, §239), Samarbetsavtalet, har tecknats mellan
 Parterna samt med Transportcentrum i Kungsbacka AB. Samarbetsavtalet föreskriver
 att ett Exploateringsavtal, Avtalet, ska upprättas innan Detaljplanen kan antas av
 Kommunfullmäktige. Parallellt med Avtalet tecknas också ett exploateringsavtal
@@ -10891,7 +10891,7 @@ Exploatören ansvarar för, att inom den egna kvartersmarken, anordna och bekost
 parkering för bil och cykel i den omfattning som krävs för att tillgodose de nya
 fastigheternas parkeringsbehov. Parkeringslösningen för varje fastighets behov ska
 redovisas vid ansökan om bygglov. Parkeringsstrategi för Kungsbacka Stad (KS/2017
-\$210) ligger till grund för bedömningen av parkeringsbehovet i bygglovshanteringen.
+§210) ligger till grund för bedömningen av parkeringsbehovet i bygglovshanteringen.
 
 Tillgänglig utemiljö
 
@@ -11726,8 +11726,8 @@ Kommunen har tagit fram förslag till Detaljplan. Förslaget har varit utställt
 mellan 2019-11-21 och 2019-12-21. Granskning genomfördes mellan 2020-11-03 och
 2020-12-03.
 
-Parterna har tecknat två tidigare avtal, Samarbetsavtal (KSau 2007-06-19, \$192) och
-Ändring och tillägg till samarbetsavtal (KS 2010-11-16, \$ 241). Syftet med avtalen är
+Parterna har tecknat två tidigare avtal, Samarbetsavtal (KSau 2007-06-19, §192) och
+Ändring och tillägg till samarbetsavtal (KS 2010-11-16, § 241). Syftet med avtalen är
 att reglera utvecklingen av Klovstensområdet till ett verksamhetsområde. Exploatören
 ska genom deponiverksamhet göra en utfyllnad av inerta massor och marken ska efter
 avslutad deponi ha kvalité att kunna planläggas som verksamhetsmark. Avtalen
@@ -11735,7 +11735,7 @@ reglerar också att Kommunen och Explotören gemensamt ska äga fastigheten Ysby
 1:12 med 7024 respektive 30946. I samband med planläggning av området ska
 fastighetsbildning av Ysby 1:12 ske genom klyvning.
 
-Ett Samarbetsavtal (KS 2017-10-17, \$239), Samarbetsavtalet, har tecknats mellan
+Ett Samarbetsavtal (KS 2017-10-17, §239), Samarbetsavtalet, har tecknats mellan
 Parterna samt med Balder i Kungsbacka AB. Samarbetsavtalet föreskriver att ett
 Exploateringsavtal, Avtalet, ska upprättas innan Detaljplanen kan antas av
 Kommunfullmäktige. Parallellt med Avtalet tecknas också ett exploateringsavtal
@@ -12016,7 +12016,7 @@ Exploatören ansvarar för, att inom den egna kvartersmarken, anordna och bekost
 parkering för bil och cykel i den omfattning som krävs för att tillgodose de nya
 fastigheternas parkeringsbehov. Parkeringslösningen för varje fastighets behov ska
 redovisas vid ansökan om bygglov. Parkeringsstrategi för Kungsbacka Stad (KS/2017
-\$210) ligger till grund för bedömningen av parkeringsbehovet i bygglovshanteringen.
+§210) ligger till grund för bedömningen av parkeringsbehovet i bygglovshanteringen.
 
 Tillgänglig utemiljö
 
@@ -13136,7 +13136,7 @@ KUNGSBACKA KOMMUN
 Kommunstyrelsen SAMMANTRÄDESPROTOKOLL 27 (463)
 Sammanträdesdatum
 2010-11-16
-\$ 241 KS10-00206/25
+§ 241 KS10-00206/25
 
 Förvärv av andel i Ysby 1:12 samt ändring och tillägg i
 samarbetsavtal med Transportcentrum i Kungsbacka AB
@@ -13193,12 +13193,12 @@ Sammanträdesdatum
 
 2010-11-16
 
-\$ 241 forts
+§ 241 forts
 
 Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2010-11-01
-Kommunstyrelsens arbetsutskott 2010-11-09, \$ 358
+Kommunstyrelsens arbetsutskott 2010-11-09, § 358
 
 Proposition
 Ordföranden ställer proposition på arbetsutskottets förslag och finner det bifallet.
@@ -13296,7 +13296,7 @@ lämplig tomtmark för verksamhetsändamål kan tillskapas.
 
 Detta avtal har upprättats i två exemplar, av vilka parterna tagit var sitt.
 
-Kungsbacka den..././.BL....2007 Kungsbacka den..Cd a....2007
+Kungsbacka den..././.BL....2007 Kungsbacka den..Cd a .... 2007
 För Trans j -
 
 Ovanstående namnteckningar bevittnas:
@@ -13308,7 +13308,7 @@ KUNGSBACKA KOMMUN
 Kommunstyrelsens arbetsutskott SAMMANTRÄDESPROTOKOLL 6 (16)
 Sammanträdescatum
 2007-06-19
-\$ 192 KS04-00242/25
+§ 192 KS04-00242/25
 
 Samarbetsavtal med Kungsbacka Lastbilcentral, område vid
 Klovsten
@@ -20471,12 +20471,12 @@ kommun
 Beskrivning av ärendet
 
 Detaljplanen har överlämnats till Länsstyrelsen för granskning i enlighet
-med 5 kap. 20 \$ plan- och bygglagen (2010:900), PBL. Detaljplanen
+med 5 kap. 20 § plan- och bygglagen (2010:900), PBL. Detaljplanen
 handläggs med utökat förfarande.
 
-Enligt 5 kap. 22 \$ PBL ska Länsstyrelsen under granskningstiden yttra
+Enligt 5 kap. 22 § PBL ska Länsstyrelsen under granskningstiden yttra
 sig över planförslaget, om planförslaget enligt Länsstyrelsens
-bedömning innebär att någon av överprövningsgrunderna i 11 kap. 10 \$
+bedömning innebär att någon av överprövningsgrunderna i 11 kap. 10 §
 PBL inte följs eller tillgodoses.
 
 Länsstyrelsen har lämnat granskningsyttrande 2020-12-08 i ärende 402-
@@ -20498,8 +20498,8 @@ via väg 158.
 Aktualitet och överensstämmelse med översiktsplanen
 
 Länsstyrelsen bedömer att kommunens översiktsplan är aktuell enligt 5
-kap. 7 \$ PBL och att detaljplaneförslaget överensstämmer med
-översiktsplanen enligt 4 kap. 33\$ p.5 PBL.
+kap. 7 § PBL och att detaljplaneförslaget överensstämmer med
+översiktsplanen enligt 4 kap. 33§ p.5 PBL.
 
 Postadress:301 86 Halmstad Telefon: 010-224 30 00 E-post: hallandQQlansstyrelsen.se Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
@@ -20547,7 +20547,7 @@ delarna av planområdet. Se vidare yttrande från SGI 2023-06-15.
 Att bestämma att startbesked inte får ges för byggnader förrän
 bergstekniska åtgärder har kommit till stånd, är därmed inte lämpligt av
 ovanstående skäl och att detta är förenat med villkor i startbesked.
-Villkor enligt 4 kap 14 \$ p 4 PBL avser åtgärder på tomtmark i
+Villkor enligt 4 kap 14 § p 4 PBL avser åtgärder på tomtmark i
 genomförandet av planen. I förarbeten Prop 2013/14:126 s 194 till
 bestämmelsen framgår att ”Statens geotekniska institut menar att det inte
 är lämpligt att bedöma skyddsåtgärder i olika bygglov eftersom riskerna
@@ -20657,11 +20657,11 @@ Klovsten inom Ysby 1:12 m fl, Kungsbacka kommun
 Beskrivning av ärendet
 
 Detaljplanen har överlämnats till Länsstyrelsen för granskning i enlighet
-med 5 kap. 20 \$ plan- och bygglagen (2010:900), PBL. Detaljplanen
-handläggs med utökat förfarande. Enligt 5 kap. 22 \$ PBL ska
+med 5 kap. 20 § plan- och bygglagen (2010:900), PBL. Detaljplanen
+handläggs med utökat förfarande. Enligt 5 kap. 22 § PBL ska
 Länsstyrelsen under granskningstiden yttra sig över planförslaget, om
 planförslaget enligt Länsstyrelsens bedömning innebär att någon av
-överprövningsgrunderna i 11 kap. 10 \$ PBL inte följs eller tillgodoses.
+överprövningsgrunderna i 11 kap. 10 § PBL inte följs eller tillgodoses.
 
 Länsstyrelsen har lämnat granskningsyttrande 2020-12-08 i ärende 402-
 8151-2020 samt 2023-07-07 i ärende 402-3207-2023.
@@ -20682,8 +20682,8 @@ via väg 158.
 Aktualitet och överensstämmelse med översiktsplanen
 Länsstyrelsen bedömer att kommunens översiktsplan är aktuell enligt 5
 
-kap. 7 \$ PBL och att detaljplaneförslaget överensstämmer med
-översiktsplanen enligt 4 kap. 33\$ p.5 PBL.
+kap. 7 § PBL och att detaljplaneförslaget överensstämmer med
+översiktsplanen enligt 4 kap. 33§ p.5 PBL.
 
 Länsstyrelsens synpunkter - prövningsgrunder enligt 11
 kap. 10 & PBL
@@ -20928,11 +20928,11 @@ Klovsten inom Ysby 1:12 m fl, Kungsbacka kommun
 Beskrivning av ärendet
 
 Detaljplanen har överlämnats till Länsstyrelsen för granskning i enlighet
-med 5 kap. 20 \$ plan- och bygglagen (2010:900), PBL. Detaljplanen
-handläggs med utökat förfarande. Enligt 5 kap. 22 \$ PBL ska
+med 5 kap. 20 § plan- och bygglagen (2010:900), PBL. Detaljplanen
+handläggs med utökat förfarande. Enligt 5 kap. 22 § PBL ska
 Länsstyrelsen under granskningstiden yttra sig över planförslaget, om
 planförslaget enligt Länsstyrelsens bedömning innebär att någon av
-överprövningsgrunderna i 11 kap. 10 \$ PBL inte följs eller tillgodoses.
+överprövningsgrunderna i 11 kap. 10 § PBL inte följs eller tillgodoses.
 
 Länsstyrelsen har lämnat granskningsyttrande 2020-12-08 i ärende 402-
 8151-2020 samt 2023-07-07 i ärende 402-3207-2023.
@@ -20953,8 +20953,8 @@ via väg 158.
 Aktualitet och överensstämmelse med översiktsplanen
 Länsstyrelsen bedömer att kommunens översiktsplan är aktuell enligt 5
 
-kap. 7 \$ PBL och att detaljplaneförslaget överensstämmer med
-översiktsplanen enligt 4 kap. 33\$ p.5 PBL.
+kap. 7 § PBL och att detaljplaneförslaget överensstämmer med
+översiktsplanen enligt 4 kap. 33§ p.5 PBL.
 
 Länsstyrelsens synpunkter - prövningsgrunder enligt 11
 kap. 10 8 PBL
@@ -21042,12 +21042,12 @@ kommun
 Beskrivning av ärendet
 
 Detaljplanen har överlämnats till Länsstyrelsen för granskning i enlighet
-med 5 kap. 20 \$ plan- och bygglagen (2010:900), PBL. Detaljplanen
+med 5 kap. 20 § plan- och bygglagen (2010:900), PBL. Detaljplanen
 handläggs med utökat förfarande.
 
-Enligt 5 kap. 22 \$ PBL ska Länsstyrelsen under granskningstiden yttra
+Enligt 5 kap. 22 § PBL ska Länsstyrelsen under granskningstiden yttra
 sig över planförslaget, om planförslaget enligt Länsstyrelsens
-bedömning innebär att någon av överprövningsgrunderna i 11 kap. 10 \$
+bedömning innebär att någon av överprövningsgrunderna i 11 kap. 10 §
 PBL inte följs eller tillgodoses.
 
 Länsstyrelsen har lämnat granskningsyttrande 2020-12-08 i ärende 402-
@@ -21069,8 +21069,8 @@ via väg 158.
 Aktualitet och överensstämmelse med översiktsplanen
 
 Länsstyrelsen bedömer att kommunens översiktsplan är aktuell enligt 5
-kap. 7 \$ PBL och att detaljplaneförslaget överensstämmer med
-översiktsplanen enligt 4 kap. 33\$ p.5 PBL.
+kap. 7 § PBL och att detaljplaneförslaget överensstämmer med
+översiktsplanen enligt 4 kap. 33§ p.5 PBL.
 
 Postadress:301 86 Halmstad Telefon: 010-224 30 00 E-post: hallandQQlansstyrelsen.se Webb: lansstyrelsen.se/halland
 www.lansstyrelsen.se/halland/personuppgifter
@@ -21118,7 +21118,7 @@ delarna av planområdet. Se vidare yttrande från SGI 2023-06-15.
 Att bestämma att startbesked inte får ges för byggnader förrän
 bergstekniska åtgärder har kommit till stånd, är därmed inte lämpligt av
 ovanstående skäl och att detta är förenat med villkor i startbesked.
-Villkor enligt 4 kap 14 \$ p 4 PBL avser åtgärder på tomtmark i
+Villkor enligt 4 kap 14 § p 4 PBL avser åtgärder på tomtmark i
 genomförandet av planen. I förarbeten Prop 2013/14:126 s 194 till
 bestämmelsen framgår att ”Statens geotekniska institut menar att det inte
 är lämpligt att bedöma skyddsåtgärder i olika bygglov eftersom riskerna
@@ -21218,7 +21218,7 @@ Kommunstyrelsen Datum
 
 2018-06-19
 
-\$ 162
+§ 162
 
 Planprogram för verksamheter i Klovsten
 Dnr KS/2017:322
@@ -21262,7 +21262,7 @@ av Klovstenområdet.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott, 2018-06-12, \$ 245 Förslag: Kommunstyrelsen
+Kommunstyrelsens arbetsutskott, 2018-06-12, § 245 Förslag: Kommunstyrelsen
 beslutar att godkänna Planprogram för verksamheter i Klovsten, daterad december
 2017 och att programmet ska ligga till grund för kommande planläggning av
 Klovstenområdet.
@@ -21283,7 +21283,7 @@ Kommunstyrelsen hemställer till byggnadsnämnden att utarbeta förslag till
 detaljplan för verksamheter i Klovsten för det norra området, etapp 1, i enlighet med
 kommunstyrelsens direktiv.
 
-Kommunstyrelsens arbetsutskott, 2018-06-05, \$ 240, Beslut: Kommunstyrelsens
+Kommunstyrelsens arbetsutskott, 2018-06-05, § 240, Beslut: Kommunstyrelsens
 arbetsutskott återremitterar ärendet för förtydligande av vilka revideringar som
 tillkommit till planprogrammet daterat december 2017.
 

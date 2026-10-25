@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.39e904a19684f673c12eb1d/17461794278
 sha256: 28bfe7ebb6a6bc69bc622c358d2c02b97ebc661b4b0e80a5843806d3e17bbc86
 bytes: 21521226
 sidor: 140
-hamtad: 2026-10-16T08:10:20+00:00
-konverterad: 2026-10-16T08:14:42+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T07:34:24+00:00
+konverterad: 2026-10-25T07:39:05+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, tabell-osaker, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok]
@@ -203,7 +203,7 @@ A. - BAKGRUND OCH FÖRUTSÄTTNINGAR
 
 1\. Uppdrag, politiska beslut m.m.
 
-1.1 - Byggnadsnämnden beslutade 2016-06-15 \$ 179 att en detaljplan för
+1.1 - Byggnadsnämnden beslutade 2016-06-15 § 179 att en detaljplan för
 verksamhetsområde inom Varla 3:22 med tillägg av Varla 3:34 samt del av Varla
 2:198 ska upprättas.
 
@@ -780,7 +780,7 @@ inom Exploateringsområdet.
 för och bekostar de åtgärder som krävs.
 
 [44 Startbesked får inte ges för ny-och tillbyggnation förrän bergsblock (markerat i
-rött), enligt PBL 4 kap, 14 \$, 4 p, har säkrats och godkänts av sakkunnig
+rött), enligt PBL 4 kap, 14 §, 4 p, har säkrats och godkänts av sakkunnig
 bergtekniker.
 
 21.3 Kommunen ansvarar för de tillkommande geotekniska utredningar och

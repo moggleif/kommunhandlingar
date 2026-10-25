@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3e23932418fe7cfbe7d6388/17179546418
 sha256: 98ab1c6ae726d4305d9cb6bb4473a78213343b5d4c8c47c25fb4d510abcb70d0
 bytes: 86338874
 sidor: 231
-hamtad: 2026-10-16T06:51:35+00:00
-konverterad: 2026-10-16T06:54:53+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T06:18:59+00:00
+konverterad: 2026-10-25T06:22:06+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok]
@@ -865,7 +865,7 @@ Anvisningar till redovisning av kommunalt partistöd
 
 Inledning
 
-Enligt kommunallagens 4 kapitel 29-32 \$\$ får kommuner ge ekonomiskt bidrag och annat stöd till politiska
+Enligt kommunallagens 4 kapitel 29-32 §§ får kommuner ge ekonomiskt bidrag och annat stöd till politiska
 partier för att stärka deras ställning i den kommunala demokratin, så kallat kommunalt partistöd. De partier som
 beviljas partistöd ska årligen lämna en skriftlig redovisning som visar att partistödet har använts till detta
 ändamål.
@@ -2007,7 +2007,7 @@ MBL med anledning av behov att tillämpa avvikelse för
 arbetstidsförläggning inom personlig assistans vid resor och för
 läger- och korttidsverksamheten.
 
-\$ 2 Arbetsgivaren har, utifrån de skärpta reglerna för
+§ 2 Arbetsgivaren har, utifrån de skärpta reglerna för
 arbetstidsförläggning enligt Allmänna Bestämmelser, AB, och
 Bilaga J, identifierat ett behov av att tillämpa avvikelse genom
 att schemalägga arbetspass på upp till 24 timmar.
@@ -2052,9 +2052,9 @@ och personalens arbetsmiljö.
 Uppföljning sker på APT och i lokal samverkansgrupp, LSG,
 där uppföljning läggs in som en stående punkt.
 
-\$ 3 Arbetstagarparten förklarar sig enig med arbetsgivaren.
+§ 3 Arbetstagarparten förklarar sig enig med arbetsgivaren.
 
-\$ 4 Förhandlingen förklarades avslutad vid dagen datum.
+§ 4 Förhandlingen förklarades avslutad vid dagen datum.
 
 Justeras den 2024-05-15
 

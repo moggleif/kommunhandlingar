@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.28437bed1a0422e77ad4b7/178781796622
 sha256: 12db1436c0c686a49e5e3a8c49118f52ceffd30e1f7edd9ab3b66ff5b7f9fa55
 bytes: 4397264
 sidor: 23
-hamtad: 2026-10-16T10:17:03+00:00
-konverterad: 2026-10-16T10:17:27+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T09:50:17+00:00
+konverterad: 2026-10-25T09:50:42+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ej-konverterad, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ej-konverterad]
@@ -816,10 +816,10 @@ Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2014-02-12
 
-Kommunstyrelsens arbetsutskott, 2014-02-25, \$ 56; ärendet bordläggs till nästa
+Kommunstyrelsens arbetsutskott, 2014-02-25, § 56; ärendet bordläggs till nästa
 sammanträde
 
-Kommunstyrelsens arbetsutskott, 2013-03-04, \$ 70
+Kommunstyrelsens arbetsutskott, 2013-03-04, § 70
 
 Proposition
 Ordföranden ställer proposition på arbetsutskottets förslag och finner det bifallet,

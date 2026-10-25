@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7607344a19d24be2a5e1ffb6/1774531066
 sha256: 4403e9224b26a4d2b9af1415f0889948e3b4950704e0b59df7f8d6fc5ff1ecdb
 bytes: 19233767
 sidor: 386
-hamtad: 2026-10-16T09:43:59+00:00
-konverterad: 2026-10-16T09:48:01+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T09:14:19+00:00
+konverterad: 2026-10-25T09:18:25+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad]
@@ -9911,7 +9911,7 @@ medför. Effekten definieras som den störning i miljön som uppstår av den fö
 effekten kan vara betydande, måttlig eller liten. Om ingen effekt uppstår blir det inga
 konsekvenser.
 
-I första hand används de kriterier som finns i 5 \$ i miljöbedömningsförordningen som ska
+I första hand används de kriterier som finns i 5 § i miljöbedömningsförordningen som ska
 användas i undersökningen för att identifiera omständigheter som talar för eller emot en
 betydande miljöpåverkan.
 
@@ -13982,7 +13982,7 @@ BAKGRUND OCH FÖRUTSÄTTNINGAR
 Uppdrag, politiska beslut m.m.
 
 Kommunstyrelsen godkände planprogram för utveckling av Annebergs centrum
-2016-02-23 \$28 samt gav byggnadsnämnden i uppdrag att upprätta förslag till
+2016-02-23 §28 samt gav byggnadsnämnden i uppdrag att upprätta förslag till
 detaljplan för utbyggnad av Annebergs centrum, Detaljplanen, i enlighet med
 godkänt planprogram daterat juni 2015.
 
@@ -14679,7 +14679,7 @@ Kungsbacka kommun, Samhällsbyggnadskontoret, planavdelning, nedan kallad
 Planavdelningen.
 
 Detaljplaneprocessen utgår ifrån beslut i Byggnadsnämndens arbetsutskott
-2016-12-20 \$ 551.
+2016-12-20 § 551.
 
 Följande utförs av Planavdelningen i samråd med Beställaren
 
@@ -14964,7 +14964,7 @@ Kommunstyrelsen Datum
 
 2020-05-26
 
-\$ 116 Dnr 2017-00207
+§ 116 Dnr 2017-00207
 
 Markanvisning i Annebergs centrum för del av Alafors 2:16 och Alafors
 3:3
@@ -14999,7 +14999,7 @@ avseende del av Alafors 2:16 och Alafors 3:3.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2020-05-12, \$ 144
+Kommunstyrelsens arbetsutskott 2020-05-12, § 144
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2020-04-09
 
@@ -15982,7 +15982,7 @@ fastighetsbildningsbeslut enligt punkt 6 vunnit laga kraft.
 
 Ersättningen inbetalas på Kommunens bankgirokonto nummer 426-4610, märk
 inbetalningen med ansvar 9904 och Åsa 5:156. Om betalning sker därefter
-betalas ränta enligt 6 \$ räntelagen från sista betalningsdag tills betalning sker.
+betalas ränta enligt 6 § räntelagen från sista betalningsdag tills betalning sker.
 
 Lantmäteriförrättning
 

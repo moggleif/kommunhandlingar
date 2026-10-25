@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2177669a191e4fcbfb55e591/1726219009
 sha256: 0da36c4af56bcb801051e59c27c31d2cfaf46bb516d60bf677fd5ddae54c1b3f
 bytes: 39422820
 sidor: 90
-hamtad: 2026-10-16T07:06:24+00:00
-konverterad: 2026-10-16T07:08:55+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T06:34:34+00:00
+konverterad: 2026-10-25T06:36:55+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok]
@@ -1121,7 +1121,7 @@ Kommunen och Köparen kallas nedan gemensamt för Parterna.
 2\. BAKGRUND OCH FÖRUTSÄTTNINGAR
 
 Kommunen sålde genom beslut i kommunstyrelsens arbetsutskott 2022-01-11
-(KS/2021:682, \$13) fastigheten Duvehed 2:56 till, fastighetsbolaget Kivi-Tex Properties
+(KS/2021:682, §13) fastigheten Duvehed 2:56 till, fastighetsbolaget Kivi-Tex Properties
 Sweden AB (namnändrat till Fastighets AB Kungsbacka Duvehed 2:56). På fastigheten
 inom, Duveheds verksamhetsområde, kommer systerbolaget Textilia Tvätt & Textilservice
 AB, som är ett företag inom tvätteribranschen, att bedriva en del av sin verksamhet i en ny
@@ -1192,7 +1192,7 @@ Kommunen och Köparen kallas nedan gemensamt för Parterna.
 
 2\. BAKGRUND OCH FÖRUTSÄTTNINGAR
 
-Kommunen sålde genom beslut i kommunstyrelsens arbetsutskott 2022-01-11 (KS/2021:682, \$13)
+Kommunen sålde genom beslut i kommunstyrelsens arbetsutskott 2022-01-11 (KS/2021:682, §13)
 fastigheten Duvehed 2:56 till, fastighetsbolaget Kivi-Tex Properties Sweden AB (namnändrat till
 Fastighets AB Kungsbacka Duvehed 2:56). På fastigheten inom Duveheds verksamhetsområde
 kommer systerbolaget Textilia Tvätt & Textilservice AB, som är ett företag inom tvätteribranschen,
@@ -1237,7 +1237,7 @@ Kommunstyrelsens arbetsutskott Datum
 
 2023-04-04
 
-\$ 93 Dnr 2021-00682
+§ 93 Dnr 2021-00682
 
 Godkännande av tilläggsavtal till köpeavtal avseende försäljning av
 Duvehed 2:56, Duvehed verksamhetsområde
@@ -1255,7 +1255,7 @@ nödvändiga handlingar för avtalets genomförande.
 
 Upplysning
 Beslut fattat med stöd av delegering. Kommunstyrelsens delegeringsförteckning:
-punkt 2.4.13 2022-01-24, \$ 7.
+punkt 2.4.13 2022-01-24, § 7.
 
 Sammanfattning av ärendet
 
@@ -1288,7 +1288,7 @@ plank, 2022-10-11,
 
 Undertecknat köpeavtal inkl. bilagor, 2022-01-25
 
-Kommunstyrelsens arbetsutskott, 2022-01-11, \$ 13
+Kommunstyrelsens arbetsutskott, 2022-01-11, § 13
 
 Översiktskarta Duvehed
 
@@ -2440,7 +2440,7 @@ nödvändiga handlingar.
 
 Upplysning
 Beslut fattat med stöd av delegering. Kommunstyrelsens delegeringsförteckning:
-punkt 3.4.10, 2020-12-15, \$ 294.
+punkt 3.4.10, 2020-12-15, § 294.
 
 Sammanfattning av ärendet
 

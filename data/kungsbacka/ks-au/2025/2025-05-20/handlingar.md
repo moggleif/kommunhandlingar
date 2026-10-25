@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.68abbcdf196d3cd895e1255b/1747395300
 sha256: eedaa1ee0abb41010c04f63871a71823f22adde6188459228106b5c15de8e829
 bytes: 14733305
 sidor: 123
-hamtad: 2026-10-16T08:16:00+00:00
-konverterad: 2026-10-16T08:16:41+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T07:40:18+00:00
+konverterad: 2026-10-25T07:40:55+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ocr, ocr]
@@ -2075,7 +2075,7 @@ MBL med anledning av behov att tillämpa avvikelse för
 arbetstidsförläggning inom bostad med särskild service (BmMSS)
 vid resor och annan utflyttad verksamhet.
 
-\$ 2 Arbetsgivaren har, utifrån de skärpta reglerna för
+§ 2 Arbetsgivaren har, utifrån de skärpta reglerna för
 arbetstidsförläggning enligt Allmänna Bestämmelser, AB, och
 Bilaga J, identifierat ett behov av att tillämpa avvikelse genom
 att schemalägga arbetspass på upp till 24 timmar inom bostad

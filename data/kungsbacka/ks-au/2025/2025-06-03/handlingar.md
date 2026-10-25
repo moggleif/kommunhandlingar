@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.bbad0dc197168355755c5db/17486174142
 sha256: 9cfe3f44adc4e701e73949be692e525aca91fffbfa0438e02fd5aaf3f9278c0a
 bytes: 105283822
 sidor: 255
-hamtad: 2026-10-16T08:16:41+00:00
-konverterad: 2026-10-16T08:20:29+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T07:40:55+00:00
+konverterad: 2026-10-25T07:44:05+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
@@ -4450,7 +4450,7 @@ Erlånd Andersson
 
 Datum
 
-2025-05 -0\$
+2025-05 -0§
 
 Granskningsrapport
 Alternativ 2 (använd antingen alternativ 1 eller 2)
@@ -4801,7 +4801,7 @@ Anvisningar till redovisning av kommunalt partistöd
 
 Inledning
 
-Enligt kommunallagens 4 kapitel 29-32 \$\$ får kommuner ge ekonomiskt bidrag och annat stöd till politiska
+Enligt kommunallagens 4 kapitel 29-32 §§ får kommuner ge ekonomiskt bidrag och annat stöd till politiska
 partier för att stärka deras ställning i den kommunala demokratin, så kallat kommunalt partistöd. De partier som
 beviljas partistöd ska årligen lämna en skriftlig redovisning som visar att partistödet har använts till detta
 ändamål.
@@ -5159,7 +5159,7 @@ Telef
 
 Datum
 
-202\$5-03,06G
+202§5-03,06G
 
 Granskningsrapport
 

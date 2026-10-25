@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.70d00e119a55206bf517d18/17625025694
 sha256: de98dfc821e6e14c025d8f8b96fd9538f9aed65012dcd92a3135ea6e5b44ab8f
 bytes: 110481280
 sidor: 562
-hamtad: 2026-10-16T09:03:45+00:00
-konverterad: 2026-10-16T09:12:57+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T08:30:33+00:00
+konverterad: 2026-10-25T08:39:57+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ej-konverterad, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ocr, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -321,12 +321,12 @@ Kungsbacka kommun
 
 Budget Budget Plan Plan
 Koncernens investeringsplan, mkr 2025 2026 2027 2028
-Kommunbudget 2026, KF 2025-06-16, \$114 1291 1472 2377 2264
+Kommunbudget 2026, KF 2025-06-16, §114 1291 1472 2377 2264
 Eksta Bostads AB 200 200 350 300
 Summa investeringar årligen 1491 1672 2727 2564
 Summa investeringar perioden 8454
 Koncernens nyupplåningsbehov, mkr
-Kommunbudget 2026, KF 2025-06-16, \$114 200 350 1200 900
+Kommunbudget 2026, KF 2025-06-16, §114 200 350 1200 900
 Eksta Bostads AB 0 0 100 100
 Summa lånebehov årligen 200 350 1300 1000
 Summa lånebehov perioden 2 850
@@ -2541,7 +2541,7 @@ Förskola inkl. Fritidshem inkl Grundskola F-9 Gymnasieskola Individ & LSS Äldr
 öppen förskola öppen Familjeomsorg
 fritidsverksamhet
 
-H2022 \$2023 M2024
+H2022 §2023 M2024
 
 Diagram: Om stapeln är över nollstrecket är det en indikation på högt kostnadsläge på grund av hög ambitionsnivå och/
 eller låg effektivitet. På motsvarande sätt visar resultat under noll på lägre kostnadsläge på grund av lägre ambitions-
@@ -13403,7 +13403,7 @@ bygglagen (PBL 2010:900)
 Synpunkter på sådant som kan aktualisera prövning
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap
-10 \$ PBL och nu kända förhållanden att ett antagande av en detaljplan
+10 § PBL och nu kända förhållanden att ett antagande av en detaljplan
 enligt förslaget kan komma att prövas.
 
 Motiv för bedömningen
@@ -13847,7 +13847,7 @@ Miljö- och byggnadsnämnden i Mörbylånga kommun beslutade den 23 mars
 2017 att anta en detaljplan för fastigheten Mörbylånga 11:54 samt del av
 fastigheten 11:27, Norra Viken, i kommunen.
 
-Länsstyrelsen i Kalmar län fattade den 14 juli 2017, med stöd av 11 kap. 11 \$
+Länsstyrelsen i Kalmar län fattade den 14 juli 2017, med stöd av 11 kap. 11 §
 plan- och bygglagen (2010:900), det beslut som framgår av bilagan.
 
 Miljö- och byggnadsnämnden i Mörbylånga kommun har överklagat
@@ -13915,7 +13915,7 @@ Skälen för regeringens beslut
 Länsstyrelsen ska upphäva en kommuns beslut att anta, ändra eller upphäva
 en detaljplan bl.a. om en bebyggelse blir olämplig med hänsyn till
 människors hälsa eller säkerhet eller till risken för olyckor, översvämning
-eller erosion (11 kap. 10 \$ andra stycket 5 och 11 \$ plan- och bygglagen).
+eller erosion (11 kap. 10 § andra stycket 5 och 11 § plan- och bygglagen).
 
 Av handlingarna i ärendet framgår att det område som den aktuella
 detaljplanen avser har en förhöjd risk för översvämning. Vidare framgår att
@@ -13941,7 +13941,7 @@ möta risken för översvämning.
 
 Regeringen finner med hänsyn till vad som ovan har anförts, och mot
 bakgrund av vad Boverket och MSB har framfört, att länsstyrelsen har haft
-fog för att med stöd av 11 kap. 11 \$ plan och bygglagen upphäva miljö- och
+fog för att med stöd av 11 kap. 11 § plan och bygglagen upphäva miljö- och
 byggnadsnämndens beslut om att anta detaljplanen.
 
 <!-- sida 333 -->
@@ -13981,15 +13981,15 @@ detaljplan för Mörbylånga 11:54 samt del av 11:27, Norra Viken i Mörbylånga
 kommun
 
 Länsstyrelsens beslut
-Länsstyrelsen beslutar med stöd av 11 kap. 11 \$ plan- och bygglagen (2010:900 PBL) att
+Länsstyrelsen beslutar med stöd av 11 kap. 11 § plan- och bygglagen (2010:900 PBL) att
 
 upphäva miljö- och byggnadsnämndens beslut att anta detaljplan för Mörbylånga 11:54 samt
 del av 11:27, Norra Viken i Mörbylånga kommun därför att genomförandet av planen strider
-mot bestämmelserna i 11 kap. 10 \$ punkt 5 plan- och bygglagen (2010:900 PBL).
+mot bestämmelserna i 11 kap. 10 § punkt 5 plan- och bygglagen (2010:900 PBL).
 
 Överprövat beslut
 
-Det överprövade beslutet är miljö- och byggnadsnämndens beslut (\$ 37), den 23 mars 2017 att
+Det överprövade beslutet är miljö- och byggnadsnämndens beslut (§ 37), den 23 mars 2017 att
 anta detaljplan för Mörbylånga 11:54 samt del av 11:27, Norra Viken i Mörbylånga kommun.
 Syftet med detaljplanen är att möjliggöra en utveckling av Mörbylånga tätort. Utvecklingen ska
 ske så att utbudet av boendeformer varieras.
@@ -14029,7 +14029,7 @@ Pl Länsstyrelsen BESLUT 2 (2)
 Kalmar län 2017-07-14 404-2686-17
 
 Länsstyrelsen anser därför att det finns skäl att anta att bebyggelsen bli olämplig med hänsyn
-till hälsa och säkerhet och upphäver därför detaljplanen enligt 11 kap. 10 \$ PBL (2010:900).
+till hälsa och säkerhet och upphäver därför detaljplanen enligt 11 kap. 10 § PBL (2010:900).
 
 Deltagande
 Beslutet har fattats av landshövding Thomas Carlzon efter föredragning av planhandläggare
@@ -14123,7 +14123,7 @@ Kommunfullmäktige i Kristianstads kommun beslutade den 20 september
 kommunen.
 
 Länsstyrelsen i Skåne län beslutade den 14 december 2017, med stöd av
-11 kap. 11 \$ plan- och bygglagen (2010:900), förkortad PBL, att upphäva
+11 kap. 11 § plan- och bygglagen (2010:900), förkortad PBL, att upphäva
 
 kommunens beslut, se bilaga 2.
 
@@ -14180,7 +14180,7 @@ beslutet.
 Länsstyrelsen ska upphäva en kommuns beslut att anta, ändra eller upphäva
 en detaljplan bl.a. om en bebyggelse blir olämplig med hänsyn till
 människors hälsa eller säkerhet eller till risken för olyckor, översvämning
-eller erosion (11 kap. 10 \$ andra stycket 5 och 11 kap. 11 \$ PBL).
+eller erosion (11 kap. 10 § andra stycket 5 och 11 kap. 11 § PBL).
 
 Av handlingarna i ärendet framgår att området som den aktuella detaljplanen
 avser har en förhöjd risk för översvämning. Vidare framgår att kommunen
@@ -14201,7 +14201,7 @@ möta risken för översvämning.
 
 Regeringen finner med hänsyn till vad som ovan angivits, och mot bakgrund
 av vad Boverket och MSB har anfört, att länsstyrelsen har haft fog för att
-med stöd av 11 kap. 11 \$ PBL upphäva kommunfullmäktiges beslut att anta
+med stöd av 11 kap. 11 § PBL upphäva kommunfullmäktiges beslut att anta
 detaljplanen. Vad kommunen, Walter Larsson och Bengt Åkesson har
 anfört, om bl.a. ställningstaganden i andra ärenden, föranleder ingen annan
 
@@ -14264,7 +14264,7 @@ Yngsjö 3:154 utmed Björkstigen i Åhus, Kristianstads kommun
 Länsstyrelsens beslut
 
 Länsstyrelsen upphäver i enlighet med 11 kap 11 8 plan- och bygglagen (PBL
-2010:900) kommunens beslut, den 20 september 2017 \$ 189, att anta detaljplan för
+2010:900) kommunens beslut, den 20 september 2017 § 189, att anta detaljplan för
 Yngsjö 3:36 och Yngsjö 3:154 utmed Björkstigen i Åhus, Kristianstads kommun.
 
 Redogörelse för ärendet
@@ -14641,7 +14641,7 @@ dagvattenlösningen ej säkerställa en god dagvattenhantering.
 Länsstyrelsen bedömning är att marken inte är lämplig för bebyggelse gällande
 översvämning så som detaljplanen är utformad då den inte säkerställer en god
 
-hantering av dagvatten enligt 2 kap 5 \$ PBL.
+hantering av dagvatten enligt 2 kap 5 § PBL.
 
 Extremnederbörd
 
@@ -14682,7 +14682,7 @@ etc.
 
 Länsstyrelsen bedömning är att marken inte är lämplig för bebyggelse gällande
 översvämning så som detaljplanen är utformad då den inte säkerställer en god
-hantering av extremnederbörd enligt 2 kap 5 \$ PBL.
+hantering av extremnederbörd enligt 2 kap 5 § PBL.
 
 Hälsa och säkerhet
 Då den skyddande sandbanken kan förväntas erodera bort i framtiden blir
@@ -15456,7 +15456,7 @@ Verkmästaren 6 m fl. Beslutsdatum Instans
 i; Samråd
 x UNI Da 5029-0317 |BN890
 ungSpacka Kommun Granskning
-Kungsbacka | 2025-04-24 | BN \$82
+Kungsbacka | 2025-04-24 | BN §82
 \- es Antagande
 Upprättad 2025-09-16, reviderad 2025-10-08 2025-12-44 | KF
 Laga kraft
@@ -20477,7 +20477,7 @@ SINTORP
 "TA:
 — — ———
 
-tt tt tt tt tt o.2\$+tod
+tt tt tt tt tt o.2§+tod
 \+ AE tt bt Ft bt tb bt tb td
 
 ta + tft tt tft + VA ot + At
@@ -22976,7 +22976,7 @@ om detta.
 Anläggningsavgift ska beräknas enligt taxa som gäller vid den tidpunkt när
 avgiftsskyldighet inträder.
 
-3\. Anläggningsavgifter (\$\$ 5—12)
+3\. Anläggningsavgifter (§§ 5—12)
 Avgifter för allmänna vattentjänster är belagda med lagstadgad mervärdesskatt.
 &5
 
@@ -23195,7 +23195,7 @@ förelegat, ska tillkommande avgifter betalas enligt 88 5—7.
 8.2
 
 För servisledning som på fastighetsägarens begäran utförs senare än övriga
-servisledningar för fastigheten ska, utöver avgift enligt \$8 5-7, en etableringsavgift
+servisledningar för fastigheten ska, utöver avgift enligt §8 5-7, en etableringsavgift
 betalas om 5096 av servisavgiften för en ledning enligt 5.1 a och 6.1.
 Etableringsavgiften avses täcka huvudmannens merkostnader till följd av att arbetet
 inte utförs i samband med framdragning av övriga servisledningar.
@@ -23283,12 +23283,12 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        10 (15)
 
 813
 
-Avgifter enligt \$8 5—6 är baserade på Entreprenadindex 2011, 5096 311 Jordarbeten
+Avgifter enligt §8 5—6 är baserade på Entreprenadindex 2011, 5096 311 Jordarbeten
 (indextalen för 2015-01: 104,0,0) och 5096 322 Läggning av PVC-rör (indextalen för
 2015-01: 105,6). När Entreprenadindex ändras, får kommunstyrelsen reglera
 avgiftsbeloppen därefter, dock inte oftare än en gång årligen.
 
-4.Brukningsavgifter (\$8 14—21)
+4.Brukningsavgifter (§8 14—21)
 814
 
 141
@@ -23448,7 +23448,7 @@ och avlopp, i beaktansvärd omfattning avviker från fastigheterna inom
 verksamhetsområdet i övrigt, ska enligt lagen om allmänna vattentjänster avgifter
 utgå enligt särskilt antagen särtaxa.
 
-Om det inte är skäligt att beräkna avgift enligt \$\$ 13—16 för viss fastighet får
+Om det inte är skäligt att beräkna avgift enligt §§ 13—16 för viss fastighet får
 huvudmannen, - exempelvis på grund av att avloppsvattnet från fastigheten
 innehåller föroreningshalter överstigande det normala hushållsspillvattnets, i stället
 komma överens med fastighetsägaren eller annan avgiftsskyldig om avgiftens
@@ -23710,7 +23710,7 @@ om detta.
 Anläggningsavgift ska beräknas enligt taxa som gäller vid den tidpunkt när
 avgiftsskyldighet inträder.
 
-3\. Anläggningsavgifter (\$\$ 5—12)
+3\. Anläggningsavgifter (§§ 5—12)
 Avgifter för allmänna vattentjänster är belagda med lagstadgad mervärdesskatt.
 &5
 
@@ -23929,7 +23929,7 @@ förelegat, ska tillkommande avgifter betalas enligt 88 5—7.
 8.2
 
 För servisledning som på fastighetsägarens begäran utförs senare än övriga
-servisledningar för fastigheten ska, utöver avgift enligt \$8 5-7, en etableringsavgift
+servisledningar för fastigheten ska, utöver avgift enligt §8 5-7, en etableringsavgift
 betalas om 5096 av servisavgiften för en ledning enligt 5.1 a och 6.1.
 Etableringsavgiften avses täcka huvudmannens merkostnader till följd av att arbetet
 inte utförs i samband med framdragning av övriga servisledningar.
@@ -24017,12 +24017,12 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        10 (17)
 
 813
 
-Avgifter enligt \$8 5—6 är baserade på Entreprenadindex 2011, 5096 311 Jordarbeten
+Avgifter enligt §8 5—6 är baserade på Entreprenadindex 2011, 5096 311 Jordarbeten
 (indextalen för 2015-01: 104,0,0) och 5096 322 Läggning av PVC-rör (indextalen för
 2015-01: 105,6). När Entreprenadindex ändras, får kommunstyrelsen reglera
 avgiftsbeloppen därefter, dock inte oftare än en gång årligen.
 
-4.Brukningsavgifter (\$\$ 14—21)
+4.Brukningsavgifter (§§ 14—21)
 814
 
 14.1

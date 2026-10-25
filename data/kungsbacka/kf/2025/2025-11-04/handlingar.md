@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.41f565c319a154a5a5e80119/1761808298
 sha256: a56aed0cec50153195d3b1519458b40cf76d65f97c0ebdd2289125e0c7af763a
 bytes: 122922074
 sidor: 265
-hamtad: 2026-10-18T06:47:24+00:00
-konverterad: 2026-10-18T06:50:54+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T11:08:47+00:00
+konverterad: 2026-10-25T11:12:37+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok]
@@ -4140,7 +4140,7 @@ framkomligheten. I övrigt bedöms inte Skällared ga:2 att påverkas av detaljp
 
 Exploatören ansvarar för att nya fastigheter eller anläggningar får andel i
 gemensamhetsanläggningen Skällared GA:2 antingen genom tecknande av
-överenskommelse om andelstal enligt 43 \$ anläggningslagen, genom omprövning av
+överenskommelse om andelstal enligt 43 § anläggningslagen, genom omprövning av
 anläggningen eller genom anslutning i annan förrättning.
 
 Exploatören ansvarar för att ansökan om lantmäteriförrättning (anläggningsförrättning)
@@ -5418,7 +5418,7 @@ kraft.
 
 Ersättningen inbetalas på Kommunens bankgirokonto nummer 426-4610, märk
 
-inbetalningen med Skällared 4:1. Om betalning sker därefter betalas ränta enligt 6 \$
+inbetalningen med Skällared 4:1. Om betalning sker därefter betalas ränta enligt 6 §
 räntelagen från sista betalningsdag tills betalning sker.
 
 204\)

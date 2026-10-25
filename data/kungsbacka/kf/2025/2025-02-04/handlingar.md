@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.29af6da91949d95a61c5db05/1738066731
 sha256: af83d72493a481e0a7f3095261bb418cb200f24658566359f90fdb543278bd3c
 bytes: 227388954
 sidor: 322
-hamtad: 2026-10-18T06:17:13+00:00
-konverterad: 2026-10-18T06:23:24+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T10:32:26+00:00
+konverterad: 2026-10-25T10:39:06+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok]
@@ -405,7 +405,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 20 (38)
 Datum
 2014-05-06
-\$ 60 KS/2014:159
+§ 60 KS/2014:159
 
 Mål för bostadsbyggande
 
@@ -431,9 +431,9 @@ Beslutsunderlag
 Mål för bostadsbyggande 2014-2020 - Förslag kommunstyrelsens arbetsutskott,
 2014-04-08
 
-Kommunstyrelsens arbetsutskott, 2014-04-08, \$ 131
+Kommunstyrelsens arbetsutskott, 2014-04-08, § 131
 
-Kommunstyrelsen, 2014-04-15, \$ 104
+Kommunstyrelsen, 2014-04-15, § 104
 
 Anförande
 
@@ -466,7 +466,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 21 (38)
 Datum
 2014-05-06
-\$ 60 fortsätter KS/2014:159
+§ 60 fortsätter KS/2014:159
 
 Fredrik Hansson (C), Per Ödman (M), Larry Söder (KD), Stephan Philipsson (KB),
 Niklas Mattsson (KD), Inge Sundberg (MM), Ulf Persson (C), Peter Söderberg (M) och
@@ -524,7 +524,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 22 (38)
 Datum
 2014-05-06
-\$ 60 fortsätter KS/2014:159
+§ 60 fortsätter KS/2014:159
 
 Omröstning begärs.
 
@@ -585,7 +585,7 @@ Datum
 
 2014-05-06
 
-\$ 60 fortsätter KS/2014:159
+§ 60 fortsätter KS/2014:159
 Voteringslista nr. 1
 Kungsbacka kommunfullmäktiges sammanträde den 6 maj 2014 klockan 22:13:28.
 3 60 Mål för bostadsbyggande — Bilaga A
@@ -652,7 +652,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 24 (38)
 Datum
 2014-05-06
-\$ 60 fortsätter KS/2014:159
+§ 60 fortsätter KS/2014:159
 Emma Vildstrand (MP) Vk X
 Harri Lötjönen (MP) | Ök X
 Lars-Anders Lundberg (MP) | Ök X
@@ -675,7 +675,7 @@ Kommunfullmäktige
 SAMMANTRAÄDESPROTOKOLL 25 (38)
 Datum
 2014-05-06
-\$ 60 fortsätter KS/2014:159
+§ 60 fortsätter KS/2014:159
 Voteringslista nr. 2
 Kungsbacka kommunfullmäktiges sammanträde den 6 maj 2014 klockan 22:14:35.
 \$& 60 Mål för bostadsbyggande — Bilaga B
@@ -742,7 +742,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 26 (38)
 Datum
 2014-05-06
-\$ 60 fortsätter KS/2014:159
+§ 60 fortsätter KS/2014:159
 Harri Lötjönen (MP) | Ök Xx
 Lars-Anders Lundberg (MP) | Ök X
 Conny Jexler (-) Vk Xx
@@ -945,7 +945,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 25 (55)
 Sammanträdesdatum
 2012-04-10
-\$ 89 KS08-00179/20
+§ 89 KS08-00179/20
 
 Antagande av Översiktsplan för vindkraft, tillägg till
 Kungsbacka översiktsplan
@@ -955,7 +955,7 @@ Beslut
 Föreliggande förslag, daterat januari 2012, till Översiktsplan för vindkraft, tillägg till
 Kungsbacka översiktsplan 2006 antas.
 
-Riktlinjer för etablering av vindkraftverk i Kungsbacka beslutade 1997-12-11 \$ 215
+Riktlinjer för etablering av vindkraftverk i Kungsbacka beslutade 1997-12-11 § 215
 upphävs.
 
 Kommunstyrelsen får i uppdrag att ta fram tillämpningar och anvisningar för
@@ -991,8 +991,8 @@ Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2012-01-16
 Kommunstyrelsens arbetsutskott 2012-01-24, 8 31 — Avstämning
-Kommunstyrelsens arbetsutskott 2012-03-13, \$ 72
-Kommunstyrelsen 2012-03-20, \$ 74
+Kommunstyrelsens arbetsutskott 2012-03-13, § 72
+Kommunstyrelsen 2012-03-20, § 74
 
 Paragrafen fortsätter
 
@@ -1006,7 +1006,7 @@ Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 26 (55)
 Sammanträdesdatum
 2012-04-10
 
-\$ 89 fortsättning KS08-00179/20
+§ 89 fortsättning KS08-00179/20
 
 Anförande
 
@@ -1063,7 +1063,7 @@ Bilaga Å. till Kommunfullmäktiges protokoll.
 Voteringslista nr. 1
 Iges sammanträde den 10 ap
 
-KF \$ 89/12
+KF § 89/12
 Bilaga A
 
 ril 2012 klockan 19:29:39.
@@ -1201,7 +1201,7 @@ Sida 1 av1
 
 <!-- sida 27 -->
 
-KF \$ 89/12
+KF § 89/12
 
 fa t å
 0 JSverigedemokn pirage D
@@ -8376,7 +8376,7 @@ kostnader för markundersökningar avseende markföroreningar och erforderlig
 avhjälpandeåtgärd till den för bostadsändamål nödvändiga riktvärden uppfylls.
 
 Kommunen har skickat in en anmälan om efterbehandling av förorenad mark
-enligt 28 \$ förordning (1998:899) om miljöfarlig verksamhet och hälsoskydd till
+enligt 28 § förordning (1998:899) om miljöfarlig verksamhet och hälsoskydd till
 tillsynsmyndigheten och fått ett beslut om försiktighetsåtgärder i samband med
 efterbehandling av förorenat område, se bilaga 5. Kommunen kommer att
 genomföra avhjälpandeåtgärder i enlighet med anmälan och beslut som finns
@@ -8526,13 +8526,13 @@ Bilaga 2
 KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 17 (48)
 Byggnadsnämnden Datum
 2024-10-17
-\$ 224 Dnr BN-2020-00024
+§ 224 Dnr BN-2020-00024
 
 Rättelse av detaljplan för kvarteret Gjutaren och Liljan i Kungsbacka
 
 Beslut
 
-Byggnadsnämndens beslut den 24 augusti 2023, \$ 159, att godkänna detaljplan för
+Byggnadsnämndens beslut den 24 augusti 2023, § 159, att godkänna detaljplan för
 kvarteret Gjutaren och Liljan, BN 2020-00024, rättas genom att planbestämmelse el
 i plankartan justeras så att högsta tillåtna byggnadsarea är exklusive
 parkeringsgarage.
@@ -8564,7 +8564,7 @@ rättelse berör inte planbeskrivningen eller illustrationskartan.
 
 Beslutsunderlag
 
-Byggnadsnämndens arbetsutskott 2024-09-12 \$ 261
+Byggnadsnämndens arbetsutskott 2024-09-12 § 261
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2024-09-03
 
@@ -8572,7 +8572,7 @@ Plankarta med rättelse, 2024-08-30
 
 Lagakraftbevis, 2023-10-04
 
-Byggnadsnämnden, 2023-08-24 \$ 159 (sammanträdesprotokoll)
+Byggnadsnämnden, 2023-08-24 § 159 (sammanträdesprotokoll)
 
 Planhandlingar med plankarta, illustration, planbeskrivning upprättad 2023-07-28
 
@@ -8612,13 +8612,13 @@ Bilaga 2
 KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 17 (48)
 Byggnadsnämnden Datum
 2024-10-17
-\$ 224 Dnr BN-2020-00024
+§ 224 Dnr BN-2020-00024
 
 Rättelse av detaljplan för kvarteret Gjutaren och Liljan i Kungsbacka
 
 Beslut
 
-Byggnadsnämndens beslut den 24 augusti 2023, \$ 159, att godkänna detaljplan för
+Byggnadsnämndens beslut den 24 augusti 2023, § 159, att godkänna detaljplan för
 kvarteret Gjutaren och Liljan, BN 2020-00024, rättas genom att planbestämmelse el
 i plankartan justeras så att högsta tillåtna byggnadsarea är exklusive
 parkeringsgarage.
@@ -8644,13 +8644,13 @@ genomföra i praktiken.
 
 Följden av det uppenbara skrivfelet är att en planbestämmelse är felaktig och därmed
 inte uppfyller sitt syfte. Samhällsbyggnadskontoret föreslår därför att
-byggnadsnämnden fattar beslut om rättelse i enlighet med 36 \$ förvaltningslagen.
+byggnadsnämnden fattar beslut om rättelse i enlighet med 36 § förvaltningslagen.
 Rättelsen innebär att endast en mening i planbestämmelse el justeras. Föreslagen
 rättelse berör inte planbeskrivningen eller illustrationskartan.
 
 Beslutsunderlag
 
-Byggnadsnämndens arbetsutskott 2024-09-12 \$ 261
+Byggnadsnämndens arbetsutskott 2024-09-12 § 261
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2024-09-03
 
@@ -8658,7 +8658,7 @@ Plankarta med rättelse, 2024-08-30
 
 Lagakraftbevis, 2023-10-04
 
-Byggnadsnämnden, 2023-08-24 \$ 159 (sammanträdesprotokoll)
+Byggnadsnämnden, 2023-08-24 § 159 (sammanträdesprotokoll)
 
 Planhandlingar med plankarta, illustration, planbeskrivning upprättad 2023-07-28
 
@@ -9033,7 +9033,7 @@ Köparen har vidare tagit del av den dokumentation, beslut och protokoll som tag
 för avhjälpandeåtgärderna. Dokumentationen omfattar miljökontrollrapporter som
 påvisar vilka avhjälpandeåtgärder som genomförts och att avhjälpandeåtgärderna
 genomförts i enlighet med anmälan som inlämnats till tillsynsmyndigheten i enlighet
-med 28 \$ förordning (1998:899) om miljöfarlig verksamhet och hälsoskydd och
+med 28 § förordning (1998:899) om miljöfarlig verksamhet och hälsoskydd och
 samtliga beslut från tillsynsmyndigheten.
 
 Genomförda avhjälpandeåtgärder är genomförda i samråd med Köparen och planerade
@@ -9744,16 +9744,16 @@ Detta beslut kan överklagas, se sista sidan,
 
 Lagstöd
 Beslutet är fattat med stöd i följande lagstiftning: Miljöbalken (1998:808): 26 kap. 9
-och 21 \$\$, 10 kap.2, 3 och 4 \$\$ och 2 kap. 3 och 7 \$\$ och 27 kap. 1 \$,
+och 21 §§, 10 kap.2, 3 och 4 §§ och 2 kap. 3 och 7 §§ och 27 kap. 1 §,
 
-Förordning (1998:899) om miljöfarlig verksamhet och hälsoskydd 27 \$, samt 9 kap.
-5 \$ Förordning (1998:940) om avgifter för prövning och tillsyn enligt miljöbalken,
+Förordning (1998:899) om miljöfarlig verksamhet och hälsoskydd 27 §, samt 9 kap.
+5 § Förordning (1998:940) om avgifter för prövning och tillsyn enligt miljöbalken,
 
 Bakgrund
 
 Kungsbacka kommun, förvaltningen för Service lämnade, via konsulter, den 4:e juli
 2023 in en anmälan om efterbehandlingsåtgärder av förorenat område i enlighet med
-28 \$ förordningen om miljöfarlig verksamhet och hälsoskydd.
+28 § förordningen om miljöfarlig verksamhet och hälsoskydd.
 
 I anmälan anger ni att saneringsmålet är att området ska vara lämpligt för framtida
 bostadsbyggnation, Därför är åtgärdsmålet att halter som motsvarar
@@ -9793,18 +9793,18 @@ PCB-föroreningar behöver fortsätta utredas, vilket Länsstyrelsen delar uppfa
 om, och som även beskrivs i anmälan, Beslutspunkt 3 och 4 är därmed rimliga.
 
 Det är viktigt att förhindra spridning av föroreningar till omgivande mark och vatten,
-Därför beslutar vi med stöd i försiktighetsprincipen i 2 kap. 3 \$ miljöbalken att
+Därför beslutar vi med stöd i försiktighetsprincipen i 2 kap. 3 § miljöbalken att
 massor som grävts upp ska skyddas från mark och nederbörd om de behöver
 mellanlagras innan borttransport, Likaså att cisterner behöver kontrolleras innan
 uppgrävning och att länsvatten och lakvatten ska hanteras som beskrivet.
 
-Vi beslutar också med stöd i 26 kap. 21 \$ miljöbalken att ni efter avslutad
+Vi beslutar också med stöd i 26 kap. 21 § miljöbalken att ni efter avslutad
 efterbehandling ska skicka in redovisning till oss i form av en slutrapport. Rapporten
 ska innehålla uppgifter om hur mycket massor som transporterats bort samt
 mottagningsbevis eller kvitton från mottagaren av massorna, Dessa uppgifter
 behöver vi som en del av vår tillsyn av era åtgärder.
 
-Miljö & Hälsoskydd har gjort en skälighetsavvägning enligt 2 kap. 7 \$ miljöbalken
+Miljö & Hälsoskydd har gjort en skälighetsavvägning enligt 2 kap. 7 § miljöbalken
 och bedömer att det är rimligt att ni följer försiktighetsåtgärderna i detta beslut, i
 förhållande till miljönyttan,
 
@@ -9813,7 +9813,7 @@ Beslutade avgifter
 Kommunfullmäktige har fastställt en taxa för prövning och tillsyn inom miljöbalkens
 och strålskyddslagens område, lagen om sprängämnesprekursorer samt lagen om
 gaturenhållning och skyltning, Taxan antogs enligt beslut i kommunfullmäktige
-2022-10-18 \$ 158.
+2022-10-18 § 158.
 
 Aktuell timtaxa för 2023: 1250 kr.
 
@@ -9825,12 +9825,12 @@ Lagstiftning
 Nämnden för Miljö & Hälsoskydd fattar detta beslut med stöd av nedanstående
 bestämmelser:
 
-26 kap 9 \$ miljöbalken, En tillsynsmyndighet får i det enskilda fallet besluta om de
+26 kap 9 § miljöbalken, En tillsynsmyndighet får i det enskilda fallet besluta om de
 förelägganden och förbud som behövs för att denna balk samt föreskrifter, domar och
 andra beslut som har meddelats med stöd av balken ska följas. Mer ingripande
 åtgärder än vad som behövs i det enskilda fallet får inte tillgripas.
 
-26 kap 21 \$ miljöbalken. Tillsynsmyndigheten får förelägga den som bedriver
+26 kap 21 § miljöbalken. Tillsynsmyndigheten får förelägga den som bedriver
 verksamhet eller vidtar en åtgärd som det finns bestämmelser om i denna balk eller i
 föreskrifter som meddelats med stöd av balken, att till myndigheten lämna de
 
@@ -9841,7 +9841,7 @@ KUNGSBACKA KOMMUN
 uppgifter och handlingar som behövs för tillsynen, Detsamma gäller också för den 4 (8)
 som annars är skyldig att avhjälpa olägenheter från sådan verksamhet,
 
-10 kap. 2 \$ miljöbalken. Den som bedriver eller har bedrivit en verksamhet eller
+10 kap. 2 § miljöbalken. Den som bedriver eller har bedrivit en verksamhet eller
 vidtagit en åtgärd som har bidragit till en föroreningsskada eller allvarlig miljöskada
 (verksamhetsutövaren) är ansvarig för det avhjälpande som skall ske enligt
 bestämmelserna i detta kapitel.
@@ -9854,12 +9854,12 @@ fråga om en förorenad byggnad eller anläggning gäller detsamma den som förv
 den fastighet där byggnaden eller anläggningen är belägen. Med förvärv av fastighet
 likställs förvärv av tomträtt.
 
-10 kap. 4 \$ miljöbalken, Den som är ansvarig för att avhjälpa en föroreningsskada
+10 kap. 4 § miljöbalken, Den som är ansvarig för att avhjälpa en föroreningsskada
 skall i skälig omfattning utföra eller bekosta det avhjälpande som på grund av
 föroreningen behövs för att förebygga, hindra eller motverka att skada eller
 olägenhet uppstår för människors hälsa eller miljön.
 
-2 kap 3 \$ miljöbalken, Alla som bedriver eller avser att bedriva en verksamhet eller
+2 kap 3 § miljöbalken, Alla som bedriver eller avser att bedriva en verksamhet eller
 vidta en åtgärd skall utföra de skyddsåtgärder, iaktta de begränsningar och vidta de
 försiktighetsmått i övrigt som behövs för att förebygga, hindra eller motverka att
 verksamheten eller åtgärden medför skada eller olägenhet för människors hälsa eller
@@ -9868,24 +9868,24 @@ teknik, Dessa försiktighetsmått skall vidtas så snart det finns skäl att ant
 verksamhet eller åtgärd kan medföra skada eller olägenhet för människors hälsa eller
 miljön,
 
-2 kap, 7 \$ miljöbalken, Kraven i 2-5 \$\$ och 6 \$ första stycket gäller i den
+2 kap, 7 § miljöbalken, Kraven i 2-5 §§ och 6 § första stycket gäller i den
 utsträckning det inte kan anses orimligt att uppfylla dem, Vid denna bedömning ska
 särskild hänsyn tas till nyttan av skyddsåtgärder och andra försiktighetsmått jämfört
 med kostnaderna för sådana åtgärder.
 
-27 kap 1 \$ miljöbalken: Regeringen eller den myndighet som regeringen bestämmer
+27 kap 1 § miljöbalken: Regeringen eller den myndighet som regeringen bestämmer
 får meddela föreskrifter om avgift för myndigheters kostnader för prövning och
 tillsyn enligt denna balk eller enligt föreskrifter som har meddelats med stöd av
 balken samt för prövning och tillsyn med anledning av EU-förordningar inom denna
 balks tillämpningsområde, Kommunen får meddela föreskrifter om sådana avgifter
 när det gäller en kommunal myndighets verksamhet,
 
-27 \$ Förordning (1998:899) om miljöfarlig verksamhet och hälsoskydd: När ett
+27 § Förordning (1998:899) om miljöfarlig verksamhet och hälsoskydd: När ett
 anmälningsärende är tillräckligt utrett, skall den myndighet som handlägger ärendet
 meddela föreläggande om försiktighetsmått eller förbud enligt miljöbalken om det
 behövs,
 
-9 kap 5 \$ Förordning om avgifter för prövning och tillsyn enligt miljöbalken: En
+9 kap 5 § Förordning om avgifter för prövning och tillsyn enligt miljöbalken: En
 myndighet får bestämma att dess beslut om avgift skall gälla omedelbart även om det
 överklagas.
 
@@ -11763,7 +11763,7 @@ Kommunfullmäktige Datum
 
 2023-08-15
 
-\$ 108 Dnr 2019-00547
+§ 108 Dnr 2019-00547
 
 Godkännande av genomförandeavtal, köpekontrakt samt
 överenskommelse om fastighetsreglering med Riksbyggen ekonomisk
@@ -11805,9 +11805,9 @@ Riksbyggen.
 
 Beslutsunderlag
 
-Kommunstyrelsen 2023-06-20, \$ 167
+Kommunstyrelsen 2023-06-20, § 167
 
-Kommunstyrelsens arbetsutskott 2023-06-07, \$ 175
+Kommunstyrelsens arbetsutskott 2023-06-07, § 175
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2023-05-17
 

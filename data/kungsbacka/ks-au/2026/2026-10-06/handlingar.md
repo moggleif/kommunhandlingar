@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5570446d1a0fb8db42898572/1791362553
 sha256: 477339704e37bdea51fd4548a43ba209a79d598606e3542a9d35333c7fe2d804
 bytes: 46156764
 sidor: 327
-hamtad: 2026-10-16T10:26:55+00:00
-konverterad: 2026-10-16T10:31:52+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T10:01:17+00:00
+konverterad: 2026-10-25T10:06:45+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ocr, tom, tom, tom, tom, tom, tom, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, tom, ocr, ej-konverterad, ocr, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok]
@@ -2357,7 +2357,7 @@ o 696 686 684 698 709 727 752 774 796 805 en
 80-84 3439 3 654 3722 3 788 3 687 3 623 3463 3 357 3 277 3 237 3249
 85-89 1835 1906 2054 2228 2431 2 575 2735 2788 2 847 2787 2749
 90- 882 975 1063 1139 1236 1323 1398 1516 1641 1796 1904
-Summa 86332 S86424 z88B6730 886937 87102 087507 sz £88164 <+4Z88626 89102 ++s89582 \$s89944
+Summa 86332 S86424 z88B6730 886937 87102 087507 sz £88164 <+4Z88626 89102 ++s89582 §s89944
 Skatter och generella statsbidrag verksamhet, inte frivillig. Inkomstutjämningen räknas ut
 efter skattekraft och är statligt finansierad till 95 procent.
 Belopp i miljoner Budget Budget Plan plan De femton kommunerna med högst skattekraft betalar
@@ -2518,7 +2518,7 @@ Förskola inkl. Fritidshem inkl. Grundskola F-9 Gymnasieskola LSS Individ & Äld
 öppen förskola öppen Familjeomsorg
 fritidsverksamhet
 
-H2023 \$2024 \$2025
+H2023 §2024 §2025
 
 Diagram: Om stapeln är över nollstrecket är det en indikation på högt kostnadsläge på grund av hög ambitionsnivå och/eller låg effektivitet. På
 motsvarande sätt visar resultat under noll på lägre kostnadsläge på grund av lägre ambitionsnivå och/eller hög effektivitet.
@@ -3878,7 +3878,7 @@ KOMMUNFULLMÄKTIGES BESLUT
 KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 107)
 Kommunfullmäktige Datum
 2026-06-09 Kungsbacka
-\$ 105 Dnr KS-2025-00785
+§ 105 Dnr KS-2025-00785
 
 Kommunbudget 2027, plan 2028-2029
 
@@ -3937,7 +3937,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 207)
 Kommunfullmäktige Dökin Kungsbacka
 2026-06-09
 
-Kommunstyrelsens beslut 2026-05-26, \$ 114
+Kommunstyrelsens beslut 2026-05-26, § 114
 
 Kommunstyrelsen beslutar under förutsättning av kommunfullmäktiges beslut ovan
 att ekonomichefen eller dennes ersättare får i delegation att omsätta befintliga lån vid
@@ -4865,7 +4865,7 @@ Kapitel 2, Bestämmelser om omställningsstöd för förtroendevalda
 
 Rätten att neka omställningsstöd
 
-I SKR:s OPF-KR 26 anges en ny \$ 2 a som ger rätt att neka omställningsstöd om den
+I SKR:s OPF-KR 26 anges en ny § 2 a som ger rätt att neka omställningsstöd om den
 förtroendevalde döms till fängelse i två år eller mer. I Kungsbacka kommuns OPF-KR 25 har sedan
 tidigare funnits en reglering kring när den förtroendevalda förverkat sin rätt till omställningsinsatser
 
@@ -4873,7 +4873,7 @@ och omställningsersättning.
 
 Nedan föreslås att Kungsbacka kommuns OPF-KR 26 har kvar den lokala skrivningen men att den
 
-flyttas till \$ 2 a, enlighet nedan:
+flyttas till § 2 a, enlighet nedan:
 
 Kungsbacka kommun lokala OPF-
 
@@ -4895,12 +4895,12 @@ den förtroendevalde har lämnat
 sina politiska uppdrag.
 
 Nekad rätt till omställningsstöd
-enligt \$\$ 3—5
+enligt §§ 3—5
 
 Kommunfullmäktige får besluta
 att en förtroendevald inte ska
 beviljas omställningsstöd enligt
-\$\$ 3-5 i detta reglemente om den
+§§ 3-5 i detta reglemente om den
 förtroendevalde har dömts för ett
 brott på vilket fängelse i lägst två
 år kan följa och domen har fått
@@ -4910,7 +4910,7 @@ Anmärkning:
 
 Avseende nekad rätt till
 omställningsstöd utifrån ej beviljad
-ansvarsfrihet, se anmärkning till \$ 2a
+ansvarsfrihet, se anmärkning till § 2a
 (sid 12) i Kommentar till
 bestämmelser om omställningsstöd,
 pension och familjeskydd för
@@ -4919,7 +4919,7 @@ förtroendevalda (OPF-KR 26).
 26 kap 252 a
 
 Nekad rätt till omställningsstöd
-enligt \$\$ 3—5
+enligt §§ 3—5
 
 En förtroendevalde som dömts
 för ett brott på vilket fängelse i
@@ -4987,13 +4987,13 @@ en skäligt beräknad inkomst.
 KUNGSBACKA KOMMUN
 6 (7)
 
-Förslaget är att Kungsbacka kommuns OPF-KR 26 följer SKR:s förslag i kap 2, \$ 6 Samordning
+Förslaget är att Kungsbacka kommuns OPF-KR 26 följer SKR:s förslag i kap 2, § 6 Samordning
 
 och att tidigare lokal skrivning utgår.
 
 SKR:s OPF-KR 25 Kungsbackas OPF-KR 25
 Omställningsersättningarna Omställningsersättningarna
-enligt \$\$ 4 och 5 ska enligt \$\$ 4 och 5 ska
+enligt §§ 4 och 5 ska enligt §§ 4 och 5 ska
 samordnas/minskas med andra -samordnas/minskas med andra
 förvärvsinkomster om inte förvärvsinkomster om inte annat
 annat anges. anges.
@@ -5018,7 +5018,7 @@ SKR:s OPF-KR 26
 
 Ekonomiskt omställningsstöd och
 förlängt ekonomiskt
-omställningsstöd enligt \$\$ 4 och 5
+omställningsstöd enligt §§ 4 och 5
 ska samordnas med
 förvärvsinkomster och/eller andra
 inkomster som ersätter
@@ -8038,9 +8038,9 @@ Definitioner och förklaringar i OPF-KR 26
 
 Förtroendevald som avses i 4 kap. ”Med förtroendevalda avses i denna lag
 
-1 \$ kommunallagen (2017:725) ledamöter och ersättare i fullmäktige,
+1 § kommunallagen (2017:725) ledamöter och ersättare i fullmäktige,
 nämnder och fullmäktigeberedningar, de som
-fullgör förtroendeuppdrag som anges i 2 \$
+fullgör förtroendeuppdrag som anges i 2 §
 första stycket samt revisorer.
 
 Med förtroendevalda avses också ledamöter
@@ -9745,7 +9745,7 @@ Perigeum avser att utveckla är markerat med röd linje. Gränsen mellan Skanska
 Perigeums respektive projektområden kan komma att förändras.
 
 Ett Principavtal har tecknats mellan Kommunen och Skanska, Principavtalet (KS
-2021-01-19, \$11). Principavtalet föreskriver att ett Exploateringsavtal, Avtalet, ska
+2021-01-19, §11). Principavtalet föreskriver att ett Exploateringsavtal, Avtalet, ska
 upprättas innan Detaljplanen kan antas av Byggnadsnämnden.
 
 Exploateringsområde
@@ -10504,7 +10504,7 @@ detta avtal ska avgöras av allmän domstol.
 
 Detta avtal är upprättat i två likalydande exemplar varav parterna tagit ett vardera.
 
-Göteborg 2026 - 0Ä — 2\$
+Göteborg 2026 - 0Ä — 2§
 för Skanska Mark och Exploatering nya Hem AB
 
 a | Namnteckning
@@ -10972,7 +10972,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (1)
 Kommunstyrelsen Datum
 2021-01-19
 
-\$ 11 Dnr 2020-00944
+§ 11 Dnr 2020-00944
 
 Godkännande av principavtal för detaljplan för bostäder inom
 fastigheten Nötegång 2:207 m.fl. i Särö
@@ -11012,7 +11012,7 @@ under detaljplaneprocessen
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2021-01-05, \$ 18
+Kommunstyrelsens arbetsutskott 2021-01-05, § 18
 Samhällsbyggnadskontorets tjänsteskrivelse, 2020-11-18
 Principavtal, undertecknat av Skanska Nya Hem AB 2020-11-28
 Karta över detaljplaneområdet och översiktskarta
@@ -12901,7 +12901,7 @@ Linda Helgessor
 Administratör
 
 Bilagor:
-BN 2018-01-11 \$ 7
+BN 2018-01-11 § 7
 
 CC) äl å o
 
@@ -13002,7 +13002,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 14 (70)
 Byggnadsnämnden Datum
 2018-01-11
 
-\$ 7, forts
+§ 7, forts
 
 Området som ansökan gäller ligger utanför detaljplanerat område men i anslutning
 till både planerad och oplanerad bostadsbebyggelse. Platsen ligger längs med
@@ -13063,7 +13063,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 15 (70)
 Byggnadsnämnden Datum
 2018-01-11
 
-\$ 7, forts
+§ 7, forts
 
 4\. En trafikutredning behöver tas fram och bekostas av den sökande i samband
 med planläggning. Denna ska belysa effekterna av en ökad trafikbelastning
@@ -13081,7 +13081,7 @@ liggande områden, vilket ska beaktas särskilt i en dagvattenutredning.
 
 Beslutsunderlag
 
-Byggnadsnämndens arbetsutskott 2017-12-20, \$ 491, Förslag: Byggnadsnämnden
+Byggnadsnämndens arbetsutskott 2017-12-20, § 491, Förslag: Byggnadsnämnden
 lämnar positivt planbesked. Uppdrar åt förvaltningen att upprätta förslag till
 detaljplan för Skörvalla 1:49, 1:50, I:51 och 1:61 och genomföra samråd och
 granskning. Syftet med detaljplanen är att pröva möjlig bostadsbebyggelse inom

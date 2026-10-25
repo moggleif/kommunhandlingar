@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.187cc124195b269152a1bbfd/1742551188
 sha256: d0b7399b541c2518380db23d0dbbf82d808474373bdcbc4e8236f3cb8e5257b8
 bytes: 45935508
 sidor: 295
-hamtad: 2026-10-16T07:52:34+00:00
-konverterad: 2026-10-16T07:54:29+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T07:17:00+00:00
+konverterad: 2026-10-25T07:18:47+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -6158,7 +6158,7 @@ Kungsbacka kommun SAMMANTRÄDESPROTOKOLL 53 (156)
 Byggnadsnämndens arbetsutskott Datum
 2020-11-26
 
-\$ 436
+§ 436
 
 SLÄPS-HAGEN 1:58 - Förhandsbesked för nybyggnad
 av ett enbostadshus
@@ -6172,10 +6172,10 @@ Avgiften för beslutet är 19 200 kronor. Avgiften reduceras med 19 200 kronor p
 beslutet har tagit mer än 10 veckor. Kostnaden blir därför 0 kronor.
 
 Avgiften är uträknad efter Taxa för Byggnadsnämnden verksamhet, beslutat i Kommunfullmäktige
-2019-08-13 \$ 107.
+2019-08-13 § 107.
 
 Upplysningar
-Enligt 9 kap. 39 \$ PBL innebär förhandsbeskedet inte att åtgärden får påbörjas. För att påbörja den
+Enligt 9 kap. 39 § PBL innebär förhandsbeskedet inte att åtgärden får påbörjas. För att påbörja den
 sökta åtgärden krävs således bygglov.
 
 Slutligt ställningstagande till husets placering och utformning ska ske i samråd med bygg- och
@@ -6197,7 +6197,7 @@ fastigheten utgör en lämplig komplettering av förevarande bebyggelsegrupp. De
 området. Därtill är tomten tillräckligt stor och väl avgränsad. Föreslagna lokaliseringar är sålunda
 lämpliga utifrån den specifika platsens förutsättningar.
 
-Arbetsutskottet bedömer vidare att den sökta åtgärden uppfyller de krav som följer av 9 kap. 31 \$
+Arbetsutskottet bedömer vidare att den sökta åtgärden uppfyller de krav som följer av 9 kap. 31 §
 PBL. Åtgärden förutsätter sålunda inte planläggning av nu aktuellt område och uppfyller kraven i 2
 och 8 kap. PBL. Därtill föreligger inga motstående intressen som talar emot ett positivt besked i
 samband med förevarande prövning.
@@ -6208,7 +6208,7 @@ anläggande av parkeringsplats är en civilrättslig fråga som faller utanför 
 
 Justerare Expedierat/bestyrkt
 
-Förhandsbesked —BNAU \$ 436 — 2020-11-26
+Förhandsbesked —BNAU § 436 — 2020-11-26
 
 <!-- sida 149 -->
 
@@ -6237,7 +6237,7 @@ Förvaltningens tjänsteskrivelse, 2020-11-16 Förslag: Byggnadsnämndens arbets
 negativt förhandsbesked för ett enbostadshus på fastigheten. Avgiften för beslutet är 7 200 kronor.
 Avgiften är reducerad med 7 200 kronor på grund av att beslutet har tagit mer än 10 veckor.
 Kostnaden blir därför 0 kronor. Avgiften är uträknad efter Taxa för Byggnadsnämndens
-verksamhet, beslutad i Kommunfullmäktige 2019-08-13 \$ 107.
+verksamhet, beslutad i Kommunfullmäktige 2019-08-13 § 107.
 
 Ansökan, 2020-06-16
 Yttrande Släps-Hagen 1:77
@@ -6255,18 +6255,18 @@ avgjord.
 
 Lagstiftning
 
-Förhandsbesked ska enligt 9 kap. 31 \$ plan och bygglagen (PBL) ges för en åtgärd utanför ett
+Förhandsbesked ska enligt 9 kap. 31 § plan och bygglagen (PBL) ges för en åtgärd utanför ett
 område med detaljplan, om åtgärder inte förutsätter planläggning och uppfyller kraven i 2 kap. och
 delar av 8 kap. PBL.
 
-Förhandsbesked ska enligt 2 kap. 3 \$ PBL, med hänsyn till bland annat natur- och kulturvärden,
+Förhandsbesked ska enligt 2 kap. 3 § PBL, med hänsyn till bland annat natur- och kulturvärden,
 främja en ändamålsenlig struktur och estetiskt tilltalande utformning av bebyggelse, grönområden
 och kommunikationsleder.
 
-Enligt 2 kap. 4 \$ PBL får mark tas i anspråk för att bebyggas endast om marken från allmän
+Enligt 2 kap. 4 § PBL får mark tas i anspråk för att bebyggas endast om marken från allmän
 synpunkt är lämplig för ändamålet.
 
-Enligt 2 kap. 2 \$ PBL ska mark- och vattenområden användas för det eller de ändamål som
+Enligt 2 kap. 2 § PBL ska mark- och vattenområden användas för det eller de ändamål som
 områdena är mest lämpade för med hänsyn till läge, beskaffenhet och behov. Företräde ska ges åt
 
 Justerare a JA Expedierat/bestyrkt

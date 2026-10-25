@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.10a4623319e63a11ebe208a6/1780059529
 sha256: 82a6d978ca30c5db913c4380e0ce8ce40098938e04a2565c1cc4536764ade61a
 bytes: 42986239
 sidor: 287
-hamtad: 2026-10-16T09:59:22+00:00
-konverterad: 2026-10-16T10:04:55+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T09:30:49+00:00
+konverterad: 2026-10-25T09:36:55+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ok, ok, ej-konverterad, ok, ocr, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad]
@@ -107,7 +107,7 @@ Förslag till beslut i kommunstyrelsen
 Kommunstyrelsen förklarar uppdraget att utreda
 möjligheten till etablering av ett utvecklingscenter
 i kommunen, som lämnades av kommunstyrelsen
-den 18 juni 2024, \$ 169, för avslutat.
+den 18 juni 2024, § 169, för avslutat.
 
 Godkännande av principavtal
 med Tölö Utvecklings AB
@@ -1574,44 +1574,44 @@ Beskrivning av ärendet
 
 KUNGSBACKA KOMMUN
 
-Ej verkställda beslut, barn och unga, enligt 11 kap 1 \$ och rapportering enligt 34 kap 1-3 \$\$
+Ej verkställda beslut, barn och unga, enligt 11 kap 1 § och rapportering enligt 34 kap 1-3 §§
 socialtjänstlagen, SoL.
 
 Beslutsdatum | Insats Skäl till att beslutet ej verkställts
 
-2024-11-27 11 kap 1 \$ SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
+2024-11-27 11 kap 1 § SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
 matchar behovet.
 
-2025-01-18 11 kap 1 \$ SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
+2025-01-18 11 kap 1 § SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
 matchar behovet.
 
-2025-01-18 11 kap 1 \$ SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
+2025-01-18 11 kap 1 § SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
 matchar behovet.
 
-2025-01-18 11 kap 1 \$ SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
+2025-01-18 11 kap 1 § SoL kontaktfamilj | Rekryteringsbekymmer, finns ingen kontaktfamilj som
 matchar behovet.
 
 2025-11-07 11 kap I \$ SoL kontaktperson | Otydligheter eller brister i den egna organisationen.
 
-2025-11-14 11 kap 1 \$ SoL Saknar plats.
+2025-11-14 11 kap 1 § SoL Saknar plats.
 
 öppenvårdsverksamhet
 
-2025-11-20 11 kap 1 \$ SoL kontaktperson | Personalrelaterade skäl.
+2025-11-20 11 kap 1 § SoL kontaktperson | Personalrelaterade skäl.
 
 2025-11-28 11 kap I \$ SoL kontaktfamilj | Personalrelaterade skäl.
 
-2025-12-03 11 kap 1 \$ SoL kontaktfamilj | Personalrelaterade skäl, första förslag på kontaktfamilj
+2025-12-03 11 kap 1 § SoL kontaktfamilj | Personalrelaterade skäl, första förslag på kontaktfamilj
 bedömdes ej lämpligt, nytt förslag är under utredning.
 
 Beslut som tidigare har rapporterats som ej verkställt och som nu verkställts eller avslutats
 
 Beslutsdatum | Insats Skäl till att beslutet ej Datum för
 verkställts verkställighet/avslut
-2024-12-27 11 kap 1 \$ SoL Saknar plats. Avslutat 2026-03-19.
+2024-12-27 11 kap 1 § SoL Saknar plats. Avslutat 2026-03-19.
 öppenvårdsverksamhet Behovet tillgodoses
 genom annan insats
-2025-04-05 11 kap 1 \$ SoL Personalrelaterade skäl. Verkställt 2026-04-09.
+2025-04-05 11 kap 1 § SoL Personalrelaterade skäl. Verkställt 2026-04-09.
 kontaktperson
 2025-07-04 11 kap I \$ SoL Personalrelaterade skäl. Verkställt 2026-02-26.
 kontaktperson
@@ -1624,52 +1624,52 @@ KUNGSBACKA KOMMUN
 
 3 (9)
 
-Ej verkställda beslut, funktionsstödsenheten, enligt 9 \$ och rapportering enligt 28 f-g \$\$ lagen om stöd
-och service till vissa funktionshindrade, LSS, samt enligt 11 kap 1 \$ och rapportering enligt 34 kap 1-3
+Ej verkställda beslut, funktionsstödsenheten, enligt 9 § och rapportering enligt 28 f-g \$\$ lagen om stöd
+och service till vissa funktionshindrade, LSS, samt enligt 11 kap 1 § och rapportering enligt 34 kap 1-3
 \$\$ socialtjänstlagen, SoL
 
 Beslutsdatum | Insats Skäl till att beslutet ej verkställts
 
-2024-12-01 11 kap 1 \$ SoL, Den enskilde medverkar inte till verkställighet. Tackat
+2024-12-01 11 kap 1 § SoL, Den enskilde medverkar inte till verkställighet. Tackat
 
 kontaktperson nej till erbjudande 2025-06. Går inte få kontakt.
 
-2025-07-04 11 kap 1 \$ SoL, boendestöd | Är i behov av lång uppstart, har specifika behov.
+2025-07-04 11 kap 1 § SoL, boendestöd | Är i behov av lång uppstart, har specifika behov.
 Planering pågår.
 
 2025-09-17 11 kap I \$ SoL, bostad Den enskilde är placerad enligt annan insats.
 
-2025-12-18 11 kap 1 \$ SoL, boendestöd | Den enskilde medverkar inte till verkställighet. 1 av 2
+2025-12-18 11 kap 1 § SoL, boendestöd | Den enskilde medverkar inte till verkställighet. 1 av 2
 insatser är verkställda. Avbokar möten och svarar inte
 på kontaktförsök.
 
-2025-07-01 9 \$4 LSS, kontaktperson Den enskilde medverkar inte till verkställighet.
+2025-07-01 9 §4 LSS, kontaktperson Den enskilde medverkar inte till verkställighet.
 Rekrytering pågår. Den enskilde vill avvakta med
 uppstart.
 
-2024-06-26 9 \$ 6 LSS, korttidsvistelse i | Den enskilde har specifika önskemål. Vill fortsätta med
+2024-06-26 9 § 6 LSS, korttidsvistelse i | Den enskilde har specifika önskemål. Vill fortsätta med
 
 form av läger insatsen, svarar inte på kontaktförsök.
 
-2025-02-24 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet, arbetsmiljöproblem relaterade
+2025-02-24 9 § 6 LSS, korttidsvistelse i | Avbrott i verkställighet, arbetsmiljöproblem relaterade
 
 form av läger till den enskilde. Har blivit erbjuden anpassad
 verkställighet som den enskilde tackat nej till.
 Den enskilde har specifika önskemål.
 
-2025-06-24 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet, hälsoproblem hos den
+2025-06-24 9 § 6 LSS, korttidsvistelse i | Avbrott i verkställighet, hälsoproblem hos den
 
 form av läger enskilde.
 
-2025-06-26 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Tackat nej till sommarvistelse,
+2025-06-26 9 § 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Tackat nej till sommarvistelse,
 
 form av läger vill avvakta till hösten.
 
-2025-09-06 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde medverkar inte
+2025-09-06 9 § 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde medverkar inte
 
 form av läger till verkställighet. Den enskilde vill inte ha insatsen
 
-2025-09-06 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde har specifika
+2025-09-06 9 § 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde har specifika
 
 form av läger önskemål. Den enskilde medverkar inte till
 verkställighet, vill avvakta med insatsen till hösten
@@ -1680,37 +1680,37 @@ verkställighet, vill avvakta med insatsen till hösten
 KUNGSBACKA KOMMUN
 
 Beslutsdatum | Insats Skäl till att beslutet ej verkställts
-2025-11-21 9 \$ 6 LSS, korttidsvistelse i | Den enskilde medverkar inte till verkställighet. Den
+2025-11-21 9 § 6 LSS, korttidsvistelse i | Den enskilde medverkar inte till verkställighet. Den
 form av läger enskilde vill inte ha insatsen. Planering pågår, inväntar
 återkoppling.
-2025-12-03 9 \$ 6 LSS, korttidsvistelse i | Vårdnadshavarens behov av stöd har varit ett hinder
+2025-12-03 9 § 6 LSS, korttidsvistelse i | Vårdnadshavarens behov av stöd har varit ett hinder
 form av läger merparten av väntetiden. Planering pågår.
-2025-12-10 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde medverkar inte
+2025-12-10 9 § 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde medverkar inte
 form av läger till verkställighet.
-2026-01-20 9 \$ 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde vill inte längre
+2026-01-20 9 § 6 LSS, korttidsvistelse i | Avbrott i verkställighet. Den enskilde vill inte längre
 form av läger ha insatsen pga personalförändringar.
 Motivationsarbete pågår.
-2024-10-17 9 \$9LSS, bostad för vuxna | Saknar plats. Tackat nej till erbjudande om köpt plats.
+2024-10-17 9 §9LSS, bostad för vuxna | Saknar plats. Tackat nej till erbjudande om köpt plats.
 i form av servicebostad Tacket nej till erbjudande 2025-05 pga för långt från
 centrum. Tackat ja till plats som blir ledig till hösten.
-2025-01-14 9 \$ 9 LSS, bostad för vuxna | Saknar plats. Tackat nej till erbjudande i 2025-11. Har
+2025-01-14 9 § 9 LSS, bostad för vuxna | Saknar plats. Tackat nej till erbjudande i 2025-11. Har
 i form av gruppbostad specifika önskemål om boende. Kommer erbjudas köpt
 plats under maj månad.
-2025-03-12 9 \$9 LSS, bostad för vuxna | Saknar plats. Planering pågår. Fått erbjudande om köpt
+2025-03-12 9 §9 LSS, bostad för vuxna | Saknar plats. Planering pågår. Fått erbjudande om köpt
 i form av gruppbostad plats. Tackat nej till erbjudande 2025-11. Planering
 pågår.
-2025-03-14 9 \$ 9 LSS, bostad för vuxna | Tackat nej till erbjudande 2025-03-25. Ny planering
+2025-03-14 9 § 9 LSS, bostad för vuxna | Tackat nej till erbjudande 2025-03-25. Ny planering
 i form av servicebostad pågår. Tackat ja till plats, inflyttningsdatum inte
 bestämt.
 2025-09-15 9 89 LSS, bostad för vuxna | Saknar plats. Tackat nej till erbjudande 2025-12. Nytt
 i form av gruppbostad erbjudande 2026-04, studiebesök ska genomföras.
-2025-10-16 9 \$ 9 LSS, bostad för vuxna | Saknar plats. Planering pågår. Tackat nej till
+2025-10-16 9 § 9 LSS, bostad för vuxna | Saknar plats. Planering pågår. Tackat nej till
 1 form av servicebostad erbjudande 2026-03.
-2025-10-27 9 \$ 9 LSS, bostad för vuxna | Saknar plats. Den enskilde vistas på korttidshem och
+2025-10-27 9 § 9 LSS, bostad för vuxna | Saknar plats. Den enskilde vistas på korttidshem och
 i form av servicebostad vill bo kvar där, planering pågår.
-2025-11-21 9 \$ 9 LSS, bostad för vuxna | Saknar plats. Tackat ja till plats 2026-04,
+2025-11-21 9 § 9 LSS, bostad för vuxna | Saknar plats. Tackat ja till plats 2026-04,
 i form av gruppbostad inflyttningsdatum inte bestämt.
-2026-01-08 9 \$9LSS, bostad för vuxna | Saknar plats. Placerad genom annan insats. Erbjudits
+2026-01-08 9 §9LSS, bostad för vuxna | Saknar plats. Placerad genom annan insats. Erbjudits
 
 i form av servicebostad
 
@@ -1723,22 +1723,22 @@ köpt plats med inflyttning 2026-05.
 KUNGSBACKA KOMMUN
 
 Beslutsdatum | Insats Skäl till att beslutet ej verkställts
-2026-01-21 9 \$ 9 LSS, bostad för vuxna | Saknar plats. Erbjudande skickats ut 2026-04, inväntar
+2026-01-21 9 § 9 LSS, bostad för vuxna | Saknar plats. Erbjudande skickats ut 2026-04, inväntar
 i form av servicebostad återkoppling.
-2026-01-21 9 \$9LSS, bostad för vuxna | Saknar plats. Planering pågår.
+2026-01-21 9 §9LSS, bostad för vuxna | Saknar plats. Planering pågår.
 i form av servicebostad
-2022-02-04 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2022-02-04 9 § 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet.
-2023-12-18 9 \$ 10 LSS, daglig Avbrott i verkställighet, den enskilde medverkar inte
+2023-12-18 9 § 10 LSS, daglig Avbrott i verkställighet, den enskilde medverkar inte
 verksamhet till verkställighet. Verksamheten har kontinuerlig
 kontakt.
-2024-08-19 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2024-08-19 9 § 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet. Vill pausa/avvakta insatsen pga
 hälsotillstånd. Beslutet kommer avslutas då den
 enskilde vårdas inom annan myndighet.
-2024-09-13 9 \$ 10 LSS, daglig Avbrott i verkställighet, pga hälsotillstånd.
+2024-09-13 9 § 10 LSS, daglig Avbrott i verkställighet, pga hälsotillstånd.
 verksamhet
-2024-12-06 9 \$ 10 LSS, daglig Avbrott i verkställighet, pga hälsotillstånd.
+2024-12-06 9 § 10 LSS, daglig Avbrott i verkställighet, pga hälsotillstånd.
 verksamhet
 2025-02-20 9 8 10 LSS, daglig Avbrott i verkställighet. Den enskilde valde att avsluta
 verksamhet sin sysselsättning pga mående och miljö. Blivit
@@ -1748,12 +1748,12 @@ vill inte längre ha insatsen.
 verksamhet enskilde har andra önskemål om verkställighet. Fått
 erbjudande om 2 nya verksamheter men inte svarat på
 introduktion. Den enskilde avbokar möten.
-2025-03-13 9 \$ 10LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-03-13 9 § 10LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet. Den enskilde har specifika önskemål.
-2025-03-19 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-03-19 9 § 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet pga mående och förändringar i
 verksamheten. Erbjudits ny uppstart 2026-04.
-2025-04-08 9 \$ 10 LSS, daglig Den enskilde medverkar inte till verkställighet. Vill
+2025-04-08 9 § 10 LSS, daglig Den enskilde medverkar inte till verkställighet. Vill
 verksamhet avvakta med uppstart pga hälsoskäl.
 
 5 (9)
@@ -1763,31 +1763,31 @@ verksamhet avvakta med uppstart pga hälsoskäl.
 KUNGSBACKA KOMMUN
 
 Beslutsdatum | Insats Skäl till att beslutet ej verkställts
-2025-06-04 9 \$ 10 LSS, daglig Avbrott i verkställighet. Pga hälsoskäl. Verksamheten
+2025-06-04 9 § 10 LSS, daglig Avbrott i verkställighet. Pga hälsoskäl. Verksamheten
 verksamhet har kontinuerlig kontakt.
-2025-09-09 9 \$ 10LSS, daglig Avbrott i verkställighet. Den enskilde har specifika
+2025-09-09 9 § 10LSS, daglig Avbrott i verkställighet. Den enskilde har specifika
 verksamhet önskemål och vill avvakta ny uppstart.
-2025-09-09 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-09-09 9 § 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet. Kontakt och planering pågår för att
 motivera den enskilde.
-2025-09-13 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-09-13 9 § 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet pga hälsotillstånd.
-2025-09-17 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-09-17 9 § 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet.
-2025-09-22 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-09-22 9 § 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet.
-2025-11-17 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-11-17 9 § 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet pga hälsotillstånd.
-2025-11-25 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-11-25 9 § 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet pga hälsotillstånd.
-2025-12-03 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-12-03 9 § 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 verksamhet till verkställighet pga hälsotillstånd. Den enskilde vill
 avvakta med insatsen.
-2025-12-04 9 \$ 10LSS, daglig Avbrott i verkställighet. Den enskilde pausade insatsen
+2025-12-04 9 § 10LSS, daglig Avbrott i verkställighet. Den enskilde pausade insatsen
 verksamhet pga hälsotillstånd. Tackar ja till ny praktikplats,
 praktikplatsen avbokar samarbetet. Planering pågår för
 att hitta ny praktikplats.
-2025-12-10 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
+2025-12-10 9 § 10 LSS, daglig Avbrott i verkställighet. Den enskilde medverkar inte
 
 verksamhet
 
@@ -1808,33 +1808,33 @@ Tackat nej till erbjudande 2025-
 05 då det var för långt från
 centrum. Bor på externt
 korttidshem i väntan på BmSS.
-2025-07-17 11 kap 1 \$ SoL, Avbrott i verkställighet. Den Verkställt 2026-03-07.
+2025-07-17 11 kap 1 § SoL, Avbrott i verkställighet. Den Verkställt 2026-03-07.
 korttidsvistelse enskilde medverkar inte till
 verkställighet.
 2025-08-25 11 kap I \$ SoL, Den enskilde medverkar inte till | Avslutat 2026-03-12,
 kontaktfamilj verkställighet. Förslag på på den enskildes
 kontaktperson finns men får inte | begäran.
 tag på den enskilde.
-2025-10-10 11 kap 1 \$ SoL, bostad Saknar plats. Verkställt 2026-03-23.
-2025-08-27 9 \$4 LSS, kontaktperson | Personalrelaterade skäl. Verkställt 2026-02-02.
-2025-06-01 9 \$ 6 LSS, korttidsvistelse | Avbrott i verkställighet, den Verkställt 2026-03-08.
+2025-10-10 11 kap 1 § SoL, bostad Saknar plats. Verkställt 2026-03-23.
+2025-08-27 9 §4 LSS, kontaktperson | Personalrelaterade skäl. Verkställt 2026-02-02.
+2025-06-01 9 § 6 LSS, korttidsvistelse | Avbrott i verkställighet, den Verkställt 2026-03-08.
 i form av läger enskilde medverkar inte till
 verkställighet.
-2025-06-14 9 \$ 6 LSS, korttidsvistelse | Avbrott i verkställighet, den Avslutat 2026-03-31,
+2025-06-14 9 § 6 LSS, korttidsvistelse | Avbrott i verkställighet, den Avslutat 2026-03-31,
 1 form av läger enskilde medverkar inte till på den enskildes
 verkställighet. begäran.
-2025-06-28 9 \$ 6 LSS, korttidsvistelse | Avbrott i verkställighet, Avslutat 2026-01-31.
+2025-06-28 9 § 6 LSS, korttidsvistelse | Avbrott i verkställighet, Avslutat 2026-01-31.
 
 i form av läger hälsoproblem hos den enskilde. | på den enskildes
 begäran. Beviljats
 annan insats.
 
-2025-10-08 9 \$ 6 LSS, korttidsvistelse | Den enskilde har specifika Verkställt 2026-02-27.
+2025-10-08 9 § 6 LSS, korttidsvistelse | Den enskilde har specifika Verkställt 2026-02-27.
 
 i form av läger önskemål. Uppstart planerad till
 
 januari 2026.
-2025-10-08 9 \$ 6 LSS, korttidsvistelse | Den enskilde har specifika Verkställt 2026-01-24.
+2025-10-08 9 § 6 LSS, korttidsvistelse | Den enskilde har specifika Verkställt 2026-01-24.
 
 i form av läger önskemål. Uppstart planerad till
 
@@ -1848,10 +1848,10 @@ KUNGSBACKA KOMMUN
 
 Beslutsdatum | Insats Skäl till att beslutet ej Datum för
 verkställts verkställighet/avslut
-2025-10-19 9 \$ 6 LSS, korttidsvistelse | Avbrott i verkställighet. Den Verkställt 2026-02-07.
+2025-10-19 9 § 6 LSS, korttidsvistelse | Avbrott i verkställighet. Den Verkställt 2026-02-07.
 i form av läger enskilde medverkar inte till
 verkställighet.
-2025-08-27 9 \$9LSS, bostad för Saknar plats. Erbjudande om Verkställt 2026-04-07.
+2025-08-27 9 §9LSS, bostad för Saknar plats. Erbjudande om Verkställt 2026-04-07.
 vuxna i form av plats kommer gå ut februari
 gruppbostad 2026.
 2024-02-09 9 8 10 LSS, daglig Avbrott i verkställighet, den Avslutat 2026-04-03,
@@ -1859,26 +1859,26 @@ verksamhet enskilde tackat nej till Tä den enskildes
 erbjudande 2024-02-09. Vill SA
 inte avsluta insatsen utan pausa
 på obestämd tid.
-2025-04-17 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den Avslutat 2026-02-13,
+2025-04-17 9 § 10 LSS, daglig Avbrott i verkställighet. Den Avslutat 2026-02-13,
 verksamhet enskilde medverkar inte till på den enskildes
 verkställighet. Har haft flertalet | begäran.
 möten och blivit erbjuden plats.
 Den enskilde befinner sig nu
 utomlands.
-2025-05-05 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den Verkställt 2026-02-09.
+2025-05-05 9 § 10 LSS, daglig Avbrott i verkställighet. Den Verkställt 2026-02-09.
 verksamhet enskilde medverkar inte till
 verkställighet. Den enskilde vill
 avvakta med insatsen.
-2025-06-16 9 \$ 10 LSS, daglig Avbrott i verkställighet. Den Verkställt 2026-04-14.
+2025-06-16 9 § 10 LSS, daglig Avbrott i verkställighet. Den Verkställt 2026-04-14.
 verksamhet enskilde har valt att avsluta sin
 praktik och pausa insatsen. Den
 enskilde önskar nu ny
 praktikplats, planering pågår.
-2025-10-08 9 \$ 10 LSS, daglig Den enskilde har specifika Verkställt 2026-02-16.
+2025-10-08 9 § 10 LSS, daglig Den enskilde har specifika Verkställt 2026-02-16.
 verksamhet önskemål. Tackat nej till
 erbjudande. Fortsatt planering
 pågår.
-2025-10-21 9 \$ 10 LSS, daglig Saknar plats. Tackat ja till Verkställt 2026-02-23.
+2025-10-21 9 § 10 LSS, daglig Saknar plats. Tackat ja till Verkställt 2026-02-23.
 
 verksamhet
 
@@ -4160,7 +4160,7 @@ Bakgrund och syfte
 Dotterbolag (WK Norra Åsa AB, 559404-4686) till Bolaget har den 31 mars
 2022 inkommit till samhällsbyggnadskontoret med en begäran om planbesked
 för fastigheten Åsa 3:339. Byggnadsnämndens arbetsutskott beslutade den 1
-december 2023 \$318 att ge samhällsbyggnadskontoret i uppdrag att upprätta
+december 2023 §318 att ge samhällsbyggnadskontoret i uppdrag att upprätta
 förslag till detaljplan för bostäder och verksamheter inom Åsa 3:339,
 Detaljplanen.
 
@@ -4172,8 +4172,8 @@ Kläppavägen, ska istället ingå i planområdet, Detaljplanen, för att skapa 
 ändamålsenlig planering.
 
 Reviderad projektbeställning för Detaljplanen, godkändes av Kommunstyrelsen
-den 25 november 2025 \$233 och nytt beslut om planuppdrag har fattats av
-Byggnadsnämndens arbetsutskott den 15 december 2025 \$ 259, att upprätta
+den 25 november 2025 §233 och nytt beslut om planuppdrag har fattats av
+Byggnadsnämndens arbetsutskott den 15 december 2025 § 259, att upprätta
 förslag till detaljplan för bostäder och verksamheter inom Åsa 3:339 och del av
 Åsa 5:246 i Åsa, Detaljplanen.
 
@@ -4450,7 +4450,7 @@ Uppdrag, politiska beslut, syfte, m.m.
 
 Bolaget har den 31 mars 2022 inkommit till samhällsbyggnadskontoret med en
 begäran om planbesked för fastigheten Åsa 3:339. Byggnadsnämndens
-arbetsutskott beslutade den I december 2023 \$318 att ge
+arbetsutskott beslutade den I december 2023 §318 att ge
 samhällsbyggnadskontoret i uppdrag att upprätta förslag till detaljplan för
 bostäder och verksamheter inom Åsa 3:339, Detaljplanen.
 
@@ -4462,8 +4462,8 @@ ingå i planområdet för Detaljplanen, för att skapa en mer ändamålsenlig
 planering.
 
 Reviderad projektbeställning för Detaljplanen, godkändes av Kommunstyrelsen
-den 25 november 2025 \$233 och nytt beslut om planuppdrag har fattats av
-Byggnadsnämndens arbetsutskott den 15 december 2025 \$ 259, att upprätta
+den 25 november 2025 §233 och nytt beslut om planuppdrag har fattats av
+Byggnadsnämndens arbetsutskott den 15 december 2025 § 259, att upprätta
 förslag till detaljplan för bostäder och verksamheter inom Åsa 3:339 och del av
 Åsa 5:246 i Åsa, Detaljplanen.
 

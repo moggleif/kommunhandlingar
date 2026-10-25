@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3ae5986a198e623c951e2afd/1756734208
 sha256: df98a1d61f026279d7863770ab0a763e59cb3627c77a9ba14dcc7bcd82cf6564
 bytes: 139660412
 sidor: 368
-hamtad: 2026-10-16T08:33:23+00:00
-konverterad: 2026-10-16T08:45:49+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T07:55:46+00:00
+konverterad: 2026-10-25T08:11:18+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok]
@@ -5217,7 +5217,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (57)
 Byggnadsnämndens arbetsutskott Datum
 2025-06-24
 
-\$ 146 Dnr BN-2019-00020
+§ 146 Dnr BN-2019-00020
 Godkännande av detaljplan för Kungsbackas arena i Kungsbacka stad
 
 Förslag till beslut i byggnadsnämnden
@@ -5230,7 +5230,7 @@ Kungsbackas arena i Kungsbacka stad, upprättad 2025-06-10.
 
 Sammanfattning av ärendet
 
-Byggnadsnämnden gav 2019-10-24 \$332 samhällsbyggnadskontoret i uppdrag att
+Byggnadsnämnden gav 2019-10-24 §332 samhällsbyggnadskontoret i uppdrag att
 upprätta detaljplan för ny arena inom fastigheten Kungsbacka 4:65 m.fl. Detaljplanen
 hanteras med utökat planförfarande därav sker beslut om antagande av detaljplanen i
 kommunfullmäktige.
@@ -5260,7 +5260,7 @@ Genomförandetiden för detaljplanen har gått ut. Den sydöstra delen av områd
 omfattas inte av någon detaljplan.
 
 Kontoret har för aktuell detaljplan gjort en undersökning av miljöpåverkan enligt
-Plan- och bygglagen 4 kap. 34 \$ och Miljöbalken 6 kap. 11 \$. Vid undersökningen
+Plan- och bygglagen 4 kap. 34 § och Miljöbalken 6 kap. 11 §. Vid undersökningen
 konstaterades att ett genomförande av planen inte innebär betydande miljöpåverkan,
 varför en miljöbedömning med särskild miljökonsekvensbeskrivning inte har gjorts.
 Länsstyrelsen instämmer med kommunens bedömning.
@@ -20713,7 +20713,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 102)
 Nämnden för Vård & Omsorg Datum
 2025-05-15
 
-\$ 79 Dnr VO-2025-00035
+§ 79 Dnr VO-2025-00035
 
 Yttrande över motion från Roger Larsson (KB) om att inrätta ett
 kommunalt pensionärsråd
@@ -20753,17 +20753,17 @@ kommunen, en grupp som både har erfarenhet och kunskap samt specifika behov och
 Beslutsunderlag
 
 Förvaltningen för Vård & Omsorgs tjänsteskrivelse, 2025-03-28
-Kommunstyrelsens arbetsutskott 2025-01-07, \$ 11
+Kommunstyrelsens arbetsutskott 2025-01-07, § 11
 
-Kommunfullmäktige 2024-12-12, \$ 170
+Kommunfullmäktige 2024-12-12, § 170
 
 Motion från Roger Larsson (KB) om att inrätta ett kommunalt pensionärsråd 2024-
 12-12
 
-Kommunfullmäktige, 2012-08-14, \$ 168
+Kommunfullmäktige, 2012-08-14, § 168
 
 Förvaltningen för Vård & Omsorgs tjänsteskrivelse, 2017-06-14
-Kommunfullmäktige, 2014-10-14, \$ 119 - Policy för invånardialog
+Kommunfullmäktige, 2014-10-14, § 119 - Policy för invånardialog
 
 Det här dokumentet är digitalt signerat
 
@@ -23843,7 +23843,7 @@ praktiken inte går att bebygga. Detta är absurt och en helt orimlig situation 
 principen om proportionalitet!
 
 Vi ber nu att kommunen såvitt gäller Släps-Kullen 2:40 rättar felet/missen som blev i
-detaljplanen \$79 och gör en ny detaljplan för denna fastighet så att vi kan använda och
+detaljplanen §79 och gör en ny detaljplan för denna fastighet så att vi kan använda och
 bebygga tomten i enlighet med fastighetsändamålet. Den byggrätt som finns för Tomten
 måste placeras så att byggrätten och reglerna om minsta avstånd till tomtgräns samspelar och
 gör det möjligt att placera en byggnad på Tomten. Vidare bör byggrätten också vara lagom
@@ -23864,7 +23864,7 @@ Kungsbacka, den 27 maj 2025
 Bilagor :
 1\. Utdrag ur fastighetsregistret för fastigheten Släps-Kullen 2:40
 
-2\. Kartbild hämtad från plankarta \$79, Fastighetsgränsen för Släps-Kullen
+2\. Kartbild hämtad från plankarta §79, Fastighetsgränsen för Släps-Kullen
 2:40/Tomten är inritad med röd kantlinje.
 
 3\. Områdeskarta (Lantmäteriets fastighetskarta)
@@ -24008,7 +24008,7 @@ Ett registerutdrag med standardinformation redovisar inte det fullständiga inne
 
 Bilaga 2 till ansökan om rättelse av detaljplan
 
-Kartbilden nedan är ett urklipp från plankarta \$79. Fastighetsgränsen för Släps-Kullen 2:40/Tomten
+Kartbilden nedan är ett urklipp från plankarta §79. Fastighetsgränsen för Släps-Kullen 2:40/Tomten
 är inritad med röd kantlinje.
 
 I

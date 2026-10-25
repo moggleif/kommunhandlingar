@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.25533da21997c87c7443e6ff/1758870337
 sha256: bc3571af8c649cbdcffd669882bdd5a4388c48153234cadc0ff985a7325818e7
 bytes: 20676472
 sidor: 131
-hamtad: 2026-10-16T08:47:44+00:00
-konverterad: 2026-10-16T08:50:35+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T08:13:09+00:00
+konverterad: 2026-10-25T08:16:18+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr]
@@ -1411,7 +1411,7 @@ tömma ut material från behållare, genomsöka och iordningställa.
 För hämtning med andra metoder än de som är beskrivna i denna avfallstaxa eller där
 förhållandena väsentligt avviker från vad som är normalt får nämnden för Teknik besluta om
 särskilda avgifter i enlighet med grunderna för denna avfallstaxa och de grunder som anges i
-27 kap. 5 \$ miljöbalken.
+27 kap. 5 § miljöbalken.
 
 Kungsbacka kommun Avfallstaxa 2026 26
 
@@ -2534,7 +2534,7 @@ tömma ut material från behållare, genomsöka och iordningställa.
 För hämtning med andra metoder än de som är beskrivna i denna avfallstaxa eller där
 förhållandena väsentligt avviker från vad som är normalt får nämnden för Teknik besluta om
 särskilda avgifter i enlighet med grunderna för denna avfallstaxa och de grunder som anges i
-27 kap. 5 \$ miljöbalken.
+27 kap. 5 § miljöbalken.
 
 5\. Indexjustering av avgiftsbelopp
 
@@ -3896,7 +3896,7 @@ följande:
 För hämtning med andra metoder än de som är beskrivna i denna avfallstaxa eller där
 förhållandena väsentligt avviker från vad som är normalt får nämnden för Teknik besluta om
 särskilda avgifter i enlighet med grunderna för denna avfallstaxa och de grunder som anges i
-27 kap. 5 \$ miljöbalken.
+27 kap. 5 § miljöbalken.
 
 Kungsbacka kommun Avfallstaxa 2025 2
 
@@ -4034,7 +4034,7 @@ Samverkan där annan part äger och finansierar sin anläggning och Trafikverket
 
 Mellan nedanstående parter träffas härmed avtal om samverkan enligt följande:
 
-\$1 Parter
+§1 Parter
 
 Trafikverket, Västra Regionen, 202100-6297, 781 89 Borlänge, nedan Trafikverket
 
@@ -4363,7 +4363,7 @@ Särö längs del av väg 955.
 
 Upplysning
 Beslut fattat med stöd av delegering. Nämnden för Tekniks delegeringsförteckning: punkt 3.2, 2024-
-09-24, \$ 94.
+09-24, § 94.
 
 Sammanfattning av ärendet
 
@@ -4435,7 +4435,7 @@ Särö längs del av väg 955.
 
 Upplysning
 Beslut fattat med stöd av delegering. Nämnden för Tekniks delegeringsförteckning: punkt 3.2, 2024-
-09-24, \$ 94.
+09-24, § 94.
 
 Sammanfattning av ärendet
 
@@ -5279,7 +5279,7 @@ att staten beskattar oss för ägandet av Tomten med 1 ?4 av det taxerade markv�
 
 betalar alltså drygt 30.000 kronor per år i fastighetsskatt för att vi äger Tomten.
 
-När detaljplanen (\$79) för området upprättades och antogs i slutet av 1960-talet så blev av
+När detaljplanen (§79) för området upprättades och antogs i slutet av 1960-talet så blev av
 någon anledning fastigheten Släps-Kullen 2:40 inte beaktad — den blev förbisedd och
 behandlad på ett sätt som nu gjort den omöjlig att exploatera enligt detaljplanen och omöjlig
 att använda för sitt ändamål. Se bifogad kartbild, bilaga 2, som är hämtad från den alltjämt
@@ -5303,7 +5303,7 @@ praktiken inte går att bebygga. Detta är absurt och en helt orimlig situation 
 principen om proportionalitet!
 
 Vi ber nu att kommunen såvitt gäller Släps-Kullen 2:40 rättar felet/missen som blev i
-detaljplanen \$79 och gör en ny detaljplan för denna fastighet så att vi kan använda och
+detaljplanen §79 och gör en ny detaljplan för denna fastighet så att vi kan använda och
 bebygga tomten i enlighet med fastighetsändamålet. Den byggrätt som finns för Tomten
 måste placeras så att byggrätten och reglerna om minsta avstånd till tomtgräns samspelar och
 gör det möjligt att placera en byggnad på Tomten. Vidare bör byggrätten också vara lagom
@@ -5324,12 +5324,12 @@ Kungsbacka, den 27 maj 2025
 Bilagor :
 1\. Utdrag ur fastighetsregistret för fastigheten Släps-Kullen 2:40
 
-2\. Kartbild hämtad från plankarta \$79, Fastighetsgränsen för Släps-Kullen
+2\. Kartbild hämtad från plankarta §79, Fastighetsgränsen för Släps-Kullen
 2:40/Tomten är inritad med röd kantlinje.
 
 3\. Områdeskarta (Lantmäteriets fastighetskarta)
 
-4, Plankarta \$79
+4, Plankarta §79
 
 <!-- sida 129 -->
 

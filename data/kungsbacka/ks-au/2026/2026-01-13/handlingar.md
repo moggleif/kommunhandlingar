@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.58e850c319b35598f863cbc4/1767857764
 sha256: 6936d87dc7c288415ad2f9856bfdbec5f4e386bda9eae7d607e0f2e6a966d21a
 bytes: 42883627
 sidor: 304
-hamtad: 2026-10-16T09:26:19+00:00
-konverterad: 2026-10-16T09:31:35+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T08:55:18+00:00
+konverterad: 2026-10-25T09:00:55+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ej-konverterad, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ocr, ej-konverterad, ok, ocr, ocr, ocr, ok, ocr, ok, ej-konverterad, ok, ok, ocr, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ok, ocr, ok, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ocr, ok, ej-konverterad, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ej-konverterad, ok, ej-konverterad, ocr, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok]
@@ -4018,29 +4018,29 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 <!-- sida 102 -->
 
 Innehåll
-1 \$ Inledande bestämmelser
+1 § Inledande bestämmelser
 
-2 \$ Avloppsanordningar
+2 § Avloppsanordningar
 
-3 \$ Annan toalett än WC
+3 § Annan toalett än WC
 
-4 \$ Att ha djur
+4 § Att ha djur
 
-5 \$ Tomgångskörning med förbränningsmotor
-6 \$ Spridning av gödsel
+5 § Tomgångskörning med förbränningsmotor
+6 § Spridning av gödsel
 
-7 \$ Värmepumpar
+7 § Värmepumpar
 
-8 —9 \$ Eldning av fastbränsle i kamin samt skötsel och tillsyn m.m.
-10 \$ Gatumusik
+8 —9 § Eldning av fastbränsle i kamin samt skötsel och tillsyn m.m.
+10 § Gatumusik
 
-11 \$ Ansökan och anmälan
+11 § Ansökan och anmälan
 
-12 \$ Dispens
+12 § Dispens
 
-13 \$ Sanktioner
+13 § Sanktioner
 
-14 \$ Övergångsbestämmelser
+14 § Övergångsbestämmelser
 
 Kartbilagor 1-6
 
@@ -4059,7 +4059,7 @@ hälsoskydd (1998:899), gäller följande lokala föreskrifter för att skydda m
 Avloppsanordning
 28
 
-Enligt 13 \$ förordningen om miljöfarlig verksamhet och hälsoskydd krävs det tillstånd av nämnden för Miljö
+Enligt 13 § förordningen om miljöfarlig verksamhet och hälsoskydd krävs det tillstånd av nämnden för Miljö
 & Hälsoskydd för att
 
 a. Inrätta en avloppsanordning som en eller flera vattentoaletter ska anslutas till
@@ -4070,7 +4070,7 @@ genom kommunen samt inom vattenskyddsområden som har märkts ut på kartbilaga 
 
 Tillstånd eller anmälan enligt dessa föreskrifter krävs inte för dagvattenanordningar.
 
-Enligt 13 och 14 \$\$ förordningen om miljöfarlig verksamhet och hälsoskydd krävs anmälan till nämnden för
+Enligt 13 och 14 §§ förordningen om miljöfarlig verksamhet och hälsoskydd krävs anmälan till nämnden för
 Miljö & Hälsoskydd för att
 
 1\. Inrätta en annan avloppsanordning än som anges i punkterna 1—2
@@ -4078,7 +4078,7 @@ Miljö & Hälsoskydd för att
 eller sammansättning.
 
 Anmälan eller tillstånd enligt dessa bestämmelser krävs inte för avlopps-anordning som kräver tillstånd
-enligt 5 \$ förordningen om miljöfarlig verksamhet och hälsoskydd eller om avloppsanordningen är avsedd
+enligt 5 § förordningen om miljöfarlig verksamhet och hälsoskydd eller om avloppsanordningen är avsedd
 att föra avloppsvattnet till enbart en allmän avloppsanordning.
 
 För vattenskyddsområden finns länsstyrelsens föreskrifter i Hallands läns författningssamling.
@@ -4139,7 +4139,7 @@ Inom de vattenskyddsområden som har märkts ut på kartbilaga 2—5 krävs till
 Hälsa för att inrätta en sådan anläggning.
 
 Anmälan eller tillstånd enligt denna paragraf krävs inte för värmepumpsanläggning som kräver tillstånd
-enligt 5 \$ förordningen och miljöfarlig verksamhet och hälsoskydd.
+enligt 5 § förordningen och miljöfarlig verksamhet och hälsoskydd.
 
 Eldning av fastbränsle i kamin m.m. samt skötsel och tillsyn
 8s
@@ -4179,7 +4179,7 @@ Ansökan och anmälan
 118
 
 En ansökan eller anmälan till nämnden för Miljö & Hälsoskydd ska vara skriftlig och uppfylla föreskrivna krav
-i 25 och 46 \$\$ förordningen om miljöfarlig verksamhet och 19 kap. 5 \$ respektive 22 kap.1 \$ miljöbalken.
+i 25 och 46 §§ förordningen om miljöfarlig verksamhet och 19 kap. 5 § respektive 22 kap.1 § miljöbalken.
 
 Dispens
 128
@@ -11554,14 +11554,14 @@ Köpeskilling
 
 Tillträdesdag
 
-\$1 Betalning av
+§1 Betalning av
 köpeskilling
 
-\$ 2 Inget villkor om
+§ 2 Inget villkor om
 
 finansiering
 
-\$ 3 Inteckningar och
+§ 3 Inteckningar och
 pantbrev
 
 30018 MC
@@ -11640,19 +11640,19 @@ E
 
 <!-- sida 271 -->
 
-\$ 4 Rättigheter och
+§ 4 Rättigheter och
 belastningar
 
-\$ 5 Fastighetens skick
+§ 5 Fastighetens skick
 
-\$6 Ansvar för skada
+§6 Ansvar för skada
 
-\$7 Äganderättens
+§7 Äganderättens
 övergång samt
 fördelning av intäkter
 och kostnader
 
-\$ 8 Myndighets beslut,
+§ 8 Myndighets beslut,
 rådighetsinskränkning,
 anslutningsavgifter
 
@@ -11718,14 +11718,14 @@ Vallgatan 4 Besöksadress Tel 0300-68 68 00 Styrelsens säte Kungsbacka Bankgiro
 
 <!-- sida 272 -->
 
-\$ 9 Lagfarts- och
+§ 9 Lagfarts- och
 lånekostnader
 
-\$ 10 Kontraktsbrott
+§ 10 Kontraktsbrott
 
-\$ 11 Energideklaration
+§ 11 Energideklaration
 
-\$ 12 Städning och
+§ 12 Städning och
 kvarglömd egendom
 
 30018 MC
@@ -11758,7 +11758,7 @@ köparens kontraktsbrott ska ersättningen till säljaren även innefatta sälja
 för mäklarprovision i samband med försäljningen av fastigheten.
 
 Det är av väsentlig betydelse för säljaren att köparen betalar handpenningen i
-enlighet med vad som stadgas i \$ 1. Betalar inte köparen handpenningen i rätt tid
+enlighet med vad som stadgas i § 1. Betalar inte köparen handpenningen i rätt tid
 har säljaren rätt att häva köpet fram till dess att handpenningen betalats i sin helhet.
 Är köparen sen med betalningen av handpenningen kan detta leda till
 skadeståndsskyldighet för köparen.
@@ -11786,17 +11786,17 @@ Vallgatan 4 Besöksadress Tel 0300-68 68 00 Styrelsens säte Kungsbacka Bankgiro
 
 <!-- sida 273 -->
 
-\$ 13 Överlämnande av
+§ 13 Överlämnande av
 handlingar samt nycklar
 
-\$ 14 Pantförskrivning
+§ 14 Pantförskrivning
 
-\$ 15 Skriftliga
+§ 15 Skriftliga
 meddelanden
 
-\$ 16 Friskrivning
+§ 16 Friskrivning
 
-\$ 17 Kommunstyrelsens
+§ 17 Kommunstyrelsens
 arbetsutskotts
 godkännande
 
@@ -11808,7 +11808,7 @@ Fastighetsbyrån Norra Halland AB
 Fastighetsbyrån ör ]
 
 4(5)
-Sedan köpeskilling betalats enligt de i 1 \$ angivna villkoren, ska säljaren till köparen
+Sedan köpeskilling betalats enligt de i 1 § angivna villkoren, ska säljaren till köparen
 
 överlämna bevittnat kvitterat köpebrev avseende fastigheten och övriga handlingar
 som behövs för att köparen ska få lagfart. Säljaren ska även till köparen överlämna
@@ -12099,7 +12099,7 @@ I det följande kallad fastigheten
 Köpeskilling Överlåtelsen sker mot en överenskommen köpeskilling om
 ex PTREMILJONERFEMHUNDRATUSEN "295 3 500 000 kronor
 Tillträdesdag 2026-02-23, eller annat datum enligt överenskommelse
-\$1 Betalning av Köparen betalar köpeskillingen till säljaren på följande sätt:
+§1 Betalning av Köparen betalar köpeskillingen till säljaren på följande sätt:
 köpeskilling
 \+ Betalar handpenning senast den 18 december 2025 350 000 kronor
 
@@ -12114,7 +12114,7 @@ Total summa köpeskilling 3 500 000 kronor
 På tillträdesdagen ska likvidavräkning upprättas. Om lån som ska övertas minskat på
 grund av amortering ska kontantlikviden ökas i motsvarande mån.
 
-\$ 2 Inget villkor om Parterna är medvetna om möjligheten att ta in ett villkor i köpekontraktet att detta
+§ 2 Inget villkor om Parterna är medvetna om möjligheten att ta in ett villkor i köpekontraktet att detta
 finansiering köp kan återgå om köparen inte ordnat sin finansiering av köpet senast en viss dag,
 exempelvis genom upptagande av lån och/eller försäljning av sin nuvarande bostad.
 
@@ -12135,7 +12135,7 @@ Fastighetsbyrån
 
 3 (5)
 
-\$9 Lagfarts- och Köparen ska betala alla lagfarts- och inteckningskostnader i anledning av köparens
+§9 Lagfarts- och Köparen ska betala alla lagfarts- och inteckningskostnader i anledning av köparens
 lånekostnader förvärv. Kostnader aviserade från säljarens bank vid lösen av säljarens lån ska betalas
 av säljaren.
 
@@ -12144,7 +12144,7 @@ köpeskillingen, och i förekommande fall lösen av säljarens lån, är partern
 om att köparen ska betala denna. En sådan avgift kan bland annat bli aktuell när
 köparen inte tar några lån för att finansiera köpet.
 
-\$10 Kontraktsbrott Skulle någon part inte fullgöra sina skyldigheter enligt detta kontrakt, har motparten
+§10 Kontraktsbrott Skulle någon part inte fullgöra sina skyldigheter enligt detta kontrakt, har motparten
 rätt till skälig ersättning. Är kontraktsbrottet av väsentlig betydelse för part har
 denne dessutom rätt att häva köpet. Omedelbar hävningsrätt föreligger inte om
 köparen är privatperson och kan hänvisa till sådana extraordinära omständigheter
@@ -12158,12 +12158,12 @@ köparens kontraktsbrott ska ersättningen till säljaren även innefatta sälja
 för mäklarprovision i samband med försäljningen av fastigheten.
 
 Der är av väsentlig betydelse för säljaren att köparen betalar handpenningen i
-enlighet med vad som stadgas i \$1. Betalar inte köparen handpenningen i rätt tid
+enlighet med vad som stadgas i §1. Betalar inte köparen handpenningen i rätt tid
 har säljaren rätt att häva köpet fram till dess att handpenningen beralats i sin helhet.
 Är köparen sen med betalningen av handpenningen kan detta leda till
 skadeståndsskyldighet för köparen.
 
-\$ 11 Överlämnande av — Sedan köpeskilling betalats enligt de i 1 \$ angivna villkoren, ska säljaren till köparen
+§ 11 Överlämnande av — Sedan köpeskilling betalats enligt de i 1 § angivna villkoren, ska säljaren till köparen
 
 handlingar överlämna bevittnat kvitterat köpebrev avseende fastigheten och övriga handlingar
 som behövs för att köparen ska få lagfart. Säljaren ska även till köparen överlämna
@@ -12171,11 +12171,11 @@ aktuellt utdrag ur fastighetsregistret, obelånade pantbrev, gällande tomtkarta
 sådan finns och andra handlingar rörande fastigheten, vilka är av betydelse för
 köparen som ägare av denna.
 
-\$12 Pantförskrivning — Om det krävs för köparens finansiering av köpet, förbinder sig säljaren att på
+§12 Pantförskrivning — Om det krävs för köparens finansiering av köpet, förbinder sig säljaren att på
 köparens bekostnad ansöka om nya inteckningar och hjälpa till vid köparens
 pantförskrivning av pantbrev avseende fastigheten innan köparen beviljats lagfart.
 
-\$13 Skriftliga Skriftliga meddelanden med anledning av detta kontrakt ska ske genom e-post till
+§13 Skriftliga Skriftliga meddelanden med anledning av detta kontrakt ska ske genom e-post till
 meddelanden den adress som angetts för motparten på kontraktets första sida samt med
 kännedomskopia till ansvarig mäklare.
 
@@ -12802,7 +12802,7 @@ gäller alltså inte för detta avtal.
 Konkurs
 
 Detta avtal är inte förenat med ersättning för arrenderättens värde enligt bestämmelserna i 8
-kap. 18 \$ jordabalken om arrendatorn försätts i konkurs.
+kap. 18 § jordabalken om arrendatorn försätts i konkurs.
 
 Särskilda arrendevillkor
 

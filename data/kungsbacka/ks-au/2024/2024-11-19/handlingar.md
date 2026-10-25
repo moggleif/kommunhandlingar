@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6900ef2d1932979363710d22/1731677915
 sha256: 9acbde6efcabcbf157d12fbee5dbc6652e905c162ea08b9b61390c2d27bf9d8b
 bytes: 51605589
 sidor: 109
-hamtad: 2026-10-16T07:30:54+00:00
-konverterad: 2026-10-16T07:33:01+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T06:57:14+00:00
+konverterad: 2026-10-25T06:59:06+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ocr, ocr, ok, ocr, ok, ocr, ocr, ok]
@@ -1962,7 +1962,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 20 (38)
 Datum
 2014-05-06
-\$ 60 KS/2014:159
+§ 60 KS/2014:159
 
 Mål för bostadsbyggande
 
@@ -1988,9 +1988,9 @@ Beslutsunderlag
 Mål för bostadsbyggande 2014-2020 - Förslag kommunstyrelsens arbetsutskott,
 2014-04-08
 
-Kommunstyrelsens arbetsutskott, 2014-04-08, \$ 131
+Kommunstyrelsens arbetsutskott, 2014-04-08, § 131
 
-Kommunstyrelsen, 2014-04-15, \$ 104
+Kommunstyrelsen, 2014-04-15, § 104
 
 Anförande
 
@@ -2023,7 +2023,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 21 (38)
 Datum
 2014-05-06
-\$ 60 fortsätter KS/2014:159
+§ 60 fortsätter KS/2014:159
 
 Fredrik Hansson (C), Per Ödman (M), Larry Söder (KD), Stephan Philipsson (KB),
 Niklas Mattsson (KD), Inge Sundberg (MM), Ulf Persson (C), Peter Söderberg (M) och
@@ -2081,7 +2081,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 22 (38)
 Datum
 2014-05-06
-\$ 60 fortsätter KS/2014:159
+§ 60 fortsätter KS/2014:159
 
 Omröstning begärs.
 
@@ -2143,7 +2143,7 @@ Datum
 
 2014-05-06
 
-\$ 60 fortsätter KS/2014:159
+§ 60 fortsätter KS/2014:159
 Voteringslista nr. 1
 Kungsbacka kommunfullmäktiges sammanträde den 6 maj 2014 klockan 22:13:28.
 \$& 60 Mål för bostadsbyggande — Bilaga A
@@ -2210,7 +2210,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 24 (38)
 Datum
 2014-05-06
-\$ 60 fortsätter KS/2014:159
+§ 60 fortsätter KS/2014:159
 Emma Vildstrand (MP) Vk X
 Harri Lötjönen (MP) | Ök X
 Lars-Anders Lundberg (MP) | Ök X
@@ -2232,7 +2232,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 25 (38)
 Datum
 2014-05-06
-\$ 60 fortsätter KS/2014:159
+§ 60 fortsätter KS/2014:159
 Voteringslista nr. 2
 Kungsbacka kommunfullmäktiges sammanträde den 6 maj 2014 klockan 22:14:35.
 
@@ -2301,7 +2301,7 @@ Kommunfullmäktige
 SAMMANTRÄDESPROTOKOLL 26 (38)
 Datum
 2014-05-06
-\$ 60 fortsätter KS/2014:159
+§ 60 fortsätter KS/2014:159
 Harri Lötjönen (MP) | Ök Xx
 Lars-Anders Lundberg (MP) | Ök X
 Conny Jexler (-) Vk X
@@ -2410,7 +2410,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 25 (55)
 Sammanträdesdatum
 2012-04-10
-\$ 89 KS08-00179/20
+§ 89 KS08-00179/20
 
 Antagande av Översiktsplan för vindkraft, tillägg till
 Kungsbacka översiktsplan
@@ -2420,7 +2420,7 @@ Beslut
 Föreliggande förslag, daterat januari 2012, till Översiktsplan för vindkraft, tillägg till
 Kungsbacka översiktsplan 2006 antas.
 
-Riktlinjer för etablering av vindkraftverk i Kungsbacka beslutade 1997-12-11 \$ 215
+Riktlinjer för etablering av vindkraftverk i Kungsbacka beslutade 1997-12-11 § 215
 upphävs.
 
 Kommunstyrelsen får i uppdrag att ta fram tillämpningar och anvisningar för
@@ -2456,8 +2456,8 @@ Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2012-01-16
 Kommunstyrelsens arbetsutskott 2012-01-24, 8 31 — Avstämning
-Kommunstyrelsens arbetsutskott 2012-03-13, \$ 72
-Kommunstyrelsen 2012-03-20, \$ 74
+Kommunstyrelsens arbetsutskott 2012-03-13, § 72
+Kommunstyrelsen 2012-03-20, § 74
 Paragrafen fortsätter
 
 Expedierat/bestyrkt
@@ -2470,7 +2470,7 @@ Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 26 (55)
 Sammanträdesdatum
 2012-04-10
 
-\$ 89 fortsättning KS08-00179/20
+§ 89 fortsättning KS08-00179/20
 
 Anförande
 
@@ -2522,7 +2522,7 @@ Justerare - Expedierat/bestyrkt
 
 Kungsbacka kommunfullmäkt
 
-Bilaga Å. till Kommunfullmäktiges protokoll. KF \$ 89/12
+Bilaga Å. till Kommunfullmäktiges protokoll. KF § 89/12
 Voteringslista nr. 1
 
 Bilaga A
@@ -2666,7 +2666,7 @@ Justeringsmännens signatur:
 
 <!-- sida 63 -->
 
-; KF \$ 89/12
+; KF § 89/12
 
 ( E
 biz t ;

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.66facb8818d54d93d3e1660d/1707234487
 sha256: 8e6826a288f53861cbe06ef8d3c90a099331b0e7eac726a54419b1802aa62c31
 bytes: 32407299
 sidor: 336
-hamtad: 2026-10-16T10:38:58+00:00
-konverterad: 2026-10-16T10:40:43+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T10:13:25+00:00
+konverterad: 2026-10-25T10:15:15+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2197,7 +2197,7 @@ Peter Söderberg (M)
 
 Stadshuset 2023-09-1
 
-\$ 28-34
+§ 28-34
 
 Sida 1 av 9
 
@@ -2211,7 +2211,7 @@ Sammanträdesdatum
 
 Styrelsesammanträde 2023-09-06
 
-\$29
+§29
 Stadgeändring
 
 Beslut
@@ -2219,7 +2219,7 @@ Beslut
 Förslag på ändring av stiftelsens stadgar skickas till kommunfullmäktige för godkännande.
 
 Sammanfattning
-Tjolöholms stadgar behöver ändras då de uppenbart inte kan följas. Ändringen gäller \$3, sista stycket, som
+Tjolöholms stadgar behöver ändras då de uppenbart inte kan följas. Ändringen gäller §3, sista stycket, som
 
 lyder:
 
@@ -2326,23 +2326,23 @@ uniForm KUB301 v 1.0, 2005-11-25
 
 Stadgar för Stiftelsen Tjolöholm
 
-Godkända av kommunfullmäktige i Kungsbacka 1996-10-10, KF \$ 187/96 samt
+Godkända av kommunfullmäktige i Kungsbacka 1996-10-10, KF § 187/96 samt
 permutation genom Kammarkollegiets beslut 1997-12-22, dnr 430-6320-97 med
 omprövningsbeslut 1998-02-03, dnr 438-454-98 (lagakraftvunna genom regeringens
 beslut 1998-09-03, Ku98/216/Ka).
 
 Beslut om ändring 2007-08-28. Ändring godkänd av kommunfullmäktige i
-Kungsbacka 2007-06-14, \$ 109 samt permutation genom Kammarkollegiets beslut
+Kungsbacka 2007-06-14, § 109 samt permutation genom Kammarkollegiets beslut
 2007-12-03, dnr 430-18971-07
 
-\$1
+§1
 
 Stiftelsen, vars benämning (firma) är Stiftelsen Tjolöholm, har till ändamål att äga
 och förvalta Tjolöholms egendom i Kungsbacka kommun och där utveckla för
 Västsverige värdefulla verksamheter inom kulturområdet och för turismen och
 friluftslivet.
 
-\$2
+§2
 
 Stiftelsens huvudman är Kungsbacka kommun.
 
@@ -2353,7 +2353,7 @@ Huvudman för stiftelsen skall tillskjuta för stiftelsens verksamhet erforderli
 
 Stiftelsekapitalet uppgår till 10,5 miljoner kronor, varav Kungsbacka kommun har
 tillskjutit 8,5 miljoner kronor och Västkuststiftelsen 2 miljoner kronor. Kapitalet
-skall användas för förvärv av egendom enligt \$ 1.
+skall användas för förvärv av egendom enligt § 1.
 
 1 (3)
 
@@ -2395,7 +2395,7 @@ Styrelsen ska ha lägst fem och högst nio ordinarie ledamöter med lägst fem o
 sju suppleanter.
 
 Styrelsen utses av kommunfullmäktige i Kungsbacka kommun för en tid av fyra år
-och mandattiden skall sammanfalla med den tid, som anges i 6 kap 12 \$
+och mandattiden skall sammanfalla med den tid, som anges i 6 kap 12 §
 kommunallagen. Kommunfullmäktige bestämmer i vilken ordning utsedda
 suppleanter inträder i tjänstgöring vid förfall för ordinarie ledamöter.
 
@@ -2417,7 +2417,7 @@ sammanträde.
 
 Kallelse till sammanträde skall utgå minst tio dagar före sammanträdet.
 
-\$8
+§8
 Stiftelsens firma tecknas, förutom av styrelsen, av den eller de personer inom eller
 utom styrelsen, som styrelsen därtill utser.
 
@@ -2514,7 +2514,7 @@ planerade driftåtgärder.
 
 <!-- sida 67 -->
 
-F\$ 14/9)
+F§ 14/9)
 
 Kungsbacka 19
 
@@ -7290,18 +7290,18 @@ parkeringsavgifter i Kungsbacka kommun;
 
 beslutade den 8 maj 2023.
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 \$ andra stycket 17 och 3 \$
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 § andra stycket 17 och 3 §
 första stycket trafikförordningen (1998:1276) följande.
 
 Föreskrifter om ändring i Kungsbacka kommuns lokala trafikföreskrifter 1384
 2019:00038 om parkeringsavgifter i Kungsbacka kommun beslutade den 1 april 2019
 
-Kungsbacka kommun föreskriver med stöd av 10 kap. 1 3 andra stycket 17 och 3 \$
-första stycket trafikförordningen (1998:1276) att 6 \$ i kommunens lokala
+Kungsbacka kommun föreskriver med stöd av 10 kap. 1 3 andra stycket 17 och 3 §
+första stycket trafikförordningen (1998:1276) att 6 § i kommunens lokala
 trafikföreskrifter 1384 2019:00038 om parkeringsavgifter i Kungsbacka kommun ska
 ha följande lydelse.
 
-6 \$ Taxa E. Avgiften är 8 kr per timme
+6 § Taxa E. Avgiften är 8 kr per timme
 
 Denna författning träder i kraft den 10 maj 2023.
 

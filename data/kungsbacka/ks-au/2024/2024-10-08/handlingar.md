@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4df3e2dd19250eca9472b7de/1728052389
 sha256: b79b3566d35f515c58585b89b813584eb644d5cc14d0c8696697dcd3b4f90e74
 bytes: 36008688
 sidor: 159
-hamtad: 2026-10-16T07:18:27+00:00
-konverterad: 2026-10-16T07:19:44+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T06:44:46+00:00
+konverterad: 2026-10-25T06:46:00+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -4890,7 +4890,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (16)
 Nämnden för Förskola & Grundskola Datum
 2024-06-12
 
-\$ 62 Dnr FG-2024-00129
+§ 62 Dnr FG-2024-00129
 
 Beredning av motion - Införande av tolkavgift i Kungsbacka kommun
 (KS-2024-00131)
@@ -4932,8 +4932,8 @@ enskilde för att kunna bedriva en effektiv verksamhet. Avgift för tolktjänst 
 Beslutsunderlag
 
 Förvaltningen för Förskola & Grundskola tjänsteskrivelse, 2024-05-20
-Kommunstyrelsens arbetsutskott 2024-02-27 \$ 65
-Kommunfullmäktige 2024-02-06 \$ 21
+Kommunstyrelsens arbetsutskott 2024-02-27 § 65
+Kommunfullmäktige 2024-02-06 § 21
 
 Motion från Stefan Jägnert (SD) 2024-01-30
 

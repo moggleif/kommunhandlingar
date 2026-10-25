@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2334a47b19733ebe4fc653f2/1749123904
 sha256: 97a26799a98b322ec31927fde20a50f4748450ab9171a3b913b94eea5b74fa84
 bytes: 27831251
 sidor: 166
-hamtad: 2026-10-16T08:20:29+00:00
-konverterad: 2026-10-16T08:23:15+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T07:44:05+00:00
+konverterad: 2026-10-25T07:47:01+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -4899,7 +4899,7 @@ Förbud | 15 NVL Förbud
 
 ventilatio
 
-Bn \$ 218
+Bn § 218
 Aus 303 NE .
 
 u 303 Inlämnade konstruktionshandlingar avseende bygg VA/värme
@@ -4912,7 +4912,7 @@ Komplettering beräknas ske med yttrande från brandmyndigheten, yrkes- faslighe
 inspektionen samt berörda grannar före arbetsutskottets sammanträde. MX] Anmälan om ansvarig arbetsledare för bygg rör ventilation
 
 att med hänsyn till tomtplatsens belägenhet söder om allmänna vägen för- NN För godkännande av anmäld ansvarig arbetsledare för bygg rör
-klara att gällandeförbud jämlikt 16 \$ naturvårdslagen inte skall utgöra ilati .
+klara att gällandeförbud jämlikt 16 § naturvårdslagen inte skall utgöra ilati .
 hinder mot att i huvudsaklig överensstämmelse medföretedda ritningar Ö ventilation erfordras kompetensuppgifter
 
 Vidare kommer besiktning av den föreslagna tomtplatsen att ske före
@@ -4939,7 +4939,7 @@ Godkännande från yrkesinspektionen föreligger.
 
 förslagen sanitärsnlöggning. har den 21 maj 1991 lämnat tillstånd till överlämna ärendet till stadsarkitektkontoret för bygglovgivning i Teknisk beskrivning
 ” delegation, när byggnadens vattenförsörjning, med hänvisning till | Grundundersökning Om arv nat ön berg , Of
-2 kap 3 \$ plan- och bygglagen, klarlagts, samt Brandcellsindelning — brandteknisk redovisning
+2 kap 3 § plan- och bygglagen, klarlagts, samt Brandcellsindelning — brandteknisk redovisning
 Ventilationsteknisk redovisning
 
 Arbetsutskottet beslöt isni äneri /

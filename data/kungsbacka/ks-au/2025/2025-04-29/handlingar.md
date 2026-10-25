@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2418b4721966b632cb82bc2/17455737086
 sha256: 4dd37c3a7ac0671b14e0cfb5eea421a308b3a74ba170c1d8474a648fa145567f
 bytes: 4153732
 sidor: 61
-hamtad: 2026-10-16T08:10:02+00:00
-konverterad: 2026-10-16T08:10:20+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T07:34:09+00:00
+konverterad: 2026-10-25T07:34:24+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
@@ -753,7 +753,7 @@ MBL med anledning av behov att tillämpa avvikelse för
 arbetstidsförläggning inom personlig assistans vid resor och för
 läger- och korttidsverksamheten.
 
-\$ 2 Arbetsgivaren har, utifrån de skärpta reglerna för
+§ 2 Arbetsgivaren har, utifrån de skärpta reglerna för
 arbetstidsförläggning enligt Allmänna Bestämmelser, AB, och
 Bilaga J, identifierat ett behov av att tillämpa avvikelse genom
 att schemalägga arbetspass på upp till 24 timmar.
@@ -798,9 +798,9 @@ och personalens arbetsmiljö.
 Uppföljning sker på APT och i lokal samverkansgrupp, LSG,
 där uppföljning är en stående punkt.
 
-\$ 3 Arbetstagarparten förklarar sig enig med arbetsgivaren.
+§ 3 Arbetstagarparten förklarar sig enig med arbetsgivaren.
 
-\$ 4 Förhandlingen förklarades avslutad vid dagen datum.
+§ 4 Förhandlingen förklarades avslutad vid dagen datum.
 
 Justeras den 2025-02-11
 
