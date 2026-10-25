@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.79dd6618f7759b3395ad1/1715954449225
 sha256: 89141073d3d85de090fb0debac67dcae8796d6cfc34be2f282037b2d3595c0d3
 bytes: 41166154
 sidor: 97
-hamtad: 2026-10-16T06:49:12+00:00
-konverterad: 2026-10-16T06:50:49+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T06:16:33+00:00
+konverterad: 2026-10-25T06:18:08+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok]
@@ -4036,7 +4036,7 @@ rotstående skogen. Den som svarar för avverkningen vid ledningens framdragande
 med underhållsröjning har att tillse att avverkningsrester icke kvarlämnas så att fara för insektsangrepp i skogsvårdslagens bemärkelse uppstår.
 
 8 8 Ledningsförrättning m m
-Detta avtal får, med undantag av \$ 6 och 10, läggas till grund för beslut om ledningsrätt såsom överenskommelse enligt & 14, första stycket,
+Detta avtal får, med undantag av § 6 och 10, läggas till grund för beslut om ledningsrätt såsom överenskommelse enligt & 14, första stycket,
 ledningsrättslagen. Avtalet får alternativt inskrivas som servitut. Innan ledningsbeslutet vunnit laga kraft eller avtalet inskrivits är fastighetsägaren
 skyldig att vid överlåtelse eller upplåtelse av egendomen eller av ledningen berörd del därav göra förbehåll om detta avtals bestånd. Därest
 ledningsägaren med stöd av denna bestämmelse ansöker om ledningsrätt biträder fastighetsägaren/arrendatorn ansökan.

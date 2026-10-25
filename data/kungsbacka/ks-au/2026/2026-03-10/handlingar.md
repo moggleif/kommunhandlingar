@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6cf878e819c986b5ee7e3b1d/1772801136
 sha256: cee44bad12441635d111226bc754b017f11d8e507964e656b2996833ac81e9c3
 bytes: 6036294
 sidor: 65
-hamtad: 2026-10-16T09:41:07+00:00
-konverterad: 2026-10-16T09:41:43+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T09:11:30+00:00
+konverterad: 2026-10-25T09:12:10+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
@@ -1963,7 +1963,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (2)
 Kommunstyrelsen Datum
 2024-11-26
 
-\$ 262 Dnr KS-2024-00673
+§ 262 Dnr KS-2024-00673
 Avsiktsförklaring avseende del av kv Samariten
 
 Beslut
@@ -1997,7 +1997,7 @@ området, som möjliggör projektet, tas fram och får laga kraft.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2024-11-12, \$ 330
+Kommunstyrelsens arbetsutskott 2024-11-12, § 330
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2024-10-08
 

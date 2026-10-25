@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2a9cb4ab195dc3282fcd9f6a/1743779281
 sha256: 4525adc164c04e1fbd4b6d60edc4efb4e8885b91d681458990f45d649b43eab1
 bytes: 70591783
 sidor: 359
-hamtad: 2026-10-16T08:05:49+00:00
-konverterad: 2026-10-16T08:10:02+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T07:30:00+00:00
+konverterad: 2026-10-25T07:34:09+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok]
@@ -11857,7 +11857,7 @@ bostadsbyggnader med ändringar tom SFS 2017:359.
 
 Buller från spårtrafik och vägar
 
-3 \$ Buller från spårtrafik och vägar bör inte överskrida
+3 § Buller från spårtrafik och vägar bör inte överskrida
 
 1\. 60 dBA ekvivalent ljudnivå vid en bostadsbyggnads fasad, och
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.39cb05a61a0d6c86ab85c076/1790585265
 sha256: cd602200bbc6623539e9442f9399da8d9893f164e81dac92606f398cb9693366
 bytes: 68667157
 sidor: 348
-hamtad: 2026-10-16T10:18:51+00:00
-konverterad: 2026-10-16T10:26:55+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T09:52:16+00:00
+konverterad: 2026-10-25T10:01:17+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ocr, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, tabell-osaker, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ocr, ocr, ocr, ocr, tabell-osaker, ocr, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr]
@@ -3800,7 +3800,7 @@ om detta.
 Anläggningsavgift ska beräknas enligt taxa som gäller vid den tidpunkt när
 avgiftsskyldighet inträder.
 
-3\. Anläggningsavgifter (\$\$ 5—12)
+3\. Anläggningsavgifter (§§ 5—12)
 Avgifter för allmänna vattentjänster är belagda med lagstadgad mervärdesskatt.
 85
 
@@ -4038,7 +4038,7 @@ och/eller avlopp avviker i beaktansvärd omfattning från normal genomsnittlig
 kostnad för fastigheter inom verksamhetsområdet i övrigt, ska avgifter utgå enligt
 särskilt antagen särtaxa.
 
-Om det inte är skäligt att beräkna avgift enligt \$\$ 5—7 för viss fastighet, får
+Om det inte är skäligt att beräkna avgift enligt §§ 5—7 för viss fastighet, får
 huvudmannen i stället komma överens med fastighetsägaren eller annan
 avgiftsskyldig om avgiftens storlek.
 
@@ -4107,12 +4107,12 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        10 (15)
 
 813
 
-Avgifter enligt \$8 5—6 är baserade på Entreprenadindex 2011, 5026 311 Jordarbeten
+Avgifter enligt §8 5—6 är baserade på Entreprenadindex 2011, 5026 311 Jordarbeten
 (indextalen för 2015-01: 104,0,0) och 5026 322 Läggning av PVC-rör (indextalen för
 2015-01: 105,6). När Entreprenadindex ändras, får kommunstyrelsen reglera
 avgiftsbeloppen därefter, dock inte oftare än en gång årligen.
 
-4.Brukningsavgifter (\$8 14—21)
+4.Brukningsavgifter (§8 14—21)
 814
 
 14.1
@@ -4265,7 +4265,7 @@ och avlopp, i beaktansvärd omfattning avviker från fastigheterna inom
 verksamhetsområdet i övrigt, ska enligt lagen om allmänna vattentjänster avgifter
 utgå enligt särskilt antagen särtaxa.
 
-Om det inte är skäligt att beräkna avgift enligt \$8 13—16 för viss fastighet får
+Om det inte är skäligt att beräkna avgift enligt §8 13—16 för viss fastighet får
 huvudmannen, - exempelvis på grund av att avloppsvattnet från fastigheten
 innehåller föroreningshalter överstigande det normala hushållsspillvattnets, i stället
 komma överens med fastighetsägaren eller annan avgiftsskyldig om avgiftens
@@ -11229,7 +11229,7 @@ länsstyrelsen har överlåtit tillsyn.
 uppgiften att utöva tillsyn.
 
 59 Utförande av tillsyn Timavgift Tillsyn med anledning av Timavgift
-avseende meddelat tillstånd meddelat tillstånd enligt 8 \$
+avseende meddelat tillstånd meddelat tillstånd enligt 8 §
 enligt 8 & förordningen förordningen (2018:1939)
 
 (2018:1939) om invasiva om invasiva främmande
@@ -15340,7 +15340,7 @@ KS-2023-00737)
 
 Vi begär härmed att beslutet omprövas.
 
-Enligt 2 kap. 3 \$ kommunallagen ska kommunen behandla sina medlemmar lika,
+Enligt 2 kap. 3 § kommunallagen ska kommunen behandla sina medlemmar lika,
 om det inte finns sakliga skäl för något annat. I detta sammanhang vill vi
 uppmärksamma kommunen på att en annan förening i Kungsbacka kommun, i en
 jämförbar situation, tidigare beviljats betydande ekonomisk lättnad genom att 1

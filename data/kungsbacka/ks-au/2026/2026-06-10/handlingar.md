@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6447748c19e6392323474a2e/1780660060
 sha256: 9689113563a514cfd226218beac3961ea9b934ab76f9d663f6bcf81b096d1c25
 bytes: 117508267
 sidor: 395
-hamtad: 2026-10-16T10:04:55+00:00
-konverterad: 2026-10-16T10:12:43+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T09:36:55+00:00
+konverterad: 2026-10-25T09:45:18+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ej-konverterad, ocr, ocr, ej-konverterad, ok, ok, ok, ocr, ok, ok, ej-konverterad, ocr, ok, ok, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ok, ocr, ocr, ok, ocr, ok, ocr, ok, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok]
@@ -2162,7 +2162,7 @@ Masshanteringsstrategins koppling till ramverket:
 masshantering bidrar till stadens mål om att minska växthusgasutsläppen med 90 24 till 2040.
 
 -Minskad naturpåverkan genom att återanvända material .
-Klimatanpassningsplan. Beslutad av: Kommunstyrelsen, 2024-12-18 \$311.
+Klimatanpassningsplan. Beslutad av: Kommunstyrelsen, 2024-12-18 §311.
 
 Handlingsplan för kommunens arbete med förorenade områden. Arbete med uppdatering av plan
 pågår.
@@ -10121,7 +10121,7 @@ vårdcentral och dagligvaruhandel.
 
 4\. MARKNADSANALYS KUNGSBACKA KOMMUN |
 
-20 min \$30 min 4945 min
+20 min §30 min 4945 min
 
 Hylte Laholm Kungsbacka
 

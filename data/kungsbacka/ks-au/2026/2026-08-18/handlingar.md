@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.a07712b19fe9b41f3168609/17867108310
 sha256: 76f83fdf29bb681e00cf729617280e28ca8648a9e1fa59fe93f3c610bc51785c
 bytes: 11437021
 sidor: 80
-hamtad: 2026-10-16T10:15:16+00:00
-konverterad: 2026-10-16T10:17:03+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T09:48:19+00:00
+konverterad: 2026-10-25T09:50:17+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok]
@@ -251,7 +251,7 @@ Fastighetsmiäklaren med anledning av i detta kontrakt intaget villkor,
 Total summa köpeskilling 6 500 000 kronor
 På tillträdesdagen ska likvidavräkning upprättas.
 
-\$ 2 Inget villkor om Parterna är medverna om möjligheten att ta in eve villkor i köpekontrakter art detta
+§ 2 Inget villkor om Parterna är medverna om möjligheten att ta in eve villkor i köpekontrakter art detta
 finansiering köp kan återgå om köparen inte ordnat sin finansiering av köpet senast en viss dag,
 exempelvis genom upptagande av lån och/eller försäljning av sin nuvarande bostad.
 
@@ -268,7 +268,7 @@ Vallgatan 4 Besöksadrass Tel 0200-68 68 00 Styrelsens säte Kungsbacka Bankgiro
 
 <!-- sida 8 -->
 
-\$3 Inteokningar och
+§3 Inteokningar och
 pantbrev
 
 5 4 Rättigheter och
@@ -276,7 +276,7 @@ belastningar
 
 35 Fastighetens skiok
 
-\$ 6 Ansvar för skada
+§ 6 Ansvar för skada
 
 \$£7 Ågonderättens
 övergång samt
@@ -352,7 +352,7 @@ anslutningsavglter
 erlagts, om sådan ersättningsskyldighet inträtt,
 Säljaren garanterar även att annat Åläggande från miljö- och hälsoskyddsnimnd eller
 annan myndighet inte föreligger än vad som angivits i detta kontrakt.
-\$9 Lagfarts- och Köparen ska betala alla lag farts- och inteckningskostnader i anledning av köparens
+§9 Lagfarts- och Köparen ska betala alla lag farts- och inteckningskostnader i anledning av köparens
 lånekostnader förvärv. Kostnader aviserade från säljarens bank vid lösen av säljarens lån ska heralas
 av säljaren.
 I det fall köparens bank tar ut en avgift för avt vara behjälplig med överföringen av
@@ -387,7 +387,7 @@ Vallgatan 4 Besöksadress Tel 0300-88 68 00 Styrelsens såte Kungsbacka Bankgiro
 
 Fastighetsbyrån &
 
-\$12 Städning och Säljaren är ansvarig för att bostadsbyggnaden senast på tillträdesdagen är utrymd
+§12 Städning och Säljaren är ansvarig för att bostadsbyggnaden senast på tillträdesdagen är utrymd
 kvarglämd egendom och väl rengjord. Övriga byggnader ska vara utrymda och tomten ska vara avstädad.
 
 Senast på tillträdesdagen ska säljaren även ha tagit bort all lös egendom som inte
@@ -401,7 +401,7 @@ Innan köparen har rätt att göra sig av med eller överta egendomen enligt ova
 köparen först skriftligen uppmana säljaren att senast inom tio kalenderdagar hämta
 egendomen. I uppmaningen ska köparen kort beskriva vilken egendom som avses.
 
-\$13 Överlämnande av — Sedan köpeskilling beralars enligt de i 1 \$ angivna villkoren, ska säljaren till köparen
+§13 Överlämnande av — Sedan köpeskilling beralars enligt de i 1 § angivna villkoren, ska säljaren till köparen
 
 handlingar samt nycklar överlämna bevittnat kvitterar köpebrev avseende fastigheten och övriga handlingar
 som behövs för att köparen ska få lagfart. Säljaren ska även till köparen överlämna
@@ -409,11 +409,11 @@ de nycklar säljaren har samt aktuellt utdrag ur fastighetsregistret, obelånade
 pantbrev, gällande tomtkarta om sådan finns och andra handlingar rörande
 fastigheten, vilka är av betydelse för köparen som ägare av denna,
 
-\$ 14 Pantförskrivning Om det krävs för köparens finansiering av köpet, förbinder sig säljaren att på
+§ 14 Pantförskrivning Om det krävs för köparens finansiering av köpet, förbinder sig säljaren att på
 köparens bekostnad ansöka om nya inteckningar och hjälpa till vid köparens
 pantförskrivning av pantbrev avseende fastigheten innan köparen beviljats lag fart.
 
-\$15 Skriftliga Skriftliga meddelanden med anledning av detta kontrakt ska ske genom personligt
+§15 Skriftliga Skriftliga meddelanden med anledning av detta kontrakt ska ske genom personligt
 meddelanden överlämnande /överlimnande genom bud, brev, rekommenderat brev eller e-post till
 den adress som angetts för motparten på kontrakters första sida samt med
 
@@ -429,7 +429,7 @@ Meddelande ska anses ha kommit mottagaren tillhanda:
 ” om avsänt med rekommenderat brev: sex arbetsdagar efter avlämnande för
 
 postbefordran.
-\$16 Kommunstyrelsens — Det är en förutsättning för detta köp att kommunstyrelsens arbetsutskott i
+§16 Kommunstyrelsens — Det är en förutsättning för detta köp att kommunstyrelsens arbetsutskott i
 er Kungsbacka ger sitt godkännande gällande överlåtelsen av fastigheten Kungsbacka
 KORSEINENON Fors 1:230 samt Fors 1:231 som detta köpekontrakt behandlar.
 
@@ -437,7 +437,7 @@ Köpet ska återgå om denna förutsättning inte uppfyllts senast på tillträd
 Om köper årergår ska betald handpenning återbetalas till köparen utan
 skadeståndsskyldighet för någon av parterna.
 
-\$17 Friskrivning Köparen har uppmanats att undersöka fastigheten. Köparen godtar fastighetens
+§17 Friskrivning Köparen har uppmanats att undersöka fastigheten. Köparen godtar fastighetens
 skick och avstår härmed med bindande verkan från alla anspråk mot säljaren på
 
 grund av fel eller brister i fastigheten.
@@ -1774,7 +1774,7 @@ Lovet upphör att gälla om åtgärden inte har påbörjats inom två år och av
 fem år från det att beslutet vann laga kraft.
 
 Tekniskt samråd och en kontrollansvarig krävs inte i detta ärende, enligt 10 kap, 10 5
-plan- och bygglagen med hänvisning till 7 kap. 5 \$ plan- och byggförordningen.
+plan- och bygglagen med hänvisning till 7 kap. 5 § plan- och byggförordningen.
 
 Villkor:
 
@@ -1855,7 +1855,7 @@ Brandskyddsdokumentation har framtagits.
 
 Kommunicering
 
-Enligt 9 kap. 25 \$ PBL ska berörda sakägare få tillfälle att yttra sig innan
+Enligt 9 kap. 25 § PBL ska berörda sakägare få tillfälle att yttra sig innan
 byggnadsnämnden tar beslut.
 
 Berörda sakägare har getts tillfälle att lämna synpunkter, Inga berörda sakägare har
@@ -1869,7 +1869,7 @@ KUNGSBACKA KOMMUN
 Motivering till beslut 303)
 
 Byggnadsnämnden beviljar tidsbegränsat bygglov på fem år med motiveringen att
-åtgärden bedöms uppfylla de krav som följer av 9 kap. 31 \$ PBL.
+åtgärden bedöms uppfylla de krav som följer av 9 kap. 31 § PBL.
 
 Ansökan uppfyller krav på lämplig placering med hänsyn till stads- och
 landskapsbilden, natur- och kulturvärden på platsen och intresset av en god
@@ -1907,7 +1907,7 @@ Kungsbacka kommun SAMMANTRÄDESPROTOKOLL 70 (96)
 Byggnadsnämndens arbetsutskott Datum
 2022-11-03
 
-\$ 502
+§ 502
 
 \- Tidsbegränsat bygglov för
 restaurang/café och turistbyrå
@@ -1921,7 +1921,7 @@ fem år för verksamhet i form av restaurang, café & turistbyrå.
 Avgiften för beslutet är 12 000 kronor.
 
 Avgiften är uträknad efter Taxa för Byggnadsnämndens verksamhet, beslutad i
-Kommunfullmäktige 2020-09-08 \$ 97.
+Kommunfullmäktige 2020-09-08 § 97.
 
 Upplysning
 
@@ -1942,7 +1942,7 @@ det överklagas.
 
 Beslutsmotivering
 
-Enligt plan- och bygglagen 9 kap. 33 \$ (PBL, SFS 2010:900) får ett tidsbegränsat bygglov ges för
+Enligt plan- och bygglagen 9 kap. 33 § (PBL, SFS 2010:900) får ett tidsbegränsat bygglov ges för
 en åtgärd som uppfyller någon eller några men inte alla förutsättningar enligt 30-32 a \$\$, om
 sökanden begär det och åtgärden avses att pågå under en begränsad tid. Ett sådant lov ska ges, om
 åtgärden har stöd i en detaljplanebestämmelse om tillfällig användning av byggnad eller mark.
@@ -1957,7 +1957,7 @@ bygglov om fem år.
 
 Justerare Expedierat/bestyrkt
 
-Bygglov — BNAU \$ 502 — 2022-11-03
+Bygglov — BNAU § 502 — 2022-11-03
 
 <!-- sida 43 -->
 
@@ -2053,7 +2053,7 @@ göra en utställningsyta på vindsvåningen inkom till förvaltningen). Två hu
 fastigheten medges inte enligt detaljplanen.
 
 \- I detaljplanen, som är från 1960, regleras inte byggnaders avstånd till fastighetsgräns. Enligt
-plan- och bygglagens (PBL, SFS 2010:900) övergångsbestämmelser gäller då 39 \$
+plan- och bygglagens (PBL, SFS 2010:900) övergångsbestämmelser gäller då 39 §
 byggnadsstadgan. Enligt denna bestämmelse får inte en byggnad placeras närmare
 tomtgräns än 4,5 meter. Huvudbyggnad är placerad på tomtgränsen åt söder och med 4
 meter till tomtgräns i öster. Komplementbyggnaden är placerad på tomtgräns åt norr samt
@@ -3246,7 +3246,7 @@ Meddelat i Vänersborg P 1316-26
 ÖVERKLAGAT BESLUT
 Kommunfullmäktige i Kungsbacka kommuns beslut den 11 december 2025,
 
-\$ 245, i ärende nr KS-2025-00320, se bilaga 1.
+§ 245, i ärende nr KS-2025-00320, se bilaga 1.
 
 SAKEN
 

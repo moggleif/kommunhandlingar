@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5dad318c19fb16abb679e602/1785997287
 sha256: d525c95a426c825c946a85d4fb9ee1f82917a2cc2f260e88ad5b31eb0b996273
 bytes: 19599751
 sidor: 316
-hamtad: 2026-10-16T10:12:43+00:00
-konverterad: 2026-10-16T10:15:16+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T09:45:18+00:00
+konverterad: 2026-10-25T09:48:19+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ej-konverterad, ej-konverterad, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -1341,7 +1341,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLI 17
 Kommunfullmäktige 2005-05-09
 
 \|
-\$ 100 KS05-81/05
+§ 100 KS05-81/05
 
 Taxa för uteservering
 
@@ -1393,9 +1393,9 @@ Teknik fastställd typ, till 500 kr/m och säsong från och med säsongen 2005.
 
 Ärendeberedning
 Kommunstyrelsens förvaltning, skrivelse 2005-05-17.
-Kornmunstyrelsens arbetsutskott 2005-03-17, \$ 223.
+Kornmunstyrelsens arbetsutskott 2005-03-17, § 223.
 
-; Kommunstyrelsen 2005-05-25, \$ 124.
+; Kommunstyrelsen 2005-05-25, § 124.
 
 Urdragsbestyrsanor
 
@@ -1663,7 +1663,7 @@ PROTOKOLL
 KN Tolkförmedling Väst 2026-05-29
 Dar 26/0001-2
 
-\$ 628 Förslag till Reviderad förbundsordning
+§ 628 Förslag till Reviderad förbundsordning
 
 Beslut
 
@@ -1873,7 +1873,7 @@ Uppsägningstiden är tre år räknat från ingången av den månad då uppsägn
 
 Regleringen av de ekonomiska mellanhavandena mellan förbundet och den utträdande
 medlemmen bestäms i en överenskommelse mellan samtliga medlemmar. Den ekonomiska
-regleringen ska ske utifrån förbundsordningens 13 — 15 \$\$ såvida inte annat avtalas mellan
+regleringen ska ske utifrån förbundsordningens 13 — 15 §§ såvida inte annat avtalas mellan
 medlemmarna. De kvarvarande medlemmarna antar de ändringar i förbundsordningen som krävs
 med anledning av utträdet.
 
@@ -1886,7 +1886,7 @@ Förbundet ska också träda i likvidation om mer än hälften av medlemmarna ge
 beslut i respektive medlems fullmäktige fattat beslut härom.
 
 Likvidation verkställs av direktionen i egenskap av likvidator. Vid skifte av förbundets tillgångar
-och skulder i anledning av likvidationen ska den i 14 \$ angivna fördelningsgrunden mellan
+och skulder i anledning av likvidationen ska den i 14 § angivna fördelningsgrunden mellan
 medlemmarna gälla. När förbundet har trätt i likvidation ska förbundets egendom i den mån det
 behövs för likvidationen genom försäljning eller på annat lämpligt sätt omvandlas till pengar.
 Verksamheten får fortsatt tillfälligt bedrivas om det så krävs för en ändamålsenlig avveckling.
@@ -5547,7 +5547,7 @@ ekonomiska förutsättningar att bedriva verksamhet. Beräkningarna regleras
 av förordningen (2008:776) om utjämning av kostnader för stöd och service
 till vissa funktionshindrade.
 
-Privata utförare som bedriver verksamhet enligt 9 kap. 9 \$ LSS får
+Privata utförare som bedriver verksamhet enligt 9 kap. 9 § LSS får
 ersättning från kommunen för att bedriva verksamheten. Ersättningen räknas
 vanligtvis upp varje år med ett prisindex som speglar löne- och
 kostnadsutvecklingen inom kommunal verksamhet, till exempel
@@ -5706,7 +5706,7 @@ praktiken kan innebära betydande utmaningar för många kommuner att
 bemanna sina verksamheter när utbildningskravet skärps.
 
 Beräkningen utgår ifrån att 25 procent av de övriga anställda inom LSS
-9 \$ 9 som i dag saknar eftergymnasial utbildning behöver uppfylla kravet på
+9 § 9 som i dag saknar eftergymnasial utbildning behöver uppfylla kravet på
 minst en ettårig utbildning på eftergymnasial nivå.
 
 Tabell 4. Uppskattat antal anställda utan eftergymnasial utbildning
@@ -5868,14 +5868,14 @@ regionerna
 
 Socialstyrelsen bedömer att förslagen inte kommer att få konsekvenser för
 regioner. I den mån regioner bedriver bostad med särskild service för vuxna
-enligt 9 \$ 9 LSS regleras ansvar och kostnader i avtal med kommunen.'??
+enligt 9 § 9 LSS regleras ansvar och kostnader i avtal med kommunen.'??
 Författningen reglerar inte heller ansvar för hälso-och sjukvård eller
 fördelning av sådant ansvar mellan olika huvudmän.
 
 3.4 Konsekvenser för kommunala
 självstyret
 
-En inskränkning i den kommunala självstyrelsen bör enligt 14 kap. 3 \$ RF
+En inskränkning i den kommunala självstyrelsen bör enligt 14 kap. 3 § RF
 inte gå utöver vad som är nödvändigt med hänsyn till de ändamål som har
 föranlett den. Bestämmelsen ger uttryck för en proportionalitetsprincip vad
 gäller inskränkningar i den kommunala självstyrelsen.
@@ -5885,12 +5885,12 @@ eftersom förslaget innehåller krav som ska följas. Inskränkningen bedöms
 vara mindre eftersom det främst handlar om att precisera krav som redan
 gäller enligt LSS. Den bedöms vara nödvändig med hänsyn till ändamålet att
 upprätthålla god kvalitet för insatsen bostad med särskild service för vuxna
-enligt 9 \$ 9 LSS.
+enligt 9 § 9 LSS.
 
 Förslaget medför inte några förändringar i grunderna för kommunernas eller
 regionernas organisation eller verksamhetsformer.
 
-36 ge 17 \$ LSS.
+36 ge 17 § LSS.
 
 65
 
@@ -8579,7 +8579,7 @@ och 106 i privat regi.
 
 <!-- sida 186 -->
 
-Verksamheter enligt 9 \$ 8 LSS är ofta små enheter med få platser, vilket
+Verksamheter enligt 9 § 8 LSS är ofta små enheter med få platser, vilket
 också framgår av tabellen där det genomsnittliga antalet personer per
 verksamhet uppgår till 3,5. Den låga genomsnittliga storleken speglar lagens
 intentioner om att ge barnen en hemlik miljö och målgruppens behov av
@@ -8596,7 +8596,7 @@ Kommuner med många eller flera små verksamheter kan påverkas i högre
 grad av förslagen, eftersom kraven omfattar samtliga boenden oavsett
 storlek eller driftsform.
 
-Privata utförare som bedriver verksamhet enligt 9 \$ 8 LSS får ersättning från
+Privata utförare som bedriver verksamhet enligt 9 § 8 LSS får ersättning från
 kommunerna. Ersättningen fastställs vanligtvis genom avtal och räknas ofta
 upp årligen med prisindex som speglar löne- och kostnadsutvecklingen inom
 kommunal verksamhet, exempelvis omsorgsprisindex. Ersättningen kan
@@ -8619,7 +8619,7 @@ Källa: IVO omsorgregister, 2024.+ Socialstyrelsens egna beräkningar.
 Antal barn och ungdomar som berörs
 
 Tabell 2 visar antalet barn och ungdomar som bor i bostad med särskild
-service enligt 9 \$ 8 LSS.
+service enligt 9 § 8 LSS.
 
 Uppgifterna avser ett tidpunktsmått och speglar antalet barn och ungdomar
 som hade insatsen bostad med särskild service för barn eller ungdomar den 1
@@ -8641,7 +8641,7 @@ Källa: Socialstyrelsens register, 1 oktober 2024.
 Antal anställda som berörs
 
 Eftersom det idag saknas samlad statistik över hur många anställda som
-arbetar i bostäder med särskild service för barn och ungdomar enligt 9 \$ 8
+arbetar i bostäder med särskild service för barn och ungdomar enligt 9 § 8
 LSS, uppdelat efter yrkeskategori och utbildningsnivå har Socialstyrelsen
 gjort en egen uppskattning på antal anställda. För att kunna uppskatta hur
 många anställda som kan komma att beröras av det föreslagna
@@ -8664,10 +8664,10 @@ bortfall. Efter bearbetning av dessa uppgifter uppskattas att cirka 8 procent
 av personal utöver föreståndare i LSS-boenden i dag har en eftergymnasial
 utbildning motsvarande stödpedagog. Denna uppskattning redovisas i tabell
 3\. I denna undersökning ingår emellertid inte bostad med särskild service för
-barn eller ungdomar enligt 9 \$ 8 LSS utan den statistiken avser bostad med
-särskild service för vuxna enligt 9 \$ 9 LSS.
+barn eller ungdomar enligt 9 § 8 LSS utan den statistiken avser bostad med
+särskild service för vuxna enligt 9 § 9 LSS.
 
-För verksamheter enligt 9 \$ 8 LSS har en skattning gjorts utifrån antalet
+För verksamheter enligt 9 § 8 LSS har en skattning gjorts utifrån antalet
 registrerade verksamheter och målgruppens behov. Barn och ungdomar i
 bostad med särskild service bedöms generellt kräva högre personaltäthet än
 vuxna i motsvarande insats. I beräkningarna antas därför i genomsnitt 13
@@ -8680,7 +8680,7 @@ yrkeshögskolan med inriktning stödpedagog inom funktionshinderområdet.
 
 <!-- sida 188 -->
 
-Utifrån totalt 210 verksamheter enligt 9 \$ 8 LSS motsvarar detta cirka 2 386
+Utifrån totalt 210 verksamheter enligt 9 § 8 LSS motsvarar detta cirka 2 386
 anställda, vilket i genomsnitt innebär omkring 4 anställda per barn eller
 ungdom. Om cirka 29 procent redan antas ha relevant eftergymnasial
 utbildning återstår uppskattningsvis 1 938 anställda som potentiellt kan
@@ -8708,7 +8708,7 @@ olika källor”? om andel som redan idag har en eftergymnasial utbildning,
 konsekvensanalysen två olika beräkningar utifrån de respektive källorna.
 
 Beräkningen utgår från att 25 procent av de övriga anställda inom LSS 9
-\$ 8 som i dag saknar eftergymnasial utbildning behöver uppfylla kravet
+§ 8 som i dag saknar eftergymnasial utbildning behöver uppfylla kravet
 på minst en ettårig utbildning på eftergymnasial nivå.
 
 Tabell 4. Antal anställda utan eftergymnasial utbildning som påverkas
@@ -8850,7 +8850,7 @@ merkostnaden till cirka 86 000 kronor per anställd som omfattas av
 utbildningskravet.
 
 I tabell 5 redovisas en uppskattning av de ekonomiska konsekvenserna för
-kommunerna av ett eventuellt utbildningskrav enligt LSS 9 \$ 8. Analysen
+kommunerna av ett eventuellt utbildningskrav enligt LSS 9 § 8. Analysen
 baseras på två alternativa källor för andelen personal med eftergymnasial
 utbildning inom bostäder med särskild service enligt LSS.
 
@@ -9226,11 +9226,11 @@ Utgivare: Chefsjurist Pär Ödman, Socialstyrelsen
 
 Socialstyrelsens föreskrifter och allmänna råd
 om bostad med särskild service för vuxna
-enligt 9 \$ 9 LSS;
+enligt 9 § 9 LSS;
 
 beslutade den xx.
 
-Socialstyrelsen föreskriver följande med stöd av 13 och 14 \$\$
+Socialstyrelsen föreskriver följande med stöd av 13 och 14 §§
 förordningen (1993:1090) om stöd och service till vissa
 funktionshindrade och beslutar följande allmänna råd.
 
@@ -9241,11 +9241,11 @@ Tillämpningsområde
 18 Dessa föreskrifter ska tillämpas av
 
 1\. de nämnder som beslutar om insatsen bostad med särskild service
-för vuxna enligt 9 \$ 9 lagen (1993:387) om stöd och service till
+för vuxna enligt 9 § 9 lagen (1993:387) om stöd och service till
 vissa funktionshindrade, LSS, och
 
 2\. den som bedriver verksamhet i form av bostad med särskild
-service för vuxna enligt 9 \$ 9 LSS.
+service för vuxna enligt 9 § 9 LSS.
 
 Begreppsförklaringar
 
@@ -9283,7 +9283,7 @@ finns de processer och rutiner som behövs för att säkra
 verksamhetens kvalitet.
 
 28 Den som bedriver verksamhet i form av bostad med särskild
-service för vuxna enligt 9 \$ 9 LSS ska fastställa rutiner för att
+service för vuxna enligt 9 § 9 LSS ska fastställa rutiner för att
 fortlöpande identifiera, förebygga och åtgärda olycksrisker i
 boendemiljön.
 
@@ -9306,7 +9306,7 @@ förflyttningshjälpmedel, och
 
 — den stimulerar till aktiviteter och rekreation.
 
-Att leva som andra enligt 5 \$ LSS
+Att leva som andra enligt 5 § LSS
 
 Allmänna råd
 
@@ -9362,7 +9362,7 @@ Inflytande och medbestämmande
 
 28 Bestämmelser om att den enskilde i största möjliga
 utsträckning ska ges inflytande och medbestämmande över insatser
-som ges finns i 6 \$ LSS.
+som ges finns i 6 § LSS.
 
 38 Den som förestår verksamheten ska se till att varje person
 1\. får individanpassat kommunikativt och kognitivt stöd,
@@ -9417,7 +9417,7 @@ samråda med den enskilde eller dennes ställföreträdare.
 Allmänna råd
 
 Om det finns en misstanke om att en enskild har utsatts för andra
-brott än de som anges i 4 \$ andra stycket bör den som förestår
+brott än de som anges i 4 § andra stycket bör den som förestår
 verksamheten, om det inte är olämpligt, skyndsamt göra en
 polisanmälan. Detta gäller under förutsättning att det inte finns
 hinder enligt bestämmelserna i offentlighets- och sekretesslagen
@@ -9477,9 +9477,9 @@ Personalens kompetens
 hos personal som ger stöd, service eller omsorg enligt SoL och LSS
 till personer med funktionsnedsättning anges vilka kunskaper och
 förmågor personalen i bostad med särskild service för vuxna enligt
-9 \$9LSS minst bör ha.
+9 §9LSS minst bör ha.
 
-28 Ien bostad med särskild service för vuxna enligt 9 \$ 9 LSS ska
+28 Ien bostad med särskild service för vuxna enligt 9 § 9 LSS ska
 personalen ha kunskaper om
 
 1\. verksamhetens mål och arbetssätt,
@@ -9504,7 +9504,7 @@ HSLF-FS
 Den som förestår verksamheten
 
 38 Samtliga former av bostad med särskild service för vuxna
-enligt 9 \$ 9 LSS ska ha en av huvudmannen särskilt utsedd person
+enligt 9 § 9 LSS ska ha en av huvudmannen särskilt utsedd person
 som förestår verksamheten.
 
 Gruppbostad
@@ -9531,7 +9531,7 @@ Högskoleutbildningen bör omfatta minst 180 högskolepoäng.
 Servicebostad
 
 Personal som behövs för att ge en god omvårdnad enligt
-6 \$LSS
+6 §LSS
 
 Allmänna råd
 
@@ -9554,7 +9554,7 @@ Högskoleutbildningen bör omfatta minst 180 högskolepoäng.
 Övrig personal
 
 68 Den övriga personalen i en bostad med särskild service för
-vuxna enligt 9 \$ 9 LSS ska ha den utbildning, den erfarenhet och
+vuxna enligt 9 § 9 LSS ska ha den utbildning, den erfarenhet och
 den personliga lämplighet som behövs för att kunna utföra sina
 arbetsuppgifter.
 
@@ -9623,18 +9623,18 @@ tillräckligt med personal för att tillgodose varje enskilds behov av
 
 6 kap. Uppföljning av insats
 
-18 I15\$ 11 LSS finns bestämmelser om att det till kommunens
+18 I15§ 11 LSS finns bestämmelser om att det till kommunens
 uppgifter hör att anmäla till Inspektionen för vård och omsorg om
 det
 
 1\. finns anledning att anta att en verksamhet bedrivs utan sådant
-tillstånd som krävs enligt 23 \$ första stycket LSS,
+tillstånd som krävs enligt 23 § första stycket LSS,
 
-2\. kan ifrågasättas om en tillståndshavare är lämplig enligt 23 \$ LSS,
+2\. kan ifrågasättas om en tillståndshavare är lämplig enligt 23 § LSS,
 eller
 
 3\. uppmärksammas allvarliga brister i en verksamhet där tillstånd
-krävs enligt 23 \$ första stycket LSS.
+krävs enligt 23 § första stycket LSS.
 
 28 När den nämnd som har beslutat om insatsen följer upp att den
 
@@ -9655,11 +9655,11 @@ eller motsvarande.
 
 1\. Denna författning träder i kraft den 1 juli 2028 i fråga om 5 kap.
 
-7 \$ och i övrigt den 1 mars 2027.
+7 § och i övrigt den 1 mars 2027.
 
 2\. Genom författningen upphävs Socialstyrelsens föreskrifter och
 allmänna råd (SOSFS 2002:9) om bostad med särskild service för
-vuxna enligt 9 kap. 9 \$ lagen (1993:387) om stöd och service till
+vuxna enligt 9 kap. 9 § lagen (1993:387) om stöd och service till
 vissa funktionshindrade.
 
 <!-- sida 207 -->
@@ -9700,7 +9700,7 @@ ungdomar enligt LSS;
 
 beslutade den XX XX.
 
-Socialstyrelsen föreskriver följande med stöd av 13 och 14 \$\$
+Socialstyrelsen föreskriver följande med stöd av 13 och 14 §§
 förordningen (1993:1090) om stöd och service till vissa
 funktionshindrade och beslutar följande allmänna råd.
 
@@ -9712,11 +9712,11 @@ Tillämpningsområde
 
 1\. de nämnder som beslutar om insatsen bostad med särskild service
 för barn eller ungdomar som behöver bo utanför föräldrahemmet
-enligt 9 \$ 8 lagen (1993:387) om stöd och service till vissa
+enligt 9 § 8 lagen (1993:387) om stöd och service till vissa
 funktionshindrade, LSS, och
 
 2\. den som bedriver verksamhet i form av bostad med särskild
-service enligt 9 \$ 8 LSS.
+service enligt 9 § 8 LSS.
 
 Begreppsförklaringar
 
@@ -9752,7 +9752,7 @@ finns de processer och rutiner som behövs för att säkra
 verksamhetens kvalitet.
 
 28 Den som bedriver verksamhet i form av bostad med särskild
-service för barn eller ungdomar enligt 9 \$ 8 LSS ska fastställa rutiner
+service för barn eller ungdomar enligt 9 § 8 LSS ska fastställa rutiner
 för att fortlöpande identifiera, förebygga och åtgärda olycksrisker i
 boendemiljön.
 
@@ -9776,7 +9776,7 @@ förflyttningshjälpmedel, och
 
 — den stimulerar till lek och rekreation.
 
-Att leva som andra enligt 5 \$ LSS
+Att leva som andra enligt 5 § LSS
 
 Allmänna råd
 
@@ -9818,12 +9818,12 @@ Inflytande och medbestämmande
 
 28 Bestämmelser om att den enskilde i största möjliga
 utsträckning ska ges inflytande och medbestämmande över insatser
-som ges finns i 6 \$ LSS.
+som ges finns i 6 § LSS.
 
 Bestämmelser om att barnet ska få relevant information och ges
 möjlighet att framföra sina åsikter när en insats rör ett barn och att
 barnets åsikter ska tillmätas betydelse i förhållande till barnets ålder
-och mognad finns i 8 \$ LSS.
+och mognad finns i 8 § LSS.
 
 38 Den som förestår verksamheten ska se till att varje barn och
 ungdom
@@ -9939,7 +9939,7 @@ bland annat i förhållande till boendets lokaler, utrustning och
 lokalisering.
 
 Om det finns en misstanke om att ett barn har utsatts för andra
-brott än de som anges i 8 \$ eller om det är en ungdom som
+brott än de som anges i 8 § eller om det är en ungdom som
 misstänks ha blivit utsatt för brott bör den som förestår
 verksamheten, om det inte är olämpligt, skyndsamt göra en
 polisanmälan. Detta gäller under förutsättning att det inte finns
@@ -10003,7 +10003,7 @@ ungdomar minst bör ha.
 
 28 Ien bostad med särskild service för barn eller ungdomar enligt
 
-9 \$ 8 LSS ska personalen ha kunskaper om
+9 § 8 LSS ska personalen ha kunskaper om
 
 4\. verksamhetens mål och arbetssätt,
 
@@ -10041,7 +10041,7 @@ Högskoleutbildningen bör omfatta minst 180 högskolepoäng.
 Övrig personal
 
 58 Den övriga personalen i en bostad med särskild service för barn
-eller ungdomar enligt 9 kap. 8 \$ LSS ska ha den utbildning, den
+eller ungdomar enligt 9 kap. 8 § LSS ska ha den utbildning, den
 erfarenhet och den personliga lämplighet som behövs för att kunna
 utföra sina arbetsuppgifter.
 
@@ -10113,20 +10113,20 @@ behov av
 
 Uppföljning
 
-18 I15\$ 11 LSS finns bestämmelser om att det till kommunens
+18 I15§ 11 LSS finns bestämmelser om att det till kommunens
 
 uppgifter hör att anmäla till Inspektionen för vård och omsorg om
 
 det
 
 1\. finns anledning att anta att en verksamhet bedrivs utan sådant
-tillstånd som krävs enligt 23 \$ första stycket LSS,
+tillstånd som krävs enligt 23 § första stycket LSS,
 
-2\. kan ifrågasättas om en tillståndshavare är lämplig enligt 23 \$ LSS,
+2\. kan ifrågasättas om en tillståndshavare är lämplig enligt 23 § LSS,
 eller
 
 3\. uppmärksammas allvarliga brister i en verksamhet där tillstånd
-krävs enligt 23 \$ första stycket LSS.
+krävs enligt 23 § första stycket LSS.
 
 28 När den nämnd som har beslutat om insatsen följer upp att den
 
@@ -10161,7 +10161,7 @@ Den som har avslutat sin gymnasieutbildning bör inte bo i en
 bostad med särskild service för barn eller ungdomar.
 
 1\. Denna författning träder i kraft den 1 juli 2028 i fråga om
-5 kap. 6 \$ och i övrigt den 1 mars 2027.
+5 kap. 6 § och i övrigt den 1 mars 2027.
 
 2\. Genom författningen upphävs Socialstyrelsens föreskrifter och
 allmänna råd (SOSFS 2012:6) om bostad med särskild service för

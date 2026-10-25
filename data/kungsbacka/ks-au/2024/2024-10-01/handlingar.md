@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1e3990b19223341db97021d/17274438067
 sha256: 232811494f0bec169021597475d82dd05b49396a004449de7a1f45bfd59db7d6
 bytes: 234564879
 sidor: 786
-hamtad: 2026-10-16T07:08:55+00:00
-konverterad: 2026-10-16T07:18:27+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T06:36:55+00:00
+konverterad: 2026-10-25T06:44:46+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -958,7 +958,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 17 (48)
 Kommunstyrelsen Datum
 2022-09-27
 
-\$ 210 Dnr 2022-00501
+§ 210 Dnr 2022-00501
 Ansökan om planbesked för Åsa 5:153 och 5:89
 
 Beslut
@@ -1005,7 +1005,7 @@ våningar men att anpassning till befintlig bebyggelse krävs.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2022-09-13, \$ 287
+Kommunstyrelsens arbetsutskott 2022-09-13, § 287
 Samhällsbyggnadskontorets tjänsteskrivelse, 2022-08-24
 Karta, Åsa 5:153 och 5:89, 2022-08-24
 
@@ -1478,7 +1478,7 @@ bostadsbyggnader med ändringar tom SFS 2017:359.
 
 Buller från spårtrafik och vägar
 
-3 \$ Buller från spårtrafik och vägar bör inte överskrida
+3 § Buller från spårtrafik och vägar bör inte överskrida
 
 1\. 60 dBA ekvivalent ljudnivå vid en bostadsbyggnads fasad, och
 
@@ -2304,7 +2304,7 @@ Köpeskilling
 
 Tillträdesdag
 
-\$ 1 Betalning av
+§ 1 Betalning av
 köpeskilling
 
 28344 LÖ
@@ -2367,7 +2367,7 @@ i
 
 2 (7)
 
-\$ 2 Inget villkor om Parterna är medvetna om möjligheten att ta in ett villkor i köpekontraktet att detta
+§ 2 Inget villkor om Parterna är medvetna om möjligheten att ta in ett villkor i köpekontraktet att detta
 finansiering köp kan återgå om köparen inte ordnat sin finansiering av köpet senast en viss dag,
 exempelvis genom upptagande av lån och/eller försäljning av sin nuvarande bostad.
 
@@ -2376,14 +2376,14 @@ köpet därför inte kan återgå, även om köparen inte har sin finansiering k
 tillträdesdagen, och att utebliven betalning kan medföra att säljaren kan häva köpet
 och kräva skadestånd.
 
-\$ 3 Inteckningar och Säljaren garanterar
+§ 3 Inteckningar och Säljaren garanterar
 
 pantbrev . . . .
 « att fastigheten på tillträdesdagen är intecknad till: 3 775 000 kronor
 
 « att fastigheten på tillträdesdagen inte är pantsatt.
 
-\$4 Rättigheter och Säljaren garanterar
+§4 Rättigheter och Säljaren garanterar
 belastningar
 « att fastigheten endast belastas eller har förmån av följande servitut,
 
@@ -2417,7 +2417,7 @@ last, officialservitut: Väg
 last, avtalsservitut: Kraftledning, Nätstation
 förmån, avtalsservitut: Väg
 
-\$ 5 Fastighetens skick — Fastigheten överlåts i det skick den är på kontraktsdagen om inte annat
+§ 5 Fastighetens skick — Fastigheten överlåts i det skick den är på kontraktsdagen om inte annat
 överenskommits.
 
 28344 LÖ
@@ -2428,14 +2428,14 @@ Vallgatan 4 Besöksadress Tel 0300-68 68 00 Styrelsens säte Kungsbacka Bankgiro
 
 <!-- sida 80 -->
 
-\$ 6 Ansvar för skada
+§ 6 Ansvar för skada
 
-\$7 Äganderättens
+§7 Äganderättens
 övergång samt
 fördelning av intäkter
 och kostnader
 
-\$ 8 Myndighets beslut,
+§ 8 Myndighets beslut,
 rådighetsinskränkning,
 anslutningsavgifter
 
@@ -2497,14 +2497,14 @@ Vallgatan 4 Besöksadress Tel 0300-68 68 00 Styrelsens säte Kungsbacka Bankgiro
 
 <!-- sida 81 -->
 
-\$ 9 Lagfarts- och
+§ 9 Lagfarts- och
 lånekostnader
 
-\$ 10 Kontraktsbrott
+§ 10 Kontraktsbrott
 
-\$ 11 Energideklaration
+§ 11 Energideklaration
 
-\$ 12 Städning och
+§ 12 Städning och
 
 kvarglömd egendom
 
@@ -2536,7 +2536,7 @@ köparens kontraktsbrott ska ersättningen till säljaren även innefatta sälja
 för mäklarprovision i samband med försäljningen av fastigheten.
 
 Det är av väsentlig betydelse för säljaren att köparen betalar handpenningen i
-enlighet med vad som stadgas i \$ 1. Betalar inte köparen handpenningen i rätt tid
+enlighet med vad som stadgas i § 1. Betalar inte köparen handpenningen i rätt tid
 har säljaren rätt att häva köpet fram till dess att handpenningen betalats i sin helhet.
 Är köparen sen med betalningen av handpenningen kan detta leda till
 skadeståndsskyldighet för köparen.
@@ -2572,7 +2572,7 @@ Vallgatan 4 Besöksadress Tel 0300-68 68 00 Styrelsens säte Kungsbacka Bankgiro
 
 Fastighetsbyrån &
 
-\$ 13 Överlämnande av — Sedan köpeskilling betalats enligt de i 1 \$ angivna villkoren, ska säljaren till köparen
+§ 13 Överlämnande av — Sedan köpeskilling betalats enligt de i 1 § angivna villkoren, ska säljaren till köparen
 
 handlingar samt nycklar överlämna bevittnat kvitterat köpebrev avseende fastigheten och övriga handlingar
 som behövs för att köparen ska få lagfart. Säljaren ska även till köparen överlämna
@@ -2580,11 +2580,11 @@ de nycklar säljaren har samt aktuellt utdrag ur fastighetsregistret, obelånade
 pantbrev, gällande tomtkarta om sådan finns och andra handlingar rörande
 fastigheten, vilka är av betydelse för köparen som ägare av denna.
 
-\$ 14 Pantförskrivning Om det krävs för köparens finansiering av köpet, förbinder sig säljaren att på
+§ 14 Pantförskrivning Om det krävs för köparens finansiering av köpet, förbinder sig säljaren att på
 köparens bekostnad ansöka om nya inteckningar och hjälpa till vid köparens
 pantförskrivning av pantbrev avseende fastigheten innan köparen beviljats lagfart.
 
-\$ 15 Skriftliga Skriftliga meddelanden med anledning av detta kontrakt ska ske genom personligt
+§ 15 Skriftliga Skriftliga meddelanden med anledning av detta kontrakt ska ske genom personligt
 
 meddelanden överlämnande/överlämnande genom bud, brev, rekommenderat brev eller e-post till
 den adress som angetts för motparten på kontraktets första sida samt med
@@ -2599,18 +2599,18 @@ Meddelande ska anses ha kommit mottagaren tillhanda:
 « om avsänt med rekommenderat brev: sex arbetsdagar efter avlämnande för
 
 postbefordran.
-\$ 16 oo Köparen har uppmanats att undersöka fastigheten. Köparen godtar fastighetens
+§ 16 oo Köparen har uppmanats att undersöka fastigheten. Köparen godtar fastighetens
 Friskrivningsklausul skick och avstår härmed med bindande verkan från alla anspråk mot säljaren på
 
 grund av fel eller brister i fastigheten.
 
-\$ 17 Förvärvstillstånd Parterna är medvetna om att det för köpets giltighet krävs att Köparen erhåller
+§ 17 Förvärvstillstånd Parterna är medvetna om att det för köpets giltighet krävs att Köparen erhåller
 förvärvstillstånd för Fastigheten. Köparen förbinder sig att omgående ansöka om
 sådant förvärvstillstånd och ensam betala tillhörande ansökningsavgift. Köparen har
 inte rätt överklaga eventuellt avslag om förvärvstillstånd utan särskilt godkännande
 från Säljaren
 
-\$18 Arrende > Jordbruksmarken är upplåten till Stockens Grönsaker AB, 556418-2813,
+§18 Arrende > Jordbruksmarken är upplåten till Stockens Grönsaker AB, 556418-2813,
 (adress borttagen), 439 63 Frillesås. Skriftligt arrendeavtal bilaga: Jordbruksarrende
 Frillesås-Rya 4:14
 Arrendatorn söker bidrag från Jordbruksverket.
@@ -2618,7 +2618,7 @@ Arrendatorn söker bidrag från Jordbruksverket.
 \> Ingen fiskerätt föreligger på fastigheten idag.
 \> Jakträtt innehas av ägaren själv.
 
-\$ 19 Arealersättning, Säljaren har upplyst att det för fastigheten inte föreligger arealersättning, miljöstöd
+§ 19 Arealersättning, Säljaren har upplyst att det för fastigheten inte föreligger arealersättning, miljöstöd
 miljöstöd och bidrag eller annat bidrag av något slag
 
 28344 LÖ
@@ -2631,11 +2631,11 @@ Vallgatan 4 Besöksadress Tel 0300-68 68 00 Styrelsens säte Kungsbacka Bankgiro
 
 Fastighetsbyrån
 
-\$ 20 Fastighetsbildning — Parterna är överens om att avtalet, om köpare så önskar, kan ligga till grund för en
+§ 20 Fastighetsbildning — Parterna är överens om att avtalet, om köpare så önskar, kan ligga till grund för en
 ansökan till lantmäterimyndigheten om att genomföra förvärvet som
 fastighetsreglering till kommunens angränsande fastighet.
 
-\$ 21 Avtalets giltighet Avtalet är giltigt under förutsättning att det godkänns av Kommunstyrelsens
+§ 21 Avtalets giltighet Avtalet är giltigt under förutsättning att det godkänns av Kommunstyrelsens
 arbetsutskott, genom beslut som vinner laga kraft samt att avtalet undertecknas av
 Kommunen.
 
@@ -2651,7 +2651,7 @@ eller andra krav gentemot varandra. För den händelse Kommunstyrelsens
 arbetsutskott inte tagit beslut om att godkänna avtalet med upprättat och justerat
 protokoll senast den 31 december 2024 äger säljaren rätt att begära köpets återgång
 
-\$22 Tvist Tvist rörande tolkning av avtalet ska, om inte annat överenskommes mellan
+§22 Tvist Tvist rörande tolkning av avtalet ska, om inte annat överenskommes mellan
 parterna, avgöras av allmän domstol.
 
 Handlingar Köparen har tagit del av, och är Säljaren har tagit del av, och är införstådd

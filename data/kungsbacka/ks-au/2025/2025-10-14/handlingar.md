@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4bf8b95b199c910f57caea/176001721391
 sha256: 6fac88376cb7edb09e30cbe65d3f1ddb964fc5fde2436fadd4477dbe2df8960c
 bytes: 12911545
 sidor: 111
-hamtad: 2026-10-16T08:55:16+00:00
-konverterad: 2026-10-16T08:56:31+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T08:21:22+00:00
+konverterad: 2026-10-25T08:22:39+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr]
@@ -181,7 +181,7 @@ Hallands läns beslut om att upphäva 15 a \$ (förbud mot användning av lustga
 tillhörande bilaga 6, den text i bilaga 3 som gäller 15 a \$, i lokala ordningsföreskrifter för Kungsbacka
 kommun, samt att Förvaltningsrätten i Göteborg fastställer kommunfullmäktige i Kungsbacka
 
-kommuns beslut den 16 juni 2025, \$ 121.
+kommuns beslut den 16 juni 2025, § 121.
 
 GRUND
 
@@ -3495,7 +3495,7 @@ för bil skulle tillskapas med 1,2 platser/lägenhet och 1,8 platser/småhus.
 Parkeringsbehovet för bil inom Detaljplanen ordnas genom parkering inom de
 egna kvarteren samt i en gemensam mobilitetshub centralt i området. Till grund
 för bedömningen av parkeringsbehovet vid planering av nybyggnation ligger
-Parkeringsstrategi för Kungsbacka Stad (KS/2017 \$210).
+Parkeringsstrategi för Kungsbacka Stad (KS/2017 §210).
 
 Bolaget tog 2022-02-24 fram en mobilitetsutredning som redovisar förslag på
 mobilitetsåtgärder som, om de genomförs, skulle kunna motivera sänkta

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7afd6e1d19ae7d4de8b1d70/17648426823
 sha256: c9516b97af17ac4639930467196f2a567dfe59a991eb7682e721dc6d3dfc5962
 bytes: 39783867
 sidor: 291
-hamtad: 2026-10-16T09:20:53+00:00
-konverterad: 2026-10-16T09:26:19+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T08:49:04+00:00
+konverterad: 2026-10-25T08:55:18+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ocr, ok, ocr, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, tabell-osaker, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ej-konverterad, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ocr, ok, ocr, ok, ocr, ok, ocr]
@@ -502,14 +502,14 @@ stöd av XX \$ förordningen (2026:XXX) om cybersäkerhet.
 Tillämpningsområde
 18 Dessa föreskrifter innehåller bestämmelser om
 
-\- vad som utgör en betydande incident enligt 2 kap. 5 \$ andra stycket
+\- vad som utgör en betydande incident enligt 2 kap. 5 § andra stycket
 cybersäkerhetslagen (2026:XXX),
 
-\- rapportering av betydande incidenter enligt 2 kap. 5—8 \$\$
+\- rapportering av betydande incidenter enligt 2 kap. 5—8 §§
 cybersäkerhetslagen, och
 
 \- informationsskyldighet vid betydande incidenter och betydande
-cyberhot enligt 2 kap: 9—10 \$\$ cybersäkerhetslagen.
+cyberhot enligt 2 kap: 9—10 §§ cybersäkerhetslagen.
 
 Bestämmelser om vad som utgör en betydande incident i 34 kap. samt
 informationsskyldighet vid betydande incidenter och betydande cyberhot i 5
@@ -626,7 +626,7 @@ N
 
 Incidentanmälan
 38 — Incidentanmälan ska innehålla komplettering och uppdatering av
-uppgifter som lämnats enligt 2 \$ samt följande uppgifter
+uppgifter som lämnats enligt 2 § samt följande uppgifter
 1\. hur länge incidenten pågått,
 hur incidenten upptäcktes,
 i tillämpliga fall, när incidenten avhjälptes,
@@ -648,7 +648,7 @@ NAV RBYN
 
 Slutrapport eller lägesrapport
 48 — Slutrapporten ska innehålla en komplettering och uppdatering av
-uppgifter som lämnats enligt 2—3 \$\$. I tillämpliga fall ska den även
+uppgifter som lämnats enligt 2—3 §§. I tillämpliga fall ska den även
 innehålla en beskrivning av vilka tekniska och organisatoriska åtgärder som
 vidtagits eller kommer att vidtas för att
 
@@ -701,7 +701,7 @@ eller har haft nedsatt funktionalitet i mer än sex tummar, eller
 3\. information tillhörande verksamhetsutövaren har blivit tillgänglig
 för obehöriga, förvanskats eller förstörts och utgör
 
-a) företagshemligheter enligt 2 \$ lagen om
+a) företagshemligheter enligt 2 § lagen om
 företagshemligheter (2018:558), eller
 
 b) annan information som vid informationsklassning
@@ -758,15 +758,15 @@ inneburit
 1\. att information som verksamhetsutövaren behandlar för annan
 organisation eller minst 500 fysiska personer har blivit tillgänglig för
 obehöriga, förvanskats eller förstörts och utgör
-a) företagshemligheter enligt 2 \$ lagen om företagshemligheter
+a) företagshemligheter enligt 2 § lagen om företagshemligheter
 (2018:558), eller
 b) annan information som vid informationsklassning bedömts
 ha behov av utökat skydd,
-2\. att anmälningsskyldighet inträder enligt 3 kap. 5 \$ första stycket
+2\. att anmälningsskyldighet inträder enligt 3 kap. 5 § första stycket
 patientsäkerhetslagen (2010:659),
 3\. personskada eller sjukdom,
 4\. dödsfall, eller
-5\. en föroreningsskada enligt 10 kap. 1 \$ i miljöbalken (1998:808).
+5\. en föroreningsskada enligt 10 kap. 1 § i miljöbalken (1998:808).
 
 Andra rapporteringspliktiga incidenter
 58 Med betydande incident som kan orsaka en allvarlig driftstörning för
@@ -778,12 +778,12 @@ verksamhetsutövarens system,
 2\. inneburit att en betydande sårbarhet har uppstått inom
 verksamhetsutövarens system, eller
 3\. på annat sätt vid en initial analys bedöms komma att resultera i att
-kriterierna för rapporteringsplikt i enlighet med 3 kap. 14 \$\$ eller 4
-kap. 1-9 \$\$ uppfylls då incidenten eller incidentens konsekvenser
+kriterierna för rapporteringsplikt i enlighet med 3 kap. 14 §§ eller 4
+kap. 1-9 §§ uppfylls då incidenten eller incidentens konsekvenser
 inte kan hanteras i tid.
 
 68 = Incidenter som var för sig inte anses som en betydande incident i den
-mening som avses 1 3 kap. 1-3 \$\$ eller 4 kap. 1—9 \$\$ ska anses vara en
+mening som avses 1 3 kap. 1-3 §§ eller 4 kap. 1—9 §§ ska anses vara en
 betydande incident om de
 
 1\. har inträffat minst två gånger inom sex månader,
@@ -794,7 +794,7 @@ betydande incident om de
 MSBFS
 [Fyll i nr|
 
-3\. sammantaget överstiger beloppsgränsen i 3 kap. 2 \$.
+3\. sammantaget överstiger beloppsgränsen i 3 kap. 2 §.
 
 4 kap. Sektorsspecifika kriterier för allvarlig
 driftstörning i den erbjudna tjänsten
@@ -825,7 +825,7 @@ har haft nedsatt funktionalitet i mer än sex timmar, eller
 3\. information tillhörande verksamhetsutövaren har blivit tillgänglig för
 obehöriga, förvanskats eller förstörts och utgör
 
-a) företagshemligheter enligt 2 \$ lagen om företagshemligheter
+a) företagshemligheter enligt 2 § lagen om företagshemligheter
 (2018:558), eller
 
 b) annan information som vid informationsklassning bedömts
@@ -861,7 +861,7 @@ har haft nedsatt funktionalitet i mer än sex timmar, eller
 4\. information tillhörande verksamhetsutövaren har blivit tillgänglig
 för obehöriga, förvanskats eller förstörts och utgör
 
-a) företagshemligheter enligt 2 \$ lagen om företagshemligheter
+a) företagshemligheter enligt 2 § lagen om företagshemligheter
 (2018:558), eller
 
 b) annan information som vid informationsklassning bedömts
@@ -888,7 +888,7 @@ har haft nedsatt funktionalitet i mer än sex tummar, eller
 4\. information tillhörande verksamhetsutövaren har blivit tillgänglig för
 obehöriga, förvanskats eller förstörts och utgör
 
-a) företagshemligheter enligt 2 \$ lagen om företagshemligheter
+a) företagshemligheter enligt 2 § lagen om företagshemligheter
 (2018:558), eller
 
 b) annan information som vid informationsklassning bedömts
@@ -921,7 +921,7 @@ MSBFS
 
 4\. information tillhörande verksamhetsutövaren har blivit tillgänglig
 för obehöriga, förvanskats eller förstörts och utgör
-a) företagshemligheter enligt 2 \$ lagen om företagshemligheter
+a) företagshemligheter enligt 2 § lagen om företagshemligheter
 (2018:558), eller
 b) annan information som vid informationsklassning bedömts
 ha behov av utökat skydd.
@@ -953,7 +953,7 @@ har haft nedsatt funktionalitet i mer än sex timmar, eller
 3\. information tillhörande verksamhetsutövaren har blivit tillgänglig
 för obehöriga, förvanskats eller förstörts och utgör
 
-a) företagshemligheter enligt 2 \$ lagen om företagshemligheter
+a) företagshemligheter enligt 2 § lagen om företagshemligheter
 (2018:558), eller
 
 b) annan information som vid informationsklassning bedömts
@@ -989,7 +989,7 @@ MSBFS
 
 3\. information tillhörande verksamhetsutövaren har blivit tillgänglig
 för obehöriga, förvanskats eller förstörts och utgör
-a) företagshemligheter enligt 2 \$ lagen om företagshemligheter
+a) företagshemligheter enligt 2 § lagen om företagshemligheter
 (2018:558), eller
 b) annan information som vid informationsklassning bedömts
 ha behov av utökat skydd.
@@ -1002,7 +1002,7 @@ den erbjudna tjänsten avses en incident där
 sektorskritiska system har inneburit att
 a) sektorsverksamhet endast har kunnat bedrivas i begränsad
 omfattning i mer än en timme,
-b) sådan ambulans och ambulanssjukvård som avses i 7 kap. 6 \$
+b) sådan ambulans och ambulanssjukvård som avses i 7 kap. 6 §
 hälso- och sjukvårdslagen (2017:30) inte har kunnat
 tillhandahållas, eller
 
@@ -1017,7 +1017,7 @@ har haft nedsatt funktionalitet i mer än sex timmar, eller
 3\. information tillhörande verksamhetsutövaren har blivit tillgänglig
 för obehöriga, förvanskats eller förstörts och utgör
 
-a) företagshemligheter enligt 2 \$ lagen om företagshemligheter
+a) företagshemligheter enligt 2 § lagen om företagshemligheter
 (2018:558), eller
 
 b) annan information som vid informationsklassning bedömts
@@ -1025,7 +1025,7 @@ ha behov av utökat skydd.
 
 Dricksvatten
 
-8\$ Med betydande incident som har orsakat allvarlig driftstörning för
+8§ Med betydande incident som har orsakat allvarlig driftstörning för
 den erbjudna tjänsten avses en incident där
 
 1\. sektorskritiska system har varit otillgängliga eller har haft nedsatt
@@ -1042,7 +1042,7 @@ har haft nedsatt funktionalitet i mer än sex tummar, eller
 4\. information tillhörande verksamhetsutövaren har blivit tillgänglig
 för obehöriga, förvanskats eller förstörts och utgör
 
-a) företagshemligheter enligt 2 \$ lagen om företagshemligheter
+a) företagshemligheter enligt 2 § lagen om företagshemligheter
 (2018:558), eller
 
 <!-- sida 23 -->
@@ -1074,7 +1074,7 @@ upprätthålla en viktig samhällsfunktion har varit otillgängliga eller
 har haft nedsatt funktionalitet i mer än sex timmar, eller
 information tillhörande verksamhetsutövaren har blivit tillgänglig
 för obehöriga, förvanskats eller förstörts och utgör
-a. företagshemligheter enligt 2 \$ lagen om företagshemligheter
+a. företagshemligheter enligt 2 § lagen om företagshemligheter
 (2018:558), eller
 b. annan information som vid informationsklassning bedömts
 ha behov av utökat skydd.
@@ -1117,7 +1117,7 @@ bedömer att sådan information kan förvärra incidentens konsekvenser.
 
 När en verksamhetsutövare informerar om ett betydande cyberhot
 
-som inte utgör en betydande incident enligt 3 kap. 5 \$ punkt 1 ska följande
+som inte utgör en betydande incident enligt 3 kap. 5 § punkt 1 ska följande
 uppgifter lämnas
 
 1\.
@@ -1312,7 +1312,7 @@ myndighet är skyldig att utföra enligt
 författning,
 
 nätverks- och informationssystem enligt 1
-kap. 2 \$ p 19 i cybersäkerhetslag (2025:XX),
+kap. 2 § p 19 i cybersäkerhetslag (2025:XX),
 
 arbete som bedrivs med stöd av interna regler
 och arbetssätt för att upprätta, genomföra,
@@ -1433,7 +1433,7 @@ arbetssätt ska, om inte särskilda hinder identifierats, bevaras i minst 5 år.
 MSBFS
 [Fyll i nr]
 
-Underlag enligt 2 kap. 24 \$ och de beslut som ledningen fattar med
+Underlag enligt 2 kap. 24 § och de beslut som ledningen fattar med
 anledning av arbetet med övervakning av genomförandet av
 säkerhetsåtgärder ska bevaras i minst 5 år.
 
@@ -1530,7 +1530,7 @@ Allmänna råd
 Ledningen bör utse systemägare för organisationens olika delar i den digitala
 miljön.
 
-8\$ — Iledningens arbete med att övervaka genomförandet av
+8§ — Iledningens arbete med att övervaka genomförandet av
 säkerhetsåtgärder ingår att vid behov men minst årligen informera sig om
 
 1\. risker som bedöms som allvarliga för cybersäkerheten,
@@ -1540,7 +1540,7 @@ status i arbetet med åtgärdsplaner,
 betydande incidenter,
 
 bristande cybersäkerhet hos leverantörer och i leveranskedjor,
-samordnarens utvärdering enligt 2 kap. 24 \$,
+samordnarens utvärdering enligt 2 kap. 24 §,
 
 resultat av intern och extern revision,
 
@@ -2484,7 +2484,7 @@ Interna regler ska minst ange
 2\. tidpunkt för när säkerhetsloggning ska genomföras,
 
 3\. hur säkerhetsloggar ska utformas och vilka ytterligare uppgifter
-som säkerhetsloggarna ska innehålla utöver 26 \$;
+som säkerhetsloggarna ska innehålla utöver 26 §;
 
 4\. hur säkerhetsloggar ska skyddas mot obehörig åtkomst, obehörig
 förändring och fysisk skada,
@@ -2859,7 +2859,7 @@ bildad
 larm genereras vid otillräcklig funktion vid på förhand fastställda nivåer i
 produktionsmiljön.
 
-8\$ :Verksamhetsutövaren ska identifiera och hantera behovet av
+8§ :Verksamhetsutövaren ska identifiera och hantera behovet av
 
 tillräcklig funktion och redundans hos tekniska försörjningssystem i
 utvecklings-, test- och utbildningsmiljö.
@@ -3039,7 +3039,7 @@ medlemmarna i entiteters ledningsorgan är skyldiga att genomgå utbildning.
 Detta krav införs i svensk reglering genom 2 kap. 4 8 cybersäkerhetslagen.
 
 Förslaget till föreskrifter och allmänna råd om säkerhetsåtgärder och
-utbildning avser verksamhetsutövarens skyldighet enligt 2 kap. 3 \$
+utbildning avser verksamhetsutövarens skyldighet enligt 2 kap. 3 §
 cybersäkerhetslagen att vidta säkerhetsåtgärder samt ledningens skyldighet att
 genomgå utbildning om säkerhetsåtgärder enligt 2 kap. 4 8
 cybersäkerhetslagen. Föreskrifterna och tillhörande vägledning syftar till att
@@ -3137,7 +3137,7 @@ tjänster. I SOU 2024:18 — Genomförande av NIS2- och CER-direktiven föreslog
 att ett motsvarande krav även skulle finnas i den nya cybersäkerhetslagen. Det
 framgår dock av propositionen? att kravet på att bedriva ett systematiskt och
 riskbaserat arbete redan bedöms följa av säkerhetskraven som ställs på
-verksamhetsutövarna enligt artikel 21 punkt 1 i NIS2-direktivet och 2 kap. 3 \$
+verksamhetsutövarna enligt artikel 21 punkt 1 i NIS2-direktivet och 2 kap. 3 §
 cybersäkerhetslagen. Införandet av ett separat krav skulle därför enligt
 regeringen innebära dubbelreglering. Föreskrifterna och de allmänna råden
 samt därtill hörande vägledning behöver därför förtydliga att ett systematiskt
@@ -3149,11 +3149,11 @@ Organisationer som omfattas av det första NIS-direktivets tillämpningsområde,
 det vill säga samhällsviktiga och digitala leverantörer omfattas i dag av
 föreskrifter och allmänna råd från MSB. Dessa regler gäller det systematiska
 och riskbaserade informationssäkerhetsarbete som leverantörer av
-samhällsviktiga tjänster ska bedriva enligt 11 \$ lagen (2018:1174) om
+samhällsviktiga tjänster ska bedriva enligt 11 § lagen (2018:1174) om
 informationssäkerhet för samhällsviktiga och digitala tjänster.
 
 Flera av de utpekade tillsynsmyndigheterna har också utfärdat föreskrifter och
-allmänna råd med krav på säkerhetsåtgärder enligt 12 — 14 \$\$ i samma lag.
+allmänna råd med krav på säkerhetsåtgärder enligt 12 — 14 §§ i samma lag.
 Kraven gäller nätverks- och informationssystem för samhällsviktiga tjänster
 inom följande sektorerna:
 
@@ -3205,7 +3205,7 @@ cyberfysiska system och deras särskilda förutsättning.
 
 Uppföljning av konsekvenser av föreskrifter och allmänna råd
 
-Enligt 7 \$ 5 p i förordningen (2024:183) om konsekvensutredningar ska en
+Enligt 7 § 5 p i förordningen (2024:183) om konsekvensutredningar ska en
 myndighet följa upp konsekvenser av sina föreskrifter och allmänna råd. En
 första uppföljning kommer att ske så snart det är möjligt att utvärdera
 reglernas effekter och därefter regelbundet.
@@ -3385,7 +3385,7 @@ motsvarar artikel 21 punkt 2 NIS2-direktivet.
 Nedan följer en övergripande redovisning av hur lagkraven förtydligats och
 konkretiserats i föreskrifter och allmänna råd.
 
-Av 2 kap. 3 \$ första och andra stycket cybersäkerhetslagen framgår att
+Av 2 kap. 3 § första och andra stycket cybersäkerhetslagen framgår att
 verksamhetsutövare ska vidta lämpliga och proportionella tekniska,
 driftsrelaterade och organisatoriska åtgärder för att skydda nätverk och
 informationssystem som de använder för sin verksamhet eller för att
@@ -3448,7 +3448,7 @@ verksamhetsutövaren avseende förvärv, utveckling och underhåll av
 
 <!-- sida 62 -->
 
-system (3 kap. 1-6 88), riskhantering (2 kap. 14-16 \$,\$, 3 kap. 3 8) och
+system (3 kap. 1-6 88), riskhantering (2 kap. 14-16 §,\$, 3 kap. 3 8) och
 kontinuitetshantering (2 kap. 18 - 20 88),
 
 5\. säkerhet vid förvärv, utveckling och underhåll av nätverk och
@@ -3487,7 +3487,7 @@ verksamhetsutövaren avseende kryptering (3 kap. 30 — 33 88).
 Omhändertas i föreskrifter och allmänna råd främst genom kraven på
 verksamhetsutövaren avseende personalsäkerhet (2 kap. 10 och 11 88),
 segmentering och filtrering (3 kap. 11 — 14 88), behörighetshantering
-och autentisering (3 kap. 15 — 21 \$\$), säkerhetsloggning och logganalys
+och autentisering (3 kap. 15 — 21 §§), säkerhetsloggning och logganalys
 (3 kap. 22 — 27 88), robust och spårbar tid (3 kap. 28 8), övervakning av
 system (3 kap. 38 och 39 88) och driftrelaterad dokumentation (3 kap.
 7-10 88).
@@ -4380,7 +4380,7 @@ informationsskyldighet syftar till att förtydliga
 cybersäkerhetslagen,
 
 \- vilka uppgifter som verksamhetsutövare ska inkomma med vid
-rapportering av en betydande incident enligt 2 kap. 5-8 \$\$
+rapportering av en betydande incident enligt 2 kap. 5-8 §§
 cybersäkerhetslagen, och
 
 <!-- sida 80 -->
@@ -4521,7 +4521,7 @@ verksamhetsutövarna vid respektive rapporteringstillfälle. Till detta kommer
 att Kommissionen enligt samma artikel p. 11 får anta
 genomförandeförordningar som närmare anger typen av uppgifter i och
 formatet och förfarandet för incidentrapportering. Rapportering av betydande
-incidenter regleras i 2 kap. 5 — 8 \$\$ cybersäkerhetslagen. I lagen framgår dock
+incidenter regleras i 2 kap. 5 — 8 §§ cybersäkerhetslagen. I lagen framgår dock
 endast att verksamhetsutövaren ska lämna olika typer av rapporter vid
 specificerade tidpunkter och inte vilken information som ska lämnas.
 
@@ -9665,7 +9665,7 @@ Anvisning
 
 Typ av styrdokument: Strategi
 
-Beslutad av: Kommunfullmäktige, ?? 2? 2026 \$ KS 279/2025
+Beslutad av: Kommunfullmäktige, ?? 2? 2026 § KS 279/2025
 Gäller från: 202Å-MM-DD
 
 Ansvarig: Strategiska enheten Samhällsbyggnadsförvaltningen
@@ -9704,7 +9704,7 @@ ansvarsfördelningen mellan stadens nämnder och förvaltningar med verksamhetsa
 och hur staden arbetar direkt eller indirekt i olika processer.
 
 Dagvattenstrategin ersätter den tidigare som antogs i kommunfullmäktige den 11
-november 2016 (\$ 167, KS 377/16).
+november 2016 (§ 167, KS 377/16).
 
 <!-- sida 203 -->
 
@@ -9753,7 +9753,7 @@ inom fysisk planering för mark- och vattenanvändning.
 1.1. Bakgrund
 
 Mölndals stad har sedan 2016 en dagvattenstrategi som antogs i kommunfullmäktige den
-11 november 2016 (\$ 167, KS 377/16). Dagvattenstrategin har sedan varit vägledande
+11 november 2016 (§ 167, KS 377/16). Dagvattenstrategin har sedan varit vägledande
 inom framför allt fysisk planering med nya exploateringar. Det har saknats underliggande
 styrdokument och det arbetet pågår nu parallellt med att dagvattenstrategin revideras.
 
@@ -9817,7 +9817,7 @@ magasinering av dagvatten eller förnyelse av befintligt dagvattensystem.
 Översvämningsdirektivet antogs i EU 2007 och innebär att områden med betydande
 översvämningsrisker pekas ut och att riskhanteringsplaner ska tas fram. Mölndal har en
 
-klimatanpassningsplan som antogs av kommunstyrelsen under 2024 (\$311, KS
+klimatanpassningsplan som antogs av kommunstyrelsen under 2024 (§311, KS
 482/2024).
 
 I Mölndal finns det risk för översvämning från sjöar och vattendrag, inom instängda
@@ -10944,7 +10944,7 @@ Hela ansökan om tillstånd kommer därför att skickas till Mark- och miljödom
 Tingsrätt, för prövning av 9 kap. miljöbalken (1998:808).
 
 Detta samrådsunderlag utgör utgångspunkt för de samråd som ska hållas i tillståndsprocessen, i
-enlighet med 6 kap. miljöbalken och omfattar såväl undersökningssamråd (6 kap. 23-25 \$\$) och
+enlighet med 6 kap. miljöbalken och omfattar såväl undersökningssamråd (6 kap. 23-25 §§) och
 avgränsningssamråd (6 kap. 29-31 88).
 
 2.2 PLANERAD ANSÖKAN

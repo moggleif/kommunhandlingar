@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.673b6e6519d7224d2e8f6a1/17758032012
 sha256: 2795afdfc5375758f11d62d77cdeb6bb6f590f5277226da60b858b175ab97059
 bytes: 17849907
 sidor: 210
-hamtad: 2026-10-16T09:48:01+00:00
-konverterad: 2026-10-16T09:53:54+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T09:18:25+00:00
+konverterad: 2026-10-25T09:24:41+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad]
@@ -7157,12 +7157,12 @@ Kommunen yrkar att kammarrätten i Göteborg med ändring av förvaltningsrätte
 Länsstyrelsen i Hallands läns beslut ska fastställa 15 a \$ (förbud mot användning av lustgas i
 berusningssyfte), tillhörande bilaga 6, den text i bilaga 3 som gäller 15 a \$, i lokala
 ordningsföreskrifter för Kungsbacka kommun, i enlighet med kommunfullmäktiges beslut den 16 juni
-2025, \$ 121.
+2025, § 121.
 
 Kommunen yrkar i andra hand att kammarrätten ska fastställa förbudsområdets utbredning och
 överlämna till kommunen att förtydliga föreskriften på så sätt att det överst på varje sida i bilaga 6
 läggs till ”Förbudet gäller på offentliga platser, enligt 15 a \$”, samt att en hänvisning till 15 a \$ läggs
-till i 3 \$ punkt 4 och punkt 6.
+till i 3 § punkt 4 och punkt 6.
 
 GRUNDER
 Kommunen åberopar och vidhåller samma omständigheter om åberopats i förvaltningsrätten.

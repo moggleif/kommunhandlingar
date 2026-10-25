@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.329f2e9b19368002a6f19943/1732891450
 sha256: 6ff870cba8aab7d77be6dd1aae89fa13e3a3307139a97dcb172882ae85ae5e71
 bytes: 147408302
 sidor: 341
-hamtad: 2026-10-16T07:33:01+00:00
-konverterad: 2026-10-16T07:37:55+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T06:59:06+00:00
+konverterad: 2026-10-25T07:03:24+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok]
@@ -13492,7 +13492,7 @@ Kommunstyrelsen ; Datum
 
 2020-01-21
 
-\$9 Dnr 2019-00771
+§9 Dnr 2019-00771
 Principavtal för detaljplan för utveckling av Annebergs centrum
 
 Beslut
@@ -13530,7 +13530,7 @@ godkännas innan detaljplanen antas.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2020-01-13, \$ 19
+Kommunstyrelsens arbetsutskott 2020-01-13, § 19
 Samhällsbyggnadskontorets tjänsteskrivelse, 2019-12-16
 Principavtal, undertecknat av SW fastigheter KB 2019-12-09
 
@@ -14202,7 +14202,7 @@ Kommunstyrelsen Datum
 
 2020-01-21
 
-\$9 Dnr 2019-00771
+§9 Dnr 2019-00771
 Principavtal för detaljplan för utveckling av Annebergs centrum
 
 Beslut
@@ -14240,7 +14240,7 @@ godkännas innan detaljplanen antas.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2020-01-13, \$ 19
+Kommunstyrelsens arbetsutskott 2020-01-13, § 19
 Samhällsbyggnadskontorets tjänsteskrivelse, 2019-12-16
 Principavtal, undertecknat av SW fastigheter KB 2019-12-09
 

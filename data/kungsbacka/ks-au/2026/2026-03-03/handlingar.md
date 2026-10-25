@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3fcba5dd19c985df70620d4f/1772190296
 sha256: a323ba9c7e7693d038a5e939c532373336c14ada0a7ed880f400a4b3f57bab05
 bytes: 58140455
 sidor: 493
-hamtad: 2026-10-16T09:35:48+00:00
-konverterad: 2026-10-16T09:41:07+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T09:05:29+00:00
+konverterad: 2026-10-25T09:11:30+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, tabell-osaker, ok, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, tabell-osaker, ocr, ocr, ocr, ocr, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ej-konverterad, ocr, ocr]
@@ -9762,7 +9762,7 @@ följande:
 För hämtning med andra metoder än de som är beskrivna i denna avfallstaxa eller där
 förhållandena väsentligt avviker från vad som är normalt får nämnden för Teknik besluta om
 särskilda avgifter i enlighet med grunderna för denna avfallstaxa och de grunder som anges i
-27 kap. 5 \$ miljöbalken.
+27 kap. 5 § miljöbalken.
 
 Kungsbacka kommun Avfallstaxa 2026 27
 

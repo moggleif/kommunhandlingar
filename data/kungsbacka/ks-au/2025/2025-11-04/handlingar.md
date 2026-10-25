@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3632c6c019a1532ee4783df9/1761825665
 sha256: c5ab823af661d6c37446e4c43cd725ce0be21c2a43dce2f1c0e49eff5d3672e5
 bytes: 69743125
 sidor: 398
-hamtad: 2026-10-16T08:56:31+00:00
-konverterad: 2026-10-16T09:03:45+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T08:22:39+00:00
+konverterad: 2026-10-25T08:30:33+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, tabell-osaker, tabell-osaker, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, tabell-osaker, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
@@ -2478,7 +2478,7 @@ avsnitt 5 huvudregeln att leasing inte är tillåtet för annat än fordon | Bit
 Gemensamt reglemente 8 9 och arbetsmaskiner.
 2.2.11 Riktlinjer för finansverksamhet | Godkännande för nämnd för undantag från huvudregeln Ekonomichef
 avsnitt 5 att leasing inte är tillåtet för annat än fordon och Enhetschef Styrning & Ekonomi
-Gemensamt reglemente \$ 9 arbetsmaskiner.
+Gemensamt reglemente § 9 arbetsmaskiner.
 
 Kungsbacka kommun
 
@@ -2718,7 +2718,7 @@ Exploateringshandläggare
 Markingenjör
 2.4.14 Reglementet Upplåtelse av allmän plats för särskilda ändamål Kommundirektör Nämnden för Teknik
 Samhällsbyggnadschef handlägger yttranden om
-Verksamhetschef Mark & Exploatering | tillstånd enl. OL 3 kap 2 \$
+Verksamhetschef Mark & Exploatering | tillstånd enl. OL 3 kap 2 §
 2.4.15 Reglementet Förvärv av fastighet eller del av fastighet, genom köp, byte, gåva, Arbetsutskott Se bestämmelserna punkt
 fastighetsreglering eller liknande åtgärd, upp till 10 miljoner kr. 1.5
 2.4.16 a) | Reglementet Förvärv av fastighet eller del av fastighet, genom köp, byte, gåva, Kommundirektör Se bestämmelserna punkt
@@ -3083,7 +3083,7 @@ Kolumnen Delegerat till har strukits och rubriken i kolumnen Med rätt att vidar
 ändrats till Delegerat till. I den kolumnen redovisas nu de funktioner som beslutsrätten
 delegeras till. Ändringen har gjorts genomgående i dokumentet
 
-KL 6 kap 39 \$
+KL 6 kap 39 §
 
 Kungsbacka
 
@@ -3091,7 +3091,7 @@ Kungsbacka
 avgörande inte kan avvaktas.
 
 2.1.2 OSL 6 kap Utlämnande av allmän handling med förbehåll eller att Kommundirektör Utlämnande av
-3-6 \$\$ inte lämna ut en allmän handling. Biträdande kommundirektör handling utan
+3-6 §§ inte lämna ut en allmän handling. Biträdande kommundirektör handling utan
 
 Samhällsbyggnadschef förbehåll eller
 Verksamhetschef administration sekretess, lämnas ut
@@ -3115,7 +3115,7 @@ avgörande inte kan avvaktas.
 
 Kommunstyrelsens ordförande
 
-OSL 6 kap 3-4, 6 \$\$
+OSL 6 kap 3-4, 6 §§
 
 Utlämnande av allmän handling med förbehåll eller att
 inte lämna ut en allmän handling.
@@ -3397,7 +3397,7 @@ förhandlingschef
 
 2.3.17
 
-LAS \$ 7
+LAS § 7
 
 Uppsägning på grund av arbetsbrist.
 
@@ -3445,7 +3445,7 @@ Annat
 
 2.3.20
 
-LOA 7c\$8
+LOA 7c§8
 AB 88
 
 Förbud mot bisyssla.
@@ -3593,7 +3593,7 @@ Kungsbacka kommun Delegering av beslutanderätt Kommunstyrelsen 19 (23)
 
 2.4.14 Reglementet Upplåtelse av allmän plats för särskilda ändamål Kommundirektör Nämnden för Teknik
 Samhällsbyggnadschef handlägger yttranden om
-Verksamhetschef Mark & Exploatering | tillstånd enl. OL 3 kap 2 \$
+Verksamhetschef Mark & Exploatering | tillstånd enl. OL 3 kap 2 §
 2.4.15 Reglementet Förvärv av fastighet eller del av fastighet, genom köp, byte, gåva, Arbetsutskott Se bestämmelserna punkt
 fastighetsreglering eller liknande åtgärd, upp till 10 miljoner kr. 1.5
 2.4.16 a) | Reglementet Förvärv av fastighet eller del av fastighet, genom köp, byte, gåva, Kommundirektör Se bestämmelserna punkt
@@ -5909,7 +5909,7 @@ verksamheter, blir hjärtat i Gottskär.
 
 Kommunen har initialt gjort bedömningen att detaljplanen inte kan utesluta betydande
 miljöpåverkan och en miljökonsekvensbeskrivning (Covi 2020-06-02, uppdatering av Afry
-2021-05-04, rev. 2022-02-02) har därför tagits fram enligt 6 kap. 11 \$ miljöbalken. Under
+2021-05-04, rev. 2022-02-02) har därför tagits fram enligt 6 kap. 11 § miljöbalken. Under
 framtagandet av detaljplanen har förutsättningarna ändrats och detaljplanen omfattar inte
 längre en småbåtshamn. Restaurangbyggnadens placering har justerats och innebär inte längre
 någon utbyggnad över vattenområde. Detaljplanens genomförande innebär ingen påverkan på
@@ -6468,7 +6468,7 @@ Antagandehandling 19 (76)
 Detaljplan för bostäder, verksamheter och restaurang inom Skällared 3:55 m fl Datum: 2025-08-12
 
 Mot bakgrund av de befintliga planförhållandena gör kommunen bedömningen att det finns
-särskilda skäl enligt plan- och bygglagen kap 4 \$ 7 att annan än kommunen kan vara
+särskilda skäl enligt plan- och bygglagen kap 4 § 7 att annan än kommunen kan vara
 huvudman för de allmänna platserna även i de nya planerna som upprättas inom de aktuella
 kommundelarna.
 
@@ -7030,7 +7030,7 @@ Avtal mellan exploatören och samfällighetsföreningar
 Exploatören bör träffa ett avtal om inträde i Skällared ga:2 med Gottskär-Dragets
 samfällighetsförening som förvaltar AU Bååths väg, avseende de nya fastigheterna som avses
 bildas. Inträde i gemensamhetsanläggningen löses genom tecknande av överenskommelse om
-andelstal enligt 43 \$ anläggningslagen mellan fastigheternas ägare samt föreningens styrelse.
+andelstal enligt 43 § anläggningslagen mellan fastigheternas ägare samt föreningens styrelse.
 
 Tidplan
 
@@ -7161,7 +7161,7 @@ Skällared ga:2 som förvaltar AU Bååths väg påverkas av genomförandet av d
 de nya fastigheterna inom planområdet kommer att behöva ha del i
 gemensamhetsanläggningen för att säkra utfart till allmän väg (Gottskärsvägen). Inträde i
 gemensamhetsanläggningen löses genom tecknande av överenskommelse om andelstal enligt
-43 \$ anläggningslagen mellan fastigheternas ägare samt föreningens styrelse. I övrigt bedöms
+43 § anläggningslagen mellan fastigheternas ägare samt föreningens styrelse. I övrigt bedöms
 inte Skällared ga:2 att påverkas. Vägen ligger inom allmän plats park inom gällande
 detaljplan och i den nya detaljplanen kommer befintligt vägområde att planläggas för allmän
 plats gata. Det möjliggörs även för mötesfickor utmed AU Bååths väg för att förbättra
@@ -7736,20 +7736,20 @@ Riksintressen
 
 Naturvård
 
-Nästan hela Kungsbackafjorden omfattas av riksintresse för naturvård enligt 3 kap. 6 \$ MB.
+Nästan hela Kungsbackafjorden omfattas av riksintresse för naturvård enligt 3 kap. 6 § MB.
 Dock är en kortare sträcka längs med Kungsbackafjordens västra strand, som omfattar
 Gottskär, inte inkluderad i riksintresse för naturvård. Kungsbackafjorden i stort har dock ett
 stort naturvärde.
 
 Friluftsliv och rörligt friluftsliv
 
-Kungsbackafjorden och Gottskär är riksintressen för friluftsliv (3 kap. 6 \$ MB) och för rörligt
-friluftsliv (4 kap. 2 \$ MB). Områden inom dessa riksintressen har stor betydelse för
+Kungsbackafjorden och Gottskär är riksintressen för friluftsliv (3 kap. 6 § MB) och för rörligt
+friluftsliv (4 kap. 2 § MB). Områden inom dessa riksintressen har stor betydelse för
 människornas utevistelse och för friluftsknutna aktiviteter. Gottskär och Utholmarna är ett
 attraktivt friluftsområde med segling, badplatser och andra friluftsaktiviteter.
 
 Högexploaterad kust
-Hela kustområdet omfattas av riksintresset för högexploaterad kust enligt 4 kap. 4 \$ MB.
+Hela kustområdet omfattas av riksintresset för högexploaterad kust enligt 4 kap. 4 § MB.
 
 Riksintresset innebär att fritidsbebyggelse får komma till stånd enbart i form av komplettering
 till befintlig bebyggelse. Bestämmelserna ska dock inte hindra att tätort- och näringslivet i
@@ -8032,7 +8032,7 @@ Risk för förorenad mark
 Planområdet innehåller inga sedan tidigare kända markföroreningar. Det har tidigare funnits
 en tandläkarmottagning inom området men denna lade ner sin verksamhet 2021. I samband
 med detta utfördes sanering av ledningssystemet. Saneringen föregicks av en anmälan enligt
-28 \$ förordningen om miljöfarlig verksamhet och hälsoskydd.
+28 § förordningen om miljöfarlig verksamhet och hälsoskydd.
 
 För att undersöka föroreningshalterna i sedimenten på havsbotten har sex stycken
 sedimentprov tagits på olika ställen i vattenområdet. Mer om föroreningar i havssedimenten
@@ -9056,8 +9056,8 @@ att åtgärder görs i vattenområdet.
 
 Under byggnadernas och anläggningarnas livslängd är det fastighetsägarens ansvar att dessa
 hålls i vårdat skick och underhålls så att dess utformning och tekniska egenskaper i huvudsak
-bevaras (PBL 8 kap 14 \$). Bärförmåga, stadga, beständighet och säkerhet vid användning är
-tekniska egenskaper som ska bevaras (PBL 8 kap 4 \$). Kommunen bedömning är därför att
+bevaras (PBL 8 kap 14 §). Bärförmåga, stadga, beständighet och säkerhet vid användning är
+tekniska egenskaper som ska bevaras (PBL 8 kap 4 §). Kommunen bedömning är därför att
 den reglering i detaljplanen som berör tekniska egenskaper hos byggnader och anläggningar
 på kort sikt kommer att följas upp i efterföljande prövning av bygglov, startbesked och
 slutbesked samt på lång sikt genom kommunens tillsyn enligt plan- och bygglagen.
@@ -9993,7 +9993,7 @@ Genomförd 4 februari till 25 februari 2025
 
 Under denna granskningstid inkom 18 skrivelser. Inkomna synpunkter berörde bland annat tillåten
 nockhöjd och placering av byggnader. Länsstyrelsen meddelade i sitt yttrande att de, med hänsyn till
-ingripandegrunderna i 11 kap 10 \$ PBL och nu kända förhållanden, inte kommer att pröva ett
+ingripandegrunderna i 11 kap 10 § PBL och nu kända förhållanden, inte kommer att pröva ett
 antagande av en detaljplan enligt förslaget.
 
 Inkomna synpunkter sammanfattades och kommenterades i ett granskningsutlåtande daterat 2025-03-
@@ -11317,7 +11317,7 @@ används på detta sätt.
 
 Genomförande av granskning
 
-Byggnadsnämnden beslöt 2024-08-22 \$ 177 att genomföra granskning av detaljplaneförslaget.
+Byggnadsnämnden beslöt 2024-08-22 § 177 att genomföra granskning av detaljplaneförslaget.
 
 Granskning 24 september till 29 oktober 2024
 En första granskning genomfördes under tiden 24 september till 29 oktober 2024:
@@ -11961,7 +11961,7 @@ Gottskär
 
 Genomförande av granskning 24 september och 29 oktober 2024
 
-Byggnadsnämnden beslöt 2024-08-22 \$ 177 att genomföra granskning av detaljplaneförslaget.
+Byggnadsnämnden beslöt 2024-08-22 § 177 att genomföra granskning av detaljplaneförslaget.
 Detaljplaneförslaget har varit utställt för granskning i Stadshuset i Kungsbacka under tiden 24
 september och 29 oktober 2024.
 
@@ -14542,13 +14542,13 @@ detaljplaneområdet medger byggnadsplanen hotell- och restaurangverksamhet.
 Ett planprogram för Skällared 3:55 godkändes av kommunstyrelsen i oktober 2018.
 Länsstyrelsen lämnade programsamrådsyttrande 17 april 2018, dnr 402-3024-18.
 
-Planområdet omfattas av riksintresse för friluftsliv enligt 3 kap 6 \$ Miljöbalken (MB),
-riksintresse för rörligt friluftsliv enligt 4 kap 1 och 2 \$ MB och högexploaterad kust enligt
-4 kap 4 \$ MB samt riksintresseanspråk Natura 2000 Kungsbackafjorden enligt kap 4 MB.
+Planområdet omfattas av riksintresse för friluftsliv enligt 3 kap 6 § Miljöbalken (MB),
+riksintresse för rörligt friluftsliv enligt 4 kap 1 och 2 § MB och högexploaterad kust enligt
+4 kap 4 § MB samt riksintresseanspråk Natura 2000 Kungsbackafjorden enligt kap 4 MB.
 
 Synpunkter på sådant som kan aktualisera prövning
 
-Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap. 10 \$ plan- och
+Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap. 10 § plan- och
 bygglagen (PBL) och nu kända förhållanden att ändringen av detaljplanen enligt förslaget
 kan komma att prövas.
 
@@ -16985,11 +16985,11 @@ KS/2016:511 8.3
 Beslut
 
 Kommunfullmäktige antar Renhållningsordning för Kungsbacka kommun, med
-en ändring i \$ 26 där ”ska” byts ut till ”bör”.
+en ändring i § 26 där ”ska” byts ut till ”bör”.
 
 Sammanfattning
 
-Enligt 15 kap 11 \$ i Miljöbalken ha alla kommuner ha en renhållningsordning
+Enligt 15 kap 11 § i Miljöbalken ha alla kommuner ha en renhållningsordning
 som innehåller de föreskrifter om hantering av avfall som gäller för kommunen
 samt en avfallsplan som anger mål för avfallshanteringen.
 
@@ -16999,12 +16999,12 @@ kommunstyrelsens arbetsutskott den 8 november och av kommunstyrelsen den
 
 Beslutsunderlag
 
-Kommunstyrelsen, 2016-11-15, \$ 242
+Kommunstyrelsen, 2016-11-15, § 242
 
-Kommunstyrelsens arbetsutskott, 2016-11-08, \$ 291
+Kommunstyrelsens arbetsutskott, 2016-11-08, § 291
 Kommunledningskontorets tjänsteskrivelse, 2016-10-14
 
-Nämnden för Teknik, 2016-09-14 \$ 92
+Nämnden för Teknik, 2016-09-14 § 92
 
 Lokala renhållningsföreskrifter, 2016-09-05
 
@@ -17014,7 +17014,7 @@ Sorteringsbilaga, 2016-07-16
 
 Förvaltningen för Tekniks tjänsteskrivelse, 2016-08-09
 
-Nämnden för Miljö- och hälsoskydd, 2016-05-19, \$ 59
+Nämnden för Miljö- och hälsoskydd, 2016-05-19, § 59
 
 Nämnden för Miljö & Hälsoskydds yttrande, 2016-05-06
 
@@ -17035,18 +17035,18 @@ Anföranden hålls av Monica Neptun (L), Johan Tolinsson (S), Roger Larsson
 (KB), Kristina Karlsson (C) och Fredrik Hansson (C).
 
 Yrkande
-Monica Neptun (L) yrkar att \$ 26 ändras så att ”ska” byts ut till ”bör”.
+Monica Neptun (L) yrkar att § 26 ändras så att ”ska” byts ut till ”bör”.
 Fredrik Hansson (C) yrkar bifall till Monica Neptuns (L) yrkande.
 
 Proposition
 
 Ordförande Per Ödman (M) finner att det finns ett förslag till beslut, det vill säga
-kommunstyrelsens förslag men med ett ändringsyrkande gällande \$ 26.
+kommunstyrelsens förslag men med ett ändringsyrkande gällande § 26.
 Ordföranden redovisar följande propositionsordning, och som
 kommunfullmäktige godkänner:
 
 Ordföranden ställer först Monica Neptuns (L) m.fl. yrkande, som innebär en
-ändring i \$ 26 där ”ska” byts ut till ”bör”, under proposition och finner att
+ändring i § 26 där ”ska” byts ut till ”bör”, under proposition och finner att
 kommunfullmäktige bifaller Monica Neptuns (L) m.fl. yrkande.
 
 Slutligen ställer ordföranden kommunstyrelsens förslag som helhet under

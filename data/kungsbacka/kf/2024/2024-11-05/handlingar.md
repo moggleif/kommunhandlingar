@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2e20b236192bd38de2da5df4/1730451367
 sha256: 9b81df55b223a4ab746677af7c993a866f746db62bdad0dd88c706b5d3824a5a
 bytes: 44822236
 sidor: 196
-hamtad: 2026-10-16T10:55:14+00:00
-konverterad: 2026-10-16T10:57:30+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T10:29:21+00:00
+konverterad: 2026-10-25T10:31:32+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -5158,7 +5158,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 13 (26)
 Sammanträdesdatum
 2007-11-08
-\$ 165 KS06-00157/51
+§ 165 KS06-00157/51
 
 Organisation av färdtjänsten från 2009-01-01
 
@@ -5193,15 +5193,15 @@ Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2007-08-14
 
-Kommunstyrelsens arbetsutskott 2007-08-14, \$ 20 - Ärendet återremitteras för
+Kommunstyrelsens arbetsutskott 2007-08-14, § 20 - Ärendet återremitteras för
 samråd och information med kommunala handikapprådet.
 
-Kommunala handikapprådet 2007-09-24, \$ 20
+Kommunala handikapprådet 2007-09-24, § 20
 
 Kommunstyrelsens förvaltning, reviderad skrivelse 2007-10-03
-Kommunstyrelsens arbetsutskott 2007-10-09, \$ 311
+Kommunstyrelsens arbetsutskott 2007-10-09, § 311
 
-Kommunstyrelsen 2007-10-17, \$ 201
+Kommunstyrelsen 2007-10-17, § 201
 
 Anföranden
 
@@ -5220,7 +5220,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 14 (26)
 Sammanträdesdatum
 2007-11-08
-\$ 165 forts KS06-00157/51
+§ 165 forts KS06-00157/51
 
 Yrkanden
 
@@ -5277,7 +5277,7 @@ Expedierat/bestyrkt
 KUNGSBACKA KOMMUN
 Kommunfullmäktige
 
-\$ 165 forts
+§ 165 forts
 
 Omröstningsbilaga A
 
@@ -5378,7 +5378,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 16 (26)
 Sammanträdesdatum
 2007-11-08
-\$ 165 forts KS06-00157/51
+§ 165 forts KS06-00157/51
 
 Beslutsexpediering
 KSF; CE
@@ -7164,7 +7164,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 6 (16)
 Nämnden för Förskola & Grundskola Datum
 2024-06-12
 
-\$ 62 Dnr FG-2024-00129
+§ 62 Dnr FG-2024-00129
 
 Beredning av motion - Införande av tolkavgift i Kungsbacka kommun
 (KS-2024-00131)
@@ -7206,8 +7206,8 @@ enskilde för att kunna bedriva en effektiv verksamhet. Avgift för tolktjänst 
 Beslutsunderlag
 
 Förvaltningen för Förskola & Grundskola tjänsteskrivelse, 2024-05-20
-Kommunstyrelsens arbetsutskott 2024-02-27 \$ 65
-Kommunfullmäktige 2024-02-06 \$ 21
+Kommunstyrelsens arbetsutskott 2024-02-27 § 65
+Kommunfullmäktige 2024-02-06 § 21
 
 Motion från Stefan Jägnert (SD) 2024-01-30
 

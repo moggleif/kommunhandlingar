@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5db42dbd18df2afdfe2c36d/17095387722
 sha256: 3d3891d7e7bb97670c9dec5749139b61ce02c5034d0685ef6a142db8590517b4
 bytes: 30695835
 sidor: 230
-hamtad: 2026-10-16T10:40:43+00:00
-konverterad: 2026-10-16T10:42:52+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T10:15:15+00:00
+konverterad: 2026-10-25T10:17:36+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok]
@@ -7489,18 +7489,18 @@ STYRELSEMÖTE 2023-12-19
 Vallda TK - Vallda Tennishall E F
 
 Närvarande: Mats Olson, Linus Ask, Kristoffer Grankvist, Christian Weidling.
-\$1 Mötet öppnades
+§1 Mötet öppnades
 
 82 Till sekreterare valdes Linus Ask
 
-\$3 Till justerare valdes Kristoffer Grankvist & Christian Weidling
+§3 Till justerare valdes Kristoffer Grankvist & Christian Weidling
 
-\$4 Amorteringsfrihet för Vallda Tennis & Vallda Tennihall E F.
+§4 Amorteringsfrihet för Vallda Tennis & Vallda Tennihall E F.
 
-\$5 Mötet beslutade att ansöka hos kommunen om en förlängning av
+§5 Mötet beslutade att ansöka hos kommunen om en förlängning av
 amorteringsfrihet för bägge föreningarna.
 
-\$6 Mötet avslutades.
+§6 Mötet avslutades.
 
 Vid protokollet:
 
@@ -8546,7 +8546,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 9 (21)
 Kommuntfullmäktige Datum:
 2014-08-12
 
-\$95
+§95
 Vallda Tennisklubb - kommunal borgen
 
 Dnr KS/2014:86
@@ -8579,10 +8579,10 @@ Beslutsunderlag
 
 Tjänsteskrivelse 2014-05-19
 
-Fritid & Folkhälsa, 2014-02-18, \$ 18
+Fritid & Folkhälsa, 2014-02-18, § 18
 
 Kompletterande uppgifter från Vallda Tennisklubb, daterade 2014-04-27
-Kommunstyrelsen, 2014-06-17, \$ 140
+Kommunstyrelsen, 2014-06-17, § 140
 
 Anförande
 Anförande hålls av Roger Larsson (KB), Per Ödman (M) och Hans Forsberg (M).
@@ -8640,14 +8640,14 @@ ordförande och mark- och bostadschefen eller deras respektive ställföreträda
 för kommunens räkning underteckna borgensåtagande för Vallda Tennishall
 ekonomisk förening avseende 5,415 Mkr. Borgen omfattande 5,925 Mkr beviljades
 ursprungligen Vallda Tennisklubb ekonomisk förening vid kommunfullmäktiges
-sammanträde 1989-10-12, KF \$ 233. Vallda Tennishall ek.för. har sedan 2002-04-17
+sammanträde 1989-10-12, KF § 233. Vallda Tennishall ek.för. har sedan 2002-04-17
 amorterat ytterligare ca 400.000 kronor på krediten, och amorterar på denna kredit
 90.000 kronor per år i enlighet med villkor vid borgensbeslutet.
 
 Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2006-05-17
-Kommunstyrelsens arbetsutskott 2006-05-23, \$ 224
+Kommunstyrelsens arbetsutskott 2006-05-23, § 224
 
 Proposition
 Ordförande ställer proposition på arbetsutskottets förslag och finner det bifallet.
@@ -8714,11 +8714,11 @@ Kommun fullmäktige | 1989-10-12 51
 Kommunstyrelsen 1989-09-27
 Kommunstyrelsens arbetsutskott i 1989-09-05
 
-KF \$ 233
+KF § 233
 
-KS \$ 367
+KS § 367
 
-AU \$ 556 0446/87-4535,
+AU § 556 0446/87-4535,
 
 Uppförande av fritidslokal och idrottshall i Vallda
 jämte framställan från Vallda Tennisklubb om kommu-
@@ -8734,14 +8734,14 @@ till fritidsnämnden för yttrande varvid nämnden främst
 skulle studera samordningsmöjligheten med den tidigare
 planerade idrottshallen i Vallda.
 
-Fritidsnämnden behandlade ärendet 1988-05-17, \$ 66.
+Fritidsnämnden behandlade ärendet 1988-05-17, § 66.
 
 Kommun fullmäktige har i investeringsplan 1989-1991 för
 fritidslokal och idrottshall i Vallda avsatt 4.000.000
 kronor år 1989 och 8.000.000 år 1990.
 
 Kommunstyrelsens arbetsutskott beslutade 1989-01-17,
-\$ 52, att
+§ 52, att
 
 \- uppdra åt fritidsnämnden att ta fram ett full-
 ständigt beslutsunderlag innebärande ett princip-
@@ -8752,7 +8752,7 @@ och drift, samt
 \- kostnaderna rymmes inom av kommunfullmäktige fast-
 ställd ram i budgeten.
 
-Fritidsnämnden beslutade 1989-08-15, \$ 107, bl a att
+Fritidsnämnden beslutade 1989-08-15, § 107, bl a att
 kommun fullmäktige förslås besluta, ;
 
 ”- att godkänna förslag till avtal med Vallda Tennis-
@@ -8775,9 +8775,9 @@ Kommunfullmäktige | 1989-10-12: ch
 Kommunstyrelsen 1989-09-27
 Kommunstyrelsens arbetsutskott 1989=09=05
 
-KF \$ 233 forts
-KS \$ 367 forts
-AU \$ 556 forts " 0446/87-455
+KF § 233 forts
+KS § 367 forts
+AU § 556 forts " 0446/87-455
 
 \- att bemyndiga fritidsnämndens ordförande och
 fritidschefen eller deras respektive ställföre-
@@ -8833,11 +8833,11 @@ Kommun fullmäktige 1989-10-12 53
 Kommunstyrelsen 1989-09-27
 Kommunstyrelsens arbetsutskott 1989=0:9=05
 
-KF \$ 233 forts
+KF § 233 forts
 
-KS \$ 367 forts |
+KS § 367 forts |
 
-AU \$ 556 forts 0446/87-455
+AU § 556 forts 0446/87-455
 
 att kommunens kostnader för idrottshall utöver
 
@@ -8886,9 +8886,9 @@ Kommun fullmäktige
 Kommunstyrelsen
 Kommunstyrelsens arbetsutskott
 
-KF \$ 233 forts
-KS \$ 367 forts
-AU \$ 556 forts
+KF § 233 forts
+KS § 367 forts
+AU § 556 forts
 
 Håkan Cronelid anmäler för Miljöpartiet De Grönas
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6582e5c2191974ffda72ced/17250060834
 sha256: 44576421f94282b9b0df7a358f248a2152f0ab9244b0e17ef294c936fe69444d
 bytes: 45270366
 sidor: 420
-hamtad: 2026-10-16T06:57:06+00:00
-konverterad: 2026-10-16T06:59:29+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-25T06:24:20+00:00
+konverterad: 2026-10-25T06:26:51+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ej-konverterad, ok, ok, ej-konverterad, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, tom, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok]
@@ -4482,7 +4482,7 @@ fågelskyddsområden, 1 februari - 31 juli för fågelskyddsom-
 råden där särskilda skäl motiverar utökad tid och 15 maj -
 10 juli för sälskyddsområden.
 
-Med stöd av 10 och 14 \$\$ naturvårdslagen beslutar länsstyrel-
+Med stöd av 10 och 14 §§ naturvårdslagen beslutar länsstyrel-
 gen att tiden för tillträdesförbudet till skydd för fågel-
 livet ändras till den 1 april —- 15 juli för följande områden:
 
@@ -15675,7 +15675,7 @@ a) Med Es betecknat område får användas endast för
 1 mom Med punktprickning betecknad mark får icke bebyggas.
 
 \| |
-3 \$ — SÄRSKILDA FÖRESKRIFTER ANGÅENDE OMRÅDEN FÖR LEDNINGAR
+3 § — SÄRSKILDA FÖRESKRIFTER ANGÅENDE OMRÅDEN FÖR LEDNINGAR
 1 mom På med u betecknad mark får. icke vidtos anordningar sem
 
 hindrar framdragande eller underhåll av underjordiska
@@ -15688,17 +15688,17 @@ LUK a RER
 
 oa RER Re ne
 
-4\$
+4§
 
 1 mom
 
 2 mom
 
-'5\$ |
+'5§ |
 
 t 1 mom
 
-6\$
+6§
 
 1 mon
 
@@ -15706,7 +15706,7 @@ t 1 mom
 
 CL
 
-7\$
+7§
 
 1 mom
 
@@ -15773,7 +15773,7 @@ antal, där terrängen så medgiver, källare inredas.
 
 <!-- sida 419 -->
 
-8\$
+8§
 
 1 mom
 
@@ -15781,7 +15781,7 @@ antal, där terrängen så medgiver, källare inredas.
 
 1 mom
 
-10 \$
+10 §
 
 1 mom
 
@@ -15826,7 +15826,7 @@ Tillhör kommunfullmäktiges i Kungsbacka
 
 sampanläggningsdere
 
-beslut den 11.10. 1973 enligt \$ 165 och
+beslut den 11.10. 1973 enligt § 165 och
 erales i Kungsbacka
 
 betygar
