@@ -1,0 +1,23 @@
+,Verksamhetstyp: Kärnverksamhet,,,,
+6,Verksamhetsområde: Vård och omsorg,,,,
+6.1,Processgrupp: Hantera inrapporterade händelser och anmälningar,,,,
+6.1.2,Processgrupp: Hantera anmälningar,,,,
+6.1.2.6,"Process: Hantera incidentrapporteringsformulär för leverantörer av samhällsviktiga tjänster till Myndigheten för samhällsskydd och beredskap
+(MSB)
+Beskrivning: Leverantörer av samhällsviktiga tjänster ska rapportera incidenter som orsakar störningar som får betydande inverkan på
+kontinuiteten i den samhällsviktiga tjänsten till Myndigheten för samhällsskydd och beredskap (MSB)",,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Anmäla,"Incidentrapporteringsformulär (skede
+1, 2 och 3)",Ciceron,Digital,Bevaras,"Incidentrapporteringsformuläret
+finns på Myndigheten för
+samhällsskydd och beredskaps
+hemsida."
+Komplettera,"Komplettering till
+incidentrapporteringsformulär",Ciceron,Digital,Bevaras,
+Bekräfta,"Bekräftelse från MSB att ärendet har
+mottagits samt ärendenummer",Ciceron,Digital,Bevaras,
+Bekräfta,"Bekräftelse från IVO om att rapporten
+har mottagits",Ciceron,Digital,Bevaras,
+Planera,Planering,Ciceron,Digital,Bevaras,"Exempel på planering: Akut
+planering och långsiktig
+planering."

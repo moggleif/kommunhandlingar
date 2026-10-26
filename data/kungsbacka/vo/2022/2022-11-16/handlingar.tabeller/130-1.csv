@@ -1,0 +1,19 @@
+Verksamhetstyp:,Verksamhetstyp: Kärnverksamhet,,,,
+6 Verksamhetsområde:,Verksamhetsområde: Vård och omsorg,,,,
+6.1 Processgrupp:,Processgrupp: Hantera inrapporterade händelser och anmälningar,,,,
+6.1.2,Processgrupp: Hantera anmälningar,,,,
+6.1.2.5,"Process: Hantera anmälan Rapportera händelser till Läkemedelsverket
+Beskrivning: Allvarliga negativa händelser och tillbud med medicintekniska produkter ska så snart som möjligt anmälas till både tillverkare och
+Läkemedelsverket.",,,,
+Processnummer:,6.1.2.5,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Anmäla Rapportera,"Anmälan om negativa händelser och
+tillbud med medicintekniska
+produkter","Blanketten finns på
+Läkemedelsverkets hemsida
+och Ciceron",Digital,Bevaras,
+,"Rapportering av misstänkta
+biverkningar av läkemedel",Ciceron,Digital,Bevaras,
+Avsluta,"Brev om avslut gällande rapport om
+olycka/tillbud med medicinteknisk
+produkt",Ciceron,Digital,Bevaras,

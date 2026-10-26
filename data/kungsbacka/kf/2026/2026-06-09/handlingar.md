@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6447748c19e6392323494ad1/1780897314
 sha256: 3ae0994c7efa2886f2cbf9b3bd6d38da7c5bc4bb0b20dc5cfc43e56ceb343778
 bytes: 139819738
 sidor: 634
-hamtad: 2026-10-18T07:02:39+00:00
-konverterad: 2026-10-18T07:09:08+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-10-26T06:30:16+00:00
+konverterad: 2026-10-26T06:39:23+00:00
+pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ocr, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -16528,9 +16528,9 @@ INNEHÅLL
 
 8 1 INLEDNING
 
-\$2 BAKGRUND
+§2 BAKGRUND
 
-\$3 AVTALETS OMFATTNING
+§3 AVTALETS OMFATTNING
 84 ÄGANDE OCH RÄTTIGHETER
 85 KOSTNADER
 
@@ -16538,19 +16538,19 @@ INNEHÅLL
 
 87 BYGGNATION
 
-\$8 GENOMFÖRANDETIDPLAN
-\$9 DOKUMENTATION
+§8 GENOMFÖRANDETIDPLAN
+§9 DOKUMENTATION
 
 810 =. PROJEKTORGANISATION
 811 - SAMORDNINGSANSVAR
-\$12 -. SEKRETESS
+§12 -. SEKRETESS
 
 813 -. FORCE MAJEURE
 
 814 - AVTALETS GILTIGHET
 
 815 - ÄNDRINGAR OCH TILLÄGG
-\$16 «TVIST
+§16 «TVIST
 
 817 -. KONTRAKTSVÄXLING
 
@@ -16705,7 +16705,7 @@ Genomförandeavtal Ledningsflytt Sid 5 (10)
 
 34
 
-\$4.1
+§4.1
 
 84.2
 
@@ -16830,7 +16830,7 @@ Genomförandeavtal Ledningsflytt Sid 7 (10)
 
 87.3
 
-\$8
+§8
 
 89
 
@@ -16840,7 +16840,7 @@ Genomförandeavtal Ledningsflytt Sid 7 (10)
 
 & 10.2
 
-\$10.3
+§10.3
 
 BYGGNATION
 
@@ -16970,7 +16970,7 @@ obestånd.
 I enlighet med 83.5 efter genomförd upphandling.
 
 Skulle Beställaren frånträda Genomförandeavtal Ledningsflytt ska Beställaren ersätta
-Ellevio i enlighet med kostnadsfördelning i \$ 5.2 för samtliga kostnader som Ellevio
+Ellevio i enlighet med kostnadsfördelning i § 5.2 för samtliga kostnader som Ellevio
 åsamkats med anledning av frånträdandet/annulleringen.
 
 För det fall Beställaren säger upp Genomförandeavtal Ledningsflytt, eller önskar att
@@ -17006,7 +17006,7 @@ Genomförandeavtal Ledningsflytt
 
 Sid 10 (10)
 
-\$ 17 KONTRAKTSVÄXLING
+§ 17 KONTRAKTSVÄXLING
 
 Av detta Genomförandeavtal Ledningsflytt är två likalydande originalexemplar upp-
 rättade, undertecknade och utväxlade.
@@ -17611,7 +17611,7 @@ enligt 51 8 (2 kap. 52 8).
 möjligt. En byggnad får uppföras eller en väg byggas endast om markens ägare
 och den som har nyttjanderätt eller servitut avseende marken samtyckt till det eller
 
-nätmyndigheten lämnat tillstånd till åtgärden (2 kap. 55 \$ andra stycket).
+nätmyndigheten lämnat tillstånd till åtgärden (2 kap. 55 § andra stycket).
 
 Om återställningsåtgärder som avses i 51 eller 53 8 orsakar skada eller intrång, ska
 

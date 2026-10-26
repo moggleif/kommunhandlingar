@@ -1,0 +1,30 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+6.0,Processgrupp: Verksamhetsnära ledning,,,,
+6.0.1,Leda,,,,
+6.0.1.6,"Process: Hantera ansvar och ersättning mellan kommuner
+Gäller ansvar och ersättning enligt 2 kap socialtjänstlagen. Den kommun som anser att handläggningen av ett ärende ska flyttas över
+ska sända en skriftlig begäran till den andra kommunen. Om berörda kommuner inte är överens om att flytta över ärendet, eller om den
+andra kommunen inte har svarat skriftligt inom en månad, får den kommun som har begärt överflyttning ansöka om överflyttning hos
+IVO.",,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Överflytta ärende
+mellan kommuner","Begäran om
+överflyttning av
+ärende från annan
+kommun",Ciceron/ Combine,Digital,Bevaras/ 5 år,"Begäran diarieförs på respektive kärnprocess. Om
+kommunen godtar begäran registreras ett ärende i
+Combine där handlingarna rörande brukaren
+registreras. Födda den 5:e, 15:e och 25:e i varje
+månad bevaras. Placerade barn bevaras."
+"Överflytta ärende
+mellan kommuner",Svar om plats,Combine,Digital,5 år/ Bevaras,"Födda den 5:e, 15:e och 25:e i varje månad bevaras.
+Placerade barn bevaras."
+"Överflytta ärende
+mellan kommuner","Ansökan om
+överflyttning av
+ärende",Ciceron,Digital,Bevaras,Till IVO
+"Överflytta ärende
+mellan kommuner","Beslut om
+överflyttning av
+ärende",Ciceron,Digital,Bevaras,Från IVO

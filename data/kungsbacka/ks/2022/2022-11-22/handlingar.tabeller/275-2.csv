@@ -1,0 +1,28 @@
+B 4 Ansökan om planbesked,,
+"Kommunen tar ut en avgift för alla planbesked, även om beskedet är nej till fortsatt planering",,
+Avgiftsnivå utifrån åtgärdens omfattning,Kriterier,Formel
+Enkel åtgärd," Mindre projekt av enklare karaktär;
+ny- eller tillbyggnad av bostadshus
+omfattande högst två lägenheter
+ Ny- eller tillbyggnad av
+verksamheter upp till totalt 250 m²
+bruttoarea eller övriga projekt med
+en markarea om högst 2 000 m²
+ Ändrad markanvändning till något
+av ovanstående.
+ Projektet ligger inom eller i direkt
+anslutning till detaljplanerad
+markanvändning av samma
+karaktär.",200 mPBB
+Medelstor åtgärd,"Projekt som inte uppfyller några kriterier
+för enkel eller stor åtgärd",300 mPBB
+Stor åtgärd," Projekt av större omfattning; mer än
+100 lägenheter
+ Verksamhetsprojekt omfattande
+mer än 5 000 m² bruttoarea eller
+övriga projekt omfattande mer än
+20 000 m² markarea
+ Ändrad markanvändning till något
+av ovanstående.
+ Ärenden som kan antas innebära
+betydande miljöpåverkan.",400 mPBB
