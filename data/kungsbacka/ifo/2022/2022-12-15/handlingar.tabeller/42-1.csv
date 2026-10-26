@@ -1,0 +1,28 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+6.1,Processgrupp: Hantera inrapporterade händelser och anmälningar,,,,
+6.1.2,Hantera anmälningar,,,,
+6.1.2.1,"Process: Hantera anmälningar enligt lex Sarah
+Avser anmälningar, rapporter och utredningar enligt bestämmelser om lex Sarah 14 kap. 2–7 § socialtjänstlagen och 7 kap. 6 §
+socialtjänstlagen.",,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Rapportera,Rapport,Ciceron,Digital,Bevaras,
+Utreda,"Utredning med
+beslut",Ciceron,Digital,Bevaras,
+Anmäla,Anmälan till IVO,Ciceron,Digital,Bevaras,
+Bekräfta,"Bekräftelse från
+IVO om att
+anmälan enligt lex
+Sarah har mottagits",Ciceron,Digital,Bevaras,
+Korrespondera,Korrespondens,Ciceron,Digital,Se anmärkning,"Korrespondens av betydelse diarieförs och bevaras.
+Korrespondens av ringa eller tillfällig betydelse
+gallras vid inaktualitet"
+Besluta,Beslut från IVO,Ciceron,Digital,Bevaras,
+Rapportera,"Rapport enligt lex
+Sarah och anmälan
+enligt lex Sarah",Ciceron,Digital,Bevaras,"Socialt ansvarig samordnare sammanställer både
+rapporterna och anmälningarna enligt lex Sarah i
+Kvalitetsberättelsen"
+Rapportera,"Underrättelse med
+ställningstagande
+från privat utförare",Ciceron,Digital,Bevaras,

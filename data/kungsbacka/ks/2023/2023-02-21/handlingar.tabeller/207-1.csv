@@ -1,0 +1,28 @@
+Storsäck,,,,,,,
+"Storsäck hämtas efter beställning hos leverantör. I grundavgift ingår hämtning av 1-10 storsäckar.
+Behandlingskostnad per storsäck (1m3) samt eventuell analyskostnad och utkörningsavgift
+tillkommer.",Förslag Kba,Aktör 1,Aktör 2,Aktör 3,Aktrör 4,Aktör 5,Aktör 6
+Grundavgift,kr6 850,kr4 800,kr610,kr6 850,kr3 275,kr2 200,kr4 260
+Storsäck 1m3,kr229,kr200,kr72,kr186,kr165,kr229,kr100
+Behandlingskostnad per storsäck (1m3),Förslag Kba,Aktör 1,Aktör 2,Aktör 3,Aktör 4,Aktör 5,Aktör 6
+Återbruk,kr0,kr0,kr0,kr0,kr0,kr0,kr0
+El-avfall,kr1 500,kr0,kr230,kr1 500,,,kr0
+Trä,kr560,kr560,kr416,kr500,,,kr291
+Tryckimpregnerat trä/slipers,kr1 165,kr1 165,,x,,,kr925
+Metall,kr175,kr175,kr150,kr175,,,kr175
+Mineral*,kr2 885,kr2 885,kr499,kr1 680,,,kr2 500
+Planglas,kr1 500,kr450,kr499,kr499,,,kr1 500
+Gips,kr1 000,kr842,kr592,kr1 000,,,kr850
+Plast,kr1 000,kr860,kr400,kr700,,,kr1 000
+Energiåtervinning,kr1 500,kr1 088,kr519,kr650,,,kr1 500
+Kablar (ej farligt avfall),kr1 000,kr500,kr100,kr1 000,,,
+Osorterat/sammansatt bygg- och rivningsavfall**,kr2 000,kr1 115,kr674,kr750,,,kr2 000
+Övrigt bygg- och rivningsavfall,kr2 000,kr1 115,kr674,kr750,,,kr2 000
+"* Som består av sten, tegel, betong, klinker eller keramik
+** Borttransport kan endast bokas om krav på undantag för utsortering uppfylls alt. om dispens kan
+uppvisas.",,,,,,,
+Övriga avgifter,,,,,,,
+Felsorteringsavgift container***,kr4 800,kr4 800,kr425,kr2 500,,,kr1 500
+Felsorteringsavgift storsäck***,kr1 500,kr800,kr212,kr753,,,kr1 500
+"***Om container/storsäck innehåller felsorterat avfall
+klassas avfallet om. Behandlingsavgiften utgår då ifrån omklassningen.",,,,,,,

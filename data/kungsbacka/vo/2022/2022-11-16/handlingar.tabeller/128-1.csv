@@ -1,0 +1,32 @@
+Verksamhetstyp:,Verksamhetstyp: Kärnverksamhet,,,,
+6 Verksamhetsområde:,Verksamhetsområde: Vård och omsorg,,,,
+6.1 Processgrupp:,Processgrupp: Hantera inrapporterade händelser och anmälningar,,,,
+6.1.2,Processgrupp: Hantera anmälningar,,,,
+6.1.2.2 Process:,"Process: Hantera anmälningar enligt lex Maria
+Beskrivning: Anmälningar, rapporter och utredningar enligt bestämmelser om lex Maria 3 kap. 5 § patientsäkerhetslagen (2010:659).",,,,
+Processnummer:,6.1.2.2,,,,
+Aktivitet,Handling,Förvaring,Format,"Bevara/Gallr
+a",Anmärkning
+Utreda,Utredning med beslut,Ciceron DF Respons,Digital,Bevaras 5 år,
+,"Utredning om allvarlig vårdskada
+eller risk för allvarlig vårdskada som
+anmäls till IVO",Ciceron,Digital,Bevaras,
+Anmäla,Anmälan till IVO,Ciceron,Digital,Bevaras,"Tillsammans med andra
+utgående handlingar."
+Bekräfta,"Bekräftelse från IVO om att anmälan
+enligt lex Maria har mottagits",Ciceron,Digital,Bevaras,
+Komplettera,Begäran om komplettering från IVO,Ciceron,Digital,Bevaras,"Tillsammans med utgående
+handlingar till IVO."
+Samtycke,"Samtycke till utlämnande av
+journalhandlingar",Ciceron,Digital,Bevaras,
+Korrespondera,Korrespondens,Ciceron,Digital,Se anmärkning,"Korrespondens av betydelse
+diarieförs och bevaras.
+Korrespondens av ringa eller
+tillfällig betydelse gallras vid
+inaktualitet."
+Besluta,Preliminärt beslut från IVO,Ciceron,Digital,Bevaras,
+Besluta,"Återkoppling av preliminärt beslut
+till IVO",Ciceron,Digital,Bevaras,
+Besluta,Beslut från IVO,Ciceron,Digital,Bevaras,
+Redovisa,Anmälan enligt lex Maria,Ciceron,Digital,Bevaras,"Medicinskt ansvarig
+sjuksköterska sammanställer"

@@ -1,0 +1,33 @@
+Fas,Larmnivå,Kommentar
+"Före ett eventuellt
+utsläpp",RIHAB,"Denna informationsnivå aktiveras om
+hot mot något av säkerhetssystemen på
+Ringhals uppstår (exkluderat fysiska
+barriärer runt anläggningen).
+Händelsen bedöms inte påverka
+anläggningens säkerhet"
+,Förstärkt beredskap,"Motiverar att förebyggande åtgärder
+för allmänheten vidtas och att
+beredskapen för att kunna vidta
+brådskande skyddsåtgärder för
+allmänheten förstärks
+Kriterierna för räddningstjänst är
+uppfyllda"
+,Haverilarm,"Motiverar att brådskande
+skyddsåtgärder för allmänheten vidtas.
+Kriterierna för räddningstjänst är
+uppfyllda"
+"Under pågående
+utsläpp",Haverilarm,"Utsläpp pågår
+Kriterierna för räddningstjänst är
+uppfyllda"
+Efter utsläpp,Haverilarm,"Utsläpp som kräver brådskande
+skyddsåtgärder under utsläppsfasen har
+upphört
+Kriterierna för räddningstjänst är
+uppfyllda"
+,"Förstärkt beredskap
+Haverilarm upphör","Avslut av räddningstjänst och
+övergång till eventuell sanering
+Kriterierna för räddningstjänst är ej
+uppfyllda"

@@ -1,0 +1,29 @@
+Verksamhetstyp:,Verksamhetstyp: Kärnverksamhet,,,,
+Verksamhetsområde,Verksamhetsområde: Vård och omsorg,,,,
+Processgrupp:,Processgrupp: Hantera inrapporterade händelser och anmälningar,,,,
+6.1.1,Processgrupp: Hantera inrapporterade händelser,,,,
+6.1.1.3 Process:,Process: Hantera inrapporterad brist i vårdkedja,,,,
+Processnummer:,6.1.1.3,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Rapportera,"Brev om önskad återkoppling på
+händelserapport Följebrev",Ciceron DF Respons,Digital,5 år,"Följebrev som förvaltningen
+skickar till annan vårdgivare."
+,"Brev om återkoppling på
+händelserapport",Ciceron,Digital,5 år,
+,Händelserapport,DF Respons och Ciceron,Digital,5 år,"Händelserapporten skickas
+exempelvis till sjukhus,
+vårdcentraler och
+Hjälpmedelscentralen.
+Händelserapport som
+förvaltningen skickar till
+annan vårdgivare."
+,Svar på händelserapport,Ciceron och DF Respons,Digital,5 år,"Svar på händelserapport som
+annan vårdgivare skickar till
+förvaltningen."
+Registrera,Brev med önskan om svar,DF Respons,Digital,5 år,"Brev som annan vårdgivare
+skickar till förvaltningen."
+,Avvikelserapport,DF Respons,Digital,5 år,"Avvikelserapport som annan
+vårdgivare skickar till
+förvaltningen."
+Utreda,Svar på avvikelserapport,DF Respons,Digital,5 år,"Svar som förvaltningen
+skickar till annan vårdgivare."

@@ -1,0 +1,31 @@
+Verksamhetstyp:,Verksamhetstyp: Kärnverksamhet,,,,
+6 Verksamhetsområde:,Verksamhetsområde: Vård och omsorg,,,,
+6.1 Processgrupp:,Processgrupp: Hantera inrapporterade händelser och anmälningar,,,,
+6.1.2,Processgrupp: Hantera anmälningar,,,,
+6.1.2.7 Process:,"Process: Hantera övriga inkomna anmälningar, myndighet synpunkter och klagomål från myndigheter
+Beskrivning: Inkomna anmälningar om klagomål från Inspektionen för vård och omsorg (IVO), inkomna anmälningar samt begäran om yttranden
+från Patientnämnden, rapport om brist i vårdkedja från annan vårdgivare såsom vårdcentral och sjukhus vid Region Halland",,,,
+Processnummer:,6.1.2.7,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Begära Registrera,"Underrättelse och Bbegäran om
+handlingar och uppgifter från IVO",Ciceron,Digital,Bevaras,
+Besvara,Yttrande,Ciceron,Digital,Bevaras,
+Inhämta synpunkter,"Möjlighet att lämna förslag till beslut
+från IVO",Ciceron,Digital,Bevaras,
+Inhämta synpunkter,Förslag till beslut från IVO,Ciceron,Digital,Bevaras,
+Besluta,Beslut från IVO,Ciceron,Digital,Bevaras,
+Begära,"Begäran om yttrande från
+Patientnämnden",Ciceron,Digital,Bevaras,
+Anmäla,Anmälan,Ciceron,Digital,Bevaras,
+Besvara,"Svar till patient och Patientnämndens
+kansli",Ciceron,Digital,Bevaras,
+Begära,"Brev om önskad återkoppling på
+avvikelserapport från Region Halland",Ciceron,Digital,Bevaras,
+Rapport,Händelserapport,Ciceron och DF Respons,Digital,Bevaras,"Utredning av brist i
+vårdkedja sker i DF Respons."
+Besvara,Svar på händelserapport,Ciceron,Digital,Bevaras,
+Korrespondera,Korrespondens,Ciceron,Digital,Se anmärkning,"Korrespondens av betydelse
+diarieförs och bevaras.
+Korrespondens av ringa eller
+tillfällig betydelse gallras vid
+inaktualitet."

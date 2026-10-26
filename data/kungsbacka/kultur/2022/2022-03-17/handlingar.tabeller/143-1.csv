@@ -1,0 +1,22 @@
+Verksamhetstyp:,Ledning av kommunal myndighet,,,,
+Verksamhetsområde:,Ledning,,,,
+Processgrupp:,Kommunstyrelse och nämnd,,,,
+Process:,Hantera nämndprocess,,,,
+Processnummer:,1.1.2.1,,,,
+,,,,,
+"Kalla till
+sammanträde",Kallelse,Diarium,Digitalt,2 år,
+"Kalla till
+sammanträde",Beslutsunderlag,Diarium,Digitalt,Se anmärkning,"Beslutsunderlag hanteras enligt separat process för
+ärendehantering. Huvudregel är att de registreras i
+diarium."
+Hålla sammanträde,Närvarolista,Diarium,Digitalt,Bevaras,Bevaras som en del av protokollet.
+Hålla sammanträde,Dagordning,Diarium,Digitalt,2 år,
+Hålla sammanträde,Omröstningslista,Diarium,Digitalt,Bevaras,Bevaras som en del av protokollet.
+"Besluta och
+expediera",Protokoll,Diarium,Digitalt,Bevaras,
+"Besluta och
+expediera",Protokollsutdrag,Diarium,Digitalt,Bevaras,
+"Besluta och
+expediera",Anslagsbevis,Diarium,Digitalt,Bevaras,"Bevaras som ett övergripande
+sammanträdesdokument i systemet."

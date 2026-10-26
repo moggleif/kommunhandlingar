@@ -1,0 +1,71 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,Ekonomi,,,,
+Processgrupp:,Redovisning,,,,
+Process:,Fakturera kunder,,,,
+Processnummer:,2.4.1.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Fakturera kunder,"Fakturafiler från
+verksamhetssystem till
+Raindance",Se anm.,Digital,7 år,"Avser textfil. Arkiveras hos respektive
+förvaltning i sju år."
+,Kundfakturaunderlag,"Närarkiv hos
+respektive
+förvaltning",Papper,7 år,"Manuella kundfakturor registreras i
+kundreskontran i Raindance."
+,Krediteringar,"Närarkiv
+Vägmästaren",Papper,7 år,"Kreditering görs efter att KLK Ekonomi
+erhållit ett attesterat underlag av faktura i
+Raindance eller Future.
+I fall där underlag skickas digitalt till KLK ska
+originalet arkiveras hos respektive förvaltning."
+,Fakturerade kundfakturor,Se anm.,Digitalt,7 år,"Raindance: I systemet, samt på
+P:\DFiles\Utskriftslev_RD
+Future: I systemet, samt på P:\EDP Future
+Filer\Fakturafil"
+"Motta Inbetalningar
+från kundfakturor","BG-Max fil med
+inbetalningar kundfakturor",Se anm.,Digitalt,7 år,"Inbetalning registreras dagligen i Raindance,
+Future och Inkasso Direkt. Inbetalningsfiler
+från bankgiro och autogiro sparas för:
+Raindance: P:\DFiles\Bg\Old
+Inkasso Direkt:
+P:\InkassoDirekt\BGMax\Backup"
+,,,,,"Future: P:\EDP Future Filer\BGFiler\Inlästa
+och P:\EDP Future Filer\AGFiler\BG
+autogiro\Inlästa"
+,"Sammanställning samt
+fellista BG-Max
+inbetalningar kundfakturor","Närarkiv
+Vägmästaren",Papper,7år,"Bokföringsunderlagen arkiveras med
+kassaverifikationerna"
+,Inbetalningsjournal,Se anm.,Digitalt,7 år,P:\DFiles\Arkiv\KR
+Hantera kravhantering,Betalningspåminnelser,Se anm.,Digitalt,2 år,"Raindance:
+P:\DFiles\Arkiv\KR\Betalningspåminnelser
+Future: P:\EDP Future Filer\Kravfil och lista
+på utskrivna krav under P:\EDP Future
+Filer\ARKIV\Påminnelser"
+,Inkassokrav,Se anm.,Digitalt,7 år,"Raindance: P:\DFiles\Arkiv\KR\Inkassokrav
+Future: P:\EDP Future
+Filer\ARKIV\Inkassokrav"
+,"Betalningsföreläggande
+betalda","Närarkiv
+Vägmästaren",Papper,7 år,"Betalning registreras i Inkassodirekt som
+avslutas under 2021."
+,"Avskrivningar,
+kundfakturor","Närarkiv,
+Vägmästaren",Papper,7 år,"Avskrivning utförs i Raindance och Future.
+Fordran skrivs av i bokföringen och skulden
+registreras hos efterbevakningsföretaget.
+Vid avskrivning gentemot gäldenär registreras
+fordran inte hos efterbevakningsföretaget."
+Hantera autogiro,"Medgivande/avanmälningar
+från BGC","Närarkiv,
+Vägmästaren",Papper,"Gallras vid
+inaktualitet","Ansökning/avanmälan inkommer via
+Internetbanken, Autogiro Online eller via
+blankett. Ansökningarna som sker digitalt
+skrivs ut och arkiveras i närarkiv."
+Hantera E-faktura,"Anmälan/avanmälan e-
+faktura kundreskontran",Se anm.,Digitalt,"Gallras vid
+inaktualitet","Anmälan/avanmälan läses in digitalt i
+Raindance och Future."
