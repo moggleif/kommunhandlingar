@@ -1,0 +1,54 @@
+"Verksamhetstyp: Ge verksamhetsstöd
+Verksamhetsområde: Inköp",,,,
+"Processgrupp: _Jnköp
+Process: Hantera upphandling över tröskelvärde",,,,
+Processnummer: 2.5.1.1,,,,
+Aktivitet,Handling,Förvaring,Format Bevara/Gallra,Anmärkning
+"Förbereda och
+initiera
+11pphm1dli11gsäre11de","Inköpsgrundande handling t.ex.
+anskaffningsbeslut,
+investeringsbeslut","Ciceron
+avtalsdatabas",Digitalt Bevaras,"I de fall särskilt beslut från nämnd tas.
+diarieförs detta och expedieras till Service
+Inköp, Upphandling. I andra fall avgör
+volymerna om upphandling ska
+genomföras."
+Annonsera,Annons i databas,"Ciceron
+avtalsdatabas",Digitalt Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+,"Anbudsförfrågan
+Infordran/inbjudan","Ciceron
+avtalsdatabas
+Ciceron
+avtalsdatabas","Digitalt Bevaras
+Digitalt Bevaras","Innehåller administrativa föreskrifter.
+Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende
+Administreras i Tendsign, överförs till
+Ciceron av1alsdatabas efter avslutat
+ärende"
+,"Kravspecifikation
+A vtalsvillkor","Ciceron
+avtalsdatabas
+Ciceron
+avtalsdatabas","Digitalt Bevaras
+Digitalt Bevaras","Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende
+Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+,"Lista
+uppbandlingsdokumentsbämtare","Ciceron
+avtalsdatabas",Digitalt Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslmat
+ärende"
+"Ge110111föra
+11pphm1dli11g","Frågor från anbudsgivare och svar,
+under annonseringstiden","Ciceron
+avtalsdatabas",Digitalt Bevaras,"När frågorna blir av betydelse för
+upphandlingen går det ut ett
+fönydli1wnde, meddelande till alla"

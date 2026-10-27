@@ -6,7 +6,7 @@ lopnr: null
 typ: protokoll
 namn: null
 kallnyckel: sitevision:18.72941e9317f452787b6c079
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/protokoll/2021/protokoll.20220119.pdf]
 arenden: null
 kalla_url: https://web.archive.org/web/20220702163912id_/https://kungsbacka.se/download/18.72941e9317f452787b6c079/1646405046965/N%C3%A4mnden%20f%C3%B6r%20Gymnasium%20&%20Arbetsmarknad%20protokoll%202022-01-19.pdf
 sha256: 8499a044e22dc042be3d846de9d5aed208d31859b6adc3e00d2dd0ddf04ed4da
