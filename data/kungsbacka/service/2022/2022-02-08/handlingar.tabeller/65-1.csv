@@ -1,0 +1,87 @@
+Projekt nr,Projektnamn,"Projekt
+typ",Nämnd,Bokslut 2021,,,"Orsak till bokslut och budgetavvikelse 2021 samt Nämndens
+begäran om ombudgetering m m",,,,,För varje projekt anges motivering och förslag till åtgärd vid avvikelse för avslutade projekt
+,,,,Årsbudget,Utfall,Avvikelse,"Avslutad
+e projekt
+Ja/Nej","Resultat
+avslutade
+projekt","Typ 4 -
+Pågående ej
+avslutade
+projekt
+Ombudgeteras
+till 2022","Typ 4 -
+Pågående ej
+avslutade projekt
+Ombudgeteras
+till 2023","Kontrollsumma
+mot
+bokslutsavvikel
+se",
+A,B,C,,,D,E=D-C,K,L,M,N,O=L+M+N-E,P
+projekt 650,Löpande investeringar,1,63,-5 538,-5 538,0,Ja,0,,,0,-
+proled 630,Reinvesteringar,5,63,-46 877,-41 416,5 461,Nej,,5 461,,0,Ombudgeterar budgetbehov för redan startade projekt.
+"proled 630, 6685",Besiktningskostnader avslutade projek,t2,63,-1 250,-791,459,Nej,,459,,0,Ombudgeterar avvikelse för behov för kommnade åtgärder.
+proled 622,Verksamhetsanpassningar,2,63,-5 000,-4 968,32,Ja,32,,,0,Återredovisar avvikelse.
+6900,Ålvsåkerskolans matsal anpas b,2,63,-2 000,-12,1 988,Nej,,1 988,,0,"Projektet är pågående, ombudgetera avvikelse."
+6959,Fjärås Ny skola,2,63,-6 486,-5 254,1 232,Ja,707,525,,0,"Projektet är avslutat. 0,2 % av projektbudget ombudgeteras till 6685 (besiktningskostnader). Resterande avvikelse återlämnas."
+6976,Kungsbacka badhus,2,63,-1 220,-774,446,Ja,,446,,0,"Projektet är avslutat. Utrymme (0,1 % av projektbudget) ombudgeteras till 6685 (besiktningskostnader). 2020 återlämnades 29 784 tkr."
+6980,Åsaskolan matsal,2,63,-3 074,0,3 074,Nej,,3 074,,0,"Projektet är pågående, ombudgetera avvikelse."
+6984,Nordhallands ridklubb - LP,2,63,-1 444,918,2 362,Nej,,2 362,,0,"Projektet är pågående, ombudgetera avvikelse."
+6999,Adm lokaler omby Stadshus,2,63,0,-357,-357,Ja,-357,,,0,"Projektet är avslutat, återredovisa avvikelse. 2020 återlämnades ett överskott om 1 402 tkr."
+7962,Sommarlust fsk ombygg. 204,2,63,-21 216,-16 147,5 069,Nej,,5 069,,0,"Projektet är pågående, ombudgetera avvikelse."
+7967,Björkris vård-oms.boende b 803,2,63,0,-15,-15,Nej,,-15,,0,"Projektet är pågående, ombudgetera avvikelse."
+7971,Särö äldreboende (806) bygg,2,63,-950,-127,823,Ja,823,,,0,"Projektet är avslutat, återredovisa avvikelse."
+7982,Hålabäcksskolan ombyggnation,2,63,-1 200,-124,1 076,Nej,,1 076,,0,"Projektet är pågående, ombudgetera avvikelse."
+7993,Åsa Gård sk utb idrottshall108,2,63,-1 678,-1 802,-124,Ja,-124,,,0,"Projektet är avslutat, återredovisa avvikelse. 2020 återlämnades ett överskott om 1 145 tkr."
+7994,Frillesåsskolan om och tillbyg,2,63,-69 248,-55 453,13 795,Nej,,13 795,,0,"Projektet är pågående, ombudgetera avvikelse."
+8909,Parkeringshus Linden,2,63,-35 219,-33 309,1 910,Nej,,1 910,,0,"Projektet är pågående, ombudgetera avvikelse."
+8911,Varlaskolan ny-och tillbyggnad,2,63,-167 174,-113 279,53 895,Nej,,53 895,,0,"Projektet är pågående, ombudgetera avvikelse."
+8921,Iseråsskolan omb Sörgård. 322,2,63,0,-4,-4,Ja,-4,,,0,"Projektet är avslutat, återredovisa avvikelse. 2019 återlämnades ett överskott om 401 tkr."
+8923,Kyvik hvb anpassning 506,2,63,-440,-573,-133,Ja,-133,,,0,"Projektet är avslutat, återredovisa avvikelse."
+8924,Prel Anpass Fyrel (turistb),2,63,0,-2,-2,Ja,-2,,,0,"Projektet är avslutat, återredovisa avvikelse. 2020 återlämnades ett överskott om 415 tkr."
+8926,Fjärås fritidsc. utbyggnad 114,2,63,-10 281,-1 148,9 133,Nej,,9 133,,0,"Projektet är pågående, ombudgetera avvikelse."
+8928,Smedingeskolan omby. bygg 305b,2,63,0,34,34,Ja,34,,,0,"Projektet är avslutat, återredovisa avvikelse."
+8940,Idrottshallar bygg 133,2,63,-3 050,-3 284,-234,Ja,-234,,,0,"Projektet är avslutat, återredovisa avvikelse."
+8944,Vallda BMSS,2,63,-31 985,-3 096,28 889,Nej,,28 889,,0,"Projektet är pågående, ombudgetera avvikelse."
+8949,Björkris kök anp (tillf m),2,63,-1 876,-2 894,-1 018,Ja,-1 018,,,0,"Projektet är avslutat, återredovisa avvikelse."
+8951,Myndig.krav pav Elof L,2,63,-3 477,-1,3 476,Nej,,3 476,,0,"Projektet är pågående, ombudgetera avvikelse."
+8952,Mynd krav pav. Presse,2,63,-1 613,-296,1 317,Nej,,1 317,,0,"Projektet är pågående, ombudgetera avvikelse."
+8953,Mynkrav pav Malevikskolan,2,63,-1 920,-292,1 628,Nej,,1 628,,0,"Projektet är pågående, ombudgetera avvikelse."
+8954,Myn krav pav gaKullaviksskolan,2,63,-1 189,-1,1 188,Nej,,1 188,,0,"Projektet är pågående, ombudgetera avvikelse."
+8955,Mariedals fsk anpassning myndi,2,63,-989,-36,953,Ja,953,,,0,"Projektet är avslutat, återredovisa avvikelse."
+8957,Gällinge förskola bygg 221,2,63,-27 379,-6 014,21 365,Nej,,21 365,,0,"Projektet är pågående, ombudgetera avvikelse."
+8959,Kolla BMSS bygg 415,2,63,-500,-7,493,Nej,,493,,0,"Projektet är pågående, ombudgetera avvikelse."
+8961,Skårbyskolan,2,63,-133 659,-4 850,128 809,Nej,,128 809,,0,"Projektet är pågående, ombudgetera avvikelse."
+8963,Björkris idrottshall bygg,2,63,28,28,-0,Ja,,,,0,"Projektet är avslutat, återredovisa avvikelse."
+8965,Tingbergsskolans kök nr 330 by,2,63,-5 393,-1 547,3 846,Nej,,3 846,,0,"Projektet är pågående, ombudgetera avvikelse."
+8967,Klockaregårdens förskola,2,63,-8 000,-2 045,5 955,Nej,,5 955,,0,"Projektet är pågående, ombudgetera avvikelse."
+8969,Åsa adm lokal (fd Åsa hvb 1202,2,63,-8 696,-6 117,2 579,Nej,,2 579,,0,"Projektet är pågående, ombudgetera avvikelse."
+8971,Elektronen perem. lösnin Fyren,2,63,-2 000,-2 261,-261,Ja,-261,,,0,"Projektet är avslutat, återredovisa avvikelse."
+8972,Omlastningscentral Duvehed,2,63,0,-1 457,-1 457,Nej,,-1 457,,0,"Projektet är pågående, ombudgetera avvikelse."
+8974,Åsaskolan matsal 333 bygg,2,63,-4 200,-100,4 100,Nej,,4 100,,0,"Projektet är pågående, ombudgetera avvikelse."
+8976,Smedinge bygg hubb2 och 3,2,63,-5 162,-4 811,351,Ja,351,,,0,"Projektet är avslutat, återredovisa avvikelse."
+8978,Åsa förskola 235,2,63,0,-100,-100,Nej,,-100,,0,"Projektet är pågående, ombudgetera avvikelse."
+8979,Anneberg bygg vob bmss fsk,2,63,0,-259,-259,Nej,,-259,,0,"Projektet är pågående, ombudgetera avvikelse."
+8984,Nordhallands ridklubb Stall,2,63,0,-13,-13,Nej,,-13,,0,"Projektet är pågående, ombudgetera avvikelse."
+8985,Åsa camping toalett 1504,2,63,0,-2,-2,Nej,,-2,,0,"Projektet är pågående, ombudgetera avvikelse."
+8986,Kapareskolan kök ombyg.by 1500,2,63,0,-42,-42,Nej,,-42,,0,"Projektet är pågående, ombudgetera avvikelse."
+8988,Fjordskolans mot.kök bygg 1501,2,63,0,-48,-48,Nej,,-48,,0,"Projektet är pågående, ombudgetera avvikelse."
+8989,Gårda brygga toalettbyg.1505,2,63,0,-4,-4,Nej,,-4,,0,"Projektet är pågående, ombudgetera avvikelse."
+8996,Åsa skolans klassrum fr ti byg,2,63,-1 400,-9,1 391,Nej,,1 391,,0,"Projektet är pågående, ombudgetera avvikelse."
+9640,Nordhallands ridklubb - UH,2,63,0,-186,-186,Ja,-186,,,0,"Projektet är avslutat, återredovisa avvikelse."
+6901,Älvsåkerskolan matsal anp inre,3,63,-120,0,120,Nej,,120,,0,"Projektet är pågående, ombudgetera avvikelse."
+6977,Badhus inredning,3,63,-740,-126,614,Nej,,614,,0,"Projektet är pågående, ombudgetera avvikelse."
+6995,"Ny skola Furulid, inredning",3,63,-251,-110,141,Nej,,141,,0,"Projektet är pågående, ombudgetera avvikelse."
+7942,Fjärås nya skola inredning,3,63,-1 188,-931,257,Nej,,257,,0,"Projektet är pågående, ombudgetera avvikelse."
+7963,Sommarlust fsk inred 204,3,63,-3 227,-2 912,315,Nej,,315,,0,"Projektet är pågående, ombudgetera avvikelse."
+7964,Adm lokaler inredning,3,63,-2 101,-902,1 199,Nej,1 009,190,,0,"Projektet är pågående, ombudgetera 190 tkr. Resterande utrymme återredovisas."
+7968,Björkris vård-oms inred 803,3,63,2,-12,-14,Nej,,-14,,0,"Projektet är pågående, ombudgetera avvikelse."
+7972,Särö äldreboende (806) inredni,3,63,-4 532,-2 825,1 707,Nej,,1 707,,0,"Projektet är pågående, ombudgetera avvikelse."
+7983,Hålabäcksskolan ombygg. inredn,3,63,-639,-445,194,Nej,,194,,0,"Projektet är pågående, ombudgetera avvikelse."
+7997,Klockaregården 2 tillf pav inv,3,63,-368,-200,168,Ja,168,,,0,"Projektet är avslutat, återredovisa avvikelse."
+8912,Varlaskolan tillbygg. 324 inre,3,63,-10 467,-206,10 261,Nej,,10 261,,0,"Projektet är pågående, ombudgetera avvikelse."
+8920,Åsa Gård utb idrott inred 108,3,63,-84,-121,-37,Ja,-37,,,0,"Projektet är avslutat, återredovisa avvikelse."
+8927,Fjärås fritidsc. utbyg bib inr,3,63,-200,0,200,Nej,,200,,0,"Projektet är pågående, ombudgetera avvikelse."
+8929,Smedingeskolan omby.inred 305b,3,63,-943,0,943,Nej,,943,,0,"Projektet är pågående, ombudgetera avvikelse."
+8939,Frillesås ny omb 310 inred,3,63,-6 600,-5 029,1 571,Nej,,1 571,,0,"Projektet är pågående, ombudgetera avvikelse."

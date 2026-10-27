@@ -6,7 +6,7 @@ lopnr: null
 typ: handlingar
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/handlingar/2022/kommunstyrelsens-arbetsutskott-handlingar-2022-03-01.pdf
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.533f690b17f7294399b142e4]
 arenden: null
 kalla_url: https://web.archive.org/web/20220319201040id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/handlingar/2022/kommunstyrelsens-arbetsutskott-handlingar-2022-03-01.pdf
 sha256: 493d85008266f1c99e71a1145a2c1b44bd93c3b510b385b981658c55aae031e9

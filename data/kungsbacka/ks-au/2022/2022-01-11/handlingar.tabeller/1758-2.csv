@@ -1,0 +1,16 @@
+"Decimal
+Enhet
+Värde
+SI","Binär
+Enhet
+Värde
+IE8000-13 JEDEC",
+1 B byte,1 B byte,B byte
+1000 kB kilobyte,1024 KiB kibibyte,KB kilobyte
+10002 MB megabyte,10242 MiB mebibyte,MB megabyte
+10003 GB gigabyte,10243 GiB gibibyte,GB gigabyte
+10004 TB terabyte,10244 TiB tebibyte,
+10005 PB petabyte,10245 PiB pebibyte,
+10006 EB exabyte,10246 EiB exbibyte,
+10007 ZB zettabyte,10247 ZiB zebibyte,
+10008 YB yottabyte,10248 YiB yobibyte,

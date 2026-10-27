@@ -1,0 +1,26 @@
+"Ge verksamhetsstöd
+Systemförvaltning och arkitektur",,
+"�ntera systemförvaltning -
+Administrera systemförvaltning
+� 2.2.1 .1 -
+Handling Förvaring Format Bevara/Gallra Anmärkning",,
+"Användarkonto i Active Directo1y
+användardatabas",Digitalt Se anm.,"Automatisk gallring 3 månader efter avslutad
+anställning, förntsatt att uppgifterna inte har
+betydelse för tolkning av händelseloggar i anslutna
+svs tem som ska bevaras under längre tid."
+Behörighetsgrnpper Active Directory,Digitalt Vid inaktualitet,
+"VPN-konton Active Directoty
+(inloggning utifrån)",Digitalt Vid inaktualitet,
+"Loggar över Active Directory
+lösenordsbyte i
+AD-katalogen",Digitalt Se anm.,"Lösenordsbytet är tvingat och sker var 180:e dag.
+Loggning av senaste lösenordsbytet sparas.
+Automatisk gallring 3 månader efter avslutad
+anställnin!l.."
+"Loggar över in- Active Directory
+och utloggning i
+AD","Digitalt Volymstyrd
+gallring",
+"Profilinfonnation, I aktuell server
+Remote Desktop",Digitalt Vid inaktualitet,

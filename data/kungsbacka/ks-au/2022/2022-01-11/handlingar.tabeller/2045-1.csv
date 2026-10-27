@@ -1,0 +1,10 @@
+Delområde,Områdets avgränsning,Portryck
+A,Från åbotten till djupet 1 m i leran,Hydrostatiskt från LLW
+B,"Mellan gyttjelagrets överkant och
+underkant.","Hydrostatiskt från ök Gy
+alt. LLW (högsta värdet)"
+C,"Mellan 1 m under åbotten till nivå
+-7.","Ök: hydrostatiskt från ök Gy
+alt. LLW (högsta värdet)
+Uk: hydrostatiskt från MW"
+D,Nivåer lägre än -7.,Hydrostatiskt från MW

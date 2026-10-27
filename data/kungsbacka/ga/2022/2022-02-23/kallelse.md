@@ -6,7 +6,7 @@ lopnr: null
 typ: kallelse
 namn: null
 kallnyckel: sitevision:18.72941e9317f452787b6c0f3
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/dagordningar/2021/kallelse-220223.pdf]
 arenden: null
 kalla_url: https://web.archive.org/web/20220702172313id_/https://kungsbacka.se/download/18.72941e9317f452787b6c0f3/1646405066906/N%C3%A4mnden%20f%C3%B6r%20Gymnasium%20&%20Arbetsmarknad%20kallelse%202022-02-23.pdf
 sha256: 7326788a0611c6401bcfd2f2cc119675a58bb23bc2b03ae15b7b1314b4b459d3

@@ -1,0 +1,79 @@
+"Spec
+Ansv/vks/proj",Driftredovisning/ Projektnamn,Bokslut 2021,,,Orsak samt nämndens begäran om resultatdisponering till bokslut o budgetavvikelse 2021,,,,,,,,"Motivering (för varje projekt anges motivering). För typ 3 begäran om överföring till resultatfond lämnas särskild redovisning av prestationsmått eller andra
+utvärderingskriterier som visar att överskottet uppstått genom egna effektiviseringar."
+,,,,,Överskott,,,,Summering - nämndens förslag till beslut,,,,
+,,Årsbudget,Utfall,Avvikelse,"Typ 1 - ej
+utförverksamh
+et
+återredovisas","Typ 2 -
+versamhet till
+annan nämnd
+återredovisas","Typ 3 - egna
+effektiviseringa
+r
+till
+resultatfond","Typ 4 -
+Pågående ej
+avslutade
+projekt
+Ombudgetera
+s","Summa till
+resultatfond","Summa att
+ombudgetera","Summa att
+återredovisa","Kontrollsum
+ma mot
+bokslutsavvik
+else. BÖR
+SLUTA MED
+""0"" I SUMMAN",
+A,B,C,D,E=D-C,H,I,J,K,L=G+J,M=F+K,N=H+I O,=F+G+H+I+J+K-E,
+Fastigheter resultat,,-22 556,-18 125,4 432,,,,,0,0,0,-4 432,
+Projekt 1649,Lokalplan upphandlingskostn,0,-27,-27,-27,,,,0,0,-27,0,"Finansiering i Lokalplan, men då ingen specifik budget finns, lyfts avvikelse till resultatdisposition."
+Projekt 2631,Särö äldreboende 806,-432,-126,306,306,,,,0,0,306,0,Avslutat lokalplansprojekt. Avvikelse återredovisas.
+Projekt 2642,Hålabäck evakueringspaviljonge,0,-8,-8,-8,,,,0,0,-8,0,Avslutat lokalplansprojekt. Avvikelse återredovisas.
+Projekt 2645,Inhyrning av idrottshallar,0,-237,-237,-237,,,,0,0,-237,0,Avslutat lokalplansprojekt. Avvikelse återredovisas. Avvikelse ska ses tillsammans med projekt 2653.
+Projekt 2651,Saneringsarbete Hålabäckskolan,0,-7,-7,-7,,,,0,0,-7,0,Pågående lokalplansprojekt. Tillkommer kostnader 2022.
+Projekt 2652,Saneringsarbete Sommarlustskol,0,-167,-167,-167,,,,0,0,-167,0,Pågående lokalplansprojekt. Tillkommer kostnader 2022.
+Projekt 2653,"Avveckling bef sim, A & B-hall",-477,-311,166,166,,,,0,0,166,0,Avslutat lokalplansprojekt. Avvikelse återredovisas. Avvikelse ska ses tillsammans med projekt 2645.
+Projekt 2660,Kolla BMSS projektledartid,-432,-64,368,,168,,200,0,200,168,-0,Pågående lokalplansprojekt. Tillkommer kostnader 2022. Resterande utrymme återredovisas.
+Projekt 2661,Åsa Gårdsskolans pavilj flytt,0,-32,-32,-32,,,,0,0,-32,0,Avslutat lokalplansprojekt. Avvikelse återredovisas.
+Projekt 2662,Särö vård- och omsorgsbo flytt,-538,-355,183,183,,,,0,0,183,0,Avslutat lokalplansprojekt. Avvikelse återredovisas.
+Projekt 2663,Grunden förskola rivning,-1 321,-1 397,-76,-76,,,,0,0,-76,0,Avslutat lokalplansprojekt. Avvikelse återredovisas.
+Projekt 2664,Kyvik korttidsboende flytt,-186,-154,32,32,,,,0,0,32,0,Avslutat lokalplansprojekt. Avvikelse återredovisas.
+Projekt 2666,Björkris vob projektledartid,0,-105,-105,,,,-105,0,-105,0,0,Pågående lokalplansprojekt. Tillkommer kostnader 2022.
+Projekt 2667,Elektronen flytt till Fyren,-120,-135,-15,,,,-15,0,-15,0,0,Pågående lokalplansprojekt. Tillkommer kostnader 2022.
+Projekt 2668,Norra Bräckaskolan pav avveckl,-2 100,-1 779,321,321,,,,0,0,321,0,Avslutat lokalplansprojekt. Avvikelse återredovisas.
+Projekt 2669,Frillesåsskolan omflytt,-1 000,-645,355,,,,355,0,355,0,0,Pågående lokalplansprojekt. Tillkommer kostnader 2022.
+Projekt 2671,Sommarlustskolan flytt,-255,-191,64,64,,,,0,0,64,0,Avslutat lokalplansprojekt. Avvikelse återredovisas.
+Projekt 2672,Frillesåsskolan pav avveckling,-3 570,-3 404,166,,,,166,0,166,0,0,Pågående lokalplansprojekt. Tillkommer kostnader 2022.
+Projekt 2673,Flytt Åsa hemtjänst,-160,-39,121,,,,121,0,121,0,0,Pågående lokalplansprojekt. Tillkommer kostnader 2022.
+Projekt 2674,Flytt fackliga förbund Marios,0,-15,-15,-15,,,,0,0,-15,0,Avslutat lokalplansprojekt. Avvikelse återredovisas.
+Projekt 2676,Omsorgens hus flytt,-1 000,-1 084,-84,-84,,,,0,0,-84,0,Avslutat lokalplansprojekt. Avvikelse återredovisas.
+Projekt 2677,Åsa magasin rivning,0,-2,-2,-2,,,,0,0,-2,0,Pågående lokalplansprojekt. Tillkommer kostnader 2022.
+Projekt 2678,Gällinge förskola flytt,-200,-60,140,,,,140,0,140,0,0,Pågående lokalplansprojekt. Tillkommer kostnader 2022.
+Projekt 2679,Varlaskolan flytt,-500,-48,452,,,,452,0,452,0,0,Pågående lokalplansprojekt. Tillkommer kostnader 2022.
+Projekt 2680,Frillesåsskolan inventar drift,-1 400,-467,933,,,,933,0,933,0,0,Pågående lokalplansprojekt. Tillkommer kostnader 2022.
+Projekt 2681,BmSS Pölagården tid,0,-58,-58,,,,-58,0,-58,0,0,Pågående lokalplansprojekt. Tillkommer kostnader 2022.
+Projekt 2682,BmSS Söderstaden tid,-180,-61,119,,,,119,0,119,0,0,Pågående lokalplansprojekt. Tillkommer kostnader 2022.
+Projekt 2691,Varlaskolan rivning & matsal,-8 000,-11,7 989,,,,7 989,0,7 989,0,0,Pågående lokalplansprojekt. Tillkommer kostnader 2022.
+Ansvar 6400,Utrangering Aranäshallen läktare,0,-668,-668,-668,,,,0,0,-668,0,Utrangeringskostnad förknippad med lokalprojekt.
+Ansvar 6400,Utrangering Åsa gårdskolan,0,-34,-34,-34,,,,0,0,-34,0,Utrangeringskostnad förknippad med lokalprojekt.
+Ansvar 6400,Utrangering Frillesåsskolan,0,-945,-945,-945,,,,0,0,-945,0,Utrangeringskostnad förknippad med lokalprojekt.
+Ansvar 6400,Rivning Smedingeskolan,0,-473,-473,-473,,,,0,0,-473,0,"Ny redovisningsprincip, kostnad relaterad till lokalprojekt."
+Ansvar 6400,Rivning Kyvik,0,-160,-160,-160,,,,0,0,-160,0,"Ny redovisningsprincip, kostnad relaterad till lokalprojekt."
+Ansvar 6400,Rivning Frillesåsskolan,0,-545,-545,-545,,,,0,0,-545,0,"Ny redovisningsprincip, kostnad relaterad till lokalprojekt."
+Ansvar 6400,Kostnad för detaljplanearbete,0,-780,-780,-780,,,,0,0,-780,0,"Ny redovisningsprincip, kostnad relaterad till lokalprojekt (Vallda/Heberg, Frillesås fsk, Elof Lindälv)."
+Ansvar 6400,Kostnad för provisoriska paviljonger,0,-696,-696,-696,,,,0,0,-696,0,Ersättningslokaler för Kba ridklubb till följd av akut vattenskada. Redovisas enligt kapitel 6 i Riktlinjer för internhyra - KS och SEFA
+Ansvar 6400,Städkostnad Forsgläntan,0,-193,-193,-193,,,,0,0,-193,0,Städkostnad Forsgläntan. I samband med att lokalen nyttjades som evakueringslokal åtog sig kommunen att sköta all städning.
+Ansvar 6400,Vakant lokal - Omsorgens hus,0,-6 755,-6 755,-6 755,,,,0,0,-6 755,0,Evakueringslokal under ombyggnationen av Stadshuset (Lokalplansprojekt) under delar av året. Lokalen är nu uppsagd. Budgetbelopp enligt hyreskalkyl 2021.
+Ansvar 6400,Vakant lokal - Pölagården,0,-57,-57,-57,,,,0,0,-57,0,Tomhyra till följd av att VO sagt upp lokalen. IF ska flytta in mars 2022.
+Ansvar 6400,Vakant lokal - Ekenässkolan,0,-1 956,-1 956,-1 956,,,,0,0,-1 956,0,Evakueringslokal för Furulidsskolan tom 2018. Fastighet utrett lokalens nyttjande. Beslut om försäljning. Budgetbelopp enligt hyreskalkyl 2021.
+Ansvar 6400,Vakant lokal - Sommarlustskolan,0,-1 262,-1 262,-1 262,,,,0,0,-1 262,0,"Utrymdes 2018, men ombyggnation försenad (Lokalplansprojekt) och färdigställdes 2021-07-31. Budgetbelopp enligt hyreskalkyl 2021."
+Ansvar 6400,Vakant lokal - Gårdskulla förskola,0,-97,-97,-97,,,,0,0,-97,0,FG har flyttat verksamheten till Sommarlust. Ny hyresgäst är KFT som kommer flytta in under 2022.
+Ansvar 6400,Vakant lokal - Kyrkskolan,0,-628,-628,-628,,,,0,0,-628,0,GA har sagt upp. Lokalförsörjning utreder om IF kan flytta in i lokalerna.
+Ansvar 6400,Juristkostnad för kvarteret Aranäs,0,-185,-185,-185,,,,0,0,-185,0,Juristkostnad för lokalprojekt BMSS i kvarteret Aranäs.
+Ansvar 6400,Lösenavgift avetablering Liljans förskola,0,-2 650,-2 650,-2 650,,,,0,0,-2 650,0,Lösenavgift för avetablering Liljans förskola (lokalprojekt).
+Ansvar 6400,Underskott operationell/finansiell leasing,0,-918,-918,-918,,,,0,0,-918,0,Ny redovisningsprincip. Resultatffekt 2021 för mellanskillnad mellan extern hyreskostnad/leasing för Kungsbacka sporthallar.
+Ansvar 6400,Samlingslokaler,-3 653,-3 298,355,5,,,350,0,350,5,0,Ombudgeterar 200 tkr för målning och fasadbyte på Lerbäck samt 150 tkr för fönsterbyte på Hällevik.
+Resterande verksamhet,,2 968,15 161,12 194,,,12 194,,12 194,0,0,0,
+Totalt nämnden,,-22 556,-18 125,4 432,-18 578,168,12 194,10 648,12 194,10 648,-18 410,-0,
