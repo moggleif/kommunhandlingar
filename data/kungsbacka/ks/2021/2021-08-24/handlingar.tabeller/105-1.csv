@@ -1,0 +1,34 @@
+,"Inbetalningar,
+kundreskontran",Årsvis,Se anm.,"Digitalt/
+Papper","Gallras efter
+10 år",,"Inbetalning registreras dagligen i
+Raindance, Future och Inkasso
+Direkt.
+Inbetalningsfiler från bankgiro
+och autogiro sparas på:
+Raindance: ”P:\DFiles\Bg\Old”
+Inkasso Direkt:
+”P:\InkassoDirekt\BGMax\
+Backup”
+Future: ”P:\EDP Future
+Filer\BGFiler\Inlästa och P:\EDP
+Future Filer\AGFiler\BG
+autogiro\Inlästa”.
+Filerna överförs löpande till
+databasen ""Övriga arkivet"" i
+Microweb.
+Bokföringsunderlagen arkiveras i
+KLK Ekonomis närarkiv på
+Vägmästaren."
+,Krediteringar,Årsvis,Närarkiv,Papper,"Gallras efter
+10 år",,"Kreditering görs efter att KLK
+Ekonomi erhållit ett attesterat
+underlag av faktura i Raindance
+eller Future.
+Det attesterade krediterings-
+underlaget arkiveras i KLK
+Ekonomis närarkiv på
+Vägmästaren."
+,Manuella utbetalningar,Årsvis,Närarkiv,Papper,"Gallras efter
+10 år",,"Manuella utbetalningar registreras
+i leverantörsregistret i Raindance."

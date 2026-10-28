@@ -1,0 +1,97 @@
+2.5 Verksamhetsområde: Ekonomi,,,,,,,
+2.5.1 Processgrupp: Administrera ekonomi,,,,,,,
+"Beskrivning
+Följande processer avser räkenskapsmaterial på KLK Ekonomi. Motsvarande principer för bevarande av räkenskapsmaterial gäller även för övriga
+förvaltningar som har motsvarande processer/material.
+Verifieringskedjan utgörs i ekonomiprocessernas av:
+• Verifikationer
+• Grund- och huvudbok
+• Bokslut och Årsredovisning
+Till och från verifieringskedjan finns det i ekonomiprocesserna försystem/sidoordnad bokföring, eftersystem/sidoordnad bokföring samt stödjande delar som
+även dessa beskrivs i dokumenthanteringsplanen.",,,,,,,
+2.5.1.1 Hantera verifikationer,,,,,,,
+"Beskrivning
+Verifikationer utgör grunddokumentet i bokföringen. Den innehåller de uppgifter som behövs för förståelse av händelsen. Om verifikationen inte innehåller all
+relevant information, utan t.ex. hänvisar till ett underlag utgör också själva underlaget verifikation. Varje verifikationsserie ska sparas och förvaras i
+verifikationsnummerordning.",,,,,,,
+Aktivitet,Handlingstyp,"Sortering/
+Registrering",Förvaringsplats,M edium,"Bevaras/
+Gallras","Överföring
+till kommun-
+arkiv",Anmärkning
+,"Avskrivningar,
+kundfakturor",Årsvis,Närarkiv*,Papper,"Gallras efter
+10 år",,"*Attesterat avskrivnings-underlag
+arkiveras i KLK Ekonomis
+närarkiv på Vägmästaren."
+,,,,,,,"Avskrivning utförs i Raindance
+och Future. Fordran skrivs av i
+bokföringen och underlag mailas
+till Intrum för efterbevakning."
+,"Betalningsföreläggande,
+betalda",Årsvis,Närarkiv,Papper,"Gallras efter
+10 år",,"Betalning registreras i
+Inkassodirekt."
+,"Bokföringsorder,
+underlag",Årsvis,Närarkiv,Papper,"Gallras efter
+10 år",,"Attesterat underlag registreras i
+ekonomisystemet."
+,Bokföringsorder,Årsvis,"Ekonomisystem/
+Microweb",Digitalt,"Gallras efter
+10 år",,"Bokföringsordern registreras i
+ekonomisystemet, skickas sedan
+till attestant för attest och blir
+definitiv vid attestering.
+Arkiveras 3 år i ekonomisystemet
+och 7 år i Microweb."
+,Kassaverifikationer,Årsvis,Närarkiv,Papper,"Gallras efter
+10 år",,"Kassaverifikationerna registreras i
+ekonomisystemet med vertypen
+EKBANK."
+,"Debiterade
+inkassoavgifter",Årsvis,"G:/
+Microweb",Digitalt,"Gallras efter
+10 år",,"Obetalda Inkassoavgifter från
+Inkasso Direkt debiteras på
+kundfaktura i Raindance.
+Underlaget sparas genom
+skanning på:
+”G:\KLK\Ekonomi\3
+Finans\Kundteamet\Kundfordring
+ar Raindance\Lägga på listor”.
+Överförs löpande till databasen
+""Övriga arkivet"" i Microweb."
+,"Inbetalningar,
+kundreskontran",Årsvis,Se anm.,"Digitalt/
+Papper","Gallras efter
+10 år",,"Inbetalning registreras dagligen i
+Raindance, Future och Inkasso
+Direkt.
+Inbetalningsfiler från bankgiro
+och autogiro sparas på:
+Raindance: ”P:\DFiles\Bg\Old”
+Inkasso Direkt:
+”P:\InkassoDirekt\BGMax\
+Backup”
+Future: ”P:\EDP Future
+Filer\BGFiler\Inlästa och P:\EDP
+Future Filer\AGFiler\BG
+autogiro\Inlästa”.
+Filerna överförs löpande till
+databasen ""Övriga arkivet"" i
+Microweb.
+Bokföringsunderlagen arkiveras i
+KLK Ekonomis närarkiv på
+Vägmästaren."
+,Krediteringar,Årsvis,Närarkiv,Papper,"Gallras efter
+10 år",,"Kreditering görs efter att KLK
+Ekonomi erhållit ett attesterat
+underlag av faktura i Raindance
+eller Future.
+Det attesterade krediterings-
+underlaget arkiveras i KLK
+Ekonomis närarkiv på
+Vägmästaren."
+,Manuella utbetalningar,Årsvis,Närarkiv,Papper,"Gallras efter
+10 år",,"Manuella utbetalningar registreras
+i leverantörsregistret i Raindance."

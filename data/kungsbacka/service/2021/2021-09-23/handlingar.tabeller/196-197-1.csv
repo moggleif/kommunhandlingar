@@ -1,0 +1,51 @@
+Verksamhetstyp:,GE VERKSAMHETSSTÖD,,,,
+Verksamhetsområde:,Informationsförvaltning - Se kommungemensam dokumenthanteringsplan för stödprocesser,,,,
+Verksamhetsområde:,Systemförvaltning och Arkitektur,,,,
+Processgrupp:,Ledning,,,,
+Process:,Leda-Styra-Organisera,,,,
+Processnummer:,2.2.0.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Administrera konton
+och behörigheter","Användarkonto i
+användardatabas",Active Directory,Digitalt,Se anm.,"Automatisk gallring 3 månader efter
+avslutad anställning, förutsatt att
+uppgifterna inte har betydelse för tolkning
+av händelseloggar i anslutna system som
+ska bevaras under längre tid."
+,Behörighetsgrupper,Active Directory,Digitalt,"Vid
+inaktualitet",
+,"VPN-konton
+(inloggning utifrån)",Active Directory,Digitalt,"Vid
+inaktualitet",
+,"Loggar över
+lösenordsbyte i AD-
+katalogen",Active Directory,Digitalt,Se anm.,"Lösenordsbytet är tvingat och sker var 180:e
+dag. Loggning av senaste lösenordsbytet
+sparas.
+Automatisk gallring 3 månader efter
+avslutad anställning."
+,"Loggar över in- och
+utloggning i AD",Active Directory,Digitalt,"Volymstyrd
+gallring",
+,"Profilinformation,
+Remote Desktop",I aktuell server,Digitalt,"Vid
+inaktualitet",
+Processgrupp:,Hantera systemförvaltning,,,,
+Process:,Administrera systemförvaltning - Se kommungemensam dokumenthanteringsplan för stödprocesser,,,,
+Process:,Driva systemarkitektur,,,,
+Processnummer:,2.2.1.3,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+,Avtal med leverantörer,Ciceron,"Papper/
+Digitalt",Bevaras,
+Processgrupp:,Systemförvaltning - Se kommungemensam dokumenthanteringsplan för stödprocesser,,,,
+Processgrupp:,IT-plattform och drift,,,,
+Process:,Leda-Styra-Organisera - Se kommungemensam dokumenthanteringsplan för stödprocesser,,,,
+Process:,Hantera fel,,,,
+Processnummer:,2.2.3.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Ta emot ärende,"Inkomna ärenden
+rörande frågor,
+felanmälan eller
+förändring",Artvise,Digitalt,14 månader,
+Hantera incident,Incidentrapporter,SharePoint,Digitalt,"Vid
+inaktualitet",

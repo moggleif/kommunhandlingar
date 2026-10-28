@@ -1,0 +1,35 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,Inköp,,,,
+Processgrupp:,Inköp,,,,
+Process:,Hantera upphandling under tröskelvärde (direktupphandling),,,,
+Processnummer:,2.5.1.2,,,,
+Aktivitet,Handling,Förvaring,"Forma
+t","Bevara/Gallr
+a",Anmärkning
+"Förbereda och initiera
+upphandlingsärende","Förfrågan/
+behovsspecifikation",Se anmärkning,Digitalt,Se anmärkning,"För direktupphandlingar med ett värde
+över 100 000 kr: registreras i Ciceron
+avtalsdatabas och bevaras.
+För direktupphandlingar med ett värde
+under 100 000 kr: förvaras i
+samarbetsrum och gallras vid avtalets
+utgång."
+"Genomföra
+direktupphandling","Offerter, antagna",Samarbetsrum,Digitalt,"Gallras vid avtalets
+utgång",Inklusive bilagor.
+,"Offerter, ej antagna",Samarbetsrum,Digitalt,"Gallras vid
+inaktualitet",Inklusive bilagor.
+,Rekvisition,Proceedo,Digitalt,7 år,
+"Besluta och teckna
+avtal","Dokumentation av
+direktupphandlingar",Avtalsdatabas,Digitalt,Bevaras,"Upprättas för att efterleva lagkravet på
+dokumentation för upphandlingar för ett
+värde över 100 000 kr, konkurrensverket"
+,Avtal,Se anmärkning,Papper,Se anmärkning,"För direktupphandlingar med ett värde
+över 100 000 kr: registreras i Ciceron
+avtalsdatabas och bevaras.
+För direktupphandlingar med ett värde
+under 100 000 kr: förvaras hos
+handläggare och gallras vid avtalets
+utgång."

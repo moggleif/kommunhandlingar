@@ -1,0 +1,94 @@
+Verksamhetsområde:,Inköp,,,,
+Processgrupp:,Inköp,,,,
+Process:,Hantera upphandling,,,,
+Processnummer:,2.5.1.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Förbereda och
+initiera
+upphandlingsärende","Upphandlingsuppdrag
+/behovsspecifikation",Tendsign,Digitalt,Bevaras,
+,"Inköpsgrundande
+handling t.ex.
+anskaffningsbeslut,
+investeringsbeslut",Ciceron,Digitalt,Bevaras,"I de fall särskilt beslut från nämnd tas,
+diarieförs detta och expedieras till Service
+Inköp, Upphandling.
+I andra fall avgör volymerna om
+upphandling ska genomföras. Detta blir då
+endast en beställning till Inköp,
+Upphandling."
+,Analysrapport,Tendsign,Digitalt,Bevaras,
+"Annonsering och
+upphandlings-
+dokument",Request for Information,Tendsign,Digitalt,Bevaras,
+,Förhandsannonsering,Tendsign,Digitalt,Bevaras,
+,Annonsunderlag i databas,Tendsign,Digitalt,Bevaras,
+,Upphandlingsdokument,Tendsign,Digitalt,Bevaras,"Avser anbudsförfrågan, infordran, inbjudan,
+kravspecifikation, avtalsvillkor."
+,"Lista upphandlings-
+dokumentshämtare",Tendsign,Digitalt,Bevaras,
+Under anbudstiden,"Frågor från anbudsgivare
+och svar under
+annonseringstiden",Tendsign,Digitalt,Bevaras,
+,Informationsmeddelande,Tendsign,Digitalt,Bevaras,
+"Under anbudstiden,
+Specifikt för
+urvalsselektiv eller
+förhandlad
+upphandling",Ansökningsinbjudan,Tendsign,Digitalt,Bevaras,
+,"Ansökningar om att få
+inkomma med anbud,
+valda",Tendsign,Digitalt,Bevaras,
+,"Ansökningar om att få
+inkomma med anbud, ej
+valda, för sent inkomna
+eller ej korrekt inlämnade",Tendsign,Digitalt,Bevaras,
+,"Meddelande till
+anbudsgivare, valda",Tendsign,Digitalt,Bevaras,
+,"Rapport över
+kvalificering av
+anbudsansökningar",Tendsign,Digitalt,Bevaras,
+"Anbudspröva och
+utvärdera",Anbudssammanställning,Tendsign,Digitalt,Bevaras,
+,"Anbud, kvalificerade",Tendsign,Digitalt,Bevaras,
+,"Anbud, ej kvalificerade
+eller ej korrekt inlämnade",Tendsign,Digitalt,Bevaras,
+,"Specifikationer som ingår
+i kvalificerade anbud",Tendsign,Digitalt,Bevaras,
+,"Specifikationer som ingår
+i ej kvalificerade anbud",Tendsign,Digitalt,Bevaras,
+,"Nej-tackbrev
+/avböjande från
+leverantörer att delta i
+upphandlingar",Tendsign,Digitalt,Bevaras,
+,"Anbudsöppnings-
+protokoll",Tendsign,Digitalt,Bevaras,
+"Anbudspröva och
+utvärdera forts.","Begäran om och svar på
+förtydliganden
+/kompletteringar
+/förklaringar",Tendsign,Digitalt,Bevaras,
+,"Korrespondens med
+anbudsgivare",Tendsign,Digitalt,Se anm.,"Korrespondens av betydelse bevaras.
+Korrespondens av ringa eller tillfällig
+betydelse gallras vid inaktualitet."
+,"Skatte- och
+registerkontroll av
+anbudsgivare",Tendsign,Digitalt,Bevaras,
+,"Kreditupplysning,
+kontroll av anbudsgivare",Tendsign,Digitalt,Bevaras,
+,"Referenstagningar och
+svar",Tendsign,Digitalt,Bevaras,
+,"Protokoll från
+förhandlingar med
+anbudsgivare",Tendsign,Digitalt,Bevaras,
+,"Dokument från
+intervjuer, prover, tester,
+muntlig presentation",Tendsign,Digitalt,Bevaras,
+,"Upphandlingsprotokoll
+Lottningsprotokoll",Tendsign,Digitalt,Bevaras,
+,"Begäran om förklaring av
+onormalt lågt anbud samt
+förklaring",Tendsign,Digitalt,Bevaras,
+,"Resultatrapport
+/utvärdering",Tendsign,Digitalt,Bevaras,

@@ -1,0 +1,31 @@
+"Behandla
+ansökningar om kost",Specialkostansökan,Skyddad databas,Digitalt,"Vid avslutad
+skolgång","Ansökan om specialkost sker via ett
+formulär på kommunens hemsida, och
+resulterar i en produktionsrapport som går
+till tillagningsköken, samt en
+serveringsrapport som går till
+serveringsköken."
+,"Medicinskt underlag
+för specialkost",Skyddad databas,Digitalt,"Vid avslutad
+skolgång",Bifogas i vissa fall i specialkostansökan
+,Produktionsrapport,SQL-databas,Digitalt,"Uppdateras
+löpande",
+,Serveringsrapport,SQL-databas,Digitalt,"Uppdateras
+löpande",
+,"Veckobeställning eller
+dagbeställning på
+hemtjänstmåltider",I respektive kök,Papper,Se anm.,"Gallras efter att måltiderna har levererats.
+Uppgifter om antal fylls sedan in i
+måltidsstatistik."
+Producera måltider,"Riktlinjer
+livsmedelsinköp",SharePoint,Digitalt,"Uppdateras
+löpande",
+,Introduktionsprogram,SharePoint,Digitalt,"Uppdateras
+löpande",Publiceras på Kungsbacka.se
+,"Dokumentation för
+egenkontroll","Pärm i respektive
+kök",Papper,"1 år efter
+utförd kontroll",
+Följa upp måltider,Måltidsstatistik,Accessdatabas,Digitalt,"Uppdateras
+löpande",

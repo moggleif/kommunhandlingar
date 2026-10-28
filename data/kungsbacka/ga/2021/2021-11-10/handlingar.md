@@ -6,7 +6,7 @@ lopnr: null
 typ: handlingar
 namn: null
 kallnyckel: sitevision:18.72941e9317f452787b6c05e
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/handlingar/2021/handlingar-2021-11-10-1.pdf]
 arenden: null
 kalla_url: https://web.archive.org/web/20220404172426id_/https://kungsbacka.se/download/18.72941e9317f452787b6c05e/1646404994723/N%C3%A4mnden%20f%C3%B6r%20Gymnasium%20
 sha256: 3d3ae2993cab0e92116e6a457c0409ab1f697b361de955bd01f426293c09032d
