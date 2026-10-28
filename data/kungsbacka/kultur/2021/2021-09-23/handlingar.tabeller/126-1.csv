@@ -1,0 +1,12 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,Systemförvaltning och arkitektur,,,,
+Processgrupp:,Systemförvaltning,,,,
+Process:,Äga system,,,,
+Processnummer:,2.2.2.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Ingå avtal,Grundavtal,Diarium,Digitalt,Bevaras,"Upprättas i inköp/upphandling. Grundavtal kan
+innehålla kommersiell sekretess även efter
+upphandling. Kopia läggs i Ciceron avtalsdatabas.
+För behandling av personuppgiftsbiträdesavtal, se
+process 1.4.1.2 Hantera personuppgifter."
+,Service level agreement,Diarium,Digitalt,Bevaras,Ofta kallad SLA.

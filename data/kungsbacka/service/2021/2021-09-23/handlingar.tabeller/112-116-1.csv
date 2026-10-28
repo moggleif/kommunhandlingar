@@ -1,0 +1,227 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,Inköp,,,,
+Processgrupp:,Inköp,,,,
+Process:,Hantera upphandling över tröskelvärde,,,,
+Processnummer:,2.5.1.1,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Förbereda och
+initiera
+upphandlingsärende","Inköpsgrundande handling t.ex.
+anskaffningsbeslut,
+investeringsbeslut","Ciceron
+avtalsdatabas",Digitalt,Bevaras,"I de fall särskilt beslut från nämnd tas,
+diarieförs detta och expedieras till Service
+Inköp, Upphandling. I andra fall avgör
+volymerna om upphandling ska
+genomföras."
+Annonsera,Annons i databas,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+,Anbudsförfrågan,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Innehåller administrativa föreskrifter.
+Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+,Infordran/inbjudan,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+,Kravspecifikation,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+,Avtalsvillkor,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+,"Lista
+upphandlingsdokumentshämtare","Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+"Genomföra
+upphandling","Frågor från anbudsgivare och svar,
+under annonseringstiden","Ciceron
+avtalsdatabas",Digitalt,Bevaras,"När frågorna blir av betydelse för
+upphandlingen går det ut ett
+förtydligande, meddelande till alla"
+"Genomföra
+upphandling",,,,,"anbudsgivare. Administreras i Tendsign,
+överförs till Ciceron avtalsdatabas efter
+avslutat ärende"
+,Ansökningsinbjudan,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Specifikt för urvalsselektiv eller
+förhandlad upphandling. Administreras i
+Tendsign, överförs till Ciceron
+avtalsdatabas efter avslutat ärende"
+,"Ansökningar om att få inkomma
+med anbud, valda","Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Specifikt för urvalsselektiv eller
+förhandlad upphandling. Administreras i
+Tendsign, överförs till Ciceron
+avtalsdatabas efter avslutat ärende"
+,"Ansökningar om att få inkomma
+med anbud, ej valda/ej korrekt
+inlämnande","Ciceron
+avtalsdatabas",Digitalt,"Gallras 4 år efter
+avslutad
+upphandling","Specifikt för urvalsselektiv eller
+förhandlad upphandling. Administreras i
+Tendsign, överförs till Ciceron
+avtalsdatabas efter avslutat ärende"
+,Meddelande till anbudsgivare,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Specifikt för urvalsselektiv eller
+förhandlad upphandling. Administreras i
+Tendsign, överförs till Ciceron
+avtalsdatabas efter avslutat ärende"
+,"Rapport över kvalificering av
+anbudsansökningar","Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Specifikt för urvalsselektiv eller
+förhandlad upphandling. Administreras i
+Tendsign, överförs till Ciceron
+avtalsdatabas efter avslutat ärende"
+"Anbudspröva och
+utvärdera",Fullmakt,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+,Anbudssammanställning,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+,"Anbud, antagna","Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Inklusive specifikationer, bilagor etc.
+Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+"Anbudspröva och
+utvärdera","Anbud, ej antagna","Ciceron
+avtalsdatabas",Digitalt,"Gallras 4 år efter
+avslutad
+upphandling","Inklusive specifikationer, bilagor etc.
+Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+,Öppningsprotokoll,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Anbudsöppning, ansökan. Administreras i
+Tendsign, överförs till Ciceron
+avtalsdatabas efter avslutat ärende"
+,"Korrespondens med anbudsgivare,
+av betydelse","Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+,"Korrespondens med anbudsgivare,
+av ringa eller tillfällig betydelse",Outlook,Digitalt,"Gallras vid
+inaktualitet",
+,"Skatte- och registerkontroll av
+anbudsgivare",Tendsign,Digitalt,"Gallras vid avslutat
+ärende","Inbyggd funktionalitet i systemet, en
+aktivitet i att kvalificera leverantören."
+,"Kreditupplysning, kontroll av
+anbudsgivare",Tendsign,Digitalt,"Gallras vid avslutat
+ärende","Inbyggd funktionalitet i systemet, en
+aktivitet i att kvalificera leverantören."
+,Referenstagningar och svar,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+,"Protokoll från förhandlingar med
+anbudsgivare","Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+,"Dokument från intervjuer, prover,
+tester, inspelad presentation","Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+,Lottningsprotokoll,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+,Upphandlingsprotokoll,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+"Anbudspröva och
+utvärdera","Begäran om förklaring av anbud
+med svar","Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Exempelvis förklaring vid onormalt lågt
+anbud. Bevaras som en del av
+anbudshandlingar (frågor och svar).
+Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+Avbryta upphandling,Beslut om att avbryta upphandling,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+"Besluta och teckna
+avtal",Tilldelningsbeslut,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Kvitto på utsänt tilldelningsbeslut,
+avbrytandebeslut registreras i
+upphandlingssystemets logg.
+Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+,Avtal/kontrakt inklusive bilagor,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Exempelvis ramavtal, objektsavtal,
+entreprenadavtal, tjänstekoncessionsavtal
+och avtal för externa utförare.
+Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+,Resultat- och analysrapport,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+Efterannonsera,"Efterannonsering - annons efter
+avslutad upphandling till EUT/TED","Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+"Följa upp och
+förvalta avtal",Förändring av avtal,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Inklusive motivering till förändring
+/tjänsteskrivelse. Kan även vara
+tilläggsavtal, prisjustering. Administreras
+i Tendsign, överförs till Ciceron
+avtalsdatabas efter avslutat ärende"
+,"Annonsering av förändring av beslut
+enligt 17 kap. 16 § LOU","Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+,Överlåtelse av avtal,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+"Följa upp och
+förvalta avtal",Korrespondens med leverantör,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"I korrespondens av betydelse ingår
+exempelvis mötesprotokoll, varsling om
+brist, handlingsplaner för avhjälpande av
+fel, reklamation. Administreras i
+Tendsign, överförs till Ciceron
+avtalsdatabas efter avslutat ärende"
+,Anmodan om rättelse,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Anmodan kan även innehålla meddelande
+om vite eller annan påföljd. Administreras
+i Tendsign, överförs till Ciceron
+avtalsdatabas efter avslutat ärende"
+,Vitesfakturaunderlag,"Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+,"Hävning av avtal/kontrakt
+(hävningsmeddelande)","Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"
+,"Överenskommelser om upphörande
+av avtal/förlikningar","Ciceron
+avtalsdatabas",Digitalt,Bevaras,"Administreras i Tendsign, överförs till
+Ciceron avtalsdatabas efter avslutat
+ärende"

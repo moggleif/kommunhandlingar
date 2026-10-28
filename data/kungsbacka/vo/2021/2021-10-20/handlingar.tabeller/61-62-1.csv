@@ -1,0 +1,21 @@
+,Beräkning,2022,2021
+"Förbehållsbelopp,
+ensamstående","1,3546*pbb/12",5 452 kr/mån,5 373 kr/mån
+"Förbehållsbelopp,
+gifta/sammanboende","1,1446*pbb/12",4 607 kr/mån,4 540 kr/mån
+"Förhöjt förbehållsbelopp,
+under 65 år ensamstående","Förbehållsbelopp
+*1,1",5 997 kr/mån,5 911 kr/mån
+"Förhöjt förbehållsbelopp,
+under 65 år
+gifta/sammanboende","Förbehållsbelopp
+*1,1",5 068 kr/mån,4 994 kr/mån
+Omsorgsavgift (maxtaxa),"0,5392*pbb/12",2 170 kr/mån,2 139 kr/mån
+"Hyra särskilt boende (utanför
+hyreslagen)","0,5539*pbb/12",2 229 kr/mån,2 197 kr/mån
+Timtaxa Hemtjänst,10% av maxtaxan,217 kr/tim,214 kr/tim
+"Avgift för korttidsplats
+Omsorg",Maxtaxa/30,72 kr/dygn,71 kr/dygn
+Avgift för dagomsorg,Maxtaxa/90,24 kr/dag,24 kr/dag
+Trygghetslarm,"0,00562*pbb",271 kr/dag,268 kr/dag
+"Patientavgift HSV, 18-84 år","0,00634*pbb",306 kr/mån,302 kr/mån

@@ -1,0 +1,28 @@
+Verksamhetstyp:,Samhällsbyggnad,,,,
+Verksamhetsområde:,Hantera fastighet och exploatering,,,,
+Processgrupp:,Administrera fastighet och exploatering,,,,
+Process:,Förvalta fastighet,,,,
+Processnummer:,7.2.1.7,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Hantera
+fastighetstaxering",Fastighetstaxering,Närarkiv,Papper,"5 år efter ny
+fastighetstaxering",Separata taxeringshandlingar för varje fastighet.
+,"Ansökan om
+omprövning av
+fastighetstaxering",Närarkiv,Papper,5 år,
+,"Beslut om
+fastighetstaxering",Närarkiv,Papper,5 år,
+,Fastighetsdeklaration,Närarkiv,Papper,"5 år efter ny
+fastighetsdeklaration","Fastighetsdeklarationen ingår i kommunens
+deklaration och redovisas inte separat."
+"Hantera
+fastighetsskötsel","Uppdrag
+fastighetsskötsel",Närarkiv,"Se
+anmärkning",Se anmärkning,"Uppdrag inom fastighetsskötsel ges till
+intern/extern utförare via telefon/mail/annan
+digital kanal. Handlingar rörande stora arbeten
+bevaras, handlingar rörande mindre arbeten
+gallras vid inaktualitet."
+,Tillsynshandlingar,Diarium,Digitalt,Bevaras,"Handlingar i tillsynsärende där byggnadsnämnden
+utöver tillsyn över kommunens mark och
+kommunen representeras av SBK."

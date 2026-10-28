@@ -1,0 +1,28 @@
+"PAH, Kreosotföreningar, klorfenoler mg/kg",,,,,,
+provpunkt,Prov 1,Prov 2,Prov 3,Prov 5,Prov 10,FA1
+material,trä,trä,trä,trä,tjärpapp,
+PAH,,,,,,
+"PAH, summa L",15,2800,"0,5",--,34,1 000
+"PAH, summa M",2900,33000,10,--,12000,1000
+"PAH, summa H",1000,2400,"<2,0",--,18000,50
+bens(e)pyren,18,110,"<0,50",--,--,
+1-metylnaftalen,"<0,50",460,"<0,50",--,--,
+2-metylnaftalen,"<0,50",710,"<0,50",--,--,
+bifenyl,"0,057",890,"0,13",--,--,
+Kresoler,,,,,,
+fenol,"0,19",74,"0,3",--,--,
+o-kresol,"<0,10",59,"<0,10",--,--,
+m-kresol,"<0,10",147,"<0,10",--,--,
+p-kresol,"<0,10",111,"0,18",--,--,
+O-heterocykler,,,,,,
+dibensofuran,"2,5",2400,"1,1",--,--,
+N-heterocykler,,,,,,
+kinolin,"<1,0",640,"<1,0",--,--,
+iso-kinolin,"3,4",91,"<0,50",--,--,
+karbazol,"5,9",270,"0,63",--,--,
+S-heterocykler:,,,,,,
+dibensotiofen,"6,4",1900,"0,47",--,--,
+Klorfenoler,,,,,,
+"2,4,6-triklorfenol",--,--,--,"<0,024",--,2500
+pentaklorfenol,--,--,--,"<0,024",--,250
+summa klorfenoler,--,--,--,"<0,228",--,

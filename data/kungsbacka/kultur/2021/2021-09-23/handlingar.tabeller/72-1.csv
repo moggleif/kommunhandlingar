@@ -1,0 +1,28 @@
+Verksamhetstyp:,Ledning av kommunal myndighet,,,,
+Verksamhetsområde:,Ledning,,,,
+Processgrupp:,Fullmäktige,,,,
+Process:,Hantera fullmäktige,,,,
+Processnummer:,1.1.1.1,,,,
+,,,,,
+Kalla till sammanträde,Arbetsordning,Diarium,Digitalt,Bevaras,Hanteras som ett reguljärt ärende
+Kalla till sammanträde,Kallelse,Diarium,Digitalt,2 år,"Kan även vara samma handling som
+dagordningen."
+Kalla till sammanträde,Beslutsunderlag,Diarium,Digitalt,Bevaras,"Beslutsunderlag inklusive tjänsteskrivelse
+hanteras enligt Kungsbackas ärendeprocess."
+Kalla till sammanträde,Kungörelse,Diarium,Digitalt,2 år,
+Kalla till sammanträde,"Annons i
+ortstidning",Samarbetsrum,Digitalt,2 år,
+Hålla sammanträde,"Ljud- och
+bildupptagning",Samarbetsrum,Digitalt,Bevaras,
+Hålla sammanträde,Närvarolista,Diarium,Digitalt,Bevaras,Bevaras som en del av protokollet.
+Hålla sammanträde,Dagordning,Diarium,,2 år,"Kan även vara samma handling som
+kallelsen."
+Besluta och expediera,"Omröstningslist
+a",Diarium,Digitalt,Bevaras,Bevaras som en del av protokollet.
+Besluta och expediera,Protokoll,Diarium,Digitalt,Bevaras,
+Besluta och expediera,Anslagsbevis,Diarium,Digitalt,Bevaras,"Bevaras som ett övergripande
+sammaträdesdokument i systemet."
+Besluta och expediera,Protokollsutdrag,Diarium,Digitalt,Se anmärkning,"Protokollsutdrag registreras tillsammans med
+respektive ärende, bevaras. Utdrag som
+ligger på själva sammanträdet kan gallras vid
+inaktualitet (2 år)."

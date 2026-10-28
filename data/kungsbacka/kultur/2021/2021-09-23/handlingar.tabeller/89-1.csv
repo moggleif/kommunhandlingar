@@ -1,0 +1,27 @@
+Verksamhetstyp:,Ledning av kommunal myndighet,,,,
+Verksamhetsområde:,Styrning,,,,
+Processgrupp:,Hantera styrning,,,,
+Process:,Hantera styrning från kommunfullmäktige och kommunstyrelse,,,,
+Processnummer:,1.2.1.2,,,,
+,,,,,
+"Producera
+styrdokument",Policy,Diarium,Digitalt,Bevaras,Beslutas av kommunfullmäktige.
+"Producera
+styrdokument",Vision,Diarium,Digitalt,Bevaras,Beslutas av kommunfullmäktige.
+"Producera
+styrdokument",Plan,Diarium,Digitalt,Bevaras,"Beslutas av kommunfullmäktige eller
+kommunstyrelsen."
+"Producera
+styrdokument",Strategi,Diarium,Digitalt,Bevaras,Beslutas av kommunstyrelsen.
+"Producera
+styrdokument",Riktlinjer,Diarium,Digitalt,Bevaras,Beslutas av kommunstyrelsen.
+"Producera
+styrdokument",Målbild,Diarium,Digitalt,Bevaras,Beslutas av kommunstyrelsen.
+Skicka på remiss,Remiss,Diarium,Digitalt,Bevaras,
+Skicka på remiss,Remissvar,Diarium,Digitalt,Bevaras,
+Besluta,Tjänsteskrivelse,Diarium,Digitalt,Bevaras,
+Besluta,Protokoll,,,,"Hanteras inom processerna för antingen fullmäktige
+(1.1.1.1) eller nämnd se 1.1.2.1 Hantera
+nämndprocess"
+"Implementera och
+följa upp",Utvärdering,Diarium,Digitalt,Bevaras,

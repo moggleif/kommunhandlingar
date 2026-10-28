@@ -1,0 +1,13 @@
+Verksamhetstyp:,Ge verksamhetsstöd,,,,
+Verksamhetsområde:,Systemförvaltning och arkitektur,,,,
+Processgrupp:,Systemförvaltning,,,,
+Process:,Utveckla system,,,,
+Processnummer:,2.2.2.2,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+"Dokumentera
+processer",Processbeskrivning,Insidan,Digitalt,Vid inaktualitet,"Beskrivning av processer som stöds av
+verksamhetssystemet."
+Stödja förvaltning,Mall,Insidan,Digitalt,Vid inaktualitet,
+"Dokumentera
+ändringar",Ändringslogg,Insidan,Digitalt,10 år,"Dokumentation av ändringar som genomförs i
+verksamhetssystemet."

@@ -1,0 +1,23 @@
+Verksamhetstyp:,Samhällsbyggnad,,,,
+Verksamhetsområde:,Fysisk planering,,,,
+Processgrupp:,Ta fram detaljplan,,,,
+Process:,Hantera planbesked,,,,
+Processnummer:,7.1.2.4,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Ansökan inkommer,Ansökan,Diarium,Digitalt,Bevaras,Med eventuella medskickade bilagor.
+,Situationskarta,Diarium,Digitalt,Bevaras,
+,Registreringsbekräftelse,Diarium,Digitalt,Bevaras,
+,Journalanteckning,Diarium,Digitalt,Bevaras,Muntlig kontakt med beslutsförslag.
+,Tjänsteskrivelse,Diarium,Digitalt,Bevaras,
+,Förslag till beslut,Diarium,Digitalt,Bevaras,
+,"Expediering om förslag
+till beslut om
+planbesked",Diarium,Digitalt,Bevaras,Expedieras till sökande.
+Besluta,Beslut om planbesked,Diarium,Digitalt,Bevaras,"Byggnadsnämnden beslutar om planbesked av
+mindre betydelse.
+Kommunstyrelsen beslutar om planbesked av
+större och strategisk betydelse."
+Efterarbeta,"Expediering av beslut
+om ansökan om
+planbesked",Diarium,Digitalt,Bevaras,"Expedieras till sökande. Innehåller meddelande
+om fakturering."

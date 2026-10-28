@@ -1,0 +1,43 @@
+"Er beteckning Prov 1
+Provtagare Julia B, Nina K
+Provtagningsdatum 2020-09-22
+Labnummer O11271059",,,,,,
+Parameter,Resultat,Osäkerhet (±),Enhet,Metod,Utf,Sign
+provberedning *,ja,,,1,1,AKR
+,,,,,,
+naftalen,<0.50,,mg/kg,2,1,AKR
+acenaftylen,14,3.6,mg/kg,2,1,AKR
+acenaften,0.87,0.23,mg/kg,2,1,AKR
+fluoren,4.1,1.1,mg/kg,2,1,AKR
+fenantren,79,21,mg/kg,2,1,AKR
+antracen,90,23,mg/kg,2,1,AKR
+fluoranten,1800,470,mg/kg,2,1,AKR
+pyren,940,240,mg/kg,2,1,AKR
+bens(a)antracen,310,74,mg/kg,2,1,AKR
+krysen,320,83,mg/kg,2,1,AKR
+bens(b)fluoranten,120,31,mg/kg,2,1,AKR
+bens(k)fluoranten,120,28,mg/kg,2,1,AKR
+bens(a)pyren,47,8.0,mg/kg,2,1,AKR
+dibens(ah)antracen,13,3.6,mg/kg,2,1,AKR
+bens(ghi)perylen,25,6.5,mg/kg,2,1,AKR
+indeno(123cd)pyren,43,18,mg/kg,2,1,AKR
+"PAH, summa 16 *",3900,,mg/kg,2,1,AKR
+"PAH, summa cancerogena *",970,,mg/kg,2,1,AKR
+"PAH, summa övriga *",3000,,mg/kg,2,1,AKR
+"PAH, summa L *",15,,mg/kg,2,1,AKR
+"PAH, summa M *",2900,,mg/kg,2,1,AKR
+"PAH, summa H *",1000,,mg/kg,2,1,AKR
+bens(e)pyren,18,3.5,mg/kg,2,1,AKR
+1-metylnaftalen,<0.50,,mg/kg,2,1,AKR
+2-metylnaftalen,<0.50,,mg/kg,2,1,AKR
+bifenyl *,0.057,,mg/kg,2,1,AKR
+fenol,0.19,0.042,mg/kg,2,1,AKR
+o-kresol,<0.10,,mg/kg,2,1,AKR
+m-kresol,<0.10,,mg/kg,2,1,AKR
+p-kresol,<0.10,,mg/kg,2,1,AKR
+dibensofuran *,2.5,,mg/kg,2,1,AKR
+kinolin *,<1.0,,mg/kg,2,1,AKR
+isokinolin *,3.4,,mg/kg,2,1,AKR
+Parameter,Resultat,Osäkerhet (±),Enhet,Metod,Utf,Sign
+carbazol *,5.9,,mg/kg,2,1,AKR
+dibensotiofen *,6.4,,mg/kg,2,1,AKR
