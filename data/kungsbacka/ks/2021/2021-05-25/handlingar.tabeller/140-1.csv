@@ -1,0 +1,22 @@
+Kriterier,Ja,Nej
+"Personuppgiftsbehandlingen innebär utvärdering eller poängtilldelning, inklusive profilering och
+förutsägelse av beteende.",☐,☒
+"Personuppgiftsbehandlingen innebär automatiserat beslutsfattande med juridisk, ekonomisk eller
+annan betydande effekt för den registrerade.",☐,☒
+"Personuppgiftsbehandlingen innebär att systematisk övervakning används för att observera, övervaka
+eller kontrollera den registrerade.",☐,☒
+"Behandling av känsliga personuppgifter eller extra skyddsvärd information
+Kommentar: Känsliga eller extra skyddsvärda uppgifter som kan komma att behandlas är personnummer,
+löneuppgifter, värderande uppgifter, uppgifter om hälsa, information som rör någons privata sfär.",☒,☐
+"Personuppgiftsbehandlingen sker i stor skala avseende antalet berörda personer i registret, volymen av
+data som behandlas, varaktighet för behandlingsaktiviteten och/eller den geografiska omfattningen av
+behandlingsaktiviteten.",☒,☐
+"Det förekommer uppgifter om utsatta personer i registret.
+Kommentar: Begreppet utsatta personer inbegriper barn. E-arkivet innehåller information från
+skolhälsovården, men handlingarna arkiveras först när personen är 25 år fyllda. Idag förekommer det inga
+personer med skyddad identitet i e-arkivet.",☐,☒
+"Personuppgiftsbehandlingen sker med hjälp av innovativ användning eller tillämpning av tekniska eller
+organisatoriska lösningar.
+Kommentar: Funktionaliteten i Mitt Arkiv är ny, men den tekniska lösningen är inloggning med e-
+legitimation vilket är väl använt sedan länge av exempelvis Skatteverket och 1177 (journaler).",☐,☒
+Dataöverföring sker till länder utanför EU/EES (tredjeland).,☐,☒

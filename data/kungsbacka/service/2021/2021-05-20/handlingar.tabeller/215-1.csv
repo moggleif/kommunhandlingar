@@ -1,0 +1,21 @@
+Process:,Hantera direktupphandling,,,,
+Processnummer:,2.5.1.2,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+,"Upphandlingsuppdrag/
+behovsspecifikation",Tendsign,Digitalt,Bevaras,"För hantering av dokumentationen i en
+direktupphandling där Inköp på Service ej
+är inblandad, se kommungemensam
+dokumenthanteringsplan för stödprocesser."
+,"Blankett för
+dokumentation",Tendsign,Digitalt,Bevaras,
+,"Inköpsgrundande
+handling tex
+anskaffningsbeslut,
+investeringsbeslut",Tendsign,Digitalt,Bevaras,
+,Offerter,Tendsign,Digitalt,Bevaras,
+,Rekvisition,Proceedo,Digitalt,7 år,
+,Avtal,Tendsign,Digitalt,Bevaras,
+Process:,Avropa och göra direktinköp,,,,
+Processnummer:,2.5.1.3,,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+,Avrop på avtal,Proceedo,Digitalt,10 år,

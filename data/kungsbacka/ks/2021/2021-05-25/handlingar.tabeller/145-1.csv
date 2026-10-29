@@ -1,0 +1,18 @@
+Risk,Riskvärde,Åtgärd,Ansvarig
+"Invånaren kan logga in med enbart
+personnummer utan autentisering
+med e-legitimation.",3. Risk bör åtgärdas,"I ”Kommunikationsplan vid
+incidenter” ska det framgå vilka
+åtgärder som ska vidtas om detta
+inträffar.",Systemförvaltare
+"Handlingar är otillgängliga för
+invånaren.",2. Risk bevakas,"På startsidan för Mitt Arkiv ska
+eventuella planerade och
+oplanerade driftstopp
+kommuniceras.",Systemförvaltare
+"Högre arbetsbelastning för
+kommunen om invånare ifrågasätter
+avsaknaden av handlingar i Mitt Arkiv",2. Risk bevakas,"Under Vanliga frågor, på Mitt
+Arkiv, ska det tydligt framgå vilka
+handlingar som finns tillgängliga.","Utvecklare
+informationsförvaltning"
