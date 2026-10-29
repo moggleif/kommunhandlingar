@@ -1,0 +1,30 @@
+Nämnd,Enhet,Riskbedömning,,"Handlings-
+plan",EY:s kommentar
+,,Fysisk,"Organisatorisk
+& social",,
+VO,Enhet 1,,,," Flera pågående åtgärder i
+handlingsplanen saknar angiven
+ansvarig person."
+,Enhet 2,,,," Flera pågående åtgärder i
+handlingsplanen saknar angiven
+ansvarig person."
+,Enhet 3,,,," Flera pågående åtgärder i
+handlingsplanen saknar angiven
+ansvarig person.
+ Ett stort antal åtgärder daterar till
+2019."
+IF,Enhet 1,,,," Flera åtgärder i handlingsplanen
+saknar angiven ansvarig person."
+,Enhet 2,,,," Flera åtgärder i handlingsplanen,
+såväl pågående som avslutade,
+saknar angiven ansvarig person."
+,Enhet 3,,,," Samtliga åtgärder i handlingsplanen
+utom en saknar angiven ansvarig
+person."
+FG,Enhet 1,,,," Flera åtgärder i handlingsplanen,
+såväl pågående som avslutade,
+saknar angiven ansvarig person.
+ Vissa åtgärder daterar till 2019."
+,Enhet 2,,,," Samtliga åtgärder i handlingsplanen
+saknar angiven ansvarig person."
+,Enhet 3,,,, Bortfall*

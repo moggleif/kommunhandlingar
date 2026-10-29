@@ -1,0 +1,14 @@
+ADMIN,"The event source was human intervention. For example, an
+administrator used Queue Viewer to delete a message, or
+submitted message files using the Replay directory."
+AGENT,The event source was a transport agent.
+APPROVAL,"The event source was the approval framework that's used
+with moderated recipients. For more information, see
+Manage message approval."
+BOOTLOADER,"The event source was unprocessed messages that exist on
+the server at boot time. This is related to the LOAD event
+type."
+DNS,The event source was DNS.
+DSN,"The event source was a delivery status notification (also
+known as a DSN, bounce message, non-delivery report, or
+NDR)."

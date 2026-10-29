@@ -1,0 +1,12 @@
+MSGTRK,"Mailbox servers and Edge Transport
+servers",Log files for the Transport service.
+MSGTRKMA,Mailbox servers,"Log files for the approvals and
+rejections in moderated transport. For
+more information, see Manage
+message approval."
+MSGTRKMD,Mailbox servers,"Log files for messages delivered to
+mailboxes by the Mailbox Transport
+Delivery service."
+MSGTRKMS,Mailbox servers,"Log files for messages sent from
+mailboxes by the Mailbox Transport
+Submission service."
