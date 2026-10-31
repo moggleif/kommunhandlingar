@@ -1,0 +1,40 @@
+Spec Ansv/vks/proj,"Driftredovisning/
+Projektnamn",Bokslut 2020,,,Orsak samt nämndens begäran om resultatdisponering till bokslut o budgetavvikelse 2020,,,,,,,,,
+,,,,,Underskott,,Överskott,,,,Summering - nämndens förslag till beslut,,,
+,,Årsbudget,Utfall,Avvikelse,Ombudgeteras,"Förs till
+resultatfond","Typ 1 - ej
+utförverksamhet
+återredovisas","Typ 2 - versamhet
+till annan nämnd
+återredovisas","Typ 3 - egna
+effektiviseringar
+till resultatfond","Typ 4 - Pågående
+ej avslutade
+projekt
+Ombudgeteras","Summa till
+resultatfond","Summa att
+ombudgetera","Summa att
+återredovisa","Kontrollsumma mot
+bokslutsavvikelse. BÖR
+SLUTA MED ""0"" I
+SUMMAN"
+A,B,C,D,E=D-C,F,G,H,I,J,K,L=G+J M=F+K N=H+I,,,O=F+G+H+I+J+K-E
+Kultur & Fritid,,-237 802,-230 439,7 363,,,,,7363,,7 363,0,0,0
+Lokalvård gamla simhallsbyggnaden,,-1773,-592,1 181,,,1181,,,,0,0,1 181,0
+Internränta,,-2046,-1607,439,,,439,,,,0,0,439,0
+,,,,0,,,,,,,0,0,0,0
+,,,,0,,,,,,,0,0,0,0
+,,,,0,,,,,,,0,0,0,0
+,,,,0,,,,,,,0,0,0,0
+,,,,0,,,,,,,0,0,0,0
+,,,,0,,,,,,,0,0,0,0
+,,,,0,,,,,,,0,0,0,0
+,,,,0,,,,,,,0,0,0,0
+,,,,0,,,,,,,0,0,0,0
+,,,,0,,,,,,,0,0,0,0
+,,,,0,,,,,,,0,0,0,0
+,,,,0,,,,,,,0,0,0,0
+,,,,0,,,,,,,0,0,0,0
+,,,,0,,,,,,,0,0,0,0
+,,,,0,,,,,,,0,0,0,0
+Totalt nämnden,,-241 621,-232 638,8 983,0,0,1 620,0,7 363,0,7 363,0,1 620,0

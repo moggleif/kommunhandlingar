@@ -5,21 +5,21 @@ datum: 2026-11-03
 lopnr: null
 typ: handlingar
 namn: null
-kallnyckel: sitevision:18.502b3b4b1a162eb8eaba9018
-tidigare_kallnycklar: []
+kallnyckel: sitevision:18.60a1e1931a18c63fb7913e8
+tidigare_kallnycklar: [sitevision:18.502b3b4b1a162eb8eaba9018]
 arenden: null
-kalla_url: https://kungsbacka.se/download/18.502b3b4b1a162eb8eaba9018/1793256620605/Kommunfullm%C3%A4ktige%20handlingar%202026-11-03.pdf
-sha256: 28392b580878e1ebc547ad676f2d741806119dc97c3a39bf0ae960f31d175090
-bytes: 28723239
+kalla_url: https://kungsbacka.se/download/18.60a1e1931a18c63fb7913e8/1793362313013/Kommunfullm%C3%A4ktige%20handlingar%202026-11-03.pdf
+sha256: 5f149dc8c93bd454dd5294edf93fff713d60e3897c806765c59015622a1d5687
+bytes: 28988804
 sidor: 666
-hamtad: 2026-10-29T07:14:53+00:00
-konverterad: 2026-10-29T07:17:23+00:00
+hamtad: 2026-10-31T07:06:26+00:00
+konverterad: 2026-10-31T07:08:50+00:00
 pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok]
 tal_obekraftade: [10, 11, 18, 24, 70, 180, 181, 182, 183, 450, 453, 454, 630, 665]
-figurer: [12, 13, 19, 22, 24, 32, 34, 35, 37, 38, 39, 42, 43, 47, 48, 53, 54, 56, 57, 58, 116, 174, 175, 176, 180, 181, 182, 183, 197, 203, 206, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 416, 420, 422, 424, 426, 427, 431, 432, 433, 434, 435, 436, 437, 441, 446, 450, 453, 454, 456, 460, 463, 464, 465, 467, 468, 469, 470, 479, 487, 496, 498, 499, 504, 505, 506, 507, 510, 511, 512, 513, 514, 515, 516, 517, 519, 544, 545, 629, 630, 664, 665, 666]
+figurer: [12, 13, 19, 22, 24, 32, 34, 35, 37, 38, 39, 42, 43, 47, 48, 53, 54, 56, 57, 58, 116, 174, 175, 176, 180, 181, 182, 183, 197, 203, 206, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 416, 420, 422, 424, 426, 427, 431, 432, 433, 434, 435, 436, 437, 441, 446, 450, 453, 454, 456, 460, 463, 464, 465, 467, 468, 469, 470, 479, 487, 496, 498, 499, 504, 505, 506, 507, 510, 511, 512, 513, 514, 515, 516, 517, 519, 544, 545, 629, 630, 665, 666]
 tolkade: []
 granskad: null
 ---
@@ -27394,23 +27394,17 @@ SVERIGES RIKSDAG 100 12 Stockholm • Telefon 08-786 40 00 • www.riksdagen.se
 
 <!-- sida 664 -->
 
-Från: Therese Edvardsson
-Skickat: den 5 oktober 2026 14:15
-Till: Patrik Johansson \<(e-post borttagen)>
-Ämne: Kommunfullmäktige 2026-2030
+Från:      Therese Edvardsson
+Till:      Patrik Johansson
+Ärende:    Ledamot
+Datum:     den 29 oktober 2026 15:01:08
 
-
+Hej Patrik,
 
-Hej Patrick!
+Jag vill avsäga mig min ledamots post i kommunfullmäktige för 2026-2030.
 
-Jag har blivit invald till kommunfullmäktige för mandatperioden 2026-2030 och har plats 7 hos
-
-socialdemokraterna. Jag kommer inte att tacka ja till den platsen då jag valt att inte engagera mig
-politiskt i dagsläget
-
-Med vänligt hälsning
-
-Therese Edvardsson
+MVH
+Therese Edvardsson (S)
 
 Skickat från Outlook för iOS
 
