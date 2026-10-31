@@ -6,7 +6,7 @@ lopnr: null
 typ: kallelse
 namn: null
 kallnyckel: sitevision:18.72941e9317f452787b6c019
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/gymnasium--arbetsmarknad/dagordningar/2021/210210.pdf]
 arenden: null
 kalla_url: https://web.archive.org/web/20220404172455id_/https://kungsbacka.se/download/18.72941e9317f452787b6c019/1646404718080/N%C3%A4mnden%20f%C3%B6r%20Gymnasium%20
 sha256: 9c7831874b8e15fab3691edd6d34aa9c480b5616502645a7672c8d45206bb470

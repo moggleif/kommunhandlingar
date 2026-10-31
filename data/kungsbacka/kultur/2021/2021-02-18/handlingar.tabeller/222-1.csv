@@ -1,0 +1,10 @@
+Partigrupp,Partigruppsordning
+M,"M, C, L, KD, MP, S, SD, V"
+C,"C, M, L, KD, MP, S, V, SD"
+L,"L, C, M, KD, MP, S,"
+KD,"KD, M, C, L, SD, S, MP, V"
+KB,KB
+MP,"MP, V, S, L, C, M, KD, SD"
+S,"S, V, MP, C, L, M, KD, SD"
+V,"V, MP, S, L, C, M, KD, SD"
+SD,"SD, M, KD, C, L"

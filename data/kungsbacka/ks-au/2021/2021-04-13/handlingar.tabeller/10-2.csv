@@ -1,0 +1,7 @@
+Sannolikhet,Beskrivning,Frekvens
+1,"Skadan har inte inträffat eller sker mycket sällan. Ytterst liten
+sannolikhet att skadan kommer att inträffa under behandlingens livstid.",Mer sällan än vart 10:e år
+2,Skadan kommer sannolikt att inträffa någon gång.,Mellan vart 10:e och varje år.
+3,"Skadan kan inträffa regelbundet.
+Sannolikt att skadan kommer att inträffa.",En gång per år.
+4,Skadan kan inträffa ofta.,Flera gånger per år.

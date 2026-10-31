@@ -1,0 +1,27 @@
+Kriterier,Ja,Nej
+"Personuppgiftsbehandlingen innebär utvärdering eller poängtilldelning, inklusive
+profilering och förutsägelse av beteende.",☐,☒
+"Personuppgiftsbehandlingen innebär automatiserat beslutsfattande med juridisk,
+ekonomisk eller annan betydande effekt för den registrerade.",☐,☒
+"Personuppgiftsbehandlingen innebär att systematisk övervakning används för att
+observera, övervaka eller kontrollera den registrerade.",☐,☒
+"Behandling av känsliga personuppgifter eller extra skyddsvärd information.
+Kommentar: Behandlingen är kommunövergripande. Det är därför möjligt att
+känsliga och skyddsvärda personuppgifter kommer att hanteras i systemet. Vilka
+typer av känsliga och extra skyddsvärda personuppgifter som behandlas beror på
+vilka nämnder som väljer att använda systemet och vilka funktioner som respektive
+nämnd väljer att använda systemet till.",☒,☐
+"Personuppgiftsbehandlingen sker i stor skala avseende antalet berörda personer,
+volymen av data som behandlas, varaktighet för behandlingsaktiviteten och/eller den
+geografiska omfattningen av behandlingsaktiviteten.
+Kommentar: Behandlingen är kommunövergripande. Det är därför mycket sannolikt
+att stora mängder personuppgifter hanteras. Hur stor volym som kommer att
+behandlas beror på vilka nämnder som väljer att använda systemet. Varaktighet för
+behandlingen är mycket kort, eftersom ingen information sparas i systemet –
+behandlingen innebär endast en transportsträcka mellan olika system.",☒,☐
+"Det förekommer uppgifter om utsatta personer.
+Kommentar: Behandlingen är kommunövergripande. Det är därför möjligt att
+uppgifter om utsatta personer kommer att hanteras. Vilka personuppgifter som
+behandlas beror på vilka nämnder som kommer att använda systemet.",☒,☐
+"Personuppgiftsbehandlingen sker med hjälp av innovativ användning eller
+tillämpning av tekniska eller organisatoriska lösningar.",☐,☒

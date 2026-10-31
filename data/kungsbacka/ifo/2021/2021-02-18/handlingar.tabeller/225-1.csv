@@ -1,0 +1,63 @@
+Risk,"Konsekvens, beskriv i
+ord samt ange siffra
+(1-4)","Sannolikhet
+(1-4)","Åtgärd, inklusive ansvarig för
+genomförande"
+"Vi kan se en risk att
+försändelser skickas fel när
+man bara skriver in
+personnummer. Det är så
+lätt att ta fel på en siffra.
+Skulle det kunna vara
+tekniskt möjligt att få upp
+även namnet som en extra
+trygghet, när man anger
+personnumret?",3,3,"Informera medarbetarna om att man
+måste vara noggrann när man fyller i
+personnummer. I framtiden, få koppling
+till Navet och undersöka möjligheten att
+Ekopost utvecklas till att även visa namn.
+Dataskyddskontakt samordnar
+framtagandet av manualer, respektve chef
+ansvarar för att tillse att medarbetarna får
+tillgång till rätt information.
+Systemförvaltaren är kontaktperson för
+framtida utveckling av tjänsten."
+"Risk att personuppgifter röjs
+under kuverteringen i
+produktionsmiljö",2,1,"När försändelserna processas läggs en
+kod på för den maskinella kuverteringen.
+Denna kod styr sedan hur många ark som
+ska ingå i försändelsen och stoppas i
+respektive kuvert. Programvaran
+”bockar” därefter av försändelsen som
+klar. Om ett maskinhaveri inträffar
+känner programmet av vilka försändelser
+som inte är godkända och skapar en ny fil
+med dessa för produktion, så kallad
+makulaturhantering. Incidenter i den
+maskinella kuverteringen är sällsynta.
+Dataskyddskontakt ihop med leverantör
+vid uppföljning av biträdet."
+"Det finns en behörighetsnivå
+i tjänsten som kan se allt i
+kommunen. Det finns alltså
+en risk att den som kan se
+allt, kan se om en person
+finns inom socialtjänsten.",2,1,"Åtgärda genom behörighetsstyrning
+Systemförvaltare i samarbete med
+kontaktperson för tjänsten."
+"Mellanlagring av
+information innebär alltid en
+risk, när underlag som ska
+skickas till tjänsten först tas
+ut från verksamhetssystem
+för att mellanlagras
+någonstans. Risken finns att
+dokument hamnar fel eller
+att känslig infomration blir
+liggandes utan att rensas.",2,2,"Möjligheten att få en direktkoppling
+mellan verksamhetssystem och tjänsten
+Systemförvaltare Ekopost,
+utvecklingsledrae digitalisering,
+systemförvaltare Combine."
