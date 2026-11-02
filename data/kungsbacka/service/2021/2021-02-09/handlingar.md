@@ -6,7 +6,7 @@ lopnr: null
 typ: handlingar
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/service/handlingar/2021/nse-samlingshandling-2021-02-09.pdf
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.6ea12a3f17f1cb356901cf8]
 arenden: null
 kalla_url: https://web.archive.org/web/20220319214016id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/service/handlingar/2021/nse-samlingshandling-2021-02-09.pdf
 sha256: 1d0876dfa6e8f2199f1f7fa3d161db12c700bd45b927a33103966fea10f5a157

@@ -1,0 +1,53 @@
+Risk,"Konsekvens,
+beskriv i ord samt
+ange siffra (1–4)",Sannolikhet (1–4),"Åtgärd, inklusive
+ansvarig för
+genomförande"
+Samtalen avlyssnas,3,1,"Autentisering och
+kryptering skyddar
+informationen.
+Ansvarig:
+Leverantören"
+Samtalen överhörs,3,2,"Skriftlig regel som tydligt
+beskriver avgränsningar.
+Ansvarig:
+Socialt ansvarig
+samordnare (SAS) samt
+dataskyddskontakt på IF."
+Mötets innehåll lagras,3,1,"Tekniska förutsättningar
+för detta ska inte skapas.
+De enda uppgifter som
+lagras är loggar och dessa
+raderas efter 6 månader.
+Ansvarig:
+Leverantören"
+"Tekniska problem med
+internetanslutning eller
+drift",2,1,"System och
+internetförbindelser
+hanteras i två olika
+datahallar.
+Ansvarig:
+Leverantören"
+"Svårighet att avgöra
+när tjänsten ska
+användas och när man
+kan nyttja andra
+tjänster, t.ex. Teams,
+vilket kan leda till att
+fel information
+hanteras i fel tjänst.",2,2,"Skriftlig regel som tydligt
+beskriver avgränsningar.
+Ansvarig:
+Socialt ansvarig
+samordnare (SAS) samt
+dataskyddskontakt på IF."
+"Handhavandefel i
+systemet som leder till
+risk",2,2,"Användarvisningar och
+utbildning via KLOK.
+Ansvarig:
+Dataskyddskontakterna på
+IF, GA, VO och FG i
+samverkan med
+kommunledningskontoret."

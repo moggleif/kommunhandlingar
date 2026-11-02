@@ -6,7 +6,7 @@ lopnr: null
 typ: handlingar
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/2021-02-02/handlingar
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.533f690b17f7294399b13fe9]
 arenden: null
 kalla_url: [https://web.archive.org/web/20220320071438id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/handlingar/2021/2021-02-02/arende-1---overenskommelse-om-fastighetsreglering-asa-4_144.pdf, https://web.archive.org/web/20220320070856id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/handlingar/2021/2021-02-02/arende-3---uppdrag-att-ta-fram-detaljplan-for-kungsbacka-4_52-och-4_66.pdf]
 sha256: [35a03ffe34e4c4fb42d97e4bec7b4b49dec89eeb647a9f93a86082da1b737f7d, 0231cb3571f0c73c3ac6fc317225c2784f9109c867aa7141074fecac80f4f06e]

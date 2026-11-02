@@ -6,7 +6,7 @@ lopnr: null
 typ: kallelse
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/individ-och-familjeomsorg/dagordning/2021/nif-2021-04-15-kallelse.pdf
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.4aa9d4217f4ee7080a14b42]
 arenden: null
 kalla_url: https://web.archive.org/web/20220320130548id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/individ-och-familjeomsorg/dagordning/2021/nif-2021-04-15-kallelse.pdf
 sha256: f60d622ced8baa1dc11dd5ea26010434fd512d066353ffcb96ae12349db99b6a

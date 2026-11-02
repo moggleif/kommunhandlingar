@@ -6,7 +6,7 @@ lopnr: null
 typ: handlingar
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/handlingar/2021/2021-04-27/arende-1---planbesked-for-del-av-tolo-8_11.pdf
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.533f690b17f7294399b13f45]
 arenden: null
 kalla_url: https://web.archive.org/web/20220320071436id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/handlingar/2021/2021-04-27/arende-1---planbesked-for-del-av-tolo-8_11.pdf
 sha256: c3c04d019addb76c2b1140bc7911cd63e8dc587f8939c1fe60fd788c02b96cda

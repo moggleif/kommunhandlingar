@@ -6,7 +6,7 @@ lopnr: null
 typ: kallelse
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/dagordning/2021/bn-kallelse-2021-01-28-webb.pdf
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.2727e29417ee2988a50149a0]
 arenden: null
 kalla_url: https://web.archive.org/web/20210225083822id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/dagordning/2021/bn-kallelse-2021-01-28-webb.pdf
 sha256: 6f7baf4dde99bd828b636c5f08f0aa00755abebcec0c840a486ffccb89c8409e

@@ -6,7 +6,7 @@ lopnr: null
 typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamndens-arbetsutskott/protokoll/2021/bnau-protokoll--2021-03-04---webb.pdf
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.2727e29417ee2988a5013bb3]
 arenden: null
 kalla_url: https://web.archive.org/web/20210506041327id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamndens-arbetsutskott/protokoll/2021/bnau-protokoll--2021-03-04---webb.pdf
 sha256: ed46dfa6bc781479cf12d5bd8d50b23b053dfc32f5697a4dcb205722f20e37af

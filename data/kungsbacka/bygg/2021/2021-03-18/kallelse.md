@@ -6,7 +6,7 @@ lopnr: null
 typ: kallelse
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/dagordning/2021/bn-kallelse-2021-03-18-webb.pdf
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.2727e29417ee2988a50149b9]
 arenden: null
 kalla_url: https://web.archive.org/web/20220108115320id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/byggnadsnamnden/dagordning/2021/bn-kallelse-2021-03-18-webb.pdf
 sha256: 13d4e9e931f9e26812fbb978a3a945a1ea6f7dbd2140464ed1d51becd0d01b3b

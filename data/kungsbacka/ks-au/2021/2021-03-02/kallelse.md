@@ -6,7 +6,7 @@ lopnr: null
 typ: kallelse
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/dagordning/2021/kallelse-ksau-210302.pdf
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.533f690b17f7294399b13f64]
 arenden: null
 kalla_url: https://web.archive.org/web/20220320070820id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/dagordning/2021/kallelse-ksau-210302.pdf
 sha256: 79bf65c968678dd49a2e58e71b7d9754380056465e91e006258eb391bff9c213

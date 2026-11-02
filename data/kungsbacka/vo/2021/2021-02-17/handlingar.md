@@ -6,7 +6,7 @@ lopnr: null
 typ: handlingar
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/vard--omsorg/handlingar/2021/handlingar-2021-02-17.pdf
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.2727e29417ee2988a50372be]
 arenden: null
 kalla_url: https://web.archive.org/web/20220320155030id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/vard--omsorg/handlingar/2021/handlingar-2021-02-17.pdf
 sha256: 618c18acfd4f86fd3dee920242239fe5b9a0e76a6a8c94f4e3f584cd00417c3e

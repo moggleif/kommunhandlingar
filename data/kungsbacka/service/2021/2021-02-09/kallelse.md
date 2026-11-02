@@ -6,7 +6,7 @@ lopnr: null
 typ: kallelse
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/service/dagordning/2021/nse-kallelse-2021-02-09.pdf
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.6ea12a3f17f1cb356901cf7]
 arenden: null
 kalla_url: https://web.archive.org/web/20220319213133id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/service/dagordning/2021/nse-kallelse-2021-02-09.pdf
 sha256: 366b7c4433f39274f54481a08bed9ddd20c8bff6087a5eda3b976220f720d5db

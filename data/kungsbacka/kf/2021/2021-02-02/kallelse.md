@@ -6,7 +6,7 @@ lopnr: null
 typ: kallelse
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunfullmaktige/dagordning/2021/kf-kallelse-2021-02-02.pdf
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.2727e29417ee2988a501a563]
 arenden: null
 kalla_url: https://web.archive.org/web/20220319214431id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunfullmaktige/dagordning/2021/kf-kallelse-2021-02-02.pdf
 sha256: 9bafc34b9d3079ca36916a6f7c20fa5347a282383eda5277c538b23bc54a2d00

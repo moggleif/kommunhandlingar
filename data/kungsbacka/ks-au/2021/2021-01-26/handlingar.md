@@ -6,7 +6,7 @@ lopnr: null
 typ: handlingar
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/2021-01-26/handlingar
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.533f690b17f7294399b13feb]
 arenden: null
 kalla_url: [https://web.archive.org/web/20220320072022id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/handlingar/2021/2021-01-26/arende-2---uppstart-av-projekt-i-lokalplan-anneberg-forskola.pdf, https://web.archive.org/web/20220320070928id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/handlingar/2021/2021-01-26/arende-5---uppstart-av-projekt-i-lokalplan-klovstens-omlastningscentral-med-lokalisering-inom-duveheds-verksamhetsomrade.pdf, https://web.archive.org/web/20220320124613id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/handlingar/2021/2021-01-26/arende-6---omfordelning-av-budget-i-lokalplan-bjorkris-utbildningslokaler-etapp-1.pdf, https://web.archive.org/web/20220320071325id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsens-arbetsutskott/handlingar/2021/2021-01-26/arende-7---svar-pa-remiss-over-molndals-stads-bostadsforsorjningsprogram.pdf]
 sha256: [6afc1167850eee75764e49e2a0ca1a877f59ad142d571518be33089ff1a86413, 6c96809da58a2b7018a1f3a6c34d86b84006f118173142a534c09cb0ad980a0f, 2f53c951d374b276d6d6d55e35e7052553e1e38b0fd4e7110367497be2a7ee8e, 38d443ad517a34f6e0df2d29125d6175b666361cfa49deaa8bcfcdf2f8f5b4cf]

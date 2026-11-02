@@ -6,7 +6,7 @@ lopnr: null
 typ: kallelse
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/vard--omsorg/dagordning/2021/kallelse-nvo-2021-04-21.pdf
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.2727e29417ee2988a50372c3]
 arenden: null
 kalla_url: https://web.archive.org/web/20220320014120id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/vard--omsorg/dagordning/2021/kallelse-nvo-2021-04-21.pdf
 sha256: 1dd82238cca3b2218405824325ebf5eb1198b52c97db60d648c3de03b1095c39
