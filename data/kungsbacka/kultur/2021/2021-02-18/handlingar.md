@@ -6,7 +6,7 @@ lopnr: null
 typ: handlingar
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kultur-och-fritid/handlingar/2021/handlingar-for-mote-namnden-for-kultur--fritid-den-2021-02-18-1.pdf
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.2ed9706017f44c50af1305c7]
 arenden: null
 kalla_url: https://web.archive.org/web/20220319211946id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kultur-och-fritid/handlingar/2021/handlingar-for-mote-namnden-for-kultur--fritid-den-2021-02-18-1.pdf
 sha256: 925d71760d71b6689ff546720e6bc201cd973e83d25604c8c55d559f1f978868

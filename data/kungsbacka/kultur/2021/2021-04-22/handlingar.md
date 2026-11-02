@@ -6,7 +6,7 @@ lopnr: null
 typ: handlingar
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kultur-och-fritid/handlingar/2021/handlingar--kultur--fritid-2021-04-22-1.pdf
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.2ed9706017f44c50af1306ed]
 arenden: null
 kalla_url: https://web.archive.org/web/20220319185229id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kultur-och-fritid/handlingar/2021/handlingar--kultur--fritid-2021-04-22-1.pdf
 sha256: bd0d41b26c9a4bb36c4182a8b851a452ba8c4d9f7d052e0761ae4b217060ffe3

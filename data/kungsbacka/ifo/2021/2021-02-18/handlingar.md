@@ -6,7 +6,7 @@ lopnr: null
 typ: handlingar
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/individ-och-familjeomsorg/handlingar/2021/nif-handlingar-2021-02-18.pdf
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.4aa9d4217f4ee7080a14df6]
 arenden: null
 kalla_url: https://web.archive.org/web/20220320135830id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/individ-och-familjeomsorg/handlingar/2021/nif-handlingar-2021-02-18.pdf
 sha256: 8bf140da7a302d7cd2e7052fa13921d92834fb7ed81632fe5061d399bac07c6d

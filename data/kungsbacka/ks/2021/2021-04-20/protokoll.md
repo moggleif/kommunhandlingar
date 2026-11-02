@@ -6,7 +6,7 @@ lopnr: null
 typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/protokoll/2021/ks-protokoll-2021-04-20.pdf
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.2727e29417ee2988a5015683]
 arenden: null
 kalla_url: https://web.archive.org/web/20220319201941id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/protokoll/2021/ks-protokoll-2021-04-20.pdf
 sha256: c759ac60ce0a5c203ce54070e1dec41d6823b1c76d1470a379c39d346ee0908c

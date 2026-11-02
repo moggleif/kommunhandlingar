@@ -6,7 +6,7 @@ lopnr: null
 typ: protokoll
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/vard--omsorg/protokoll/2021/protokoll-nvo-2021-03-17-nosig.pdf
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.2727e29417ee2988a50372c2]
 arenden: null
 kalla_url: https://web.archive.org/web/20220320014117id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/vard--omsorg/protokoll/2021/protokoll-nvo-2021-03-17-nosig.pdf
 sha256: 3b588ce568c59b5b6b1cfc274b87f1a9cdd34a420bdafb8476184f31c177e221

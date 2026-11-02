@@ -1,0 +1,15 @@
+Verksamhetstyp:,Kärnverksamhet,,,,
+Verksamhetsområde:,Vård och omsorg,,,,
+6.1,Processgrupp: Hantera inrapporterade händelser och anmälningar,,,,
+6.1.1,Hantera inrapporterade händelser,,,,
+6.1.1.4,"Process: Hantera klagomål
+Avser klagomål som inte inkommit genom den formaliserade synpunktshanteringen ”kommentaren” som sker genom kommunens e-
+tjänst. För klagomål som inkommit genom den formaliserade synpunktshanteringen ”kommentaren” genom kommunens e-tjänst, se
+process 1.4.2.1 Hantera klagomål",,,,
+Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
+Ta emot klagomål,Klagomål,Ciceron,Digital,Bevaras,"Diarieförs i Individ och Familjeomsorgs diarium.
+Inkomna klagomål/ synpunkter från enskilda som
+tar emot stöd ska också dokumenteras i den
+enskildes journal."
+"Lämna svar på
+klagomål",Svar på klagomål,Ciceron,Digital,Bevaras,

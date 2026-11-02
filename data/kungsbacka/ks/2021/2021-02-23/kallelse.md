@@ -6,7 +6,7 @@ lopnr: null
 typ: kallelse
 namn: null
 kallnyckel: episerver:kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/dagordning/2021/ks-kallelse-2021-02-23.pdf
-tidigare_kallnycklar: []
+tidigare_kallnycklar: [sitevision:18.2727e29417ee2988a50155c3]
 arenden: null
 kalla_url: https://web.archive.org/web/20220320035133id_/https://www.kungsbacka.se/globalassets/kommun-och-politik/dokument/moten-handlingar-och-protokoll/kommunstyrelsen/dagordning/2021/ks-kallelse-2021-02-23.pdf
 sha256: 1c1f246f9d3e50c801872362a35bafd96350f28d3360f5f22c6cc662236fec84
