@@ -142,9 +142,10 @@ class TestSidor(unittest.TestCase):
 
     def test_meny_sidfot_och_tid_pa_varje_sida(self):
         mall = Mall([exempelby()], REPO, TID)
-        for html in (sidor.startsida(mall), self.statussida()):
-            self.assertIn('href="index.html"', html)
-            self.assertIn('href="exempelby.html"', html)
+        for html, rot in ((sidor.startsida(mall), ""), (self.statussida(), "../")):
+            self.assertIn(f'href="{rot}index.html"', html)
+            self.assertIn(f'href="{rot}exempelby.html"', html)
+            self.assertIn(f'href="{rot}exempelby/status.html"', html)
             self.assertIn(f'href="{REPO}"', html)
             self.assertIn("2026-10-07 20:15 UTC", html)
 
@@ -197,7 +198,8 @@ class TestBygg(unittest.TestCase):
         self.spara(dokument())
         bygg(self.rot, self.ut, REPO, TID)
         self.assertIn("Exempelby kommun", (self.ut / "index.html").read_text())
-        self.assertIn("Dokument: 1", (self.ut / "exempelby.html").read_text())
+        status = self.ut / "exempelby" / "status.html"
+        self.assertIn("Dokument: 1", status.read_text())
 
     def test_okant_organ_typ_eller_kvalitet_stoppar_bygget(self):
         self.spara(dokument(organ="nedlagd", typ="beslut", kvalitet="bra"))

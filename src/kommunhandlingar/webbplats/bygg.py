@@ -1,4 +1,4 @@
-"""Krav: K14, K18, K22, K26, K28, K36 och K37 i docs/02-KRAV.md.
+"""Krav: K14, K18, K22, K26, K28, K36, K37 och K39 i docs/02-KRAV.md.
 Test: tests/test_webbplats.py,
 tests/test_webbplats_dokument.py, tests/test_kalender.py, tests/test_mal.py,
 tests/test_uppfoljningar.py, tests/test_lokalbehov.py, tests/test_initiativ.py.
@@ -15,10 +15,11 @@ from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats import kalender, mal, sidor, spar, uppfoljningar
 from kommunhandlingar.webbplats.dokumentsida import dokumentsida
 from kommunhandlingar.webbplats.kalendersida import kalendersida
-from kommunhandlingar.webbplats.mall import Mall
+from kommunhandlingar.webbplats.mall import Mall, statusadress
 from kommunhandlingar.webbplats.malsida import adress as malsidans_adress
 from kommunhandlingar.webbplats.malsida import malsida
 from kommunhandlingar.webbplats.organsida import organsida
+from kommunhandlingar.webbplats.oversikt import kommunsida
 from kommunhandlingar.webbplats.rakning import okanda, rakna
 from kommunhandlingar.webbplats.sparkort import Vy
 from kommunhandlingar.webbplats.sparsida import adress as sparets_adress
@@ -55,6 +56,8 @@ def bygg_kommun(katalog: Path, ut: Path, mall: Mall, kommun: Kommun) -> None:
         skriv_dokument(fil, ut / kommun.id / falt["adress"], html)
         dokument.append(falt)
     html = sidor.statussida(mall, kommun, dokument)
+    (ut / statusadress(kommun.id)).write_text(html, encoding="utf-8")
+    html = kommunsida(mall, kommun, rakna(kommun, dokument, mall.byggd.date()))
     (ut / f"{kommun.id}.html").write_text(html, encoding="utf-8")
     bygg_organen(ut, mall, kommun, dokument)
 

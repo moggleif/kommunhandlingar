@@ -83,3 +83,4 @@ Regler för det här repot, utöver MADR:
 | 0057 | [Lokalbehoven följs steg för steg ur alla organs dokument, i en CSV per kommun, och visas som målsidan](0057-lokalbehoven-foljs-steg-for-steg-ur-alla-organs-dokument.md) | proposed |
 | 0058 | [Initiativärendena följs steg för steg som lokalbehoven, med samma kod och avsändaren som värde](0058-initiativarenden-foljs-som-lokalbehoven.md) | proposed |
 | 0059 | [Handlingsplanerna följs steg för steg som initiativärendena, med en länk till själva planen](0059-handlingsplanerna-foljs-som-initiativen.md) | proposed |
+| 0060 | [Kommunens sida blir en översikt över organen och deras sidor, organets sidor får flikar och statusen en egen sida](0060-navigeringen-med-oversikt-och-flikar.md) | proposed |

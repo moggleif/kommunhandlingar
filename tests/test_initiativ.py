@@ -137,7 +137,7 @@ class TestBygg(unittest.TestCase):
         bygg(rot, ut, REPO, TID)
         sidan = ut / "exempelby" / "fsn" / "initiativ.html"
         self.assertIn("Initiativärenden – ", sidan.read_text())
-        lank = 'href="fsn/initiativ.html">Initiativärenden över tid'
+        lank = 'href="fsn/initiativ.html">Initiativärenden<'
         self.assertIn(lank, (ut / "exempelby" / "fsn.html").read_text())
         self.assertFalse((ut / "exempelby" / "fsn" / "lokalbehov.html").exists())
 
