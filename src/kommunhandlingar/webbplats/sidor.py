@@ -1,4 +1,4 @@
-"""Krav: K7, K14 och K22 i docs/02-KRAV.md. Test: tests/test_webbplats.py."""
+"""Krav: K7, K14 och K39 i docs/02-KRAV.md. Test: tests/test_webbplats.py."""
 
 from html import escape
 
@@ -6,7 +6,7 @@ from kommunhandlingar.kandidat import TYPORDNING
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.konvertering.kvalitet import KVALITETER
 from kommunhandlingar.webbplats.luckavsnitt import luckavsnitt
-from kommunhandlingar.webbplats.mall import Mall, sida
+from kommunhandlingar.webbplats.mall import Mall, sida, statusadress
 from kommunhandlingar.webbplats.rakning import Organrad, rakna
 
 ARKITEKTUR = "/blob/main/docs/03-ARKITEKTUR.md"
@@ -28,23 +28,18 @@ def startsida(mall: Mall) -> str:
 def statussida(mall: Mall, kommun: Kommun, dokument: list[dict[str, str]]) -> str:
     rader = rakna(kommun, dokument, mall.byggd.date())
     innehall = (
-        kalenderlank(mall, kommun.id)
-        + sammanfattning(dokument)
+        sammanfattning(dokument)
         + "<h2>Dokument per organ</h2>"
-        + dokumenttabell(rader, kommun.id)
+        + dokumenttabell(rader)
         + "<h2>Kvalitet per organ</h2>"
         + f'<p>Nivåerna förklaras i <a href="{escape(mall.repo + ARKITEKTUR)}'
         '#konvertering-och-kvalitet">arkitekturen</a>.</p>'
-        + kvalitetstabell(rader, kommun.id)
+        + kvalitetstabell(rader)
         + luckavsnitt(kommun, rader, mall.repo)
     )
-    return sida(mall, f"{kommun.id}.html", kommun.namn, innehall)
-
-
-def kalenderlank(mall: Mall, kommun_id: str) -> str:
-    if kommun_id not in mall.kalendrar:
-        return ""
-    return f'<p><a href="{kommun_id}/kalender.html">Kalender med sammanträdena</a></p>'
+    return sida(
+        mall, statusadress(kommun.id), f"Poolens status – {kommun.namn}", innehall
+    )
 
 
 def sammanfattning(dokument: list[dict[str, str]]) -> str:
@@ -56,9 +51,9 @@ def sammanfattning(dokument: list[dict[str, str]]) -> str:
     )
 
 
-def dokumenttabell(rader: list[Organrad], kommun_id: str) -> str:
+def dokumenttabell(rader: list[Organrad]) -> str:
     kolumner = ["Sammanträden", *TYPORDNING, "Luckor"]
-    return tabell(kolumner, [(rad, dokumenttal(rad)) for rad in rader], kommun_id)
+    return tabell(kolumner, [(rad, dokumenttal(rad)) for rad in rader])
 
 
 def dokumenttal(rad: Organrad) -> list[int]:
@@ -66,7 +61,7 @@ def dokumenttal(rad: Organrad) -> list[int]:
     return [rad.sammantraden, *typer, len(rad.luckor)]
 
 
-def kvalitetstabell(rader: list[Organrad], kommun_id: str) -> str:
+def kvalitetstabell(rader: list[Organrad]) -> str:
     kolumner = [*KVALITETER, "Sidor med obekräftade tal"]
     return tabell(
         kolumner,
@@ -74,16 +69,13 @@ def kvalitetstabell(rader: list[Organrad], kommun_id: str) -> str:
             (rad, [*(rad.kvaliteter[k] for k in KVALITETER), rad.obekraftade_sidor])
             for rad in rader
         ],
-        kommun_id,
     )
 
 
-def tabell(
-    kolumner: list[str], rader: list[tuple[Organrad, list[int]]], kommun_id: str
-) -> str:
+def tabell(kolumner: list[str], rader: list[tuple[Organrad, list[int]]]) -> str:
     huvud = "".join(f'<th scope="col">{escape(k)}</th>' for k in ["Organ", *kolumner])
     kropp = "".join(
-        f'<tr><th scope="row"><a href="{kommun_id}/{rad.id}.html">'
+        f'<tr><th scope="row"><a href="{rad.id}.html">'
         f"{escape(rad.namn)}</a></th>{celler(rad, tal)}</tr>"
         for rad, tal in rader
     )

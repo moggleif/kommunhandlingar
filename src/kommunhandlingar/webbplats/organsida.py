@@ -1,4 +1,4 @@
-"""Krav: K18, K26, K36 och K37 i docs/02-KRAV.md, ADR-0023.
+"""Krav: K18, K26, K36, K37 och K39 i docs/02-KRAV.md, ADR-0023.
 Test: tests/test_webbplats_dokument.py, tests/test_mal.py, tests/test_lokalbehov.py,
 tests/test_initiativ.py."""
 
@@ -8,10 +8,10 @@ from html import escape
 from kommunhandlingar.frontmatter import adresser, lista
 from kommunhandlingar.kandidat import TYPORDNING
 from kommunhandlingar.konfiguration import Kommun
+from kommunhandlingar.webbplats.flikar import flikar
 from kommunhandlingar.webbplats.luckor import motesnamn
-from kommunhandlingar.webbplats.mall import Mall, lank, rot, sida, stig
+from kommunhandlingar.webbplats.mall import Mall, lank, sida
 from kommunhandlingar.webbplats.rakning import Organrad
-from kommunhandlingar.webbplats.sparslag import SLAGEN
 
 Mote = tuple[str, str]
 
@@ -25,26 +25,11 @@ def organsida(mall: Mall, kommun: Kommun, rad: Organrad, dokument: list[dict]) -
     for mote in sorted(moten, key=ordning, reverse=True):
         ar[mote[0][:4]].append(motesavsnitt(mote, moten[mote], saknas.get(mote, ())))
     adress = f"{kommun.id}/{rad.id}.html"
-    innehall = (
-        stig([(f"{rot(adress)}{kommun.id}.html", kommun.namn)])
-        + overtidlankar(mall, kommun, rad.id)
-    ) + (
+    innehall = (flikar(mall, kommun.id, rad.id, rad.id)) + (
         "".join(f"<h2>{escape(a)}</h2>{''.join(m)}" for a, m in ar.items())
         or "<p>Inget hämtat än.</p>"
     )
     return sida(mall, adress, rad.namn, innehall)
-
-
-# Länkarna till organets sidor över tid, de som har rader.
-def overtidlankar(mall: Mall, kommun: Kommun, organ: str) -> str:
-    sidor = [(mall.malen, "mal-och-direktiv", "Mål och direktiv över tid")]
-    sidor += [(mall.spar.get(s.id, {}), s.id, f"{s.rubrik} över tid") for s in SLAGEN]
-    lankar = [
-        f'<a href="{organ}/{fil}.html">{text}</a>'
-        for rader, fil, text in sidor
-        if any(r.organ == organ for r in rader.get(kommun.id, []))
-    ]
-    return f"<p>{' · '.join(lankar)}</p>" if lankar else ""
 
 
 # Det första sammanträdet en dag har inget löpnummer, nästa har 2 (ADR-0003).

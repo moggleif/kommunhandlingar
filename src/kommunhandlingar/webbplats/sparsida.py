@@ -14,7 +14,8 @@ from html import escape
 from pathlib import Path
 
 from kommunhandlingar.konfiguration import Kommun
-from kommunhandlingar.webbplats.mall import Mall, rot, sida, stig
+from kommunhandlingar.webbplats.flikar import flikar
+from kommunhandlingar.webbplats.mall import Mall, sida
 from kommunhandlingar.webbplats.malsida import SKRIPT, STIL
 from kommunhandlingar.webbplats.mandatperiod import kolumner, rubriker
 from kommunhandlingar.webbplats.spar import Slag, Steg
@@ -41,12 +42,9 @@ def sparsida(mall: Mall, vy: Vy, stegen: list[Steg]) -> str:
     sidans = adress(vy.kommun, organ, slag)
     namn = next(o.namn[0] for o in vy.kommun.organ if o.id == organ)
     sakerna = per_sak(slag, stegen)
-    lankar = [
-        (f"{rot(sidans)}{vy.kommun.id}.html", vy.kommun.namn),
-        (f"../{organ}.html", namn),
-    ]
     innehall = (
-        stig(lankar) + f"<style>{STIL.read_text(encoding='utf-8')}"
+        flikar(mall, vy.kommun.id, organ, slag.id)
+        + f"<style>{STIL.read_text(encoding='utf-8')}"
         f"{EGEN_STIL.read_text(encoding='utf-8')}</style>"
         + slag.inledning
         + f"<details><summary>Om sidan</summary>{slag.metod}<p>Hur och varför "

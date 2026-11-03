@@ -436,8 +436,7 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
   sida säger när den byggdes.
 - **Givet** en sida på webbplatsen
 - **När** den visas
-- **Så** har den samma meny, med startsidan och en statussida per kommun,
-  och en sidfot som länkar till repot.
+- **Så** har den samma meny (K39) och en sidfot som länkar till repot.
 
 ## K15 — Figurer märks och kan tolkas
 
@@ -678,7 +677,7 @@ och [Kalendern](03-ARKITEKTUR.md#kalendern).
 - **Givet** en kommun med en kalenderfil, där varje sammanträde har organ,
   datum och källa
 - **När** webbplatsen byggs
-- **Så** har kommunen en kalendersida, länkad från statussidan, med
+- **Så** har kommunen en kalendersida, länkad från menyn (K39), med
   sammanträdena både som en månadsvy, där varje sammanträde är en ruta på
   sin dag, och som en lista för hela året.
 - **Givet** kalendersidan
@@ -1250,3 +1249,29 @@ och [Handlingsplaner](03-ARKITEKTUR.md#handlingsplaner).
   något annat som stoppar en initiativfil
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med filen, raden och felet.
+
+## K39 — Webbplatsen går att navigera när alla organ har sidor över tid
+
+Hur och varför står i
+[ADR-0060](decisions/0060-navigeringen-med-oversikt-och-flikar.md)
+och [Webbplatsen](03-ARKITEKTUR.md#webbplatsen).
+
+- **Givet** en sida på webbplatsen
+- **När** den visas
+- **Så** har menyn startsidan, för varje kommun kommunens sida, kalendern
+  när kommunen har en och statussidan, och sist avvikelserna.
+- **Givet** en kommunfil
+- **När** webbplatsen byggs
+- **Så** har kommunens sida en rad per organ, i kommunfilens ordning men med
+  varje utskott direkt under organet det hör till (`hor_till`), med antalet
+  sammanträden och en kolumn för varje slags sida över tid. Cellen länkar
+  till organets sida med antalet mål eller saker på den, och har ett streck
+  när organet inte har sidan.
+- **Givet** poolens dokument
+- **När** webbplatsen byggs
+- **Så** står tabellerna över dokument, kvalitet och luckor per organ på en
+  egen statussida, `<kommun>/status.html`.
+- **Givet** ett organs sida eller en av dess sidor över tid
+- **När** den visas
+- **Så** har den flikar: Sammanträden och de sidor över tid som organet
+  har, i samma ordning för alla organ, med den visade sidan markerad.

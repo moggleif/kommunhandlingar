@@ -1399,16 +1399,19 @@ Hur och varför står i
 [ADR-0012](decisions/0012-webbplatsen-byggs-i-actions-och-publiceras-pa-pages.md),
 för dokumenten
 [ADR-0023](decisions/0023-dokumenten-pa-webbplatsen-med-markdown-it-py.md)
-och för avvikelserna
-[ADR-0054](decisions/0054-avvikelserna-pa-webbplatsen-ur-issuen.md).
+för avvikelserna
+[ADR-0054](decisions/0054-avvikelserna-pa-webbplatsen-ur-issuen.md)
+och för navigeringen
+[ADR-0060](decisions/0060-navigeringen-med-oversikt-och-flikar.md).
 Webbplatsen är statisk HTML som byggs av
 `python -m kommunhandlingar.webbplats <utkatalog> <repoadress> <avvikelsefil>`
 och publiceras på GitHub Pages av `.github/workflows/webbplats.yml` vid
 varje push till `main`, för hand och när ett issue med etiketten
 `avvikelse` öppnas, ändras, stängs eller byter etikett. Inget av det som byggs checkas in.
 
-- **Sidorna:** en startsida, en statussida per kommunfil i `kommuner/`
-  (`<kommun>.html`), en sida per organ i kommunfilen
+- **Sidorna:** en startsida, en översikt per kommunfil i `kommuner/`
+  (`<kommun>.html`), en statussida per kommun (`<kommun>/status.html`),
+  en sida per organ i kommunfilen
   (`<kommun>/<organ>.html`), en sida per dokument i poolen, på samma
   sökväg som under `data/` med `.html` i stället för `.md`, och en
   kalender per kommun med en kalenderfil (`<kommun>/kalender.html`,
@@ -1426,10 +1429,22 @@ varje push till `main`, för hand och när ett issue med etiketten
   [Handlingsplaner](#handlingsplaner)),
   och en sida med avvikelserna
   i källan (`avvikelser.html`, se nedan). Sidmallen,
-  menyn och stilen står i `webbplats/mall.py`. Varje sida har samma meny – startsidan, kommunerna
-  i bokstavsordning efter id och avvikelserna – och en sidfot som länkar till repot och
-  säger när sidan byggdes.
-- **Statussidan** räknar ur front matter i varje `.md` under
+  menyn och stilen står i `webbplats/mall.py`. Varje sida har samma meny
+  (K39) – startsidan, för varje kommun i bokstavsordning efter id dess
+  översikt, kalender när den finns och statussida, och sist avvikelserna –
+  och en sidfot som länkar till repot och säger när sidan byggdes.
+- **Kommunens översikt** (K39, `webbplats/oversikt.py`) har en rad per
+  organ i kommunfilens ordning, med varje utskott direkt under organet i
+  `hor_till`, och kolumnerna Sammanträden och en per slags sida över tid.
+  En cell länkar till sidan med antalet: sammanträden, mål (spår i
+  målfilen) eller saker (olika namn i spårfilen). Ett organ utan sidan
+  får ett streck.
+- **Flikarna** (K39, `webbplats/flikar.py`) står överst på organets sida
+  och dess sidor över tid: Sammanträden, Mål och direktiv och sedan
+  spårslagen i ordningen i `sparslag.SLAGEN`, bara de som organet har.
+  Översikten och flikarna läser samma lista (`flikar.overtid`), så att en
+  ny slags sida syns på båda.
+- **Statussidan** (`<kommun>/status.html`) räknar ur front matter i varje `.md` under
   `data/<kommun>/`, utan något index. Den har en rad per organ i
   kommunfilens ordning: antal sammanträden (olika `datum` och `lopnr`),
   antal dokument per `typ`, antal dokument per `kvalitet` och antal sidor
@@ -1495,7 +1510,7 @@ varje push till `main`, för hand och när ett issue med etiketten
 Hur och varför står i
 [ADR-0032](decisions/0032-kalendern-las-ur-besluten-och-skrivs-for-hand.md).
 En kommun med en fil `kalender/<kommun>.csv` får sidan
-`<kommun>/kalender.html` (K22), länkad från statussidan.
+`<kommun>/kalender.html` (K22), länkad från menyn (K39).
 
 - **Filen** är CSV med radslut LF, UTF-8 utan BOM och komma som
   skiljetecken, och den första raden är rubrikerna. En rad per

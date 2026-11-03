@@ -14,9 +14,10 @@ from html import escape
 from pathlib import Path
 
 from kommunhandlingar.konfiguration import Kommun
+from kommunhandlingar.webbplats.flikar import MAL, flikar
 from kommunhandlingar.webbplats.mal import SLAG, Mal
 from kommunhandlingar.webbplats.malkort import korten
-from kommunhandlingar.webbplats.mall import Mall, rot, sida, stig
+from kommunhandlingar.webbplats.mall import Mall, sida
 from kommunhandlingar.webbplats.malstatistik import protokollar, statistik
 from kommunhandlingar.webbplats.maltidslinje import namnden_rad, tidslinje
 
@@ -74,7 +75,7 @@ def fore_malen(forsta_dokument: int, forsta_mal: int) -> str:
 
 
 def adress(kommun: Kommun, organ: str) -> str:
-    return f"{kommun.id}/{organ}/mal-och-direktiv.html"
+    return f"{kommun.id}/{organ}/{MAL}.html"
 
 
 # Alla mål är samma organs, och åren går från målens första till sista år.
@@ -90,12 +91,8 @@ def malsida(mall: Mall, kommun: Kommun, malen: list[Mal], organets: list[dict]) 
     ar = range(min(m.ar for m in malen), max(m.ar for m in malen) + 1)
     dokumentar = {int(d["datum"][:4]) for d in organets}
     luckor = set(ar) - dokumentar - {m.ar for m in malen}
-    lankar = [
-        (f"{rot(sidans)}{kommun.id}.html", kommun.namn),
-        (f"../{organ}.html", namn),
-    ]
     innehall = (
-        stig(lankar)
+        flikar(mall, kommun.id, organ, MAL)
         + f"<style>{STIL.read_text(encoding='utf-8')}</style>"
         + INLEDNING
         + fore_malen(min(dokumentar), ar[0])

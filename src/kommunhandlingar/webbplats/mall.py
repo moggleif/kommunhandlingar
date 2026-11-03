@@ -1,4 +1,4 @@
-"""Krav: K14, K18, K26, K27, K28, K36 och K37 i docs/02-KRAV.md.
+"""Krav: K14, K18, K26, K27, K28, K36, K37 och K39 i docs/02-KRAV.md.
 Test: tests/test_webbplats.py."""
 
 from dataclasses import dataclass, field
@@ -33,6 +33,13 @@ pre { background: #f2f2f2; padding: 0.5rem; overflow-x: auto; }
 .status.uppnatt { color: #1a6b2a; } .status.delvis { color: #8a5a00; }
 .status.ej { color: #b00020; }
 .status.ingen, .status.beslutat { color: #555; }
+.flikar ul { gap: 0.25rem; border-bottom: 2px solid #1a1a1a; margin: 0 0 1.5rem; }
+.flikar a { display: block; padding: 0.35rem 0.8rem; border: 1px solid #999;
+            border-bottom: none; border-radius: 0.4rem 0.4rem 0 0;
+            background: #f6f6f6; }
+.flikar a[aria-current] { background: #1a1a1a; color: #fff; border-color: #1a1a1a; }
+.oversikt td { text-align: center; }
+.oversikt th.utskott { padding-left: 1.8rem; font-weight: normal; }
 footer { border-top: 1px solid #999; margin-top: 3rem; padding: 1rem 0; }
 """
 
@@ -75,16 +82,22 @@ def sida(mall: Mall, adress: str, rubrik: str, innehall: str) -> str:
 
 
 def meny(mall: Mall, aktuell: str) -> str:
-    poster = (
-        [("index.html", "Start")]
-        + [(f"{k.id}.html", k.namn) for k in mall.kommuner]
-        + [(avvikelser.ADRESS, "Avvikelser")]
-    )
+    poster = [("index.html", "Start")]
+    for k in mall.kommuner:
+        poster.append((f"{k.id}.html", k.namn))
+        if k.id in mall.kalendrar:
+            poster.append((f"{k.id}/kalender.html", "Kalender"))
+        poster.append((statusadress(k.id), "Poolens status"))
+    poster.append((avvikelser.ADRESS, "Avvikelser"))
     lankar = "".join(
         menypost(rot(aktuell) + adress, namn, adress == aktuell)
         for adress, namn in poster
     )
     return f'<nav aria-label="Webbplatsen"><ul>{lankar}</ul></nav>'
+
+
+def statusadress(kommun_id: str) -> str:
+    return f"{kommun_id}/status.html"
 
 
 def menypost(adress: str, namn: str, aktuell: bool) -> str:
