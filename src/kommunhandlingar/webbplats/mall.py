@@ -1,4 +1,4 @@
-"""Krav: K14, K18, K26, K27, K28, K36, K37 och K39 i docs/02-KRAV.md.
+"""Krav: K14, K18, K22, K26, K27, K28, K36, K37 och K39 i docs/02-KRAV.md.
 Test: tests/test_webbplats.py."""
 
 from dataclasses import dataclass, field
@@ -39,6 +39,7 @@ pre { background: #f2f2f2; padding: 0.5rem; overflow-x: auto; }
             background: #f6f6f6; }
 .flikar a[aria-current] { background: #1a1a1a; color: #fff; border-color: #1a1a1a; }
 .oversikt td { text-align: center; }
+.dold { position: absolute; width: 1px; height: 1px; overflow: hidden; }
 .oversikt th.utskott { padding-left: 1.8rem; font-weight: normal; }
 footer { border-top: 1px solid #999; margin-top: 3rem; padding: 1rem 0; }
 """

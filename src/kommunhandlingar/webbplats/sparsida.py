@@ -1,4 +1,4 @@
-"""Krav: K36 och K37 i docs/02-KRAV.md, ADR-0057 och ADR-0058.
+"""Krav: K36, K37 och K39 i docs/02-KRAV.md, ADR-0057 och ADR-0058.
 Test: tests/test_lokalbehov.py, tests/test_initiativ.py.
 
 Sidan om ett organs spår av ett slag, byggd som målsidan (ADR-0050): en

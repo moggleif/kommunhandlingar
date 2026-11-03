@@ -8,7 +8,7 @@ from html import escape
 from kommunhandlingar.frontmatter import adresser, lista
 from kommunhandlingar.kandidat import TYPORDNING
 from kommunhandlingar.konfiguration import Kommun
-from kommunhandlingar.webbplats.flikar import flikar
+from kommunhandlingar.webbplats.flikar import SAMMANTRADEN, flikar
 from kommunhandlingar.webbplats.luckor import motesnamn
 from kommunhandlingar.webbplats.mall import Mall, lank, sida
 from kommunhandlingar.webbplats.rakning import Organrad
@@ -25,7 +25,7 @@ def organsida(mall: Mall, kommun: Kommun, rad: Organrad, dokument: list[dict]) -
     for mote in sorted(moten, key=ordning, reverse=True):
         ar[mote[0][:4]].append(motesavsnitt(mote, moten[mote], saknas.get(mote, ())))
     adress = f"{kommun.id}/{rad.id}.html"
-    innehall = (flikar(mall, kommun.id, rad.id, rad.id)) + (
+    innehall = flikar(mall, kommun.id, rad.id, SAMMANTRADEN) + (
         "".join(f"<h2>{escape(a)}</h2>{''.join(m)}" for a, m in ar.items())
         or "<p>Inget hämtat än.</p>"
     )

@@ -9,25 +9,27 @@ from kommunhandlingar.webbplats.mall import Mall, menypost
 from kommunhandlingar.webbplats.sparslag import SLAGEN
 
 MAL = "mal-och-direktiv"
+SAMMANTRADEN = "sammantraden"
+# Sidorna över tid, med id och rubrik, i flikarnas och kolumnernas ordning.
+SIDOR = [(MAL, "Mål och direktiv")] + [(s.id, s.rubrik) for s in SLAGEN]
 
 
-# Sidans id och rubrik, och antalet mål eller saker; tomt när sidan inte
-# finns för organet. Sammanträdena räknas av statussidans räkning.
+# Varje sida över tid och antalet mål eller saker på den för organet; noll
+# när sidan inte finns för organet.
 def overtid(mall: Mall, kommun_id: str, organ: str) -> list[tuple[str, str, int]]:
     malen = [m for m in mall.malen.get(kommun_id, []) if m.organ == organ]
-    sidor = [(MAL, "Mål och direktiv", len({m.spar for m in malen}))]
+    antal = {MAL: len({m.spar for m in malen})}
     for slag in SLAGEN:
         stegen = mall.spar.get(slag.id, {}).get(kommun_id, [])
-        sakerna = {s.namn for s in stegen if s.organ == organ}
-        sidor.append((slag.id, slag.rubrik, len(sakerna)))
-    return sidor
+        antal[slag.id] = len({s.namn for s in stegen if s.organ == organ})
+    return [(sida, rubrik, antal[sida]) for sida, rubrik in SIDOR]
 
 
-# `aktuell` är flikens id: organets id för sammanträdena. Adresserna är
-# relativa till organets sida, och `upp` tar dem dit från en sida över tid.
+# `aktuell` är den visade flikens id. Adresserna är relativa till den
+# visade sidan: organets sida eller, ett steg ner, en sida över tid.
 def flikar(mall: Mall, kommun_id: str, organ: str, aktuell: str) -> str:
-    upp = "" if aktuell == organ else "../"
-    poster = [(f"{upp}{organ}.html", organ, "Sammanträden")] + [
+    upp = "" if aktuell == SAMMANTRADEN else "../"
+    poster = [(f"{upp}{organ}.html", SAMMANTRADEN, "Sammanträden")] + [
         (f"{upp}{organ}/{sida}.html", sida, rubrik)
         for sida, rubrik, antal in overtid(mall, kommun_id, organ)
         if antal

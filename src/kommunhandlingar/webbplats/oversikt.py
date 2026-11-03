@@ -8,16 +8,16 @@ utskott står direkt under organet det hör till.
 from html import escape
 
 from kommunhandlingar.konfiguration import Kommun, Organ
-from kommunhandlingar.webbplats.flikar import overtid
+from kommunhandlingar.webbplats.flikar import SIDOR, overtid
 from kommunhandlingar.webbplats.mall import Mall, sida
 from kommunhandlingar.webbplats.rakning import Organrad
 
-TOM = '<td class="tom">–</td>'
+TOM = '<td class="tom">–<span class="dold"> saknas</span></td>'
 
 
 def kommunsida(mall: Mall, kommun: Kommun, rader: list[Organrad]) -> str:
     sammantraden = {rad.id: rad.sammantraden for rad in rader}
-    kolumner = [rubrik for _, rubrik, _ in overtid(mall, kommun.id, "")]
+    kolumner = [rubrik for _, rubrik in SIDOR]
     huvud = "".join(f'<th scope="col">{escape(k)}</th>' for k in kolumner)
     kropp = "".join(
         organrad(mall, kommun.id, organ, sammantraden[organ.id])

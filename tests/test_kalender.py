@@ -214,7 +214,7 @@ class TestBygg(unittest.TestCase):
         bygg(rot, ut, REPO, TID)
         return ut
 
-    def test_kalendern_byggs_och_lankas_fran_statussidan(self):
+    def test_kalendern_byggs_och_lankas_fran_menyn(self):
         ut = self.bygg(med_kalender=True)
         self.assertIn("BUN", (ut / "exempelby" / "kalender.html").read_text())
         self.assertIn(

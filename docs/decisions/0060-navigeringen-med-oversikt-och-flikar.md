@@ -94,7 +94,8 @@ nya adress.
 ## More Information
 
 Projektägaren tyckte att navigeringen "inte var någon höjdare" och skulle
-snart göra GA:s sidor för alla nämnder. AI-agenten föreslog A med skisser,
+snart göra sidorna över tid, som i dag finns för nämnden för Gymnasium
+& Arbetsmarknad (`ga`), för alla nämnder. AI-agenten föreslog A med skisser,
 där översikten också delade organen i grupper (fullmäktige och styrelse,
 nämnder, övriga) och flikarna hade antalet i sig. Projektägaren sa ja.
 

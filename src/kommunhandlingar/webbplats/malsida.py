@@ -1,4 +1,4 @@
-"""Krav: K26, K27, K29 och K35 i docs/02-KRAV.md, ADR-0044, ADR-0045, ADR-0050,
+"""Krav: K26, K27, K29, K35 och K39 i docs/02-KRAV.md, ADR-0044, ADR-0045, ADR-0050,
 ADR-0051 och ADR-0056. Test: tests/test_mal.py, tests/test_malkort.py och
 tests/test_fokusomraden.py.
 

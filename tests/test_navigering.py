@@ -5,7 +5,7 @@ import unittest
 from collections import Counter
 from dataclasses import replace
 
-from kommunhandlingar.webbplats.flikar import flikar
+from kommunhandlingar.webbplats.flikar import SAMMANTRADEN, flikar
 from kommunhandlingar.webbplats.mal import Mal
 from kommunhandlingar.webbplats.mall import Mall, meny
 from kommunhandlingar.webbplats.oversikt import kommunsida
@@ -53,6 +53,7 @@ class TestNavigering(unittest.TestCase):
         self.assertIn('<a href="exempelby/fsn/mal-och-direktiv.html">2</a>', html)
         self.assertIn('<a href="exempelby/fsn/initiativ.html">2</a>', html)
         self.assertNotIn("exempelby/bun/", html)
+        self.assertEqual(html.count('<td class="tom">'), 4 + 2)
         for rubrik in ("Mål och direktiv", "Lokalbehov", "Handlingsplaner"):
             self.assertIn(f'<th scope="col">{rubrik}</th>', html)
 
@@ -67,7 +68,7 @@ class TestNavigering(unittest.TestCase):
         self.assertIn('<th scope="row" class="utskott">', html)
 
     def test_flikarna_pa_organets_sida(self):
-        html = flikar(self.mall, "exempelby", "fsn", "fsn")
+        html = flikar(self.mall, "exempelby", "fsn", SAMMANTRADEN)
         self.assertIn('href="fsn.html" aria-current="page">Sammanträden', html)
         self.assertIn('href="fsn/mal-och-direktiv.html">Mål och direktiv', html)
         self.assertIn('href="fsn/initiativ.html">Initiativärenden', html)
@@ -80,5 +81,5 @@ class TestNavigering(unittest.TestCase):
         self.assertIn('href="../fsn/initiativ.html" aria-current="page"', html)
 
     def test_organ_utan_sidor_over_tid_har_bara_sammantradena(self):
-        html = flikar(self.mall, "exempelby", "bun", "bun")
+        html = flikar(self.mall, "exempelby", "bun", SAMMANTRADEN)
         self.assertEqual(html.count("<li>"), 1)
