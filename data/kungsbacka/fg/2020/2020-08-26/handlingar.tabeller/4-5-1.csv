@@ -1,0 +1,38 @@
+,Andel som uppnått kunskapskraven,,
+Skolenhet,Faktiskt utfall (F),Modellberäknat värde (B),Residual (R=F-B)
+Frillesåsskolan 4-9,73,75,-2
+Fullriggaren Malevik 4-9,95,88,7
+Hedeskolan Kattegatt,83,81,2
+Hålabäcksskolan B,68,77,-9
+Kapareskolan A-D,76,87,-11
+Kapareskolan E-H,88,84,4
+Kollaskolan 6-9,90,84,6
+Kullaviksskolan 7-9,89,88,1
+Smedingeskolan Norr,78,77,1
+Smedingeskolan Söder,66,70,-4
+Särö skola 4-9,93,88,5
+Toråsskolan 7-9,85,76,9
+Varlaskolan norra,89,78,11
+Varlaskolan södra,82,86,-4
+Åsa Gårdsskola 4-9,82,85,-3
+Åsaskolan 6-9,82,83,-1
+Älvsåkersskolan 4-9,65,72,-7
+,Genomsnittligt meritvärde,,
+Skolenhet,Faktiskt värde (F),Modell- beräknat värde (B),Residual (R=F-B)
+Frillesåsskolan 4-9,218,225,-7
+Fullriggaren Malevik 4-9,278,257,22
+Hedeskolan Kattegatt,242,239,3
+Hålabäcksskolan B,227,233,-6
+Kapareskolan A-D,216,252,-35
+Kapareskolan E-H,243,248,-4
+Kollaskolan 6-9,245,245,0
+Kullaviksskolan 7-9,262,258,4
+Smedingeskolan Norr,219,234,-15
+Smedingeskolan Söder,205,221,-16
+Särö skola 4-9,269,253,16
+Toråsskolan 7-9,229,229,0
+Varlaskolan norra,235,231,5
+Varlaskolan södra,244,253,-9
+Åsa Gårdsskola 4-9,234,245,-11
+Åsaskolan 6-9,242,247,-5
+Älvsåkersskolan 4-9,220,221,-1
