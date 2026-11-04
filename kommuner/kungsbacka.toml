@@ -2,9 +2,12 @@
 # och hur kommunen publicerar i docs/kallor/kungsbacka.md.
 #
 # Organen står i den ordning de hämtas (K13, ADR-0010). Ett utskott har
-# `hor_till`, så att det får sin nämnds färgton i kalendern (K22).
+# `hor_till`, så att det får sin nämnds färgton i kalendern (K22) och står
+# under sin nämnd på kommunens sida. Övriga organ har en `grupp` ur
+# `grupper`, som delar in kommunens sida (K39).
 
 namn = "Kungsbacka kommun"
+grupper = ["Kommunfullmäktige och kommunstyrelsen", "Nämnderna", "Övriga"]
 
 # Påslaget för omkonverteringen i #84 (ADR-0019); raden tas bort när
 # poolen är omkonverterad.
@@ -13,10 +16,12 @@ omkonvertera = true
 [[organ]]
 id = "ga"
 namn = ["Nämnden för Gymnasium & Arbetsmarknad"]
+grupp = "Nämnderna"
 
 [[organ]]
 id = "fg"
 namn = ["Nämnden för Förskola & Grundskola"]
+grupp = "Nämnderna"
 
 [[organ]]
 id = "fg-au"
@@ -26,6 +31,7 @@ hor_till = "fg"
 [[organ]]
 id = "bygg"
 namn = ["Byggnadsnämnden"]
+grupp = "Nämnderna"
 
 [[organ]]
 id = "bygg-au"
@@ -35,6 +41,7 @@ hor_till = "bygg"
 [[organ]]
 id = "teknik"
 namn = ["Nämnden för Teknik"]
+grupp = "Nämnderna"
 
 [[organ]]
 id = "teknik-au"
@@ -44,34 +51,42 @@ hor_till = "teknik"
 [[organ]]
 id = "service"
 namn = ["Nämnden för Service"]
+grupp = "Nämnderna"
 
 [[organ]]
 id = "ifo"
 namn = ["Nämnden för Individ & Familjeomsorg"]
+grupp = "Nämnderna"
 
 [[organ]]
 id = "kultur"
 namn = ["Nämnden för Kultur & Fritid"]
+grupp = "Nämnderna"
 
 [[organ]]
 id = "miljo"
 namn = ["Nämnden för Miljö & Hälsoskydd"]
+grupp = "Nämnderna"
 
 [[organ]]
 id = "vo"
 namn = ["Nämnden för Vård & Omsorg"]
+grupp = "Nämnderna"
 
 [[organ]]
 id = "val"
 namn = ["Valnämnden"]
+grupp = "Övriga"
 
 [[organ]]
 id = "revision"
 namn = ["Kommunrevisionen"]
+grupp = "Övriga"
 
 [[organ]]
 id = "ks"
 namn = ["Kommunstyrelsen"]
+grupp = "Kommunfullmäktige och kommunstyrelsen"
 
 [[organ]]
 id = "ks-au"
@@ -81,6 +96,7 @@ hor_till = "ks"
 [[organ]]
 id = "kf"
 namn = ["Kommunfullmäktige"]
+grupp = "Kommunfullmäktige och kommunstyrelsen"
 
 # Mötessidorna på kungsbacka.se (ADR-0011): organet är sidans, typen står i
 # filnamnet, och datumet i filnamnet eller i mötets rubrik. Organen i wayback

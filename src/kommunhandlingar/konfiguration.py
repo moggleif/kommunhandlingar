@@ -10,7 +10,7 @@ from kommunhandlingar import schema
 from kommunhandlingar.adaptrar import episerver, sitevision
 from kommunhandlingar.fel import Konfigurationsfel
 
-ORGANFALT = {"id", "namn", "fran", "till", "foregangare", "hor_till"}
+ORGANFALT = {"id", "namn", "fran", "till", "foregangare", "hor_till", "grupp"}
 
 
 @dataclass(frozen=True)
@@ -21,6 +21,8 @@ class Organ:
     till: date | None
     foregangare: tuple[str, ...]
     hor_till: str | None = None
+    # Gruppen organet står i på kommunens sida; ett utskott står i sitt organs.
+    grupp: str | None = None
 
 
 @dataclass(frozen=True)
@@ -32,6 +34,8 @@ class Kommun:
     omkonvertera: bool
     # Källor som bara finns i Internet Archive (ADR-0039).
     arkivkallor: tuple[episerver.Kalla, ...]
+    # Grupperna på kommunens sida, i sin ordning (K39).
+    grupper: tuple[str, ...] = ()
 
 
 def las(sokvag: Path) -> Kommun:
@@ -41,11 +45,13 @@ def las(sokvag: Path) -> Kommun:
 
 def tolka(kommun_id: str, data: dict) -> Kommun:
     schema.kontrollera_falt(
-        data, {"namn", "organ", "kalla", "omkonvertera"}, "kommunen"
+        data, {"namn", "organ", "kalla", "omkonvertera", "grupper"}, "kommunen"
     )
     namn = schema.varde(data, "namn", str, "kommunen")
     organ = tuple(organ_av(post) for post in poster(data, "organ"))
     kontrollera_organ(organ)
+    grupper = schema.textlista(data, "grupper", "kommunen")
+    kontrollera_grupper(organ, grupper)
     organ_id = [o.id for o in organ]
     alla = [
         kalla_av(post, i, organ_id) for i, post in enumerate(poster(data, "kalla"), 1)
@@ -58,6 +64,7 @@ def tolka(kommun_id: str, data: dict) -> Kommun:
         tuple(k for k in alla if isinstance(k, sitevision.Kalla)),
         omkonvertera,
         tuple(k for k in alla if isinstance(k, episerver.Kalla)),
+        grupper,
     )
 
 
@@ -81,6 +88,7 @@ def organ_av(post: dict) -> Organ:
         schema.valfritt(post, "till", date, var),
         schema.textlista(post, "foregangare", var),
         schema.valfritt(post, "hor_till", str, var),
+        schema.valfritt(post, "grupp", str, var),
     )
 
 
@@ -108,6 +116,15 @@ def kontrollera_hanvisningar(organ: tuple[Organ, ...]) -> None:
             raise Konfigurationsfel(
                 f"organ {o.id!r}: hor_till {o.hor_till!r} finns inte"
             )
+
+
+# Med grupper har varje organ som inte är utskott en av dem; ett utskott
+# står i sitt organs grupp och har ingen egen.
+def kontrollera_grupper(organ: tuple[Organ, ...], grupper: tuple[str, ...]) -> None:
+    for o in organ:
+        ska_ha = bool(grupper) and not o.hor_till
+        if (o.grupp is not None) != ska_ha or (o.grupp and o.grupp not in grupper):
+            raise Konfigurationsfel(f"organ {o.id!r}: grupp {o.grupp!r} passar inte")
 
 
 def normaliserat(namn: str) -> str:

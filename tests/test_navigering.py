@@ -48,10 +48,10 @@ class TestNavigering(unittest.TestCase):
 
     def test_oversikten_har_en_kolumn_per_sida_och_antalet(self):
         rader = [rad("bun", 0), rad("fsn", 4)]
-        html = kommunsida(self.mall, exempelby(), rader)
+        html = kommunsida(self.mall, exempelby(), rader, [])
         self.assertIn('<a href="exempelby/fsn.html">4</a>', html)
-        self.assertIn('<a href="exempelby/fsn/mal-och-direktiv.html">2</a>', html)
-        self.assertIn('<a href="exempelby/fsn/initiativ.html">2</a>', html)
+        self.assertIn('<a href="exempelby/fsn/mal-och-direktiv.html">2 mål</a>', html)
+        self.assertIn('<a href="exempelby/fsn/initiativ.html">2 ärenden</a>', html)
         self.assertNotIn("exempelby/bun/", html)
         self.assertEqual(html.count('<td class="tom">'), 4 + 2)
         for rubrik in ("Mål och direktiv", "Lokalbehov", "Handlingsplaner"):
@@ -59,13 +59,48 @@ class TestNavigering(unittest.TestCase):
 
     def test_utskottet_star_under_sin_namnd(self):
         rader = [rad("bun", 0), rad("fsn", 4), rad("bun-au", 1)]
-        html = kommunsida(self.mall, kommun_med_utskott(), rader)
+        html = kommunsida(self.mall, kommun_med_utskott(), rader, [])
         bun, utskott, fsn = (
             html.index(f'"exempelby/{o}.html"') for o in ("bun", "bun-au", "fsn")
         )
         self.assertLess(bun, utskott)
         self.assertLess(utskott, fsn)
         self.assertIn('<th scope="row" class="utskott">', html)
+
+    def test_oversikten_borjar_med_dokumenten(self):
+        dokument = [{"datum": "2024-05-02"}, {"datum": "2013-08-13"}] * 600
+        html = kommunsida(
+            self.mall, exempelby(), [rad("bun", 0), rad("fsn", 0)], dokument
+        )
+        self.assertIn("<p>1 200 dokument från 2013-08-13 till 2024-05-02.", html)
+
+    def test_organen_star_i_kommunfilens_grupper(self):
+        kommun = kommun_med_utskott()
+        bun, fsn, utskott = kommun.organ
+        kommun = replace(
+            kommun,
+            grupper=("Nämnderna", "Övriga"),
+            organ=(
+                replace(bun, grupp="Övriga"),
+                replace(fsn, grupp="Nämnderna"),
+                utskott,
+            ),
+        )
+        rader = [rad("bun", 0), rad("fsn", 4), rad("bun-au", 1)]
+        html = kommunsida(self.mall, kommun, rader, [])
+        ordning = [
+            html.index(t)
+            for t in (
+                "Nämnderna",
+                "exempelby/fsn.html",
+                "Övriga",
+                "exempelby/bun.html",
+                "exempelby/bun-au.html",
+            )
+        ]
+        self.assertEqual(ordning, sorted(ordning))
+        self.assertEqual(html.count('<th scope="rowgroup" colspan="6">'), 2)
+        self.assertEqual(html.count("<tbody>"), 2)
 
     def test_flikarna_pa_organets_sida(self):
         html = flikar(self.mall, "exempelby", "fsn", SAMMANTRADEN)
