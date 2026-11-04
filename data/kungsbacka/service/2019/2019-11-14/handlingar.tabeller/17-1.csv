@@ -1,0 +1,63 @@
+Säkerhet,,,
+**Skalskydd,,,
+"Inbrottslarmanläggning,
+klassning enligt SSF 130,
+skydsklass 2",Finns men ej rätt klass,"Nej, men
+genomförbart.","Skall uppfylla MSBs
+riktlinjer för
+myndigheters
+informationssäkerhet."
+"Mekaniskt inbrottsskydd,
+klassning enligt SSF 200,
+skyddsklass 2","Nej, men mängden
+material i väggarna gör
+att det kanske kan
+godkännas efter
+genomgång av konsult.","Nej, men placering av
+hallen på 5e våniong
+dit ingen har tillträde
+gör att behovet är lite
+mindre.","Skall uppfylla MSBs
+riktlinjer för
+myndigheters
+informationssäkerhet."
+"Elektromekanisk
+låsanläggning, klassning
+enligt SSF 210","Nej, men genomförbart.","Nej, men
+genomförbart.","Skall uppfylla MSBs
+riktlinjer för
+myndigheters
+informationssäkerhet."
+"Hur hanteras behörigheter
+och access, vem/vilka kan
+ge access.",Kvarstår,Kvarstår,"Skall uppfylla MSBs
+riktlinjer för
+myndigheters
+informationssäkerhet."
+"Skyddsklass dörrar enligt SS
+EN 1627, SSF 200","Nej, men hallen är
+utrustade med dubbla
+dörrar i varje ingång.
+Kan kanske efter
+genomgång med konsult
+godkännas","Nej, men hallen är
+utrustade med dubbla
+dörrar i varje ingång.
+Kan kanske efter
+genomgång med
+konsult godkännas","Skall uppfylla MSBs
+riktlinjer för
+myndigheters
+informationssäkerhet."
+Kameror,På gång,Nej,"Skall uppfylla MSBs
+riktlinjer för
+myndigheters
+informationssäkerhet."
+Fönster i hall?,Nej,Nej,Nej
+Bevakning,Rondering runt stadshus,"Ingen aktiv bevakning
+med ronder.","Ingen aktiv bevakning
+med ronder."
+**Brandskydd,,,
+Brandklassning EI120,Nej. EI60,Nej,Ja
+"Brandlarm kopplat till
+larmcentral SBF 110:8",Ja,Ja,Ja

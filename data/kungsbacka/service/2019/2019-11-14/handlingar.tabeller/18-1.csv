@@ -1,0 +1,32 @@
+"Släckutrustning, klassning","Uppfyller MSBs riktlinjer
+för myndigheters
+informationssäkerhet.","Uppfyller MSBs
+riktlinjer för
+myndigheters
+informationssäkerhet.","Skall uppfylla MSBs
+riktlinjer för
+myndigheters
+informationssäkerhet."
+"Utrymningsvägar finns och
+är ordentligt uppmärkta",Ja,Ja,Ja
+**Strömförsörjning,,,
+UPS,Ja,Ja,Ja
+Dieselagregat,Ja,Nej,Ja
+**Klimat,,,
+Kyla,Ja,Ja,Ja
+Redundant kyla,Ja,"Nej, dock får jouren
+larm om temperaturen
+ökar och kan vidta
+åtgärder.",Ja
+"Nyttjande -
+annanverkamhet","Ja, Kungsbacka
+Bredbandsnät.",Nej,Nej
+**Redundans,,,
+"Är datat bevarat i flera
+exemplar med identiskt
+innehåll (RA-FS 2009:1, 4
+kap. 17 §)","Ja, datat finns både i
+Stadshuset och
+Aranäshallen","Ja, datat finns både i
+Stadshuset och
+Aranäshallen",Ja

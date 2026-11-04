@@ -1,0 +1,11 @@
+KOD,Inom Trafik & Park,KOD,Inom Bredband/ Avfall,KOD,Inom VA
+GC,Gång- & cykelväg,KBAN,Anslutning,VUTR,Utredning
+GATA,Gatu- & vägbyggnation,KBST,Stamnät,VUTB,Utbyggnad VA (ny utbyg. & större förnyelseprojekt)
+TS,Trafiksäkerhetsåtgärder,KBUN,Underhåll,VOMV,Omvandling VA (sanering)
+CPL,Cirkulationsplats,KBKA,Kanalisation,VDUF,Drift underhåll förnyelse (enklare omlägging)
+HPL,Hållplats,KBFI,Fiber,,
+BUL,Bulleråtgärder,KBNO,Teknikbod,,
+TG,Tillgänglighet,DEP,Deponier,,
+BEL,Belysning,,,,
+LEK,Lekplats,,,,
+GRÖ,"Grönyta, park",,,,
