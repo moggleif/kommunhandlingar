@@ -268,7 +268,9 @@ regex = '^Protokoll för (?P<organ>.+?)\s+(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag
 | `organ.namn`           | Alla namn källorna använt för organet, minst ett.            |
 | `organ.fran`, `till`   | Giltighetsperioden, som datum. Ett utelämnat värde är öppet åt det hållet. |
 | `organ.foregangare`    | Id för organ som gick upp i det här (datamodellen). Varje id finns i filen. |
-| `organ.hor_till`       | Id för organet det här är utskott till, så att de får samma färgton i [kalendern](#kalendern). Utelämnas annars. |
+| `organ.hor_till`       | Id för organet det här är utskott till, så att de får samma färgton i [kalendern](#kalendern) och utskottet står under organet på kommunens sida. Utelämnas annars. |
+| `grupper`              | Rubrikerna som delar in kommunens sida ([Webbplatsen](#webbplatsen)), i sin ordning. Utelämnas när sidan inte ska delas in. |
+| `organ.grupp`          | Gruppen ur `grupper` som organet står i. Krävs med grupper för varje organ utan `hor_till`, och utelämnas för utskott. |
 | `kalla.adapter`        | Adaptern som läser källan.                                   |
 | `kalla.monster`        | Hur adaptern översätter en rubrik, ett filnamn eller en sökväg till organ, datum och typ. |
 | `kalla.manader`        | Månadernas namn i källan, januari först. Utelämnas när källan skriver månaden med siffror. |
@@ -1433,12 +1435,15 @@ varje push till `main`, för hand och när ett issue med etiketten
   (K39) – startsidan, för varje kommun i bokstavsordning efter id dess
   översikt, kalender när den finns och statussida, och sist avvikelserna –
   och en sidfot som länkar till repot och säger när sidan byggdes.
-- **Kommunens översikt** (K39, `webbplats/oversikt.py`) har en rad per
-  organ i kommunfilens ordning, med varje utskott direkt under organet i
-  `hor_till`, och kolumnerna Sammanträden och en per slags sida över tid.
-  En cell länkar till sidan med antalet: sammanträden, mål (spår i
-  målfilen) eller saker (olika namn i spårfilen). Ett organ utan sidan
-  får ett streck.
+- **Kommunens översikt** (K39, `webbplats/oversikt.py`) börjar med
+  antalet dokument och det äldsta och senaste datumet. Tabellen har en
+  rad per organ i kommunfilens ordning, med varje utskott direkt under
+  organet i `hor_till`, och kolumnerna Sammanträden och en per slags sida
+  över tid. Med `grupper` i kommunfilen står varje grupp i en egen
+  `<tbody>` med gruppens namn som rubrik. En cell länkar till sidan med
+  antalet och vad som räknas: sammanträden, mål (spår i målfilen) eller
+  saker (olika namn i spårfilen, med slagets ord, som "12 behov"). Ett
+  organ utan sidan får ett streck.
 - **Flikarna** (K39, `webbplats/flikar.py`) står överst på organets sida
   och dess sidor över tid: Sammanträden, Mål och direktiv och sedan
   spårslagen i ordningen i `sparslag.SLAGEN`, bara de som organet har.

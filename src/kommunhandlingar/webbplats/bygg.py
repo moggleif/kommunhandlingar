@@ -57,7 +57,8 @@ def bygg_kommun(katalog: Path, ut: Path, mall: Mall, kommun: Kommun) -> None:
         dokument.append(falt)
     html = sidor.statussida(mall, kommun, dokument)
     (ut / statusadress(kommun.id)).write_text(html, encoding="utf-8")
-    html = kommunsida(mall, kommun, rakna(kommun, dokument, mall.byggd.date()))
+    rader = rakna(kommun, dokument, mall.byggd.date())
+    html = kommunsida(mall, kommun, rader, dokument)
     (ut / f"{kommun.id}.html").write_text(html, encoding="utf-8")
     bygg_organen(ut, mall, kommun, dokument)
 

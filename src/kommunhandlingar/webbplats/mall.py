@@ -40,6 +40,7 @@ pre { background: #f2f2f2; padding: 0.5rem; overflow-x: auto; }
 .flikar a[aria-current] { background: #1a1a1a; color: #fff; border-color: #1a1a1a; }
 .oversikt td { text-align: center; }
 .dold { position: absolute; width: 1px; height: 1px; overflow: hidden; }
+.oversikt tr.grupp th { background: #eee; text-align: left; }
 .oversikt th.utskott { padding-left: 1.8rem; font-weight: normal; }
 footer { border-top: 1px solid #999; margin-top: 3rem; padding: 1rem 0; }
 """

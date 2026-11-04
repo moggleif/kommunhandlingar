@@ -1,4 +1,5 @@
-"""Krav: K1 och K22 i docs/02-KRAV.md. Kod: src/kommunhandlingar/konfiguration.py."""
+"""Krav: K1, K22 och K39 i docs/02-KRAV.md.
+Kod: src/kommunhandlingar/konfiguration.py."""
 
 import copy
 import tomllib
@@ -74,6 +75,22 @@ class TestFelStopparKorningen(unittest.TestCase):
         data = exempelby()
         data["organ"][1]["hor_till"] = "bun"
         self.assertEqual(tolka("exempelby", data).organ[1].hor_till, "bun")
+
+    def test_grupperna(self):
+        def grupper(data):
+            data["grupper"] = ["Nämnderna"]
+            for organ in data["organ"]:
+                organ["grupp"] = "Nämnderna"
+
+        data = exempelby()
+        grupper(data)
+        kommun = tolka("exempelby", data)
+        self.assertEqual(kommun.grupper, ("Nämnderna",))
+        self.assertEqual(kommun.organ[0].grupp, "Nämnderna")
+        self.stoppas(lambda d: (grupper(d), d["organ"][0].update(grupp="Övriga")))
+        self.stoppas(lambda d: (grupper(d), d["organ"][0].pop("grupp")))
+        self.stoppas(lambda d: d["organ"][0].update(grupp="Nämnderna"))
+        self.stoppas(lambda d: (grupper(d), d["organ"][1].update(hor_till="bun")))
 
     def test_samma_namn_med_overlappande_period(self):
         def overlapp(data):

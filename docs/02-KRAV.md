@@ -1262,11 +1262,22 @@ och [Webbplatsen](03-ARKITEKTUR.md#webbplatsen).
   när kommunen har en och statussidan, och sist avvikelserna.
 - **Givet** en kommunfil
 - **När** webbplatsen byggs
-- **Så** har kommunens sida en rad per organ, i kommunfilens ordning men med
-  varje utskott direkt under organet det hör till (`hor_till`), med antalet
-  sammanträden och en kolumn för varje slags sida över tid. Cellen länkar
-  till organets sida med antalet mål eller saker på den, och har ett streck
-  när organet inte har sidan.
+- **Så** börjar kommunens sida med antalet dokument och det äldsta och
+  senaste sammanträdets datum, och har sedan en rad per organ, i
+  kommunfilens ordning men med varje utskott direkt under organet det hör
+  till (`hor_till`), med antalet sammanträden och en kolumn för varje
+  slags sida över tid. Cellen länkar till organets sida med antalet mål
+  eller saker på den, som "28 mål", och har ett streck när organet inte
+  har sidan.
+- **Givet** en kommunfil med grupper
+- **När** webbplatsen byggs
+- **Så** står organen på kommunens sida under sin grupps rubrik, i
+  gruppernas ordning, och ett utskott i sitt organs grupp.
+- **Givet** en kommunfil med grupper där ett organ som inte är utskott
+  saknar grupp, ett utskott har en egen grupp, eller en grupp inte finns
+  bland grupperna
+- **När** kommunfilen läses
+- **Så** stoppas körningen med organet.
 - **Givet** poolens dokument
 - **När** webbplatsen byggs
 - **Så** står tabellerna över dokument, kvalitet och luckor per organ på en

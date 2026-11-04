@@ -41,10 +41,14 @@ Valt: A, eftersom översikten visar både vad som finns och vad som
 
 * **Menyn**: Start, för varje kommun dess sida, kalendern när den finns och
   Poolens status, och sist Avvikelser.
-* **Kommunens sida** (`<kommun>.html`) har en rad per organ med antalet
-  sammanträden och en kolumn per slags sida över tid med antalet mål eller
-  saker, eller ett streck. Utskotten står under sin nämnd med det
-  `hor_till` som kommunfilen redan har för kalenderns färger.
+* **Kommunens sida** (`<kommun>.html`) börjar med antalet dokument och
+  har en rad per organ med antalet sammanträden och en kolumn per slags
+  sida över tid med antalet mål eller saker ("12 behov"), eller ett
+  streck. Utskotten står under sin nämnd med det `hor_till` som
+  kommunfilen redan har för kalenderns färger.
+* **Grupperna** (fullmäktige och styrelse, nämnderna, övriga) står i
+  kommunfilen: `grupper` med rubrikerna i ordning och `grupp` på varje
+  organ som inte är utskott. Utan grupper blir sidan en enda tabell.
 * **Statussidan** flyttar till `<kommun>/status.html` med samma innehåll.
 * **Flikarna** ersätter textraden och stigen på organets sida och på
   dess sidor över tid. Översikten och flikarna byggs ur samma lista.
@@ -99,10 +103,13 @@ snart göra sidorna över tid, som i dag finns för nämnden för Gymnasium
 där översikten också delade organen i grupper (fullmäktige och styrelse,
 nämnder, övriga) och flikarna hade antalet i sig. Projektägaren sa ja.
 
-När sidan byggdes valde agenten att låta grupperna vänta, eftersom de
-skulle kräva en ny uppgift i kommunfilen, medan utskotten under sin nämnd
-redan går att läsa ur `hor_till`. Antalet står i översikten men inte i
-flikarna, eftersom sidorna över tid inte har organets sammanträden att
-räkna. Rubrikerna på sidorna över tid är som förut.
+När sidan byggdes första gången lät agenten grupperna, enheterna och
+raden om dokumenten vänta, eftersom grupperna kräver en ny uppgift i
+kommunfilen. Projektägaren frågade varför sidan inte såg ut som skissen,
+och de lades till. Grupperna står i kommunfilen och inte i koden,
+eftersom vilka organ en kommun har och hur de hör ihop är kommunens.
+Antalet står i översikten men inte i flikarna, eftersom sidorna över tid
+inte har organets sammanträden att räkna. Rubrikerna på sidorna över tid
+är som förut.
 
 Brödsmulorna på dokumentens sidor och kalendern står kvar.
