@@ -105,10 +105,16 @@ två startas står i K11.
   `.github/workflows/nattkorning.yml` startar det varje natt och för hand
   (`workflow_dispatch`), i en `concurrency`-grupp utan
   `cancel-in-progress`. Gruppen håller högst en körning i kö; en senare
-  start ersätter den som väntar. Jobbet kör upptäckten och steg 2 för
-  varje kommunfil i `kommuner/`, och sedan detsamma med `--arkiv`. Ett fel
-  i arkivets steg stoppar inte jobbet (`continue-on-error`), så att det som
-  hämtats från de levande källorna ändå kontrolleras och checkas in.
+  start ersätter den som väntar. Medan arkivet har kandidater som väntar
+  startar schemat två körningar om dygnet; den andra raden i `cron` tas
+  bort när arkivet är ikapp (ADR-0061). Jobbet kör upptäckten och steg 2
+  för varje kommunfil i `kommuner/`, och sedan detsamma med `--arkiv`.
+  Stoppas upptäckten i en kommuns levande källor av en källsida (kod 3)
+  hoppar jobbet över kommunens levande steg 2, skriver det i
+  sammanfattningen och går vidare (ADR-0061); upptäckten skriver inget i
+  `data/`. Ett annat fel i upptäckten stoppar jobbet. Ett fel i arkivets steg
+  stoppar inte jobbet (`continue-on-error`), så att det som hämtats från
+  de levande källorna ändå kontrolleras och checkas in.
 - **Varje körning börjar från en ren utcheckning av `main`.**
 - **Tidsbudget, räknat från jobbets start** (`hamta --start`). Efter 5
   timmar startas inget nytt dokument. Efter 5 timmar och 30 minuter
@@ -440,13 +446,15 @@ standardbiblioteket.
 
 - **Intervallet** hålls för varje värd för sig, över alla kommuner i
   körningen; en ny kommun på en ny värd ändrar alltså inte filen.
-- **`robots.txt`** hämtas en gång per värd och körning och läses enligt
-  RFC 9309: gruppen för vår produkt (User-Agent fram till första `/` eller
-  mellanslag) gäller, annars gruppen `*`; den längsta regel som träffar
+- **`robots.txt`** läses en gång per värd och körning, när den gick att
+  hämta, och tolkas enligt RFC 9309: gruppen för vår produkt (User-Agent
+  fram till första `/` eller mellanslag) gäller, annars gruppen `*`; den längsta regel som träffar
   sökvägen med frågesträng avgör, och `Allow` vinner vid lika längd. `*`
   och `$` stöds, och reglerna procentkodas innan de jämförs. Svarar
   `robots.txt` 4xx, utom 429, gäller inga regler. Går den inte att hämta
-  hämtas ingenting från värden. En stängd adress ger orsaken `robots`.
+  hämtas ingenting från värden, med orsaken `robots-` och felet, och
+  nästa adress på värden prövar den igen (ADR-0061). En stängd adress ger
+  orsaken `robots`.
 - **Nya försök** görs vid 429, 5xx, tidsgräns (60 sekunder), när servern
   stänger anslutningen utan svar och när svaret bryts av: efter 5, 10 och
   20 sekunder, eller den tid `Retry-After` anger, högst 300 sekunder.
@@ -456,6 +464,8 @@ standardbiblioteket.
   inte följs, så att målet aldrig hämtas utan att prövas mot `robots.txt`
   och intervallet. Orsaken är `http-<kod>`. En server som inte går att nå
   ger `anslutning`, och en sida som inte går att avkoda `teckenkodning`.
+  Undantaget är `robots.txt`, där en omdirigering och `anslutning` också
+  försöks igen, eftersom de har visat sig gå över (ADR-0061).
 
 ### Kandidatlistan
 
@@ -467,7 +477,10 @@ K13, en post per kandidat med fälten `organ`, `datum` (`ÅÅÅÅ-MM-DD`),
 `typ`, `url`, `kalla`, `kallnyckel` och `filnamn`. Sammanfattningen
 skrivs ut: antal kandidater per organ och varje fil som inte blev
 kandidat, med orsak och källsida. En källsida som inte går att hämta
-stoppar körningen innan listan skrivs, utom i arkivet ([Arkivet](#arkivet)).
+stoppar upptäckten innan listan skrivs, med kod 3, utom i arkivet
+([Arkivet](#arkivet)). Nattkörningen hoppar då över kommunens levande
+steg 2 och går vidare (ADR-0061); ett annat fel ger kod 1 och stoppar
+körningen.
 
 ### Arkivet
 

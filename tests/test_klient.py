@@ -1,4 +1,5 @@
-"""Krav: K10 i docs/02-KRAV.md, ADR-0013. Kod: src/kommunhandlingar/hamtning/."""
+"""Krav: K10 i docs/02-KRAV.md, ADR-0013 och ADR-0061.
+Kod: src/kommunhandlingar/hamtning/."""
 
 import tempfile
 import threading
@@ -130,9 +131,10 @@ class TestKlient(unittest.TestCase):
         with mock.patch.object(klient, "TIDSGRANS", 0.1):
             self.assertEqual(self.klient.text(self.bas + "/a"), "ok")
 
-    def test_ingen_server_ger_anslutning(self):
+    def test_ingen_server_ger_anslutning_efter_nya_forsok(self):
         with self.assertRaisesRegex(Hamtfel, "^robots-anslutning$"):
             self.klient.text("http://127.0.0.1:1/a")
+        self.assertEqual(self.vantat, [5, 10, 20])
 
     def test_okand_teckenkodning(self):
         Server.svar["/a"] = [(200, {"Content-Type": "text/html; charset=foo"}, "x")]
@@ -162,12 +164,25 @@ class TestKlient(unittest.TestCase):
         self.klient.text(self.bas.replace("http", "HTTP") + "/b")
         self.assertEqual(self.vantat, [5, 5])
 
-    def test_fel_pa_robots_minns_for_varden(self):
-        Server.svar["/robots.txt"] = [(503, {}, "")] * 4
-        for _ in range(2):
-            with self.assertRaisesRegex(Hamtfel, "^robots-http-503$"):
-                self.klient.text(self.bas + "/a")
-        self.assertEqual(len(Server.anrop), 4)
+    def test_fel_pa_robots_provas_igen_vid_nasta_adress(self):
+        Server.svar["/robots.txt"] = [(503, {}, "")] * 4 + [(404, {}, "")]
+        Server.svar["/b"] = [(200, {}, "b")]
+        with self.assertRaisesRegex(Hamtfel, "^robots-http-503$"):
+            self.klient.text(self.bas + "/a")
+        self.assertEqual(self.klient.text(self.bas + "/b"), "b")
+        self.assertEqual(len(Server.anrop), 6)
+
+    def test_omdirigering_pa_robots_forsoks_igen(self):
+        Server.svar["/robots.txt"] = [(307, {"Location": "/x"}, ""), (404, {}, "")]
+        Server.svar["/a"] = [(200, {}, "a")]
+        self.assertEqual(self.klient.text(self.bas + "/a"), "a")
+        self.assertNotIn("/x", [a for a, _ in Server.anrop])
+
+    def test_omdirigering_pa_robots_till_sist(self):
+        Server.svar["/robots.txt"] = [(307, {"Location": "/x"}, "")] * 4
+        with self.assertRaisesRegex(Hamtfel, "^robots-http-307$"):
+            self.klient.text(self.bas + "/a")
+        self.assertEqual(self.vantat, [5, 10, 20])
 
     def test_fil_stromas_till_disk(self):
         Server.svar["/a.pdf"] = [(200, {}, "%PDF-1.4 innehåll")]

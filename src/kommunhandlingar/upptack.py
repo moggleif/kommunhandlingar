@@ -127,8 +127,20 @@ def argument() -> argparse.Namespace:
     return tolk.parse_args()
 
 
-if __name__ == "__main__":
+# Nattkörningen hoppar över det levande vid den här koden och går vidare
+# (ADR-0061); varje annat fel stoppar den.
+KALLAN_STOPPADE = 3
+
+
+def kommandot(arg: argparse.Namespace) -> None:
     try:
-        main(argument())
-    except (Konfigurationsfel, Hamtfel) as fel:
+        main(arg)
+    except Konfigurationsfel as fel:
         sys.exit(f"Stoppad: {fel}")
+    except Hamtfel as fel:
+        print(f"Stoppad: {fel}", flush=True)
+        sys.exit(KALLAN_STOPPADE)
+
+
+if __name__ == "__main__":
+    kommandot(argument())
