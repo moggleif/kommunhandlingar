@@ -445,8 +445,8 @@ standardbiblioteket.
 
 - **Intervallet** hålls för varje värd för sig, över alla kommuner i
   körningen; en ny kommun på en ny värd ändrar alltså inte filen.
-- **`robots.txt`** hämtas en gång per värd och körning när det går, och läses enligt
-  RFC 9309: gruppen för vår produkt (User-Agent fram till första `/` eller
+- **`robots.txt`** läses en gång per värd och körning, när den gick att
+  hämta, och tolkas enligt RFC 9309: gruppen för vår produkt (User-Agent fram till första `/` eller
   mellanslag) gäller, annars gruppen `*`; den längsta regel som träffar
   sökvägen med frågesträng avgör, och `Allow` vinner vid lika längd. `*`
   och `$` stöds, och reglerna procentkodas innan de jämförs. Svarar
