@@ -1,6 +1,6 @@
 """Krav: K4, K5, K6, K15, K17, K19 och K41 i docs/02-KRAV.md, ADR-0005,
 ADR-0016, ADR-0017, ADR-0022, ADR-0024, ADR-0028, ADR-0033, ADR-0034,
-ADR-0036, ADR-0038 och ADR-0062. Test: tests/test_konvertering.py,
+ADR-0036, ADR-0038 och ADR-0063. Test: tests/test_konvertering.py,
 tests/test_maska_poolen.py, tests/test_skarvar.py, tests/test_delade.py,
 tests/test_kvarvarande.py, tests/test_avskurna.py, tests/test_mellanslag.py,
 tests/test_ordning.py och tests/test_spalter.py.

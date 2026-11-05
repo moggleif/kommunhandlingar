@@ -1,4 +1,4 @@
-"""Krav: K41, ADR-0062. Skapar `spalter.pdf` för tests/test_spalter.py.
+"""Krav: K41, ADR-0063. Skapar `spalter.pdf` för tests/test_spalter.py.
 
 Körs för hand med reportlab, som inte är projektets beroende:
 `python tests/fixtures/pdf/skapa_spalter.py`.

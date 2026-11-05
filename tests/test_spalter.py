@@ -1,4 +1,4 @@
-"""Krav: K41, ADR-0062. Kod: src/kommunhandlingar/konvertering/spalter.py.
+"""Krav: K41, ADR-0063. Kod: src/kommunhandlingar/konvertering/spalter.py.
 
 Sidorna i spalter.pdf beskrivs i tests/fixtures/pdf/skapa_spalter.py.
 Radstyckena är påhittade efter en månadsrapport i spalter.

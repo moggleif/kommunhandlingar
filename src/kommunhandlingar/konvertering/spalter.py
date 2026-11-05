@@ -1,4 +1,4 @@
-"""Krav: K41 i docs/02-KRAV.md, ADR-0062. Test: tests/test_spalter.py.
+"""Krav: K41 i docs/02-KRAV.md, ADR-0063. Test: tests/test_spalter.py.
 
 Sidans text i läsordning när löptext står i spalter bredvid varandra. Orden
 fogas till radstycken, som bryts där luckan till nästa ord är minst en

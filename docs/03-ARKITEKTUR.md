@@ -1090,7 +1090,7 @@ omkonverteringen.
 ### Spalter
 
 Hur och varför står i
-[ADR-0062](decisions/0062-spalter-lases-spalt-for-spalt.md). En sida ur
+[ADR-0063](decisions/0063-spalter-lases-spalt-for-spalt.md). En sida ur
 textlagret med löptext i spalter läses spalt för spalt
 (`konvertering/spalter.py`), på texten utanför tabellerna:
 

@@ -1325,7 +1325,7 @@ och [Webbplatsen](03-ARKITEKTUR.md#webbplatsen).
 
 Issue: [#218](https://github.com/moggleif/kommunhandlingar/issues/218).
 Hur och varför står i
-[ADR-0062](decisions/0062-spalter-lases-spalt-for-spalt.md) och
+[ADR-0063](decisions/0063-spalter-lases-spalt-for-spalt.md) och
 [Spalter](03-ARKITEKTUR.md#spalter).
 
 - **Givet** en sida ur textlagret med löptext i två eller flera spalter
