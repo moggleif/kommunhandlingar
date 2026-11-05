@@ -278,7 +278,8 @@ poolen):
   färgen gör det inte. Målfilen skriver grönt som `uppnatt`, gult som
   `delvis` och rött som `ej` (ADR-0056); inget fokusområde 2023–2025 är
   rött. Målens samlade bedömning är en mening i löptexten,
-  som konverteringen ofta blandar med den andra spalten.
+  som konverteringen före 0.10.0 ofta blandade med den andra spalten
+  (K41).
 - **Budgeten och uppföljningen skriver ibland samma fokusområde olika**,
   till exempel "god vård och omsorg" i budgeten och "god omsorg" i
   uppföljningen.
