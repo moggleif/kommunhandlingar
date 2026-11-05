@@ -23,7 +23,7 @@ def mal(rubrik: str, grupp: str = "") -> Mal:
 
 
 def rad(organ: str, sammantraden: int) -> Organrad:
-    return Organrad(organ, organ, sammantraden, Counter(), Counter(), 0, [])
+    return Organrad(organ, organ, sammantraden, Counter(), Counter(), 0, [], [])
 
 
 def kommun_med_utskott():

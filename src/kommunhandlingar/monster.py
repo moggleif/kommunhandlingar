@@ -87,11 +87,13 @@ def datum_av(grupper: dict, manadsnamn: tuple[str, ...]) -> date | None:
         return None
     if None in delar:
         raise IngenKandidat("datumet är ofullständigt")
-    if not re.fullmatch(r"\d{4}", grupper["ar"]):
-        raise IngenKandidat(f"året {grupper['ar']!r} har inte fyra siffror")
+    if not re.fullmatch(r"\d{2}|\d{4}", grupper["ar"]):
+        raise IngenKandidat(f"året {grupper['ar']!r} har varken två eller fyra siffror")
+    # Ett tvåsiffrigt år är 2000-talets: ingen källa är äldre (K1).
+    ar = int(grupper["ar"]) + (2000 if len(grupper["ar"]) == 2 else 0)
     manad = manadsnummer(grupper["manad"], manadsnamn)
     try:
-        return date(int(grupper["ar"]), manad, int(grupper["dag"]))
+        return date(ar, manad, int(grupper["dag"]))
     except ValueError as fel:
         raise IngenKandidat(f"datumet finns inte: {fel}") from fel
 

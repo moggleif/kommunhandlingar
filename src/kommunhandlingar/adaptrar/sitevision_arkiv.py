@@ -1,4 +1,4 @@
-"""Krav: K16 i docs/02-KRAV.md, ADR-0018, ADR-0027 och ADR-0011.
+"""Krav: K16 i docs/02-KRAV.md, ADR-0018, ADR-0027, ADR-0011 och ADR-0062.
 Test: tests/test_sitevision_arkiv.py.
 
 En Sitevision-källa ur Internet Archive. Den sista ögonblicksbilden per år
@@ -29,7 +29,7 @@ def upptack(
         bilder, fel = ogonblicksbilder(klient, kalla.sidor[organ])
         sidor += [(organ, bild, html) for bild, html in bilder]
         noteringar += fel
-    kandidater, avvisade = sitevision.las(kalla, sidor)
+    kandidater, avvisade = sitevision.las(replace(kalla, arkiv=True), sidor)
     med_kopior = [med_kopia(k, filer) for k in kandidater]
     return (
         [k for k in med_kopior if isinstance(k, Kandidat)],

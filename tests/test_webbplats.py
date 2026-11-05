@@ -173,6 +173,11 @@ class TestSidor(unittest.TestCase):
             '<a href="https://exempelby.se/bun">mötessidan</a>',
         )
 
+    def test_ar_utan_dokument_star_per_organ(self):
+        html = self.statussida(dokument(datum="2021-05-02"), dokument())
+        self.assertIn("<p>År utan dokument: 2022, 2023.</p>", html)
+        self.assertNotIn("Inga luckor", html)
+
     def test_inga_luckor(self):
         self.assertIn("<p>Inga luckor.</p>", self.statussida(dokument()))
 

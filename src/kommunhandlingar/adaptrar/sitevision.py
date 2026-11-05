@@ -1,9 +1,9 @@
-"""Krav: K1, K2 och K16 i docs/02-KRAV.md, ADR-0011 och ADR-0027.
+"""Krav: K1, K2 och K16 i docs/02-KRAV.md, ADR-0011, ADR-0027 och ADR-0062.
 Test: tests/test_sitevision.py."""
 
 import re
 from dataclasses import dataclass
-from datetime import date
+from datetime import date, timedelta
 
 from kommunhandlingar import monster, schema
 from kommunhandlingar.adaptrar.sitevision_html import Forekomst, forekomster
@@ -12,6 +12,8 @@ from kommunhandlingar.kandidat import Avvisad, Kandidat
 
 FALT = {"adapter", "monster", "manader", "sidor", "rubrik", "rattelser", "wayback"}
 MONSTERGRUPPER = {"ar", "manad", "dag", "typ"}
+# Ett möte som flyttas, flyttas några dagar (ADR-0062).
+FLYTTAT_MOTE = timedelta(days=7)
 
 
 @dataclass(frozen=True)
@@ -22,6 +24,8 @@ class Kalla:
     manader: tuple[str, ...]
     rattelser: dict[str, date]
     wayback: tuple[str, ...]
+    # Sätts av arkivets adapter, inte av kommunfilen.
+    arkiv: bool = False
 
 
 def kalla_av(post: dict, organ_id: list[str], var: str) -> Kalla:
@@ -109,8 +113,23 @@ def kandidat(kalla: Kalla, organ: str, adress: str, forekomst: Forekomst) -> Kan
 def motesdatum(kalla: Kalla, filnamnsdatum: date | None, rubriktext: str) -> date:
     traff = kalla.rubrik.search(rubriktext)
     rubriksdatum = monster.datum_av(traff.groupdict(), kalla.manader) if traff else None
-    if filnamnsdatum and rubriksdatum and filnamnsdatum != rubriksdatum:
+    if (
+        filnamnsdatum
+        and rubriksdatum
+        and filnamnsdatum != rubriksdatum
+        and not under_annat_mote(kalla, filnamnsdatum, rubriksdatum)
+    ):
         raise IngenKandidat(f"filnamnet säger {filnamnsdatum}, rubriken {rubriksdatum}")
     if not (filnamnsdatum or rubriksdatum):
         raise IngenKandidat("varken filnamnet eller rubriken har ett datum")
     return filnamnsdatum or rubriksdatum
+
+
+def under_annat_mote(kalla: Kalla, filnamnsdatum: date, rubriksdatum: date) -> bool:
+    """I arkivets kopior står filer ibland under ett annat möte samma år
+    (ADR-0062); då gäller filnamnet."""
+    return (
+        kalla.arkiv
+        and filnamnsdatum.year == rubriksdatum.year
+        and abs(filnamnsdatum - rubriksdatum) > FLYTTAT_MOTE
+    )

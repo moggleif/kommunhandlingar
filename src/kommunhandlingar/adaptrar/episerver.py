@@ -69,9 +69,5 @@ def typ(kalla: Kalla, text: str) -> str:
 def datum(kalla: Kalla, text: str) -> date:
     for uttryck in kalla.datum:
         if traff := uttryck.search(text):
-            grupper = traff.groupdict()
-            # Episerver-generationerna är från 2000-talet.
-            if len(grupper["ar"]) == 2:
-                grupper["ar"] = "20" + grupper["ar"]
-            return monster.datum_av(grupper, kalla.manader)
+            return monster.datum_av(traff.groupdict(), kalla.manader)
     raise IngenKandidat("inget datummönster matchar")

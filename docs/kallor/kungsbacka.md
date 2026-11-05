@@ -143,6 +143,14 @@ samma sak.
   filerna från 2025-05-15 ligger både under "15 maj 2025" och under "24
   april 2025", och filerna från 2025-04-24 ligger bara under "27 mars
   2025". Mötet 27 mars 2025 har därmed inga egna filer på sidan.
+- **I arkivets kopior 2021–2023 står filer ofta under ett annat möte**
+  samma år, en månad eller mer bort: 141 filer i upptäckten 2026-11-04,
+  till exempel byggnadsnämndens arbetsutskotts filer från 2021-09-16 till
+  2021-11-11 under "2 december 2021". Där gäller filnamnets datum
+  ([ADR-0062](../decisions/0062-arkivets-datum-och-ar-utan-dokument.md)).
+  Några filnamn har troligen fel år: "2121-02-08" under "8 februari
+  2021", och kommunstyrelsens arbetsutskotts "2022-02-07" och "2022-03-07"
+  under samma dagar 2023.
 - **Rubriker utan år** ("16 oktober", "21 augusti") och med tillägg ("5
   april 2024 (flyttat från 4 april)", "17 och 18 augusti 2026", "27-28
   januari 2025", "Extrainsatt sammanträde …", ", extra arbetsutskott").
