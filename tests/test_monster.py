@@ -26,7 +26,7 @@ class TestKompilera(unittest.TestCase):
         self.stoppas({"regex": r"(?P<nummer>\d+) (?P<typ>protokoll)"})
 
     def test_bara_nagra_av_datumgrupperna(self):
-        self.stoppas({"regex": r"(?i)(?P<typ>protokoll) (?P<ar>\d{4})"})
+        self.stoppas({"regex": r"(?P<typ>protokoll) (?P<ar>\d{4})"})
 
     def test_bade_eller_ingen_av_grupp_och_falt_typ(self):
         self.stoppas({"regex": r"(?P<typ>protokoll)", "typ": "protokoll"})
