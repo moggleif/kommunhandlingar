@@ -1,4 +1,4 @@
-"""Krav: K2, K13 och K16, ADR-0013 och ADR-0018.
+"""Krav: K2, K13 och K16, ADR-0013, ADR-0018 och ADR-0061.
 Kod: src/kommunhandlingar/upptack.py."""
 
 import argparse
@@ -10,11 +10,14 @@ from dataclasses import replace
 from datetime import UTC, datetime
 from io import StringIO
 from pathlib import Path
+from unittest import mock
 
 from kommunhandlingar.fel import Hamtfel, Konfigurationsfel
 from kommunhandlingar.konfiguration import las
 from kommunhandlingar.tidsbudget import Tidsgrans
 from kommunhandlingar.upptack import (
+    KALLAN_STOPPADE,
+    kommandot,
     main,
     sammanfattning,
     skriv,
@@ -136,3 +139,33 @@ class TestArkivet(unittest.TestCase):
             "Arkivet: väntar på nästa körning; tidsbudgeten är slut",
             utskrift.getvalue(),
         )
+
+
+class TestKommandot(unittest.TestCase):
+    """ADR-0061: nattkörningen skiljer ett stopp i källan från andra fel."""
+
+    def kor(self, fel: Exception) -> SystemExit:
+        with (
+            mock.patch("kommunhandlingar.upptack.main", side_effect=fel),
+            redirect_stdout(StringIO()) as ut,
+            self.assertRaises(SystemExit) as slut,
+        ):
+            kommandot(argparse.Namespace())
+        self.utskrift = ut.getvalue()
+        return slut.exception
+
+    def test_en_kalla_som_inte_svarar_ger_egen_kod(self):
+        slut = self.kor(Hamtfel("robots-http-307"))
+        self.assertEqual(slut.code, KALLAN_STOPPADE)
+        self.assertEqual(self.utskrift, "Stoppad: robots-http-307\n")
+
+    def test_konfigurationsfel_stoppar_som_forut(self):
+        slut = self.kor(Konfigurationsfel("trasig kommunfil"))
+        self.assertEqual(slut.code, "Stoppad: trasig kommunfil")
+
+    def test_ovantat_fel_slapps_igenom(self):
+        with (
+            mock.patch("kommunhandlingar.upptack.main", side_effect=KeyError("x")),
+            self.assertRaises(KeyError),
+        ):
+            kommandot(argparse.Namespace())

@@ -109,9 +109,10 @@ två startas står i K11.
   startar schemat två körningar om dygnet; den andra raden i `cron` tas
   bort när arkivet är ikapp (ADR-0061). Jobbet kör upptäckten och steg 2
   för varje kommunfil i `kommuner/`, och sedan detsamma med `--arkiv`.
-  Stoppas upptäckten i en kommuns levande källor hoppar jobbet över
-  kommunens levande steg 2, skriver det i sammanfattningen och går vidare
-  (ADR-0061); upptäckten skriver inget i `data/`. Ett fel i arkivets steg
+  Stoppas upptäckten i en kommuns levande källor av en källsida (kod 3)
+  hoppar jobbet över kommunens levande steg 2, skriver det i
+  sammanfattningen och går vidare (ADR-0061); upptäckten skriver inget i
+  `data/`. Ett annat fel i upptäckten stoppar jobbet. Ett fel i arkivets steg
   stoppar inte jobbet (`continue-on-error`), så att det som hämtats från
   de levande källorna ändå kontrolleras och checkas in.
 - **Varje körning börjar från en ren utcheckning av `main`.**
@@ -446,8 +447,8 @@ standardbiblioteket.
 - **Intervallet** hålls för varje värd för sig, över alla kommuner i
   körningen; en ny kommun på en ny värd ändrar alltså inte filen.
 - **`robots.txt`** läses en gång per värd och körning, när den gick att
-  hämta, och tolkas enligt RFC 9309: gruppen för vår produkt (User-Agent fram till första `/` eller
-  mellanslag) gäller, annars gruppen `*`; den längsta regel som träffar
+  hämta, och tolkas enligt RFC 9309: gruppen för vår produkt (User-Agent
+  fram till första `/` eller mellanslag) gäller, annars gruppen `*`; den längsta regel som träffar
   sökvägen med frågesträng avgör, och `Allow` vinner vid lika längd. `*`
   och `$` stöds, och reglerna procentkodas innan de jämförs. Svarar
   `robots.txt` 4xx, utom 429, gäller inga regler. Går den inte att hämta
@@ -476,7 +477,10 @@ K13, en post per kandidat med fälten `organ`, `datum` (`ÅÅÅÅ-MM-DD`),
 `typ`, `url`, `kalla`, `kallnyckel` och `filnamn`. Sammanfattningen
 skrivs ut: antal kandidater per organ och varje fil som inte blev
 kandidat, med orsak och källsida. En källsida som inte går att hämta
-stoppar körningen innan listan skrivs, utom i arkivet ([Arkivet](#arkivet)).
+stoppar upptäckten innan listan skrivs, med kod 3, utom i arkivet
+([Arkivet](#arkivet)). Nattkörningen hoppar då över kommunens levande
+steg 2 och går vidare (ADR-0061); ett annat fel ger kod 1 och stoppar
+körningen.
 
 ### Arkivet
 

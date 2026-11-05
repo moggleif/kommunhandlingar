@@ -63,8 +63,11 @@ orsakerna och den extra körningen tar igen tiden.
   på värden prövar `robots.txt` igen. Regler som gick att läsa minns
   fortfarande hela körningen.
 * **Ett stopp i det levande stoppar inte arkivet.** Stoppas upptäckten i
-  en kommuns levande källor hoppar nattkörningen över kommunens levande
-  steg 2, skriver det i sammanfattningen och går vidare till arkivet.
+  en kommuns levande källor för att en källsida inte går att hämta,
+  avslutas den med en egen kod (3). Nattkörningen hoppar då över
+  kommunens levande steg 2, skriver adressen och orsaken i
+  sammanfattningen och går vidare till arkivet. Ett konfigurationsfel
+  eller ett oväntat fel i upptäckten stoppar körningen som förut.
   Upptäckten skriver bara i arbetskatalogen, så inget halvfärdigt kan nå
   poolen. Ett fel i det levande steg 2 stoppar körningen som förut (K11).
 * **Två körningar om dygnet**, i samma `concurrency`-grupp, så att de
@@ -82,8 +85,10 @@ orsakerna och den extra körningen tar igen tiden.
 * Good, eftersom inget hämtas utan att ha prövats mot `robots.txt`.
 * Bad, eftersom en värd som är nere hela natten nu får `robots.txt`
   frågad en gång per fil, med nya försök. Intervallet och väntan gäller
-  fortfarande, så det blir som mest ett anrop var femte sekund, och
-  tidsbudgeten sätter taket.
+  fortfarande, så det blir som mest ett anrop var femte sekund. Svarar
+  värden inte alls, utan når tidsgränsen, kostar varje fil runt fyra och
+  en halv minut, och arkivets del av natten kan gå åt; tidsbudgeten sätter
+  taket, och inget som redan finns i poolen påverkas.
 * Bad, eftersom en natt där det levande stoppas checkar in arkivets filer
   utan dagens nya sammanträden. De hämtas nästa körning.
 * Neutral, eftersom den andra raden i `cron` måste tas bort för hand.

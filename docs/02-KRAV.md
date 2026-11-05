@@ -344,11 +344,12 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
   försök, eller efter den tid `Retry-After` anger, högst fem minuter, och
   efter det sista försöket är orsaken svaret eller felet.
 - **Givet** ett anrop som får en annan 4xx än 429, eller en omdirigering
+  utom på `robots.txt`
 - **När** det sker
 - **Så** görs inget nytt försök, omdirigeringen följs inte, och orsaken är
   `http-` och statuskoden.
-- **Givet** en server som inte går att nå, eller en sida i en teckenkodning
-  som inte går att läsa
+- **Givet** en server som inte går att nå, utom när `robots.txt` hämtas,
+  eller en sida i en teckenkodning som inte går att läsa
 - **När** något hämtas
 - **Så** görs inget nytt försök, och orsaken är `anslutning` respektive
   `teckenkodning`.
@@ -385,12 +386,13 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
   nästa körning börjar från `main` som den är.
 
 - **Givet** en körning där upptäckten i en kommuns levande källor stoppas
-  (K2)
+  för att en källsida inte går att hämta (K2)
 - **När** det sker
 - **Så** hämtas ingenting ur kommunens levande källor i den körningen,
   arkivet körs ändå, det som hämtats kontrolleras och checkas in,
-  sammanfattningen säger att det levande stoppades, och nästa körning
-  försöker igen ([#215](https://github.com/moggleif/kommunhandlingar/issues/215)).
+  sammanfattningen visar adressen och orsaken och att det levande hoppades
+  över, och nästa körning försöker igen. Varje annat fel i upptäckten
+  stoppar körningen som ett oväntat fel ([#215](https://github.com/moggleif/kommunhandlingar/issues/215)).
 
 - **Givet** att en körning redan pågår
 - **När** en till startas, schemalagd eller för hand
