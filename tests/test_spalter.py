@@ -1,7 +1,7 @@
 """Krav: K41, ADR-0062. Kod: src/kommunhandlingar/konvertering/spalter.py.
 
 Sidorna i spalter.pdf beskrivs i tests/fixtures/pdf/skapa_spalter.py.
-Radstyckena är påhittade efter en månadsrapport med tre spalter.
+Radstyckena är påhittade efter en månadsrapport i spalter.
 """
 
 import unittest
@@ -27,6 +27,10 @@ class TestOrdna(unittest.TestCase):
     def test_spalterna_fran_vanster(self):
         vanster, hoger = spalt(50, 8), spalt(220, 8)
         self.assertEqual(ordna(hoger + vanster), [vanster, hoger])
+
+    def test_tre_spalter(self):
+        spalter_ = [spalt(50, 8), spalt(220, 8), spalt(390, 8)]
+        self.assertEqual(ordna(sum(reversed(spalter_), [])), spalter_)
 
     def test_rubrik_over_hela_bredden_forst(self):
         rubrik = [Radstycke(50, 60, 370, 70, "En rubrik över båda spalterna")]

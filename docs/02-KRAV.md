@@ -1333,11 +1333,11 @@ Hur och varför står i
 - **När** sidan konverteras
 - **Så** står varje spalt hel i texten, från vänster till höger, och en
   rubrik över hela bredden står före spalterna. En mening som fortsätter
-  i nästa spalt fortsätter direkt efter spaltens sista rad.
+  i nästa spalt står direkt efter spaltens sista rad, i ett nytt stycke.
 - **Givet** en bildtext eller en faktaruta i en spalt
 - **När** sidan konverteras
-- **Så** står den som ett eget stycke i sin spalt, och inte inne i en
-  mening ur en annan spalt.
+- **Så** står den på egna rader i sin spalt, och inte inne i en mening
+  ur en annan spalt.
 - **Givet** en sida där det som står bredvid varandra inte är löptext,
   som ett brevhuvud i två fält, en ärendelista eller talrader
 - **När** sidan konverteras

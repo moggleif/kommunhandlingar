@@ -15,9 +15,9 @@ klipps in mitt i meningar
 Textlagret läses med pdfplumber i `layout=True`, som tar en rad i taget
 över hela sidans bredd. På en sida med två eller tre spalter flätas
 raderna från spalterna ihop. I en månadsrapport i nämndens handlingar
-(2025-11-20, sida 175) står bildtexten under ett foto i mittspalten mitt
-i en mening i vänster spalt: `Kommissionen bedömer att den hu- F.d.
-arbetsmarknadsminister Johan Pehrson`. En försiktig sökning hittade minst
+(`data/kungsbacka/ga/2025/2025-11-20/handlingar.md`, sida 175) står
+bildtexten under ett porträtt i mittspalten mitt i en mening i vänster
+spalt. En försiktig sökning hittade minst
 77 sidor i 29 dokument där det syns. Hur ska en sida med spalter läsas,
 utan att sidor utan spalter ändras?
 
@@ -49,7 +49,7 @@ klarar sig med pdfplumber och några små funktioner.
 
 ### Consequences
 
-* Bra, eftersom spalterna står hela och en bildtext blir ett eget stycke
+* Bra, eftersom spalterna står hela och en bildtext står på egna rader
   i sin spalt. Prövat på två riktiga handlingar: av 255 sidor i nämndens
   handlingar 2025-11-20 delades 24 (månadsrapporten och ett reportage),
   och av 950 sidor i kommunstyrelsens handlingar 2026-05-26 ungefär 120
@@ -63,8 +63,9 @@ klarar sig med pdfplumber och några små funktioner.
   delas vågrätt där först, så att övre halvan av båda spalterna kommer
   före den undre. Varje del står hel, men en mening som fortsätter från
   vänster spalts nedre del till höger spalts övre står i fel ordning.
-* Dåligt, eftersom kort text i spalter, under sex rader eller med kortare
-  rader än 25 tecken i median, läses som förut.
+* Dåligt, eftersom kort text i spalter, med få eller korta rader, läses
+  som förut, och spalter med en lucka smalare än en radhöjd delas inte.
+  Trösklarna står i [Spalter](../03-ARKITEKTUR.md#spalter).
 * Neutralt, eftersom poolen inte konverteras om nu; det görs en gång när
   konverteringen är bra (projektägarens beslut).
 
@@ -72,7 +73,7 @@ klarar sig med pdfplumber och några små funktioner.
 
 `tests/test_spalter.py` prövar snitten med påhittade radstycken och
 `tests/fixtures/pdf/spalter.pdf`: två spalter med en mening som fortsätter
-i nästa spalt och en bildtext, ett brevhuvud med talrader och en
+i nästa spalt och en bildtext, tre spalter, ett brevhuvud med talrader och en
 ärendelista som ska läsas som förut. Facit körs före och efter.
 
 ## Pros and Cons of the Options
@@ -86,8 +87,8 @@ annars vågrätt vid den största luckan.
 * Bra, eftersom villkoret om löptext skyddar brevhuvuden, ärendelistor och
   talrader.
 * Bra, eftersom rutorna läses med samma `layout=True` som i dag.
-* Dåligt, eftersom trösklarna (en radhöjd, sex rader, 25 tecken, 70 %
-  bokstäver) är satta efter de två handlingarna och kan behöva justeras.
+* Dåligt, eftersom trösklarna är satta efter de två handlingarna och kan
+  behöva justeras.
 
 ### pdfminers layoutanalys för alla sidor
 

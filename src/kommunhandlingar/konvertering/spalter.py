@@ -9,11 +9,11 @@ luckan. Ger snitten bara en ruta läses sidan som förut
 """
 
 from dataclasses import dataclass
+from itertools import pairwise
 from statistics import median
 
 from pdfplumber.page import Page
 
-SPALTLUCKA = 1.0
 MINSTA_RADER = 6
 MINSTA_TECKEN = 25
 MINSTA_BOKSTAVER = 0.7
@@ -38,14 +38,17 @@ def text(sida: Page) -> str:
 
 
 def radstycken(ord_: list[dict]) -> list[Radstycke]:
-    stycken: list[Radstycke] = []
-    for rad in rader(ord_):
-        borjan = 0
-        for i in range(1, len(rad) + 1):
-            if i == len(rad) or lucka(rad[i - 1], rad[i]):
-                stycken.append(stycke(rad[borjan:i]))
-                borjan = i
-    return stycken
+    return [stycke(delar) for rad in rader(ord_) for delar in delad(rad)]
+
+
+def delad(rad: list[dict]) -> list[list[dict]]:
+    """Raden delad vid varje lucka på minst en radhöjd."""
+    delar = [[rad[0]]]
+    for vanster, hoger in pairwise(rad):
+        if lucka(vanster, hoger):
+            delar.append([])
+        delar[-1].append(hoger)
+    return delar
 
 
 def rader(ord_: list[dict]) -> list[list[dict]]:
@@ -61,7 +64,7 @@ def rader(ord_: list[dict]) -> list[list[dict]]:
 
 
 def lucka(vanster: dict, hoger: dict) -> bool:
-    return hoger["x0"] - vanster["x1"] >= SPALTLUCKA * hojd(vanster)
+    return hoger["x0"] - vanster["x1"] >= hojd(vanster)
 
 
 def hojd(o: dict) -> float:
@@ -80,8 +83,6 @@ def stycke(ord_: list[dict]) -> Radstycke:
 
 def ordna(stycken: list[Radstycke]) -> list[list[Radstycke]]:
     """Rutorna i läsordning: spalterna från vänster, banden uppifrån."""
-    if not stycken:
-        return []
     if delar := lodratt(stycken):
         return ordna(delar[0]) + ordna(delar[1])
     if not (delar := vagratt(stycken)):
@@ -119,7 +120,7 @@ def luckor(spann: list[tuple[float, float]]) -> dict[float, float]:
 
 
 def loptext(stycken: list[Radstycke]) -> bool:
-    """Minst tre rader, med en mediantext på minst 25 tecken, mest bokstäver."""
+    """Tillräckligt många rader, tillräckligt långa, med mest bokstäver."""
     tecken = "".join(s.text for s in stycken).replace(" ", "")
     bokstaver = sum(c.isalpha() for c in tecken)
     return (
