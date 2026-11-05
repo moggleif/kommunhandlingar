@@ -1,11 +1,14 @@
-# Den schemalagda körningen (K11, ADR-0006, ADR-0015 och ADR-0052): upptäckt
-# och steg 2 för varje kommun, sedan för arkivet (K16, ADR-0018),
+# Den schemalagda körningen (K11, ADR-0006, ADR-0015, ADR-0052 och ADR-0061):
+# upptäckt och steg 2 för varje kommun, sedan för arkivet (K16, ADR-0018),
 # datakontrollerna, en egen gren med datat och en PR som mergas automatiskt.
 name: Nattkörning
 
 on:
   schedule:
     - cron: "23 1 * * *"
+    # Tills arkivet är ikapp: tas bort när sammanfattningen inte längre har
+    # arkivfiler som väntar på nästa körning (ADR-0061).
+    - cron: "23 13 * * *"
   workflow_dispatch:
 
 permissions:
@@ -45,7 +48,12 @@ jobs:
       - name: Upptäckt och steg 2 för varje kommun
         run: |
           for kommunfil in kommuner/*.toml; do
-            python -m kommunhandlingar.upptack "$kommunfil" "$RUNNER_TEMP/arbete"
+            # Upptäckten skriver inget i data/; stoppas den går arkivet ändå (ADR-0061).
+            if ! python -m kommunhandlingar.upptack "$kommunfil" "$RUNNER_TEMP/arbete"; then
+              echo "Det levande i $kommunfil stoppades; nästa körning försöker igen." \
+                | tee -a "$RUNNER_TEMP/sammanfattning.txt"
+              continue
+            fi
             python -m kommunhandlingar.hamta "$kommunfil" "$RUNNER_TEMP/arbete" \
               --start "$START" | tee -a "$RUNNER_TEMP/sammanfattning.txt"
           done

@@ -1,7 +1,9 @@
-"""Krav: K10 i docs/02-KRAV.md, ADR-0013. Test: tests/test_klient.py.
+"""Krav: K10 i docs/02-KRAV.md, ADR-0013 och ADR-0061. Test:
+tests/test_klient.py.
 
 Håller intervallet per värd, följer robots.txt, följer inga omdirigeringar
-och försöker igen vid 429, 5xx, tidsgräns och svar som bryts av.
+och försöker igen vid 429, 5xx, tidsgräns och svar som bryts av; för
+robots.txt också vid omdirigering och när värden inte går att nå.
 """
 
 import shutil
@@ -22,6 +24,8 @@ FORSTA_VANTAN = 5
 LANGSTA_VANTAN = 300
 TIDSGRANS = 60
 BLOCK = 1 << 20
+# Har visat sig gå över för robots.txt (ADR-0061).
+TILLFALLIGA_PA_ROBOTS = ("http-3", "anslutning")
 
 
 class NyttForsok(Exception):
@@ -45,7 +49,7 @@ class Klient:
         self.installningar = installningar
         self.klocka, self.sov = klocka, sov
         self.senast: dict[str, float] = {}
-        self.regler: dict[str, tuple[robots.Regel, ...] | Hamtfel] = {}
+        self.regler: dict[str, tuple[robots.Regel, ...]] = {}
         self.oppnare = build_opener(IngenOmdirigering)
 
     def text(self, url: str) -> str:
@@ -67,30 +71,38 @@ class Klient:
             try:
                 self.regler[varden] = self.las_robots(varden)
             except Hamtfel as fel:
-                self.regler[varden] = Hamtfel(f"robots-{fel.orsak}")
-        if isinstance(self.regler[varden], Hamtfel):
-            raise self.regler[varden]
+                raise Hamtfel(f"robots-{fel.orsak}") from fel
         return self.regler[varden]
 
     def las_robots(self, varden: str) -> tuple[robots.Regel, ...]:
         try:
-            text = self.med_forsok(f"{varden}/robots.txt", las_text)
+            text = self.med_forsok(
+                f"{varden}/robots.txt", las_text, TILLFALLIGA_PA_ROBOTS
+            )
         except Hamtfel as fel:
             if not fel.orsak.startswith("http-4") or fel.orsak == "http-429":
                 raise
             return ()
         return robots.tolka(text, produkt(self.installningar.user_agent))
 
-    def med_forsok(self, url: str, las: Callable):
+    def med_forsok(self, url: str, las: Callable, tillfalliga: tuple[str, ...] = ()):
         for forsok in range(FORSOK):
             try:
-                return self.anrop(url, las)
+                return self.anrop(url, las, tillfalliga)
             except NyttForsok as fel:
                 if forsok == FORSOK - 1:
                     raise Hamtfel(fel.orsak) from fel
                 self.sov(fel.vantan or FORSTA_VANTAN * 2**forsok)
 
-    def anrop(self, url: str, las: Callable):
+    def anrop(self, url: str, las: Callable, tillfalliga: tuple[str, ...]):
+        try:
+            return self.oppna(url, las)
+        except Hamtfel as fel:
+            if fel.orsak.startswith(tillfalliga):
+                raise NyttForsok(fel.orsak) from fel
+            raise
+
+    def oppna(self, url: str, las: Callable):
         self.vanta_pa(vard(url))
         fraga = Request(url, headers={"User-Agent": self.installningar.user_agent})
         try:
