@@ -50,8 +50,9 @@ kunna läggas till utan kodändring.
 - **Givet** en källsida som inte går att hämta, eller en arbetskatalog i
   repot
 - **När** upptäckten körs
-- **Så** stoppas körningen med adressen och orsaken, och ingen
-  kandidatlista skrivs. För arkivet gäller K16.
+- **Så** stoppas upptäckten med adressen och orsaken, och ingen
+  kandidatlista skrivs. Vad körningen gör då står i K11; för arkivet
+  gäller K16.
 
 ## K3 — Historiken hämtas så långt bakåt den finns
 
@@ -327,7 +328,14 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 - **Givet** en värd vars `robots.txt` inte går att hämta, efter de nya
   försöken
 - **När** något ska hämtas från den
-- **Så** hämtas ingenting från värden.
+- **Så** hämtas ingenting från värden, och orsaken är `robots-` och felet.
+  Nästa adress på värden prövar `robots.txt` igen
+  ([#215](https://github.com/moggleif/kommunhandlingar/issues/215)).
+- **Givet** en `robots.txt` som svarar med en omdirigering, eller en värd
+  som inte går att nå när `robots.txt` hämtas
+- **När** det sker
+- **Så** görs nya försök som vid 429 och 5xx, och omdirigeringen följs
+  inte.
 - **Givet** ett anrop som får 429 eller 5xx, som inte får något svar
   inom tidsgränsen, eller där servern stänger anslutningen eller bryter av
   svaret
@@ -375,6 +383,14 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 - **När** den slutar
 - **Så** ändras ingenting i poolen, körningen syns som misslyckad, och
   nästa körning börjar från `main` som den är.
+
+- **Givet** en körning där upptäckten i en kommuns levande källor stoppas
+  (K2)
+- **När** det sker
+- **Så** hämtas ingenting ur kommunens levande källor i den körningen,
+  arkivet körs ändå, det som hämtats kontrolleras och checkas in,
+  sammanfattningen säger att det levande stoppades, och nästa körning
+  försöker igen ([#215](https://github.com/moggleif/kommunhandlingar/issues/215)).
 
 - **Givet** att en körning redan pågår
 - **När** en till startas, schemalagd eller för hand

@@ -39,7 +39,7 @@ Regler för det här repot, utöver MADR:
 | 0010 | [Kandidaterna hämtas organ för organ i konfigurationens ordning, och inom organet protokoll före handlingar](0010-ordningen-organ-for-organ.md) | accepted (0018 ger en ny ordning för ny historik, 0019 lägger omkonverteringen sist) |
 | 0011 | [Sitevision-adaptern tar organet från sidan, datumet ur filnamnet eller rubriken, och avvikande datum rättas i kommunfilen](0011-sitevision-organ-fran-sidan-datum-och-rattelser.md) | accepted |
 | 0012 | [Webbplatsen byggs ur poolen i GitHub Actions och publiceras på GitHub Pages utan att checkas in](0012-webbplatsen-byggs-i-actions-och-publiceras-pa-pages.md) | accepted (0023 lägger till markdown-it-py för dokumenten, 0032 ett skript för kalendern, 0044 ett skript för målen, 0054 avvikelserna ur issuen) |
-| 0013 | [Hämtningen görs med standardbiblioteket och en egen läsning av robots.txt, och kandidatlistan skrivs som JSON](0013-artig-hamtning-och-kandidatlistan.md) | accepted |
+| 0013 | [Hämtningen görs med standardbiblioteket och en egen läsning av robots.txt, och kandidatlistan skrivs som JSON](0013-artig-hamtning-och-kandidatlistan.md) | accepted (0061 försöker `robots.txt` igen vid tillfälliga fel) |
 | 0014 | [Markdown-texten har en kommentar per sida, uppställningen kvar och de säkra tabellerna efter sidans text](0014-markdown-texten-och-steg-2.md) | accepted (0021 lägger till escapning) |
 | 0015 | [Nattkörningen checkar in på en egen gren, och datat når `main` genom en PR med samma kontroller som all annan ändring](0015-nattkorningen-pa-egen-gren-och-pr.md) | accepted (0052 låter körningen öppna och merga PR:en själv) |
 | 0016 | [Tabeller utan lodräta linjer läses ur textlagrets ord och blir CSV bara när talen står i linje](0016-tabeller-utan-lodrata-linjer.md) | accepted (0028 delar tabeller med linjer och flera tal i en cell; 0030 fäller en ombruten etikett; 0035 tar med avsnittsrubriker och årtal; 0040 läser rubriker i kolumnens fack) |
@@ -84,3 +84,4 @@ Regler för det här repot, utöver MADR:
 | 0058 | [Initiativärendena följs steg för steg som lokalbehoven, med samma kod och avsändaren som värde](0058-initiativarenden-foljs-som-lokalbehoven.md) | proposed |
 | 0059 | [Handlingsplanerna följs steg för steg som initiativärendena, med en länk till själva planen](0059-handlingsplanerna-foljs-som-initiativen.md) | proposed |
 | 0060 | [Kommunens sida blir en översikt över organen och deras sidor, organets sidor får flikar och statusen en egen sida](0060-navigeringen-med-oversikt-och-flikar.md) | proposed |
+| 0061 | [Ett tillfälligt fel på `robots.txt` försöks igen och stoppar inte arkivet, och körningen går två gånger om dygnet tills arkivet är ikapp](0061-korningen-tal-tillfalliga-fel-pa-robots.md) | proposed |

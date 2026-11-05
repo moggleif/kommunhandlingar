@@ -172,7 +172,8 @@ körningen innan den checkar in, står under "Körning och incheckning" i
 
 ## Den schemalagda körningen
 
-`.github/workflows/nattkorning.yml` går varje natt och kan startas för
+`.github/workflows/nattkorning.yml` går varje natt, och en gång till på
+eftermiddagen tills arkivet är ikapp (ADR-0061), och kan startas för
 hand under Actions. Den pushar en gren `nattkorning/<datum>-<id>` när
 något ändrats, öppnar en PR från den och slår på automatisk merge, så att
 GitHub mergar när "Ren kod och tester" gått igenom (ADR-0052). Det kräver
