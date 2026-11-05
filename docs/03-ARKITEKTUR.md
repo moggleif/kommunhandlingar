@@ -1087,6 +1087,31 @@ andra står kvar i fortsättningen. Numren på fortsättningens sida räknas
 utan den, så att en tabell som hette `2-2.csv` heter `2-1.csv` efter
 omkonverteringen.
 
+### Spalter
+
+Hur och varför står i
+[ADR-0062](decisions/0062-spalter-lases-spalt-for-spalt.md). En sida ur
+textlagret med löptext i spalter läses spalt för spalt
+(`konvertering/spalter.py`), på texten utanför tabellerna:
+
+1. **Radstycken.** Orden ordnas i rader. En rad bryts där luckan till
+   nästa ord är minst en radhöjd, som mellan två spalter; mellanrummen
+   mellan ord är mycket mindre.
+2. **Snitt.** Radstyckena delas rekursivt (XY-snitt). Ett lodrätt snitt
+   läggs där inget radstycke korsar, men bara när båda sidor är
+   löptext: minst sex rader, en mediantext på minst 25 tecken och minst
+   70 % bokstäver. Annars delas de vågrätt vid den största luckan, som
+   under en rubrik över hela bredden. Spalterna läses från vänster,
+   banden uppifrån.
+3. **Text.** Ger snitten bara en ruta läses sidan som förut. Annars
+   läses varje ruta med uppställningen kvar, och rutorna skiljs med en
+   tom rad.
+
+Ett brevhuvud i två fält, en ärendelista utan linjer och talrader är inte
+löptext och delas därför inte. Två spalter vars stycken råkar sluta på
+samma höjd kan delas vågrätt där, så att övre halvan av båda spalterna
+kommer före den undre; varje del står ändå hel.
+
 ### Markdown-texten
 
 Hur och varför står i
@@ -1104,6 +1129,7 @@ Varje sida börjar med kommentaren `<!-- sida N -->`, så att en sida i
   en. Raderna är mjuka radbrytningar, så de flyter ihop till
   ett stycke när texten visas, liksom mellanrummen; uppställningen finns
   i råfilen.
+- **Spalter** läses en i taget (K41, se [Spalter](#spalter)).
 - **Escapningen** gör att texten visas som den stod. Bara det som annars
   ändrar betydelse får ett `\` framför sig:
   - i radens början: talet i `1.` och `1)` (`1\.`), `-` och `+` följda av
