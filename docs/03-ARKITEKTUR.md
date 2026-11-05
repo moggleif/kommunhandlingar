@@ -280,7 +280,7 @@ regex = '^Protokoll för (?P<organ>.+?)\s+(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag
 | `kalla.adapter`        | Adaptern som läser källan.                                   |
 | `kalla.monster`        | Hur adaptern översätter en rubrik, ett filnamn eller en sökväg till organ, datum och typ. |
 | `kalla.manader`        | Månadernas namn i källan, januari först. Utelämnas när källan skriver månaden med siffror. |
-| `monster.regex`        | Ett reguljärt uttryck med de namngivna grupperna `organ`, `ar` (fyra siffror), `manad` och `dag`, och `typ`, var och en när källan har den. |
+| `monster.regex`        | Ett reguljärt uttryck med de namngivna grupperna `organ`, `ar` (fyra siffror, eller två för 2000-talet), `manad` och `dag`, och `typ`, var och en när källan har den. |
 | `monster.typ`          | Dokumenttypen, när uttrycket inte har gruppen `typ`.         |
 
 - **Id** för kommun och organ är katalognamn: små bokstäver a–z, siffror
@@ -357,7 +357,9 @@ bun = "https://exempelby.se/…/barn-och-ungdomsnamndens-sammantraden"
 - **Mönstren** prövas mot filnamnet och har ingen grupp `organ`.
 - **Datumet** är rättelsens, om filen har en. Annars filnamnets, om
   mönstret har ett, och rubrikens annars. Anger filnamnet och rubriken
-  olika datum blir filen ingen kandidat (K2). En rubrik som rubrikmönstret
+  olika datum blir filen ingen kandidat (K2), utom i arkivets kopior när
+  datumen är samma år och mer än en vecka isär: då gäller filnamnets
+  (ADR-0062). Arkivets adapter sätter `arkiv` på källan för det. En rubrik som rubrikmönstret
   inte läser ("17 och 18 augusti 2026") ger inget datum, och filnamnets
   gäller ensamt. En rubrik som mönstret läser men vars datum inte finns
   eller vars månad är okänd ger ingen kandidat, som ett filnamn gör (K2).
@@ -1474,7 +1476,8 @@ varje push till `main`, för hand och när ett issue med etiketten
   ur samma front matter, med sidans byggdatum som dag, enligt reglerna i
   K7 (`webbplats/luckor.py`). Dokumenttabellen har en kolumn med antalet
   luckor, och under tabellerna står varje organ med luckor: dess källor
-  ur kommunfilen och mötenas datum med det som saknas
+  ur kommunfilen, åren utan något dokument mellan organets första och
+  sista (ADR-0062), och mötenas datum med det som saknas
   (`webbplats/luckavsnitt.py`). Statussidan länkar varje organ till dess
   sida.
 - **Organets sida** (K18, `webbplats/organsida.py`) listar sammanträdena

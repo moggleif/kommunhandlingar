@@ -37,7 +37,7 @@ Regler för det här repot, utöver MADR:
 | 0008 | [Kommunkonfigurationen skrivs i TOML, en fil per kommun, och artigheten per värd står i en gemensam fil](0008-kommunkonfigurationen-i-toml.md) | accepted |
 | 0009 | [Tabellernas härkomst är dokumentets, sidnumret står i filnamnet, och CSV skrivs i ett fast format](0009-tabellernas-harkomst-och-csv-format.md) | accepted (0024 lägger till ett namn för tabeller över flera sidor) |
 | 0010 | [Kandidaterna hämtas organ för organ i konfigurationens ordning, och inom organet protokoll före handlingar](0010-ordningen-organ-for-organ.md) | accepted (0018 ger en ny ordning för ny historik, 0019 lägger omkonverteringen sist) |
-| 0011 | [Sitevision-adaptern tar organet från sidan, datumet ur filnamnet eller rubriken, och avvikande datum rättas i kommunfilen](0011-sitevision-organ-fran-sidan-datum-och-rattelser.md) | accepted |
+| 0011 | [Sitevision-adaptern tar organet från sidan, datumet ur filnamnet eller rubriken, och avvikande datum rättas i kommunfilen](0011-sitevision-organ-fran-sidan-datum-och-rattelser.md) | accepted (0062 låter filnamnet gälla i arkivet under ett annat möte samma år) |
 | 0012 | [Webbplatsen byggs ur poolen i GitHub Actions och publiceras på GitHub Pages utan att checkas in](0012-webbplatsen-byggs-i-actions-och-publiceras-pa-pages.md) | accepted (0023 lägger till markdown-it-py för dokumenten, 0032 ett skript för kalendern, 0044 ett skript för målen, 0054 avvikelserna ur issuen) |
 | 0013 | [Hämtningen görs med standardbiblioteket och en egen läsning av robots.txt, och kandidatlistan skrivs som JSON](0013-artig-hamtning-och-kandidatlistan.md) | accepted (0061 försöker `robots.txt` igen vid tillfälliga fel) |
 | 0014 | [Markdown-texten har en kommentar per sida, uppställningen kvar och de säkra tabellerna efter sidans text](0014-markdown-texten-och-steg-2.md) | accepted (0021 lägger till escapning) |
@@ -46,7 +46,7 @@ Regler för det här repot, utöver MADR:
 | 0017 | [Sidor med figurer märks vid konverteringen och tolkas i efterhand av en Claude-session](0017-figurer-marks-och-tolkas-i-efterhand.md) | accepted (0055 behåller tolkningarna i granskade dokument) |
 | 0018 | [Wayback hämtas sist i nattkörningen, nyast först, och fyller bara luckor](0018-wayback-sist-nyast-forst-och-bara-luckor.md) | accepted (0027 slår på arkivet per organ) |
 | 0019 | [Ett dokument från en annan version av poolen hämtas igen och konverteras om, efter alla andra kandidater](0019-omkonvertering-efter-poolens-version.md) | accepted (0055 undantar granskade dokument) |
-| 0020 | [Luckorna räknas fram ur poolen på statussidan och lagras inte](0020-luckor-raknas-fram-lagras-inte.md) | accepted |
+| 0020 | [Luckorna räknas fram ur poolen på statussidan och lagras inte](0020-luckor-raknas-fram-lagras-inte.md) | accepted (0062 visar år utan dokument) |
 | 0021 | [Poolens text escapas vid konverteringen så att den är riktig Markdown, och CI kör Markdown-lint](0021-texten-ar-riktig-markdown.md) | accepted |
 | 0022 | [Personnummer, mobilnummer, e-post och gatuadresser maskas vid konverteringen; namn står kvar](0022-personuppgifter-maskas-vid-konverteringen.md) | accepted |
 | 0023 | [Webbplatsen renderar poolens dokument med markdown-it-py, en sida per dokument och en per organ](0023-dokumenten-pa-webbplatsen-med-markdown-it-py.md) | accepted |
@@ -85,3 +85,4 @@ Regler för det här repot, utöver MADR:
 | 0059 | [Handlingsplanerna följs steg för steg som initiativärendena, med en länk till själva planen](0059-handlingsplanerna-foljs-som-initiativen.md) | proposed |
 | 0060 | [Kommunens sida blir en översikt över organen och deras sidor, organets sidor får flikar och statusen en egen sida](0060-navigeringen-med-oversikt-och-flikar.md) | proposed |
 | 0061 | [Ett tillfälligt fel på `robots.txt` försöks igen och stoppar inte arkivet, och körningen går två gånger om dygnet tills arkivet är ikapp](0061-korningen-tal-tillfalliga-fel-pa-robots.md) | proposed |
+| 0062 | [I arkivet gäller filnamnets datum under ett annat möte samma år, ett tvåsiffrigt år är 2000-talets, och statussidan visar år utan dokument](0062-arkivets-datum-och-ar-utan-dokument.md) | proposed |

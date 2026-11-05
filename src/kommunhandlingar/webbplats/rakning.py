@@ -8,7 +8,7 @@ from kommunhandlingar.frontmatter import lista
 from kommunhandlingar.kandidat import TYPORDNING
 from kommunhandlingar.konfiguration import Kommun, Organ
 from kommunhandlingar.konvertering.kvalitet import KVALITETER
-from kommunhandlingar.webbplats.luckor import Lucka, luckor
+from kommunhandlingar.webbplats.luckor import Lucka, luckor, tomma_ar
 
 
 @dataclass(frozen=True)
@@ -20,6 +20,7 @@ class Organrad:
     kvaliteter: Counter
     obekraftade_sidor: int
     luckor: list[Lucka]
+    tomma_ar: list[str]
 
     @property
     def dokument(self) -> int:
@@ -55,4 +56,5 @@ def organrad(organ: Organ, dokument: list[dict[str, str]], idag: date) -> Organr
         Counter(d["kvalitet"] for d in dokument),
         sum(len(lista(d["tal_obekraftade"])) for d in dokument),
         luckor(dokument, idag),
+        tomma_ar(dokument),
     )

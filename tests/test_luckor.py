@@ -1,9 +1,9 @@
-"""Krav: K7 i docs/02-KRAV.md, ADR-0020. Kod: webbplats/luckor.py."""
+"""Krav: K7 i docs/02-KRAV.md, ADR-0020 och ADR-0062. Kod: webbplats/luckor.py."""
 
 import unittest
 from datetime import date
 
-from kommunhandlingar.webbplats.luckor import Lucka, luckor
+from kommunhandlingar.webbplats.luckor import Lucka, luckor, tomma_ar
 
 IDAG = date(2026, 10, 9)
 
@@ -81,3 +81,13 @@ class TestLuckor(unittest.TestCase):
             luckor(dokument, IDAG),
             [Lucka("2026-01-10", "2", ("kallelse och handlingar",))],
         )
+
+
+class TestTommaAr(unittest.TestCase):
+    def test_ar_utan_dokument_mellan_forsta_och_sista(self):
+        dokument = mote("2014-03-01", "protokoll") + mote("2018-03-01", "protokoll")
+        dokument += [dok("2016-05-01", "kallelse", kvalitet="ej-hamtad")]
+        self.assertEqual(tomma_ar(dokument), ["2015", "2017"])
+
+    def test_inga_dokument_inga_tomma_ar(self):
+        self.assertEqual(tomma_ar([]), [])

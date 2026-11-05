@@ -1,11 +1,13 @@
-"""Krav: K16 i docs/02-KRAV.md, ADR-0018 och ADR-0027.
+"""Krav: K16 i docs/02-KRAV.md, ADR-0018, ADR-0027 och ADR-0062.
 Kod: src/kommunhandlingar/adaptrar/sitevision_arkiv.py."""
 
 import json
 import unittest
 from dataclasses import replace
+from datetime import date
 from urllib.parse import parse_qs, urlsplit
 
+from kommunhandlingar.adaptrar.sitevision import las as las_sidor
 from kommunhandlingar.adaptrar.sitevision_arkiv import upptack
 from kommunhandlingar.adaptrar.wayback import CDX
 from kommunhandlingar.fel import Hamtfel
@@ -161,3 +163,26 @@ class TestArkivetsUpptackt(unittest.TestCase):
         self.assertIn(
             f"{bild('20221115000000', BUN)}: sidan går inte att läsa", noteringar
         )
+
+
+class TestDatumIArkivet(unittest.TestCase):
+    """ADR-0062: under ett annat möte samma år gäller filnamnets datum."""
+
+    def arkivet(self, rubrik: str, filnamn: str):
+        kalla = las(FIXTURER / "exempelby.toml").kallor[0]
+        html = sida((rubrik, lank("a1", filnamn)))
+        return las_sidor(replace(kalla, arkiv=True), [("bun", BUN, html)])
+
+    def test_filnamnet_galler_under_ett_annat_mote_samma_ar(self):
+        kandidater, _ = self.arkivet("14 december 2022", "Protokoll%202022-09-21.pdf")
+        self.assertEqual(kandidater[0].datum, date(2022, 9, 21))
+
+    def test_en_vecka_eller_ett_annat_ar_ger_ingen_kandidat(self):
+        fall = {
+            "flyttat möte": ("23 februari 2022", "Protokoll%202022-02-24.pdf"),
+            "en vecka": ("10 oktober 2023", "Kallelse%202023-10-03.pdf"),
+            "annat år": ("7 mars 2023", "Kallelse%202022-03-07.pdf"),
+        }
+        for orsak, (rubrik, filnamn) in fall.items():
+            with self.subTest(orsak):
+                self.assertEqual(self.arkivet(rubrik, filnamn)[0], [])

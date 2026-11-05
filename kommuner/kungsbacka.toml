@@ -117,6 +117,10 @@ rubrik = '^(?P<dag>\d{1,2}) (?P<manad>[a-zåäö]+) (?P<ar>\d{4})'
 [[kalla.monster]]
 regex = '(?i)(?P<typ>kallelse|handlingar|protokoll).*?(?P<ar>\d{4})-(?P<manad>\d{2})-(?P<dag>\d{2})'
 
+# Typ och datum med tvåsiffrigt år utan streck: "Protokoll 231018.signerad.pub.pdf".
+[[kalla.monster]]
+regex = '(?i)(?P<typ>kallelse|handlingar|protokoll)\D*?(?<!\d)(?P<ar>\d{2})(?P<manad>\d{2})(?P<dag>\d{2})(?!\d)'
+
 # Typ utan fullständigt datum: "Valnämnden protokoll 24-11-11"; datumet tas ur rubriken.
 [[kalla.monster]]
 regex = '(?i)(?P<typ>kallelse|handlingar|protokoll)'
@@ -292,6 +296,17 @@ regex = '(?i)/[^/]*(?:handlingar|underlag)[^/]*$'
 [[kalla.typer]]
 typ = "protokoll"
 regex = '(?i)/[^/]*protokoll[^/]*$'
+
+# Föredragningslistan ("KSAU_lista140318.pdf") är kallelsen.
+[[kalla.typer]]
+typ = "kallelse"
+regex = '(?i)(?:^|/)[^/]*_lista[^/]*$'
+
+# Revisionens filer ("kommunrev.-2020-04-20--227-240.pdf") är protokoll
+# eller sammanträdesanteckningar, som räknas som protokoll.
+[[kalla.typer]]
+typ = "protokoll"
+regex = '(?i)(?:^|/)(?:kommunrev\.|sammantradesant)[^/]*$'
 
 [[kalla.typer]]
 typ = "kallelse"

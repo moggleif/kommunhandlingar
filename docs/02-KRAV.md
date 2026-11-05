@@ -41,6 +41,16 @@ kunna läggas till utan kodändring.
 - **Så** blir det ingen kandidat, och det nämns i körningens
   sammanfattning – om inte kommunens konfiguration har en rättelse för
   filens källnyckel. Då gäller rättelsens datum.
+- **Givet** en fil i arkivets kopia av en mötessida vars filnamn har ett
+  datum samma år som rubriken, mer än en vecka från rubrikens
+- **När** upptäckten körs
+- **Så** gäller filnamnets datum: filen står under ett annat möte. En
+  vecka eller mindre, eller ett annat år, ger ingen kandidat som ovan
+  ([#217](https://github.com/moggleif/kommunhandlingar/issues/217)).
+- **Givet** ett datum med tvåsiffrigt år i ett filnamn eller en sökväg
+- **När** upptäckten körs
+- **Så** är året 2000-talets
+  ([#217](https://github.com/moggleif/kommunhandlingar/issues/217)).
 
 - **Givet** en kommunfil
 - **När** upptäckten körs
@@ -237,6 +247,12 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 - **Givet** en bilaga som bara finns vid vissa sammanträden
 - **När** webbplatsen byggs
 - **Så** är dess frånvaro ingen lucka.
+
+- **Givet** ett år mellan ett organs första och sista dokument i poolen,
+  utan något dokument från organet
+- **När** webbplatsen byggs
+- **Så** står året under organet på statussidan, som ett år utan
+  dokument ([#217](https://github.com/moggleif/kommunhandlingar/issues/217)).
 
 ## K8 — Körningen är inkrementell och kan avbrytas
 

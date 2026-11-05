@@ -75,11 +75,17 @@ class TestTolka(unittest.TestCase):
         with self.assertRaises(IngenKandidat):
             tolka(monster(*poster), "budget 2026-01-01", ())
 
+    def test_tvasiffrigt_ar_ar_2000_talets(self):
+        datum = r"(?P<ar>\d{2})(?P<manad>\d{2})(?P<dag>\d{2})"
+        poster = monster({"regex": rf"(?i)(?P<typ>protokoll) {datum}"})
+        tolkning = tolka(poster, "Protokoll 231018.signerad.pub.pdf", ())
+        self.assertEqual(tolkning.datum, date(2023, 10, 18))
+
     def test_ingen_kandidat(self):
         fall = {
             "inget mönster matchar": "Årsredovisning 2025",
             "datum som inte finns": "kallelse 2025-02-30",
-            "år utan fyra siffror": "kallelse 24-11-11",
+            "år med tre siffror": "kallelse 124-11-11",
             "okänt månadsnamn": "kallelse 2025-mars-03",
             "tom typ": " 2025-03-03",
             "ofullständigt datum": "kallelse 2025--03",
