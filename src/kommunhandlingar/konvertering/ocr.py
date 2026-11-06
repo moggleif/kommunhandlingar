@@ -46,16 +46,19 @@ UTFYLLNAD = re.compile(
 
 def las(rendering: pdfium.PdfPage) -> str | None:
     """Sidans OCR-text, eller None när den inte når tröskeln. Ord på
-    högkant målas vita och sidan läses om; de skrivs sist (ADR-0064)."""
+    högkant målas vita och sidan läses om; de skrivs sist (ADR-0064).
+    Når omläsningen inte tröskeln gäller den första läsningen."""
     bild = rendering.render(scale=DPI / 72, grayscale=True).to_pil()
-    last = las_bild(bild)
-    stamplar = hogkant.ocr_ord(last[0]) if last else []
+    forsta = las_bild(bild)
+    if forsta is None or not over_troskeln(forsta[0]):
+        return None
+    stamplar = hogkant.ocr_ord(forsta[0])
     if stamplar:
         hogkant.mala_vitt(bild, stamplar)
-        last = las_bild(bild)
-    if last is None or not over_troskeln(last[0]):
-        return None
-    return hogkant.sist(rensa(last[1].strip()), hogkant.ocr_rader(stamplar))
+        andra = las_bild(bild)
+        if andra is not None and over_troskeln(andra[0]):
+            return hogkant.sist(rensa(andra[1].strip()), hogkant.ocr_rader(stamplar))
+    return rensa(forsta[1].strip())
 
 
 def las_bild(bild: Image.Image) -> tuple[str, str] | None:

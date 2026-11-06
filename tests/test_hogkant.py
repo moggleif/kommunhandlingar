@@ -18,11 +18,13 @@ from kommunhandlingar.konvertering.las_sida import las_sida, textsida
 
 PDF = Path(__file__).parent / "fixtures" / "pdf" / "hogkant.pdf"
 STAMPEL = "2021-103216-0024"
-KOLUMNER = "block_num\tpar_num\tline_num\tleft\ttop\twidth\theight\tconf\ttext"
+KOLUMNER = (
+    "page_num\tblock_num\tpar_num\tline_num\tleft\ttop\twidth\theight\tconf\ttext"
+)
 
 
 def tsv(*ord_: tuple) -> str:
-    return "\n".join([KOLUMNER, *("\t".join(map(str, o)) for o in ord_)])
+    return "\n".join([KOLUMNER, *("\t".join(map(str, (1, *o))) for o in ord_)])
 
 
 def tecken(text: str, x0: float, top: float, uppat: bool = True) -> dict:
@@ -32,6 +34,7 @@ def tecken(text: str, x0: float, top: float, uppat: bool = True) -> dict:
         "x0": x0,
         "x1": x0 + 9,
         "top": top,
+        "bottom": top + 6,
         "upright": False,
         "matrix": (0, b, -b, 0, 0, 0),
     }
@@ -53,6 +56,23 @@ class TestTextlagret(unittest.TestCase):
         sida = SimpleNamespace(chars=tecknen)
         self.assertEqual(hogkant.textlagret(sida), ["A", "B"])
 
+    def test_ord_utan_mellanslag_halls_isar(self):
+        ord_ = [tecken(t, 40, 200 - 6 * i) for i, t in enumerate("Dnr")]
+        ord_ += [tecken(t, 40, 180 - 6 * i) for i, t in enumerate("KS")]
+        self.assertEqual(hogkant.textlagret(SimpleNamespace(chars=ord_)), ["Dnr KS"])
+
+    def test_tva_stamplar_i_samma_marginal(self):
+        nedre = [tecken(t, 30, 700 - 6 * i) for i, t in enumerate("NEDRE")]
+        ovre = [tecken(t, 30, 100 - 6 * i) for i, t in enumerate("OVRE")]
+        sida = SimpleNamespace(chars=nedre + ovre)
+        self.assertEqual(hogkant.textlagret(sida), ["NEDRE", "OVRE"])
+
+    def test_medurs_lases_fran_hoger(self):
+        ett = [tecken(t, 60, 40 + 6 * i, uppat=False) for i, t in enumerate("ETT")]
+        tva = [tecken(t, 40, 40 + 6 * i, uppat=False) for i, t in enumerate("TVA")]
+        sida = SimpleNamespace(chars=tva + ett)
+        self.assertEqual(hogkant.textlagret(sida), ["ETT", "TVA"])
+
 
 class TestOcr(unittest.TestCase):
     def test_ord_pa_hogkant_kanns_igen(self):
@@ -66,6 +86,15 @@ class TestOcr(unittest.TestCase):
         )
         self.assertEqual([o["text"] for o in ord_], ["2023-01-02", STAMPEL])
         self.assertEqual(hogkant.ocr_rader(ord_), ["2023-01-02", STAMPEL])
+
+    def test_korta_ord_pa_samma_rad_som_stampeln_kommer_med(self):
+        ord_ = hogkant.ocr_ord(
+            tsv(
+                (2, 1, 1, 2250, 300, 38, 60, 94, "Dnr"),
+                (2, 1, 1, 2250, 380, 38, 300, 94, "2021/123"),
+            )
+        )
+        self.assertEqual(hogkant.ocr_rader(ord_), ["Dnr 2021/123"])
 
     def test_malas_vita(self):
         bild = Image.new("L", (10, 10), 0)
@@ -88,6 +117,13 @@ class TestHogkantPdf(unittest.TestCase):
     def test_textlagret_skriver_stampeln_sist_i_lasriktningen(self):
         text = textsida(self.pdf.pages[0]).text
         self.assertTrue(text.endswith(f"bli liten.\n\n{STAMPEL}"))
+
+    def test_hogkant_i_en_tabell_star_kvar_i_tabellen(self):
+        sida = textsida(self.pdf.pages[2])
+        self.assertEqual(sida.text, "")
+        rubrik = sida.tabeller[0][0]
+        self.assertEqual(rubrik[0], "Post")
+        self.assertEqual(sorted(rubrik[1]), sorted("Belopp"))
 
     def test_skannad_sida_skriver_stampeln_sist(self):
         rendering = pdfium.PdfDocument(PDF)[1]

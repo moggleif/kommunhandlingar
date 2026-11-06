@@ -49,7 +49,9 @@ står sist (fas 0) och omläsningen är det som gör styckena hela.
   OCR-texten inte längre bryts av den. Prövat på Energimarknadsinspektionens
   beslut i kommunstyrelsens handlingar 2026-05-26, sida 779: båda
   stämplarna står sist på sidan.
-* Bra, eftersom bara sidor med ord på högkant läses två gånger.
+* Bra, eftersom bara sidor som når tröskeln och har ord på högkant läses
+  två gånger, och en omläsning som inte når tröskeln ger samma text som
+  förut.
 * Dåligt, eftersom en OCR-sida med en stämpel tar dubbelt så lång tid.
 * Dåligt, eftersom Tesseract ibland inte känner igen text på högkant
   som ord, utan som enstaka tecken eller brus; den står då kvar där den
@@ -99,5 +101,9 @@ på högkant (det här beslutet). Agenten föreslog att texten skrivs sist,
 och projektägaren valde det framför att ta bort den. Ord på högkant känns
 igen på formen i Tesseracts TSV: i provet var stämplarnas ord omkring tio
 gånger så höga som breda, medan ett vanligt ord är bredare än högt. Fyra
-tecken krävs så att ett `I` eller ett `|` inte räknas. Beslutet bör
+tecken krävs så att ett `I` eller ett `|` inte räknas; resten av raden
+följer med, så att korta ord i stämpeln inte blir kvar i stycket.
+Granskningen fann att tecken i textlagret som sorterades till en sträng
+klistrade ihop ord och stämplar i samma marginal; raderna delas därför
+efter mellanrummen längs läsriktningen. Beslutet bör
 omprövas om omkonverteringen visar stämplar som inte känns igen.

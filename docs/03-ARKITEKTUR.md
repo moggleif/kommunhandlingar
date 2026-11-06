@@ -1122,15 +1122,20 @@ sidhuvud i marginalen, tas ur sidans text och skrivs sist på sidan, en
 rad på högkant per stycke (`konvertering/hogkant.py`).
 
 - **Textlagret:** tecknen som inte står upprätt läses inte med resten av
-  sidan. De delas i rader efter läget i sidled, från vänster, och varje
-  rad läses i sin riktning: uppåt när tecknen är vridna moturs, nedåt när
-  de är vridna medurs. Tecken på högkant inne i en tabell står kvar i
-  tabellen. Sidans tal är fortfarande obekräftade (ADR-0038).
+  sidan. De delas i rader efter läget i sidled, och varje rad läses i sin
+  riktning: uppåt när tecknen är vridna moturs, med raderna från vänster,
+  nedåt när de är vridna medurs, med raderna från höger. Ett mellanrum
+  längs raden på mer än en femtedel av teckenstorleken blir ett
+  mellanslag, och mer än två teckenstorlekar skiljer två stämplar åt.
+  Tecken på högkant inne i en tabell står kvar i tabellen. Sidans tal är
+  fortfarande obekräftade (ADR-0038).
 - **OCR:** ett ord i Tesseracts TSV med minst fyra tecken som är minst
-  dubbelt så högt som brett står på högkant. Finns sådana ord målas
-  deras rutor vita och sidan läses om, så att styckena inte bryts av
-  stämpeln. Orden skrivs sist, en rad per rad i Tesseracts ordning.
-  Tröskeln för säkerheten prövas på den andra läsningen.
+  dubbelt så högt som brett står på högkant. Hela Tesseract-raden med
+  ett sådant ord räknas till stämpeln, så att också korta ord som `Dnr`
+  kommer med. Når den första läsningen tröskeln och har sidan sådana
+  rader, målas deras rutor vita och sidan läses om, så att styckena inte
+  bryts av stämpeln. Raderna skrivs sist, i Tesseracts ordning. Når
+  omläsningen inte tröskeln gäller den första läsningen, som förut.
 
 ### Markdown-texten
 

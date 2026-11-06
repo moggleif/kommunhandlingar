@@ -6,6 +6,7 @@ Körs för hand med reportlab och Pillow, som inte är projektets beroenden:
 1. Ett stycke i textlagret och ett diarienummer på högkant i högra
    marginalen, i höjd med styckets mitt.
 2. Samma sida inskannad, som bild i 150 dpi utan textlager.
+3. En tabell med linjer vars kolumnrubrik står på högkant.
 """
 
 from pathlib import Path
@@ -54,9 +55,27 @@ def inskannad(c: Canvas) -> None:
     c.drawImage(ImageReader(bild.convert("1")), 0, 0, B, H)
 
 
+def tabell(c: Canvas) -> None:
+    c.setFont("Helvetica", 11)
+    x, y = [60, 200, 300], [760, 680, 660, 640]
+    for xi in x:
+        c.line(xi, y[0], xi, y[-1])
+    for yi in y:
+        c.line(x[0], yi, x[-1], yi)
+    c.drawString(65, 700, "Post")
+    c.saveState()
+    c.translate(255, 690)
+    c.rotate(90)
+    c.drawString(0, 0, "Belopp")
+    c.restoreState()
+    for i, (post, belopp) in enumerate([("Intäkter", "1 200"), ("Kostnader", "900")]):
+        c.drawString(65, 665 - 20 * i, post)
+        c.drawRightString(295, 665 - 20 * i, belopp)
+
+
 def main() -> None:
     c = Canvas(str(HAR / "hogkant.pdf"), pagesize=(B, H), invariant=1)
-    for sida in (textlager, inskannad):
+    for sida in (textlager, inskannad, tabell):
         sida(c)
         c.showPage()
     c.save()
