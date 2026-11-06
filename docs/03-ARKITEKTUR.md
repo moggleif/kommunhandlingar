@@ -683,7 +683,8 @@ Sidan prövas i den här ordningen, och den första regeln som stämmer gäller:
   orienteringsdetektering, så en liggande skanning blir också
   `ej-konverterad`. Fallerar Tesseract på en sida, eller blir den inte
   klar på fem minuter, blir sidan `ej-konverterad` och felet skrivs ut;
-  dokumentets övriga sidor behålls. Saknas Tesseract eller `swe` stoppas
+  dokumentets övriga sidor behålls. Ord på högkant målas vita och sidan
+  läses om ([Text på högkant](#text-på-högkant)). Saknas Tesseract eller `swe` stoppas
   steg 2 innan något dokument läses, så att ingen sida märks
   `ej-konverterad` för att miljön saknar något. På en OCR-sida letas
   inga tabeller;
@@ -1112,6 +1113,30 @@ löptext och delas därför inte. Två spalter vars stycken råkar sluta på
 samma höjd kan delas vågrätt där, så att övre halvan av båda spalterna
 kommer före den undre; varje del står ändå hel.
 
+### Text på högkant
+
+Hur och varför står i
+[ADR-0064](decisions/0064-text-pa-hogkant-skrivs-sist.md). Text på
+högkant utanför tabellerna, som en stämpel, ett diarienummer eller ett
+sidhuvud i marginalen, tas ur sidans text och skrivs sist på sidan, en
+rad på högkant per stycke (`konvertering/hogkant.py`).
+
+- **Textlagret:** tecknen som inte står upprätt läses inte med resten av
+  sidan. De delas i rader efter läget i sidled, och varje rad läses i sin
+  riktning: uppåt när tecknen är vridna moturs, med raderna från vänster,
+  nedåt när de är vridna medurs, med raderna från höger. Ett mellanrum
+  längs raden på mer än en femtedel av teckenstorleken blir ett
+  mellanslag, och mer än två teckenstorlekar skiljer två stämplar åt.
+  Tecken på högkant inne i en tabell står kvar i tabellen. Sidans tal är
+  fortfarande obekräftade (ADR-0038).
+- **OCR:** ett ord i Tesseracts TSV med minst fyra tecken som är minst
+  dubbelt så högt som brett står på högkant. Hela Tesseract-raden med
+  ett sådant ord räknas till stämpeln, så att också korta ord som `Dnr`
+  kommer med. Når den första läsningen tröskeln och har sidan sådana
+  rader, målas deras rutor vita och sidan läses om, så att styckena inte
+  bryts av stämpeln. Raderna skrivs sist, i Tesseracts ordning. Når
+  omläsningen inte tröskeln gäller den första läsningen, som förut.
+
 ### Markdown-texten
 
 Hur och varför står i
@@ -1130,6 +1155,8 @@ Varje sida börjar med kommentaren `<!-- sida N -->`, så att en sida i
   ett stycke när texten visas, liksom mellanrummen; uppställningen finns
   i råfilen.
 - **Spalter** läses en i taget (K41, se [Spalter](#spalter)).
+- **Text på högkant** står sist på sidan (K41, se
+  [Text på högkant](#text-på-högkant)).
 - **Escapningen** gör att texten visas som den stod. Bara det som annars
   ändrar betydelse får ett `\` framför sig:
   - i radens början: talet i `1.` och `1)` (`1\.`), `-` och `+` följda av

@@ -1,15 +1,16 @@
 """Krav: K4, K5, K6, K15, K17, K19 och K41 i docs/02-KRAV.md, ADR-0005,
 ADR-0016, ADR-0017, ADR-0022, ADR-0024, ADR-0028, ADR-0033, ADR-0034,
-ADR-0036, ADR-0038 och ADR-0063. Test: tests/test_konvertering.py,
+ADR-0036, ADR-0038, ADR-0063 och ADR-0064. Test: tests/test_konvertering.py,
 tests/test_maska_poolen.py, tests/test_skarvar.py, tests/test_delade.py,
 tests/test_kvarvarande.py, tests/test_avskurna.py, tests/test_mellanslag.py,
-tests/test_ordning.py och tests/test_spalter.py.
+tests/test_ordning.py, tests/test_spalter.py och tests/test_hogkant.py.
 
 En sida blir `tom`, läses ur textlagret, eller läses med OCR. En OCR-sida
 får inga tabeller, och dess tal är aldrig bekräftade. En sida som inte är
 tom prövas för figurer. Personuppgifterna maskas i text och celler innan
 sidan lämnas vidare. En sida ur textlagret får en skarv för K19, vars rader
-bara jämförs och aldrig skrivs. Text i spalter läses spalt för spalt.
+bara jämförs och aldrig skrivs. Text i spalter läses spalt för spalt,
+och text på högkant skrivs sist.
 """
 
 from dataclasses import dataclass, field, replace
@@ -20,6 +21,7 @@ from pdfplumber.page import Page
 from kommunhandlingar.konvertering import (
     delade,
     figurer,
+    hogkant,
     kvarvarande,
     markdown,
     ocr,
@@ -85,7 +87,7 @@ def textsida(sida: Page) -> Sida:
     utan_linjer = olinjerade.tabeller(sida, rutor)
     rutor += [t.bbox for t in utan_linjer]
     utanfor = sida.filter(lambda o: not i_tabell(o, rutor))
-    text, i_texten = stycken(spalter.text(utanfor))
+    text, i_texten = sidans_text(utanfor)
     osaker = i_texten or osakra_tal(sida, fallda, rutor)
     hittade += [(t.bbox, t.rader, t.kanter) for t in utan_linjer]
     hittade.sort(key=lambda t: (round(t[0][1]), t[0][0]))
@@ -97,6 +99,13 @@ def textsida(sida: Page) -> Sida:
         figurer.har_figur(sida, rutor),
         skarv(utanfor, [(ruta, kanter) for ruta, _, kanter in hittade]),
     )
+
+
+def sidans_text(utanfor: Page) -> tuple[str, bool]:
+    """Texten utanför tabellerna, spalt för spalt, med text på högkant
+    sist (K41)."""
+    text = spalter.text(hogkant.staende(utanfor))
+    return stycken(hogkant.sist(text, hogkant.textlagret(utanfor)))
 
 
 def med_linjer(sida: Page) -> tuple[list[tuple], list[tuple]]:
