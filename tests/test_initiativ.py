@@ -147,6 +147,6 @@ class TestKungsbacka(unittest.TestCase):
         kungsbacka = las_kommun(ROT / "kommuner" / "kungsbacka.toml")
         fil = ROT / "initiativ" / "kungsbacka.csv"
         stegen = spar.las(fil, kungsbacka, ROT / "data" / "kungsbacka", INITIATIV)
-        self.assertEqual({s.organ for s in stegen}, {"ga"})
+        self.assertEqual({s.organ for s in stegen}, {"fg", "ga"})
         self.assertTrue(all(s.varde for s in stegen if s.fas == "vackt"))
         self.assertEqual(fil.read_bytes().count(b"\r"), 0)
