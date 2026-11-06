@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3a9ed51194d84d9470edeb6/17395228113
 sha256: 23f9e4cf61ec36d8ececb1db03e069d9e167d43a67a393e534e253089b356d13
 bytes: 37192344
 sidor: 480
-hamtad: 2026-10-23T09:27:43+00:00
-konverterad: 2026-10-23T09:29:31+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T11:14:28+00:00
+konverterad: 2026-11-06T11:16:21+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok]
@@ -9969,10 +9969,10 @@ Verksamhetschef        Verksamhetschef
 <!-- sida 249 -->
 
 PLANBESTÄMMELSER                                                          Marken    får endast   förses  med                          Tak  och  andra   byggnadsdelar      får inte
+
 komplementbyggnader          och  teknisk                   uppföras    med   koppar,   zink och   dess
 
 Följande   gäller  inom   områden     med                                 anläggning.                                                 legeringar   eller plastbelagda     plåttak
-
 nedanstående      beteckningar.     Endast   angiven                                                                                  som   avger   organiska    föroreningar.
 Höjd   på  byggnadsverk
 användning     och  utformning    är  tillåten. Där
@@ -9983,6 +9983,7 @@ arenabyggnaden       är 20  meter.   Utöver
 hela  området.
 högsta   nockhöjd    får endast   mindre                    Största   bruttoarea   är 8  500  m²  inom
 GRÄNSER                                                                   byggnadsdelar      samt  tekniska                           användningsområdet.
+
 anordningar    för arenan    ordnas.
 Största   byggnadsarea      är 1  200  m²
 Planområdesgräns.
@@ -10006,9 +10007,9 @@ Genomförandetiden        är  5 år.
 Markens      anordnande        och   vegetation
 Torg.
 Huvudmannaskap
-Parkering   och   ytor för logistik samt
+Parkering   och  ytor  för logistik samt
 Kvartersmark
-angöring   får anordnas.                       Kommunalt      huvudmannaskap         för allmän  plats.
+angöring   får anordnas.                       Kommunalt      huvudmannaskap        för allmän   plats.
 Arena.
 Belysningsmastar      får uppföras.
 Idrottsplats.
@@ -10023,49 +10024,73 @@ ALLMÄN         PLATS
 Fasader    som   vetter mot   järnvägen
 Avgränsad        via   egenskapsgräns            och
 ska  utformas   i obrännbart    material.
-användningsgräns                                                          Luftintag  placeras   högt   och  på  fasad
+användningsgräns                                                          Luftintag  placeras   högt  och   på  fasad
 som   vetter bort  från järnvägen.
 Markreservat        för allmännyttiga       ändamål
 
 Markreservat     för allmännyttiga
-Stängsel,     utfart  och   annan     utgång
-underjordiska     ledningar.
 
-Utfartsförbud.
+underjordiska    ledningar.
+
 Utformning       av  allmän    plats
-Utformning
+
 Dagvattendike      .
 
-Byggnad    får uppföras    från  en höjd  av
 Skärmtak     för uppföras   från  en  höjd
-4 (fyra) meter   ovan   mark.
-av  minst  3,6  meter   ovan   mark.
-Utförande
+
+av  minst  3,6  meter   ovan  mark.
 
 EGENSKAPSBESTÄMMELSER                             FÖR
-Källare  får inte finnas.
+
 KVARTERSMARK
-Nivå  på  färdigt golv  och  öppningar     i
+
 Avgränsad        via   egenskapsgräns            och
-konstruktioner    ska  vara  lägst  +2,3  i
+
 användningsgräns
-RH2000     om  inte annat
 
-Begränsning        av  markens      utnyttjande                           översvämningsskydd        anordnas     till
-denna   nivå.
+Begränsning        av  markens      utnyttjande
+
 Marken    får inte förses   med   byggnad.
-Lägsta   nivå  på färdigt  golv  ska  ligga
 
-minst  0,3  meter   över  marknivå    i
 Marken    får endast   förses   med
-förbindelsepunkten      för att
 komplementbyggnad.
-avloppsanslutning      med   självfall ska
+
 Marken    får endast   förses   med
-tillåtas.
+
 lastkaj.
 
-Detaljplan   för Kungsbackas      arena    Samrådshandling
+Stängsel,     utfart  och   annan     utgång
+
+Utfartsförbud.
+
+Utformning
+
+Byggnad     får uppföras   från  en  höjd  av
+4 (fyra)  meter  ovan   mark.
+
+Utförande
+
+Källare  får inte  finnas.
+
+Nivå  på  färdigt  golv  och  öppningar    i
+konstruktioner    ska  vara   lägst +2,3  i
+
+RH2000     om   inte annat
+
+översvämningsskydd         anordnas    till
+
+denna    nivå.
+
+Lägsta   nivå  på  färdigt golv  ska  ligga
+
+minst  0,3  meter   över  marknivå    i
+
+förbindelsepunkten      för att
+avloppsanslutning      med   självfall ska
+
+tillåtas.
+
+Detaljplan   för Kungsbackas       arena   Samrådshandling
 
 inom  Kungsbacka    4:65  och 4:6             Beslutsdatum Instans
 i Kungsbacka   stad,
@@ -10073,7 +10098,7 @@ Samråd
 BN tjm
 Kungsbacka    kommun                          2022-04-21
 Granskning
-TECKENFÖRKLARING      KARTDATA      Aktualitetsdatum kartdata: 2025-01-10                                                                                                                                                                                Upprättad 2025-01-10                          xxxx-xx-xx
+TECKENFÖRKLARING      KARTDATA      Aktualitetsdatum kartdata: 2025-01-10                                                                                                                                                                                Upprättad  2025-01-10                         xxxx-xx-xx
 Skala 1:1000 i A1, skala 1:2000 i A3
 Antagande
 xxxx-xx-xx

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.279f9c5018fe7b055048f0d/17179952143
 sha256: 6bf030ce7b338e2bf75e9f67b492a4eca94b52ce1584c6fa23f6dbf0667b6bde
 bytes: 10026204
 sidor: 587
-hamtad: 2026-10-23T07:05:04+00:00
-konverterad: 2026-10-23T07:06:59+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T08:45:32+00:00
+konverterad: 2026-11-06T08:47:37+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ok, ok, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3270,15 +3270,24 @@ SOU 2024:23                              Författningsförslag
 
 7 kap.
 7 §2
-
 Vid marknadsföring av alko- Vid marknadsföring av alko-
-holdrycker eller alkoholdrycks- holdrycker eller alkoholdrycks-
-liknande preparat till konsumenter liknande preparat till konsumenter
-genom kommersiella annonser i genom kommersiella annonser ska
-periodiska skrifter eller andra skrif- annonserna på ett tydligt sätt åter-
-ter på vilka tryckfrihetsförord- ge en text som informerar om
-ningen är tillämplig, och som med alkoholens skadeverkningar (in-
-avseende på ordningen för utgiv- formationstext).
+
+holdrycker eller alkoholdrycks-
+liknande preparat till konsumenter
+genom kommersiella annonser i
+periodiska skrifter eller andra skrif-
+ter på vilka tryckfrihetsförord-
+ningen är tillämplig, och som med
+avseende på ordningen för utgiv-
+
+holdrycker eller alkoholdrycks-
+liknande preparat till konsumenter
+genom kommersiella annonser ska
+annonserna på ett tydligt sätt åter-
+ge en text som informerar om
+alkoholens skadeverkningar (in-
+formationstext).
+
 ningen är jämförbara med perio-
 diska skrifter, ska annonserna på
 ett tydligt sätt återge en text som
@@ -3300,13 +3309,21 @@ vin, starköl och andra jästa alko- vin, starköl och andra jästa alko-
 holdrycker och av alkoholdrycks- holdrycker och av alkoholdrycks-
 liknande preparat krävs tillstånd liknande preparat krävs tillstånd
 
-av den kommun där serverings- (serveringstillstånd). Kravet på
-stället är beläget (serveringstill- serveringstillstånd gäller även för
-stånd).               servering på svenska fartyg i trafik
+av den kommun där serverings-
+stället är beläget (serveringstill-
+stånd).
+
+Serveringstillstånd som avser
+servering i inrikes trafik på fartyg,
+luftfartyg eller järnvägståg (trafik-
+
+(serveringstillstånd). Kravet på
+serveringstillstånd gäller även för
+servering på svenska fartyg i trafik
 mellan Sverige och utlandet.
-Serveringstillstånd som avser Serveringstillstånd meddelas av
-servering i inrikes trafik på fartyg, den kommun där serveringsstället
-luftfartyg eller järnvägståg (trafik- är beläget. Serveringstillstånd som
+Serveringstillstånd meddelas av
+den kommun där serveringsstället
+är beläget. Serveringstillstånd som
 
 2 Senaste lydelse 2019:345.
 3 Senaste lydelse 2019:345.
@@ -3317,17 +3334,27 @@ luftfartyg eller järnvägståg (trafik- är beläget. Serveringstillstånd som
 
 Författningsförslag                        SOU 2024:23
 
-servering), meddelas dock av den avser servering på fartyg, luft-
-kommun där det företag som vill fartyg eller järnvägståg i inrikes
+servering), meddelas dock av den
+kommun där det företag som vill
+bedriva serveringen har sitt säte,
+eller där den person som vill be-
+driva serveringen har sin hemvist.
+Har företaget inte säte inom landet
+eller personen inte sin hemvist
+inom landet, meddelas tillstånd
+av Stockholms kommun.
 
-bedriva serveringen har sitt säte, trafik eller på svenska fartyg i tra-
-eller där den person som vill be- fik mellan Sverige och utlandet
-driva serveringen har sin hemvist. meddelas dock av den kommun
-Har företaget inte säte inom landet där det företag som vill bedriva
-eller personen inte sin hemvist serveringen har sitt säte, eller där
-inom landet, meddelas tillstånd den person som vill bedriva ser-
-av Stockholms kommun. veringen har sin hemvist. Har
+avser servering på fartyg, luft-
+fartyg eller järnvägståg i inrikes
+trafik eller på svenska fartyg i tra-
+fik mellan Sverige och utlandet
+meddelas dock av den kommun
+där det företag som vill bedriva
+serveringen har sitt säte, eller där
+den person som vill bedriva ser-
+veringen har sin hemvist. Har
 företaget inte säte inom landet
+
 eller personen inte sin hemvist
 inom landet, meddelas tillstånd
 av Stockholms kommun.
@@ -3338,20 +3365,28 @@ laget.
 
 4 §
 Den som bedriver catering- Den som bedriver catering-
-verksamhet för slutna sällskap kan verksamhet för slutna sällskap kan
-meddelas stadigvarande server- meddelas stadigvarande server-
-ingstillstånd under förutsättning ingstillstånd under förutsättning
-att den lokal där serveringen äger att den lokal där serveringen äger
-rum för varje tillfälle anmäls till rum och den tid serveringen ska
-och godkänns av kommunen. pågå för varje tillfälle anmäls till
+
+verksamhet för slutna sällskap kan
+meddelas stadigvarande server-
+ingstillstånd under förutsättning
+att den lokal där serveringen äger
+rum för varje tillfälle anmäls till
 och godkänns av kommunen.
+
+verksamhet för slutna sällskap kan
+meddelas stadigvarande server-
+ingstillstånd under förutsättning
+att den lokal där serveringen äger
+rum och den tid serveringen ska
+pågå för varje tillfälle anmäls till
+och godkänns av kommunen.
+
 Den som bedriver cateringverksamhet ska ha ett eget kök för
 tillredning av mat för att få stadigvarande serveringstillstånd.
 
 6 §4
 Anordnande av provsmakning Anordnande av provsmakning
 av spritdrycker, vin, starköl eller av alkoholdrycker eller av alkohol-
-
 andra jästa alkoholdrycker eller av drycksliknande preparat vid arr-
 alkoholdrycksliknande preparat angemang riktade till allmänheten
 vid arrangemang riktade till all- är tillåtet under förutsättning att
@@ -3366,34 +3401,51 @@ sättning att
 
 SOU 2024:23                              Författningsförslag
 
-1\. arrangören har ett stadig- 1. arrangören har ett stadig-
-varande serveringstillstånd som varande serveringstillstånd som
+1\. arrangören har ett stadig-
+varande serveringstillstånd som
+omfattar de drycker eller preparat
+som provsmakningen avser samt
+den lokal där provsmakningen
+ska äga rum, eller
+2\. de partihandlare som deltar
+enskilt eller gemensamt ansöker
+om och får ett tillfälligt tillstånd
+för provsmakning av de drycker
+eller preparat som avses erbju-
+das.
 
-omfattar de drycker eller preparat omfattar de drycker eller preparat
-som provsmakningen avser samt som provsmakningen avser samt
-den lokal där provsmakningen den lokal där provsmakningen
-ska äga rum, eller    ska äga rum,
-2\. de partihandlare som deltar 2. de partihandlare som deltar
-enskilt eller gemensamt ansöker enskilt eller gemensamt ansöker
-om och får ett tillfälligt tillstånd om och får ett tillfälligt tillstånd
-för provsmakning av de drycker för provsmakning av de drycker
-eller preparat som avses erbju- eller preparat som avses erbju-
-das.                  das,
+Tillståndshavare som avses i
+första stycket 1 ska innan arrange-
+manget äger rum göra en anmälan
+till kommunen.
+
+1\. arrangören har ett stadig-
+varande serveringstillstånd som
+omfattar de drycker eller preparat
+som provsmakningen avser samt
+den lokal där provsmakningen
+ska äga rum,
+2\. de partihandlare som deltar
+enskilt eller gemensamt ansöker
+om och får ett tillfälligt tillstånd
+för provsmakning av de drycker
+eller preparat som avses erbju-
+das,
+
 3\. arrangören är en tillverkare
 av folköl och provsmakningen av-
 ser folköl, eller
 4\. arrangören har uppfyllt kraven
 i 8 § för att få servera folköl.
-Tillståndshavare som avses i Arrangörer som avses i första
-första stycket 1 ska innan arrange- stycket 1, 3 och 4 ska innan arr-
-manget äger rum göra en anmälan angemanget äger rum göra en an-
-till kommunen.        mälan till den kommun där prov-
+Arrangörer som avses i första
+stycket 1, 3 och 4 ska innan arr-
+angemanget äger rum göra en an-
+mälan till den kommun där prov-
 smakningen ska äga rum.
 
 7 a §
 Regeringen eller den myndighet
 som regeringen bestämmer får med-
-
 dela föreskrifter om mängden alko-
 holdrycker som får serveras vid
 provsmakning.
@@ -3414,7 +3466,6 @@ Författningsförslag                        SOU 2024:23
 
 Kommunen får även ta ut avgift för tillsyn enligt 9 kap. av den som
 har serveringstillstånd och av den som bedriver anmälningspliktig
-
 detaljhandel med eller servering av folköl.
 Regeringen får meddela föreskrifter om den tid inom vilken kom-
 munen ska fatta beslut om serveringstillstånd.
@@ -3433,20 +3484,32 @@ dela föreskrifter om hur serverings-
 utrymmet ska vara utformat.
 
 15 §5
-Stadigvarande tillstånd för ser- Stadigvarande tillstånd för ser-
-vering till allmänheten får med- vering till allmänheten får med-
-ges endast om serveringsstället har ges endast om serveringsstället har
-ett eget kök i anslutning till ser- ett eget kök i anslutning till ser-
-veringslokalen samt tillhandahåller veringslokalen samt tillhandahåller
-lagad eller på annat sätt tillredd lagad eller på annat sätt tillredd
-mat. Gästerna ska kunna erbjudas mat. Gästerna ska kunna erbjudas
-ett varierat utbud av maträtter. flera olika maträtter. Efter klockan
-Efter klockan 23.00 får matutbu- 22.00 får matutbudet begränsas
-det begränsas till ett fåtal enklare till ett fåtal enklare rätter.
+
+Stadigvarande tillstånd för ser-
+vering till allmänheten får med-
+ges endast om serveringsstället har
+ett eget kök i anslutning till ser-
+veringslokalen samt tillhandahåller
+lagad eller på annat sätt tillredd
+mat. Gästerna ska kunna erbjudas
+ett varierat utbud av maträtter.
+Efter klockan 23.00 får matutbu-
+det begränsas till ett fåtal enklare
+
+Stadigvarande tillstånd för ser-
+vering till allmänheten får med-
+ges endast om serveringsstället har
+ett eget kök i anslutning till ser-
+veringslokalen samt tillhandahåller
+lagad eller på annat sätt tillredd
+mat. Gästerna ska kunna erbjudas
+flera olika maträtter. Efter klockan
+22.00 får matutbudet begränsas
+till ett fåtal enklare rätter.
+
 rätter.
 Serveringsstället ska vara utrustat med ett i förhållande till loka-
 lens storlek lämpligt antal sittplatser för matservering. Om det finns
-
 en drinkbar får den ta i anspråk endast en mindre del av serverings-
 ställets totala yta och vara belägen i nära anslutning till matsalen.
 Tillfälligt tillstånd för servering till allmänheten får meddelas om
@@ -3826,7 +3889,6 @@ SOU 2024:23                              Författningsförslag
 
 3 §3
 Kommunen utövar tillsyn över Kommunen utövar tillsyn över
-
 att denna lag och anslutande före- att bestämmelserna i 2 och 3 kap.
 skrifter följs när det gäller och anslutande föreskrifter följs
 på fysiska försäljningsställen när det
@@ -3835,27 +3897,39 @@ gäller
 sentation och identitets- och säker- första och andra styckena och 8 §,
 hetsmärkning enligt 3 kap. 1, 3, 4
 och 7 §§ på fysiska försäljnings-
+
 ställen,
-2\. tillhandahållande av elektro- 2. produktanmälan enligt 2 kap.
-niska cigaretter och påfyllnings- 3 och 7 §§,
+2\. tillhandahållande av elektro-
+niska cigaretter och påfyllnings-
 behållare enligt 2 kap. 7–9 §§ och
 3 kap. 2, 5 och 6 §§ på fysiska för-
 säljningsställen,
-3\. marknadsföring enligt 4 kap. 3. rapporteringsskyldighet enligt
-1, 2 och 4–7 §§ när det gäller mark- 2 kap. 2, 4, 6 och 9 §§,
+3\. marknadsföring enligt 4 kap.
+1, 2 och 4–7 §§ när det gäller mark-
 nadsföringsåtgärder på eller i anslut-
 ning till fysiska försäljningsställen,
 och
-4\. rökfria miljöer som avses i 4. hälsovarningar enligt 3 kap.
-6 kap. 2 § och som inte är upp- 1 och 2 §§,
+4\. rökfria miljöer som avses i
+6 kap. 2 § och som inte är upp-
+
 låtna enbart för personal samt loka-
 ler som avses i 6 kap. 3 §.
-5\. märkning enligt 3 kap. 3 och
 
+2\. produktanmälan enligt 2 kap.
+3 och 7 §§,
+
+3\. rapporteringsskyldighet enligt
+2 kap. 2, 4, 6 och 9 §§,
+
+4\. hälsovarningar enligt 3 kap.
+1 och 2 §§,
+
+5\. märkning enligt 3 kap. 3 och
 4 §§,
 6\. informationsblad och inne-
 hållsdeklaration enligt 3 kap. 5 och
 6 §§, och
+
 7\. spårbarhet och säkerhetsmärk-
 ning enligt 3 kap. 7 §.
 
@@ -3922,15 +3996,15 @@ SOU 2024:23                              Författningsförslag
 
 7\. åldersgräns enligt 5 kap. 17
 och 18 §§, och
-
 8\. förvaringsförbud enligt 5 kap.
 21 §.
-5 §5
 
+5 §5
 Folkhälsomyndigheten utövar Folkhälsomyndigheten utövar
 tillsyn över att denna lag och an- tillsyn över att bestämmelserna i
 slutande föreskrifter följs när det 2 och 3 kap. och anslutande före-
 gäller                skrifter följs om det inte är fråga
+
 1\. produktkrav och rapporter- om tillsyn som ska utövas av kom-
 ingsskyldighet, i andra fall än som munen på ett fysiskt försäljnings-
 avses i 4 §, enligt 2 kap. 1 § första och ställe enligt 3 §.
@@ -3941,20 +4015,30 @@ mation, i andra fall än som avses i
 3 §, enligt 3 kap. 1–6 §§,
 Folkhälsomyndigheten utövar
 även tillsyn över att bestämmel-
+
+3\. registrering enligt 5 kap. 5 och
+15 §§ vid gränsöverskridande dis-
+tansförsäljning och egenkontroll en-
+ligt 5 kap. 6, 7 och 16 §§ vid sådan
+distansförsäljning, och
+4\. förbud mot sådan tillverk-
+ning eller införsel som avses enligt
+föreskrifter meddelade med stöd
+
 serna i 5 och 11 kap. och anslutande
 föreskrifter följs när det gäller
-3\. registrering enligt 5 kap. 5 och 1. registrering och egenkontroll
-15 §§ vid gränsöverskridande dis- vid gränsöverskridande distansför-
-tansförsäljning och egenkontroll en- säljning enligt 5 kap. 5–7, 15 och
-ligt 5 kap. 6, 7 och 16 §§ vid sådan 16 §§, och
-distansförsäljning, och
-4\. förbud mot sådan tillverk- 2. förbud mot sådan tillverk-
-ning eller införsel som avses enligt ning eller införsel som avses enligt
-föreskrifter meddelade med stöd föreskrifter meddelade med stöd
+1\. registrering och egenkontroll
+vid gränsöverskridande distansför-
+säljning enligt 5 kap. 5–7, 15 och
+16 §§, och
+
+2\. förbud mot sådan tillverk-
+ning eller införsel som avses enligt
+föreskrifter meddelade med stöd
 
 av 11 kap. 5 §.       av 11 kap. 5 §.
-9 §
 
+9 §
 En tillsynsmyndighet som an- En tillsynsmyndighet som an-
 ges i 2–7 §§ får i sin tillsynsverk- ges i 3–7 §§ får i sin tillsynsverk-
 samhet meddela de föreläggan- samhet avseende tobaksvaror och
@@ -4067,7 +4151,6 @@ Författningsförslag                        SOU 2024:23
 
 8 kap.
 3 §
-
 Folkhälsomyndigheten får ta Folkhälsomyndigheten får ta
 ut avgifter för sin tillsyn över att ut avgifter för sin tillsyn över att
 tillverkare och importörer av to- tillverkare, importörer, distribu-
@@ -4076,16 +4159,26 @@ baksvaror följer 2 kap. 1, 2 och 6 §§. törer och detaljhandlare följer lage
 10 kap.
 2 §8
 Den som uppsåtligen i strid med förbudet i 3 kap. 1 § tredje
+
 stycket tillhandahåller tobaksvaror som saknar föreskrivna hälso-
+
 varningar, ska dömas för olovlig tobakshantering till böter eller fängelse
+
 i högst sex månader.
-Detsamma gäller den som upp- Detsamma gäller den som upp-
-såtligen eller av oaktsamhet säljer såtligen eller av oaktsamhet för-
-eller lämnar ut tobaksvaror i strid varar, säljer, lämnar ut eller anskaf-
-med 5 kap. 17 § första eller andra far tobaksvaror i strid med 5 kap.
-stycket.              17 § första eller andra stycket, 19 a
+Detsamma gäller den som upp-
+såtligen eller av oaktsamhet säljer
+eller lämnar ut tobaksvaror i strid
+med 5 kap. 17 § första eller andra
+stycket.
+
+Detsamma gäller den som upp-
+såtligen eller av oaktsamhet för-
+varar, säljer, lämnar ut eller anskaf-
+far tobaksvaror i strid med 5 kap.
+17 § första eller andra stycket, 19 a
 eller 21 §.
 Till ansvar ska inte dömas den
+
 som i strid med 5 kap. 21 § förvarar
 sådana produkter, om det av om-
 ständigheterna framgår att pro-
@@ -4099,7 +4192,6 @@ tredje stycket, eller säljer elektroniska cigaretter eller påfyllnings-
 behållare i strid med ett förbud som har meddelats enligt 7 kap. 13 §,
 ska dömas till böter eller fängelse i högst sex månader.
 Detsamma gäller den som upp- Detsamma gäller den som upp-
-
 såtligen eller av oaktsamhet bryter såtligen eller av oaktsamhet bryter
 mot 5 kap. 14 eller 15 §, eller säljer mot 5 kap. 14 eller 15 §, eller för-
 eller lämnar ut elektroniska ciga- varar, säljer, lämnar ut eller an-
@@ -4116,7 +4208,6 @@ SOU 2024:23                              Författningsförslag
 
 strid med 5 kap. 17 § första eller påfyllningsbehållare i strid med
 andra stycket.        5 kap. 17 § första eller andra
-
 stycket, 19 a eller 21 §.
 Till ansvar ska inte dömas den
 som i strid med 5 kap. 21 § för-
@@ -4127,14 +4218,24 @@ för annat än försäljning.
 Om gärningen är ringa, ska den inte medföra ansvar.
 
 7 §
-Tobaksvaror, elektroniska ciga- Tobaksvaror, elektroniska ciga-
-retter och påfyllningsbehållare retter och påfyllningsbehållare
-som varit föremål för brott en- som varit föremål för brott en-
-ligt denna lag eller deras värde ligt denna lag eller deras värde
-samt utbyte av sådant brott ska samt vinster från sådant brott ska
-förklaras förverkade, om det inte förverkas, om det inte är uppen-
-är uppenbart oskäligt. bart oskäligt.
+
+Tobaksvaror, elektroniska ciga-
+retter och påfyllningsbehållare
+som varit föremål för brott en-
+ligt denna lag eller deras värde
+samt utbyte av sådant brott ska
+förklaras förverkade, om det inte
+är uppenbart oskäligt.
+
+Tobaksvaror, elektroniska ciga-
+retter och påfyllningsbehållare
+som varit föremål för brott en-
+ligt denna lag eller deras värde
+samt vinster från sådant brott ska
+förverkas, om det inte är uppen-
+bart oskäligt.
 Förverkande till följd av att
+
 någon har anskaffat produkterna i
 strid med 5 kap. 19 a § får ske även
 hos den för vilken de har anskaffats.
@@ -4145,7 +4246,6 @@ troniska cigaretter eller påfyllnings-
 behållare har anskaffats i strid med
 5 kap. 19 a § ska vara fri från an-
 svar för medverkan till brott som
-
 avses i detta kapitel.
 
 Denna lag träder i kraft den 1 juli 2026.
@@ -4220,23 +4320,33 @@ och dess närområde under tid då
 undervisning pågår samt under skol-
 resor och utflykter.
 Den som är huvudman för sko-
+
 lan ansvarar för att bestämmelsen
 följs.
 
 22 §
-Folkhälsomyndigheten ansva- Folkhälsomyndigheten ansva-
-rar för tillsynsvägledning när det rar för tillsynsvägledning när det
-gäller kommunens tillsyn enligt gäller kommunens tillsyn enligt
-24 § första stycket 1–4 och kommu- 24 §, 24 a § 2 samt kommunens
-nens och Polismyndighetens till- och Polismyndighetens tillsyn en-
-syn enligt 25 §.      ligt 25 §.
+
+Folkhälsomyndigheten ansva-
+rar för tillsynsvägledning när det
+gäller kommunens tillsyn enligt
+24 § första stycket 1–4 och kommu-
+nens och Polismyndighetens till-
+syn enligt 25 §.
+
+Folkhälsomyndigheten ansva-
+rar för tillsynsvägledning när det
+gäller kommunens tillsyn enligt
+24 §, 24 a § 2 samt kommunens
+och Polismyndighetens tillsyn en-
+ligt 25 §.
+
 Konsumentverket ansvarar för Konsumentverket ansvarar för
 tillsynsvägledning när det gäller tillsynsvägledning när det gäller
 kommunens tillsyn enligt 24 § kommunens tillsyn enligt 24 a § 1.
 
 andra stycket.
-23 §
 
+23 §
 Länsstyrelsen utövar tillsyn Länsstyrelsen utövar tillsyn
 inom länet enligt 24 och 25 §§. inom länet över kommunernas till-
 I tillsynen ingår att synsverksamhet.
@@ -4297,7 +4407,6 @@ SOU 2024:23                              Författningsförslag
 
 25 §
 Kommunen och Polismyndig- Kommunen och Polismyndig-
-
 heten utövar tillsyn över att denna heten utövar tillsammans eller var
 lag och anslutande föreskrifter följs och en för sig tillsyn över att denna
 när det gäller        lag och anslutande föreskrifter följs
@@ -4308,6 +4417,7 @@ när näringsidkaren har säte eller när näringsidkaren har säte eller
 fast försäljningsställe för närings- fast försäljningsställe för närings-
 verksamhet i Sverige, och verksamhet i Sverige,
 2\. förvaringsförbud enligt 18 a §,
+
 och
 2\. ålderskrav enligt 19 och 3. ålderskrav enligt 19 och
 20 §§.                20 §§.
@@ -4316,25 +4426,43 @@ och
 Folkhälsomyndigheten utövar Folkhälsomyndigheten utövar
 tillsyn över att denna lag och an- tillsyn över att kraven i 5–8 och
 slutande föreskrifter följs när det 14 §§ och anslutande föreskrifter
-gäller                är uppfyllda om det inte är fråga
+
+gäller
+
+1\. produktanmälan, produkt-
+krav, rapporteringsskyldighet och
+produktkontroll enligt 5, 6 och
+14–16 §§, i andra fall än som avses
+i 24 § första stycket,
+2\. innehållsdeklaration, hälso-
+
+är uppfyllda om det inte är fråga
 om tillsyn som ska utövas av kom-
 munen på ett fysiskt försäljnings-
 ställe enligt 24 §.
-1\. produktanmälan, produkt- Folkhälsomyndigheten utövar
-krav, rapporteringsskyldighet och även tillsyn över att bestämmel-
-produktkontroll enligt 5, 6 och serna och anslutande föreskrifter följs
-14–16 §§, i andra fall än som avses när det gäller
-i 24 § första stycket,
-2\. innehållsdeklaration, hälso- 1. produktkontroll enligt 15 och
+Folkhälsomyndigheten utövar
+även tillsyn över att bestämmel-
+serna och anslutande föreskrifter följs
+när det gäller
 
-varning och märkning enligt 7 och 16 §§, och
+1\. produktkontroll enligt 15 och
+
+varning och märkning enligt 7 och
 8 §§, i andra fall än som avses i
 24 § första stycket, och
-3\. anmälan om försäljning och 2. anmälan om försäljning och
-egenkontroll enligt 17 och 18 §§ egenkontroll enligt 17 och 18 §§
-när näringsidkaren saknar säte eller när näringsidkaren saknar säte eller
-fast driftställe för näringsverksam- fast driftställe för näringsverksam-
-het i Sverige.        het i Sverige.
+3\. anmälan om försäljning och
+egenkontroll enligt 17 och 18 §§
+när näringsidkaren saknar säte eller
+fast driftställe för näringsverksam-
+het i Sverige.
+
+16 §§, och
+
+2\. anmälan om försäljning och
+egenkontroll enligt 17 och 18 §§
+när näringsidkaren saknar säte eller
+fast driftställe för näringsverksam-
+het i Sverige.
 
 69
 
@@ -4392,7 +4520,6 @@ SOU 2024:23                              Författningsförslag
 
 Folkhälsomyndigheten får ta ut 2. ta emot, lagra, hantera och
 avgifter av tillverkare och impor- analysera de uppgifter som enligt
-
 törer för att ta emot, lagra, han- 14 § lämnas till myndigheten samt
 tera och analysera de uppgifter för att offentliggöra att rapporter-
 som enligt 14 § lämnas till myn- ingsskyldigheten har uppfyllts.
@@ -4405,12 +4532,21 @@ bedriver anmälningspliktig försälj- att denna lag och anslutande före-
 ning enligt 17 §.     skrifter följs.
 
 45 §
-Den som uppsåtligen eller av Den som uppsåtligen eller av
-oaktsamhet bedriver detaljhandel oaktsamhet bedriver detaljhandel
-med tobaksfria nikotinproduk- med tobaksfria nikotinproduk-
-ter i strid med 17 § eller säljer ter i strid med 17 § ska dömas till
-eller lämnar ut tobaksfria nikotin- böter eller fängelse i högst sex
-produkter i strid med 19 § första månader.
+
+Den som uppsåtligen eller av
+oaktsamhet bedriver detaljhandel
+med tobaksfria nikotinproduk-
+ter i strid med 17 § eller säljer
+eller lämnar ut tobaksfria nikotin-
+produkter i strid med 19 § första
+
+Den som uppsåtligen eller av
+oaktsamhet bedriver detaljhandel
+med tobaksfria nikotinproduk-
+ter i strid med 17 § ska dömas till
+böter eller fängelse i högst sex
+månader.
+
 eller andra stycket, ska dömas till
 böter eller fängelse i högst sex
 månader.
@@ -4593,11 +4729,10 @@ Läkemedel            16, 28, 33, 126
 SOU 2024:23                              Författningsförslag
 
 1.8   Förslag till förordning om ändring
-
 i alkoholförordningen (2010:1636)
+
 Härigenom föreskrivs i fråga om alkoholförordningen (2010:1636)
 dels att 4 och 13 §§ ska ha följande lydelse.
-
 dels att det ska införas två nya paragrafer, 4 b och 15 §§ och närmast
 före 4 b och 15 §§ nya rubriker av följande lydelse.
 
@@ -4613,6 +4748,7 @@ ståndshavare och andra som be- ståndshavare och andra som be-
 driver verksamhet med stöd av driver verksamhet med stöd av
 alkohollagen ska lämna för att alkohollagen ska lämna för att
 myndigheten ska kunna bedriva myndigheten ska kunna bedriva
+
 tillsyn enligt 9 kap. 1 § alkohol- tillsyn enligt 9 kap. 1 a § alkohol-
 lagen,                lagen,
 3\. vilka uppgifter som ska finnas i ett bevis om tillstånd som en
@@ -4623,13 +4759,20 @@ kommun har meddelat enligt 9 kap. 7 § alkohollagen,
 vilka fall denaturering får underlåtas enligt 6 kap. 10 § 3 alkohollagen,
 6\. handel i övrigt med teknisk 6. handel i övrigt med teknisk
 sprit och alkoholhaltiga preparat sprit och alkoholhaltiga preparat
-som behövs till skydd för liv och som behövs till skydd för liv och
-hälsa enligt 6 kap. 10 § 4 alko- hälsa enligt 6 kap. 10 § 4 alko-
 
-hollagen, och         hollagen,
-7 hur kontrollköp ska genom- 7. hur kontrollköp ska genom-
-föras enlig 9 kap. 15 a § alkohol- föras enlig 9 kap. 15 a § alkohol-
-lagen.                lagen,
+som behövs till skydd för liv och
+hälsa enligt 6 kap. 10 § 4 alko-
+hollagen, och
+7 hur kontrollköp ska genom-
+föras enlig 9 kap. 15 a § alkohol-
+lagen.
+
+som behövs till skydd för liv och
+hälsa enligt 6 kap. 10 § 4 alko-
+hollagen,
+7\. hur kontrollköp ska genom-
+föras enlig 9 kap. 15 a § alkohol-
+lagen,
 
 1 Senaste lydelse 2015:466.
 
@@ -4687,25 +4830,42 @@ och hjärnskador.      och hjärnskador.
 
 SOU 2024:23                              Författningsförslag
 
-4\. Alkohol kan orsaka skador 3. Alkohol kan orsaka skador
-på lever och bukspottskörtel. på lever och bukspottskörtel.
-
-5\. Alkohol kan orsaka hjärn- 4. Alkohol kan orsaka hjärn-
-blödning och cancer.  blödning och cancer.
-6\. Varannan förare som om- 5. Varannan förare som om-
-kommer i singelolyckor i trafi- kommer i singelolyckor i trafi-
-ken är alkoholpåverkad. ken är alkoholpåverkad.
-7\. Hälften av alla som drunk- 6. Hälften av alla som drunk-
-nar har alkohol i blodet. nar har alkohol i blodet.
+4\. Alkohol kan orsaka skador
+på lever och bukspottskörtel.
+5\. Alkohol kan orsaka hjärn-
+blödning och cancer.
+6\. Varannan förare som om-
+kommer i singelolyckor i trafi-
+ken är alkoholpåverkad.
+7\. Hälften av alla som drunk-
+nar har alkohol i blodet.
 8\. Alkohol i samband med arbete
 ökar risken för olyckor.
-9\. Alkoholkonsumtion under 7. Alkoholkonsumtion under
-graviditeten kan skada barnet. graviditeten kan skada barnet.
-10\. Barn som får alkohol 8. Barn som får alkohol
-hemma dricker sig berusade oftare hemma dricker sig berusade oftare
-än andra barn.        än andra barn.
+9\. Alkoholkonsumtion under
+
+graviditeten kan skada barnet.
+10\. Barn som får alkohol
+hemma dricker sig berusade oftare
+än andra barn.
 11\. Att börja dricka i tidig ålder
 ökar risken för alkoholproblem.
+
+3\. Alkohol kan orsaka skador
+på lever och bukspottskörtel.
+4\. Alkohol kan orsaka hjärn-
+blödning och cancer.
+5\. Varannan förare som om-
+kommer i singelolyckor i trafi-
+ken är alkoholpåverkad.
+6\. Hälften av alla som drunk-
+nar har alkohol i blodet.
+
+7\. Alkoholkonsumtion under
+
+graviditeten kan skada barnet.
+8\. Barn som får alkohol
+hemma dricker sig berusade oftare
+än andra barn.
 
 Direktåtkomst
 
@@ -4714,7 +4874,6 @@ Kommunerna får ha direkt-
 åtkomst till uppgifter i Folkhälso-
 myndighetens centrala register om
 serveringstillstånd och de statistik-
-
 rapporter som en tillståndshavare
 ska lämna till Folkhälsomyndig-
 heten enligt 9 kap. 14 § andra stycket
@@ -4776,15 +4935,24 @@ SOU 2024:23                              Författningsförslag
 
 2 §1
 Den som enligt 2 kap. 2 § Den som enligt 2 kap. 2 §
-
 första stycket lagen (2018:2088) första stycket lagen (2018:2088)
-om tobak och liknande produk- om tobak och liknande produk-
-ter lämnar uppgifter till Folkhälso- ter lämnar uppgifter till Folkhälso-
-myndigheten ska, för varje märke myndigheten ska, för varje märke
-och typ, betala en avgift till Folk- och typ, betala en avgift till Folk-
-hälsomyndigheten      hälsomyndigheten med
-1\. med 14 500 kronor avseende 1. X kronor avseende ciga-
-cigaretter,           retter,
+
+om tobak och liknande produk-
+ter lämnar uppgifter till Folkhälso-
+myndigheten ska, för varje märke
+och typ, betala en avgift till Folk-
+hälsomyndigheten
+1\. med 14 500 kronor avseende
+cigaretter,
+
+om tobak och liknande produk-
+ter lämnar uppgifter till Folkhälso-
+myndigheten ska, för varje märke
+och typ, betala en avgift till Folk-
+hälsomyndigheten med
+1\. X kronor avseende ciga-
+retter,
+
 2\. med 14 500 kronor avseende 2. X kronor avseende rulltobak,
 rulltobak,              3. X kronor avseende tobak
 3\. med 13 000 kronor avseende för användning i munnen, och
@@ -4795,16 +4963,28 @@ tobaksvaror som inte omfattas
 av 1–3.
 
 3 §2
-Den som enligt 2 kap. 6 § Den som enligt 2 kap. 6 §
-lagen (2018:2088) om tobak och lagen (2018:2088) om tobak och
-liknande produkter lämnar upp- liknande produkter lämnar upp-
-gifter till Folkhälsomyndigheten gifter till Folkhälsomyndigheten
-ska, för varje märke och typ, be- ska, för varje märke och typ, be-
-tala en årlig avgift till Folkhälso- tala en årlig avgift till Folkhälso-
-myndigheten           myndigheten med
-1\. med 12 000 kronor avseende 1. X kronor avseende ciga-
-cigaretter,           retter,
-2\. med 6 000 kronor avseende 2. X kronor avseende rull-
+
+Den som enligt 2 kap. 6 §
+lagen (2018:2088) om tobak och
+liknande produkter lämnar upp-
+gifter till Folkhälsomyndigheten
+ska, för varje märke och typ, be-
+tala en årlig avgift till Folkhälso-
+myndigheten
+1\. med 12 000 kronor avseende
+cigaretter,
+2\. med 6 000 kronor avseende
+
+Den som enligt 2 kap. 6 §
+lagen (2018:2088) om tobak och
+liknande produkter lämnar upp-
+gifter till Folkhälsomyndigheten
+ska, för varje märke och typ, be-
+tala en årlig avgift till Folkhälso-
+myndigheten med
+1\. X kronor avseende ciga-
+retter,
+2\. X kronor avseende rull-
 
 rulltobak,            tobak,
 3\. med 1 000 kronor avseende 3. X kronor avseende tobak
@@ -4858,14 +5038,14 @@ dock längst till och med den 31 december 2026.
 SOU 2024:23                              Författningsförslag
 
 1.10  Förslag till förordning om ändring i förordningen
-
 (2022:1263) om tobaksfria nikotinprodukter
+
 Härigenom föreskrivs att 7 och 15 c §§ förordningen om (2022:1263)
 om tobaksfria nikotinprodukter ska ha följande lydelse.
 
 Nuvarande lydelse     Föreslagen lydelse
-7 §1
 
+7 §1
 Tobaksfria nikotinprodukter får inte innehålla
 1\. vitaminer eller andra tillsatser som ger intryck av att en tobaks-
 fri nikotinprodukt innebär en hälsofördel eller minskade hälsorisker,
@@ -4877,16 +5057,28 @@ gram.
 
 15 c §2
 Den som bedriver anmälnings- För Folkhälsomyndighetens till-
-pliktig försäljning enligt 17 § lagen syn enligt 26 § lagen (2022:1257)
-(2022:1257) om tobaksfria niko- om tobaksfria nikotinprodukter
-tinprodukter ska för Folkhälso- ska tillverkare, importörer, distri-
-myndighetens tillsyn betala en avgift butörer och detaljhandlare betala
-med 1 140 kronor per timme. Av- en avgift med X kronor per
-gift ska tas ut per påbörjad halv- timme. Avgift ska tas ut per på-
-timme. Avgiften ska tas ut efter börjad halvtimme. Avgiften ska
-utförd tillsyn. Om tillsynen under- tas ut efter utförd tillsyn. Om till-
-stiger en halvtimme ska avgift inte synen understiger en halvtimme
-tas ut.               ska avgift inte tas ut.
+
+pliktig försäljning enligt 17 § lagen
+(2022:1257) om tobaksfria niko-
+tinprodukter ska för Folkhälso-
+myndighetens tillsyn betala en avgift
+med 1 140 kronor per timme. Av-
+gift ska tas ut per påbörjad halv-
+timme. Avgiften ska tas ut efter
+utförd tillsyn. Om tillsynen under-
+stiger en halvtimme ska avgift inte
+tas ut.
+
+syn enligt 26 § lagen (2022:1257)
+om tobaksfria nikotinprodukter
+ska tillverkare, importörer, distri-
+butörer och detaljhandlare betala
+en avgift med X kronor per
+timme. Avgift ska tas ut per på-
+börjad halvtimme. Avgiften ska
+tas ut efter utförd tillsyn. Om till-
+synen understiger en halvtimme
+ska avgift inte tas ut.
 
 1\. Denna förordning träder i kraft den 1 juli 2026.
 2\. Nikotinsnus som innehåller en högre halt nikotin än 12 milli-
@@ -21706,22 +21898,21 @@ senast den 31 mars 2024.
 
 <!-- sida 500 -->
 
-Statens offentliga utredningar  2024
+Statens  offentliga utredningar 2024
 
 Kronologisk förteckning
 
-1\. Ett starkare skydd för offentlig- 19. En ny beredskapssektor
-anställda mot våld, hot och trakas- – för ökad försörjningsberedskap. KN.
-serier. Ju.          20. Maskinellt värde för vissa industri-
-2\. Ett samordnat vaccinationsarbete byggnader – ett undantag från fastig-
-– för effektivare hantering av kom- hetsskatt. Fi.
-mande vacciner. Del 1 och 2. S. 21. Ett inkluderande jämställdhets-
-3\. Ett starkt judiskt liv för framtida politiskt delmål mot våld. A.
-generationer. Nationell strategi för att 22. En ny organisation för förvaltning
-stärka judiskt liv i Sverige 2025–2034. av EU-medel. Fi.
+1\. Ett starkare skydd för offentlig-
+anställda mot våld, hot och trakas-
+serier. Ju.
+2\. Ett samordnat vaccinationsarbete
+– för effektivare hantering av kom-
+mande vacciner. Del 1 och 2. S.
+3\. Ett starkt judiskt liv för framtida
+generationer. Nationell strategi för att
+stärka judiskt liv i Sverige 2025–2034.
 Ku.
-23\. En trygg uppväxt utan
-4\. Inskränkningarna i upphovsrätten. Ju. nikotin, alkohol och lustgas. S.
+4\. Inskränkningarna i upphovsrätten. Ju.
 5\. Förbättrad ordning och säkerhet
 vid förvar. Ju.
 6\. Steg mot stärkt kapacitet. Fi.
@@ -21752,47 +21943,48 @@ för vuxna. U.
 17\. Skolor mot brott. U.
 18\. Nya regler om cybersäkerhet. Fö.
 
+19\. En ny beredskapssektor
+– för ökad försörjningsberedskap. KN.
+20\. Maskinellt värde för vissa industri-
+byggnader – ett undantag från fastig-
+hetsskatt. Fi.
+21\. Ett inkluderande jämställdhets-
+politiskt delmål mot våld. A.
+22\. En ny organisation för förvaltning
+av EU-medel. Fi.
+23\. En trygg uppväxt utan
+nikotin, alkohol och lustgas. S.
+
 <!-- sida 501 -->
 
-Statens offentliga utredningar  2024
+Statens  offentliga utredningar 2024
 
 Systematisk förteckning
 
-Arbetsmarknadsdepartementet En ny beredskapssektor
-Mål och mening med integration. [12] – för ökad försörjningsberedskap. [19]
+Arbetsmarknadsdepartementet
+Mål och mening med integration. [12]
 Arbetslivskriminalitet – myndighets-
-samverkan, en gemensam tipsfunktion, Kulturdepartementet
-lärdomar från Belgien och gränsöver- Ett starkt judiskt liv för framtida
-skridande arbete. [14] generationer. Nationell strategi för att
-Ett inkluderande jämställdhetspolitiskt stärka judiskt liv i Sverige 2025–2034. [3]
+samverkan, en gemensam tipsfunktion,
+lärdomar från Belgien och gränsöver-
+skridande arbete. [14]
+Ett inkluderande jämställdhetspolitiskt
 delmål mot våld. [21]
-Landsbygds- och infrastrukturdepartementet
-Finansdepartementet   Livsmedelsberedskap för en ny tid. [8]
+Finansdepartementet
 Steg mot stärkt kapacitet. [6]
-Maskinellt värde för vissa industribyggna- Socialdepartementet
+Maskinellt värde för vissa industribyggna-
 der – ett undantag från fastighetsskatt.
-Ett samordnat vaccinationsarbete – för
 [20]
-effektivare hantering av kommande
-En ny organisation för förvaltning vacciner. Del 1 och 2. [2]
+En ny organisation för förvaltning
 av EU-medel [22]
-En trygg uppväxt utan
-nikotin, alkohol och lustgas. [23]
 Försvarsdepartementet
-Nya regler om cybersäkerhet. [18] Utbildningsdepartementet
-Utvecklat samarbete för verksamhets-
-Justitiedepartementet   förlagd utbildning – långsiktiga
-åtgärder för sjuksköterskeprogrammen.
+Nya regler om cybersäkerhet. [18]
+
+Justitiedepartementet
 Ett starkare skydd för offentliganställda
-[9]
 mot våld, hot och trakasserier. [1]
-Växla yrke som vuxen – en reformerad
 Inskränkningarna i upphovsrätten. [4]
-vuxenutbildning och en ny yrkesskola
 Förbättrad ordning och säkerhet
-för vuxna. [16]
 vid förvar. [5]
-Skolor mot brott. [17]
 Ett säkrare och mer tillgängligt
 fastighetsregister. [7]
 Preskription av avlägsnandebeslut och
@@ -21806,6 +21998,32 @@ Klimat- och näringslivsdepartementet
 Rätt frågor på regeringens bord – en
 ändamålsenlig regeringsprövning på
 miljöområdet. [11]
+
+En ny beredskapssektor
+– för ökad försörjningsberedskap. [19]
+
+Kulturdepartementet
+Ett starkt judiskt liv för framtida
+generationer. Nationell strategi för att
+stärka judiskt liv i Sverige 2025–2034. [3]
+Landsbygds- och infrastrukturdepartementet
+Livsmedelsberedskap för en ny tid. [8]
+
+Socialdepartementet
+Ett samordnat vaccinationsarbete – för
+effektivare hantering av kommande
+vacciner. Del 1 och 2. [2]
+En trygg uppväxt utan
+nikotin, alkohol och lustgas. [23]
+Utbildningsdepartementet
+Utvecklat samarbete för verksamhets-
+förlagd utbildning – långsiktiga
+åtgärder för sjuksköterskeprogrammen.
+[9]
+Växla yrke som vuxen – en reformerad
+vuxenutbildning och en ny yrkesskola
+för vuxna. [16]
+Skolor mot brott. [17]
 
 <!-- sida 502 -->
 

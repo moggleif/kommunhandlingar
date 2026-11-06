@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.19326c8b1a1302ccbfb7b783/1792140041
 sha256: c2b3d9bfd73480c292030bc0e32fb49bb6d86ff90a7dad0f1289bd93622a6c4f
 bytes: 63956656
 sidor: 656
-hamtad: 2026-10-23T08:26:37+00:00
-konverterad: 2026-10-23T08:34:09+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T10:10:19+00:00
+konverterad: 2026-11-06T10:18:16+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ej-konverterad, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -805,20 +805,35 @@ historiska värde, och
 struktion, funktion, användningssätt, utseende eller kulturhistoriska värde.
 
 2 kap.
+
 2 §
 Planläggning och prövningen i ärenden Planläggning och prövningen i ärenden
 om lov eller förhandsbesked enligt om lov, förhandsbesked eller lokalise-
-denna lag ska syfta till att mark- och ringsbesked enligt denna lag ska syfta
-vattenområden används för det eller de till att mark- och vattenområden an-
-ändamål som områdena är mest läm- vänds för det eller de ändamål som
-pade för med hänsyn till beskaffenhet, områdena är mest lämpade för med
-läge och behov. Företräde ska ges åt hänsyn till beskaffenhet, läge och be-
-sådan användning som från allmän hov. Företräde ska ges åt sådan an-
-synpunkt medför en god hushållning. vändning som från allmän synpunkt
-Bestämmelserna om hushållning med medför en god hushållning. Bestäm-
-mark- och vattenområden i 3 kap. och melserna om hushållning med mark-
-4 kap. 1–8 §§ miljöbalken ska tilläm- och vattenområden i 3 kap. och 4 kap.
-pas.                      1–8 §§ miljöbalken ska tillämpas.
+
+denna lag ska syfta till att mark- och
+vattenområden används för det eller de
+ändamål som områdena är mest läm-
+pade för med hänsyn till beskaffenhet,
+läge och behov. Företräde ska ges åt
+sådan användning som från allmän
+synpunkt medför en god hushållning.
+Bestämmelserna om hushållning med
+mark- och vattenområden i 3 kap. och
+4 kap. 1–8 §§ miljöbalken ska tilläm-
+pas.
+
+ringsbesked enligt denna lag ska syfta
+till att mark- och vattenområden an-
+vänds för det eller de ändamål som
+områdena är mest lämpade för med
+hänsyn till beskaffenhet, läge och be-
+hov. Företräde ska ges åt sådan an-
+vändning som från allmän synpunkt
+medför en god hushållning. Bestäm-
+melserna om hushållning med mark-
+och vattenområden i 3 kap. och 4 kap.
+1–8 §§ miljöbalken ska tillämpas.
+
 3 §
 Planläggning enligt denna lag ska med hänsyn till natur- och kulturvärden,
 miljö- och klimataspekter samt mellankommunala och regionala förhållanden
@@ -847,13 +862,22 @@ Författningsförslag
 Den kommunala handlingsplanen för bostadsförsörjningen enligt lagen
 (2000:1383) om kommunernas bostadsförsörjningsansvar ska vara vägledande
 vid tillämpningen av första stycket 5.
+
+Vid planläggning och i ärenden om
+bygglov eller förhandsbesked enligt
+denna lag får mark tas i anspråk för att
+bebyggas endast om marken från all-
+män synpunkt är lämplig för ändamå-
+let.
+
 4 §
-Vid planläggning och i ärenden om Vid planläggning och i ärenden om
-bygglov eller förhandsbesked enligt bygglov, förhandsbesked eller lokali-
-denna lag får mark tas i anspråk för att seringsbesked enligt denna lag får
-bebyggas endast om marken från all- mark tas i anspråk för att bebyggas
-män synpunkt är lämplig för ändamå- endast om marken från allmän syn-
-let.                      punkt är lämplig för ändamålet.
+Vid planläggning och i ärenden om
+bygglov, förhandsbesked eller lokali-
+seringsbesked enligt denna lag får
+mark tas i anspråk för att bebyggas
+endast om marken från allmän syn-
+punkt är lämplig för ändamålet.
+
 5 §
 Vid planläggning och i ärenden om bygglov eller förhandsbesked enligt denna
 lag ska bebyggelse och byggnadsverk lokaliseras till mark som är lämpad för än-
@@ -869,9 +893,9 @@ nisk kommunikation samt samhällsser-
 vice i övrigt,
 4\. möjligheterna att förebygga vat- 5. möjligheterna att förebygga vat-
 ten- och luftföroreningar samt buller- ten- och luftföroreningar samt buller-
-störningar, och           störningar, och
+störningar, och          störningar, och
 5\. risken för olyckor, översvämning 6. risken för olyckor, översvämning
-och erosion.              och erosion.
+och erosion.             och erosion.
 Första stycket 1–3 och 6 gäller även
 i ärenden om lokaliseringsbesked.
 
@@ -880,14 +904,23 @@ i ärenden om lokaliseringsbesked.
 2 §
 Kommunen ska med en detaljplan pröva ett mark- eller vattenområdes lämplig-
 het för bebyggelse och byggnadsverk samt reglera bebyggelsemiljöns utform-
+
 ning för
-1\. en ny sammanhållen bebyggelse 1. en ny sammanhållen bebyggelse
-med bygglovspliktiga byggnadsverk, med bygglovspliktiga byggnadsverk
-om det behövs med hänsyn till bebyg- eller förprövade enbostadshus som
-gelsens karaktär, omfattning eller in- inte omfattas av krav på bygglov, om
-verkan på omgivningen, till behovet av det behövs med hänsyn till bebyggel-
-samordning eller till förhållandena i sens karaktär, omfattning eller inver-
-övrigt,                   kan på omgivningen, till behovet av
+1\. en ny sammanhållen bebyggelse
+med bygglovspliktiga byggnadsverk,
+om det behövs med hänsyn till bebyg-
+gelsens karaktär, omfattning eller in-
+verkan på omgivningen, till behovet av
+samordning eller till förhållandena i
+övrigt,
+
+1\. en ny sammanhållen bebyggelse
+med bygglovspliktiga byggnadsverk
+eller förprövade enbostadshus som
+inte omfattas av krav på bygglov, om
+det behövs med hänsyn till bebyggel-
+sens karaktär, omfattning eller inver-
+kan på omgivningen, till behovet av
 samordning eller till förhållandena i
 övrigt,
 
@@ -958,12 +991,19 @@ Boverket
 Regeringsuppdrag att ta fram förslag på hur typgodkännande av småhus kan genomföras 12
 Författningsförslag
 
-Ett visst materialslag eller en viss Ett visst materialslag eller en viss
-konstruktion eller anordning som är konstruktion eller anordning som är
-typgodkänd ska anses uppfylla de tek- typgodkänd ska anses uppfylla de ut-
-niska egenskapskrav som avses i 4 § i formningskrav som avses i 1 § 1 och 3
-de avseenden som typgodkännandet samt de tekniska egenskapskrav som
-gäller.                   avses i 4 § i de avseenden som typgod-
+Ett visst materialslag eller en viss
+konstruktion eller anordning som är
+typgodkänd ska anses uppfylla de tek-
+niska egenskapskrav som avses i 4 § i
+de avseenden som typgodkännandet
+gäller.
+
+Ett visst materialslag eller en viss
+konstruktion eller anordning som är
+typgodkänd ska anses uppfylla de ut-
+formningskrav som avses i 1 § 1 och 3
+samt de tekniska egenskapskrav som
+avses i 4 § i de avseenden som typgod-
 kännandet gäller.
 
 9 kap. Lov och förhandsbesked 9 kap. Lov, förhandsbesked,
@@ -993,7 +1033,7 @@ sked och förprövningsbesked (56–84 a
 §§),
 13\. handläggningen av ärenden om 13. handläggningen av ärenden om
 lov och förhandsbesked (85–113 §§), lov, förhandsbesked, lokaliseringsbe-
-och                       sked och förprövningsbesked (85–113
+och                      sked och förprövningsbesked (85–113
 §§), och
 14\. när lov börjar gälla och giltighetstiden för lov (114 och 115 §§).
 5 a §
@@ -1030,6 +1070,7 @@ area som är högst 120,0 kvadratmeter,
 och
 5\. enbostadshuset får en taknocks-
 höjd som är högst 5,5 meter.
+
 5 b §
 Trots 3 § krävs det inte bygglov för
 uppförande av ett nytt förprövat enbo-
@@ -1046,6 +1087,7 @@ area som är högst 120,0 kvadratmeter,
 och
 4\. enbostadshuset får en taknocks-
 höjd som är högst 5,5 meter.
+
 36 §
 Inom eller i anslutning till områden som är av riksintresse på grund av att de be-
 hövs för totalförsvarets anläggningar krävs det bygglov för
@@ -1056,23 +1098,41 @@ ser eller övnings- eller skjutfält,
 enbostadshus och tillbyggnad av ett
 sådant, om det är fråga om områden
 för flygplatser eller övnings- eller
+
+2\. fasadändring som innebär att en
+solenergianläggning sätts upp eller vä-
+sentligt ändras i ett område som omfat-
+tas av en detaljplan,
+3\. nybyggnad och tillbyggnad av
+ekonomibyggnad för hästhållning och
+ändrad användning av ekonomibygg-
+nad till hästhållning, om det är fråga
+om områden för flygplatser eller öv-
+nings- eller skjutfält, och
+4\. att sätta upp eller väsentligt ändra
+en ljusanordning, om den avsedda an-
+vändningen av anordningen kan antas
+påtagligt försvåra tillkomsten eller ut-
+nyttjandet av totalförsvarets anlägg-
+ningar.
+
 skjutfält,
-2\. fasadändring som innebär att en 3. fasadändring som innebär att en
-solenergianläggning sätts upp eller vä- solenergianläggning sätts upp eller vä-
-sentligt ändras i ett område som omfat- sentligt ändras i ett område som omfat-
-tas av en detaljplan,     tas av en detaljplan,
-3\. nybyggnad och tillbyggnad av 4. nybyggnad och tillbyggnad av
-ekonomibyggnad för hästhållning och ekonomibyggnad för hästhållning och
-ändrad användning av ekonomibygg- ändrad användning av ekonomibygg-
-nad till hästhållning, om det är fråga nad till hästhållning, om det är fråga
-om områden för flygplatser eller öv- om områden för flygplatser eller öv-
-nings- eller skjutfält, och nings- eller skjutfält, och
-4\. att sätta upp eller väsentligt ändra 5. att sätta upp eller väsentligt ändra
-en ljusanordning, om den avsedda an- en ljusanordning, om den avsedda an-
-vändningen av anordningen kan antas vändningen av anordningen kan antas
-påtagligt försvåra tillkomsten eller ut- påtagligt försvåra tillkomsten eller ut-
-nyttjandet av totalförsvarets anlägg- nyttjandet av totalförsvarets anlägg-
-ningar.                   ningar.
+3\. fasadändring som innebär att en
+solenergianläggning sätts upp eller vä-
+sentligt ändras i ett område som omfat-
+tas av en detaljplan,
+4\. nybyggnad och tillbyggnad av
+ekonomibyggnad för hästhållning och
+ändrad användning av ekonomibygg-
+nad till hästhållning, om det är fråga
+om områden för flygplatser eller öv-
+nings- eller skjutfält, och
+5\. att sätta upp eller väsentligt ändra
+en ljusanordning, om den avsedda an-
+vändningen av anordningen kan antas
+påtagligt försvåra tillkomsten eller ut-
+nyttjandet av totalförsvarets anlägg-
+ningar.
 
 Boverket
 
@@ -1306,12 +1366,12 @@ underrätta sökanden och fastighetsäga- är uppenbart obehövligt, underrätta
 ren om allt underlag av betydelse för kanden och fastighetsägaren om allt
 beslutet och ge dem tillfälle att inom underlag av betydelse för beslutet och
 en bestämd tid yttra sig över underla- ge dem tillfälle att inom en bestämd tid
-get.                      yttra sig över underlaget.
+get.                     yttra sig över underlaget.
 99 §
 Byggnadsnämnden ska handlägga Byggnadsnämnden ska handlägga
 ärenden om lov och förhandsbesked ärenden om lov, förhandsbesked och
 skyndsamt och besluta i ärendet inom lokaliseringsbesked skyndsamt och be-
-tio veckor från           sluta i ärendet inom tio veckor från
+tio veckor från          sluta i ärendet inom tio veckor från
 1\. den dag ansökan kom in till nämnden (ansökningsdagen),
 2\. den dag efter ansökningsdagen då ytterligare underlag eller en ändring av
 ansökan kom in till nämnden från sökanden på sökandens initiativ,
@@ -1322,11 +1382,12 @@ veckor från den dag som anges i 1 eller 2 har förelagt sökanden enligt 91 § 
 stycket att avhjälpa bristen.
 Om det är nödvändigt på grund av handläggningen eller utredningen i ärendet,
 får tioveckorsfristen i första stycket förlängas en gång med högst tio veckor.
+
 100 §
 Byggnadsnämnden ska
 1\. när en ansökan om lov eller för- 1. när en ansökan om lov, förhands-
 handsbesked har kommit in, skriftligen besked eller lokaliseringsbesked har
-informera sökanden om     kommit in, skriftligen informera sö-
+informera sökanden om    kommit in, skriftligen informera sö-
 kanden om
 a) vilka tidsfrister som gäller för nämndens beslut i ärendet,
 b) att den avgift som nämnden får ta ut reduceras om tidsfristen för beslut
@@ -1338,20 +1399,32 @@ om den ändrade tidpunkten, och
 3\. om tidsfristen förlängs enligt 99 § andra stycket, innan den ursprungliga
 tidsfristen gått ut skriftligen informera sökanden om förlängningen och skälen
 för den.
+
 102 §
 Trots 99 § får byggnadsnämnden be- Trots 99 § får byggnadsnämnden be-
 sluta att ett ärende om lov eller för- sluta att ett ärende om lov, förhandsbe-
 handsbesked inte ska avgöras förrän sked eller lokaliseringsbesked inte ska
 1\. frågan om dispens från strand- avgöras förrän
-skydd har avgjorts, om ärendet om lov 1. frågan om dispens från strand-
-eller förhandsbesked avser en byggnad skydd har avgjorts, om ärendet om lov,
-eller ett markområde som också omfat- förhandsbesked eller lokaliseringsbe-
-tas av en ansökan om dispens från sked avser en byggnad eller ett mark-
-strandskydd,              område som också omfattas av en an-
-2\. frågan om expropriation har av- sökan om dispens från strandskydd,
-gjorts, om ärendet om lov eller för- 2. frågan om expropriation har av-
-handsbesked avser en byggnad eller ett gjorts, om ärendet om lov, förhandsbe-
-markområde som också omfattas av en sked eller lokaliseringsbesked avser en
+
+skydd har avgjorts, om ärendet om lov
+eller förhandsbesked avser en byggnad
+eller ett markområde som också omfat-
+tas av en ansökan om dispens från
+strandskydd,
+2\. frågan om expropriation har av-
+gjorts, om ärendet om lov eller för-
+handsbesked avser en byggnad eller ett
+markområde som också omfattas av en
+
+1\. frågan om dispens från strand-
+skydd har avgjorts, om ärendet om lov,
+förhandsbesked eller lokaliseringsbe-
+sked avser en byggnad eller ett mark-
+område som också omfattas av en an-
+sökan om dispens från strandskydd,
+2\. frågan om expropriation har av-
+gjorts, om ärendet om lov, förhandsbe-
+sked eller lokaliseringsbesked avser en
 
 Boverket
 
@@ -1360,24 +1433,42 @@ Boverket
 Regeringsuppdrag att ta fram förslag på hur typgodkännande av småhus kan genomföras 19
 Författningsförslag
 
-ansökan om expropriationstillstånd, el- byggnad eller ett markområde som
-ler                       också omfattas av en ansökan om ex-
-3\. frågan om planarbete har avslu- propriationstillstånd, eller
-tats, om ärendet om lov eller förhands- 3. frågan om planarbete har avslu-
-besked avser en byggnad eller ett tats, om ärendet om lov, förhandsbe-
-markområde som också omfattas av ett sked eller lokaliseringsbesked avser en
-påbörjat arbete för att anta, ändra eller byggnad eller ett markområde som
-upphäva en detaljplan eller områdesbe- också omfattas av ett påbörjat arbete
-stämmelser.               för att anta, ändra eller upphäva en de-
-Om kommunen inte har avslutat taljplan eller områdesbestämmelser.
-planarbetet enligt första stycket 3 inom Om kommunen inte har avslutat
-två år från det att ansökan om lov eller planarbetet enligt första stycket 3 inom
-förhandsbesked kom in till byggnads- två år från det att ansökan om lov, för-
-nämnden, ska dock ärendet om lov el- handsbesked eller lokaliseringsbesked
-ler förhandsbesked avgöras utan dröjs- kom in till byggnadsnämnden, ska
-mål.                      dock ärendet om lov, förhandsbesked
+ansökan om expropriationstillstånd, el-
+ler
+3\. frågan om planarbete har avslu-
+tats, om ärendet om lov eller förhands-
+besked avser en byggnad eller ett
+markområde som också omfattas av ett
+påbörjat arbete för att anta, ändra eller
+upphäva en detaljplan eller områdesbe-
+stämmelser.
+Om kommunen inte har avslutat
+planarbetet enligt första stycket 3 inom
+två år från det att ansökan om lov eller
+förhandsbesked kom in till byggnads-
+nämnden, ska dock ärendet om lov el-
+ler förhandsbesked avgöras utan dröjs-
+mål.
+
+byggnad eller ett markområde som
+också omfattas av en ansökan om ex-
+propriationstillstånd, eller
+3\. frågan om planarbete har avslu-
+tats, om ärendet om lov, förhandsbe-
+sked eller lokaliseringsbesked avser en
+byggnad eller ett markområde som
+också omfattas av ett påbörjat arbete
+för att anta, ändra eller upphäva en de-
+taljplan eller områdesbestämmelser.
+Om kommunen inte har avslutat
+planarbetet enligt första stycket 3 inom
+två år från det att ansökan om lov, för-
+handsbesked eller lokaliseringsbesked
+kom in till byggnadsnämnden, ska
+dock ärendet om lov, förhandsbesked
 eller lokaliseringsbesked avgöras utan
 dröjsmål.
+
 104 a §
 Ett positivt lokaliseringsbesked ska in-
 nehålla
@@ -1395,13 +1486,14 @@ Om byggnadsnämnden tar ut en avgift Om byggnadsnämnden tar ut en avgift
 för handläggningen av ett ärende om för handläggningen av ett ärende om
 lov eller förhandsbesked, ska nämnden lov, förhandsbesked eller lokalise-
 i sitt beslut om avgift redovisa hur av- ringsbesked, ska nämnden i sitt beslut
-giften har bestämts.      om avgift redovisa hur avgiften har be-
+giften har bestämts.     om avgift redovisa hur avgiften har be-
 stämts.
+
 108 §
 Ett beslut om lov eller förhandsbesked Ett beslut om lov, förhandsbesked eller
 ska, tillsammans med en uppgift om lokaliseringsbesked ska, tillsammans
 vad den som vill överklaga beslutet med en uppgift om vad den som vill
-måste göra, delges        överklaga beslutet måste göra, delges
+måste göra, delges       överklaga beslutet måste göra, delges
 1\. sökanden och fastighetsägaren, och
 2\. dem som avses i 96 § första stycket 1 och som har lämnat synpunkter i
 ärendet som inte har blivit tillgodosedda.
@@ -1533,13 +1625,23 @@ Författningsförslag
 
 12 §
 För ett visst geografiskt område får re- För ett visst geografiskt område får re-
-geringen eller länsstyrelsen, om det geringen eller länsstyrelsen, om det
-finns särskilda skäl, besluta att det som finns särskilda skäl, besluta att det som
-enligt 10 och 11 §§ gäller för länssty- enligt 10 och 11 §§ gäller för länssty-
-relsens prövning av kommunens beslut relsens prövning av kommunens beslut
-också ska tillämpas i fråga om bygg- också ska tillämpas i fråga om bygg-
-nadsnämndens beslut om lov eller för- nadsnämndens beslut om lov, för-
-handsbesked enligt 9 kap. handsbesked eller lokaliseringsbesked
+
+geringen eller länsstyrelsen, om det
+finns särskilda skäl, besluta att det som
+enligt 10 och 11 §§ gäller för länssty-
+relsens prövning av kommunens beslut
+också ska tillämpas i fråga om bygg-
+nadsnämndens beslut om lov eller för-
+handsbesked enligt 9 kap.
+
+geringen eller länsstyrelsen, om det
+finns särskilda skäl, besluta att det som
+enligt 10 och 11 §§ gäller för länssty-
+relsens prövning av kommunens beslut
+också ska tillämpas i fråga om bygg-
+nadsnämndens beslut om lov, för-
+handsbesked eller lokaliseringsbesked
+
 Om länsstyrelsen beslutar att över- enligt 9 kap.
 pröva ett lov eller förhandsbesked, får Om länsstyrelsen beslutar att över-
 länsstyrelsen besluta att lovet eller för- pröva ett lov, förhandsbesked eller lo-
@@ -1547,12 +1649,13 @@ handsbeskedet inte ska gälla förrän kaliseringsbesked, får länsstyrelsen be
 prövningen har avslutats. sluta att lovet, förhandsbeskedet eller
 lokaliseringsbeskedet inte ska gälla
 förrän prövningen har avslutats.
+
 12 kap.
 8 §
 Byggnadsnämnden får ta ut avgifter för
 1\. beslut om planbesked, förhands- 1. beslut om planbesked, förhands-
 besked, startbesked, slutbesked och in- besked, lokaliseringsbesked, startbe-
-gripandebesked,           sked, slutbesked och ingripandebe-
+gripandebesked,          sked, slutbesked och ingripandebe-
 sked,
 2\. beslut om lov,
 3\. tekniska samråd,      3. informationsmöte och tekniska
@@ -1645,16 +1748,26 @@ Boverket
 Regeringsuppdrag att ta fram förslag på hur typgodkännande av småhus kan genomföras 24
 Författningsförslag
 
+Länsstyrelsens beslut enligt 11 kap. 11
+§ att helt eller i en viss del upphäva
+kommunens beslut om detaljplan, om-
+rådesbestämmelser, lov eller förhands-
+besked får överklagas hos regeringen.
+Länsstyrelsens beslut att inte upphäva
+kommunens beslut, helt eller i en viss
+del, får inte överklagas.
+
 5 §
-Länsstyrelsens beslut enligt 11 kap. 11 Länsstyrelsens beslut enligt 11 kap. 11
-§ att helt eller i en viss del upphäva § att helt eller i en viss del upphäva
-kommunens beslut om detaljplan, om- kommunens beslut om detaljplan, om-
-rådesbestämmelser, lov eller förhands- rådesbestämmelser, lov, förhandsbe-
-besked får överklagas hos regeringen. sked eller lokaliseringsbesked får över-
-Länsstyrelsens beslut att inte upphäva klagas hos regeringen. Länsstyrelsens
-kommunens beslut, helt eller i en viss beslut att inte upphäva kommunens be-
-del, får inte överklagas. slut, helt eller i en viss del, får inte
+Länsstyrelsens beslut enligt 11 kap. 11
+§ att helt eller i en viss del upphäva
+kommunens beslut om detaljplan, om-
+rådesbestämmelser, lov, förhandsbe-
+sked eller lokaliseringsbesked får över-
+klagas hos regeringen. Länsstyrelsens
+beslut att inte upphäva kommunens be-
+slut, helt eller i en viss del, får inte
 överklagas.
+
 14 §
 Ett beslut om lov eller förhandsbesked Ett beslut om lov, förhandsbesked eller
 inom sådana skydds- eller säkerhets- lokaliseringsbesked inom sådana
@@ -1666,31 +1779,53 @@ får överklagas av
 kärnteknisk anläggning, och
 3\. Försvarsmakten eller Myndigheten för civilt försvar, i andra fall än de som
 anges i 1 och 2.
+
 16 §
 Bestämmelser om överklagande av ett beslut som avses i 2 a, 3, 5, 5 a och 6 §§
 finns i 43–47 §§ förvaltningslagen (2017:900).
+
 Tiden för överklagande av ett beslut att anta, ändra eller upphäva en detaljplan
 eller områdesbestämmelser räknas dock från den dag då beslutet eller justeringen
 av protokollet över beslutet har tillkännagetts på kommunens anslagstavla. När
+
 beslutet har fattats av kommunfullmäktige, ska det som enligt 43–47 §§ förvalt-
 ningslagen gäller i fråga om den myndighet som har meddelat beslutet i stället
+
 gälla kommunstyrelsen.
-Tiden för överklagande av ett beslut Tiden för överklagande av ett beslut
-om lov eller förhandsbesked räknas, om lov, förhandsbesked eller lokalise-
-för alla som inte ska delges beslutet ringsbesked räknas, för alla som inte
-enligt 9 kap. 108 §, från den dag som ska delges beslutet enligt 9 kap. 108 §,
-infaller en vecka efter att beslutet har från den dag som infaller en vecka ef-
-kungjorts på kommunens anslagstavla. ter att beslutet har kungjorts på kom-
+Tiden för överklagande av ett beslut
+om lov eller förhandsbesked räknas,
+för alla som inte ska delges beslutet
+enligt 9 kap. 108 §, från den dag som
+infaller en vecka efter att beslutet har
+kungjorts på kommunens anslagstavla.
+
+Tiden för överklagande av ett beslut
+om lov, förhandsbesked eller lokalise-
+ringsbesked räknas, för alla som inte
+ska delges beslutet enligt 9 kap. 108 §,
+från den dag som infaller en vecka ef-
+ter att beslutet har kungjorts på kom-
+
 munens anslagstavla.
+
 18 §
 Om länsstyrelsen enligt 11 kap. 12 § Om länsstyrelsen enligt 11 kap. 12 §
-har beslutat att överpröva en kommuns har beslutat att överpröva en kommuns
-beslut om ett lov eller förhandsbesked, beslut om ett lov, förhandsbesked eller
-får länsstyrelsen besluta att ett överkla- lokaliseringsbesked, får länsstyrelsen
-gande av samma kommunala beslut besluta att ett överklagande av samma
-inte ska prövas förrän ärendet om kommunala beslut inte ska prövas för-
-överprövning enligt 11 kap. är slutligt rän ärendet om överprövning enligt 11
-avgjort.                  kap. är slutligt avgjort.
+
+har beslutat att överpröva en kommuns
+beslut om ett lov eller förhandsbesked,
+får länsstyrelsen besluta att ett överkla-
+gande av samma kommunala beslut
+inte ska prövas förrän ärendet om
+överprövning enligt 11 kap. är slutligt
+avgjort.
+
+har beslutat att överpröva en kommuns
+beslut om ett lov, förhandsbesked eller
+lokaliseringsbesked, får länsstyrelsen
+besluta att ett överklagande av samma
+kommunala beslut inte ska prövas för-
+rän ärendet om överprövning enligt 11
+kap. är slutligt avgjort.
 
 Boverket
 
@@ -1933,12 +2068,20 @@ Boverket
 Regeringsuppdrag att ta fram förslag på hur typgodkännande av småhus kan genomföras 29
 Författningsförslag
 
-3\. en åtgärd som avses i 1 § 2, 3, 4 3. en åtgärd som avses i 1 k § 2, 3, 4
-eller 5 i fråga om        eller 5 i fråga om
-a) en byggnad eller tomt som tillhör a) en byggnad eller tomt som tillhör
-staten eller en region, eller staten eller en region, eller
-b) en ekonomibyggnad i ett område b) en ekonomibyggnad i ett område
-som inte omfattas av en detaljplan. som inte omfattas av en detaljplan.
+3\. en åtgärd som avses i 1 § 2, 3, 4
+eller 5 i fråga om
+a) en byggnad eller tomt som tillhör
+staten eller en region, eller
+b) en ekonomibyggnad i ett område
+som inte omfattas av en detaljplan.
+
+3\. en åtgärd som avses i 1 k § 2, 3, 4
+eller 5 i fråga om
+a) en byggnad eller tomt som tillhör
+staten eller en region, eller
+b) en ekonomibyggnad i ett område
+som inte omfattas av en detaljplan.
+
 3 a §
 En anmälan krävs för uppförande av
 ett nytt förprövat enbostadshus som
@@ -1955,6 +2098,7 @@ tas av krav på anmälan för uppförande
 av ett nytt förprövat enbostadshus
 finns i 10 kap. 23 d § plan- och byggla-
 gen.
+
 6 §
 Utöver det som anges i 9 kap. 86 och 90 §§ plan- och bygglagen (2010:900) ska
 en anmälan innehålla de handlingar som krävs för beslut om startbesked enligt
@@ -10617,110 +10761,152 @@ Antagandehandling                                          50 (50)
 
 <!-- sida 209 -->
 
-PLANBESTÄMMELSER                                                               Högsta nockhöjd  är \<angivet> meter  över angivet
+PLANBESTÄMMELSER                                                               Högsta  nockhöjd  är \<angivet> meter över angivet
 nollplan.
 
 Följande gäller inom områden  med  nedanstående   beteckningar.
-Högsta nockhöjd  är \<angivet> meter.
-Endast angiven  användning  och utformning är tillåten. Där
-beteckning saknas  gäller bestämmelsen  inom  hela området.       Markens   anordnande     och  vegetation
+Högsta  nockhöjd  är \<angivet> meter.
+Endast  angiven användning  och utformning  är tillåten. Där
+beteckning saknas  gäller bestämmelsen   inom hela området.       Markens    anordnande    och  vegetation
+
 Marken  får inte användas för parkering.
 
 GRÄNSER
 Marken  får inte användas för parkering, undantaget
 parkering för rörelsehindrade.
 Planområdesgräns.
-Markreservat   för allmännyttiga   ändamål
+Markreservat    för allmännyttiga   ändamål
 Användningsgräns.
-Markreservat för allmännyttiga underjordiska
+Markreservat  för allmännyttiga underjordiska
 Egenskapsgräns.                                                   ledningar.
 
 Placering
 Sekundär  egenskapsgräns.
-Byggnader  ska placeras så att skyfallsvatten kan
-ANVÄNDNING         AV  MARK                                                    rinna söderut mot parkområdet.
+Byggnader   ska placeras så att skyfallsvatten kan
+
+ANVÄNDNING         AV   MARK                                                   rinna söderut mot parkområdet.
 
 Takvinkel
-Allmän  platsmark
+Allmän   platsmark
 Minsta takvinkel för sadeltak är 30 grader.
 Park.
-
 Utformning
 Kvartersmark
-Endast flerbostadshus  och komplementbyggnader.
+Endast  flerbostadshus och komplementbyggnader.
 Bostäder.
 
 Transformatorstation.
-Endast flerbostadshus, gemensamhetsbyggnader
-och komplementbyggnader.
-EGENSKAPSBESTÄMMELSER                   FÖR   ALLMÄN
-Endast sadeltak, undantaget  takkupor, loftgångar,
-PLATS                                                                          balkonger och förbindelsegångar  mellan hus.
 
-Avgränsad    via  egenskapsgräns       och                                     Minst 300 kvadratmeter  av byggnadsarean   ska ha
+EGENSKAPSBESTÄMMELSER                   FÖR    ALLMÄN
 
-användningsgräns                                                               en högsta nockhöjd  på 15,5 meter över nollplanet.
+PLATS
 
-Huvudmannaskap                                                                 Minst 530 kvadratmeter  av byggnadsarean   ska ha
-en högsta nockhöjd  på 15,5 meter över nollplanet.
-Huvudmannaskapet    är enskilt för den allmänna
-Minst 400 kvadratmeter  av byggnadsarean   ska ha
-platsen.
-en högsta nockhöjd  på 15,5 meter över nollplanet.
-Upphävande     av strandskydd
-Byggnadsvolymer   med  högsta  nockhöjd +15,5
-Strandskyddet  är upphävt.
-meter över nollplanet får ha högst två horisontella
-fönsterrader.
-Utformning   av allmän   plats
-Byggnader  får vara högst 28 meter långa och ska
-Damm   för fördröjning och rening av dagvatten ska
-placeras med  ett minsta avstånd om  2 meter från
-finnas.
-varandra.
-Träd med  en stamdiameter  på 30  cm eller större,
-Utförande
-1,5 meter över mark, får endast fällas om det är
-sjukt eller utgör en säkerhetsrisk.                               Källare får inte finnas.
-Ändrad   lovplikt
-Byggnader  ska uppföras  med
-Marklov krävs även  för fällning av träd med en                   översvämningsskyddad    konstruktion upp till minst
-stamdiameter  större än 30 cm 1,5 meter över mark.                +3,3 m över nollplanet (RH 2000).
-Byggnader  ska uppföras  med
+Avgränsad     via egenskapsgräns       och
 
-översvämningsskyddad    konstruktion upp till minst
-EGENSKAPSBESTÄMMELSER                   FÖR
-+3,0 m över nollplanet (RH 2000).
-KVARTERSMARK
-Utnyttjandegrad
-Avgränsad    via  egenskapsgräns       och
-Största byggnadsarea  är \<angivet> m².
 användningsgräns
-Begränsning    av markens    utnyttjande
+
+Huvudmannaskap
+
+Huvudmannaskapet     är enskilt för den allmänna
+platsen.
+
+Upphävande     av  strandskydd
+
+Strandskyddet  är upphävt.
+
+Utformning   av  allmän  plats
+
+Damm   för fördröjning och rening av dagvatten ska
+finnas.
+
+Träd med  en stamdiameter   på 30 cm  eller större,
+
+1,5 meter över mark,  får endast fällas om det är
+sjukt eller utgör en säkerhetsrisk.
+
+Endast  flerbostadshus, gemensamhetsbyggnader
+och komplementbyggnader.
+
+Endast  sadeltak, undantaget takkupor, loftgångar,
+
+balkonger  och förbindelsegångar mellan  hus.
+
+Minst 300 kvadratmeter  av byggnadsarean   ska ha
+en högsta  nockhöjd på 15,5 meter  över nollplanet.
+
+Minst 530 kvadratmeter  av byggnadsarean   ska ha
+
+en högsta  nockhöjd på 15,5 meter  över nollplanet.
+
+Minst 400 kvadratmeter  av byggnadsarean   ska ha
+en högsta  nockhöjd på 15,5 meter  över nollplanet.
+
+Byggnadsvolymer   med   högsta nockhöjd  +15,5
+meter över nollplanet får ha högst två horisontella
+
+fönsterrader.
+
+Byggnader   får vara högst 28 meter långa och ska
+placeras med  ett minsta avstånd om  2 meter från
+
+varandra.
+
+Utförande
+
+Källare får inte finnas.
+
+Ändrad   lovplikt
+
+Marklov krävs även  för fällning av träd med en
+
+stamdiameter  större än 30 cm  1,5 meter över mark.
+
+EGENSKAPSBESTÄMMELSER                   FÖR
+KVARTERSMARK
+
+Avgränsad     via egenskapsgräns       och
+
+användningsgräns
+
+Byggnader   ska uppföras med
+översvämningsskyddad    konstruktion upp till minst
+
++3,3 m  över nollplanet (RH 2000).
+
+Byggnader   ska uppföras med
+översvämningsskyddad    konstruktion upp till minst
+
++3,0 m  över nollplanet (RH 2000).
+
+Utnyttjandegrad
+
+Största byggnadsarea   är \<angivet> m².
+
+Begränsning    av  markens   utnyttjande
 EGENSKAPSBESTÄMMELSER                   FÖR
 Marken  får inte förses med byggnad.                 KVARTERSMARK
 
-Avgränsad     via sekundär    egenskapsgräns       och
-Marken  får endast förses med komplementbyggnad
+Avgränsad     via sekundär    egenskapsgräns        och
+Marken  får endast förses med  komplementbyggnad
 användningsgräns
-och andra anläggningar  än byggnader.
-Upphävande     av strandskydd
+och andra  anläggningar än byggnader.
+Upphävande     av  strandskydd
 Marken  får endast förses med
 Strandskyddet  är upphävt.
 gemensamhetsbyggnader,     komplementbyggnader
-och andra anläggningar  än byggnader.
+och andra  anläggningar än byggnader.
 GENOMFÖRANDETID
-Marken  får endast förses med miljöhus och andra
-Genomförandetiden   är 5 år från den dag detaljplanen får laga
-anläggningar än byggnader.
+Marken  får endast förses med  miljöhus och andra
+Genomförandetiden    är 5 år från den dag detaljplanen får laga
+anläggningar  än byggnader.
 kraft.
-Höjd  på byggnadsverk
+Höjd  på  byggnadsverk
 
 ORIENTERINGSKARTA
-Detaljplan    för bostäder   inom          Antagandehandling
+Detaljplan   för bostäder    inom          Antagandehandling
 
-Beslutsdatum   Instans
-Skörvalla  1:116
+Beslutsdatum  Instans
+Skörvalla 1:116
 Detaljplanen är baserad på koordinatsystemet SWEREF 99                                                                                                                Samråd
 i Särö                                                    BN § 135
 2025-08-21
@@ -10729,17 +10915,17 @@ Skala 1:500 i A1, skala 1:1000 i A3
 Kungsbacka    kommun                           Granskning
 BN del.beslut
 2026-02-17
-TECKENFÖRKLARING      KARTDATA       Aktualitetsdatum: 2026-01-30
+TECKENFÖRKLARING      KARTDATA      Aktualitetsdatum: 2026-01-30
 Antagande
 Upprättad 2026-09-08
 Registernummer, tomtnummer                    Höjdkurva 5,0 m
 Laga kraft
 Höjdpunkt                                     Vägbana
-Traktnamn, kvartersnamn                       Bostadshus fasad, resp. tak                                                                                                                                        Plankostnads-
-Ida Lennartsson             Emma  Johansson     Diarienummer
+Traktnamn, kvartersnamn                       Bostadshus fasad, resp. tak                                                                                                                                       Plankostnads-
+Ida Lennartsson            Emma   Johansson     Diarienummer
 avtal
 Fastighetsgräns                               Uthus fasad, resp. tak                                                                                                                                 2023-00211
-Verksamhetschef Plan        Planarkitekt                    Ja
+Verksamhetschef Plan       Planarkitekt                    Ja
 Gång- och cykelbana                           Skärmtak
 PLANKARTA            Detaljplanen är upprättad enligt PBL
 Höjdkurva 1,0 m                                                                                                                                                          2010:900 med standardförfarande
@@ -26230,175 +26416,338 @@ www.kungsbacka.se/aktuellaprojekt
 
 <!-- sida 563 -->
 
-PLANBESTÄMMELSER                                     EGENSKAPSBESTÄMMELSER       FÖR  ALLMÄN  PLATS                      Endast lägenheter i bottenvåning medges ej inom
-kvarteret som helhet.
-Avgränsad via egenskapsgräns och användningsgräns
-Följande gäller inom områden med nedanstående beteckningar. Endast                                                       Marken får inte förses med byggnad upp till en höjd
-angiven användning och utformning är tillåten. Där beteckning saknas Utformning av allmän plats                          av 2,7 meter ovan mark. Skärmtak får finnas.
-gäller bestämmelsen inom hela området.                              Markens höjd över nollplanet ska vara \<angivet>      Mast för teknisk anläggning tillåts sticka upp ovan
-meter.                                               högsta tillåtna nockhöjd.
+PLANBESTÄMMELSER
+
+Följande gäller inom områden med nedanstående beteckningar. Endast
+angiven användning och utformning är tillåten. Där beteckning saknas
+gäller bestämmelsen inom hela området.
+
 GRÄNSER
-Maximal tillåten markbelastning ur                   Byggnader inom egenskapsområdet ska uppföras i
-Planområdesgräns.                                      stabilitetssynpunkt är 5 kPa variabel last.          minst två olika våningsantal.
-Användningsgräns.                                      Stödmur eller liknande till en höjd av 0,3 meter får Byggnader inom egenskapsområdet ska uppföras i
-uppföras.                                            minst tre olika våningsantal.
-Egenskapsgräns.                                        Trädrad ska finnas.                                  Entré/entréer ska finnas mot Varbergsvägen.
+Planområdesgräns.
+
+Användningsgräns.
+
+Egenskapsgräns.
 Sekundär egenskapsgräns.
-Byggnader ska vara sammanbyggda mot
-EGENSKAPSBESTÄMMELSER       FÖR  KVARTERSMARK
-Varbergsvägen.
-Sammanfallande sekundär och egenskapsgräns. Avgränsad via egenskapsgräns och användningsgräns
-I bottenplan ska öppna passager in till gården finnas
-Begränsning av markens utnyttjande                                  för varje kvarter. Bestämmelsen gäller inom hela
+
+Sammanfallande sekundär och egenskapsgräns.
+
 GENERELLT
-egenskapsområdet.
-Marken får inte förses med byggnad. Balkonger och
-Beteckningar inom parentes                                          burspråk får kraga ut högst 1,5 meter från fasad och Marken får inte förses med byggnad upp till en höjd
-Beteckning i kartan som omgärdas av parentes         3,5 meter ovan mark. Skärmtak får finnas.            av 4,7 meter ovan mark.
-anger bestämmelse i annat plan än markplan.                                                               Minst 25% av bottenvåningen inom
-Marken får endast förses med komplementbyggnad.      egenskapsområdet ska innehålla centrumfunktioner.
-ANVÄNDNING   AV MARK
-Allmän platsmark                                     Höjd på byggnadsverk                                 Utförande
-Gata.                                                Högsta nockhöjd är \<angivet> meter över angivet      Fasad ska utformas i obrännbart material mot
-nollplan.                                            järnvägen.
+Beteckningar inom parentes
+Beteckning i kartan som omgärdas av parentes
+anger bestämmelse i annat plan än markplan.
+
+ANVÄNDNING    AV MARK
+
+Allmän platsmark
+Gata.
+
 Gata upp till en höjd av 2,7 meter ovan mark.
-Högsta nockhöjd på byggnad är \<angivet> meter        Fasad ska utformas så att utblick mot söder
-över angivet nollplan som får uppföras i högst fem   förhindras.
+
 Gata upp till en höjd av 4,7 meter ovan mark.
-våningar.                                            Takvåning ska utformas så att utblick mot söder
-Gata upp till en höjd av 6,8 meter ovan mark.        Högsta nockhöjd på byggnad är \<angivet> meter        förhindras.
-över angivet nollplan som får uppföras i högst sju   Byggnader tyngre än 10 kPa ska grundläggas
-Park.                                                våningar.                                            genom pålning.
-Högsta nockhöjd på byggnad är \<angivet> meter        Passage för gående och cyklister ska finnas mot
+
+Gata upp till en höjd av 6,8 meter ovan mark.
+
+Park.
+
 Väg.
-över angivet nollplan som får uppföras i högst sex   GATA i norr och söder.
-våningar.
-Väg upp till en höjd av 3,6 meter ovan mark.                                                              Schaktning ska genomföras varsamt för att inte
-Högsta nockhöjd på byggnad är \<angivet> meter        skada befintliga träd och dess rotsystem.
-Kvartersmark                                                        över angivet nollplan som får uppföras i högst fyra Utnyttjandegrad
-våningar.
-Bostäder.                                                                                                 Största byggnadsarea för komplementbyggnader är
-Högsta nockhöjd på byggnad är 51,5 meter över
-40 kvm med en högsta nockhöjd om 4,0 meter.
-Centrum.                                             angivet nollplan som får uppföras i högst fjorton (14)
-Utöver detta får infart till garage uppföras.
-våningar.
-Tekniska anläggningar.                               Högsta nockhöjd på byggnad är \<angivet> meter EGENSKAPSBESTÄMMELSER FÖR ALLMÄN PLATS
-över angivet nollplan som får uppföras i högst två Avgränsad via sekundär egenskapsgräns och
+Väg upp till en höjd av 3,6 meter ovan mark.
+
+Kvartersmark
+
+Bostäder.
+
+Centrum.
+Tekniska anläggningar.
+
 Pumpstation.
+
+Detaljhandel.
+
+Industri.
+
+Kontor.
+
+Parkeringshus.
+
+Bostäder från och med en höjd av 2,7 meter ovan
+mark där balkonger och burspråk är tillåtna att kraga
+ut över allmän plats.
+Laddning av elfordon.
+
+Underjordiskt garage. Parkering för flerbostadshus
+får endast uppföras i garage, undantaget
+handikapparkering.
+
+EGENSKAPSBESTÄMMELSER       FÖR  ALL
+KVARTERSMARK
+Fastighetsindelningsbestämmelser
+
+Fastighetsindelningsbestämmelser upphävs inom planområdet.
+Skydd mot störningar
+luftintag ska placeras högt och på motsatt sida av Västkustbanan på
+bebyggelse inom 150 meter från Västkustbanan.
+Vibrationsnivå i bostad får ej överskrida 0,4 mm/s vägd RMS.
+
+Om ekvivalent ljudnivå vid bostadens fasad är >60 dBA ska minst hälften
+av bostadsrummen vara vända mot ljuddämpad sida. För bostäder med
+en största boarea om 35 kvm gäller istället att minst hälften av
+bostadsrummen ska vara vända mot ljuddämpad sida om ekvivalent
+ljudnivå vid bostadens fasad är >65dBA. Med ljuddämpad sida menas
+fasad som har en ekvivalent ljudnivå om högst 55 dBA och maximal
+ljudnivå nattetid om högst 70 dBA.
+Utförande
+Lägsta nivå på färdigt golv ska ligga minst 0,3 meter över marknivå i
+förbindelsepunkten för att avloppsanslutning med självfall ska tillåtas.
+
+Vid centrumverksamhet inom 50 meter från Västkustbanan ska hänsyn
+tas till dimensionerande explosionslast. Detta innebär att byggnaden ska
+dimensioneras så att fortskridande ras inte inträffar vid en explosion
+motsvarande 10 kg gasol med explosionscentrum vid närmaste räl.
+Vid centrumverksamhet inom 50 meter från Västkustbanan ska fasad vara
+i obrännbart material och fönster/ingående komponenter ska vara
+motsvarande klass E30.
+Byggnaders tak och fasader får inte uppföras med koppar, zink eller
+plastbelagda plåttak. Plåttak ska lackeras enligt SS-EN 10169:2022.
+Villkor för startbesked
+
+Startbesked får inte ges för byggnad förrän markförorening sanerats i
+enlighet med riktvärden för avsedd markanvändning.
+
+ORIENTERINGSKARTA
+
+Detaljplanen är baserad på koordinatsystemet SWEREF 99
+
+1200 och höjdsystemet RH 2000
+Skala 1:1000 i A1, skala 1:2000 i A3
+TECKENFÖRKLARING      KARTDATA      Aktualitetsdatum: 2025-04-23
+
+Registernummer, tomtnummer                    Höjdkurva 5,0 m
+
+Höjdpunkt                                     Vägbana
+Traktnamn, kvartersnamn                       Bostadshus fasad, resp. tak
+
+Fastighetsgräns                               Uthus fasad, resp. tak
+Gång- och cykelbana                           Skärmtak
+
+Höjdkurva 1,0 m
+
+EGENSKAPSBESTÄMMELSER       FÖR  ALLMÄN  PLATS
+Avgränsad via egenskapsgräns och användningsgräns
+
+Utformning av allmän plats
+Markens höjd över nollplanet ska vara \<angivet>
+meter.
+Maximal tillåten markbelastning ur
+stabilitetssynpunkt är 5 kPa variabel last.
+
+Stödmur eller liknande till en höjd av 0,3 meter får
+uppföras.
+Trädrad ska finnas.
+
+EGENSKAPSBESTÄMMELSER       FÖR  KVARTERSMARK
+
+Avgränsad via egenskapsgräns och användningsgräns
+Begränsning av markens utnyttjande
+Marken får inte förses med byggnad. Balkonger och
+burspråk får kraga ut högst 1,5 meter från fasad och
+3,5 meter ovan mark. Skärmtak får finnas.
+
+Marken får endast förses med komplementbyggnad.
+
+Höjd på byggnadsverk
+Högsta nockhöjd är \<angivet> meter över angivet
+nollplan.
+Högsta nockhöjd på byggnad är \<angivet> meter
+över angivet nollplan som får uppföras i högst fem
 våningar.
-användningsgräns
-Detaljhandel.                         Markens anordnande och vegetation
-Upphävande av strandskydd
+
+Högsta nockhöjd på byggnad är \<angivet> meter
+över angivet nollplan som får uppföras i högst sju
+våningar.
+Högsta nockhöjd på byggnad är \<angivet> meter
+över angivet nollplan som får uppföras i högst sex
+våningar.
+Högsta nockhöjd på byggnad är \<angivet> meter
+över angivet nollplan som får uppföras i högst fyra
+våningar.
+
+Högsta nockhöjd på byggnad är 51,5 meter över
+angivet nollplan som får uppföras i högst fjorton (14)
+våningar.
+Högsta nockhöjd på byggnad är \<angivet> meter
+över angivet nollplan som får uppföras i högst två
+våningar.
+Markens anordnande och vegetation
 Marken får inte förses med byggnad eller anläggning
-Industri.                                                                                                 Strandskyddet är upphävt.
 ovan mark, undantaget parkering för rörelsehindrad
 samt cykelparkering. Balkonger och burspråk får
-Kontor.                                                                                    Utformning av allmän plats
 kraga ut 1,5 meter 4,0 meter ovan mark.
-Plank, mur, dike eller annan höjdskillnad ska finnas
-Parkeringshus.
-för att förhindra att vätska från olycka på järnvägen
+
 Maximalt tillåten markbelastning ur
-läcker ut och rinner in på området.
-Bostäder från och med en höjd av 2,7 meter ovan      stabilitetssynpunkt är 10 kPa.
-Inom Västkustbanans sidoområde ska området
-mark där balkonger och burspråk är tillåtna att kraga Trädet får endast fällas om det är sjukt eller utgör en
-utformas fritt från oeftergivliga och spetsiga föremål
-ut över allmän plats.                                säkerhetsrisk.
-som kan punktera avåkande godsbehållare.
-Laddning av elfordon.                                Marken får inte förses med byggnad eller anläggning
-ovan mark, undantaget parkering för rörelsehindrad EGENSKAPSBESTÄMMELSER FÖR KVARTERSMARK
-Underjordiskt garage. Parkering för flerbostadshus   samt cykelparkering. Balkonger och burspråk får
-Avgränsad via sekundär egenskapsgräns och
-får endast uppföras i garage, undantaget             kraga ut 1,5 meter 4,7 meter ovan mark.
-handikapparkering.                                                                         användningsgräns
-Markreservat för allmännyttiga ändamål               Markens anordnande och vegetation
-EGENSKAPSBESTÄMMELSER       FÖR ALL
-Markreservat för allmännyttiga underjordiska         Trädrad ska finnas.
-KVARTERSMARK
+stabilitetssynpunkt är 10 kPa.
+Trädet får endast fällas om det är sjukt eller utgör en
+säkerhetsrisk.
+Marken får inte förses med byggnad eller anläggning
+ovan mark, undantaget parkering för rörelsehindrad
+samt cykelparkering. Balkonger och burspråk får
+kraga ut 1,5 meter 4,7 meter ovan mark.
+
+Markreservat för allmännyttiga ändamål
+
+Markreservat för allmännyttiga underjordiska
 ledningar.
-Fastighetsindelningsbestämmelser                                                                          Upphävande av strandskydd
 Skydd mot störningar
-Fastighetsindelningsbestämmelser upphävs inom planområdet.                                                               Strandskyddet är upphävt.
 Plank, mur, dike eller annan höjdskillnad ska finnas
-Skydd mot störningar
-för att förhindra att vätska från olycka på järnvägen Utformning
-luftintag ska placeras högt och på motsatt sida av Västkustbanan på läcker ut och rinner in på området.
-Våningshöjden i sockelvåning ska vara lägst 3,6
-bebyggelse inom 150 meter från Västkustbanan.
+för att förhindra att vätska från olycka på järnvägen
+läcker ut och rinner in på området.
+
 Området utformas fritt från oeftergivliga och spetsiga
-meter.Ett demonterbart mellanbjälklag som inte är
-Vibrationsnivå i bostad får ej överskrida 0,4 mm/s vägd RMS.        föremål som kan punktera avåkande godsbehållare.
-en förutsättning för byggnadens bärande
-Om ekvivalent ljudnivå vid bostadens fasad är >60 dBA ska minst hälften
-konstruktion får uppföras.
-av bostadsrummen vara vända mot ljuddämpad sida. För bostäder med   Fasader ska utformas i obrännbart material som
-Endast lägenheter i bottenvåning medges ej inom
-en största boarea om 35 kvm gäller istället att minst hälften av    vetter mot järnvägen. Luftintag placeras högt och på
-kvarteret som helhet.
-bostadsrummen ska vara vända mot ljuddämpad sida om ekvivalent      fasad som vetter bort från järnvägen.
-Byggnadens djup får vara högst 13,5 meter. Utöver
-ljudnivå vid bostadens fasad är >65dBA. Med ljuddämpad sida menas
+föremål som kan punktera avåkande godsbehållare.
+
+Fasader ska utformas i obrännbart material som
+vetter mot järnvägen. Luftintag placeras högt och på
+fasad som vetter bort från järnvägen.
 Högst en in- och utfart för fordon får anordnas samt
-detta får burspråk och balkonger finnas.
-fasad som har en ekvivalent ljudnivå om högst 55 dBA och maximal
 högst två entréer för fotgängare får anordnas i fasad
-ljudnivå nattetid om högst 70 dBA.                                                                                       Bottenvåning ska innehålla centrumfunktioner.
 som vetter mot järnvägen.
-Utförande
-Stängsel, utfart och annan utgång                    Utförande
-Lägsta nivå på färdigt golv ska ligga minst 0,3 meter över marknivå i
-Utfartsförbud.                                       Område inom vilket kompensationsgrundläggning
-förbindelsepunkten för att avloppsanslutning med självfall ska tillåtas.
-med 1,1 meter lättfyllnad eller alternativ åtgärd med
-Vid centrumverksamhet inom 50 meter från Västkustbanan ska hänsyn Takvinkel                                              samma effekt ska genomföras.
-tas till dimensionerande explosionslast. Detta innebär att byggnaden ska
-Sadeltak är inte tillåtet.            Villkor för startbesked
-dimensioneras så att fortskridande ras inte inträffar vid en explosion
-motsvarande 10 kg gasol med explosionscentrum vid närmaste räl. Utformning                                               Startbesked får inte ges för byggnation förrän
-stabilitetsåtgärder för att säkra slänten mot
-Vid centrumverksamhet inom 50 meter från Västkustbanan ska fasad vara Våningshöjden i sockelvåning ska vara lägst 3,6
-Skolgatan/Hantverksgatan är utförda.
-i obrännbart material och fönster/ingående komponenter ska vara     meter.Ett demonterbart mellanbjälklag som inte är
-motsvarande klass E30.                                              en förutsättning för byggnadens bärande GENOMFÖRANDETID
-Byggnaders tak och fasader får inte uppföras med koppar, zink eller konstruktion får uppföras.
-Genomförandetiden är 15 år från den dag detaljplanen fått laga kraft
-plastbelagda plåttak. Plåttak ska lackeras enligt SS-EN 10169:2022. Utöver angivet antal våningar får vind inredas för
-Villkor för startbesked                                             lägenheter. För vindsvåning får takkupor och
+Stängsel, utfart och annan utgång
+
+Utfartsförbud.
+
+Takvinkel
+Sadeltak är inte tillåtet.
+
+Utformning
+Våningshöjden i sockelvåning ska vara lägst 3,6
+meter.Ett demonterbart mellanbjälklag som inte är
+en förutsättning för byggnadens bärande
+konstruktion får uppföras.
+Utöver angivet antal våningar får vind inredas för
+lägenheter. För vindsvåning får takkupor och
 frontespiser anordnas till en längd motsvarande 50%
-Startbesked får inte ges för byggnad förrän markförorening sanerats i
 av fasadens längd.
-enlighet med riktvärden för avsedd markanvändning.
-ORIENTERINGSKARTA
-Detaljplan   för sydöstra    centrum
+
+Endast lägenheter i bottenvåning medges ej inom
+kvarteret som helhet.
+Marken får inte förses med byggnad upp till en höjd
+av 2,7 meter ovan mark. Skärmtak får finnas.
+Mast för teknisk anläggning tillåts sticka upp ovan
+högsta tillåtna nockhöjd.
+
+Byggnader inom egenskapsområdet ska uppföras i
+minst två olika våningsantal.
+Byggnader inom egenskapsområdet ska uppföras i
+minst tre olika våningsantal.
+Entré/entréer ska finnas mot Varbergsvägen.
+
+Byggnader ska vara sammanbyggda mot
+Varbergsvägen.
+I bottenplan ska öppna passager in till gården finnas
+för varje kvarter. Bestämmelsen gäller inom hela
+egenskapsområdet.
+Marken får inte förses med byggnad upp till en höjd
+av 4,7 meter ovan mark.
+
+Minst 25% av bottenvåningen inom
+egenskapsområdet ska innehålla centrumfunktioner.
+
+Utförande
+Fasad ska utformas i obrännbart material mot
+järnvägen.
+Fasad ska utformas så att utblick mot söder
+förhindras.
+
+Takvåning ska utformas så att utblick mot söder
+förhindras.
+Byggnader tyngre än 10 kPa ska grundläggas
+genom pålning.
+Passage för gående och cyklister ska finnas mot
+GATA i norr och söder.
+Schaktning ska genomföras varsamt för att inte
+skada befintliga träd och dess rotsystem.
+
+Utnyttjandegrad
+Största byggnadsarea för komplementbyggnader är
+40 kvm med en högsta nockhöjd om 4,0 meter.
+Utöver detta får infart till garage uppföras.
+
+EGENSKAPSBESTÄMMELSER       FÖR  ALLMÄN  PLATS
+Avgränsad via sekundär egenskapsgräns och
+användningsgräns
+
+Upphävande av strandskydd
+Strandskyddet är upphävt.
+
+Utformning av allmän plats
+Plank, mur, dike eller annan höjdskillnad ska finnas
+för att förhindra att vätska från olycka på järnvägen
+läcker ut och rinner in på området.
+Inom Västkustbanans sidoområde ska området
+
+utformas fritt från oeftergivliga och spetsiga föremål
+som kan punktera avåkande godsbehållare.
+EGENSKAPSBESTÄMMELSER       FÖR  KVARTERSMARK
+
+Avgränsad via sekundär egenskapsgräns och
+användningsgräns
+Markens anordnande och vegetation
+
+Trädrad ska finnas.
+Upphävande av strandskydd
+
+Strandskyddet är upphävt.
+
+Utformning
+Våningshöjden i sockelvåning ska vara lägst 3,6
+meter.Ett demonterbart mellanbjälklag som inte är
+en förutsättning för byggnadens bärande
+konstruktion får uppföras.
+Endast lägenheter i bottenvåning medges ej inom
+kvarteret som helhet.
+Byggnadens djup får vara högst 13,5 meter. Utöver
+detta får burspråk och balkonger finnas.
+
+Bottenvåning ska innehålla centrumfunktioner.
+Utförande
+
+Område inom vilket kompensationsgrundläggning
+med 1,1 meter lättfyllnad eller alternativ åtgärd med
+samma effekt ska genomföras.
+Villkor för startbesked
+
+Startbesked får inte ges för byggnation förrän
+stabilitetsåtgärder för att säkra slänten mot
+Skolgatan/Hantverksgatan är utförda.
+GENOMFÖRANDETID
+
+Genomförandetiden är 15 år från den dag detaljplanen fått laga kraft
+
+Detaljplan   för sydöstra   centrum
 Granskningshandling        2
 etapp   1
-Beslutsdatum   Instans
+
+Beslutsdatum  Instans
 Verkmästaren    6 m.fl.
 i Kungsbacka                                    Samråd
 BN § 90
-Detaljplanen är baserad på koordinatsystemet SWEREF 99                                                                                                                                                                                             2022-03-17
+2022-03-17
 Kungsbacka     kommun
-1200 och höjdsystemet RH 2000                                                                                                                                                                                                                      Granskning 1
-Skala 1:1000 i A1, skala 1:2000 i A3                                                                                                                                                                                                                                                                     BN § 82
+Granskning 1
+BN § 82
 2025-04-24
-TECKENFÖRKLARING      KARTDATA       Aktualitetsdatum: 2025-04-23                                                                                                                                                                                                                             Granskning 2
+Granskning 2
 Upprättad 2026-09-29                                       BN
 2026-11-19
 Antagande  KF
-Registernummer, tomtnummer                   Höjdkurva 5,0 m
 2026-xx-xx
-Höjdpunkt                                    Vägbana
 Laga kraft
 Ida Lennartsson             Sofia Wiman
-Traktnamn, kvartersnamn                      Bostadshus fasad, resp. tak                                                                                                                                                                                                         Diarenummer Plankostnadsavtal
+Diarenummer Plankostnadsavtal
 Verksamhetschef Plan        Planarkitekt
 2020-00012 Ja
-Fastighetsgräns                              Uthus fasad, resp. tak
-Gång- och cykelbana                          Skärmtak                                                                                                                                                                           PLANKARTA            Detaljplanen är upprättad enligt PBL
+PLANKARTA            Detaljplanen är upprättad enligt PBL
 2010:900 med utökat förfarande
-Höjdkurva 1,0 m
 
 <!-- sida 564 -->
 

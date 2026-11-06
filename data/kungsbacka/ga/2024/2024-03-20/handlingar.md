@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.99ff57618df2ddb19d29eaa/17104027515
 sha256: 48ef80f77e69c0001c02c8ec32dd80de3f552a0cc74975aa2d0ee6da8a05d5eb
 bytes: 4237547
 sidor: 189
-hamtad: 2026-10-23T06:27:30+00:00
-konverterad: 2026-10-23T06:28:02+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T08:05:45+00:00
+konverterad: 2026-11-06T08:06:19+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1269,8 +1269,8 @@ att ställa hyresgaranti .......................................................
 1     Författningsförslag
 
 1.1   Förslag till lag om ändring i lagen (2000:1383)
-
 om kommunernas bostadsförsörjningsansvar
+
 Härigenom föreskrivs i fråga om lagen (2000:1383) om kommunernas
 bostadsförsörjningsansvar
 dels att nuvarande 7 och 8 §§ ska betecknas 8 och 10 §§,
@@ -1283,22 +1283,23 @@ Nuvarande lydelse    Föreslagen lydelse
 Planering av kommunens
 bostadsförsörjning
 1 §1
-Varje kommun ska med riktlinjer Varje kommun ska planera för
-planera för bostadsförsörjningen i bostadsförsörjningen i kommunen.
-kommunen. Syftet med planeringen Planeringen ska syfta till att skapa
-ska vara att skapa förutsättningar förutsättningar för alla i kommunen
-för alla i kommunen att leva i goda att leva i goda bostäder och främja
-bostäder och för att främja att ända- att ändamålsenliga åtgärder för
-målsenliga åtgärder för bostadsför- bostadsförsörjningen förbereds och
-sörjningen förbereds och genom- genomförs.
+
+Varje kommun ska med riktlinjer
+planera för bostadsförsörjningen i
+kommunen. Syftet med planeringen
+ska vara att skapa förutsättningar
+för alla i kommunen att leva i goda
+bostäder och för att främja att ända-
+målsenliga åtgärder för bostadsför-
+sörjningen förbereds och genom-
 förs.
-Vid planeringen av bostadsför- Vid planeringen ska kommunen
-sörjningen ska kommunen samråda samråda med andra berörda kom-
-med berörda kommuner och ge muner och ta hänsyn till behovet av
-länsstyrelsen, aktören med ansvar samordning i frågor om bostads-
-för regionalt tillväxtarbete i länet försörjning. Kommunen ska ge
-och andra regionala organ tillfälle länsstyrelsen och regionen tillfälle
-att yttra sig.       att yttra sig.
+Vid planeringen av bostadsför-
+sörjningen ska kommunen samråda
+med berörda kommuner och ge
+länsstyrelsen, aktören med ansvar
+för regionalt tillväxtarbete i länet
+och andra regionala organ tillfälle
+att yttra sig.
 Riktlinjer för bostadsförsörj-
 ningen ska antas av kommunfull-
 mäktige under varje mandatperiod.
@@ -1307,48 +1308,90 @@ antagna riktlinjerna ska nya rikt-
 linjer upprättas och antas av kom-
 munfullmäktige.
 
+Varje kommun ska planera för
+bostadsförsörjningen i kommunen.
+Planeringen ska syfta till att skapa
+förutsättningar för alla i kommunen
+att leva i goda bostäder och främja
+att ändamålsenliga åtgärder för
+bostadsförsörjningen förbereds och
+genomförs.
+Vid planeringen ska kommunen
+samråda med andra berörda kom-
+muner och ta hänsyn till behovet av
+samordning i frågor om bostads-
+försörjning. Kommunen ska ge
+länsstyrelsen och regionen tillfälle
+att yttra sig.
+
 4           1 Senaste lydelse 2013:866.
 
 <!-- sida 33 -->
 
 2 §2
-Kommunens riktlinjer för bostads- Kommunfullmäktige ska under
-försörjningen ska minst innehålla varje mandatperiod anta en hand-
-följande uppgifter:  lingsplan för bostadsförsörjningen.
-Handlingsplanen ska redovisa
-1\. behovet av tillskott av bostäder
-i kommunen,
-1\. kommunens mål för bostads- 2. kommunens mål för bostads-
-byggande och utveckling av bo- byggande och utveckling av bo-
-stadsbeståndet,      stadsbeståndet,
-2\. kommunens planerade insat- 3. kommunens planerade åtgär-
-ser för att nå uppsatta mål, och der för att nå uppsatta mål, och
-3\. hur kommunen har tagit hän- 4. hur kommunen har tagit hän-
-syn till relevanta nationella och re- syn till relevanta nationella och re-
-gionala mål, planer och program gionala mål, planer och program
-som är av betydelse för bostads- som är av betydelse för bostadsför-
-försörjningen.       sörjningen.
-Uppgifterna ska särskilt grundas Uppgifterna i handlingsplanen
-på en analys av      ska särskilt grundas på en analys av
-1\. den demografiska utvecklingen, den demografiska utvecklingen,
-2\. marknadsförutsättningarna, och marknadsförutsättningarna och de
-3\. vilka bostadsbehov som inte bostadsbehov som inte tillgodoses
-tillgodoses på den lokala bostads- på den lokala bostadsmarknaden.
-marknaden.           Analysen ska genomföras med stöd
-av ett underlag som Boverket förser
-kommunen med och det ytterligare
-underlag som kommunen behöver
-för analysen.
+
+Kommunens riktlinjer för bostads-
+försörjningen ska minst innehålla
+följande uppgifter:
+
+1\. kommunens mål för bostads-
+byggande och utveckling av bo-
+stadsbeståndet,
+2\. kommunens planerade insat-
+ser för att nå uppsatta mål, och
+3\. hur kommunen har tagit hän-
+syn till relevanta nationella och re-
+gionala mål, planer och program
+som är av betydelse för bostads-
+försörjningen.
+Uppgifterna ska särskilt grundas
+på en analys av
+1\. den demografiska utvecklingen,
+2\. marknadsförutsättningarna, och
+3\. vilka bostadsbehov som inte
+tillgodoses på den lokala bostads-
+marknaden.
+
 Analysen ska genomföras med
 stöd av ett underlag som Boverket
 förser kommunen med. Kommunen
 får använda ytterligare underlag
 som behövs för analysen.
+
+Kommunfullmäktige ska under
+varje mandatperiod anta en hand-
+lingsplan för bostadsförsörjningen.
+Handlingsplanen ska redovisa
+1\. behovet av tillskott av bostäder
+i kommunen,
+2\. kommunens mål för bostads-
+byggande och utveckling av bo-
+stadsbeståndet,
+3\. kommunens planerade åtgär-
+der för att nå uppsatta mål, och
+4\. hur kommunen har tagit hän-
+syn till relevanta nationella och re-
+gionala mål, planer och program
+som är av betydelse för bostadsför-
+sörjningen.
+Uppgifterna i handlingsplanen
+ska särskilt grundas på en analys av
+den demografiska utvecklingen,
+marknadsförutsättningarna och de
+bostadsbehov som inte tillgodoses
+på den lokala bostadsmarknaden.
+Analysen ska genomföras med stöd
+av ett underlag som Boverket förser
+kommunen med och det ytterligare
+underlag som kommunen behöver
+för analysen.
+
 Om förutsättningarna för den an-
 tagna planen ändras under man-
 datperioden, ska kommunfullmäk-
 tige anta en ny uppdaterad hand-
 lingsplan.
+
 4 §3
 Kommunens riktlinjer för bostads- I 2 kap. 3 § tredje stycket plan- och
 försörjningen ska vara vägledande bygglagen (2010:900) finns en be-
@@ -1356,6 +1399,7 @@ vid tillämpningen av 2 kap. 3 § för- stämmelse om att kommunens hand-
 sta stycket 5 plan- och bygglagen lingsplan för bostadsförsörjningen
 (2010:900).          ska vara vägledande för kommu-
 nens planläggning i fråga om bo-
+
 2 Senaste lydelse 2022:385.
 3 Senaste lydelse 2022:385.                         5
 
@@ -1372,6 +1416,24 @@ stycket 3, får regeringen förelägga första stycket 4, får regeringen
 kommunen att anta nya riktlinjer. förelägga kommunen att anta en ny
 handlingsplan.
 
+7 §
+Om det behövs för att främja bo-
+stadsförsörjningen ska en kommun
+anordna bostadsförmedling. Om
+två eller flera kommuner behöver
+gemensam bostadsförmedling, ska
+dessa kommuner anordna sådan
+bostadsförmedling.
+Regeringen får förelägga en
+kommun att anordna kommunal
+bostadsförmedling enligt första
+stycket.
+
+8 §
+En kommunal bostadsförmedling
+som förmedlar lägenheter i turord-
+ning efter kötid får, utöver sådan
+
 Samordning mellan kommuner
 när bostadförsörjningsåtgärder
 vidtas
@@ -1382,27 +1444,25 @@ ta hänsyn till behovet av samord-
 ning med andra kommuner.
 
 Kommunal bostadsförmedling
-7 §                  8 §5
-Om det behövs för att främja bo- Om det behövs för att främja bo-
-stadsförsörjningen ska en kommun stadsförsörjningen, ska en kommun
-anordna bostadsförmedling. Om anordna bostadsförmedling. Om
-två eller flera kommuner behöver två eller flera kommuner behöver
-gemensam bostadsförmedling, ska gemensam bostadsförmedling, ska
-dessa kommuner anordna sådan de kommunerna anordna sådan
-bostadsförmedling.   bostadsförmedling.
-Regeringen får förelägga en
-kommun att anordna kommunal
-bostadsförmedling enligt första
-stycket.
+8 §5
+
+Om det behövs för att främja bo-
+stadsförsörjningen, ska en kommun
+anordna bostadsförmedling. Om
+två eller flera kommuner behöver
+gemensam bostadsförmedling, ska
+de kommunerna anordna sådan
+bostadsförmedling.
+
 9 §
 Regeringen får förelägga en kom-
 mun att anordna kommunal bo-
 stadsförmedling.
 
-8 §                  10 §6
-En kommunal bostadsförmedling En kommunal bostadsförmedling
-som förmedlar lägenheter i turord- som förmedlar lägenheter i turord-
-ning efter kötid får, utöver sådan ning efter kötid får ta ut en avgift
+10 §6
+En kommunal bostadsförmedling
+som förmedlar lägenheter i turord-
+ning efter kötid får ta ut en avgift
 
 4 Senaste lydelse 2013:866.
 5 Senaste lydelse av tidigare 7 § 2013:866.
@@ -1410,8 +1470,8 @@ ning efter kötid får, utöver sådan ning efter kötid får ta ut en avgift
 
 <!-- sida 35 -->
 
-förmedlingsersättning som får tas för rätten att stå i kö (köavgift) av
-ut vid yrkesmässig bostadsförmed- den hyressökande.
+förmedlingsersättning som får tas
+ut vid yrkesmässig bostadsförmed-
 ling enligt 12 kap. 65 a § jordabal-
 ken, ta ut en avgift för rätten att stå
 i kö (köavgift) av den hyressökan-
@@ -1420,10 +1480,18 @@ ska inte hindra att ett begränsat
 antal lägenheter som är tillgängli-
 ga för kön fördelas enligt ett för-
 turssystem.
-Köavgiften får tas ut för högst ett Köavgift får tas ut för högst ett år
-år i taget. Kommunen får bestämma i taget med det belopp och enligt de
-avgiften och grunderna för hur den grunder som kommunen bestäm-
-ska tas ut.          mer.
+Köavgiften får tas ut för högst ett
+år i taget. Kommunen får bestämma
+avgiften och grunderna för hur den
+ska tas ut.
+
+för rätten att stå i kö (köavgift) av
+den hyressökande.
+
+Köavgift får tas ut för högst ett år
+i taget med det belopp och enligt de
+grunder som kommunen bestäm-
+mer.
 Köavgift får tas ut även om
 1\. lägenheter reserveras för olika
 kategorier av sökande i kön eller
@@ -1441,6 +1509,7 @@ enskilda hushåll genom att ställa
 säkerhet för att ett avtal om hyra av
 bostadslägenhet fullgörs (hyres-
 garanti).
+
 1\. Denna lag träder i kraft den 1 januari 2025.
 2\. Bestämmelserna i 2 § i den nya lydelsen ska tillämpas första gången
 senast under den mandatperiod som inleds efter ordinarie val 2026.
@@ -1448,7 +1517,7 @@ senast under den mandatperiod som inleds efter ordinarie val 2026.
 för riktlinjer som antagits enligt 1 § tredje stycket i den äldre lydelsen till
 dess riktlinjerna har ersatts med en handlingsplan enligt 2 § i den nya
 lydelsen, dock längst till utgången av den mandatperiod som inleds efter
-o rdinarie val 2026.
+ordinarie val 2026.
 
 7
 
@@ -1527,19 +1596,31 @@ kommunala markanvisningar ska ha följande lydelse.
 
 Nuvarande lydelse    Föreslagen lydelse
 1 §
+
 Denna lag innehåller bestämmel-
 ser om riktlinjer för kommunala
 markanvisningar.
-Med markanvisning avses i den- Med markanvisning avses i den-
-na lag en överenskommelse mellan na lag en överenskommelse mellan
-en kommun och en byggherre som en kommun och en byggherre som,
-ger byggherren ensamrätt att under i fråga om ett markområde som
-en begränsad tid och under givna kommunen äger, ger byggherren
-villkor förhandla med kommunen ensamrätt att under en begränsad
-om överlåtelse eller upplåtelse av tid och under givna villkor förhand-
-ett visst av kommunen ägt mark- la med kommunen om överlåtelse
-område för bebyggande. eller upplåtelse av markområdet för
+Med markanvisning avses i den-
+na lag en överenskommelse mellan
+en kommun och en byggherre som
+ger byggherren ensamrätt att under
+en begränsad tid och under givna
+villkor förhandla med kommunen
+om överlåtelse eller upplåtelse av
+ett visst av kommunen ägt mark-
+område för bebyggande.
+
+Med markanvisning avses i den-
+na lag en överenskommelse mellan
+en kommun och en byggherre som,
+i fråga om ett markområde som
+kommunen äger, ger byggherren
+ensamrätt att under en begränsad
+tid och under givna villkor förhand-
+la med kommunen om överlåtelse
+eller upplåtelse av markområdet för
 bebyggande.
+
 2 §
 En kommun ska anta riktlinjer för markanvisningar.
 Riktlinjerna ska innehålla kom- Riktlinjerna ska ange
@@ -1557,6 +1638,7 @@ anvisningar, och
 4\. principer för markprissättning.
 En kommun som inte genomför några markanvisningar är inte skyldig
 att anta sådana riktlinjer.
+
 Denna lag träder i kraft den 1 januari 2025.
 
 10

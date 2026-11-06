@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4b3871f619594d48d2455a2c/1742197806
 sha256: 44d3f899cd5862dce290fae7ab4ce3b72d785535aff3f1b014df5a906136901b
 bytes: 14029791
 sidor: 576
-hamtad: 2026-10-23T07:10:22+00:00
-konverterad: 2026-10-23T07:11:54+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T08:51:14+00:00
+konverterad: 2026-11-06T08:52:52+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1973,7 +1973,6 @@ SOU 2025:8                               Författningsförslag
 
 skollärare mot mål som anges i eller förskollärare mot mål som
 förordningar och andra författ- anges i förordningar och andra
-
 ningar som ansluter till denna lag författningar som ansluter till
 och som syftar till utveckling denna lag och som syftar till ut-
 och lärande genom att barn eller veckling och lärande genom att
@@ -1984,14 +1983,24 @@ lag inom vilken barn eller elever deltar i undervisning och andra akti-
 viteter.
 
 4 kap.
+
 12 §
 Vårdnadshavare för barn i för- Vårdnadshavare för barn i för-
-skolan och för elever i förskole- skolan och för elever i förskole-
-klassen, grundskolan, anpassade klassen, grundskolan, anpassade
-grundskolan, specialskolan, same- grundskolan, specialskolan, same-
-skolan och fritidshemmet ska er- skolan och fritidshemmet ska i
-bjudas möjlighet till inflytande begränsad omfattning erbjudas
-över utbildningen.    möjlighet till inflytande över ut-
+
+skolan och för elever i förskole-
+klassen, grundskolan, anpassade
+grundskolan, specialskolan, same-
+skolan och fritidshemmet ska er-
+bjudas möjlighet till inflytande
+över utbildningen.
+
+skolan och för elever i förskole-
+klassen, grundskolan, anpassade
+grundskolan, specialskolan, same-
+skolan och fritidshemmet ska i
+begränsad omfattning erbjudas
+möjlighet till inflytande över ut-
+
 bildningen.
 
 5 kap.
@@ -2005,8 +2014,8 @@ hålla trygghet och studiero i skol-
 miljön.
 Huvudmannen ska säkerställa att det på skolenheten bedrivs ett
 förebyggande arbete som syftar till att skapa trygghet och studiero.
-
 Regeringen eller den myndig- Regeringen eller den myndig-
+
 het som regeringen bestämmer het som regeringen bestämmer
 får meddela föreskrifter om det får meddela föreskrifter om det
 förebyggande arbetet. upprätthållande arbetet.
@@ -2015,30 +2024,45 @@ förebyggande arbetet. upprätthållande arbetet.
 
 <!-- sida 59 -->
 
-Författningsförslag                        SOU 2025:8
+Författningsförslag                         SOU 2025:8
 
 5 §
 Ordningsregler        Skolregler
 
-Ordningsregler ska finnas för Skolregler ska finnas för varje
-varje skolenhet. Ordningsreglerna skolenhet inom förskoleklassen,
-och hur de följs ska regelbundet grundskolan, anpassade grund-
-följas upp. Orsakerna till upp- skolan, specialskolan, sameskolan,
-följningens resultat ska analy- gymnasieskolan och anpassade gym-
-seras.                nasieskolan. Skolreglerna och hur
+Ordningsregler ska finnas för
+varje skolenhet. Ordningsreglerna
+och hur de följs ska regelbundet
+följas upp. Orsakerna till upp-
+följningens resultat ska analy-
+seras.
+
+Ordningsreglerna ska utarbetas,
+följas upp och, vid behov, omarbe-
+tas under medverkan av eleverna.
+
+Rektorn beslutar om ordnings-
+regler.
+Denna paragraf gäller inte för
+kommunal vuxenutbildning.
+
+Skolregler ska finnas för varje
+skolenhet inom förskoleklassen,
+grundskolan, anpassade grund-
+skolan, specialskolan, sameskolan,
+gymnasieskolan och anpassade gym-
+nasieskolan. Skolreglerna och hur
 de följs ska regelbundet följas
 upp. Orsakerna till uppföljning-
 ens resultat ska analyseras.
-Ordningsreglerna ska utarbetas, Rektorn beslutar om skolreg-
-följas upp och, vid behov, omarbe- lerna. Rektorn ansvarar också för
-tas under medverkan av eleverna. att reglerna tas fram och för att det
+Rektorn beslutar om skolreg-
+lerna. Rektorn ansvarar också för
+att reglerna tas fram och för att det
+
 på skolenheten finns gemensamma
 rutiner och förhållningssätt i ar-
 betet med skolreglerna.
-Rektorn beslutar om ordnings- Skolreglerna ska förankras hos
-regler.               eleverna.
-Denna paragraf gäller inte för
-kommunal vuxenutbildning.
+Skolreglerna ska förankras hos
+eleverna.
 
 Konsekvensplan och
 förväntansdokument
@@ -2064,7 +2088,6 @@ SOU 2025:8                               Författningsförslag
 
 Förväntansdokumentet ska in-
 nehålla en påminnelse om vård-
-
 nadshavares ansvar för en god
 fostran enligt 6 kap. föräldrabal-
 ken, information om konsekvenser
@@ -2086,6 +2109,7 @@ Rektorn ska se till att det finns
 förutsättningar för skolans perso-
 nal att vidta de tillfälliga och ome-
 delbara åtgärder som krävs för att
+
 tillförsäkra eleverna och personalen
 trygghet och studiero.
 Enligt de förutsättningar som Enligt de förutsättningar som
@@ -2094,12 +2118,19 @@ om utvisning ur undervisnings- om utvisning ur undervisnings-
 lokalen, kvarsittning, tillfällig lokalen, kvarsittning, tillfällig
 omplacering, tillfällig placering omplacering, tillfällig placering
 
-utanför den egna skolenheten, utanför den egna skolenheten,
-avstängning och omhändertagande avstängning och omhändertagande
-av föremål. Även sådana åtgärder av föremål. Även sådana åtgärder
-får vidtas endast om de står i rim- får vidtas om de står i rimlig pro-
-lig proportion till sitt syfte och portion till sitt syfte och övriga
-övriga omständigheter. omständigheter.
+utanför den egna skolenheten,
+avstängning och omhändertagande
+av föremål. Även sådana åtgärder
+får vidtas endast om de står i rim-
+lig proportion till sitt syfte och
+övriga omständigheter.
+
+utanför den egna skolenheten,
+avstängning och omhändertagande
+av föremål. Även sådana åtgärder
+får vidtas om de står i rimlig pro-
+portion till sitt syfte och övriga
+omständigheter.
 
 19
 
@@ -2157,7 +2188,6 @@ SOU 2025:8                               Författningsförslag
 
 Innan rektorn fattar ett beslut som innebär undervisning i en annan
 undervisningsgrupp ska rektorn bedöma hur åtgärden kan påverka
-
 övriga elevers utbildning i den gruppen.
 Elevens vårdnadshavare ska informeras om rektorns beslut.
 En åtgärd som rektorn vidta- En åtgärd som rektorn vidta-
@@ -2166,16 +2196,28 @@ inte gälla för en längre tid än fyra inte gälla för en längre tid än åt
 veckor.               stoden av pågående termin.
 
 13 §
-Om åtgärder enligt 12 § inte Om åtgärder enligt 12 § inte
-är tillräckligt ingripande för att är tillräckligt ingripande för att
-tillförsäkra andra elever trygghet tillförsäkra andra elever trygghet
-och studiero eller inte är möjliga och studiero eller inte är möjliga
-att genomföra, får rektorn be- att genomföra, får rektorn be-
-sluta att en elev tillfälligt ska ges sluta att en elev tillfälligt ska ges
-undervisning vid en annan skol- undervisning vid en annan skol-
-enhet eller på en annan plats in- enhet, på en annan plats inom
-om huvudmannens organisation. huvudmannens organisation eller
+
+Om åtgärder enligt 12 § inte
+är tillräckligt ingripande för att
+tillförsäkra andra elever trygghet
+och studiero eller inte är möjliga
+att genomföra, får rektorn be-
+sluta att en elev tillfälligt ska ges
+undervisning vid en annan skol-
+enhet eller på en annan plats in-
+om huvudmannens organisation.
+
+Om åtgärder enligt 12 § inte
+är tillräckligt ingripande för att
+tillförsäkra andra elever trygghet
+och studiero eller inte är möjliga
+att genomföra, får rektorn be-
+sluta att en elev tillfälligt ska ges
+undervisning vid en annan skol-
+enhet, på en annan plats inom
+huvudmannens organisation eller
 på en akutskola.
+
 Ett beslut enligt första stycket får innebära att eleven ges enskild
 undervisning eller undervisning i en särskild undervisningsgrupp
 enligt 3 kap. 11 §. De förutsättningar som anges i 3 kap. för sådan
@@ -2286,7 +2328,7 @@ första eller andra stycket.
 
 <!-- sida 65 -->
 
-Författningsförslag                        SOU 2025:8
+Författningsförslag                         SOU 2025:8
 
 Ett beslut om avstängning gäller omedelbart om inte annat be-
 slutas.
@@ -2294,7 +2336,6 @@ slutas.
 15 §
 Ett beslut enligt 14 § får innebära avstängning endast under den
 tid som behövs för en skyndsam utredning av vilka andra åtgärder
-
 som kan behövas.
 En elev får inte stängas av för En elev får inte stängas av för
 en längre tidsperiod än en vecka en längre tidsperiod än två veckor
@@ -2303,12 +2344,21 @@ och inte heller vid fler tillfällen och inte heller vid fler tillfällen
 
 24 §
 Om en åtgärd vidtagits enligt Om en åtgärd vidtagits enligt
-7, 8, 12, 13, 14, 15, 16, 17, 18, 19, 12, 13, 13 b, 14, 15, 16, 17, 18, 19,
-20, 21, 22 eller 23 §, ska den 20, 21, 22 eller 23 §, ska den
-dokumenteras skriftligt av den dokumenteras skriftligt av den
-som genomfört åtgärden. Om som genomfört åtgärden. Om
-åtgärden rör omhändertagande av åtgärden rör omhändertagande av
-föremål enligt 22 §, gäller denna föremål enligt 22 §, gäller denna
+
+7, 8, 12, 13, 14, 15, 16, 17, 18, 19,
+20, 21, 22 eller 23 §, ska den
+dokumenteras skriftligt av den
+som genomfört åtgärden. Om
+åtgärden rör omhändertagande av
+föremål enligt 22 §, gäller denna
+
+12, 13, 13 b, 14, 15, 16, 17, 18, 19,
+20, 21, 22 eller 23 §, ska den
+dokumenteras skriftligt av den
+som genomfört åtgärden. Om
+åtgärden rör omhändertagande av
+föremål enligt 22 §, gäller denna
+
 skyldighet endast om föremålet skyldighet endast om föremålet
 inte återlämnats efter lektionens inte återlämnats efter lektionens
 slut.                 slut.
@@ -2325,6 +2375,7 @@ inte har giltigt skäl att utebli. inte har giltig frånvaro.
 Den obligatoriska verksamheten får omfatta högst 190 dagar per
 läsår och åtta timmar eller, i förskoleklassen och de två lägsta års-
 kurserna, sex timmar per dag. Sådan verksamhet får inte förläggas till
+
 lördagar, söndagar eller andra helgdagar.
 
 24
@@ -2335,7 +2386,6 @@ SOU 2025:8                               Författningsförslag
 
 Regeringen eller den myndighet som regeringen bestämmer får
 meddela föreskrifter om giltig frånvaro enligt första stycket och om
-
 avvikelser från andra stycket för
 1\. elever i grundskolan, specialskolan och sameskolan som läser
 på en högre nivå och även i andra fall för elever i specialskolan, och
@@ -2344,14 +2394,24 @@ Om en elev i förskoleklassen, Om en elev i förskoleklassen,
 grundskolan, anpassade grund- grundskolan, anpassade grund-
 skolan, specialskolan eller same- skolan, specialskolan eller same-
 skolan utan giltigt skäl uteblir skolan utan att ha giltig frånvaro
-från den obligatoriska verksam- uteblir från den obligatoriska
-heten, ska rektorn se till att ele- verksamheten, ska rektorn se till
-vens vårdnadshavare samma dag att elevens vårdnadshavare sam-
-informeras om att eleven har ma dag informeras om att eleven
-varit frånvarande. Om det finns har varit frånvarande. Om det
-särskilda skäl behöver elevens finns särskilda skäl behöver ele-
-vårdnadshavare inte informeras vens vårdnadshavare inte infor-
-samma dag.            meras samma dag.
+
+från den obligatoriska verksam-
+heten, ska rektorn se till att ele-
+vens vårdnadshavare samma dag
+informeras om att eleven har
+varit frånvarande. Om det finns
+särskilda skäl behöver elevens
+vårdnadshavare inte informeras
+samma dag.
+
+uteblir från den obligatoriska
+verksamheten, ska rektorn se till
+att elevens vårdnadshavare sam-
+ma dag informeras om att eleven
+har varit frånvarande. Om det
+finns särskilda skäl behöver ele-
+vens vårdnadshavare inte infor-
+meras samma dag.
 
 15 kap.
 16 §
@@ -2365,25 +2425,33 @@ het som regeringen bestämmer får
 meddela föreskrifter om giltig från-
 varo enligt första stycket.
 
-Om en elev i gymnasieskolan Om en elev i gymnasieskolan
-utan giltigt skäl uteblir från den utan att ha giltig frånvaro uteblir
-verksamhet som anordnas för att från den verksamhet som anord-
-ge den avsedda utbildningen, ska nas för att ge den avsedda utbild-
-rektorn se till att elevens vård- ningen, ska rektorn se till att ele-
-nadshavare samma dag informe- vens vårdnadshavare samma dag
-ras om att eleven har varit från- informeras om att eleven har
-varande. Om det finns särskilda varit frånvarande. Om det finns
+Om en elev i gymnasieskolan
+utan giltigt skäl uteblir från den
+verksamhet som anordnas för att
+ge den avsedda utbildningen, ska
+rektorn se till att elevens vård-
+nadshavare samma dag informe-
+ras om att eleven har varit från-
+varande. Om det finns särskilda
+
+Om en elev i gymnasieskolan
+utan att ha giltig frånvaro uteblir
+från den verksamhet som anord-
+nas för att ge den avsedda utbild-
+ningen, ska rektorn se till att ele-
+vens vårdnadshavare samma dag
+informeras om att eleven har
+varit frånvarande. Om det finns
 särskilda skäl behöver elevens
 
 25
 
 <!-- sida 67 -->
 
-Författningsförslag                        SOU 2025:8
+Författningsförslag                         SOU 2025:8
 
 skäl behöver elevens vårdnads- vårdnadshavare inte informeras
 havare inte informeras samma dag. samma dag.
-
 Vid upprepad eller längre frånvaro ska rektorn, oavsett om det är
 fråga om giltig eller ogiltig frånvaro, se till att frånvaron skyndsamt
 utreds om det inte är obehövligt. Om förutsättningarna för en ut-
@@ -2392,26 +2460,47 @@ sådan utredning inledas.
 
 18 kap.
 16 §
-En elev i anpassade gymnasie- En elev i anpassade gymnasie-
-skolan ska delta i den verksam- skolan ska delta i den verksam-
-het som anordnas för att ge den het som anordnas för att ge den
-avsedda utbildningen, om eleven avsedda utbildningen, om eleven
-inte har giltigt skäl att utebli. inte har giltig frånvaro.
+
+En elev i anpassade gymnasie-
+skolan ska delta i den verksam-
+het som anordnas för att ge den
+avsedda utbildningen, om eleven
+inte har giltigt skäl att utebli.
+
+Om en elev i anpassade gym-
+nasieskolan utan giltigt skäl ute-
+blir från den verksamhet som
+anordnas för att ge den avsedda
+
+utbildningen, ska rektorn se till
+att elevens vårdnadshavare samma
+dag informeras om att eleven har
+varit frånvarande. Om det finns
+särskilda skäl behöver elevens
+vårdnadshavare inte informeras
+samma dag.
+
+En elev i anpassade gymnasie-
+skolan ska delta i den verksam-
+het som anordnas för att ge den
+avsedda utbildningen, om eleven
+inte har giltig frånvaro.
 Regeringen eller den myndig-
 het som regeringen bestämmer får
 meddela föreskrifter om giltig från-
 varo enligt första stycket.
-Om en elev i anpassade gym- Om en elev i anpassade gym-
-nasieskolan utan giltigt skäl ute- nasieskolan utan att ha giltig från-
-blir från den verksamhet som varo uteblir från den verksamhet
-anordnas för att ge den avsedda som anordnas för att ge den av-
-utbildningen, ska rektorn se till sedda utbildningen, ska rektorn
-att elevens vårdnadshavare samma se till att elevens vårdnadshavare
-dag informeras om att eleven har samma dag informeras om att
-varit frånvarande. Om det finns eleven har varit frånvarande. Om
-särskilda skäl behöver elevens det finns särskilda skäl behöver
-vårdnadshavare inte informeras elevens vårdnadshavare inte in-
-samma dag.            formeras samma dag.
+Om en elev i anpassade gym-
+nasieskolan utan att ha giltig från-
+varo uteblir från den verksamhet
+som anordnas för att ge den av-
+
+sedda utbildningen, ska rektorn
+se till att elevens vårdnadshavare
+samma dag informeras om att
+eleven har varit frånvarande. Om
+det finns särskilda skäl behöver
+elevens vårdnadshavare inte in-
+formeras samma dag.
 
 Vid upprepad eller längre frånvaro ska rektorn, oavsett om det är
 fråga om giltig eller ogiltig frånvaro, se till att frånvaron skyndsamt
@@ -2427,7 +2516,6 @@ SOU 2025:8                               Författningsförslag
 
 23 kap.
 12 c §
-
 Uppgifter som avser under-
 visning på en akutskola enligt
 5 kap. 13 § får inom grundskolan
@@ -2436,16 +2524,28 @@ man inom skolväsendet på entre-
 prenad.
 
 28 kap.
+
 9 §
-Beslut av en rektor får över- Beslut av en rektor får över-
-klagas till allmän förvaltningsdom- klagas till allmän förvaltningsdom-
-stol i fråga om       stol i fråga om
-1\. avstängning av en elev en- 1. Nekande av tillträde till skol-
-ligt 5 kap. 14, 17 eller 19 §, och enheten enligt 5 kap. 13 b §,
-2\. befrielse från skyldighet att 2. avstängning av en elev en-
-delta i obligatoriska inslag i under- ligt 5 kap. 14, 17 eller 19 §, och
-visningen enligt 7 kap. 19 §. 3. befrielse från skyldighet att
+
+Beslut av en rektor får över-
+klagas till allmän förvaltningsdom-
+stol i fråga om
+1\. avstängning av en elev en-
+ligt 5 kap. 14, 17 eller 19 §, och
+2\. befrielse från skyldighet att
 delta i obligatoriska inslag i under-
+visningen enligt 7 kap. 19 §.
+
+Beslut av en rektor får över-
+klagas till allmän förvaltningsdom-
+stol i fråga om
+1\. Nekande av tillträde till skol-
+enheten enligt 5 kap. 13 b §,
+2\. avstängning av en elev en-
+ligt 5 kap. 14, 17 eller 19 §, och
+3\. befrielse från skyldighet att
+delta i obligatoriska inslag i under-
+
 visningen enligt 7 kap. 19 §.
 
 Denna lag träder i kraft den 1 juli 2026.
@@ -2509,15 +2609,26 @@ gäller inte fjärrundervisning enligt
 
 15 kap.
 5 §
-Statens skolverk får meddela Statens skolverk får meddela
-föreskrifter om hur det före- närmare föreskrifter om hur
-byggande arbetet för att skapa arbetet för att upprätthålla trygg-
-trygghet och studiero enligt het och studiero enligt 5 kap.
-5 kap. 3 § skollagen (2010:800) 3 § skollagen (2010:800) ska be-
-ska bedrivas i förskoleklassen, drivas i förskoleklassen, grund-
-grundskolan, anpassade grund- skolan, anpassade grundskolan,
-skolan, specialskolan, sameskolan specialskolan, sameskolan och
-och fritidshemmet.    fritidshemmet.
+
+Statens skolverk får meddela
+föreskrifter om hur det före-
+byggande arbetet för att skapa
+trygghet och studiero enligt
+5 kap. 3 § skollagen (2010:800)
+ska bedrivas i förskoleklassen,
+grundskolan, anpassade grund-
+skolan, specialskolan, sameskolan
+och fritidshemmet.
+
+Statens skolverk får meddela
+närmare föreskrifter om hur
+arbetet för att upprätthålla trygg-
+het och studiero enligt 5 kap.
+3 § skollagen (2010:800) ska be-
+drivas i förskoleklassen, grund-
+skolan, anpassade grundskolan,
+specialskolan, sameskolan och
+fritidshemmet.
 
 Denna lag träder i kraft den 1 juli 2026.
 
@@ -2570,7 +2681,6 @@ SOU 2025:8                               Författningsförslag
 
 2 §
 Om en elev på grund av sjuk- Om en elev har giltigt skäl att
-
 dom eller av annan orsak inte kan vara frånvarande, ska det snarast
 delta i skolarbetet, ska det snarast anmälas. Även frånvaro som är
 anmälas.              anmäld kan, vid en utredning av
@@ -2579,13 +2689,22 @@ traktas som ogiltig.
 
 14 kap.
 4 §
-Statens skolverk får meddela Statens skolverk får meddela
-föreskrifter om hur det förebyg- närmare föreskrifter om hur
-gande arbetet för att skapa trygg- arbetet för att upprätthålla trygg-
-het och studiero enligt 5 kap. het och studiero enligt 5 kap.
-3 § skollagen (2010:800) ska be- 3 § skollagen (2010:800) ska be-
-drivas i gymnasieskolan och an- drivas i gymnasieskolan och an-
-passade gymnasieskolan. passade gymnasieskolan.
+
+Statens skolverk får meddela
+föreskrifter om hur det förebyg-
+gande arbetet för att skapa trygg-
+het och studiero enligt 5 kap.
+3 § skollagen (2010:800) ska be-
+drivas i gymnasieskolan och an-
+passade gymnasieskolan.
+
+Statens skolverk får meddela
+närmare föreskrifter om hur
+arbetet för att upprätthålla trygg-
+het och studiero enligt 5 kap.
+3 § skollagen (2010:800) ska be-
+drivas i gymnasieskolan och an-
+passade gymnasieskolan.
 
 Denna lag träder i kraft den 1 juli 2026.
 

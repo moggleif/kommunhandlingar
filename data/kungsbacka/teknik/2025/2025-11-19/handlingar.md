@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6b3c9de619a7bbdb14110676/1763109230
 sha256: 46eb0cb58df4d1e43f9b04866ce8b19a022f7862fe2258c4fe4211dcedd34935
 bytes: 80181392
 sidor: 594
-hamtad: 2026-10-23T09:40:48+00:00
-konverterad: 2026-10-23T09:48:50+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-06T11:28:08+00:00
+konverterad: 2026-11-06T11:36:33+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, ok]
@@ -18842,25 +18842,39 @@ uppnåpotentialenbehövsentryggochsäkercykelinfrastruktur.
 
 <!-- sida 525 -->
 
+Möjligheter
+
+På grund av att det saknas en vägplan för ny gång-och cykelväg i
+Ölmanäs behöverfastighetsägare, samfälligheter,
+gemensamhetsanläggningar, arrendatorer av mark, verksamheter
+och Trafikverket vara positiva till de planer sompresenteras i
+förstudien för att sträckan ska kunna rekommenderas. Svaren har
+varierat och vid de tillfällen då någon av dessa intressenter sagt nej
+har nya förslag till sträckning tagits framunder förstudiens gång.
+Fornlämningar, biotopskyddade områden/murar, bäckar, diken,
+trädalléer kan också försvåra eller omöjliggöra möjligheten att
+komma fram där vi inledningsvis bedömt finns det bästa alternativet
+för en ny gång-och cykelväg.
+
 6
 
-Möjligheter                                   Förutsättningar
+Förutsättningar
 
-På grund av att det saknas en vägplan för ny gång-och cykelväg i Förutsättningarna för de två sträckorna som utreds i denna förstudie
-Ölmanäs behöverfastighetsägare, samfälligheter, baseras på frivillighetsprincipen. Det innebär att varje enskild
-gemensamhetsanläggningar, arrendatorer av mark, verksamheter fastighetsägare behöver säga ja till att en del av deras mark används
-och Trafikverket vara positiva till de planer sompresenteras i ochtasi anspråk avkommunenföratt anläggaen gång- ochcykelväg.
-förstudien för att sträckan ska kunna rekommenderas. Svaren har I förstudieskedetregleras det genom ett muntligt/skriftligt godkännande
-varierat och vid de tillfällen då någon av dessa intressenter sagt nej ochiprojekteringsskedet genomettservitutsavtalmedkommunen.
-har nya förslag till sträckning tagits framunder förstudiens gång.
+Förutsättningarna för de två sträckorna som utreds i denna förstudie
+baseras på frivillighetsprincipen. Det innebär att varje enskild
+fastighetsägare behöver säga ja till att en del av deras mark används
+ochtasi anspråk avkommunenföratt anläggaen gång- ochcykelväg.
+I förstudieskedetregleras det genom ett muntligt/skriftligt godkännande
+ochiprojekteringsskedet genomettservitutsavtalmedkommunen.
 På den mark Kungsbacka kommun äger mark i området, men som en
-Fornlämningar, biotopskyddade områden/murar, bäckar, diken, gemensamhetsanläggning sköter om och driftar, behövs också ett
-trädalléer kan också försvåra eller omöjliggöra möjligheten att godkännande från medlemmarna i gemensamhetsanläggningen att de
-komma fram där vi inledningsvis bedömt finns det bästa alternativet godkännerdetviplanerar.
-för en ny gång-och cykelväg.
+gemensamhetsanläggning sköter om och driftar, behövs också ett
+godkännande från medlemmarna i gemensamhetsanläggningen att de
+godkännerdetviplanerar.
+
 Utredningar av samfälligheter som är ofullständiga i ägarantalet
 behöver utredas av lantmäteriet. Därefter behövs ett ja från samtliga
 fastighetsägareisamfällighetentilldetsomplaneras.
+
 I första stadiet kontaktas den aktuella fastighetsägaren. De får
 informationom vadsom utredsi förstudienochatt dennaplangåröver
 deras mark. Därefter får fastighetsägaren bilder på hur den tänkta GC-
@@ -18870,22 +18884,32 @@ mark.Dåfårdetförslagetutredasvidare.
 
 <!-- sida 526 -->
 
+Intressenter
+
+Privata fastighetsägare och verksamheter i Ölmanäs, skolor,
+förskolor, samfälligheter, gemensamhetsanläggningar och
+arrendatorer av mark
+
+Lantmäteriet, länsstyrelsen och trafikverket
+Kungsbacka kommun: Mark och exploatering,
+belysningsingenjörer, driftenheten, trafik, landskap och fastighet
+
 7
 
-Intressenter                                    Dialog med  intressenter
+Dialog med  intressenter
 
-Privata fastighetsägare och verksamheter i Ölmanäs, skolor, Under tiden som förstudien pågått har dialog med samtliga
-förskolor, samfälligheter, gemensamhetsanläggningar och intressenter ägt rum.
-arrendatorer av mark
+Under tiden som förstudien pågått har dialog med samtliga
+intressenter ägt rum.
+
 Trafikverket är generellt positiva till förslagen som lagts fram under
-Lantmäteriet, länsstyrelsen och trafikverket    pågående förstudie. Åtgärdsplanerare väg, som har hand om
+pågående förstudie. Åtgärdsplanerare väg, som har hand om
 västra regionen, har varit med på ett av fyra platsbesök. Bygdeväg
-Kungsbacka kommun: Mark och exploatering,       var ett av förslagen som de inte var positiva till då vägarna på
-belysningsingenjörer, driftenheten, trafik, landskap och fastighet
+var ett av förslagen som de inte var positiva till då vägarna på
 Ölmanäs Ringväg är för smala, kurviga och har begränsande sikt.
 Tre upphöjda övergångsställen är Trafikverket positiva till. Att
 anlägga GC-banan precis intill vägområdet på vissa sträckor var
 okej. Ett bevakningsavtal krävs dock på dessa platser/sträckor.
+
 Fastighetsägare har kontaktats en efter en längs sträcka 1 och 2.
 Svaren hos fastighetsägarna har varierat och på vissa sträckor har
 vi fått ta andra vägar för att komma framåt. Där det behövs ta ett
@@ -18916,36 +18940,56 @@ Bilaga 1-Uppdaterade analyser.pdf
 
 <!-- sida 528 -->
 
+Platsanalys
+
+Fyra platsbesök har ägt rum från förstudiens start i
+september 2024 till maj 2025.
+
+Sammanställning    av intressent- och
+
+platsanalys
+
+Kontakten med varje intressent har gett bra information och
+viktiga inspel i förstudien. Exempelvis har boende i
+Ölmanäsområdet berättat hur människor till stor del rör sig
+och var problem uppstår mellan fordon och oskyddade
+trafikanter.
+
+Förväntad  nytta
+
+Med en trygg och säker gång-och cykelväg kan förväntas
+att många hade börjat använda cykeln i stället för att ta
+bilen. Barn i området kan själva ta sig till skola och aktiviteter
+på ett tryggt sätt. Eventuella olyckor kan förhindras när
+gång-och cyklister separeras från bilvägen till en separerad
+
+gång-och cykelbana.
+
 9
 
-Platsanalys                                Mål för platsen
+Mål för platsen
 
-Fyra platsbesök har ägt rum från förstudiens start i Målet är att få till en trygg gång- och cykelväg som är belyst
-september 2024 till maj 2025.              försåmångasommöjligtiÖlmanäs.
+Målet är att få till en trygg gång- och cykelväg som är belyst
+försåmångasommöjligtiÖlmanäs.
 
-Sammanställning   av intressent- och
 Sträcka1,Åsaskolantill Österbyn/GårdaBrygga(sida3)
-platsanalys
+
 På denna sträcka är målet att de som ska ta sig till och från
 Åsaskolan, Åsa centrum och Åsa station till Österbyn/Gårda
-Kontakten med varje intressent har gett bra information och
 Brygga ska få en tryggare väg att gå och cykla på. Att få till
-viktiga inspel i förstudien. Exempelvis har boende i
 en bättre situation i S-kurvan på Ölmanäs Ringväg mellan
-Ölmanäsområdet berättat hur människor till stor del rör sig
 fastighet 8:6 och 8:117 genom att separera oskyddade
-och var problem uppstår mellan fordon och oskyddade
+
 trafikanter och fordon med en separat GC-bana (s-kurvan
-trafikanter.
 beskrivspåsida13).
-Förväntad  nytta
+
 Sträcka 2, Åsaskolan till Stenkullavägen/Ryttarevägen
-Med en trygg och säker gång-och cykelväg kan förväntas (sida4)
-att många hade börjat använda cykeln i stället för att ta
-bilen. Barn i området kan själva ta sig till skola och aktiviteter På denna sträcka är målet att de som ska ta sig till och från
-på ett tryggt sätt. Eventuella olyckor kan förhindras när Åsaskolan, Åsa centrum och Åsa station söderut mot
-gång-och cyklister separeras från bilvägen till en separerad Hästholmsvägen/Stenkullavägen och Ryttarevägen ska få
-gång-och cykelbana.                        entryggarevägattgåochcyklapå.
+(sida4)
+
+På denna sträcka är målet att de som ska ta sig till och från
+Åsaskolan, Åsa centrum och Åsa station söderut mot
+Hästholmsvägen/Stenkullavägen och Ryttarevägen ska få
+entryggarevägattgåochcyklapå.
 
 <!-- sida 529 -->
 
@@ -19025,23 +19069,30 @@ Beskrivning: Ny gång-och cykelväg, belysning, ett upphöjt
 
 <!-- sida 533 -->
 
-14
+Exempel   på åtgärder - Sträcka 1, Etapp 1
 
-Exempel   på åtgärder - Sträcka 1, Etapp 1    Den fortsätter på den östra sidan om Ölmanäs Ringväg på fastighet 8:6.
-GC-banan ska gå intill vägområdet och vara 2-3 meter bred med
 Åsaskolan till Österbyn/Gårda Brygga
-trottoarkant på 10 cm. Vid huset behöver GC-banan smalna av till 2-2,4
-meter för att fastighetsägaren ska kunna gå runt sitt hus likt idag.
+
 På sträcka 1 (etapp 1) som sträcker sig från Åsaskolan till
-Österbyn/Gårda Brygga, finns behov av några fartdämpande Resterande GC-bana blir 3 meter bred.
+Österbyn/Gårda Brygga, finns behov av några fartdämpande
 åtgärder i form av gupp på Ölmanäs Ringväg från Gårda Brygga i
-Bild 2
 riktning mot S-kurvan, samt två belysningsarmaturer till befintliga
 belysningsstolpar som inte finns där idag.
 Den nya GC-banan planeras att starta vid Rönnhagsvägen vidare
 till Davids väg. Stolpen som står vid starten av den nya GC-banan
 ska rivas.
+
 Bild 1
+
+14
+
+Den fortsätter på den östra sidan om Ölmanäs Ringväg på fastighet 8:6.
+GC-banan ska gå intill vägområdet och vara 2-3 meter bred med
+trottoarkant på 10 cm. Vid huset behöver GC-banan smalna av till 2-2,4
+meter för att fastighetsägaren ska kunna gå runt sitt hus likt idag.
+Resterande GC-bana blir 3 meter bred.
+
+Bild 2
 
 Stenmuren tas bort. Likaså häcken som finns där idag och ersätts med ett
 plank likt grannen på 8:117 (se nästa sida). Fastighetsägare 8:6 har sagt
@@ -19088,21 +19139,26 @@ Ringväg till Charles väg (Ölmanäs slott/Slottslänken). Se bild 8
 
 <!-- sida 536 -->
 
+Etapp 1 fortsätter in på Charles väg och övergår i Ölmanäs slott.
+
+För att inte cyklister och gående ska dela på samma yta som travhäst och
+kusk så behöver vi anlägga en grusväg på den blå sträckan för att
+separera dessa.
+Travhästar är lättskrämda och nervöst lagda och behöver eget utrymme.
+Bild 8
+
 17
 
-Etapp 1 fortsätter in på Charles väg och övergår i Ölmanäs slott. De gula sträckorna nedan skall förbättras vid behov, exempelvis att
+De gula sträckorna nedan skall förbättras vid behov, exempelvis att
 hålor fylls igen med grus till en plan grusväg. Belysning anläggs
-För att inte cyklister och gående ska dela på samma yta som travhäst och
 endast längs slottslänken (Charles väg-Ölmanäs slott), se orangea
-kusk så behöver vi anlägga en grusväg på den blå sträckan för att
 punkter.
-separera dessa.
 Grusvägen mellan Gunlehögsvägen och Christmansvägen
-Travhästar är lättskrämda och nervöst lagda och behöver eget utrymme.
 förbättras med grus på gul sträcka och större förbättring på orange
-Bild 8                                             sträcka. En pollare med reflexer (gröna punkter) placeras för att
+sträcka. En pollare med reflexer (gröna punkter) placeras för att
 förhindra obehörig trafik från att köra på grusvägen men som kan
 plockas bort med nyckel av bönderna i Ölmevalla skifteslag.
+
 Bild 7
 
 <!-- sida 537 -->
@@ -19512,46 +19568,51 @@ Ca 300.000 kr
 
 <!-- sida 560 -->
 
-41
+Bortvalda  sträckor
 
-Bortvalda  sträckor                               Etapp 1
-
-På sträcka 1, etapp ett, har många förslag till sträckning tagits fram
 Varbergsvägen till Österbyn/Gårda Brygga
-för att komma förbi S-kurvan med ett tryggt och säkert alternativ.
+
 Via Varbergsvägen, längs Ölmanäs Ringväg, ansluta till Davids väg
 för at att nå Österbyn/Gårda Brygga (blå sträcka).
 
-Fastighetsägare 8:6 sa nej till båda alternativen på hans mark, rosa
 Denna sträcka valdes bort då detta förslag till största del möjliggjorde
-och gul sträcka
 för barn som går på Åsa Gårdsskola att ta sig till Österbyn. När jag
 fick veta av boende i området att barnen som bor i och runt området
-8:179 sa nej till att gå på deras mark, grön sträcka
 Österbyn går på Åsaskolan, blev det naturliga och bästa valet att välja
-den gula sträckan i stället. Flertalet lokalbor har intygat att det är via 8:180 fick konsult från MEXL inte tag på, skickade brev utan
-slottslänken och därefter via S-kurvan som många barn cyklar för att framgång, röd sträcka.
+den gula sträckan i stället. Flertalet lokalbor har intygat att det är via
+slottslänken och därefter via S-kurvan som många barn cyklar för att
 ta sig till och från skolan.
+
+41
+Etapp 1
+
+På sträcka 1, etapp ett, har många förslag till sträckning tagits fram
+för att komma förbi S-kurvan med ett tryggt och säkert alternativ.
+
+Fastighetsägare 8:6 sa nej till båda alternativen på hans mark, rosa
+och gul sträcka
+8:179 sa nej till att gå på deras mark, grön sträcka
+
+8:180 fick konsult från MEXL inte tag på, skickade brev utan
+framgång, röd sträcka.
 
 <!-- sida 561 -->
 
-42
+8:16 ville inte att det gick en GC bakom hennes mark så vi flyttade
+den längre bort och testade med grannarna 9:95 och 33:7 som inte
+tyckte att förslaget var bra (blå sträcka)
+Tankar om att gå via den befintliga vägen, Charles väg, har också
+funnits. Att då anlägga ny GC-väg där den heldragna sträckan i
+grönt nedan är placerad. Var inte intressant längre efter att
+fastighetsägare 8:6 sa ja till den nu rekommenderade sträckan.
 
+42
 Etapp 2
 
 På sträcka 1, etapp 2,var ett av de första förslagen att gå med ett
 upphöjt övergångsställe till fastighet 2:5, över bäcken och därefter
 vidare till fastighet 2:49 för att komma ut tvärs emot Jute tvärväg,
 enligt bilden nedan.
-
-8:16 ville inte att det gick en GC bakom hennes mark så vi flyttade
-den längre bort och testade med grannarna 9:95 och 33:7 som inte
-tyckte att förslaget var bra (blå sträcka)
-
-Tankar om att gå via den befintliga vägen, Charles väg, har också
-funnits. Att då anlägga ny GC-väg där den heldragna sträckan i
-grönt nedan är placerad. Var inte intressant längre efter att
-fastighetsägare 8:6 sa ja till den nu rekommenderade sträckan.
 
 På fastighet 2:5 finns ett ganska omfattande fornlämningsområde
 vilket betyder flertalet utredningar och stora summor pengar för att
@@ -19561,33 +19622,46 @@ Kan dra ut på tid med ansökningar och utredningar även här.
 
 <!-- sida 562 -->
 
-43
-
-Etapp 3
-Då det första förlaget inte längre var aktuellt så togs nedan förslag På sträcka 2, etapp 3, presenterades nedan förslag.
+Då det första förlaget inte längre var aktuellt så togs nedan förslag
 fram. Dessa sträckor innebar båda att det hade blivit en separerad
-GC-väg från Slottslänken till det upphöjda övergångsstället. Förslag 1: Första förslaget var att gå längs Ölmanäs Ringväg för
-att så gent som möjligt ta sig över till den västra sidan av Ölmanäs
-Dessa förslag tog stopp när fastighet 12:10 sa nej till att gå på Ringväg med ett upphöjt övergångsställe. Fastighetsägare 2:5 sa
-deras mark.                                       nej. Därefter prövades alternativ 2, se nästa sida.
+GC-väg från Slottslänken till det upphöjda övergångsstället.
+Dessa förslag tog stopp när fastighet 12:10 sa nej till att gå på
+deras mark.
+
 Förslaget som nu är rekommenderat blir inte separerad hela
 vägen.
 
+43
+Etapp 3
+
+På sträcka 2, etapp 3, presenterades nedan förslag.
+Förslag 1: Första förslaget var att gå längs Ölmanäs Ringväg för
+att så gent som möjligt ta sig över till den västra sidan av Ölmanäs
+Ringväg med ett upphöjt övergångsställe. Fastighetsägare 2:5 sa
+nej. Därefter prövades alternativ 2, se nästa sida.
+
 <!-- sida 563 -->
 
-44
-
-Etapp 4
-Förslag 2: Testade att komma fram med den nya GC- På sträcka 2, etapp 4, har två förslag tagits fram tills vi kom fram till sträckan som är
-banan på fastighet 3:175. Det visade sig att ägaren rekommenderad idag.
+Förslag 2: Testade att komma fram med den nya GC-
+banan på fastighet 3:175. Det visade sig att ägaren
 till fastighet 3:175 nyligen hade avlidit. Detta förslag
-är alltså fortfarande intressant. När fastighet 3:175 Första alternativet var att gå längs Ölmanäs Ringväg hela vägen fram till Stenkullavägen
-fått nya ägare i framtiden kan en dialog med de nya (grön sträcka). Därefter prövade vi gul sträcka för att slippa de två passagerna på den
-fastighetsägarna angående detta förslag prövas. trafikerad vägen Ölmanäs Ringväg. Flera boende vittnar om att det går väldigt fort när
-Tanken var att erbjuda ett plank bredvid GC-vägen så fordon tar sig fram på denna väg.
+är alltså fortfarande intressant. När fastighet 3:175
+fått nya ägare i framtiden kan en dialog med de nya
+fastighetsägarna angående detta förslag prövas.
+Tanken var att erbjuda ett plank bredvid GC-vägen så
 att de får minskad insyn från Ölmanäs Ringväg i
-Fornlämningar, fin stenmur och tveksamma reaktioner från boende samt att vi pratade
 gengäld för markanspråket.
+
+44
+Etapp 4
+
+På sträcka 2, etapp 4, har två förslag tagits fram tills vi kom fram till sträckan som är
+rekommenderad idag.
+Första alternativet var att gå längs Ölmanäs Ringväg hela vägen fram till Stenkullavägen
+(grön sträcka). Därefter prövade vi gul sträcka för att slippa de två passagerna på den
+trafikerad vägen Ölmanäs Ringväg. Flera boende vittnar om att det går väldigt fort när
+fordon tar sig fram på denna väg.
+Fornlämningar, fin stenmur och tveksamma reaktioner från boende samt att vi pratade
 med fastighetsägare 31:1 som kom med förslaget på sträckan som nu är rekommenderad
 i denna förstudie, gjorde att vi valde bort dessa sträckor. Fastighetsägare 31:1
 promenerar med sin hund flera gånger per i området och ser hur både barn och vuxna rör
@@ -19679,49 +19753,68 @@ S:22
 
 <!-- sida 568 -->
 
-49
+Överlämning
 
-Överlämning                                     Etapp 3
-
-\- Meddela fastighetsägare intill den planerade sträckan vad som
 Till denna förstudie finns även internt arbetsmaterial med
-är på gång och när/hur det planeras att byggas.
 dokumentation från varje kontakt med intressenter såsom
 fastighetsägare, Trafikverket med flera.
+Arbetsmaterial 1 –Dagbok
+Arbetsmaterial 2 –Kontaktuppgifter
+
+Arbetsmaterial 3 –Sammanfattningar
+Outredda samfälligheter behöver skickas in till lantmäteriet i takt
+med att en etapp ska påbörjas, innan projekteringen startar.
+Det finns fortfarande fastighetsägare att ta kontakt med,
+exempelvis:
+
+Etapp 1
+\- Meddela alla fastighetsägare intill den planerade sträckan vad
+som är på gång och när/hur det planeras att byggas.
+\- 8:16 –Informera om planerna. Att vi går precis i kanten till denna
+fastighet.
+
+Etapp 2
+\- Meddela alla fastighetsägare intill den planerade sträckan vad
+som är på gång och när/hur det planeras att byggas.
+\- 1:18 –Informera om att fastighet 1:17 vill att vi sätter upp en
+pollare några meter efter deras utfart mot slottet till på grund av
+travhästverksamhet. Att de då får köra ut mot Jute Tvärväg.
+Hinder som står där idag ska tas bort i den planerade etappen.
+\- 12:12 –Informera fastighetsägare att vi vill ta bort chikaner på
+Ölmanäs Ringväg och bredda till två filer. Några meter i kanten
+på deras fastighet berörs. (Bytte ägare under förstudien)
+
+49
+
+Etapp 3
+\- Meddela fastighetsägare intill den planerade sträckan vad som
+är på gång och när/hur det planeras att byggas.
 \- 3:21 –Flera försök har gjorts för att få kontakt och informera om
 planerna. Inget svar. Ta kontakt igen.
-Arbetsmaterial 1 –Dagbok
+
 \- 3:175 –Ägare till fastighet 3:175 avled under förstudien. När
-Arbetsmaterial 2 –Kontaktuppgifter
 fastighet 3:175 får ny ägare så rekommenderas att pröva
 förslaget om att gå över deras mark. Om detta förslag blir
-Arbetsmaterial 3 –Sammanfattningar
 aktuellt behöver vi även kontakta fastighetsägare 3:313 då
-Outredda samfälligheter behöver skickas in till lantmäteriet i takt hörnet på deras fastighet berörs.
-med att en etapp ska påbörjas, innan projekteringen startar.
+hörnet på deras fastighet berörs.
 Har fått OK på 2:6:
-Det finns fortfarande fastighetsägare att ta kontakt med,
 \- 2:6 –Kommunens fastighet. Här har vi fått OK till att gå fram
-exempelvis:
 med GC-väg och flytta verksamhetens mur några meter in mot
-Etapp 1                                           fasaden för att komma fram med den anlagda GC-vägen och
+fasaden för att komma fram med den anlagda GC-vägen och
 ansluta mot etapp 4 vid fastighet 2:7.
+Etapp 4
+\- 3:21 -Där belysning är planerad att utvecklas äger denna
+fastighetsägare en del av marken.
 \- Meddela alla fastighetsägare intill den planerade sträckan vad
-som är på gång och när/hur det planeras att byggas. Etapp 4
-\- 8:16 –Informera om planerna. Att vi går precis i kanten till denna - 3:21 -Där belysning är planerad att utvecklas äger denna
-fastighet.                                      fastighetsägare en del av marken.
-Etapp 2                                         - Meddela alla fastighetsägare intill den planerade sträckan vad
 som är på gång och när/hur det planeras att byggas.
+Etapp 5
+
 \- Meddela alla fastighetsägare intill den planerade sträckan vad
-som är på gång och när/hur det planeras att byggas. Etapp 5
-\- 1:18 –Informera om att fastighet 1:17 vill att vi sätter upp en - Meddela alla fastighetsägare intill den planerade sträckan vad
-pollare några meter efter deras utfart mot slottet till på grund av som är på gång och när/hur det planeras att byggas.
-travhästverksamhet. Att de då får köra ut mot Jute Tvärväg.
+som är på gång och när/hur det planeras att byggas.
 Avslut
-Hinder som står där idag ska tas bort i den planerade etappen.
-\- 12:12 –Informera fastighetsägare att vi vill ta bort chikaner på Denna förstudie kommer att uppdateras i takt med att outredda
-Ölmanäs Ringväg och bredda till två filer. Några meter i kanten samfälligheter blir färdigutredda.
-på deras fastighet berörs. (Bytte ägare under förstudien)
+
+Denna förstudie kommer att uppdateras i takt med att outredda
+samfälligheter blir färdigutredda.
 
 <!-- sida 569 -->
 

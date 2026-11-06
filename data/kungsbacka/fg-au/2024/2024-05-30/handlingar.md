@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.44c56de518fa42b4f1d6726/17167867644
 sha256: 41a2a7a5780ec0e1ce944391295f5d9c973aae02b136a0ca7a4937ca72bfbc82
 bytes: 2580651
 sidor: 156
-hamtad: 2026-10-23T07:40:24+00:00
-konverterad: 2026-10-23T07:40:37+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T09:22:26+00:00
+konverterad: 2026-11-06T09:22:43+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
@@ -1476,23 +1476,35 @@ Kungsbacka | Svarsfrekvens 76%
 
 Om     undersökningen
 
-Bakgrund                                     Redovisning och beräkningar
-Göteborgsregionens medlemskommuner har sedan 2011 haft Frågornas svarsalternativ är en fyr-eller femgradig skala och ett Vet
-möjlighet att genomföra regiongemensamma elevenkäter. I den inte-alternativ. Skalan skiljer sig åt i olika frågor men kan t.ex. vara
-gemensamma undersökningen ingår åk 2, åk 5, åk 8, gymnasiets Alltid –Aldrig eller Mycket bra –Mycket dåligt. För varje fråga
-åk 2, anpassad grundskola och anpassad gymnasieskola. Årskurs 2 redovisas svarsandelar och ett beräknat indexvärde där det bästa
-i grundskolan är obligatoriskt att mäta för alla kommuner. alternativet ges 100 poäng och det sämsta alternativet ges 0 poäng.
-Indexvärdet kan alltså anta värdet 0-100. I de fall det går redovisas
-Metod                                        även indexvärde bakåt i tiden. Maskinella avrundningar förekommer
-Undersökningen genomfördes mellan den 20 februari till och med i rapporten.
+Bakgrund
+Göteborgsregionens medlemskommuner har sedan 2011 haft
+möjlighet att genomföra regiongemensamma elevenkäter. I den
+gemensamma undersökningen ingår åk 2, åk 5, åk 8, gymnasiets
+åk 2, anpassad grundskola och anpassad gymnasieskola. Årskurs 2
+i grundskolan är obligatoriskt att mäta för alla kommuner.
+Metod
+Undersökningen genomfördes mellan den 20 februari till och med
 den 28 mars 2024. Datainsamlingen har skett under lektionstid
-genom en webbenkät. Inloggningskoder har skickats ut via e-post För att säkra respondenternas anonymitet redovisas inga frågor där
-till skolorna och varje elev har fått en unik kod för genomförandet. antalet svarande är färre än sju.
+genom en webbenkät. Inloggningskoder har skickats ut via e-post
+till skolorna och varje elev har fått en unik kod för genomförandet.
+
+Kungsbacka | Svarsfrekvens 76%
+
+Redovisning och beräkningar
+Frågornas svarsalternativ är en fyr-eller femgradig skala och ett Vet
+inte-alternativ. Skalan skiljer sig åt i olika frågor men kan t.ex. vara
+Alltid –Aldrig eller Mycket bra –Mycket dåligt. För varje fråga
+redovisas svarsandelar och ett beräknat indexvärde där det bästa
+alternativet ges 100 poäng och det sämsta alternativet ges 0 poäng.
+Indexvärdet kan alltså anta värdet 0-100. I de fall det går redovisas
+även indexvärde bakåt i tiden. Maskinella avrundningar förekommer
+i rapporten.
+För att säkra respondenternas anonymitet redovisas inga frågor där
+antalet svarande är färre än sju.
+
 Svarsfrekvens
 Rapporten gäller Kungsbacka och bygger på svar från 728 elever av
 956 vilket ger en svarsfrekvens om 76%.
-
-Kungsbacka | Svarsfrekvens 76%
 
 <!-- sida 44 -->
 
@@ -1557,33 +1569,46 @@ Beskrivning           av   frågeområden
 
 Nedan redovisas de frågeområden som används i redovisningen, och de frågor som ingår i varje område
 
-Trygghet                                Stimulans
-Får du arbeta på olika sätt på lektionerna?
+Trygghet
 Känner du dig trygg i skolan?
-Gör läraren så att du vill lära dig mer i skolan?
+
 Kan du vara dig själv i skolan?
-Får läraren dig att känna att du klarar av skolarbetet?
 Frågar de vuxna i skolan om hur du mår?
-Stöd
-Förhindra kränkningar                   Hjälper läraren dig när du behöver det?
-Grundläggande värden
+
+Förhindra kränkningar
 Hjälper de vuxna till om en elev är elak mot någon annan på
-rasterna?                               Pratar ni på lektionerna om hur ni ska vara mot varandra i skolan?
-Inflytande
+rasterna?
 Studiero
-Får du vara med och bestämma hur arbetar i skolan?
+
 Kan du koncentrera dig när du arbetar i skolan?
-Fritidshem
 Utbildning
-Känner du dig trygg på fritids?
-Förklarar lärarna så att du förstår?    Får du vara med och bestämma vad ni gör på fritids?
-Lär du dig saker på fritids?
+
+Förklarar lärarna så att du förstår?
 Berättar läraren hur det går för dig i skolarbetet?
-Gillar du att vara på fritids?
+
 Skola och framtid
-Nöjdhet
 Pratar ni i skolan om vad du kan jobba med när du blir vuxen?
+
+Stimulans
+Får du arbeta på olika sätt på lektionerna?
+Gör läraren så att du vill lära dig mer i skolan?
+Får läraren dig att känna att du klarar av skolarbetet?
+
+Stöd
+Hjälper läraren dig när du behöver det?
+Grundläggande värden
+Pratar ni på lektionerna om hur ni ska vara mot varandra i skolan?
+Inflytande
+Får du vara med och bestämma hur arbetar i skolan?
+Fritidshem
+
+Känner du dig trygg på fritids?
+Får du vara med och bestämma vad ni gör på fritids?
+Lär du dig saker på fritids?
+Gillar du att vara på fritids?
+Nöjdhet
 Gillar du att vara i skolan?
+
 Kungsbacka | Svarsfrekvens 76%
 
 <!-- sida 47 -->
@@ -2360,23 +2385,35 @@ Kungsbacka | Svarsfrekvens 76%
 
 Om     undersökningen
 
-Bakgrund                                     Redovisning och beräkningar
-Göteborgsregionens medlemskommuner har sedan 2011 haft Frågornas svarsalternativ är en fyr-eller femgradig skala och ett Vet
-möjlighet att genomföra regiongemensamma elevenkäter. I den inte-alternativ. Skalan skiljer sig åt i olika frågor men kan t.ex. vara
-gemensamma undersökningen ingår åk 2, åk 5, åk 8, gymnasiets Alltid –Aldrig eller Mycket bra –Mycket dåligt. För varje fråga
-åk 2, anpassad grundskola och anpassad gymnasieskola. Årskurs 2 redovisas svarsandelar och ett beräknat indexvärde där det bästa
-i grundskolan är obligatoriskt att mäta för alla kommuner. alternativet ges 100 poäng och det sämsta alternativet ges 0 poäng.
-Indexvärdet kan alltså anta värdet 0-100. I de fall det går redovisas
-Metod                                        även indexvärde bakåt i tiden. Maskinella avrundningar förekommer
-Undersökningen genomfördes mellan den 20 februari till och med i rapporten.
+Bakgrund
+Göteborgsregionens medlemskommuner har sedan 2011 haft
+möjlighet att genomföra regiongemensamma elevenkäter. I den
+gemensamma undersökningen ingår åk 2, åk 5, åk 8, gymnasiets
+åk 2, anpassad grundskola och anpassad gymnasieskola. Årskurs 2
+i grundskolan är obligatoriskt att mäta för alla kommuner.
+Metod
+Undersökningen genomfördes mellan den 20 februari till och med
 den 28 mars 2024. Datainsamlingen har skett under lektionstid
-genom en webbenkät. Inloggningskoder har skickats ut via e-post För att säkra respondenternas anonymitet redovisas inga frågor där
-till skolorna och varje elev har fått en unik kod för genomförandet. antalet svarande är färre än sju.
+genom en webbenkät. Inloggningskoder har skickats ut via e-post
+till skolorna och varje elev har fått en unik kod för genomförandet.
+
+Kungsbacka | Svarsfrekvens 76%
+
+Redovisning och beräkningar
+Frågornas svarsalternativ är en fyr-eller femgradig skala och ett Vet
+inte-alternativ. Skalan skiljer sig åt i olika frågor men kan t.ex. vara
+Alltid –Aldrig eller Mycket bra –Mycket dåligt. För varje fråga
+redovisas svarsandelar och ett beräknat indexvärde där det bästa
+alternativet ges 100 poäng och det sämsta alternativet ges 0 poäng.
+Indexvärdet kan alltså anta värdet 0-100. I de fall det går redovisas
+även indexvärde bakåt i tiden. Maskinella avrundningar förekommer
+i rapporten.
+För att säkra respondenternas anonymitet redovisas inga frågor där
+antalet svarande är färre än sju.
+
 Svarsfrekvens
 Rapporten gäller Kungsbacka och bygger på svar från 787 elever av 1 038
 vilket ger en svarsfrekvens om 76%.
-
-Kungsbacka | Svarsfrekvens 76%
 
 <!-- sida 78 -->
 
@@ -2437,35 +2474,48 @@ Beskrivning           av   frågeområden
 
 Nedan redovisas de frågeområden som används i redovisningen, och de frågor som ingår i varje område
 
-Trygghet                                Bemötande - elever
+Trygghet
 
-Känner du dig rädd för andra elever i skolan? Hur tycker du att eleverna bemöter varandra i skolan?
-Känner du dig rädd för någon lärare eller annan vuxen i skolan? Hur tycker du att eleverna bemöter vuxna i skolan?
+Känner du dig rädd för andra elever i skolan?
+Känner du dig rädd för någon lärare eller annan vuxen i skolan?
 
 Känner du dig trygg i skolan?
-Känner du att du kan vara dig själv i skolan?
 Förhindra kränkningar
-Bemötande - lärare
+
 Tycker du att de vuxna i skolan har koll på vad som händer på
-rasterna?                               Känner du dig orättvist behandlad av någon lärare eller annan vuxen i
-skolan?
+rasterna?
 Litar du på att de vuxna i skolan gör tillräckligt om någon elev
-blir illa behandlad?                    Tycker du att lärarna behandlar alla elever lika oavsett om de är flickor,
-Studiero                                pojkar eller har annan könsidentitet?
-Information om utbildningen
+blir illa behandlad?
+Studiero
 Hur ofta är det arbetsro på lektionerna?
-Hur ofta förklarar lärarna vad du ska göra på lektionerna så att du
-Hur ofta är det så stökigt på lektionerna att du har svårt att förstår?
+Hur ofta är det så stökigt på lektionerna att du har svårt att
 koncentrera dig?
-Tycker du att lärarna förklarar vad du behöver kunna för att nå
 Elevhälsan
-kunskapskraven?
-Tycker du att du får veta hur det går för dig i skolarbetet?
 Hur lätt eller svårt är det att få hjälp av elevhälsan till
 exempel skolsköterskan?
-Tycker du att utvecklingssamtalet är till hjälp för dig i skolarbetet?
 Känner du att det finns någon vuxen i skolan som bryr sig om hur
 du mår?
+
+Bemötande - elever
+
+Hur tycker du att eleverna bemöter varandra i skolan?
+Hur tycker du att eleverna bemöter vuxna i skolan?
+
+Känner du att du kan vara dig själv i skolan?
+
+Bemötande - lärare
+Känner du dig orättvist behandlad av någon lärare eller annan vuxen i
+skolan?
+Tycker du att lärarna behandlar alla elever lika oavsett om de är flickor,
+pojkar eller har annan könsidentitet?
+Information om utbildningen
+Hur ofta förklarar lärarna vad du ska göra på lektionerna så att du
+förstår?
+Tycker du att lärarna förklarar vad du behöver kunna för att nå
+kunskapskraven?
+Tycker du att du får veta hur det går för dig i skolarbetet?
+Tycker du att utvecklingssamtalet är till hjälp för dig i skolarbetet?
+
 Kungsbacka | Svarsfrekvens 76%
 
 <!-- sida 81 -->
@@ -2475,28 +2525,42 @@ Beskrivning           av   frågeområden
 Nedan redovisas de frågeområden som används i redovisningen, och de frågor som ingår i varje område
 
 Stimulans                                   Inflytande
+
 Hur ofta får lärarna dig att bli intresserad av skolarbetet?
-Hur mycket tycker du att ni elever får vara med och påverka hur ni ska
-arbeta på lektionerna?
+
 Tycker du att lärarna varierar lektionerna så att ni får arbeta på
 olika sätt?
-Hur mycket tycker du att de vuxna i skolan lyssnar på förslag från
-Hur ofta tycker du att skolarbetet är för lätt? eleverna till exempel från klassråd eller elevråd?
-Tycker du att lärarna får dig att tro på dig själv i skolarbetet? Hur mycket tycker du att de vuxna i skolan lyssnar på förslag från
-eleverna till exempel från klassråd eller elevråd?
+Hur ofta tycker du att skolarbetet är för lätt?
+Tycker du att lärarna får dig att tro på dig själv i skolarbetet?
+
 Stöd
-Skola och framtid
 Hur ofta får du den hjälp du behöver under lektionerna?
-Hur mycket pratar ni i skolan om olika yrken du kan jobba med när du
-Hur ofta tycker du att skolarbetet är för svårt? blir vuxen?
-Tycker du att du får den hjälp du behöver från skolan för att klara Nöjdhet
+
+Hur ofta tycker du att skolarbetet är för svårt?
+
+Tycker du att du får den hjälp du behöver från skolan för att klara
 skolarbetet?
 Kritiskt tänkande
-Hur nöjd är du med din skola?
 Hur mycket pratar lärarna om att allt man hör och läser, till exempel
 på internet, inte behöver vara sant (källkritik)?
 Hur mycket tycker du att ni elever får öva på att diskutera frågor där
 man kan tycka olika?
+
+Hur mycket tycker du att ni elever får vara med och påverka hur ni ska
+arbeta på lektionerna?
+Hur mycket tycker du att de vuxna i skolan lyssnar på förslag från
+eleverna till exempel från klassråd eller elevråd?
+Hur mycket tycker du att de vuxna i skolan lyssnar på förslag från
+eleverna till exempel från klassråd eller elevråd?
+
+Skola och framtid
+
+Hur mycket pratar ni i skolan om olika yrken du kan jobba med när du
+blir vuxen?
+Nöjdhet
+
+Hur nöjd är du med din skola?
+
 Kungsbacka | Svarsfrekvens 76%
 
 <!-- sida 82 -->
@@ -3516,23 +3580,35 @@ Kungsbacka | Svarsfrekvens 71%
 
 Om     undersökningen
 
-Bakgrund                                     Redovisning och beräkningar
-Göteborgsregionens medlemskommuner har sedan 2011 haft Frågornas svarsalternativ är en fyr-eller femgradig skala och ett Vet
-möjlighet att genomföra regiongemensamma elevenkäter. I den inte-alternativ. Skalan skiljer sig åt i olika frågor men kan t.ex. vara
-gemensamma undersökningen ingår åk 2, åk 5, åk 8, gymnasiets Alltid –Aldrig eller Mycket bra –Mycket dåligt. För varje fråga
-åk 2, anpassad grundskola och anpassad gymnasieskola. Årskurs 2 redovisas svarsandelar och ett beräknat indexvärde där det bästa
-i grundskolan är obligatoriskt att mäta för alla kommuner. alternativet ges 100 poäng och det sämsta alternativet ges 0 poäng.
-Indexvärdet kan alltså anta värdet 0-100. I de fall det går redovisas
-Metod                                        även indexvärde bakåt i tiden. Maskinella avrundningar förekommer
-Undersökningen genomfördes mellan den 20 februari till och med i rapporten.
+Bakgrund
+Göteborgsregionens medlemskommuner har sedan 2011 haft
+möjlighet att genomföra regiongemensamma elevenkäter. I den
+gemensamma undersökningen ingår åk 2, åk 5, åk 8, gymnasiets
+åk 2, anpassad grundskola och anpassad gymnasieskola. Årskurs 2
+i grundskolan är obligatoriskt att mäta för alla kommuner.
+Metod
+Undersökningen genomfördes mellan den 20 februari till och med
 den 28 mars 2024. Datainsamlingen har skett under lektionstid
-genom en webbenkät. Inloggningskoder har skickats ut via e-post För att säkra respondenternas anonymitet redovisas inga frågor där
-till skolorna och varje elev har fått en unik kod för genomförandet. antalet svarande är färre än sju.
+genom en webbenkät. Inloggningskoder har skickats ut via e-post
+till skolorna och varje elev har fått en unik kod för genomförandet.
+
+Kungsbacka | Svarsfrekvens 71%
+
+Redovisning och beräkningar
+Frågornas svarsalternativ är en fyr-eller femgradig skala och ett Vet
+inte-alternativ. Skalan skiljer sig åt i olika frågor men kan t.ex. vara
+Alltid –Aldrig eller Mycket bra –Mycket dåligt. För varje fråga
+redovisas svarsandelar och ett beräknat indexvärde där det bästa
+alternativet ges 100 poäng och det sämsta alternativet ges 0 poäng.
+Indexvärdet kan alltså anta värdet 0-100. I de fall det går redovisas
+även indexvärde bakåt i tiden. Maskinella avrundningar förekommer
+i rapporten.
+För att säkra respondenternas anonymitet redovisas inga frågor där
+antalet svarande är färre än sju.
+
 Svarsfrekvens
 Rapporten gäller Kungsbacka och bygger på svar från 820 elever av 1 157
 vilket ger en svarsfrekvens om 71%.
-
-Kungsbacka | Svarsfrekvens 71%
 
 <!-- sida 119 -->
 
@@ -3593,35 +3669,48 @@ Beskrivning           av   frågeområden
 
 Nedan redovisas de frågeområden som används i redovisningen, och de frågor som ingår i varje område
 
-Trygghet                                Bemötande - elever
+Trygghet
 
-Känner du dig rädd för andra elever i skolan? Hur tycker du att eleverna bemöter varandra i skolan?
-Känner du dig rädd för någon lärare eller annan vuxen i skolan? Hur tycker du att eleverna bemöter vuxna i skolan?
+Känner du dig rädd för andra elever i skolan?
+Känner du dig rädd för någon lärare eller annan vuxen i skolan?
 
 Känner du dig trygg i skolan?
-Känner du att du kan vara dig själv i skolan?
 Förhindra kränkningar
-Bemötande - lärare
+
 Tycker du att de vuxna i skolan har koll på vad som händer på
-rasterna?                               Känner du dig orättvist behandlad av någon lärare eller annan vuxen i
-skolan?
+rasterna?
 Litar du på att de vuxna i skolan gör tillräckligt om någon elev
-blir illa behandlad?                    Tycker du att lärarna behandlar alla elever lika oavsett om de är flickor,
-Studiero                                pojkar eller har annan könsidentitet?
-Information om utbildningen
+blir illa behandlad?
+Studiero
 Hur ofta är det arbetsro på lektionerna?
-Hur ofta förklarar lärarna vad du ska göra på lektionerna så att du
-Hur ofta är det så stökigt på lektionerna att du har svårt att förstår?
+Hur ofta är det så stökigt på lektionerna att du har svårt att
 koncentrera dig?
-Tycker du att lärarna förklarar vad du behöver kunna för att nå
 Elevhälsan
-kunskapskraven?
-Tycker du att du får veta hur det går för dig i skolarbetet?
 Hur lätt eller svårt är det att få hjälp av elevhälsan till
 exempel skolsköterskan?
-Tycker du att utvecklingssamtalet är till hjälp för dig i skolarbetet?
 Känner du att det finns någon vuxen i skolan som bryr sig om hur
 du mår?
+
+Bemötande - elever
+
+Hur tycker du att eleverna bemöter varandra i skolan?
+Hur tycker du att eleverna bemöter vuxna i skolan?
+
+Känner du att du kan vara dig själv i skolan?
+
+Bemötande - lärare
+Känner du dig orättvist behandlad av någon lärare eller annan vuxen i
+skolan?
+Tycker du att lärarna behandlar alla elever lika oavsett om de är flickor,
+pojkar eller har annan könsidentitet?
+Information om utbildningen
+Hur ofta förklarar lärarna vad du ska göra på lektionerna så att du
+förstår?
+Tycker du att lärarna förklarar vad du behöver kunna för att nå
+kunskapskraven?
+Tycker du att du får veta hur det går för dig i skolarbetet?
+Tycker du att utvecklingssamtalet är till hjälp för dig i skolarbetet?
+
 Kungsbacka | Svarsfrekvens 71%
 
 <!-- sida 122 -->
@@ -3631,31 +3720,45 @@ Beskrivning           av   frågeområden
 Nedan redovisas de frågeområden som används i redovisningen, och de frågor som ingår i varje område
 
 Stimulans                                   Inflytande
+
 Hur ofta får lärarna dig att bli intresserad av skolarbetet?
-Hur mycket tycker du att ni elever får vara med och påverka hur ni ska
-arbeta på lektionerna?
+
 Tycker du att lärarna varierar lektionerna så att ni får arbeta på
-olika sätt?                                 Hur mycket tycker du att de vuxna i skolan lyssnar på förslag från
-eleverna till exempel från klassråd eller elevråd?
+olika sätt?
 Hur ofta tycker du att skolarbetet är för lätt?
-Hur mycket tycker du att de vuxna i skolan lyssnar på förslag från
-Tycker du att lärarna får dig att tro på dig själv i skolarbetet? eleverna till exempel från klassråd eller elevråd?
-Skola och framtid
+Tycker du att lärarna får dig att tro på dig själv i skolarbetet?
+
 Stöd
-Hur ofta får du den hjälp du behöver under lektionerna? Tycker du att du får den hjälp du behöver från skolan för att kunna
-välja framtida utbildning och yrke?
+Hur ofta får du den hjälp du behöver under lektionerna?
+
 Hur ofta tycker du att skolarbetet är för svårt?
-Känner du dig förberedd inför framtida utbildnings-och yrkesval?
+
 Tycker du att du får den hjälp du behöver från skolan för att klara
-skolarbetet?                                Hur mycket pratar ni i skolan om olika yrken du kan jobba med när du
-blir vuxen?
+skolarbetet?
 Kritiskt tänkande
-Nöjdhet
 Hur mycket pratar lärarna om att allt man hör och läser, till exempel
 på internet, inte behöver vara sant (källkritik)?
-Hur nöjd är du med din skola?
 Hur mycket tycker du att ni elever får öva på att diskutera frågor där
 man kan tycka olika?
+
+Hur mycket tycker du att ni elever får vara med och påverka hur ni ska
+arbeta på lektionerna?
+Hur mycket tycker du att de vuxna i skolan lyssnar på förslag från
+eleverna till exempel från klassråd eller elevråd?
+Hur mycket tycker du att de vuxna i skolan lyssnar på förslag från
+eleverna till exempel från klassråd eller elevråd?
+Skola och framtid
+
+Tycker du att du får den hjälp du behöver från skolan för att kunna
+välja framtida utbildning och yrke?
+Känner du dig förberedd inför framtida utbildnings-och yrkesval?
+
+Hur mycket pratar ni i skolan om olika yrken du kan jobba med när du
+blir vuxen?
+Nöjdhet
+
+Hur nöjd är du med din skola?
+
 Kungsbacka | Svarsfrekvens 71%
 
 <!-- sida 123 -->

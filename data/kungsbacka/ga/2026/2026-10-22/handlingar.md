@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.664df97b1a13049acff3d770/1792007115
 sha256: e4f7e9ddb5a90ec38b6e0625ed8b2517af741d91a3add8b2c647eb9446295f7a
 bytes: 7088801
 sidor: 292
-hamtad: 2026-10-23T06:53:00+00:00
-konverterad: 2026-10-23T06:53:45+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T08:33:12+00:00
+konverterad: 2026-11-06T08:34:00+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -4432,35 +4432,45 @@ Attestreglemente - tillämpningsanvisningar Ekonomichef 2015-04-01
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Nämndbudget 2027
 Styrdokument                           Beslutande paragraf/År
-Varumärkesarkitektur och särprofilering Kommundirektören 2021-12-01
 
-Visselblåsarfunktionen, regler         Kommundirektören 2022-11-09
-Kommundirektör Ann-Charlotte Järnström
+Varumärkesarkitektur och särprofilering
+Visselblåsarfunktionen, regler
+
 Tjänsteresor, regler
+
+AI, Artificiell Intelligens, regler
+
+Publicering av bilder, filmer och ljudupptagningar som utgör
+personuppgifter
+
+Kommundirektören 2021-12-01
+Kommundirektören 2022-11-09
+
+Kommundirektör Ann-Charlotte Järnström
 2019-08-20
 Digitaliseringschef Iwona Carlsson 2024-12-
-AI, Artificiell Intelligens, regler
 02
-Publicering av bilder, filmer och ljudupptagningar som utgör Kommunikationschef Annika Jardin 2024-06-
-personuppgifter                        01
+Kommunikationschef Annika Jardin 2024-06-
+01
+
 11.1.3 Styrdokument beslutade av nämnden för Gymnasium & Arbetsmarknad
 
 Styrdokument                                      Beslutande paragraf/År
 Delegeringsförteckning                            §100/2026
-Samverkansavtal för vuxnas lärande inom Göteborgsregionen 2027-2030 § 61/2026
 
+Samverkansavtal för vuxnas lärande inom Göteborgsregionen 2027-2030 § 61/2026
 Lokalbehov 2027-2031                              §120/2025
 Systematiskt arbetsmiljöarbete, 2019-02-26        § 92/02
-Drogpolicy skolor                                 § 15/09
 
+Drogpolicy skolor                                 § 15/09
 Strategi för internationalisering inom förvaltningen för Gymnasie &
 § 66/14
 Vuxenutbildning
 Policy för elevers kostnader                      § 21/2017
 Informationshanteringsplan                        §48/2024
 Sponsringspolicy                                  § 60/12
-Vägledande riktlinjer för ekonomiskt bistånd      § 19/2026
 
+Vägledande riktlinjer för ekonomiskt bistånd      § 19/2026
 Samverkansavtal för gymnasieskolan i Göteborgsregionen 2027/2028 -
 § 59/2026
 2030/2031
@@ -4469,15 +4479,15 @@ Samverkansavtal för anpassad gymnasieskola i Göteborgsregionen 2027/2028
 – 2030/2031
 Samverkansavtal för särskild utbildning för vuxna §108/2020
 11.1.4 Styrdokument beslutade av kommunstyrelsen
-Styrdokument                                      Beslutande paragraf/År
 
+Styrdokument                                      Beslutande paragraf/År
 Styrande dokument, riktlinjer                     KS 2023-10-10 § 156
 Integration, riktlinjer                           KS 2019-11-26 § 275
+
 Informationssäkerhet, riktlinjer                  KS 2024-05-07 § 80
-
 Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning KS 2020-02-18 § 32
-Flaggning                                         KS 2023-11-28 § 247
 
+Flaggning                                         KS 2023-11-28 § 247
 Fakturering och kravhantering, regler             KS 2025-11-25, § 225
 
 30

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2f66052419afce94c17328e4/1765781754
 sha256: 90e10bc308c023da240c0a8afb694f01972c395cb73e599e2d882b6213d65a1a
 bytes: 428126
 sidor: 32
-hamtad: 2026-10-23T06:56:18+00:00
-konverterad: 2026-10-23T06:56:24+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T08:36:33+00:00
+konverterad: 2026-11-06T08:36:40+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -26,24 +26,36 @@ granskad: null
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN                   SAMMANTRÄDESPROTOKOLL
 Nämnden för Förskola & Grundskola
 Datum
 2025-12-10
 
 Plats och tid för Stadshuset, Kungsbackarummet Klockan 15:00-19:55
 sammanträde
-Beslutande    Ledamöter                     Tjänstgörande ersättare
-Emanuel Forsell (M), Ordförande Ulrika Nylén (M) ersätter Per
-Elin Hysén (L), 1:e vice ordförande Stenberg (M) §§ 126-144
-Johan Tolinsson (S), 2:e vice ordförande Marie Louise Alfvegren (M) ersätter
-Paul Blomdahl (M) §§ 126-130  Sofia Hansen (M) § 126 och Paul
-Mia Sundvall (M)              Blomdahl §§ 131-132
-Sofia Hansen (M) §§ 127-144   Göran Ottosson (SD) ersätter Anna-
 
-Helen Thylin (S)              Karin Granberg (SD) § 126
-Anna-Karin Granberg (SD) §§ 127-144 Marie Wadström (KD) ersätter Paul
-Susanne Andersson (SD)        Blomdahl §§ 133-144
+Beslutande    Ledamöter
+Emanuel Forsell (M), Ordförande
+Elin Hysén (L), 1:e vice ordförande
+Johan Tolinsson (S), 2:e vice ordförande
+Paul Blomdahl (M) §§ 126-130
+Mia Sundvall (M)
+Sofia Hansen (M) §§ 127-144
+Helen Thylin (S)
+Anna-Karin Granberg (SD) §§ 127-144
+Susanne Andersson (SD)
+
+Tjänstgörande ersättare
+Ulrika Nylén (M) ersätter Per
+Stenberg (M) §§ 126-144
+Marie Louise Alfvegren (M) ersätter
+Sofia Hansen (M) § 126 och Paul
+Blomdahl §§ 131-132
+Göran Ottosson (SD) ersätter Anna-
+Karin Granberg (SD) § 126
+Marie Wadström (KD) ersätter Paul
+Blomdahl §§ 133-144
+
 Peter Lundin (C)
 Jenny Thorbjörnsson (KD)
 Jan-Christer Jansson (V)

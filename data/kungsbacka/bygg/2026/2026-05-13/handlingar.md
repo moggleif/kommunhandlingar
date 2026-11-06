@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.193b596219ddcc6f486b0641/1778143289
 sha256: f1d42c24c88dedb7843f9fd93be4c09417987f15933ff48b5034f473606a8d33
 bytes: 6961192
 sidor: 172
-hamtad: 2026-10-23T08:22:19+00:00
-konverterad: 2026-10-23T08:22:48+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T10:05:42+00:00
+konverterad: 2026-11-06T10:06:16+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1339,100 +1339,141 @@ Samhällsbyggnadschef               Verksamhetschef plan
 
 <!-- sida 34 -->
 
-PLANBESTÄMMELSER                                                           Höjd  på  byggnadsverk
+PLANBESTÄMMELSER
 
-Högsta  nockhöjd är 6,5 meter.
-Följande  gäller inom områden  med  nedanstående   beteckningar. Endast
-angiven  användning  och utformning  är tillåten.                                        Högsta  nockhöjd är \<angivet>  meter över angivet nollplan.
+Följande gäller inom områden  med   nedanstående  beteckningar.  Endast
+angiven  användning  och utformning är tillåten.
 
-Högsta  totalhöjd är \<angivet> meter över angivet nollplan.
 GRÄNSER
-Planområdesgräns.                                             Markens    anordnande    och  vegetation
 
-Parkering får finnas.
+Planområdesgräns.
+
 Användningsgräns.
 
-Markreservat    för allmännyttiga  ändamål
 Egenskapsgräns.
-Markreservat  för allmännyttiga underjordiska ledningar.
-Sammanfallande   sekundär  och egenskapsgräns.
-Markreservat    för gemensamhetsanläggningar
 
-ANVÄNDNING          AV  MARK
-Markreservat  för gemensamhetsanläggning.
+Sammanfallande    sekundär  och egenskapsgräns.
+
+ANVÄNDNING         AV   MARK
+
 Allmän   platsmark
-Skydd   mot  störningar
+
 Gata.
-Avskärmande   plank eller vegetation får uppföras.
+
 Kvartersmark
-Utnyttjandegrad
 
 Bostäder.
-Största byggnadsarea   är \<angivet> m² per huvudbyggnad.
+
 Centrum.
-Minsta byggnadsarea   är 50 m² per komplementbyggnad.
 
 Parkering.
-EGENSKAPSBESTÄMMELSER                   FÖR    KVARTERSMARK
 
-EGENSKAPSBESTÄMMELSER                    FÖR   ALL                          Avgränsad     via sekundär    egenskapsgräns       och
+EGENSKAPSBESTÄMMELSER                   FÖR    ALL
 
-KVARTERSMARK                                                                användningsgräns
+KVARTERSMARK
 
-Byggnaders     användning                                                   Byggnaders    användning
+Byggnaders     användning
 
-Om   ekvivalent ljudnivå vid bostadens fasad är >60 dBA ska minst hälften                Bottenvåningen  ska utgöras  av lokaler för verksamheter till
-av bostadsrummen    vara vända  mot ljuddämpad   sida. För små bostäder                  minst 30%  av sammanlagd    byggnadsarea   inom
+Om  ekvivalent ljudnivå vid bostadens fasad är >60 dBA  ska minst hälften
+av bostadsrummen    vara vända  mot ljuddämpad  sida. För små bostäder
 
-med  boarea  max  35 kvm  gäller i stället att minst hälften av                          användningsområdet.
-bostadsrummen    ska vara vända  mot ljuddämpad   sida om ekvivalent
+med  boarea  max  35 kvm gäller i stället att minst hälften av
+bostadsrummen    ska vara vända  mot ljuddämpad  sida om  ekvivalent
 
-ljudnivå vid bostadens fasad är >65 dBA.  Med  ljuddämpad  sida menas       GENOMFÖRANDETID
-fasad  som har en ekvivalent ljudnivå på högst 55 dBA och  maximal
-Genomförandetiden   är 10 år.
+ljudnivå vid bostadens fasad är >65 dBA.  Med  ljuddämpad  sida menas
+fasad som  har en ekvivalent ljudnivå på högst 55 dBA och maximal
+
 ljudnivå nattetid på högst 70 dBA.
 
-EGENSKAPSBESTÄMMELSER                    FÖR   ALLMÄN      PLATS
+EGENSKAPSBESTÄMMELSER                   FÖR    ALLMÄN      PLATS
 
-Avgränsad      via egenskapsgräns       och  användningsgräns
+Avgränsad     via egenskapsgräns        och  användningsgräns
 
 Huvudmannaskap
 
-Huvudmannaskapet    är enskilt för den allmänna platsen.
+Huvudmannaskapet     är enskilt för den allmänna platsen.
 
-EGENSKAPSBESTÄMMELSER                    FÖR   KVARTERSMARK
+EGENSKAPSBESTÄMMELSER                   FÖR    KVARTERSMARK
 
-Avgränsad      via egenskapsgräns       och  användningsgräns
+Avgränsad     via egenskapsgräns        och  användningsgräns
 
-Begränsning     av markens    utnyttjande
+Begränsning    av  markens   utnyttjande
 
 Marken  får inte förses med byggnad.
 
 Marken  får inte förses med byggnadsverk  förutom
-komplementbyggnader.
 
+komplementbyggnader.
 Marken  får inte förses med byggnadsverk  förutom
 
-komplementbyggnader    och  balkonger.
+komplementbyggnader     och  balkonger.
+
+Höjd  på  byggnadsverk
+
+Högsta  nockhöjd  är 6,5 meter.
+
+Högsta  nockhöjd  är \<angivet> meter över angivet nollplan.
+
+Högsta  totalhöjd är \<angivet> meter över angivet nollplan.
+
+Markens    anordnande    och  vegetation
+
+Parkering får finnas.
+
+Markreservat    för allmännyttiga   ändamål
+
+Markreservat  för allmännyttiga underjordiska ledningar.
+
+Markreservat    för gemensamhetsanläggningar
+
+Markreservat  för gemensamhetsanläggning.
+
+Skydd   mot  störningar
+
+Avskärmande    plank eller vegetation får uppföras.
+
+Utnyttjandegrad
+
+Största byggnadsarea   är \<angivet> m² per huvudbyggnad.
+
+Minsta byggnadsarea   är 50 m² per komplementbyggnad.
+
+EGENSKAPSBESTÄMMELSER                   FÖR    KVARTERSMARK
+
+Avgränsad     via sekundär    egenskapsgräns        och
+
+användningsgräns
+
+Byggnaders     användning
+
+Bottenvåningen  ska  utgöras av lokaler för verksamheter till
+
+minst 30%  av sammanlagd    byggnadsarea   inom
+användningsområdet.
+
+GENOMFÖRANDETID
+
+Genomförandetiden    är 10 år.
 
 Detaljplanen är baserad på koordinatsystemet SWEREF 99
 1200 och höjdsystemet RH 2000
 Skala 1:500 i A1, skala 1:1000 i A3
-TECKENFÖRKLARING      KARTDATA       Aktualitetsdatum: 2026-01-20
+
+TECKENFÖRKLARING      KARTDATA      Aktualitetsdatum: 2026-01-20
 
 Registernummer, tomtnummer                   Höjdkurva 5,0 m
+
 Höjdpunkt                                    Vägbana
-
 Traktnamn, kvartersnamn                      Bostadshus fasad, resp. tak
-Fastighetsgräns                              Uthus fasad, resp. tak
 
-Gång- och cykelbana                          Skärmtak                                                                                                                      ORIENTERINGSKARTA
-Detaljplan   för bostäder    och
+Fastighetsgräns                              Uthus fasad, resp. tak
+Gång- och cykelbana                          Skärmtak                                                                                                                     ORIENTERINGSKARTA
+Detaljplan    för bostäder   och
 Antagandehandling
 Höjdkurva 1,0 m
-verksamheter     inom
-Beslutsdatum   Instans
-Åsa  5:156  och 5:14  m.fl.
+verksamheter      inom
+Beslutsdatum  Instans
+Åsa 5:156  och  5:14  m.fl.
 Samråd
 i Åsa                                                     BN § 210
 2023-11-16
@@ -1440,15 +1481,15 @@ Kungsbacka    kommun                           Granskning
 DEL. BN
 2026-01-27
 Antagande
-Upprättad 2026-01-27                                       BN § xxx
+Upprättad  2026-01-27                                      BN § xxx
 2026-05-13
 Laga kraft
 xxxx-xx-xx
 Plankostnads-
-Ida Lennartsson             Johanna Vinterhav   Diarenummer
+Ida Lennartsson            Johanna Vinterhav    Diarenummer
 avtal
 BN 2024-003
-Verksamhetschef Plan        Planarkitekt                    Ja
+Verksamhetschef Plan       Planarkitekt                    Ja
 PLANKARTA            Detaljplanen är upprättad enligt PBL KBXXX
 2010:900 med standardförfarande
 

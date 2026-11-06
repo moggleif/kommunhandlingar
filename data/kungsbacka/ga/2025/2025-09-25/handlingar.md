@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.32f2dc5a1995b7e9114b14/175817824251
 sha256: 0476310af09304bf040428539d75e7ff715b0dcc09c048058f3c6312331cd9dd
 bytes: 9332157
 sidor: 191
-hamtad: 2026-10-23T06:40:48+00:00
-konverterad: 2026-10-23T06:41:31+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T08:20:01+00:00
+konverterad: 2026-11-06T08:20:47+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok]
@@ -7169,34 +7169,51 @@ insatser?                munernas roll.            på kristdemokraternas utspel
 \#
 ITSUGUA
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
 
 INNEHÅLL
 Från   utspel
 AUGUSTI   2025
 
-till valfråga                                   3   AFs utbetalda medel
-Hur ser AFs ekonomi ut för
-I detta nummer gör vi en rejäl djupdykning in i den heta frågan inköpta insatser?
+till valfråga
+
+I detta nummer gör vi en rejäl djupdykning in i den heta frågan
 om kommunalisering av arbetsmarknadspolitiken, som KD ny-
-ligen lanserade. Ett förslag som redan skakar om politiken inför 5 ”Vi måste börja om”
-Utspelet om kommunalisering
+ligen lanserade. Ett förslag som redan skakar om politiken inför
 nästa val. Men vad säger regeringen egentligen?
-av arbetsmarnadspolitiken.
+
 Det frågade vi nye arbetsmarknadsminister Johan Britz (L),
-men han valde att avböja intervju, med hänvisning till ett allt för 7 ”Komplettera, inte konkurrera”
-pressat schema i både augusti och september. Det är knappast Intervju med Roy Melchert om
-överraskande att arbetsmarknadspolitikens struktur blir för kommunernas roll.
+men han valde att avböja intervju, med hänvisning till ett allt för
+pressat schema i både augusti och september. Det är knappast
+överraskande att arbetsmarknadspolitikens struktur blir för
 känslig politiskt, men att ducka inför en av de mest intressanta
-frågorna inför valet är långt från imponerande. 9   Moderaterna
-Oliver Rosengren om hur Mode-
+frågorna inför valet är långt från imponerande.
 Betydligt enklare var det att få Moderaterna att tala ut i frågan.
-raterna ser på KDs utspel.
 Även om Moderaterna inte ansluter sig till KD:s slutsats att hela
-Arbetsförmedlingen bör läggas ned, finns det tydliga indikatio- 10 JO riktar kritik mot AF
-ner på att man inte helt motsätter sig tanken på en långt större Skarp kritik i nyligen
-roll för kommunerna. I höst väntas Moderaternas arbetsgrupp släppt rapport.
+Arbetsförmedlingen bör läggas ned, finns det tydliga indikatio-
+ner på att man inte helt motsätter sig tanken på en långt större
+roll för kommunerna. I höst väntas Moderaternas arbetsgrupp
 presentera mer av sin linje, och det blir mycket intressant att se
+
+3    AFs utbetalda medel
+Hur ser AFs ekonomi ut för
+inköpta insatser?
+
+5    ”Vi måste börja om”
+Utspelet om kommunalisering
+av arbetsmarnadspolitiken.
+
+7    ”Komplettera, inte konkurrera”
+Intervju med Roy Melchert om
+kommunernas roll.
+9    Moderaterna
+Oliver Rosengren om hur Mode-
+raterna ser på KDs utspel.
+
+10       JO riktar kritik mot AF
+Skarp kritik i nyligen
+släppt rapport.
+
 var de landar.                                  11      Statistik – makro
 Vi mäter temperaturen
 Frågan är alltså långt ifrån avgjord, men klart är att den inte
@@ -7209,13 +7226,15 @@ Statistik för ROM2, STA
 fullt ut för oss som vill se arbetsmarknadspolitiken återvända
 och IPSU.
 som en central valfråga 2026.
+
 I detta nummer av Werkets Månadsrapport tittar vi också när- 20 Statistik – utbildning
 Antalet deltagare i AUB
 mare på Arbetsförmedlingens utbetalda medel, JOs kritik mot
 och FUB.
 Arbetsförmedlingen i Stockholm och mycket mer.
 Trevlig läsning!
-Björn       Elmqvist
+
+Björn      Elmqvist
 
 (e-post borttagen) | (mobilnummer borttaget)
 
@@ -7282,7 +7301,8 @@ på sina håll dras med en aversion mot att
 \#
 ITSUGUA
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 pertis får framtiden utvisa om hållningen
 får fäste ute på lokalkontoren, där de
 faktiska anvisningsbesluten fattas.
@@ -7294,39 +7314,31 @@ de största utgifterna sett till kronor
 och ören. De senaste tio åren har dock
 matchningstjänster (STOM, KROM och
 ROM2) stått för en allt större del av ut-
-gifterna, i takt med att antalet deltagare Rensad data över utbetalda medel per månad och tjänst/insats, jan 2015 tom. juli 2025
+gifterna, i takt med att antalet deltagare
 och resultaten ökat. Från 2021 har mixen
-da beloppet för matchningstjänster med yttersta ansvaret för den marknad man
 av utgifter varit relativt stabil, men under
-en fjärdedel. Eftersom trenden är tydligt skapat, och när till och med de bolag
 2024 och 2025 har en del skiften gått
-sluttande över tid är det därmed också med höga betyg, som man vill premiera,
 att uppfatta.
-troligt att helårsbeloppet för ROM2 2025 tvingas skära ner är det en tydlig signal
-På månadsnivå syns ett mönster som överskattats i beräkningen. om att förutsättningarna behöver ses
-uppmärksammats i tidigare månadsrap-               över.
-I princip samtliga utbetalda medel till
+
+På månadsnivå syns ett mönster som
+uppmärksammats i tidigare månadsrap-
 porter. Utbetalda medel för arbetsmark-
-matchning under 2025 rör ROM2 (i juli Oavsett vad man tycker om privata
 nadsutbildningar närmar sig trendmäs-
-var andelen 97,6 procent), även om det matchningsföretag är det idag 41 000
 sigt, och har under enstaka månader
-finns utbetalningar som dröjer sig kvar arbetssökande som får sitt huvudsakliga
 överträffat, utbetalningarna för match-
-från tidigare tjänster är det i huvudsak stöd i ROM2. Ett scenario med en has-
 ningstjänster det senaste halvåret.
-den aktuella matchningstjänsten som tigt imploderande marknad, riskerar att
-Här är det också intressant att lyfta ett återspeglas. Den marknadslösning, få stora konsekvenser för väldigt många
-talande exempel på fördröjningarna i som är tänkt att hantera en stor del arbetslösa. I ljuset av hur myndigheten
-utbetalda medel. I juli 2025 betalade Ar- av inskrivna arbetssökande, fortsätter fått kämpa med kapaciteten i den egna
-betsförmedlingen ut 207 000 kr koppla- därmed att pressas rejält. Under 2024 lösningen Sammanhållet Matchningstöd
-de till STOM, den matchningstjänst som har flera bolag, som uppvisat goda (SMS) är scenariot extra oroande, vem
-föregick KROM, som i sin tur föregick betyg och resultat över tid, tvingats ska då göra jobbet?
-den nuvarande tjänsten ROM2. Vidare till neddragningar. Mycket på grund av
-är det intressant att påtala att ersätt- bristande framsynthet från myndigheten
-ningarna inom matchningstjänster inte är och ett misslyckande i att ge marknaden
-indexerade och därmed inte följt med i basala förutsättningar att planera för
-de senaste årens inflation. sin verksamhet. Myndigheten har det
+Här är det också intressant att lyfta ett
+talande exempel på fördröjningarna i
+utbetalda medel. I juli 2025 betalade Ar-
+betsförmedlingen ut 207 000 kr koppla-
+de till STOM, den matchningstjänst som
+föregick KROM, som i sin tur föregick
+den nuvarande tjänsten ROM2. Vidare
+är det intressant att påtala att ersätt-
+ningarna inom matchningstjänster inte är
+indexerade och därmed inte följt med i
+de senaste årens inflation.
+
 Vanligtvis har hälften av helårets utgifter
 för en insats/tjänst betalats ut efter sex
 månader, mellan 2015 och 2024 var
@@ -7340,8 +7352,55 @@ miljarder kronor för insatser och tjänster
 för helåret 2025. Vilket är en halv miljard
 lägre än genomsnittet från 2020-2024,
 4,3 miljarder.
+
+För andra året i rad minskar det utbetal-
+
+Rensad data över utbetalda medel per månad och tjänst/insats, jan 2015 tom. juli 2025
+
+da beloppet för matchningstjänster med
+en fjärdedel. Eftersom trenden är tydligt
+sluttande över tid är det därmed också
+troligt att helårsbeloppet för ROM2 2025
+överskattats i beräkningen.
+I princip samtliga utbetalda medel till
+matchning under 2025 rör ROM2 (i juli
+var andelen 97,6 procent), även om det
+finns utbetalningar som dröjer sig kvar
+från tidigare tjänster är det i huvudsak
+den aktuella matchningstjänsten som
+återspeglas. Den marknadslösning,
+som är tänkt att hantera en stor del
+av inskrivna arbetssökande, fortsätter
+därmed att pressas rejält. Under 2024
+har flera bolag, som uppvisat goda
+betyg och resultat över tid, tvingats
+till neddragningar. Mycket på grund av
+bristande framsynthet från myndigheten
+och ett misslyckande i att ge marknaden
+basala förutsättningar att planera för
+sin verksamhet. Myndigheten har det
+
+yttersta ansvaret för den marknad man
+skapat, och när till och med de bolag
+med höga betyg, som man vill premiera,
+tvingas skära ner är det en tydlig signal
+om att förutsättningarna behöver ses
+över.
+Oavsett vad man tycker om privata
+matchningsföretag är det idag 41 000
+arbetssökande som får sitt huvudsakliga
+stöd i ROM2. Ett scenario med en has-
+tigt imploderande marknad, riskerar att
+få stora konsekvenser för väldigt många
+arbetslösa. I ljuset av hur myndigheten
+fått kämpa med kapaciteten i den egna
+lösningen Sammanhållet Matchningstöd
+(SMS) är scenariot extra oroande, vem
+ska då göra jobbet?
+
 Prognos 2025, utbetalt belopp per tjänst/insats, mSEK samt procentuell förändring mot föregående år.
-För andra året i rad minskar det utbetal- STA och INAB exkluderade på grund av att tjänsterna nyligen startat eller avslutats.
+STA och INAB exkluderade på grund av att tjänsterna nyligen startat eller avslutats.
+
 4
 
 <!-- sida 173 -->
@@ -7350,7 +7409,8 @@ För andra året i rad minskar det utbetal- STA och INAB exkluderade på grund a
 \#
 ITSUGUA
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 Kristdemokraterna
 
 ”Vi   måste        börja     om”
@@ -7358,42 +7418,35 @@ Kristdemokraterna
 KD     vill  lägga       ner    Arbetsförmedlingen
 
 Arbetsförmedlingen är en koloss som inte längre går att reformera. Det menar Lili
-
 André och Camilla Rinaldo Miller från Kristdemokraterna, som i en debattartikel i
-Svenska Dagbladet föreslår att myndigheten ska läggas ned helt. I en intervju med
 
+Svenska Dagbladet föreslår att myndigheten ska läggas ned helt. I en intervju med
 Werket fördjupar de sina resonemang och förklarar varför de vill ge kommunerna
+
 hela ansvaret för arbetsmarknadspolitiken.
 
-– Vi har försökt med reformer, vi har tes- ner som Markaryd, Gullspång, Ljusdal också om att ta ett helhetsgrepp. De
-tat omorganiseringar och digitalisering. och Haparanda som goda exempel där menar att dagens system är splittrat och
-Ändå kvarstår problemet. Arbetsförmed- det lokala engagemanget lett till resultat bygger på ett ”lapptäcke” av förordning-
-lingen är inte längre en myndighet som trots att kommunerna formellt inte har ar, uppdrag och organisationer.
-förmår leverera det stöd som människor ansvaret idag.
-– Det är för många aktörer inne i samma
+– Vi har försökt med reformer, vi har tes-
+tat omorganiseringar och digitalisering.
+Ändå kvarstår problemet. Arbetsförmed-
+lingen är inte längre en myndighet som
+förmår leverera det stöd som människor
 och arbetsgivare behöver. Då måste
-– Det handlar om att man känner igen ärenden, utan att någon har ett hel-
 man våga säga: vi börjar om, säger Lili
-personerna. ”Är du Rune Bengtssons hetsansvar. Det blir ineffektivt och det
 André.
-son? Då kanske vi kan hitta ett jobb till är individen som hamnar i kläm, säger
-Tillsammans med Camilla Rinaldo Miller, dig.” Den typen av informella nätverk André.
-riksdagsledamot och arbetsmarknads- och personkännedom finns inte i en stor
-De efterlyser ett system där kommuner-
-politisk talesperson för Kristdemokra- statlig myndighet. Men det finns i kom-
-na tar ett tydligt huvudansvar inte bara
-terna, lanserade hon i juni ett nytt och munerna, säger Rinaldo Miller.
-för de som står längst från arbetsmark-
+Tillsammans med Camilla Rinaldo Miller,
+riksdagsledamot och arbetsmarknads-
+politisk talesperson för Kristdemokra-
+terna, lanserade hon i juni ett nytt och
 radikalt förslag: att avskaffa Arbetsför-
-Ett fragmenterat lapptäcke naden, utan för alla arbetssökande. Sta-
 medlingen och istället lägga hela det
-ten ska i sin tur renodlas till en finansiär,
-operativa ansvaret för arbetsmarknads- För båda författarna handlar förslaget
+operativa ansvaret för arbetsmarknads-
 politiken på kommunerna.
+
 Närmare individer och arbetsgivare
 Både i debattartikeln och under intervjun
 återkommer de till ett centralt budskap –
 närhet spelar roll.
+
 – När jag är ute och besöker före-
 tag frågar jag alltid: använder ni er av
 Arbetsförmedlingen? Svaret är nästan
@@ -7404,7 +7457,44 @@ Rinaldo Miller.
 Kristdemokraterna menar att lokalkän-
 nedom och tät kontakt med det lokala
 näringslivet är avgörande för en funge-
-rande matchning. De pekar på kommu- CCaammiillllaa RRiinnaallddoo MMiilllleerr LLiillii AAnnddrréé
+rande matchning. De pekar på kommu-
+
+ner som Markaryd, Gullspång, Ljusdal
+och Haparanda som goda exempel där
+det lokala engagemanget lett till resultat
+trots att kommunerna formellt inte har
+ansvaret idag.
+– Det handlar om att man känner igen
+personerna. ”Är du Rune Bengtssons
+son? Då kanske vi kan hitta ett jobb till
+dig.” Den typen av informella nätverk
+och personkännedom finns inte i en stor
+statlig myndighet. Men det finns i kom-
+munerna, säger Rinaldo Miller.
+
+Ett fragmenterat lapptäcke
+För båda författarna handlar förslaget
+
+CCaammiillllaa RRiinnaallddoo MMiilllleerr
+
+också om att ta ett helhetsgrepp. De
+menar att dagens system är splittrat och
+bygger på ett ”lapptäcke” av förordning-
+ar, uppdrag och organisationer.
+– Det är för många aktörer inne i samma
+ärenden, utan att någon har ett hel-
+hetsansvar. Det blir ineffektivt och det
+är individen som hamnar i kläm, säger
+André.
+
+De efterlyser ett system där kommuner-
+na tar ett tydligt huvudansvar inte bara
+för de som står längst från arbetsmark-
+naden, utan för alla arbetssökande. Sta-
+ten ska i sin tur renodlas till en finansiär,
+
+LLiillii AAnnddrréé
+
 5
 
 <!-- sida 174 -->
@@ -7413,60 +7503,149 @@ rande matchning. De pekar på kommu- CCaammiillllaa RRiinnaallddoo MMiilllleerr 
 \#
 ITSUGUA
 5202
-WERKET  MÅNADSRAPPORT
-tillsynsmyndighet och kunskapsnod, De menar att regeringens förslag om ak- Kristdemokraterna ser förslaget som en
-ungefär som Skolverket fungerar inom tivitetskrav inom försörjningsstödet där del av sin långsiktiga politikutveckling
-skolväsendet.            kommuner får större ansvar för arbets- men också som ett ämne för valrörelsen.
-sökande med ekonomiskt bistånd kan
-– Det behöver finnas en nationell                  – Det här är något vi kommer ta med oss
-ses som ett första steg.
-struktur, gemensam datainsamling och               vidare, säger André. Vi vet att många
-uppföljning. Men det operativa ska ligga – Det är redan så att många kommuner i inom både kommuner och näringsliv
-nära människorna hos kommunerna, praktiken fångar upp personer som fallit känner igen sig i problembilden. Nu våg-
-säger Rinaldo Miller.    mellan stolarna. Det här handlar om att ar vi säga det högt: det är dags att lägga
-gå från ad hoc-lösningar till ett helhets- ned Arbetsförmedlingen och bygga nytt.
+WERKET MÅNADSRAPPORT
+
+tillsynsmyndighet och kunskapsnod,
+ungefär som Skolverket fungerar inom
+skolväsendet.
+– Det behöver finnas en nationell
+struktur, gemensam datainsamling och
+uppföljning. Men det operativa ska ligga
+nära människorna hos kommunerna,
+säger Rinaldo Miller.
+
 Tid för en ny utredning
-ansvar, säger Rinaldo Miller.
-För Rinaldo Miller är det en fråga om
 Förslaget innebär en omfattande
-”Vi tror fler partier vill samma sak” ansvar och värdighet.
 förändring. Men detaljerna, menar de,
-måste nu utredas. Bland annat finansie- Frågan är hur en så pass genomgripan- – I slutändan handlar det om den enskil-
-ringsmodellen, regelverken, behovet av de förslag ska vinna politisk majoritet. da individen. Vi vill att människor som
-klustersamarbeten mellan små kommu- Här menar Kristdemokraterna att flera söker jobb ska få ett personligt och när-
-ner och hur kvalitet och enhetlighet ska partier egentligen delar problembilden, varande stöd. Och att arbetsgivare ska
-säkras.                  även om de inte sagt det lika tydligt. kunna hitta rätt kompetens. Då måste vi
-våga tänka om från grunden.
-– Vi säger inte att vi har alla svaren. Det – Vi vet att det finns andra partier som
-krävs en seriös utredning. Vi vill få igång ser att Arbetsförmedlingen inte fungerar.
-ett skifte i hur vi tänker kring ansvarsför- Vi hoppas att de nu vågar ta steget fullt
-delningen, säger André.  ut tillsammans med oss, säger André.
+måste nu utredas. Bland annat finansie-
+ringsmodellen, regelverken, behovet av
+klustersamarbeten mellan små kommu-
+ner och hur kvalitet och enhetlighet ska
+säkras.
+
+– Vi säger inte att vi har alla svaren. Det
+krävs en seriös utredning. Vi vill få igång
+ett skifte i hur vi tänker kring ansvarsför-
+delningen, säger André.
+
 Notiser
-Ljusglimt   i anställ-   Stärkt  BNP   men         Lediga  jobb  fort-
-ningsstatistiken         motvind    i importen     sätter minska
-Antalet pågående anställningar i Sve- Sveriges bruttonationalprodukt (BNP) Under andra kvartalet 2025 minskade
-rige uppgick i juni 2025 till 5 616 000 ökade med 0,5 procent under andra antalet lediga jobb med hela 13 procent
-stycken, en minskning med 0,2 procent kvartalet 2025, säsongrensat och jämfört med samma period föregående
-jämfört med samma månad i fjol. Trots jämfört med föregående kvartal. Till- år, vilket sänkte det totala antalet till cir-
-nedgången syns vissa ljusglimtar: antalet växten drevs framför allt av starkare ka 147 500 utlysningar. Nästan 114 000
-anställningar som varat längre än sex investeringar, lagertillväxt och en stabil var inom näringslivet, och över 28 000
-månader ökade svagt, med 0,1 procent. hushållskonsumtion. På årsbasis landade fanns inom offentlig förvaltning varav
-Den utvecklingen märks särskilt inom ökningen på 1,4 procent. En utveckling drygt 6 000 på statlig nivå och drygt 16
-statlig och regional sektor, där fler tills- som överraskade positivt och visar att 000 inom kommuner och regioner.
-vidareanställningar tycks skapa en viss ekonomin fått visst fotfäste efter en
+
+Ljusglimt   i anställ-
+
+ningsstatistiken
+Antalet pågående anställningar i Sve-
+rige uppgick i juni 2025 till 5 616 000
+stycken, en minskning med 0,2 procent
+jämfört med samma månad i fjol. Trots
+nedgången syns vissa ljusglimtar: antalet
+anställningar som varat längre än sex
+månader ökade svagt, med 0,1 procent.
+Den utvecklingen märks särskilt inom
+statlig och regional sektor, där fler tills-
+vidareanställningar tycks skapa en viss
+stabilitet.
+
+Kortare anställningar fortsätter däremot
+att minska, vilket understryker osäker-
+heten på delar av arbetsmarknaden.
+Sammantaget pekar statistiken på en ar-
+betsmarknad som ännu är pressad men
+som samtidigt rymmer tecken på ökad
+långsiktighet i vissa delar av offentlig
+sektor. Utvecklingen blir därmed viktig
+att följa under hösten, inte minst inför
+avtalsrörelsen och valåret 2026.
+
+De menar att regeringens förslag om ak-
+tivitetskrav inom försörjningsstödet där
+kommuner får större ansvar för arbets-
+sökande med ekonomiskt bistånd kan
+ses som ett första steg.
+– Det är redan så att många kommuner i
+praktiken fångar upp personer som fallit
+mellan stolarna. Det här handlar om att
+gå från ad hoc-lösningar till ett helhets-
+ansvar, säger Rinaldo Miller.
+
+”Vi tror fler partier vill samma sak”
+Frågan är hur en så pass genomgripan-
+de förslag ska vinna politisk majoritet.
+Här menar Kristdemokraterna att flera
+partier egentligen delar problembilden,
+även om de inte sagt det lika tydligt.
+
+– Vi vet att det finns andra partier som
+ser att Arbetsförmedlingen inte fungerar.
+Vi hoppas att de nu vågar ta steget fullt
+ut tillsammans med oss, säger André.
+
+Kristdemokraterna ser förslaget som en
+del av sin långsiktiga politikutveckling
+men också som ett ämne för valrörelsen.
+– Det här är något vi kommer ta med oss
+vidare, säger André. Vi vet att många
+inom både kommuner och näringsliv
+känner igen sig i problembilden. Nu våg-
+ar vi säga det högt: det är dags att lägga
+ned Arbetsförmedlingen och bygga nytt.
+
+För Rinaldo Miller är det en fråga om
+ansvar och värdighet.
+– I slutändan handlar det om den enskil-
+da individen. Vi vill att människor som
+söker jobb ska få ett personligt och när-
+varande stöd. Och att arbetsgivare ska
+kunna hitta rätt kompetens. Då måste vi
+våga tänka om från grunden.
+
+Stärkt  BNP   men        Lediga   jobb  fort-
+
+motvind    i importen    sätter  minska
+
+Sveriges bruttonationalprodukt (BNP)
+ökade med 0,5 procent under andra
+kvartalet 2025, säsongrensat och
+jämfört med föregående kvartal. Till-
+växten drevs framför allt av starkare
+investeringar, lagertillväxt och en stabil
+hushållskonsumtion. På årsbasis landade
+ökningen på 1,4 procent. En utveckling
+som överraskade positivt och visar att
+ekonomin fått visst fotfäste efter en
+längre period av svagare tillväxt.
+Samtidigt dämpas bilden av stigande im-
+portvolymer, som drar ned den samlade
+BNP-utvecklingen. Även om kvartalet ger
+en försiktig optimism om återhämtning
+är det för tidigt att tala om ett tydligt
+trendbrott. Internationella risker och osä-
+kerheter gör att svensk ekonomi fortsatt
+står inför prövningar, men inhemsk kon-
+sumtion och investeringar är en signal
+om att vändningen kan vara på väg.
+
+Under andra kvartalet 2025 minskade
+antalet lediga jobb med hela 13 procent
+jämfört med samma period föregående
+år, vilket sänkte det totala antalet till cir-
+ka 147 500 utlysningar. Nästan 114 000
+var inom näringslivet, och över 28 000
+fanns inom offentlig förvaltning varav
+drygt 6 000 på statlig nivå och drygt 16
+000 inom kommuner och regioner.
 Det innebär att det nu finns ungefär 2,7
-stabilitet.              längre period av svagare tillväxt.
 lediga jobb per 100 anställningar, en
-Kortare anställningar fortsätter däremot Samtidigt dämpas bilden av stigande im- tydlig signal om att arbetsmarknaden
-att minska, vilket understryker osäker- portvolymer, som drar ned den samlade stramas åt. Vård, omsorg och social-
-heten på delar av arbetsmarknaden. BNP-utvecklingen. Även om kvartalet ger tjänst dominerar bland tjänsterna men
-Sammantaget pekar statistiken på en ar- en försiktig optimism om återhämtning sett till antal lediga jobb per anställning
-betsmarknad som ännu är pressad men är det för tidigt att tala om ett tydligt är det sektorer som uthyrning, fastig-
-som samtidigt rymmer tecken på ökad trendbrott. Internationella risker och osä- hetsservice och resetjänster som sticker
-långsiktighet i vissa delar av offentlig kerheter gör att svensk ekonomi fortsatt ut. Geografiskt hamnar majoriteten i
-sektor. Utvecklingen blir därmed viktig står inför prövningar, men inhemsk kon- storstadsregionerna, medan Västernorr-
-att följa under hösten, inte minst inför sumtion och investeringar är en signal land har flest lediga jobb i förhållande till
-avtalsrörelsen och valåret 2026. om att vändningen kan vara på väg. antalet anställningar.
+tydlig signal om att arbetsmarknaden
+stramas åt. Vård, omsorg och social-
+tjänst dominerar bland tjänsterna men
+sett till antal lediga jobb per anställning
+är det sektorer som uthyrning, fastig-
+hetsservice och resetjänster som sticker
+ut. Geografiskt hamnar majoriteten i
+storstadsregionerna, medan Västernorr-
+land har flest lediga jobb i förhållande till
+antalet anställningar.
+
 6
 
 <!-- sida 175 -->
@@ -7475,7 +7654,8 @@ avtalsrörelsen och valåret 2026. om att vändningen kan vara på väg. antalet
 \#
 ITSUGUA
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 Sveriges Kommuner och Regioner (SKR)
 
 ”Vi  vill komplettera          - inte   konkurrera”
@@ -7489,59 +7669,99 @@ Men vad tycker SKR? Vi tog ett samtal med Roy Melchert, chef på SKRs arbets-
 marknadssektion. Inte om något enskilt partis utspel, utan om förutsättningarna
 för en möjlig kommunalisering i stort.
 
-Roy Melchert är sektionschef på SKR marknadsfrågan som en tillväxtfråga. Aktivitetskravet kommer dock med
-och har i många år arbetat med frågorna            utmaningar.
-Men är alla kommuner redo?
+Roy Melchert är sektionschef på SKR
+och har i många år arbetat med frågorna
 där stat, kommun och arbetsmarknads-
-– Det här är ett nytt uppdrag, och det
-politik möts. När vi ringer upp är han Om det skulle bli en mer genomgripande
-kommer att kräva både finansiering och
-noga med att förklara att SKR inte kom- reform där kommunerna får ett större
-tydlig samverkan med Arbetsförmedling-
-menterar politiska utspel från enskilda ansvar, vad krävs då?
-en, säger Roy Melchert.
+politik möts. När vi ringer upp är han
+noga med att förklara att SKR inte kom-
+menterar politiska utspel från enskilda
 partier.
-– Det är klart att det ser väldigt olika ut.
-Han är tydlig med att kommunerna inte
-– Vi är en organisation som speglar hela Vissa kommuner har redan välutveck-
-kan leverera kvalitet utan ekonomiskt
-det politiska landskapet i kommuner och lade arbetsmarknadsverksamheter och
-stöd från staten.
-regioner. Vår ledning har i dagsläget inte skulle kunna ta ett större ansvar direkt.
-tagit ställning till en kommunalisering av Andra har inte det, säger Roy. – Man kan aktivera väldigt många lite
-arbetsmarknadspolitiken som sådan. Det             grand, men det som faktiskt leder till
-Han lyfter tanken om en asymmetrisk
-vi däremot driver är att kommunerna bör            jobb, det kostar. Det måste staten vara
-modell, där olika kommuner får olika
-ha en tydligare roll i arbetsmarknadspoli-         med och bära.
-ansvar beroende på förutsättningar. Men
+– Vi är en organisation som speglar hela
+det politiska landskapet i kommuner och
+regioner. Vår ledning har i dagsläget inte
+tagit ställning till en kommunalisering av
+arbetsmarknadspolitiken som sådan. Det
+vi däremot driver är att kommunerna bör
+ha en tydligare roll i arbetsmarknadspoli-
 tiken, säger han.
-han betonar att likvärdigheten för indivi- Digitalt stöd och struktur, ja tack!
-Ett växande ansvar utan tydligt upp- den måste vara vägledande.
-Ett återkommande tema i samtalet är
+
+Ett växande ansvar utan tydligt upp-
 drag
-Aktivitetskrav förändrar spelplanen behovet av stödstrukturer. Här menar
 Och det ansvaret är något kommunerna
-Med det nya aktivitetskravet får
 redan tar, ofta utan att ha blivit tillfråga-
-kommunerna ett tydligare uppdrag att
 de.
-erbjuda aktiviteter till personer med
-– Vi ser att kommunerna kliver in när ekonomiskt bistånd. Insatsen regleras
-Arbetsförmedlingen inte räcker till. Det inom socialtjänstlagen och ses från
-gäller både stöd till långtidsarbetslösa SKR:s perspektiv inte som en kom-
-och att matcha det lokala näringslivets munalisering, eftersom inget ansvar
-kompetensbehov, säger Melchert. formellt flyttas från Arbetsförmedlingen.
-Han beskriver hur kommuner, från Samtidigt går det att anse att kommu-
-storstad till glesbygd, redan idag arbetar nerna i praktiken tar över delar av det
-proaktivt med näringslivet genom fru- arbete som tidigare låg på statlig nivå,
-kostmöten, tillväxtsatsningar och lokal särskilt för grupper som inte längre om-
-samverkan.               fattas av Arbetsförmedlingens insatser.
-Oavsett hur det definieras får kommu-
+
+– Vi ser att kommunerna kliver in när
+Arbetsförmedlingen inte räcker till. Det
+gäller både stöd till långtidsarbetslösa
+och att matcha det lokala näringslivets
+kompetensbehov, säger Melchert.
+Han beskriver hur kommuner, från
+storstad till glesbygd, redan idag arbetar
+proaktivt med näringslivet genom fru-
+kostmöten, tillväxtsatsningar och lokal
+samverkan.
+
 – Det är inte bara en socialtjänstfråga
-nerna nu en mer aktiv roll i att stödja
 längre. Många kommuner ser arbets-
-fler arbetslösa lokalt.     RRooyy MMeellcchheerrtt,, SSeekkttiioonnsscchheeff SSKKRR
+
+marknadsfrågan som en tillväxtfråga.
+Men är alla kommuner redo?
+
+Om det skulle bli en mer genomgripande
+reform där kommunerna får ett större
+ansvar, vad krävs då?
+– Det är klart att det ser väldigt olika ut.
+Vissa kommuner har redan välutveck-
+lade arbetsmarknadsverksamheter och
+skulle kunna ta ett större ansvar direkt.
+Andra har inte det, säger Roy.
+
+Han lyfter tanken om en asymmetrisk
+modell, där olika kommuner får olika
+ansvar beroende på förutsättningar. Men
+han betonar att likvärdigheten för indivi-
+den måste vara vägledande.
+Aktivitetskrav förändrar spelplanen
+
+Med det nya aktivitetskravet får
+kommunerna ett tydligare uppdrag att
+erbjuda aktiviteter till personer med
+ekonomiskt bistånd. Insatsen regleras
+inom socialtjänstlagen och ses från
+SKR:s perspektiv inte som en kom-
+munalisering, eftersom inget ansvar
+formellt flyttas från Arbetsförmedlingen.
+Samtidigt går det att anse att kommu-
+nerna i praktiken tar över delar av det
+arbete som tidigare låg på statlig nivå,
+särskilt för grupper som inte längre om-
+fattas av Arbetsförmedlingens insatser.
+Oavsett hur det definieras får kommu-
+nerna nu en mer aktiv roll i att stödja
+fler arbetslösa lokalt.
+
+Aktivitetskravet kommer dock med
+utmaningar.
+– Det här är ett nytt uppdrag, och det
+kommer att kräva både finansiering och
+tydlig samverkan med Arbetsförmedling-
+en, säger Roy Melchert.
+
+Han är tydlig med att kommunerna inte
+kan leverera kvalitet utan ekonomiskt
+stöd från staten.
+– Man kan aktivera väldigt många lite
+grand, men det som faktiskt leder till
+jobb, det kostar. Det måste staten vara
+med och bära.
+
+Digitalt stöd och struktur, ja tack!
+Ett återkommande tema i samtalet är
+behovet av stödstrukturer. Här menar
+
+RRooyy MMeellcchheerrtt,, SSeekkttiioonnsscchheeff SSKKRR
+
 7
 
 <!-- sida 176 -->
@@ -7550,86 +7770,151 @@ fler arbetslösa lokalt.     RRooyy MMeellcchheerrtt,, SSeekkttiioonnsscchheeff 
 \#
 ITSUGUA
 5202
-WERKET  MÅNADSRAPPORT
-Roy att staten har en självklar roll. kommuner upplevde att det blev på Notiser
-myndighetens villkor, säger Roy.
+WERKET MÅNADSRAPPORT
+
+Roy att staten har en självklar roll.
 – Vi är vana vid att det finns stödmyn-
-digheter som hjälper kommuner att hålla Men efter ett omtag 2021–2022 ser han Jonny Cato lämnar
-kvalitet, som Skolverket eller Socialsty- förbättringar.
-riksdagen    efter  val
+digheter som hjälper kommuner att hålla
+kvalitet, som Skolverket eller Socialsty-
 relsen. Det vore inte orimligt att tänka
-– Våra egna mätningar visar att både
 sig något liknande inom arbetsmark-
-strategisk och operativ samverkan har Centerpartiets migrations- och arbets-
 nadspolitiken, om kommunerna ska ta
-förbättrats. Men det är fortfarande långt marknadspolitiske talesperson Jonny
 ett större ansvar, säger han.
-ifrån tillräckligt.       Cato har meddelat att han inte kandide-
-Han pekar också på vikten av fungeran-             rar i nästa riksdagsval. Beslutet är enligt
-Enligt Melchert krävs fler konkreta resul-
-de digitala system, inte minst för uppfölj-        honom själv odramatiskt och handlar om
-tat och mindre formalia.
-ning och spårbarhet.                               att släppa fram nya krafter och själv skaffa
-– Överenskommelser är viktiga, men vi
-sig fler erfarenheter efter tolv år som hel-
+
+Han pekar också på vikten av fungeran-
+de digitala system, inte minst för uppfölj-
+ning och spårbarhet.
 – Man behöver kunna se om insatserna
-måste också få saker att hända. Det be-
-tidsaktiv politiker.
 faktiskt ger effekt, och ha möjlighet att
-höver bli mer operativt, mer vardagsnära
-justera. I dagsläget varierar det väldigt          Cato valdes in i riksdagen 2018 och har
-och framför allt: mer förutsägbart.
-mycket hur kommuner jobbar. Ibland är              bland annat lett partiets reformgrupp
-det rätt avancerat, ibland är det Excel- Vad krävs för ett systemskifte? för jobb och företagande. Han är i dag
-ark.                     Så vad skulle krävas för att gå mot en andre vice gruppledare, ledamot i arbets-
-”Vi vill komplettera – inte konkurrera” större roll för kommunerna inom arbets- marknadsutskottet och medlem i partiets
-marknadspolitiken?        valberedning. Fram till valdagen tänker
-En nyckel i SKR:s hållning är att kom-             han fortsätta ”köra fullt ut” i sin roll som
-munerna inte ska ersätta, utan snarare – Vi på SKR ser det inte som vår uppgift talesperson, med fokus på att pressa
-komplettera andra aktörer. att driva en fullständig kommunalisering. regeringen att sänka kostnaderna för att
-Men vi ser att kommunerna redan idag
-– Vi vill inte konkurrera med Arbetsför-           anställa.
-är en del av lösningen. Om staten vill att
+justera. I dagsläget varierar det väldigt
+mycket hur kommuner jobbar. Ibland är
+det rätt avancerat, ibland är det Excel-
+ark.
+
+”Vi vill komplettera – inte konkurrera”
+En nyckel i SKR:s hållning är att kom-
+munerna inte ska ersätta, utan snarare
+komplettera andra aktörer.
+
+– Vi vill inte konkurrera med Arbetsför-
 medlingen eller fristående aktörer. Vi
-vi ska göra mer då måste man också ge
 vill komplettera det de gör, och fylla de
-oss förutsättningarna för att göra det
-luckor där systemet brister.                       Strid om  skyddat
-bra, säger Roy Melchert.
-Roy Melchert tror också att alla aktörer           arbete
-Och med det sagt tackade vi för samta-
+luckor där systemet brister.
+Roy Melchert tror också att alla aktörer
 kommer att behövas; statliga myndighe-
-let med Roy. Ett samtal som inte kret-
-ter, kommuner och privata leverantörer.            Samhallutredningen föreslår att en ny form
-sade kring någon enskild partipolitisk
-av skyddat arbete etableras hos idébur-
-– Många kommuner köper redan idag lösning, utan kring de förutsättningar
-na organisationer. Förslaget möter dock
-tjänster från privata utförare i sina egna som krävs för att få arbetsmarknadspo-
-starkt motstånd från LO, som i sitt remiss-
-uppdrag. Det finns plats för flera roller, litiken att fungera i praktiken. Oavsett
-svar varnar för risker med oseriösa aktörer,
-om rollerna är tydliga.  hur ansvarsfördelningen ser ut framöver,
-bristande kontroll och ökad arbetslivskri-
-är budskapet tydligt: det behövs en
-Samverkan har gått i vågor                         minalitet.
-fungerande struktur där rollerna är klara,
-Sedan 2015 har staten satsat stort på resurserna finns och där någon faktiskt Famna, intresseorganisationen för idébu-
-att förbättra samarbetet mellan Arbets- har kapacitet att ta vid när andra inte ren välfärd, avfärdar kritiken och menar att
-förmedlingen och kommunerna. Först räcker till.    LO:s invändningar bygger på okunskap.
-genom Delegationen för unga och ny-                Generalsekreterare Emma Henriksson un-
-I slutändan handlar det inte bara om
-anlända till arbete (DUA), sedan genom             derstryker att idéburna aktörer inte drivs
-styrning eller modeller. Det handlar om
-nya lokala samverkansavtal. Har det gett           av vinstintresse och därför är en trygg part
-vem som i praktiken möter individen,
-resultat?                                          för att stötta personer som står långt från
-förstår lokala behov och får människor
-arbetsmarknaden.
-– Det har gått upp och ner. När Arbets- i arbete. Den frågan får inte politiken
-förmedlingen stängde många kontor lämna obesvarad.
+ter, kommuner och privata leverantörer.
+– Många kommuner köper redan idag
+tjänster från privata utförare i sina egna
+uppdrag. Det finns plats för flera roller,
+om rollerna är tydliga.
+
+Samverkan har gått i vågor
+Sedan 2015 har staten satsat stort på
+att förbättra samarbetet mellan Arbets-
+förmedlingen och kommunerna. Först
+genom Delegationen för unga och ny-
+anlända till arbete (DUA), sedan genom
+nya lokala samverkansavtal. Har det gett
+resultat?
+
+– Det har gått upp och ner. När Arbets-
+förmedlingen stängde många kontor
 tappade vi mycket samverkan. Många
+
+kommuner upplevde att det blev på
+myndighetens villkor, säger Roy.
+Men efter ett omtag 2021–2022 ser han
+förbättringar.
+
+– Våra egna mätningar visar att både
+strategisk och operativ samverkan har
+förbättrats. Men det är fortfarande långt
+ifrån tillräckligt.
+Enligt Melchert krävs fler konkreta resul-
+tat och mindre formalia.
+
+– Överenskommelser är viktiga, men vi
+måste också få saker att hända. Det be-
+höver bli mer operativt, mer vardagsnära
+och framför allt: mer förutsägbart.
+Vad krävs för ett systemskifte?
+
+Så vad skulle krävas för att gå mot en
+större roll för kommunerna inom arbets-
+marknadspolitiken?
+– Vi på SKR ser det inte som vår uppgift
+att driva en fullständig kommunalisering.
+Men vi ser att kommunerna redan idag
+är en del av lösningen. Om staten vill att
+vi ska göra mer då måste man också ge
+oss förutsättningarna för att göra det
+bra, säger Roy Melchert.
+Och med det sagt tackade vi för samta-
+let med Roy. Ett samtal som inte kret-
+sade kring någon enskild partipolitisk
+lösning, utan kring de förutsättningar
+som krävs för att få arbetsmarknadspo-
+litiken att fungera i praktiken. Oavsett
+hur ansvarsfördelningen ser ut framöver,
+är budskapet tydligt: det behövs en
+fungerande struktur där rollerna är klara,
+resurserna finns och där någon faktiskt
+har kapacitet att ta vid när andra inte
+räcker till.
+
+I slutändan handlar det inte bara om
+styrning eller modeller. Det handlar om
+vem som i praktiken möter individen,
+förstår lokala behov och får människor
+i arbete. Den frågan får inte politiken
+lämna obesvarad.
+
 8
+
+Notiser
+
+Jonny   Cato  lämnar
+
+riksdagen    efter val
+
+Centerpartiets migrations- och arbets-
+marknadspolitiske talesperson Jonny
+Cato har meddelat att han inte kandide-
+rar i nästa riksdagsval. Beslutet är enligt
+honom själv odramatiskt och handlar om
+att släppa fram nya krafter och själv skaffa
+sig fler erfarenheter efter tolv år som hel-
+tidsaktiv politiker.
+Cato valdes in i riksdagen 2018 och har
+bland annat lett partiets reformgrupp
+för jobb och företagande. Han är i dag
+andre vice gruppledare, ledamot i arbets-
+marknadsutskottet och medlem i partiets
+valberedning. Fram till valdagen tänker
+han fortsätta ”köra fullt ut” i sin roll som
+talesperson, med fokus på att pressa
+regeringen att sänka kostnaderna för att
+anställa.
+
+Strid  om  skyddat
+
+arbete
+
+Samhallutredningen föreslår att en ny form
+av skyddat arbete etableras hos idébur-
+na organisationer. Förslaget möter dock
+starkt motstånd från LO, som i sitt remiss-
+svar varnar för risker med oseriösa aktörer,
+bristande kontroll och ökad arbetslivskri-
+minalitet.
+Famna, intresseorganisationen för idébu-
+ren välfärd, avfärdar kritiken och menar att
+LO:s invändningar bygger på okunskap.
+Generalsekreterare Emma Henriksson un-
+derstryker att idéburna aktörer inte drivs
+av vinstintresse och därför är en trygg part
+för att stötta personer som står långt från
+arbetsmarknaden.
 
 <!-- sida 177 -->
 
@@ -7637,74 +7922,132 @@ tappade vi mycket samverkan. Många
 \#
 ITSUGUA
 5202
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 Moderaterna
 
 ”Kommunerna              behöver        en    tydligare       roll
 
-men      AF    har   fortfarande           en   uppgift”
+men      AF    har    fortfarande          en    uppgift”
 
 Kristdemokraternas utspel om att lägga ned Arbetsförmedlingen och ge kommu-
-nerna huvudansvaret för arbetsmarknadspolitiken har väckt debatt. Riksdagsleda-
 
+nerna huvudansvaret för arbetsmarknadspolitiken har väckt debatt. Riksdagsleda-
 moten Oliver Rosengren delar inte slutsatsen helt och hållet, men håller med om
 att kommunernas roll måste bli tydligare.
 
-När vi frågar Oliver Rosengren om KD:s För honom är nyckeln en tydligare an- en konkurrensfråga.
-förslag väljer han att börja i det grund- svarsfördelning.
-– Kommunerna behöver en tydliggjord
+När vi frågar Oliver Rosengren om KD:s
+förslag väljer han att börja i det grund-
 läggande.
-– Staten ska ha en stark roll när det roll i utförandet, men det finns också
-– Arbetsförmedlingen har en viktig gäller till exempel bedömning av arbets- plats för privata aktörer. Frågan är sna-
-funktion som myndighet. Framför allt att förmåga, men behöver inte vara lika tung rare hur vi får alla delar att fungera ihop.
-se till att arbetslösa följer de krav som i allt det operativa. Där kan kommunerna
-Arbetsförmedlingens framtid
-gäller i de statliga ersättningssystemen. ta ett större ansvar.
-Det är inte själva jobbförmedlingen som            På senare tid har kritiken mot Arbets-
-Aktivitetskrav – ett steg i rätt riktning
-är kärnan, utan uppdraget att erbjuda              förmedlingen vuxit, inte minst genom
-insatser och säkerställa att människor På frågan om det nya aktivitetskravet Statskontorets rapport och låga resultat
-aktivt söker sig ur arbetslöshet, säger för personer med försörjningsstöd är i nya tjänster som Sammanhållet match-
-han.                     ett första steg mot kommunalisering blir ningsstöd. Är måttet rågat?
-svaret mer nyanserat.
-Dubbelkommando och ineffektivitet                  – Vi ansåg att måttet var rågat redan
-– Vissa menar att det bara handlar när vi bytte generaldirektör, förstärkte
+– Arbetsförmedlingen har en viktig
+funktion som myndighet. Framför allt att
+se till att arbetslösa följer de krav som
+gäller i de statliga ersättningssystemen.
+Det är inte själva jobbförmedlingen som
+är kärnan, utan uppdraget att erbjuda
+insatser och säkerställa att människor
+aktivt söker sig ur arbetslöshet, säger
+han.
+
+Dubbelkommando och ineffektivitet
 Samtidigt är han kritisk till hur ansvars-
-om socialtjänst, andra ser det som ett styrelsen och gav myndigheten nya
 fördelningen mellan olika aktörer ser ut
-steg mot arbetsmarknadspolitiken. Jag uppdrag. Med Maria Hemström Hem-
 idag.
-skulle säga att aktivitetskravet innebär mingsson som generaldirektör har
-– Det finns för många områden där flera att kommunerna får en lagstadgad roll Arbetsförmedlingen nu fått de bästa
-aktörer ansvarar för ungefär samma på ett nytt sätt. Det är positivt, säger möjliga förutsättningarna att leverera.
-saker. Det skapar dubbelkommando och Rosengren.    Men om myndigheten inte tar rygg på
-ineffektivitet vilket både är kostsamt för         den nya ledningen och levererar det som
-Han betonar att Moderaterna kommer
-skattebetalarna och drabbar de arbets-             förväntas, då är läget mycket kritiskt,
-att återkomma med mer detaljerade
-lösa, säger Rosengren.                             säger Rosengren.
-förslag kring hur ansvarsfördelningen
-Som tidigare kommunalråd i Växjö har bör se ut. Moderaterna har ännu inte Hans slutsats är att det fortfarande finns
-han sett vad som går att göra lokalt. presenterat sitt slutliga förslag om hur en uppgift för Arbetsförmedlingen, men
-ansvaret ska fördelas mellan stat, kom- också att tålamodet inte är
+
+– Det finns för många områden där flera
+aktörer ansvarar för ungefär samma
+saker. Det skapar dubbelkommando och
+ineffektivitet vilket både är kostsamt för
+skattebetalarna och drabbar de arbets-
+lösa, säger Rosengren.
+Som tidigare kommunalråd i Växjö har
+han sett vad som går att göra lokalt.
+
 – Med stark politisk vilja kan en kommun
-mun och andra aktörer. Arbetet pågår oändligt.
 åstadkomma mycket. Men det räcker
-i partiets arbetsgrupp för arbetsmark-
-inte att 20 av 290 kommuner är bra på              – Antingen tar myndig-
-nadsfrågor, där Rosengren själv har en
-arbetsmarknadspolitik. Vi behöver ett              heten rygg på den nya
-central roll.
-system som fungerar i hela landet.                 generaldirektören och
-Samspel med leverantörer  levererar det som
+inte att 20 av 290 kommuner är bra på
+arbetsmarknadspolitik. Vi behöver ett
+system som fungerar i hela landet.
 Risk för ojämlikhet
-förväntas. Eller så
+Enligt Rosengren blir det annars lätt så
+att människor drabbas hårt av vilken
+kommun de bor i.
+
+För honom är nyckeln en tydligare an-
+svarsfördelning.
+– Staten ska ha en stark roll när det
+gäller till exempel bedömning av arbets-
+förmåga, men behöver inte vara lika tung
+i allt det operativa. Där kan kommunerna
+ta ett större ansvar.
+
+Aktivitetskrav – ett steg i rätt riktning
+På frågan om det nya aktivitetskravet
+för personer med försörjningsstöd är
+ett första steg mot kommunalisering blir
+svaret mer nyanserat.
+
+– Vissa menar att det bara handlar
+om socialtjänst, andra ser det som ett
+steg mot arbetsmarknadspolitiken. Jag
+skulle säga att aktivitetskravet innebär
+att kommunerna får en lagstadgad roll
+på ett nytt sätt. Det är positivt, säger
+Rosengren.
+Han betonar att Moderaterna kommer
+att återkomma med mer detaljerade
+förslag kring hur ansvarsfördelningen
+bör se ut. Moderaterna har ännu inte
+presenterat sitt slutliga förslag om hur
+ansvaret ska fördelas mellan stat, kom-
+mun och andra aktörer. Arbetet pågår
+i partiets arbetsgrupp för arbetsmark-
+nadsfrågor, där Rosengren själv har en
+central roll.
+
+Samspel med leverantörer
 En annan fråga är hur privata leveran-
-Enligt Rosengren blir det annars lätt så           kan det bli den sista
 törer och kommuner kan komplettera
-att människor drabbas hårt av vilken               generaldirektören.
 varandra. Rosengren vill inte se det som
-kommun de bor i.                                                   OOlliivveerr RRoosseennggrreenn
+
+en konkurrensfråga.
+– Kommunerna behöver en tydliggjord
+roll i utförandet, men det finns också
+plats för privata aktörer. Frågan är sna-
+rare hur vi får alla delar att fungera ihop.
+
+Arbetsförmedlingens framtid
+På senare tid har kritiken mot Arbets-
+förmedlingen vuxit, inte minst genom
+Statskontorets rapport och låga resultat
+i nya tjänster som Sammanhållet match-
+ningsstöd. Är måttet rågat?
+
+– Vi ansåg att måttet var rågat redan
+när vi bytte generaldirektör, förstärkte
+styrelsen och gav myndigheten nya
+uppdrag. Med Maria Hemström Hem-
+mingsson som generaldirektör har
+Arbetsförmedlingen nu fått de bästa
+möjliga förutsättningarna att leverera.
+Men om myndigheten inte tar rygg på
+den nya ledningen och levererar det som
+förväntas, då är läget mycket kritiskt,
+säger Rosengren.
+Hans slutsats är att det fortfarande finns
+en uppgift för Arbetsförmedlingen, men
+också att tålamodet inte är
+oändligt.
+
+– Antingen tar myndig-
+heten rygg på den nya
+generaldirektören och
+levererar det som
+förväntas. Eller så
+kan det bli den sista
+generaldirektören.
+OOlliivveerr RRoosseennggrreenn
+
 9
 
 <!-- sida 178 -->
@@ -7714,8 +8057,10 @@ kommun de bor i.                                                   OOlliivveerr 
 ITSUGUA
 5202
 WWEERRKKEETT MMÅÅNNAADDSSRRAAPPPPOORRTT
+
 Justitieombudsmannen (JO)
-JO   riktar   skarp    kritik   mot
+
+JO   riktar   skarp     kritik  mot
 
 Arbetsförmedlingen                i Stockholm
 
@@ -7724,64 +8069,102 @@ ens verksamhet i Region Stockholm Gotland. Granskningen, som genomfördes i maj,
 
 omfattande brister i hur myndigheten följer upp arbetssökande och hanterar sina uppdrag.
 
-Passiv handläggning och gamla planer att Arbetsförmedlingen använder två
-versioner av besluten, en intern och en
-En central kritik gäller att handlingspla-             Werket
-som skickas ut. JO har därför inlett en
+Passiv handläggning och gamla planer
+En central kritik gäller att handlingspla-
 ner inte uppdateras i tid. Planer som
-enligt regelverket ska ses över minst var särskild utredning av detta arbetssätt. kommenterar
-sjätte månad hade i flera fall varit oför- Också dokumentationen i övrigt kritise-
-ändrade i över ett år. Arbetsförmedling- ras. Daganteckningar saknades eller la-
-JO:s rapport är inte bara en
-en hade dessutom lagt över ansvaret på des in långt i efterhand, och det förekom
-tjänstemannaprodukt, den är en
-arbetssökande själva att begära förnyel- att uppgifter registrerats i fel persons
-påminnelse om ett systemfel.
-se, något JO menar är oacceptabelt. akt. Ett allvarligt hot mot både rättssä-
-När en rättslig tillsynsmyndighet
-kerhet och sekretess.
-Allvarliga problem med tillgänglighet                  pekar på så grundläggande bris-
-Åtgärder väntas               ter som utebliven uppföljning,
+enligt regelverket ska ses över minst var
+sjätte månad hade i flera fall varit oför-
+ändrade i över ett år. Arbetsförmedling-
+en hade dessutom lagt över ansvaret på
+arbetssökande själva att begära förnyel-
+se, något JO menar är oacceptabelt.
+
+Allvarliga problem med tillgänglighet
 Rapporten lyfter även fram stora brister
-undermålig dokumentation och
-i kontakten med arbetssökande. På en- JO understryker i rapporten att brister-
-beslut som inte går att förstå,
-heterna i Stockholm city och Stockholm na riskerar att förlänga arbetslöshet i
-då är det inte längre enstaka
-sydöst framkom exempel på personer onödan och förutsätter nu att Arbets-
-problem i en stor organisation.
-som fått vänta i veckor på återkoppling förmedlingen vidtar skarpa åtgärder. En
-Då är det en fråga om tillit.
-och i ett fall dröjde det tio månader inn- fördjupad granskning av myndighetens
-an en arbetssökande fick tillgång till tolk beslutshantering har redan inletts och Och tilliten till Arbetsförmed-
-och uppföljning.         resultatet väntas senare under året. lingen är redan låg. Att hand-
-lingsplaner ligger oförändrade
+i kontakten med arbetssökande. På en-
+heterna i Stockholm city och Stockholm
+sydöst framkom exempel på personer
+som fått vänta i veckor på återkoppling
+och i ett fall dröjde det tio månader inn-
+an en arbetssökande fick tillgång till tolk
+och uppföljning.
+
 Stöd till personer med funktionsned-
-i över ett år, att personer med
 sättning
-funktionsnedsättning registreras
-Även stödet till personer med funktions-               men sedan lämnas utan stöd,
-nedsättning får kritik. I flera fall hade Ar-          eller att det i praktiken kan ta tio
-betsförmedlingen registrerat en kod för                månader att få tillgång till tolk.
-funktionsnedsättning men inte följt upp                Det undergräver förtroendet
-med relevanta utredningar eller stöd.                  både hos arbetssökande och
-Enligt JO riskerar det att göra stödet                 arbetsgivare.
+Även stödet till personer med funktions-
+nedsättning får kritik. I flera fall hade Ar-
+betsförmedlingen registrerat en kod för
+funktionsnedsättning men inte följt upp
+med relevanta utredningar eller stöd.
+Enligt JO riskerar det att göra stödet
 verkningslöst och försena den enskildes
-Det här är inte första gången JO
 möjligheter att komma i arbete.
-kritiserar Arbetsförmedlingen.
-Bristande dokumentation                                Men det är tidpunkten som gör
-det särskilt intressant. JO leve-
+
+Bristande dokumentation
 JO riktar också skarp kritik mot hur
-rerar en rapport som ger bränsle
 beslut skrivs och dokumenteras. I många
-till argumenten om att dagens
 fall var motiveringarna mycket knapp-
-konstruktion inte fungerar.
 händiga, ibland endast med förkortning-
 ar som inte går att förstå för den enskil-
 de. Det uppmärksammades dessutom
+
+att Arbetsförmedlingen använder två
+versioner av besluten, en intern och en
+som skickas ut. JO har därför inlett en
+särskild utredning av detta arbetssätt.
+Också dokumentationen i övrigt kritise-
+ras. Daganteckningar saknades eller la-
+des in långt i efterhand, och det förekom
+att uppgifter registrerats i fel persons
+akt. Ett allvarligt hot mot både rättssä-
+kerhet och sekretess.
+
+Åtgärder väntas
+JO understryker i rapporten att brister-
+na riskerar att förlänga arbetslöshet i
+onödan och förutsätter nu att Arbets-
+förmedlingen vidtar skarpa åtgärder. En
+fördjupad granskning av myndighetens
+beslutshantering har redan inletts och
+resultatet väntas senare under året.
+
 TThhoommaass NNoorrlliinngg,, JJOO
+
+Werket
+
+kommenterar
+
+JO:s rapport är inte bara en
+tjänstemannaprodukt, den är en
+påminnelse om ett systemfel.
+När en rättslig tillsynsmyndighet
+pekar på så grundläggande bris-
+ter som utebliven uppföljning,
+undermålig dokumentation och
+beslut som inte går att förstå,
+då är det inte längre enstaka
+problem i en stor organisation.
+Då är det en fråga om tillit.
+Och tilliten till Arbetsförmed-
+lingen är redan låg. Att hand-
+lingsplaner ligger oförändrade
+i över ett år, att personer med
+funktionsnedsättning registreras
+men sedan lämnas utan stöd,
+eller att det i praktiken kan ta tio
+månader att få tillgång till tolk.
+Det undergräver förtroendet
+både hos arbetssökande och
+arbetsgivare.
+
+Det här är inte första gången JO
+kritiserar Arbetsförmedlingen.
+Men det är tidpunkten som gör
+det särskilt intressant. JO leve-
+rerar en rapport som ger bränsle
+till argumenten om att dagens
+konstruktion inte fungerar.
+
 10
 
 <!-- sida 179 -->
@@ -7805,34 +8188,55 @@ ITSUGUA
 5202
 statistik
 makro
-WERKET  MÅNADSRAPPORT
+WERKET MÅNADSRAPPORT
+
 MAKROLÄGET
+
 TEMPERATUREN          PÅ  ARBETSMARKNADEN
+
 Temperaturen på arbetsmarknaden är dan. De senaste åren har juli och augusti
 5
 sval, 2 av 5 indikatorer är positiva. varit månader med relativt få varsel.
+
 4
-Arbetslösheten ökade till 7,1 procent och Lediga jobb: Juli har de senaste året varit
-låg 0,3 procentenheter högre i juli 2025 den månad på året med minst antal lediga
-jämfört med 2024. Hittills har ökningen jobb, så även 2025. 50 214 lediga jobb är
+Arbetslösheten ökade till 7,1 procent och
+låg 0,3 procentenheter högre i juli 2025
+jämfört med 2024. Hittills har ökningen
 3
-inte varit lika kraftig som under föregåen- dock rekordlågt, borträknat pandemiåret
-de år.                   2020.
+inte varit lika kraftig som under föregåen-
+de år.
 2
-Långtidsarbetslösheten ökade igen efter Barometerindikatorn: Barometerindika-
-att trendenligt sjunkit de senaste måna- torn steg för andra månaden i rad men
+Långtidsarbetslösheten ökade igen efter
+att trendenligt sjunkit de senaste måna-
 1
-derna. Jämfört med föregående månad visar fortsatt på ett svagare stämningsläge
-var 1 241 fler långtidsarbetslösa och än normalt. Uppgången var bred och om-
-0                  jämfört med för ett år sedan var ökningen fattade samtliga sektorer. I näringslivet är
-11 484 personer.         stämningsläget nu i linje med det historis-
--1                                           ka genomsnittet, men hushållen är fortsatt
-Varsel: I juli var det 4 330 personer som mer pessimistiska än normalt.
+derna. Jämfört med föregående månad
+var 1 241 fler långtidsarbetslösa och
+0                  jämfört med för ett år sedan var ökningen
+11 484 personer.
+-1
+Varsel: I juli var det 4 330 personer som
 Två av fem indikatorer är positiva. Arbetsmarknaden
 varslades, drygt 600 färre än för ett år se-
 är sval.
-Arbetslöshet            Antal långtidsarbetslösa Antal varslade personer
+
+Lediga jobb: Juli har de senaste året varit
+den månad på året med minst antal lediga
+jobb, så även 2025. 50 214 lediga jobb är
+dock rekordlågt, borträknat pandemiåret
+2020\.
+
+Barometerindikatorn: Barometerindika-
+torn steg för andra månaden i rad men
+visar fortsatt på ett svagare stämningsläge
+än normalt. Uppgången var bred och om-
+fattade samtliga sektorer. I näringslivet är
+stämningsläget nu i linje med det historis-
+ka genomsnittet, men hushållen är fortsatt
+mer pessimistiska än normalt.
+
+Arbetslöshet           Antal långtidsarbetslösa Antal varslade personer
 Förändring 12 mån: 0,30 procentenheter Förändring 12 mån: 11 484 personer Förändring 12 mån: −603 personer
+
 7,2%
 7,1%                153  242  10K
 150K
@@ -7843,20 +8247,20 @@ Förändring 12 mån: 0,30 procentenheter Förändring 12 mån: 11 484 personer 
 6K
 6,6%
 140K
-6,4%                                          4K              4 330
+6,4%                                           4K              4 330
 2024     2025          2024     2025          2024     2025
-Antal lediga jobb       Barometerindikatorn
+Antal lediga jobb      Barometerindikatorn
 Förändring 12 mån: −13 894 platser Förändring 12 mån: 1,7 enheter
-150K                  140
+150K                   140
 120
 100K
 96,00
 100
 50K
 80
-50  214
+50 214
 0K                    60
-2024     2025           2022     2023      2024      2025
+2024     2025          2022      2023      2024      2025
 12
 
 <!-- sida 181 -->
@@ -7882,16 +8286,27 @@ statistik
 \#
 ITSUGUA
 5202
+
+DELTAGARANTAL
+
+ROM2
+
+Antalet deltagare ökade till 41 247 i
+juli (+3,9 procent), drygt 2 600 fler än
+myndighetens senaste prognos från juli
+förutspådde. Sedan november 2024 har
+deltagarantalet snittat omkring 40 600, i
+
 statistik
+
 tjänster
 WERKET  MÅNADSRAPPORT
-DELTAGARANTAL
-ROM2
-Antalet deltagare ökade till 41 247 i linje med vad myndigheten prognostiserat Utflödet sjönk kraftigt (-30,6 procent) jäm-
-juli (+3,9 procent), drygt 2 600 fler än för 2025. Det är därmed rimligt att förvän- fört med föregående månad, något som
-myndighetens senaste prognos från juli ta sig att volymen i tjänsten bibehålls den känns igen från föregående år.
-förutspådde. Sedan november 2024 har närmsta tiden. Inflödet ökade något i juli
-deltagarantalet snittat omkring 40 600, i (+2,6 procent).
+
+linje med vad myndigheten prognostiserat Utflödet sjönk kraftigt (-30,6 procent) jäm-
+för 2025. Det är därmed rimligt att förvän- fört med föregående månad, något som
+ta sig att volymen i tjänsten bibehålls den känns igen från föregående år.
+närmsta tiden. Inflödet ökade något i juli
+(+2,6 procent).
 
 Kvarstående deltagare: 41 247 Nya deltagare: 6 376 Deltagare som lämnat: 4 830
 Förändring : 1 531 [3,9%] Förändring : 160 [2,6%] Förändring : -2 128 [−30,6%]
@@ -7927,7 +8342,7 @@ Aros Matchning och Utbildning AB    3,00
 Rekrytering och Trim tab. Därefter åter-
 A-Karriär Sweden AB             3,00
 finns sex leverantörer med samma genom-
-Montico Rekrytering AB          2,83
+Montico Rekrytering AB         2,83
 snittliga betyg.
 Jobbkompaniet Nova AB           2,83
 Till skillnad från resultatmåtten i tjänsten Arena Matchning AB  2,80
@@ -7936,10 +8351,10 @@ rametrar hos de arbetssökande, tid i tjäns- Studentconsulting Sweden AB (Pu.. 
 ten m.m. och relaterar det till prestationen Re:shift Jobb & Utbildning AB 2,71
 av övriga leverantörer i arbetsmarknadsre- Curonova Consulting AB 2,65
 gionen. Betygen är därmed det mått som Arcus Utbildning & Jobbförmedling.. 2,63
-bäst återspeglar kvalitén i en leverantörs Enrival AB           2,62
-prestation.                         Lernia Matchning            2,60
+bäst återspeglar kvalitén i en leverantörs Enrival AB            2,62
+prestation.                         Lernia Matchning             2,60
 AAA Livek Sjuhärad AB          2,60
-Betyg 1  2   3    4
+Betyg 1  2    3   4
 14
 
 <!-- sida 183 -->
@@ -8273,23 +8688,35 @@ ITSUGUA
 5202
 statistik
 utbildning
-WERKET  MÅNADSRAPPORT
-DELTAGARANTAL            I den senaste utgiftsprognosen sänkte Ar- gativt rekord i inflödet
-betsförmedlingen åter sina förväntningar i insatsen, endast 466
-kring deltagartillväxten i arbetsmarknads- påbörjade AUB i juli.
+WERKET MÅNADSRAPPORT
+
+DELTAGARANTAL            I den senaste utgiftsprognosen sänkte Ar-
+betsförmedlingen åter sina förväntningar
+kring deltagartillväxten i arbetsmarknads-
 AUB
-utbildning, det kommer ta längre tid innan Siffran är den näst lägsta i Werkets historik
-myndighetens åtgärder får effekt. över insatsen, endast “överträffad” av juli
-2008 då 389 påbörjade insatsen. Antalet
+utbildning, det kommer ta längre tid innan
+myndighetens åtgärder får effekt.
 De höjda ambitionerna kom snabbt på
-som lämnade insatsen sjönk till 756 (-45,1
 skam och inte nog med det så slogs ne-
-procent).
-Kvarstående deltagare: 5 596 Nya deltagare: 466 Deltagare som Lämnat: 756
-Förändring: -290 [−4,9%] Förändring: -714 [−60,5%] Förändring: -620 [−45,1%]
+Kvarstående deltagare: 5 596 Nya deltagare: 466
+Förändring: -290 [−4,9%] Förändring: -714 [−60,5%]
 8K
-2K                    2K
+2K
 7K
+
+gativt rekord i inflödet
+i insatsen, endast 466
+påbörjade AUB i juli.
+Siffran är den näst lägsta i Werkets historik
+över insatsen, endast “överträffad” av juli
+2008 då 389 påbörjade insatsen. Antalet
+som lämnade insatsen sjönk till 756 (-45,1
+procent).
+Deltagare som Lämnat: 756
+Förändring: -620 [−45,1%]
+
+2K
+
 6K
 1K                    1K
 5 596
@@ -8297,8 +8724,9 @@ Förändring: -290 [−4,9%] Förändring: -714 [−60,5%] Förändring: -620 [�
 5K
 466
 4K                   0K                    0K
-2024    2025         2024     2025         2024    2025
+2024    2025         2024    2025         2024    2025
 Kvarstående, nya och deltagare som lämnat arbetsmarknadsutbildning
+
 DELTAGARANTAL          Deltagande i förberedande utbildning procent) och utflödet (-40,8 procent)
 fortsatte att minska i juli (-25,2 procent), sjönk även de kraftigt jämfört med föregå-
 endast 2 410 deltog i insatsen. ende månad.
@@ -8306,23 +8734,29 @@ FUB
 Juli är historiskt den månad på året med
 lägst deltagarantal, något som ser ut att
 bli fallet även denna gång. Inflödet (-72,6
+
 Kvarstående deltagare: 2 410 Nya deltagare: 495 Deltagare som Lämnat: 1 308
 Förändring: -814 [−25,2%] Förändring: -1 310 [−72,6%] Förändring: -903 [−40,8%]
 4K
-4K                   4K
+4K                  4K
 3K
 2K              2 410
-2K                   2K
+2K                  2K
 1K
-0K                  0K                495 0K            1 308
-2024    2025        2024    2025        2024    2025
+0K                  0K               495 0K             1 308
+2024    2025        2024    2025         2024   2025
 Yrkessvenska och annan språkutbildning         836 (34,7%)
-Folkhögskolesatsningen              787 (32,7%)
+Folkhögskolesatsningen             787 (32,7%)
+
 Korta Vägen          491 (20,4%)
+
 Yrkes- och studieförberedande moduler 170 (7,1%)
 Orientering, test och kartläggning 117 (4,9%)
+
 Övrigt 9 (0,4%)
+
 Kvarstående, nya och avslutade deltagare i förberedande utbildning samt fördelning per utbildningsinriktning
+
 21
 
 <!-- sida 190 -->

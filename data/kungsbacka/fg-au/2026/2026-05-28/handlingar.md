@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5025299019e4ad5ed2c203fe/1779709007
 sha256: 7563824c18f6e0c44aa9833be29ea457a38be6552bc1d094e6c7c8b6974ddbc2
 bytes: 1752947
 sidor: 38
-hamtad: 2026-10-23T07:57:07+00:00
-konverterad: 2026-10-23T07:57:13+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T09:39:40+00:00
+konverterad: 2026-11-06T09:39:48+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -571,39 +571,113 @@ fö rs k o la , Is e rå s s k o la n
 4.2 Sammanfattning aviserade förändringar i statsbidrag inom barn och
 utbildning i statens budget 2026
 
-Kungsbacka kommun          Statsbidrag 2026                     9
-S ta te n s b u d g e t 2 0 2 6
+S
+
+U
+
+T
+
+M
+
+B
+ta te n s b u d g e t 2
 O m rå d e
-U n d e rv is n in g s tid
-T ry g g h e t o c h s tu d ie ro
-M o b ilfö rb u d
-B e ty g s s y s te m
+n d e rv is n in g s tid
+ry g g h e t o c h s tu d
+o b ilfö rb u d
+e ty g s s y s te m
+0 2 6
+ie ro
+Ru2
+Ss
+Ng
+Nm
+F ö rä n d rin g
+e g le rin g a v lä ra re s
+n d e rv is n in g s tid frå
+0 2 7
+tä rk t try g g h e t o c h
+tu d ie ro i s k o la n
+a tio n e llt m o b ilfö rb
+ru n d s k o la n
+y tt b e ty g s s y s te m o
+e ritv ä rd e n
+n
+u
+c
+d
+h
+i
+B e lo p p
+1 ,3 m d k r (2 0 2 7 ), 2 ,6
+m d k r (2 0 2 8 )
+1 2 0 m n k r (2 0 2 6 ), 1 1
+m n k r (2 0 2 7 – 2 0 2 8 )
+9 5 m n k r (2 0 2 6 ), 1 0 0
+m n k r (2 0 2 7 – 2 0 2 8 )
+-3 6 ,8 m n k r (2 0 2 8 )
+8
+G
+G
+G
+G
+T y p a
+e n e re
+e n e re
+e n e re
+e n e re
+v s ta ts b id
+lla s ta ts b id
+lla s ta ts b id
+lla s ta ts b id
+lla s ta ts b id
+ra
+ra
+ra
+ra
+ra
+g
+g
+g
+g
+g
+K o rt b e s k riv n
+S y fta r till a tt s tä rk a lä ra re n s
+u n d e rv is n in g s u p p d ra g
+In s a ts e r fö r ö k a d s tu d ie ro o c h
+F in a n s ie rin g a v in fö ra n d e o c h
+M in s k n in g k o p p la d till im p le m
+in g
+s ä k e r s k
+ru tin e r
+e n te rin g
+o lm iljö
+
 S tö d i s k o la n
+
 M a x ta x a fö rs k o la /fritid
+
 K v a lite t fö rs k o la
+
 K u n s k a p s b id ra g s k o la
+
 S k o ls ä k e rh e t
+
 L ä ro p la n e r
+
 In fö ra n d e b id ra g fö r
 u tö k a d in s y n i e n s k ild a
 h u v u d m ä n
 s
-F ö rä n d rin g
-R e g le rin g a v lä ra re s
-u n d e rv is n in g s tid frå n
-2 0 2 7
-S tä rk t try g g h e t o c h
-s tu d ie ro i s k o la n
-N a tio n e llt m o b ilfö rb u d i
-g ru n d s k o la n
-N y tt b e ty g s s y s te m o c h
-m e ritv ä rd e n
+
 S tö d u n d e rv is n in g o c h
 e le v h ä ls a
+
 S ä n k ta a v g ifte r fö r
 v å rd n a d s h a v a re
 K v a lite ts h ö ja n d e
 å tg ä rd e r i fö rs k o la n
+
 T illfä llig fö rs tä rk n in g ,
 d ä re fte r m in s k n in g
 S ä k e rh e ts h ö ja n d e
@@ -611,17 +685,10 @@ S ä k e rh e ts h ö ja n d e
 S ta ts b id ra g fö rlä n g s
 Im p le m e n te rin g a v n y a
 lä ro p la n e r
+
 F ö rs tä rk n in g k o p p la d till
 ö k a d in s y n i
 fris k o le s e k to rn
-B e lo p p
-1 ,3 m d k r (2 0 2 7 ), 2 ,6
-m d k r (2 0 2 8 )
-1 2 0 m n k r (2 0 2 6 ), 1 1 8
-m n k r (2 0 2 7 – 2 0 2 8 )
-9 5 m n k r (2 0 2 6 ), 1 0 0
-m n k r (2 0 2 7 – 2 0 2 8 )
--3 6 ,8 m n k r (2 0 2 8 )
 5 6 9 m n k r (2 0 2 8 ), 2 0 0
 m n k r/å r (2 0 2 6 – 2 0 2 8 )
 \+ 1 m d k r (2 0 2 6 ), + 1 ,5
@@ -635,11 +702,6 @@ m n k r (2 0 2 8 )
 2 6 ,5 m n k r (2 0 2 6 ), 6 2
 m n k r (2 0 2 7 ), 7 1 m n k r
 (2 0 2 8 )
-T y p a v s ta ts b id ra
-G e n e re lla s ta ts b id ra
-G e n e re lla s ta ts b id ra
-G e n e re lla s ta ts b id ra
-G e n e re lla s ta ts b id ra
 B å d e g e n e re lla o c h
 rik ta d e
 R ik ta t s ta ts b id ra g
@@ -647,32 +709,29 @@ R ik ta t s ta ts b id ra g
 R ik ta t s ta ts b id ra g
 R ik ta t s ta ts b id ra g
 R ik ta t s ta ts b id ra g
-G e n e re lla s ta ts b id ra
-g
-g
-g
-g
-g
-g
-K o rt b e s k riv n in g
-S y fta r till a tt s tä rk a lä ra re n s
-u n d e rv is n in g s u p p d ra g
-In s a ts e r fö r ö k a d s tu d ie ro o c h s ä k e r s k o lm iljö
-F in a n s ie rin g a v in fö ra n d e o c h ru tin e r
-M in s k n in g k o p p la d till im p le m e n te rin g
+G e n e re lla s ta ts b id ra g
+
 F ö rs tä rk t s tö d o c h e le v h ä ls a
+
 K o m p e n s a tio n fö r m in s k a d e a v g ifts in tä k te r
+
 S y fta r till m in s k a d e b a rn g ru p p e r, re k ty te ra
 p e rs o n a l o c h s p rå k s tö d
+
 F ö rs tä rk n in g a v e le v e rs k u n s k a p s u tv e c k lin g
+
 P a s s e rs y s te m , s k a ls k y d d , k a m e ra b e v a k n in g
+
 In fö ra n d e a v n y a lä ro p la n e r
+
 M e d e l a v is e ra s in o m ra m e n fö r s k ä rp ta v illk o r
 fö r fris k o le s e k to rn . S y fte t ä r a tt s tä rk a in s y n e n i
 e n s k ild a h u v u d m ä n . D e t ä r s a m tid ig t o k la rt v ilk a
 k o n k re ta å tg ä rd e r s o m k o m m e r a tt g e n o m fö ra s ,
 v ilk e t in n e b ä r o s ä k ra p la n e rin g s fö ru ts ä ttn in g a r
 fö r h u v u d m ä n n e n .
+
+Kungsbacka kommun           Statsbidrag 2026                     9
 
 <!-- sida 15 -->
 

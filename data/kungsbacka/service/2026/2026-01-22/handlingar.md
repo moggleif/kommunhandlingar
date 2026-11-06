@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.45b391719bb98c9f25c85b0/17688061572
 sha256: 2adbf8bba394b6a59c591f1cccef91b08208bca76cc37b17249431094b45c9e8
 bytes: 5494295
 sidor: 172
-hamtad: 2026-10-23T10:35:19+00:00
-konverterad: 2026-10-23T10:35:51+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-06T12:24:31+00:00
+konverterad: 2026-11-06T12:25:07+00:00
+pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2847,35 +2847,48 @@ the previous provisions shall apply.
 1   Författningsförslag
 
 1.1  Förslag till lag om ändring i lagen (2016:1145) om offentlig
-
 upphandling
 
 Härigenom föreskrivs i fråga om lagen (2016:1145) om offentlig upphandling
+
 dels att 16 kap. 7 och 8 §§ och 19 kap. 18 § ska ha följande lydelse,
 dels att det ska införas tre nya paragrafer, 16 kap. 7 a–b §§ och 20 kap. 5 e § av
 följande lydelse.
 
-Nuvarande lydelse               Föreslagen lydelse
+Nuvarande lydelse              Föreslagen lydelse
 
 16 kap.
 
 7 §1
 
 Om ett anbud förefaller vara onormalt lågt, Den upphandlande myndigheten ska bedöma om
-
 ska den upphandlande myndigheten begära anbud förefaller vara onormalt låga. Om ett
 att leverantören förklarar det låga priset anbud förefaller vara onormalt lågt, ska den
-eller kostnaden. En sådan begäran om upphandlande myndigheten begära att
-förklaring kan gälla            leverantören förklarar hur kontraktet kan
-1\. om leverantören kan utnyttja särskilt fullgöras trots det låga priset eller kostnaden.
-kostnadseffektiva metoder för att fullgöra
-kontraktet,                     Om priset eller kostnaden för ett anbud är mer
 
-2\. om leverantören kan utnyttja tekniska än 30 procent lägre än det genomsnittliga priset
-lösningar eller ovanligt gynnsamma eller den genomsnittliga kostnaden för samtliga
-förhållanden för att fullgöra kontraktet, anbud i upphandlingen ska den upphandlande
-3\. egenarten hos de varor, tjänster eller myndigheten begära att leverantören lämnar en
-byggentreprenader som föreslås av leverantören, förklaring enligt första stycket.
+eller kostnaden. En sådan begäran om
+förklaring kan gälla
+1\. om leverantören kan utnyttja särskilt
+kostnadseffektiva metoder för att fullgöra
+
+kontraktet,
+2\. om leverantören kan utnyttja tekniska
+lösningar eller ovanligt gynnsamma
+förhållanden för att fullgöra kontraktet,
+3\. egenarten hos de varor, tjänster eller
+byggentreprenader som föreslås av leverantören,
+
+upphandlande myndigheten begära att
+leverantören förklarar hur kontraktet kan
+fullgöras trots det låga priset eller kostnaden.
+
+Om priset eller kostnaden för ett anbud är mer
+än 30 procent lägre än det genomsnittliga priset
+
+eller den genomsnittliga kostnaden för samtliga
+anbud i upphandlingen ska den upphandlande
+myndigheten begära att leverantören lämnar en
+förklaring enligt första stycket.
+
 4\. hur leverantören avser att fullgöra
 I begäran ska den upphandlande myndigheten
 kontraktet med avseende på tillämpliga miljö-,
@@ -2885,6 +2898,7 @@ medför att anbudet förefaller vara onormalt lågt.
 5\. om leverantören kan få statligt stöd, eller
 6\. skyldigheterna som avses i 17 kap. 6 eller
 7 §.
+
 Myndigheten ska förkasta anbudet om
 leverantören inte på ett tillfredsställande sätt
 har förklarat det låga priset eller kostnaden.
@@ -2949,45 +2963,63 @@ Den upphandlande myndigheten ska, innan den
 beslutar att förkasta ett anbud, ge leverantören
 tillfälle att inom en skälig tidsfrist yttra sig över
 de omständigheter som enligt den upphandlande
+
 myndigheten kan utgöra skäl för förkastande.
+
+Om en upphandlande myndighet finner att
+ett anbud är onormalt lågt på grund av att
+leverantören fått ett statligt stöd, ska
+myndigheten ge leverantören en möjlighet
+
+att inom skälig tid visa att stödet är
+förenligt med fördraget om Europeiska
+unionens funktionssätt (EUF-fördraget).
 
 8 §
 
-Om en upphandlande myndighet finner att Om den upphandlande myndigheten finner
-ett anbud är onormalt lågt på grund av att att ett anbud är onormalt lågt på grund av
-leverantören fått ett statligt stöd, ska att leverantören fått ett statligt stöd, ska
-myndigheten ge leverantören en möjlighet myndigheten ge leverantören en möjlighet
-att inom skälig tid visa att stödet är att inom skälig tid visa att stödet är
-förenligt med fördraget om Europeiska förenligt med fördraget om Europeiska
-unionens funktionssätt (EUF-fördraget). unionens funktionssätt (EUF-fördraget).
+Om den upphandlande myndigheten finner
+att ett anbud är onormalt lågt på grund av
+att leverantören fått ett statligt stöd, ska
+myndigheten ge leverantören en möjlighet
+
+att inom skälig tid visa att stödet är
+förenligt med fördraget om Europeiska
+unionens funktionssätt (EUF-fördraget).
 
 Om leverantören efter en sådan åtgärd som avses i första stycket inte visat att stödet i
-
 fråga är förenligt med EUF-fördraget, ska anbudet förkastas.
 
 En upphandlande myndighet som förkastar Den upphandlande myndigheten ska, innan den
 ett anbud med stöd av andra stycket ska beslutar att förkasta ett anbud, ge leverantören
 underrätta Europeiska kommissionen om tillfälle att inom en skälig tidsfrist yttra sig över
-det.                            de omständigheter som enligt den upphandlande
+
+det.                           de omständigheter som enligt den upphandlande
 myndigheten kan utgöra skäl för förkastande.
 
 En upphandlande myndighet som förkastar
 ett anbud med stöd av andra stycket ska
-
 underrätta Europeiska kommissionen om
 det.
+
+En upphandlande myndighet får förkasta
+ett anbud om den finner att anbudet är
+onormalt lågt. Anbudet får dock förkastas
+först sedan myndigheten begärt en
+
+förklaring och inte fått tillfredsställande
+svar.
 
 19 kap.
 
 18 §2
 
-En upphandlande myndighet får förkasta En upphandlande myndighet ska förkasta
-ett anbud om den finner att anbudet är ett anbud om den finner att anbudet är
-onormalt lågt. Anbudet får dock förkastas onormalt lågt. Anbudet ska dock förkastas
-först sedan myndigheten begärt en först sedan myndigheten begärt en
-förklaring och inte fått tillfredsställande förklaring och inte fått tillfredsställande
+En upphandlande myndighet ska förkasta
+ett anbud om den finner att anbudet är
+onormalt lågt. Anbudet ska dock förkastas
 
-svar.                           svar.
+först sedan myndigheten begärt en
+förklaring och inte fått tillfredsställande
+svar.
 
 2 Senaste lydelse 2021:1110.
 12
@@ -3016,46 +3048,68 @@ påbörjats före ikraftträdandet.
 upphandling inom försörjningssektorerna
 
 Härigenom föreskrivs i fråga om lagen (2016:1146) om upphandling inom
-försörjningssektorerna
 
+försörjningssektorerna
 dels att 15 kap. 7 och 8 §§ och 19 kap. 18 § ska ha följande lydelse,
 dels att det ska införas fyra nya paragrafer, 15 kap. 7 a–b §§ och 20 kap. 5 e § av
 följande lydelse.
 
-Nuvarande lydelse            Föreslagen lydelse
+Nuvarande lydelse           Föreslagen lydelse
 
 15 kap.
 
-7 §3
+Om ett anbud förefaller vara onormalt
+lågt, ska den upphandlande enheten
+begära att leverantören förklarar det
+låga priset eller kostnaden. En sådan
 
-Om ett anbud förefaller vara onormalt Den upphandlande enheten ska bedöma om
-lågt, ska den upphandlande enheten anbud förefaller vara onormalt låga. Om
-begära att leverantören förklarar det ett anbud förefaller vara onormalt lågt
-låga priset eller kostnaden. En sådan ska den upphandlande enheten begära
-
-begäran om förklaring kan gälla att leverantören förklarar hur kontraktet
-1\. om leverantören kan utnyttja särskilt kan fullgöras trots det låga priset eller
-kostnadseffektiva metoder för att fullgöra kostnaden.
+begäran om förklaring kan gälla
+1\. om leverantören kan utnyttja särskilt
+kostnadseffektiva metoder för att fullgöra
 kontraktet,
-2\. om leverantören kan utnyttja tekniska Om priset eller kostnaden för ett anbud är
-lösningar eller ovanligt gynnsamma mer än 30 procent lägre än det
-förhållanden för att fullgöra kontraktet, genomsnittliga priset eller den
+2\. om leverantören kan utnyttja tekniska
+lösningar eller ovanligt gynnsamma
+förhållanden för att fullgöra kontraktet,
 
-3\. egenarten hos de varor, tjänster eller genomsnittliga kostnaden för samtliga
-byggentreprenader som föreslås av anbud i upphandlingen ska den
-leverantören,                upphandlande enheten begära att
-4\. hur leverantören avser att fullgöra leverantören lämnar en förklaring enligt
-kontraktet med avseende på tillämpliga första stycket.
+3\. egenarten hos de varor, tjänster eller
+byggentreprenader som föreslås av
+leverantören,
+4\. hur leverantören avser att fullgöra
+kontraktet med avseende på tillämpliga
 miljö-, social- och arbetsrättsliga
-I begäran ska den upphandlande enheten
 skyldigheter,
-precisera vilka delar av anbudet som den
+
 5\. om leverantören kan få statligt stöd,
-anser medför att anbudet förefaller vara
 eller
-onormalt lågt.
 6\. skyldigheterna som avses i 16 kap. 6
 eller 7 §.
+
+7 §3
+
+Den upphandlande enheten ska bedöma om
+anbud förefaller vara onormalt låga. Om
+ett anbud förefaller vara onormalt lågt
+ska den upphandlande enheten begära
+
+att leverantören förklarar hur kontraktet
+kan fullgöras trots det låga priset eller
+kostnaden.
+
+Om priset eller kostnaden för ett anbud är
+mer än 30 procent lägre än det
+genomsnittliga priset eller den
+genomsnittliga kostnaden för samtliga
+
+anbud i upphandlingen ska den
+upphandlande enheten begära att
+leverantören lämnar en förklaring enligt
+första stycket.
+
+I begäran ska den upphandlande enheten
+precisera vilka delar av anbudet som den
+anser medför att anbudet förefaller vara
+onormalt lågt.
+
 Enheten ska förkasta anbudet om
 leverantören inte på ett tillfredsställande
 sätt har förklarat det låga priset eller
@@ -3070,8 +3124,8 @@ En upphandlande enhet ska också förkasta
 en leverantörs anbud om den finner att det
 onormalt låga priset beror på att anbudet
 inte stämmer överens med tillämpliga
-miljö-, social- eller arbetsrättsliga
 
+miljö-, social- eller arbetsrättsliga
 skyldigheter.
 
 7 a §
@@ -3080,27 +3134,27 @@ Den upphandlande enheten ska bedöma de
 förklaringar som lämnats av leverantören.
 Vid bedömningen av om en förklaring är
 tillfredsställande ska särskild hänsyn tas till
+
 om leverantören har visat att anbudet är
 trovärdigt och seriöst menat.
 
 Leverantörens förklaring kan avse
-
 1\. om leverantören kan utnyttja särskilt
 kostnadseffektiva metoder för att fullgöra
 kontraktet,
 2\. om leverantören kan utnyttja tekniska
+
 lösningar eller ovanligt gynnsamma
 förhållanden för att fullgöra kontraktet,
 3\. egenarten hos de varor, tjänster eller
-
 byggentreprenader som föreslås av
 leverantören,
 4\. hur leverantören avser att fullgöra
 kontraktet med avseende på tillämpliga
+
 miljö-, social- eller arbetsrättsliga
 skyldigheter,
 5\. om leverantören kan få statligt stöd,
-
 eller
 6\. skyldigheterna som avses i 16 kap.
 6 eller 7 §.
@@ -3108,10 +3162,10 @@ eller
 7 b §
 
 Den upphandlande enheten ska förkasta
+
 anbudet om leverantören inte lämnat en
 tillfredsställande förklaring av hur
 kontraktet kan fullgöras trots det låga priset
-
 eller kostnaden.
 
 15
@@ -3122,8 +3176,8 @@ Den upphandlande enheten ska också
 förkasta en leverantörs anbud om den
 finner att det onormalt låga priset beror på
 att anbudet inte stämmer överens med
-tillämpliga miljö-, social- eller
 
+tillämpliga miljö-, social- eller
 arbetsrättsliga skyldigheter.
 
 Den upphandlande enheten ska, innan den
@@ -3135,29 +3189,38 @@ utgöra skäl för förkastande.
 
 8 §
 
-Om en upphandlande enhet finner att Om den upphandlande enheten finner
+Om en upphandlande enhet finner att
+ett anbud är onormalt lågt på grund av
+att leverantören fått ett statligt stöd, ska
+enheten ge leverantören en möjlighet
 
-ett anbud är onormalt lågt på grund av att ett anbud är onormalt lågt på grund
-att leverantören fått ett statligt stöd, ska av att leverantören fått ett statligt stöd,
-enheten ge leverantören en möjlighet ska enheten ge leverantören en
-att inom skälig tid visa att stödet är möjlighet att inom skälig tid visa att
-förenligt med fördraget om Europeiska stödet är förenligt med fördraget om
-unionens funktionssätt (EUF- Europeiska unionens funktionssätt
-fördraget).                  (EUF-fördraget).
+att inom skälig tid visa att stödet är
+förenligt med fördraget om Europeiska
+unionens funktionssätt (EUF-
+fördraget).
+
+Om den upphandlande enheten finner
+att ett anbud är onormalt lågt på grund
+av att leverantören fått ett statligt stöd,
+ska enheten ge leverantören en
+
+möjlighet att inom skälig tid visa att
+stödet är förenligt med fördraget om
+Europeiska unionens funktionssätt
+(EUF-fördraget).
 
 Om leverantören efter en sådan åtgärd som avses i första stycket inte visat att
-
 stödet i fråga är förenligt med EUF-fördraget, ska anbudet förkastas.
 
 En upphandlande enhet som förkastar Den upphandlande enheten ska, innan den
 ett anbud med stöd av andra stycket beslutar att förkasta ett anbud, ge
-ska underrätta Europeiska    leverantören tillfälle att inom en skälig
-kommissionen om det.         tidsfrist yttra sig över de omständigheter
+ska underrätta Europeiska   leverantören tillfälle att inom en skälig
+kommissionen om det.        tidsfrist yttra sig över de omständigheter
+
 som enligt den upphandlande enheten kan
 utgöra skäl för förkastande.
 
 En upphandlande enhet som förkastar
-
 ett anbud med stöd av andra stycket
 ska underrätta Europeiska
 kommissionen om det.
@@ -3170,13 +3233,21 @@ kommissionen om det.
 
 18 §4
 
-En upphandlande enhet får förkasta ett En upphandlande enhet ska förkasta ett
-anbud om den finner att anbudet är anbud om den finner att anbudet är
-onormalt lågt. Anbudet får dock onormalt lågt. Anbudet ska dock
-förkastas först sedan enheten begärt en förkastas först sedan enheten begärt en
+En upphandlande enhet får förkasta ett
+anbud om den finner att anbudet är
+onormalt lågt. Anbudet får dock
+förkastas först sedan enheten begärt en
 
-förklaring och inte fått tillfredsställande förklaring och inte fått tillfredsställande
-svar.                        svar.
+förklaring och inte fått tillfredsställande
+svar.
+
+En upphandlande enhet ska förkasta ett
+anbud om den finner att anbudet är
+onormalt lågt. Anbudet ska dock
+förkastas först sedan enheten begärt en
+
+förklaring och inte fått tillfredsställande
+svar.
 
 20 kap.
 
@@ -3185,6 +3256,7 @@ svar.                        svar.
 Om det inte finns särskilda skäl ska endast
 den förklaring av ett anbud som
 leverantören har lämnat enligt 15 kap.
+
 7–8 §§ eller 19 kap. 18 § beaktas vid en
 överprövning enligt 20 kap. 4 §.
 
@@ -3202,26 +3274,36 @@ påbörjats före ikraftträdandet.
 upphandling på försvars- och säkerhetsområdet
 
 Härigenom föreskrivs i fråga om lagen (2011:1029) om upphandling på försvars-
-och säkerhetsområdet
 
+och säkerhetsområdet
 dels att 13 kap. 3–4 §§ och 15 kap. 17 § ska ha följande lydelse,
 dels att det ska införas en ny paragraf, 16 kap. 5 e § av följande lydelse.
 
-Nuvarande lydelse            Föreslagen lydelse
+Nuvarande lydelse           Föreslagen lydelse
 
 13 kap.
 
+En upphandlande myndighet eller
+enhet får förkasta ett anbud om den
+finner att priset är onormalt lågt.
+Anbudet får dock förkastas först sedan
+
+myndigheten eller enheten skriftligen
+begärt en förklaring till det låga
+anbudet och inte fått ett
+tillfredsställande svar.
+
 3 §
 
-En upphandlande myndighet eller En upphandlande myndighet eller
-enhet får förkasta ett anbud om den enhet ska förkasta ett anbud om den
-finner att priset är onormalt lågt. finner att priset är onormalt lågt.
-Anbudet får dock förkastas först sedan Anbudet ska dock förkastas först sedan
-myndigheten eller enheten skriftligen myndigheten eller enheten skriftligen
+En upphandlande myndighet eller
+enhet ska förkasta ett anbud om den
+finner att priset är onormalt lågt.
+Anbudet ska dock förkastas först sedan
 
-begärt en förklaring till det låga begärt en förklaring till det låga
-anbudet och inte fått ett    anbudet och inte fått ett
-tillfredsställande svar.     tillfredsställande svar.
+myndigheten eller enheten skriftligen
+begärt en förklaring till det låga
+anbudet och inte fått ett
+tillfredsställande svar.
 
 En begäran om förklaring kan gälla
 1\. om anbudsgivaren kan utnyttja särskilt kostnadseffektiva metoder att fullgöra
@@ -3242,15 +3324,24 @@ beaktande av de lämnade förklaringarna.
 
 4 §
 
-Om en upphandlande myndighet eller Om en upphandlande myndighet eller
-enhet finner att ett anbud är onormalt enhet finner att ett anbud är onormalt
-lågt på grund av att anbudsgivaren har lågt på grund av att anbudsgivaren har
-fått statligt stöd, får myndigheten eller fått statligt stöd, ska myndigheten eller
-enheten begära en förklaring av enheten begära en förklaring av
-anbudsgivaren. Kan anbudsgivaren anbudsgivaren. Kan anbudsgivaren
+Om en upphandlande myndighet eller
+enhet finner att ett anbud är onormalt
+lågt på grund av att anbudsgivaren har
+fått statligt stöd, får myndigheten eller
 
-inte efter en sådan begäran och inom en inte efter en sådan begäran och inom en
+enheten begära en förklaring av
+anbudsgivaren. Kan anbudsgivaren
+inte efter en sådan begäran och inom en
 18
+
+Om en upphandlande myndighet eller
+enhet finner att ett anbud är onormalt
+lågt på grund av att anbudsgivaren har
+fått statligt stöd, ska myndigheten eller
+
+enheten begära en förklaring av
+anbudsgivaren. Kan anbudsgivaren
+inte efter en sådan begäran och inom en
 
 <!-- sida 75 -->
 
@@ -3258,24 +3349,33 @@ skälig tidsfrist som angetts av den skälig tidsfrist som angetts av den
 upphandlande myndigheten eller upphandlande myndigheten eller
 enheten visa att det är fråga om ett med enheten visa att det är fråga om ett med
 EUF-fördraget förenligt stöd, får EUF-fördraget förenligt stöd, ska
-anbudet förkastas.           anbudet förkastas.
+
+anbudet förkastas.          anbudet förkastas.
 
 En upphandlande myndighet eller enhet som förkastar ett anbud enligt första
-
 stycket ska underrätta Europeiska kommissionen om det.
 
 15 kap.
 
 17 §5
 
-En upphandlande myndighet eller En upphandlande myndighet eller
-enhet får förkasta ett anbud om den enhet ska förkasta ett anbud om den
-finner att anbudet är onormalt lågt. finner att anbudet är onormalt lågt.
-Anbudet får dock förkastas först sedan Anbudet ska dock förkastas först sedan
-myndigheten eller enheten begärt en myndigheten eller enheten begärt en
+En upphandlande myndighet eller
+enhet får förkasta ett anbud om den
+finner att anbudet är onormalt lågt.
+Anbudet får dock förkastas först sedan
 
-förklaring och inte fått tillfredsställande förklaring och inte fått tillfredsställande
-svar.                        svar.
+myndigheten eller enheten begärt en
+förklaring och inte fått tillfredsställande
+svar.
+
+En upphandlande myndighet eller
+enhet ska förkasta ett anbud om den
+finner att anbudet är onormalt lågt.
+Anbudet ska dock förkastas först sedan
+
+myndigheten eller enheten begärt en
+förklaring och inte fått tillfredsställande
+svar.
 
 16 kap.
 
@@ -3284,6 +3384,7 @@ svar.                        svar.
 Om det inte finns särskilda skäl ska endast
 den förklaring av ett anbud som
 leverantören har lämnat enligt 13 kap. 3–4
+
 §§ eller 15 kap. 17 § beaktas vid en
 överprövning enligt 16 kap. 4 §.
 
