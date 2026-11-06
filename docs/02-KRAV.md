@@ -1321,12 +1321,14 @@ och [Webbplatsen](03-ARKITEKTUR.md#webbplatsen).
 - **Så** har den flikar: Sammanträden och de sidor över tid som organet
   har, i samma ordning för alla organ, med den visade sidan markerad.
 
-## K41 — Text i spalter läses i läsordning
+## K41 — Text läses i läsordning
 
 Issue: [#218](https://github.com/moggleif/kommunhandlingar/issues/218).
 Hur och varför står i
-[ADR-0063](decisions/0063-spalter-lases-spalt-for-spalt.md) och
-[Spalter](03-ARKITEKTUR.md#spalter).
+[ADR-0063](decisions/0063-spalter-lases-spalt-for-spalt.md),
+[ADR-0064](decisions/0064-text-pa-hogkant-skrivs-sist.md),
+[Spalter](03-ARKITEKTUR.md#spalter) och
+[Text på högkant](03-ARKITEKTUR.md#text-på-högkant).
 
 - **Givet** en sida ur textlagret med löptext i två eller flera spalter
   bredvid varandra, till exempel en månadsrapport eller en årsredovisning
@@ -1342,3 +1344,9 @@ Hur och varför står i
   som ett brevhuvud i två fält, en ärendelista eller talrader
 - **När** sidan konverteras
 - **Så** läses den som förut, rad för rad med uppställningen kvar.
+- **Givet** text på högkant utanför tabellerna, som en stämpel, ett
+  diarienummer eller ett sidhuvud i marginalen, på en sida ur textlagret
+  eller en sida som lästs med OCR
+- **När** sidan konverteras
+- **Så** står den inte inne i sidans text, utan sist på sidan, en rad på
+  högkant per stycke, i sin läsriktning: `OKTOBER` och inte `REBOTKO`.
