@@ -96,8 +96,8 @@ python3 -m kommunhandlingar.hamta kommuner/kungsbacka.toml /tmp/kommunhandlingar
 ```
 
 PDF-fixturerna i `tests/fixtures/pdf/` skapas av `skapa.py`, som behöver
-reportlab, pypdf och Pillow, och `skapa_skarvar.py`, som behöver
-reportlab. De är inte projektets beroenden.
+reportlab, pypdf och Pillow, och `skapa_skarvar.py` och `skapa_spalter.py`,
+som behöver reportlab. De är inte projektets beroenden.
 
 ## Facit för konverteringen
 

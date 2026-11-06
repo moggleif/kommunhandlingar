@@ -1320,3 +1320,25 @@ och [Webbplatsen](03-ARKITEKTUR.md#webbplatsen).
 - **När** den visas
 - **Så** har den flikar: Sammanträden och de sidor över tid som organet
   har, i samma ordning för alla organ, med den visade sidan markerad.
+
+## K41 — Text i spalter läses i läsordning
+
+Issue: [#218](https://github.com/moggleif/kommunhandlingar/issues/218).
+Hur och varför står i
+[ADR-0063](decisions/0063-spalter-lases-spalt-for-spalt.md) och
+[Spalter](03-ARKITEKTUR.md#spalter).
+
+- **Givet** en sida ur textlagret med löptext i två eller flera spalter
+  bredvid varandra, till exempel en månadsrapport eller en årsredovisning
+- **När** sidan konverteras
+- **Så** står varje spalt hel i texten, från vänster till höger, och en
+  rubrik över hela bredden står före spalterna. En mening som fortsätter
+  i nästa spalt står direkt efter spaltens sista rad, i ett nytt stycke.
+- **Givet** en bildtext eller en faktaruta i en spalt
+- **När** sidan konverteras
+- **Så** står den på egna rader i sin spalt, och inte inne i en mening
+  ur en annan spalt.
+- **Givet** en sida där det som står bredvid varandra inte är löptext,
+  som ett brevhuvud i två fält, en ärendelista eller talrader
+- **När** sidan konverteras
+- **Så** läses den som förut, rad för rad med uppställningen kvar.
