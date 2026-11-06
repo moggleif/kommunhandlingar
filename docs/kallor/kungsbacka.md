@@ -264,8 +264,12 @@ i poolen), med de här skillnaderna:
 - **Alliansens måldokument** ligger efter förvaltningens förslag i
   handlingarna till budgetmötena 2024-11-13 och 2025-11-12, och
   protokollet säger att nämnden godkände budgeten med Alliansens mål.
-  Målfilen citerar då måldokumentet. Delårsrapporten 2025 återger ändå
-  förvaltningens formulering av ett mål.
+  Målfilen citerar då måldokumentet. Delårsrapporten och årsredovisningen
+  2025 återger ändå förvaltningens formulering av två av målen.
+- **Nämndbudget 2024** beslutades med Alliansens förslag (protokollet
+  2023-10-18), men förslaget finns inte i poolen; handlingarna har bara
+  förvaltningens budget. Målfilen har därför 2024 bara ur
+  delårsrapporten och årsredovisningen.
 - **Direktiven 2020–2023** är många uppdrag att redovisa något ("Redovisning
   av situationen för nyanlända elever"). Budgetarna skriver dem i löptext,
   så målfilen tar dem ur delårsrapporten och årsredovisningen, där de har
@@ -342,6 +346,9 @@ bilagor, utan prioritering; 2026 står de bara i handlingarna. Lokalplanens
 löpnummer för förskolor och skolor ligger mellan 227 och 364. Lokalfilen
 har nämndens steg 2021–2026, lokalplanen 2025 och 2026 och
 startbesluten; servicenämndens projekt för FG är inte lästa än.
+Lokalplanens avvecklingsposter (paviljonger, Tingbergsskolan, Fjordskolan,
+Åsa Gårdsskola) står inte med, och inte heller poster med en bokstav i
+löpnumret (227a, 236b), eftersom filen bara tar siffror.
 
 ### Nämndernas initiativärenden
 
